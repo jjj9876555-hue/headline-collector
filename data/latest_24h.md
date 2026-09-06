@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 08:48 JST／対象: 09/06 08:48 〜 09/07 08:48 JST（時刻はすべて日本時間）
+生成: 2026-09-07 08:59 JST／対象: 09/06 08:59 〜 09/07 08:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
 | FirstSquawk | 250 | 09/06 09:55 | 09/07 05:27 | ⚠ 59分（20:52→21:51） |
-| financialjuice | 18 | 09/06 10:17 | 09/07 08:27 | ⚠ 833分（17:17→07:11） |
+| financialjuice | 19 | 09/06 10:17 | 09/07 08:50 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 268 行（統合前 271 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 269 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -292,3 +292,4 @@
 - 09/07 07:11 [financialjuice] North Korea's Kim Jong Un: dangerous shadows must be eliminated - KCNA
 - 09/07 07:11 [financialjuice] North Korea’s Kim Jong Un: currently executing key plan to boost naval forces, will demonstrate results in 8 months - KCNA
 - 09/07 08:27 [financialjuice] Average of 10 commodity vessels cross Strait of Hormuz daily, lowest since May, Kpler 10-day moving average says
+- 09/07 08:50 [financialjuice] Japan foreign reserves $1,207.524 billion at end-August, down from $1,287.099 billion at end-July: MOF
