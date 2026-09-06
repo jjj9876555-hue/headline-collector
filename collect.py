@@ -41,6 +41,12 @@ NITTER_INSTANCES = [
     "https://nitter.privacydev.net",
 ]
 
+# X の取得順（Telegramミラーが無いアカウントを先に。埋め込み窓口は同じIPから連続で叩くと 429 になりやすい）
+X_FETCH_ORDER = ["Yuto_Headline", "SBILM", "financialjuice", "DeItaone", "FirstSquawk"]
+X_SPACING_SEC = 12          # アカウント間の待ち（秒）
+X_429_WAITS = [30, 60]      # 429 が出たときの待ち（秒）。1回目30秒→2回目60秒→それでもだめなら諦める
+X_PHASE_BUDGET_SEC = 360    # X 取得全体の上限（秒）。超えたら残りは諦めて先へ進む
+
 KEEP_HOURS = 72             # 溜めておく時間
 DIGEST_HOURS = [6, 12, 24]  # 書き出すダイジェストの窓
 HIGH_FREQ = ["DeItaone", "FirstSquawk", "financialjuice"]  # 空白チェックの対象
@@ -125,32 +131,28 @@ def to_int(v):
 
 
 # ---------------------------------------------------------------- X（埋め込み用の公開エンドポイント・認証不要）
-SYND_BLOCKED = False          # この実行中に 429 が続いたら以降は埋め込みルートを飛ばす
 DEAD_INSTANCES = set()        # この実行中に落ちていた Nitter インスタンス
 
 
-def fetch_x(handle):
-    """埋め込みルート（最大2回）→ だめなら Nitter RSS の順で試す。戻り値: (items, route)"""
-    global SYND_BLOCKED
+def fetch_x(handle, deadline):
+    """埋め込みルート（429なら待って再試行）→ だめなら Nitter RSS。戻り値: (items, route)"""
     errs = []
-    if not SYND_BLOCKED:
-        for attempt in range(2):
-            try:
-                return fetch_x_syndication(handle), "syndication"
-            except requests.HTTPError as e:
-                code = e.response.status_code if e.response is not None else None
-                errs.append(f"syndication http {code}")
-                if code == 429 and attempt == 0:
-                    time.sleep(10 + random.uniform(0, 5))
-                    continue
-                if code == 429:
-                    SYND_BLOCKED = True
-                break
-            except Exception as e:
-                errs.append(f"syndication {str(e)[:60]}")
-                break
-    else:
-        errs.append("syndication skipped (429)")
+    for attempt in range(len(X_429_WAITS) + 1):
+        if time.time() > deadline:
+            errs.append("syndication skipped (時間切れ)")
+            break
+        try:
+            return fetch_x_syndication(handle), "syndication"
+        except requests.HTTPError as e:
+            code = e.response.status_code if e.response is not None else None
+            errs.append(f"syndication http {code}")
+            if code == 429 and attempt < len(X_429_WAITS):
+                time.sleep(X_429_WAITS[attempt] + random.uniform(0, 5))
+                continue
+            break
+        except Exception as e:
+            errs.append(f"syndication {str(e)[:60]}")
+            break
     try:
         items, base = fetch_x_rss(handle)
         return items, f"rss:{base}"
@@ -160,7 +162,7 @@ def fetch_x(handle):
 
 
 def fetch_x_rss(handle):
-    last_err = None
+    last_err = "全インスタンス不通"
     for base in NITTER_INSTANCES:
         if base in DEAD_INSTANCES:
             continue
@@ -553,13 +555,20 @@ def main():
     known = set(store.keys())
     status = {"run_utc": now_utc().isoformat(timespec="seconds"), "sources": {}}
 
-    for h in X_ACCOUNTS:
+    deadline = time.time() + X_PHASE_BUDGET_SEC
+    order = [h for h in X_FETCH_ORDER if h in X_ACCOUNTS] + [h for h in X_ACCOUNTS if h not in X_FETCH_ORDER]
+    last_failed_429 = False
+    for i, h in enumerate(order):
+        if i:
+            time.sleep(X_SPACING_SEC + (30 if last_failed_429 else 0))
         try:
-            items, route = fetch_x(h)
+            items, route = fetch_x(h, deadline)
             status["sources"][f"x:{h}"] = {"ok": True, "route": route, "fetched": len(items), "new": add_items(store, items)}
+            last_failed_429 = False
         except Exception as e:
-            status["sources"][f"x:{h}"] = {"ok": False, "error": str(e)[:200]}
-        time.sleep(1)
+            msg = str(e)[:200]
+            status["sources"][f"x:{h}"] = {"ok": False, "error": msg}
+            last_failed_429 = "429" in msg
 
     for ch, acc in TG_CHANNELS.items():
         try:
