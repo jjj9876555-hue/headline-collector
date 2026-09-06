@@ -7,32 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-06 14:25 JST／対象: 09/06 02:25 〜 09/06 14:25 JST（時刻はすべて日本時間）
+生成: 2026-09-06 14:37 JST／対象: 09/06 02:37 〜 09/06 14:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/06 02:36 | 09/06 07:38 | ⚠ 123分（02:42→04:45） |
-| FirstSquawk | 85 | 09/06 09:55 | 09/06 14:21 | 18分（09:55→10:13） |
-| financialjuice | 16 | 09/06 02:28 | 09/06 12:26 | ⚠ 176分（04:40→07:37） |
+| DeItaone | 6 | 09/06 02:39 | 09/06 07:38 | ⚠ 123分（02:42→04:45） |
+| FirstSquawk | 86 | 09/06 09:55 | 09/06 14:31 | 18分（09:55→10:13） |
+| financialjuice | 11 | 09/06 02:38 | 09/06 12:26 | ⚠ 176分（04:40→07:37） |
 | Yuto_Headline | 0 | - | - | - |
 | SBILM | 0 | - | - | - |
 
 - 今回の取得: Telegramミラー 3/3、X直接 0/5（混雑のため全滅。次回以降の実行で再挑戦）
 - 注意: Yuto_Headline・SBILM はミラーが無くX直接も失敗。表の件数は過去に成功した回の分です
-- 統合後 108 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 02:28 [financialjuice] Greek prime minister unveils tax reductions, wage increases totaling 2.2 billion euros for 2027
-- 09/06 02:31 [financialjuice] Iran’s military command warns strikes on U.S. naval vessels in region will escalate if Washington persists with maritime blockade - state media
-- 09/06 02:34 [financialjuice] Iran's top joint military command: Strikes could broaden if US persists in 'harassing' Iranian vessels - state media
-- 09/06 02:36 [DeItaone] IRAN'S TOP JOINT MILITARY COMMAND SAYS STRIKES COULD EXPAND IF U.S. CONTINUES 'HARASSMENT' OF IRANIAN SHIPS - STATE MEDIA
-- 09/06 02:37 [financialjuice] Putin to US: Contacts with Witkoff and Kushner are always beneficial
-- 09/06 02:37 [financialjuice] Putin: it's convenient for Russia to collaborate with US's Witkoff and Kushner
 - 09/06 02:38 [financialjuice] Witkoff tells Putin: Trump sends his best wishes
 - 09/06 02:39 [financialjuice] Witkoff tells Putin: Gilman family expressed gratitude for letting him return home
 - 09/06 02:39 [DeItaone] WITKOFF TELLS PUTIN: TRUMP SENT YOU HIS BEST WISHES
@@ -135,3 +129,4 @@
 - 09/06 14:01 [FirstSquawk] Japan opposition Democratic Party for People reelects Tamaki as leader - KYODO
 - 09/06 14:11 [FirstSquawk] Insurers pile on risk as payouts fall to lowest level in 20 years - FT
 - 09/06 14:21 [FirstSquawk] Swedish industrialist Wallenberg warns on leftwing opposition’s higher tax plans - FT
+- 09/06 14:31 [FirstSquawk] UBS demands new junior bankers show AI proficiency- FT

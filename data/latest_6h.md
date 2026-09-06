@@ -7,20 +7,20 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-06 14:25 JST／対象: 09/06 08:25 〜 09/06 14:25 JST（時刻はすべて日本時間）
+生成: 2026-09-06 14:37 JST／対象: 09/06 08:37 〜 09/06 14:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 85 | 09/06 09:55 | 09/06 14:21 | 18分（09:55→10:13） |
+| FirstSquawk | 86 | 09/06 09:55 | 09/06 14:31 | 18分（09:55→10:13） |
 | financialjuice | 3 | 09/06 10:17 | 09/06 12:26 | ⚠ 112分（10:17→12:09） |
 | Yuto_Headline | 0 | - | - | - |
 | SBILM | 0 | - | - | - |
 
 - 今回の取得: Telegramミラー 3/3、X直接 0/5（混雑のため全滅。次回以降の実行で再挑戦）
 - 注意: Yuto_Headline・SBILM はミラーが無くX直接も失敗。表の件数は過去に成功した回の分です
-- 統合後 88 行（統合前 88 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 89 行（統合前 89 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -115,3 +115,4 @@
 - 09/06 14:01 [FirstSquawk] Japan opposition Democratic Party for People reelects Tamaki as leader - KYODO
 - 09/06 14:11 [FirstSquawk] Insurers pile on risk as payouts fall to lowest level in 20 years - FT
 - 09/06 14:21 [FirstSquawk] Swedish industrialist Wallenberg warns on leftwing opposition’s higher tax plans - FT
+- 09/06 14:31 [FirstSquawk] UBS demands new junior bankers show AI proficiency- FT
