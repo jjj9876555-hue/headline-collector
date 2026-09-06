@@ -7,19 +7,19 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-06 14:00 JST／対象: 09/06 08:00 〜 09/06 14:00 JST（時刻はすべて日本時間）
+生成: 2026-09-06 14:04 JST／対象: 09/06 08:04 〜 09/06 14:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 82 | 09/06 09:55 | 09/06 13:58 | 18分（09:55→10:13） |
+| FirstSquawk | 83 | 09/06 09:55 | 09/06 14:01 | 18分（09:55→10:13） |
 | financialjuice | 3 | 09/06 10:17 | 09/06 12:26 | ⚠ 112分（10:17→12:09） |
 | Yuto_Headline | 0 | - | - | - |
 | SBILM | 0 | - | - | - |
 
-- 今回の取得: X 0/5 成功、Telegramミラー 3/3 成功。エラー: x:Yuto_Headline、x:SBILM、x:financialjuice、x:DeItaone、x:FirstSquawk
-- 統合後 85 行（統合前 85 件）。同文は1行にまとめ、アカウントを併記しています
+- 今回の取得: X 5/5 成功（経路: syndication 5）、Telegramミラー 3/3 成功
+- 統合後 86 行（統合前 86 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -111,3 +111,4 @@
 - 09/06 13:38 [FirstSquawk] Tokyo, Washington to step up investment cooperation under 2025 trade pact ( @FirstSquaw )
 - 09/06 13:50 [FirstSquawk] U.S. Ambassador to Israel Mike Huckabee on Saturday condemned escalating settler attacks in the occupied West Bank and labeled the perpetrators "terrorists." - Yahoo ( @FirstSquaw )
 - 09/06 13:58 [FirstSquawk] Meta readies Hatch AI agent for consumer launch as it seeks to monetize AI spending ( @FirstSquaw )
+- 09/06 14:01 [FirstSquawk] Japan opposition Democratic Party for People reelects Tamaki as leader - KYODO ( @FirstSquaw )
