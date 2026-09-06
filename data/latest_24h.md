@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-06 22:16 JST／対象: 09/05 22:16 〜 09/06 22:16 JST（時刻はすべて日本時間）
+生成: 2026-09-06 22:30 JST／対象: 09/05 22:30 〜 09/06 22:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/05 22:42 | 09/06 07:38 | ⚠ 123分（02:42→04:45） |
-| FirstSquawk | 172 | 09/06 09:55 | 09/06 21:52 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 178 | 09/06 09:55 | 09/06 22:22 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 24 | 09/05 23:31 | 09/06 17:17 | ⚠ 176分（04:40→07:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 204 行（統合前 207 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 210 行（統合前 213 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -228,3 +228,9 @@
 - 09/06 21:51 [FirstSquawk] Jerusalem Governorate: Occupation authorities issue 15 deportation orders against clergy and Jerusalemites from Al-Aqsa within 6 days
 - 09/06 21:52 [FirstSquawk] Jerusalem Governorate: Occupation paves way for Jewish holiday season by reducing Palestinian presence in Al-Aqsa Mosque
 - 09/06 21:52 [FirstSquawk] Lebanese Prime Minister: Israeli attacks will not deter the government from adhering to support the return of the displaced and meeting citizens' needs
+- 09/06 22:20 [FirstSquawk] Iranian Revolutionary Guard: Arrest of an Armed Cell Linked to the Monarchist Current Consisting of 8 Elements in Fars Province in the South of the Country
+- 09/06 22:20 [FirstSquawk] Iranian Revolutionary Guard: Seizure of a shipment of weapons and ammunition in West Azerbaijan Province, northwest of the country
+- 09/06 22:21 [FirstSquawk] CBS on the spokesperson for the U.S. Central Command: No truth to Iran's claim of targeting a U.S. ship in the Strait of Hormuz
+- 09/06 22:21 [FirstSquawk] Lebanese Parliament Speaker: Israel proves that it has not adhered to any of the ceasefire formulas and is reneging on agreements and understandings
+- 09/06 22:22 [FirstSquawk] Lebanese Parliament Speaker: Israel is bent on turning the South and its people into a ballot box of blood in the race for its upcoming elections
+- 09/06 22:22 [FirstSquawk] U.S. Energy Secretary: The average daily oil transit level through the Strait of Hormuz is 9 million barrels of oil
