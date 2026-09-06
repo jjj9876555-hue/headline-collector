@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-06 20:42 JST／対象: 09/06 08:42 〜 09/06 20:42 JST（時刻はすべて日本時間）
+生成: 2026-09-06 20:52 JST／対象: 09/06 08:52 〜 09/06 20:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 167 | 09/06 09:55 | 09/06 20:21 | 43分（17:40→18:24） |
+| FirstSquawk | 169 | 09/06 09:55 | 09/06 20:52 | 43分（17:40→18:24） |
 | financialjuice | 7 | 09/06 10:17 | 09/06 17:17 | ⚠ 160分（12:26→15:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 171 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 173 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -195,3 +195,5 @@
 - 09/06 20:17 [FirstSquawk] Ben Gvir: Encouraging voluntary migration is the true and only solution to terrorism in Gaza and providing a better life for the Strip's residents
 - 09/06 20:17 [FirstSquawk] Yemeni Government Forces: Our forces are engaged in fierce clashes in the Al-Kudhah sector west of Taiz
 - 09/06 20:21 [FirstSquawk] TRUMP’S APPROVAL RATING HITS RECORD-LOW 33%; DEMOCRATS LEAD GOP BY 7.5 POINTS Donald Trump’s approval rating has fallen to a record-low 33%, with growing voter dissatisfaction over the economy and cost of living. Adding to Republican concer…
+- 09/06 20:45 [FirstSquawk] Israeli Army Chief of Staff: The phase is explosive on several fronts and we are on high alert during the Jewish holidays
+- 09/06 20:52 [FirstSquawk] U.S. Central Command: We rerouted 92 commercial ships, disabled 3, and inspected 2 since resuming the naval blockade on Iran
