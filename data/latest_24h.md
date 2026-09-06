@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 04:40 JST／対象: 09/06 04:40 〜 09/07 04:40 JST（時刻はすべて日本時間）
+生成: 2026-09-07 04:51 JST／対象: 09/06 04:51 〜 09/07 04:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/06 04:45 | 09/07 01:03 | ⚠ 1043分（07:38→01:01） |
+| DeItaone | 5 | 09/06 04:59 | 09/07 01:03 | ⚠ 1043分（07:38→01:01） |
 | FirstSquawk | 232 | 09/06 09:55 | 09/07 04:39 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 8 | 09/06 07:37 | 09/06 17:17 | ⚠ 160分（12:26→15:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 243 行（統合前 246 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 242 行（統合前 245 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 04:45 [DeItaone] IRGC NAVY SAYS IT TARGETED THREE VESSELS ON UNAUTHORIZED ROUTES THROUGH STRAIT OF HORMUZ - STATEMENT
 - 09/06 04:59 [DeItaone] IRGC NAVY WARNS ALL VESSELS IN 'PERSIAN GULF AND NEAR STRAIT OF HORMUZ AGAINST SUSPICIOUS MOVEMENTS'
 - 09/06 05:51 [DeItaone] RUSSIA'S DMITRIEV CALLS U.S. ENVOYS' TRIP TO MOSCOW 'IMPORTANT PEACEMAKING VISIT' - POST ON X
 - 09/06 07:37 [financialjuice] IRGC says it struck U.S. aircraft carrier and destroyer with ballistic missiles; no U.S. verification

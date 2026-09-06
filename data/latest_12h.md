@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 04:40 JST／対象: 09/06 16:40 〜 09/07 04:40 JST（時刻はすべて日本時間）
+生成: 2026-09-07 04:51 JST／対象: 09/06 16:51 〜 09/07 04:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/07 01:01 | 09/07 01:03 | 1分（01:01→01:03） |
-| FirstSquawk | 120 | 09/06 16:50 | 09/07 04:39 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 116 | 09/06 17:00 | 09/07 04:39 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 1 | 09/06 17:17 | 09/06 17:17 | - |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 122 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 118 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 16:50 [FirstSquawk] Europe was supposed to leave gas facilities like Kårstø behind. Instead, the giant processing plant is at the center of a wider continental shift. Emission reductions are out. Energy security is in.
-- 09/06 16:50 [FirstSquawk] Nigel Farage has one overriding task: to convince voters he’s ready to take over as British prime minister in an election he believes may be just months away.
-- 09/06 16:50 [FirstSquawk] In February 2025, the U.N. launched a fund to channel corporate profits into nature conservation in developing countries, aiming to raise $1 billion a year. So far, it has attracted just two small contributors and $6,000.
-- 09/06 16:51 [FirstSquawk] Drones struck Russia’s Ryazan Oil Refinery overnight, igniting a fire at the key facility. A multi-hour drone assault was also reported across Rostov-on-Don.
 - 09/06 17:00 [FirstSquawk] India is installing about 100,000 rooftop solar systems a week. Yet five states account for roughly 70% of the total, testing national energy goals.
 - 09/06 17:17 [financialjuice/FirstSquawk] Russia says it has not excluded trilateral summit with presidents of Russia, U.S. and China - Tass
 - 09/06 17:38 [FirstSquawk] India backs UN equal-area maps resolution and draws firm line on Kashmir and Ladakh depiction
