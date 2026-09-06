@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-06 22:43 JST／対象: 09/06 10:43 〜 09/06 22:43 JST（時刻はすべて日本時間）
+生成: 2026-09-06 22:53 JST／対象: 09/06 10:53 〜 09/06 22:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 170 | 09/06 10:45 | 09/06 22:22 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 161 | 09/06 10:57 | 09/06 22:22 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 6 | 09/06 12:09 | 09/06 17:17 | ⚠ 160分（12:26→15:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 173 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 164 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 10:45 [FirstSquawk] Mail investigation: 62,000 arrests in the UK raise concerns over a “chilling” crackdown on free speech.
-- 09/06 10:45 [FirstSquawk] Russian fund executive linked to pro-Kremlin circles killed in occupied Crimea.
-- 09/06 10:46 [FirstSquawk] Greek PM Mitsotakis: Lesbos once faced an influx of 330,000 migrants and refugees; today, there are just over 300, with Turkish visitors helping support the local economy - Clash report
-- 09/06 10:47 [FirstSquawk] Putin meets US envoys for 3 hours, says situation in Ukraine is 'difficult' - NA
-- 09/06 10:48 [FirstSquawk] Rasmussen Reports: Trump’s approval rating stands at 44%, while 55% disapprove.
-- 09/06 10:49 [FirstSquawk] China urges EV makers to avoid overseas price wars as BYD and Geely see exports surge - NA
-- 09/06 10:50 [FirstSquawk] U.S. DHS and the Trump administration are reportedly tightening policies aimed at preventing foreign nationals from entering the U.S. late in pregnancy for “birth tourism.”
-- 09/06 10:51 [FirstSquawk] OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - RTRS
-- 09/06 10:51 [FirstSquawk] Women drove nearly all U.S. employment growth in August, gaining about 158,000 jobs compared with 4,000 for men.
 - 09/06 10:57 [FirstSquawk] Trump officials are drafting a plan that could use federal child care funds to pay parents who stay home with their children, NYT reports.
 - 09/06 10:59 [FirstSquawk] Searches for “can’t afford home” on Google soar to a record high, exceeding the peak reached during the Global Financial Crisis.
 - 09/06 11:00 [FirstSquawk] Strong job growth is expected as the population ages and chronic conditions, including heart disease, cancer, and diabetes, become more prevalent - fortune
