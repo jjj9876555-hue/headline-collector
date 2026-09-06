@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-06 20:16 JST／対象: 09/05 20:16 〜 09/06 20:16 JST（時刻はすべて日本時間）
+生成: 2026-09-06 20:30 JST／対象: 09/05 20:30 〜 09/06 20:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/05 22:42 | 09/06 07:38 | ⚠ 123分（02:42→04:45） |
-| FirstSquawk | 164 | 09/06 09:55 | 09/06 20:08 | 43分（17:40→18:24） |
+| FirstSquawk | 167 | 09/06 09:55 | 09/06 20:21 | 43分（17:40→18:24） |
 | financialjuice | 24 | 09/05 23:31 | 09/06 17:17 | ⚠ 176分（04:40→07:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 196 行（統合前 199 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 199 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -220,3 +220,6 @@
 - 09/06 19:57 [FirstSquawk] Lebanese Presidency: Aoun holds Israel fully responsible for the ongoing escalation in southern Lebanon
 - 09/06 19:57 [FirstSquawk] Lebanese President: Despite all the Israeli aggressions, Lebanon is steadfast in its commitment to what preserves its sovereignty, the stability of its south, and the safety of its citizens.
 - 09/06 20:08 [FirstSquawk] Several Palestinians were injured as a result of two drone airstrikes by Israeli drones on Beach Camp west of Gaza City, one of which targeted a gathering of citizens.
+- 09/06 20:17 [FirstSquawk] Ben Gvir: Encouraging voluntary migration is the true and only solution to terrorism in Gaza and providing a better life for the Strip's residents
+- 09/06 20:17 [FirstSquawk] Yemeni Government Forces: Our forces are engaged in fierce clashes in the Al-Kudhah sector west of Taiz
+- 09/06 20:21 [FirstSquawk] TRUMP’S APPROVAL RATING HITS RECORD-LOW 33%; DEMOCRATS LEAD GOP BY 7.5 POINTS Donald Trump’s approval rating has fallen to a record-low 33%, with growing voter dissatisfaction over the economy and cost of living. Adding to Republican concer…
