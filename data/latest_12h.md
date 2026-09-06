@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-06 15:52 JST／対象: 09/06 03:52 〜 09/06 15:52 JST（時刻はすべて日本時間）
+生成: 2026-09-06 16:05 JST／対象: 09/06 04:05 〜 09/06 16:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/06 04:45 | 09/06 07:38 | ⚠ 106分（05:51→07:38） |
-| FirstSquawk | 97 | 09/06 09:55 | 09/06 15:37 | 33分（15:02→15:35） |
+| FirstSquawk | 104 | 09/06 09:55 | 09/06 15:59 | 33分（15:02→15:35） |
 | financialjuice | 9 | 09/06 04:38 | 09/06 15:09 | ⚠ 176分（04:40→07:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 108 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 115 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -132,3 +132,10 @@
 - 09/06 15:36 [FirstSquawk] In the historic Japanese city of Kanazawa, craftsmen painstakingly shape and slice blocks of ice destined to chill negronis in some of the world's trendiest bars.
 - 09/06 15:36 [FirstSquawk] US Central Command struck three Iranian crude oil tankers on Saturday, after Iran's IRGC fired ballistic missiles at two US Navy warships. The strikes come amid renewed US-Iran hostilities, threatening the Islamabad MoU that had established…
 - 09/06 15:37 [FirstSquawk] Japan's Toei refutes reports of Dragon Ball license for French theme park French-Saudi announcement puzzles copyright holder of legendary anime
+- 09/06 15:57 [FirstSquawk] governor of Iran’s western province of Kordestan ordered an investigation on Sunday into a fuel tanker explosion near Sanandaj and the emergency response to the incident.
+- 09/06 15:58 [FirstSquawk] Campbell’s is cutting 13% of its salaried workforce and closing two snack plants as it works to reduce costs and restore profitability.
+- 09/06 15:58 [FirstSquawk] US envoys Steve Witkoff and Jared Kushner held over three hours of talks with Vladimir Putin in Moscow on proposals to end the war.
+- 09/06 15:59 [FirstSquawk] Bond yields are at multi-year highs!
+- 09/06 15:59 [FirstSquawk] US forces struck three Iranian crude oil carriers after the IRGC launched ballistic missiles at two US Navy warships. The US said the tankers were part of a multibillion-dollar shadow network funding the IRGC and regional proxies.
+- 09/06 15:59 [FirstSquawk] Europe Not Prepared for a Prolonged War With Russia: Defense Officials European defense officials fear the continent lacks the capabilities to sustain a prolonged conflict with Russia, especially as the US pushes to reduce its presence in E…
+- 09/06 15:59 [FirstSquawk] US carrier Abraham Lincoln departs Thailand after respite visit
