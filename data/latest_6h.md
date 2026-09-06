@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-06 17:58 JST／対象: 09/06 11:58 〜 09/06 17:58 JST（時刻はすべて日本時間）
+生成: 2026-09-06 18:16 JST／対象: 09/06 12:16 〜 09/06 18:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 71 | 09/06 11:59 | 09/06 17:40 | 37分（17:00→17:38） |
-| financialjuice | 6 | 09/06 12:09 | 09/06 17:17 | ⚠ 160分（12:26→15:07） |
+| FirstSquawk | 63 | 09/06 12:17 | 09/06 17:40 | 37分（17:00→17:38） |
+| financialjuice | 5 | 09/06 12:26 | 09/06 17:17 | ⚠ 160分（12:26→15:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 74 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 65 行（統合前 68 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 11:59 [FirstSquawk] Americans are vibe-coding trading algorithms and handing over their stock portfolios to AI agents. Welcome to the world of the robot retail investor - WSJ
-- 09/06 12:04 [FirstSquawk] Greece to deliver €2.2 billion in tax cuts and wage hikes in 2027, prime minister says
-- 09/06 12:05 [FirstSquawk] Hunter Biden suggests he could enter 2028 U.S. presidential race
-- 09/06 12:07 [FirstSquawk] GLOBAL BILLIONAIRE WEALTH HITS RECORD $15.1 TRILLION AS AI BOOM FUELS FORTUNES
-- 09/06 12:09 [FirstSquawk] Greek government presents plan to boost earnings for workers and pensioners
-- 09/06 12:09 [FirstSquawk] Iranian FM Araghchi discusses regional developments, diplomatic efforts with Saudi and Turkish counterparts
-- 09/06 12:09 [financialjuice] White House official: US and Russian officials discussed detailed plans for next steps in Russia-Ukraine war talks, to be announced in coming weeks
-- 09/06 12:10 [FirstSquawk] Young squatters ditch mainstream lives to push Palestinians from land in the West Bank they claim is the divine birthright of Jewish people - WSJ
-- 09/06 12:14 [FirstSquawk] $2 trillion in market value erased amid US tariffs and 50 policy changes
 - 09/06 12:17 [FirstSquawk] Iran war rebuild boosts world’s biggest air cargo handler - FT
 - 09/06 12:18 [FirstSquawk] Junior Chinese customs officer killed in mudslide 4 days into job deeply moves public - SCMP
 - 09/06 12:20 [FirstSquawk] US strikes three Iranian oil tankers in response to attacks on warships - FT
