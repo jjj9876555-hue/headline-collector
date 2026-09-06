@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-06 18:16 JST／対象: 09/06 12:16 〜 09/06 18:16 JST（時刻はすべて日本時間）
+生成: 2026-09-06 18:32 JST／対象: 09/06 12:32 〜 09/06 18:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 63 | 09/06 12:17 | 09/06 17:40 | 37分（17:00→17:38） |
-| financialjuice | 5 | 09/06 12:26 | 09/06 17:17 | ⚠ 160分（12:26→15:07） |
+| FirstSquawk | 65 | 09/06 12:32 | 09/06 18:26 | 43分（17:40→18:24） |
+| financialjuice | 4 | 09/06 15:07 | 09/06 17:17 | ⚠ 128分（15:09→17:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 65 行（統合前 68 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 66 行（統合前 69 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 12:17 [FirstSquawk] Iran war rebuild boosts world’s biggest air cargo handler - FT
-- 09/06 12:18 [FirstSquawk] Junior Chinese customs officer killed in mudslide 4 days into job deeply moves public - SCMP
-- 09/06 12:20 [FirstSquawk] US strikes three Iranian oil tankers in response to attacks on warships - FT
-- 09/06 12:23 [FirstSquawk] Taiwanese man sentenced to 6-year prison term in S. Korea for smuggling meth from Cambodia - YONHAP
-- 09/06 12:24 [FirstSquawk] Beijing seeks clarification over death of Chinese national while in custody in the Philippines
-- 09/06 12:26 [FirstSquawk] Israeli military launches strikes in southern Lebanon following Hezbollah drone attack on troops
-- 09/06 12:26 [financialjuice] Israeli military: striking southern Lebanon after Hezbollah sent drones toward Israel soldiers in security zone
-- 09/06 12:30 [FirstSquawk] Lee heads to France for state visit, summit with Macron - YONHAP
 - 09/06 12:32 [FirstSquawk] South Korea sees record tourist complaints amid surge in foreign visitors
 - 09/06 12:39 [FirstSquawk] China's robot lawn mowers flock to Europe as US import curbs bite Startup warns effective ban on robots will have 'no winners'
 - 09/06 12:41 [FirstSquawk] South Korean companies boost dollar deposits as won-dollar rate falls to nearly two-year low
@@ -89,3 +81,12 @@
 - 09/06 17:39 [FirstSquawk] Indonesia's Mont Semeru ERUPTS, ASH RISING 1,000 METERS over summit — Antara
 - 09/06 17:40 [FirstSquawk] Acting US Treasury sanctions chief Gene Lange joined envoys Witkoff and Kushner in Moscow, Axios reported. The delegation discussed peace proposals ahead of meetings in Kyiv.
 - 09/06 17:40 [FirstSquawk] Kremlin Calls Putin's Talks With US Envoys Useful but Offers No Sign of Breakthrough Kremlin described Putin’s three-hour meeting with Witkoff and Kushner as “highly useful,” but offered no evidence that they had narrowed the gap over endin…
+- 09/06 18:24 [FirstSquawk] Germany’s Chancellor Merz admits his government has "not done enough" — then shifts part of the blame onto his coalition partner, the SPD: I admit that, given the polling numbers and the election results we have to fear, what we have done s…
+- 09/06 18:24 [FirstSquawk] Germany’s Chancellor Merz: Today we look back on an almost 80-year success story of the Federal Republic of Germany.
+- 09/06 18:24 [FirstSquawk] Russia says it has not ruled out 3-way meeting between President Trump, President Putin, and Chinese President Xi Jinping.
+- 09/06 18:25 [FirstSquawk] Germany’s Chancellor Merz: Some people say: "Then finally stop supporting Ukraine, and perhaps we’ll be better protected against threats like the one at Leipzig Airport."
+- 09/06 18:25 [FirstSquawk] Iran's Galibaf says future attacks on Iranian security or interests will trigger faster, stronger and more severe response - Telegram channel
+- 09/06 18:25 [FirstSquawk] Iran's parliament speaker Qalibaf: U.S. must grasp game rules have shifted before it’s too late - telegram channel
+- 09/06 18:26 [FirstSquawk] Australia will require social media apps to let users turn off their algorithm and see only posts from people they follow
+- 09/06 18:26 [FirstSquawk] OPEC+ set to keep oil output policy unchanged on Sunday, sources say
+- 09/06 18:26 [FirstSquawk] Germany’s Chancellor Merz: We are seeing people come to Germany from many countries around the world, including many Americans who now say that Germany is, for us, at least as interesting a location for science and research as the United St…

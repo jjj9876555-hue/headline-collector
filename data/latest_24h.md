@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-06 18:16 JST／対象: 09/05 18:16 〜 09/06 18:16 JST（時刻はすべて日本時間）
+生成: 2026-09-06 18:32 JST／対象: 09/05 18:32 〜 09/06 18:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/05 22:42 | 09/06 07:38 | ⚠ 123分（02:42→04:45） |
-| FirstSquawk | 125 | 09/06 09:55 | 09/06 17:40 | 37分（17:00→17:38） |
+| FirstSquawk | 134 | 09/06 09:55 | 09/06 18:26 | 43分（17:40→18:24） |
 | financialjuice | 24 | 09/05 23:31 | 09/06 17:17 | ⚠ 176分（04:40→07:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 157 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 166 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -181,3 +181,12 @@
 - 09/06 17:39 [FirstSquawk] Indonesia's Mont Semeru ERUPTS, ASH RISING 1,000 METERS over summit — Antara
 - 09/06 17:40 [FirstSquawk] Acting US Treasury sanctions chief Gene Lange joined envoys Witkoff and Kushner in Moscow, Axios reported. The delegation discussed peace proposals ahead of meetings in Kyiv.
 - 09/06 17:40 [FirstSquawk] Kremlin Calls Putin's Talks With US Envoys Useful but Offers No Sign of Breakthrough Kremlin described Putin’s three-hour meeting with Witkoff and Kushner as “highly useful,” but offered no evidence that they had narrowed the gap over endin…
+- 09/06 18:24 [FirstSquawk] Germany’s Chancellor Merz admits his government has "not done enough" — then shifts part of the blame onto his coalition partner, the SPD: I admit that, given the polling numbers and the election results we have to fear, what we have done s…
+- 09/06 18:24 [FirstSquawk] Germany’s Chancellor Merz: Today we look back on an almost 80-year success story of the Federal Republic of Germany.
+- 09/06 18:24 [FirstSquawk] Russia says it has not ruled out 3-way meeting between President Trump, President Putin, and Chinese President Xi Jinping.
+- 09/06 18:25 [FirstSquawk] Germany’s Chancellor Merz: Some people say: "Then finally stop supporting Ukraine, and perhaps we’ll be better protected against threats like the one at Leipzig Airport."
+- 09/06 18:25 [FirstSquawk] Iran's Galibaf says future attacks on Iranian security or interests will trigger faster, stronger and more severe response - Telegram channel
+- 09/06 18:25 [FirstSquawk] Iran's parliament speaker Qalibaf: U.S. must grasp game rules have shifted before it’s too late - telegram channel
+- 09/06 18:26 [FirstSquawk] Australia will require social media apps to let users turn off their algorithm and see only posts from people they follow
+- 09/06 18:26 [FirstSquawk] OPEC+ set to keep oil output policy unchanged on Sunday, sources say
+- 09/06 18:26 [FirstSquawk] Germany’s Chancellor Merz: We are seeing people come to Germany from many countries around the world, including many Americans who now say that Germany is, for us, at least as interesting a location for science and research as the United St…
