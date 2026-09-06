@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-06 21:45 JST／対象: 09/06 15:45 〜 09/06 21:45 JST（時刻はすべて日本時間）
+生成: 2026-09-06 21:58 JST／対象: 09/06 15:58 〜 09/06 21:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 72 | 09/06 15:57 | 09/06 20:52 | 43分（17:40→18:24） |
+| FirstSquawk | 72 | 09/06 15:59 | 09/06 21:52 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 1 | 09/06 17:17 | 09/06 17:17 | - |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 15:57 [FirstSquawk] governor of Iran’s western province of Kordestan ordered an investigation on Sunday into a fuel tanker explosion near Sanandaj and the emergency response to the incident.
-- 09/06 15:58 [FirstSquawk] Campbell’s is cutting 13% of its salaried workforce and closing two snack plants as it works to reduce costs and restore profitability.
-- 09/06 15:58 [FirstSquawk] US envoys Steve Witkoff and Jared Kushner held over three hours of talks with Vladimir Putin in Moscow on proposals to end the war.
 - 09/06 15:59 [FirstSquawk] Bond yields are at multi-year highs!
 - 09/06 15:59 [FirstSquawk] US forces struck three Iranian crude oil carriers after the IRGC launched ballistic missiles at two US Navy warships. The US said the tankers were part of a multibillion-dollar shadow network funding the IRGC and regional proxies.
 - 09/06 15:59 [FirstSquawk] Europe Not Prepared for a Prolonged War With Russia: Defense Officials European defense officials fear the continent lacks the capabilities to sustain a prolonged conflict with Russia, especially as the US pushes to reduce its presence in E…
@@ -96,3 +93,6 @@
 - 09/06 20:21 [FirstSquawk] TRUMP’S APPROVAL RATING HITS RECORD-LOW 33%; DEMOCRATS LEAD GOP BY 7.5 POINTS Donald Trump’s approval rating has fallen to a record-low 33%, with growing voter dissatisfaction over the economy and cost of living. Adding to Republican concer…
 - 09/06 20:45 [FirstSquawk] Israeli Army Chief of Staff: The phase is explosive on several fronts and we are on high alert during the Jewish holidays
 - 09/06 20:52 [FirstSquawk] U.S. Central Command: We rerouted 92 commercial ships, disabled 3, and inspected 2 since resuming the naval blockade on Iran
+- 09/06 21:51 [FirstSquawk] Jerusalem Governorate: Occupation authorities issue 15 deportation orders against clergy and Jerusalemites from Al-Aqsa within 6 days
+- 09/06 21:52 [FirstSquawk] Jerusalem Governorate: Occupation paves way for Jewish holiday season by reducing Palestinian presence in Al-Aqsa Mosque
+- 09/06 21:52 [FirstSquawk] Lebanese Prime Minister: Israeli attacks will not deter the government from adhering to support the return of the displaced and meeting citizens' needs
