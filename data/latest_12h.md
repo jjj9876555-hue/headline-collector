@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 01:58 JST／対象: 09/06 13:58 〜 09/07 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-07 02:14 JST／対象: 09/06 14:14 〜 09/07 02:14 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/07 01:01 | 09/07 01:03 | 1分（01:01→01:03） |
-| FirstSquawk | 123 | 09/06 14:01 | 09/07 01:39 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 121 | 09/06 14:21 | 09/07 01:39 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 4 | 09/06 15:07 | 09/06 17:17 | ⚠ 128分（15:09→17:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 126 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 124 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 14:01 [FirstSquawk] Japan opposition Democratic Party for People reelects Tamaki as leader - KYODO
-- 09/06 14:11 [FirstSquawk] Insurers pile on risk as payouts fall to lowest level in 20 years - FT
 - 09/06 14:21 [FirstSquawk] Swedish industrialist Wallenberg warns on leftwing opposition’s higher tax plans - FT
 - 09/06 14:31 [FirstSquawk] UBS demands new junior bankers show AI proficiency- FT
 - 09/06 14:41 [FirstSquawk] Russian gold floods through Hong Kong in wake of western sanctions -FT
