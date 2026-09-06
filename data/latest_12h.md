@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 05:24 JST／対象: 09/06 17:24 〜 09/07 05:24 JST（時刻はすべて日本時間）
+生成: 2026-09-07 05:41 JST／対象: 09/06 17:41 〜 09/07 05:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/07 01:01 | 09/07 01:03 | 1分（01:01→01:03） |
-| FirstSquawk | 122 | 09/06 17:38 | 09/07 05:22 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 125 | 09/06 18:24 | 09/07 05:27 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 0 | - | - | - |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 124 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 127 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 17:38 [FirstSquawk] India backs UN equal-area maps resolution and draws firm line on Kashmir and Ladakh depiction
-- 09/06 17:39 [FirstSquawk] In the northwestern Thai city of Chiang Mai, popular with so-called digital nomads who work remotely as they travel the world, a public-private effort is underway to create a "Nomad Friendly District" to help travelers and residents coexist…
-- 09/06 17:39 [FirstSquawk] U.S. Department of State warns Americans against traveling to Libya "for any reason," and advises those who travel anyway to prepare a will, leave DNA samples, and make plans for the possibility of kidnapping or death.
-- 09/06 17:39 [FirstSquawk] Germany’s Isar Aerospace successfully launched its Spectrum rocket into orbit from Norway, marking the first commercial orbital launch from continental Europe.
-- 09/06 17:39 [FirstSquawk] Indonesia's Mont Semeru ERUPTS, ASH RISING 1,000 METERS over summit — Antara
-- 09/06 17:40 [FirstSquawk] Russia says it has not excluded trilateral summit with presidents of Russia, U.S. and China - Tass
-- 09/06 17:40 [FirstSquawk] Acting US Treasury sanctions chief Gene Lange joined envoys Witkoff and Kushner in Moscow, Axios reported. The delegation discussed peace proposals ahead of meetings in Kyiv.
-- 09/06 17:40 [FirstSquawk] Kremlin Calls Putin's Talks With US Envoys Useful but Offers No Sign of Breakthrough Kremlin described Putin’s three-hour meeting with Witkoff and Kushner as “highly useful,” but offered no evidence that they had narrowed the gap over endin…
 - 09/06 18:24 [FirstSquawk] Germany’s Chancellor Merz admits his government has "not done enough" — then shifts part of the blame onto his coalition partner, the SPD: I admit that, given the polling numbers and the election results we have to fear, what we have done s…
 - 09/06 18:24 [FirstSquawk] Germany’s Chancellor Merz: Today we look back on an almost 80-year success story of the Federal Republic of Germany.
 - 09/06 18:24 [FirstSquawk] Russia says it has not ruled out 3-way meeting between President Trump, President Putin, and Chinese President Xi Jinping.
@@ -148,3 +140,14 @@
 - 09/07 05:19 [FirstSquawk] THE MOVE FOLLOWS BESSENT'S PLANS FOR THE 'ECONOMIC ASPHYXIATION' OF IRAN, BUILDING ON SANCTIONS IN PLACE SINCE 2018, AS THE U.S. ALSO BLOCKADES IRAN'S PORTS TO CUT ITS OIL EXPORTS TO ZERO.
 - 09/07 05:21 [FirstSquawk] TRUMP SAYS THE MAR-A-LAGO CLUB IS 'CONSIDERED, BY EVERYONE, TO BE THE BEST IN THE WORLD', ADDING THAT IT ALSO SERVES AS 'OUR UNPARALLELED SOUTHERN WHITE HOUSE, FREE OF CHARGE' - TRUTH SOCIAL
 - 09/07 05:22 [FirstSquawk] TRUMP SAYS 'I DO THIS FOR OUR COUNTRY, NOT MYSELF', CLAIMING HE HAS 'MADE HUNDREDS OF BILLIONS OF DOLLARS ON STOCKS, AND MANY OTHER TYPE HOLDINGS, FOR THE U.S.A., NOT MYSELF', AND THAT 'ALL I DO IS GET CRITICIZED BY THE RADICAL LEFT DEMOCRA…
+- 09/07 05:27 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI SAYS 'IT IS A BLATANT LIE TO SAY THAT U.S. ECONOMIC SANCTIONS ARE THE CAUSE OF A MAJOR FAMINE IN IRAN', ADDING THAT THE GOVERNMENT 'HAS BEEN THINKING ABOUT THIS FOR A LONG TIME' AND CURRENTLY HAS 'EN…
+- 09/07 05:27 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI SAYS THAT '48 HOURS AGO, FOR THE FIRST TIME, WE TESTED AN IRANIAN ANTI-SHIP MISSILE ABOVE AN AMERICAN WARSHIP', CLAIMING THE MISSILE CREATED A 'HELL' FOR THE AMERICANS 'AND THEY FLED' - IRIB NEWS
+- 09/07 05:27 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI SAYS THAT 'IN THE COMING DAYS AND WEEKS, WE WILL ANNOUNCE A RESTRICTED ZONE OUTSIDE THE STRAIT OF HORMUZ' THAT STARTS FROM THE U.S. NAVY'S BLOCKADE LINE AND EXTENDS THROUGH THE STRAIT INTO THE PERSIA…
+- 09/07 05:27 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI SAYS ANY SHIP IDENTIFIED ENTERING THIS ZONE 'WITH THE INTENTION OF PASSING THROUGH THE STRAIT WILL BE ADDED TO OUR SANCTIONS LIST'. - IRIB NEWS
+- 09/07 05:27 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI SAYS 'THE AMERICANS ARE TRYING TO SMUGGLE 5 TO 6 VESSELS, SPENDING A LOT OF MONEY, BUT THESE SHIPS ARE USUALLY TARGETED', ADDING THAT IRAN HAS 'NOT YET DECIDED TO SINK THEM, BECAUSE THEY ARE CARRYING…
+- 09/07 05:27 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI SAYS THAT IF THE SHIPS 'WERE TO POLLUTE THE ENTIRE STRAIT OF HORMUZ AND THE PERSIAN GULF, IT WOULD CREATE A PROBLEM FOR US AS WELL', BUT THAT 'NONE OF THEM PASS THROUGH SAFELY; EVENTUALLY, THEY SUFFE…
+- 09/07 05:27 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI SAYS IRAN 'WILL COMMIT TO KEEPING THE STRAIT OF HORMUZ OPEN WHEN THE UNITED STATES NEITHER THREATENS IRAN NOR ATTACKS IT' - IRIB NEWS
+- 09/07 05:27 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI SAYS 'AMERICANS HAVE NEVER HONORED THEIR COMMITMENTS AND HAVE ALWAYS OPPOSED OUR NATION', CLAIMING THAT EVEN THE PAHLAVI, WHO WENT TO AMERICA DUE TO REVOLUTIONARY PRESSURE, 'WAS ABANDONED BY THEM'. -…
+- 09/07 05:27 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI SAYS THE U.S. POLICY TOWARDS IRAN AND ITS PEOPLE 'IS ONE OF COMPLETE CONTROL, WANTING NOTHING MORE THAN A GROUP OF SERVANTS WHO FOLLOW ORDERS BLINDLY', ADDING 'THAT IS ALL THEY HAVE EVER WANTED'. - I…
+- 09/07 05:27 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI SAYS 'WE HAVE EVERY RIGHT TO DISTRUST AMERICA', ADDING THAT WHILE IRAN ENGAGES IN DIPLOMACY AND NEGOTIATIONS, IT HAS A RIGHT TO BE SKEPTICAL, AND THAT U.S. CLAIMS IRAN CANNOT BE TRUSTED ARE 'LYING'. …
+- 09/07 05:27 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI SAYS IRAN IS 'AMONG THE MOST TRUSTWORTHY NATIONS IN THE WORLD' BECAUSE IT HAS 'NEVER INITIATED AN ATTACK ON ANY COUNTRY, NEVER CHALLENGED THE POLITICAL BORDERS OF OTHERS, AND HAVE FULFILLED ALL OUR I…
