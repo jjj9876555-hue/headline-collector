@@ -1,25 +1,25 @@
 {
- "run_utc": "2026-09-06T04:51:43+00:00",
+ "run_utc": "2026-09-06T04:53:05+00:00",
  "sources": {
-  "x:DeItaone": {
-   "ok": false,
-   "error": "syndication http 429 / syndication http 429 / rss failed (https://nitter.privacydev.net HTTPSConnectionPool(host='nitter.privacydev.net', port=443):)"
-  },
-  "x:FirstSquawk": {
-   "ok": false,
-   "error": "syndication skipped (429) / rss failed (None)"
-  },
-  "x:financialjuice": {
-   "ok": false,
-   "error": "syndication skipped (429) / rss failed (None)"
-  },
   "x:Yuto_Headline": {
    "ok": false,
-   "error": "syndication skipped (429) / rss failed (None)"
+   "error": "syndication http 429 / syndication http 429 / syndication http 429 / rss failed (https://nitter.privacydev.net HTTPSConnectionPool(host='nitter.privacydev.net', port=443):)"
   },
   "x:SBILM": {
    "ok": false,
-   "error": "syndication skipped (429) / rss failed (None)"
+   "error": "syndication http 429 / syndication http 429 / syndication http 429 / rss failed (全インスタンス不通)"
+  },
+  "x:financialjuice": {
+   "ok": false,
+   "error": "syndication http 429 / syndication http 429 / syndication skipped (時間切れ) / rss failed (全インスタンス不通)"
+  },
+  "x:DeItaone": {
+   "ok": false,
+   "error": "syndication skipped (時間切れ) / rss failed (全インスタンス不通)"
+  },
+  "x:FirstSquawk": {
+   "ok": false,
+   "error": "syndication skipped (時間切れ) / rss failed (全インスタンス不通)"
   },
   "tg:WalterBloomberg": {
    "ok": true,
@@ -37,7 +37,7 @@
    "new": 0
   }
  },
- "stored": 121,
+ "stored": 122,
  "cme": null,
  "cme_detail": "20260906/F http 403"
 }
