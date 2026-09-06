@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-06 22:53 JST／対象: 09/06 16:53 〜 09/06 22:53 JST（時刻はすべて日本時間）
+生成: 2026-09-06 23:15 JST／対象: 09/06 17:15 〜 09/06 23:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 62 | 09/06 17:00 | 09/06 22:22 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 61 | 09/06 17:38 | 09/06 22:22 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 1 | 09/06 17:17 | 09/06 17:17 | - |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 62 行（統合前 63 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 61 行（統合前 62 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 17:00 [FirstSquawk] India is installing about 100,000 rooftop solar systems a week. Yet five states account for roughly 70% of the total, testing national energy goals.
 - 09/06 17:17 [financialjuice/FirstSquawk] Russia says it has not excluded trilateral summit with presidents of Russia, U.S. and China - Tass
 - 09/06 17:38 [FirstSquawk] India backs UN equal-area maps resolution and draws firm line on Kashmir and Ladakh depiction
 - 09/06 17:39 [FirstSquawk] In the northwestern Thai city of Chiang Mai, popular with so-called digital nomads who work remotely as they travel the world, a public-private effort is underway to create a "Nomad Friendly District" to help travelers and residents coexist…

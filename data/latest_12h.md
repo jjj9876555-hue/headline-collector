@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-06 22:53 JST／対象: 09/06 10:53 〜 09/06 22:53 JST（時刻はすべて日本時間）
+生成: 2026-09-06 23:15 JST／対象: 09/06 11:15 〜 09/06 23:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 161 | 09/06 10:57 | 09/06 22:22 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 152 | 09/06 11:16 | 09/06 22:22 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 6 | 09/06 12:09 | 09/06 17:17 | ⚠ 160分（12:26→15:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 164 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 155 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 10:57 [FirstSquawk] Trump officials are drafting a plan that could use federal child care funds to pay parents who stay home with their children, NYT reports.
-- 09/06 10:59 [FirstSquawk] Searches for “can’t afford home” on Google soar to a record high, exceeding the peak reached during the Global Financial Crisis.
-- 09/06 11:00 [FirstSquawk] Strong job growth is expected as the population ages and chronic conditions, including heart disease, cancer, and diabetes, become more prevalent - fortune
-- 09/06 11:06 [FirstSquawk] China’s crude oil imports fell sharply after the U.S. and Israel launched the war on Feb. 28, with higher prices weighing on demand. Through June, imports were still down more than 40% year over year.
-- 09/06 11:10 [FirstSquawk] White House official: US, Russian officials held substantive discussions on next phase of Ukraine war negotiations
-- 09/06 11:11 [FirstSquawk] Indonesia's Soekarno-Hatta Airport pauses flight operations through 0230 GMT, according to airport social media account
-- 09/06 11:12 [FirstSquawk] IRGC claims ballistic missile attack on U.S. aircraft carrier and destroyer; U.S. says ships evaded attacks
-- 09/06 11:14 [FirstSquawk] U.S. envoys Witkoff and Kushner depart Russia's capital, according to TASS
-- 09/06 11:15 [FirstSquawk] Kremlin aide Ushakov: Americans to bring Putin's assessments to Kyiv as talks seek lasting agreement to end war
 - 09/06 11:16 [FirstSquawk] Kremlin aide: Putin and Trump agreed to keep channels of communication open
 - 09/06 11:18 [FirstSquawk] U.S. warns citizens against travel to Libya, advises those who go to prepare for possible kidnapping or death
 - 09/06 11:18 [FirstSquawk] Roughly 50 Joint Staff members underwent polygraphs amid investigation into leaks about dwindling U.S. ammunition supplies, NYT reports
