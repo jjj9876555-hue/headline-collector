@@ -12,8 +12,11 @@ Xを読む係（headline collector）
 import html
 import json
 import os
+import random
 import re
 import time
+import xml.etree.ElementTree as ET
+from email.utils import parsedate_to_datetime
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
@@ -27,8 +30,16 @@ X_ACCOUNTS = ["DeItaone", "FirstSquawk", "financialjuice", "Yuto_Headline", "SBI
 # ミラーが見つかったら行を足すだけで二重化できる
 TG_CHANNELS = {
     "WalterBloomberg": "DeItaone",
+    "firstsquaw": "FirstSquawk",
     "FinancialJuice": "financialjuice",
 }
+
+# X の埋め込みエンドポイントが混雑（429）のときに使う予備ルート（Nitter系のRSS）
+NITTER_INSTANCES = [
+    "https://xcancel.com",
+    "https://nitter.net",
+    "https://nitter.privacydev.net",
+]
 
 KEEP_HOURS = 72             # 溜めておく時間
 DIGEST_HOURS = [6, 12, 24]  # 書き出すダイジェストの窓
@@ -71,7 +82,11 @@ def now_utc():
 
 def clean_text(t):
     t = html.unescape(t or "")
-    return re.sub(r"\s+", " ", t).strip()
+    t = re.sub(r"\s+", " ", t).strip()
+    # ミラー由来の末尾サフィックスを落とす（"|FJ"、"(@FirstSquaw)" など）
+    t = re.sub(r"\s*\|\s*FJ\s*$", "", t, flags=re.I)
+    t = re.sub(r"\s*\(@\w+\)\s*$", "", t)
+    return t.strip()
 
 
 def norm_key(t):
@@ -110,7 +125,99 @@ def to_int(v):
 
 
 # ---------------------------------------------------------------- X（埋め込み用の公開エンドポイント・認証不要）
+SYND_BLOCKED = False          # この実行中に 429 が続いたら以降は埋め込みルートを飛ばす
+DEAD_INSTANCES = set()        # この実行中に落ちていた Nitter インスタンス
+
+
 def fetch_x(handle):
+    """埋め込みルート（最大2回）→ だめなら Nitter RSS の順で試す。戻り値: (items, route)"""
+    global SYND_BLOCKED
+    errs = []
+    if not SYND_BLOCKED:
+        for attempt in range(2):
+            try:
+                return fetch_x_syndication(handle), "syndication"
+            except requests.HTTPError as e:
+                code = e.response.status_code if e.response is not None else None
+                errs.append(f"syndication http {code}")
+                if code == 429 and attempt == 0:
+                    time.sleep(10 + random.uniform(0, 5))
+                    continue
+                if code == 429:
+                    SYND_BLOCKED = True
+                break
+            except Exception as e:
+                errs.append(f"syndication {str(e)[:60]}")
+                break
+    else:
+        errs.append("syndication skipped (429)")
+    try:
+        items, base = fetch_x_rss(handle)
+        return items, f"rss:{base}"
+    except Exception as e:
+        errs.append(str(e)[:160])
+    raise RuntimeError(" / ".join(errs))
+
+
+def fetch_x_rss(handle):
+    last_err = None
+    for base in NITTER_INSTANCES:
+        if base in DEAD_INSTANCES:
+            continue
+        try:
+            r = S.get(f"{base}/{handle}/rss", timeout=15)
+            if r.status_code != 200 or b"<item>" not in r.content:
+                last_err = f"{base} http {r.status_code}"
+                DEAD_INSTANCES.add(base)
+                continue
+            items = parse_rss(r.content, handle)
+            if items:
+                return items, base
+            last_err = f"{base} 0件"
+        except Exception as e:
+            last_err = f"{base} {str(e)[:60]}"
+            DEAD_INSTANCES.add(base)
+    raise RuntimeError(f"rss failed ({last_err})")
+
+
+def parse_rss(content, handle):
+    root = ET.fromstring(content)
+    ns_dc = "{http://purl.org/dc/elements/1.1/}creator"
+    items = []
+    for it in root.iter("item"):
+        link = it.findtext("link") or ""
+        m = re.search(r"/status/(\d+)", link)
+        if not m:
+            continue
+        tid = m.group(1)
+        pub = it.findtext("pubDate") or ""
+        try:
+            created = parsedate_to_datetime(pub).astimezone(UTC)
+        except Exception:
+            continue
+        title = it.findtext("title") or ""
+        desc = it.findtext("description") or ""
+        text = BeautifulSoup(desc, "html.parser").get_text(" ", strip=True) if desc else title
+        creator = (it.findtext(ns_dc) or "").lstrip("@") or handle
+        if title.startswith("RT by ") or title.startswith("RT @"):
+            text = f"RT @{creator}: {text}"
+        text = clean_text(re.sub(r"https?://\S*(nitter|xcancel)\S*", "", text))
+        if not text:
+            continue
+        author = handle if not title.startswith("RT") else creator
+        items.append({
+            "id": f"x:{tid}",
+            "source": "x-rss",
+            "account": handle,
+            "author": author,
+            "time_utc": created.isoformat(timespec="seconds"),
+            "text": text,
+            "url": f"https://x.com/{author}/status/{tid}",
+        })
+    return items
+
+
+def fetch_x_syndication(handle):
     url = f"https://syndication.twitter.com/srv/timeline-profile/screen-name/{handle}"
     r = S.get(url, timeout=TIMEOUT)
     r.raise_for_status()
@@ -201,10 +308,15 @@ def fetch_tg(channel, account, known_ids=frozenset(), max_pages=4, backfill_hour
 
 
 # ---------------------------------------------------------------- CME 金先物 建玉（product 437）
+CME_DETAIL = {"last": None}
+
+
 def fetch_cme():
     hdr = {
         "Accept": "application/json, text/plain, */*",
         "Referer": "https://www.cmegroup.com/markets/metals/precious/gold.volume.html",
+        "Origin": "https://www.cmegroup.com",
+        "X-Requested-With": "XMLHttpRequest",
     }
     today = now_utc()
     for back in range(0, 8):
@@ -215,9 +327,13 @@ def fetch_cme():
             try:
                 r = S.get(url, headers=hdr, timeout=TIMEOUT)
                 if r.status_code != 200:
+                    CME_DETAIL["last"] = f"{d}/{typ} http {r.status_code}"
+                    if r.status_code in (403, 429):
+                        return None  # ブロックされている。日付を変えても同じなので打ち切り
                     continue
                 j = r.json()
-            except Exception:
+            except Exception as e:
+                CME_DETAIL["last"] = f"{d}/{typ} {type(e).__name__}: {str(e)[:80]}"
                 continue
             tot = j.get("totals") or {}
             oi = to_int(tot.get("atClose"))
@@ -402,8 +518,15 @@ def build_digest(items, hours, status, cme):
     ok_x = sum(1 for k, v in src.items() if k.startswith("x:") and v.get("ok"))
     ok_tg = sum(1 for k, v in src.items() if k.startswith("tg:") and v.get("ok"))
     errs = [k for k, v in src.items() if not v.get("ok")]
+    routes = {}
+    for k, v in src.items():
+        if k.startswith("x:") and v.get("ok"):
+            rname = str(v.get("route", "?")).split(":")[0]
+            routes[rname] = routes.get(rname, 0) + 1
+    route_txt = "・".join(f"{k} {n}" for k, n in routes.items())
     L.append("")
-    L.append(f"- 今回の取得: X {ok_x}/{len(X_ACCOUNTS)} 成功、Telegramミラー {ok_tg}/{len(TG_CHANNELS)} 成功"
+    L.append(f"- 今回の取得: X {ok_x}/{len(X_ACCOUNTS)} 成功" + (f"（経路: {route_txt}）" if route_txt else "")
+             + f"、Telegramミラー {ok_tg}/{len(TG_CHANNELS)} 成功"
              + (f"。エラー: {'、'.join(errs)}" if errs else ""))
     L.append(f"- 統合後 {len(rows)} 行（統合前 {len(win)} 件）。同文は1行にまとめ、アカウントを併記しています")
     L.append(f"- ⚠ は {GAP_WARN_MIN} 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます")
@@ -432,8 +555,8 @@ def main():
 
     for h in X_ACCOUNTS:
         try:
-            items = fetch_x(h)
-            status["sources"][f"x:{h}"] = {"ok": True, "fetched": len(items), "new": add_items(store, items)}
+            items, route = fetch_x(h)
+            status["sources"][f"x:{h}"] = {"ok": True, "route": route, "fetched": len(items), "new": add_items(store, items)}
         except Exception as e:
             status["sources"][f"x:{h}"] = {"ok": False, "error": str(e)[:200]}
         time.sleep(1)
@@ -468,6 +591,7 @@ def main():
         status["cme_error"] = str(e)[:200]
     status["cme"] = None if not cme else {"trade_date": cme["trade_date"], "type": cme["type"],
                                           "stale": bool(cme.get("stale"))}
+    status["cme_detail"] = CME_DETAIL["last"]
 
     for h in DIGEST_HOURS:
         with open(os.path.join(DATA_DIR, f"latest_{h}h.md"), "w", encoding="utf-8") as f:
