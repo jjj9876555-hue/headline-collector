@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-06 17:25 JST／対象: 09/06 11:25 〜 09/06 17:25 JST（時刻はすべて日本時間）
+生成: 2026-09-06 17:43 JST／対象: 09/06 11:43 〜 09/06 17:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 83 | 09/06 11:26 | 09/06 17:00 | 33分（15:02→15:35） |
+| FirstSquawk | 79 | 09/06 11:43 | 09/06 17:40 | 37分（17:00→17:38） |
 | financialjuice | 6 | 09/06 12:09 | 09/06 17:17 | ⚠ 160分（12:26→15:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 87 行（統合前 89 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 82 行（統合前 85 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 11:26 [FirstSquawk] Kremlin aide: Putin told Trump's envoys Russia will accomplish its aims, with root causes of conflict requiring resolution
-- 09/06 11:28 [FirstSquawk] Russia's Dmitriev: U.S. envoys' Moscow trip was an 'important peacemaking visit'
-- 09/06 11:30 [FirstSquawk] German startup Isar says its uncrewed rocket has reached orbit after launch in Norway
-- 09/06 11:32 [FirstSquawk] German startup Isar launches uncrewed space rocket from Norway, according to live feed
-- 09/06 11:34 [FirstSquawk] Putin's meeting with U.S. envoys Witkoff, Kushner concludes, RIA reports
-- 09/06 11:37 [FirstSquawk] Iran's IRGC Navy issues warning to all vessels in Persian Gulf, near Strait of Hormuz
-- 09/06 11:37 [FirstSquawk] Iran's IRGC Navy says it targeted three vessels taking unauthorized routes through Strait of Hormuz
-- 09/06 11:38 [FirstSquawk] Iran's IRGC Navy says three U.S. vessels were targeted elsewhere; U.S. has not confirmed
-- 09/06 11:38 [FirstSquawk] GOLD LEAVES US VAULTS AS EUROPEAN CENTRAL BANKS RETHINK WHERE TO STORE RESERVES
-- 09/06 11:38 [FirstSquawk] NORWAY MAY CUT U.S. TREASURY HOLDINGS BY $80 BILLION NORGES BANK PROPOSES SHIFTING OUT OF U.S. GOVERNMENT BONDS INTO MORTGAGE-BACKED AND OTHER U.S. DEBT, RAISING FRESH CONCERNS OVER DEMAND FOR TREASURIES.
-- 09/06 11:39 [FirstSquawk] US HOUSING AFFORDABILITY CRISIS DEEPENS: GOOGLE SEARCHES FOR “CAN’T AFFORD A HOME” HIT RECORD HIGH, SURPASSING 2008 GFC LEVELS
-- 09/06 11:39 [FirstSquawk] Iran's IRGC Navy says it targeted three vessels traveling on unauthorized routes in Strait of Hormuz
 - 09/06 11:43 [FirstSquawk] WOMEN ACCOUNTED FOR 98% OF U.S. JOB GAINS IN AUGUST
 - 09/06 11:44 [FirstSquawk] GOLD HAS RISEN NEARLY 75% OF THE TIME WHEN THE U.S. DOLLAR FELL, HISTORICAL DATA SHOWS THE GOLD-DOLLAR RELATIONSHIP HAS TYPICALLY BEEN INVERSE, WITH DOLLAR WEAKNESS PROVIDING A TAILWIND FOR GOLD.
 - 09/06 11:45 [FirstSquawk] Authorities say Ukrainian drone strike on Belgorod region leaves one person dead
@@ -110,4 +98,11 @@
 - 09/06 16:50 [FirstSquawk] In February 2025, the U.N. launched a fund to channel corporate profits into nature conservation in developing countries, aiming to raise $1 billion a year. So far, it has attracted just two small contributors and $6,000.
 - 09/06 16:51 [FirstSquawk] Drones struck Russia’s Ryazan Oil Refinery overnight, igniting a fire at the key facility. A multi-hour drone assault was also reported across Rostov-on-Don.
 - 09/06 17:00 [FirstSquawk] India is installing about 100,000 rooftop solar systems a week. Yet five states account for roughly 70% of the total, testing national energy goals.
-- 09/06 17:17 [financialjuice] Russia says it has not excluded trilateral summit with presidents of Russia, U.S. and China - Tass
+- 09/06 17:17 [financialjuice/FirstSquawk] Russia says it has not excluded trilateral summit with presidents of Russia, U.S. and China - Tass
+- 09/06 17:38 [FirstSquawk] India backs UN equal-area maps resolution and draws firm line on Kashmir and Ladakh depiction
+- 09/06 17:39 [FirstSquawk] In the northwestern Thai city of Chiang Mai, popular with so-called digital nomads who work remotely as they travel the world, a public-private effort is underway to create a "Nomad Friendly District" to help travelers and residents coexist…
+- 09/06 17:39 [FirstSquawk] U.S. Department of State warns Americans against traveling to Libya "for any reason," and advises those who travel anyway to prepare a will, leave DNA samples, and make plans for the possibility of kidnapping or death.
+- 09/06 17:39 [FirstSquawk] Germany’s Isar Aerospace successfully launched its Spectrum rocket into orbit from Norway, marking the first commercial orbital launch from continental Europe.
+- 09/06 17:39 [FirstSquawk] Indonesia's Mont Semeru ERUPTS, ASH RISING 1,000 METERS over summit — Antara
+- 09/06 17:40 [FirstSquawk] Acting US Treasury sanctions chief Gene Lange joined envoys Witkoff and Kushner in Moscow, Axios reported. The delegation discussed peace proposals ahead of meetings in Kyiv.
+- 09/06 17:40 [FirstSquawk] Kremlin Calls Putin's Talks With US Envoys Useful but Offers No Sign of Breakthrough Kremlin described Putin’s three-hour meeting with Witkoff and Kushner as “highly useful,” but offered no evidence that they had narrowed the gap over endin…
