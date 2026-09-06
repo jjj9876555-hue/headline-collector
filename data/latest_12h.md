@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-06 14:59 JST／対象: 09/06 02:59 〜 09/06 14:59 JST（時刻はすべて日本時間）
+生成: 2026-09-06 15:21 JST／対象: 09/06 03:21 〜 09/06 15:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/06 04:45 | 09/06 07:38 | ⚠ 106分（05:51→07:38） |
-| FirstSquawk | 89 | 09/06 09:55 | 09/06 14:46 | 18分（09:55→10:13） |
-| financialjuice | 7 | 09/06 03:32 | 09/06 12:26 | ⚠ 176分（04:40→07:37） |
+| FirstSquawk | 90 | 09/06 09:55 | 09/06 15:02 | 18分（09:55→10:13） |
+| financialjuice | 10 | 09/06 03:32 | 09/06 15:09 | ⚠ 176分（04:40→07:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 100 行（統合前 100 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 104 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -124,3 +124,7 @@
 - 09/06 14:41 [FirstSquawk] Russian gold floods through Hong Kong in wake of western sanctions -FT
 - 09/06 14:46 [FirstSquawk] US denies it tried to influence Malaysia’s political leadership - SCMP
 - 09/06 14:46 [FirstSquawk] The US military alleged the three tankers are part of a network that funnels billions of dollars to the Revolutionary Guard and its proxies - FOX 5 DC
+- 09/06 15:02 [FirstSquawk] ADVISORY ON SINGAPORE AIRLINES FLIGHTS IMPACTED BY THE ERUPTION OF MOUNT ANAK KRAKATAU Due to volcanic activity caused by the eruption of Mount Anak Krakatau in Indonesia, the following Singapore Airlines flights have been cancelled:
+- 09/06 15:07 [financialjuice] Oman July M2 money supply rises 14.94% y/y: central bank
+- 09/06 15:08 [financialjuice] Oman July conventional bank lending rises 12.54% y/y: central bank
+- 09/06 15:09 [financialjuice] Oman July central bank foreign assets at 7.28 billion rials: central bank
