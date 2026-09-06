@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-06 16:05 JST／対象: 09/06 04:05 〜 09/06 16:05 JST（時刻はすべて日本時間）
+生成: 2026-09-06 16:23 JST／対象: 09/06 04:23 〜 09/06 16:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/06 04:45 | 09/06 07:38 | ⚠ 106分（05:51→07:38） |
-| FirstSquawk | 104 | 09/06 09:55 | 09/06 15:59 | 33分（15:02→15:35） |
+| FirstSquawk | 108 | 09/06 09:55 | 09/06 16:14 | 33分（15:02→15:35） |
 | financialjuice | 9 | 09/06 04:38 | 09/06 15:09 | ⚠ 176分（04:40→07:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 115 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 119 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -139,3 +139,7 @@
 - 09/06 15:59 [FirstSquawk] US forces struck three Iranian crude oil carriers after the IRGC launched ballistic missiles at two US Navy warships. The US said the tankers were part of a multibillion-dollar shadow network funding the IRGC and regional proxies.
 - 09/06 15:59 [FirstSquawk] Europe Not Prepared for a Prolonged War With Russia: Defense Officials European defense officials fear the continent lacks the capabilities to sustain a prolonged conflict with Russia, especially as the US pushes to reduce its presence in E…
 - 09/06 15:59 [FirstSquawk] US carrier Abraham Lincoln departs Thailand after respite visit
+- 09/06 16:13 [FirstSquawk] Explosions across Russia as Ukrainian drones hammer cities and refinery burns
+- 09/06 16:14 [FirstSquawk] South Korea’s AI stock rally is rapidly transforming different corners of the country’s society, from romance to academics.
+- 09/06 16:14 [FirstSquawk] Europe Not Prepared for a Prolonged War With Russia: Defense Officials
+- 09/06 16:14 [FirstSquawk] At a meeting of the provincial crisis management committee, Arash Zerehtan Lahoni called for faster assistance to those injured and otherwise affected.

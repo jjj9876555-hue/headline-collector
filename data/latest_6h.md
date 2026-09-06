@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-06 16:05 JST／対象: 09/06 10:05 〜 09/06 16:05 JST（時刻はすべて日本時間）
+生成: 2026-09-06 16:23 JST／対象: 09/06 10:23 〜 09/06 16:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 103 | 09/06 10:13 | 09/06 15:59 | 33分（15:02→15:35） |
-| financialjuice | 6 | 09/06 10:17 | 09/06 15:09 | ⚠ 160分（12:26→15:07） |
+| FirstSquawk | 103 | 09/06 10:30 | 09/06 16:14 | 33分（15:02→15:35） |
+| financialjuice | 5 | 09/06 12:09 | 09/06 15:09 | ⚠ 160分（12:26→15:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 106 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 10:13 [FirstSquawk] Vietnam ramps up infrastructure investment, pouring tens of billions of dollars into modernizing railways and airports as it marks independence.
-- 09/06 10:14 [FirstSquawk] Berlin launches crisis response after hackers publish stolen data - RTRS
-- 09/06 10:15 [FirstSquawk] Al-Burhan: I am not involved with the Sudanese Dialogue Committee, which deals with political and civilian forces.
-- 09/06 10:16 [FirstSquawk] U.S. envoys Witkoff and Kushner have left Moscow, TASS reports.
-- 09/06 10:17 [financialjuice] White House official: US and Russian officials discussed detailed plans for next steps in Russia-Ukraine war talks, which will be announced
 - 09/06 10:30 [FirstSquawk] Kremlin: Kushner and Witkoff agreed to consider Putin’s assessments of possible ways to resolve the Ukraine conflict.
 - 09/06 10:32 [FirstSquawk] Spire Healthcare agrees £1.03 billion takeover by Toscafund and other - Rtrs
 - 09/06 10:33 [FirstSquawk] Citadel Eyes US Shale As Oil Trading Moves Closer To The Wellhead - zerohedge
@@ -131,3 +126,7 @@
 - 09/06 15:59 [FirstSquawk] US forces struck three Iranian crude oil carriers after the IRGC launched ballistic missiles at two US Navy warships. The US said the tankers were part of a multibillion-dollar shadow network funding the IRGC and regional proxies.
 - 09/06 15:59 [FirstSquawk] Europe Not Prepared for a Prolonged War With Russia: Defense Officials European defense officials fear the continent lacks the capabilities to sustain a prolonged conflict with Russia, especially as the US pushes to reduce its presence in E…
 - 09/06 15:59 [FirstSquawk] US carrier Abraham Lincoln departs Thailand after respite visit
+- 09/06 16:13 [FirstSquawk] Explosions across Russia as Ukrainian drones hammer cities and refinery burns
+- 09/06 16:14 [FirstSquawk] South Korea’s AI stock rally is rapidly transforming different corners of the country’s society, from romance to academics.
+- 09/06 16:14 [FirstSquawk] Europe Not Prepared for a Prolonged War With Russia: Defense Officials
+- 09/06 16:14 [FirstSquawk] At a meeting of the provincial crisis management committee, Arash Zerehtan Lahoni called for faster assistance to those injured and otherwise affected.
