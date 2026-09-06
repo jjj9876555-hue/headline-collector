@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 02:52 JST／対象: 09/06 14:52 〜 09/07 02:52 JST（時刻はすべて日本時間）
+生成: 2026-09-07 03:05 JST／対象: 09/06 15:05 〜 09/07 03:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/07 01:01 | 09/07 01:03 | 1分（01:01→01:03） |
-| FirstSquawk | 135 | 09/06 15:02 | 09/07 02:42 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 134 | 09/06 15:35 | 09/07 02:42 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 4 | 09/06 15:07 | 09/06 17:17 | ⚠ 128分（15:09→17:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 138 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 137 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 15:02 [FirstSquawk] ADVISORY ON SINGAPORE AIRLINES FLIGHTS IMPACTED BY THE ERUPTION OF MOUNT ANAK KRAKATAU Due to volcanic activity caused by the eruption of Mount Anak Krakatau in Indonesia, the following Singapore Airlines flights have been cancelled:
 - 09/06 15:07 [financialjuice/FirstSquawk] Oman July M2 money supply rises 14.94% y/y: central bank
 - 09/06 15:08 [financialjuice] Oman July conventional bank lending rises 12.54% y/y: central bank
 - 09/06 15:09 [financialjuice/FirstSquawk] Oman July central bank foreign assets at 7.28 billion rials: central bank

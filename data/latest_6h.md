@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 02:52 JST／対象: 09/06 20:52 〜 09/07 02:52 JST（時刻はすべて日本時間）
+生成: 2026-09-07 03:05 JST／対象: 09/06 21:05 〜 09/07 03:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/07 01:01 | 09/07 01:03 | 1分（01:01→01:03） |
-| FirstSquawk | 56 | 09/06 20:52 | 09/07 02:42 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 55 | 09/06 21:51 | 09/07 02:42 | ⚠ 55分（22:22→23:17） |
 | financialjuice | 0 | - | - | - |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 58 行（統合前 58 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 57 行（統合前 57 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 20:52 [FirstSquawk] U.S. Central Command: We rerouted 92 commercial ships, disabled 3, and inspected 2 since resuming the naval blockade on Iran
 - 09/06 21:51 [FirstSquawk] Jerusalem Governorate: Occupation authorities issue 15 deportation orders against clergy and Jerusalemites from Al-Aqsa within 6 days
 - 09/06 21:52 [FirstSquawk] Jerusalem Governorate: Occupation paves way for Jewish holiday season by reducing Palestinian presence in Al-Aqsa Mosque
 - 09/06 21:52 [FirstSquawk] Lebanese Prime Minister: Israeli attacks will not deter the government from adhering to support the return of the displaced and meeting citizens' needs
