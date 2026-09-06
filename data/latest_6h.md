@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-06 17:05 JST／対象: 09/06 11:05 〜 09/06 17:05 JST（時刻はすべて日本時間）
+生成: 2026-09-06 17:25 JST／対象: 09/06 11:25 〜 09/06 17:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 97 | 09/06 11:06 | 09/06 17:00 | 33分（15:02→15:35） |
-| financialjuice | 5 | 09/06 12:09 | 09/06 15:09 | ⚠ 160分（12:26→15:07） |
+| FirstSquawk | 83 | 09/06 11:26 | 09/06 17:00 | 33分（15:02→15:35） |
+| financialjuice | 6 | 09/06 12:09 | 09/06 17:17 | ⚠ 160分（12:26→15:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 100 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 87 行（統合前 89 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 11:06 [FirstSquawk] China’s crude oil imports fell sharply after the U.S. and Israel launched the war on Feb. 28, with higher prices weighing on demand. Through June, imports were still down more than 40% year over year.
-- 09/06 11:10 [FirstSquawk] White House official: US, Russian officials held substantive discussions on next phase of Ukraine war negotiations
-- 09/06 11:11 [FirstSquawk] Indonesia's Soekarno-Hatta Airport pauses flight operations through 0230 GMT, according to airport social media account
-- 09/06 11:12 [FirstSquawk] IRGC claims ballistic missile attack on U.S. aircraft carrier and destroyer; U.S. says ships evaded attacks
-- 09/06 11:14 [FirstSquawk] U.S. envoys Witkoff and Kushner depart Russia's capital, according to TASS
-- 09/06 11:15 [FirstSquawk] Kremlin aide Ushakov: Americans to bring Putin's assessments to Kyiv as talks seek lasting agreement to end war
-- 09/06 11:16 [FirstSquawk] Kremlin aide: Putin and Trump agreed to keep channels of communication open
-- 09/06 11:18 [FirstSquawk] U.S. warns citizens against travel to Libya, advises those who go to prepare for possible kidnapping or death
-- 09/06 11:18 [FirstSquawk] Roughly 50 Joint Staff members underwent polygraphs amid investigation into leaks about dwindling U.S. ammunition supplies, NYT reports
-- 09/06 11:21 [FirstSquawk] Kremlin aide: Talks also covered economic issues
-- 09/06 11:21 [FirstSquawk] Kremlin aide: Talks proved useful
-- 09/06 11:21 [FirstSquawk] Kremlin aide: Multiple proposals for a peace settlement were formulated
-- 09/06 11:23 [FirstSquawk] Kremlin aide: Putin's talks with Trump's representatives were detailed, open and constructive
-- 09/06 11:23 [FirstSquawk] Kremlin aide: Russia outlined its assessment of developments on the frontline
 - 09/06 11:26 [FirstSquawk] Kremlin aide: Putin told Trump's envoys Russia will accomplish its aims, with root causes of conflict requiring resolution
 - 09/06 11:28 [FirstSquawk] Russia's Dmitriev: U.S. envoys' Moscow trip was an 'important peacemaking visit'
 - 09/06 11:30 [FirstSquawk] German startup Isar says its uncrewed rocket has reached orbit after launch in Norway
@@ -124,3 +110,4 @@
 - 09/06 16:50 [FirstSquawk] In February 2025, the U.N. launched a fund to channel corporate profits into nature conservation in developing countries, aiming to raise $1 billion a year. So far, it has attracted just two small contributors and $6,000.
 - 09/06 16:51 [FirstSquawk] Drones struck Russia’s Ryazan Oil Refinery overnight, igniting a fire at the key facility. A multi-hour drone assault was also reported across Rostov-on-Don.
 - 09/06 17:00 [FirstSquawk] India is installing about 100,000 rooftop solar systems a week. Yet five states account for roughly 70% of the total, testing national energy goals.
+- 09/06 17:17 [financialjuice] Russia says it has not excluded trilateral summit with presidents of Russia, U.S. and China - Tass
