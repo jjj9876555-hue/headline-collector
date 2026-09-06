@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-06 19:16 JST／対象: 09/05 19:16 〜 09/06 19:16 JST（時刻はすべて日本時間）
+生成: 2026-09-06 19:32 JST／対象: 09/05 19:32 〜 09/06 19:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/05 22:42 | 09/06 07:38 | ⚠ 123分（02:42→04:45） |
-| FirstSquawk | 155 | 09/06 09:55 | 09/06 19:09 | 43分（17:40→18:24） |
+| FirstSquawk | 156 | 09/06 09:55 | 09/06 19:24 | 43分（17:40→18:24） |
 | financialjuice | 24 | 09/05 23:31 | 09/06 17:17 | ⚠ 176分（04:40→07:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 188 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -211,3 +211,4 @@
 - 09/06 19:09 [FirstSquawk] Iranian Parliament Speaker: Any aggression against our interests will be met with a strong and swift response
 - 09/06 19:09 [FirstSquawk] Iranian Parliament Speaker: New alternatives must be found to confront the economic pressures imposed by the enemy regarding supply chains.
 - 09/06 19:09 [FirstSquawk] Iranian Parliament Speaker: We must avoid matters that affect national unity
+- 09/06 19:24 [FirstSquawk] Israeli Army: We attacked militants and infrastructure belonging to Hezbollah in southern Lebanon
