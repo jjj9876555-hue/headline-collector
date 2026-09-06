@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 02:30 JST／対象: 09/06 02:30 〜 09/07 02:30 JST（時刻はすべて日本時間）
+生成: 2026-09-07 02:41 JST／対象: 09/06 02:41 〜 09/07 02:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/06 02:36 | 09/07 01:03 | ⚠ 1043分（07:38→01:01） |
-| FirstSquawk | 210 | 09/06 09:55 | 09/07 02:29 | ⚠ 59分（20:52→21:51） |
-| financialjuice | 19 | 09/06 02:31 | 09/06 17:17 | ⚠ 176分（04:40→07:37） |
+| DeItaone | 7 | 09/06 02:42 | 09/07 01:03 | ⚠ 1043分（07:38→01:01） |
+| FirstSquawk | 218 | 09/06 09:55 | 09/07 02:39 | ⚠ 59分（20:52→21:51） |
+| financialjuice | 12 | 09/06 02:41 | 09/06 17:17 | ⚠ 176分（04:40→07:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 235 行（統合前 238 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 234 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 02:31 [financialjuice] Iran’s military command warns strikes on U.S. naval vessels in region will escalate if Washington persists with maritime blockade - state media
-- 09/06 02:34 [financialjuice] Iran's top joint military command: Strikes could broaden if US persists in 'harassing' Iranian vessels - state media
-- 09/06 02:36 [DeItaone] IRAN'S TOP JOINT MILITARY COMMAND SAYS STRIKES COULD EXPAND IF U.S. CONTINUES 'HARASSMENT' OF IRANIAN SHIPS - STATE MEDIA
-- 09/06 02:37 [financialjuice] Putin to US: Contacts with Witkoff and Kushner are always beneficial
-- 09/06 02:37 [financialjuice] Putin: it's convenient for Russia to collaborate with US's Witkoff and Kushner
-- 09/06 02:38 [financialjuice] Witkoff tells Putin: Trump sends his best wishes
-- 09/06 02:39 [financialjuice] Witkoff tells Putin: Gilman family expressed gratitude for letting him return home
-- 09/06 02:39 [DeItaone] WITKOFF TELLS PUTIN: TRUMP SENT YOU HIS BEST WISHES
-- 09/06 02:40 [financialjuice] Witkoff thanks Putin for ceasefire during visit
 - 09/06 02:41 [financialjuice] Putin: we will make every effort to ensure safety of negotiators
 - 09/06 02:42 [DeItaone] *PUTIN SAYS SITUATION TO RESOLVE IS NOT SIMPLE: IFX
 - 09/06 03:32 [financialjuice] One killed in Ukrainian drone attack on Russia’s Belgorod region: authorities
@@ -259,3 +250,11 @@
 - 09/07 02:28 [FirstSquawk] LEAD CANDIDATE FOR GERMAN FAR-RIGHT PARTY AFD IN SAXONY-ANHALT: WILL NOT GIVE UP OUR VALUES JUST TO GOVERN
 - 09/07 02:29 [FirstSquawk] LEAD CANDIDATE FOR GERMAN FAR-RIGHT PARTY AFD IN SAXONY-ANHALT: IMMIGRATION, DOMESTIC SECURITY ARE NON-NEGOTIABLE TOPICS FOR US
 - 09/07 02:29 [FirstSquawk] GERMAN CDU SECRETARY GENERAL: WE DO NOT WORK WITH FAR RIGHT EXTREMISTS
+- 09/07 02:30 [FirstSquawk] ZELENSKIY: NEGOTIATIONS WITH U.S. TEAM "VERY SUBSTANTIAL"
+- 09/07 02:30 [FirstSquawk] ZELENSKIY: HE HOPES U.S. PEACE NEGOTIATORS WILL RETURN TO KYIV
+- 09/07 02:30 [FirstSquawk] ZELENSKIY SAID U.S., UKRAINIAN TEAMS DISCUSSED SUPPLY OF AIR-DEFENCE MISSILES & WINTER SUPPORT PACKAGE
+- 09/07 02:30 [FirstSquawk] ZELENSKIY SAID U.S., UKRAINIAN TEAMS DISCUSSED SECURITY & ECONOMIC GUARANTEES FOR KYIV, PROSPERITY PLAN
+- 09/07 02:31 [FirstSquawk] ZELENSKIY: WE NEED TO DO EVERYTHING FOR TRILATERAL MEETINGS WITH RUSSIA TO HAPPEN, NEED TO SEE WHAT RUSSIA SAYS
+- 09/07 02:31 [FirstSquawk] ZELENSKIY: AMERICANS AND EUROPEANS HAVE NOTED THAT UKRAINE HAS BECOME STRONGER
+- 09/07 02:39 [FirstSquawk] RUSSIAN GOLD SHIPMENTS TO HONG KONG HAVE HIT A RECORD HIGH AMID SANCTIONS, WITH HONG KONG IMPORTING ALMOST 100 TONS OF RUSSIAN GOLD IN 2026 — NEARLY THREE TIMES THE YEAR-EARLIER LEVEL — AS WESTERN SANCTIONS REDIRECT MOSCOW'S BULLION TRADE T…
+- 09/07 02:39 [FirstSquawk] UKRAINE'S ZELENSKY SAYS 'THE CONSTANT TERROR WE'VE SEEN IN RECENT DAYS IS A NEW TACTIC BY PUTIN BEFORE THE ELECTIONS', ADDING 'WE WILL RESPOND'
