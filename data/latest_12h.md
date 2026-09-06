@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 07:30 JST／対象: 09/06 19:30 〜 09/07 07:30 JST（時刻はすべて日本時間）
+生成: 2026-09-07 07:42 JST／対象: 09/06 19:42 〜 09/07 07:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 94 | 09/06 19:38 | 09/07 05:27 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 93 | 09/06 19:53 | 09/07 05:27 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 10 | 09/07 07:11 | 09/07 07:11 | 0分（07:11→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 106 行（統合前 106 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 19:38 [FirstSquawk] Arrival of U.S. Envoys Witkoff and Kushner in the Ukrainian Capital Kyiv, Coming from Moscow as Part of Their Efforts to End the War
 - 09/06 19:53 [FirstSquawk] Lebanese President: Israeli attacks exceed the breach of the ceasefire agreement and the framework agreement to state institutions
 - 09/06 19:53 [FirstSquawk] Lebanese President: Targeting the Ministry of Finance building reveals a persistent pattern of attacks that reflects an intent to strike state institutions.
 - 09/06 19:53 [FirstSquawk] Lebanese President: We demand that the United States and the international community take action to stop these violations and hold their perpetrators accountable

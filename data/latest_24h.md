@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 07:30 JST／対象: 09/06 07:30 〜 09/07 07:30 JST（時刻はすべて日本時間）
+生成: 2026-09-07 07:42 JST／対象: 09/06 07:42 〜 09/07 07:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/06 07:38 | 09/07 07:10 | ⚠ 1043分（07:38→01:01） |
+| DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
 | FirstSquawk | 250 | 09/06 09:55 | 09/07 05:27 | ⚠ 59分（20:52→21:51） |
-| financialjuice | 18 | 09/06 07:37 | 09/07 07:11 | ⚠ 833分（17:17→07:11） |
+| financialjuice | 17 | 09/06 10:17 | 09/07 07:11 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 269 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 267 行（統合前 270 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 07:37 [financialjuice] IRGC says it struck U.S. aircraft carrier and destroyer with ballistic missiles; no U.S. verification
-- 09/06 07:38 [DeItaone] IRGC SAY THEY ATTACKED U.S. AIRCRAFT CARRIER AND DESTROYER WITH BALLISTIC MISSILES; NO U.S. CONFIRMATION
 - 09/06 09:55 [FirstSquawk] Al Arabiya, citing a Dabaiba government Defense Ministry source: Authorities arrested a cell accused of targeting vital facilities in Libya.
 - 09/06 10:13 [FirstSquawk] Vietnam ramps up infrastructure investment, pouring tens of billions of dollars into modernizing railways and airports as it marks independence.
 - 09/06 10:14 [FirstSquawk] Berlin launches crisis response after hackers publish stolen data - RTRS

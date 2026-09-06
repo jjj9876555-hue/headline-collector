@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 07:30 JST／対象: 09/07 01:30 〜 09/07 07:30 JST（時刻はすべて日本時間）
+生成: 2026-09-07 07:42 JST／対象: 09/07 01:42 〜 09/07 07:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/07 07:10 | 09/07 07:10 | - |
-| FirstSquawk | 50 | 09/07 01:38 | 09/07 05:27 | ⚠ 48分（01:39→02:27） |
+| FirstSquawk | 45 | 09/07 02:27 | 09/07 05:27 | 34分（03:10→03:44） |
 | financialjuice | 10 | 09/07 07:11 | 09/07 07:11 | 0分（07:11→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 61 行（統合前 61 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 56 行（統合前 56 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 01:38 [FirstSquawk] Zelensky: We discussed with the American envoys the security and economic guarantees for Ukraine after the war
-- 09/07 01:38 [FirstSquawk] Zelensky: The land issue is the main sticking point that can only be resolved at the leaders' level
-- 09/07 01:38 [FirstSquawk] Kushner: President Trump wants to create a framework for achieving comprehensive and lasting peace, not just ending the current war in Ukraine
-- 09/07 01:38 [FirstSquawk] Witkoff: We came to Kyiv to get the negotiation wheel turning again, and we have a good feeling about what we've achieved and look forward to more
-- 09/07 01:39 [FirstSquawk] Witkoff: My mission with Kushner is to bring together the Russian and Ukrainian sides and narrow the gaps to reach a joint decision that ends the war
 - 09/07 02:27 [FirstSquawk] SECRETARY-GENERAL OF MERZ'S CDU ON ELECTION IN GERMAN STATE OF SAXONY-ANHALT: NO COOPERATION WITH FAR RIGHT AND FAR LEFT -ZDF
 - 09/07 02:28 [FirstSquawk] LEAD CANDIDATE FOR GERMAN FAR-RIGHT PARTY AFD IN SAXONY-ANHALT: WILL STICK OUT HAND TO ANY PARTY WILLING TO WORK WITH US
 - 09/07 02:28 [FirstSquawk] LEAD CANDIDATE FOR GERMAN FAR-RIGHT PARTY AFD IN SAXONY-ANHALT: WILL NOT GIVE UP OUR VALUES JUST TO GOVERN
