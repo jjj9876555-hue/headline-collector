@@ -7,29 +7,29 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-06 23:15 JST／対象: 09/06 17:15 〜 09/06 23:15 JST（時刻はすべて日本時間）
+生成: 2026-09-06 23:31 JST／対象: 09/06 17:31 〜 09/06 23:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 61 | 09/06 17:38 | 09/06 22:22 | ⚠ 59分（20:52→21:51） |
-| financialjuice | 1 | 09/06 17:17 | 09/06 17:17 | - |
+| FirstSquawk | 66 | 09/06 17:38 | 09/06 23:26 | ⚠ 59分（20:52→21:51） |
+| financialjuice | 0 | - | - | - |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 61 行（統合前 62 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 66 行（統合前 66 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 17:17 [financialjuice/FirstSquawk] Russia says it has not excluded trilateral summit with presidents of Russia, U.S. and China - Tass
 - 09/06 17:38 [FirstSquawk] India backs UN equal-area maps resolution and draws firm line on Kashmir and Ladakh depiction
 - 09/06 17:39 [FirstSquawk] In the northwestern Thai city of Chiang Mai, popular with so-called digital nomads who work remotely as they travel the world, a public-private effort is underway to create a "Nomad Friendly District" to help travelers and residents coexist…
 - 09/06 17:39 [FirstSquawk] U.S. Department of State warns Americans against traveling to Libya "for any reason," and advises those who travel anyway to prepare a will, leave DNA samples, and make plans for the possibility of kidnapping or death.
 - 09/06 17:39 [FirstSquawk] Germany’s Isar Aerospace successfully launched its Spectrum rocket into orbit from Norway, marking the first commercial orbital launch from continental Europe.
 - 09/06 17:39 [FirstSquawk] Indonesia's Mont Semeru ERUPTS, ASH RISING 1,000 METERS over summit — Antara
+- 09/06 17:40 [FirstSquawk] Russia says it has not excluded trilateral summit with presidents of Russia, U.S. and China - Tass
 - 09/06 17:40 [FirstSquawk] Acting US Treasury sanctions chief Gene Lange joined envoys Witkoff and Kushner in Moscow, Axios reported. The delegation discussed peace proposals ahead of meetings in Kyiv.
 - 09/06 17:40 [FirstSquawk] Kremlin Calls Putin's Talks With US Envoys Useful but Offers No Sign of Breakthrough Kremlin described Putin’s three-hour meeting with Witkoff and Kushner as “highly useful,” but offered no evidence that they had narrowed the gap over endin…
 - 09/06 18:24 [FirstSquawk] Germany’s Chancellor Merz admits his government has "not done enough" — then shifts part of the blame onto his coalition partner, the SPD: I admit that, given the polling numbers and the election results we have to fear, what we have done s…
@@ -85,3 +85,8 @@
 - 09/06 22:21 [FirstSquawk] Lebanese Parliament Speaker: Israel proves that it has not adhered to any of the ceasefire formulas and is reneging on agreements and understandings
 - 09/06 22:22 [FirstSquawk] Lebanese Parliament Speaker: Israel is bent on turning the South and its people into a ballot box of blood in the race for its upcoming elections
 - 09/06 22:22 [FirstSquawk] U.S. Energy Secretary: The average daily oil transit level through the Strait of Hormuz is 9 million barrels of oil
+- 09/06 23:17 [FirstSquawk] Trump: Canada's dollar disparity with U.S. is unacceptable
+- 09/06 23:22 [FirstSquawk] The first round of negotiations between the Ukrainian President and the American envoys has concluded, with talks set to resume in a second round that will also include European representatives.
+- 09/06 23:25 [FirstSquawk] First round of talks between Ukraine and US negotiators ends: Zelenskiy says
+- 09/06 23:26 [FirstSquawk] US envoy Witkoff: encouraged by meaningful, significant talks
+- 09/06 23:26 [FirstSquawk] US negotiator Kushner: US team anticipates further progress

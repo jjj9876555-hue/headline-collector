@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-06 23:15 JST／対象: 09/05 23:15 〜 09/06 23:15 JST（時刻はすべて日本時間）
+生成: 2026-09-06 23:31 JST／対象: 09/05 23:31 〜 09/06 23:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/05 23:31 | 09/06 07:38 | ⚠ 123分（02:42→04:45） |
-| FirstSquawk | 178 | 09/06 09:55 | 09/06 22:22 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 183 | 09/06 09:55 | 09/06 23:26 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 24 | 09/05 23:31 | 09/06 17:17 | ⚠ 176分（04:40→07:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 208 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 213 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -232,3 +232,8 @@
 - 09/06 22:21 [FirstSquawk] Lebanese Parliament Speaker: Israel proves that it has not adhered to any of the ceasefire formulas and is reneging on agreements and understandings
 - 09/06 22:22 [FirstSquawk] Lebanese Parliament Speaker: Israel is bent on turning the South and its people into a ballot box of blood in the race for its upcoming elections
 - 09/06 22:22 [FirstSquawk] U.S. Energy Secretary: The average daily oil transit level through the Strait of Hormuz is 9 million barrels of oil
+- 09/06 23:17 [FirstSquawk] Trump: Canada's dollar disparity with U.S. is unacceptable
+- 09/06 23:22 [FirstSquawk] The first round of negotiations between the Ukrainian President and the American envoys has concluded, with talks set to resume in a second round that will also include European representatives.
+- 09/06 23:25 [FirstSquawk] First round of talks between Ukraine and US negotiators ends: Zelenskiy says
+- 09/06 23:26 [FirstSquawk] US envoy Witkoff: encouraged by meaningful, significant talks
+- 09/06 23:26 [FirstSquawk] US negotiator Kushner: US team anticipates further progress

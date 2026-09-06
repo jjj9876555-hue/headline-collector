@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-06 23:15 JST／対象: 09/06 11:15 〜 09/06 23:15 JST（時刻はすべて日本時間）
+生成: 2026-09-06 23:31 JST／対象: 09/06 11:31 〜 09/06 23:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 152 | 09/06 11:16 | 09/06 22:22 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 146 | 09/06 11:32 | 09/06 23:26 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 6 | 09/06 12:09 | 09/06 17:17 | ⚠ 160分（12:26→15:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 155 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 149 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 11:16 [FirstSquawk] Kremlin aide: Putin and Trump agreed to keep channels of communication open
-- 09/06 11:18 [FirstSquawk] U.S. warns citizens against travel to Libya, advises those who go to prepare for possible kidnapping or death
-- 09/06 11:18 [FirstSquawk] Roughly 50 Joint Staff members underwent polygraphs amid investigation into leaks about dwindling U.S. ammunition supplies, NYT reports
-- 09/06 11:21 [FirstSquawk] Kremlin aide: Talks also covered economic issues
-- 09/06 11:21 [FirstSquawk] Kremlin aide: Talks proved useful
-- 09/06 11:21 [FirstSquawk] Kremlin aide: Multiple proposals for a peace settlement were formulated
-- 09/06 11:23 [FirstSquawk] Kremlin aide: Putin's talks with Trump's representatives were detailed, open and constructive
-- 09/06 11:23 [FirstSquawk] Kremlin aide: Russia outlined its assessment of developments on the frontline
-- 09/06 11:26 [FirstSquawk] Kremlin aide: Putin told Trump's envoys Russia will accomplish its aims, with root causes of conflict requiring resolution
-- 09/06 11:28 [FirstSquawk] Russia's Dmitriev: U.S. envoys' Moscow trip was an 'important peacemaking visit'
-- 09/06 11:30 [FirstSquawk] German startup Isar says its uncrewed rocket has reached orbit after launch in Norway
 - 09/06 11:32 [FirstSquawk] German startup Isar launches uncrewed space rocket from Norway, according to live feed
 - 09/06 11:34 [FirstSquawk] Putin's meeting with U.S. envoys Witkoff, Kushner concludes, RIA reports
 - 09/06 11:37 [FirstSquawk] Iran's IRGC Navy issues warning to all vessels in Persian Gulf, near Strait of Hormuz
@@ -179,3 +168,8 @@
 - 09/06 22:21 [FirstSquawk] Lebanese Parliament Speaker: Israel proves that it has not adhered to any of the ceasefire formulas and is reneging on agreements and understandings
 - 09/06 22:22 [FirstSquawk] Lebanese Parliament Speaker: Israel is bent on turning the South and its people into a ballot box of blood in the race for its upcoming elections
 - 09/06 22:22 [FirstSquawk] U.S. Energy Secretary: The average daily oil transit level through the Strait of Hormuz is 9 million barrels of oil
+- 09/06 23:17 [FirstSquawk] Trump: Canada's dollar disparity with U.S. is unacceptable
+- 09/06 23:22 [FirstSquawk] The first round of negotiations between the Ukrainian President and the American envoys has concluded, with talks set to resume in a second round that will also include European representatives.
+- 09/06 23:25 [FirstSquawk] First round of talks between Ukraine and US negotiators ends: Zelenskiy says
+- 09/06 23:26 [FirstSquawk] US envoy Witkoff: encouraged by meaningful, significant talks
+- 09/06 23:26 [FirstSquawk] US negotiator Kushner: US team anticipates further progress
