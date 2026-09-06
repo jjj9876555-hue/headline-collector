@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-06 18:58 JST／対象: 09/06 12:58 〜 09/06 18:58 JST（時刻はすべて日本時間）
+生成: 2026-09-06 19:16 JST／対象: 09/06 13:16 〜 09/06 19:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 73 | 09/06 13:02 | 09/06 18:47 | 43分（17:40→18:24） |
+| FirstSquawk | 79 | 09/06 13:20 | 09/06 19:09 | 43分（17:40→18:24） |
 | financialjuice | 4 | 09/06 15:07 | 09/06 17:17 | ⚠ 128分（15:09→17:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 74 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 80 行（統合前 83 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 13:02 [FirstSquawk] Uber robotaxis hit London's streets, but with humans still behind the wheel - CBS
-- 09/06 13:09 [FirstSquawk] Japan's Koizumi likely to remain defense minister in Cabinet reshuffle - KYODO
-- 09/06 13:13 [FirstSquawk] Japan weather agency warns of landslides amid heavy rain on Yakushima - KYODO
 - 09/06 13:20 [FirstSquawk] China mines iron from tailings and low-grade ore to cut Australia, Brazil supply - SCMP
 - 09/06 13:24 [FirstSquawk] Argentina threatens to sanction oil projects around Falkland Islands - SCMP
 - 09/06 13:32 [FirstSquawk] Japan PM Takaichi urges removal of Russia war victory statue - KYODO
@@ -98,3 +95,12 @@
 - 09/06 18:47 [FirstSquawk] Statement from Eight Arab and Islamic Countries: We reject any attempts or plans targeting the displacement of Palestinians inside Palestine or outside it.
 - 09/06 18:47 [FirstSquawk] NYT on the US Central Command: Flow of ships through the Strait of Hormuz continues despite Iran aggression and momentum is increasing
 - 09/06 18:47 [FirstSquawk] NYT on the US Central Command: We helped 1,600 commercial ships and 800 million barrels of oil pass through the Strait of Hormuz
+- 09/06 19:08 [FirstSquawk] Lebanese Ministry of Health: Today's Israeli airstrikes led to the complete destruction of a hospital in Al-Nabatieh Al-Fawqa
+- 09/06 19:08 [FirstSquawk] Lebanese Ministry of Health: Israel's destruction of the hospital constitutes a grave violation of international humanitarian law
+- 09/06 19:08 [FirstSquawk] Zelensky: We seek to bring forward the date of ending the war, and our position has been and remains constructive
+- 09/06 19:08 [FirstSquawk] Zelensky: Peace is required, as are security guarantees, and we need a peace that preserves dignity after the war
+- 09/06 19:08 [FirstSquawk] Zelenskyy, ahead of his meeting with Witkoff and Kushner: Our proposals are ready, and it is important that we work in a coordinated, objective, and realistic manner.
+- 09/06 19:08 [FirstSquawk] Iranian Parliament Speaker: Our armed forces have delivered powerful strikes to the American bases
+- 09/06 19:09 [FirstSquawk] Iranian Parliament Speaker: Any aggression against our interests will be met with a strong and swift response
+- 09/06 19:09 [FirstSquawk] Iranian Parliament Speaker: New alternatives must be found to confront the economic pressures imposed by the enemy regarding supply chains.
+- 09/06 19:09 [FirstSquawk] Iranian Parliament Speaker: We must avoid matters that affect national unity
