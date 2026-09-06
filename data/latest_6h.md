@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-06 17:43 JST／対象: 09/06 11:43 〜 09/06 17:43 JST（時刻はすべて日本時間）
+生成: 2026-09-06 17:58 JST／対象: 09/06 11:58 〜 09/06 17:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 79 | 09/06 11:43 | 09/06 17:40 | 37分（17:00→17:38） |
+| FirstSquawk | 71 | 09/06 11:59 | 09/06 17:40 | 37分（17:00→17:38） |
 | financialjuice | 6 | 09/06 12:09 | 09/06 17:17 | ⚠ 160分（12:26→15:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 82 行（統合前 85 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 74 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 11:43 [FirstSquawk] WOMEN ACCOUNTED FOR 98% OF U.S. JOB GAINS IN AUGUST
-- 09/06 11:44 [FirstSquawk] GOLD HAS RISEN NEARLY 75% OF THE TIME WHEN THE U.S. DOLLAR FELL, HISTORICAL DATA SHOWS THE GOLD-DOLLAR RELATIONSHIP HAS TYPICALLY BEEN INVERSE, WITH DOLLAR WEAKNESS PROVIDING A TAILWIND FOR GOLD.
-- 09/06 11:45 [FirstSquawk] Authorities say Ukrainian drone strike on Belgorod region leaves one person dead
-- 09/06 11:45 [FirstSquawk] U.S. 401(K) MILLIONAIRES HIT RECORD 769,000 IN Q2 2026 THE NUMBER OF FIDELITY 401(K) ACCOUNTS WITH $1 MILLION+ JUMPED 19% FROM Q1, HELPED BY A 15% S&P 500 RALLY AND RECORD RETIREMENT SAVINGS RATES.
-- 09/06 11:46 [FirstSquawk] Putin says Moscow will take all necessary steps to protect negotiators
-- 09/06 11:51 [FirstSquawk] Putin to Witkoff and Kushner: Such contacts are always helpful
-- 09/06 11:52 [FirstSquawk] Putin says it is convenient for Russia to work with Witkoff and Kushner
-- 09/06 11:57 [FirstSquawk] China is boosting weather support for Nepal following last week’s mudslides, supplying satellite data and meteorological services to aid cross-border disaster monitoring.
 - 09/06 11:59 [FirstSquawk] Americans are vibe-coding trading algorithms and handing over their stock portfolios to AI agents. Welcome to the world of the robot retail investor - WSJ
 - 09/06 12:04 [FirstSquawk] Greece to deliver €2.2 billion in tax cuts and wage hikes in 2027, prime minister says
 - 09/06 12:05 [FirstSquawk] Hunter Biden suggests he could enter 2028 U.S. presidential race

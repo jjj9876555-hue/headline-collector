@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-06 17:43 JST／対象: 09/06 05:43 〜 09/06 17:43 JST（時刻はすべて日本時間）
+生成: 2026-09-06 17:58 JST／対象: 09/06 05:58 〜 09/06 17:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/06 05:51 | 09/06 07:38 | ⚠ 106分（05:51→07:38） |
+| DeItaone | 1 | 09/06 07:38 | 09/06 07:38 | - |
 | FirstSquawk | 125 | 09/06 09:55 | 09/06 17:40 | 37分（17:00→17:38） |
 | financialjuice | 8 | 09/06 07:37 | 09/06 17:17 | ⚠ 160分（12:26→15:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 132 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 131 行（統合前 134 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 05:51 [DeItaone] RUSSIA'S DMITRIEV CALLS U.S. ENVOYS' TRIP TO MOSCOW 'IMPORTANT PEACEMAKING VISIT' - POST ON X
 - 09/06 07:37 [financialjuice] IRGC says it struck U.S. aircraft carrier and destroyer with ballistic missiles; no U.S. verification
 - 09/06 07:38 [DeItaone] IRGC SAY THEY ATTACKED U.S. AIRCRAFT CARRIER AND DESTROYER WITH BALLISTIC MISSILES; NO U.S. CONFIRMATION
 - 09/06 09:55 [FirstSquawk] Al Arabiya, citing a Dabaiba government Defense Ministry source: Authorities arrested a cell accused of targeting vital facilities in Libya.
