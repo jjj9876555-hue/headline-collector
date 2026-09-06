@@ -24,7 +24,10 @@ import requests
 from bs4 import BeautifulSoup
 
 # ========== 設定（変えたいときはここだけ触れば十分） ==========
-X_ACCOUNTS = ["DeItaone", "FirstSquawk", "financialjuice", "Yuto_Headline", "SBILM"]
+X_ACCOUNTS = ["DeItaone", "FirstSquawk", "financialjuice"]
+# X直接の取得（埋め込み窓口）はGitHubのIPだと混雑で弾かれ、通っても古い保存分しか返らないため止めてある。
+# 試したいときだけ True にする
+X_DIRECT_ENABLED = False
 
 # Telegram の公開ミラー（ログイン不要）: チャンネル名 -> 対応する X アカウント
 # ミラーが見つかったら行を足すだけで二重化できる
@@ -72,7 +75,7 @@ TIMEOUT = 25
 # ダイジェストの先頭に入れる AI への指示（ファイルを丸ごと貼れば要約が出る）
 INSTRUCTION = """\
 > **AIへの指示（このファイルを丸ごと貼り付けてください）**
-> 以下は @DeItaone @FirstSquawk @financialjuice @Yuto_Headline @SBILM の直近{h}時間のヘッドライン一覧です。金（XAUUSD）トレーダー向けに要約してください。
+> 以下は @DeItaone @FirstSquawk @financialjuice の直近{h}時間のヘッドライン一覧です。金（XAUUSD）トレーダー向けに要約してください。
 > 出力の順番：①共通（地政学・リスク）→②通貨別 USD→EUR→JPY→GBP→AUD→NZD→CAD→CHF →③原油・金（末尾に「COMEX金先物 建玉」の内容をそのまま転記）→④XAUUSDへの示唆を1行。
 > 各セクションは重要度順の箇条書き。該当なしの通貨は「特段なし」と1行。各項目の末尾に情報源アカウント名を付記。一覧にない情報は加えない。
 > 「取得状況」に ⚠ や取得エラーがあれば、冒頭に1行で明記する。
@@ -532,10 +535,11 @@ def build_digest(items, hours, status, cme):
     ng_tg = [k[3:] for k, v in src.items() if k.startswith("tg:") and not v.get("ok")]
     uncovered_ng = [a for a in ng_x if a not in mirrored]   # ミラーが無く、X直接も失敗したアカウント
     L.append("")
-    L.append(f"- 今回の取得: Telegramミラー {len(ok_tg)}/{len(TG_CHANNELS)}"
-             + (f"（失敗: {'・'.join(ng_tg)}）" if ng_tg else "")
-             + f"、X直接 {len(ok_x)}/{len(X_ACCOUNTS)}"
-             + (f"（成功: {'・'.join(ok_x)}）" if ok_x else "（混雑のため全滅。次回以降の実行で再挑戦）"))
+    line = f"- 今回の取得: Telegramミラー {len(ok_tg)}/{len(TG_CHANNELS)}" + (f"（失敗: {'・'.join(ng_tg)}）" if ng_tg else "")
+    if X_DIRECT_ENABLED:
+        line += (f"、X直接 {len(ok_x)}/{len(X_ACCOUNTS)}"
+                 + (f"（成功: {'・'.join(ok_x)}）" if ok_x else "（混雑のため全滅。次回以降の実行で再挑戦）"))
+    L.append(line)
     if uncovered_ng:
         L.append(f"- 注意: {'・'.join(uncovered_ng)} はミラーが無くX直接も失敗。表の件数は過去に成功した回の分です")
     L.append(f"- 統合後 {len(rows)} 行（統合前 {len(win)} 件）。同文は1行にまとめ、アカウントを併記しています")
@@ -565,6 +569,8 @@ def main():
 
     deadline = time.time() + X_PHASE_BUDGET_SEC
     order = [h for h in X_FETCH_ORDER if h in X_ACCOUNTS] + [h for h in X_ACCOUNTS if h not in X_FETCH_ORDER]
+    if not X_DIRECT_ENABLED:
+        order = []
     last_failed_429 = False
     for i, h in enumerate(order):
         if i:
