@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 00:31 JST／対象: 09/06 12:31 〜 09/07 00:31 JST（時刻はすべて日本時間）
+生成: 2026-09-07 00:43 JST／対象: 09/06 12:43 〜 09/07 00:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 118 | 09/06 12:32 | 09/06 23:56 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 115 | 09/06 12:46 | 09/06 23:56 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 4 | 09/06 15:07 | 09/06 17:17 | ⚠ 128分（15:09→17:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 119 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 116 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 12:32 [FirstSquawk] South Korea sees record tourist complaints amid surge in foreign visitors
-- 09/06 12:39 [FirstSquawk] China's robot lawn mowers flock to Europe as US import curbs bite Startup warns effective ban on robots will have 'no winners'
-- 09/06 12:41 [FirstSquawk] South Korean companies boost dollar deposits as won-dollar rate falls to nearly two-year low
 - 09/06 12:46 [FirstSquawk] Japan weather agency warns of intense rain in Tokyo, 6 areas through Monday- KYODO
 - 09/06 13:02 [FirstSquawk] Uber robotaxis hit London's streets, but with humans still behind the wheel - CBS
 - 09/06 13:09 [FirstSquawk] Japan's Koizumi likely to remain defense minister in Cabinet reshuffle - KYODO
