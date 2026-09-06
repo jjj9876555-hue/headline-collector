@@ -1,0 +1,37 @@
+{
+ "run_utc": "2026-09-06T04:42:53+00:00",
+ "sources": {
+  "x:DeItaone": {
+   "ok": false,
+   "error": "429 Client Error: Too Many Requests for url: https://syndication.twitter.com/srv/timeline-profile/screen-name/DeItaone"
+  },
+  "x:FirstSquawk": {
+   "ok": false,
+   "error": "429 Client Error: Too Many Requests for url: https://syndication.twitter.com/srv/timeline-profile/screen-name/FirstSquawk"
+  },
+  "x:financialjuice": {
+   "ok": false,
+   "error": "429 Client Error: Too Many Requests for url: https://syndication.twitter.com/srv/timeline-profile/screen-name/financialjuice"
+  },
+  "x:Yuto_Headline": {
+   "ok": false,
+   "error": "429 Client Error: Too Many Requests for url: https://syndication.twitter.com/srv/timeline-profile/screen-name/Yuto_Headline"
+  },
+  "x:SBILM": {
+   "ok": false,
+   "error": "429 Client Error: Too Many Requests for url: https://syndication.twitter.com/srv/timeline-profile/screen-name/SBILM"
+  },
+  "tg:WalterBloomberg": {
+   "ok": true,
+   "fetched": 20,
+   "new": 20
+  },
+  "tg:FinancialJuice": {
+   "ok": true,
+   "fetched": 20,
+   "new": 20
+  }
+ },
+ "stored": 40,
+ "cme": null
+}
