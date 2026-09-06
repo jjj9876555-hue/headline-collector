@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 08:22 JST／対象: 09/06 20:22 〜 09/07 08:22 JST（時刻はすべて日本時間）
+生成: 2026-09-07 08:34 JST／対象: 09/06 20:34 〜 09/07 08:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
 | FirstSquawk | 83 | 09/06 20:45 | 09/07 05:27 | ⚠ 59分（20:52→21:51） |
-| financialjuice | 10 | 09/07 07:11 | 09/07 07:11 | 0分（07:11→07:11） |
+| financialjuice | 11 | 09/07 07:11 | 09/07 08:27 | ⚠ 75分（07:11→08:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 96 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 97 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -120,3 +120,4 @@
 - 09/07 07:11 [financialjuice] North Korea’s Kim Jong Un: N. Korea faces ongoing threats in sea east of Korean Peninsula, nearby waters - KCNA
 - 09/07 07:11 [financialjuice] North Korea's Kim Jong Un: dangerous shadows must be eliminated - KCNA
 - 09/07 07:11 [financialjuice] North Korea’s Kim Jong Un: currently executing key plan to boost naval forces, will demonstrate results in 8 months - KCNA
+- 09/07 08:27 [financialjuice] Average of 10 commodity vessels cross Strait of Hormuz daily, lowest since May, Kpler 10-day moving average says
