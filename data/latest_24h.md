@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 01:44 JST／対象: 09/06 01:44 〜 09/07 01:44 JST（時刻はすべて日本時間）
+生成: 2026-09-07 01:58 JST／対象: 09/06 01:58 〜 09/07 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/06 02:36 | 09/07 01:03 | ⚠ 1043分（07:38→01:01） |
 | FirstSquawk | 205 | 09/06 09:55 | 09/07 01:39 | ⚠ 59分（20:52→21:51） |
-| financialjuice | 23 | 09/06 01:56 | 09/06 17:17 | ⚠ 176分（04:40→07:37） |
+| financialjuice | 22 | 09/06 01:59 | 09/06 17:17 | ⚠ 176分（04:40→07:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 234 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 233 行（統合前 236 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 01:56 [financialjuice] Putin begins talks with U.S. special envoys Witkoff, Kushner: Kremlin
 - 09/06 01:59 [financialjuice] Putin calls situation he, Withoff, and Kushner face at Kremlin talks difficult - RIA
 - 09/06 02:16 [financialjuice] Greek PM unveils plan to raise wages for workers, pensioners
 - 09/06 02:28 [financialjuice] Greek prime minister unveils tax reductions, wage increases totaling 2.2 billion euros for 2027
