@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 00:43 JST／対象: 09/06 12:43 〜 09/07 00:43 JST（時刻はすべて日本時間）
+生成: 2026-09-07 00:58 JST／対象: 09/06 12:58 〜 09/07 00:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 115 | 09/06 12:46 | 09/06 23:56 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 115 | 09/06 13:02 | 09/07 00:50 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 4 | 09/06 15:07 | 09/06 17:17 | ⚠ 128分（15:09→17:17） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 12:46 [FirstSquawk] Japan weather agency warns of intense rain in Tokyo, 6 areas through Monday- KYODO
 - 09/06 13:02 [FirstSquawk] Uber robotaxis hit London's streets, but with humans still behind the wheel - CBS
 - 09/06 13:09 [FirstSquawk] Japan's Koizumi likely to remain defense minister in Cabinet reshuffle - KYODO
 - 09/06 13:13 [FirstSquawk] Japan weather agency warns of landslides amid heavy rain on Yakushima - KYODO
@@ -140,3 +139,4 @@
 - 09/06 23:56 [FirstSquawk] Witkoff: Optimistic regarding the substantive and important discussions we held in Kyiv
 - 09/06 23:56 [FirstSquawk] TASS Agency: Russian forces targeted a Ukrainian cargo ship in the Black Sea
 - 09/06 23:56 [FirstSquawk] Lebanese Ministry of Health: 4,362 martyrs and 12,378 injured in the Israeli aggression on the country since March 2 last year
+- 09/07 00:50 [FirstSquawk] Israeli drone strike on the city of Nabatieh in southern Lebanon
