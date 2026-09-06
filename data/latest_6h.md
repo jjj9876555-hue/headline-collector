@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-06 19:32 JST／対象: 09/06 13:32 〜 09/06 19:32 JST（時刻はすべて日本時間）
+生成: 2026-09-06 19:43 JST／対象: 09/06 13:43 〜 09/06 19:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 78 | 09/06 13:32 | 09/06 19:24 | 43分（17:40→18:24） |
+| FirstSquawk | 77 | 09/06 13:50 | 09/06 19:38 | 43分（17:40→18:24） |
 | financialjuice | 4 | 09/06 15:07 | 09/06 17:17 | ⚠ 128分（15:09→17:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 79 行（統合前 82 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 78 行（統合前 81 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 13:32 [FirstSquawk] Japan PM Takaichi urges removal of Russia war victory statue - KYODO
-- 09/06 13:38 [FirstSquawk] Tokyo, Washington to step up investment cooperation under 2025 trade pact
 - 09/06 13:50 [FirstSquawk] U.S. Ambassador to Israel Mike Huckabee on Saturday condemned escalating settler attacks in the occupied West Bank and labeled the perpetrators "terrorists." - Yahoo
 - 09/06 13:58 [FirstSquawk] Meta readies Hatch AI agent for consumer launch as it seeks to monetize AI spending
 - 09/06 14:01 [FirstSquawk] Japan opposition Democratic Party for People reelects Tamaki as leader - KYODO
@@ -103,3 +101,4 @@
 - 09/06 19:09 [FirstSquawk] Iranian Parliament Speaker: New alternatives must be found to confront the economic pressures imposed by the enemy regarding supply chains.
 - 09/06 19:09 [FirstSquawk] Iranian Parliament Speaker: We must avoid matters that affect national unity
 - 09/06 19:24 [FirstSquawk] Israeli Army: We attacked militants and infrastructure belonging to Hezbollah in southern Lebanon
+- 09/06 19:38 [FirstSquawk] Arrival of U.S. Envoys Witkoff and Kushner in the Ukrainian Capital Kyiv, Coming from Moscow as Part of Their Efforts to End the War
