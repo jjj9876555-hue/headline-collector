@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 04:14 JST／対象: 09/06 16:14 〜 09/07 04:14 JST（時刻はすべて日本時間）
+生成: 2026-09-07 04:29 JST／対象: 09/06 16:29 〜 09/07 04:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/07 01:01 | 09/07 01:03 | 1分（01:01→01:03） |
-| FirstSquawk | 123 | 09/06 16:14 | 09/07 03:50 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 122 | 09/06 16:34 | 09/07 04:20 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 1 | 09/06 17:17 | 09/06 17:17 | - |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 125 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 124 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 16:14 [FirstSquawk] Europe Not Prepared for a Prolonged War With Russia: Defense Officials
-- 09/06 16:14 [FirstSquawk] At a meeting of the provincial crisis management committee, Arash Zerehtan Lahoni called for faster assistance to those injured and otherwise affected.
 - 09/06 16:34 [FirstSquawk] Germany plans anti-sabotage shield after airport drone attack, Bild reports
 - 09/06 16:34 [FirstSquawk] Restrictions meant to cool overheated market result in longer loan screening times.
 - 09/06 16:34 [FirstSquawk] Google is boosting AI chip production, now releasing two of its TPU chips a year and aiming for even faster rollouts.
@@ -149,3 +147,4 @@
 - 09/07 03:44 [FirstSquawk] IRAN'S TOP SECURITY OFFICIAL SAYS THAT IN THE COMING DAYS TEHRAN WILL DECLARE A RESTRICTED ZONE JUST BEYOND THE STRAIT OF HORMUZ - STATE MEDIA
 - 09/07 03:46 [FirstSquawk] IRAN'S TOP SECURITY OFFICIAL SAYS THE ZONE WILL BEGIN FROM THE LINE OF THE U.S. NAVY'S BLOCKADE AND EXTEND TO AREAS IN THE GULF, ADDING THAT ANY SHIP THAT ENTERS THE NEW ZONE WILL BE ADDED TO THE SANCTIONS LIST - STATE MEDIA
 - 09/07 03:50 [FirstSquawk] UKRAINE SAYS A DRONE STRIKE HIT ROSNEFT’S RYAZAN OIL REFINERY, SPARKING A FIRE AT THE 340,000-BPD FACILITY. THE ATTACK ADDS FRESH RISK TO RUSSIAN FUEL SUPPLIES AND GLOBAL OIL MARKETS AS UKRAINE CONTINUES TARGETING ENERGY INFRASTRUCTURE TO C…
+- 09/07 04:20 [FirstSquawk] US ENERGY SECRETARY WRIGHT SAYS US NAVY ESCORTS WILL CONTINUE DEFENDING HORMUZ SHIPPING UNTIL IRAN CHANGES COURSE, WITH OIL FLOWS NOW ABOVE 9 MILLION BPD. WRIGHT SAYS THE REGION IS BACK ABOVE TWO-THIRDS OF PRE-WAR ENERGY FLOWS, BUT CONTINUE…

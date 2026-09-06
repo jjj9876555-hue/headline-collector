@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 04:14 JST／対象: 09/06 22:14 〜 09/07 04:14 JST（時刻はすべて日本時間）
+生成: 2026-09-07 04:29 JST／対象: 09/06 22:29 〜 09/07 04:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/07 01:01 | 09/07 01:03 | 1分（01:01→01:03） |
-| FirstSquawk | 57 | 09/06 22:20 | 09/07 03:50 | ⚠ 55分（22:22→23:17） |
+| FirstSquawk | 52 | 09/06 23:17 | 09/07 04:20 | ⚠ 54分（23:56→00:50） |
 | financialjuice | 0 | - | - | - |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 59 行（統合前 59 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 54 行（統合前 54 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 22:20 [FirstSquawk] Iranian Revolutionary Guard: Arrest of an Armed Cell Linked to the Monarchist Current Consisting of 8 Elements in Fars Province in the South of the Country
-- 09/06 22:20 [FirstSquawk] Iranian Revolutionary Guard: Seizure of a shipment of weapons and ammunition in West Azerbaijan Province, northwest of the country
-- 09/06 22:21 [FirstSquawk] CBS on the spokesperson for the U.S. Central Command: No truth to Iran's claim of targeting a U.S. ship in the Strait of Hormuz
-- 09/06 22:21 [FirstSquawk] Lebanese Parliament Speaker: Israel proves that it has not adhered to any of the ceasefire formulas and is reneging on agreements and understandings
-- 09/06 22:22 [FirstSquawk] Lebanese Parliament Speaker: Israel is bent on turning the South and its people into a ballot box of blood in the race for its upcoming elections
-- 09/06 22:22 [FirstSquawk] U.S. Energy Secretary: The average daily oil transit level through the Strait of Hormuz is 9 million barrels of oil
 - 09/06 23:17 [FirstSquawk] Trump: Canada's dollar disparity with U.S. is unacceptable
 - 09/06 23:22 [FirstSquawk] The first round of negotiations between the Ukrainian President and the American envoys has concluded, with talks set to resume in a second round that will also include European representatives.
 - 09/06 23:25 [FirstSquawk] First round of talks between Ukraine and US negotiators ends: Zelenskiy says
@@ -83,3 +77,4 @@
 - 09/07 03:44 [FirstSquawk] IRAN'S TOP SECURITY OFFICIAL SAYS THAT IN THE COMING DAYS TEHRAN WILL DECLARE A RESTRICTED ZONE JUST BEYOND THE STRAIT OF HORMUZ - STATE MEDIA
 - 09/07 03:46 [FirstSquawk] IRAN'S TOP SECURITY OFFICIAL SAYS THE ZONE WILL BEGIN FROM THE LINE OF THE U.S. NAVY'S BLOCKADE AND EXTEND TO AREAS IN THE GULF, ADDING THAT ANY SHIP THAT ENTERS THE NEW ZONE WILL BE ADDED TO THE SANCTIONS LIST - STATE MEDIA
 - 09/07 03:50 [FirstSquawk] UKRAINE SAYS A DRONE STRIKE HIT ROSNEFT’S RYAZAN OIL REFINERY, SPARKING A FIRE AT THE 340,000-BPD FACILITY. THE ATTACK ADDS FRESH RISK TO RUSSIAN FUEL SUPPLIES AND GLOBAL OIL MARKETS AS UKRAINE CONTINUES TARGETING ENERGY INFRASTRUCTURE TO C…
+- 09/07 04:20 [FirstSquawk] US ENERGY SECRETARY WRIGHT SAYS US NAVY ESCORTS WILL CONTINUE DEFENDING HORMUZ SHIPPING UNTIL IRAN CHANGES COURSE, WITH OIL FLOWS NOW ABOVE 9 MILLION BPD. WRIGHT SAYS THE REGION IS BACK ABOVE TWO-THIRDS OF PRE-WAR ENERGY FLOWS, BUT CONTINUE…
