@@ -7,29 +7,29 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 05:03 JST／対象: 09/06 17:03 〜 09/07 05:03 JST（時刻はすべて日本時間）
+生成: 2026-09-07 05:24 JST／対象: 09/06 17:24 〜 09/07 05:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/07 01:01 | 09/07 01:03 | 1分（01:01→01:03） |
-| FirstSquawk | 115 | 09/06 17:38 | 09/07 04:39 | ⚠ 59分（20:52→21:51） |
-| financialjuice | 1 | 09/06 17:17 | 09/06 17:17 | - |
+| FirstSquawk | 122 | 09/06 17:38 | 09/07 05:22 | ⚠ 59分（20:52→21:51） |
+| financialjuice | 0 | - | - | - |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 117 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 124 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 17:17 [financialjuice/FirstSquawk] Russia says it has not excluded trilateral summit with presidents of Russia, U.S. and China - Tass
 - 09/06 17:38 [FirstSquawk] India backs UN equal-area maps resolution and draws firm line on Kashmir and Ladakh depiction
 - 09/06 17:39 [FirstSquawk] In the northwestern Thai city of Chiang Mai, popular with so-called digital nomads who work remotely as they travel the world, a public-private effort is underway to create a "Nomad Friendly District" to help travelers and residents coexist…
 - 09/06 17:39 [FirstSquawk] U.S. Department of State warns Americans against traveling to Libya "for any reason," and advises those who travel anyway to prepare a will, leave DNA samples, and make plans for the possibility of kidnapping or death.
 - 09/06 17:39 [FirstSquawk] Germany’s Isar Aerospace successfully launched its Spectrum rocket into orbit from Norway, marking the first commercial orbital launch from continental Europe.
 - 09/06 17:39 [FirstSquawk] Indonesia's Mont Semeru ERUPTS, ASH RISING 1,000 METERS over summit — Antara
+- 09/06 17:40 [FirstSquawk] Russia says it has not excluded trilateral summit with presidents of Russia, U.S. and China - Tass
 - 09/06 17:40 [FirstSquawk] Acting US Treasury sanctions chief Gene Lange joined envoys Witkoff and Kushner in Moscow, Axios reported. The delegation discussed peace proposals ahead of meetings in Kyiv.
 - 09/06 17:40 [FirstSquawk] Kremlin Calls Putin's Talks With US Envoys Useful but Offers No Sign of Breakthrough Kremlin described Putin’s three-hour meeting with Witkoff and Kushner as “highly useful,” but offered no evidence that they had narrowed the gap over endin…
 - 09/06 18:24 [FirstSquawk] Germany’s Chancellor Merz admits his government has "not done enough" — then shifts part of the blame onto his coalition partner, the SPD: I admit that, given the polling numbers and the election results we have to fear, what we have done s…
@@ -141,3 +141,10 @@
 - 09/07 04:20 [FirstSquawk] US ENERGY SECRETARY WRIGHT SAYS US NAVY ESCORTS WILL CONTINUE DEFENDING HORMUZ SHIPPING UNTIL IRAN CHANGES COURSE, WITH OIL FLOWS NOW ABOVE 9 MILLION BPD. WRIGHT SAYS THE REGION IS BACK ABOVE TWO-THIRDS OF PRE-WAR ENERGY FLOWS, BUT CONTINUE…
 - 09/07 04:39 [FirstSquawk] THE FAA SAYS 21 AIR FLIGHT 7598 OVERRAN THE RUNWAY AFTER LANDING AT MIAMI INTERNATIONAL AIRPORT AROUND 2 P.M. LOCAL TIME ON SUNDAY, SEPT. 6, AND THAT IT WILL INVESTIGATE THE INCIDENT.
 - 09/07 04:39 [FirstSquawk] THE FAA SAYS THE BOEING 767-300 CARGO AIRCRAFT HAD DEPARTED FROM LUIS MUÑOZ MARÍN INTERNATIONAL AIRPORT IN SAN JUAN, PUERTO RICO.
+- 09/07 05:05 [FirstSquawk] AMAZON CONFIRMS THAT AN AMAZON AIR PLANE OPERATED BY 21 AIR EXPERIENCED AN INCIDENT WHILE ATTEMPTING TO LAND AT MIAMI INTERNATIONAL AIRPORT TODAY
+- 09/07 05:06 [FirstSquawk] AMAZON SAYS IT IS WORKING CLOSELY WITH LOCAL AUTHORITIES AND OFFICIALS TO UNDERSTAND EXACTLY WHAT HAPPENED
+- 09/07 05:19 [FirstSquawk] IRANIAN AUTHORITIES ON SUNDAY ANNOUNCED THEY WERE RAISING PETROL PRICES FOR HEAVIER CONSUMERS AS THE U.S. STEPS UP SANCTIONS, WITH GOVERNMENT SPOKESWOMAN FATEMEH MOHAJERANI SAYING THE THIRD-TIER PRICE WOULD DOUBLE TO 10,000 TOMANS (ABOUT 4.…
+- 09/07 05:19 [FirstSquawk] IRAN, A MAJOR OIL PRODUCER WITH SOME OF THE WORLD'S CHEAPEST FUEL, HAS LONG HEAVILY SUBSIDISED PETROL, MAKING PRICING POLITICALLY SENSITIVE, AS THE RIAL TRADED ON THE BLACK MARKET AT MORE THAN 2.2 MLN TO THE DOLLAR VERSUS AROUND 1.7 MLN BEF…
+- 09/07 05:19 [FirstSquawk] THE MOVE FOLLOWS BESSENT'S PLANS FOR THE 'ECONOMIC ASPHYXIATION' OF IRAN, BUILDING ON SANCTIONS IN PLACE SINCE 2018, AS THE U.S. ALSO BLOCKADES IRAN'S PORTS TO CUT ITS OIL EXPORTS TO ZERO.
+- 09/07 05:21 [FirstSquawk] TRUMP SAYS THE MAR-A-LAGO CLUB IS 'CONSIDERED, BY EVERYONE, TO BE THE BEST IN THE WORLD', ADDING THAT IT ALSO SERVES AS 'OUR UNPARALLELED SOUTHERN WHITE HOUSE, FREE OF CHARGE' - TRUTH SOCIAL
+- 09/07 05:22 [FirstSquawk] TRUMP SAYS 'I DO THIS FOR OUR COUNTRY, NOT MYSELF', CLAIMING HE HAS 'MADE HUNDREDS OF BILLIONS OF DOLLARS ON STOCKS, AND MANY OTHER TYPE HOLDINGS, FOR THE U.S.A., NOT MYSELF', AND THAT 'ALL I DO IS GET CRITICIZED BY THE RADICAL LEFT DEMOCRA…
