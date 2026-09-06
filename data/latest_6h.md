@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-06 16:23 JST／対象: 09/06 10:23 〜 09/06 16:23 JST（時刻はすべて日本時間）
+生成: 2026-09-06 16:41 JST／対象: 09/06 10:41 〜 09/06 16:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 103 | 09/06 10:30 | 09/06 16:14 | 33分（15:02→15:35） |
+| FirstSquawk | 104 | 09/06 10:45 | 09/06 16:34 | 33分（15:02→15:35） |
 | financialjuice | 5 | 09/06 12:09 | 09/06 15:09 | ⚠ 160分（12:26→15:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 106 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 107 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 10:30 [FirstSquawk] Kremlin: Kushner and Witkoff agreed to consider Putin’s assessments of possible ways to resolve the Ukraine conflict.
-- 09/06 10:32 [FirstSquawk] Spire Healthcare agrees £1.03 billion takeover by Toscafund and other - Rtrs
-- 09/06 10:33 [FirstSquawk] Citadel Eyes US Shale As Oil Trading Moves Closer To The Wellhead - zerohedge
 - 09/06 10:45 [FirstSquawk] Mail investigation: 62,000 arrests in the UK raise concerns over a “chilling” crackdown on free speech.
 - 09/06 10:45 [FirstSquawk] Russian fund executive linked to pro-Kremlin circles killed in occupied Crimea.
 - 09/06 10:46 [FirstSquawk] Greek PM Mitsotakis: Lesbos once faced an influx of 330,000 migrants and refugees; today, there are just over 300, with Turkish visitors helping support the local economy - Clash report
@@ -130,3 +127,7 @@
 - 09/06 16:14 [FirstSquawk] South Korea’s AI stock rally is rapidly transforming different corners of the country’s society, from romance to academics.
 - 09/06 16:14 [FirstSquawk] Europe Not Prepared for a Prolonged War With Russia: Defense Officials
 - 09/06 16:14 [FirstSquawk] At a meeting of the provincial crisis management committee, Arash Zerehtan Lahoni called for faster assistance to those injured and otherwise affected.
+- 09/06 16:34 [FirstSquawk] Germany plans anti-sabotage shield after airport drone attack, Bild reports
+- 09/06 16:34 [FirstSquawk] Restrictions meant to cool overheated market result in longer loan screening times.
+- 09/06 16:34 [FirstSquawk] Google is boosting AI chip production, now releasing two of its TPU chips a year and aiming for even faster rollouts.
+- 09/06 16:34 [FirstSquawk] United States and Europe cannot use sanctions and threats to force Iran into negotiations from a position of weakness, the parliament’s economic committee spokesperson said on Sunday.
