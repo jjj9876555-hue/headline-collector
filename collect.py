@@ -43,9 +43,9 @@ NITTER_INSTANCES = [
 
 # X の取得順（Telegramミラーが無いアカウントを先に。埋め込み窓口は同じIPから連続で叩くと 429 になりやすい）
 X_FETCH_ORDER = ["Yuto_Headline", "SBILM", "financialjuice", "DeItaone", "FirstSquawk"]
-X_SPACING_SEC = 12          # アカウント間の待ち（秒）
-X_429_WAITS = [30, 60]      # 429 が出たときの待ち（秒）。1回目30秒→2回目60秒→それでもだめなら諦める
-X_PHASE_BUDGET_SEC = 360    # X 取得全体の上限（秒）。超えたら残りは諦めて先へ進む
+X_SPACING_SEC = 15          # アカウント間の待ち（秒）
+X_429_WAITS = [20]          # 429 が出たときの待ち（秒）。1回だけ再試行。だめなら次の10分後の実行に任せる
+X_PHASE_BUDGET_SEC = 240    # X 取得全体の上限（秒）。超えたら残りは諦めて先へ進む
 
 KEEP_HOURS = 72             # 溜めておく時間
 DIGEST_HOURS = [6, 12, 24]  # 書き出すダイジェストの窓
@@ -167,7 +167,7 @@ def fetch_x_rss(handle):
         if base in DEAD_INSTANCES:
             continue
         try:
-            r = S.get(f"{base}/{handle}/rss", timeout=15)
+            r = S.get(f"{base}/{handle}/rss", timeout=8)
             if r.status_code != 200 or b"<item>" not in r.content:
                 last_err = f"{base} http {r.status_code}"
                 DEAD_INSTANCES.add(base)
@@ -517,19 +517,19 @@ def build_digest(items, hours, status, cme):
         L.append(f"| {acc} | {len(ts)} | {ts[0].astimezone(JST).strftime('%m/%d %H:%M')} | "
                  f"{ts[-1].astimezone(JST).strftime('%m/%d %H:%M')} | {gap_txt} |")
     src = status.get("sources", {})
-    ok_x = sum(1 for k, v in src.items() if k.startswith("x:") and v.get("ok"))
-    ok_tg = sum(1 for k, v in src.items() if k.startswith("tg:") and v.get("ok"))
-    errs = [k for k, v in src.items() if not v.get("ok")]
-    routes = {}
-    for k, v in src.items():
-        if k.startswith("x:") and v.get("ok"):
-            rname = str(v.get("route", "?")).split(":")[0]
-            routes[rname] = routes.get(rname, 0) + 1
-    route_txt = "・".join(f"{k} {n}" for k, n in routes.items())
+    mirrored = set(TG_CHANNELS.values())
+    ok_x = [k[2:] for k, v in src.items() if k.startswith("x:") and v.get("ok")]
+    ng_x = [k[2:] for k, v in src.items() if k.startswith("x:") and not v.get("ok")]
+    ok_tg = [k[3:] for k, v in src.items() if k.startswith("tg:") and v.get("ok")]
+    ng_tg = [k[3:] for k, v in src.items() if k.startswith("tg:") and not v.get("ok")]
+    uncovered_ng = [a for a in ng_x if a not in mirrored]   # ミラーが無く、X直接も失敗したアカウント
     L.append("")
-    L.append(f"- 今回の取得: X {ok_x}/{len(X_ACCOUNTS)} 成功" + (f"（経路: {route_txt}）" if route_txt else "")
-             + f"、Telegramミラー {ok_tg}/{len(TG_CHANNELS)} 成功"
-             + (f"。エラー: {'、'.join(errs)}" if errs else ""))
+    L.append(f"- 今回の取得: Telegramミラー {len(ok_tg)}/{len(TG_CHANNELS)}"
+             + (f"（失敗: {'・'.join(ng_tg)}）" if ng_tg else "")
+             + f"、X直接 {len(ok_x)}/{len(X_ACCOUNTS)}"
+             + (f"（成功: {'・'.join(ok_x)}）" if ok_x else "（混雑のため全滅。次回以降の実行で再挑戦）"))
+    if uncovered_ng:
+        L.append(f"- 注意: {'・'.join(uncovered_ng)} はミラーが無くX直接も失敗。表の件数は過去に成功した回の分です")
     L.append(f"- 統合後 {len(rows)} 行（統合前 {len(win)} 件）。同文は1行にまとめ、アカウントを併記しています")
     L.append(f"- ⚠ は {GAP_WARN_MIN} 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます")
     L.append("")
