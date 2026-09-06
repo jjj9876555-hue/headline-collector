@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-06 18:32 JST／対象: 09/06 06:32 〜 09/06 18:32 JST（時刻はすべて日本時間）
+生成: 2026-09-06 18:44 JST／対象: 09/06 06:44 〜 09/06 18:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/06 07:38 | 09/06 07:38 | - |
-| FirstSquawk | 134 | 09/06 09:55 | 09/06 18:26 | 43分（17:40→18:24） |
+| FirstSquawk | 135 | 09/06 09:55 | 09/06 18:43 | 43分（17:40→18:24） |
 | financialjuice | 8 | 09/06 07:37 | 09/06 17:17 | ⚠ 160分（12:26→15:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 140 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 141 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -164,3 +164,4 @@
 - 09/06 18:26 [FirstSquawk] Australia will require social media apps to let users turn off their algorithm and see only posts from people they follow
 - 09/06 18:26 [FirstSquawk] OPEC+ set to keep oil output policy unchanged on Sunday, sources say
 - 09/06 18:26 [FirstSquawk] Germany’s Chancellor Merz: We are seeing people come to Germany from many countries around the world, including many Americans who now say that Germany is, for us, at least as interesting a location for science and research as the United St…
+- 09/06 18:43 [FirstSquawk] Foreign Ministers of the UAE, Saudi Arabia, Qatar, Jordan, Indonesia, Pakistan, Turkey, and Egypt condemn the statements of Ben Gvir and Katz regarding the displacement of the Palestinian people from the Gaza Strip

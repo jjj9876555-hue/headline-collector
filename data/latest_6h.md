@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-06 18:32 JST／対象: 09/06 12:32 〜 09/06 18:32 JST（時刻はすべて日本時間）
+生成: 2026-09-06 18:44 JST／対象: 09/06 12:44 〜 09/06 18:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 65 | 09/06 12:32 | 09/06 18:26 | 43分（17:40→18:24） |
+| FirstSquawk | 63 | 09/06 12:46 | 09/06 18:43 | 43分（17:40→18:24） |
 | financialjuice | 4 | 09/06 15:07 | 09/06 17:17 | ⚠ 128分（15:09→17:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 66 行（統合前 69 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 64 行（統合前 67 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 12:32 [FirstSquawk] South Korea sees record tourist complaints amid surge in foreign visitors
-- 09/06 12:39 [FirstSquawk] China's robot lawn mowers flock to Europe as US import curbs bite Startup warns effective ban on robots will have 'no winners'
-- 09/06 12:41 [FirstSquawk] South Korean companies boost dollar deposits as won-dollar rate falls to nearly two-year low
 - 09/06 12:46 [FirstSquawk] Japan weather agency warns of intense rain in Tokyo, 6 areas through Monday- KYODO
 - 09/06 13:02 [FirstSquawk] Uber robotaxis hit London's streets, but with humans still behind the wheel - CBS
 - 09/06 13:09 [FirstSquawk] Japan's Koizumi likely to remain defense minister in Cabinet reshuffle - KYODO
@@ -90,3 +87,4 @@
 - 09/06 18:26 [FirstSquawk] Australia will require social media apps to let users turn off their algorithm and see only posts from people they follow
 - 09/06 18:26 [FirstSquawk] OPEC+ set to keep oil output policy unchanged on Sunday, sources say
 - 09/06 18:26 [FirstSquawk] Germany’s Chancellor Merz: We are seeing people come to Germany from many countries around the world, including many Americans who now say that Germany is, for us, at least as interesting a location for science and research as the United St…
+- 09/06 18:43 [FirstSquawk] Foreign Ministers of the UAE, Saudi Arabia, Qatar, Jordan, Indonesia, Pakistan, Turkey, and Egypt condemn the statements of Ben Gvir and Katz regarding the displacement of the Palestinian people from the Gaza Strip
