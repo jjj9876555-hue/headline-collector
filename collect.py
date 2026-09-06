@@ -43,9 +43,9 @@ NITTER_INSTANCES = [
 
 # X の取得順（Telegramミラーが無いアカウントを先に。埋め込み窓口は同じIPから連続で叩くと 429 になりやすい）
 X_FETCH_ORDER = ["Yuto_Headline", "SBILM", "financialjuice", "DeItaone", "FirstSquawk"]
-X_SPACING_SEC = 15          # アカウント間の待ち（秒）
-X_429_WAITS = [20]          # 429 が出たときの待ち（秒）。1回だけ再試行。だめなら次の10分後の実行に任せる
-X_PHASE_BUDGET_SEC = 240    # X 取得全体の上限（秒）。超えたら残りは諦めて先へ進む
+X_SPACING_SEC = 5           # アカウント間の待ち（秒）
+X_429_WAITS = []            # 429 が出たときの再試行はしない（IP単位の混雑なので次回の実行に任せる）
+X_PHASE_BUDGET_SEC = 120    # X 取得全体の上限（秒）。超えたら残りは諦めて先へ進む
 
 KEEP_HOURS = 72             # 溜めておく時間
 DIGEST_HOURS = [6, 12, 24]  # 書き出すダイジェストの窓
@@ -91,14 +91,13 @@ def clean_text(t):
     t = re.sub(r"\s+", " ", t).strip()
     # ミラー由来の末尾サフィックスを落とす（"|FJ"、"(@FirstSquaw)" など）
     t = re.sub(r"\s*\|\s*FJ\s*$", "", t, flags=re.I)
-    t = re.sub(r"\s*\(@\w+\)\s*$", "", t)
+    t = re.sub(r"\s*\(\s*@\w+\s*\)\s*$", "", t)
     return t.strip()
 
 
 def norm_key(t):
     """同文判定用のキー（URL・記号・接頭辞を落として先頭120文字）"""
-    t = re.sub(r"https?://\S+", "", t or "")
-    t = re.sub(r"\|\s*FJ\s*$", "", t.strip(), flags=re.I)
+    t = re.sub(r"https?://\S+", "", clean_text(t))
     t = re.sub(r"^(RT @\w+:|\*|BREAKING:?|JUST IN:?)\s*", "", t.strip(), flags=re.I)
     t = re.sub(r"[^0-9a-z\u3040-\u30ff\u4e00-\u9fff]+", "", t.lower())
     return t[:120]
@@ -451,6 +450,14 @@ def add_items(store, items):
     return n
 
 
+def span(items):
+    """取得分の最古・最新（JST表示）。X直接が古いキャッシュを返していないかの診断用"""
+    if not items:
+        return {}
+    ts = sorted(it["time_utc"] for it in items)
+    return {"oldest_jst": fmt_jst(ts[0], "%Y-%m-%d %H:%M"), "newest_jst": fmt_jst(ts[-1], "%Y-%m-%d %H:%M")}
+
+
 def save_store(store):
     cutoff = now_utc() - timedelta(hours=KEEP_HOURS)
     keep = [it for it in store.values() if datetime.fromisoformat(it["time_utc"]) >= cutoff]
@@ -466,7 +473,8 @@ def save_store(store):
 def build_digest(items, hours, status, cme):
     now = now_utc()
     start = now - timedelta(hours=hours)
-    win = sorted((it for it in items if datetime.fromisoformat(it["time_utc"]) >= start),
+    win = sorted((dict(it, text=clean_text(it["text"]))
+                  for it in items if datetime.fromisoformat(it["time_utc"]) >= start),
                  key=lambda x: x["time_utc"])
 
     # 同文を1行に統合し、アカウントを併記
@@ -563,7 +571,8 @@ def main():
             time.sleep(X_SPACING_SEC + (30 if last_failed_429 else 0))
         try:
             items, route = fetch_x(h, deadline)
-            status["sources"][f"x:{h}"] = {"ok": True, "route": route, "fetched": len(items), "new": add_items(store, items)}
+            status["sources"][f"x:{h}"] = {"ok": True, "route": route, "fetched": len(items),
+                                           "new": add_items(store, items), **span(items)}
             last_failed_429 = False
         except Exception as e:
             msg = str(e)[:200]
@@ -573,7 +582,8 @@ def main():
     for ch, acc in TG_CHANNELS.items():
         try:
             items = fetch_tg(ch, acc, known_ids=known)
-            status["sources"][f"tg:{ch}"] = {"ok": True, "fetched": len(items), "new": add_items(store, items)}
+            status["sources"][f"tg:{ch}"] = {"ok": True, "fetched": len(items),
+                                             "new": add_items(store, items), **span(items)}
         except Exception as e:
             status["sources"][f"tg:{ch}"] = {"ok": False, "error": str(e)[:200]}
         time.sleep(1)
