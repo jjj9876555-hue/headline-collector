@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-06 16:41 JST／対象: 09/05 16:41 〜 09/06 16:41 JST（時刻はすべて日本時間）
+生成: 2026-09-06 16:52 JST／対象: 09/05 16:52 〜 09/06 16:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/05 22:42 | 09/06 07:38 | ⚠ 123分（02:42→04:45） |
-| FirstSquawk | 112 | 09/06 09:55 | 09/06 16:34 | 33分（15:02→15:35） |
+| FirstSquawk | 116 | 09/06 09:55 | 09/06 16:51 | 33分（15:02→15:35） |
 | financialjuice | 23 | 09/05 23:31 | 09/06 15:09 | ⚠ 176分（04:40→07:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 144 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 148 行（統合前 150 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -168,3 +168,7 @@
 - 09/06 16:34 [FirstSquawk] Restrictions meant to cool overheated market result in longer loan screening times.
 - 09/06 16:34 [FirstSquawk] Google is boosting AI chip production, now releasing two of its TPU chips a year and aiming for even faster rollouts.
 - 09/06 16:34 [FirstSquawk] United States and Europe cannot use sanctions and threats to force Iran into negotiations from a position of weakness, the parliament’s economic committee spokesperson said on Sunday.
+- 09/06 16:50 [FirstSquawk] Europe was supposed to leave gas facilities like Kårstø behind. Instead, the giant processing plant is at the center of a wider continental shift. Emission reductions are out. Energy security is in.
+- 09/06 16:50 [FirstSquawk] Nigel Farage has one overriding task: to convince voters he’s ready to take over as British prime minister in an election he believes may be just months away.
+- 09/06 16:50 [FirstSquawk] In February 2025, the U.N. launched a fund to channel corporate profits into nature conservation in developing countries, aiming to raise $1 billion a year. So far, it has attracted just two small contributors and $6,000.
+- 09/06 16:51 [FirstSquawk] Drones struck Russia’s Ryazan Oil Refinery overnight, igniting a fire at the key facility. A multi-hour drone assault was also reported across Rostov-on-Don.

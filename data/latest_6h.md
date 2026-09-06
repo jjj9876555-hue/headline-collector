@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-06 16:41 JST／対象: 09/06 10:41 〜 09/06 16:41 JST（時刻はすべて日本時間）
+生成: 2026-09-06 16:52 JST／対象: 09/06 10:52 〜 09/06 16:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 104 | 09/06 10:45 | 09/06 16:34 | 33分（15:02→15:35） |
+| FirstSquawk | 99 | 09/06 10:57 | 09/06 16:51 | 33分（15:02→15:35） |
 | financialjuice | 5 | 09/06 12:09 | 09/06 15:09 | ⚠ 160分（12:26→15:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 102 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 10:45 [FirstSquawk] Mail investigation: 62,000 arrests in the UK raise concerns over a “chilling” crackdown on free speech.
-- 09/06 10:45 [FirstSquawk] Russian fund executive linked to pro-Kremlin circles killed in occupied Crimea.
-- 09/06 10:46 [FirstSquawk] Greek PM Mitsotakis: Lesbos once faced an influx of 330,000 migrants and refugees; today, there are just over 300, with Turkish visitors helping support the local economy - Clash report
-- 09/06 10:47 [FirstSquawk] Putin meets US envoys for 3 hours, says situation in Ukraine is 'difficult' - NA
-- 09/06 10:48 [FirstSquawk] Rasmussen Reports: Trump’s approval rating stands at 44%, while 55% disapprove.
-- 09/06 10:49 [FirstSquawk] China urges EV makers to avoid overseas price wars as BYD and Geely see exports surge - NA
-- 09/06 10:50 [FirstSquawk] U.S. DHS and the Trump administration are reportedly tightening policies aimed at preventing foreign nationals from entering the U.S. late in pregnancy for “birth tourism.”
-- 09/06 10:51 [FirstSquawk] OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - RTRS
-- 09/06 10:51 [FirstSquawk] Women drove nearly all U.S. employment growth in August, gaining about 158,000 jobs compared with 4,000 for men.
 - 09/06 10:57 [FirstSquawk] Trump officials are drafting a plan that could use federal child care funds to pay parents who stay home with their children, NYT reports.
 - 09/06 10:59 [FirstSquawk] Searches for “can’t afford home” on Google soar to a record high, exceeding the peak reached during the Global Financial Crisis.
 - 09/06 11:00 [FirstSquawk] Strong job growth is expected as the population ages and chronic conditions, including heart disease, cancer, and diabetes, become more prevalent - fortune
@@ -131,3 +122,7 @@
 - 09/06 16:34 [FirstSquawk] Restrictions meant to cool overheated market result in longer loan screening times.
 - 09/06 16:34 [FirstSquawk] Google is boosting AI chip production, now releasing two of its TPU chips a year and aiming for even faster rollouts.
 - 09/06 16:34 [FirstSquawk] United States and Europe cannot use sanctions and threats to force Iran into negotiations from a position of weakness, the parliament’s economic committee spokesperson said on Sunday.
+- 09/06 16:50 [FirstSquawk] Europe was supposed to leave gas facilities like Kårstø behind. Instead, the giant processing plant is at the center of a wider continental shift. Emission reductions are out. Energy security is in.
+- 09/06 16:50 [FirstSquawk] Nigel Farage has one overriding task: to convince voters he’s ready to take over as British prime minister in an election he believes may be just months away.
+- 09/06 16:50 [FirstSquawk] In February 2025, the U.N. launched a fund to channel corporate profits into nature conservation in developing countries, aiming to raise $1 billion a year. So far, it has attracted just two small contributors and $6,000.
+- 09/06 16:51 [FirstSquawk] Drones struck Russia’s Ryazan Oil Refinery overnight, igniting a fire at the key facility. A multi-hour drone assault was also reported across Rostov-on-Don.
