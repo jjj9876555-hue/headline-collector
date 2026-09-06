@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 03:42 JST／対象: 09/06 21:42 〜 09/07 03:42 JST（時刻はすべて日本時間）
+生成: 2026-09-07 03:53 JST／対象: 09/06 21:53 〜 09/07 03:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/07 01:01 | 09/07 01:03 | 1分（01:01→01:03） |
-| FirstSquawk | 57 | 09/06 21:51 | 09/07 03:10 | ⚠ 55分（22:22→23:17） |
+| FirstSquawk | 57 | 09/06 22:20 | 09/07 03:50 | ⚠ 55分（22:22→23:17） |
 | financialjuice | 0 | - | - | - |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 21:51 [FirstSquawk] Jerusalem Governorate: Occupation authorities issue 15 deportation orders against clergy and Jerusalemites from Al-Aqsa within 6 days
-- 09/06 21:52 [FirstSquawk] Jerusalem Governorate: Occupation paves way for Jewish holiday season by reducing Palestinian presence in Al-Aqsa Mosque
-- 09/06 21:52 [FirstSquawk] Lebanese Prime Minister: Israeli attacks will not deter the government from adhering to support the return of the displaced and meeting citizens' needs
 - 09/06 22:20 [FirstSquawk] Iranian Revolutionary Guard: Arrest of an Armed Cell Linked to the Monarchist Current Consisting of 8 Elements in Fars Province in the South of the Country
 - 09/06 22:20 [FirstSquawk] Iranian Revolutionary Guard: Seizure of a shipment of weapons and ammunition in West Azerbaijan Province, northwest of the country
 - 09/06 22:21 [FirstSquawk] CBS on the spokesperson for the U.S. Central Command: No truth to Iran's claim of targeting a U.S. ship in the Strait of Hormuz
@@ -83,3 +80,6 @@
 - 09/07 02:42 [FirstSquawk] U.S. SPECIAL REPRESENTATIVE STEVE WITKOFF SAYS IN UKRAINE THAT 'WE CAME TO SEE PUTIN FIRST; WE NEEDED TO HEAR WHERE HE STOOD', ADDING THAT 'WE HAD GOOD CONCRETE CONVERSATIONS WITH HIM, WHICH WE ADVISED ZELENSKY ABOUT'.
 - 09/07 03:10 [FirstSquawk] US DENIES IRAN’S CLAIM THAT IT STRUCK AN UNMANNED AMERICAN VESSEL IN THE STRAIT OF HORMUZ, CALLING THE REPORT A “TOTAL LIE.”
 - 09/07 03:10 [FirstSquawk] ISRAELI STRIKES KILL AT LEAST 7 IN SOUTHERN LEBANON AS REGIONAL TENSIONS PERSIST, WHILE GAZA HOLDS A MASS FUNERAL FOR MORE THAN 110 PALESTINIANS RECOVERED FROM RUBBLE.
+- 09/07 03:44 [FirstSquawk] IRAN'S TOP SECURITY OFFICIAL SAYS THAT IN THE COMING DAYS TEHRAN WILL DECLARE A RESTRICTED ZONE JUST BEYOND THE STRAIT OF HORMUZ - STATE MEDIA
+- 09/07 03:46 [FirstSquawk] IRAN'S TOP SECURITY OFFICIAL SAYS THE ZONE WILL BEGIN FROM THE LINE OF THE U.S. NAVY'S BLOCKADE AND EXTEND TO AREAS IN THE GULF, ADDING THAT ANY SHIP THAT ENTERS THE NEW ZONE WILL BE ADDED TO THE SANCTIONS LIST - STATE MEDIA
+- 09/07 03:50 [FirstSquawk] UKRAINE SAYS A DRONE STRIKE HIT ROSNEFT’S RYAZAN OIL REFINERY, SPARKING A FIRE AT THE 340,000-BPD FACILITY. THE ATTACK ADDS FRESH RISK TO RUSSIAN FUEL SUPPLIES AND GLOBAL OIL MARKETS AS UKRAINE CONTINUES TARGETING ENERGY INFRASTRUCTURE TO C…
