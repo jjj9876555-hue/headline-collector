@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 01:32 JST／対象: 09/06 01:32 〜 09/07 01:32 JST（時刻はすべて日本時間）
+生成: 2026-09-07 01:44 JST／対象: 09/06 01:44 〜 09/07 01:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/06 02:36 | 09/07 01:03 | ⚠ 1043分（07:38→01:01） |
-| FirstSquawk | 200 | 09/06 09:55 | 09/07 01:08 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 205 | 09/06 09:55 | 09/07 01:39 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 23 | 09/06 01:56 | 09/06 17:17 | ⚠ 176分（04:40→07:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 229 行（統合前 232 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 234 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -253,3 +253,8 @@
 - 09/07 01:08 [FirstSquawk] Netanyahu: There is still more to be achieved, and I mean first and foremost the overthrow of the regime in Iran.
 - 09/07 01:08 [FirstSquawk] Netanyahu: The regime in Iran is nearing its end, it is weak and struggling to survive, staggering, and there is another mission that must be accomplished, and we are determined to achieve it.
 - 09/07 01:08 [FirstSquawk] Axios on a source familiar with the Kyiv meetings: Kushner and Witkoff, during their meeting with Zelenskyy, emphasized their desire to achieve a breakthrough before the onset of winter.
+- 09/07 01:38 [FirstSquawk] Zelensky: We discussed with the American envoys the security and economic guarantees for Ukraine after the war
+- 09/07 01:38 [FirstSquawk] Zelensky: The land issue is the main sticking point that can only be resolved at the leaders' level
+- 09/07 01:38 [FirstSquawk] Kushner: President Trump wants to create a framework for achieving comprehensive and lasting peace, not just ending the current war in Ukraine
+- 09/07 01:38 [FirstSquawk] Witkoff: We came to Kyiv to get the negotiation wheel turning again, and we have a good feeling about what we've achieved and look forward to more
+- 09/07 01:39 [FirstSquawk] Witkoff: My mission with Kushner is to bring together the Russian and Ukrainian sides and narrow the gaps to reach a joint decision that ends the war

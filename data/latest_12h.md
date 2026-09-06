@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 01:32 JST／対象: 09/06 13:32 〜 09/07 01:32 JST（時刻はすべて日本時間）
+生成: 2026-09-07 01:44 JST／対象: 09/06 13:44 〜 09/07 01:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/07 01:01 | 09/07 01:03 | 1分（01:01→01:03） |
-| FirstSquawk | 122 | 09/06 13:32 | 09/07 01:08 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 125 | 09/06 13:50 | 09/07 01:39 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 4 | 09/06 15:07 | 09/06 17:17 | ⚠ 128分（15:09→17:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 125 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 128 行（統合前 131 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 13:32 [FirstSquawk] Japan PM Takaichi urges removal of Russia war victory statue - KYODO
-- 09/06 13:38 [FirstSquawk] Tokyo, Washington to step up investment cooperation under 2025 trade pact
 - 09/06 13:50 [FirstSquawk] U.S. Ambassador to Israel Mike Huckabee on Saturday condemned escalating settler attacks in the occupied West Bank and labeled the perpetrators "terrorists." - Yahoo
 - 09/06 13:58 [FirstSquawk] Meta readies Hatch AI agent for consumer launch as it seeks to monetize AI spending
 - 09/06 14:01 [FirstSquawk] Japan opposition Democratic Party for People reelects Tamaki as leader - KYODO
@@ -149,3 +147,8 @@
 - 09/07 01:08 [FirstSquawk] Netanyahu: There is still more to be achieved, and I mean first and foremost the overthrow of the regime in Iran.
 - 09/07 01:08 [FirstSquawk] Netanyahu: The regime in Iran is nearing its end, it is weak and struggling to survive, staggering, and there is another mission that must be accomplished, and we are determined to achieve it.
 - 09/07 01:08 [FirstSquawk] Axios on a source familiar with the Kyiv meetings: Kushner and Witkoff, during their meeting with Zelenskyy, emphasized their desire to achieve a breakthrough before the onset of winter.
+- 09/07 01:38 [FirstSquawk] Zelensky: We discussed with the American envoys the security and economic guarantees for Ukraine after the war
+- 09/07 01:38 [FirstSquawk] Zelensky: The land issue is the main sticking point that can only be resolved at the leaders' level
+- 09/07 01:38 [FirstSquawk] Kushner: President Trump wants to create a framework for achieving comprehensive and lasting peace, not just ending the current war in Ukraine
+- 09/07 01:38 [FirstSquawk] Witkoff: We came to Kyiv to get the negotiation wheel turning again, and we have a good feeling about what we've achieved and look forward to more
+- 09/07 01:39 [FirstSquawk] Witkoff: My mission with Kushner is to bring together the Russian and Ukrainian sides and narrow the gaps to reach a joint decision that ends the war
