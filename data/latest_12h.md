@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-06 22:30 JST／対象: 09/06 10:30 〜 09/06 22:30 JST（時刻はすべて日本時間）
+生成: 2026-09-06 22:43 JST／対象: 09/06 10:43 〜 09/06 22:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 172 | 09/06 10:32 | 09/06 22:22 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 170 | 09/06 10:45 | 09/06 22:22 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 6 | 09/06 12:09 | 09/06 17:17 | ⚠ 160分（12:26→15:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 175 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 173 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 10:32 [FirstSquawk] Spire Healthcare agrees £1.03 billion takeover by Toscafund and other - Rtrs
-- 09/06 10:33 [FirstSquawk] Citadel Eyes US Shale As Oil Trading Moves Closer To The Wellhead - zerohedge
 - 09/06 10:45 [FirstSquawk] Mail investigation: 62,000 arrests in the UK raise concerns over a “chilling” crackdown on free speech.
 - 09/06 10:45 [FirstSquawk] Russian fund executive linked to pro-Kremlin circles killed in occupied Crimea.
 - 09/06 10:46 [FirstSquawk] Greek PM Mitsotakis: Lesbos once faced an influx of 330,000 migrants and refugees; today, there are just over 300, with Turkish visitors helping support the local economy - Clash report
