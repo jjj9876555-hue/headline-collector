@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 02:14 JST／対象: 09/06 20:14 〜 09/07 02:14 JST（時刻はすべて日本時間）
+生成: 2026-09-07 02:30 JST／対象: 09/06 20:30 〜 09/07 02:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/07 01:01 | 09/07 01:03 | 1分（01:01→01:03） |
-| FirstSquawk | 41 | 09/06 20:17 | 09/07 01:39 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 43 | 09/06 20:45 | 09/07 02:29 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 0 | - | - | - |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 43 行（統合前 43 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 45 行（統合前 45 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 20:17 [FirstSquawk] Ben Gvir: Encouraging voluntary migration is the true and only solution to terrorism in Gaza and providing a better life for the Strip's residents
-- 09/06 20:17 [FirstSquawk] Yemeni Government Forces: Our forces are engaged in fierce clashes in the Al-Kudhah sector west of Taiz
-- 09/06 20:21 [FirstSquawk] TRUMP’S APPROVAL RATING HITS RECORD-LOW 33%; DEMOCRATS LEAD GOP BY 7.5 POINTS Donald Trump’s approval rating has fallen to a record-low 33%, with growing voter dissatisfaction over the economy and cost of living. Adding to Republican concer…
 - 09/06 20:45 [FirstSquawk] Israeli Army Chief of Staff: The phase is explosive on several fronts and we are on high alert during the Jewish holidays
 - 09/06 20:52 [FirstSquawk] U.S. Central Command: We rerouted 92 commercial ships, disabled 3, and inspected 2 since resuming the naval blockade on Iran
 - 09/06 21:51 [FirstSquawk] Jerusalem Governorate: Occupation authorities issue 15 deportation orders against clergy and Jerusalemites from Al-Aqsa within 6 days
@@ -67,3 +64,8 @@
 - 09/07 01:38 [FirstSquawk] Kushner: President Trump wants to create a framework for achieving comprehensive and lasting peace, not just ending the current war in Ukraine
 - 09/07 01:38 [FirstSquawk] Witkoff: We came to Kyiv to get the negotiation wheel turning again, and we have a good feeling about what we've achieved and look forward to more
 - 09/07 01:39 [FirstSquawk] Witkoff: My mission with Kushner is to bring together the Russian and Ukrainian sides and narrow the gaps to reach a joint decision that ends the war
+- 09/07 02:27 [FirstSquawk] SECRETARY-GENERAL OF MERZ'S CDU ON ELECTION IN GERMAN STATE OF SAXONY-ANHALT: NO COOPERATION WITH FAR RIGHT AND FAR LEFT -ZDF
+- 09/07 02:28 [FirstSquawk] LEAD CANDIDATE FOR GERMAN FAR-RIGHT PARTY AFD IN SAXONY-ANHALT: WILL STICK OUT HAND TO ANY PARTY WILLING TO WORK WITH US
+- 09/07 02:28 [FirstSquawk] LEAD CANDIDATE FOR GERMAN FAR-RIGHT PARTY AFD IN SAXONY-ANHALT: WILL NOT GIVE UP OUR VALUES JUST TO GOVERN
+- 09/07 02:29 [FirstSquawk] LEAD CANDIDATE FOR GERMAN FAR-RIGHT PARTY AFD IN SAXONY-ANHALT: IMMIGRATION, DOMESTIC SECURITY ARE NON-NEGOTIABLE TOPICS FOR US
+- 09/07 02:29 [FirstSquawk] GERMAN CDU SECRETARY GENERAL: WE DO NOT WORK WITH FAR RIGHT EXTREMISTS
