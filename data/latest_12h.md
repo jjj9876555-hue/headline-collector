@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-06 23:31 JST／対象: 09/06 11:31 〜 09/06 23:31 JST（時刻はすべて日本時間）
+生成: 2026-09-06 23:43 JST／対象: 09/06 11:43 〜 09/06 23:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 146 | 09/06 11:32 | 09/06 23:26 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 137 | 09/06 11:43 | 09/06 23:26 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 6 | 09/06 12:09 | 09/06 17:17 | ⚠ 160分（12:26→15:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 149 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 140 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 11:32 [FirstSquawk] German startup Isar launches uncrewed space rocket from Norway, according to live feed
-- 09/06 11:34 [FirstSquawk] Putin's meeting with U.S. envoys Witkoff, Kushner concludes, RIA reports
-- 09/06 11:37 [FirstSquawk] Iran's IRGC Navy issues warning to all vessels in Persian Gulf, near Strait of Hormuz
-- 09/06 11:37 [FirstSquawk] Iran's IRGC Navy says it targeted three vessels taking unauthorized routes through Strait of Hormuz
-- 09/06 11:38 [FirstSquawk] Iran's IRGC Navy says three U.S. vessels were targeted elsewhere; U.S. has not confirmed
-- 09/06 11:38 [FirstSquawk] GOLD LEAVES US VAULTS AS EUROPEAN CENTRAL BANKS RETHINK WHERE TO STORE RESERVES
-- 09/06 11:38 [FirstSquawk] NORWAY MAY CUT U.S. TREASURY HOLDINGS BY $80 BILLION NORGES BANK PROPOSES SHIFTING OUT OF U.S. GOVERNMENT BONDS INTO MORTGAGE-BACKED AND OTHER U.S. DEBT, RAISING FRESH CONCERNS OVER DEMAND FOR TREASURIES.
-- 09/06 11:39 [FirstSquawk] US HOUSING AFFORDABILITY CRISIS DEEPENS: GOOGLE SEARCHES FOR “CAN’T AFFORD A HOME” HIT RECORD HIGH, SURPASSING 2008 GFC LEVELS
-- 09/06 11:39 [FirstSquawk] Iran's IRGC Navy says it targeted three vessels traveling on unauthorized routes in Strait of Hormuz
 - 09/06 11:43 [FirstSquawk] WOMEN ACCOUNTED FOR 98% OF U.S. JOB GAINS IN AUGUST
 - 09/06 11:44 [FirstSquawk] GOLD HAS RISEN NEARLY 75% OF THE TIME WHEN THE U.S. DOLLAR FELL, HISTORICAL DATA SHOWS THE GOLD-DOLLAR RELATIONSHIP HAS TYPICALLY BEEN INVERSE, WITH DOLLAR WEAKNESS PROVIDING A TAILWIND FOR GOLD.
 - 09/06 11:45 [FirstSquawk] Authorities say Ukrainian drone strike on Belgorod region leaves one person dead
