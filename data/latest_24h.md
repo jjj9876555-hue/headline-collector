@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-06 19:43 JST／対象: 09/05 19:43 〜 09/06 19:43 JST（時刻はすべて日本時間）
+生成: 2026-09-06 19:59 JST／対象: 09/05 19:59 〜 09/06 19:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/05 22:42 | 09/06 07:38 | ⚠ 123分（02:42→04:45） |
-| FirstSquawk | 157 | 09/06 09:55 | 09/06 19:38 | 43分（17:40→18:24） |
+| FirstSquawk | 163 | 09/06 09:55 | 09/06 19:57 | 43分（17:40→18:24） |
 | financialjuice | 24 | 09/05 23:31 | 09/06 17:17 | ⚠ 176分（04:40→07:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 189 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 195 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -213,3 +213,9 @@
 - 09/06 19:09 [FirstSquawk] Iranian Parliament Speaker: We must avoid matters that affect national unity
 - 09/06 19:24 [FirstSquawk] Israeli Army: We attacked militants and infrastructure belonging to Hezbollah in southern Lebanon
 - 09/06 19:38 [FirstSquawk] Arrival of U.S. Envoys Witkoff and Kushner in the Ukrainian Capital Kyiv, Coming from Moscow as Part of Their Efforts to End the War
+- 09/06 19:53 [FirstSquawk] Lebanese President: Israeli attacks exceed the breach of the ceasefire agreement and the framework agreement to state institutions
+- 09/06 19:53 [FirstSquawk] Lebanese President: Targeting the Ministry of Finance building reveals a persistent pattern of attacks that reflects an intent to strike state institutions.
+- 09/06 19:53 [FirstSquawk] Lebanese President: We demand that the United States and the international community take action to stop these violations and hold their perpetrators accountable
+- 09/06 19:53 [FirstSquawk] Lebanese President: We are steadfast, despite the attacks, in our commitment to what preserves the sovereignty of Lebanon and the stability of its south
+- 09/06 19:57 [FirstSquawk] Lebanese Presidency: Aoun holds Israel fully responsible for the ongoing escalation in southern Lebanon
+- 09/06 19:57 [FirstSquawk] Lebanese President: Despite all the Israeli aggressions, Lebanon is steadfast in its commitment to what preserves its sovereignty, the stability of its south, and the safety of its citizens.
