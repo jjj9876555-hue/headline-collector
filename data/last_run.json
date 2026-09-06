@@ -1,5 +1,5 @@
 {
- "run_utc": "2026-09-06T05:35:25+00:00",
+ "run_utc": "2026-09-06T05:48:44+00:00",
  "sources": {
   "x:Yuto_Headline": {
    "ok": false,
@@ -31,9 +31,9 @@
   "tg:firstsquaw": {
    "ok": true,
    "fetched": 20,
-   "new": 1,
-   "oldest_jst": "2026-09-06 12:24",
-   "newest_jst": "2026-09-06 14:31"
+   "new": 3,
+   "oldest_jst": "2026-09-06 12:32",
+   "newest_jst": "2026-09-06 14:46"
   },
   "tg:FinancialJuice": {
    "ok": true,
@@ -43,7 +43,7 @@
    "newest_jst": "2026-09-06 12:26"
   }
  },
- "stored": 127,
+ "stored": 130,
  "cme": null,
  "cme_detail": "20260906/F http 403"
 }
