@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-06 18:44 JST／対象: 09/06 12:44 〜 09/06 18:44 JST（時刻はすべて日本時間）
+生成: 2026-09-06 18:58 JST／対象: 09/06 12:58 〜 09/06 18:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 63 | 09/06 12:46 | 09/06 18:43 | 43分（17:40→18:24） |
+| FirstSquawk | 73 | 09/06 13:02 | 09/06 18:47 | 43分（17:40→18:24） |
 | financialjuice | 4 | 09/06 15:07 | 09/06 17:17 | ⚠ 128分（15:09→17:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 64 行（統合前 67 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 74 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 12:46 [FirstSquawk] Japan weather agency warns of intense rain in Tokyo, 6 areas through Monday- KYODO
 - 09/06 13:02 [FirstSquawk] Uber robotaxis hit London's streets, but with humans still behind the wheel - CBS
 - 09/06 13:09 [FirstSquawk] Japan's Koizumi likely to remain defense minister in Cabinet reshuffle - KYODO
 - 09/06 13:13 [FirstSquawk] Japan weather agency warns of landslides amid heavy rain on Yakushima - KYODO
@@ -88,3 +87,14 @@
 - 09/06 18:26 [FirstSquawk] OPEC+ set to keep oil output policy unchanged on Sunday, sources say
 - 09/06 18:26 [FirstSquawk] Germany’s Chancellor Merz: We are seeing people come to Germany from many countries around the world, including many Americans who now say that Germany is, for us, at least as interesting a location for science and research as the United St…
 - 09/06 18:43 [FirstSquawk] Foreign Ministers of the UAE, Saudi Arabia, Qatar, Jordan, Indonesia, Pakistan, Turkey, and Egypt condemn the statements of Ben Gvir and Katz regarding the displacement of the Palestinian people from the Gaza Strip
+- 09/06 18:44 [FirstSquawk] Iranian Parliament Speaker: Sharp fluctuations in exchange rates, inflation, and unemployment constitute core challenges that cast their heavy shadows on the people's livelihoods.
+- 09/06 18:45 [FirstSquawk] Russian Ministry of Defense: We shot down 400 Ukrainian drones and 4 guided bombs in the last 24 hours
+- 09/06 18:45 [FirstSquawk] Iranian Parliament Speaker: America must realize before it's too late that the rules of the game have changed
+- 09/06 18:46 [FirstSquawk] Iranian Parliament Speaker: The United States has certainly realized that the era of proportional responses is over.
+- 09/06 18:46 [FirstSquawk] Qalibaf: Any future attacks targeting the security of Iran or its interests will be met with a faster, harsher, and more painful response
+- 09/06 18:46 [FirstSquawk] Qalibaf: Our strikes on the aggressors' bases in the recent operations were nothing but the beginning
+- 09/06 18:46 [FirstSquawk] Commander of Iran's Border Guard Forces: Our forces are ready to confront any threat or aggression and will not allow the slightest breach of the borders.
+- 09/06 18:46 [FirstSquawk] Statement from Eight Arab and Islamic Countries: We Condemn the Statements of the Israeli Ministers Ben Gvir and Katz Regarding the Displacement of Palestinians from Gaza
+- 09/06 18:47 [FirstSquawk] Statement from Eight Arab and Islamic Countries: We reject any attempts or plans targeting the displacement of Palestinians inside Palestine or outside it.
+- 09/06 18:47 [FirstSquawk] NYT on the US Central Command: Flow of ships through the Strait of Hormuz continues despite Iran aggression and momentum is increasing
+- 09/06 18:47 [FirstSquawk] NYT on the US Central Command: We helped 1,600 commercial ships and 800 million barrels of oil pass through the Strait of Hormuz
