@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 00:16 JST／対象: 09/06 12:16 〜 09/07 00:16 JST（時刻はすべて日本時間）
+生成: 2026-09-07 00:31 JST／対象: 09/06 12:31 〜 09/07 00:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 125 | 09/06 12:17 | 09/06 23:56 | ⚠ 59分（20:52→21:51） |
-| financialjuice | 5 | 09/06 12:26 | 09/06 17:17 | ⚠ 160分（12:26→15:07） |
+| FirstSquawk | 118 | 09/06 12:32 | 09/06 23:56 | ⚠ 59分（20:52→21:51） |
+| financialjuice | 4 | 09/06 15:07 | 09/06 17:17 | ⚠ 128分（15:09→17:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 127 行（統合前 130 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 119 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 12:17 [FirstSquawk] Iran war rebuild boosts world’s biggest air cargo handler - FT
-- 09/06 12:18 [FirstSquawk] Junior Chinese customs officer killed in mudslide 4 days into job deeply moves public - SCMP
-- 09/06 12:20 [FirstSquawk] US strikes three Iranian oil tankers in response to attacks on warships - FT
-- 09/06 12:23 [FirstSquawk] Taiwanese man sentenced to 6-year prison term in S. Korea for smuggling meth from Cambodia - YONHAP
-- 09/06 12:24 [FirstSquawk] Beijing seeks clarification over death of Chinese national while in custody in the Philippines
-- 09/06 12:26 [FirstSquawk] Israeli military launches strikes in southern Lebanon following Hezbollah drone attack on troops
-- 09/06 12:26 [financialjuice] Israeli military: striking southern Lebanon after Hezbollah sent drones toward Israel soldiers in security zone
-- 09/06 12:30 [FirstSquawk] Lee heads to France for state visit, summit with Macron - YONHAP
 - 09/06 12:32 [FirstSquawk] South Korea sees record tourist complaints amid surge in foreign visitors
 - 09/06 12:39 [FirstSquawk] China's robot lawn mowers flock to Europe as US import curbs bite Startup warns effective ban on robots will have 'no winners'
 - 09/06 12:41 [FirstSquawk] South Korean companies boost dollar deposits as won-dollar rate falls to nearly two-year low

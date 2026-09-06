@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 00:16 JST／対象: 09/06 18:16 〜 09/07 00:16 JST（時刻はすべて日本時間）
+生成: 2026-09-07 00:31 JST／対象: 09/06 18:31 〜 09/07 00:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 62 | 09/06 18:24 | 09/06 23:56 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 53 | 09/06 18:43 | 09/06 23:56 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 0 | - | - | - |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 62 行（統合前 62 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 53 行（統合前 53 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 18:24 [FirstSquawk] Germany’s Chancellor Merz admits his government has "not done enough" — then shifts part of the blame onto his coalition partner, the SPD: I admit that, given the polling numbers and the election results we have to fear, what we have done s…
-- 09/06 18:24 [FirstSquawk] Germany’s Chancellor Merz: Today we look back on an almost 80-year success story of the Federal Republic of Germany.
-- 09/06 18:24 [FirstSquawk] Russia says it has not ruled out 3-way meeting between President Trump, President Putin, and Chinese President Xi Jinping.
-- 09/06 18:25 [FirstSquawk] Germany’s Chancellor Merz: Some people say: "Then finally stop supporting Ukraine, and perhaps we’ll be better protected against threats like the one at Leipzig Airport."
-- 09/06 18:25 [FirstSquawk] Iran's Galibaf says future attacks on Iranian security or interests will trigger faster, stronger and more severe response - Telegram channel
-- 09/06 18:25 [FirstSquawk] Iran's parliament speaker Qalibaf: U.S. must grasp game rules have shifted before it’s too late - telegram channel
-- 09/06 18:26 [FirstSquawk] Australia will require social media apps to let users turn off their algorithm and see only posts from people they follow
-- 09/06 18:26 [FirstSquawk] OPEC+ set to keep oil output policy unchanged on Sunday, sources say
-- 09/06 18:26 [FirstSquawk] Germany’s Chancellor Merz: We are seeing people come to Germany from many countries around the world, including many Americans who now say that Germany is, for us, at least as interesting a location for science and research as the United St…
 - 09/06 18:43 [FirstSquawk] Foreign Ministers of the UAE, Saudi Arabia, Qatar, Jordan, Indonesia, Pakistan, Turkey, and Egypt condemn the statements of Ben Gvir and Katz regarding the displacement of the Palestinian people from the Gaza Strip
 - 09/06 18:44 [FirstSquawk] Iranian Parliament Speaker: Sharp fluctuations in exchange rates, inflation, and unemployment constitute core challenges that cast their heavy shadows on the people's livelihoods.
 - 09/06 18:45 [FirstSquawk] Russian Ministry of Defense: We shot down 400 Ukrainian drones and 4 guided bombs in the last 24 hours
