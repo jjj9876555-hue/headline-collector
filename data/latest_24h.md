@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-06 23:43 JST／対象: 09/05 23:43 〜 09/06 23:43 JST（時刻はすべて日本時間）
+生成: 2026-09-06 23:58 JST／対象: 09/05 23:58 〜 09/06 23:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/06 01:02 | 09/06 07:38 | ⚠ 123分（02:42→04:45） |
-| FirstSquawk | 183 | 09/06 09:55 | 09/06 23:26 | ⚠ 59分（20:52→21:51） |
+| FirstSquawk | 187 | 09/06 09:55 | 09/06 23:56 | ⚠ 59分（20:52→21:51） |
 | financialjuice | 23 | 09/06 01:56 | 09/06 17:17 | ⚠ 176分（04:40→07:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 211 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 215 行（統合前 218 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -235,3 +235,7 @@
 - 09/06 23:25 [FirstSquawk] First round of talks between Ukraine and US negotiators ends: Zelenskiy says
 - 09/06 23:26 [FirstSquawk] US envoy Witkoff: encouraged by meaningful, significant talks
 - 09/06 23:26 [FirstSquawk] US negotiator Kushner: US team anticipates further progress
+- 09/06 23:55 [FirstSquawk] Ukrainian President: End of the first round of talks with American negotiators
+- 09/06 23:56 [FirstSquawk] Witkoff: Optimistic regarding the substantive and important discussions we held in Kyiv
+- 09/06 23:56 [FirstSquawk] TASS Agency: Russian forces targeted a Ukrainian cargo ship in the Black Sea
+- 09/06 23:56 [FirstSquawk] Lebanese Ministry of Health: 4,362 martyrs and 12,378 injured in the Israeli aggression on the country since March 2 last year
