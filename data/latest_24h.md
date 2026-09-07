@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 10:01 JST／対象: 09/06 10:01 〜 09/07 10:01 JST（時刻はすべて日本時間）
+生成: 2026-09-07 10:18 JST／対象: 09/06 10:18 〜 09/07 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 282 | 09/06 10:13 | 09/07 10:01 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 21 | 09/06 10:17 | 09/07 09:16 | ⚠ 833分（17:17→07:11） |
+| FirstSquawk | 287 | 09/06 10:30 | 09/07 10:17 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 21 | 09/06 12:09 | 09/07 10:02 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 303 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 308 行（統合前 311 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 10:13 [FirstSquawk] Vietnam ramps up infrastructure investment, pouring tens of billions of dollars into modernizing railways and airports as it marks independence.
-- 09/06 10:14 [FirstSquawk] Berlin launches crisis response after hackers publish stolen data - RTRS
-- 09/06 10:15 [FirstSquawk] Al-Burhan: I am not involved with the Sudanese Dialogue Committee, which deals with political and civilian forces.
-- 09/06 10:16 [FirstSquawk] U.S. envoys Witkoff and Kushner have left Moscow, TASS reports.
-- 09/06 10:17 [financialjuice] White House official: US and Russian officials discussed detailed plans for next steps in Russia-Ukraine war talks, which will be announced
 - 09/06 10:30 [FirstSquawk] Kremlin: Kushner and Witkoff agreed to consider Putin’s assessments of possible ways to resolve the Ukraine conflict.
 - 09/06 10:32 [FirstSquawk] Spire Healthcare agrees £1.03 billion takeover by Toscafund and other - Rtrs
 - 09/06 10:33 [FirstSquawk] Citadel Eyes US Shale As Oil Trading Moves Closer To The Wellhead - zerohedge
@@ -327,3 +322,13 @@
 - 09/07 09:54 [FirstSquawk] JR East to suspend, reduce train services Monday due to heavy rain - KYODO
 - 09/07 10:00 [FirstSquawk] OPEC+ decides to pause oil output increases in October
 - 09/07 10:01 [FirstSquawk] Taiwan overnight interbank rate holds steady at 0.805% at the open
+- 09/07 10:02 [financialjuice] S.Korea’s won climbs 1% against dollar
+- 09/07 10:03 [FirstSquawk] Korean won strengthens 1% against the US dollar
+- 09/07 10:09 [FirstSquawk] Saudi Foreign Minister Prince Faisal bin Farhan and UK Foreign Secretary Ed Miliband called for intensified diplomatic efforts to de-escalate Middle East tensions and protect international waterways during a phone call, according to the Sau…
+- 09/07 10:10 [FirstSquawk] Philippine peso slides to a record-low 62.719 per US dollar
+- 09/07 10:15 [FirstSquawk] China’s central bank sets yuan midpoint at 6.7795 per dollar
+- 09/07 10:16 [FirstSquawk] Philippines defence secretary: No near-term decision expected on submarine program
+- 09/07 10:16 [FirstSquawk] Philippines defence secretary: China leverages democratic freedoms to promote ‘distortive narratives’
+- 09/07 10:17 [FirstSquawk] Philippines defence secretary: China energy cooperation remains closely linked to maritime disputes
+- 09/07 10:17 [FirstSquawk] Philippines defence secretary: Washington gives ‘definite assurances’ that its commitments to Manila remain unchanged
+- 09/07 10:17 [FirstSquawk] Philippines defence secretary: China may take advantage of perceived gaps from reduced US-South Korea exercises

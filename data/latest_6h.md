@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 10:01 JST／対象: 09/07 04:01 〜 09/07 10:01 JST（時刻はすべて日本時間）
+生成: 2026-09-07 10:18 JST／対象: 09/07 04:18 〜 09/07 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/07 07:10 | 09/07 07:10 | - |
-| FirstSquawk | 54 | 09/07 04:20 | 09/07 10:01 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 14 | 09/07 07:11 | 09/07 09:16 | ⚠ 75分（07:11→08:27） |
+| FirstSquawk | 63 | 09/07 04:20 | 09/07 10:17 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 15 | 09/07 07:11 | 09/07 10:02 | ⚠ 75分（07:11→08:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 69 行（統合前 69 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 79 行（統合前 79 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -93,3 +93,13 @@
 - 09/07 09:54 [FirstSquawk] JR East to suspend, reduce train services Monday due to heavy rain - KYODO
 - 09/07 10:00 [FirstSquawk] OPEC+ decides to pause oil output increases in October
 - 09/07 10:01 [FirstSquawk] Taiwan overnight interbank rate holds steady at 0.805% at the open
+- 09/07 10:02 [financialjuice] S.Korea’s won climbs 1% against dollar
+- 09/07 10:03 [FirstSquawk] Korean won strengthens 1% against the US dollar
+- 09/07 10:09 [FirstSquawk] Saudi Foreign Minister Prince Faisal bin Farhan and UK Foreign Secretary Ed Miliband called for intensified diplomatic efforts to de-escalate Middle East tensions and protect international waterways during a phone call, according to the Sau…
+- 09/07 10:10 [FirstSquawk] Philippine peso slides to a record-low 62.719 per US dollar
+- 09/07 10:15 [FirstSquawk] China’s central bank sets yuan midpoint at 6.7795 per dollar
+- 09/07 10:16 [FirstSquawk] Philippines defence secretary: No near-term decision expected on submarine program
+- 09/07 10:16 [FirstSquawk] Philippines defence secretary: China leverages democratic freedoms to promote ‘distortive narratives’
+- 09/07 10:17 [FirstSquawk] Philippines defence secretary: China energy cooperation remains closely linked to maritime disputes
+- 09/07 10:17 [FirstSquawk] Philippines defence secretary: Washington gives ‘definite assurances’ that its commitments to Manila remain unchanged
+- 09/07 10:17 [FirstSquawk] Philippines defence secretary: China may take advantage of perceived gaps from reduced US-South Korea exercises
