@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 13:52 JST／対象: 09/06 13:52 〜 09/07 13:52 JST（時刻はすべて日本時間）
+生成: 2026-09-07 14:05 JST／対象: 09/06 14:05 〜 09/07 14:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 267 | 09/06 13:58 | 09/07 13:48 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 23 | 09/06 15:07 | 09/07 11:26 | ⚠ 833分（17:17→07:11） |
+| FirstSquawk | 269 | 09/06 14:11 | 09/07 14:04 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 24 | 09/06 15:07 | 09/07 14:05 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 290 行（統合前 293 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 293 行（統合前 296 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 13:58 [FirstSquawk] Meta readies Hatch AI agent for consumer launch as it seeks to monetize AI spending
-- 09/06 14:01 [FirstSquawk] Japan opposition Democratic Party for People reelects Tamaki as leader - KYODO
 - 09/06 14:11 [FirstSquawk] Insurers pile on risk as payouts fall to lowest level in 20 years - FT
 - 09/06 14:21 [FirstSquawk] Swedish industrialist Wallenberg warns on leftwing opposition’s higher tax plans - FT
 - 09/06 14:31 [FirstSquawk] UBS demands new junior bankers show AI proficiency- FT
@@ -314,3 +312,8 @@
 - 09/07 13:46 [FirstSquawk] JAPAN’S FOREIGN RESERVES FELL A RECORD $79.6 BILLION IN AUGUST, THE "LARGEST-EVER" AFTER TOKYO SPENT A RECORD AMOUNT BUYING YEN - KALSHI
 - 09/07 13:48 [FirstSquawk] JOHN TERNUS’S FIRST TEST AT APPLE IS SELLING A $2,000 FOLDABLE IPHONE – FT
 - 09/07 13:48 [FirstSquawk] ESSILORLUXOTTICA OVERHAULS MANAGEMENT AFTER RIFT WITH FOUNDER’S SON – FT
+- 09/07 13:58 [FirstSquawk] Danske maintains eurozone unemployment forecasts at 6.4% for 2026 and 2027
+- 09/07 14:02 [FirstSquawk] JAPAN (JUL) LEADING INDEX CI ACTUAL: 117.9 VS 116.5 PREVIOUS;EST 118.0
+- 09/07 14:02 [FirstSquawk] JAPAN (JUL) COINCIDENT INDEX ACTUAL: 120.6 VS 118.5 PREVIOUS;EST 120.2
+- 09/07 14:04 [FirstSquawk] Russia hits vessel carrying military supplies at Chornomorsk port, also strikes Izmail
+- 09/07 14:05 [financialjuice] JAPANESE LEADING INDICATOR CHANGE ACTUAL 1.7 (FORECAST -, PREVIOUS 0.0) $MACRO
