@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 03:38 JST／対象: 09/07 15:38 〜 09/08 03:38 JST（時刻はすべて日本時間）
+生成: 2026-09-08 03:52 JST／対象: 09/07 15:52 〜 09/08 03:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/08 00:17 | 09/08 03:07 | ⚠ 112分（00:36→02:28） |
-| FirstSquawk | 137 | 09/07 15:40 | 09/08 03:15 | ⚠ 50分（02:00→02:51） |
+| FirstSquawk | 135 | 09/07 16:01 | 09/08 03:15 | ⚠ 50分（02:00→02:51） |
 | financialjuice | 46 | 09/07 16:00 | 09/08 02:41 | ⚠ 76分（16:02→17:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 184 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 182 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 15:40 [FirstSquawk] Iran cautions South Korea over potential military presence in Strait of Hormuz
-- 09/07 15:47 [FirstSquawk] Qatar foreign ministry spokesman says US strategic alliances alone are insufficient for Gulf security
 - 09/07 16:00 [financialjuice] SWISS UNEMPLOYMENT RATE UNADJUSTED ACTUAL 3% (FORECAST 3%, PREVIOUS 3.0%) $MACRO
 - 09/07 16:00 [financialjuice] SWISS UNEMPLOYMENT RATE ADJUSTED ACTUAL 3.1% (FORECAST 3.1%, PREVIOUS 3.1%) $MACRO
 - 09/07 16:01 [FirstSquawk] SPAIN (Q2) INE HOUSE PRICE INDEX QOQ ACTUAL: 3.4% VS 3.5% PREVIOUS
