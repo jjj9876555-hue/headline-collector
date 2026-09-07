@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 14:44 JST／対象: 09/07 08:44 〜 09/07 14:44 JST（時刻はすべて日本時間）
+生成: 2026-09-07 14:58 JST／対象: 09/07 08:58 〜 09/07 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 103 | 09/07 09:04 | 09/07 14:31 | 27分（14:04→14:31） |
-| financialjuice | 9 | 09/07 08:50 | 09/07 14:05 | ⚠ 158分（11:26→14:05） |
+| FirstSquawk | 105 | 09/07 09:04 | 09/07 14:53 | 27分（14:04→14:31） |
+| financialjuice | 9 | 09/07 09:13 | 09/07 14:54 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 112 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 114 行（統合前 116 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 08:50 [financialjuice] Japan foreign reserves $1,207.524 billion at end-August, down from $1,287.099 billion at end-July: MOF
 - 09/07 09:04 [FirstSquawk] SOUTH KOREA’S KOSPI CLIMBS 3%
 - 09/07 09:09 [FirstSquawk] AN AVERAGE OF 10 COMMODITY VESSELS CROSSED THE STRAIT OF HORMUZ DAILY, THE LOWEST SINCE MAY, ACCORDING TO KPLER'S 10-DAY MOVING AVERAGE
 - 09/07 09:09 [FirstSquawk] MACQUARIE GROUP SAYS AWARE SUPER WELCOMES MACQUARIE ASSET MANAGEMENT AS A JOINT PARTNER IN SECURE ELECTRONIC REGISTRIES VICTORIA, WITH AWARE SUPER TO RETAIN AND MANAGE THE REMAINING 50% OWNERSHIP
@@ -136,3 +135,6 @@
 - 09/07 14:04 [FirstSquawk] Russia hits vessel carrying military supplies at Chornomorsk port, also strikes Izmail
 - 09/07 14:05 [financialjuice] JAPANESE LEADING INDICATOR CHANGE ACTUAL 1.7 (FORECAST -, PREVIOUS 0.0) $MACRO
 - 09/07 14:31 [FirstSquawk] OIL RISES AS ESCALATING U.S.-IRAN CONFLICT STOKES SUPPLY DISRUPTION FEARS-WSJ
+- 09/07 14:51 [FirstSquawk] AI to enhance efficiency across China’s infrastructure sector, with credit benefits emerging gradually, Moody’s says
+- 09/07 14:53 [FirstSquawk] France’s Lescure says interest rates will increase significantly if no budget is agreed
+- 09/07 14:54 [financialjuice] French Finance Minister Lescure: If there is no budget, interest rates will go up markedly.
