@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 09:29 JST／対象: 09/07 03:29 〜 09/07 09:29 JST（時刻はすべて日本時間）
+生成: 2026-09-07 09:50 JST／対象: 09/07 03:50 〜 09/07 09:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/07 07:10 | 09/07 07:10 | - |
-| FirstSquawk | 44 | 09/07 03:44 | 09/07 09:27 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 52 | 09/07 03:50 | 09/07 09:49 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 14 | 09/07 07:11 | 09/07 09:16 | ⚠ 75分（07:11→08:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 59 行（統合前 59 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 67 行（統合前 67 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 03:44 [FirstSquawk] IRAN'S TOP SECURITY OFFICIAL SAYS THAT IN THE COMING DAYS TEHRAN WILL DECLARE A RESTRICTED ZONE JUST BEYOND THE STRAIT OF HORMUZ - STATE MEDIA
-- 09/07 03:46 [FirstSquawk] IRAN'S TOP SECURITY OFFICIAL SAYS THE ZONE WILL BEGIN FROM THE LINE OF THE U.S. NAVY'S BLOCKADE AND EXTEND TO AREAS IN THE GULF, ADDING THAT ANY SHIP THAT ENTERS THE NEW ZONE WILL BE ADDED TO THE SANCTIONS LIST - STATE MEDIA
 - 09/07 03:50 [FirstSquawk] UKRAINE SAYS A DRONE STRIKE HIT ROSNEFT’S RYAZAN OIL REFINERY, SPARKING A FIRE AT THE 340,000-BPD FACILITY. THE ATTACK ADDS FRESH RISK TO RUSSIAN FUEL SUPPLIES AND GLOBAL OIL MARKETS AS UKRAINE CONTINUES TARGETING ENERGY INFRASTRUCTURE TO C…
 - 09/07 04:20 [FirstSquawk] US ENERGY SECRETARY WRIGHT SAYS US NAVY ESCORTS WILL CONTINUE DEFENDING HORMUZ SHIPPING UNTIL IRAN CHANGES COURSE, WITH OIL FLOWS NOW ABOVE 9 MILLION BPD. WRIGHT SAYS THE REGION IS BACK ABOVE TWO-THIRDS OF PRE-WAR ENERGY FLOWS, BUT CONTINUE…
 - 09/07 04:39 [FirstSquawk] THE FAA SAYS 21 AIR FLIGHT 7598 OVERRAN THE RUNWAY AFTER LANDING AT MIAMI INTERNATIONAL AIRPORT AROUND 2 P.M. LOCAL TIME ON SUNDAY, SEPT. 6, AND THAT IT WILL INVESTIGATE THE INCIDENT.
@@ -83,3 +81,13 @@
 - 09/07 09:27 [FirstSquawk] Asian Currencies Consolidate; May Be Weighed by Fed Rate-Hike Prospects - WSJ
 - 09/07 09:27 [FirstSquawk] Oil Rises Amid Escalation in U.S.-Iran Conflict - WSJ
 - 09/07 09:27 [FirstSquawk] Amazon Cargo Plane Overshoots Runway in Miami, Killing Five People - WSJ
+- 09/07 09:29 [FirstSquawk] Lebanese media: Injuries reported in Deir Al-Zahrani after Israel targets building following evacuation order
+- 09/07 09:30 [FirstSquawk] Japan's Kumamoto Airport plans flights to Thailand - NA
+- 09/07 09:30 [FirstSquawk] ASIAN MARKETS OPENED HIGHER AS GAINS IN U.S. TECH STOCKS LIFTED SENTIMENT, WITH JAPAN AND SOUTH KOREA ADVANCING AFTER THE PHILADELPHIA SEMICONDUCTOR INDEX JUMPED 3.4%, THOUGH BRENT CRUDE EXTENDED GAINS AFTER FRESH U.S.-IRAN TANKER ATTACKS I…
+- 09/07 09:30 [FirstSquawk] ATTENTION IS NOW SHIFTING TO U.S. INFLATION DATA LATER THIS WEEK, WHICH COULD DETERMINE WHETHER THE FED HIKES AT ITS SEPT. 15-16 MEETING, AS STRONG JOBS DATA HAS ALREADY LIFTED HIKE EXPECTATIONS AND A HOTTER READING COULD BOOST THE DOLLAR.
+- 09/07 09:30 [FirstSquawk] THE YEN STAYED IN FOCUS AFTER A SHARP RALLY ON BOJ RATE-HIKE BETS, WHILE CHINA ANNOUNCED A 300 BLN YUAN ($44.7 BLN) CAPITAL INJECTION INTO MAJOR BANKS AND INSURERS, AS INVESTORS ALSO WATCH HORMUZ RISKS WHERE IRAN HAS THREATENED NEW MARITIME…
+- 09/07 09:34 [FirstSquawk] Japan Likely Sold Treasuries To Fund Record Yen Intervention – BBG
+- 09/07 09:37 [FirstSquawk] China injects $54 billion stimulus for financial sector amid fears over sluggish growth - FX
+- 09/07 09:39 [FirstSquawk] Brent Crude climbs towards $97 a barrel as West Asia tensions remain elevated - CNBC
+- 09/07 09:43 [FirstSquawk] The crash at Miami International Airport forced the closure of all runways and taxiways, causing significant disruption at the major US transport hub ahead of the Labor Day holiday - FT
+- 09/07 09:49 [FirstSquawk] OPEC+ agrees to keep oil output policy unchanged for October - FX
