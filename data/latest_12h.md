@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 22:22 JST／対象: 09/07 10:22 〜 09/07 22:22 JST（時刻はすべて日本時間）
+生成: 2026-09-07 22:38 JST／対象: 09/07 10:38 〜 09/07 22:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 180 | 09/07 10:22 | 09/07 22:09 | 27分（14:04→14:31） |
-| financialjuice | 39 | 09/07 10:22 | 09/07 21:45 | ⚠ 158分（11:26→14:05） |
+| FirstSquawk | 181 | 09/07 10:39 | 09/07 22:38 | 27分（14:04→14:31） |
+| financialjuice | 38 | 09/07 10:40 | 09/07 21:45 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 213 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,13 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 10:22 [financialjuice] China cbank pumps 500 mln yuan via 7-day reverse repos: statement
-- 09/07 10:22 [FirstSquawk] China’s central bank conducts 500 million yuan of 7-day reverse repo operations
-- 09/07 10:26 [FirstSquawk] Thai PM Anutin, 1 year on, prioritizes Chinese capital to buoy growth - NA
-- 09/07 10:30 [FirstSquawk] S. Korea, U.S., Japan kick off 3-way military exercise - YONHAP
-- 09/07 10:33 [FirstSquawk] Seoul stocks surge at the open as tech shares gain despite Middle East tensions
-- 09/07 10:36 [FirstSquawk] Tesla, SpaceX shares slide as robotaxi launch fails to impress investors
-- 09/07 10:36 [FirstSquawk] Benchmark rubber futures in Shanghai jump 3.04% to 19,340 yuan per metric ton
 - 09/07 10:39 [FirstSquawk] Gold Falls on Rising Fed Rate Hike Expectations - WSJ
 - 09/07 10:40 [financialjuice] S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.040% yield
 - 09/07 10:40 [FirstSquawk] South Korea central bank auctions 91-day monetary stabilisation bonds at 3.040% yield
@@ -237,3 +230,10 @@
 - 09/07 22:05 [FirstSquawk] UKRAINE'S EX-DEFENSE MINISTER HINTS AT MOBILIZING WOMEN 'WHO CAN OPERATE A DRONE BETTER? I'LL TELL YOU: PHYSIOLOGICALLY, WOMEN HAVE BETTER REACTION' — ALEXEY REZNIKOV
 - 09/07 22:06 [FirstSquawk] SWEDEN ‌TO BUY APPROX 10 HIMARS ARTILLERY ROCKET SYSTEMS FROM LOCKHEED MARTIN, FOR AROUND $728.8 MILLION WITH FIRST DELIVERIES SET FOR 2027
 - 09/07 22:09 [FirstSquawk] GERMANY’S CHANCELLOR MERZ: HOW WILL A POSSIBLE AFD-LED STATE GOVERNMENT DEAL WITH MINORITIES IN SAXONY-ANHALT? AND IF BOUNDARIES ARE CROSSED THERE, I CAN TELL YOU THAT, FROM THE FEDERAL GOVERNMENT’S POINT OF VIEW, WE WILL DO EVERYTHING TO C…
+- 09/07 22:26 [FirstSquawk] TRAFFIC DIVERGES ACROSS CHOKEPOINTS: MARITIME TRAFFIC TRENDS DIVERGED SHARPLY ACROSS THE STRAIT OF HORMUZ AND BAB EL-MANDEB. HORMUZ CROSSINGS FELL 28% TO 77, WITH LADEN VOYAGES DECLINING FROM 45 TO 33. SANCTIONED AND SHADOW FLEET CROSSINGS …
+- 09/07 22:26 [FirstSquawk] BAB EL-MANDEB MOVED IN THE OPPOSITE DIRECTION. CROSSINGS RECOVERED 9.7% TO 248 AND LADEN TRAFFIC ROSE FROM 103 TO 109. DARK TRANSITS HELD NEAR 23 AND TSS ADHERENCE REMAINED AROUND 91%. THE DATA POINTS TO GROWING PRESSURE ON GULF SHIPPING, W…
+- 09/07 22:26 [FirstSquawk] IRAQ STRUGGLES TO SELL OIL FROM BASRA AFTER HIKING ITS PRICES - BBG
+- 09/07 22:29 [FirstSquawk] CHINA ASKS AUTOMAKERS TO PRIORITIZE QUALITY AND SAFETY DESPITE RAPID DEVELOPMENT.
+- 09/07 22:36 [FirstSquawk] LABOUR ANNOUNCES A BY-ELECTION FOR HOLBORN AND ST PANCRAS ON OCTOBER 8.
+- 09/07 22:37 [FirstSquawk] TRAFFIC THROUGH THE STRAIT OF HORMUZ HAS FALLEN TO ITS LOWEST LEVEL SINCE MAY, WITH SHIPPING DATA SHOWING AN AVERAGE OF 10 VESSELS A DAY TRANSITING THE WATERWAY ON SUNDAY, REUTERS REPORTED, CITING ANALYTICS FIRM KPLER.
+- 09/07 22:38 [FirstSquawk] ONLY TWO VESSELS PASSED THROUGH THE STRAIT ON SATURDAY AND SIX ON SUNDAY, MOSTLY USING THE IRANIAN ROUTE, ACCORDING TO REUTERS. THE 10-DAY AVERAGE STOOD AT 13 VESSELS ON SATURDAY, DOWN FROM MORE THAN 15 ON FRIDAY.
