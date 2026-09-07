@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 11:18 JST／対象: 09/06 23:18 〜 09/07 11:18 JST（時刻はすべて日本時間）
+生成: 2026-09-07 11:33 JST／対象: 09/06 23:33 〜 09/07 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 133 | 09/06 23:22 | 09/07 11:16 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 18 | 09/07 07:11 | 09/07 10:40 | ⚠ 75分（07:11→08:27） |
+| FirstSquawk | 133 | 09/06 23:55 | 09/07 11:31 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 19 | 09/07 07:11 | 09/07 11:26 | ⚠ 75分（07:11→08:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 154 行（統合前 154 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 155 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 23:22 [FirstSquawk] The first round of negotiations between the Ukrainian President and the American envoys has concluded, with talks set to resume in a second round that will also include European representatives.
-- 09/06 23:25 [FirstSquawk] First round of talks between Ukraine and US negotiators ends: Zelenskiy says
-- 09/06 23:26 [FirstSquawk] US envoy Witkoff: encouraged by meaningful, significant talks
-- 09/06 23:26 [FirstSquawk] US negotiator Kushner: US team anticipates further progress
 - 09/06 23:55 [FirstSquawk] Ukrainian President: End of the first round of talks with American negotiators
 - 09/06 23:56 [FirstSquawk] Witkoff: Optimistic regarding the substantive and important discussions we held in Kyiv
 - 09/06 23:56 [FirstSquawk] TASS Agency: Russian forces targeted a Ukrainian cargo ship in the Black Sea
@@ -178,3 +174,8 @@
 - 09/07 11:08 [FirstSquawk] S. Korea exports to India jump over 30 pct in Jan.-Aug. on chip demand - yonhap
 - 09/07 11:12 [FirstSquawk] Yemen’s armed forces say 13 air strikes were carried out against Houthi positions
 - 09/07 11:16 [FirstSquawk] Goldman boosts Asia ex-Japan index target for one big reason - CNBC
+- 09/07 11:20 [FirstSquawk] Chevron makes $7 billion Venezuela oil gamble amid low costs and political risks
+- 09/07 11:26 [financialjuice] South Korea pension fund pauses foreign exchange hedging: market source says
+- 09/07 11:26 [FirstSquawk] South Korea’s pension fund halts foreign exchange hedging, market RTRS say
+- 09/07 11:29 [FirstSquawk] China is facing a serious youth jobs crisis. A record 12.7 million young graduates are looking for work, while AI is increasingly replacing or reducing entry-level jobs. This means graduates are now competing not only with millions of other…
+- 09/07 11:31 [FirstSquawk] South Korea sells 3-year government bonds with yield at 3.875%

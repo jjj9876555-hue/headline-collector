@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 11:18 JST／対象: 09/06 11:18 〜 09/07 11:18 JST（時刻はすべて日本時間）
+生成: 2026-09-07 11:33 JST／対象: 09/06 11:33 〜 09/07 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 284 | 09/06 11:18 | 09/07 11:16 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 24 | 09/06 12:09 | 09/07 10:40 | ⚠ 833分（17:17→07:11） |
+| FirstSquawk | 278 | 09/06 11:34 | 09/07 11:31 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 25 | 09/06 12:09 | 09/07 11:26 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 308 行（統合前 311 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 303 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 11:18 [FirstSquawk] Roughly 50 Joint Staff members underwent polygraphs amid investigation into leaks about dwindling U.S. ammunition supplies, NYT reports
-- 09/06 11:21 [FirstSquawk] Kremlin aide: Talks also covered economic issues
-- 09/06 11:21 [FirstSquawk] Kremlin aide: Talks proved useful
-- 09/06 11:21 [FirstSquawk] Kremlin aide: Multiple proposals for a peace settlement were formulated
-- 09/06 11:23 [FirstSquawk] Kremlin aide: Putin's talks with Trump's representatives were detailed, open and constructive
-- 09/06 11:23 [FirstSquawk] Kremlin aide: Russia outlined its assessment of developments on the frontline
-- 09/06 11:26 [FirstSquawk] Kremlin aide: Putin told Trump's envoys Russia will accomplish its aims, with root causes of conflict requiring resolution
-- 09/06 11:28 [FirstSquawk] Russia's Dmitriev: U.S. envoys' Moscow trip was an 'important peacemaking visit'
-- 09/06 11:30 [FirstSquawk] German startup Isar says its uncrewed rocket has reached orbit after launch in Norway
-- 09/06 11:32 [FirstSquawk] German startup Isar launches uncrewed space rocket from Norway, according to live feed
 - 09/06 11:34 [FirstSquawk] Putin's meeting with U.S. envoys Witkoff, Kushner concludes, RIA reports
 - 09/06 11:37 [FirstSquawk] Iran's IRGC Navy issues warning to all vessels in Persian Gulf, near Strait of Hormuz
 - 09/06 11:37 [FirstSquawk] Iran's IRGC Navy says it targeted three vessels taking unauthorized routes through Strait of Hormuz
@@ -332,3 +322,8 @@
 - 09/07 11:08 [FirstSquawk] S. Korea exports to India jump over 30 pct in Jan.-Aug. on chip demand - yonhap
 - 09/07 11:12 [FirstSquawk] Yemen’s armed forces say 13 air strikes were carried out against Houthi positions
 - 09/07 11:16 [FirstSquawk] Goldman boosts Asia ex-Japan index target for one big reason - CNBC
+- 09/07 11:20 [FirstSquawk] Chevron makes $7 billion Venezuela oil gamble amid low costs and political risks
+- 09/07 11:26 [financialjuice] South Korea pension fund pauses foreign exchange hedging: market source says
+- 09/07 11:26 [FirstSquawk] South Korea’s pension fund halts foreign exchange hedging, market RTRS say
+- 09/07 11:29 [FirstSquawk] China is facing a serious youth jobs crisis. A record 12.7 million young graduates are looking for work, while AI is increasingly replacing or reducing entry-level jobs. This means graduates are now competing not only with millions of other…
+- 09/07 11:31 [FirstSquawk] South Korea sells 3-year government bonds with yield at 3.875%
