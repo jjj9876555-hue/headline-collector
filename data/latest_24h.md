@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 08:30 JST／対象: 09/07 08:30 〜 09/08 08:30 JST（時刻はすべて日本時間）
+生成: 2026-09-08 08:42 JST／対象: 09/07 08:42 〜 09/08 08:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 267 | 09/07 09:04 | 09/08 05:58 | ⚠ 61分（04:56→05:57） |
+| FirstSquawk | 268 | 09/07 09:04 | 09/08 08:36 | ⚠ 158分（05:58→08:36） |
 | financialjuice | 85 | 09/07 08:50 | 09/08 08:30 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 354 行（統合前 364 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 355 行（統合前 365 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -378,3 +378,4 @@
 - 09/08 08:30 [financialjuice] Japan July overtime pay rises 3.1% year-on-year: government
 - 09/08 08:30 [financialjuice] Japan July total cash earnings rise 4.7% year on year: govt
 - 09/08 08:30 [financialjuice] Japan July inflation-adjusted real wages rise 2.4% yr/yr: govt
+- 09/08 08:36 [FirstSquawk] JAPAN'S JULY TOTAL CASH EARNINGS ROSE 4.7% YEAR-ON-YEAR, ABOVE THE 3.8% FORECAST, WITH INFLATION-ADJUSTED REAL WAGES UP 2.4% AND OVERTIME PAY UP 3.1% - GOVT
