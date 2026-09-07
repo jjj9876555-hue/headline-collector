@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 21:24 JST／対象: 09/07 09:24 〜 09/07 21:24 JST（時刻はすべて日本時間）
+生成: 2026-09-07 21:49 JST／対象: 09/07 09:49 〜 09/07 21:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 200 | 09/07 09:25 | 09/07 21:23 | 27分（14:04→14:31） |
-| financialjuice | 36 | 09/07 10:02 | 09/07 21:10 | ⚠ 158分（11:26→14:05） |
+| FirstSquawk | 190 | 09/07 09:49 | 09/07 21:48 | 27分（14:04→14:31） |
+| financialjuice | 41 | 09/07 10:02 | 09/07 21:45 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 230 行（統合前 239 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 225 行（統合前 234 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 09:25 [FirstSquawk] 30-YEAR JAPANESE GOVERNMENT BOND YIELD EDGES UP 1.0 BASIS POINT TO 3.975%
-- 09/07 09:25 [FirstSquawk] JAPAN’S NIKKEI INDEX SURGES 2%
-- 09/07 09:26 [FirstSquawk] US and China eye Trump-Xi talks on AI guardrails despite tech rift - NA
-- 09/07 09:26 [FirstSquawk] JGBs Edge Lower Amid Rising Oil Prices - WSJ
-- 09/07 09:26 [FirstSquawk] GOLD HOLDS NEAR $4,430 AFTER A SHARP DROP AS STRONG US JOBS DATA LIFTS FED RATE-HIKE BETS TO ~60% FOR SEPTEMBER. || A FIRMER DOLLAR AND GOLD BELOW ITS 200-DAY MOVING AVERAGE WEIGH ON BULLION, WHILE MIDDLE EAST TENSIONS AND HORMUZ RISKS CONT…
-- 09/07 09:26 [FirstSquawk] Nikkei Rises 1.8%, Led by Chip-Related Stocks - WSJ
-- 09/07 09:27 [FirstSquawk] Asian Currencies Consolidate; May Be Weighed by Fed Rate-Hike Prospects - WSJ
-- 09/07 09:27 [FirstSquawk] Oil Rises Amid Escalation in U.S.-Iran Conflict - WSJ
-- 09/07 09:27 [FirstSquawk] Amazon Cargo Plane Overshoots Runway in Miami, Killing Five People - WSJ
-- 09/07 09:29 [FirstSquawk] Lebanese media: Injuries reported in Deir Al-Zahrani after Israel targets building following evacuation order
-- 09/07 09:30 [FirstSquawk] Japan's Kumamoto Airport plans flights to Thailand - NA
-- 09/07 09:30 [FirstSquawk] ASIAN MARKETS OPENED HIGHER AS GAINS IN U.S. TECH STOCKS LIFTED SENTIMENT, WITH JAPAN AND SOUTH KOREA ADVANCING AFTER THE PHILADELPHIA SEMICONDUCTOR INDEX JUMPED 3.4%, THOUGH BRENT CRUDE EXTENDED GAINS AFTER FRESH U.S.-IRAN TANKER ATTACKS I…
-- 09/07 09:30 [FirstSquawk] ATTENTION IS NOW SHIFTING TO U.S. INFLATION DATA LATER THIS WEEK, WHICH COULD DETERMINE WHETHER THE FED HIKES AT ITS SEPT. 15-16 MEETING, AS STRONG JOBS DATA HAS ALREADY LIFTED HIKE EXPECTATIONS AND A HOTTER READING COULD BOOST THE DOLLAR.
-- 09/07 09:30 [FirstSquawk] THE YEN STAYED IN FOCUS AFTER A SHARP RALLY ON BOJ RATE-HIKE BETS, WHILE CHINA ANNOUNCED A 300 BLN YUAN ($44.7 BLN) CAPITAL INJECTION INTO MAJOR BANKS AND INSURERS, AS INVESTORS ALSO WATCH HORMUZ RISKS WHERE IRAN HAS THREATENED NEW MARITIME…
-- 09/07 09:34 [FirstSquawk] Japan Likely Sold Treasuries To Fund Record Yen Intervention – BBG
-- 09/07 09:37 [FirstSquawk] China injects $54 billion stimulus for financial sector amid fears over sluggish growth - FX
-- 09/07 09:39 [FirstSquawk] Brent Crude climbs towards $97 a barrel as West Asia tensions remain elevated - CNBC
-- 09/07 09:43 [FirstSquawk] The crash at Miami International Airport forced the closure of all runways and taxiways, causing significant disruption at the major US transport hub ahead of the Labor Day holiday - FT
 - 09/07 09:49 [FirstSquawk] OPEC+ agrees to keep oil output policy unchanged for October - FX
 - 09/07 09:54 [FirstSquawk] JR East to suspend, reduce train services Monday due to heavy rain - KYODO
 - 09/07 10:00 [FirstSquawk] OPEC+ decides to pause oil output increases in October
@@ -254,3 +236,16 @@
 - 09/07 21:10 [FirstSquawk] VON DER LEYEN DISCUSSES EU'S DECISION TO INCREASE INVOLVEMENT IN THE ARCTIC REGION.
 - 09/07 21:18 [FirstSquawk] BRITISH AMERICAN TOBACCO: RUSSIAN ATTACK DAMAGES PLANT IN UKRAINE'S CHERNIHIV REGION
 - 09/07 21:23 [FirstSquawk] ISRAELI FINANCE MINISTER BEZALEL SMOTRICH: IN ANY CASE, OSLO IS DEAD. AREA A OF THE WEST BANK IS OURS TOO.
+- 09/07 21:27 [financialjuice] ByteDance AI to launch a new AI model
+- 09/07 21:27 [FirstSquawk] DENMARK PRIME MINISTER:­ WE WANT TO WORK CLOSELY TOGETHER WITH THE U.S. ON SECURITY AND DEFENCE; WE OF BUT WANT TO WORK EVEN CLOSER TOGETHER WITH OUR EUROPEAN ALLIES, AND THAT IS EXACTLY WHAT WE ARE DOING IN THE ARCTIC REGION NOW
+- 09/07 21:28 [financialjuice] Week Ahead: Economic Indicators 7th – 11th September (US)
+- 09/07 21:28 [FirstSquawk] BYTEDANCE IS SAID READYING NEW AI MODEL FOR REAL-WORLD VIDEOS || PLANS TO LAUNCH SEEDANCE-BASED MODEL AS EARLY AS OCT || FOUNDER ZHANG YIMING IS OVERSEEING MODEL DEVELOPMENT
+- 09/07 21:37 [FirstSquawk] A MEMBER OF THE IRANIAN PARLIAMENT’S NATIONAL SECURITY AND FOREIGN POLICY COMMITTEE SAID ON MONDAY THAT US WARSHIPS WOULD HAVE “NO SAFE HAVEN” ANYWHERE IN THE REGION AND WARNED TEHRAN WOULD RESPOND FORCEFULLY AGAINST US MILITARY ASSETS AND …
+- 09/07 21:37 [FirstSquawk] THE ISLAMIC REPUBLIC WILL RESPOND FORCEFULLY AGAINST THE INVADING ENEMY’S WARSHIPS, EQUIPMENT, DESTROYERS, ASSETS AND BASES WHEREVER THEY ARE LOCATED,” EBRAHIM REZAEI ADDED.
+- 09/07 21:38 [FirstSquawk] XIAOMI SAYS SKYNOMAD N70 SERIES PRICED AT 209,900 YUAN
+- 09/07 21:43 [FirstSquawk] IRAN WAR HAS COST U.S. CONSUMERS AN ESTIMATED $100 BILLION IN HIGHER FUEL PRICES SINCE FEB. 28, ACCORDING TO BROWN UNIVERSITY.
+- 09/07 21:43 [FirstSquawk] THE AVERAGE HOUSEHOLD HAS PAID MORE THAN $760 EXTRA, MOSTLY FOR GASOLINE. TEXAS HAS ABSORBED THE BIGGEST TOTAL HIT AT ABOUT $11 BILLION, FOLLOWED BY CALIFORNIA AT $8 BILLION AND FLORIDA AT $5 BILLION.
+- 09/07 21:44 [financialjuice] China Commerce Minister Wang meets Finnish economic minister.
+- 09/07 21:45 [financialjuice] China Commerce Minister Wang: Stable EU ties are important currently.
+- 09/07 21:45 [financialjuice] China Commerce Minister Wang: China seeks to handle trade conflicts with the EU via talks.
+- 09/07 21:48 [FirstSquawk] CHINA COMMERCE MINISTER WANG TO FINNISH ECONOMIC MINISTER: CHINA SEEKS TO HANDLE TRADE CONFLICT WITH EU VIA TALKS
