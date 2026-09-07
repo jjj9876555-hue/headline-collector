@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 16:03 JST／対象: 09/06 16:03 〜 09/07 16:03 JST（時刻はすべて日本時間）
+生成: 2026-09-07 16:22 JST／対象: 09/06 16:22 〜 09/07 16:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 278 | 09/06 16:13 | 09/07 16:01 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 280 | 09/06 16:34 | 09/07 16:22 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 29 | 09/06 17:17 | 09/07 16:02 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 309 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 311 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 16:13 [FirstSquawk] Explosions across Russia as Ukrainian drones hammer cities and refinery burns
-- 09/06 16:14 [FirstSquawk] South Korea’s AI stock rally is rapidly transforming different corners of the country’s society, from romance to academics.
-- 09/06 16:14 [FirstSquawk] Europe Not Prepared for a Prolonged War With Russia: Defense Officials
-- 09/06 16:14 [FirstSquawk] At a meeting of the provincial crisis management committee, Arash Zerehtan Lahoni called for faster assistance to those injured and otherwise affected.
 - 09/06 16:34 [FirstSquawk] Germany plans anti-sabotage shield after airport drone attack, Bild reports
 - 09/06 16:34 [FirstSquawk] Restrictions meant to cool overheated market result in longer loan screening times.
 - 09/06 16:34 [FirstSquawk] Google is boosting AI chip production, now releasing two of its TPU chips a year and aiming for even faster rollouts.
@@ -333,3 +329,9 @@
 - 09/07 16:01 [FirstSquawk] SPAIN (Q2) INE HOUSE PRICE INDEX YOY ACTUAL: 12.2% VS 12.9% PREVIOUS
 - 09/07 16:01 [FirstSquawk] SWITZERLAND (AUG) FOREIGN CURRENCY RESERVES ACTUAL: 770.1B VS 768.3B PREVIOUS
 - 09/07 16:02 [financialjuice] Iran Foreign Ministry Spokesperson on X: South Korea participation in Gulf, Hormuz operations would have serious consequences.
+- 09/07 16:17 [FirstSquawk] Oil is approaching $100 after the US and Iran traded strikes on each other's tankers over the weekend.
+- 09/07 16:17 [FirstSquawk] US sank one Iranian tanker and disabled two others, including one near Iran's main export terminal.
+- 09/07 16:18 [FirstSquawk] US CENTCOM said: If you shoot at two of our ships, we will impose an even higher economic cost — taking out three of yours.
+- 09/07 16:19 [FirstSquawk] IRAN WARNED SOUTH KOREA ON MONDAY AGAINST DEPLOYING FORCES OR PARTICIPATING IN MILITARY OPERATIONS IN THE PERSIAN GULF AND THE STRAIT OF HORMUZ, SAYING SUCH INVOLVEMENT WOULD BE VIEWED AS DIRECT SUPPORT FOR THE UNITED STATES AND COULD HAVE …
+- 09/07 16:22 [FirstSquawk] UAE PRESIDENTIAL ADVISER GARGASH: DEALING WITH IRAN REMAINS A CENTRAL ISSUE FOR UAE AND OTHER GULF COUNTRIES
+- 09/07 16:22 [FirstSquawk] UAE PRESIDENTIAL ADVISER GARGASH: OUR ENERGY EXPORTS WILL NOT BE HELD HOSTAGE
