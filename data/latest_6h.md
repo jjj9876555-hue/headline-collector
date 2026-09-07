@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 02:32 JST／対象: 09/07 20:32 〜 09/08 02:32 JST（時刻はすべて日本時間）
+生成: 2026-09-08 02:45 JST／対象: 09/07 20:45 〜 09/08 02:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/08 00:17 | 09/08 02:28 | ⚠ 112分（00:36→02:28） |
-| FirstSquawk | 62 | 09/07 20:32 | 09/08 02:00 | 24分（23:32→23:56） |
-| financialjuice | 19 | 09/07 21:10 | 09/08 01:59 | ⚠ 60分（21:45→22:45） |
+| DeItaone | 4 | 09/08 00:17 | 09/08 02:44 | ⚠ 112分（00:36→02:28） |
+| FirstSquawk | 56 | 09/07 20:58 | 09/08 02:00 | 24分（23:32→23:56） |
+| financialjuice | 22 | 09/07 21:10 | 09/08 02:41 | ⚠ 60分（21:45→22:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 83 行（統合前 84 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 81 行（統合前 82 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 20:32 [FirstSquawk] CHILE POSTS TRADE SURPLUS OF $1,688 MILLION IN AUG.
-- 09/07 20:32 [FirstSquawk] CHILE'S IMPORTS FELL TO $7.81 BILLION IN AUG.
-- 09/07 20:33 [FirstSquawk] CHILEAN COPPER EXPORTS FELL TO $4.62 BILLION IN AUG.
-- 09/07 20:38 [FirstSquawk] MERZ: FAR-RIGHT STATE VICTORY WILL AFFECT GERMANY AS A WHOLE
-- 09/07 20:40 [FirstSquawk] UK PM SPOX WELLS: BUSINESS SEC REYNOLDS TO MEET JLR THIS WEEK
-- 09/07 20:42 [FirstSquawk] GERMANY'S MERZ AFTER SAXONY-ANHALT ELECTION: MY DETERMINATION TO DO THESE REFORMS REMAINS UNWAVERING
 - 09/07 20:58 [FirstSquawk] ETIHAD AIRWAYS: WILL FLY TO SAUDI ARABIA'S RED SEA COAST FROM 4 OCTOBER 2026
 - 09/07 20:59 [FirstSquawk] HUNGARY TO INTRODUCE `FAIR' WEALTH TAX, PREMIER MAGYAR SAYS
 - 09/07 21:03 [FirstSquawk] NORDIC ALLIANCE SAID TO EXPLORE REGIONAL SCALE-UP FUND
@@ -107,3 +101,7 @@
 - 09/08 01:59 [FirstSquawk] UK REAFFIRMS DEDICATION TO MIDDLE EAST PEACE AND SUPPORTS HORMUZ REOPENING.
 - 09/08 02:00 [FirstSquawk] UKRAINE’S PRESIDENT ZELENSKIY: THE US IS EXPLORING RUSSIA-UKRAINE WINTER DE-ESCALATION STEPS - AXIOS || THE U.S. IS EXPLORING WHETHER UKRAINE AND RUSSIA COULD TAKE STEPS TO DE-ESCALATE THE WAR DURING THE WINTER WHILE RESTARTING NEGOTIATIONS…
 - 09/08 02:28 [DeItaone] IRAN’S OIL REVENUES COLLAPSE AS BLOCKADE TIGHTENS Iran’s oil income is rapidly shrinking as a US naval blockade restricts exports and offshore stockpiles fall. Iranian crude stored outside the Gulf has dropped from 90 million to 29 million …
+- 09/08 02:40 [financialjuice] Trump: No more selling Bombardier in the United States.
+- 09/08 02:41 [financialjuice] Trump on Canada: If they want our market, they must build here.
+- 09/08 02:41 [financialjuice] Brent crude futures settle at $97.31/bbl, up $1.03, 1.1%
+- 09/08 02:44 [DeItaone] TRUMP: NO MORE SELLING BOMBARDIER IN UNITED STATES
