@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 08:42 JST／対象: 09/08 02:42 〜 09/08 08:42 JST（時刻はすべて日本時間）
+生成: 2026-09-08 08:53 JST／対象: 09/08 02:53 〜 09/08 08:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/08 02:44 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 12 | 09/08 02:51 | 09/08 08:36 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 25 | 09/08 04:22 | 09/08 08:30 | ⚠ 170分（04:54→07:45） |
+| DeItaone | 4 | 09/08 03:01 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
+| FirstSquawk | 9 | 09/08 02:59 | 09/08 08:36 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 38 | 09/08 04:22 | 09/08 08:51 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 43 行（統合前 43 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 51 行（統合前 51 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 02:44 [DeItaone] TRUMP: NO MORE SELLING BOMBARDIER IN UNITED STATES
-- 09/08 02:46 [DeItaone] TRUMP CALLS FOR BAN ON BOMBARDIER SALES IN US President Trump called for Bombardier sales in the US to stop, accusing Canada of unfairly restricting American companies, including Gulfstream Aerospace. He argued that Bombardier depends heavi…
-- 09/08 02:51 [FirstSquawk] TRUMP SAYS 'NO MORE SELLING BOMBARDIER IN THE UNITED STATES', CLAIMING 'THEIR PRODUCTS AREN'T GOOD ENOUGH' AND THAT OVER 50% OF THE COMPANY'S REVENUE COMES FROM THE U.S., ACCUSING IT OF LIVING OFF 'AMERICAN BUYERS, AMERICAN COMPANIES, AMERI…
-- 09/08 02:51 [FirstSquawk] TRUMP SAYS 'THAT ERA IS OVER', DEMANDING THAT IF BOMBARDIER WANTS THE U.S. MARKET 'THEY MUST BUILD HERE, AND STOP TREATING AMERICA LIKE A PIGGYBANK', ADDING 'BUY AMERICAN. FLY ON AMERICAN AIRLINERS. ENJOY AMERICAN LIQUOR AND BEVERAGES. SAIL…
-- 09/08 02:53 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $97.31/BBL, UP $1.03, OR 1.1%
 - 09/08 02:59 [FirstSquawk] IAEA SAYS THE ZAPORIZHZHYA NUCLEAR POWER PLANT WAS RE-CONNECTED TO THE ELECTRICAL GRID TODAY FOLLOWING SUCCESSFUL POWER LINE REPAIRS
 - 09/08 03:01 [DeItaone] TRUMP WANTS TO RENAME NEW MEXICO “NEW AMERICA” President Trump has called for New Mexico to be renamed “New America,” sharing several altered maps on social media. New Mexico Governor Michelle Lujan Grisham rejected the idea, saying the sta…
 - 09/08 03:05 [DeItaone] FED RATE HIKE ODDS CLIMB AS TRUMP TURNS UP PRESSURE Markets are leaning toward a 25bps Fed rate hike in September, with Kalshi pricing the probability at 52%, versus 48% for no change. The shift comes as President Trump ramps up pressure on…
@@ -67,3 +62,16 @@
 - 09/08 08:30 [financialjuice] Japan July total cash earnings rise 4.7% year on year: govt
 - 09/08 08:30 [financialjuice] Japan July inflation-adjusted real wages rise 2.4% yr/yr: govt
 - 09/08 08:36 [FirstSquawk] JAPAN'S JULY TOTAL CASH EARNINGS ROSE 4.7% YEAR-ON-YEAR, ABOVE THE 3.8% FORECAST, WITH INFLATION-ADJUSTED REAL WAGES UP 2.4% AND OVERTIME PAY UP 3.1% - GOVT
+- 09/08 08:50 [financialjuice] ❗ JAPANESE CURRENT ACCOUNT NSA YEN ACTUAL 2988.9B (FORECAST 2849.5B, PREVIOUS -92.3B) $MACRO
+- 09/08 08:50 [financialjuice] ‼ BREAKING: JAPANESE GDP REV QOQ ANNUALISED ACTUAL 1.4% (FORECAST 1.8%, PREVIOUS 1.1%) $MACRO
+- 09/08 08:50 [financialjuice] Japan July unadjusted current account surplus 2,988.9 billion yen, Ministry of Finance poll was 2,869.8 billion yen
+- 09/08 08:50 [financialjuice] Japan q2 revised real gdp annualized rises 1.4% (preliminary 1.1%, poll 1.6%)
+- 09/08 08:50 [financialjuice] ❗ JAPANESE GDP REVISED QOQ ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.3%) $MACRO
+- 09/08 08:50 [financialjuice] Japan Q2 revised real GDP rises 0.4% quarter on quarter (prelim 0.3%, poll 0.4%)
+- 09/08 08:50 [financialjuice] Japan Q2 revised capex down 0.9% quarter on quarter (prelim -1.2%, poll -0.8%)
+- 09/08 08:50 [financialjuice] JAPANESE GDP DEFLATOR FINAL YOY ACTUAL 2.6% (FORECAST 2.6%, PREVIOUS 2.6%) $MACRO
+- 09/08 08:51 [financialjuice] Japan Q2 revised private consumption unchanged quarter on quarter (prelim 0.0%)
+- 09/08 08:51 [financialjuice] Japan Q2 revised external demand contribution to GDP 0.5 percentage point (prelim 0.5 percentage point)
+- 09/08 08:51 [financialjuice] Japan Aug outstanding bank loans rise 5.4% yr/yr: BoJ
+- 09/08 08:51 [financialjuice] JAPANESE BANK LENDING YOY ACTUAL 5.4% (FORECAST -, PREVIOUS 5.4%) $MACRO
+- 09/08 08:51 [financialjuice] Japan Q2 revised domestic demand contribution -0.1 percentage point, prelim -0.2 percentage point

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 08:42 JST／対象: 09/07 08:42 〜 09/08 08:42 JST（時刻はすべて日本時間）
+生成: 2026-09-08 08:53 JST／対象: 09/07 08:53 〜 09/08 08:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
 | FirstSquawk | 268 | 09/07 09:04 | 09/08 08:36 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 85 | 09/07 08:50 | 09/08 08:30 | ⚠ 170分（04:54→07:45） |
+| financialjuice | 97 | 09/07 09:13 | 09/08 08:51 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 355 行（統合前 365 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 367 行（統合前 377 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 08:50 [financialjuice] Japan foreign reserves $1,207.524 billion at end-August, down from $1,287.099 billion at end-July: MOF
 - 09/07 09:04 [FirstSquawk] SOUTH KOREA’S KOSPI CLIMBS 3%
 - 09/07 09:09 [FirstSquawk] AN AVERAGE OF 10 COMMODITY VESSELS CROSSED THE STRAIT OF HORMUZ DAILY, THE LOWEST SINCE MAY, ACCORDING TO KPLER'S 10-DAY MOVING AVERAGE
 - 09/07 09:09 [FirstSquawk] MACQUARIE GROUP SAYS AWARE SUPER WELCOMES MACQUARIE ASSET MANAGEMENT AS A JOINT PARTNER IN SECURE ELECTRONIC REGISTRIES VICTORIA, WITH AWARE SUPER TO RETAIN AND MANAGE THE REMAINING 50% OWNERSHIP
@@ -379,3 +378,16 @@
 - 09/08 08:30 [financialjuice] Japan July total cash earnings rise 4.7% year on year: govt
 - 09/08 08:30 [financialjuice] Japan July inflation-adjusted real wages rise 2.4% yr/yr: govt
 - 09/08 08:36 [FirstSquawk] JAPAN'S JULY TOTAL CASH EARNINGS ROSE 4.7% YEAR-ON-YEAR, ABOVE THE 3.8% FORECAST, WITH INFLATION-ADJUSTED REAL WAGES UP 2.4% AND OVERTIME PAY UP 3.1% - GOVT
+- 09/08 08:50 [financialjuice] ❗ JAPANESE CURRENT ACCOUNT NSA YEN ACTUAL 2988.9B (FORECAST 2849.5B, PREVIOUS -92.3B) $MACRO
+- 09/08 08:50 [financialjuice] ‼ BREAKING: JAPANESE GDP REV QOQ ANNUALISED ACTUAL 1.4% (FORECAST 1.8%, PREVIOUS 1.1%) $MACRO
+- 09/08 08:50 [financialjuice] Japan July unadjusted current account surplus 2,988.9 billion yen, Ministry of Finance poll was 2,869.8 billion yen
+- 09/08 08:50 [financialjuice] Japan q2 revised real gdp annualized rises 1.4% (preliminary 1.1%, poll 1.6%)
+- 09/08 08:50 [financialjuice] ❗ JAPANESE GDP REVISED QOQ ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.3%) $MACRO
+- 09/08 08:50 [financialjuice] Japan Q2 revised real GDP rises 0.4% quarter on quarter (prelim 0.3%, poll 0.4%)
+- 09/08 08:50 [financialjuice] Japan Q2 revised capex down 0.9% quarter on quarter (prelim -1.2%, poll -0.8%)
+- 09/08 08:50 [financialjuice] JAPANESE GDP DEFLATOR FINAL YOY ACTUAL 2.6% (FORECAST 2.6%, PREVIOUS 2.6%) $MACRO
+- 09/08 08:51 [financialjuice] Japan Q2 revised private consumption unchanged quarter on quarter (prelim 0.0%)
+- 09/08 08:51 [financialjuice] Japan Q2 revised external demand contribution to GDP 0.5 percentage point (prelim 0.5 percentage point)
+- 09/08 08:51 [financialjuice] Japan Aug outstanding bank loans rise 5.4% yr/yr: BoJ
+- 09/08 08:51 [financialjuice] JAPANESE BANK LENDING YOY ACTUAL 5.4% (FORECAST -, PREVIOUS 5.4%) $MACRO
+- 09/08 08:51 [financialjuice] Japan Q2 revised domestic demand contribution -0.1 percentage point, prelim -0.2 percentage point
