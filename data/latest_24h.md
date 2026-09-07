@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 22:01 JST／対象: 09/06 22:01 〜 09/07 22:01 JST（時刻はすべて日本時間）
+生成: 2026-09-07 22:22 JST／対象: 09/06 22:22 〜 09/07 22:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 297 | 09/06 22:20 | 09/07 21:48 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 295 | 09/06 22:22 | 09/07 22:09 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 55 | 09/07 07:11 | 09/07 21:45 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 349 行（統合前 358 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 347 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 22:20 [FirstSquawk] Iranian Revolutionary Guard: Arrest of an Armed Cell Linked to the Monarchist Current Consisting of 8 Elements in Fars Province in the South of the Country
-- 09/06 22:20 [FirstSquawk] Iranian Revolutionary Guard: Seizure of a shipment of weapons and ammunition in West Azerbaijan Province, northwest of the country
-- 09/06 22:21 [FirstSquawk] CBS on the spokesperson for the U.S. Central Command: No truth to Iran's claim of targeting a U.S. ship in the Strait of Hormuz
-- 09/06 22:21 [FirstSquawk] Lebanese Parliament Speaker: Israel proves that it has not adhered to any of the ceasefire formulas and is reneging on agreements and understandings
-- 09/06 22:22 [FirstSquawk] Lebanese Parliament Speaker: Israel is bent on turning the South and its people into a ballot box of blood in the race for its upcoming elections
 - 09/06 22:22 [FirstSquawk] U.S. Energy Secretary: The average daily oil transit level through the Strait of Hormuz is 9 million barrels of oil
 - 09/06 23:17 [FirstSquawk] Trump: Canada's dollar disparity with U.S. is unacceptable
 - 09/06 23:22 [FirstSquawk] The first round of negotiations between the Ukrainian President and the American envoys has concluded, with talks set to resume in a second round that will also include European representatives.
@@ -373,3 +368,6 @@
 - 09/07 21:45 [financialjuice] China Commerce Minister Wang: Stable EU ties are important currently.
 - 09/07 21:45 [financialjuice] China Commerce Minister Wang: China seeks to handle trade conflicts with the EU via talks.
 - 09/07 21:48 [FirstSquawk] CHINA COMMERCE MINISTER WANG TO FINNISH ECONOMIC MINISTER: CHINA SEEKS TO HANDLE TRADE CONFLICT WITH EU VIA TALKS
+- 09/07 22:05 [FirstSquawk] UKRAINE'S EX-DEFENSE MINISTER HINTS AT MOBILIZING WOMEN 'WHO CAN OPERATE A DRONE BETTER? I'LL TELL YOU: PHYSIOLOGICALLY, WOMEN HAVE BETTER REACTION' — ALEXEY REZNIKOV
+- 09/07 22:06 [FirstSquawk] SWEDEN ‌TO BUY APPROX 10 HIMARS ARTILLERY ROCKET SYSTEMS FROM LOCKHEED MARTIN, FOR AROUND $728.8 MILLION WITH FIRST DELIVERIES SET FOR 2027
+- 09/07 22:09 [FirstSquawk] GERMANY’S CHANCELLOR MERZ: HOW WILL A POSSIBLE AFD-LED STATE GOVERNMENT DEAL WITH MINORITIES IN SAXONY-ANHALT? AND IF BOUNDARIES ARE CROSSED THERE, I CAN TELL YOU THAT, FROM THE FEDERAL GOVERNMENT’S POINT OF VIEW, WE WILL DO EVERYTHING TO C…

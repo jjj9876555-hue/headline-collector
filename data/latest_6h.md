@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 22:01 JST／対象: 09/07 16:01 〜 09/07 22:01 JST（時刻はすべて日本時間）
+生成: 2026-09-07 22:22 JST／対象: 09/07 16:22 〜 09/07 22:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 89 | 09/07 16:01 | 09/07 21:48 | 16分（20:42→20:58） |
-| financialjuice | 28 | 09/07 16:02 | 09/07 21:45 | ⚠ 76分（16:02→17:18） |
+| FirstSquawk | 86 | 09/07 16:22 | 09/07 22:09 | 17分（21:48→22:05） |
+| financialjuice | 27 | 09/07 17:18 | 09/07 21:45 | ⚠ 66分（20:03→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 107 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 16:01 [FirstSquawk] SPAIN (Q2) INE HOUSE PRICE INDEX YOY ACTUAL: 12.2% VS 12.9% PREVIOUS
-- 09/07 16:01 [FirstSquawk] SWITZERLAND (AUG) FOREIGN CURRENCY RESERVES ACTUAL: 770.1B VS 768.3B PREVIOUS
-- 09/07 16:02 [financialjuice] Iran Foreign Ministry Spokesperson on X: South Korea participation in Gulf, Hormuz operations would have serious consequences.
-- 09/07 16:17 [FirstSquawk] Oil is approaching $100 after the US and Iran traded strikes on each other's tankers over the weekend.
-- 09/07 16:17 [FirstSquawk] US sank one Iranian tanker and disabled two others, including one near Iran's main export terminal.
-- 09/07 16:18 [FirstSquawk] US CENTCOM said: If you shoot at two of our ships, we will impose an even higher economic cost — taking out three of yours.
-- 09/07 16:19 [FirstSquawk] IRAN WARNED SOUTH KOREA ON MONDAY AGAINST DEPLOYING FORCES OR PARTICIPATING IN MILITARY OPERATIONS IN THE PERSIAN GULF AND THE STRAIT OF HORMUZ, SAYING SUCH INVOLVEMENT WOULD BE VIEWED AS DIRECT SUPPORT FOR THE UNITED STATES AND COULD HAVE …
 - 09/07 16:22 [FirstSquawk] UAE PRESIDENTIAL ADVISER GARGASH: DEALING WITH IRAN REMAINS A CENTRAL ISSUE FOR UAE AND OTHER GULF COUNTRIES
 - 09/07 16:22 [FirstSquawk] UAE PRESIDENTIAL ADVISER GARGASH: OUR ENERGY EXPORTS WILL NOT BE HELD HOSTAGE
 - 09/07 16:23 [FirstSquawk] CHINA'S COMMERCE MINISTRY: TO COLLECT SECURITY DEPOSIT ON JAPANESE DICHLOROSILANE IMPORTS FROM SEP 8 - STATEMENT
@@ -135,3 +128,6 @@
 - 09/07 21:45 [financialjuice] China Commerce Minister Wang: Stable EU ties are important currently.
 - 09/07 21:45 [financialjuice] China Commerce Minister Wang: China seeks to handle trade conflicts with the EU via talks.
 - 09/07 21:48 [FirstSquawk] CHINA COMMERCE MINISTER WANG TO FINNISH ECONOMIC MINISTER: CHINA SEEKS TO HANDLE TRADE CONFLICT WITH EU VIA TALKS
+- 09/07 22:05 [FirstSquawk] UKRAINE'S EX-DEFENSE MINISTER HINTS AT MOBILIZING WOMEN 'WHO CAN OPERATE A DRONE BETTER? I'LL TELL YOU: PHYSIOLOGICALLY, WOMEN HAVE BETTER REACTION' — ALEXEY REZNIKOV
+- 09/07 22:06 [FirstSquawk] SWEDEN ‌TO BUY APPROX 10 HIMARS ARTILLERY ROCKET SYSTEMS FROM LOCKHEED MARTIN, FOR AROUND $728.8 MILLION WITH FIRST DELIVERIES SET FOR 2027
+- 09/07 22:09 [FirstSquawk] GERMANY’S CHANCELLOR MERZ: HOW WILL A POSSIBLE AFD-LED STATE GOVERNMENT DEAL WITH MINORITIES IN SAXONY-ANHALT? AND IF BOUNDARIES ARE CROSSED THERE, I CAN TELL YOU THAT, FROM THE FEDERAL GOVERNMENT’S POINT OF VIEW, WE WILL DO EVERYTHING TO C…

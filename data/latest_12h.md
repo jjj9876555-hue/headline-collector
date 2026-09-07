@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 22:01 JST／対象: 09/07 10:01 〜 09/07 22:01 JST（時刻はすべて日本時間）
+生成: 2026-09-07 22:22 JST／対象: 09/07 10:22 〜 09/07 22:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 186 | 09/07 10:03 | 09/07 21:48 | 27分（14:04→14:31） |
-| financialjuice | 41 | 09/07 10:02 | 09/07 21:45 | ⚠ 158分（11:26→14:05） |
+| FirstSquawk | 180 | 09/07 10:22 | 09/07 22:09 | 27分（14:04→14:31） |
+| financialjuice | 39 | 09/07 10:22 | 09/07 21:45 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 221 行（統合前 230 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 213 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 10:02 [financialjuice] S.Korea’s won climbs 1% against dollar
-- 09/07 10:03 [FirstSquawk] Korean won strengthens 1% against the US dollar
-- 09/07 10:09 [FirstSquawk] Saudi Foreign Minister Prince Faisal bin Farhan and UK Foreign Secretary Ed Miliband called for intensified diplomatic efforts to de-escalate Middle East tensions and protect international waterways during a phone call, according to the Sau…
-- 09/07 10:10 [FirstSquawk] Philippine peso slides to a record-low 62.719 per US dollar
-- 09/07 10:15 [FirstSquawk] China’s central bank sets yuan midpoint at 6.7795 per dollar
-- 09/07 10:16 [FirstSquawk] Philippines defence secretary: No near-term decision expected on submarine program
-- 09/07 10:16 [FirstSquawk] Philippines defence secretary: China leverages democratic freedoms to promote ‘distortive narratives’
-- 09/07 10:17 [FirstSquawk] Philippines defence secretary: China energy cooperation remains closely linked to maritime disputes
-- 09/07 10:17 [FirstSquawk] Philippines defence secretary: Washington gives ‘definite assurances’ that its commitments to Manila remain unchanged
-- 09/07 10:17 [FirstSquawk] Philippines defence secretary: China may take advantage of perceived gaps from reduced US-South Korea exercises
-- 09/07 10:19 [financialjuice] China sets yuan midpoint 709 pips weaker than estimate, biggest downside divergence since February 27, 2026
 - 09/07 10:22 [financialjuice] China cbank pumps 500 mln yuan via 7-day reverse repos: statement
 - 09/07 10:22 [FirstSquawk] China’s central bank conducts 500 million yuan of 7-day reverse repo operations
 - 09/07 10:26 [FirstSquawk] Thai PM Anutin, 1 year on, prioritizes Chinese capital to buoy growth - NA
@@ -245,3 +234,6 @@
 - 09/07 21:45 [financialjuice] China Commerce Minister Wang: Stable EU ties are important currently.
 - 09/07 21:45 [financialjuice] China Commerce Minister Wang: China seeks to handle trade conflicts with the EU via talks.
 - 09/07 21:48 [FirstSquawk] CHINA COMMERCE MINISTER WANG TO FINNISH ECONOMIC MINISTER: CHINA SEEKS TO HANDLE TRADE CONFLICT WITH EU VIA TALKS
+- 09/07 22:05 [FirstSquawk] UKRAINE'S EX-DEFENSE MINISTER HINTS AT MOBILIZING WOMEN 'WHO CAN OPERATE A DRONE BETTER? I'LL TELL YOU: PHYSIOLOGICALLY, WOMEN HAVE BETTER REACTION' — ALEXEY REZNIKOV
+- 09/07 22:06 [FirstSquawk] SWEDEN ‌TO BUY APPROX 10 HIMARS ARTILLERY ROCKET SYSTEMS FROM LOCKHEED MARTIN, FOR AROUND $728.8 MILLION WITH FIRST DELIVERIES SET FOR 2027
+- 09/07 22:09 [FirstSquawk] GERMANY’S CHANCELLOR MERZ: HOW WILL A POSSIBLE AFD-LED STATE GOVERNMENT DEAL WITH MINORITIES IN SAXONY-ANHALT? AND IF BOUNDARIES ARE CROSSED THERE, I CAN TELL YOU THAT, FROM THE FEDERAL GOVERNMENT’S POINT OF VIEW, WE WILL DO EVERYTHING TO C…
