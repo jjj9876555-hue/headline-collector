@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 09:50 JST／対象: 09/06 21:50 〜 09/07 09:50 JST（時刻はすべて日本時間）
+生成: 2026-09-07 10:01 JST／対象: 09/06 22:01 〜 09/07 10:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 111 | 09/06 21:51 | 09/07 09:49 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 111 | 09/06 22:20 | 09/07 10:01 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 14 | 09/07 07:11 | 09/07 09:16 | ⚠ 75分（07:11→08:27） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 21:51 [FirstSquawk] Jerusalem Governorate: Occupation authorities issue 15 deportation orders against clergy and Jerusalemites from Al-Aqsa within 6 days
-- 09/06 21:52 [FirstSquawk] Jerusalem Governorate: Occupation paves way for Jewish holiday season by reducing Palestinian presence in Al-Aqsa Mosque
-- 09/06 21:52 [FirstSquawk] Lebanese Prime Minister: Israeli attacks will not deter the government from adhering to support the return of the displaced and meeting citizens' needs
 - 09/06 22:20 [FirstSquawk] Iranian Revolutionary Guard: Arrest of an Armed Cell Linked to the Monarchist Current Consisting of 8 Elements in Fars Province in the South of the Country
 - 09/06 22:20 [FirstSquawk] Iranian Revolutionary Guard: Seizure of a shipment of weapons and ammunition in West Azerbaijan Province, northwest of the country
 - 09/06 22:21 [FirstSquawk] CBS on the spokesperson for the U.S. Central Command: No truth to Iran's claim of targeting a U.S. ship in the Strait of Hormuz
@@ -152,3 +149,6 @@
 - 09/07 09:39 [FirstSquawk] Brent Crude climbs towards $97 a barrel as West Asia tensions remain elevated - CNBC
 - 09/07 09:43 [FirstSquawk] The crash at Miami International Airport forced the closure of all runways and taxiways, causing significant disruption at the major US transport hub ahead of the Labor Day holiday - FT
 - 09/07 09:49 [FirstSquawk] OPEC+ agrees to keep oil output policy unchanged for October - FX
+- 09/07 09:54 [FirstSquawk] JR East to suspend, reduce train services Monday due to heavy rain - KYODO
+- 09/07 10:00 [FirstSquawk] OPEC+ decides to pause oil output increases in October
+- 09/07 10:01 [FirstSquawk] Taiwan overnight interbank rate holds steady at 0.805% at the open
