@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 23:06 JST／対象: 09/07 11:06 〜 09/07 23:06 JST（時刻はすべて日本時間）
+生成: 2026-09-07 23:26 JST／対象: 09/07 11:26 〜 09/07 23:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 173 | 09/07 11:08 | 09/07 22:56 | 27分（14:04→14:31） |
-| financialjuice | 40 | 09/07 11:26 | 09/07 23:02 | ⚠ 158分（11:26→14:05） |
+| FirstSquawk | 173 | 09/07 11:26 | 09/07 23:14 | 27分（14:04→14:31） |
+| financialjuice | 41 | 09/07 11:26 | 09/07 23:18 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 207 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 208 行（統合前 217 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 11:08 [FirstSquawk] S. Korea exports to India jump over 30 pct in Jan.-Aug. on chip demand - yonhap
-- 09/07 11:12 [FirstSquawk] Yemen’s armed forces say 13 air strikes were carried out against Houthi positions
-- 09/07 11:16 [FirstSquawk] Goldman boosts Asia ex-Japan index target for one big reason - CNBC
-- 09/07 11:20 [FirstSquawk] Chevron makes $7 billion Venezuela oil gamble amid low costs and political risks
 - 09/07 11:26 [financialjuice] South Korea pension fund pauses foreign exchange hedging: market source says
 - 09/07 11:26 [FirstSquawk] South Korea’s pension fund halts foreign exchange hedging, market RTRS say
 - 09/07 11:29 [FirstSquawk] China is facing a serious youth jobs crisis. A record 12.7 million young graduates are looking for work, while AI is increasingly replacing or reducing entry-level jobs. This means graduates are now competing not only with millions of other…
@@ -231,3 +227,8 @@
 - 09/07 22:56 [FirstSquawk] JAGUAR LAND ROVER WILL CUT 4K JOBS TO COMPETE WITH CHINA - AP
 - 09/07 23:01 [financialjuice] French Official confirms sending SAMP/T defense systems to Kyiv.
 - 09/07 23:02 [financialjuice] French Official confirms to send SAMP/T defense systems to Kyiv.
+- 09/07 23:07 [FirstSquawk] FRENCH OFFICIAL CONFIRMS THAT FRANCE WILL SEND SAMP/T DEFENCE SYSTEMS TO KYIV
+- 09/07 23:09 [FirstSquawk] GERMAN CHANCELLOR FRIEDRICH MERZ IS SCRAMBLING TO CONTAIN THE FALLOUT FROM THE FAR-RIGHT AFD'S VICTORY IN STATE ELECTIONS.
+- 09/07 23:10 [FirstSquawk] SAUDI ARABIA AUG. OFFICIAL RESERVE ASSETS SAR1.827T
+- 09/07 23:14 [FirstSquawk] N. KOREA'S DEFENCE MINISTER: IF U.S. AND ITS ALLIES SEEK A NEW MILITARY CONFRONTATION, WE WILL ALSO TAKE STRONG COUNTERMEASURES - KCNA
+- 09/07 23:18 [financialjuice] Crypto Fear & Greed Index: 71/100 - Greed

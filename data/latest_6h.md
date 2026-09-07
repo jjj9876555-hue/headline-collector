@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 23:06 JST／対象: 09/07 17:06 〜 09/07 23:06 JST（時刻はすべて日本時間）
+生成: 2026-09-07 23:26 JST／対象: 09/07 17:26 〜 09/07 23:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 78 | 09/07 17:08 | 09/07 22:56 | 17分（21:48→22:05） |
-| financialjuice | 30 | 09/07 17:18 | 09/07 23:02 | ⚠ 66分（20:03→21:10） |
+| FirstSquawk | 78 | 09/07 17:27 | 09/07 23:14 | 17分（21:48→22:05） |
+| financialjuice | 30 | 09/07 17:30 | 09/07 23:18 | ⚠ 66分（20:03→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 102 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 17:08 [FirstSquawk] USD/JPY NOW DOWN 0.5%, AFTER DROPPING 0.6% TO NEW DAY LOW
-- 09/07 17:09 [FirstSquawk] YEN CLIMBS TO HIGHEST LEVEL SINCE MAY, EXCEEDING INTERVENTION BOOST.
-- 09/07 17:14 [FirstSquawk] HUAWEI UNVEILS FIRST TRIPLE-FOLD PHONE WITH 'US-FREE' CORE CHIPS
-- 09/07 17:18 [financialjuice] Iran's Baghaei: Peru breaking off diplomatic relations with Tehran is non-consequential as ties were non-existent.
-- 09/07 17:20 [FirstSquawk] IRAN GHALIBAF IT’S SIMPLE: THE OIL AND GAS PRODUCTION CHAIN HERE IS SPRAWLING, ACCESSIBLE, AND EXPOSED. AMERICAN OIL AND GAS COMPANIES ACROSS THESE WATERS AND FACILITIES SHARE THAT EXPOSURE. STRIKE OUR ASSETS AND YOU GET STRUCK. WE’VE ALREA…
 - 09/07 17:27 [FirstSquawk] JAPAN SEEKS TAKAICHI-TRUMP TALKS FOR LATE SEPT - KYODO
 - 09/07 17:30 [financialjuice] EUROZONE SENTIX INVESTOR CONFIDENCE INDEX ACTUAL 5.1 (FORECAST 1.7, PREVIOUS 0.9) $MACRO
 - 09/07 17:33 [FirstSquawk] UBER HAS ENGAGED BANKS TO LAUNCH ITS FIRST MULTI-TRANCHE DEBT SALE IN EUROS.
@@ -126,3 +121,8 @@
 - 09/07 22:56 [FirstSquawk] JAGUAR LAND ROVER WILL CUT 4K JOBS TO COMPETE WITH CHINA - AP
 - 09/07 23:01 [financialjuice] French Official confirms sending SAMP/T defense systems to Kyiv.
 - 09/07 23:02 [financialjuice] French Official confirms to send SAMP/T defense systems to Kyiv.
+- 09/07 23:07 [FirstSquawk] FRENCH OFFICIAL CONFIRMS THAT FRANCE WILL SEND SAMP/T DEFENCE SYSTEMS TO KYIV
+- 09/07 23:09 [FirstSquawk] GERMAN CHANCELLOR FRIEDRICH MERZ IS SCRAMBLING TO CONTAIN THE FALLOUT FROM THE FAR-RIGHT AFD'S VICTORY IN STATE ELECTIONS.
+- 09/07 23:10 [FirstSquawk] SAUDI ARABIA AUG. OFFICIAL RESERVE ASSETS SAR1.827T
+- 09/07 23:14 [FirstSquawk] N. KOREA'S DEFENCE MINISTER: IF U.S. AND ITS ALLIES SEEK A NEW MILITARY CONFRONTATION, WE WILL ALSO TAKE STRONG COUNTERMEASURES - KCNA
+- 09/07 23:18 [financialjuice] Crypto Fear & Greed Index: 71/100 - Greed
