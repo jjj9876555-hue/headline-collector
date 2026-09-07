@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 15:25 JST／対象: 09/07 09:25 〜 09/07 15:25 JST（時刻はすべて日本時間）
+生成: 2026-09-07 15:49 JST／対象: 09/07 09:49 〜 09/07 15:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 112 | 09/07 09:25 | 09/07 15:23 | 27分（14:04→14:31） |
+| FirstSquawk | 97 | 09/07 09:54 | 09/07 15:47 | 27分（14:04→14:31） |
 | financialjuice | 11 | 09/07 10:02 | 09/07 15:22 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 123 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 108 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 09:25 [FirstSquawk] JAPAN’S NIKKEI INDEX SURGES 2%
-- 09/07 09:26 [FirstSquawk] US and China eye Trump-Xi talks on AI guardrails despite tech rift - NA
-- 09/07 09:26 [FirstSquawk] JGBs Edge Lower Amid Rising Oil Prices - WSJ
-- 09/07 09:26 [FirstSquawk] GOLD HOLDS NEAR $4,430 AFTER A SHARP DROP AS STRONG US JOBS DATA LIFTS FED RATE-HIKE BETS TO ~60% FOR SEPTEMBER. || A FIRMER DOLLAR AND GOLD BELOW ITS 200-DAY MOVING AVERAGE WEIGH ON BULLION, WHILE MIDDLE EAST TENSIONS AND HORMUZ RISKS CONT…
-- 09/07 09:26 [FirstSquawk] Nikkei Rises 1.8%, Led by Chip-Related Stocks - WSJ
-- 09/07 09:27 [FirstSquawk] Asian Currencies Consolidate; May Be Weighed by Fed Rate-Hike Prospects - WSJ
-- 09/07 09:27 [FirstSquawk] Oil Rises Amid Escalation in U.S.-Iran Conflict - WSJ
-- 09/07 09:27 [FirstSquawk] Amazon Cargo Plane Overshoots Runway in Miami, Killing Five People - WSJ
-- 09/07 09:29 [FirstSquawk] Lebanese media: Injuries reported in Deir Al-Zahrani after Israel targets building following evacuation order
-- 09/07 09:30 [FirstSquawk] Japan's Kumamoto Airport plans flights to Thailand - NA
-- 09/07 09:30 [FirstSquawk] ASIAN MARKETS OPENED HIGHER AS GAINS IN U.S. TECH STOCKS LIFTED SENTIMENT, WITH JAPAN AND SOUTH KOREA ADVANCING AFTER THE PHILADELPHIA SEMICONDUCTOR INDEX JUMPED 3.4%, THOUGH BRENT CRUDE EXTENDED GAINS AFTER FRESH U.S.-IRAN TANKER ATTACKS I…
-- 09/07 09:30 [FirstSquawk] ATTENTION IS NOW SHIFTING TO U.S. INFLATION DATA LATER THIS WEEK, WHICH COULD DETERMINE WHETHER THE FED HIKES AT ITS SEPT. 15-16 MEETING, AS STRONG JOBS DATA HAS ALREADY LIFTED HIKE EXPECTATIONS AND A HOTTER READING COULD BOOST THE DOLLAR.
-- 09/07 09:30 [FirstSquawk] THE YEN STAYED IN FOCUS AFTER A SHARP RALLY ON BOJ RATE-HIKE BETS, WHILE CHINA ANNOUNCED A 300 BLN YUAN ($44.7 BLN) CAPITAL INJECTION INTO MAJOR BANKS AND INSURERS, AS INVESTORS ALSO WATCH HORMUZ RISKS WHERE IRAN HAS THREATENED NEW MARITIME…
-- 09/07 09:34 [FirstSquawk] Japan Likely Sold Treasuries To Fund Record Yen Intervention – BBG
-- 09/07 09:37 [FirstSquawk] China injects $54 billion stimulus for financial sector amid fears over sluggish growth - FX
-- 09/07 09:39 [FirstSquawk] Brent Crude climbs towards $97 a barrel as West Asia tensions remain elevated - CNBC
-- 09/07 09:43 [FirstSquawk] The crash at Miami International Airport forced the closure of all runways and taxiways, causing significant disruption at the major US transport hub ahead of the Labor Day holiday - FT
-- 09/07 09:49 [FirstSquawk] OPEC+ agrees to keep oil output policy unchanged for October - FX
 - 09/07 09:54 [FirstSquawk] JR East to suspend, reduce train services Monday due to heavy rain - KYODO
 - 09/07 10:00 [FirstSquawk] OPEC+ decides to pause oil output increases in October
 - 09/07 10:01 [FirstSquawk] Taiwan overnight interbank rate holds steady at 0.805% at the open
@@ -147,3 +129,6 @@
 - 09/07 15:22 [financialjuice] Fitch Ratings: Japan corporate credit performance turns more uneven.
 - 09/07 15:23 [FirstSquawk] Goldman Sachs lowers Colonial rating to sell from neutral and target price to EUR 4.60 from EUR 5.45
 - 09/07 15:23 [FirstSquawk] Australia’s benchmark S&P/ASX 200 rises 0.1% to 9,010.90 at close
+- 09/07 15:30 [FirstSquawk] AUSTRALIA (Q2) FOREIGN RESERVES ACTUAL: 106.0B VS 106.7B PREVIOUS
+- 09/07 15:40 [FirstSquawk] Iran cautions South Korea over potential military presence in Strait of Hormuz
+- 09/07 15:47 [FirstSquawk] Qatar foreign ministry spokesman says US strategic alliances alone are insufficient for Gulf security
