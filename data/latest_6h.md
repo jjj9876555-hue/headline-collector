@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 04:42 JST／対象: 09/07 22:42 〜 09/08 04:42 JST（時刻はすべて日本時間）
+生成: 2026-09-08 04:53 JST／対象: 09/07 22:53 〜 09/08 04:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/08 00:17 | 09/08 03:07 | ⚠ 112分（00:36→02:28） |
-| FirstSquawk | 34 | 09/07 22:51 | 09/08 04:10 | ⚠ 50分（02:00→02:51） |
-| financialjuice | 17 | 09/07 22:45 | 09/08 04:22 | ⚠ 100分（02:41→04:22） |
+| FirstSquawk | 33 | 09/07 22:56 | 09/08 04:10 | ⚠ 50分（02:00→02:51） |
+| financialjuice | 17 | 09/07 23:01 | 09/08 04:43 | ⚠ 100分（02:41→04:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 58 行（統合前 59 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 57 行（統合前 58 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 22:45 [financialjuice] Russian Foreign Ministry closes the German consulate in St. Petersburg - Ria.
-- 09/07 22:51 [FirstSquawk] SERBIA'S GOVERNMENT SEEKS DISSOLUTION OF PARLIAMENT, TO PAVE THE WAY FOR SNAP ELECTIONS
 - 09/07 22:56 [FirstSquawk] JAGUAR LAND ROVER WILL CUT 4K JOBS TO COMPETE WITH CHINA - AP
 - 09/07 23:01 [financialjuice] French Official confirms sending SAMP/T defense systems to Kyiv.
 - 09/07 23:02 [financialjuice] French Official confirms to send SAMP/T defense systems to Kyiv.
@@ -82,3 +80,4 @@
 - 09/08 04:00 [FirstSquawk] ITALIAN PM MELONI SAYS 'I REMAIN FIRMLY CONVINCED THAT THE SCHENGEN AREA CAN ONLY BE PRESERVED IN THE BEST POSSIBLE WAY IF WE DEFEND THE EXTERNAL BORDERS OF THE EUROPEAN UNION', ADDING THAT THIS REQUIRES 'ALL MEMBER STATES CONTINUE TO DO TH…
 - 09/08 04:10 [FirstSquawk] ISRAELI DIASPORA AFFAIRS MINISTER AMICHAI CHIKLI SAYS 'WE HAVE IN EUROPE A SIGNIFICANT PART OF THE ELITES THAT HAVE BEEN SWEPT INTO THE MOST RADICAL POST-NATIONALIST PLACES — PLACES OF IDENTIFICATION, ESSENTIALLY, WITH ISLAMIST NATIONALISM,…
 - 09/08 04:22 [financialjuice] Tuesday FX Option Expiries
+- 09/08 04:43 [financialjuice] Nvidia's CEO Huang is on the UK King Charles' AI meeting guest list - Politico $NVDA

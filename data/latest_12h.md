@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 04:42 JST／対象: 09/07 16:42 〜 09/08 04:42 JST（時刻はすべて日本時間）
+生成: 2026-09-08 04:53 JST／対象: 09/07 16:53 〜 09/08 04:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/08 00:17 | 09/08 03:07 | ⚠ 112分（00:36→02:28） |
-| FirstSquawk | 116 | 09/07 16:44 | 09/08 04:10 | ⚠ 50分（02:00→02:51） |
-| financialjuice | 44 | 09/07 17:18 | 09/08 04:22 | ⚠ 100分（02:41→04:22） |
+| FirstSquawk | 114 | 09/07 16:54 | 09/08 04:10 | ⚠ 50分（02:00→02:51） |
+| financialjuice | 45 | 09/07 17:18 | 09/08 04:43 | ⚠ 100分（02:41→04:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 161 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 160 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 16:44 [FirstSquawk] JAPAN'S FOREIGN RESERVES DROP BY A RECORD $80 BILLION IN AUGUST FOLLOWING YEN INTERVENTION
-- 09/07 16:52 [FirstSquawk] IRAN SAYS NEGOTIATIONS WITH OMAN ON HORMUZ REACHED FINAL STAGES
 - 09/07 16:54 [FirstSquawk] IRAN: TO REACH ACCORD ON TEMPORARY HORMUZ ROUTE IN COMING DAYS
 - 09/07 16:56 [FirstSquawk] IRAN'S BAGHAEI SAYS QATARI DELEGATION WAS IN IRAN ON SUNDAY TO HELP DE-ESCALATE TENSIONS
 - 09/07 17:01 [FirstSquawk] GOOGLE, CATHAY USE AI TO TACKLE AVIATION’S TOP CLIMATE HEADACHE
@@ -185,3 +183,4 @@
 - 09/08 04:00 [FirstSquawk] ITALIAN PM MELONI SAYS 'I REMAIN FIRMLY CONVINCED THAT THE SCHENGEN AREA CAN ONLY BE PRESERVED IN THE BEST POSSIBLE WAY IF WE DEFEND THE EXTERNAL BORDERS OF THE EUROPEAN UNION', ADDING THAT THIS REQUIRES 'ALL MEMBER STATES CONTINUE TO DO TH…
 - 09/08 04:10 [FirstSquawk] ISRAELI DIASPORA AFFAIRS MINISTER AMICHAI CHIKLI SAYS 'WE HAVE IN EUROPE A SIGNIFICANT PART OF THE ELITES THAT HAVE BEEN SWEPT INTO THE MOST RADICAL POST-NATIONALIST PLACES — PLACES OF IDENTIFICATION, ESSENTIALLY, WITH ISLAMIST NATIONALISM,…
 - 09/08 04:22 [financialjuice] Tuesday FX Option Expiries
+- 09/08 04:43 [financialjuice] Nvidia's CEO Huang is on the UK King Charles' AI meeting guest list - Politico $NVDA
