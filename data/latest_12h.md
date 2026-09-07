@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 18:35 JST／対象: 09/07 06:35 〜 09/07 18:35 JST（時刻はすべて日本時間）
+生成: 2026-09-07 18:53 JST／対象: 09/07 06:53 〜 09/07 18:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/07 07:10 | 09/07 07:10 | - |
-| FirstSquawk | 171 | 09/07 09:04 | 09/07 18:32 | 27分（14:04→14:31） |
+| FirstSquawk | 173 | 09/07 09:04 | 09/07 18:52 | 27分（14:04→14:31） |
 | financialjuice | 43 | 09/07 07:11 | 09/07 18:12 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 212 行（統合前 217 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 214 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -236,3 +236,5 @@
 - 09/07 18:24 [FirstSquawk] VW INKS DEAL WITH ISRAELI FIRM TO TURN OSNABRUECK FACTORY INTO DEFENSE HUB
 - 09/07 18:27 [FirstSquawk] IRAN TO RAISE PETROL PRICES AS US WAR TRIGGERS SHORTAGES
 - 09/07 18:32 [FirstSquawk] JAGUAR LAND ROVER TO CUT 4,000 JOBS
+- 09/07 18:45 [FirstSquawk] YEMENI GOVERNMENT FORCES ADVANCED AGAINST IRAN-BACKED HOUTHIS DEEPER INTO THE NORTHERN PROVINCE OF AL-JAWF IN NORTHWESTERN YEMEN ON MONDAY AND WERE MOVING TOWARD ITS CAPITAL, AL-HAZM
+- 09/07 18:52 [FirstSquawk] PRESIDENT TRUMP'S ENVOYS, JARED KUSHNER AND STEVE WITKOFF, SAID THEY HELD "MEANINGFUL DISCUSSIONS" AND ARE ENCOURAGED BY THE TALKS IN KYIV, PART OF A TRIP THAT BEGAN IN MOSCOW, AS THE LATEST PUSH TO END MORE THAN 4½ YEARS OF RUSSIA'S FULL-S…

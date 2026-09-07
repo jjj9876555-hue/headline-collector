@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 18:35 JST／対象: 09/07 12:35 〜 09/07 18:35 JST（時刻はすべて日本時間）
+生成: 2026-09-07 18:53 JST／対象: 09/07 12:53 〜 09/07 18:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 92 | 09/07 12:37 | 09/07 18:32 | 27分（14:04→14:31） |
+| FirstSquawk | 89 | 09/07 13:14 | 09/07 18:52 | 20分（14:31→14:51） |
 | financialjuice | 24 | 09/07 14:05 | 09/07 18:12 | ⚠ 76分（16:02→17:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 113 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 110 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 12:37 [FirstSquawk] China's state bank and insurer shares slide after $54bn injection plan - NA
-- 09/07 12:41 [FirstSquawk] Thailand’s headline consumer price index seen continuing to rise, Commerce Ministry says
-- 09/07 12:44 [FirstSquawk] Thailand headline CPI projected at 2.37% in Q3 and 2.70% in Q4, Commerce Ministry says
-- 09/07 12:50 [FirstSquawk] Dollar Expected to Trade in 154.30-157.60 Yen Range This Week - WSJ
-- 09/07 12:52 [FirstSquawk] Macquarie shifts US Fed rate hike call to September 2026 from December
-- 09/07 12:52 [FirstSquawk] Macquarie still anticipates another 25-bps interest rate increase in Q1 2027
 - 09/07 13:14 [FirstSquawk] Moody’s Ratings rates KBank’s proposed Tier 2 subordinated notes
 - 09/07 13:29 [FirstSquawk] Philanthropic giving in Asia forecast to hit US$1.5 trillion over next decade - SCMP
 - 09/07 13:29 [FirstSquawk] Beijing to Inject Billions Into Banks, Insurers to Boost Growth - WSJ
@@ -48,6 +42,7 @@
 - 09/07 14:02 [FirstSquawk] JAPAN (JUL) COINCIDENT INDEX ACTUAL: 120.6 VS 118.5 PREVIOUS;EST 120.2
 - 09/07 14:04 [FirstSquawk] Russia hits vessel carrying military supplies at Chornomorsk port, also strikes Izmail
 - 09/07 14:05 [financialjuice] JAPANESE LEADING INDICATOR CHANGE ACTUAL 1.7 (FORECAST -, PREVIOUS 0.0) $MACRO
+- 09/07 14:20 [FirstSquawk] DOLLAR EXPECTED TO TRADE IN 154.30-157.60 YEN RANGE THIS WEEK-WSJ
 - 09/07 14:31 [FirstSquawk] OIL RISES AS ESCALATING U.S.-IRAN CONFLICT STOKES SUPPLY DISRUPTION FEARS-WSJ
 - 09/07 14:51 [FirstSquawk] AI to enhance efficiency across China’s infrastructure sector, with credit benefits emerging gradually, Moody’s says
 - 09/07 14:53 [FirstSquawk] France’s Lescure says interest rates will increase significantly if no budget is agreed
@@ -137,3 +132,5 @@
 - 09/07 18:24 [FirstSquawk] VW INKS DEAL WITH ISRAELI FIRM TO TURN OSNABRUECK FACTORY INTO DEFENSE HUB
 - 09/07 18:27 [FirstSquawk] IRAN TO RAISE PETROL PRICES AS US WAR TRIGGERS SHORTAGES
 - 09/07 18:32 [FirstSquawk] JAGUAR LAND ROVER TO CUT 4,000 JOBS
+- 09/07 18:45 [FirstSquawk] YEMENI GOVERNMENT FORCES ADVANCED AGAINST IRAN-BACKED HOUTHIS DEEPER INTO THE NORTHERN PROVINCE OF AL-JAWF IN NORTHWESTERN YEMEN ON MONDAY AND WERE MOVING TOWARD ITS CAPITAL, AL-HAZM
+- 09/07 18:52 [FirstSquawk] PRESIDENT TRUMP'S ENVOYS, JARED KUSHNER AND STEVE WITKOFF, SAID THEY HELD "MEANINGFUL DISCUSSIONS" AND ARE ENCOURAGED BY THE TALKS IN KYIV, PART OF A TRIP THAT BEGAN IN MOSCOW, AS THE LATEST PUSH TO END MORE THAN 4½ YEARS OF RUSSIA'S FULL-S…

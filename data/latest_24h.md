@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 18:35 JST／対象: 09/06 18:35 〜 09/07 18:35 JST（時刻はすべて日本時間）
+生成: 2026-09-07 18:53 JST／対象: 09/06 18:53 〜 09/07 18:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 287 | 09/06 18:43 | 09/07 18:32 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 277 | 09/06 19:08 | 09/07 18:52 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 43 | 09/07 07:11 | 09/07 18:12 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 330 行（統合前 335 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 320 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 18:43 [FirstSquawk] Foreign Ministers of the UAE, Saudi Arabia, Qatar, Jordan, Indonesia, Pakistan, Turkey, and Egypt condemn the statements of Ben Gvir and Katz regarding the displacement of the Palestinian people from the Gaza Strip
-- 09/06 18:44 [FirstSquawk] Iranian Parliament Speaker: Sharp fluctuations in exchange rates, inflation, and unemployment constitute core challenges that cast their heavy shadows on the people's livelihoods.
-- 09/06 18:45 [FirstSquawk] Russian Ministry of Defense: We shot down 400 Ukrainian drones and 4 guided bombs in the last 24 hours
-- 09/06 18:45 [FirstSquawk] Iranian Parliament Speaker: America must realize before it's too late that the rules of the game have changed
-- 09/06 18:46 [FirstSquawk] Iranian Parliament Speaker: The United States has certainly realized that the era of proportional responses is over.
-- 09/06 18:46 [FirstSquawk] Qalibaf: Any future attacks targeting the security of Iran or its interests will be met with a faster, harsher, and more painful response
-- 09/06 18:46 [FirstSquawk] Qalibaf: Our strikes on the aggressors' bases in the recent operations were nothing but the beginning
-- 09/06 18:46 [FirstSquawk] Commander of Iran's Border Guard Forces: Our forces are ready to confront any threat or aggression and will not allow the slightest breach of the borders.
-- 09/06 18:46 [FirstSquawk] Statement from Eight Arab and Islamic Countries: We Condemn the Statements of the Israeli Ministers Ben Gvir and Katz Regarding the Displacement of Palestinians from Gaza
-- 09/06 18:47 [FirstSquawk] Statement from Eight Arab and Islamic Countries: We reject any attempts or plans targeting the displacement of Palestinians inside Palestine or outside it.
-- 09/06 18:47 [FirstSquawk] NYT on the US Central Command: Flow of ships through the Strait of Hormuz continues despite Iran aggression and momentum is increasing
-- 09/06 18:47 [FirstSquawk] NYT on the US Central Command: We helped 1,600 commercial ships and 800 million barrels of oil pass through the Strait of Hormuz
 - 09/06 19:08 [FirstSquawk] Lebanese Ministry of Health: Today's Israeli airstrikes led to the complete destruction of a hospital in Al-Nabatieh Al-Fawqa
 - 09/06 19:08 [FirstSquawk] Lebanese Ministry of Health: Israel's destruction of the hospital constitutes a grave violation of international humanitarian law
 - 09/06 19:08 [FirstSquawk] Zelensky: We seek to bring forward the date of ending the war, and our position has been and remains constructive
@@ -354,3 +342,5 @@
 - 09/07 18:24 [FirstSquawk] VW INKS DEAL WITH ISRAELI FIRM TO TURN OSNABRUECK FACTORY INTO DEFENSE HUB
 - 09/07 18:27 [FirstSquawk] IRAN TO RAISE PETROL PRICES AS US WAR TRIGGERS SHORTAGES
 - 09/07 18:32 [FirstSquawk] JAGUAR LAND ROVER TO CUT 4,000 JOBS
+- 09/07 18:45 [FirstSquawk] YEMENI GOVERNMENT FORCES ADVANCED AGAINST IRAN-BACKED HOUTHIS DEEPER INTO THE NORTHERN PROVINCE OF AL-JAWF IN NORTHWESTERN YEMEN ON MONDAY AND WERE MOVING TOWARD ITS CAPITAL, AL-HAZM
+- 09/07 18:52 [FirstSquawk] PRESIDENT TRUMP'S ENVOYS, JARED KUSHNER AND STEVE WITKOFF, SAID THEY HELD "MEANINGFUL DISCUSSIONS" AND ARE ENCOURAGED BY THE TALKS IN KYIV, PART OF A TRIP THAT BEGAN IN MOSCOW, AS THE LATEST PUSH TO END MORE THAN 4½ YEARS OF RUSSIA'S FULL-S…
