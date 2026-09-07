@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 12:04 JST／対象: 09/07 00:04 〜 09/07 12:04 JST（時刻はすべて日本時間）
+生成: 2026-09-07 12:26 JST／対象: 09/07 00:26 〜 09/07 12:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 134 | 09/07 00:50 | 09/07 11:58 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 139 | 09/07 00:50 | 09/07 12:21 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 19 | 09/07 07:11 | 09/07 11:26 | ⚠ 75分（07:11→08:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 156 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 161 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -180,3 +180,8 @@
 - 09/07 11:46 [FirstSquawk] N.K. hacking group Kimsuky used AI coding agents to create decoys: report - YONHAP
 - 09/07 11:52 [FirstSquawk] Jakarta airports remain closed for 2nd day after volcanic eruptions - NA
 - 09/07 11:58 [FirstSquawk] JPMorgan lifts Sinch price target to SEK 66 from SEK 45
+- 09/07 12:04 [FirstSquawk] Small-, Mid-Cap Japanese Stocks May Outperform - WSJ
+- 09/07 12:09 [FirstSquawk] South Korea’s economic recovery strengthens, supported by AI-led exports and investment
+- 09/07 12:11 [FirstSquawk] AUD/USD Price Forecast: Consolidates around 0.7200; bullish potential seems intact - FX
+- 09/07 12:16 [FirstSquawk] Tokyo's Shinjuku Ward to ban private lodgings in residential areas - KYODO
+- 09/07 12:21 [FirstSquawk] Japan gov't eyes ODA for upgrading Indonesia's fishing ports: KYODO

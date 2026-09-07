@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 12:04 JST／対象: 09/06 12:04 〜 09/07 12:04 JST（時刻はすべて日本時間）
+生成: 2026-09-07 12:26 JST／対象: 09/06 12:26 〜 09/07 12:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 266 | 09/06 12:04 | 09/07 11:58 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 25 | 09/06 12:09 | 09/07 11:26 | ⚠ 833分（17:17→07:11） |
+| FirstSquawk | 259 | 09/06 12:26 | 09/07 12:21 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 24 | 09/06 12:26 | 09/07 11:26 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 291 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 283 行（統合前 286 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 12:04 [FirstSquawk] Greece to deliver €2.2 billion in tax cuts and wage hikes in 2027, prime minister says
-- 09/06 12:05 [FirstSquawk] Hunter Biden suggests he could enter 2028 U.S. presidential race
-- 09/06 12:07 [FirstSquawk] GLOBAL BILLIONAIRE WEALTH HITS RECORD $15.1 TRILLION AS AI BOOM FUELS FORTUNES
-- 09/06 12:09 [FirstSquawk] Greek government presents plan to boost earnings for workers and pensioners
-- 09/06 12:09 [FirstSquawk] Iranian FM Araghchi discusses regional developments, diplomatic efforts with Saudi and Turkish counterparts
-- 09/06 12:09 [financialjuice] White House official: US and Russian officials discussed detailed plans for next steps in Russia-Ukraine war talks, to be announced in coming weeks
-- 09/06 12:10 [FirstSquawk] Young squatters ditch mainstream lives to push Palestinians from land in the West Bank they claim is the divine birthright of Jewish people - WSJ
-- 09/06 12:14 [FirstSquawk] $2 trillion in market value erased amid US tariffs and 50 policy changes
-- 09/06 12:17 [FirstSquawk] Iran war rebuild boosts world’s biggest air cargo handler - FT
-- 09/06 12:18 [FirstSquawk] Junior Chinese customs officer killed in mudslide 4 days into job deeply moves public - SCMP
-- 09/06 12:20 [FirstSquawk] US strikes three Iranian oil tankers in response to attacks on warships - FT
-- 09/06 12:23 [FirstSquawk] Taiwanese man sentenced to 6-year prison term in S. Korea for smuggling meth from Cambodia - YONHAP
-- 09/06 12:24 [FirstSquawk] Beijing seeks clarification over death of Chinese national while in custody in the Philippines
 - 09/06 12:26 [FirstSquawk] Israeli military launches strikes in southern Lebanon following Hezbollah drone attack on troops
 - 09/06 12:26 [financialjuice] Israeli military: striking southern Lebanon after Hezbollah sent drones toward Israel soldiers in security zone
 - 09/06 12:30 [FirstSquawk] Lee heads to France for state visit, summit with Macron - YONHAP
@@ -315,3 +302,8 @@
 - 09/07 11:46 [FirstSquawk] N.K. hacking group Kimsuky used AI coding agents to create decoys: report - YONHAP
 - 09/07 11:52 [FirstSquawk] Jakarta airports remain closed for 2nd day after volcanic eruptions - NA
 - 09/07 11:58 [FirstSquawk] JPMorgan lifts Sinch price target to SEK 66 from SEK 45
+- 09/07 12:04 [FirstSquawk] Small-, Mid-Cap Japanese Stocks May Outperform - WSJ
+- 09/07 12:09 [FirstSquawk] South Korea’s economic recovery strengthens, supported by AI-led exports and investment
+- 09/07 12:11 [FirstSquawk] AUD/USD Price Forecast: Consolidates around 0.7200; bullish potential seems intact - FX
+- 09/07 12:16 [FirstSquawk] Tokyo's Shinjuku Ward to ban private lodgings in residential areas - KYODO
+- 09/07 12:21 [FirstSquawk] Japan gov't eyes ODA for upgrading Indonesia's fishing ports: KYODO
