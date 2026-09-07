@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 13:34 JST／対象: 09/07 07:34 〜 09/07 13:34 JST（時刻はすべて日本時間）
+生成: 2026-09-07 13:52 JST／対象: 09/07 07:52 〜 09/07 13:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 95 | 09/07 09:04 | 09/07 13:34 | 21分（12:52→13:14） |
+| FirstSquawk | 98 | 09/07 09:04 | 09/07 13:48 | 21分（12:52→13:14） |
 | financialjuice | 9 | 09/07 08:27 | 09/07 11:26 | ⚠ 46分（10:40→11:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 104 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 107 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -128,3 +128,6 @@
 - 09/07 13:31 [FirstSquawk] RUSSIA’S URANIUM PUSH RAISES CONCERN OVER NUCLEAR FUEL SUPPLY - FT
 - 09/07 13:33 [FirstSquawk] KOSPI jumps 4% in Seoul trading
 - 09/07 13:34 [FirstSquawk] SK Hynix climbs 7.6% as Samsung Electronics gains 5.1%
+- 09/07 13:46 [FirstSquawk] JAPAN’S FOREIGN RESERVES FELL A RECORD $79.6 BILLION IN AUGUST, THE "LARGEST-EVER" AFTER TOKYO SPENT A RECORD AMOUNT BUYING YEN - KALSHI
+- 09/07 13:48 [FirstSquawk] JOHN TERNUS’S FIRST TEST AT APPLE IS SELLING A $2,000 FOLDABLE IPHONE – FT
+- 09/07 13:48 [FirstSquawk] ESSILORLUXOTTICA OVERHAULS MANAGEMENT AFTER RIFT WITH FOUNDER’S SON – FT
