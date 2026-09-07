@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 14:58 JST／対象: 09/07 02:58 〜 09/07 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-07 15:25 JST／対象: 09/07 03:25 〜 09/07 15:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/07 07:10 | 09/07 07:10 | - |
-| FirstSquawk | 131 | 09/07 03:10 | 09/07 14:53 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 21 | 09/07 07:11 | 09/07 14:54 | ⚠ 158分（11:26→14:05） |
+| FirstSquawk | 148 | 09/07 03:44 | 09/07 15:23 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 25 | 09/07 07:11 | 09/07 15:22 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 153 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 174 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 03:10 [FirstSquawk] US DENIES IRAN’S CLAIM THAT IT STRUCK AN UNMANNED AMERICAN VESSEL IN THE STRAIT OF HORMUZ, CALLING THE REPORT A “TOTAL LIE.”
-- 09/07 03:10 [FirstSquawk] ISRAELI STRIKES KILL AT LEAST 7 IN SOUTHERN LEBANON AS REGIONAL TENSIONS PERSIST, WHILE GAZA HOLDS A MASS FUNERAL FOR MORE THAN 110 PALESTINIANS RECOVERED FROM RUBBLE.
 - 09/07 03:44 [FirstSquawk] IRAN'S TOP SECURITY OFFICIAL SAYS THAT IN THE COMING DAYS TEHRAN WILL DECLARE A RESTRICTED ZONE JUST BEYOND THE STRAIT OF HORMUZ - STATE MEDIA
 - 09/07 03:46 [FirstSquawk] IRAN'S TOP SECURITY OFFICIAL SAYS THE ZONE WILL BEGIN FROM THE LINE OF THE U.S. NAVY'S BLOCKADE AND EXTEND TO AREAS IN THE GULF, ADDING THAT ANY SHIP THAT ENTERS THE NEW ZONE WILL BE ADDED TO THE SANCTIONS LIST - STATE MEDIA
 - 09/07 03:50 [FirstSquawk] UKRAINE SAYS A DRONE STRIKE HIT ROSNEFT’S RYAZAN OIL REFINERY, SPARKING A FIRE AT THE 340,000-BPD FACILITY. THE ATTACK ADDS FRESH RISK TO RUSSIAN FUEL SUPPLIES AND GLOBAL OIL MARKETS AS UKRAINE CONTINUES TARGETING ENERGY INFRASTRUCTURE TO C…
@@ -177,3 +175,26 @@
 - 09/07 14:51 [FirstSquawk] AI to enhance efficiency across China’s infrastructure sector, with credit benefits emerging gradually, Moody’s says
 - 09/07 14:53 [FirstSquawk] France’s Lescure says interest rates will increase significantly if no budget is agreed
 - 09/07 14:54 [financialjuice] French Finance Minister Lescure: If there is no budget, interest rates will go up markedly.
+- 09/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION MOM ACTUAL -1.1% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
+- 09/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION YOY SA ACTUAL -1.6% (FORECAST 0%, PREVIOUS 0.00%) $MACRO
+- 09/07 15:02 [FirstSquawk] NORWAY (JUL) IND PROD MANUFACTURING WDA YOY ACTUAL: 1.5% VS 0.7% PREVIOUS
+- 09/07 15:02 [FirstSquawk] NORWAY (JUL) IND PROD MANUFACTURING MOM ACTUAL: 0.7% VS -1.0% PREVIOUS
+- 09/07 15:02 [FirstSquawk] NORWAY (JUL) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: -1.8% VS 9.1% PREVIOUS
+- 09/07 15:02 [FirstSquawk] NORWAY (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: -7.1% VS 7.6% PREVIOUS
+- 09/07 15:02 [FirstSquawk] GERMANY (JUL) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: -1.6% VS -0.1% PREVIOUS;EST 0.0%
+- 09/07 15:02 [FirstSquawk] GERMANY (JUL) INDUSTRIAL PRODUCTION SA MOM ACTUAL: -1.1% VS 0.2% PREVIOUS;EST 0.2%
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) BUDGET BALANCE ACTUAL: VS -9.2B PREVIOUS
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY YOY ACTUAL: 0.5% VS 0.6% PREVIOUS;EST 0.7%
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY MOM ACTUAL: -0.6% VS 0.4% PREVIOUS;EST -0.3%
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF YOY ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.9%
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF MOM ACTUAL: -0.3% VS -0.3% PREVIOUS;EST -0.1%
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPI YOY ACTUAL: 0.3% VS 0.2% PREVIOUS;EST 0.5%
+- 09/07 15:10 [financialjuice] UK house prices fell 0.4% on year, fell 0.1% on quarter and fell 0.2% on month in August - Lloyds.
+- 09/07 15:10 [FirstSquawk] NOVARTIS: PELACARSEN HEART DISEASE DRUG MISSED PRIMARY ENDPOINT - WSJ
+- 09/07 15:14 [FirstSquawk] UAE Investment Ministry partners with Sunstone Development to establish anode production facility
+- 09/07 15:14 [FirstSquawk] UAE Investment Ministry will support Sunstone’s setup and licensing in the UAE as part of MOU
+- 09/07 15:16 [FirstSquawk] UAE Ministry of Investment says anode facility will lower import reliance and enhance competitiveness across aluminium sector
+- 09/07 15:17 [FirstSquawk] UAE Ministry of Investment and Sunstone will form ministry-chaired working group to oversee delivery
+- 09/07 15:22 [financialjuice] Fitch Ratings: Japan corporate credit performance turns more uneven.
+- 09/07 15:23 [FirstSquawk] Goldman Sachs lowers Colonial rating to sell from neutral and target price to EUR 4.60 from EUR 5.45
+- 09/07 15:23 [FirstSquawk] Australia’s benchmark S&P/ASX 200 rises 0.1% to 9,010.90 at close

@@ -7,31 +7,29 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 14:58 JST／対象: 09/06 14:58 〜 09/07 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-07 15:25 JST／対象: 09/06 15:25 〜 09/07 15:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 266 | 09/06 15:02 | 09/07 14:53 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 25 | 09/06 15:07 | 09/07 14:54 | ⚠ 833分（17:17→07:11） |
+| FirstSquawk | 284 | 09/06 15:35 | 09/07 15:23 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 26 | 09/06 17:17 | 09/07 15:22 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 291 行（統合前 296 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 312 行（統合前 315 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 15:02 [FirstSquawk] ADVISORY ON SINGAPORE AIRLINES FLIGHTS IMPACTED BY THE ERUPTION OF MOUNT ANAK KRAKATAU Due to volcanic activity caused by the eruption of Mount Anak Krakatau in Indonesia, the following Singapore Airlines flights have been cancelled:
-- 09/06 15:07 [financialjuice/FirstSquawk] Oman July M2 money supply rises 14.94% y/y: central bank
-- 09/06 15:08 [financialjuice] Oman July conventional bank lending rises 12.54% y/y: central bank
-- 09/06 15:09 [financialjuice/FirstSquawk] Oman July central bank foreign assets at 7.28 billion rials: central bank
 - 09/06 15:35 [FirstSquawk] Indonesia's Anak Krakatau eruption halts flights, schools, fishing
 - 09/06 15:35 [FirstSquawk] An AfD-led government would be the first time the far right has led a German state in the postwar era, and would give its candidate, Ulrich Siegmund, a new national platform
 - 09/06 15:36 [FirstSquawk] In the historic Japanese city of Kanazawa, craftsmen painstakingly shape and slice blocks of ice destined to chill negronis in some of the world's trendiest bars.
 - 09/06 15:36 [FirstSquawk] US Central Command struck three Iranian crude oil tankers on Saturday, after Iran's IRGC fired ballistic missiles at two US Navy warships. The strikes come amid renewed US-Iran hostilities, threatening the Islamabad MoU that had established…
+- 09/06 15:37 [FirstSquawk] Oman July central bank foreign assets at 7.28 billion rials: central bank
+- 09/06 15:37 [FirstSquawk] Oman July M2 money supply rises 14.94% y/y: central bank
 - 09/06 15:37 [FirstSquawk] Japan's Toei refutes reports of Dragon Ball license for French theme park French-Saudi announcement puzzles copyright holder of legendary anime
 - 09/06 15:57 [FirstSquawk] governor of Iran’s western province of Kordestan ordered an investigation on Sunday into a fuel tanker explosion near Sanandaj and the emergency response to the incident.
 - 09/06 15:58 [FirstSquawk] Campbell’s is cutting 13% of its salaried workforce and closing two snack plants as it works to reduce costs and restore profitability.
@@ -315,3 +313,26 @@
 - 09/07 14:51 [FirstSquawk] AI to enhance efficiency across China’s infrastructure sector, with credit benefits emerging gradually, Moody’s says
 - 09/07 14:53 [FirstSquawk] France’s Lescure says interest rates will increase significantly if no budget is agreed
 - 09/07 14:54 [financialjuice] French Finance Minister Lescure: If there is no budget, interest rates will go up markedly.
+- 09/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION MOM ACTUAL -1.1% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
+- 09/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION YOY SA ACTUAL -1.6% (FORECAST 0%, PREVIOUS 0.00%) $MACRO
+- 09/07 15:02 [FirstSquawk] NORWAY (JUL) IND PROD MANUFACTURING WDA YOY ACTUAL: 1.5% VS 0.7% PREVIOUS
+- 09/07 15:02 [FirstSquawk] NORWAY (JUL) IND PROD MANUFACTURING MOM ACTUAL: 0.7% VS -1.0% PREVIOUS
+- 09/07 15:02 [FirstSquawk] NORWAY (JUL) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: -1.8% VS 9.1% PREVIOUS
+- 09/07 15:02 [FirstSquawk] NORWAY (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: -7.1% VS 7.6% PREVIOUS
+- 09/07 15:02 [FirstSquawk] GERMANY (JUL) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: -1.6% VS -0.1% PREVIOUS;EST 0.0%
+- 09/07 15:02 [FirstSquawk] GERMANY (JUL) INDUSTRIAL PRODUCTION SA MOM ACTUAL: -1.1% VS 0.2% PREVIOUS;EST 0.2%
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) BUDGET BALANCE ACTUAL: VS -9.2B PREVIOUS
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY YOY ACTUAL: 0.5% VS 0.6% PREVIOUS;EST 0.7%
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY MOM ACTUAL: -0.6% VS 0.4% PREVIOUS;EST -0.3%
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF YOY ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.9%
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF MOM ACTUAL: -0.3% VS -0.3% PREVIOUS;EST -0.1%
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPI YOY ACTUAL: 0.3% VS 0.2% PREVIOUS;EST 0.5%
+- 09/07 15:10 [financialjuice] UK house prices fell 0.4% on year, fell 0.1% on quarter and fell 0.2% on month in August - Lloyds.
+- 09/07 15:10 [FirstSquawk] NOVARTIS: PELACARSEN HEART DISEASE DRUG MISSED PRIMARY ENDPOINT - WSJ
+- 09/07 15:14 [FirstSquawk] UAE Investment Ministry partners with Sunstone Development to establish anode production facility
+- 09/07 15:14 [FirstSquawk] UAE Investment Ministry will support Sunstone’s setup and licensing in the UAE as part of MOU
+- 09/07 15:16 [FirstSquawk] UAE Ministry of Investment says anode facility will lower import reliance and enhance competitiveness across aluminium sector
+- 09/07 15:17 [FirstSquawk] UAE Ministry of Investment and Sunstone will form ministry-chaired working group to oversee delivery
+- 09/07 15:22 [financialjuice] Fitch Ratings: Japan corporate credit performance turns more uneven.
+- 09/07 15:23 [FirstSquawk] Goldman Sachs lowers Colonial rating to sell from neutral and target price to EUR 4.60 from EUR 5.45
+- 09/07 15:23 [FirstSquawk] Australia’s benchmark S&P/ASX 200 rises 0.1% to 9,010.90 at close

@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 14:58 JST／対象: 09/07 08:58 〜 09/07 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-07 15:25 JST／対象: 09/07 09:25 〜 09/07 15:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 105 | 09/07 09:04 | 09/07 14:53 | 27分（14:04→14:31） |
-| financialjuice | 9 | 09/07 09:13 | 09/07 14:54 | ⚠ 158分（11:26→14:05） |
+| FirstSquawk | 112 | 09/07 09:25 | 09/07 15:23 | 27分（14:04→14:31） |
+| financialjuice | 11 | 09/07 10:02 | 09/07 15:22 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 114 行（統合前 116 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 123 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 09:04 [FirstSquawk] SOUTH KOREA’S KOSPI CLIMBS 3%
-- 09/07 09:09 [FirstSquawk] AN AVERAGE OF 10 COMMODITY VESSELS CROSSED THE STRAIT OF HORMUZ DAILY, THE LOWEST SINCE MAY, ACCORDING TO KPLER'S 10-DAY MOVING AVERAGE
-- 09/07 09:09 [FirstSquawk] MACQUARIE GROUP SAYS AWARE SUPER WELCOMES MACQUARIE ASSET MANAGEMENT AS A JOINT PARTNER IN SECURE ELECTRONIC REGISTRIES VICTORIA, WITH AWARE SUPER TO RETAIN AND MANAGE THE REMAINING 50% OWNERSHIP
-- 09/07 09:10 [FirstSquawk] AUSTRALIA'S S&P/ASX 200 INDEX UP 0.1% AT 9,015.50 POINTS IN EARLY TRADE
-- 09/07 09:12 [FirstSquawk] UK FINANCE MINISTER HEALEY IS SEEKING GROWTH THROUGH DECENTRALISING POWER, WITH CITY REGIONS TO GET GREATER POWERS TO DEVELOP LOCAL INDUSTRIAL STRATEGIES AND ATTRACT PRIVATE INVESTMENT, AND £150 MLN OF BRITISH BUSINESS BANK FUNDING TO BE EA…
-- 09/07 09:13 [financialjuice] South Korean won reaches strongest level versus dollar since October 7, 2024
-- 09/07 09:16 [financialjuice] China PBOC seen setting yuan reference at 6.7086 per dollar: estimate
-- 09/07 09:17 [FirstSquawk] AT LEAST FIVE PEOPLE WERE KILLED AND FIVE INJURED AFTER AN AMAZON PRIME AIR CARGO PLANE OVERRAN A RUNWAY WHILE LANDING AT MIAMI INTERNATIONAL AIRPORT ON SUNDAY, WITH THREE OF THE INJURED IN CRITICAL CONDITION
-- 09/07 09:20 [FirstSquawk] Asia-Pac equities begin the session on a mixed note with an upside bias, following strong US jobs data and heightened Fed rate-hike bets, while Hormuz tensions remain in focus
-- 09/07 09:20 [FirstSquawk] CHINA EXPANDS PRESSURE ON TAIWAN WITH FIRST-EVER REPORTED COAST GUARD PATROLS ALONG THE ISLAND’S PACIFIC COAST, SIGNALING A NEW MARITIME PRESENCE.
-- 09/07 09:20 [FirstSquawk] BEIJING IS USING COAST GUARD VESSELS TO NORMALIZE OPERATIONS NEAR TAIWAN’S EASTERN APPROACHES, RAISING CONCERNS OVER A POTENTIAL FUTURE BLOCKADE AND RISKS TO REGIONAL SHIPPING AND SECURITY.
-- 09/07 09:23 [FirstSquawk] OIL RISES AS US STRIKES THREE IRANIAN TANKERS AND TEHRAN MOVES TO RESTRICT SHIPPING OUTSIDE THE STRAIT OF HORMUZ, RAISING FEARS OF PROLONGED SUPPLY DISRUPTIONS.
-- 09/07 09:23 [FirstSquawk] BRENT TRADES NEAR $97 AND WTI AROUND $92 AS HORMUZ FLOWS REMAIN BELOW NORMAL; A FURTHER ESCALATION COULD PUSH BRENT TOWARD $100 AND ADD TO GLOBAL INFLATION PRESSURES.
-- 09/07 09:25 [FirstSquawk] 30-YEAR JAPANESE GOVERNMENT BOND YIELD EDGES UP 1.0 BASIS POINT TO 3.975%
 - 09/07 09:25 [FirstSquawk] JAPAN’S NIKKEI INDEX SURGES 2%
 - 09/07 09:26 [FirstSquawk] US and China eye Trump-Xi talks on AI guardrails despite tech rift - NA
 - 09/07 09:26 [FirstSquawk] JGBs Edge Lower Amid Rising Oil Prices - WSJ
@@ -138,3 +124,26 @@
 - 09/07 14:51 [FirstSquawk] AI to enhance efficiency across China’s infrastructure sector, with credit benefits emerging gradually, Moody’s says
 - 09/07 14:53 [FirstSquawk] France’s Lescure says interest rates will increase significantly if no budget is agreed
 - 09/07 14:54 [financialjuice] French Finance Minister Lescure: If there is no budget, interest rates will go up markedly.
+- 09/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION MOM ACTUAL -1.1% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
+- 09/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION YOY SA ACTUAL -1.6% (FORECAST 0%, PREVIOUS 0.00%) $MACRO
+- 09/07 15:02 [FirstSquawk] NORWAY (JUL) IND PROD MANUFACTURING WDA YOY ACTUAL: 1.5% VS 0.7% PREVIOUS
+- 09/07 15:02 [FirstSquawk] NORWAY (JUL) IND PROD MANUFACTURING MOM ACTUAL: 0.7% VS -1.0% PREVIOUS
+- 09/07 15:02 [FirstSquawk] NORWAY (JUL) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: -1.8% VS 9.1% PREVIOUS
+- 09/07 15:02 [FirstSquawk] NORWAY (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: -7.1% VS 7.6% PREVIOUS
+- 09/07 15:02 [FirstSquawk] GERMANY (JUL) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: -1.6% VS -0.1% PREVIOUS;EST 0.0%
+- 09/07 15:02 [FirstSquawk] GERMANY (JUL) INDUSTRIAL PRODUCTION SA MOM ACTUAL: -1.1% VS 0.2% PREVIOUS;EST 0.2%
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) BUDGET BALANCE ACTUAL: VS -9.2B PREVIOUS
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY YOY ACTUAL: 0.5% VS 0.6% PREVIOUS;EST 0.7%
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY MOM ACTUAL: -0.6% VS 0.4% PREVIOUS;EST -0.3%
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF YOY ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.9%
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF MOM ACTUAL: -0.3% VS -0.3% PREVIOUS;EST -0.1%
+- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPI YOY ACTUAL: 0.3% VS 0.2% PREVIOUS;EST 0.5%
+- 09/07 15:10 [financialjuice] UK house prices fell 0.4% on year, fell 0.1% on quarter and fell 0.2% on month in August - Lloyds.
+- 09/07 15:10 [FirstSquawk] NOVARTIS: PELACARSEN HEART DISEASE DRUG MISSED PRIMARY ENDPOINT - WSJ
+- 09/07 15:14 [FirstSquawk] UAE Investment Ministry partners with Sunstone Development to establish anode production facility
+- 09/07 15:14 [FirstSquawk] UAE Investment Ministry will support Sunstone’s setup and licensing in the UAE as part of MOU
+- 09/07 15:16 [FirstSquawk] UAE Ministry of Investment says anode facility will lower import reliance and enhance competitiveness across aluminium sector
+- 09/07 15:17 [FirstSquawk] UAE Ministry of Investment and Sunstone will form ministry-chaired working group to oversee delivery
+- 09/07 15:22 [financialjuice] Fitch Ratings: Japan corporate credit performance turns more uneven.
+- 09/07 15:23 [FirstSquawk] Goldman Sachs lowers Colonial rating to sell from neutral and target price to EUR 4.60 from EUR 5.45
+- 09/07 15:23 [FirstSquawk] Australia’s benchmark S&P/ASX 200 rises 0.1% to 9,010.90 at close
