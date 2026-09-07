@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 03:20 JST／対象: 09/07 15:20 〜 09/08 03:20 JST（時刻はすべて日本時間）
+生成: 2026-09-08 03:38 JST／対象: 09/07 15:38 〜 09/08 03:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/08 00:17 | 09/08 03:07 | ⚠ 112分（00:36→02:28） |
-| FirstSquawk | 140 | 09/07 15:23 | 09/08 03:15 | ⚠ 50分（02:00→02:51） |
-| financialjuice | 47 | 09/07 15:22 | 09/08 02:41 | ⚠ 76分（16:02→17:18） |
+| FirstSquawk | 137 | 09/07 15:40 | 09/08 03:15 | ⚠ 50分（02:00→02:51） |
+| financialjuice | 46 | 09/07 16:00 | 09/08 02:41 | ⚠ 76分（16:02→17:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 188 行（統合前 196 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 184 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 15:22 [financialjuice] Fitch Ratings: Japan corporate credit performance turns more uneven.
-- 09/07 15:23 [FirstSquawk] Goldman Sachs lowers Colonial rating to sell from neutral and target price to EUR 4.60 from EUR 5.45
-- 09/07 15:23 [FirstSquawk] Australia’s benchmark S&P/ASX 200 rises 0.1% to 9,010.90 at close
-- 09/07 15:30 [FirstSquawk] AUSTRALIA (Q2) FOREIGN RESERVES ACTUAL: 106.0B VS 106.7B PREVIOUS
 - 09/07 15:40 [FirstSquawk] Iran cautions South Korea over potential military presence in Strait of Hormuz
 - 09/07 15:47 [FirstSquawk] Qatar foreign ministry spokesman says US strategic alliances alone are insufficient for Gulf security
 - 09/07 16:00 [financialjuice] SWISS UNEMPLOYMENT RATE UNADJUSTED ACTUAL 3% (FORECAST 3%, PREVIOUS 3.0%) $MACRO
