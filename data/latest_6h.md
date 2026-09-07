@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 20:59 JST／対象: 09/07 14:59 〜 09/07 20:59 JST（時刻はすべて日本時間）
+生成: 2026-09-07 21:24 JST／対象: 09/07 15:24 〜 09/07 21:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 96 | 09/07 15:02 | 09/07 20:58 | 16分（20:42→20:58） |
-| financialjuice | 28 | 09/07 15:00 | 09/07 20:03 | ⚠ 76分（16:02→17:18） |
+| FirstSquawk | 87 | 09/07 15:30 | 09/07 21:23 | 16分（20:42→20:58） |
+| financialjuice | 25 | 09/07 16:00 | 09/07 21:10 | ⚠ 76分（16:02→17:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 118 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 106 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION MOM ACTUAL -1.1% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
-- 09/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION YOY SA ACTUAL -1.6% (FORECAST 0%, PREVIOUS 0.00%) $MACRO
-- 09/07 15:02 [FirstSquawk] NORWAY (JUL) IND PROD MANUFACTURING WDA YOY ACTUAL: 1.5% VS 0.7% PREVIOUS
-- 09/07 15:02 [FirstSquawk] NORWAY (JUL) IND PROD MANUFACTURING MOM ACTUAL: 0.7% VS -1.0% PREVIOUS
-- 09/07 15:02 [FirstSquawk] NORWAY (JUL) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: -1.8% VS 9.1% PREVIOUS
-- 09/07 15:02 [FirstSquawk] NORWAY (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: -7.1% VS 7.6% PREVIOUS
-- 09/07 15:02 [FirstSquawk] GERMANY (JUL) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: -1.6% VS -0.1% PREVIOUS;EST 0.0%
-- 09/07 15:02 [FirstSquawk] GERMANY (JUL) INDUSTRIAL PRODUCTION SA MOM ACTUAL: -1.1% VS 0.2% PREVIOUS;EST 0.2%
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) BUDGET BALANCE ACTUAL: VS -9.2B PREVIOUS
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY YOY ACTUAL: 0.5% VS 0.6% PREVIOUS;EST 0.7%
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY MOM ACTUAL: -0.6% VS 0.4% PREVIOUS;EST -0.3%
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF YOY ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.9%
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF MOM ACTUAL: -0.3% VS -0.3% PREVIOUS;EST -0.1%
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPI YOY ACTUAL: 0.3% VS 0.2% PREVIOUS;EST 0.5%
-- 09/07 15:10 [financialjuice] UK house prices fell 0.4% on year, fell 0.1% on quarter and fell 0.2% on month in August - Lloyds.
-- 09/07 15:10 [FirstSquawk] NOVARTIS: PELACARSEN HEART DISEASE DRUG MISSED PRIMARY ENDPOINT - WSJ
-- 09/07 15:14 [FirstSquawk] UAE Investment Ministry partners with Sunstone Development to establish anode production facility
-- 09/07 15:14 [FirstSquawk] UAE Investment Ministry will support Sunstone’s setup and licensing in the UAE as part of MOU
-- 09/07 15:16 [FirstSquawk] UAE Ministry of Investment says anode facility will lower import reliance and enhance competitiveness across aluminium sector
-- 09/07 15:17 [FirstSquawk] UAE Ministry of Investment and Sunstone will form ministry-chaired working group to oversee delivery
-- 09/07 15:22 [financialjuice] Fitch Ratings: Japan corporate credit performance turns more uneven.
-- 09/07 15:23 [FirstSquawk] Goldman Sachs lowers Colonial rating to sell from neutral and target price to EUR 4.60 from EUR 5.45
-- 09/07 15:23 [FirstSquawk] Australia’s benchmark S&P/ASX 200 rises 0.1% to 9,010.90 at close
 - 09/07 15:30 [FirstSquawk] AUSTRALIA (Q2) FOREIGN RESERVES ACTUAL: 106.0B VS 106.7B PREVIOUS
 - 09/07 15:40 [FirstSquawk] Iran cautions South Korea over potential military presence in Strait of Hormuz
 - 09/07 15:47 [FirstSquawk] Qatar foreign ministry spokesman says US strategic alliances alone are insufficient for Gulf security
@@ -142,3 +119,14 @@
 - 09/07 20:40 [FirstSquawk] UK PM SPOX WELLS: BUSINESS SEC REYNOLDS TO MEET JLR THIS WEEK
 - 09/07 20:42 [FirstSquawk] GERMANY'S MERZ AFTER SAXONY-ANHALT ELECTION: MY DETERMINATION TO DO THESE REFORMS REMAINS UNWAVERING
 - 09/07 20:58 [FirstSquawk] ETIHAD AIRWAYS: WILL FLY TO SAUDI ARABIA'S RED SEA COAST FROM 4 OCTOBER 2026
+- 09/07 20:59 [FirstSquawk] HUNGARY TO INTRODUCE `FAIR' WEALTH TAX, PREMIER MAGYAR SAYS
+- 09/07 21:03 [FirstSquawk] NORDIC ALLIANCE SAID TO EXPLORE REGIONAL SCALE-UP FUND
+- 09/07 21:04 [FirstSquawk] RUSSIA'S FOREIGN MINISTER LAVROV: THERE IS THE MECCA AGREEMENT — SAUDI ARABIA, PAKISTAN AND, ACCORDINGLY, TÜRKIYE.
+- 09/07 21:06 [FirstSquawk] EU COMMISSION PRESIDENT: SIGNED JOINT DECLARATION WITH GREENLAND, DENMARK
+- 09/07 21:10 [financialjuice] Morning Juice - US Session Prep (5th September)
+- 09/07 21:10 [FirstSquawk] EU COMMISSION PRESIDENT SIGNED JOINT DECLARATION WITH GREENLAND AND DENMARK.
+- 09/07 21:10 [FirstSquawk] EU'S VON DER LEYEN ANNOUNCES €200 MILLION PARTNERSHIP PACKAGE WITH GREENLAND.
+- 09/07 21:10 [FirstSquawk] EU WILL GIVE GREENLAND ABOUT €200 MILLION IN 2026/2027.
+- 09/07 21:10 [FirstSquawk] VON DER LEYEN DISCUSSES EU'S DECISION TO INCREASE INVOLVEMENT IN THE ARCTIC REGION.
+- 09/07 21:18 [FirstSquawk] BRITISH AMERICAN TOBACCO: RUSSIAN ATTACK DAMAGES PLANT IN UKRAINE'S CHERNIHIV REGION
+- 09/07 21:23 [FirstSquawk] ISRAELI FINANCE MINISTER BEZALEL SMOTRICH: IN ANY CASE, OSLO IS DEAD. AREA A OF THE WEST BANK IS OURS TOO.
