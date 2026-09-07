@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 12:26 JST／対象: 09/07 06:26 〜 09/07 12:26 JST（時刻はすべて日本時間）
+生成: 2026-09-07 12:45 JST／対象: 09/07 06:45 〜 09/07 12:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/07 07:10 | 09/07 07:10 | - |
-| FirstSquawk | 76 | 09/07 09:04 | 09/07 12:21 | 9分（11:37→11:46） |
+| FirstSquawk | 82 | 09/07 09:04 | 09/07 12:44 | 9分（11:37→11:46） |
 | financialjuice | 19 | 09/07 07:11 | 09/07 11:26 | ⚠ 75分（07:11→08:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 96 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -120,3 +120,9 @@
 - 09/07 12:11 [FirstSquawk] AUD/USD Price Forecast: Consolidates around 0.7200; bullish potential seems intact - FX
 - 09/07 12:16 [FirstSquawk] Tokyo's Shinjuku Ward to ban private lodgings in residential areas - KYODO
 - 09/07 12:21 [FirstSquawk] Japan gov't eyes ODA for upgrading Indonesia's fishing ports: KYODO
+- 09/07 12:28 [FirstSquawk] North Korea commissions new Kang Kon naval destroyer with nuclear capabilities
+- 09/07 12:34 [FirstSquawk] EUROPE DOMINATES MASTERS IN MANAGEMENT RANKING BUT DEGREE’S POPULARITY SPREADS - FT
+- 09/07 12:34 [FirstSquawk] INDONESIA SHUTS AIRPORTS AS VOLCANO ERUPTS - FT
+- 09/07 12:37 [FirstSquawk] China's state bank and insurer shares slide after $54bn injection plan - NA
+- 09/07 12:41 [FirstSquawk] Thailand’s headline consumer price index seen continuing to rise, Commerce Ministry says
+- 09/07 12:44 [FirstSquawk] Thailand headline CPI projected at 2.37% in Q3 and 2.70% in Q4, Commerce Ministry says

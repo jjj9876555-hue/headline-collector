@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 12:26 JST／対象: 09/06 12:26 〜 09/07 12:26 JST（時刻はすべて日本時間）
+生成: 2026-09-07 12:45 JST／対象: 09/06 12:45 〜 09/07 12:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 259 | 09/06 12:26 | 09/07 12:21 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 24 | 09/06 12:26 | 09/07 11:26 | ⚠ 833分（17:17→07:11） |
+| FirstSquawk | 260 | 09/06 12:46 | 09/07 12:44 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 23 | 09/06 15:07 | 09/07 11:26 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 283 行（統合前 286 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 12:26 [FirstSquawk] Israeli military launches strikes in southern Lebanon following Hezbollah drone attack on troops
-- 09/06 12:26 [financialjuice] Israeli military: striking southern Lebanon after Hezbollah sent drones toward Israel soldiers in security zone
-- 09/06 12:30 [FirstSquawk] Lee heads to France for state visit, summit with Macron - YONHAP
-- 09/06 12:32 [FirstSquawk] South Korea sees record tourist complaints amid surge in foreign visitors
-- 09/06 12:39 [FirstSquawk] China's robot lawn mowers flock to Europe as US import curbs bite Startup warns effective ban on robots will have 'no winners'
-- 09/06 12:41 [FirstSquawk] South Korean companies boost dollar deposits as won-dollar rate falls to nearly two-year low
 - 09/06 12:46 [FirstSquawk] Japan weather agency warns of intense rain in Tokyo, 6 areas through Monday- KYODO
 - 09/06 13:02 [FirstSquawk] Uber robotaxis hit London's streets, but with humans still behind the wheel - CBS
 - 09/06 13:09 [FirstSquawk] Japan's Koizumi likely to remain defense minister in Cabinet reshuffle - KYODO
@@ -307,3 +301,9 @@
 - 09/07 12:11 [FirstSquawk] AUD/USD Price Forecast: Consolidates around 0.7200; bullish potential seems intact - FX
 - 09/07 12:16 [FirstSquawk] Tokyo's Shinjuku Ward to ban private lodgings in residential areas - KYODO
 - 09/07 12:21 [FirstSquawk] Japan gov't eyes ODA for upgrading Indonesia's fishing ports: KYODO
+- 09/07 12:28 [FirstSquawk] North Korea commissions new Kang Kon naval destroyer with nuclear capabilities
+- 09/07 12:34 [FirstSquawk] EUROPE DOMINATES MASTERS IN MANAGEMENT RANKING BUT DEGREE’S POPULARITY SPREADS - FT
+- 09/07 12:34 [FirstSquawk] INDONESIA SHUTS AIRPORTS AS VOLCANO ERUPTS - FT
+- 09/07 12:37 [FirstSquawk] China's state bank and insurer shares slide after $54bn injection plan - NA
+- 09/07 12:41 [FirstSquawk] Thailand’s headline consumer price index seen continuing to rise, Commerce Ministry says
+- 09/07 12:44 [FirstSquawk] Thailand headline CPI projected at 2.37% in Q3 and 2.70% in Q4, Commerce Ministry says
