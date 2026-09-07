@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 17:19 JST／対象: 09/07 11:19 〜 09/07 17:19 JST（時刻はすべて日本時間）
+生成: 2026-09-07 17:36 JST／対象: 09/07 11:36 〜 09/07 17:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 95 | 09/07 11:20 | 09/07 17:14 | 27分（14:04→14:31） |
-| financialjuice | 11 | 09/07 11:26 | 09/07 17:18 | ⚠ 158分（11:26→14:05） |
+| FirstSquawk | 93 | 09/07 11:37 | 09/07 17:33 | 27分（14:04→14:31） |
+| financialjuice | 12 | 09/07 14:05 | 09/07 17:34 | ⚠ 76分（16:02→17:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 106 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 105 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 11:20 [FirstSquawk] Chevron makes $7 billion Venezuela oil gamble amid low costs and political risks
-- 09/07 11:26 [financialjuice] South Korea pension fund pauses foreign exchange hedging: market source says
-- 09/07 11:26 [FirstSquawk] South Korea’s pension fund halts foreign exchange hedging, market RTRS say
-- 09/07 11:29 [FirstSquawk] China is facing a serious youth jobs crisis. A record 12.7 million young graduates are looking for work, while AI is increasingly replacing or reducing entry-level jobs. This means graduates are now competing not only with millions of other…
-- 09/07 11:31 [FirstSquawk] South Korea sells 3-year government bonds with yield at 3.875%
-- 09/07 11:36 [FirstSquawk] DP leader calls for stronger security capabilities, says 'freeze-first' approach to N.K. nukes possible - YONHAP
 - 09/07 11:37 [FirstSquawk] LG Electronics says no decision has been made on Bear Robotics IPO
 - 09/07 11:46 [FirstSquawk] N.K. hacking group Kimsuky used AI coding agents to create decoys: report - YONHAP
 - 09/07 11:52 [FirstSquawk] Jakarta airports remain closed for 2nd day after volcanic eruptions - NA
@@ -130,3 +124,8 @@
 - 09/07 17:09 [FirstSquawk] YEN CLIMBS TO HIGHEST LEVEL SINCE MAY, EXCEEDING INTERVENTION BOOST.
 - 09/07 17:14 [FirstSquawk] HUAWEI UNVEILS FIRST TRIPLE-FOLD PHONE WITH 'US-FREE' CORE CHIPS
 - 09/07 17:18 [financialjuice] Iran's Baghaei: Peru breaking off diplomatic relations with Tehran is non-consequential as ties were non-existent.
+- 09/07 17:20 [FirstSquawk] IRAN GHALIBAF IT’S SIMPLE: THE OIL AND GAS PRODUCTION CHAIN HERE IS SPRAWLING, ACCESSIBLE, AND EXPOSED. AMERICAN OIL AND GAS COMPANIES ACROSS THESE WATERS AND FACILITIES SHARE THAT EXPOSURE. STRIKE OUR ASSETS AND YOU GET STRUCK. WE’VE ALREA…
+- 09/07 17:27 [FirstSquawk] JAPAN SEEKS TAKAICHI-TRUMP TALKS FOR LATE SEPT - KYODO
+- 09/07 17:30 [financialjuice] EUROZONE SENTIX INVESTOR CONFIDENCE INDEX ACTUAL 5.1 (FORECAST 1.7, PREVIOUS 0.9) $MACRO
+- 09/07 17:33 [FirstSquawk] UBER HAS ENGAGED BANKS TO LAUNCH ITS FIRST MULTI-TRANCHE DEBT SALE IN EUROS.
+- 09/07 17:34 [financialjuice] Japan seeks Takaichi-Trump talks for late September - Kyodo.

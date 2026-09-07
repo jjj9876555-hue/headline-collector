@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 17:19 JST／対象: 09/06 17:19 〜 09/07 17:19 JST（時刻はすべて日本時間）
+生成: 2026-09-07 17:36 JST／対象: 09/06 17:36 〜 09/07 17:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 290 | 09/06 17:38 | 09/07 17:14 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 29 | 09/07 07:11 | 09/07 17:18 | ⚠ 158分（11:26→14:05） |
+| FirstSquawk | 293 | 09/06 17:38 | 09/07 17:33 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 31 | 09/07 07:11 | 09/07 17:34 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 322 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 327 行（統合前 329 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -346,3 +346,8 @@
 - 09/07 17:09 [FirstSquawk] YEN CLIMBS TO HIGHEST LEVEL SINCE MAY, EXCEEDING INTERVENTION BOOST.
 - 09/07 17:14 [FirstSquawk] HUAWEI UNVEILS FIRST TRIPLE-FOLD PHONE WITH 'US-FREE' CORE CHIPS
 - 09/07 17:18 [financialjuice] Iran's Baghaei: Peru breaking off diplomatic relations with Tehran is non-consequential as ties were non-existent.
+- 09/07 17:20 [FirstSquawk] IRAN GHALIBAF IT’S SIMPLE: THE OIL AND GAS PRODUCTION CHAIN HERE IS SPRAWLING, ACCESSIBLE, AND EXPOSED. AMERICAN OIL AND GAS COMPANIES ACROSS THESE WATERS AND FACILITIES SHARE THAT EXPOSURE. STRIKE OUR ASSETS AND YOU GET STRUCK. WE’VE ALREA…
+- 09/07 17:27 [FirstSquawk] JAPAN SEEKS TAKAICHI-TRUMP TALKS FOR LATE SEPT - KYODO
+- 09/07 17:30 [financialjuice] EUROZONE SENTIX INVESTOR CONFIDENCE INDEX ACTUAL 5.1 (FORECAST 1.7, PREVIOUS 0.9) $MACRO
+- 09/07 17:33 [FirstSquawk] UBER HAS ENGAGED BANKS TO LAUNCH ITS FIRST MULTI-TRANCHE DEBT SALE IN EUROS.
+- 09/07 17:34 [financialjuice] Japan seeks Takaichi-Trump talks for late September - Kyodo.
