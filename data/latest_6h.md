@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 20:44 JST／対象: 09/07 14:44 〜 09/07 20:44 JST（時刻はすべて日本時間）
+生成: 2026-09-07 20:59 JST／対象: 09/07 14:59 〜 09/07 20:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 97 | 09/07 14:51 | 09/07 20:42 | 15分（16:01→16:17） |
-| financialjuice | 29 | 09/07 14:54 | 09/07 20:03 | ⚠ 76分（16:02→17:18） |
+| FirstSquawk | 96 | 09/07 15:02 | 09/07 20:58 | 16分（20:42→20:58） |
+| financialjuice | 28 | 09/07 15:00 | 09/07 20:03 | ⚠ 76分（16:02→17:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 118 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 14:51 [FirstSquawk] AI to enhance efficiency across China’s infrastructure sector, with credit benefits emerging gradually, Moody’s says
-- 09/07 14:53 [FirstSquawk] France’s Lescure says interest rates will increase significantly if no budget is agreed
-- 09/07 14:54 [financialjuice] French Finance Minister Lescure: If there is no budget, interest rates will go up markedly.
 - 09/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION MOM ACTUAL -1.1% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
 - 09/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION YOY SA ACTUAL -1.6% (FORECAST 0%, PREVIOUS 0.00%) $MACRO
 - 09/07 15:02 [FirstSquawk] NORWAY (JUL) IND PROD MANUFACTURING WDA YOY ACTUAL: 1.5% VS 0.7% PREVIOUS
@@ -144,3 +141,4 @@
 - 09/07 20:38 [FirstSquawk] MERZ: FAR-RIGHT STATE VICTORY WILL AFFECT GERMANY AS A WHOLE
 - 09/07 20:40 [FirstSquawk] UK PM SPOX WELLS: BUSINESS SEC REYNOLDS TO MEET JLR THIS WEEK
 - 09/07 20:42 [FirstSquawk] GERMANY'S MERZ AFTER SAXONY-ANHALT ELECTION: MY DETERMINATION TO DO THESE REFORMS REMAINS UNWAVERING
+- 09/07 20:58 [FirstSquawk] ETIHAD AIRWAYS: WILL FLY TO SAUDI ARABIA'S RED SEA COAST FROM 4 OCTOBER 2026
