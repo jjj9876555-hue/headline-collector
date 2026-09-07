@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 12:45 JST／対象: 09/06 12:45 〜 09/07 12:45 JST（時刻はすべて日本時間）
+生成: 2026-09-07 12:59 JST／対象: 09/06 12:59 〜 09/07 12:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 260 | 09/06 12:46 | 09/07 12:44 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 262 | 09/06 13:02 | 09/07 12:52 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 23 | 09/06 15:07 | 09/07 11:26 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 283 行（統合前 286 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 285 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 12:46 [FirstSquawk] Japan weather agency warns of intense rain in Tokyo, 6 areas through Monday- KYODO
 - 09/06 13:02 [FirstSquawk] Uber robotaxis hit London's streets, but with humans still behind the wheel - CBS
 - 09/06 13:09 [FirstSquawk] Japan's Koizumi likely to remain defense minister in Cabinet reshuffle - KYODO
 - 09/06 13:13 [FirstSquawk] Japan weather agency warns of landslides amid heavy rain on Yakushima - KYODO
@@ -307,3 +306,6 @@
 - 09/07 12:37 [FirstSquawk] China's state bank and insurer shares slide after $54bn injection plan - NA
 - 09/07 12:41 [FirstSquawk] Thailand’s headline consumer price index seen continuing to rise, Commerce Ministry says
 - 09/07 12:44 [FirstSquawk] Thailand headline CPI projected at 2.37% in Q3 and 2.70% in Q4, Commerce Ministry says
+- 09/07 12:50 [FirstSquawk] Dollar Expected to Trade in 154.30-157.60 Yen Range This Week - WSJ
+- 09/07 12:52 [FirstSquawk] Macquarie shifts US Fed rate hike call to September 2026 from December
+- 09/07 12:52 [FirstSquawk] Macquarie still anticipates another 25-bps interest rate increase in Q1 2027
