@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 23:26 JST／対象: 09/07 17:26 〜 09/07 23:26 JST（時刻はすべて日本時間）
+生成: 2026-09-07 23:45 JST／対象: 09/07 17:45 〜 09/07 23:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 78 | 09/07 17:27 | 09/07 23:14 | 17分（21:48→22:05） |
-| financialjuice | 30 | 09/07 17:30 | 09/07 23:18 | ⚠ 66分（20:03→21:10） |
+| FirstSquawk | 78 | 09/07 17:46 | 09/07 23:32 | 17分（23:14→23:31） |
+| financialjuice | 29 | 09/07 17:49 | 09/07 23:36 | ⚠ 66分（20:03→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 101 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 17:27 [FirstSquawk] JAPAN SEEKS TAKAICHI-TRUMP TALKS FOR LATE SEPT - KYODO
-- 09/07 17:30 [financialjuice] EUROZONE SENTIX INVESTOR CONFIDENCE INDEX ACTUAL 5.1 (FORECAST 1.7, PREVIOUS 0.9) $MACRO
-- 09/07 17:33 [FirstSquawk] UBER HAS ENGAGED BANKS TO LAUNCH ITS FIRST MULTI-TRANCHE DEBT SALE IN EUROS.
-- 09/07 17:34 [financialjuice] Japan seeks Takaichi-Trump talks for late September - Kyodo.
 - 09/07 17:46 [FirstSquawk] US PUSHES DIPLOMATIC PRESSURE ON IRAN TO BE REFERRED TO UN SECURITY COUNCIL DUE TO ITS OBSTRUCTION OF NUCLEAR INSPECTORS.
 - 09/07 17:48 [FirstSquawk/financialjuice] UK FINANCE MINISTER HEALEY: GLOBAL SHOCKS ARE FELT KEENLY IN UK
 - 09/07 17:49 [financialjuice] UK Finance Minister Healey: Our borrowing costs are at a historic high.
@@ -126,3 +122,6 @@
 - 09/07 23:10 [FirstSquawk] SAUDI ARABIA AUG. OFFICIAL RESERVE ASSETS SAR1.827T
 - 09/07 23:14 [FirstSquawk] N. KOREA'S DEFENCE MINISTER: IF U.S. AND ITS ALLIES SEEK A NEW MILITARY CONFRONTATION, WE WILL ALSO TAKE STRONG COUNTERMEASURES - KCNA
 - 09/07 23:18 [financialjuice] Crypto Fear & Greed Index: 71/100 - Greed
+- 09/07 23:31 [FirstSquawk] CHINA HAS STARTED ANTI-DUMPING ACTIONS ON IMPORTANT CHIPMAKING MATERIALS IMPORTED FROM JAPAN, ACCORDING TO NIKKEI.
+- 09/07 23:32 [FirstSquawk] EU'S KAJA KALLAS SAYS RUSSIA IS NOT SERIOUS ABOUT PEACE.
+- 09/07 23:36 [financialjuice] US CPI Prep (11th September)
