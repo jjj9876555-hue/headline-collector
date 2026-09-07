@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 16:39 JST／対象: 09/06 16:39 〜 09/07 16:39 JST（時刻はすべて日本時間）
+生成: 2026-09-07 16:54 JST／対象: 09/06 16:54 〜 09/07 16:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 285 | 09/06 16:50 | 09/07 16:37 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 284 | 09/06 17:00 | 09/07 16:52 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 29 | 09/06 17:17 | 09/07 16:02 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 316 行（統合前 319 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 315 行（統合前 318 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 16:50 [FirstSquawk] Europe was supposed to leave gas facilities like Kårstø behind. Instead, the giant processing plant is at the center of a wider continental shift. Emission reductions are out. Energy security is in.
-- 09/06 16:50 [FirstSquawk] Nigel Farage has one overriding task: to convince voters he’s ready to take over as British prime minister in an election he believes may be just months away.
-- 09/06 16:50 [FirstSquawk] In February 2025, the U.N. launched a fund to channel corporate profits into nature conservation in developing countries, aiming to raise $1 billion a year. So far, it has attracted just two small contributors and $6,000.
-- 09/06 16:51 [FirstSquawk] Drones struck Russia’s Ryazan Oil Refinery overnight, igniting a fire at the key facility. A multi-hour drone assault was also reported across Rostov-on-Don.
 - 09/06 17:00 [FirstSquawk] India is installing about 100,000 rooftop solar systems a week. Yet five states account for roughly 70% of the total, testing national energy goals.
 - 09/06 17:17 [financialjuice/FirstSquawk] Russia says it has not excluded trilateral summit with presidents of Russia, U.S. and China - Tass
 - 09/06 17:38 [FirstSquawk] India backs UN equal-area maps resolution and draws firm line on Kashmir and Ladakh depiction
@@ -340,3 +336,6 @@
 - 09/07 16:35 [FirstSquawk] CHINESE STATE-OWNED COMPANY SUPPLIED RUSSIA WITH MATERIALS TO BUILD HUNDREDS OF KAMIKAZE DRONES.
 - 09/07 16:37 [FirstSquawk] IRAN'S BAGHAEI SAYS EUROPEAN STATES ARE 'IRRATIONAL' FOR SEEKING UN RESOLUTION AGAINST IRAN WHEN 'IMPOSED-WAR' MADE NUCLEAR FACILITIES INACCESSIBLE
 - 09/07 16:37 [FirstSquawk] IRAN'S BAGHAEI SAYS TEHRAN WILL RECIPROCATE SHOULD UN NUCLEAR WATCHDOG TAKE RESOLUTION AGAINST IRAN
+- 09/07 16:41 [FirstSquawk] UBS GLOBAL WEALTH MANAGEMENT EXPECTS US FED TO DELIVER 25 BP RATE HIKES EACH IN SEPTEMBER AND DECEMBER 2026 VS PRIOR FORECAST OF NO POLICY CHANGE
+- 09/07 16:44 [FirstSquawk] JAPAN'S FOREIGN RESERVES DROP BY A RECORD $80 BILLION IN AUGUST FOLLOWING YEN INTERVENTION
+- 09/07 16:52 [FirstSquawk] IRAN SAYS NEGOTIATIONS WITH OMAN ON HORMUZ REACHED FINAL STAGES

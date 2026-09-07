@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 16:39 JST／対象: 09/07 10:39 〜 09/07 16:39 JST（時刻はすべて日本時間）
+生成: 2026-09-07 16:54 JST／対象: 09/07 10:54 〜 09/07 16:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 99 | 09/07 10:39 | 09/07 16:37 | 27分（14:04→14:31） |
-| financialjuice | 11 | 09/07 10:40 | 09/07 16:02 | ⚠ 158分（11:26→14:05） |
+| FirstSquawk | 95 | 09/07 10:55 | 09/07 16:52 | 27分（14:04→14:31） |
+| financialjuice | 10 | 09/07 11:26 | 09/07 16:02 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 110 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 105 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 10:39 [FirstSquawk] Gold Falls on Rising Fed Rate Hike Expectations - WSJ
-- 09/07 10:40 [financialjuice] S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.040% yield
-- 09/07 10:40 [FirstSquawk] South Korea central bank auctions 91-day monetary stabilisation bonds at 3.040% yield
-- 09/07 10:43 [FirstSquawk] Americans Without College Degrees Are Having One of the Best Job Markets in Years - WSJ
-- 09/07 10:48 [FirstSquawk] New Zealand Dollar edges lower as Fed rate hike bets and Iran tensions underpin USD - FX
-- 09/07 10:50 [FirstSquawk] Americans overwhelmingly oppose AI data centers in their local area, Political poll shows
-- 09/07 10:50 [FirstSquawk] Top EU diplomat Kaja Kallas has been forced to cancel the launch of a high-level group made up of former political and military leaders following pressure from EU member countries, in what could prove another blow to the former Estonian pri…
-- 09/07 10:54 [FirstSquawk] Tourist complaints in S. Korea hit record high amid travel boom - KYODO
 - 09/07 10:55 [FirstSquawk] Australia ANZ-Indeed Job Advertisements (M/M) Aug: 2.5% (prev 0.8%)
 - 09/07 11:01 [FirstSquawk] Most-active coking coal contract in China slides more than 3%
 - 09/07 11:02 [FirstSquawk] China’s most-active coking coal contract drops 3.7% to 1,608 yuan per metric ton, lowest since Aug. 28
@@ -134,3 +126,6 @@
 - 09/07 16:35 [FirstSquawk] CHINESE STATE-OWNED COMPANY SUPPLIED RUSSIA WITH MATERIALS TO BUILD HUNDREDS OF KAMIKAZE DRONES.
 - 09/07 16:37 [FirstSquawk] IRAN'S BAGHAEI SAYS EUROPEAN STATES ARE 'IRRATIONAL' FOR SEEKING UN RESOLUTION AGAINST IRAN WHEN 'IMPOSED-WAR' MADE NUCLEAR FACILITIES INACCESSIBLE
 - 09/07 16:37 [FirstSquawk] IRAN'S BAGHAEI SAYS TEHRAN WILL RECIPROCATE SHOULD UN NUCLEAR WATCHDOG TAKE RESOLUTION AGAINST IRAN
+- 09/07 16:41 [FirstSquawk] UBS GLOBAL WEALTH MANAGEMENT EXPECTS US FED TO DELIVER 25 BP RATE HIKES EACH IN SEPTEMBER AND DECEMBER 2026 VS PRIOR FORECAST OF NO POLICY CHANGE
+- 09/07 16:44 [FirstSquawk] JAPAN'S FOREIGN RESERVES DROP BY A RECORD $80 BILLION IN AUGUST FOLLOWING YEN INTERVENTION
+- 09/07 16:52 [FirstSquawk] IRAN SAYS NEGOTIATIONS WITH OMAN ON HORMUZ REACHED FINAL STAGES
