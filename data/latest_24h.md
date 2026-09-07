@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 00:51 JST／対象: 09/07 00:51 〜 09/08 00:51 JST（時刻はすべて日本時間）
+生成: 2026-09-08 01:04 JST／対象: 09/07 01:04 〜 09/08 01:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/07 01:01 | 09/08 00:36 | ⚠ 1026分（07:10→00:17） |
-| FirstSquawk | 308 | 09/07 01:06 | 09/08 00:44 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 65 | 09/07 07:11 | 09/08 00:44 | ⚠ 158分（11:26→14:05） |
+| DeItaone | 3 | 09/07 07:10 | 09/08 00:36 | ⚠ 1026分（07:10→00:17） |
+| FirstSquawk | 309 | 09/07 01:06 | 09/08 00:56 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 66 | 09/07 07:11 | 09/08 00:55 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 371 行（統合前 381 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 01:01 [DeItaone] *GERMAN FAR-RIGHT AFD SET TO WIN STATE VOTE, SHORT OF MAJORITY
-- 09/07 01:03 [DeItaone] U.S. ENVOY WITKOFF SAYS HE FEELS GOOD ABOUT PEACE TALKS IN MOSCOW AND KYIV
 - 09/07 01:06 [FirstSquawk] Yemeni Coast Guard Authority: Seizure of oil tanker after unloading unlicensed cargo at Ras Isa port under Houthi control
 - 09/07 01:06 [FirstSquawk] The right-wing Alternative for Germany party is leading the preliminary results in the Saxony-Anhalt state elections
 - 09/07 01:06 [FirstSquawk] Kushner says the American team looks forward to achieving more progress.
@@ -395,3 +393,5 @@
 - 09/08 00:43 [FirstSquawk] AIRBUS - AUGUST DELIVERIES: 57 || AUGUST GROSS ORDERS: 67 || DELIVERIES IN JAN-AUGUST: 475 || BOOKED 1,157 GROSS AIRCRAFT ORDERS IN JAN-AUGUST || BOOKED 1,091 NET AIRCRAFT ORDERS IN JAN-AUGUST
 - 09/08 00:44 [financialjuice] Qatar LNG ship nears Hormuz in attempt to exit strait - Data
 - 09/08 00:44 [FirstSquawk] QATAR LNG VESSEL CLOSES IN ON HORMUZ STRAIT FOR EXIT, ACCORDING TO DATA.
+- 09/08 00:55 [financialjuice] Germany said to discuss gas storage help with SEFE and Uniper.
+- 09/08 00:56 [FirstSquawk] ITALY TO SELL UP TO EUR 750 MLN OF 2.15% 2072 BONDS SEPT. 10 || TO SELL UP TO EUR 3.5 BLN OF 3% 2029 BONDS || TO SELL UP TO EUR 3.5 BLN OF 3.35% 2033 BONDS

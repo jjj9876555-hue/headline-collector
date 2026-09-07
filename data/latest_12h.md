@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 00:51 JST／対象: 09/07 12:51 〜 09/08 00:51 JST（時刻はすべて日本時間）
+生成: 2026-09-08 01:04 JST／対象: 09/07 13:04 〜 09/08 01:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/08 00:17 | 09/08 00:36 | 19分（00:17→00:36） |
-| FirstSquawk | 164 | 09/07 12:52 | 09/08 00:44 | 24分（23:32→23:56） |
-| financialjuice | 46 | 09/07 14:05 | 09/08 00:44 | ⚠ 76分（16:02→17:18） |
+| FirstSquawk | 163 | 09/07 13:14 | 09/08 00:56 | 24分（23:32→23:56） |
+| financialjuice | 47 | 09/07 14:05 | 09/08 00:55 | ⚠ 76分（16:02→17:18） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 205 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 12:52 [FirstSquawk] Macquarie shifts US Fed rate hike call to September 2026 from December
-- 09/07 12:52 [FirstSquawk] Macquarie still anticipates another 25-bps interest rate increase in Q1 2027
 - 09/07 13:14 [FirstSquawk] Moody’s Ratings rates KBank’s proposed Tier 2 subordinated notes
 - 09/07 13:29 [FirstSquawk] Philanthropic giving in Asia forecast to hit US$1.5 trillion over next decade - SCMP
 - 09/07 13:29 [FirstSquawk] Beijing to Inject Billions Into Banks, Insurers to Boost Growth - WSJ
@@ -229,3 +227,5 @@
 - 09/08 00:43 [FirstSquawk] AIRBUS - AUGUST DELIVERIES: 57 || AUGUST GROSS ORDERS: 67 || DELIVERIES IN JAN-AUGUST: 475 || BOOKED 1,157 GROSS AIRCRAFT ORDERS IN JAN-AUGUST || BOOKED 1,091 NET AIRCRAFT ORDERS IN JAN-AUGUST
 - 09/08 00:44 [financialjuice] Qatar LNG ship nears Hormuz in attempt to exit strait - Data
 - 09/08 00:44 [FirstSquawk] QATAR LNG VESSEL CLOSES IN ON HORMUZ STRAIT FOR EXIT, ACCORDING TO DATA.
+- 09/08 00:55 [financialjuice] Germany said to discuss gas storage help with SEFE and Uniper.
+- 09/08 00:56 [FirstSquawk] ITALY TO SELL UP TO EUR 750 MLN OF 2.15% 2072 BONDS SEPT. 10 || TO SELL UP TO EUR 3.5 BLN OF 3% 2029 BONDS || TO SELL UP TO EUR 3.5 BLN OF 3.35% 2033 BONDS
