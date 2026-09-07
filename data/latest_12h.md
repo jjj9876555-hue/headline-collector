@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 01:04 JST／対象: 09/07 13:04 〜 09/08 01:04 JST（時刻はすべて日本時間）
+生成: 2026-09-08 01:25 JST／対象: 09/07 13:25 〜 09/08 01:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/08 00:17 | 09/08 00:36 | 19分（00:17→00:36） |
-| FirstSquawk | 163 | 09/07 13:14 | 09/08 00:56 | 24分（23:32→23:56） |
+| FirstSquawk | 165 | 09/07 13:29 | 09/08 01:24 | 24分（23:32→23:56） |
 | financialjuice | 47 | 09/07 14:05 | 09/08 00:55 | ⚠ 76分（16:02→17:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 205 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 207 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 13:14 [FirstSquawk] Moody’s Ratings rates KBank’s proposed Tier 2 subordinated notes
 - 09/07 13:29 [FirstSquawk] Philanthropic giving in Asia forecast to hit US$1.5 trillion over next decade - SCMP
 - 09/07 13:29 [FirstSquawk] Beijing to Inject Billions Into Banks, Insurers to Boost Growth - WSJ
 - 09/07 13:30 [FirstSquawk] CHINA PUMPS $53BN INTO BANKS AND INSURERS - FT
@@ -229,3 +228,6 @@
 - 09/08 00:44 [FirstSquawk] QATAR LNG VESSEL CLOSES IN ON HORMUZ STRAIT FOR EXIT, ACCORDING TO DATA.
 - 09/08 00:55 [financialjuice] Germany said to discuss gas storage help with SEFE and Uniper.
 - 09/08 00:56 [FirstSquawk] ITALY TO SELL UP TO EUR 750 MLN OF 2.15% 2072 BONDS SEPT. 10 || TO SELL UP TO EUR 3.5 BLN OF 3% 2029 BONDS || TO SELL UP TO EUR 3.5 BLN OF 3.35% 2033 BONDS
+- 09/08 01:13 [FirstSquawk] NTSB WILL HOST A MEDIA BRIEFING ON MONDAY AT 4 PM ET ABOUT THE RUNWAY INCIDENT AT MIAMI INTERNATIONAL AIRPORT.
+- 09/08 01:14 [FirstSquawk] LATVIA'S PM KULBERGS ANNOUNCED A 300% TARIFF ON GRAIN IMPORTS FROM RUSSIA AND BELARUS.
+- 09/08 01:24 [FirstSquawk] CUBA'S FOREIGN MINISTER BRUNO RODRIGUEZ STATES THAT THERE HAS BEEN NO ADVANCEMENT OR TALKS WITH THE UNITED STATES REGARDING FUTURE DISCUSSIONS.

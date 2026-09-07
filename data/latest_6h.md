@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 01:04 JST／対象: 09/07 19:04 〜 09/08 01:04 JST（時刻はすべて日本時間）
+生成: 2026-09-08 01:25 JST／対象: 09/07 19:25 〜 09/08 01:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/08 00:17 | 09/08 00:36 | 19分（00:17→00:36） |
-| FirstSquawk | 67 | 09/07 19:18 | 09/08 00:56 | 24分（23:32→23:56） |
-| financialjuice | 23 | 09/07 19:10 | 09/08 00:55 | ⚠ 66分（20:03→21:10） |
+| FirstSquawk | 69 | 09/07 19:26 | 09/08 01:24 | 24分（23:32→23:56） |
+| financialjuice | 22 | 09/07 19:54 | 09/08 00:55 | ⚠ 66分（20:03→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 88 行（統合前 93 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 89 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 19:10 [financialjuice] Kremlin on Ukraine trilateral talks: We have not yet received information about contacts in Kyiv.
-- 09/07 19:18 [FirstSquawk] KREMLIN DOES NOT RULE OUT RUSSIA - USA - UKRAINE TALKS RESUMPTION, TOO EARLY TO SPEAK ABOUT TIME AND VENUE
 - 09/07 19:26 [FirstSquawk] GERMAN AFD LEADER ALICE WEIDEL: NO CHANCELLOR BEFORE HIM HAS BEEN AS UNPOPULAR AS FRIEDRICH MERZ, WHO HAS BECOME A MAJOR BURDEN ON GERMANY’S POSITIVE DEVELOPMENT.
 - 09/07 19:35 [FirstSquawk] GERMANY’S CHANCELLOR MERZ: WE CANNOT SIMPLY CARRY ON AS USUAL — NEITHER CAN I, NOR CAN THE FEDERAL GOVERNMENT. WE HAVE FAILED TO ESTABLISH AN EMOTIONAL CONNECTION WITH THE PEOPLE.
 - 09/07 19:35 [FirstSquawk] CABINET RESHUFFLE AND LDP EXECUTIVE APPOINTMENTS TO BEGIN ON THE 16TH - KYODO
@@ -112,3 +110,6 @@
 - 09/08 00:44 [FirstSquawk] QATAR LNG VESSEL CLOSES IN ON HORMUZ STRAIT FOR EXIT, ACCORDING TO DATA.
 - 09/08 00:55 [financialjuice] Germany said to discuss gas storage help with SEFE and Uniper.
 - 09/08 00:56 [FirstSquawk] ITALY TO SELL UP TO EUR 750 MLN OF 2.15% 2072 BONDS SEPT. 10 || TO SELL UP TO EUR 3.5 BLN OF 3% 2029 BONDS || TO SELL UP TO EUR 3.5 BLN OF 3.35% 2033 BONDS
+- 09/08 01:13 [FirstSquawk] NTSB WILL HOST A MEDIA BRIEFING ON MONDAY AT 4 PM ET ABOUT THE RUNWAY INCIDENT AT MIAMI INTERNATIONAL AIRPORT.
+- 09/08 01:14 [FirstSquawk] LATVIA'S PM KULBERGS ANNOUNCED A 300% TARIFF ON GRAIN IMPORTS FROM RUSSIA AND BELARUS.
+- 09/08 01:24 [FirstSquawk] CUBA'S FOREIGN MINISTER BRUNO RODRIGUEZ STATES THAT THERE HAS BEEN NO ADVANCEMENT OR TALKS WITH THE UNITED STATES REGARDING FUTURE DISCUSSIONS.
