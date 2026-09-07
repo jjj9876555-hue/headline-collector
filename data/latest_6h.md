@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 16:22 JST／対象: 09/07 10:22 〜 09/07 16:22 JST（時刻はすべて日本時間）
+生成: 2026-09-07 16:39 JST／対象: 09/07 10:39 〜 09/07 16:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 96 | 09/07 10:22 | 09/07 16:22 | 27分（14:04→14:31） |
-| financialjuice | 12 | 09/07 10:22 | 09/07 16:02 | ⚠ 158分（11:26→14:05） |
+| FirstSquawk | 99 | 09/07 10:39 | 09/07 16:37 | 27分（14:04→14:31） |
+| financialjuice | 11 | 09/07 10:40 | 09/07 16:02 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 108 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 110 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 10:22 [financialjuice] China cbank pumps 500 mln yuan via 7-day reverse repos: statement
-- 09/07 10:22 [FirstSquawk] China’s central bank conducts 500 million yuan of 7-day reverse repo operations
-- 09/07 10:26 [FirstSquawk] Thai PM Anutin, 1 year on, prioritizes Chinese capital to buoy growth - NA
-- 09/07 10:30 [FirstSquawk] S. Korea, U.S., Japan kick off 3-way military exercise - YONHAP
-- 09/07 10:33 [FirstSquawk] Seoul stocks surge at the open as tech shares gain despite Middle East tensions
-- 09/07 10:36 [FirstSquawk] Tesla, SpaceX shares slide as robotaxi launch fails to impress investors
-- 09/07 10:36 [FirstSquawk] Benchmark rubber futures in Shanghai jump 3.04% to 19,340 yuan per metric ton
 - 09/07 10:39 [FirstSquawk] Gold Falls on Rising Fed Rate Hike Expectations - WSJ
 - 09/07 10:40 [financialjuice] S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.040% yield
 - 09/07 10:40 [FirstSquawk] South Korea central bank auctions 91-day monetary stabilisation bonds at 3.040% yield
@@ -132,3 +125,12 @@
 - 09/07 16:19 [FirstSquawk] IRAN WARNED SOUTH KOREA ON MONDAY AGAINST DEPLOYING FORCES OR PARTICIPATING IN MILITARY OPERATIONS IN THE PERSIAN GULF AND THE STRAIT OF HORMUZ, SAYING SUCH INVOLVEMENT WOULD BE VIEWED AS DIRECT SUPPORT FOR THE UNITED STATES AND COULD HAVE …
 - 09/07 16:22 [FirstSquawk] UAE PRESIDENTIAL ADVISER GARGASH: DEALING WITH IRAN REMAINS A CENTRAL ISSUE FOR UAE AND OTHER GULF COUNTRIES
 - 09/07 16:22 [FirstSquawk] UAE PRESIDENTIAL ADVISER GARGASH: OUR ENERGY EXPORTS WILL NOT BE HELD HOSTAGE
+- 09/07 16:23 [FirstSquawk] CHINA'S COMMERCE MINISTRY: TO COLLECT SECURITY DEPOSIT ON JAPANESE DICHLOROSILANE IMPORTS FROM SEP 8 - STATEMENT
+- 09/07 16:26 [FirstSquawk] CHINA TO LEVY UP TO 99.2% IMPORT DEPOSIT ON DCS FROM JAPAN
+- 09/07 16:28 [FirstSquawk] UAE PRESIDENTIAL ADVISER GARGASH: IT IS NOT ACCEPTABLE FOR OIL TANKERS, VESSELS TO BE CONTINUOUSLY THREATENED IN THE STRAIT OF HORMUZ
+- 09/07 16:31 [FirstSquawk] U.S. NAVY SECRETLY SPENT FOUR MONTHS CLEARING IRANIAN MINES FROM THE STRAIT OF HORMUZ.
+- 09/07 16:31 [FirstSquawk] UAE PRESIDENTIAL ADVISER GARGASH: STRAIT OF HORMUZ MUST BE TREATED AS AN INTERNATIONAL WATERWAY
+- 09/07 16:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON BAGHAEI, REPLYING TO U.S. VICE PRESIDENT VANCE, SAYS THIS IS NOT A WAR BUT AN 'OVERT AGGRESSION'
+- 09/07 16:35 [FirstSquawk] CHINESE STATE-OWNED COMPANY SUPPLIED RUSSIA WITH MATERIALS TO BUILD HUNDREDS OF KAMIKAZE DRONES.
+- 09/07 16:37 [FirstSquawk] IRAN'S BAGHAEI SAYS EUROPEAN STATES ARE 'IRRATIONAL' FOR SEEKING UN RESOLUTION AGAINST IRAN WHEN 'IMPOSED-WAR' MADE NUCLEAR FACILITIES INACCESSIBLE
+- 09/07 16:37 [FirstSquawk] IRAN'S BAGHAEI SAYS TEHRAN WILL RECIPROCATE SHOULD UN NUCLEAR WATCHDOG TAKE RESOLUTION AGAINST IRAN

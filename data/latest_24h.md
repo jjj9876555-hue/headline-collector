@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 16:22 JST／対象: 09/06 16:22 〜 09/07 16:22 JST（時刻はすべて日本時間）
+生成: 2026-09-07 16:39 JST／対象: 09/06 16:39 〜 09/07 16:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 280 | 09/06 16:34 | 09/07 16:22 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 285 | 09/06 16:50 | 09/07 16:37 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 29 | 09/06 17:17 | 09/07 16:02 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 311 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 316 行（統合前 319 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 16:34 [FirstSquawk] Germany plans anti-sabotage shield after airport drone attack, Bild reports
-- 09/06 16:34 [FirstSquawk] Restrictions meant to cool overheated market result in longer loan screening times.
-- 09/06 16:34 [FirstSquawk] Google is boosting AI chip production, now releasing two of its TPU chips a year and aiming for even faster rollouts.
-- 09/06 16:34 [FirstSquawk] United States and Europe cannot use sanctions and threats to force Iran into negotiations from a position of weakness, the parliament’s economic committee spokesperson said on Sunday.
 - 09/06 16:50 [FirstSquawk] Europe was supposed to leave gas facilities like Kårstø behind. Instead, the giant processing plant is at the center of a wider continental shift. Emission reductions are out. Energy security is in.
 - 09/06 16:50 [FirstSquawk] Nigel Farage has one overriding task: to convince voters he’s ready to take over as British prime minister in an election he believes may be just months away.
 - 09/06 16:50 [FirstSquawk] In February 2025, the U.N. launched a fund to channel corporate profits into nature conservation in developing countries, aiming to raise $1 billion a year. So far, it has attracted just two small contributors and $6,000.
@@ -335,3 +331,12 @@
 - 09/07 16:19 [FirstSquawk] IRAN WARNED SOUTH KOREA ON MONDAY AGAINST DEPLOYING FORCES OR PARTICIPATING IN MILITARY OPERATIONS IN THE PERSIAN GULF AND THE STRAIT OF HORMUZ, SAYING SUCH INVOLVEMENT WOULD BE VIEWED AS DIRECT SUPPORT FOR THE UNITED STATES AND COULD HAVE …
 - 09/07 16:22 [FirstSquawk] UAE PRESIDENTIAL ADVISER GARGASH: DEALING WITH IRAN REMAINS A CENTRAL ISSUE FOR UAE AND OTHER GULF COUNTRIES
 - 09/07 16:22 [FirstSquawk] UAE PRESIDENTIAL ADVISER GARGASH: OUR ENERGY EXPORTS WILL NOT BE HELD HOSTAGE
+- 09/07 16:23 [FirstSquawk] CHINA'S COMMERCE MINISTRY: TO COLLECT SECURITY DEPOSIT ON JAPANESE DICHLOROSILANE IMPORTS FROM SEP 8 - STATEMENT
+- 09/07 16:26 [FirstSquawk] CHINA TO LEVY UP TO 99.2% IMPORT DEPOSIT ON DCS FROM JAPAN
+- 09/07 16:28 [FirstSquawk] UAE PRESIDENTIAL ADVISER GARGASH: IT IS NOT ACCEPTABLE FOR OIL TANKERS, VESSELS TO BE CONTINUOUSLY THREATENED IN THE STRAIT OF HORMUZ
+- 09/07 16:31 [FirstSquawk] U.S. NAVY SECRETLY SPENT FOUR MONTHS CLEARING IRANIAN MINES FROM THE STRAIT OF HORMUZ.
+- 09/07 16:31 [FirstSquawk] UAE PRESIDENTIAL ADVISER GARGASH: STRAIT OF HORMUZ MUST BE TREATED AS AN INTERNATIONAL WATERWAY
+- 09/07 16:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON BAGHAEI, REPLYING TO U.S. VICE PRESIDENT VANCE, SAYS THIS IS NOT A WAR BUT AN 'OVERT AGGRESSION'
+- 09/07 16:35 [FirstSquawk] CHINESE STATE-OWNED COMPANY SUPPLIED RUSSIA WITH MATERIALS TO BUILD HUNDREDS OF KAMIKAZE DRONES.
+- 09/07 16:37 [FirstSquawk] IRAN'S BAGHAEI SAYS EUROPEAN STATES ARE 'IRRATIONAL' FOR SEEKING UN RESOLUTION AGAINST IRAN WHEN 'IMPOSED-WAR' MADE NUCLEAR FACILITIES INACCESSIBLE
+- 09/07 16:37 [FirstSquawk] IRAN'S BAGHAEI SAYS TEHRAN WILL RECIPROCATE SHOULD UN NUCLEAR WATCHDOG TAKE RESOLUTION AGAINST IRAN
