@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 06:50 JST／対象: 09/07 18:50 〜 09/08 06:50 JST（時刻はすべて日本時間）
+生成: 2026-09-08 07:01 JST／対象: 09/07 19:01 〜 09/08 07:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 95 | 09/07 18:52 | 09/08 05:58 | ⚠ 61分（04:56→05:57） |
+| FirstSquawk | 88 | 09/07 19:02 | 09/08 05:58 | ⚠ 61分（04:56→05:57） |
 | financialjuice | 31 | 09/07 19:10 | 09/08 04:54 | ⚠ 100分（02:41→04:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 131 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 124 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 18:52 [FirstSquawk] PRESIDENT TRUMP'S ENVOYS, JARED KUSHNER AND STEVE WITKOFF, SAID THEY HELD "MEANINGFUL DISCUSSIONS" AND ARE ENCOURAGED BY THE TALKS IN KYIV, PART OF A TRIP THAT BEGAN IN MOSCOW, AS THE LATEST PUSH TO END MORE THAN 4½ YEARS OF RUSSIA'S FULL-S…
-- 09/07 18:53 [FirstSquawk] QATAR AUG. FOREIGN RESERVES QAR262.24B
-- 09/07 18:58 [FirstSquawk] ALIBABA GROUP: BERNSTEIN CUTS TARGET PRICE TO $165 FROM $180
-- 09/07 18:59 [FirstSquawk] AZERBAIJAN IS NOW JOINTLY PRODUCING TURKISH UNMANNED NAVAL VESSELS DOMESTICALLY. PRESIDENT ALIYEV VISITED A PRODUCTION LINE RUN BY AZERBAIJAN'S MIRAS AND TÜRKIYE'S DEARSAN SHIPYARD, INSPECTING TWO PLATFORMS.
-- 09/07 19:01 [FirstSquawk] NOVO SAYS STEP YOUNG PHASE 3 TRIAL MET PRIMARY ENDPOINT
-- 09/07 19:01 [FirstSquawk] NOVO NORDISK' SEMAGLUTIDE SHOWS NO NEW SAFETY CONCERNS IN KIDS
-- 09/07 19:01 [FirstSquawk] NOVO: 40.4% OF CHILDREN ACHIEVED BMI BELOW OBESITY THRESHOLD
 - 09/07 19:02 [FirstSquawk] STOXX EUROPE 600 INDEX ERASES LOSS, TRADES FLAT
 - 09/07 19:10 [financialjuice] Kremlin on Ukraine trilateral talks: We have not yet received information about contacts in Kyiv.
 - 09/07 19:18 [FirstSquawk] KREMLIN DOES NOT RULE OUT RUSSIA - USA - UKRAINE TALKS RESUMPTION, TOO EARLY TO SPEAK ABOUT TIME AND VENUE
