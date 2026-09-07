@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 04:53 JST／対象: 09/07 22:53 〜 09/08 04:53 JST（時刻はすべて日本時間）
+生成: 2026-09-08 05:17 JST／対象: 09/07 23:17 〜 09/08 05:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/08 00:17 | 09/08 03:07 | ⚠ 112分（00:36→02:28） |
-| FirstSquawk | 33 | 09/07 22:56 | 09/08 04:10 | ⚠ 50分（02:00→02:51） |
-| financialjuice | 17 | 09/07 23:01 | 09/08 04:43 | ⚠ 100分（02:41→04:22） |
+| FirstSquawk | 29 | 09/07 23:31 | 09/08 04:56 | ⚠ 50分（02:00→02:51） |
+| financialjuice | 16 | 09/07 23:18 | 09/08 04:54 | ⚠ 100分（02:41→04:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 57 行（統合前 58 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 52 行（統合前 53 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 22:56 [FirstSquawk] JAGUAR LAND ROVER WILL CUT 4K JOBS TO COMPETE WITH CHINA - AP
-- 09/07 23:01 [financialjuice] French Official confirms sending SAMP/T defense systems to Kyiv.
-- 09/07 23:02 [financialjuice] French Official confirms to send SAMP/T defense systems to Kyiv.
-- 09/07 23:07 [FirstSquawk] FRENCH OFFICIAL CONFIRMS THAT FRANCE WILL SEND SAMP/T DEFENCE SYSTEMS TO KYIV
-- 09/07 23:09 [FirstSquawk] GERMAN CHANCELLOR FRIEDRICH MERZ IS SCRAMBLING TO CONTAIN THE FALLOUT FROM THE FAR-RIGHT AFD'S VICTORY IN STATE ELECTIONS.
-- 09/07 23:10 [FirstSquawk] SAUDI ARABIA AUG. OFFICIAL RESERVE ASSETS SAR1.827T
-- 09/07 23:14 [FirstSquawk] N. KOREA'S DEFENCE MINISTER: IF U.S. AND ITS ALLIES SEEK A NEW MILITARY CONFRONTATION, WE WILL ALSO TAKE STRONG COUNTERMEASURES - KCNA
 - 09/07 23:18 [financialjuice] Crypto Fear & Greed Index: 71/100 - Greed
 - 09/07 23:31 [FirstSquawk] CHINA HAS STARTED ANTI-DUMPING ACTIONS ON IMPORTANT CHIPMAKING MATERIALS IMPORTED FROM JAPAN, ACCORDING TO NIKKEI.
 - 09/07 23:32 [FirstSquawk] EU'S KAJA KALLAS SAYS RUSSIA IS NOT SERIOUS ABOUT PEACE.
@@ -81,3 +74,5 @@
 - 09/08 04:10 [FirstSquawk] ISRAELI DIASPORA AFFAIRS MINISTER AMICHAI CHIKLI SAYS 'WE HAVE IN EUROPE A SIGNIFICANT PART OF THE ELITES THAT HAVE BEEN SWEPT INTO THE MOST RADICAL POST-NATIONALIST PLACES — PLACES OF IDENTIFICATION, ESSENTIALLY, WITH ISLAMIST NATIONALISM,…
 - 09/08 04:22 [financialjuice] Tuesday FX Option Expiries
 - 09/08 04:43 [financialjuice] Nvidia's CEO Huang is on the UK King Charles' AI meeting guest list - Politico $NVDA
+- 09/08 04:54 [financialjuice] Stock Futures Face Pressure in Holiday-Thinned Trading as Middle East Escalation Drives Oil Higher – US Market Wrap
+- 09/08 04:56 [FirstSquawk] NVIDIA'S CEO HUANG IS ON UK KING CHARLES' AI MEETING GUEST LIST - POLITICO
