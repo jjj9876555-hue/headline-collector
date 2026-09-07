@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 13:18 JST／対象: 09/06 13:18 〜 09/07 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-07 13:34 JST／対象: 09/06 13:34 〜 09/07 13:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 260 | 09/06 13:20 | 09/07 13:14 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 266 | 09/06 13:38 | 09/07 13:34 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 23 | 09/06 15:07 | 09/07 11:26 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 283 行（統合前 286 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 289 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 13:20 [FirstSquawk] China mines iron from tailings and low-grade ore to cut Australia, Brazil supply - SCMP
-- 09/06 13:24 [FirstSquawk] Argentina threatens to sanction oil projects around Falkland Islands - SCMP
-- 09/06 13:32 [FirstSquawk] Japan PM Takaichi urges removal of Russia war victory statue - KYODO
 - 09/06 13:38 [FirstSquawk] Tokyo, Washington to step up investment cooperation under 2025 trade pact
 - 09/06 13:50 [FirstSquawk] U.S. Ambassador to Israel Mike Huckabee on Saturday condemned escalating settler attacks in the occupied West Bank and labeled the perpetrators "terrorists." - Yahoo
 - 09/06 13:58 [FirstSquawk] Meta readies Hatch AI agent for consumer launch as it seeks to monetize AI spending
@@ -307,3 +304,12 @@
 - 09/07 12:52 [FirstSquawk] Macquarie shifts US Fed rate hike call to September 2026 from December
 - 09/07 12:52 [FirstSquawk] Macquarie still anticipates another 25-bps interest rate increase in Q1 2027
 - 09/07 13:14 [FirstSquawk] Moody’s Ratings rates KBank’s proposed Tier 2 subordinated notes
+- 09/07 13:29 [FirstSquawk] Philanthropic giving in Asia forecast to hit US$1.5 trillion over next decade - SCMP
+- 09/07 13:29 [FirstSquawk] Beijing to Inject Billions Into Banks, Insurers to Boost Growth - WSJ
+- 09/07 13:30 [FirstSquawk] CHINA PUMPS $53BN INTO BANKS AND INSURERS - FT
+- 09/07 13:31 [FirstSquawk] MODI FAILS TO DULL GOLD’S LUSTRE IN INDIA - FT
+- 09/07 13:31 [FirstSquawk] VENEZUELA-US OIL DEAL RISKS VIOLATING LOCAL LAW, SAY EXPERTS - FT
+- 09/07 13:31 [FirstSquawk] BIG US UNIVERSITY ENDOWMENTS OUTPERFORM S&P 500 INDEX - FT
+- 09/07 13:31 [FirstSquawk] RUSSIA’S URANIUM PUSH RAISES CONCERN OVER NUCLEAR FUEL SUPPLY - FT
+- 09/07 13:33 [FirstSquawk] KOSPI jumps 4% in Seoul trading
+- 09/07 13:34 [FirstSquawk] SK Hynix climbs 7.6% as Samsung Electronics gains 5.1%

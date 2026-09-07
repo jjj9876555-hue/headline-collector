@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 13:18 JST／対象: 09/07 01:18 〜 09/07 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-07 13:34 JST／対象: 09/07 01:34 〜 09/07 13:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/07 07:10 | 09/07 07:10 | - |
-| FirstSquawk | 136 | 09/07 01:38 | 09/07 13:14 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 145 | 09/07 01:38 | 09/07 13:34 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 19 | 09/07 07:11 | 09/07 11:26 | ⚠ 75分（07:11→08:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 156 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 165 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -180,3 +180,12 @@
 - 09/07 12:52 [FirstSquawk] Macquarie shifts US Fed rate hike call to September 2026 from December
 - 09/07 12:52 [FirstSquawk] Macquarie still anticipates another 25-bps interest rate increase in Q1 2027
 - 09/07 13:14 [FirstSquawk] Moody’s Ratings rates KBank’s proposed Tier 2 subordinated notes
+- 09/07 13:29 [FirstSquawk] Philanthropic giving in Asia forecast to hit US$1.5 trillion over next decade - SCMP
+- 09/07 13:29 [FirstSquawk] Beijing to Inject Billions Into Banks, Insurers to Boost Growth - WSJ
+- 09/07 13:30 [FirstSquawk] CHINA PUMPS $53BN INTO BANKS AND INSURERS - FT
+- 09/07 13:31 [FirstSquawk] MODI FAILS TO DULL GOLD’S LUSTRE IN INDIA - FT
+- 09/07 13:31 [FirstSquawk] VENEZUELA-US OIL DEAL RISKS VIOLATING LOCAL LAW, SAY EXPERTS - FT
+- 09/07 13:31 [FirstSquawk] BIG US UNIVERSITY ENDOWMENTS OUTPERFORM S&P 500 INDEX - FT
+- 09/07 13:31 [FirstSquawk] RUSSIA’S URANIUM PUSH RAISES CONCERN OVER NUCLEAR FUEL SUPPLY - FT
+- 09/07 13:33 [FirstSquawk] KOSPI jumps 4% in Seoul trading
+- 09/07 13:34 [FirstSquawk] SK Hynix climbs 7.6% as Samsung Electronics gains 5.1%
