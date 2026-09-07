@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 03:52 JST／対象: 09/07 03:52 〜 09/08 03:52 JST（時刻はすべて日本時間）
+生成: 2026-09-08 04:05 JST／対象: 09/07 04:05 〜 09/08 04:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/07 07:10 | 09/08 03:07 | ⚠ 1026分（07:10→00:17） |
-| FirstSquawk | 283 | 09/07 04:20 | 09/08 03:15 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 284 | 09/07 04:20 | 09/08 04:00 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 71 | 09/07 07:11 | 09/08 02:41 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 356 行（統合前 366 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 357 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -380,3 +380,4 @@
 - 09/08 03:07 [DeItaone] OPENAI’S TOP SCIENTIST WARNS AI MAY BE MOVING TOO FAST OpenAI chief scientist Jakub Pachocki is calling for “extreme caution” as AI capabilities rapidly advance. He warns that models could soon improve themselves without human intervention,…
 - 09/08 03:15 [FirstSquawk] COPPER HITS A RECORD $14,533/TON ON THE LME AS TARIFF FEARS AND SUPPLY CONSTRAINTS DRIVE A POWERFUL RALLY.
 - 09/08 03:15 [FirstSquawk] COPPER IS UP 17% THIS YEAR AND 47% OVER 12 MONTHS, WITH US STOCKPILING AIDING THE RALLY AS AGING MINES STRUGGLE TO KEEP PACE WITH AI DATA CENTERS, POWER GRIDS AND RENEWABLE-ENERGY DEMAND.
+- 09/08 04:00 [FirstSquawk] ITALIAN PM MELONI SAYS 'I REMAIN FIRMLY CONVINCED THAT THE SCHENGEN AREA CAN ONLY BE PRESERVED IN THE BEST POSSIBLE WAY IF WE DEFEND THE EXTERNAL BORDERS OF THE EUROPEAN UNION', ADDING THAT THIS REQUIRES 'ALL MEMBER STATES CONTINUE TO DO TH…

@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 03:52 JST／対象: 09/07 15:52 〜 09/08 03:52 JST（時刻はすべて日本時間）
+生成: 2026-09-08 04:05 JST／対象: 09/07 16:05 〜 09/08 04:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/08 00:17 | 09/08 03:07 | ⚠ 112分（00:36→02:28） |
-| FirstSquawk | 135 | 09/07 16:01 | 09/08 03:15 | ⚠ 50分（02:00→02:51） |
-| financialjuice | 46 | 09/07 16:00 | 09/08 02:41 | ⚠ 76分（16:02→17:18） |
+| FirstSquawk | 131 | 09/07 16:17 | 09/08 04:00 | ⚠ 50分（02:00→02:51） |
+| financialjuice | 43 | 09/07 17:18 | 09/08 02:41 | ⚠ 66分（20:03→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 182 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 175 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 16:00 [financialjuice] SWISS UNEMPLOYMENT RATE UNADJUSTED ACTUAL 3% (FORECAST 3%, PREVIOUS 3.0%) $MACRO
-- 09/07 16:00 [financialjuice] SWISS UNEMPLOYMENT RATE ADJUSTED ACTUAL 3.1% (FORECAST 3.1%, PREVIOUS 3.1%) $MACRO
-- 09/07 16:01 [FirstSquawk] SPAIN (Q2) INE HOUSE PRICE INDEX QOQ ACTUAL: 3.4% VS 3.5% PREVIOUS
-- 09/07 16:01 [FirstSquawk] SWITZERLAND (AUG) UNEMPLOYMENT RATE SA ACTUAL: 3.1% VS 3.1% PREVIOUS;EST 3.1%
-- 09/07 16:01 [FirstSquawk] SWITZERLAND (AUG) UNEMPLOYMENT RATE ACTUAL: 3.0% VS 3.0% PREVIOUS;EST 3.0%
-- 09/07 16:01 [FirstSquawk] SPAIN (Q2) INE HOUSE PRICE INDEX YOY ACTUAL: 12.2% VS 12.9% PREVIOUS
-- 09/07 16:01 [FirstSquawk] SWITZERLAND (AUG) FOREIGN CURRENCY RESERVES ACTUAL: 770.1B VS 768.3B PREVIOUS
-- 09/07 16:02 [financialjuice] Iran Foreign Ministry Spokesperson on X: South Korea participation in Gulf, Hormuz operations would have serious consequences.
 - 09/07 16:17 [FirstSquawk] Oil is approaching $100 after the US and Iran traded strikes on each other's tankers over the weekend.
 - 09/07 16:17 [FirstSquawk] US sank one Iranian tanker and disabled two others, including one near Iran's main export terminal.
 - 09/07 16:18 [FirstSquawk] US CENTCOM said: If you shoot at two of our ships, we will impose an even higher economic cost — taking out three of yours.
@@ -206,3 +198,4 @@
 - 09/08 03:07 [DeItaone] OPENAI’S TOP SCIENTIST WARNS AI MAY BE MOVING TOO FAST OpenAI chief scientist Jakub Pachocki is calling for “extreme caution” as AI capabilities rapidly advance. He warns that models could soon improve themselves without human intervention,…
 - 09/08 03:15 [FirstSquawk] COPPER HITS A RECORD $14,533/TON ON THE LME AS TARIFF FEARS AND SUPPLY CONSTRAINTS DRIVE A POWERFUL RALLY.
 - 09/08 03:15 [FirstSquawk] COPPER IS UP 17% THIS YEAR AND 47% OVER 12 MONTHS, WITH US STOCKPILING AIDING THE RALLY AS AGING MINES STRUGGLE TO KEEP PACE WITH AI DATA CENTERS, POWER GRIDS AND RENEWABLE-ENERGY DEMAND.
+- 09/08 04:00 [FirstSquawk] ITALIAN PM MELONI SAYS 'I REMAIN FIRMLY CONVINCED THAT THE SCHENGEN AREA CAN ONLY BE PRESERVED IN THE BEST POSSIBLE WAY IF WE DEFEND THE EXTERNAL BORDERS OF THE EUROPEAN UNION', ADDING THAT THIS REQUIRES 'ALL MEMBER STATES CONTINUE TO DO TH…
