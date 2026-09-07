@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 01:58 JST／対象: 09/07 13:58 〜 09/08 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-08 02:16 JST／対象: 09/07 14:16 〜 09/08 02:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/08 00:17 | 09/08 00:36 | 19分（00:17→00:36） |
-| FirstSquawk | 155 | 09/07 14:02 | 09/08 01:37 | 24分（23:32→23:56） |
-| financialjuice | 48 | 09/07 14:05 | 09/08 01:31 | ⚠ 76分（16:02→17:18） |
+| FirstSquawk | 156 | 09/07 14:20 | 09/08 02:00 | 24分（23:32→23:56） |
+| financialjuice | 48 | 09/07 14:54 | 09/08 01:59 | ⚠ 76分（16:02→17:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 198 行（統合前 206 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 199 行（統合前 207 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 14:02 [FirstSquawk] JAPAN (JUL) LEADING INDEX CI ACTUAL: 117.9 VS 116.5 PREVIOUS;EST 118.0
-- 09/07 14:02 [FirstSquawk] JAPAN (JUL) COINCIDENT INDEX ACTUAL: 120.6 VS 118.5 PREVIOUS;EST 120.2
-- 09/07 14:04 [FirstSquawk] Russia hits vessel carrying military supplies at Chornomorsk port, also strikes Izmail
-- 09/07 14:05 [financialjuice] JAPANESE LEADING INDICATOR CHANGE ACTUAL 1.7 (FORECAST -, PREVIOUS 0.0) $MACRO
 - 09/07 14:20 [FirstSquawk] DOLLAR EXPECTED TO TRADE IN 154.30-157.60 YEN RANGE THIS WEEK-WSJ
 - 09/07 14:31 [FirstSquawk] OIL RISES AS ESCALATING U.S.-IRAN CONFLICT STOKES SUPPLY DISRUPTION FEARS-WSJ
 - 09/07 14:42 [FirstSquawk] BEIJING TO INJECT BILLIONS INTO BANKS, INSURERS TO BOOST GROWTH-WSJ
@@ -222,3 +218,8 @@
 - 09/08 01:31 [financialjuice] The White House: Trump will never stop fighting for Made in America.
 - 09/08 01:37 [FirstSquawk] EUROPE'S LEADING AIRLINES DISCUSS PARTNERSHIP FOR SATELLITE-TO-MOBILE PROJECT.
 - 09/08 01:37 [FirstSquawk] DEUTSCHE TELEKOM, ORANGE, VODAFONE, AND TELEFONICA DISCUSS PARTNERSHIP OPTIONS.
+- 09/08 01:59 [financialjuice] Ukraine’s President Zelenskiy: The US is exploring Russia-Ukraine winter de-escalation steps - Axios
+- 09/08 01:59 [FirstSquawk] UK PREMIER ANDY BURNHAM'S OFFICE SHARES DETAILS OF CALL WITH TRUMP.
+- 09/08 01:59 [FirstSquawk] BURNHAM EMPHASIZES UK BACKING FOR US-LED PEACE DISCUSSIONS ON UKRAINE.
+- 09/08 01:59 [FirstSquawk] UK REAFFIRMS DEDICATION TO MIDDLE EAST PEACE AND SUPPORTS HORMUZ REOPENING.
+- 09/08 02:00 [FirstSquawk] UKRAINE’S PRESIDENT ZELENSKIY: THE US IS EXPLORING RUSSIA-UKRAINE WINTER DE-ESCALATION STEPS - AXIOS || THE U.S. IS EXPLORING WHETHER UKRAINE AND RUSSIA COULD TAKE STEPS TO DE-ESCALATE THE WAR DURING THE WINTER WHILE RESTARTING NEGOTIATIONS…

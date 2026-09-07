@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 01:58 JST／対象: 09/07 19:58 〜 09/08 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-08 02:16 JST／対象: 09/07 20:16 〜 09/08 02:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/08 00:17 | 09/08 00:36 | 19分（00:17→00:36） |
-| FirstSquawk | 64 | 09/07 20:02 | 09/08 01:37 | 24分（23:32→23:56） |
-| financialjuice | 21 | 09/07 19:58 | 09/08 01:31 | ⚠ 66分（20:03→21:10） |
+| FirstSquawk | 65 | 09/07 20:18 | 09/08 02:00 | 24分（23:32→23:56） |
+| financialjuice | 19 | 09/07 21:10 | 09/08 01:59 | ⚠ 60分（21:45→22:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 84 行（統合前 88 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 85 行（統合前 86 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 19:58 [financialjuice] Saudi Aramco facility hit in new strikes - FT
-- 09/07 20:02 [financialjuice/FirstSquawk] Panama Canal warns of possible transit cuts in further blow to shipping - FT.
-- 09/07 20:03 [FirstSquawk/financialjuice] NUMBER OF DAILY TRANSITS THROUGH THE PANAMA CANAL COULD FALL AS LOW AS 27, DOWN FROM 32 - FT
-- 09/07 20:15 [FirstSquawk] CHINA’S PREMIER MEETS QATAR’S PM IN BEIJING - CCTV
 - 09/07 20:18 [FirstSquawk] UKRAINE MOVES TO TAKE CONTROL OF BOTTLED-WATER GIANT IDS UKRAINE OVER ITS LINKS TO SANCTIONED RUSSIAN OLIGARCH FRIDMAN.
 - 09/07 20:29 [FirstSquawk] UK PM'S SPOKESMAN, TOM WELLS, BRIEFS REPORTERS IN LONDON
 - 09/07 20:29 [FirstSquawk] UK GOVT REMAINS COMMITTED TO PENSIONS TRIPLE LOCK: WELLS
@@ -108,3 +104,8 @@
 - 09/08 01:31 [financialjuice] The White House: Trump will never stop fighting for Made in America.
 - 09/08 01:37 [FirstSquawk] EUROPE'S LEADING AIRLINES DISCUSS PARTNERSHIP FOR SATELLITE-TO-MOBILE PROJECT.
 - 09/08 01:37 [FirstSquawk] DEUTSCHE TELEKOM, ORANGE, VODAFONE, AND TELEFONICA DISCUSS PARTNERSHIP OPTIONS.
+- 09/08 01:59 [financialjuice] Ukraine’s President Zelenskiy: The US is exploring Russia-Ukraine winter de-escalation steps - Axios
+- 09/08 01:59 [FirstSquawk] UK PREMIER ANDY BURNHAM'S OFFICE SHARES DETAILS OF CALL WITH TRUMP.
+- 09/08 01:59 [FirstSquawk] BURNHAM EMPHASIZES UK BACKING FOR US-LED PEACE DISCUSSIONS ON UKRAINE.
+- 09/08 01:59 [FirstSquawk] UK REAFFIRMS DEDICATION TO MIDDLE EAST PEACE AND SUPPORTS HORMUZ REOPENING.
+- 09/08 02:00 [FirstSquawk] UKRAINE’S PRESIDENT ZELENSKIY: THE US IS EXPLORING RUSSIA-UKRAINE WINTER DE-ESCALATION STEPS - AXIOS || THE U.S. IS EXPLORING WHETHER UKRAINE AND RUSSIA COULD TAKE STEPS TO DE-ESCALATE THE WAR DURING THE WINTER WHILE RESTARTING NEGOTIATIONS…
