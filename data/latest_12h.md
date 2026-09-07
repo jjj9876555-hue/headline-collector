@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 00:18 JST／対象: 09/07 12:18 〜 09/08 00:18 JST（時刻はすべて日本時間）
+生成: 2026-09-08 00:34 JST／対象: 09/07 12:34 〜 09/08 00:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 00:17 | 09/08 00:17 | - |
-| FirstSquawk | 166 | 09/07 12:21 | 09/08 00:01 | 27分（14:04→14:31） |
+| FirstSquawk | 167 | 09/07 12:34 | 09/08 00:33 | 27分（14:04→14:31） |
 | financialjuice | 45 | 09/07 14:05 | 09/08 00:02 | ⚠ 76分（16:02→17:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 205 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 206 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 12:21 [FirstSquawk] Japan gov't eyes ODA for upgrading Indonesia's fishing ports: KYODO
-- 09/07 12:28 [FirstSquawk] North Korea commissions new Kang Kon naval destroyer with nuclear capabilities
 - 09/07 12:34 [FirstSquawk] EUROPE DOMINATES MASTERS IN MANAGEMENT RANKING BUT DEGREE’S POPULARITY SPREADS - FT
 - 09/07 12:34 [FirstSquawk] INDONESIA SHUTS AIRPORTS AS VOLCANO ERUPTS - FT
 - 09/07 12:37 [FirstSquawk] China's state bank and insurer shares slide after $54bn injection plan - NA
@@ -229,3 +227,6 @@
 - 09/08 00:01 [FirstSquawk] COPPER REACHES RECORD HIGH OF OVER $14,530 PER TON AT LME.
 - 09/08 00:02 [financialjuice] Copper surges to an all-time high above $14,530 a ton on the LME.
 - 09/08 00:17 [DeItaone] HUNTER BIDEN TO LAUNCH $LAPTOP MEME COIN, SOURCES SAY -- WSJ HUNTER BIDEN'S $LAPTOP MEME COIN TO LAUNCH SEPT. 9 ON COINBASE-AFFILIATED BLOCKCHAIN, SOURCES SAY -- WSJ HUNTER BIDEN, FOUNDERS OF $LAPTOP TO HOLD 30% OF 1B TOKENS ISSUED, SOURCES…
+- 09/08 00:23 [FirstSquawk] GERMAN BONDS CONTINUE TO FALL, WITH TWO-YEAR YIELD INCREASING BY 5 BASIS POINTS TO REACH 3%.
+- 09/08 00:33 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.12%; GERMANY'S DAX DOWN 0.25%
+- 09/08 00:33 [FirstSquawk] FRANCE'S CAC 40 UP 0.25%; SPAIN'S IBEX DOWN 0.22%
