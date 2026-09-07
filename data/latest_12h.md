@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 22:38 JST／対象: 09/07 10:38 〜 09/07 22:38 JST（時刻はすべて日本時間）
+生成: 2026-09-07 22:52 JST／対象: 09/07 10:52 〜 09/07 22:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 181 | 09/07 10:39 | 09/07 22:38 | 27分（14:04→14:31） |
-| financialjuice | 38 | 09/07 10:40 | 09/07 21:45 | ⚠ 158分（11:26→14:05） |
+| FirstSquawk | 177 | 09/07 10:54 | 09/07 22:51 | 27分（14:04→14:31） |
+| financialjuice | 38 | 09/07 11:26 | 09/07 22:45 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 213 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 209 行（統合前 218 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 10:39 [FirstSquawk] Gold Falls on Rising Fed Rate Hike Expectations - WSJ
-- 09/07 10:40 [financialjuice] S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.040% yield
-- 09/07 10:40 [FirstSquawk] South Korea central bank auctions 91-day monetary stabilisation bonds at 3.040% yield
-- 09/07 10:43 [FirstSquawk] Americans Without College Degrees Are Having One of the Best Job Markets in Years - WSJ
-- 09/07 10:48 [FirstSquawk] New Zealand Dollar edges lower as Fed rate hike bets and Iran tensions underpin USD - FX
-- 09/07 10:50 [FirstSquawk] Americans overwhelmingly oppose AI data centers in their local area, Political poll shows
-- 09/07 10:50 [FirstSquawk] Top EU diplomat Kaja Kallas has been forced to cancel the launch of a high-level group made up of former political and military leaders following pressure from EU member countries, in what could prove another blow to the former Estonian pri…
 - 09/07 10:54 [FirstSquawk] Tourist complaints in S. Korea hit record high amid travel boom - KYODO
 - 09/07 10:55 [FirstSquawk] Australia ANZ-Indeed Job Advertisements (M/M) Aug: 2.5% (prev 0.8%)
 - 09/07 11:01 [FirstSquawk] Most-active coking coal contract in China slides more than 3%
@@ -237,3 +230,6 @@
 - 09/07 22:36 [FirstSquawk] LABOUR ANNOUNCES A BY-ELECTION FOR HOLBORN AND ST PANCRAS ON OCTOBER 8.
 - 09/07 22:37 [FirstSquawk] TRAFFIC THROUGH THE STRAIT OF HORMUZ HAS FALLEN TO ITS LOWEST LEVEL SINCE MAY, WITH SHIPPING DATA SHOWING AN AVERAGE OF 10 VESSELS A DAY TRANSITING THE WATERWAY ON SUNDAY, REUTERS REPORTED, CITING ANALYTICS FIRM KPLER.
 - 09/07 22:38 [FirstSquawk] ONLY TWO VESSELS PASSED THROUGH THE STRAIT ON SATURDAY AND SIX ON SUNDAY, MOSTLY USING THE IRANIAN ROUTE, ACCORDING TO REUTERS. THE 10-DAY AVERAGE STOOD AT 13 VESSELS ON SATURDAY, DOWN FROM MORE THAN 15 ON FRIDAY.
+- 09/07 22:41 [FirstSquawk] OIL TANKER FIRE OFF KHARG ISLAND EXTINGUISHED, NO OIL LEAK - FARS
+- 09/07 22:45 [financialjuice] Russian Foreign Ministry closes the German consulate in St. Petersburg - Ria.
+- 09/07 22:51 [FirstSquawk] SERBIA'S GOVERNMENT SEEKS DISSOLUTION OF PARLIAMENT, TO PAVE THE WAY FOR SNAP ELECTIONS
