@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 22:52 JST／対象: 09/07 16:52 〜 09/07 22:52 JST（時刻はすべて日本時間）
+生成: 2026-09-07 23:06 JST／対象: 09/07 17:06 〜 09/07 23:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 81 | 09/07 16:54 | 09/07 22:51 | 17分（21:48→22:05） |
-| financialjuice | 28 | 09/07 17:18 | 09/07 22:45 | ⚠ 66分（20:03→21:10） |
+| FirstSquawk | 78 | 09/07 17:08 | 09/07 22:56 | 17分（21:48→22:05） |
+| financialjuice | 30 | 09/07 17:18 | 09/07 23:02 | ⚠ 66分（20:03→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 103 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 102 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 16:54 [FirstSquawk] IRAN: TO REACH ACCORD ON TEMPORARY HORMUZ ROUTE IN COMING DAYS
-- 09/07 16:56 [FirstSquawk] IRAN'S BAGHAEI SAYS QATARI DELEGATION WAS IN IRAN ON SUNDAY TO HELP DE-ESCALATE TENSIONS
-- 09/07 17:01 [FirstSquawk] GOOGLE, CATHAY USE AI TO TACKLE AVIATION’S TOP CLIMATE HEADACHE
-- 09/07 17:02 [FirstSquawk] CHINA END-AUG. GOLD RESERVES $350.08B
 - 09/07 17:08 [FirstSquawk] USD/JPY NOW DOWN 0.5%, AFTER DROPPING 0.6% TO NEW DAY LOW
 - 09/07 17:09 [FirstSquawk] YEN CLIMBS TO HIGHEST LEVEL SINCE MAY, EXCEEDING INTERVENTION BOOST.
 - 09/07 17:14 [FirstSquawk] HUAWEI UNVEILS FIRST TRIPLE-FOLD PHONE WITH 'US-FREE' CORE CHIPS
@@ -127,3 +123,6 @@
 - 09/07 22:41 [FirstSquawk] OIL TANKER FIRE OFF KHARG ISLAND EXTINGUISHED, NO OIL LEAK - FARS
 - 09/07 22:45 [financialjuice] Russian Foreign Ministry closes the German consulate in St. Petersburg - Ria.
 - 09/07 22:51 [FirstSquawk] SERBIA'S GOVERNMENT SEEKS DISSOLUTION OF PARLIAMENT, TO PAVE THE WAY FOR SNAP ELECTIONS
+- 09/07 22:56 [FirstSquawk] JAGUAR LAND ROVER WILL CUT 4K JOBS TO COMPETE WITH CHINA - AP
+- 09/07 23:01 [financialjuice] French Official confirms sending SAMP/T defense systems to Kyiv.
+- 09/07 23:02 [financialjuice] French Official confirms to send SAMP/T defense systems to Kyiv.
