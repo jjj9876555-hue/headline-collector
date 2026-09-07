@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 01:25 JST／対象: 09/07 01:25 〜 09/08 01:25 JST（時刻はすべて日本時間）
+生成: 2026-09-08 01:44 JST／対象: 09/07 01:44 〜 09/08 01:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 07:10 | 09/08 00:36 | ⚠ 1026分（07:10→00:17） |
-| FirstSquawk | 300 | 09/07 01:38 | 09/08 01:24 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 66 | 09/07 07:11 | 09/08 00:55 | ⚠ 158分（11:26→14:05） |
+| FirstSquawk | 297 | 09/07 02:27 | 09/08 01:37 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 67 | 09/07 07:11 | 09/08 01:31 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 362 行（統合前 372 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 360 行（統合前 370 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 01:38 [FirstSquawk] Zelensky: We discussed with the American envoys the security and economic guarantees for Ukraine after the war
-- 09/07 01:38 [FirstSquawk] Zelensky: The land issue is the main sticking point that can only be resolved at the leaders' level
-- 09/07 01:38 [FirstSquawk] Kushner: President Trump wants to create a framework for achieving comprehensive and lasting peace, not just ending the current war in Ukraine
-- 09/07 01:38 [FirstSquawk] Witkoff: We came to Kyiv to get the negotiation wheel turning again, and we have a good feeling about what we've achieved and look forward to more
-- 09/07 01:39 [FirstSquawk] Witkoff: My mission with Kushner is to bring together the Russian and Ukrainian sides and narrow the gaps to reach a joint decision that ends the war
 - 09/07 02:27 [FirstSquawk] SECRETARY-GENERAL OF MERZ'S CDU ON ELECTION IN GERMAN STATE OF SAXONY-ANHALT: NO COOPERATION WITH FAR RIGHT AND FAR LEFT -ZDF
 - 09/07 02:28 [FirstSquawk] LEAD CANDIDATE FOR GERMAN FAR-RIGHT PARTY AFD IN SAXONY-ANHALT: WILL STICK OUT HAND TO ANY PARTY WILLING TO WORK WITH US
 - 09/07 02:28 [FirstSquawk] LEAD CANDIDATE FOR GERMAN FAR-RIGHT PARTY AFD IN SAXONY-ANHALT: WILL NOT GIVE UP OUR VALUES JUST TO GOVERN
@@ -386,3 +381,6 @@
 - 09/08 01:13 [FirstSquawk] NTSB WILL HOST A MEDIA BRIEFING ON MONDAY AT 4 PM ET ABOUT THE RUNWAY INCIDENT AT MIAMI INTERNATIONAL AIRPORT.
 - 09/08 01:14 [FirstSquawk] LATVIA'S PM KULBERGS ANNOUNCED A 300% TARIFF ON GRAIN IMPORTS FROM RUSSIA AND BELARUS.
 - 09/08 01:24 [FirstSquawk] CUBA'S FOREIGN MINISTER BRUNO RODRIGUEZ STATES THAT THERE HAS BEEN NO ADVANCEMENT OR TALKS WITH THE UNITED STATES REGARDING FUTURE DISCUSSIONS.
+- 09/08 01:31 [financialjuice] The White House: Trump will never stop fighting for Made in America.
+- 09/08 01:37 [FirstSquawk] EUROPE'S LEADING AIRLINES DISCUSS PARTNERSHIP FOR SATELLITE-TO-MOBILE PROJECT.
+- 09/08 01:37 [FirstSquawk] DEUTSCHE TELEKOM, ORANGE, VODAFONE, AND TELEFONICA DISCUSS PARTNERSHIP OPTIONS.
