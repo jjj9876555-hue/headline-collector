@@ -7,37 +7,30 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 23:45 JST／対象: 09/07 17:45 〜 09/07 23:45 JST（時刻はすべて日本時間）
+生成: 2026-09-08 00:00 JST／対象: 09/07 18:00 〜 09/08 00:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 78 | 09/07 17:46 | 09/07 23:32 | 17分（23:14→23:31） |
-| financialjuice | 29 | 09/07 17:49 | 09/07 23:36 | ⚠ 66分（20:03→21:10） |
+| FirstSquawk | 77 | 09/07 18:00 | 09/07 23:58 | 24分（23:32→23:56） |
+| financialjuice | 25 | 09/07 18:00 | 09/07 23:57 | ⚠ 66分（20:03→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 101 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 98 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 17:46 [FirstSquawk] US PUSHES DIPLOMATIC PRESSURE ON IRAN TO BE REFERRED TO UN SECURITY COUNCIL DUE TO ITS OBSTRUCTION OF NUCLEAR INSPECTORS.
-- 09/07 17:48 [FirstSquawk/financialjuice] UK FINANCE MINISTER HEALEY: GLOBAL SHOCKS ARE FELT KEENLY IN UK
-- 09/07 17:49 [financialjuice] UK Finance Minister Healey: Our borrowing costs are at a historic high.
-- 09/07 17:50 [financialjuice/FirstSquawk] UK Finance Minister Healey: I will build on Reeves' move to recover fiscal discipline.
-- 09/07 17:51 [financialjuice] UK Finance Minister Healey: Growth is still fragile but fastest in G7 in H1 2026.
-- 09/07 17:51 [financialjuice] UK Finance Minister Healey: Productivity is finally picking up.
-- 09/07 17:54 [financialjuice] UK Finance Minister Healey: I want to draw line on rising costs in economy.
-- 09/07 17:58 [financialjuice/FirstSquawk] UK Finance Minister Healey: At the budget I will set out roadmap to fiscal devolution.
 - 09/07 18:00 [financialjuice] ‼ BREAKING: EUROZONE GDP QOQ REVISED ACTUAL 0.6% (FORECAST 0.4%, PREVIOUS 0.4%) $MACRO
 - 09/07 18:00 [financialjuice] ❗ EUROZONE GDP YOY REVISED ACTUAL 1.2% (FORECAST 1%, PREVIOUS 1.0%) $MACRO
 - 09/07 18:00 [FirstSquawk] EURO AREA 2Q GDP RISES 0.6% Q/Q; EST. +0.4%
 - 09/07 18:00 [financialjuice] EUROZONE EMPLOYMENT QOQ FINAL ACTUAL 0.1% (FORECAST -, PREVIOUS 0.1%) $MACRO
 - 09/07 18:01 [FirstSquawk] Eurozone GDP SA (QoQ) Q2 T: 0.6% (est 0.4%; prev 0.4%) -GDP SA (YoY) Q2 T: 1.2% (est 1.0%; prev 1.0%) - Employment (Q/Q) Q2 F: 0.1% (prev 0.1%) - Employment (Y/Y) Q2 F: 0.5% (prev 0.5%)
 - 09/07 18:03 [financialjuice] Israel Defense Minister Katz: Warns of all-out war if Palestinian security forces attack.
+- 09/07 18:04 [FirstSquawk] UK FINANCE MINISTER HEALEY: AT THE BUDGET I WILL SET OUT ROADMAP TO FISCAL DEVOLUTION.
 - 09/07 18:10 [FirstSquawk] AUDI IS REVIVING THE UNIQUE A2, HOPING A MODEL DESIGNED FOR EUROPEAN PREFERENCES WILL AID VOLKSWAGEN IN BOOSTING ITS SLUMPING PROFITS.
 - 09/07 18:12 [financialjuice] UK Finance Minister Healey: I will not let opportunity of AI to pass by, but will not allow it to proliferate without oversight.
 - 09/07 18:15 [FirstSquawk] UK CHANCELLOR HEALEY: CONFIRM COMMITMENT TO REDUCE BURDEN OF BUSINESS REGULATION BY 25% BY END OF PARLIAMENT
@@ -125,3 +118,7 @@
 - 09/07 23:31 [FirstSquawk] CHINA HAS STARTED ANTI-DUMPING ACTIONS ON IMPORTANT CHIPMAKING MATERIALS IMPORTED FROM JAPAN, ACCORDING TO NIKKEI.
 - 09/07 23:32 [FirstSquawk] EU'S KAJA KALLAS SAYS RUSSIA IS NOT SERIOUS ABOUT PEACE.
 - 09/07 23:36 [financialjuice] US CPI Prep (11th September)
+- 09/07 23:53 [financialjuice] UFORCE Funding $SPCX
+- 09/07 23:56 [financialjuice/FirstSquawk] Iran warns ships face strike risk near Oman's Khasab - Fars
+- 09/07 23:57 [financialjuice] UFORCE Funding $SPCX Defense startup UFORCE is in talks to raise $500M at a $5B valuation. SpaceX backer Valor is in discussions to lead the round.
+- 09/07 23:58 [FirstSquawk] VALOR, A SPACEX BACKER, IS IN TALKS TO LEAD A $500 MILLION FUNDING ROUND FOR UFORCE.
