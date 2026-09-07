@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 18:53 JST／対象: 09/07 06:53 〜 09/07 18:53 JST（時刻はすべて日本時間）
+生成: 2026-09-07 19:17 JST／対象: 09/07 07:17 〜 09/07 19:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/07 07:10 | 09/07 07:10 | - |
-| FirstSquawk | 173 | 09/07 09:04 | 09/07 18:52 | 27分（14:04→14:31） |
-| financialjuice | 43 | 09/07 07:11 | 09/07 18:12 | ⚠ 158分（11:26→14:05） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 180 | 09/07 09:04 | 09/07 19:02 | 27分（14:04→14:31） |
+| financialjuice | 34 | 09/07 08:27 | 09/07 19:10 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 214 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 211 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 07:10 [DeItaone] IRAN ACCUSES U.S. OF CAUSING HORMUZ DISRUPTION Iranian Foreign Ministry spokesman Esmaeil Baqaei accused the U.S. of starting the conflict and expecting other countries to bear its economic costs. Baqaei said the Strait of Hormuz was open b…
-- 09/07 07:11 [financialjuice] Iran's top security official: restricted area to be declared outside Strait of Hormuz in coming days - state media
-- 09/07 07:11 [financialjuice] Iran’s top security official: zone will start from line of U.S. Navy blockade and extend into Gulf areas - state media
-- 09/07 07:11 [financialjuice] Iran’s top security official: any vessel entering new zone faces sanctions list
-- 09/07 07:11 [financialjuice] Iran's top security official: maps of ship routes in Hormuz agreed with Oman to be signed in coming days - state TV
-- 09/07 07:11 [financialjuice] North Korea’s Kim Jong Un: nuclear armament to make navy’s combat systems practical -KCNA
-- 09/07 07:11 [financialjuice] North Korea's Kim Jong Un: Navy will hold back enemy invading fleet -KCNA
-- 09/07 07:11 [financialjuice] North Korea's Kim Jong Un: new warship shows progress in just 2-3 years - KCNA
-- 09/07 07:11 [financialjuice] North Korea’s Kim Jong Un: N. Korea faces ongoing threats in sea east of Korean Peninsula, nearby waters - KCNA
-- 09/07 07:11 [financialjuice] North Korea's Kim Jong Un: dangerous shadows must be eliminated - KCNA
-- 09/07 07:11 [financialjuice] North Korea’s Kim Jong Un: currently executing key plan to boost naval forces, will demonstrate results in 8 months - KCNA
 - 09/07 08:27 [financialjuice] Average of 10 commodity vessels cross Strait of Hormuz daily, lowest since May, Kpler 10-day moving average says
 - 09/07 08:50 [financialjuice] Japan foreign reserves $1,207.524 billion at end-August, down from $1,287.099 billion at end-July: MOF
 - 09/07 09:04 [FirstSquawk] SOUTH KOREA’S KOSPI CLIMBS 3%
@@ -238,3 +227,11 @@
 - 09/07 18:32 [FirstSquawk] JAGUAR LAND ROVER TO CUT 4,000 JOBS
 - 09/07 18:45 [FirstSquawk] YEMENI GOVERNMENT FORCES ADVANCED AGAINST IRAN-BACKED HOUTHIS DEEPER INTO THE NORTHERN PROVINCE OF AL-JAWF IN NORTHWESTERN YEMEN ON MONDAY AND WERE MOVING TOWARD ITS CAPITAL, AL-HAZM
 - 09/07 18:52 [FirstSquawk] PRESIDENT TRUMP'S ENVOYS, JARED KUSHNER AND STEVE WITKOFF, SAID THEY HELD "MEANINGFUL DISCUSSIONS" AND ARE ENCOURAGED BY THE TALKS IN KYIV, PART OF A TRIP THAT BEGAN IN MOSCOW, AS THE LATEST PUSH TO END MORE THAN 4½ YEARS OF RUSSIA'S FULL-S…
+- 09/07 18:53 [FirstSquawk] QATAR AUG. FOREIGN RESERVES QAR262.24B
+- 09/07 18:58 [FirstSquawk] ALIBABA GROUP: BERNSTEIN CUTS TARGET PRICE TO $165 FROM $180
+- 09/07 18:59 [FirstSquawk] AZERBAIJAN IS NOW JOINTLY PRODUCING TURKISH UNMANNED NAVAL VESSELS DOMESTICALLY. PRESIDENT ALIYEV VISITED A PRODUCTION LINE RUN BY AZERBAIJAN'S MIRAS AND TÜRKIYE'S DEARSAN SHIPYARD, INSPECTING TWO PLATFORMS.
+- 09/07 19:01 [FirstSquawk] NOVO SAYS STEP YOUNG PHASE 3 TRIAL MET PRIMARY ENDPOINT
+- 09/07 19:01 [FirstSquawk] NOVO NORDISK' SEMAGLUTIDE SHOWS NO NEW SAFETY CONCERNS IN KIDS
+- 09/07 19:01 [FirstSquawk] NOVO: 40.4% OF CHILDREN ACHIEVED BMI BELOW OBESITY THRESHOLD
+- 09/07 19:02 [FirstSquawk] STOXX EUROPE 600 INDEX ERASES LOSS, TRADES FLAT
+- 09/07 19:10 [financialjuice] Kremlin on Ukraine trilateral talks: We have not yet received information about contacts in Kyiv.

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 18:53 JST／対象: 09/07 12:53 〜 09/07 18:53 JST（時刻はすべて日本時間）
+生成: 2026-09-07 19:17 JST／対象: 09/07 13:17 〜 09/07 19:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 89 | 09/07 13:14 | 09/07 18:52 | 20分（14:31→14:51） |
-| financialjuice | 24 | 09/07 14:05 | 09/07 18:12 | ⚠ 76分（16:02→17:18） |
+| FirstSquawk | 95 | 09/07 13:29 | 09/07 19:02 | 20分（14:31→14:51） |
+| financialjuice | 25 | 09/07 14:05 | 09/07 19:10 | ⚠ 76分（16:02→17:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 110 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 117 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 13:14 [FirstSquawk] Moody’s Ratings rates KBank’s proposed Tier 2 subordinated notes
 - 09/07 13:29 [FirstSquawk] Philanthropic giving in Asia forecast to hit US$1.5 trillion over next decade - SCMP
 - 09/07 13:29 [FirstSquawk] Beijing to Inject Billions Into Banks, Insurers to Boost Growth - WSJ
 - 09/07 13:30 [FirstSquawk] CHINA PUMPS $53BN INTO BANKS AND INSURERS - FT
@@ -134,3 +133,11 @@
 - 09/07 18:32 [FirstSquawk] JAGUAR LAND ROVER TO CUT 4,000 JOBS
 - 09/07 18:45 [FirstSquawk] YEMENI GOVERNMENT FORCES ADVANCED AGAINST IRAN-BACKED HOUTHIS DEEPER INTO THE NORTHERN PROVINCE OF AL-JAWF IN NORTHWESTERN YEMEN ON MONDAY AND WERE MOVING TOWARD ITS CAPITAL, AL-HAZM
 - 09/07 18:52 [FirstSquawk] PRESIDENT TRUMP'S ENVOYS, JARED KUSHNER AND STEVE WITKOFF, SAID THEY HELD "MEANINGFUL DISCUSSIONS" AND ARE ENCOURAGED BY THE TALKS IN KYIV, PART OF A TRIP THAT BEGAN IN MOSCOW, AS THE LATEST PUSH TO END MORE THAN 4½ YEARS OF RUSSIA'S FULL-S…
+- 09/07 18:53 [FirstSquawk] QATAR AUG. FOREIGN RESERVES QAR262.24B
+- 09/07 18:58 [FirstSquawk] ALIBABA GROUP: BERNSTEIN CUTS TARGET PRICE TO $165 FROM $180
+- 09/07 18:59 [FirstSquawk] AZERBAIJAN IS NOW JOINTLY PRODUCING TURKISH UNMANNED NAVAL VESSELS DOMESTICALLY. PRESIDENT ALIYEV VISITED A PRODUCTION LINE RUN BY AZERBAIJAN'S MIRAS AND TÜRKIYE'S DEARSAN SHIPYARD, INSPECTING TWO PLATFORMS.
+- 09/07 19:01 [FirstSquawk] NOVO SAYS STEP YOUNG PHASE 3 TRIAL MET PRIMARY ENDPOINT
+- 09/07 19:01 [FirstSquawk] NOVO NORDISK' SEMAGLUTIDE SHOWS NO NEW SAFETY CONCERNS IN KIDS
+- 09/07 19:01 [FirstSquawk] NOVO: 40.4% OF CHILDREN ACHIEVED BMI BELOW OBESITY THRESHOLD
+- 09/07 19:02 [FirstSquawk] STOXX EUROPE 600 INDEX ERASES LOSS, TRADES FLAT
+- 09/07 19:10 [financialjuice] Kremlin on Ukraine trilateral talks: We have not yet received information about contacts in Kyiv.

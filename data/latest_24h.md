@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 18:53 JST／対象: 09/06 18:53 〜 09/07 18:53 JST（時刻はすべて日本時間）
+生成: 2026-09-07 19:17 JST／対象: 09/06 19:17 〜 09/07 19:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 277 | 09/06 19:08 | 09/07 18:52 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 43 | 09/07 07:11 | 09/07 18:12 | ⚠ 158分（11:26→14:05） |
+| FirstSquawk | 275 | 09/06 19:24 | 09/07 19:02 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 44 | 09/07 07:11 | 09/07 19:10 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 320 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 319 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 19:08 [FirstSquawk] Lebanese Ministry of Health: Today's Israeli airstrikes led to the complete destruction of a hospital in Al-Nabatieh Al-Fawqa
-- 09/06 19:08 [FirstSquawk] Lebanese Ministry of Health: Israel's destruction of the hospital constitutes a grave violation of international humanitarian law
-- 09/06 19:08 [FirstSquawk] Zelensky: We seek to bring forward the date of ending the war, and our position has been and remains constructive
-- 09/06 19:08 [FirstSquawk] Zelensky: Peace is required, as are security guarantees, and we need a peace that preserves dignity after the war
-- 09/06 19:08 [FirstSquawk] Zelenskyy, ahead of his meeting with Witkoff and Kushner: Our proposals are ready, and it is important that we work in a coordinated, objective, and realistic manner.
-- 09/06 19:08 [FirstSquawk] Iranian Parliament Speaker: Our armed forces have delivered powerful strikes to the American bases
-- 09/06 19:09 [FirstSquawk] Iranian Parliament Speaker: Any aggression against our interests will be met with a strong and swift response
-- 09/06 19:09 [FirstSquawk] Iranian Parliament Speaker: New alternatives must be found to confront the economic pressures imposed by the enemy regarding supply chains.
-- 09/06 19:09 [FirstSquawk] Iranian Parliament Speaker: We must avoid matters that affect national unity
 - 09/06 19:24 [FirstSquawk] Israeli Army: We attacked militants and infrastructure belonging to Hezbollah in southern Lebanon
 - 09/06 19:38 [FirstSquawk] Arrival of U.S. Envoys Witkoff and Kushner in the Ukrainian Capital Kyiv, Coming from Moscow as Part of Their Efforts to End the War
 - 09/06 19:53 [FirstSquawk] Lebanese President: Israeli attacks exceed the breach of the ceasefire agreement and the framework agreement to state institutions
@@ -344,3 +335,11 @@
 - 09/07 18:32 [FirstSquawk] JAGUAR LAND ROVER TO CUT 4,000 JOBS
 - 09/07 18:45 [FirstSquawk] YEMENI GOVERNMENT FORCES ADVANCED AGAINST IRAN-BACKED HOUTHIS DEEPER INTO THE NORTHERN PROVINCE OF AL-JAWF IN NORTHWESTERN YEMEN ON MONDAY AND WERE MOVING TOWARD ITS CAPITAL, AL-HAZM
 - 09/07 18:52 [FirstSquawk] PRESIDENT TRUMP'S ENVOYS, JARED KUSHNER AND STEVE WITKOFF, SAID THEY HELD "MEANINGFUL DISCUSSIONS" AND ARE ENCOURAGED BY THE TALKS IN KYIV, PART OF A TRIP THAT BEGAN IN MOSCOW, AS THE LATEST PUSH TO END MORE THAN 4½ YEARS OF RUSSIA'S FULL-S…
+- 09/07 18:53 [FirstSquawk] QATAR AUG. FOREIGN RESERVES QAR262.24B
+- 09/07 18:58 [FirstSquawk] ALIBABA GROUP: BERNSTEIN CUTS TARGET PRICE TO $165 FROM $180
+- 09/07 18:59 [FirstSquawk] AZERBAIJAN IS NOW JOINTLY PRODUCING TURKISH UNMANNED NAVAL VESSELS DOMESTICALLY. PRESIDENT ALIYEV VISITED A PRODUCTION LINE RUN BY AZERBAIJAN'S MIRAS AND TÜRKIYE'S DEARSAN SHIPYARD, INSPECTING TWO PLATFORMS.
+- 09/07 19:01 [FirstSquawk] NOVO SAYS STEP YOUNG PHASE 3 TRIAL MET PRIMARY ENDPOINT
+- 09/07 19:01 [FirstSquawk] NOVO NORDISK' SEMAGLUTIDE SHOWS NO NEW SAFETY CONCERNS IN KIDS
+- 09/07 19:01 [FirstSquawk] NOVO: 40.4% OF CHILDREN ACHIEVED BMI BELOW OBESITY THRESHOLD
+- 09/07 19:02 [FirstSquawk] STOXX EUROPE 600 INDEX ERASES LOSS, TRADES FLAT
+- 09/07 19:10 [financialjuice] Kremlin on Ukraine trilateral talks: We have not yet received information about contacts in Kyiv.
