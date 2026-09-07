@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 18:18 JST／対象: 09/07 12:18 〜 09/07 18:18 JST（時刻はすべて日本時間）
+生成: 2026-09-07 18:35 JST／対象: 09/07 12:35 〜 09/07 18:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 93 | 09/07 12:21 | 09/07 18:15 | 27分（14:04→14:31） |
+| FirstSquawk | 92 | 09/07 12:37 | 09/07 18:32 | 27分（14:04→14:31） |
 | financialjuice | 24 | 09/07 14:05 | 09/07 18:12 | ⚠ 76分（16:02→17:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 114 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 12:21 [FirstSquawk] Japan gov't eyes ODA for upgrading Indonesia's fishing ports: KYODO
-- 09/07 12:28 [FirstSquawk] North Korea commissions new Kang Kon naval destroyer with nuclear capabilities
-- 09/07 12:34 [FirstSquawk] EUROPE DOMINATES MASTERS IN MANAGEMENT RANKING BUT DEGREE’S POPULARITY SPREADS - FT
-- 09/07 12:34 [FirstSquawk] INDONESIA SHUTS AIRPORTS AS VOLCANO ERUPTS - FT
 - 09/07 12:37 [FirstSquawk] China's state bank and insurer shares slide after $54bn injection plan - NA
 - 09/07 12:41 [FirstSquawk] Thailand’s headline consumer price index seen continuing to rise, Commerce Ministry says
 - 09/07 12:44 [FirstSquawk] Thailand headline CPI projected at 2.37% in Q3 and 2.70% in Q4, Commerce Ministry says
@@ -138,3 +134,6 @@
 - 09/07 18:10 [FirstSquawk] AUDI IS REVIVING THE UNIQUE A2, HOPING A MODEL DESIGNED FOR EUROPEAN PREFERENCES WILL AID VOLKSWAGEN IN BOOSTING ITS SLUMPING PROFITS.
 - 09/07 18:12 [financialjuice] UK Finance Minister Healey: I will not let opportunity of AI to pass by, but will not allow it to proliferate without oversight.
 - 09/07 18:15 [FirstSquawk] UK CHANCELLOR HEALEY: CONFIRM COMMITMENT TO REDUCE BURDEN OF BUSINESS REGULATION BY 25% BY END OF PARLIAMENT
+- 09/07 18:24 [FirstSquawk] VW INKS DEAL WITH ISRAELI FIRM TO TURN OSNABRUECK FACTORY INTO DEFENSE HUB
+- 09/07 18:27 [FirstSquawk] IRAN TO RAISE PETROL PRICES AS US WAR TRIGGERS SHORTAGES
+- 09/07 18:32 [FirstSquawk] JAGUAR LAND ROVER TO CUT 4,000 JOBS

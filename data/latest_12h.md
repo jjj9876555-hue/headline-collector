@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 18:18 JST／対象: 09/07 06:18 〜 09/07 18:18 JST（時刻はすべて日本時間）
+生成: 2026-09-07 18:35 JST／対象: 09/07 06:35 〜 09/07 18:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/07 07:10 | 09/07 07:10 | - |
-| FirstSquawk | 168 | 09/07 09:04 | 09/07 18:15 | 27分（14:04→14:31） |
+| FirstSquawk | 171 | 09/07 09:04 | 09/07 18:32 | 27分（14:04→14:31） |
 | financialjuice | 43 | 09/07 07:11 | 09/07 18:12 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 209 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 212 行（統合前 217 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -233,3 +233,6 @@
 - 09/07 18:10 [FirstSquawk] AUDI IS REVIVING THE UNIQUE A2, HOPING A MODEL DESIGNED FOR EUROPEAN PREFERENCES WILL AID VOLKSWAGEN IN BOOSTING ITS SLUMPING PROFITS.
 - 09/07 18:12 [financialjuice] UK Finance Minister Healey: I will not let opportunity of AI to pass by, but will not allow it to proliferate without oversight.
 - 09/07 18:15 [FirstSquawk] UK CHANCELLOR HEALEY: CONFIRM COMMITMENT TO REDUCE BURDEN OF BUSINESS REGULATION BY 25% BY END OF PARLIAMENT
+- 09/07 18:24 [FirstSquawk] VW INKS DEAL WITH ISRAELI FIRM TO TURN OSNABRUECK FACTORY INTO DEFENSE HUB
+- 09/07 18:27 [FirstSquawk] IRAN TO RAISE PETROL PRICES AS US WAR TRIGGERS SHORTAGES
+- 09/07 18:32 [FirstSquawk] JAGUAR LAND ROVER TO CUT 4,000 JOBS
