@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 00:34 JST／対象: 09/07 12:34 〜 09/08 00:34 JST（時刻はすべて日本時間）
+生成: 2026-09-08 00:51 JST／対象: 09/07 12:51 〜 09/08 00:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/08 00:17 | 09/08 00:17 | - |
-| FirstSquawk | 167 | 09/07 12:34 | 09/08 00:33 | 27分（14:04→14:31） |
-| financialjuice | 45 | 09/07 14:05 | 09/08 00:02 | ⚠ 76分（16:02→17:18） |
+| DeItaone | 2 | 09/08 00:17 | 09/08 00:36 | 19分（00:17→00:36） |
+| FirstSquawk | 164 | 09/07 12:52 | 09/08 00:44 | 24分（23:32→23:56） |
+| financialjuice | 46 | 09/07 14:05 | 09/08 00:44 | ⚠ 76分（16:02→17:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 206 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 205 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 12:34 [FirstSquawk] EUROPE DOMINATES MASTERS IN MANAGEMENT RANKING BUT DEGREE’S POPULARITY SPREADS - FT
-- 09/07 12:34 [FirstSquawk] INDONESIA SHUTS AIRPORTS AS VOLCANO ERUPTS - FT
-- 09/07 12:37 [FirstSquawk] China's state bank and insurer shares slide after $54bn injection plan - NA
-- 09/07 12:41 [FirstSquawk] Thailand’s headline consumer price index seen continuing to rise, Commerce Ministry says
-- 09/07 12:44 [FirstSquawk] Thailand headline CPI projected at 2.37% in Q3 and 2.70% in Q4, Commerce Ministry says
-- 09/07 12:50 [FirstSquawk] Dollar Expected to Trade in 154.30-157.60 Yen Range This Week - WSJ
 - 09/07 12:52 [FirstSquawk] Macquarie shifts US Fed rate hike call to September 2026 from December
 - 09/07 12:52 [FirstSquawk] Macquarie still anticipates another 25-bps interest rate increase in Q1 2027
 - 09/07 13:14 [FirstSquawk] Moody’s Ratings rates KBank’s proposed Tier 2 subordinated notes
@@ -50,6 +44,7 @@
 - 09/07 14:02 [FirstSquawk] JAPAN (JUL) COINCIDENT INDEX ACTUAL: 120.6 VS 118.5 PREVIOUS;EST 120.2
 - 09/07 14:04 [FirstSquawk] Russia hits vessel carrying military supplies at Chornomorsk port, also strikes Izmail
 - 09/07 14:05 [financialjuice] JAPANESE LEADING INDICATOR CHANGE ACTUAL 1.7 (FORECAST -, PREVIOUS 0.0) $MACRO
+- 09/07 14:20 [FirstSquawk] DOLLAR EXPECTED TO TRADE IN 154.30-157.60 YEN RANGE THIS WEEK-WSJ
 - 09/07 14:31 [FirstSquawk] OIL RISES AS ESCALATING U.S.-IRAN CONFLICT STOKES SUPPLY DISRUPTION FEARS-WSJ
 - 09/07 14:51 [FirstSquawk] AI to enhance efficiency across China’s infrastructure sector, with credit benefits emerging gradually, Moody’s says
 - 09/07 14:53 [FirstSquawk] France’s Lescure says interest rates will increase significantly if no budget is agreed
@@ -230,3 +225,7 @@
 - 09/08 00:23 [FirstSquawk] GERMAN BONDS CONTINUE TO FALL, WITH TWO-YEAR YIELD INCREASING BY 5 BASIS POINTS TO REACH 3%.
 - 09/08 00:33 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.12%; GERMANY'S DAX DOWN 0.25%
 - 09/08 00:33 [FirstSquawk] FRANCE'S CAC 40 UP 0.25%; SPAIN'S IBEX DOWN 0.22%
+- 09/08 00:36 [DeItaone] COPPER SURGES TO ALL-TIME HIGH Copper hit a record $14,533 a ton on the London Metal Exchange, fueled by fears of potential US tariffs on refined copper imports. Prices have jumped 17% over the past year, supported by tight mine supply and …
+- 09/08 00:43 [FirstSquawk] AIRBUS - AUGUST DELIVERIES: 57 || AUGUST GROSS ORDERS: 67 || DELIVERIES IN JAN-AUGUST: 475 || BOOKED 1,157 GROSS AIRCRAFT ORDERS IN JAN-AUGUST || BOOKED 1,091 NET AIRCRAFT ORDERS IN JAN-AUGUST
+- 09/08 00:44 [financialjuice] Qatar LNG ship nears Hormuz in attempt to exit strait - Data
+- 09/08 00:44 [FirstSquawk] QATAR LNG VESSEL CLOSES IN ON HORMUZ STRAIT FOR EXIT, ACCORDING TO DATA.
