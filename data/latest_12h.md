@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 15:49 JST／対象: 09/07 03:49 〜 09/07 15:49 JST（時刻はすべて日本時間）
+生成: 2026-09-07 16:03 JST／対象: 09/07 04:03 〜 09/07 16:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/07 07:10 | 09/07 07:10 | - |
-| FirstSquawk | 149 | 09/07 03:50 | 09/07 15:47 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 25 | 09/07 07:11 | 09/07 15:22 | ⚠ 158分（11:26→14:05） |
+| FirstSquawk | 153 | 09/07 04:20 | 09/07 16:01 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 28 | 09/07 07:11 | 09/07 16:02 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 175 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 182 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 03:50 [FirstSquawk] UKRAINE SAYS A DRONE STRIKE HIT ROSNEFT’S RYAZAN OIL REFINERY, SPARKING A FIRE AT THE 340,000-BPD FACILITY. THE ATTACK ADDS FRESH RISK TO RUSSIAN FUEL SUPPLIES AND GLOBAL OIL MARKETS AS UKRAINE CONTINUES TARGETING ENERGY INFRASTRUCTURE TO C…
 - 09/07 04:20 [FirstSquawk] US ENERGY SECRETARY WRIGHT SAYS US NAVY ESCORTS WILL CONTINUE DEFENDING HORMUZ SHIPPING UNTIL IRAN CHANGES COURSE, WITH OIL FLOWS NOW ABOVE 9 MILLION BPD. WRIGHT SAYS THE REGION IS BACK ABOVE TWO-THIRDS OF PRE-WAR ENERGY FLOWS, BUT CONTINUE…
 - 09/07 04:39 [FirstSquawk] THE FAA SAYS 21 AIR FLIGHT 7598 OVERRAN THE RUNWAY AFTER LANDING AT MIAMI INTERNATIONAL AIRPORT AROUND 2 P.M. LOCAL TIME ON SUNDAY, SEPT. 6, AND THAT IT WILL INVESTIGATE THE INCIDENT.
 - 09/07 04:39 [FirstSquawk] THE FAA SAYS THE BOEING 767-300 CARGO AIRCRAFT HAD DEPARTED FROM LUIS MUÑOZ MARÍN INTERNATIONAL AIRPORT IN SAN JUAN, PUERTO RICO.
@@ -199,3 +198,11 @@
 - 09/07 15:30 [FirstSquawk] AUSTRALIA (Q2) FOREIGN RESERVES ACTUAL: 106.0B VS 106.7B PREVIOUS
 - 09/07 15:40 [FirstSquawk] Iran cautions South Korea over potential military presence in Strait of Hormuz
 - 09/07 15:47 [FirstSquawk] Qatar foreign ministry spokesman says US strategic alliances alone are insufficient for Gulf security
+- 09/07 16:00 [financialjuice] SWISS UNEMPLOYMENT RATE UNADJUSTED ACTUAL 3% (FORECAST 3%, PREVIOUS 3.0%) $MACRO
+- 09/07 16:00 [financialjuice] SWISS UNEMPLOYMENT RATE ADJUSTED ACTUAL 3.1% (FORECAST 3.1%, PREVIOUS 3.1%) $MACRO
+- 09/07 16:01 [FirstSquawk] SPAIN (Q2) INE HOUSE PRICE INDEX QOQ ACTUAL: 3.4% VS 3.5% PREVIOUS
+- 09/07 16:01 [FirstSquawk] SWITZERLAND (AUG) UNEMPLOYMENT RATE SA ACTUAL: 3.1% VS 3.1% PREVIOUS;EST 3.1%
+- 09/07 16:01 [FirstSquawk] SWITZERLAND (AUG) UNEMPLOYMENT RATE ACTUAL: 3.0% VS 3.0% PREVIOUS;EST 3.0%
+- 09/07 16:01 [FirstSquawk] SPAIN (Q2) INE HOUSE PRICE INDEX YOY ACTUAL: 12.2% VS 12.9% PREVIOUS
+- 09/07 16:01 [FirstSquawk] SWITZERLAND (AUG) FOREIGN CURRENCY RESERVES ACTUAL: 770.1B VS 768.3B PREVIOUS
+- 09/07 16:02 [financialjuice] Iran Foreign Ministry Spokesperson on X: South Korea participation in Gulf, Hormuz operations would have serious consequences.
