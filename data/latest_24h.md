@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 07:01 JST／対象: 09/07 07:01 〜 09/08 07:01 JST（時刻はすべて日本時間）
+生成: 2026-09-08 07:19 JST／対象: 09/07 07:19 〜 09/08 07:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/07 07:10 | 09/08 06:42 | ⚠ 1026分（07:10→00:17） |
+| DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
 | FirstSquawk | 267 | 09/07 09:04 | 09/08 05:58 | ⚠ 61分（04:56→05:57） |
-| financialjuice | 74 | 09/07 07:11 | 09/08 04:54 | ⚠ 158分（11:26→14:05） |
+| financialjuice | 64 | 09/07 08:27 | 09/08 04:54 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 344 行（統合前 354 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 333 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 07:10 [DeItaone] IRAN ACCUSES U.S. OF CAUSING HORMUZ DISRUPTION Iranian Foreign Ministry spokesman Esmaeil Baqaei accused the U.S. of starting the conflict and expecting other countries to bear its economic costs. Baqaei said the Strait of Hormuz was open b…
-- 09/07 07:11 [financialjuice] Iran's top security official: restricted area to be declared outside Strait of Hormuz in coming days - state media
-- 09/07 07:11 [financialjuice] Iran’s top security official: zone will start from line of U.S. Navy blockade and extend into Gulf areas - state media
-- 09/07 07:11 [financialjuice] Iran’s top security official: any vessel entering new zone faces sanctions list
-- 09/07 07:11 [financialjuice] Iran's top security official: maps of ship routes in Hormuz agreed with Oman to be signed in coming days - state TV
-- 09/07 07:11 [financialjuice] North Korea’s Kim Jong Un: nuclear armament to make navy’s combat systems practical -KCNA
-- 09/07 07:11 [financialjuice] North Korea's Kim Jong Un: Navy will hold back enemy invading fleet -KCNA
-- 09/07 07:11 [financialjuice] North Korea's Kim Jong Un: new warship shows progress in just 2-3 years - KCNA
-- 09/07 07:11 [financialjuice] North Korea’s Kim Jong Un: N. Korea faces ongoing threats in sea east of Korean Peninsula, nearby waters - KCNA
-- 09/07 07:11 [financialjuice] North Korea's Kim Jong Un: dangerous shadows must be eliminated - KCNA
-- 09/07 07:11 [financialjuice] North Korea’s Kim Jong Un: currently executing key plan to boost naval forces, will demonstrate results in 8 months - KCNA
 - 09/07 08:27 [financialjuice] Average of 10 commodity vessels cross Strait of Hormuz daily, lowest since May, Kpler 10-day moving average says
 - 09/07 08:50 [financialjuice] Japan foreign reserves $1,207.524 billion at end-August, down from $1,287.099 billion at end-July: MOF
 - 09/07 09:04 [FirstSquawk] SOUTH KOREA’S KOSPI CLIMBS 3%
