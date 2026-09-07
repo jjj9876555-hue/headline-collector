@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 05:50 JST／対象: 09/07 23:50 〜 09/08 05:50 JST（時刻はすべて日本時間）
+生成: 2026-09-08 06:02 JST／対象: 09/08 00:02 〜 09/08 06:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/08 00:17 | 09/08 03:07 | ⚠ 112分（00:36→02:28） |
-| FirstSquawk | 27 | 09/07 23:56 | 09/08 04:56 | ⚠ 50分（02:00→02:51） |
-| financialjuice | 14 | 09/07 23:53 | 09/08 04:54 | ⚠ 100分（02:41→04:22） |
+| FirstSquawk | 26 | 09/08 00:23 | 09/08 05:58 | ⚠ 61分（04:56→05:57） |
+| financialjuice | 11 | 09/08 00:02 | 09/08 04:54 | ⚠ 100分（02:41→04:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 48 行（統合前 49 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 45 行（統合前 45 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 23:53 [financialjuice] UFORCE Funding $SPCX
-- 09/07 23:56 [financialjuice/FirstSquawk] Iran warns ships face strike risk near Oman's Khasab - Fars
-- 09/07 23:57 [financialjuice] UFORCE Funding $SPCX Defense startup UFORCE is in talks to raise $500M at a $5B valuation. SpaceX backer Valor is in discussions to lead the round.
-- 09/07 23:58 [FirstSquawk] VALOR, A SPACEX BACKER, IS IN TALKS TO LEAD A $500 MILLION FUNDING ROUND FOR UFORCE.
-- 09/08 00:01 [FirstSquawk] COPPER REACHES RECORD HIGH OF OVER $14,530 PER TON AT LME.
 - 09/08 00:02 [financialjuice] Copper surges to an all-time high above $14,530 a ton on the LME.
 - 09/08 00:17 [DeItaone] HUNTER BIDEN TO LAUNCH $LAPTOP MEME COIN, SOURCES SAY -- WSJ HUNTER BIDEN'S $LAPTOP MEME COIN TO LAUNCH SEPT. 9 ON COINBASE-AFFILIATED BLOCKCHAIN, SOURCES SAY -- WSJ HUNTER BIDEN, FOUNDERS OF $LAPTOP TO HOLD 30% OF 1B TOKENS ISSUED, SOURCES…
 - 09/08 00:23 [FirstSquawk] GERMAN BONDS CONTINUE TO FALL, WITH TWO-YEAR YIELD INCREASING BY 5 BASIS POINTS TO REACH 3%.
@@ -72,3 +67,5 @@
 - 09/08 04:43 [financialjuice] Nvidia's CEO Huang is on the UK King Charles' AI meeting guest list - Politico $NVDA
 - 09/08 04:54 [financialjuice] Stock Futures Face Pressure in Holiday-Thinned Trading as Middle East Escalation Drives Oil Higher – US Market Wrap
 - 09/08 04:56 [FirstSquawk] NVIDIA'S CEO HUANG IS ON UK KING CHARLES' AI MEETING GUEST LIST - POLITICO
+- 09/08 05:57 [FirstSquawk] POSTE ITALIANE HAS INCREASED ITS CONSIDERATION FOR THE TENDER OFFER ON TELECOM ITALIA AND WAIVED THE THRESHOLD CONDITION, ADDING A €0.30 CASH COMPONENT PER TIM SHARE TO TAKE THE AGGREGATE CASH COMPONENT PER TIM SHARE TO €1.97, WITH A MAXIMU…
+- 09/08 05:58 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 7, CENTCOM FORCES HAVE REDIRECTED 94 COMMERCIAL VESSELS, DISABLED 3 AND BOARDED 2 TO ENSURE COMPLETE COMPLIANCE WITH THE U.S. BLOCKADE AGAINST IRAN, WITH AN E/A-18G AIRCRAFT LAUNCHING FROM THE FLIG…

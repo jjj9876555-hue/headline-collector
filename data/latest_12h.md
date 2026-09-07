@@ -7,34 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 05:50 JST／対象: 09/07 17:50 〜 09/08 05:50 JST（時刻はすべて日本時間）
+生成: 2026-09-08 06:02 JST／対象: 09/07 18:02 〜 09/08 06:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/08 00:17 | 09/08 03:07 | ⚠ 112分（00:36→02:28） |
-| FirstSquawk | 103 | 09/07 17:52 | 09/08 04:56 | ⚠ 50分（02:00→02:51） |
-| financialjuice | 41 | 09/07 17:50 | 09/08 04:54 | ⚠ 100分（02:41→04:22） |
+| FirstSquawk | 102 | 09/07 18:04 | 09/08 05:58 | ⚠ 61分（04:56→05:57） |
+| financialjuice | 33 | 09/07 18:03 | 09/08 04:54 | ⚠ 100分（02:41→04:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 146 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 139 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 17:50 [financialjuice/FirstSquawk] UK Finance Minister Healey: I will build on Reeves' move to recover fiscal discipline.
-- 09/07 17:51 [financialjuice] UK Finance Minister Healey: Growth is still fragile but fastest in G7 in H1 2026.
-- 09/07 17:51 [financialjuice] UK Finance Minister Healey: Productivity is finally picking up.
-- 09/07 17:54 [financialjuice] UK Finance Minister Healey: I want to draw line on rising costs in economy.
-- 09/07 17:58 [financialjuice/FirstSquawk] UK Finance Minister Healey: At the budget I will set out roadmap to fiscal devolution.
-- 09/07 18:00 [financialjuice] ‼ BREAKING: EUROZONE GDP QOQ REVISED ACTUAL 0.6% (FORECAST 0.4%, PREVIOUS 0.4%) $MACRO
-- 09/07 18:00 [financialjuice] ❗ EUROZONE GDP YOY REVISED ACTUAL 1.2% (FORECAST 1%, PREVIOUS 1.0%) $MACRO
-- 09/07 18:00 [FirstSquawk] EURO AREA 2Q GDP RISES 0.6% Q/Q; EST. +0.4%
-- 09/07 18:00 [financialjuice] EUROZONE EMPLOYMENT QOQ FINAL ACTUAL 0.1% (FORECAST -, PREVIOUS 0.1%) $MACRO
-- 09/07 18:01 [FirstSquawk] Eurozone GDP SA (QoQ) Q2 T: 0.6% (est 0.4%; prev 0.4%) -GDP SA (YoY) Q2 T: 1.2% (est 1.0%; prev 1.0%) - Employment (Q/Q) Q2 F: 0.1% (prev 0.1%) - Employment (Y/Y) Q2 F: 0.5% (prev 0.5%)
 - 09/07 18:03 [financialjuice] Israel Defense Minister Katz: Warns of all-out war if Palestinian security forces attack.
+- 09/07 18:04 [FirstSquawk] UK FINANCE MINISTER HEALEY: AT THE BUDGET I WILL SET OUT ROADMAP TO FISCAL DEVOLUTION.
 - 09/07 18:10 [FirstSquawk] AUDI IS REVIVING THE UNIQUE A2, HOPING A MODEL DESIGNED FOR EUROPEAN PREFERENCES WILL AID VOLKSWAGEN IN BOOSTING ITS SLUMPING PROFITS.
 - 09/07 18:12 [financialjuice] UK Finance Minister Healey: I will not let opportunity of AI to pass by, but will not allow it to proliferate without oversight.
 - 09/07 18:15 [FirstSquawk] UK CHANCELLOR HEALEY: CONFIRM COMMITMENT TO REDUCE BURDEN OF BUSINESS REGULATION BY 25% BY END OF PARLIAMENT
@@ -170,3 +161,5 @@
 - 09/08 04:43 [financialjuice] Nvidia's CEO Huang is on the UK King Charles' AI meeting guest list - Politico $NVDA
 - 09/08 04:54 [financialjuice] Stock Futures Face Pressure in Holiday-Thinned Trading as Middle East Escalation Drives Oil Higher – US Market Wrap
 - 09/08 04:56 [FirstSquawk] NVIDIA'S CEO HUANG IS ON UK KING CHARLES' AI MEETING GUEST LIST - POLITICO
+- 09/08 05:57 [FirstSquawk] POSTE ITALIANE HAS INCREASED ITS CONSIDERATION FOR THE TENDER OFFER ON TELECOM ITALIA AND WAIVED THE THRESHOLD CONDITION, ADDING A €0.30 CASH COMPONENT PER TIM SHARE TO TAKE THE AGGREGATE CASH COMPONENT PER TIM SHARE TO €1.97, WITH A MAXIMU…
+- 09/08 05:58 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 7, CENTCOM FORCES HAVE REDIRECTED 94 COMMERCIAL VESSELS, DISABLED 3 AND BOARDED 2 TO ENSURE COMPLETE COMPLIANCE WITH THE U.S. BLOCKADE AGAINST IRAN, WITH AN E/A-18G AIRCRAFT LAUNCHING FROM THE FLIG…
