@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 07:58 JST／対象: 09/07 07:58 〜 09/08 07:58 JST（時刻はすべて日本時間）
+生成: 2026-09-08 08:16 JST／対象: 09/07 08:16 〜 09/08 08:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
 | FirstSquawk | 267 | 09/07 09:04 | 09/08 05:58 | ⚠ 61分（04:56→05:57） |
-| financialjuice | 66 | 09/07 08:27 | 09/08 07:45 | ⚠ 170分（04:54→07:45） |
+| financialjuice | 80 | 09/07 08:27 | 09/08 08:01 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 335 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 349 行（統合前 359 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -359,3 +359,17 @@
 - 09/08 06:42 [DeItaone] IRAN ACCUSES CANADA OF BOWING TO U.S. PRESSURE Iranian Foreign Ministry spokesman Esmaeil Baghaei accused Canada of yielding to U.S. “intimidation” after Ottawa criticized Tehran over regional security and freedom of navigation. Baghaei sai…
 - 09/08 07:45 [financialjuice] NEW ZEALAND MANUFACTURING SALES ACTUAL 0.8% (FORECAST -, PREVIOUS 3.6%) $MACRO
 - 09/08 07:45 [financialjuice] New Zealand 2-year swap-adjusted manufacturing sales volumes rise 0.8% on previous quarter
+- 09/08 08:00 [financialjuice] S. KOREAN GDP YOY REVISED ACTUAL 3.7% (FORECAST 3.7%, PREVIOUS 3.7%) $MACRO
+- 09/08 08:00 [financialjuice] S. KOREAN GDP QOQ REVISED ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS 0.6%) $MACRO
+- 09/08 08:00 [financialjuice] S. Korea revised Q2 private consumption 0.4% q/q vs 0.4% estimated earlier: central bank
+- 09/08 08:00 [financialjuice] S.Korea revised Q2 GDP to 3.7% y/y vs 3.7% estimated earlier: central bank
+- 09/08 08:00 [financialjuice] S.Korea revises Q2 construction investment to -0.1% q/q from earlier -0.2%: central bank
+- 09/08 08:00 [financialjuice] S. Korea revises Q2 facilities investment to +0.2% q/q vs +0.2% estimated earlier:
+- 09/08 08:01 [financialjuice] Colombia inflation rose 0.39% last month: government statistics agency
+- 09/08 08:01 [financialjuice] S.Korea revised Q2 GDP growth 0.6% quarter on quarter vs 0.6% estimated earlier: central bank
+- 09/08 08:01 [financialjuice] Colombia's annual inflation reached 6.24% through last month: government statistics agency
+- 09/08 08:01 [financialjuice] UK BRC RETAIL SALES YOY ACTUAL 0.5% (FORECAST -, PREVIOUS 1.0%) $MACRO
+- 09/08 08:01 [financialjuice] Barclays: UK August consumer spending rises 2.1% year-on-year versus 2.0% in July
+- 09/08 08:01 [financialjuice] British Retail Consortium August total sales rise 0.7% year on year, slowest growth since April after July's 1.3% increase
+- 09/08 08:01 [financialjuice] Barclays uk consumer confidence 26% in august vs 21-month peak of 30% in july
+- 09/08 08:01 [financialjuice] British Retail Consortium August like-for-like sales rise 0.5% yy vs July 1.0% yy
