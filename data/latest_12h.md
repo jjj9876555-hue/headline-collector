@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 00:00 JST／対象: 09/07 12:00 〜 09/08 00:00 JST（時刻はすべて日本時間）
+生成: 2026-09-08 00:18 JST／対象: 09/07 12:18 〜 09/08 00:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 169 | 09/07 12:04 | 09/07 23:58 | 27分（14:04→14:31） |
-| financialjuice | 44 | 09/07 14:05 | 09/07 23:57 | ⚠ 76分（16:02→17:18） |
+| DeItaone | 1 | 09/08 00:17 | 09/08 00:17 | - |
+| FirstSquawk | 166 | 09/07 12:21 | 09/08 00:01 | 27分（14:04→14:31） |
+| financialjuice | 45 | 09/07 14:05 | 09/08 00:02 | ⚠ 76分（16:02→17:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 206 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 205 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 12:04 [FirstSquawk] Small-, Mid-Cap Japanese Stocks May Outperform - WSJ
-- 09/07 12:09 [FirstSquawk] South Korea’s economic recovery strengthens, supported by AI-led exports and investment
-- 09/07 12:11 [FirstSquawk] AUD/USD Price Forecast: Consolidates around 0.7200; bullish potential seems intact - FX
-- 09/07 12:16 [FirstSquawk] Tokyo's Shinjuku Ward to ban private lodgings in residential areas - KYODO
 - 09/07 12:21 [FirstSquawk] Japan gov't eyes ODA for upgrading Indonesia's fishing ports: KYODO
 - 09/07 12:28 [FirstSquawk] North Korea commissions new Kang Kon naval destroyer with nuclear capabilities
 - 09/07 12:34 [FirstSquawk] EUROPE DOMINATES MASTERS IN MANAGEMENT RANKING BUT DEGREE’S POPULARITY SPREADS - FT
@@ -230,3 +226,6 @@
 - 09/07 23:56 [financialjuice/FirstSquawk] Iran warns ships face strike risk near Oman's Khasab - Fars
 - 09/07 23:57 [financialjuice] UFORCE Funding $SPCX Defense startup UFORCE is in talks to raise $500M at a $5B valuation. SpaceX backer Valor is in discussions to lead the round.
 - 09/07 23:58 [FirstSquawk] VALOR, A SPACEX BACKER, IS IN TALKS TO LEAD A $500 MILLION FUNDING ROUND FOR UFORCE.
+- 09/08 00:01 [FirstSquawk] COPPER REACHES RECORD HIGH OF OVER $14,530 PER TON AT LME.
+- 09/08 00:02 [financialjuice] Copper surges to an all-time high above $14,530 a ton on the LME.
+- 09/08 00:17 [DeItaone] HUNTER BIDEN TO LAUNCH $LAPTOP MEME COIN, SOURCES SAY -- WSJ HUNTER BIDEN'S $LAPTOP MEME COIN TO LAUNCH SEPT. 9 ON COINBASE-AFFILIATED BLOCKCHAIN, SOURCES SAY -- WSJ HUNTER BIDEN, FOUNDERS OF $LAPTOP TO HOLD 30% OF 1B TOKENS ISSUED, SOURCES…

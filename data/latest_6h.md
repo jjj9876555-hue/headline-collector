@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 00:00 JST／対象: 09/07 18:00 〜 09/08 00:00 JST（時刻はすべて日本時間）
+生成: 2026-09-08 00:18 JST／対象: 09/07 18:18 〜 09/08 00:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 77 | 09/07 18:00 | 09/07 23:58 | 24分（23:32→23:56） |
-| financialjuice | 25 | 09/07 18:00 | 09/07 23:57 | ⚠ 66分（20:03→21:10） |
+| DeItaone | 1 | 09/08 00:17 | 09/08 00:17 | - |
+| FirstSquawk | 73 | 09/07 18:24 | 09/08 00:01 | 24分（23:32→23:56） |
+| financialjuice | 21 | 09/07 19:10 | 09/08 00:02 | ⚠ 66分（20:03→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 98 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 91 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 18:00 [financialjuice] ‼ BREAKING: EUROZONE GDP QOQ REVISED ACTUAL 0.6% (FORECAST 0.4%, PREVIOUS 0.4%) $MACRO
-- 09/07 18:00 [financialjuice] ❗ EUROZONE GDP YOY REVISED ACTUAL 1.2% (FORECAST 1%, PREVIOUS 1.0%) $MACRO
-- 09/07 18:00 [FirstSquawk] EURO AREA 2Q GDP RISES 0.6% Q/Q; EST. +0.4%
-- 09/07 18:00 [financialjuice] EUROZONE EMPLOYMENT QOQ FINAL ACTUAL 0.1% (FORECAST -, PREVIOUS 0.1%) $MACRO
-- 09/07 18:01 [FirstSquawk] Eurozone GDP SA (QoQ) Q2 T: 0.6% (est 0.4%; prev 0.4%) -GDP SA (YoY) Q2 T: 1.2% (est 1.0%; prev 1.0%) - Employment (Q/Q) Q2 F: 0.1% (prev 0.1%) - Employment (Y/Y) Q2 F: 0.5% (prev 0.5%)
-- 09/07 18:03 [financialjuice] Israel Defense Minister Katz: Warns of all-out war if Palestinian security forces attack.
-- 09/07 18:04 [FirstSquawk] UK FINANCE MINISTER HEALEY: AT THE BUDGET I WILL SET OUT ROADMAP TO FISCAL DEVOLUTION.
-- 09/07 18:10 [FirstSquawk] AUDI IS REVIVING THE UNIQUE A2, HOPING A MODEL DESIGNED FOR EUROPEAN PREFERENCES WILL AID VOLKSWAGEN IN BOOSTING ITS SLUMPING PROFITS.
-- 09/07 18:12 [financialjuice] UK Finance Minister Healey: I will not let opportunity of AI to pass by, but will not allow it to proliferate without oversight.
-- 09/07 18:15 [FirstSquawk] UK CHANCELLOR HEALEY: CONFIRM COMMITMENT TO REDUCE BURDEN OF BUSINESS REGULATION BY 25% BY END OF PARLIAMENT
 - 09/07 18:24 [FirstSquawk] VW INKS DEAL WITH ISRAELI FIRM TO TURN OSNABRUECK FACTORY INTO DEFENSE HUB
 - 09/07 18:27 [FirstSquawk] IRAN TO RAISE PETROL PRICES AS US WAR TRIGGERS SHORTAGES
 - 09/07 18:32 [FirstSquawk] JAGUAR LAND ROVER TO CUT 4,000 JOBS
@@ -122,3 +112,6 @@
 - 09/07 23:56 [financialjuice/FirstSquawk] Iran warns ships face strike risk near Oman's Khasab - Fars
 - 09/07 23:57 [financialjuice] UFORCE Funding $SPCX Defense startup UFORCE is in talks to raise $500M at a $5B valuation. SpaceX backer Valor is in discussions to lead the round.
 - 09/07 23:58 [FirstSquawk] VALOR, A SPACEX BACKER, IS IN TALKS TO LEAD A $500 MILLION FUNDING ROUND FOR UFORCE.
+- 09/08 00:01 [FirstSquawk] COPPER REACHES RECORD HIGH OF OVER $14,530 PER TON AT LME.
+- 09/08 00:02 [financialjuice] Copper surges to an all-time high above $14,530 a ton on the LME.
+- 09/08 00:17 [DeItaone] HUNTER BIDEN TO LAUNCH $LAPTOP MEME COIN, SOURCES SAY -- WSJ HUNTER BIDEN'S $LAPTOP MEME COIN TO LAUNCH SEPT. 9 ON COINBASE-AFFILIATED BLOCKCHAIN, SOURCES SAY -- WSJ HUNTER BIDEN, FOUNDERS OF $LAPTOP TO HOLD 30% OF 1B TOKENS ISSUED, SOURCES…

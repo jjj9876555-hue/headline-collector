@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 00:00 JST／対象: 09/07 00:00 〜 09/08 00:00 JST（時刻はすべて日本時間）
+生成: 2026-09-08 00:18 JST／対象: 09/07 00:18 〜 09/08 00:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 303 | 09/07 00:50 | 09/07 23:58 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 63 | 09/07 07:11 | 09/07 23:57 | ⚠ 158分（11:26→14:05） |
+| DeItaone | 4 | 09/07 01:01 | 09/08 00:17 | ⚠ 1026分（07:10→00:17） |
+| FirstSquawk | 304 | 09/07 00:50 | 09/08 00:01 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 64 | 09/07 07:11 | 09/08 00:02 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 362 行（統合前 372 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 365 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -386,3 +386,6 @@
 - 09/07 23:56 [financialjuice/FirstSquawk] Iran warns ships face strike risk near Oman's Khasab - Fars
 - 09/07 23:57 [financialjuice] UFORCE Funding $SPCX Defense startup UFORCE is in talks to raise $500M at a $5B valuation. SpaceX backer Valor is in discussions to lead the round.
 - 09/07 23:58 [FirstSquawk] VALOR, A SPACEX BACKER, IS IN TALKS TO LEAD A $500 MILLION FUNDING ROUND FOR UFORCE.
+- 09/08 00:01 [FirstSquawk] COPPER REACHES RECORD HIGH OF OVER $14,530 PER TON AT LME.
+- 09/08 00:02 [financialjuice] Copper surges to an all-time high above $14,530 a ton on the LME.
+- 09/08 00:17 [DeItaone] HUNTER BIDEN TO LAUNCH $LAPTOP MEME COIN, SOURCES SAY -- WSJ HUNTER BIDEN'S $LAPTOP MEME COIN TO LAUNCH SEPT. 9 ON COINBASE-AFFILIATED BLOCKCHAIN, SOURCES SAY -- WSJ HUNTER BIDEN, FOUNDERS OF $LAPTOP TO HOLD 30% OF 1B TOKENS ISSUED, SOURCES…
