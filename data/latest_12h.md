@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 12:59 JST／対象: 09/07 00:59 〜 09/07 12:59 JST（時刻はすべて日本時間）
+生成: 2026-09-07 13:18 JST／対象: 09/07 01:18 〜 09/07 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 147 | 09/07 01:06 | 09/07 12:52 | ⚠ 217分（05:27→09:04） |
+| DeItaone | 1 | 09/07 07:10 | 09/07 07:10 | - |
+| FirstSquawk | 136 | 09/07 01:38 | 09/07 13:14 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 19 | 09/07 07:11 | 09/07 11:26 | ⚠ 75分（07:11→08:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 169 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 156 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 01:01 [DeItaone] *GERMAN FAR-RIGHT AFD SET TO WIN STATE VOTE, SHORT OF MAJORITY
-- 09/07 01:03 [DeItaone] U.S. ENVOY WITKOFF SAYS HE FEELS GOOD ABOUT PEACE TALKS IN MOSCOW AND KYIV
-- 09/07 01:06 [FirstSquawk] Yemeni Coast Guard Authority: Seizure of oil tanker after unloading unlicensed cargo at Ras Isa port under Houthi control
-- 09/07 01:06 [FirstSquawk] The right-wing Alternative for Germany party is leading the preliminary results in the Saxony-Anhalt state elections
-- 09/07 01:06 [FirstSquawk] Kushner says the American team looks forward to achieving more progress.
-- 09/07 01:07 [FirstSquawk] Lebanese News Agency: The Israeli army carries out explosion operations in the "Wadi al-Sulouqi" area in the Bent Jbeil district, southern Lebanon.
-- 09/07 01:07 [FirstSquawk] New Israeli airstrikes in the town of "Al-Mansouri" and artillery shelling targeting the town of "Barashit" in southern Lebanon
-- 09/07 01:07 [FirstSquawk] Israeli drone strike targets al-Bayadah neighborhood in Nabatieh city, southern Lebanon
-- 09/07 01:07 [FirstSquawk] Two people killed and others wounded in an Israeli airstrike on the city of Nabatieh in southern Lebanon
-- 09/07 01:07 [FirstSquawk] Israeli Prime Minister: If Iran makes a mistake and attacks us, it will receive a blow it cannot imagine.
-- 09/07 01:08 [FirstSquawk] Lebanese media: The number of those killed due to the Israeli airstrike on the city of Nabatieh in southern Lebanon has risen to 3.
-- 09/07 01:08 [FirstSquawk] Netanyahu: There is still more to be achieved, and I mean first and foremost the overthrow of the regime in Iran.
-- 09/07 01:08 [FirstSquawk] Netanyahu: The regime in Iran is nearing its end, it is weak and struggling to survive, staggering, and there is another mission that must be accomplished, and we are determined to achieve it.
-- 09/07 01:08 [FirstSquawk] Axios on a source familiar with the Kyiv meetings: Kushner and Witkoff, during their meeting with Zelenskyy, emphasized their desire to achieve a breakthrough before the onset of winter.
 - 09/07 01:38 [FirstSquawk] Zelensky: We discussed with the American envoys the security and economic guarantees for Ukraine after the war
 - 09/07 01:38 [FirstSquawk] Zelensky: The land issue is the main sticking point that can only be resolved at the leaders' level
 - 09/07 01:38 [FirstSquawk] Kushner: President Trump wants to create a framework for achieving comprehensive and lasting peace, not just ending the current war in Ukraine
@@ -193,3 +179,4 @@
 - 09/07 12:50 [FirstSquawk] Dollar Expected to Trade in 154.30-157.60 Yen Range This Week - WSJ
 - 09/07 12:52 [FirstSquawk] Macquarie shifts US Fed rate hike call to September 2026 from December
 - 09/07 12:52 [FirstSquawk] Macquarie still anticipates another 25-bps interest rate increase in Q1 2027
+- 09/07 13:14 [FirstSquawk] Moody’s Ratings rates KBank’s proposed Tier 2 subordinated notes

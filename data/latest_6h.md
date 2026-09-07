@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 12:59 JST／対象: 09/07 06:59 〜 09/07 12:59 JST（時刻はすべて日本時間）
+生成: 2026-09-07 13:18 JST／対象: 09/07 07:18 〜 09/07 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/07 07:10 | 09/07 07:10 | - |
-| FirstSquawk | 85 | 09/07 09:04 | 09/07 12:52 | 9分（11:37→11:46） |
-| financialjuice | 19 | 09/07 07:11 | 09/07 11:26 | ⚠ 75分（07:11→08:27） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 86 | 09/07 09:04 | 09/07 13:14 | 21分（12:52→13:14） |
+| financialjuice | 9 | 09/07 08:27 | 09/07 11:26 | ⚠ 46分（10:40→11:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 105 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 95 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 07:10 [DeItaone] IRAN ACCUSES U.S. OF CAUSING HORMUZ DISRUPTION Iranian Foreign Ministry spokesman Esmaeil Baqaei accused the U.S. of starting the conflict and expecting other countries to bear its economic costs. Baqaei said the Strait of Hormuz was open b…
-- 09/07 07:11 [financialjuice] Iran's top security official: restricted area to be declared outside Strait of Hormuz in coming days - state media
-- 09/07 07:11 [financialjuice] Iran’s top security official: zone will start from line of U.S. Navy blockade and extend into Gulf areas - state media
-- 09/07 07:11 [financialjuice] Iran’s top security official: any vessel entering new zone faces sanctions list
-- 09/07 07:11 [financialjuice] Iran's top security official: maps of ship routes in Hormuz agreed with Oman to be signed in coming days - state TV
-- 09/07 07:11 [financialjuice] North Korea’s Kim Jong Un: nuclear armament to make navy’s combat systems practical -KCNA
-- 09/07 07:11 [financialjuice] North Korea's Kim Jong Un: Navy will hold back enemy invading fleet -KCNA
-- 09/07 07:11 [financialjuice] North Korea's Kim Jong Un: new warship shows progress in just 2-3 years - KCNA
-- 09/07 07:11 [financialjuice] North Korea’s Kim Jong Un: N. Korea faces ongoing threats in sea east of Korean Peninsula, nearby waters - KCNA
-- 09/07 07:11 [financialjuice] North Korea's Kim Jong Un: dangerous shadows must be eliminated - KCNA
-- 09/07 07:11 [financialjuice] North Korea’s Kim Jong Un: currently executing key plan to boost naval forces, will demonstrate results in 8 months - KCNA
 - 09/07 08:27 [financialjuice] Average of 10 commodity vessels cross Strait of Hormuz daily, lowest since May, Kpler 10-day moving average says
 - 09/07 08:50 [financialjuice] Japan foreign reserves $1,207.524 billion at end-August, down from $1,287.099 billion at end-July: MOF
 - 09/07 09:04 [FirstSquawk] SOUTH KOREA’S KOSPI CLIMBS 3%
@@ -129,3 +118,4 @@
 - 09/07 12:50 [FirstSquawk] Dollar Expected to Trade in 154.30-157.60 Yen Range This Week - WSJ
 - 09/07 12:52 [FirstSquawk] Macquarie shifts US Fed rate hike call to September 2026 from December
 - 09/07 12:52 [FirstSquawk] Macquarie still anticipates another 25-bps interest rate increase in Q1 2027
+- 09/07 13:14 [FirstSquawk] Moody’s Ratings rates KBank’s proposed Tier 2 subordinated notes
