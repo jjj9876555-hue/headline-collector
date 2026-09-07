@@ -7,30 +7,29 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 16:54 JST／対象: 09/06 16:54 〜 09/07 16:54 JST（時刻はすべて日本時間）
+生成: 2026-09-07 17:19 JST／対象: 09/06 17:19 〜 09/07 17:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 284 | 09/06 17:00 | 09/07 16:52 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 29 | 09/06 17:17 | 09/07 16:02 | ⚠ 833分（17:17→07:11） |
+| FirstSquawk | 290 | 09/06 17:38 | 09/07 17:14 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 29 | 09/07 07:11 | 09/07 17:18 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 315 行（統合前 318 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 322 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 17:00 [FirstSquawk] India is installing about 100,000 rooftop solar systems a week. Yet five states account for roughly 70% of the total, testing national energy goals.
-- 09/06 17:17 [financialjuice/FirstSquawk] Russia says it has not excluded trilateral summit with presidents of Russia, U.S. and China - Tass
 - 09/06 17:38 [FirstSquawk] India backs UN equal-area maps resolution and draws firm line on Kashmir and Ladakh depiction
 - 09/06 17:39 [FirstSquawk] In the northwestern Thai city of Chiang Mai, popular with so-called digital nomads who work remotely as they travel the world, a public-private effort is underway to create a "Nomad Friendly District" to help travelers and residents coexist…
 - 09/06 17:39 [FirstSquawk] U.S. Department of State warns Americans against traveling to Libya "for any reason," and advises those who travel anyway to prepare a will, leave DNA samples, and make plans for the possibility of kidnapping or death.
 - 09/06 17:39 [FirstSquawk] Germany’s Isar Aerospace successfully launched its Spectrum rocket into orbit from Norway, marking the first commercial orbital launch from continental Europe.
 - 09/06 17:39 [FirstSquawk] Indonesia's Mont Semeru ERUPTS, ASH RISING 1,000 METERS over summit — Antara
+- 09/06 17:40 [FirstSquawk] Russia says it has not excluded trilateral summit with presidents of Russia, U.S. and China - Tass
 - 09/06 17:40 [FirstSquawk] Acting US Treasury sanctions chief Gene Lange joined envoys Witkoff and Kushner in Moscow, Axios reported. The delegation discussed peace proposals ahead of meetings in Kyiv.
 - 09/06 17:40 [FirstSquawk] Kremlin Calls Putin's Talks With US Envoys Useful but Offers No Sign of Breakthrough Kremlin described Putin’s three-hour meeting with Witkoff and Kushner as “highly useful,” but offered no evidence that they had narrowed the gap over endin…
 - 09/06 18:24 [FirstSquawk] Germany’s Chancellor Merz admits his government has "not done enough" — then shifts part of the blame onto his coalition partner, the SPD: I admit that, given the polling numbers and the election results we have to fear, what we have done s…
@@ -339,3 +338,11 @@
 - 09/07 16:41 [FirstSquawk] UBS GLOBAL WEALTH MANAGEMENT EXPECTS US FED TO DELIVER 25 BP RATE HIKES EACH IN SEPTEMBER AND DECEMBER 2026 VS PRIOR FORECAST OF NO POLICY CHANGE
 - 09/07 16:44 [FirstSquawk] JAPAN'S FOREIGN RESERVES DROP BY A RECORD $80 BILLION IN AUGUST FOLLOWING YEN INTERVENTION
 - 09/07 16:52 [FirstSquawk] IRAN SAYS NEGOTIATIONS WITH OMAN ON HORMUZ REACHED FINAL STAGES
+- 09/07 16:54 [FirstSquawk] IRAN: TO REACH ACCORD ON TEMPORARY HORMUZ ROUTE IN COMING DAYS
+- 09/07 16:56 [FirstSquawk] IRAN'S BAGHAEI SAYS QATARI DELEGATION WAS IN IRAN ON SUNDAY TO HELP DE-ESCALATE TENSIONS
+- 09/07 17:01 [FirstSquawk] GOOGLE, CATHAY USE AI TO TACKLE AVIATION’S TOP CLIMATE HEADACHE
+- 09/07 17:02 [FirstSquawk] CHINA END-AUG. GOLD RESERVES $350.08B
+- 09/07 17:08 [FirstSquawk] USD/JPY NOW DOWN 0.5%, AFTER DROPPING 0.6% TO NEW DAY LOW
+- 09/07 17:09 [FirstSquawk] YEN CLIMBS TO HIGHEST LEVEL SINCE MAY, EXCEEDING INTERVENTION BOOST.
+- 09/07 17:14 [FirstSquawk] HUAWEI UNVEILS FIRST TRIPLE-FOLD PHONE WITH 'US-FREE' CORE CHIPS
+- 09/07 17:18 [financialjuice] Iran's Baghaei: Peru breaking off diplomatic relations with Tehran is non-consequential as ties were non-existent.

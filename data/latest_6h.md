@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 16:54 JST／対象: 09/07 10:54 〜 09/07 16:54 JST（時刻はすべて日本時間）
+生成: 2026-09-07 17:19 JST／対象: 09/07 11:19 〜 09/07 17:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 95 | 09/07 10:55 | 09/07 16:52 | 27分（14:04→14:31） |
-| financialjuice | 10 | 09/07 11:26 | 09/07 16:02 | ⚠ 158分（11:26→14:05） |
+| FirstSquawk | 95 | 09/07 11:20 | 09/07 17:14 | 27分（14:04→14:31） |
+| financialjuice | 11 | 09/07 11:26 | 09/07 17:18 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 105 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 106 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 10:55 [FirstSquawk] Australia ANZ-Indeed Job Advertisements (M/M) Aug: 2.5% (prev 0.8%)
-- 09/07 11:01 [FirstSquawk] Most-active coking coal contract in China slides more than 3%
-- 09/07 11:02 [FirstSquawk] China’s most-active coking coal contract drops 3.7% to 1,608 yuan per metric ton, lowest since Aug. 28
-- 09/07 11:03 [FirstSquawk] Indonesia’s main Jakarta airport to remain closed until 6 p.m. local time Monday
-- 09/07 11:08 [FirstSquawk] S. Korea exports to India jump over 30 pct in Jan.-Aug. on chip demand - yonhap
-- 09/07 11:12 [FirstSquawk] Yemen’s armed forces say 13 air strikes were carried out against Houthi positions
-- 09/07 11:16 [FirstSquawk] Goldman boosts Asia ex-Japan index target for one big reason - CNBC
 - 09/07 11:20 [FirstSquawk] Chevron makes $7 billion Venezuela oil gamble amid low costs and political risks
 - 09/07 11:26 [financialjuice] South Korea pension fund pauses foreign exchange hedging: market source says
 - 09/07 11:26 [FirstSquawk] South Korea’s pension fund halts foreign exchange hedging, market RTRS say
@@ -129,3 +122,11 @@
 - 09/07 16:41 [FirstSquawk] UBS GLOBAL WEALTH MANAGEMENT EXPECTS US FED TO DELIVER 25 BP RATE HIKES EACH IN SEPTEMBER AND DECEMBER 2026 VS PRIOR FORECAST OF NO POLICY CHANGE
 - 09/07 16:44 [FirstSquawk] JAPAN'S FOREIGN RESERVES DROP BY A RECORD $80 BILLION IN AUGUST FOLLOWING YEN INTERVENTION
 - 09/07 16:52 [FirstSquawk] IRAN SAYS NEGOTIATIONS WITH OMAN ON HORMUZ REACHED FINAL STAGES
+- 09/07 16:54 [FirstSquawk] IRAN: TO REACH ACCORD ON TEMPORARY HORMUZ ROUTE IN COMING DAYS
+- 09/07 16:56 [FirstSquawk] IRAN'S BAGHAEI SAYS QATARI DELEGATION WAS IN IRAN ON SUNDAY TO HELP DE-ESCALATE TENSIONS
+- 09/07 17:01 [FirstSquawk] GOOGLE, CATHAY USE AI TO TACKLE AVIATION’S TOP CLIMATE HEADACHE
+- 09/07 17:02 [FirstSquawk] CHINA END-AUG. GOLD RESERVES $350.08B
+- 09/07 17:08 [FirstSquawk] USD/JPY NOW DOWN 0.5%, AFTER DROPPING 0.6% TO NEW DAY LOW
+- 09/07 17:09 [FirstSquawk] YEN CLIMBS TO HIGHEST LEVEL SINCE MAY, EXCEEDING INTERVENTION BOOST.
+- 09/07 17:14 [FirstSquawk] HUAWEI UNVEILS FIRST TRIPLE-FOLD PHONE WITH 'US-FREE' CORE CHIPS
+- 09/07 17:18 [financialjuice] Iran's Baghaei: Peru breaking off diplomatic relations with Tehran is non-consequential as ties were non-existent.
