@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 02:45 JST／対象: 09/07 02:45 〜 09/08 02:45 JST（時刻はすべて日本時間）
+生成: 2026-09-08 02:58 JST／対象: 09/07 02:58 〜 09/08 02:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/07 07:10 | 09/08 02:44 | ⚠ 1026分（07:10→00:17） |
-| FirstSquawk | 282 | 09/07 03:10 | 09/08 02:00 | ⚠ 217分（05:27→09:04） |
+| DeItaone | 6 | 09/07 07:10 | 09/08 02:46 | ⚠ 1026分（07:10→00:17） |
+| FirstSquawk | 285 | 09/07 03:10 | 09/08 02:53 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 71 | 09/07 07:11 | 09/08 02:41 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 351 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 355 行（統合前 365 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -375,3 +375,7 @@
 - 09/08 02:41 [financialjuice] Trump on Canada: If they want our market, they must build here.
 - 09/08 02:41 [financialjuice] Brent crude futures settle at $97.31/bbl, up $1.03, 1.1%
 - 09/08 02:44 [DeItaone] TRUMP: NO MORE SELLING BOMBARDIER IN UNITED STATES
+- 09/08 02:46 [DeItaone] TRUMP CALLS FOR BAN ON BOMBARDIER SALES IN US President Trump called for Bombardier sales in the US to stop, accusing Canada of unfairly restricting American companies, including Gulfstream Aerospace. He argued that Bombardier depends heavi…
+- 09/08 02:51 [FirstSquawk] TRUMP SAYS 'NO MORE SELLING BOMBARDIER IN THE UNITED STATES', CLAIMING 'THEIR PRODUCTS AREN'T GOOD ENOUGH' AND THAT OVER 50% OF THE COMPANY'S REVENUE COMES FROM THE U.S., ACCUSING IT OF LIVING OFF 'AMERICAN BUYERS, AMERICAN COMPANIES, AMERI…
+- 09/08 02:51 [FirstSquawk] TRUMP SAYS 'THAT ERA IS OVER', DEMANDING THAT IF BOMBARDIER WANTS THE U.S. MARKET 'THEY MUST BUILD HERE, AND STOP TREATING AMERICA LIKE A PIGGYBANK', ADDING 'BUY AMERICAN. FLY ON AMERICAN AIRLINERS. ENJOY AMERICAN LIQUOR AND BEVERAGES. SAIL…
+- 09/08 02:53 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $97.31/BBL, UP $1.03, OR 1.1%
