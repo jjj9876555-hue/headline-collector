@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 02:58 JST／対象: 09/07 14:58 〜 09/08 02:58 JST（時刻はすべて日本時間）
+生成: 2026-09-08 03:20 JST／対象: 09/07 15:20 〜 09/08 03:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/08 00:17 | 09/08 02:46 | ⚠ 112分（00:36→02:28） |
-| FirstSquawk | 154 | 09/07 15:02 | 09/08 02:53 | ⚠ 50分（02:00→02:51） |
-| financialjuice | 50 | 09/07 15:00 | 09/08 02:41 | ⚠ 76分（16:02→17:18） |
+| DeItaone | 8 | 09/08 00:17 | 09/08 03:07 | ⚠ 112分（00:36→02:28） |
+| FirstSquawk | 140 | 09/07 15:23 | 09/08 03:15 | ⚠ 50分（02:00→02:51） |
+| financialjuice | 47 | 09/07 15:22 | 09/08 02:41 | ⚠ 76分（16:02→17:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 202 行（統合前 210 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 188 行（統合前 196 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION MOM ACTUAL -1.1% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
-- 09/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION YOY SA ACTUAL -1.6% (FORECAST 0%, PREVIOUS 0.00%) $MACRO
-- 09/07 15:02 [FirstSquawk] NORWAY (JUL) IND PROD MANUFACTURING WDA YOY ACTUAL: 1.5% VS 0.7% PREVIOUS
-- 09/07 15:02 [FirstSquawk] NORWAY (JUL) IND PROD MANUFACTURING MOM ACTUAL: 0.7% VS -1.0% PREVIOUS
-- 09/07 15:02 [FirstSquawk] NORWAY (JUL) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: -1.8% VS 9.1% PREVIOUS
-- 09/07 15:02 [FirstSquawk] NORWAY (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: -7.1% VS 7.6% PREVIOUS
-- 09/07 15:02 [FirstSquawk] GERMANY (JUL) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: -1.6% VS -0.1% PREVIOUS;EST 0.0%
-- 09/07 15:02 [FirstSquawk] GERMANY (JUL) INDUSTRIAL PRODUCTION SA MOM ACTUAL: -1.1% VS 0.2% PREVIOUS;EST 0.2%
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) BUDGET BALANCE ACTUAL: VS -9.2B PREVIOUS
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY YOY ACTUAL: 0.5% VS 0.6% PREVIOUS;EST 0.7%
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY MOM ACTUAL: -0.6% VS 0.4% PREVIOUS;EST -0.3%
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF YOY ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.9%
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF MOM ACTUAL: -0.3% VS -0.3% PREVIOUS;EST -0.1%
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPI YOY ACTUAL: 0.3% VS 0.2% PREVIOUS;EST 0.5%
-- 09/07 15:10 [financialjuice] UK house prices fell 0.4% on year, fell 0.1% on quarter and fell 0.2% on month in August - Lloyds.
-- 09/07 15:10 [FirstSquawk] NOVARTIS: PELACARSEN HEART DISEASE DRUG MISSED PRIMARY ENDPOINT - WSJ
-- 09/07 15:14 [FirstSquawk] UAE Investment Ministry partners with Sunstone Development to establish anode production facility
-- 09/07 15:14 [FirstSquawk] UAE Investment Ministry will support Sunstone’s setup and licensing in the UAE as part of MOU
-- 09/07 15:16 [FirstSquawk] UAE Ministry of Investment says anode facility will lower import reliance and enhance competitiveness across aluminium sector
-- 09/07 15:17 [FirstSquawk] UAE Ministry of Investment and Sunstone will form ministry-chaired working group to oversee delivery
 - 09/07 15:22 [financialjuice] Fitch Ratings: Japan corporate credit performance turns more uneven.
 - 09/07 15:23 [FirstSquawk] Goldman Sachs lowers Colonial rating to sell from neutral and target price to EUR 4.60 from EUR 5.45
 - 09/07 15:23 [FirstSquawk] Australia’s benchmark S&P/ASX 200 rises 0.1% to 9,010.90 at close
@@ -226,3 +206,9 @@
 - 09/08 02:51 [FirstSquawk] TRUMP SAYS 'NO MORE SELLING BOMBARDIER IN THE UNITED STATES', CLAIMING 'THEIR PRODUCTS AREN'T GOOD ENOUGH' AND THAT OVER 50% OF THE COMPANY'S REVENUE COMES FROM THE U.S., ACCUSING IT OF LIVING OFF 'AMERICAN BUYERS, AMERICAN COMPANIES, AMERI…
 - 09/08 02:51 [FirstSquawk] TRUMP SAYS 'THAT ERA IS OVER', DEMANDING THAT IF BOMBARDIER WANTS THE U.S. MARKET 'THEY MUST BUILD HERE, AND STOP TREATING AMERICA LIKE A PIGGYBANK', ADDING 'BUY AMERICAN. FLY ON AMERICAN AIRLINERS. ENJOY AMERICAN LIQUOR AND BEVERAGES. SAIL…
 - 09/08 02:53 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $97.31/BBL, UP $1.03, OR 1.1%
+- 09/08 02:59 [FirstSquawk] IAEA SAYS THE ZAPORIZHZHYA NUCLEAR POWER PLANT WAS RE-CONNECTED TO THE ELECTRICAL GRID TODAY FOLLOWING SUCCESSFUL POWER LINE REPAIRS
+- 09/08 03:01 [DeItaone] TRUMP WANTS TO RENAME NEW MEXICO “NEW AMERICA” President Trump has called for New Mexico to be renamed “New America,” sharing several altered maps on social media. New Mexico Governor Michelle Lujan Grisham rejected the idea, saying the sta…
+- 09/08 03:05 [DeItaone] FED RATE HIKE ODDS CLIMB AS TRUMP TURNS UP PRESSURE Markets are leaning toward a 25bps Fed rate hike in September, with Kalshi pricing the probability at 52%, versus 48% for no change. The shift comes as President Trump ramps up pressure on…
+- 09/08 03:07 [DeItaone] OPENAI’S TOP SCIENTIST WARNS AI MAY BE MOVING TOO FAST OpenAI chief scientist Jakub Pachocki is calling for “extreme caution” as AI capabilities rapidly advance. He warns that models could soon improve themselves without human intervention,…
+- 09/08 03:15 [FirstSquawk] COPPER HITS A RECORD $14,533/TON ON THE LME AS TARIFF FEARS AND SUPPLY CONSTRAINTS DRIVE A POWERFUL RALLY.
+- 09/08 03:15 [FirstSquawk] COPPER IS UP 17% THIS YEAR AND 47% OVER 12 MONTHS, WITH US STOCKPILING AIDING THE RALLY AS AGING MINES STRUGGLE TO KEEP PACE WITH AI DATA CENTERS, POWER GRIDS AND RENEWABLE-ENERGY DEMAND.
