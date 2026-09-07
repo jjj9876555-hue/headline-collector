@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 20:04 JST／対象: 09/07 08:04 〜 09/07 20:04 JST（時刻はすべて日本時間）
+生成: 2026-09-07 20:25 JST／対象: 09/07 08:25 〜 09/07 20:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 190 | 09/07 09:04 | 09/07 20:03 | 27分（14:04→14:31） |
+| FirstSquawk | 192 | 09/07 09:04 | 09/07 20:18 | 27分（14:04→14:31） |
 | financialjuice | 39 | 09/07 08:27 | 09/07 20:03 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 223 行（統合前 232 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 225 行（統合前 234 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -247,3 +247,5 @@
 - 09/07 19:58 [financialjuice] Saudi Aramco facility hit in new strikes - FT
 - 09/07 20:02 [financialjuice/FirstSquawk] Panama Canal warns of possible transit cuts in further blow to shipping - FT.
 - 09/07 20:03 [FirstSquawk/financialjuice] NUMBER OF DAILY TRANSITS THROUGH THE PANAMA CANAL COULD FALL AS LOW AS 27, DOWN FROM 32 - FT
+- 09/07 20:15 [FirstSquawk] CHINA’S PREMIER MEETS QATAR’S PM IN BEIJING - CCTV
+- 09/07 20:18 [FirstSquawk] UKRAINE MOVES TO TAKE CONTROL OF BOTTLED-WATER GIANT IDS UKRAINE OVER ITS LINKS TO SANCTIONED RUSSIAN OLIGARCH FRIDMAN.
