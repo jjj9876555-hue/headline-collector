@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 19:17 JST／対象: 09/07 07:17 〜 09/07 19:17 JST（時刻はすべて日本時間）
+生成: 2026-09-07 19:33 JST／対象: 09/07 07:33 〜 09/07 19:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 180 | 09/07 09:04 | 09/07 19:02 | 27分（14:04→14:31） |
+| FirstSquawk | 182 | 09/07 09:04 | 09/07 19:26 | 27分（14:04→14:31） |
 | financialjuice | 34 | 09/07 08:27 | 09/07 19:10 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 211 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 213 行（統合前 218 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -235,3 +235,5 @@
 - 09/07 19:01 [FirstSquawk] NOVO: 40.4% OF CHILDREN ACHIEVED BMI BELOW OBESITY THRESHOLD
 - 09/07 19:02 [FirstSquawk] STOXX EUROPE 600 INDEX ERASES LOSS, TRADES FLAT
 - 09/07 19:10 [financialjuice] Kremlin on Ukraine trilateral talks: We have not yet received information about contacts in Kyiv.
+- 09/07 19:18 [FirstSquawk] KREMLIN DOES NOT RULE OUT RUSSIA - USA - UKRAINE TALKS RESUMPTION, TOO EARLY TO SPEAK ABOUT TIME AND VENUE
+- 09/07 19:26 [FirstSquawk] GERMAN AFD LEADER ALICE WEIDEL: NO CHANCELLOR BEFORE HIM HAS BEEN AS UNPOPULAR AS FRIEDRICH MERZ, WHO HAS BECOME A MAJOR BURDEN ON GERMANY’S POSITIVE DEVELOPMENT.
