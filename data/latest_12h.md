@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 07:19 JST／対象: 09/07 19:19 〜 09/08 07:19 JST（時刻はすべて日本時間）
+生成: 2026-09-08 07:32 JST／対象: 09/07 19:32 〜 09/08 07:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 86 | 09/07 19:26 | 09/08 05:58 | ⚠ 61分（04:56→05:57） |
+| FirstSquawk | 85 | 09/07 19:35 | 09/08 05:58 | ⚠ 61分（04:56→05:57） |
 | financialjuice | 30 | 09/07 19:54 | 09/08 04:54 | ⚠ 100分（02:41→04:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 121 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 120 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 19:26 [FirstSquawk] GERMAN AFD LEADER ALICE WEIDEL: NO CHANCELLOR BEFORE HIM HAS BEEN AS UNPOPULAR AS FRIEDRICH MERZ, WHO HAS BECOME A MAJOR BURDEN ON GERMANY’S POSITIVE DEVELOPMENT.
 - 09/07 19:35 [FirstSquawk] GERMANY’S CHANCELLOR MERZ: WE CANNOT SIMPLY CARRY ON AS USUAL — NEITHER CAN I, NOR CAN THE FEDERAL GOVERNMENT. WE HAVE FAILED TO ESTABLISH AN EMOTIONAL CONNECTION WITH THE PEOPLE.
 - 09/07 19:35 [FirstSquawk] CABINET RESHUFFLE AND LDP EXECUTIVE APPOINTMENTS TO BEGIN ON THE 16TH - KYODO
 - 09/07 19:38 [FirstSquawk] OMAN SAYS IT EVACUATED 16 CREW MEMBERS OF SAUDI SIDR VESSEL THAT WAS PREVIOUSLY ATTACKED BY IRAN - STATEMENT
