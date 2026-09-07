@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 10:47 JST／対象: 09/06 22:47 〜 09/07 10:47 JST（時刻はすべて日本時間）
+生成: 2026-09-07 10:59 JST／対象: 09/06 22:59 〜 09/07 10:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 123 | 09/06 23:17 | 09/07 10:43 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 128 | 09/06 23:17 | 09/07 10:55 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 18 | 09/07 07:11 | 09/07 10:40 | ⚠ 75分（07:11→08:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 144 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 149 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -168,3 +168,8 @@
 - 09/07 10:40 [financialjuice] S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.040% yield
 - 09/07 10:40 [FirstSquawk] South Korea central bank auctions 91-day monetary stabilisation bonds at 3.040% yield
 - 09/07 10:43 [FirstSquawk] Americans Without College Degrees Are Having One of the Best Job Markets in Years - WSJ
+- 09/07 10:48 [FirstSquawk] New Zealand Dollar edges lower as Fed rate hike bets and Iran tensions underpin USD - FX
+- 09/07 10:50 [FirstSquawk] Americans overwhelmingly oppose AI data centers in their local area, Political poll shows
+- 09/07 10:50 [FirstSquawk] Top EU diplomat Kaja Kallas has been forced to cancel the launch of a high-level group made up of former political and military leaders following pressure from EU member countries, in what could prove another blow to the former Estonian pri…
+- 09/07 10:54 [FirstSquawk] Tourist complaints in S. Korea hit record high amid travel boom - KYODO
+- 09/07 10:55 [FirstSquawk] Australia ANZ-Indeed Job Advertisements (M/M) Aug: 2.5% (prev 0.8%)

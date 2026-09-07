@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 10:47 JST／対象: 09/06 10:47 〜 09/07 10:47 JST（時刻はすべて日本時間）
+生成: 2026-09-07 10:59 JST／対象: 09/06 10:59 〜 09/07 10:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 290 | 09/06 10:47 | 09/07 10:43 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 287 | 09/06 11:00 | 09/07 10:55 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 24 | 09/06 12:09 | 09/07 10:40 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 314 行（統合前 317 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 311 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 10:47 [FirstSquawk] Putin meets US envoys for 3 hours, says situation in Ukraine is 'difficult' - NA
-- 09/06 10:48 [FirstSquawk] Rasmussen Reports: Trump’s approval rating stands at 44%, while 55% disapprove.
-- 09/06 10:49 [FirstSquawk] China urges EV makers to avoid overseas price wars as BYD and Geely see exports surge - NA
-- 09/06 10:50 [FirstSquawk] U.S. DHS and the Trump administration are reportedly tightening policies aimed at preventing foreign nationals from entering the U.S. late in pregnancy for “birth tourism.”
-- 09/06 10:51 [FirstSquawk] OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - RTRS
-- 09/06 10:51 [FirstSquawk] Women drove nearly all U.S. employment growth in August, gaining about 158,000 jobs compared with 4,000 for men.
-- 09/06 10:57 [FirstSquawk] Trump officials are drafting a plan that could use federal child care funds to pay parents who stay home with their children, NYT reports.
-- 09/06 10:59 [FirstSquawk] Searches for “can’t afford home” on Google soar to a record high, exceeding the peak reached during the Global Financial Crisis.
 - 09/06 11:00 [FirstSquawk] Strong job growth is expected as the population ages and chronic conditions, including heart disease, cancer, and diabetes, become more prevalent - fortune
 - 09/06 11:06 [FirstSquawk] China’s crude oil imports fell sharply after the U.S. and Israel launched the war on Feb. 28, with higher prices weighing on demand. Through June, imports were still down more than 40% year over year.
 - 09/06 11:10 [FirstSquawk] White House official: US, Russian officials held substantive discussions on next phase of Ukraine war negotiations
@@ -338,3 +330,8 @@
 - 09/07 10:40 [financialjuice] S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.040% yield
 - 09/07 10:40 [FirstSquawk] South Korea central bank auctions 91-day monetary stabilisation bonds at 3.040% yield
 - 09/07 10:43 [FirstSquawk] Americans Without College Degrees Are Having One of the Best Job Markets in Years - WSJ
+- 09/07 10:48 [FirstSquawk] New Zealand Dollar edges lower as Fed rate hike bets and Iran tensions underpin USD - FX
+- 09/07 10:50 [FirstSquawk] Americans overwhelmingly oppose AI data centers in their local area, Political poll shows
+- 09/07 10:50 [FirstSquawk] Top EU diplomat Kaja Kallas has been forced to cancel the launch of a high-level group made up of former political and military leaders following pressure from EU member countries, in what could prove another blow to the former Estonian pri…
+- 09/07 10:54 [FirstSquawk] Tourist complaints in S. Korea hit record high amid travel boom - KYODO
+- 09/07 10:55 [FirstSquawk] Australia ANZ-Indeed Job Advertisements (M/M) Aug: 2.5% (prev 0.8%)
