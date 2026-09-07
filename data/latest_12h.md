@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 10:33 JST／対象: 09/06 22:33 〜 09/07 10:33 JST（時刻はすべて日本時間）
+生成: 2026-09-07 10:47 JST／対象: 09/06 22:47 〜 09/07 10:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 117 | 09/06 23:17 | 09/07 10:30 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 17 | 09/07 07:11 | 09/07 10:22 | ⚠ 75分（07:11→08:27） |
+| FirstSquawk | 123 | 09/06 23:17 | 09/07 10:43 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 18 | 09/07 07:11 | 09/07 10:40 | ⚠ 75分（07:11→08:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 137 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 144 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -161,3 +161,10 @@
 - 09/07 10:22 [FirstSquawk] China’s central bank conducts 500 million yuan of 7-day reverse repo operations
 - 09/07 10:26 [FirstSquawk] Thai PM Anutin, 1 year on, prioritizes Chinese capital to buoy growth - NA
 - 09/07 10:30 [FirstSquawk] S. Korea, U.S., Japan kick off 3-way military exercise - YONHAP
+- 09/07 10:33 [FirstSquawk] Seoul stocks surge at the open as tech shares gain despite Middle East tensions
+- 09/07 10:36 [FirstSquawk] Tesla, SpaceX shares slide as robotaxi launch fails to impress investors
+- 09/07 10:36 [FirstSquawk] Benchmark rubber futures in Shanghai jump 3.04% to 19,340 yuan per metric ton
+- 09/07 10:39 [FirstSquawk] Gold Falls on Rising Fed Rate Hike Expectations - WSJ
+- 09/07 10:40 [financialjuice] S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.040% yield
+- 09/07 10:40 [FirstSquawk] South Korea central bank auctions 91-day monetary stabilisation bonds at 3.040% yield
+- 09/07 10:43 [FirstSquawk] Americans Without College Degrees Are Having One of the Best Job Markets in Years - WSJ

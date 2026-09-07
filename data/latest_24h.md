@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 10:33 JST／対象: 09/06 10:33 〜 09/07 10:33 JST（時刻はすべて日本時間）
+生成: 2026-09-07 10:47 JST／対象: 09/06 10:47 〜 09/07 10:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 287 | 09/06 10:45 | 09/07 10:30 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 23 | 09/06 12:09 | 09/07 10:22 | ⚠ 833分（17:17→07:11） |
+| FirstSquawk | 290 | 09/06 10:47 | 09/07 10:43 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 24 | 09/06 12:09 | 09/07 10:40 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 310 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 314 行（統合前 317 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 10:45 [FirstSquawk] Mail investigation: 62,000 arrests in the UK raise concerns over a “chilling” crackdown on free speech.
-- 09/06 10:45 [FirstSquawk] Russian fund executive linked to pro-Kremlin circles killed in occupied Crimea.
-- 09/06 10:46 [FirstSquawk] Greek PM Mitsotakis: Lesbos once faced an influx of 330,000 migrants and refugees; today, there are just over 300, with Turkish visitors helping support the local economy - Clash report
 - 09/06 10:47 [FirstSquawk] Putin meets US envoys for 3 hours, says situation in Ukraine is 'difficult' - NA
 - 09/06 10:48 [FirstSquawk] Rasmussen Reports: Trump’s approval rating stands at 44%, while 55% disapprove.
 - 09/06 10:49 [FirstSquawk] China urges EV makers to avoid overseas price wars as BYD and Geely see exports surge - NA
@@ -334,3 +331,10 @@
 - 09/07 10:22 [FirstSquawk] China’s central bank conducts 500 million yuan of 7-day reverse repo operations
 - 09/07 10:26 [FirstSquawk] Thai PM Anutin, 1 year on, prioritizes Chinese capital to buoy growth - NA
 - 09/07 10:30 [FirstSquawk] S. Korea, U.S., Japan kick off 3-way military exercise - YONHAP
+- 09/07 10:33 [FirstSquawk] Seoul stocks surge at the open as tech shares gain despite Middle East tensions
+- 09/07 10:36 [FirstSquawk] Tesla, SpaceX shares slide as robotaxi launch fails to impress investors
+- 09/07 10:36 [FirstSquawk] Benchmark rubber futures in Shanghai jump 3.04% to 19,340 yuan per metric ton
+- 09/07 10:39 [FirstSquawk] Gold Falls on Rising Fed Rate Hike Expectations - WSJ
+- 09/07 10:40 [financialjuice] S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.040% yield
+- 09/07 10:40 [FirstSquawk] South Korea central bank auctions 91-day monetary stabilisation bonds at 3.040% yield
+- 09/07 10:43 [FirstSquawk] Americans Without College Degrees Are Having One of the Best Job Markets in Years - WSJ
