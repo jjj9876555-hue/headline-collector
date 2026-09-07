@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 11:51 JST／対象: 09/06 11:51 〜 09/07 11:51 JST（時刻はすべて日本時間）
+生成: 2026-09-07 12:04 JST／対象: 09/06 12:04 〜 09/07 12:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 268 | 09/06 11:51 | 09/07 11:46 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 266 | 09/06 12:04 | 09/07 11:58 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 25 | 09/06 12:09 | 09/07 11:26 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 293 行（統合前 296 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 291 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 11:51 [FirstSquawk] Putin to Witkoff and Kushner: Such contacts are always helpful
-- 09/06 11:52 [FirstSquawk] Putin says it is convenient for Russia to work with Witkoff and Kushner
-- 09/06 11:57 [FirstSquawk] China is boosting weather support for Nepal following last week’s mudslides, supplying satellite data and meteorological services to aid cross-border disaster monitoring.
-- 09/06 11:59 [FirstSquawk] Americans are vibe-coding trading algorithms and handing over their stock portfolios to AI agents. Welcome to the world of the robot retail investor - WSJ
 - 09/06 12:04 [FirstSquawk] Greece to deliver €2.2 billion in tax cuts and wage hikes in 2027, prime minister says
 - 09/06 12:05 [FirstSquawk] Hunter Biden suggests he could enter 2028 U.S. presidential race
 - 09/06 12:07 [FirstSquawk] GLOBAL BILLIONAIRE WEALTH HITS RECORD $15.1 TRILLION AS AI BOOM FUELS FORTUNES
@@ -317,3 +313,5 @@
 - 09/07 11:36 [FirstSquawk] DP leader calls for stronger security capabilities, says 'freeze-first' approach to N.K. nukes possible - YONHAP
 - 09/07 11:37 [FirstSquawk] LG Electronics says no decision has been made on Bear Robotics IPO
 - 09/07 11:46 [FirstSquawk] N.K. hacking group Kimsuky used AI coding agents to create decoys: report - YONHAP
+- 09/07 11:52 [FirstSquawk] Jakarta airports remain closed for 2nd day after volcanic eruptions - NA
+- 09/07 11:58 [FirstSquawk] JPMorgan lifts Sinch price target to SEK 66 from SEK 45

@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 11:51 JST／対象: 09/07 05:51 〜 09/07 11:51 JST（時刻はすべて日本時間）
+生成: 2026-09-07 12:04 JST／対象: 09/07 06:04 〜 09/07 12:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/07 07:10 | 09/07 07:10 | - |
-| FirstSquawk | 69 | 09/07 09:04 | 09/07 11:46 | 9分（11:37→11:46） |
+| FirstSquawk | 71 | 09/07 09:04 | 09/07 11:58 | 9分（11:37→11:46） |
 | financialjuice | 19 | 09/07 07:11 | 09/07 11:26 | ⚠ 75分（07:11→08:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 89 行（統合前 89 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 91 行（統合前 91 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -113,3 +113,5 @@
 - 09/07 11:36 [FirstSquawk] DP leader calls for stronger security capabilities, says 'freeze-first' approach to N.K. nukes possible - YONHAP
 - 09/07 11:37 [FirstSquawk] LG Electronics says no decision has been made on Bear Robotics IPO
 - 09/07 11:46 [FirstSquawk] N.K. hacking group Kimsuky used AI coding agents to create decoys: report - YONHAP
+- 09/07 11:52 [FirstSquawk] Jakarta airports remain closed for 2nd day after volcanic eruptions - NA
+- 09/07 11:58 [FirstSquawk] JPMorgan lifts Sinch price target to SEK 66 from SEK 45
