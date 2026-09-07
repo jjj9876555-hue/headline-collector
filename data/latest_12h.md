@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 11:33 JST／対象: 09/06 23:33 〜 09/07 11:33 JST（時刻はすべて日本時間）
+生成: 2026-09-07 11:51 JST／対象: 09/06 23:51 〜 09/07 11:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 133 | 09/06 23:55 | 09/07 11:31 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 136 | 09/06 23:55 | 09/07 11:46 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 19 | 09/07 07:11 | 09/07 11:26 | ⚠ 75分（07:11→08:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 155 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 158 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -179,3 +179,6 @@
 - 09/07 11:26 [FirstSquawk] South Korea’s pension fund halts foreign exchange hedging, market RTRS say
 - 09/07 11:29 [FirstSquawk] China is facing a serious youth jobs crisis. A record 12.7 million young graduates are looking for work, while AI is increasingly replacing or reducing entry-level jobs. This means graduates are now competing not only with millions of other…
 - 09/07 11:31 [FirstSquawk] South Korea sells 3-year government bonds with yield at 3.875%
+- 09/07 11:36 [FirstSquawk] DP leader calls for stronger security capabilities, says 'freeze-first' approach to N.K. nukes possible - YONHAP
+- 09/07 11:37 [FirstSquawk] LG Electronics says no decision has been made on Bear Robotics IPO
+- 09/07 11:46 [FirstSquawk] N.K. hacking group Kimsuky used AI coding agents to create decoys: report - YONHAP

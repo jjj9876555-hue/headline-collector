@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 11:33 JST／対象: 09/06 11:33 〜 09/07 11:33 JST（時刻はすべて日本時間）
+生成: 2026-09-07 11:51 JST／対象: 09/06 11:51 〜 09/07 11:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 278 | 09/06 11:34 | 09/07 11:31 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 268 | 09/06 11:51 | 09/07 11:46 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 25 | 09/06 12:09 | 09/07 11:26 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 303 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 293 行（統合前 296 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 11:34 [FirstSquawk] Putin's meeting with U.S. envoys Witkoff, Kushner concludes, RIA reports
-- 09/06 11:37 [FirstSquawk] Iran's IRGC Navy issues warning to all vessels in Persian Gulf, near Strait of Hormuz
-- 09/06 11:37 [FirstSquawk] Iran's IRGC Navy says it targeted three vessels taking unauthorized routes through Strait of Hormuz
-- 09/06 11:38 [FirstSquawk] Iran's IRGC Navy says three U.S. vessels were targeted elsewhere; U.S. has not confirmed
-- 09/06 11:38 [FirstSquawk] GOLD LEAVES US VAULTS AS EUROPEAN CENTRAL BANKS RETHINK WHERE TO STORE RESERVES
-- 09/06 11:38 [FirstSquawk] NORWAY MAY CUT U.S. TREASURY HOLDINGS BY $80 BILLION NORGES BANK PROPOSES SHIFTING OUT OF U.S. GOVERNMENT BONDS INTO MORTGAGE-BACKED AND OTHER U.S. DEBT, RAISING FRESH CONCERNS OVER DEMAND FOR TREASURIES.
-- 09/06 11:39 [FirstSquawk] US HOUSING AFFORDABILITY CRISIS DEEPENS: GOOGLE SEARCHES FOR “CAN’T AFFORD A HOME” HIT RECORD HIGH, SURPASSING 2008 GFC LEVELS
-- 09/06 11:39 [FirstSquawk] Iran's IRGC Navy says it targeted three vessels traveling on unauthorized routes in Strait of Hormuz
-- 09/06 11:43 [FirstSquawk] WOMEN ACCOUNTED FOR 98% OF U.S. JOB GAINS IN AUGUST
-- 09/06 11:44 [FirstSquawk] GOLD HAS RISEN NEARLY 75% OF THE TIME WHEN THE U.S. DOLLAR FELL, HISTORICAL DATA SHOWS THE GOLD-DOLLAR RELATIONSHIP HAS TYPICALLY BEEN INVERSE, WITH DOLLAR WEAKNESS PROVIDING A TAILWIND FOR GOLD.
-- 09/06 11:45 [FirstSquawk] Authorities say Ukrainian drone strike on Belgorod region leaves one person dead
-- 09/06 11:45 [FirstSquawk] U.S. 401(K) MILLIONAIRES HIT RECORD 769,000 IN Q2 2026 THE NUMBER OF FIDELITY 401(K) ACCOUNTS WITH $1 MILLION+ JUMPED 19% FROM Q1, HELPED BY A 15% S&P 500 RALLY AND RECORD RETIREMENT SAVINGS RATES.
-- 09/06 11:46 [FirstSquawk] Putin says Moscow will take all necessary steps to protect negotiators
 - 09/06 11:51 [FirstSquawk] Putin to Witkoff and Kushner: Such contacts are always helpful
 - 09/06 11:52 [FirstSquawk] Putin says it is convenient for Russia to work with Witkoff and Kushner
 - 09/06 11:57 [FirstSquawk] China is boosting weather support for Nepal following last week’s mudslides, supplying satellite data and meteorological services to aid cross-border disaster monitoring.
@@ -327,3 +314,6 @@
 - 09/07 11:26 [FirstSquawk] South Korea’s pension fund halts foreign exchange hedging, market RTRS say
 - 09/07 11:29 [FirstSquawk] China is facing a serious youth jobs crisis. A record 12.7 million young graduates are looking for work, while AI is increasingly replacing or reducing entry-level jobs. This means graduates are now competing not only with millions of other…
 - 09/07 11:31 [FirstSquawk] South Korea sells 3-year government bonds with yield at 3.875%
+- 09/07 11:36 [FirstSquawk] DP leader calls for stronger security capabilities, says 'freeze-first' approach to N.K. nukes possible - YONHAP
+- 09/07 11:37 [FirstSquawk] LG Electronics says no decision has been made on Bear Robotics IPO
+- 09/07 11:46 [FirstSquawk] N.K. hacking group Kimsuky used AI coding agents to create decoys: report - YONHAP
