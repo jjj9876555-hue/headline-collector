@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 20:25 JST／対象: 09/06 20:25 〜 09/07 20:25 JST（時刻はすべて日本時間）
+生成: 2026-09-07 20:44 JST／対象: 09/06 20:44 〜 09/07 20:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 275 | 09/06 20:45 | 09/07 20:18 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 283 | 09/06 20:45 | 09/07 20:42 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 49 | 09/07 07:11 | 09/07 20:03 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 321 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 329 行（統合前 338 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -345,3 +345,11 @@
 - 09/07 20:03 [FirstSquawk/financialjuice] NUMBER OF DAILY TRANSITS THROUGH THE PANAMA CANAL COULD FALL AS LOW AS 27, DOWN FROM 32 - FT
 - 09/07 20:15 [FirstSquawk] CHINA’S PREMIER MEETS QATAR’S PM IN BEIJING - CCTV
 - 09/07 20:18 [FirstSquawk] UKRAINE MOVES TO TAKE CONTROL OF BOTTLED-WATER GIANT IDS UKRAINE OVER ITS LINKS TO SANCTIONED RUSSIAN OLIGARCH FRIDMAN.
+- 09/07 20:29 [FirstSquawk] UK PM'S SPOKESMAN, TOM WELLS, BRIEFS REPORTERS IN LONDON
+- 09/07 20:29 [FirstSquawk] UK GOVT REMAINS COMMITTED TO PENSIONS TRIPLE LOCK: WELLS
+- 09/07 20:32 [FirstSquawk] CHILE POSTS TRADE SURPLUS OF $1,688 MILLION IN AUG.
+- 09/07 20:32 [FirstSquawk] CHILE'S IMPORTS FELL TO $7.81 BILLION IN AUG.
+- 09/07 20:33 [FirstSquawk] CHILEAN COPPER EXPORTS FELL TO $4.62 BILLION IN AUG.
+- 09/07 20:38 [FirstSquawk] MERZ: FAR-RIGHT STATE VICTORY WILL AFFECT GERMANY AS A WHOLE
+- 09/07 20:40 [FirstSquawk] UK PM SPOX WELLS: BUSINESS SEC REYNOLDS TO MEET JLR THIS WEEK
+- 09/07 20:42 [FirstSquawk] GERMANY'S MERZ AFTER SAXONY-ANHALT ELECTION: MY DETERMINATION TO DO THESE REFORMS REMAINS UNWAVERING

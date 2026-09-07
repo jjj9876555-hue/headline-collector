@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 20:25 JST／対象: 09/07 14:25 〜 09/07 20:25 JST（時刻はすべて日本時間）
+生成: 2026-09-07 20:44 JST／対象: 09/07 14:44 〜 09/07 20:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 91 | 09/07 14:31 | 09/07 20:18 | 15分（16:01→16:17） |
+| FirstSquawk | 97 | 09/07 14:51 | 09/07 20:42 | 15分（16:01→16:17） |
 | financialjuice | 29 | 09/07 14:54 | 09/07 20:03 | ⚠ 76分（16:02→17:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 114 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 120 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 14:31 [FirstSquawk] OIL RISES AS ESCALATING U.S.-IRAN CONFLICT STOKES SUPPLY DISRUPTION FEARS-WSJ
-- 09/07 14:42 [FirstSquawk] BEIJING TO INJECT BILLIONS INTO BANKS, INSURERS TO BOOST GROWTH-WSJ
 - 09/07 14:51 [FirstSquawk] AI to enhance efficiency across China’s infrastructure sector, with credit benefits emerging gradually, Moody’s says
 - 09/07 14:53 [FirstSquawk] France’s Lescure says interest rates will increase significantly if no budget is agreed
 - 09/07 14:54 [financialjuice] French Finance Minister Lescure: If there is no budget, interest rates will go up markedly.
@@ -138,3 +136,11 @@
 - 09/07 20:03 [FirstSquawk/financialjuice] NUMBER OF DAILY TRANSITS THROUGH THE PANAMA CANAL COULD FALL AS LOW AS 27, DOWN FROM 32 - FT
 - 09/07 20:15 [FirstSquawk] CHINA’S PREMIER MEETS QATAR’S PM IN BEIJING - CCTV
 - 09/07 20:18 [FirstSquawk] UKRAINE MOVES TO TAKE CONTROL OF BOTTLED-WATER GIANT IDS UKRAINE OVER ITS LINKS TO SANCTIONED RUSSIAN OLIGARCH FRIDMAN.
+- 09/07 20:29 [FirstSquawk] UK PM'S SPOKESMAN, TOM WELLS, BRIEFS REPORTERS IN LONDON
+- 09/07 20:29 [FirstSquawk] UK GOVT REMAINS COMMITTED TO PENSIONS TRIPLE LOCK: WELLS
+- 09/07 20:32 [FirstSquawk] CHILE POSTS TRADE SURPLUS OF $1,688 MILLION IN AUG.
+- 09/07 20:32 [FirstSquawk] CHILE'S IMPORTS FELL TO $7.81 BILLION IN AUG.
+- 09/07 20:33 [FirstSquawk] CHILEAN COPPER EXPORTS FELL TO $4.62 BILLION IN AUG.
+- 09/07 20:38 [FirstSquawk] MERZ: FAR-RIGHT STATE VICTORY WILL AFFECT GERMANY AS A WHOLE
+- 09/07 20:40 [FirstSquawk] UK PM SPOX WELLS: BUSINESS SEC REYNOLDS TO MEET JLR THIS WEEK
+- 09/07 20:42 [FirstSquawk] GERMANY'S MERZ AFTER SAXONY-ANHALT ELECTION: MY DETERMINATION TO DO THESE REFORMS REMAINS UNWAVERING
