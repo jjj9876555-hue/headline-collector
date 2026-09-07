@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 21:49 JST／対象: 09/07 09:49 〜 09/07 21:49 JST（時刻はすべて日本時間）
+生成: 2026-09-07 22:01 JST／対象: 09/07 10:01 〜 09/07 22:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 190 | 09/07 09:49 | 09/07 21:48 | 27分（14:04→14:31） |
+| FirstSquawk | 186 | 09/07 10:03 | 09/07 21:48 | 27分（14:04→14:31） |
 | financialjuice | 41 | 09/07 10:02 | 09/07 21:45 | ⚠ 158分（11:26→14:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 225 行（統合前 234 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 221 行（統合前 230 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 09:49 [FirstSquawk] OPEC+ agrees to keep oil output policy unchanged for October - FX
-- 09/07 09:54 [FirstSquawk] JR East to suspend, reduce train services Monday due to heavy rain - KYODO
-- 09/07 10:00 [FirstSquawk] OPEC+ decides to pause oil output increases in October
-- 09/07 10:01 [FirstSquawk] Taiwan overnight interbank rate holds steady at 0.805% at the open
 - 09/07 10:02 [financialjuice] S.Korea’s won climbs 1% against dollar
 - 09/07 10:03 [FirstSquawk] Korean won strengthens 1% against the US dollar
 - 09/07 10:09 [FirstSquawk] Saudi Foreign Minister Prince Faisal bin Farhan and UK Foreign Secretary Ed Miliband called for intensified diplomatic efforts to de-escalate Middle East tensions and protect international waterways during a phone call, according to the Sau…
