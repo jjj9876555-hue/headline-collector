@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 06:02 JST／対象: 09/07 18:02 〜 09/08 06:02 JST（時刻はすべて日本時間）
+生成: 2026-09-08 06:19 JST／対象: 09/07 18:19 〜 09/08 06:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/08 00:17 | 09/08 03:07 | ⚠ 112分（00:36→02:28） |
-| FirstSquawk | 102 | 09/07 18:04 | 09/08 05:58 | ⚠ 61分（04:56→05:57） |
-| financialjuice | 33 | 09/07 18:03 | 09/08 04:54 | ⚠ 100分（02:41→04:22） |
+| FirstSquawk | 99 | 09/07 18:24 | 09/08 05:58 | ⚠ 61分（04:56→05:57） |
+| financialjuice | 31 | 09/07 19:10 | 09/08 04:54 | ⚠ 100分（02:41→04:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 139 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 134 行（統合前 139 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 18:03 [financialjuice] Israel Defense Minister Katz: Warns of all-out war if Palestinian security forces attack.
-- 09/07 18:04 [FirstSquawk] UK FINANCE MINISTER HEALEY: AT THE BUDGET I WILL SET OUT ROADMAP TO FISCAL DEVOLUTION.
-- 09/07 18:10 [FirstSquawk] AUDI IS REVIVING THE UNIQUE A2, HOPING A MODEL DESIGNED FOR EUROPEAN PREFERENCES WILL AID VOLKSWAGEN IN BOOSTING ITS SLUMPING PROFITS.
-- 09/07 18:12 [financialjuice] UK Finance Minister Healey: I will not let opportunity of AI to pass by, but will not allow it to proliferate without oversight.
-- 09/07 18:15 [FirstSquawk] UK CHANCELLOR HEALEY: CONFIRM COMMITMENT TO REDUCE BURDEN OF BUSINESS REGULATION BY 25% BY END OF PARLIAMENT
 - 09/07 18:24 [FirstSquawk] VW INKS DEAL WITH ISRAELI FIRM TO TURN OSNABRUECK FACTORY INTO DEFENSE HUB
 - 09/07 18:27 [FirstSquawk] IRAN TO RAISE PETROL PRICES AS US WAR TRIGGERS SHORTAGES
 - 09/07 18:32 [FirstSquawk] JAGUAR LAND ROVER TO CUT 4,000 JOBS

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 06:02 JST／対象: 09/08 00:02 〜 09/08 06:02 JST（時刻はすべて日本時間）
+生成: 2026-09-08 06:19 JST／対象: 09/08 00:19 〜 09/08 06:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/08 00:17 | 09/08 03:07 | ⚠ 112分（00:36→02:28） |
+| DeItaone | 7 | 09/08 00:36 | 09/08 03:07 | ⚠ 112分（00:36→02:28） |
 | FirstSquawk | 26 | 09/08 00:23 | 09/08 05:58 | ⚠ 61分（04:56→05:57） |
-| financialjuice | 11 | 09/08 00:02 | 09/08 04:54 | ⚠ 100分（02:41→04:22） |
+| financialjuice | 10 | 09/08 00:44 | 09/08 04:54 | ⚠ 100分（02:41→04:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 45 行（統合前 45 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 43 行（統合前 43 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 00:02 [financialjuice] Copper surges to an all-time high above $14,530 a ton on the LME.
-- 09/08 00:17 [DeItaone] HUNTER BIDEN TO LAUNCH $LAPTOP MEME COIN, SOURCES SAY -- WSJ HUNTER BIDEN'S $LAPTOP MEME COIN TO LAUNCH SEPT. 9 ON COINBASE-AFFILIATED BLOCKCHAIN, SOURCES SAY -- WSJ HUNTER BIDEN, FOUNDERS OF $LAPTOP TO HOLD 30% OF 1B TOKENS ISSUED, SOURCES…
 - 09/08 00:23 [FirstSquawk] GERMAN BONDS CONTINUE TO FALL, WITH TWO-YEAR YIELD INCREASING BY 5 BASIS POINTS TO REACH 3%.
 - 09/08 00:33 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.12%; GERMANY'S DAX DOWN 0.25%
 - 09/08 00:33 [FirstSquawk] FRANCE'S CAC 40 UP 0.25%; SPAIN'S IBEX DOWN 0.22%
