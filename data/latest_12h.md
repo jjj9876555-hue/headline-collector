@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-07 10:18 JST／対象: 09/06 22:18 〜 09/07 10:18 JST（時刻はすべて日本時間）
+生成: 2026-09-07 10:33 JST／対象: 09/06 22:33 〜 09/07 10:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 120 | 09/06 22:20 | 09/07 10:17 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 15 | 09/07 07:11 | 09/07 10:02 | ⚠ 75分（07:11→08:27） |
+| FirstSquawk | 117 | 09/06 23:17 | 09/07 10:30 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 17 | 09/07 07:11 | 09/07 10:22 | ⚠ 75分（07:11→08:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 138 行（統合前 138 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 137 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 22:20 [FirstSquawk] Iranian Revolutionary Guard: Arrest of an Armed Cell Linked to the Monarchist Current Consisting of 8 Elements in Fars Province in the South of the Country
-- 09/06 22:20 [FirstSquawk] Iranian Revolutionary Guard: Seizure of a shipment of weapons and ammunition in West Azerbaijan Province, northwest of the country
-- 09/06 22:21 [FirstSquawk] CBS on the spokesperson for the U.S. Central Command: No truth to Iran's claim of targeting a U.S. ship in the Strait of Hormuz
-- 09/06 22:21 [FirstSquawk] Lebanese Parliament Speaker: Israel proves that it has not adhered to any of the ceasefire formulas and is reneging on agreements and understandings
-- 09/06 22:22 [FirstSquawk] Lebanese Parliament Speaker: Israel is bent on turning the South and its people into a ballot box of blood in the race for its upcoming elections
-- 09/06 22:22 [FirstSquawk] U.S. Energy Secretary: The average daily oil transit level through the Strait of Hormuz is 9 million barrels of oil
 - 09/06 23:17 [FirstSquawk] Trump: Canada's dollar disparity with U.S. is unacceptable
 - 09/06 23:22 [FirstSquawk] The first round of negotiations between the Ukrainian President and the American envoys has concluded, with talks set to resume in a second round that will also include European representatives.
 - 09/06 23:25 [FirstSquawk] First round of talks between Ukraine and US negotiators ends: Zelenskiy says
@@ -162,3 +156,8 @@
 - 09/07 10:17 [FirstSquawk] Philippines defence secretary: China energy cooperation remains closely linked to maritime disputes
 - 09/07 10:17 [FirstSquawk] Philippines defence secretary: Washington gives ‘definite assurances’ that its commitments to Manila remain unchanged
 - 09/07 10:17 [FirstSquawk] Philippines defence secretary: China may take advantage of perceived gaps from reduced US-South Korea exercises
+- 09/07 10:19 [financialjuice] China sets yuan midpoint 709 pips weaker than estimate, biggest downside divergence since February 27, 2026
+- 09/07 10:22 [financialjuice] China cbank pumps 500 mln yuan via 7-day reverse repos: statement
+- 09/07 10:22 [FirstSquawk] China’s central bank conducts 500 million yuan of 7-day reverse repo operations
+- 09/07 10:26 [FirstSquawk] Thai PM Anutin, 1 year on, prioritizes Chinese capital to buoy growth - NA
+- 09/07 10:30 [FirstSquawk] S. Korea, U.S., Japan kick off 3-way military exercise - YONHAP

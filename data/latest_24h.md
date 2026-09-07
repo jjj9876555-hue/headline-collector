@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-07 10:18 JST／対象: 09/06 10:18 〜 09/07 10:18 JST（時刻はすべて日本時間）
+生成: 2026-09-07 10:33 JST／対象: 09/06 10:33 〜 09/07 10:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/07 01:01 | 09/07 07:10 | ⚠ 367分（01:03→07:10） |
-| FirstSquawk | 287 | 09/06 10:30 | 09/07 10:17 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 21 | 09/06 12:09 | 09/07 10:02 | ⚠ 833分（17:17→07:11） |
+| FirstSquawk | 287 | 09/06 10:45 | 09/07 10:30 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 23 | 09/06 12:09 | 09/07 10:22 | ⚠ 833分（17:17→07:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 308 行（統合前 311 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 310 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/06 10:30 [FirstSquawk] Kremlin: Kushner and Witkoff agreed to consider Putin’s assessments of possible ways to resolve the Ukraine conflict.
-- 09/06 10:32 [FirstSquawk] Spire Healthcare agrees £1.03 billion takeover by Toscafund and other - Rtrs
-- 09/06 10:33 [FirstSquawk] Citadel Eyes US Shale As Oil Trading Moves Closer To The Wellhead - zerohedge
 - 09/06 10:45 [FirstSquawk] Mail investigation: 62,000 arrests in the UK raise concerns over a “chilling” crackdown on free speech.
 - 09/06 10:45 [FirstSquawk] Russian fund executive linked to pro-Kremlin circles killed in occupied Crimea.
 - 09/06 10:46 [FirstSquawk] Greek PM Mitsotakis: Lesbos once faced an influx of 330,000 migrants and refugees; today, there are just over 300, with Turkish visitors helping support the local economy - Clash report
@@ -332,3 +329,8 @@
 - 09/07 10:17 [FirstSquawk] Philippines defence secretary: China energy cooperation remains closely linked to maritime disputes
 - 09/07 10:17 [FirstSquawk] Philippines defence secretary: Washington gives ‘definite assurances’ that its commitments to Manila remain unchanged
 - 09/07 10:17 [FirstSquawk] Philippines defence secretary: China may take advantage of perceived gaps from reduced US-South Korea exercises
+- 09/07 10:19 [financialjuice] China sets yuan midpoint 709 pips weaker than estimate, biggest downside divergence since February 27, 2026
+- 09/07 10:22 [financialjuice] China cbank pumps 500 mln yuan via 7-day reverse repos: statement
+- 09/07 10:22 [FirstSquawk] China’s central bank conducts 500 million yuan of 7-day reverse repo operations
+- 09/07 10:26 [FirstSquawk] Thai PM Anutin, 1 year on, prioritizes Chinese capital to buoy growth - NA
+- 09/07 10:30 [FirstSquawk] S. Korea, U.S., Japan kick off 3-way military exercise - YONHAP

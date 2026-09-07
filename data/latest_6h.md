@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 10:18 JST／対象: 09/07 04:18 〜 09/07 10:18 JST（時刻はすべて日本時間）
+生成: 2026-09-07 10:33 JST／対象: 09/07 04:33 〜 09/07 10:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/07 07:10 | 09/07 07:10 | - |
-| FirstSquawk | 63 | 09/07 04:20 | 09/07 10:17 | ⚠ 217分（05:27→09:04） |
-| financialjuice | 15 | 09/07 07:11 | 09/07 10:02 | ⚠ 75分（07:11→08:27） |
+| FirstSquawk | 65 | 09/07 04:39 | 09/07 10:30 | ⚠ 217分（05:27→09:04） |
+| financialjuice | 17 | 09/07 07:11 | 09/07 10:22 | ⚠ 75分（07:11→08:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 79 行（統合前 79 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 83 行（統合前 83 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 04:20 [FirstSquawk] US ENERGY SECRETARY WRIGHT SAYS US NAVY ESCORTS WILL CONTINUE DEFENDING HORMUZ SHIPPING UNTIL IRAN CHANGES COURSE, WITH OIL FLOWS NOW ABOVE 9 MILLION BPD. WRIGHT SAYS THE REGION IS BACK ABOVE TWO-THIRDS OF PRE-WAR ENERGY FLOWS, BUT CONTINUE…
 - 09/07 04:39 [FirstSquawk] THE FAA SAYS 21 AIR FLIGHT 7598 OVERRAN THE RUNWAY AFTER LANDING AT MIAMI INTERNATIONAL AIRPORT AROUND 2 P.M. LOCAL TIME ON SUNDAY, SEPT. 6, AND THAT IT WILL INVESTIGATE THE INCIDENT.
 - 09/07 04:39 [FirstSquawk] THE FAA SAYS THE BOEING 767-300 CARGO AIRCRAFT HAD DEPARTED FROM LUIS MUÑOZ MARÍN INTERNATIONAL AIRPORT IN SAN JUAN, PUERTO RICO.
 - 09/07 05:05 [FirstSquawk] AMAZON CONFIRMS THAT AN AMAZON AIR PLANE OPERATED BY 21 AIR EXPERIENCED AN INCIDENT WHILE ATTEMPTING TO LAND AT MIAMI INTERNATIONAL AIRPORT TODAY
@@ -103,3 +102,8 @@
 - 09/07 10:17 [FirstSquawk] Philippines defence secretary: China energy cooperation remains closely linked to maritime disputes
 - 09/07 10:17 [FirstSquawk] Philippines defence secretary: Washington gives ‘definite assurances’ that its commitments to Manila remain unchanged
 - 09/07 10:17 [FirstSquawk] Philippines defence secretary: China may take advantage of perceived gaps from reduced US-South Korea exercises
+- 09/07 10:19 [financialjuice] China sets yuan midpoint 709 pips weaker than estimate, biggest downside divergence since February 27, 2026
+- 09/07 10:22 [financialjuice] China cbank pumps 500 mln yuan via 7-day reverse repos: statement
+- 09/07 10:22 [FirstSquawk] China’s central bank conducts 500 million yuan of 7-day reverse repo operations
+- 09/07 10:26 [FirstSquawk] Thai PM Anutin, 1 year on, prioritizes Chinese capital to buoy growth - NA
+- 09/07 10:30 [FirstSquawk] S. Korea, U.S., Japan kick off 3-way military exercise - YONHAP
