@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 08:16 JST／対象: 09/07 20:16 〜 09/08 08:16 JST（時刻はすべて日本時間）
+生成: 2026-09-08 08:30 JST／対象: 09/07 20:30 〜 09/08 08:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 76 | 09/07 20:18 | 09/08 05:58 | ⚠ 61分（04:56→05:57） |
-| financialjuice | 41 | 09/07 21:10 | 09/08 08:01 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 73 | 09/07 20:32 | 09/08 05:58 | ⚠ 61分（04:56→05:57） |
+| financialjuice | 47 | 09/07 21:10 | 09/08 08:30 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 125 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 128 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 20:18 [FirstSquawk] UKRAINE MOVES TO TAKE CONTROL OF BOTTLED-WATER GIANT IDS UKRAINE OVER ITS LINKS TO SANCTIONED RUSSIAN OLIGARCH FRIDMAN.
-- 09/07 20:29 [FirstSquawk] UK PM'S SPOKESMAN, TOM WELLS, BRIEFS REPORTERS IN LONDON
-- 09/07 20:29 [FirstSquawk] UK GOVT REMAINS COMMITTED TO PENSIONS TRIPLE LOCK: WELLS
 - 09/07 20:32 [FirstSquawk] CHILE POSTS TRADE SURPLUS OF $1,688 MILLION IN AUG.
 - 09/07 20:32 [FirstSquawk] CHILE'S IMPORTS FELL TO $7.81 BILLION IN AUG.
 - 09/07 20:33 [FirstSquawk] CHILEAN COPPER EXPORTS FELL TO $4.62 BILLION IN AUG.
@@ -149,3 +146,9 @@
 - 09/08 08:01 [financialjuice] British Retail Consortium August total sales rise 0.7% year on year, slowest growth since April after July's 1.3% increase
 - 09/08 08:01 [financialjuice] Barclays uk consumer confidence 26% in august vs 21-month peak of 30% in july
 - 09/08 08:01 [financialjuice] British Retail Consortium August like-for-like sales rise 0.5% yy vs July 1.0% yy
+- 09/08 08:29 [financialjuice] Argentina to file criminal charges against Navitas Oil and executives for operating in Falkland Islands: statement
+- 09/08 08:30 [financialjuice] JAPANESE AVERAGE CASH EARNINGS YOY ACTUAL 4.7% (FORECAST 3.8%, PREVIOUS 3.4%4.0%) $MACRO
+- 09/08 08:30 [financialjuice] JAPANESE OVERTIME PAY ACTUAL 3.1% (FORECAST -, PREVIOUS 2.8% ,REVISION 3.4%) $MACRO
+- 09/08 08:30 [financialjuice] Japan July overtime pay rises 3.1% year-on-year: government
+- 09/08 08:30 [financialjuice] Japan July total cash earnings rise 4.7% year on year: govt
+- 09/08 08:30 [financialjuice] Japan July inflation-adjusted real wages rise 2.4% yr/yr: govt

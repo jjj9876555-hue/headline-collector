@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 08:16 JST／対象: 09/08 02:16 〜 09/08 08:16 JST（時刻はすべて日本時間）
+生成: 2026-09-08 08:30 JST／対象: 09/08 02:30 〜 09/08 08:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/08 02:28 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
+| DeItaone | 6 | 09/08 02:44 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
 | FirstSquawk | 11 | 09/08 02:51 | 09/08 05:58 | ⚠ 61分（04:56→05:57） |
-| financialjuice | 22 | 09/08 02:40 | 09/08 08:01 | ⚠ 170分（04:54→07:45） |
+| financialjuice | 28 | 09/08 02:40 | 09/08 08:30 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 40 行（統合前 40 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 45 行（統合前 45 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 02:28 [DeItaone] IRAN’S OIL REVENUES COLLAPSE AS BLOCKADE TIGHTENS Iran’s oil income is rapidly shrinking as a US naval blockade restricts exports and offshore stockpiles fall. Iranian crude stored outside the Gulf has dropped from 90 million to 29 million …
 - 09/08 02:40 [financialjuice] Trump: No more selling Bombardier in the United States.
 - 09/08 02:41 [financialjuice] Trump on Canada: If they want our market, they must build here.
 - 09/08 02:41 [financialjuice] Brent crude futures settle at $97.31/bbl, up $1.03, 1.1%
@@ -64,3 +63,9 @@
 - 09/08 08:01 [financialjuice] British Retail Consortium August total sales rise 0.7% year on year, slowest growth since April after July's 1.3% increase
 - 09/08 08:01 [financialjuice] Barclays uk consumer confidence 26% in august vs 21-month peak of 30% in july
 - 09/08 08:01 [financialjuice] British Retail Consortium August like-for-like sales rise 0.5% yy vs July 1.0% yy
+- 09/08 08:29 [financialjuice] Argentina to file criminal charges against Navitas Oil and executives for operating in Falkland Islands: statement
+- 09/08 08:30 [financialjuice] JAPANESE AVERAGE CASH EARNINGS YOY ACTUAL 4.7% (FORECAST 3.8%, PREVIOUS 3.4%4.0%) $MACRO
+- 09/08 08:30 [financialjuice] JAPANESE OVERTIME PAY ACTUAL 3.1% (FORECAST -, PREVIOUS 2.8% ,REVISION 3.4%) $MACRO
+- 09/08 08:30 [financialjuice] Japan July overtime pay rises 3.1% year-on-year: government
+- 09/08 08:30 [financialjuice] Japan July total cash earnings rise 4.7% year on year: govt
+- 09/08 08:30 [financialjuice] Japan July inflation-adjusted real wages rise 2.4% yr/yr: govt
