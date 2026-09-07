@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 05:33 JST／対象: 09/07 17:33 〜 09/08 05:33 JST（時刻はすべて日本時間）
+生成: 2026-09-08 05:50 JST／対象: 09/07 17:50 〜 09/08 05:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/08 00:17 | 09/08 03:07 | ⚠ 112分（00:36→02:28） |
-| FirstSquawk | 105 | 09/07 17:46 | 09/08 04:56 | ⚠ 50分（02:00→02:51） |
-| financialjuice | 44 | 09/07 17:34 | 09/08 04:54 | ⚠ 100分（02:41→04:22） |
+| FirstSquawk | 103 | 09/07 17:52 | 09/08 04:56 | ⚠ 50分（02:00→02:51） |
+| financialjuice | 41 | 09/07 17:50 | 09/08 04:54 | ⚠ 100分（02:41→04:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 150 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 146 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 17:34 [financialjuice] Japan seeks Takaichi-Trump talks for late September - Kyodo.
-- 09/07 17:46 [FirstSquawk] US PUSHES DIPLOMATIC PRESSURE ON IRAN TO BE REFERRED TO UN SECURITY COUNCIL DUE TO ITS OBSTRUCTION OF NUCLEAR INSPECTORS.
-- 09/07 17:48 [FirstSquawk/financialjuice] UK FINANCE MINISTER HEALEY: GLOBAL SHOCKS ARE FELT KEENLY IN UK
-- 09/07 17:49 [financialjuice] UK Finance Minister Healey: Our borrowing costs are at a historic high.
 - 09/07 17:50 [financialjuice/FirstSquawk] UK Finance Minister Healey: I will build on Reeves' move to recover fiscal discipline.
 - 09/07 17:51 [financialjuice] UK Finance Minister Healey: Growth is still fragile but fastest in G7 in H1 2026.
 - 09/07 17:51 [financialjuice] UK Finance Minister Healey: Productivity is finally picking up.
