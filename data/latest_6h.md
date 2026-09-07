@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-07 10:59 JST／対象: 09/07 04:59 〜 09/07 10:59 JST（時刻はすべて日本時間）
+生成: 2026-09-07 11:18 JST／対象: 09/07 05:18 〜 09/07 11:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/07 07:10 | 09/07 07:10 | - |
-| FirstSquawk | 74 | 09/07 05:05 | 09/07 10:55 | ⚠ 217分（05:27→09:04） |
+| FirstSquawk | 78 | 09/07 05:19 | 09/07 11:16 | ⚠ 217分（05:27→09:04） |
 | financialjuice | 18 | 09/07 07:11 | 09/07 10:40 | ⚠ 75分（07:11→08:27） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 93 行（統合前 93 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 97 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 05:05 [FirstSquawk] AMAZON CONFIRMS THAT AN AMAZON AIR PLANE OPERATED BY 21 AIR EXPERIENCED AN INCIDENT WHILE ATTEMPTING TO LAND AT MIAMI INTERNATIONAL AIRPORT TODAY
-- 09/07 05:06 [FirstSquawk] AMAZON SAYS IT IS WORKING CLOSELY WITH LOCAL AUTHORITIES AND OFFICIALS TO UNDERSTAND EXACTLY WHAT HAPPENED
 - 09/07 05:19 [FirstSquawk] IRANIAN AUTHORITIES ON SUNDAY ANNOUNCED THEY WERE RAISING PETROL PRICES FOR HEAVIER CONSUMERS AS THE U.S. STEPS UP SANCTIONS, WITH GOVERNMENT SPOKESWOMAN FATEMEH MOHAJERANI SAYING THE THIRD-TIER PRICE WOULD DOUBLE TO 10,000 TOMANS (ABOUT 4.…
 - 09/07 05:19 [FirstSquawk] IRAN, A MAJOR OIL PRODUCER WITH SOME OF THE WORLD'S CHEAPEST FUEL, HAS LONG HEAVILY SUBSIDISED PETROL, MAKING PRICING POLITICALLY SENSITIVE, AS THE RIAL TRADED ON THE BLACK MARKET AT MORE THAN 2.2 MLN TO THE DOLLAR VERSUS AROUND 1.7 MLN BEF…
 - 09/07 05:19 [FirstSquawk] THE MOVE FOLLOWS BESSENT'S PLANS FOR THE 'ECONOMIC ASPHYXIATION' OF IRAN, BUILDING ON SANCTIONS IN PLACE SINCE 2018, AS THE U.S. ALSO BLOCKADES IRAN'S PORTS TO CUT ITS OIL EXPORTS TO ZERO.
@@ -117,3 +115,9 @@
 - 09/07 10:50 [FirstSquawk] Top EU diplomat Kaja Kallas has been forced to cancel the launch of a high-level group made up of former political and military leaders following pressure from EU member countries, in what could prove another blow to the former Estonian pri…
 - 09/07 10:54 [FirstSquawk] Tourist complaints in S. Korea hit record high amid travel boom - KYODO
 - 09/07 10:55 [FirstSquawk] Australia ANZ-Indeed Job Advertisements (M/M) Aug: 2.5% (prev 0.8%)
+- 09/07 11:01 [FirstSquawk] Most-active coking coal contract in China slides more than 3%
+- 09/07 11:02 [FirstSquawk] China’s most-active coking coal contract drops 3.7% to 1,608 yuan per metric ton, lowest since Aug. 28
+- 09/07 11:03 [FirstSquawk] Indonesia’s main Jakarta airport to remain closed until 6 p.m. local time Monday
+- 09/07 11:08 [FirstSquawk] S. Korea exports to India jump over 30 pct in Jan.-Aug. on chip demand - yonhap
+- 09/07 11:12 [FirstSquawk] Yemen’s armed forces say 13 air strikes were carried out against Houthi positions
+- 09/07 11:16 [FirstSquawk] Goldman boosts Asia ex-Japan index target for one big reason - CNBC
