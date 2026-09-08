@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 18:36 JST／対象: 09/07 18:36 〜 09/08 18:36 JST（時刻はすべて日本時間）
+生成: 2026-09-08 18:53 JST／対象: 09/07 18:53 〜 09/08 18:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 00:17 | 09/08 17:32 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 291 | 09/07 18:45 | 09/08 18:32 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 164 | 09/07 19:10 | 09/08 18:16 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 302 | 09/07 18:53 | 09/08 18:48 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 173 | 09/07 19:10 | 09/08 18:53 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 461 行（統合前 466 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 481 行（統合前 486 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 18:45 [FirstSquawk] YEMENI GOVERNMENT FORCES ADVANCED AGAINST IRAN-BACKED HOUTHIS DEEPER INTO THE NORTHERN PROVINCE OF AL-JAWF IN NORTHWESTERN YEMEN ON MONDAY AND WERE MOVING TOWARD ITS CAPITAL, AL-HAZM
-- 09/07 18:52 [FirstSquawk] PRESIDENT TRUMP'S ENVOYS, JARED KUSHNER AND STEVE WITKOFF, SAID THEY HELD "MEANINGFUL DISCUSSIONS" AND ARE ENCOURAGED BY THE TALKS IN KYIV, PART OF A TRIP THAT BEGAN IN MOSCOW, AS THE LATEST PUSH TO END MORE THAN 4½ YEARS OF RUSSIA'S FULL-S…
 - 09/07 18:53 [FirstSquawk] QATAR AUG. FOREIGN RESERVES QAR262.24B
 - 09/07 18:58 [FirstSquawk] ALIBABA GROUP: BERNSTEIN CUTS TARGET PRICE TO $165 FROM $180
 - 09/07 18:59 [FirstSquawk] AZERBAIJAN IS NOW JOINTLY PRODUCING TURKISH UNMANNED NAVAL VESSELS DOMESTICALLY. PRESIDENT ALIYEV VISITED A PRODUCTION LINE RUN BY AZERBAIJAN'S MIRAS AND TÜRKIYE'S DEARSAN SHIPYARD, INSPECTING TWO PLATFORMS.
@@ -485,3 +483,25 @@
 - 09/08 18:16 [FirstSquawk] NHTSA- OPENS DEFECT PETITION INTO EST 499,603 FORD EDGE VEHICLES DUE TO COOLANT INTRUSION INTO THE ENGINE
 - 09/08 18:23 [FirstSquawk] KREMLIN SPOKESPERSON: ISSUES OF SELLING SU-57 IS ON THE AGENDA BETWEEN INDIA AND RUSSIA
 - 09/08 18:32 [FirstSquawk] BOJ PLANS TO RAISE RATE TO 1.25% AT SEPT. 17-18 MEETING: KYODO
+- 09/08 18:37 [financialjuice] Bank of Japan to hike key interest rates 0.25 percentage point in September meeting, Kyodo News says
+- 09/08 18:39 [financialjuice] China foreign minister to Qatar PM on Middle East situation: pressure through guns and cannons not the way out, dialogue and negotiation the right path - statement
+- 09/08 18:40 [financialjuice] Reserve Bank of Australia Deputy Gov Hauser: Much to Like About Economy, But Inflation Is Major Issue
+- 09/08 18:41 [financialjuice] RBA’s Hauser: question for us is whether we have done enough on rates or need to do more
+- 09/08 18:41 [FirstSquawk] IRAN'S ARAGHCHI SAYS 'SIGNIFICANT PROGRESS' ON HORMUZ ROUTE
+- 09/08 18:41 [financialjuice] RBA's Hauser: July CPI edged up slightly more than expected
+- 09/08 18:42 [financialjuice] RBA's Hauser: balanced outlook but focused on upside inflation risks
+- 09/08 18:43 [financialjuice] RBA's Hauser: board will debate a hike this month, outcome not guaranteed
+- 09/08 18:45 [financialjuice] RBA's Hauser: House prices do not play that big a role in economy, not the main game.
+- 09/08 18:46 [FirstSquawk] RESERVE BANK OF AUSTRALIA ASSISTANT GOVERNOR HUNTER SAYS THE HOUSING MARKET PLAYS A KEY ROLE IN MONETARY POLICY.
+- 09/08 18:46 [FirstSquawk] RBA'S HUNTER SAYS HOUSE PRICE CHANGES HAVE A SMALL EFFECT ON CONSUMER SPENDING.
+- 09/08 18:46 [FirstSquawk] RBA'S HUNTER DOES NOT ANTICIPATE A RECESSION IN THE ECONOMY.
+- 09/08 18:46 [FirstSquawk] RBA'S HUNTER SAYS THEY WANT A WEAKER ECONOMY THAN THE CURRENT TREND.
+- 09/08 18:46 [FirstSquawk] RBA'S HUNTER WANTS TO SLOW DOWN THE HOUSING MARKET AND ECONOMY.
+- 09/08 18:47 [FirstSquawk] RBA DEPUTY GOVERNOR HAUSER SEES MANY POSITIVE ASPECTS OF THE ECONOMY, BUT CITED INFLATION AS A SIGNIFICANT ISSUE.
+- 09/08 18:47 [FirstSquawk] HAUSER ASKS IF THE US HAS DONE ENOUGH ON INTEREST RATES OR IF FURTHER ACTION IS NEEDED.
+- 09/08 18:47 [FirstSquawk] HAUSER STATES THAT JULY CPI WAS SLIGHTLY HIGHER THAN ANTICIPATED.
+- 09/08 18:47 [FirstSquawk] HAUSER SAYS THERE ARE UPSIDE RISKS TO INFLATION, BUT OVERALL PICTURE IS BALANCED.
+- 09/08 18:47 [FirstSquawk] HAUSER STATED THAT THE BOARD WILL DISCUSS A POTENTIAL HIKE THIS MONTH AND CAUTIONED AGAINST ASSUMING RESULTS.
+- 09/08 18:47 [FirstSquawk] HAUSER STATES THAT HOUSING IS A "FACTOR" BUT NOT THE PRIMARY ISSUE FOR THE RBA.
+- 09/08 18:48 [FirstSquawk] BARCLAYS CUTS AMPHENOL TARGET PRICE TO $100 FROM $200
+- 09/08 18:53 [financialjuice] RBA's Hauser: We have not arrived at point where we have to raise rates sharply.

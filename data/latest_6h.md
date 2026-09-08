@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 18:36 JST／対象: 09/08 12:36 〜 09/08 18:36 JST（時刻はすべて日本時間）
+生成: 2026-09-08 18:53 JST／対象: 09/08 12:53 〜 09/08 18:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 94 | 09/08 12:39 | 09/08 18:32 | 22分（15:53→16:15） |
-| financialjuice | 42 | 09/08 12:36 | 09/08 18:16 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 99 | 09/08 12:57 | 09/08 18:48 | 22分（15:53→16:15） |
+| financialjuice | 41 | 09/08 13:00 | 09/08 18:53 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 137 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 141 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 12:36 [financialjuice] Saudi-led coalition in Yemen: will respond firmly to Houthi attacks
-- 09/08 12:36 [financialjuice] Saudi-led coalition in Yemen: Houthis hit civilian, economic sites in Saudi cities Abha, Khamis Mushait, Najran, and Jazan
-- 09/08 12:38 [financialjuice] RBA's Hunter: Monitoring Bathla situation, no systemic risk seen
-- 09/08 12:39 [FirstSquawk] Saudi-led coalition reports Houthi attacks on civilian and economic targets in Abha, Khamis Mushait, Najran and Jazan
-- 09/08 12:39 [FirstSquawk] Saudi-led Yemen coalition vows firm response to Houthi attacks
-- 09/08 12:40 [FirstSquawk] RBA’s Hunter says Bathla situation does not appear to pose systemic risk
-- 09/08 12:40 [financialjuice] Russian air strikes kill 2, injure 7 in Ukraine's Kyiv: officials
-- 09/08 12:42 [financialjuice] RBA’s Hunter: Board has been clear inflation is top priority
-- 09/08 12:43 [financialjuice] RBA's Hunter: July CPI data represented just one month
-- 09/08 12:43 [financialjuice] RBA’s Hunter: Board worried about inflation, has low tolerance
-- 09/08 12:44 [financialjuice] RBA's Hunter: board may need to hike rates if inflation looks set to intensify
-- 09/08 12:46 [FirstSquawk] Two killed, seven injured in Russian air strikes on Kyiv, officials say
-- 09/08 12:47 [FirstSquawk] RBA’s Hunter: Inflation remains the board’s top priority
-- 09/08 12:47 [FirstSquawk] RBA’s Hunter: July CPI reading is based on just a single month
-- 09/08 12:47 [FirstSquawk] RBA’s Hunter says the board remains concerned about inflation and has little tolerance for it
-- 09/08 12:47 [FirstSquawk] RBA’s Hunter says the board may need to raise rates if inflation is expected to be stronger
-- 09/08 12:47 [financialjuice] Dollar/yen drops 0.75% to 153.165
-- 09/08 12:48 [financialjuice] Euro drops 0.67% versus yen; sterling declines 0.78% against yen
 - 09/08 12:57 [FirstSquawk] British Pound drifts higher to near 1.3550 on UK fiscal discipline pledges - FX
 - 09/08 13:00 [financialjuice] Swedish single-family home prices rise 3.9% in June-August versus year earlier, Svensk maklarstatistik data shows
 - 09/08 13:00 [financialjuice] Swedish apartment prices rose 4.8% in June-August versus same period a year earlier, svensk maklarstatistik data shows
@@ -161,3 +143,25 @@
 - 09/08 18:16 [FirstSquawk] NHTSA- OPENS DEFECT PETITION INTO EST 499,603 FORD EDGE VEHICLES DUE TO COOLANT INTRUSION INTO THE ENGINE
 - 09/08 18:23 [FirstSquawk] KREMLIN SPOKESPERSON: ISSUES OF SELLING SU-57 IS ON THE AGENDA BETWEEN INDIA AND RUSSIA
 - 09/08 18:32 [FirstSquawk] BOJ PLANS TO RAISE RATE TO 1.25% AT SEPT. 17-18 MEETING: KYODO
+- 09/08 18:37 [financialjuice] Bank of Japan to hike key interest rates 0.25 percentage point in September meeting, Kyodo News says
+- 09/08 18:39 [financialjuice] China foreign minister to Qatar PM on Middle East situation: pressure through guns and cannons not the way out, dialogue and negotiation the right path - statement
+- 09/08 18:40 [financialjuice] Reserve Bank of Australia Deputy Gov Hauser: Much to Like About Economy, But Inflation Is Major Issue
+- 09/08 18:41 [financialjuice] RBA’s Hauser: question for us is whether we have done enough on rates or need to do more
+- 09/08 18:41 [FirstSquawk] IRAN'S ARAGHCHI SAYS 'SIGNIFICANT PROGRESS' ON HORMUZ ROUTE
+- 09/08 18:41 [financialjuice] RBA's Hauser: July CPI edged up slightly more than expected
+- 09/08 18:42 [financialjuice] RBA's Hauser: balanced outlook but focused on upside inflation risks
+- 09/08 18:43 [financialjuice] RBA's Hauser: board will debate a hike this month, outcome not guaranteed
+- 09/08 18:45 [financialjuice] RBA's Hauser: House prices do not play that big a role in economy, not the main game.
+- 09/08 18:46 [FirstSquawk] RESERVE BANK OF AUSTRALIA ASSISTANT GOVERNOR HUNTER SAYS THE HOUSING MARKET PLAYS A KEY ROLE IN MONETARY POLICY.
+- 09/08 18:46 [FirstSquawk] RBA'S HUNTER SAYS HOUSE PRICE CHANGES HAVE A SMALL EFFECT ON CONSUMER SPENDING.
+- 09/08 18:46 [FirstSquawk] RBA'S HUNTER DOES NOT ANTICIPATE A RECESSION IN THE ECONOMY.
+- 09/08 18:46 [FirstSquawk] RBA'S HUNTER SAYS THEY WANT A WEAKER ECONOMY THAN THE CURRENT TREND.
+- 09/08 18:46 [FirstSquawk] RBA'S HUNTER WANTS TO SLOW DOWN THE HOUSING MARKET AND ECONOMY.
+- 09/08 18:47 [FirstSquawk] RBA DEPUTY GOVERNOR HAUSER SEES MANY POSITIVE ASPECTS OF THE ECONOMY, BUT CITED INFLATION AS A SIGNIFICANT ISSUE.
+- 09/08 18:47 [FirstSquawk] HAUSER ASKS IF THE US HAS DONE ENOUGH ON INTEREST RATES OR IF FURTHER ACTION IS NEEDED.
+- 09/08 18:47 [FirstSquawk] HAUSER STATES THAT JULY CPI WAS SLIGHTLY HIGHER THAN ANTICIPATED.
+- 09/08 18:47 [FirstSquawk] HAUSER SAYS THERE ARE UPSIDE RISKS TO INFLATION, BUT OVERALL PICTURE IS BALANCED.
+- 09/08 18:47 [FirstSquawk] HAUSER STATED THAT THE BOARD WILL DISCUSS A POTENTIAL HIKE THIS MONTH AND CAUTIONED AGAINST ASSUMING RESULTS.
+- 09/08 18:47 [FirstSquawk] HAUSER STATES THAT HOUSING IS A "FACTOR" BUT NOT THE PRIMARY ISSUE FOR THE RBA.
+- 09/08 18:48 [FirstSquawk] BARCLAYS CUTS AMPHENOL TARGET PRICE TO $100 FROM $200
+- 09/08 18:53 [financialjuice] RBA's Hauser: We have not arrived at point where we have to raise rates sharply.
