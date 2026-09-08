@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 10:33 JST／対象: 09/07 22:33 〜 09/08 10:33 JST（時刻はすべて日本時間）
+生成: 2026-09-08 10:48 JST／対象: 09/07 22:48 〜 09/08 10:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 92 | 09/07 22:36 | 09/08 10:32 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 67 | 09/07 22:45 | 09/08 10:32 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 98 | 09/07 22:51 | 09/08 10:44 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 77 | 09/07 23:01 | 09/08 10:44 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 167 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 183 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 22:36 [FirstSquawk] LABOUR ANNOUNCES A BY-ELECTION FOR HOLBORN AND ST PANCRAS ON OCTOBER 8.
-- 09/07 22:37 [FirstSquawk] TRAFFIC THROUGH THE STRAIT OF HORMUZ HAS FALLEN TO ITS LOWEST LEVEL SINCE MAY, WITH SHIPPING DATA SHOWING AN AVERAGE OF 10 VESSELS A DAY TRANSITING THE WATERWAY ON SUNDAY, REUTERS REPORTED, CITING ANALYTICS FIRM KPLER.
-- 09/07 22:38 [FirstSquawk] ONLY TWO VESSELS PASSED THROUGH THE STRAIT ON SATURDAY AND SIX ON SUNDAY, MOSTLY USING THE IRANIAN ROUTE, ACCORDING TO REUTERS. THE 10-DAY AVERAGE STOOD AT 13 VESSELS ON SATURDAY, DOWN FROM MORE THAN 15 ON FRIDAY.
-- 09/07 22:41 [FirstSquawk] OIL TANKER FIRE OFF KHARG ISLAND EXTINGUISHED, NO OIL LEAK - FARS
-- 09/07 22:45 [financialjuice] Russian Foreign Ministry closes the German consulate in St. Petersburg - Ria.
 - 09/07 22:51 [FirstSquawk] SERBIA'S GOVERNMENT SEEKS DISSOLUTION OF PARLIAMENT, TO PAVE THE WAY FOR SNAP ELECTIONS
 - 09/07 22:56 [FirstSquawk] JAGUAR LAND ROVER WILL CUT 4K JOBS TO COMPETE WITH CHINA - AP
 - 09/07 23:01 [financialjuice] French Official confirms sending SAMP/T defense systems to Kyiv.
@@ -191,3 +186,24 @@
 - 09/08 10:31 [FirstSquawk] Australia August business confidence weakens to -8 from -7 in July — NAB
 - 09/08 10:32 [FirstSquawk] Dollar/yen slides 0.6% to 153.410
 - 09/08 10:32 [financialjuice] Dollar/yen drops 0.6% to 153.410 in last trading
+- 09/08 10:34 [financialjuice] Japan finance minister Katayama: will intensify efforts to obtain financing for food consumption tax reduction
+- 09/08 10:35 [FirstSquawk] Japan Finance Minister Katayama: Efforts to secure funding for food tax cut will be stepped up
+- 09/08 10:35 [financialjuice] Japan finance minister Katayama: will adequately regulate new bond issuance for full fiscal year
+- 09/08 10:36 [FirstSquawk] Japan Finance Minister Katayama: Will manage new bond issuance appropriately throughout fiscal year
+- 09/08 10:36 [financialjuice] Japan finance minister Katayama: will engage openly with markets, public to build trust in fiscal policy
+- 09/08 10:36 [FirstSquawk] 10-year JGB yield declines 3.5 bps to 2.895%
+- 09/08 10:36 [FirstSquawk] Japan Finance Minister Katayama: Full communication with markets and public needed to gain fiscal policy credibility
+- 09/08 10:37 [financialjuice] Japan finmin Katayama: declines to comment on specific FX levels
+- 09/08 10:38 [financialjuice] Japan finance minister Katayama: no change to forex policy since Japan-US joint intervention
+- 09/08 10:38 [financialjuice] Japan finance minister Katayama: will coordinate closely with U.S. to ensure orderly forex markets
+- 09/08 10:39 [FirstSquawk] Japan Finance Minister Katayama: FX policy stance unchanged since Japan-US joint intervention
+- 09/08 10:39 [FirstSquawk] Japan Finance Minister Katayama: Will maintain close communication with U.S. to achieve orderly FX markets
+- 09/08 10:40 [FirstSquawk] Japan Finance Minister Katayama: Stresses importance of mortgage lenders understanding risks from higher rates through bank communication
+- 09/08 10:40 [financialjuice] Japan finance minister Katayama: mortgage lenders must grasp risks of rising interest rates through talks with banks
+- 09/08 10:41 [financialjuice] China foreign ministry: China's special envoy for Afghanistan holds talks in Pakistan, Saudi Arabia
+- 09/08 10:41 [financialjuice] Anthropic said to abandon $6 billion Decart buyout
+- 09/08 10:41 [FirstSquawk] China Foreign Ministry: Special envoy held detailed discussions with officials from both countries on matters of mutual concern
+- 09/08 10:41 [financialjuice] China foreign ministry: special envoy discusses key issues with officials from both countries
+- 09/08 10:41 [FirstSquawk] Flights to and from Indonesia's capital have resumed after ash from a volcanic eruption forced a two-day closure that halted nearly 3,000 flights - AP
+- 09/08 10:44 [financialjuice] Ukraine drone attack damages civilian infrastructure in Russia's Saratov region, some injured, governor says
+- 09/08 10:44 [FirstSquawk] Ukraine drone strike hits civilian infrastructure in Russia’s Saratov region, governor says

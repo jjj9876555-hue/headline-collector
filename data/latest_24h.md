@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 10:33 JST／対象: 09/07 10:33 〜 09/08 10:33 JST（時刻はすべて日本時間）
+生成: 2026-09-08 10:48 JST／対象: 09/07 10:48 〜 09/08 10:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 273 | 09/07 10:33 | 09/08 10:32 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 105 | 09/07 10:40 | 09/08 10:32 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 276 | 09/07 10:50 | 09/08 10:44 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 115 | 09/07 11:26 | 09/08 10:44 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 380 行（統合前 390 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 393 行（統合前 403 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 10:33 [FirstSquawk] Seoul stocks surge at the open as tech shares gain despite Middle East tensions
-- 09/07 10:36 [FirstSquawk] Tesla, SpaceX shares slide as robotaxi launch fails to impress investors
-- 09/07 10:36 [FirstSquawk] Benchmark rubber futures in Shanghai jump 3.04% to 19,340 yuan per metric ton
-- 09/07 10:39 [FirstSquawk] Gold Falls on Rising Fed Rate Hike Expectations - WSJ
-- 09/07 10:40 [financialjuice] S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.040% yield
-- 09/07 10:40 [FirstSquawk] South Korea central bank auctions 91-day monetary stabilisation bonds at 3.040% yield
-- 09/07 10:43 [FirstSquawk] Americans Without College Degrees Are Having One of the Best Job Markets in Years - WSJ
-- 09/07 10:48 [FirstSquawk] New Zealand Dollar edges lower as Fed rate hike bets and Iran tensions underpin USD - FX
 - 09/07 10:50 [FirstSquawk] Americans overwhelmingly oppose AI data centers in their local area, Political poll shows
 - 09/07 10:50 [FirstSquawk] Top EU diplomat Kaja Kallas has been forced to cancel the launch of a high-level group made up of former political and military leaders following pressure from EU member countries, in what could prove another blow to the former Estonian pri…
 - 09/07 10:54 [FirstSquawk] Tourist complaints in S. Korea hit record high amid travel boom - KYODO
@@ -404,3 +396,24 @@
 - 09/08 10:31 [FirstSquawk] Australia August business confidence weakens to -8 from -7 in July — NAB
 - 09/08 10:32 [FirstSquawk] Dollar/yen slides 0.6% to 153.410
 - 09/08 10:32 [financialjuice] Dollar/yen drops 0.6% to 153.410 in last trading
+- 09/08 10:34 [financialjuice] Japan finance minister Katayama: will intensify efforts to obtain financing for food consumption tax reduction
+- 09/08 10:35 [FirstSquawk] Japan Finance Minister Katayama: Efforts to secure funding for food tax cut will be stepped up
+- 09/08 10:35 [financialjuice] Japan finance minister Katayama: will adequately regulate new bond issuance for full fiscal year
+- 09/08 10:36 [FirstSquawk] Japan Finance Minister Katayama: Will manage new bond issuance appropriately throughout fiscal year
+- 09/08 10:36 [financialjuice] Japan finance minister Katayama: will engage openly with markets, public to build trust in fiscal policy
+- 09/08 10:36 [FirstSquawk] 10-year JGB yield declines 3.5 bps to 2.895%
+- 09/08 10:36 [FirstSquawk] Japan Finance Minister Katayama: Full communication with markets and public needed to gain fiscal policy credibility
+- 09/08 10:37 [financialjuice] Japan finmin Katayama: declines to comment on specific FX levels
+- 09/08 10:38 [financialjuice] Japan finance minister Katayama: no change to forex policy since Japan-US joint intervention
+- 09/08 10:38 [financialjuice] Japan finance minister Katayama: will coordinate closely with U.S. to ensure orderly forex markets
+- 09/08 10:39 [FirstSquawk] Japan Finance Minister Katayama: FX policy stance unchanged since Japan-US joint intervention
+- 09/08 10:39 [FirstSquawk] Japan Finance Minister Katayama: Will maintain close communication with U.S. to achieve orderly FX markets
+- 09/08 10:40 [FirstSquawk] Japan Finance Minister Katayama: Stresses importance of mortgage lenders understanding risks from higher rates through bank communication
+- 09/08 10:40 [financialjuice] Japan finance minister Katayama: mortgage lenders must grasp risks of rising interest rates through talks with banks
+- 09/08 10:41 [financialjuice] China foreign ministry: China's special envoy for Afghanistan holds talks in Pakistan, Saudi Arabia
+- 09/08 10:41 [financialjuice] Anthropic said to abandon $6 billion Decart buyout
+- 09/08 10:41 [FirstSquawk] China Foreign Ministry: Special envoy held detailed discussions with officials from both countries on matters of mutual concern
+- 09/08 10:41 [financialjuice] China foreign ministry: special envoy discusses key issues with officials from both countries
+- 09/08 10:41 [FirstSquawk] Flights to and from Indonesia's capital have resumed after ash from a volcanic eruption forced a two-day closure that halted nearly 3,000 flights - AP
+- 09/08 10:44 [financialjuice] Ukraine drone attack damages civilian infrastructure in Russia's Saratov region, some injured, governor says
+- 09/08 10:44 [FirstSquawk] Ukraine drone strike hits civilian infrastructure in Russia’s Saratov region, governor says

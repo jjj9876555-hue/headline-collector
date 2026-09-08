@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 10:33 JST／対象: 09/08 04:33 〜 09/08 10:33 JST（時刻はすべて日本時間）
+生成: 2026-09-08 10:48 JST／対象: 09/08 04:48 〜 09/08 10:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 06:42 | 09/08 06:42 | - |
-| FirstSquawk | 54 | 09/08 04:56 | 09/08 10:32 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 50 | 09/08 04:43 | 09/08 10:32 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 64 | 09/08 04:56 | 09/08 10:44 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 60 | 09/08 04:54 | 09/08 10:44 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 105 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 04:43 [financialjuice] Nvidia's CEO Huang is on the UK King Charles' AI meeting guest list - Politico $NVDA
 - 09/08 04:54 [financialjuice] Stock Futures Face Pressure in Holiday-Thinned Trading as Middle East Escalation Drives Oil Higher – US Market Wrap
 - 09/08 04:56 [FirstSquawk] NVIDIA'S CEO HUANG IS ON UK KING CHARLES' AI MEETING GUEST LIST - POLITICO
 - 09/08 05:57 [FirstSquawk] POSTE ITALIANE HAS INCREASED ITS CONSIDERATION FOR THE TENDER OFFER ON TELECOM ITALIA AND WAIVED THE THRESHOLD CONDITION, ADDING A €0.30 CASH COMPONENT PER TIM SHARE TO TAKE THE AGGREGATE CASH COMPONENT PER TIM SHARE TO €1.97, WITH A MAXIMU…
@@ -129,3 +128,24 @@
 - 09/08 10:31 [FirstSquawk] Australia August business confidence weakens to -8 from -7 in July — NAB
 - 09/08 10:32 [FirstSquawk] Dollar/yen slides 0.6% to 153.410
 - 09/08 10:32 [financialjuice] Dollar/yen drops 0.6% to 153.410 in last trading
+- 09/08 10:34 [financialjuice] Japan finance minister Katayama: will intensify efforts to obtain financing for food consumption tax reduction
+- 09/08 10:35 [FirstSquawk] Japan Finance Minister Katayama: Efforts to secure funding for food tax cut will be stepped up
+- 09/08 10:35 [financialjuice] Japan finance minister Katayama: will adequately regulate new bond issuance for full fiscal year
+- 09/08 10:36 [FirstSquawk] Japan Finance Minister Katayama: Will manage new bond issuance appropriately throughout fiscal year
+- 09/08 10:36 [financialjuice] Japan finance minister Katayama: will engage openly with markets, public to build trust in fiscal policy
+- 09/08 10:36 [FirstSquawk] 10-year JGB yield declines 3.5 bps to 2.895%
+- 09/08 10:36 [FirstSquawk] Japan Finance Minister Katayama: Full communication with markets and public needed to gain fiscal policy credibility
+- 09/08 10:37 [financialjuice] Japan finmin Katayama: declines to comment on specific FX levels
+- 09/08 10:38 [financialjuice] Japan finance minister Katayama: no change to forex policy since Japan-US joint intervention
+- 09/08 10:38 [financialjuice] Japan finance minister Katayama: will coordinate closely with U.S. to ensure orderly forex markets
+- 09/08 10:39 [FirstSquawk] Japan Finance Minister Katayama: FX policy stance unchanged since Japan-US joint intervention
+- 09/08 10:39 [FirstSquawk] Japan Finance Minister Katayama: Will maintain close communication with U.S. to achieve orderly FX markets
+- 09/08 10:40 [FirstSquawk] Japan Finance Minister Katayama: Stresses importance of mortgage lenders understanding risks from higher rates through bank communication
+- 09/08 10:40 [financialjuice] Japan finance minister Katayama: mortgage lenders must grasp risks of rising interest rates through talks with banks
+- 09/08 10:41 [financialjuice] China foreign ministry: China's special envoy for Afghanistan holds talks in Pakistan, Saudi Arabia
+- 09/08 10:41 [financialjuice] Anthropic said to abandon $6 billion Decart buyout
+- 09/08 10:41 [FirstSquawk] China Foreign Ministry: Special envoy held detailed discussions with officials from both countries on matters of mutual concern
+- 09/08 10:41 [financialjuice] China foreign ministry: special envoy discusses key issues with officials from both countries
+- 09/08 10:41 [FirstSquawk] Flights to and from Indonesia's capital have resumed after ash from a volcanic eruption forced a two-day closure that halted nearly 3,000 flights - AP
+- 09/08 10:44 [financialjuice] Ukraine drone attack damages civilian infrastructure in Russia's Saratov region, some injured, governor says
+- 09/08 10:44 [FirstSquawk] Ukraine drone strike hits civilian infrastructure in Russia’s Saratov region, governor says
