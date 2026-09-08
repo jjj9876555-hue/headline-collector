@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 01:19 JST／対象: 09/08 19:19 〜 09/09 01:19 JST（時刻はすべて日本時間）
+生成: 2026-09-09 01:36 JST／対象: 09/08 19:36 〜 09/09 01:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/08 22:06 | 09/09 00:42 | ⚠ 52分（23:50→00:42） |
-| FirstSquawk | 124 | 09/08 19:27 | 09/09 01:13 | 25分（00:30→00:55） |
-| financialjuice | 123 | 09/08 19:20 | 09/09 01:18 | 32分（19:45→20:18） |
+| FirstSquawk | 123 | 09/08 19:37 | 09/09 01:25 | 25分（00:30→00:55） |
+| financialjuice | 121 | 09/08 19:45 | 09/09 01:25 | 32分（19:45→20:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 249 行（統合前 254 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 246 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 19:20 [financialjuice] ❗ Qatar is working with its regional partners and China to resume talks between US and Iran - Foreign Ministry.
-- 09/08 19:23 [financialjuice] UK Government: To lay legislation which will tackle Iranian nuclear activity and other hostile Iranian activity.
-- 09/08 19:23 [financialjuice] UK Government: The legislation will further expand our powers to sanction ships.
-- 09/08 19:27 [FirstSquawk] BOSTON SCIENTIFIC UNLIKELY TO MEET FORECASTS AFTER CYBER ATTACK
-- 09/08 19:27 [FirstSquawk] UK GOVERNMENT: GENERAL LICENCE WILL ENABLE CONTINUED OPERATION OF THE SHAH DENIZ GAS FIELD IN AZERBAIJAN
-- 09/08 19:27 [FirstSquawk] BOSTON SCIENTIFIC SEES MATERIAL IMPACT ON Q3, FULL YEAR || SEES RECOVERING SOME PORTION OF IMPACTED REV.
 - 09/08 19:37 [FirstSquawk] BOTH DEMOCRATS AND REPUBLICANS ARE TARGETING THE SENATE SEAT THAT WILL BE VACATED BY DEMOCRATIC SEN. JEANNE SHAHEEN, WHO IS NOT RUNNING FOR REELECTION.
 - 09/08 19:39 [FirstSquawk] RUSSIA'S LAVROV: RUSSIA AND SAUDI ARABIA WILL CONTINUE TO COORDINATE CLOSELY WITHIN THE OPEC+ FRAMEWORK AND WILL AGREE ON COMMON APPROACHES
 - 09/08 19:45 [financialjuice] UK's Chancellor Healey: Starting to see UK economy turn a corner.
@@ -273,3 +267,6 @@
 - 09/09 01:13 [FirstSquawk] SAMSUNG ACQUIRES EQUITY IN MISTRAL AI FOLLOWING FUNDING ROUND.
 - 09/09 01:18 [financialjuice] Qualcomm CFO: Next year, we expect to be the largest chip supplier to the automotive industry. $QCOM
 - 09/09 01:18 [financialjuice] Qualcomm CFO: Higher memory prices have had a limited impact on the premium smartphone market.
+- 09/09 01:25 [financialjuice] Qualcomm CFO: Qualcomm has another hyperscaler engagement.
+- 09/09 01:25 [FirstSquawk] QUALCOMM'S CFO ANNOUNCED A NEW PARTNERSHIP WITH A HYPERSCALER.
+- 09/09 01:25 [FirstSquawk] QUALCOMM STATES THAT THE SMARTPHONE MARKET IS AT A LOW POINT IN ITS CYCLE.

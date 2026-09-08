@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 01:19 JST／対象: 09/08 13:19 〜 09/09 01:19 JST（時刻はすべて日本時間）
+生成: 2026-09-09 01:36 JST／対象: 09/08 13:36 〜 09/09 01:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/08 17:32 | 09/09 00:42 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 212 | 09/08 13:29 | 09/09 01:13 | 25分（00:30→00:55） |
-| financialjuice | 162 | 09/08 13:30 | 09/09 01:18 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 212 | 09/08 13:37 | 09/09 01:25 | 25分（00:30→00:55） |
+| financialjuice | 160 | 09/08 13:43 | 09/09 01:25 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 377 行（統合前 382 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 375 行（統合前 380 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 13:29 [FirstSquawk] Xinhua says all bodies retrieved following Tibet mudslide are non-foreign nationals
-- 09/08 13:30 [financialjuice] DUTCH CPI MOM ACTUAL 0.3% (FORECAST -, PREVIOUS 1.6%) $MACRO
-- 09/08 13:30 [financialjuice] DUTCH CPI YOY ACTUAL 3.3% (FORECAST -, PREVIOUS 3.2%) $MACRO
-- 09/08 13:30 [financialjuice] Dutch Aug CPI rises 3.3% y/y after 3.2% in July: CBS
-- 09/08 13:34 [FirstSquawk] JPMorgan lowers FedEx target price to $400 from $460
 - 09/08 13:37 [FirstSquawk] Singapore Dollar Strengthens Slightly - WSJ
 - 09/08 13:40 [FirstSquawk] Singapore government accepts recommendations to raise ministers’ salaries, PM says
 - 09/08 13:40 [FirstSquawk] Singapore to raise junior ministers’ pay to S$1.8 mln from S$1.1 mln, PM says
@@ -401,3 +396,6 @@
 - 09/09 01:13 [FirstSquawk] SAMSUNG ACQUIRES EQUITY IN MISTRAL AI FOLLOWING FUNDING ROUND.
 - 09/09 01:18 [financialjuice] Qualcomm CFO: Next year, we expect to be the largest chip supplier to the automotive industry. $QCOM
 - 09/09 01:18 [financialjuice] Qualcomm CFO: Higher memory prices have had a limited impact on the premium smartphone market.
+- 09/09 01:25 [financialjuice] Qualcomm CFO: Qualcomm has another hyperscaler engagement.
+- 09/09 01:25 [FirstSquawk] QUALCOMM'S CFO ANNOUNCED A NEW PARTNERSHIP WITH A HYPERSCALER.
+- 09/09 01:25 [FirstSquawk] QUALCOMM STATES THAT THE SMARTPHONE MARKET IS AT A LOW POINT IN ITS CYCLE.
