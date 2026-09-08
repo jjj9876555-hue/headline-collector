@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 00:36 JST／対象: 09/08 12:36 〜 09/09 00:36 JST（時刻はすべて日本時間）
+生成: 2026-09-09 00:54 JST／対象: 09/08 12:54 〜 09/09 00:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/08 17:32 | 09/08 23:50 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 225 | 09/08 12:39 | 09/09 00:30 | 22分（15:53→16:15） |
-| financialjuice | 163 | 09/08 12:38 | 09/09 00:33 | ⚠ 56分（15:45→16:42） |
+| DeItaone | 7 | 09/08 17:32 | 09/09 00:42 | ⚠ 273分（17:32→22:06） |
+| FirstSquawk | 217 | 09/08 12:57 | 09/09 00:30 | 22分（15:53→16:15） |
+| financialjuice | 159 | 09/08 13:00 | 09/09 00:41 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 390 行（統合前 395 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 379 行（統合前 384 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 12:38 [financialjuice] RBA's Hunter: Monitoring Bathla situation, no systemic risk seen
-- 09/08 12:39 [FirstSquawk] Saudi-led coalition reports Houthi attacks on civilian and economic targets in Abha, Khamis Mushait, Najran and Jazan
-- 09/08 12:39 [FirstSquawk] Saudi-led Yemen coalition vows firm response to Houthi attacks
-- 09/08 12:40 [FirstSquawk] RBA’s Hunter says Bathla situation does not appear to pose systemic risk
-- 09/08 12:40 [financialjuice] Russian air strikes kill 2, injure 7 in Ukraine's Kyiv: officials
-- 09/08 12:42 [financialjuice] RBA’s Hunter: Board has been clear inflation is top priority
-- 09/08 12:43 [financialjuice] RBA's Hunter: July CPI data represented just one month
-- 09/08 12:43 [financialjuice] RBA’s Hunter: Board worried about inflation, has low tolerance
-- 09/08 12:44 [financialjuice] RBA's Hunter: board may need to hike rates if inflation looks set to intensify
-- 09/08 12:46 [FirstSquawk] Two killed, seven injured in Russian air strikes on Kyiv, officials say
-- 09/08 12:47 [FirstSquawk] RBA’s Hunter: Inflation remains the board’s top priority
-- 09/08 12:47 [FirstSquawk] RBA’s Hunter: July CPI reading is based on just a single month
-- 09/08 12:47 [FirstSquawk] RBA’s Hunter says the board remains concerned about inflation and has little tolerance for it
-- 09/08 12:47 [FirstSquawk] RBA’s Hunter says the board may need to raise rates if inflation is expected to be stronger
-- 09/08 12:47 [financialjuice] Dollar/yen drops 0.75% to 153.165
-- 09/08 12:48 [financialjuice] Euro drops 0.67% versus yen; sterling declines 0.78% against yen
 - 09/08 12:57 [FirstSquawk] British Pound drifts higher to near 1.3550 on UK fiscal discipline pledges - FX
 - 09/08 13:00 [financialjuice] Swedish single-family home prices rise 3.9% in June-August versus year earlier, Svensk maklarstatistik data shows
 - 09/08 13:00 [financialjuice] Swedish apartment prices rose 4.8% in June-August versus same period a year earlier, svensk maklarstatistik data shows
@@ -414,3 +398,8 @@
 - 09/09 00:33 [financialjuice] US 3-Month Bill Auction
 - 09/09 00:33 [financialjuice] US 3-Month Bill Auction High Yield 3.800% Bid-to-cover 2.61 US sells $92 bln Awards 20.33% of bids at high
 - 09/09 00:33 [financialjuice] US 6-Month Bill Auction High Yield 3.890% Bid-to-cover 2.88 US sells $79 bln Awards 79.10% of bids at high
+- 09/09 00:36 [financialjuice] US Treasury Secretary Bessent: No more forbearance on Iran sanctions.
+- 09/09 00:38 [financialjuice] US Treasury Secretary Bessent: We'll see if Iran lashes out kinetically now.
+- 09/09 00:39 [financialjuice] US Treasury Secretary Bessent: 2 Iran-owned London luxury penthouses being auctioned.
+- 09/09 00:41 [financialjuice] Iran destroys a US MQ1 drone over the Strait of Hormuz; no US confirmation - Iran's Tasnim news agency citing IRGC.
+- 09/09 00:42 [DeItaone] IRAN'S TASNIM NEWS AGENCY CITING IRGC: IRAN DESTROYS A U.S. MQ1 DRONE OVER THE STRAIT OF HORMUZ; NO U.S CONFIRMATION

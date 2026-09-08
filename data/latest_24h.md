@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 00:36 JST／対象: 09/08 00:36 〜 09/09 00:36 JST（時刻はすべて日本時間）
+生成: 2026-09-09 00:54 JST／対象: 09/08 00:54 〜 09/09 00:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/08 02:28 | 09/08 23:50 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 349 | 09/08 00:43 | 09/09 00:30 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 266 | 09/08 00:44 | 09/09 00:33 | ⚠ 170分（04:54→07:45） |
+| DeItaone | 14 | 09/08 02:28 | 09/09 00:42 | ⚠ 649分（06:42→17:32） |
+| FirstSquawk | 347 | 09/08 00:56 | 09/09 00:30 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 269 | 09/08 00:55 | 09/09 00:41 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 624 行（統合前 629 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 626 行（統合前 631 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 00:43 [FirstSquawk] AIRBUS - AUGUST DELIVERIES: 57 || AUGUST GROSS ORDERS: 67 || DELIVERIES IN JAN-AUGUST: 475 || BOOKED 1,157 GROSS AIRCRAFT ORDERS IN JAN-AUGUST || BOOKED 1,091 NET AIRCRAFT ORDERS IN JAN-AUGUST
-- 09/08 00:44 [financialjuice] Qatar LNG ship nears Hormuz in attempt to exit strait - Data
-- 09/08 00:44 [FirstSquawk] QATAR LNG VESSEL CLOSES IN ON HORMUZ STRAIT FOR EXIT, ACCORDING TO DATA.
 - 09/08 00:55 [financialjuice] Germany said to discuss gas storage help with SEFE and Uniper.
 - 09/08 00:56 [FirstSquawk] ITALY TO SELL UP TO EUR 750 MLN OF 2.15% 2072 BONDS SEPT. 10 || TO SELL UP TO EUR 3.5 BLN OF 3% 2029 BONDS || TO SELL UP TO EUR 3.5 BLN OF 3.35% 2033 BONDS
 - 09/08 01:13 [FirstSquawk] NTSB WILL HOST A MEDIA BRIEFING ON MONDAY AT 4 PM ET ABOUT THE RUNWAY INCIDENT AT MIAMI INTERNATIONAL AIRPORT.
@@ -648,3 +645,8 @@
 - 09/09 00:33 [financialjuice] US 3-Month Bill Auction
 - 09/09 00:33 [financialjuice] US 3-Month Bill Auction High Yield 3.800% Bid-to-cover 2.61 US sells $92 bln Awards 20.33% of bids at high
 - 09/09 00:33 [financialjuice] US 6-Month Bill Auction High Yield 3.890% Bid-to-cover 2.88 US sells $79 bln Awards 79.10% of bids at high
+- 09/09 00:36 [financialjuice] US Treasury Secretary Bessent: No more forbearance on Iran sanctions.
+- 09/09 00:38 [financialjuice] US Treasury Secretary Bessent: We'll see if Iran lashes out kinetically now.
+- 09/09 00:39 [financialjuice] US Treasury Secretary Bessent: 2 Iran-owned London luxury penthouses being auctioned.
+- 09/09 00:41 [financialjuice] Iran destroys a US MQ1 drone over the Strait of Hormuz; no US confirmation - Iran's Tasnim news agency citing IRGC.
+- 09/09 00:42 [DeItaone] IRAN'S TASNIM NEWS AGENCY CITING IRGC: IRAN DESTROYS A U.S. MQ1 DRONE OVER THE STRAIT OF HORMUZ; NO U.S CONFIRMATION

@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 00:36 JST／対象: 09/08 18:36 〜 09/09 00:36 JST（時刻はすべて日本時間）
+生成: 2026-09-09 00:54 JST／対象: 09/08 18:54 〜 09/09 00:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/08 22:06 | 09/08 23:50 | 39分（22:39→23:18） |
-| FirstSquawk | 131 | 09/08 18:41 | 09/09 00:30 | 17分（21:12→21:29） |
-| financialjuice | 123 | 09/08 18:37 | 09/09 00:33 | 32分（19:45→20:18） |
+| DeItaone | 6 | 09/08 22:06 | 09/09 00:42 | ⚠ 52分（23:50→00:42） |
+| FirstSquawk | 118 | 09/08 19:00 | 09/09 00:30 | 17分（21:12→21:29） |
+| financialjuice | 118 | 09/08 19:00 | 09/09 00:41 | 32分（19:45→20:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 255 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 238 行（統合前 243 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 18:37 [financialjuice] Bank of Japan to hike key interest rates 0.25 percentage point in September meeting, Kyodo News says
-- 09/08 18:39 [financialjuice] China foreign minister to Qatar PM on Middle East situation: pressure through guns and cannons not the way out, dialogue and negotiation the right path - statement
-- 09/08 18:40 [financialjuice] Reserve Bank of Australia Deputy Gov Hauser: Much to Like About Economy, But Inflation Is Major Issue
-- 09/08 18:41 [financialjuice] RBA’s Hauser: question for us is whether we have done enough on rates or need to do more
-- 09/08 18:41 [FirstSquawk] IRAN'S ARAGHCHI SAYS 'SIGNIFICANT PROGRESS' ON HORMUZ ROUTE
-- 09/08 18:41 [financialjuice] RBA's Hauser: July CPI edged up slightly more than expected
-- 09/08 18:42 [financialjuice] RBA's Hauser: balanced outlook but focused on upside inflation risks
-- 09/08 18:43 [financialjuice] RBA's Hauser: board will debate a hike this month, outcome not guaranteed
-- 09/08 18:45 [financialjuice] RBA's Hauser: House prices do not play that big a role in economy, not the main game.
-- 09/08 18:46 [FirstSquawk] RESERVE BANK OF AUSTRALIA ASSISTANT GOVERNOR HUNTER SAYS THE HOUSING MARKET PLAYS A KEY ROLE IN MONETARY POLICY.
-- 09/08 18:46 [FirstSquawk] RBA'S HUNTER SAYS HOUSE PRICE CHANGES HAVE A SMALL EFFECT ON CONSUMER SPENDING.
-- 09/08 18:46 [FirstSquawk] RBA'S HUNTER DOES NOT ANTICIPATE A RECESSION IN THE ECONOMY.
-- 09/08 18:46 [FirstSquawk] RBA'S HUNTER SAYS THEY WANT A WEAKER ECONOMY THAN THE CURRENT TREND.
-- 09/08 18:46 [FirstSquawk] RBA'S HUNTER WANTS TO SLOW DOWN THE HOUSING MARKET AND ECONOMY.
-- 09/08 18:47 [FirstSquawk] RBA DEPUTY GOVERNOR HAUSER SEES MANY POSITIVE ASPECTS OF THE ECONOMY, BUT CITED INFLATION AS A SIGNIFICANT ISSUE.
-- 09/08 18:47 [FirstSquawk] HAUSER ASKS IF THE US HAS DONE ENOUGH ON INTEREST RATES OR IF FURTHER ACTION IS NEEDED.
-- 09/08 18:47 [FirstSquawk] HAUSER STATES THAT JULY CPI WAS SLIGHTLY HIGHER THAN ANTICIPATED.
-- 09/08 18:47 [FirstSquawk] HAUSER SAYS THERE ARE UPSIDE RISKS TO INFLATION, BUT OVERALL PICTURE IS BALANCED.
-- 09/08 18:47 [FirstSquawk] HAUSER STATED THAT THE BOARD WILL DISCUSS A POTENTIAL HIKE THIS MONTH AND CAUTIONED AGAINST ASSUMING RESULTS.
-- 09/08 18:47 [FirstSquawk] HAUSER STATES THAT HOUSING IS A "FACTOR" BUT NOT THE PRIMARY ISSUE FOR THE RBA.
-- 09/08 18:48 [FirstSquawk] BARCLAYS CUTS AMPHENOL TARGET PRICE TO $100 FROM $200
-- 09/08 18:53 [financialjuice] RBA's Hauser: We have not arrived at point where we have to raise rates sharply.
 - 09/08 19:00 [financialjuice] US NFIB BUSINESS OPTIMISM INDEX ACTUAL 98.7 (FORECAST 99.3, PREVIOUS 99.80) $MACRO
 - 09/08 19:00 [FirstSquawk] FOUR SAUDI AIRSTRIKES HIT YEMEN'S MARIB, HOUTHI-RUN AL MASIRAH TV SAYS
 - 09/08 19:06 [FirstSquawk] UBER FILES FOR EURO-DENOMINATED FIVE PARTS SENIOR NOTES OFFERING; SIZE NOT DISCLOSED - SEC FILING
@@ -279,3 +257,8 @@
 - 09/09 00:33 [financialjuice] US 3-Month Bill Auction
 - 09/09 00:33 [financialjuice] US 3-Month Bill Auction High Yield 3.800% Bid-to-cover 2.61 US sells $92 bln Awards 20.33% of bids at high
 - 09/09 00:33 [financialjuice] US 6-Month Bill Auction High Yield 3.890% Bid-to-cover 2.88 US sells $79 bln Awards 79.10% of bids at high
+- 09/09 00:36 [financialjuice] US Treasury Secretary Bessent: No more forbearance on Iran sanctions.
+- 09/09 00:38 [financialjuice] US Treasury Secretary Bessent: We'll see if Iran lashes out kinetically now.
+- 09/09 00:39 [financialjuice] US Treasury Secretary Bessent: 2 Iran-owned London luxury penthouses being auctioned.
+- 09/09 00:41 [financialjuice] Iran destroys a US MQ1 drone over the Strait of Hormuz; no US confirmation - Iran's Tasnim news agency citing IRGC.
+- 09/09 00:42 [DeItaone] IRAN'S TASNIM NEWS AGENCY CITING IRGC: IRAN DESTROYS A U.S. MQ1 DRONE OVER THE STRAIT OF HORMUZ; NO U.S CONFIRMATION
