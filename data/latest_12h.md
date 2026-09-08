@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 17:27 JST／対象: 09/08 05:27 〜 09/08 17:27 JST（時刻はすべて日本時間）
+生成: 2026-09-08 17:46 JST／対象: 09/08 05:46 〜 09/08 17:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/08 06:42 | 09/08 06:42 | - |
-| FirstSquawk | 181 | 09/08 05:57 | 09/08 17:25 | ⚠ 158分（05:58→08:36） |
+| DeItaone | 2 | 09/08 06:42 | 09/08 17:32 | ⚠ 649分（06:42→17:32） |
+| FirstSquawk | 186 | 09/08 05:57 | 09/08 17:44 | ⚠ 158分（05:58→08:36） |
 | financialjuice | 128 | 09/08 07:45 | 09/08 17:22 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 310 行（統合前 310 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 316 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -334,3 +334,9 @@
 - 09/08 17:17 [FirstSquawk] AMAZON ENGAGES BANKS FOR ITS FIRST STERLING BOND SALE.
 - 09/08 17:22 [financialjuice] German Finance Minister Klingbeil: Special fund opponents are the very same people whose ideology has ensured that our country’s infrastructure has been neglected for far too long.
 - 09/08 17:25 [FirstSquawk] KREMLIN SPOKESPERSON: PUTIN AND INDIAN PM MODI WILL HAVE BILATERAL TALKS
+- 09/08 17:28 [FirstSquawk] KREMLIN SPOKESPERSON: RUSSIA SUPPORTS THE IDEA OF INVITING NEW COUNTRIES TO JOIN DIFFERENT FORMATS OF COOPERATION WITHIN BRICS
+- 09/08 17:32 [DeItaone] KREMLIN SPOKESPERSON: RUSSIA'S AIM IS NOT DE-DOLLARISATION
+- 09/08 17:35 [FirstSquawk] JAPAN, OMAN DISCUSS INTERNATIONAL LAW REGARDING HORMUZ
+- 09/08 17:36 [FirstSquawk] KREMLIN SPOKESPERSON: RUSSIA REACHED AT 90% OF ALL TRANSACTIONS IN NATIONAL CURRENCIES WITH BRICS COUNTRIES
+- 09/08 17:38 [FirstSquawk] GERMAN FINANCE MINISTER: WITHOUT TAKING ON NEW DEBT, WE CANNOT DEFEND OURSELVES
+- 09/08 17:44 [FirstSquawk] KREMLIN SPOKESPERSON IN VIRTUAL INTERACTION WITH INDIAN REPORTERS: RUSSIA IS OPEN TO PROCESS OF SOLVING WAR IN UKRAINE THROUGH PEACEFUL MEANS
