@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 14:24 JST／対象: 09/07 14:24 〜 09/08 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-08 14:44 JST／対象: 09/07 14:44 〜 09/08 14:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 308 | 09/07 14:31 | 09/08 14:13 | ⚠ 158分（05:58→08:36） |
+| FirstSquawk | 310 | 09/07 14:51 | 09/08 14:39 | ⚠ 158分（05:58→08:36） |
 | financialjuice | 170 | 09/07 14:54 | 09/08 14:23 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 480 行（統合前 488 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 482 行（統合前 490 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 14:31 [FirstSquawk] OIL RISES AS ESCALATING U.S.-IRAN CONFLICT STOKES SUPPLY DISRUPTION FEARS-WSJ
-- 09/07 14:42 [FirstSquawk] BEIJING TO INJECT BILLIONS INTO BANKS, INSURERS TO BOOST GROWTH-WSJ
 - 09/07 14:51 [FirstSquawk] AI to enhance efficiency across China’s infrastructure sector, with credit benefits emerging gradually, Moody’s says
 - 09/07 14:53 [FirstSquawk] France’s Lescure says interest rates will increase significantly if no budget is agreed
 - 09/07 14:54 [financialjuice] French Finance Minister Lescure: If there is no budget, interest rates will go up markedly.
@@ -504,3 +502,7 @@
 - 09/08 14:23 [financialjuice] Saudis say energy facilities targeted on September 8
 - 09/08 14:23 [financialjuice] Saudis say fire erupted in several energy sites.
 - 09/08 14:23 [financialjuice] Saudis say operations at some energy sites halted.
+- 09/08 14:27 [FirstSquawk] Saudi Energy Ministry: Authorities focused on facility and personnel safety and continuity of operations
+- 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Attacks sparked fires at several sites, temporarily suspending some operations
+- 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Energy facilities and utilities in the kingdom’s southern region targeted Tuesday morning
+- 09/08 14:39 [FirstSquawk] MISTRAL RAISES RECORD €3BN AS EUROPE STRAINS TO KEEP PACE IN AI RACE-FT

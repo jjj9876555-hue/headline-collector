@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 14:24 JST／対象: 09/08 02:24 〜 09/08 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-08 14:44 JST／対象: 09/08 02:44 〜 09/08 14:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/08 02:28 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 153 | 09/08 02:51 | 09/08 14:13 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 122 | 09/08 02:40 | 09/08 14:23 | ⚠ 170分（04:54→07:45） |
+| DeItaone | 6 | 09/08 02:44 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
+| FirstSquawk | 157 | 09/08 02:51 | 09/08 14:39 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 119 | 09/08 04:22 | 09/08 14:23 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 282 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 02:28 [DeItaone] IRAN’S OIL REVENUES COLLAPSE AS BLOCKADE TIGHTENS Iran’s oil income is rapidly shrinking as a US naval blockade restricts exports and offshore stockpiles fall. Iranian crude stored outside the Gulf has dropped from 90 million to 29 million …
-- 09/08 02:40 [financialjuice] Trump: No more selling Bombardier in the United States.
-- 09/08 02:41 [financialjuice] Trump on Canada: If they want our market, they must build here.
-- 09/08 02:41 [financialjuice] Brent crude futures settle at $97.31/bbl, up $1.03, 1.1%
 - 09/08 02:44 [DeItaone] TRUMP: NO MORE SELLING BOMBARDIER IN UNITED STATES
 - 09/08 02:46 [DeItaone] TRUMP CALLS FOR BAN ON BOMBARDIER SALES IN US President Trump called for Bombardier sales in the US to stop, accusing Canada of unfairly restricting American companies, including Gulfstream Aerospace. He argued that Bombardier depends heavi…
 - 09/08 02:51 [FirstSquawk] TRUMP SAYS 'NO MORE SELLING BOMBARDIER IN THE UNITED STATES', CLAIMING 'THEIR PRODUCTS AREN'T GOOD ENOUGH' AND THAT OVER 50% OF THE COMPANY'S REVENUE COMES FROM THE U.S., ACCUSING IT OF LIVING OFF 'AMERICAN BUYERS, AMERICAN COMPANIES, AMERI…
@@ -306,3 +302,7 @@
 - 09/08 14:23 [financialjuice] Saudis say energy facilities targeted on September 8
 - 09/08 14:23 [financialjuice] Saudis say fire erupted in several energy sites.
 - 09/08 14:23 [financialjuice] Saudis say operations at some energy sites halted.
+- 09/08 14:27 [FirstSquawk] Saudi Energy Ministry: Authorities focused on facility and personnel safety and continuity of operations
+- 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Attacks sparked fires at several sites, temporarily suspending some operations
+- 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Energy facilities and utilities in the kingdom’s southern region targeted Tuesday morning
+- 09/08 14:39 [FirstSquawk] MISTRAL RAISES RECORD €3BN AS EUROPE STRAINS TO KEEP PACE IN AI RACE-FT
