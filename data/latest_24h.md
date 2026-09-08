@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 10:48 JST／対象: 09/07 10:48 〜 09/08 10:48 JST（時刻はすべて日本時間）
+生成: 2026-09-08 10:59 JST／対象: 09/07 10:59 〜 09/08 10:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 276 | 09/07 10:50 | 09/08 10:44 | ⚠ 158分（05:58→08:36） |
+| FirstSquawk | 276 | 09/07 11:01 | 09/08 10:58 | ⚠ 158分（05:58→08:36） |
 | financialjuice | 115 | 09/07 11:26 | 09/08 10:44 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 10:50 [FirstSquawk] Americans overwhelmingly oppose AI data centers in their local area, Political poll shows
-- 09/07 10:50 [FirstSquawk] Top EU diplomat Kaja Kallas has been forced to cancel the launch of a high-level group made up of former political and military leaders following pressure from EU member countries, in what could prove another blow to the former Estonian pri…
-- 09/07 10:54 [FirstSquawk] Tourist complaints in S. Korea hit record high amid travel boom - KYODO
-- 09/07 10:55 [FirstSquawk] Australia ANZ-Indeed Job Advertisements (M/M) Aug: 2.5% (prev 0.8%)
 - 09/07 11:01 [FirstSquawk] Most-active coking coal contract in China slides more than 3%
 - 09/07 11:02 [FirstSquawk] China’s most-active coking coal contract drops 3.7% to 1,608 yuan per metric ton, lowest since Aug. 28
 - 09/07 11:03 [FirstSquawk] Indonesia’s main Jakarta airport to remain closed until 6 p.m. local time Monday
@@ -417,3 +413,7 @@
 - 09/08 10:41 [FirstSquawk] Flights to and from Indonesia's capital have resumed after ash from a volcanic eruption forced a two-day closure that halted nearly 3,000 flights - AP
 - 09/08 10:44 [financialjuice] Ukraine drone attack damages civilian infrastructure in Russia's Saratov region, some injured, governor says
 - 09/08 10:44 [FirstSquawk] Ukraine drone strike hits civilian infrastructure in Russia’s Saratov region, governor says
+- 09/08 10:49 [FirstSquawk] Vitol CEO says Middle East exports about 10 mln bpd of crude and petroleum products
+- 09/08 10:52 [FirstSquawk] Vitol CEO: 2–3 mln bpd of Saudi oil exports impacted by Bab el-Mandeb Strait
+- 09/08 10:56 [FirstSquawk] Vitol CEO says 5–6 mln bpd difference in China’s 2025 and 2026 crude imports is unsustainable
+- 09/08 10:58 [FirstSquawk] LME three-month copper reaches all-time high of $14,617 a metric ton

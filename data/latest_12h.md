@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 10:48 JST／対象: 09/07 22:48 〜 09/08 10:48 JST（時刻はすべて日本時間）
+生成: 2026-09-08 10:59 JST／対象: 09/07 22:59 〜 09/08 10:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 98 | 09/07 22:51 | 09/08 10:44 | ⚠ 158分（05:58→08:36） |
+| FirstSquawk | 100 | 09/07 23:07 | 09/08 10:58 | ⚠ 158分（05:58→08:36） |
 | financialjuice | 77 | 09/07 23:01 | 09/08 10:44 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 183 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 185 行（統合前 186 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 22:51 [FirstSquawk] SERBIA'S GOVERNMENT SEEKS DISSOLUTION OF PARLIAMENT, TO PAVE THE WAY FOR SNAP ELECTIONS
-- 09/07 22:56 [FirstSquawk] JAGUAR LAND ROVER WILL CUT 4K JOBS TO COMPETE WITH CHINA - AP
 - 09/07 23:01 [financialjuice] French Official confirms sending SAMP/T defense systems to Kyiv.
 - 09/07 23:02 [financialjuice] French Official confirms to send SAMP/T defense systems to Kyiv.
 - 09/07 23:07 [FirstSquawk] FRENCH OFFICIAL CONFIRMS THAT FRANCE WILL SEND SAMP/T DEFENCE SYSTEMS TO KYIV
@@ -207,3 +205,7 @@
 - 09/08 10:41 [FirstSquawk] Flights to and from Indonesia's capital have resumed after ash from a volcanic eruption forced a two-day closure that halted nearly 3,000 flights - AP
 - 09/08 10:44 [financialjuice] Ukraine drone attack damages civilian infrastructure in Russia's Saratov region, some injured, governor says
 - 09/08 10:44 [FirstSquawk] Ukraine drone strike hits civilian infrastructure in Russia’s Saratov region, governor says
+- 09/08 10:49 [FirstSquawk] Vitol CEO says Middle East exports about 10 mln bpd of crude and petroleum products
+- 09/08 10:52 [FirstSquawk] Vitol CEO: 2–3 mln bpd of Saudi oil exports impacted by Bab el-Mandeb Strait
+- 09/08 10:56 [FirstSquawk] Vitol CEO says 5–6 mln bpd difference in China’s 2025 and 2026 crude imports is unsustainable
+- 09/08 10:58 [FirstSquawk] LME three-month copper reaches all-time high of $14,617 a metric ton
