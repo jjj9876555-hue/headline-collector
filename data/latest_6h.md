@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 07:16 JST／対象: 09/09 01:16 〜 09/09 07:16 JST（時刻はすべて日本時間）
+生成: 2026-09-09 07:32 JST／対象: 09/09 01:32 〜 09/09 07:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/09 02:40 | 09/09 05:33 | ⚠ 105分（03:46→05:31） |
-| FirstSquawk | 93 | 09/09 01:25 | 09/09 06:40 | 28分（01:25→01:53） |
-| financialjuice | 69 | 09/09 01:18 | 09/09 07:12 | 37分（06:28→07:05） |
+| FirstSquawk | 91 | 09/09 01:53 | 09/09 06:40 | 27分（03:13→03:40） |
+| financialjuice | 70 | 09/09 01:52 | 09/09 07:20 | 37分（06:28→07:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 159 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 158 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 01:18 [financialjuice] Qualcomm CFO: Next year, we expect to be the largest chip supplier to the automotive industry. $QCOM
-- 09/09 01:18 [financialjuice] Qualcomm CFO: Higher memory prices have had a limited impact on the premium smartphone market.
-- 09/09 01:25 [financialjuice] Qualcomm CFO: Qualcomm has another hyperscaler engagement.
-- 09/09 01:25 [FirstSquawk] QUALCOMM'S CFO ANNOUNCED A NEW PARTNERSHIP WITH A HYPERSCALER.
-- 09/09 01:25 [FirstSquawk] QUALCOMM STATES THAT THE SMARTPHONE MARKET IS AT A LOW POINT IN ITS CYCLE.
 - 09/09 01:52 [financialjuice] ❗ Al Hadath, citing Iranian Media: Tehran demands new conditions from Washington to resume negotiations.
 - 09/09 01:53 [FirstSquawk] IRANIAN MEDIA: TEHRAN DEMANDS NEW CONDITIONS FROM WASHINGTON TO RESUME NEGOTIATIONS.
 - 09/09 02:00 [financialjuice] Treasury WI 3-Year yield 4.475% before $58 billion auction.
@@ -183,3 +178,7 @@
 - 09/09 06:40 [FirstSquawk] GLOBALFOUNDRIES CEO SAYS DATA-CENTER DEMAND IS A “VERY STRONG DRIVER” FOR GROWTH AS AI WORKLOADS BECOME INCREASINGLY DATA-INTENSIVE. CEO SAYS OPTICAL CONNECTIVITY IS NOW A “WHEN, NOT IF” TRANSITION AND GLOBALFOUNDRIES COULD 10X SILICON-PHOT…
 - 09/09 07:05 [financialjuice] US Secretary of State Rubio: Trump wants to reach tariff deal with Colombia
 - 09/09 07:12 [financialjuice] US Secretary of State Rubio: Every time Iran targets US Navy ships, they will lose tankers
+- 09/09 07:17 [financialjuice] U.S. Central Command: forces destroyed five Iranian crude oil carriers Sept. 8 after Islamic Revolutionary Guard Corps targeted U.S. navy warship with ballistic missiles twice over past two days
+- 09/09 07:18 [financialjuice] U.S. Central Command: U.S. warship successfully avoided Iranian attack attempts
+- 09/09 07:18 [financialjuice] U.S. Central Command: No American personnel injured
+- 09/09 07:20 [financialjuice] Amazon: GPT-6 Astra from OpenAI now accessible on Amazon Bedrock - blog

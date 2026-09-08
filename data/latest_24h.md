@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 07:16 JST／対象: 09/08 07:16 〜 09/09 07:16 JST（時刻はすべて日本時間）
+生成: 2026-09-09 07:32 JST／対象: 09/08 07:32 〜 09/09 07:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
 | FirstSquawk | 428 | 09/08 08:36 | 09/09 06:40 | 28分（01:25→01:53） |
-| financialjuice | 333 | 09/08 07:45 | 09/09 07:12 | ⚠ 56分（15:45→16:42） |
+| financialjuice | 337 | 09/08 07:45 | 09/09 07:20 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 761 行（統合前 773 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 765 行（統合前 777 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -785,3 +785,7 @@
 - 09/09 06:40 [FirstSquawk] GLOBALFOUNDRIES CEO SAYS DATA-CENTER DEMAND IS A “VERY STRONG DRIVER” FOR GROWTH AS AI WORKLOADS BECOME INCREASINGLY DATA-INTENSIVE. CEO SAYS OPTICAL CONNECTIVITY IS NOW A “WHEN, NOT IF” TRANSITION AND GLOBALFOUNDRIES COULD 10X SILICON-PHOT…
 - 09/09 07:05 [financialjuice] US Secretary of State Rubio: Trump wants to reach tariff deal with Colombia
 - 09/09 07:12 [financialjuice] US Secretary of State Rubio: Every time Iran targets US Navy ships, they will lose tankers
+- 09/09 07:17 [financialjuice] U.S. Central Command: forces destroyed five Iranian crude oil carriers Sept. 8 after Islamic Revolutionary Guard Corps targeted U.S. navy warship with ballistic missiles twice over past two days
+- 09/09 07:18 [financialjuice] U.S. Central Command: U.S. warship successfully avoided Iranian attack attempts
+- 09/09 07:18 [financialjuice] U.S. Central Command: No American personnel injured
+- 09/09 07:20 [financialjuice] Amazon: GPT-6 Astra from OpenAI now accessible on Amazon Bedrock - blog

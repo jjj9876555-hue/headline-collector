@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 07:16 JST／対象: 09/08 19:16 〜 09/09 07:16 JST（時刻はすべて日本時間）
+生成: 2026-09-09 07:32 JST／対象: 09/08 19:32 〜 09/09 07:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 22:06 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 217 | 09/08 19:27 | 09/09 06:40 | 28分（01:25→01:53） |
-| financialjuice | 190 | 09/08 19:20 | 09/09 07:12 | 37分（06:28→07:05） |
+| FirstSquawk | 214 | 09/08 19:37 | 09/09 06:40 | 28分（01:25→01:53） |
+| financialjuice | 191 | 09/08 19:45 | 09/09 07:20 | 37分（06:28→07:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 406 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 404 行（統合前 416 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 19:20 [financialjuice] ❗ Qatar is working with its regional partners and China to resume talks between US and Iran - Foreign Ministry.
-- 09/08 19:23 [financialjuice] UK Government: To lay legislation which will tackle Iranian nuclear activity and other hostile Iranian activity.
-- 09/08 19:23 [financialjuice] UK Government: The legislation will further expand our powers to sanction ships.
-- 09/08 19:27 [FirstSquawk] BOSTON SCIENTIFIC UNLIKELY TO MEET FORECASTS AFTER CYBER ATTACK
-- 09/08 19:27 [FirstSquawk] UK GOVERNMENT: GENERAL LICENCE WILL ENABLE CONTINUED OPERATION OF THE SHAH DENIZ GAS FIELD IN AZERBAIJAN
-- 09/08 19:27 [FirstSquawk] BOSTON SCIENTIFIC SEES MATERIAL IMPACT ON Q3, FULL YEAR || SEES RECOVERING SOME PORTION OF IMPACTED REV.
 - 09/08 19:37 [FirstSquawk] BOTH DEMOCRATS AND REPUBLICANS ARE TARGETING THE SENATE SEAT THAT WILL BE VACATED BY DEMOCRATIC SEN. JEANNE SHAHEEN, WHO IS NOT RUNNING FOR REELECTION.
 - 09/08 19:39 [FirstSquawk] RUSSIA'S LAVROV: RUSSIA AND SAUDI ARABIA WILL CONTINUE TO COORDINATE CLOSELY WITHIN THE OPEC+ FRAMEWORK AND WILL AGREE ON COMMON APPROACHES
 - 09/08 19:45 [financialjuice] UK's Chancellor Healey: Starting to see UK economy turn a corner.
@@ -430,3 +424,7 @@
 - 09/09 06:40 [FirstSquawk] GLOBALFOUNDRIES CEO SAYS DATA-CENTER DEMAND IS A “VERY STRONG DRIVER” FOR GROWTH AS AI WORKLOADS BECOME INCREASINGLY DATA-INTENSIVE. CEO SAYS OPTICAL CONNECTIVITY IS NOW A “WHEN, NOT IF” TRANSITION AND GLOBALFOUNDRIES COULD 10X SILICON-PHOT…
 - 09/09 07:05 [financialjuice] US Secretary of State Rubio: Trump wants to reach tariff deal with Colombia
 - 09/09 07:12 [financialjuice] US Secretary of State Rubio: Every time Iran targets US Navy ships, they will lose tankers
+- 09/09 07:17 [financialjuice] U.S. Central Command: forces destroyed five Iranian crude oil carriers Sept. 8 after Islamic Revolutionary Guard Corps targeted U.S. navy warship with ballistic missiles twice over past two days
+- 09/09 07:18 [financialjuice] U.S. Central Command: U.S. warship successfully avoided Iranian attack attempts
+- 09/09 07:18 [financialjuice] U.S. Central Command: No American personnel injured
+- 09/09 07:20 [financialjuice] Amazon: GPT-6 Astra from OpenAI now accessible on Amazon Bedrock - blog
