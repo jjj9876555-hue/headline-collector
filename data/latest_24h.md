@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 04:32 JST／対象: 09/08 04:32 〜 09/09 04:32 JST（時刻はすべて日本時間）
+生成: 2026-09-09 04:44 JST／対象: 09/08 04:44 〜 09/09 04:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 06:42 | 09/09 03:46 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 399 | 09/08 04:56 | 09/09 04:28 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 302 | 09/08 04:43 | 09/09 04:31 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 400 | 09/08 04:56 | 09/09 04:34 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 303 | 09/08 04:54 | 09/09 04:40 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 704 行（統合前 712 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 705 行（統合前 714 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 04:43 [financialjuice] Nvidia's CEO Huang is on the UK King Charles' AI meeting guest list - Politico $NVDA
 - 09/08 04:54 [financialjuice] Stock Futures Face Pressure in Holiday-Thinned Trading as Middle East Escalation Drives Oil Higher – US Market Wrap
 - 09/08 04:56 [FirstSquawk] NVIDIA'S CEO HUANG IS ON UK KING CHARLES' AI MEETING GUEST LIST - POLITICO
 - 09/08 05:57 [FirstSquawk] POSTE ITALIANE HAS INCREASED ITS CONSIDERATION FOR THE TENDER OFFER ON TELECOM ITALIA AND WAIVED THE THRESHOLD CONDITION, ADDING A €0.30 CASH COMPONENT PER TIM SHARE TO TAKE THE AGGREGATE CASH COMPONENT PER TIM SHARE TO €1.97, WITH A MAXIMU…
@@ -727,4 +726,6 @@
 - 09/09 04:22 [financialjuice] Wednesday FX Options Expiries
 - 09/09 04:28 [FirstSquawk] OIL APPROACHES $100 AS NEW HOUTHI ATTACKS ON SAUDI ENERGY INFRASTRUCTURE AND EXPLOSIONS ON IRAN’S KHARG ISLAND HEIGHTEN GLOBAL SUPPLY FEARS.
 - 09/09 04:28 [FirstSquawk] BRENT RISES 1% TO $97.92 AND WTI JUMPS 1.7% TO $93.03 AS HORMUZ FLOWS REMAIN AROUND HALF PRE-WAR LEVELS, RAISING FRESH INFLATION AND REFINED-FUEL SUPPLY RISKS.
-- 09/09 04:31 [financialjuice] Iranian tanker was targeted by a US missile attack four miles from Kharg Island - Tasnim
+- 09/09 04:31 [financialjuice/FirstSquawk] Iranian tanker was targeted by a US missile attack four miles from Kharg Island - Tasnim
+- 09/09 04:37 [financialjuice] US military has struck targets near Kharg Island - Fox News
+- 09/09 04:40 [financialjuice] The US struck targets near Jask - Fox reporter citing US Officials.

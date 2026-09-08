@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 04:32 JST／対象: 09/08 22:32 〜 09/09 04:32 JST（時刻はすべて日本時間）
+生成: 2026-09-09 04:44 JST／対象: 09/08 22:44 〜 09/09 04:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/08 22:39 | 09/09 03:46 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 146 | 09/08 22:35 | 09/09 04:28 | 28分（01:25→01:53） |
-| financialjuice | 122 | 09/08 22:32 | 09/09 04:31 | 33分（02:38→03:12） |
+| DeItaone | 5 | 09/08 23:18 | 09/09 03:46 | ⚠ 118分（00:42→02:40） |
+| FirstSquawk | 142 | 09/08 22:46 | 09/09 04:34 | 28分（01:25→01:53） |
+| financialjuice | 115 | 09/08 22:45 | 09/09 04:40 | 33分（02:38→03:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 269 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 258 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 22:32 [financialjuice] BoE's Ramsden: The domestic inflation position is relatively benign.
-- 09/08 22:33 [financialjuice/FirstSquawk/DeItaone] US Defense Official: We must be prepared for a protracted conflict in Ukraine.
-- 09/08 22:33 [financialjuice] BoE's Ramsden: I get reassurance on inflation from the labour market.
-- 09/08 22:33 [financialjuice] BoE's Ramsden: UK wages have come in below what we expected before conflict.
-- 09/08 22:34 [financialjuice] BoE's Ramsden: Global inflationary picture is much more of upside inflation risk.
-- 09/08 22:35 [FirstSquawk] SENIOR PENTAGON OFFICIAL: U.S. BELIEVES ALLIES CAN AND WILL LEAD UKRAINE'S SELF-DEFENSE
-- 09/08 22:36 [FirstSquawk] UKRAINE IS CONTRACTING SUPPLY OF ABOUT 1,000 MISSILES FROM ALLIES, DEFENCE MINISTER SAYS
-- 09/08 22:36 [financialjuice] BoE's Ramsden: I am comfortable with policy but I am very conscious of upside risk.
-- 09/08 22:38 [financialjuice] BoE Gov. Bailey: The rise in UK mortgage rates is larger than almost anywhere in the G7.
-- 09/08 22:41 [FirstSquawk] BAILEY: UK'S HAD LARGEST RISE IN MORTGAGE RATES IN THE G7
-- 09/08 22:43 [financialjuice] BoE’s Greene: There different views on the MPC about inflation path pre-war.
-- 09/08 22:44 [financialjuice] BoE Gov. Bailey: Risks to inflation are to the upside.
-- 09/08 22:44 [FirstSquawk] BOE’S BAILEY: INFLATION RISKS ARE TO THE UPSIDE
 - 09/08 22:45 [financialjuice] BoE Gov. Bailey: The market's BoE rate curve reflects investors' concern about further energy price rises.
 - 09/08 22:45 [financialjuice] BoE Gov. Bailey: I want to dispel idea that we have secret plan to raise rates, unconditionally.
 - 09/08 22:46 [FirstSquawk] BOE'S BAILEY: I WANT TO DISPEL IDEA THAT WE HAVE SECRET PLAN TO RAISE RATES, UNCONDITIONALLY
@@ -292,4 +279,6 @@
 - 09/09 04:22 [financialjuice] Wednesday FX Options Expiries
 - 09/09 04:28 [FirstSquawk] OIL APPROACHES $100 AS NEW HOUTHI ATTACKS ON SAUDI ENERGY INFRASTRUCTURE AND EXPLOSIONS ON IRAN’S KHARG ISLAND HEIGHTEN GLOBAL SUPPLY FEARS.
 - 09/09 04:28 [FirstSquawk] BRENT RISES 1% TO $97.92 AND WTI JUMPS 1.7% TO $93.03 AS HORMUZ FLOWS REMAIN AROUND HALF PRE-WAR LEVELS, RAISING FRESH INFLATION AND REFINED-FUEL SUPPLY RISKS.
-- 09/09 04:31 [financialjuice] Iranian tanker was targeted by a US missile attack four miles from Kharg Island - Tasnim
+- 09/09 04:31 [financialjuice/FirstSquawk] Iranian tanker was targeted by a US missile attack four miles from Kharg Island - Tasnim
+- 09/09 04:37 [financialjuice] US military has struck targets near Kharg Island - Fox News
+- 09/09 04:40 [financialjuice] The US struck targets near Jask - Fox reporter citing US Officials.

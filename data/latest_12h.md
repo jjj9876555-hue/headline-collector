@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 04:32 JST／対象: 09/08 16:32 〜 09/09 04:32 JST（時刻はすべて日本時間）
+生成: 2026-09-09 04:44 JST／対象: 09/08 16:44 〜 09/09 04:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 17:32 | 09/09 03:46 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 227 | 09/08 16:36 | 09/09 04:28 | 28分（01:25→01:53） |
-| financialjuice | 174 | 09/08 16:42 | 09/09 04:31 | 40分（16:42→17:22） |
+| FirstSquawk | 223 | 09/08 16:48 | 09/09 04:34 | 28分（01:25→01:53） |
+| financialjuice | 175 | 09/08 17:22 | 09/09 04:40 | 33分（02:38→03:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 403 行（統合前 411 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 399 行（統合前 408 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 16:36 [FirstSquawk] QATAR, KUWAIT AND BAHRAIN CONDEMNED THE IRAN-BACKED HOUTHI ATTACKS ON CIVILIAN AND ECONOMIC SITES IN SOUTHERN SAUDI ARABIA AND EXPRESSED SOLIDARITY WITH THE COUNTRY.
-- 09/08 16:39 [FirstSquawk] GLOBAL SHIPPING AUTHORITIES WARN OF MARITIME TRADE BREAKDOWN AMID GEOPOLITICAL TURMOIL
-- 09/08 16:42 [financialjuice] 3this: launched Attacks towards Aramco facilities in Abha, Najran, and Jizan.
-- 09/08 16:43 [FirstSquawk] HOUTHIS CLAIM TARGETING ARAMCO FACILITIES IN ABHA AND NAJRAN
-- 09/08 16:43 [FirstSquawk] HOUTHIS CLAIM TARGETING ARAMCO IN JAZAN
-- 09/08 16:43 [FirstSquawk] BRITAIN'S GOVERNMENT ANNOUNCED ON TUESDAY IT IS COMMITTING £100 MILLION ($135 MILLION) TO BOOST UKRAINE'S AIR DEFENCE CAPABILITIES THIS WINTER, INCLUDING WITH PATRIOT MISSILES
 - 09/08 16:48 [FirstSquawk] AUSTRALIAN DOLLAR ROSE TO A FRESH 13-YEAR HIGH AGAINST THE NEW ZEALAND KIWI
 - 09/08 17:09 [FirstSquawk] GERMAN INTERIOR MINISTER ALEXANDER DOBRINDT: WHOEVER IS ATTACKING OUR INFRASTRUCTURE HAS TO KNOW: WE CAN STRIKE BACK, AND WE CAN DISRUPT AND DESTROY THEIR INFRASTRUCTURE. WE WILL NOT ALLOW OURSELVES, AS A SOCIETY, TO BE PERMANENTLY PUT UNDE…
 - 09/08 17:09 [FirstSquawk] UAE DIRECTLY WARNED NETANYAHU BEFORE OCT. 7, HE DISREGARDED IT UAE PRESIDENT WARNED NETANYAHU ABOUT A MAJOR OPERATION BEING PREPARED BY HAMAS ROUGHLY 10 DAYS BEFORE THE ATTACK. NETANYAHU PLAYED DOWN THE THREAT AND DID NOT BRIEF ISRAEL’S SEC…
@@ -426,4 +420,6 @@
 - 09/09 04:22 [financialjuice] Wednesday FX Options Expiries
 - 09/09 04:28 [FirstSquawk] OIL APPROACHES $100 AS NEW HOUTHI ATTACKS ON SAUDI ENERGY INFRASTRUCTURE AND EXPLOSIONS ON IRAN’S KHARG ISLAND HEIGHTEN GLOBAL SUPPLY FEARS.
 - 09/09 04:28 [FirstSquawk] BRENT RISES 1% TO $97.92 AND WTI JUMPS 1.7% TO $93.03 AS HORMUZ FLOWS REMAIN AROUND HALF PRE-WAR LEVELS, RAISING FRESH INFLATION AND REFINED-FUEL SUPPLY RISKS.
-- 09/09 04:31 [financialjuice] Iranian tanker was targeted by a US missile attack four miles from Kharg Island - Tasnim
+- 09/09 04:31 [financialjuice/FirstSquawk] Iranian tanker was targeted by a US missile attack four miles from Kharg Island - Tasnim
+- 09/09 04:37 [financialjuice] US military has struck targets near Kharg Island - Fox News
+- 09/09 04:40 [financialjuice] The US struck targets near Jask - Fox reporter citing US Officials.
