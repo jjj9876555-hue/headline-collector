@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 20:43 JST／対象: 09/08 14:43 〜 09/08 20:43 JST（時刻はすべて日本時間）
+生成: 2026-09-08 20:59 JST／対象: 09/08 14:59 〜 09/08 20:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 80 | 09/08 14:45 | 09/08 20:40 | 22分（15:53→16:15） |
-| financialjuice | 36 | 09/08 15:00 | 09/08 20:30 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 79 | 09/08 15:01 | 09/08 20:55 | 22分（15:53→16:15） |
+| financialjuice | 37 | 09/08 15:00 | 09/08 20:45 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 116 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 14:45 [FirstSquawk] CHINA’S TRADE SURPLUS WIDENS AS EXPORT GROWTH ACCELERATES-WSJ
-- 09/08 14:50 [FirstSquawk] Brent rises $1 to $98/bbl after Saudi Arabia says Houthis targeted energy facilities and utilities
-- 09/08 14:51 [FirstSquawk] Russia targets Ukraine with dozens of missiles and 166 drones in overnight attack, Air Force says
-- 09/08 14:55 [FirstSquawk] Morgan Stanley cuts BE Semiconductor target price to EUR 220 from EUR 260
 - 09/08 15:00 [financialjuice] GERMAN IMPORTS MOM SA ACTUAL -5.7% (FORECAST -1%, PREVIOUS 4.4%) $MACRO
 - 09/08 15:00 [financialjuice] GERMAN TRADE BALANCE SA ACTUAL 21.3B (FORECAST 15.8B, PREVIOUS 15.4B) $MACRO
 - 09/08 15:00 [financialjuice] GERMAN EXPORTS MOM SA ACTUAL -0.8% (FORECAST 0.3%, PREVIOUS 0.9%) $MACRO
@@ -140,3 +136,7 @@
 - 09/08 20:30 [financialjuice] Quantum Cyber buys NVIDIA A100 AI compute cluster.
 - 09/08 20:33 [FirstSquawk] GE AEROSPACE TO BUY CONSOLIDATED PRECISION PRODUCTS FOR $11.75B
 - 09/08 20:40 [FirstSquawk] PHILLIP MORRIS Q3 2026 GUIDANCE UPDATE EQUITY - SEES Q3 ADJ EPS $2.29 TO $2.34, SAW $2.20 TO $2.25 || SEES FY ADJ EPS $8.35 TO $8.50, SAW $8.26 TO $8.41
+- 09/08 20:45 [financialjuice] Russia’s Deputy PM Novak proposes pre-set fuel import volumes from Russia - IFX
+- 09/08 20:47 [FirstSquawk] ASTRAZENECA- TOZORAKIMAB SHOWS STATISTICALLY SIGNIFICANT,CLINICALLY MEANINGFUL REDUCTION IN COPD EXACERBATIONS IN OBERON, TITANIA PHASE III TRIALS || ASTRAZENECA- TOZORAKIMAB 300MG SHOWS REDUCTION IN MODERATE, SEVERE COPD EXACERBATIONS IN O…
+- 09/08 20:47 [FirstSquawk] ASTRAZENECA- TOZORAKIMAB 300MG SHOWS REDUCTION IN MODERATE, SEVERE COPD EXACERBATIONS IN OVERALL CURRENT, FORMER SMOKER POPULATION BY 29% IN TITANIA
+- 09/08 20:55 [FirstSquawk] INDONESIA TO TAKE CONTROL OF CHINA-FUNDED WHOOSH RAIL OPERATOR
