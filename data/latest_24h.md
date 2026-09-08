@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 10:59 JST／対象: 09/07 10:59 〜 09/08 10:59 JST（時刻はすべて日本時間）
+生成: 2026-09-08 11:18 JST／対象: 09/07 11:18 〜 09/08 11:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 276 | 09/07 11:01 | 09/08 10:58 | ⚠ 158分（05:58→08:36） |
+| FirstSquawk | 275 | 09/07 11:20 | 09/08 11:14 | ⚠ 158分（05:58→08:36） |
 | financialjuice | 115 | 09/07 11:26 | 09/08 10:44 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 393 行（統合前 403 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 392 行（統合前 402 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 11:01 [FirstSquawk] Most-active coking coal contract in China slides more than 3%
-- 09/07 11:02 [FirstSquawk] China’s most-active coking coal contract drops 3.7% to 1,608 yuan per metric ton, lowest since Aug. 28
-- 09/07 11:03 [FirstSquawk] Indonesia’s main Jakarta airport to remain closed until 6 p.m. local time Monday
-- 09/07 11:08 [FirstSquawk] S. Korea exports to India jump over 30 pct in Jan.-Aug. on chip demand - yonhap
-- 09/07 11:12 [FirstSquawk] Yemen’s armed forces say 13 air strikes were carried out against Houthi positions
-- 09/07 11:16 [FirstSquawk] Goldman boosts Asia ex-Japan index target for one big reason - CNBC
 - 09/07 11:20 [FirstSquawk] Chevron makes $7 billion Venezuela oil gamble amid low costs and political risks
 - 09/07 11:26 [financialjuice] South Korea pension fund pauses foreign exchange hedging: market source says
 - 09/07 11:26 [FirstSquawk] South Korea’s pension fund halts foreign exchange hedging, market RTRS say
@@ -417,3 +411,8 @@
 - 09/08 10:52 [FirstSquawk] Vitol CEO: 2–3 mln bpd of Saudi oil exports impacted by Bab el-Mandeb Strait
 - 09/08 10:56 [FirstSquawk] Vitol CEO says 5–6 mln bpd difference in China’s 2025 and 2026 crude imports is unsustainable
 - 09/08 10:58 [FirstSquawk] LME three-month copper reaches all-time high of $14,617 a metric ton
+- 09/08 11:02 [FirstSquawk] Canadian dollar advances as US dollar remains under pressure despite rising Fed hike bets
+- 09/08 11:03 [FirstSquawk] Vitol CEO: Global oil demand expected to decline 1.5 mln bpd in 2026 from 2025
+- 09/08 11:03 [FirstSquawk] Russia imported 500,000-600,000 tons of gasoline monthly during summer, Vitol CEO says
+- 09/08 11:08 [FirstSquawk] Yen surges to six-month high as traders stay alert for signs of intervention - FT
+- 09/08 11:14 [FirstSquawk] Samsung SDS to expand partnerships with OpenAI, Anthropic to drive AI transformation - YONHAP
