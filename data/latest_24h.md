@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 16:53 JST／対象: 09/07 16:53 〜 09/08 16:53 JST（時刻はすべて日本時間）
+生成: 2026-09-08 17:07 JST／対象: 09/07 17:07 〜 09/08 17:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 292 | 09/07 16:54 | 09/08 16:48 | ⚠ 158分（05:58→08:36） |
+| FirstSquawk | 288 | 09/07 17:08 | 09/08 16:48 | ⚠ 158分（05:58→08:36） |
 | financialjuice | 173 | 09/07 17:18 | 09/08 16:42 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 467 行（統合前 475 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 463 行（統合前 471 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 16:54 [FirstSquawk] IRAN: TO REACH ACCORD ON TEMPORARY HORMUZ ROUTE IN COMING DAYS
-- 09/07 16:56 [FirstSquawk] IRAN'S BAGHAEI SAYS QATARI DELEGATION WAS IN IRAN ON SUNDAY TO HELP DE-ESCALATE TENSIONS
-- 09/07 17:01 [FirstSquawk] GOOGLE, CATHAY USE AI TO TACKLE AVIATION’S TOP CLIMATE HEADACHE
-- 09/07 17:02 [FirstSquawk] CHINA END-AUG. GOLD RESERVES $350.08B
 - 09/07 17:08 [FirstSquawk] USD/JPY NOW DOWN 0.5%, AFTER DROPPING 0.6% TO NEW DAY LOW
 - 09/07 17:09 [FirstSquawk] YEN CLIMBS TO HIGHEST LEVEL SINCE MAY, EXCEEDING INTERVENTION BOOST.
 - 09/07 17:14 [FirstSquawk] HUAWEI UNVEILS FIRST TRIPLE-FOLD PHONE WITH 'US-FREE' CORE CHIPS

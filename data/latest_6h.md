@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 16:53 JST／対象: 09/08 10:53 〜 09/08 16:53 JST（時刻はすべて日本時間）
+生成: 2026-09-08 17:07 JST／対象: 09/08 11:07 〜 09/08 17:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 112 | 09/08 10:56 | 09/08 16:48 | 22分（15:53→16:15） |
+| FirstSquawk | 107 | 09/08 11:08 | 09/08 16:48 | 22分（15:53→16:15） |
 | financialjuice | 68 | 09/08 11:24 | 09/08 16:42 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 180 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 175 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 10:56 [FirstSquawk] Vitol CEO says 5–6 mln bpd difference in China’s 2025 and 2026 crude imports is unsustainable
-- 09/08 10:58 [FirstSquawk] LME three-month copper reaches all-time high of $14,617 a metric ton
-- 09/08 11:02 [FirstSquawk] Canadian dollar advances as US dollar remains under pressure despite rising Fed hike bets
-- 09/08 11:03 [FirstSquawk] Vitol CEO: Global oil demand expected to decline 1.5 mln bpd in 2026 from 2025
-- 09/08 11:03 [FirstSquawk] Russia imported 500,000-600,000 tons of gasoline monthly during summer, Vitol CEO says
 - 09/08 11:08 [FirstSquawk] Yen surges to six-month high as traders stay alert for signs of intervention - FT
 - 09/08 11:14 [FirstSquawk] Samsung SDS to expand partnerships with OpenAI, Anthropic to drive AI transformation - YONHAP
 - 09/08 11:18 [FirstSquawk] IAEA says S. Korea notifies intent to consult on safeguards arrangement for nuclear-powered subs - YONHAP
