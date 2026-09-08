@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 22:40 JST／対象: 09/07 22:40 〜 09/08 22:40 JST（時刻はすべて日本時間）
+生成: 2026-09-08 22:55 JST／対象: 09/07 22:55 〜 09/08 22:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 13 | 09/08 00:17 | 09/08 22:39 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 291 | 09/07 22:41 | 09/08 22:36 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 204 | 09/07 22:45 | 09/08 22:38 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 293 | 09/07 22:56 | 09/08 22:48 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 207 | 09/07 23:01 | 09/08 22:45 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 503 行（統合前 509 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 508 行（統合前 514 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 22:41 [FirstSquawk] OIL TANKER FIRE OFF KHARG ISLAND EXTINGUISHED, NO OIL LEAK - FARS
-- 09/07 22:45 [financialjuice] Russian Foreign Ministry closes the German consulate in St. Petersburg - Ria.
-- 09/07 22:51 [FirstSquawk] SERBIA'S GOVERNMENT SEEKS DISSOLUTION OF PARLIAMENT, TO PAVE THE WAY FOR SNAP ELECTIONS
 - 09/07 22:56 [FirstSquawk] JAGUAR LAND ROVER WILL CUT 4K JOBS TO COMPETE WITH CHINA - AP
 - 09/07 23:01 [financialjuice] French Official confirms sending SAMP/T defense systems to Kyiv.
 - 09/07 23:02 [financialjuice] French Official confirms to send SAMP/T defense systems to Kyiv.
@@ -527,3 +524,11 @@
 - 09/08 22:36 [FirstSquawk] UKRAINE IS CONTRACTING SUPPLY OF ABOUT 1,000 MISSILES FROM ALLIES, DEFENCE MINISTER SAYS
 - 09/08 22:36 [financialjuice] BoE's Ramsden: I am comfortable with policy but I am very conscious of upside risk.
 - 09/08 22:38 [financialjuice] BoE Gov. Bailey: The rise in UK mortgage rates is larger than almost anywhere in the G7.
+- 09/08 22:41 [FirstSquawk] BAILEY: UK'S HAD LARGEST RISE IN MORTGAGE RATES IN THE G7
+- 09/08 22:43 [financialjuice] BoE’s Greene: There different views on the MPC about inflation path pre-war.
+- 09/08 22:44 [financialjuice] BoE Gov. Bailey: Risks to inflation are to the upside.
+- 09/08 22:44 [FirstSquawk] BOE’S BAILEY: INFLATION RISKS ARE TO THE UPSIDE
+- 09/08 22:45 [financialjuice] BoE Gov. Bailey: The market's BoE rate curve reflects investors' concern about further energy price rises.
+- 09/08 22:45 [financialjuice] BoE Gov. Bailey: I want to dispel idea that we have secret plan to raise rates, unconditionally.
+- 09/08 22:46 [FirstSquawk] BOE'S BAILEY: I WANT TO DISPEL IDEA THAT WE HAVE SECRET PLAN TO RAISE RATES, UNCONDITIONALLY
+- 09/08 22:48 [FirstSquawk] CERBERUS NEARS £1B DEAL TO BUY GOODWIN DEFENCE UNIT, FT SAYS
