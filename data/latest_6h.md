@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 02:04 JST／対象: 09/08 20:04 〜 09/09 02:04 JST（時刻はすべて日本時間）
+生成: 2026-09-09 02:25 JST／対象: 09/08 20:25 〜 09/09 02:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/08 22:06 | 09/09 00:42 | ⚠ 52分（23:50→00:42） |
-| FirstSquawk | 120 | 09/08 20:06 | 09/09 02:02 | 28分（01:25→01:53） |
-| financialjuice | 126 | 09/08 20:18 | 09/09 02:04 | 27分（01:25→01:52） |
+| FirstSquawk | 118 | 09/08 20:30 | 09/09 02:07 | 28分（01:25→01:53） |
+| financialjuice | 126 | 09/08 20:30 | 09/09 02:12 | 27分（01:25→01:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 249 行（統合前 253 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 247 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 20:06 [FirstSquawk] UK HAS RECORDED ITS HIGHEST BOND SALE YIELD SINCE 1998.
-- 09/08 20:12 [FirstSquawk] INDIA, CHINA ARMY COMMANDERS HELD BORDER TALKS ON SUNDAY: FOREIGN MINISTRY
-- 09/08 20:15 [FirstSquawk] UK OFFICIALS ARE CONCERNED THAT THE SANCTIONS ANNOUNCEMENT MAY STRAIN BURNHAM'S RELATIONSHIP WITH TRUMP, ACCORDING TO THE TIMES.
-- 09/08 20:18 [financialjuice] US seeks more access to Venezuela's minerals.
-- 09/08 20:22 [FirstSquawk] IRAN HAS CONVEYED ITS CONDITIONS TO THE US THROUGH INTERMEDIARIES AFTER WASHINGTON RECENTLY SENT NEW PROPOSALS TO TEHRAN
-- 09/08 20:22 [financialjuice] Commerce Department reaches $100m deal with D-wave under chips act.
 - 09/08 20:30 [FirstSquawk] JEFFERIES FUND ACCUSES RADIANT WORLD OF FRAUD IN LONDON LAWSUIT
 - 09/08 20:30 [financialjuice] Quantum Cyber buys NVIDIA A100 AI compute cluster.
 - 09/08 20:33 [FirstSquawk] GE AEROSPACE TO BUY CONSOLIDATED PRECISION PRODUCTS FOR $11.75B
@@ -273,3 +267,7 @@
 - 09/09 02:02 [financialjuice] US 3-YEAR NOTE BID-TO-COVER ACTUAL 2.720 (FORECAST -, PREVIOUS 2.710) $MACRO
 - 09/09 02:03 [financialjuice] US 3-Year Note Auction High Yield 4.474% [Stop-through 0.1 bps] Bid-to-cover 2.72 Sells 58 bln Awards 29.35% of bids at high Primary Dealers take 10.9% Direct 26.9% Indirect 62.1%
 - 09/09 02:04 [financialjuice] Saudi Arabia: Early warning issued in Najran and Abha province.
+- 09/09 02:07 [FirstSquawk] US 3-Year Note Sale: - High Yield Rate: 4.474% (prev 4.291%) - Bid-Cover Ratio: 2.72 (prev 2.71) - Direct Accepted: 26.9% (prev 24.0%) - Indirect Accepted: 62.1% (prev 64.2%) - WI: 4.475%
+- 09/09 02:07 [FirstSquawk] Danger Has Passed In Jazan Province – Saudi Civil Defence
+- 09/09 02:08 [financialjuice] Saudi Arabia: Danger passed in Abha and Jazan after warning.
+- 09/09 02:12 [financialjuice] Saudi Arabia: Danger passed in the Najran province

@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 02:04 JST／対象: 09/08 02:04 〜 09/09 02:04 JST（時刻はすべて日本時間）
+生成: 2026-09-09 02:25 JST／対象: 09/08 02:25 〜 09/09 02:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 14 | 09/08 02:28 | 09/09 00:42 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 350 | 09/08 02:51 | 09/09 02:02 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 281 | 09/08 02:40 | 09/09 02:04 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 352 | 09/08 02:51 | 09/09 02:07 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 283 | 09/08 02:40 | 09/09 02:12 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 641 行（統合前 646 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 645 行（統合前 650 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -665,3 +665,7 @@
 - 09/09 02:02 [financialjuice] US 3-YEAR NOTE BID-TO-COVER ACTUAL 2.720 (FORECAST -, PREVIOUS 2.710) $MACRO
 - 09/09 02:03 [financialjuice] US 3-Year Note Auction High Yield 4.474% [Stop-through 0.1 bps] Bid-to-cover 2.72 Sells 58 bln Awards 29.35% of bids at high Primary Dealers take 10.9% Direct 26.9% Indirect 62.1%
 - 09/09 02:04 [financialjuice] Saudi Arabia: Early warning issued in Najran and Abha province.
+- 09/09 02:07 [FirstSquawk] US 3-Year Note Sale: - High Yield Rate: 4.474% (prev 4.291%) - Bid-Cover Ratio: 2.72 (prev 2.71) - Direct Accepted: 26.9% (prev 24.0%) - Indirect Accepted: 62.1% (prev 64.2%) - WI: 4.475%
+- 09/09 02:07 [FirstSquawk] Danger Has Passed In Jazan Province – Saudi Civil Defence
+- 09/09 02:08 [financialjuice] Saudi Arabia: Danger passed in Abha and Jazan after warning.
+- 09/09 02:12 [financialjuice] Saudi Arabia: Danger passed in the Najran province

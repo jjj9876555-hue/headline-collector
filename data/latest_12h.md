@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 02:04 JST／対象: 09/08 14:04 〜 09/09 02:04 JST（時刻はすべて日本時間）
+生成: 2026-09-09 02:25 JST／対象: 09/08 14:25 〜 09/09 02:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/08 17:32 | 09/09 00:42 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 200 | 09/08 14:08 | 09/09 02:02 | 28分（01:25→01:53） |
-| financialjuice | 163 | 09/08 14:04 | 09/09 02:04 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 199 | 09/08 14:27 | 09/09 02:07 | 28分（01:25→01:53） |
+| financialjuice | 161 | 09/08 15:00 | 09/09 02:12 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 366 行（統合前 371 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 363 行（統合前 368 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 14:04 [financialjuice] UK govt commits £100 mln to air defence package including Patriot missiles to boost Ukraine
-- 09/08 14:08 [FirstSquawk] Berenberg lifts Keller Group target price to 3,450p from 3,300p
-- 09/08 14:13 [FirstSquawk] Sri Lanka’s Ceylon Petroleum Corp plans to double refining capacity to 100,000 bpd in four years
-- 09/08 14:13 [FirstSquawk] Sri Lanka’s Ceylon Petroleum Corp seeks foreign partners with crude supplies for refining capacity expansion
-- 09/08 14:23 [financialjuice] Saudis say energy facilities targeted on September 8
-- 09/08 14:23 [financialjuice] Saudis say fire erupted in several energy sites.
-- 09/08 14:23 [financialjuice] Saudis say operations at some energy sites halted.
 - 09/08 14:27 [FirstSquawk] Saudi Energy Ministry: Authorities focused on facility and personnel safety and continuity of operations
 - 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Attacks sparked fires at several sites, temporarily suspending some operations
 - 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Energy facilities and utilities in the kingdom’s southern region targeted Tuesday morning
@@ -390,3 +383,7 @@
 - 09/09 02:02 [financialjuice] US 3-YEAR NOTE BID-TO-COVER ACTUAL 2.720 (FORECAST -, PREVIOUS 2.710) $MACRO
 - 09/09 02:03 [financialjuice] US 3-Year Note Auction High Yield 4.474% [Stop-through 0.1 bps] Bid-to-cover 2.72 Sells 58 bln Awards 29.35% of bids at high Primary Dealers take 10.9% Direct 26.9% Indirect 62.1%
 - 09/09 02:04 [financialjuice] Saudi Arabia: Early warning issued in Najran and Abha province.
+- 09/09 02:07 [FirstSquawk] US 3-Year Note Sale: - High Yield Rate: 4.474% (prev 4.291%) - Bid-Cover Ratio: 2.72 (prev 2.71) - Direct Accepted: 26.9% (prev 24.0%) - Indirect Accepted: 62.1% (prev 64.2%) - WI: 4.475%
+- 09/09 02:07 [FirstSquawk] Danger Has Passed In Jazan Province – Saudi Civil Defence
+- 09/09 02:08 [financialjuice] Saudi Arabia: Danger passed in Abha and Jazan after warning.
+- 09/09 02:12 [financialjuice] Saudi Arabia: Danger passed in the Najran province
