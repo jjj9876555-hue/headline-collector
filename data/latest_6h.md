@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 14:58 JST／対象: 09/08 08:58 〜 09/08 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-08 15:23 JST／対象: 09/08 09:23 〜 09/08 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 144 | 09/08 09:02 | 09/08 14:55 | 14分（14:13→14:27） |
-| financialjuice | 81 | 09/08 09:20 | 09/08 14:23 | 40分（10:44→11:24） |
+| FirstSquawk | 141 | 09/08 09:24 | 09/08 15:23 | 14分（14:13→14:27） |
+| financialjuice | 88 | 09/08 09:30 | 09/08 15:05 | 40分（10:44→11:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 225 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 229 行（統合前 229 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 09:02 [FirstSquawk] GOLD HOLDS NEAR $4,400 AS MIDDLE EAST TENSIONS SUPPORT SAFE-HAVEN DEMAND, WHILE FED RATE-HIKE BETS AND UPCOMING US CPI CAP THE UPSIDE. || SPOT GOLD TRADES AROUND $4,410 AS A WEAKER DOLLAR OFFSETS HIGHER OIL-DRIVEN INFLATION RISKS; MARKETS P…
-- 09/08 09:07 [FirstSquawk] AUSTRALIA'S S&P/ASX 200 INDEX DOWN 0.2% AT 8,995.30 POINTS IN EARLY TRADE
-- 09/08 09:12 [FirstSquawk] TAIWAN STOCK EXCHANGE TO HOLD EMERGENCY MEETING WITH 10+ MAJOR BROKERAGES ON CYBERSECURITY, MARKET RESILIENCE AND INVESTOR PROTECTION.
-- 09/08 09:12 [FirstSquawk] TWSE WILL ALSO DISCUSS CAPITAL-RAISING PLANS AND ODD-LOT TRADING REFORMS AS TAIWAN STRENGTHENS FINANCIAL-MARKET SECURITY AND OPERATIONAL INFRASTRUCTURE.
-- 09/08 09:15 [FirstSquawk] Myanmar military intensifies operations to retake China project areas - NA
-- 09/08 09:19 [FirstSquawk] Hunter Biden (and His Laptop) Enter the Cryptosphere With New Meme Coin The personal computer that launched a thousand memes will debut this week as a digital token - WSJ
-- 09/08 09:19 [FirstSquawk] JAPAN’S Q2 GDP GROWS 1.4% ANNUALIZED, BEATING THE 1.1% PRELIMINARY ESTIMATE AND STRENGTHENING THE CASE FOR A BOJ RATE HIKE. || CAPITAL SPENDING FELL JUST 0.9% Q/Q, BETTER THAN INITIALLY REPORTED, WHILE MARKETS NOW ALMOST FULLY PRICE A SEPTE…
-- 09/08 09:20 [FirstSquawk] Greenland Seeks to Turn Peril Into Profit After Trump’s Threats to Take It Over - WSJ
-- 09/08 09:20 [financialjuice] China PBOC likely to set yuan midpoint at 6.7104 per dollar: estimate
-- 09/08 09:21 [FirstSquawk] SOFTBANK GROUP SHARES GAIN 4%
-- 09/08 09:22 [FirstSquawk] OIL RISES AS REPORTS OF A STRIKE ON SAUDI ARAMCO’S JAZAN REFINERY ADD TO US-IRAN SHIPPING RISKS, WITH WTI AT $92.43 AND BRENT AT $97.07. || HORMUZ TENSIONS, THREATS OF A NEW EXCLUSION ZONE AND RECORD US GASOLINE PRICES ARE RAISING SUPPLY AN…
-- 09/08 09:22 [FirstSquawk] Goldman raises Brent/WTI price forecasts by $5 to $85/80 for Dec2026 and to $80/75 for 2027, reflecting new assumption that Mideast shipping disruptions continue into 2027 - ZEROHEDGE
 - 09/08 09:24 [FirstSquawk] Nikkei Falls 0.6%, Dragged by Electronics, Machinery Stocks - WSJ
 - 09/08 09:25 [FirstSquawk] Oil Rises Amid Fears of More Supply Disruptions in Middle East - WSJ
 - 09/08 09:25 [FirstSquawk] DEADLY AMAZON CARGO JET CRASH AT MIAMI AIRPORT REIGNITES DEBATE OVER MANDATORY EMAS RUNWAY SAFETY SYSTEMS AFTER FIVE PEOPLE WERE KILLED.
@@ -249,3 +237,19 @@
 - 09/08 14:50 [FirstSquawk] Brent rises $1 to $98/bbl after Saudi Arabia says Houthis targeted energy facilities and utilities
 - 09/08 14:51 [FirstSquawk] Russia targets Ukraine with dozens of missiles and 166 drones in overnight attack, Air Force says
 - 09/08 14:55 [FirstSquawk] Morgan Stanley cuts BE Semiconductor target price to EUR 220 from EUR 260
+- 09/08 15:00 [financialjuice] GERMAN IMPORTS MOM SA ACTUAL -5.7% (FORECAST -1%, PREVIOUS 4.4%) $MACRO
+- 09/08 15:00 [financialjuice] GERMAN TRADE BALANCE SA ACTUAL 21.3B (FORECAST 15.8B, PREVIOUS 15.4B) $MACRO
+- 09/08 15:00 [financialjuice] GERMAN EXPORTS MOM SA ACTUAL -0.8% (FORECAST 0.3%, PREVIOUS 0.9%) $MACRO
+- 09/08 15:00 [financialjuice] Yemen's Houthi Military Spokesperson: Group will announce broad military operation deep into Saudi territory.
+- 09/08 15:01 [FirstSquawk] GERMANY (JUL) TRADE BALANCE SA ACTUAL: 21.3B VS 15.4B PREVIOUS;EST 15.8B
+- 09/08 15:01 [FirstSquawk] GERMANY (JUL) EXPORTS SA MOM ACTUAL: -0.8% VS 0.9% PREVIOUS;EST 0.3%
+- 09/08 15:01 [FirstSquawk] GERMANY (JUL) IMPORTS SA MOM ACTUAL: -5.7% VS 4.4% PREVIOUS;EST -1.0%
+- 09/08 15:02 [financialjuice] ASML, TSMC announce initiative to pioneer industry transition.
+- 09/08 15:04 [FirstSquawk] Yemen’s Houthis to announce broad military operation deep into Saudi territory, military spokesperson says
+- 09/08 15:04 [financialjuice] Japan PM Takaichi to retain Koichi Hagiuda in reshuffle - Yomiuri.
+- 09/08 15:05 [financialjuice] Samsung plans to use ASML top tool for DRAM production by 2028.
+- 09/08 15:05 [financialjuice] TSMC plans to use ASML top tool for advanced nodes from 2030.
+- 09/08 15:12 [FirstSquawk] 40-year JGB yield declines 6.5 basis points to 4.025%
+- 09/08 15:12 [FirstSquawk] Samsung Electronics, ASML expand collaboration on next-generation semiconductor manufacturing
+- 09/08 15:18 [FirstSquawk] Ukrainian attack on Russia’s Bryansk region kills 1, injures 3, acting governor says
+- 09/08 15:23 [FirstSquawk] Australia’s S&P/ASX 200 ends 1% lower at 8,920.80 points

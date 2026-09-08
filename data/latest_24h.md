@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 14:58 JST／対象: 09/07 14:58 〜 09/08 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-08 15:23 JST／対象: 09/07 15:23 〜 09/08 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 312 | 09/07 15:02 | 09/08 14:55 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 169 | 09/07 15:00 | 09/08 14:23 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 301 | 09/07 15:30 | 09/08 15:23 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 173 | 09/07 16:00 | 09/08 15:05 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 483 行（統合前 491 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 476 行（統合前 484 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION MOM ACTUAL -1.1% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
-- 09/07 15:00 [financialjuice] ❗ GERMAN INDUSTRIAL PRODUCTION YOY SA ACTUAL -1.6% (FORECAST 0%, PREVIOUS 0.00%) $MACRO
-- 09/07 15:02 [FirstSquawk] NORWAY (JUL) IND PROD MANUFACTURING WDA YOY ACTUAL: 1.5% VS 0.7% PREVIOUS
-- 09/07 15:02 [FirstSquawk] NORWAY (JUL) IND PROD MANUFACTURING MOM ACTUAL: 0.7% VS -1.0% PREVIOUS
-- 09/07 15:02 [FirstSquawk] NORWAY (JUL) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: -1.8% VS 9.1% PREVIOUS
-- 09/07 15:02 [FirstSquawk] NORWAY (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: -7.1% VS 7.6% PREVIOUS
-- 09/07 15:02 [FirstSquawk] GERMANY (JUL) INDUSTRIAL PRODUCTION WDA YOY ACTUAL: -1.6% VS -0.1% PREVIOUS;EST 0.0%
-- 09/07 15:02 [FirstSquawk] GERMANY (JUL) INDUSTRIAL PRODUCTION SA MOM ACTUAL: -1.1% VS 0.2% PREVIOUS;EST 0.2%
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) BUDGET BALANCE ACTUAL: VS -9.2B PREVIOUS
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY YOY ACTUAL: 0.5% VS 0.6% PREVIOUS;EST 0.7%
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY MOM ACTUAL: -0.6% VS 0.4% PREVIOUS;EST -0.3%
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF YOY ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.9%
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPIF MOM ACTUAL: -0.3% VS -0.3% PREVIOUS;EST -0.1%
-- 09/07 15:03 [FirstSquawk] SWEDEN (AUG) CPI YOY ACTUAL: 0.3% VS 0.2% PREVIOUS;EST 0.5%
-- 09/07 15:10 [financialjuice] UK house prices fell 0.4% on year, fell 0.1% on quarter and fell 0.2% on month in August - Lloyds.
-- 09/07 15:10 [FirstSquawk] NOVARTIS: PELACARSEN HEART DISEASE DRUG MISSED PRIMARY ENDPOINT - WSJ
-- 09/07 15:14 [FirstSquawk] UAE Investment Ministry partners with Sunstone Development to establish anode production facility
-- 09/07 15:14 [FirstSquawk] UAE Investment Ministry will support Sunstone’s setup and licensing in the UAE as part of MOU
-- 09/07 15:16 [FirstSquawk] UAE Ministry of Investment says anode facility will lower import reliance and enhance competitiveness across aluminium sector
-- 09/07 15:17 [FirstSquawk] UAE Ministry of Investment and Sunstone will form ministry-chaired working group to oversee delivery
-- 09/07 15:22 [financialjuice] Fitch Ratings: Japan corporate credit performance turns more uneven.
-- 09/07 15:23 [FirstSquawk] Goldman Sachs lowers Colonial rating to sell from neutral and target price to EUR 4.60 from EUR 5.45
-- 09/07 15:23 [FirstSquawk] Australia’s benchmark S&P/ASX 200 rises 0.1% to 9,010.90 at close
 - 09/07 15:30 [FirstSquawk] AUSTRALIA (Q2) FOREIGN RESERVES ACTUAL: 106.0B VS 106.7B PREVIOUS
 - 09/07 15:40 [FirstSquawk] Iran cautions South Korea over potential military presence in Strait of Hormuz
 - 09/07 15:47 [FirstSquawk] Qatar foreign ministry spokesman says US strategic alliances alone are insufficient for Gulf security
@@ -507,3 +484,19 @@
 - 09/08 14:50 [FirstSquawk] Brent rises $1 to $98/bbl after Saudi Arabia says Houthis targeted energy facilities and utilities
 - 09/08 14:51 [FirstSquawk] Russia targets Ukraine with dozens of missiles and 166 drones in overnight attack, Air Force says
 - 09/08 14:55 [FirstSquawk] Morgan Stanley cuts BE Semiconductor target price to EUR 220 from EUR 260
+- 09/08 15:00 [financialjuice] GERMAN IMPORTS MOM SA ACTUAL -5.7% (FORECAST -1%, PREVIOUS 4.4%) $MACRO
+- 09/08 15:00 [financialjuice] GERMAN TRADE BALANCE SA ACTUAL 21.3B (FORECAST 15.8B, PREVIOUS 15.4B) $MACRO
+- 09/08 15:00 [financialjuice] GERMAN EXPORTS MOM SA ACTUAL -0.8% (FORECAST 0.3%, PREVIOUS 0.9%) $MACRO
+- 09/08 15:00 [financialjuice] Yemen's Houthi Military Spokesperson: Group will announce broad military operation deep into Saudi territory.
+- 09/08 15:01 [FirstSquawk] GERMANY (JUL) TRADE BALANCE SA ACTUAL: 21.3B VS 15.4B PREVIOUS;EST 15.8B
+- 09/08 15:01 [FirstSquawk] GERMANY (JUL) EXPORTS SA MOM ACTUAL: -0.8% VS 0.9% PREVIOUS;EST 0.3%
+- 09/08 15:01 [FirstSquawk] GERMANY (JUL) IMPORTS SA MOM ACTUAL: -5.7% VS 4.4% PREVIOUS;EST -1.0%
+- 09/08 15:02 [financialjuice] ASML, TSMC announce initiative to pioneer industry transition.
+- 09/08 15:04 [FirstSquawk] Yemen’s Houthis to announce broad military operation deep into Saudi territory, military spokesperson says
+- 09/08 15:04 [financialjuice] Japan PM Takaichi to retain Koichi Hagiuda in reshuffle - Yomiuri.
+- 09/08 15:05 [financialjuice] Samsung plans to use ASML top tool for DRAM production by 2028.
+- 09/08 15:05 [financialjuice] TSMC plans to use ASML top tool for advanced nodes from 2030.
+- 09/08 15:12 [FirstSquawk] 40-year JGB yield declines 6.5 basis points to 4.025%
+- 09/08 15:12 [FirstSquawk] Samsung Electronics, ASML expand collaboration on next-generation semiconductor manufacturing
+- 09/08 15:18 [FirstSquawk] Ukrainian attack on Russia’s Bryansk region kills 1, injures 3, acting governor says
+- 09/08 15:23 [FirstSquawk] Australia’s S&P/ASX 200 ends 1% lower at 8,920.80 points

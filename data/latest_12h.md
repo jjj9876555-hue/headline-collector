@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 14:58 JST／対象: 09/08 02:58 〜 09/08 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-08 15:23 JST／対象: 09/08 03:23 〜 09/08 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/08 03:01 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 158 | 09/08 02:59 | 09/08 14:55 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 119 | 09/08 04:22 | 09/08 14:23 | ⚠ 170分（04:54→07:45） |
+| DeItaone | 1 | 09/08 06:42 | 09/08 06:42 | - |
+| FirstSquawk | 163 | 09/08 04:00 | 09/08 15:23 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 127 | 09/08 04:22 | 09/08 15:05 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 281 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 291 行（統合前 291 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 02:59 [FirstSquawk] IAEA SAYS THE ZAPORIZHZHYA NUCLEAR POWER PLANT WAS RE-CONNECTED TO THE ELECTRICAL GRID TODAY FOLLOWING SUCCESSFUL POWER LINE REPAIRS
-- 09/08 03:01 [DeItaone] TRUMP WANTS TO RENAME NEW MEXICO “NEW AMERICA” President Trump has called for New Mexico to be renamed “New America,” sharing several altered maps on social media. New Mexico Governor Michelle Lujan Grisham rejected the idea, saying the sta…
-- 09/08 03:05 [DeItaone] FED RATE HIKE ODDS CLIMB AS TRUMP TURNS UP PRESSURE Markets are leaning toward a 25bps Fed rate hike in September, with Kalshi pricing the probability at 52%, versus 48% for no change. The shift comes as President Trump ramps up pressure on…
-- 09/08 03:07 [DeItaone] OPENAI’S TOP SCIENTIST WARNS AI MAY BE MOVING TOO FAST OpenAI chief scientist Jakub Pachocki is calling for “extreme caution” as AI capabilities rapidly advance. He warns that models could soon improve themselves without human intervention,…
-- 09/08 03:15 [FirstSquawk] COPPER HITS A RECORD $14,533/TON ON THE LME AS TARIFF FEARS AND SUPPLY CONSTRAINTS DRIVE A POWERFUL RALLY.
-- 09/08 03:15 [FirstSquawk] COPPER IS UP 17% THIS YEAR AND 47% OVER 12 MONTHS, WITH US STOCKPILING AIDING THE RALLY AS AGING MINES STRUGGLE TO KEEP PACE WITH AI DATA CENTERS, POWER GRIDS AND RENEWABLE-ENERGY DEMAND.
 - 09/08 04:00 [FirstSquawk] ITALIAN PM MELONI SAYS 'I REMAIN FIRMLY CONVINCED THAT THE SCHENGEN AREA CAN ONLY BE PRESERVED IN THE BEST POSSIBLE WAY IF WE DEFEND THE EXTERNAL BORDERS OF THE EUROPEAN UNION', ADDING THAT THIS REQUIRES 'ALL MEMBER STATES CONTINUE TO DO TH…
 - 09/08 04:10 [FirstSquawk] ISRAELI DIASPORA AFFAIRS MINISTER AMICHAI CHIKLI SAYS 'WE HAVE IN EUROPE A SIGNIFICANT PART OF THE ELITES THAT HAVE BEEN SWEPT INTO THE MOST RADICAL POST-NATIONALIST PLACES — PLACES OF IDENTIFICATION, ESSENTIALLY, WITH ISLAMIST NATIONALISM,…
 - 09/08 04:22 [financialjuice] Tuesday FX Option Expiries
@@ -305,3 +299,19 @@
 - 09/08 14:50 [FirstSquawk] Brent rises $1 to $98/bbl after Saudi Arabia says Houthis targeted energy facilities and utilities
 - 09/08 14:51 [FirstSquawk] Russia targets Ukraine with dozens of missiles and 166 drones in overnight attack, Air Force says
 - 09/08 14:55 [FirstSquawk] Morgan Stanley cuts BE Semiconductor target price to EUR 220 from EUR 260
+- 09/08 15:00 [financialjuice] GERMAN IMPORTS MOM SA ACTUAL -5.7% (FORECAST -1%, PREVIOUS 4.4%) $MACRO
+- 09/08 15:00 [financialjuice] GERMAN TRADE BALANCE SA ACTUAL 21.3B (FORECAST 15.8B, PREVIOUS 15.4B) $MACRO
+- 09/08 15:00 [financialjuice] GERMAN EXPORTS MOM SA ACTUAL -0.8% (FORECAST 0.3%, PREVIOUS 0.9%) $MACRO
+- 09/08 15:00 [financialjuice] Yemen's Houthi Military Spokesperson: Group will announce broad military operation deep into Saudi territory.
+- 09/08 15:01 [FirstSquawk] GERMANY (JUL) TRADE BALANCE SA ACTUAL: 21.3B VS 15.4B PREVIOUS;EST 15.8B
+- 09/08 15:01 [FirstSquawk] GERMANY (JUL) EXPORTS SA MOM ACTUAL: -0.8% VS 0.9% PREVIOUS;EST 0.3%
+- 09/08 15:01 [FirstSquawk] GERMANY (JUL) IMPORTS SA MOM ACTUAL: -5.7% VS 4.4% PREVIOUS;EST -1.0%
+- 09/08 15:02 [financialjuice] ASML, TSMC announce initiative to pioneer industry transition.
+- 09/08 15:04 [FirstSquawk] Yemen’s Houthis to announce broad military operation deep into Saudi territory, military spokesperson says
+- 09/08 15:04 [financialjuice] Japan PM Takaichi to retain Koichi Hagiuda in reshuffle - Yomiuri.
+- 09/08 15:05 [financialjuice] Samsung plans to use ASML top tool for DRAM production by 2028.
+- 09/08 15:05 [financialjuice] TSMC plans to use ASML top tool for advanced nodes from 2030.
+- 09/08 15:12 [FirstSquawk] 40-year JGB yield declines 6.5 basis points to 4.025%
+- 09/08 15:12 [FirstSquawk] Samsung Electronics, ASML expand collaboration on next-generation semiconductor manufacturing
+- 09/08 15:18 [FirstSquawk] Ukrainian attack on Russia’s Bryansk region kills 1, injures 3, acting governor says
+- 09/08 15:23 [FirstSquawk] Australia’s S&P/ASX 200 ends 1% lower at 8,920.80 points
