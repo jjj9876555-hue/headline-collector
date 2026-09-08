@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 04:44 JST／対象: 09/08 22:44 〜 09/09 04:44 JST（時刻はすべて日本時間）
+生成: 2026-09-09 04:58 JST／対象: 09/08 22:58 〜 09/09 04:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/08 23:18 | 09/09 03:46 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 142 | 09/08 22:46 | 09/09 04:34 | 28分（01:25→01:53） |
-| financialjuice | 115 | 09/08 22:45 | 09/09 04:40 | 33分（02:38→03:12） |
+| FirstSquawk | 145 | 09/08 22:59 | 09/09 04:55 | 28分（01:25→01:53） |
+| financialjuice | 117 | 09/08 22:59 | 09/09 04:53 | 33分（02:38→03:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 258 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 263 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 22:45 [financialjuice] BoE Gov. Bailey: The market's BoE rate curve reflects investors' concern about further energy price rises.
-- 09/08 22:45 [financialjuice] BoE Gov. Bailey: I want to dispel idea that we have secret plan to raise rates, unconditionally.
-- 09/08 22:46 [FirstSquawk] BOE'S BAILEY: I WANT TO DISPEL IDEA THAT WE HAVE SECRET PLAN TO RAISE RATES, UNCONDITIONALLY
-- 09/08 22:48 [FirstSquawk] CERBERUS NEARS £1B DEAL TO BUY GOODWIN DEFENCE UNIT, FT SAYS
-- 09/08 22:56 [financialjuice] Goldman Sachs brings forward their RBA rate hike estimate to September from November.
-- 09/08 22:58 [financialjuice] BoE's Ramsden: Communications in April and in July were well received by the market.
 - 09/08 22:59 [FirstSquawk] GOLDMAN BRINGS FORWARD RBA RATE HIKE TO SEPT, FROM NOV
 - 09/08 22:59 [FirstSquawk] ORACLE ISSUES RFP FOR 2 GW OF RENEWABLE ENERGY IN NEW MEXICO
 - 09/08 22:59 [FirstSquawk] GOLDMAN SACHS BRINGS FORWARD RBA RATE HIKE FORECASTS TO SEPTEMBER, FROM NOVEMBER
@@ -282,3 +276,14 @@
 - 09/09 04:31 [financialjuice/FirstSquawk] Iranian tanker was targeted by a US missile attack four miles from Kharg Island - Tasnim
 - 09/09 04:37 [financialjuice] US military has struck targets near Kharg Island - Fox News
 - 09/09 04:40 [financialjuice] The US struck targets near Jask - Fox reporter citing US Officials.
+- 09/09 04:47 [financialjuice] Broadcom CEO: Can lock in chip supply for 2027, in process of locking in 2028 supply - Goldman Sachs Conference $AVGO
+- 09/09 04:48 [FirstSquawk] TURKEY CONDEMNS HOUTHI ATTACKS ON SAUDI ARABIA IN THE STRONGEST TERMS, REAFFIRMS SOLIDARITY WITH RIYADH & WARNS AGAINST FURTHER REGIONAL ESCALATION.
+- 09/09 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1393.9 MLN NASDAQ 100: -394.0 MLN DOW 30: -266.3 MLN MAG 7: -122.9 MLN $MACRO
+- 09/09 04:51 [FirstSquawk] FORD’S USE OF CHINESE TECH CALLED ‘UNACCEPTABLE’ BY US TRANSPORT SEC – WSJ
+- 09/09 04:52 [FirstSquawk] TRUMP TO DELIVER KEYNOTE ADDRESS AT GOP MIDTERM CONVENTION WEDNESDAY EVENING IN DALLAS; SPEECH SCHEDULED FOR 8–9 PM CT / 9–10 PM ET.
+- 09/09 04:52 [financialjuice] Iran launched an attack against US Navy ships on Monday that the US military has yet to acknowledge - WSJ
+- 09/09 04:52 [financialjuice] No American ships were struck in Iran's Monday attacks - WSJ
+- 09/09 04:53 [financialjuice] Iran Launched Undisclosed Second Wave of Attacks on US Navy Ships - WSH
+- 09/09 04:53 [FirstSquawk] IRAN LAUNCHED A MISSILE ATTACK ON US NAVY WARSHIPS MONDAY, BUT NO AMERICAN SHIP WAS HIT || THE US MILITARY HAS YET TO PUBLICLY ACKNOWLEDGE THE ATTACK, ACCORDING TO WSJ
+- 09/09 04:53 [financialjuice] Iran Launched Undisclosed Second Wave of Attacks on US Navy Ships - WSJ Iran launched an attack against U.S. Navy ships on Monday that the U.S. military has yet to acknowledge, according to U.S. officials, after firing ballistic missiles at…
+- 09/09 04:55 [FirstSquawk] IRAN LAUNCHED A SECOND, PREVIOUSLY UNDISCLOSED ATTACK ON US NAVY SHIPS MONDAY, ACCORDING TO US OFFICIALS CITED BY WSJ; NO AMERICAN VESSELS WERE HIT, BUT THE ATTACKS RAISE CONCERNS OVER IRAN’S GROWING MISSILE CAPABILITIES AND POSSIBLE CHINES…

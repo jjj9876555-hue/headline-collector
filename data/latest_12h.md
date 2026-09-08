@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 04:44 JST／対象: 09/08 16:44 〜 09/09 04:44 JST（時刻はすべて日本時間）
+生成: 2026-09-09 04:58 JST／対象: 09/08 16:58 〜 09/09 04:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 17:32 | 09/09 03:46 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 223 | 09/08 16:48 | 09/09 04:34 | 28分（01:25→01:53） |
-| financialjuice | 175 | 09/08 17:22 | 09/09 04:40 | 33分（02:38→03:12） |
+| FirstSquawk | 227 | 09/08 17:09 | 09/09 04:55 | 28分（01:25→01:53） |
+| financialjuice | 181 | 09/08 17:22 | 09/09 04:53 | 33分（02:38→03:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 399 行（統合前 408 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 409 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 16:48 [FirstSquawk] AUSTRALIAN DOLLAR ROSE TO A FRESH 13-YEAR HIGH AGAINST THE NEW ZEALAND KIWI
 - 09/08 17:09 [FirstSquawk] GERMAN INTERIOR MINISTER ALEXANDER DOBRINDT: WHOEVER IS ATTACKING OUR INFRASTRUCTURE HAS TO KNOW: WE CAN STRIKE BACK, AND WE CAN DISRUPT AND DESTROY THEIR INFRASTRUCTURE. WE WILL NOT ALLOW OURSELVES, AS A SOCIETY, TO BE PERMANENTLY PUT UNDE…
 - 09/08 17:09 [FirstSquawk] UAE DIRECTLY WARNED NETANYAHU BEFORE OCT. 7, HE DISREGARDED IT UAE PRESIDENT WARNED NETANYAHU ABOUT A MAJOR OPERATION BEING PREPARED BY HAMAS ROUGHLY 10 DAYS BEFORE THE ATTACK. NETANYAHU PLAYED DOWN THE THREAT AND DID NOT BRIEF ISRAEL’S SEC…
 - 09/08 17:17 [FirstSquawk] AMAZON ENGAGES BANKS FOR ITS FIRST STERLING BOND SALE.
@@ -423,3 +422,14 @@
 - 09/09 04:31 [financialjuice/FirstSquawk] Iranian tanker was targeted by a US missile attack four miles from Kharg Island - Tasnim
 - 09/09 04:37 [financialjuice] US military has struck targets near Kharg Island - Fox News
 - 09/09 04:40 [financialjuice] The US struck targets near Jask - Fox reporter citing US Officials.
+- 09/09 04:47 [financialjuice] Broadcom CEO: Can lock in chip supply for 2027, in process of locking in 2028 supply - Goldman Sachs Conference $AVGO
+- 09/09 04:48 [FirstSquawk] TURKEY CONDEMNS HOUTHI ATTACKS ON SAUDI ARABIA IN THE STRONGEST TERMS, REAFFIRMS SOLIDARITY WITH RIYADH & WARNS AGAINST FURTHER REGIONAL ESCALATION.
+- 09/09 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1393.9 MLN NASDAQ 100: -394.0 MLN DOW 30: -266.3 MLN MAG 7: -122.9 MLN $MACRO
+- 09/09 04:51 [FirstSquawk] FORD’S USE OF CHINESE TECH CALLED ‘UNACCEPTABLE’ BY US TRANSPORT SEC – WSJ
+- 09/09 04:52 [FirstSquawk] TRUMP TO DELIVER KEYNOTE ADDRESS AT GOP MIDTERM CONVENTION WEDNESDAY EVENING IN DALLAS; SPEECH SCHEDULED FOR 8–9 PM CT / 9–10 PM ET.
+- 09/09 04:52 [financialjuice] Iran launched an attack against US Navy ships on Monday that the US military has yet to acknowledge - WSJ
+- 09/09 04:52 [financialjuice] No American ships were struck in Iran's Monday attacks - WSJ
+- 09/09 04:53 [financialjuice] Iran Launched Undisclosed Second Wave of Attacks on US Navy Ships - WSH
+- 09/09 04:53 [FirstSquawk] IRAN LAUNCHED A MISSILE ATTACK ON US NAVY WARSHIPS MONDAY, BUT NO AMERICAN SHIP WAS HIT || THE US MILITARY HAS YET TO PUBLICLY ACKNOWLEDGE THE ATTACK, ACCORDING TO WSJ
+- 09/09 04:53 [financialjuice] Iran Launched Undisclosed Second Wave of Attacks on US Navy Ships - WSJ Iran launched an attack against U.S. Navy ships on Monday that the U.S. military has yet to acknowledge, according to U.S. officials, after firing ballistic missiles at…
+- 09/09 04:55 [FirstSquawk] IRAN LAUNCHED A SECOND, PREVIOUSLY UNDISCLOSED ATTACK ON US NAVY SHIPS MONDAY, ACCORDING TO US OFFICIALS CITED BY WSJ; NO AMERICAN VESSELS WERE HIT, BUT THE ATTACKS RAISE CONCERNS OVER IRAN’S GROWING MISSILE CAPABILITIES AND POSSIBLE CHINES…
