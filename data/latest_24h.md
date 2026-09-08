@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 01:36 JST／対象: 09/08 01:36 〜 09/09 01:36 JST（時刻はすべて日本時間）
+生成: 2026-09-09 01:52 JST／対象: 09/08 01:52 〜 09/09 01:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 14 | 09/08 02:28 | 09/09 00:42 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 354 | 09/08 01:37 | 09/09 01:25 | ⚠ 158分（05:58→08:36） |
+| FirstSquawk | 352 | 09/08 01:59 | 09/09 01:25 | ⚠ 158分（05:58→08:36） |
 | financialjuice | 274 | 09/08 01:59 | 09/09 01:25 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 638 行（統合前 643 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 636 行（統合前 641 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 01:37 [FirstSquawk] EUROPE'S LEADING AIRLINES DISCUSS PARTNERSHIP FOR SATELLITE-TO-MOBILE PROJECT.
-- 09/08 01:37 [FirstSquawk] DEUTSCHE TELEKOM, ORANGE, VODAFONE, AND TELEFONICA DISCUSS PARTNERSHIP OPTIONS.
 - 09/08 01:59 [financialjuice] Ukraine’s President Zelenskiy: The US is exploring Russia-Ukraine winter de-escalation steps - Axios
 - 09/08 01:59 [FirstSquawk] UK PREMIER ANDY BURNHAM'S OFFICE SHARES DETAILS OF CALL WITH TRUMP.
 - 09/08 01:59 [FirstSquawk] BURNHAM EMPHASIZES UK BACKING FOR US-LED PEACE DISCUSSIONS ON UKRAINE.
