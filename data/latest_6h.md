@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 21:24 JST／対象: 09/08 15:24 〜 09/08 21:24 JST（時刻はすべて日本時間）
+生成: 2026-09-08 21:49 JST／対象: 09/08 15:49 〜 09/08 21:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 73 | 09/08 15:39 | 09/08 21:12 | 22分（15:53→16:15） |
-| financialjuice | 34 | 09/08 15:45 | 09/08 21:20 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 76 | 09/08 15:53 | 09/08 21:47 | 22分（15:53→16:15） |
+| financialjuice | 35 | 09/08 16:42 | 09/08 21:46 | 40分（16:42→17:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 111 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 15:39 [FirstSquawk] ECB SET TO RAISE KEY RATE AGAIN, SIGNAL CAUTION ON FURTHER MOVES-WSJ
-- 09/08 15:45 [financialjuice] FRENCH TRADE BALANCE SA ACTUAL -6.669012B (FORECAST -, PREVIOUS -5.85B) $MACRO
-- 09/08 15:45 [financialjuice] FRENCH CURRENT ACCOUNT ACTUAL -4.7B (FORECAST -, PREVIOUS -1.4B) $MACRO
-- 09/08 15:46 [FirstSquawk] FRANE (JUL) CURRENT ACOUNT BALANCE ACTUAL: -4.7B VS -1.4B PREVIOUS
-- 09/08 15:46 [FirstSquawk] FRANE (JUL) TRADE BALANCE ACTUAL: -6669M VS -5847M PREVIOUS
 - 09/08 15:53 [FirstSquawk] Polish Air Force ends response operations over Russian strikes on Ukraine; no airspace violations detected, Polish Army says
 - 09/08 16:15 [FirstSquawk] NOVARTIS SHARES FALL 10% AFTER THIRD TRIAL SETBACK IN A WEEK
 - 09/08 16:17 [FirstSquawk] Audi CEO: VW Weighs Selling Ducati Motorcycle Unit In Broad Review
@@ -131,3 +126,12 @@
 - 09/08 21:05 [FirstSquawk] ROBINHOOD STRIKES DEAL WITH https://t.co/uRKOQg4t2P IN LATEST PREDICTION-MARKETS PUSH – WSJ
 - 09/08 21:12 [FirstSquawk] SAUDI ARABIA'S FOREIGN MINISTER PRINCE FAISAL BIN FARHAN AL SAUD: THE LATEST ESCALATION IS PART OF THIS PATTERN OF PROVOCATION AND RESORTING TO VIOLENCE WHENEVER THE HOUTHIS FIND THEMSELVES IN A DIFFICULT POSITION. THEY ARE FACING INTERNAL …
 - 09/08 21:20 [financialjuice] South Korea's Defence Ministry: It will dispatch an investigation team to assess the situation in the Strait of Hormuz- Yonhap
+- 09/08 21:29 [FirstSquawk] GOLD MINER SOLIDCORE TO BUY BACK SHARES WORTH UP TO $1.2B
+- 09/08 21:29 [FirstSquawk] EU'S VON DER LEYEN: ALONG WITH NATO SECRETARY GENERAL, I WELCOME AGREEMENT BY MEMBER STATES ON THE DEROGATION FOR UKRAINE TO PURCHASE CRUCIAL PRODUCTS FOR PATRIOT AIR DEFENCE SYSTEMS.
+- 09/08 21:31 [FirstSquawk] AMERICANS HITTING THE ROAD FOR THE LABOR DAY WEEKEND ARE FACING THE HIGHEST GAS PRICES EVER RECORDED FOR THE HOLIDAY, AS DISRUPTIONS TIED TO THE CONFLICT WITH IRAN AND REDUCED TRAFFIC THROUGH THE STRAIT OF HORMUZ CONTINUE TO PUT PRESSURE ON…
+- 09/08 21:31 [FirstSquawk] CANADA'S 20% TARIFFS ON US GOODS LIKE MILK, STEEL AND GOLF CLUBS TAKE EFFECT
+- 09/08 21:36 [financialjuice] ❗ Bank of England to hold bank rate at 3.75% in September, said all 65 economists surveyed - Poll
+- 09/08 21:37 [financialjuice] ❗ Medians show Bank of England to hold bank rate at 3.75% until Q2 2027 - Poll
+- 09/08 21:37 [FirstSquawk] BANK OF ENGLAND TO HOLD BANK RATE AT 3.75% UNTIL Q2 2027, MEDIANS SHOW
+- 09/08 21:46 [financialjuice] EU's Trade Chief Sefcovic: Current situation with China is unsustainable.
+- 09/08 21:47 [FirstSquawk] US TREASURIES ERASE DECLINES; YIELDS EDGE TOWARD SESSION LOWS

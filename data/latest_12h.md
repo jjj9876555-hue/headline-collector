@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 21:24 JST／対象: 09/08 09:24 〜 09/08 21:24 JST（時刻はすべて日本時間）
+生成: 2026-09-08 21:49 JST／対象: 09/08 09:49 〜 09/08 21:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 214 | 09/08 09:25 | 09/08 21:12 | 22分（15:53→16:15） |
-| financialjuice | 122 | 09/08 09:30 | 09/08 21:20 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 204 | 09/08 09:52 | 09/08 21:47 | 22分（15:53→16:15） |
+| financialjuice | 121 | 09/08 09:51 | 09/08 21:46 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 336 行（統合前 338 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 325 行（統合前 327 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 09:25 [FirstSquawk] Oil Rises Amid Fears of More Supply Disruptions in Middle East - WSJ
-- 09/08 09:25 [FirstSquawk] DEADLY AMAZON CARGO JET CRASH AT MIAMI AIRPORT REIGNITES DEBATE OVER MANDATORY EMAS RUNWAY SAFETY SYSTEMS AFTER FIVE PEOPLE WERE KILLED.
-- 09/08 09:25 [FirstSquawk] EMAS HAS STOPPED 26 AIRCRAFT OVERRUNS INVOLVING 497 PASSENGERS, BUT MIAMI LACKED THE SYSTEM; INVESTIGATORS WILL ASSESS WHETHER STRONGER RUNWAY-SAFETY REQUIREMENTS COULD HAVE REDUCED THE DEATH TOLL.
-- 09/08 09:30 [financialjuice] AUSTRALIAN CONSUMER SENTIMENT ACTUAL -5.2% (FORECAST -, PREVIOUS 6.0%) $MACRO
-- 09/08 09:30 [financialjuice] Australia September Westpac-MI consumer confidence index falls 5.2% to 84.4
-- 09/08 09:30 [FirstSquawk] Japan's economy grows 1.4% in April-June, revised up - KYODO
-- 09/08 09:32 [financialjuice] Explosion heard in Ukraine's Kyiv: witness source
-- 09/08 09:33 [financialjuice] Dollar/yen down 0.52% at 153.530
-- 09/08 09:33 [FirstSquawk] BLAST HEARD IN UKRAINE'S CAPITAL KYIV — REUTERS
-- 09/08 09:34 [FirstSquawk] DOLLAR/YEN DROPS 0.52% TO 153.530
-- 09/08 09:34 [FirstSquawk] EU OFFERS GREENLAND €200 MILLION OVER TWO YEARS TO STRENGTHEN TIES AS TRUMP’S PRESSURE ON THE ARCTIC ISLAND FUELS SOVEREIGNTY CONCERNS.
-- 09/08 09:34 [FirstSquawk] EUROPE ALSO PLANS TO RAISE GREENLAND FUNDING TO ~€500 MILLION FROM 2028, WHILE 11 NATO COUNTRIES BEGIN ARCTIC MILITARY EXERCISES INVOLVING ~400 PERSONNEL.
-- 09/08 09:34 [FirstSquawk] AUSTRALIA SEPT CONSUMER CONFIDENCE INDEX SLIDES 5.2% TO 84.4
-- 09/08 09:39 [FirstSquawk] GOLDMAN SACHS RAISES OIL FORECASTS BY $5/BBL AS PERSISTENT MIDDLE EAST SHIPPING DISRUPTIONS KEEP SUPPLY RISKS ELEVATED.
-- 09/08 09:39 [FirstSquawk] GOLDMAN NOW SEES BRENT AT $85 IN DEC. 2026 AND $80 IN 2027, BUT WARNS A SHARPER HORMUZ ESCALATION COULD SEND OIL TOWARD $120.
-- 09/08 09:39 [FirstSquawk] Asia-Pac equities open mostly in the red as focus shifts to Japan labour cash earnings and China trade data
-- 09/08 09:44 [FirstSquawk] SAMSUNG’S POTENTIAL BUYBACK OF PREFERRED SHARES COULD NARROW KOREA’S “PREFERRED-SHARE DISCOUNT,” WITH SAMSUNG PREFERRED STOCK TRADING ~26% BELOW COMMON SHARES. A BUYBACK COULD BOOST PER-SHARE VALUE AND AVOID VOTING-OWNERSHIP CONSTRAINTS, WH…
-- 09/08 09:47 [FirstSquawk] ASIAN STOCKS SLIP AS BRENT NEARS $98, WITH RISING MIDDLE EAST TENSIONS BOOSTING INFLATION CONCERNS AND WEIGHING ON RISK SENTIMENT. || YEN STRENGTHENS 0.4% TO 153.73 PER DOLLAR ON BOJ HIKE BETS, WHILE GOLD RISES 0.4% TO $4,422.83 AND COPPER …
-- 09/08 09:47 [FirstSquawk] Japan's real wages in July rise 2.4% on year, up for 7th straight month - kyodo
-- 09/08 09:48 [FirstSquawk] 10-year Japanese government bond yield drops 2.5 bps to 2.905%
 - 09/08 09:51 [financialjuice] Two residential buildings damaged in Ukraine's Kyiv in Russian air strike: city officials
 - 09/08 09:52 [FirstSquawk] Russian strike damages two residential buildings in Ukraine’s Kyiv, officials say
 - 09/08 09:58 [FirstSquawk] Euro holds gains above 1.1600 on ECB tightening prospects - fx
@@ -360,3 +340,12 @@
 - 09/08 21:05 [FirstSquawk] ROBINHOOD STRIKES DEAL WITH https://t.co/uRKOQg4t2P IN LATEST PREDICTION-MARKETS PUSH – WSJ
 - 09/08 21:12 [FirstSquawk] SAUDI ARABIA'S FOREIGN MINISTER PRINCE FAISAL BIN FARHAN AL SAUD: THE LATEST ESCALATION IS PART OF THIS PATTERN OF PROVOCATION AND RESORTING TO VIOLENCE WHENEVER THE HOUTHIS FIND THEMSELVES IN A DIFFICULT POSITION. THEY ARE FACING INTERNAL …
 - 09/08 21:20 [financialjuice] South Korea's Defence Ministry: It will dispatch an investigation team to assess the situation in the Strait of Hormuz- Yonhap
+- 09/08 21:29 [FirstSquawk] GOLD MINER SOLIDCORE TO BUY BACK SHARES WORTH UP TO $1.2B
+- 09/08 21:29 [FirstSquawk] EU'S VON DER LEYEN: ALONG WITH NATO SECRETARY GENERAL, I WELCOME AGREEMENT BY MEMBER STATES ON THE DEROGATION FOR UKRAINE TO PURCHASE CRUCIAL PRODUCTS FOR PATRIOT AIR DEFENCE SYSTEMS.
+- 09/08 21:31 [FirstSquawk] AMERICANS HITTING THE ROAD FOR THE LABOR DAY WEEKEND ARE FACING THE HIGHEST GAS PRICES EVER RECORDED FOR THE HOLIDAY, AS DISRUPTIONS TIED TO THE CONFLICT WITH IRAN AND REDUCED TRAFFIC THROUGH THE STRAIT OF HORMUZ CONTINUE TO PUT PRESSURE ON…
+- 09/08 21:31 [FirstSquawk] CANADA'S 20% TARIFFS ON US GOODS LIKE MILK, STEEL AND GOLF CLUBS TAKE EFFECT
+- 09/08 21:36 [financialjuice] ❗ Bank of England to hold bank rate at 3.75% in September, said all 65 economists surveyed - Poll
+- 09/08 21:37 [financialjuice] ❗ Medians show Bank of England to hold bank rate at 3.75% until Q2 2027 - Poll
+- 09/08 21:37 [FirstSquawk] BANK OF ENGLAND TO HOLD BANK RATE AT 3.75% UNTIL Q2 2027, MEDIANS SHOW
+- 09/08 21:46 [financialjuice] EU's Trade Chief Sefcovic: Current situation with China is unsustainable.
+- 09/08 21:47 [FirstSquawk] US TREASURIES ERASE DECLINES; YIELDS EDGE TOWARD SESSION LOWS
