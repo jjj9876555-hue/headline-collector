@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 12:05 JST／対象: 09/08 06:05 〜 09/08 12:05 JST（時刻はすべて日本時間）
+生成: 2026-09-08 12:25 JST／対象: 09/08 06:25 〜 09/08 12:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 06:42 | 09/08 06:42 | - |
-| FirstSquawk | 90 | 09/08 08:36 | 09/08 11:59 | 20分（08:36→08:57） |
-| financialjuice | 85 | 09/08 07:45 | 09/08 11:52 | 40分（10:44→11:24） |
+| FirstSquawk | 96 | 09/08 08:36 | 09/08 12:23 | 20分（08:36→08:57） |
+| financialjuice | 86 | 09/08 07:45 | 09/08 12:23 | 40分（10:44→11:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 176 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 183 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -200,3 +200,10 @@
 - 09/08 11:52 [financialjuice] JP Morgan upgrades ADP to overweight from neutral rating
 - 09/08 11:58 [FirstSquawk] Seoul stocks open higher as AI optimism returns
 - 09/08 11:59 [FirstSquawk] Malaysia's Anwar targets cost-of-living woes after election setbacks - NA
+- 09/08 12:12 [FirstSquawk] N. Korea, Russia open 1st cross-border road bridge amid deepening ties - YONHAP
+- 09/08 12:16 [FirstSquawk] Asian Stock Markets Mixed as Investors Look to U.S. CPI Data - WSJ
+- 09/08 12:16 [FirstSquawk] Indonesia agency says Anak Krakatau eruptions could still disrupt flights based on wind direction and ash altitude
+- 09/08 12:18 [FirstSquawk] Indonesia agency: Anak Krakatau eruptions on Tuesday were less intense than last week’s
+- 09/08 12:18 [FirstSquawk] Indonesia agency says Tuesday’s eruptions were less significant than earlier activity and will continue monitoring
+- 09/08 12:23 [financialjuice] Reserve Bank of Australia Assistant Governor Hunter: Housing market crucial transition channel for monetary policy
+- 09/08 12:23 [FirstSquawk] RBA Assistant Governor Hunter: Housing market is a crucial mechanism through which monetary policy affects the economy

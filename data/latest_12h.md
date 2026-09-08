@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 12:05 JST／対象: 09/08 00:05 〜 09/08 12:05 JST（時刻はすべて日本時間）
+生成: 2026-09-08 12:25 JST／対象: 09/08 00:25 〜 09/08 12:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 116 | 09/08 00:23 | 09/08 11:59 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 95 | 09/08 00:44 | 09/08 11:52 | ⚠ 170分（04:54→07:45） |
+| DeItaone | 8 | 09/08 00:36 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
+| FirstSquawk | 121 | 09/08 00:33 | 09/08 12:23 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 96 | 09/08 00:44 | 09/08 12:23 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 220 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 225 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 00:17 [DeItaone] HUNTER BIDEN TO LAUNCH $LAPTOP MEME COIN, SOURCES SAY -- WSJ HUNTER BIDEN'S $LAPTOP MEME COIN TO LAUNCH SEPT. 9 ON COINBASE-AFFILIATED BLOCKCHAIN, SOURCES SAY -- WSJ HUNTER BIDEN, FOUNDERS OF $LAPTOP TO HOLD 30% OF 1B TOKENS ISSUED, SOURCES…
-- 09/08 00:23 [FirstSquawk] GERMAN BONDS CONTINUE TO FALL, WITH TWO-YEAR YIELD INCREASING BY 5 BASIS POINTS TO REACH 3%.
 - 09/08 00:33 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.12%; GERMANY'S DAX DOWN 0.25%
 - 09/08 00:33 [FirstSquawk] FRANCE'S CAC 40 UP 0.25%; SPAIN'S IBEX DOWN 0.22%
 - 09/08 00:36 [DeItaone] COPPER SURGES TO ALL-TIME HIGH Copper hit a record $14,533 a ton on the London Metal Exchange, fueled by fears of potential US tariffs on refined copper imports. Prices have jumped 17% over the past year, supported by tight mine supply and …
@@ -244,3 +242,10 @@
 - 09/08 11:52 [financialjuice] JP Morgan upgrades ADP to overweight from neutral rating
 - 09/08 11:58 [FirstSquawk] Seoul stocks open higher as AI optimism returns
 - 09/08 11:59 [FirstSquawk] Malaysia's Anwar targets cost-of-living woes after election setbacks - NA
+- 09/08 12:12 [FirstSquawk] N. Korea, Russia open 1st cross-border road bridge amid deepening ties - YONHAP
+- 09/08 12:16 [FirstSquawk] Asian Stock Markets Mixed as Investors Look to U.S. CPI Data - WSJ
+- 09/08 12:16 [FirstSquawk] Indonesia agency says Anak Krakatau eruptions could still disrupt flights based on wind direction and ash altitude
+- 09/08 12:18 [FirstSquawk] Indonesia agency: Anak Krakatau eruptions on Tuesday were less intense than last week’s
+- 09/08 12:18 [FirstSquawk] Indonesia agency says Tuesday’s eruptions were less significant than earlier activity and will continue monitoring
+- 09/08 12:23 [financialjuice] Reserve Bank of Australia Assistant Governor Hunter: Housing market crucial transition channel for monetary policy
+- 09/08 12:23 [FirstSquawk] RBA Assistant Governor Hunter: Housing market is a crucial mechanism through which monetary policy affects the economy

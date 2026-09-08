@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 12:05 JST／対象: 09/07 12:05 〜 09/08 12:05 JST（時刻はすべて日本時間）
+生成: 2026-09-08 12:25 JST／対象: 09/07 12:25 〜 09/08 12:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 285 | 09/07 12:09 | 09/08 11:59 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 140 | 09/07 14:05 | 09/08 11:52 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 287 | 09/07 12:28 | 09/08 12:23 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 141 | 09/07 14:05 | 09/08 12:23 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 427 行（統合前 437 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 430 行（統合前 440 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 12:09 [FirstSquawk] South Korea’s economic recovery strengthens, supported by AI-led exports and investment
-- 09/07 12:11 [FirstSquawk] AUD/USD Price Forecast: Consolidates around 0.7200; bullish potential seems intact - FX
-- 09/07 12:16 [FirstSquawk] Tokyo's Shinjuku Ward to ban private lodgings in residential areas - KYODO
-- 09/07 12:21 [FirstSquawk] Japan gov't eyes ODA for upgrading Indonesia's fishing ports: KYODO
 - 09/07 12:28 [FirstSquawk] North Korea commissions new Kang Kon naval destroyer with nuclear capabilities
 - 09/07 12:34 [FirstSquawk] EUROPE DOMINATES MASTERS IN MANAGEMENT RANKING BUT DEGREE’S POPULARITY SPREADS - FT
 - 09/07 12:34 [FirstSquawk] INDONESIA SHUTS AIRPORTS AS VOLCANO ERUPTS - FT
@@ -451,3 +447,10 @@
 - 09/08 11:52 [financialjuice] JP Morgan upgrades ADP to overweight from neutral rating
 - 09/08 11:58 [FirstSquawk] Seoul stocks open higher as AI optimism returns
 - 09/08 11:59 [FirstSquawk] Malaysia's Anwar targets cost-of-living woes after election setbacks - NA
+- 09/08 12:12 [FirstSquawk] N. Korea, Russia open 1st cross-border road bridge amid deepening ties - YONHAP
+- 09/08 12:16 [FirstSquawk] Asian Stock Markets Mixed as Investors Look to U.S. CPI Data - WSJ
+- 09/08 12:16 [FirstSquawk] Indonesia agency says Anak Krakatau eruptions could still disrupt flights based on wind direction and ash altitude
+- 09/08 12:18 [FirstSquawk] Indonesia agency: Anak Krakatau eruptions on Tuesday were less intense than last week’s
+- 09/08 12:18 [FirstSquawk] Indonesia agency says Tuesday’s eruptions were less significant than earlier activity and will continue monitoring
+- 09/08 12:23 [financialjuice] Reserve Bank of Australia Assistant Governor Hunter: Housing market crucial transition channel for monetary policy
+- 09/08 12:23 [FirstSquawk] RBA Assistant Governor Hunter: Housing market is a crucial mechanism through which monetary policy affects the economy
