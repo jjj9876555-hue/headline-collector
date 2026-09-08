@@ -7,49 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 05:51 JST／対象: 09/08 23:51 〜 09/09 05:51 JST（時刻はすべて日本時間）
+生成: 2026-09-09 06:03 JST／対象: 09/09 00:03 〜 09/09 06:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/09 00:42 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 133 | 09/08 23:52 | 09/09 05:33 | 28分（01:25→01:53） |
-| financialjuice | 108 | 09/08 23:51 | 09/09 05:30 | 33分（02:38→03:12） |
+| FirstSquawk | 120 | 09/09 00:08 | 09/09 05:54 | 28分（01:25→01:53） |
+| financialjuice | 97 | 09/09 00:03 | 09/09 06:02 | 33分（02:38→03:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 241 行（統合前 246 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 217 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 23:51 [financialjuice] Iran's IRGC Navy: We have captured an unmanned US submersible at entrance of the Strait of Hormuz - State Media.
-- 09/08 23:52 [FirstSquawk] BESSENT SAYS CARNEY SHOULD 'STOP CAMPAIGNING' REGARDING CANADIAN ACTIONS.
-- 09/08 23:52 [FirstSquawk] BESSENT BELIEVES THEY WILL OVERCOME THE TRADE DISPUTE WITH CANADA.
-- 09/08 23:52 [financialjuice] US Treasury Secretary Bessent: I think we will get through the Canada trade spat.
-- 09/08 23:53 [financialjuice] US Treasury Secretary Bessent: A Canada trade war would add 0.02% to US inflation.
-- 09/08 23:55 [FirstSquawk] TRUMP REPEATS THAT IRAN WILL NEVER OBTAIN A NUCLEAR WEAPON.
-- 09/08 23:55 [FirstSquawk] TRUMP SAYS THE BLOCKADE ON IRAN HAS BEEN 'HIGHLY EFFECTIVE.'
-- 09/08 23:58 [financialjuice] Trump: US Commerce Secretary Lutnick has some faults but is excellent overall.
-- 09/08 23:58 [financialjuice] US Treasury Secretary Bessent repeats on inflation: There's short-term energy spike.
-- 09/08 23:59 [FirstSquawk] TRUMP SAYS LUTNICK HAS 'A FEW FAULTS' BUT IS EXCELLENT OVERALL.
-- 09/08 23:59 [FirstSquawk] BESSENT SAYS INFLATION PERSISTS, ENERGY PRICES RISE SHORT-TERM.
-- 09/08 23:59 [FirstSquawk] CANADIAN DOLLAR REDUCES DAY'S PROFITS FOLLOWING TRUMP'S REMARKS.
-- 09/09 00:00 [financialjuice] NY FED 1 YR INFLATION EXPECTATIONS ACTUAL 3.58% (FORECAST 3.6%, PREVIOUS 3.63%) $MACRO
-- 09/09 00:01 [financialjuice] NY Fed: US 5-year inflation expectations unchanged in august at 3%.
-- 09/09 00:01 [financialjuice] NY Fed: 3-year-ahead expected inflation at 3.2% in august versus July's 3.3%.
-- 09/09 00:01 [financialjuice] NY Fed: Expectations in August of higher unemployment rate were highest since April 2020.
-- 09/09 00:02 [financialjuice] NY Fed: Labor market expectations were mixed in August.
-- 09/09 00:02 [financialjuice] NY Fed: Consumers in August projected higher future gasoline prices.
-- 09/09 00:02 [FirstSquawk] NEW YORK FED REPORTS EXPECTED INFLATION FOR FIVE YEARS AHEAD REMAINS STEADY AT 3% IN AUGUST.
-- 09/09 00:02 [FirstSquawk] NEW YORK FED REPORTS THAT EXPECTED INFLATION FOR ONE YEAR AHEAD REMAINS AT 3.6% IN AUGUST.
-- 09/09 00:02 [financialjuice] NY Fed: Views about current and future personal financial situations deteriorated in August.
-- 09/09 00:02 [FirstSquawk] NEW YORK FED REPORTS EXPECTED INFLATION FOR THREE YEARS AHEAD AT 3.2% IN AUGUST, DOWN FROM 3.3% IN JULY.
-- 09/09 00:02 [FirstSquawk] NEW YORK FED REPORTS THAT EXPECTATIONS FOR A RISE IN UNEMPLOYMENT RATE IN AUGUST WERE THE HIGHEST SINCE APRIL 2020.
-- 09/09 00:02 [FirstSquawk] NEW YORK FED REPORTS AUGUST LABOR MARKET EXPECTATIONS WERE 'MIXED.'
-- 09/09 00:02 [FirstSquawk] NEW YORK FED REPORTS CONSUMERS EXPECTED RISING GASOLINE PRICES IN AUGUST.
-- 09/09 00:02 [FirstSquawk] NEW YORK FED REPORTS THAT PERCEPTIONS OF CURRENT AND FUTURE PERSONAL FINANCIAL CONDITIONS WORSENED IN AUGUST.
 - 09/09 00:03 [financialjuice] NY Fed Survey Of Consumer Expectations
 - 09/09 00:03 [financialjuice] Trump touts the stock market and economic data.
 - 09/09 00:04 [financialjuice] US Treasury Secretary Bessent: I will unveil something on the government next week.
@@ -265,3 +239,5 @@
 - 09/09 05:33 [FirstSquawk] GLOBAL MARKETS: STOCKS SLIDE AS MIDDLE EAST TENSIONS DRIVE OIL HIGHER, WITH BRENT NEAR $98/BBL AND RISING ENERGY PRICES REVIVING INFLATION & FED RATE-HIKE CONCERNS AHEAD OF AUGUST CPI DATA.
 - 09/09 05:33 [FirstSquawk] US EQUITIES: S&P 500 FALLS 0.6%, DOW DROPS 1.2% & NASDAQ 100 EASES 0.1%; TREASURY YIELDS EDGE HIGHER AS MARKETS ASSESS RISING OIL-DRIVEN INFLATION RISKS.
 - 09/09 05:33 [FirstSquawk] COMMODITIES: WTI CLIMBS 2.8% TO $94.08/BBL, WHILE SPOT GOLD SLIDES 1% TO $4,360.27/OZ AMID HEIGHTENED GEOPOLITICAL TENSIONS.
+- 09/09 05:54 [FirstSquawk] UAE PRESIDENT SHEIKH MOHAMMED BIN ZAYED REPORTEDLY WARNED NETANYAHU ABOUT A MAJOR PLANNED HAMAS OPERATION DAYS BEFORE OCT. 7, ACCORDING TO HAARETZ. NETANYAHU’S OFFICE DENIES THE REPORT AS AN “ABSOLUTE LIE,” WHILE THE ALLEGATION REIGNITES PO…
+- 09/09 06:02 [financialjuice] Chile's central bank: will take necessary steps to ensure projected inflation hits 3% over two-year period

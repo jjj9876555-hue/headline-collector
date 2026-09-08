@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 05:51 JST／対象: 09/08 17:51 〜 09/09 05:51 JST（時刻はすべて日本時間）
+生成: 2026-09-09 06:03 JST／対象: 09/08 18:03 〜 09/09 06:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 22:06 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 227 | 09/08 17:52 | 09/09 05:33 | 28分（01:25→01:53） |
-| financialjuice | 186 | 09/08 17:55 | 09/09 05:30 | 33分（02:38→03:12） |
+| FirstSquawk | 224 | 09/08 18:05 | 09/09 05:54 | 28分（01:25→01:53） |
+| financialjuice | 186 | 09/08 18:07 | 09/09 06:02 | 33分（02:38→03:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 414 行（統合前 424 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 411 行（統合前 421 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 17:52 [FirstSquawk] RUSSIA PESKOV: PUTIN TO MEET INDIA MODI ON FRIDAY: TASS
-- 09/08 17:55 [financialjuice] Ukraine's Zelenskiy: Ukraine is ready to compromise on strikes on grain shipments, energy.
-- 09/08 17:56 [FirstSquawk] BRAZIL PRES ELECTION POLL: FLAVIO HAS 46%, LULA 45% IN 2ND ROUND – BTG PACTUAL/NEXUS
-- 09/08 18:00 [FirstSquawk] UK BEGINS TALKS TO REJOIN EU SECURITY MISSIONS
-- 09/08 18:01 [FirstSquawk] UKRAINE PRES ZELENSKIY: AGREED THAT US ENVOYS WILL VISIT AGAIN; WOULD LIKE THEM TO VISIT MORE OFTEN
 - 09/08 18:05 [FirstSquawk] KREMLIN SPOKESPERSON: COOPERATION ON RARE EARTH EXPLORATIONS IS BEING DISCUSSED BETWEEN INDIA AND RUSSIA
 - 09/08 18:07 [financialjuice] RBA's Hauser: Question is whether the RBA has done enough on rates.
 - 09/08 18:07 [financialjuice] RBA's Hauser: RBA stands ready to raise rates again if needed.
@@ -438,3 +433,5 @@
 - 09/09 05:33 [FirstSquawk] GLOBAL MARKETS: STOCKS SLIDE AS MIDDLE EAST TENSIONS DRIVE OIL HIGHER, WITH BRENT NEAR $98/BBL AND RISING ENERGY PRICES REVIVING INFLATION & FED RATE-HIKE CONCERNS AHEAD OF AUGUST CPI DATA.
 - 09/09 05:33 [FirstSquawk] US EQUITIES: S&P 500 FALLS 0.6%, DOW DROPS 1.2% & NASDAQ 100 EASES 0.1%; TREASURY YIELDS EDGE HIGHER AS MARKETS ASSESS RISING OIL-DRIVEN INFLATION RISKS.
 - 09/09 05:33 [FirstSquawk] COMMODITIES: WTI CLIMBS 2.8% TO $94.08/BBL, WHILE SPOT GOLD SLIDES 1% TO $4,360.27/OZ AMID HEIGHTENED GEOPOLITICAL TENSIONS.
+- 09/09 05:54 [FirstSquawk] UAE PRESIDENT SHEIKH MOHAMMED BIN ZAYED REPORTEDLY WARNED NETANYAHU ABOUT A MAJOR PLANNED HAMAS OPERATION DAYS BEFORE OCT. 7, ACCORDING TO HAARETZ. NETANYAHU’S OFFICE DENIES THE REPORT AS AN “ABSOLUTE LIE,” WHILE THE ALLEGATION REIGNITES PO…
+- 09/09 06:02 [financialjuice] Chile's central bank: will take necessary steps to ensure projected inflation hits 3% over two-year period

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 05:51 JST／対象: 09/08 05:51 〜 09/09 05:51 JST（時刻はすべて日本時間）
+生成: 2026-09-09 06:03 JST／対象: 09/08 06:03 〜 09/09 06:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/08 06:42 | 09/09 05:33 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 414 | 09/08 05:57 | 09/09 05:33 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 314 | 09/08 07:45 | 09/09 05:30 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 413 | 09/08 08:36 | 09/09 05:54 | 28分（01:25→01:53） |
+| financialjuice | 315 | 09/08 07:45 | 09/09 06:02 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 731 行（統合前 741 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 05:57 [FirstSquawk] POSTE ITALIANE HAS INCREASED ITS CONSIDERATION FOR THE TENDER OFFER ON TELECOM ITALIA AND WAIVED THE THRESHOLD CONDITION, ADDING A €0.30 CASH COMPONENT PER TIM SHARE TO TAKE THE AGGREGATE CASH COMPONENT PER TIM SHARE TO €1.97, WITH A MAXIMU…
-- 09/08 05:58 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 7, CENTCOM FORCES HAVE REDIRECTED 94 COMMERCIAL VESSELS, DISABLED 3 AND BOARDED 2 TO ENSURE COMPLETE COMPLIANCE WITH THE U.S. BLOCKADE AGAINST IRAN, WITH AN E/A-18G AIRCRAFT LAUNCHING FROM THE FLIG…
 - 09/08 06:42 [DeItaone] IRAN ACCUSES CANADA OF BOWING TO U.S. PRESSURE Iranian Foreign Ministry spokesman Esmaeil Baghaei accused Canada of yielding to U.S. “intimidation” after Ottawa criticized Tehran over regional security and freedom of navigation. Baghaei sai…
 - 09/08 07:45 [financialjuice] NEW ZEALAND MANUFACTURING SALES ACTUAL 0.8% (FORECAST -, PREVIOUS 3.6%) $MACRO
 - 09/08 07:45 [financialjuice] New Zealand 2-year swap-adjusted manufacturing sales volumes rise 0.8% on previous quarter
@@ -755,3 +753,5 @@
 - 09/09 05:33 [FirstSquawk] GLOBAL MARKETS: STOCKS SLIDE AS MIDDLE EAST TENSIONS DRIVE OIL HIGHER, WITH BRENT NEAR $98/BBL AND RISING ENERGY PRICES REVIVING INFLATION & FED RATE-HIKE CONCERNS AHEAD OF AUGUST CPI DATA.
 - 09/09 05:33 [FirstSquawk] US EQUITIES: S&P 500 FALLS 0.6%, DOW DROPS 1.2% & NASDAQ 100 EASES 0.1%; TREASURY YIELDS EDGE HIGHER AS MARKETS ASSESS RISING OIL-DRIVEN INFLATION RISKS.
 - 09/09 05:33 [FirstSquawk] COMMODITIES: WTI CLIMBS 2.8% TO $94.08/BBL, WHILE SPOT GOLD SLIDES 1% TO $4,360.27/OZ AMID HEIGHTENED GEOPOLITICAL TENSIONS.
+- 09/09 05:54 [FirstSquawk] UAE PRESIDENT SHEIKH MOHAMMED BIN ZAYED REPORTEDLY WARNED NETANYAHU ABOUT A MAJOR PLANNED HAMAS OPERATION DAYS BEFORE OCT. 7, ACCORDING TO HAARETZ. NETANYAHU’S OFFICE DENIES THE REPORT AS AN “ABSOLUTE LIE,” WHILE THE ALLEGATION REIGNITES PO…
+- 09/09 06:02 [financialjuice] Chile's central bank: will take necessary steps to ensure projected inflation hits 3% over two-year period
