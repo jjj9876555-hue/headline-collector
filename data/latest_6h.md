@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 05:18 JST／対象: 09/08 23:18 〜 09/09 05:18 JST（時刻はすべて日本時間）
+生成: 2026-09-09 05:33 JST／対象: 09/08 23:33 〜 09/09 05:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/08 23:18 | 09/09 03:46 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 135 | 09/08 23:18 | 09/09 05:03 | 28分（01:25→01:53） |
-| financialjuice | 115 | 09/08 23:20 | 09/09 05:14 | 33分（02:38→03:12） |
+| DeItaone | 6 | 09/08 23:50 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
+| FirstSquawk | 137 | 09/08 23:43 | 09/09 05:33 | 28分（01:25→01:53） |
+| financialjuice | 112 | 09/08 23:38 | 09/09 05:30 | 33分（02:38→03:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 251 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 250 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 23:18 [FirstSquawk] END OF WAR WOULD IMMEDIATELY OPEN UP IMPRESSIVE POTENTIAL TO RESTORE U.S.-RUSSIA TIES - KREMLIN || KREMLIN SAYS TRUMP WOULD LIKE U.S.-RUSSIA TIES TO BE RESTORED DURING HIS PRESIDENCY || TRUMP AND PUTIN BOTH RATED U.S. ENVOYS' VISIT - KREMLI…
-- 09/08 23:18 [DeItaone] PUTIN TOLD TRUMP RUSSIA HAS NO HOSTILE PLANS TOWARDS EUROPE - KREMLIN
-- 09/08 23:20 [financialjuice] BoE Gov. Bailey: I do not think we are on the verge of a recession.
-- 09/08 23:20 [financialjuice] BoE Gov. Bailey: The latest data is looking a bit stronger.
-- 09/08 23:20 [FirstSquawk] PUTIN TOLD TRUMP WHAT US COULD DO TO END THE FIGHTING SOONER - KREMLIN || PUTIN GAVE TRUMP RUSSIA'S ASSESSMENT OF WHAT IS HAPPENING ON THE BATTLEFIELD - KREMLIN || PUTIN TOLD TRUMP RUSSIA HAS NO HOSTILE PLANS TOWARDS EUROPE - KREMLIN
-- 09/08 23:20 [FirstSquawk] UK SANCTIONS CLASH WITH LAWS IN MANY US STATES: ISRAEL'S SA'AR
-- 09/08 23:20 [financialjuice] BoE Gov. Bailey: Activity has been reasonable resilient, but weak by historic standards.
-- 09/08 23:23 [financialjuice] BoE Gov. Bailey: The labour market is softening, and the hiring rate is lower.
-- 09/08 23:25 [FirstSquawk] BOE’S BAILEY: LABOUR MARKET IS SOFTENING, HIRING RATE IS LOWER
-- 09/08 23:25 [financialjuice] BoE Gov. Bailey: We are seeing some signs of productivity picking up, not necessarily all in sectors that are exposed to AI.
-- 09/08 23:26 [financialjuice] Trump honors 9/11 victims, first responders at White House - WATCH LIVE
-- 09/08 23:26 [FirstSquawk] ISRAEL’S FOREIGN MINISTER GIDEON SA’AR: THE CONNECTION AND RIGHT OF THE JEWISH PEOPLE TO THIS LAND ARE EXTENSIVELY DOCUMENTED, MORE THAN ANY OTHER PEOPLE OR NATION IN HUMAN HISTORY.
-- 09/08 23:28 [FirstSquawk] IN A FEW MINUTES, IMPORTANT NEWS WILL BE RELEASED ABOUT THE HUNTING OF IRGC NAVY FIGHTERS IN THE STRAIT OF HORMUZ – TASNIM
 - 09/08 23:38 [financialjuice] Canada extends it's federal fuel excise tax relief on gasoline.
 - 09/08 23:43 [financialjuice] BoE Gov. Bailey: We want to achieve a better quality debate on global imbalances when the UK hosts the G20 next year.
 - 09/08 23:43 [FirstSquawk] CANADA'S TRADE MINISTER SIDHU ANNOUNCED TALKS TO SELL NUCLEAR-POWER TECHNOLOGY AND LIQUEFIED NATURAL GAS (LNG) TO POLAND.
@@ -275,3 +262,15 @@
 - 09/09 05:02 [financialjuice] Iran's IRGC Navy: Ships will be targeted in response to the US attack on Iranian oil tankers.
 - 09/09 05:03 [FirstSquawk] IRGC NAVY WARNS OIL TANKER CREWS NEAR KUWAITI & BAHRAINI PORTS HOSTING US FORCES TO EVACUATE, THREATENING TO TARGET VESSELS IN RETALIATION FOR US STRIKES ON IRANIAN OIL TANKERS
 - 09/09 05:14 [financialjuice] Bonds and Stocks Drop as Oil Soars on Middle East Fears – US Market Wrap
+- 09/09 05:25 [financialjuice/FirstSquawk] The US attacked a second oil tanker near the waters of Jask - IRIB News
+- 09/09 05:26 [FirstSquawk] HEATHROW: ARRIVALS SUSPENDED FOR THE REST OF TUESDAY DUE TO EARLIER NATS TECHNICAL ISSUE; DEPARTURES & AIR TRAFFIC CONTROL SERVICES HAVE RESUMED, BUT DISRUPTIONS ARE EXPECTED TO CONTINUE.
+- 09/09 05:27 [FirstSquawk] HHS ANNOUNCES KEY FDA LEADERSHIP APPOINTMENTS, NAMING JARED SEEHAFER AS THE AGENCY’S FIRST DEPUTY COMMISSIONER FOR TECHNOLOGY & ARTIFICIAL INTELLIGENCE, ALONGSIDE NEW HEADS FOR TOBACCO, BIOLOGICS & DRUG EVALUATION CENTERS.
+- 09/09 05:29 [financialjuice] Google and Blackstone venture faces delays at data-center sites. $GOOGL $BX
+- 09/09 05:30 [financialjuice] Trump: Directing GSA, working with USTR, to take all necessary steps to remove Canadian-origin products from GSA's multiple award schedules.
+- 09/09 05:31 [DeItaone] IRAN'S STATE BROADCASTER IRIB: U.S. ATTACKED SECOND OIL TANKER NEAR WATERS OF JASK
+- 09/09 05:31 [FirstSquawk] TRUMP: DIRECTING GSA, IN COORDINATION WITH USTR, TO TAKE ALL NECESSARY STEPS TO REMOVE CANADIAN-ORIGIN PRODUCTS FROM GSA MULTIPLE AWARD SCHEDULES, ESCALATING US-CANADA TRADE TENSIONS.
+- 09/09 05:32 [FirstSquawk] BESSENT SET TO ANNOUNCE LARGER US TREASURY BUYBACK AS WALL STREET EXPECTS $5-$6 BILLION OPERATION, PUTTING LONG-TERM BONDS IN FOCUS. A BIGGER BUYBACK COULD REDUCE NET LONG-DATED DEBT SUPPLY AND HELP CONTAIN ELEVATED YIELDS, WITH THE ANNOUNC…
+- 09/09 05:33 [DeItaone] TRUMP MOVES TO RESTRICT CANADIAN PRODUCTS FROM U.S. PROCUREMENT President Donald Trump directed the GSA and USTR to remove Canadian-origin products from federal procurement schedules unless Canada provides greater access to U.S. companies a…
+- 09/09 05:33 [FirstSquawk] GLOBAL MARKETS: STOCKS SLIDE AS MIDDLE EAST TENSIONS DRIVE OIL HIGHER, WITH BRENT NEAR $98/BBL AND RISING ENERGY PRICES REVIVING INFLATION & FED RATE-HIKE CONCERNS AHEAD OF AUGUST CPI DATA.
+- 09/09 05:33 [FirstSquawk] US EQUITIES: S&P 500 FALLS 0.6%, DOW DROPS 1.2% & NASDAQ 100 EASES 0.1%; TREASURY YIELDS EDGE HIGHER AS MARKETS ASSESS RISING OIL-DRIVEN INFLATION RISKS.
+- 09/09 05:33 [FirstSquawk] COMMODITIES: WTI CLIMBS 2.8% TO $94.08/BBL, WHILE SPOT GOLD SLIDES 1% TO $4,360.27/OZ AMID HEIGHTENED GEOPOLITICAL TENSIONS.

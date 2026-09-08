@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 05:18 JST／対象: 09/08 05:18 〜 09/09 05:18 JST（時刻はすべて日本時間）
+生成: 2026-09-09 05:33 JST／対象: 09/08 05:33 〜 09/09 05:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/08 06:42 | 09/09 03:46 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 406 | 09/08 05:57 | 09/09 05:03 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 311 | 09/08 07:45 | 09/09 05:14 | ⚠ 56分（15:45→16:42） |
+| DeItaone | 12 | 09/08 06:42 | 09/09 05:33 | ⚠ 649分（06:42→17:32） |
+| FirstSquawk | 414 | 09/08 05:57 | 09/09 05:33 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 314 | 09/08 07:45 | 09/09 05:30 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 719 行（統合前 728 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 731 行（統合前 741 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -743,3 +743,15 @@
 - 09/09 05:02 [financialjuice] Iran's IRGC Navy: Ships will be targeted in response to the US attack on Iranian oil tankers.
 - 09/09 05:03 [FirstSquawk] IRGC NAVY WARNS OIL TANKER CREWS NEAR KUWAITI & BAHRAINI PORTS HOSTING US FORCES TO EVACUATE, THREATENING TO TARGET VESSELS IN RETALIATION FOR US STRIKES ON IRANIAN OIL TANKERS
 - 09/09 05:14 [financialjuice] Bonds and Stocks Drop as Oil Soars on Middle East Fears – US Market Wrap
+- 09/09 05:25 [financialjuice/FirstSquawk] The US attacked a second oil tanker near the waters of Jask - IRIB News
+- 09/09 05:26 [FirstSquawk] HEATHROW: ARRIVALS SUSPENDED FOR THE REST OF TUESDAY DUE TO EARLIER NATS TECHNICAL ISSUE; DEPARTURES & AIR TRAFFIC CONTROL SERVICES HAVE RESUMED, BUT DISRUPTIONS ARE EXPECTED TO CONTINUE.
+- 09/09 05:27 [FirstSquawk] HHS ANNOUNCES KEY FDA LEADERSHIP APPOINTMENTS, NAMING JARED SEEHAFER AS THE AGENCY’S FIRST DEPUTY COMMISSIONER FOR TECHNOLOGY & ARTIFICIAL INTELLIGENCE, ALONGSIDE NEW HEADS FOR TOBACCO, BIOLOGICS & DRUG EVALUATION CENTERS.
+- 09/09 05:29 [financialjuice] Google and Blackstone venture faces delays at data-center sites. $GOOGL $BX
+- 09/09 05:30 [financialjuice] Trump: Directing GSA, working with USTR, to take all necessary steps to remove Canadian-origin products from GSA's multiple award schedules.
+- 09/09 05:31 [DeItaone] IRAN'S STATE BROADCASTER IRIB: U.S. ATTACKED SECOND OIL TANKER NEAR WATERS OF JASK
+- 09/09 05:31 [FirstSquawk] TRUMP: DIRECTING GSA, IN COORDINATION WITH USTR, TO TAKE ALL NECESSARY STEPS TO REMOVE CANADIAN-ORIGIN PRODUCTS FROM GSA MULTIPLE AWARD SCHEDULES, ESCALATING US-CANADA TRADE TENSIONS.
+- 09/09 05:32 [FirstSquawk] BESSENT SET TO ANNOUNCE LARGER US TREASURY BUYBACK AS WALL STREET EXPECTS $5-$6 BILLION OPERATION, PUTTING LONG-TERM BONDS IN FOCUS. A BIGGER BUYBACK COULD REDUCE NET LONG-DATED DEBT SUPPLY AND HELP CONTAIN ELEVATED YIELDS, WITH THE ANNOUNC…
+- 09/09 05:33 [DeItaone] TRUMP MOVES TO RESTRICT CANADIAN PRODUCTS FROM U.S. PROCUREMENT President Donald Trump directed the GSA and USTR to remove Canadian-origin products from federal procurement schedules unless Canada provides greater access to U.S. companies a…
+- 09/09 05:33 [FirstSquawk] GLOBAL MARKETS: STOCKS SLIDE AS MIDDLE EAST TENSIONS DRIVE OIL HIGHER, WITH BRENT NEAR $98/BBL AND RISING ENERGY PRICES REVIVING INFLATION & FED RATE-HIKE CONCERNS AHEAD OF AUGUST CPI DATA.
+- 09/09 05:33 [FirstSquawk] US EQUITIES: S&P 500 FALLS 0.6%, DOW DROPS 1.2% & NASDAQ 100 EASES 0.1%; TREASURY YIELDS EDGE HIGHER AS MARKETS ASSESS RISING OIL-DRIVEN INFLATION RISKS.
+- 09/09 05:33 [FirstSquawk] COMMODITIES: WTI CLIMBS 2.8% TO $94.08/BBL, WHILE SPOT GOLD SLIDES 1% TO $4,360.27/OZ AMID HEIGHTENED GEOPOLITICAL TENSIONS.
