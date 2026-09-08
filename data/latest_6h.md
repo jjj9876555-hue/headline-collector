@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 04:16 JST／対象: 09/08 22:16 〜 09/09 04:16 JST（時刻はすべて日本時間）
+生成: 2026-09-09 04:32 JST／対象: 09/08 22:32 〜 09/09 04:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/08 22:39 | 09/09 03:46 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 146 | 09/08 22:24 | 09/09 04:15 | 28分（01:25→01:53） |
-| financialjuice | 125 | 09/08 22:23 | 09/09 04:13 | 33分（02:38→03:12） |
+| FirstSquawk | 146 | 09/08 22:35 | 09/09 04:28 | 28分（01:25→01:53） |
+| financialjuice | 122 | 09/08 22:32 | 09/09 04:31 | 33分（02:38→03:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 272 行（統合前 277 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 269 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 22:23 [financialjuice] BoE Gov. Bailey: The US-Iran war has led to high energy prices, they could be higher still.
-- 09/08 22:24 [FirstSquawk] BAILEY: ENERGY PRICES COULD GO EVEN HIGHER DUE TO US-IRAN WAR
-- 09/08 22:25 [FirstSquawk] BOE'S BAILEY: UKRAINIAN ATTACKS ON RUSSIAN REFINERIES ALSO PUSHING UP COST OF REFINED OIL PRODUCTS
-- 09/08 22:26 [financialjuice] BoE Gov. Bailey: The Ukrainian attacks on Russian refineries are pushing up cost of refined oil products.
-- 09/08 22:29 [financialjuice] NATO Sec. Gen. Rutte: Nations have no choice but to dig deeper to support Ukraine.
-- 09/08 22:29 [FirstSquawk] NATO'S RUTTE: NATIONS HAVE NO CHOICE BUT TO DIG DEEPER TO SUPPORT UKRAINE
-- 09/08 22:29 [FirstSquawk] UK FOREIGN OFFICE:SUMMONS SERBIAN AMBASSADOR TO CONDEMN COMMEMORATIONS SURROUNDING THE FUNERAL OF CONVICTED WAR CRIMINAL RATKO MLADIC
-- 09/08 22:30 [financialjuice] BoE’s Greene: The length of time that oil prices have been high worries me about 2nd round effects down the line.
-- 09/08 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -301.5 MLN NASDAQ 100: -28.9 MLN DOW 30: -56.6 MLN MAG 7: -9.2 MLN $MACRO
-- 09/08 22:31 [FirstSquawk] DOW JONES DOWN 429.11 POINTS, OR 0.80 PERCENT, AT 52,985.14 AFTER MARKET OPEN NASDAQ UP 27.79 POINTS, OR 0.11 PERCENT, AT 26,534.78 AFTER MARKET OPEN S&P 500 DOWN 6.66 POINTS, OR 0.09 PERCENT, AT 7,711.94 AFTER MARKET OPEN
 - 09/08 22:32 [financialjuice] BoE's Ramsden: The domestic inflation position is relatively benign.
 - 09/08 22:33 [financialjuice/FirstSquawk/DeItaone] US Defense Official: We must be prepared for a protracted conflict in Ukraine.
 - 09/08 22:33 [financialjuice] BoE's Ramsden: I get reassurance on inflation from the labour market.
@@ -296,3 +286,10 @@
 - 09/09 04:13 [financialjuice] US is currently attacking Iranian oil tankers - I24 News citing a US source.
 - 09/09 04:15 [FirstSquawk] RUSSIA’S ROSSOTRUDNICHESTVO HEAD IGOR CHAIKA SAYS MOSCOW-YEREVAN TIES REMAIN “NORMAL,” COMPARING THEM TO A BIG FAMILY WHERE TENSIONS OCCASIONALLY ARISE.
 - 09/09 04:15 [FirstSquawk] IRAN FM ARAGHCHI: AFTER 47 YEARS OF US SANCTIONS & WAR, WASHINGTON HAS FAILED TO ACHIEVE ITS GOALS; NOW IT IS RESORTING TO “MORE SANCTIONS,” WHICH HE CALLS A DESPERATE MOVE.
+- 09/09 04:16 [FirstSquawk] BRENT CRUDE SURGES TOWARD $100/BBL, HITTING A SIX-WEEK HIGH, WHILE US GASOLINE PRICES SET A LABOR DAY RECORD AT $4.15/GALLON; BANKS WARN PROLONGED CONFLICT COULD PUSH OIL TO $120–$150/BBL.
+- 09/09 04:18 [FirstSquawk] US FORCES ARE REPORTEDLY STRIKING IRANIAN OIL TANKERS, WITH TWO US OFFICIALS CITED AS SAYING AMERICAN DRONES TARGETED TANKERS OFF IRAN’S SOUTHERN COAST: I24 NEWS.
+- 09/09 04:19 [FirstSquawk] U.S. CENTCOM: US UNDERWATER DRONE THAT MALFUNCTIONED MORE THAN A DAY BEFORE IRAN’S ANNOUNCEMENT WAS AN OLDER MODEL WITH NO CLASSIFIED SENSORS OR SENSITIVE DATA; WASHINGTON HAS NOT CONFIRMED IRAN RECOVERED THE VEHICLE OR THAT IT WAS A DIVE-L…
+- 09/09 04:22 [financialjuice] Wednesday FX Options Expiries
+- 09/09 04:28 [FirstSquawk] OIL APPROACHES $100 AS NEW HOUTHI ATTACKS ON SAUDI ENERGY INFRASTRUCTURE AND EXPLOSIONS ON IRAN’S KHARG ISLAND HEIGHTEN GLOBAL SUPPLY FEARS.
+- 09/09 04:28 [FirstSquawk] BRENT RISES 1% TO $97.92 AND WTI JUMPS 1.7% TO $93.03 AS HORMUZ FLOWS REMAIN AROUND HALF PRE-WAR LEVELS, RAISING FRESH INFLATION AND REFINED-FUEL SUPPLY RISKS.
+- 09/09 04:31 [financialjuice] Iranian tanker was targeted by a US missile attack four miles from Kharg Island - Tasnim
