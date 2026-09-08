@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 21:49 JST／対象: 09/07 21:49 〜 09/08 21:49 JST（時刻はすべて日本時間）
+生成: 2026-09-08 22:02 JST／対象: 09/07 22:02 〜 09/08 22:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 00:17 | 09/08 17:32 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 286 | 09/07 22:05 | 09/08 21:47 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 180 | 09/07 22:45 | 09/08 21:46 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 288 | 09/07 22:05 | 09/08 21:59 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 186 | 09/07 22:45 | 09/08 22:02 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 474 行（統合前 477 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 482 行（統合前 485 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -498,3 +498,11 @@
 - 09/08 21:37 [FirstSquawk] BANK OF ENGLAND TO HOLD BANK RATE AT 3.75% UNTIL Q2 2027, MEDIANS SHOW
 - 09/08 21:46 [financialjuice] EU's Trade Chief Sefcovic: Current situation with China is unsustainable.
 - 09/08 21:47 [FirstSquawk] US TREASURIES ERASE DECLINES; YIELDS EDGE TOWARD SESSION LOWS
+- 09/08 21:54 [FirstSquawk] EUROPE SET TO BUY PATRIOTS FROM US TO SHIELD UKRAINE THIS WINTER – BBG
+- 09/08 21:59 [FirstSquawk] VERIZON, CORNING REACH PARTNERSHIP FOR FIBER: CNBC
+- 09/08 22:00 [financialjuice] Qualcomm reports a multi-generational product pact with Amazon. $QCOM $AMZN
+- 09/08 22:00 [financialjuice] Effective Fed funds rate 3.63% September 4rg vs 3.63% September 3rd.
+- 09/08 22:01 [financialjuice] ECB Settled €1,667.7 bln public-sector bond purchases.
+- 09/08 22:01 [financialjuice] ECB settled €216.7 bln corporate bond purchases.
+- 09/08 22:01 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
+- 09/08 22:02 [financialjuice] Germany's Wadephul: The growing China trade deficit is alarming.

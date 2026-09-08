@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 21:49 JST／対象: 09/08 09:49 〜 09/08 21:49 JST（時刻はすべて日本時間）
+生成: 2026-09-08 22:02 JST／対象: 09/08 10:02 〜 09/08 22:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 204 | 09/08 09:52 | 09/08 21:47 | 22分（15:53→16:15） |
-| financialjuice | 121 | 09/08 09:51 | 09/08 21:46 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 201 | 09/08 10:07 | 09/08 21:59 | 22分（15:53→16:15） |
+| financialjuice | 125 | 09/08 10:10 | 09/08 22:02 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 325 行（統合前 327 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 326 行（統合前 328 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 09:51 [financialjuice] Two residential buildings damaged in Ukraine's Kyiv in Russian air strike: city officials
-- 09/08 09:52 [FirstSquawk] Russian strike damages two residential buildings in Ukraine’s Kyiv, officials say
-- 09/08 09:58 [FirstSquawk] Euro holds gains above 1.1600 on ECB tightening prospects - fx
-- 09/08 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805%, unchanged from previous session
-- 09/08 10:01 [FirstSquawk] Taiwan overnight interbank rate holds at 0.805% at session open
-- 09/08 10:01 [FirstSquawk] 5-year Japanese government bond yield drops 2.0 bps to 2.230%
-- 09/08 10:02 [FirstSquawk] 30-year Japanese government bond yield drops 4.0 bps to 3.980%
 - 09/08 10:07 [FirstSquawk] Japan sends fighter jets to intercept Chinese spy aircraft over East China Sea
 - 09/08 10:10 [financialjuice] S. Korea Defence Minister Ahn: North Korea strengthening DMZ beyond precedent, dialogue needed to resolve issue
 - 09/08 10:11 [FirstSquawk] S. Korea defence minister Ahn: North Korea strengthening DMZ fortifications to unprecedented levels, dialogue needed
@@ -349,3 +342,11 @@
 - 09/08 21:37 [FirstSquawk] BANK OF ENGLAND TO HOLD BANK RATE AT 3.75% UNTIL Q2 2027, MEDIANS SHOW
 - 09/08 21:46 [financialjuice] EU's Trade Chief Sefcovic: Current situation with China is unsustainable.
 - 09/08 21:47 [FirstSquawk] US TREASURIES ERASE DECLINES; YIELDS EDGE TOWARD SESSION LOWS
+- 09/08 21:54 [FirstSquawk] EUROPE SET TO BUY PATRIOTS FROM US TO SHIELD UKRAINE THIS WINTER – BBG
+- 09/08 21:59 [FirstSquawk] VERIZON, CORNING REACH PARTNERSHIP FOR FIBER: CNBC
+- 09/08 22:00 [financialjuice] Qualcomm reports a multi-generational product pact with Amazon. $QCOM $AMZN
+- 09/08 22:00 [financialjuice] Effective Fed funds rate 3.63% September 4rg vs 3.63% September 3rd.
+- 09/08 22:01 [financialjuice] ECB Settled €1,667.7 bln public-sector bond purchases.
+- 09/08 22:01 [financialjuice] ECB settled €216.7 bln corporate bond purchases.
+- 09/08 22:01 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
+- 09/08 22:02 [financialjuice] Germany's Wadephul: The growing China trade deficit is alarming.

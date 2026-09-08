@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 21:49 JST／対象: 09/08 15:49 〜 09/08 21:49 JST（時刻はすべて日本時間）
+生成: 2026-09-08 22:02 JST／対象: 09/08 16:02 〜 09/08 22:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 76 | 09/08 15:53 | 09/08 21:47 | 22分（15:53→16:15） |
-| financialjuice | 35 | 09/08 16:42 | 09/08 21:46 | 40分（16:42→17:22） |
+| FirstSquawk | 77 | 09/08 16:15 | 09/08 21:59 | 20分（16:48→17:09） |
+| financialjuice | 41 | 09/08 16:42 | 09/08 22:02 | 40分（16:42→17:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 118 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 15:53 [FirstSquawk] Polish Air Force ends response operations over Russian strikes on Ukraine; no airspace violations detected, Polish Army says
 - 09/08 16:15 [FirstSquawk] NOVARTIS SHARES FALL 10% AFTER THIRD TRIAL SETBACK IN A WEEK
 - 09/08 16:17 [FirstSquawk] Audi CEO: VW Weighs Selling Ducati Motorcycle Unit In Broad Review
 - 09/08 16:20 [FirstSquawk] BRITISH DIPLOMATS HAVE PRIVATELY ASSURED THE US THAT NEW SANCTIONS ON ISRAELI SETTLEMENTS ARE LARGELY SYMBOLIC AND WILL NOT MATERIALLY AFFECT UK-ISRAEL TRADE OR SECURITY TIES.
@@ -135,3 +134,11 @@
 - 09/08 21:37 [FirstSquawk] BANK OF ENGLAND TO HOLD BANK RATE AT 3.75% UNTIL Q2 2027, MEDIANS SHOW
 - 09/08 21:46 [financialjuice] EU's Trade Chief Sefcovic: Current situation with China is unsustainable.
 - 09/08 21:47 [FirstSquawk] US TREASURIES ERASE DECLINES; YIELDS EDGE TOWARD SESSION LOWS
+- 09/08 21:54 [FirstSquawk] EUROPE SET TO BUY PATRIOTS FROM US TO SHIELD UKRAINE THIS WINTER – BBG
+- 09/08 21:59 [FirstSquawk] VERIZON, CORNING REACH PARTNERSHIP FOR FIBER: CNBC
+- 09/08 22:00 [financialjuice] Qualcomm reports a multi-generational product pact with Amazon. $QCOM $AMZN
+- 09/08 22:00 [financialjuice] Effective Fed funds rate 3.63% September 4rg vs 3.63% September 3rd.
+- 09/08 22:01 [financialjuice] ECB Settled €1,667.7 bln public-sector bond purchases.
+- 09/08 22:01 [financialjuice] ECB settled €216.7 bln corporate bond purchases.
+- 09/08 22:01 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
+- 09/08 22:02 [financialjuice] Germany's Wadephul: The growing China trade deficit is alarming.
