@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 20:25 JST／対象: 09/07 20:25 〜 09/08 20:25 JST（時刻はすべて日本時間）
+生成: 2026-09-08 20:43 JST／対象: 09/07 20:43 〜 09/08 20:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 00:17 | 09/08 17:32 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 298 | 09/07 20:29 | 09/08 20:22 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 176 | 09/07 21:10 | 09/08 20:22 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 293 | 09/07 20:58 | 09/08 20:40 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 177 | 09/07 21:10 | 09/08 20:30 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 482 行（統合前 484 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 478 行（統合前 480 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 20:29 [FirstSquawk] UK PM'S SPOKESMAN, TOM WELLS, BRIEFS REPORTERS IN LONDON
-- 09/07 20:29 [FirstSquawk] UK GOVT REMAINS COMMITTED TO PENSIONS TRIPLE LOCK: WELLS
-- 09/07 20:32 [FirstSquawk] CHILE POSTS TRADE SURPLUS OF $1,688 MILLION IN AUG.
-- 09/07 20:32 [FirstSquawk] CHILE'S IMPORTS FELL TO $7.81 BILLION IN AUG.
-- 09/07 20:33 [FirstSquawk] CHILEAN COPPER EXPORTS FELL TO $4.62 BILLION IN AUG.
-- 09/07 20:38 [FirstSquawk] MERZ: FAR-RIGHT STATE VICTORY WILL AFFECT GERMANY AS A WHOLE
-- 09/07 20:40 [FirstSquawk] UK PM SPOX WELLS: BUSINESS SEC REYNOLDS TO MEET JLR THIS WEEK
-- 09/07 20:42 [FirstSquawk] GERMANY'S MERZ AFTER SAXONY-ANHALT ELECTION: MY DETERMINATION TO DO THESE REFORMS REMAINS UNWAVERING
 - 09/07 20:58 [FirstSquawk] ETIHAD AIRWAYS: WILL FLY TO SAUDI ARABIA'S RED SEA COAST FROM 4 OCTOBER 2026
 - 09/07 20:59 [FirstSquawk] HUNGARY TO INTRODUCE `FAIR' WEALTH TAX, PREMIER MAGYAR SAYS
 - 09/07 21:03 [FirstSquawk] NORDIC ALLIANCE SAID TO EXPLORE REGIONAL SCALE-UP FUND
@@ -506,3 +498,7 @@
 - 09/08 20:18 [financialjuice] US seeks more access to Venezuela's minerals.
 - 09/08 20:22 [FirstSquawk] IRAN HAS CONVEYED ITS CONDITIONS TO THE US THROUGH INTERMEDIARIES AFTER WASHINGTON RECENTLY SENT NEW PROPOSALS TO TEHRAN
 - 09/08 20:22 [financialjuice] Commerce Department reaches $100m deal with D-wave under chips act.
+- 09/08 20:30 [FirstSquawk] JEFFERIES FUND ACCUSES RADIANT WORLD OF FRAUD IN LONDON LAWSUIT
+- 09/08 20:30 [financialjuice] Quantum Cyber buys NVIDIA A100 AI compute cluster.
+- 09/08 20:33 [FirstSquawk] GE AEROSPACE TO BUY CONSOLIDATED PRECISION PRODUCTS FOR $11.75B
+- 09/08 20:40 [FirstSquawk] PHILLIP MORRIS Q3 2026 GUIDANCE UPDATE EQUITY - SEES Q3 ADJ EPS $2.29 TO $2.34, SAW $2.20 TO $2.25 || SEES FY ADJ EPS $8.35 TO $8.50, SAW $8.26 TO $8.41

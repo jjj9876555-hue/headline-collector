@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 20:25 JST／対象: 09/08 08:25 〜 09/08 20:25 JST（時刻はすべて日本時間）
+生成: 2026-09-08 20:43 JST／対象: 09/08 08:43 〜 09/08 20:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 223 | 09/08 08:36 | 09/08 20:22 | 22分（15:53→16:15） |
-| financialjuice | 135 | 09/08 08:29 | 09/08 20:22 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 225 | 09/08 08:57 | 09/08 20:40 | 22分（15:53→16:15） |
+| financialjuice | 130 | 09/08 08:50 | 09/08 20:30 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 358 行（統合前 359 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 355 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 08:29 [financialjuice] Argentina to file criminal charges against Navitas Oil and executives for operating in Falkland Islands: statement
-- 09/08 08:30 [financialjuice] JAPANESE AVERAGE CASH EARNINGS YOY ACTUAL 4.7% (FORECAST 3.8%, PREVIOUS 3.4%4.0%) $MACRO
-- 09/08 08:30 [financialjuice] JAPANESE OVERTIME PAY ACTUAL 3.1% (FORECAST -, PREVIOUS 2.8% ,REVISION 3.4%) $MACRO
-- 09/08 08:30 [financialjuice] Japan July overtime pay rises 3.1% year-on-year: government
-- 09/08 08:30 [financialjuice] Japan July total cash earnings rise 4.7% year on year: govt
-- 09/08 08:30 [financialjuice] Japan July inflation-adjusted real wages rise 2.4% yr/yr: govt
-- 09/08 08:36 [FirstSquawk] JAPAN'S JULY TOTAL CASH EARNINGS ROSE 4.7% YEAR-ON-YEAR, ABOVE THE 3.8% FORECAST, WITH INFLATION-ADJUSTED REAL WAGES UP 2.4% AND OVERTIME PAY UP 3.1% - GOVT
 - 09/08 08:50 [financialjuice] ❗ JAPANESE CURRENT ACCOUNT NSA YEN ACTUAL 2988.9B (FORECAST 2849.5B, PREVIOUS -92.3B) $MACRO
 - 09/08 08:50 [financialjuice] ‼ BREAKING: JAPANESE GDP REV QOQ ANNUALISED ACTUAL 1.4% (FORECAST 1.8%, PREVIOUS 1.1%) $MACRO
 - 09/08 08:50 [financialjuice] Japan July unadjusted current account surplus 2,988.9 billion yen, Ministry of Finance poll was 2,869.8 billion yen
@@ -382,3 +375,7 @@
 - 09/08 20:18 [financialjuice] US seeks more access to Venezuela's minerals.
 - 09/08 20:22 [FirstSquawk] IRAN HAS CONVEYED ITS CONDITIONS TO THE US THROUGH INTERMEDIARIES AFTER WASHINGTON RECENTLY SENT NEW PROPOSALS TO TEHRAN
 - 09/08 20:22 [financialjuice] Commerce Department reaches $100m deal with D-wave under chips act.
+- 09/08 20:30 [FirstSquawk] JEFFERIES FUND ACCUSES RADIANT WORLD OF FRAUD IN LONDON LAWSUIT
+- 09/08 20:30 [financialjuice] Quantum Cyber buys NVIDIA A100 AI compute cluster.
+- 09/08 20:33 [FirstSquawk] GE AEROSPACE TO BUY CONSOLIDATED PRECISION PRODUCTS FOR $11.75B
+- 09/08 20:40 [FirstSquawk] PHILLIP MORRIS Q3 2026 GUIDANCE UPDATE EQUITY - SEES Q3 ADJ EPS $2.29 TO $2.34, SAW $2.20 TO $2.25 || SEES FY ADJ EPS $8.35 TO $8.50, SAW $8.26 TO $8.41

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 20:25 JST／対象: 09/08 14:25 〜 09/08 20:25 JST（時刻はすべて日本時間）
+生成: 2026-09-08 20:43 JST／対象: 09/08 14:43 〜 09/08 20:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 81 | 09/08 14:27 | 09/08 20:22 | 22分（15:53→16:15） |
-| financialjuice | 35 | 09/08 15:00 | 09/08 20:22 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 80 | 09/08 14:45 | 09/08 20:40 | 22分（15:53→16:15） |
+| financialjuice | 36 | 09/08 15:00 | 09/08 20:30 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 116 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 14:27 [FirstSquawk] Saudi Energy Ministry: Authorities focused on facility and personnel safety and continuity of operations
-- 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Attacks sparked fires at several sites, temporarily suspending some operations
-- 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Energy facilities and utilities in the kingdom’s southern region targeted Tuesday morning
-- 09/08 14:39 [FirstSquawk] MISTRAL RAISES RECORD €3BN AS EUROPE STRAINS TO KEEP PACE IN AI RACE-FT
 - 09/08 14:45 [FirstSquawk] CHINA’S TRADE SURPLUS WIDENS AS EXPORT GROWTH ACCELERATES-WSJ
 - 09/08 14:50 [FirstSquawk] Brent rises $1 to $98/bbl after Saudi Arabia says Houthis targeted energy facilities and utilities
 - 09/08 14:51 [FirstSquawk] Russia targets Ukraine with dozens of missiles and 166 drones in overnight attack, Air Force says
@@ -140,3 +136,7 @@
 - 09/08 20:18 [financialjuice] US seeks more access to Venezuela's minerals.
 - 09/08 20:22 [FirstSquawk] IRAN HAS CONVEYED ITS CONDITIONS TO THE US THROUGH INTERMEDIARIES AFTER WASHINGTON RECENTLY SENT NEW PROPOSALS TO TEHRAN
 - 09/08 20:22 [financialjuice] Commerce Department reaches $100m deal with D-wave under chips act.
+- 09/08 20:30 [FirstSquawk] JEFFERIES FUND ACCUSES RADIANT WORLD OF FRAUD IN LONDON LAWSUIT
+- 09/08 20:30 [financialjuice] Quantum Cyber buys NVIDIA A100 AI compute cluster.
+- 09/08 20:33 [FirstSquawk] GE AEROSPACE TO BUY CONSOLIDATED PRECISION PRODUCTS FOR $11.75B
+- 09/08 20:40 [FirstSquawk] PHILLIP MORRIS Q3 2026 GUIDANCE UPDATE EQUITY - SEES Q3 ADJ EPS $2.29 TO $2.34, SAW $2.20 TO $2.25 || SEES FY ADJ EPS $8.35 TO $8.50, SAW $8.26 TO $8.41
