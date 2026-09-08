@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 23:19 JST／対象: 09/08 17:19 〜 09/08 23:19 JST（時刻はすべて日本時間）
+生成: 2026-09-08 23:37 JST／対象: 09/08 17:37 〜 09/08 23:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/08 17:32 | 09/08 23:18 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 92 | 09/08 17:25 | 09/08 23:18 | 17分（21:12→21:29） |
-| financialjuice | 69 | 09/08 17:22 | 09/08 23:17 | 33分（17:22→17:55） |
+| DeItaone | 4 | 09/08 22:06 | 09/08 23:18 | 39分（22:39→23:18） |
+| FirstSquawk | 93 | 09/08 17:38 | 09/08 23:28 | 17分（21:12→21:29） |
+| financialjuice | 74 | 09/08 17:55 | 09/08 23:26 | 32分（19:45→20:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 167 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 17:22 [financialjuice] German Finance Minister Klingbeil: Special fund opponents are the very same people whose ideology has ensured that our country’s infrastructure has been neglected for far too long.
-- 09/08 17:25 [FirstSquawk] KREMLIN SPOKESPERSON: PUTIN AND INDIAN PM MODI WILL HAVE BILATERAL TALKS
-- 09/08 17:28 [FirstSquawk] KREMLIN SPOKESPERSON: RUSSIA SUPPORTS THE IDEA OF INVITING NEW COUNTRIES TO JOIN DIFFERENT FORMATS OF COOPERATION WITHIN BRICS
-- 09/08 17:32 [DeItaone] KREMLIN SPOKESPERSON: RUSSIA'S AIM IS NOT DE-DOLLARISATION
-- 09/08 17:35 [FirstSquawk] JAPAN, OMAN DISCUSS INTERNATIONAL LAW REGARDING HORMUZ
-- 09/08 17:36 [FirstSquawk] KREMLIN SPOKESPERSON: RUSSIA REACHED AT 90% OF ALL TRANSACTIONS IN NATIONAL CURRENCIES WITH BRICS COUNTRIES
 - 09/08 17:38 [FirstSquawk] GERMAN FINANCE MINISTER: WITHOUT TAKING ON NEW DEBT, WE CANNOT DEFEND OURSELVES
 - 09/08 17:44 [FirstSquawk] KREMLIN SPOKESPERSON IN VIRTUAL INTERACTION WITH INDIAN REPORTERS: RUSSIA IS OPEN TO PROCESS OF SOLVING WAR IN UKRAINE THROUGH PEACEFUL MEANS
 - 09/08 17:48 [FirstSquawk] USD/JPY PARES LOSSES, DOWN 0.1% TO 154.15, VERSUS 152.89 LOW
@@ -186,3 +180,14 @@
 - 09/08 23:18 [FirstSquawk] UK MOVES LEFT ISRAEL NO CHOICE BUT TO RESPOND: SA'AR
 - 09/08 23:18 [FirstSquawk] END OF WAR WOULD IMMEDIATELY OPEN UP IMPRESSIVE POTENTIAL TO RESTORE U.S.-RUSSIA TIES - KREMLIN || KREMLIN SAYS TRUMP WOULD LIKE U.S.-RUSSIA TIES TO BE RESTORED DURING HIS PRESIDENCY || TRUMP AND PUTIN BOTH RATED U.S. ENVOYS' VISIT - KREMLI…
 - 09/08 23:18 [DeItaone] PUTIN TOLD TRUMP RUSSIA HAS NO HOSTILE PLANS TOWARDS EUROPE - KREMLIN
+- 09/08 23:20 [financialjuice] BoE Gov. Bailey: I do not think we are on the verge of a recession.
+- 09/08 23:20 [financialjuice] BoE Gov. Bailey: The latest data is looking a bit stronger.
+- 09/08 23:20 [FirstSquawk] PUTIN TOLD TRUMP WHAT US COULD DO TO END THE FIGHTING SOONER - KREMLIN || PUTIN GAVE TRUMP RUSSIA'S ASSESSMENT OF WHAT IS HAPPENING ON THE BATTLEFIELD - KREMLIN || PUTIN TOLD TRUMP RUSSIA HAS NO HOSTILE PLANS TOWARDS EUROPE - KREMLIN
+- 09/08 23:20 [FirstSquawk] UK SANCTIONS CLASH WITH LAWS IN MANY US STATES: ISRAEL'S SA'AR
+- 09/08 23:20 [financialjuice] BoE Gov. Bailey: Activity has been reasonable resilient, but weak by historic standards.
+- 09/08 23:23 [financialjuice] BoE Gov. Bailey: The labour market is softening, and the hiring rate is lower.
+- 09/08 23:25 [FirstSquawk] BOE’S BAILEY: LABOUR MARKET IS SOFTENING, HIRING RATE IS LOWER
+- 09/08 23:25 [financialjuice] BoE Gov. Bailey: We are seeing some signs of productivity picking up, not necessarily all in sectors that are exposed to AI.
+- 09/08 23:26 [financialjuice] Trump honors 9/11 victims, first responders at White House - WATCH LIVE
+- 09/08 23:26 [FirstSquawk] ISRAEL’S FOREIGN MINISTER GIDEON SA’AR: THE CONNECTION AND RIGHT OF THE JEWISH PEOPLE TO THIS LAND ARE EXTENSIVELY DOCUMENTED, MORE THAN ANY OTHER PEOPLE OR NATION IN HUMAN HISTORY.
+- 09/08 23:28 [FirstSquawk] IN A FEW MINUTES, IMPORTANT NEWS WILL BE RELEASED ABOUT THE HUNTING OF IRGC NAVY FIGHTERS IN THE STRAIT OF HORMUZ – TASNIM

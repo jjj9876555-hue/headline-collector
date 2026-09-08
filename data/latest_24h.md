@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 23:19 JST／対象: 09/07 23:19 〜 09/08 23:19 JST（時刻はすべて日本時間）
+生成: 2026-09-08 23:37 JST／対象: 09/07 23:37 〜 09/08 23:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 14 | 09/08 00:17 | 09/08 23:18 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 301 | 09/07 23:31 | 09/08 23:18 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 211 | 09/07 23:36 | 09/08 23:17 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 304 | 09/07 23:56 | 09/08 23:28 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 216 | 09/07 23:53 | 09/08 23:26 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 521 行（統合前 527 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 529 行（統合前 535 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 23:31 [FirstSquawk] CHINA HAS STARTED ANTI-DUMPING ACTIONS ON IMPORTANT CHIPMAKING MATERIALS IMPORTED FROM JAPAN, ACCORDING TO NIKKEI.
-- 09/07 23:32 [FirstSquawk] EU'S KAJA KALLAS SAYS RUSSIA IS NOT SERIOUS ABOUT PEACE.
-- 09/07 23:36 [financialjuice] US CPI Prep (11th September)
 - 09/07 23:53 [financialjuice] UFORCE Funding $SPCX
 - 09/07 23:56 [financialjuice/FirstSquawk] Iran warns ships face strike risk near Oman's Khasab - Fars
 - 09/07 23:57 [financialjuice] UFORCE Funding $SPCX Defense startup UFORCE is in talks to raise $500M at a $5B valuation. SpaceX backer Valor is in discussions to lead the round.
@@ -545,3 +542,14 @@
 - 09/08 23:18 [FirstSquawk] UK MOVES LEFT ISRAEL NO CHOICE BUT TO RESPOND: SA'AR
 - 09/08 23:18 [FirstSquawk] END OF WAR WOULD IMMEDIATELY OPEN UP IMPRESSIVE POTENTIAL TO RESTORE U.S.-RUSSIA TIES - KREMLIN || KREMLIN SAYS TRUMP WOULD LIKE U.S.-RUSSIA TIES TO BE RESTORED DURING HIS PRESIDENCY || TRUMP AND PUTIN BOTH RATED U.S. ENVOYS' VISIT - KREMLI…
 - 09/08 23:18 [DeItaone] PUTIN TOLD TRUMP RUSSIA HAS NO HOSTILE PLANS TOWARDS EUROPE - KREMLIN
+- 09/08 23:20 [financialjuice] BoE Gov. Bailey: I do not think we are on the verge of a recession.
+- 09/08 23:20 [financialjuice] BoE Gov. Bailey: The latest data is looking a bit stronger.
+- 09/08 23:20 [FirstSquawk] PUTIN TOLD TRUMP WHAT US COULD DO TO END THE FIGHTING SOONER - KREMLIN || PUTIN GAVE TRUMP RUSSIA'S ASSESSMENT OF WHAT IS HAPPENING ON THE BATTLEFIELD - KREMLIN || PUTIN TOLD TRUMP RUSSIA HAS NO HOSTILE PLANS TOWARDS EUROPE - KREMLIN
+- 09/08 23:20 [FirstSquawk] UK SANCTIONS CLASH WITH LAWS IN MANY US STATES: ISRAEL'S SA'AR
+- 09/08 23:20 [financialjuice] BoE Gov. Bailey: Activity has been reasonable resilient, but weak by historic standards.
+- 09/08 23:23 [financialjuice] BoE Gov. Bailey: The labour market is softening, and the hiring rate is lower.
+- 09/08 23:25 [FirstSquawk] BOE’S BAILEY: LABOUR MARKET IS SOFTENING, HIRING RATE IS LOWER
+- 09/08 23:25 [financialjuice] BoE Gov. Bailey: We are seeing some signs of productivity picking up, not necessarily all in sectors that are exposed to AI.
+- 09/08 23:26 [financialjuice] Trump honors 9/11 victims, first responders at White House - WATCH LIVE
+- 09/08 23:26 [FirstSquawk] ISRAEL’S FOREIGN MINISTER GIDEON SA’AR: THE CONNECTION AND RIGHT OF THE JEWISH PEOPLE TO THIS LAND ARE EXTENSIVELY DOCUMENTED, MORE THAN ANY OTHER PEOPLE OR NATION IN HUMAN HISTORY.
+- 09/08 23:28 [FirstSquawk] IN A FEW MINUTES, IMPORTANT NEWS WILL BE RELEASED ABOUT THE HUNTING OF IRGC NAVY FIGHTERS IN THE STRAIT OF HORMUZ – TASNIM

@@ -7,49 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 23:19 JST／対象: 09/08 11:19 〜 09/08 23:19 JST（時刻はすべて日本時間）
+生成: 2026-09-08 23:37 JST／対象: 09/08 11:37 〜 09/08 23:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/08 17:32 | 09/08 23:18 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 199 | 09/08 11:24 | 09/08 23:18 | 22分（15:53→16:15） |
-| financialjuice | 137 | 09/08 11:24 | 09/08 23:17 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 198 | 09/08 11:38 | 09/08 23:28 | 22分（15:53→16:15） |
+| financialjuice | 123 | 09/08 11:37 | 09/08 23:26 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 337 行（統合前 342 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 322 行（統合前 327 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 11:24 [financialjuice] Dollar/yen down 0.9% to 152.95
-- 09/08 11:24 [FirstSquawk] Dollar/yen declines 0.90% to 152.95
-- 09/08 11:28 [financialjuice] Hormuz traffic slows at start of week as Middle East tensions escalate, shipping data shows
-- 09/08 11:28 [FirstSquawk] Strait of Hormuz traffic slows as Middle East tensions intensify, shipping data shows
-- 09/08 11:29 [FirstSquawk] XPeng puts humanoid robot production lines into operation and completes first advanced robot
-- 09/08 11:30 [FirstSquawk] XPeng to begin robot sales and deliveries in China and overseas in 2027
-- 09/08 11:30 [FirstSquawk] Massive amount of impacts in Kyiv, tonight after a large-scale Russian missile attack. Residential buildings have been hit in the Ukrainian capital - WSN
-- 09/08 11:30 [financialjuice] China Aug yuan-denominated exports rise 18.6% y/y: state media
-- 09/08 11:30 [financialjuice] Japan finance minister Katayama: will engage openly with markets, public to build trust
-- 09/08 11:32 [FirstSquawk] South Korea’s KOSPI gains 2%
-- 09/08 11:35 [financialjuice] China Aug dollar-denominated exports rise 25% y/y, matching poll
-- 09/08 11:35 [financialjuice] China August trade surplus 809.3 billion yuan
-- 09/08 11:35 [financialjuice] China Aug yuan-denominated exports rise 18.6% y/y
-- 09/08 11:35 [financialjuice] China August yuan-denominated imports rise 21.7% year on year
-- 09/08 11:35 [financialjuice] China August trade surplus $119.09 billion vs. $119.05 billion estimate
-- 09/08 11:36 [financialjuice] China's Aug trade surplus with US $29.18 bln, vs $28 bln surplus in July, customs data show
-- 09/08 11:36 [financialjuice] China August crude oil imports 37.93 mln tonnes vs 35.73 mln tonnes in July: customs
-- 09/08 11:36 [financialjuice] China August oil product imports 2.25 mln tonnes vs 2.48 mln tonnes in July: customs
-- 09/08 11:36 [financialjuice] China Jan-Aug oil product imports 22.15 million tonnes vs 26.73 million tonnes year earlier: customs
-- 09/08 11:36 [financialjuice] China jan-aug natural gas imports 78.23 mln tonnes vs 81.81 mln tonnes year earlier: customs
-- 09/08 11:36 [financialjuice] China august natural gas imports 10.33 mln tonnes vs 10.54 mln tonnes in july: customs
-- 09/08 11:36 [financialjuice] China August unwrought copper and copper product imports 382,000 tonnes vs 425,000 tonnes in July: customs
-- 09/08 11:36 [financialjuice] China Jan-Aug crude oil imports 320.90 million tonnes vs 375.71 million tonnes year earlier: customs
-- 09/08 11:36 [financialjuice] China jan-aug copper concentrates imports 19.49 million tonnes vs 20.06 million tonnes year earlier: customs
-- 09/08 11:36 [financialjuice] China jan-aug unwrought copper and copper products imports: 3,297,000 tonnes vs 3,533,000 tonnes a year earlier - customs
-- 09/08 11:37 [financialjuice] China august copper concentrate imports 2.51 million tonnes, vs 2.38 million tonnes in july: customs
 - 09/08 11:37 [financialjuice] China August oil product exports 6.01 million tonnes vs 4.65 million tonnes in July: customs
 - 09/08 11:37 [financialjuice] China August rare earth shipments 4,735.1 tonnes vs 4,223.5 tonnes in July: customs
 - 09/08 11:37 [financialjuice] China August unwrought aluminium and aluminium products exports 626,000 tonnes vs 643,000 tonnes in July: customs
@@ -361,3 +335,14 @@
 - 09/08 23:18 [FirstSquawk] UK MOVES LEFT ISRAEL NO CHOICE BUT TO RESPOND: SA'AR
 - 09/08 23:18 [FirstSquawk] END OF WAR WOULD IMMEDIATELY OPEN UP IMPRESSIVE POTENTIAL TO RESTORE U.S.-RUSSIA TIES - KREMLIN || KREMLIN SAYS TRUMP WOULD LIKE U.S.-RUSSIA TIES TO BE RESTORED DURING HIS PRESIDENCY || TRUMP AND PUTIN BOTH RATED U.S. ENVOYS' VISIT - KREMLI…
 - 09/08 23:18 [DeItaone] PUTIN TOLD TRUMP RUSSIA HAS NO HOSTILE PLANS TOWARDS EUROPE - KREMLIN
+- 09/08 23:20 [financialjuice] BoE Gov. Bailey: I do not think we are on the verge of a recession.
+- 09/08 23:20 [financialjuice] BoE Gov. Bailey: The latest data is looking a bit stronger.
+- 09/08 23:20 [FirstSquawk] PUTIN TOLD TRUMP WHAT US COULD DO TO END THE FIGHTING SOONER - KREMLIN || PUTIN GAVE TRUMP RUSSIA'S ASSESSMENT OF WHAT IS HAPPENING ON THE BATTLEFIELD - KREMLIN || PUTIN TOLD TRUMP RUSSIA HAS NO HOSTILE PLANS TOWARDS EUROPE - KREMLIN
+- 09/08 23:20 [FirstSquawk] UK SANCTIONS CLASH WITH LAWS IN MANY US STATES: ISRAEL'S SA'AR
+- 09/08 23:20 [financialjuice] BoE Gov. Bailey: Activity has been reasonable resilient, but weak by historic standards.
+- 09/08 23:23 [financialjuice] BoE Gov. Bailey: The labour market is softening, and the hiring rate is lower.
+- 09/08 23:25 [FirstSquawk] BOE’S BAILEY: LABOUR MARKET IS SOFTENING, HIRING RATE IS LOWER
+- 09/08 23:25 [financialjuice] BoE Gov. Bailey: We are seeing some signs of productivity picking up, not necessarily all in sectors that are exposed to AI.
+- 09/08 23:26 [financialjuice] Trump honors 9/11 victims, first responders at White House - WATCH LIVE
+- 09/08 23:26 [FirstSquawk] ISRAEL’S FOREIGN MINISTER GIDEON SA’AR: THE CONNECTION AND RIGHT OF THE JEWISH PEOPLE TO THIS LAND ARE EXTENSIVELY DOCUMENTED, MORE THAN ANY OTHER PEOPLE OR NATION IN HUMAN HISTORY.
+- 09/08 23:28 [FirstSquawk] IN A FEW MINUTES, IMPORTANT NEWS WILL BE RELEASED ABOUT THE HUNTING OF IRGC NAVY FIGHTERS IN THE STRAIT OF HORMUZ – TASNIM
