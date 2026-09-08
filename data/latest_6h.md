@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 04:58 JST／対象: 09/08 22:58 〜 09/09 04:58 JST（時刻はすべて日本時間）
+生成: 2026-09-09 05:18 JST／対象: 09/08 23:18 〜 09/09 05:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/08 23:18 | 09/09 03:46 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 145 | 09/08 22:59 | 09/09 04:55 | 28分（01:25→01:53） |
-| financialjuice | 117 | 09/08 22:59 | 09/09 04:53 | 33分（02:38→03:12） |
+| FirstSquawk | 135 | 09/08 23:18 | 09/09 05:03 | 28分（01:25→01:53） |
+| financialjuice | 115 | 09/08 23:20 | 09/09 05:14 | 33分（02:38→03:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 263 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 251 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 22:59 [FirstSquawk] GOLDMAN BRINGS FORWARD RBA RATE HIKE TO SEPT, FROM NOV
-- 09/08 22:59 [FirstSquawk] ORACLE ISSUES RFP FOR 2 GW OF RENEWABLE ENERGY IN NEW MEXICO
-- 09/08 22:59 [FirstSquawk] GOLDMAN SACHS BRINGS FORWARD RBA RATE HIKE FORECASTS TO SEPTEMBER, FROM NOVEMBER
-- 09/08 22:59 [financialjuice] BoE Gov. Bailey: Risks to food price inflation are to the upside.
-- 09/08 23:01 [FirstSquawk] CHINA'S HUAWEI TECHNOLOGIES FACES RACKETEERING TRIAL IN NEW YORK
-- 09/08 23:05 [financialjuice] BoE's Ramsden: The increased frequency of supply shocks may lead to the ratcheting-up of prices.
-- 09/08 23:08 [financialjuice] BoE's Ramsden: The impact of QT on yields is still very much in the background.
-- 09/08 23:08 [financialjuice] BoE's Ramsden: It is unclear if the slightly higher estimate of the QT impact reflects the extra year of QT, or better estimates.
-- 09/08 23:10 [FirstSquawk] US CB EMPLOYMENT TRENDS INDEX AUG: 108.53 (PREV 107.71; PREV R 107.76)
-- 09/08 23:12 [FirstSquawk] OFAC: GLOBAL TERRORISM SANCTIONS REGULATIONS GENERAL LICENCE
-- 09/08 23:12 [FirstSquawk] US SUSPENDS IRAN-RELATED GENERAL LICENSE J-1 EFFECTIVE SEPT. 8
-- 09/08 23:12 [FirstSquawk] US SANCTIONS AIR SHIRAZ, ASA JET AIRLINE, ATA AIRLINES
-- 09/08 23:12 [FirstSquawk] US: J-1 ALLOWED REEXPORTATION OF SOME CIVIL AIRCRAFT TO IRAN
-- 09/08 23:12 [FirstSquawk] US SANCTIONS AVA AIRLINES, ATLAS AVIATION GROUP, CHABAHAR AIR
-- 09/08 23:17 [financialjuice] Trump and Putin discussed outcome of the US envoys' visit to Moscow and Kyiv - Kremlin
-- 09/08 23:18 [FirstSquawk] PUTIN SPOKE TO TRUMP BY PHONE - KREMLIN || KREMLIN: PHONE CALL LASTED ONE HOUR || CONVERSATION WAS OPEN AND CONSTRUCTIVE - KREMLIN || TRUMP AND PUTIN DISCUSSED OUTCOME OF U.S. ENVOYS' VISIT TO MOSCOW AND KYIV - KREMLIN || TRUMP FOCUSED ON T…
-- 09/08 23:18 [FirstSquawk] UK MOVES LEFT ISRAEL NO CHOICE BUT TO RESPOND: SA'AR
 - 09/08 23:18 [FirstSquawk] END OF WAR WOULD IMMEDIATELY OPEN UP IMPRESSIVE POTENTIAL TO RESTORE U.S.-RUSSIA TIES - KREMLIN || KREMLIN SAYS TRUMP WOULD LIKE U.S.-RUSSIA TIES TO BE RESTORED DURING HIS PRESIDENCY || TRUMP AND PUTIN BOTH RATED U.S. ENVOYS' VISIT - KREMLI…
 - 09/08 23:18 [DeItaone] PUTIN TOLD TRUMP RUSSIA HAS NO HOSTILE PLANS TOWARDS EUROPE - KREMLIN
 - 09/08 23:20 [financialjuice] BoE Gov. Bailey: I do not think we are on the verge of a recession.
@@ -287,3 +270,8 @@
 - 09/09 04:53 [FirstSquawk] IRAN LAUNCHED A MISSILE ATTACK ON US NAVY WARSHIPS MONDAY, BUT NO AMERICAN SHIP WAS HIT || THE US MILITARY HAS YET TO PUBLICLY ACKNOWLEDGE THE ATTACK, ACCORDING TO WSJ
 - 09/09 04:53 [financialjuice] Iran Launched Undisclosed Second Wave of Attacks on US Navy Ships - WSJ Iran launched an attack against U.S. Navy ships on Monday that the U.S. military has yet to acknowledge, according to U.S. officials, after firing ballistic missiles at…
 - 09/09 04:55 [FirstSquawk] IRAN LAUNCHED A SECOND, PREVIOUSLY UNDISCLOSED ATTACK ON US NAVY SHIPS MONDAY, ACCORDING TO US OFFICIALS CITED BY WSJ; NO AMERICAN VESSELS WERE HIT, BUT THE ATTACKS RAISE CONCERNS OVER IRAN’S GROWING MISSILE CAPABILITIES AND POSSIBLE CHINES…
+- 09/09 05:01 [financialjuice] Iran's IRGC Navy warns all crew of oil tankers in the vicinity of Kuwaiti and Bahraini ports that host Americans to evacuate - State Media.
+- 09/09 05:02 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 102.72 POINTS, OR 0.39%, AT 26,404.27. S&P 500 UNOFFICIALLY CLOSES DOWN 49.45 POINTS, OR 0.64%, AT 7,669.15. DOW JONES UNOFFICIALLY CLOSES DOWN 659.77 POINTS, OR 1.24%, AT 52,754.48.
+- 09/09 05:02 [financialjuice] Iran's IRGC Navy: Ships will be targeted in response to the US attack on Iranian oil tankers.
+- 09/09 05:03 [FirstSquawk] IRGC NAVY WARNS OIL TANKER CREWS NEAR KUWAITI & BAHRAINI PORTS HOSTING US FORCES TO EVACUATE, THREATENING TO TARGET VESSELS IN RETALIATION FOR US STRIKES ON IRANIAN OIL TANKERS
+- 09/09 05:14 [financialjuice] Bonds and Stocks Drop as Oil Soars on Middle East Fears – US Market Wrap

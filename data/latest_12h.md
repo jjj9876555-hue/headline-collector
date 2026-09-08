@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 04:58 JST／対象: 09/08 16:58 〜 09/09 04:58 JST（時刻はすべて日本時間）
+生成: 2026-09-09 05:18 JST／対象: 09/08 17:18 〜 09/09 05:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 17:32 | 09/09 03:46 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 227 | 09/08 17:09 | 09/09 04:55 | 28分（01:25→01:53） |
-| financialjuice | 181 | 09/08 17:22 | 09/09 04:53 | 33分（02:38→03:12） |
+| FirstSquawk | 226 | 09/08 17:25 | 09/09 05:03 | 28分（01:25→01:53） |
+| financialjuice | 184 | 09/08 17:22 | 09/09 05:14 | 33分（02:38→03:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 409 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 411 行（統合前 420 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 17:09 [FirstSquawk] GERMAN INTERIOR MINISTER ALEXANDER DOBRINDT: WHOEVER IS ATTACKING OUR INFRASTRUCTURE HAS TO KNOW: WE CAN STRIKE BACK, AND WE CAN DISRUPT AND DESTROY THEIR INFRASTRUCTURE. WE WILL NOT ALLOW OURSELVES, AS A SOCIETY, TO BE PERMANENTLY PUT UNDE…
-- 09/08 17:09 [FirstSquawk] UAE DIRECTLY WARNED NETANYAHU BEFORE OCT. 7, HE DISREGARDED IT UAE PRESIDENT WARNED NETANYAHU ABOUT A MAJOR OPERATION BEING PREPARED BY HAMAS ROUGHLY 10 DAYS BEFORE THE ATTACK. NETANYAHU PLAYED DOWN THE THREAT AND DID NOT BRIEF ISRAEL’S SEC…
-- 09/08 17:17 [FirstSquawk] AMAZON ENGAGES BANKS FOR ITS FIRST STERLING BOND SALE.
 - 09/08 17:22 [financialjuice] German Finance Minister Klingbeil: Special fund opponents are the very same people whose ideology has ensured that our country’s infrastructure has been neglected for far too long.
 - 09/08 17:25 [FirstSquawk] KREMLIN SPOKESPERSON: PUTIN AND INDIAN PM MODI WILL HAVE BILATERAL TALKS
 - 09/08 17:28 [FirstSquawk] KREMLIN SPOKESPERSON: RUSSIA SUPPORTS THE IDEA OF INVITING NEW COUNTRIES TO JOIN DIFFERENT FORMATS OF COOPERATION WITHIN BRICS
@@ -433,3 +430,8 @@
 - 09/09 04:53 [FirstSquawk] IRAN LAUNCHED A MISSILE ATTACK ON US NAVY WARSHIPS MONDAY, BUT NO AMERICAN SHIP WAS HIT || THE US MILITARY HAS YET TO PUBLICLY ACKNOWLEDGE THE ATTACK, ACCORDING TO WSJ
 - 09/09 04:53 [financialjuice] Iran Launched Undisclosed Second Wave of Attacks on US Navy Ships - WSJ Iran launched an attack against U.S. Navy ships on Monday that the U.S. military has yet to acknowledge, according to U.S. officials, after firing ballistic missiles at…
 - 09/09 04:55 [FirstSquawk] IRAN LAUNCHED A SECOND, PREVIOUSLY UNDISCLOSED ATTACK ON US NAVY SHIPS MONDAY, ACCORDING TO US OFFICIALS CITED BY WSJ; NO AMERICAN VESSELS WERE HIT, BUT THE ATTACKS RAISE CONCERNS OVER IRAN’S GROWING MISSILE CAPABILITIES AND POSSIBLE CHINES…
+- 09/09 05:01 [financialjuice] Iran's IRGC Navy warns all crew of oil tankers in the vicinity of Kuwaiti and Bahraini ports that host Americans to evacuate - State Media.
+- 09/09 05:02 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 102.72 POINTS, OR 0.39%, AT 26,404.27. S&P 500 UNOFFICIALLY CLOSES DOWN 49.45 POINTS, OR 0.64%, AT 7,669.15. DOW JONES UNOFFICIALLY CLOSES DOWN 659.77 POINTS, OR 1.24%, AT 52,754.48.
+- 09/09 05:02 [financialjuice] Iran's IRGC Navy: Ships will be targeted in response to the US attack on Iranian oil tankers.
+- 09/09 05:03 [FirstSquawk] IRGC NAVY WARNS OIL TANKER CREWS NEAR KUWAITI & BAHRAINI PORTS HOSTING US FORCES TO EVACUATE, THREATENING TO TARGET VESSELS IN RETALIATION FOR US STRIKES ON IRANIAN OIL TANKERS
+- 09/09 05:14 [financialjuice] Bonds and Stocks Drop as Oil Soars on Middle East Fears – US Market Wrap

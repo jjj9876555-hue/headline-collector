@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 04:58 JST／対象: 09/08 04:58 〜 09/09 04:58 JST（時刻はすべて日本時間）
+生成: 2026-09-09 05:18 JST／対象: 09/08 05:18 〜 09/09 05:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 06:42 | 09/09 03:46 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 404 | 09/08 05:57 | 09/09 04:55 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 308 | 09/08 07:45 | 09/09 04:53 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 406 | 09/08 05:57 | 09/09 05:03 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 311 | 09/08 07:45 | 09/09 05:14 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 714 行（統合前 723 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 719 行（統合前 728 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -738,3 +738,8 @@
 - 09/09 04:53 [FirstSquawk] IRAN LAUNCHED A MISSILE ATTACK ON US NAVY WARSHIPS MONDAY, BUT NO AMERICAN SHIP WAS HIT || THE US MILITARY HAS YET TO PUBLICLY ACKNOWLEDGE THE ATTACK, ACCORDING TO WSJ
 - 09/09 04:53 [financialjuice] Iran Launched Undisclosed Second Wave of Attacks on US Navy Ships - WSJ Iran launched an attack against U.S. Navy ships on Monday that the U.S. military has yet to acknowledge, according to U.S. officials, after firing ballistic missiles at…
 - 09/09 04:55 [FirstSquawk] IRAN LAUNCHED A SECOND, PREVIOUSLY UNDISCLOSED ATTACK ON US NAVY SHIPS MONDAY, ACCORDING TO US OFFICIALS CITED BY WSJ; NO AMERICAN VESSELS WERE HIT, BUT THE ATTACKS RAISE CONCERNS OVER IRAN’S GROWING MISSILE CAPABILITIES AND POSSIBLE CHINES…
+- 09/09 05:01 [financialjuice] Iran's IRGC Navy warns all crew of oil tankers in the vicinity of Kuwaiti and Bahraini ports that host Americans to evacuate - State Media.
+- 09/09 05:02 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 102.72 POINTS, OR 0.39%, AT 26,404.27. S&P 500 UNOFFICIALLY CLOSES DOWN 49.45 POINTS, OR 0.64%, AT 7,669.15. DOW JONES UNOFFICIALLY CLOSES DOWN 659.77 POINTS, OR 1.24%, AT 52,754.48.
+- 09/09 05:02 [financialjuice] Iran's IRGC Navy: Ships will be targeted in response to the US attack on Iranian oil tankers.
+- 09/09 05:03 [FirstSquawk] IRGC NAVY WARNS OIL TANKER CREWS NEAR KUWAITI & BAHRAINI PORTS HOSTING US FORCES TO EVACUATE, THREATENING TO TARGET VESSELS IN RETALIATION FOR US STRIKES ON IRANIAN OIL TANKERS
+- 09/09 05:14 [financialjuice] Bonds and Stocks Drop as Oil Soars on Middle East Fears – US Market Wrap
