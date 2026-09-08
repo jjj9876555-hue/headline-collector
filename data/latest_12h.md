@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 20:05 JST／対象: 09/08 08:05 〜 09/08 20:05 JST（時刻はすべて日本時間）
+生成: 2026-09-08 20:25 JST／対象: 09/08 08:25 〜 09/08 20:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 219 | 09/08 08:36 | 09/08 20:00 | 22分（15:53→16:15） |
-| financialjuice | 133 | 09/08 08:29 | 09/08 19:45 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 223 | 09/08 08:36 | 09/08 20:22 | 22分（15:53→16:15） |
+| financialjuice | 135 | 09/08 08:29 | 09/08 20:22 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 352 行（統合前 353 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 358 行（統合前 359 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -376,3 +376,9 @@
 - 09/08 19:45 [financialjuice] UK's Chancellor Healey: UK growth still fragile, borrowing still too high.
 - 09/08 19:47 [FirstSquawk] UK CHANCELLOR: STARTING TO SEE UK ECONOMY TURN A CORNER
 - 09/08 20:00 [FirstSquawk] HEALEY SEES SIGNS OF IMPROVEMENT IN THE UK ECONOMY.
+- 09/08 20:06 [FirstSquawk] UK HAS RECORDED ITS HIGHEST BOND SALE YIELD SINCE 1998.
+- 09/08 20:12 [FirstSquawk] INDIA, CHINA ARMY COMMANDERS HELD BORDER TALKS ON SUNDAY: FOREIGN MINISTRY
+- 09/08 20:15 [FirstSquawk] UK OFFICIALS ARE CONCERNED THAT THE SANCTIONS ANNOUNCEMENT MAY STRAIN BURNHAM'S RELATIONSHIP WITH TRUMP, ACCORDING TO THE TIMES.
+- 09/08 20:18 [financialjuice] US seeks more access to Venezuela's minerals.
+- 09/08 20:22 [FirstSquawk] IRAN HAS CONVEYED ITS CONDITIONS TO THE US THROUGH INTERMEDIARIES AFTER WASHINGTON RECENTLY SENT NEW PROPOSALS TO TEHRAN
+- 09/08 20:22 [financialjuice] Commerce Department reaches $100m deal with D-wave under chips act.

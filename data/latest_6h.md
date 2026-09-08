@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 20:05 JST／対象: 09/08 14:05 〜 09/08 20:05 JST（時刻はすべて日本時間）
+生成: 2026-09-08 20:25 JST／対象: 09/08 14:25 〜 09/08 20:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 80 | 09/08 14:08 | 09/08 20:00 | 22分（15:53→16:15） |
-| financialjuice | 36 | 09/08 14:23 | 09/08 19:45 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 81 | 09/08 14:27 | 09/08 20:22 | 22分（15:53→16:15） |
+| financialjuice | 35 | 09/08 15:00 | 09/08 20:22 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 116 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 14:08 [FirstSquawk] Berenberg lifts Keller Group target price to 3,450p from 3,300p
-- 09/08 14:13 [FirstSquawk] Sri Lanka’s Ceylon Petroleum Corp plans to double refining capacity to 100,000 bpd in four years
-- 09/08 14:13 [FirstSquawk] Sri Lanka’s Ceylon Petroleum Corp seeks foreign partners with crude supplies for refining capacity expansion
-- 09/08 14:23 [financialjuice] Saudis say energy facilities targeted on September 8
-- 09/08 14:23 [financialjuice] Saudis say fire erupted in several energy sites.
-- 09/08 14:23 [financialjuice] Saudis say operations at some energy sites halted.
 - 09/08 14:27 [FirstSquawk] Saudi Energy Ministry: Authorities focused on facility and personnel safety and continuity of operations
 - 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Attacks sparked fires at several sites, temporarily suspending some operations
 - 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Energy facilities and utilities in the kingdom’s southern region targeted Tuesday morning
@@ -140,3 +134,9 @@
 - 09/08 19:45 [financialjuice] UK's Chancellor Healey: UK growth still fragile, borrowing still too high.
 - 09/08 19:47 [FirstSquawk] UK CHANCELLOR: STARTING TO SEE UK ECONOMY TURN A CORNER
 - 09/08 20:00 [FirstSquawk] HEALEY SEES SIGNS OF IMPROVEMENT IN THE UK ECONOMY.
+- 09/08 20:06 [FirstSquawk] UK HAS RECORDED ITS HIGHEST BOND SALE YIELD SINCE 1998.
+- 09/08 20:12 [FirstSquawk] INDIA, CHINA ARMY COMMANDERS HELD BORDER TALKS ON SUNDAY: FOREIGN MINISTRY
+- 09/08 20:15 [FirstSquawk] UK OFFICIALS ARE CONCERNED THAT THE SANCTIONS ANNOUNCEMENT MAY STRAIN BURNHAM'S RELATIONSHIP WITH TRUMP, ACCORDING TO THE TIMES.
+- 09/08 20:18 [financialjuice] US seeks more access to Venezuela's minerals.
+- 09/08 20:22 [FirstSquawk] IRAN HAS CONVEYED ITS CONDITIONS TO THE US THROUGH INTERMEDIARIES AFTER WASHINGTON RECENTLY SENT NEW PROPOSALS TO TEHRAN
+- 09/08 20:22 [financialjuice] Commerce Department reaches $100m deal with D-wave under chips act.
