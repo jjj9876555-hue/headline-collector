@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 18:20 JST／対象: 09/08 12:20 〜 09/08 18:20 JST（時刻はすべて日本時間）
+生成: 2026-09-08 18:36 JST／対象: 09/08 12:36 〜 09/08 18:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 98 | 09/08 12:23 | 09/08 18:16 | 22分（15:53→16:15） |
-| financialjuice | 48 | 09/08 12:23 | 09/08 18:16 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 94 | 09/08 12:39 | 09/08 18:32 | 22分（15:53→16:15） |
+| financialjuice | 42 | 09/08 12:36 | 09/08 18:16 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 147 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 137 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 12:23 [financialjuice] Reserve Bank of Australia Assistant Governor Hunter: Housing market crucial transition channel for monetary policy
-- 09/08 12:23 [FirstSquawk] RBA Assistant Governor Hunter: Housing market is a crucial mechanism through which monetary policy affects the economy
-- 09/08 12:26 [financialjuice] RBA's Hunter: effect of house price changes on consumer spending actually quite small
-- 09/08 12:26 [FirstSquawk] RBA’s Hunter says changes in house prices have a relatively small impact on consumer spending
-- 09/08 12:27 [FirstSquawk] RBA’s Hunter: No recession expected in the economy
-- 09/08 12:27 [financialjuice] RBA’s Hunter: don’t anticipate recession in economy
-- 09/08 12:29 [FirstSquawk] RBA’s Hunter: Some moderation in economic activity relative to trend is desirable
-- 09/08 12:29 [financialjuice] RBA's Hunter: We Want to See a Weaker Economy Relative to Trend
-- 09/08 12:31 [financialjuice] RBA's Hunter: aiming to cool down housing market, economy
-- 09/08 12:32 [FirstSquawk] RBA’s Hunter says the RBA is aiming to cool housing activity and the broader economy
-- 09/08 12:33 [financialjuice] Saudi-led coalition in Yemen: 73 injured in Houthi attacks on Saudi Arabia
-- 09/08 12:34 [FirstSquawk] Houthi attacks on Saudi Arabia leave 73 injured, Saudi-led Yemen coalition says
 - 09/08 12:36 [financialjuice] Saudi-led coalition in Yemen: will respond firmly to Houthi attacks
 - 09/08 12:36 [financialjuice] Saudi-led coalition in Yemen: Houthis hit civilian, economic sites in Saudi cities Abha, Khamis Mushait, Najran, and Jazan
 - 09/08 12:38 [financialjuice] RBA's Hunter: Monitoring Bathla situation, no systemic risk seen
@@ -171,3 +159,5 @@
 - 09/08 18:16 [FirstSquawk] GOLDMAN SACHS EXEC: OIL PRODUCT FLOWS OUT OF HORMUZ STRAIT AT 35% OF PRE-WAR LEVELS, VS 70% FOR CRUDE OIL
 - 09/08 18:16 [financialjuice] Saudi Arabia Foreign Minister tells Russia's Lavrov: Our cooperation in OPEC+ allows to balance oil supply and demand, we are interested in further partnership between our countries.
 - 09/08 18:16 [FirstSquawk] NHTSA- OPENS DEFECT PETITION INTO EST 499,603 FORD EDGE VEHICLES DUE TO COOLANT INTRUSION INTO THE ENGINE
+- 09/08 18:23 [FirstSquawk] KREMLIN SPOKESPERSON: ISSUES OF SELLING SU-57 IS ON THE AGENDA BETWEEN INDIA AND RUSSIA
+- 09/08 18:32 [FirstSquawk] BOJ PLANS TO RAISE RATE TO 1.25% AT SEPT. 17-18 MEETING: KYODO

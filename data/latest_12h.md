@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 18:20 JST／対象: 09/08 06:20 〜 09/08 18:20 JST（時刻はすべて日本時間）
+生成: 2026-09-08 18:36 JST／対象: 09/08 06:36 〜 09/08 18:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/08 06:42 | 09/08 17:32 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 193 | 09/08 08:36 | 09/08 18:16 | 22分（15:53→16:15） |
+| FirstSquawk | 195 | 09/08 08:36 | 09/08 18:32 | 22分（15:53→16:15） |
 | financialjuice | 133 | 09/08 07:45 | 09/08 18:16 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 328 行（統合前 328 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 330 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -352,3 +352,5 @@
 - 09/08 18:16 [FirstSquawk] GOLDMAN SACHS EXEC: OIL PRODUCT FLOWS OUT OF HORMUZ STRAIT AT 35% OF PRE-WAR LEVELS, VS 70% FOR CRUDE OIL
 - 09/08 18:16 [financialjuice] Saudi Arabia Foreign Minister tells Russia's Lavrov: Our cooperation in OPEC+ allows to balance oil supply and demand, we are interested in further partnership between our countries.
 - 09/08 18:16 [FirstSquawk] NHTSA- OPENS DEFECT PETITION INTO EST 499,603 FORD EDGE VEHICLES DUE TO COOLANT INTRUSION INTO THE ENGINE
+- 09/08 18:23 [FirstSquawk] KREMLIN SPOKESPERSON: ISSUES OF SELLING SU-57 IS ON THE AGENDA BETWEEN INDIA AND RUSSIA
+- 09/08 18:32 [FirstSquawk] BOJ PLANS TO RAISE RATE TO 1.25% AT SEPT. 17-18 MEETING: KYODO

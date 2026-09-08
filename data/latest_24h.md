@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 18:20 JST／対象: 09/07 18:20 〜 09/08 18:20 JST（時刻はすべて日本時間）
+生成: 2026-09-08 18:36 JST／対象: 09/07 18:36 〜 09/08 18:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 00:17 | 09/08 17:32 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 292 | 09/07 18:24 | 09/08 18:16 | ⚠ 158分（05:58→08:36） |
+| FirstSquawk | 291 | 09/07 18:45 | 09/08 18:32 | ⚠ 158分（05:58→08:36） |
 | financialjuice | 164 | 09/07 19:10 | 09/08 18:16 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 462 行（統合前 467 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 461 行（統合前 466 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 18:24 [FirstSquawk] VW INKS DEAL WITH ISRAELI FIRM TO TURN OSNABRUECK FACTORY INTO DEFENSE HUB
-- 09/07 18:27 [FirstSquawk] IRAN TO RAISE PETROL PRICES AS US WAR TRIGGERS SHORTAGES
-- 09/07 18:32 [FirstSquawk] JAGUAR LAND ROVER TO CUT 4,000 JOBS
 - 09/07 18:45 [FirstSquawk] YEMENI GOVERNMENT FORCES ADVANCED AGAINST IRAN-BACKED HOUTHIS DEEPER INTO THE NORTHERN PROVINCE OF AL-JAWF IN NORTHWESTERN YEMEN ON MONDAY AND WERE MOVING TOWARD ITS CAPITAL, AL-HAZM
 - 09/07 18:52 [FirstSquawk] PRESIDENT TRUMP'S ENVOYS, JARED KUSHNER AND STEVE WITKOFF, SAID THEY HELD "MEANINGFUL DISCUSSIONS" AND ARE ENCOURAGED BY THE TALKS IN KYIV, PART OF A TRIP THAT BEGAN IN MOSCOW, AS THE LATEST PUSH TO END MORE THAN 4½ YEARS OF RUSSIA'S FULL-S…
 - 09/07 18:53 [FirstSquawk] QATAR AUG. FOREIGN RESERVES QAR262.24B
@@ -486,3 +483,5 @@
 - 09/08 18:16 [FirstSquawk] GOLDMAN SACHS EXEC: OIL PRODUCT FLOWS OUT OF HORMUZ STRAIT AT 35% OF PRE-WAR LEVELS, VS 70% FOR CRUDE OIL
 - 09/08 18:16 [financialjuice] Saudi Arabia Foreign Minister tells Russia's Lavrov: Our cooperation in OPEC+ allows to balance oil supply and demand, we are interested in further partnership between our countries.
 - 09/08 18:16 [FirstSquawk] NHTSA- OPENS DEFECT PETITION INTO EST 499,603 FORD EDGE VEHICLES DUE TO COOLANT INTRUSION INTO THE ENGINE
+- 09/08 18:23 [FirstSquawk] KREMLIN SPOKESPERSON: ISSUES OF SELLING SU-57 IS ON THE AGENDA BETWEEN INDIA AND RUSSIA
+- 09/08 18:32 [FirstSquawk] BOJ PLANS TO RAISE RATE TO 1.25% AT SEPT. 17-18 MEETING: KYODO
