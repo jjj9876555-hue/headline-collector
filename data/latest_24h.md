@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 23:37 JST／対象: 09/07 23:37 〜 09/08 23:37 JST（時刻はすべて日本時間）
+生成: 2026-09-08 23:54 JST／対象: 09/07 23:54 〜 09/08 23:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/08 00:17 | 09/08 23:18 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 304 | 09/07 23:56 | 09/08 23:28 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 216 | 09/07 23:53 | 09/08 23:26 | ⚠ 170分（04:54→07:45） |
+| DeItaone | 15 | 09/08 00:17 | 09/08 23:50 | ⚠ 649分（06:42→17:32） |
+| FirstSquawk | 310 | 09/07 23:56 | 09/08 23:52 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 222 | 09/07 23:56 | 09/08 23:53 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 529 行（統合前 535 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 542 行（統合前 548 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 23:53 [financialjuice] UFORCE Funding $SPCX
 - 09/07 23:56 [financialjuice/FirstSquawk] Iran warns ships face strike risk near Oman's Khasab - Fars
 - 09/07 23:57 [financialjuice] UFORCE Funding $SPCX Defense startup UFORCE is in talks to raise $500M at a $5B valuation. SpaceX backer Valor is in discussions to lead the round.
 - 09/07 23:58 [FirstSquawk] VALOR, A SPACEX BACKER, IS IN TALKS TO LEAD A $500 MILLION FUNDING ROUND FOR UFORCE.
@@ -553,3 +552,17 @@
 - 09/08 23:26 [financialjuice] Trump honors 9/11 victims, first responders at White House - WATCH LIVE
 - 09/08 23:26 [FirstSquawk] ISRAEL’S FOREIGN MINISTER GIDEON SA’AR: THE CONNECTION AND RIGHT OF THE JEWISH PEOPLE TO THIS LAND ARE EXTENSIVELY DOCUMENTED, MORE THAN ANY OTHER PEOPLE OR NATION IN HUMAN HISTORY.
 - 09/08 23:28 [FirstSquawk] IN A FEW MINUTES, IMPORTANT NEWS WILL BE RELEASED ABOUT THE HUNTING OF IRGC NAVY FIGHTERS IN THE STRAIT OF HORMUZ – TASNIM
+- 09/08 23:38 [financialjuice] Canada extends it's federal fuel excise tax relief on gasoline.
+- 09/08 23:43 [financialjuice] BoE Gov. Bailey: We want to achieve a better quality debate on global imbalances when the UK hosts the G20 next year.
+- 09/08 23:43 [FirstSquawk] CANADA'S TRADE MINISTER SIDHU ANNOUNCED TALKS TO SELL NUCLEAR-POWER TECHNOLOGY AND LIQUEFIED NATURAL GAS (LNG) TO POLAND.
+- 09/08 23:43 [FirstSquawk] CANADA CONTINUES FEDERAL TAX RELIEF ON GASOLINE FUEL EXCISE.
+- 09/08 23:43 [FirstSquawk] BAILEY SAYS UK AIMS FOR A HIGHER-QUALITY DISCUSSION ON GLOBAL IMBALANCES DURING G20 HOSTING NEXT YEAR.
+- 09/08 23:48 [financialjuice] Kyiv’s allies see the war going into 2027 after Putin met with the US envoys.
+- 09/08 23:49 [FirstSquawk] KYIV'S SUPPORTERS PREDICT WAR COULD LAST UNTIL 2027 FOLLOWING PUTIN'S MEETING WITH U.S. OFFICIALS.
+- 09/08 23:50 [DeItaone] IRGC CLAIMS CAPTURE OF U.S. UNMANNED SUBMARINE Iran’s Islamic Revolutionary Guard Corps (IRGC) Navy claims it captured a U.S. unmanned submarine near the entrance to the Strait of Hormuz. The IRGC said the operation relied on intelligence a…
+- 09/08 23:51 [financialjuice] US Treasury Secretary Bessent on Canada moves: Canada's PM Carney needs to stop campaigning.
+- 09/08 23:51 [financialjuice] Iran's IRGC Navy: We have captured an unmanned US submersible at entrance of the Strait of Hormuz - State Media.
+- 09/08 23:52 [FirstSquawk] BESSENT SAYS CARNEY SHOULD 'STOP CAMPAIGNING' REGARDING CANADIAN ACTIONS.
+- 09/08 23:52 [FirstSquawk] BESSENT BELIEVES THEY WILL OVERCOME THE TRADE DISPUTE WITH CANADA.
+- 09/08 23:52 [financialjuice] US Treasury Secretary Bessent: I think we will get through the Canada trade spat.
+- 09/08 23:53 [financialjuice] US Treasury Secretary Bessent: A Canada trade war would add 0.02% to US inflation.

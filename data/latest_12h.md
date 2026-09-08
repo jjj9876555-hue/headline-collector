@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 23:37 JST／対象: 09/08 11:37 〜 09/08 23:37 JST（時刻はすべて日本時間）
+生成: 2026-09-08 23:54 JST／対象: 09/08 11:54 〜 09/08 23:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/08 17:32 | 09/08 23:18 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 198 | 09/08 11:38 | 09/08 23:28 | 22分（15:53→16:15） |
-| financialjuice | 123 | 09/08 11:37 | 09/08 23:26 | ⚠ 56分（15:45→16:42） |
+| DeItaone | 6 | 09/08 17:32 | 09/08 23:50 | ⚠ 273分（17:32→22:06） |
+| FirstSquawk | 193 | 09/08 11:58 | 09/08 23:52 | 22分（15:53→16:15） |
+| financialjuice | 124 | 09/08 12:23 | 09/08 23:53 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 322 行（統合前 327 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 319 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 11:37 [financialjuice] China August oil product exports 6.01 million tonnes vs 4.65 million tonnes in July: customs
-- 09/08 11:37 [financialjuice] China August rare earth shipments 4,735.1 tonnes vs 4,223.5 tonnes in July: customs
-- 09/08 11:37 [financialjuice] China August unwrought aluminium and aluminium products exports 626,000 tonnes vs 643,000 tonnes in July: customs
-- 09/08 11:37 [financialjuice] China jan-aug rare earth shipments 39,441.4 tonnes vs 44,355.3 tonnes yr earlier: customs
-- 09/08 11:37 [financialjuice] China Jan-Aug unwrought aluminium and aluminium products exports 4.665 million tonnes vs 3.996 million tonnes year earlier: customs
-- 09/08 11:38 [FirstSquawk] China’s August aluminium exports decline to 626,000 tons vs 643,000 tons in July — Customs
-- 09/08 11:40 [FirstSquawk] Singapore transport minister: SIA funds investments from its own balance sheet and has not sought additional capital from shareholders
-- 09/08 11:42 [FirstSquawk] Singapore transport minister: SIA needs overseas expansion to drive further growth amid limited Singapore traffic
-- 09/08 11:42 [FirstSquawk] Singapore Airlines says India investments will remain funded through internal resources, subject to board approval
-- 09/08 11:45 [FirstSquawk] Singapore Airlines says its Air India investment reflects a long-term strategic commitment under its multi-hub strategy
-- 09/08 11:45 [FirstSquawk] Singapore Airlines says requests for additional capital will be assessed under its disciplined capital allocation framework
-- 09/08 11:46 [FirstSquawk] Singapore Airlines says Air India’s transformation will be complex and take multiple years, with progress unlikely to be linear
-- 09/08 11:47 [FirstSquawk] Singapore transport minister says SIA’s finances are distinct from Air India’s and it is not required to provide additional capital
-- 09/08 11:48 [FirstSquawk] Singapore transport minister says SIA has not requested funding from Temasek since the COVID-19 period
-- 09/08 11:50 [FirstSquawk] Singapore transport minister: Political actors should not seek to exploit racial divisions
-- 09/08 11:51 [FirstSquawk] Singapore transport minister says there is no basis for questioning SIA’s commercial decision-making
-- 09/08 11:52 [financialjuice] JP Morgan upgrades ADP to overweight from neutral rating
 - 09/08 11:58 [FirstSquawk] Seoul stocks open higher as AI optimism returns
 - 09/08 11:59 [FirstSquawk] Malaysia's Anwar targets cost-of-living woes after election setbacks - NA
 - 09/08 12:12 [FirstSquawk] N. Korea, Russia open 1st cross-border road bridge amid deepening ties - YONHAP
@@ -346,3 +329,17 @@
 - 09/08 23:26 [financialjuice] Trump honors 9/11 victims, first responders at White House - WATCH LIVE
 - 09/08 23:26 [FirstSquawk] ISRAEL’S FOREIGN MINISTER GIDEON SA’AR: THE CONNECTION AND RIGHT OF THE JEWISH PEOPLE TO THIS LAND ARE EXTENSIVELY DOCUMENTED, MORE THAN ANY OTHER PEOPLE OR NATION IN HUMAN HISTORY.
 - 09/08 23:28 [FirstSquawk] IN A FEW MINUTES, IMPORTANT NEWS WILL BE RELEASED ABOUT THE HUNTING OF IRGC NAVY FIGHTERS IN THE STRAIT OF HORMUZ – TASNIM
+- 09/08 23:38 [financialjuice] Canada extends it's federal fuel excise tax relief on gasoline.
+- 09/08 23:43 [financialjuice] BoE Gov. Bailey: We want to achieve a better quality debate on global imbalances when the UK hosts the G20 next year.
+- 09/08 23:43 [FirstSquawk] CANADA'S TRADE MINISTER SIDHU ANNOUNCED TALKS TO SELL NUCLEAR-POWER TECHNOLOGY AND LIQUEFIED NATURAL GAS (LNG) TO POLAND.
+- 09/08 23:43 [FirstSquawk] CANADA CONTINUES FEDERAL TAX RELIEF ON GASOLINE FUEL EXCISE.
+- 09/08 23:43 [FirstSquawk] BAILEY SAYS UK AIMS FOR A HIGHER-QUALITY DISCUSSION ON GLOBAL IMBALANCES DURING G20 HOSTING NEXT YEAR.
+- 09/08 23:48 [financialjuice] Kyiv’s allies see the war going into 2027 after Putin met with the US envoys.
+- 09/08 23:49 [FirstSquawk] KYIV'S SUPPORTERS PREDICT WAR COULD LAST UNTIL 2027 FOLLOWING PUTIN'S MEETING WITH U.S. OFFICIALS.
+- 09/08 23:50 [DeItaone] IRGC CLAIMS CAPTURE OF U.S. UNMANNED SUBMARINE Iran’s Islamic Revolutionary Guard Corps (IRGC) Navy claims it captured a U.S. unmanned submarine near the entrance to the Strait of Hormuz. The IRGC said the operation relied on intelligence a…
+- 09/08 23:51 [financialjuice] US Treasury Secretary Bessent on Canada moves: Canada's PM Carney needs to stop campaigning.
+- 09/08 23:51 [financialjuice] Iran's IRGC Navy: We have captured an unmanned US submersible at entrance of the Strait of Hormuz - State Media.
+- 09/08 23:52 [FirstSquawk] BESSENT SAYS CARNEY SHOULD 'STOP CAMPAIGNING' REGARDING CANADIAN ACTIONS.
+- 09/08 23:52 [FirstSquawk] BESSENT BELIEVES THEY WILL OVERCOME THE TRADE DISPUTE WITH CANADA.
+- 09/08 23:52 [financialjuice] US Treasury Secretary Bessent: I think we will get through the Canada trade spat.
+- 09/08 23:53 [financialjuice] US Treasury Secretary Bessent: A Canada trade war would add 0.02% to US inflation.
