@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 00:19 JST／対象: 09/08 00:19 〜 09/09 00:19 JST（時刻はすべて日本時間）
+生成: 2026-09-09 00:36 JST／対象: 09/08 00:36 〜 09/09 00:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/08 00:36 | 09/08 23:50 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 335 | 09/08 00:23 | 09/09 00:14 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 245 | 09/08 00:44 | 09/09 00:18 | ⚠ 170分（04:54→07:45） |
+| DeItaone | 13 | 09/08 02:28 | 09/08 23:50 | ⚠ 649分（06:42→17:32） |
+| FirstSquawk | 349 | 09/08 00:43 | 09/09 00:30 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 266 | 09/08 00:44 | 09/09 00:33 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 590 行（統合前 595 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 624 行（統合前 629 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 00:23 [FirstSquawk] GERMAN BONDS CONTINUE TO FALL, WITH TWO-YEAR YIELD INCREASING BY 5 BASIS POINTS TO REACH 3%.
-- 09/08 00:33 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.12%; GERMANY'S DAX DOWN 0.25%
-- 09/08 00:33 [FirstSquawk] FRANCE'S CAC 40 UP 0.25%; SPAIN'S IBEX DOWN 0.22%
-- 09/08 00:36 [DeItaone] COPPER SURGES TO ALL-TIME HIGH Copper hit a record $14,533 a ton on the London Metal Exchange, fueled by fears of potential US tariffs on refined copper imports. Prices have jumped 17% over the past year, supported by tight mine supply and …
 - 09/08 00:43 [FirstSquawk] AIRBUS - AUGUST DELIVERIES: 57 || AUGUST GROSS ORDERS: 67 || DELIVERIES IN JAN-AUGUST: 475 || BOOKED 1,157 GROSS AIRCRAFT ORDERS IN JAN-AUGUST || BOOKED 1,091 NET AIRCRAFT ORDERS IN JAN-AUGUST
 - 09/08 00:44 [financialjuice] Qatar LNG ship nears Hormuz in attempt to exit strait - Data
 - 09/08 00:44 [FirstSquawk] QATAR LNG VESSEL CLOSES IN ON HORMUZ STRAIT FOR EXIT, ACCORDING TO DATA.
@@ -614,3 +610,41 @@
 - 09/09 00:16 [financialjuice] US Treasury Secretary Bessent: Oil to be well supplied when the Iran and Ukraine wars are over.
 - 09/09 00:17 [financialjuice] US Treasury Secretary Bessent: We want Europe to do better, we're pulling for our allies.
 - 09/09 00:18 [financialjuice] Trump ends remarks at the event in DC.
+- 09/09 00:20 [financialjuice] US Treasury Secretary Bessent: Nothing would matter if China pulled away on AI.
+- 09/09 00:20 [financialjuice] US Treasury Secretary Bessent: Iron dome and US defense wouldn't matter if China wins AI.
+- 09/09 00:22 [financialjuice] US Treasury Secretary Bessent repeats: Hyperscalers did a bad job on AI communication.
+- 09/09 00:22 [FirstSquawk] NORTH AMERICAN AEROSPACE UNION IAM DISAGREES WITH EFFORTS TO BLOCK BOMBARDIER AIRCRAFT SALES TO THE US.
+- 09/09 00:22 [FirstSquawk] BESSENT SAYS 'IT WOULDN'T MATTER' IF CHINA WITHDRAWS FROM AI.
+- 09/09 00:22 [FirstSquawk] BESSENT SAYS IRON DOME AND US DEFENSE WOULD BE USELESS IF CHINA SUCCEEDS IN AI.
+- 09/09 00:24 [financialjuice] US Treasury Secretary Bessent: The American people must understand what AI does for them.
+- 09/09 00:24 [FirstSquawk] BESSENT SAYS THE AMERICAN PEOPLE NEED TO GRASP THE BENEFITS OF AI.
+- 09/09 00:24 [FirstSquawk] BESSENT SAYS WE MUST KEEP MOVING FORWARD WITH AI, AS CHINA WILL NOT SLOW DOWN.
+- 09/09 00:24 [financialjuice] US Treasury Secretary Bessent: We can't pause on AI. China won't pause.
+- 09/09 00:26 [financialjuice] US Treasury Secretary Bessent: We make a market buying older bonds.
+- 09/09 00:27 [financialjuice] US Treasury Secretary Bessent: Fever was building in the bond market pre-buyback news.
+- 09/09 00:28 [financialjuice] US Treasury Secretary Bessent rejects the idea that investors are scared about US credit.
+- 09/09 00:28 [financialjuice] US Treasury Secretary Bessent: If people were worried, they'd buy bunds vs treasuries.
+- 09/09 00:28 [FirstSquawk] BESSENT SAYS BUYBACKS ARE FOR LESS LIQUID OFF-THE-RUN SECURITIES.
+- 09/09 00:29 [FirstSquawk] BESSENT ANNOUNCED THEY ARE PURCHASING OLDER BONDS.
+- 09/09 00:29 [FirstSquawk] RUSSIA'S GRAIN HARVEST REACHES 113.5 MILLION TONS.
+- 09/09 00:29 [FirstSquawk] BESSENT SAID 'FEVER' GREW IN THE BOND MARKET BEFORE THE BUYBACK NEWS.
+- 09/09 00:29 [FirstSquawk] BESSENT HAS STATED, I CANNOT ALTER BOND EQUILIBRIUM PRICE.
+- 09/09 00:29 [FirstSquawk] BESSENT SAYS INFLATION EXPECTATIONS ARE CURRENTLY STABLE OR DECREASING.
+- 09/09 00:29 [financialjuice] US Treasury Secretary Bessent: We're seeing the opposite of people buying German bunds vs US bonds.
+- 09/09 00:29 [FirstSquawk] BESSENT DISMISSES CONCERNS THAT INVESTORS FEAR US CREDIT ISSUES.
+- 09/09 00:29 [FirstSquawk] BESSENT SAYS IF PEOPLE WERE CONCERNED, THEY'D PREFER BUNDS OVER TREASURIES.
+- 09/09 00:29 [FirstSquawk] BESSENT SAYS IF PEOPLE WERE ANXIOUS, THEY WOULD CHOOSE BUNDS OVER TREASURIES.
+- 09/09 00:29 [FirstSquawk] BESSENT SAYS GERMAN BONDS ARE UNDERPERFORMING IN COMPARISON TO US BONDS.
+- 09/09 00:29 [FirstSquawk] HIGHER INTEREST RATES HAVE NOT CAUSED A DECREASE IN HOUSE PRICES, SAYS BESSENT.
+- 09/09 00:30 [financialjuice] US Treasury Secretary Bessent: Higher interest rates haven't pulled down house prices.
+- 09/09 00:30 [FirstSquawk] BESSENT BELIEVES MORE SUPPLY IS NEEDED IN THE HOUSING MARKET.
+- 09/09 00:30 [financialjuice] US Treasury Secretary Bessent: We've got to get more supply going in the housing market.
+- 09/09 00:32 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 3.89% (FORECAST -, PREVIOUS 3.885%) $MACRO
+- 09/09 00:32 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 3.8% (FORECAST -, PREVIOUS 3.770%) $MACRO
+- 09/09 00:32 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.61 (FORECAST -, PREVIOUS 2.770) $MACRO
+- 09/09 00:32 [financialjuice] US 6-MONTH BILL BID-TO-COVER ACTUAL 2.88 (FORECAST -, PREVIOUS 2.630) $MACRO
+- 09/09 00:32 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 79.100% (FORECAST -, PREVIOUS 49.270%) $MACRO
+- 09/09 00:32 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 20.330% (FORECAST -, PREVIOUS 66.770%) $MACRO
+- 09/09 00:33 [financialjuice] US 3-Month Bill Auction
+- 09/09 00:33 [financialjuice] US 3-Month Bill Auction High Yield 3.800% Bid-to-cover 2.61 US sells $92 bln Awards 20.33% of bids at high
+- 09/09 00:33 [financialjuice] US 6-Month Bill Auction High Yield 3.890% Bid-to-cover 2.88 US sells $79 bln Awards 79.10% of bids at high
