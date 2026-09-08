@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 17:46 JST／対象: 09/08 05:46 〜 09/08 17:46 JST（時刻はすべて日本時間）
+生成: 2026-09-08 18:00 JST／対象: 09/08 06:00 〜 09/08 18:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/08 06:42 | 09/08 17:32 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 186 | 09/08 05:57 | 09/08 17:44 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 128 | 09/08 07:45 | 09/08 17:22 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 187 | 09/08 08:36 | 09/08 17:56 | 22分（15:53→16:15） |
+| financialjuice | 129 | 09/08 07:45 | 09/08 17:55 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 316 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 318 行（統合前 318 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 05:57 [FirstSquawk] POSTE ITALIANE HAS INCREASED ITS CONSIDERATION FOR THE TENDER OFFER ON TELECOM ITALIA AND WAIVED THE THRESHOLD CONDITION, ADDING A €0.30 CASH COMPONENT PER TIM SHARE TO TAKE THE AGGREGATE CASH COMPONENT PER TIM SHARE TO €1.97, WITH A MAXIMU…
-- 09/08 05:58 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 7, CENTCOM FORCES HAVE REDIRECTED 94 COMMERCIAL VESSELS, DISABLED 3 AND BOARDED 2 TO ENSURE COMPLETE COMPLIANCE WITH THE U.S. BLOCKADE AGAINST IRAN, WITH AN E/A-18G AIRCRAFT LAUNCHING FROM THE FLIG…
 - 09/08 06:42 [DeItaone] IRAN ACCUSES CANADA OF BOWING TO U.S. PRESSURE Iranian Foreign Ministry spokesman Esmaeil Baghaei accused Canada of yielding to U.S. “intimidation” after Ottawa criticized Tehran over regional security and freedom of navigation. Baghaei sai…
 - 09/08 07:45 [financialjuice] NEW ZEALAND MANUFACTURING SALES ACTUAL 0.8% (FORECAST -, PREVIOUS 3.6%) $MACRO
 - 09/08 07:45 [financialjuice] New Zealand 2-year swap-adjusted manufacturing sales volumes rise 0.8% on previous quarter
@@ -340,3 +338,7 @@
 - 09/08 17:36 [FirstSquawk] KREMLIN SPOKESPERSON: RUSSIA REACHED AT 90% OF ALL TRANSACTIONS IN NATIONAL CURRENCIES WITH BRICS COUNTRIES
 - 09/08 17:38 [FirstSquawk] GERMAN FINANCE MINISTER: WITHOUT TAKING ON NEW DEBT, WE CANNOT DEFEND OURSELVES
 - 09/08 17:44 [FirstSquawk] KREMLIN SPOKESPERSON IN VIRTUAL INTERACTION WITH INDIAN REPORTERS: RUSSIA IS OPEN TO PROCESS OF SOLVING WAR IN UKRAINE THROUGH PEACEFUL MEANS
+- 09/08 17:48 [FirstSquawk] USD/JPY PARES LOSSES, DOWN 0.1% TO 154.15, VERSUS 152.89 LOW
+- 09/08 17:52 [FirstSquawk] RUSSIA PESKOV: PUTIN TO MEET INDIA MODI ON FRIDAY: TASS
+- 09/08 17:55 [financialjuice] Ukraine's Zelenskiy: Ukraine is ready to compromise on strikes on grain shipments, energy.
+- 09/08 17:56 [FirstSquawk] BRAZIL PRES ELECTION POLL: FLAVIO HAS 46%, LULA 45% IN 2ND ROUND – BTG PACTUAL/NEXUS
