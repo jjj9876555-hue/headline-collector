@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 19:34 JST／対象: 09/08 07:34 〜 09/08 19:34 JST（時刻はすべて日本時間）
+生成: 2026-09-08 19:52 JST／対象: 09/08 07:52 〜 09/08 19:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 214 | 09/08 08:36 | 09/08 19:27 | 22分（15:53→16:15） |
-| financialjuice | 146 | 09/08 07:45 | 09/08 19:23 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 218 | 09/08 08:36 | 09/08 19:50 | 22分（15:53→16:15） |
+| financialjuice | 147 | 09/08 08:00 | 09/08 19:45 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 361 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 365 行（統合前 366 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 07:45 [financialjuice] NEW ZEALAND MANUFACTURING SALES ACTUAL 0.8% (FORECAST -, PREVIOUS 3.6%) $MACRO
-- 09/08 07:45 [financialjuice] New Zealand 2-year swap-adjusted manufacturing sales volumes rise 0.8% on previous quarter
 - 09/08 08:00 [financialjuice] S. KOREAN GDP YOY REVISED ACTUAL 3.7% (FORECAST 3.7%, PREVIOUS 3.7%) $MACRO
 - 09/08 08:00 [financialjuice] S. KOREAN GDP QOQ REVISED ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS 0.6%) $MACRO
 - 09/08 08:00 [financialjuice] S. Korea revised Q2 private consumption 0.4% q/q vs 0.4% estimated earlier: central bank
@@ -385,3 +383,9 @@
 - 09/08 19:27 [FirstSquawk] BOSTON SCIENTIFIC UNLIKELY TO MEET FORECASTS AFTER CYBER ATTACK
 - 09/08 19:27 [FirstSquawk] UK GOVERNMENT: GENERAL LICENCE WILL ENABLE CONTINUED OPERATION OF THE SHAH DENIZ GAS FIELD IN AZERBAIJAN
 - 09/08 19:27 [FirstSquawk] BOSTON SCIENTIFIC SEES MATERIAL IMPACT ON Q3, FULL YEAR || SEES RECOVERING SOME PORTION OF IMPACTED REV.
+- 09/08 19:37 [FirstSquawk] BOTH DEMOCRATS AND REPUBLICANS ARE TARGETING THE SENATE SEAT THAT WILL BE VACATED BY DEMOCRATIC SEN. JEANNE SHAHEEN, WHO IS NOT RUNNING FOR REELECTION.
+- 09/08 19:39 [FirstSquawk] RUSSIA'S LAVROV: RUSSIA AND SAUDI ARABIA WILL CONTINUE TO COORDINATE CLOSELY WITHIN THE OPEC+ FRAMEWORK AND WILL AGREE ON COMMON APPROACHES
+- 09/08 19:45 [financialjuice] UK's Chancellor Healey: Starting to see UK economy turn a corner.
+- 09/08 19:45 [financialjuice/FirstSquawk] BNP Paribas expects BoE to hike interest rates by 25 bp in November 2026 vs prior forecast of a hike in September this year.
+- 09/08 19:45 [financialjuice] UK's Chancellor Healey: UK growth still fragile, borrowing still too high.
+- 09/08 19:47 [FirstSquawk] UK CHANCELLOR: STARTING TO SEE UK ECONOMY TURN A CORNER

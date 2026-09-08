@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 19:34 JST／対象: 09/08 13:34 〜 09/08 19:34 JST（時刻はすべて日本時間）
+生成: 2026-09-08 19:52 JST／対象: 09/08 13:52 〜 09/08 19:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 90 | 09/08 13:34 | 09/08 19:27 | 22分（15:53→16:15） |
-| financialjuice | 39 | 09/08 13:43 | 09/08 19:23 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 84 | 09/08 13:57 | 09/08 19:50 | 22分（15:53→16:15） |
+| financialjuice | 41 | 09/08 13:57 | 09/08 19:45 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 130 行（統合前 130 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 13:34 [FirstSquawk] JPMorgan lowers FedEx target price to $400 from $460
-- 09/08 13:37 [FirstSquawk] Singapore Dollar Strengthens Slightly - WSJ
-- 09/08 13:40 [FirstSquawk] Singapore government accepts recommendations to raise ministers’ salaries, PM says
-- 09/08 13:40 [FirstSquawk] Singapore to raise junior ministers’ pay to S$1.8 mln from S$1.1 mln, PM says
-- 09/08 13:40 [FirstSquawk] Floods dash Nepal's China trade hopes, entrench reliance on India - NA
-- 09/08 13:41 [FirstSquawk] Singapore PM: Prime minister’s salary set to increase by S$1.4 mln to S$3.6 mln
-- 09/08 13:41 [FirstSquawk] Singapore PM says lawmakers’ monthly salaries will increase to S$18,500 from S$13,500
-- 09/08 13:42 [FirstSquawk] Singapore PM says political office holders will not get the new salary immediately, with one-off adjustments of up to 9%
-- 09/08 13:43 [financialjuice] Censof Holdings Bhd: Century Software named Microsoft reseller for cloud, productivity and security solutions in Malaysia
-- 09/08 13:44 [FirstSquawk] Singapore PM says subsequent salary changes will depend on individual performance and responsibilities, with no further adjustment to reach S$1.8 mln
-- 09/08 13:52 [FirstSquawk] Japan's April-June economic growth revised up to 1.4% on narrower investment decline - KYODO
 - 09/08 13:57 [financialjuice] Russia hits targets in Ukraine's Kyiv, region and Chornomorsk port: Russian defence ministry
 - 09/08 13:57 [FirstSquawk] Russian strikes hit Kyiv, surrounding region and Chornomorsk port, Russian newswires quote Defence Ministry
 - 09/08 14:00 [financialjuice] JAPANESE ECONOMY WATCHERS POLL ACTUAL 46.4 (FORECAST 46.2, PREVIOUS 45.7) $MACRO
@@ -154,3 +143,9 @@
 - 09/08 19:27 [FirstSquawk] BOSTON SCIENTIFIC UNLIKELY TO MEET FORECASTS AFTER CYBER ATTACK
 - 09/08 19:27 [FirstSquawk] UK GOVERNMENT: GENERAL LICENCE WILL ENABLE CONTINUED OPERATION OF THE SHAH DENIZ GAS FIELD IN AZERBAIJAN
 - 09/08 19:27 [FirstSquawk] BOSTON SCIENTIFIC SEES MATERIAL IMPACT ON Q3, FULL YEAR || SEES RECOVERING SOME PORTION OF IMPACTED REV.
+- 09/08 19:37 [FirstSquawk] BOTH DEMOCRATS AND REPUBLICANS ARE TARGETING THE SENATE SEAT THAT WILL BE VACATED BY DEMOCRATIC SEN. JEANNE SHAHEEN, WHO IS NOT RUNNING FOR REELECTION.
+- 09/08 19:39 [FirstSquawk] RUSSIA'S LAVROV: RUSSIA AND SAUDI ARABIA WILL CONTINUE TO COORDINATE CLOSELY WITHIN THE OPEC+ FRAMEWORK AND WILL AGREE ON COMMON APPROACHES
+- 09/08 19:45 [financialjuice] UK's Chancellor Healey: Starting to see UK economy turn a corner.
+- 09/08 19:45 [financialjuice/FirstSquawk] BNP Paribas expects BoE to hike interest rates by 25 bp in November 2026 vs prior forecast of a hike in September this year.
+- 09/08 19:45 [financialjuice] UK's Chancellor Healey: UK growth still fragile, borrowing still too high.
+- 09/08 19:47 [FirstSquawk] UK CHANCELLOR: STARTING TO SEE UK ECONOMY TURN A CORNER

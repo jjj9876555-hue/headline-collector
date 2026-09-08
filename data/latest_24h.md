@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 19:34 JST／対象: 09/07 19:34 〜 09/08 19:34 JST（時刻はすべて日本時間）
+生成: 2026-09-08 19:52 JST／対象: 09/07 19:52 〜 09/08 19:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 00:17 | 09/08 17:32 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 299 | 09/07 19:35 | 09/08 19:27 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 176 | 09/07 19:54 | 09/08 19:23 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 300 | 09/07 19:54 | 09/08 19:50 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 179 | 09/07 19:54 | 09/08 19:45 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 481 行（統合前 486 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 484 行（統合前 490 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 19:35 [FirstSquawk] GERMANY’S CHANCELLOR MERZ: WE CANNOT SIMPLY CARRY ON AS USUAL — NEITHER CAN I, NOR CAN THE FEDERAL GOVERNMENT. WE HAVE FAILED TO ESTABLISH AN EMOTIONAL CONNECTION WITH THE PEOPLE.
-- 09/07 19:35 [FirstSquawk] CABINET RESHUFFLE AND LDP EXECUTIVE APPOINTMENTS TO BEGIN ON THE 16TH - KYODO
-- 09/07 19:38 [FirstSquawk] OMAN SAYS IT EVACUATED 16 CREW MEMBERS OF SAUDI SIDR VESSEL THAT WAS PREVIOUSLY ATTACKED BY IRAN - STATEMENT
 - 09/07 19:54 [FirstSquawk/financialjuice] SAUDI ARAMCO REFINERY HIT IN NEW STRIKES - FT
 - 09/07 19:55 [FirstSquawk] SAUDI ARAMCO JIZAN OIL FACILITIES HIT IN NEW STRIKES - FT
 - 09/07 19:55 [financialjuice] Aramco infrastructure hit on Monday, damage being assessed - FT.
@@ -505,3 +502,9 @@
 - 09/08 19:27 [FirstSquawk] BOSTON SCIENTIFIC UNLIKELY TO MEET FORECASTS AFTER CYBER ATTACK
 - 09/08 19:27 [FirstSquawk] UK GOVERNMENT: GENERAL LICENCE WILL ENABLE CONTINUED OPERATION OF THE SHAH DENIZ GAS FIELD IN AZERBAIJAN
 - 09/08 19:27 [FirstSquawk] BOSTON SCIENTIFIC SEES MATERIAL IMPACT ON Q3, FULL YEAR || SEES RECOVERING SOME PORTION OF IMPACTED REV.
+- 09/08 19:37 [FirstSquawk] BOTH DEMOCRATS AND REPUBLICANS ARE TARGETING THE SENATE SEAT THAT WILL BE VACATED BY DEMOCRATIC SEN. JEANNE SHAHEEN, WHO IS NOT RUNNING FOR REELECTION.
+- 09/08 19:39 [FirstSquawk] RUSSIA'S LAVROV: RUSSIA AND SAUDI ARABIA WILL CONTINUE TO COORDINATE CLOSELY WITHIN THE OPEC+ FRAMEWORK AND WILL AGREE ON COMMON APPROACHES
+- 09/08 19:45 [financialjuice] UK's Chancellor Healey: Starting to see UK economy turn a corner.
+- 09/08 19:45 [financialjuice/FirstSquawk] BNP Paribas expects BoE to hike interest rates by 25 bp in November 2026 vs prior forecast of a hike in September this year.
+- 09/08 19:45 [financialjuice] UK's Chancellor Healey: UK growth still fragile, borrowing still too high.
+- 09/08 19:47 [FirstSquawk] UK CHANCELLOR: STARTING TO SEE UK ECONOMY TURN A CORNER
