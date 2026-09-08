@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 03:55 JST／対象: 09/08 21:55 〜 09/09 03:55 JST（時刻はすべて日本時間）
+生成: 2026-09-09 04:16 JST／対象: 09/08 22:16 〜 09/09 04:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/08 22:06 | 09/09 03:46 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 141 | 09/08 21:59 | 09/09 03:55 | 28分（01:25→01:53） |
-| financialjuice | 130 | 09/08 22:00 | 09/09 03:51 | 33分（02:38→03:12） |
+| DeItaone | 6 | 09/08 22:39 | 09/09 03:46 | ⚠ 118分（00:42→02:40） |
+| FirstSquawk | 146 | 09/08 22:24 | 09/09 04:15 | 28分（01:25→01:53） |
+| financialjuice | 125 | 09/08 22:23 | 09/09 04:13 | 33分（02:38→03:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 274 行（統合前 279 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 272 行（統合前 277 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 21:59 [FirstSquawk] VERIZON, CORNING REACH PARTNERSHIP FOR FIBER: CNBC
-- 09/08 22:00 [financialjuice] Qualcomm reports a multi-generational product pact with Amazon. $QCOM $AMZN
-- 09/08 22:00 [financialjuice] Effective Fed funds rate 3.63% September 4rg vs 3.63% September 3rd.
-- 09/08 22:01 [financialjuice] ECB Settled €1,667.7 bln public-sector bond purchases.
-- 09/08 22:01 [financialjuice] ECB settled €216.7 bln corporate bond purchases.
-- 09/08 22:01 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
-- 09/08 22:02 [financialjuice] Germany's Wadephul: The growing China trade deficit is alarming.
-- 09/08 22:02 [FirstSquawk] QUALCOMM, AMAZON PACT TO BUILD AI DATA CENTER INFRASTRUCTURE
-- 09/08 22:03 [financialjuice] Qualcomm issues a warrant to Amazon for up to 25M shares, the warrant priced at $161.26/share, expires 2036. $AMZN $QCOM
-- 09/08 22:04 [FirstSquawk] QUALCOMM TO ISSUE WARRANT TO AMAZON FOR UP TO 25 MILLION SHARES
-- 09/08 22:06 [DeItaone] IRAN'S STATE MEDIA CITING ARMY SAYS U.S. DRONE DOWNED OVER BANDAR ABBAS; NO U.S. CONFIRMATION
-- 09/08 22:06 [financialjuice/FirstSquawk] Iran's State Media citing Army: US drone downed over Bandar Abbas. No US confirmation.
-- 09/08 22:07 [financialjuice] Bank of England Governor Andrew Bailey F& MPC members Speak at the UK Treasury Committee - WATCH LIVE
-- 09/08 22:08 [financialjuice] Qualcomm: 3.75m shares of warrant to vest upon issuance. $QCOM
-- 09/08 22:09 [DeItaone] ATHA ENERGY CONTINUES STREAK AT ANGILAK URANIUM PROJECT, INTERSECTING URANIUM IN 7 FOR 7 HOLES AT RIB NORTH: PRELIMINARY RESULTS
-- 09/08 22:09 [FirstSquawk] PARAMOUNT SKYDANCE EXTENDS TENDER, EXCHANGE OFFERS TO SEPT. 18
-- 09/08 22:09 [financialjuice] Bank of America: If Middle East skirmishes continue into year end, brent could trade in a $95-120/bbl range.
-- 09/08 22:11 [FirstSquawk] IRANIAN AIR DEFENSE FORCES IDENTIFIED AND TARGETED A US DRONE OVER THE STRAIT OF HORMUZ, THE IRGC-AFFILIATED FARS NEWS AGENCY REPORTED ON TUESDAY. FARS SAID THE OPERATION WAS CARRIED OUT BY AIR DEFENSE UNITS OF IRAN'S REGULAR MILITARY IN TH…
-- 09/08 22:15 [financialjuice] German Economy Ministry: German gas storage levels in range of 60-70% at the start of winter, with import options sufficient to meet expected winter demand - Document.
 - 09/08 22:23 [financialjuice] BoE Gov. Bailey: The US-Iran war has led to high energy prices, they could be higher still.
 - 09/08 22:24 [FirstSquawk] BAILEY: ENERGY PRICES COULD GO EVEN HIGHER DUE TO US-IRAN WAR
 - 09/08 22:25 [FirstSquawk] BOE'S BAILEY: UKRAINIAN ATTACKS ON RUSSIAN REFINERIES ALSO PUSHING UP COST OF REFINED OIL PRODUCTS
@@ -298,3 +279,20 @@
 - 09/09 03:52 [FirstSquawk] EXPLOSION SOUNDS REPORTED ON IRAN’S KHARG ISLAND; NO OFFICIAL CONFIRMATION YET: MEHR NEWS AGENCY
 - 09/09 03:53 [FirstSquawk] SPOT GOLD SLIDES NEARLY 1% TO $4,361.99/OZ
 - 09/09 03:55 [FirstSquawk] MULTIPLE EXPLOSIONS HEARD NEAR KHARG ISLAND ANCHORAGE, A KEY IRANIAN OIL EXPORT HUB; CAUSE, ORIGIN & ANY POTENTIAL DAMAGE REMAIN UNCONFIRMED. - MEHR NEWS AGENCY
+- 09/09 03:55 [financialjuice/FirstSquawk] Blasts heard near Iran's Southern Jask coast - FARS
+- 09/09 03:56 [FirstSquawk] S&P 500 SLIDES TO SESSION LOWS AS EXPLOSION REPORTS EMERGE FROM IRAN’S KHARG ISLAND; NASDAQ 100 EXTENDS LOSSES AMID ESCALATING MIDDLE EAST TENSIONS.
+- 09/09 04:00 [financialjuice] US CONSUMER CREDIT ACTUAL 18.062B (FORECAST 11.34B, PREVIOUS 14.17B) $MACRO
+- 09/09 04:00 [FirstSquawk] US CONSUMER CREDIT RISES TO $18.06B, WELL ABOVE $11.34B FORECAST AND $14.17B PREVIOUS READING.
+- 09/09 04:02 [financialjuice] Meta announces an AI assistant for personal tasks and organization, which will be released to US-based users on Tuesday. $META
+- 09/09 04:03 [FirstSquawk] TRUMP ADMINISTRATION CRITICIZES FORD’S TIES WITH CHINESE FIRMS, CITING “DEEP ALARM” OVER ITS RELIANCE ON BATTERY MAKER CATL. || USDOT SAYS FORD-GEELY JV IN SPAIN COULD GIVE CHINA A STRATEGIC FOOTHOLD IN WESTERN EUROPE.
+- 09/09 04:03 [financialjuice] Meta: Meta’s Muse agent to have free and paid versions. $META
+- 09/09 04:03 [FirstSquawk] META: MUSE AI ASSISTANT TO OFFER FREE & PAID TIERS, WITH PERSONAL TASK MANAGEMENT & ORGANIZATION FEATURES ROLLING OUT TO US USERS TUESDAY.
+- 09/09 04:04 [financialjuice] US Consumer Credit Report for July
+- 09/09 04:07 [FirstSquawk] META: MUSE AI AGENT LAUNCHES IN THE US, OFFERING FREE ACCESS WITH PAID PLANS FOR USERS SEEKING MORE CAPABILITIES; DESIGNED TO HANDLE PERSONAL TASKS, PLANNING & ORGANIZATION.
+- 09/09 04:09 [financialjuice] US Treasury Investor Flows
+- 09/09 04:09 [FirstSquawk] FOREIGN INVESTORS INCREASE TREASURY BUYING, PURCHASING $9.84B OF 2-YEAR, $8.75B OF 5-YEAR & $6.79B OF 7-YEAR NOTES, UP FROM PRIOR MONTH LEVELS.
+- 09/09 04:11 [FirstSquawk] US & UK LAWMAKERS PUSH BILLS TO BAN SUPERINTELLIGENT AI & SEEK GLOBAL AGREEMENTS TO STOP ITS DEVELOPMENT, FOLLOWING ROGUE AI INCIDENTS SUCH AS THE HUGGING FACE HACK: TIME.
+- 09/09 04:13 [FirstSquawk] IRGC: IRAN CLAIMS CAPTURE OF ADVANCED US UNMANNED SUBMERSIBLE NEAR STRAIT OF HORMUZ, SAYS NO ADVANCED TECHNOLOGY CAN EVADE ITS SURVEILLANCE; US HAS NOT CONFIRMED THE CLAIM.
+- 09/09 04:13 [financialjuice] US is currently attacking Iranian oil tankers - I24 News citing a US source.
+- 09/09 04:15 [FirstSquawk] RUSSIA’S ROSSOTRUDNICHESTVO HEAD IGOR CHAIKA SAYS MOSCOW-YEREVAN TIES REMAIN “NORMAL,” COMPARING THEM TO A BIG FAMILY WHERE TENSIONS OCCASIONALLY ARISE.
+- 09/09 04:15 [FirstSquawk] IRAN FM ARAGHCHI: AFTER 47 YEARS OF US SANCTIONS & WAR, WASHINGTON HAS FAILED TO ACHIEVE ITS GOALS; NOW IT IS RESORTING TO “MORE SANCTIONS,” WHICH HE CALLS A DESPERATE MOVE.
