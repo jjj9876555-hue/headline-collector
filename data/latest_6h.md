@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 11:34 JST／対象: 09/08 05:34 〜 09/08 11:34 JST（時刻はすべて日本時間）
+生成: 2026-09-08 11:52 JST／対象: 09/08 05:52 〜 09/08 11:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 06:42 | 09/08 06:42 | - |
-| FirstSquawk | 79 | 09/08 05:57 | 09/08 11:32 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 63 | 09/08 07:45 | 09/08 11:30 | 40分（10:44→11:24） |
+| FirstSquawk | 90 | 09/08 05:57 | 09/08 11:51 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 85 | 09/08 07:45 | 09/08 11:52 | 40分（10:44→11:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 143 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 176 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -167,3 +167,36 @@
 - 09/08 11:30 [financialjuice] China Aug yuan-denominated exports rise 18.6% y/y: state media
 - 09/08 11:30 [financialjuice] Japan finance minister Katayama: will engage openly with markets, public to build trust
 - 09/08 11:32 [FirstSquawk] South Korea’s KOSPI gains 2%
+- 09/08 11:35 [financialjuice] China Aug dollar-denominated exports rise 25% y/y, matching poll
+- 09/08 11:35 [financialjuice] China August trade surplus 809.3 billion yuan
+- 09/08 11:35 [financialjuice] China Aug yuan-denominated exports rise 18.6% y/y
+- 09/08 11:35 [financialjuice] China August yuan-denominated imports rise 21.7% year on year
+- 09/08 11:35 [financialjuice] China August trade surplus $119.09 billion vs. $119.05 billion estimate
+- 09/08 11:36 [financialjuice] China's Aug trade surplus with US $29.18 bln, vs $28 bln surplus in July, customs data show
+- 09/08 11:36 [financialjuice] China August crude oil imports 37.93 mln tonnes vs 35.73 mln tonnes in July: customs
+- 09/08 11:36 [financialjuice] China August oil product imports 2.25 mln tonnes vs 2.48 mln tonnes in July: customs
+- 09/08 11:36 [financialjuice] China Jan-Aug oil product imports 22.15 million tonnes vs 26.73 million tonnes year earlier: customs
+- 09/08 11:36 [financialjuice] China jan-aug natural gas imports 78.23 mln tonnes vs 81.81 mln tonnes year earlier: customs
+- 09/08 11:36 [financialjuice] China august natural gas imports 10.33 mln tonnes vs 10.54 mln tonnes in july: customs
+- 09/08 11:36 [financialjuice] China August unwrought copper and copper product imports 382,000 tonnes vs 425,000 tonnes in July: customs
+- 09/08 11:36 [financialjuice] China Jan-Aug crude oil imports 320.90 million tonnes vs 375.71 million tonnes year earlier: customs
+- 09/08 11:36 [financialjuice] China jan-aug copper concentrates imports 19.49 million tonnes vs 20.06 million tonnes year earlier: customs
+- 09/08 11:36 [financialjuice] China jan-aug unwrought copper and copper products imports: 3,297,000 tonnes vs 3,533,000 tonnes a year earlier - customs
+- 09/08 11:37 [financialjuice] China august copper concentrate imports 2.51 million tonnes, vs 2.38 million tonnes in july: customs
+- 09/08 11:37 [financialjuice] China August oil product exports 6.01 million tonnes vs 4.65 million tonnes in July: customs
+- 09/08 11:37 [financialjuice] China August rare earth shipments 4,735.1 tonnes vs 4,223.5 tonnes in July: customs
+- 09/08 11:37 [financialjuice] China August unwrought aluminium and aluminium products exports 626,000 tonnes vs 643,000 tonnes in July: customs
+- 09/08 11:37 [financialjuice] China jan-aug rare earth shipments 39,441.4 tonnes vs 44,355.3 tonnes yr earlier: customs
+- 09/08 11:37 [financialjuice] China Jan-Aug unwrought aluminium and aluminium products exports 4.665 million tonnes vs 3.996 million tonnes year earlier: customs
+- 09/08 11:38 [FirstSquawk] China’s August aluminium exports decline to 626,000 tons vs 643,000 tons in July — Customs
+- 09/08 11:40 [FirstSquawk] Singapore transport minister: SIA funds investments from its own balance sheet and has not sought additional capital from shareholders
+- 09/08 11:42 [FirstSquawk] Singapore transport minister: SIA needs overseas expansion to drive further growth amid limited Singapore traffic
+- 09/08 11:42 [FirstSquawk] Singapore Airlines says India investments will remain funded through internal resources, subject to board approval
+- 09/08 11:45 [FirstSquawk] Singapore Airlines says its Air India investment reflects a long-term strategic commitment under its multi-hub strategy
+- 09/08 11:45 [FirstSquawk] Singapore Airlines says requests for additional capital will be assessed under its disciplined capital allocation framework
+- 09/08 11:46 [FirstSquawk] Singapore Airlines says Air India’s transformation will be complex and take multiple years, with progress unlikely to be linear
+- 09/08 11:47 [FirstSquawk] Singapore transport minister says SIA’s finances are distinct from Air India’s and it is not required to provide additional capital
+- 09/08 11:48 [FirstSquawk] Singapore transport minister says SIA has not requested funding from Temasek since the COVID-19 period
+- 09/08 11:50 [FirstSquawk] Singapore transport minister: Political actors should not seek to exploit racial divisions
+- 09/08 11:51 [FirstSquawk] Singapore transport minister says there is no basis for questioning SIA’s commercial decision-making
+- 09/08 11:52 [financialjuice] JP Morgan upgrades ADP to overweight from neutral rating
