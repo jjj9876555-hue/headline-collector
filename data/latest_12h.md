@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 15:49 JST／対象: 09/08 03:49 〜 09/08 15:49 JST（時刻はすべて日本時間）
+生成: 2026-09-08 16:02 JST／対象: 09/08 04:02 〜 09/08 16:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 06:42 | 09/08 06:42 | - |
-| FirstSquawk | 167 | 09/08 04:00 | 09/08 15:46 | ⚠ 158分（05:58→08:36） |
+| FirstSquawk | 167 | 09/08 04:10 | 09/08 15:53 | ⚠ 158分（05:58→08:36） |
 | financialjuice | 129 | 09/08 04:22 | 09/08 15:45 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 04:00 [FirstSquawk] ITALIAN PM MELONI SAYS 'I REMAIN FIRMLY CONVINCED THAT THE SCHENGEN AREA CAN ONLY BE PRESERVED IN THE BEST POSSIBLE WAY IF WE DEFEND THE EXTERNAL BORDERS OF THE EUROPEAN UNION', ADDING THAT THIS REQUIRES 'ALL MEMBER STATES CONTINUE TO DO TH…
 - 09/08 04:10 [FirstSquawk] ISRAELI DIASPORA AFFAIRS MINISTER AMICHAI CHIKLI SAYS 'WE HAVE IN EUROPE A SIGNIFICANT PART OF THE ELITES THAT HAVE BEEN SWEPT INTO THE MOST RADICAL POST-NATIONALIST PLACES — PLACES OF IDENTIFICATION, ESSENTIALLY, WITH ISLAMIST NATIONALISM,…
 - 09/08 04:22 [financialjuice] Tuesday FX Option Expiries
 - 09/08 04:43 [financialjuice] Nvidia's CEO Huang is on the UK King Charles' AI meeting guest list - Politico $NVDA
@@ -321,3 +320,4 @@
 - 09/08 15:45 [financialjuice] FRENCH CURRENT ACCOUNT ACTUAL -4.7B (FORECAST -, PREVIOUS -1.4B) $MACRO
 - 09/08 15:46 [FirstSquawk] FRANE (JUL) CURRENT ACOUNT BALANCE ACTUAL: -4.7B VS -1.4B PREVIOUS
 - 09/08 15:46 [FirstSquawk] FRANE (JUL) TRADE BALANCE ACTUAL: -6669M VS -5847M PREVIOUS
+- 09/08 15:53 [FirstSquawk] Polish Air Force ends response operations over Russian strikes on Ukraine; no airspace violations detected, Polish Army says

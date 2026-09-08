@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 15:49 JST／対象: 09/07 15:49 〜 09/08 15:49 JST（時刻はすべて日本時間）
+生成: 2026-09-08 16:02 JST／対象: 09/07 16:02 〜 09/08 16:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 302 | 09/07 16:01 | 09/08 15:46 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 175 | 09/07 16:00 | 09/08 15:45 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 298 | 09/07 16:17 | 09/08 15:53 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 173 | 09/07 16:02 | 09/08 15:45 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 479 行（統合前 487 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 473 行（統合前 481 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 16:00 [financialjuice] SWISS UNEMPLOYMENT RATE UNADJUSTED ACTUAL 3% (FORECAST 3%, PREVIOUS 3.0%) $MACRO
-- 09/07 16:00 [financialjuice] SWISS UNEMPLOYMENT RATE ADJUSTED ACTUAL 3.1% (FORECAST 3.1%, PREVIOUS 3.1%) $MACRO
-- 09/07 16:01 [FirstSquawk] SPAIN (Q2) INE HOUSE PRICE INDEX QOQ ACTUAL: 3.4% VS 3.5% PREVIOUS
-- 09/07 16:01 [FirstSquawk] SWITZERLAND (AUG) UNEMPLOYMENT RATE SA ACTUAL: 3.1% VS 3.1% PREVIOUS;EST 3.1%
-- 09/07 16:01 [FirstSquawk] SWITZERLAND (AUG) UNEMPLOYMENT RATE ACTUAL: 3.0% VS 3.0% PREVIOUS;EST 3.0%
-- 09/07 16:01 [FirstSquawk] SPAIN (Q2) INE HOUSE PRICE INDEX YOY ACTUAL: 12.2% VS 12.9% PREVIOUS
-- 09/07 16:01 [FirstSquawk] SWITZERLAND (AUG) FOREIGN CURRENCY RESERVES ACTUAL: 770.1B VS 768.3B PREVIOUS
 - 09/07 16:02 [financialjuice] Iran Foreign Ministry Spokesperson on X: South Korea participation in Gulf, Hormuz operations would have serious consequences.
 - 09/07 16:17 [FirstSquawk] Oil is approaching $100 after the US and Iran traded strikes on each other's tankers over the weekend.
 - 09/07 16:17 [FirstSquawk] US sank one Iranian tanker and disabled two others, including one near Iran's main export terminal.
@@ -503,3 +496,4 @@
 - 09/08 15:45 [financialjuice] FRENCH CURRENT ACCOUNT ACTUAL -4.7B (FORECAST -, PREVIOUS -1.4B) $MACRO
 - 09/08 15:46 [FirstSquawk] FRANE (JUL) CURRENT ACOUNT BALANCE ACTUAL: -4.7B VS -1.4B PREVIOUS
 - 09/08 15:46 [FirstSquawk] FRANE (JUL) TRADE BALANCE ACTUAL: -6669M VS -5847M PREVIOUS
+- 09/08 15:53 [FirstSquawk] Polish Air Force ends response operations over Russian strikes on Ukraine; no airspace violations detected, Polish Army says

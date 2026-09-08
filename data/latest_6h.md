@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 15:49 JST／対象: 09/08 09:49 〜 09/08 15:49 JST（時刻はすべて日本時間）
+生成: 2026-09-08 16:02 JST／対象: 09/08 10:02 〜 09/08 16:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 128 | 09/08 09:52 | 09/08 15:46 | 15分（15:24→15:39） |
-| financialjuice | 86 | 09/08 09:51 | 09/08 15:45 | 40分（10:44→11:24） |
+| FirstSquawk | 125 | 09/08 10:02 | 09/08 15:53 | 15分（15:24→15:39） |
+| financialjuice | 84 | 09/08 10:10 | 09/08 15:45 | 40分（10:44→11:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 214 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 209 行（統合前 209 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 09:51 [financialjuice] Two residential buildings damaged in Ukraine's Kyiv in Russian air strike: city officials
-- 09/08 09:52 [FirstSquawk] Russian strike damages two residential buildings in Ukraine’s Kyiv, officials say
-- 09/08 09:58 [FirstSquawk] Euro holds gains above 1.1600 on ECB tightening prospects - fx
-- 09/08 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805%, unchanged from previous session
-- 09/08 10:01 [FirstSquawk] Taiwan overnight interbank rate holds at 0.805% at session open
-- 09/08 10:01 [FirstSquawk] 5-year Japanese government bond yield drops 2.0 bps to 2.230%
 - 09/08 10:02 [FirstSquawk] 30-year Japanese government bond yield drops 4.0 bps to 3.980%
 - 09/08 10:07 [FirstSquawk] Japan sends fighter jets to intercept Chinese spy aircraft over East China Sea
 - 09/08 10:10 [financialjuice] S. Korea Defence Minister Ahn: North Korea strengthening DMZ beyond precedent, dialogue needed to resolve issue
@@ -238,3 +232,4 @@
 - 09/08 15:45 [financialjuice] FRENCH CURRENT ACCOUNT ACTUAL -4.7B (FORECAST -, PREVIOUS -1.4B) $MACRO
 - 09/08 15:46 [FirstSquawk] FRANE (JUL) CURRENT ACOUNT BALANCE ACTUAL: -4.7B VS -1.4B PREVIOUS
 - 09/08 15:46 [FirstSquawk] FRANE (JUL) TRADE BALANCE ACTUAL: -6669M VS -5847M PREVIOUS
+- 09/08 15:53 [FirstSquawk] Polish Air Force ends response operations over Russian strikes on Ukraine; no airspace violations detected, Polish Army says
