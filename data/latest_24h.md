@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 06:19 JST／対象: 09/08 06:19 〜 09/09 06:19 JST（時刻はすべて日本時間）
+生成: 2026-09-09 06:31 JST／対象: 09/08 06:31 〜 09/09 06:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/08 06:42 | 09/09 05:33 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 420 | 09/08 08:36 | 09/09 06:14 | 28分（01:25→01:53） |
-| financialjuice | 328 | 09/08 07:45 | 09/09 06:19 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 426 | 09/08 08:36 | 09/09 06:31 | 28分（01:25→01:53） |
+| financialjuice | 331 | 09/08 07:45 | 09/09 06:28 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 750 行（統合前 761 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 758 行（統合前 770 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -774,3 +774,11 @@
 - 09/09 06:18 [financialjuice] Colombia president De La Espriella: country requires US aid on radar, planes and other fronts to combat crime
 - 09/09 06:19 [financialjuice] Colombia president de la Espriella: willing to meet annual security goals in anti-drug partnership
 - 09/09 06:19 [financialjuice] Mark Stevens reports sale of 1.02 million Nvidia shares between Sept. 3 and Sept. 4, price range $227.25 to $234.04 per share
+- 09/09 06:20 [financialjuice] Colombia President de la Espriella: Will engage responsibly in regional stabilization efforts
+- 09/09 06:21 [financialjuice] Colombia president de la Espriella: will broaden cooperation with US on migration, border controls
+- 09/09 06:23 [FirstSquawk] EUROPEAN NATURAL GAS HITS A THREE-YEAR HIGH AS WINTER SUPPLY RISKS MOUNT, WITH DUTCH FRONT-MONTH FUTURES SURGING 4.7% TO €76.74/MWH.
+- 09/09 06:23 [FirstSquawk] LOW STORAGE, HORMUZ SHIPPING RISKS AND REDUCED PIPELINE FLOWS FROM ALGERIA AND NORWAY ARE TIGHTENING EUROPE’S WINTER OUTLOOK, RAISING FURTHER POWER-PRICE AND INFLATION RISKS.
+- 09/09 06:25 [FirstSquawk] US COMMERCE SECRETARY LUTNICK TO TRAVEL TO MEXICO FOR TRADE TALKS, WITH AUTO AND METAL TARIFFS EXPECTED TO BE KEY ISSUES. - POLITICO
+- 09/09 06:28 [FirstSquawk/financialjuice] U.S. SUPREME COURT REJECTS MISSOURI EFFORT TO USE GOP-DRAWN CONGRESSIONAL MAP IN NOVEMBER MIDTERMS
+- 09/09 06:31 [FirstSquawk] BESSENT SAYS HE HAS “GOOD INSIGHT” INTO BOJ AND JAPANESE POLICYMAKERS’ NEXT MOVES, INCLUDING ON POTENTIAL YEN INTERVENTION.
+- 09/09 06:31 [FirstSquawk] BESSENT SAYS THE US CAN USE ITS BALANCE SHEET AS A FOREIGN-POLICY TOOL AND CLAIMS HE NOW HAS “ASYMMETRIC INFO,” SIGNALING A MORE ACTIVE US ROLE IN CURRENCY POLICY.

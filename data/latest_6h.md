@@ -7,52 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 06:19 JST／対象: 09/09 00:19 〜 09/09 06:19 JST（時刻はすべて日本時間）
+生成: 2026-09-09 06:31 JST／対象: 09/09 00:31 〜 09/09 06:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/09 00:42 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 111 | 09/09 00:22 | 09/09 06:14 | 28分（01:25→01:53） |
-| financialjuice | 93 | 09/09 00:20 | 09/09 06:19 | 33分（02:38→03:12） |
+| FirstSquawk | 100 | 09/09 00:55 | 09/09 06:31 | 28分（01:25→01:53） |
+| financialjuice | 84 | 09/09 00:32 | 09/09 06:28 | 33分（02:38→03:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 203 行（統合前 209 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 182 行（統合前 189 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 00:20 [financialjuice] US Treasury Secretary Bessent: Nothing would matter if China pulled away on AI.
-- 09/09 00:20 [financialjuice] US Treasury Secretary Bessent: Iron dome and US defense wouldn't matter if China wins AI.
-- 09/09 00:22 [financialjuice] US Treasury Secretary Bessent repeats: Hyperscalers did a bad job on AI communication.
-- 09/09 00:22 [FirstSquawk] NORTH AMERICAN AEROSPACE UNION IAM DISAGREES WITH EFFORTS TO BLOCK BOMBARDIER AIRCRAFT SALES TO THE US.
-- 09/09 00:22 [FirstSquawk] BESSENT SAYS 'IT WOULDN'T MATTER' IF CHINA WITHDRAWS FROM AI.
-- 09/09 00:22 [FirstSquawk] BESSENT SAYS IRON DOME AND US DEFENSE WOULD BE USELESS IF CHINA SUCCEEDS IN AI.
-- 09/09 00:24 [financialjuice] US Treasury Secretary Bessent: The American people must understand what AI does for them.
-- 09/09 00:24 [FirstSquawk] BESSENT SAYS THE AMERICAN PEOPLE NEED TO GRASP THE BENEFITS OF AI.
-- 09/09 00:24 [FirstSquawk] BESSENT SAYS WE MUST KEEP MOVING FORWARD WITH AI, AS CHINA WILL NOT SLOW DOWN.
-- 09/09 00:24 [financialjuice] US Treasury Secretary Bessent: We can't pause on AI. China won't pause.
-- 09/09 00:26 [financialjuice] US Treasury Secretary Bessent: We make a market buying older bonds.
-- 09/09 00:27 [financialjuice] US Treasury Secretary Bessent: Fever was building in the bond market pre-buyback news.
-- 09/09 00:28 [financialjuice] US Treasury Secretary Bessent rejects the idea that investors are scared about US credit.
-- 09/09 00:28 [financialjuice] US Treasury Secretary Bessent: If people were worried, they'd buy bunds vs treasuries.
-- 09/09 00:28 [FirstSquawk] BESSENT SAYS BUYBACKS ARE FOR LESS LIQUID OFF-THE-RUN SECURITIES.
-- 09/09 00:29 [FirstSquawk] BESSENT ANNOUNCED THEY ARE PURCHASING OLDER BONDS.
-- 09/09 00:29 [FirstSquawk] RUSSIA'S GRAIN HARVEST REACHES 113.5 MILLION TONS.
-- 09/09 00:29 [FirstSquawk] BESSENT SAID 'FEVER' GREW IN THE BOND MARKET BEFORE THE BUYBACK NEWS.
-- 09/09 00:29 [FirstSquawk] BESSENT HAS STATED, I CANNOT ALTER BOND EQUILIBRIUM PRICE.
-- 09/09 00:29 [FirstSquawk] BESSENT SAYS INFLATION EXPECTATIONS ARE CURRENTLY STABLE OR DECREASING.
-- 09/09 00:29 [financialjuice] US Treasury Secretary Bessent: We're seeing the opposite of people buying German bunds vs US bonds.
-- 09/09 00:29 [FirstSquawk] BESSENT DISMISSES CONCERNS THAT INVESTORS FEAR US CREDIT ISSUES.
-- 09/09 00:29 [FirstSquawk] BESSENT SAYS IF PEOPLE WERE CONCERNED, THEY'D PREFER BUNDS OVER TREASURIES.
-- 09/09 00:29 [FirstSquawk] BESSENT SAYS IF PEOPLE WERE ANXIOUS, THEY WOULD CHOOSE BUNDS OVER TREASURIES.
-- 09/09 00:29 [FirstSquawk] BESSENT SAYS GERMAN BONDS ARE UNDERPERFORMING IN COMPARISON TO US BONDS.
-- 09/09 00:29 [FirstSquawk] HIGHER INTEREST RATES HAVE NOT CAUSED A DECREASE IN HOUSE PRICES, SAYS BESSENT.
-- 09/09 00:30 [financialjuice] US Treasury Secretary Bessent: Higher interest rates haven't pulled down house prices.
-- 09/09 00:30 [FirstSquawk] BESSENT BELIEVES MORE SUPPLY IS NEEDED IN THE HOUSING MARKET.
-- 09/09 00:30 [financialjuice] US Treasury Secretary Bessent: We've got to get more supply going in the housing market.
 - 09/09 00:32 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 3.89% (FORECAST -, PREVIOUS 3.885%) $MACRO
 - 09/09 00:32 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 3.8% (FORECAST -, PREVIOUS 3.770%) $MACRO
 - 09/09 00:32 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.61 (FORECAST -, PREVIOUS 2.770) $MACRO
@@ -227,3 +198,11 @@
 - 09/09 06:18 [financialjuice] Colombia president De La Espriella: country requires US aid on radar, planes and other fronts to combat crime
 - 09/09 06:19 [financialjuice] Colombia president de la Espriella: willing to meet annual security goals in anti-drug partnership
 - 09/09 06:19 [financialjuice] Mark Stevens reports sale of 1.02 million Nvidia shares between Sept. 3 and Sept. 4, price range $227.25 to $234.04 per share
+- 09/09 06:20 [financialjuice] Colombia President de la Espriella: Will engage responsibly in regional stabilization efforts
+- 09/09 06:21 [financialjuice] Colombia president de la Espriella: will broaden cooperation with US on migration, border controls
+- 09/09 06:23 [FirstSquawk] EUROPEAN NATURAL GAS HITS A THREE-YEAR HIGH AS WINTER SUPPLY RISKS MOUNT, WITH DUTCH FRONT-MONTH FUTURES SURGING 4.7% TO €76.74/MWH.
+- 09/09 06:23 [FirstSquawk] LOW STORAGE, HORMUZ SHIPPING RISKS AND REDUCED PIPELINE FLOWS FROM ALGERIA AND NORWAY ARE TIGHTENING EUROPE’S WINTER OUTLOOK, RAISING FURTHER POWER-PRICE AND INFLATION RISKS.
+- 09/09 06:25 [FirstSquawk] US COMMERCE SECRETARY LUTNICK TO TRAVEL TO MEXICO FOR TRADE TALKS, WITH AUTO AND METAL TARIFFS EXPECTED TO BE KEY ISSUES. - POLITICO
+- 09/09 06:28 [FirstSquawk/financialjuice] U.S. SUPREME COURT REJECTS MISSOURI EFFORT TO USE GOP-DRAWN CONGRESSIONAL MAP IN NOVEMBER MIDTERMS
+- 09/09 06:31 [FirstSquawk] BESSENT SAYS HE HAS “GOOD INSIGHT” INTO BOJ AND JAPANESE POLICYMAKERS’ NEXT MOVES, INCLUDING ON POTENTIAL YEN INTERVENTION.
+- 09/09 06:31 [FirstSquawk] BESSENT SAYS THE US CAN USE ITS BALANCE SHEET AS A FOREIGN-POLICY TOOL AND CLAIMS HE NOW HAS “ASYMMETRIC INFO,” SIGNALING A MORE ACTIVE US ROLE IN CURRENCY POLICY.
