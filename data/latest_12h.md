@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 11:18 JST／対象: 09/07 23:18 〜 09/08 11:18 JST（時刻はすべて日本時間）
+生成: 2026-09-08 11:34 JST／対象: 09/07 23:34 〜 09/08 11:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 101 | 09/07 23:31 | 09/08 11:14 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 74 | 09/07 23:36 | 09/08 10:44 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 106 | 09/07 23:56 | 09/08 11:32 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 78 | 09/07 23:36 | 09/08 11:30 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 183 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 192 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 23:31 [FirstSquawk] CHINA HAS STARTED ANTI-DUMPING ACTIONS ON IMPORTANT CHIPMAKING MATERIALS IMPORTED FROM JAPAN, ACCORDING TO NIKKEI.
-- 09/07 23:32 [FirstSquawk] EU'S KAJA KALLAS SAYS RUSSIA IS NOT SERIOUS ABOUT PEACE.
 - 09/07 23:36 [financialjuice] US CPI Prep (11th September)
 - 09/07 23:53 [financialjuice] UFORCE Funding $SPCX
 - 09/07 23:56 [financialjuice/FirstSquawk] Iran warns ships face strike risk near Oman's Khasab - Fars
@@ -207,3 +205,14 @@
 - 09/08 11:03 [FirstSquawk] Russia imported 500,000-600,000 tons of gasoline monthly during summer, Vitol CEO says
 - 09/08 11:08 [FirstSquawk] Yen surges to six-month high as traders stay alert for signs of intervention - FT
 - 09/08 11:14 [FirstSquawk] Samsung SDS to expand partnerships with OpenAI, Anthropic to drive AI transformation - YONHAP
+- 09/08 11:18 [FirstSquawk] IAEA says S. Korea notifies intent to consult on safeguards arrangement for nuclear-powered subs - YONHAP
+- 09/08 11:24 [financialjuice] Dollar/yen down 0.9% to 152.95
+- 09/08 11:24 [FirstSquawk] Dollar/yen declines 0.90% to 152.95
+- 09/08 11:28 [financialjuice] Hormuz traffic slows at start of week as Middle East tensions escalate, shipping data shows
+- 09/08 11:28 [FirstSquawk] Strait of Hormuz traffic slows as Middle East tensions intensify, shipping data shows
+- 09/08 11:29 [FirstSquawk] XPeng puts humanoid robot production lines into operation and completes first advanced robot
+- 09/08 11:30 [FirstSquawk] XPeng to begin robot sales and deliveries in China and overseas in 2027
+- 09/08 11:30 [FirstSquawk] Massive amount of impacts in Kyiv, tonight after a large-scale Russian missile attack. Residential buildings have been hit in the Ukrainian capital - WSN
+- 09/08 11:30 [financialjuice] China Aug yuan-denominated exports rise 18.6% y/y: state media
+- 09/08 11:30 [financialjuice] Japan finance minister Katayama: will engage openly with markets, public to build trust
+- 09/08 11:32 [FirstSquawk] South Korea’s KOSPI gains 2%
