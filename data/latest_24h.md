@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 10:16 JST／対象: 09/07 10:16 〜 09/08 10:16 JST（時刻はすべて日本時間）
+生成: 2026-09-08 10:33 JST／対象: 09/07 10:33 〜 09/08 10:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 273 | 09/07 10:17 | 09/08 10:16 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 103 | 09/07 10:19 | 09/08 10:13 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 273 | 09/07 10:33 | 09/08 10:32 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 105 | 09/07 10:40 | 09/08 10:32 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 378 行（統合前 388 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 380 行（統合前 390 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 10:17 [FirstSquawk] Philippines defence secretary: China energy cooperation remains closely linked to maritime disputes
-- 09/07 10:17 [FirstSquawk] Philippines defence secretary: Washington gives ‘definite assurances’ that its commitments to Manila remain unchanged
-- 09/07 10:17 [FirstSquawk] Philippines defence secretary: China may take advantage of perceived gaps from reduced US-South Korea exercises
-- 09/07 10:19 [financialjuice] China sets yuan midpoint 709 pips weaker than estimate, biggest downside divergence since February 27, 2026
-- 09/07 10:22 [financialjuice] China cbank pumps 500 mln yuan via 7-day reverse repos: statement
-- 09/07 10:22 [FirstSquawk] China’s central bank conducts 500 million yuan of 7-day reverse repo operations
-- 09/07 10:26 [FirstSquawk] Thai PM Anutin, 1 year on, prioritizes Chinese capital to buoy growth - NA
-- 09/07 10:30 [FirstSquawk] S. Korea, U.S., Japan kick off 3-way military exercise - YONHAP
 - 09/07 10:33 [FirstSquawk] Seoul stocks surge at the open as tech shares gain despite Middle East tensions
 - 09/07 10:36 [FirstSquawk] Tesla, SpaceX shares slide as robotaxi launch fails to impress investors
 - 09/07 10:36 [FirstSquawk] Benchmark rubber futures in Shanghai jump 3.04% to 19,340 yuan per metric ton
@@ -402,3 +394,13 @@
 - 09/08 10:14 [FirstSquawk] Kyiv hit by Russian ballistic missile attack, mayor says
 - 09/08 10:16 [FirstSquawk] China’s PBOC fixes yuan mid-point at 6.7804 per dollar
 - 09/08 10:16 [FirstSquawk] Indonesia’s Mount Anak Krakatau records three eruptions on Tuesday — monitoring agency
+- 09/08 10:20 [financialjuice] China pumps 1 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/08 10:21 [FirstSquawk] 20-year Japanese government bond yield drops 4.0 bps to 3.705%
+- 09/08 10:28 [FirstSquawk] Yen Strengthens Further; Sentiment Toward Currency Has ‘Materially’ Shifted - WSJ
+- 09/08 10:28 [FirstSquawk] JGB Futures Rise as Yen’s Strength Seen Easing Inflationary Pressures - WSJ
+- 09/08 10:30 [financialjuice] Australia Aug business confidence index declines to -8 from -7 in July: NAB
+- 09/08 10:30 [financialjuice] Australia aug business conditions index drops to -1 from +4 in july: nab
+- 09/08 10:30 [FirstSquawk] Australia August business conditions deteriorate to -1 from +4 in July — NAB
+- 09/08 10:31 [FirstSquawk] Australia August business confidence weakens to -8 from -7 in July — NAB
+- 09/08 10:32 [FirstSquawk] Dollar/yen slides 0.6% to 153.410
+- 09/08 10:32 [financialjuice] Dollar/yen drops 0.6% to 153.410 in last trading

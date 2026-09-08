@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 10:16 JST／対象: 09/07 22:16 〜 09/08 10:16 JST（時刻はすべて日本時間）
+生成: 2026-09-08 10:33 JST／対象: 09/07 22:33 〜 09/08 10:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 90 | 09/07 22:26 | 09/08 10:16 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 63 | 09/07 22:45 | 09/08 10:13 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 92 | 09/07 22:36 | 09/08 10:32 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 67 | 09/07 22:45 | 09/08 10:32 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 161 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 167 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 22:26 [FirstSquawk] TRAFFIC DIVERGES ACROSS CHOKEPOINTS: MARITIME TRAFFIC TRENDS DIVERGED SHARPLY ACROSS THE STRAIT OF HORMUZ AND BAB EL-MANDEB. HORMUZ CROSSINGS FELL 28% TO 77, WITH LADEN VOYAGES DECLINING FROM 45 TO 33. SANCTIONED AND SHADOW FLEET CROSSINGS …
-- 09/07 22:26 [FirstSquawk] BAB EL-MANDEB MOVED IN THE OPPOSITE DIRECTION. CROSSINGS RECOVERED 9.7% TO 248 AND LADEN TRAFFIC ROSE FROM 103 TO 109. DARK TRANSITS HELD NEAR 23 AND TSS ADHERENCE REMAINED AROUND 91%. THE DATA POINTS TO GROWING PRESSURE ON GULF SHIPPING, W…
-- 09/07 22:26 [FirstSquawk] IRAQ STRUGGLES TO SELL OIL FROM BASRA AFTER HIKING ITS PRICES - BBG
-- 09/07 22:29 [FirstSquawk] CHINA ASKS AUTOMAKERS TO PRIORITIZE QUALITY AND SAFETY DESPITE RAPID DEVELOPMENT.
 - 09/07 22:36 [FirstSquawk] LABOUR ANNOUNCES A BY-ELECTION FOR HOLBORN AND ST PANCRAS ON OCTOBER 8.
 - 09/07 22:37 [FirstSquawk] TRAFFIC THROUGH THE STRAIT OF HORMUZ HAS FALLEN TO ITS LOWEST LEVEL SINCE MAY, WITH SHIPPING DATA SHOWING AN AVERAGE OF 10 VESSELS A DAY TRANSITING THE WATERWAY ON SUNDAY, REUTERS REPORTED, CITING ANALYTICS FIRM KPLER.
 - 09/07 22:38 [FirstSquawk] ONLY TWO VESSELS PASSED THROUGH THE STRAIT ON SATURDAY AND SIX ON SUNDAY, MOSTLY USING THE IRANIAN ROUTE, ACCORDING TO REUTERS. THE 10-DAY AVERAGE STOOD AT 13 VESSELS ON SATURDAY, DOWN FROM MORE THAN 15 ON FRIDAY.
@@ -185,3 +181,13 @@
 - 09/08 10:14 [FirstSquawk] Kyiv hit by Russian ballistic missile attack, mayor says
 - 09/08 10:16 [FirstSquawk] China’s PBOC fixes yuan mid-point at 6.7804 per dollar
 - 09/08 10:16 [FirstSquawk] Indonesia’s Mount Anak Krakatau records three eruptions on Tuesday — monitoring agency
+- 09/08 10:20 [financialjuice] China pumps 1 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/08 10:21 [FirstSquawk] 20-year Japanese government bond yield drops 4.0 bps to 3.705%
+- 09/08 10:28 [FirstSquawk] Yen Strengthens Further; Sentiment Toward Currency Has ‘Materially’ Shifted - WSJ
+- 09/08 10:28 [FirstSquawk] JGB Futures Rise as Yen’s Strength Seen Easing Inflationary Pressures - WSJ
+- 09/08 10:30 [financialjuice] Australia Aug business confidence index declines to -8 from -7 in July: NAB
+- 09/08 10:30 [financialjuice] Australia aug business conditions index drops to -1 from +4 in july: nab
+- 09/08 10:30 [FirstSquawk] Australia August business conditions deteriorate to -1 from +4 in July — NAB
+- 09/08 10:31 [FirstSquawk] Australia August business confidence weakens to -8 from -7 in July — NAB
+- 09/08 10:32 [FirstSquawk] Dollar/yen slides 0.6% to 153.410
+- 09/08 10:32 [financialjuice] Dollar/yen drops 0.6% to 153.410 in last trading

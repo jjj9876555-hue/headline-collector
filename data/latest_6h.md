@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 10:16 JST／対象: 09/08 04:16 〜 09/08 10:16 JST（時刻はすべて日本時間）
+生成: 2026-09-08 10:33 JST／対象: 09/08 04:33 〜 09/08 10:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 06:42 | 09/08 06:42 | - |
-| FirstSquawk | 48 | 09/08 04:56 | 09/08 10:16 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 47 | 09/08 04:22 | 09/08 10:13 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 54 | 09/08 04:56 | 09/08 10:32 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 50 | 09/08 04:43 | 09/08 10:32 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 96 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 105 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 04:22 [financialjuice] Tuesday FX Option Expiries
 - 09/08 04:43 [financialjuice] Nvidia's CEO Huang is on the UK King Charles' AI meeting guest list - Politico $NVDA
 - 09/08 04:54 [financialjuice] Stock Futures Face Pressure in Holiday-Thinned Trading as Middle East Escalation Drives Oil Higher – US Market Wrap
 - 09/08 04:56 [FirstSquawk] NVIDIA'S CEO HUANG IS ON UK KING CHARLES' AI MEETING GUEST LIST - POLITICO
@@ -120,3 +119,13 @@
 - 09/08 10:14 [FirstSquawk] Kyiv hit by Russian ballistic missile attack, mayor says
 - 09/08 10:16 [FirstSquawk] China’s PBOC fixes yuan mid-point at 6.7804 per dollar
 - 09/08 10:16 [FirstSquawk] Indonesia’s Mount Anak Krakatau records three eruptions on Tuesday — monitoring agency
+- 09/08 10:20 [financialjuice] China pumps 1 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/08 10:21 [FirstSquawk] 20-year Japanese government bond yield drops 4.0 bps to 3.705%
+- 09/08 10:28 [FirstSquawk] Yen Strengthens Further; Sentiment Toward Currency Has ‘Materially’ Shifted - WSJ
+- 09/08 10:28 [FirstSquawk] JGB Futures Rise as Yen’s Strength Seen Easing Inflationary Pressures - WSJ
+- 09/08 10:30 [financialjuice] Australia Aug business confidence index declines to -8 from -7 in July: NAB
+- 09/08 10:30 [financialjuice] Australia aug business conditions index drops to -1 from +4 in july: nab
+- 09/08 10:30 [FirstSquawk] Australia August business conditions deteriorate to -1 from +4 in July — NAB
+- 09/08 10:31 [FirstSquawk] Australia August business confidence weakens to -8 from -7 in July — NAB
+- 09/08 10:32 [FirstSquawk] Dollar/yen slides 0.6% to 153.410
+- 09/08 10:32 [financialjuice] Dollar/yen drops 0.6% to 153.410 in last trading
