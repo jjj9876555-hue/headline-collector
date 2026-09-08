@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 00:54 JST／対象: 09/08 18:54 〜 09/09 00:54 JST（時刻はすべて日本時間）
+生成: 2026-09-09 01:19 JST／対象: 09/08 19:19 〜 09/09 01:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/08 22:06 | 09/09 00:42 | ⚠ 52分（23:50→00:42） |
-| FirstSquawk | 118 | 09/08 19:00 | 09/09 00:30 | 17分（21:12→21:29） |
-| financialjuice | 118 | 09/08 19:00 | 09/09 00:41 | 32分（19:45→20:18） |
+| FirstSquawk | 124 | 09/08 19:27 | 09/09 01:13 | 25分（00:30→00:55） |
+| financialjuice | 123 | 09/08 19:20 | 09/09 01:18 | 32分（19:45→20:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 238 行（統合前 243 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 249 行（統合前 254 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 19:00 [financialjuice] US NFIB BUSINESS OPTIMISM INDEX ACTUAL 98.7 (FORECAST 99.3, PREVIOUS 99.80) $MACRO
-- 09/08 19:00 [FirstSquawk] FOUR SAUDI AIRSTRIKES HIT YEMEN'S MARIB, HOUTHI-RUN AL MASIRAH TV SAYS
-- 09/08 19:06 [FirstSquawk] UBER FILES FOR EURO-DENOMINATED FIVE PARTS SENIOR NOTES OFFERING; SIZE NOT DISCLOSED - SEC FILING
-- 09/08 19:16 [FirstSquawk] MERCK & CO INC : GUGGENHEIM RAISES TARGET PRICE TO $170 FROM $146
 - 09/08 19:20 [financialjuice] ❗ Qatar is working with its regional partners and China to resume talks between US and Iran - Foreign Ministry.
 - 09/08 19:23 [financialjuice] UK Government: To lay legislation which will tackle Iranian nuclear activity and other hostile Iranian activity.
 - 09/08 19:23 [financialjuice] UK Government: The legislation will further expand our powers to sanction ships.
@@ -262,3 +258,18 @@
 - 09/09 00:39 [financialjuice] US Treasury Secretary Bessent: 2 Iran-owned London luxury penthouses being auctioned.
 - 09/09 00:41 [financialjuice] Iran destroys a US MQ1 drone over the Strait of Hormuz; no US confirmation - Iran's Tasnim news agency citing IRGC.
 - 09/09 00:42 [DeItaone] IRAN'S TASNIM NEWS AGENCY CITING IRGC: IRAN DESTROYS A U.S. MQ1 DRONE OVER THE STRAIT OF HORMUZ; NO U.S CONFIRMATION
+- 09/09 00:55 [FirstSquawk] QUALCOMM WILL BEGIN RECEIVING REVENUE FROM AMAZON IN THE DECEMBER QUARTER.
+- 09/09 00:57 [financialjuice] Qualcomm is going to get Amazon revenue starting in the December quarter. $QCOM
+- 09/09 00:57 [financialjuice] Qualcomm has high confidence in it's $5 bln data center target. $QCOM
+- 09/09 00:58 [FirstSquawk] QUALCOMM IS CONFIDENT ABOUT REACHING ITS $5 BILLION DATA CENTER GOAL.
+- 09/09 00:58 [FirstSquawk] EU OIL COORD GROUP SAYS THERE IS NO URGENT CONCERN ABOUT OIL SUPPLY SECURITY.
+- 09/09 01:02 [FirstSquawk] EU OIL GROUP WARNS THAT MIDEAST CONFLICT AND WINTER WEATHER COULD MAKE MARKETS TIGHTER.
+- 09/09 01:09 [financialjuice] Stocks of Crude oil in the US Strategic Petroleum Reserve fell by about 1.2 mln barrels to 285.4 mln barrels last week, lowest since 1982.
+- 09/09 01:13 [financialjuice] Samsung to integrate Mistral AI across it's semiconductor operations.
+- 09/09 01:13 [FirstSquawk] OPENAI IS INVESTING $5 MILLION TO BACK INDEPENDENT RESEARCH ON TEENAGE ISSUES.
+- 09/09 01:13 [FirstSquawk] OPENAI CONDUCTS STUDY ON HOW GENERATIVE AI IMPACTS TEENAGERS.
+- 09/09 01:13 [FirstSquawk] SAMSUNG TAKES THE LEAD IN MISTRAL AI'S SERIES D FUNDING ROUND.
+- 09/09 01:13 [FirstSquawk] SAMSUNG WILL USE MISTRAL AI IN ITS SEMICONDUCTOR OPERATIONS.
+- 09/09 01:13 [FirstSquawk] SAMSUNG ACQUIRES EQUITY IN MISTRAL AI FOLLOWING FUNDING ROUND.
+- 09/09 01:18 [financialjuice] Qualcomm CFO: Next year, we expect to be the largest chip supplier to the automotive industry. $QCOM
+- 09/09 01:18 [financialjuice] Qualcomm CFO: Higher memory prices have had a limited impact on the premium smartphone market.

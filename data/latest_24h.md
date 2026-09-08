@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 00:54 JST／対象: 09/08 00:54 〜 09/09 00:54 JST（時刻はすべて日本時間）
+生成: 2026-09-09 01:19 JST／対象: 09/08 01:19 〜 09/09 01:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 14 | 09/08 02:28 | 09/09 00:42 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 347 | 09/08 00:56 | 09/09 00:30 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 269 | 09/08 00:55 | 09/09 00:41 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 353 | 09/08 01:24 | 09/09 01:13 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 274 | 09/08 01:31 | 09/09 01:18 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 626 行（統合前 631 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 637 行（統合前 642 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 00:55 [financialjuice] Germany said to discuss gas storage help with SEFE and Uniper.
-- 09/08 00:56 [FirstSquawk] ITALY TO SELL UP TO EUR 750 MLN OF 2.15% 2072 BONDS SEPT. 10 || TO SELL UP TO EUR 3.5 BLN OF 3% 2029 BONDS || TO SELL UP TO EUR 3.5 BLN OF 3.35% 2033 BONDS
-- 09/08 01:13 [FirstSquawk] NTSB WILL HOST A MEDIA BRIEFING ON MONDAY AT 4 PM ET ABOUT THE RUNWAY INCIDENT AT MIAMI INTERNATIONAL AIRPORT.
-- 09/08 01:14 [FirstSquawk] LATVIA'S PM KULBERGS ANNOUNCED A 300% TARIFF ON GRAIN IMPORTS FROM RUSSIA AND BELARUS.
 - 09/08 01:24 [FirstSquawk] CUBA'S FOREIGN MINISTER BRUNO RODRIGUEZ STATES THAT THERE HAS BEEN NO ADVANCEMENT OR TALKS WITH THE UNITED STATES REGARDING FUTURE DISCUSSIONS.
 - 09/08 01:31 [financialjuice] The White House: Trump will never stop fighting for Made in America.
 - 09/08 01:37 [FirstSquawk] EUROPE'S LEADING AIRLINES DISCUSS PARTNERSHIP FOR SATELLITE-TO-MOBILE PROJECT.
@@ -650,3 +646,18 @@
 - 09/09 00:39 [financialjuice] US Treasury Secretary Bessent: 2 Iran-owned London luxury penthouses being auctioned.
 - 09/09 00:41 [financialjuice] Iran destroys a US MQ1 drone over the Strait of Hormuz; no US confirmation - Iran's Tasnim news agency citing IRGC.
 - 09/09 00:42 [DeItaone] IRAN'S TASNIM NEWS AGENCY CITING IRGC: IRAN DESTROYS A U.S. MQ1 DRONE OVER THE STRAIT OF HORMUZ; NO U.S CONFIRMATION
+- 09/09 00:55 [FirstSquawk] QUALCOMM WILL BEGIN RECEIVING REVENUE FROM AMAZON IN THE DECEMBER QUARTER.
+- 09/09 00:57 [financialjuice] Qualcomm is going to get Amazon revenue starting in the December quarter. $QCOM
+- 09/09 00:57 [financialjuice] Qualcomm has high confidence in it's $5 bln data center target. $QCOM
+- 09/09 00:58 [FirstSquawk] QUALCOMM IS CONFIDENT ABOUT REACHING ITS $5 BILLION DATA CENTER GOAL.
+- 09/09 00:58 [FirstSquawk] EU OIL COORD GROUP SAYS THERE IS NO URGENT CONCERN ABOUT OIL SUPPLY SECURITY.
+- 09/09 01:02 [FirstSquawk] EU OIL GROUP WARNS THAT MIDEAST CONFLICT AND WINTER WEATHER COULD MAKE MARKETS TIGHTER.
+- 09/09 01:09 [financialjuice] Stocks of Crude oil in the US Strategic Petroleum Reserve fell by about 1.2 mln barrels to 285.4 mln barrels last week, lowest since 1982.
+- 09/09 01:13 [financialjuice] Samsung to integrate Mistral AI across it's semiconductor operations.
+- 09/09 01:13 [FirstSquawk] OPENAI IS INVESTING $5 MILLION TO BACK INDEPENDENT RESEARCH ON TEENAGE ISSUES.
+- 09/09 01:13 [FirstSquawk] OPENAI CONDUCTS STUDY ON HOW GENERATIVE AI IMPACTS TEENAGERS.
+- 09/09 01:13 [FirstSquawk] SAMSUNG TAKES THE LEAD IN MISTRAL AI'S SERIES D FUNDING ROUND.
+- 09/09 01:13 [FirstSquawk] SAMSUNG WILL USE MISTRAL AI IN ITS SEMICONDUCTOR OPERATIONS.
+- 09/09 01:13 [FirstSquawk] SAMSUNG ACQUIRES EQUITY IN MISTRAL AI FOLLOWING FUNDING ROUND.
+- 09/09 01:18 [financialjuice] Qualcomm CFO: Next year, we expect to be the largest chip supplier to the automotive industry. $QCOM
+- 09/09 01:18 [financialjuice] Qualcomm CFO: Higher memory prices have had a limited impact on the premium smartphone market.

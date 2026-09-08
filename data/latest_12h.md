@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 00:54 JST／対象: 09/08 12:54 〜 09/09 00:54 JST（時刻はすべて日本時間）
+生成: 2026-09-09 01:19 JST／対象: 09/08 13:19 〜 09/09 01:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/08 17:32 | 09/09 00:42 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 217 | 09/08 12:57 | 09/09 00:30 | 22分（15:53→16:15） |
-| financialjuice | 159 | 09/08 13:00 | 09/09 00:41 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 212 | 09/08 13:29 | 09/09 01:13 | 25分（00:30→00:55） |
+| financialjuice | 162 | 09/08 13:30 | 09/09 01:18 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 379 行（統合前 384 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 377 行（統合前 382 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 12:57 [FirstSquawk] British Pound drifts higher to near 1.3550 on UK fiscal discipline pledges - FX
-- 09/08 13:00 [financialjuice] Swedish single-family home prices rise 3.9% in June-August versus year earlier, Svensk maklarstatistik data shows
-- 09/08 13:00 [financialjuice] Swedish apartment prices rose 4.8% in June-August versus same period a year earlier, svensk maklarstatistik data shows
-- 09/08 13:02 [financialjuice] Anthropic and OpenAI financiers seek prime credit ratings after IPO - FT
-- 09/08 13:02 [FirstSquawk] Global shipping rules are collapsing, say maritime nations - FT
-- 09/08 13:03 [FirstSquawk] Merz’s CDU in crisis after far-right victory in Saxony-Anhalt - FT
-- 09/08 13:03 [FirstSquawk] Apollo premium’ drives up debt costs for group’s portfolio companies - FT
-- 09/08 13:03 [FirstSquawk] Hedge fund Millennium seeks tax deal to boost Geneva presence - FT
-- 09/08 13:04 [FirstSquawk] EU opens door to bigger corporate mergers - FT
-- 09/08 13:04 [FirstSquawk] Britain’s grid operator gave Palantir contract without inviting rival bids - FT
-- 09/08 13:05 [FirstSquawk] Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - FT
-- 09/08 13:05 [FirstSquawk] European ‘wealth’ threatened by decline of region’s carmakers - FT
-- 09/08 13:10 [FirstSquawk] 30-year JGB yield declines 6.0 basis points to 3.960%
-- 09/08 13:11 [FirstSquawk] UK retail sales growth slows to 4-month low in August, BRC says - RTRS
-- 09/08 13:13 [FirstSquawk] China's exports soar 25% in August; trade surplus tops $800bn - NA
-- 09/08 13:14 [FirstSquawk] Chinese PLA aircraft to headline Egypt air show in display of export potential -SCMP
-- 09/08 13:15 [FirstSquawk] Canada’s tariffs on about $20 billion in U.S. goods have taken effect, responding to President Trump’s latest tariffs - AP
 - 09/08 13:29 [FirstSquawk] Xinhua says all bodies retrieved following Tibet mudslide are non-foreign nationals
 - 09/08 13:30 [financialjuice] DUTCH CPI MOM ACTUAL 0.3% (FORECAST -, PREVIOUS 1.6%) $MACRO
 - 09/08 13:30 [financialjuice] DUTCH CPI YOY ACTUAL 3.3% (FORECAST -, PREVIOUS 3.2%) $MACRO
@@ -403,3 +386,18 @@
 - 09/09 00:39 [financialjuice] US Treasury Secretary Bessent: 2 Iran-owned London luxury penthouses being auctioned.
 - 09/09 00:41 [financialjuice] Iran destroys a US MQ1 drone over the Strait of Hormuz; no US confirmation - Iran's Tasnim news agency citing IRGC.
 - 09/09 00:42 [DeItaone] IRAN'S TASNIM NEWS AGENCY CITING IRGC: IRAN DESTROYS A U.S. MQ1 DRONE OVER THE STRAIT OF HORMUZ; NO U.S CONFIRMATION
+- 09/09 00:55 [FirstSquawk] QUALCOMM WILL BEGIN RECEIVING REVENUE FROM AMAZON IN THE DECEMBER QUARTER.
+- 09/09 00:57 [financialjuice] Qualcomm is going to get Amazon revenue starting in the December quarter. $QCOM
+- 09/09 00:57 [financialjuice] Qualcomm has high confidence in it's $5 bln data center target. $QCOM
+- 09/09 00:58 [FirstSquawk] QUALCOMM IS CONFIDENT ABOUT REACHING ITS $5 BILLION DATA CENTER GOAL.
+- 09/09 00:58 [FirstSquawk] EU OIL COORD GROUP SAYS THERE IS NO URGENT CONCERN ABOUT OIL SUPPLY SECURITY.
+- 09/09 01:02 [FirstSquawk] EU OIL GROUP WARNS THAT MIDEAST CONFLICT AND WINTER WEATHER COULD MAKE MARKETS TIGHTER.
+- 09/09 01:09 [financialjuice] Stocks of Crude oil in the US Strategic Petroleum Reserve fell by about 1.2 mln barrels to 285.4 mln barrels last week, lowest since 1982.
+- 09/09 01:13 [financialjuice] Samsung to integrate Mistral AI across it's semiconductor operations.
+- 09/09 01:13 [FirstSquawk] OPENAI IS INVESTING $5 MILLION TO BACK INDEPENDENT RESEARCH ON TEENAGE ISSUES.
+- 09/09 01:13 [FirstSquawk] OPENAI CONDUCTS STUDY ON HOW GENERATIVE AI IMPACTS TEENAGERS.
+- 09/09 01:13 [FirstSquawk] SAMSUNG TAKES THE LEAD IN MISTRAL AI'S SERIES D FUNDING ROUND.
+- 09/09 01:13 [FirstSquawk] SAMSUNG WILL USE MISTRAL AI IN ITS SEMICONDUCTOR OPERATIONS.
+- 09/09 01:13 [FirstSquawk] SAMSUNG ACQUIRES EQUITY IN MISTRAL AI FOLLOWING FUNDING ROUND.
+- 09/09 01:18 [financialjuice] Qualcomm CFO: Next year, we expect to be the largest chip supplier to the automotive industry. $QCOM
+- 09/09 01:18 [financialjuice] Qualcomm CFO: Higher memory prices have had a limited impact on the premium smartphone market.
