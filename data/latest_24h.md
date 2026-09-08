@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 07:58 JST／対象: 09/08 07:58 〜 09/09 07:58 JST（時刻はすべて日本時間）
+生成: 2026-09-09 08:16 JST／対象: 09/08 08:16 〜 09/09 08:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 433 | 09/08 08:36 | 09/09 07:53 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 344 | 09/08 08:00 | 09/09 07:57 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 435 | 09/08 08:36 | 09/09 07:59 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 343 | 09/08 08:29 | 09/09 08:15 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 777 行（統合前 789 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 778 行（統合前 790 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 08:00 [financialjuice] S. KOREAN GDP YOY REVISED ACTUAL 3.7% (FORECAST 3.7%, PREVIOUS 3.7%) $MACRO
-- 09/08 08:00 [financialjuice] S. KOREAN GDP QOQ REVISED ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS 0.6%) $MACRO
-- 09/08 08:00 [financialjuice] S. Korea revised Q2 private consumption 0.4% q/q vs 0.4% estimated earlier: central bank
-- 09/08 08:00 [financialjuice] S.Korea revised Q2 GDP to 3.7% y/y vs 3.7% estimated earlier: central bank
-- 09/08 08:00 [financialjuice] S.Korea revises Q2 construction investment to -0.1% q/q from earlier -0.2%: central bank
-- 09/08 08:00 [financialjuice] S. Korea revises Q2 facilities investment to +0.2% q/q vs +0.2% estimated earlier:
-- 09/08 08:01 [financialjuice] Colombia inflation rose 0.39% last month: government statistics agency
-- 09/08 08:01 [financialjuice] S.Korea revised Q2 GDP growth 0.6% quarter on quarter vs 0.6% estimated earlier: central bank
-- 09/08 08:01 [financialjuice] Colombia's annual inflation reached 6.24% through last month: government statistics agency
-- 09/08 08:01 [financialjuice] UK BRC RETAIL SALES YOY ACTUAL 0.5% (FORECAST -, PREVIOUS 1.0%) $MACRO
-- 09/08 08:01 [financialjuice] Barclays: UK August consumer spending rises 2.1% year-on-year versus 2.0% in July
-- 09/08 08:01 [financialjuice] British Retail Consortium August total sales rise 0.7% year on year, slowest growth since April after July's 1.3% increase
-- 09/08 08:01 [financialjuice] Barclays uk consumer confidence 26% in august vs 21-month peak of 30% in july
-- 09/08 08:01 [financialjuice] British Retail Consortium August like-for-like sales rise 0.5% yy vs July 1.0% yy
 - 09/08 08:29 [financialjuice] Argentina to file criminal charges against Navitas Oil and executives for operating in Falkland Islands: statement
 - 09/08 08:30 [financialjuice] JAPANESE AVERAGE CASH EARNINGS YOY ACTUAL 4.7% (FORECAST 3.8%, PREVIOUS 3.4%4.0%) $MACRO
 - 09/08 08:30 [financialjuice] JAPANESE OVERTIME PAY ACTUAL 3.1% (FORECAST -, PREVIOUS 2.8% ,REVISION 3.4%) $MACRO
@@ -801,3 +787,18 @@
 - 09/09 07:56 [financialjuice] White House: Certain Canadian alcoholic drinks barred from US imports starting 12:01 a.m. ET September 29, 2026
 - 09/09 07:56 [financialjuice] White House: products subject to import ban in this proclamation imported but not yet entered or withdrawn for consumption prior to Sep
 - 09/09 07:57 [financialjuice] White House: goods imported but not entered for consumption or withdrawn from warehouse before Sept. 29, 2026, will remain subject to 50% tariff
+- 09/09 07:58 [financialjuice] White House: certain Canadian products imported into US to face extra 50% ad valorem duty
+- 09/09 07:59 [FirstSquawk] WHITE HOUSE SAYS IT IS EXCLUDING CERTAIN CANADIAN PRODUCTS FROM IMPORTATION INTO THE UNITED STATES, IN RESPONSE TO WHAT IT CALLS CONTINUED DISCRIMINATION AGAINST U.S. COMMERCE WITH RESPECT TO ALCOHOLIC BEVERAGES, WITH CERTAIN CANADIAN ALCOH…
+- 09/09 07:59 [FirstSquawk] WHITE HOUSE SAYS PRODUCTS IMPORTED, BUT NOT ENTERED FOR CONSUMPTION OR WITHDRAWN FROM WAREHOUSE, PRIOR TO SEPTEMBER 29, 2026 WILL REMAIN SUBJECT TO A 50% TARIFF.
+- 09/09 08:00 [financialjuice] S. KOREAN UNEMPLOYMENT RATE ACTUAL 2.7% (FORECAST 2.8%, PREVIOUS 2.8%) $MACRO
+- 09/09 08:00 [financialjuice] Tankan: Japan manufacturers December gauge estimated at +27, non-manufacturers +27
+- 09/09 08:00 [financialjuice] S. Korea’s August unemployment rate seasonally adjusted 2.7% vs 2.8% in July: data ministry
+- 09/09 08:00 [financialjuice] Tankan: Japan manufacturers index rises to 21 in September from 18 in August
+- 09/09 08:00 [financialjuice] S. Korea August employment up 184,000 year/year vs 108,000 in July: data ministry
+- 09/09 08:06 [financialjuice] Senior Trump administration official: Trump approved series of proclamations on Canada trade measures
+- 09/09 08:07 [financialjuice] Senior Trump administration official: ban on dairy, most alcohol, motorcycles imports from Canada under section 338
+- 09/09 08:08 [financialjuice] Senior Trump administration official: import restrictions on Canadian goods effective in about three weeks
+- 09/09 08:11 [financialjuice] Senior Trump administration official: Trump’s stance on Jan. 1, 2027, auto tariff hike remains in effect
+- 09/09 08:12 [financialjuice] Senior Trump administration official: U.S. held talks with Canada's Minister LeBlanc over past few days
+- 09/09 08:15 [financialjuice] Iran’s Revolutionary Guards: ballistic missile strike on two U.S. destroyers - Iranian state media
+- 09/09 08:15 [financialjuice] Mexico economy minister: U.S. commerce secretary to visit Mexico City Wednesday for meeting with President Sheinbaum

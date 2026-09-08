@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 07:58 JST／対象: 09/08 19:58 〜 09/09 07:58 JST（時刻はすべて日本時間）
+生成: 2026-09-09 08:16 JST／対象: 09/08 20:16 〜 09/09 08:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 22:06 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 215 | 09/08 20:00 | 09/09 07:53 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 197 | 09/08 20:18 | 09/09 07:57 | 37分（06:28→07:05） |
+| FirstSquawk | 213 | 09/08 20:22 | 09/09 07:59 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 210 | 09/08 20:18 | 09/09 08:15 | 37分（06:28→07:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 412 行（統合前 423 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 423 行（統合前 434 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 20:00 [FirstSquawk] HEALEY SEES SIGNS OF IMPROVEMENT IN THE UK ECONOMY.
-- 09/08 20:06 [FirstSquawk] UK HAS RECORDED ITS HIGHEST BOND SALE YIELD SINCE 1998.
-- 09/08 20:12 [FirstSquawk] INDIA, CHINA ARMY COMMANDERS HELD BORDER TALKS ON SUNDAY: FOREIGN MINISTRY
-- 09/08 20:15 [FirstSquawk] UK OFFICIALS ARE CONCERNED THAT THE SANCTIONS ANNOUNCEMENT MAY STRAIN BURNHAM'S RELATIONSHIP WITH TRUMP, ACCORDING TO THE TIMES.
 - 09/08 20:18 [financialjuice] US seeks more access to Venezuela's minerals.
 - 09/08 20:22 [FirstSquawk] IRAN HAS CONVEYED ITS CONDITIONS TO THE US THROUGH INTERMEDIARIES AFTER WASHINGTON RECENTLY SENT NEW PROPOSALS TO TEHRAN
 - 09/08 20:22 [financialjuice] Commerce Department reaches $100m deal with D-wave under chips act.
@@ -436,3 +432,18 @@
 - 09/09 07:56 [financialjuice] White House: Certain Canadian alcoholic drinks barred from US imports starting 12:01 a.m. ET September 29, 2026
 - 09/09 07:56 [financialjuice] White House: products subject to import ban in this proclamation imported but not yet entered or withdrawn for consumption prior to Sep
 - 09/09 07:57 [financialjuice] White House: goods imported but not entered for consumption or withdrawn from warehouse before Sept. 29, 2026, will remain subject to 50% tariff
+- 09/09 07:58 [financialjuice] White House: certain Canadian products imported into US to face extra 50% ad valorem duty
+- 09/09 07:59 [FirstSquawk] WHITE HOUSE SAYS IT IS EXCLUDING CERTAIN CANADIAN PRODUCTS FROM IMPORTATION INTO THE UNITED STATES, IN RESPONSE TO WHAT IT CALLS CONTINUED DISCRIMINATION AGAINST U.S. COMMERCE WITH RESPECT TO ALCOHOLIC BEVERAGES, WITH CERTAIN CANADIAN ALCOH…
+- 09/09 07:59 [FirstSquawk] WHITE HOUSE SAYS PRODUCTS IMPORTED, BUT NOT ENTERED FOR CONSUMPTION OR WITHDRAWN FROM WAREHOUSE, PRIOR TO SEPTEMBER 29, 2026 WILL REMAIN SUBJECT TO A 50% TARIFF.
+- 09/09 08:00 [financialjuice] S. KOREAN UNEMPLOYMENT RATE ACTUAL 2.7% (FORECAST 2.8%, PREVIOUS 2.8%) $MACRO
+- 09/09 08:00 [financialjuice] Tankan: Japan manufacturers December gauge estimated at +27, non-manufacturers +27
+- 09/09 08:00 [financialjuice] S. Korea’s August unemployment rate seasonally adjusted 2.7% vs 2.8% in July: data ministry
+- 09/09 08:00 [financialjuice] Tankan: Japan manufacturers index rises to 21 in September from 18 in August
+- 09/09 08:00 [financialjuice] S. Korea August employment up 184,000 year/year vs 108,000 in July: data ministry
+- 09/09 08:06 [financialjuice] Senior Trump administration official: Trump approved series of proclamations on Canada trade measures
+- 09/09 08:07 [financialjuice] Senior Trump administration official: ban on dairy, most alcohol, motorcycles imports from Canada under section 338
+- 09/09 08:08 [financialjuice] Senior Trump administration official: import restrictions on Canadian goods effective in about three weeks
+- 09/09 08:11 [financialjuice] Senior Trump administration official: Trump’s stance on Jan. 1, 2027, auto tariff hike remains in effect
+- 09/09 08:12 [financialjuice] Senior Trump administration official: U.S. held talks with Canada's Minister LeBlanc over past few days
+- 09/09 08:15 [financialjuice] Iran’s Revolutionary Guards: ballistic missile strike on two U.S. destroyers - Iranian state media
+- 09/09 08:15 [financialjuice] Mexico economy minister: U.S. commerce secretary to visit Mexico City Wednesday for meeting with President Sheinbaum

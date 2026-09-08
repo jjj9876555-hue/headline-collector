@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 07:58 JST／対象: 09/09 01:58 〜 09/09 07:58 JST（時刻はすべて日本時間）
+生成: 2026-09-09 08:16 JST／対象: 09/09 02:16 〜 09/09 08:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/09 02:40 | 09/09 05:33 | ⚠ 105分（03:46→05:31） |
-| FirstSquawk | 95 | 09/09 02:02 | 09/09 07:53 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 78 | 09/09 02:00 | 09/09 07:57 | 37分（06:28→07:05） |
+| FirstSquawk | 94 | 09/09 02:33 | 09/09 07:59 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 82 | 09/09 02:35 | 09/09 08:15 | 37分（06:28→07:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 170 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 173 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 02:00 [financialjuice] Treasury WI 3-Year yield 4.475% before $58 billion auction.
-- 09/09 02:01 [financialjuice] Alerts activated in Saudi Arabia's Jazan - Civil Defence.
-- 09/09 02:02 [FirstSquawk] ALERTS ACTIVATED IN JAZAN, SAUDI ARABIA - CIVIL DEFENCE
-- 09/09 02:02 [financialjuice] Russian Lavrov: Putin may meet Trump, Xi at APEC in November - IFX
-- 09/09 02:02 [financialjuice] US 3-YEAR NOTE HIGH YIELD ACTUAL 4.474% (FORECAST -, PREVIOUS 4.291%) $MACRO
-- 09/09 02:02 [financialjuice] US 3-YEAR NOTE BID-TO-COVER ACTUAL 2.720 (FORECAST -, PREVIOUS 2.710) $MACRO
-- 09/09 02:03 [financialjuice] US 3-Year Note Auction High Yield 4.474% [Stop-through 0.1 bps] Bid-to-cover 2.72 Sells 58 bln Awards 29.35% of bids at high Primary Dealers take 10.9% Direct 26.9% Indirect 62.1%
-- 09/09 02:04 [financialjuice] Saudi Arabia: Early warning issued in Najran and Abha province.
-- 09/09 02:07 [FirstSquawk] US 3-Year Note Sale: - High Yield Rate: 4.474% (prev 4.291%) - Bid-Cover Ratio: 2.72 (prev 2.71) - Direct Accepted: 26.9% (prev 24.0%) - Indirect Accepted: 62.1% (prev 64.2%) - WI: 4.475%
-- 09/09 02:07 [FirstSquawk] Danger Has Passed In Jazan Province – Saudi Civil Defence
-- 09/09 02:08 [financialjuice] Saudi Arabia: Danger passed in Abha and Jazan after warning.
-- 09/09 02:12 [financialjuice] Saudi Arabia: Danger passed in the Najran province
 - 09/09 02:33 [FirstSquawk] U.S. POWDER RIVER BASIN COAL PRICES WERE UNCHANGED AT $14.50/TON FOR THE WEEK ENDING SEPT. 4, WITH NORTHERN APPALACHIAN PRICES ALSO UNCHANGED AT $70.25/TON
 - 09/09 02:33 [FirstSquawk] U.S. ILLINOIS BASIN COAL PRICES WERE UNCHANGED AT $55.00/TON FOR THE WEEK ENDING SEPT. 4, WITH CENTRAL APPALACHIAN PRICES ALSO UNCHANGED AT $81.00/TON
 - 09/09 02:34 [FirstSquawk] SAUDI ARABIA SAYS THE DANGER HAS PASSED IN THE NAJRAN PROVINCE, AND IN ABHA AND JAZAN AFTER A WARNING
@@ -194,3 +182,18 @@
 - 09/09 07:56 [financialjuice] White House: Certain Canadian alcoholic drinks barred from US imports starting 12:01 a.m. ET September 29, 2026
 - 09/09 07:56 [financialjuice] White House: products subject to import ban in this proclamation imported but not yet entered or withdrawn for consumption prior to Sep
 - 09/09 07:57 [financialjuice] White House: goods imported but not entered for consumption or withdrawn from warehouse before Sept. 29, 2026, will remain subject to 50% tariff
+- 09/09 07:58 [financialjuice] White House: certain Canadian products imported into US to face extra 50% ad valorem duty
+- 09/09 07:59 [FirstSquawk] WHITE HOUSE SAYS IT IS EXCLUDING CERTAIN CANADIAN PRODUCTS FROM IMPORTATION INTO THE UNITED STATES, IN RESPONSE TO WHAT IT CALLS CONTINUED DISCRIMINATION AGAINST U.S. COMMERCE WITH RESPECT TO ALCOHOLIC BEVERAGES, WITH CERTAIN CANADIAN ALCOH…
+- 09/09 07:59 [FirstSquawk] WHITE HOUSE SAYS PRODUCTS IMPORTED, BUT NOT ENTERED FOR CONSUMPTION OR WITHDRAWN FROM WAREHOUSE, PRIOR TO SEPTEMBER 29, 2026 WILL REMAIN SUBJECT TO A 50% TARIFF.
+- 09/09 08:00 [financialjuice] S. KOREAN UNEMPLOYMENT RATE ACTUAL 2.7% (FORECAST 2.8%, PREVIOUS 2.8%) $MACRO
+- 09/09 08:00 [financialjuice] Tankan: Japan manufacturers December gauge estimated at +27, non-manufacturers +27
+- 09/09 08:00 [financialjuice] S. Korea’s August unemployment rate seasonally adjusted 2.7% vs 2.8% in July: data ministry
+- 09/09 08:00 [financialjuice] Tankan: Japan manufacturers index rises to 21 in September from 18 in August
+- 09/09 08:00 [financialjuice] S. Korea August employment up 184,000 year/year vs 108,000 in July: data ministry
+- 09/09 08:06 [financialjuice] Senior Trump administration official: Trump approved series of proclamations on Canada trade measures
+- 09/09 08:07 [financialjuice] Senior Trump administration official: ban on dairy, most alcohol, motorcycles imports from Canada under section 338
+- 09/09 08:08 [financialjuice] Senior Trump administration official: import restrictions on Canadian goods effective in about three weeks
+- 09/09 08:11 [financialjuice] Senior Trump administration official: Trump’s stance on Jan. 1, 2027, auto tariff hike remains in effect
+- 09/09 08:12 [financialjuice] Senior Trump administration official: U.S. held talks with Canada's Minister LeBlanc over past few days
+- 09/09 08:15 [financialjuice] Iran’s Revolutionary Guards: ballistic missile strike on two U.S. destroyers - Iranian state media
+- 09/09 08:15 [financialjuice] Mexico economy minister: U.S. commerce secretary to visit Mexico City Wednesday for meeting with President Sheinbaum
