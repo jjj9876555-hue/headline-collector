@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 02:25 JST／対象: 09/08 14:25 〜 09/09 02:25 JST（時刻はすべて日本時間）
+生成: 2026-09-09 02:42 JST／対象: 09/08 14:42 〜 09/09 02:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/08 17:32 | 09/09 00:42 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 199 | 09/08 14:27 | 09/09 02:07 | 28分（01:25→01:53） |
-| financialjuice | 161 | 09/08 15:00 | 09/09 02:12 | ⚠ 56分（15:45→16:42） |
+| DeItaone | 8 | 09/08 17:32 | 09/09 02:40 | ⚠ 273分（17:32→22:06） |
+| FirstSquawk | 203 | 09/08 14:45 | 09/09 02:42 | 28分（01:25→01:53） |
+| financialjuice | 163 | 09/08 15:00 | 09/09 02:38 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 363 行（統合前 368 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 370 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 14:27 [FirstSquawk] Saudi Energy Ministry: Authorities focused on facility and personnel safety and continuity of operations
-- 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Attacks sparked fires at several sites, temporarily suspending some operations
-- 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Energy facilities and utilities in the kingdom’s southern region targeted Tuesday morning
-- 09/08 14:39 [FirstSquawk] MISTRAL RAISES RECORD €3BN AS EUROPE STRAINS TO KEEP PACE IN AI RACE-FT
 - 09/08 14:45 [FirstSquawk] CHINA’S TRADE SURPLUS WIDENS AS EXPORT GROWTH ACCELERATES-WSJ
 - 09/08 14:50 [FirstSquawk] Brent rises $1 to $98/bbl after Saudi Arabia says Houthis targeted energy facilities and utilities
 - 09/08 14:51 [FirstSquawk] Russia targets Ukraine with dozens of missiles and 166 drones in overnight attack, Air Force says
@@ -387,3 +383,14 @@
 - 09/09 02:07 [FirstSquawk] Danger Has Passed In Jazan Province – Saudi Civil Defence
 - 09/09 02:08 [financialjuice] Saudi Arabia: Danger passed in Abha and Jazan after warning.
 - 09/09 02:12 [financialjuice] Saudi Arabia: Danger passed in the Najran province
+- 09/09 02:33 [FirstSquawk] U.S. POWDER RIVER BASIN COAL PRICES WERE UNCHANGED AT $14.50/TON FOR THE WEEK ENDING SEPT. 4, WITH NORTHERN APPALACHIAN PRICES ALSO UNCHANGED AT $70.25/TON
+- 09/09 02:33 [FirstSquawk] U.S. ILLINOIS BASIN COAL PRICES WERE UNCHANGED AT $55.00/TON FOR THE WEEK ENDING SEPT. 4, WITH CENTRAL APPALACHIAN PRICES ALSO UNCHANGED AT $81.00/TON
+- 09/09 02:34 [FirstSquawk] SAUDI ARABIA SAYS THE DANGER HAS PASSED IN THE NAJRAN PROVINCE, AND IN ABHA AND JAZAN AFTER A WARNING
+- 09/09 02:35 [financialjuice] OpenAI CFO: Enterprise business has been on a tear - CNBC
+- 09/09 02:38 [financialjuice] US Cyber and law enforcement Officials accuse Chinese AI companies of aggressive, industrial-scale distillation activities.
+- 09/09 02:40 [FirstSquawk] NETANYAHU'S OFFICE SAYS 'THE PRESS REPORTS ARE FALSE', ADDING THAT 'NO WARNING WAS GIVEN TO THE PRIME MINISTER FROM THE UNITED ARAB EMIRATES BEFORE OCTOBER 7TH', AND THAT IF THERE WAS ANY RELEVANT INFORMATION, 'IT WAS PASSED THROUGH INTELLI…
+- 09/09 02:40 [DeItaone] *OPENAI CFO SAYS ENTERPRISE BUSINESS HAS BEEN 'ON A TEAR': CNBC
+- 09/09 02:41 [FirstSquawk] NEW YORK CITY MAYORAL CANDIDATE ZOHRAN MAMDANI SAYS THAT 'CLOSE TO 25 YEARS LATER, MORE PEOPLE HAVE DIED FROM 9/11-RELATED ILLNESSES THAN WERE KILLED ON THE DAY ITSELF', ARGUING 'IT WOULD BE ONE THING IF GOVERNMENT HAD STOOD ALONGSIDE SURVI…
+- 09/09 02:41 [FirstSquawk] NEW YORK CITY MAYORAL CANDIDATE ZOHRAN MAMDANI SAYS 'PEOPLE GOT SICK BECAUSE THE LEADERS THEY TRUSTED LIED AND TOLD THEM THEY WERE SAFE TO BREATHE IN TOXIC AIR', AND THAT WHEN THEY BEGAN CONTENDING WITH THE RESULTING ILLNESSES, 'THE GOVERNM…
+- 09/09 02:42 [FirstSquawk] CANADIAN PM MARK CARNEY SAYS THAT 'AT THE 11TH HOUR, THEY WERE STILL PURSUING RESTRICTIONS ON OUR ABILITY TO PROTECT AND PROMOTE THE FRENCH LANGUAGE AND OUR CULTURE', AND WANTED 'A SAY IN OUR FUTURE TRADE AGREEMENTS WITH OTHER COUNTRIES', A…
+- 09/09 02:42 [FirstSquawk] CANADIAN PM MARK CARNEY SAYS THAT SINCE 'A FAIR DEAL WASN'T ON THE TABLE, WE MADE THE RIGHT CHOICE — TO WALK AWAY FROM A BAD ONE', ARGUING THAT 'IN TOO MANY AREAS, THEY WANTED DEPENDENCY, NOT A TRUE ECONOMIC PARTNERSHIP'.
