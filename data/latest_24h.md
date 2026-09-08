@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 19:18 JST／対象: 09/07 19:18 〜 09/08 19:18 JST（時刻はすべて日本時間）
+生成: 2026-09-08 19:34 JST／対象: 09/07 19:34 〜 09/08 19:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 00:17 | 09/08 17:32 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 297 | 09/07 19:26 | 09/08 19:16 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 173 | 09/07 19:54 | 09/08 19:00 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 299 | 09/07 19:35 | 09/08 19:27 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 176 | 09/07 19:54 | 09/08 19:23 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 476 行（統合前 481 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 481 行（統合前 486 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 19:26 [FirstSquawk] GERMAN AFD LEADER ALICE WEIDEL: NO CHANCELLOR BEFORE HIM HAS BEEN AS UNPOPULAR AS FRIEDRICH MERZ, WHO HAS BECOME A MAJOR BURDEN ON GERMANY’S POSITIVE DEVELOPMENT.
 - 09/07 19:35 [FirstSquawk] GERMANY’S CHANCELLOR MERZ: WE CANNOT SIMPLY CARRY ON AS USUAL — NEITHER CAN I, NOR CAN THE FEDERAL GOVERNMENT. WE HAVE FAILED TO ESTABLISH AN EMOTIONAL CONNECTION WITH THE PEOPLE.
 - 09/07 19:35 [FirstSquawk] CABINET RESHUFFLE AND LDP EXECUTIVE APPOINTMENTS TO BEGIN ON THE 16TH - KYODO
 - 09/07 19:38 [FirstSquawk] OMAN SAYS IT EVACUATED 16 CREW MEMBERS OF SAUDI SIDR VESSEL THAT WAS PREVIOUSLY ATTACKED BY IRAN - STATEMENT
@@ -500,3 +499,9 @@
 - 09/08 19:00 [FirstSquawk] FOUR SAUDI AIRSTRIKES HIT YEMEN'S MARIB, HOUTHI-RUN AL MASIRAH TV SAYS
 - 09/08 19:06 [FirstSquawk] UBER FILES FOR EURO-DENOMINATED FIVE PARTS SENIOR NOTES OFFERING; SIZE NOT DISCLOSED - SEC FILING
 - 09/08 19:16 [FirstSquawk] MERCK & CO INC : GUGGENHEIM RAISES TARGET PRICE TO $170 FROM $146
+- 09/08 19:20 [financialjuice] ❗ Qatar is working with its regional partners and China to resume talks between US and Iran - Foreign Ministry.
+- 09/08 19:23 [financialjuice] UK Government: To lay legislation which will tackle Iranian nuclear activity and other hostile Iranian activity.
+- 09/08 19:23 [financialjuice] UK Government: The legislation will further expand our powers to sanction ships.
+- 09/08 19:27 [FirstSquawk] BOSTON SCIENTIFIC UNLIKELY TO MEET FORECASTS AFTER CYBER ATTACK
+- 09/08 19:27 [FirstSquawk] UK GOVERNMENT: GENERAL LICENCE WILL ENABLE CONTINUED OPERATION OF THE SHAH DENIZ GAS FIELD IN AZERBAIJAN
+- 09/08 19:27 [FirstSquawk] BOSTON SCIENTIFIC SEES MATERIAL IMPACT ON Q3, FULL YEAR || SEES RECOVERING SOME PORTION OF IMPACTED REV.

@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 19:18 JST／対象: 09/08 13:18 〜 09/08 19:18 JST（時刻はすべて日本時間）
+生成: 2026-09-08 19:34 JST／対象: 09/08 13:34 〜 09/08 19:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 88 | 09/08 13:29 | 09/08 19:16 | 22分（15:53→16:15） |
-| financialjuice | 39 | 09/08 13:30 | 09/08 19:00 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 90 | 09/08 13:34 | 09/08 19:27 | 22分（15:53→16:15） |
+| financialjuice | 39 | 09/08 13:43 | 09/08 19:23 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 128 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 130 行（統合前 130 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 13:29 [FirstSquawk] Xinhua says all bodies retrieved following Tibet mudslide are non-foreign nationals
-- 09/08 13:30 [financialjuice] DUTCH CPI MOM ACTUAL 0.3% (FORECAST -, PREVIOUS 1.6%) $MACRO
-- 09/08 13:30 [financialjuice] DUTCH CPI YOY ACTUAL 3.3% (FORECAST -, PREVIOUS 3.2%) $MACRO
-- 09/08 13:30 [financialjuice] Dutch Aug CPI rises 3.3% y/y after 3.2% in July: CBS
 - 09/08 13:34 [FirstSquawk] JPMorgan lowers FedEx target price to $400 from $460
 - 09/08 13:37 [FirstSquawk] Singapore Dollar Strengthens Slightly - WSJ
 - 09/08 13:40 [FirstSquawk] Singapore government accepts recommendations to raise ministers’ salaries, PM says
@@ -152,3 +148,9 @@
 - 09/08 19:00 [FirstSquawk] FOUR SAUDI AIRSTRIKES HIT YEMEN'S MARIB, HOUTHI-RUN AL MASIRAH TV SAYS
 - 09/08 19:06 [FirstSquawk] UBER FILES FOR EURO-DENOMINATED FIVE PARTS SENIOR NOTES OFFERING; SIZE NOT DISCLOSED - SEC FILING
 - 09/08 19:16 [FirstSquawk] MERCK & CO INC : GUGGENHEIM RAISES TARGET PRICE TO $170 FROM $146
+- 09/08 19:20 [financialjuice] ❗ Qatar is working with its regional partners and China to resume talks between US and Iran - Foreign Ministry.
+- 09/08 19:23 [financialjuice] UK Government: To lay legislation which will tackle Iranian nuclear activity and other hostile Iranian activity.
+- 09/08 19:23 [financialjuice] UK Government: The legislation will further expand our powers to sanction ships.
+- 09/08 19:27 [FirstSquawk] BOSTON SCIENTIFIC UNLIKELY TO MEET FORECASTS AFTER CYBER ATTACK
+- 09/08 19:27 [FirstSquawk] UK GOVERNMENT: GENERAL LICENCE WILL ENABLE CONTINUED OPERATION OF THE SHAH DENIZ GAS FIELD IN AZERBAIJAN
+- 09/08 19:27 [FirstSquawk] BOSTON SCIENTIFIC SEES MATERIAL IMPACT ON Q3, FULL YEAR || SEES RECOVERING SOME PORTION OF IMPACTED REV.
