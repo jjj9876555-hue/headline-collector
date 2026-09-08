@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 16:02 JST／対象: 09/08 10:02 〜 09/08 16:02 JST（時刻はすべて日本時間）
+生成: 2026-09-08 16:21 JST／対象: 09/08 10:21 〜 09/08 16:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 125 | 09/08 10:02 | 09/08 15:53 | 15分（15:24→15:39） |
-| financialjuice | 84 | 09/08 10:10 | 09/08 15:45 | 40分（10:44→11:24） |
+| FirstSquawk | 121 | 09/08 10:28 | 09/08 16:20 | 22分（15:53→16:15） |
+| financialjuice | 81 | 09/08 10:30 | 09/08 15:45 | 40分（10:44→11:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 209 行（統合前 209 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 202 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 10:02 [FirstSquawk] 30-year Japanese government bond yield drops 4.0 bps to 3.980%
-- 09/08 10:07 [FirstSquawk] Japan sends fighter jets to intercept Chinese spy aircraft over East China Sea
-- 09/08 10:10 [financialjuice] S. Korea Defence Minister Ahn: North Korea strengthening DMZ beyond precedent, dialogue needed to resolve issue
-- 09/08 10:11 [FirstSquawk] S. Korea defence minister Ahn: North Korea strengthening DMZ fortifications to unprecedented levels, dialogue needed
-- 09/08 10:11 [FirstSquawk] Japan upgrades Q2 GDP on slight capex improvement - NA
-- 09/08 10:13 [financialjuice] Russia strikes Kyiv with ballistic missiles: mayor
-- 09/08 10:14 [FirstSquawk] Kyiv hit by Russian ballistic missile attack, mayor says
-- 09/08 10:16 [FirstSquawk] China’s PBOC fixes yuan mid-point at 6.7804 per dollar
-- 09/08 10:16 [FirstSquawk] Indonesia’s Mount Anak Krakatau records three eruptions on Tuesday — monitoring agency
-- 09/08 10:20 [financialjuice] China pumps 1 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/08 10:21 [FirstSquawk] 20-year Japanese government bond yield drops 4.0 bps to 3.705%
 - 09/08 10:28 [FirstSquawk] Yen Strengthens Further; Sentiment Toward Currency Has ‘Materially’ Shifted - WSJ
 - 09/08 10:28 [FirstSquawk] JGB Futures Rise as Yen’s Strength Seen Easing Inflationary Pressures - WSJ
 - 09/08 10:30 [financialjuice] Australia Aug business confidence index declines to -8 from -7 in July: NAB
@@ -233,3 +222,7 @@
 - 09/08 15:46 [FirstSquawk] FRANE (JUL) CURRENT ACOUNT BALANCE ACTUAL: -4.7B VS -1.4B PREVIOUS
 - 09/08 15:46 [FirstSquawk] FRANE (JUL) TRADE BALANCE ACTUAL: -6669M VS -5847M PREVIOUS
 - 09/08 15:53 [FirstSquawk] Polish Air Force ends response operations over Russian strikes on Ukraine; no airspace violations detected, Polish Army says
+- 09/08 16:15 [FirstSquawk] NOVARTIS SHARES FALL 10% AFTER THIRD TRIAL SETBACK IN A WEEK
+- 09/08 16:17 [FirstSquawk] Audi CEO: VW Weighs Selling Ducati Motorcycle Unit In Broad Review
+- 09/08 16:20 [FirstSquawk] BRITISH DIPLOMATS HAVE PRIVATELY ASSURED THE US THAT NEW SANCTIONS ON ISRAELI SETTLEMENTS ARE LARGELY SYMBOLIC AND WILL NOT MATERIALLY AFFECT UK-ISRAEL TRADE OR SECURITY TIES.
+- 09/08 16:20 [FirstSquawk] UK URGED TO OVERHAUL MILITARY PROCUREMENT TO REMOVE CHINA-MADE PARTS "WE MUST NOT ALLOW A HOSTILE FOREIGN POLITICAL PARTY THE 'KILL SWITCH' OVER OUR CRITICAL NATIONAL INFRASTRUCTURE NOR OUR DEFENSIVE CAPABILITIES," SAID A CONSERVATIVE POLIT…

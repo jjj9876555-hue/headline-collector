@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 16:02 JST／対象: 09/07 16:02 〜 09/08 16:02 JST（時刻はすべて日本時間）
+生成: 2026-09-08 16:21 JST／対象: 09/07 16:21 〜 09/08 16:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 298 | 09/07 16:17 | 09/08 15:53 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 173 | 09/07 16:02 | 09/08 15:45 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 298 | 09/07 16:22 | 09/08 16:20 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 172 | 09/07 17:18 | 09/08 15:45 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 473 行（統合前 481 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 472 行（統合前 480 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 16:02 [financialjuice] Iran Foreign Ministry Spokesperson on X: South Korea participation in Gulf, Hormuz operations would have serious consequences.
-- 09/07 16:17 [FirstSquawk] Oil is approaching $100 after the US and Iran traded strikes on each other's tankers over the weekend.
-- 09/07 16:17 [FirstSquawk] US sank one Iranian tanker and disabled two others, including one near Iran's main export terminal.
-- 09/07 16:18 [FirstSquawk] US CENTCOM said: If you shoot at two of our ships, we will impose an even higher economic cost — taking out three of yours.
-- 09/07 16:19 [FirstSquawk] IRAN WARNED SOUTH KOREA ON MONDAY AGAINST DEPLOYING FORCES OR PARTICIPATING IN MILITARY OPERATIONS IN THE PERSIAN GULF AND THE STRAIT OF HORMUZ, SAYING SUCH INVOLVEMENT WOULD BE VIEWED AS DIRECT SUPPORT FOR THE UNITED STATES AND COULD HAVE …
 - 09/07 16:22 [FirstSquawk] UAE PRESIDENTIAL ADVISER GARGASH: DEALING WITH IRAN REMAINS A CENTRAL ISSUE FOR UAE AND OTHER GULF COUNTRIES
 - 09/07 16:22 [FirstSquawk] UAE PRESIDENTIAL ADVISER GARGASH: OUR ENERGY EXPORTS WILL NOT BE HELD HOSTAGE
 - 09/07 16:23 [FirstSquawk] CHINA'S COMMERCE MINISTRY: TO COLLECT SECURITY DEPOSIT ON JAPANESE DICHLOROSILANE IMPORTS FROM SEP 8 - STATEMENT
@@ -497,3 +492,7 @@
 - 09/08 15:46 [FirstSquawk] FRANE (JUL) CURRENT ACOUNT BALANCE ACTUAL: -4.7B VS -1.4B PREVIOUS
 - 09/08 15:46 [FirstSquawk] FRANE (JUL) TRADE BALANCE ACTUAL: -6669M VS -5847M PREVIOUS
 - 09/08 15:53 [FirstSquawk] Polish Air Force ends response operations over Russian strikes on Ukraine; no airspace violations detected, Polish Army says
+- 09/08 16:15 [FirstSquawk] NOVARTIS SHARES FALL 10% AFTER THIRD TRIAL SETBACK IN A WEEK
+- 09/08 16:17 [FirstSquawk] Audi CEO: VW Weighs Selling Ducati Motorcycle Unit In Broad Review
+- 09/08 16:20 [FirstSquawk] BRITISH DIPLOMATS HAVE PRIVATELY ASSURED THE US THAT NEW SANCTIONS ON ISRAELI SETTLEMENTS ARE LARGELY SYMBOLIC AND WILL NOT MATERIALLY AFFECT UK-ISRAEL TRADE OR SECURITY TIES.
+- 09/08 16:20 [FirstSquawk] UK URGED TO OVERHAUL MILITARY PROCUREMENT TO REMOVE CHINA-MADE PARTS "WE MUST NOT ALLOW A HOSTILE FOREIGN POLITICAL PARTY THE 'KILL SWITCH' OVER OUR CRITICAL NATIONAL INFRASTRUCTURE NOR OUR DEFENSIVE CAPABILITIES," SAID A CONSERVATIVE POLIT…
