@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 22:02 JST／対象: 09/08 16:02 〜 09/08 22:02 JST（時刻はすべて日本時間）
+生成: 2026-09-08 22:23 JST／対象: 09/08 16:23 〜 09/08 22:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 77 | 09/08 16:15 | 09/08 21:59 | 20分（16:48→17:09） |
-| financialjuice | 41 | 09/08 16:42 | 09/08 22:02 | 40分（16:42→17:22） |
+| DeItaone | 3 | 09/08 17:32 | 09/08 22:09 | ⚠ 273分（17:32→22:06） |
+| FirstSquawk | 78 | 09/08 16:24 | 09/08 22:11 | 20分（16:48→17:09） |
+| financialjuice | 47 | 09/08 16:42 | 09/08 22:15 | 40分（16:42→17:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 118 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 126 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 16:15 [FirstSquawk] NOVARTIS SHARES FALL 10% AFTER THIRD TRIAL SETBACK IN A WEEK
-- 09/08 16:17 [FirstSquawk] Audi CEO: VW Weighs Selling Ducati Motorcycle Unit In Broad Review
-- 09/08 16:20 [FirstSquawk] BRITISH DIPLOMATS HAVE PRIVATELY ASSURED THE US THAT NEW SANCTIONS ON ISRAELI SETTLEMENTS ARE LARGELY SYMBOLIC AND WILL NOT MATERIALLY AFFECT UK-ISRAEL TRADE OR SECURITY TIES.
-- 09/08 16:20 [FirstSquawk] UK URGED TO OVERHAUL MILITARY PROCUREMENT TO REMOVE CHINA-MADE PARTS "WE MUST NOT ALLOW A HOSTILE FOREIGN POLITICAL PARTY THE 'KILL SWITCH' OVER OUR CRITICAL NATIONAL INFRASTRUCTURE NOR OUR DEFENSIVE CAPABILITIES," SAID A CONSERVATIVE POLIT…
 - 09/08 16:24 [FirstSquawk] KUWAIT IS SHIPPING AROUND ONE MILLION BARRELS OF CRUDE DAILY, INCLUDING VIA SHIP-TO-SHIP TRANSFERS NEAR THE STRAIT OF HORMUZ.
 - 09/08 16:26 [FirstSquawk] EUROPE FACES THE HIGHEST NATURAL GAS PRICES IN THREE YEARS, LEADING STOCK MARKET EXPERTS TO IDENTIFY POTENTIAL WINNERS AND LOSERS AS WINTER APPROACHES.
 - 09/08 16:36 [FirstSquawk] QATAR, KUWAIT AND BAHRAIN CONDEMNED THE IRAN-BACKED HOUTHI ATTACKS ON CIVILIAN AND ECONOMIC SITES IN SOUTHERN SAUDI ARABIA AND EXPRESSED SOLIDARITY WITH THE COUNTRY.
@@ -142,3 +138,15 @@
 - 09/08 22:01 [financialjuice] ECB settled €216.7 bln corporate bond purchases.
 - 09/08 22:01 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
 - 09/08 22:02 [financialjuice] Germany's Wadephul: The growing China trade deficit is alarming.
+- 09/08 22:02 [FirstSquawk] QUALCOMM, AMAZON PACT TO BUILD AI DATA CENTER INFRASTRUCTURE
+- 09/08 22:03 [financialjuice] Qualcomm issues a warrant to Amazon for up to 25M shares, the warrant priced at $161.26/share, expires 2036. $AMZN $QCOM
+- 09/08 22:04 [FirstSquawk] QUALCOMM TO ISSUE WARRANT TO AMAZON FOR UP TO 25 MILLION SHARES
+- 09/08 22:06 [DeItaone] IRAN'S STATE MEDIA CITING ARMY SAYS U.S. DRONE DOWNED OVER BANDAR ABBAS; NO U.S. CONFIRMATION
+- 09/08 22:06 [financialjuice/FirstSquawk] Iran's State Media citing Army: US drone downed over Bandar Abbas. No US confirmation.
+- 09/08 22:07 [financialjuice] Bank of England Governor Andrew Bailey F& MPC members Speak at the UK Treasury Committee - WATCH LIVE
+- 09/08 22:08 [financialjuice] Qualcomm: 3.75m shares of warrant to vest upon issuance. $QCOM
+- 09/08 22:09 [DeItaone] ATHA ENERGY CONTINUES STREAK AT ANGILAK URANIUM PROJECT, INTERSECTING URANIUM IN 7 FOR 7 HOLES AT RIB NORTH: PRELIMINARY RESULTS
+- 09/08 22:09 [FirstSquawk] PARAMOUNT SKYDANCE EXTENDS TENDER, EXCHANGE OFFERS TO SEPT. 18
+- 09/08 22:09 [financialjuice] Bank of America: If Middle East skirmishes continue into year end, brent could trade in a $95-120/bbl range.
+- 09/08 22:11 [FirstSquawk] IRANIAN AIR DEFENSE FORCES IDENTIFIED AND TARGETED A US DRONE OVER THE STRAIT OF HORMUZ, THE IRGC-AFFILIATED FARS NEWS AGENCY REPORTED ON TUESDAY. FARS SAID THE OPERATION WAS CARRIED OUT BY AIR DEFENSE UNITS OF IRAN'S REGULAR MILITARY IN TH…
+- 09/08 22:15 [financialjuice] German Economy Ministry: German gas storage levels in range of 60-70% at the start of winter, with import options sufficient to meet expected winter demand - Document.

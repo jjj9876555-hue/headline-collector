@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 22:02 JST／対象: 09/07 22:02 〜 09/08 22:02 JST（時刻はすべて日本時間）
+生成: 2026-09-08 22:23 JST／対象: 09/07 22:23 〜 09/08 22:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/08 00:17 | 09/08 17:32 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 288 | 09/07 22:05 | 09/08 21:59 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 186 | 09/07 22:45 | 09/08 22:02 | ⚠ 170分（04:54→07:45） |
+| DeItaone | 12 | 09/08 00:17 | 09/08 22:09 | ⚠ 649分（06:42→17:32） |
+| FirstSquawk | 290 | 09/07 22:26 | 09/08 22:11 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 192 | 09/07 22:45 | 09/08 22:15 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 482 行（統合前 485 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 491 行（統合前 495 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 22:05 [FirstSquawk] UKRAINE'S EX-DEFENSE MINISTER HINTS AT MOBILIZING WOMEN 'WHO CAN OPERATE A DRONE BETTER? I'LL TELL YOU: PHYSIOLOGICALLY, WOMEN HAVE BETTER REACTION' — ALEXEY REZNIKOV
-- 09/07 22:06 [FirstSquawk] SWEDEN ‌TO BUY APPROX 10 HIMARS ARTILLERY ROCKET SYSTEMS FROM LOCKHEED MARTIN, FOR AROUND $728.8 MILLION WITH FIRST DELIVERIES SET FOR 2027
-- 09/07 22:09 [FirstSquawk] GERMANY’S CHANCELLOR MERZ: HOW WILL A POSSIBLE AFD-LED STATE GOVERNMENT DEAL WITH MINORITIES IN SAXONY-ANHALT? AND IF BOUNDARIES ARE CROSSED THERE, I CAN TELL YOU THAT, FROM THE FEDERAL GOVERNMENT’S POINT OF VIEW, WE WILL DO EVERYTHING TO C…
 - 09/07 22:26 [FirstSquawk] TRAFFIC DIVERGES ACROSS CHOKEPOINTS: MARITIME TRAFFIC TRENDS DIVERGED SHARPLY ACROSS THE STRAIT OF HORMUZ AND BAB EL-MANDEB. HORMUZ CROSSINGS FELL 28% TO 77, WITH LADEN VOYAGES DECLINING FROM 45 TO 33. SANCTIONED AND SHADOW FLEET CROSSINGS …
 - 09/07 22:26 [FirstSquawk] BAB EL-MANDEB MOVED IN THE OPPOSITE DIRECTION. CROSSINGS RECOVERED 9.7% TO 248 AND LADEN TRAFFIC ROSE FROM 103 TO 109. DARK TRANSITS HELD NEAR 23 AND TSS ADHERENCE REMAINED AROUND 91%. THE DATA POINTS TO GROWING PRESSURE ON GULF SHIPPING, W…
 - 09/07 22:26 [FirstSquawk] IRAQ STRUGGLES TO SELL OIL FROM BASRA AFTER HIKING ITS PRICES - BBG
@@ -506,3 +503,15 @@
 - 09/08 22:01 [financialjuice] ECB settled €216.7 bln corporate bond purchases.
 - 09/08 22:01 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
 - 09/08 22:02 [financialjuice] Germany's Wadephul: The growing China trade deficit is alarming.
+- 09/08 22:02 [FirstSquawk] QUALCOMM, AMAZON PACT TO BUILD AI DATA CENTER INFRASTRUCTURE
+- 09/08 22:03 [financialjuice] Qualcomm issues a warrant to Amazon for up to 25M shares, the warrant priced at $161.26/share, expires 2036. $AMZN $QCOM
+- 09/08 22:04 [FirstSquawk] QUALCOMM TO ISSUE WARRANT TO AMAZON FOR UP TO 25 MILLION SHARES
+- 09/08 22:06 [DeItaone] IRAN'S STATE MEDIA CITING ARMY SAYS U.S. DRONE DOWNED OVER BANDAR ABBAS; NO U.S. CONFIRMATION
+- 09/08 22:06 [financialjuice/FirstSquawk] Iran's State Media citing Army: US drone downed over Bandar Abbas. No US confirmation.
+- 09/08 22:07 [financialjuice] Bank of England Governor Andrew Bailey F& MPC members Speak at the UK Treasury Committee - WATCH LIVE
+- 09/08 22:08 [financialjuice] Qualcomm: 3.75m shares of warrant to vest upon issuance. $QCOM
+- 09/08 22:09 [DeItaone] ATHA ENERGY CONTINUES STREAK AT ANGILAK URANIUM PROJECT, INTERSECTING URANIUM IN 7 FOR 7 HOLES AT RIB NORTH: PRELIMINARY RESULTS
+- 09/08 22:09 [FirstSquawk] PARAMOUNT SKYDANCE EXTENDS TENDER, EXCHANGE OFFERS TO SEPT. 18
+- 09/08 22:09 [financialjuice] Bank of America: If Middle East skirmishes continue into year end, brent could trade in a $95-120/bbl range.
+- 09/08 22:11 [FirstSquawk] IRANIAN AIR DEFENSE FORCES IDENTIFIED AND TARGETED A US DRONE OVER THE STRAIT OF HORMUZ, THE IRGC-AFFILIATED FARS NEWS AGENCY REPORTED ON TUESDAY. FARS SAID THE OPERATION WAS CARRIED OUT BY AIR DEFENSE UNITS OF IRAN'S REGULAR MILITARY IN TH…
+- 09/08 22:15 [financialjuice] German Economy Ministry: German gas storage levels in range of 60-70% at the start of winter, with import options sufficient to meet expected winter demand - Document.
