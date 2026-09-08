@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 14:44 JST／対象: 09/08 08:44 〜 09/08 14:44 JST（時刻はすべて日本時間）
+生成: 2026-09-08 14:58 JST／対象: 09/08 08:58 〜 09/08 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 145 | 09/08 08:57 | 09/08 14:39 | 14分（14:13→14:27） |
-| financialjuice | 94 | 09/08 08:50 | 09/08 14:23 | 40分（10:44→11:24） |
+| FirstSquawk | 144 | 09/08 09:02 | 09/08 14:55 | 14分（14:13→14:27） |
+| financialjuice | 81 | 09/08 09:20 | 09/08 14:23 | 40分（10:44→11:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 239 行（統合前 239 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 225 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 08:50 [financialjuice] ❗ JAPANESE CURRENT ACCOUNT NSA YEN ACTUAL 2988.9B (FORECAST 2849.5B, PREVIOUS -92.3B) $MACRO
-- 09/08 08:50 [financialjuice] ‼ BREAKING: JAPANESE GDP REV QOQ ANNUALISED ACTUAL 1.4% (FORECAST 1.8%, PREVIOUS 1.1%) $MACRO
-- 09/08 08:50 [financialjuice] Japan July unadjusted current account surplus 2,988.9 billion yen, Ministry of Finance poll was 2,869.8 billion yen
-- 09/08 08:50 [financialjuice] Japan q2 revised real gdp annualized rises 1.4% (preliminary 1.1%, poll 1.6%)
-- 09/08 08:50 [financialjuice] ❗ JAPANESE GDP REVISED QOQ ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.3%) $MACRO
-- 09/08 08:50 [financialjuice] Japan Q2 revised real GDP rises 0.4% quarter on quarter (prelim 0.3%, poll 0.4%)
-- 09/08 08:50 [financialjuice] Japan Q2 revised capex down 0.9% quarter on quarter (prelim -1.2%, poll -0.8%)
-- 09/08 08:50 [financialjuice] JAPANESE GDP DEFLATOR FINAL YOY ACTUAL 2.6% (FORECAST 2.6%, PREVIOUS 2.6%) $MACRO
-- 09/08 08:51 [financialjuice] Japan Q2 revised private consumption unchanged quarter on quarter (prelim 0.0%)
-- 09/08 08:51 [financialjuice] Japan Q2 revised external demand contribution to GDP 0.5 percentage point (prelim 0.5 percentage point)
-- 09/08 08:51 [financialjuice] Japan Aug outstanding bank loans rise 5.4% yr/yr: BoJ
-- 09/08 08:51 [financialjuice] JAPANESE BANK LENDING YOY ACTUAL 5.4% (FORECAST -, PREVIOUS 5.4%) $MACRO
-- 09/08 08:51 [financialjuice] Japan Q2 revised domestic demand contribution -0.1 percentage point, prelim -0.2 percentage point
-- 09/08 08:57 [FirstSquawk] JAPAN'S FINAL Q2 GDP ROSE AN ANNUALISED 1.4%, UP FROM THE PRELIMINARY 1.1% BUT BELOW THE 1.8% ESTIMATE, WITH QUARTERLY GDP UP 0.4% IN LINE WITH THE ESTIMATE AND THE DEFLATOR UP 2.6% YEAR-ON-YEAR.
-- 09/08 08:57 [FirstSquawk] JAPAN'S FINAL Q2 PRIVATE CONSUMPTION WAS FLAT AT 0.0% WHILE BUSINESS SPENDING FELL 0.9% — A SMALLER DROP THAN THE PRELIMINARY 1.2% DECLINE — WITH NET EXPORTS CONTRIBUTING 0.5 PERCENTAGE POINT TO GDP.
-- 09/08 08:57 [FirstSquawk] JAPAN'S JULY CURRENT ACCOUNT SURPLUS CAME IN AT ¥2,988.9 BLN, ABOVE THE ¥2,849.5 BLN ESTIMATE, WITH THE ADJUSTED CURRENT ACCOUNT AT ¥2,523.1 BLN, WHILE THE TRADE BALANCE ON A BOP BASIS SHOWED A DEFICIT OF ¥399.9 BLN
-- 09/08 08:57 [FirstSquawk] JAPAN'S AUGUST BANK LENDING INCLUDING TRUSTS ROSE 5.4% YEAR-ON-YEAR, UNCHANGED FROM THE PRIOR MONTH, WITH LENDING EXCLUDING TRUSTS UP 5.8% VERSUS 5.9% PREVIOUSLY
-- 09/08 08:58 [FirstSquawk] ISRAELI FINANCE MINISTER BEZALEL SMOTRICH SAYS 'EXPEL THE BRITISH AMBASSADOR TONIGHT', DECLARING THAT ISRAEL 'WILL NOT BE A DOORMAT TRAMPLED BY AN ANTISEMITIC GOVERNMENT, IN A COUNTRY CONQUERED BY RADICAL ISLAM, TRYING TO SAVE ITSELF FROM E…
 - 09/08 09:02 [FirstSquawk] GOLD HOLDS NEAR $4,400 AS MIDDLE EAST TENSIONS SUPPORT SAFE-HAVEN DEMAND, WHILE FED RATE-HIKE BETS AND UPCOMING US CPI CAP THE UPSIDE. || SPOT GOLD TRADES AROUND $4,410 AS A WEAKER DOLLAR OFFSETS HIGHER OIL-DRIVEN INFLATION RISKS; MARKETS P…
 - 09/08 09:07 [FirstSquawk] AUSTRALIA'S S&P/ASX 200 INDEX DOWN 0.2% AT 8,995.30 POINTS IN EARLY TRADE
 - 09/08 09:12 [FirstSquawk] TAIWAN STOCK EXCHANGE TO HOLD EMERGENCY MEETING WITH 10+ MAJOR BROKERAGES ON CYBERSECURITY, MARKET RESILIENCE AND INVESTOR PROTECTION.
@@ -263,3 +245,7 @@
 - 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Attacks sparked fires at several sites, temporarily suspending some operations
 - 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Energy facilities and utilities in the kingdom’s southern region targeted Tuesday morning
 - 09/08 14:39 [FirstSquawk] MISTRAL RAISES RECORD €3BN AS EUROPE STRAINS TO KEEP PACE IN AI RACE-FT
+- 09/08 14:45 [FirstSquawk] CHINA’S TRADE SURPLUS WIDENS AS EXPORT GROWTH ACCELERATES-WSJ
+- 09/08 14:50 [FirstSquawk] Brent rises $1 to $98/bbl after Saudi Arabia says Houthis targeted energy facilities and utilities
+- 09/08 14:51 [FirstSquawk] Russia targets Ukraine with dozens of missiles and 166 drones in overnight attack, Air Force says
+- 09/08 14:55 [FirstSquawk] Morgan Stanley cuts BE Semiconductor target price to EUR 220 from EUR 260

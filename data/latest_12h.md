@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 14:44 JST／対象: 09/08 02:44 〜 09/08 14:44 JST（時刻はすべて日本時間）
+生成: 2026-09-08 14:58 JST／対象: 09/08 02:58 〜 09/08 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/08 02:44 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 157 | 09/08 02:51 | 09/08 14:39 | ⚠ 158分（05:58→08:36） |
+| DeItaone | 4 | 09/08 03:01 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
+| FirstSquawk | 158 | 09/08 02:59 | 09/08 14:55 | ⚠ 158分（05:58→08:36） |
 | financialjuice | 119 | 09/08 04:22 | 09/08 14:23 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 282 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 281 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 02:44 [DeItaone] TRUMP: NO MORE SELLING BOMBARDIER IN UNITED STATES
-- 09/08 02:46 [DeItaone] TRUMP CALLS FOR BAN ON BOMBARDIER SALES IN US President Trump called for Bombardier sales in the US to stop, accusing Canada of unfairly restricting American companies, including Gulfstream Aerospace. He argued that Bombardier depends heavi…
-- 09/08 02:51 [FirstSquawk] TRUMP SAYS 'NO MORE SELLING BOMBARDIER IN THE UNITED STATES', CLAIMING 'THEIR PRODUCTS AREN'T GOOD ENOUGH' AND THAT OVER 50% OF THE COMPANY'S REVENUE COMES FROM THE U.S., ACCUSING IT OF LIVING OFF 'AMERICAN BUYERS, AMERICAN COMPANIES, AMERI…
-- 09/08 02:51 [FirstSquawk] TRUMP SAYS 'THAT ERA IS OVER', DEMANDING THAT IF BOMBARDIER WANTS THE U.S. MARKET 'THEY MUST BUILD HERE, AND STOP TREATING AMERICA LIKE A PIGGYBANK', ADDING 'BUY AMERICAN. FLY ON AMERICAN AIRLINERS. ENJOY AMERICAN LIQUOR AND BEVERAGES. SAIL…
-- 09/08 02:53 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $97.31/BBL, UP $1.03, OR 1.1%
 - 09/08 02:59 [FirstSquawk] IAEA SAYS THE ZAPORIZHZHYA NUCLEAR POWER PLANT WAS RE-CONNECTED TO THE ELECTRICAL GRID TODAY FOLLOWING SUCCESSFUL POWER LINE REPAIRS
 - 09/08 03:01 [DeItaone] TRUMP WANTS TO RENAME NEW MEXICO “NEW AMERICA” President Trump has called for New Mexico to be renamed “New America,” sharing several altered maps on social media. New Mexico Governor Michelle Lujan Grisham rejected the idea, saying the sta…
 - 09/08 03:05 [DeItaone] FED RATE HIKE ODDS CLIMB AS TRUMP TURNS UP PRESSURE Markets are leaning toward a 25bps Fed rate hike in September, with Kalshi pricing the probability at 52%, versus 48% for no change. The shift comes as President Trump ramps up pressure on…
@@ -306,3 +301,7 @@
 - 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Attacks sparked fires at several sites, temporarily suspending some operations
 - 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Energy facilities and utilities in the kingdom’s southern region targeted Tuesday morning
 - 09/08 14:39 [FirstSquawk] MISTRAL RAISES RECORD €3BN AS EUROPE STRAINS TO KEEP PACE IN AI RACE-FT
+- 09/08 14:45 [FirstSquawk] CHINA’S TRADE SURPLUS WIDENS AS EXPORT GROWTH ACCELERATES-WSJ
+- 09/08 14:50 [FirstSquawk] Brent rises $1 to $98/bbl after Saudi Arabia says Houthis targeted energy facilities and utilities
+- 09/08 14:51 [FirstSquawk] Russia targets Ukraine with dozens of missiles and 166 drones in overnight attack, Air Force says
+- 09/08 14:55 [FirstSquawk] Morgan Stanley cuts BE Semiconductor target price to EUR 220 from EUR 260
