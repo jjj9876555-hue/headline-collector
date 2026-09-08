@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 13:52 JST／対象: 09/08 01:52 〜 09/08 13:52 JST（時刻はすべて日本時間）
+生成: 2026-09-08 14:06 JST／対象: 09/08 02:06 〜 09/08 14:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/08 02:28 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 149 | 09/08 01:59 | 09/08 13:52 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 115 | 09/08 01:59 | 09/08 13:43 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 150 | 09/08 02:51 | 09/08 14:03 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 119 | 09/08 02:40 | 09/08 14:04 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 271 行（統合前 271 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 276 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 01:59 [financialjuice] Ukraine’s President Zelenskiy: The US is exploring Russia-Ukraine winter de-escalation steps - Axios
-- 09/08 01:59 [FirstSquawk] UK PREMIER ANDY BURNHAM'S OFFICE SHARES DETAILS OF CALL WITH TRUMP.
-- 09/08 01:59 [FirstSquawk] BURNHAM EMPHASIZES UK BACKING FOR US-LED PEACE DISCUSSIONS ON UKRAINE.
-- 09/08 01:59 [FirstSquawk] UK REAFFIRMS DEDICATION TO MIDDLE EAST PEACE AND SUPPORTS HORMUZ REOPENING.
-- 09/08 02:00 [FirstSquawk] UKRAINE’S PRESIDENT ZELENSKIY: THE US IS EXPLORING RUSSIA-UKRAINE WINTER DE-ESCALATION STEPS - AXIOS || THE U.S. IS EXPLORING WHETHER UKRAINE AND RUSSIA COULD TAKE STEPS TO DE-ESCALATE THE WAR DURING THE WINTER WHILE RESTARTING NEGOTIATIONS…
 - 09/08 02:28 [DeItaone] IRAN’S OIL REVENUES COLLAPSE AS BLOCKADE TIGHTENS Iran’s oil income is rapidly shrinking as a US naval blockade restricts exports and offshore stockpiles fall. Iranian crude stored outside the Gulf has dropped from 90 million to 29 million …
 - 09/08 02:40 [financialjuice] Trump: No more selling Bombardier in the United States.
 - 09/08 02:41 [financialjuice] Trump on Canada: If they want our market, they must build here.
@@ -295,3 +290,13 @@
 - 09/08 13:43 [financialjuice] Censof Holdings Bhd: Century Software named Microsoft reseller for cloud, productivity and security solutions in Malaysia
 - 09/08 13:44 [FirstSquawk] Singapore PM says subsequent salary changes will depend on individual performance and responsibilities, with no further adjustment to reach S$1.8 mln
 - 09/08 13:52 [FirstSquawk] Japan's April-June economic growth revised up to 1.4% on narrower investment decline - KYODO
+- 09/08 13:57 [financialjuice] Russia hits targets in Ukraine's Kyiv, region and Chornomorsk port: Russian defence ministry
+- 09/08 13:57 [FirstSquawk] Russian strikes hit Kyiv, surrounding region and Chornomorsk port, Russian newswires quote Defence Ministry
+- 09/08 14:00 [financialjuice] JAPANESE ECONOMY WATCHERS POLL ACTUAL 46.4 (FORECAST 46.2, PREVIOUS 45.7) $MACRO
+- 09/08 14:01 [FirstSquawk] Novartis provides update on Phase III HARBOR trial evaluating del-desiran in DM1
+- 09/08 14:01 [financialjuice] UK govt: UK commits winter air defense package to strengthen Ukraine's defenses
+- 09/08 14:02 [FirstSquawk] UK pledges winter air defence package to bolster Ukraine’s air defences, government says
+- 09/08 14:02 [FirstSquawk] UK government to provide £100 mln for Ukraine air defence, including Patriot missiles
+- 09/08 14:02 [financialjuice] China auto industry body CPCA: China sold 1.55 million passenger cars in August, down 23.7% y/y
+- 09/08 14:03 [FirstSquawk] China’s passenger car sales drop 23.7% y/y to 1.55 mln in August, CPCA says
+- 09/08 14:04 [financialjuice] UK govt commits £100 mln to air defence package including Patriot missiles to boost Ukraine

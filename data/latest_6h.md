@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 13:52 JST／対象: 09/08 07:52 〜 09/08 13:52 JST（時刻はすべて日本時間）
+生成: 2026-09-08 14:06 JST／対象: 09/08 08:06 〜 09/08 14:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 134 | 09/08 08:36 | 09/08 13:52 | 20分（08:36→08:57） |
-| financialjuice | 106 | 09/08 08:00 | 09/08 13:43 | 40分（10:44→11:24） |
+| FirstSquawk | 139 | 09/08 08:36 | 09/08 14:03 | 20分（08:36→08:57） |
+| financialjuice | 97 | 09/08 08:29 | 09/08 14:04 | 40分（10:44→11:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 240 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 236 行（統合前 236 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 08:00 [financialjuice] S. KOREAN GDP YOY REVISED ACTUAL 3.7% (FORECAST 3.7%, PREVIOUS 3.7%) $MACRO
-- 09/08 08:00 [financialjuice] S. KOREAN GDP QOQ REVISED ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS 0.6%) $MACRO
-- 09/08 08:00 [financialjuice] S. Korea revised Q2 private consumption 0.4% q/q vs 0.4% estimated earlier: central bank
-- 09/08 08:00 [financialjuice] S.Korea revised Q2 GDP to 3.7% y/y vs 3.7% estimated earlier: central bank
-- 09/08 08:00 [financialjuice] S.Korea revises Q2 construction investment to -0.1% q/q from earlier -0.2%: central bank
-- 09/08 08:00 [financialjuice] S. Korea revises Q2 facilities investment to +0.2% q/q vs +0.2% estimated earlier:
-- 09/08 08:01 [financialjuice] Colombia inflation rose 0.39% last month: government statistics agency
-- 09/08 08:01 [financialjuice] S.Korea revised Q2 GDP growth 0.6% quarter on quarter vs 0.6% estimated earlier: central bank
-- 09/08 08:01 [financialjuice] Colombia's annual inflation reached 6.24% through last month: government statistics agency
-- 09/08 08:01 [financialjuice] UK BRC RETAIL SALES YOY ACTUAL 0.5% (FORECAST -, PREVIOUS 1.0%) $MACRO
-- 09/08 08:01 [financialjuice] Barclays: UK August consumer spending rises 2.1% year-on-year versus 2.0% in July
-- 09/08 08:01 [financialjuice] British Retail Consortium August total sales rise 0.7% year on year, slowest growth since April after July's 1.3% increase
-- 09/08 08:01 [financialjuice] Barclays uk consumer confidence 26% in august vs 21-month peak of 30% in july
-- 09/08 08:01 [financialjuice] British Retail Consortium August like-for-like sales rise 0.5% yy vs July 1.0% yy
 - 09/08 08:29 [financialjuice] Argentina to file criminal charges against Navitas Oil and executives for operating in Falkland Islands: statement
 - 09/08 08:30 [financialjuice] JAPANESE AVERAGE CASH EARNINGS YOY ACTUAL 4.7% (FORECAST 3.8%, PREVIOUS 3.4%4.0%) $MACRO
 - 09/08 08:30 [financialjuice] JAPANESE OVERTIME PAY ACTUAL 3.1% (FORECAST -, PREVIOUS 2.8% ,REVISION 3.4%) $MACRO
@@ -264,3 +250,13 @@
 - 09/08 13:43 [financialjuice] Censof Holdings Bhd: Century Software named Microsoft reseller for cloud, productivity and security solutions in Malaysia
 - 09/08 13:44 [FirstSquawk] Singapore PM says subsequent salary changes will depend on individual performance and responsibilities, with no further adjustment to reach S$1.8 mln
 - 09/08 13:52 [FirstSquawk] Japan's April-June economic growth revised up to 1.4% on narrower investment decline - KYODO
+- 09/08 13:57 [financialjuice] Russia hits targets in Ukraine's Kyiv, region and Chornomorsk port: Russian defence ministry
+- 09/08 13:57 [FirstSquawk] Russian strikes hit Kyiv, surrounding region and Chornomorsk port, Russian newswires quote Defence Ministry
+- 09/08 14:00 [financialjuice] JAPANESE ECONOMY WATCHERS POLL ACTUAL 46.4 (FORECAST 46.2, PREVIOUS 45.7) $MACRO
+- 09/08 14:01 [FirstSquawk] Novartis provides update on Phase III HARBOR trial evaluating del-desiran in DM1
+- 09/08 14:01 [financialjuice] UK govt: UK commits winter air defense package to strengthen Ukraine's defenses
+- 09/08 14:02 [FirstSquawk] UK pledges winter air defence package to bolster Ukraine’s air defences, government says
+- 09/08 14:02 [FirstSquawk] UK government to provide £100 mln for Ukraine air defence, including Patriot missiles
+- 09/08 14:02 [financialjuice] China auto industry body CPCA: China sold 1.55 million passenger cars in August, down 23.7% y/y
+- 09/08 14:03 [FirstSquawk] China’s passenger car sales drop 23.7% y/y to 1.55 mln in August, CPCA says
+- 09/08 14:04 [financialjuice] UK govt commits £100 mln to air defence package including Patriot missiles to boost Ukraine
