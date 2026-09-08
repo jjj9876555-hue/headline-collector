@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 18:00 JST／対象: 09/08 12:00 〜 09/08 18:00 JST（時刻はすべて日本時間）
+生成: 2026-09-08 18:20 JST／対象: 09/08 12:20 〜 09/08 18:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 97 | 09/08 12:12 | 09/08 17:56 | 22分（15:53→16:15） |
-| financialjuice | 44 | 09/08 12:23 | 09/08 17:55 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 98 | 09/08 12:23 | 09/08 18:16 | 22分（15:53→16:15） |
+| financialjuice | 48 | 09/08 12:23 | 09/08 18:16 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 142 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 147 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 12:12 [FirstSquawk] N. Korea, Russia open 1st cross-border road bridge amid deepening ties - YONHAP
-- 09/08 12:16 [FirstSquawk] Asian Stock Markets Mixed as Investors Look to U.S. CPI Data - WSJ
-- 09/08 12:16 [FirstSquawk] Indonesia agency says Anak Krakatau eruptions could still disrupt flights based on wind direction and ash altitude
-- 09/08 12:18 [FirstSquawk] Indonesia agency: Anak Krakatau eruptions on Tuesday were less intense than last week’s
-- 09/08 12:18 [FirstSquawk] Indonesia agency says Tuesday’s eruptions were less significant than earlier activity and will continue monitoring
 - 09/08 12:23 [financialjuice] Reserve Bank of Australia Assistant Governor Hunter: Housing market crucial transition channel for monetary policy
 - 09/08 12:23 [FirstSquawk] RBA Assistant Governor Hunter: Housing market is a crucial mechanism through which monetary policy affects the economy
 - 09/08 12:26 [financialjuice] RBA's Hunter: effect of house price changes on consumer spending actually quite small
@@ -166,3 +161,13 @@
 - 09/08 17:52 [FirstSquawk] RUSSIA PESKOV: PUTIN TO MEET INDIA MODI ON FRIDAY: TASS
 - 09/08 17:55 [financialjuice] Ukraine's Zelenskiy: Ukraine is ready to compromise on strikes on grain shipments, energy.
 - 09/08 17:56 [FirstSquawk] BRAZIL PRES ELECTION POLL: FLAVIO HAS 46%, LULA 45% IN 2ND ROUND – BTG PACTUAL/NEXUS
+- 09/08 18:00 [FirstSquawk] UK BEGINS TALKS TO REJOIN EU SECURITY MISSIONS
+- 09/08 18:01 [FirstSquawk] UKRAINE PRES ZELENSKIY: AGREED THAT US ENVOYS WILL VISIT AGAIN; WOULD LIKE THEM TO VISIT MORE OFTEN
+- 09/08 18:05 [FirstSquawk] KREMLIN SPOKESPERSON: COOPERATION ON RARE EARTH EXPLORATIONS IS BEING DISCUSSED BETWEEN INDIA AND RUSSIA
+- 09/08 18:07 [financialjuice] RBA's Hauser: Question is whether the RBA has done enough on rates.
+- 09/08 18:07 [financialjuice] RBA's Hauser: RBA stands ready to raise rates again if needed.
+- 09/08 18:13 [financialjuice] Iran's President Pezeshkian: Iran will continue its resistance with full strength until ‘aggressors' are regretful - X
+- 09/08 18:16 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN: IRAN WILL CONTINUE ITS RESISTANCE WITH FULL STRENGTH UNTIL 'AGGRESSORS' ARE REGRETFUL
+- 09/08 18:16 [FirstSquawk] GOLDMAN SACHS EXEC: OIL PRODUCT FLOWS OUT OF HORMUZ STRAIT AT 35% OF PRE-WAR LEVELS, VS 70% FOR CRUDE OIL
+- 09/08 18:16 [financialjuice] Saudi Arabia Foreign Minister tells Russia's Lavrov: Our cooperation in OPEC+ allows to balance oil supply and demand, we are interested in further partnership between our countries.
+- 09/08 18:16 [FirstSquawk] NHTSA- OPENS DEFECT PETITION INTO EST 499,603 FORD EDGE VEHICLES DUE TO COOLANT INTRUSION INTO THE ENGINE
