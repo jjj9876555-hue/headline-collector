@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 11:52 JST／対象: 09/07 23:52 〜 09/08 11:52 JST（時刻はすべて日本時間）
+生成: 2026-09-08 12:05 JST／対象: 09/08 00:05 〜 09/08 12:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 117 | 09/07 23:56 | 09/08 11:51 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 99 | 09/07 23:53 | 09/08 11:52 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 116 | 09/08 00:23 | 09/08 11:59 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 95 | 09/08 00:44 | 09/08 11:52 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 224 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 220 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 23:53 [financialjuice] UFORCE Funding $SPCX
-- 09/07 23:56 [financialjuice/FirstSquawk] Iran warns ships face strike risk near Oman's Khasab - Fars
-- 09/07 23:57 [financialjuice] UFORCE Funding $SPCX Defense startup UFORCE is in talks to raise $500M at a $5B valuation. SpaceX backer Valor is in discussions to lead the round.
-- 09/07 23:58 [FirstSquawk] VALOR, A SPACEX BACKER, IS IN TALKS TO LEAD A $500 MILLION FUNDING ROUND FOR UFORCE.
-- 09/08 00:01 [FirstSquawk] COPPER REACHES RECORD HIGH OF OVER $14,530 PER TON AT LME.
-- 09/08 00:02 [financialjuice] Copper surges to an all-time high above $14,530 a ton on the LME.
 - 09/08 00:17 [DeItaone] HUNTER BIDEN TO LAUNCH $LAPTOP MEME COIN, SOURCES SAY -- WSJ HUNTER BIDEN'S $LAPTOP MEME COIN TO LAUNCH SEPT. 9 ON COINBASE-AFFILIATED BLOCKCHAIN, SOURCES SAY -- WSJ HUNTER BIDEN, FOUNDERS OF $LAPTOP TO HOLD 30% OF 1B TOKENS ISSUED, SOURCES…
 - 09/08 00:23 [FirstSquawk] GERMAN BONDS CONTINUE TO FALL, WITH TWO-YEAR YIELD INCREASING BY 5 BASIS POINTS TO REACH 3%.
 - 09/08 00:33 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.12%; GERMANY'S DAX DOWN 0.25%
@@ -248,3 +242,5 @@
 - 09/08 11:50 [FirstSquawk] Singapore transport minister: Political actors should not seek to exploit racial divisions
 - 09/08 11:51 [FirstSquawk] Singapore transport minister says there is no basis for questioning SIA’s commercial decision-making
 - 09/08 11:52 [financialjuice] JP Morgan upgrades ADP to overweight from neutral rating
+- 09/08 11:58 [FirstSquawk] Seoul stocks open higher as AI optimism returns
+- 09/08 11:59 [FirstSquawk] Malaysia's Anwar targets cost-of-living woes after election setbacks - NA

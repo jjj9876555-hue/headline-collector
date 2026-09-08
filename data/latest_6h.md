@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 11:52 JST／対象: 09/08 05:52 〜 09/08 11:52 JST（時刻はすべて日本時間）
+生成: 2026-09-08 12:05 JST／対象: 09/08 06:05 〜 09/08 12:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 06:42 | 09/08 06:42 | - |
-| FirstSquawk | 90 | 09/08 05:57 | 09/08 11:51 | ⚠ 158分（05:58→08:36） |
+| FirstSquawk | 90 | 09/08 08:36 | 09/08 11:59 | 20分（08:36→08:57） |
 | financialjuice | 85 | 09/08 07:45 | 09/08 11:52 | 40分（10:44→11:24） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 05:57 [FirstSquawk] POSTE ITALIANE HAS INCREASED ITS CONSIDERATION FOR THE TENDER OFFER ON TELECOM ITALIA AND WAIVED THE THRESHOLD CONDITION, ADDING A €0.30 CASH COMPONENT PER TIM SHARE TO TAKE THE AGGREGATE CASH COMPONENT PER TIM SHARE TO €1.97, WITH A MAXIMU…
-- 09/08 05:58 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 7, CENTCOM FORCES HAVE REDIRECTED 94 COMMERCIAL VESSELS, DISABLED 3 AND BOARDED 2 TO ENSURE COMPLETE COMPLIANCE WITH THE U.S. BLOCKADE AGAINST IRAN, WITH AN E/A-18G AIRCRAFT LAUNCHING FROM THE FLIG…
 - 09/08 06:42 [DeItaone] IRAN ACCUSES CANADA OF BOWING TO U.S. PRESSURE Iranian Foreign Ministry spokesman Esmaeil Baghaei accused Canada of yielding to U.S. “intimidation” after Ottawa criticized Tehran over regional security and freedom of navigation. Baghaei sai…
 - 09/08 07:45 [financialjuice] NEW ZEALAND MANUFACTURING SALES ACTUAL 0.8% (FORECAST -, PREVIOUS 3.6%) $MACRO
 - 09/08 07:45 [financialjuice] New Zealand 2-year swap-adjusted manufacturing sales volumes rise 0.8% on previous quarter
@@ -200,3 +198,5 @@
 - 09/08 11:50 [FirstSquawk] Singapore transport minister: Political actors should not seek to exploit racial divisions
 - 09/08 11:51 [FirstSquawk] Singapore transport minister says there is no basis for questioning SIA’s commercial decision-making
 - 09/08 11:52 [financialjuice] JP Morgan upgrades ADP to overweight from neutral rating
+- 09/08 11:58 [FirstSquawk] Seoul stocks open higher as AI optimism returns
+- 09/08 11:59 [FirstSquawk] Malaysia's Anwar targets cost-of-living woes after election setbacks - NA

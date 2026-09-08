@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 11:52 JST／対象: 09/07 11:52 〜 09/08 11:52 JST（時刻はすべて日本時間）
+生成: 2026-09-08 12:05 JST／対象: 09/07 12:05 〜 09/08 12:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 285 | 09/07 11:58 | 09/08 11:51 | ⚠ 158分（05:58→08:36） |
+| FirstSquawk | 285 | 09/07 12:09 | 09/08 11:59 | ⚠ 158分（05:58→08:36） |
 | financialjuice | 140 | 09/07 14:05 | 09/08 11:52 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 11:58 [FirstSquawk] JPMorgan lifts Sinch price target to SEK 66 from SEK 45
-- 09/07 12:04 [FirstSquawk] Small-, Mid-Cap Japanese Stocks May Outperform - WSJ
 - 09/07 12:09 [FirstSquawk] South Korea’s economic recovery strengthens, supported by AI-led exports and investment
 - 09/07 12:11 [FirstSquawk] AUD/USD Price Forecast: Consolidates around 0.7200; bullish potential seems intact - FX
 - 09/07 12:16 [FirstSquawk] Tokyo's Shinjuku Ward to ban private lodgings in residential areas - KYODO
@@ -451,3 +449,5 @@
 - 09/08 11:50 [FirstSquawk] Singapore transport minister: Political actors should not seek to exploit racial divisions
 - 09/08 11:51 [FirstSquawk] Singapore transport minister says there is no basis for questioning SIA’s commercial decision-making
 - 09/08 11:52 [financialjuice] JP Morgan upgrades ADP to overweight from neutral rating
+- 09/08 11:58 [FirstSquawk] Seoul stocks open higher as AI optimism returns
+- 09/08 11:59 [FirstSquawk] Malaysia's Anwar targets cost-of-living woes after election setbacks - NA
