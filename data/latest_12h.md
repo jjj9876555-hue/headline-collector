@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 08:43 JST／対象: 09/08 20:43 〜 09/09 08:43 JST（時刻はすべて日本時間）
+生成: 2026-09-09 08:58 JST／対象: 09/08 20:58 〜 09/09 08:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 22:06 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 215 | 09/08 20:47 | 09/09 08:42 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 211 | 09/08 20:45 | 09/09 08:39 | 37分（06:28→07:05） |
+| FirstSquawk | 216 | 09/08 21:02 | 09/09 08:52 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 212 | 09/08 21:00 | 09/09 08:50 | 37分（06:28→07:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 425 行（統合前 437 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 427 行（統合前 439 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 20:45 [financialjuice] Russia’s Deputy PM Novak proposes pre-set fuel import volumes from Russia - IFX
-- 09/08 20:47 [FirstSquawk] ASTRAZENECA- TOZORAKIMAB SHOWS STATISTICALLY SIGNIFICANT,CLINICALLY MEANINGFUL REDUCTION IN COPD EXACERBATIONS IN OBERON, TITANIA PHASE III TRIALS || ASTRAZENECA- TOZORAKIMAB 300MG SHOWS REDUCTION IN MODERATE, SEVERE COPD EXACERBATIONS IN O…
-- 09/08 20:47 [FirstSquawk] ASTRAZENECA- TOZORAKIMAB 300MG SHOWS REDUCTION IN MODERATE, SEVERE COPD EXACERBATIONS IN OVERALL CURRENT, FORMER SMOKER POPULATION BY 29% IN TITANIA
-- 09/08 20:55 [FirstSquawk] INDONESIA TO TAKE CONTROL OF CHINA-FUNDED WHOOSH RAIL OPERATOR
 - 09/08 21:00 [financialjuice] Secured overnight financing rate 3.65% September 4th vs 3.66% September 3rd.
 - 09/08 21:02 [FirstSquawk] FRANCE CALLS FOR NEW EU TAXES TO RAISE €60B – POLITICO
 - 09/08 21:03 [financialjuice] Google Cloud to train up to 1,000 Accenture FDES - WSJ $GOOGL
@@ -449,3 +445,9 @@
 - 09/09 08:38 [financialjuice] Jordan: air defences intercepted and destroyed 18 of 20 Iranian missiles, two fell away from population centers
 - 09/09 08:39 [financialjuice] Jordan: no casualties reported after Iranian missile strike
 - 09/09 08:42 [FirstSquawk] JORDAN SAYS 20 BALLISTIC MISSILES WERE LAUNCHED FROM IRAN TOWARD ITS TERRITORY, WITH ITS AIR DEFENCES INTERCEPTING AND DESTROYING 18 OF THE 20 AND TWO FALLING IN AREAS AWAY FROM POPULATION CENTRES, ADDING THAT NO CASUALTIES WERE REPORTED
+- 09/09 08:48 [financialjuice] Anthropic researcher Jacob Coxon quits AI industry over concerns companies are rushing to develop uncontrollable self-improving systems - WSJ
+- 09/09 08:48 [FirstSquawk] JAPAN'S NIKKEI AVERAGE FUTURES SLIP 0.4% IN EARLY TRADE, WHILE BENCHMARK 10-YEAR JGB FUTURES EDGE DOWN 0.03 POINT
+- 09/09 08:48 [FirstSquawk] ANTHROPIC RESEARCHER JACOB COXON IS QUITTING THE AI INDUSTRY OVER FEARS THAT COMPANIES ARE RACING TO BUILD UNCONTROLLABLE, SELF-IMPROVING SYSTEMS - WSJ
+- 09/09 08:50 [financialjuice] Dollar/yen declines 0.35% to 153.485
+- 09/09 08:52 [FirstSquawk] ASIAN STOCKS FACE A CAUTIOUS OPEN AS STRONG US SEMICONDUCTOR PERFORMANCE OFFSETS BROADER WALL STREET WEAKNESS, WHILE ELEVATED VOLATILITY KEEPS INVESTORS ON EDGE.
+- 09/09 08:52 [FirstSquawk] BRENT CRUDE NEARING $100 A BARREL RAISES CONCERNS OVER INFLATION, CORPORATE MARGINS AND HIGHER INTEREST RATES, LIMITING THE UPSIDE FOR ASIAN EQUITIES.
