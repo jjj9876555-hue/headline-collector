@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 09:56 JST／対象: 09/07 21:56 〜 09/08 09:56 JST（時刻はすべて日本時間）
+生成: 2026-09-08 10:16 JST／対象: 09/07 22:16 〜 09/08 10:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 83 | 09/07 22:05 | 09/08 09:52 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 60 | 09/07 22:45 | 09/08 09:51 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 90 | 09/07 22:26 | 09/08 10:16 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 63 | 09/07 22:45 | 09/08 10:13 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 151 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 161 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 22:05 [FirstSquawk] UKRAINE'S EX-DEFENSE MINISTER HINTS AT MOBILIZING WOMEN 'WHO CAN OPERATE A DRONE BETTER? I'LL TELL YOU: PHYSIOLOGICALLY, WOMEN HAVE BETTER REACTION' — ALEXEY REZNIKOV
-- 09/07 22:06 [FirstSquawk] SWEDEN ‌TO BUY APPROX 10 HIMARS ARTILLERY ROCKET SYSTEMS FROM LOCKHEED MARTIN, FOR AROUND $728.8 MILLION WITH FIRST DELIVERIES SET FOR 2027
-- 09/07 22:09 [FirstSquawk] GERMANY’S CHANCELLOR MERZ: HOW WILL A POSSIBLE AFD-LED STATE GOVERNMENT DEAL WITH MINORITIES IN SAXONY-ANHALT? AND IF BOUNDARIES ARE CROSSED THERE, I CAN TELL YOU THAT, FROM THE FEDERAL GOVERNMENT’S POINT OF VIEW, WE WILL DO EVERYTHING TO C…
 - 09/07 22:26 [FirstSquawk] TRAFFIC DIVERGES ACROSS CHOKEPOINTS: MARITIME TRAFFIC TRENDS DIVERGED SHARPLY ACROSS THE STRAIT OF HORMUZ AND BAB EL-MANDEB. HORMUZ CROSSINGS FELL 28% TO 77, WITH LADEN VOYAGES DECLINING FROM 45 TO 33. SANCTIONED AND SHADOW FLEET CROSSINGS …
 - 09/07 22:26 [FirstSquawk] BAB EL-MANDEB MOVED IN THE OPPOSITE DIRECTION. CROSSINGS RECOVERED 9.7% TO 248 AND LADEN TRAFFIC ROSE FROM 103 TO 109. DARK TRANSITS HELD NEAR 23 AND TSS ADHERENCE REMAINED AROUND 91%. THE DATA POINTS TO GROWING PRESSURE ON GULF SHIPPING, W…
 - 09/07 22:26 [FirstSquawk] IRAQ STRUGGLES TO SELL OIL FROM BASRA AFTER HIKING ITS PRICES - BBG
@@ -175,3 +172,16 @@
 - 09/08 09:48 [FirstSquawk] 10-year Japanese government bond yield drops 2.5 bps to 2.905%
 - 09/08 09:51 [financialjuice] Two residential buildings damaged in Ukraine's Kyiv in Russian air strike: city officials
 - 09/08 09:52 [FirstSquawk] Russian strike damages two residential buildings in Ukraine’s Kyiv, officials say
+- 09/08 09:58 [FirstSquawk] Euro holds gains above 1.1600 on ECB tightening prospects - fx
+- 09/08 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805%, unchanged from previous session
+- 09/08 10:01 [FirstSquawk] Taiwan overnight interbank rate holds at 0.805% at session open
+- 09/08 10:01 [FirstSquawk] 5-year Japanese government bond yield drops 2.0 bps to 2.230%
+- 09/08 10:02 [FirstSquawk] 30-year Japanese government bond yield drops 4.0 bps to 3.980%
+- 09/08 10:07 [FirstSquawk] Japan sends fighter jets to intercept Chinese spy aircraft over East China Sea
+- 09/08 10:10 [financialjuice] S. Korea Defence Minister Ahn: North Korea strengthening DMZ beyond precedent, dialogue needed to resolve issue
+- 09/08 10:11 [FirstSquawk] S. Korea defence minister Ahn: North Korea strengthening DMZ fortifications to unprecedented levels, dialogue needed
+- 09/08 10:11 [FirstSquawk] Japan upgrades Q2 GDP on slight capex improvement - NA
+- 09/08 10:13 [financialjuice] Russia strikes Kyiv with ballistic missiles: mayor
+- 09/08 10:14 [FirstSquawk] Kyiv hit by Russian ballistic missile attack, mayor says
+- 09/08 10:16 [FirstSquawk] China’s PBOC fixes yuan mid-point at 6.7804 per dollar
+- 09/08 10:16 [FirstSquawk] Indonesia’s Mount Anak Krakatau records three eruptions on Tuesday — monitoring agency

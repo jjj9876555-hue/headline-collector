@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 09:56 JST／対象: 09/07 09:56 〜 09/08 09:56 JST（時刻はすべて日本時間）
+生成: 2026-09-08 10:16 JST／対象: 09/07 10:16 〜 09/08 10:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 271 | 09/07 10:00 | 09/08 09:52 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 101 | 09/07 10:02 | 09/08 09:51 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 273 | 09/07 10:17 | 09/08 10:16 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 103 | 09/07 10:19 | 09/08 10:13 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 374 行（統合前 384 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 378 行（統合前 388 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 10:00 [FirstSquawk] OPEC+ decides to pause oil output increases in October
-- 09/07 10:01 [FirstSquawk] Taiwan overnight interbank rate holds steady at 0.805% at the open
-- 09/07 10:02 [financialjuice] S.Korea’s won climbs 1% against dollar
-- 09/07 10:03 [FirstSquawk] Korean won strengthens 1% against the US dollar
-- 09/07 10:09 [FirstSquawk] Saudi Foreign Minister Prince Faisal bin Farhan and UK Foreign Secretary Ed Miliband called for intensified diplomatic efforts to de-escalate Middle East tensions and protect international waterways during a phone call, according to the Sau…
-- 09/07 10:10 [FirstSquawk] Philippine peso slides to a record-low 62.719 per US dollar
-- 09/07 10:15 [FirstSquawk] China’s central bank sets yuan midpoint at 6.7795 per dollar
-- 09/07 10:16 [FirstSquawk] Philippines defence secretary: No near-term decision expected on submarine program
-- 09/07 10:16 [FirstSquawk] Philippines defence secretary: China leverages democratic freedoms to promote ‘distortive narratives’
 - 09/07 10:17 [FirstSquawk] Philippines defence secretary: China energy cooperation remains closely linked to maritime disputes
 - 09/07 10:17 [FirstSquawk] Philippines defence secretary: Washington gives ‘definite assurances’ that its commitments to Manila remain unchanged
 - 09/07 10:17 [FirstSquawk] Philippines defence secretary: China may take advantage of perceived gaps from reduced US-South Korea exercises
@@ -398,3 +389,16 @@
 - 09/08 09:48 [FirstSquawk] 10-year Japanese government bond yield drops 2.5 bps to 2.905%
 - 09/08 09:51 [financialjuice] Two residential buildings damaged in Ukraine's Kyiv in Russian air strike: city officials
 - 09/08 09:52 [FirstSquawk] Russian strike damages two residential buildings in Ukraine’s Kyiv, officials say
+- 09/08 09:58 [FirstSquawk] Euro holds gains above 1.1600 on ECB tightening prospects - fx
+- 09/08 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805%, unchanged from previous session
+- 09/08 10:01 [FirstSquawk] Taiwan overnight interbank rate holds at 0.805% at session open
+- 09/08 10:01 [FirstSquawk] 5-year Japanese government bond yield drops 2.0 bps to 2.230%
+- 09/08 10:02 [FirstSquawk] 30-year Japanese government bond yield drops 4.0 bps to 3.980%
+- 09/08 10:07 [FirstSquawk] Japan sends fighter jets to intercept Chinese spy aircraft over East China Sea
+- 09/08 10:10 [financialjuice] S. Korea Defence Minister Ahn: North Korea strengthening DMZ beyond precedent, dialogue needed to resolve issue
+- 09/08 10:11 [FirstSquawk] S. Korea defence minister Ahn: North Korea strengthening DMZ fortifications to unprecedented levels, dialogue needed
+- 09/08 10:11 [FirstSquawk] Japan upgrades Q2 GDP on slight capex improvement - NA
+- 09/08 10:13 [financialjuice] Russia strikes Kyiv with ballistic missiles: mayor
+- 09/08 10:14 [FirstSquawk] Kyiv hit by Russian ballistic missile attack, mayor says
+- 09/08 10:16 [FirstSquawk] China’s PBOC fixes yuan mid-point at 6.7804 per dollar
+- 09/08 10:16 [FirstSquawk] Indonesia’s Mount Anak Krakatau records three eruptions on Tuesday — monitoring agency
