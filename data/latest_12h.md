@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 13:18 JST／対象: 09/08 01:18 〜 09/08 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-08 13:35 JST／対象: 09/08 01:35 〜 09/08 13:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/08 02:28 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 141 | 09/08 01:24 | 09/08 13:15 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 112 | 09/08 01:31 | 09/08 13:02 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 142 | 09/08 01:37 | 09/08 13:34 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 114 | 09/08 01:59 | 09/08 13:30 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 260 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 263 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 01:24 [FirstSquawk] CUBA'S FOREIGN MINISTER BRUNO RODRIGUEZ STATES THAT THERE HAS BEEN NO ADVANCEMENT OR TALKS WITH THE UNITED STATES REGARDING FUTURE DISCUSSIONS.
-- 09/08 01:31 [financialjuice] The White House: Trump will never stop fighting for Made in America.
 - 09/08 01:37 [FirstSquawk] EUROPE'S LEADING AIRLINES DISCUSS PARTNERSHIP FOR SATELLITE-TO-MOBILE PROJECT.
 - 09/08 01:37 [FirstSquawk] DEUTSCHE TELEKOM, ORANGE, VODAFONE, AND TELEFONICA DISCUSS PARTNERSHIP OPTIONS.
 - 09/08 01:59 [financialjuice] Ukraine’s President Zelenskiy: The US is exploring Russia-Ukraine winter de-escalation steps - Axios
@@ -284,3 +282,8 @@
 - 09/08 13:13 [FirstSquawk] China's exports soar 25% in August; trade surplus tops $800bn - NA
 - 09/08 13:14 [FirstSquawk] Chinese PLA aircraft to headline Egypt air show in display of export potential -SCMP
 - 09/08 13:15 [FirstSquawk] Canada’s tariffs on about $20 billion in U.S. goods have taken effect, responding to President Trump’s latest tariffs - AP
+- 09/08 13:29 [FirstSquawk] Xinhua says all bodies retrieved following Tibet mudslide are non-foreign nationals
+- 09/08 13:30 [financialjuice] DUTCH CPI MOM ACTUAL 0.3% (FORECAST -, PREVIOUS 1.6%) $MACRO
+- 09/08 13:30 [financialjuice] DUTCH CPI YOY ACTUAL 3.3% (FORECAST -, PREVIOUS 3.2%) $MACRO
+- 09/08 13:30 [financialjuice] Dutch Aug CPI rises 3.3% y/y after 3.2% in July: CBS
+- 09/08 13:34 [FirstSquawk] JPMorgan lowers FedEx target price to $400 from $460

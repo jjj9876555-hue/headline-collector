@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 13:18 JST／対象: 09/08 07:18 〜 09/08 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-08 13:35 JST／対象: 09/08 07:35 〜 09/08 13:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 123 | 09/08 08:36 | 09/08 13:15 | 20分（08:36→08:57） |
-| financialjuice | 104 | 09/08 07:45 | 09/08 13:02 | 40分（10:44→11:24） |
+| FirstSquawk | 125 | 09/08 08:36 | 09/08 13:34 | 20分（08:36→08:57） |
+| financialjuice | 107 | 09/08 07:45 | 09/08 13:30 | 40分（10:44→11:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 227 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 232 行（統合前 232 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -251,3 +251,8 @@
 - 09/08 13:13 [FirstSquawk] China's exports soar 25% in August; trade surplus tops $800bn - NA
 - 09/08 13:14 [FirstSquawk] Chinese PLA aircraft to headline Egypt air show in display of export potential -SCMP
 - 09/08 13:15 [FirstSquawk] Canada’s tariffs on about $20 billion in U.S. goods have taken effect, responding to President Trump’s latest tariffs - AP
+- 09/08 13:29 [FirstSquawk] Xinhua says all bodies retrieved following Tibet mudslide are non-foreign nationals
+- 09/08 13:30 [financialjuice] DUTCH CPI MOM ACTUAL 0.3% (FORECAST -, PREVIOUS 1.6%) $MACRO
+- 09/08 13:30 [financialjuice] DUTCH CPI YOY ACTUAL 3.3% (FORECAST -, PREVIOUS 3.2%) $MACRO
+- 09/08 13:30 [financialjuice] Dutch Aug CPI rises 3.3% y/y after 3.2% in July: CBS
+- 09/08 13:34 [FirstSquawk] JPMorgan lowers FedEx target price to $400 from $460

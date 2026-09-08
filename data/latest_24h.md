@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 13:18 JST／対象: 09/07 13:18 〜 09/08 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-08 13:35 JST／対象: 09/07 13:35 〜 09/08 13:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 305 | 09/07 13:29 | 09/08 13:15 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 159 | 09/07 14:05 | 09/08 13:02 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 299 | 09/07 13:46 | 09/08 13:34 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 162 | 09/07 14:05 | 09/08 13:30 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 466 行（統合前 475 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 463 行（統合前 471 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 13:29 [FirstSquawk] Philanthropic giving in Asia forecast to hit US$1.5 trillion over next decade - SCMP
-- 09/07 13:29 [FirstSquawk] Beijing to Inject Billions Into Banks, Insurers to Boost Growth - WSJ
-- 09/07 13:30 [FirstSquawk] CHINA PUMPS $53BN INTO BANKS AND INSURERS - FT
-- 09/07 13:31 [FirstSquawk] MODI FAILS TO DULL GOLD’S LUSTRE IN INDIA - FT
-- 09/07 13:31 [FirstSquawk] VENEZUELA-US OIL DEAL RISKS VIOLATING LOCAL LAW, SAY EXPERTS - FT
-- 09/07 13:31 [FirstSquawk] BIG US UNIVERSITY ENDOWMENTS OUTPERFORM S&P 500 INDEX - FT
-- 09/07 13:31 [FirstSquawk] RUSSIA’S URANIUM PUSH RAISES CONCERN OVER NUCLEAR FUEL SUPPLY - FT
-- 09/07 13:33 [FirstSquawk] KOSPI jumps 4% in Seoul trading
-- 09/07 13:34 [FirstSquawk] SK Hynix climbs 7.6% as Samsung Electronics gains 5.1%
 - 09/07 13:46 [FirstSquawk] JAPAN’S FOREIGN RESERVES FELL A RECORD $79.6 BILLION IN AUGUST, THE "LARGEST-EVER" AFTER TOKYO SPENT A RECORD AMOUNT BUYING YEN - KALSHI
 - 09/07 13:48 [FirstSquawk] JOHN TERNUS’S FIRST TEST AT APPLE IS SELLING A $2,000 FOLDABLE IPHONE – FT
 - 09/07 13:48 [FirstSquawk] ESSILORLUXOTTICA OVERHAULS MANAGEMENT AFTER RIFT WITH FOUNDER’S SON – FT
@@ -43,6 +34,7 @@
 - 09/07 14:05 [financialjuice] JAPANESE LEADING INDICATOR CHANGE ACTUAL 1.7 (FORECAST -, PREVIOUS 0.0) $MACRO
 - 09/07 14:20 [FirstSquawk] DOLLAR EXPECTED TO TRADE IN 154.30-157.60 YEN RANGE THIS WEEK-WSJ
 - 09/07 14:31 [FirstSquawk] OIL RISES AS ESCALATING U.S.-IRAN CONFLICT STOKES SUPPLY DISRUPTION FEARS-WSJ
+- 09/07 14:42 [FirstSquawk] BEIJING TO INJECT BILLIONS INTO BANKS, INSURERS TO BOOST GROWTH-WSJ
 - 09/07 14:51 [FirstSquawk] AI to enhance efficiency across China’s infrastructure sector, with credit benefits emerging gradually, Moody’s says
 - 09/07 14:53 [FirstSquawk] France’s Lescure says interest rates will increase significantly if no budget is agreed
 - 09/07 14:54 [financialjuice] French Finance Minister Lescure: If there is no budget, interest rates will go up markedly.
@@ -490,3 +482,8 @@
 - 09/08 13:13 [FirstSquawk] China's exports soar 25% in August; trade surplus tops $800bn - NA
 - 09/08 13:14 [FirstSquawk] Chinese PLA aircraft to headline Egypt air show in display of export potential -SCMP
 - 09/08 13:15 [FirstSquawk] Canada’s tariffs on about $20 billion in U.S. goods have taken effect, responding to President Trump’s latest tariffs - AP
+- 09/08 13:29 [FirstSquawk] Xinhua says all bodies retrieved following Tibet mudslide are non-foreign nationals
+- 09/08 13:30 [financialjuice] DUTCH CPI MOM ACTUAL 0.3% (FORECAST -, PREVIOUS 1.6%) $MACRO
+- 09/08 13:30 [financialjuice] DUTCH CPI YOY ACTUAL 3.3% (FORECAST -, PREVIOUS 3.2%) $MACRO
+- 09/08 13:30 [financialjuice] Dutch Aug CPI rises 3.3% y/y after 3.2% in July: CBS
+- 09/08 13:34 [FirstSquawk] JPMorgan lowers FedEx target price to $400 from $460
