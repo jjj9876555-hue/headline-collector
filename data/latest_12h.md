@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 02:53 JST／対象: 09/08 14:53 〜 09/09 02:53 JST（時刻はすべて日本時間）
+生成: 2026-09-09 03:21 JST／対象: 09/08 15:21 〜 09/09 03:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/08 17:32 | 09/09 02:40 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 215 | 09/08 14:55 | 09/09 02:49 | 28分（01:25→01:53） |
-| financialjuice | 163 | 09/08 15:00 | 09/09 02:38 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 210 | 09/08 15:23 | 09/09 03:13 | 28分（01:25→01:53） |
+| financialjuice | 156 | 09/08 15:45 | 09/09 03:12 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 381 行（統合前 387 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 368 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 14:55 [FirstSquawk] Morgan Stanley cuts BE Semiconductor target price to EUR 220 from EUR 260
-- 09/08 15:00 [financialjuice] GERMAN IMPORTS MOM SA ACTUAL -5.7% (FORECAST -1%, PREVIOUS 4.4%) $MACRO
-- 09/08 15:00 [financialjuice] GERMAN TRADE BALANCE SA ACTUAL 21.3B (FORECAST 15.8B, PREVIOUS 15.4B) $MACRO
-- 09/08 15:00 [financialjuice] GERMAN EXPORTS MOM SA ACTUAL -0.8% (FORECAST 0.3%, PREVIOUS 0.9%) $MACRO
-- 09/08 15:00 [financialjuice] Yemen's Houthi Military Spokesperson: Group will announce broad military operation deep into Saudi territory.
-- 09/08 15:01 [FirstSquawk] GERMANY (JUL) TRADE BALANCE SA ACTUAL: 21.3B VS 15.4B PREVIOUS;EST 15.8B
-- 09/08 15:01 [FirstSquawk] GERMANY (JUL) EXPORTS SA MOM ACTUAL: -0.8% VS 0.9% PREVIOUS;EST 0.3%
-- 09/08 15:01 [FirstSquawk] GERMANY (JUL) IMPORTS SA MOM ACTUAL: -5.7% VS 4.4% PREVIOUS;EST -1.0%
-- 09/08 15:02 [financialjuice] ASML, TSMC announce initiative to pioneer industry transition.
-- 09/08 15:04 [FirstSquawk] Yemen’s Houthis to announce broad military operation deep into Saudi territory, military spokesperson says
-- 09/08 15:04 [financialjuice] Japan PM Takaichi to retain Koichi Hagiuda in reshuffle - Yomiuri.
-- 09/08 15:05 [financialjuice] Samsung plans to use ASML top tool for DRAM production by 2028.
-- 09/08 15:05 [financialjuice] TSMC plans to use ASML top tool for advanced nodes from 2030.
-- 09/08 15:12 [FirstSquawk] 40-year JGB yield declines 6.5 basis points to 4.025%
-- 09/08 15:12 [FirstSquawk] Samsung Electronics, ASML expand collaboration on next-generation semiconductor manufacturing
-- 09/08 15:18 [FirstSquawk] Ukrainian attack on Russia’s Bryansk region kills 1, injures 3, acting governor says
 - 09/08 15:23 [FirstSquawk] Australia’s S&P/ASX 200 ends 1% lower at 8,920.80 points
 - 09/08 15:24 [FirstSquawk] Japan’s Nikkei drops 1.53% to 65,385.91, extending decline
 - 09/08 15:39 [FirstSquawk] ECB SET TO RAISE KEY RATE AGAIN, SIGNAL CAUTION ON FURTHER MOVES-WSJ
@@ -405,3 +389,6 @@
 - 09/09 02:49 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS THAT 'WHEN THE USSR COLLAPSED, POLAND AND UKRAINE HAD THE SAME SIZE ECONOMY', BUT 'POLAND'S IS THREE TIMES BIGGER NOW', ADDING THAT 'IF UKRAINE CAN PROPERLY MANAGE ITS ECONOMY, THEN THAT CAN BE A BIG DET…
 - 09/09 02:49 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS THE IRON DOME 'WON'T MATTER' IF CHINA WINS THE AI RACE AGAINST THE U.S.
 - 09/09 02:49 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS ON DATA CENTERS THAT 'WE NEED TO EXPLAIN THE REAL STORY OF DATA CENTERS TO THE COMMUNITIES', ADDING THAT 'THERE IS A LOT OF CHINESE AGITPROP IN THERE' AND THAT PROTESTERS SHOWING UP IN RURAL AREAS WERE '…
+- 09/09 03:02 [FirstSquawk] U.S. MILITARY UNDERWATER DRONE MALFUNCTIONED MORE THAN A DAY AGO IN THE MIDDLE EAST, A U.S. OFFICIAL SAYS, ADDING THAT THE DEFECTIVE DRONE WAS AN OLDER MODEL THAT WAS NOT CARRYING ANY CLASSIFIED SONAR OR RADAR EQUIPMENT
+- 09/09 03:04 [FirstSquawk] RUSSIA'S LAVROV SAYS PUTIN, TRUMP AND XI MAY MEET AT APEC IN NOVEMBER - IFX
+- 09/09 03:12 [financialjuice/FirstSquawk] USTR Greer and Canada's Leblanc to speak today -Radio-Canada
