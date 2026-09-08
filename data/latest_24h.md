@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 12:59 JST／対象: 09/07 12:59 〜 09/08 12:59 JST（時刻はすべて日本時間）
+生成: 2026-09-08 13:18 JST／対象: 09/07 13:18 〜 09/08 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 293 | 09/07 13:14 | 09/08 12:57 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 156 | 09/07 14:05 | 09/08 12:48 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 305 | 09/07 13:29 | 09/08 13:15 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 159 | 09/07 14:05 | 09/08 13:02 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 451 行（統合前 460 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 466 行（統合前 475 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 13:14 [FirstSquawk] Moody’s Ratings rates KBank’s proposed Tier 2 subordinated notes
 - 09/07 13:29 [FirstSquawk] Philanthropic giving in Asia forecast to hit US$1.5 trillion over next decade - SCMP
 - 09/07 13:29 [FirstSquawk] Beijing to Inject Billions Into Banks, Insurers to Boost Growth - WSJ
 - 09/07 13:30 [FirstSquawk] CHINA PUMPS $53BN INTO BANKS AND INSURERS - FT
@@ -475,3 +474,19 @@
 - 09/08 12:47 [financialjuice] Dollar/yen drops 0.75% to 153.165
 - 09/08 12:48 [financialjuice] Euro drops 0.67% versus yen; sterling declines 0.78% against yen
 - 09/08 12:57 [FirstSquawk] British Pound drifts higher to near 1.3550 on UK fiscal discipline pledges - FX
+- 09/08 13:00 [financialjuice] Swedish single-family home prices rise 3.9% in June-August versus year earlier, Svensk maklarstatistik data shows
+- 09/08 13:00 [financialjuice] Swedish apartment prices rose 4.8% in June-August versus same period a year earlier, svensk maklarstatistik data shows
+- 09/08 13:02 [financialjuice] Anthropic and OpenAI financiers seek prime credit ratings after IPO - FT
+- 09/08 13:02 [FirstSquawk] Global shipping rules are collapsing, say maritime nations - FT
+- 09/08 13:03 [FirstSquawk] Merz’s CDU in crisis after far-right victory in Saxony-Anhalt - FT
+- 09/08 13:03 [FirstSquawk] Apollo premium’ drives up debt costs for group’s portfolio companies - FT
+- 09/08 13:03 [FirstSquawk] Hedge fund Millennium seeks tax deal to boost Geneva presence - FT
+- 09/08 13:04 [FirstSquawk] EU opens door to bigger corporate mergers - FT
+- 09/08 13:04 [FirstSquawk] Britain’s grid operator gave Palantir contract without inviting rival bids - FT
+- 09/08 13:05 [FirstSquawk] Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - FT
+- 09/08 13:05 [FirstSquawk] European ‘wealth’ threatened by decline of region’s carmakers - FT
+- 09/08 13:10 [FirstSquawk] 30-year JGB yield declines 6.0 basis points to 3.960%
+- 09/08 13:11 [FirstSquawk] UK retail sales growth slows to 4-month low in August, BRC says - RTRS
+- 09/08 13:13 [FirstSquawk] China's exports soar 25% in August; trade surplus tops $800bn - NA
+- 09/08 13:14 [FirstSquawk] Chinese PLA aircraft to headline Egypt air show in display of export potential -SCMP
+- 09/08 13:15 [FirstSquawk] Canada’s tariffs on about $20 billion in U.S. goods have taken effect, responding to President Trump’s latest tariffs - AP
