@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 20:59 JST／対象: 09/08 14:59 〜 09/08 20:59 JST（時刻はすべて日本時間）
+生成: 2026-09-08 21:24 JST／対象: 09/08 15:24 〜 09/08 21:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 79 | 09/08 15:01 | 09/08 20:55 | 22分（15:53→16:15） |
-| financialjuice | 37 | 09/08 15:00 | 09/08 20:45 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 73 | 09/08 15:39 | 09/08 21:12 | 22分（15:53→16:15） |
+| financialjuice | 34 | 09/08 15:45 | 09/08 21:20 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 116 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 107 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 15:00 [financialjuice] GERMAN IMPORTS MOM SA ACTUAL -5.7% (FORECAST -1%, PREVIOUS 4.4%) $MACRO
-- 09/08 15:00 [financialjuice] GERMAN TRADE BALANCE SA ACTUAL 21.3B (FORECAST 15.8B, PREVIOUS 15.4B) $MACRO
-- 09/08 15:00 [financialjuice] GERMAN EXPORTS MOM SA ACTUAL -0.8% (FORECAST 0.3%, PREVIOUS 0.9%) $MACRO
-- 09/08 15:00 [financialjuice] Yemen's Houthi Military Spokesperson: Group will announce broad military operation deep into Saudi territory.
-- 09/08 15:01 [FirstSquawk] GERMANY (JUL) TRADE BALANCE SA ACTUAL: 21.3B VS 15.4B PREVIOUS;EST 15.8B
-- 09/08 15:01 [FirstSquawk] GERMANY (JUL) EXPORTS SA MOM ACTUAL: -0.8% VS 0.9% PREVIOUS;EST 0.3%
-- 09/08 15:01 [FirstSquawk] GERMANY (JUL) IMPORTS SA MOM ACTUAL: -5.7% VS 4.4% PREVIOUS;EST -1.0%
-- 09/08 15:02 [financialjuice] ASML, TSMC announce initiative to pioneer industry transition.
-- 09/08 15:04 [FirstSquawk] Yemen’s Houthis to announce broad military operation deep into Saudi territory, military spokesperson says
-- 09/08 15:04 [financialjuice] Japan PM Takaichi to retain Koichi Hagiuda in reshuffle - Yomiuri.
-- 09/08 15:05 [financialjuice] Samsung plans to use ASML top tool for DRAM production by 2028.
-- 09/08 15:05 [financialjuice] TSMC plans to use ASML top tool for advanced nodes from 2030.
-- 09/08 15:12 [FirstSquawk] 40-year JGB yield declines 6.5 basis points to 4.025%
-- 09/08 15:12 [FirstSquawk] Samsung Electronics, ASML expand collaboration on next-generation semiconductor manufacturing
-- 09/08 15:18 [FirstSquawk] Ukrainian attack on Russia’s Bryansk region kills 1, injures 3, acting governor says
-- 09/08 15:23 [FirstSquawk] Australia’s S&P/ASX 200 ends 1% lower at 8,920.80 points
-- 09/08 15:24 [FirstSquawk] Japan’s Nikkei drops 1.53% to 65,385.91, extending decline
 - 09/08 15:39 [FirstSquawk] ECB SET TO RAISE KEY RATE AGAIN, SIGNAL CAUTION ON FURTHER MOVES-WSJ
 - 09/08 15:45 [financialjuice] FRENCH TRADE BALANCE SA ACTUAL -6.669012B (FORECAST -, PREVIOUS -5.85B) $MACRO
 - 09/08 15:45 [financialjuice] FRENCH CURRENT ACCOUNT ACTUAL -4.7B (FORECAST -, PREVIOUS -1.4B) $MACRO
@@ -140,3 +123,11 @@
 - 09/08 20:47 [FirstSquawk] ASTRAZENECA- TOZORAKIMAB SHOWS STATISTICALLY SIGNIFICANT,CLINICALLY MEANINGFUL REDUCTION IN COPD EXACERBATIONS IN OBERON, TITANIA PHASE III TRIALS || ASTRAZENECA- TOZORAKIMAB 300MG SHOWS REDUCTION IN MODERATE, SEVERE COPD EXACERBATIONS IN O…
 - 09/08 20:47 [FirstSquawk] ASTRAZENECA- TOZORAKIMAB 300MG SHOWS REDUCTION IN MODERATE, SEVERE COPD EXACERBATIONS IN OVERALL CURRENT, FORMER SMOKER POPULATION BY 29% IN TITANIA
 - 09/08 20:55 [FirstSquawk] INDONESIA TO TAKE CONTROL OF CHINA-FUNDED WHOOSH RAIL OPERATOR
+- 09/08 21:00 [financialjuice] Secured overnight financing rate 3.65% September 4th vs 3.66% September 3rd.
+- 09/08 21:02 [FirstSquawk] FRANCE CALLS FOR NEW EU TAXES TO RAISE €60B – POLITICO
+- 09/08 21:03 [financialjuice] Google Cloud to train up to 1,000 Accenture FDES - WSJ $GOOGL
+- 09/08 21:03 [financialjuice] Morning Juice - US Session Prep (8th September)
+- 09/08 21:04 [financialjuice] Accenture and Google Cloud deploy FDES on-site for AI buildout - WSJ $GOOGL
+- 09/08 21:05 [FirstSquawk] ROBINHOOD STRIKES DEAL WITH https://t.co/uRKOQg4t2P IN LATEST PREDICTION-MARKETS PUSH – WSJ
+- 09/08 21:12 [FirstSquawk] SAUDI ARABIA'S FOREIGN MINISTER PRINCE FAISAL BIN FARHAN AL SAUD: THE LATEST ESCALATION IS PART OF THIS PATTERN OF PROVOCATION AND RESORTING TO VIOLENCE WHENEVER THE HOUTHIS FIND THEMSELVES IN A DIFFICULT POSITION. THEY ARE FACING INTERNAL …
+- 09/08 21:20 [financialjuice] South Korea's Defence Ministry: It will dispatch an investigation team to assess the situation in the Strait of Hormuz- Yonhap

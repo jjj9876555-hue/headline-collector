@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 20:59 JST／対象: 09/08 08:59 〜 09/08 20:59 JST（時刻はすべて日本時間）
+生成: 2026-09-08 21:24 JST／対象: 09/08 09:24 〜 09/08 21:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 223 | 09/08 09:02 | 09/08 20:55 | 22分（15:53→16:15） |
-| financialjuice | 118 | 09/08 09:20 | 09/08 20:45 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 214 | 09/08 09:25 | 09/08 21:12 | 22分（15:53→16:15） |
+| financialjuice | 122 | 09/08 09:30 | 09/08 21:20 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 341 行（統合前 342 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 336 行（統合前 338 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 09:02 [FirstSquawk] GOLD HOLDS NEAR $4,400 AS MIDDLE EAST TENSIONS SUPPORT SAFE-HAVEN DEMAND, WHILE FED RATE-HIKE BETS AND UPCOMING US CPI CAP THE UPSIDE. || SPOT GOLD TRADES AROUND $4,410 AS A WEAKER DOLLAR OFFSETS HIGHER OIL-DRIVEN INFLATION RISKS; MARKETS P…
-- 09/08 09:07 [FirstSquawk] AUSTRALIA'S S&P/ASX 200 INDEX DOWN 0.2% AT 8,995.30 POINTS IN EARLY TRADE
-- 09/08 09:12 [FirstSquawk] TAIWAN STOCK EXCHANGE TO HOLD EMERGENCY MEETING WITH 10+ MAJOR BROKERAGES ON CYBERSECURITY, MARKET RESILIENCE AND INVESTOR PROTECTION.
-- 09/08 09:12 [FirstSquawk] TWSE WILL ALSO DISCUSS CAPITAL-RAISING PLANS AND ODD-LOT TRADING REFORMS AS TAIWAN STRENGTHENS FINANCIAL-MARKET SECURITY AND OPERATIONAL INFRASTRUCTURE.
-- 09/08 09:15 [FirstSquawk] Myanmar military intensifies operations to retake China project areas - NA
-- 09/08 09:19 [FirstSquawk] Hunter Biden (and His Laptop) Enter the Cryptosphere With New Meme Coin The personal computer that launched a thousand memes will debut this week as a digital token - WSJ
-- 09/08 09:19 [FirstSquawk] JAPAN’S Q2 GDP GROWS 1.4% ANNUALIZED, BEATING THE 1.1% PRELIMINARY ESTIMATE AND STRENGTHENING THE CASE FOR A BOJ RATE HIKE. || CAPITAL SPENDING FELL JUST 0.9% Q/Q, BETTER THAN INITIALLY REPORTED, WHILE MARKETS NOW ALMOST FULLY PRICE A SEPTE…
-- 09/08 09:20 [FirstSquawk] Greenland Seeks to Turn Peril Into Profit After Trump’s Threats to Take It Over - WSJ
-- 09/08 09:20 [financialjuice] China PBOC likely to set yuan midpoint at 6.7104 per dollar: estimate
-- 09/08 09:21 [FirstSquawk] SOFTBANK GROUP SHARES GAIN 4%
-- 09/08 09:22 [FirstSquawk] OIL RISES AS REPORTS OF A STRIKE ON SAUDI ARAMCO’S JAZAN REFINERY ADD TO US-IRAN SHIPPING RISKS, WITH WTI AT $92.43 AND BRENT AT $97.07. || HORMUZ TENSIONS, THREATS OF A NEW EXCLUSION ZONE AND RECORD US GASOLINE PRICES ARE RAISING SUPPLY AN…
-- 09/08 09:22 [FirstSquawk] Goldman raises Brent/WTI price forecasts by $5 to $85/80 for Dec2026 and to $80/75 for 2027, reflecting new assumption that Mideast shipping disruptions continue into 2027 - ZEROHEDGE
-- 09/08 09:24 [FirstSquawk] Nikkei Falls 0.6%, Dragged by Electronics, Machinery Stocks - WSJ
 - 09/08 09:25 [FirstSquawk] Oil Rises Amid Fears of More Supply Disruptions in Middle East - WSJ
 - 09/08 09:25 [FirstSquawk] DEADLY AMAZON CARGO JET CRASH AT MIAMI AIRPORT REIGNITES DEBATE OVER MANDATORY EMAS RUNWAY SAFETY SYSTEMS AFTER FIVE PEOPLE WERE KILLED.
 - 09/08 09:25 [FirstSquawk] EMAS HAS STOPPED 26 AIRCRAFT OVERRUNS INVOLVING 497 PASSENGERS, BUT MIAMI LACKED THE SYSTEM; INVESTIGATORS WILL ASSESS WHETHER STRONGER RUNWAY-SAFETY REQUIREMENTS COULD HAVE REDUCED THE DEATH TOLL.
@@ -365,3 +352,11 @@
 - 09/08 20:47 [FirstSquawk] ASTRAZENECA- TOZORAKIMAB SHOWS STATISTICALLY SIGNIFICANT,CLINICALLY MEANINGFUL REDUCTION IN COPD EXACERBATIONS IN OBERON, TITANIA PHASE III TRIALS || ASTRAZENECA- TOZORAKIMAB 300MG SHOWS REDUCTION IN MODERATE, SEVERE COPD EXACERBATIONS IN O…
 - 09/08 20:47 [FirstSquawk] ASTRAZENECA- TOZORAKIMAB 300MG SHOWS REDUCTION IN MODERATE, SEVERE COPD EXACERBATIONS IN OVERALL CURRENT, FORMER SMOKER POPULATION BY 29% IN TITANIA
 - 09/08 20:55 [FirstSquawk] INDONESIA TO TAKE CONTROL OF CHINA-FUNDED WHOOSH RAIL OPERATOR
+- 09/08 21:00 [financialjuice] Secured overnight financing rate 3.65% September 4th vs 3.66% September 3rd.
+- 09/08 21:02 [FirstSquawk] FRANCE CALLS FOR NEW EU TAXES TO RAISE €60B – POLITICO
+- 09/08 21:03 [financialjuice] Google Cloud to train up to 1,000 Accenture FDES - WSJ $GOOGL
+- 09/08 21:03 [financialjuice] Morning Juice - US Session Prep (8th September)
+- 09/08 21:04 [financialjuice] Accenture and Google Cloud deploy FDES on-site for AI buildout - WSJ $GOOGL
+- 09/08 21:05 [FirstSquawk] ROBINHOOD STRIKES DEAL WITH https://t.co/uRKOQg4t2P IN LATEST PREDICTION-MARKETS PUSH – WSJ
+- 09/08 21:12 [FirstSquawk] SAUDI ARABIA'S FOREIGN MINISTER PRINCE FAISAL BIN FARHAN AL SAUD: THE LATEST ESCALATION IS PART OF THIS PATTERN OF PROVOCATION AND RESORTING TO VIOLENCE WHENEVER THE HOUTHIS FIND THEMSELVES IN A DIFFICULT POSITION. THEY ARE FACING INTERNAL …
+- 09/08 21:20 [financialjuice] South Korea's Defence Ministry: It will dispatch an investigation team to assess the situation in the Strait of Hormuz- Yonhap
