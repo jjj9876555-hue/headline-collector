@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 06:58 JST／対象: 09/08 18:58 〜 09/09 06:58 JST（時刻はすべて日本時間）
+生成: 2026-09-09 07:16 JST／対象: 09/08 19:16 〜 09/09 07:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 22:06 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 220 | 09/08 19:00 | 09/09 06:40 | 28分（01:25→01:53） |
-| financialjuice | 189 | 09/08 19:00 | 09/09 06:28 | 33分（02:38→03:12） |
+| FirstSquawk | 217 | 09/08 19:27 | 09/09 06:40 | 28分（01:25→01:53） |
+| financialjuice | 190 | 09/08 19:20 | 09/09 07:12 | 37分（06:28→07:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 408 行（統合前 420 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 406 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 19:00 [financialjuice] US NFIB BUSINESS OPTIMISM INDEX ACTUAL 98.7 (FORECAST 99.3, PREVIOUS 99.80) $MACRO
-- 09/08 19:00 [FirstSquawk] FOUR SAUDI AIRSTRIKES HIT YEMEN'S MARIB, HOUTHI-RUN AL MASIRAH TV SAYS
-- 09/08 19:06 [FirstSquawk] UBER FILES FOR EURO-DENOMINATED FIVE PARTS SENIOR NOTES OFFERING; SIZE NOT DISCLOSED - SEC FILING
-- 09/08 19:16 [FirstSquawk] MERCK & CO INC : GUGGENHEIM RAISES TARGET PRICE TO $170 FROM $146
 - 09/08 19:20 [financialjuice] ❗ Qatar is working with its regional partners and China to resume talks between US and Iran - Foreign Ministry.
 - 09/08 19:23 [financialjuice] UK Government: To lay legislation which will tackle Iranian nuclear activity and other hostile Iranian activity.
 - 09/08 19:23 [financialjuice] UK Government: The legislation will further expand our powers to sanction ships.
@@ -432,3 +428,5 @@
 - 09/09 06:31 [FirstSquawk] BESSENT SAYS THE US CAN USE ITS BALANCE SHEET AS A FOREIGN-POLICY TOOL AND CLAIMS HE NOW HAS “ASYMMETRIC INFO,” SIGNALING A MORE ACTIVE US ROLE IN CURRENCY POLICY.
 - 09/09 06:39 [FirstSquawk] US CDC REPORTS 19,595 LAB-CONFIRMED US-ACQUIRED CYCLOSPORIASIS CASES SINCE MAY 1, WITH 1,043 RELATED HOSPITALIZATIONS THROUGH SEPT. 8. THE OUTBREAK HAS RESULTED IN A SIGNIFICANT NUMBER OF HOSPITALIZATIONS, PROMPTING CONTINUED PUBLIC-HEALTH …
 - 09/09 06:40 [FirstSquawk] GLOBALFOUNDRIES CEO SAYS DATA-CENTER DEMAND IS A “VERY STRONG DRIVER” FOR GROWTH AS AI WORKLOADS BECOME INCREASINGLY DATA-INTENSIVE. CEO SAYS OPTICAL CONNECTIVITY IS NOW A “WHEN, NOT IF” TRANSITION AND GLOBALFOUNDRIES COULD 10X SILICON-PHOT…
+- 09/09 07:05 [financialjuice] US Secretary of State Rubio: Trump wants to reach tariff deal with Colombia
+- 09/09 07:12 [financialjuice] US Secretary of State Rubio: Every time Iran targets US Navy ships, they will lose tankers

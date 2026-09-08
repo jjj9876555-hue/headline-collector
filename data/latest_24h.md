@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 06:58 JST／対象: 09/08 06:58 〜 09/09 06:58 JST（時刻はすべて日本時間）
+生成: 2026-09-09 07:16 JST／対象: 09/08 07:16 〜 09/09 07:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
 | FirstSquawk | 428 | 09/08 08:36 | 09/09 06:40 | 28分（01:25→01:53） |
-| financialjuice | 331 | 09/08 07:45 | 09/09 06:28 | ⚠ 56分（15:45→16:42） |
+| financialjuice | 333 | 09/08 07:45 | 09/09 07:12 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 759 行（統合前 771 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 761 行（統合前 773 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -783,3 +783,5 @@
 - 09/09 06:31 [FirstSquawk] BESSENT SAYS THE US CAN USE ITS BALANCE SHEET AS A FOREIGN-POLICY TOOL AND CLAIMS HE NOW HAS “ASYMMETRIC INFO,” SIGNALING A MORE ACTIVE US ROLE IN CURRENCY POLICY.
 - 09/09 06:39 [FirstSquawk] US CDC REPORTS 19,595 LAB-CONFIRMED US-ACQUIRED CYCLOSPORIASIS CASES SINCE MAY 1, WITH 1,043 RELATED HOSPITALIZATIONS THROUGH SEPT. 8. THE OUTBREAK HAS RESULTED IN A SIGNIFICANT NUMBER OF HOSPITALIZATIONS, PROMPTING CONTINUED PUBLIC-HEALTH …
 - 09/09 06:40 [FirstSquawk] GLOBALFOUNDRIES CEO SAYS DATA-CENTER DEMAND IS A “VERY STRONG DRIVER” FOR GROWTH AS AI WORKLOADS BECOME INCREASINGLY DATA-INTENSIVE. CEO SAYS OPTICAL CONNECTIVITY IS NOW A “WHEN, NOT IF” TRANSITION AND GLOBALFOUNDRIES COULD 10X SILICON-PHOT…
+- 09/09 07:05 [financialjuice] US Secretary of State Rubio: Trump wants to reach tariff deal with Colombia
+- 09/09 07:12 [financialjuice] US Secretary of State Rubio: Every time Iran targets US Navy ships, they will lose tankers
