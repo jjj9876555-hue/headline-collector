@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 12:44 JST／対象: 09/08 06:44 〜 09/08 12:44 JST（時刻はすべて日本時間）
+生成: 2026-09-08 12:59 JST／対象: 09/08 06:59 〜 09/08 12:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 104 | 09/08 08:36 | 09/08 12:40 | 20分（08:36→08:57） |
-| financialjuice | 99 | 09/08 07:45 | 09/08 12:44 | 40分（10:44→11:24） |
+| FirstSquawk | 110 | 09/08 08:36 | 09/08 12:57 | 20分（08:36→08:57） |
+| financialjuice | 101 | 09/08 07:45 | 09/08 12:48 | 40分（10:44→11:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 203 行（統合前 203 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 211 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -227,3 +227,11 @@
 - 09/08 12:43 [financialjuice] RBA's Hunter: July CPI data represented just one month
 - 09/08 12:43 [financialjuice] RBA’s Hunter: Board worried about inflation, has low tolerance
 - 09/08 12:44 [financialjuice] RBA's Hunter: board may need to hike rates if inflation looks set to intensify
+- 09/08 12:46 [FirstSquawk] Two killed, seven injured in Russian air strikes on Kyiv, officials say
+- 09/08 12:47 [FirstSquawk] RBA’s Hunter: Inflation remains the board’s top priority
+- 09/08 12:47 [FirstSquawk] RBA’s Hunter: July CPI reading is based on just a single month
+- 09/08 12:47 [FirstSquawk] RBA’s Hunter says the board remains concerned about inflation and has little tolerance for it
+- 09/08 12:47 [FirstSquawk] RBA’s Hunter says the board may need to raise rates if inflation is expected to be stronger
+- 09/08 12:47 [financialjuice] Dollar/yen drops 0.75% to 153.165
+- 09/08 12:48 [financialjuice] Euro drops 0.67% versus yen; sterling declines 0.78% against yen
+- 09/08 12:57 [FirstSquawk] British Pound drifts higher to near 1.3550 on UK fiscal discipline pledges - FX

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 12:44 JST／対象: 09/08 00:44 〜 09/08 12:44 JST（時刻はすべて日本時間）
+生成: 2026-09-08 12:59 JST／対象: 09/08 00:59 〜 09/08 12:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/08 02:28 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 125 | 09/08 00:56 | 09/08 12:40 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 108 | 09/08 00:55 | 09/08 12:44 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 130 | 09/08 01:13 | 09/08 12:57 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 109 | 09/08 01:31 | 09/08 12:48 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 240 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 246 行（統合前 246 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 00:55 [financialjuice] Germany said to discuss gas storage help with SEFE and Uniper.
-- 09/08 00:56 [FirstSquawk] ITALY TO SELL UP TO EUR 750 MLN OF 2.15% 2072 BONDS SEPT. 10 || TO SELL UP TO EUR 3.5 BLN OF 3% 2029 BONDS || TO SELL UP TO EUR 3.5 BLN OF 3.35% 2033 BONDS
 - 09/08 01:13 [FirstSquawk] NTSB WILL HOST A MEDIA BRIEFING ON MONDAY AT 4 PM ET ABOUT THE RUNWAY INCIDENT AT MIAMI INTERNATIONAL AIRPORT.
 - 09/08 01:14 [FirstSquawk] LATVIA'S PM KULBERGS ANNOUNCED A 300% TARIFF ON GRAIN IMPORTS FROM RUSSIA AND BELARUS.
 - 09/08 01:24 [FirstSquawk] CUBA'S FOREIGN MINISTER BRUNO RODRIGUEZ STATES THAT THERE HAS BEEN NO ADVANCEMENT OR TALKS WITH THE UNITED STATES REGARDING FUTURE DISCUSSIONS.
@@ -264,3 +262,11 @@
 - 09/08 12:43 [financialjuice] RBA's Hunter: July CPI data represented just one month
 - 09/08 12:43 [financialjuice] RBA’s Hunter: Board worried about inflation, has low tolerance
 - 09/08 12:44 [financialjuice] RBA's Hunter: board may need to hike rates if inflation looks set to intensify
+- 09/08 12:46 [FirstSquawk] Two killed, seven injured in Russian air strikes on Kyiv, officials say
+- 09/08 12:47 [FirstSquawk] RBA’s Hunter: Inflation remains the board’s top priority
+- 09/08 12:47 [FirstSquawk] RBA’s Hunter: July CPI reading is based on just a single month
+- 09/08 12:47 [FirstSquawk] RBA’s Hunter says the board remains concerned about inflation and has little tolerance for it
+- 09/08 12:47 [FirstSquawk] RBA’s Hunter says the board may need to raise rates if inflation is expected to be stronger
+- 09/08 12:47 [financialjuice] Dollar/yen drops 0.75% to 153.165
+- 09/08 12:48 [financialjuice] Euro drops 0.67% versus yen; sterling declines 0.78% against yen
+- 09/08 12:57 [FirstSquawk] British Pound drifts higher to near 1.3550 on UK fiscal discipline pledges - FX

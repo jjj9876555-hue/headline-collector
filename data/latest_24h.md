@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 12:44 JST／対象: 09/07 12:44 〜 09/08 12:44 JST（時刻はすべて日本時間）
+生成: 2026-09-08 12:59 JST／対象: 09/07 12:59 〜 09/08 12:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 290 | 09/07 12:44 | 09/08 12:40 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 154 | 09/07 14:05 | 09/08 12:44 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 293 | 09/07 13:14 | 09/08 12:57 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 156 | 09/07 14:05 | 09/08 12:48 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 446 行（統合前 456 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 451 行（統合前 460 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 12:44 [FirstSquawk] Thailand headline CPI projected at 2.37% in Q3 and 2.70% in Q4, Commerce Ministry says
-- 09/07 12:50 [FirstSquawk] Dollar Expected to Trade in 154.30-157.60 Yen Range This Week - WSJ
-- 09/07 12:52 [FirstSquawk] Macquarie shifts US Fed rate hike call to September 2026 from December
-- 09/07 12:52 [FirstSquawk] Macquarie still anticipates another 25-bps interest rate increase in Q1 2027
 - 09/07 13:14 [FirstSquawk] Moody’s Ratings rates KBank’s proposed Tier 2 subordinated notes
 - 09/07 13:29 [FirstSquawk] Philanthropic giving in Asia forecast to hit US$1.5 trillion over next decade - SCMP
 - 09/07 13:29 [FirstSquawk] Beijing to Inject Billions Into Banks, Insurers to Boost Growth - WSJ
@@ -46,6 +42,7 @@
 - 09/07 14:02 [FirstSquawk] JAPAN (JUL) COINCIDENT INDEX ACTUAL: 120.6 VS 118.5 PREVIOUS;EST 120.2
 - 09/07 14:04 [FirstSquawk] Russia hits vessel carrying military supplies at Chornomorsk port, also strikes Izmail
 - 09/07 14:05 [financialjuice] JAPANESE LEADING INDICATOR CHANGE ACTUAL 1.7 (FORECAST -, PREVIOUS 0.0) $MACRO
+- 09/07 14:20 [FirstSquawk] DOLLAR EXPECTED TO TRADE IN 154.30-157.60 YEN RANGE THIS WEEK-WSJ
 - 09/07 14:31 [FirstSquawk] OIL RISES AS ESCALATING U.S.-IRAN CONFLICT STOKES SUPPLY DISRUPTION FEARS-WSJ
 - 09/07 14:51 [FirstSquawk] AI to enhance efficiency across China’s infrastructure sector, with credit benefits emerging gradually, Moody’s says
 - 09/07 14:53 [FirstSquawk] France’s Lescure says interest rates will increase significantly if no budget is agreed
@@ -470,3 +467,11 @@
 - 09/08 12:43 [financialjuice] RBA's Hunter: July CPI data represented just one month
 - 09/08 12:43 [financialjuice] RBA’s Hunter: Board worried about inflation, has low tolerance
 - 09/08 12:44 [financialjuice] RBA's Hunter: board may need to hike rates if inflation looks set to intensify
+- 09/08 12:46 [FirstSquawk] Two killed, seven injured in Russian air strikes on Kyiv, officials say
+- 09/08 12:47 [FirstSquawk] RBA’s Hunter: Inflation remains the board’s top priority
+- 09/08 12:47 [FirstSquawk] RBA’s Hunter: July CPI reading is based on just a single month
+- 09/08 12:47 [FirstSquawk] RBA’s Hunter says the board remains concerned about inflation and has little tolerance for it
+- 09/08 12:47 [FirstSquawk] RBA’s Hunter says the board may need to raise rates if inflation is expected to be stronger
+- 09/08 12:47 [financialjuice] Dollar/yen drops 0.75% to 153.165
+- 09/08 12:48 [financialjuice] Euro drops 0.67% versus yen; sterling declines 0.78% against yen
+- 09/08 12:57 [FirstSquawk] British Pound drifts higher to near 1.3550 on UK fiscal discipline pledges - FX
