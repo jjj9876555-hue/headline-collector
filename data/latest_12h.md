@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 12:25 JST／対象: 09/08 00:25 〜 09/08 12:25 JST（時刻はすべて日本時間）
+生成: 2026-09-08 12:44 JST／対象: 09/08 00:44 〜 09/08 12:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/08 00:36 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 121 | 09/08 00:33 | 09/08 12:23 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 96 | 09/08 00:44 | 09/08 12:23 | ⚠ 170分（04:54→07:45） |
+| DeItaone | 7 | 09/08 02:28 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
+| FirstSquawk | 125 | 09/08 00:56 | 09/08 12:40 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 108 | 09/08 00:55 | 09/08 12:44 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 225 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 240 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 00:33 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.12%; GERMANY'S DAX DOWN 0.25%
-- 09/08 00:33 [FirstSquawk] FRANCE'S CAC 40 UP 0.25%; SPAIN'S IBEX DOWN 0.22%
-- 09/08 00:36 [DeItaone] COPPER SURGES TO ALL-TIME HIGH Copper hit a record $14,533 a ton on the London Metal Exchange, fueled by fears of potential US tariffs on refined copper imports. Prices have jumped 17% over the past year, supported by tight mine supply and …
-- 09/08 00:43 [FirstSquawk] AIRBUS - AUGUST DELIVERIES: 57 || AUGUST GROSS ORDERS: 67 || DELIVERIES IN JAN-AUGUST: 475 || BOOKED 1,157 GROSS AIRCRAFT ORDERS IN JAN-AUGUST || BOOKED 1,091 NET AIRCRAFT ORDERS IN JAN-AUGUST
-- 09/08 00:44 [financialjuice] Qatar LNG ship nears Hormuz in attempt to exit strait - Data
-- 09/08 00:44 [FirstSquawk] QATAR LNG VESSEL CLOSES IN ON HORMUZ STRAIT FOR EXIT, ACCORDING TO DATA.
 - 09/08 00:55 [financialjuice] Germany said to discuss gas storage help with SEFE and Uniper.
 - 09/08 00:56 [FirstSquawk] ITALY TO SELL UP TO EUR 750 MLN OF 2.15% 2072 BONDS SEPT. 10 || TO SELL UP TO EUR 3.5 BLN OF 3% 2029 BONDS || TO SELL UP TO EUR 3.5 BLN OF 3.35% 2033 BONDS
 - 09/08 01:13 [FirstSquawk] NTSB WILL HOST A MEDIA BRIEFING ON MONDAY AT 4 PM ET ABOUT THE RUNWAY INCIDENT AT MIAMI INTERNATIONAL AIRPORT.
@@ -249,3 +243,24 @@
 - 09/08 12:18 [FirstSquawk] Indonesia agency says Tuesday’s eruptions were less significant than earlier activity and will continue monitoring
 - 09/08 12:23 [financialjuice] Reserve Bank of Australia Assistant Governor Hunter: Housing market crucial transition channel for monetary policy
 - 09/08 12:23 [FirstSquawk] RBA Assistant Governor Hunter: Housing market is a crucial mechanism through which monetary policy affects the economy
+- 09/08 12:26 [financialjuice] RBA's Hunter: effect of house price changes on consumer spending actually quite small
+- 09/08 12:26 [FirstSquawk] RBA’s Hunter says changes in house prices have a relatively small impact on consumer spending
+- 09/08 12:27 [FirstSquawk] RBA’s Hunter: No recession expected in the economy
+- 09/08 12:27 [financialjuice] RBA’s Hunter: don’t anticipate recession in economy
+- 09/08 12:29 [FirstSquawk] RBA’s Hunter: Some moderation in economic activity relative to trend is desirable
+- 09/08 12:29 [financialjuice] RBA's Hunter: We Want to See a Weaker Economy Relative to Trend
+- 09/08 12:31 [financialjuice] RBA's Hunter: aiming to cool down housing market, economy
+- 09/08 12:32 [FirstSquawk] RBA’s Hunter says the RBA is aiming to cool housing activity and the broader economy
+- 09/08 12:33 [financialjuice] Saudi-led coalition in Yemen: 73 injured in Houthi attacks on Saudi Arabia
+- 09/08 12:34 [FirstSquawk] Houthi attacks on Saudi Arabia leave 73 injured, Saudi-led Yemen coalition says
+- 09/08 12:36 [financialjuice] Saudi-led coalition in Yemen: will respond firmly to Houthi attacks
+- 09/08 12:36 [financialjuice] Saudi-led coalition in Yemen: Houthis hit civilian, economic sites in Saudi cities Abha, Khamis Mushait, Najran, and Jazan
+- 09/08 12:38 [financialjuice] RBA's Hunter: Monitoring Bathla situation, no systemic risk seen
+- 09/08 12:39 [FirstSquawk] Saudi-led coalition reports Houthi attacks on civilian and economic targets in Abha, Khamis Mushait, Najran and Jazan
+- 09/08 12:39 [FirstSquawk] Saudi-led Yemen coalition vows firm response to Houthi attacks
+- 09/08 12:40 [FirstSquawk] RBA’s Hunter says Bathla situation does not appear to pose systemic risk
+- 09/08 12:40 [financialjuice] Russian air strikes kill 2, injure 7 in Ukraine's Kyiv: officials
+- 09/08 12:42 [financialjuice] RBA’s Hunter: Board has been clear inflation is top priority
+- 09/08 12:43 [financialjuice] RBA's Hunter: July CPI data represented just one month
+- 09/08 12:43 [financialjuice] RBA’s Hunter: Board worried about inflation, has low tolerance
+- 09/08 12:44 [financialjuice] RBA's Hunter: board may need to hike rates if inflation looks set to intensify
