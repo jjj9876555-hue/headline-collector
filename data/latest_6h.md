@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 07:32 JST／対象: 09/09 01:32 〜 09/09 07:32 JST（時刻はすべて日本時間）
+生成: 2026-09-09 07:44 JST／対象: 09/09 01:44 〜 09/09 07:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/09 02:40 | 09/09 05:33 | ⚠ 105分（03:46→05:31） |
-| FirstSquawk | 91 | 09/09 01:53 | 09/09 06:40 | 27分（03:13→03:40） |
-| financialjuice | 70 | 09/09 01:52 | 09/09 07:20 | 37分（06:28→07:05） |
+| FirstSquawk | 93 | 09/09 01:53 | 09/09 07:39 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 72 | 09/09 01:52 | 09/09 07:44 | 37分（06:28→07:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 158 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -182,3 +182,7 @@
 - 09/09 07:18 [financialjuice] U.S. Central Command: U.S. warship successfully avoided Iranian attack attempts
 - 09/09 07:18 [financialjuice] U.S. Central Command: No American personnel injured
 - 09/09 07:20 [financialjuice] Amazon: GPT-6 Astra from OpenAI now accessible on Amazon Bedrock - blog
+- 09/09 07:34 [financialjuice] Google, Blackstone venture encounters delays at data-center sites
+- 09/09 07:35 [FirstSquawk] U.S. CENTRAL COMMAND SAYS ITS FORCES DESTROYED FIVE IRANIAN CRUDE OIL CARRIERS ON SEPT. 8, AFTER THE IRGC TARGETED A U.S. NAVY WARSHIP WITH BALLISTIC MISSILES TWICE OVER THE PAST TWO DAYS, WITH THE WARSHIP SUCCESSFULLY EVADING THE ATTEMPTED…
+- 09/09 07:39 [FirstSquawk] AMAZON SAYS OPENAI'S GPT-6 ASTRA IS NOW AVAILABLE ON AMAZON BEDROCK, WITH OPENAI INTRODUCING NEW ENTERPRISE PLUGINS FOR CHATGPT WORK THAT EXTEND ASTRA'S BROWSER-USE CAPABILITIES ACROSS COMMON BUSINESS APPLICATIONS
+- 09/09 07:44 [financialjuice] Iran's Revolutionary Guards: attacked alleged U.S. base in Jordan, no immediate Jordanian confirmation - Iranian state media
