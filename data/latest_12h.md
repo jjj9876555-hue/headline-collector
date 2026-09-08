@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 15:23 JST／対象: 09/08 03:23 〜 09/08 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-08 15:49 JST／対象: 09/08 03:49 〜 09/08 15:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 06:42 | 09/08 06:42 | - |
-| FirstSquawk | 163 | 09/08 04:00 | 09/08 15:23 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 127 | 09/08 04:22 | 09/08 15:05 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 167 | 09/08 04:00 | 09/08 15:46 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 129 | 09/08 04:22 | 09/08 15:45 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 291 行（統合前 291 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 297 行（統合前 297 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -315,3 +315,9 @@
 - 09/08 15:12 [FirstSquawk] Samsung Electronics, ASML expand collaboration on next-generation semiconductor manufacturing
 - 09/08 15:18 [FirstSquawk] Ukrainian attack on Russia’s Bryansk region kills 1, injures 3, acting governor says
 - 09/08 15:23 [FirstSquawk] Australia’s S&P/ASX 200 ends 1% lower at 8,920.80 points
+- 09/08 15:24 [FirstSquawk] Japan’s Nikkei drops 1.53% to 65,385.91, extending decline
+- 09/08 15:39 [FirstSquawk] ECB SET TO RAISE KEY RATE AGAIN, SIGNAL CAUTION ON FURTHER MOVES-WSJ
+- 09/08 15:45 [financialjuice] FRENCH TRADE BALANCE SA ACTUAL -6.669012B (FORECAST -, PREVIOUS -5.85B) $MACRO
+- 09/08 15:45 [financialjuice] FRENCH CURRENT ACCOUNT ACTUAL -4.7B (FORECAST -, PREVIOUS -1.4B) $MACRO
+- 09/08 15:46 [FirstSquawk] FRANE (JUL) CURRENT ACOUNT BALANCE ACTUAL: -4.7B VS -1.4B PREVIOUS
+- 09/08 15:46 [FirstSquawk] FRANE (JUL) TRADE BALANCE ACTUAL: -6669M VS -5847M PREVIOUS

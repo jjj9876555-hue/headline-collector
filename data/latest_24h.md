@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 15:23 JST／対象: 09/07 15:23 〜 09/08 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-08 15:49 JST／対象: 09/07 15:49 〜 09/08 15:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 301 | 09/07 15:30 | 09/08 15:23 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 173 | 09/07 16:00 | 09/08 15:05 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 302 | 09/07 16:01 | 09/08 15:46 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 175 | 09/07 16:00 | 09/08 15:45 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 476 行（統合前 484 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 479 行（統合前 487 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 15:30 [FirstSquawk] AUSTRALIA (Q2) FOREIGN RESERVES ACTUAL: 106.0B VS 106.7B PREVIOUS
-- 09/07 15:40 [FirstSquawk] Iran cautions South Korea over potential military presence in Strait of Hormuz
-- 09/07 15:47 [FirstSquawk] Qatar foreign ministry spokesman says US strategic alliances alone are insufficient for Gulf security
 - 09/07 16:00 [financialjuice] SWISS UNEMPLOYMENT RATE UNADJUSTED ACTUAL 3% (FORECAST 3%, PREVIOUS 3.0%) $MACRO
 - 09/07 16:00 [financialjuice] SWISS UNEMPLOYMENT RATE ADJUSTED ACTUAL 3.1% (FORECAST 3.1%, PREVIOUS 3.1%) $MACRO
 - 09/07 16:01 [FirstSquawk] SPAIN (Q2) INE HOUSE PRICE INDEX QOQ ACTUAL: 3.4% VS 3.5% PREVIOUS
@@ -500,3 +497,9 @@
 - 09/08 15:12 [FirstSquawk] Samsung Electronics, ASML expand collaboration on next-generation semiconductor manufacturing
 - 09/08 15:18 [FirstSquawk] Ukrainian attack on Russia’s Bryansk region kills 1, injures 3, acting governor says
 - 09/08 15:23 [FirstSquawk] Australia’s S&P/ASX 200 ends 1% lower at 8,920.80 points
+- 09/08 15:24 [FirstSquawk] Japan’s Nikkei drops 1.53% to 65,385.91, extending decline
+- 09/08 15:39 [FirstSquawk] ECB SET TO RAISE KEY RATE AGAIN, SIGNAL CAUTION ON FURTHER MOVES-WSJ
+- 09/08 15:45 [financialjuice] FRENCH TRADE BALANCE SA ACTUAL -6.669012B (FORECAST -, PREVIOUS -5.85B) $MACRO
+- 09/08 15:45 [financialjuice] FRENCH CURRENT ACCOUNT ACTUAL -4.7B (FORECAST -, PREVIOUS -1.4B) $MACRO
+- 09/08 15:46 [FirstSquawk] FRANE (JUL) CURRENT ACOUNT BALANCE ACTUAL: -4.7B VS -1.4B PREVIOUS
+- 09/08 15:46 [FirstSquawk] FRANE (JUL) TRADE BALANCE ACTUAL: -6669M VS -5847M PREVIOUS

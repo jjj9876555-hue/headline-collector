@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 15:23 JST／対象: 09/08 09:23 〜 09/08 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-08 15:49 JST／対象: 09/08 09:49 〜 09/08 15:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 141 | 09/08 09:24 | 09/08 15:23 | 14分（14:13→14:27） |
-| financialjuice | 88 | 09/08 09:30 | 09/08 15:05 | 40分（10:44→11:24） |
+| FirstSquawk | 128 | 09/08 09:52 | 09/08 15:46 | 15分（15:24→15:39） |
+| financialjuice | 86 | 09/08 09:51 | 09/08 15:45 | 40分（10:44→11:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 229 行（統合前 229 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 214 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 09:24 [FirstSquawk] Nikkei Falls 0.6%, Dragged by Electronics, Machinery Stocks - WSJ
-- 09/08 09:25 [FirstSquawk] Oil Rises Amid Fears of More Supply Disruptions in Middle East - WSJ
-- 09/08 09:25 [FirstSquawk] DEADLY AMAZON CARGO JET CRASH AT MIAMI AIRPORT REIGNITES DEBATE OVER MANDATORY EMAS RUNWAY SAFETY SYSTEMS AFTER FIVE PEOPLE WERE KILLED.
-- 09/08 09:25 [FirstSquawk] EMAS HAS STOPPED 26 AIRCRAFT OVERRUNS INVOLVING 497 PASSENGERS, BUT MIAMI LACKED THE SYSTEM; INVESTIGATORS WILL ASSESS WHETHER STRONGER RUNWAY-SAFETY REQUIREMENTS COULD HAVE REDUCED THE DEATH TOLL.
-- 09/08 09:30 [financialjuice] AUSTRALIAN CONSUMER SENTIMENT ACTUAL -5.2% (FORECAST -, PREVIOUS 6.0%) $MACRO
-- 09/08 09:30 [financialjuice] Australia September Westpac-MI consumer confidence index falls 5.2% to 84.4
-- 09/08 09:30 [FirstSquawk] Japan's economy grows 1.4% in April-June, revised up - KYODO
-- 09/08 09:32 [financialjuice] Explosion heard in Ukraine's Kyiv: witness source
-- 09/08 09:33 [financialjuice] Dollar/yen down 0.52% at 153.530
-- 09/08 09:33 [FirstSquawk] BLAST HEARD IN UKRAINE'S CAPITAL KYIV — REUTERS
-- 09/08 09:34 [FirstSquawk] DOLLAR/YEN DROPS 0.52% TO 153.530
-- 09/08 09:34 [FirstSquawk] EU OFFERS GREENLAND €200 MILLION OVER TWO YEARS TO STRENGTHEN TIES AS TRUMP’S PRESSURE ON THE ARCTIC ISLAND FUELS SOVEREIGNTY CONCERNS.
-- 09/08 09:34 [FirstSquawk] EUROPE ALSO PLANS TO RAISE GREENLAND FUNDING TO ~€500 MILLION FROM 2028, WHILE 11 NATO COUNTRIES BEGIN ARCTIC MILITARY EXERCISES INVOLVING ~400 PERSONNEL.
-- 09/08 09:34 [FirstSquawk] AUSTRALIA SEPT CONSUMER CONFIDENCE INDEX SLIDES 5.2% TO 84.4
-- 09/08 09:39 [FirstSquawk] GOLDMAN SACHS RAISES OIL FORECASTS BY $5/BBL AS PERSISTENT MIDDLE EAST SHIPPING DISRUPTIONS KEEP SUPPLY RISKS ELEVATED.
-- 09/08 09:39 [FirstSquawk] GOLDMAN NOW SEES BRENT AT $85 IN DEC. 2026 AND $80 IN 2027, BUT WARNS A SHARPER HORMUZ ESCALATION COULD SEND OIL TOWARD $120.
-- 09/08 09:39 [FirstSquawk] Asia-Pac equities open mostly in the red as focus shifts to Japan labour cash earnings and China trade data
-- 09/08 09:44 [FirstSquawk] SAMSUNG’S POTENTIAL BUYBACK OF PREFERRED SHARES COULD NARROW KOREA’S “PREFERRED-SHARE DISCOUNT,” WITH SAMSUNG PREFERRED STOCK TRADING ~26% BELOW COMMON SHARES. A BUYBACK COULD BOOST PER-SHARE VALUE AND AVOID VOTING-OWNERSHIP CONSTRAINTS, WH…
-- 09/08 09:47 [FirstSquawk] ASIAN STOCKS SLIP AS BRENT NEARS $98, WITH RISING MIDDLE EAST TENSIONS BOOSTING INFLATION CONCERNS AND WEIGHING ON RISK SENTIMENT. || YEN STRENGTHENS 0.4% TO 153.73 PER DOLLAR ON BOJ HIKE BETS, WHILE GOLD RISES 0.4% TO $4,422.83 AND COPPER …
-- 09/08 09:47 [FirstSquawk] Japan's real wages in July rise 2.4% on year, up for 7th straight month - kyodo
-- 09/08 09:48 [FirstSquawk] 10-year Japanese government bond yield drops 2.5 bps to 2.905%
 - 09/08 09:51 [financialjuice] Two residential buildings damaged in Ukraine's Kyiv in Russian air strike: city officials
 - 09/08 09:52 [FirstSquawk] Russian strike damages two residential buildings in Ukraine’s Kyiv, officials say
 - 09/08 09:58 [FirstSquawk] Euro holds gains above 1.1600 on ECB tightening prospects - fx
@@ -253,3 +232,9 @@
 - 09/08 15:12 [FirstSquawk] Samsung Electronics, ASML expand collaboration on next-generation semiconductor manufacturing
 - 09/08 15:18 [FirstSquawk] Ukrainian attack on Russia’s Bryansk region kills 1, injures 3, acting governor says
 - 09/08 15:23 [FirstSquawk] Australia’s S&P/ASX 200 ends 1% lower at 8,920.80 points
+- 09/08 15:24 [FirstSquawk] Japan’s Nikkei drops 1.53% to 65,385.91, extending decline
+- 09/08 15:39 [FirstSquawk] ECB SET TO RAISE KEY RATE AGAIN, SIGNAL CAUTION ON FURTHER MOVES-WSJ
+- 09/08 15:45 [financialjuice] FRENCH TRADE BALANCE SA ACTUAL -6.669012B (FORECAST -, PREVIOUS -5.85B) $MACRO
+- 09/08 15:45 [financialjuice] FRENCH CURRENT ACCOUNT ACTUAL -4.7B (FORECAST -, PREVIOUS -1.4B) $MACRO
+- 09/08 15:46 [FirstSquawk] FRANE (JUL) CURRENT ACOUNT BALANCE ACTUAL: -4.7B VS -1.4B PREVIOUS
+- 09/08 15:46 [FirstSquawk] FRANE (JUL) TRADE BALANCE ACTUAL: -6669M VS -5847M PREVIOUS
