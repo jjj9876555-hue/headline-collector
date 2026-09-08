@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 18:53 JST／対象: 09/08 12:53 〜 09/08 18:53 JST（時刻はすべて日本時間）
+生成: 2026-09-08 19:18 JST／対象: 09/08 13:18 〜 09/08 19:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 99 | 09/08 12:57 | 09/08 18:48 | 22分（15:53→16:15） |
-| financialjuice | 41 | 09/08 13:00 | 09/08 18:53 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 88 | 09/08 13:29 | 09/08 19:16 | 22分（15:53→16:15） |
+| financialjuice | 39 | 09/08 13:30 | 09/08 19:00 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 141 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 128 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 12:57 [FirstSquawk] British Pound drifts higher to near 1.3550 on UK fiscal discipline pledges - FX
-- 09/08 13:00 [financialjuice] Swedish single-family home prices rise 3.9% in June-August versus year earlier, Svensk maklarstatistik data shows
-- 09/08 13:00 [financialjuice] Swedish apartment prices rose 4.8% in June-August versus same period a year earlier, svensk maklarstatistik data shows
-- 09/08 13:02 [financialjuice] Anthropic and OpenAI financiers seek prime credit ratings after IPO - FT
-- 09/08 13:02 [FirstSquawk] Global shipping rules are collapsing, say maritime nations - FT
-- 09/08 13:03 [FirstSquawk] Merz’s CDU in crisis after far-right victory in Saxony-Anhalt - FT
-- 09/08 13:03 [FirstSquawk] Apollo premium’ drives up debt costs for group’s portfolio companies - FT
-- 09/08 13:03 [FirstSquawk] Hedge fund Millennium seeks tax deal to boost Geneva presence - FT
-- 09/08 13:04 [FirstSquawk] EU opens door to bigger corporate mergers - FT
-- 09/08 13:04 [FirstSquawk] Britain’s grid operator gave Palantir contract without inviting rival bids - FT
-- 09/08 13:05 [FirstSquawk] Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - FT
-- 09/08 13:05 [FirstSquawk] European ‘wealth’ threatened by decline of region’s carmakers - FT
-- 09/08 13:10 [FirstSquawk] 30-year JGB yield declines 6.0 basis points to 3.960%
-- 09/08 13:11 [FirstSquawk] UK retail sales growth slows to 4-month low in August, BRC says - RTRS
-- 09/08 13:13 [FirstSquawk] China's exports soar 25% in August; trade surplus tops $800bn - NA
-- 09/08 13:14 [FirstSquawk] Chinese PLA aircraft to headline Egypt air show in display of export potential -SCMP
-- 09/08 13:15 [FirstSquawk] Canada’s tariffs on about $20 billion in U.S. goods have taken effect, responding to President Trump’s latest tariffs - AP
 - 09/08 13:29 [FirstSquawk] Xinhua says all bodies retrieved following Tibet mudslide are non-foreign nationals
 - 09/08 13:30 [financialjuice] DUTCH CPI MOM ACTUAL 0.3% (FORECAST -, PREVIOUS 1.6%) $MACRO
 - 09/08 13:30 [financialjuice] DUTCH CPI YOY ACTUAL 3.3% (FORECAST -, PREVIOUS 3.2%) $MACRO
@@ -165,3 +148,7 @@
 - 09/08 18:47 [FirstSquawk] HAUSER STATES THAT HOUSING IS A "FACTOR" BUT NOT THE PRIMARY ISSUE FOR THE RBA.
 - 09/08 18:48 [FirstSquawk] BARCLAYS CUTS AMPHENOL TARGET PRICE TO $100 FROM $200
 - 09/08 18:53 [financialjuice] RBA's Hauser: We have not arrived at point where we have to raise rates sharply.
+- 09/08 19:00 [financialjuice] US NFIB BUSINESS OPTIMISM INDEX ACTUAL 98.7 (FORECAST 99.3, PREVIOUS 99.80) $MACRO
+- 09/08 19:00 [FirstSquawk] FOUR SAUDI AIRSTRIKES HIT YEMEN'S MARIB, HOUTHI-RUN AL MASIRAH TV SAYS
+- 09/08 19:06 [FirstSquawk] UBER FILES FOR EURO-DENOMINATED FIVE PARTS SENIOR NOTES OFFERING; SIZE NOT DISCLOSED - SEC FILING
+- 09/08 19:16 [FirstSquawk] MERCK & CO INC : GUGGENHEIM RAISES TARGET PRICE TO $170 FROM $146
