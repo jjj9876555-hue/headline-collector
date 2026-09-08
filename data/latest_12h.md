@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 23:54 JST／対象: 09/08 11:54 〜 09/08 23:54 JST（時刻はすべて日本時間）
+生成: 2026-09-09 00:19 JST／対象: 09/08 12:19 〜 09/09 00:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/08 17:32 | 09/08 23:50 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 193 | 09/08 11:58 | 09/08 23:52 | 22分（15:53→16:15） |
-| financialjuice | 124 | 09/08 12:23 | 09/08 23:53 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 214 | 09/08 12:23 | 09/09 00:14 | 22分（15:53→16:15） |
+| financialjuice | 150 | 09/08 12:23 | 09/09 00:18 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 319 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 366 行（統合前 371 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 11:58 [FirstSquawk] Seoul stocks open higher as AI optimism returns
-- 09/08 11:59 [FirstSquawk] Malaysia's Anwar targets cost-of-living woes after election setbacks - NA
-- 09/08 12:12 [FirstSquawk] N. Korea, Russia open 1st cross-border road bridge amid deepening ties - YONHAP
-- 09/08 12:16 [FirstSquawk] Asian Stock Markets Mixed as Investors Look to U.S. CPI Data - WSJ
-- 09/08 12:16 [FirstSquawk] Indonesia agency says Anak Krakatau eruptions could still disrupt flights based on wind direction and ash altitude
-- 09/08 12:18 [FirstSquawk] Indonesia agency: Anak Krakatau eruptions on Tuesday were less intense than last week’s
-- 09/08 12:18 [FirstSquawk] Indonesia agency says Tuesday’s eruptions were less significant than earlier activity and will continue monitoring
 - 09/08 12:23 [financialjuice] Reserve Bank of Australia Assistant Governor Hunter: Housing market crucial transition channel for monetary policy
 - 09/08 12:23 [FirstSquawk] RBA Assistant Governor Hunter: Housing market is a crucial mechanism through which monetary policy affects the economy
 - 09/08 12:26 [financialjuice] RBA's Hunter: effect of house price changes on consumer spending actually quite small
@@ -343,3 +336,57 @@
 - 09/08 23:52 [FirstSquawk] BESSENT BELIEVES THEY WILL OVERCOME THE TRADE DISPUTE WITH CANADA.
 - 09/08 23:52 [financialjuice] US Treasury Secretary Bessent: I think we will get through the Canada trade spat.
 - 09/08 23:53 [financialjuice] US Treasury Secretary Bessent: A Canada trade war would add 0.02% to US inflation.
+- 09/08 23:55 [FirstSquawk] TRUMP REPEATS THAT IRAN WILL NEVER OBTAIN A NUCLEAR WEAPON.
+- 09/08 23:55 [FirstSquawk] TRUMP SAYS THE BLOCKADE ON IRAN HAS BEEN 'HIGHLY EFFECTIVE.'
+- 09/08 23:58 [financialjuice] Trump: US Commerce Secretary Lutnick has some faults but is excellent overall.
+- 09/08 23:58 [financialjuice] US Treasury Secretary Bessent repeats on inflation: There's short-term energy spike.
+- 09/08 23:59 [FirstSquawk] TRUMP SAYS LUTNICK HAS 'A FEW FAULTS' BUT IS EXCELLENT OVERALL.
+- 09/08 23:59 [FirstSquawk] BESSENT SAYS INFLATION PERSISTS, ENERGY PRICES RISE SHORT-TERM.
+- 09/08 23:59 [FirstSquawk] CANADIAN DOLLAR REDUCES DAY'S PROFITS FOLLOWING TRUMP'S REMARKS.
+- 09/09 00:00 [financialjuice] NY FED 1 YR INFLATION EXPECTATIONS ACTUAL 3.58% (FORECAST 3.6%, PREVIOUS 3.63%) $MACRO
+- 09/09 00:01 [financialjuice] NY Fed: US 5-year inflation expectations unchanged in august at 3%.
+- 09/09 00:01 [financialjuice] NY Fed: 3-year-ahead expected inflation at 3.2% in august versus July's 3.3%.
+- 09/09 00:01 [financialjuice] NY Fed: Expectations in August of higher unemployment rate were highest since April 2020.
+- 09/09 00:02 [financialjuice] NY Fed: Labor market expectations were mixed in August.
+- 09/09 00:02 [financialjuice] NY Fed: Consumers in August projected higher future gasoline prices.
+- 09/09 00:02 [FirstSquawk] NEW YORK FED REPORTS EXPECTED INFLATION FOR FIVE YEARS AHEAD REMAINS STEADY AT 3% IN AUGUST.
+- 09/09 00:02 [FirstSquawk] NEW YORK FED REPORTS THAT EXPECTED INFLATION FOR ONE YEAR AHEAD REMAINS AT 3.6% IN AUGUST.
+- 09/09 00:02 [financialjuice] NY Fed: Views about current and future personal financial situations deteriorated in August.
+- 09/09 00:02 [FirstSquawk] NEW YORK FED REPORTS EXPECTED INFLATION FOR THREE YEARS AHEAD AT 3.2% IN AUGUST, DOWN FROM 3.3% IN JULY.
+- 09/09 00:02 [FirstSquawk] NEW YORK FED REPORTS THAT EXPECTATIONS FOR A RISE IN UNEMPLOYMENT RATE IN AUGUST WERE THE HIGHEST SINCE APRIL 2020.
+- 09/09 00:02 [FirstSquawk] NEW YORK FED REPORTS AUGUST LABOR MARKET EXPECTATIONS WERE 'MIXED.'
+- 09/09 00:02 [FirstSquawk] NEW YORK FED REPORTS CONSUMERS EXPECTED RISING GASOLINE PRICES IN AUGUST.
+- 09/09 00:02 [FirstSquawk] NEW YORK FED REPORTS THAT PERCEPTIONS OF CURRENT AND FUTURE PERSONAL FINANCIAL CONDITIONS WORSENED IN AUGUST.
+- 09/09 00:03 [financialjuice] NY Fed Survey Of Consumer Expectations
+- 09/09 00:03 [financialjuice] Trump touts the stock market and economic data.
+- 09/09 00:04 [financialjuice] US Treasury Secretary Bessent: I will unveil something on the government next week.
+- 09/09 00:04 [financialjuice] US Treasury Secretary Bessent hints at a coming government modernization initiative.
+- 09/09 00:06 [financialjuice] The EU and Canada plan far-reaching deal to strengthen partnership. The European Union and Canada are pursuing a new, all-encompassing relationship that will cover everything from trade to security, as the transatlantic partners seek to for…
+- 09/09 00:08 [financialjuice] US Treasury Secretary Bessent: I expect that the economy will pull more people back to workforce.
+- 09/09 00:08 [FirstSquawk] TRUMP PROMOTES STOCK MARKET AND ECONOMIC STATISTICS.
+- 09/09 00:08 [FirstSquawk] U.S. SECRETARY OF STATE RUBIO AIMS TO FINALIZE GOOD TRADE AGREEMENTS WITH COLOMBIA, ECUADOR, AND PERU DURING HIS VISITS.
+- 09/09 00:08 [FirstSquawk] RUBIO STATED THAT VENEZUELAN OIL IS CONTROLLED BY CHINA, RUSSIA, AND IRAN.
+- 09/09 00:08 [FirstSquawk] BESSENT WILL REVEAL SOMETHING ABOUT THE GOVERNMENT NEXT WEEK.
+- 09/09 00:08 [FirstSquawk] BESSENT SUGGESTS UPCOMING GOVERNMENT MODERNIZATION PLAN.
+- 09/09 00:09 [FirstSquawk] BESSENT TO REVEAL SOMETHING ABOUT THE GOVERNMENT NEXT WEEK.
+- 09/09 00:09 [FirstSquawk] RUBIO SAYS VENEZUELA'S OIL FIELDS WILL BE PRODUCTIVE ONCE MORE.
+- 09/09 00:09 [FirstSquawk] EU AND CANADA ANNOUNCE EXTENSIVE AGREEMENT TO BOOST COLLABORATION.
+- 09/09 00:09 [FirstSquawk] BESSENT BELIEVES THE ECONOMY WILL BRING MORE PEOPLE BACK TO WORK.
+- 09/09 00:09 [financialjuice] US Treasury Secretary Bessent: We're now seeing China's manufacturing jobs go down.
+- 09/09 00:10 [FirstSquawk] BESSENT SAYS CHINA'S MANUFACTURING JOBS ARE DECREASING.
+- 09/09 00:11 [financialjuice] US Treasury Secretary Bessent: The rest of the world is waking up on China.
+- 09/09 00:12 [financialjuice] US Treasury Secretary Bessent: We want to work with the EU and Canada on China.
+- 09/09 00:12 [financialjuice] US Treasury Secretary Bessent: Wew want to work with the G7 plus and others on China trade.
+- 09/09 00:12 [FirstSquawk] BESSENT SAYS THE WORLD IS REALIZING THE IMPORTANCE OF CHINA.
+- 09/09 00:12 [FirstSquawk] BESSENT STATED A DESIRE TO COLLABORATE WITH THE EU AND CANADA REGARDING CHINA.
+- 09/09 00:13 [FirstSquawk] BESSENT EXPRESSES DESIRE TO COLLABORATE WITH G-7 AND OTHER NATIONS ON TRADE WITH CHINA.
+- 09/09 00:14 [FirstSquawk] BESSENT SAYS WITHOUT DIALOGUE WITH RUSSIA, THE UKRAINE WAR CANNOT BE STOPPED.
+- 09/09 00:14 [FirstSquawk] EUROPEANS ARE UNWILLING TO GET INVOLVED IN THE RUSSIA-UKRAINE CONFLICT, SAYS BESSENT.
+- 09/09 00:14 [FirstSquawk] BESSENT SAYS UKRAINE HAS A FUTURE.
+- 09/09 00:15 [financialjuice] US Treasury Secretary Bessent: Europeans don't want to engage on Russia-Ukraine.
+- 09/09 00:15 [financialjuice] US Treasury Secretary Bessent: There is a path for Ukraine.
+- 09/09 00:16 [financialjuice] Fed bids for 6-month bills total $6.1 bln.
+- 09/09 00:16 [financialjuice] Fed bids for 3-month bills total $7.1 bln.
+- 09/09 00:16 [financialjuice] US Treasury Secretary Bessent: Oil to be well supplied when the Iran and Ukraine wars are over.
+- 09/09 00:17 [financialjuice] US Treasury Secretary Bessent: We want Europe to do better, we're pulling for our allies.
+- 09/09 00:18 [financialjuice] Trump ends remarks at the event in DC.
