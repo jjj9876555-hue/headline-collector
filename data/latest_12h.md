@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 03:21 JST／対象: 09/08 15:21 〜 09/09 03:21 JST（時刻はすべて日本時間）
+生成: 2026-09-09 03:39 JST／対象: 09/08 15:39 〜 09/09 03:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/08 17:32 | 09/09 02:40 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 210 | 09/08 15:23 | 09/09 03:13 | 28分（01:25→01:53） |
-| financialjuice | 156 | 09/08 15:45 | 09/09 03:12 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 208 | 09/08 15:39 | 09/09 03:13 | 28分（01:25→01:53） |
+| financialjuice | 161 | 09/08 15:45 | 09/09 03:37 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 368 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 371 行（統合前 378 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 15:23 [FirstSquawk] Australia’s S&P/ASX 200 ends 1% lower at 8,920.80 points
-- 09/08 15:24 [FirstSquawk] Japan’s Nikkei drops 1.53% to 65,385.91, extending decline
 - 09/08 15:39 [FirstSquawk] ECB SET TO RAISE KEY RATE AGAIN, SIGNAL CAUTION ON FURTHER MOVES-WSJ
 - 09/08 15:45 [financialjuice] FRENCH TRADE BALANCE SA ACTUAL -6.669012B (FORECAST -, PREVIOUS -5.85B) $MACRO
 - 09/08 15:45 [financialjuice] FRENCH CURRENT ACCOUNT ACTUAL -4.7B (FORECAST -, PREVIOUS -1.4B) $MACRO
@@ -392,3 +390,8 @@
 - 09/09 03:02 [FirstSquawk] U.S. MILITARY UNDERWATER DRONE MALFUNCTIONED MORE THAN A DAY AGO IN THE MIDDLE EAST, A U.S. OFFICIAL SAYS, ADDING THAT THE DEFECTIVE DRONE WAS AN OLDER MODEL THAT WAS NOT CARRYING ANY CLASSIFIED SONAR OR RADAR EQUIPMENT
 - 09/09 03:04 [FirstSquawk] RUSSIA'S LAVROV SAYS PUTIN, TRUMP AND XI MAY MEET AT APEC IN NOVEMBER - IFX
 - 09/09 03:12 [financialjuice/FirstSquawk] USTR Greer and Canada's Leblanc to speak today -Radio-Canada
+- 09/09 03:31 [financialjuice] NYMEX WTI crude October futures settle at $93.03 a barrel, up $1.55, 1.69%.
+- 09/09 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.2525 a gallon.
+- 09/09 03:32 [financialjuice] NYMEX Diesel October futures settle at $4.5678 a gallon.
+- 09/09 03:33 [financialjuice] NYMEX Natural Gas October futures settle at $2.9160/MMBTU.
+- 09/09 03:37 [financialjuice] OpenAI: images 2.5 is available to all ChatGPT, ChatGPT Work, & Codex users across desktop, mobile, & web.

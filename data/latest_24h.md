@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 03:21 JST／対象: 09/08 03:21 〜 09/09 03:21 JST（時刻はすべて日本時間）
+生成: 2026-09-09 03:39 JST／対象: 09/08 03:39 〜 09/09 03:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 06:42 | 09/09 02:40 | ⚠ 649分（06:42→17:32） |
 | FirstSquawk | 372 | 09/08 04:00 | 09/09 03:13 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 283 | 09/08 04:22 | 09/09 03:12 | ⚠ 170分（04:54→07:45） |
+| financialjuice | 288 | 09/08 04:22 | 09/09 03:37 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 658 行（統合前 665 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 663 行（統合前 670 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -682,3 +682,8 @@
 - 09/09 03:02 [FirstSquawk] U.S. MILITARY UNDERWATER DRONE MALFUNCTIONED MORE THAN A DAY AGO IN THE MIDDLE EAST, A U.S. OFFICIAL SAYS, ADDING THAT THE DEFECTIVE DRONE WAS AN OLDER MODEL THAT WAS NOT CARRYING ANY CLASSIFIED SONAR OR RADAR EQUIPMENT
 - 09/09 03:04 [FirstSquawk] RUSSIA'S LAVROV SAYS PUTIN, TRUMP AND XI MAY MEET AT APEC IN NOVEMBER - IFX
 - 09/09 03:12 [financialjuice/FirstSquawk] USTR Greer and Canada's Leblanc to speak today -Radio-Canada
+- 09/09 03:31 [financialjuice] NYMEX WTI crude October futures settle at $93.03 a barrel, up $1.55, 1.69%.
+- 09/09 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.2525 a gallon.
+- 09/09 03:32 [financialjuice] NYMEX Diesel October futures settle at $4.5678 a gallon.
+- 09/09 03:33 [financialjuice] NYMEX Natural Gas October futures settle at $2.9160/MMBTU.
+- 09/09 03:37 [financialjuice] OpenAI: images 2.5 is available to all ChatGPT, ChatGPT Work, & Codex users across desktop, mobile, & web.
