@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 06:03 JST／対象: 09/08 06:03 〜 09/09 06:03 JST（時刻はすべて日本時間）
+生成: 2026-09-09 06:19 JST／対象: 09/08 06:19 〜 09/09 06:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/08 06:42 | 09/09 05:33 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 413 | 09/08 08:36 | 09/09 05:54 | 28分（01:25→01:53） |
-| financialjuice | 315 | 09/08 07:45 | 09/09 06:02 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 420 | 09/08 08:36 | 09/09 06:14 | 28分（01:25→01:53） |
+| financialjuice | 328 | 09/08 07:45 | 09/09 06:19 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 731 行（統合前 741 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 750 行（統合前 761 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -755,3 +755,22 @@
 - 09/09 05:33 [FirstSquawk] COMMODITIES: WTI CLIMBS 2.8% TO $94.08/BBL, WHILE SPOT GOLD SLIDES 1% TO $4,360.27/OZ AMID HEIGHTENED GEOPOLITICAL TENSIONS.
 - 09/09 05:54 [FirstSquawk] UAE PRESIDENT SHEIKH MOHAMMED BIN ZAYED REPORTEDLY WARNED NETANYAHU ABOUT A MAJOR PLANNED HAMAS OPERATION DAYS BEFORE OCT. 7, ACCORDING TO HAARETZ. NETANYAHU’S OFFICE DENIES THE REPORT AS AN “ABSOLUTE LIE,” WHILE THE ALLEGATION REIGNITES PO…
 - 09/09 06:02 [financialjuice] Chile's central bank: will take necessary steps to ensure projected inflation hits 3% over two-year period
+- 09/09 06:04 [financialjuice] Chile’s central bank: local economy may regain strength by 2027 but current weakness could last longer than expected
+- 09/09 06:05 [financialjuice] South Korea presidential office: South Korea, France discussed roles in Strait of Hormuz security, not troop deployment
+- 09/09 06:05 [financialjuice] South Korea presidential office: Iran expresses interest, requests clarifications on reports about South Korea Hormuz involvement
+- 09/09 06:07 [financialjuice] Gundlach: Fed funds need to rise 50 basis points
+- 09/09 06:07 [financialjuice] Gundlach: US yields set to keep rising
+- 09/09 06:07 [financialjuice] DoubleLine's Gundlach in webcast: avoid exposure to 30-year bonds globally
+- 09/09 06:07 [financialjuice] Gundlach: US two-year yield and Fed funds rate misaligned
+- 09/09 06:07 [financialjuice] South Korea presidential office: review of South Korea role in Strait of Hormuz unrelated to U.S. investment discussions
+- 09/09 06:07 [FirstSquawk] U.S. PRESIDENT DONALD TRUMP ACCUSED CANADA OF BLOCKING U.S. DAIRY EXPORTS AND BARRING AMERICAN COMPANIES FROM CANADIAN GOVERNMENT PROCUREMENT MARKETS, WHILE CANADIAN PRODUCTS RETAIN BROAD ACCESS TO U.S. GOVERNMENT CONTRACTS. - TRUTH SOCIAL
+- 09/09 06:07 [FirstSquawk] TRUMP SAID HE IS DIRECTING THE GENERAL SERVICES ADMINISTRATION (GSA) AND U.S. TRADE REPRESENTATIVE (USTR) TO REMOVE CANADIAN-ORIGIN PRODUCTS FROM GSA'S MULTIPLE AWARD SCHEDULES, A PROCUREMENT SYSTEM WORTH MORE THAN $50 BILLION ANNUALLY. - T…
+- 09/09 06:08 [FirstSquawk] TRUMP CLAIMED THE MEASURE HAD BEEN IN PLACE UNDER EARLIER ADMINISTRATIONS BUT WAS LATER REVERSED UNDER PRESIDENT BIDEN, VOWING NO ACCESS FOR CANADA WITHOUT RECIPROCITY FOR AMERICAN FARMERS AND BUSINESSES. - TRUTH SOCIAL
+- 09/09 06:08 [financialjuice/FirstSquawk] Security, prosperity top priorities for US-Colombia ties: Secretary of State Marco Rubio after meeting Colombia president
+- 09/09 06:12 [FirstSquawk] SOUTH KOREA AND FRANCE DISCUSS CONTRIBUTIONS TO STRAIT OF HORMUZ SECURITY, BUT SEOUL SAYS TROOP DEPLOYMENT WAS NOT DISCUSSED. - SOUTH KOREA PRESIDENTIAL OFFICE
+- 09/09 06:12 [FirstSquawk] SOUTH KOREA SAYS IRAN HAS SOUGHT CLARIFICATION OVER REPORTS OF A SOUTH KOREAN ROLE, WHILE THE HORMUZ REVIEW IS NOT LINKED TO US INVESTMENT TALKS. - SOUTH KOREA PRESIDENTIAL OFFICE
+- 09/09 06:14 [FirstSquawk] DOUBLELINE'S GUNDLACH: US 2-YEAR YIELD & FED FUNDS RATE ARE OUT OF SYNC, WITH FED FUNDS RATE 50BPS TOO LOW; WARNS INVESTORS TO AVOID 30-YEAR BONDS GLOBALLY AS US YIELDS CONTINUE TO RISE.
+- 09/09 06:17 [financialjuice] Colombia aims to be US top partner in fight against drug trafficking: President Abelardo de la Espriella after Rubio meeting
+- 09/09 06:18 [financialjuice] Colombia president De La Espriella: country requires US aid on radar, planes and other fronts to combat crime
+- 09/09 06:19 [financialjuice] Colombia president de la Espriella: willing to meet annual security goals in anti-drug partnership
+- 09/09 06:19 [financialjuice] Mark Stevens reports sale of 1.02 million Nvidia shares between Sept. 3 and Sept. 4, price range $227.25 to $234.04 per share
