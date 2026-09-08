@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 03:39 JST／対象: 09/08 15:39 〜 09/09 03:39 JST（時刻はすべて日本時間）
+生成: 2026-09-09 03:55 JST／対象: 09/08 15:55 〜 09/09 03:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/08 17:32 | 09/09 02:40 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 208 | 09/08 15:39 | 09/09 03:13 | 28分（01:25→01:53） |
-| financialjuice | 161 | 09/08 15:45 | 09/09 03:37 | ⚠ 56分（15:45→16:42） |
+| DeItaone | 9 | 09/08 17:32 | 09/09 03:46 | ⚠ 273分（17:32→22:06） |
+| FirstSquawk | 217 | 09/08 16:15 | 09/09 03:55 | 28分（01:25→01:53） |
+| financialjuice | 165 | 09/08 16:42 | 09/09 03:51 | 40分（16:42→17:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 371 行（統合前 378 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 385 行（統合前 392 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 15:39 [FirstSquawk] ECB SET TO RAISE KEY RATE AGAIN, SIGNAL CAUTION ON FURTHER MOVES-WSJ
-- 09/08 15:45 [financialjuice] FRENCH TRADE BALANCE SA ACTUAL -6.669012B (FORECAST -, PREVIOUS -5.85B) $MACRO
-- 09/08 15:45 [financialjuice] FRENCH CURRENT ACCOUNT ACTUAL -4.7B (FORECAST -, PREVIOUS -1.4B) $MACRO
-- 09/08 15:46 [FirstSquawk] FRANE (JUL) CURRENT ACOUNT BALANCE ACTUAL: -4.7B VS -1.4B PREVIOUS
-- 09/08 15:46 [FirstSquawk] FRANE (JUL) TRADE BALANCE ACTUAL: -6669M VS -5847M PREVIOUS
-- 09/08 15:53 [FirstSquawk] Polish Air Force ends response operations over Russian strikes on Ukraine; no airspace violations detected, Polish Army says
 - 09/08 16:15 [FirstSquawk] NOVARTIS SHARES FALL 10% AFTER THIRD TRIAL SETBACK IN A WEEK
 - 09/08 16:17 [FirstSquawk] Audi CEO: VW Weighs Selling Ducati Motorcycle Unit In Broad Review
 - 09/08 16:20 [FirstSquawk] BRITISH DIPLOMATS HAVE PRIVATELY ASSURED THE US THAT NEW SANCTIONS ON ISRAELI SETTLEMENTS ARE LARGELY SYMBOLIC AND WILL NOT MATERIALLY AFFECT UK-ISRAEL TRADE OR SECURITY TIES.
@@ -395,3 +389,23 @@
 - 09/09 03:32 [financialjuice] NYMEX Diesel October futures settle at $4.5678 a gallon.
 - 09/09 03:33 [financialjuice] NYMEX Natural Gas October futures settle at $2.9160/MMBTU.
 - 09/09 03:37 [financialjuice] OpenAI: images 2.5 is available to all ChatGPT, ChatGPT Work, & Codex users across desktop, mobile, & web.
+- 09/09 03:40 [FirstSquawk] NYMEX WTI CRUDE OCTOBER FUTURES SETTLE AT $93.03 A BARREL, UP $1.55, OR 1.69%, WITH NATURAL GAS OCTOBER FUTURES AT $2.9160/MMBTU, DIESEL AT $4.5678 A GALLON AND GASOLINE AT $3.2525 A GALLON
+- 09/09 03:41 [FirstSquawk] US CRUDE OIL FUTURES CLOSE AT $93.03/BBL, GAIN $1.55, RISING 1.69%
+- 09/09 03:42 [financialjuice] Anthropic is severing ties with the information technology industry council over legislation that would curb foreign access to US Chips - Axios
+- 09/09 03:42 [FirstSquawk] OPENAI: IMAGES 2.5 ROLLS OUT GLOBALLY FOR CHATGPT, CHATGPT WORK & CODEX USERS ON DESKTOP, MOBILE & WEB
+- 09/09 03:43 [FirstSquawk] ANTHROPIC DROPS IT INDUSTRY COUNCIL MEMBERSHIP OVER PROPOSED RULES RESTRICTING FOREIGN ACCESS TO US CHIPS - AXIOS
+- 09/09 03:43 [FirstSquawk] UK NATS: TECHNICAL GLITCH RESOLVED, AIR TRAFFIC OPERATIONS BACK TO NORMAL
+- 09/09 03:44 [FirstSquawk] EBAY CEO: AI BOOSTS US LISTINGS PER SELLER BY 50%
+- 09/09 03:44 [FirstSquawk] EBAY CEO: VEHICLES BUSINESS QUICKLY REACHES HUNDREDS OF MILLIONS OF DOLLARS IN RUN-RATE
+- 09/09 03:44 [FirstSquawk] EBAY CEO: VEHICLES & EBAY LIVE EMERGE AS NEW GROWTH DRIVERS FOR COMPANY – GOLDMAN SACHS CONFERENCE
+- 09/09 03:45 [FirstSquawk] IRAN PRESIDENT TO TRAVEL TO INDIA THIS WEEK FOR BRICS SUMMIT - IRIB NEWS
+- 09/09 03:46 [DeItaone] IRAN'S JOINT MILITARY COMMAND SAYS IT WILL 'HEAVILY TARGET' U.S. INTERESTS IN THE MIDDLE EAST IF IRANIAN VESSELS ARE ATTACKED - STATE MEDIA
+- 09/09 03:46 [financialjuice] Iran's Joint Military Command: Will 'heavily target’ US Interests in the Middle East if Iranian vessels are attacked - State Media
+- 09/09 03:47 [financialjuice] Iran President to visit India for BRICS summit this week - IRIB
+- 09/09 03:50 [financialjuice] ❗ Explosions heard on Iran's Kharg Island - Mehr
+- 09/09 03:50 [FirstSquawk] BRENT CRUDE FUTURES END AT $97.92/BBL, GAIN 92 CENTS, RISING 0.95%
+- 09/09 03:50 [financialjuice] ❗ Explosion sounds heard in Iran's Kharg Island, no official announcement yet - Iran's Mehr News Agency
+- 09/09 03:51 [financialjuice] Brent crude futures settle at $97.92/bbl, up 92 cents, 0.95%.
+- 09/09 03:52 [FirstSquawk] EXPLOSION SOUNDS REPORTED ON IRAN’S KHARG ISLAND; NO OFFICIAL CONFIRMATION YET: MEHR NEWS AGENCY
+- 09/09 03:53 [FirstSquawk] SPOT GOLD SLIDES NEARLY 1% TO $4,361.99/OZ
+- 09/09 03:55 [FirstSquawk] MULTIPLE EXPLOSIONS HEARD NEAR KHARG ISLAND ANCHORAGE, A KEY IRANIAN OIL EXPORT HUB; CAUSE, ORIGIN & ANY POTENTIAL DAMAGE REMAIN UNCONFIRMED. - MEHR NEWS AGENCY
