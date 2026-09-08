@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 17:07 JST／対象: 09/08 11:07 〜 09/08 17:07 JST（時刻はすべて日本時間）
+生成: 2026-09-08 17:27 JST／対象: 09/08 11:27 〜 09/08 17:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 107 | 09/08 11:08 | 09/08 16:48 | 22分（15:53→16:15） |
-| financialjuice | 68 | 09/08 11:24 | 09/08 16:42 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 107 | 09/08 11:28 | 09/08 17:25 | 22分（15:53→16:15） |
+| financialjuice | 68 | 09/08 11:28 | 09/08 17:22 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 175 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 11:08 [FirstSquawk] Yen surges to six-month high as traders stay alert for signs of intervention - FT
-- 09/08 11:14 [FirstSquawk] Samsung SDS to expand partnerships with OpenAI, Anthropic to drive AI transformation - YONHAP
-- 09/08 11:18 [FirstSquawk] IAEA says S. Korea notifies intent to consult on safeguards arrangement for nuclear-powered subs - YONHAP
-- 09/08 11:24 [financialjuice] Dollar/yen down 0.9% to 152.95
-- 09/08 11:24 [FirstSquawk] Dollar/yen declines 0.90% to 152.95
 - 09/08 11:28 [financialjuice] Hormuz traffic slows at start of week as Middle East tensions escalate, shipping data shows
 - 09/08 11:28 [FirstSquawk] Strait of Hormuz traffic slows as Middle East tensions intensify, shipping data shows
 - 09/08 11:29 [FirstSquawk] XPeng puts humanoid robot production lines into operation and completes first advanced robot
@@ -199,3 +194,8 @@
 - 09/08 16:43 [FirstSquawk] HOUTHIS CLAIM TARGETING ARAMCO IN JAZAN
 - 09/08 16:43 [FirstSquawk] BRITAIN'S GOVERNMENT ANNOUNCED ON TUESDAY IT IS COMMITTING £100 MILLION ($135 MILLION) TO BOOST UKRAINE'S AIR DEFENCE CAPABILITIES THIS WINTER, INCLUDING WITH PATRIOT MISSILES
 - 09/08 16:48 [FirstSquawk] AUSTRALIAN DOLLAR ROSE TO A FRESH 13-YEAR HIGH AGAINST THE NEW ZEALAND KIWI
+- 09/08 17:09 [FirstSquawk] GERMAN INTERIOR MINISTER ALEXANDER DOBRINDT: WHOEVER IS ATTACKING OUR INFRASTRUCTURE HAS TO KNOW: WE CAN STRIKE BACK, AND WE CAN DISRUPT AND DESTROY THEIR INFRASTRUCTURE. WE WILL NOT ALLOW OURSELVES, AS A SOCIETY, TO BE PERMANENTLY PUT UNDE…
+- 09/08 17:09 [FirstSquawk] UAE DIRECTLY WARNED NETANYAHU BEFORE OCT. 7, HE DISREGARDED IT UAE PRESIDENT WARNED NETANYAHU ABOUT A MAJOR OPERATION BEING PREPARED BY HAMAS ROUGHLY 10 DAYS BEFORE THE ATTACK. NETANYAHU PLAYED DOWN THE THREAT AND DID NOT BRIEF ISRAEL’S SEC…
+- 09/08 17:17 [FirstSquawk] AMAZON ENGAGES BANKS FOR ITS FIRST STERLING BOND SALE.
+- 09/08 17:22 [financialjuice] German Finance Minister Klingbeil: Special fund opponents are the very same people whose ideology has ensured that our country’s infrastructure has been neglected for far too long.
+- 09/08 17:25 [FirstSquawk] KREMLIN SPOKESPERSON: PUTIN AND INDIAN PM MODI WILL HAVE BILATERAL TALKS
