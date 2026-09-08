@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 13:35 JST／対象: 09/07 13:35 〜 09/08 13:35 JST（時刻はすべて日本時間）
+生成: 2026-09-08 13:52 JST／対象: 09/07 13:52 〜 09/08 13:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 299 | 09/07 13:46 | 09/08 13:34 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 162 | 09/07 14:05 | 09/08 13:30 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 305 | 09/07 13:58 | 09/08 13:52 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 163 | 09/07 14:05 | 09/08 13:43 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 463 行（統合前 471 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 470 行（統合前 478 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 13:46 [FirstSquawk] JAPAN’S FOREIGN RESERVES FELL A RECORD $79.6 BILLION IN AUGUST, THE "LARGEST-EVER" AFTER TOKYO SPENT A RECORD AMOUNT BUYING YEN - KALSHI
-- 09/07 13:48 [FirstSquawk] JOHN TERNUS’S FIRST TEST AT APPLE IS SELLING A $2,000 FOLDABLE IPHONE – FT
-- 09/07 13:48 [FirstSquawk] ESSILORLUXOTTICA OVERHAULS MANAGEMENT AFTER RIFT WITH FOUNDER’S SON – FT
 - 09/07 13:58 [FirstSquawk] Danske maintains eurozone unemployment forecasts at 6.4% for 2026 and 2027
 - 09/07 14:02 [FirstSquawk] JAPAN (JUL) LEADING INDEX CI ACTUAL: 117.9 VS 116.5 PREVIOUS;EST 118.0
 - 09/07 14:02 [FirstSquawk] JAPAN (JUL) COINCIDENT INDEX ACTUAL: 120.6 VS 118.5 PREVIOUS;EST 120.2
@@ -487,3 +484,13 @@
 - 09/08 13:30 [financialjuice] DUTCH CPI YOY ACTUAL 3.3% (FORECAST -, PREVIOUS 3.2%) $MACRO
 - 09/08 13:30 [financialjuice] Dutch Aug CPI rises 3.3% y/y after 3.2% in July: CBS
 - 09/08 13:34 [FirstSquawk] JPMorgan lowers FedEx target price to $400 from $460
+- 09/08 13:37 [FirstSquawk] Singapore Dollar Strengthens Slightly - WSJ
+- 09/08 13:40 [FirstSquawk] Singapore government accepts recommendations to raise ministers’ salaries, PM says
+- 09/08 13:40 [FirstSquawk] Singapore to raise junior ministers’ pay to S$1.8 mln from S$1.1 mln, PM says
+- 09/08 13:40 [FirstSquawk] Floods dash Nepal's China trade hopes, entrench reliance on India - NA
+- 09/08 13:41 [FirstSquawk] Singapore PM: Prime minister’s salary set to increase by S$1.4 mln to S$3.6 mln
+- 09/08 13:41 [FirstSquawk] Singapore PM says lawmakers’ monthly salaries will increase to S$18,500 from S$13,500
+- 09/08 13:42 [FirstSquawk] Singapore PM says political office holders will not get the new salary immediately, with one-off adjustments of up to 9%
+- 09/08 13:43 [financialjuice] Censof Holdings Bhd: Century Software named Microsoft reseller for cloud, productivity and security solutions in Malaysia
+- 09/08 13:44 [FirstSquawk] Singapore PM says subsequent salary changes will depend on individual performance and responsibilities, with no further adjustment to reach S$1.8 mln
+- 09/08 13:52 [FirstSquawk] Japan's April-June economic growth revised up to 1.4% on narrower investment decline - KYODO
