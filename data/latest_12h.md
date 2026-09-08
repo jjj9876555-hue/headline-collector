@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 22:23 JST／対象: 09/08 10:23 〜 09/08 22:23 JST（時刻はすべて日本時間）
+生成: 2026-09-08 22:40 JST／対象: 09/08 10:40 〜 09/08 22:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/08 17:32 | 09/08 22:09 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 199 | 09/08 10:28 | 09/08 22:11 | 22分（15:53→16:15） |
-| financialjuice | 128 | 09/08 10:30 | 09/08 22:15 | ⚠ 56分（15:45→16:42） |
+| DeItaone | 4 | 09/08 17:32 | 09/08 22:39 | ⚠ 273分（17:32→22:06） |
+| FirstSquawk | 196 | 09/08 10:40 | 09/08 22:36 | 22分（15:53→16:15） |
+| financialjuice | 131 | 09/08 10:40 | 09/08 22:38 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 328 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 327 行（統合前 332 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 10:28 [FirstSquawk] Yen Strengthens Further; Sentiment Toward Currency Has ‘Materially’ Shifted - WSJ
-- 09/08 10:28 [FirstSquawk] JGB Futures Rise as Yen’s Strength Seen Easing Inflationary Pressures - WSJ
-- 09/08 10:30 [financialjuice] Australia Aug business confidence index declines to -8 from -7 in July: NAB
-- 09/08 10:30 [financialjuice] Australia aug business conditions index drops to -1 from +4 in july: nab
-- 09/08 10:30 [FirstSquawk] Australia August business conditions deteriorate to -1 from +4 in July — NAB
-- 09/08 10:31 [FirstSquawk] Australia August business confidence weakens to -8 from -7 in July — NAB
-- 09/08 10:32 [FirstSquawk] Dollar/yen slides 0.6% to 153.410
-- 09/08 10:32 [financialjuice] Dollar/yen drops 0.6% to 153.410 in last trading
-- 09/08 10:34 [financialjuice] Japan finance minister Katayama: will intensify efforts to obtain financing for food consumption tax reduction
-- 09/08 10:35 [FirstSquawk] Japan Finance Minister Katayama: Efforts to secure funding for food tax cut will be stepped up
-- 09/08 10:35 [financialjuice] Japan finance minister Katayama: will adequately regulate new bond issuance for full fiscal year
-- 09/08 10:36 [FirstSquawk] Japan Finance Minister Katayama: Will manage new bond issuance appropriately throughout fiscal year
-- 09/08 10:36 [financialjuice] Japan finance minister Katayama: will engage openly with markets, public to build trust in fiscal policy
-- 09/08 10:36 [FirstSquawk] 10-year JGB yield declines 3.5 bps to 2.895%
-- 09/08 10:36 [FirstSquawk] Japan Finance Minister Katayama: Full communication with markets and public needed to gain fiscal policy credibility
-- 09/08 10:37 [financialjuice] Japan finmin Katayama: declines to comment on specific FX levels
-- 09/08 10:38 [financialjuice] Japan finance minister Katayama: no change to forex policy since Japan-US joint intervention
-- 09/08 10:38 [financialjuice] Japan finance minister Katayama: will coordinate closely with U.S. to ensure orderly forex markets
-- 09/08 10:39 [FirstSquawk] Japan Finance Minister Katayama: FX policy stance unchanged since Japan-US joint intervention
-- 09/08 10:39 [FirstSquawk] Japan Finance Minister Katayama: Will maintain close communication with U.S. to achieve orderly FX markets
 - 09/08 10:40 [FirstSquawk] Japan Finance Minister Katayama: Stresses importance of mortgage lenders understanding risks from higher rates through bank communication
 - 09/08 10:40 [financialjuice] Japan finance minister Katayama: mortgage lenders must grasp risks of rising interest rates through talks with banks
 - 09/08 10:41 [financialjuice] China foreign ministry: China's special envoy for Afghanistan holds talks in Pakistan, Saudi Arabia
@@ -352,3 +332,22 @@
 - 09/08 22:09 [financialjuice] Bank of America: If Middle East skirmishes continue into year end, brent could trade in a $95-120/bbl range.
 - 09/08 22:11 [FirstSquawk] IRANIAN AIR DEFENSE FORCES IDENTIFIED AND TARGETED A US DRONE OVER THE STRAIT OF HORMUZ, THE IRGC-AFFILIATED FARS NEWS AGENCY REPORTED ON TUESDAY. FARS SAID THE OPERATION WAS CARRIED OUT BY AIR DEFENSE UNITS OF IRAN'S REGULAR MILITARY IN TH…
 - 09/08 22:15 [financialjuice] German Economy Ministry: German gas storage levels in range of 60-70% at the start of winter, with import options sufficient to meet expected winter demand - Document.
+- 09/08 22:23 [financialjuice] BoE Gov. Bailey: The US-Iran war has led to high energy prices, they could be higher still.
+- 09/08 22:24 [FirstSquawk] BAILEY: ENERGY PRICES COULD GO EVEN HIGHER DUE TO US-IRAN WAR
+- 09/08 22:25 [FirstSquawk] BOE'S BAILEY: UKRAINIAN ATTACKS ON RUSSIAN REFINERIES ALSO PUSHING UP COST OF REFINED OIL PRODUCTS
+- 09/08 22:26 [financialjuice] BoE Gov. Bailey: The Ukrainian attacks on Russian refineries are pushing up cost of refined oil products.
+- 09/08 22:29 [financialjuice] NATO Sec. Gen. Rutte: Nations have no choice but to dig deeper to support Ukraine.
+- 09/08 22:29 [FirstSquawk] NATO'S RUTTE: NATIONS HAVE NO CHOICE BUT TO DIG DEEPER TO SUPPORT UKRAINE
+- 09/08 22:29 [FirstSquawk] UK FOREIGN OFFICE:SUMMONS SERBIAN AMBASSADOR TO CONDEMN COMMEMORATIONS SURROUNDING THE FUNERAL OF CONVICTED WAR CRIMINAL RATKO MLADIC
+- 09/08 22:30 [financialjuice] BoE’s Greene: The length of time that oil prices have been high worries me about 2nd round effects down the line.
+- 09/08 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -301.5 MLN NASDAQ 100: -28.9 MLN DOW 30: -56.6 MLN MAG 7: -9.2 MLN $MACRO
+- 09/08 22:31 [FirstSquawk] DOW JONES DOWN 429.11 POINTS, OR 0.80 PERCENT, AT 52,985.14 AFTER MARKET OPEN NASDAQ UP 27.79 POINTS, OR 0.11 PERCENT, AT 26,534.78 AFTER MARKET OPEN S&P 500 DOWN 6.66 POINTS, OR 0.09 PERCENT, AT 7,711.94 AFTER MARKET OPEN
+- 09/08 22:32 [financialjuice] BoE's Ramsden: The domestic inflation position is relatively benign.
+- 09/08 22:33 [financialjuice/FirstSquawk/DeItaone] US Defense Official: We must be prepared for a protracted conflict in Ukraine.
+- 09/08 22:33 [financialjuice] BoE's Ramsden: I get reassurance on inflation from the labour market.
+- 09/08 22:33 [financialjuice] BoE's Ramsden: UK wages have come in below what we expected before conflict.
+- 09/08 22:34 [financialjuice] BoE's Ramsden: Global inflationary picture is much more of upside inflation risk.
+- 09/08 22:35 [FirstSquawk] SENIOR PENTAGON OFFICIAL: U.S. BELIEVES ALLIES CAN AND WILL LEAD UKRAINE'S SELF-DEFENSE
+- 09/08 22:36 [FirstSquawk] UKRAINE IS CONTRACTING SUPPLY OF ABOUT 1,000 MISSILES FROM ALLIES, DEFENCE MINISTER SAYS
+- 09/08 22:36 [financialjuice] BoE's Ramsden: I am comfortable with policy but I am very conscious of upside risk.
+- 09/08 22:38 [financialjuice] BoE Gov. Bailey: The rise in UK mortgage rates is larger than almost anywhere in the G7.

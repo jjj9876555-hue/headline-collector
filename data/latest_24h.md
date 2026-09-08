@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 22:23 JST／対象: 09/07 22:23 〜 09/08 22:23 JST（時刻はすべて日本時間）
+生成: 2026-09-08 22:40 JST／対象: 09/07 22:40 〜 09/08 22:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 09/08 00:17 | 09/08 22:09 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 290 | 09/07 22:26 | 09/08 22:11 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 192 | 09/07 22:45 | 09/08 22:15 | ⚠ 170分（04:54→07:45） |
+| DeItaone | 13 | 09/08 00:17 | 09/08 22:39 | ⚠ 649分（06:42→17:32） |
+| FirstSquawk | 291 | 09/07 22:41 | 09/08 22:36 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 204 | 09/07 22:45 | 09/08 22:38 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 491 行（統合前 495 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 503 行（統合前 509 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 22:26 [FirstSquawk] TRAFFIC DIVERGES ACROSS CHOKEPOINTS: MARITIME TRAFFIC TRENDS DIVERGED SHARPLY ACROSS THE STRAIT OF HORMUZ AND BAB EL-MANDEB. HORMUZ CROSSINGS FELL 28% TO 77, WITH LADEN VOYAGES DECLINING FROM 45 TO 33. SANCTIONED AND SHADOW FLEET CROSSINGS …
-- 09/07 22:26 [FirstSquawk] BAB EL-MANDEB MOVED IN THE OPPOSITE DIRECTION. CROSSINGS RECOVERED 9.7% TO 248 AND LADEN TRAFFIC ROSE FROM 103 TO 109. DARK TRANSITS HELD NEAR 23 AND TSS ADHERENCE REMAINED AROUND 91%. THE DATA POINTS TO GROWING PRESSURE ON GULF SHIPPING, W…
-- 09/07 22:26 [FirstSquawk] IRAQ STRUGGLES TO SELL OIL FROM BASRA AFTER HIKING ITS PRICES - BBG
-- 09/07 22:29 [FirstSquawk] CHINA ASKS AUTOMAKERS TO PRIORITIZE QUALITY AND SAFETY DESPITE RAPID DEVELOPMENT.
-- 09/07 22:36 [FirstSquawk] LABOUR ANNOUNCES A BY-ELECTION FOR HOLBORN AND ST PANCRAS ON OCTOBER 8.
-- 09/07 22:37 [FirstSquawk] TRAFFIC THROUGH THE STRAIT OF HORMUZ HAS FALLEN TO ITS LOWEST LEVEL SINCE MAY, WITH SHIPPING DATA SHOWING AN AVERAGE OF 10 VESSELS A DAY TRANSITING THE WATERWAY ON SUNDAY, REUTERS REPORTED, CITING ANALYTICS FIRM KPLER.
-- 09/07 22:38 [FirstSquawk] ONLY TWO VESSELS PASSED THROUGH THE STRAIT ON SATURDAY AND SIX ON SUNDAY, MOSTLY USING THE IRANIAN ROUTE, ACCORDING TO REUTERS. THE 10-DAY AVERAGE STOOD AT 13 VESSELS ON SATURDAY, DOWN FROM MORE THAN 15 ON FRIDAY.
 - 09/07 22:41 [FirstSquawk] OIL TANKER FIRE OFF KHARG ISLAND EXTINGUISHED, NO OIL LEAK - FARS
 - 09/07 22:45 [financialjuice] Russian Foreign Ministry closes the German consulate in St. Petersburg - Ria.
 - 09/07 22:51 [FirstSquawk] SERBIA'S GOVERNMENT SEEKS DISSOLUTION OF PARLIAMENT, TO PAVE THE WAY FOR SNAP ELECTIONS
@@ -515,3 +508,22 @@
 - 09/08 22:09 [financialjuice] Bank of America: If Middle East skirmishes continue into year end, brent could trade in a $95-120/bbl range.
 - 09/08 22:11 [FirstSquawk] IRANIAN AIR DEFENSE FORCES IDENTIFIED AND TARGETED A US DRONE OVER THE STRAIT OF HORMUZ, THE IRGC-AFFILIATED FARS NEWS AGENCY REPORTED ON TUESDAY. FARS SAID THE OPERATION WAS CARRIED OUT BY AIR DEFENSE UNITS OF IRAN'S REGULAR MILITARY IN TH…
 - 09/08 22:15 [financialjuice] German Economy Ministry: German gas storage levels in range of 60-70% at the start of winter, with import options sufficient to meet expected winter demand - Document.
+- 09/08 22:23 [financialjuice] BoE Gov. Bailey: The US-Iran war has led to high energy prices, they could be higher still.
+- 09/08 22:24 [FirstSquawk] BAILEY: ENERGY PRICES COULD GO EVEN HIGHER DUE TO US-IRAN WAR
+- 09/08 22:25 [FirstSquawk] BOE'S BAILEY: UKRAINIAN ATTACKS ON RUSSIAN REFINERIES ALSO PUSHING UP COST OF REFINED OIL PRODUCTS
+- 09/08 22:26 [financialjuice] BoE Gov. Bailey: The Ukrainian attacks on Russian refineries are pushing up cost of refined oil products.
+- 09/08 22:29 [financialjuice] NATO Sec. Gen. Rutte: Nations have no choice but to dig deeper to support Ukraine.
+- 09/08 22:29 [FirstSquawk] NATO'S RUTTE: NATIONS HAVE NO CHOICE BUT TO DIG DEEPER TO SUPPORT UKRAINE
+- 09/08 22:29 [FirstSquawk] UK FOREIGN OFFICE:SUMMONS SERBIAN AMBASSADOR TO CONDEMN COMMEMORATIONS SURROUNDING THE FUNERAL OF CONVICTED WAR CRIMINAL RATKO MLADIC
+- 09/08 22:30 [financialjuice] BoE’s Greene: The length of time that oil prices have been high worries me about 2nd round effects down the line.
+- 09/08 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -301.5 MLN NASDAQ 100: -28.9 MLN DOW 30: -56.6 MLN MAG 7: -9.2 MLN $MACRO
+- 09/08 22:31 [FirstSquawk] DOW JONES DOWN 429.11 POINTS, OR 0.80 PERCENT, AT 52,985.14 AFTER MARKET OPEN NASDAQ UP 27.79 POINTS, OR 0.11 PERCENT, AT 26,534.78 AFTER MARKET OPEN S&P 500 DOWN 6.66 POINTS, OR 0.09 PERCENT, AT 7,711.94 AFTER MARKET OPEN
+- 09/08 22:32 [financialjuice] BoE's Ramsden: The domestic inflation position is relatively benign.
+- 09/08 22:33 [financialjuice/FirstSquawk/DeItaone] US Defense Official: We must be prepared for a protracted conflict in Ukraine.
+- 09/08 22:33 [financialjuice] BoE's Ramsden: I get reassurance on inflation from the labour market.
+- 09/08 22:33 [financialjuice] BoE's Ramsden: UK wages have come in below what we expected before conflict.
+- 09/08 22:34 [financialjuice] BoE's Ramsden: Global inflationary picture is much more of upside inflation risk.
+- 09/08 22:35 [FirstSquawk] SENIOR PENTAGON OFFICIAL: U.S. BELIEVES ALLIES CAN AND WILL LEAD UKRAINE'S SELF-DEFENSE
+- 09/08 22:36 [FirstSquawk] UKRAINE IS CONTRACTING SUPPLY OF ABOUT 1,000 MISSILES FROM ALLIES, DEFENCE MINISTER SAYS
+- 09/08 22:36 [financialjuice] BoE's Ramsden: I am comfortable with policy but I am very conscious of upside risk.
+- 09/08 22:38 [financialjuice] BoE Gov. Bailey: The rise in UK mortgage rates is larger than almost anywhere in the G7.
