@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 07:44 JST／対象: 09/09 01:44 〜 09/09 07:44 JST（時刻はすべて日本時間）
+生成: 2026-09-09 07:58 JST／対象: 09/09 01:58 〜 09/09 07:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/09 02:40 | 09/09 05:33 | ⚠ 105分（03:46→05:31） |
-| FirstSquawk | 93 | 09/09 01:53 | 09/09 07:39 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 72 | 09/09 01:52 | 09/09 07:44 | 37分（06:28→07:05） |
+| FirstSquawk | 95 | 09/09 02:02 | 09/09 07:53 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 78 | 09/09 02:00 | 09/09 07:57 | 37分（06:28→07:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 01:52 [financialjuice] ❗ Al Hadath, citing Iranian Media: Tehran demands new conditions from Washington to resume negotiations.
-- 09/09 01:53 [FirstSquawk] IRANIAN MEDIA: TEHRAN DEMANDS NEW CONDITIONS FROM WASHINGTON TO RESUME NEGOTIATIONS.
 - 09/09 02:00 [financialjuice] Treasury WI 3-Year yield 4.475% before $58 billion auction.
 - 09/09 02:01 [financialjuice] Alerts activated in Saudi Arabia's Jazan - Civil Defence.
 - 09/09 02:02 [FirstSquawk] ALERTS ACTIVATED IN JAZAN, SAUDI ARABIA - CIVIL DEFENCE
@@ -186,3 +184,13 @@
 - 09/09 07:35 [FirstSquawk] U.S. CENTRAL COMMAND SAYS ITS FORCES DESTROYED FIVE IRANIAN CRUDE OIL CARRIERS ON SEPT. 8, AFTER THE IRGC TARGETED A U.S. NAVY WARSHIP WITH BALLISTIC MISSILES TWICE OVER THE PAST TWO DAYS, WITH THE WARSHIP SUCCESSFULLY EVADING THE ATTEMPTED…
 - 09/09 07:39 [FirstSquawk] AMAZON SAYS OPENAI'S GPT-6 ASTRA IS NOW AVAILABLE ON AMAZON BEDROCK, WITH OPENAI INTRODUCING NEW ENTERPRISE PLUGINS FOR CHATGPT WORK THAT EXTEND ASTRA'S BROWSER-USE CAPABILITIES ACROSS COMMON BUSINESS APPLICATIONS
 - 09/09 07:44 [financialjuice] Iran's Revolutionary Guards: attacked alleged U.S. base in Jordan, no immediate Jordanian confirmation - Iranian state media
+- 09/09 07:45 [financialjuice] Iran’s Revolutionary Guards: attack in retaliation for US strikes on Iranian oil tankers - Iranian state media
+- 09/09 07:45 [FirstSquawk] IRAN'S REVOLUTIONARY GUARDS SAY THEY ATTACKED WHAT THEY DESCRIBED AS A U.S. BASE IN JORDAN, IN RETALIATION FOR U.S. ATTACKS ON IRANIAN OIL TANKERS, WITH NO IMMEDIATE JORDANIAN CONFIRMATION - IRANIAN STATE MEDIA
+- 09/09 07:52 [FirstSquawk] UKMTO SAYS IT HAS RECEIVED A REPORT INVOLVING A MERCHANT VESSEL IN THE STRAIT OF HORMUZ, WITH THE VESSEL SUBJECT TO INTERACTION AS PART OF ONGOING MILITARY ACTIVITY IN THE REGION
+- 09/09 07:53 [FirstSquawk] WHITE HOUSE SAYS THE U.S. IS EXCLUDING SOME CANADIAN ALCOHOLIC BEVERAGES FROM IMPORTATION, ACCUSING CANADA OF DISCRIMINATING AGAINST U.S. ALCOHOLIC BEVERAGES, AND IS MODIFYING THE SCOPE OF PRODUCTS SUBJECT TO CANADA DUTIES
+- 09/09 07:54 [financialjuice] White House: excluding specific Canadian goods from US imports
+- 09/09 07:54 [financialjuice] White House issues proclamation on barring certain Canadian products from U.S. imports
+- 09/09 07:55 [financialjuice] White House: Trump signs proclamation altering scope of Canadian goods subject to extra motor vehicle tariffs
+- 09/09 07:56 [financialjuice] White House: Certain Canadian alcoholic drinks barred from US imports starting 12:01 a.m. ET September 29, 2026
+- 09/09 07:56 [financialjuice] White House: products subject to import ban in this proclamation imported but not yet entered or withdrawn for consumption prior to Sep
+- 09/09 07:57 [financialjuice] White House: goods imported but not entered for consumption or withdrawn from warehouse before Sept. 29, 2026, will remain subject to 50% tariff

@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 07:44 JST／対象: 09/08 19:44 〜 09/09 07:44 JST（時刻はすべて日本時間）
+生成: 2026-09-09 07:58 JST／対象: 09/08 19:58 〜 09/09 07:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 22:06 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 214 | 09/08 19:47 | 09/09 07:39 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 193 | 09/08 19:45 | 09/09 07:44 | 37分（06:28→07:05） |
+| FirstSquawk | 215 | 09/08 20:00 | 09/09 07:53 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 197 | 09/08 20:18 | 09/09 07:57 | 37分（06:28→07:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 406 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 412 行（統合前 423 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 19:45 [financialjuice] UK's Chancellor Healey: Starting to see UK economy turn a corner.
-- 09/08 19:45 [financialjuice/FirstSquawk] BNP Paribas expects BoE to hike interest rates by 25 bp in November 2026 vs prior forecast of a hike in September this year.
-- 09/08 19:45 [financialjuice] UK's Chancellor Healey: UK growth still fragile, borrowing still too high.
-- 09/08 19:47 [FirstSquawk] UK CHANCELLOR: STARTING TO SEE UK ECONOMY TURN A CORNER
 - 09/08 20:00 [FirstSquawk] HEALEY SEES SIGNS OF IMPROVEMENT IN THE UK ECONOMY.
 - 09/08 20:06 [FirstSquawk] UK HAS RECORDED ITS HIGHEST BOND SALE YIELD SINCE 1998.
 - 09/08 20:12 [FirstSquawk] INDIA, CHINA ARMY COMMANDERS HELD BORDER TALKS ON SUNDAY: FOREIGN MINISTRY
@@ -430,3 +426,13 @@
 - 09/09 07:35 [FirstSquawk] U.S. CENTRAL COMMAND SAYS ITS FORCES DESTROYED FIVE IRANIAN CRUDE OIL CARRIERS ON SEPT. 8, AFTER THE IRGC TARGETED A U.S. NAVY WARSHIP WITH BALLISTIC MISSILES TWICE OVER THE PAST TWO DAYS, WITH THE WARSHIP SUCCESSFULLY EVADING THE ATTEMPTED…
 - 09/09 07:39 [FirstSquawk] AMAZON SAYS OPENAI'S GPT-6 ASTRA IS NOW AVAILABLE ON AMAZON BEDROCK, WITH OPENAI INTRODUCING NEW ENTERPRISE PLUGINS FOR CHATGPT WORK THAT EXTEND ASTRA'S BROWSER-USE CAPABILITIES ACROSS COMMON BUSINESS APPLICATIONS
 - 09/09 07:44 [financialjuice] Iran's Revolutionary Guards: attacked alleged U.S. base in Jordan, no immediate Jordanian confirmation - Iranian state media
+- 09/09 07:45 [financialjuice] Iran’s Revolutionary Guards: attack in retaliation for US strikes on Iranian oil tankers - Iranian state media
+- 09/09 07:45 [FirstSquawk] IRAN'S REVOLUTIONARY GUARDS SAY THEY ATTACKED WHAT THEY DESCRIBED AS A U.S. BASE IN JORDAN, IN RETALIATION FOR U.S. ATTACKS ON IRANIAN OIL TANKERS, WITH NO IMMEDIATE JORDANIAN CONFIRMATION - IRANIAN STATE MEDIA
+- 09/09 07:52 [FirstSquawk] UKMTO SAYS IT HAS RECEIVED A REPORT INVOLVING A MERCHANT VESSEL IN THE STRAIT OF HORMUZ, WITH THE VESSEL SUBJECT TO INTERACTION AS PART OF ONGOING MILITARY ACTIVITY IN THE REGION
+- 09/09 07:53 [FirstSquawk] WHITE HOUSE SAYS THE U.S. IS EXCLUDING SOME CANADIAN ALCOHOLIC BEVERAGES FROM IMPORTATION, ACCUSING CANADA OF DISCRIMINATING AGAINST U.S. ALCOHOLIC BEVERAGES, AND IS MODIFYING THE SCOPE OF PRODUCTS SUBJECT TO CANADA DUTIES
+- 09/09 07:54 [financialjuice] White House: excluding specific Canadian goods from US imports
+- 09/09 07:54 [financialjuice] White House issues proclamation on barring certain Canadian products from U.S. imports
+- 09/09 07:55 [financialjuice] White House: Trump signs proclamation altering scope of Canadian goods subject to extra motor vehicle tariffs
+- 09/09 07:56 [financialjuice] White House: Certain Canadian alcoholic drinks barred from US imports starting 12:01 a.m. ET September 29, 2026
+- 09/09 07:56 [financialjuice] White House: products subject to import ban in this proclamation imported but not yet entered or withdrawn for consumption prior to Sep
+- 09/09 07:57 [financialjuice] White House: goods imported but not entered for consumption or withdrawn from warehouse before Sept. 29, 2026, will remain subject to 50% tariff

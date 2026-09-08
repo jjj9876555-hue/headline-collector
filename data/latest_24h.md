@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 07:44 JST／対象: 09/08 07:44 〜 09/09 07:44 JST（時刻はすべて日本時間）
+生成: 2026-09-09 07:58 JST／対象: 09/08 07:58 〜 09/09 07:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 430 | 09/08 08:36 | 09/09 07:39 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 339 | 09/08 07:45 | 09/09 07:44 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 433 | 09/08 08:36 | 09/09 07:53 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 344 | 09/08 08:00 | 09/09 07:57 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 769 行（統合前 781 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 777 行（統合前 789 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 07:45 [financialjuice] NEW ZEALAND MANUFACTURING SALES ACTUAL 0.8% (FORECAST -, PREVIOUS 3.6%) $MACRO
-- 09/08 07:45 [financialjuice] New Zealand 2-year swap-adjusted manufacturing sales volumes rise 0.8% on previous quarter
 - 09/08 08:00 [financialjuice] S. KOREAN GDP YOY REVISED ACTUAL 3.7% (FORECAST 3.7%, PREVIOUS 3.7%) $MACRO
 - 09/08 08:00 [financialjuice] S. KOREAN GDP QOQ REVISED ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS 0.6%) $MACRO
 - 09/08 08:00 [financialjuice] S. Korea revised Q2 private consumption 0.4% q/q vs 0.4% estimated earlier: central bank
@@ -793,3 +791,13 @@
 - 09/09 07:35 [FirstSquawk] U.S. CENTRAL COMMAND SAYS ITS FORCES DESTROYED FIVE IRANIAN CRUDE OIL CARRIERS ON SEPT. 8, AFTER THE IRGC TARGETED A U.S. NAVY WARSHIP WITH BALLISTIC MISSILES TWICE OVER THE PAST TWO DAYS, WITH THE WARSHIP SUCCESSFULLY EVADING THE ATTEMPTED…
 - 09/09 07:39 [FirstSquawk] AMAZON SAYS OPENAI'S GPT-6 ASTRA IS NOW AVAILABLE ON AMAZON BEDROCK, WITH OPENAI INTRODUCING NEW ENTERPRISE PLUGINS FOR CHATGPT WORK THAT EXTEND ASTRA'S BROWSER-USE CAPABILITIES ACROSS COMMON BUSINESS APPLICATIONS
 - 09/09 07:44 [financialjuice] Iran's Revolutionary Guards: attacked alleged U.S. base in Jordan, no immediate Jordanian confirmation - Iranian state media
+- 09/09 07:45 [financialjuice] Iran’s Revolutionary Guards: attack in retaliation for US strikes on Iranian oil tankers - Iranian state media
+- 09/09 07:45 [FirstSquawk] IRAN'S REVOLUTIONARY GUARDS SAY THEY ATTACKED WHAT THEY DESCRIBED AS A U.S. BASE IN JORDAN, IN RETALIATION FOR U.S. ATTACKS ON IRANIAN OIL TANKERS, WITH NO IMMEDIATE JORDANIAN CONFIRMATION - IRANIAN STATE MEDIA
+- 09/09 07:52 [FirstSquawk] UKMTO SAYS IT HAS RECEIVED A REPORT INVOLVING A MERCHANT VESSEL IN THE STRAIT OF HORMUZ, WITH THE VESSEL SUBJECT TO INTERACTION AS PART OF ONGOING MILITARY ACTIVITY IN THE REGION
+- 09/09 07:53 [FirstSquawk] WHITE HOUSE SAYS THE U.S. IS EXCLUDING SOME CANADIAN ALCOHOLIC BEVERAGES FROM IMPORTATION, ACCUSING CANADA OF DISCRIMINATING AGAINST U.S. ALCOHOLIC BEVERAGES, AND IS MODIFYING THE SCOPE OF PRODUCTS SUBJECT TO CANADA DUTIES
+- 09/09 07:54 [financialjuice] White House: excluding specific Canadian goods from US imports
+- 09/09 07:54 [financialjuice] White House issues proclamation on barring certain Canadian products from U.S. imports
+- 09/09 07:55 [financialjuice] White House: Trump signs proclamation altering scope of Canadian goods subject to extra motor vehicle tariffs
+- 09/09 07:56 [financialjuice] White House: Certain Canadian alcoholic drinks barred from US imports starting 12:01 a.m. ET September 29, 2026
+- 09/09 07:56 [financialjuice] White House: products subject to import ban in this proclamation imported but not yet entered or withdrawn for consumption prior to Sep
+- 09/09 07:57 [financialjuice] White House: goods imported but not entered for consumption or withdrawn from warehouse before Sept. 29, 2026, will remain subject to 50% tariff
