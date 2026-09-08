@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 08:16 JST／対象: 09/08 08:16 〜 09/09 08:16 JST（時刻はすべて日本時間）
+生成: 2026-09-09 08:31 JST／対象: 09/08 08:31 〜 09/09 08:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 435 | 09/08 08:36 | 09/09 07:59 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 343 | 09/08 08:29 | 09/09 08:15 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 439 | 09/08 08:36 | 09/09 08:23 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 337 | 09/08 08:50 | 09/09 08:15 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 778 行（統合前 790 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 775 行（統合前 788 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 08:29 [financialjuice] Argentina to file criminal charges against Navitas Oil and executives for operating in Falkland Islands: statement
-- 09/08 08:30 [financialjuice] JAPANESE AVERAGE CASH EARNINGS YOY ACTUAL 4.7% (FORECAST 3.8%, PREVIOUS 3.4%4.0%) $MACRO
-- 09/08 08:30 [financialjuice] JAPANESE OVERTIME PAY ACTUAL 3.1% (FORECAST -, PREVIOUS 2.8% ,REVISION 3.4%) $MACRO
-- 09/08 08:30 [financialjuice] Japan July overtime pay rises 3.1% year-on-year: government
-- 09/08 08:30 [financialjuice] Japan July total cash earnings rise 4.7% year on year: govt
-- 09/08 08:30 [financialjuice] Japan July inflation-adjusted real wages rise 2.4% yr/yr: govt
 - 09/08 08:36 [FirstSquawk] JAPAN'S JULY TOTAL CASH EARNINGS ROSE 4.7% YEAR-ON-YEAR, ABOVE THE 3.8% FORECAST, WITH INFLATION-ADJUSTED REAL WAGES UP 2.4% AND OVERTIME PAY UP 3.1% - GOVT
 - 09/08 08:50 [financialjuice] ❗ JAPANESE CURRENT ACCOUNT NSA YEN ACTUAL 2988.9B (FORECAST 2849.5B, PREVIOUS -92.3B) $MACRO
 - 09/08 08:50 [financialjuice] ‼ BREAKING: JAPANESE GDP REV QOQ ANNUALISED ACTUAL 1.4% (FORECAST 1.8%, PREVIOUS 1.1%) $MACRO
@@ -800,5 +794,8 @@
 - 09/09 08:08 [financialjuice] Senior Trump administration official: import restrictions on Canadian goods effective in about three weeks
 - 09/09 08:11 [financialjuice] Senior Trump administration official: Trump’s stance on Jan. 1, 2027, auto tariff hike remains in effect
 - 09/09 08:12 [financialjuice] Senior Trump administration official: U.S. held talks with Canada's Minister LeBlanc over past few days
-- 09/09 08:15 [financialjuice] Iran’s Revolutionary Guards: ballistic missile strike on two U.S. destroyers - Iranian state media
+- 09/09 08:15 [financialjuice/FirstSquawk] Iran’s Revolutionary Guards: ballistic missile strike on two U.S. destroyers - Iranian state media
 - 09/09 08:15 [financialjuice] Mexico economy minister: U.S. commerce secretary to visit Mexico City Wednesday for meeting with President Sheinbaum
+- 09/09 08:18 [FirstSquawk] SENIOR TRUMP ADMINISTRATION OFFICIAL SAYS TRUMP HAS SIGNED A SERIES OF PROCLAMATIONS REGARDING CANADA TRADE ACTIONS, BANNING THE IMPORTATION OF DAIRY PRODUCTS, MOST ALCOHOLIC PRODUCTS AND MOTORCYCLES FROM CANADA UNDER SECTION 338, WITH THE …
+- 09/09 08:18 [FirstSquawk] SENIOR TRUMP ADMINISTRATION OFFICIAL SAYS TRUMP'S POSITION ON THE JANUARY 1, 2027 AUTO TARIFF INCREASE IS STILL IN EFFECT, THAT THE U.S. HAS HAD CONVERSATIONS WITH CANADA'S MINISTER LEBLANC OVER THE PAST COUPLE OF DAYS, AND THAT TRUMP IS RE…
+- 09/09 08:23 [FirstSquawk] RUSSIA IS EXPECTED TO PROLONG THE UKRAINE WAR INTO 2027 AS PEACE TALKS STALL, WITH PUTIN BELIEVED TO BE WAITING FOR A STRONGER MILITARY AND POLITICAL POSITION BEFORE SERIOUS NEGOTIATIONS. WESTERN OFFICIALS WARN MOSCOW WILL INTENSIFY WINTER …

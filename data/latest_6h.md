@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 08:16 JST／対象: 09/09 02:16 〜 09/09 08:16 JST（時刻はすべて日本時間）
+生成: 2026-09-09 08:31 JST／対象: 09/09 02:31 〜 09/09 08:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/09 02:40 | 09/09 05:33 | ⚠ 105分（03:46→05:31） |
-| FirstSquawk | 94 | 09/09 02:33 | 09/09 07:59 | ⚠ 55分（06:40→07:35） |
+| FirstSquawk | 98 | 09/09 02:33 | 09/09 08:23 | ⚠ 55分（06:40→07:35） |
 | financialjuice | 82 | 09/09 02:35 | 09/09 08:15 | 37分（06:28→07:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 173 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 176 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -195,5 +195,8 @@
 - 09/09 08:08 [financialjuice] Senior Trump administration official: import restrictions on Canadian goods effective in about three weeks
 - 09/09 08:11 [financialjuice] Senior Trump administration official: Trump’s stance on Jan. 1, 2027, auto tariff hike remains in effect
 - 09/09 08:12 [financialjuice] Senior Trump administration official: U.S. held talks with Canada's Minister LeBlanc over past few days
-- 09/09 08:15 [financialjuice] Iran’s Revolutionary Guards: ballistic missile strike on two U.S. destroyers - Iranian state media
+- 09/09 08:15 [financialjuice/FirstSquawk] Iran’s Revolutionary Guards: ballistic missile strike on two U.S. destroyers - Iranian state media
 - 09/09 08:15 [financialjuice] Mexico economy minister: U.S. commerce secretary to visit Mexico City Wednesday for meeting with President Sheinbaum
+- 09/09 08:18 [FirstSquawk] SENIOR TRUMP ADMINISTRATION OFFICIAL SAYS TRUMP HAS SIGNED A SERIES OF PROCLAMATIONS REGARDING CANADA TRADE ACTIONS, BANNING THE IMPORTATION OF DAIRY PRODUCTS, MOST ALCOHOLIC PRODUCTS AND MOTORCYCLES FROM CANADA UNDER SECTION 338, WITH THE …
+- 09/09 08:18 [FirstSquawk] SENIOR TRUMP ADMINISTRATION OFFICIAL SAYS TRUMP'S POSITION ON THE JANUARY 1, 2027 AUTO TARIFF INCREASE IS STILL IN EFFECT, THAT THE U.S. HAS HAD CONVERSATIONS WITH CANADA'S MINISTER LEBLANC OVER THE PAST COUPLE OF DAYS, AND THAT TRUMP IS RE…
+- 09/09 08:23 [FirstSquawk] RUSSIA IS EXPECTED TO PROLONG THE UKRAINE WAR INTO 2027 AS PEACE TALKS STALL, WITH PUTIN BELIEVED TO BE WAITING FOR A STRONGER MILITARY AND POLITICAL POSITION BEFORE SERIOUS NEGOTIATIONS. WESTERN OFFICIALS WARN MOSCOW WILL INTENSIFY WINTER …
