@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 16:37 JST／対象: 09/08 10:37 〜 09/08 16:37 JST（時刻はすべて日本時間）
+生成: 2026-09-08 16:53 JST／対象: 09/08 10:53 〜 09/08 16:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 115 | 09/08 10:39 | 09/08 16:36 | 22分（15:53→16:15） |
-| financialjuice | 75 | 09/08 10:37 | 09/08 15:45 | 40分（10:44→11:24） |
+| FirstSquawk | 112 | 09/08 10:56 | 09/08 16:48 | 22分（15:53→16:15） |
+| financialjuice | 68 | 09/08 11:24 | 09/08 16:42 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 190 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 180 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 10:37 [financialjuice] Japan finmin Katayama: declines to comment on specific FX levels
-- 09/08 10:38 [financialjuice] Japan finance minister Katayama: no change to forex policy since Japan-US joint intervention
-- 09/08 10:38 [financialjuice] Japan finance minister Katayama: will coordinate closely with U.S. to ensure orderly forex markets
-- 09/08 10:39 [FirstSquawk] Japan Finance Minister Katayama: FX policy stance unchanged since Japan-US joint intervention
-- 09/08 10:39 [FirstSquawk] Japan Finance Minister Katayama: Will maintain close communication with U.S. to achieve orderly FX markets
-- 09/08 10:40 [FirstSquawk] Japan Finance Minister Katayama: Stresses importance of mortgage lenders understanding risks from higher rates through bank communication
-- 09/08 10:40 [financialjuice] Japan finance minister Katayama: mortgage lenders must grasp risks of rising interest rates through talks with banks
-- 09/08 10:41 [financialjuice] China foreign ministry: China's special envoy for Afghanistan holds talks in Pakistan, Saudi Arabia
-- 09/08 10:41 [financialjuice] Anthropic said to abandon $6 billion Decart buyout
-- 09/08 10:41 [FirstSquawk] China Foreign Ministry: Special envoy held detailed discussions with officials from both countries on matters of mutual concern
-- 09/08 10:41 [financialjuice] China foreign ministry: special envoy discusses key issues with officials from both countries
-- 09/08 10:41 [FirstSquawk] Flights to and from Indonesia's capital have resumed after ash from a volcanic eruption forced a two-day closure that halted nearly 3,000 flights - AP
-- 09/08 10:44 [financialjuice] Ukraine drone attack damages civilian infrastructure in Russia's Saratov region, some injured, governor says
-- 09/08 10:44 [FirstSquawk] Ukraine drone strike hits civilian infrastructure in Russia’s Saratov region, governor says
-- 09/08 10:49 [FirstSquawk] Vitol CEO says Middle East exports about 10 mln bpd of crude and petroleum products
-- 09/08 10:52 [FirstSquawk] Vitol CEO: 2–3 mln bpd of Saudi oil exports impacted by Bab el-Mandeb Strait
 - 09/08 10:56 [FirstSquawk] Vitol CEO says 5–6 mln bpd difference in China’s 2025 and 2026 crude imports is unsustainable
 - 09/08 10:58 [FirstSquawk] LME three-month copper reaches all-time high of $14,617 a metric ton
 - 09/08 11:02 [FirstSquawk] Canadian dollar advances as US dollar remains under pressure despite rising Fed hike bets
@@ -214,3 +198,9 @@
 - 09/08 16:24 [FirstSquawk] KUWAIT IS SHIPPING AROUND ONE MILLION BARRELS OF CRUDE DAILY, INCLUDING VIA SHIP-TO-SHIP TRANSFERS NEAR THE STRAIT OF HORMUZ.
 - 09/08 16:26 [FirstSquawk] EUROPE FACES THE HIGHEST NATURAL GAS PRICES IN THREE YEARS, LEADING STOCK MARKET EXPERTS TO IDENTIFY POTENTIAL WINNERS AND LOSERS AS WINTER APPROACHES.
 - 09/08 16:36 [FirstSquawk] QATAR, KUWAIT AND BAHRAIN CONDEMNED THE IRAN-BACKED HOUTHI ATTACKS ON CIVILIAN AND ECONOMIC SITES IN SOUTHERN SAUDI ARABIA AND EXPRESSED SOLIDARITY WITH THE COUNTRY.
+- 09/08 16:39 [FirstSquawk] GLOBAL SHIPPING AUTHORITIES WARN OF MARITIME TRADE BREAKDOWN AMID GEOPOLITICAL TURMOIL
+- 09/08 16:42 [financialjuice] 3this: launched Attacks towards Aramco facilities in Abha, Najran, and Jizan.
+- 09/08 16:43 [FirstSquawk] HOUTHIS CLAIM TARGETING ARAMCO FACILITIES IN ABHA AND NAJRAN
+- 09/08 16:43 [FirstSquawk] HOUTHIS CLAIM TARGETING ARAMCO IN JAZAN
+- 09/08 16:43 [FirstSquawk] BRITAIN'S GOVERNMENT ANNOUNCED ON TUESDAY IT IS COMMITTING £100 MILLION ($135 MILLION) TO BOOST UKRAINE'S AIR DEFENCE CAPABILITIES THIS WINTER, INCLUDING WITH PATRIOT MISSILES
+- 09/08 16:48 [FirstSquawk] AUSTRALIAN DOLLAR ROSE TO A FRESH 13-YEAR HIGH AGAINST THE NEW ZEALAND KIWI
