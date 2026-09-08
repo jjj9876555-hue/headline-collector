@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 14:06 JST／対象: 09/07 14:06 〜 09/08 14:06 JST（時刻はすべて日本時間）
+生成: 2026-09-08 14:24 JST／対象: 09/07 14:24 〜 09/08 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/08 00:17 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 306 | 09/07 14:20 | 09/08 14:03 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 167 | 09/07 14:54 | 09/08 14:04 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 308 | 09/07 14:31 | 09/08 14:13 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 170 | 09/07 14:54 | 09/08 14:23 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 475 行（統合前 483 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 480 行（統合前 488 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 14:20 [FirstSquawk] DOLLAR EXPECTED TO TRADE IN 154.30-157.60 YEN RANGE THIS WEEK-WSJ
 - 09/07 14:31 [FirstSquawk] OIL RISES AS ESCALATING U.S.-IRAN CONFLICT STOKES SUPPLY DISRUPTION FEARS-WSJ
 - 09/07 14:42 [FirstSquawk] BEIJING TO INJECT BILLIONS INTO BANKS, INSURERS TO BOOST GROWTH-WSJ
 - 09/07 14:51 [FirstSquawk] AI to enhance efficiency across China’s infrastructure sector, with credit benefits emerging gradually, Moody’s says
@@ -499,3 +498,9 @@
 - 09/08 14:02 [financialjuice] China auto industry body CPCA: China sold 1.55 million passenger cars in August, down 23.7% y/y
 - 09/08 14:03 [FirstSquawk] China’s passenger car sales drop 23.7% y/y to 1.55 mln in August, CPCA says
 - 09/08 14:04 [financialjuice] UK govt commits £100 mln to air defence package including Patriot missiles to boost Ukraine
+- 09/08 14:08 [FirstSquawk] Berenberg lifts Keller Group target price to 3,450p from 3,300p
+- 09/08 14:13 [FirstSquawk] Sri Lanka’s Ceylon Petroleum Corp plans to double refining capacity to 100,000 bpd in four years
+- 09/08 14:13 [FirstSquawk] Sri Lanka’s Ceylon Petroleum Corp seeks foreign partners with crude supplies for refining capacity expansion
+- 09/08 14:23 [financialjuice] Saudis say energy facilities targeted on September 8
+- 09/08 14:23 [financialjuice] Saudis say fire erupted in several energy sites.
+- 09/08 14:23 [financialjuice] Saudis say operations at some energy sites halted.

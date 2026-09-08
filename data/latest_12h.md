@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 14:06 JST／対象: 09/08 02:06 〜 09/08 14:06 JST（時刻はすべて日本時間）
+生成: 2026-09-08 14:24 JST／対象: 09/08 02:24 〜 09/08 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/08 02:28 | 09/08 06:42 | ⚠ 215分（03:07→06:42） |
-| FirstSquawk | 150 | 09/08 02:51 | 09/08 14:03 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 119 | 09/08 02:40 | 09/08 14:04 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 153 | 09/08 02:51 | 09/08 14:13 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 122 | 09/08 02:40 | 09/08 14:23 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 276 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 282 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -300,3 +300,9 @@
 - 09/08 14:02 [financialjuice] China auto industry body CPCA: China sold 1.55 million passenger cars in August, down 23.7% y/y
 - 09/08 14:03 [FirstSquawk] China’s passenger car sales drop 23.7% y/y to 1.55 mln in August, CPCA says
 - 09/08 14:04 [financialjuice] UK govt commits £100 mln to air defence package including Patriot missiles to boost Ukraine
+- 09/08 14:08 [FirstSquawk] Berenberg lifts Keller Group target price to 3,450p from 3,300p
+- 09/08 14:13 [FirstSquawk] Sri Lanka’s Ceylon Petroleum Corp plans to double refining capacity to 100,000 bpd in four years
+- 09/08 14:13 [FirstSquawk] Sri Lanka’s Ceylon Petroleum Corp seeks foreign partners with crude supplies for refining capacity expansion
+- 09/08 14:23 [financialjuice] Saudis say energy facilities targeted on September 8
+- 09/08 14:23 [financialjuice] Saudis say fire erupted in several energy sites.
+- 09/08 14:23 [financialjuice] Saudis say operations at some energy sites halted.
