@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 01:52 JST／対象: 09/08 19:52 〜 09/09 01:52 JST（時刻はすべて日本時間）
+生成: 2026-09-09 02:04 JST／対象: 09/08 20:04 〜 09/09 02:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/08 22:06 | 09/09 00:42 | ⚠ 52分（23:50→00:42） |
-| FirstSquawk | 119 | 09/08 20:00 | 09/09 01:25 | 25分（00:30→00:55） |
-| financialjuice | 118 | 09/08 20:18 | 09/09 01:25 | 16分（21:04→21:20） |
+| FirstSquawk | 120 | 09/08 20:06 | 09/09 02:02 | 28分（01:25→01:53） |
+| financialjuice | 126 | 09/08 20:18 | 09/09 02:04 | 27分（01:25→01:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 240 行（統合前 244 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 249 行（統合前 253 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 20:00 [FirstSquawk] HEALEY SEES SIGNS OF IMPROVEMENT IN THE UK ECONOMY.
 - 09/08 20:06 [FirstSquawk] UK HAS RECORDED ITS HIGHEST BOND SALE YIELD SINCE 1998.
 - 09/08 20:12 [FirstSquawk] INDIA, CHINA ARMY COMMANDERS HELD BORDER TALKS ON SUNDAY: FOREIGN MINISTRY
 - 09/08 20:15 [FirstSquawk] UK OFFICIALS ARE CONCERNED THAT THE SANCTIONS ANNOUNCEMENT MAY STRAIN BURNHAM'S RELATIONSHIP WITH TRUMP, ACCORDING TO THE TIMES.
@@ -264,3 +263,13 @@
 - 09/09 01:25 [financialjuice] Qualcomm CFO: Qualcomm has another hyperscaler engagement.
 - 09/09 01:25 [FirstSquawk] QUALCOMM'S CFO ANNOUNCED A NEW PARTNERSHIP WITH A HYPERSCALER.
 - 09/09 01:25 [FirstSquawk] QUALCOMM STATES THAT THE SMARTPHONE MARKET IS AT A LOW POINT IN ITS CYCLE.
+- 09/09 01:52 [financialjuice] ❗ Al Hadath, citing Iranian Media: Tehran demands new conditions from Washington to resume negotiations.
+- 09/09 01:53 [FirstSquawk] IRANIAN MEDIA: TEHRAN DEMANDS NEW CONDITIONS FROM WASHINGTON TO RESUME NEGOTIATIONS.
+- 09/09 02:00 [financialjuice] Treasury WI 3-Year yield 4.475% before $58 billion auction.
+- 09/09 02:01 [financialjuice] Alerts activated in Saudi Arabia's Jazan - Civil Defence.
+- 09/09 02:02 [FirstSquawk] ALERTS ACTIVATED IN JAZAN, SAUDI ARABIA - CIVIL DEFENCE
+- 09/09 02:02 [financialjuice] Russian Lavrov: Putin may meet Trump, Xi at APEC in November - IFX
+- 09/09 02:02 [financialjuice] US 3-YEAR NOTE HIGH YIELD ACTUAL 4.474% (FORECAST -, PREVIOUS 4.291%) $MACRO
+- 09/09 02:02 [financialjuice] US 3-YEAR NOTE BID-TO-COVER ACTUAL 2.720 (FORECAST -, PREVIOUS 2.710) $MACRO
+- 09/09 02:03 [financialjuice] US 3-Year Note Auction High Yield 4.474% [Stop-through 0.1 bps] Bid-to-cover 2.72 Sells 58 bln Awards 29.35% of bids at high Primary Dealers take 10.9% Direct 26.9% Indirect 62.1%
+- 09/09 02:04 [financialjuice] Saudi Arabia: Early warning issued in Najran and Abha province.

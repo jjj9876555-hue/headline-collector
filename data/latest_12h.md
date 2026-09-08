@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 01:52 JST／対象: 09/08 13:52 〜 09/09 01:52 JST（時刻はすべて日本時間）
+生成: 2026-09-09 02:04 JST／対象: 09/08 14:04 〜 09/09 02:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/08 17:32 | 09/09 00:42 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 203 | 09/08 13:57 | 09/09 01:25 | 25分（00:30→00:55） |
-| financialjuice | 159 | 09/08 13:57 | 09/09 01:25 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 200 | 09/08 14:08 | 09/09 02:02 | 28分（01:25→01:53） |
+| financialjuice | 163 | 09/08 14:04 | 09/09 02:04 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 365 行（統合前 370 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 366 行（統合前 371 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 13:57 [financialjuice] Russia hits targets in Ukraine's Kyiv, region and Chornomorsk port: Russian defence ministry
-- 09/08 13:57 [FirstSquawk] Russian strikes hit Kyiv, surrounding region and Chornomorsk port, Russian newswires quote Defence Ministry
-- 09/08 14:00 [financialjuice] JAPANESE ECONOMY WATCHERS POLL ACTUAL 46.4 (FORECAST 46.2, PREVIOUS 45.7) $MACRO
-- 09/08 14:01 [FirstSquawk] Novartis provides update on Phase III HARBOR trial evaluating del-desiran in DM1
-- 09/08 14:01 [financialjuice] UK govt: UK commits winter air defense package to strengthen Ukraine's defenses
-- 09/08 14:02 [FirstSquawk] UK pledges winter air defence package to bolster Ukraine’s air defences, government says
-- 09/08 14:02 [FirstSquawk] UK government to provide £100 mln for Ukraine air defence, including Patriot missiles
-- 09/08 14:02 [financialjuice] China auto industry body CPCA: China sold 1.55 million passenger cars in August, down 23.7% y/y
-- 09/08 14:03 [FirstSquawk] China’s passenger car sales drop 23.7% y/y to 1.55 mln in August, CPCA says
 - 09/08 14:04 [financialjuice] UK govt commits £100 mln to air defence package including Patriot missiles to boost Ukraine
 - 09/08 14:08 [FirstSquawk] Berenberg lifts Keller Group target price to 3,450p from 3,300p
 - 09/08 14:13 [FirstSquawk] Sri Lanka’s Ceylon Petroleum Corp plans to double refining capacity to 100,000 bpd in four years
@@ -389,3 +380,13 @@
 - 09/09 01:25 [financialjuice] Qualcomm CFO: Qualcomm has another hyperscaler engagement.
 - 09/09 01:25 [FirstSquawk] QUALCOMM'S CFO ANNOUNCED A NEW PARTNERSHIP WITH A HYPERSCALER.
 - 09/09 01:25 [FirstSquawk] QUALCOMM STATES THAT THE SMARTPHONE MARKET IS AT A LOW POINT IN ITS CYCLE.
+- 09/09 01:52 [financialjuice] ❗ Al Hadath, citing Iranian Media: Tehran demands new conditions from Washington to resume negotiations.
+- 09/09 01:53 [FirstSquawk] IRANIAN MEDIA: TEHRAN DEMANDS NEW CONDITIONS FROM WASHINGTON TO RESUME NEGOTIATIONS.
+- 09/09 02:00 [financialjuice] Treasury WI 3-Year yield 4.475% before $58 billion auction.
+- 09/09 02:01 [financialjuice] Alerts activated in Saudi Arabia's Jazan - Civil Defence.
+- 09/09 02:02 [FirstSquawk] ALERTS ACTIVATED IN JAZAN, SAUDI ARABIA - CIVIL DEFENCE
+- 09/09 02:02 [financialjuice] Russian Lavrov: Putin may meet Trump, Xi at APEC in November - IFX
+- 09/09 02:02 [financialjuice] US 3-YEAR NOTE HIGH YIELD ACTUAL 4.474% (FORECAST -, PREVIOUS 4.291%) $MACRO
+- 09/09 02:02 [financialjuice] US 3-YEAR NOTE BID-TO-COVER ACTUAL 2.720 (FORECAST -, PREVIOUS 2.710) $MACRO
+- 09/09 02:03 [financialjuice] US 3-Year Note Auction High Yield 4.474% [Stop-through 0.1 bps] Bid-to-cover 2.72 Sells 58 bln Awards 29.35% of bids at high Primary Dealers take 10.9% Direct 26.9% Indirect 62.1%
+- 09/09 02:04 [financialjuice] Saudi Arabia: Early warning issued in Najran and Abha province.
