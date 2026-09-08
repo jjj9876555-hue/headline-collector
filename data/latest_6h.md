@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 06:45 JST／対象: 09/09 00:45 〜 09/09 06:45 JST（時刻はすべて日本時間）
+生成: 2026-09-09 06:58 JST／対象: 09/09 00:58 〜 09/09 06:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/09 02:40 | 09/09 05:33 | ⚠ 105分（03:46→05:31） |
-| FirstSquawk | 102 | 09/09 00:55 | 09/09 06:40 | 28分（01:25→01:53） |
-| financialjuice | 71 | 09/09 00:57 | 09/09 06:28 | 33分（02:38→03:12） |
+| FirstSquawk | 99 | 09/09 01:02 | 09/09 06:40 | 28分（01:25→01:53） |
+| financialjuice | 69 | 09/09 01:09 | 09/09 06:28 | 33分（02:38→03:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 170 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 165 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 00:55 [FirstSquawk] QUALCOMM WILL BEGIN RECEIVING REVENUE FROM AMAZON IN THE DECEMBER QUARTER.
-- 09/09 00:57 [financialjuice] Qualcomm is going to get Amazon revenue starting in the December quarter. $QCOM
-- 09/09 00:57 [financialjuice] Qualcomm has high confidence in it's $5 bln data center target. $QCOM
-- 09/09 00:58 [FirstSquawk] QUALCOMM IS CONFIDENT ABOUT REACHING ITS $5 BILLION DATA CENTER GOAL.
-- 09/09 00:58 [FirstSquawk] EU OIL COORD GROUP SAYS THERE IS NO URGENT CONCERN ABOUT OIL SUPPLY SECURITY.
 - 09/09 01:02 [FirstSquawk] EU OIL GROUP WARNS THAT MIDEAST CONFLICT AND WINTER WEATHER COULD MAKE MARKETS TIGHTER.
 - 09/09 01:09 [financialjuice] Stocks of Crude oil in the US Strategic Petroleum Reserve fell by about 1.2 mln barrels to 285.4 mln barrels last week, lowest since 1982.
 - 09/09 01:13 [financialjuice] Samsung to integrate Mistral AI across it's semiconductor operations.
