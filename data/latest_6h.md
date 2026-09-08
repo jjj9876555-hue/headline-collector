@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 06:31 JST／対象: 09/09 00:31 〜 09/09 06:31 JST（時刻はすべて日本時間）
+生成: 2026-09-09 06:45 JST／対象: 09/09 00:45 〜 09/09 06:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/09 00:42 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 100 | 09/09 00:55 | 09/09 06:31 | 28分（01:25→01:53） |
-| financialjuice | 84 | 09/09 00:32 | 09/09 06:28 | 33分（02:38→03:12） |
+| DeItaone | 4 | 09/09 02:40 | 09/09 05:33 | ⚠ 105分（03:46→05:31） |
+| FirstSquawk | 102 | 09/09 00:55 | 09/09 06:40 | 28分（01:25→01:53） |
+| financialjuice | 71 | 09/09 00:57 | 09/09 06:28 | 33分（02:38→03:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 182 行（統合前 189 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 00:32 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 3.89% (FORECAST -, PREVIOUS 3.885%) $MACRO
-- 09/09 00:32 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 3.8% (FORECAST -, PREVIOUS 3.770%) $MACRO
-- 09/09 00:32 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.61 (FORECAST -, PREVIOUS 2.770) $MACRO
-- 09/09 00:32 [financialjuice] US 6-MONTH BILL BID-TO-COVER ACTUAL 2.88 (FORECAST -, PREVIOUS 2.630) $MACRO
-- 09/09 00:32 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 79.100% (FORECAST -, PREVIOUS 49.270%) $MACRO
-- 09/09 00:32 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 20.330% (FORECAST -, PREVIOUS 66.770%) $MACRO
-- 09/09 00:33 [financialjuice] US 3-Month Bill Auction
-- 09/09 00:33 [financialjuice] US 3-Month Bill Auction High Yield 3.800% Bid-to-cover 2.61 US sells $92 bln Awards 20.33% of bids at high
-- 09/09 00:33 [financialjuice] US 6-Month Bill Auction High Yield 3.890% Bid-to-cover 2.88 US sells $79 bln Awards 79.10% of bids at high
-- 09/09 00:36 [financialjuice] US Treasury Secretary Bessent: No more forbearance on Iran sanctions.
-- 09/09 00:38 [financialjuice] US Treasury Secretary Bessent: We'll see if Iran lashes out kinetically now.
-- 09/09 00:39 [financialjuice] US Treasury Secretary Bessent: 2 Iran-owned London luxury penthouses being auctioned.
-- 09/09 00:41 [financialjuice] Iran destroys a US MQ1 drone over the Strait of Hormuz; no US confirmation - Iran's Tasnim news agency citing IRGC.
-- 09/09 00:42 [DeItaone] IRAN'S TASNIM NEWS AGENCY CITING IRGC: IRAN DESTROYS A U.S. MQ1 DRONE OVER THE STRAIT OF HORMUZ; NO U.S CONFIRMATION
 - 09/09 00:55 [FirstSquawk] QUALCOMM WILL BEGIN RECEIVING REVENUE FROM AMAZON IN THE DECEMBER QUARTER.
 - 09/09 00:57 [financialjuice] Qualcomm is going to get Amazon revenue starting in the December quarter. $QCOM
 - 09/09 00:57 [financialjuice] Qualcomm has high confidence in it's $5 bln data center target. $QCOM
@@ -206,3 +192,5 @@
 - 09/09 06:28 [FirstSquawk/financialjuice] U.S. SUPREME COURT REJECTS MISSOURI EFFORT TO USE GOP-DRAWN CONGRESSIONAL MAP IN NOVEMBER MIDTERMS
 - 09/09 06:31 [FirstSquawk] BESSENT SAYS HE HAS “GOOD INSIGHT” INTO BOJ AND JAPANESE POLICYMAKERS’ NEXT MOVES, INCLUDING ON POTENTIAL YEN INTERVENTION.
 - 09/09 06:31 [FirstSquawk] BESSENT SAYS THE US CAN USE ITS BALANCE SHEET AS A FOREIGN-POLICY TOOL AND CLAIMS HE NOW HAS “ASYMMETRIC INFO,” SIGNALING A MORE ACTIVE US ROLE IN CURRENCY POLICY.
+- 09/09 06:39 [FirstSquawk] US CDC REPORTS 19,595 LAB-CONFIRMED US-ACQUIRED CYCLOSPORIASIS CASES SINCE MAY 1, WITH 1,043 RELATED HOSPITALIZATIONS THROUGH SEPT. 8. THE OUTBREAK HAS RESULTED IN A SIGNIFICANT NUMBER OF HOSPITALIZATIONS, PROMPTING CONTINUED PUBLIC-HEALTH …
+- 09/09 06:40 [FirstSquawk] GLOBALFOUNDRIES CEO SAYS DATA-CENTER DEMAND IS A “VERY STRONG DRIVER” FOR GROWTH AS AI WORKLOADS BECOME INCREASINGLY DATA-INTENSIVE. CEO SAYS OPTICAL CONNECTIVITY IS NOW A “WHEN, NOT IF” TRANSITION AND GLOBALFOUNDRIES COULD 10X SILICON-PHOT…

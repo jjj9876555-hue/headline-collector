@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 06:31 JST／対象: 09/08 06:31 〜 09/09 06:31 JST（時刻はすべて日本時間）
+生成: 2026-09-09 06:45 JST／対象: 09/08 06:45 〜 09/09 06:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 09/08 06:42 | 09/09 05:33 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 426 | 09/08 08:36 | 09/09 06:31 | 28分（01:25→01:53） |
+| DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
+| FirstSquawk | 428 | 09/08 08:36 | 09/09 06:40 | 28分（01:25→01:53） |
 | financialjuice | 331 | 09/08 07:45 | 09/09 06:28 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 758 行（統合前 770 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 759 行（統合前 771 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 06:42 [DeItaone] IRAN ACCUSES CANADA OF BOWING TO U.S. PRESSURE Iranian Foreign Ministry spokesman Esmaeil Baghaei accused Canada of yielding to U.S. “intimidation” after Ottawa criticized Tehran over regional security and freedom of navigation. Baghaei sai…
 - 09/08 07:45 [financialjuice] NEW ZEALAND MANUFACTURING SALES ACTUAL 0.8% (FORECAST -, PREVIOUS 3.6%) $MACRO
 - 09/08 07:45 [financialjuice] New Zealand 2-year swap-adjusted manufacturing sales volumes rise 0.8% on previous quarter
 - 09/08 08:00 [financialjuice] S. KOREAN GDP YOY REVISED ACTUAL 3.7% (FORECAST 3.7%, PREVIOUS 3.7%) $MACRO
@@ -782,3 +781,5 @@
 - 09/09 06:28 [FirstSquawk/financialjuice] U.S. SUPREME COURT REJECTS MISSOURI EFFORT TO USE GOP-DRAWN CONGRESSIONAL MAP IN NOVEMBER MIDTERMS
 - 09/09 06:31 [FirstSquawk] BESSENT SAYS HE HAS “GOOD INSIGHT” INTO BOJ AND JAPANESE POLICYMAKERS’ NEXT MOVES, INCLUDING ON POTENTIAL YEN INTERVENTION.
 - 09/09 06:31 [FirstSquawk] BESSENT SAYS THE US CAN USE ITS BALANCE SHEET AS A FOREIGN-POLICY TOOL AND CLAIMS HE NOW HAS “ASYMMETRIC INFO,” SIGNALING A MORE ACTIVE US ROLE IN CURRENCY POLICY.
+- 09/09 06:39 [FirstSquawk] US CDC REPORTS 19,595 LAB-CONFIRMED US-ACQUIRED CYCLOSPORIASIS CASES SINCE MAY 1, WITH 1,043 RELATED HOSPITALIZATIONS THROUGH SEPT. 8. THE OUTBREAK HAS RESULTED IN A SIGNIFICANT NUMBER OF HOSPITALIZATIONS, PROMPTING CONTINUED PUBLIC-HEALTH …
+- 09/09 06:40 [FirstSquawk] GLOBALFOUNDRIES CEO SAYS DATA-CENTER DEMAND IS A “VERY STRONG DRIVER” FOR GROWTH AS AI WORKLOADS BECOME INCREASINGLY DATA-INTENSIVE. CEO SAYS OPTICAL CONNECTIVITY IS NOW A “WHEN, NOT IF” TRANSITION AND GLOBALFOUNDRIES COULD 10X SILICON-PHOT…

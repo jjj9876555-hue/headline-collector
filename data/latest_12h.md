@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 06:31 JST／対象: 09/08 18:31 〜 09/09 06:31 JST（時刻はすべて日本時間）
+生成: 2026-09-09 06:45 JST／対象: 09/08 18:45 〜 09/09 06:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 22:06 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 232 | 09/08 18:32 | 09/09 06:31 | 28分（01:25→01:53） |
-| financialjuice | 198 | 09/08 18:37 | 09/09 06:28 | 33分（02:38→03:12） |
+| FirstSquawk | 232 | 09/08 18:46 | 09/09 06:40 | 28分（01:25→01:53） |
+| financialjuice | 191 | 09/08 18:45 | 09/09 06:28 | 33分（02:38→03:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 429 行（統合前 441 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 422 行（統合前 434 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 18:32 [FirstSquawk] BOJ PLANS TO RAISE RATE TO 1.25% AT SEPT. 17-18 MEETING: KYODO
-- 09/08 18:37 [financialjuice] Bank of Japan to hike key interest rates 0.25 percentage point in September meeting, Kyodo News says
-- 09/08 18:39 [financialjuice] China foreign minister to Qatar PM on Middle East situation: pressure through guns and cannons not the way out, dialogue and negotiation the right path - statement
-- 09/08 18:40 [financialjuice] Reserve Bank of Australia Deputy Gov Hauser: Much to Like About Economy, But Inflation Is Major Issue
-- 09/08 18:41 [financialjuice] RBA’s Hauser: question for us is whether we have done enough on rates or need to do more
-- 09/08 18:41 [FirstSquawk] IRAN'S ARAGHCHI SAYS 'SIGNIFICANT PROGRESS' ON HORMUZ ROUTE
-- 09/08 18:41 [financialjuice] RBA's Hauser: July CPI edged up slightly more than expected
-- 09/08 18:42 [financialjuice] RBA's Hauser: balanced outlook but focused on upside inflation risks
-- 09/08 18:43 [financialjuice] RBA's Hauser: board will debate a hike this month, outcome not guaranteed
 - 09/08 18:45 [financialjuice] RBA's Hauser: House prices do not play that big a role in economy, not the main game.
 - 09/08 18:46 [FirstSquawk] RESERVE BANK OF AUSTRALIA ASSISTANT GOVERNOR HUNTER SAYS THE HOUSING MARKET PLAYS A KEY ROLE IN MONETARY POLICY.
 - 09/08 18:46 [FirstSquawk] RBA'S HUNTER SAYS HOUSE PRICE CHANGES HAVE A SMALL EFFECT ON CONSUMER SPENDING.
@@ -453,3 +444,5 @@
 - 09/09 06:28 [FirstSquawk/financialjuice] U.S. SUPREME COURT REJECTS MISSOURI EFFORT TO USE GOP-DRAWN CONGRESSIONAL MAP IN NOVEMBER MIDTERMS
 - 09/09 06:31 [FirstSquawk] BESSENT SAYS HE HAS “GOOD INSIGHT” INTO BOJ AND JAPANESE POLICYMAKERS’ NEXT MOVES, INCLUDING ON POTENTIAL YEN INTERVENTION.
 - 09/09 06:31 [FirstSquawk] BESSENT SAYS THE US CAN USE ITS BALANCE SHEET AS A FOREIGN-POLICY TOOL AND CLAIMS HE NOW HAS “ASYMMETRIC INFO,” SIGNALING A MORE ACTIVE US ROLE IN CURRENCY POLICY.
+- 09/09 06:39 [FirstSquawk] US CDC REPORTS 19,595 LAB-CONFIRMED US-ACQUIRED CYCLOSPORIASIS CASES SINCE MAY 1, WITH 1,043 RELATED HOSPITALIZATIONS THROUGH SEPT. 8. THE OUTBREAK HAS RESULTED IN A SIGNIFICANT NUMBER OF HOSPITALIZATIONS, PROMPTING CONTINUED PUBLIC-HEALTH …
+- 09/09 06:40 [FirstSquawk] GLOBALFOUNDRIES CEO SAYS DATA-CENTER DEMAND IS A “VERY STRONG DRIVER” FOR GROWTH AS AI WORKLOADS BECOME INCREASINGLY DATA-INTENSIVE. CEO SAYS OPTICAL CONNECTIVITY IS NOW A “WHEN, NOT IF” TRANSITION AND GLOBALFOUNDRIES COULD 10X SILICON-PHOT…
