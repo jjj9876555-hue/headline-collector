@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 05:33 JST／対象: 09/08 17:33 〜 09/09 05:33 JST（時刻はすべて日本時間）
+生成: 2026-09-09 05:51 JST／対象: 09/08 17:51 〜 09/09 05:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 22:06 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 232 | 09/08 17:35 | 09/09 05:33 | 28分（01:25→01:53） |
+| FirstSquawk | 227 | 09/08 17:52 | 09/09 05:33 | 28分（01:25→01:53） |
 | financialjuice | 186 | 09/08 17:55 | 09/09 05:30 | 33分（02:38→03:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 419 行（統合前 429 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 414 行（統合前 424 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 17:35 [FirstSquawk] JAPAN, OMAN DISCUSS INTERNATIONAL LAW REGARDING HORMUZ
-- 09/08 17:36 [FirstSquawk] KREMLIN SPOKESPERSON: RUSSIA REACHED AT 90% OF ALL TRANSACTIONS IN NATIONAL CURRENCIES WITH BRICS COUNTRIES
-- 09/08 17:38 [FirstSquawk] GERMAN FINANCE MINISTER: WITHOUT TAKING ON NEW DEBT, WE CANNOT DEFEND OURSELVES
-- 09/08 17:44 [FirstSquawk] KREMLIN SPOKESPERSON IN VIRTUAL INTERACTION WITH INDIAN REPORTERS: RUSSIA IS OPEN TO PROCESS OF SOLVING WAR IN UKRAINE THROUGH PEACEFUL MEANS
-- 09/08 17:48 [FirstSquawk] USD/JPY PARES LOSSES, DOWN 0.1% TO 154.15, VERSUS 152.89 LOW
 - 09/08 17:52 [FirstSquawk] RUSSIA PESKOV: PUTIN TO MEET INDIA MODI ON FRIDAY: TASS
 - 09/08 17:55 [financialjuice] Ukraine's Zelenskiy: Ukraine is ready to compromise on strikes on grain shipments, energy.
 - 09/08 17:56 [FirstSquawk] BRAZIL PRES ELECTION POLL: FLAVIO HAS 46%, LULA 45% IN 2ND ROUND – BTG PACTUAL/NEXUS
