@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 22:55 JST／対象: 09/07 22:55 〜 09/08 22:55 JST（時刻はすべて日本時間）
+生成: 2026-09-08 23:19 JST／対象: 09/07 23:19 〜 09/08 23:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/08 00:17 | 09/08 22:39 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 293 | 09/07 22:56 | 09/08 22:48 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 207 | 09/07 23:01 | 09/08 22:45 | ⚠ 170分（04:54→07:45） |
+| DeItaone | 14 | 09/08 00:17 | 09/08 23:18 | ⚠ 649分（06:42→17:32） |
+| FirstSquawk | 301 | 09/07 23:31 | 09/08 23:18 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 211 | 09/07 23:36 | 09/08 23:17 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 508 行（統合前 514 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 521 行（統合前 527 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 22:56 [FirstSquawk] JAGUAR LAND ROVER WILL CUT 4K JOBS TO COMPETE WITH CHINA - AP
-- 09/07 23:01 [financialjuice] French Official confirms sending SAMP/T defense systems to Kyiv.
-- 09/07 23:02 [financialjuice] French Official confirms to send SAMP/T defense systems to Kyiv.
-- 09/07 23:07 [FirstSquawk] FRENCH OFFICIAL CONFIRMS THAT FRANCE WILL SEND SAMP/T DEFENCE SYSTEMS TO KYIV
-- 09/07 23:09 [FirstSquawk] GERMAN CHANCELLOR FRIEDRICH MERZ IS SCRAMBLING TO CONTAIN THE FALLOUT FROM THE FAR-RIGHT AFD'S VICTORY IN STATE ELECTIONS.
-- 09/07 23:10 [FirstSquawk] SAUDI ARABIA AUG. OFFICIAL RESERVE ASSETS SAR1.827T
-- 09/07 23:14 [FirstSquawk] N. KOREA'S DEFENCE MINISTER: IF U.S. AND ITS ALLIES SEEK A NEW MILITARY CONFRONTATION, WE WILL ALSO TAKE STRONG COUNTERMEASURES - KCNA
-- 09/07 23:18 [financialjuice] Crypto Fear & Greed Index: 71/100 - Greed
 - 09/07 23:31 [FirstSquawk] CHINA HAS STARTED ANTI-DUMPING ACTIONS ON IMPORTANT CHIPMAKING MATERIALS IMPORTED FROM JAPAN, ACCORDING TO NIKKEI.
 - 09/07 23:32 [FirstSquawk] EU'S KAJA KALLAS SAYS RUSSIA IS NOT SERIOUS ABOUT PEACE.
 - 09/07 23:36 [financialjuice] US CPI Prep (11th September)
@@ -532,3 +524,24 @@
 - 09/08 22:45 [financialjuice] BoE Gov. Bailey: I want to dispel idea that we have secret plan to raise rates, unconditionally.
 - 09/08 22:46 [FirstSquawk] BOE'S BAILEY: I WANT TO DISPEL IDEA THAT WE HAVE SECRET PLAN TO RAISE RATES, UNCONDITIONALLY
 - 09/08 22:48 [FirstSquawk] CERBERUS NEARS £1B DEAL TO BUY GOODWIN DEFENCE UNIT, FT SAYS
+- 09/08 22:56 [financialjuice] Goldman Sachs brings forward their RBA rate hike estimate to September from November.
+- 09/08 22:58 [financialjuice] BoE's Ramsden: Communications in April and in July were well received by the market.
+- 09/08 22:59 [FirstSquawk] GOLDMAN BRINGS FORWARD RBA RATE HIKE TO SEPT, FROM NOV
+- 09/08 22:59 [FirstSquawk] ORACLE ISSUES RFP FOR 2 GW OF RENEWABLE ENERGY IN NEW MEXICO
+- 09/08 22:59 [FirstSquawk] GOLDMAN SACHS BRINGS FORWARD RBA RATE HIKE FORECASTS TO SEPTEMBER, FROM NOVEMBER
+- 09/08 22:59 [financialjuice] BoE Gov. Bailey: Risks to food price inflation are to the upside.
+- 09/08 23:01 [FirstSquawk] CHINA'S HUAWEI TECHNOLOGIES FACES RACKETEERING TRIAL IN NEW YORK
+- 09/08 23:05 [financialjuice] BoE's Ramsden: The increased frequency of supply shocks may lead to the ratcheting-up of prices.
+- 09/08 23:08 [financialjuice] BoE's Ramsden: The impact of QT on yields is still very much in the background.
+- 09/08 23:08 [financialjuice] BoE's Ramsden: It is unclear if the slightly higher estimate of the QT impact reflects the extra year of QT, or better estimates.
+- 09/08 23:10 [FirstSquawk] US CB EMPLOYMENT TRENDS INDEX AUG: 108.53 (PREV 107.71; PREV R 107.76)
+- 09/08 23:12 [FirstSquawk] OFAC: GLOBAL TERRORISM SANCTIONS REGULATIONS GENERAL LICENCE
+- 09/08 23:12 [FirstSquawk] US SUSPENDS IRAN-RELATED GENERAL LICENSE J-1 EFFECTIVE SEPT. 8
+- 09/08 23:12 [FirstSquawk] US SANCTIONS AIR SHIRAZ, ASA JET AIRLINE, ATA AIRLINES
+- 09/08 23:12 [FirstSquawk] US: J-1 ALLOWED REEXPORTATION OF SOME CIVIL AIRCRAFT TO IRAN
+- 09/08 23:12 [FirstSquawk] US SANCTIONS AVA AIRLINES, ATLAS AVIATION GROUP, CHABAHAR AIR
+- 09/08 23:17 [financialjuice] Trump and Putin discussed outcome of the US envoys' visit to Moscow and Kyiv - Kremlin
+- 09/08 23:18 [FirstSquawk] PUTIN SPOKE TO TRUMP BY PHONE - KREMLIN || KREMLIN: PHONE CALL LASTED ONE HOUR || CONVERSATION WAS OPEN AND CONSTRUCTIVE - KREMLIN || TRUMP AND PUTIN DISCUSSED OUTCOME OF U.S. ENVOYS' VISIT TO MOSCOW AND KYIV - KREMLIN || TRUMP FOCUSED ON T…
+- 09/08 23:18 [FirstSquawk] UK MOVES LEFT ISRAEL NO CHOICE BUT TO RESPOND: SA'AR
+- 09/08 23:18 [FirstSquawk] END OF WAR WOULD IMMEDIATELY OPEN UP IMPRESSIVE POTENTIAL TO RESTORE U.S.-RUSSIA TIES - KREMLIN || KREMLIN SAYS TRUMP WOULD LIKE U.S.-RUSSIA TIES TO BE RESTORED DURING HIS PRESIDENCY || TRUMP AND PUTIN BOTH RATED U.S. ENVOYS' VISIT - KREMLI…
+- 09/08 23:18 [DeItaone] PUTIN TOLD TRUMP RUSSIA HAS NO HOSTILE PLANS TOWARDS EUROPE - KREMLIN

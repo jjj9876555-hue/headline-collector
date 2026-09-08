@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 22:55 JST／対象: 09/08 16:55 〜 09/08 22:55 JST（時刻はすべて日本時間）
+生成: 2026-09-08 23:19 JST／対象: 09/08 17:19 〜 09/08 23:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/08 17:32 | 09/08 22:39 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 82 | 09/08 17:09 | 09/08 22:48 | 17分（21:12→21:29） |
-| financialjuice | 62 | 09/08 17:22 | 09/08 22:45 | 33分（17:22→17:55） |
+| DeItaone | 5 | 09/08 17:32 | 09/08 23:18 | ⚠ 273分（17:32→22:06） |
+| FirstSquawk | 92 | 09/08 17:25 | 09/08 23:18 | 17分（21:12→21:29） |
+| financialjuice | 69 | 09/08 17:22 | 09/08 23:17 | 33分（17:22→17:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 144 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 17:09 [FirstSquawk] GERMAN INTERIOR MINISTER ALEXANDER DOBRINDT: WHOEVER IS ATTACKING OUR INFRASTRUCTURE HAS TO KNOW: WE CAN STRIKE BACK, AND WE CAN DISRUPT AND DESTROY THEIR INFRASTRUCTURE. WE WILL NOT ALLOW OURSELVES, AS A SOCIETY, TO BE PERMANENTLY PUT UNDE…
-- 09/08 17:09 [FirstSquawk] UAE DIRECTLY WARNED NETANYAHU BEFORE OCT. 7, HE DISREGARDED IT UAE PRESIDENT WARNED NETANYAHU ABOUT A MAJOR OPERATION BEING PREPARED BY HAMAS ROUGHLY 10 DAYS BEFORE THE ATTACK. NETANYAHU PLAYED DOWN THE THREAT AND DID NOT BRIEF ISRAEL’S SEC…
-- 09/08 17:17 [FirstSquawk] AMAZON ENGAGES BANKS FOR ITS FIRST STERLING BOND SALE.
 - 09/08 17:22 [financialjuice] German Finance Minister Klingbeil: Special fund opponents are the very same people whose ideology has ensured that our country’s infrastructure has been neglected for far too long.
 - 09/08 17:25 [FirstSquawk] KREMLIN SPOKESPERSON: PUTIN AND INDIAN PM MODI WILL HAVE BILATERAL TALKS
 - 09/08 17:28 [FirstSquawk] KREMLIN SPOKESPERSON: RUSSIA SUPPORTS THE IDEA OF INVITING NEW COUNTRIES TO JOIN DIFFERENT FORMATS OF COOPERATION WITHIN BRICS
@@ -168,3 +165,24 @@
 - 09/08 22:45 [financialjuice] BoE Gov. Bailey: I want to dispel idea that we have secret plan to raise rates, unconditionally.
 - 09/08 22:46 [FirstSquawk] BOE'S BAILEY: I WANT TO DISPEL IDEA THAT WE HAVE SECRET PLAN TO RAISE RATES, UNCONDITIONALLY
 - 09/08 22:48 [FirstSquawk] CERBERUS NEARS £1B DEAL TO BUY GOODWIN DEFENCE UNIT, FT SAYS
+- 09/08 22:56 [financialjuice] Goldman Sachs brings forward their RBA rate hike estimate to September from November.
+- 09/08 22:58 [financialjuice] BoE's Ramsden: Communications in April and in July were well received by the market.
+- 09/08 22:59 [FirstSquawk] GOLDMAN BRINGS FORWARD RBA RATE HIKE TO SEPT, FROM NOV
+- 09/08 22:59 [FirstSquawk] ORACLE ISSUES RFP FOR 2 GW OF RENEWABLE ENERGY IN NEW MEXICO
+- 09/08 22:59 [FirstSquawk] GOLDMAN SACHS BRINGS FORWARD RBA RATE HIKE FORECASTS TO SEPTEMBER, FROM NOVEMBER
+- 09/08 22:59 [financialjuice] BoE Gov. Bailey: Risks to food price inflation are to the upside.
+- 09/08 23:01 [FirstSquawk] CHINA'S HUAWEI TECHNOLOGIES FACES RACKETEERING TRIAL IN NEW YORK
+- 09/08 23:05 [financialjuice] BoE's Ramsden: The increased frequency of supply shocks may lead to the ratcheting-up of prices.
+- 09/08 23:08 [financialjuice] BoE's Ramsden: The impact of QT on yields is still very much in the background.
+- 09/08 23:08 [financialjuice] BoE's Ramsden: It is unclear if the slightly higher estimate of the QT impact reflects the extra year of QT, or better estimates.
+- 09/08 23:10 [FirstSquawk] US CB EMPLOYMENT TRENDS INDEX AUG: 108.53 (PREV 107.71; PREV R 107.76)
+- 09/08 23:12 [FirstSquawk] OFAC: GLOBAL TERRORISM SANCTIONS REGULATIONS GENERAL LICENCE
+- 09/08 23:12 [FirstSquawk] US SUSPENDS IRAN-RELATED GENERAL LICENSE J-1 EFFECTIVE SEPT. 8
+- 09/08 23:12 [FirstSquawk] US SANCTIONS AIR SHIRAZ, ASA JET AIRLINE, ATA AIRLINES
+- 09/08 23:12 [FirstSquawk] US: J-1 ALLOWED REEXPORTATION OF SOME CIVIL AIRCRAFT TO IRAN
+- 09/08 23:12 [FirstSquawk] US SANCTIONS AVA AIRLINES, ATLAS AVIATION GROUP, CHABAHAR AIR
+- 09/08 23:17 [financialjuice] Trump and Putin discussed outcome of the US envoys' visit to Moscow and Kyiv - Kremlin
+- 09/08 23:18 [FirstSquawk] PUTIN SPOKE TO TRUMP BY PHONE - KREMLIN || KREMLIN: PHONE CALL LASTED ONE HOUR || CONVERSATION WAS OPEN AND CONSTRUCTIVE - KREMLIN || TRUMP AND PUTIN DISCUSSED OUTCOME OF U.S. ENVOYS' VISIT TO MOSCOW AND KYIV - KREMLIN || TRUMP FOCUSED ON T…
+- 09/08 23:18 [FirstSquawk] UK MOVES LEFT ISRAEL NO CHOICE BUT TO RESPOND: SA'AR
+- 09/08 23:18 [FirstSquawk] END OF WAR WOULD IMMEDIATELY OPEN UP IMPRESSIVE POTENTIAL TO RESTORE U.S.-RUSSIA TIES - KREMLIN || KREMLIN SAYS TRUMP WOULD LIKE U.S.-RUSSIA TIES TO BE RESTORED DURING HIS PRESIDENCY || TRUMP AND PUTIN BOTH RATED U.S. ENVOYS' VISIT - KREMLI…
+- 09/08 23:18 [DeItaone] PUTIN TOLD TRUMP RUSSIA HAS NO HOSTILE PLANS TOWARDS EUROPE - KREMLIN
