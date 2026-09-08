@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-08 19:52 JST／対象: 09/07 19:52 〜 09/08 19:52 JST（時刻はすべて日本時間）
+生成: 2026-09-08 20:05 JST／対象: 09/07 20:05 〜 09/08 20:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 00:17 | 09/08 17:32 | ⚠ 649分（06:42→17:32） |
-| FirstSquawk | 300 | 09/07 19:54 | 09/08 19:50 | ⚠ 158分（05:58→08:36） |
-| financialjuice | 179 | 09/07 19:54 | 09/08 19:45 | ⚠ 170分（04:54→07:45） |
+| FirstSquawk | 296 | 09/07 20:15 | 09/08 20:00 | ⚠ 158分（05:58→08:36） |
+| financialjuice | 174 | 09/07 21:10 | 09/08 19:45 | ⚠ 170分（04:54→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 484 行（統合前 490 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 478 行（統合前 480 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/07 19:54 [FirstSquawk/financialjuice] SAUDI ARAMCO REFINERY HIT IN NEW STRIKES - FT
-- 09/07 19:55 [FirstSquawk] SAUDI ARAMCO JIZAN OIL FACILITIES HIT IN NEW STRIKES - FT
-- 09/07 19:55 [financialjuice] Aramco infrastructure hit on Monday, damage being assessed - FT.
-- 09/07 19:56 [FirstSquawk] SAUDI ARAMCO’S JIZAN OIL FACILITIES HIT ON MONDAY AND THE DAMAGE IS CURRENTLY BEING ASSESSED - FT
-- 09/07 19:58 [financialjuice] Saudi Aramco facility hit in new strikes - FT
-- 09/07 20:02 [financialjuice/FirstSquawk] Panama Canal warns of possible transit cuts in further blow to shipping - FT.
-- 09/07 20:03 [FirstSquawk/financialjuice] NUMBER OF DAILY TRANSITS THROUGH THE PANAMA CANAL COULD FALL AS LOW AS 27, DOWN FROM 32 - FT
 - 09/07 20:15 [FirstSquawk] CHINA’S PREMIER MEETS QATAR’S PM IN BEIJING - CCTV
 - 09/07 20:18 [FirstSquawk] UKRAINE MOVES TO TAKE CONTROL OF BOTTLED-WATER GIANT IDS UKRAINE OVER ITS LINKS TO SANCTIONED RUSSIAN OLIGARCH FRIDMAN.
 - 09/07 20:29 [FirstSquawk] UK PM'S SPOKESMAN, TOM WELLS, BRIEFS REPORTERS IN LONDON
@@ -508,3 +501,4 @@
 - 09/08 19:45 [financialjuice/FirstSquawk] BNP Paribas expects BoE to hike interest rates by 25 bp in November 2026 vs prior forecast of a hike in September this year.
 - 09/08 19:45 [financialjuice] UK's Chancellor Healey: UK growth still fragile, borrowing still too high.
 - 09/08 19:47 [FirstSquawk] UK CHANCELLOR: STARTING TO SEE UK ECONOMY TURN A CORNER
+- 09/08 20:00 [FirstSquawk] HEALEY SEES SIGNS OF IMPROVEMENT IN THE UK ECONOMY.

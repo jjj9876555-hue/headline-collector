@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-08 19:52 JST／対象: 09/08 07:52 〜 09/08 19:52 JST（時刻はすべて日本時間）
+生成: 2026-09-08 20:05 JST／対象: 09/08 08:05 〜 09/08 20:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/08 17:32 | 09/08 17:32 | - |
-| FirstSquawk | 218 | 09/08 08:36 | 09/08 19:50 | 22分（15:53→16:15） |
-| financialjuice | 147 | 09/08 08:00 | 09/08 19:45 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 219 | 09/08 08:36 | 09/08 20:00 | 22分（15:53→16:15） |
+| financialjuice | 133 | 09/08 08:29 | 09/08 19:45 | ⚠ 56分（15:45→16:42） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 365 行（統合前 366 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 352 行（統合前 353 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 08:00 [financialjuice] S. KOREAN GDP YOY REVISED ACTUAL 3.7% (FORECAST 3.7%, PREVIOUS 3.7%) $MACRO
-- 09/08 08:00 [financialjuice] S. KOREAN GDP QOQ REVISED ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS 0.6%) $MACRO
-- 09/08 08:00 [financialjuice] S. Korea revised Q2 private consumption 0.4% q/q vs 0.4% estimated earlier: central bank
-- 09/08 08:00 [financialjuice] S.Korea revised Q2 GDP to 3.7% y/y vs 3.7% estimated earlier: central bank
-- 09/08 08:00 [financialjuice] S.Korea revises Q2 construction investment to -0.1% q/q from earlier -0.2%: central bank
-- 09/08 08:00 [financialjuice] S. Korea revises Q2 facilities investment to +0.2% q/q vs +0.2% estimated earlier:
-- 09/08 08:01 [financialjuice] Colombia inflation rose 0.39% last month: government statistics agency
-- 09/08 08:01 [financialjuice] S.Korea revised Q2 GDP growth 0.6% quarter on quarter vs 0.6% estimated earlier: central bank
-- 09/08 08:01 [financialjuice] Colombia's annual inflation reached 6.24% through last month: government statistics agency
-- 09/08 08:01 [financialjuice] UK BRC RETAIL SALES YOY ACTUAL 0.5% (FORECAST -, PREVIOUS 1.0%) $MACRO
-- 09/08 08:01 [financialjuice] Barclays: UK August consumer spending rises 2.1% year-on-year versus 2.0% in July
-- 09/08 08:01 [financialjuice] British Retail Consortium August total sales rise 0.7% year on year, slowest growth since April after July's 1.3% increase
-- 09/08 08:01 [financialjuice] Barclays uk consumer confidence 26% in august vs 21-month peak of 30% in july
-- 09/08 08:01 [financialjuice] British Retail Consortium August like-for-like sales rise 0.5% yy vs July 1.0% yy
 - 09/08 08:29 [financialjuice] Argentina to file criminal charges against Navitas Oil and executives for operating in Falkland Islands: statement
 - 09/08 08:30 [financialjuice] JAPANESE AVERAGE CASH EARNINGS YOY ACTUAL 4.7% (FORECAST 3.8%, PREVIOUS 3.4%4.0%) $MACRO
 - 09/08 08:30 [financialjuice] JAPANESE OVERTIME PAY ACTUAL 3.1% (FORECAST -, PREVIOUS 2.8% ,REVISION 3.4%) $MACRO
@@ -389,3 +375,4 @@
 - 09/08 19:45 [financialjuice/FirstSquawk] BNP Paribas expects BoE to hike interest rates by 25 bp in November 2026 vs prior forecast of a hike in September this year.
 - 09/08 19:45 [financialjuice] UK's Chancellor Healey: UK growth still fragile, borrowing still too high.
 - 09/08 19:47 [FirstSquawk] UK CHANCELLOR: STARTING TO SEE UK ECONOMY TURN A CORNER
+- 09/08 20:00 [FirstSquawk] HEALEY SEES SIGNS OF IMPROVEMENT IN THE UK ECONOMY.
