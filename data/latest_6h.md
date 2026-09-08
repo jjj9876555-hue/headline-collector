@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-08 16:21 JST／対象: 09/08 10:21 〜 09/08 16:21 JST（時刻はすべて日本時間）
+生成: 2026-09-08 16:37 JST／対象: 09/08 10:37 〜 09/08 16:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 121 | 09/08 10:28 | 09/08 16:20 | 22分（15:53→16:15） |
-| financialjuice | 81 | 09/08 10:30 | 09/08 15:45 | 40分（10:44→11:24） |
+| FirstSquawk | 115 | 09/08 10:39 | 09/08 16:36 | 22分（15:53→16:15） |
+| financialjuice | 75 | 09/08 10:37 | 09/08 15:45 | 40分（10:44→11:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 202 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 190 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 10:28 [FirstSquawk] Yen Strengthens Further; Sentiment Toward Currency Has ‘Materially’ Shifted - WSJ
-- 09/08 10:28 [FirstSquawk] JGB Futures Rise as Yen’s Strength Seen Easing Inflationary Pressures - WSJ
-- 09/08 10:30 [financialjuice] Australia Aug business confidence index declines to -8 from -7 in July: NAB
-- 09/08 10:30 [financialjuice] Australia aug business conditions index drops to -1 from +4 in july: nab
-- 09/08 10:30 [FirstSquawk] Australia August business conditions deteriorate to -1 from +4 in July — NAB
-- 09/08 10:31 [FirstSquawk] Australia August business confidence weakens to -8 from -7 in July — NAB
-- 09/08 10:32 [FirstSquawk] Dollar/yen slides 0.6% to 153.410
-- 09/08 10:32 [financialjuice] Dollar/yen drops 0.6% to 153.410 in last trading
-- 09/08 10:34 [financialjuice] Japan finance minister Katayama: will intensify efforts to obtain financing for food consumption tax reduction
-- 09/08 10:35 [FirstSquawk] Japan Finance Minister Katayama: Efforts to secure funding for food tax cut will be stepped up
-- 09/08 10:35 [financialjuice] Japan finance minister Katayama: will adequately regulate new bond issuance for full fiscal year
-- 09/08 10:36 [FirstSquawk] Japan Finance Minister Katayama: Will manage new bond issuance appropriately throughout fiscal year
-- 09/08 10:36 [financialjuice] Japan finance minister Katayama: will engage openly with markets, public to build trust in fiscal policy
-- 09/08 10:36 [FirstSquawk] 10-year JGB yield declines 3.5 bps to 2.895%
-- 09/08 10:36 [FirstSquawk] Japan Finance Minister Katayama: Full communication with markets and public needed to gain fiscal policy credibility
 - 09/08 10:37 [financialjuice] Japan finmin Katayama: declines to comment on specific FX levels
 - 09/08 10:38 [financialjuice] Japan finance minister Katayama: no change to forex policy since Japan-US joint intervention
 - 09/08 10:38 [financialjuice] Japan finance minister Katayama: will coordinate closely with U.S. to ensure orderly forex markets
@@ -226,3 +211,6 @@
 - 09/08 16:17 [FirstSquawk] Audi CEO: VW Weighs Selling Ducati Motorcycle Unit In Broad Review
 - 09/08 16:20 [FirstSquawk] BRITISH DIPLOMATS HAVE PRIVATELY ASSURED THE US THAT NEW SANCTIONS ON ISRAELI SETTLEMENTS ARE LARGELY SYMBOLIC AND WILL NOT MATERIALLY AFFECT UK-ISRAEL TRADE OR SECURITY TIES.
 - 09/08 16:20 [FirstSquawk] UK URGED TO OVERHAUL MILITARY PROCUREMENT TO REMOVE CHINA-MADE PARTS "WE MUST NOT ALLOW A HOSTILE FOREIGN POLITICAL PARTY THE 'KILL SWITCH' OVER OUR CRITICAL NATIONAL INFRASTRUCTURE NOR OUR DEFENSIVE CAPABILITIES," SAID A CONSERVATIVE POLIT…
+- 09/08 16:24 [FirstSquawk] KUWAIT IS SHIPPING AROUND ONE MILLION BARRELS OF CRUDE DAILY, INCLUDING VIA SHIP-TO-SHIP TRANSFERS NEAR THE STRAIT OF HORMUZ.
+- 09/08 16:26 [FirstSquawk] EUROPE FACES THE HIGHEST NATURAL GAS PRICES IN THREE YEARS, LEADING STOCK MARKET EXPERTS TO IDENTIFY POTENTIAL WINNERS AND LOSERS AS WINTER APPROACHES.
+- 09/08 16:36 [FirstSquawk] QATAR, KUWAIT AND BAHRAIN CONDEMNED THE IRAN-BACKED HOUTHI ATTACKS ON CIVILIAN AND ECONOMIC SITES IN SOUTHERN SAUDI ARABIA AND EXPRESSED SOLIDARITY WITH THE COUNTRY.
