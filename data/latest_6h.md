@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 10:01 JST／対象: 09/09 04:01 〜 09/09 10:01 JST（時刻はすべて日本時間）
+生成: 2026-09-09 10:18 JST／対象: 09/09 04:18 〜 09/09 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/09 05:31 | 09/09 05:33 | 1分（05:31→05:33） |
-| FirstSquawk | 90 | 09/09 04:03 | 09/09 10:00 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 73 | 09/09 04:02 | 09/09 10:00 | ⚠ 70分（08:50→10:00） |
+| FirstSquawk | 82 | 09/09 04:19 | 09/09 10:06 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 75 | 09/09 04:22 | 09/09 10:17 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 160 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 154 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 04:02 [financialjuice] Meta announces an AI assistant for personal tasks and organization, which will be released to US-based users on Tuesday. $META
-- 09/09 04:03 [FirstSquawk] TRUMP ADMINISTRATION CRITICIZES FORD’S TIES WITH CHINESE FIRMS, CITING “DEEP ALARM” OVER ITS RELIANCE ON BATTERY MAKER CATL. || USDOT SAYS FORD-GEELY JV IN SPAIN COULD GIVE CHINA A STRATEGIC FOOTHOLD IN WESTERN EUROPE.
-- 09/09 04:03 [financialjuice] Meta: Meta’s Muse agent to have free and paid versions. $META
-- 09/09 04:03 [FirstSquawk] META: MUSE AI ASSISTANT TO OFFER FREE & PAID TIERS, WITH PERSONAL TASK MANAGEMENT & ORGANIZATION FEATURES ROLLING OUT TO US USERS TUESDAY.
-- 09/09 04:04 [financialjuice] US Consumer Credit Report for July
-- 09/09 04:07 [FirstSquawk] META: MUSE AI AGENT LAUNCHES IN THE US, OFFERING FREE ACCESS WITH PAID PLANS FOR USERS SEEKING MORE CAPABILITIES; DESIGNED TO HANDLE PERSONAL TASKS, PLANNING & ORGANIZATION.
-- 09/09 04:09 [financialjuice] US Treasury Investor Flows
-- 09/09 04:09 [FirstSquawk] FOREIGN INVESTORS INCREASE TREASURY BUYING, PURCHASING $9.84B OF 2-YEAR, $8.75B OF 5-YEAR & $6.79B OF 7-YEAR NOTES, UP FROM PRIOR MONTH LEVELS.
-- 09/09 04:11 [FirstSquawk] US & UK LAWMAKERS PUSH BILLS TO BAN SUPERINTELLIGENT AI & SEEK GLOBAL AGREEMENTS TO STOP ITS DEVELOPMENT, FOLLOWING ROGUE AI INCIDENTS SUCH AS THE HUGGING FACE HACK: TIME.
-- 09/09 04:13 [FirstSquawk] IRGC: IRAN CLAIMS CAPTURE OF ADVANCED US UNMANNED SUBMERSIBLE NEAR STRAIT OF HORMUZ, SAYS NO ADVANCED TECHNOLOGY CAN EVADE ITS SURVEILLANCE; US HAS NOT CONFIRMED THE CLAIM.
-- 09/09 04:13 [financialjuice] US is currently attacking Iranian oil tankers - I24 News citing a US source.
-- 09/09 04:15 [FirstSquawk] RUSSIA’S ROSSOTRUDNICHESTVO HEAD IGOR CHAIKA SAYS MOSCOW-YEREVAN TIES REMAIN “NORMAL,” COMPARING THEM TO A BIG FAMILY WHERE TENSIONS OCCASIONALLY ARISE.
-- 09/09 04:15 [FirstSquawk] IRAN FM ARAGHCHI: AFTER 47 YEARS OF US SANCTIONS & WAR, WASHINGTON HAS FAILED TO ACHIEVE ITS GOALS; NOW IT IS RESORTING TO “MORE SANCTIONS,” WHICH HE CALLS A DESPERATE MOVE.
-- 09/09 04:16 [FirstSquawk] BRENT CRUDE SURGES TOWARD $100/BBL, HITTING A SIX-WEEK HIGH, WHILE US GASOLINE PRICES SET A LABOR DAY RECORD AT $4.15/GALLON; BANKS WARN PROLONGED CONFLICT COULD PUSH OIL TO $120–$150/BBL.
-- 09/09 04:18 [FirstSquawk] US FORCES ARE REPORTEDLY STRIKING IRANIAN OIL TANKERS, WITH TWO US OFFICIALS CITED AS SAYING AMERICAN DRONES TARGETED TANKERS OFF IRAN’S SOUTHERN COAST: I24 NEWS.
 - 09/09 04:19 [FirstSquawk] U.S. CENTCOM: US UNDERWATER DRONE THAT MALFUNCTIONED MORE THAN A DAY BEFORE IRAN’S ANNOUNCEMENT WAS AN OLDER MODEL WITH NO CLASSIFIED SENSORS OR SENSITIVE DATA; WASHINGTON HAS NOT CONFIRMED IRAN RECOVERED THE VEHICLE OR THAT IT WAS A DIVE-L…
 - 09/09 04:22 [financialjuice] Wednesday FX Options Expiries
 - 09/09 04:28 [FirstSquawk] OIL APPROACHES $100 AS NEW HOUTHI ATTACKS ON SAUDI ENERGY INFRASTRUCTURE AND EXPLOSIONS ON IRAN’S KHARG ISLAND HEIGHTEN GLOBAL SUPPLY FEARS.
@@ -184,3 +169,12 @@
 - 09/09 09:59 [FirstSquawk] Heavy rain may continue through Thurs. on Pacific side of east, west Japan - KYODO
 - 09/09 10:00 [FirstSquawk] Taiwan Overnight Rate Opens Steady at 0.805%
 - 09/09 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs 0.805% previous session
+- 09/09 10:06 [FirstSquawk] Peru’s Petroperu Secures $475 Million in Loan Disbursement From International Banks
+- 09/09 10:06 [FirstSquawk] The ban on imports worth ‘billions’ of dollars would take effect in three weeks, US officials said, as Donald Trump’s administration continued to expand its trade war with its second-largest trading partner - FT
+- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: Conflict across Taiwan Strait would hit global economy harder than WWII beyond human toll
+- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: Trump administration made preserving peace in Indo-Pacific a key priority
+- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: we back Taiwan's efforts to strengthen its self-defense capabilities
+- 09/09 10:17 [financialjuice] Top U.S. diplomat in Taiwan: Taiwan’s capacity to prevent conflict remains crucial to maintaining its dynamic political, economic, and social system
+- 09/09 10:17 [financialjuice] Top U.S. diplomat in Taiwan: effective deterrence is crucial for enabling genuine cross-strait talks free from coercion or force threats
+- 09/09 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 8, 2023
+- 09/09 10:17 [financialjuice] Top US diplomat in Taiwan: threats Taiwan faces keep growing in scale and complexity

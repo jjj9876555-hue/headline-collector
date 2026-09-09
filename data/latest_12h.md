@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 10:01 JST／対象: 09/08 22:01 〜 09/09 10:01 JST（時刻はすべて日本時間）
+生成: 2026-09-09 10:18 JST／対象: 09/08 22:18 〜 09/09 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/08 22:06 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 233 | 09/08 22:02 | 09/09 10:00 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 203 | 09/08 22:01 | 09/09 10:00 | ⚠ 70分（08:50→10:00） |
+| DeItaone | 8 | 09/08 22:39 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
+| FirstSquawk | 230 | 09/08 22:24 | 09/09 10:06 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 200 | 09/08 22:23 | 09/09 10:17 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 435 行（統合前 446 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 428 行（統合前 438 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 22:01 [financialjuice] ECB Settled €1,667.7 bln public-sector bond purchases.
-- 09/08 22:01 [financialjuice] ECB settled €216.7 bln corporate bond purchases.
-- 09/08 22:01 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
-- 09/08 22:02 [financialjuice] Germany's Wadephul: The growing China trade deficit is alarming.
-- 09/08 22:02 [FirstSquawk] QUALCOMM, AMAZON PACT TO BUILD AI DATA CENTER INFRASTRUCTURE
-- 09/08 22:03 [financialjuice] Qualcomm issues a warrant to Amazon for up to 25M shares, the warrant priced at $161.26/share, expires 2036. $AMZN $QCOM
-- 09/08 22:04 [FirstSquawk] QUALCOMM TO ISSUE WARRANT TO AMAZON FOR UP TO 25 MILLION SHARES
-- 09/08 22:06 [DeItaone] IRAN'S STATE MEDIA CITING ARMY SAYS U.S. DRONE DOWNED OVER BANDAR ABBAS; NO U.S. CONFIRMATION
-- 09/08 22:06 [financialjuice/FirstSquawk] Iran's State Media citing Army: US drone downed over Bandar Abbas. No US confirmation.
-- 09/08 22:07 [financialjuice] Bank of England Governor Andrew Bailey F& MPC members Speak at the UK Treasury Committee - WATCH LIVE
-- 09/08 22:08 [financialjuice] Qualcomm: 3.75m shares of warrant to vest upon issuance. $QCOM
-- 09/08 22:09 [DeItaone] ATHA ENERGY CONTINUES STREAK AT ANGILAK URANIUM PROJECT, INTERSECTING URANIUM IN 7 FOR 7 HOLES AT RIB NORTH: PRELIMINARY RESULTS
-- 09/08 22:09 [FirstSquawk] PARAMOUNT SKYDANCE EXTENDS TENDER, EXCHANGE OFFERS TO SEPT. 18
-- 09/08 22:09 [financialjuice] Bank of America: If Middle East skirmishes continue into year end, brent could trade in a $95-120/bbl range.
-- 09/08 22:11 [FirstSquawk] IRANIAN AIR DEFENSE FORCES IDENTIFIED AND TARGETED A US DRONE OVER THE STRAIT OF HORMUZ, THE IRGC-AFFILIATED FARS NEWS AGENCY REPORTED ON TUESDAY. FARS SAID THE OPERATION WAS CARRIED OUT BY AIR DEFENSE UNITS OF IRAN'S REGULAR MILITARY IN TH…
-- 09/08 22:15 [financialjuice] German Economy Ministry: German gas storage levels in range of 60-70% at the start of winter, with import options sufficient to meet expected winter demand - Document.
 - 09/08 22:23 [financialjuice] BoE Gov. Bailey: The US-Iran war has led to high energy prices, they could be higher still.
 - 09/08 22:24 [FirstSquawk] BAILEY: ENERGY PRICES COULD GO EVEN HIGHER DUE TO US-IRAN WAR
 - 09/08 22:25 [FirstSquawk] BOE'S BAILEY: UKRAINIAN ATTACKS ON RUSSIAN REFINERIES ALSO PUSHING UP COST OF REFINED OIL PRODUCTS
@@ -459,3 +443,12 @@
 - 09/09 09:59 [FirstSquawk] Heavy rain may continue through Thurs. on Pacific side of east, west Japan - KYODO
 - 09/09 10:00 [FirstSquawk] Taiwan Overnight Rate Opens Steady at 0.805%
 - 09/09 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs 0.805% previous session
+- 09/09 10:06 [FirstSquawk] Peru’s Petroperu Secures $475 Million in Loan Disbursement From International Banks
+- 09/09 10:06 [FirstSquawk] The ban on imports worth ‘billions’ of dollars would take effect in three weeks, US officials said, as Donald Trump’s administration continued to expand its trade war with its second-largest trading partner - FT
+- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: Conflict across Taiwan Strait would hit global economy harder than WWII beyond human toll
+- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: Trump administration made preserving peace in Indo-Pacific a key priority
+- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: we back Taiwan's efforts to strengthen its self-defense capabilities
+- 09/09 10:17 [financialjuice] Top U.S. diplomat in Taiwan: Taiwan’s capacity to prevent conflict remains crucial to maintaining its dynamic political, economic, and social system
+- 09/09 10:17 [financialjuice] Top U.S. diplomat in Taiwan: effective deterrence is crucial for enabling genuine cross-strait talks free from coercion or force threats
+- 09/09 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 8, 2023
+- 09/09 10:17 [financialjuice] Top US diplomat in Taiwan: threats Taiwan faces keep growing in scale and complexity

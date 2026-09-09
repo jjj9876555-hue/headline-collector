@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 10:01 JST／対象: 09/08 10:01 〜 09/09 10:01 JST（時刻はすべて日本時間）
+生成: 2026-09-09 10:18 JST／対象: 09/08 10:18 〜 09/09 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 437 | 09/08 10:01 | 09/09 10:00 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 324 | 09/08 10:10 | 09/09 10:00 | ⚠ 70分（08:50→10:00） |
+| FirstSquawk | 430 | 09/08 10:21 | 09/09 10:06 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 329 | 09/08 10:20 | 09/09 10:17 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 760 行（統合前 773 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 758 行（統合前 771 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 10:01 [FirstSquawk] Taiwan overnight interbank rate holds at 0.805% at session open
-- 09/08 10:01 [FirstSquawk] 5-year Japanese government bond yield drops 2.0 bps to 2.230%
-- 09/08 10:02 [FirstSquawk] 30-year Japanese government bond yield drops 4.0 bps to 3.980%
-- 09/08 10:07 [FirstSquawk] Japan sends fighter jets to intercept Chinese spy aircraft over East China Sea
-- 09/08 10:10 [financialjuice] S. Korea Defence Minister Ahn: North Korea strengthening DMZ beyond precedent, dialogue needed to resolve issue
-- 09/08 10:11 [FirstSquawk] S. Korea defence minister Ahn: North Korea strengthening DMZ fortifications to unprecedented levels, dialogue needed
-- 09/08 10:11 [FirstSquawk] Japan upgrades Q2 GDP on slight capex improvement - NA
-- 09/08 10:13 [financialjuice] Russia strikes Kyiv with ballistic missiles: mayor
-- 09/08 10:14 [FirstSquawk] Kyiv hit by Russian ballistic missile attack, mayor says
-- 09/08 10:16 [FirstSquawk] China’s PBOC fixes yuan mid-point at 6.7804 per dollar
-- 09/08 10:16 [FirstSquawk] Indonesia’s Mount Anak Krakatau records three eruptions on Tuesday — monitoring agency
 - 09/08 10:20 [financialjuice] China pumps 1 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
 - 09/08 10:21 [FirstSquawk] 20-year Japanese government bond yield drops 4.0 bps to 3.705%
 - 09/08 10:28 [FirstSquawk] Yen Strengthens Further; Sentiment Toward Currency Has ‘Materially’ Shifted - WSJ
@@ -784,3 +773,12 @@
 - 09/09 09:59 [FirstSquawk] Heavy rain may continue through Thurs. on Pacific side of east, west Japan - KYODO
 - 09/09 10:00 [FirstSquawk] Taiwan Overnight Rate Opens Steady at 0.805%
 - 09/09 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs 0.805% previous session
+- 09/09 10:06 [FirstSquawk] Peru’s Petroperu Secures $475 Million in Loan Disbursement From International Banks
+- 09/09 10:06 [FirstSquawk] The ban on imports worth ‘billions’ of dollars would take effect in three weeks, US officials said, as Donald Trump’s administration continued to expand its trade war with its second-largest trading partner - FT
+- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: Conflict across Taiwan Strait would hit global economy harder than WWII beyond human toll
+- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: Trump administration made preserving peace in Indo-Pacific a key priority
+- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: we back Taiwan's efforts to strengthen its self-defense capabilities
+- 09/09 10:17 [financialjuice] Top U.S. diplomat in Taiwan: Taiwan’s capacity to prevent conflict remains crucial to maintaining its dynamic political, economic, and social system
+- 09/09 10:17 [financialjuice] Top U.S. diplomat in Taiwan: effective deterrence is crucial for enabling genuine cross-strait talks free from coercion or force threats
+- 09/09 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 8, 2023
+- 09/09 10:17 [financialjuice] Top US diplomat in Taiwan: threats Taiwan faces keep growing in scale and complexity
