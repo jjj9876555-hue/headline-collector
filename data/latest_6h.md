@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 02:16 JST／対象: 09/09 20:16 〜 09/10 02:16 JST（時刻はすべて日本時間）
+生成: 2026-09-10 02:33 JST／対象: 09/09 20:33 〜 09/10 02:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/09 20:35 | 09/10 02:16 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 83 | 09/09 20:24 | 09/10 01:52 | 28分（00:32→01:01） |
-| financialjuice | 83 | 09/09 20:26 | 09/10 02:15 | 35分（21:20→21:55） |
+| DeItaone | 23 | 09/09 20:35 | 09/10 02:30 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 75 | 09/09 20:33 | 09/10 01:52 | 28分（00:32→01:01） |
+| financialjuice | 88 | 09/09 20:34 | 09/10 02:32 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 184 行（統合前 187 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,15 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 20:24 [FirstSquawk] US BANK LAUNCHES USBDC STABLECOIN
-- 09/09 20:24 [FirstSquawk] UK PM BURNHAM: WILL TAKE PRAGMATIC APPROACH ON NORTH SEA OIL AND GAS
-- 09/09 20:26 [FirstSquawk] BURNHAM: PLAN FURTHER MEASURES ON COST OF LIVING THIS YEAR
-- 09/09 20:26 [FirstSquawk] BURNHAM ANNOUNCES MORE COST OF LIVING ACTIONS THIS YEAR.
-- 09/09 20:26 [financialjuice] UK's PM Burnham: We plan further measures on cost of living this year.
-- 09/09 20:27 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON ON PLANNED EU BUDGET: WE DON'T YET HAVE VIABLE BASIS FOR TALKS, FIGURES NEED TO COME DOWN
-- 09/09 20:29 [FirstSquawk] UBER ANNOUNCES €4.5 BILLION EURO BOND SALE FOR ITS MARKET DEBUT.
-- 09/09 20:31 [FirstSquawk] STOXX EUROPE 600 EXTENDS LOSSES TO 1.5%, MOST IN TWO MONTHS
-- 09/09 20:31 [FirstSquawk] UK GILTS DECLINE; UK 10Y YIELD RISES 5BPS TO 5.23%
 - 09/09 20:33 [FirstSquawk] AIRLINES CALL FOR UK AIR TRAFFIC CONTROL BOSS TO QUIT AS DISRUPTION CONTINUES – FT
 - 09/09 20:34 [financialjuice] Fitch Ratings: Severe equity price shock scenario would entail US recession.
 - 09/09 20:35 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS RISE TO 4.4253%, HIGHEST SINCE JANUARY 2025
@@ -208,3 +199,12 @@
 - 09/10 02:14 [DeItaone] APPLE ANNONCES A20 PRO CHIP BASED ON 2NM TECHNOLOGY - EVENT
 - 09/10 02:15 [financialjuice] Apple announces A20 Pro chip based on 2NM technology $AAPL
 - 09/10 02:16 [DeItaone] APPLE: A20 PRO CHIP HAS SEVEN GPU CORES - EVENT
+- 09/10 02:16 [financialjuice] Apple: A20 Pro chip has seven GPU cores. $AAPL
+- 09/10 02:17 [financialjuice] Apple: A20 chip will have two neural engines with 32 cores total, increasing on-device AI performance $AAPL
+- 09/10 02:19 [DeItaone] APPLE SAYS IPHONE 18 PRO MAX HAS THE LARGEST INCREASE IN BATTERY LIFE EVER ON IPHONE - EVENT
+- 09/10 02:21 [DeItaone] SPAIN’S SPY AGENCY WARNED AHEAD OF CEUTA MIGRANT SURGE Spain’s CNI intelligence agency warned Madrid and Moroccan authorities one day before more than 70,000 migrants crossed into Ceuta, newly declassified documents show. The CNI flagged so…
+- 09/10 02:23 [financialjuice] Apple: iPhone 18 Pro has a 48 MP fusion main camera with variable aperture $AAPL
+- 09/10 02:28 [financialjuice] Apple: Apple reference image standard to prove the authenticity of photos at the time of capture, Reference image not available in the EU or China. $AAPL
+- 09/10 02:30 [DeItaone] APPLE INC.: IPHONE 18 PRO STARTS AT $1,199 - EVENT APPLE IPHONE 18 PRO MAX STARTS AT $1,299 - EVENT
+- 09/10 02:31 [financialjuice] Apple iPhone 18 Pro Max starts at $1,299, iPhone 18 Pro starts at $1,199 $AAPL
+- 09/10 02:32 [financialjuice] Apple announces AirPods 5 $AAPL

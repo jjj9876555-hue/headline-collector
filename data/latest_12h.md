@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 02:16 JST／対象: 09/09 14:16 〜 09/10 02:16 JST（時刻はすべて日本時間）
+生成: 2026-09-10 02:33 JST／対象: 09/09 14:33 〜 09/10 02:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 35 | 09/09 16:31 | 09/10 02:16 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 170 | 09/09 14:19 | 09/10 01:52 | 28分（00:32→01:01） |
-| financialjuice | 101 | 09/09 17:26 | 09/10 02:15 | 35分（21:20→21:55） |
+| DeItaone | 38 | 09/09 16:31 | 09/10 02:30 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 168 | 09/09 14:36 | 09/10 01:52 | 28分（00:32→01:01） |
+| financialjuice | 107 | 09/09 17:26 | 09/10 02:32 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 301 行（統合前 307 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 308 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 14:19 [FirstSquawk] China needs monkeys: lab animal shortage could hinder biotech growth - SCMP
-- 09/09 14:20 [FirstSquawk] Heathrow Says Flights Are Operating Today, With Some Disruption Expected as Airlines Reposition Aircraft and Staff
 - 09/09 14:36 [FirstSquawk] USD/JPY Drops 0.48% to 153.29
 - 09/09 14:41 [FirstSquawk] NZ Public Servants Stage Walkout in Dispute Over Pay Offer
 - 09/09 14:45 [FirstSquawk] Flights Resume at London Gatwick Airport, UK Says
@@ -325,3 +323,12 @@
 - 09/10 02:14 [DeItaone] APPLE ANNONCES A20 PRO CHIP BASED ON 2NM TECHNOLOGY - EVENT
 - 09/10 02:15 [financialjuice] Apple announces A20 Pro chip based on 2NM technology $AAPL
 - 09/10 02:16 [DeItaone] APPLE: A20 PRO CHIP HAS SEVEN GPU CORES - EVENT
+- 09/10 02:16 [financialjuice] Apple: A20 Pro chip has seven GPU cores. $AAPL
+- 09/10 02:17 [financialjuice] Apple: A20 chip will have two neural engines with 32 cores total, increasing on-device AI performance $AAPL
+- 09/10 02:19 [DeItaone] APPLE SAYS IPHONE 18 PRO MAX HAS THE LARGEST INCREASE IN BATTERY LIFE EVER ON IPHONE - EVENT
+- 09/10 02:21 [DeItaone] SPAIN’S SPY AGENCY WARNED AHEAD OF CEUTA MIGRANT SURGE Spain’s CNI intelligence agency warned Madrid and Moroccan authorities one day before more than 70,000 migrants crossed into Ceuta, newly declassified documents show. The CNI flagged so…
+- 09/10 02:23 [financialjuice] Apple: iPhone 18 Pro has a 48 MP fusion main camera with variable aperture $AAPL
+- 09/10 02:28 [financialjuice] Apple: Apple reference image standard to prove the authenticity of photos at the time of capture, Reference image not available in the EU or China. $AAPL
+- 09/10 02:30 [DeItaone] APPLE INC.: IPHONE 18 PRO STARTS AT $1,199 - EVENT APPLE IPHONE 18 PRO MAX STARTS AT $1,299 - EVENT
+- 09/10 02:31 [financialjuice] Apple iPhone 18 Pro Max starts at $1,299, iPhone 18 Pro starts at $1,199 $AAPL
+- 09/10 02:32 [financialjuice] Apple announces AirPods 5 $AAPL

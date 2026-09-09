@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 02:16 JST／対象: 09/09 02:16 〜 09/10 02:16 JST（時刻はすべて日本時間）
+生成: 2026-09-10 02:33 JST／対象: 09/09 02:33 〜 09/10 02:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 39 | 09/09 02:40 | 09/10 02:16 | ⚠ 658分（05:33→16:31） |
+| DeItaone | 42 | 09/09 02:40 | 09/10 02:30 | ⚠ 658分（05:33→16:31） |
 | FirstSquawk | 379 | 09/09 02:33 | 09/10 01:52 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 218 | 09/09 02:35 | 09/10 02:15 | ⚠ 206分（14:00→17:26） |
+| financialjuice | 224 | 09/09 02:35 | 09/10 02:32 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 622 行（統合前 639 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 631 行（統合前 648 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -646,3 +646,12 @@
 - 09/10 02:14 [DeItaone] APPLE ANNONCES A20 PRO CHIP BASED ON 2NM TECHNOLOGY - EVENT
 - 09/10 02:15 [financialjuice] Apple announces A20 Pro chip based on 2NM technology $AAPL
 - 09/10 02:16 [DeItaone] APPLE: A20 PRO CHIP HAS SEVEN GPU CORES - EVENT
+- 09/10 02:16 [financialjuice] Apple: A20 Pro chip has seven GPU cores. $AAPL
+- 09/10 02:17 [financialjuice] Apple: A20 chip will have two neural engines with 32 cores total, increasing on-device AI performance $AAPL
+- 09/10 02:19 [DeItaone] APPLE SAYS IPHONE 18 PRO MAX HAS THE LARGEST INCREASE IN BATTERY LIFE EVER ON IPHONE - EVENT
+- 09/10 02:21 [DeItaone] SPAIN’S SPY AGENCY WARNED AHEAD OF CEUTA MIGRANT SURGE Spain’s CNI intelligence agency warned Madrid and Moroccan authorities one day before more than 70,000 migrants crossed into Ceuta, newly declassified documents show. The CNI flagged so…
+- 09/10 02:23 [financialjuice] Apple: iPhone 18 Pro has a 48 MP fusion main camera with variable aperture $AAPL
+- 09/10 02:28 [financialjuice] Apple: Apple reference image standard to prove the authenticity of photos at the time of capture, Reference image not available in the EU or China. $AAPL
+- 09/10 02:30 [DeItaone] APPLE INC.: IPHONE 18 PRO STARTS AT $1,199 - EVENT APPLE IPHONE 18 PRO MAX STARTS AT $1,299 - EVENT
+- 09/10 02:31 [financialjuice] Apple iPhone 18 Pro Max starts at $1,299, iPhone 18 Pro starts at $1,199 $AAPL
+- 09/10 02:32 [financialjuice] Apple announces AirPods 5 $AAPL
