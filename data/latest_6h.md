@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 11:25 JST／対象: 09/09 05:25 〜 09/09 11:25 JST（時刻はすべて日本時間）
+生成: 2026-09-09 11:44 JST／対象: 09/09 05:44 〜 09/09 11:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/09 05:31 | 09/09 05:33 | 1分（05:31→05:33） |
-| FirstSquawk | 100 | 09/09 05:26 | 09/09 11:22 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 74 | 09/09 05:29 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 100 | 09/09 05:54 | 09/09 11:40 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 72 | 09/09 06:02 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 173 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 169 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 05:26 [FirstSquawk] HEATHROW: ARRIVALS SUSPENDED FOR THE REST OF TUESDAY DUE TO EARLIER NATS TECHNICAL ISSUE; DEPARTURES & AIR TRAFFIC CONTROL SERVICES HAVE RESUMED, BUT DISRUPTIONS ARE EXPECTED TO CONTINUE.
-- 09/09 05:27 [FirstSquawk] HHS ANNOUNCES KEY FDA LEADERSHIP APPOINTMENTS, NAMING JARED SEEHAFER AS THE AGENCY’S FIRST DEPUTY COMMISSIONER FOR TECHNOLOGY & ARTIFICIAL INTELLIGENCE, ALONGSIDE NEW HEADS FOR TOBACCO, BIOLOGICS & DRUG EVALUATION CENTERS.
-- 09/09 05:29 [financialjuice] Google and Blackstone venture faces delays at data-center sites. $GOOGL $BX
-- 09/09 05:30 [financialjuice] Trump: Directing GSA, working with USTR, to take all necessary steps to remove Canadian-origin products from GSA's multiple award schedules.
-- 09/09 05:31 [DeItaone] IRAN'S STATE BROADCASTER IRIB: U.S. ATTACKED SECOND OIL TANKER NEAR WATERS OF JASK
-- 09/09 05:31 [FirstSquawk] TRUMP: DIRECTING GSA, IN COORDINATION WITH USTR, TO TAKE ALL NECESSARY STEPS TO REMOVE CANADIAN-ORIGIN PRODUCTS FROM GSA MULTIPLE AWARD SCHEDULES, ESCALATING US-CANADA TRADE TENSIONS.
-- 09/09 05:32 [FirstSquawk] BESSENT SET TO ANNOUNCE LARGER US TREASURY BUYBACK AS WALL STREET EXPECTS $5-$6 BILLION OPERATION, PUTTING LONG-TERM BONDS IN FOCUS. A BIGGER BUYBACK COULD REDUCE NET LONG-DATED DEBT SUPPLY AND HELP CONTAIN ELEVATED YIELDS, WITH THE ANNOUNC…
-- 09/09 05:33 [DeItaone] TRUMP MOVES TO RESTRICT CANADIAN PRODUCTS FROM U.S. PROCUREMENT President Donald Trump directed the GSA and USTR to remove Canadian-origin products from federal procurement schedules unless Canada provides greater access to U.S. companies a…
-- 09/09 05:33 [FirstSquawk] GLOBAL MARKETS: STOCKS SLIDE AS MIDDLE EAST TENSIONS DRIVE OIL HIGHER, WITH BRENT NEAR $98/BBL AND RISING ENERGY PRICES REVIVING INFLATION & FED RATE-HIKE CONCERNS AHEAD OF AUGUST CPI DATA.
-- 09/09 05:33 [FirstSquawk] US EQUITIES: S&P 500 FALLS 0.6%, DOW DROPS 1.2% & NASDAQ 100 EASES 0.1%; TREASURY YIELDS EDGE HIGHER AS MARKETS ASSESS RISING OIL-DRIVEN INFLATION RISKS.
-- 09/09 05:33 [FirstSquawk] COMMODITIES: WTI CLIMBS 2.8% TO $94.08/BBL, WHILE SPOT GOLD SLIDES 1% TO $4,360.27/OZ AMID HEIGHTENED GEOPOLITICAL TENSIONS.
 - 09/09 05:54 [FirstSquawk] UAE PRESIDENT SHEIKH MOHAMMED BIN ZAYED REPORTEDLY WARNED NETANYAHU ABOUT A MAJOR PLANNED HAMAS OPERATION DAYS BEFORE OCT. 7, ACCORDING TO HAARETZ. NETANYAHU’S OFFICE DENIES THE REPORT AS AN “ABSOLUTE LIE,” WHILE THE ALLEGATION REIGNITES PO…
 - 09/09 06:02 [financialjuice] Chile's central bank: will take necessary steps to ensure projected inflation hits 3% over two-year period
 - 09/09 06:04 [financialjuice] Chile’s central bank: local economy may regain strength by 2027 but current weakness could last longer than expected
@@ -197,3 +186,10 @@
 - 09/09 11:11 [FirstSquawk] Iran’s IRGC Claims Attacks on Two U.S. Vessels and Eight Gulf Oil Tankers After U.S. Hit Five Iranian Tankers
 - 09/09 11:14 [FirstSquawk] IRGC Claims Attacks on 10 Ships Attempting to Transit ‘Prohibited and Unsafe’ Area of Strait of Hormuz
 - 09/09 11:22 [FirstSquawk] New Zealand Dollar holds gains above 0.5850 after Chinese inflation data - FX
+- 09/09 11:25 [FirstSquawk] Economic anxiety and US tensions drive Mao revival among young Chinese - SCMP
+- 09/09 11:31 [FirstSquawk] South Korea Auctions 20-Year Treasury Bonds at 4.520% Yield, Finance Ministry Says
+- 09/09 11:32 [FirstSquawk] China Tightens Humanoid IPOs Following Volatile Unitree Debut, The Information Says
+- 09/09 11:35 [FirstSquawk] Yuan use grows as supply chains reshape global trade, Deutsche Bank says - SCMP
+- 09/09 11:36 [FirstSquawk] South Korean Stocks Advance 2% as KOSPI Climbs
+- 09/09 11:37 [FirstSquawk] Gemini Digital Payments Singapore Receives Major Payment Institution License From MAS
+- 09/09 11:40 [FirstSquawk] Oil heads for $100, Asia stocks subdued as Middle East tensions escalate - RTRS

@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 11:25 JST／対象: 09/08 23:25 〜 09/09 11:25 JST（時刻はすべて日本時間）
+生成: 2026-09-09 11:44 JST／対象: 09/08 23:44 〜 09/09 11:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/08 23:50 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 232 | 09/08 23:26 | 09/09 11:22 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 185 | 09/08 23:26 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
+| FirstSquawk | 234 | 09/08 23:49 | 09/09 11:40 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 182 | 09/08 23:48 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 415 行（統合前 423 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 414 行（統合前 422 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 23:26 [financialjuice] Trump honors 9/11 victims, first responders at White House - WATCH LIVE
-- 09/08 23:26 [FirstSquawk] ISRAEL’S FOREIGN MINISTER GIDEON SA’AR: THE CONNECTION AND RIGHT OF THE JEWISH PEOPLE TO THIS LAND ARE EXTENSIVELY DOCUMENTED, MORE THAN ANY OTHER PEOPLE OR NATION IN HUMAN HISTORY.
-- 09/08 23:28 [FirstSquawk] IN A FEW MINUTES, IMPORTANT NEWS WILL BE RELEASED ABOUT THE HUNTING OF IRGC NAVY FIGHTERS IN THE STRAIT OF HORMUZ – TASNIM
-- 09/08 23:38 [financialjuice] Canada extends it's federal fuel excise tax relief on gasoline.
-- 09/08 23:43 [financialjuice] BoE Gov. Bailey: We want to achieve a better quality debate on global imbalances when the UK hosts the G20 next year.
-- 09/08 23:43 [FirstSquawk] CANADA'S TRADE MINISTER SIDHU ANNOUNCED TALKS TO SELL NUCLEAR-POWER TECHNOLOGY AND LIQUEFIED NATURAL GAS (LNG) TO POLAND.
-- 09/08 23:43 [FirstSquawk] CANADA CONTINUES FEDERAL TAX RELIEF ON GASOLINE FUEL EXCISE.
-- 09/08 23:43 [FirstSquawk] BAILEY SAYS UK AIMS FOR A HIGHER-QUALITY DISCUSSION ON GLOBAL IMBALANCES DURING G20 HOSTING NEXT YEAR.
 - 09/08 23:48 [financialjuice] Kyiv’s allies see the war going into 2027 after Putin met with the US envoys.
 - 09/08 23:49 [FirstSquawk] KYIV'S SUPPORTERS PREDICT WAR COULD LAST UNTIL 2027 FOLLOWING PUTIN'S MEETING WITH U.S. OFFICIALS.
 - 09/08 23:50 [DeItaone] IRGC CLAIMS CAPTURE OF U.S. UNMANNED SUBMARINE Iran’s Islamic Revolutionary Guard Corps (IRGC) Navy claims it captured a U.S. unmanned submarine near the entrance to the Strait of Hormuz. The IRGC said the operation relied on intelligence a…
@@ -439,3 +431,10 @@
 - 09/09 11:11 [FirstSquawk] Iran’s IRGC Claims Attacks on Two U.S. Vessels and Eight Gulf Oil Tankers After U.S. Hit Five Iranian Tankers
 - 09/09 11:14 [FirstSquawk] IRGC Claims Attacks on 10 Ships Attempting to Transit ‘Prohibited and Unsafe’ Area of Strait of Hormuz
 - 09/09 11:22 [FirstSquawk] New Zealand Dollar holds gains above 0.5850 after Chinese inflation data - FX
+- 09/09 11:25 [FirstSquawk] Economic anxiety and US tensions drive Mao revival among young Chinese - SCMP
+- 09/09 11:31 [FirstSquawk] South Korea Auctions 20-Year Treasury Bonds at 4.520% Yield, Finance Ministry Says
+- 09/09 11:32 [FirstSquawk] China Tightens Humanoid IPOs Following Volatile Unitree Debut, The Information Says
+- 09/09 11:35 [FirstSquawk] Yuan use grows as supply chains reshape global trade, Deutsche Bank says - SCMP
+- 09/09 11:36 [FirstSquawk] South Korean Stocks Advance 2% as KOSPI Climbs
+- 09/09 11:37 [FirstSquawk] Gemini Digital Payments Singapore Receives Major Payment Institution License From MAS
+- 09/09 11:40 [FirstSquawk] Oil heads for $100, Asia stocks subdued as Middle East tensions escalate - RTRS
