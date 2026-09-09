@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 08:31 JST／対象: 09/09 08:31 〜 09/10 08:31 JST（時刻はすべて日本時間）
+生成: 2026-09-10 08:43 JST／対象: 09/09 08:43 〜 09/10 08:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 339 | 09/09 08:32 | 09/10 08:15 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 207 | 09/09 08:37 | 09/10 08:13 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 337 | 09/09 08:48 | 09/10 08:15 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 205 | 09/09 08:48 | 09/10 08:32 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 589 行（統合前 604 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 585 行（統合前 600 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 08:32 [FirstSquawk] GOLD FELL 1% TO $4,357.88 AN OUNCE AS RISING MIDDLE EAST TENSIONS PUSHED OIL PRICES HIGHER, INCREASING CONCERNS THAT INFLATION COULD REMAIN ELEVATED AND INTEREST RATES STAY HIGHER FOR LONGER, WITH MARKETS NOW PRICING MORE THAN A 50% CHANCE …
-- 09/09 08:37 [financialjuice] Jordan: 20 ballistic missiles fired from Iran toward its territory
-- 09/09 08:38 [financialjuice] Trump: Populist party in Germany scores major victory
-- 09/09 08:38 [financialjuice] Jordan: air defences intercepted and destroyed 18 of 20 Iranian missiles, two fell away from population centers
-- 09/09 08:39 [financialjuice] Jordan: no casualties reported after Iranian missile strike
-- 09/09 08:42 [FirstSquawk] JORDAN SAYS 20 BALLISTIC MISSILES WERE LAUNCHED FROM IRAN TOWARD ITS TERRITORY, WITH ITS AIR DEFENCES INTERCEPTING AND DESTROYING 18 OF THE 20 AND TWO FALLING IN AREAS AWAY FROM POPULATION CENTRES, ADDING THAT NO CASUALTIES WERE REPORTED
 - 09/09 08:48 [financialjuice] Anthropic researcher Jacob Coxon quits AI industry over concerns companies are rushing to develop uncontrollable self-improving systems - WSJ
 - 09/09 08:48 [FirstSquawk] JAPAN'S NIKKEI AVERAGE FUTURES SLIP 0.4% IN EARLY TRADE, WHILE BENCHMARK 10-YEAR JGB FUTURES EDGE DOWN 0.03 POINT
 - 09/09 08:48 [FirstSquawk] ANTHROPIC RESEARCHER JACOB COXON IS QUITTING THE AI INDUSTRY OVER FEARS THAT COMPANIES ARE RACING TO BUILD UNCONTROLLABLE, SELF-IMPROVING SYSTEMS - WSJ
@@ -613,3 +607,5 @@
 - 09/10 08:13 [financialjuice] One pilot of crashed Amazon cargo plane tells other about excessive speed in final 1 minute 42 seconds of cockpit voice recording, NTSB says
 - 09/10 08:13 [financialjuice] 'Too low, terrain' was repeated several times before plane landed on runway: NTSB
 - 09/10 08:15 [FirstSquawk] JAPAN SURVEY SHOWS NEARLY ONE-THIRD OF COMPANIES PREFER THE YEN TO TRADE AT 150-159.99 PER DOLLAR, WHILE ABOUT A QUARTER FAVOR THE 140-149.99 RANGE. MORE THAN TWO-THIRDS OF JAPANESE FIRMS BACK PM SANAE TAKAICHI’S ECONOMIC POLICIES, WITH 46%…
+- 09/10 08:31 [financialjuice] OpenAI: pushing for compulsory national AI safety regulations
+- 09/10 08:32 [financialjuice] OpenAI: backing four California bills

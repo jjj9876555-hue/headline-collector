@@ -7,36 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 08:31 JST／対象: 09/09 20:31 〜 09/10 08:31 JST（時刻はすべて日本時間）
+生成: 2026-09-10 08:43 JST／対象: 09/09 20:43 〜 09/10 08:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 09/09 20:35 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 135 | 09/09 20:31 | 09/10 08:15 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 153 | 09/09 20:34 | 09/10 08:13 | ⚠ 59分（07:00→08:00） |
+| DeItaone | 37 | 09/09 20:50 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 127 | 09/09 20:46 | 09/10 08:15 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 153 | 09/09 21:00 | 09/10 08:32 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 320 行（統合前 329 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 310 行（統合前 318 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 20:31 [FirstSquawk] STOXX EUROPE 600 EXTENDS LOSSES TO 1.5%, MOST IN TWO MONTHS
-- 09/09 20:31 [FirstSquawk] UK GILTS DECLINE; UK 10Y YIELD RISES 5BPS TO 5.23%
-- 09/09 20:33 [FirstSquawk] AIRLINES CALL FOR UK AIR TRAFFIC CONTROL BOSS TO QUIT AS DISRUPTION CONTINUES – FT
-- 09/09 20:34 [financialjuice] Fitch Ratings: Severe equity price shock scenario would entail US recession.
-- 09/09 20:35 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS RISE TO 4.4253%, HIGHEST SINCE JANUARY 2025
-- 09/09 20:36 [FirstSquawk] UK BURNHAM: WON'T SUPPORT MORATORIUM ON BUILDING DATA CENTERS
-- 09/09 20:37 [financialjuice] UK's PM Burnham: I won't support moratorium on building data centers.
-- 09/09 20:37 [FirstSquawk] UK BURNHAM: IMPORTANT FOR COMMUNITIES TO SEE DATA CENTER BENEFITS
-- 09/09 20:39 [DeItaone] GERMAN 2-YEAR YIELDS RISE AS MUCH AS 7.2 BPS TO 3.052%, SET FOR BIGGEST ONE-DAY INCREASE SINCE EARLY JULY
-- 09/09 20:41 [FirstSquawk] PUTIN'S AIDE: RUSSIA CONSIDERS ABU DHABI PRIORITY LOCATION FOR TALKS ON UKRAINE – VESTI
-- 09/09 20:41 [FirstSquawk] DOW IS CONSIDERING PULLING OUT OF A $20 BILLION CHEMICAL PROJECT IN SAUDI ARABIA.
-- 09/09 20:42 [DeItaone/FirstSquawk] KREMLIN: UNITED STATES SHOULD HALT ANY AID TO KYIV FOR THE MILITARY ACTIONS TO STOP
-- 09/09 20:43 [FirstSquawk] UK BURNHAM: GAVE THE MOST CAREFUL CONSIDERATION ON ISRAEL MEASURES
+- 09/09 20:46 [FirstSquawk] KREMLIN: UNITED STATES SHOULD HALT ANY AID TO KYIV FOR THE MILITARY ACTIONS TO STOP
 - 09/09 20:48 [FirstSquawk] MARCO RUBIO: EXPECT COLOMBIA'S DRUG-FIGHTING CERTIFICATION TO CHANGE
 - 09/09 20:50 [DeItaone] CENTRAL BANKS FOCUS ON FUEL PRICES AS INFLATION RISK Central banks are increasingly watching refining margins, or “crack spreads,” as fuel shortages push gasoline and diesel prices higher. Bank of England Governor Andrew Bailey said refined…
 - 09/09 20:51 [FirstSquawk] COMPANIES ARE INCREASING BOND MARKET BORROWING, RAISING OVER $70 BILLION ON TUESDAY, THE BUSIEST SESSION SINCE JUNE.
@@ -344,3 +332,5 @@
 - 09/10 08:13 [financialjuice] One pilot of crashed Amazon cargo plane tells other about excessive speed in final 1 minute 42 seconds of cockpit voice recording, NTSB says
 - 09/10 08:13 [financialjuice] 'Too low, terrain' was repeated several times before plane landed on runway: NTSB
 - 09/10 08:15 [FirstSquawk] JAPAN SURVEY SHOWS NEARLY ONE-THIRD OF COMPANIES PREFER THE YEN TO TRADE AT 150-159.99 PER DOLLAR, WHILE ABOUT A QUARTER FAVOR THE 140-149.99 RANGE. MORE THAN TWO-THIRDS OF JAPANESE FIRMS BACK PM SANAE TAKAICHI’S ECONOMIC POLICIES, WITH 46%…
+- 09/10 08:31 [financialjuice] OpenAI: pushing for compulsory national AI safety regulations
+- 09/10 08:32 [financialjuice] OpenAI: backing four California bills

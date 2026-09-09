@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 08:31 JST／対象: 09/10 02:31 〜 09/10 08:31 JST（時刻はすべて日本時間）
+生成: 2026-09-10 08:43 JST／対象: 09/10 02:43 〜 09/10 08:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/10 03:00 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
 | FirstSquawk | 58 | 09/10 02:47 | 09/10 08:15 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 66 | 09/10 02:32 | 09/10 08:13 | ⚠ 59分（07:00→08:00） |
+| financialjuice | 65 | 09/10 02:54 | 09/10 08:32 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 135 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 134 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 02:32 [financialjuice] Apple announces AirPods 5 $AAPL
-- 09/10 02:35 [financialjuice] Apple: AirPods 5 base model starts at $129 $AAPL
-- 09/10 02:37 [financialjuice] Apple announces Apple Watch Series 12 and Apple Watch Ultra 4. $AAPL
 - 09/10 02:47 [FirstSquawk] APPLE HAS UNVEILED THE IPHONE 18 PRO AND IPHONE 18 PRO MAX, WITH THE IPHONE 18 PRO MAX STARTING AT $1,299 AND THE IPHONE 18 PRO STARTING AT $1,199, FEATURING A 48 MP FUSION MAIN CAMERA WITH VARIABLE APERTURE AND A NEW A20 PRO CHIP BASED ON …
 - 09/10 02:47 [FirstSquawk] APPLE SAYS THE A20 CHIP WILL HAVE TWO NEURAL ENGINES WITH 32 CORES TOTAL TO INCREASE ON-DEVICE AI PERFORMANCE, AND ANNOUNCED AN APPLE REFERENCE IMAGE STANDARD TO PROVE THE AUTHENTICITY OF PHOTOS AT THE TIME OF CAPTURE, WHICH WILL NOT BE AVA…
 - 09/10 02:47 [FirstSquawk] APPLE ALSO ANNOUNCED THE APPLE WATCH SERIES 12 AND APPLE WATCH ULTRA 4, ALONGSIDE THE AIRPODS 5 WITH A BASE MODEL STARTING AT $129.
@@ -159,3 +156,5 @@
 - 09/10 08:13 [financialjuice] One pilot of crashed Amazon cargo plane tells other about excessive speed in final 1 minute 42 seconds of cockpit voice recording, NTSB says
 - 09/10 08:13 [financialjuice] 'Too low, terrain' was repeated several times before plane landed on runway: NTSB
 - 09/10 08:15 [FirstSquawk] JAPAN SURVEY SHOWS NEARLY ONE-THIRD OF COMPANIES PREFER THE YEN TO TRADE AT 150-159.99 PER DOLLAR, WHILE ABOUT A QUARTER FAVOR THE 140-149.99 RANGE. MORE THAN TWO-THIRDS OF JAPANESE FIRMS BACK PM SANAE TAKAICHI’S ECONOMIC POLICIES, WITH 46%…
+- 09/10 08:31 [financialjuice] OpenAI: pushing for compulsory national AI safety regulations
+- 09/10 08:32 [financialjuice] OpenAI: backing four California bills
