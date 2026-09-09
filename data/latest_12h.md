@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 15:03 JST／対象: 09/09 03:03 〜 09/09 15:03 JST（時刻はすべて日本時間）
+生成: 2026-09-09 15:31 JST／対象: 09/09 03:31 〜 09/09 15:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/09 03:46 | 09/09 05:33 | ⚠ 105分（03:46→05:31） |
-| FirstSquawk | 197 | 09/09 03:04 | 09/09 15:01 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 115 | 09/09 03:12 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 201 | 09/09 03:40 | 09/09 15:30 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 114 | 09/09 03:31 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 307 行（統合前 317 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 311 行（統合前 320 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 03:04 [FirstSquawk] RUSSIA'S LAVROV SAYS PUTIN, TRUMP AND XI MAY MEET AT APEC IN NOVEMBER - IFX
-- 09/09 03:12 [financialjuice/FirstSquawk] USTR Greer and Canada's Leblanc to speak today -Radio-Canada
 - 09/09 03:31 [financialjuice] NYMEX WTI crude October futures settle at $93.03 a barrel, up $1.55, 1.69%.
 - 09/09 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.2525 a gallon.
 - 09/09 03:32 [financialjuice] NYMEX Diesel October futures settle at $4.5678 a gallon.
@@ -331,3 +329,9 @@
 - 09/09 15:00 [FirstSquawk] NORWAY (AUG) PPI INCLUDING OIL MOM ACTUAL: 30.1% VS 23.4% PREVIOUS
 - 09/09 15:01 [FirstSquawk] NORWAY PPI INCLUDING OIL (M/M): 4.7% (PREV 8.9%)
 - 09/09 15:01 [FirstSquawk] Japan Machine Tool Orders (Y/Y) Aug P: 64.7% (prev 50.4%)
+- 09/09 15:11 [FirstSquawk] Russian Naval Base in Novorossiysk Hit by Ukraine Overnight, Drone Forces Commander Says
+- 09/09 15:21 [FirstSquawk] Europe turns to carbon capture in bid to clamp down on emissions - FT
+- 09/09 15:24 [FirstSquawk] Australia’s ASX 200 Falls 0.1% to Close at 8,911.40 Points
+- 09/09 15:27 [FirstSquawk] Alerts Issued in Khamis Mushait as Saudi Civil Defense Warns of Potential Danger
+- 09/09 15:27 [FirstSquawk] Russia’s Defence Ministry Says Its Forces Struck a Cargo Vessel in the Black Sea
+- 09/09 15:30 [FirstSquawk] Warehouse Belonging to Kyiv Company Manufacturing Unmanned Boats and Drones Hit, Russian Defence Ministry Says

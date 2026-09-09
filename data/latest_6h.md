@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 15:03 JST／対象: 09/09 09:03 〜 09/09 15:03 JST（時刻はすべて日本時間）
+生成: 2026-09-09 15:31 JST／対象: 09/09 09:31 〜 09/09 15:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 116 | 09/09 09:04 | 09/09 15:01 | 16分（13:13→13:30） |
+| FirstSquawk | 106 | 09/09 09:32 | 09/09 15:30 | 16分（13:13→13:30） |
 | financialjuice | 29 | 09/09 10:00 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 144 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 134 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 09:04 [FirstSquawk] QUALCOMM HAS SIGNED A MAJOR AGREEMENT WITH AMAZON WEB SERVICES TO DEVELOP CUSTOMIZED AI DATA-CENTER CHIPS, MARKING A SIGNIFICANT ENTRY INTO THE FAST-GROWING AI INFRASTRUCTURE MARKET, WITH AMAZON ABLE TO ACQUIRE UP TO $4 BLN OF QUALCOMM STOC…
-- 09/09 09:04 [FirstSquawk] QUALCOMM EXPECTS TO BOOK AMAZON-RELATED REVENUE FROM ITS FISCAL FIRST QUARTER AND IS CONFIDENT OF HITTING ITS $5 BLN DATA-CENTER REVENUE TARGET FOR FISCAL 2027, WITH THE DEAL COVERING AI PROCESSORS AND CONNECTIVITY CHIPS AS IT HOLDS STRONG …
-- 09/09 09:07 [FirstSquawk] Australia’s ASX 200 Advances 0.3% to 8,951 Points in Early Session
-- 09/09 09:12 [FirstSquawk] TAIWAN’S SEMICONDUCTOR INDUSTRY SAW AVERAGE MONTHLY JOB OPENINGS RISE MORE THAN 20% TO 47,000 IN 2026 AS AI-DRIVEN CAPACITY EXPANSION BOOSTED DEMAND FOR TALENT. AI-RELATED ROLES TOPPED 10,000 OPENINGS A MONTH, WITH HIRING SHIFTING TOWARD FA…
-- 09/09 09:15 [FirstSquawk] ASIAN EQUITIES GAINED MODESTLY, LED BY SEMICONDUCTOR STOCKS AS THE AI TRADE REMAINED STRONG, WITH SOUTH KOREA'S KOSPI UP 0.5%, THE MSCI ASIA PACIFIC INDEX GAINING 0.4% AND JAPAN'S TOPIX ADVANCING 0.4% AFTER A 1.3% JUMP IN THE PHILADELPHIA S…
-- 09/09 09:15 [FirstSquawk] OIL WAS THE MAIN MARKET CONCERN, WITH BRENT RISING 1.5% TO $99.37 A BARREL AND WTI REACHING $94.47 AS RENEWED ATTACKS ON MIDDLE EAST ENERGY INFRASTRUCTURE — INCLUDING STRIKES NEAR KHARG ISLAND — RAISED SUPPLY CONCERNS, PUSHING MARKETS TO PR…
-- 09/09 09:16 [FirstSquawk] THE YEN STRENGTHENED 0.4% TO 153.39 PER DOLLAR WHILE GOLD SLIPPED 0.2% TO $4,348.22 AND 10-YEAR TREASURY YIELDS HELD NEAR 4.79%, AS INVESTORS ALSO WATCH ESCALATING U.S.-IRAN TENSIONS, NEW U.S. TRADE RESTRICTIONS ON CANADIAN GOODS AND STRONG…
-- 09/09 09:17 [FirstSquawk] EUROSTOXX 50 FUTURES SLIP 0.5%, WITH DAX FUTURES OFF 0.4% AND FTSE FUTURES FALLING 0.3% AS BRENT NEARS $100
-- 09/09 09:20 [FirstSquawk] Asia-Pac Equities Begin Mostly Higher Despite Broad Wall Street Declines
-- 09/09 09:23 [FirstSquawk] 5-Year Japanese Government Bond Yield Slips to 2.225%
-- 09/09 09:23 [FirstSquawk] 20-Year Japanese Government Bond Yield Climbs to 3.710%
-- 09/09 09:24 [FirstSquawk] Chris Pappas Secures Democratic Senate Nomination in New Hampshire, AP Reports
-- 09/09 09:25 [FirstSquawk] China Vows to Deepen Opening-Up, Encourage Global Firms to Expand Presence in Chinese Market
-- 09/09 09:25 [FirstSquawk] Indonesia Motorcycle Sales Climb 3.18% Y/Y in August: Association
-- 09/09 09:29 [FirstSquawk] 10-Year Japanese Government Bond Yield Slips to 2.880%
-- 09/09 09:31 [FirstSquawk] Japanese Investors’ Move Into Domestic Bonds Remains Gradual, Fitch Says
 - 09/09 09:32 [FirstSquawk] U.S. Strikes Iranian Oil Tankers in Response to Tehran’s Attacks on Navy Ships - WSJ
 - 09/09 09:33 [FirstSquawk] Oil Rises as Houthi Militants’ Attack Amplifies Supply-Disruption Fears - WSJ
 - 09/09 09:33 [FirstSquawk] Nikkei Rises 0.1%, Led by Chip-Related Stocks - WSJ
@@ -168,3 +152,9 @@
 - 09/09 15:00 [FirstSquawk] NORWAY (AUG) PPI INCLUDING OIL MOM ACTUAL: 30.1% VS 23.4% PREVIOUS
 - 09/09 15:01 [FirstSquawk] NORWAY PPI INCLUDING OIL (M/M): 4.7% (PREV 8.9%)
 - 09/09 15:01 [FirstSquawk] Japan Machine Tool Orders (Y/Y) Aug P: 64.7% (prev 50.4%)
+- 09/09 15:11 [FirstSquawk] Russian Naval Base in Novorossiysk Hit by Ukraine Overnight, Drone Forces Commander Says
+- 09/09 15:21 [FirstSquawk] Europe turns to carbon capture in bid to clamp down on emissions - FT
+- 09/09 15:24 [FirstSquawk] Australia’s ASX 200 Falls 0.1% to Close at 8,911.40 Points
+- 09/09 15:27 [FirstSquawk] Alerts Issued in Khamis Mushait as Saudi Civil Defense Warns of Potential Danger
+- 09/09 15:27 [FirstSquawk] Russia’s Defence Ministry Says Its Forces Struck a Cargo Vessel in the Black Sea
+- 09/09 15:30 [FirstSquawk] Warehouse Belonging to Kyiv Company Manufacturing Unmanned Boats and Drones Hit, Russian Defence Ministry Says
