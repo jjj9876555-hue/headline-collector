@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 13:25 JST／対象: 09/09 01:25 〜 09/09 13:25 JST（時刻はすべて日本時間）
+生成: 2026-09-09 13:44 JST／対象: 09/09 01:44 〜 09/09 13:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/09 02:40 | 09/09 05:33 | ⚠ 105分（03:46→05:31） |
-| FirstSquawk | 202 | 09/09 01:53 | 09/09 13:13 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 122 | 09/09 01:52 | 09/09 13:03 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 205 | 09/09 01:53 | 09/09 13:40 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 124 | 09/09 01:52 | 09/09 13:30 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 319 行（統合前 328 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 324 行（統合前 335 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -343,3 +343,8 @@
 - 09/09 13:13 [FirstSquawk] China’s Non-Fossil Energy Mix Seen Surpassing 33% by 2035, While Fossil Energy Drops Below 50% Around 2045, Sinopec Says
 - 09/09 13:13 [FirstSquawk] China Set to Achieve Peak Carbon Emissions Ahead of 2030, Sinopec Says
 - 09/09 13:13 [FirstSquawk] Sinopec Sees China Natural Gas Demand Rising Above 50 Bcm by 2030
+- 09/09 13:30 [FirstSquawk] IRAN TURNS TO CRYPTO TO GET AROUND SANCTIONS – FT
+- 09/09 13:30 [financialjuice] DUTCH CONSUMER SPENDING ACTUAL 1.2% (FORECAST -, PREVIOUS 1.7%) $MACRO
+- 09/09 13:30 [financialjuice] Dutch July consumer spending rises 1.2% y/y after 1.7% gain in June: CBS
+- 09/09 13:36 [FirstSquawk] Qatar Says Civil Defence Has Controlled Fire on Vessel at Al Wakra Port; No Injuries Reported
+- 09/09 13:40 [FirstSquawk] AI borrowing boom shakes up Swiss credit market - FT
