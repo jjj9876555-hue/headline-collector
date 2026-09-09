@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 22:53 JST／対象: 09/09 10:53 〜 09/09 22:53 JST（時刻はすべて日本時間）
+生成: 2026-09-09 23:17 JST／対象: 09/09 11:17 〜 09/09 23:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/09 16:31 | 09/09 22:19 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 183 | 09/09 10:56 | 09/09 22:45 | 19分（16:10→16:29） |
-| financialjuice | 59 | 09/09 10:56 | 09/09 22:45 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 24 | 09/09 16:31 | 09/09 23:16 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 177 | 09/09 11:22 | 09/09 23:04 | 19分（16:10→16:29） |
+| financialjuice | 59 | 09/09 12:39 | 09/09 23:16 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 260 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 254 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 10:56 [financialjuice] Six commodity ships pass Strait of Hormuz on Tuesday, below 10-day average of about 12, data shows
-- 09/09 10:56 [FirstSquawk] DeepSeek fundraising frenzy spawns costly shadow market - FT
-- 09/09 10:56 [FirstSquawk] Strait of Hormuz Sees Six Commodity Ship Crossings Tuesday, Versus 10-Day Average of Around 12
-- 09/09 11:02 [FirstSquawk] Thailand’s Economic Growth Outlook Remains Broadly Unchanged From Previous Assessment, https://t.co/j1lvIXBwYH Minutes Say
-- 09/09 11:03 [FirstSquawk] Thailand’s Headline Inflation Seen Increasing Temporarily on Supply-Side Pressures, https://t.co/j1lvIXBwYH Minutes Show
-- 09/09 11:05 [FirstSquawk] Thailand’s Loan Quality Stays Largely Stable, https://t.co/j1lvIXBwYH Minutes Say
-- 09/09 11:06 [FirstSquawk] Thai https://t.co/j1lvIXBwYH Minutes: Additional Monetary Policy Easing in a Non-Crisis Setting Could Have Limited Impact
-- 09/09 11:09 [FirstSquawk] Indonesian Currency Rises to 17,560 per U.S. Dollar, Its Best Level Since Mid-May
-- 09/09 11:11 [FirstSquawk] Iran’s IRGC Claims Attacks on Two U.S. Vessels and Eight Gulf Oil Tankers After U.S. Hit Five Iranian Tankers
-- 09/09 11:14 [FirstSquawk] IRGC Claims Attacks on 10 Ships Attempting to Transit ‘Prohibited and Unsafe’ Area of Strait of Hormuz
 - 09/09 11:22 [FirstSquawk] New Zealand Dollar holds gains above 0.5850 after Chinese inflation data - FX
 - 09/09 11:25 [FirstSquawk] Economic anxiety and US tensions drive Mao revival among young Chinese - SCMP
 - 09/09 11:31 [FirstSquawk] South Korea Auctions 20-Year Treasury Bonds at 4.520% Yield, Finance Ministry Says
@@ -281,6 +271,10 @@
 - 09/09 22:41 [financialjuice] Yemeni sources report intense clashes between elements affiliated with the UAE and Saudi Arabia in Al-Dhalea, Yemen - Mehr News
 - 09/09 22:42 [financialjuice] Reform UK is going to face a criminal probe over donations.
 - 09/09 22:43 [financialjuice] Yemeni sources report Saudi-backed government's defense minister came under attack in Al-Dhalea - Mehr News
-- 09/09 22:44 [financialjuice] Yemeni sources report Saudi-backed government's defense minister flees and goes into hiding - Mehr News
+- 09/09 22:44 [financialjuice/FirstSquawk] Yemeni sources report Saudi-backed government's defense minister flees and goes into hiding - Mehr News
 - 09/09 22:45 [FirstSquawk] REFORM UK WILL BE UNDER CRIMINAL INVESTIGATION REGARDING DONATIONS.
 - 09/09 22:45 [financialjuice] Saudi-led coalition warplanes carried out 4 airstrikes in Saada, Yemen - Tasnim News
+- 09/09 22:55 [FirstSquawk] RBC CEO DAVE MCKAY: ESCALATION OF TRADE WAR LEADING TO SOME CAUTION ON CREDIT
+- 09/09 23:03 [FirstSquawk] SAUDI-LED COALITION WARPLANES CARRIED OUT 4 AIRSTRIKES IN SAADA, YEMEN - TASNIM
+- 09/09 23:16 [DeItaone] BREAKING: Call option notional open interest on the Brazil ETF, $EWZ, has surged to a record $20 billion this week. This figure has nearly doubled over the last several weeks. As a result, total $EWZ call open interest exceeded 5 million co…
+- 09/09 23:16 [financialjuice] Fire broke out at energy facility in Yamal after attack - TASS

@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 22:53 JST／対象: 09/08 22:53 〜 09/09 22:53 JST（時刻はすべて日本時間）
+生成: 2026-09-09 23:17 JST／対象: 09/08 23:17 〜 09/09 23:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/08 23:18 | 09/09 22:19 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 421 | 09/08 22:59 | 09/09 22:45 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 255 | 09/08 22:56 | 09/09 22:45 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 31 | 09/08 23:18 | 09/09 23:16 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 414 | 09/08 23:18 | 09/09 23:04 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 250 | 09/08 23:17 | 09/09 23:16 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 693 行（統合前 708 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 681 行（統合前 697 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 22:56 [financialjuice] Goldman Sachs brings forward their RBA rate hike estimate to September from November.
-- 09/08 22:58 [financialjuice] BoE's Ramsden: Communications in April and in July were well received by the market.
-- 09/08 22:59 [FirstSquawk] GOLDMAN BRINGS FORWARD RBA RATE HIKE TO SEPT, FROM NOV
-- 09/08 22:59 [FirstSquawk] ORACLE ISSUES RFP FOR 2 GW OF RENEWABLE ENERGY IN NEW MEXICO
-- 09/08 22:59 [FirstSquawk] GOLDMAN SACHS BRINGS FORWARD RBA RATE HIKE FORECASTS TO SEPTEMBER, FROM NOVEMBER
-- 09/08 22:59 [financialjuice] BoE Gov. Bailey: Risks to food price inflation are to the upside.
-- 09/08 23:01 [FirstSquawk] CHINA'S HUAWEI TECHNOLOGIES FACES RACKETEERING TRIAL IN NEW YORK
-- 09/08 23:05 [financialjuice] BoE's Ramsden: The increased frequency of supply shocks may lead to the ratcheting-up of prices.
-- 09/08 23:08 [financialjuice] BoE's Ramsden: The impact of QT on yields is still very much in the background.
-- 09/08 23:08 [financialjuice] BoE's Ramsden: It is unclear if the slightly higher estimate of the QT impact reflects the extra year of QT, or better estimates.
-- 09/08 23:10 [FirstSquawk] US CB EMPLOYMENT TRENDS INDEX AUG: 108.53 (PREV 107.71; PREV R 107.76)
-- 09/08 23:12 [FirstSquawk] OFAC: GLOBAL TERRORISM SANCTIONS REGULATIONS GENERAL LICENCE
-- 09/08 23:12 [FirstSquawk] US SUSPENDS IRAN-RELATED GENERAL LICENSE J-1 EFFECTIVE SEPT. 8
-- 09/08 23:12 [FirstSquawk] US SANCTIONS AIR SHIRAZ, ASA JET AIRLINE, ATA AIRLINES
-- 09/08 23:12 [FirstSquawk] US: J-1 ALLOWED REEXPORTATION OF SOME CIVIL AIRCRAFT TO IRAN
-- 09/08 23:12 [FirstSquawk] US SANCTIONS AVA AIRLINES, ATLAS AVIATION GROUP, CHABAHAR AIR
 - 09/08 23:17 [financialjuice] Trump and Putin discussed outcome of the US envoys' visit to Moscow and Kyiv - Kremlin
 - 09/08 23:18 [FirstSquawk] PUTIN SPOKE TO TRUMP BY PHONE - KREMLIN || KREMLIN: PHONE CALL LASTED ONE HOUR || CONVERSATION WAS OPEN AND CONSTRUCTIVE - KREMLIN || TRUMP AND PUTIN DISCUSSED OUTCOME OF U.S. ENVOYS' VISIT TO MOSCOW AND KYIV - KREMLIN || TRUMP FOCUSED ON T…
 - 09/08 23:18 [FirstSquawk] UK MOVES LEFT ISRAEL NO CHOICE BUT TO RESPOND: SA'AR
@@ -714,6 +698,10 @@
 - 09/09 22:41 [financialjuice] Yemeni sources report intense clashes between elements affiliated with the UAE and Saudi Arabia in Al-Dhalea, Yemen - Mehr News
 - 09/09 22:42 [financialjuice] Reform UK is going to face a criminal probe over donations.
 - 09/09 22:43 [financialjuice] Yemeni sources report Saudi-backed government's defense minister came under attack in Al-Dhalea - Mehr News
-- 09/09 22:44 [financialjuice] Yemeni sources report Saudi-backed government's defense minister flees and goes into hiding - Mehr News
+- 09/09 22:44 [financialjuice/FirstSquawk] Yemeni sources report Saudi-backed government's defense minister flees and goes into hiding - Mehr News
 - 09/09 22:45 [FirstSquawk] REFORM UK WILL BE UNDER CRIMINAL INVESTIGATION REGARDING DONATIONS.
 - 09/09 22:45 [financialjuice] Saudi-led coalition warplanes carried out 4 airstrikes in Saada, Yemen - Tasnim News
+- 09/09 22:55 [FirstSquawk] RBC CEO DAVE MCKAY: ESCALATION OF TRADE WAR LEADING TO SOME CAUTION ON CREDIT
+- 09/09 23:03 [FirstSquawk] SAUDI-LED COALITION WARPLANES CARRIED OUT 4 AIRSTRIKES IN SAADA, YEMEN - TASNIM
+- 09/09 23:16 [DeItaone] BREAKING: Call option notional open interest on the Brazil ETF, $EWZ, has surged to a record $20 billion this week. This figure has nearly doubled over the last several weeks. As a result, total $EWZ call open interest exceeded 5 million co…
+- 09/09 23:16 [financialjuice] Fire broke out at energy facility in Yamal after attack - TASS
