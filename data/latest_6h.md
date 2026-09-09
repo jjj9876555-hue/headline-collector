@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 14:16 JST／対象: 09/09 08:16 〜 09/09 14:16 JST（時刻はすべて日本時間）
+生成: 2026-09-09 14:33 JST／対象: 09/09 08:33 〜 09/09 14:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 115 | 09/09 08:18 | 09/09 14:12 | 16分（13:13→13:30） |
+| FirstSquawk | 112 | 09/09 08:42 | 09/09 14:20 | 16分（13:13→13:30） |
 | financialjuice | 35 | 09/09 08:37 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 149 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 146 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 08:18 [FirstSquawk] IRAN’S REVOLUTIONARY GUARDS: BALLISTIC MISSILE STRIKE ON TWO U.S. DESTROYERS - IRANIAN STATE MEDIA
-- 09/09 08:18 [FirstSquawk] SENIOR TRUMP ADMINISTRATION OFFICIAL SAYS TRUMP HAS SIGNED A SERIES OF PROCLAMATIONS REGARDING CANADA TRADE ACTIONS, BANNING THE IMPORTATION OF DAIRY PRODUCTS, MOST ALCOHOLIC PRODUCTS AND MOTORCYCLES FROM CANADA UNDER SECTION 338, WITH THE …
-- 09/09 08:18 [FirstSquawk] SENIOR TRUMP ADMINISTRATION OFFICIAL SAYS TRUMP'S POSITION ON THE JANUARY 1, 2027 AUTO TARIFF INCREASE IS STILL IN EFFECT, THAT THE U.S. HAS HAD CONVERSATIONS WITH CANADA'S MINISTER LEBLANC OVER THE PAST COUPLE OF DAYS, AND THAT TRUMP IS RE…
-- 09/09 08:23 [FirstSquawk] RUSSIA IS EXPECTED TO PROLONG THE UKRAINE WAR INTO 2027 AS PEACE TALKS STALL, WITH PUTIN BELIEVED TO BE WAITING FOR A STRONGER MILITARY AND POLITICAL POSITION BEFORE SERIOUS NEGOTIATIONS. WESTERN OFFICIALS WARN MOSCOW WILL INTENSIFY WINTER …
-- 09/09 08:32 [FirstSquawk] GOLD FELL 1% TO $4,357.88 AN OUNCE AS RISING MIDDLE EAST TENSIONS PUSHED OIL PRICES HIGHER, INCREASING CONCERNS THAT INFLATION COULD REMAIN ELEVATED AND INTEREST RATES STAY HIGHER FOR LONGER, WITH MARKETS NOW PRICING MORE THAN A 50% CHANCE …
 - 09/09 08:37 [financialjuice] Jordan: 20 ballistic missiles fired from Iran toward its territory
 - 09/09 08:38 [financialjuice] Trump: Populist party in Germany scores major victory
 - 09/09 08:38 [financialjuice] Jordan: air defences intercepted and destroyed 18 of 20 Iranian missiles, two fell away from population centers
@@ -173,3 +168,5 @@
 - 09/09 14:00 [FirstSquawk] British Consulate Diplomats in East Jerusalem Face Loss of Accreditation Within 30 Days, Israeli Official Says
 - 09/09 14:10 [FirstSquawk] Kazakhstan Gold and Foreign Currency Reserves Reach $68.562 Billion in August, Increasing 11.8% M/M
 - 09/09 14:12 [FirstSquawk] Gold Prices Edge Higher Amid Softer Dollar, Inflation Data Ahead and Mideast Tensions
+- 09/09 14:19 [FirstSquawk] China needs monkeys: lab animal shortage could hinder biotech growth - SCMP
+- 09/09 14:20 [FirstSquawk] Heathrow Says Flights Are Operating Today, With Some Disruption Expected as Airlines Reposition Aircraft and Staff

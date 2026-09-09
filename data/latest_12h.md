@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 14:16 JST／対象: 09/09 02:16 〜 09/09 14:16 JST（時刻はすべて日本時間）
+生成: 2026-09-09 14:33 JST／対象: 09/09 02:33 〜 09/09 14:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/09 02:40 | 09/09 05:33 | ⚠ 105分（03:46→05:31） |
-| FirstSquawk | 209 | 09/09 02:33 | 09/09 14:12 | ⚠ 55分（06:40→07:35） |
+| FirstSquawk | 210 | 09/09 02:33 | 09/09 14:20 | ⚠ 55分（06:40→07:35） |
 | financialjuice | 117 | 09/09 02:35 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 321 行（統合前 332 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 322 行（統合前 333 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 02:33 [FirstSquawk] U.S. POWDER RIVER BASIN COAL PRICES WERE UNCHANGED AT $14.50/TON FOR THE WEEK ENDING SEPT. 4, WITH NORTHERN APPALACHIAN PRICES ALSO UNCHANGED AT $70.25/TON
 - 09/09 02:33 [FirstSquawk] U.S. ILLINOIS BASIN COAL PRICES WERE UNCHANGED AT $55.00/TON FOR THE WEEK ENDING SEPT. 4, WITH CENTRAL APPALACHIAN PRICES ALSO UNCHANGED AT $81.00/TON
 - 09/09 02:34 [FirstSquawk] SAUDI ARABIA SAYS THE DANGER HAS PASSED IN THE NAJRAN PROVINCE, AND IN ABHA AND JAZAN AFTER A WARNING
 - 09/09 02:35 [financialjuice/FirstSquawk] OpenAI CFO: Enterprise business has been on a tear - CNBC
@@ -345,3 +344,5 @@
 - 09/09 14:00 [FirstSquawk] British Consulate Diplomats in East Jerusalem Face Loss of Accreditation Within 30 Days, Israeli Official Says
 - 09/09 14:10 [FirstSquawk] Kazakhstan Gold and Foreign Currency Reserves Reach $68.562 Billion in August, Increasing 11.8% M/M
 - 09/09 14:12 [FirstSquawk] Gold Prices Edge Higher Amid Softer Dollar, Inflation Data Ahead and Mideast Tensions
+- 09/09 14:19 [FirstSquawk] China needs monkeys: lab animal shortage could hinder biotech growth - SCMP
+- 09/09 14:20 [FirstSquawk] Heathrow Says Flights Are Operating Today, With Some Disruption Expected as Airlines Reposition Aircraft and Staff

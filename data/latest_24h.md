@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 14:16 JST／対象: 09/08 14:16 〜 09/09 14:16 JST（時刻はすべて日本時間）
+生成: 2026-09-09 14:33 JST／対象: 09/08 14:33 〜 09/09 14:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 408 | 09/08 14:27 | 09/09 14:12 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 281 | 09/08 14:23 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 407 | 09/08 14:39 | 09/09 14:20 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 278 | 09/08 15:00 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 687 行（統合前 703 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 683 行（統合前 699 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 14:23 [financialjuice] Saudis say energy facilities targeted on September 8
-- 09/08 14:23 [financialjuice] Saudis say fire erupted in several energy sites.
-- 09/08 14:23 [financialjuice] Saudis say operations at some energy sites halted.
-- 09/08 14:27 [FirstSquawk] Saudi Energy Ministry: Authorities focused on facility and personnel safety and continuity of operations
-- 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Attacks sparked fires at several sites, temporarily suspending some operations
-- 09/08 14:28 [FirstSquawk] Saudi Energy Ministry: Energy facilities and utilities in the kingdom’s southern region targeted Tuesday morning
 - 09/08 14:39 [FirstSquawk] MISTRAL RAISES RECORD €3BN AS EUROPE STRAINS TO KEEP PACE IN AI RACE-FT
 - 09/08 14:45 [FirstSquawk] CHINA’S TRADE SURPLUS WIDENS AS EXPORT GROWTH ACCELERATES-WSJ
 - 09/08 14:50 [FirstSquawk] Brent rises $1 to $98/bbl after Saudi Arabia says Houthis targeted energy facilities and utilities
@@ -711,3 +705,5 @@
 - 09/09 14:00 [FirstSquawk] British Consulate Diplomats in East Jerusalem Face Loss of Accreditation Within 30 Days, Israeli Official Says
 - 09/09 14:10 [FirstSquawk] Kazakhstan Gold and Foreign Currency Reserves Reach $68.562 Billion in August, Increasing 11.8% M/M
 - 09/09 14:12 [FirstSquawk] Gold Prices Edge Higher Amid Softer Dollar, Inflation Data Ahead and Mideast Tensions
+- 09/09 14:19 [FirstSquawk] China needs monkeys: lab animal shortage could hinder biotech growth - SCMP
+- 09/09 14:20 [FirstSquawk] Heathrow Says Flights Are Operating Today, With Some Disruption Expected as Airlines Reposition Aircraft and Staff
