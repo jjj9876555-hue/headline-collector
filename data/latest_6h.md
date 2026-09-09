@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 16:27 JST／対象: 09/09 10:27 〜 09/09 16:27 JST（時刻はすべて日本時間）
+生成: 2026-09-09 16:45 JST／対象: 09/09 10:45 〜 09/09 16:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 98 | 09/09 10:30 | 09/09 16:10 | 16分（13:13→13:30） |
-| financialjuice | 17 | 09/09 10:30 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
+| DeItaone | 1 | 09/09 16:31 | 09/09 16:31 | - |
+| FirstSquawk | 91 | 09/09 10:53 | 09/09 16:39 | 19分（16:10→16:29） |
+| financialjuice | 9 | 09/09 10:56 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 114 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 100 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 10:30 [financialjuice] ❗ CHINESE PPI YOY ACTUAL 3.8% (FORECAST 3.6%, PREVIOUS 3.5%) $MACRO
-- 09/09 10:30 [financialjuice] ‼ BREAKING: CHINESE CPI YOY ACTUAL 0.8% (FORECAST 0.8%, PREVIOUS 0.5%) $MACRO
-- 09/09 10:30 [financialjuice] China August CPI rises 0.8% from year earlier, poll predicted 0.8%
-- 09/09 10:30 [financialjuice] China August producer prices rise 0.4% from previous month
-- 09/09 10:30 [financialjuice] CHINESE CPI MOM ACTUAL 0.4% (FORECAST -, PREVIOUS -0.1%) $MACRO
-- 09/09 10:30 [FirstSquawk] CHINA (AUG) PPI YOY ACTUAL: 3.8% VS 3.5% PREVIOUS;EST 3.6%
-- 09/09 10:30 [financialjuice] China: August food CPI down 1.4% year-on-year; non-food CPI up 1.2%
-- 09/09 10:30 [financialjuice] China August CPI rises 0.4% month-on-month, above poll of 0.3%
-- 09/09 10:31 [FirstSquawk] CHINA (AUG) CPI YOY ACTUAL: 0.8% VS 0.5% PREVIOUS;EST 0.8%
-- 09/09 10:31 [FirstSquawk] CHINA (AUG) CPI CORE YOY ACTUAL: 1% VS 0.9% PREVIOUS;EST 0.9%
-- 09/09 10:32 [FirstSquawk] 5-Year Japanese Government Bond Yield Slips to 2.215%
-- 09/09 10:37 [FirstSquawk] Defense Minister Ahn Gyu-back will travel to Croatia on Wednesday to discuss bilateral defense ties with top officials and attend a ceremony for a South Korean rocket artillery export deal, Seoul's defense ministry said - YONHAP
-- 09/09 10:39 [FirstSquawk] South Korean Stocks Open Higher, Led by Chip Gains Amid Middle East Tensions
-- 09/09 10:40 [FirstSquawk] Bank of Korea Sells 2-Year Monetary Stabilisation Bonds at 3.805%
-- 09/09 10:40 [financialjuice] S.Korea central bank sells two-year monetary stabilization bonds at 3.805% yield
-- 09/09 10:42 [FirstSquawk] South Korea’s Employment Gains Reach Five-Month High With 184,000 Jobs Added in August
-- 09/09 10:43 [FirstSquawk] Korea’s 2027 Budget to Strengthen Fiscal Metrics, but Improvement May Be Short-Lived, Fitch Says
-- 09/09 10:45 [FirstSquawk] China 5G Communications Index Gains Over 2%
 - 09/09 10:53 [FirstSquawk] WTI surges as US strikes Iranian tankers - FX
 - 09/09 10:56 [financialjuice] Six commodity ships pass Strait of Hormuz on Tuesday, below 10-day average of about 12, data shows
 - 09/09 10:56 [FirstSquawk] DeepSeek fundraising frenzy spawns costly shadow market - FT
@@ -138,3 +120,7 @@
 - 09/09 16:07 [FirstSquawk] Beijing Calls on Some in Philippines to Cease Actions That Undermine China-Philippines Ties and South China Sea Stability
 - 09/09 16:09 [FirstSquawk] Paytm Clarifies Media Report on Its Plans for Workplace AI Agents Beyond Payments
 - 09/09 16:10 [FirstSquawk] Paytm Continues to Invest in and Build AI Capabilities Across Its Business Initiatives
+- 09/09 16:29 [FirstSquawk] BRENT CRUDE FUTURES HIT $100 A BARREL FOR THE FIRST TIME SINCE JULY 24 ON ESCALATING MIDDLE EAST TENSIONS
+- 09/09 16:30 [FirstSquawk] GERMANY'S MERZ WE WILL CONTINUE TO SUPPORT UKRAINE BECAUSE UKRAINE IS ALSO DEFENDING OUR FREEDOM
+- 09/09 16:31 [DeItaone] MORGAN STANLEY SEES OIL TRADERS CUTTING LONG-TERM RISK Oil traders are reducing longer-term exposure as the Iran and Ukraine wars increase uncertainty, according to Morgan Stanley’s Brendan Ross. Ross said traders are concentrating position…
+- 09/09 16:39 [FirstSquawk] EU COURT DISMISSES HUNGARY'S ACTION AGAINST ALLOCATION OF PROFITS ON FROZEN RUSSIAN ASSETS TO UKRAINE

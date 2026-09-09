@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 16:27 JST／対象: 09/08 16:27 〜 09/09 16:27 JST（時刻はすべて日本時間）
+生成: 2026-09-09 16:45 JST／対象: 09/08 16:45 〜 09/09 16:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 413 | 09/08 16:36 | 09/09 16:10 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 268 | 09/08 16:42 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
+| DeItaone | 12 | 09/08 17:32 | 09/09 16:31 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 411 | 09/08 16:48 | 09/09 16:39 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 267 | 09/08 17:22 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 679 行（統合前 695 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 677 行（統合前 693 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 16:36 [FirstSquawk] QATAR, KUWAIT AND BAHRAIN CONDEMNED THE IRAN-BACKED HOUTHI ATTACKS ON CIVILIAN AND ECONOMIC SITES IN SOUTHERN SAUDI ARABIA AND EXPRESSED SOLIDARITY WITH THE COUNTRY.
-- 09/08 16:39 [FirstSquawk] GLOBAL SHIPPING AUTHORITIES WARN OF MARITIME TRADE BREAKDOWN AMID GEOPOLITICAL TURMOIL
-- 09/08 16:42 [financialjuice] 3this: launched Attacks towards Aramco facilities in Abha, Najran, and Jizan.
-- 09/08 16:43 [FirstSquawk] HOUTHIS CLAIM TARGETING ARAMCO FACILITIES IN ABHA AND NAJRAN
-- 09/08 16:43 [FirstSquawk] HOUTHIS CLAIM TARGETING ARAMCO IN JAZAN
-- 09/08 16:43 [FirstSquawk] BRITAIN'S GOVERNMENT ANNOUNCED ON TUESDAY IT IS COMMITTING £100 MILLION ($135 MILLION) TO BOOST UKRAINE'S AIR DEFENCE CAPABILITIES THIS WINTER, INCLUDING WITH PATRIOT MISSILES
 - 09/08 16:48 [FirstSquawk] AUSTRALIAN DOLLAR ROSE TO A FRESH 13-YEAR HIGH AGAINST THE NEW ZEALAND KIWI
 - 09/08 17:09 [FirstSquawk] GERMAN INTERIOR MINISTER ALEXANDER DOBRINDT: WHOEVER IS ATTACKING OUR INFRASTRUCTURE HAS TO KNOW: WE CAN STRIKE BACK, AND WE CAN DISRUPT AND DESTROY THEIR INFRASTRUCTURE. WE WILL NOT ALLOW OURSELVES, AS A SOCIETY, TO BE PERMANENTLY PUT UNDE…
 - 09/08 17:09 [FirstSquawk] UAE DIRECTLY WARNED NETANYAHU BEFORE OCT. 7, HE DISREGARDED IT UAE PRESIDENT WARNED NETANYAHU ABOUT A MAJOR OPERATION BEING PREPARED BY HAMAS ROUGHLY 10 DAYS BEFORE THE ATTACK. NETANYAHU PLAYED DOWN THE THREAT AND DID NOT BRIEF ISRAEL’S SEC…
@@ -703,3 +697,7 @@
 - 09/09 16:07 [FirstSquawk] Beijing Calls on Some in Philippines to Cease Actions That Undermine China-Philippines Ties and South China Sea Stability
 - 09/09 16:09 [FirstSquawk] Paytm Clarifies Media Report on Its Plans for Workplace AI Agents Beyond Payments
 - 09/09 16:10 [FirstSquawk] Paytm Continues to Invest in and Build AI Capabilities Across Its Business Initiatives
+- 09/09 16:29 [FirstSquawk] BRENT CRUDE FUTURES HIT $100 A BARREL FOR THE FIRST TIME SINCE JULY 24 ON ESCALATING MIDDLE EAST TENSIONS
+- 09/09 16:30 [FirstSquawk] GERMANY'S MERZ WE WILL CONTINUE TO SUPPORT UKRAINE BECAUSE UKRAINE IS ALSO DEFENDING OUR FREEDOM
+- 09/09 16:31 [DeItaone] MORGAN STANLEY SEES OIL TRADERS CUTTING LONG-TERM RISK Oil traders are reducing longer-term exposure as the Iran and Ukraine wars increase uncertainty, according to Morgan Stanley’s Brendan Ross. Ross said traders are concentrating position…
+- 09/09 16:39 [FirstSquawk] EU COURT DISMISSES HUNGARY'S ACTION AGAINST ALLOCATION OF PROFITS ON FROZEN RUSSIAN ASSETS TO UKRAINE
