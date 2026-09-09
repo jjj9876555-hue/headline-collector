@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 08:43 JST／対象: 09/09 20:43 〜 09/10 08:43 JST（時刻はすべて日本時間）
+生成: 2026-09-10 08:58 JST／対象: 09/09 20:58 〜 09/10 08:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 37 | 09/09 20:50 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 127 | 09/09 20:46 | 09/10 08:15 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 153 | 09/09 21:00 | 09/10 08:32 | ⚠ 59分（07:00→08:00） |
+| DeItaone | 36 | 09/09 21:27 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 124 | 09/09 21:02 | 09/10 08:15 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 157 | 09/09 21:00 | 09/10 08:51 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 310 行（統合前 318 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 20:46 [FirstSquawk] KREMLIN: UNITED STATES SHOULD HALT ANY AID TO KYIV FOR THE MILITARY ACTIONS TO STOP
-- 09/09 20:48 [FirstSquawk] MARCO RUBIO: EXPECT COLOMBIA'S DRUG-FIGHTING CERTIFICATION TO CHANGE
-- 09/09 20:50 [DeItaone] CENTRAL BANKS FOCUS ON FUEL PRICES AS INFLATION RISK Central banks are increasingly watching refining margins, or “crack spreads,” as fuel shortages push gasoline and diesel prices higher. Bank of England Governor Andrew Bailey said refined…
-- 09/09 20:51 [FirstSquawk] COMPANIES ARE INCREASING BOND MARKET BORROWING, RAISING OVER $70 BILLION ON TUESDAY, THE BUSIEST SESSION SINCE JUNE.
 - 09/09 21:00 [financialjuice] Secured overnight financing rate: 3.64% on September 8th vs 3.65% on September 4th
 - 09/09 21:02 [FirstSquawk] IRAQ CONFIRMS TANKER CARRIED FUEL OIL AND REPORTS NO LEAKS.
 - 09/09 21:02 [financialjuice] Iraq: Panama-flagged tanker hit in its waters. The tanker was carrying fuel oil; no leaks.
@@ -334,3 +330,7 @@
 - 09/10 08:15 [FirstSquawk] JAPAN SURVEY SHOWS NEARLY ONE-THIRD OF COMPANIES PREFER THE YEN TO TRADE AT 150-159.99 PER DOLLAR, WHILE ABOUT A QUARTER FAVOR THE 140-149.99 RANGE. MORE THAN TWO-THIRDS OF JAPANESE FIRMS BACK PM SANAE TAKAICHI’S ECONOMIC POLICIES, WITH 46%…
 - 09/10 08:31 [financialjuice] OpenAI: pushing for compulsory national AI safety regulations
 - 09/10 08:32 [financialjuice] OpenAI: backing four California bills
+- 09/10 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL 690.0B (FORECAST -, PREVIOUS 35.8B ,REVISION 35.9B) $MACRO
+- 09/10 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL 111.9B (FORECAST -, PREVIOUS -824.0B) $MACRO
+- 09/10 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL -481.6B (FORECAST -, PREVIOUS 35.8B) $MACRO
+- 09/10 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 449.6B (FORECAST -, PREVIOUS 509.1B) $MACRO
