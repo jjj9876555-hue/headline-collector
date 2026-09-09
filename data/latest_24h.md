@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 04:16 JST／対象: 09/09 04:16 〜 09/10 04:16 JST（時刻はすべて日本時間）
+生成: 2026-09-10 04:31 JST／対象: 09/09 04:31 〜 09/10 04:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 53 | 09/09 05:31 | 09/10 03:34 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 361 | 09/09 04:18 | 09/10 04:07 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 230 | 09/09 04:22 | 09/10 03:58 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 357 | 09/09 04:34 | 09/10 04:07 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 231 | 09/09 04:31 | 09/10 04:22 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 629 行（統合前 647 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 626 行（統合前 644 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 04:18 [FirstSquawk] US FORCES ARE REPORTEDLY STRIKING IRANIAN OIL TANKERS, WITH TWO US OFFICIALS CITED AS SAYING AMERICAN DRONES TARGETED TANKERS OFF IRAN’S SOUTHERN COAST: I24 NEWS.
-- 09/09 04:19 [FirstSquawk] U.S. CENTCOM: US UNDERWATER DRONE THAT MALFUNCTIONED MORE THAN A DAY BEFORE IRAN’S ANNOUNCEMENT WAS AN OLDER MODEL WITH NO CLASSIFIED SENSORS OR SENSITIVE DATA; WASHINGTON HAS NOT CONFIRMED IRAN RECOVERED THE VEHICLE OR THAT IT WAS A DIVE-L…
-- 09/09 04:22 [financialjuice] Wednesday FX Options Expiries
-- 09/09 04:28 [FirstSquawk] OIL APPROACHES $100 AS NEW HOUTHI ATTACKS ON SAUDI ENERGY INFRASTRUCTURE AND EXPLOSIONS ON IRAN’S KHARG ISLAND HEIGHTEN GLOBAL SUPPLY FEARS.
-- 09/09 04:28 [FirstSquawk] BRENT RISES 1% TO $97.92 AND WTI JUMPS 1.7% TO $93.03 AS HORMUZ FLOWS REMAIN AROUND HALF PRE-WAR LEVELS, RAISING FRESH INFLATION AND REFINED-FUEL SUPPLY RISKS.
 - 09/09 04:31 [financialjuice/FirstSquawk] Iranian tanker was targeted by a US missile attack four miles from Kharg Island - Tasnim
 - 09/09 04:37 [financialjuice] US military has struck targets near Kharg Island - Fox News
 - 09/09 04:40 [financialjuice] The US struck targets near Jask - Fox reporter citing US Officials.
@@ -653,3 +648,5 @@
 - 09/10 04:03 [FirstSquawk] ANTHROPIC SAYS ALL REPORTED INCIDENTS INVOLVED A SINGLE CLAUDE INSTANCE, WITH NO ATTEMPT BY THE MODEL TO COORDINATE OR COLLABORATE WITH OTHER AI AGENTS.
 - 09/10 04:07 [FirstSquawk] ANTHROPIC SAYS THE MISALIGNED BEHAVIORS SEEN IN ITS CYBERSECURITY INCIDENTS ARE UNLIKELY TO OCCUR DURING ORDINARY USE OF CLAUDE.
 - 09/10 04:07 [FirstSquawk] ANTHROPIC COULD NOT IDENTIFY A SINGLE ROOT CAUSE FOR CLAUDE MYTHOS 5’S BIASED REASONING, BUT SAYS SUCH BIASED BEHAVIOR HAS DECLINED ACROSS ITS PRODUCTION MODELS OVER TIME.
+- 09/10 04:20 [financialjuice] Senator Blumenthal asks OpenAI's Altman about safeguards and Hugging Face.
+- 09/10 04:22 [financialjuice] Thursday FX Options Expiries

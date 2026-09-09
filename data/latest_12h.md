@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 04:16 JST／対象: 09/09 16:16 〜 09/10 04:16 JST（時刻はすべて日本時間）
+生成: 2026-09-10 04:31 JST／対象: 09/09 16:31 〜 09/10 04:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/09 16:31 | 09/10 03:34 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 171 | 09/09 16:29 | 09/10 04:07 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 134 | 09/09 17:26 | 09/10 03:58 | 35分（21:20→21:55） |
+| FirstSquawk | 169 | 09/09 16:39 | 09/10 04:07 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 136 | 09/09 17:26 | 09/10 04:22 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 347 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 16:29 [FirstSquawk] BRENT CRUDE FUTURES HIT $100 A BARREL FOR THE FIRST TIME SINCE JULY 24 ON ESCALATING MIDDLE EAST TENSIONS
-- 09/09 16:30 [FirstSquawk] GERMANY'S MERZ WE WILL CONTINUE TO SUPPORT UKRAINE BECAUSE UKRAINE IS ALSO DEFENDING OUR FREEDOM
 - 09/09 16:31 [DeItaone] MORGAN STANLEY SEES OIL TRADERS CUTTING LONG-TERM RISK Oil traders are reducing longer-term exposure as the Iran and Ukraine wars increase uncertainty, according to Morgan Stanley’s Brendan Ross. Ross said traders are concentrating position…
 - 09/09 16:39 [FirstSquawk] EU COURT DISMISSES HUNGARY'S ACTION AGAINST ALLOCATION OF PROFITS ON FROZEN RUSSIAN ASSETS TO UKRAINE
 - 09/09 16:48 [FirstSquawk] GERMAN FOREIGN MINISTER WADEPHUL ON THE AFD: ONLY THE EUROPEAN UNION GIVES US THE OPPORTUNITY TO CREATE FAIR CONDITIONS FOR OUR INDUSTRY GLOBALLY.
@@ -371,3 +369,5 @@
 - 09/10 04:03 [FirstSquawk] ANTHROPIC SAYS ALL REPORTED INCIDENTS INVOLVED A SINGLE CLAUDE INSTANCE, WITH NO ATTEMPT BY THE MODEL TO COORDINATE OR COLLABORATE WITH OTHER AI AGENTS.
 - 09/10 04:07 [FirstSquawk] ANTHROPIC SAYS THE MISALIGNED BEHAVIORS SEEN IN ITS CYBERSECURITY INCIDENTS ARE UNLIKELY TO OCCUR DURING ORDINARY USE OF CLAUDE.
 - 09/10 04:07 [FirstSquawk] ANTHROPIC COULD NOT IDENTIFY A SINGLE ROOT CAUSE FOR CLAUDE MYTHOS 5’S BIASED REASONING, BUT SAYS SUCH BIASED BEHAVIOR HAS DECLINED ACROSS ITS PRODUCTION MODELS OVER TIME.
+- 09/10 04:20 [financialjuice] Senator Blumenthal asks OpenAI's Altman about safeguards and Hugging Face.
+- 09/10 04:22 [financialjuice] Thursday FX Options Expiries

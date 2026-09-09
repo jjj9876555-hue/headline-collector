@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 04:16 JST／対象: 09/09 22:16 〜 09/10 04:16 JST（時刻はすべて日本時間）
+生成: 2026-09-10 04:31 JST／対象: 09/09 22:31 〜 09/10 04:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/09 22:19 | 09/10 03:34 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 84 | 09/09 22:22 | 09/10 04:07 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 100 | 09/09 22:22 | 09/10 03:58 | 30分（22:45→23:16） |
+| DeItaone | 28 | 09/09 23:16 | 09/10 03:34 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 80 | 09/09 22:31 | 09/10 04:07 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 95 | 09/09 22:39 | 09/10 04:22 | 30分（22:45→23:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 208 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 198 行（統合前 204 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 22:19 [DeItaone] KUWAIT OFFERS OIL TRANSFERS OUTSIDE HORMUZ Kuwait Petroleum Corp is offering ship-to-ship transfers of crude oil and refined fuels outside the Strait of Hormuz as buyers avoid ports inside the waterway due to U.S.-Iran war risks. KPC says v…
-- 09/09 22:22 [FirstSquawk] IRAQI OIL MINISTRY SAYS VESSEL USED TO STORE FUEL OIL WAS STRUCK BY UNKNOWN SOURCE IN IRAQI TERRITORIAL WATERS-POST ON X
-- 09/09 22:22 [financialjuice] Iraqi Oil Ministry: A vessel used to store fuel oil was struck by an unknown source in Iraqi territorial waters - Post on X.
-- 09/09 22:22 [FirstSquawk] ISRAEL WON'T LET TERRORIST ARMY TO SIT ON ITS BORDER: NETANYAHU
-- 09/09 22:22 [financialjuice] Israel's Prime Minister Netanyahu comments in visit to troops on mount Hermon in Syria: Israel won't let terrorist army to sit on its border.
-- 09/09 22:24 [financialjuice] Poll: The US Federal Reserve is to hold the Fed funds rate steady at 3.50%-3.75% in 2026, said 52 of 93 economists (vs 80 of 104 economists in August poll).
-- 09/09 22:24 [financialjuice] Poll: Fed to hold Fed Funds Rate at 3.50%-3.75% in September, said 65 of 93 economists (versus 94 of 104 economists in August poll).
-- 09/09 22:24 [financialjuice] Iraqi Oil Ministry: The vessel was chartered by the Iraqi oil tankers company.
-- 09/09 22:25 [FirstSquawk] IRAQ'S OIL MINISTRY SAYS NO LEAKAGE FROM VESSEL'S CARGO INTO WATER
-- 09/09 22:25 [FirstSquawk] IRAQI OIL MINISTRY SAYS NO CASUALTIES REPORTED
-- 09/09 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -60.8 MLN NASDAQ 100: 41.5 MLN DOW 30: -32.6 MLN MAG 7: 42.0 MLN $MACRO
-- 09/09 22:31 [financialjuice] Saudis to set up marine war risks insurance pool for cargo - SPA
 - 09/09 22:31 [FirstSquawk] S&P 500 DOWN 24.32 POINTS, OR 0.32 %, AT 7,649.20 AFTER MARKET OPEN DOW JONES DOWN 291.96 POINTS, OR 0.55 PERCENT, AT 52,494.11 AFTER MARKET OPEN NASDAQ DOWN 117.83 POINTS, OR 0.45 PERCENT, AT 26,303.59 AFTER MARKET OPEN
 - 09/09 22:32 [FirstSquawk] SPOT SILVER RISES NEARLY 3% TO $67.71/OZ
 - 09/09 22:35 [FirstSquawk] SAUDI ARABIA IS CREATING AN INSURANCE POOL TO COVER MARINE WAR RISKS FOR CARGO.
@@ -232,3 +220,5 @@
 - 09/10 04:03 [FirstSquawk] ANTHROPIC SAYS ALL REPORTED INCIDENTS INVOLVED A SINGLE CLAUDE INSTANCE, WITH NO ATTEMPT BY THE MODEL TO COORDINATE OR COLLABORATE WITH OTHER AI AGENTS.
 - 09/10 04:07 [FirstSquawk] ANTHROPIC SAYS THE MISALIGNED BEHAVIORS SEEN IN ITS CYBERSECURITY INCIDENTS ARE UNLIKELY TO OCCUR DURING ORDINARY USE OF CLAUDE.
 - 09/10 04:07 [FirstSquawk] ANTHROPIC COULD NOT IDENTIFY A SINGLE ROOT CAUSE FOR CLAUDE MYTHOS 5’S BIASED REASONING, BUT SAYS SUCH BIASED BEHAVIOR HAS DECLINED ACROSS ITS PRODUCTION MODELS OVER TIME.
+- 09/10 04:20 [financialjuice] Senator Blumenthal asks OpenAI's Altman about safeguards and Hugging Face.
+- 09/10 04:22 [financialjuice] Thursday FX Options Expiries
