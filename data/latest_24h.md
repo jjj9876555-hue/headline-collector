@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 11:58 JST／対象: 09/08 11:58 〜 09/09 11:58 JST（時刻はすべて日本時間）
+生成: 2026-09-09 12:18 JST／対象: 09/08 12:18 〜 09/09 12:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 426 | 09/08 11:58 | 09/09 11:55 | ⚠ 55分（06:40→07:35） |
+| FirstSquawk | 424 | 09/08 12:18 | 09/09 12:14 | ⚠ 55分（06:40→07:35） |
 | financialjuice | 301 | 09/08 12:23 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 726 行（統合前 739 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 724 行（統合前 737 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 11:58 [FirstSquawk] Seoul stocks open higher as AI optimism returns
-- 09/08 11:59 [FirstSquawk] Malaysia's Anwar targets cost-of-living woes after election setbacks - NA
-- 09/08 12:12 [FirstSquawk] N. Korea, Russia open 1st cross-border road bridge amid deepening ties - YONHAP
-- 09/08 12:16 [FirstSquawk] Asian Stock Markets Mixed as Investors Look to U.S. CPI Data - WSJ
-- 09/08 12:16 [FirstSquawk] Indonesia agency says Anak Krakatau eruptions could still disrupt flights based on wind direction and ash altitude
-- 09/08 12:18 [FirstSquawk] Indonesia agency: Anak Krakatau eruptions on Tuesday were less intense than last week’s
 - 09/08 12:18 [FirstSquawk] Indonesia agency says Tuesday’s eruptions were less significant than earlier activity and will continue monitoring
 - 09/08 12:23 [financialjuice] Reserve Bank of Australia Assistant Governor Hunter: Housing market crucial transition channel for monetary policy
 - 09/08 12:23 [FirstSquawk] RBA Assistant Governor Hunter: Housing market is a crucial mechanism through which monetary policy affects the economy
@@ -750,3 +744,7 @@
 - 09/09 11:40 [FirstSquawk] Oil heads for $100, Asia stocks subdued as Middle East tensions escalate - RTRS
 - 09/09 11:47 [FirstSquawk] Singapore Dollar Consolidates Ahead of U.S. PPI, CPI Data - WSJ
 - 09/09 11:55 [FirstSquawk] Hyundai Motor, AfDB agree to cooperate on Africa's energy transition, sustainable development - YONHAP
+- 09/09 12:00 [FirstSquawk] American Official Says U.S. Forces in Jordan Operating at Full Capacity, Al Arabiya English Reports
+- 09/09 12:04 [FirstSquawk] Skoda Auto Volkswagen- JSW Group Deal Structured as Two-Party Partnership With Joint Control and Defined Roles
+- 09/09 12:09 [FirstSquawk] RBC Starts Coverage of Sanofi With Sector Perform Rating, €80 Price Target
+- 09/09 12:14 [FirstSquawk] RBC Lifts Qualcomm Price Target to $180 From $160
