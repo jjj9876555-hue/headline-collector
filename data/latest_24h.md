@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 03:46 JST／対象: 09/09 03:46 〜 09/10 03:46 JST（時刻はすべて日本時間）
+生成: 2026-09-10 03:58 JST／対象: 09/09 03:58 〜 09/10 03:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 09/09 03:46 | 09/10 03:34 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 366 | 09/09 03:50 | 09/10 03:45 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 239 | 09/09 03:46 | 09/10 03:41 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 53 | 09/09 05:31 | 09/10 03:34 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 363 | 09/09 04:00 | 09/10 03:58 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 236 | 09/09 04:00 | 09/10 03:58 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 644 行（統合前 662 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 637 行（統合前 655 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 03:46 [DeItaone] IRAN'S JOINT MILITARY COMMAND SAYS IT WILL 'HEAVILY TARGET' U.S. INTERESTS IN THE MIDDLE EAST IF IRANIAN VESSELS ARE ATTACKED - STATE MEDIA
-- 09/09 03:46 [financialjuice] Iran's Joint Military Command: Will 'heavily target’ US Interests in the Middle East if Iranian vessels are attacked - State Media
-- 09/09 03:47 [financialjuice] Iran President to visit India for BRICS summit this week - IRIB
-- 09/09 03:50 [financialjuice] ❗ Explosions heard on Iran's Kharg Island - Mehr
-- 09/09 03:50 [FirstSquawk] BRENT CRUDE FUTURES END AT $97.92/BBL, GAIN 92 CENTS, RISING 0.95%
-- 09/09 03:50 [financialjuice] ❗ Explosion sounds heard in Iran's Kharg Island, no official announcement yet - Iran's Mehr News Agency
-- 09/09 03:51 [financialjuice] Brent crude futures settle at $97.92/bbl, up 92 cents, 0.95%.
-- 09/09 03:52 [FirstSquawk] EXPLOSION SOUNDS REPORTED ON IRAN’S KHARG ISLAND; NO OFFICIAL CONFIRMATION YET: MEHR NEWS AGENCY
-- 09/09 03:53 [FirstSquawk] SPOT GOLD SLIDES NEARLY 1% TO $4,361.99/OZ
-- 09/09 03:55 [FirstSquawk] MULTIPLE EXPLOSIONS HEARD NEAR KHARG ISLAND ANCHORAGE, A KEY IRANIAN OIL EXPORT HUB; CAUSE, ORIGIN & ANY POTENTIAL DAMAGE REMAIN UNCONFIRMED. - MEHR NEWS AGENCY
-- 09/09 03:55 [financialjuice/FirstSquawk] Blasts heard near Iran's Southern Jask coast - FARS
-- 09/09 03:56 [FirstSquawk] S&P 500 SLIDES TO SESSION LOWS AS EXPLOSION REPORTS EMERGE FROM IRAN’S KHARG ISLAND; NASDAQ 100 EXTENDS LOSSES AMID ESCALATING MIDDLE EAST TENSIONS.
 - 09/09 04:00 [financialjuice] US CONSUMER CREDIT ACTUAL 18.062B (FORECAST 11.34B, PREVIOUS 14.17B) $MACRO
 - 09/09 04:00 [FirstSquawk] US CONSUMER CREDIT RISES TO $18.06B, WELL ABOVE $11.34B FORECAST AND $14.17B PREVIOUS READING.
 - 09/09 04:02 [financialjuice] Meta announces an AI assistant for personal tasks and organization, which will be released to US-based users on Tuesday. $META
@@ -668,3 +656,8 @@
 - 09/10 03:44 [FirstSquawk] TRUMP: US HAS DESTROYED 9 IRANIAN OIL TANKERS IN HORMUZ STRIKES, EXPECTS “A LOT MORE” ACTION; SAYS THE WAR COULD END AFTER THE ELECTION, WHILE LEAVING OPEN THE POSSIBILITY OF NEGOTIATIONS AND A BROADER DEAL BEYOND NUCLEAR ISSUES.
 - 09/10 03:44 [FirstSquawk] US PRESIDENT TRUMP ON PUTIN: HAD GREAT CONVERSATION, BILATERAL MEETING COULD HAPPEN
 - 09/10 03:45 [FirstSquawk] DISNEY CFO: COMPANY HAS BUILT A “ONE FAN, ONE ACCOUNT” ECOSYSTEM CONNECTING HULU & DISNEY+ PROFILES; DISNEY+ POSTED A 13% MARGIN LAST QUARTER, WITH DOUBLE-DIGIT FULL-YEAR MARGINS EXPECTED, WHILE PRIORITIZING REVENUE GROWTH OVER MARGIN EXPAN…
+- 09/10 03:51 [FirstSquawk] RUBIO: US TO SEEK ADDITIONAL $45M IN SECURITY FUNDING FOR ECUADOR, INCLUDING ADDITIONAL EQUIPMENT.
+- 09/10 03:54 [FirstSquawk] APPLE'S FOLDABLE IPHONE EVENT — KEY TAKEAWAYS • APPLE IS POSITIONING THE IPHONE AS THE CENTRAL AI DEVICE FOR THE NEXT ERA OF COMPUTING. • THE NEW IPHONE DUO FOLDABLE STARTS AT $1,999, WITH A DISTINCT USER INTERFACE AND COMPETITIVE CAMERA FE…
+- 09/10 03:55 [financialjuice] Brent and US crude futures settle at their highest close since May 22nd.
+- 09/10 03:55 [financialjuice/FirstSquawk] Pakistani Ambassador: We believe a better understanding will soon be reached between the United States and Iran - ISNA
+- 09/10 03:58 [financialjuice] Ukrainian Forces: Struck a Siberian gas facilities in Russia 3000 km distant.

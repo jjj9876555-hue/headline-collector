@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 03:46 JST／対象: 09/09 21:46 〜 09/10 03:46 JST（時刻はすべて日本時間）
+生成: 2026-09-10 03:58 JST／対象: 09/09 21:58 〜 09/10 03:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 31 | 09/09 22:13 | 09/10 03:34 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 78 | 09/09 21:49 | 09/10 03:45 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 102 | 09/09 21:55 | 09/10 03:41 | 30分（22:45→23:16） |
+| FirstSquawk | 79 | 09/09 22:00 | 09/10 03:58 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 104 | 09/09 22:00 | 09/10 03:58 | 30分（22:45→23:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 207 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 209 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 21:49 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: RUSSIA TRIES TO INTIMIDATE AND DESTABILIZE OUR SOCIETY AND TAKEN MORE AND MORE RISKS IN DOING SO
-- 09/09 21:54 [FirstSquawk] DBS DISMISSES S$1.3B LAWSUIT RELATED TO 1MDB BY LIQUIDATORS.
-- 09/09 21:55 [financialjuice] US REDBOOK YOY ACTUAL 8.3% (FORECAST -, PREVIOUS 9.6%) $MACRO
 - 09/09 22:00 [financialjuice] Effective Fed funds rate 3.63% September 8th vs 3.63% September 4th.
 - 09/09 22:00 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: RUSSIA PRODUCES 150 SHORT- AND MEDIUM-RANGE MISSILES PER MONTH BUT USES ONLY PART OF IT ON THE FRONT IN UKRAINE
 - 09/09 22:02 [financialjuice] Pakistan's Defense Minister: Islamabad is walking a tightrope in mediating between Tehran and US - ISNA
@@ -231,3 +228,8 @@
 - 09/10 03:44 [FirstSquawk] TRUMP: US HAS DESTROYED 9 IRANIAN OIL TANKERS IN HORMUZ STRIKES, EXPECTS “A LOT MORE” ACTION; SAYS THE WAR COULD END AFTER THE ELECTION, WHILE LEAVING OPEN THE POSSIBILITY OF NEGOTIATIONS AND A BROADER DEAL BEYOND NUCLEAR ISSUES.
 - 09/10 03:44 [FirstSquawk] US PRESIDENT TRUMP ON PUTIN: HAD GREAT CONVERSATION, BILATERAL MEETING COULD HAPPEN
 - 09/10 03:45 [FirstSquawk] DISNEY CFO: COMPANY HAS BUILT A “ONE FAN, ONE ACCOUNT” ECOSYSTEM CONNECTING HULU & DISNEY+ PROFILES; DISNEY+ POSTED A 13% MARGIN LAST QUARTER, WITH DOUBLE-DIGIT FULL-YEAR MARGINS EXPECTED, WHILE PRIORITIZING REVENUE GROWTH OVER MARGIN EXPAN…
+- 09/10 03:51 [FirstSquawk] RUBIO: US TO SEEK ADDITIONAL $45M IN SECURITY FUNDING FOR ECUADOR, INCLUDING ADDITIONAL EQUIPMENT.
+- 09/10 03:54 [FirstSquawk] APPLE'S FOLDABLE IPHONE EVENT — KEY TAKEAWAYS • APPLE IS POSITIONING THE IPHONE AS THE CENTRAL AI DEVICE FOR THE NEXT ERA OF COMPUTING. • THE NEW IPHONE DUO FOLDABLE STARTS AT $1,999, WITH A DISTINCT USER INTERFACE AND COMPETITIVE CAMERA FE…
+- 09/10 03:55 [financialjuice] Brent and US crude futures settle at their highest close since May 22nd.
+- 09/10 03:55 [financialjuice/FirstSquawk] Pakistani Ambassador: We believe a better understanding will soon be reached between the United States and Iran - ISNA
+- 09/10 03:58 [financialjuice] Ukrainian Forces: Struck a Siberian gas facilities in Russia 3000 km distant.
