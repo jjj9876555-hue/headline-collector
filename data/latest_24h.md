@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 23:17 JST／対象: 09/08 23:17 〜 09/09 23:17 JST（時刻はすべて日本時間）
+生成: 2026-09-09 23:35 JST／対象: 09/08 23:35 〜 09/09 23:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/08 23:18 | 09/09 23:16 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 414 | 09/08 23:18 | 09/09 23:04 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 250 | 09/08 23:17 | 09/09 23:16 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 30 | 09/08 23:50 | 09/09 23:16 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 409 | 09/08 23:43 | 09/09 23:27 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 253 | 09/08 23:38 | 09/09 23:35 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 681 行（統合前 697 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 678 行（統合前 694 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 23:17 [financialjuice] Trump and Putin discussed outcome of the US envoys' visit to Moscow and Kyiv - Kremlin
-- 09/08 23:18 [FirstSquawk] PUTIN SPOKE TO TRUMP BY PHONE - KREMLIN || KREMLIN: PHONE CALL LASTED ONE HOUR || CONVERSATION WAS OPEN AND CONSTRUCTIVE - KREMLIN || TRUMP AND PUTIN DISCUSSED OUTCOME OF U.S. ENVOYS' VISIT TO MOSCOW AND KYIV - KREMLIN || TRUMP FOCUSED ON T…
-- 09/08 23:18 [FirstSquawk] UK MOVES LEFT ISRAEL NO CHOICE BUT TO RESPOND: SA'AR
-- 09/08 23:18 [FirstSquawk] END OF WAR WOULD IMMEDIATELY OPEN UP IMPRESSIVE POTENTIAL TO RESTORE U.S.-RUSSIA TIES - KREMLIN || KREMLIN SAYS TRUMP WOULD LIKE U.S.-RUSSIA TIES TO BE RESTORED DURING HIS PRESIDENCY || TRUMP AND PUTIN BOTH RATED U.S. ENVOYS' VISIT - KREMLI…
-- 09/08 23:18 [DeItaone] PUTIN TOLD TRUMP RUSSIA HAS NO HOSTILE PLANS TOWARDS EUROPE - KREMLIN
-- 09/08 23:20 [financialjuice] BoE Gov. Bailey: I do not think we are on the verge of a recession.
-- 09/08 23:20 [financialjuice] BoE Gov. Bailey: The latest data is looking a bit stronger.
-- 09/08 23:20 [FirstSquawk] PUTIN TOLD TRUMP WHAT US COULD DO TO END THE FIGHTING SOONER - KREMLIN || PUTIN GAVE TRUMP RUSSIA'S ASSESSMENT OF WHAT IS HAPPENING ON THE BATTLEFIELD - KREMLIN || PUTIN TOLD TRUMP RUSSIA HAS NO HOSTILE PLANS TOWARDS EUROPE - KREMLIN
-- 09/08 23:20 [FirstSquawk] UK SANCTIONS CLASH WITH LAWS IN MANY US STATES: ISRAEL'S SA'AR
-- 09/08 23:20 [financialjuice] BoE Gov. Bailey: Activity has been reasonable resilient, but weak by historic standards.
-- 09/08 23:23 [financialjuice] BoE Gov. Bailey: The labour market is softening, and the hiring rate is lower.
-- 09/08 23:25 [FirstSquawk] BOE’S BAILEY: LABOUR MARKET IS SOFTENING, HIRING RATE IS LOWER
-- 09/08 23:25 [financialjuice] BoE Gov. Bailey: We are seeing some signs of productivity picking up, not necessarily all in sectors that are exposed to AI.
-- 09/08 23:26 [financialjuice] Trump honors 9/11 victims, first responders at White House - WATCH LIVE
-- 09/08 23:26 [FirstSquawk] ISRAEL’S FOREIGN MINISTER GIDEON SA’AR: THE CONNECTION AND RIGHT OF THE JEWISH PEOPLE TO THIS LAND ARE EXTENSIVELY DOCUMENTED, MORE THAN ANY OTHER PEOPLE OR NATION IN HUMAN HISTORY.
-- 09/08 23:28 [FirstSquawk] IN A FEW MINUTES, IMPORTANT NEWS WILL BE RELEASED ABOUT THE HUNTING OF IRGC NAVY FIGHTERS IN THE STRAIT OF HORMUZ – TASNIM
 - 09/08 23:38 [financialjuice] Canada extends it's federal fuel excise tax relief on gasoline.
 - 09/08 23:43 [financialjuice] BoE Gov. Bailey: We want to achieve a better quality debate on global imbalances when the UK hosts the G20 next year.
 - 09/08 23:43 [FirstSquawk] CANADA'S TRADE MINISTER SIDHU ANNOUNCED TALKS TO SELL NUCLEAR-POWER TECHNOLOGY AND LIQUEFIED NATURAL GAS (LNG) TO POLAND.
@@ -705,3 +689,16 @@
 - 09/09 23:03 [FirstSquawk] SAUDI-LED COALITION WARPLANES CARRIED OUT 4 AIRSTRIKES IN SAADA, YEMEN - TASNIM
 - 09/09 23:16 [DeItaone] BREAKING: Call option notional open interest on the Brazil ETF, $EWZ, has surged to a record $20 billion this week. This figure has nearly doubled over the last several weeks. As a result, total $EWZ call open interest exceeded 5 million co…
 - 09/09 23:16 [financialjuice] Fire broke out at energy facility in Yamal after attack - TASS
+- 09/09 23:17 [financialjuice] Crypto Fear & Greed Index: 66/100 - Greed
+- 09/09 23:17 [financialjuice] Fear and Greed Index: 42/100 = Fear
+- 09/09 23:23 [FirstSquawk] EUROPEAN GAS PRICES HAVE INCREASED ABOVE €80 PER MWH FOR THE FIRST TIME IN 2023.
+- 09/09 23:23 [FirstSquawk] WELLS FARGO CEO CHARLES SCHARF SAYS SOME ASPECTS OF THE CLARITY BILL COULD HEIGHTEN SYSTEM SAFETY RISKS.
+- 09/09 23:26 [financialjuice] Saudi: Alert issued for potential danger in Khamis Mushait.
+- 09/09 23:26 [financialjuice] ❗ At Saudi Arabia's request, Pakistan is considering joining the conflict and attacking the Houthi rebels in Yemen - Israeli Hayom News
+- 09/09 23:27 [financialjuice] Saudi civil defense issues emergency alert for Abha - post on X.
+- 09/09 23:27 [FirstSquawk] KAZAKHSTAN SAYS CPC TERMINAL RESUMES OIL LOADINGS - IFX
+- 09/09 23:28 [financialjuice] Fire broke out at Novorossiysk fuel oil terminal after overnight drone attack - two sources.
+- 09/09 23:31 [financialjuice] Pakistan considers hitting Yemen's Houthis under Mecca pact upon Saudi request - Turkiye News
+- 09/09 23:32 [financialjuice] Pakistan considers hitting Yemen's Houthis under Mecca pact upon Saudi request - Turkiye Today
+- 09/09 23:35 [financialjuice] Saudi Civil Defence: Danger has passed in Abha - Post on X.
+- 09/09 23:35 [financialjuice] Saudis say danger passes in Khamis Mushait after alert.

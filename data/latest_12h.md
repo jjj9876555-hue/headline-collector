@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 23:17 JST／対象: 09/09 11:17 〜 09/09 23:17 JST（時刻はすべて日本時間）
+生成: 2026-09-09 23:35 JST／対象: 09/09 11:35 〜 09/09 23:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/09 16:31 | 09/09 23:16 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 177 | 09/09 11:22 | 09/09 23:04 | 19分（16:10→16:29） |
-| financialjuice | 59 | 09/09 12:39 | 09/09 23:16 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 175 | 09/09 11:36 | 09/09 23:27 | 19分（16:10→16:29） |
+| financialjuice | 69 | 09/09 12:39 | 09/09 23:35 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 254 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 262 行（統合前 270 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 11:22 [FirstSquawk] New Zealand Dollar holds gains above 0.5850 after Chinese inflation data - FX
-- 09/09 11:25 [FirstSquawk] Economic anxiety and US tensions drive Mao revival among young Chinese - SCMP
-- 09/09 11:31 [FirstSquawk] South Korea Auctions 20-Year Treasury Bonds at 4.520% Yield, Finance Ministry Says
-- 09/09 11:32 [FirstSquawk] China Tightens Humanoid IPOs Following Volatile Unitree Debut, The Information Says
-- 09/09 11:35 [FirstSquawk] Yuan use grows as supply chains reshape global trade, Deutsche Bank says - SCMP
 - 09/09 11:36 [FirstSquawk] South Korean Stocks Advance 2% as KOSPI Climbs
 - 09/09 11:37 [FirstSquawk] Gemini Digital Payments Singapore Receives Major Payment Institution License From MAS
 - 09/09 11:40 [FirstSquawk] Oil heads for $100, Asia stocks subdued as Middle East tensions escalate - RTRS
@@ -278,3 +273,16 @@
 - 09/09 23:03 [FirstSquawk] SAUDI-LED COALITION WARPLANES CARRIED OUT 4 AIRSTRIKES IN SAADA, YEMEN - TASNIM
 - 09/09 23:16 [DeItaone] BREAKING: Call option notional open interest on the Brazil ETF, $EWZ, has surged to a record $20 billion this week. This figure has nearly doubled over the last several weeks. As a result, total $EWZ call open interest exceeded 5 million co…
 - 09/09 23:16 [financialjuice] Fire broke out at energy facility in Yamal after attack - TASS
+- 09/09 23:17 [financialjuice] Crypto Fear & Greed Index: 66/100 - Greed
+- 09/09 23:17 [financialjuice] Fear and Greed Index: 42/100 = Fear
+- 09/09 23:23 [FirstSquawk] EUROPEAN GAS PRICES HAVE INCREASED ABOVE €80 PER MWH FOR THE FIRST TIME IN 2023.
+- 09/09 23:23 [FirstSquawk] WELLS FARGO CEO CHARLES SCHARF SAYS SOME ASPECTS OF THE CLARITY BILL COULD HEIGHTEN SYSTEM SAFETY RISKS.
+- 09/09 23:26 [financialjuice] Saudi: Alert issued for potential danger in Khamis Mushait.
+- 09/09 23:26 [financialjuice] ❗ At Saudi Arabia's request, Pakistan is considering joining the conflict and attacking the Houthi rebels in Yemen - Israeli Hayom News
+- 09/09 23:27 [financialjuice] Saudi civil defense issues emergency alert for Abha - post on X.
+- 09/09 23:27 [FirstSquawk] KAZAKHSTAN SAYS CPC TERMINAL RESUMES OIL LOADINGS - IFX
+- 09/09 23:28 [financialjuice] Fire broke out at Novorossiysk fuel oil terminal after overnight drone attack - two sources.
+- 09/09 23:31 [financialjuice] Pakistan considers hitting Yemen's Houthis under Mecca pact upon Saudi request - Turkiye News
+- 09/09 23:32 [financialjuice] Pakistan considers hitting Yemen's Houthis under Mecca pact upon Saudi request - Turkiye Today
+- 09/09 23:35 [financialjuice] Saudi Civil Defence: Danger has passed in Abha - Post on X.
+- 09/09 23:35 [financialjuice] Saudis say danger passes in Khamis Mushait after alert.

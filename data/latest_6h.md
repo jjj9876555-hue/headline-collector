@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 23:17 JST／対象: 09/09 17:17 〜 09/09 23:17 JST（時刻はすべて日本時間）
+生成: 2026-09-09 23:35 JST／対象: 09/09 17:35 〜 09/09 23:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/09 18:32 | 09/09 23:16 | ⚠ 56分（22:19→23:16） |
-| FirstSquawk | 88 | 09/09 17:20 | 09/09 23:04 | 15分（21:19→21:35） |
-| financialjuice | 51 | 09/09 17:26 | 09/09 23:16 | 35分（21:20→21:55） |
+| FirstSquawk | 85 | 09/09 17:48 | 09/09 23:27 | 18分（23:04→23:23） |
+| financialjuice | 60 | 09/09 17:45 | 09/09 23:35 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 157 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 163 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 17:20 [FirstSquawk] US STOCKS MOVE WITH LITTLE CHANGE AS BRENT CRUDE PRICES HIT $100, RAISING INFLATION CONCERNS.
-- 09/09 17:22 [FirstSquawk] PBOC, CSRC, AND BANK REGULATOR OFFICIALS WILL DISCUSS FINANCIAL POWERHOUSE PLANS IN A THURSDAY BRIEFING.
-- 09/09 17:26 [financialjuice] Zankore builds 100MW NVIDIA AI infrastructure in Indonesia.
-- 09/09 17:28 [FirstSquawk] U.S. HAS IMPOSED AN IMPORT BAN ON MANY CANADIAN PRODUCTS AS TENSIONS IN TRADE INCREASE.
-- 09/09 17:30 [FirstSquawk] GERMAN FOREIGN MINISTER WADEPHUL STATED THAT GERMANY GIVES SIGNIFICANT MILITARY AID BUT EXPECTS PURCHASING FROM GERMAN DEFENSE FIRMS TO BENEFIT ITS INDUSTRY AND ECONOMY.
-- 09/09 17:35 [FirstSquawk] ELECTION BETTING BOOM: WILL PREDICTION MARKETS SHAPE AMERICA’S 2026 MIDTERMS? Prediction markets are surging ahead of the 2026 U.S. elections, with platforms such as Kalshi and Polymarket attracting growing volumes of political trading. Sup…
-- 09/09 17:35 [FirstSquawk] HEDGE FUNDS REINITIATE DISPUTE OVER PASCHI'S €1 BILLION BOND LOSSES
 - 09/09 17:45 [financialjuice] UKMTO gets September 8 report on vessels in Arabian Gulf, Oman Gulf.
 - 09/09 17:46 [financialjuice] UKMTO says several vessels were subject to disabling fire.
 - 09/09 17:48 [FirstSquawk] JAY Y. LEE OF SAMSUNG WILL PURCHASE SHARES WORTH 1.9 TRILLION WON (USD 1.422 BILLION) FROM HIS MOTHER, ACCORDING TO A FILING.
@@ -181,3 +174,16 @@
 - 09/09 23:03 [FirstSquawk] SAUDI-LED COALITION WARPLANES CARRIED OUT 4 AIRSTRIKES IN SAADA, YEMEN - TASNIM
 - 09/09 23:16 [DeItaone] BREAKING: Call option notional open interest on the Brazil ETF, $EWZ, has surged to a record $20 billion this week. This figure has nearly doubled over the last several weeks. As a result, total $EWZ call open interest exceeded 5 million co…
 - 09/09 23:16 [financialjuice] Fire broke out at energy facility in Yamal after attack - TASS
+- 09/09 23:17 [financialjuice] Crypto Fear & Greed Index: 66/100 - Greed
+- 09/09 23:17 [financialjuice] Fear and Greed Index: 42/100 = Fear
+- 09/09 23:23 [FirstSquawk] EUROPEAN GAS PRICES HAVE INCREASED ABOVE €80 PER MWH FOR THE FIRST TIME IN 2023.
+- 09/09 23:23 [FirstSquawk] WELLS FARGO CEO CHARLES SCHARF SAYS SOME ASPECTS OF THE CLARITY BILL COULD HEIGHTEN SYSTEM SAFETY RISKS.
+- 09/09 23:26 [financialjuice] Saudi: Alert issued for potential danger in Khamis Mushait.
+- 09/09 23:26 [financialjuice] ❗ At Saudi Arabia's request, Pakistan is considering joining the conflict and attacking the Houthi rebels in Yemen - Israeli Hayom News
+- 09/09 23:27 [financialjuice] Saudi civil defense issues emergency alert for Abha - post on X.
+- 09/09 23:27 [FirstSquawk] KAZAKHSTAN SAYS CPC TERMINAL RESUMES OIL LOADINGS - IFX
+- 09/09 23:28 [financialjuice] Fire broke out at Novorossiysk fuel oil terminal after overnight drone attack - two sources.
+- 09/09 23:31 [financialjuice] Pakistan considers hitting Yemen's Houthis under Mecca pact upon Saudi request - Turkiye News
+- 09/09 23:32 [financialjuice] Pakistan considers hitting Yemen's Houthis under Mecca pact upon Saudi request - Turkiye Today
+- 09/09 23:35 [financialjuice] Saudi Civil Defence: Danger has passed in Abha - Post on X.
+- 09/09 23:35 [financialjuice] Saudis say danger passes in Khamis Mushait after alert.
