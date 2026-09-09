@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 18:06 JST／対象: 09/09 06:06 〜 09/09 18:06 JST（時刻はすべて日本時間）
+生成: 2026-09-09 18:27 JST／対象: 09/09 06:27 〜 09/09 18:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/09 16:31 | 09/09 16:31 | - |
-| FirstSquawk | 191 | 09/09 06:07 | 09/09 18:05 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 80 | 09/09 06:07 | 09/09 17:59 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 185 | 09/09 06:28 | 09/09 18:20 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 70 | 09/09 06:28 | 09/09 18:21 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 268 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 253 行（統合前 258 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 06:07 [financialjuice] Gundlach: Fed funds need to rise 50 basis points
-- 09/09 06:07 [financialjuice] Gundlach: US yields set to keep rising
-- 09/09 06:07 [financialjuice] DoubleLine's Gundlach in webcast: avoid exposure to 30-year bonds globally
-- 09/09 06:07 [financialjuice] Gundlach: US two-year yield and Fed funds rate misaligned
-- 09/09 06:07 [financialjuice] South Korea presidential office: review of South Korea role in Strait of Hormuz unrelated to U.S. investment discussions
-- 09/09 06:07 [FirstSquawk] U.S. PRESIDENT DONALD TRUMP ACCUSED CANADA OF BLOCKING U.S. DAIRY EXPORTS AND BARRING AMERICAN COMPANIES FROM CANADIAN GOVERNMENT PROCUREMENT MARKETS, WHILE CANADIAN PRODUCTS RETAIN BROAD ACCESS TO U.S. GOVERNMENT CONTRACTS. - TRUTH SOCIAL
-- 09/09 06:07 [FirstSquawk] TRUMP SAID HE IS DIRECTING THE GENERAL SERVICES ADMINISTRATION (GSA) AND U.S. TRADE REPRESENTATIVE (USTR) TO REMOVE CANADIAN-ORIGIN PRODUCTS FROM GSA'S MULTIPLE AWARD SCHEDULES, A PROCUREMENT SYSTEM WORTH MORE THAN $50 BILLION ANNUALLY. - T…
-- 09/09 06:08 [FirstSquawk] TRUMP CLAIMED THE MEASURE HAD BEEN IN PLACE UNDER EARLIER ADMINISTRATIONS BUT WAS LATER REVERSED UNDER PRESIDENT BIDEN, VOWING NO ACCESS FOR CANADA WITHOUT RECIPROCITY FOR AMERICAN FARMERS AND BUSINESSES. - TRUTH SOCIAL
-- 09/09 06:08 [financialjuice/FirstSquawk] Security, prosperity top priorities for US-Colombia ties: Secretary of State Marco Rubio after meeting Colombia president
-- 09/09 06:12 [FirstSquawk] SOUTH KOREA AND FRANCE DISCUSS CONTRIBUTIONS TO STRAIT OF HORMUZ SECURITY, BUT SEOUL SAYS TROOP DEPLOYMENT WAS NOT DISCUSSED. - SOUTH KOREA PRESIDENTIAL OFFICE
-- 09/09 06:12 [FirstSquawk] SOUTH KOREA SAYS IRAN HAS SOUGHT CLARIFICATION OVER REPORTS OF A SOUTH KOREAN ROLE, WHILE THE HORMUZ REVIEW IS NOT LINKED TO US INVESTMENT TALKS. - SOUTH KOREA PRESIDENTIAL OFFICE
-- 09/09 06:14 [FirstSquawk] DOUBLELINE'S GUNDLACH: US 2-YEAR YIELD & FED FUNDS RATE ARE OUT OF SYNC, WITH FED FUNDS RATE 50BPS TOO LOW; WARNS INVESTORS TO AVOID 30-YEAR BONDS GLOBALLY AS US YIELDS CONTINUE TO RISE.
-- 09/09 06:17 [financialjuice] Colombia aims to be US top partner in fight against drug trafficking: President Abelardo de la Espriella after Rubio meeting
-- 09/09 06:18 [financialjuice] Colombia president De La Espriella: country requires US aid on radar, planes and other fronts to combat crime
-- 09/09 06:19 [financialjuice] Colombia president de la Espriella: willing to meet annual security goals in anti-drug partnership
-- 09/09 06:19 [financialjuice] Mark Stevens reports sale of 1.02 million Nvidia shares between Sept. 3 and Sept. 4, price range $227.25 to $234.04 per share
-- 09/09 06:20 [financialjuice] Colombia President de la Espriella: Will engage responsibly in regional stabilization efforts
-- 09/09 06:21 [financialjuice] Colombia president de la Espriella: will broaden cooperation with US on migration, border controls
-- 09/09 06:23 [FirstSquawk] EUROPEAN NATURAL GAS HITS A THREE-YEAR HIGH AS WINTER SUPPLY RISKS MOUNT, WITH DUTCH FRONT-MONTH FUTURES SURGING 4.7% TO €76.74/MWH.
-- 09/09 06:23 [FirstSquawk] LOW STORAGE, HORMUZ SHIPPING RISKS AND REDUCED PIPELINE FLOWS FROM ALGERIA AND NORWAY ARE TIGHTENING EUROPE’S WINTER OUTLOOK, RAISING FURTHER POWER-PRICE AND INFLATION RISKS.
-- 09/09 06:25 [FirstSquawk] US COMMERCE SECRETARY LUTNICK TO TRAVEL TO MEXICO FOR TRADE TALKS, WITH AUTO AND METAL TARIFFS EXPECTED TO BE KEY ISSUES. - POLITICO
 - 09/09 06:28 [FirstSquawk/financialjuice] U.S. SUPREME COURT REJECTS MISSOURI EFFORT TO USE GOP-DRAWN CONGRESSIONAL MAP IN NOVEMBER MIDTERMS
 - 09/09 06:31 [FirstSquawk] BESSENT SAYS HE HAS “GOOD INSIGHT” INTO BOJ AND JAPANESE POLICYMAKERS’ NEXT MOVES, INCLUDING ON POTENTIAL YEN INTERVENTION.
 - 09/09 06:31 [FirstSquawk] BESSENT SAYS THE US CAN USE ITS BALANCE SHEET AS A FOREIGN-POLICY TOOL AND CLAIMS HE NOW HAS “ASYMMETRIC INFO,” SIGNALING A MORE ACTIVE US ROLE IN CURRENCY POLICY.
@@ -292,3 +271,9 @@
 - 09/09 17:59 [financialjuice] Japan may convene extraordinary diet session on October 5 - Kyodo.
 - 09/09 18:02 [FirstSquawk] JAPAN IS PLANNING A SPECIAL DIET SESSION ON OCTOBER 5, ACCORDING TO KYODO.
 - 09/09 18:05 [FirstSquawk] ZELENSKIY: UKRAINE HIT NOVOROSSIYSK NAVAL BASE, OIL TERMINALS
+- 09/09 18:06 [FirstSquawk] EUROPEAN GAS PRICES INCREASE BY 4% TO A RECORD 79 EUROS PER MEGAWATT-HOUR, THE HIGHEST LEVEL SINCE LATE 2022.
+- 09/09 18:07 [financialjuice] UKMTO gets report of incident 24NM Northwest Port Rashid, UAE.
+- 09/09 18:08 [FirstSquawk] UKMTO SAYS IT RECEIVED A REPORT FROM THIRD PARTY OF INCIDENT 24 NM NORTHWEST OF PORT RASHID, UAE
+- 09/09 18:17 [FirstSquawk] TRUMP'S AI FRAMEWORK DOES NOT INCLUDE GUIDELINES FOR REPORTING PUBLIC INCIDENTS
+- 09/09 18:20 [FirstSquawk] FRENCH PRIME MINISTER PLANS TO REDUCE ONE-OFF TAX ON LARGE COMPANIES IN UPCOMING BUDGET.
+- 09/09 18:21 [financialjuice] French PM Lecornu: We aim to lower one-off tax on big companies in budget.

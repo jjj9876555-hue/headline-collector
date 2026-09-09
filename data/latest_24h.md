@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 18:06 JST／対象: 09/08 18:06 〜 09/09 18:06 JST（時刻はすべて日本時間）
+生成: 2026-09-09 18:27 JST／対象: 09/08 18:27 〜 09/09 18:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 22:06 | 09/09 16:31 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 414 | 09/08 18:16 | 09/09 18:05 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 269 | 09/08 18:07 | 09/09 17:59 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 414 | 09/08 18:32 | 09/09 18:20 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 267 | 09/08 18:37 | 09/09 18:21 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 681 行（統合前 697 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 679 行（統合前 695 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 18:07 [financialjuice] RBA's Hauser: Question is whether the RBA has done enough on rates.
-- 09/08 18:07 [financialjuice] RBA's Hauser: RBA stands ready to raise rates again if needed.
-- 09/08 18:13 [financialjuice] Iran's President Pezeshkian: Iran will continue its resistance with full strength until ‘aggressors' are regretful - X
-- 09/08 18:16 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN: IRAN WILL CONTINUE ITS RESISTANCE WITH FULL STRENGTH UNTIL 'AGGRESSORS' ARE REGRETFUL
-- 09/08 18:16 [FirstSquawk] GOLDMAN SACHS EXEC: OIL PRODUCT FLOWS OUT OF HORMUZ STRAIT AT 35% OF PRE-WAR LEVELS, VS 70% FOR CRUDE OIL
-- 09/08 18:16 [financialjuice] Saudi Arabia Foreign Minister tells Russia's Lavrov: Our cooperation in OPEC+ allows to balance oil supply and demand, we are interested in further partnership between our countries.
-- 09/08 18:16 [FirstSquawk] NHTSA- OPENS DEFECT PETITION INTO EST 499,603 FORD EDGE VEHICLES DUE TO COOLANT INTRUSION INTO THE ENGINE
-- 09/08 18:23 [FirstSquawk] KREMLIN SPOKESPERSON: ISSUES OF SELLING SU-57 IS ON THE AGENDA BETWEEN INDIA AND RUSSIA
 - 09/08 18:32 [FirstSquawk] BOJ PLANS TO RAISE RATE TO 1.25% AT SEPT. 17-18 MEETING: KYODO
 - 09/08 18:37 [financialjuice] Bank of Japan to hike key interest rates 0.25 percentage point in September meeting, Kyodo News says
 - 09/08 18:39 [financialjuice] China foreign minister to Qatar PM on Middle East situation: pressure through guns and cannons not the way out, dialogue and negotiation the right path - statement
@@ -705,3 +697,9 @@
 - 09/09 17:59 [financialjuice] Japan may convene extraordinary diet session on October 5 - Kyodo.
 - 09/09 18:02 [FirstSquawk] JAPAN IS PLANNING A SPECIAL DIET SESSION ON OCTOBER 5, ACCORDING TO KYODO.
 - 09/09 18:05 [FirstSquawk] ZELENSKIY: UKRAINE HIT NOVOROSSIYSK NAVAL BASE, OIL TERMINALS
+- 09/09 18:06 [FirstSquawk] EUROPEAN GAS PRICES INCREASE BY 4% TO A RECORD 79 EUROS PER MEGAWATT-HOUR, THE HIGHEST LEVEL SINCE LATE 2022.
+- 09/09 18:07 [financialjuice] UKMTO gets report of incident 24NM Northwest Port Rashid, UAE.
+- 09/09 18:08 [FirstSquawk] UKMTO SAYS IT RECEIVED A REPORT FROM THIRD PARTY OF INCIDENT 24 NM NORTHWEST OF PORT RASHID, UAE
+- 09/09 18:17 [FirstSquawk] TRUMP'S AI FRAMEWORK DOES NOT INCLUDE GUIDELINES FOR REPORTING PUBLIC INCIDENTS
+- 09/09 18:20 [FirstSquawk] FRENCH PRIME MINISTER PLANS TO REDUCE ONE-OFF TAX ON LARGE COMPANIES IN UPCOMING BUDGET.
+- 09/09 18:21 [financialjuice] French PM Lecornu: We aim to lower one-off tax on big companies in budget.
