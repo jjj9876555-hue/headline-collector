@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 11:06 JST／対象: 09/08 23:06 〜 09/09 11:06 JST（時刻はすべて日本時間）
+生成: 2026-09-09 11:25 JST／対象: 09/08 23:25 〜 09/09 11:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/08 23:18 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 239 | 09/08 23:10 | 09/09 11:05 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 193 | 09/08 23:08 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
+| DeItaone | 6 | 09/08 23:50 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
+| FirstSquawk | 232 | 09/08 23:26 | 09/09 11:22 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 185 | 09/08 23:26 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 431 行（統合前 439 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 415 行（統合前 423 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 23:08 [financialjuice] BoE's Ramsden: The impact of QT on yields is still very much in the background.
-- 09/08 23:08 [financialjuice] BoE's Ramsden: It is unclear if the slightly higher estimate of the QT impact reflects the extra year of QT, or better estimates.
-- 09/08 23:10 [FirstSquawk] US CB EMPLOYMENT TRENDS INDEX AUG: 108.53 (PREV 107.71; PREV R 107.76)
-- 09/08 23:12 [FirstSquawk] OFAC: GLOBAL TERRORISM SANCTIONS REGULATIONS GENERAL LICENCE
-- 09/08 23:12 [FirstSquawk] US SUSPENDS IRAN-RELATED GENERAL LICENSE J-1 EFFECTIVE SEPT. 8
-- 09/08 23:12 [FirstSquawk] US SANCTIONS AIR SHIRAZ, ASA JET AIRLINE, ATA AIRLINES
-- 09/08 23:12 [FirstSquawk] US: J-1 ALLOWED REEXPORTATION OF SOME CIVIL AIRCRAFT TO IRAN
-- 09/08 23:12 [FirstSquawk] US SANCTIONS AVA AIRLINES, ATLAS AVIATION GROUP, CHABAHAR AIR
-- 09/08 23:17 [financialjuice] Trump and Putin discussed outcome of the US envoys' visit to Moscow and Kyiv - Kremlin
-- 09/08 23:18 [FirstSquawk] PUTIN SPOKE TO TRUMP BY PHONE - KREMLIN || KREMLIN: PHONE CALL LASTED ONE HOUR || CONVERSATION WAS OPEN AND CONSTRUCTIVE - KREMLIN || TRUMP AND PUTIN DISCUSSED OUTCOME OF U.S. ENVOYS' VISIT TO MOSCOW AND KYIV - KREMLIN || TRUMP FOCUSED ON T…
-- 09/08 23:18 [FirstSquawk] UK MOVES LEFT ISRAEL NO CHOICE BUT TO RESPOND: SA'AR
-- 09/08 23:18 [FirstSquawk] END OF WAR WOULD IMMEDIATELY OPEN UP IMPRESSIVE POTENTIAL TO RESTORE U.S.-RUSSIA TIES - KREMLIN || KREMLIN SAYS TRUMP WOULD LIKE U.S.-RUSSIA TIES TO BE RESTORED DURING HIS PRESIDENCY || TRUMP AND PUTIN BOTH RATED U.S. ENVOYS' VISIT - KREMLI…
-- 09/08 23:18 [DeItaone] PUTIN TOLD TRUMP RUSSIA HAS NO HOSTILE PLANS TOWARDS EUROPE - KREMLIN
-- 09/08 23:20 [financialjuice] BoE Gov. Bailey: I do not think we are on the verge of a recession.
-- 09/08 23:20 [financialjuice] BoE Gov. Bailey: The latest data is looking a bit stronger.
-- 09/08 23:20 [FirstSquawk] PUTIN TOLD TRUMP WHAT US COULD DO TO END THE FIGHTING SOONER - KREMLIN || PUTIN GAVE TRUMP RUSSIA'S ASSESSMENT OF WHAT IS HAPPENING ON THE BATTLEFIELD - KREMLIN || PUTIN TOLD TRUMP RUSSIA HAS NO HOSTILE PLANS TOWARDS EUROPE - KREMLIN
-- 09/08 23:20 [FirstSquawk] UK SANCTIONS CLASH WITH LAWS IN MANY US STATES: ISRAEL'S SA'AR
-- 09/08 23:20 [financialjuice] BoE Gov. Bailey: Activity has been reasonable resilient, but weak by historic standards.
-- 09/08 23:23 [financialjuice] BoE Gov. Bailey: The labour market is softening, and the hiring rate is lower.
-- 09/08 23:25 [FirstSquawk] BOE’S BAILEY: LABOUR MARKET IS SOFTENING, HIRING RATE IS LOWER
-- 09/08 23:25 [financialjuice] BoE Gov. Bailey: We are seeing some signs of productivity picking up, not necessarily all in sectors that are exposed to AI.
 - 09/08 23:26 [financialjuice] Trump honors 9/11 victims, first responders at White House - WATCH LIVE
 - 09/08 23:26 [FirstSquawk] ISRAEL’S FOREIGN MINISTER GIDEON SA’AR: THE CONNECTION AND RIGHT OF THE JEWISH PEOPLE TO THIS LAND ARE EXTENSIVELY DOCUMENTED, MORE THAN ANY OTHER PEOPLE OR NATION IN HUMAN HISTORY.
 - 09/08 23:28 [FirstSquawk] IN A FEW MINUTES, IMPORTANT NEWS WILL BE RELEASED ABOUT THE HUNTING OF IRGC NAVY FIGHTERS IN THE STRAIT OF HORMUZ – TASNIM
@@ -455,3 +434,8 @@
 - 09/09 11:02 [FirstSquawk] Thailand’s Economic Growth Outlook Remains Broadly Unchanged From Previous Assessment, https://t.co/j1lvIXBwYH Minutes Say
 - 09/09 11:03 [FirstSquawk] Thailand’s Headline Inflation Seen Increasing Temporarily on Supply-Side Pressures, https://t.co/j1lvIXBwYH Minutes Show
 - 09/09 11:05 [FirstSquawk] Thailand’s Loan Quality Stays Largely Stable, https://t.co/j1lvIXBwYH Minutes Say
+- 09/09 11:06 [FirstSquawk] Thai https://t.co/j1lvIXBwYH Minutes: Additional Monetary Policy Easing in a Non-Crisis Setting Could Have Limited Impact
+- 09/09 11:09 [FirstSquawk] Indonesian Currency Rises to 17,560 per U.S. Dollar, Its Best Level Since Mid-May
+- 09/09 11:11 [FirstSquawk] Iran’s IRGC Claims Attacks on Two U.S. Vessels and Eight Gulf Oil Tankers After U.S. Hit Five Iranian Tankers
+- 09/09 11:14 [FirstSquawk] IRGC Claims Attacks on 10 Ships Attempting to Transit ‘Prohibited and Unsafe’ Area of Strait of Hormuz
+- 09/09 11:22 [FirstSquawk] New Zealand Dollar holds gains above 0.5850 after Chinese inflation data - FX

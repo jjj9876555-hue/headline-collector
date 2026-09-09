@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 11:06 JST／対象: 09/09 05:06 〜 09/09 11:06 JST（時刻はすべて日本時間）
+生成: 2026-09-09 11:25 JST／対象: 09/09 05:25 〜 09/09 11:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/09 05:31 | 09/09 05:33 | 1分（05:31→05:33） |
-| FirstSquawk | 96 | 09/09 05:25 | 09/09 11:05 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 76 | 09/09 05:14 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
+| FirstSquawk | 100 | 09/09 05:26 | 09/09 11:22 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 74 | 09/09 05:29 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 170 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 173 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 05:14 [financialjuice] Bonds and Stocks Drop as Oil Soars on Middle East Fears – US Market Wrap
-- 09/09 05:25 [financialjuice/FirstSquawk] The US attacked a second oil tanker near the waters of Jask - IRIB News
 - 09/09 05:26 [FirstSquawk] HEATHROW: ARRIVALS SUSPENDED FOR THE REST OF TUESDAY DUE TO EARLIER NATS TECHNICAL ISSUE; DEPARTURES & AIR TRAFFIC CONTROL SERVICES HAVE RESUMED, BUT DISRUPTIONS ARE EXPECTED TO CONTINUE.
 - 09/09 05:27 [FirstSquawk] HHS ANNOUNCES KEY FDA LEADERSHIP APPOINTMENTS, NAMING JARED SEEHAFER AS THE AGENCY’S FIRST DEPUTY COMMISSIONER FOR TECHNOLOGY & ARTIFICIAL INTELLIGENCE, ALONGSIDE NEW HEADS FOR TOBACCO, BIOLOGICS & DRUG EVALUATION CENTERS.
 - 09/09 05:29 [financialjuice] Google and Blackstone venture faces delays at data-center sites. $GOOGL $BX
@@ -194,3 +192,8 @@
 - 09/09 11:02 [FirstSquawk] Thailand’s Economic Growth Outlook Remains Broadly Unchanged From Previous Assessment, https://t.co/j1lvIXBwYH Minutes Say
 - 09/09 11:03 [FirstSquawk] Thailand’s Headline Inflation Seen Increasing Temporarily on Supply-Side Pressures, https://t.co/j1lvIXBwYH Minutes Show
 - 09/09 11:05 [FirstSquawk] Thailand’s Loan Quality Stays Largely Stable, https://t.co/j1lvIXBwYH Minutes Say
+- 09/09 11:06 [FirstSquawk] Thai https://t.co/j1lvIXBwYH Minutes: Additional Monetary Policy Easing in a Non-Crisis Setting Could Have Limited Impact
+- 09/09 11:09 [FirstSquawk] Indonesian Currency Rises to 17,560 per U.S. Dollar, Its Best Level Since Mid-May
+- 09/09 11:11 [FirstSquawk] Iran’s IRGC Claims Attacks on Two U.S. Vessels and Eight Gulf Oil Tankers After U.S. Hit Five Iranian Tankers
+- 09/09 11:14 [FirstSquawk] IRGC Claims Attacks on 10 Ships Attempting to Transit ‘Prohibited and Unsafe’ Area of Strait of Hormuz
+- 09/09 11:22 [FirstSquawk] New Zealand Dollar holds gains above 0.5850 after Chinese inflation data - FX

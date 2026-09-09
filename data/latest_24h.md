@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 11:06 JST／対象: 09/08 11:06 〜 09/09 11:06 JST（時刻はすべて日本時間）
+生成: 2026-09-09 11:25 JST／対象: 09/08 11:25 〜 09/09 11:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 432 | 09/08 11:08 | 09/09 11:05 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 327 | 09/08 11:24 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
+| FirstSquawk | 433 | 09/08 11:28 | 09/09 11:22 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 326 | 09/08 11:28 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 758 行（統合前 771 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 11:08 [FirstSquawk] Yen surges to six-month high as traders stay alert for signs of intervention - FT
-- 09/08 11:14 [FirstSquawk] Samsung SDS to expand partnerships with OpenAI, Anthropic to drive AI transformation - YONHAP
-- 09/08 11:18 [FirstSquawk] IAEA says S. Korea notifies intent to consult on safeguards arrangement for nuclear-powered subs - YONHAP
-- 09/08 11:24 [financialjuice] Dollar/yen down 0.9% to 152.95
-- 09/08 11:24 [FirstSquawk] Dollar/yen declines 0.90% to 152.95
 - 09/08 11:28 [financialjuice] Hormuz traffic slows at start of week as Middle East tensions escalate, shipping data shows
 - 09/08 11:28 [FirstSquawk] Strait of Hormuz traffic slows as Middle East tensions intensify, shipping data shows
 - 09/08 11:29 [FirstSquawk] XPeng puts humanoid robot production lines into operation and completes first advanced robot
@@ -782,3 +777,8 @@
 - 09/09 11:02 [FirstSquawk] Thailand’s Economic Growth Outlook Remains Broadly Unchanged From Previous Assessment, https://t.co/j1lvIXBwYH Minutes Say
 - 09/09 11:03 [FirstSquawk] Thailand’s Headline Inflation Seen Increasing Temporarily on Supply-Side Pressures, https://t.co/j1lvIXBwYH Minutes Show
 - 09/09 11:05 [FirstSquawk] Thailand’s Loan Quality Stays Largely Stable, https://t.co/j1lvIXBwYH Minutes Say
+- 09/09 11:06 [FirstSquawk] Thai https://t.co/j1lvIXBwYH Minutes: Additional Monetary Policy Easing in a Non-Crisis Setting Could Have Limited Impact
+- 09/09 11:09 [FirstSquawk] Indonesian Currency Rises to 17,560 per U.S. Dollar, Its Best Level Since Mid-May
+- 09/09 11:11 [FirstSquawk] Iran’s IRGC Claims Attacks on Two U.S. Vessels and Eight Gulf Oil Tankers After U.S. Hit Five Iranian Tankers
+- 09/09 11:14 [FirstSquawk] IRGC Claims Attacks on 10 Ships Attempting to Transit ‘Prohibited and Unsafe’ Area of Strait of Hormuz
+- 09/09 11:22 [FirstSquawk] New Zealand Dollar holds gains above 0.5850 after Chinese inflation data - FX
