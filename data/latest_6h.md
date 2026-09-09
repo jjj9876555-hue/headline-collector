@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 20:05 JST／対象: 09/09 14:05 〜 09/09 20:05 JST（時刻はすべて日本時間）
+生成: 2026-09-09 20:25 JST／対象: 09/09 14:25 〜 09/09 20:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/09 16:31 | 09/09 20:04 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 87 | 09/09 14:10 | 09/09 20:00 | 19分（16:10→16:29） |
-| financialjuice | 17 | 09/09 17:26 | 09/09 20:00 | 31分（18:32→19:03） |
+| DeItaone | 15 | 09/09 16:31 | 09/09 20:08 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 87 | 09/09 14:36 | 09/09 20:24 | 19分（16:10→16:29） |
+| financialjuice | 18 | 09/09 17:26 | 09/09 20:10 | 31分（18:32→19:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 115 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 117 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 14:10 [FirstSquawk] Kazakhstan Gold and Foreign Currency Reserves Reach $68.562 Billion in August, Increasing 11.8% M/M
-- 09/09 14:12 [FirstSquawk] Gold Prices Edge Higher Amid Softer Dollar, Inflation Data Ahead and Mideast Tensions
-- 09/09 14:19 [FirstSquawk] China needs monkeys: lab animal shortage could hinder biotech growth - SCMP
-- 09/09 14:20 [FirstSquawk] Heathrow Says Flights Are Operating Today, With Some Disruption Expected as Airlines Reposition Aircraft and Staff
 - 09/09 14:36 [FirstSquawk] USD/JPY Drops 0.48% to 153.29
 - 09/09 14:41 [FirstSquawk] NZ Public Servants Stage Walkout in Dispute Over Pay Offer
 - 09/09 14:45 [FirstSquawk] Flights Resume at London Gatwick Airport, UK Says
@@ -139,3 +135,9 @@
 - 09/09 20:00 [FirstSquawk] US MBA MORTGAGE APPLICATIONS FELL BY 2.7% ON SEP-04, DOWN FROM 0.8% PREVIOUSLY.
 - 09/09 20:02 [DeItaone] US MORTGAGE DEMAND FALLS AS RATES HIT 6.85% US mortgage applications fell 2.7% last week, according to the Mortgage Bankers Association. Refinancing applications dropped 6.2%, while home-purchase applications slipped 0.2%. The average 30-ye…
 - 09/09 20:04 [DeItaone] IRGC: WE WILL HIT 20 TARGETS FOR EVERY 2 OR 3 STRUCK Iran’s Revolutionary Guards warned they would respond forcefully to further attacks, saying every two or three Iranian targets hit could trigger strikes on 20 enemy targets. The IRGC also…
+- 09/09 20:08 [DeItaone] U.S. BANK LAUNCHES ITS OWN STABLECOIN U.S. Bank has successfully tested USBDC, its proprietary dollar-backed stablecoin, in a live cross-border payment between its North American and European operations. The transaction ran on the Stellar b…
+- 09/09 20:10 [financialjuice] UK's PM Burnham: Will take pragmatic approach on North Sea oil and gas.
+- 09/09 20:11 [FirstSquawk] GERMAN GOVT SPOKESPERSON: WE USUALLY AVOID COMMENTING ON REMARKS BY OTHER WORLD LEADERS.
+- 09/09 20:11 [FirstSquawk] BURNHAM WILL USE A PRACTICAL METHOD FOR NORTH SEA OIL AND GAS.
+- 09/09 20:24 [FirstSquawk] US BANK LAUNCHES USBDC STABLECOIN
+- 09/09 20:24 [FirstSquawk] UK PM BURNHAM: WILL TAKE PRAGMATIC APPROACH ON NORTH SEA OIL AND GAS

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 20:05 JST／対象: 09/08 20:05 〜 09/09 20:05 JST（時刻はすべて日本時間）
+生成: 2026-09-09 20:25 JST／対象: 09/08 20:25 〜 09/09 20:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/08 22:06 | 09/09 20:04 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 416 | 09/08 20:06 | 09/09 20:00 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 262 | 09/08 20:18 | 09/09 20:00 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 25 | 09/08 22:06 | 09/09 20:08 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 416 | 09/08 20:30 | 09/09 20:24 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 261 | 09/08 20:30 | 09/09 20:10 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 687 行（統合前 705 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 20:06 [FirstSquawk] UK HAS RECORDED ITS HIGHEST BOND SALE YIELD SINCE 1998.
-- 09/08 20:12 [FirstSquawk] INDIA, CHINA ARMY COMMANDERS HELD BORDER TALKS ON SUNDAY: FOREIGN MINISTRY
-- 09/08 20:15 [FirstSquawk] UK OFFICIALS ARE CONCERNED THAT THE SANCTIONS ANNOUNCEMENT MAY STRAIN BURNHAM'S RELATIONSHIP WITH TRUMP, ACCORDING TO THE TIMES.
-- 09/08 20:18 [financialjuice] US seeks more access to Venezuela's minerals.
-- 09/08 20:22 [FirstSquawk] IRAN HAS CONVEYED ITS CONDITIONS TO THE US THROUGH INTERMEDIARIES AFTER WASHINGTON RECENTLY SENT NEW PROPOSALS TO TEHRAN
-- 09/08 20:22 [financialjuice] Commerce Department reaches $100m deal with D-wave under chips act.
 - 09/08 20:30 [FirstSquawk] JEFFERIES FUND ACCUSES RADIANT WORLD OF FRAUD IN LONDON LAWSUIT
 - 09/08 20:30 [financialjuice] Quantum Cyber buys NVIDIA A100 AI compute cluster.
 - 09/08 20:33 [FirstSquawk] GE AEROSPACE TO BUY CONSOLIDATED PRECISION PRODUCTS FOR $11.75B
@@ -711,3 +705,9 @@
 - 09/09 20:00 [FirstSquawk] US MBA MORTGAGE APPLICATIONS FELL BY 2.7% ON SEP-04, DOWN FROM 0.8% PREVIOUSLY.
 - 09/09 20:02 [DeItaone] US MORTGAGE DEMAND FALLS AS RATES HIT 6.85% US mortgage applications fell 2.7% last week, according to the Mortgage Bankers Association. Refinancing applications dropped 6.2%, while home-purchase applications slipped 0.2%. The average 30-ye…
 - 09/09 20:04 [DeItaone] IRGC: WE WILL HIT 20 TARGETS FOR EVERY 2 OR 3 STRUCK Iran’s Revolutionary Guards warned they would respond forcefully to further attacks, saying every two or three Iranian targets hit could trigger strikes on 20 enemy targets. The IRGC also…
+- 09/09 20:08 [DeItaone] U.S. BANK LAUNCHES ITS OWN STABLECOIN U.S. Bank has successfully tested USBDC, its proprietary dollar-backed stablecoin, in a live cross-border payment between its North American and European operations. The transaction ran on the Stellar b…
+- 09/09 20:10 [financialjuice] UK's PM Burnham: Will take pragmatic approach on North Sea oil and gas.
+- 09/09 20:11 [FirstSquawk] GERMAN GOVT SPOKESPERSON: WE USUALLY AVOID COMMENTING ON REMARKS BY OTHER WORLD LEADERS.
+- 09/09 20:11 [FirstSquawk] BURNHAM WILL USE A PRACTICAL METHOD FOR NORTH SEA OIL AND GAS.
+- 09/09 20:24 [FirstSquawk] US BANK LAUNCHES USBDC STABLECOIN
+- 09/09 20:24 [FirstSquawk] UK PM BURNHAM: WILL TAKE PRAGMATIC APPROACH ON NORTH SEA OIL AND GAS

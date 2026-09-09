@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 20:05 JST／対象: 09/09 08:05 〜 09/09 20:05 JST（時刻はすべて日本時間）
+生成: 2026-09-09 20:25 JST／対象: 09/09 08:25 〜 09/09 20:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/09 16:31 | 09/09 20:04 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 200 | 09/09 08:18 | 09/09 20:00 | 19分（16:10→16:29） |
-| financialjuice | 59 | 09/09 08:06 | 09/09 20:00 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 15 | 09/09 16:31 | 09/09 20:08 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 200 | 09/09 08:32 | 09/09 20:24 | 19分（16:10→16:29） |
+| financialjuice | 53 | 09/09 08:37 | 09/09 20:10 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 268 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 264 行（統合前 270 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 08:06 [financialjuice] Senior Trump administration official: Trump approved series of proclamations on Canada trade measures
-- 09/09 08:07 [financialjuice] Senior Trump administration official: ban on dairy, most alcohol, motorcycles imports from Canada under section 338
-- 09/09 08:08 [financialjuice] Senior Trump administration official: import restrictions on Canadian goods effective in about three weeks
-- 09/09 08:11 [financialjuice] Senior Trump administration official: Trump’s stance on Jan. 1, 2027, auto tariff hike remains in effect
-- 09/09 08:12 [financialjuice] Senior Trump administration official: U.S. held talks with Canada's Minister LeBlanc over past few days
-- 09/09 08:15 [financialjuice/FirstSquawk] Iran’s Revolutionary Guards: ballistic missile strike on two U.S. destroyers - Iranian state media
-- 09/09 08:15 [financialjuice] Mexico economy minister: U.S. commerce secretary to visit Mexico City Wednesday for meeting with President Sheinbaum
-- 09/09 08:18 [FirstSquawk] SENIOR TRUMP ADMINISTRATION OFFICIAL SAYS TRUMP HAS SIGNED A SERIES OF PROCLAMATIONS REGARDING CANADA TRADE ACTIONS, BANNING THE IMPORTATION OF DAIRY PRODUCTS, MOST ALCOHOLIC PRODUCTS AND MOTORCYCLES FROM CANADA UNDER SECTION 338, WITH THE …
-- 09/09 08:18 [FirstSquawk] SENIOR TRUMP ADMINISTRATION OFFICIAL SAYS TRUMP'S POSITION ON THE JANUARY 1, 2027 AUTO TARIFF INCREASE IS STILL IN EFFECT, THAT THE U.S. HAS HAD CONVERSATIONS WITH CANADA'S MINISTER LEBLANC OVER THE PAST COUPLE OF DAYS, AND THAT TRUMP IS RE…
-- 09/09 08:23 [FirstSquawk] RUSSIA IS EXPECTED TO PROLONG THE UKRAINE WAR INTO 2027 AS PEACE TALKS STALL, WITH PUTIN BELIEVED TO BE WAITING FOR A STRONGER MILITARY AND POLITICAL POSITION BEFORE SERIOUS NEGOTIATIONS. WESTERN OFFICIALS WARN MOSCOW WILL INTENSIFY WINTER …
 - 09/09 08:32 [FirstSquawk] GOLD FELL 1% TO $4,357.88 AN OUNCE AS RISING MIDDLE EAST TENSIONS PUSHED OIL PRICES HIGHER, INCREASING CONCERNS THAT INFLATION COULD REMAIN ELEVATED AND INTEREST RATES STAY HIGHER FOR LONGER, WITH MARKETS NOW PRICING MORE THAN A 50% CHANCE …
 - 09/09 08:37 [financialjuice] Jordan: 20 ballistic missiles fired from Iran toward its territory
 - 09/09 08:38 [financialjuice] Trump: Populist party in Germany scores major victory
@@ -292,3 +282,9 @@
 - 09/09 20:00 [FirstSquawk] US MBA MORTGAGE APPLICATIONS FELL BY 2.7% ON SEP-04, DOWN FROM 0.8% PREVIOUSLY.
 - 09/09 20:02 [DeItaone] US MORTGAGE DEMAND FALLS AS RATES HIT 6.85% US mortgage applications fell 2.7% last week, according to the Mortgage Bankers Association. Refinancing applications dropped 6.2%, while home-purchase applications slipped 0.2%. The average 30-ye…
 - 09/09 20:04 [DeItaone] IRGC: WE WILL HIT 20 TARGETS FOR EVERY 2 OR 3 STRUCK Iran’s Revolutionary Guards warned they would respond forcefully to further attacks, saying every two or three Iranian targets hit could trigger strikes on 20 enemy targets. The IRGC also…
+- 09/09 20:08 [DeItaone] U.S. BANK LAUNCHES ITS OWN STABLECOIN U.S. Bank has successfully tested USBDC, its proprietary dollar-backed stablecoin, in a live cross-border payment between its North American and European operations. The transaction ran on the Stellar b…
+- 09/09 20:10 [financialjuice] UK's PM Burnham: Will take pragmatic approach on North Sea oil and gas.
+- 09/09 20:11 [FirstSquawk] GERMAN GOVT SPOKESPERSON: WE USUALLY AVOID COMMENTING ON REMARKS BY OTHER WORLD LEADERS.
+- 09/09 20:11 [FirstSquawk] BURNHAM WILL USE A PRACTICAL METHOD FOR NORTH SEA OIL AND GAS.
+- 09/09 20:24 [FirstSquawk] US BANK LAUNCHES USBDC STABLECOIN
+- 09/09 20:24 [FirstSquawk] UK PM BURNHAM: WILL TAKE PRAGMATIC APPROACH ON NORTH SEA OIL AND GAS
