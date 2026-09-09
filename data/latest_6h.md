@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 12:34 JST／対象: 09/09 06:34 〜 09/09 12:34 JST（時刻はすべて日本時間）
+生成: 2026-09-09 12:52 JST／対象: 09/09 06:52 〜 09/09 12:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 94 | 09/09 06:39 | 09/09 12:29 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 55 | 09/09 07:05 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
+| FirstSquawk | 98 | 09/09 07:35 | 09/09 12:50 | 18分（07:59→08:18） |
+| financialjuice | 57 | 09/09 07:05 | 09/09 12:41 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 148 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 154 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 06:39 [FirstSquawk] US CDC REPORTS 19,595 LAB-CONFIRMED US-ACQUIRED CYCLOSPORIASIS CASES SINCE MAY 1, WITH 1,043 RELATED HOSPITALIZATIONS THROUGH SEPT. 8. THE OUTBREAK HAS RESULTED IN A SIGNIFICANT NUMBER OF HOSPITALIZATIONS, PROMPTING CONTINUED PUBLIC-HEALTH …
-- 09/09 06:40 [FirstSquawk] GLOBALFOUNDRIES CEO SAYS DATA-CENTER DEMAND IS A “VERY STRONG DRIVER” FOR GROWTH AS AI WORKLOADS BECOME INCREASINGLY DATA-INTENSIVE. CEO SAYS OPTICAL CONNECTIVITY IS NOW A “WHEN, NOT IF” TRANSITION AND GLOBALFOUNDRIES COULD 10X SILICON-PHOT…
 - 09/09 07:05 [financialjuice] US Secretary of State Rubio: Trump wants to reach tariff deal with Colombia
 - 09/09 07:12 [financialjuice] US Secretary of State Rubio: Every time Iran targets US Navy ships, they will lose tankers
 - 09/09 07:17 [financialjuice] U.S. Central Command: forces destroyed five Iranian crude oil carriers Sept. 8 after Islamic Revolutionary Guard Corps targeted U.S. navy warship with ballistic missiles twice over past two days
@@ -172,3 +170,11 @@
 - 09/09 12:14 [FirstSquawk] RBC Lifts Qualcomm Price Target to $180 From $160
 - 09/09 12:23 [FirstSquawk] RBC Begins AstraZeneca Coverage With Outperform Recommendation, Target Price 14,500p
 - 09/09 12:29 [FirstSquawk] S. Korea, UNDP sign agreement on mine removal cooperation - yonhap
+- 09/09 12:36 [FirstSquawk] President Lee conferred France's highest decoration for promoting bilateral ties - yonhap
+- 09/09 12:39 [financialjuice] China finance ministry auctions 50-year ultra-long special treasury bonds at 2.2778% yield: traders
+- 09/09 12:39 [FirstSquawk] China Sells 50-Year Ultra-Long Special Treasury Bonds at 2.2778% Yield, Traders Say
+- 09/09 12:41 [financialjuice] China finance ministry auctions 3-month bills at 1.1270% yield: traders
+- 09/09 12:41 [FirstSquawk] MRPL Executive: Rising Local Diesel Demand Encourages Refiners to Shift Production From Jet Fuel to Diesel
+- 09/09 12:43 [FirstSquawk] BHP Group Says New Rio Doce Deal Brings Over R$1.2 Billion in Additional Reparations Payments
+- 09/09 12:48 [FirstSquawk] Thai Finance Ministry to Launch Rooftop Solar Support From Mid-October
+- 09/09 12:50 [FirstSquawk] Thai Government to Allocate 50 Billion Baht for Rooftop Solar Scheme, FinMin Says
