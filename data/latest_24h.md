@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 17:34 JST／対象: 09/08 17:34 〜 09/09 17:34 JST（時刻はすべて日本時間）
+生成: 2026-09-09 17:53 JST／対象: 09/08 17:53 〜 09/09 17:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 22:06 | 09/09 16:31 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 417 | 09/08 17:35 | 09/09 17:30 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 267 | 09/08 17:55 | 09/09 17:26 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 414 | 09/08 17:56 | 09/09 17:48 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 269 | 09/08 17:55 | 09/09 17:46 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 682 行（統合前 698 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 681 行（統合前 697 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 17:35 [FirstSquawk] JAPAN, OMAN DISCUSS INTERNATIONAL LAW REGARDING HORMUZ
-- 09/08 17:36 [FirstSquawk] KREMLIN SPOKESPERSON: RUSSIA REACHED AT 90% OF ALL TRANSACTIONS IN NATIONAL CURRENCIES WITH BRICS COUNTRIES
-- 09/08 17:38 [FirstSquawk] GERMAN FINANCE MINISTER: WITHOUT TAKING ON NEW DEBT, WE CANNOT DEFEND OURSELVES
-- 09/08 17:44 [FirstSquawk] KREMLIN SPOKESPERSON IN VIRTUAL INTERACTION WITH INDIAN REPORTERS: RUSSIA IS OPEN TO PROCESS OF SOLVING WAR IN UKRAINE THROUGH PEACEFUL MEANS
-- 09/08 17:48 [FirstSquawk] USD/JPY PARES LOSSES, DOWN 0.1% TO 154.15, VERSUS 152.89 LOW
-- 09/08 17:52 [FirstSquawk] RUSSIA PESKOV: PUTIN TO MEET INDIA MODI ON FRIDAY: TASS
 - 09/08 17:55 [financialjuice] Ukraine's Zelenskiy: Ukraine is ready to compromise on strikes on grain shipments, energy.
 - 09/08 17:56 [FirstSquawk] BRAZIL PRES ELECTION POLL: FLAVIO HAS 46%, LULA 45% IN 2ND ROUND – BTG PACTUAL/NEXUS
 - 09/08 18:00 [FirstSquawk] UK BEGINS TALKS TO REJOIN EU SECURITY MISSIONS
@@ -706,3 +700,8 @@
 - 09/09 17:26 [financialjuice] Zankore builds 100MW NVIDIA AI infrastructure in Indonesia.
 - 09/09 17:28 [FirstSquawk] U.S. HAS IMPOSED AN IMPORT BAN ON MANY CANADIAN PRODUCTS AS TENSIONS IN TRADE INCREASE.
 - 09/09 17:30 [FirstSquawk] GERMAN FOREIGN MINISTER WADEPHUL STATED THAT GERMANY GIVES SIGNIFICANT MILITARY AID BUT EXPECTS PURCHASING FROM GERMAN DEFENSE FIRMS TO BENEFIT ITS INDUSTRY AND ECONOMY.
+- 09/09 17:35 [FirstSquawk] ELECTION BETTING BOOM: WILL PREDICTION MARKETS SHAPE AMERICA’S 2026 MIDTERMS? Prediction markets are surging ahead of the 2026 U.S. elections, with platforms such as Kalshi and Polymarket attracting growing volumes of political trading. Sup…
+- 09/09 17:35 [FirstSquawk] HEDGE FUNDS REINITIATE DISPUTE OVER PASCHI'S €1 BILLION BOND LOSSES
+- 09/09 17:45 [financialjuice] UKMTO gets September 8 report on vessels in Arabian Gulf, Oman Gulf.
+- 09/09 17:46 [financialjuice] UKMTO says several vessels were subject to disabling fire.
+- 09/09 17:48 [FirstSquawk] JAY Y. LEE OF SAMSUNG WILL PURCHASE SHARES WORTH 1.9 TRILLION WON (USD 1.422 BILLION) FROM HIS MOTHER, ACCORDING TO A FILING.

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 17:34 JST／対象: 09/09 11:34 〜 09/09 17:34 JST（時刻はすべて日本時間）
+生成: 2026-09-09 17:53 JST／対象: 09/09 11:53 〜 09/09 17:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/09 16:31 | 09/09 16:31 | - |
-| FirstSquawk | 89 | 09/09 11:35 | 09/09 17:30 | 19分（16:10→16:29） |
-| financialjuice | 9 | 09/09 12:39 | 09/09 17:26 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 87 | 09/09 11:55 | 09/09 17:48 | 19分（16:10→16:29） |
+| financialjuice | 11 | 09/09 12:39 | 09/09 17:46 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 98 行（統合前 101 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 11:35 [FirstSquawk] Yuan use grows as supply chains reshape global trade, Deutsche Bank says - SCMP
-- 09/09 11:36 [FirstSquawk] South Korean Stocks Advance 2% as KOSPI Climbs
-- 09/09 11:37 [FirstSquawk] Gemini Digital Payments Singapore Receives Major Payment Institution License From MAS
-- 09/09 11:40 [FirstSquawk] Oil heads for $100, Asia stocks subdued as Middle East tensions escalate - RTRS
-- 09/09 11:47 [FirstSquawk] Singapore Dollar Consolidates Ahead of U.S. PPI, CPI Data - WSJ
 - 09/09 11:55 [FirstSquawk] Hyundai Motor, AfDB agree to cooperate on Africa's energy transition, sustainable development - YONHAP
 - 09/09 12:00 [FirstSquawk] American Official Says U.S. Forces in Jordan Operating at Full Capacity, Al Arabiya English Reports
 - 09/09 12:04 [FirstSquawk] Skoda Auto Volkswagen- JSW Group Deal Structured as Two-Party Partnership With Joint Control and Defined Roles
@@ -122,3 +117,8 @@
 - 09/09 17:26 [financialjuice] Zankore builds 100MW NVIDIA AI infrastructure in Indonesia.
 - 09/09 17:28 [FirstSquawk] U.S. HAS IMPOSED AN IMPORT BAN ON MANY CANADIAN PRODUCTS AS TENSIONS IN TRADE INCREASE.
 - 09/09 17:30 [FirstSquawk] GERMAN FOREIGN MINISTER WADEPHUL STATED THAT GERMANY GIVES SIGNIFICANT MILITARY AID BUT EXPECTS PURCHASING FROM GERMAN DEFENSE FIRMS TO BENEFIT ITS INDUSTRY AND ECONOMY.
+- 09/09 17:35 [FirstSquawk] ELECTION BETTING BOOM: WILL PREDICTION MARKETS SHAPE AMERICA’S 2026 MIDTERMS? Prediction markets are surging ahead of the 2026 U.S. elections, with platforms such as Kalshi and Polymarket attracting growing volumes of political trading. Sup…
+- 09/09 17:35 [FirstSquawk] HEDGE FUNDS REINITIATE DISPUTE OVER PASCHI'S €1 BILLION BOND LOSSES
+- 09/09 17:45 [financialjuice] UKMTO gets September 8 report on vessels in Arabian Gulf, Oman Gulf.
+- 09/09 17:46 [financialjuice] UKMTO says several vessels were subject to disabling fire.
+- 09/09 17:48 [FirstSquawk] JAY Y. LEE OF SAMSUNG WILL PURCHASE SHARES WORTH 1.9 TRILLION WON (USD 1.422 BILLION) FROM HIS MOTHER, ACCORDING TO A FILING.
