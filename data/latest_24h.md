@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 14:51 JST／対象: 09/08 14:51 〜 09/09 14:51 JST（時刻はすべて日本時間）
+生成: 2026-09-09 15:03 JST／対象: 09/08 15:03 〜 09/09 15:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 410 | 09/08 14:51 | 09/09 14:50 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 278 | 09/08 15:00 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 409 | 09/08 15:04 | 09/09 15:01 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 273 | 09/08 15:04 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 686 行（統合前 702 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 680 行（統合前 696 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 14:51 [FirstSquawk] Russia targets Ukraine with dozens of missiles and 166 drones in overnight attack, Air Force says
-- 09/08 14:55 [FirstSquawk] Morgan Stanley cuts BE Semiconductor target price to EUR 220 from EUR 260
-- 09/08 15:00 [financialjuice] GERMAN IMPORTS MOM SA ACTUAL -5.7% (FORECAST -1%, PREVIOUS 4.4%) $MACRO
-- 09/08 15:00 [financialjuice] GERMAN TRADE BALANCE SA ACTUAL 21.3B (FORECAST 15.8B, PREVIOUS 15.4B) $MACRO
-- 09/08 15:00 [financialjuice] GERMAN EXPORTS MOM SA ACTUAL -0.8% (FORECAST 0.3%, PREVIOUS 0.9%) $MACRO
-- 09/08 15:00 [financialjuice] Yemen's Houthi Military Spokesperson: Group will announce broad military operation deep into Saudi territory.
-- 09/08 15:01 [FirstSquawk] GERMANY (JUL) TRADE BALANCE SA ACTUAL: 21.3B VS 15.4B PREVIOUS;EST 15.8B
-- 09/08 15:01 [FirstSquawk] GERMANY (JUL) EXPORTS SA MOM ACTUAL: -0.8% VS 0.9% PREVIOUS;EST 0.3%
-- 09/08 15:01 [FirstSquawk] GERMANY (JUL) IMPORTS SA MOM ACTUAL: -5.7% VS 4.4% PREVIOUS;EST -1.0%
-- 09/08 15:02 [financialjuice] ASML, TSMC announce initiative to pioneer industry transition.
 - 09/08 15:04 [FirstSquawk] Yemen’s Houthis to announce broad military operation deep into Saudi territory, military spokesperson says
 - 09/08 15:04 [financialjuice] Japan PM Takaichi to retain Koichi Hagiuda in reshuffle - Yomiuri.
 - 09/08 15:05 [financialjuice] Samsung plans to use ASML top tool for DRAM production by 2028.
@@ -710,3 +700,7 @@
 - 09/09 14:48 [FirstSquawk] Gold Advances 1% to $4,394.89 an Ounce in Spot Market
 - 09/09 14:49 [FirstSquawk] Kazakhstan Justice Ministry: Action to Recover Funds From NCOC Consortium Is Continuing
 - 09/09 14:50 [FirstSquawk] Ukrainian Attack on Novorossiysk Kills Four, Governor Says
+- 09/09 14:59 [FirstSquawk] Goldman Sachs Increases Mondi Target to 860p, Up From 780p
+- 09/09 15:00 [FirstSquawk] NORWAY (AUG) PPI INCLUDING OIL MOM ACTUAL: 30.1% VS 23.4% PREVIOUS
+- 09/09 15:01 [FirstSquawk] NORWAY PPI INCLUDING OIL (M/M): 4.7% (PREV 8.9%)
+- 09/09 15:01 [FirstSquawk] Japan Machine Tool Orders (Y/Y) Aug P: 64.7% (prev 50.4%)
