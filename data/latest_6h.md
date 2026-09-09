@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 16:59 JST／対象: 09/09 10:59 〜 09/09 16:59 JST（時刻はすべて日本時間）
+生成: 2026-09-09 17:19 JST／対象: 09/09 11:19 〜 09/09 17:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/09 16:31 | 09/09 16:31 | - |
-| FirstSquawk | 92 | 09/09 11:02 | 09/09 16:56 | 19分（16:10→16:29） |
+| FirstSquawk | 89 | 09/09 11:22 | 09/09 17:15 | 19分（16:10→16:29） |
 | financialjuice | 8 | 09/09 12:39 | 09/09 14:00 | 27分（13:03→13:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 100 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 97 行（統合前 100 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 11:02 [FirstSquawk] Thailand’s Economic Growth Outlook Remains Broadly Unchanged From Previous Assessment, https://t.co/j1lvIXBwYH Minutes Say
-- 09/09 11:03 [FirstSquawk] Thailand’s Headline Inflation Seen Increasing Temporarily on Supply-Side Pressures, https://t.co/j1lvIXBwYH Minutes Show
-- 09/09 11:05 [FirstSquawk] Thailand’s Loan Quality Stays Largely Stable, https://t.co/j1lvIXBwYH Minutes Say
-- 09/09 11:06 [FirstSquawk] Thai https://t.co/j1lvIXBwYH Minutes: Additional Monetary Policy Easing in a Non-Crisis Setting Could Have Limited Impact
-- 09/09 11:09 [FirstSquawk] Indonesian Currency Rises to 17,560 per U.S. Dollar, Its Best Level Since Mid-May
-- 09/09 11:11 [FirstSquawk] Iran’s IRGC Claims Attacks on Two U.S. Vessels and Eight Gulf Oil Tankers After U.S. Hit Five Iranian Tankers
-- 09/09 11:14 [FirstSquawk] IRGC Claims Attacks on 10 Ships Attempting to Transit ‘Prohibited and Unsafe’ Area of Strait of Hormuz
 - 09/09 11:22 [FirstSquawk] New Zealand Dollar holds gains above 0.5850 after Chinese inflation data - FX
 - 09/09 11:25 [FirstSquawk] Economic anxiety and US tensions drive Mao revival among young Chinese - SCMP
 - 09/09 11:31 [FirstSquawk] South Korea Auctions 20-Year Treasury Bonds at 4.520% Yield, Finance Ministry Says
@@ -124,3 +117,7 @@
 - 09/09 16:48 [FirstSquawk] EUROPE’S SPACE BOSS WANTS EUROPEAN COUNTRIES TO DECIDE BY THE END OF THE YEAR WHETHER TO LAUNCH ASTRONAUTS WITHOUT U.S. HELP.
 - 09/09 16:54 [FirstSquawk] RUSSIA’S BIGGEST BLACK SEA PORT OF NOVOROSSIYSK AND THE SURROUNDING AREAS WERE ATTACKED BY DRONES OVERNIGHT, DAMAGING INFRASTRUCTURE AND THREATENING TO FURTHER SQUEEZE COMMODITY FLOWS FROM THE REGION
 - 09/09 16:56 [FirstSquawk] BP NORTH SEA ASSETS SAID TO DRAW INTEREST FROM ADURA, NEO NEXT+
+- 09/09 17:03 [FirstSquawk] HSBC CUTS HERMES TARGET PRICE TO EUR 1650 FROM EUR 1870
+- 09/09 17:05 [FirstSquawk] PUMA: APPOINTS STEVE CECCHINI TO LEAD GLOBAL SPORTS MARKETING
+- 09/09 17:07 [FirstSquawk] LUFTHANSA GROUP AIRLINES WILL GRADUALLY RESUME FLIGHT CONNECTIONS TO DUBAI STARTING IN LATE OCTOBER 2026
+- 09/09 17:15 [FirstSquawk] INDITEX'S SALES INCREASED FASTER AT THE BEGINNING OF Q3, SHOWING THAT THE ZARA PARENT COMPANY IS STILL ATTRACTING CUSTOMERS DESPITE RISING LIVING EXPENSES AFFECTING SPENDING.
