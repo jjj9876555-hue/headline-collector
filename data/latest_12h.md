@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 09:49 JST／対象: 09/08 21:49 〜 09/09 09:49 JST（時刻はすべて日本時間）
+生成: 2026-09-09 10:01 JST／対象: 09/08 22:01 〜 09/09 10:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 22:06 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 231 | 09/08 21:54 | 09/09 09:45 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 204 | 09/08 22:00 | 09/09 08:50 | 37分（06:28→07:05） |
+| FirstSquawk | 233 | 09/08 22:02 | 09/09 10:00 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 203 | 09/08 22:01 | 09/09 10:00 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 434 行（統合前 445 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 435 行（統合前 446 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 21:54 [FirstSquawk] EUROPE SET TO BUY PATRIOTS FROM US TO SHIELD UKRAINE THIS WINTER – BBG
-- 09/08 21:59 [FirstSquawk] VERIZON, CORNING REACH PARTNERSHIP FOR FIBER: CNBC
-- 09/08 22:00 [financialjuice] Qualcomm reports a multi-generational product pact with Amazon. $QCOM $AMZN
-- 09/08 22:00 [financialjuice] Effective Fed funds rate 3.63% September 4rg vs 3.63% September 3rd.
 - 09/08 22:01 [financialjuice] ECB Settled €1,667.7 bln public-sector bond purchases.
 - 09/08 22:01 [financialjuice] ECB settled €216.7 bln corporate bond purchases.
 - 09/08 22:01 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
@@ -458,3 +454,8 @@
 - 09/09 09:39 [FirstSquawk] Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries - CNBC
 - 09/09 09:42 [FirstSquawk] Penicillin shortage continues in Japan amid high number of syphilis cases - KYODO
 - 09/09 09:45 [FirstSquawk] Maker of world's best sake this year hopes to spread Japanese culture - KYODO
+- 09/09 09:49 [FirstSquawk] Trump said the alcohol ban was in response to Canada's treatment of American alcohol - BusinessInsider
+- 09/09 09:52 [FirstSquawk] SK Hynix Stock Gains 3% in Trading
+- 09/09 09:59 [FirstSquawk] Heavy rain may continue through Thurs. on Pacific side of east, west Japan - KYODO
+- 09/09 10:00 [FirstSquawk] Taiwan Overnight Rate Opens Steady at 0.805%
+- 09/09 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs 0.805% previous session

@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 09:49 JST／対象: 09/09 03:49 〜 09/09 09:49 JST（時刻はすべて日本時間）
+生成: 2026-09-09 10:01 JST／対象: 09/09 04:01 〜 09/09 10:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/09 05:31 | 09/09 05:33 | 1分（05:31→05:33） |
-| FirstSquawk | 93 | 09/09 03:50 | 09/09 09:45 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 77 | 09/09 03:50 | 09/09 08:50 | 37分（06:28→07:05） |
+| FirstSquawk | 90 | 09/09 04:03 | 09/09 10:00 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 73 | 09/09 04:02 | 09/09 10:00 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 166 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 160 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 03:50 [financialjuice] ❗ Explosions heard on Iran's Kharg Island - Mehr
-- 09/09 03:50 [FirstSquawk] BRENT CRUDE FUTURES END AT $97.92/BBL, GAIN 92 CENTS, RISING 0.95%
-- 09/09 03:50 [financialjuice] ❗ Explosion sounds heard in Iran's Kharg Island, no official announcement yet - Iran's Mehr News Agency
-- 09/09 03:51 [financialjuice] Brent crude futures settle at $97.92/bbl, up 92 cents, 0.95%.
-- 09/09 03:52 [FirstSquawk] EXPLOSION SOUNDS REPORTED ON IRAN’S KHARG ISLAND; NO OFFICIAL CONFIRMATION YET: MEHR NEWS AGENCY
-- 09/09 03:53 [FirstSquawk] SPOT GOLD SLIDES NEARLY 1% TO $4,361.99/OZ
-- 09/09 03:55 [FirstSquawk] MULTIPLE EXPLOSIONS HEARD NEAR KHARG ISLAND ANCHORAGE, A KEY IRANIAN OIL EXPORT HUB; CAUSE, ORIGIN & ANY POTENTIAL DAMAGE REMAIN UNCONFIRMED. - MEHR NEWS AGENCY
-- 09/09 03:55 [financialjuice/FirstSquawk] Blasts heard near Iran's Southern Jask coast - FARS
-- 09/09 03:56 [FirstSquawk] S&P 500 SLIDES TO SESSION LOWS AS EXPLOSION REPORTS EMERGE FROM IRAN’S KHARG ISLAND; NASDAQ 100 EXTENDS LOSSES AMID ESCALATING MIDDLE EAST TENSIONS.
-- 09/09 04:00 [financialjuice] US CONSUMER CREDIT ACTUAL 18.062B (FORECAST 11.34B, PREVIOUS 14.17B) $MACRO
-- 09/09 04:00 [FirstSquawk] US CONSUMER CREDIT RISES TO $18.06B, WELL ABOVE $11.34B FORECAST AND $14.17B PREVIOUS READING.
 - 09/09 04:02 [financialjuice] Meta announces an AI assistant for personal tasks and organization, which will be released to US-based users on Tuesday. $META
 - 09/09 04:03 [FirstSquawk] TRUMP ADMINISTRATION CRITICIZES FORD’S TIES WITH CHINESE FIRMS, CITING “DEEP ALARM” OVER ITS RELIANCE ON BATTERY MAKER CATL. || USDOT SAYS FORD-GEELY JV IN SPAIN COULD GIVE CHINA A STRATEGIC FOOTHOLD IN WESTERN EUROPE.
 - 09/09 04:03 [financialjuice] Meta: Meta’s Muse agent to have free and paid versions. $META
@@ -190,3 +179,8 @@
 - 09/09 09:39 [FirstSquawk] Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries - CNBC
 - 09/09 09:42 [FirstSquawk] Penicillin shortage continues in Japan amid high number of syphilis cases - KYODO
 - 09/09 09:45 [FirstSquawk] Maker of world's best sake this year hopes to spread Japanese culture - KYODO
+- 09/09 09:49 [FirstSquawk] Trump said the alcohol ban was in response to Canada's treatment of American alcohol - BusinessInsider
+- 09/09 09:52 [FirstSquawk] SK Hynix Stock Gains 3% in Trading
+- 09/09 09:59 [FirstSquawk] Heavy rain may continue through Thurs. on Pacific side of east, west Japan - KYODO
+- 09/09 10:00 [FirstSquawk] Taiwan Overnight Rate Opens Steady at 0.805%
+- 09/09 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs 0.805% previous session

@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 09:49 JST／対象: 09/08 09:49 〜 09/09 09:49 JST（時刻はすべて日本時間）
+生成: 2026-09-09 10:01 JST／対象: 09/08 10:01 〜 09/09 10:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 435 | 09/08 09:52 | 09/09 09:45 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 325 | 09/08 09:51 | 09/09 08:50 | ⚠ 56分（15:45→16:42） |
+| FirstSquawk | 437 | 09/08 10:01 | 09/09 10:00 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 324 | 09/08 10:10 | 09/09 10:00 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 759 行（統合前 772 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 760 行（統合前 773 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 09:51 [financialjuice] Two residential buildings damaged in Ukraine's Kyiv in Russian air strike: city officials
-- 09/08 09:52 [FirstSquawk] Russian strike damages two residential buildings in Ukraine’s Kyiv, officials say
-- 09/08 09:58 [FirstSquawk] Euro holds gains above 1.1600 on ECB tightening prospects - fx
-- 09/08 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805%, unchanged from previous session
 - 09/08 10:01 [FirstSquawk] Taiwan overnight interbank rate holds at 0.805% at session open
 - 09/08 10:01 [FirstSquawk] 5-year Japanese government bond yield drops 2.0 bps to 2.230%
 - 09/08 10:02 [FirstSquawk] 30-year Japanese government bond yield drops 4.0 bps to 3.980%
@@ -783,3 +779,8 @@
 - 09/09 09:39 [FirstSquawk] Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries - CNBC
 - 09/09 09:42 [FirstSquawk] Penicillin shortage continues in Japan amid high number of syphilis cases - KYODO
 - 09/09 09:45 [FirstSquawk] Maker of world's best sake this year hopes to spread Japanese culture - KYODO
+- 09/09 09:49 [FirstSquawk] Trump said the alcohol ban was in response to Canada's treatment of American alcohol - BusinessInsider
+- 09/09 09:52 [FirstSquawk] SK Hynix Stock Gains 3% in Trading
+- 09/09 09:59 [FirstSquawk] Heavy rain may continue through Thurs. on Pacific side of east, west Japan - KYODO
+- 09/09 10:00 [FirstSquawk] Taiwan Overnight Rate Opens Steady at 0.805%
+- 09/09 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs 0.805% previous session
