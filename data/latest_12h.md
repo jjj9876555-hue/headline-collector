@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 06:17 JST／対象: 09/09 18:17 〜 09/10 06:17 JST（時刻はすべて日本時間）
+生成: 2026-09-10 06:32 JST／対象: 09/09 18:32 〜 09/10 06:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 09/09 18:32 | 09/10 06:15 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 163 | 09/09 18:20 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 147 | 09/09 18:21 | 09/10 06:17 | 35分（21:20→21:55） |
+| DeItaone | 53 | 09/09 18:47 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 161 | 09/09 18:34 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 150 | 09/09 19:03 | 09/10 06:30 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 353 行（統合前 364 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 354 行（統合前 365 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 18:20 [FirstSquawk] FRENCH PRIME MINISTER PLANS TO REDUCE ONE-OFF TAX ON LARGE COMPANIES IN UPCOMING BUDGET.
-- 09/09 18:21 [financialjuice] French PM Lecornu: We aim to lower one-off tax on big companies in budget.
-- 09/09 18:31 [FirstSquawk] CANADA'S LARGEST ICEBREAKER STARTS TO COME TOGETHER.
-- 09/09 18:32 [DeItaone] US HITS IRANIAN TANKERS AS OIL BREAKS $100 The US destroyed five more Iranian oil tankers overnight after Iran allegedly targeted an American warship. No US personnel were hurt. Iran reportedly retaliated against US warships and tankers and…
-- 09/09 18:32 [financialjuice] GERMAN 10 YR BUND BID-TO-COVER ACTUAL 1.5 (FORECAST -, PREVIOUS -) $MACRO
 - 09/09 18:34 [FirstSquawk] US AND EUROPE REQUEST IRAN TO ENGAGE IN UNCONDITIONAL TALKS.
 - 09/09 18:36 [FirstSquawk] BRITISH AIRWAYS: CANCELLED MORE THAN 190 FLIGHTS OF WEDNESDAY'S ORIGINAL PLANNED SCHEDULE
 - 09/09 18:47 [DeItaone] CHINA HITS BACK AT US OVER AI CLAIMS China rejected US claims that six Chinese AI companies systematically used American models to develop their technology. US agencies accused DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun and https://t.…
@@ -377,3 +372,9 @@
 - 09/10 06:16 [financialjuice] Significant extra measures needed to stabilize Colombia's debt: Fitch
 - 09/10 06:16 [financialjuice] Failure to implement consolidation steps with persistent high deficits and a steepening debt/GDP path could increase rating pressure: Fitch
 - 09/10 06:17 [financialjuice] Even if fiscal adjustment law achieves full 2.2% of GDP consolidation target, deficits likely to significantly surpass Fitch's previous forecasts: Fitch
+- 09/10 06:19 [financialjuice] Multiple blasts reported in Iran's Qeshm and Sirik: Iran's Fars
+- 09/10 06:20 [financialjuice] Hormozgan Province governorate: explosion sounds in Qeshm came from sea - Fars
+- 09/10 06:22 [DeItaone] MULTIPLE EXPLOSIONS HEARD IN IRAN'S QESHM AND SIRIK - IRAN'S FARS
+- 09/10 06:27 [financialjuice] Israeli military: sirens alert hostile aircraft infiltration in multiple northern Israel areas
+- 09/10 06:30 [financialjuice] Iranian state media: multiple locations in Sirik struck by projectiles
+- 09/10 06:30 [financialjuice] AI researcher Andrew Tulloch departing Meta - Semafor

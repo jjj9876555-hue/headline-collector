@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 06:17 JST／対象: 09/09 06:17 〜 09/10 06:17 JST（時刻はすべて日本時間）
+生成: 2026-09-10 06:32 JST／対象: 09/09 06:32 〜 09/10 06:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 09/09 16:31 | 09/10 06:15 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 350 | 09/09 06:23 | 09/10 05:28 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 221 | 09/09 06:18 | 09/10 06:17 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 344 | 09/09 06:39 | 09/10 05:28 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 220 | 09/09 07:05 | 09/10 06:30 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 612 行（統合前 628 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 607 行（統合前 622 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 06:18 [financialjuice] Colombia president De La Espriella: country requires US aid on radar, planes and other fronts to combat crime
-- 09/09 06:19 [financialjuice] Colombia president de la Espriella: willing to meet annual security goals in anti-drug partnership
-- 09/09 06:19 [financialjuice] Mark Stevens reports sale of 1.02 million Nvidia shares between Sept. 3 and Sept. 4, price range $227.25 to $234.04 per share
-- 09/09 06:20 [financialjuice] Colombia President de la Espriella: Will engage responsibly in regional stabilization efforts
-- 09/09 06:21 [financialjuice] Colombia president de la Espriella: will broaden cooperation with US on migration, border controls
-- 09/09 06:23 [FirstSquawk] EUROPEAN NATURAL GAS HITS A THREE-YEAR HIGH AS WINTER SUPPLY RISKS MOUNT, WITH DUTCH FRONT-MONTH FUTURES SURGING 4.7% TO €76.74/MWH.
-- 09/09 06:23 [FirstSquawk] LOW STORAGE, HORMUZ SHIPPING RISKS AND REDUCED PIPELINE FLOWS FROM ALGERIA AND NORWAY ARE TIGHTENING EUROPE’S WINTER OUTLOOK, RAISING FURTHER POWER-PRICE AND INFLATION RISKS.
-- 09/09 06:25 [FirstSquawk] US COMMERCE SECRETARY LUTNICK TO TRAVEL TO MEXICO FOR TRADE TALKS, WITH AUTO AND METAL TARIFFS EXPECTED TO BE KEY ISSUES. - POLITICO
-- 09/09 06:28 [FirstSquawk/financialjuice] U.S. SUPREME COURT REJECTS MISSOURI EFFORT TO USE GOP-DRAWN CONGRESSIONAL MAP IN NOVEMBER MIDTERMS
-- 09/09 06:31 [FirstSquawk] BESSENT SAYS HE HAS “GOOD INSIGHT” INTO BOJ AND JAPANESE POLICYMAKERS’ NEXT MOVES, INCLUDING ON POTENTIAL YEN INTERVENTION.
-- 09/09 06:31 [FirstSquawk] BESSENT SAYS THE US CAN USE ITS BALANCE SHEET AS A FOREIGN-POLICY TOOL AND CLAIMS HE NOW HAS “ASYMMETRIC INFO,” SIGNALING A MORE ACTIVE US ROLE IN CURRENCY POLICY.
 - 09/09 06:39 [FirstSquawk] US CDC REPORTS 19,595 LAB-CONFIRMED US-ACQUIRED CYCLOSPORIASIS CASES SINCE MAY 1, WITH 1,043 RELATED HOSPITALIZATIONS THROUGH SEPT. 8. THE OUTBREAK HAS RESULTED IN A SIGNIFICANT NUMBER OF HOSPITALIZATIONS, PROMPTING CONTINUED PUBLIC-HEALTH …
 - 09/09 06:40 [FirstSquawk] GLOBALFOUNDRIES CEO SAYS DATA-CENTER DEMAND IS A “VERY STRONG DRIVER” FOR GROWTH AS AI WORKLOADS BECOME INCREASINGLY DATA-INTENSIVE. CEO SAYS OPTICAL CONNECTIVITY IS NOW A “WHEN, NOT IF” TRANSITION AND GLOBALFOUNDRIES COULD 10X SILICON-PHOT…
 - 09/09 07:05 [financialjuice] US Secretary of State Rubio: Trump wants to reach tariff deal with Colombia
@@ -636,3 +625,9 @@
 - 09/10 06:16 [financialjuice] Significant extra measures needed to stabilize Colombia's debt: Fitch
 - 09/10 06:16 [financialjuice] Failure to implement consolidation steps with persistent high deficits and a steepening debt/GDP path could increase rating pressure: Fitch
 - 09/10 06:17 [financialjuice] Even if fiscal adjustment law achieves full 2.2% of GDP consolidation target, deficits likely to significantly surpass Fitch's previous forecasts: Fitch
+- 09/10 06:19 [financialjuice] Multiple blasts reported in Iran's Qeshm and Sirik: Iran's Fars
+- 09/10 06:20 [financialjuice] Hormozgan Province governorate: explosion sounds in Qeshm came from sea - Fars
+- 09/10 06:22 [DeItaone] MULTIPLE EXPLOSIONS HEARD IN IRAN'S QESHM AND SIRIK - IRAN'S FARS
+- 09/10 06:27 [financialjuice] Israeli military: sirens alert hostile aircraft infiltration in multiple northern Israel areas
+- 09/10 06:30 [financialjuice] Iranian state media: multiple locations in Sirik struck by projectiles
+- 09/10 06:30 [financialjuice] AI researcher Andrew Tulloch departing Meta - Semafor
