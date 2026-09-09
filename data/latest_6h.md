@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 07:16 JST／対象: 09/10 01:16 〜 09/10 07:16 JST（時刻はすべて日本時間）
+生成: 2026-09-10 07:32 JST／対象: 09/10 01:32 〜 09/10 07:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/10 01:22 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 53 | 09/10 01:28 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 77 | 09/10 01:20 | 09/10 07:00 | 28分（04:22→04:50） |
+| DeItaone | 27 | 09/10 01:38 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
+| FirstSquawk | 52 | 09/10 01:39 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 73 | 09/10 01:32 | 09/10 07:00 | 28分（04:22→04:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 154 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 147 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 01:20 [financialjuice] EIA: Middle East crude oil output shut-ins rose in August to 6.7 mln bpd, from 5 mln bpd in July.
-- 09/10 01:22 [DeItaone] IRAN WARNS OF ESCALATION AS U.S. CONFLICT INTENSIFIES An Iranian official says Tehran is prepared for a more intense war with the U.S. if necessary, according to Bloomberg headlines shown in the report. The official said Iran would escalate…
-- 09/10 01:25 [financialjuice] China and Russia vote against effort to pressure Iran at IAEA.
-- 09/10 01:26 [financialjuice] Explosion heard from the sea near southern Jask - Fars News
-- 09/10 01:27 [financialjuice] No details are available regarding the source, exact location, or cause of the explosion - Fars News on explosion heard in Jask.
-- 09/10 01:28 [FirstSquawk] EXPLOSION REPORTED OFF JASK COAST IN SOUTHERN IRAN - FARS
-- 09/10 01:31 [DeItaone] U.S. CORE CPI SEEN COOLING TO 2.4% Analyst estimates ahead of Friday’s CPI report point to core inflation rising 0.22% month-over-month in August, matching July’s pace. Core CPI is expected to ease to 2.4% year-over-year, potentially the lo…
 - 09/10 01:32 [financialjuice] Iranian media: Reports of an oil tanker being targeted in the Strait of Hormuz - Al-Hadath
 - 09/10 01:38 [DeItaone] $AAPL - APPLE SLIPS AHEAD OF EXPECTED FOLDABLE IPHONE LAUNCH Apple shares fell 1.1% to $312.65 ahead of its first launch event under CEO John Ternus. Markets expect Apple to unveil its first foldable iPhone, potentially its biggest design o…
 - 09/10 01:39 [FirstSquawk] RUSSIA CLAIMS IT ATTACKED FACILITIES IN UKRAINE'S NIKOLAEV PORT, TARGETING LOGISTICS CENTERS, MILITARY, AND INDUSTRIAL SITES.

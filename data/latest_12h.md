@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 07:16 JST／対象: 09/09 19:16 〜 09/10 07:16 JST（時刻はすべて日本時間）
+生成: 2026-09-10 07:32 JST／対象: 09/09 19:32 〜 09/10 07:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 49 | 09/09 19:30 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 154 | 09/09 19:19 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 153 | 09/09 19:23 | 09/10 07:00 | 35分（21:20→21:55） |
+| DeItaone | 47 | 09/09 19:33 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 144 | 09/09 19:37 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 151 | 09/09 19:47 | 09/10 07:00 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 347 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 334 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 19:19 [FirstSquawk] BARCLAYS DOWNGRADES US UTILITIES SECTOR TO NEUTRAL FROM POSITIVE
-- 09/09 19:22 [FirstSquawk] IRAN SAYS US VESSELS, BASES WERE HIT IN DEFENSIVE STRIKE
-- 09/09 19:22 [FirstSquawk] IRAN SAYS US ATTACKS ON ITS VESSELS THREATEN REGIONAL SECURITY
-- 09/09 19:23 [financialjuice] Iran: US attacks on its vessels threaten regional security.
-- 09/09 19:23 [financialjuice] Iran's Foreign Ministry: Armed forces retaliated in self-defence against ‘American tankers' and US bases in Jordan - Statement.
-- 09/09 19:24 [FirstSquawk] IRAN VOWS DECISIVE RESPONSE TO ANY US MILITARY ATTACK
-- 09/09 19:25 [FirstSquawk] KREMLIN SAYS IT WON'T PUBLICLY DISCUSS POTENTIAL ELEMENTS OF A PEACE SETTLEMENT || SAYS IT HOPES U.S.-MEDIATED TALKS WITH UKRAINE WILL RESUME SOON || ISSUE OF EXCHANGING PRISONERS BETWEEN RUSSIA AND U.S. IS CONSTANTLY ON THE AGENDA
-- 09/09 19:26 [FirstSquawk] KREMLIN: EUROPE COULD GET CHEAPER GAS IF IT BOUGHT FROM RUSSIA
-- 09/09 19:26 [FirstSquawk] KREMLIN: EUROPEANS ARE INFLICTING DAMAGE ON THEMSELVES BY BUYING GAS ON SPOT MARKET FOR A PRICE WHICH IS HIGHER THAN FOR RUSSIAN GAS
-- 09/09 19:26 [FirstSquawk] KREMLIN SAYS EUROPE IS IN DIFFICULT SITUATION, THEY WILL NOT BE ABLE TO REPLENISH THEIR GAS STORAGE BY WINTER
-- 09/09 19:26 [FirstSquawk/DeItaone] KREMLIN: NORD STREAM PIPELINE COULD BE BROUGHT BACK ONLINE INSTANTLY
-- 09/09 19:30 [FirstSquawk] RYANAIR CEO O’LEARY TO REUTERS: ON TUESDAY WE CANCELLED 260 FLIGHTS, AFFECTING ABOUT 48,000 PASSENGERS
-- 09/09 19:30 [DeItaone] KREMLIN HOPES US-BROKERED UKRAINE TALKS RESUME SOON The Kremlin says it hopes US-mediated peace talks between Russia and Ukraine will restart soon, after negotiations stalled in February. Spokesman Dmitry Peskov declined to discuss possible…
 - 09/09 19:33 [DeItaone] KREMLIN: EUROPE FEELING PAIN OF HIGHER GAS PRICES The Kremlin says Europe is suffering from soaring natural gas prices amid the Iran war and could cut costs by buying Russian gas. European gas prices recently reached their highest level sin…
 - 09/09 19:37 [FirstSquawk] AIRBNB SET TO FACE MORE RESTRICTIONS AS EUROPEAN COMMISSION PROPOSES NEW RULES TO TACKLE HOUSING CRUNCH
 - 09/09 19:37 [FirstSquawk] ANGOLA’S OIL AND GAS AGENCY ANPG, EXXONMOBIL AND BLOCK 15 PARTNERS ANNOUNCE NEW DISCOVERY IN OFFSHORE BLOCK 15- STATEMENT
