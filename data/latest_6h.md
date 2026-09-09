@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 23:35 JST／対象: 09/09 17:35 〜 09/09 23:35 JST（時刻はすべて日本時間）
+生成: 2026-09-09 23:53 JST／対象: 09/09 17:53 〜 09/09 23:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/09 18:32 | 09/09 23:16 | ⚠ 56分（22:19→23:16） |
-| FirstSquawk | 85 | 09/09 17:48 | 09/09 23:27 | 18分（23:04→23:23） |
-| financialjuice | 60 | 09/09 17:45 | 09/09 23:35 | 35分（21:20→21:55） |
+| FirstSquawk | 93 | 09/09 17:53 | 09/09 23:52 | 18分（23:04→23:23） |
+| financialjuice | 58 | 09/09 17:59 | 09/09 23:35 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 163 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 169 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 17:45 [financialjuice] UKMTO gets September 8 report on vessels in Arabian Gulf, Oman Gulf.
-- 09/09 17:46 [financialjuice] UKMTO says several vessels were subject to disabling fire.
-- 09/09 17:48 [FirstSquawk] JAY Y. LEE OF SAMSUNG WILL PURCHASE SHARES WORTH 1.9 TRILLION WON (USD 1.422 BILLION) FROM HIS MOTHER, ACCORDING TO A FILING.
 - 09/09 17:53 [FirstSquawk] HSBC PREDICTS A CHALLENGING SECOND HALF FOR EUROPEAN LUXURY GOODS STOCKS.
 - 09/09 17:58 [FirstSquawk] UBER WANTS TO RAISE APPROXIMATELY €4 BILLION THROUGH ITS FIRST EUROPEAN BOND SALE.
 - 09/09 17:59 [financialjuice] Japan may convene extraordinary diet session on October 5 - Kyodo.
@@ -187,3 +184,12 @@
 - 09/09 23:32 [financialjuice] Pakistan considers hitting Yemen's Houthis under Mecca pact upon Saudi request - Turkiye Today
 - 09/09 23:35 [financialjuice] Saudi Civil Defence: Danger has passed in Abha - Post on X.
 - 09/09 23:35 [financialjuice] Saudis say danger passes in Khamis Mushait after alert.
+- 09/09 23:36 [FirstSquawk] SAUDI CIVIL DEFENCE ANNOUNCES THAT THE DANGER IN ABHA HAS ENDED.
+- 09/09 23:36 [FirstSquawk] SAUDI CIVIL DEFENSE ANNOUNCES THAT THE DANGER HAS PASSED IN KHAMIS MUSHAIT.
+- 09/09 23:38 [FirstSquawk] AFT, UFT, AND MICROSOFT UNVEIL A NEW NATIONAL AI SAFETY AND PRIVACY STANDARD FOR SCHOOLS TO ENSURE THE PROTECTION OF STUDENTS, FAMILIES, AND TEACHERS.
+- 09/09 23:38 [FirstSquawk] MICROSOFT'S NEW DEAL PROTECTS STUDENT DATA FROM AI USAGE, ENSURING STUDENTS REMAIN UNTRACKED AND AI REQUIRES HUMAN OVERSIGHT FOR DECISIONS.
+- 09/09 23:38 [FirstSquawk] MICROSOFT REQUIRES TECH FIRMS TO PROVIDE CLEAR AND SIMPLE EXPLANATIONS TO EDUCATORS AND PARENTS ABOUT THEIR PRODUCTS.
+- 09/09 23:38 [FirstSquawk] US SCHOOL DISTRICTS CAN NOW ADD SPECIFIC PROTECTIONS DIRECTLY INTO THEIR MICROSOFT CUSTOMER AGREEMENTS, ALLOWING THEM TO BE CONTRACTUALLY ENFORCED.
+- 09/09 23:45 [FirstSquawk] VALE CFO ANNOUNCES PLANS TO ENTER CHINESE BOND MARKET, BUT STATING BASE METALS IPO IS NOT A PRIORITY FOR THE NEXT 1-2 YEARS.
+- 09/09 23:52 [FirstSquawk] US SPY CHIEF JOHN RATCLIFFE GETS READY FOR A BIGGER ROLE IN RUSSIA-UKRAINE DISCUSSIONS.
+- 09/09 23:52 [FirstSquawk] UK 2-YEAR GILT YIELD INCREASES TO 4.698%, HIGHEST LEVEL SINCE MARCH 23, UP 10 BASIS POINTS TODAY.

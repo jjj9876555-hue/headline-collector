@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 23:35 JST／対象: 09/09 11:35 〜 09/09 23:35 JST（時刻はすべて日本時間）
+生成: 2026-09-09 23:53 JST／対象: 09/09 11:53 〜 09/09 23:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/09 16:31 | 09/09 23:16 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 175 | 09/09 11:36 | 09/09 23:27 | 19分（16:10→16:29） |
+| FirstSquawk | 180 | 09/09 11:55 | 09/09 23:52 | 19分（16:10→16:29） |
 | financialjuice | 69 | 09/09 12:39 | 09/09 23:35 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 262 行（統合前 270 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 267 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 11:36 [FirstSquawk] South Korean Stocks Advance 2% as KOSPI Climbs
-- 09/09 11:37 [FirstSquawk] Gemini Digital Payments Singapore Receives Major Payment Institution License From MAS
-- 09/09 11:40 [FirstSquawk] Oil heads for $100, Asia stocks subdued as Middle East tensions escalate - RTRS
-- 09/09 11:47 [FirstSquawk] Singapore Dollar Consolidates Ahead of U.S. PPI, CPI Data - WSJ
 - 09/09 11:55 [FirstSquawk] Hyundai Motor, AfDB agree to cooperate on Africa's energy transition, sustainable development - YONHAP
 - 09/09 12:00 [FirstSquawk] American Official Says U.S. Forces in Jordan Operating at Full Capacity, Al Arabiya English Reports
 - 09/09 12:04 [FirstSquawk] Skoda Auto Volkswagen- JSW Group Deal Structured as Two-Party Partnership With Joint Control and Defined Roles
@@ -286,3 +282,12 @@
 - 09/09 23:32 [financialjuice] Pakistan considers hitting Yemen's Houthis under Mecca pact upon Saudi request - Turkiye Today
 - 09/09 23:35 [financialjuice] Saudi Civil Defence: Danger has passed in Abha - Post on X.
 - 09/09 23:35 [financialjuice] Saudis say danger passes in Khamis Mushait after alert.
+- 09/09 23:36 [FirstSquawk] SAUDI CIVIL DEFENCE ANNOUNCES THAT THE DANGER IN ABHA HAS ENDED.
+- 09/09 23:36 [FirstSquawk] SAUDI CIVIL DEFENSE ANNOUNCES THAT THE DANGER HAS PASSED IN KHAMIS MUSHAIT.
+- 09/09 23:38 [FirstSquawk] AFT, UFT, AND MICROSOFT UNVEIL A NEW NATIONAL AI SAFETY AND PRIVACY STANDARD FOR SCHOOLS TO ENSURE THE PROTECTION OF STUDENTS, FAMILIES, AND TEACHERS.
+- 09/09 23:38 [FirstSquawk] MICROSOFT'S NEW DEAL PROTECTS STUDENT DATA FROM AI USAGE, ENSURING STUDENTS REMAIN UNTRACKED AND AI REQUIRES HUMAN OVERSIGHT FOR DECISIONS.
+- 09/09 23:38 [FirstSquawk] MICROSOFT REQUIRES TECH FIRMS TO PROVIDE CLEAR AND SIMPLE EXPLANATIONS TO EDUCATORS AND PARENTS ABOUT THEIR PRODUCTS.
+- 09/09 23:38 [FirstSquawk] US SCHOOL DISTRICTS CAN NOW ADD SPECIFIC PROTECTIONS DIRECTLY INTO THEIR MICROSOFT CUSTOMER AGREEMENTS, ALLOWING THEM TO BE CONTRACTUALLY ENFORCED.
+- 09/09 23:45 [FirstSquawk] VALE CFO ANNOUNCES PLANS TO ENTER CHINESE BOND MARKET, BUT STATING BASE METALS IPO IS NOT A PRIORITY FOR THE NEXT 1-2 YEARS.
+- 09/09 23:52 [FirstSquawk] US SPY CHIEF JOHN RATCLIFFE GETS READY FOR A BIGGER ROLE IN RUSSIA-UKRAINE DISCUSSIONS.
+- 09/09 23:52 [FirstSquawk] UK 2-YEAR GILT YIELD INCREASES TO 4.698%, HIGHEST LEVEL SINCE MARCH 23, UP 10 BASIS POINTS TODAY.

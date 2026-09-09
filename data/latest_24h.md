@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 23:35 JST／対象: 09/08 23:35 〜 09/09 23:35 JST（時刻はすべて日本時間）
+生成: 2026-09-09 23:53 JST／対象: 09/08 23:53 〜 09/09 23:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/08 23:50 | 09/09 23:16 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 409 | 09/08 23:43 | 09/09 23:27 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 253 | 09/08 23:38 | 09/09 23:35 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 29 | 09/09 00:42 | 09/09 23:16 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 412 | 09/08 23:55 | 09/09 23:52 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 247 | 09/08 23:53 | 09/09 23:35 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 678 行（統合前 694 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 674 行（統合前 690 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 23:38 [financialjuice] Canada extends it's federal fuel excise tax relief on gasoline.
-- 09/08 23:43 [financialjuice] BoE Gov. Bailey: We want to achieve a better quality debate on global imbalances when the UK hosts the G20 next year.
-- 09/08 23:43 [FirstSquawk] CANADA'S TRADE MINISTER SIDHU ANNOUNCED TALKS TO SELL NUCLEAR-POWER TECHNOLOGY AND LIQUEFIED NATURAL GAS (LNG) TO POLAND.
-- 09/08 23:43 [FirstSquawk] CANADA CONTINUES FEDERAL TAX RELIEF ON GASOLINE FUEL EXCISE.
-- 09/08 23:43 [FirstSquawk] BAILEY SAYS UK AIMS FOR A HIGHER-QUALITY DISCUSSION ON GLOBAL IMBALANCES DURING G20 HOSTING NEXT YEAR.
-- 09/08 23:48 [financialjuice] Kyiv’s allies see the war going into 2027 after Putin met with the US envoys.
-- 09/08 23:49 [FirstSquawk] KYIV'S SUPPORTERS PREDICT WAR COULD LAST UNTIL 2027 FOLLOWING PUTIN'S MEETING WITH U.S. OFFICIALS.
-- 09/08 23:50 [DeItaone] IRGC CLAIMS CAPTURE OF U.S. UNMANNED SUBMARINE Iran’s Islamic Revolutionary Guard Corps (IRGC) Navy claims it captured a U.S. unmanned submarine near the entrance to the Strait of Hormuz. The IRGC said the operation relied on intelligence a…
-- 09/08 23:51 [financialjuice] US Treasury Secretary Bessent on Canada moves: Canada's PM Carney needs to stop campaigning.
-- 09/08 23:51 [financialjuice] Iran's IRGC Navy: We have captured an unmanned US submersible at entrance of the Strait of Hormuz - State Media.
-- 09/08 23:52 [FirstSquawk] BESSENT SAYS CARNEY SHOULD 'STOP CAMPAIGNING' REGARDING CANADIAN ACTIONS.
-- 09/08 23:52 [FirstSquawk] BESSENT BELIEVES THEY WILL OVERCOME THE TRADE DISPUTE WITH CANADA.
-- 09/08 23:52 [financialjuice] US Treasury Secretary Bessent: I think we will get through the Canada trade spat.
 - 09/08 23:53 [financialjuice] US Treasury Secretary Bessent: A Canada trade war would add 0.02% to US inflation.
 - 09/08 23:55 [FirstSquawk] TRUMP REPEATS THAT IRAN WILL NEVER OBTAIN A NUCLEAR WEAPON.
 - 09/08 23:55 [FirstSquawk] TRUMP SAYS THE BLOCKADE ON IRAN HAS BEEN 'HIGHLY EFFECTIVE.'
@@ -702,3 +689,12 @@
 - 09/09 23:32 [financialjuice] Pakistan considers hitting Yemen's Houthis under Mecca pact upon Saudi request - Turkiye Today
 - 09/09 23:35 [financialjuice] Saudi Civil Defence: Danger has passed in Abha - Post on X.
 - 09/09 23:35 [financialjuice] Saudis say danger passes in Khamis Mushait after alert.
+- 09/09 23:36 [FirstSquawk] SAUDI CIVIL DEFENCE ANNOUNCES THAT THE DANGER IN ABHA HAS ENDED.
+- 09/09 23:36 [FirstSquawk] SAUDI CIVIL DEFENSE ANNOUNCES THAT THE DANGER HAS PASSED IN KHAMIS MUSHAIT.
+- 09/09 23:38 [FirstSquawk] AFT, UFT, AND MICROSOFT UNVEIL A NEW NATIONAL AI SAFETY AND PRIVACY STANDARD FOR SCHOOLS TO ENSURE THE PROTECTION OF STUDENTS, FAMILIES, AND TEACHERS.
+- 09/09 23:38 [FirstSquawk] MICROSOFT'S NEW DEAL PROTECTS STUDENT DATA FROM AI USAGE, ENSURING STUDENTS REMAIN UNTRACKED AND AI REQUIRES HUMAN OVERSIGHT FOR DECISIONS.
+- 09/09 23:38 [FirstSquawk] MICROSOFT REQUIRES TECH FIRMS TO PROVIDE CLEAR AND SIMPLE EXPLANATIONS TO EDUCATORS AND PARENTS ABOUT THEIR PRODUCTS.
+- 09/09 23:38 [FirstSquawk] US SCHOOL DISTRICTS CAN NOW ADD SPECIFIC PROTECTIONS DIRECTLY INTO THEIR MICROSOFT CUSTOMER AGREEMENTS, ALLOWING THEM TO BE CONTRACTUALLY ENFORCED.
+- 09/09 23:45 [FirstSquawk] VALE CFO ANNOUNCES PLANS TO ENTER CHINESE BOND MARKET, BUT STATING BASE METALS IPO IS NOT A PRIORITY FOR THE NEXT 1-2 YEARS.
+- 09/09 23:52 [FirstSquawk] US SPY CHIEF JOHN RATCLIFFE GETS READY FOR A BIGGER ROLE IN RUSSIA-UKRAINE DISCUSSIONS.
+- 09/09 23:52 [FirstSquawk] UK 2-YEAR GILT YIELD INCREASES TO 4.698%, HIGHEST LEVEL SINCE MARCH 23, UP 10 BASIS POINTS TODAY.
