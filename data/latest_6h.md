@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 02:50 JST／対象: 09/09 20:50 〜 09/10 02:50 JST（時刻はすべて日本時間）
+生成: 2026-09-10 03:01 JST／対象: 09/09 21:01 〜 09/10 03:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/09 21:27 | 09/10 02:30 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 71 | 09/09 20:51 | 09/10 02:50 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 88 | 09/09 21:00 | 09/10 02:37 | 35分（21:20→21:55） |
+| DeItaone | 21 | 09/09 21:27 | 09/10 03:00 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 74 | 09/09 21:02 | 09/10 03:00 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 89 | 09/09 21:02 | 09/10 02:55 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 177 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 182 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 20:51 [FirstSquawk] COMPANIES ARE INCREASING BOND MARKET BORROWING, RAISING OVER $70 BILLION ON TUESDAY, THE BUSIEST SESSION SINCE JUNE.
-- 09/09 21:00 [financialjuice] Secured overnight financing rate: 3.64% on September 8th vs 3.65% on September 4th
 - 09/09 21:02 [FirstSquawk] IRAQ CONFIRMS TANKER CARRIED FUEL OIL AND REPORTS NO LEAKS.
 - 09/09 21:02 [financialjuice] Iraq: Panama-flagged tanker hit in its waters. The tanker was carrying fuel oil; no leaks.
 - 09/09 21:04 [financialjuice] Morning Juice - US Session Prep (9th September)
@@ -201,3 +199,10 @@
 - 09/10 02:47 [FirstSquawk] APPLE SAYS THE A20 CHIP WILL HAVE TWO NEURAL ENGINES WITH 32 CORES TOTAL TO INCREASE ON-DEVICE AI PERFORMANCE, AND ANNOUNCED AN APPLE REFERENCE IMAGE STANDARD TO PROVE THE AUTHENTICITY OF PHOTOS AT THE TIME OF CAPTURE, WHICH WILL NOT BE AVA…
 - 09/10 02:47 [FirstSquawk] APPLE ALSO ANNOUNCED THE APPLE WATCH SERIES 12 AND APPLE WATCH ULTRA 4, ALONGSIDE THE AIRPODS 5 WITH A BASE MODEL STARTING AT $129.
 - 09/10 02:50 [FirstSquawk] APPLE EVENT HIGHLIGHTS • APPLE UNVEILS IPHONE 18 PRO AND IPHONE 18 PRO MAX. • IPHONE 18 PRO STARTS AT $1,199. • IPHONE 18 PRO MAX STARTS AT $1,299. • A20 PRO CHIP BUILT ON 2NM TECHNOLOGY. • A20 PRO FEATURES 7 GPU CORES. • A20 CHIP INCLUDES …
+- 09/10 02:54 [FirstSquawk] BOMBARDIER RECREATIONAL PRODUCTS TO CEASE SHIPPING CANADA-MADE 3-WHEEL VEHICLES TO US, SEES LIMITED IMPACT OF US MEASURES IN FISCAL 2027
+- 09/10 02:54 [financialjuice] Apple announces foldable iPhone $AAPL
+- 09/10 02:55 [financialjuice/FirstSquawk] Russia's Lukoil starts oil output at the Komandirshorskoye field.
+- 09/10 02:55 [FirstSquawk] APPLE HAS ANNOUNCED A FOLDABLE IPHONE, SAYING THE FOLDABLE DESIGN WILL HAVE TWO CAMERAS - EVENT
+- 09/10 03:00 [FirstSquawk] APPLE SAYS THE IPHONE DUO OPENS TO A 7.6-INCH SUPER RETINA XDR DISPLAY THAT IS 50% LARGER THAN THE IPHONE 18 PRO MAX - EVENT
+- 09/10 03:00 [DeItaone] APPLE INC.: SAYS IPHONE DUO WHEN OPEN IS THINNEST IPHONE EVER- EVENT
+- 09/10 03:00 [DeItaone] APPLE: IPHONE DUO OPENS TO A 7.6-INCH SUPER RETINA XDR DISPLAY THAT IS 50% LARGER THAN IPHONE 18 PRO MAX - EVENT
