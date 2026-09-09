@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 19:19 JST／対象: 09/09 13:19 〜 09/09 19:19 JST（時刻はすべて日本時間）
+生成: 2026-09-09 19:35 JST／対象: 09/09 13:35 〜 09/09 19:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/09 16:31 | 09/09 19:02 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 79 | 09/09 13:30 | 09/09 19:11 | 19分（16:10→16:29） |
-| financialjuice | 14 | 09/09 13:30 | 09/09 19:14 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 9 | 09/09 16:31 | 09/09 19:33 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 86 | 09/09 13:36 | 09/09 19:30 | 19分（16:10→16:29） |
+| financialjuice | 14 | 09/09 13:55 | 09/09 19:23 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 98 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 107 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 13:30 [FirstSquawk] IRAN TURNS TO CRYPTO TO GET AROUND SANCTIONS – FT
-- 09/09 13:30 [FirstSquawk] MCLAREN TO CREATE 1,000 UK JOBS IN PRODUCT OVERHAUL – FT
-- 09/09 13:30 [FirstSquawk] ANTHROPIC WITHHELD LATEST AI MODEL FROM UK TESTING AGENCY - FT
-- 09/09 13:30 [financialjuice] DUTCH CONSUMER SPENDING ACTUAL 1.2% (FORECAST -, PREVIOUS 1.7%) $MACRO
-- 09/09 13:30 [financialjuice] Dutch July consumer spending rises 1.2% y/y after 1.7% gain in June: CBS
 - 09/09 13:36 [FirstSquawk] Qatar Says Civil Defence Has Controlled Fire on Vessel at Al Wakra Port; No Injuries Reported
 - 09/09 13:40 [FirstSquawk] AI borrowing boom shakes up Swiss credit market - FT
 - 09/09 13:44 [FirstSquawk] EU resists Mario Draghi’s competitiveness cures - FT
@@ -122,3 +117,17 @@
 - 09/09 19:05 [FirstSquawk] SILVER LAKE WILL COMBINE CEGID AND SILAE TO FORM A GROUP VALUED AT OVER €10 BILLION, ACCORDING TO THE FINANCIAL TIMES.
 - 09/09 19:11 [FirstSquawk] NASDAQ 100 FUTURES EXTEND LOSSES TO 0.5%
 - 09/09 19:14 [financialjuice] Panama-flagged tanker carrying 2 mln barrels of Iraqi fuel oil was struck by drone in Iraqi territorial waters - Two Port Officials.
+- 09/09 19:19 [FirstSquawk] BARCLAYS DOWNGRADES US UTILITIES SECTOR TO NEUTRAL FROM POSITIVE
+- 09/09 19:22 [FirstSquawk] IRAN SAYS US VESSELS, BASES WERE HIT IN DEFENSIVE STRIKE
+- 09/09 19:22 [FirstSquawk] IRAN SAYS US ATTACKS ON ITS VESSELS THREATEN REGIONAL SECURITY
+- 09/09 19:23 [financialjuice] Iran: US attacks on its vessels threaten regional security.
+- 09/09 19:23 [financialjuice] Iran's Foreign Ministry: Armed forces retaliated in self-defence against ‘American tankers' and US bases in Jordan - Statement.
+- 09/09 19:24 [FirstSquawk] IRAN VOWS DECISIVE RESPONSE TO ANY US MILITARY ATTACK
+- 09/09 19:25 [FirstSquawk] KREMLIN SAYS IT WON'T PUBLICLY DISCUSS POTENTIAL ELEMENTS OF A PEACE SETTLEMENT || SAYS IT HOPES U.S.-MEDIATED TALKS WITH UKRAINE WILL RESUME SOON || ISSUE OF EXCHANGING PRISONERS BETWEEN RUSSIA AND U.S. IS CONSTANTLY ON THE AGENDA
+- 09/09 19:26 [FirstSquawk] KREMLIN: EUROPE COULD GET CHEAPER GAS IF IT BOUGHT FROM RUSSIA
+- 09/09 19:26 [FirstSquawk] KREMLIN: EUROPEANS ARE INFLICTING DAMAGE ON THEMSELVES BY BUYING GAS ON SPOT MARKET FOR A PRICE WHICH IS HIGHER THAN FOR RUSSIAN GAS
+- 09/09 19:26 [FirstSquawk] KREMLIN SAYS EUROPE IS IN DIFFICULT SITUATION, THEY WILL NOT BE ABLE TO REPLENISH THEIR GAS STORAGE BY WINTER
+- 09/09 19:26 [FirstSquawk/DeItaone] KREMLIN: NORD STREAM PIPELINE COULD BE BROUGHT BACK ONLINE INSTANTLY
+- 09/09 19:30 [FirstSquawk] RYANAIR CEO O’LEARY TO REUTERS: ON TUESDAY WE CANCELLED 260 FLIGHTS, AFFECTING ABOUT 48,000 PASSENGERS
+- 09/09 19:30 [DeItaone] KREMLIN HOPES US-BROKERED UKRAINE TALKS RESUME SOON The Kremlin says it hopes US-mediated peace talks between Russia and Ukraine will restart soon, after negotiations stalled in February. Spokesman Dmitry Peskov declined to discuss possible…
+- 09/09 19:33 [DeItaone] KREMLIN: EUROPE FEELING PAIN OF HIGHER GAS PRICES The Kremlin says Europe is suffering from soaring natural gas prices amid the Iran war and could cut costs by buying Russian gas. European gas prices recently reached their highest level sin…

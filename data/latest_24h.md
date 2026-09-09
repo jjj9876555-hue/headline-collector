@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 19:19 JST／対象: 09/08 19:19 〜 09/09 19:19 JST（時刻はすべて日本時間）
+生成: 2026-09-09 19:35 JST／対象: 09/08 19:35 〜 09/09 19:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 09/08 22:06 | 09/09 19:02 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 405 | 09/08 19:27 | 09/09 19:11 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 260 | 09/08 19:20 | 09/09 19:14 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 19 | 09/08 22:06 | 09/09 19:33 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 412 | 09/08 19:37 | 09/09 19:30 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 259 | 09/08 19:45 | 09/09 19:23 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 667 行（統合前 684 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 675 行（統合前 693 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 19:20 [financialjuice] ❗ Qatar is working with its regional partners and China to resume talks between US and Iran - Foreign Ministry.
-- 09/08 19:23 [financialjuice] UK Government: To lay legislation which will tackle Iranian nuclear activity and other hostile Iranian activity.
-- 09/08 19:23 [financialjuice] UK Government: The legislation will further expand our powers to sanction ships.
-- 09/08 19:27 [FirstSquawk] BOSTON SCIENTIFIC UNLIKELY TO MEET FORECASTS AFTER CYBER ATTACK
-- 09/08 19:27 [FirstSquawk] UK GOVERNMENT: GENERAL LICENCE WILL ENABLE CONTINUED OPERATION OF THE SHAH DENIZ GAS FIELD IN AZERBAIJAN
-- 09/08 19:27 [FirstSquawk] BOSTON SCIENTIFIC SEES MATERIAL IMPACT ON Q3, FULL YEAR || SEES RECOVERING SOME PORTION OF IMPACTED REV.
 - 09/08 19:37 [FirstSquawk] BOTH DEMOCRATS AND REPUBLICANS ARE TARGETING THE SENATE SEAT THAT WILL BE VACATED BY DEMOCRATIC SEN. JEANNE SHAHEEN, WHO IS NOT RUNNING FOR REELECTION.
 - 09/08 19:39 [FirstSquawk] RUSSIA'S LAVROV: RUSSIA AND SAUDI ARABIA WILL CONTINUE TO COORDINATE CLOSELY WITHIN THE OPEC+ FRAMEWORK AND WILL AGREE ON COMMON APPROACHES
 - 09/08 19:45 [financialjuice] UK's Chancellor Healey: Starting to see UK economy turn a corner.
@@ -691,3 +685,17 @@
 - 09/09 19:05 [FirstSquawk] SILVER LAKE WILL COMBINE CEGID AND SILAE TO FORM A GROUP VALUED AT OVER €10 BILLION, ACCORDING TO THE FINANCIAL TIMES.
 - 09/09 19:11 [FirstSquawk] NASDAQ 100 FUTURES EXTEND LOSSES TO 0.5%
 - 09/09 19:14 [financialjuice] Panama-flagged tanker carrying 2 mln barrels of Iraqi fuel oil was struck by drone in Iraqi territorial waters - Two Port Officials.
+- 09/09 19:19 [FirstSquawk] BARCLAYS DOWNGRADES US UTILITIES SECTOR TO NEUTRAL FROM POSITIVE
+- 09/09 19:22 [FirstSquawk] IRAN SAYS US VESSELS, BASES WERE HIT IN DEFENSIVE STRIKE
+- 09/09 19:22 [FirstSquawk] IRAN SAYS US ATTACKS ON ITS VESSELS THREATEN REGIONAL SECURITY
+- 09/09 19:23 [financialjuice] Iran: US attacks on its vessels threaten regional security.
+- 09/09 19:23 [financialjuice] Iran's Foreign Ministry: Armed forces retaliated in self-defence against ‘American tankers' and US bases in Jordan - Statement.
+- 09/09 19:24 [FirstSquawk] IRAN VOWS DECISIVE RESPONSE TO ANY US MILITARY ATTACK
+- 09/09 19:25 [FirstSquawk] KREMLIN SAYS IT WON'T PUBLICLY DISCUSS POTENTIAL ELEMENTS OF A PEACE SETTLEMENT || SAYS IT HOPES U.S.-MEDIATED TALKS WITH UKRAINE WILL RESUME SOON || ISSUE OF EXCHANGING PRISONERS BETWEEN RUSSIA AND U.S. IS CONSTANTLY ON THE AGENDA
+- 09/09 19:26 [FirstSquawk] KREMLIN: EUROPE COULD GET CHEAPER GAS IF IT BOUGHT FROM RUSSIA
+- 09/09 19:26 [FirstSquawk] KREMLIN: EUROPEANS ARE INFLICTING DAMAGE ON THEMSELVES BY BUYING GAS ON SPOT MARKET FOR A PRICE WHICH IS HIGHER THAN FOR RUSSIAN GAS
+- 09/09 19:26 [FirstSquawk] KREMLIN SAYS EUROPE IS IN DIFFICULT SITUATION, THEY WILL NOT BE ABLE TO REPLENISH THEIR GAS STORAGE BY WINTER
+- 09/09 19:26 [FirstSquawk/DeItaone] KREMLIN: NORD STREAM PIPELINE COULD BE BROUGHT BACK ONLINE INSTANTLY
+- 09/09 19:30 [FirstSquawk] RYANAIR CEO O’LEARY TO REUTERS: ON TUESDAY WE CANCELLED 260 FLIGHTS, AFFECTING ABOUT 48,000 PASSENGERS
+- 09/09 19:30 [DeItaone] KREMLIN HOPES US-BROKERED UKRAINE TALKS RESUME SOON The Kremlin says it hopes US-mediated peace talks between Russia and Ukraine will restart soon, after negotiations stalled in February. Spokesman Dmitry Peskov declined to discuss possible…
+- 09/09 19:33 [DeItaone] KREMLIN: EUROPE FEELING PAIN OF HIGHER GAS PRICES The Kremlin says Europe is suffering from soaring natural gas prices amid the Iran war and could cut costs by buying Russian gas. European gas prices recently reached their highest level sin…
