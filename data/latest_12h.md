@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 13:58 JST／対象: 09/09 01:58 〜 09/09 13:58 JST（時刻はすべて日本時間）
+生成: 2026-09-09 14:16 JST／対象: 09/09 02:16 〜 09/09 14:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/09 02:40 | 09/09 05:33 | ⚠ 105分（03:46→05:31） |
-| FirstSquawk | 208 | 09/09 02:02 | 09/09 13:58 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 124 | 09/09 02:00 | 09/09 13:55 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 209 | 09/09 02:33 | 09/09 14:12 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 117 | 09/09 02:35 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 327 行（統合前 338 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 321 行（統合前 332 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 02:00 [financialjuice] Treasury WI 3-Year yield 4.475% before $58 billion auction.
-- 09/09 02:01 [financialjuice] Alerts activated in Saudi Arabia's Jazan - Civil Defence.
-- 09/09 02:02 [FirstSquawk] ALERTS ACTIVATED IN JAZAN, SAUDI ARABIA - CIVIL DEFENCE
-- 09/09 02:02 [financialjuice] Russian Lavrov: Putin may meet Trump, Xi at APEC in November - IFX
-- 09/09 02:02 [financialjuice] US 3-YEAR NOTE HIGH YIELD ACTUAL 4.474% (FORECAST -, PREVIOUS 4.291%) $MACRO
-- 09/09 02:02 [financialjuice] US 3-YEAR NOTE BID-TO-COVER ACTUAL 2.720 (FORECAST -, PREVIOUS 2.710) $MACRO
-- 09/09 02:03 [financialjuice] US 3-Year Note Auction High Yield 4.474% [Stop-through 0.1 bps] Bid-to-cover 2.72 Sells 58 bln Awards 29.35% of bids at high Primary Dealers take 10.9% Direct 26.9% Indirect 62.1%
-- 09/09 02:04 [financialjuice] Saudi Arabia: Early warning issued in Najran and Abha province.
-- 09/09 02:07 [FirstSquawk] US 3-Year Note Sale: - High Yield Rate: 4.474% (prev 4.291%) - Bid-Cover Ratio: 2.72 (prev 2.71) - Direct Accepted: 26.9% (prev 24.0%) - Indirect Accepted: 62.1% (prev 64.2%) - WI: 4.475%
-- 09/09 02:07 [FirstSquawk] Danger Has Passed In Jazan Province – Saudi Civil Defence
-- 09/09 02:08 [financialjuice] Saudi Arabia: Danger passed in Abha and Jazan after warning.
-- 09/09 02:12 [financialjuice] Saudi Arabia: Danger passed in the Najran province
 - 09/09 02:33 [FirstSquawk] U.S. POWDER RIVER BASIN COAL PRICES WERE UNCHANGED AT $14.50/TON FOR THE WEEK ENDING SEPT. 4, WITH NORTHERN APPALACHIAN PRICES ALSO UNCHANGED AT $70.25/TON
 - 09/09 02:33 [FirstSquawk] U.S. ILLINOIS BASIN COAL PRICES WERE UNCHANGED AT $55.00/TON FOR THE WEEK ENDING SEPT. 4, WITH CENTRAL APPALACHIAN PRICES ALSO UNCHANGED AT $81.00/TON
 - 09/09 02:34 [FirstSquawk] SAUDI ARABIA SAYS THE DANGER HAS PASSED IN THE NAJRAN PROVINCE, AND IN ABHA AND JAZAN AFTER A WARNING
@@ -351,3 +339,9 @@
 - 09/09 13:55 [financialjuice] Russian air strikes damage port facilities in Ukraine's Mykolayiv, officials say
 - 09/09 13:55 [FirstSquawk] Russian Strikes Hit Port Infrastructure in Mykolaiv, Ukrainian Officials Say
 - 09/09 13:58 [FirstSquawk] Peel Hunt Lowers Oxford Biomedica Price Target to 778p From 846p
+- 09/09 13:59 [financialjuice] Israel tells British consulate in east Jerusalem to shut within 30 days, Israeli official says
+- 09/09 13:59 [FirstSquawk] British Consulate in East Jerusalem Ordered to Shut Within 30 Days by Israel, Official Says
+- 09/09 14:00 [financialjuice] Israel tells British consulate in East Jerusalem its diplomats will lose accreditation within 30 days, Israeli official says
+- 09/09 14:00 [FirstSquawk] British Consulate Diplomats in East Jerusalem Face Loss of Accreditation Within 30 Days, Israeli Official Says
+- 09/09 14:10 [FirstSquawk] Kazakhstan Gold and Foreign Currency Reserves Reach $68.562 Billion in August, Increasing 11.8% M/M
+- 09/09 14:12 [FirstSquawk] Gold Prices Edge Higher Amid Softer Dollar, Inflation Data Ahead and Mideast Tensions

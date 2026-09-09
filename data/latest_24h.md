@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 13:58 JST／対象: 09/08 13:58 〜 09/09 13:58 JST（時刻はすべて日本時間）
+生成: 2026-09-09 14:16 JST／対象: 09/08 14:16 〜 09/09 14:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 411 | 09/08 14:01 | 09/09 13:58 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 283 | 09/08 14:00 | 09/09 13:55 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 408 | 09/08 14:27 | 09/09 14:12 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 281 | 09/08 14:23 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 692 行（統合前 708 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 687 行（統合前 703 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 14:00 [financialjuice] JAPANESE ECONOMY WATCHERS POLL ACTUAL 46.4 (FORECAST 46.2, PREVIOUS 45.7) $MACRO
-- 09/08 14:01 [FirstSquawk] Novartis provides update on Phase III HARBOR trial evaluating del-desiran in DM1
-- 09/08 14:01 [financialjuice] UK govt: UK commits winter air defense package to strengthen Ukraine's defenses
-- 09/08 14:02 [FirstSquawk] UK pledges winter air defence package to bolster Ukraine’s air defences, government says
-- 09/08 14:02 [FirstSquawk] UK government to provide £100 mln for Ukraine air defence, including Patriot missiles
-- 09/08 14:02 [financialjuice] China auto industry body CPCA: China sold 1.55 million passenger cars in August, down 23.7% y/y
-- 09/08 14:03 [FirstSquawk] China’s passenger car sales drop 23.7% y/y to 1.55 mln in August, CPCA says
-- 09/08 14:04 [financialjuice] UK govt commits £100 mln to air defence package including Patriot missiles to boost Ukraine
-- 09/08 14:08 [FirstSquawk] Berenberg lifts Keller Group target price to 3,450p from 3,300p
-- 09/08 14:13 [FirstSquawk] Sri Lanka’s Ceylon Petroleum Corp plans to double refining capacity to 100,000 bpd in four years
-- 09/08 14:13 [FirstSquawk] Sri Lanka’s Ceylon Petroleum Corp seeks foreign partners with crude supplies for refining capacity expansion
 - 09/08 14:23 [financialjuice] Saudis say energy facilities targeted on September 8
 - 09/08 14:23 [financialjuice] Saudis say fire erupted in several energy sites.
 - 09/08 14:23 [financialjuice] Saudis say operations at some energy sites halted.
@@ -716,3 +705,9 @@
 - 09/09 13:55 [financialjuice] Russian air strikes damage port facilities in Ukraine's Mykolayiv, officials say
 - 09/09 13:55 [FirstSquawk] Russian Strikes Hit Port Infrastructure in Mykolaiv, Ukrainian Officials Say
 - 09/09 13:58 [FirstSquawk] Peel Hunt Lowers Oxford Biomedica Price Target to 778p From 846p
+- 09/09 13:59 [financialjuice] Israel tells British consulate in east Jerusalem to shut within 30 days, Israeli official says
+- 09/09 13:59 [FirstSquawk] British Consulate in East Jerusalem Ordered to Shut Within 30 Days by Israel, Official Says
+- 09/09 14:00 [financialjuice] Israel tells British consulate in East Jerusalem its diplomats will lose accreditation within 30 days, Israeli official says
+- 09/09 14:00 [FirstSquawk] British Consulate Diplomats in East Jerusalem Face Loss of Accreditation Within 30 Days, Israeli Official Says
+- 09/09 14:10 [FirstSquawk] Kazakhstan Gold and Foreign Currency Reserves Reach $68.562 Billion in August, Increasing 11.8% M/M
+- 09/09 14:12 [FirstSquawk] Gold Prices Edge Higher Amid Softer Dollar, Inflation Data Ahead and Mideast Tensions
