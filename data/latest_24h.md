@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 21:49 JST／対象: 09/08 21:49 〜 09/09 21:49 JST（時刻はすべて日本時間）
+生成: 2026-09-09 22:01 JST／対象: 09/08 22:01 〜 09/09 22:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 30 | 09/08 22:06 | 09/09 21:27 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 426 | 09/08 21:54 | 09/09 21:46 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 262 | 09/08 22:00 | 09/09 21:20 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 427 | 09/08 22:02 | 09/09 22:00 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 260 | 09/08 22:01 | 09/09 22:00 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 702 行（統合前 720 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 701 行（統合前 719 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 21:54 [FirstSquawk] EUROPE SET TO BUY PATRIOTS FROM US TO SHIELD UKRAINE THIS WINTER – BBG
-- 09/08 21:59 [FirstSquawk] VERIZON, CORNING REACH PARTNERSHIP FOR FIBER: CNBC
-- 09/08 22:00 [financialjuice] Qualcomm reports a multi-generational product pact with Amazon. $QCOM $AMZN
-- 09/08 22:00 [financialjuice] Effective Fed funds rate 3.63% September 4rg vs 3.63% September 3rd.
-- 09/08 22:01 [financialjuice] ECB Settled €1,667.7 bln public-sector bond purchases.
-- 09/08 22:01 [financialjuice] ECB settled €216.7 bln corporate bond purchases.
 - 09/08 22:01 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
 - 09/08 22:02 [financialjuice] Germany's Wadephul: The growing China trade deficit is alarming.
 - 09/08 22:02 [FirstSquawk] QUALCOMM, AMAZON PACT TO BUILD AI DATA CENTER INFRASTRUCTURE
@@ -726,3 +720,8 @@
 - 09/09 21:35 [FirstSquawk] US 10-YEAR TREASURY YIELDS RISE TO 4.8184%, HIGHEST SINCE NOVEMBER 2023
 - 09/09 21:40 [FirstSquawk] GOLDMAN SACHS CEO: U.S. NEEDS STRONGER GROWTH TO KEEP PACE WITH RISING DEBT Goldman Sachs CEO David Solomon says the U.S. needs consistently higher economic growth to sustain its current levels of government spending and debt. He argues tha…
 - 09/09 21:46 [FirstSquawk] SINGAPORE REFINER ASTER IS SOURCING CRUDE OIL FROM LATIN AMERICA AND WEST AFRICA TO SUBSTITUTE MIDDLE EASTERN SUPPLIES.
+- 09/09 21:49 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: RUSSIA TRIES TO INTIMIDATE AND DESTABILIZE OUR SOCIETY AND TAKEN MORE AND MORE RISKS IN DOING SO
+- 09/09 21:54 [FirstSquawk] DBS DISMISSES S$1.3B LAWSUIT RELATED TO 1MDB BY LIQUIDATORS.
+- 09/09 21:55 [financialjuice] US REDBOOK YOY ACTUAL 8.3% (FORECAST -, PREVIOUS 9.6%) $MACRO
+- 09/09 22:00 [financialjuice] Effective Fed funds rate 3.63% September 8th vs 3.63% September 4th.
+- 09/09 22:00 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: RUSSIA PRODUCES 150 SHORT- AND MEDIUM-RANGE MISSILES PER MONTH BUT USES ONLY PART OF IT ON THE FRONT IN UKRAINE
