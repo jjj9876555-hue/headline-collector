@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 22:21 JST／対象: 09/09 10:21 〜 09/09 22:21 JST（時刻はすべて日本時間）
+生成: 2026-09-09 22:39 JST／対象: 09/09 10:39 〜 09/09 22:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/09 16:31 | 09/09 22:19 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 186 | 09/09 10:26 | 09/09 22:15 | 19分（16:10→16:29） |
-| financialjuice | 54 | 09/09 10:22 | 09/09 22:03 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 186 | 09/09 10:40 | 09/09 22:35 | 19分（16:10→16:29） |
+| financialjuice | 51 | 09/09 10:40 | 09/09 22:31 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 258 行（統合前 265 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 255 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 10:22 [financialjuice] China cbank: 7-day reverse repo volume hits zero Wednesday on primary dealer demand - statement
-- 09/09 10:25 [financialjuice] Top U.S. diplomat in Taiwan: Taiwan has tech and manufacturing capacity to meet its needs and back development of global democratic supply chains
-- 09/09 10:26 [FirstSquawk] U.S. Diplomat: Taiwan Can Meet Its Own Needs While Supporting Development of Global Democratic Supply Chains
-- 09/09 10:26 [financialjuice] National Transportation Safety Board: Evidence suggests pilots thought about aborting landing in Boeing 767 crash in Miami
-- 09/09 10:30 [financialjuice] ❗ CHINESE PPI YOY ACTUAL 3.8% (FORECAST 3.6%, PREVIOUS 3.5%) $MACRO
-- 09/09 10:30 [financialjuice] ‼ BREAKING: CHINESE CPI YOY ACTUAL 0.8% (FORECAST 0.8%, PREVIOUS 0.5%) $MACRO
-- 09/09 10:30 [financialjuice] China August CPI rises 0.8% from year earlier, poll predicted 0.8%
-- 09/09 10:30 [financialjuice] China August producer prices rise 0.4% from previous month
-- 09/09 10:30 [financialjuice] CHINESE CPI MOM ACTUAL 0.4% (FORECAST -, PREVIOUS -0.1%) $MACRO
-- 09/09 10:30 [FirstSquawk] CHINA (AUG) PPI YOY ACTUAL: 3.8% VS 3.5% PREVIOUS;EST 3.6%
-- 09/09 10:30 [financialjuice] China: August food CPI down 1.4% year-on-year; non-food CPI up 1.2%
-- 09/09 10:30 [financialjuice] China August CPI rises 0.4% month-on-month, above poll of 0.3%
-- 09/09 10:31 [FirstSquawk] CHINA (AUG) CPI YOY ACTUAL: 0.8% VS 0.5% PREVIOUS;EST 0.8%
-- 09/09 10:31 [FirstSquawk] CHINA (AUG) CPI CORE YOY ACTUAL: 1% VS 0.9% PREVIOUS;EST 0.9%
-- 09/09 10:32 [FirstSquawk] 5-Year Japanese Government Bond Yield Slips to 2.215%
-- 09/09 10:37 [FirstSquawk] Defense Minister Ahn Gyu-back will travel to Croatia on Wednesday to discuss bilateral defense ties with top officials and attend a ceremony for a South Korean rocket artillery export deal, Seoul's defense ministry said - YONHAP
-- 09/09 10:39 [FirstSquawk] South Korean Stocks Open Higher, Led by Chip Gains Amid Middle East Tensions
 - 09/09 10:40 [FirstSquawk] Bank of Korea Sells 2-Year Monetary Stabilisation Bonds at 3.805%
 - 09/09 10:40 [financialjuice] S.Korea central bank sells two-year monetary stabilization bonds at 3.805% yield
 - 09/09 10:42 [FirstSquawk] South Korea’s Employment Gains Reach Five-Month High With 184,000 Jobs Added in August
@@ -282,3 +265,17 @@
 - 09/09 22:14 [DeItaone] NORTHWESTERN MUTUAL: HOT CPI COULD TRIGGER FED HIKE Northwestern Mutual’s Matt Stucky says hotter-than-expected inflation could increase the chances of a Fed rate hike this month. Markets currently see roughly a 50-50 chance of a hike. Frid…
 - 09/09 22:15 [FirstSquawk] TRUMP’S 20% GDP DREAM: A GROWTH RATE AMERICA HAS SEEN ONLY ONCE SINCE WWII President Donald Trump has said U.S. economic growth could reach 20%, but that would be an extraordinary outlier by historical standards. Data going back to 1947 sho…
 - 09/09 22:19 [DeItaone] KUWAIT OFFERS OIL TRANSFERS OUTSIDE HORMUZ Kuwait Petroleum Corp is offering ship-to-ship transfers of crude oil and refined fuels outside the Strait of Hormuz as buyers avoid ports inside the waterway due to U.S.-Iran war risks. KPC says v…
+- 09/09 22:22 [FirstSquawk] IRAQI OIL MINISTRY SAYS VESSEL USED TO STORE FUEL OIL WAS STRUCK BY UNKNOWN SOURCE IN IRAQI TERRITORIAL WATERS-POST ON X
+- 09/09 22:22 [financialjuice] Iraqi Oil Ministry: A vessel used to store fuel oil was struck by an unknown source in Iraqi territorial waters - Post on X.
+- 09/09 22:22 [FirstSquawk] ISRAEL WON'T LET TERRORIST ARMY TO SIT ON ITS BORDER: NETANYAHU
+- 09/09 22:22 [financialjuice] Israel's Prime Minister Netanyahu comments in visit to troops on mount Hermon in Syria: Israel won't let terrorist army to sit on its border.
+- 09/09 22:24 [financialjuice] Poll: The US Federal Reserve is to hold the Fed funds rate steady at 3.50%-3.75% in 2026, said 52 of 93 economists (vs 80 of 104 economists in August poll).
+- 09/09 22:24 [financialjuice] Poll: Fed to hold Fed Funds Rate at 3.50%-3.75% in September, said 65 of 93 economists (versus 94 of 104 economists in August poll).
+- 09/09 22:24 [financialjuice] Iraqi Oil Ministry: The vessel was chartered by the Iraqi oil tankers company.
+- 09/09 22:25 [FirstSquawk] IRAQ'S OIL MINISTRY SAYS NO LEAKAGE FROM VESSEL'S CARGO INTO WATER
+- 09/09 22:25 [FirstSquawk] IRAQI OIL MINISTRY SAYS NO CASUALTIES REPORTED
+- 09/09 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -60.8 MLN NASDAQ 100: 41.5 MLN DOW 30: -32.6 MLN MAG 7: 42.0 MLN $MACRO
+- 09/09 22:31 [financialjuice] Saudis to set up marine war risks insurance pool for cargo - SPA
+- 09/09 22:31 [FirstSquawk] S&P 500 DOWN 24.32 POINTS, OR 0.32 %, AT 7,649.20 AFTER MARKET OPEN DOW JONES DOWN 291.96 POINTS, OR 0.55 PERCENT, AT 52,494.11 AFTER MARKET OPEN NASDAQ DOWN 117.83 POINTS, OR 0.45 PERCENT, AT 26,303.59 AFTER MARKET OPEN
+- 09/09 22:32 [FirstSquawk] SPOT SILVER RISES NEARLY 3% TO $67.71/OZ
+- 09/09 22:35 [FirstSquawk] SAUDI ARABIA IS CREATING AN INSURANCE POOL TO COVER MARINE WAR RISKS FOR CARGO.

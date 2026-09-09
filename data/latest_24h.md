@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 22:21 JST／対象: 09/08 22:21 〜 09/09 22:21 JST（時刻はすべて日本時間）
+生成: 2026-09-09 22:39 JST／対象: 09/08 22:39 〜 09/09 22:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/08 22:39 | 09/09 22:19 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 424 | 09/08 22:24 | 09/09 22:15 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 255 | 09/08 22:23 | 09/09 22:03 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 30 | 09/08 23:18 | 09/09 22:19 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 423 | 09/08 22:41 | 09/09 22:35 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 250 | 09/08 22:43 | 09/09 22:31 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 695 行（統合前 712 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 690 行（統合前 705 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 22:23 [financialjuice] BoE Gov. Bailey: The US-Iran war has led to high energy prices, they could be higher still.
-- 09/08 22:24 [FirstSquawk] BAILEY: ENERGY PRICES COULD GO EVEN HIGHER DUE TO US-IRAN WAR
-- 09/08 22:25 [FirstSquawk] BOE'S BAILEY: UKRAINIAN ATTACKS ON RUSSIAN REFINERIES ALSO PUSHING UP COST OF REFINED OIL PRODUCTS
-- 09/08 22:26 [financialjuice] BoE Gov. Bailey: The Ukrainian attacks on Russian refineries are pushing up cost of refined oil products.
-- 09/08 22:29 [financialjuice] NATO Sec. Gen. Rutte: Nations have no choice but to dig deeper to support Ukraine.
-- 09/08 22:29 [FirstSquawk] NATO'S RUTTE: NATIONS HAVE NO CHOICE BUT TO DIG DEEPER TO SUPPORT UKRAINE
-- 09/08 22:29 [FirstSquawk] UK FOREIGN OFFICE:SUMMONS SERBIAN AMBASSADOR TO CONDEMN COMMEMORATIONS SURROUNDING THE FUNERAL OF CONVICTED WAR CRIMINAL RATKO MLADIC
-- 09/08 22:30 [financialjuice] BoE’s Greene: The length of time that oil prices have been high worries me about 2nd round effects down the line.
-- 09/08 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -301.5 MLN NASDAQ 100: -28.9 MLN DOW 30: -56.6 MLN MAG 7: -9.2 MLN $MACRO
-- 09/08 22:31 [FirstSquawk] DOW JONES DOWN 429.11 POINTS, OR 0.80 PERCENT, AT 52,985.14 AFTER MARKET OPEN NASDAQ UP 27.79 POINTS, OR 0.11 PERCENT, AT 26,534.78 AFTER MARKET OPEN S&P 500 DOWN 6.66 POINTS, OR 0.09 PERCENT, AT 7,711.94 AFTER MARKET OPEN
-- 09/08 22:32 [financialjuice] BoE's Ramsden: The domestic inflation position is relatively benign.
-- 09/08 22:33 [financialjuice/FirstSquawk/DeItaone] US Defense Official: We must be prepared for a protracted conflict in Ukraine.
-- 09/08 22:33 [financialjuice] BoE's Ramsden: I get reassurance on inflation from the labour market.
-- 09/08 22:33 [financialjuice] BoE's Ramsden: UK wages have come in below what we expected before conflict.
-- 09/08 22:34 [financialjuice] BoE's Ramsden: Global inflationary picture is much more of upside inflation risk.
-- 09/08 22:35 [FirstSquawk] SENIOR PENTAGON OFFICIAL: U.S. BELIEVES ALLIES CAN AND WILL LEAD UKRAINE'S SELF-DEFENSE
-- 09/08 22:36 [FirstSquawk] UKRAINE IS CONTRACTING SUPPLY OF ABOUT 1,000 MISSILES FROM ALLIES, DEFENCE MINISTER SAYS
-- 09/08 22:36 [financialjuice] BoE's Ramsden: I am comfortable with policy but I am very conscious of upside risk.
-- 09/08 22:38 [financialjuice] BoE Gov. Bailey: The rise in UK mortgage rates is larger than almost anywhere in the G7.
 - 09/08 22:41 [FirstSquawk] BAILEY: UK'S HAD LARGEST RISE IN MORTGAGE RATES IN THE G7
 - 09/08 22:43 [financialjuice] BoE’s Greene: There different views on the MPC about inflation path pre-war.
 - 09/08 22:44 [financialjuice] BoE Gov. Bailey: Risks to inflation are to the upside.
@@ -719,3 +700,17 @@
 - 09/09 22:14 [DeItaone] NORTHWESTERN MUTUAL: HOT CPI COULD TRIGGER FED HIKE Northwestern Mutual’s Matt Stucky says hotter-than-expected inflation could increase the chances of a Fed rate hike this month. Markets currently see roughly a 50-50 chance of a hike. Frid…
 - 09/09 22:15 [FirstSquawk] TRUMP’S 20% GDP DREAM: A GROWTH RATE AMERICA HAS SEEN ONLY ONCE SINCE WWII President Donald Trump has said U.S. economic growth could reach 20%, but that would be an extraordinary outlier by historical standards. Data going back to 1947 sho…
 - 09/09 22:19 [DeItaone] KUWAIT OFFERS OIL TRANSFERS OUTSIDE HORMUZ Kuwait Petroleum Corp is offering ship-to-ship transfers of crude oil and refined fuels outside the Strait of Hormuz as buyers avoid ports inside the waterway due to U.S.-Iran war risks. KPC says v…
+- 09/09 22:22 [FirstSquawk] IRAQI OIL MINISTRY SAYS VESSEL USED TO STORE FUEL OIL WAS STRUCK BY UNKNOWN SOURCE IN IRAQI TERRITORIAL WATERS-POST ON X
+- 09/09 22:22 [financialjuice] Iraqi Oil Ministry: A vessel used to store fuel oil was struck by an unknown source in Iraqi territorial waters - Post on X.
+- 09/09 22:22 [FirstSquawk] ISRAEL WON'T LET TERRORIST ARMY TO SIT ON ITS BORDER: NETANYAHU
+- 09/09 22:22 [financialjuice] Israel's Prime Minister Netanyahu comments in visit to troops on mount Hermon in Syria: Israel won't let terrorist army to sit on its border.
+- 09/09 22:24 [financialjuice] Poll: The US Federal Reserve is to hold the Fed funds rate steady at 3.50%-3.75% in 2026, said 52 of 93 economists (vs 80 of 104 economists in August poll).
+- 09/09 22:24 [financialjuice] Poll: Fed to hold Fed Funds Rate at 3.50%-3.75% in September, said 65 of 93 economists (versus 94 of 104 economists in August poll).
+- 09/09 22:24 [financialjuice] Iraqi Oil Ministry: The vessel was chartered by the Iraqi oil tankers company.
+- 09/09 22:25 [FirstSquawk] IRAQ'S OIL MINISTRY SAYS NO LEAKAGE FROM VESSEL'S CARGO INTO WATER
+- 09/09 22:25 [FirstSquawk] IRAQI OIL MINISTRY SAYS NO CASUALTIES REPORTED
+- 09/09 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -60.8 MLN NASDAQ 100: 41.5 MLN DOW 30: -32.6 MLN MAG 7: 42.0 MLN $MACRO
+- 09/09 22:31 [financialjuice] Saudis to set up marine war risks insurance pool for cargo - SPA
+- 09/09 22:31 [FirstSquawk] S&P 500 DOWN 24.32 POINTS, OR 0.32 %, AT 7,649.20 AFTER MARKET OPEN DOW JONES DOWN 291.96 POINTS, OR 0.55 PERCENT, AT 52,494.11 AFTER MARKET OPEN NASDAQ DOWN 117.83 POINTS, OR 0.45 PERCENT, AT 26,303.59 AFTER MARKET OPEN
+- 09/09 22:32 [FirstSquawk] SPOT SILVER RISES NEARLY 3% TO $67.71/OZ
+- 09/09 22:35 [FirstSquawk] SAUDI ARABIA IS CREATING AN INSURANCE POOL TO COVER MARINE WAR RISKS FOR CARGO.
