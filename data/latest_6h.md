@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 18:27 JST／対象: 09/09 12:27 〜 09/09 18:27 JST（時刻はすべて日本時間）
+生成: 2026-09-09 18:45 JST／対象: 09/09 12:45 〜 09/09 18:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/09 16:31 | 09/09 16:31 | - |
-| FirstSquawk | 89 | 09/09 12:29 | 09/09 18:20 | 19分（16:10→16:29） |
-| financialjuice | 14 | 09/09 12:39 | 09/09 18:21 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 2 | 09/09 16:31 | 09/09 18:32 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 87 | 09/09 12:48 | 09/09 18:36 | 19分（16:10→16:29） |
+| financialjuice | 13 | 09/09 13:03 | 09/09 18:32 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 103 行（統合前 106 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 101 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 12:29 [FirstSquawk] S. Korea, UNDP sign agreement on mine removal cooperation - yonhap
-- 09/09 12:36 [FirstSquawk] President Lee conferred France's highest decoration for promoting bilateral ties - yonhap
-- 09/09 12:39 [financialjuice] China finance ministry auctions 50-year ultra-long special treasury bonds at 2.2778% yield: traders
-- 09/09 12:39 [FirstSquawk] China Sells 50-Year Ultra-Long Special Treasury Bonds at 2.2778% Yield, Traders Say
-- 09/09 12:41 [financialjuice] China finance ministry auctions 3-month bills at 1.1270% yield: traders
-- 09/09 12:41 [FirstSquawk] MRPL Executive: Rising Local Diesel Demand Encourages Refiners to Shift Production From Jet Fuel to Diesel
-- 09/09 12:43 [FirstSquawk] BHP Group Says New Rio Doce Deal Brings Over R$1.2 Billion in Additional Reparations Payments
 - 09/09 12:48 [FirstSquawk] Thai Finance Ministry to Launch Rooftop Solar Support From Mid-October
 - 09/09 12:50 [FirstSquawk] Thai Government to Allocate 50 Billion Baht for Rooftop Solar Scheme, FinMin Says
 - 09/09 12:53 [FirstSquawk] Thailand to Exempt Some Solar Panel Imports From Tax, Finance Minister Says
@@ -127,3 +120,8 @@
 - 09/09 18:17 [FirstSquawk] TRUMP'S AI FRAMEWORK DOES NOT INCLUDE GUIDELINES FOR REPORTING PUBLIC INCIDENTS
 - 09/09 18:20 [FirstSquawk] FRENCH PRIME MINISTER PLANS TO REDUCE ONE-OFF TAX ON LARGE COMPANIES IN UPCOMING BUDGET.
 - 09/09 18:21 [financialjuice] French PM Lecornu: We aim to lower one-off tax on big companies in budget.
+- 09/09 18:31 [FirstSquawk] CANADA'S LARGEST ICEBREAKER STARTS TO COME TOGETHER.
+- 09/09 18:32 [DeItaone] US HITS IRANIAN TANKERS AS OIL BREAKS $100 The US destroyed five more Iranian oil tankers overnight after Iran allegedly targeted an American warship. No US personnel were hurt. Iran reportedly retaliated against US warships and tankers and…
+- 09/09 18:32 [financialjuice] GERMAN 10 YR BUND BID-TO-COVER ACTUAL 1.5 (FORECAST -, PREVIOUS -) $MACRO
+- 09/09 18:34 [FirstSquawk] US AND EUROPE REQUEST IRAN TO ENGAGE IN UNCONDITIONAL TALKS.
+- 09/09 18:36 [FirstSquawk] BRITISH AIRWAYS: CANCELLED MORE THAN 190 FLIGHTS OF WEDNESDAY'S ORIGINAL PLANNED SCHEDULE

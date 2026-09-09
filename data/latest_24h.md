@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 18:27 JST／対象: 09/08 18:27 〜 09/09 18:27 JST（時刻はすべて日本時間）
+生成: 2026-09-09 18:45 JST／対象: 09/08 18:45 〜 09/09 18:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/08 22:06 | 09/09 16:31 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 414 | 09/08 18:32 | 09/09 18:20 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 267 | 09/08 18:37 | 09/09 18:21 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 12 | 09/08 22:06 | 09/09 18:32 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 415 | 09/08 18:46 | 09/09 18:36 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 261 | 09/08 18:45 | 09/09 18:32 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 679 行（統合前 695 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 675 行（統合前 691 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 18:32 [FirstSquawk] BOJ PLANS TO RAISE RATE TO 1.25% AT SEPT. 17-18 MEETING: KYODO
-- 09/08 18:37 [financialjuice] Bank of Japan to hike key interest rates 0.25 percentage point in September meeting, Kyodo News says
-- 09/08 18:39 [financialjuice] China foreign minister to Qatar PM on Middle East situation: pressure through guns and cannons not the way out, dialogue and negotiation the right path - statement
-- 09/08 18:40 [financialjuice] Reserve Bank of Australia Deputy Gov Hauser: Much to Like About Economy, But Inflation Is Major Issue
-- 09/08 18:41 [financialjuice] RBA’s Hauser: question for us is whether we have done enough on rates or need to do more
-- 09/08 18:41 [FirstSquawk] IRAN'S ARAGHCHI SAYS 'SIGNIFICANT PROGRESS' ON HORMUZ ROUTE
-- 09/08 18:41 [financialjuice] RBA's Hauser: July CPI edged up slightly more than expected
-- 09/08 18:42 [financialjuice] RBA's Hauser: balanced outlook but focused on upside inflation risks
-- 09/08 18:43 [financialjuice] RBA's Hauser: board will debate a hike this month, outcome not guaranteed
 - 09/08 18:45 [financialjuice] RBA's Hauser: House prices do not play that big a role in economy, not the main game.
 - 09/08 18:46 [FirstSquawk] RESERVE BANK OF AUSTRALIA ASSISTANT GOVERNOR HUNTER SAYS THE HOUSING MARKET PLAYS A KEY ROLE IN MONETARY POLICY.
 - 09/08 18:46 [FirstSquawk] RBA'S HUNTER SAYS HOUSE PRICE CHANGES HAVE A SMALL EFFECT ON CONSUMER SPENDING.
@@ -703,3 +694,8 @@
 - 09/09 18:17 [FirstSquawk] TRUMP'S AI FRAMEWORK DOES NOT INCLUDE GUIDELINES FOR REPORTING PUBLIC INCIDENTS
 - 09/09 18:20 [FirstSquawk] FRENCH PRIME MINISTER PLANS TO REDUCE ONE-OFF TAX ON LARGE COMPANIES IN UPCOMING BUDGET.
 - 09/09 18:21 [financialjuice] French PM Lecornu: We aim to lower one-off tax on big companies in budget.
+- 09/09 18:31 [FirstSquawk] CANADA'S LARGEST ICEBREAKER STARTS TO COME TOGETHER.
+- 09/09 18:32 [DeItaone] US HITS IRANIAN TANKERS AS OIL BREAKS $100 The US destroyed five more Iranian oil tankers overnight after Iran allegedly targeted an American warship. No US personnel were hurt. Iran reportedly retaliated against US warships and tankers and…
+- 09/09 18:32 [financialjuice] GERMAN 10 YR BUND BID-TO-COVER ACTUAL 1.5 (FORECAST -, PREVIOUS -) $MACRO
+- 09/09 18:34 [FirstSquawk] US AND EUROPE REQUEST IRAN TO ENGAGE IN UNCONDITIONAL TALKS.
+- 09/09 18:36 [FirstSquawk] BRITISH AIRWAYS: CANCELLED MORE THAN 190 FLIGHTS OF WEDNESDAY'S ORIGINAL PLANNED SCHEDULE

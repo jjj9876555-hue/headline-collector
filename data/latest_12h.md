@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 18:27 JST／対象: 09/09 06:27 〜 09/09 18:27 JST（時刻はすべて日本時間）
+生成: 2026-09-09 18:45 JST／対象: 09/09 06:45 〜 09/09 18:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/09 16:31 | 09/09 16:31 | - |
-| FirstSquawk | 185 | 09/09 06:28 | 09/09 18:20 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 70 | 09/09 06:28 | 09/09 18:21 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 2 | 09/09 16:31 | 09/09 18:32 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 183 | 09/09 07:35 | 09/09 18:36 | 19分（16:10→16:29） |
+| financialjuice | 70 | 09/09 07:05 | 09/09 18:32 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 253 行（統合前 258 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 253 行（統合前 257 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 06:28 [FirstSquawk/financialjuice] U.S. SUPREME COURT REJECTS MISSOURI EFFORT TO USE GOP-DRAWN CONGRESSIONAL MAP IN NOVEMBER MIDTERMS
-- 09/09 06:31 [FirstSquawk] BESSENT SAYS HE HAS “GOOD INSIGHT” INTO BOJ AND JAPANESE POLICYMAKERS’ NEXT MOVES, INCLUDING ON POTENTIAL YEN INTERVENTION.
-- 09/09 06:31 [FirstSquawk] BESSENT SAYS THE US CAN USE ITS BALANCE SHEET AS A FOREIGN-POLICY TOOL AND CLAIMS HE NOW HAS “ASYMMETRIC INFO,” SIGNALING A MORE ACTIVE US ROLE IN CURRENCY POLICY.
-- 09/09 06:39 [FirstSquawk] US CDC REPORTS 19,595 LAB-CONFIRMED US-ACQUIRED CYCLOSPORIASIS CASES SINCE MAY 1, WITH 1,043 RELATED HOSPITALIZATIONS THROUGH SEPT. 8. THE OUTBREAK HAS RESULTED IN A SIGNIFICANT NUMBER OF HOSPITALIZATIONS, PROMPTING CONTINUED PUBLIC-HEALTH …
-- 09/09 06:40 [FirstSquawk] GLOBALFOUNDRIES CEO SAYS DATA-CENTER DEMAND IS A “VERY STRONG DRIVER” FOR GROWTH AS AI WORKLOADS BECOME INCREASINGLY DATA-INTENSIVE. CEO SAYS OPTICAL CONNECTIVITY IS NOW A “WHEN, NOT IF” TRANSITION AND GLOBALFOUNDRIES COULD 10X SILICON-PHOT…
 - 09/09 07:05 [financialjuice] US Secretary of State Rubio: Trump wants to reach tariff deal with Colombia
 - 09/09 07:12 [financialjuice] US Secretary of State Rubio: Every time Iran targets US Navy ships, they will lose tankers
 - 09/09 07:17 [financialjuice] U.S. Central Command: forces destroyed five Iranian crude oil carriers Sept. 8 after Islamic Revolutionary Guard Corps targeted U.S. navy warship with ballistic missiles twice over past two days
@@ -277,3 +272,8 @@
 - 09/09 18:17 [FirstSquawk] TRUMP'S AI FRAMEWORK DOES NOT INCLUDE GUIDELINES FOR REPORTING PUBLIC INCIDENTS
 - 09/09 18:20 [FirstSquawk] FRENCH PRIME MINISTER PLANS TO REDUCE ONE-OFF TAX ON LARGE COMPANIES IN UPCOMING BUDGET.
 - 09/09 18:21 [financialjuice] French PM Lecornu: We aim to lower one-off tax on big companies in budget.
+- 09/09 18:31 [FirstSquawk] CANADA'S LARGEST ICEBREAKER STARTS TO COME TOGETHER.
+- 09/09 18:32 [DeItaone] US HITS IRANIAN TANKERS AS OIL BREAKS $100 The US destroyed five more Iranian oil tankers overnight after Iran allegedly targeted an American warship. No US personnel were hurt. Iran reportedly retaliated against US warships and tankers and…
+- 09/09 18:32 [financialjuice] GERMAN 10 YR BUND BID-TO-COVER ACTUAL 1.5 (FORECAST -, PREVIOUS -) $MACRO
+- 09/09 18:34 [FirstSquawk] US AND EUROPE REQUEST IRAN TO ENGAGE IN UNCONDITIONAL TALKS.
+- 09/09 18:36 [FirstSquawk] BRITISH AIRWAYS: CANCELLED MORE THAN 190 FLIGHTS OF WEDNESDAY'S ORIGINAL PLANNED SCHEDULE
