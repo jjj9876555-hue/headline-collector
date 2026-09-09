@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 05:17 JST／対象: 09/09 23:17 〜 09/10 05:17 JST（時刻はすべて日本時間）
+生成: 2026-09-10 05:33 JST／対象: 09/09 23:33 〜 09/10 05:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/10 01:05 | 09/10 05:08 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 86 | 09/09 23:23 | 09/10 05:11 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 87 | 09/09 23:26 | 09/10 05:15 | 28分（04:22→04:50） |
+| FirstSquawk | 86 | 09/09 23:36 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 82 | 09/09 23:35 | 09/10 05:27 | 28分（04:22→04:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 196 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 191 行（統合前 197 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 23:23 [FirstSquawk] EUROPEAN GAS PRICES HAVE INCREASED ABOVE €80 PER MWH FOR THE FIRST TIME IN 2023.
-- 09/09 23:23 [FirstSquawk] WELLS FARGO CEO CHARLES SCHARF SAYS SOME ASPECTS OF THE CLARITY BILL COULD HEIGHTEN SYSTEM SAFETY RISKS.
-- 09/09 23:26 [financialjuice] Saudi: Alert issued for potential danger in Khamis Mushait.
-- 09/09 23:26 [financialjuice] ❗ At Saudi Arabia's request, Pakistan is considering joining the conflict and attacking the Houthi rebels in Yemen - Israeli Hayom News
-- 09/09 23:27 [financialjuice] Saudi civil defense issues emergency alert for Abha - post on X.
-- 09/09 23:27 [FirstSquawk] KAZAKHSTAN SAYS CPC TERMINAL RESUMES OIL LOADINGS - IFX
-- 09/09 23:28 [financialjuice] Fire broke out at Novorossiysk fuel oil terminal after overnight drone attack - two sources.
-- 09/09 23:31 [financialjuice] Pakistan considers hitting Yemen's Houthis under Mecca pact upon Saudi request - Turkiye News
-- 09/09 23:32 [financialjuice] Pakistan considers hitting Yemen's Houthis under Mecca pact upon Saudi request - Turkiye Today
 - 09/09 23:35 [financialjuice] Saudi Civil Defence: Danger has passed in Abha - Post on X.
 - 09/09 23:35 [financialjuice] Saudis say danger passes in Khamis Mushait after alert.
 - 09/09 23:36 [FirstSquawk] SAUDI CIVIL DEFENCE ANNOUNCES THAT THE DANGER IN ABHA HAS ENDED.
@@ -220,3 +211,7 @@
 - 09/10 05:11 [FirstSquawk] MOTOROLA SOLUTIONS: MOVE SIGNALS CONFIDENCE IN THE COMPANY’S FINANCIAL POSITION AND PROVIDES ADDITIONAL SUPPORT FOR SHAREHOLDERS THROUGH CAPITAL RETURNS.
 - 09/10 05:14 [financialjuice] As oil rises and Treasury plan yields rise, stocks decline – US Market Wrap
 - 09/10 05:15 [financialjuice] US August budget deficit $168b - CBO Estimate.
+- 09/10 05:20 [FirstSquawk] ENBRIDGE AGREES TO ACQUIRE TALLGRASS’ CRUDE TRANSPORTATION BUSINESS FOR $2.55 BILLION CASH, INCLUDING 75% OF PONY EXPRESS, 51% OF POWDER RIVER GATEWAY AND 8.4 MILLION BARRELS OF STORAGE CAPACITY. THE DEAL IS EXPECTED TO BOOST DISTRIBUTABLE …
+- 09/10 05:27 [financialjuice] US Energy Secretary Wright: Refining is a bigger problem than oil now.
+- 09/10 05:28 [FirstSquawk] GLOBAL STOCKS AND BONDS COME UNDER PRESSURE AS BRENT CRUDE TOPS $101 AMID ESCALATING US-IRAN TENSIONS, WITH THE S&P 500 FALLING 0.5%, NASDAQ 100 DOWN 0.3% AND DOW SLIDING 0.8%, WHILE THE 10-YEAR TREASURY YIELD JUMPS TO 4.84%.
+- 09/10 05:28 [FirstSquawk] OIL AND INFLATION RISKS DOMINATE MARKETS AS WTI RISES 3.9% TO $96.69 AND GOLD GAINS 1% TO $4,398.87, WITH TRADERS PRICING AROUND 60% ODDS OF A SEPTEMBER FED RATE HIKE AHEAD OF PPI AND CPI DATA.
