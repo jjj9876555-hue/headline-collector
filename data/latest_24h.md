@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 11:44 JST／対象: 09/08 11:44 〜 09/09 11:44 JST（時刻はすべて日本時間）
+生成: 2026-09-09 11:58 JST／対象: 09/08 11:58 〜 09/09 11:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 431 | 09/08 11:45 | 09/09 11:40 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 302 | 09/08 11:52 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
+| FirstSquawk | 426 | 09/08 11:58 | 09/09 11:55 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 301 | 09/08 12:23 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 732 行（統合前 745 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 726 行（統合前 739 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 11:45 [FirstSquawk] Singapore Airlines says its Air India investment reflects a long-term strategic commitment under its multi-hub strategy
-- 09/08 11:45 [FirstSquawk] Singapore Airlines says requests for additional capital will be assessed under its disciplined capital allocation framework
-- 09/08 11:46 [FirstSquawk] Singapore Airlines says Air India’s transformation will be complex and take multiple years, with progress unlikely to be linear
-- 09/08 11:47 [FirstSquawk] Singapore transport minister says SIA’s finances are distinct from Air India’s and it is not required to provide additional capital
-- 09/08 11:48 [FirstSquawk] Singapore transport minister says SIA has not requested funding from Temasek since the COVID-19 period
-- 09/08 11:50 [FirstSquawk] Singapore transport minister: Political actors should not seek to exploit racial divisions
-- 09/08 11:51 [FirstSquawk] Singapore transport minister says there is no basis for questioning SIA’s commercial decision-making
-- 09/08 11:52 [financialjuice] JP Morgan upgrades ADP to overweight from neutral rating
 - 09/08 11:58 [FirstSquawk] Seoul stocks open higher as AI optimism returns
 - 09/08 11:59 [FirstSquawk] Malaysia's Anwar targets cost-of-living woes after election setbacks - NA
 - 09/08 12:12 [FirstSquawk] N. Korea, Russia open 1st cross-border road bridge amid deepening ties - YONHAP
@@ -756,3 +748,5 @@
 - 09/09 11:36 [FirstSquawk] South Korean Stocks Advance 2% as KOSPI Climbs
 - 09/09 11:37 [FirstSquawk] Gemini Digital Payments Singapore Receives Major Payment Institution License From MAS
 - 09/09 11:40 [FirstSquawk] Oil heads for $100, Asia stocks subdued as Middle East tensions escalate - RTRS
+- 09/09 11:47 [FirstSquawk] Singapore Dollar Consolidates Ahead of U.S. PPI, CPI Data - WSJ
+- 09/09 11:55 [FirstSquawk] Hyundai Motor, AfDB agree to cooperate on Africa's energy transition, sustainable development - YONHAP

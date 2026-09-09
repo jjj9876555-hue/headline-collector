@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 11:44 JST／対象: 09/08 23:44 〜 09/09 11:44 JST（時刻はすべて日本時間）
+生成: 2026-09-09 11:58 JST／対象: 09/08 23:58 〜 09/09 11:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/08 23:50 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 234 | 09/08 23:49 | 09/09 11:40 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 182 | 09/08 23:48 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
+| DeItaone | 5 | 09/09 00:42 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
+| FirstSquawk | 231 | 09/08 23:59 | 09/09 11:55 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 176 | 09/08 23:58 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 414 行（統合前 422 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 404 行（統合前 412 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 23:48 [financialjuice] Kyiv’s allies see the war going into 2027 after Putin met with the US envoys.
-- 09/08 23:49 [FirstSquawk] KYIV'S SUPPORTERS PREDICT WAR COULD LAST UNTIL 2027 FOLLOWING PUTIN'S MEETING WITH U.S. OFFICIALS.
-- 09/08 23:50 [DeItaone] IRGC CLAIMS CAPTURE OF U.S. UNMANNED SUBMARINE Iran’s Islamic Revolutionary Guard Corps (IRGC) Navy claims it captured a U.S. unmanned submarine near the entrance to the Strait of Hormuz. The IRGC said the operation relied on intelligence a…
-- 09/08 23:51 [financialjuice] US Treasury Secretary Bessent on Canada moves: Canada's PM Carney needs to stop campaigning.
-- 09/08 23:51 [financialjuice] Iran's IRGC Navy: We have captured an unmanned US submersible at entrance of the Strait of Hormuz - State Media.
-- 09/08 23:52 [FirstSquawk] BESSENT SAYS CARNEY SHOULD 'STOP CAMPAIGNING' REGARDING CANADIAN ACTIONS.
-- 09/08 23:52 [FirstSquawk] BESSENT BELIEVES THEY WILL OVERCOME THE TRADE DISPUTE WITH CANADA.
-- 09/08 23:52 [financialjuice] US Treasury Secretary Bessent: I think we will get through the Canada trade spat.
-- 09/08 23:53 [financialjuice] US Treasury Secretary Bessent: A Canada trade war would add 0.02% to US inflation.
-- 09/08 23:55 [FirstSquawk] TRUMP REPEATS THAT IRAN WILL NEVER OBTAIN A NUCLEAR WEAPON.
-- 09/08 23:55 [FirstSquawk] TRUMP SAYS THE BLOCKADE ON IRAN HAS BEEN 'HIGHLY EFFECTIVE.'
-- 09/08 23:58 [financialjuice] Trump: US Commerce Secretary Lutnick has some faults but is excellent overall.
 - 09/08 23:58 [financialjuice] US Treasury Secretary Bessent repeats on inflation: There's short-term energy spike.
 - 09/08 23:59 [FirstSquawk] TRUMP SAYS LUTNICK HAS 'A FEW FAULTS' BUT IS EXCELLENT OVERALL.
 - 09/08 23:59 [FirstSquawk] BESSENT SAYS INFLATION PERSISTS, ENERGY PRICES RISE SHORT-TERM.
@@ -438,3 +426,5 @@
 - 09/09 11:36 [FirstSquawk] South Korean Stocks Advance 2% as KOSPI Climbs
 - 09/09 11:37 [FirstSquawk] Gemini Digital Payments Singapore Receives Major Payment Institution License From MAS
 - 09/09 11:40 [FirstSquawk] Oil heads for $100, Asia stocks subdued as Middle East tensions escalate - RTRS
+- 09/09 11:47 [FirstSquawk] Singapore Dollar Consolidates Ahead of U.S. PPI, CPI Data - WSJ
+- 09/09 11:55 [FirstSquawk] Hyundai Motor, AfDB agree to cooperate on Africa's energy transition, sustainable development - YONHAP

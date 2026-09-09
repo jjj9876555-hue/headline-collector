@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 11:44 JST／対象: 09/09 05:44 〜 09/09 11:44 JST（時刻はすべて日本時間）
+生成: 2026-09-09 11:58 JST／対象: 09/09 05:58 〜 09/09 11:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 100 | 09/09 05:54 | 09/09 11:40 | ⚠ 55分（06:40→07:35） |
+| FirstSquawk | 101 | 09/09 06:07 | 09/09 11:55 | ⚠ 55分（06:40→07:35） |
 | financialjuice | 72 | 09/09 06:02 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 169 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 05:54 [FirstSquawk] UAE PRESIDENT SHEIKH MOHAMMED BIN ZAYED REPORTEDLY WARNED NETANYAHU ABOUT A MAJOR PLANNED HAMAS OPERATION DAYS BEFORE OCT. 7, ACCORDING TO HAARETZ. NETANYAHU’S OFFICE DENIES THE REPORT AS AN “ABSOLUTE LIE,” WHILE THE ALLEGATION REIGNITES PO…
 - 09/09 06:02 [financialjuice] Chile's central bank: will take necessary steps to ensure projected inflation hits 3% over two-year period
 - 09/09 06:04 [financialjuice] Chile’s central bank: local economy may regain strength by 2027 but current weakness could last longer than expected
 - 09/09 06:05 [financialjuice] South Korea presidential office: South Korea, France discussed roles in Strait of Hormuz security, not troop deployment
@@ -193,3 +192,5 @@
 - 09/09 11:36 [FirstSquawk] South Korean Stocks Advance 2% as KOSPI Climbs
 - 09/09 11:37 [FirstSquawk] Gemini Digital Payments Singapore Receives Major Payment Institution License From MAS
 - 09/09 11:40 [FirstSquawk] Oil heads for $100, Asia stocks subdued as Middle East tensions escalate - RTRS
+- 09/09 11:47 [FirstSquawk] Singapore Dollar Consolidates Ahead of U.S. PPI, CPI Data - WSJ
+- 09/09 11:55 [FirstSquawk] Hyundai Motor, AfDB agree to cooperate on Africa's energy transition, sustainable development - YONHAP
