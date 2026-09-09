@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 00:17 JST／対象: 09/09 12:17 〜 09/10 00:17 JST（時刻はすべて日本時間）
+生成: 2026-09-10 00:35 JST／対象: 09/09 12:35 〜 09/10 00:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/09 16:31 | 09/09 23:16 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 181 | 09/09 12:23 | 09/10 00:14 | 19分（16:10→16:29） |
-| financialjuice | 75 | 09/09 12:39 | 09/10 00:10 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 183 | 09/09 12:36 | 09/10 00:32 | 19分（16:10→16:29） |
+| financialjuice | 79 | 09/09 12:39 | 09/10 00:31 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 274 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 280 行（統合前 289 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 12:23 [FirstSquawk] RBC Begins AstraZeneca Coverage With Outperform Recommendation, Target Price 14,500p
-- 09/09 12:29 [FirstSquawk] S. Korea, UNDP sign agreement on mine removal cooperation - yonhap
 - 09/09 12:36 [FirstSquawk] President Lee conferred France's highest decoration for promoting bilateral ties - yonhap
 - 09/09 12:39 [financialjuice] China finance ministry auctions 50-year ultra-long special treasury bonds at 2.2778% yield: traders
 - 09/09 12:39 [FirstSquawk] China Sells 50-Year Ultra-Long Special Treasury Bonds at 2.2778% Yield, Traders Say
@@ -298,3 +296,11 @@
 - 09/10 00:14 [FirstSquawk] US TREASURY TO PURCHASE UP TO $6 BILLION IN 10 TO 20-YEAR BONDS ON SEPTEMBER 10TH.
 - 09/10 00:14 [FirstSquawk] S&P 500 DROPS BY 0.5%; NASDAQ 100 FALLS BY 0.4%.
 - 09/10 00:14 [FirstSquawk] LOCKHEED MARTIN RECEIVES $1.32 BILLION CONTRACT TO DEVELOP AUSTRALIA'S JOINT AIR BATTLE MANAGEMENT SYSTEM.
+- 09/10 00:18 [FirstSquawk] RUSSIA'S NOVOROSSIYSK GRAIN TERMINAL WAS HIT BY A DRONE ATTACK, CAUSING DAMAGE.
+- 09/10 00:19 [financialjuice] US Treasury Buyback Announcement
+- 09/10 00:19 [FirstSquawk] AMAZON AND WIWYNN PLAN TO EXPAND AN ADVANCED MANUFACTURING FACILITY IN TEXAS, ADDING NEARLY 1,000 JOBS AND STRENGTHENING THE US SUPPLY CHAIN.
+- 09/10 00:22 [financialjuice] The Treasury updates the buyback schedule to show long term operations of at least $4b.
+- 09/10 00:31 [financialjuice] Pakistan's Defense Minister Expresses Hope for a Lasting Resolution to Issues Between Saudi Arabia and Yemen - IRNA
+- 09/10 00:31 [financialjuice] Pakistan Defense Minister reaffirms commitment to joint defense agreement with Saudi Arabia and Turkey - IRNA
+- 09/10 00:32 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.36%; GERMANY'S DAX DOWN 1.74%
+- 09/10 00:32 [FirstSquawk] FRANCE'S CAC 40 DOWN 1.87%; SPAIN'S IBEX DOWN 1.58%

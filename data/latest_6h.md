@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 00:17 JST／対象: 09/09 18:17 〜 09/10 00:17 JST（時刻はすべて日本時間）
+生成: 2026-09-10 00:35 JST／対象: 09/09 18:35 〜 09/10 00:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/09 18:32 | 09/09 23:16 | ⚠ 56分（22:19→23:16） |
-| FirstSquawk | 92 | 09/09 18:20 | 09/10 00:14 | 18分（23:04→23:23） |
-| financialjuice | 62 | 09/09 18:21 | 09/10 00:10 | 35分（21:20→21:55） |
+| DeItaone | 22 | 09/09 18:47 | 09/09 23:16 | ⚠ 56分（22:19→23:16） |
+| FirstSquawk | 93 | 09/09 18:36 | 09/10 00:32 | 18分（23:04→23:23） |
+| financialjuice | 64 | 09/09 19:03 | 09/10 00:31 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 172 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 174 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 18:20 [FirstSquawk] FRENCH PRIME MINISTER PLANS TO REDUCE ONE-OFF TAX ON LARGE COMPANIES IN UPCOMING BUDGET.
-- 09/09 18:21 [financialjuice] French PM Lecornu: We aim to lower one-off tax on big companies in budget.
-- 09/09 18:31 [FirstSquawk] CANADA'S LARGEST ICEBREAKER STARTS TO COME TOGETHER.
-- 09/09 18:32 [DeItaone] US HITS IRANIAN TANKERS AS OIL BREAKS $100 The US destroyed five more Iranian oil tankers overnight after Iran allegedly targeted an American warship. No US personnel were hurt. Iran reportedly retaliated against US warships and tankers and…
-- 09/09 18:32 [financialjuice] GERMAN 10 YR BUND BID-TO-COVER ACTUAL 1.5 (FORECAST -, PREVIOUS -) $MACRO
-- 09/09 18:34 [FirstSquawk] US AND EUROPE REQUEST IRAN TO ENGAGE IN UNCONDITIONAL TALKS.
 - 09/09 18:36 [FirstSquawk] BRITISH AIRWAYS: CANCELLED MORE THAN 190 FLIGHTS OF WEDNESDAY'S ORIGINAL PLANNED SCHEDULE
 - 09/09 18:47 [DeItaone] CHINA HITS BACK AT US OVER AI CLAIMS China rejected US claims that six Chinese AI companies systematically used American models to develop their technology. US agencies accused DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun and https://t.…
 - 09/09 18:47 [FirstSquawk] CSU LEADER MARKUS SÖDER STATES THAT EVERY CRIME AND KNIFE ATTACK IS EXAGGERATED ONLINE, MAKING IT SEEM LIKE THE COUNTRY IS CHAOTIC. HE ASSERTS THAT BAVARIA IS IN ITS SAFEST CONDITION SINCE 1978.
@@ -196,3 +190,11 @@
 - 09/10 00:14 [FirstSquawk] US TREASURY TO PURCHASE UP TO $6 BILLION IN 10 TO 20-YEAR BONDS ON SEPTEMBER 10TH.
 - 09/10 00:14 [FirstSquawk] S&P 500 DROPS BY 0.5%; NASDAQ 100 FALLS BY 0.4%.
 - 09/10 00:14 [FirstSquawk] LOCKHEED MARTIN RECEIVES $1.32 BILLION CONTRACT TO DEVELOP AUSTRALIA'S JOINT AIR BATTLE MANAGEMENT SYSTEM.
+- 09/10 00:18 [FirstSquawk] RUSSIA'S NOVOROSSIYSK GRAIN TERMINAL WAS HIT BY A DRONE ATTACK, CAUSING DAMAGE.
+- 09/10 00:19 [financialjuice] US Treasury Buyback Announcement
+- 09/10 00:19 [FirstSquawk] AMAZON AND WIWYNN PLAN TO EXPAND AN ADVANCED MANUFACTURING FACILITY IN TEXAS, ADDING NEARLY 1,000 JOBS AND STRENGTHENING THE US SUPPLY CHAIN.
+- 09/10 00:22 [financialjuice] The Treasury updates the buyback schedule to show long term operations of at least $4b.
+- 09/10 00:31 [financialjuice] Pakistan's Defense Minister Expresses Hope for a Lasting Resolution to Issues Between Saudi Arabia and Yemen - IRNA
+- 09/10 00:31 [financialjuice] Pakistan Defense Minister reaffirms commitment to joint defense agreement with Saudi Arabia and Turkey - IRNA
+- 09/10 00:32 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.36%; GERMANY'S DAX DOWN 1.74%
+- 09/10 00:32 [FirstSquawk] FRANCE'S CAC 40 DOWN 1.87%; SPAIN'S IBEX DOWN 1.58%
