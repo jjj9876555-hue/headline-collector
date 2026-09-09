@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 07:32 JST／対象: 09/10 01:32 〜 09/10 07:32 JST（時刻はすべて日本時間）
+生成: 2026-09-10 07:44 JST／対象: 09/10 01:44 〜 09/10 07:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 09/10 01:38 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 52 | 09/10 01:39 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 73 | 09/10 01:32 | 09/10 07:00 | 28分（04:22→04:50） |
+| DeItaone | 24 | 09/10 02:13 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
+| FirstSquawk | 56 | 09/10 01:52 | 09/10 07:42 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 72 | 09/10 01:46 | 09/10 07:00 | 28分（04:22→04:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 147 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 146 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 01:32 [financialjuice] Iranian media: Reports of an oil tanker being targeted in the Strait of Hormuz - Al-Hadath
-- 09/10 01:38 [DeItaone] $AAPL - APPLE SLIPS AHEAD OF EXPECTED FOLDABLE IPHONE LAUNCH Apple shares fell 1.1% to $312.65 ahead of its first launch event under CEO John Ternus. Markets expect Apple to unveil its first foldable iPhone, potentially its biggest design o…
-- 09/10 01:39 [FirstSquawk] RUSSIA CLAIMS IT ATTACKED FACILITIES IN UKRAINE'S NIKOLAEV PORT, TARGETING LOGISTICS CENTERS, MILITARY, AND INDUSTRIAL SITES.
-- 09/10 01:42 [DeItaone] $AAPL - APPLE BETS ON FOLDABLE IPHONE TO DRIVE GROWTH Apple is expected to unveil its first foldable iPhone, targeting a mature smartphone market and aging consumers seeking larger screens. The device could cost more than $2,000, helping bo…
-- 09/10 01:42 [DeItaone] COPPER HITS RECORD AS GLOBAL SUPPLIES TIGHTEN Copper hit a fresh record of $14,802.50 a ton, as tight supplies outside the U.S. outweighed concerns over Middle East tensions and slowing growth. LME copper has surged about 25% since March, d…
 - 09/10 01:46 [financialjuice] Blast heard around Strait of Hormuz - IRIB
 - 09/10 01:50 [financialjuice] WATCH LIVE: Apple Event 1 PM ET $AAPL
 - 09/10 01:52 [FirstSquawk] BLAST REPORTED IN THE STRAIT OF HORMUZ, ACCORDING TO IRIB.
@@ -165,9 +160,13 @@
 - 09/10 06:22 [DeItaone] MULTIPLE EXPLOSIONS HEARD IN IRAN'S QESHM AND SIRIK - IRAN'S FARS
 - 09/10 06:27 [financialjuice] Israeli military: sirens alert hostile aircraft infiltration in multiple northern Israel areas
 - 09/10 06:30 [financialjuice] Iranian state media: multiple locations in Sirik struck by projectiles
-- 09/10 06:30 [financialjuice] AI researcher Andrew Tulloch departing Meta - Semafor
+- 09/10 06:30 [financialjuice/FirstSquawk] AI researcher Andrew Tulloch departing Meta - Semafor
 - 09/10 06:38 [financialjuice] Israeli military: hostile aircraft incursion in northern Israel was misidentification
 - 09/10 07:00 [financialjuice] Poll: total size of Japan's FY2027 budget requests raise worries about fiscal discipline: 74% of economists
 - 09/10 07:00 [financialjuice] Poll: joint US-Japan FX intervention, US Treasury chief Bessent's comments reduce political barriers for BoJ rate hikes, say 82% of economists
 - 09/10 07:00 [financialjuice] Poll: Bank of Japan to increase benchmark interest rate to 1.25% on September 18, say 97% of economists (up from 57% in August)
 - 09/10 07:00 [financialjuice] Poll: Bank of Japan to raise rates to minimum 1.75% in Q2 2027, 62% of economists say (vs. 1.50% in prior poll)
+- 09/10 07:34 [FirstSquawk] FITCH WARNS COLOMBIA’S BUDGET HAS A DEEP FISCAL IMBALANCE AND SAYS SIGNIFICANT ADDITIONAL MEASURES ARE NEEDED TO STABILIZE THE COUNTRY’S RISING DEBT.
+- 09/10 07:34 [FirstSquawk] FITCH SAYS FAILURE TO DELIVER STRONGER DEFICIT-REDUCTION MEASURES COULD PUT NEW PRESSURE ON COLOMBIA’S CREDIT RATING, WITH DEFICITS LIKELY TO EXCEED PRIOR FORECASTS EVEN IF THE 2.2% OF GDP CONSOLIDATION TARGET IS MET.
+- 09/10 07:35 [FirstSquawk] APPLIED MATERIALS CEO: SERVICES BUSINESS GROWING MORE THAN 20% Y/Y WITH MARGINS UP 180BPS; PACKAGING BUSINESS EXPECTED TO GROW MORE THAN 70% THIS YEAR.
+- 09/10 07:42 [FirstSquawk] OPENAI CUTS OFF ADOBE AND OTHERS FROM ADVERTISING IN IMAGE PRODUCTS - THE INFORMATION

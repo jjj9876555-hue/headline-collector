@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 07:32 JST／対象: 09/09 19:32 〜 09/10 07:32 JST（時刻はすべて日本時間）
+生成: 2026-09-10 07:44 JST／対象: 09/09 19:44 〜 09/10 07:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 47 | 09/09 19:33 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 144 | 09/09 19:37 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
+| DeItaone | 45 | 09/09 19:57 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 145 | 09/09 19:47 | 09/10 07:42 | ⚠ 126分（05:28→07:34） |
 | financialjuice | 151 | 09/09 19:47 | 09/10 07:00 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 334 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 333 行（統合前 342 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 19:33 [DeItaone] KREMLIN: EUROPE FEELING PAIN OF HIGHER GAS PRICES The Kremlin says Europe is suffering from soaring natural gas prices amid the Iran war and could cut costs by buying Russian gas. European gas prices recently reached their highest level sin…
-- 09/09 19:37 [FirstSquawk] AIRBNB SET TO FACE MORE RESTRICTIONS AS EUROPEAN COMMISSION PROPOSES NEW RULES TO TACKLE HOUSING CRUNCH
-- 09/09 19:37 [FirstSquawk] ANGOLA’S OIL AND GAS AGENCY ANPG, EXXONMOBIL AND BLOCK 15 PARTNERS ANNOUNCE NEW DISCOVERY IN OFFSHORE BLOCK 15- STATEMENT
-- 09/09 19:40 [FirstSquawk] AMAZON SEEKING AT LEAST £3 BILLION FROM FIRST STERLING BONDS
-- 09/09 19:43 [FirstSquawk/DeItaone] IRAN SAYS SHIPS PASSING RESTRICTED HORMUZ ZONE FACE SANCTIONS
 - 09/09 19:47 [FirstSquawk] IRAN'S IRGC SPOKESPERSON SAYS MARITIME RESTRICTED AREA EXTENDS FROM CHABAHAR INTO PARTS OF GULF OF OMAN AND ARABIAN SEA
 - 09/09 19:47 [FirstSquawk] IRGC SPOKESPERSON SAYS PRECISE COORDINATES OF RESTRICTED AREA WILL BE ANNOUNCED - FARS
 - 09/09 19:47 [financialjuice] Iran's IRGC Spokesperson: Maritime restricted area extends from Chabahar into parts of Gulf of Oman and Arabian Sea.
@@ -352,9 +347,13 @@
 - 09/10 06:22 [DeItaone] MULTIPLE EXPLOSIONS HEARD IN IRAN'S QESHM AND SIRIK - IRAN'S FARS
 - 09/10 06:27 [financialjuice] Israeli military: sirens alert hostile aircraft infiltration in multiple northern Israel areas
 - 09/10 06:30 [financialjuice] Iranian state media: multiple locations in Sirik struck by projectiles
-- 09/10 06:30 [financialjuice] AI researcher Andrew Tulloch departing Meta - Semafor
+- 09/10 06:30 [financialjuice/FirstSquawk] AI researcher Andrew Tulloch departing Meta - Semafor
 - 09/10 06:38 [financialjuice] Israeli military: hostile aircraft incursion in northern Israel was misidentification
 - 09/10 07:00 [financialjuice] Poll: total size of Japan's FY2027 budget requests raise worries about fiscal discipline: 74% of economists
 - 09/10 07:00 [financialjuice] Poll: joint US-Japan FX intervention, US Treasury chief Bessent's comments reduce political barriers for BoJ rate hikes, say 82% of economists
 - 09/10 07:00 [financialjuice] Poll: Bank of Japan to increase benchmark interest rate to 1.25% on September 18, say 97% of economists (up from 57% in August)
 - 09/10 07:00 [financialjuice] Poll: Bank of Japan to raise rates to minimum 1.75% in Q2 2027, 62% of economists say (vs. 1.50% in prior poll)
+- 09/10 07:34 [FirstSquawk] FITCH WARNS COLOMBIA’S BUDGET HAS A DEEP FISCAL IMBALANCE AND SAYS SIGNIFICANT ADDITIONAL MEASURES ARE NEEDED TO STABILIZE THE COUNTRY’S RISING DEBT.
+- 09/10 07:34 [FirstSquawk] FITCH SAYS FAILURE TO DELIVER STRONGER DEFICIT-REDUCTION MEASURES COULD PUT NEW PRESSURE ON COLOMBIA’S CREDIT RATING, WITH DEFICITS LIKELY TO EXCEED PRIOR FORECASTS EVEN IF THE 2.2% OF GDP CONSOLIDATION TARGET IS MET.
+- 09/10 07:35 [FirstSquawk] APPLIED MATERIALS CEO: SERVICES BUSINESS GROWING MORE THAN 20% Y/Y WITH MARGINS UP 180BPS; PACKAGING BUSINESS EXPECTED TO GROW MORE THAN 70% THIS YEAR.
+- 09/10 07:42 [FirstSquawk] OPENAI CUTS OFF ADOBE AND OTHERS FROM ADVERTISING IN IMAGE PRODUCTS - THE INFORMATION

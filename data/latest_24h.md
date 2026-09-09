@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 07:32 JST／対象: 09/09 07:32 〜 09/10 07:32 JST（時刻はすべて日本時間）
+生成: 2026-09-10 07:44 JST／対象: 09/09 07:44 〜 09/10 07:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 342 | 09/09 07:35 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 219 | 09/09 07:34 | 09/10 07:00 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 345 | 09/09 07:45 | 09/10 07:42 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 217 | 09/09 07:45 | 09/10 07:00 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 604 行（統合前 619 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 604 行（統合前 620 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 07:34 [financialjuice] Google, Blackstone venture encounters delays at data-center sites
-- 09/09 07:35 [FirstSquawk] U.S. CENTRAL COMMAND SAYS ITS FORCES DESTROYED FIVE IRANIAN CRUDE OIL CARRIERS ON SEPT. 8, AFTER THE IRGC TARGETED A U.S. NAVY WARSHIP WITH BALLISTIC MISSILES TWICE OVER THE PAST TWO DAYS, WITH THE WARSHIP SUCCESSFULLY EVADING THE ATTEMPTED…
-- 09/09 07:39 [FirstSquawk] AMAZON SAYS OPENAI'S GPT-6 ASTRA IS NOW AVAILABLE ON AMAZON BEDROCK, WITH OPENAI INTRODUCING NEW ENTERPRISE PLUGINS FOR CHATGPT WORK THAT EXTEND ASTRA'S BROWSER-USE CAPABILITIES ACROSS COMMON BUSINESS APPLICATIONS
-- 09/09 07:44 [financialjuice] Iran's Revolutionary Guards: attacked alleged U.S. base in Jordan, no immediate Jordanian confirmation - Iranian state media
 - 09/09 07:45 [financialjuice] Iran’s Revolutionary Guards: attack in retaliation for US strikes on Iranian oil tankers - Iranian state media
 - 09/09 07:45 [FirstSquawk] IRAN'S REVOLUTIONARY GUARDS SAY THEY ATTACKED WHAT THEY DESCRIBED AS A U.S. BASE IN JORDAN, IN RETALIATION FOR U.S. ATTACKS ON IRANIAN OIL TANKERS, WITH NO IMMEDIATE JORDANIAN CONFIRMATION - IRANIAN STATE MEDIA
 - 09/09 07:52 [FirstSquawk] UKMTO SAYS IT HAS RECEIVED A REPORT INVOLVING A MERCHANT VESSEL IN THE STRAIT OF HORMUZ, WITH THE VESSEL SUBJECT TO INTERACTION AS PART OF ONGOING MILITARY ACTIVITY IN THE REGION
@@ -622,9 +618,13 @@
 - 09/10 06:22 [DeItaone] MULTIPLE EXPLOSIONS HEARD IN IRAN'S QESHM AND SIRIK - IRAN'S FARS
 - 09/10 06:27 [financialjuice] Israeli military: sirens alert hostile aircraft infiltration in multiple northern Israel areas
 - 09/10 06:30 [financialjuice] Iranian state media: multiple locations in Sirik struck by projectiles
-- 09/10 06:30 [financialjuice] AI researcher Andrew Tulloch departing Meta - Semafor
+- 09/10 06:30 [financialjuice/FirstSquawk] AI researcher Andrew Tulloch departing Meta - Semafor
 - 09/10 06:38 [financialjuice] Israeli military: hostile aircraft incursion in northern Israel was misidentification
 - 09/10 07:00 [financialjuice] Poll: total size of Japan's FY2027 budget requests raise worries about fiscal discipline: 74% of economists
 - 09/10 07:00 [financialjuice] Poll: joint US-Japan FX intervention, US Treasury chief Bessent's comments reduce political barriers for BoJ rate hikes, say 82% of economists
 - 09/10 07:00 [financialjuice] Poll: Bank of Japan to increase benchmark interest rate to 1.25% on September 18, say 97% of economists (up from 57% in August)
 - 09/10 07:00 [financialjuice] Poll: Bank of Japan to raise rates to minimum 1.75% in Q2 2027, 62% of economists say (vs. 1.50% in prior poll)
+- 09/10 07:34 [FirstSquawk] FITCH WARNS COLOMBIA’S BUDGET HAS A DEEP FISCAL IMBALANCE AND SAYS SIGNIFICANT ADDITIONAL MEASURES ARE NEEDED TO STABILIZE THE COUNTRY’S RISING DEBT.
+- 09/10 07:34 [FirstSquawk] FITCH SAYS FAILURE TO DELIVER STRONGER DEFICIT-REDUCTION MEASURES COULD PUT NEW PRESSURE ON COLOMBIA’S CREDIT RATING, WITH DEFICITS LIKELY TO EXCEED PRIOR FORECASTS EVEN IF THE 2.2% OF GDP CONSOLIDATION TARGET IS MET.
+- 09/10 07:35 [FirstSquawk] APPLIED MATERIALS CEO: SERVICES BUSINESS GROWING MORE THAN 20% Y/Y WITH MARGINS UP 180BPS; PACKAGING BUSINESS EXPECTED TO GROW MORE THAN 70% THIS YEAR.
+- 09/10 07:42 [FirstSquawk] OPENAI CUTS OFF ADOBE AND OTHERS FROM ADVERTISING IN IMAGE PRODUCTS - THE INFORMATION
