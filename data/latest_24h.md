@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 04:43 JST／対象: 09/09 04:43 〜 09/10 04:43 JST（時刻はすべて日本時間）
+生成: 2026-09-10 04:54 JST／対象: 09/09 04:54 〜 09/10 04:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 53 | 09/09 05:31 | 09/10 03:34 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 356 | 09/09 04:48 | 09/10 04:07 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 228 | 09/09 04:47 | 09/10 04:22 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 353 | 09/09 04:55 | 09/10 04:51 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 223 | 09/09 05:01 | 09/10 04:50 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 623 行（統合前 640 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 615 行（統合前 632 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 04:47 [financialjuice] Broadcom CEO: Can lock in chip supply for 2027, in process of locking in 2028 supply - Goldman Sachs Conference $AVGO
-- 09/09 04:48 [FirstSquawk] TURKEY CONDEMNS HOUTHI ATTACKS ON SAUDI ARABIA IN THE STRONGEST TERMS, REAFFIRMS SOLIDARITY WITH RIYADH & WARNS AGAINST FURTHER REGIONAL ESCALATION.
-- 09/09 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1393.9 MLN NASDAQ 100: -394.0 MLN DOW 30: -266.3 MLN MAG 7: -122.9 MLN $MACRO
-- 09/09 04:51 [FirstSquawk] FORD’S USE OF CHINESE TECH CALLED ‘UNACCEPTABLE’ BY US TRANSPORT SEC – WSJ
-- 09/09 04:52 [FirstSquawk] TRUMP TO DELIVER KEYNOTE ADDRESS AT GOP MIDTERM CONVENTION WEDNESDAY EVENING IN DALLAS; SPEECH SCHEDULED FOR 8–9 PM CT / 9–10 PM ET.
-- 09/09 04:52 [financialjuice] Iran launched an attack against US Navy ships on Monday that the US military has yet to acknowledge - WSJ
-- 09/09 04:52 [financialjuice] No American ships were struck in Iran's Monday attacks - WSJ
-- 09/09 04:53 [financialjuice] Iran Launched Undisclosed Second Wave of Attacks on US Navy Ships - WSH
-- 09/09 04:53 [FirstSquawk] IRAN LAUNCHED A MISSILE ATTACK ON US NAVY WARSHIPS MONDAY, BUT NO AMERICAN SHIP WAS HIT || THE US MILITARY HAS YET TO PUBLICLY ACKNOWLEDGE THE ATTACK, ACCORDING TO WSJ
-- 09/09 04:53 [financialjuice] Iran Launched Undisclosed Second Wave of Attacks on US Navy Ships - WSJ Iran launched an attack against U.S. Navy ships on Monday that the U.S. military has yet to acknowledge, according to U.S. officials, after firing ballistic missiles at…
 - 09/09 04:55 [FirstSquawk] IRAN LAUNCHED A SECOND, PREVIOUSLY UNDISCLOSED ATTACK ON US NAVY SHIPS MONDAY, ACCORDING TO US OFFICIALS CITED BY WSJ; NO AMERICAN VESSELS WERE HIT, BUT THE ATTACKS RAISE CONCERNS OVER IRAN’S GROWING MISSILE CAPABILITIES AND POSSIBLE CHINES…
 - 09/09 05:01 [financialjuice] Iran's IRGC Navy warns all crew of oil tankers in the vicinity of Kuwaiti and Bahraini ports that host Americans to evacuate - State Media.
 - 09/09 05:02 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 102.72 POINTS, OR 0.39%, AT 26,404.27. S&P 500 UNOFFICIALLY CLOSES DOWN 49.45 POINTS, OR 0.64%, AT 7,669.15. DOW JONES UNOFFICIALLY CLOSES DOWN 659.77 POINTS, OR 1.24%, AT 52,754.48.
@@ -647,3 +637,5 @@
 - 09/10 04:07 [FirstSquawk] ANTHROPIC COULD NOT IDENTIFY A SINGLE ROOT CAUSE FOR CLAUDE MYTHOS 5’S BIASED REASONING, BUT SAYS SUCH BIASED BEHAVIOR HAS DECLINED ACROSS ITS PRODUCTION MODELS OVER TIME.
 - 09/10 04:20 [financialjuice] Senator Blumenthal asks OpenAI's Altman about safeguards and Hugging Face.
 - 09/10 04:22 [financialjuice] Thursday FX Options Expiries
+- 09/10 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -745.9 MLN NASDAQ 100: 122.0 MLN DOW 30: -476.3 MLN MAG 7: 27.8 MLN $MACRO
+- 09/10 04:51 [FirstSquawk] COPPER HITS FRESH RECORD HIGHS IN LONDON AND NEW YORK AS TARIFF FEARS AND A GLOBAL SUPPLY CRUNCH DRIVE A RALLY, WITH LME COPPER REACHING $14,858.50/TON. AI DATA CENTERS, RENEWABLES, EVS AND POWER-GRID EXPANSION ARE BOOSTING LONG-TERM DEMAND…
