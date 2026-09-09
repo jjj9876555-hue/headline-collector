@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 01:58 JST／対象: 09/09 13:58 〜 09/10 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-10 02:16 JST／対象: 09/09 14:16 〜 09/10 02:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/09 16:31 | 09/10 01:42 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 174 | 09/09 13:59 | 09/10 01:52 | 28分（00:32→01:01） |
-| financialjuice | 95 | 09/09 13:59 | 09/10 01:53 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 35 | 09/09 16:31 | 09/10 02:16 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 170 | 09/09 14:19 | 09/10 01:52 | 28分（00:32→01:01） |
+| financialjuice | 101 | 09/09 17:26 | 09/10 02:15 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 295 行（統合前 301 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 301 行（統合前 307 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 13:59 [financialjuice] Israel tells British consulate in east Jerusalem to shut within 30 days, Israeli official says
-- 09/09 13:59 [FirstSquawk] British Consulate in East Jerusalem Ordered to Shut Within 30 Days by Israel, Official Says
-- 09/09 14:00 [financialjuice] Israel tells British consulate in East Jerusalem its diplomats will lose accreditation within 30 days, Israeli official says
-- 09/09 14:00 [FirstSquawk] British Consulate Diplomats in East Jerusalem Face Loss of Accreditation Within 30 Days, Israeli Official Says
-- 09/09 14:10 [FirstSquawk] Kazakhstan Gold and Foreign Currency Reserves Reach $68.562 Billion in August, Increasing 11.8% M/M
-- 09/09 14:12 [FirstSquawk] Gold Prices Edge Higher Amid Softer Dollar, Inflation Data Ahead and Mideast Tensions
 - 09/09 14:19 [FirstSquawk] China needs monkeys: lab animal shortage could hinder biotech growth - SCMP
 - 09/09 14:20 [FirstSquawk] Heathrow Says Flights Are Operating Today, With Some Disruption Expected as Airlines Reposition Aircraft and Staff
 - 09/09 14:36 [FirstSquawk] USD/JPY Drops 0.48% to 153.29
@@ -319,3 +313,15 @@
 - 09/10 01:50 [financialjuice] WATCH LIVE: Apple Event 1 PM ET $AAPL
 - 09/10 01:52 [FirstSquawk] BLAST REPORTED IN THE STRAIT OF HORMUZ, ACCORDING TO IRIB.
 - 09/10 01:53 [financialjuice] ❗ Russia's Siluanov: Russia weighs $50/bbl budget rule oil price - IFX.
+- 09/10 02:00 [financialjuice] Treasury WI 10 yr yield 4.849% before $39 billion auction
+- 09/10 02:02 [financialjuice] US 10-YEAR NOTE HIGH YIELD ACTUAL 4.834% (FORECAST -, PREVIOUS 4.683%) $MACRO
+- 09/10 02:02 [financialjuice] US 10-YEAR NOTE BID-TO-COVER ACTUAL 2.71 (FORECAST -, PREVIOUS 2.530) $MACRO
+- 09/10 02:03 [financialjuice] US 10-Year Note Auction
+- 09/10 02:03 [financialjuice] US 10-Year Note Auction High Yield 4.834% [Stop-through 1.5 bps] Bid-to-cover 2.71 Sells 39 bln Awards 89.25% of bids at high Primary Dealers take 4.3% Direct 16.5% Indirect 79.2%
+- 09/10 02:08 [financialjuice] Apple unveils iPhone 18 Pro and iPhone 18 Pro Max at event
+- 09/10 02:13 [DeItaone] APPLE: APPLE INTELLIGENCE IS NOT AVAILABLE IN CHINA - EVENT
+- 09/10 02:14 [DeItaone] APPLE: UPDATED SIRI WILL NOT BE AVAILABLE IN EU AND CHINA – EVENT
+- 09/10 02:14 [financialjuice] Apple: Apple Intelligence is not available in China or the EU - Event. $AAPL
+- 09/10 02:14 [DeItaone] APPLE ANNONCES A20 PRO CHIP BASED ON 2NM TECHNOLOGY - EVENT
+- 09/10 02:15 [financialjuice] Apple announces A20 Pro chip based on 2NM technology $AAPL
+- 09/10 02:16 [DeItaone] APPLE: A20 PRO CHIP HAS SEVEN GPU CORES - EVENT

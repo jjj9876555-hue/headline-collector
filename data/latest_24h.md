@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 01:58 JST／対象: 09/09 01:58 〜 09/10 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-10 02:16 JST／対象: 09/09 02:16 〜 09/10 02:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 35 | 09/09 02:40 | 09/10 01:42 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 382 | 09/09 02:02 | 09/10 01:52 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 219 | 09/09 02:00 | 09/10 01:53 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 39 | 09/09 02:40 | 09/10 02:16 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 379 | 09/09 02:33 | 09/10 01:52 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 218 | 09/09 02:35 | 09/10 02:15 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 622 行（統合前 639 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,18 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 02:00 [financialjuice] Treasury WI 3-Year yield 4.475% before $58 billion auction.
-- 09/09 02:01 [financialjuice] Alerts activated in Saudi Arabia's Jazan - Civil Defence.
-- 09/09 02:02 [FirstSquawk] ALERTS ACTIVATED IN JAZAN, SAUDI ARABIA - CIVIL DEFENCE
-- 09/09 02:02 [financialjuice] Russian Lavrov: Putin may meet Trump, Xi at APEC in November - IFX
-- 09/09 02:02 [financialjuice] US 3-YEAR NOTE HIGH YIELD ACTUAL 4.474% (FORECAST -, PREVIOUS 4.291%) $MACRO
-- 09/09 02:02 [financialjuice] US 3-YEAR NOTE BID-TO-COVER ACTUAL 2.720 (FORECAST -, PREVIOUS 2.710) $MACRO
-- 09/09 02:03 [financialjuice] US 3-Year Note Auction High Yield 4.474% [Stop-through 0.1 bps] Bid-to-cover 2.72 Sells 58 bln Awards 29.35% of bids at high Primary Dealers take 10.9% Direct 26.9% Indirect 62.1%
-- 09/09 02:04 [financialjuice] Saudi Arabia: Early warning issued in Najran and Abha province.
-- 09/09 02:07 [FirstSquawk] US 3-Year Note Sale: - High Yield Rate: 4.474% (prev 4.291%) - Bid-Cover Ratio: 2.72 (prev 2.71) - Direct Accepted: 26.9% (prev 24.0%) - Indirect Accepted: 62.1% (prev 64.2%) - WI: 4.475%
-- 09/09 02:07 [FirstSquawk] Danger Has Passed In Jazan Province – Saudi Civil Defence
-- 09/09 02:08 [financialjuice] Saudi Arabia: Danger passed in Abha and Jazan after warning.
-- 09/09 02:12 [financialjuice] Saudi Arabia: Danger passed in the Najran province
 - 09/09 02:33 [FirstSquawk] U.S. POWDER RIVER BASIN COAL PRICES WERE UNCHANGED AT $14.50/TON FOR THE WEEK ENDING SEPT. 4, WITH NORTHERN APPALACHIAN PRICES ALSO UNCHANGED AT $70.25/TON
 - 09/09 02:33 [FirstSquawk] U.S. ILLINOIS BASIN COAL PRICES WERE UNCHANGED AT $55.00/TON FOR THE WEEK ENDING SEPT. 4, WITH CENTRAL APPALACHIAN PRICES ALSO UNCHANGED AT $81.00/TON
 - 09/09 02:34 [FirstSquawk] SAUDI ARABIA SAYS THE DANGER HAS PASSED IN THE NAJRAN PROVINCE, AND IN ABHA AND JAZAN AFTER A WARNING
@@ -646,3 +634,15 @@
 - 09/10 01:50 [financialjuice] WATCH LIVE: Apple Event 1 PM ET $AAPL
 - 09/10 01:52 [FirstSquawk] BLAST REPORTED IN THE STRAIT OF HORMUZ, ACCORDING TO IRIB.
 - 09/10 01:53 [financialjuice] ❗ Russia's Siluanov: Russia weighs $50/bbl budget rule oil price - IFX.
+- 09/10 02:00 [financialjuice] Treasury WI 10 yr yield 4.849% before $39 billion auction
+- 09/10 02:02 [financialjuice] US 10-YEAR NOTE HIGH YIELD ACTUAL 4.834% (FORECAST -, PREVIOUS 4.683%) $MACRO
+- 09/10 02:02 [financialjuice] US 10-YEAR NOTE BID-TO-COVER ACTUAL 2.71 (FORECAST -, PREVIOUS 2.530) $MACRO
+- 09/10 02:03 [financialjuice] US 10-Year Note Auction
+- 09/10 02:03 [financialjuice] US 10-Year Note Auction High Yield 4.834% [Stop-through 1.5 bps] Bid-to-cover 2.71 Sells 39 bln Awards 89.25% of bids at high Primary Dealers take 4.3% Direct 16.5% Indirect 79.2%
+- 09/10 02:08 [financialjuice] Apple unveils iPhone 18 Pro and iPhone 18 Pro Max at event
+- 09/10 02:13 [DeItaone] APPLE: APPLE INTELLIGENCE IS NOT AVAILABLE IN CHINA - EVENT
+- 09/10 02:14 [DeItaone] APPLE: UPDATED SIRI WILL NOT BE AVAILABLE IN EU AND CHINA – EVENT
+- 09/10 02:14 [financialjuice] Apple: Apple Intelligence is not available in China or the EU - Event. $AAPL
+- 09/10 02:14 [DeItaone] APPLE ANNONCES A20 PRO CHIP BASED ON 2NM TECHNOLOGY - EVENT
+- 09/10 02:15 [financialjuice] Apple announces A20 Pro chip based on 2NM technology $AAPL
+- 09/10 02:16 [DeItaone] APPLE: A20 PRO CHIP HAS SEVEN GPU CORES - EVENT

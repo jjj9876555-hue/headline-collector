@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 01:58 JST／対象: 09/09 19:58 〜 09/10 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-10 02:16 JST／対象: 09/09 20:16 〜 09/10 02:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/09 19:58 | 09/10 01:42 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 88 | 09/09 20:00 | 09/10 01:52 | 28分（00:32→01:01） |
-| financialjuice | 78 | 09/09 20:00 | 09/10 01:53 | 35分（21:20→21:55） |
+| DeItaone | 20 | 09/09 20:35 | 09/10 02:16 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 83 | 09/09 20:24 | 09/10 01:52 | 28分（00:32→01:01） |
+| financialjuice | 83 | 09/09 20:26 | 09/10 02:15 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 184 行（統合前 187 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,18 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 19:58 [DeItaone] IRAN EXPANDS MARITIME RESTRICTED ZONE Iran’s Revolutionary Guards said a new maritime restricted zone will extend from Chabahar into parts of the Gulf of Oman and Arabian Sea, with exact coordinates to be announced. The move follows Tehran’…
-- 09/09 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -2.7% (FORECAST -, PREVIOUS 0.8%) $MACRO
-- 09/09 20:00 [FirstSquawk] UKMTO RECEIVED A REPORT OF AN INCIDENT 28 NM SOUTHEAST OF FAW, IRAQ, WHERE A VESSEL WAS HIT BY A PROJECTILE, BUT THE CREW IS SAFE.
-- 09/09 20:00 [FirstSquawk] UKMTO REPORTS NO ENVIRONMENTAL IMPACT AT THIS TIME.
-- 09/09 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 6.85% (FORECAST -, PREVIOUS 6.79%) $MACRO
-- 09/09 20:00 [FirstSquawk] US MBA MORTGAGE APPLICATIONS FELL BY 2.7% ON SEP-04, DOWN FROM 0.8% PREVIOUSLY.
-- 09/09 20:02 [DeItaone] US MORTGAGE DEMAND FALLS AS RATES HIT 6.85% US mortgage applications fell 2.7% last week, according to the Mortgage Bankers Association. Refinancing applications dropped 6.2%, while home-purchase applications slipped 0.2%. The average 30-ye…
-- 09/09 20:04 [DeItaone] IRGC: WE WILL HIT 20 TARGETS FOR EVERY 2 OR 3 STRUCK Iran’s Revolutionary Guards warned they would respond forcefully to further attacks, saying every two or three Iranian targets hit could trigger strikes on 20 enemy targets. The IRGC also…
-- 09/09 20:08 [DeItaone] U.S. BANK LAUNCHES ITS OWN STABLECOIN U.S. Bank has successfully tested USBDC, its proprietary dollar-backed stablecoin, in a live cross-border payment between its North American and European operations. The transaction ran on the Stellar b…
-- 09/09 20:10 [financialjuice] UK's PM Burnham: Will take pragmatic approach on North Sea oil and gas.
-- 09/09 20:11 [FirstSquawk] GERMAN GOVT SPOKESPERSON: WE USUALLY AVOID COMMENTING ON REMARKS BY OTHER WORLD LEADERS.
-- 09/09 20:11 [FirstSquawk] BURNHAM WILL USE A PRACTICAL METHOD FOR NORTH SEA OIL AND GAS.
 - 09/09 20:24 [FirstSquawk] US BANK LAUNCHES USBDC STABLECOIN
 - 09/09 20:24 [FirstSquawk] UK PM BURNHAM: WILL TAKE PRAGMATIC APPROACH ON NORTH SEA OIL AND GAS
 - 09/09 20:26 [FirstSquawk] BURNHAM: PLAN FURTHER MEASURES ON COST OF LIVING THIS YEAR
@@ -208,3 +196,15 @@
 - 09/10 01:50 [financialjuice] WATCH LIVE: Apple Event 1 PM ET $AAPL
 - 09/10 01:52 [FirstSquawk] BLAST REPORTED IN THE STRAIT OF HORMUZ, ACCORDING TO IRIB.
 - 09/10 01:53 [financialjuice] ❗ Russia's Siluanov: Russia weighs $50/bbl budget rule oil price - IFX.
+- 09/10 02:00 [financialjuice] Treasury WI 10 yr yield 4.849% before $39 billion auction
+- 09/10 02:02 [financialjuice] US 10-YEAR NOTE HIGH YIELD ACTUAL 4.834% (FORECAST -, PREVIOUS 4.683%) $MACRO
+- 09/10 02:02 [financialjuice] US 10-YEAR NOTE BID-TO-COVER ACTUAL 2.71 (FORECAST -, PREVIOUS 2.530) $MACRO
+- 09/10 02:03 [financialjuice] US 10-Year Note Auction
+- 09/10 02:03 [financialjuice] US 10-Year Note Auction High Yield 4.834% [Stop-through 1.5 bps] Bid-to-cover 2.71 Sells 39 bln Awards 89.25% of bids at high Primary Dealers take 4.3% Direct 16.5% Indirect 79.2%
+- 09/10 02:08 [financialjuice] Apple unveils iPhone 18 Pro and iPhone 18 Pro Max at event
+- 09/10 02:13 [DeItaone] APPLE: APPLE INTELLIGENCE IS NOT AVAILABLE IN CHINA - EVENT
+- 09/10 02:14 [DeItaone] APPLE: UPDATED SIRI WILL NOT BE AVAILABLE IN EU AND CHINA – EVENT
+- 09/10 02:14 [financialjuice] Apple: Apple Intelligence is not available in China or the EU - Event. $AAPL
+- 09/10 02:14 [DeItaone] APPLE ANNONCES A20 PRO CHIP BASED ON 2NM TECHNOLOGY - EVENT
+- 09/10 02:15 [financialjuice] Apple announces A20 Pro chip based on 2NM technology $AAPL
+- 09/10 02:16 [DeItaone] APPLE: A20 PRO CHIP HAS SEVEN GPU CORES - EVENT
