@@ -7,51 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 06:59 JST／対象: 09/10 00:59 〜 09/10 06:59 JST（時刻はすべて日本時間）
+生成: 2026-09-10 07:16 JST／対象: 09/10 01:16 〜 09/10 07:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/10 01:05 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 67 | 09/10 01:01 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 85 | 09/10 01:01 | 09/10 06:38 | 28分（04:22→04:50） |
+| DeItaone | 29 | 09/10 01:22 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
+| FirstSquawk | 53 | 09/10 01:28 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 77 | 09/10 01:20 | 09/10 07:00 | 28分（04:22→04:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 178 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 154 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 01:01 [FirstSquawk] WHITE HOUSE REFUTES FINANCIAL TIMES REPORT ABOUT RATCLIFFE AND RUSSIA-UKRAINE DISCUSSIONS.
-- 09/10 01:01 [financialjuice] White House denies FT report on Ratcliffe and Russia-Ukraine talks
-- 09/10 01:01 [financialjuice] Iran: Once the conditions of war end, the ground will be prepared for the IAEA's verification activities - ISNA
-- 09/10 01:03 [financialjuice] EIA STEO Report EIA Raises Brent, WTI and US Oil Production Forecasts
-- 09/10 01:04 [FirstSquawk] EIA SEES 2026 U.S. OIL OUTPUT OF 13.83 MLN BPD, VS PRIOR FORECAST 13.8 MLN BPD; SEES 2027 OUTPUT OF 14.26 MLN BPD (PVS 14.15 MLN BPD) || EIA SEES 2026 U.S. NATGAS OUTPUT OF 111.7 BCF/DAY, VS PRIOR FORECAST 111.2 BCF/D; SEES 2027 DEMAND OF 1…
-- 09/10 01:04 [FirstSquawk] EIA SEES 2026 U.S. OIL DEMAND OF 20.6 MLN BPD, VS PRIOR FORECAST 20.6 MLN BPD; SEES 2027 DEMAND OF 20.8 MLN BPD (PVS 20.8 MLN BPD) || EIA SEES 2026 U.S. NATGAS DEMAND OF 92.2 BCF/DAY, VS PRIOR FORECAST 92 BCF/D; SEES 2027 DEMAND OF 94.3 BCF…
-- 09/10 01:04 [FirstSquawk] EIA SEES 2026 WORLD OIL OUTPUT OF 100.6 MLN BPD, VS PRIOR FORECAST 100.8 MLN BPD; SEES 2027 OUTPUT OF 109.9 MLN BPD (PVS 109.7 MLN BPD) || EIA SEES 2026 WORLD OIL DEMAND OF 102.6 MLN BPD, VS PRIOR FORECAST 102.7 MLN BPD; SEES 2027 DEMAND OF…
-- 09/10 01:04 [FirstSquawk] EIA SEES 2026 WTI PRICE AVERAGE OF 84.65/BBL, VS PRIOR FORECAST 80.88/BBL; 2027 FORECAST OF 69.74/BBL (PVS 65.39/BBL) || EIA SEES 2026 BRENT PRICE AVERAGE OF 91.01/BBL, VS PRIOR FORECAST 86.81/BBL; 2027 FORECAST OF 73.74/BBL (PVS 69.39/BBL)
-- 09/10 01:05 [financialjuice] EIA STEO Report
-- 09/10 01:05 [DeItaone] RESEARCHERS SAY OPENAI AGENTS BYPASSED WEB RESTRICTIONS Independent researchers say OpenAI AI agents used more than 10 websites for unauthorized communications, bypassing restrictions that were intended to limit them to reading the web. Som…
-- 09/10 01:05 [financialjuice] EIA STEO Report September 2026
-- 09/10 01:06 [financialjuice] EIA STEO Report: EIA expects Middle East oil output to rise in coming months due to gradually increasing flows" through Hormuz.
-- 09/10 01:06 [FirstSquawk] U.S. OIL PRODUCTION TO AVERAGE 13.96 MLN BPD IN SEPTEMBER VS 13.88 MLN BPD IN AUGUST; TO AVERAGE 13.95 MLN BPD IN OCTOBER – EIA || U.S. NATURAL GAS PRODUCTION TO AVERAGE 123.9 BCF/DAY IN SEPTEMBER VS 123.7 BCF/DAY IN AUGUST; TO AVERAGE 124.…
-- 09/10 01:07 [financialjuice] EIA STEO report assumes some constraints to oil exports from Middle East will persist through end of 2026.
-- 09/10 01:07 [FirstSquawk] EIA EXPECTS MIDDLE EAST OIL OUTPUT TO RISE IN COMING MONTHS DUE TO "GRADUALLY INCREASING FLOWS" THROUGH HORMUZ || EIA ASSUMES SOME CONSTRAINTS TO OIL EXPORTS FROM MIDDLE EAST WILL PERSIST THROUGH END OF 2026 - STEO
-- 09/10 01:08 [financialjuice] EIA expects Crude Oil output from Mideast will remain below pre-conflict averages until Q2 2027.
-- 09/10 01:08 [financialjuice] EIA: Saudi Yanbu oil exports fell about 50% in August from July amid Bab el-Mandeb disruptions.
-- 09/10 01:09 [financialjuice] ❗ Iran Official: Iran ready for more intense war with US if required.
-- 09/10 01:09 [FirstSquawk] BAKER HUGHES $BKR RAISES 2026 REVENUE GUIDANCE TO $28.50B-$30.30B FROM $26.65B $BKR
-- 09/10 01:10 [DeItaone] TREASURY TRIPLES BOND BUYBACK, MARKETS WANT MORE The U.S. Treasury tripled its next long-term debt buyback to $6 billion, as Secretary Scott Bessent seeks to contain rising borrowing costs. Despite the increase, Treasuries fell, pushing the…
-- 09/10 01:10 [FirstSquawk] IRAN PLANS TO INCREASE ATTACKS FOLLOWING U.S. STRIKES, SAYS OFFICIAL.
-- 09/10 01:10 [FirstSquawk] IRAN VIEWS WAR AS A MATTER OF SURVIVAL; FEELS OBLIGATED TO ENGAGE IN COMBAT, SAYS OFFICIAL.
-- 09/10 01:11 [financialjuice] US Agriculture Sec. Rollins: Some food costs have come down in the last two years.
-- 09/10 01:12 [FirstSquawk] TOTALENERGIES CEO ANNOUNCES $10 BILLION INVESTMENT IN ANGOLA PARTNERS FOR VARIOUS PROJECTS OVER THE NEXT FIVE YEARS.
-- 09/10 01:12 [FirstSquawk] ROLLINS STATES THAT FOOD PRICES HAVE DECREASED OVER THE PAST TWO YEARS.
-- 09/10 01:12 [FirstSquawk] ROLLINS IS FOCUSED ON HIS CURRENT POSITION AND NOT THINKING ABOUT A FUTURE RUN.
-- 09/10 01:14 [financialjuice] EIA finalized inputs into STEO forecast model on September 3rd. Forecast does not account for more recent Mideast events.
-- 09/10 01:15 [FirstSquawk] INDEPENDENCE REALTY $IRT AND CENTERSPACE AGREE TO MERGE IN $8.1B DEAL, CREATING LARGER MULTIFAMILY REIT WITH $24M IN ANNUAL SYNERGIES $IRT
 - 09/10 01:20 [financialjuice] EIA: Middle East crude oil output shut-ins rose in August to 6.7 mln bpd, from 5 mln bpd in July.
 - 09/10 01:22 [DeItaone] IRAN WARNS OF ESCALATION AS U.S. CONFLICT INTENSIFIES An Iranian official says Tehran is prepared for a more intense war with the U.S. if necessary, according to Bloomberg headlines shown in the report. The official said Iran would escalate…
 - 09/10 01:25 [financialjuice] China and Russia vote against effort to pressure Iran at IAEA.
@@ -202,3 +174,7 @@
 - 09/10 06:30 [financialjuice] Iranian state media: multiple locations in Sirik struck by projectiles
 - 09/10 06:30 [financialjuice] AI researcher Andrew Tulloch departing Meta - Semafor
 - 09/10 06:38 [financialjuice] Israeli military: hostile aircraft incursion in northern Israel was misidentification
+- 09/10 07:00 [financialjuice] Poll: total size of Japan's FY2027 budget requests raise worries about fiscal discipline: 74% of economists
+- 09/10 07:00 [financialjuice] Poll: joint US-Japan FX intervention, US Treasury chief Bessent's comments reduce political barriers for BoJ rate hikes, say 82% of economists
+- 09/10 07:00 [financialjuice] Poll: Bank of Japan to increase benchmark interest rate to 1.25% on September 18, say 97% of economists (up from 57% in August)
+- 09/10 07:00 [financialjuice] Poll: Bank of Japan to raise rates to minimum 1.75% in Q2 2027, 62% of economists say (vs. 1.50% in prior poll)
