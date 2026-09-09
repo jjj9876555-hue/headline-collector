@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 05:33 JST／対象: 09/09 17:33 〜 09/10 05:33 JST（時刻はすべて日本時間）
+生成: 2026-09-10 05:50 JST／対象: 09/09 17:50 〜 09/10 05:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/09 18:32 | 09/10 05:08 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 173 | 09/09 17:35 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 140 | 09/09 17:45 | 09/10 05:27 | 35分（21:20→21:55） |
+| FirstSquawk | 170 | 09/09 17:53 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 142 | 09/09 17:59 | 09/10 05:46 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 354 行（統合前 365 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 353 行（統合前 364 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 17:35 [FirstSquawk] ELECTION BETTING BOOM: WILL PREDICTION MARKETS SHAPE AMERICA’S 2026 MIDTERMS? Prediction markets are surging ahead of the 2026 U.S. elections, with platforms such as Kalshi and Polymarket attracting growing volumes of political trading. Sup…
-- 09/09 17:35 [FirstSquawk] HEDGE FUNDS REINITIATE DISPUTE OVER PASCHI'S €1 BILLION BOND LOSSES
-- 09/09 17:45 [financialjuice] UKMTO gets September 8 report on vessels in Arabian Gulf, Oman Gulf.
-- 09/09 17:46 [financialjuice] UKMTO says several vessels were subject to disabling fire.
-- 09/09 17:48 [FirstSquawk] JAY Y. LEE OF SAMSUNG WILL PURCHASE SHARES WORTH 1.9 TRILLION WON (USD 1.422 BILLION) FROM HIS MOTHER, ACCORDING TO A FILING.
 - 09/09 17:53 [FirstSquawk] HSBC PREDICTS A CHALLENGING SECOND HALF FOR EUROPEAN LUXURY GOODS STOCKS.
 - 09/09 17:58 [FirstSquawk] UBER WANTS TO RAISE APPROXIMATELY €4 BILLION THROUGH ITS FIRST EUROPEAN BOND SALE.
 - 09/09 17:59 [financialjuice] Japan may convene extraordinary diet session on October 5 - Kyodo.
@@ -378,3 +373,7 @@
 - 09/10 05:27 [financialjuice] US Energy Secretary Wright: Refining is a bigger problem than oil now.
 - 09/10 05:28 [FirstSquawk] GLOBAL STOCKS AND BONDS COME UNDER PRESSURE AS BRENT CRUDE TOPS $101 AMID ESCALATING US-IRAN TENSIONS, WITH THE S&P 500 FALLING 0.5%, NASDAQ 100 DOWN 0.3% AND DOW SLIDING 0.8%, WHILE THE 10-YEAR TREASURY YIELD JUMPS TO 4.84%.
 - 09/10 05:28 [FirstSquawk] OIL AND INFLATION RISKS DOMINATE MARKETS AS WTI RISES 3.9% TO $96.69 AND GOLD GAINS 1% TO $4,398.87, WITH TRADERS PRICING AROUND 60% ODDS OF A SEPTEMBER FED RATE HIKE AHEAD OF PPI AND CPI DATA.
+- 09/10 05:46 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL -0.3M (FORECAST -1.3M, PREVIOUS -2.6M) $MACRO
+- 09/10 05:46 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL -0.3M (FORECAST -, PREVIOUS 0.2M) $MACRO
+- 09/10 05:46 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL 2M (FORECAST -, PREVIOUS -0.3M) $MACRO
+- 09/10 05:46 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL -1.9M (FORECAST -, PREVIOUS 0.3M) $MACRO

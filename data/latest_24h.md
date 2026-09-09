@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 05:33 JST／対象: 09/09 05:33 〜 09/10 05:33 JST（時刻はすべて日本時間）
+生成: 2026-09-10 05:50 JST／対象: 09/09 05:50 〜 09/10 05:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 52 | 09/09 16:31 | 09/10 05:08 | ⚠ 120分（16:31→18:32） |
 | FirstSquawk | 358 | 09/09 05:54 | 09/10 05:28 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 221 | 09/09 06:02 | 09/10 05:27 | ⚠ 206分（14:00→17:26） |
+| financialjuice | 225 | 09/09 06:02 | 09/10 05:46 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 617 行（統合前 634 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 621 行（統合前 638 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -641,3 +641,7 @@
 - 09/10 05:27 [financialjuice] US Energy Secretary Wright: Refining is a bigger problem than oil now.
 - 09/10 05:28 [FirstSquawk] GLOBAL STOCKS AND BONDS COME UNDER PRESSURE AS BRENT CRUDE TOPS $101 AMID ESCALATING US-IRAN TENSIONS, WITH THE S&P 500 FALLING 0.5%, NASDAQ 100 DOWN 0.3% AND DOW SLIDING 0.8%, WHILE THE 10-YEAR TREASURY YIELD JUMPS TO 4.84%.
 - 09/10 05:28 [FirstSquawk] OIL AND INFLATION RISKS DOMINATE MARKETS AS WTI RISES 3.9% TO $96.69 AND GOLD GAINS 1% TO $4,398.87, WITH TRADERS PRICING AROUND 60% ODDS OF A SEPTEMBER FED RATE HIKE AHEAD OF PPI AND CPI DATA.
+- 09/10 05:46 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL -0.3M (FORECAST -1.3M, PREVIOUS -2.6M) $MACRO
+- 09/10 05:46 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL -0.3M (FORECAST -, PREVIOUS 0.2M) $MACRO
+- 09/10 05:46 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL 2M (FORECAST -, PREVIOUS -0.3M) $MACRO
+- 09/10 05:46 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL -1.9M (FORECAST -, PREVIOUS 0.3M) $MACRO
