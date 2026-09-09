@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 03:23 JST／対象: 09/09 15:23 〜 09/10 03:23 JST（時刻はすべて日本時間）
+生成: 2026-09-10 03:46 JST／対象: 09/09 15:46 〜 09/10 03:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 09/09 16:31 | 09/10 03:08 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 172 | 09/09 15:24 | 09/10 03:22 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 116 | 09/09 17:26 | 09/10 03:21 | 35分（21:20→21:55） |
+| DeItaone | 51 | 09/09 16:31 | 09/10 03:34 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 167 | 09/09 15:47 | 09/10 03:45 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 131 | 09/09 17:26 | 09/10 03:41 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 324 行（統合前 332 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 341 行（統合前 350 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 15:24 [FirstSquawk] Australia’s ASX 200 Falls 0.1% to Close at 8,911.40 Points
-- 09/09 15:27 [FirstSquawk] Alerts Issued in Khamis Mushait as Saudi Civil Defense Warns of Potential Danger
-- 09/09 15:27 [FirstSquawk] Russia’s Defence Ministry Says Its Forces Struck a Cargo Vessel in the Black Sea
-- 09/09 15:30 [FirstSquawk] Warehouse Belonging to Kyiv Company Manufacturing Unmanned Boats and Drones Hit, Russian Defence Ministry Says
-- 09/09 15:31 [FirstSquawk] Saudi Civil Defense Says Threat Has Now Passed
-- 09/09 15:43 [FirstSquawk] RBA’s Hawkish Comments Have Lit Fuse for September Rate Increase - WSJ
-- 09/09 15:43 [FirstSquawk] RBI Likely Intervening With Dollar Sales to Limit Rupee Weakness
-- 09/09 15:45 [FirstSquawk] FRANCE (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: -0.4% VS 0.1% PREVIOUS;EST 0.2%
-- 09/09 15:45 [FirstSquawk] FRANCE (JUL) INDUSTRIAL PRODUCTION YOY ACTUAL: -0.5% VS -0.1% PREVIOUS;EST 0.4%
-- 09/09 15:46 [FirstSquawk] FRANCE (JUL) MANUFACTURING PRODUCTION MOM ACTUAL: -0.8% VS -1.1% PREVIOUS;EST 0.4%
-- 09/09 15:46 [FirstSquawk] FRANCE (JUL) MANUFACTURING PRODUCTION YOY ACTUAL: -2% VS -1.7% PREVIOUS
 - 09/09 15:47 [FirstSquawk] UK Air Traffic Outage Cause Expected to Be Different From Previous Failures, NATS CEO Rolfe Says
 - 09/09 15:51 [FirstSquawk] Google Plans at Least €13 Billion Investment in Finnish AI Infrastructure Over 2027-2028, Yle Says
 - 09/09 15:58 [FirstSquawk] UK AIRPORTS WARN OF FURTHER TRAVEL DISRUPTION - FT
@@ -348,3 +337,31 @@
 - 09/10 03:18 [FirstSquawk] IPHONE DUO'S PRE-ORDERS BEGIN 16 OCTOBER, WITH THE DEVICE AVAILABLE FROM 23 OCTOBER
 - 09/10 03:21 [financialjuice] Apple prices the 2-terabyte version of the iPhone Duo at $3,199. $AAPL
 - 09/10 03:22 [FirstSquawk] APPLE HAS PRICED THE 2-TERABYTE VERSION OF THE IPHONE DUO AT $3,199
+- 09/10 03:27 [financialjuice] LIVE: President Donald Trump Heads to Dallas for Historic Republican Midterm Convention | AC15
+- 09/10 03:28 [financialjuice] Trump: The economy is very strong; we're going to explain that.
+- 09/10 03:29 [financialjuice] Trump on Gasoline Price: Can't let Iran have nuclear weapons.
+- 09/10 03:29 [DeItaone] TRUMP: OIL PRICES WILL TUMBLE AFTER ELECTION
+- 09/10 03:29 [financialjuice] Trump: After the election, oil prices will tumble.
+- 09/10 03:30 [financialjuice/DeItaone] Trump on Gasoline Price: It will take a little bit longer.
+- 09/10 03:30 [financialjuice] Trump: Will get gasoline down below $2.
+- 09/10 03:31 [financialjuice] Trump: Had a great conversation with Putin. He wants to make a deal.
+- 09/10 03:31 [DeItaone] TRUMP: GREAT CONVERSATION WITH RUSSIA'S PUTIN
+- 09/10 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $96.05 a barrel, up $3.02, 3.25%.
+- 09/10 03:32 [financialjuice] NYMEX Diesel October futures settle at $4.8010 a gallon.
+- 09/10 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.2106 a gallon.
+- 09/10 03:32 [financialjuice] Trump on Iran: Will be speaking to Israel about sanctions imposed on West Bank settlements.
+- 09/10 03:33 [DeItaone] TRUMP: BILATERAL MEETING COULD HAPPEN
+- 09/10 03:33 [DeItaone] TRUMP ON IRAN: WAR IN IRAN WILL END IMMEDIATELY AFTER ELECTION
+- 09/10 03:33 [financialjuice] NYMEX Natural Gas October futures settle at $2.8220/MMBTU.
+- 09/10 03:33 [DeItaone] TRUMP ON IRAN: I'M DOING MUCH MORE THAN A NUCLEAR DEAL
+- 09/10 03:34 [financialjuice] Trump on Iran: I'm doing much more than a nuclear deal, many things on table.
+- 09/10 03:34 [financialjuice] Trump on Iran: We're not looking for a deal, but negotiation could happen
+- 09/10 03:34 [DeItaone] TRUMP ON IRAN: WE'RE NOT LOOKING FOR A DEAL
+- 09/10 03:34 [DeItaone] TRUMP ON IRAN: NEGOTIATION COULD HAPPEN
+- 09/10 03:41 [financialjuice] Brent crude futures settle at $101.21/bbl, up $3.29, 3.36%
+- 09/10 03:43 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $96.05/BBL, SURGING $3.02 OR 3.25%
+- 09/10 03:43 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $101.21/BBL, SURGING $3.29 OR 3.36%
+- 09/10 03:44 [FirstSquawk] U.S. PRESIDENT TRUMP SAYS THAT 'SHORTLY, RIGHT AFTER THE ELECTION, OIL PRICES WILL COME TUMBLING DOWN BELOW $2/GALLON', THOUGH HE ADDS 'I THINK IT'S GOING TO TAKE A LITTLE BIT LONGER THAN THE MIDTERMS'
+- 09/10 03:44 [FirstSquawk] TRUMP: US HAS DESTROYED 9 IRANIAN OIL TANKERS IN HORMUZ STRIKES, EXPECTS “A LOT MORE” ACTION; SAYS THE WAR COULD END AFTER THE ELECTION, WHILE LEAVING OPEN THE POSSIBILITY OF NEGOTIATIONS AND A BROADER DEAL BEYOND NUCLEAR ISSUES.
+- 09/10 03:44 [FirstSquawk] US PRESIDENT TRUMP ON PUTIN: HAD GREAT CONVERSATION, BILATERAL MEETING COULD HAPPEN
+- 09/10 03:45 [FirstSquawk] DISNEY CFO: COMPANY HAS BUILT A “ONE FAN, ONE ACCOUNT” ECOSYSTEM CONNECTING HULU & DISNEY+ PROFILES; DISNEY+ POSTED A 13% MARGIN LAST QUARTER, WITH DOUBLE-DIGIT FULL-YEAR MARGINS EXPECTED, WHILE PRIORITIZING REVENUE GROWTH OVER MARGIN EXPAN…

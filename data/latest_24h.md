@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 03:23 JST／対象: 09/09 03:23 〜 09/10 03:23 JST（時刻はすべて日本時間）
+生成: 2026-09-10 03:46 JST／対象: 09/09 03:46 〜 09/10 03:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 46 | 09/09 03:46 | 09/10 03:08 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 369 | 09/09 03:40 | 09/10 03:22 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 230 | 09/09 03:31 | 09/10 03:21 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 54 | 09/09 03:46 | 09/10 03:34 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 366 | 09/09 03:50 | 09/10 03:45 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 239 | 09/09 03:46 | 09/10 03:41 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 631 行（統合前 648 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 644 行（統合前 662 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 03:31 [financialjuice] NYMEX WTI crude October futures settle at $93.03 a barrel, up $1.55, 1.69%.
-- 09/09 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.2525 a gallon.
-- 09/09 03:32 [financialjuice] NYMEX Diesel October futures settle at $4.5678 a gallon.
-- 09/09 03:33 [financialjuice] NYMEX Natural Gas October futures settle at $2.9160/MMBTU.
-- 09/09 03:37 [financialjuice] OpenAI: images 2.5 is available to all ChatGPT, ChatGPT Work, & Codex users across desktop, mobile, & web.
-- 09/09 03:40 [FirstSquawk] NYMEX WTI CRUDE OCTOBER FUTURES SETTLE AT $93.03 A BARREL, UP $1.55, OR 1.69%, WITH NATURAL GAS OCTOBER FUTURES AT $2.9160/MMBTU, DIESEL AT $4.5678 A GALLON AND GASOLINE AT $3.2525 A GALLON
-- 09/09 03:41 [FirstSquawk] US CRUDE OIL FUTURES CLOSE AT $93.03/BBL, GAIN $1.55, RISING 1.69%
-- 09/09 03:42 [financialjuice] Anthropic is severing ties with the information technology industry council over legislation that would curb foreign access to US Chips - Axios
-- 09/09 03:42 [FirstSquawk] OPENAI: IMAGES 2.5 ROLLS OUT GLOBALLY FOR CHATGPT, CHATGPT WORK & CODEX USERS ON DESKTOP, MOBILE & WEB
-- 09/09 03:43 [FirstSquawk] ANTHROPIC DROPS IT INDUSTRY COUNCIL MEMBERSHIP OVER PROPOSED RULES RESTRICTING FOREIGN ACCESS TO US CHIPS - AXIOS
-- 09/09 03:43 [FirstSquawk] UK NATS: TECHNICAL GLITCH RESOLVED, AIR TRAFFIC OPERATIONS BACK TO NORMAL
-- 09/09 03:44 [FirstSquawk] EBAY CEO: AI BOOSTS US LISTINGS PER SELLER BY 50%
-- 09/09 03:44 [FirstSquawk] EBAY CEO: VEHICLES BUSINESS QUICKLY REACHES HUNDREDS OF MILLIONS OF DOLLARS IN RUN-RATE
-- 09/09 03:44 [FirstSquawk] EBAY CEO: VEHICLES & EBAY LIVE EMERGE AS NEW GROWTH DRIVERS FOR COMPANY – GOLDMAN SACHS CONFERENCE
-- 09/09 03:45 [FirstSquawk] IRAN PRESIDENT TO TRAVEL TO INDIA THIS WEEK FOR BRICS SUMMIT - IRIB NEWS
 - 09/09 03:46 [DeItaone] IRAN'S JOINT MILITARY COMMAND SAYS IT WILL 'HEAVILY TARGET' U.S. INTERESTS IN THE MIDDLE EAST IF IRANIAN VESSELS ARE ATTACKED - STATE MEDIA
 - 09/09 03:46 [financialjuice] Iran's Joint Military Command: Will 'heavily target’ US Interests in the Middle East if Iranian vessels are attacked - State Media
 - 09/09 03:47 [financialjuice] Iran President to visit India for BRICS summit this week - IRIB
@@ -655,3 +640,31 @@
 - 09/10 03:18 [FirstSquawk] IPHONE DUO'S PRE-ORDERS BEGIN 16 OCTOBER, WITH THE DEVICE AVAILABLE FROM 23 OCTOBER
 - 09/10 03:21 [financialjuice] Apple prices the 2-terabyte version of the iPhone Duo at $3,199. $AAPL
 - 09/10 03:22 [FirstSquawk] APPLE HAS PRICED THE 2-TERABYTE VERSION OF THE IPHONE DUO AT $3,199
+- 09/10 03:27 [financialjuice] LIVE: President Donald Trump Heads to Dallas for Historic Republican Midterm Convention | AC15
+- 09/10 03:28 [financialjuice] Trump: The economy is very strong; we're going to explain that.
+- 09/10 03:29 [financialjuice] Trump on Gasoline Price: Can't let Iran have nuclear weapons.
+- 09/10 03:29 [DeItaone] TRUMP: OIL PRICES WILL TUMBLE AFTER ELECTION
+- 09/10 03:29 [financialjuice] Trump: After the election, oil prices will tumble.
+- 09/10 03:30 [financialjuice/DeItaone] Trump on Gasoline Price: It will take a little bit longer.
+- 09/10 03:30 [financialjuice] Trump: Will get gasoline down below $2.
+- 09/10 03:31 [financialjuice] Trump: Had a great conversation with Putin. He wants to make a deal.
+- 09/10 03:31 [DeItaone] TRUMP: GREAT CONVERSATION WITH RUSSIA'S PUTIN
+- 09/10 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $96.05 a barrel, up $3.02, 3.25%.
+- 09/10 03:32 [financialjuice] NYMEX Diesel October futures settle at $4.8010 a gallon.
+- 09/10 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.2106 a gallon.
+- 09/10 03:32 [financialjuice] Trump on Iran: Will be speaking to Israel about sanctions imposed on West Bank settlements.
+- 09/10 03:33 [DeItaone] TRUMP: BILATERAL MEETING COULD HAPPEN
+- 09/10 03:33 [DeItaone] TRUMP ON IRAN: WAR IN IRAN WILL END IMMEDIATELY AFTER ELECTION
+- 09/10 03:33 [financialjuice] NYMEX Natural Gas October futures settle at $2.8220/MMBTU.
+- 09/10 03:33 [DeItaone] TRUMP ON IRAN: I'M DOING MUCH MORE THAN A NUCLEAR DEAL
+- 09/10 03:34 [financialjuice] Trump on Iran: I'm doing much more than a nuclear deal, many things on table.
+- 09/10 03:34 [financialjuice] Trump on Iran: We're not looking for a deal, but negotiation could happen
+- 09/10 03:34 [DeItaone] TRUMP ON IRAN: WE'RE NOT LOOKING FOR A DEAL
+- 09/10 03:34 [DeItaone] TRUMP ON IRAN: NEGOTIATION COULD HAPPEN
+- 09/10 03:41 [financialjuice] Brent crude futures settle at $101.21/bbl, up $3.29, 3.36%
+- 09/10 03:43 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $96.05/BBL, SURGING $3.02 OR 3.25%
+- 09/10 03:43 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $101.21/BBL, SURGING $3.29 OR 3.36%
+- 09/10 03:44 [FirstSquawk] U.S. PRESIDENT TRUMP SAYS THAT 'SHORTLY, RIGHT AFTER THE ELECTION, OIL PRICES WILL COME TUMBLING DOWN BELOW $2/GALLON', THOUGH HE ADDS 'I THINK IT'S GOING TO TAKE A LITTLE BIT LONGER THAN THE MIDTERMS'
+- 09/10 03:44 [FirstSquawk] TRUMP: US HAS DESTROYED 9 IRANIAN OIL TANKERS IN HORMUZ STRIKES, EXPECTS “A LOT MORE” ACTION; SAYS THE WAR COULD END AFTER THE ELECTION, WHILE LEAVING OPEN THE POSSIBILITY OF NEGOTIATIONS AND A BROADER DEAL BEYOND NUCLEAR ISSUES.
+- 09/10 03:44 [FirstSquawk] US PRESIDENT TRUMP ON PUTIN: HAD GREAT CONVERSATION, BILATERAL MEETING COULD HAPPEN
+- 09/10 03:45 [FirstSquawk] DISNEY CFO: COMPANY HAS BUILT A “ONE FAN, ONE ACCOUNT” ECOSYSTEM CONNECTING HULU & DISNEY+ PROFILES; DISNEY+ POSTED A 13% MARGIN LAST QUARTER, WITH DOUBLE-DIGIT FULL-YEAR MARGINS EXPECTED, WHILE PRIORITIZING REVENUE GROWTH OVER MARGIN EXPAN…

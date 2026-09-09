@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 03:23 JST／対象: 09/09 21:23 〜 09/10 03:23 JST（時刻はすべて日本時間）
+生成: 2026-09-10 03:46 JST／対象: 09/09 21:46 〜 09/10 03:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/09 21:27 | 09/10 03:08 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 75 | 09/09 21:35 | 09/10 03:22 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 87 | 09/09 21:55 | 09/10 03:21 | 30分（22:45→23:16） |
+| DeItaone | 31 | 09/09 22:13 | 09/10 03:34 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 78 | 09/09 21:49 | 09/10 03:45 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 102 | 09/09 21:55 | 09/10 03:41 | 30分（22:45→23:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 183 行（統合前 187 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 207 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 21:27 [DeItaone] AI BOOM DRIVES S&P 500 EARNINGS HIGHER S&P 500 earnings estimates are rising sharply, fueled by AI investment and stronger-than-expected corporate results. About 86% of companies beat analyst expectations, the highest share since 2021. Wall…
-- 09/09 21:35 [FirstSquawk] US 10-YEAR TREASURY YIELDS RISE TO 4.8184%, HIGHEST SINCE NOVEMBER 2023
-- 09/09 21:40 [FirstSquawk] GOLDMAN SACHS CEO: U.S. NEEDS STRONGER GROWTH TO KEEP PACE WITH RISING DEBT Goldman Sachs CEO David Solomon says the U.S. needs consistently higher economic growth to sustain its current levels of government spending and debt. He argues tha…
-- 09/09 21:46 [FirstSquawk] SINGAPORE REFINER ASTER IS SOURCING CRUDE OIL FROM LATIN AMERICA AND WEST AFRICA TO SUBSTITUTE MIDDLE EASTERN SUPPLIES.
 - 09/09 21:49 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: RUSSIA TRIES TO INTIMIDATE AND DESTABILIZE OUR SOCIETY AND TAKEN MORE AND MORE RISKS IN DOING SO
 - 09/09 21:54 [FirstSquawk] DBS DISMISSES S$1.3B LAWSUIT RELATED TO 1MDB BY LIQUIDATORS.
 - 09/09 21:55 [financialjuice] US REDBOOK YOY ACTUAL 8.3% (FORECAST -, PREVIOUS 9.6%) $MACRO
@@ -207,3 +203,31 @@
 - 09/10 03:18 [FirstSquawk] IPHONE DUO'S PRE-ORDERS BEGIN 16 OCTOBER, WITH THE DEVICE AVAILABLE FROM 23 OCTOBER
 - 09/10 03:21 [financialjuice] Apple prices the 2-terabyte version of the iPhone Duo at $3,199. $AAPL
 - 09/10 03:22 [FirstSquawk] APPLE HAS PRICED THE 2-TERABYTE VERSION OF THE IPHONE DUO AT $3,199
+- 09/10 03:27 [financialjuice] LIVE: President Donald Trump Heads to Dallas for Historic Republican Midterm Convention | AC15
+- 09/10 03:28 [financialjuice] Trump: The economy is very strong; we're going to explain that.
+- 09/10 03:29 [financialjuice] Trump on Gasoline Price: Can't let Iran have nuclear weapons.
+- 09/10 03:29 [DeItaone] TRUMP: OIL PRICES WILL TUMBLE AFTER ELECTION
+- 09/10 03:29 [financialjuice] Trump: After the election, oil prices will tumble.
+- 09/10 03:30 [financialjuice/DeItaone] Trump on Gasoline Price: It will take a little bit longer.
+- 09/10 03:30 [financialjuice] Trump: Will get gasoline down below $2.
+- 09/10 03:31 [financialjuice] Trump: Had a great conversation with Putin. He wants to make a deal.
+- 09/10 03:31 [DeItaone] TRUMP: GREAT CONVERSATION WITH RUSSIA'S PUTIN
+- 09/10 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $96.05 a barrel, up $3.02, 3.25%.
+- 09/10 03:32 [financialjuice] NYMEX Diesel October futures settle at $4.8010 a gallon.
+- 09/10 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.2106 a gallon.
+- 09/10 03:32 [financialjuice] Trump on Iran: Will be speaking to Israel about sanctions imposed on West Bank settlements.
+- 09/10 03:33 [DeItaone] TRUMP: BILATERAL MEETING COULD HAPPEN
+- 09/10 03:33 [DeItaone] TRUMP ON IRAN: WAR IN IRAN WILL END IMMEDIATELY AFTER ELECTION
+- 09/10 03:33 [financialjuice] NYMEX Natural Gas October futures settle at $2.8220/MMBTU.
+- 09/10 03:33 [DeItaone] TRUMP ON IRAN: I'M DOING MUCH MORE THAN A NUCLEAR DEAL
+- 09/10 03:34 [financialjuice] Trump on Iran: I'm doing much more than a nuclear deal, many things on table.
+- 09/10 03:34 [financialjuice] Trump on Iran: We're not looking for a deal, but negotiation could happen
+- 09/10 03:34 [DeItaone] TRUMP ON IRAN: WE'RE NOT LOOKING FOR A DEAL
+- 09/10 03:34 [DeItaone] TRUMP ON IRAN: NEGOTIATION COULD HAPPEN
+- 09/10 03:41 [financialjuice] Brent crude futures settle at $101.21/bbl, up $3.29, 3.36%
+- 09/10 03:43 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $96.05/BBL, SURGING $3.02 OR 3.25%
+- 09/10 03:43 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $101.21/BBL, SURGING $3.29 OR 3.36%
+- 09/10 03:44 [FirstSquawk] U.S. PRESIDENT TRUMP SAYS THAT 'SHORTLY, RIGHT AFTER THE ELECTION, OIL PRICES WILL COME TUMBLING DOWN BELOW $2/GALLON', THOUGH HE ADDS 'I THINK IT'S GOING TO TAKE A LITTLE BIT LONGER THAN THE MIDTERMS'
+- 09/10 03:44 [FirstSquawk] TRUMP: US HAS DESTROYED 9 IRANIAN OIL TANKERS IN HORMUZ STRIKES, EXPECTS “A LOT MORE” ACTION; SAYS THE WAR COULD END AFTER THE ELECTION, WHILE LEAVING OPEN THE POSSIBILITY OF NEGOTIATIONS AND A BROADER DEAL BEYOND NUCLEAR ISSUES.
+- 09/10 03:44 [FirstSquawk] US PRESIDENT TRUMP ON PUTIN: HAD GREAT CONVERSATION, BILATERAL MEETING COULD HAPPEN
+- 09/10 03:45 [FirstSquawk] DISNEY CFO: COMPANY HAS BUILT A “ONE FAN, ONE ACCOUNT” ECOSYSTEM CONNECTING HULU & DISNEY+ PROFILES; DISNEY+ POSTED A 13% MARGIN LAST QUARTER, WITH DOUBLE-DIGIT FULL-YEAR MARGINS EXPECTED, WHILE PRIORITIZING REVENUE GROWTH OVER MARGIN EXPAN…
