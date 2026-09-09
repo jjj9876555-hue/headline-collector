@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 15:50 JST／対象: 09/09 03:50 〜 09/09 15:50 JST（時刻はすべて日本時間）
+生成: 2026-09-09 16:03 JST／対象: 09/09 04:03 〜 09/09 16:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/09 05:31 | 09/09 05:33 | 1分（05:31→05:33） |
-| FirstSquawk | 200 | 09/09 03:50 | 09/09 15:47 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 105 | 09/09 03:50 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 194 | 09/09 04:03 | 09/09 15:58 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 99 | 09/09 04:04 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 300 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 289 行（統合前 297 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 03:50 [FirstSquawk] BRENT CRUDE FUTURES END AT $97.92/BBL, GAIN 92 CENTS, RISING 0.95%
-- 09/09 03:50 [financialjuice] ❗ Explosion sounds heard in Iran's Kharg Island, no official announcement yet - Iran's Mehr News Agency
-- 09/09 03:51 [financialjuice] Brent crude futures settle at $97.92/bbl, up 92 cents, 0.95%.
-- 09/09 03:52 [FirstSquawk] EXPLOSION SOUNDS REPORTED ON IRAN’S KHARG ISLAND; NO OFFICIAL CONFIRMATION YET: MEHR NEWS AGENCY
-- 09/09 03:53 [FirstSquawk] SPOT GOLD SLIDES NEARLY 1% TO $4,361.99/OZ
-- 09/09 03:55 [FirstSquawk] MULTIPLE EXPLOSIONS HEARD NEAR KHARG ISLAND ANCHORAGE, A KEY IRANIAN OIL EXPORT HUB; CAUSE, ORIGIN & ANY POTENTIAL DAMAGE REMAIN UNCONFIRMED. - MEHR NEWS AGENCY
-- 09/09 03:55 [financialjuice/FirstSquawk] Blasts heard near Iran's Southern Jask coast - FARS
-- 09/09 03:56 [FirstSquawk] S&P 500 SLIDES TO SESSION LOWS AS EXPLOSION REPORTS EMERGE FROM IRAN’S KHARG ISLAND; NASDAQ 100 EXTENDS LOSSES AMID ESCALATING MIDDLE EAST TENSIONS.
-- 09/09 04:00 [financialjuice] US CONSUMER CREDIT ACTUAL 18.062B (FORECAST 11.34B, PREVIOUS 14.17B) $MACRO
-- 09/09 04:00 [FirstSquawk] US CONSUMER CREDIT RISES TO $18.06B, WELL ABOVE $11.34B FORECAST AND $14.17B PREVIOUS READING.
-- 09/09 04:02 [financialjuice] Meta announces an AI assistant for personal tasks and organization, which will be released to US-based users on Tuesday. $META
-- 09/09 04:03 [FirstSquawk] TRUMP ADMINISTRATION CRITICIZES FORD’S TIES WITH CHINESE FIRMS, CITING “DEEP ALARM” OVER ITS RELIANCE ON BATTERY MAKER CATL. || USDOT SAYS FORD-GEELY JV IN SPAIN COULD GIVE CHINA A STRATEGIC FOOTHOLD IN WESTERN EUROPE.
-- 09/09 04:03 [financialjuice] Meta: Meta’s Muse agent to have free and paid versions. $META
 - 09/09 04:03 [FirstSquawk] META: MUSE AI ASSISTANT TO OFFER FREE & PAID TIERS, WITH PERSONAL TASK MANAGEMENT & ORGANIZATION FEATURES ROLLING OUT TO US USERS TUESDAY.
 - 09/09 04:04 [financialjuice] US Consumer Credit Report for July
 - 09/09 04:07 [FirstSquawk] META: MUSE AI AGENT LAUNCHES IN THE US, OFFERING FREE ACCESS WITH PAID PLANS FOR USERS SEEKING MORE CAPABILITIES; DESIGNED TO HANDLE PERSONAL TASKS, PLANNING & ORGANIZATION.
@@ -324,3 +311,5 @@
 - 09/09 15:46 [FirstSquawk] FRANCE (JUL) MANUFACTURING PRODUCTION MOM ACTUAL: -0.8% VS -1.1% PREVIOUS;EST 0.4%
 - 09/09 15:46 [FirstSquawk] FRANCE (JUL) MANUFACTURING PRODUCTION YOY ACTUAL: -2% VS -1.7% PREVIOUS
 - 09/09 15:47 [FirstSquawk] UK Air Traffic Outage Cause Expected to Be Different From Previous Failures, NATS CEO Rolfe Says
+- 09/09 15:51 [FirstSquawk] Google Plans at Least €13 Billion Investment in Finnish AI Infrastructure Over 2027-2028, Yle Says
+- 09/09 15:58 [FirstSquawk] UK AIRPORTS WARN OF FURTHER TRAVEL DISRUPTION - FT
