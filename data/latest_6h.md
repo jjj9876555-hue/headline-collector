@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 10:34 JST／対象: 09/09 04:34 〜 09/09 10:34 JST（時刻はすべて日本時間）
+生成: 2026-09-09 10:52 JST／対象: 09/09 04:52 〜 09/09 10:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/09 05:31 | 09/09 05:33 | 1分（05:31→05:33） |
-| FirstSquawk | 92 | 09/09 04:34 | 09/09 10:32 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 84 | 09/09 04:37 | 09/09 10:30 | ⚠ 70分（08:50→10:00） |
+| FirstSquawk | 94 | 09/09 04:53 | 09/09 10:45 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 80 | 09/09 04:52 | 09/09 10:40 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 174 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 172 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 04:34 [FirstSquawk] IRANIAN TANKER WAS TARGETED BY A US MISSILE ATTACK FOUR MILES FROM KHARG ISLAND - TASNIM
-- 09/09 04:37 [financialjuice] US military has struck targets near Kharg Island - Fox News
-- 09/09 04:40 [financialjuice] The US struck targets near Jask - Fox reporter citing US Officials.
-- 09/09 04:47 [financialjuice] Broadcom CEO: Can lock in chip supply for 2027, in process of locking in 2028 supply - Goldman Sachs Conference $AVGO
-- 09/09 04:48 [FirstSquawk] TURKEY CONDEMNS HOUTHI ATTACKS ON SAUDI ARABIA IN THE STRONGEST TERMS, REAFFIRMS SOLIDARITY WITH RIYADH & WARNS AGAINST FURTHER REGIONAL ESCALATION.
-- 09/09 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1393.9 MLN NASDAQ 100: -394.0 MLN DOW 30: -266.3 MLN MAG 7: -122.9 MLN $MACRO
-- 09/09 04:51 [FirstSquawk] FORD’S USE OF CHINESE TECH CALLED ‘UNACCEPTABLE’ BY US TRANSPORT SEC – WSJ
-- 09/09 04:52 [FirstSquawk] TRUMP TO DELIVER KEYNOTE ADDRESS AT GOP MIDTERM CONVENTION WEDNESDAY EVENING IN DALLAS; SPEECH SCHEDULED FOR 8–9 PM CT / 9–10 PM ET.
-- 09/09 04:52 [financialjuice] Iran launched an attack against US Navy ships on Monday that the US military has yet to acknowledge - WSJ
 - 09/09 04:52 [financialjuice] No American ships were struck in Iran's Monday attacks - WSJ
 - 09/09 04:53 [financialjuice] Iran Launched Undisclosed Second Wave of Attacks on US Navy Ships - WSH
 - 09/09 04:53 [FirstSquawk] IRAN LAUNCHED A MISSILE ATTACK ON US NAVY WARSHIPS MONDAY, BUT NO AMERICAN SHIP WAS HIT || THE US MILITARY HAS YET TO PUBLICLY ACKNOWLEDGE THE ATTACK, ACCORDING TO WSJ
@@ -198,3 +189,10 @@
 - 09/09 10:31 [FirstSquawk] CHINA (AUG) CPI YOY ACTUAL: 0.8% VS 0.5% PREVIOUS;EST 0.8%
 - 09/09 10:31 [FirstSquawk] CHINA (AUG) CPI CORE YOY ACTUAL: 1% VS 0.9% PREVIOUS;EST 0.9%
 - 09/09 10:32 [FirstSquawk] 5-Year Japanese Government Bond Yield Slips to 2.215%
+- 09/09 10:37 [FirstSquawk] Defense Minister Ahn Gyu-back will travel to Croatia on Wednesday to discuss bilateral defense ties with top officials and attend a ceremony for a South Korean rocket artillery export deal, Seoul's defense ministry said - YONHAP
+- 09/09 10:39 [FirstSquawk] South Korean Stocks Open Higher, Led by Chip Gains Amid Middle East Tensions
+- 09/09 10:40 [FirstSquawk] Bank of Korea Sells 2-Year Monetary Stabilisation Bonds at 3.805%
+- 09/09 10:40 [financialjuice] S.Korea central bank sells two-year monetary stabilization bonds at 3.805% yield
+- 09/09 10:42 [FirstSquawk] South Korea’s Employment Gains Reach Five-Month High With 184,000 Jobs Added in August
+- 09/09 10:43 [FirstSquawk] Korea’s 2027 Budget to Strengthen Fiscal Metrics, but Improvement May Be Short-Lived, Fitch Says
+- 09/09 10:45 [FirstSquawk] China 5G Communications Index Gains Over 2%

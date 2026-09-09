@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 10:34 JST／対象: 09/08 22:34 〜 09/09 10:34 JST（時刻はすべて日本時間）
+生成: 2026-09-09 10:52 JST／対象: 09/08 22:52 〜 09/09 10:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/08 22:39 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 238 | 09/08 22:35 | 09/09 10:32 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 202 | 09/08 22:34 | 09/09 10:30 | ⚠ 70分（08:50→10:00） |
+| DeItaone | 7 | 09/08 23:18 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
+| FirstSquawk | 237 | 09/08 22:59 | 09/09 10:45 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 196 | 09/08 22:56 | 09/09 10:40 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 439 行（統合前 448 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 432 行（統合前 440 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 22:34 [financialjuice] BoE's Ramsden: Global inflationary picture is much more of upside inflation risk.
-- 09/08 22:35 [FirstSquawk] SENIOR PENTAGON OFFICIAL: U.S. BELIEVES ALLIES CAN AND WILL LEAD UKRAINE'S SELF-DEFENSE
-- 09/08 22:35 [FirstSquawk/DeItaone] U.S. DEFENSE OFFICIAL: WE MUST BE PREPARED FOR A PROTRACTED CONFLICT IN UKRAINE
-- 09/08 22:36 [FirstSquawk] UKRAINE IS CONTRACTING SUPPLY OF ABOUT 1,000 MISSILES FROM ALLIES, DEFENCE MINISTER SAYS
-- 09/08 22:36 [financialjuice] BoE's Ramsden: I am comfortable with policy but I am very conscious of upside risk.
-- 09/08 22:38 [financialjuice] BoE Gov. Bailey: The rise in UK mortgage rates is larger than almost anywhere in the G7.
-- 09/08 22:41 [FirstSquawk] BAILEY: UK'S HAD LARGEST RISE IN MORTGAGE RATES IN THE G7
-- 09/08 22:43 [financialjuice] BoE’s Greene: There different views on the MPC about inflation path pre-war.
-- 09/08 22:44 [financialjuice] BoE Gov. Bailey: Risks to inflation are to the upside.
-- 09/08 22:44 [FirstSquawk] BOE’S BAILEY: INFLATION RISKS ARE TO THE UPSIDE
-- 09/08 22:45 [financialjuice] BoE Gov. Bailey: The market's BoE rate curve reflects investors' concern about further energy price rises.
-- 09/08 22:45 [financialjuice] BoE Gov. Bailey: I want to dispel idea that we have secret plan to raise rates, unconditionally.
-- 09/08 22:46 [FirstSquawk] BOE'S BAILEY: I WANT TO DISPEL IDEA THAT WE HAVE SECRET PLAN TO RAISE RATES, UNCONDITIONALLY
-- 09/08 22:48 [FirstSquawk] CERBERUS NEARS £1B DEAL TO BUY GOODWIN DEFENCE UNIT, FT SAYS
 - 09/08 22:56 [financialjuice] Goldman Sachs brings forward their RBA rate hike estimate to September from November.
 - 09/08 22:58 [financialjuice] BoE's Ramsden: Communications in April and in July were well received by the market.
 - 09/08 22:59 [FirstSquawk] GOLDMAN BRINGS FORWARD RBA RATE HIKE TO SEPT, FROM NOV
@@ -463,3 +449,10 @@
 - 09/09 10:31 [FirstSquawk] CHINA (AUG) CPI YOY ACTUAL: 0.8% VS 0.5% PREVIOUS;EST 0.8%
 - 09/09 10:31 [FirstSquawk] CHINA (AUG) CPI CORE YOY ACTUAL: 1% VS 0.9% PREVIOUS;EST 0.9%
 - 09/09 10:32 [FirstSquawk] 5-Year Japanese Government Bond Yield Slips to 2.215%
+- 09/09 10:37 [FirstSquawk] Defense Minister Ahn Gyu-back will travel to Croatia on Wednesday to discuss bilateral defense ties with top officials and attend a ceremony for a South Korean rocket artillery export deal, Seoul's defense ministry said - YONHAP
+- 09/09 10:39 [FirstSquawk] South Korean Stocks Open Higher, Led by Chip Gains Amid Middle East Tensions
+- 09/09 10:40 [FirstSquawk] Bank of Korea Sells 2-Year Monetary Stabilisation Bonds at 3.805%
+- 09/09 10:40 [financialjuice] S.Korea central bank sells two-year monetary stabilization bonds at 3.805% yield
+- 09/09 10:42 [FirstSquawk] South Korea’s Employment Gains Reach Five-Month High With 184,000 Jobs Added in August
+- 09/09 10:43 [FirstSquawk] Korea’s 2027 Budget to Strengthen Fiscal Metrics, but Improvement May Be Short-Lived, Fitch Says
+- 09/09 10:45 [FirstSquawk] China 5G Communications Index Gains Over 2%
