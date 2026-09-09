@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 03:01 JST／対象: 09/09 21:01 〜 09/10 03:01 JST（時刻はすべて日本時間）
+生成: 2026-09-10 03:23 JST／対象: 09/09 21:23 〜 09/10 03:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/09 21:27 | 09/10 03:00 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 74 | 09/09 21:02 | 09/10 03:00 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 89 | 09/09 21:02 | 09/10 02:55 | 35分（21:20→21:55） |
+| DeItaone | 24 | 09/09 21:27 | 09/10 03:08 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 75 | 09/09 21:35 | 09/10 03:22 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 87 | 09/09 21:55 | 09/10 03:21 | 30分（22:45→23:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 182 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 183 行（統合前 187 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 21:02 [FirstSquawk] IRAQ CONFIRMS TANKER CARRIED FUEL OIL AND REPORTS NO LEAKS.
-- 09/09 21:02 [financialjuice] Iraq: Panama-flagged tanker hit in its waters. The tanker was carrying fuel oil; no leaks.
-- 09/09 21:04 [financialjuice] Morning Juice - US Session Prep (9th September)
-- 09/09 21:09 [FirstSquawk] JPMORGAN'S DIMON TO DISCUSS BANK TAXES WITH UK CHANCELLOR.
-- 09/09 21:11 [FirstSquawk] LYFT BEGINS WAYMO ROBOTAXI RIDES IN NASHVILLE, THE SECOND CITY IN THE US TO OFFER DRIVERLESS RIDES.
-- 09/09 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 12K (FORECAST -, PREVIOUS 11.75K) $MACRO
-- 09/09 21:15 [FirstSquawk] US ADP WEEKLY EMPLOYMENT CHANGE AUG-22ND: 12.00K (PREV 11.75K)
-- 09/09 21:16 [FirstSquawk] AMAZON SETS SIZE ON DEBUT STERLING BOND SALE AT £4.25 BILLION
-- 09/09 21:16 [financialjuice] Amazon sets size on debut sterling bond sale at £4.25 billion $AMZN
-- 09/09 21:17 [financialjuice] OpenAI projects compute spending around $750b through 2030 - NYT
-- 09/09 21:18 [FirstSquawk] TRADERS RAISE EXPECTATIONS FOR ECB AND BOE INTEREST RATE INCREASES, FAVORIZING 4 HIKES BY THE END OF 2027.
-- 09/09 21:18 [financialjuice] ❗ Traders boost ECB and BoE rate bets; favor 4 hikes by the end of 2027.
-- 09/09 21:19 [FirstSquawk] OIL PRODUCTS TANKER HERCULES STAR INVOLVED IN INCIDENT AT ANCHORAGE OFF DUBAI, ONE CREW MEMBER KILLED, CHARTERER PENINSULA SAYS
-- 09/09 21:20 [financialjuice] Charterer Peninsula: Oil products tanker Hercules Star involved in incident at anchorage off Dubai; one crew member killed.
 - 09/09 21:27 [DeItaone] AI BOOM DRIVES S&P 500 EARNINGS HIGHER S&P 500 earnings estimates are rising sharply, fueled by AI investment and stronger-than-expected corporate results. About 86% of companies beat analyst expectations, the highest share since 2021. Wall…
 - 09/09 21:35 [FirstSquawk] US 10-YEAR TREASURY YIELDS RISE TO 4.8184%, HIGHEST SINCE NOVEMBER 2023
 - 09/09 21:40 [FirstSquawk] GOLDMAN SACHS CEO: U.S. NEEDS STRONGER GROWTH TO KEEP PACE WITH RISING DEBT Goldman Sachs CEO David Solomon says the U.S. needs consistently higher economic growth to sustain its current levels of government spending and debt. He argues tha…
@@ -206,3 +192,18 @@
 - 09/10 03:00 [FirstSquawk] APPLE SAYS THE IPHONE DUO OPENS TO A 7.6-INCH SUPER RETINA XDR DISPLAY THAT IS 50% LARGER THAN THE IPHONE 18 PRO MAX - EVENT
 - 09/10 03:00 [DeItaone] APPLE INC.: SAYS IPHONE DUO WHEN OPEN IS THINNEST IPHONE EVER- EVENT
 - 09/10 03:00 [DeItaone] APPLE: IPHONE DUO OPENS TO A 7.6-INCH SUPER RETINA XDR DISPLAY THAT IS 50% LARGER THAN IPHONE 18 PRO MAX - EVENT
+- 09/10 03:01 [DeItaone] APPLE INC.: APPLE IPHONE DUO OUTER DISPLAY WILL BE 5.4 INCHES - EVENT
+- 09/10 03:03 [financialjuice] US Treasury Debt Buyback
+- 09/10 03:04 [financialjuice] US Treasury Debt Buyback Treasury receives $28.027B in buyback offers, accepts $12.5B. Treasury accepts 27 of 45 eligible issues in the debt buyback. Treasury debt buyback targets coupons maturing in 2026–2028.
+- 09/10 03:05 [DeItaone] APPLE SAYS IPHONE DUO CAN BE USED PARTIALLY FOLDED - EVENT
+- 09/10 03:06 [FirstSquawk] U.S. TREASURY'S DEBT BUYBACK TARGETED COUPONS MATURING IN 2026-2028, RECEIVING $28.027 BLN IN BUYBACK OFFERS AND ACCEPTING $12.5 BLN, TAKING 27 OF 45 ELIGIBLE ISSUES
+- 09/10 03:07 [financialjuice/FirstSquawk] Saudi-led coalition in Yemen: Houthis attacked on Wednesday Saudi cities of Khamis Mushait, Abha, and Jazan with ballistic missiles and drones.
+- 09/10 03:07 [FirstSquawk] CIA DIRECTOR JOHN RATCLIFFE IS PREPARING TO TAKE A LARGER ROLE IN U.S. EFFORTS TO END THE RUSSIA-UKRAINE WAR, POTENTIALLY REPLACING OR REDUCING THE ROLE OF SPECIAL ENVOY STEVE WITKOFF AND JARED KUSHNER, WITH U.S. OFFICIALS TELLING EUROPEAN …
+- 09/10 03:08 [DeItaone] TRUMP PROPOSES MAJOR OVERHAUL OF U.S. CENSUS The Trump administration proposed limiting the 2030 census to U.S. citizens and permanent residents, excluding undocumented and temporary lawful immigrants. The proposal would also remove race an…
+- 09/10 03:09 [FirstSquawk] APPLE SAYS THE IPHONE DUO'S OUTER DISPLAY WILL BE 5.4 INCHES AND THAT THE DEVICE WILL SUPPORT MULTIPLE APPS AT ONCE IN SEPARATE WINDOWS FOR PRODUCTIVITY, CAN BE USED PARTIALLY FOLDED, AND WILL BE POWERED BY A NEW DISPLAY ENGINE ON THE A20 P…
+- 09/10 03:11 [FirstSquawk] APPLE SAYS THE IPHONE DUO IS ESIM ONLY WORLDWIDE, AND THAT ITS C2 MODEM CHIP WILL HAVE 5G MILLIMETER WAVE SUPPORT IN THE UNITED STATES - EVENT
+- 09/10 03:16 [financialjuice] Apple's iPhone Duo starts at $1999 for 256 gigabytes. $AAPL
+- 09/10 03:17 [FirstSquawk] APPLE'S IPHONE DUO STARTS AT $1,999, WITH STORAGE RANGING FROM 256GB TO 2TB
+- 09/10 03:18 [FirstSquawk] IPHONE DUO'S PRE-ORDERS BEGIN 16 OCTOBER, WITH THE DEVICE AVAILABLE FROM 23 OCTOBER
+- 09/10 03:21 [financialjuice] Apple prices the 2-terabyte version of the iPhone Duo at $3,199. $AAPL
+- 09/10 03:22 [FirstSquawk] APPLE HAS PRICED THE 2-TERABYTE VERSION OF THE IPHONE DUO AT $3,199

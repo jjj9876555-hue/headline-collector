@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 03:01 JST／対象: 09/09 03:01 〜 09/10 03:01 JST（時刻はすべて日本時間）
+生成: 2026-09-10 03:23 JST／対象: 09/09 03:23 〜 09/10 03:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 09/09 03:46 | 09/10 03:00 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 364 | 09/09 03:02 | 09/10 03:00 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 226 | 09/09 03:12 | 09/10 02:55 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 46 | 09/09 03:46 | 09/10 03:08 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 369 | 09/09 03:40 | 09/10 03:22 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 230 | 09/09 03:31 | 09/10 03:21 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 619 行（統合前 636 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 631 行（統合前 648 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 03:02 [FirstSquawk] U.S. MILITARY UNDERWATER DRONE MALFUNCTIONED MORE THAN A DAY AGO IN THE MIDDLE EAST, A U.S. OFFICIAL SAYS, ADDING THAT THE DEFECTIVE DRONE WAS AN OLDER MODEL THAT WAS NOT CARRYING ANY CLASSIFIED SONAR OR RADAR EQUIPMENT
-- 09/09 03:04 [FirstSquawk] RUSSIA'S LAVROV SAYS PUTIN, TRUMP AND XI MAY MEET AT APEC IN NOVEMBER - IFX
-- 09/09 03:12 [financialjuice/FirstSquawk] USTR Greer and Canada's Leblanc to speak today -Radio-Canada
 - 09/09 03:31 [financialjuice] NYMEX WTI crude October futures settle at $93.03 a barrel, up $1.55, 1.69%.
 - 09/09 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.2525 a gallon.
 - 09/09 03:32 [financialjuice] NYMEX Diesel October futures settle at $4.5678 a gallon.
@@ -643,3 +640,18 @@
 - 09/10 03:00 [FirstSquawk] APPLE SAYS THE IPHONE DUO OPENS TO A 7.6-INCH SUPER RETINA XDR DISPLAY THAT IS 50% LARGER THAN THE IPHONE 18 PRO MAX - EVENT
 - 09/10 03:00 [DeItaone] APPLE INC.: SAYS IPHONE DUO WHEN OPEN IS THINNEST IPHONE EVER- EVENT
 - 09/10 03:00 [DeItaone] APPLE: IPHONE DUO OPENS TO A 7.6-INCH SUPER RETINA XDR DISPLAY THAT IS 50% LARGER THAN IPHONE 18 PRO MAX - EVENT
+- 09/10 03:01 [DeItaone] APPLE INC.: APPLE IPHONE DUO OUTER DISPLAY WILL BE 5.4 INCHES - EVENT
+- 09/10 03:03 [financialjuice] US Treasury Debt Buyback
+- 09/10 03:04 [financialjuice] US Treasury Debt Buyback Treasury receives $28.027B in buyback offers, accepts $12.5B. Treasury accepts 27 of 45 eligible issues in the debt buyback. Treasury debt buyback targets coupons maturing in 2026–2028.
+- 09/10 03:05 [DeItaone] APPLE SAYS IPHONE DUO CAN BE USED PARTIALLY FOLDED - EVENT
+- 09/10 03:06 [FirstSquawk] U.S. TREASURY'S DEBT BUYBACK TARGETED COUPONS MATURING IN 2026-2028, RECEIVING $28.027 BLN IN BUYBACK OFFERS AND ACCEPTING $12.5 BLN, TAKING 27 OF 45 ELIGIBLE ISSUES
+- 09/10 03:07 [financialjuice/FirstSquawk] Saudi-led coalition in Yemen: Houthis attacked on Wednesday Saudi cities of Khamis Mushait, Abha, and Jazan with ballistic missiles and drones.
+- 09/10 03:07 [FirstSquawk] CIA DIRECTOR JOHN RATCLIFFE IS PREPARING TO TAKE A LARGER ROLE IN U.S. EFFORTS TO END THE RUSSIA-UKRAINE WAR, POTENTIALLY REPLACING OR REDUCING THE ROLE OF SPECIAL ENVOY STEVE WITKOFF AND JARED KUSHNER, WITH U.S. OFFICIALS TELLING EUROPEAN …
+- 09/10 03:08 [DeItaone] TRUMP PROPOSES MAJOR OVERHAUL OF U.S. CENSUS The Trump administration proposed limiting the 2030 census to U.S. citizens and permanent residents, excluding undocumented and temporary lawful immigrants. The proposal would also remove race an…
+- 09/10 03:09 [FirstSquawk] APPLE SAYS THE IPHONE DUO'S OUTER DISPLAY WILL BE 5.4 INCHES AND THAT THE DEVICE WILL SUPPORT MULTIPLE APPS AT ONCE IN SEPARATE WINDOWS FOR PRODUCTIVITY, CAN BE USED PARTIALLY FOLDED, AND WILL BE POWERED BY A NEW DISPLAY ENGINE ON THE A20 P…
+- 09/10 03:11 [FirstSquawk] APPLE SAYS THE IPHONE DUO IS ESIM ONLY WORLDWIDE, AND THAT ITS C2 MODEM CHIP WILL HAVE 5G MILLIMETER WAVE SUPPORT IN THE UNITED STATES - EVENT
+- 09/10 03:16 [financialjuice] Apple's iPhone Duo starts at $1999 for 256 gigabytes. $AAPL
+- 09/10 03:17 [FirstSquawk] APPLE'S IPHONE DUO STARTS AT $1,999, WITH STORAGE RANGING FROM 256GB TO 2TB
+- 09/10 03:18 [FirstSquawk] IPHONE DUO'S PRE-ORDERS BEGIN 16 OCTOBER, WITH THE DEVICE AVAILABLE FROM 23 OCTOBER
+- 09/10 03:21 [financialjuice] Apple prices the 2-terabyte version of the iPhone Duo at $3,199. $AAPL
+- 09/10 03:22 [FirstSquawk] APPLE HAS PRICED THE 2-TERABYTE VERSION OF THE IPHONE DUO AT $3,199
