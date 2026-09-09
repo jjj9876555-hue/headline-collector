@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 20:43 JST／対象: 09/08 20:43 〜 09/09 20:43 JST（時刻はすべて日本時間）
+生成: 2026-09-09 20:59 JST／対象: 09/08 20:59 〜 09/09 20:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/08 22:06 | 09/09 20:42 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 425 | 09/08 20:47 | 09/09 20:43 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 263 | 09/08 20:45 | 09/09 20:37 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 29 | 09/08 22:06 | 09/09 20:50 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 425 | 09/08 21:02 | 09/09 20:51 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 262 | 09/08 21:00 | 09/09 20:37 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 701 行（統合前 719 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 700 行（統合前 719 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 20:45 [financialjuice] Russia’s Deputy PM Novak proposes pre-set fuel import volumes from Russia - IFX
-- 09/08 20:47 [FirstSquawk] ASTRAZENECA- TOZORAKIMAB SHOWS STATISTICALLY SIGNIFICANT,CLINICALLY MEANINGFUL REDUCTION IN COPD EXACERBATIONS IN OBERON, TITANIA PHASE III TRIALS || ASTRAZENECA- TOZORAKIMAB 300MG SHOWS REDUCTION IN MODERATE, SEVERE COPD EXACERBATIONS IN O…
-- 09/08 20:47 [FirstSquawk] ASTRAZENECA- TOZORAKIMAB 300MG SHOWS REDUCTION IN MODERATE, SEVERE COPD EXACERBATIONS IN OVERALL CURRENT, FORMER SMOKER POPULATION BY 29% IN TITANIA
-- 09/08 20:55 [FirstSquawk] INDONESIA TO TAKE CONTROL OF CHINA-FUNDED WHOOSH RAIL OPERATOR
 - 09/08 21:00 [financialjuice] Secured overnight financing rate 3.65% September 4th vs 3.66% September 3rd.
 - 09/08 21:02 [FirstSquawk] FRANCE CALLS FOR NEW EU TAXES TO RAISE €60B – POLITICO
 - 09/08 21:03 [financialjuice] Google Cloud to train up to 1,000 Accenture FDES - WSJ $GOOGL
@@ -723,5 +719,8 @@
 - 09/09 20:39 [DeItaone] GERMAN 2-YEAR YIELDS RISE AS MUCH AS 7.2 BPS TO 3.052%, SET FOR BIGGEST ONE-DAY INCREASE SINCE EARLY JULY
 - 09/09 20:41 [FirstSquawk] PUTIN'S AIDE: RUSSIA CONSIDERS ABU DHABI PRIORITY LOCATION FOR TALKS ON UKRAINE – VESTI
 - 09/09 20:41 [FirstSquawk] DOW IS CONSIDERING PULLING OUT OF A $20 BILLION CHEMICAL PROJECT IN SAUDI ARABIA.
-- 09/09 20:42 [DeItaone] KREMLIN: UNITED STATES SHOULD HALT ANY AID TO KYIV FOR THE MILITARY ACTIONS TO STOP
+- 09/09 20:42 [DeItaone/FirstSquawk] KREMLIN: UNITED STATES SHOULD HALT ANY AID TO KYIV FOR THE MILITARY ACTIONS TO STOP
 - 09/09 20:43 [FirstSquawk] UK BURNHAM: GAVE THE MOST CAREFUL CONSIDERATION ON ISRAEL MEASURES
+- 09/09 20:48 [FirstSquawk] MARCO RUBIO: EXPECT COLOMBIA'S DRUG-FIGHTING CERTIFICATION TO CHANGE
+- 09/09 20:50 [DeItaone] CENTRAL BANKS FOCUS ON FUEL PRICES AS INFLATION RISK Central banks are increasingly watching refining margins, or “crack spreads,” as fuel shortages push gasoline and diesel prices higher. Bank of England Governor Andrew Bailey said refined…
+- 09/09 20:51 [FirstSquawk] COMPANIES ARE INCREASING BOND MARKET BORROWING, RAISING OVER $70 BILLION ON TUESDAY, THE BUSIEST SESSION SINCE JUNE.
