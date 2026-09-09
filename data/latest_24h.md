@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 01:27 JST／対象: 09/09 01:27 〜 09/10 01:27 JST（時刻はすべて日本時間）
+生成: 2026-09-10 01:46 JST／対象: 09/09 01:46 〜 09/10 01:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/09 02:40 | 09/10 01:22 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 380 | 09/09 01:53 | 09/10 01:15 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 215 | 09/09 01:52 | 09/10 01:26 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 35 | 09/09 02:40 | 09/10 01:42 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 382 | 09/09 01:53 | 09/10 01:39 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 217 | 09/09 01:52 | 09/10 01:32 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 612 行（統合前 629 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 620 行（統合前 637 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -636,3 +636,11 @@
 - 09/10 01:22 [DeItaone] IRAN WARNS OF ESCALATION AS U.S. CONFLICT INTENSIFIES An Iranian official says Tehran is prepared for a more intense war with the U.S. if necessary, according to Bloomberg headlines shown in the report. The official said Iran would escalate…
 - 09/10 01:25 [financialjuice] China and Russia vote against effort to pressure Iran at IAEA.
 - 09/10 01:26 [financialjuice] Explosion heard from the sea near southern Jask - Fars News
+- 09/10 01:27 [financialjuice] No details are available regarding the source, exact location, or cause of the explosion - Fars News on explosion heard in Jask.
+- 09/10 01:28 [FirstSquawk] EXPLOSION REPORTED OFF JASK COAST IN SOUTHERN IRAN - FARS
+- 09/10 01:31 [DeItaone] U.S. CORE CPI SEEN COOLING TO 2.4% Analyst estimates ahead of Friday’s CPI report point to core inflation rising 0.22% month-over-month in August, matching July’s pace. Core CPI is expected to ease to 2.4% year-over-year, potentially the lo…
+- 09/10 01:32 [financialjuice] Iranian media: Reports of an oil tanker being targeted in the Strait of Hormuz - Al-Hadath
+- 09/10 01:38 [DeItaone] $AAPL - APPLE SLIPS AHEAD OF EXPECTED FOLDABLE IPHONE LAUNCH Apple shares fell 1.1% to $312.65 ahead of its first launch event under CEO John Ternus. Markets expect Apple to unveil its first foldable iPhone, potentially its biggest design o…
+- 09/10 01:39 [FirstSquawk] RUSSIA CLAIMS IT ATTACKED FACILITIES IN UKRAINE'S NIKOLAEV PORT, TARGETING LOGISTICS CENTERS, MILITARY, AND INDUSTRIAL SITES.
+- 09/10 01:42 [DeItaone] $AAPL - APPLE BETS ON FOLDABLE IPHONE TO DRIVE GROWTH Apple is expected to unveil its first foldable iPhone, targeting a mature smartphone market and aging consumers seeking larger screens. The device could cost more than $2,000, helping bo…
+- 09/10 01:42 [DeItaone] COPPER HITS RECORD AS GLOBAL SUPPLIES TIGHTEN Copper hit a fresh record of $14,802.50 a ton, as tight supplies outside the U.S. outweighed concerns over Middle East tensions and slowing growth. LME copper has surged about 25% since March, d…

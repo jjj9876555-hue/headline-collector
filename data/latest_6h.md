@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 01:27 JST／対象: 09/09 19:27 〜 09/10 01:27 JST（時刻はすべて日本時間）
+生成: 2026-09-10 01:46 JST／対象: 09/09 19:46 〜 09/10 01:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/09 19:30 | 09/10 01:22 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 92 | 09/09 19:30 | 09/10 01:15 | 28分（00:32→01:01） |
-| financialjuice | 77 | 09/09 19:47 | 09/10 01:26 | 35分（21:20→21:55） |
+| DeItaone | 21 | 09/09 19:57 | 09/10 01:42 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 89 | 09/09 19:47 | 09/10 01:39 | 28分（00:32→01:01） |
+| financialjuice | 79 | 09/09 19:47 | 09/10 01:32 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 187 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 19:30 [FirstSquawk] RYANAIR CEO O’LEARY TO REUTERS: ON TUESDAY WE CANCELLED 260 FLIGHTS, AFFECTING ABOUT 48,000 PASSENGERS
-- 09/09 19:30 [DeItaone] KREMLIN HOPES US-BROKERED UKRAINE TALKS RESUME SOON The Kremlin says it hopes US-mediated peace talks between Russia and Ukraine will restart soon, after negotiations stalled in February. Spokesman Dmitry Peskov declined to discuss possible…
-- 09/09 19:31 [DeItaone] KREMLIN: NORD STREAM PIPELINE COULD BE BROUGHT BACK ONLINE INSTANTLY
-- 09/09 19:33 [DeItaone] KREMLIN: EUROPE FEELING PAIN OF HIGHER GAS PRICES The Kremlin says Europe is suffering from soaring natural gas prices amid the Iran war and could cut costs by buying Russian gas. European gas prices recently reached their highest level sin…
-- 09/09 19:37 [FirstSquawk] AIRBNB SET TO FACE MORE RESTRICTIONS AS EUROPEAN COMMISSION PROPOSES NEW RULES TO TACKLE HOUSING CRUNCH
-- 09/09 19:37 [FirstSquawk] ANGOLA’S OIL AND GAS AGENCY ANPG, EXXONMOBIL AND BLOCK 15 PARTNERS ANNOUNCE NEW DISCOVERY IN OFFSHORE BLOCK 15- STATEMENT
-- 09/09 19:40 [FirstSquawk] AMAZON SEEKING AT LEAST £3 BILLION FROM FIRST STERLING BONDS
-- 09/09 19:43 [FirstSquawk/DeItaone] IRAN SAYS SHIPS PASSING RESTRICTED HORMUZ ZONE FACE SANCTIONS
 - 09/09 19:47 [FirstSquawk] IRAN'S IRGC SPOKESPERSON SAYS MARITIME RESTRICTED AREA EXTENDS FROM CHABAHAR INTO PARTS OF GULF OF OMAN AND ARABIAN SEA
 - 09/09 19:47 [FirstSquawk] IRGC SPOKESPERSON SAYS PRECISE COORDINATES OF RESTRICTED AREA WILL BE ANNOUNCED - FARS
 - 09/09 19:47 [financialjuice] Iran's IRGC Spokesperson: Maritime restricted area extends from Chabahar into parts of Gulf of Oman and Arabian Sea.
@@ -211,3 +203,11 @@
 - 09/10 01:22 [DeItaone] IRAN WARNS OF ESCALATION AS U.S. CONFLICT INTENSIFIES An Iranian official says Tehran is prepared for a more intense war with the U.S. if necessary, according to Bloomberg headlines shown in the report. The official said Iran would escalate…
 - 09/10 01:25 [financialjuice] China and Russia vote against effort to pressure Iran at IAEA.
 - 09/10 01:26 [financialjuice] Explosion heard from the sea near southern Jask - Fars News
+- 09/10 01:27 [financialjuice] No details are available regarding the source, exact location, or cause of the explosion - Fars News on explosion heard in Jask.
+- 09/10 01:28 [FirstSquawk] EXPLOSION REPORTED OFF JASK COAST IN SOUTHERN IRAN - FARS
+- 09/10 01:31 [DeItaone] U.S. CORE CPI SEEN COOLING TO 2.4% Analyst estimates ahead of Friday’s CPI report point to core inflation rising 0.22% month-over-month in August, matching July’s pace. Core CPI is expected to ease to 2.4% year-over-year, potentially the lo…
+- 09/10 01:32 [financialjuice] Iranian media: Reports of an oil tanker being targeted in the Strait of Hormuz - Al-Hadath
+- 09/10 01:38 [DeItaone] $AAPL - APPLE SLIPS AHEAD OF EXPECTED FOLDABLE IPHONE LAUNCH Apple shares fell 1.1% to $312.65 ahead of its first launch event under CEO John Ternus. Markets expect Apple to unveil its first foldable iPhone, potentially its biggest design o…
+- 09/10 01:39 [FirstSquawk] RUSSIA CLAIMS IT ATTACKED FACILITIES IN UKRAINE'S NIKOLAEV PORT, TARGETING LOGISTICS CENTERS, MILITARY, AND INDUSTRIAL SITES.
+- 09/10 01:42 [DeItaone] $AAPL - APPLE BETS ON FOLDABLE IPHONE TO DRIVE GROWTH Apple is expected to unveil its first foldable iPhone, targeting a mature smartphone market and aging consumers seeking larger screens. The device could cost more than $2,000, helping bo…
+- 09/10 01:42 [DeItaone] COPPER HITS RECORD AS GLOBAL SUPPLIES TIGHTEN Copper hit a fresh record of $14,802.50 a ton, as tight supplies outside the U.S. outweighed concerns over Middle East tensions and slowing growth. LME copper has surged about 25% since March, d…
