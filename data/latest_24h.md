@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 00:52 JST／対象: 09/09 00:52 〜 09/10 00:52 JST（時刻はすべて日本時間）
+生成: 2026-09-10 01:05 JST／対象: 09/09 01:05 〜 09/10 01:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/09 02:40 | 09/09 23:16 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 377 | 09/09 00:55 | 09/10 00:32 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 207 | 09/09 00:57 | 09/10 00:36 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 29 | 09/09 02:40 | 09/10 01:05 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 378 | 09/09 01:13 | 09/10 01:04 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 210 | 09/09 01:09 | 09/10 01:05 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 598 行（統合前 615 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 603 行（統合前 620 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 00:55 [FirstSquawk] QUALCOMM WILL BEGIN RECEIVING REVENUE FROM AMAZON IN THE DECEMBER QUARTER.
-- 09/09 00:57 [financialjuice] Qualcomm is going to get Amazon revenue starting in the December quarter. $QCOM
-- 09/09 00:57 [financialjuice] Qualcomm has high confidence in it's $5 bln data center target. $QCOM
-- 09/09 00:58 [FirstSquawk] QUALCOMM IS CONFIDENT ABOUT REACHING ITS $5 BILLION DATA CENTER GOAL.
-- 09/09 00:58 [FirstSquawk] EU OIL COORD GROUP SAYS THERE IS NO URGENT CONCERN ABOUT OIL SUPPLY SECURITY.
-- 09/09 01:02 [FirstSquawk] EU OIL GROUP WARNS THAT MIDEAST CONFLICT AND WINTER WEATHER COULD MAKE MARKETS TIGHTER.
 - 09/09 01:09 [financialjuice] Stocks of Crude oil in the US Strategic Petroleum Reserve fell by about 1.2 mln barrels to 285.4 mln barrels last week, lowest since 1982.
 - 09/09 01:13 [financialjuice] Samsung to integrate Mistral AI across it's semiconductor operations.
 - 09/09 01:13 [FirstSquawk] OPENAI IS INVESTING $5 MILLION TO BACK INDEPENDENT RESEARCH ON TEENAGE ISSUES.
@@ -622,3 +616,14 @@
 - 09/10 00:32 [FirstSquawk] FRANCE'S CAC 40 DOWN 1.87%; SPAIN'S IBEX DOWN 1.58%
 - 09/10 00:35 [financialjuice] Buyback increase is part of ongoing approach - Fox Business.
 - 09/10 00:36 [financialjuice] Fox Business cites Trump Admin Official on buyback announcement.
+- 09/10 01:01 [FirstSquawk] WHITE HOUSE REFUTES FINANCIAL TIMES REPORT ABOUT RATCLIFFE AND RUSSIA-UKRAINE DISCUSSIONS.
+- 09/10 01:01 [financialjuice] White House denies FT report on Ratcliffe and Russia-Ukraine talks
+- 09/10 01:01 [financialjuice] Iran: Once the conditions of war end, the ground will be prepared for the IAEA's verification activities - ISNA
+- 09/10 01:03 [financialjuice] EIA STEO Report EIA Raises Brent, WTI and US Oil Production Forecasts
+- 09/10 01:04 [FirstSquawk] EIA SEES 2026 U.S. OIL OUTPUT OF 13.83 MLN BPD, VS PRIOR FORECAST 13.8 MLN BPD; SEES 2027 OUTPUT OF 14.26 MLN BPD (PVS 14.15 MLN BPD) || EIA SEES 2026 U.S. NATGAS OUTPUT OF 111.7 BCF/DAY, VS PRIOR FORECAST 111.2 BCF/D; SEES 2027 DEMAND OF 1…
+- 09/10 01:04 [FirstSquawk] EIA SEES 2026 U.S. OIL DEMAND OF 20.6 MLN BPD, VS PRIOR FORECAST 20.6 MLN BPD; SEES 2027 DEMAND OF 20.8 MLN BPD (PVS 20.8 MLN BPD) || EIA SEES 2026 U.S. NATGAS DEMAND OF 92.2 BCF/DAY, VS PRIOR FORECAST 92 BCF/D; SEES 2027 DEMAND OF 94.3 BCF…
+- 09/10 01:04 [FirstSquawk] EIA SEES 2026 WORLD OIL OUTPUT OF 100.6 MLN BPD, VS PRIOR FORECAST 100.8 MLN BPD; SEES 2027 OUTPUT OF 109.9 MLN BPD (PVS 109.7 MLN BPD) || EIA SEES 2026 WORLD OIL DEMAND OF 102.6 MLN BPD, VS PRIOR FORECAST 102.7 MLN BPD; SEES 2027 DEMAND OF…
+- 09/10 01:04 [FirstSquawk] EIA SEES 2026 WTI PRICE AVERAGE OF 84.65/BBL, VS PRIOR FORECAST 80.88/BBL; 2027 FORECAST OF 69.74/BBL (PVS 65.39/BBL) || EIA SEES 2026 BRENT PRICE AVERAGE OF 91.01/BBL, VS PRIOR FORECAST 86.81/BBL; 2027 FORECAST OF 73.74/BBL (PVS 69.39/BBL)
+- 09/10 01:05 [financialjuice] EIA STEO Report
+- 09/10 01:05 [DeItaone] RESEARCHERS SAY OPENAI AGENTS BYPASSED WEB RESTRICTIONS Independent researchers say OpenAI AI agents used more than 10 websites for unauthorized communications, bypassing restrictions that were intended to limit them to reading the web. Som…
+- 09/10 01:05 [financialjuice] EIA STEO Report September 2026

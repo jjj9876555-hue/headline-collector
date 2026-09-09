@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 00:52 JST／対象: 09/09 18:52 〜 09/10 00:52 JST（時刻はすべて日本時間）
+生成: 2026-09-10 01:05 JST／対象: 09/09 19:05 〜 09/10 01:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/09 19:00 | 09/09 23:16 | ⚠ 56分（22:19→23:16） |
-| FirstSquawk | 91 | 09/09 18:53 | 09/10 00:32 | 18分（23:04→23:23） |
-| financialjuice | 66 | 09/09 19:03 | 09/10 00:36 | 35分（21:20→21:55） |
+| DeItaone | 19 | 09/09 19:30 | 09/10 01:05 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 94 | 09/09 19:05 | 09/10 01:04 | 28分（00:32→01:01） |
+| financialjuice | 70 | 09/09 19:14 | 09/10 01:05 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 172 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 179 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 18:53 [FirstSquawk] US 2-YEAR YIELD INCREASES 2 BASIS POINTS TO 4.42%, THE HIGHEST LEVEL SINCE JANUARY 2025.
-- 09/09 19:00 [DeItaone] US 2-YEAR YIELD RISES 2BPS TO 4.42%, HIGHEST SINCE JANUARY 2025
-- 09/09 19:02 [DeItaone/financialjuice] US CENTCOM: IRGC CLAIM OF STRIKES ON TWO U.S. NAVY DESTROYERS OPERATING IN THE MIDDLE EAST IS FALSE, ALL IRGC ATTEMPTED ATTACKS FAILED
-- 09/09 19:02 [FirstSquawk] US CENTCOM SAYS IRGC'S CLAIM ABOUT STRIKES ON TWO U.S. NAVY DESTROYERS IN THE MIDDLE EAST IS NOT TRUE, ALL ATTACKS FROM IRGC FAILED.
 - 09/09 19:05 [FirstSquawk] SILVER LAKE WILL COMBINE CEGID AND SILAE TO FORM A GROUP VALUED AT OVER €10 BILLION, ACCORDING TO THE FINANCIAL TIMES.
 - 09/09 19:11 [FirstSquawk] NASDAQ 100 FUTURES EXTEND LOSSES TO 0.5%
 - 09/09 19:14 [financialjuice] Panama-flagged tanker carrying 2 mln barrels of Iraqi fuel oil was struck by drone in Iraqi territorial waters - Two Port Officials.
@@ -196,3 +192,14 @@
 - 09/10 00:32 [FirstSquawk] FRANCE'S CAC 40 DOWN 1.87%; SPAIN'S IBEX DOWN 1.58%
 - 09/10 00:35 [financialjuice] Buyback increase is part of ongoing approach - Fox Business.
 - 09/10 00:36 [financialjuice] Fox Business cites Trump Admin Official on buyback announcement.
+- 09/10 01:01 [FirstSquawk] WHITE HOUSE REFUTES FINANCIAL TIMES REPORT ABOUT RATCLIFFE AND RUSSIA-UKRAINE DISCUSSIONS.
+- 09/10 01:01 [financialjuice] White House denies FT report on Ratcliffe and Russia-Ukraine talks
+- 09/10 01:01 [financialjuice] Iran: Once the conditions of war end, the ground will be prepared for the IAEA's verification activities - ISNA
+- 09/10 01:03 [financialjuice] EIA STEO Report EIA Raises Brent, WTI and US Oil Production Forecasts
+- 09/10 01:04 [FirstSquawk] EIA SEES 2026 U.S. OIL OUTPUT OF 13.83 MLN BPD, VS PRIOR FORECAST 13.8 MLN BPD; SEES 2027 OUTPUT OF 14.26 MLN BPD (PVS 14.15 MLN BPD) || EIA SEES 2026 U.S. NATGAS OUTPUT OF 111.7 BCF/DAY, VS PRIOR FORECAST 111.2 BCF/D; SEES 2027 DEMAND OF 1…
+- 09/10 01:04 [FirstSquawk] EIA SEES 2026 U.S. OIL DEMAND OF 20.6 MLN BPD, VS PRIOR FORECAST 20.6 MLN BPD; SEES 2027 DEMAND OF 20.8 MLN BPD (PVS 20.8 MLN BPD) || EIA SEES 2026 U.S. NATGAS DEMAND OF 92.2 BCF/DAY, VS PRIOR FORECAST 92 BCF/D; SEES 2027 DEMAND OF 94.3 BCF…
+- 09/10 01:04 [FirstSquawk] EIA SEES 2026 WORLD OIL OUTPUT OF 100.6 MLN BPD, VS PRIOR FORECAST 100.8 MLN BPD; SEES 2027 OUTPUT OF 109.9 MLN BPD (PVS 109.7 MLN BPD) || EIA SEES 2026 WORLD OIL DEMAND OF 102.6 MLN BPD, VS PRIOR FORECAST 102.7 MLN BPD; SEES 2027 DEMAND OF…
+- 09/10 01:04 [FirstSquawk] EIA SEES 2026 WTI PRICE AVERAGE OF 84.65/BBL, VS PRIOR FORECAST 80.88/BBL; 2027 FORECAST OF 69.74/BBL (PVS 65.39/BBL) || EIA SEES 2026 BRENT PRICE AVERAGE OF 91.01/BBL, VS PRIOR FORECAST 86.81/BBL; 2027 FORECAST OF 73.74/BBL (PVS 69.39/BBL)
+- 09/10 01:05 [financialjuice] EIA STEO Report
+- 09/10 01:05 [DeItaone] RESEARCHERS SAY OPENAI AGENTS BYPASSED WEB RESTRICTIONS Independent researchers say OpenAI AI agents used more than 10 websites for unauthorized communications, bypassing restrictions that were intended to limit them to reading the web. Som…
+- 09/10 01:05 [financialjuice] EIA STEO Report September 2026

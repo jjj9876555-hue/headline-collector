@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 00:52 JST／対象: 09/09 12:52 〜 09/10 00:52 JST（時刻はすべて日本時間）
+生成: 2026-09-10 01:05 JST／対象: 09/09 13:05 〜 09/10 01:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/09 16:31 | 09/09 23:16 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 177 | 09/09 12:53 | 09/10 00:32 | 19分（16:10→16:29） |
-| financialjuice | 79 | 09/09 13:03 | 09/10 00:36 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 25 | 09/09 16:31 | 09/10 01:05 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 180 | 09/09 13:11 | 09/10 01:04 | 28分（00:32→01:01） |
+| financialjuice | 83 | 09/09 13:30 | 09/10 01:05 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 274 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 283 行（統合前 289 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 12:53 [FirstSquawk] Thailand to Exempt Some Solar Panel Imports From Tax, Finance Minister Says
-- 09/09 13:00 [FirstSquawk] Gold bounces off one-week low on soft USD; upside seems capped ahead of US inflation data - fx
-- 09/09 13:02 [FirstSquawk/financialjuice] Anthropic withheld latest AI model from UK testing agency - FT
-- 09/09 13:03 [FirstSquawk] McLaren to create 1,000 UK jobs in product overhaul - FT
 - 09/09 13:11 [FirstSquawk] Sinopec Research Sees China’s 2026 Apparent Oil Demand Declining 600,000 Bpd, or 8.9% From a Year Earlier
 - 09/09 13:11 [FirstSquawk] China’s Oil Demand Peaked in 2025, Set to Fall Below 750 Million Tons by 2030 and About 300 Million Tons by 2060, Sinopec Says
 - 09/09 13:11 [FirstSquawk] China’s 2026 Gasoline, Diesel Demand Seen Declining 8.7% and 11.4%, Respectively; Jet Fuel Demand Up 1.3%, Sinopec Says
@@ -38,6 +34,8 @@
 - 09/09 13:13 [FirstSquawk] China Set to Achieve Peak Carbon Emissions Ahead of 2030, Sinopec Says
 - 09/09 13:13 [FirstSquawk] Sinopec Sees China Natural Gas Demand Rising Above 50 Bcm by 2030
 - 09/09 13:30 [FirstSquawk] IRAN TURNS TO CRYPTO TO GET AROUND SANCTIONS – FT
+- 09/09 13:30 [FirstSquawk] MCLAREN TO CREATE 1,000 UK JOBS IN PRODUCT OVERHAUL – FT
+- 09/09 13:30 [FirstSquawk] ANTHROPIC WITHHELD LATEST AI MODEL FROM UK TESTING AGENCY - FT
 - 09/09 13:30 [financialjuice] DUTCH CONSUMER SPENDING ACTUAL 1.2% (FORECAST -, PREVIOUS 1.7%) $MACRO
 - 09/09 13:30 [financialjuice] Dutch July consumer spending rises 1.2% y/y after 1.7% gain in June: CBS
 - 09/09 13:36 [FirstSquawk] Qatar Says Civil Defence Has Controlled Fire on Vessel at Al Wakra Port; No Injuries Reported
@@ -298,3 +296,14 @@
 - 09/10 00:32 [FirstSquawk] FRANCE'S CAC 40 DOWN 1.87%; SPAIN'S IBEX DOWN 1.58%
 - 09/10 00:35 [financialjuice] Buyback increase is part of ongoing approach - Fox Business.
 - 09/10 00:36 [financialjuice] Fox Business cites Trump Admin Official on buyback announcement.
+- 09/10 01:01 [FirstSquawk] WHITE HOUSE REFUTES FINANCIAL TIMES REPORT ABOUT RATCLIFFE AND RUSSIA-UKRAINE DISCUSSIONS.
+- 09/10 01:01 [financialjuice] White House denies FT report on Ratcliffe and Russia-Ukraine talks
+- 09/10 01:01 [financialjuice] Iran: Once the conditions of war end, the ground will be prepared for the IAEA's verification activities - ISNA
+- 09/10 01:03 [financialjuice] EIA STEO Report EIA Raises Brent, WTI and US Oil Production Forecasts
+- 09/10 01:04 [FirstSquawk] EIA SEES 2026 U.S. OIL OUTPUT OF 13.83 MLN BPD, VS PRIOR FORECAST 13.8 MLN BPD; SEES 2027 OUTPUT OF 14.26 MLN BPD (PVS 14.15 MLN BPD) || EIA SEES 2026 U.S. NATGAS OUTPUT OF 111.7 BCF/DAY, VS PRIOR FORECAST 111.2 BCF/D; SEES 2027 DEMAND OF 1…
+- 09/10 01:04 [FirstSquawk] EIA SEES 2026 U.S. OIL DEMAND OF 20.6 MLN BPD, VS PRIOR FORECAST 20.6 MLN BPD; SEES 2027 DEMAND OF 20.8 MLN BPD (PVS 20.8 MLN BPD) || EIA SEES 2026 U.S. NATGAS DEMAND OF 92.2 BCF/DAY, VS PRIOR FORECAST 92 BCF/D; SEES 2027 DEMAND OF 94.3 BCF…
+- 09/10 01:04 [FirstSquawk] EIA SEES 2026 WORLD OIL OUTPUT OF 100.6 MLN BPD, VS PRIOR FORECAST 100.8 MLN BPD; SEES 2027 OUTPUT OF 109.9 MLN BPD (PVS 109.7 MLN BPD) || EIA SEES 2026 WORLD OIL DEMAND OF 102.6 MLN BPD, VS PRIOR FORECAST 102.7 MLN BPD; SEES 2027 DEMAND OF…
+- 09/10 01:04 [FirstSquawk] EIA SEES 2026 WTI PRICE AVERAGE OF 84.65/BBL, VS PRIOR FORECAST 80.88/BBL; 2027 FORECAST OF 69.74/BBL (PVS 65.39/BBL) || EIA SEES 2026 BRENT PRICE AVERAGE OF 91.01/BBL, VS PRIOR FORECAST 86.81/BBL; 2027 FORECAST OF 73.74/BBL (PVS 69.39/BBL)
+- 09/10 01:05 [financialjuice] EIA STEO Report
+- 09/10 01:05 [DeItaone] RESEARCHERS SAY OPENAI AGENTS BYPASSED WEB RESTRICTIONS Independent researchers say OpenAI AI agents used more than 10 websites for unauthorized communications, bypassing restrictions that were intended to limit them to reading the web. Som…
+- 09/10 01:05 [financialjuice] EIA STEO Report September 2026
