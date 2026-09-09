@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 04:31 JST／対象: 09/09 16:31 〜 09/10 04:31 JST（時刻はすべて日本時間）
+生成: 2026-09-10 04:43 JST／対象: 09/09 16:43 〜 09/10 04:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 51 | 09/09 16:31 | 09/10 03:34 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 169 | 09/09 16:39 | 09/10 04:07 | ⚠ 54分（01:52→02:47） |
+| DeItaone | 50 | 09/09 18:32 | 09/10 03:34 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 168 | 09/09 16:48 | 09/10 04:07 | ⚠ 54分（01:52→02:47） |
 | financialjuice | 136 | 09/09 17:26 | 09/10 04:22 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 347 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 345 行（統合前 355 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 16:31 [DeItaone] MORGAN STANLEY SEES OIL TRADERS CUTTING LONG-TERM RISK Oil traders are reducing longer-term exposure as the Iran and Ukraine wars increase uncertainty, according to Morgan Stanley’s Brendan Ross. Ross said traders are concentrating position…
-- 09/09 16:39 [FirstSquawk] EU COURT DISMISSES HUNGARY'S ACTION AGAINST ALLOCATION OF PROFITS ON FROZEN RUSSIAN ASSETS TO UKRAINE
 - 09/09 16:48 [FirstSquawk] GERMAN FOREIGN MINISTER WADEPHUL ON THE AFD: ONLY THE EUROPEAN UNION GIVES US THE OPPORTUNITY TO CREATE FAIR CONDITIONS FOR OUR INDUSTRY GLOBALLY.
 - 09/09 16:48 [FirstSquawk] EUROPE’S SPACE BOSS WANTS EUROPEAN COUNTRIES TO DECIDE BY THE END OF THE YEAR WHETHER TO LAUNCH ASTRONAUTS WITHOUT U.S. HELP.
 - 09/09 16:54 [FirstSquawk] RUSSIA’S BIGGEST BLACK SEA PORT OF NOVOROSSIYSK AND THE SURROUNDING AREAS WERE ATTACKED BY DRONES OVERNIGHT, DAMAGING INFRASTRUCTURE AND THREATENING TO FURTHER SQUEEZE COMMODITY FLOWS FROM THE REGION

@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 04:31 JST／対象: 09/09 04:31 〜 09/10 04:31 JST（時刻はすべて日本時間）
+生成: 2026-09-10 04:43 JST／対象: 09/09 04:43 〜 09/10 04:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 53 | 09/09 05:31 | 09/10 03:34 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 357 | 09/09 04:34 | 09/10 04:07 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 231 | 09/09 04:31 | 09/10 04:22 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 356 | 09/09 04:48 | 09/10 04:07 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 228 | 09/09 04:47 | 09/10 04:22 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 626 行（統合前 644 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 623 行（統合前 640 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 04:31 [financialjuice/FirstSquawk] Iranian tanker was targeted by a US missile attack four miles from Kharg Island - Tasnim
-- 09/09 04:37 [financialjuice] US military has struck targets near Kharg Island - Fox News
-- 09/09 04:40 [financialjuice] The US struck targets near Jask - Fox reporter citing US Officials.
 - 09/09 04:47 [financialjuice] Broadcom CEO: Can lock in chip supply for 2027, in process of locking in 2028 supply - Goldman Sachs Conference $AVGO
 - 09/09 04:48 [FirstSquawk] TURKEY CONDEMNS HOUTHI ATTACKS ON SAUDI ARABIA IN THE STRONGEST TERMS, REAFFIRMS SOLIDARITY WITH RIYADH & WARNS AGAINST FURTHER REGIONAL ESCALATION.
 - 09/09 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1393.9 MLN NASDAQ 100: -394.0 MLN DOW 30: -266.3 MLN MAG 7: -122.9 MLN $MACRO
