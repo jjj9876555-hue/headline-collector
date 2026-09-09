@@ -7,37 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 07:58 JST／対象: 09/09 07:58 〜 09/10 07:58 JST（時刻はすべて日本時間）
+生成: 2026-09-10 08:15 JST／対象: 09/09 08:15 〜 09/10 08:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 344 | 09/09 07:59 | 09/10 07:48 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 209 | 09/09 08:00 | 09/10 07:00 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 343 | 09/09 08:18 | 09/10 08:15 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 207 | 09/09 08:37 | 09/10 08:13 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 595 行（統合前 611 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 593 行（統合前 608 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 07:59 [FirstSquawk] WHITE HOUSE SAYS IT IS EXCLUDING CERTAIN CANADIAN PRODUCTS FROM IMPORTATION INTO THE UNITED STATES, IN RESPONSE TO WHAT IT CALLS CONTINUED DISCRIMINATION AGAINST U.S. COMMERCE WITH RESPECT TO ALCOHOLIC BEVERAGES, WITH CERTAIN CANADIAN ALCOH…
-- 09/09 07:59 [FirstSquawk] WHITE HOUSE SAYS PRODUCTS IMPORTED, BUT NOT ENTERED FOR CONSUMPTION OR WITHDRAWN FROM WAREHOUSE, PRIOR TO SEPTEMBER 29, 2026 WILL REMAIN SUBJECT TO A 50% TARIFF.
-- 09/09 08:00 [financialjuice] S. KOREAN UNEMPLOYMENT RATE ACTUAL 2.7% (FORECAST 2.8%, PREVIOUS 2.8%) $MACRO
-- 09/09 08:00 [financialjuice] Tankan: Japan manufacturers December gauge estimated at +27, non-manufacturers +27
-- 09/09 08:00 [financialjuice] S. Korea’s August unemployment rate seasonally adjusted 2.7% vs 2.8% in July: data ministry
-- 09/09 08:00 [financialjuice] Tankan: Japan manufacturers index rises to 21 in September from 18 in August
-- 09/09 08:00 [financialjuice] S. Korea August employment up 184,000 year/year vs 108,000 in July: data ministry
-- 09/09 08:06 [financialjuice] Senior Trump administration official: Trump approved series of proclamations on Canada trade measures
-- 09/09 08:07 [financialjuice] Senior Trump administration official: ban on dairy, most alcohol, motorcycles imports from Canada under section 338
-- 09/09 08:08 [financialjuice] Senior Trump administration official: import restrictions on Canadian goods effective in about three weeks
-- 09/09 08:11 [financialjuice] Senior Trump administration official: Trump’s stance on Jan. 1, 2027, auto tariff hike remains in effect
-- 09/09 08:12 [financialjuice] Senior Trump administration official: U.S. held talks with Canada's Minister LeBlanc over past few days
-- 09/09 08:15 [financialjuice/FirstSquawk] Iran’s Revolutionary Guards: ballistic missile strike on two U.S. destroyers - Iranian state media
-- 09/09 08:15 [financialjuice] Mexico economy minister: U.S. commerce secretary to visit Mexico City Wednesday for meeting with President Sheinbaum
+- 09/09 08:18 [FirstSquawk] IRAN’S REVOLUTIONARY GUARDS: BALLISTIC MISSILE STRIKE ON TWO U.S. DESTROYERS - IRANIAN STATE MEDIA
 - 09/09 08:18 [FirstSquawk] SENIOR TRUMP ADMINISTRATION OFFICIAL SAYS TRUMP HAS SIGNED A SERIES OF PROCLAMATIONS REGARDING CANADA TRADE ACTIONS, BANNING THE IMPORTATION OF DAIRY PRODUCTS, MOST ALCOHOLIC PRODUCTS AND MOTORCYCLES FROM CANADA UNDER SECTION 338, WITH THE …
 - 09/09 08:18 [FirstSquawk] SENIOR TRUMP ADMINISTRATION OFFICIAL SAYS TRUMP'S POSITION ON THE JANUARY 1, 2027 AUTO TARIFF INCREASE IS STILL IN EFFECT, THAT THE U.S. HAS HAD CONVERSATIONS WITH CANADA'S MINISTER LEBLANC OVER THE PAST COUPLE OF DAYS, AND THAT TRUMP IS RE…
 - 09/09 08:23 [FirstSquawk] RUSSIA IS EXPECTED TO PROLONG THE UKRAINE WAR INTO 2027 AS PEACE TALKS STALL, WITH PUTIN BELIEVED TO BE WAITING FOR A STRONGER MILITARY AND POLITICAL POSITION BEFORE SERIOUS NEGOTIATIONS. WESTERN OFFICIALS WARN MOSCOW WILL INTENSIFY WINTER …
@@ -619,3 +606,14 @@
 - 09/10 07:42 [FirstSquawk] OPENAI CUTS OFF ADOBE AND OTHERS FROM ADVERTISING IN IMAGE PRODUCTS - THE INFORMATION
 - 09/10 07:48 [FirstSquawk] ANTHROPIC DISCLOSES A FOURTH CYBERSECURITY INCIDENT INVOLVING AN EARLY CLAUDE OPUS 4.6 MODEL AND SAYS CLAUDE MYTHOS 5 ATTEMPTED TO UPLOAD A MALICIOUS PACKAGE TO PYPI, RAISING FRESH CONCERNS OVER AI MODEL BEHAVIOR.
 - 09/10 07:48 [FirstSquawk] ANTHROPIC HAS HIRED METR FOR AN INDEPENDENT INVESTIGATION, SAYING ALL FOUR INCIDENTS OCCURRED DURING CYBERSECURITY EVALUATIONS AND INVOLVED SINGLE CLAUDE INSTANCES WITHOUT ATTEMPTS TO COORDINATE WITH OTHER AI AGENTS.
+- 09/10 08:00 [financialjuice] 46% of Japan firms want PM Takaichi to remain beyond current term vs 18% opposed, survey shows
+- 09/10 08:00 [financialjuice] More than two-thirds of Japan firms back PM Takaichi's economic policies: survey shows
+- 09/10 08:00 [financialjuice] Nearly a third of Japan firms want yen to trade at 150-159.99 per dollar, a quarter favor 140-149.99 per dollar: source survey shows
+- 09/10 08:01 [financialjuice] UK RICS HOUSING SURVEY ACTUAL -28 (FORECAST -30, PREVIOUS -30) $MACRO
+- 09/10 08:04 [financialjuice] Democratic senator Fetterman to appear in video at Republican convention in Dallas, U.S. media
+- 09/10 08:06 [financialjuice] Trump’s top advisers face possibility iran war continues through end of term - wsj
+- 09/10 08:11 [financialjuice] Democratic Senator Fetterman appears in video at Republican convention in Dallas
+- 09/10 08:13 [financialjuice] No consistent spoken reply to pilot’s remarks on speed: NTSB
+- 09/10 08:13 [financialjuice] One pilot of crashed Amazon cargo plane tells other about excessive speed in final 1 minute 42 seconds of cockpit voice recording, NTSB says
+- 09/10 08:13 [financialjuice] 'Too low, terrain' was repeated several times before plane landed on runway: NTSB
+- 09/10 08:15 [FirstSquawk] JAPAN SURVEY SHOWS NEARLY ONE-THIRD OF COMPANIES PREFER THE YEN TO TRADE AT 150-159.99 PER DOLLAR, WHILE ABOUT A QUARTER FAVOR THE 140-149.99 RANGE. MORE THAN TWO-THIRDS OF JAPANESE FIRMS BACK PM SANAE TAKAICHI’S ECONOMIC POLICIES, WITH 46%…

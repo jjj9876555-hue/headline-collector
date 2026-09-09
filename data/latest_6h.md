@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 07:58 JST／対象: 09/10 01:58 〜 09/10 07:58 JST（時刻はすべて日本時間）
+生成: 2026-09-10 08:15 JST／対象: 09/10 02:15 〜 09/10 08:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/10 02:13 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 57 | 09/10 02:47 | 09/10 07:48 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 69 | 09/10 02:00 | 09/10 07:00 | 28分（04:22→04:50） |
+| DeItaone | 21 | 09/10 02:16 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
+| FirstSquawk | 58 | 09/10 02:47 | 09/10 08:15 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 71 | 09/10 02:16 | 09/10 08:13 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 144 行（統合前 150 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,17 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 02:00 [financialjuice] Treasury WI 10 yr yield 4.849% before $39 billion auction
-- 09/10 02:02 [financialjuice] US 10-YEAR NOTE HIGH YIELD ACTUAL 4.834% (FORECAST -, PREVIOUS 4.683%) $MACRO
-- 09/10 02:02 [financialjuice] US 10-YEAR NOTE BID-TO-COVER ACTUAL 2.71 (FORECAST -, PREVIOUS 2.530) $MACRO
-- 09/10 02:03 [financialjuice] US 10-Year Note Auction
-- 09/10 02:03 [financialjuice] US 10-Year Note Auction High Yield 4.834% [Stop-through 1.5 bps] Bid-to-cover 2.71 Sells 39 bln Awards 89.25% of bids at high Primary Dealers take 4.3% Direct 16.5% Indirect 79.2%
-- 09/10 02:08 [financialjuice] Apple unveils iPhone 18 Pro and iPhone 18 Pro Max at event
-- 09/10 02:13 [DeItaone] APPLE: APPLE INTELLIGENCE IS NOT AVAILABLE IN CHINA - EVENT
-- 09/10 02:14 [DeItaone] APPLE: UPDATED SIRI WILL NOT BE AVAILABLE IN EU AND CHINA – EVENT
-- 09/10 02:14 [financialjuice] Apple: Apple Intelligence is not available in China or the EU - Event. $AAPL
-- 09/10 02:14 [DeItaone] APPLE ANNONCES A20 PRO CHIP BASED ON 2NM TECHNOLOGY - EVENT
-- 09/10 02:15 [financialjuice] Apple announces A20 Pro chip based on 2NM technology $AAPL
 - 09/10 02:16 [DeItaone] APPLE: A20 PRO CHIP HAS SEVEN GPU CORES - EVENT
 - 09/10 02:16 [financialjuice] Apple: A20 Pro chip has seven GPU cores. $AAPL
 - 09/10 02:17 [financialjuice] Apple: A20 chip will have two neural engines with 32 cores total, increasing on-device AI performance $AAPL
@@ -168,3 +157,14 @@
 - 09/10 07:42 [FirstSquawk] OPENAI CUTS OFF ADOBE AND OTHERS FROM ADVERTISING IN IMAGE PRODUCTS - THE INFORMATION
 - 09/10 07:48 [FirstSquawk] ANTHROPIC DISCLOSES A FOURTH CYBERSECURITY INCIDENT INVOLVING AN EARLY CLAUDE OPUS 4.6 MODEL AND SAYS CLAUDE MYTHOS 5 ATTEMPTED TO UPLOAD A MALICIOUS PACKAGE TO PYPI, RAISING FRESH CONCERNS OVER AI MODEL BEHAVIOR.
 - 09/10 07:48 [FirstSquawk] ANTHROPIC HAS HIRED METR FOR AN INDEPENDENT INVESTIGATION, SAYING ALL FOUR INCIDENTS OCCURRED DURING CYBERSECURITY EVALUATIONS AND INVOLVED SINGLE CLAUDE INSTANCES WITHOUT ATTEMPTS TO COORDINATE WITH OTHER AI AGENTS.
+- 09/10 08:00 [financialjuice] 46% of Japan firms want PM Takaichi to remain beyond current term vs 18% opposed, survey shows
+- 09/10 08:00 [financialjuice] More than two-thirds of Japan firms back PM Takaichi's economic policies: survey shows
+- 09/10 08:00 [financialjuice] Nearly a third of Japan firms want yen to trade at 150-159.99 per dollar, a quarter favor 140-149.99 per dollar: source survey shows
+- 09/10 08:01 [financialjuice] UK RICS HOUSING SURVEY ACTUAL -28 (FORECAST -30, PREVIOUS -30) $MACRO
+- 09/10 08:04 [financialjuice] Democratic senator Fetterman to appear in video at Republican convention in Dallas, U.S. media
+- 09/10 08:06 [financialjuice] Trump’s top advisers face possibility iran war continues through end of term - wsj
+- 09/10 08:11 [financialjuice] Democratic Senator Fetterman appears in video at Republican convention in Dallas
+- 09/10 08:13 [financialjuice] No consistent spoken reply to pilot’s remarks on speed: NTSB
+- 09/10 08:13 [financialjuice] One pilot of crashed Amazon cargo plane tells other about excessive speed in final 1 minute 42 seconds of cockpit voice recording, NTSB says
+- 09/10 08:13 [financialjuice] 'Too low, terrain' was repeated several times before plane landed on runway: NTSB
+- 09/10 08:15 [FirstSquawk] JAPAN SURVEY SHOWS NEARLY ONE-THIRD OF COMPANIES PREFER THE YEN TO TRADE AT 150-159.99 PER DOLLAR, WHILE ABOUT A QUARTER FAVOR THE 140-149.99 RANGE. MORE THAN TWO-THIRDS OF JAPANESE FIRMS BACK PM SANAE TAKAICHI’S ECONOMIC POLICIES, WITH 46%…

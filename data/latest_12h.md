@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 07:58 JST／対象: 09/09 19:58 〜 09/10 07:58 JST（時刻はすべて日本時間）
+生成: 2026-09-10 08:15 JST／対象: 09/09 20:15 〜 09/10 08:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 09/09 20:02 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 145 | 09/09 20:00 | 09/10 07:48 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 147 | 09/09 20:00 | 09/10 07:00 | 35分（21:20→21:55） |
+| DeItaone | 40 | 09/09 20:35 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 141 | 09/09 20:24 | 09/10 08:15 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 154 | 09/09 20:26 | 09/10 08:13 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 327 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,17 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -2.7% (FORECAST -, PREVIOUS 0.8%) $MACRO
-- 09/09 20:00 [FirstSquawk] UKMTO RECEIVED A REPORT OF AN INCIDENT 28 NM SOUTHEAST OF FAW, IRAQ, WHERE A VESSEL WAS HIT BY A PROJECTILE, BUT THE CREW IS SAFE.
-- 09/09 20:00 [FirstSquawk] UKMTO REPORTS NO ENVIRONMENTAL IMPACT AT THIS TIME.
-- 09/09 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 6.85% (FORECAST -, PREVIOUS 6.79%) $MACRO
-- 09/09 20:00 [FirstSquawk] US MBA MORTGAGE APPLICATIONS FELL BY 2.7% ON SEP-04, DOWN FROM 0.8% PREVIOUSLY.
-- 09/09 20:02 [DeItaone] US MORTGAGE DEMAND FALLS AS RATES HIT 6.85% US mortgage applications fell 2.7% last week, according to the Mortgage Bankers Association. Refinancing applications dropped 6.2%, while home-purchase applications slipped 0.2%. The average 30-ye…
-- 09/09 20:04 [DeItaone] IRGC: WE WILL HIT 20 TARGETS FOR EVERY 2 OR 3 STRUCK Iran’s Revolutionary Guards warned they would respond forcefully to further attacks, saying every two or three Iranian targets hit could trigger strikes on 20 enemy targets. The IRGC also…
-- 09/09 20:08 [DeItaone] U.S. BANK LAUNCHES ITS OWN STABLECOIN U.S. Bank has successfully tested USBDC, its proprietary dollar-backed stablecoin, in a live cross-border payment between its North American and European operations. The transaction ran on the Stellar b…
-- 09/09 20:10 [financialjuice] UK's PM Burnham: Will take pragmatic approach on North Sea oil and gas.
-- 09/09 20:11 [FirstSquawk] GERMAN GOVT SPOKESPERSON: WE USUALLY AVOID COMMENTING ON REMARKS BY OTHER WORLD LEADERS.
-- 09/09 20:11 [FirstSquawk] BURNHAM WILL USE A PRACTICAL METHOD FOR NORTH SEA OIL AND GAS.
 - 09/09 20:24 [FirstSquawk] US BANK LAUNCHES USBDC STABLECOIN
 - 09/09 20:24 [FirstSquawk] UK PM BURNHAM: WILL TAKE PRAGMATIC APPROACH ON NORTH SEA OIL AND GAS
 - 09/09 20:26 [FirstSquawk] BURNHAM: PLAN FURTHER MEASURES ON COST OF LIVING THIS YEAR
@@ -351,3 +340,14 @@
 - 09/10 07:42 [FirstSquawk] OPENAI CUTS OFF ADOBE AND OTHERS FROM ADVERTISING IN IMAGE PRODUCTS - THE INFORMATION
 - 09/10 07:48 [FirstSquawk] ANTHROPIC DISCLOSES A FOURTH CYBERSECURITY INCIDENT INVOLVING AN EARLY CLAUDE OPUS 4.6 MODEL AND SAYS CLAUDE MYTHOS 5 ATTEMPTED TO UPLOAD A MALICIOUS PACKAGE TO PYPI, RAISING FRESH CONCERNS OVER AI MODEL BEHAVIOR.
 - 09/10 07:48 [FirstSquawk] ANTHROPIC HAS HIRED METR FOR AN INDEPENDENT INVESTIGATION, SAYING ALL FOUR INCIDENTS OCCURRED DURING CYBERSECURITY EVALUATIONS AND INVOLVED SINGLE CLAUDE INSTANCES WITHOUT ATTEMPTS TO COORDINATE WITH OTHER AI AGENTS.
+- 09/10 08:00 [financialjuice] 46% of Japan firms want PM Takaichi to remain beyond current term vs 18% opposed, survey shows
+- 09/10 08:00 [financialjuice] More than two-thirds of Japan firms back PM Takaichi's economic policies: survey shows
+- 09/10 08:00 [financialjuice] Nearly a third of Japan firms want yen to trade at 150-159.99 per dollar, a quarter favor 140-149.99 per dollar: source survey shows
+- 09/10 08:01 [financialjuice] UK RICS HOUSING SURVEY ACTUAL -28 (FORECAST -30, PREVIOUS -30) $MACRO
+- 09/10 08:04 [financialjuice] Democratic senator Fetterman to appear in video at Republican convention in Dallas, U.S. media
+- 09/10 08:06 [financialjuice] Trump’s top advisers face possibility iran war continues through end of term - wsj
+- 09/10 08:11 [financialjuice] Democratic Senator Fetterman appears in video at Republican convention in Dallas
+- 09/10 08:13 [financialjuice] No consistent spoken reply to pilot’s remarks on speed: NTSB
+- 09/10 08:13 [financialjuice] One pilot of crashed Amazon cargo plane tells other about excessive speed in final 1 minute 42 seconds of cockpit voice recording, NTSB says
+- 09/10 08:13 [financialjuice] 'Too low, terrain' was repeated several times before plane landed on runway: NTSB
+- 09/10 08:15 [FirstSquawk] JAPAN SURVEY SHOWS NEARLY ONE-THIRD OF COMPANIES PREFER THE YEN TO TRADE AT 150-159.99 PER DOLLAR, WHILE ABOUT A QUARTER FAVOR THE 140-149.99 RANGE. MORE THAN TWO-THIRDS OF JAPANESE FIRMS BACK PM SANAE TAKAICHI’S ECONOMIC POLICIES, WITH 46%…
