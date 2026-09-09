@@ -7,39 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 10:18 JST／対象: 09/08 22:18 〜 09/09 10:18 JST（時刻はすべて日本時間）
+生成: 2026-09-09 10:34 JST／対象: 09/08 22:34 〜 09/09 10:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/08 22:39 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 230 | 09/08 22:24 | 09/09 10:06 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 200 | 09/08 22:23 | 09/09 10:17 | ⚠ 70分（08:50→10:00） |
+| FirstSquawk | 238 | 09/08 22:35 | 09/09 10:32 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 202 | 09/08 22:34 | 09/09 10:30 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 428 行（統合前 438 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 439 行（統合前 448 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 22:23 [financialjuice] BoE Gov. Bailey: The US-Iran war has led to high energy prices, they could be higher still.
-- 09/08 22:24 [FirstSquawk] BAILEY: ENERGY PRICES COULD GO EVEN HIGHER DUE TO US-IRAN WAR
-- 09/08 22:25 [FirstSquawk] BOE'S BAILEY: UKRAINIAN ATTACKS ON RUSSIAN REFINERIES ALSO PUSHING UP COST OF REFINED OIL PRODUCTS
-- 09/08 22:26 [financialjuice] BoE Gov. Bailey: The Ukrainian attacks on Russian refineries are pushing up cost of refined oil products.
-- 09/08 22:29 [financialjuice] NATO Sec. Gen. Rutte: Nations have no choice but to dig deeper to support Ukraine.
-- 09/08 22:29 [FirstSquawk] NATO'S RUTTE: NATIONS HAVE NO CHOICE BUT TO DIG DEEPER TO SUPPORT UKRAINE
-- 09/08 22:29 [FirstSquawk] UK FOREIGN OFFICE:SUMMONS SERBIAN AMBASSADOR TO CONDEMN COMMEMORATIONS SURROUNDING THE FUNERAL OF CONVICTED WAR CRIMINAL RATKO MLADIC
-- 09/08 22:30 [financialjuice] BoE’s Greene: The length of time that oil prices have been high worries me about 2nd round effects down the line.
-- 09/08 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -301.5 MLN NASDAQ 100: -28.9 MLN DOW 30: -56.6 MLN MAG 7: -9.2 MLN $MACRO
-- 09/08 22:31 [FirstSquawk] DOW JONES DOWN 429.11 POINTS, OR 0.80 PERCENT, AT 52,985.14 AFTER MARKET OPEN NASDAQ UP 27.79 POINTS, OR 0.11 PERCENT, AT 26,534.78 AFTER MARKET OPEN S&P 500 DOWN 6.66 POINTS, OR 0.09 PERCENT, AT 7,711.94 AFTER MARKET OPEN
-- 09/08 22:32 [financialjuice] BoE's Ramsden: The domestic inflation position is relatively benign.
-- 09/08 22:33 [financialjuice/FirstSquawk/DeItaone] US Defense Official: We must be prepared for a protracted conflict in Ukraine.
-- 09/08 22:33 [financialjuice] BoE's Ramsden: I get reassurance on inflation from the labour market.
-- 09/08 22:33 [financialjuice] BoE's Ramsden: UK wages have come in below what we expected before conflict.
 - 09/08 22:34 [financialjuice] BoE's Ramsden: Global inflationary picture is much more of upside inflation risk.
 - 09/08 22:35 [FirstSquawk] SENIOR PENTAGON OFFICIAL: U.S. BELIEVES ALLIES CAN AND WILL LEAD UKRAINE'S SELF-DEFENSE
+- 09/08 22:35 [FirstSquawk/DeItaone] U.S. DEFENSE OFFICIAL: WE MUST BE PREPARED FOR A PROTRACTED CONFLICT IN UKRAINE
 - 09/08 22:36 [FirstSquawk] UKRAINE IS CONTRACTING SUPPLY OF ABOUT 1,000 MISSILES FROM ALLIES, DEFENCE MINISTER SAYS
 - 09/08 22:36 [financialjuice] BoE's Ramsden: I am comfortable with policy but I am very conscious of upside risk.
 - 09/08 22:38 [financialjuice] BoE Gov. Bailey: The rise in UK mortgage rates is larger than almost anywhere in the G7.
@@ -452,3 +439,27 @@
 - 09/09 10:17 [financialjuice] Top U.S. diplomat in Taiwan: effective deterrence is crucial for enabling genuine cross-strait talks free from coercion or force threats
 - 09/09 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 8, 2023
 - 09/09 10:17 [financialjuice] Top US diplomat in Taiwan: threats Taiwan faces keep growing in scale and complexity
+- 09/09 10:18 [FirstSquawk] PBOC Sets Daily Yuan Fixing at 6.7769 per U.S. Dollar
+- 09/09 10:19 [financialjuice] China sets yuan midpoint 727 pips weaker than estimate, biggest downside divergence since February 27, 2026
+- 09/09 10:20 [FirstSquawk] U.S. Diplomat in Taiwan: Taiwan Strait Conflict Could Hit Global Economy Harder Than WWII
+- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Says Maintaining Indo-Pacific Peace Is Key Trump Priority
+- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Sees U.S.-China Summit as Opportunity to Deepen Strategic Stability
+- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Says Washington Backs Efforts to Bolster Taiwan’s Defense
+- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Says Strong Deterrence Is Essential to Preserving Taiwan’s Political, Economic and Social Systems
+- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan: Strong Deterrence Can Help Facilitate Meaningful Cross-Strait Dialogue
+- 09/09 10:20 [FirstSquawk] U.S. Diplomat in Taiwan Says Threats to Taiwan Are Increasing in Scale and Sophistication
+- 09/09 10:22 [financialjuice] China cbank: 7-day reverse repo volume hits zero Wednesday on primary dealer demand - statement
+- 09/09 10:25 [financialjuice] Top U.S. diplomat in Taiwan: Taiwan has tech and manufacturing capacity to meet its needs and back development of global democratic supply chains
+- 09/09 10:26 [FirstSquawk] U.S. Diplomat: Taiwan Can Meet Its Own Needs While Supporting Development of Global Democratic Supply Chains
+- 09/09 10:26 [financialjuice] National Transportation Safety Board: Evidence suggests pilots thought about aborting landing in Boeing 767 crash in Miami
+- 09/09 10:30 [financialjuice] ❗ CHINESE PPI YOY ACTUAL 3.8% (FORECAST 3.6%, PREVIOUS 3.5%) $MACRO
+- 09/09 10:30 [financialjuice] ‼ BREAKING: CHINESE CPI YOY ACTUAL 0.8% (FORECAST 0.8%, PREVIOUS 0.5%) $MACRO
+- 09/09 10:30 [financialjuice] China August CPI rises 0.8% from year earlier, poll predicted 0.8%
+- 09/09 10:30 [financialjuice] China August producer prices rise 0.4% from previous month
+- 09/09 10:30 [financialjuice] CHINESE CPI MOM ACTUAL 0.4% (FORECAST -, PREVIOUS -0.1%) $MACRO
+- 09/09 10:30 [FirstSquawk] CHINA (AUG) PPI YOY ACTUAL: 3.8% VS 3.5% PREVIOUS;EST 3.6%
+- 09/09 10:30 [financialjuice] China: August food CPI down 1.4% year-on-year; non-food CPI up 1.2%
+- 09/09 10:30 [financialjuice] China August CPI rises 0.4% month-on-month, above poll of 0.3%
+- 09/09 10:31 [FirstSquawk] CHINA (AUG) CPI YOY ACTUAL: 0.8% VS 0.5% PREVIOUS;EST 0.8%
+- 09/09 10:31 [FirstSquawk] CHINA (AUG) CPI CORE YOY ACTUAL: 1% VS 0.9% PREVIOUS;EST 0.9%
+- 09/09 10:32 [FirstSquawk] 5-Year Japanese Government Bond Yield Slips to 2.215%

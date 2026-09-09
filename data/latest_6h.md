@@ -7,28 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 10:18 JST／対象: 09/09 04:18 〜 09/09 10:18 JST（時刻はすべて日本時間）
+生成: 2026-09-09 10:34 JST／対象: 09/09 04:34 〜 09/09 10:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/09 05:31 | 09/09 05:33 | 1分（05:31→05:33） |
-| FirstSquawk | 82 | 09/09 04:19 | 09/09 10:06 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 75 | 09/09 04:22 | 09/09 10:17 | ⚠ 70分（08:50→10:00） |
+| FirstSquawk | 92 | 09/09 04:34 | 09/09 10:32 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 84 | 09/09 04:37 | 09/09 10:30 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 154 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 174 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 04:19 [FirstSquawk] U.S. CENTCOM: US UNDERWATER DRONE THAT MALFUNCTIONED MORE THAN A DAY BEFORE IRAN’S ANNOUNCEMENT WAS AN OLDER MODEL WITH NO CLASSIFIED SENSORS OR SENSITIVE DATA; WASHINGTON HAS NOT CONFIRMED IRAN RECOVERED THE VEHICLE OR THAT IT WAS A DIVE-L…
-- 09/09 04:22 [financialjuice] Wednesday FX Options Expiries
-- 09/09 04:28 [FirstSquawk] OIL APPROACHES $100 AS NEW HOUTHI ATTACKS ON SAUDI ENERGY INFRASTRUCTURE AND EXPLOSIONS ON IRAN’S KHARG ISLAND HEIGHTEN GLOBAL SUPPLY FEARS.
-- 09/09 04:28 [FirstSquawk] BRENT RISES 1% TO $97.92 AND WTI JUMPS 1.7% TO $93.03 AS HORMUZ FLOWS REMAIN AROUND HALF PRE-WAR LEVELS, RAISING FRESH INFLATION AND REFINED-FUEL SUPPLY RISKS.
-- 09/09 04:31 [financialjuice/FirstSquawk] Iranian tanker was targeted by a US missile attack four miles from Kharg Island - Tasnim
+- 09/09 04:34 [FirstSquawk] IRANIAN TANKER WAS TARGETED BY A US MISSILE ATTACK FOUR MILES FROM KHARG ISLAND - TASNIM
 - 09/09 04:37 [financialjuice] US military has struck targets near Kharg Island - Fox News
 - 09/09 04:40 [financialjuice] The US struck targets near Jask - Fox reporter citing US Officials.
 - 09/09 04:47 [financialjuice] Broadcom CEO: Can lock in chip supply for 2027, in process of locking in 2028 supply - Goldman Sachs Conference $AVGO
@@ -178,3 +174,27 @@
 - 09/09 10:17 [financialjuice] Top U.S. diplomat in Taiwan: effective deterrence is crucial for enabling genuine cross-strait talks free from coercion or force threats
 - 09/09 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 8, 2023
 - 09/09 10:17 [financialjuice] Top US diplomat in Taiwan: threats Taiwan faces keep growing in scale and complexity
+- 09/09 10:18 [FirstSquawk] PBOC Sets Daily Yuan Fixing at 6.7769 per U.S. Dollar
+- 09/09 10:19 [financialjuice] China sets yuan midpoint 727 pips weaker than estimate, biggest downside divergence since February 27, 2026
+- 09/09 10:20 [FirstSquawk] U.S. Diplomat in Taiwan: Taiwan Strait Conflict Could Hit Global Economy Harder Than WWII
+- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Says Maintaining Indo-Pacific Peace Is Key Trump Priority
+- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Sees U.S.-China Summit as Opportunity to Deepen Strategic Stability
+- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Says Washington Backs Efforts to Bolster Taiwan’s Defense
+- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Says Strong Deterrence Is Essential to Preserving Taiwan’s Political, Economic and Social Systems
+- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan: Strong Deterrence Can Help Facilitate Meaningful Cross-Strait Dialogue
+- 09/09 10:20 [FirstSquawk] U.S. Diplomat in Taiwan Says Threats to Taiwan Are Increasing in Scale and Sophistication
+- 09/09 10:22 [financialjuice] China cbank: 7-day reverse repo volume hits zero Wednesday on primary dealer demand - statement
+- 09/09 10:25 [financialjuice] Top U.S. diplomat in Taiwan: Taiwan has tech and manufacturing capacity to meet its needs and back development of global democratic supply chains
+- 09/09 10:26 [FirstSquawk] U.S. Diplomat: Taiwan Can Meet Its Own Needs While Supporting Development of Global Democratic Supply Chains
+- 09/09 10:26 [financialjuice] National Transportation Safety Board: Evidence suggests pilots thought about aborting landing in Boeing 767 crash in Miami
+- 09/09 10:30 [financialjuice] ❗ CHINESE PPI YOY ACTUAL 3.8% (FORECAST 3.6%, PREVIOUS 3.5%) $MACRO
+- 09/09 10:30 [financialjuice] ‼ BREAKING: CHINESE CPI YOY ACTUAL 0.8% (FORECAST 0.8%, PREVIOUS 0.5%) $MACRO
+- 09/09 10:30 [financialjuice] China August CPI rises 0.8% from year earlier, poll predicted 0.8%
+- 09/09 10:30 [financialjuice] China August producer prices rise 0.4% from previous month
+- 09/09 10:30 [financialjuice] CHINESE CPI MOM ACTUAL 0.4% (FORECAST -, PREVIOUS -0.1%) $MACRO
+- 09/09 10:30 [FirstSquawk] CHINA (AUG) PPI YOY ACTUAL: 3.8% VS 3.5% PREVIOUS;EST 3.6%
+- 09/09 10:30 [financialjuice] China: August food CPI down 1.4% year-on-year; non-food CPI up 1.2%
+- 09/09 10:30 [financialjuice] China August CPI rises 0.4% month-on-month, above poll of 0.3%
+- 09/09 10:31 [FirstSquawk] CHINA (AUG) CPI YOY ACTUAL: 0.8% VS 0.5% PREVIOUS;EST 0.8%
+- 09/09 10:31 [FirstSquawk] CHINA (AUG) CPI CORE YOY ACTUAL: 1% VS 0.9% PREVIOUS;EST 0.9%
+- 09/09 10:32 [FirstSquawk] 5-Year Japanese Government Bond Yield Slips to 2.215%
