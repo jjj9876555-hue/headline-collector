@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 02:33 JST／対象: 09/09 20:33 〜 09/10 02:33 JST（時刻はすべて日本時間）
+生成: 2026-09-10 02:50 JST／対象: 09/09 20:50 〜 09/10 02:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/09 20:35 | 09/10 02:30 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 75 | 09/09 20:33 | 09/10 01:52 | 28分（00:32→01:01） |
-| financialjuice | 88 | 09/09 20:34 | 09/10 02:32 | 35分（21:20→21:55） |
+| DeItaone | 19 | 09/09 21:27 | 09/10 02:30 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 71 | 09/09 20:51 | 09/10 02:50 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 88 | 09/09 21:00 | 09/10 02:37 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 184 行（統合前 187 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 177 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 20:33 [FirstSquawk] AIRLINES CALL FOR UK AIR TRAFFIC CONTROL BOSS TO QUIT AS DISRUPTION CONTINUES – FT
-- 09/09 20:34 [financialjuice] Fitch Ratings: Severe equity price shock scenario would entail US recession.
-- 09/09 20:35 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS RISE TO 4.4253%, HIGHEST SINCE JANUARY 2025
-- 09/09 20:36 [FirstSquawk] UK BURNHAM: WON'T SUPPORT MORATORIUM ON BUILDING DATA CENTERS
-- 09/09 20:37 [financialjuice] UK's PM Burnham: I won't support moratorium on building data centers.
-- 09/09 20:37 [FirstSquawk] UK BURNHAM: IMPORTANT FOR COMMUNITIES TO SEE DATA CENTER BENEFITS
-- 09/09 20:39 [DeItaone] GERMAN 2-YEAR YIELDS RISE AS MUCH AS 7.2 BPS TO 3.052%, SET FOR BIGGEST ONE-DAY INCREASE SINCE EARLY JULY
-- 09/09 20:41 [FirstSquawk] PUTIN'S AIDE: RUSSIA CONSIDERS ABU DHABI PRIORITY LOCATION FOR TALKS ON UKRAINE – VESTI
-- 09/09 20:41 [FirstSquawk] DOW IS CONSIDERING PULLING OUT OF A $20 BILLION CHEMICAL PROJECT IN SAUDI ARABIA.
-- 09/09 20:42 [DeItaone/FirstSquawk] KREMLIN: UNITED STATES SHOULD HALT ANY AID TO KYIV FOR THE MILITARY ACTIONS TO STOP
-- 09/09 20:43 [FirstSquawk] UK BURNHAM: GAVE THE MOST CAREFUL CONSIDERATION ON ISRAEL MEASURES
-- 09/09 20:48 [FirstSquawk] MARCO RUBIO: EXPECT COLOMBIA'S DRUG-FIGHTING CERTIFICATION TO CHANGE
-- 09/09 20:50 [DeItaone] CENTRAL BANKS FOCUS ON FUEL PRICES AS INFLATION RISK Central banks are increasingly watching refining margins, or “crack spreads,” as fuel shortages push gasoline and diesel prices higher. Bank of England Governor Andrew Bailey said refined…
 - 09/09 20:51 [FirstSquawk] COMPANIES ARE INCREASING BOND MARKET BORROWING, RAISING OVER $70 BILLION ON TUESDAY, THE BUSIEST SESSION SINCE JUNE.
 - 09/09 21:00 [financialjuice] Secured overnight financing rate: 3.64% on September 8th vs 3.65% on September 4th
 - 09/09 21:02 [FirstSquawk] IRAQ CONFIRMS TANKER CARRIED FUEL OIL AND REPORTS NO LEAKS.
@@ -208,3 +195,9 @@
 - 09/10 02:30 [DeItaone] APPLE INC.: IPHONE 18 PRO STARTS AT $1,199 - EVENT APPLE IPHONE 18 PRO MAX STARTS AT $1,299 - EVENT
 - 09/10 02:31 [financialjuice] Apple iPhone 18 Pro Max starts at $1,299, iPhone 18 Pro starts at $1,199 $AAPL
 - 09/10 02:32 [financialjuice] Apple announces AirPods 5 $AAPL
+- 09/10 02:35 [financialjuice] Apple: AirPods 5 base model starts at $129 $AAPL
+- 09/10 02:37 [financialjuice] Apple announces Apple Watch Series 12 and Apple Watch Ultra 4. $AAPL
+- 09/10 02:47 [FirstSquawk] APPLE HAS UNVEILED THE IPHONE 18 PRO AND IPHONE 18 PRO MAX, WITH THE IPHONE 18 PRO MAX STARTING AT $1,299 AND THE IPHONE 18 PRO STARTING AT $1,199, FEATURING A 48 MP FUSION MAIN CAMERA WITH VARIABLE APERTURE AND A NEW A20 PRO CHIP BASED ON …
+- 09/10 02:47 [FirstSquawk] APPLE SAYS THE A20 CHIP WILL HAVE TWO NEURAL ENGINES WITH 32 CORES TOTAL TO INCREASE ON-DEVICE AI PERFORMANCE, AND ANNOUNCED AN APPLE REFERENCE IMAGE STANDARD TO PROVE THE AUTHENTICITY OF PHOTOS AT THE TIME OF CAPTURE, WHICH WILL NOT BE AVA…
+- 09/10 02:47 [FirstSquawk] APPLE ALSO ANNOUNCED THE APPLE WATCH SERIES 12 AND APPLE WATCH ULTRA 4, ALONGSIDE THE AIRPODS 5 WITH A BASE MODEL STARTING AT $129.
+- 09/10 02:50 [FirstSquawk] APPLE EVENT HIGHLIGHTS • APPLE UNVEILS IPHONE 18 PRO AND IPHONE 18 PRO MAX. • IPHONE 18 PRO STARTS AT $1,199. • IPHONE 18 PRO MAX STARTS AT $1,299. • A20 PRO CHIP BUILT ON 2NM TECHNOLOGY. • A20 PRO FEATURES 7 GPU CORES. • A20 CHIP INCLUDES …

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 02:33 JST／対象: 09/09 14:33 〜 09/10 02:33 JST（時刻はすべて日本時間）
+生成: 2026-09-10 02:50 JST／対象: 09/09 14:50 〜 09/10 02:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/09 16:31 | 09/10 02:30 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 168 | 09/09 14:36 | 09/10 01:52 | 28分（00:32→01:01） |
-| financialjuice | 107 | 09/09 17:26 | 09/10 02:32 | 35分（21:20→21:55） |
+| FirstSquawk | 166 | 09/09 14:59 | 09/10 02:50 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 109 | 09/09 17:26 | 09/10 02:37 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 308 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 14:36 [FirstSquawk] USD/JPY Drops 0.48% to 153.29
-- 09/09 14:41 [FirstSquawk] NZ Public Servants Stage Walkout in Dispute Over Pay Offer
-- 09/09 14:45 [FirstSquawk] Flights Resume at London Gatwick Airport, UK Says
-- 09/09 14:48 [FirstSquawk] Gold Advances 1% to $4,394.89 an Ounce in Spot Market
-- 09/09 14:49 [FirstSquawk] Kazakhstan Justice Ministry: Action to Recover Funds From NCOC Consortium Is Continuing
-- 09/09 14:50 [FirstSquawk] Ukrainian Attack on Novorossiysk Kills Four, Governor Says
 - 09/09 14:59 [FirstSquawk] Goldman Sachs Increases Mondi Target to 860p, Up From 780p
 - 09/09 15:00 [FirstSquawk] NORWAY (AUG) PPI INCLUDING OIL MOM ACTUAL: 30.1% VS 23.4% PREVIOUS
 - 09/09 15:01 [FirstSquawk] NORWAY PPI INCLUDING OIL (M/M): 4.7% (PREV 8.9%)
@@ -332,3 +326,9 @@
 - 09/10 02:30 [DeItaone] APPLE INC.: IPHONE 18 PRO STARTS AT $1,199 - EVENT APPLE IPHONE 18 PRO MAX STARTS AT $1,299 - EVENT
 - 09/10 02:31 [financialjuice] Apple iPhone 18 Pro Max starts at $1,299, iPhone 18 Pro starts at $1,199 $AAPL
 - 09/10 02:32 [financialjuice] Apple announces AirPods 5 $AAPL
+- 09/10 02:35 [financialjuice] Apple: AirPods 5 base model starts at $129 $AAPL
+- 09/10 02:37 [financialjuice] Apple announces Apple Watch Series 12 and Apple Watch Ultra 4. $AAPL
+- 09/10 02:47 [FirstSquawk] APPLE HAS UNVEILED THE IPHONE 18 PRO AND IPHONE 18 PRO MAX, WITH THE IPHONE 18 PRO MAX STARTING AT $1,299 AND THE IPHONE 18 PRO STARTING AT $1,199, FEATURING A 48 MP FUSION MAIN CAMERA WITH VARIABLE APERTURE AND A NEW A20 PRO CHIP BASED ON …
+- 09/10 02:47 [FirstSquawk] APPLE SAYS THE A20 CHIP WILL HAVE TWO NEURAL ENGINES WITH 32 CORES TOTAL TO INCREASE ON-DEVICE AI PERFORMANCE, AND ANNOUNCED AN APPLE REFERENCE IMAGE STANDARD TO PROVE THE AUTHENTICITY OF PHOTOS AT THE TIME OF CAPTURE, WHICH WILL NOT BE AVA…
+- 09/10 02:47 [FirstSquawk] APPLE ALSO ANNOUNCED THE APPLE WATCH SERIES 12 AND APPLE WATCH ULTRA 4, ALONGSIDE THE AIRPODS 5 WITH A BASE MODEL STARTING AT $129.
+- 09/10 02:50 [FirstSquawk] APPLE EVENT HIGHLIGHTS • APPLE UNVEILS IPHONE 18 PRO AND IPHONE 18 PRO MAX. • IPHONE 18 PRO STARTS AT $1,199. • IPHONE 18 PRO MAX STARTS AT $1,299. • A20 PRO CHIP BUILT ON 2NM TECHNOLOGY. • A20 PRO FEATURES 7 GPU CORES. • A20 CHIP INCLUDES …
