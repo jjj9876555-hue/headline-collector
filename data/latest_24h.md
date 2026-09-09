@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 19:35 JST／対象: 09/08 19:35 〜 09/09 19:35 JST（時刻はすべて日本時間）
+生成: 2026-09-09 19:52 JST／対象: 09/08 19:52 〜 09/09 19:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/08 22:06 | 09/09 19:33 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 412 | 09/08 19:37 | 09/09 19:30 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 259 | 09/08 19:45 | 09/09 19:23 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 20 | 09/08 22:06 | 09/09 19:44 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 414 | 09/08 20:00 | 09/09 19:47 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 259 | 09/08 20:18 | 09/09 19:50 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 675 行（統合前 693 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 678 行（統合前 696 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 19:37 [FirstSquawk] BOTH DEMOCRATS AND REPUBLICANS ARE TARGETING THE SENATE SEAT THAT WILL BE VACATED BY DEMOCRATIC SEN. JEANNE SHAHEEN, WHO IS NOT RUNNING FOR REELECTION.
-- 09/08 19:39 [FirstSquawk] RUSSIA'S LAVROV: RUSSIA AND SAUDI ARABIA WILL CONTINUE TO COORDINATE CLOSELY WITHIN THE OPEC+ FRAMEWORK AND WILL AGREE ON COMMON APPROACHES
-- 09/08 19:45 [financialjuice] UK's Chancellor Healey: Starting to see UK economy turn a corner.
-- 09/08 19:45 [financialjuice/FirstSquawk] BNP Paribas expects BoE to hike interest rates by 25 bp in November 2026 vs prior forecast of a hike in September this year.
-- 09/08 19:45 [financialjuice] UK's Chancellor Healey: UK growth still fragile, borrowing still too high.
-- 09/08 19:47 [FirstSquawk] UK CHANCELLOR: STARTING TO SEE UK ECONOMY TURN A CORNER
 - 09/08 20:00 [FirstSquawk] HEALEY SEES SIGNS OF IMPROVEMENT IN THE UK ECONOMY.
 - 09/08 20:06 [FirstSquawk] UK HAS RECORDED ITS HIGHEST BOND SALE YIELD SINCE 1998.
 - 09/08 20:12 [FirstSquawk] INDIA, CHINA ARMY COMMANDERS HELD BORDER TALKS ON SUNDAY: FOREIGN MINISTRY
@@ -699,3 +693,12 @@
 - 09/09 19:30 [FirstSquawk] RYANAIR CEO O’LEARY TO REUTERS: ON TUESDAY WE CANCELLED 260 FLIGHTS, AFFECTING ABOUT 48,000 PASSENGERS
 - 09/09 19:30 [DeItaone] KREMLIN HOPES US-BROKERED UKRAINE TALKS RESUME SOON The Kremlin says it hopes US-mediated peace talks between Russia and Ukraine will restart soon, after negotiations stalled in February. Spokesman Dmitry Peskov declined to discuss possible…
 - 09/09 19:33 [DeItaone] KREMLIN: EUROPE FEELING PAIN OF HIGHER GAS PRICES The Kremlin says Europe is suffering from soaring natural gas prices amid the Iran war and could cut costs by buying Russian gas. European gas prices recently reached their highest level sin…
+- 09/09 19:37 [FirstSquawk] AIRBNB SET TO FACE MORE RESTRICTIONS AS EUROPEAN COMMISSION PROPOSES NEW RULES TO TACKLE HOUSING CRUNCH
+- 09/09 19:37 [FirstSquawk] ANGOLA’S OIL AND GAS AGENCY ANPG, EXXONMOBIL AND BLOCK 15 PARTNERS ANNOUNCE NEW DISCOVERY IN OFFSHORE BLOCK 15- STATEMENT
+- 09/09 19:40 [FirstSquawk] AMAZON SEEKING AT LEAST £3 BILLION FROM FIRST STERLING BONDS
+- 09/09 19:43 [FirstSquawk/DeItaone] IRAN SAYS SHIPS PASSING RESTRICTED HORMUZ ZONE FACE SANCTIONS
+- 09/09 19:47 [FirstSquawk] IRAN'S IRGC SPOKESPERSON SAYS MARITIME RESTRICTED AREA EXTENDS FROM CHABAHAR INTO PARTS OF GULF OF OMAN AND ARABIAN SEA
+- 09/09 19:47 [FirstSquawk] IRGC SPOKESPERSON SAYS PRECISE COORDINATES OF RESTRICTED AREA WILL BE ANNOUNCED - FARS
+- 09/09 19:47 [financialjuice] Iran's IRGC Spokesperson: Maritime restricted area extends from Chabahar into parts of Gulf of Oman and Arabian Sea.
+- 09/09 19:47 [financialjuice] IRGC Spokesperson: Precise coordinates of restricted area will be announced - Fars.
+- 09/09 19:50 [financialjuice] Iran's IRGC Spokesperson: Any ship passing through restricted area of Strait of Hormuz will face sanctions if no coordination with Iran.

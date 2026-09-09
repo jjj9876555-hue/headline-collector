@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 19:35 JST／対象: 09/09 13:35 〜 09/09 19:35 JST（時刻はすべて日本時間）
+生成: 2026-09-09 19:52 JST／対象: 09/09 13:52 〜 09/09 19:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/09 16:31 | 09/09 19:33 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 86 | 09/09 13:36 | 09/09 19:30 | 19分（16:10→16:29） |
-| financialjuice | 14 | 09/09 13:55 | 09/09 19:23 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 10 | 09/09 16:31 | 09/09 19:44 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 88 | 09/09 13:55 | 09/09 19:47 | 19分（16:10→16:29） |
+| financialjuice | 17 | 09/09 13:55 | 09/09 19:50 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 112 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 13:36 [FirstSquawk] Qatar Says Civil Defence Has Controlled Fire on Vessel at Al Wakra Port; No Injuries Reported
-- 09/09 13:40 [FirstSquawk] AI borrowing boom shakes up Swiss credit market - FT
-- 09/09 13:44 [FirstSquawk] EU resists Mario Draghi’s competitiveness cures - FT
-- 09/09 13:46 [FirstSquawk] Revolut takes aim at business banking with FTSE 250 companies - FT
 - 09/09 13:55 [financialjuice] Russian air strikes damage port facilities in Ukraine's Mykolayiv, officials say
 - 09/09 13:55 [FirstSquawk] Russian Strikes Hit Port Infrastructure in Mykolaiv, Ukrainian Officials Say
 - 09/09 13:58 [FirstSquawk] Peel Hunt Lowers Oxford Biomedica Price Target to 778p From 846p
@@ -131,3 +127,12 @@
 - 09/09 19:30 [FirstSquawk] RYANAIR CEO O’LEARY TO REUTERS: ON TUESDAY WE CANCELLED 260 FLIGHTS, AFFECTING ABOUT 48,000 PASSENGERS
 - 09/09 19:30 [DeItaone] KREMLIN HOPES US-BROKERED UKRAINE TALKS RESUME SOON The Kremlin says it hopes US-mediated peace talks between Russia and Ukraine will restart soon, after negotiations stalled in February. Spokesman Dmitry Peskov declined to discuss possible…
 - 09/09 19:33 [DeItaone] KREMLIN: EUROPE FEELING PAIN OF HIGHER GAS PRICES The Kremlin says Europe is suffering from soaring natural gas prices amid the Iran war and could cut costs by buying Russian gas. European gas prices recently reached their highest level sin…
+- 09/09 19:37 [FirstSquawk] AIRBNB SET TO FACE MORE RESTRICTIONS AS EUROPEAN COMMISSION PROPOSES NEW RULES TO TACKLE HOUSING CRUNCH
+- 09/09 19:37 [FirstSquawk] ANGOLA’S OIL AND GAS AGENCY ANPG, EXXONMOBIL AND BLOCK 15 PARTNERS ANNOUNCE NEW DISCOVERY IN OFFSHORE BLOCK 15- STATEMENT
+- 09/09 19:40 [FirstSquawk] AMAZON SEEKING AT LEAST £3 BILLION FROM FIRST STERLING BONDS
+- 09/09 19:43 [FirstSquawk/DeItaone] IRAN SAYS SHIPS PASSING RESTRICTED HORMUZ ZONE FACE SANCTIONS
+- 09/09 19:47 [FirstSquawk] IRAN'S IRGC SPOKESPERSON SAYS MARITIME RESTRICTED AREA EXTENDS FROM CHABAHAR INTO PARTS OF GULF OF OMAN AND ARABIAN SEA
+- 09/09 19:47 [FirstSquawk] IRGC SPOKESPERSON SAYS PRECISE COORDINATES OF RESTRICTED AREA WILL BE ANNOUNCED - FARS
+- 09/09 19:47 [financialjuice] Iran's IRGC Spokesperson: Maritime restricted area extends from Chabahar into parts of Gulf of Oman and Arabian Sea.
+- 09/09 19:47 [financialjuice] IRGC Spokesperson: Precise coordinates of restricted area will be announced - Fars.
+- 09/09 19:50 [financialjuice] Iran's IRGC Spokesperson: Any ship passing through restricted area of Strait of Hormuz will face sanctions if no coordination with Iran.
