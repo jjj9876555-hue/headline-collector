@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 16:45 JST／対象: 09/09 10:45 〜 09/09 16:45 JST（時刻はすべて日本時間）
+生成: 2026-09-09 16:59 JST／対象: 09/09 10:59 〜 09/09 16:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/09 16:31 | 09/09 16:31 | - |
-| FirstSquawk | 91 | 09/09 10:53 | 09/09 16:39 | 19分（16:10→16:29） |
-| financialjuice | 9 | 09/09 10:56 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 92 | 09/09 11:02 | 09/09 16:56 | 19分（16:10→16:29） |
+| financialjuice | 8 | 09/09 12:39 | 09/09 14:00 | 27分（13:03→13:30） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 100 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 10:53 [FirstSquawk] WTI surges as US strikes Iranian tankers - FX
-- 09/09 10:56 [financialjuice] Six commodity ships pass Strait of Hormuz on Tuesday, below 10-day average of about 12, data shows
-- 09/09 10:56 [FirstSquawk] DeepSeek fundraising frenzy spawns costly shadow market - FT
-- 09/09 10:56 [FirstSquawk] Strait of Hormuz Sees Six Commodity Ship Crossings Tuesday, Versus 10-Day Average of Around 12
 - 09/09 11:02 [FirstSquawk] Thailand’s Economic Growth Outlook Remains Broadly Unchanged From Previous Assessment, https://t.co/j1lvIXBwYH Minutes Say
 - 09/09 11:03 [FirstSquawk] Thailand’s Headline Inflation Seen Increasing Temporarily on Supply-Side Pressures, https://t.co/j1lvIXBwYH Minutes Show
 - 09/09 11:05 [FirstSquawk] Thailand’s Loan Quality Stays Largely Stable, https://t.co/j1lvIXBwYH Minutes Say
@@ -124,3 +120,7 @@
 - 09/09 16:30 [FirstSquawk] GERMANY'S MERZ WE WILL CONTINUE TO SUPPORT UKRAINE BECAUSE UKRAINE IS ALSO DEFENDING OUR FREEDOM
 - 09/09 16:31 [DeItaone] MORGAN STANLEY SEES OIL TRADERS CUTTING LONG-TERM RISK Oil traders are reducing longer-term exposure as the Iran and Ukraine wars increase uncertainty, according to Morgan Stanley’s Brendan Ross. Ross said traders are concentrating position…
 - 09/09 16:39 [FirstSquawk] EU COURT DISMISSES HUNGARY'S ACTION AGAINST ALLOCATION OF PROFITS ON FROZEN RUSSIAN ASSETS TO UKRAINE
+- 09/09 16:48 [FirstSquawk] GERMAN FOREIGN MINISTER WADEPHUL ON THE AFD: ONLY THE EUROPEAN UNION GIVES US THE OPPORTUNITY TO CREATE FAIR CONDITIONS FOR OUR INDUSTRY GLOBALLY.
+- 09/09 16:48 [FirstSquawk] EUROPE’S SPACE BOSS WANTS EUROPEAN COUNTRIES TO DECIDE BY THE END OF THE YEAR WHETHER TO LAUNCH ASTRONAUTS WITHOUT U.S. HELP.
+- 09/09 16:54 [FirstSquawk] RUSSIA’S BIGGEST BLACK SEA PORT OF NOVOROSSIYSK AND THE SURROUNDING AREAS WERE ATTACKED BY DRONES OVERNIGHT, DAMAGING INFRASTRUCTURE AND THREATENING TO FURTHER SQUEEZE COMMODITY FLOWS FROM THE REGION
+- 09/09 16:56 [FirstSquawk] BP NORTH SEA ASSETS SAID TO DRAW INTEREST FROM ADURA, NEO NEXT+

@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 16:45 JST／対象: 09/09 04:45 〜 09/09 16:45 JST（時刻はすべて日本時間）
+生成: 2026-09-09 16:59 JST／対象: 09/09 04:59 〜 09/09 16:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/09 05:31 | 09/09 16:31 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 188 | 09/09 04:48 | 09/09 16:39 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 92 | 09/09 04:47 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 187 | 09/09 05:02 | 09/09 16:56 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 86 | 09/09 05:01 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 278 行（統合前 285 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 271 行（統合前 278 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 04:47 [financialjuice] Broadcom CEO: Can lock in chip supply for 2027, in process of locking in 2028 supply - Goldman Sachs Conference $AVGO
-- 09/09 04:48 [FirstSquawk] TURKEY CONDEMNS HOUTHI ATTACKS ON SAUDI ARABIA IN THE STRONGEST TERMS, REAFFIRMS SOLIDARITY WITH RIYADH & WARNS AGAINST FURTHER REGIONAL ESCALATION.
-- 09/09 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1393.9 MLN NASDAQ 100: -394.0 MLN DOW 30: -266.3 MLN MAG 7: -122.9 MLN $MACRO
-- 09/09 04:51 [FirstSquawk] FORD’S USE OF CHINESE TECH CALLED ‘UNACCEPTABLE’ BY US TRANSPORT SEC – WSJ
-- 09/09 04:52 [FirstSquawk] TRUMP TO DELIVER KEYNOTE ADDRESS AT GOP MIDTERM CONVENTION WEDNESDAY EVENING IN DALLAS; SPEECH SCHEDULED FOR 8–9 PM CT / 9–10 PM ET.
-- 09/09 04:52 [financialjuice] Iran launched an attack against US Navy ships on Monday that the US military has yet to acknowledge - WSJ
-- 09/09 04:52 [financialjuice] No American ships were struck in Iran's Monday attacks - WSJ
-- 09/09 04:53 [financialjuice] Iran Launched Undisclosed Second Wave of Attacks on US Navy Ships - WSH
-- 09/09 04:53 [FirstSquawk] IRAN LAUNCHED A MISSILE ATTACK ON US NAVY WARSHIPS MONDAY, BUT NO AMERICAN SHIP WAS HIT || THE US MILITARY HAS YET TO PUBLICLY ACKNOWLEDGE THE ATTACK, ACCORDING TO WSJ
-- 09/09 04:53 [financialjuice] Iran Launched Undisclosed Second Wave of Attacks on US Navy Ships - WSJ Iran launched an attack against U.S. Navy ships on Monday that the U.S. military has yet to acknowledge, according to U.S. officials, after firing ballistic missiles at…
-- 09/09 04:55 [FirstSquawk] IRAN LAUNCHED A SECOND, PREVIOUSLY UNDISCLOSED ATTACK ON US NAVY SHIPS MONDAY, ACCORDING TO US OFFICIALS CITED BY WSJ; NO AMERICAN VESSELS WERE HIT, BUT THE ATTACKS RAISE CONCERNS OVER IRAN’S GROWING MISSILE CAPABILITIES AND POSSIBLE CHINES…
 - 09/09 05:01 [financialjuice] Iran's IRGC Navy warns all crew of oil tankers in the vicinity of Kuwaiti and Bahraini ports that host Americans to evacuate - State Media.
 - 09/09 05:02 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 102.72 POINTS, OR 0.39%, AT 26,404.27. S&P 500 UNOFFICIALLY CLOSES DOWN 49.45 POINTS, OR 0.64%, AT 7,669.15. DOW JONES UNOFFICIALLY CLOSES DOWN 659.77 POINTS, OR 1.24%, AT 52,754.48.
 - 09/09 05:02 [financialjuice] Iran's IRGC Navy: Ships will be targeted in response to the US attack on Iranian oil tankers.
@@ -302,3 +291,7 @@
 - 09/09 16:30 [FirstSquawk] GERMANY'S MERZ WE WILL CONTINUE TO SUPPORT UKRAINE BECAUSE UKRAINE IS ALSO DEFENDING OUR FREEDOM
 - 09/09 16:31 [DeItaone] MORGAN STANLEY SEES OIL TRADERS CUTTING LONG-TERM RISK Oil traders are reducing longer-term exposure as the Iran and Ukraine wars increase uncertainty, according to Morgan Stanley’s Brendan Ross. Ross said traders are concentrating position…
 - 09/09 16:39 [FirstSquawk] EU COURT DISMISSES HUNGARY'S ACTION AGAINST ALLOCATION OF PROFITS ON FROZEN RUSSIAN ASSETS TO UKRAINE
+- 09/09 16:48 [FirstSquawk] GERMAN FOREIGN MINISTER WADEPHUL ON THE AFD: ONLY THE EUROPEAN UNION GIVES US THE OPPORTUNITY TO CREATE FAIR CONDITIONS FOR OUR INDUSTRY GLOBALLY.
+- 09/09 16:48 [FirstSquawk] EUROPE’S SPACE BOSS WANTS EUROPEAN COUNTRIES TO DECIDE BY THE END OF THE YEAR WHETHER TO LAUNCH ASTRONAUTS WITHOUT U.S. HELP.
+- 09/09 16:54 [FirstSquawk] RUSSIA’S BIGGEST BLACK SEA PORT OF NOVOROSSIYSK AND THE SURROUNDING AREAS WERE ATTACKED BY DRONES OVERNIGHT, DAMAGING INFRASTRUCTURE AND THREATENING TO FURTHER SQUEEZE COMMODITY FLOWS FROM THE REGION
+- 09/09 16:56 [FirstSquawk] BP NORTH SEA ASSETS SAID TO DRAW INTEREST FROM ADURA, NEO NEXT+
