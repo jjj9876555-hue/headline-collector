@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 14:33 JST／対象: 09/09 08:33 〜 09/09 14:33 JST（時刻はすべて日本時間）
+生成: 2026-09-09 14:51 JST／対象: 09/09 08:51 〜 09/09 14:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 112 | 09/09 08:42 | 09/09 14:20 | 16分（13:13→13:30） |
-| financialjuice | 35 | 09/09 08:37 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 115 | 09/09 08:52 | 09/09 14:50 | 16分（13:13→13:30） |
+| financialjuice | 29 | 09/09 10:00 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 146 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 08:37 [financialjuice] Jordan: 20 ballistic missiles fired from Iran toward its territory
-- 09/09 08:38 [financialjuice] Trump: Populist party in Germany scores major victory
-- 09/09 08:38 [financialjuice] Jordan: air defences intercepted and destroyed 18 of 20 Iranian missiles, two fell away from population centers
-- 09/09 08:39 [financialjuice] Jordan: no casualties reported after Iranian missile strike
-- 09/09 08:42 [FirstSquawk] JORDAN SAYS 20 BALLISTIC MISSILES WERE LAUNCHED FROM IRAN TOWARD ITS TERRITORY, WITH ITS AIR DEFENCES INTERCEPTING AND DESTROYING 18 OF THE 20 AND TWO FALLING IN AREAS AWAY FROM POPULATION CENTRES, ADDING THAT NO CASUALTIES WERE REPORTED
-- 09/09 08:48 [financialjuice] Anthropic researcher Jacob Coxon quits AI industry over concerns companies are rushing to develop uncontrollable self-improving systems - WSJ
-- 09/09 08:48 [FirstSquawk] JAPAN'S NIKKEI AVERAGE FUTURES SLIP 0.4% IN EARLY TRADE, WHILE BENCHMARK 10-YEAR JGB FUTURES EDGE DOWN 0.03 POINT
-- 09/09 08:48 [FirstSquawk] ANTHROPIC RESEARCHER JACOB COXON IS QUITTING THE AI INDUSTRY OVER FEARS THAT COMPANIES ARE RACING TO BUILD UNCONTROLLABLE, SELF-IMPROVING SYSTEMS - WSJ
-- 09/09 08:50 [financialjuice] Dollar/yen declines 0.35% to 153.485
 - 09/09 08:52 [FirstSquawk] ASIAN STOCKS FACE A CAUTIOUS OPEN AS STRONG US SEMICONDUCTOR PERFORMANCE OFFSETS BROADER WALL STREET WEAKNESS, WHILE ELEVATED VOLATILITY KEEPS INVESTORS ON EDGE.
 - 09/09 08:52 [FirstSquawk] BRENT CRUDE NEARING $100 A BARREL RAISES CONCERNS OVER INFLATION, CORPORATE MARGINS AND HIGHER INTEREST RATES, LIMITING THE UPSIDE FOR ASIAN EQUITIES.
 - 09/09 09:02 [FirstSquawk] BRENT CRUDE FUTURES CLIMB BY OVER $1 A BARREL IN EARLY TRADE FOLLOWING IRAN'S MISSILE LAUNCH AT JORDAN
@@ -170,3 +161,9 @@
 - 09/09 14:12 [FirstSquawk] Gold Prices Edge Higher Amid Softer Dollar, Inflation Data Ahead and Mideast Tensions
 - 09/09 14:19 [FirstSquawk] China needs monkeys: lab animal shortage could hinder biotech growth - SCMP
 - 09/09 14:20 [FirstSquawk] Heathrow Says Flights Are Operating Today, With Some Disruption Expected as Airlines Reposition Aircraft and Staff
+- 09/09 14:36 [FirstSquawk] USD/JPY Drops 0.48% to 153.29
+- 09/09 14:41 [FirstSquawk] NZ Public Servants Stage Walkout in Dispute Over Pay Offer
+- 09/09 14:45 [FirstSquawk] Flights Resume at London Gatwick Airport, UK Says
+- 09/09 14:48 [FirstSquawk] Gold Advances 1% to $4,394.89 an Ounce in Spot Market
+- 09/09 14:49 [FirstSquawk] Kazakhstan Justice Ministry: Action to Recover Funds From NCOC Consortium Is Continuing
+- 09/09 14:50 [FirstSquawk] Ukrainian Attack on Novorossiysk Kills Four, Governor Says
