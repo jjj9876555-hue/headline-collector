@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 17:53 JST／対象: 09/08 17:53 〜 09/09 17:53 JST（時刻はすべて日本時間）
+生成: 2026-09-09 18:06 JST／対象: 09/08 18:06 〜 09/09 18:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 22:06 | 09/09 16:31 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 414 | 09/08 17:56 | 09/09 17:48 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 269 | 09/08 17:55 | 09/09 17:46 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 414 | 09/08 18:16 | 09/09 18:05 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 269 | 09/08 18:07 | 09/09 17:59 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 681 行（統合前 697 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 17:55 [financialjuice] Ukraine's Zelenskiy: Ukraine is ready to compromise on strikes on grain shipments, energy.
-- 09/08 17:56 [FirstSquawk] BRAZIL PRES ELECTION POLL: FLAVIO HAS 46%, LULA 45% IN 2ND ROUND – BTG PACTUAL/NEXUS
-- 09/08 18:00 [FirstSquawk] UK BEGINS TALKS TO REJOIN EU SECURITY MISSIONS
-- 09/08 18:01 [FirstSquawk] UKRAINE PRES ZELENSKIY: AGREED THAT US ENVOYS WILL VISIT AGAIN; WOULD LIKE THEM TO VISIT MORE OFTEN
-- 09/08 18:05 [FirstSquawk] KREMLIN SPOKESPERSON: COOPERATION ON RARE EARTH EXPLORATIONS IS BEING DISCUSSED BETWEEN INDIA AND RUSSIA
 - 09/08 18:07 [financialjuice] RBA's Hauser: Question is whether the RBA has done enough on rates.
 - 09/08 18:07 [financialjuice] RBA's Hauser: RBA stands ready to raise rates again if needed.
 - 09/08 18:13 [financialjuice] Iran's President Pezeshkian: Iran will continue its resistance with full strength until ‘aggressors' are regretful - X
@@ -705,3 +700,8 @@
 - 09/09 17:45 [financialjuice] UKMTO gets September 8 report on vessels in Arabian Gulf, Oman Gulf.
 - 09/09 17:46 [financialjuice] UKMTO says several vessels were subject to disabling fire.
 - 09/09 17:48 [FirstSquawk] JAY Y. LEE OF SAMSUNG WILL PURCHASE SHARES WORTH 1.9 TRILLION WON (USD 1.422 BILLION) FROM HIS MOTHER, ACCORDING TO A FILING.
+- 09/09 17:53 [FirstSquawk] HSBC PREDICTS A CHALLENGING SECOND HALF FOR EUROPEAN LUXURY GOODS STOCKS.
+- 09/09 17:58 [FirstSquawk] UBER WANTS TO RAISE APPROXIMATELY €4 BILLION THROUGH ITS FIRST EUROPEAN BOND SALE.
+- 09/09 17:59 [financialjuice] Japan may convene extraordinary diet session on October 5 - Kyodo.
+- 09/09 18:02 [FirstSquawk] JAPAN IS PLANNING A SPECIAL DIET SESSION ON OCTOBER 5, ACCORDING TO KYODO.
+- 09/09 18:05 [FirstSquawk] ZELENSKIY: UKRAINE HIT NOVOROSSIYSK NAVAL BASE, OIL TERMINALS

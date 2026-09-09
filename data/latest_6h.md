@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 17:53 JST／対象: 09/09 11:53 〜 09/09 17:53 JST（時刻はすべて日本時間）
+生成: 2026-09-09 18:06 JST／対象: 09/09 12:06 〜 09/09 18:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/09 16:31 | 09/09 16:31 | - |
-| FirstSquawk | 87 | 09/09 11:55 | 09/09 17:48 | 19分（16:10→16:29） |
-| financialjuice | 11 | 09/09 12:39 | 09/09 17:46 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 88 | 09/09 12:09 | 09/09 18:05 | 19分（16:10→16:29） |
+| financialjuice | 12 | 09/09 12:39 | 09/09 17:59 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 98 行（統合前 101 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 100 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 11:55 [FirstSquawk] Hyundai Motor, AfDB agree to cooperate on Africa's energy transition, sustainable development - YONHAP
-- 09/09 12:00 [FirstSquawk] American Official Says U.S. Forces in Jordan Operating at Full Capacity, Al Arabiya English Reports
-- 09/09 12:04 [FirstSquawk] Skoda Auto Volkswagen- JSW Group Deal Structured as Two-Party Partnership With Joint Control and Defined Roles
 - 09/09 12:09 [FirstSquawk] RBC Starts Coverage of Sanofi With Sector Perform Rating, €80 Price Target
 - 09/09 12:14 [FirstSquawk] RBC Lifts Qualcomm Price Target to $180 From $160
 - 09/09 12:23 [FirstSquawk] RBC Begins AstraZeneca Coverage With Outperform Recommendation, Target Price 14,500p
@@ -122,3 +119,8 @@
 - 09/09 17:45 [financialjuice] UKMTO gets September 8 report on vessels in Arabian Gulf, Oman Gulf.
 - 09/09 17:46 [financialjuice] UKMTO says several vessels were subject to disabling fire.
 - 09/09 17:48 [FirstSquawk] JAY Y. LEE OF SAMSUNG WILL PURCHASE SHARES WORTH 1.9 TRILLION WON (USD 1.422 BILLION) FROM HIS MOTHER, ACCORDING TO A FILING.
+- 09/09 17:53 [FirstSquawk] HSBC PREDICTS A CHALLENGING SECOND HALF FOR EUROPEAN LUXURY GOODS STOCKS.
+- 09/09 17:58 [FirstSquawk] UBER WANTS TO RAISE APPROXIMATELY €4 BILLION THROUGH ITS FIRST EUROPEAN BOND SALE.
+- 09/09 17:59 [financialjuice] Japan may convene extraordinary diet session on October 5 - Kyodo.
+- 09/09 18:02 [FirstSquawk] JAPAN IS PLANNING A SPECIAL DIET SESSION ON OCTOBER 5, ACCORDING TO KYODO.
+- 09/09 18:05 [FirstSquawk] ZELENSKIY: UKRAINE HIT NOVOROSSIYSK NAVAL BASE, OIL TERMINALS

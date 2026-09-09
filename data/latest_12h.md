@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 17:53 JST／対象: 09/09 05:53 〜 09/09 17:53 JST（時刻はすべて日本時間）
+生成: 2026-09-09 18:06 JST／対象: 09/09 06:06 〜 09/09 18:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/09 16:31 | 09/09 16:31 | - |
-| FirstSquawk | 188 | 09/09 05:54 | 09/09 17:48 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 83 | 09/09 06:02 | 09/09 17:46 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 191 | 09/09 06:07 | 09/09 18:05 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 80 | 09/09 06:07 | 09/09 17:59 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 268 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 05:54 [FirstSquawk] UAE PRESIDENT SHEIKH MOHAMMED BIN ZAYED REPORTEDLY WARNED NETANYAHU ABOUT A MAJOR PLANNED HAMAS OPERATION DAYS BEFORE OCT. 7, ACCORDING TO HAARETZ. NETANYAHU’S OFFICE DENIES THE REPORT AS AN “ABSOLUTE LIE,” WHILE THE ALLEGATION REIGNITES PO…
-- 09/09 06:02 [financialjuice] Chile's central bank: will take necessary steps to ensure projected inflation hits 3% over two-year period
-- 09/09 06:04 [financialjuice] Chile’s central bank: local economy may regain strength by 2027 but current weakness could last longer than expected
-- 09/09 06:05 [financialjuice] South Korea presidential office: South Korea, France discussed roles in Strait of Hormuz security, not troop deployment
-- 09/09 06:05 [financialjuice] South Korea presidential office: Iran expresses interest, requests clarifications on reports about South Korea Hormuz involvement
 - 09/09 06:07 [financialjuice] Gundlach: Fed funds need to rise 50 basis points
 - 09/09 06:07 [financialjuice] Gundlach: US yields set to keep rising
 - 09/09 06:07 [financialjuice] DoubleLine's Gundlach in webcast: avoid exposure to 30-year bonds globally
@@ -292,3 +287,8 @@
 - 09/09 17:45 [financialjuice] UKMTO gets September 8 report on vessels in Arabian Gulf, Oman Gulf.
 - 09/09 17:46 [financialjuice] UKMTO says several vessels were subject to disabling fire.
 - 09/09 17:48 [FirstSquawk] JAY Y. LEE OF SAMSUNG WILL PURCHASE SHARES WORTH 1.9 TRILLION WON (USD 1.422 BILLION) FROM HIS MOTHER, ACCORDING TO A FILING.
+- 09/09 17:53 [FirstSquawk] HSBC PREDICTS A CHALLENGING SECOND HALF FOR EUROPEAN LUXURY GOODS STOCKS.
+- 09/09 17:58 [FirstSquawk] UBER WANTS TO RAISE APPROXIMATELY €4 BILLION THROUGH ITS FIRST EUROPEAN BOND SALE.
+- 09/09 17:59 [financialjuice] Japan may convene extraordinary diet session on October 5 - Kyodo.
+- 09/09 18:02 [FirstSquawk] JAPAN IS PLANNING A SPECIAL DIET SESSION ON OCTOBER 5, ACCORDING TO KYODO.
+- 09/09 18:05 [FirstSquawk] ZELENSKIY: UKRAINE HIT NOVOROSSIYSK NAVAL BASE, OIL TERMINALS
