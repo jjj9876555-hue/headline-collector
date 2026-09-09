@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 23:53 JST／対象: 09/09 17:53 〜 09/09 23:53 JST（時刻はすべて日本時間）
+生成: 2026-09-10 00:17 JST／対象: 09/09 18:17 〜 09/10 00:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/09 18:32 | 09/09 23:16 | ⚠ 56分（22:19→23:16） |
-| FirstSquawk | 93 | 09/09 17:53 | 09/09 23:52 | 18分（23:04→23:23） |
-| financialjuice | 58 | 09/09 17:59 | 09/09 23:35 | 35分（21:20→21:55） |
+| FirstSquawk | 92 | 09/09 18:20 | 09/10 00:14 | 18分（23:04→23:23） |
+| financialjuice | 62 | 09/09 18:21 | 09/10 00:10 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 169 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 172 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 17:53 [FirstSquawk] HSBC PREDICTS A CHALLENGING SECOND HALF FOR EUROPEAN LUXURY GOODS STOCKS.
-- 09/09 17:58 [FirstSquawk] UBER WANTS TO RAISE APPROXIMATELY €4 BILLION THROUGH ITS FIRST EUROPEAN BOND SALE.
-- 09/09 17:59 [financialjuice] Japan may convene extraordinary diet session on October 5 - Kyodo.
-- 09/09 18:02 [FirstSquawk] JAPAN IS PLANNING A SPECIAL DIET SESSION ON OCTOBER 5, ACCORDING TO KYODO.
-- 09/09 18:05 [FirstSquawk] ZELENSKIY: UKRAINE HIT NOVOROSSIYSK NAVAL BASE, OIL TERMINALS
-- 09/09 18:06 [FirstSquawk] EUROPEAN GAS PRICES INCREASE BY 4% TO A RECORD 79 EUROS PER MEGAWATT-HOUR, THE HIGHEST LEVEL SINCE LATE 2022.
-- 09/09 18:07 [financialjuice] UKMTO gets report of incident 24NM Northwest Port Rashid, UAE.
-- 09/09 18:08 [FirstSquawk] UKMTO SAYS IT RECEIVED A REPORT FROM THIRD PARTY OF INCIDENT 24 NM NORTHWEST OF PORT RASHID, UAE
-- 09/09 18:17 [FirstSquawk] TRUMP'S AI FRAMEWORK DOES NOT INCLUDE GUIDELINES FOR REPORTING PUBLIC INCIDENTS
 - 09/09 18:20 [FirstSquawk] FRENCH PRIME MINISTER PLANS TO REDUCE ONE-OFF TAX ON LARGE COMPANIES IN UPCOMING BUDGET.
 - 09/09 18:21 [financialjuice] French PM Lecornu: We aim to lower one-off tax on big companies in budget.
 - 09/09 18:31 [FirstSquawk] CANADA'S LARGEST ICEBREAKER STARTS TO COME TOGETHER.
@@ -193,3 +184,15 @@
 - 09/09 23:45 [FirstSquawk] VALE CFO ANNOUNCES PLANS TO ENTER CHINESE BOND MARKET, BUT STATING BASE METALS IPO IS NOT A PRIORITY FOR THE NEXT 1-2 YEARS.
 - 09/09 23:52 [FirstSquawk] US SPY CHIEF JOHN RATCLIFFE GETS READY FOR A BIGGER ROLE IN RUSSIA-UKRAINE DISCUSSIONS.
 - 09/09 23:52 [FirstSquawk] UK 2-YEAR GILT YIELD INCREASES TO 4.698%, HIGHEST LEVEL SINCE MARCH 23, UP 10 BASIS POINTS TODAY.
+- 09/09 23:55 [financialjuice] The White House is considering paring back the involvement of US special envoy Witkoff and Kushner in talks with Moscow and Kyiv - FT.
+- 09/09 23:55 [FirstSquawk] AMAZON LEO HAS PLACED AN ORDER FOR 6 NEW ARIANE 64 LAUNCHES FROM ARIANESPACE.
+- 09/09 23:55 [FirstSquawk] AMAZON AND WIWYNN PLAN TO GROW THEIR SERVER RACK FACILITY IN TEXAS, ACCORDING TO WSJ.
+- 09/09 23:55 [FirstSquawk] WIWYNN PLANS TO INVEST MORE THAN $1.6 BILLION IN A SERVER FACILITY LOCATED IN TEXAS, ACCORDING TO WSJ.
+- 09/09 23:56 [financialjuice] US spy chief prepares for greater role in Russia-Ukraine talks - FT
+- 09/10 00:02 [financialjuice] ❗ Us treasury to buy back up to $6b in longer-dated debt Thursday
+- 09/10 00:02 [financialjuice] ❗ US Treasury to buy back up to $6 bln in longer-dated debt Thursday vs previous $4 bln per operation
+- 09/10 00:03 [financialjuice] ❗ US Treasury: Will buy up to $6 bln in 10 to 20 Yr liquidity buyback operation on September 10th.
+- 09/10 00:10 [financialjuice] ❗ US Treasury to buy back up to $6 bln in longer-dated debt Thursday. US previously said buyback to be at least $4 bln per operation
+- 09/10 00:14 [FirstSquawk] US TREASURY TO PURCHASE UP TO $6 BILLION IN 10 TO 20-YEAR BONDS ON SEPTEMBER 10TH.
+- 09/10 00:14 [FirstSquawk] S&P 500 DROPS BY 0.5%; NASDAQ 100 FALLS BY 0.4%.
+- 09/10 00:14 [FirstSquawk] LOCKHEED MARTIN RECEIVES $1.32 BILLION CONTRACT TO DEVELOP AUSTRALIA'S JOINT AIR BATTLE MANAGEMENT SYSTEM.

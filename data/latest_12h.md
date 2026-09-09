@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 23:53 JST／対象: 09/09 11:53 〜 09/09 23:53 JST（時刻はすべて日本時間）
+生成: 2026-09-10 00:17 JST／対象: 09/09 12:17 〜 09/10 00:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/09 16:31 | 09/09 23:16 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 180 | 09/09 11:55 | 09/09 23:52 | 19分（16:10→16:29） |
-| financialjuice | 69 | 09/09 12:39 | 09/09 23:35 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 181 | 09/09 12:23 | 09/10 00:14 | 19分（16:10→16:29） |
+| financialjuice | 75 | 09/09 12:39 | 09/10 00:10 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 267 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 274 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 11:55 [FirstSquawk] Hyundai Motor, AfDB agree to cooperate on Africa's energy transition, sustainable development - YONHAP
-- 09/09 12:00 [FirstSquawk] American Official Says U.S. Forces in Jordan Operating at Full Capacity, Al Arabiya English Reports
-- 09/09 12:04 [FirstSquawk] Skoda Auto Volkswagen- JSW Group Deal Structured as Two-Party Partnership With Joint Control and Defined Roles
-- 09/09 12:09 [FirstSquawk] RBC Starts Coverage of Sanofi With Sector Perform Rating, €80 Price Target
-- 09/09 12:14 [FirstSquawk] RBC Lifts Qualcomm Price Target to $180 From $160
 - 09/09 12:23 [FirstSquawk] RBC Begins AstraZeneca Coverage With Outperform Recommendation, Target Price 14,500p
 - 09/09 12:29 [FirstSquawk] S. Korea, UNDP sign agreement on mine removal cooperation - yonhap
 - 09/09 12:36 [FirstSquawk] President Lee conferred France's highest decoration for promoting bilateral ties - yonhap
@@ -291,3 +286,15 @@
 - 09/09 23:45 [FirstSquawk] VALE CFO ANNOUNCES PLANS TO ENTER CHINESE BOND MARKET, BUT STATING BASE METALS IPO IS NOT A PRIORITY FOR THE NEXT 1-2 YEARS.
 - 09/09 23:52 [FirstSquawk] US SPY CHIEF JOHN RATCLIFFE GETS READY FOR A BIGGER ROLE IN RUSSIA-UKRAINE DISCUSSIONS.
 - 09/09 23:52 [FirstSquawk] UK 2-YEAR GILT YIELD INCREASES TO 4.698%, HIGHEST LEVEL SINCE MARCH 23, UP 10 BASIS POINTS TODAY.
+- 09/09 23:55 [financialjuice] The White House is considering paring back the involvement of US special envoy Witkoff and Kushner in talks with Moscow and Kyiv - FT.
+- 09/09 23:55 [FirstSquawk] AMAZON LEO HAS PLACED AN ORDER FOR 6 NEW ARIANE 64 LAUNCHES FROM ARIANESPACE.
+- 09/09 23:55 [FirstSquawk] AMAZON AND WIWYNN PLAN TO GROW THEIR SERVER RACK FACILITY IN TEXAS, ACCORDING TO WSJ.
+- 09/09 23:55 [FirstSquawk] WIWYNN PLANS TO INVEST MORE THAN $1.6 BILLION IN A SERVER FACILITY LOCATED IN TEXAS, ACCORDING TO WSJ.
+- 09/09 23:56 [financialjuice] US spy chief prepares for greater role in Russia-Ukraine talks - FT
+- 09/10 00:02 [financialjuice] ❗ Us treasury to buy back up to $6b in longer-dated debt Thursday
+- 09/10 00:02 [financialjuice] ❗ US Treasury to buy back up to $6 bln in longer-dated debt Thursday vs previous $4 bln per operation
+- 09/10 00:03 [financialjuice] ❗ US Treasury: Will buy up to $6 bln in 10 to 20 Yr liquidity buyback operation on September 10th.
+- 09/10 00:10 [financialjuice] ❗ US Treasury to buy back up to $6 bln in longer-dated debt Thursday. US previously said buyback to be at least $4 bln per operation
+- 09/10 00:14 [FirstSquawk] US TREASURY TO PURCHASE UP TO $6 BILLION IN 10 TO 20-YEAR BONDS ON SEPTEMBER 10TH.
+- 09/10 00:14 [FirstSquawk] S&P 500 DROPS BY 0.5%; NASDAQ 100 FALLS BY 0.4%.
+- 09/10 00:14 [FirstSquawk] LOCKHEED MARTIN RECEIVES $1.32 BILLION CONTRACT TO DEVELOP AUSTRALIA'S JOINT AIR BATTLE MANAGEMENT SYSTEM.
