@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 20:59 JST／対象: 09/09 14:59 〜 09/09 20:59 JST（時刻はすべて日本時間）
+生成: 2026-09-09 21:24 JST／対象: 09/09 15:24 〜 09/09 21:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 19 | 09/09 16:31 | 09/09 20:50 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 96 | 09/09 14:59 | 09/09 20:51 | 19分（16:10→16:29） |
-| financialjuice | 21 | 09/09 17:26 | 09/09 20:37 | 31分（18:32→19:03） |
+| FirstSquawk | 96 | 09/09 15:27 | 09/09 21:19 | 19分（16:10→16:29） |
+| financialjuice | 29 | 09/09 17:26 | 09/09 21:20 | 31分（18:32→19:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 132 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 140 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 14:59 [FirstSquawk] Goldman Sachs Increases Mondi Target to 860p, Up From 780p
-- 09/09 15:00 [FirstSquawk] NORWAY (AUG) PPI INCLUDING OIL MOM ACTUAL: 30.1% VS 23.4% PREVIOUS
-- 09/09 15:01 [FirstSquawk] NORWAY PPI INCLUDING OIL (M/M): 4.7% (PREV 8.9%)
-- 09/09 15:01 [FirstSquawk] Japan Machine Tool Orders (Y/Y) Aug P: 64.7% (prev 50.4%)
-- 09/09 15:11 [FirstSquawk] Russian Naval Base in Novorossiysk Hit by Ukraine Overnight, Drone Forces Commander Says
-- 09/09 15:21 [FirstSquawk] Europe turns to carbon capture in bid to clamp down on emissions - FT
-- 09/09 15:24 [FirstSquawk] Australia’s ASX 200 Falls 0.1% to Close at 8,911.40 Points
 - 09/09 15:27 [FirstSquawk] Alerts Issued in Khamis Mushait as Saudi Civil Defense Warns of Potential Danger
 - 09/09 15:27 [FirstSquawk] Russia’s Defence Ministry Says Its Forces Struck a Cargo Vessel in the Black Sea
 - 09/09 15:30 [FirstSquawk] Warehouse Belonging to Kyiv Company Manufacturing Unmanned Boats and Drones Hit, Russian Defence Ministry Says
@@ -156,3 +149,18 @@
 - 09/09 20:48 [FirstSquawk] MARCO RUBIO: EXPECT COLOMBIA'S DRUG-FIGHTING CERTIFICATION TO CHANGE
 - 09/09 20:50 [DeItaone] CENTRAL BANKS FOCUS ON FUEL PRICES AS INFLATION RISK Central banks are increasingly watching refining margins, or “crack spreads,” as fuel shortages push gasoline and diesel prices higher. Bank of England Governor Andrew Bailey said refined…
 - 09/09 20:51 [FirstSquawk] COMPANIES ARE INCREASING BOND MARKET BORROWING, RAISING OVER $70 BILLION ON TUESDAY, THE BUSIEST SESSION SINCE JUNE.
+- 09/09 21:00 [financialjuice] Secured overnight financing rate: 3.64% on September 8th vs 3.65% on September 4th
+- 09/09 21:02 [FirstSquawk] IRAQ CONFIRMS TANKER CARRIED FUEL OIL AND REPORTS NO LEAKS.
+- 09/09 21:02 [financialjuice] Iraq: Panama-flagged tanker hit in its waters. The tanker was carrying fuel oil; no leaks.
+- 09/09 21:04 [financialjuice] Morning Juice - US Session Prep (9th September)
+- 09/09 21:09 [FirstSquawk] JPMORGAN'S DIMON TO DISCUSS BANK TAXES WITH UK CHANCELLOR.
+- 09/09 21:11 [FirstSquawk] LYFT BEGINS WAYMO ROBOTAXI RIDES IN NASHVILLE, THE SECOND CITY IN THE US TO OFFER DRIVERLESS RIDES.
+- 09/09 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 12K (FORECAST -, PREVIOUS 11.75K) $MACRO
+- 09/09 21:15 [FirstSquawk] US ADP WEEKLY EMPLOYMENT CHANGE AUG-22ND: 12.00K (PREV 11.75K)
+- 09/09 21:16 [FirstSquawk] AMAZON SETS SIZE ON DEBUT STERLING BOND SALE AT £4.25 BILLION
+- 09/09 21:16 [financialjuice] Amazon sets size on debut sterling bond sale at £4.25 billion $AMZN
+- 09/09 21:17 [financialjuice] OpenAI projects compute spending around $750b through 2030 - NYT
+- 09/09 21:18 [FirstSquawk] TRADERS RAISE EXPECTATIONS FOR ECB AND BOE INTEREST RATE INCREASES, FAVORIZING 4 HIKES BY THE END OF 2027.
+- 09/09 21:18 [financialjuice] ❗ Traders boost ECB and BoE rate bets; favor 4 hikes by the end of 2027.
+- 09/09 21:19 [FirstSquawk] OIL PRODUCTS TANKER HERCULES STAR INVOLVED IN INCIDENT AT ANCHORAGE OFF DUBAI, ONE CREW MEMBER KILLED, CHARTERER PENINSULA SAYS
+- 09/09 21:20 [financialjuice] Charterer Peninsula: Oil products tanker Hercules Star involved in incident at anchorage off Dubai; one crew member killed.

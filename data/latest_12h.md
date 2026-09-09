@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 20:59 JST／対象: 09/09 08:59 〜 09/09 20:59 JST（時刻はすべて日本時間）
+生成: 2026-09-09 21:24 JST／対象: 09/09 09:24 〜 09/09 21:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 19 | 09/09 16:31 | 09/09 20:50 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 209 | 09/09 09:02 | 09/09 20:51 | 19分（16:10→16:29） |
-| financialjuice | 50 | 09/09 10:00 | 09/09 20:37 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 204 | 09/09 09:24 | 09/09 21:19 | 19分（16:10→16:29） |
+| financialjuice | 58 | 09/09 10:00 | 09/09 21:20 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 273 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 276 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 09:02 [FirstSquawk] BRENT CRUDE FUTURES CLIMB BY OVER $1 A BARREL IN EARLY TRADE FOLLOWING IRAN'S MISSILE LAUNCH AT JORDAN
-- 09/09 09:04 [FirstSquawk] QUALCOMM HAS SIGNED A MAJOR AGREEMENT WITH AMAZON WEB SERVICES TO DEVELOP CUSTOMIZED AI DATA-CENTER CHIPS, MARKING A SIGNIFICANT ENTRY INTO THE FAST-GROWING AI INFRASTRUCTURE MARKET, WITH AMAZON ABLE TO ACQUIRE UP TO $4 BLN OF QUALCOMM STOC…
-- 09/09 09:04 [FirstSquawk] QUALCOMM EXPECTS TO BOOK AMAZON-RELATED REVENUE FROM ITS FISCAL FIRST QUARTER AND IS CONFIDENT OF HITTING ITS $5 BLN DATA-CENTER REVENUE TARGET FOR FISCAL 2027, WITH THE DEAL COVERING AI PROCESSORS AND CONNECTIVITY CHIPS AS IT HOLDS STRONG …
-- 09/09 09:07 [FirstSquawk] Australia’s ASX 200 Advances 0.3% to 8,951 Points in Early Session
-- 09/09 09:12 [FirstSquawk] TAIWAN’S SEMICONDUCTOR INDUSTRY SAW AVERAGE MONTHLY JOB OPENINGS RISE MORE THAN 20% TO 47,000 IN 2026 AS AI-DRIVEN CAPACITY EXPANSION BOOSTED DEMAND FOR TALENT. AI-RELATED ROLES TOPPED 10,000 OPENINGS A MONTH, WITH HIRING SHIFTING TOWARD FA…
-- 09/09 09:15 [FirstSquawk] ASIAN EQUITIES GAINED MODESTLY, LED BY SEMICONDUCTOR STOCKS AS THE AI TRADE REMAINED STRONG, WITH SOUTH KOREA'S KOSPI UP 0.5%, THE MSCI ASIA PACIFIC INDEX GAINING 0.4% AND JAPAN'S TOPIX ADVANCING 0.4% AFTER A 1.3% JUMP IN THE PHILADELPHIA S…
-- 09/09 09:15 [FirstSquawk] OIL WAS THE MAIN MARKET CONCERN, WITH BRENT RISING 1.5% TO $99.37 A BARREL AND WTI REACHING $94.47 AS RENEWED ATTACKS ON MIDDLE EAST ENERGY INFRASTRUCTURE — INCLUDING STRIKES NEAR KHARG ISLAND — RAISED SUPPLY CONCERNS, PUSHING MARKETS TO PR…
-- 09/09 09:16 [FirstSquawk] THE YEN STRENGTHENED 0.4% TO 153.39 PER DOLLAR WHILE GOLD SLIPPED 0.2% TO $4,348.22 AND 10-YEAR TREASURY YIELDS HELD NEAR 4.79%, AS INVESTORS ALSO WATCH ESCALATING U.S.-IRAN TENSIONS, NEW U.S. TRADE RESTRICTIONS ON CANADIAN GOODS AND STRONG…
-- 09/09 09:17 [FirstSquawk] EUROSTOXX 50 FUTURES SLIP 0.5%, WITH DAX FUTURES OFF 0.4% AND FTSE FUTURES FALLING 0.3% AS BRENT NEARS $100
-- 09/09 09:20 [FirstSquawk] Asia-Pac Equities Begin Mostly Higher Despite Broad Wall Street Declines
-- 09/09 09:23 [FirstSquawk] 5-Year Japanese Government Bond Yield Slips to 2.225%
-- 09/09 09:23 [FirstSquawk] 20-Year Japanese Government Bond Yield Climbs to 3.710%
 - 09/09 09:24 [FirstSquawk] Chris Pappas Secures Democratic Senate Nomination in New Hampshire, AP Reports
 - 09/09 09:25 [FirstSquawk] China Vows to Deepen Opening-Up, Encourage Global Firms to Expand Presence in Chinese Market
 - 09/09 09:25 [FirstSquawk] Indonesia Motorcycle Sales Climb 3.18% Y/Y in August: Association
@@ -297,3 +285,18 @@
 - 09/09 20:48 [FirstSquawk] MARCO RUBIO: EXPECT COLOMBIA'S DRUG-FIGHTING CERTIFICATION TO CHANGE
 - 09/09 20:50 [DeItaone] CENTRAL BANKS FOCUS ON FUEL PRICES AS INFLATION RISK Central banks are increasingly watching refining margins, or “crack spreads,” as fuel shortages push gasoline and diesel prices higher. Bank of England Governor Andrew Bailey said refined…
 - 09/09 20:51 [FirstSquawk] COMPANIES ARE INCREASING BOND MARKET BORROWING, RAISING OVER $70 BILLION ON TUESDAY, THE BUSIEST SESSION SINCE JUNE.
+- 09/09 21:00 [financialjuice] Secured overnight financing rate: 3.64% on September 8th vs 3.65% on September 4th
+- 09/09 21:02 [FirstSquawk] IRAQ CONFIRMS TANKER CARRIED FUEL OIL AND REPORTS NO LEAKS.
+- 09/09 21:02 [financialjuice] Iraq: Panama-flagged tanker hit in its waters. The tanker was carrying fuel oil; no leaks.
+- 09/09 21:04 [financialjuice] Morning Juice - US Session Prep (9th September)
+- 09/09 21:09 [FirstSquawk] JPMORGAN'S DIMON TO DISCUSS BANK TAXES WITH UK CHANCELLOR.
+- 09/09 21:11 [FirstSquawk] LYFT BEGINS WAYMO ROBOTAXI RIDES IN NASHVILLE, THE SECOND CITY IN THE US TO OFFER DRIVERLESS RIDES.
+- 09/09 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 12K (FORECAST -, PREVIOUS 11.75K) $MACRO
+- 09/09 21:15 [FirstSquawk] US ADP WEEKLY EMPLOYMENT CHANGE AUG-22ND: 12.00K (PREV 11.75K)
+- 09/09 21:16 [FirstSquawk] AMAZON SETS SIZE ON DEBUT STERLING BOND SALE AT £4.25 BILLION
+- 09/09 21:16 [financialjuice] Amazon sets size on debut sterling bond sale at £4.25 billion $AMZN
+- 09/09 21:17 [financialjuice] OpenAI projects compute spending around $750b through 2030 - NYT
+- 09/09 21:18 [FirstSquawk] TRADERS RAISE EXPECTATIONS FOR ECB AND BOE INTEREST RATE INCREASES, FAVORIZING 4 HIKES BY THE END OF 2027.
+- 09/09 21:18 [financialjuice] ❗ Traders boost ECB and BoE rate bets; favor 4 hikes by the end of 2027.
+- 09/09 21:19 [FirstSquawk] OIL PRODUCTS TANKER HERCULES STAR INVOLVED IN INCIDENT AT ANCHORAGE OFF DUBAI, ONE CREW MEMBER KILLED, CHARTERER PENINSULA SAYS
+- 09/09 21:20 [financialjuice] Charterer Peninsula: Oil products tanker Hercules Star involved in incident at anchorage off Dubai; one crew member killed.

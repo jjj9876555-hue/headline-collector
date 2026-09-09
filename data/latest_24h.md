@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 20:59 JST／対象: 09/08 20:59 〜 09/09 20:59 JST（時刻はすべて日本時間）
+生成: 2026-09-09 21:24 JST／対象: 09/08 21:24 〜 09/09 21:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 29 | 09/08 22:06 | 09/09 20:50 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 425 | 09/08 21:02 | 09/09 20:51 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 262 | 09/08 21:00 | 09/09 20:37 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 429 | 09/08 21:29 | 09/09 21:19 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 265 | 09/08 21:36 | 09/09 21:20 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 700 行（統合前 719 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 707 行（統合前 725 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 21:00 [financialjuice] Secured overnight financing rate 3.65% September 4th vs 3.66% September 3rd.
-- 09/08 21:02 [FirstSquawk] FRANCE CALLS FOR NEW EU TAXES TO RAISE €60B – POLITICO
-- 09/08 21:03 [financialjuice] Google Cloud to train up to 1,000 Accenture FDES - WSJ $GOOGL
-- 09/08 21:03 [financialjuice] Morning Juice - US Session Prep (8th September)
-- 09/08 21:04 [financialjuice] Accenture and Google Cloud deploy FDES on-site for AI buildout - WSJ $GOOGL
-- 09/08 21:05 [FirstSquawk] ROBINHOOD STRIKES DEAL WITH https://t.co/uRKOQg4t2P IN LATEST PREDICTION-MARKETS PUSH – WSJ
-- 09/08 21:12 [FirstSquawk] SAUDI ARABIA'S FOREIGN MINISTER PRINCE FAISAL BIN FARHAN AL SAUD: THE LATEST ESCALATION IS PART OF THIS PATTERN OF PROVOCATION AND RESORTING TO VIOLENCE WHENEVER THE HOUTHIS FIND THEMSELVES IN A DIFFICULT POSITION. THEY ARE FACING INTERNAL …
-- 09/08 21:20 [financialjuice] South Korea's Defence Ministry: It will dispatch an investigation team to assess the situation in the Strait of Hormuz- Yonhap
 - 09/08 21:29 [FirstSquawk] GOLD MINER SOLIDCORE TO BUY BACK SHARES WORTH UP TO $1.2B
 - 09/08 21:29 [FirstSquawk] EU'S VON DER LEYEN: ALONG WITH NATO SECRETARY GENERAL, I WELCOME AGREEMENT BY MEMBER STATES ON THE DEROGATION FOR UKRAINE TO PURCHASE CRUCIAL PRODUCTS FOR PATRIOT AIR DEFENCE SYSTEMS.
 - 09/08 21:31 [FirstSquawk] AMERICANS HITTING THE ROAD FOR THE LABOR DAY WEEKEND ARE FACING THE HIGHEST GAS PRICES EVER RECORDED FOR THE HOLIDAY, AS DISRUPTIONS TIED TO THE CONFLICT WITH IRAN AND REDUCED TRAFFIC THROUGH THE STRAIT OF HORMUZ CONTINUE TO PUT PRESSURE ON…
@@ -724,3 +716,18 @@
 - 09/09 20:48 [FirstSquawk] MARCO RUBIO: EXPECT COLOMBIA'S DRUG-FIGHTING CERTIFICATION TO CHANGE
 - 09/09 20:50 [DeItaone] CENTRAL BANKS FOCUS ON FUEL PRICES AS INFLATION RISK Central banks are increasingly watching refining margins, or “crack spreads,” as fuel shortages push gasoline and diesel prices higher. Bank of England Governor Andrew Bailey said refined…
 - 09/09 20:51 [FirstSquawk] COMPANIES ARE INCREASING BOND MARKET BORROWING, RAISING OVER $70 BILLION ON TUESDAY, THE BUSIEST SESSION SINCE JUNE.
+- 09/09 21:00 [financialjuice] Secured overnight financing rate: 3.64% on September 8th vs 3.65% on September 4th
+- 09/09 21:02 [FirstSquawk] IRAQ CONFIRMS TANKER CARRIED FUEL OIL AND REPORTS NO LEAKS.
+- 09/09 21:02 [financialjuice] Iraq: Panama-flagged tanker hit in its waters. The tanker was carrying fuel oil; no leaks.
+- 09/09 21:04 [financialjuice] Morning Juice - US Session Prep (9th September)
+- 09/09 21:09 [FirstSquawk] JPMORGAN'S DIMON TO DISCUSS BANK TAXES WITH UK CHANCELLOR.
+- 09/09 21:11 [FirstSquawk] LYFT BEGINS WAYMO ROBOTAXI RIDES IN NASHVILLE, THE SECOND CITY IN THE US TO OFFER DRIVERLESS RIDES.
+- 09/09 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 12K (FORECAST -, PREVIOUS 11.75K) $MACRO
+- 09/09 21:15 [FirstSquawk] US ADP WEEKLY EMPLOYMENT CHANGE AUG-22ND: 12.00K (PREV 11.75K)
+- 09/09 21:16 [FirstSquawk] AMAZON SETS SIZE ON DEBUT STERLING BOND SALE AT £4.25 BILLION
+- 09/09 21:16 [financialjuice] Amazon sets size on debut sterling bond sale at £4.25 billion $AMZN
+- 09/09 21:17 [financialjuice] OpenAI projects compute spending around $750b through 2030 - NYT
+- 09/09 21:18 [FirstSquawk] TRADERS RAISE EXPECTATIONS FOR ECB AND BOE INTEREST RATE INCREASES, FAVORIZING 4 HIKES BY THE END OF 2027.
+- 09/09 21:18 [financialjuice] ❗ Traders boost ECB and BoE rate bets; favor 4 hikes by the end of 2027.
+- 09/09 21:19 [FirstSquawk] OIL PRODUCTS TANKER HERCULES STAR INVOLVED IN INCIDENT AT ANCHORAGE OFF DUBAI, ONE CREW MEMBER KILLED, CHARTERER PENINSULA SAYS
+- 09/09 21:20 [financialjuice] Charterer Peninsula: Oil products tanker Hercules Star involved in incident at anchorage off Dubai; one crew member killed.
