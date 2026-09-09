@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 15:31 JST／対象: 09/09 03:31 〜 09/09 15:31 JST（時刻はすべて日本時間）
+生成: 2026-09-09 15:50 JST／対象: 09/09 03:50 〜 09/09 15:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/09 03:46 | 09/09 05:33 | ⚠ 105分（03:46→05:31） |
-| FirstSquawk | 201 | 09/09 03:40 | 09/09 15:30 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 114 | 09/09 03:31 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
+| DeItaone | 2 | 09/09 05:31 | 09/09 05:33 | 1分（05:31→05:33） |
+| FirstSquawk | 200 | 09/09 03:50 | 09/09 15:47 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 105 | 09/09 03:50 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 311 行（統合前 320 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 300 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 03:31 [financialjuice] NYMEX WTI crude October futures settle at $93.03 a barrel, up $1.55, 1.69%.
-- 09/09 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.2525 a gallon.
-- 09/09 03:32 [financialjuice] NYMEX Diesel October futures settle at $4.5678 a gallon.
-- 09/09 03:33 [financialjuice] NYMEX Natural Gas October futures settle at $2.9160/MMBTU.
-- 09/09 03:37 [financialjuice] OpenAI: images 2.5 is available to all ChatGPT, ChatGPT Work, & Codex users across desktop, mobile, & web.
-- 09/09 03:40 [FirstSquawk] NYMEX WTI CRUDE OCTOBER FUTURES SETTLE AT $93.03 A BARREL, UP $1.55, OR 1.69%, WITH NATURAL GAS OCTOBER FUTURES AT $2.9160/MMBTU, DIESEL AT $4.5678 A GALLON AND GASOLINE AT $3.2525 A GALLON
-- 09/09 03:41 [FirstSquawk] US CRUDE OIL FUTURES CLOSE AT $93.03/BBL, GAIN $1.55, RISING 1.69%
-- 09/09 03:42 [financialjuice] Anthropic is severing ties with the information technology industry council over legislation that would curb foreign access to US Chips - Axios
-- 09/09 03:42 [FirstSquawk] OPENAI: IMAGES 2.5 ROLLS OUT GLOBALLY FOR CHATGPT, CHATGPT WORK & CODEX USERS ON DESKTOP, MOBILE & WEB
-- 09/09 03:43 [FirstSquawk] ANTHROPIC DROPS IT INDUSTRY COUNCIL MEMBERSHIP OVER PROPOSED RULES RESTRICTING FOREIGN ACCESS TO US CHIPS - AXIOS
-- 09/09 03:43 [FirstSquawk] UK NATS: TECHNICAL GLITCH RESOLVED, AIR TRAFFIC OPERATIONS BACK TO NORMAL
-- 09/09 03:44 [FirstSquawk] EBAY CEO: AI BOOSTS US LISTINGS PER SELLER BY 50%
-- 09/09 03:44 [FirstSquawk] EBAY CEO: VEHICLES BUSINESS QUICKLY REACHES HUNDREDS OF MILLIONS OF DOLLARS IN RUN-RATE
-- 09/09 03:44 [FirstSquawk] EBAY CEO: VEHICLES & EBAY LIVE EMERGE AS NEW GROWTH DRIVERS FOR COMPANY – GOLDMAN SACHS CONFERENCE
-- 09/09 03:45 [FirstSquawk] IRAN PRESIDENT TO TRAVEL TO INDIA THIS WEEK FOR BRICS SUMMIT - IRIB NEWS
-- 09/09 03:46 [DeItaone] IRAN'S JOINT MILITARY COMMAND SAYS IT WILL 'HEAVILY TARGET' U.S. INTERESTS IN THE MIDDLE EAST IF IRANIAN VESSELS ARE ATTACKED - STATE MEDIA
-- 09/09 03:46 [financialjuice] Iran's Joint Military Command: Will 'heavily target’ US Interests in the Middle East if Iranian vessels are attacked - State Media
-- 09/09 03:47 [financialjuice] Iran President to visit India for BRICS summit this week - IRIB
-- 09/09 03:50 [financialjuice] ❗ Explosions heard on Iran's Kharg Island - Mehr
 - 09/09 03:50 [FirstSquawk] BRENT CRUDE FUTURES END AT $97.92/BBL, GAIN 92 CENTS, RISING 0.95%
 - 09/09 03:50 [financialjuice] ❗ Explosion sounds heard in Iran's Kharg Island, no official announcement yet - Iran's Mehr News Agency
 - 09/09 03:51 [financialjuice] Brent crude futures settle at $97.92/bbl, up 92 cents, 0.95%.
@@ -335,3 +316,11 @@
 - 09/09 15:27 [FirstSquawk] Alerts Issued in Khamis Mushait as Saudi Civil Defense Warns of Potential Danger
 - 09/09 15:27 [FirstSquawk] Russia’s Defence Ministry Says Its Forces Struck a Cargo Vessel in the Black Sea
 - 09/09 15:30 [FirstSquawk] Warehouse Belonging to Kyiv Company Manufacturing Unmanned Boats and Drones Hit, Russian Defence Ministry Says
+- 09/09 15:31 [FirstSquawk] Saudi Civil Defense Says Threat Has Now Passed
+- 09/09 15:43 [FirstSquawk] RBA’s Hawkish Comments Have Lit Fuse for September Rate Increase - WSJ
+- 09/09 15:43 [FirstSquawk] RBI Likely Intervening With Dollar Sales to Limit Rupee Weakness
+- 09/09 15:45 [FirstSquawk] FRANCE (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: -0.4% VS 0.1% PREVIOUS;EST 0.2%
+- 09/09 15:45 [FirstSquawk] FRANCE (JUL) INDUSTRIAL PRODUCTION YOY ACTUAL: -0.5% VS -0.1% PREVIOUS;EST 0.4%
+- 09/09 15:46 [FirstSquawk] FRANCE (JUL) MANUFACTURING PRODUCTION MOM ACTUAL: -0.8% VS -1.1% PREVIOUS;EST 0.4%
+- 09/09 15:46 [FirstSquawk] FRANCE (JUL) MANUFACTURING PRODUCTION YOY ACTUAL: -2% VS -1.7% PREVIOUS
+- 09/09 15:47 [FirstSquawk] UK Air Traffic Outage Cause Expected to Be Different From Previous Failures, NATS CEO Rolfe Says

@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 15:31 JST／対象: 09/09 09:31 〜 09/09 15:31 JST（時刻はすべて日本時間）
+生成: 2026-09-09 15:50 JST／対象: 09/09 09:50 〜 09/09 15:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 106 | 09/09 09:32 | 09/09 15:30 | 16分（13:13→13:30） |
+| FirstSquawk | 106 | 09/09 09:52 | 09/09 15:47 | 16分（13:13→13:30） |
 | financialjuice | 29 | 09/09 10:00 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,14 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 09:32 [FirstSquawk] U.S. Strikes Iranian Oil Tankers in Response to Tehran’s Attacks on Navy Ships - WSJ
-- 09/09 09:33 [FirstSquawk] Oil Rises as Houthi Militants’ Attack Amplifies Supply-Disruption Fears - WSJ
-- 09/09 09:33 [FirstSquawk] Nikkei Rises 0.1%, Led by Chip-Related Stocks - WSJ
-- 09/09 09:36 [FirstSquawk] Blackstone’s Head of Real Estate Is Leaving the Firm - WSJ
-- 09/09 09:39 [FirstSquawk] Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries - CNBC
-- 09/09 09:42 [FirstSquawk] Penicillin shortage continues in Japan amid high number of syphilis cases - KYODO
-- 09/09 09:45 [FirstSquawk] Maker of world's best sake this year hopes to spread Japanese culture - KYODO
-- 09/09 09:49 [FirstSquawk] Trump said the alcohol ban was in response to Canada's treatment of American alcohol - BusinessInsider
 - 09/09 09:52 [FirstSquawk] SK Hynix Stock Gains 3% in Trading
 - 09/09 09:59 [FirstSquawk] Heavy rain may continue through Thurs. on Pacific side of east, west Japan - KYODO
 - 09/09 10:00 [FirstSquawk] Taiwan Overnight Rate Opens Steady at 0.805%
@@ -158,3 +150,11 @@
 - 09/09 15:27 [FirstSquawk] Alerts Issued in Khamis Mushait as Saudi Civil Defense Warns of Potential Danger
 - 09/09 15:27 [FirstSquawk] Russia’s Defence Ministry Says Its Forces Struck a Cargo Vessel in the Black Sea
 - 09/09 15:30 [FirstSquawk] Warehouse Belonging to Kyiv Company Manufacturing Unmanned Boats and Drones Hit, Russian Defence Ministry Says
+- 09/09 15:31 [FirstSquawk] Saudi Civil Defense Says Threat Has Now Passed
+- 09/09 15:43 [FirstSquawk] RBA’s Hawkish Comments Have Lit Fuse for September Rate Increase - WSJ
+- 09/09 15:43 [FirstSquawk] RBI Likely Intervening With Dollar Sales to Limit Rupee Weakness
+- 09/09 15:45 [FirstSquawk] FRANCE (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: -0.4% VS 0.1% PREVIOUS;EST 0.2%
+- 09/09 15:45 [FirstSquawk] FRANCE (JUL) INDUSTRIAL PRODUCTION YOY ACTUAL: -0.5% VS -0.1% PREVIOUS;EST 0.4%
+- 09/09 15:46 [FirstSquawk] FRANCE (JUL) MANUFACTURING PRODUCTION MOM ACTUAL: -0.8% VS -1.1% PREVIOUS;EST 0.4%
+- 09/09 15:46 [FirstSquawk] FRANCE (JUL) MANUFACTURING PRODUCTION YOY ACTUAL: -2% VS -1.7% PREVIOUS
+- 09/09 15:47 [FirstSquawk] UK Air Traffic Outage Cause Expected to Be Different From Previous Failures, NATS CEO Rolfe Says

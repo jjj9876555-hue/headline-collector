@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 15:31 JST／対象: 09/08 15:31 〜 09/09 15:31 JST（時刻はすべて日本時間）
+生成: 2026-09-09 15:50 JST／対象: 09/08 15:50 〜 09/09 15:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 409 | 09/08 15:39 | 09/09 15:30 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 270 | 09/08 15:45 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 414 | 09/08 15:53 | 09/09 15:47 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 268 | 09/08 16:42 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 677 行（統合前 693 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 680 行（統合前 696 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 15:39 [FirstSquawk] ECB SET TO RAISE KEY RATE AGAIN, SIGNAL CAUTION ON FURTHER MOVES-WSJ
-- 09/08 15:45 [financialjuice] FRENCH TRADE BALANCE SA ACTUAL -6.669012B (FORECAST -, PREVIOUS -5.85B) $MACRO
-- 09/08 15:45 [financialjuice] FRENCH CURRENT ACCOUNT ACTUAL -4.7B (FORECAST -, PREVIOUS -1.4B) $MACRO
-- 09/08 15:46 [FirstSquawk] FRANE (JUL) CURRENT ACOUNT BALANCE ACTUAL: -4.7B VS -1.4B PREVIOUS
-- 09/08 15:46 [FirstSquawk] FRANE (JUL) TRADE BALANCE ACTUAL: -6669M VS -5847M PREVIOUS
 - 09/08 15:53 [FirstSquawk] Polish Air Force ends response operations over Russian strikes on Ukraine; no airspace violations detected, Polish Army says
 - 09/08 16:15 [FirstSquawk] NOVARTIS SHARES FALL 10% AFTER THIRD TRIAL SETBACK IN A WEEK
 - 09/08 16:17 [FirstSquawk] Audi CEO: VW Weighs Selling Ducati Motorcycle Unit In Broad Review
@@ -701,3 +696,11 @@
 - 09/09 15:27 [FirstSquawk] Alerts Issued in Khamis Mushait as Saudi Civil Defense Warns of Potential Danger
 - 09/09 15:27 [FirstSquawk] Russia’s Defence Ministry Says Its Forces Struck a Cargo Vessel in the Black Sea
 - 09/09 15:30 [FirstSquawk] Warehouse Belonging to Kyiv Company Manufacturing Unmanned Boats and Drones Hit, Russian Defence Ministry Says
+- 09/09 15:31 [FirstSquawk] Saudi Civil Defense Says Threat Has Now Passed
+- 09/09 15:43 [FirstSquawk] RBA’s Hawkish Comments Have Lit Fuse for September Rate Increase - WSJ
+- 09/09 15:43 [FirstSquawk] RBI Likely Intervening With Dollar Sales to Limit Rupee Weakness
+- 09/09 15:45 [FirstSquawk] FRANCE (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: -0.4% VS 0.1% PREVIOUS;EST 0.2%
+- 09/09 15:45 [FirstSquawk] FRANCE (JUL) INDUSTRIAL PRODUCTION YOY ACTUAL: -0.5% VS -0.1% PREVIOUS;EST 0.4%
+- 09/09 15:46 [FirstSquawk] FRANCE (JUL) MANUFACTURING PRODUCTION MOM ACTUAL: -0.8% VS -1.1% PREVIOUS;EST 0.4%
+- 09/09 15:46 [FirstSquawk] FRANCE (JUL) MANUFACTURING PRODUCTION YOY ACTUAL: -2% VS -1.7% PREVIOUS
+- 09/09 15:47 [FirstSquawk] UK Air Traffic Outage Cause Expected to Be Different From Previous Failures, NATS CEO Rolfe Says
