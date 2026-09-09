@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 18:59 JST／対象: 09/09 06:59 〜 09/09 18:59 JST（時刻はすべて日本時間）
+生成: 2026-09-09 19:19 JST／対象: 09/09 07:19 〜 09/09 19:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/09 16:31 | 09/09 18:50 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 185 | 09/09 07:35 | 09/09 18:53 | 19分（16:10→16:29） |
-| financialjuice | 70 | 09/09 07:05 | 09/09 18:32 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 6 | 09/09 16:31 | 09/09 19:02 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 188 | 09/09 07:35 | 09/09 19:11 | 19分（16:10→16:29） |
+| financialjuice | 67 | 09/09 07:20 | 09/09 19:14 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 257 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 258 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 07:05 [financialjuice] US Secretary of State Rubio: Trump wants to reach tariff deal with Colombia
-- 09/09 07:12 [financialjuice] US Secretary of State Rubio: Every time Iran targets US Navy ships, they will lose tankers
-- 09/09 07:17 [financialjuice] U.S. Central Command: forces destroyed five Iranian crude oil carriers Sept. 8 after Islamic Revolutionary Guard Corps targeted U.S. navy warship with ballistic missiles twice over past two days
-- 09/09 07:18 [financialjuice] U.S. Central Command: U.S. warship successfully avoided Iranian attack attempts
-- 09/09 07:18 [financialjuice] U.S. Central Command: No American personnel injured
 - 09/09 07:20 [financialjuice] Amazon: GPT-6 Astra from OpenAI now accessible on Amazon Bedrock - blog
 - 09/09 07:34 [financialjuice] Google, Blackstone venture encounters delays at data-center sites
 - 09/09 07:35 [FirstSquawk] U.S. CENTRAL COMMAND SAYS ITS FORCES DESTROYED FIVE IRANIAN CRUDE OIL CARRIERS ON SEPT. 8, AFTER THE IRGC TARGETED A U.S. NAVY WARSHIP WITH BALLISTIC MISSILES TWICE OVER THE PAST TWO DAYS, WITH THE WARSHIP SUCCESSFULLY EVADING THE ATTEMPTED…
@@ -281,3 +276,9 @@
 - 09/09 18:47 [FirstSquawk] CSU LEADER MARKUS SÖDER STATES THAT EVERY CRIME AND KNIFE ATTACK IS EXAGGERATED ONLINE, MAKING IT SEEM LIKE THE COUNTRY IS CHAOTIC. HE ASSERTS THAT BAVARIA IS IN ITS SAFEST CONDITION SINCE 1978.
 - 09/09 18:50 [DeItaone] TRUMP’S WEDNESDAY CALENDAR 11:00 AM — Intelligence briefing, White House Afternoon — Travels to Dallas, Texas 6:00 PM — MAGA Inc. meeting 8:15 PM — Remarks at Republican National Committee Midterm Convention, American Airlines Center
 - 09/09 18:53 [FirstSquawk] US 2-YEAR YIELD INCREASES 2 BASIS POINTS TO 4.42%, THE HIGHEST LEVEL SINCE JANUARY 2025.
+- 09/09 19:00 [DeItaone] US 2-YEAR YIELD RISES 2BPS TO 4.42%, HIGHEST SINCE JANUARY 2025
+- 09/09 19:02 [DeItaone/financialjuice] US CENTCOM: IRGC CLAIM OF STRIKES ON TWO U.S. NAVY DESTROYERS OPERATING IN THE MIDDLE EAST IS FALSE, ALL IRGC ATTEMPTED ATTACKS FAILED
+- 09/09 19:02 [FirstSquawk] US CENTCOM SAYS IRGC'S CLAIM ABOUT STRIKES ON TWO U.S. NAVY DESTROYERS IN THE MIDDLE EAST IS NOT TRUE, ALL ATTACKS FROM IRGC FAILED.
+- 09/09 19:05 [FirstSquawk] SILVER LAKE WILL COMBINE CEGID AND SILAE TO FORM A GROUP VALUED AT OVER €10 BILLION, ACCORDING TO THE FINANCIAL TIMES.
+- 09/09 19:11 [FirstSquawk] NASDAQ 100 FUTURES EXTEND LOSSES TO 0.5%
+- 09/09 19:14 [financialjuice] Panama-flagged tanker carrying 2 mln barrels of Iraqi fuel oil was struck by drone in Iraqi territorial waters - Two Port Officials.

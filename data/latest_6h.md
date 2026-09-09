@@ -7,36 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 18:59 JST／対象: 09/09 12:59 〜 09/09 18:59 JST（時刻はすべて日本時間）
+生成: 2026-09-09 19:19 JST／対象: 09/09 13:19 〜 09/09 19:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/09 16:31 | 09/09 18:50 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 86 | 09/09 13:00 | 09/09 18:53 | 19分（16:10→16:29） |
-| financialjuice | 13 | 09/09 13:03 | 09/09 18:32 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 6 | 09/09 16:31 | 09/09 19:02 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 79 | 09/09 13:30 | 09/09 19:11 | 19分（16:10→16:29） |
+| financialjuice | 14 | 09/09 13:30 | 09/09 19:14 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 98 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 13:00 [FirstSquawk] Gold bounces off one-week low on soft USD; upside seems capped ahead of US inflation data - fx
-- 09/09 13:02 [FirstSquawk/financialjuice] Anthropic withheld latest AI model from UK testing agency - FT
-- 09/09 13:03 [FirstSquawk] McLaren to create 1,000 UK jobs in product overhaul - FT
-- 09/09 13:11 [FirstSquawk] Sinopec Research Sees China’s 2026 Apparent Oil Demand Declining 600,000 Bpd, or 8.9% From a Year Earlier
-- 09/09 13:11 [FirstSquawk] China’s Oil Demand Peaked in 2025, Set to Fall Below 750 Million Tons by 2030 and About 300 Million Tons by 2060, Sinopec Says
-- 09/09 13:11 [FirstSquawk] China’s 2026 Gasoline, Diesel Demand Seen Declining 8.7% and 11.4%, Respectively; Jet Fuel Demand Up 1.3%, Sinopec Says
-- 09/09 13:12 [FirstSquawk] China’s Refining Capacity Seen Declining to 900-910 Million Tons Annually by End-2030, Sinopec Says
-- 09/09 13:12 [FirstSquawk] Sinopec Sees China Refining Capacity Climbing to 952 Million Tons a Year in 2026
-- 09/09 13:12 [FirstSquawk] China’s Crude Runs Declined 5.4% to 697 Million Tons in Q2-Q3 as Refinery Utilization Fell to 73.2%, Sinopec Says
-- 09/09 13:13 [FirstSquawk] China’s Non-Fossil Energy Mix Seen Surpassing 33% by 2035, While Fossil Energy Drops Below 50% Around 2045, Sinopec Says
-- 09/09 13:13 [FirstSquawk] China Set to Achieve Peak Carbon Emissions Ahead of 2030, Sinopec Says
-- 09/09 13:13 [FirstSquawk] Sinopec Sees China Natural Gas Demand Rising Above 50 Bcm by 2030
 - 09/09 13:30 [FirstSquawk] IRAN TURNS TO CRYPTO TO GET AROUND SANCTIONS – FT
+- 09/09 13:30 [FirstSquawk] MCLAREN TO CREATE 1,000 UK JOBS IN PRODUCT OVERHAUL – FT
+- 09/09 13:30 [FirstSquawk] ANTHROPIC WITHHELD LATEST AI MODEL FROM UK TESTING AGENCY - FT
 - 09/09 13:30 [financialjuice] DUTCH CONSUMER SPENDING ACTUAL 1.2% (FORECAST -, PREVIOUS 1.7%) $MACRO
 - 09/09 13:30 [financialjuice] Dutch July consumer spending rises 1.2% y/y after 1.7% gain in June: CBS
 - 09/09 13:36 [FirstSquawk] Qatar Says Civil Defence Has Controlled Fire on Vessel at Al Wakra Port; No Injuries Reported
@@ -126,3 +116,9 @@
 - 09/09 18:47 [FirstSquawk] CSU LEADER MARKUS SÖDER STATES THAT EVERY CRIME AND KNIFE ATTACK IS EXAGGERATED ONLINE, MAKING IT SEEM LIKE THE COUNTRY IS CHAOTIC. HE ASSERTS THAT BAVARIA IS IN ITS SAFEST CONDITION SINCE 1978.
 - 09/09 18:50 [DeItaone] TRUMP’S WEDNESDAY CALENDAR 11:00 AM — Intelligence briefing, White House Afternoon — Travels to Dallas, Texas 6:00 PM — MAGA Inc. meeting 8:15 PM — Remarks at Republican National Committee Midterm Convention, American Airlines Center
 - 09/09 18:53 [FirstSquawk] US 2-YEAR YIELD INCREASES 2 BASIS POINTS TO 4.42%, THE HIGHEST LEVEL SINCE JANUARY 2025.
+- 09/09 19:00 [DeItaone] US 2-YEAR YIELD RISES 2BPS TO 4.42%, HIGHEST SINCE JANUARY 2025
+- 09/09 19:02 [DeItaone/financialjuice] US CENTCOM: IRGC CLAIM OF STRIKES ON TWO U.S. NAVY DESTROYERS OPERATING IN THE MIDDLE EAST IS FALSE, ALL IRGC ATTEMPTED ATTACKS FAILED
+- 09/09 19:02 [FirstSquawk] US CENTCOM SAYS IRGC'S CLAIM ABOUT STRIKES ON TWO U.S. NAVY DESTROYERS IN THE MIDDLE EAST IS NOT TRUE, ALL ATTACKS FROM IRGC FAILED.
+- 09/09 19:05 [FirstSquawk] SILVER LAKE WILL COMBINE CEGID AND SILAE TO FORM A GROUP VALUED AT OVER €10 BILLION, ACCORDING TO THE FINANCIAL TIMES.
+- 09/09 19:11 [FirstSquawk] NASDAQ 100 FUTURES EXTEND LOSSES TO 0.5%
+- 09/09 19:14 [financialjuice] Panama-flagged tanker carrying 2 mln barrels of Iraqi fuel oil was struck by drone in Iraqi territorial waters - Two Port Officials.

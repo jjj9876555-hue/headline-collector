@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 18:59 JST／対象: 09/08 18:59 〜 09/09 18:59 JST（時刻はすべて日本時間）
+生成: 2026-09-09 19:19 JST／対象: 09/08 19:19 〜 09/09 19:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/08 22:06 | 09/09 18:50 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 405 | 09/08 19:00 | 09/09 18:53 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 259 | 09/08 19:00 | 09/09 18:32 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 16 | 09/08 22:06 | 09/09 19:02 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 405 | 09/08 19:27 | 09/09 19:11 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 260 | 09/08 19:20 | 09/09 19:14 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 665 行（統合前 681 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 667 行（統合前 684 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 19:00 [financialjuice] US NFIB BUSINESS OPTIMISM INDEX ACTUAL 98.7 (FORECAST 99.3, PREVIOUS 99.80) $MACRO
-- 09/08 19:00 [FirstSquawk] FOUR SAUDI AIRSTRIKES HIT YEMEN'S MARIB, HOUTHI-RUN AL MASIRAH TV SAYS
-- 09/08 19:06 [FirstSquawk] UBER FILES FOR EURO-DENOMINATED FIVE PARTS SENIOR NOTES OFFERING; SIZE NOT DISCLOSED - SEC FILING
-- 09/08 19:16 [FirstSquawk] MERCK & CO INC : GUGGENHEIM RAISES TARGET PRICE TO $170 FROM $146
 - 09/08 19:20 [financialjuice] ❗ Qatar is working with its regional partners and China to resume talks between US and Iran - Foreign Ministry.
 - 09/08 19:23 [financialjuice] UK Government: To lay legislation which will tackle Iranian nuclear activity and other hostile Iranian activity.
 - 09/08 19:23 [financialjuice] UK Government: The legislation will further expand our powers to sanction ships.
@@ -689,3 +685,9 @@
 - 09/09 18:47 [FirstSquawk] CSU LEADER MARKUS SÖDER STATES THAT EVERY CRIME AND KNIFE ATTACK IS EXAGGERATED ONLINE, MAKING IT SEEM LIKE THE COUNTRY IS CHAOTIC. HE ASSERTS THAT BAVARIA IS IN ITS SAFEST CONDITION SINCE 1978.
 - 09/09 18:50 [DeItaone] TRUMP’S WEDNESDAY CALENDAR 11:00 AM — Intelligence briefing, White House Afternoon — Travels to Dallas, Texas 6:00 PM — MAGA Inc. meeting 8:15 PM — Remarks at Republican National Committee Midterm Convention, American Airlines Center
 - 09/09 18:53 [FirstSquawk] US 2-YEAR YIELD INCREASES 2 BASIS POINTS TO 4.42%, THE HIGHEST LEVEL SINCE JANUARY 2025.
+- 09/09 19:00 [DeItaone] US 2-YEAR YIELD RISES 2BPS TO 4.42%, HIGHEST SINCE JANUARY 2025
+- 09/09 19:02 [DeItaone/financialjuice] US CENTCOM: IRGC CLAIM OF STRIKES ON TWO U.S. NAVY DESTROYERS OPERATING IN THE MIDDLE EAST IS FALSE, ALL IRGC ATTEMPTED ATTACKS FAILED
+- 09/09 19:02 [FirstSquawk] US CENTCOM SAYS IRGC'S CLAIM ABOUT STRIKES ON TWO U.S. NAVY DESTROYERS IN THE MIDDLE EAST IS NOT TRUE, ALL ATTACKS FROM IRGC FAILED.
+- 09/09 19:05 [FirstSquawk] SILVER LAKE WILL COMBINE CEGID AND SILAE TO FORM A GROUP VALUED AT OVER €10 BILLION, ACCORDING TO THE FINANCIAL TIMES.
+- 09/09 19:11 [FirstSquawk] NASDAQ 100 FUTURES EXTEND LOSSES TO 0.5%
+- 09/09 19:14 [financialjuice] Panama-flagged tanker carrying 2 mln barrels of Iraqi fuel oil was struck by drone in Iraqi territorial waters - Two Port Officials.
