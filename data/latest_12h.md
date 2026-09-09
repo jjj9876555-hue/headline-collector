@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 00:35 JST／対象: 09/09 12:35 〜 09/10 00:35 JST（時刻はすべて日本時間）
+生成: 2026-09-10 00:52 JST／対象: 09/09 12:52 〜 09/10 00:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/09 16:31 | 09/09 23:16 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 183 | 09/09 12:36 | 09/10 00:32 | 19分（16:10→16:29） |
-| financialjuice | 79 | 09/09 12:39 | 09/10 00:31 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 177 | 09/09 12:53 | 09/10 00:32 | 19分（16:10→16:29） |
+| financialjuice | 79 | 09/09 13:03 | 09/10 00:36 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 280 行（統合前 289 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 274 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 12:36 [FirstSquawk] President Lee conferred France's highest decoration for promoting bilateral ties - yonhap
-- 09/09 12:39 [financialjuice] China finance ministry auctions 50-year ultra-long special treasury bonds at 2.2778% yield: traders
-- 09/09 12:39 [FirstSquawk] China Sells 50-Year Ultra-Long Special Treasury Bonds at 2.2778% Yield, Traders Say
-- 09/09 12:41 [financialjuice] China finance ministry auctions 3-month bills at 1.1270% yield: traders
-- 09/09 12:41 [FirstSquawk] MRPL Executive: Rising Local Diesel Demand Encourages Refiners to Shift Production From Jet Fuel to Diesel
-- 09/09 12:43 [FirstSquawk] BHP Group Says New Rio Doce Deal Brings Over R$1.2 Billion in Additional Reparations Payments
-- 09/09 12:48 [FirstSquawk] Thai Finance Ministry to Launch Rooftop Solar Support From Mid-October
-- 09/09 12:50 [FirstSquawk] Thai Government to Allocate 50 Billion Baht for Rooftop Solar Scheme, FinMin Says
 - 09/09 12:53 [FirstSquawk] Thailand to Exempt Some Solar Panel Imports From Tax, Finance Minister Says
 - 09/09 13:00 [FirstSquawk] Gold bounces off one-week low on soft USD; upside seems capped ahead of US inflation data - fx
 - 09/09 13:02 [FirstSquawk/financialjuice] Anthropic withheld latest AI model from UK testing agency - FT
@@ -304,3 +296,5 @@
 - 09/10 00:31 [financialjuice] Pakistan Defense Minister reaffirms commitment to joint defense agreement with Saudi Arabia and Turkey - IRNA
 - 09/10 00:32 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.36%; GERMANY'S DAX DOWN 1.74%
 - 09/10 00:32 [FirstSquawk] FRANCE'S CAC 40 DOWN 1.87%; SPAIN'S IBEX DOWN 1.58%
+- 09/10 00:35 [financialjuice] Buyback increase is part of ongoing approach - Fox Business.
+- 09/10 00:36 [financialjuice] Fox Business cites Trump Admin Official on buyback announcement.

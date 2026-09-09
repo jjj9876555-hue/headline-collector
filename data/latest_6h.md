@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 00:35 JST／対象: 09/09 18:35 〜 09/10 00:35 JST（時刻はすべて日本時間）
+生成: 2026-09-10 00:52 JST／対象: 09/09 18:52 〜 09/10 00:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/09 18:47 | 09/09 23:16 | ⚠ 56分（22:19→23:16） |
-| FirstSquawk | 93 | 09/09 18:36 | 09/10 00:32 | 18分（23:04→23:23） |
-| financialjuice | 64 | 09/09 19:03 | 09/10 00:31 | 35分（21:20→21:55） |
+| DeItaone | 20 | 09/09 19:00 | 09/09 23:16 | ⚠ 56分（22:19→23:16） |
+| FirstSquawk | 91 | 09/09 18:53 | 09/10 00:32 | 18分（23:04→23:23） |
+| financialjuice | 66 | 09/09 19:03 | 09/10 00:36 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 174 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 172 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 18:36 [FirstSquawk] BRITISH AIRWAYS: CANCELLED MORE THAN 190 FLIGHTS OF WEDNESDAY'S ORIGINAL PLANNED SCHEDULE
-- 09/09 18:47 [DeItaone] CHINA HITS BACK AT US OVER AI CLAIMS China rejected US claims that six Chinese AI companies systematically used American models to develop their technology. US agencies accused DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun and https://t.…
-- 09/09 18:47 [FirstSquawk] CSU LEADER MARKUS SÖDER STATES THAT EVERY CRIME AND KNIFE ATTACK IS EXAGGERATED ONLINE, MAKING IT SEEM LIKE THE COUNTRY IS CHAOTIC. HE ASSERTS THAT BAVARIA IS IN ITS SAFEST CONDITION SINCE 1978.
-- 09/09 18:50 [DeItaone] TRUMP’S WEDNESDAY CALENDAR 11:00 AM — Intelligence briefing, White House Afternoon — Travels to Dallas, Texas 6:00 PM — MAGA Inc. meeting 8:15 PM — Remarks at Republican National Committee Midterm Convention, American Airlines Center
 - 09/09 18:53 [FirstSquawk] US 2-YEAR YIELD INCREASES 2 BASIS POINTS TO 4.42%, THE HIGHEST LEVEL SINCE JANUARY 2025.
 - 09/09 19:00 [DeItaone] US 2-YEAR YIELD RISES 2BPS TO 4.42%, HIGHEST SINCE JANUARY 2025
 - 09/09 19:02 [DeItaone/financialjuice] US CENTCOM: IRGC CLAIM OF STRIKES ON TWO U.S. NAVY DESTROYERS OPERATING IN THE MIDDLE EAST IS FALSE, ALL IRGC ATTEMPTED ATTACKS FAILED
@@ -198,3 +194,5 @@
 - 09/10 00:31 [financialjuice] Pakistan Defense Minister reaffirms commitment to joint defense agreement with Saudi Arabia and Turkey - IRNA
 - 09/10 00:32 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.36%; GERMANY'S DAX DOWN 1.74%
 - 09/10 00:32 [FirstSquawk] FRANCE'S CAC 40 DOWN 1.87%; SPAIN'S IBEX DOWN 1.58%
+- 09/10 00:35 [financialjuice] Buyback increase is part of ongoing approach - Fox Business.
+- 09/10 00:36 [financialjuice] Fox Business cites Trump Admin Official on buyback announcement.

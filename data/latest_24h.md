@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 00:35 JST／対象: 09/09 00:35 〜 09/10 00:35 JST（時刻はすべて日本時間）
+生成: 2026-09-10 00:52 JST／対象: 09/09 00:52 〜 09/10 00:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/09 00:42 | 09/09 23:16 | ⚠ 658分（05:33→16:31） |
+| DeItaone | 28 | 09/09 02:40 | 09/09 23:16 | ⚠ 658分（05:33→16:31） |
 | FirstSquawk | 377 | 09/09 00:55 | 09/10 00:32 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 209 | 09/09 00:36 | 09/10 00:31 | ⚠ 206分（14:00→17:26） |
+| financialjuice | 207 | 09/09 00:57 | 09/10 00:36 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 601 行（統合前 618 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 598 行（統合前 615 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 00:36 [financialjuice] US Treasury Secretary Bessent: No more forbearance on Iran sanctions.
-- 09/09 00:38 [financialjuice] US Treasury Secretary Bessent: We'll see if Iran lashes out kinetically now.
-- 09/09 00:39 [financialjuice] US Treasury Secretary Bessent: 2 Iran-owned London luxury penthouses being auctioned.
-- 09/09 00:41 [financialjuice] Iran destroys a US MQ1 drone over the Strait of Hormuz; no US confirmation - Iran's Tasnim news agency citing IRGC.
-- 09/09 00:42 [DeItaone] IRAN'S TASNIM NEWS AGENCY CITING IRGC: IRAN DESTROYS A U.S. MQ1 DRONE OVER THE STRAIT OF HORMUZ; NO U.S CONFIRMATION
 - 09/09 00:55 [FirstSquawk] QUALCOMM WILL BEGIN RECEIVING REVENUE FROM AMAZON IN THE DECEMBER QUARTER.
 - 09/09 00:57 [financialjuice] Qualcomm is going to get Amazon revenue starting in the December quarter. $QCOM
 - 09/09 00:57 [financialjuice] Qualcomm has high confidence in it's $5 bln data center target. $QCOM
@@ -625,3 +620,5 @@
 - 09/10 00:31 [financialjuice] Pakistan Defense Minister reaffirms commitment to joint defense agreement with Saudi Arabia and Turkey - IRNA
 - 09/10 00:32 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.36%; GERMANY'S DAX DOWN 1.74%
 - 09/10 00:32 [FirstSquawk] FRANCE'S CAC 40 DOWN 1.87%; SPAIN'S IBEX DOWN 1.58%
+- 09/10 00:35 [financialjuice] Buyback increase is part of ongoing approach - Fox Business.
+- 09/10 00:36 [financialjuice] Fox Business cites Trump Admin Official on buyback announcement.
