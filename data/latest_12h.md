@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 06:01 JST／対象: 09/09 18:01 〜 09/10 06:01 JST（時刻はすべて日本時間）
+生成: 2026-09-10 06:17 JST／対象: 09/09 18:17 〜 09/10 06:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 51 | 09/09 18:32 | 09/10 05:08 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 168 | 09/09 18:02 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 141 | 09/09 18:07 | 09/10 05:46 | 35分（21:20→21:55） |
+| DeItaone | 53 | 09/09 18:32 | 09/10 06:15 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 163 | 09/09 18:20 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 147 | 09/09 18:21 | 09/10 06:17 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 350 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 353 行（統合前 364 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 18:02 [FirstSquawk] JAPAN IS PLANNING A SPECIAL DIET SESSION ON OCTOBER 5, ACCORDING TO KYODO.
-- 09/09 18:05 [FirstSquawk] ZELENSKIY: UKRAINE HIT NOVOROSSIYSK NAVAL BASE, OIL TERMINALS
-- 09/09 18:06 [FirstSquawk] EUROPEAN GAS PRICES INCREASE BY 4% TO A RECORD 79 EUROS PER MEGAWATT-HOUR, THE HIGHEST LEVEL SINCE LATE 2022.
-- 09/09 18:07 [financialjuice] UKMTO gets report of incident 24NM Northwest Port Rashid, UAE.
-- 09/09 18:08 [FirstSquawk] UKMTO SAYS IT RECEIVED A REPORT FROM THIRD PARTY OF INCIDENT 24 NM NORTHWEST OF PORT RASHID, UAE
-- 09/09 18:17 [FirstSquawk] TRUMP'S AI FRAMEWORK DOES NOT INCLUDE GUIDELINES FOR REPORTING PUBLIC INCIDENTS
 - 09/09 18:20 [FirstSquawk] FRENCH PRIME MINISTER PLANS TO REDUCE ONE-OFF TAX ON LARGE COMPANIES IN UPCOMING BUDGET.
 - 09/09 18:21 [financialjuice] French PM Lecornu: We aim to lower one-off tax on big companies in budget.
 - 09/09 18:31 [FirstSquawk] CANADA'S LARGEST ICEBREAKER STARTS TO COME TOGETHER.
@@ -374,3 +368,12 @@
 - 09/10 05:46 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL -0.3M (FORECAST -, PREVIOUS 0.2M) $MACRO
 - 09/10 05:46 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL 2M (FORECAST -, PREVIOUS -0.3M) $MACRO
 - 09/10 05:46 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL -1.9M (FORECAST -, PREVIOUS 0.3M) $MACRO
+- 09/10 06:08 [DeItaone] MILITARY AIDE ACCIDENTALLY DEPLOYED INFLATIBLE EMERGENCY SLIDE ON AIR FORCE ONE - PERSON FAMILIAR
+- 09/10 06:10 [financialjuice] Explosions heard on Iran's Qeshm Island: Iran state media
+- 09/10 06:11 [financialjuice] Iranian state media: unclear if explosion sound came from sea or Qeshm Island itself
+- 09/10 06:11 [financialjuice] Military aide accidentally deploys inflatable emergency slide on Air Force One: person familiar
+- 09/10 06:14 [financialjuice] Colombia's budget reveals significant imbalance: Fitch says major adjustment effort needed
+- 09/10 06:15 [DeItaone] EXPLOSIONS HEARD ON IRAN’S QESHM ISLAND - IRAN'S STATE MEDIA
+- 09/10 06:16 [financialjuice] Significant extra measures needed to stabilize Colombia's debt: Fitch
+- 09/10 06:16 [financialjuice] Failure to implement consolidation steps with persistent high deficits and a steepening debt/GDP path could increase rating pressure: Fitch
+- 09/10 06:17 [financialjuice] Even if fiscal adjustment law achieves full 2.2% of GDP consolidation target, deficits likely to significantly surpass Fitch's previous forecasts: Fitch

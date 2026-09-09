@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 06:01 JST／対象: 09/10 00:01 〜 09/10 06:01 JST（時刻はすべて日本時間）
+生成: 2026-09-10 06:17 JST／対象: 09/10 00:17 〜 09/10 06:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/10 01:05 | 09/10 05:08 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 74 | 09/10 00:14 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 82 | 09/10 00:02 | 09/10 05:46 | 28分（04:22→04:50） |
+| DeItaone | 30 | 09/10 01:05 | 09/10 06:15 | ⚠ 93分（03:34→05:08） |
+| FirstSquawk | 71 | 09/10 00:18 | 09/10 05:28 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 85 | 09/10 00:19 | 09/10 06:17 | 28分（04:22→04:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 179 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 181 行（統合前 187 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 00:02 [financialjuice] ❗ Us treasury to buy back up to $6b in longer-dated debt Thursday
-- 09/10 00:02 [financialjuice] ❗ US Treasury to buy back up to $6 bln in longer-dated debt Thursday vs previous $4 bln per operation
-- 09/10 00:03 [financialjuice] ❗ US Treasury: Will buy up to $6 bln in 10 to 20 Yr liquidity buyback operation on September 10th.
-- 09/10 00:10 [financialjuice] ❗ US Treasury to buy back up to $6 bln in longer-dated debt Thursday. US previously said buyback to be at least $4 bln per operation
-- 09/10 00:14 [FirstSquawk] US TREASURY TO PURCHASE UP TO $6 BILLION IN 10 TO 20-YEAR BONDS ON SEPTEMBER 10TH.
-- 09/10 00:14 [FirstSquawk] S&P 500 DROPS BY 0.5%; NASDAQ 100 FALLS BY 0.4%.
-- 09/10 00:14 [FirstSquawk] LOCKHEED MARTIN RECEIVES $1.32 BILLION CONTRACT TO DEVELOP AUSTRALIA'S JOINT AIR BATTLE MANAGEMENT SYSTEM.
 - 09/10 00:18 [FirstSquawk] RUSSIA'S NOVOROSSIYSK GRAIN TERMINAL WAS HIT BY A DRONE ATTACK, CAUSING DAMAGE.
 - 09/10 00:19 [financialjuice] US Treasury Buyback Announcement
 - 09/10 00:19 [FirstSquawk] AMAZON AND WIWYNN PLAN TO EXPAND AN ADVANCED MANUFACTURING FACILITY IN TEXAS, ADDING NEARLY 1,000 JOBS AND STRENGTHENING THE US SUPPLY CHAIN.
@@ -203,3 +196,12 @@
 - 09/10 05:46 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL -0.3M (FORECAST -, PREVIOUS 0.2M) $MACRO
 - 09/10 05:46 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL 2M (FORECAST -, PREVIOUS -0.3M) $MACRO
 - 09/10 05:46 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL -1.9M (FORECAST -, PREVIOUS 0.3M) $MACRO
+- 09/10 06:08 [DeItaone] MILITARY AIDE ACCIDENTALLY DEPLOYED INFLATIBLE EMERGENCY SLIDE ON AIR FORCE ONE - PERSON FAMILIAR
+- 09/10 06:10 [financialjuice] Explosions heard on Iran's Qeshm Island: Iran state media
+- 09/10 06:11 [financialjuice] Iranian state media: unclear if explosion sound came from sea or Qeshm Island itself
+- 09/10 06:11 [financialjuice] Military aide accidentally deploys inflatable emergency slide on Air Force One: person familiar
+- 09/10 06:14 [financialjuice] Colombia's budget reveals significant imbalance: Fitch says major adjustment effort needed
+- 09/10 06:15 [DeItaone] EXPLOSIONS HEARD ON IRAN’S QESHM ISLAND - IRAN'S STATE MEDIA
+- 09/10 06:16 [financialjuice] Significant extra measures needed to stabilize Colombia's debt: Fitch
+- 09/10 06:16 [financialjuice] Failure to implement consolidation steps with persistent high deficits and a steepening debt/GDP path could increase rating pressure: Fitch
+- 09/10 06:17 [financialjuice] Even if fiscal adjustment law achieves full 2.2% of GDP consolidation target, deficits likely to significantly surpass Fitch's previous forecasts: Fitch

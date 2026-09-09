@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 06:01 JST／対象: 09/09 06:01 〜 09/10 06:01 JST（時刻はすべて日本時間）
+生成: 2026-09-10 06:17 JST／対象: 09/09 06:17 〜 09/10 06:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 52 | 09/09 16:31 | 09/10 05:08 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 357 | 09/09 06:07 | 09/10 05:28 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 225 | 09/09 06:02 | 09/10 05:46 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 54 | 09/09 16:31 | 09/10 06:15 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 350 | 09/09 06:23 | 09/10 05:28 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 221 | 09/09 06:18 | 09/10 06:17 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 620 行（統合前 637 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 612 行（統合前 628 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 06:02 [financialjuice] Chile's central bank: will take necessary steps to ensure projected inflation hits 3% over two-year period
-- 09/09 06:04 [financialjuice] Chile’s central bank: local economy may regain strength by 2027 but current weakness could last longer than expected
-- 09/09 06:05 [financialjuice] South Korea presidential office: South Korea, France discussed roles in Strait of Hormuz security, not troop deployment
-- 09/09 06:05 [financialjuice] South Korea presidential office: Iran expresses interest, requests clarifications on reports about South Korea Hormuz involvement
-- 09/09 06:07 [financialjuice] Gundlach: Fed funds need to rise 50 basis points
-- 09/09 06:07 [financialjuice] Gundlach: US yields set to keep rising
-- 09/09 06:07 [financialjuice] DoubleLine's Gundlach in webcast: avoid exposure to 30-year bonds globally
-- 09/09 06:07 [financialjuice] Gundlach: US two-year yield and Fed funds rate misaligned
-- 09/09 06:07 [financialjuice] South Korea presidential office: review of South Korea role in Strait of Hormuz unrelated to U.S. investment discussions
-- 09/09 06:07 [FirstSquawk] U.S. PRESIDENT DONALD TRUMP ACCUSED CANADA OF BLOCKING U.S. DAIRY EXPORTS AND BARRING AMERICAN COMPANIES FROM CANADIAN GOVERNMENT PROCUREMENT MARKETS, WHILE CANADIAN PRODUCTS RETAIN BROAD ACCESS TO U.S. GOVERNMENT CONTRACTS. - TRUTH SOCIAL
-- 09/09 06:07 [FirstSquawk] TRUMP SAID HE IS DIRECTING THE GENERAL SERVICES ADMINISTRATION (GSA) AND U.S. TRADE REPRESENTATIVE (USTR) TO REMOVE CANADIAN-ORIGIN PRODUCTS FROM GSA'S MULTIPLE AWARD SCHEDULES, A PROCUREMENT SYSTEM WORTH MORE THAN $50 BILLION ANNUALLY. - T…
-- 09/09 06:08 [FirstSquawk] TRUMP CLAIMED THE MEASURE HAD BEEN IN PLACE UNDER EARLIER ADMINISTRATIONS BUT WAS LATER REVERSED UNDER PRESIDENT BIDEN, VOWING NO ACCESS FOR CANADA WITHOUT RECIPROCITY FOR AMERICAN FARMERS AND BUSINESSES. - TRUTH SOCIAL
-- 09/09 06:08 [financialjuice/FirstSquawk] Security, prosperity top priorities for US-Colombia ties: Secretary of State Marco Rubio after meeting Colombia president
-- 09/09 06:12 [FirstSquawk] SOUTH KOREA AND FRANCE DISCUSS CONTRIBUTIONS TO STRAIT OF HORMUZ SECURITY, BUT SEOUL SAYS TROOP DEPLOYMENT WAS NOT DISCUSSED. - SOUTH KOREA PRESIDENTIAL OFFICE
-- 09/09 06:12 [FirstSquawk] SOUTH KOREA SAYS IRAN HAS SOUGHT CLARIFICATION OVER REPORTS OF A SOUTH KOREAN ROLE, WHILE THE HORMUZ REVIEW IS NOT LINKED TO US INVESTMENT TALKS. - SOUTH KOREA PRESIDENTIAL OFFICE
-- 09/09 06:14 [FirstSquawk] DOUBLELINE'S GUNDLACH: US 2-YEAR YIELD & FED FUNDS RATE ARE OUT OF SYNC, WITH FED FUNDS RATE 50BPS TOO LOW; WARNS INVESTORS TO AVOID 30-YEAR BONDS GLOBALLY AS US YIELDS CONTINUE TO RISE.
-- 09/09 06:17 [financialjuice] Colombia aims to be US top partner in fight against drug trafficking: President Abelardo de la Espriella after Rubio meeting
 - 09/09 06:18 [financialjuice] Colombia president De La Espriella: country requires US aid on radar, planes and other fronts to combat crime
 - 09/09 06:19 [financialjuice] Colombia president de la Espriella: willing to meet annual security goals in anti-drug partnership
 - 09/09 06:19 [financialjuice] Mark Stevens reports sale of 1.02 million Nvidia shares between Sept. 3 and Sept. 4, price range $227.25 to $234.04 per share
@@ -644,3 +627,12 @@
 - 09/10 05:46 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL -0.3M (FORECAST -, PREVIOUS 0.2M) $MACRO
 - 09/10 05:46 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL 2M (FORECAST -, PREVIOUS -0.3M) $MACRO
 - 09/10 05:46 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL -1.9M (FORECAST -, PREVIOUS 0.3M) $MACRO
+- 09/10 06:08 [DeItaone] MILITARY AIDE ACCIDENTALLY DEPLOYED INFLATIBLE EMERGENCY SLIDE ON AIR FORCE ONE - PERSON FAMILIAR
+- 09/10 06:10 [financialjuice] Explosions heard on Iran's Qeshm Island: Iran state media
+- 09/10 06:11 [financialjuice] Iranian state media: unclear if explosion sound came from sea or Qeshm Island itself
+- 09/10 06:11 [financialjuice] Military aide accidentally deploys inflatable emergency slide on Air Force One: person familiar
+- 09/10 06:14 [financialjuice] Colombia's budget reveals significant imbalance: Fitch says major adjustment effort needed
+- 09/10 06:15 [DeItaone] EXPLOSIONS HEARD ON IRAN’S QESHM ISLAND - IRAN'S STATE MEDIA
+- 09/10 06:16 [financialjuice] Significant extra measures needed to stabilize Colombia's debt: Fitch
+- 09/10 06:16 [financialjuice] Failure to implement consolidation steps with persistent high deficits and a steepening debt/GDP path could increase rating pressure: Fitch
+- 09/10 06:17 [financialjuice] Even if fiscal adjustment law achieves full 2.2% of GDP consolidation target, deficits likely to significantly surpass Fitch's previous forecasts: Fitch
