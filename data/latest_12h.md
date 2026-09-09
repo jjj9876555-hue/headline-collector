@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 12:52 JST／対象: 09/09 00:52 〜 09/09 12:52 JST（時刻はすべて日本時間）
+生成: 2026-09-09 13:05 JST／対象: 09/09 01:05 〜 09/09 13:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/09 02:40 | 09/09 05:33 | ⚠ 105分（03:46→05:31） |
-| FirstSquawk | 200 | 09/09 00:55 | 09/09 12:50 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 128 | 09/09 00:57 | 09/09 12:41 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 200 | 09/09 01:13 | 09/09 13:03 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 127 | 09/09 01:09 | 09/09 13:03 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 324 行（統合前 332 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 322 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 00:55 [FirstSquawk] QUALCOMM WILL BEGIN RECEIVING REVENUE FROM AMAZON IN THE DECEMBER QUARTER.
-- 09/09 00:57 [financialjuice] Qualcomm is going to get Amazon revenue starting in the December quarter. $QCOM
-- 09/09 00:57 [financialjuice] Qualcomm has high confidence in it's $5 bln data center target. $QCOM
-- 09/09 00:58 [FirstSquawk] QUALCOMM IS CONFIDENT ABOUT REACHING ITS $5 BILLION DATA CENTER GOAL.
-- 09/09 00:58 [FirstSquawk] EU OIL COORD GROUP SAYS THERE IS NO URGENT CONCERN ABOUT OIL SUPPLY SECURITY.
-- 09/09 01:02 [FirstSquawk] EU OIL GROUP WARNS THAT MIDEAST CONFLICT AND WINTER WEATHER COULD MAKE MARKETS TIGHTER.
 - 09/09 01:09 [financialjuice] Stocks of Crude oil in the US Strategic Petroleum Reserve fell by about 1.2 mln barrels to 285.4 mln barrels last week, lowest since 1982.
 - 09/09 01:13 [financialjuice] Samsung to integrate Mistral AI across it's semiconductor operations.
 - 09/09 01:13 [FirstSquawk] OPENAI IS INVESTING $5 MILLION TO BACK INDEPENDENT RESEARCH ON TEENAGE ISSUES.
@@ -348,3 +342,7 @@
 - 09/09 12:43 [FirstSquawk] BHP Group Says New Rio Doce Deal Brings Over R$1.2 Billion in Additional Reparations Payments
 - 09/09 12:48 [FirstSquawk] Thai Finance Ministry to Launch Rooftop Solar Support From Mid-October
 - 09/09 12:50 [FirstSquawk] Thai Government to Allocate 50 Billion Baht for Rooftop Solar Scheme, FinMin Says
+- 09/09 12:53 [FirstSquawk] Thailand to Exempt Some Solar Panel Imports From Tax, Finance Minister Says
+- 09/09 13:00 [FirstSquawk] Gold bounces off one-week low on soft USD; upside seems capped ahead of US inflation data - fx
+- 09/09 13:02 [FirstSquawk/financialjuice] Anthropic withheld latest AI model from UK testing agency - FT
+- 09/09 13:03 [FirstSquawk] McLaren to create 1,000 UK jobs in product overhaul - FT

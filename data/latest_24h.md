@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 12:52 JST／対象: 09/08 12:52 〜 09/09 12:52 JST（時刻はすべて日本時間）
+生成: 2026-09-09 13:05 JST／対象: 09/08 13:05 〜 09/09 13:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 417 | 09/08 12:57 | 09/09 12:50 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 287 | 09/08 13:00 | 09/09 12:41 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 412 | 09/08 13:10 | 09/09 13:03 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 285 | 09/08 13:30 | 09/09 13:03 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 703 行（統合前 716 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 695 行（統合前 709 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 12:57 [FirstSquawk] British Pound drifts higher to near 1.3550 on UK fiscal discipline pledges - FX
-- 09/08 13:00 [financialjuice] Swedish single-family home prices rise 3.9% in June-August versus year earlier, Svensk maklarstatistik data shows
-- 09/08 13:00 [financialjuice] Swedish apartment prices rose 4.8% in June-August versus same period a year earlier, svensk maklarstatistik data shows
-- 09/08 13:02 [financialjuice] Anthropic and OpenAI financiers seek prime credit ratings after IPO - FT
-- 09/08 13:02 [FirstSquawk] Global shipping rules are collapsing, say maritime nations - FT
-- 09/08 13:03 [FirstSquawk] Merz’s CDU in crisis after far-right victory in Saxony-Anhalt - FT
-- 09/08 13:03 [FirstSquawk] Apollo premium’ drives up debt costs for group’s portfolio companies - FT
-- 09/08 13:03 [FirstSquawk] Hedge fund Millennium seeks tax deal to boost Geneva presence - FT
-- 09/08 13:04 [FirstSquawk] EU opens door to bigger corporate mergers - FT
-- 09/08 13:04 [FirstSquawk] Britain’s grid operator gave Palantir contract without inviting rival bids - FT
-- 09/08 13:05 [FirstSquawk] Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - FT
-- 09/08 13:05 [FirstSquawk] European ‘wealth’ threatened by decline of region’s carmakers - FT
 - 09/08 13:10 [FirstSquawk] 30-year JGB yield declines 6.0 basis points to 3.960%
 - 09/08 13:11 [FirstSquawk] UK retail sales growth slows to 4-month low in August, BRC says - RTRS
 - 09/08 13:13 [FirstSquawk] China's exports soar 25% in August; trade surplus tops $800bn - NA
@@ -727,3 +715,7 @@
 - 09/09 12:43 [FirstSquawk] BHP Group Says New Rio Doce Deal Brings Over R$1.2 Billion in Additional Reparations Payments
 - 09/09 12:48 [FirstSquawk] Thai Finance Ministry to Launch Rooftop Solar Support From Mid-October
 - 09/09 12:50 [FirstSquawk] Thai Government to Allocate 50 Billion Baht for Rooftop Solar Scheme, FinMin Says
+- 09/09 12:53 [FirstSquawk] Thailand to Exempt Some Solar Panel Imports From Tax, Finance Minister Says
+- 09/09 13:00 [FirstSquawk] Gold bounces off one-week low on soft USD; upside seems capped ahead of US inflation data - fx
+- 09/09 13:02 [FirstSquawk/financialjuice] Anthropic withheld latest AI model from UK testing agency - FT
+- 09/09 13:03 [FirstSquawk] McLaren to create 1,000 UK jobs in product overhaul - FT
