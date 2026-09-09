@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 13:05 JST／対象: 09/09 07:05 〜 09/09 13:05 JST（時刻はすべて日本時間）
+生成: 2026-09-09 13:25 JST／対象: 09/09 07:25 〜 09/09 13:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 102 | 09/09 07:35 | 09/09 13:03 | 18分（07:59→08:18） |
-| financialjuice | 58 | 09/09 07:05 | 09/09 13:03 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 111 | 09/09 07:35 | 09/09 13:13 | 18分（07:59→08:18） |
+| financialjuice | 52 | 09/09 07:34 | 09/09 13:03 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 158 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 161 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 07:05 [financialjuice] US Secretary of State Rubio: Trump wants to reach tariff deal with Colombia
-- 09/09 07:12 [financialjuice] US Secretary of State Rubio: Every time Iran targets US Navy ships, they will lose tankers
-- 09/09 07:17 [financialjuice] U.S. Central Command: forces destroyed five Iranian crude oil carriers Sept. 8 after Islamic Revolutionary Guard Corps targeted U.S. navy warship with ballistic missiles twice over past two days
-- 09/09 07:18 [financialjuice] U.S. Central Command: U.S. warship successfully avoided Iranian attack attempts
-- 09/09 07:18 [financialjuice] U.S. Central Command: No American personnel injured
-- 09/09 07:20 [financialjuice] Amazon: GPT-6 Astra from OpenAI now accessible on Amazon Bedrock - blog
 - 09/09 07:34 [financialjuice] Google, Blackstone venture encounters delays at data-center sites
 - 09/09 07:35 [FirstSquawk] U.S. CENTRAL COMMAND SAYS ITS FORCES DESTROYED FIVE IRANIAN CRUDE OIL CARRIERS ON SEPT. 8, AFTER THE IRGC TARGETED A U.S. NAVY WARSHIP WITH BALLISTIC MISSILES TWICE OVER THE PAST TWO DAYS, WITH THE WARSHIP SUCCESSFULLY EVADING THE ATTEMPTED…
 - 09/09 07:39 [FirstSquawk] AMAZON SAYS OPENAI'S GPT-6 ASTRA IS NOW AVAILABLE ON AMAZON BEDROCK, WITH OPENAI INTRODUCING NEW ENTERPRISE PLUGINS FOR CHATGPT WORK THAT EXTEND ASTRA'S BROWSER-USE CAPABILITIES ACROSS COMMON BUSINESS APPLICATIONS
@@ -182,3 +176,12 @@
 - 09/09 13:00 [FirstSquawk] Gold bounces off one-week low on soft USD; upside seems capped ahead of US inflation data - fx
 - 09/09 13:02 [FirstSquawk/financialjuice] Anthropic withheld latest AI model from UK testing agency - FT
 - 09/09 13:03 [FirstSquawk] McLaren to create 1,000 UK jobs in product overhaul - FT
+- 09/09 13:11 [FirstSquawk] Sinopec Research Sees China’s 2026 Apparent Oil Demand Declining 600,000 Bpd, or 8.9% From a Year Earlier
+- 09/09 13:11 [FirstSquawk] China’s Oil Demand Peaked in 2025, Set to Fall Below 750 Million Tons by 2030 and About 300 Million Tons by 2060, Sinopec Says
+- 09/09 13:11 [FirstSquawk] China’s 2026 Gasoline, Diesel Demand Seen Declining 8.7% and 11.4%, Respectively; Jet Fuel Demand Up 1.3%, Sinopec Says
+- 09/09 13:12 [FirstSquawk] China’s Refining Capacity Seen Declining to 900-910 Million Tons Annually by End-2030, Sinopec Says
+- 09/09 13:12 [FirstSquawk] Sinopec Sees China Refining Capacity Climbing to 952 Million Tons a Year in 2026
+- 09/09 13:12 [FirstSquawk] China’s Crude Runs Declined 5.4% to 697 Million Tons in Q2-Q3 as Refinery Utilization Fell to 73.2%, Sinopec Says
+- 09/09 13:13 [FirstSquawk] China’s Non-Fossil Energy Mix Seen Surpassing 33% by 2035, While Fossil Energy Drops Below 50% Around 2045, Sinopec Says
+- 09/09 13:13 [FirstSquawk] China Set to Achieve Peak Carbon Emissions Ahead of 2030, Sinopec Says
+- 09/09 13:13 [FirstSquawk] Sinopec Sees China Natural Gas Demand Rising Above 50 Bcm by 2030

@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 13:05 JST／対象: 09/09 01:05 〜 09/09 13:05 JST（時刻はすべて日本時間）
+生成: 2026-09-09 13:25 JST／対象: 09/09 01:25 〜 09/09 13:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/09 02:40 | 09/09 05:33 | ⚠ 105分（03:46→05:31） |
-| FirstSquawk | 200 | 09/09 01:13 | 09/09 13:03 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 127 | 09/09 01:09 | 09/09 13:03 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 202 | 09/09 01:53 | 09/09 13:13 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 122 | 09/09 01:52 | 09/09 13:03 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 322 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 319 行（統合前 328 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 01:09 [financialjuice] Stocks of Crude oil in the US Strategic Petroleum Reserve fell by about 1.2 mln barrels to 285.4 mln barrels last week, lowest since 1982.
-- 09/09 01:13 [financialjuice] Samsung to integrate Mistral AI across it's semiconductor operations.
-- 09/09 01:13 [FirstSquawk] OPENAI IS INVESTING $5 MILLION TO BACK INDEPENDENT RESEARCH ON TEENAGE ISSUES.
-- 09/09 01:13 [FirstSquawk] OPENAI CONDUCTS STUDY ON HOW GENERATIVE AI IMPACTS TEENAGERS.
-- 09/09 01:13 [FirstSquawk] SAMSUNG TAKES THE LEAD IN MISTRAL AI'S SERIES D FUNDING ROUND.
-- 09/09 01:13 [FirstSquawk] SAMSUNG WILL USE MISTRAL AI IN ITS SEMICONDUCTOR OPERATIONS.
-- 09/09 01:13 [FirstSquawk] SAMSUNG ACQUIRES EQUITY IN MISTRAL AI FOLLOWING FUNDING ROUND.
-- 09/09 01:18 [financialjuice] Qualcomm CFO: Next year, we expect to be the largest chip supplier to the automotive industry. $QCOM
-- 09/09 01:18 [financialjuice] Qualcomm CFO: Higher memory prices have had a limited impact on the premium smartphone market.
-- 09/09 01:25 [financialjuice] Qualcomm CFO: Qualcomm has another hyperscaler engagement.
-- 09/09 01:25 [FirstSquawk] QUALCOMM'S CFO ANNOUNCED A NEW PARTNERSHIP WITH A HYPERSCALER.
-- 09/09 01:25 [FirstSquawk] QUALCOMM STATES THAT THE SMARTPHONE MARKET IS AT A LOW POINT IN ITS CYCLE.
 - 09/09 01:52 [financialjuice] ❗ Al Hadath, citing Iranian Media: Tehran demands new conditions from Washington to resume negotiations.
 - 09/09 01:53 [FirstSquawk] IRANIAN MEDIA: TEHRAN DEMANDS NEW CONDITIONS FROM WASHINGTON TO RESUME NEGOTIATIONS.
 - 09/09 02:00 [financialjuice] Treasury WI 3-Year yield 4.475% before $58 billion auction.
@@ -346,3 +334,12 @@
 - 09/09 13:00 [FirstSquawk] Gold bounces off one-week low on soft USD; upside seems capped ahead of US inflation data - fx
 - 09/09 13:02 [FirstSquawk/financialjuice] Anthropic withheld latest AI model from UK testing agency - FT
 - 09/09 13:03 [FirstSquawk] McLaren to create 1,000 UK jobs in product overhaul - FT
+- 09/09 13:11 [FirstSquawk] Sinopec Research Sees China’s 2026 Apparent Oil Demand Declining 600,000 Bpd, or 8.9% From a Year Earlier
+- 09/09 13:11 [FirstSquawk] China’s Oil Demand Peaked in 2025, Set to Fall Below 750 Million Tons by 2030 and About 300 Million Tons by 2060, Sinopec Says
+- 09/09 13:11 [FirstSquawk] China’s 2026 Gasoline, Diesel Demand Seen Declining 8.7% and 11.4%, Respectively; Jet Fuel Demand Up 1.3%, Sinopec Says
+- 09/09 13:12 [FirstSquawk] China’s Refining Capacity Seen Declining to 900-910 Million Tons Annually by End-2030, Sinopec Says
+- 09/09 13:12 [FirstSquawk] Sinopec Sees China Refining Capacity Climbing to 952 Million Tons a Year in 2026
+- 09/09 13:12 [FirstSquawk] China’s Crude Runs Declined 5.4% to 697 Million Tons in Q2-Q3 as Refinery Utilization Fell to 73.2%, Sinopec Says
+- 09/09 13:13 [FirstSquawk] China’s Non-Fossil Energy Mix Seen Surpassing 33% by 2035, While Fossil Energy Drops Below 50% Around 2045, Sinopec Says
+- 09/09 13:13 [FirstSquawk] China Set to Achieve Peak Carbon Emissions Ahead of 2030, Sinopec Says
+- 09/09 13:13 [FirstSquawk] Sinopec Sees China Natural Gas Demand Rising Above 50 Bcm by 2030

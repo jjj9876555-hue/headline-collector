@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 13:05 JST／対象: 09/08 13:05 〜 09/09 13:05 JST（時刻はすべて日本時間）
+生成: 2026-09-09 13:25 JST／対象: 09/08 13:25 〜 09/09 13:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 412 | 09/08 13:10 | 09/09 13:03 | ⚠ 55分（06:40→07:35） |
+| FirstSquawk | 416 | 09/08 13:29 | 09/09 13:13 | ⚠ 55分（06:40→07:35） |
 | financialjuice | 285 | 09/08 13:30 | 09/09 13:03 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 695 行（統合前 709 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 699 行（統合前 713 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 13:10 [FirstSquawk] 30-year JGB yield declines 6.0 basis points to 3.960%
-- 09/08 13:11 [FirstSquawk] UK retail sales growth slows to 4-month low in August, BRC says - RTRS
-- 09/08 13:13 [FirstSquawk] China's exports soar 25% in August; trade surplus tops $800bn - NA
-- 09/08 13:14 [FirstSquawk] Chinese PLA aircraft to headline Egypt air show in display of export potential -SCMP
-- 09/08 13:15 [FirstSquawk] Canada’s tariffs on about $20 billion in U.S. goods have taken effect, responding to President Trump’s latest tariffs - AP
 - 09/08 13:29 [FirstSquawk] Xinhua says all bodies retrieved following Tibet mudslide are non-foreign nationals
 - 09/08 13:30 [financialjuice] DUTCH CPI MOM ACTUAL 0.3% (FORECAST -, PREVIOUS 1.6%) $MACRO
 - 09/08 13:30 [financialjuice] DUTCH CPI YOY ACTUAL 3.3% (FORECAST -, PREVIOUS 3.2%) $MACRO
@@ -719,3 +714,12 @@
 - 09/09 13:00 [FirstSquawk] Gold bounces off one-week low on soft USD; upside seems capped ahead of US inflation data - fx
 - 09/09 13:02 [FirstSquawk/financialjuice] Anthropic withheld latest AI model from UK testing agency - FT
 - 09/09 13:03 [FirstSquawk] McLaren to create 1,000 UK jobs in product overhaul - FT
+- 09/09 13:11 [FirstSquawk] Sinopec Research Sees China’s 2026 Apparent Oil Demand Declining 600,000 Bpd, or 8.9% From a Year Earlier
+- 09/09 13:11 [FirstSquawk] China’s Oil Demand Peaked in 2025, Set to Fall Below 750 Million Tons by 2030 and About 300 Million Tons by 2060, Sinopec Says
+- 09/09 13:11 [FirstSquawk] China’s 2026 Gasoline, Diesel Demand Seen Declining 8.7% and 11.4%, Respectively; Jet Fuel Demand Up 1.3%, Sinopec Says
+- 09/09 13:12 [FirstSquawk] China’s Refining Capacity Seen Declining to 900-910 Million Tons Annually by End-2030, Sinopec Says
+- 09/09 13:12 [FirstSquawk] Sinopec Sees China Refining Capacity Climbing to 952 Million Tons a Year in 2026
+- 09/09 13:12 [FirstSquawk] China’s Crude Runs Declined 5.4% to 697 Million Tons in Q2-Q3 as Refinery Utilization Fell to 73.2%, Sinopec Says
+- 09/09 13:13 [FirstSquawk] China’s Non-Fossil Energy Mix Seen Surpassing 33% by 2035, While Fossil Energy Drops Below 50% Around 2045, Sinopec Says
+- 09/09 13:13 [FirstSquawk] China Set to Achieve Peak Carbon Emissions Ahead of 2030, Sinopec Says
+- 09/09 13:13 [FirstSquawk] Sinopec Sees China Natural Gas Demand Rising Above 50 Bcm by 2030
