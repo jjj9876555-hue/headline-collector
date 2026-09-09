@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 13:44 JST／対象: 09/09 01:44 〜 09/09 13:44 JST（時刻はすべて日本時間）
+生成: 2026-09-09 13:58 JST／対象: 09/09 01:58 〜 09/09 13:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/09 02:40 | 09/09 05:33 | ⚠ 105分（03:46→05:31） |
-| FirstSquawk | 205 | 09/09 01:53 | 09/09 13:40 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 124 | 09/09 01:52 | 09/09 13:30 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 208 | 09/09 02:02 | 09/09 13:58 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 124 | 09/09 02:00 | 09/09 13:55 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 324 行（統合前 335 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 327 行（統合前 338 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 01:52 [financialjuice] ❗ Al Hadath, citing Iranian Media: Tehran demands new conditions from Washington to resume negotiations.
-- 09/09 01:53 [FirstSquawk] IRANIAN MEDIA: TEHRAN DEMANDS NEW CONDITIONS FROM WASHINGTON TO RESUME NEGOTIATIONS.
 - 09/09 02:00 [financialjuice] Treasury WI 3-Year yield 4.475% before $58 billion auction.
 - 09/09 02:01 [financialjuice] Alerts activated in Saudi Arabia's Jazan - Civil Defence.
 - 09/09 02:02 [FirstSquawk] ALERTS ACTIVATED IN JAZAN, SAUDI ARABIA - CIVIL DEFENCE
@@ -348,3 +346,8 @@
 - 09/09 13:30 [financialjuice] Dutch July consumer spending rises 1.2% y/y after 1.7% gain in June: CBS
 - 09/09 13:36 [FirstSquawk] Qatar Says Civil Defence Has Controlled Fire on Vessel at Al Wakra Port; No Injuries Reported
 - 09/09 13:40 [FirstSquawk] AI borrowing boom shakes up Swiss credit market - FT
+- 09/09 13:44 [FirstSquawk] EU resists Mario Draghi’s competitiveness cures - FT
+- 09/09 13:46 [FirstSquawk] Revolut takes aim at business banking with FTSE 250 companies - FT
+- 09/09 13:55 [financialjuice] Russian air strikes damage port facilities in Ukraine's Mykolayiv, officials say
+- 09/09 13:55 [FirstSquawk] Russian Strikes Hit Port Infrastructure in Mykolaiv, Ukrainian Officials Say
+- 09/09 13:58 [FirstSquawk] Peel Hunt Lowers Oxford Biomedica Price Target to 778p From 846p

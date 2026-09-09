@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 13:44 JST／対象: 09/08 13:44 〜 09/09 13:44 JST（時刻はすべて日本時間）
+生成: 2026-09-09 13:58 JST／対象: 09/08 13:58 〜 09/09 13:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 409 | 09/08 13:52 | 09/09 13:40 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 283 | 09/08 13:57 | 09/09 13:30 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 411 | 09/08 14:01 | 09/09 13:58 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 283 | 09/08 14:00 | 09/09 13:55 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 690 行（統合前 706 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 692 行（統合前 708 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 13:52 [FirstSquawk] Japan's April-June economic growth revised up to 1.4% on narrower investment decline - KYODO
-- 09/08 13:57 [financialjuice] Russia hits targets in Ukraine's Kyiv, region and Chornomorsk port: Russian defence ministry
-- 09/08 13:57 [FirstSquawk] Russian strikes hit Kyiv, surrounding region and Chornomorsk port, Russian newswires quote Defence Ministry
 - 09/08 14:00 [financialjuice] JAPANESE ECONOMY WATCHERS POLL ACTUAL 46.4 (FORECAST 46.2, PREVIOUS 45.7) $MACRO
 - 09/08 14:01 [FirstSquawk] Novartis provides update on Phase III HARBOR trial evaluating del-desiran in DM1
 - 09/08 14:01 [financialjuice] UK govt: UK commits winter air defense package to strengthen Ukraine's defenses
@@ -714,3 +711,8 @@
 - 09/09 13:30 [financialjuice] Dutch July consumer spending rises 1.2% y/y after 1.7% gain in June: CBS
 - 09/09 13:36 [FirstSquawk] Qatar Says Civil Defence Has Controlled Fire on Vessel at Al Wakra Port; No Injuries Reported
 - 09/09 13:40 [FirstSquawk] AI borrowing boom shakes up Swiss credit market - FT
+- 09/09 13:44 [FirstSquawk] EU resists Mario Draghi’s competitiveness cures - FT
+- 09/09 13:46 [FirstSquawk] Revolut takes aim at business banking with FTSE 250 companies - FT
+- 09/09 13:55 [financialjuice] Russian air strikes damage port facilities in Ukraine's Mykolayiv, officials say
+- 09/09 13:55 [FirstSquawk] Russian Strikes Hit Port Infrastructure in Mykolaiv, Ukrainian Officials Say
+- 09/09 13:58 [FirstSquawk] Peel Hunt Lowers Oxford Biomedica Price Target to 778p From 846p

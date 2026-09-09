@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 13:44 JST／対象: 09/09 07:44 〜 09/09 13:44 JST（時刻はすべて日本時間）
+生成: 2026-09-09 13:58 JST／対象: 09/09 07:58 〜 09/09 13:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 112 | 09/09 07:45 | 09/09 13:40 | 18分（07:59→08:18） |
-| financialjuice | 52 | 09/09 07:45 | 09/09 13:30 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 113 | 09/09 07:59 | 09/09 13:58 | 18分（07:59→08:18） |
+| financialjuice | 46 | 09/09 07:58 | 09/09 13:55 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 157 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 07:45 [financialjuice] Iran’s Revolutionary Guards: attack in retaliation for US strikes on Iranian oil tankers - Iranian state media
-- 09/09 07:45 [FirstSquawk] IRAN'S REVOLUTIONARY GUARDS SAY THEY ATTACKED WHAT THEY DESCRIBED AS A U.S. BASE IN JORDAN, IN RETALIATION FOR U.S. ATTACKS ON IRANIAN OIL TANKERS, WITH NO IMMEDIATE JORDANIAN CONFIRMATION - IRANIAN STATE MEDIA
-- 09/09 07:52 [FirstSquawk] UKMTO SAYS IT HAS RECEIVED A REPORT INVOLVING A MERCHANT VESSEL IN THE STRAIT OF HORMUZ, WITH THE VESSEL SUBJECT TO INTERACTION AS PART OF ONGOING MILITARY ACTIVITY IN THE REGION
-- 09/09 07:53 [FirstSquawk] WHITE HOUSE SAYS THE U.S. IS EXCLUDING SOME CANADIAN ALCOHOLIC BEVERAGES FROM IMPORTATION, ACCUSING CANADA OF DISCRIMINATING AGAINST U.S. ALCOHOLIC BEVERAGES, AND IS MODIFYING THE SCOPE OF PRODUCTS SUBJECT TO CANADA DUTIES
-- 09/09 07:54 [financialjuice] White House: excluding specific Canadian goods from US imports
-- 09/09 07:54 [financialjuice] White House issues proclamation on barring certain Canadian products from U.S. imports
-- 09/09 07:55 [financialjuice] White House: Trump signs proclamation altering scope of Canadian goods subject to extra motor vehicle tariffs
-- 09/09 07:56 [financialjuice] White House: Certain Canadian alcoholic drinks barred from US imports starting 12:01 a.m. ET September 29, 2026
-- 09/09 07:56 [financialjuice] White House: products subject to import ban in this proclamation imported but not yet entered or withdrawn for consumption prior to Sep
-- 09/09 07:57 [financialjuice] White House: goods imported but not entered for consumption or withdrawn from warehouse before Sept. 29, 2026, will remain subject to 50% tariff
 - 09/09 07:58 [financialjuice] White House: certain Canadian products imported into US to face extra 50% ad valorem duty
 - 09/09 07:59 [FirstSquawk] WHITE HOUSE SAYS IT IS EXCLUDING CERTAIN CANADIAN PRODUCTS FROM IMPORTATION INTO THE UNITED STATES, IN RESPONSE TO WHAT IT CALLS CONTINUED DISCRIMINATION AGAINST U.S. COMMERCE WITH RESPECT TO ALCOHOLIC BEVERAGES, WITH CERTAIN CANADIAN ALCOH…
 - 09/09 07:59 [FirstSquawk] WHITE HOUSE SAYS PRODUCTS IMPORTED, BUT NOT ENTERED FOR CONSUMPTION OR WITHDRAWN FROM WAREHOUSE, PRIOR TO SEPTEMBER 29, 2026 WILL REMAIN SUBJECT TO A 50% TARIFF.
@@ -186,3 +176,8 @@
 - 09/09 13:30 [financialjuice] Dutch July consumer spending rises 1.2% y/y after 1.7% gain in June: CBS
 - 09/09 13:36 [FirstSquawk] Qatar Says Civil Defence Has Controlled Fire on Vessel at Al Wakra Port; No Injuries Reported
 - 09/09 13:40 [FirstSquawk] AI borrowing boom shakes up Swiss credit market - FT
+- 09/09 13:44 [FirstSquawk] EU resists Mario Draghi’s competitiveness cures - FT
+- 09/09 13:46 [FirstSquawk] Revolut takes aim at business banking with FTSE 250 companies - FT
+- 09/09 13:55 [financialjuice] Russian air strikes damage port facilities in Ukraine's Mykolayiv, officials say
+- 09/09 13:55 [FirstSquawk] Russian Strikes Hit Port Infrastructure in Mykolaiv, Ukrainian Officials Say
+- 09/09 13:58 [FirstSquawk] Peel Hunt Lowers Oxford Biomedica Price Target to 778p From 846p
