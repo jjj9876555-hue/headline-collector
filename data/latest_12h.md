@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 10:52 JST／対象: 09/08 22:52 〜 09/09 10:52 JST（時刻はすべて日本時間）
+生成: 2026-09-09 11:06 JST／対象: 09/08 23:06 〜 09/09 11:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/08 23:18 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 237 | 09/08 22:59 | 09/09 10:45 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 196 | 09/08 22:56 | 09/09 10:40 | ⚠ 70分（08:50→10:00） |
+| FirstSquawk | 239 | 09/08 23:10 | 09/09 11:05 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 193 | 09/08 23:08 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 432 行（統合前 440 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 431 行（統合前 439 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 22:56 [financialjuice] Goldman Sachs brings forward their RBA rate hike estimate to September from November.
-- 09/08 22:58 [financialjuice] BoE's Ramsden: Communications in April and in July were well received by the market.
-- 09/08 22:59 [FirstSquawk] GOLDMAN BRINGS FORWARD RBA RATE HIKE TO SEPT, FROM NOV
-- 09/08 22:59 [FirstSquawk] ORACLE ISSUES RFP FOR 2 GW OF RENEWABLE ENERGY IN NEW MEXICO
-- 09/08 22:59 [FirstSquawk] GOLDMAN SACHS BRINGS FORWARD RBA RATE HIKE FORECASTS TO SEPTEMBER, FROM NOVEMBER
-- 09/08 22:59 [financialjuice] BoE Gov. Bailey: Risks to food price inflation are to the upside.
-- 09/08 23:01 [FirstSquawk] CHINA'S HUAWEI TECHNOLOGIES FACES RACKETEERING TRIAL IN NEW YORK
-- 09/08 23:05 [financialjuice] BoE's Ramsden: The increased frequency of supply shocks may lead to the ratcheting-up of prices.
 - 09/08 23:08 [financialjuice] BoE's Ramsden: The impact of QT on yields is still very much in the background.
 - 09/08 23:08 [financialjuice] BoE's Ramsden: It is unclear if the slightly higher estimate of the QT impact reflects the extra year of QT, or better estimates.
 - 09/08 23:10 [FirstSquawk] US CB EMPLOYMENT TRENDS INDEX AUG: 108.53 (PREV 107.71; PREV R 107.76)
@@ -456,3 +448,10 @@
 - 09/09 10:42 [FirstSquawk] South Korea’s Employment Gains Reach Five-Month High With 184,000 Jobs Added in August
 - 09/09 10:43 [FirstSquawk] Korea’s 2027 Budget to Strengthen Fiscal Metrics, but Improvement May Be Short-Lived, Fitch Says
 - 09/09 10:45 [FirstSquawk] China 5G Communications Index Gains Over 2%
+- 09/09 10:53 [FirstSquawk] WTI surges as US strikes Iranian tankers - FX
+- 09/09 10:56 [financialjuice] Six commodity ships pass Strait of Hormuz on Tuesday, below 10-day average of about 12, data shows
+- 09/09 10:56 [FirstSquawk] DeepSeek fundraising frenzy spawns costly shadow market - FT
+- 09/09 10:56 [FirstSquawk] Strait of Hormuz Sees Six Commodity Ship Crossings Tuesday, Versus 10-Day Average of Around 12
+- 09/09 11:02 [FirstSquawk] Thailand’s Economic Growth Outlook Remains Broadly Unchanged From Previous Assessment, https://t.co/j1lvIXBwYH Minutes Say
+- 09/09 11:03 [FirstSquawk] Thailand’s Headline Inflation Seen Increasing Temporarily on Supply-Side Pressures, https://t.co/j1lvIXBwYH Minutes Show
+- 09/09 11:05 [FirstSquawk] Thailand’s Loan Quality Stays Largely Stable, https://t.co/j1lvIXBwYH Minutes Say

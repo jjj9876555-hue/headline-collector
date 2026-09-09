@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 10:52 JST／対象: 09/09 04:52 〜 09/09 10:52 JST（時刻はすべて日本時間）
+生成: 2026-09-09 11:06 JST／対象: 09/09 05:06 〜 09/09 11:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/09 05:31 | 09/09 05:33 | 1分（05:31→05:33） |
-| FirstSquawk | 94 | 09/09 04:53 | 09/09 10:45 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 80 | 09/09 04:52 | 09/09 10:40 | ⚠ 70分（08:50→10:00） |
+| FirstSquawk | 96 | 09/09 05:25 | 09/09 11:05 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 76 | 09/09 05:14 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 172 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 04:52 [financialjuice] No American ships were struck in Iran's Monday attacks - WSJ
-- 09/09 04:53 [financialjuice] Iran Launched Undisclosed Second Wave of Attacks on US Navy Ships - WSH
-- 09/09 04:53 [FirstSquawk] IRAN LAUNCHED A MISSILE ATTACK ON US NAVY WARSHIPS MONDAY, BUT NO AMERICAN SHIP WAS HIT || THE US MILITARY HAS YET TO PUBLICLY ACKNOWLEDGE THE ATTACK, ACCORDING TO WSJ
-- 09/09 04:53 [financialjuice] Iran Launched Undisclosed Second Wave of Attacks on US Navy Ships - WSJ Iran launched an attack against U.S. Navy ships on Monday that the U.S. military has yet to acknowledge, according to U.S. officials, after firing ballistic missiles at…
-- 09/09 04:55 [FirstSquawk] IRAN LAUNCHED A SECOND, PREVIOUSLY UNDISCLOSED ATTACK ON US NAVY SHIPS MONDAY, ACCORDING TO US OFFICIALS CITED BY WSJ; NO AMERICAN VESSELS WERE HIT, BUT THE ATTACKS RAISE CONCERNS OVER IRAN’S GROWING MISSILE CAPABILITIES AND POSSIBLE CHINES…
-- 09/09 05:01 [financialjuice] Iran's IRGC Navy warns all crew of oil tankers in the vicinity of Kuwaiti and Bahraini ports that host Americans to evacuate - State Media.
-- 09/09 05:02 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 102.72 POINTS, OR 0.39%, AT 26,404.27. S&P 500 UNOFFICIALLY CLOSES DOWN 49.45 POINTS, OR 0.64%, AT 7,669.15. DOW JONES UNOFFICIALLY CLOSES DOWN 659.77 POINTS, OR 1.24%, AT 52,754.48.
-- 09/09 05:02 [financialjuice] Iran's IRGC Navy: Ships will be targeted in response to the US attack on Iranian oil tankers.
-- 09/09 05:03 [FirstSquawk] IRGC NAVY WARNS OIL TANKER CREWS NEAR KUWAITI & BAHRAINI PORTS HOSTING US FORCES TO EVACUATE, THREATENING TO TARGET VESSELS IN RETALIATION FOR US STRIKES ON IRANIAN OIL TANKERS
 - 09/09 05:14 [financialjuice] Bonds and Stocks Drop as Oil Soars on Middle East Fears – US Market Wrap
 - 09/09 05:25 [financialjuice/FirstSquawk] The US attacked a second oil tanker near the waters of Jask - IRIB News
 - 09/09 05:26 [FirstSquawk] HEATHROW: ARRIVALS SUSPENDED FOR THE REST OF TUESDAY DUE TO EARLIER NATS TECHNICAL ISSUE; DEPARTURES & AIR TRAFFIC CONTROL SERVICES HAVE RESUMED, BUT DISRUPTIONS ARE EXPECTED TO CONTINUE.
@@ -196,3 +187,10 @@
 - 09/09 10:42 [FirstSquawk] South Korea’s Employment Gains Reach Five-Month High With 184,000 Jobs Added in August
 - 09/09 10:43 [FirstSquawk] Korea’s 2027 Budget to Strengthen Fiscal Metrics, but Improvement May Be Short-Lived, Fitch Says
 - 09/09 10:45 [FirstSquawk] China 5G Communications Index Gains Over 2%
+- 09/09 10:53 [FirstSquawk] WTI surges as US strikes Iranian tankers - FX
+- 09/09 10:56 [financialjuice] Six commodity ships pass Strait of Hormuz on Tuesday, below 10-day average of about 12, data shows
+- 09/09 10:56 [FirstSquawk] DeepSeek fundraising frenzy spawns costly shadow market - FT
+- 09/09 10:56 [FirstSquawk] Strait of Hormuz Sees Six Commodity Ship Crossings Tuesday, Versus 10-Day Average of Around 12
+- 09/09 11:02 [FirstSquawk] Thailand’s Economic Growth Outlook Remains Broadly Unchanged From Previous Assessment, https://t.co/j1lvIXBwYH Minutes Say
+- 09/09 11:03 [FirstSquawk] Thailand’s Headline Inflation Seen Increasing Temporarily on Supply-Side Pressures, https://t.co/j1lvIXBwYH Minutes Show
+- 09/09 11:05 [FirstSquawk] Thailand’s Loan Quality Stays Largely Stable, https://t.co/j1lvIXBwYH Minutes Say

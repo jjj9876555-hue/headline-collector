@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 10:52 JST／対象: 09/08 10:52 〜 09/09 10:52 JST（時刻はすべて日本時間）
+生成: 2026-09-09 11:06 JST／対象: 09/08 11:06 〜 09/09 11:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 432 | 09/08 10:52 | 09/09 10:45 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 326 | 09/08 11:24 | 09/09 10:40 | ⚠ 70分（08:50→10:00） |
+| FirstSquawk | 432 | 09/08 11:08 | 09/09 11:05 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 327 | 09/08 11:24 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 757 行（統合前 770 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 758 行（統合前 771 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 10:52 [FirstSquawk] Vitol CEO: 2–3 mln bpd of Saudi oil exports impacted by Bab el-Mandeb Strait
-- 09/08 10:56 [FirstSquawk] Vitol CEO says 5–6 mln bpd difference in China’s 2025 and 2026 crude imports is unsustainable
-- 09/08 10:58 [FirstSquawk] LME three-month copper reaches all-time high of $14,617 a metric ton
-- 09/08 11:02 [FirstSquawk] Canadian dollar advances as US dollar remains under pressure despite rising Fed hike bets
-- 09/08 11:03 [FirstSquawk] Vitol CEO: Global oil demand expected to decline 1.5 mln bpd in 2026 from 2025
-- 09/08 11:03 [FirstSquawk] Russia imported 500,000-600,000 tons of gasoline monthly during summer, Vitol CEO says
 - 09/08 11:08 [FirstSquawk] Yen surges to six-month high as traders stay alert for signs of intervention - FT
 - 09/08 11:14 [FirstSquawk] Samsung SDS to expand partnerships with OpenAI, Anthropic to drive AI transformation - YONHAP
 - 09/08 11:18 [FirstSquawk] IAEA says S. Korea notifies intent to consult on safeguards arrangement for nuclear-powered subs - YONHAP
@@ -781,3 +775,10 @@
 - 09/09 10:42 [FirstSquawk] South Korea’s Employment Gains Reach Five-Month High With 184,000 Jobs Added in August
 - 09/09 10:43 [FirstSquawk] Korea’s 2027 Budget to Strengthen Fiscal Metrics, but Improvement May Be Short-Lived, Fitch Says
 - 09/09 10:45 [FirstSquawk] China 5G Communications Index Gains Over 2%
+- 09/09 10:53 [FirstSquawk] WTI surges as US strikes Iranian tankers - FX
+- 09/09 10:56 [financialjuice] Six commodity ships pass Strait of Hormuz on Tuesday, below 10-day average of about 12, data shows
+- 09/09 10:56 [FirstSquawk] DeepSeek fundraising frenzy spawns costly shadow market - FT
+- 09/09 10:56 [FirstSquawk] Strait of Hormuz Sees Six Commodity Ship Crossings Tuesday, Versus 10-Day Average of Around 12
+- 09/09 11:02 [FirstSquawk] Thailand’s Economic Growth Outlook Remains Broadly Unchanged From Previous Assessment, https://t.co/j1lvIXBwYH Minutes Say
+- 09/09 11:03 [FirstSquawk] Thailand’s Headline Inflation Seen Increasing Temporarily on Supply-Side Pressures, https://t.co/j1lvIXBwYH Minutes Show
+- 09/09 11:05 [FirstSquawk] Thailand’s Loan Quality Stays Largely Stable, https://t.co/j1lvIXBwYH Minutes Say
