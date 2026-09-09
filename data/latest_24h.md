@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 22:39 JST／対象: 09/08 22:39 〜 09/09 22:39 JST（時刻はすべて日本時間）
+生成: 2026-09-09 22:53 JST／対象: 09/08 22:53 〜 09/09 22:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 30 | 09/08 23:18 | 09/09 22:19 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 423 | 09/08 22:41 | 09/09 22:35 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 250 | 09/08 22:43 | 09/09 22:31 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 421 | 09/08 22:59 | 09/09 22:45 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 255 | 09/08 22:56 | 09/09 22:45 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 690 行（統合前 705 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 693 行（統合前 708 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 22:41 [FirstSquawk] BAILEY: UK'S HAD LARGEST RISE IN MORTGAGE RATES IN THE G7
-- 09/08 22:43 [financialjuice] BoE’s Greene: There different views on the MPC about inflation path pre-war.
-- 09/08 22:44 [financialjuice] BoE Gov. Bailey: Risks to inflation are to the upside.
-- 09/08 22:44 [FirstSquawk] BOE’S BAILEY: INFLATION RISKS ARE TO THE UPSIDE
-- 09/08 22:45 [financialjuice] BoE Gov. Bailey: The market's BoE rate curve reflects investors' concern about further energy price rises.
-- 09/08 22:45 [financialjuice] BoE Gov. Bailey: I want to dispel idea that we have secret plan to raise rates, unconditionally.
-- 09/08 22:46 [FirstSquawk] BOE'S BAILEY: I WANT TO DISPEL IDEA THAT WE HAVE SECRET PLAN TO RAISE RATES, UNCONDITIONALLY
-- 09/08 22:48 [FirstSquawk] CERBERUS NEARS £1B DEAL TO BUY GOODWIN DEFENCE UNIT, FT SAYS
 - 09/08 22:56 [financialjuice] Goldman Sachs brings forward their RBA rate hike estimate to September from November.
 - 09/08 22:58 [financialjuice] BoE's Ramsden: Communications in April and in July were well received by the market.
 - 09/08 22:59 [FirstSquawk] GOLDMAN BRINGS FORWARD RBA RATE HIKE TO SEPT, FROM NOV
@@ -714,3 +706,14 @@
 - 09/09 22:31 [FirstSquawk] S&P 500 DOWN 24.32 POINTS, OR 0.32 %, AT 7,649.20 AFTER MARKET OPEN DOW JONES DOWN 291.96 POINTS, OR 0.55 PERCENT, AT 52,494.11 AFTER MARKET OPEN NASDAQ DOWN 117.83 POINTS, OR 0.45 PERCENT, AT 26,303.59 AFTER MARKET OPEN
 - 09/09 22:32 [FirstSquawk] SPOT SILVER RISES NEARLY 3% TO $67.71/OZ
 - 09/09 22:35 [FirstSquawk] SAUDI ARABIA IS CREATING AN INSURANCE POOL TO COVER MARINE WAR RISKS FOR CARGO.
+- 09/09 22:39 [financialjuice] China Commerce Ministry on US issuing cybersecurity announcements related to Chinese AI companies: china firmly opposes this. US allegations are baseless - Statement
+- 09/09 22:39 [financialjuice] China Commerce Ministry: Distillation is a common practice among AI models globally, including by US firms.
+- 09/09 22:40 [financialjuice] China Commerce Ministry: Heads of state of the two countries agreed to launch intergovernmental dialogue on AI.
+- 09/09 22:40 [financialjuice] China Commerce Ministry: If the US side takes action to suppress Chinese AI companies under the pretext of cracking down on distillation, China will take resolute countermeasures.
+- 09/09 22:41 [FirstSquawk] POLISH CENTRAL BANK LEAVES MAIN RATE AT 3.75%; EST. 3.75%
+- 09/09 22:41 [financialjuice] Yemeni sources report intense clashes between elements affiliated with the UAE and Saudi Arabia in Al-Dhalea, Yemen - Mehr News
+- 09/09 22:42 [financialjuice] Reform UK is going to face a criminal probe over donations.
+- 09/09 22:43 [financialjuice] Yemeni sources report Saudi-backed government's defense minister came under attack in Al-Dhalea - Mehr News
+- 09/09 22:44 [financialjuice] Yemeni sources report Saudi-backed government's defense minister flees and goes into hiding - Mehr News
+- 09/09 22:45 [FirstSquawk] REFORM UK WILL BE UNDER CRIMINAL INVESTIGATION REGARDING DONATIONS.
+- 09/09 22:45 [financialjuice] Saudi-led coalition warplanes carried out 4 airstrikes in Saada, Yemen - Tasnim News

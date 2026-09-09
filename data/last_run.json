@@ -1,5 +1,5 @@
 {
- "run_utc": "2026-09-09T13:39:06+00:00",
+ "run_utc": "2026-09-09T13:53:33+00:00",
  "sources": {
   "tg:WalterBloomberg": {
    "ok": true,
@@ -11,19 +11,19 @@
   "tg:firstsquaw": {
    "ok": true,
    "fetched": 20,
-   "new": 7,
-   "oldest_jst": "2026-09-09 21:11",
-   "newest_jst": "2026-09-09 22:35"
+   "new": 2,
+   "oldest_jst": "2026-09-09 21:16",
+   "newest_jst": "2026-09-09 22:45"
   },
   "tg:FinancialJuice": {
    "ok": true,
    "fetched": 20,
-   "new": 7,
-   "oldest_jst": "2026-09-09 21:00",
-   "newest_jst": "2026-09-09 22:31"
+   "new": 9,
+   "oldest_jst": "2026-09-09 22:00",
+   "newest_jst": "2026-09-09 22:45"
   }
  },
- "stored": 1576,
+ "stored": 1587,
  "cme": null,
  "cme_detail": "20260909/F http 403"
 }

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 22:39 JST／対象: 09/09 10:39 〜 09/09 22:39 JST（時刻はすべて日本時間）
+生成: 2026-09-09 22:53 JST／対象: 09/09 10:53 〜 09/09 22:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/09 16:31 | 09/09 22:19 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 186 | 09/09 10:40 | 09/09 22:35 | 19分（16:10→16:29） |
-| financialjuice | 51 | 09/09 10:40 | 09/09 22:31 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 183 | 09/09 10:56 | 09/09 22:45 | 19分（16:10→16:29） |
+| financialjuice | 59 | 09/09 10:56 | 09/09 22:45 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 255 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 260 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 10:40 [FirstSquawk] Bank of Korea Sells 2-Year Monetary Stabilisation Bonds at 3.805%
-- 09/09 10:40 [financialjuice] S.Korea central bank sells two-year monetary stabilization bonds at 3.805% yield
-- 09/09 10:42 [FirstSquawk] South Korea’s Employment Gains Reach Five-Month High With 184,000 Jobs Added in August
-- 09/09 10:43 [FirstSquawk] Korea’s 2027 Budget to Strengthen Fiscal Metrics, but Improvement May Be Short-Lived, Fitch Says
-- 09/09 10:45 [FirstSquawk] China 5G Communications Index Gains Over 2%
-- 09/09 10:53 [FirstSquawk] WTI surges as US strikes Iranian tankers - FX
 - 09/09 10:56 [financialjuice] Six commodity ships pass Strait of Hormuz on Tuesday, below 10-day average of about 12, data shows
 - 09/09 10:56 [FirstSquawk] DeepSeek fundraising frenzy spawns costly shadow market - FT
 - 09/09 10:56 [FirstSquawk] Strait of Hormuz Sees Six Commodity Ship Crossings Tuesday, Versus 10-Day Average of Around 12
@@ -279,3 +273,14 @@
 - 09/09 22:31 [FirstSquawk] S&P 500 DOWN 24.32 POINTS, OR 0.32 %, AT 7,649.20 AFTER MARKET OPEN DOW JONES DOWN 291.96 POINTS, OR 0.55 PERCENT, AT 52,494.11 AFTER MARKET OPEN NASDAQ DOWN 117.83 POINTS, OR 0.45 PERCENT, AT 26,303.59 AFTER MARKET OPEN
 - 09/09 22:32 [FirstSquawk] SPOT SILVER RISES NEARLY 3% TO $67.71/OZ
 - 09/09 22:35 [FirstSquawk] SAUDI ARABIA IS CREATING AN INSURANCE POOL TO COVER MARINE WAR RISKS FOR CARGO.
+- 09/09 22:39 [financialjuice] China Commerce Ministry on US issuing cybersecurity announcements related to Chinese AI companies: china firmly opposes this. US allegations are baseless - Statement
+- 09/09 22:39 [financialjuice] China Commerce Ministry: Distillation is a common practice among AI models globally, including by US firms.
+- 09/09 22:40 [financialjuice] China Commerce Ministry: Heads of state of the two countries agreed to launch intergovernmental dialogue on AI.
+- 09/09 22:40 [financialjuice] China Commerce Ministry: If the US side takes action to suppress Chinese AI companies under the pretext of cracking down on distillation, China will take resolute countermeasures.
+- 09/09 22:41 [FirstSquawk] POLISH CENTRAL BANK LEAVES MAIN RATE AT 3.75%; EST. 3.75%
+- 09/09 22:41 [financialjuice] Yemeni sources report intense clashes between elements affiliated with the UAE and Saudi Arabia in Al-Dhalea, Yemen - Mehr News
+- 09/09 22:42 [financialjuice] Reform UK is going to face a criminal probe over donations.
+- 09/09 22:43 [financialjuice] Yemeni sources report Saudi-backed government's defense minister came under attack in Al-Dhalea - Mehr News
+- 09/09 22:44 [financialjuice] Yemeni sources report Saudi-backed government's defense minister flees and goes into hiding - Mehr News
+- 09/09 22:45 [FirstSquawk] REFORM UK WILL BE UNDER CRIMINAL INVESTIGATION REGARDING DONATIONS.
+- 09/09 22:45 [financialjuice] Saudi-led coalition warplanes carried out 4 airstrikes in Saada, Yemen - Tasnim News

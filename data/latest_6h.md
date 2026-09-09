@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 22:39 JST／対象: 09/09 16:39 〜 09/09 22:39 JST（時刻はすべて日本時間）
+生成: 2026-09-09 22:53 JST／対象: 09/09 16:53 〜 09/09 22:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/09 18:32 | 09/09 22:19 | ⚠ 46分（21:27→22:13） |
-| FirstSquawk | 92 | 09/09 16:39 | 09/09 22:35 | 15分（21:19→21:35） |
-| financialjuice | 41 | 09/09 17:26 | 09/09 22:31 | 35分（21:20→21:55） |
+| FirstSquawk | 91 | 09/09 16:54 | 09/09 22:45 | 15分（21:19→21:35） |
+| financialjuice | 50 | 09/09 17:26 | 09/09 22:45 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 151 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 159 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 16:39 [FirstSquawk] EU COURT DISMISSES HUNGARY'S ACTION AGAINST ALLOCATION OF PROFITS ON FROZEN RUSSIAN ASSETS TO UKRAINE
-- 09/09 16:48 [FirstSquawk] GERMAN FOREIGN MINISTER WADEPHUL ON THE AFD: ONLY THE EUROPEAN UNION GIVES US THE OPPORTUNITY TO CREATE FAIR CONDITIONS FOR OUR INDUSTRY GLOBALLY.
-- 09/09 16:48 [FirstSquawk] EUROPE’S SPACE BOSS WANTS EUROPEAN COUNTRIES TO DECIDE BY THE END OF THE YEAR WHETHER TO LAUNCH ASTRONAUTS WITHOUT U.S. HELP.
 - 09/09 16:54 [FirstSquawk] RUSSIA’S BIGGEST BLACK SEA PORT OF NOVOROSSIYSK AND THE SURROUNDING AREAS WERE ATTACKED BY DRONES OVERNIGHT, DAMAGING INFRASTRUCTURE AND THREATENING TO FURTHER SQUEEZE COMMODITY FLOWS FROM THE REGION
 - 09/09 16:56 [FirstSquawk] BP NORTH SEA ASSETS SAID TO DRAW INTEREST FROM ADURA, NEO NEXT+
 - 09/09 17:03 [FirstSquawk] HSBC CUTS HERMES TARGET PRICE TO EUR 1650 FROM EUR 1870
@@ -175,3 +172,14 @@
 - 09/09 22:31 [FirstSquawk] S&P 500 DOWN 24.32 POINTS, OR 0.32 %, AT 7,649.20 AFTER MARKET OPEN DOW JONES DOWN 291.96 POINTS, OR 0.55 PERCENT, AT 52,494.11 AFTER MARKET OPEN NASDAQ DOWN 117.83 POINTS, OR 0.45 PERCENT, AT 26,303.59 AFTER MARKET OPEN
 - 09/09 22:32 [FirstSquawk] SPOT SILVER RISES NEARLY 3% TO $67.71/OZ
 - 09/09 22:35 [FirstSquawk] SAUDI ARABIA IS CREATING AN INSURANCE POOL TO COVER MARINE WAR RISKS FOR CARGO.
+- 09/09 22:39 [financialjuice] China Commerce Ministry on US issuing cybersecurity announcements related to Chinese AI companies: china firmly opposes this. US allegations are baseless - Statement
+- 09/09 22:39 [financialjuice] China Commerce Ministry: Distillation is a common practice among AI models globally, including by US firms.
+- 09/09 22:40 [financialjuice] China Commerce Ministry: Heads of state of the two countries agreed to launch intergovernmental dialogue on AI.
+- 09/09 22:40 [financialjuice] China Commerce Ministry: If the US side takes action to suppress Chinese AI companies under the pretext of cracking down on distillation, China will take resolute countermeasures.
+- 09/09 22:41 [FirstSquawk] POLISH CENTRAL BANK LEAVES MAIN RATE AT 3.75%; EST. 3.75%
+- 09/09 22:41 [financialjuice] Yemeni sources report intense clashes between elements affiliated with the UAE and Saudi Arabia in Al-Dhalea, Yemen - Mehr News
+- 09/09 22:42 [financialjuice] Reform UK is going to face a criminal probe over donations.
+- 09/09 22:43 [financialjuice] Yemeni sources report Saudi-backed government's defense minister came under attack in Al-Dhalea - Mehr News
+- 09/09 22:44 [financialjuice] Yemeni sources report Saudi-backed government's defense minister flees and goes into hiding - Mehr News
+- 09/09 22:45 [FirstSquawk] REFORM UK WILL BE UNDER CRIMINAL INVESTIGATION REGARDING DONATIONS.
+- 09/09 22:45 [financialjuice] Saudi-led coalition warplanes carried out 4 airstrikes in Saada, Yemen - Tasnim News
