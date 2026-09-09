@@ -7,39 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 01:05 JST／対象: 09/09 19:05 〜 09/10 01:05 JST（時刻はすべて日本時間）
+生成: 2026-09-10 01:27 JST／対象: 09/09 19:27 〜 09/10 01:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/09 19:30 | 09/10 01:05 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 94 | 09/09 19:05 | 09/10 01:04 | 28分（00:32→01:01） |
-| financialjuice | 70 | 09/09 19:14 | 09/10 01:05 | 35分（21:20→21:55） |
+| DeItaone | 21 | 09/09 19:30 | 09/10 01:22 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 92 | 09/09 19:30 | 09/10 01:15 | 28分（00:32→01:01） |
+| financialjuice | 77 | 09/09 19:47 | 09/10 01:26 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 179 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 187 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 19:05 [FirstSquawk] SILVER LAKE WILL COMBINE CEGID AND SILAE TO FORM A GROUP VALUED AT OVER €10 BILLION, ACCORDING TO THE FINANCIAL TIMES.
-- 09/09 19:11 [FirstSquawk] NASDAQ 100 FUTURES EXTEND LOSSES TO 0.5%
-- 09/09 19:14 [financialjuice] Panama-flagged tanker carrying 2 mln barrels of Iraqi fuel oil was struck by drone in Iraqi territorial waters - Two Port Officials.
-- 09/09 19:19 [FirstSquawk] BARCLAYS DOWNGRADES US UTILITIES SECTOR TO NEUTRAL FROM POSITIVE
-- 09/09 19:22 [FirstSquawk] IRAN SAYS US VESSELS, BASES WERE HIT IN DEFENSIVE STRIKE
-- 09/09 19:22 [FirstSquawk] IRAN SAYS US ATTACKS ON ITS VESSELS THREATEN REGIONAL SECURITY
-- 09/09 19:23 [financialjuice] Iran: US attacks on its vessels threaten regional security.
-- 09/09 19:23 [financialjuice] Iran's Foreign Ministry: Armed forces retaliated in self-defence against ‘American tankers' and US bases in Jordan - Statement.
-- 09/09 19:24 [FirstSquawk] IRAN VOWS DECISIVE RESPONSE TO ANY US MILITARY ATTACK
-- 09/09 19:25 [FirstSquawk] KREMLIN SAYS IT WON'T PUBLICLY DISCUSS POTENTIAL ELEMENTS OF A PEACE SETTLEMENT || SAYS IT HOPES U.S.-MEDIATED TALKS WITH UKRAINE WILL RESUME SOON || ISSUE OF EXCHANGING PRISONERS BETWEEN RUSSIA AND U.S. IS CONSTANTLY ON THE AGENDA
-- 09/09 19:26 [FirstSquawk] KREMLIN: EUROPE COULD GET CHEAPER GAS IF IT BOUGHT FROM RUSSIA
-- 09/09 19:26 [FirstSquawk] KREMLIN: EUROPEANS ARE INFLICTING DAMAGE ON THEMSELVES BY BUYING GAS ON SPOT MARKET FOR A PRICE WHICH IS HIGHER THAN FOR RUSSIAN GAS
-- 09/09 19:26 [FirstSquawk] KREMLIN SAYS EUROPE IS IN DIFFICULT SITUATION, THEY WILL NOT BE ABLE TO REPLENISH THEIR GAS STORAGE BY WINTER
-- 09/09 19:26 [FirstSquawk/DeItaone] KREMLIN: NORD STREAM PIPELINE COULD BE BROUGHT BACK ONLINE INSTANTLY
 - 09/09 19:30 [FirstSquawk] RYANAIR CEO O’LEARY TO REUTERS: ON TUESDAY WE CANCELLED 260 FLIGHTS, AFFECTING ABOUT 48,000 PASSENGERS
 - 09/09 19:30 [DeItaone] KREMLIN HOPES US-BROKERED UKRAINE TALKS RESUME SOON The Kremlin says it hopes US-mediated peace talks between Russia and Ukraine will restart soon, after negotiations stalled in February. Spokesman Dmitry Peskov declined to discuss possible…
+- 09/09 19:31 [DeItaone] KREMLIN: NORD STREAM PIPELINE COULD BE BROUGHT BACK ONLINE INSTANTLY
 - 09/09 19:33 [DeItaone] KREMLIN: EUROPE FEELING PAIN OF HIGHER GAS PRICES The Kremlin says Europe is suffering from soaring natural gas prices amid the Iran war and could cut costs by buying Russian gas. European gas prices recently reached their highest level sin…
 - 09/09 19:37 [FirstSquawk] AIRBNB SET TO FACE MORE RESTRICTIONS AS EUROPEAN COMMISSION PROPOSES NEW RULES TO TACKLE HOUSING CRUNCH
 - 09/09 19:37 [FirstSquawk] ANGOLA’S OIL AND GAS AGENCY ANPG, EXXONMOBIL AND BLOCK 15 PARTNERS ANNOUNCE NEW DISCOVERY IN OFFSHORE BLOCK 15- STATEMENT
@@ -203,3 +190,24 @@
 - 09/10 01:05 [financialjuice] EIA STEO Report
 - 09/10 01:05 [DeItaone] RESEARCHERS SAY OPENAI AGENTS BYPASSED WEB RESTRICTIONS Independent researchers say OpenAI AI agents used more than 10 websites for unauthorized communications, bypassing restrictions that were intended to limit them to reading the web. Som…
 - 09/10 01:05 [financialjuice] EIA STEO Report September 2026
+- 09/10 01:06 [financialjuice] EIA STEO Report: EIA expects Middle East oil output to rise in coming months due to gradually increasing flows" through Hormuz.
+- 09/10 01:06 [FirstSquawk] U.S. OIL PRODUCTION TO AVERAGE 13.96 MLN BPD IN SEPTEMBER VS 13.88 MLN BPD IN AUGUST; TO AVERAGE 13.95 MLN BPD IN OCTOBER – EIA || U.S. NATURAL GAS PRODUCTION TO AVERAGE 123.9 BCF/DAY IN SEPTEMBER VS 123.7 BCF/DAY IN AUGUST; TO AVERAGE 124.…
+- 09/10 01:07 [financialjuice] EIA STEO report assumes some constraints to oil exports from Middle East will persist through end of 2026.
+- 09/10 01:07 [FirstSquawk] EIA EXPECTS MIDDLE EAST OIL OUTPUT TO RISE IN COMING MONTHS DUE TO "GRADUALLY INCREASING FLOWS" THROUGH HORMUZ || EIA ASSUMES SOME CONSTRAINTS TO OIL EXPORTS FROM MIDDLE EAST WILL PERSIST THROUGH END OF 2026 - STEO
+- 09/10 01:08 [financialjuice] EIA expects Crude Oil output from Mideast will remain below pre-conflict averages until Q2 2027.
+- 09/10 01:08 [financialjuice] EIA: Saudi Yanbu oil exports fell about 50% in August from July amid Bab el-Mandeb disruptions.
+- 09/10 01:09 [financialjuice] ❗ Iran Official: Iran ready for more intense war with US if required.
+- 09/10 01:09 [FirstSquawk] BAKER HUGHES $BKR RAISES 2026 REVENUE GUIDANCE TO $28.50B-$30.30B FROM $26.65B $BKR
+- 09/10 01:10 [DeItaone] TREASURY TRIPLES BOND BUYBACK, MARKETS WANT MORE The U.S. Treasury tripled its next long-term debt buyback to $6 billion, as Secretary Scott Bessent seeks to contain rising borrowing costs. Despite the increase, Treasuries fell, pushing the…
+- 09/10 01:10 [FirstSquawk] IRAN PLANS TO INCREASE ATTACKS FOLLOWING U.S. STRIKES, SAYS OFFICIAL.
+- 09/10 01:10 [FirstSquawk] IRAN VIEWS WAR AS A MATTER OF SURVIVAL; FEELS OBLIGATED TO ENGAGE IN COMBAT, SAYS OFFICIAL.
+- 09/10 01:11 [financialjuice] US Agriculture Sec. Rollins: Some food costs have come down in the last two years.
+- 09/10 01:12 [FirstSquawk] TOTALENERGIES CEO ANNOUNCES $10 BILLION INVESTMENT IN ANGOLA PARTNERS FOR VARIOUS PROJECTS OVER THE NEXT FIVE YEARS.
+- 09/10 01:12 [FirstSquawk] ROLLINS STATES THAT FOOD PRICES HAVE DECREASED OVER THE PAST TWO YEARS.
+- 09/10 01:12 [FirstSquawk] ROLLINS IS FOCUSED ON HIS CURRENT POSITION AND NOT THINKING ABOUT A FUTURE RUN.
+- 09/10 01:14 [financialjuice] EIA finalized inputs into STEO forecast model on September 3rd. Forecast does not account for more recent Mideast events.
+- 09/10 01:15 [FirstSquawk] INDEPENDENCE REALTY $IRT AND CENTERSPACE AGREE TO MERGE IN $8.1B DEAL, CREATING LARGER MULTIFAMILY REIT WITH $24M IN ANNUAL SYNERGIES $IRT
+- 09/10 01:20 [financialjuice] EIA: Middle East crude oil output shut-ins rose in August to 6.7 mln bpd, from 5 mln bpd in July.
+- 09/10 01:22 [DeItaone] IRAN WARNS OF ESCALATION AS U.S. CONFLICT INTENSIFIES An Iranian official says Tehran is prepared for a more intense war with the U.S. if necessary, according to Bloomberg headlines shown in the report. The official said Iran would escalate…
+- 09/10 01:25 [financialjuice] China and Russia vote against effort to pressure Iran at IAEA.
+- 09/10 01:26 [financialjuice] Explosion heard from the sea near southern Jask - Fars News

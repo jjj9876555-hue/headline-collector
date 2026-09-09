@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 01:05 JST／対象: 09/09 01:05 〜 09/10 01:05 JST（時刻はすべて日本時間）
+生成: 2026-09-10 01:27 JST／対象: 09/09 01:27 〜 09/10 01:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/09 02:40 | 09/10 01:05 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 378 | 09/09 01:13 | 09/10 01:04 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 210 | 09/09 01:09 | 09/10 01:05 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 31 | 09/09 02:40 | 09/10 01:22 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 380 | 09/09 01:53 | 09/10 01:15 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 215 | 09/09 01:52 | 09/10 01:26 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 603 行（統合前 620 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 612 行（統合前 629 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 01:09 [financialjuice] Stocks of Crude oil in the US Strategic Petroleum Reserve fell by about 1.2 mln barrels to 285.4 mln barrels last week, lowest since 1982.
-- 09/09 01:13 [financialjuice] Samsung to integrate Mistral AI across it's semiconductor operations.
-- 09/09 01:13 [FirstSquawk] OPENAI IS INVESTING $5 MILLION TO BACK INDEPENDENT RESEARCH ON TEENAGE ISSUES.
-- 09/09 01:13 [FirstSquawk] OPENAI CONDUCTS STUDY ON HOW GENERATIVE AI IMPACTS TEENAGERS.
-- 09/09 01:13 [FirstSquawk] SAMSUNG TAKES THE LEAD IN MISTRAL AI'S SERIES D FUNDING ROUND.
-- 09/09 01:13 [FirstSquawk] SAMSUNG WILL USE MISTRAL AI IN ITS SEMICONDUCTOR OPERATIONS.
-- 09/09 01:13 [FirstSquawk] SAMSUNG ACQUIRES EQUITY IN MISTRAL AI FOLLOWING FUNDING ROUND.
-- 09/09 01:18 [financialjuice] Qualcomm CFO: Next year, we expect to be the largest chip supplier to the automotive industry. $QCOM
-- 09/09 01:18 [financialjuice] Qualcomm CFO: Higher memory prices have had a limited impact on the premium smartphone market.
-- 09/09 01:25 [financialjuice] Qualcomm CFO: Qualcomm has another hyperscaler engagement.
-- 09/09 01:25 [FirstSquawk] QUALCOMM'S CFO ANNOUNCED A NEW PARTNERSHIP WITH A HYPERSCALER.
-- 09/09 01:25 [FirstSquawk] QUALCOMM STATES THAT THE SMARTPHONE MARKET IS AT A LOW POINT IN ITS CYCLE.
 - 09/09 01:52 [financialjuice] ❗ Al Hadath, citing Iranian Media: Tehran demands new conditions from Washington to resume negotiations.
 - 09/09 01:53 [FirstSquawk] IRANIAN MEDIA: TEHRAN DEMANDS NEW CONDITIONS FROM WASHINGTON TO RESUME NEGOTIATIONS.
 - 09/09 02:00 [financialjuice] Treasury WI 3-Year yield 4.475% before $58 billion auction.
@@ -627,3 +615,24 @@
 - 09/10 01:05 [financialjuice] EIA STEO Report
 - 09/10 01:05 [DeItaone] RESEARCHERS SAY OPENAI AGENTS BYPASSED WEB RESTRICTIONS Independent researchers say OpenAI AI agents used more than 10 websites for unauthorized communications, bypassing restrictions that were intended to limit them to reading the web. Som…
 - 09/10 01:05 [financialjuice] EIA STEO Report September 2026
+- 09/10 01:06 [financialjuice] EIA STEO Report: EIA expects Middle East oil output to rise in coming months due to gradually increasing flows" through Hormuz.
+- 09/10 01:06 [FirstSquawk] U.S. OIL PRODUCTION TO AVERAGE 13.96 MLN BPD IN SEPTEMBER VS 13.88 MLN BPD IN AUGUST; TO AVERAGE 13.95 MLN BPD IN OCTOBER – EIA || U.S. NATURAL GAS PRODUCTION TO AVERAGE 123.9 BCF/DAY IN SEPTEMBER VS 123.7 BCF/DAY IN AUGUST; TO AVERAGE 124.…
+- 09/10 01:07 [financialjuice] EIA STEO report assumes some constraints to oil exports from Middle East will persist through end of 2026.
+- 09/10 01:07 [FirstSquawk] EIA EXPECTS MIDDLE EAST OIL OUTPUT TO RISE IN COMING MONTHS DUE TO "GRADUALLY INCREASING FLOWS" THROUGH HORMUZ || EIA ASSUMES SOME CONSTRAINTS TO OIL EXPORTS FROM MIDDLE EAST WILL PERSIST THROUGH END OF 2026 - STEO
+- 09/10 01:08 [financialjuice] EIA expects Crude Oil output from Mideast will remain below pre-conflict averages until Q2 2027.
+- 09/10 01:08 [financialjuice] EIA: Saudi Yanbu oil exports fell about 50% in August from July amid Bab el-Mandeb disruptions.
+- 09/10 01:09 [financialjuice] ❗ Iran Official: Iran ready for more intense war with US if required.
+- 09/10 01:09 [FirstSquawk] BAKER HUGHES $BKR RAISES 2026 REVENUE GUIDANCE TO $28.50B-$30.30B FROM $26.65B $BKR
+- 09/10 01:10 [DeItaone] TREASURY TRIPLES BOND BUYBACK, MARKETS WANT MORE The U.S. Treasury tripled its next long-term debt buyback to $6 billion, as Secretary Scott Bessent seeks to contain rising borrowing costs. Despite the increase, Treasuries fell, pushing the…
+- 09/10 01:10 [FirstSquawk] IRAN PLANS TO INCREASE ATTACKS FOLLOWING U.S. STRIKES, SAYS OFFICIAL.
+- 09/10 01:10 [FirstSquawk] IRAN VIEWS WAR AS A MATTER OF SURVIVAL; FEELS OBLIGATED TO ENGAGE IN COMBAT, SAYS OFFICIAL.
+- 09/10 01:11 [financialjuice] US Agriculture Sec. Rollins: Some food costs have come down in the last two years.
+- 09/10 01:12 [FirstSquawk] TOTALENERGIES CEO ANNOUNCES $10 BILLION INVESTMENT IN ANGOLA PARTNERS FOR VARIOUS PROJECTS OVER THE NEXT FIVE YEARS.
+- 09/10 01:12 [FirstSquawk] ROLLINS STATES THAT FOOD PRICES HAVE DECREASED OVER THE PAST TWO YEARS.
+- 09/10 01:12 [FirstSquawk] ROLLINS IS FOCUSED ON HIS CURRENT POSITION AND NOT THINKING ABOUT A FUTURE RUN.
+- 09/10 01:14 [financialjuice] EIA finalized inputs into STEO forecast model on September 3rd. Forecast does not account for more recent Mideast events.
+- 09/10 01:15 [FirstSquawk] INDEPENDENCE REALTY $IRT AND CENTERSPACE AGREE TO MERGE IN $8.1B DEAL, CREATING LARGER MULTIFAMILY REIT WITH $24M IN ANNUAL SYNERGIES $IRT
+- 09/10 01:20 [financialjuice] EIA: Middle East crude oil output shut-ins rose in August to 6.7 mln bpd, from 5 mln bpd in July.
+- 09/10 01:22 [DeItaone] IRAN WARNS OF ESCALATION AS U.S. CONFLICT INTENSIFIES An Iranian official says Tehran is prepared for a more intense war with the U.S. if necessary, according to Bloomberg headlines shown in the report. The official said Iran would escalate…
+- 09/10 01:25 [financialjuice] China and Russia vote against effort to pressure Iran at IAEA.
+- 09/10 01:26 [financialjuice] Explosion heard from the sea near southern Jask - Fars News
