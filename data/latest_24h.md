@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 12:18 JST／対象: 09/08 12:18 〜 09/09 12:18 JST（時刻はすべて日本時間）
+生成: 2026-09-09 12:34 JST／対象: 09/08 12:34 〜 09/09 12:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 424 | 09/08 12:18 | 09/09 12:14 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 301 | 09/08 12:23 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
+| FirstSquawk | 419 | 09/08 12:39 | 09/09 12:29 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 295 | 09/08 12:36 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 724 行（統合前 737 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 713 行（統合前 726 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 12:18 [FirstSquawk] Indonesia agency says Tuesday’s eruptions were less significant than earlier activity and will continue monitoring
-- 09/08 12:23 [financialjuice] Reserve Bank of Australia Assistant Governor Hunter: Housing market crucial transition channel for monetary policy
-- 09/08 12:23 [FirstSquawk] RBA Assistant Governor Hunter: Housing market is a crucial mechanism through which monetary policy affects the economy
-- 09/08 12:26 [financialjuice] RBA's Hunter: effect of house price changes on consumer spending actually quite small
-- 09/08 12:26 [FirstSquawk] RBA’s Hunter says changes in house prices have a relatively small impact on consumer spending
-- 09/08 12:27 [FirstSquawk] RBA’s Hunter: No recession expected in the economy
-- 09/08 12:27 [financialjuice] RBA’s Hunter: don’t anticipate recession in economy
-- 09/08 12:29 [FirstSquawk] RBA’s Hunter: Some moderation in economic activity relative to trend is desirable
-- 09/08 12:29 [financialjuice] RBA's Hunter: We Want to See a Weaker Economy Relative to Trend
-- 09/08 12:31 [financialjuice] RBA's Hunter: aiming to cool down housing market, economy
-- 09/08 12:32 [FirstSquawk] RBA’s Hunter says the RBA is aiming to cool housing activity and the broader economy
-- 09/08 12:33 [financialjuice] Saudi-led coalition in Yemen: 73 injured in Houthi attacks on Saudi Arabia
-- 09/08 12:34 [FirstSquawk] Houthi attacks on Saudi Arabia leave 73 injured, Saudi-led Yemen coalition says
 - 09/08 12:36 [financialjuice] Saudi-led coalition in Yemen: will respond firmly to Houthi attacks
 - 09/08 12:36 [financialjuice] Saudi-led coalition in Yemen: Houthis hit civilian, economic sites in Saudi cities Abha, Khamis Mushait, Najran, and Jazan
 - 09/08 12:38 [financialjuice] RBA's Hunter: Monitoring Bathla situation, no systemic risk seen
@@ -748,3 +735,5 @@
 - 09/09 12:04 [FirstSquawk] Skoda Auto Volkswagen- JSW Group Deal Structured as Two-Party Partnership With Joint Control and Defined Roles
 - 09/09 12:09 [FirstSquawk] RBC Starts Coverage of Sanofi With Sector Perform Rating, €80 Price Target
 - 09/09 12:14 [FirstSquawk] RBC Lifts Qualcomm Price Target to $180 From $160
+- 09/09 12:23 [FirstSquawk] RBC Begins AstraZeneca Coverage With Outperform Recommendation, Target Price 14,500p
+- 09/09 12:29 [FirstSquawk] S. Korea, UNDP sign agreement on mine removal cooperation - yonhap

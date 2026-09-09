@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 12:18 JST／対象: 09/09 06:18 〜 09/09 12:18 JST（時刻はすべて日本時間）
+生成: 2026-09-09 12:34 JST／対象: 09/09 06:34 〜 09/09 12:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 98 | 09/09 06:23 | 09/09 12:14 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 61 | 09/09 06:18 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
+| FirstSquawk | 94 | 09/09 06:39 | 09/09 12:29 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 55 | 09/09 07:05 | 09/09 10:56 | ⚠ 70分（08:50→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 157 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 148 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 06:18 [financialjuice] Colombia president De La Espriella: country requires US aid on radar, planes and other fronts to combat crime
-- 09/09 06:19 [financialjuice] Colombia president de la Espriella: willing to meet annual security goals in anti-drug partnership
-- 09/09 06:19 [financialjuice] Mark Stevens reports sale of 1.02 million Nvidia shares between Sept. 3 and Sept. 4, price range $227.25 to $234.04 per share
-- 09/09 06:20 [financialjuice] Colombia President de la Espriella: Will engage responsibly in regional stabilization efforts
-- 09/09 06:21 [financialjuice] Colombia president de la Espriella: will broaden cooperation with US on migration, border controls
-- 09/09 06:23 [FirstSquawk] EUROPEAN NATURAL GAS HITS A THREE-YEAR HIGH AS WINTER SUPPLY RISKS MOUNT, WITH DUTCH FRONT-MONTH FUTURES SURGING 4.7% TO €76.74/MWH.
-- 09/09 06:23 [FirstSquawk] LOW STORAGE, HORMUZ SHIPPING RISKS AND REDUCED PIPELINE FLOWS FROM ALGERIA AND NORWAY ARE TIGHTENING EUROPE’S WINTER OUTLOOK, RAISING FURTHER POWER-PRICE AND INFLATION RISKS.
-- 09/09 06:25 [FirstSquawk] US COMMERCE SECRETARY LUTNICK TO TRAVEL TO MEXICO FOR TRADE TALKS, WITH AUTO AND METAL TARIFFS EXPECTED TO BE KEY ISSUES. - POLITICO
-- 09/09 06:28 [FirstSquawk/financialjuice] U.S. SUPREME COURT REJECTS MISSOURI EFFORT TO USE GOP-DRAWN CONGRESSIONAL MAP IN NOVEMBER MIDTERMS
-- 09/09 06:31 [FirstSquawk] BESSENT SAYS HE HAS “GOOD INSIGHT” INTO BOJ AND JAPANESE POLICYMAKERS’ NEXT MOVES, INCLUDING ON POTENTIAL YEN INTERVENTION.
-- 09/09 06:31 [FirstSquawk] BESSENT SAYS THE US CAN USE ITS BALANCE SHEET AS A FOREIGN-POLICY TOOL AND CLAIMS HE NOW HAS “ASYMMETRIC INFO,” SIGNALING A MORE ACTIVE US ROLE IN CURRENCY POLICY.
 - 09/09 06:39 [FirstSquawk] US CDC REPORTS 19,595 LAB-CONFIRMED US-ACQUIRED CYCLOSPORIASIS CASES SINCE MAY 1, WITH 1,043 RELATED HOSPITALIZATIONS THROUGH SEPT. 8. THE OUTBREAK HAS RESULTED IN A SIGNIFICANT NUMBER OF HOSPITALIZATIONS, PROMPTING CONTINUED PUBLIC-HEALTH …
 - 09/09 06:40 [FirstSquawk] GLOBALFOUNDRIES CEO SAYS DATA-CENTER DEMAND IS A “VERY STRONG DRIVER” FOR GROWTH AS AI WORKLOADS BECOME INCREASINGLY DATA-INTENSIVE. CEO SAYS OPTICAL CONNECTIVITY IS NOW A “WHEN, NOT IF” TRANSITION AND GLOBALFOUNDRIES COULD 10X SILICON-PHOT…
 - 09/09 07:05 [financialjuice] US Secretary of State Rubio: Trump wants to reach tariff deal with Colombia
@@ -181,3 +170,5 @@
 - 09/09 12:04 [FirstSquawk] Skoda Auto Volkswagen- JSW Group Deal Structured as Two-Party Partnership With Joint Control and Defined Roles
 - 09/09 12:09 [FirstSquawk] RBC Starts Coverage of Sanofi With Sector Perform Rating, €80 Price Target
 - 09/09 12:14 [FirstSquawk] RBC Lifts Qualcomm Price Target to $180 From $160
+- 09/09 12:23 [FirstSquawk] RBC Begins AstraZeneca Coverage With Outperform Recommendation, Target Price 14,500p
+- 09/09 12:29 [FirstSquawk] S. Korea, UNDP sign agreement on mine removal cooperation - yonhap
