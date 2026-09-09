@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 20:25 JST／対象: 09/09 14:25 〜 09/09 20:25 JST（時刻はすべて日本時間）
+生成: 2026-09-09 20:43 JST／対象: 09/09 14:43 〜 09/09 20:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/09 16:31 | 09/09 20:08 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 87 | 09/09 14:36 | 09/09 20:24 | 19分（16:10→16:29） |
-| financialjuice | 18 | 09/09 17:26 | 09/09 20:10 | 31分（18:32→19:03） |
+| DeItaone | 18 | 09/09 16:31 | 09/09 20:42 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 97 | 09/09 14:45 | 09/09 20:43 | 19分（16:10→16:29） |
+| financialjuice | 21 | 09/09 17:26 | 09/09 20:37 | 31分（18:32→19:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 117 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 133 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 14:36 [FirstSquawk] USD/JPY Drops 0.48% to 153.29
-- 09/09 14:41 [FirstSquawk] NZ Public Servants Stage Walkout in Dispute Over Pay Offer
 - 09/09 14:45 [FirstSquawk] Flights Resume at London Gatwick Airport, UK Says
 - 09/09 14:48 [FirstSquawk] Gold Advances 1% to $4,394.89 an Ounce in Spot Market
 - 09/09 14:49 [FirstSquawk] Kazakhstan Justice Ministry: Action to Recover Funds From NCOC Consortium Is Continuing
@@ -141,3 +139,21 @@
 - 09/09 20:11 [FirstSquawk] BURNHAM WILL USE A PRACTICAL METHOD FOR NORTH SEA OIL AND GAS.
 - 09/09 20:24 [FirstSquawk] US BANK LAUNCHES USBDC STABLECOIN
 - 09/09 20:24 [FirstSquawk] UK PM BURNHAM: WILL TAKE PRAGMATIC APPROACH ON NORTH SEA OIL AND GAS
+- 09/09 20:26 [FirstSquawk] BURNHAM: PLAN FURTHER MEASURES ON COST OF LIVING THIS YEAR
+- 09/09 20:26 [FirstSquawk] BURNHAM ANNOUNCES MORE COST OF LIVING ACTIONS THIS YEAR.
+- 09/09 20:26 [financialjuice] UK's PM Burnham: We plan further measures on cost of living this year.
+- 09/09 20:27 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON ON PLANNED EU BUDGET: WE DON'T YET HAVE VIABLE BASIS FOR TALKS, FIGURES NEED TO COME DOWN
+- 09/09 20:29 [FirstSquawk] UBER ANNOUNCES €4.5 BILLION EURO BOND SALE FOR ITS MARKET DEBUT.
+- 09/09 20:31 [FirstSquawk] STOXX EUROPE 600 EXTENDS LOSSES TO 1.5%, MOST IN TWO MONTHS
+- 09/09 20:31 [FirstSquawk] UK GILTS DECLINE; UK 10Y YIELD RISES 5BPS TO 5.23%
+- 09/09 20:33 [FirstSquawk] AIRLINES CALL FOR UK AIR TRAFFIC CONTROL BOSS TO QUIT AS DISRUPTION CONTINUES – FT
+- 09/09 20:34 [financialjuice] Fitch Ratings: Severe equity price shock scenario would entail US recession.
+- 09/09 20:35 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS RISE TO 4.4253%, HIGHEST SINCE JANUARY 2025
+- 09/09 20:36 [FirstSquawk] UK BURNHAM: WON'T SUPPORT MORATORIUM ON BUILDING DATA CENTERS
+- 09/09 20:37 [financialjuice] UK's PM Burnham: I won't support moratorium on building data centers.
+- 09/09 20:37 [FirstSquawk] UK BURNHAM: IMPORTANT FOR COMMUNITIES TO SEE DATA CENTER BENEFITS
+- 09/09 20:39 [DeItaone] GERMAN 2-YEAR YIELDS RISE AS MUCH AS 7.2 BPS TO 3.052%, SET FOR BIGGEST ONE-DAY INCREASE SINCE EARLY JULY
+- 09/09 20:41 [FirstSquawk] PUTIN'S AIDE: RUSSIA CONSIDERS ABU DHABI PRIORITY LOCATION FOR TALKS ON UKRAINE – VESTI
+- 09/09 20:41 [FirstSquawk] DOW IS CONSIDERING PULLING OUT OF A $20 BILLION CHEMICAL PROJECT IN SAUDI ARABIA.
+- 09/09 20:42 [DeItaone] KREMLIN: UNITED STATES SHOULD HALT ANY AID TO KYIV FOR THE MILITARY ACTIONS TO STOP
+- 09/09 20:43 [FirstSquawk] UK BURNHAM: GAVE THE MOST CAREFUL CONSIDERATION ON ISRAEL MEASURES
