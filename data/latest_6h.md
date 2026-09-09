@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 22:01 JST／対象: 09/09 16:01 〜 09/09 22:01 JST（時刻はすべて日本時間）
+生成: 2026-09-09 22:21 JST／対象: 09/09 16:21 〜 09/09 22:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/09 16:31 | 09/09 21:27 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 89 | 09/09 16:06 | 09/09 22:00 | 19分（16:10→16:29） |
-| financialjuice | 31 | 09/09 17:26 | 09/09 22:00 | 35分（21:20→21:55） |
+| DeItaone | 23 | 09/09 16:31 | 09/09 22:19 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 87 | 09/09 16:29 | 09/09 22:15 | 15分（21:19→21:35） |
+| financialjuice | 34 | 09/09 17:26 | 09/09 22:03 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 140 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 16:06 [FirstSquawk] Beijing Unaware of Circumstances Surrounding Note to Philippine Defence Chief, Foreign Ministry Says; Position on South China Sea Arbitration Remains Unchanged
-- 09/09 16:07 [FirstSquawk] Beijing Calls on Some in Philippines to Cease Actions That Undermine China-Philippines Ties and South China Sea Stability
-- 09/09 16:09 [FirstSquawk] Paytm Clarifies Media Report on Its Plans for Workplace AI Agents Beyond Payments
-- 09/09 16:10 [FirstSquawk] Paytm Continues to Invest in and Build AI Capabilities Across Its Business Initiatives
 - 09/09 16:29 [FirstSquawk] BRENT CRUDE FUTURES HIT $100 A BARREL FOR THE FIRST TIME SINCE JULY 24 ON ESCALATING MIDDLE EAST TENSIONS
 - 09/09 16:30 [FirstSquawk] GERMANY'S MERZ WE WILL CONTINUE TO SUPPORT UKRAINE BECAUSE UKRAINE IS ALSO DEFENDING OUR FREEDOM
 - 09/09 16:31 [DeItaone] MORGAN STANLEY SEES OIL TRADERS CUTTING LONG-TERM RISK Oil traders are reducing longer-term exposure as the Iran and Ukraine wars increase uncertainty, according to Morgan Stanley’s Brendan Ross. Ross said traders are concentrating position…
@@ -160,3 +156,11 @@
 - 09/09 21:55 [financialjuice] US REDBOOK YOY ACTUAL 8.3% (FORECAST -, PREVIOUS 9.6%) $MACRO
 - 09/09 22:00 [financialjuice] Effective Fed funds rate 3.63% September 8th vs 3.63% September 4th.
 - 09/09 22:00 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: RUSSIA PRODUCES 150 SHORT- AND MEDIUM-RANGE MISSILES PER MONTH BUT USES ONLY PART OF IT ON THE FRONT IN UKRAINE
+- 09/09 22:02 [financialjuice] Pakistan's Defense Minister: Islamabad is walking a tightrope in mediating between Tehran and US - ISNA
+- 09/09 22:02 [financialjuice] Pakistan's Defense Minister: Pakistan should hope to find a diplomatic solution to this crisis - ISNA
+- 09/09 22:03 [FirstSquawk] AMERICAN AIRLINES, HYATT TO END LOYALTY PARTNERSHIP
+- 09/09 22:03 [financialjuice] IRGC Spokesman: If the enemy hits 2 targets, we will strike 20 - IRIB News
+- 09/09 22:13 [DeItaone] $AAPL - APPLE SET TO UNVEIL $2,000+ FOLDABLE IPHONE Apple is expected to unveil its first foldable iPhone Wednesday, marking new CEO John Ternus’ first major product launch. The device could cost more than $2,000, making it Apple’s most exp…
+- 09/09 22:14 [DeItaone] NORTHWESTERN MUTUAL: HOT CPI COULD TRIGGER FED HIKE Northwestern Mutual’s Matt Stucky says hotter-than-expected inflation could increase the chances of a Fed rate hike this month. Markets currently see roughly a 50-50 chance of a hike. Frid…
+- 09/09 22:15 [FirstSquawk] TRUMP’S 20% GDP DREAM: A GROWTH RATE AMERICA HAS SEEN ONLY ONCE SINCE WWII President Donald Trump has said U.S. economic growth could reach 20%, but that would be an extraordinary outlier by historical standards. Data going back to 1947 sho…
+- 09/09 22:19 [DeItaone] KUWAIT OFFERS OIL TRANSFERS OUTSIDE HORMUZ Kuwait Petroleum Corp is offering ship-to-ship transfers of crude oil and refined fuels outside the Strait of Hormuz as buyers avoid ports inside the waterway due to U.S.-Iran war risks. KPC says v…

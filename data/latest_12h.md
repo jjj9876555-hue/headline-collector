@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 22:01 JST／対象: 09/09 10:01 〜 09/09 22:01 JST（時刻はすべて日本時間）
+生成: 2026-09-09 22:21 JST／対象: 09/09 10:21 〜 09/09 22:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/09 16:31 | 09/09 21:27 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 194 | 09/09 10:06 | 09/09 22:00 | 19分（16:10→16:29） |
-| financialjuice | 59 | 09/09 10:16 | 09/09 22:00 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 23 | 09/09 16:31 | 09/09 22:19 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 186 | 09/09 10:26 | 09/09 22:15 | 19分（16:10→16:29） |
+| financialjuice | 54 | 09/09 10:22 | 09/09 22:03 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 268 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 258 行（統合前 265 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 10:06 [FirstSquawk] Peru’s Petroperu Secures $475 Million in Loan Disbursement From International Banks
-- 09/09 10:06 [FirstSquawk] The ban on imports worth ‘billions’ of dollars would take effect in three weeks, US officials said, as Donald Trump’s administration continued to expand its trade war with its second-largest trading partner - FT
-- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: Conflict across Taiwan Strait would hit global economy harder than WWII beyond human toll
-- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: Trump administration made preserving peace in Indo-Pacific a key priority
-- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: we back Taiwan's efforts to strengthen its self-defense capabilities
-- 09/09 10:17 [financialjuice] Top U.S. diplomat in Taiwan: Taiwan’s capacity to prevent conflict remains crucial to maintaining its dynamic political, economic, and social system
-- 09/09 10:17 [financialjuice] Top U.S. diplomat in Taiwan: effective deterrence is crucial for enabling genuine cross-strait talks free from coercion or force threats
-- 09/09 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 8, 2023
-- 09/09 10:17 [financialjuice] Top US diplomat in Taiwan: threats Taiwan faces keep growing in scale and complexity
-- 09/09 10:18 [FirstSquawk] PBOC Sets Daily Yuan Fixing at 6.7769 per U.S. Dollar
-- 09/09 10:19 [financialjuice] China sets yuan midpoint 727 pips weaker than estimate, biggest downside divergence since February 27, 2026
-- 09/09 10:20 [FirstSquawk] U.S. Diplomat in Taiwan: Taiwan Strait Conflict Could Hit Global Economy Harder Than WWII
-- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Says Maintaining Indo-Pacific Peace Is Key Trump Priority
-- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Sees U.S.-China Summit as Opportunity to Deepen Strategic Stability
-- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Says Washington Backs Efforts to Bolster Taiwan’s Defense
-- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Says Strong Deterrence Is Essential to Preserving Taiwan’s Political, Economic and Social Systems
-- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan: Strong Deterrence Can Help Facilitate Meaningful Cross-Strait Dialogue
-- 09/09 10:20 [FirstSquawk] U.S. Diplomat in Taiwan Says Threats to Taiwan Are Increasing in Scale and Sophistication
 - 09/09 10:22 [financialjuice] China cbank: 7-day reverse repo volume hits zero Wednesday on primary dealer demand - statement
 - 09/09 10:25 [financialjuice] Top U.S. diplomat in Taiwan: Taiwan has tech and manufacturing capacity to meet its needs and back development of global democratic supply chains
 - 09/09 10:26 [FirstSquawk] U.S. Diplomat: Taiwan Can Meet Its Own Needs While Supporting Development of Global Democratic Supply Chains
@@ -292,3 +274,11 @@
 - 09/09 21:55 [financialjuice] US REDBOOK YOY ACTUAL 8.3% (FORECAST -, PREVIOUS 9.6%) $MACRO
 - 09/09 22:00 [financialjuice] Effective Fed funds rate 3.63% September 8th vs 3.63% September 4th.
 - 09/09 22:00 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: RUSSIA PRODUCES 150 SHORT- AND MEDIUM-RANGE MISSILES PER MONTH BUT USES ONLY PART OF IT ON THE FRONT IN UKRAINE
+- 09/09 22:02 [financialjuice] Pakistan's Defense Minister: Islamabad is walking a tightrope in mediating between Tehran and US - ISNA
+- 09/09 22:02 [financialjuice] Pakistan's Defense Minister: Pakistan should hope to find a diplomatic solution to this crisis - ISNA
+- 09/09 22:03 [FirstSquawk] AMERICAN AIRLINES, HYATT TO END LOYALTY PARTNERSHIP
+- 09/09 22:03 [financialjuice] IRGC Spokesman: If the enemy hits 2 targets, we will strike 20 - IRIB News
+- 09/09 22:13 [DeItaone] $AAPL - APPLE SET TO UNVEIL $2,000+ FOLDABLE IPHONE Apple is expected to unveil its first foldable iPhone Wednesday, marking new CEO John Ternus’ first major product launch. The device could cost more than $2,000, making it Apple’s most exp…
+- 09/09 22:14 [DeItaone] NORTHWESTERN MUTUAL: HOT CPI COULD TRIGGER FED HIKE Northwestern Mutual’s Matt Stucky says hotter-than-expected inflation could increase the chances of a Fed rate hike this month. Markets currently see roughly a 50-50 chance of a hike. Frid…
+- 09/09 22:15 [FirstSquawk] TRUMP’S 20% GDP DREAM: A GROWTH RATE AMERICA HAS SEEN ONLY ONCE SINCE WWII President Donald Trump has said U.S. economic growth could reach 20%, but that would be an extraordinary outlier by historical standards. Data going back to 1947 sho…
+- 09/09 22:19 [DeItaone] KUWAIT OFFERS OIL TRANSFERS OUTSIDE HORMUZ Kuwait Petroleum Corp is offering ship-to-ship transfers of crude oil and refined fuels outside the Strait of Hormuz as buyers avoid ports inside the waterway due to U.S.-Iran war risks. KPC says v…

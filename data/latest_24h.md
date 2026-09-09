@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 22:01 JST／対象: 09/08 22:01 〜 09/09 22:01 JST（時刻はすべて日本時間）
+生成: 2026-09-09 22:21 JST／対象: 09/08 22:21 〜 09/09 22:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/08 22:06 | 09/09 21:27 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 427 | 09/08 22:02 | 09/09 22:00 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 260 | 09/08 22:01 | 09/09 22:00 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 31 | 09/08 22:39 | 09/09 22:19 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 424 | 09/08 22:24 | 09/09 22:15 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 255 | 09/08 22:23 | 09/09 22:03 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 701 行（統合前 719 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 695 行（統合前 712 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 22:01 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
-- 09/08 22:02 [financialjuice] Germany's Wadephul: The growing China trade deficit is alarming.
-- 09/08 22:02 [FirstSquawk] QUALCOMM, AMAZON PACT TO BUILD AI DATA CENTER INFRASTRUCTURE
-- 09/08 22:03 [financialjuice] Qualcomm issues a warrant to Amazon for up to 25M shares, the warrant priced at $161.26/share, expires 2036. $AMZN $QCOM
-- 09/08 22:04 [FirstSquawk] QUALCOMM TO ISSUE WARRANT TO AMAZON FOR UP TO 25 MILLION SHARES
-- 09/08 22:06 [DeItaone] IRAN'S STATE MEDIA CITING ARMY SAYS U.S. DRONE DOWNED OVER BANDAR ABBAS; NO U.S. CONFIRMATION
-- 09/08 22:06 [financialjuice/FirstSquawk] Iran's State Media citing Army: US drone downed over Bandar Abbas. No US confirmation.
-- 09/08 22:07 [financialjuice] Bank of England Governor Andrew Bailey F& MPC members Speak at the UK Treasury Committee - WATCH LIVE
-- 09/08 22:08 [financialjuice] Qualcomm: 3.75m shares of warrant to vest upon issuance. $QCOM
-- 09/08 22:09 [DeItaone] ATHA ENERGY CONTINUES STREAK AT ANGILAK URANIUM PROJECT, INTERSECTING URANIUM IN 7 FOR 7 HOLES AT RIB NORTH: PRELIMINARY RESULTS
-- 09/08 22:09 [FirstSquawk] PARAMOUNT SKYDANCE EXTENDS TENDER, EXCHANGE OFFERS TO SEPT. 18
-- 09/08 22:09 [financialjuice] Bank of America: If Middle East skirmishes continue into year end, brent could trade in a $95-120/bbl range.
-- 09/08 22:11 [FirstSquawk] IRANIAN AIR DEFENSE FORCES IDENTIFIED AND TARGETED A US DRONE OVER THE STRAIT OF HORMUZ, THE IRGC-AFFILIATED FARS NEWS AGENCY REPORTED ON TUESDAY. FARS SAID THE OPERATION WAS CARRIED OUT BY AIR DEFENSE UNITS OF IRAN'S REGULAR MILITARY IN TH…
-- 09/08 22:15 [financialjuice] German Economy Ministry: German gas storage levels in range of 60-70% at the start of winter, with import options sufficient to meet expected winter demand - Document.
 - 09/08 22:23 [financialjuice] BoE Gov. Bailey: The US-Iran war has led to high energy prices, they could be higher still.
 - 09/08 22:24 [FirstSquawk] BAILEY: ENERGY PRICES COULD GO EVEN HIGHER DUE TO US-IRAN WAR
 - 09/08 22:25 [FirstSquawk] BOE'S BAILEY: UKRAINIAN ATTACKS ON RUSSIAN REFINERIES ALSO PUSHING UP COST OF REFINED OIL PRODUCTS
@@ -725,3 +711,11 @@
 - 09/09 21:55 [financialjuice] US REDBOOK YOY ACTUAL 8.3% (FORECAST -, PREVIOUS 9.6%) $MACRO
 - 09/09 22:00 [financialjuice] Effective Fed funds rate 3.63% September 8th vs 3.63% September 4th.
 - 09/09 22:00 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: RUSSIA PRODUCES 150 SHORT- AND MEDIUM-RANGE MISSILES PER MONTH BUT USES ONLY PART OF IT ON THE FRONT IN UKRAINE
+- 09/09 22:02 [financialjuice] Pakistan's Defense Minister: Islamabad is walking a tightrope in mediating between Tehran and US - ISNA
+- 09/09 22:02 [financialjuice] Pakistan's Defense Minister: Pakistan should hope to find a diplomatic solution to this crisis - ISNA
+- 09/09 22:03 [FirstSquawk] AMERICAN AIRLINES, HYATT TO END LOYALTY PARTNERSHIP
+- 09/09 22:03 [financialjuice] IRGC Spokesman: If the enemy hits 2 targets, we will strike 20 - IRIB News
+- 09/09 22:13 [DeItaone] $AAPL - APPLE SET TO UNVEIL $2,000+ FOLDABLE IPHONE Apple is expected to unveil its first foldable iPhone Wednesday, marking new CEO John Ternus’ first major product launch. The device could cost more than $2,000, making it Apple’s most exp…
+- 09/09 22:14 [DeItaone] NORTHWESTERN MUTUAL: HOT CPI COULD TRIGGER FED HIKE Northwestern Mutual’s Matt Stucky says hotter-than-expected inflation could increase the chances of a Fed rate hike this month. Markets currently see roughly a 50-50 chance of a hike. Frid…
+- 09/09 22:15 [FirstSquawk] TRUMP’S 20% GDP DREAM: A GROWTH RATE AMERICA HAS SEEN ONLY ONCE SINCE WWII President Donald Trump has said U.S. economic growth could reach 20%, but that would be an extraordinary outlier by historical standards. Data going back to 1947 sho…
+- 09/09 22:19 [DeItaone] KUWAIT OFFERS OIL TRANSFERS OUTSIDE HORMUZ Kuwait Petroleum Corp is offering ship-to-ship transfers of crude oil and refined fuels outside the Strait of Hormuz as buyers avoid ports inside the waterway due to U.S.-Iran war risks. KPC says v…
