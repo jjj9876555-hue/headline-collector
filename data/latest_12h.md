@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 16:03 JST／対象: 09/09 04:03 〜 09/09 16:03 JST（時刻はすべて日本時間）
+生成: 2026-09-09 16:27 JST／対象: 09/09 04:27 〜 09/09 16:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/09 05:31 | 09/09 05:33 | 1分（05:31→05:33） |
-| FirstSquawk | 194 | 09/09 04:03 | 09/09 15:58 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 99 | 09/09 04:04 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 188 | 09/09 04:28 | 09/09 16:10 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 95 | 09/09 04:31 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 289 行（統合前 297 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 279 行（統合前 287 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 04:03 [FirstSquawk] META: MUSE AI ASSISTANT TO OFFER FREE & PAID TIERS, WITH PERSONAL TASK MANAGEMENT & ORGANIZATION FEATURES ROLLING OUT TO US USERS TUESDAY.
-- 09/09 04:04 [financialjuice] US Consumer Credit Report for July
-- 09/09 04:07 [FirstSquawk] META: MUSE AI AGENT LAUNCHES IN THE US, OFFERING FREE ACCESS WITH PAID PLANS FOR USERS SEEKING MORE CAPABILITIES; DESIGNED TO HANDLE PERSONAL TASKS, PLANNING & ORGANIZATION.
-- 09/09 04:09 [financialjuice] US Treasury Investor Flows
-- 09/09 04:09 [FirstSquawk] FOREIGN INVESTORS INCREASE TREASURY BUYING, PURCHASING $9.84B OF 2-YEAR, $8.75B OF 5-YEAR & $6.79B OF 7-YEAR NOTES, UP FROM PRIOR MONTH LEVELS.
-- 09/09 04:11 [FirstSquawk] US & UK LAWMAKERS PUSH BILLS TO BAN SUPERINTELLIGENT AI & SEEK GLOBAL AGREEMENTS TO STOP ITS DEVELOPMENT, FOLLOWING ROGUE AI INCIDENTS SUCH AS THE HUGGING FACE HACK: TIME.
-- 09/09 04:13 [FirstSquawk] IRGC: IRAN CLAIMS CAPTURE OF ADVANCED US UNMANNED SUBMERSIBLE NEAR STRAIT OF HORMUZ, SAYS NO ADVANCED TECHNOLOGY CAN EVADE ITS SURVEILLANCE; US HAS NOT CONFIRMED THE CLAIM.
-- 09/09 04:13 [financialjuice] US is currently attacking Iranian oil tankers - I24 News citing a US source.
-- 09/09 04:15 [FirstSquawk] RUSSIA’S ROSSOTRUDNICHESTVO HEAD IGOR CHAIKA SAYS MOSCOW-YEREVAN TIES REMAIN “NORMAL,” COMPARING THEM TO A BIG FAMILY WHERE TENSIONS OCCASIONALLY ARISE.
-- 09/09 04:15 [FirstSquawk] IRAN FM ARAGHCHI: AFTER 47 YEARS OF US SANCTIONS & WAR, WASHINGTON HAS FAILED TO ACHIEVE ITS GOALS; NOW IT IS RESORTING TO “MORE SANCTIONS,” WHICH HE CALLS A DESPERATE MOVE.
-- 09/09 04:16 [FirstSquawk] BRENT CRUDE SURGES TOWARD $100/BBL, HITTING A SIX-WEEK HIGH, WHILE US GASOLINE PRICES SET A LABOR DAY RECORD AT $4.15/GALLON; BANKS WARN PROLONGED CONFLICT COULD PUSH OIL TO $120–$150/BBL.
-- 09/09 04:18 [FirstSquawk] US FORCES ARE REPORTEDLY STRIKING IRANIAN OIL TANKERS, WITH TWO US OFFICIALS CITED AS SAYING AMERICAN DRONES TARGETED TANKERS OFF IRAN’S SOUTHERN COAST: I24 NEWS.
-- 09/09 04:19 [FirstSquawk] U.S. CENTCOM: US UNDERWATER DRONE THAT MALFUNCTIONED MORE THAN A DAY BEFORE IRAN’S ANNOUNCEMENT WAS AN OLDER MODEL WITH NO CLASSIFIED SENSORS OR SENSITIVE DATA; WASHINGTON HAS NOT CONFIRMED IRAN RECOVERED THE VEHICLE OR THAT IT WAS A DIVE-L…
-- 09/09 04:22 [financialjuice] Wednesday FX Options Expiries
 - 09/09 04:28 [FirstSquawk] OIL APPROACHES $100 AS NEW HOUTHI ATTACKS ON SAUDI ENERGY INFRASTRUCTURE AND EXPLOSIONS ON IRAN’S KHARG ISLAND HEIGHTEN GLOBAL SUPPLY FEARS.
 - 09/09 04:28 [FirstSquawk] BRENT RISES 1% TO $97.92 AND WTI JUMPS 1.7% TO $93.03 AS HORMUZ FLOWS REMAIN AROUND HALF PRE-WAR LEVELS, RAISING FRESH INFLATION AND REFINED-FUEL SUPPLY RISKS.
 - 09/09 04:31 [financialjuice/FirstSquawk] Iranian tanker was targeted by a US missile attack four miles from Kharg Island - Tasnim
@@ -313,3 +299,7 @@
 - 09/09 15:47 [FirstSquawk] UK Air Traffic Outage Cause Expected to Be Different From Previous Failures, NATS CEO Rolfe Says
 - 09/09 15:51 [FirstSquawk] Google Plans at Least €13 Billion Investment in Finnish AI Infrastructure Over 2027-2028, Yle Says
 - 09/09 15:58 [FirstSquawk] UK AIRPORTS WARN OF FURTHER TRAVEL DISRUPTION - FT
+- 09/09 16:06 [FirstSquawk] Beijing Unaware of Circumstances Surrounding Note to Philippine Defence Chief, Foreign Ministry Says; Position on South China Sea Arbitration Remains Unchanged
+- 09/09 16:07 [FirstSquawk] Beijing Calls on Some in Philippines to Cease Actions That Undermine China-Philippines Ties and South China Sea Stability
+- 09/09 16:09 [FirstSquawk] Paytm Clarifies Media Report on Its Plans for Workplace AI Agents Beyond Payments
+- 09/09 16:10 [FirstSquawk] Paytm Continues to Invest in and Build AI Capabilities Across Its Business Initiatives

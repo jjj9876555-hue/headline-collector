@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 16:03 JST／対象: 09/09 10:03 〜 09/09 16:03 JST（時刻はすべて日本時間）
+生成: 2026-09-09 16:27 JST／対象: 09/09 10:27 〜 09/09 16:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 105 | 09/09 10:06 | 09/09 15:58 | 16分（13:13→13:30） |
-| financialjuice | 28 | 09/09 10:16 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
+| FirstSquawk | 98 | 09/09 10:30 | 09/09 16:10 | 16分（13:13→13:30） |
+| financialjuice | 17 | 09/09 10:30 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 132 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 114 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 10:06 [FirstSquawk] Peru’s Petroperu Secures $475 Million in Loan Disbursement From International Banks
-- 09/09 10:06 [FirstSquawk] The ban on imports worth ‘billions’ of dollars would take effect in three weeks, US officials said, as Donald Trump’s administration continued to expand its trade war with its second-largest trading partner - FT
-- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: Conflict across Taiwan Strait would hit global economy harder than WWII beyond human toll
-- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: Trump administration made preserving peace in Indo-Pacific a key priority
-- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: we back Taiwan's efforts to strengthen its self-defense capabilities
-- 09/09 10:17 [financialjuice] Top U.S. diplomat in Taiwan: Taiwan’s capacity to prevent conflict remains crucial to maintaining its dynamic political, economic, and social system
-- 09/09 10:17 [financialjuice] Top U.S. diplomat in Taiwan: effective deterrence is crucial for enabling genuine cross-strait talks free from coercion or force threats
-- 09/09 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 8, 2023
-- 09/09 10:17 [financialjuice] Top US diplomat in Taiwan: threats Taiwan faces keep growing in scale and complexity
-- 09/09 10:18 [FirstSquawk] PBOC Sets Daily Yuan Fixing at 6.7769 per U.S. Dollar
-- 09/09 10:19 [financialjuice] China sets yuan midpoint 727 pips weaker than estimate, biggest downside divergence since February 27, 2026
-- 09/09 10:20 [FirstSquawk] U.S. Diplomat in Taiwan: Taiwan Strait Conflict Could Hit Global Economy Harder Than WWII
-- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Says Maintaining Indo-Pacific Peace Is Key Trump Priority
-- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Sees U.S.-China Summit as Opportunity to Deepen Strategic Stability
-- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Says Washington Backs Efforts to Bolster Taiwan’s Defense
-- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Says Strong Deterrence Is Essential to Preserving Taiwan’s Political, Economic and Social Systems
-- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan: Strong Deterrence Can Help Facilitate Meaningful Cross-Strait Dialogue
-- 09/09 10:20 [FirstSquawk] U.S. Diplomat in Taiwan Says Threats to Taiwan Are Increasing in Scale and Sophistication
-- 09/09 10:22 [financialjuice] China cbank: 7-day reverse repo volume hits zero Wednesday on primary dealer demand - statement
-- 09/09 10:25 [financialjuice] Top U.S. diplomat in Taiwan: Taiwan has tech and manufacturing capacity to meet its needs and back development of global democratic supply chains
-- 09/09 10:26 [FirstSquawk] U.S. Diplomat: Taiwan Can Meet Its Own Needs While Supporting Development of Global Democratic Supply Chains
-- 09/09 10:26 [financialjuice] National Transportation Safety Board: Evidence suggests pilots thought about aborting landing in Boeing 767 crash in Miami
 - 09/09 10:30 [financialjuice] ❗ CHINESE PPI YOY ACTUAL 3.8% (FORECAST 3.6%, PREVIOUS 3.5%) $MACRO
 - 09/09 10:30 [financialjuice] ‼ BREAKING: CHINESE CPI YOY ACTUAL 0.8% (FORECAST 0.8%, PREVIOUS 0.5%) $MACRO
 - 09/09 10:30 [financialjuice] China August CPI rises 0.8% from year earlier, poll predicted 0.8%
@@ -156,3 +134,7 @@
 - 09/09 15:47 [FirstSquawk] UK Air Traffic Outage Cause Expected to Be Different From Previous Failures, NATS CEO Rolfe Says
 - 09/09 15:51 [FirstSquawk] Google Plans at Least €13 Billion Investment in Finnish AI Infrastructure Over 2027-2028, Yle Says
 - 09/09 15:58 [FirstSquawk] UK AIRPORTS WARN OF FURTHER TRAVEL DISRUPTION - FT
+- 09/09 16:06 [FirstSquawk] Beijing Unaware of Circumstances Surrounding Note to Philippine Defence Chief, Foreign Ministry Says; Position on South China Sea Arbitration Remains Unchanged
+- 09/09 16:07 [FirstSquawk] Beijing Calls on Some in Philippines to Cease Actions That Undermine China-Philippines Ties and South China Sea Stability
+- 09/09 16:09 [FirstSquawk] Paytm Clarifies Media Report on Its Plans for Workplace AI Agents Beyond Payments
+- 09/09 16:10 [FirstSquawk] Paytm Continues to Invest in and Build AI Capabilities Across Its Business Initiatives

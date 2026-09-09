@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 16:03 JST／対象: 09/08 16:03 〜 09/09 16:03 JST（時刻はすべて日本時間）
+生成: 2026-09-09 16:27 JST／対象: 09/08 16:27 〜 09/09 16:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/08 17:32 | 09/09 05:33 | ⚠ 273分（17:32→22:06） |
-| FirstSquawk | 415 | 09/08 16:15 | 09/09 15:58 | ⚠ 55分（06:40→07:35） |
+| FirstSquawk | 413 | 09/08 16:36 | 09/09 16:10 | ⚠ 55分（06:40→07:35） |
 | financialjuice | 268 | 09/08 16:42 | 09/09 14:00 | ⚠ 102分（10:56→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 681 行（統合前 697 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 679 行（統合前 695 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 16:15 [FirstSquawk] NOVARTIS SHARES FALL 10% AFTER THIRD TRIAL SETBACK IN A WEEK
-- 09/08 16:17 [FirstSquawk] Audi CEO: VW Weighs Selling Ducati Motorcycle Unit In Broad Review
-- 09/08 16:20 [FirstSquawk] BRITISH DIPLOMATS HAVE PRIVATELY ASSURED THE US THAT NEW SANCTIONS ON ISRAELI SETTLEMENTS ARE LARGELY SYMBOLIC AND WILL NOT MATERIALLY AFFECT UK-ISRAEL TRADE OR SECURITY TIES.
-- 09/08 16:20 [FirstSquawk] UK URGED TO OVERHAUL MILITARY PROCUREMENT TO REMOVE CHINA-MADE PARTS "WE MUST NOT ALLOW A HOSTILE FOREIGN POLITICAL PARTY THE 'KILL SWITCH' OVER OUR CRITICAL NATIONAL INFRASTRUCTURE NOR OUR DEFENSIVE CAPABILITIES," SAID A CONSERVATIVE POLIT…
-- 09/08 16:24 [FirstSquawk] KUWAIT IS SHIPPING AROUND ONE MILLION BARRELS OF CRUDE DAILY, INCLUDING VIA SHIP-TO-SHIP TRANSFERS NEAR THE STRAIT OF HORMUZ.
-- 09/08 16:26 [FirstSquawk] EUROPE FACES THE HIGHEST NATURAL GAS PRICES IN THREE YEARS, LEADING STOCK MARKET EXPERTS TO IDENTIFY POTENTIAL WINNERS AND LOSERS AS WINTER APPROACHES.
 - 09/08 16:36 [FirstSquawk] QATAR, KUWAIT AND BAHRAIN CONDEMNED THE IRAN-BACKED HOUTHI ATTACKS ON CIVILIAN AND ECONOMIC SITES IN SOUTHERN SAUDI ARABIA AND EXPRESSED SOLIDARITY WITH THE COUNTRY.
 - 09/08 16:39 [FirstSquawk] GLOBAL SHIPPING AUTHORITIES WARN OF MARITIME TRADE BREAKDOWN AMID GEOPOLITICAL TURMOIL
 - 09/08 16:42 [financialjuice] 3this: launched Attacks towards Aramco facilities in Abha, Najran, and Jizan.
@@ -705,3 +699,7 @@
 - 09/09 15:47 [FirstSquawk] UK Air Traffic Outage Cause Expected to Be Different From Previous Failures, NATS CEO Rolfe Says
 - 09/09 15:51 [FirstSquawk] Google Plans at Least €13 Billion Investment in Finnish AI Infrastructure Over 2027-2028, Yle Says
 - 09/09 15:58 [FirstSquawk] UK AIRPORTS WARN OF FURTHER TRAVEL DISRUPTION - FT
+- 09/09 16:06 [FirstSquawk] Beijing Unaware of Circumstances Surrounding Note to Philippine Defence Chief, Foreign Ministry Says; Position on South China Sea Arbitration Remains Unchanged
+- 09/09 16:07 [FirstSquawk] Beijing Calls on Some in Philippines to Cease Actions That Undermine China-Philippines Ties and South China Sea Stability
+- 09/09 16:09 [FirstSquawk] Paytm Clarifies Media Report on Its Plans for Workplace AI Agents Beyond Payments
+- 09/09 16:10 [FirstSquawk] Paytm Continues to Invest in and Build AI Capabilities Across Its Business Initiatives
