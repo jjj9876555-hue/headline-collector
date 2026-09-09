@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 09:29 JST／対象: 09/08 21:29 〜 09/09 09:29 JST（時刻はすべて日本時間）
+生成: 2026-09-09 09:49 JST／対象: 09/08 21:49 〜 09/09 09:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/08 22:06 | 09/09 05:33 | ⚠ 118分（00:42→02:40） |
-| FirstSquawk | 228 | 09/08 21:29 | 09/09 09:29 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 207 | 09/08 21:36 | 09/09 08:50 | 37分（06:28→07:05） |
+| FirstSquawk | 231 | 09/08 21:54 | 09/09 09:45 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 204 | 09/08 22:00 | 09/09 08:50 | 37分（06:28→07:05） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 434 行（統合前 445 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,14 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 21:29 [FirstSquawk] EU'S VON DER LEYEN: ALONG WITH NATO SECRETARY GENERAL, I WELCOME AGREEMENT BY MEMBER STATES ON THE DEROGATION FOR UKRAINE TO PURCHASE CRUCIAL PRODUCTS FOR PATRIOT AIR DEFENCE SYSTEMS.
-- 09/08 21:31 [FirstSquawk] AMERICANS HITTING THE ROAD FOR THE LABOR DAY WEEKEND ARE FACING THE HIGHEST GAS PRICES EVER RECORDED FOR THE HOLIDAY, AS DISRUPTIONS TIED TO THE CONFLICT WITH IRAN AND REDUCED TRAFFIC THROUGH THE STRAIT OF HORMUZ CONTINUE TO PUT PRESSURE ON…
-- 09/08 21:31 [FirstSquawk] CANADA'S 20% TARIFFS ON US GOODS LIKE MILK, STEEL AND GOLF CLUBS TAKE EFFECT
-- 09/08 21:36 [financialjuice] ❗ Bank of England to hold bank rate at 3.75% in September, said all 65 economists surveyed - Poll
-- 09/08 21:37 [financialjuice] ❗ Medians show Bank of England to hold bank rate at 3.75% until Q2 2027 - Poll
-- 09/08 21:37 [FirstSquawk] BANK OF ENGLAND TO HOLD BANK RATE AT 3.75% UNTIL Q2 2027, MEDIANS SHOW
-- 09/08 21:46 [financialjuice] EU's Trade Chief Sefcovic: Current situation with China is unsustainable.
-- 09/08 21:47 [FirstSquawk] US TREASURIES ERASE DECLINES; YIELDS EDGE TOWARD SESSION LOWS
 - 09/08 21:54 [FirstSquawk] EUROPE SET TO BUY PATRIOTS FROM US TO SHIELD UKRAINE THIS WINTER – BBG
 - 09/08 21:59 [FirstSquawk] VERIZON, CORNING REACH PARTNERSHIP FOR FIBER: CNBC
 - 09/08 22:00 [financialjuice] Qualcomm reports a multi-generational product pact with Amazon. $QCOM $AMZN
@@ -458,3 +450,11 @@
 - 09/09 09:25 [FirstSquawk] China Vows to Deepen Opening-Up, Encourage Global Firms to Expand Presence in Chinese Market
 - 09/09 09:25 [FirstSquawk] Indonesia Motorcycle Sales Climb 3.18% Y/Y in August: Association
 - 09/09 09:29 [FirstSquawk] 10-Year Japanese Government Bond Yield Slips to 2.880%
+- 09/09 09:31 [FirstSquawk] Japanese Investors’ Move Into Domestic Bonds Remains Gradual, Fitch Says
+- 09/09 09:32 [FirstSquawk] U.S. Strikes Iranian Oil Tankers in Response to Tehran’s Attacks on Navy Ships - WSJ
+- 09/09 09:33 [FirstSquawk] Oil Rises as Houthi Militants’ Attack Amplifies Supply-Disruption Fears - WSJ
+- 09/09 09:33 [FirstSquawk] Nikkei Rises 0.1%, Led by Chip-Related Stocks - WSJ
+- 09/09 09:36 [FirstSquawk] Blackstone’s Head of Real Estate Is Leaving the Firm - WSJ
+- 09/09 09:39 [FirstSquawk] Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries - CNBC
+- 09/09 09:42 [FirstSquawk] Penicillin shortage continues in Japan amid high number of syphilis cases - KYODO
+- 09/09 09:45 [FirstSquawk] Maker of world's best sake this year hopes to spread Japanese culture - KYODO
