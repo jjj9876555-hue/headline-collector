@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 08:15 JST／対象: 09/09 20:15 〜 09/10 08:15 JST（時刻はすべて日本時間）
+生成: 2026-09-10 08:31 JST／対象: 09/09 20:31 〜 09/10 08:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 40 | 09/09 20:35 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 141 | 09/09 20:24 | 09/10 08:15 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 154 | 09/09 20:26 | 09/10 08:13 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 135 | 09/09 20:31 | 09/10 08:15 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 153 | 09/09 20:34 | 09/10 08:13 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 327 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 320 行（統合前 329 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 20:24 [FirstSquawk] US BANK LAUNCHES USBDC STABLECOIN
-- 09/09 20:24 [FirstSquawk] UK PM BURNHAM: WILL TAKE PRAGMATIC APPROACH ON NORTH SEA OIL AND GAS
-- 09/09 20:26 [FirstSquawk] BURNHAM: PLAN FURTHER MEASURES ON COST OF LIVING THIS YEAR
-- 09/09 20:26 [FirstSquawk] BURNHAM ANNOUNCES MORE COST OF LIVING ACTIONS THIS YEAR.
-- 09/09 20:26 [financialjuice] UK's PM Burnham: We plan further measures on cost of living this year.
-- 09/09 20:27 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON ON PLANNED EU BUDGET: WE DON'T YET HAVE VIABLE BASIS FOR TALKS, FIGURES NEED TO COME DOWN
-- 09/09 20:29 [FirstSquawk] UBER ANNOUNCES €4.5 BILLION EURO BOND SALE FOR ITS MARKET DEBUT.
 - 09/09 20:31 [FirstSquawk] STOXX EUROPE 600 EXTENDS LOSSES TO 1.5%, MOST IN TWO MONTHS
 - 09/09 20:31 [FirstSquawk] UK GILTS DECLINE; UK 10Y YIELD RISES 5BPS TO 5.23%
 - 09/09 20:33 [FirstSquawk] AIRLINES CALL FOR UK AIR TRAFFIC CONTROL BOSS TO QUIT AS DISRUPTION CONTINUES – FT
