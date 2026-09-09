@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 01:46 JST／対象: 09/09 19:46 〜 09/10 01:46 JST（時刻はすべて日本時間）
+生成: 2026-09-10 01:58 JST／対象: 09/09 19:58 〜 09/10 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/09 19:57 | 09/10 01:42 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 89 | 09/09 19:47 | 09/10 01:39 | 28分（00:32→01:01） |
-| financialjuice | 79 | 09/09 19:47 | 09/10 01:32 | 35分（21:20→21:55） |
+| DeItaone | 20 | 09/09 19:58 | 09/10 01:42 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 88 | 09/09 20:00 | 09/10 01:52 | 28分（00:32→01:01） |
+| financialjuice | 78 | 09/09 20:00 | 09/10 01:53 | 35分（21:20→21:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 184 行（統合前 187 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 19:47 [FirstSquawk] IRAN'S IRGC SPOKESPERSON SAYS MARITIME RESTRICTED AREA EXTENDS FROM CHABAHAR INTO PARTS OF GULF OF OMAN AND ARABIAN SEA
-- 09/09 19:47 [FirstSquawk] IRGC SPOKESPERSON SAYS PRECISE COORDINATES OF RESTRICTED AREA WILL BE ANNOUNCED - FARS
-- 09/09 19:47 [financialjuice] Iran's IRGC Spokesperson: Maritime restricted area extends from Chabahar into parts of Gulf of Oman and Arabian Sea.
-- 09/09 19:47 [financialjuice] IRGC Spokesperson: Precise coordinates of restricted area will be announced - Fars.
-- 09/09 19:50 [financialjuice] Iran's IRGC Spokesperson: Any ship passing through restricted area of Strait of Hormuz will face sanctions if no coordination with Iran.
-- 09/09 19:57 [financialjuice] UKMTO: Received report of incident 28 NM South East of Iraq's Faw.
-- 09/09 19:57 [DeItaone] PIMCO: HIGH BOND YIELDS CHALLENGE STOCKS PIMCO says bonds are becoming more attractive after global yields climbed to their highest levels in more than a decade. US aggregate bond yields are now around 5%, roughly matching equity earnings y…
 - 09/09 19:58 [DeItaone] IRAN EXPANDS MARITIME RESTRICTED ZONE Iran’s Revolutionary Guards said a new maritime restricted zone will extend from Chabahar into parts of the Gulf of Oman and Arabian Sea, with exact coordinates to be announced. The move follows Tehran’…
 - 09/09 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -2.7% (FORECAST -, PREVIOUS 0.8%) $MACRO
 - 09/09 20:00 [FirstSquawk] UKMTO RECEIVED A REPORT OF AN INCIDENT 28 NM SOUTHEAST OF FAW, IRAQ, WHERE A VESSEL WAS HIT BY A PROJECTILE, BUT THE CREW IS SAFE.
@@ -211,3 +204,7 @@
 - 09/10 01:39 [FirstSquawk] RUSSIA CLAIMS IT ATTACKED FACILITIES IN UKRAINE'S NIKOLAEV PORT, TARGETING LOGISTICS CENTERS, MILITARY, AND INDUSTRIAL SITES.
 - 09/10 01:42 [DeItaone] $AAPL - APPLE BETS ON FOLDABLE IPHONE TO DRIVE GROWTH Apple is expected to unveil its first foldable iPhone, targeting a mature smartphone market and aging consumers seeking larger screens. The device could cost more than $2,000, helping bo…
 - 09/10 01:42 [DeItaone] COPPER HITS RECORD AS GLOBAL SUPPLIES TIGHTEN Copper hit a fresh record of $14,802.50 a ton, as tight supplies outside the U.S. outweighed concerns over Middle East tensions and slowing growth. LME copper has surged about 25% since March, d…
+- 09/10 01:46 [financialjuice] Blast heard around Strait of Hormuz - IRIB
+- 09/10 01:50 [financialjuice] WATCH LIVE: Apple Event 1 PM ET $AAPL
+- 09/10 01:52 [FirstSquawk] BLAST REPORTED IN THE STRAIT OF HORMUZ, ACCORDING TO IRIB.
+- 09/10 01:53 [financialjuice] ❗ Russia's Siluanov: Russia weighs $50/bbl budget rule oil price - IFX.

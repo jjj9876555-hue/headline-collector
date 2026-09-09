@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 01:46 JST／対象: 09/09 13:46 〜 09/10 01:46 JST（時刻はすべて日本時間）
+生成: 2026-09-10 01:58 JST／対象: 09/09 13:58 〜 09/10 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 31 | 09/09 16:31 | 09/10 01:42 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 176 | 09/09 13:46 | 09/10 01:39 | 28分（00:32→01:01） |
-| financialjuice | 93 | 09/09 13:55 | 09/10 01:32 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 174 | 09/09 13:59 | 09/10 01:52 | 28分（00:32→01:01） |
+| financialjuice | 95 | 09/09 13:59 | 09/10 01:53 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 295 行（統合前 301 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 13:46 [FirstSquawk] Revolut takes aim at business banking with FTSE 250 companies - FT
-- 09/09 13:55 [financialjuice] Russian air strikes damage port facilities in Ukraine's Mykolayiv, officials say
-- 09/09 13:55 [FirstSquawk] Russian Strikes Hit Port Infrastructure in Mykolaiv, Ukrainian Officials Say
-- 09/09 13:58 [FirstSquawk] Peel Hunt Lowers Oxford Biomedica Price Target to 778p From 846p
 - 09/09 13:59 [financialjuice] Israel tells British consulate in east Jerusalem to shut within 30 days, Israeli official says
 - 09/09 13:59 [FirstSquawk] British Consulate in East Jerusalem Ordered to Shut Within 30 Days by Israel, Official Says
 - 09/09 14:00 [financialjuice] Israel tells British consulate in East Jerusalem its diplomats will lose accreditation within 30 days, Israeli official says
@@ -319,3 +315,7 @@
 - 09/10 01:39 [FirstSquawk] RUSSIA CLAIMS IT ATTACKED FACILITIES IN UKRAINE'S NIKOLAEV PORT, TARGETING LOGISTICS CENTERS, MILITARY, AND INDUSTRIAL SITES.
 - 09/10 01:42 [DeItaone] $AAPL - APPLE BETS ON FOLDABLE IPHONE TO DRIVE GROWTH Apple is expected to unveil its first foldable iPhone, targeting a mature smartphone market and aging consumers seeking larger screens. The device could cost more than $2,000, helping bo…
 - 09/10 01:42 [DeItaone] COPPER HITS RECORD AS GLOBAL SUPPLIES TIGHTEN Copper hit a fresh record of $14,802.50 a ton, as tight supplies outside the U.S. outweighed concerns over Middle East tensions and slowing growth. LME copper has surged about 25% since March, d…
+- 09/10 01:46 [financialjuice] Blast heard around Strait of Hormuz - IRIB
+- 09/10 01:50 [financialjuice] WATCH LIVE: Apple Event 1 PM ET $AAPL
+- 09/10 01:52 [FirstSquawk] BLAST REPORTED IN THE STRAIT OF HORMUZ, ACCORDING TO IRIB.
+- 09/10 01:53 [financialjuice] ❗ Russia's Siluanov: Russia weighs $50/bbl budget rule oil price - IFX.

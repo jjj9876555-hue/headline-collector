@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 01:46 JST／対象: 09/09 01:46 〜 09/10 01:46 JST（時刻はすべて日本時間）
+生成: 2026-09-10 01:58 JST／対象: 09/09 01:58 〜 09/10 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 35 | 09/09 02:40 | 09/10 01:42 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 382 | 09/09 01:53 | 09/10 01:39 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 217 | 09/09 01:52 | 09/10 01:32 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 382 | 09/09 02:02 | 09/10 01:52 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 219 | 09/09 02:00 | 09/10 01:53 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 620 行（統合前 637 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 622 行（統合前 639 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 01:52 [financialjuice] ❗ Al Hadath, citing Iranian Media: Tehran demands new conditions from Washington to resume negotiations.
-- 09/09 01:53 [FirstSquawk] IRANIAN MEDIA: TEHRAN DEMANDS NEW CONDITIONS FROM WASHINGTON TO RESUME NEGOTIATIONS.
 - 09/09 02:00 [financialjuice] Treasury WI 3-Year yield 4.475% before $58 billion auction.
 - 09/09 02:01 [financialjuice] Alerts activated in Saudi Arabia's Jazan - Civil Defence.
 - 09/09 02:02 [FirstSquawk] ALERTS ACTIVATED IN JAZAN, SAUDI ARABIA - CIVIL DEFENCE
@@ -644,3 +642,7 @@
 - 09/10 01:39 [FirstSquawk] RUSSIA CLAIMS IT ATTACKED FACILITIES IN UKRAINE'S NIKOLAEV PORT, TARGETING LOGISTICS CENTERS, MILITARY, AND INDUSTRIAL SITES.
 - 09/10 01:42 [DeItaone] $AAPL - APPLE BETS ON FOLDABLE IPHONE TO DRIVE GROWTH Apple is expected to unveil its first foldable iPhone, targeting a mature smartphone market and aging consumers seeking larger screens. The device could cost more than $2,000, helping bo…
 - 09/10 01:42 [DeItaone] COPPER HITS RECORD AS GLOBAL SUPPLIES TIGHTEN Copper hit a fresh record of $14,802.50 a ton, as tight supplies outside the U.S. outweighed concerns over Middle East tensions and slowing growth. LME copper has surged about 25% since March, d…
+- 09/10 01:46 [financialjuice] Blast heard around Strait of Hormuz - IRIB
+- 09/10 01:50 [financialjuice] WATCH LIVE: Apple Event 1 PM ET $AAPL
+- 09/10 01:52 [FirstSquawk] BLAST REPORTED IN THE STRAIT OF HORMUZ, ACCORDING TO IRIB.
+- 09/10 01:53 [financialjuice] ❗ Russia's Siluanov: Russia weighs $50/bbl budget rule oil price - IFX.
