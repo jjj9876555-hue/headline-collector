@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 03:58 JST／対象: 09/09 21:58 〜 09/10 03:58 JST（時刻はすべて日本時間）
+生成: 2026-09-10 04:16 JST／対象: 09/09 22:16 〜 09/10 04:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/09 22:13 | 09/10 03:34 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 79 | 09/09 22:00 | 09/10 03:58 | ⚠ 54分（01:52→02:47） |
-| financialjuice | 104 | 09/09 22:00 | 09/10 03:58 | 30分（22:45→23:16） |
+| DeItaone | 29 | 09/09 22:19 | 09/10 03:34 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 84 | 09/09 22:22 | 09/10 04:07 | ⚠ 54分（01:52→02:47） |
+| financialjuice | 100 | 09/09 22:22 | 09/10 03:58 | 30分（22:45→23:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 209 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 208 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 22:00 [financialjuice] Effective Fed funds rate 3.63% September 8th vs 3.63% September 4th.
-- 09/09 22:00 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: RUSSIA PRODUCES 150 SHORT- AND MEDIUM-RANGE MISSILES PER MONTH BUT USES ONLY PART OF IT ON THE FRONT IN UKRAINE
-- 09/09 22:02 [financialjuice] Pakistan's Defense Minister: Islamabad is walking a tightrope in mediating between Tehran and US - ISNA
-- 09/09 22:02 [financialjuice] Pakistan's Defense Minister: Pakistan should hope to find a diplomatic solution to this crisis - ISNA
-- 09/09 22:03 [FirstSquawk] AMERICAN AIRLINES, HYATT TO END LOYALTY PARTNERSHIP
-- 09/09 22:03 [financialjuice] IRGC Spokesman: If the enemy hits 2 targets, we will strike 20 - IRIB News
-- 09/09 22:13 [DeItaone] $AAPL - APPLE SET TO UNVEIL $2,000+ FOLDABLE IPHONE Apple is expected to unveil its first foldable iPhone Wednesday, marking new CEO John Ternus’ first major product launch. The device could cost more than $2,000, making it Apple’s most exp…
-- 09/09 22:14 [DeItaone] NORTHWESTERN MUTUAL: HOT CPI COULD TRIGGER FED HIKE Northwestern Mutual’s Matt Stucky says hotter-than-expected inflation could increase the chances of a Fed rate hike this month. Markets currently see roughly a 50-50 chance of a hike. Frid…
-- 09/09 22:15 [FirstSquawk] TRUMP’S 20% GDP DREAM: A GROWTH RATE AMERICA HAS SEEN ONLY ONCE SINCE WWII President Donald Trump has said U.S. economic growth could reach 20%, but that would be an extraordinary outlier by historical standards. Data going back to 1947 sho…
 - 09/09 22:19 [DeItaone] KUWAIT OFFERS OIL TRANSFERS OUTSIDE HORMUZ Kuwait Petroleum Corp is offering ship-to-ship transfers of crude oil and refined fuels outside the Strait of Hormuz as buyers avoid ports inside the waterway due to U.S.-Iran war risks. KPC says v…
 - 09/09 22:22 [FirstSquawk] IRAQI OIL MINISTRY SAYS VESSEL USED TO STORE FUEL OIL WAS STRUCK BY UNKNOWN SOURCE IN IRAQI TERRITORIAL WATERS-POST ON X
 - 09/09 22:22 [financialjuice] Iraqi Oil Ministry: A vessel used to store fuel oil was struck by an unknown source in Iraqi territorial waters - Post on X.
@@ -233,3 +224,11 @@
 - 09/10 03:55 [financialjuice] Brent and US crude futures settle at their highest close since May 22nd.
 - 09/10 03:55 [financialjuice/FirstSquawk] Pakistani Ambassador: We believe a better understanding will soon be reached between the United States and Iran - ISNA
 - 09/10 03:58 [financialjuice] Ukrainian Forces: Struck a Siberian gas facilities in Russia 3000 km distant.
+- 09/10 04:02 [FirstSquawk] ANTHROPIC IDENTIFIES A FOURTH CLAUDE SECURITY INCIDENT FROM JANUARY 2026 AND SAYS ALL FOUR INCIDENTS OCCURRED DURING CYBERSECURITY EVALUATIONS CONDUCTED BY THE SAME EVALUATION PARTNER.
+- 09/10 04:02 [FirstSquawk] ANTHROPIC HAS NOTIFIED AFFECTED PARTIES AND SIGNED AN AGREEMENT WITH METR TO CONDUCT AN INDEPENDENT INVESTIGATION INTO THE CLAUDE MODEL SECURITY INCIDENTS.
+- 09/10 04:02 [FirstSquawk] DISNEY SAYS IT HAS CREATED A “ONE FAN, ONE ACCOUNT” ECOSYSTEM LINKING HULU AND DISNEY+ PROFILES, WHILE DISNEY+ DELIVERED A 13% MARGIN LAST QUARTER AND IS EXPECTED TO POST DOUBLE-DIGIT MARGINS FOR THE FULL YEAR.
+- 09/10 04:02 [FirstSquawk] DISNEY’S CFO SAYS THE COMPANY IS PRIORITIZING REVENUE GROWTH, WITH A STRONG CONTENT SLATE AHEAD AND CRUISE SHIPS CONTINUING TO SELL OUT DESPITE A 50% INCREASE IN GUEST-ROOM CAPACITY.
+- 09/10 04:03 [FirstSquawk] ANTHROPIC SAYS CLAUDE MYTHOS 5 ATTEMPTED TO UPLOAD A MALICIOUS PACKAGE TO THE PYPI SOFTWARE REPOSITORY DURING A CYBERSECURITY EVALUATION.
+- 09/10 04:03 [FirstSquawk] ANTHROPIC SAYS ALL REPORTED INCIDENTS INVOLVED A SINGLE CLAUDE INSTANCE, WITH NO ATTEMPT BY THE MODEL TO COORDINATE OR COLLABORATE WITH OTHER AI AGENTS.
+- 09/10 04:07 [FirstSquawk] ANTHROPIC SAYS THE MISALIGNED BEHAVIORS SEEN IN ITS CYBERSECURITY INCIDENTS ARE UNLIKELY TO OCCUR DURING ORDINARY USE OF CLAUDE.
+- 09/10 04:07 [FirstSquawk] ANTHROPIC COULD NOT IDENTIFY A SINGLE ROOT CAUSE FOR CLAUDE MYTHOS 5’S BIASED REASONING, BUT SAYS SUCH BIASED BEHAVIOR HAS DECLINED ACROSS ITS PRODUCTION MODELS OVER TIME.
