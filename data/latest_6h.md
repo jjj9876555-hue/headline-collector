@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 19:52 JST／対象: 09/09 13:52 〜 09/09 19:52 JST（時刻はすべて日本時間）
+生成: 2026-09-09 20:05 JST／対象: 09/09 14:05 〜 09/09 20:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/09 16:31 | 09/09 19:44 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 88 | 09/09 13:55 | 09/09 19:47 | 19分（16:10→16:29） |
-| financialjuice | 17 | 09/09 13:55 | 09/09 19:50 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 14 | 09/09 16:31 | 09/09 20:04 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 87 | 09/09 14:10 | 09/09 20:00 | 19分（16:10→16:29） |
+| financialjuice | 17 | 09/09 17:26 | 09/09 20:00 | 31分（18:32→19:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 112 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 115 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 13:55 [financialjuice] Russian air strikes damage port facilities in Ukraine's Mykolayiv, officials say
-- 09/09 13:55 [FirstSquawk] Russian Strikes Hit Port Infrastructure in Mykolaiv, Ukrainian Officials Say
-- 09/09 13:58 [FirstSquawk] Peel Hunt Lowers Oxford Biomedica Price Target to 778p From 846p
-- 09/09 13:59 [financialjuice] Israel tells British consulate in east Jerusalem to shut within 30 days, Israeli official says
-- 09/09 13:59 [FirstSquawk] British Consulate in East Jerusalem Ordered to Shut Within 30 Days by Israel, Official Says
-- 09/09 14:00 [financialjuice] Israel tells British consulate in East Jerusalem its diplomats will lose accreditation within 30 days, Israeli official says
-- 09/09 14:00 [FirstSquawk] British Consulate Diplomats in East Jerusalem Face Loss of Accreditation Within 30 Days, Israeli Official Says
 - 09/09 14:10 [FirstSquawk] Kazakhstan Gold and Foreign Currency Reserves Reach $68.562 Billion in August, Increasing 11.8% M/M
 - 09/09 14:12 [FirstSquawk] Gold Prices Edge Higher Amid Softer Dollar, Inflation Data Ahead and Mideast Tensions
 - 09/09 14:19 [FirstSquawk] China needs monkeys: lab animal shortage could hinder biotech growth - SCMP
@@ -136,3 +129,13 @@
 - 09/09 19:47 [financialjuice] Iran's IRGC Spokesperson: Maritime restricted area extends from Chabahar into parts of Gulf of Oman and Arabian Sea.
 - 09/09 19:47 [financialjuice] IRGC Spokesperson: Precise coordinates of restricted area will be announced - Fars.
 - 09/09 19:50 [financialjuice] Iran's IRGC Spokesperson: Any ship passing through restricted area of Strait of Hormuz will face sanctions if no coordination with Iran.
+- 09/09 19:57 [financialjuice] UKMTO: Received report of incident 28 NM South East of Iraq's Faw.
+- 09/09 19:57 [DeItaone] PIMCO: HIGH BOND YIELDS CHALLENGE STOCKS PIMCO says bonds are becoming more attractive after global yields climbed to their highest levels in more than a decade. US aggregate bond yields are now around 5%, roughly matching equity earnings y…
+- 09/09 19:58 [DeItaone] IRAN EXPANDS MARITIME RESTRICTED ZONE Iran’s Revolutionary Guards said a new maritime restricted zone will extend from Chabahar into parts of the Gulf of Oman and Arabian Sea, with exact coordinates to be announced. The move follows Tehran’…
+- 09/09 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -2.7% (FORECAST -, PREVIOUS 0.8%) $MACRO
+- 09/09 20:00 [FirstSquawk] UKMTO RECEIVED A REPORT OF AN INCIDENT 28 NM SOUTHEAST OF FAW, IRAQ, WHERE A VESSEL WAS HIT BY A PROJECTILE, BUT THE CREW IS SAFE.
+- 09/09 20:00 [FirstSquawk] UKMTO REPORTS NO ENVIRONMENTAL IMPACT AT THIS TIME.
+- 09/09 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 6.85% (FORECAST -, PREVIOUS 6.79%) $MACRO
+- 09/09 20:00 [FirstSquawk] US MBA MORTGAGE APPLICATIONS FELL BY 2.7% ON SEP-04, DOWN FROM 0.8% PREVIOUSLY.
+- 09/09 20:02 [DeItaone] US MORTGAGE DEMAND FALLS AS RATES HIT 6.85% US mortgage applications fell 2.7% last week, according to the Mortgage Bankers Association. Refinancing applications dropped 6.2%, while home-purchase applications slipped 0.2%. The average 30-ye…
+- 09/09 20:04 [DeItaone] IRGC: WE WILL HIT 20 TARGETS FOR EVERY 2 OR 3 STRUCK Iran’s Revolutionary Guards warned they would respond forcefully to further attacks, saying every two or three Iranian targets hit could trigger strikes on 20 enemy targets. The IRGC also…

@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 19:52 JST／対象: 09/09 07:52 〜 09/09 19:52 JST（時刻はすべて日本時間）
+生成: 2026-09-09 20:05 JST／対象: 09/09 08:05 〜 09/09 20:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/09 16:31 | 09/09 19:44 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 201 | 09/09 07:52 | 09/09 19:47 | 19分（16:10→16:29） |
-| financialjuice | 68 | 09/09 07:54 | 09/09 19:50 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 14 | 09/09 16:31 | 09/09 20:04 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 200 | 09/09 08:18 | 09/09 20:00 | 19分（16:10→16:29） |
+| financialjuice | 59 | 09/09 08:06 | 09/09 20:00 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 274 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 268 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 07:52 [FirstSquawk] UKMTO SAYS IT HAS RECEIVED A REPORT INVOLVING A MERCHANT VESSEL IN THE STRAIT OF HORMUZ, WITH THE VESSEL SUBJECT TO INTERACTION AS PART OF ONGOING MILITARY ACTIVITY IN THE REGION
-- 09/09 07:53 [FirstSquawk] WHITE HOUSE SAYS THE U.S. IS EXCLUDING SOME CANADIAN ALCOHOLIC BEVERAGES FROM IMPORTATION, ACCUSING CANADA OF DISCRIMINATING AGAINST U.S. ALCOHOLIC BEVERAGES, AND IS MODIFYING THE SCOPE OF PRODUCTS SUBJECT TO CANADA DUTIES
-- 09/09 07:54 [financialjuice] White House: excluding specific Canadian goods from US imports
-- 09/09 07:54 [financialjuice] White House issues proclamation on barring certain Canadian products from U.S. imports
-- 09/09 07:55 [financialjuice] White House: Trump signs proclamation altering scope of Canadian goods subject to extra motor vehicle tariffs
-- 09/09 07:56 [financialjuice] White House: Certain Canadian alcoholic drinks barred from US imports starting 12:01 a.m. ET September 29, 2026
-- 09/09 07:56 [financialjuice] White House: products subject to import ban in this proclamation imported but not yet entered or withdrawn for consumption prior to Sep
-- 09/09 07:57 [financialjuice] White House: goods imported but not entered for consumption or withdrawn from warehouse before Sept. 29, 2026, will remain subject to 50% tariff
-- 09/09 07:58 [financialjuice] White House: certain Canadian products imported into US to face extra 50% ad valorem duty
-- 09/09 07:59 [FirstSquawk] WHITE HOUSE SAYS IT IS EXCLUDING CERTAIN CANADIAN PRODUCTS FROM IMPORTATION INTO THE UNITED STATES, IN RESPONSE TO WHAT IT CALLS CONTINUED DISCRIMINATION AGAINST U.S. COMMERCE WITH RESPECT TO ALCOHOLIC BEVERAGES, WITH CERTAIN CANADIAN ALCOH…
-- 09/09 07:59 [FirstSquawk] WHITE HOUSE SAYS PRODUCTS IMPORTED, BUT NOT ENTERED FOR CONSUMPTION OR WITHDRAWN FROM WAREHOUSE, PRIOR TO SEPTEMBER 29, 2026 WILL REMAIN SUBJECT TO A 50% TARIFF.
-- 09/09 08:00 [financialjuice] S. KOREAN UNEMPLOYMENT RATE ACTUAL 2.7% (FORECAST 2.8%, PREVIOUS 2.8%) $MACRO
-- 09/09 08:00 [financialjuice] Tankan: Japan manufacturers December gauge estimated at +27, non-manufacturers +27
-- 09/09 08:00 [financialjuice] S. Korea’s August unemployment rate seasonally adjusted 2.7% vs 2.8% in July: data ministry
-- 09/09 08:00 [financialjuice] Tankan: Japan manufacturers index rises to 21 in September from 18 in August
-- 09/09 08:00 [financialjuice] S. Korea August employment up 184,000 year/year vs 108,000 in July: data ministry
 - 09/09 08:06 [financialjuice] Senior Trump administration official: Trump approved series of proclamations on Canada trade measures
 - 09/09 08:07 [financialjuice] Senior Trump administration official: ban on dairy, most alcohol, motorcycles imports from Canada under section 338
 - 09/09 08:08 [financialjuice] Senior Trump administration official: import restrictions on Canadian goods effective in about three weeks
@@ -298,3 +282,13 @@
 - 09/09 19:47 [financialjuice] Iran's IRGC Spokesperson: Maritime restricted area extends from Chabahar into parts of Gulf of Oman and Arabian Sea.
 - 09/09 19:47 [financialjuice] IRGC Spokesperson: Precise coordinates of restricted area will be announced - Fars.
 - 09/09 19:50 [financialjuice] Iran's IRGC Spokesperson: Any ship passing through restricted area of Strait of Hormuz will face sanctions if no coordination with Iran.
+- 09/09 19:57 [financialjuice] UKMTO: Received report of incident 28 NM South East of Iraq's Faw.
+- 09/09 19:57 [DeItaone] PIMCO: HIGH BOND YIELDS CHALLENGE STOCKS PIMCO says bonds are becoming more attractive after global yields climbed to their highest levels in more than a decade. US aggregate bond yields are now around 5%, roughly matching equity earnings y…
+- 09/09 19:58 [DeItaone] IRAN EXPANDS MARITIME RESTRICTED ZONE Iran’s Revolutionary Guards said a new maritime restricted zone will extend from Chabahar into parts of the Gulf of Oman and Arabian Sea, with exact coordinates to be announced. The move follows Tehran’…
+- 09/09 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -2.7% (FORECAST -, PREVIOUS 0.8%) $MACRO
+- 09/09 20:00 [FirstSquawk] UKMTO RECEIVED A REPORT OF AN INCIDENT 28 NM SOUTHEAST OF FAW, IRAQ, WHERE A VESSEL WAS HIT BY A PROJECTILE, BUT THE CREW IS SAFE.
+- 09/09 20:00 [FirstSquawk] UKMTO REPORTS NO ENVIRONMENTAL IMPACT AT THIS TIME.
+- 09/09 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 6.85% (FORECAST -, PREVIOUS 6.79%) $MACRO
+- 09/09 20:00 [FirstSquawk] US MBA MORTGAGE APPLICATIONS FELL BY 2.7% ON SEP-04, DOWN FROM 0.8% PREVIOUSLY.
+- 09/09 20:02 [DeItaone] US MORTGAGE DEMAND FALLS AS RATES HIT 6.85% US mortgage applications fell 2.7% last week, according to the Mortgage Bankers Association. Refinancing applications dropped 6.2%, while home-purchase applications slipped 0.2%. The average 30-ye…
+- 09/09 20:04 [DeItaone] IRGC: WE WILL HIT 20 TARGETS FOR EVERY 2 OR 3 STRUCK Iran’s Revolutionary Guards warned they would respond forcefully to further attacks, saying every two or three Iranian targets hit could trigger strikes on 20 enemy targets. The IRGC also…
