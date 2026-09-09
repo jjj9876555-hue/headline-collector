@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-09 21:24 JST／対象: 09/09 15:24 〜 09/09 21:24 JST（時刻はすべて日本時間）
+生成: 2026-09-09 21:49 JST／対象: 09/09 15:49 〜 09/09 21:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/09 16:31 | 09/09 20:50 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 96 | 09/09 15:27 | 09/09 21:19 | 19分（16:10→16:29） |
+| DeItaone | 20 | 09/09 16:31 | 09/09 21:27 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 88 | 09/09 15:51 | 09/09 21:46 | 19分（16:10→16:29） |
 | financialjuice | 29 | 09/09 17:26 | 09/09 21:20 | 31分（18:32→19:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 140 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 133 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 15:27 [FirstSquawk] Alerts Issued in Khamis Mushait as Saudi Civil Defense Warns of Potential Danger
-- 09/09 15:27 [FirstSquawk] Russia’s Defence Ministry Says Its Forces Struck a Cargo Vessel in the Black Sea
-- 09/09 15:30 [FirstSquawk] Warehouse Belonging to Kyiv Company Manufacturing Unmanned Boats and Drones Hit, Russian Defence Ministry Says
-- 09/09 15:31 [FirstSquawk] Saudi Civil Defense Says Threat Has Now Passed
-- 09/09 15:43 [FirstSquawk] RBA’s Hawkish Comments Have Lit Fuse for September Rate Increase - WSJ
-- 09/09 15:43 [FirstSquawk] RBI Likely Intervening With Dollar Sales to Limit Rupee Weakness
-- 09/09 15:45 [FirstSquawk] FRANCE (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: -0.4% VS 0.1% PREVIOUS;EST 0.2%
-- 09/09 15:45 [FirstSquawk] FRANCE (JUL) INDUSTRIAL PRODUCTION YOY ACTUAL: -0.5% VS -0.1% PREVIOUS;EST 0.4%
-- 09/09 15:46 [FirstSquawk] FRANCE (JUL) MANUFACTURING PRODUCTION MOM ACTUAL: -0.8% VS -1.1% PREVIOUS;EST 0.4%
-- 09/09 15:46 [FirstSquawk] FRANCE (JUL) MANUFACTURING PRODUCTION YOY ACTUAL: -2% VS -1.7% PREVIOUS
-- 09/09 15:47 [FirstSquawk] UK Air Traffic Outage Cause Expected to Be Different From Previous Failures, NATS CEO Rolfe Says
 - 09/09 15:51 [FirstSquawk] Google Plans at Least €13 Billion Investment in Finnish AI Infrastructure Over 2027-2028, Yle Says
 - 09/09 15:58 [FirstSquawk] UK AIRPORTS WARN OF FURTHER TRAVEL DISRUPTION - FT
 - 09/09 16:06 [FirstSquawk] Beijing Unaware of Circumstances Surrounding Note to Philippine Defence Chief, Foreign Ministry Says; Position on South China Sea Arbitration Remains Unchanged
@@ -164,3 +153,7 @@
 - 09/09 21:18 [financialjuice] ❗ Traders boost ECB and BoE rate bets; favor 4 hikes by the end of 2027.
 - 09/09 21:19 [FirstSquawk] OIL PRODUCTS TANKER HERCULES STAR INVOLVED IN INCIDENT AT ANCHORAGE OFF DUBAI, ONE CREW MEMBER KILLED, CHARTERER PENINSULA SAYS
 - 09/09 21:20 [financialjuice] Charterer Peninsula: Oil products tanker Hercules Star involved in incident at anchorage off Dubai; one crew member killed.
+- 09/09 21:27 [DeItaone] AI BOOM DRIVES S&P 500 EARNINGS HIGHER S&P 500 earnings estimates are rising sharply, fueled by AI investment and stronger-than-expected corporate results. About 86% of companies beat analyst expectations, the highest share since 2021. Wall…
+- 09/09 21:35 [FirstSquawk] US 10-YEAR TREASURY YIELDS RISE TO 4.8184%, HIGHEST SINCE NOVEMBER 2023
+- 09/09 21:40 [FirstSquawk] GOLDMAN SACHS CEO: U.S. NEEDS STRONGER GROWTH TO KEEP PACE WITH RISING DEBT Goldman Sachs CEO David Solomon says the U.S. needs consistently higher economic growth to sustain its current levels of government spending and debt. He argues tha…
+- 09/09 21:46 [FirstSquawk] SINGAPORE REFINER ASTER IS SOURCING CRUDE OIL FROM LATIN AMERICA AND WEST AFRICA TO SUBSTITUTE MIDDLE EASTERN SUPPLIES.

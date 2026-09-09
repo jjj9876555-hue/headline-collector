@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-09 21:24 JST／対象: 09/08 21:24 〜 09/09 21:24 JST（時刻はすべて日本時間）
+生成: 2026-09-09 21:49 JST／対象: 09/08 21:49 〜 09/09 21:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/08 22:06 | 09/09 20:50 | ⚠ 658分（05:33→16:31） |
-| FirstSquawk | 429 | 09/08 21:29 | 09/09 21:19 | ⚠ 55分（06:40→07:35） |
-| financialjuice | 265 | 09/08 21:36 | 09/09 21:20 | ⚠ 206分（14:00→17:26） |
+| DeItaone | 30 | 09/08 22:06 | 09/09 21:27 | ⚠ 658分（05:33→16:31） |
+| FirstSquawk | 426 | 09/08 21:54 | 09/09 21:46 | ⚠ 55分（06:40→07:35） |
+| financialjuice | 262 | 09/08 22:00 | 09/09 21:20 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 707 行（統合前 725 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 702 行（統合前 720 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/08 21:29 [FirstSquawk] GOLD MINER SOLIDCORE TO BUY BACK SHARES WORTH UP TO $1.2B
-- 09/08 21:29 [FirstSquawk] EU'S VON DER LEYEN: ALONG WITH NATO SECRETARY GENERAL, I WELCOME AGREEMENT BY MEMBER STATES ON THE DEROGATION FOR UKRAINE TO PURCHASE CRUCIAL PRODUCTS FOR PATRIOT AIR DEFENCE SYSTEMS.
-- 09/08 21:31 [FirstSquawk] AMERICANS HITTING THE ROAD FOR THE LABOR DAY WEEKEND ARE FACING THE HIGHEST GAS PRICES EVER RECORDED FOR THE HOLIDAY, AS DISRUPTIONS TIED TO THE CONFLICT WITH IRAN AND REDUCED TRAFFIC THROUGH THE STRAIT OF HORMUZ CONTINUE TO PUT PRESSURE ON…
-- 09/08 21:31 [FirstSquawk] CANADA'S 20% TARIFFS ON US GOODS LIKE MILK, STEEL AND GOLF CLUBS TAKE EFFECT
-- 09/08 21:36 [financialjuice] ❗ Bank of England to hold bank rate at 3.75% in September, said all 65 economists surveyed - Poll
-- 09/08 21:37 [financialjuice] ❗ Medians show Bank of England to hold bank rate at 3.75% until Q2 2027 - Poll
-- 09/08 21:37 [FirstSquawk] BANK OF ENGLAND TO HOLD BANK RATE AT 3.75% UNTIL Q2 2027, MEDIANS SHOW
-- 09/08 21:46 [financialjuice] EU's Trade Chief Sefcovic: Current situation with China is unsustainable.
-- 09/08 21:47 [FirstSquawk] US TREASURIES ERASE DECLINES; YIELDS EDGE TOWARD SESSION LOWS
 - 09/08 21:54 [FirstSquawk] EUROPE SET TO BUY PATRIOTS FROM US TO SHIELD UKRAINE THIS WINTER – BBG
 - 09/08 21:59 [FirstSquawk] VERIZON, CORNING REACH PARTNERSHIP FOR FIBER: CNBC
 - 09/08 22:00 [financialjuice] Qualcomm reports a multi-generational product pact with Amazon. $QCOM $AMZN
@@ -731,3 +722,7 @@
 - 09/09 21:18 [financialjuice] ❗ Traders boost ECB and BoE rate bets; favor 4 hikes by the end of 2027.
 - 09/09 21:19 [FirstSquawk] OIL PRODUCTS TANKER HERCULES STAR INVOLVED IN INCIDENT AT ANCHORAGE OFF DUBAI, ONE CREW MEMBER KILLED, CHARTERER PENINSULA SAYS
 - 09/09 21:20 [financialjuice] Charterer Peninsula: Oil products tanker Hercules Star involved in incident at anchorage off Dubai; one crew member killed.
+- 09/09 21:27 [DeItaone] AI BOOM DRIVES S&P 500 EARNINGS HIGHER S&P 500 earnings estimates are rising sharply, fueled by AI investment and stronger-than-expected corporate results. About 86% of companies beat analyst expectations, the highest share since 2021. Wall…
+- 09/09 21:35 [FirstSquawk] US 10-YEAR TREASURY YIELDS RISE TO 4.8184%, HIGHEST SINCE NOVEMBER 2023
+- 09/09 21:40 [FirstSquawk] GOLDMAN SACHS CEO: U.S. NEEDS STRONGER GROWTH TO KEEP PACE WITH RISING DEBT Goldman Sachs CEO David Solomon says the U.S. needs consistently higher economic growth to sustain its current levels of government spending and debt. He argues tha…
+- 09/09 21:46 [FirstSquawk] SINGAPORE REFINER ASTER IS SOURCING CRUDE OIL FROM LATIN AMERICA AND WEST AFRICA TO SUBSTITUTE MIDDLE EASTERN SUPPLIES.

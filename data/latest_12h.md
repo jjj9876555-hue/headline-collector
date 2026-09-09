@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-09 21:24 JST／対象: 09/09 09:24 〜 09/09 21:24 JST（時刻はすべて日本時間）
+生成: 2026-09-09 21:49 JST／対象: 09/09 09:49 〜 09/09 21:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/09 16:31 | 09/09 20:50 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 204 | 09/09 09:24 | 09/09 21:19 | 19分（16:10→16:29） |
+| DeItaone | 20 | 09/09 16:31 | 09/09 21:27 | ⚠ 120分（16:31→18:32） |
+| FirstSquawk | 195 | 09/09 09:49 | 09/09 21:46 | 19分（16:10→16:29） |
 | financialjuice | 58 | 09/09 10:00 | 09/09 21:20 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 276 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 268 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 09:24 [FirstSquawk] Chris Pappas Secures Democratic Senate Nomination in New Hampshire, AP Reports
-- 09/09 09:25 [FirstSquawk] China Vows to Deepen Opening-Up, Encourage Global Firms to Expand Presence in Chinese Market
-- 09/09 09:25 [FirstSquawk] Indonesia Motorcycle Sales Climb 3.18% Y/Y in August: Association
-- 09/09 09:29 [FirstSquawk] 10-Year Japanese Government Bond Yield Slips to 2.880%
-- 09/09 09:31 [FirstSquawk] Japanese Investors’ Move Into Domestic Bonds Remains Gradual, Fitch Says
-- 09/09 09:32 [FirstSquawk] U.S. Strikes Iranian Oil Tankers in Response to Tehran’s Attacks on Navy Ships - WSJ
-- 09/09 09:33 [FirstSquawk] Oil Rises as Houthi Militants’ Attack Amplifies Supply-Disruption Fears - WSJ
-- 09/09 09:33 [FirstSquawk] Nikkei Rises 0.1%, Led by Chip-Related Stocks - WSJ
-- 09/09 09:36 [FirstSquawk] Blackstone’s Head of Real Estate Is Leaving the Firm - WSJ
-- 09/09 09:39 [FirstSquawk] Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries - CNBC
-- 09/09 09:42 [FirstSquawk] Penicillin shortage continues in Japan amid high number of syphilis cases - KYODO
-- 09/09 09:45 [FirstSquawk] Maker of world's best sake this year hopes to spread Japanese culture - KYODO
 - 09/09 09:49 [FirstSquawk] Trump said the alcohol ban was in response to Canada's treatment of American alcohol - BusinessInsider
 - 09/09 09:52 [FirstSquawk] SK Hynix Stock Gains 3% in Trading
 - 09/09 09:59 [FirstSquawk] Heavy rain may continue through Thurs. on Pacific side of east, west Japan - KYODO
@@ -300,3 +288,7 @@
 - 09/09 21:18 [financialjuice] ❗ Traders boost ECB and BoE rate bets; favor 4 hikes by the end of 2027.
 - 09/09 21:19 [FirstSquawk] OIL PRODUCTS TANKER HERCULES STAR INVOLVED IN INCIDENT AT ANCHORAGE OFF DUBAI, ONE CREW MEMBER KILLED, CHARTERER PENINSULA SAYS
 - 09/09 21:20 [financialjuice] Charterer Peninsula: Oil products tanker Hercules Star involved in incident at anchorage off Dubai; one crew member killed.
+- 09/09 21:27 [DeItaone] AI BOOM DRIVES S&P 500 EARNINGS HIGHER S&P 500 earnings estimates are rising sharply, fueled by AI investment and stronger-than-expected corporate results. About 86% of companies beat analyst expectations, the highest share since 2021. Wall…
+- 09/09 21:35 [FirstSquawk] US 10-YEAR TREASURY YIELDS RISE TO 4.8184%, HIGHEST SINCE NOVEMBER 2023
+- 09/09 21:40 [FirstSquawk] GOLDMAN SACHS CEO: U.S. NEEDS STRONGER GROWTH TO KEEP PACE WITH RISING DEBT Goldman Sachs CEO David Solomon says the U.S. needs consistently higher economic growth to sustain its current levels of government spending and debt. He argues tha…
+- 09/09 21:46 [FirstSquawk] SINGAPORE REFINER ASTER IS SOURCING CRUDE OIL FROM LATIN AMERICA AND WEST AFRICA TO SUBSTITUTE MIDDLE EASTERN SUPPLIES.
