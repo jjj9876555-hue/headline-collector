@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 22:58 JST／対象: 09/10 16:58 〜 09/10 22:58 JST（時刻はすべて日本時間）
+生成: 2026-09-10 23:17 JST／対象: 09/10 17:17 〜 09/10 23:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/10 17:02 | 09/10 22:36 | 35分（17:30→18:05） |
-| FirstSquawk | 110 | 09/10 17:02 | 09/10 22:48 | 18分（20:15→20:33） |
-| financialjuice | 141 | 09/10 17:00 | 09/10 22:48 | ⚠ 48分（17:04→17:53） |
+| DeItaone | 33 | 09/10 17:27 | 09/10 23:16 | 35分（17:30→18:05） |
+| FirstSquawk | 111 | 09/10 17:19 | 09/10 23:16 | 18分（20:15→20:33） |
+| financialjuice | 148 | 09/10 17:53 | 09/10 23:16 | ⚠ 46分（18:42→19:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 265 行（統合前 284 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 277 行（統合前 297 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 17:00 [financialjuice] ITALIAN INDUSTRIAL PRODUCTION MOM ACTUAL 0.7% (FORECAST 0.3%, PREVIOUS -1.0%) $MACRO
-- 09/10 17:02 [FirstSquawk] ITALY INDUSTRIAL PRODUCTION (M/M) JUL: 0.7% (EST 0.3%; PREV -1.0%)
-- 09/10 17:02 [DeItaone] HUAWEI HIKES AI CHIP PRICES 60% Huawei has reportedly raised the price of its Ascend 950DT AI accelerator by about 60% to $37,300, as booming demand outstrips supply. HBM shortages are adding to costs, while demand for Chinese alternatives …
-- 09/10 17:04 [financialjuice] Anthropic grants EU access to Mythos months after release.
-- 09/10 17:06 [FirstSquawk] AUGUST WAS ONE OF THE HOTTEST MONTHS EVER RECORDED WORLDWIDE, ACCORDING TO EU DATA.
-- 09/10 17:07 [FirstSquawk] ANTHROPIC GRANTS EU ACCESS TO MYTHOS, SEVERAL MONTHS AFTER ITS LAUNCH.
-- 09/10 17:08 [FirstSquawk] BARCLAYS WARNED THAT THE YEN COULD FALL BACK TO THE UPPER 150s PER DOLLAR IF EXPECTATIONS FOR QUICKER BANK OF JAPAN RATE INCREASES AND A MOVE BY PENSION FUNDS TOWARD LOCAL ASSETS DON'T HAPPEN.
-- 09/10 17:12 [FirstSquawk] EU OFFICIAL URGES TECH GIANTS TO INVEST IN CLEAN ENERGY TO SUPPORT DATA CENTER POWER DEMAND AND GREEN TRANSITION.
-- 09/10 17:13 [FirstSquawk] CHINA COMMERCE MINISTRY: EXTENDS PROBE INTO PECAN IMPORTS FROM MEXICO, U.S. - STATEMENT
 - 09/10 17:19 [FirstSquawk] UBS PULLS PLUG ON FUND SALES ON A WEALTH PLATFORM IN CHINA AMID STIFF COMPETITION – SCMP
 - 09/10 17:25 [FirstSquawk] SPOKESPERSON FOR IRAQI ARMED FORCES STATES THAT SEPTEMBER 30 IS THE LAST DATE FOR THE INTERNATIONAL COALITION'S OPERATIONS IN IRAQ.
 - 09/10 17:27 [DeItaone] PUTIN AIDE: EUROPE DOES NOT WANT UKRAINE PEACE Putin aide Nikolay Patrushev claimed Western Europe is not interested in peace in Ukraine or encouraging Kyiv to negotiate. He said the U.S. appears more interested in negotiations, expressing …
@@ -289,3 +280,24 @@
 - 09/10 22:48 [financialjuice] ECB projections assume oil price of $89.5/barrel in 2026, $74 in 2027, and $73.60 in 2028.
 - 09/10 22:48 [FirstSquawk] ECB PROJECTIONS ASSUME OIL PRICE OF $89.5/BARREL IN 2026
 - 09/10 22:48 [FirstSquawk] ECB PROJECTIONS ASSUME OIL PRICE OF $78/BARREL IN 2027
+- 09/10 23:00 [FirstSquawk] US EXISTING HOME SALES (AUG) ACTUAL: 3.98M VS 4.06M PREVIOUS; EST 3.98M
+- 09/10 23:00 [financialjuice] ❗ US EXISTING HOME SALES ACTUAL 3.98M (FORECAST 3.98M, PREVIOUS 4.06M) $MACRO
+- 09/10 23:00 [financialjuice] US EXISTING HOME SALES CHANGE ACTUAL -2% (FORECAST -1.7%, PREVIOUS -1.7%) $MACRO
+- 09/10 23:00 [financialjuice] US WHOLESALE INVENTORIES MOM REVISED ACTUAL 1.3% (FORECAST 1.3%, PREVIOUS 1.3%) $MACRO
+- 09/10 23:00 [DeItaone] *US AUG. EXISTING HOME SALES AT 3.98M; EST. 3.98M *US AUG. EXISTING HOME SALES FALL 2% M/M; PREV. -1.7%
+- 09/10 23:00 [financialjuice] US WHOLESALE SALES MOM ACTUAL 0.8% (FORECAST -, PREVIOUS -3.0%) $MACRO
+- 09/10 23:01 [financialjuice] US Existing Home Sales August Report
+- 09/10 23:01 [FirstSquawk] US EXISTING HOME SUPPLY REACHES 4.9 MONTHS, THE HIGHEST LEVEL SINCE 2015.
+- 09/10 23:04 [DeItaone] MARKETS KALSHI LAUNCHES ‘PERPS’ FOR GOLD AND SILVER FOLLOWING CFTC APPROVAL, EXPANDING FUTURES OFFERINGS- CNBC
+- 09/10 23:05 [FirstSquawk] KALSHI LAUNCHES ‘PERPS’ FOR GOLD AND SILVER FOLLOWING CFTC APPROVAL, EXPANDING FUTURES OFFERINGS - CNBC
+- 09/10 23:09 [FirstSquawk] OPENAI HELD MEETINGS WITH REPRESENTATIVES FROM LEADING ENERGY FIRMS.
+- 09/10 23:09 [FirstSquawk] OPENAI HELD DISCUSSIONS WITH POWER COMPANIES ABOUT SECURING THE GRID, ACCORDING TO POLITICO.
+- 09/10 23:09 [financialjuice] OpenAI discussed securing the grid in talks with power companies - Politico.
+- 09/10 23:10 [DeItaone] WHITE HOUSE: WILL ISSUE $500 OBAMACARE REFUNDS TO NEARLY 1 MILLION AMERICANS
+- 09/10 23:12 [financialjuice] Poll: US 10-year Treasury yield likely to touch 5% within three months according to 55% bond strategists.
+- 09/10 23:13 [financialjuice] Poll: US 10-year Treasury yield to decline to 4.67% in three months, 4.65% in six, and 4.55% in a year (vs 4.50%, 4.50%, and 4.34%, respectively, in the August poll)
+- 09/10 23:13 [FirstSquawk] THUNE WAS ASKED IF SENATE WILL HAVE VOTES TO PASS $5,000 CHECKS
+- 09/10 23:14 [DeItaone] WALL STREET SEES 5% TREASURY YIELD RISK A Reuters poll found 17 of 31 bond strategists see the U.S. 10-year Treasury yield potentially hitting 5% within three months. The 10-year recently reached 4.86%, pressured by $100+ oil, inflation con…
+- 09/10 23:16 [FirstSquawk] TRADERS FULLY PRICE THREE MORE ECB RATE HIKES BY MID-2027
+- 09/10 23:16 [financialjuice] ❗ Traders fully price in three more ECB rate hikes by mid-2027.
+- 09/10 23:16 [DeItaone] *OPENAI SEEKS TO ENSURE MODELS CAN'T HARM GRID SECURITY:POLITICO

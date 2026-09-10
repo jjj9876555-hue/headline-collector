@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 22:58 JST／対象: 09/10 10:58 〜 09/10 22:58 JST（時刻はすべて日本時間）
+生成: 2026-09-10 23:17 JST／対象: 09/10 11:17 〜 09/10 23:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/10 16:41 | 09/10 22:36 | 35分（17:30→18:05） |
-| FirstSquawk | 227 | 09/10 11:02 | 09/10 22:48 | 18分（20:15→20:33） |
-| financialjuice | 173 | 09/10 11:11 | 09/10 22:48 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 36 | 09/10 16:41 | 09/10 23:16 | 35分（17:30→18:05） |
+| FirstSquawk | 226 | 09/10 11:17 | 09/10 23:16 | 18分（20:15→20:33） |
+| financialjuice | 181 | 09/10 12:06 | 09/10 23:16 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 416 行（統合前 435 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 428 行（統合前 448 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 11:02 [FirstSquawk] Trump threatens to strike Mount Fao heavily if Iran resumes or conducts nuclear activity at the location.
-- 09/10 11:04 [FirstSquawk] Hong Kong’s biotech benchmark declines 2% in trading.
-- 09/10 11:07 [FirstSquawk] UBS to end fund sales activities at its China distribution unit in Shenzhen from the end of September.
-- 09/10 11:08 [FirstSquawk] UBS says there is no change to operations at its other wealth management platforms in China.
-- 09/10 11:08 [FirstSquawk] UBS says it will combine its wealth management businesses and resources in the Chinese market.
-- 09/10 11:08 [FirstSquawk] UBS says the Greater Bay Area continues to be one of its main growth markets in China.
-- 09/10 11:09 [FirstSquawk] UBS is exploring opportunities to deepen its wealth management operations in China’s Greater Bay Area.
-- 09/10 11:11 [financialjuice] Trump: if Republicans secure house and senate, I'll issue $5,000 payout to every U.S. adult
-- 09/10 11:11 [FirstSquawk] Trump pledges a $5,000 payment to every U.S. adult if Republicans win the House and Senate.
 - 09/10 11:17 [FirstSquawk] Mastercard launches Wallet Pay to support the global expansion of digital wallet transactions.
 - 09/10 11:21 [FirstSquawk] U.S. regulators grant accelerated approval to Bayer’s sevabertinib as a first-line targeted therapy for HER2-mutated NSCLC.
 - 09/10 11:29 [FirstSquawk] South Korea’s stock market starts lower as higher oil prices and escalating geopolitical tensions pressure risk sentiment.
@@ -440,3 +431,24 @@
 - 09/10 22:48 [financialjuice] ECB projections assume oil price of $89.5/barrel in 2026, $74 in 2027, and $73.60 in 2028.
 - 09/10 22:48 [FirstSquawk] ECB PROJECTIONS ASSUME OIL PRICE OF $89.5/BARREL IN 2026
 - 09/10 22:48 [FirstSquawk] ECB PROJECTIONS ASSUME OIL PRICE OF $78/BARREL IN 2027
+- 09/10 23:00 [FirstSquawk] US EXISTING HOME SALES (AUG) ACTUAL: 3.98M VS 4.06M PREVIOUS; EST 3.98M
+- 09/10 23:00 [financialjuice] ❗ US EXISTING HOME SALES ACTUAL 3.98M (FORECAST 3.98M, PREVIOUS 4.06M) $MACRO
+- 09/10 23:00 [financialjuice] US EXISTING HOME SALES CHANGE ACTUAL -2% (FORECAST -1.7%, PREVIOUS -1.7%) $MACRO
+- 09/10 23:00 [financialjuice] US WHOLESALE INVENTORIES MOM REVISED ACTUAL 1.3% (FORECAST 1.3%, PREVIOUS 1.3%) $MACRO
+- 09/10 23:00 [DeItaone] *US AUG. EXISTING HOME SALES AT 3.98M; EST. 3.98M *US AUG. EXISTING HOME SALES FALL 2% M/M; PREV. -1.7%
+- 09/10 23:00 [financialjuice] US WHOLESALE SALES MOM ACTUAL 0.8% (FORECAST -, PREVIOUS -3.0%) $MACRO
+- 09/10 23:01 [financialjuice] US Existing Home Sales August Report
+- 09/10 23:01 [FirstSquawk] US EXISTING HOME SUPPLY REACHES 4.9 MONTHS, THE HIGHEST LEVEL SINCE 2015.
+- 09/10 23:04 [DeItaone] MARKETS KALSHI LAUNCHES ‘PERPS’ FOR GOLD AND SILVER FOLLOWING CFTC APPROVAL, EXPANDING FUTURES OFFERINGS- CNBC
+- 09/10 23:05 [FirstSquawk] KALSHI LAUNCHES ‘PERPS’ FOR GOLD AND SILVER FOLLOWING CFTC APPROVAL, EXPANDING FUTURES OFFERINGS - CNBC
+- 09/10 23:09 [FirstSquawk] OPENAI HELD MEETINGS WITH REPRESENTATIVES FROM LEADING ENERGY FIRMS.
+- 09/10 23:09 [FirstSquawk] OPENAI HELD DISCUSSIONS WITH POWER COMPANIES ABOUT SECURING THE GRID, ACCORDING TO POLITICO.
+- 09/10 23:09 [financialjuice] OpenAI discussed securing the grid in talks with power companies - Politico.
+- 09/10 23:10 [DeItaone] WHITE HOUSE: WILL ISSUE $500 OBAMACARE REFUNDS TO NEARLY 1 MILLION AMERICANS
+- 09/10 23:12 [financialjuice] Poll: US 10-year Treasury yield likely to touch 5% within three months according to 55% bond strategists.
+- 09/10 23:13 [financialjuice] Poll: US 10-year Treasury yield to decline to 4.67% in three months, 4.65% in six, and 4.55% in a year (vs 4.50%, 4.50%, and 4.34%, respectively, in the August poll)
+- 09/10 23:13 [FirstSquawk] THUNE WAS ASKED IF SENATE WILL HAVE VOTES TO PASS $5,000 CHECKS
+- 09/10 23:14 [DeItaone] WALL STREET SEES 5% TREASURY YIELD RISK A Reuters poll found 17 of 31 bond strategists see the U.S. 10-year Treasury yield potentially hitting 5% within three months. The 10-year recently reached 4.86%, pressured by $100+ oil, inflation con…
+- 09/10 23:16 [FirstSquawk] TRADERS FULLY PRICE THREE MORE ECB RATE HIKES BY MID-2027
+- 09/10 23:16 [financialjuice] ❗ Traders fully price in three more ECB rate hikes by mid-2027.
+- 09/10 23:16 [DeItaone] *OPENAI SEEKS TO ENSURE MODELS CAN'T HARM GRID SECURITY:POLITICO
