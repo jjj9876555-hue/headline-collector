@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 14:43 JST／対象: 09/10 02:43 〜 09/10 14:43 JST（時刻はすべて日本時間）
+生成: 2026-09-10 14:58 JST／対象: 09/10 02:58 〜 09/10 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/10 03:00 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 172 | 09/10 02:47 | 09/10 14:42 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 122 | 09/10 02:54 | 09/10 14:42 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 173 | 09/10 03:00 | 09/10 14:57 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 121 | 09/10 03:03 | 09/10 14:44 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 305 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 306 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 02:47 [FirstSquawk] APPLE HAS UNVEILED THE IPHONE 18 PRO AND IPHONE 18 PRO MAX, WITH THE IPHONE 18 PRO MAX STARTING AT $1,299 AND THE IPHONE 18 PRO STARTING AT $1,199, FEATURING A 48 MP FUSION MAIN CAMERA WITH VARIABLE APERTURE AND A NEW A20 PRO CHIP BASED ON …
-- 09/10 02:47 [FirstSquawk] APPLE SAYS THE A20 CHIP WILL HAVE TWO NEURAL ENGINES WITH 32 CORES TOTAL TO INCREASE ON-DEVICE AI PERFORMANCE, AND ANNOUNCED AN APPLE REFERENCE IMAGE STANDARD TO PROVE THE AUTHENTICITY OF PHOTOS AT THE TIME OF CAPTURE, WHICH WILL NOT BE AVA…
-- 09/10 02:47 [FirstSquawk] APPLE ALSO ANNOUNCED THE APPLE WATCH SERIES 12 AND APPLE WATCH ULTRA 4, ALONGSIDE THE AIRPODS 5 WITH A BASE MODEL STARTING AT $129.
-- 09/10 02:50 [FirstSquawk] APPLE EVENT HIGHLIGHTS • APPLE UNVEILS IPHONE 18 PRO AND IPHONE 18 PRO MAX. • IPHONE 18 PRO STARTS AT $1,199. • IPHONE 18 PRO MAX STARTS AT $1,299. • A20 PRO CHIP BUILT ON 2NM TECHNOLOGY. • A20 PRO FEATURES 7 GPU CORES. • A20 CHIP INCLUDES …
-- 09/10 02:54 [FirstSquawk] BOMBARDIER RECREATIONAL PRODUCTS TO CEASE SHIPPING CANADA-MADE 3-WHEEL VEHICLES TO US, SEES LIMITED IMPACT OF US MEASURES IN FISCAL 2027
-- 09/10 02:54 [financialjuice] Apple announces foldable iPhone $AAPL
-- 09/10 02:55 [financialjuice/FirstSquawk] Russia's Lukoil starts oil output at the Komandirshorskoye field.
-- 09/10 02:55 [FirstSquawk] APPLE HAS ANNOUNCED A FOLDABLE IPHONE, SAYING THE FOLDABLE DESIGN WILL HAVE TWO CAMERAS - EVENT
 - 09/10 03:00 [FirstSquawk] APPLE SAYS THE IPHONE DUO OPENS TO A 7.6-INCH SUPER RETINA XDR DISPLAY THAT IS 50% LARGER THAN THE IPHONE 18 PRO MAX - EVENT
 - 09/10 03:00 [DeItaone] APPLE INC.: SAYS IPHONE DUO WHEN OPEN IS THINNEST IPHONE EVER- EVENT
 - 09/10 03:00 [DeItaone] APPLE: IPHONE DUO OPENS TO A 7.6-INCH SUPER RETINA XDR DISPLAY THAT IS 50% LARGER THAN IPHONE 18 PRO MAX - EVENT
@@ -329,3 +321,12 @@
 - 09/10 14:42 [financialjuice] BoJ's Masu: BoJ's policy rate is still below our estimated range on neutral rate, and has been below that level for a very long time so this needs to be fixed soon.
 - 09/10 14:42 [financialjuice] BoJ's Masu: It is unnatural for BoJ's policy rate to stay below its estimated range of neutral level.
 - 09/10 14:42 [FirstSquawk] BOJ board member Masu says the current rate is unusually low relative to the estimated neutral range.
+- 09/10 14:44 [FirstSquawk] BOJ board member Masu says rising oil and food prices, along with the stronger yen, will be key factors in next week’s rate decision.
+- 09/10 14:44 [financialjuice] BoJ's Masu: Yen is rising while crude oil, global food prices rising so will scrutinize these factors comprehensively at next week's meeting in deciding on rates.
+- 09/10 14:48 [FirstSquawk] BOJ board member Masu says the pace of future rate increases will depend on decisions taken at individual meetings.
+- 09/10 14:50 [FirstSquawk] BOJ board member Masu says inflation has not shown signs of a significant overshoot so far.
+- 09/10 14:50 [FirstSquawk] BOJ board member Masu says current inflation risks are manageable if price trends stay aligned with the July outlook.
+- 09/10 14:51 [FirstSquawk] Military aviation activity prompts temporary closure of Poland’s Lublin and Rzeszów airports, PANSA says.
+- 09/10 14:55 [FirstSquawk] BOJ board member Masu says the central bank will determine policy based on its own assessment, declining to address Bessent’s comments.
+- 09/10 14:56 [FirstSquawk] BOJ board member Masu links the rise in long-term rates to oil prices, global inflation and growing fiscal concerns.
+- 09/10 14:57 [FirstSquawk] BOJ board member Masu says emergency action is available to address unusually sharp moves in Japanese government bonds.

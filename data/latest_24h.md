@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 14:43 JST／対象: 09/09 14:43 〜 09/10 14:43 JST（時刻はすべて日本時間）
+生成: 2026-09-10 14:58 JST／対象: 09/09 14:58 〜 09/10 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 338 | 09/09 14:45 | 09/10 14:42 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 231 | 09/09 17:26 | 09/10 14:42 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 342 | 09/09 14:59 | 09/10 14:57 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 232 | 09/09 17:26 | 09/10 14:44 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 613 行（統合前 626 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 618 行（統合前 631 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 14:45 [FirstSquawk] Flights Resume at London Gatwick Airport, UK Says
-- 09/09 14:48 [FirstSquawk] Gold Advances 1% to $4,394.89 an Ounce in Spot Market
-- 09/09 14:49 [FirstSquawk] Kazakhstan Justice Ministry: Action to Recover Funds From NCOC Consortium Is Continuing
-- 09/09 14:50 [FirstSquawk] Ukrainian Attack on Novorossiysk Kills Four, Governor Says
 - 09/09 14:59 [FirstSquawk] Goldman Sachs Increases Mondi Target to 860p, Up From 780p
 - 09/09 15:00 [FirstSquawk] NORWAY (AUG) PPI INCLUDING OIL MOM ACTUAL: 30.1% VS 23.4% PREVIOUS
 - 09/09 15:01 [FirstSquawk] NORWAY PPI INCLUDING OIL (M/M): 4.7% (PREV 8.9%)
@@ -637,3 +633,12 @@
 - 09/10 14:42 [financialjuice] BoJ's Masu: BoJ's policy rate is still below our estimated range on neutral rate, and has been below that level for a very long time so this needs to be fixed soon.
 - 09/10 14:42 [financialjuice] BoJ's Masu: It is unnatural for BoJ's policy rate to stay below its estimated range of neutral level.
 - 09/10 14:42 [FirstSquawk] BOJ board member Masu says the current rate is unusually low relative to the estimated neutral range.
+- 09/10 14:44 [FirstSquawk] BOJ board member Masu says rising oil and food prices, along with the stronger yen, will be key factors in next week’s rate decision.
+- 09/10 14:44 [financialjuice] BoJ's Masu: Yen is rising while crude oil, global food prices rising so will scrutinize these factors comprehensively at next week's meeting in deciding on rates.
+- 09/10 14:48 [FirstSquawk] BOJ board member Masu says the pace of future rate increases will depend on decisions taken at individual meetings.
+- 09/10 14:50 [FirstSquawk] BOJ board member Masu says inflation has not shown signs of a significant overshoot so far.
+- 09/10 14:50 [FirstSquawk] BOJ board member Masu says current inflation risks are manageable if price trends stay aligned with the July outlook.
+- 09/10 14:51 [FirstSquawk] Military aviation activity prompts temporary closure of Poland’s Lublin and Rzeszów airports, PANSA says.
+- 09/10 14:55 [FirstSquawk] BOJ board member Masu says the central bank will determine policy based on its own assessment, declining to address Bessent’s comments.
+- 09/10 14:56 [FirstSquawk] BOJ board member Masu links the rise in long-term rates to oil prices, global inflation and growing fiscal concerns.
+- 09/10 14:57 [FirstSquawk] BOJ board member Masu says emergency action is available to address unusually sharp moves in Japanese government bonds.

@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 14:43 JST／対象: 09/10 08:43 〜 09/10 14:43 JST（時刻はすべて日本時間）
+生成: 2026-09-10 14:58 JST／対象: 09/10 08:58 〜 09/10 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 114 | 09/10 09:05 | 09/10 14:42 | 14分（14:01→14:15） |
-| financialjuice | 57 | 09/10 08:50 | 09/10 14:42 | ⚠ 55分（11:11→12:06） |
+| FirstSquawk | 122 | 09/10 09:05 | 09/10 14:57 | 14分（14:01→14:15） |
+| financialjuice | 54 | 09/10 09:00 | 09/10 14:44 | ⚠ 55分（11:11→12:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 171 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 176 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL 690.0B (FORECAST -, PREVIOUS 35.8B ,REVISION 35.9B) $MACRO
-- 09/10 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL 111.9B (FORECAST -, PREVIOUS -824.0B) $MACRO
-- 09/10 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL -481.6B (FORECAST -, PREVIOUS 35.8B) $MACRO
-- 09/10 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 449.6B (FORECAST -, PREVIOUS 509.1B) $MACRO
 - 09/10 09:00 [financialjuice] Nvidia boosts AI infrastructure capacity through partnership with Australia’s data center network
 - 09/10 09:02 [financialjuice] Nvidia to back up to 2-gigawatt AI infrastructure expansion in Australia by 2027
 - 09/10 09:05 [FirstSquawk] GULF DEVELOPMENT AND SINGTEL FORM A STRATEGIC PARTNERSHIP TO BUILD NEW SUBMARINE CABLE CONNECTIVITY BETWEEN THAILAND AND SINGAPORE, STRENGTHENING REGIONAL DIGITAL INFRASTRUCTURE. THE PARTNERSHIP AIMS TO ENHANCE THAILAND-SINGAPORE SUBMARINE …
@@ -195,3 +191,12 @@
 - 09/10 14:42 [financialjuice] BoJ's Masu: BoJ's policy rate is still below our estimated range on neutral rate, and has been below that level for a very long time so this needs to be fixed soon.
 - 09/10 14:42 [financialjuice] BoJ's Masu: It is unnatural for BoJ's policy rate to stay below its estimated range of neutral level.
 - 09/10 14:42 [FirstSquawk] BOJ board member Masu says the current rate is unusually low relative to the estimated neutral range.
+- 09/10 14:44 [FirstSquawk] BOJ board member Masu says rising oil and food prices, along with the stronger yen, will be key factors in next week’s rate decision.
+- 09/10 14:44 [financialjuice] BoJ's Masu: Yen is rising while crude oil, global food prices rising so will scrutinize these factors comprehensively at next week's meeting in deciding on rates.
+- 09/10 14:48 [FirstSquawk] BOJ board member Masu says the pace of future rate increases will depend on decisions taken at individual meetings.
+- 09/10 14:50 [FirstSquawk] BOJ board member Masu says inflation has not shown signs of a significant overshoot so far.
+- 09/10 14:50 [FirstSquawk] BOJ board member Masu says current inflation risks are manageable if price trends stay aligned with the July outlook.
+- 09/10 14:51 [FirstSquawk] Military aviation activity prompts temporary closure of Poland’s Lublin and Rzeszów airports, PANSA says.
+- 09/10 14:55 [FirstSquawk] BOJ board member Masu says the central bank will determine policy based on its own assessment, declining to address Bessent’s comments.
+- 09/10 14:56 [FirstSquawk] BOJ board member Masu links the rise in long-term rates to oil prices, global inflation and growing fiscal concerns.
+- 09/10 14:57 [FirstSquawk] BOJ board member Masu says emergency action is available to address unusually sharp moves in Japanese government bonds.
