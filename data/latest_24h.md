@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 20:51 JST／対象: 09/09 20:51 〜 09/10 20:51 JST（時刻はすべて日本時間）
+生成: 2026-09-10 21:03 JST／対象: 09/09 21:03 〜 09/10 21:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 55 | 09/09 21:27 | 09/10 20:48 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 343 | 09/09 20:51 | 09/10 20:43 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 236 | 09/09 21:00 | 09/10 20:42 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 56 | 09/09 21:27 | 09/10 20:59 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 344 | 09/09 21:09 | 09/10 21:01 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 242 | 09/09 21:04 | 09/10 21:02 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 620 行（統合前 636 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 628 行（統合前 644 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 20:51 [FirstSquawk] COMPANIES ARE INCREASING BOND MARKET BORROWING, RAISING OVER $70 BILLION ON TUESDAY, THE BUSIEST SESSION SINCE JUNE.
-- 09/09 21:00 [financialjuice] Secured overnight financing rate: 3.64% on September 8th vs 3.65% on September 4th
-- 09/09 21:02 [FirstSquawk] IRAQ CONFIRMS TANKER CARRIED FUEL OIL AND REPORTS NO LEAKS.
-- 09/09 21:02 [financialjuice] Iraq: Panama-flagged tanker hit in its waters. The tanker was carrying fuel oil; no leaks.
 - 09/09 21:04 [financialjuice] Morning Juice - US Session Prep (9th September)
 - 09/09 21:09 [FirstSquawk] JPMORGAN'S DIMON TO DISCUSS BANK TAXES WITH UK CHANCELLOR.
 - 09/09 21:11 [FirstSquawk] LYFT BEGINS WAYMO ROBOTAXI RIDES IN NASHVILLE, THE SECOND CITY IN THE US TO OFFER DRIVERLESS RIDES.
@@ -644,3 +640,15 @@
 - 09/10 20:42 [financialjuice/FirstSquawk] IAEA sees evidence of activity by Iran's Pickaxe Mountain.
 - 09/10 20:46 [DeItaone] US, IRAN PREPARE FOR PROTRACTED WAR Iran and the U.S. are reportedly preparing for a potentially prolonged conflict, with little sign of an imminent ceasefire or normalization of Middle East energy flows. Bloomberg reports Tehran remains co…
 - 09/10 20:48 [DeItaone] HOUTHIS CLOSE IN ON KEY RED SEA CHOKEPOINT Iran-aligned Houthis have seized Yemen’s port city of Mocha and are pushing toward Dhubab and the Bab el-Mandeb Strait, according to Reuters sources. Control of the strategic waterway could allow t…
+- 09/10 20:54 [FirstSquawk] STELLANTIS OPEL COMBO START IS NOW AVAILABLE TO ORDER AT PRICE STARTING FROM €22,400
+- 09/10 20:56 [FirstSquawk] UK 10-YEAR YIELD ADVANCES 3BPS TO 5.29%, HIGHEST SINCE 2007
+- 09/10 20:59 [DeItaone] TRUMP TOUTS “SOLD OUT” GOP MIDTERM CONVENTION President Donald Trump claimed the Republican Midterm Convention in Dallas drew record attendance and stronger overall viewership than the NFL. Trump said thousands were unable to enter the pack…
+- 09/10 21:00 [financialjuice] Secured Overnight Financing Rate 3.64% Sept. 9th vs 3.64% Sept. 8th
+- 09/10 21:00 [financialjuice] ❗ Saudis tell OPEC that output slumped again to lowest since 1990.
+- 09/10 21:01 [financialjuice] Russia's oil production down by 160,000 BPD in August from July to 8.718 million bpd, OPEC data shows.
+- 09/10 21:01 [financialjuice] OPEC raises 2027 global oil demand growth forecast to 2.36 million bpd vs prev. forecast 2.16 million bpd.
+- 09/10 21:01 [financialjuice] OPEC: OPEC+ crude output (including former member UAE) averaged 38.05 million BPD in August 2026, up about 300,000 BPD from July.
+- 09/10 21:01 [financialjuice] OPEC cuts 2026 global oil demand growth forecast to 380,000 barrels per day vs prev. forecast 580,000 bpd.
+- 09/10 21:01 [FirstSquawk] SAUDI ARABIA HAS INFORMED OPEC THAT OIL PRODUCTION DROPPED AGAIN, REACHING THE LOWEST LEVEL SINCE 1990.
+- 09/10 21:02 [financialjuice] IBM and NASA release AI model to support lunar exploration. $IBM
+- 09/10 21:02 [financialjuice] OPEC Monthly Report

@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 20:51 JST／対象: 09/10 08:51 〜 09/10 20:51 JST（時刻はすべて日本時間）
+生成: 2026-09-10 21:03 JST／対象: 09/10 09:03 〜 09/10 21:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/10 16:41 | 09/10 20:48 | 35分（17:30→18:05） |
-| FirstSquawk | 218 | 09/10 09:05 | 09/10 20:43 | 18分（20:15→20:33） |
-| financialjuice | 81 | 09/10 08:51 | 09/10 20:42 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 20 | 09/10 16:41 | 09/10 20:59 | 35分（17:30→18:05） |
+| FirstSquawk | 221 | 09/10 09:05 | 09/10 21:01 | 18分（20:15→20:33） |
+| financialjuice | 85 | 09/10 09:20 | 09/10 21:02 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 311 行（統合前 319 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 319 行（統合前 327 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL -481.6B (FORECAST -, PREVIOUS 35.8B) $MACRO
-- 09/10 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 449.6B (FORECAST -, PREVIOUS 509.1B) $MACRO
-- 09/10 09:00 [financialjuice] Nvidia boosts AI infrastructure capacity through partnership with Australia’s data center network
-- 09/10 09:02 [financialjuice] Nvidia to back up to 2-gigawatt AI infrastructure expansion in Australia by 2027
 - 09/10 09:05 [FirstSquawk] GULF DEVELOPMENT AND SINGTEL FORM A STRATEGIC PARTNERSHIP TO BUILD NEW SUBMARINE CABLE CONNECTIVITY BETWEEN THAILAND AND SINGAPORE, STRENGTHENING REGIONAL DIGITAL INFRASTRUCTURE. THE PARTNERSHIP AIMS TO ENHANCE THAILAND-SINGAPORE SUBMARINE …
 - 09/10 09:11 [FirstSquawk] Up to 1 million Obamacare enrollees could receive $500 rebate checks under a Trump administration plan targeting people it says were overcharged, per Axios.
 - 09/10 09:17 [FirstSquawk] BESSENT’S EXPANDED TREASURY BUYBACK DISAPPOINTS MARKETS AS A SMALLER-THAN-EXPECTED OPERATION HELPS PUSH THE 10-YEAR YIELD TO ITS HIGHEST LEVEL SINCE 2023 DESPITE STRONG AUCTION DEMAND.
@@ -335,3 +331,15 @@
 - 09/10 20:42 [financialjuice/FirstSquawk] IAEA sees evidence of activity by Iran's Pickaxe Mountain.
 - 09/10 20:46 [DeItaone] US, IRAN PREPARE FOR PROTRACTED WAR Iran and the U.S. are reportedly preparing for a potentially prolonged conflict, with little sign of an imminent ceasefire or normalization of Middle East energy flows. Bloomberg reports Tehran remains co…
 - 09/10 20:48 [DeItaone] HOUTHIS CLOSE IN ON KEY RED SEA CHOKEPOINT Iran-aligned Houthis have seized Yemen’s port city of Mocha and are pushing toward Dhubab and the Bab el-Mandeb Strait, according to Reuters sources. Control of the strategic waterway could allow t…
+- 09/10 20:54 [FirstSquawk] STELLANTIS OPEL COMBO START IS NOW AVAILABLE TO ORDER AT PRICE STARTING FROM €22,400
+- 09/10 20:56 [FirstSquawk] UK 10-YEAR YIELD ADVANCES 3BPS TO 5.29%, HIGHEST SINCE 2007
+- 09/10 20:59 [DeItaone] TRUMP TOUTS “SOLD OUT” GOP MIDTERM CONVENTION President Donald Trump claimed the Republican Midterm Convention in Dallas drew record attendance and stronger overall viewership than the NFL. Trump said thousands were unable to enter the pack…
+- 09/10 21:00 [financialjuice] Secured Overnight Financing Rate 3.64% Sept. 9th vs 3.64% Sept. 8th
+- 09/10 21:00 [financialjuice] ❗ Saudis tell OPEC that output slumped again to lowest since 1990.
+- 09/10 21:01 [financialjuice] Russia's oil production down by 160,000 BPD in August from July to 8.718 million bpd, OPEC data shows.
+- 09/10 21:01 [financialjuice] OPEC raises 2027 global oil demand growth forecast to 2.36 million bpd vs prev. forecast 2.16 million bpd.
+- 09/10 21:01 [financialjuice] OPEC: OPEC+ crude output (including former member UAE) averaged 38.05 million BPD in August 2026, up about 300,000 BPD from July.
+- 09/10 21:01 [financialjuice] OPEC cuts 2026 global oil demand growth forecast to 380,000 barrels per day vs prev. forecast 580,000 bpd.
+- 09/10 21:01 [FirstSquawk] SAUDI ARABIA HAS INFORMED OPEC THAT OIL PRODUCTION DROPPED AGAIN, REACHING THE LOWEST LEVEL SINCE 1990.
+- 09/10 21:02 [financialjuice] IBM and NASA release AI model to support lunar exploration. $IBM
+- 09/10 21:02 [financialjuice] OPEC Monthly Report
