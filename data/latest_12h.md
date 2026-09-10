@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 01:25 JST／対象: 09/10 13:25 〜 09/11 01:25 JST（時刻はすべて日本時間）
+生成: 2026-09-11 01:43 JST／対象: 09/10 13:43 〜 09/11 01:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 39 | 09/10 16:41 | 09/10 23:45 | 35分（17:30→18:05） |
-| FirstSquawk | 216 | 09/10 13:26 | 09/11 01:13 | 26分（00:31→00:58） |
-| financialjuice | 209 | 09/10 13:30 | 09/11 01:25 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 41 | 09/10 16:41 | 09/11 01:36 | ⚠ 108分（23:45→01:33） |
+| FirstSquawk | 218 | 09/10 13:45 | 09/11 01:41 | 26分（00:31→00:58） |
+| financialjuice | 212 | 09/10 13:47 | 09/11 01:37 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 448 行（統合前 469 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 455 行（統合前 476 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 13:26 [FirstSquawk] Artificial intelligence is expected to support U.S. economic growth, but could also threaten knowledge-worker employment and weigh on wages.
-- 09/10 13:30 [financialjuice] Dutch July manufacturing output rises 1.6% m/m: CBS
-- 09/10 13:32 [FirstSquawk] Malaysia’s palm oil inventories climb to 2.82 million tonnes in August, up 7.48% from July, according to MPOB.
-- 09/10 13:34 [FirstSquawk] Malaysia’s crude palm oil output increased 1.39% M/M to 1.82 million tons in August, according to MPOB.
 - 09/10 13:45 [FirstSquawk] Trump offers $5,000 to every US adult if Republicans secure victory in the November midterm elections.
 - 09/10 13:47 [FirstSquawk] Four killed after Russian air strikes hit Ukraine’s port of Mykolaiv, official says.
 - 09/10 13:47 [financialjuice] Russian air strikes hit Ukraine's Mykolaiv port, kill four: official
@@ -472,3 +468,14 @@
 - 09/11 01:13 [FirstSquawk] CENTCOM: A U.S. NAVY MH-60R SEA HAWK HELICOPTER LAUNCHES FROM THE FLIGHT DECK OF USS RAFAEL PERALTA (DDG 115) WHILE ENFORCING THE U.S. BLOCKADE AGAINST IRAN. AS OF SEPT. 10, U.S. FORCES HAVE REDIRECTED 96 COMMERCIAL VESSELS TO ENSURE TOTAL …
 - 09/11 01:13 [financialjuice] China Pauses New Battery Projects Pending Capacity Review - Caixin.
 - 09/11 01:25 [financialjuice] Nvidia's CEO Huang: Investments are not circular. $NVDA
+- 09/11 01:33 [DeItaone] PENTAGON REJECTS AI “DOOMSDAY” WARNINGS Pentagon tech chief Emil Michael pushed back on warnings that AI could destroy humanity, calling fears of mass job losses and runaway AI part of a growing “doom loop.” Meanwhile, the Pentagon has alre…
+- 09/11 01:35 [financialjuice] ❗ Iran has resumed producing ballistic missiles - US and Middle East Officials cited by the WSJ
+- 09/11 01:35 [financialjuice] Iran producing ballistic missiles again - WSJ.
+- 09/11 01:36 [FirstSquawk] IRAN IS AGAIN MANUFACTURING BALLISTIC MISSILES, REVEALS WSJ.
+- 09/11 01:36 [FirstSquawk] IRAN IS PRODUCING NEW MISSILES IN SMALL NUMBERS, REPORTS WSJ.
+- 09/11 01:36 [DeItaone] U.S. AND MIDDLE EAST OFFICIALS SAID IRAN HAS RESUMED PRODUCING BALLISTIC MISSILES IN UNDERGROUND FACILITIES USING STOCKPILED COMPONENTS- WSJ
+- 09/11 01:36 [FirstSquawk] IRAN IS MANUFACTURING MISSILES USING COMPONENTS THEY HAD STORED, ACCORDING TO WSJ.
+- 09/11 01:36 [financialjuice] US and Middle East Officials: Iran Has resumed producing ballistic missiles in underground facilities using stockpiled components - WSJ.
+- 09/11 01:37 [financialjuice] Arab and Israeli officials are bracing for continued fighting - WSJ.
+- 09/11 01:41 [FirstSquawk] MACY'S WILL REINVEST $96 MILLION FROM TARIFF REFUNDS INTO ITS OPERATIONS, SAYS WSJ.
+- 09/11 01:41 [FirstSquawk] MACY'S WILL REDUCE PRICES ON FURNITURE AND JEWELRY DUE TO TARIFF EFFECTS, ACCORDING TO WSJ.
