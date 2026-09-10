@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 10:59 JST／対象: 09/10 04:59 〜 09/10 10:59 JST（時刻はすべて日本時間）
+生成: 2026-09-10 11:19 JST／対象: 09/10 05:19 〜 09/10 11:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/10 05:08 | 09/10 06:22 | ⚠ 60分（05:08→06:08） |
-| FirstSquawk | 75 | 09/10 05:02 | 09/10 10:58 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 68 | 09/10 05:14 | 09/10 10:50 | ⚠ 59分（07:00→08:00） |
+| DeItaone | 3 | 09/10 06:08 | 09/10 06:22 | 6分（06:08→06:15） |
+| FirstSquawk | 76 | 09/10 05:20 | 09/10 11:17 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 67 | 09/10 05:27 | 09/10 11:11 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 146 行（統合前 148 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 145 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 05:02 [FirstSquawk] DOW JONES UNOFFICIALLY CLOSES DOWN 387.40 POINTS, OR 0.73%, AT 52,398.67.
-- 09/10 05:02 [FirstSquawk] S&P 500 UNOFFICIALLY CLOSES DOWN 37.71 POINTS, OR 0.49%, AT 7,635.81.
-- 09/10 05:03 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 175.92 POINTS, OR 0.67%, AT 26,245.49.
-- 09/10 05:06 [FirstSquawk] HUACHEN AI PARKING MANAGEMENT TECHNOLOGY SIGNS A STRATEGIC COOPERATION AGREEMENT WITH BEYINDA TO EXPAND ITS PRECISION METAL COMPONENTS BUSINESS IN CHINA.
-- 09/10 05:06 [FirstSquawk] HUACHEN AI PARKING MANAGEMENT TECHNOLOGY: PARTNERSHIP IS AIMED AT STRENGTHENING HUACHEN AI’S PRESENCE IN CHINA’S PRECISION METAL COMPONENTS MARKET THROUGH EXPANDED BUSINESS COOPERATION.
-- 09/10 05:07 [FirstSquawk] VENEZUELAN OPPOSITION-BACKED BOARDS EXPECTED TO STOP OVERSEEING US REFINER CITGO PETROLEUM AS EARLY AS THIS MONTH, SOURCES SAY.
-- 09/10 05:08 [DeItaone] SEAHAWKS HOLD THE EDGE 🏈 Seattle has the edge heading into kickoff. SEA 61% — NE 39% with more than $12M in volume on the market. Plenty of conviction behind Seattle, but the Patriots are still very much in the conversation. Should be an in…
-- 09/10 05:11 [FirstSquawk] MOTOROLA SOLUTIONS’ BOARD APPROVES A $2 BILLION INCREASE TO ITS SHARE REPURCHASE PROGRAM, BOOSTING THE COMPANY’S AUTHORIZATION TO BUY BACK ITS OWN STOCK.
-- 09/10 05:11 [FirstSquawk] MOTOROLA SOLUTIONS: MOVE SIGNALS CONFIDENCE IN THE COMPANY’S FINANCIAL POSITION AND PROVIDES ADDITIONAL SUPPORT FOR SHAREHOLDERS THROUGH CAPITAL RETURNS.
-- 09/10 05:14 [financialjuice] As oil rises and Treasury plan yields rise, stocks decline – US Market Wrap
-- 09/10 05:15 [financialjuice] US August budget deficit $168b - CBO Estimate.
 - 09/10 05:20 [FirstSquawk] ENBRIDGE AGREES TO ACQUIRE TALLGRASS’ CRUDE TRANSPORTATION BUSINESS FOR $2.55 BILLION CASH, INCLUDING 75% OF PONY EXPRESS, 51% OF POWDER RIVER GATEWAY AND 8.4 MILLION BARRELS OF STORAGE CAPACITY. THE DEAL IS EXPECTED TO BOOST DISTRIBUTABLE …
 - 09/10 05:27 [financialjuice] US Energy Secretary Wright: Refining is a bigger problem than oil now.
 - 09/10 05:28 [FirstSquawk] GLOBAL STOCKS AND BONDS COME UNDER PRESSURE AS BRENT CRUDE TOPS $101 AMID ESCALATING US-IRAN TENSIONS, WITH THE S&P 500 FALLING 0.5%, NASDAQ 100 DOWN 0.3% AND DOW SLIDING 0.8%, WHILE THE 10-YEAR TREASURY YIELD JUMPS TO 4.84%.
@@ -170,3 +159,13 @@
 - 09/10 10:50 [FirstSquawk] Spread between China’s and the U.S.’s 10-year government bond yields hits an all-time high of 316.7 basis points.
 - 09/10 10:52 [FirstSquawk] Australia’s September consumer inflation expectations stay at 4.9%, matching the previous month.
 - 09/10 10:58 [FirstSquawk] SK Group chief to visit AI data center under construction in Ulsan - yonhap
+- 09/10 11:02 [FirstSquawk] Trump threatens to strike Mount Fao heavily if Iran resumes or conducts nuclear activity at the location.
+- 09/10 11:04 [FirstSquawk] Hong Kong’s biotech benchmark declines 2% in trading.
+- 09/10 11:07 [FirstSquawk] UBS to end fund sales activities at its China distribution unit in Shenzhen from the end of September.
+- 09/10 11:08 [FirstSquawk] UBS says there is no change to operations at its other wealth management platforms in China.
+- 09/10 11:08 [FirstSquawk] UBS says it will combine its wealth management businesses and resources in the Chinese market.
+- 09/10 11:08 [FirstSquawk] UBS says the Greater Bay Area continues to be one of its main growth markets in China.
+- 09/10 11:09 [FirstSquawk] UBS is exploring opportunities to deepen its wealth management operations in China’s Greater Bay Area.
+- 09/10 11:11 [financialjuice] Trump: if Republicans secure house and senate, I'll issue $5,000 payout to every U.S. adult
+- 09/10 11:11 [FirstSquawk] Trump pledges a $5,000 payment to every U.S. adult if Republicans win the House and Senate.
+- 09/10 11:17 [FirstSquawk] Mastercard launches Wallet Pay to support the global expansion of digital wallet transactions.

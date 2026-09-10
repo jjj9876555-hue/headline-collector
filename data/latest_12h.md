@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 10:59 JST／対象: 09/09 22:59 〜 09/10 10:59 JST（時刻はすべて日本時間）
+生成: 2026-09-10 11:19 JST／対象: 09/09 23:19 〜 09/10 11:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 09/09 23:16 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 155 | 09/09 23:03 | 09/10 10:58 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 156 | 09/09 23:16 | 09/10 10:50 | ⚠ 59分（07:00→08:00） |
+| DeItaone | 31 | 09/10 01:05 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
+| FirstSquawk | 162 | 09/09 23:23 | 09/10 11:17 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 154 | 09/09 23:26 | 09/10 11:11 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 337 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 341 行（統合前 349 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 23:03 [FirstSquawk] SAUDI-LED COALITION WARPLANES CARRIED OUT 4 AIRSTRIKES IN SAADA, YEMEN - TASNIM
-- 09/09 23:04 [FirstSquawk] YEMENI SOURCES REPORT SAUDI-BACKED GOVERNMENT'S DEFENSE MINISTER FLEES AND GOES INTO HIDING - MEHR NEWS
-- 09/09 23:16 [DeItaone] BREAKING: Call option notional open interest on the Brazil ETF, $EWZ, has surged to a record $20 billion this week. This figure has nearly doubled over the last several weeks. As a result, total $EWZ call open interest exceeded 5 million co…
-- 09/09 23:16 [financialjuice] Fire broke out at energy facility in Yamal after attack - TASS
-- 09/09 23:17 [financialjuice] Crypto Fear & Greed Index: 66/100 - Greed
-- 09/09 23:17 [financialjuice] Fear and Greed Index: 42/100 = Fear
 - 09/09 23:23 [FirstSquawk] EUROPEAN GAS PRICES HAVE INCREASED ABOVE €80 PER MWH FOR THE FIRST TIME IN 2023.
 - 09/09 23:23 [FirstSquawk] WELLS FARGO CEO CHARLES SCHARF SAYS SOME ASPECTS OF THE CLARITY BILL COULD HEIGHTEN SYSTEM SAFETY RISKS.
 - 09/09 23:26 [financialjuice] Saudi: Alert issued for potential danger in Khamis Mushait.
@@ -361,3 +355,13 @@
 - 09/10 10:50 [FirstSquawk] Spread between China’s and the U.S.’s 10-year government bond yields hits an all-time high of 316.7 basis points.
 - 09/10 10:52 [FirstSquawk] Australia’s September consumer inflation expectations stay at 4.9%, matching the previous month.
 - 09/10 10:58 [FirstSquawk] SK Group chief to visit AI data center under construction in Ulsan - yonhap
+- 09/10 11:02 [FirstSquawk] Trump threatens to strike Mount Fao heavily if Iran resumes or conducts nuclear activity at the location.
+- 09/10 11:04 [FirstSquawk] Hong Kong’s biotech benchmark declines 2% in trading.
+- 09/10 11:07 [FirstSquawk] UBS to end fund sales activities at its China distribution unit in Shenzhen from the end of September.
+- 09/10 11:08 [FirstSquawk] UBS says there is no change to operations at its other wealth management platforms in China.
+- 09/10 11:08 [FirstSquawk] UBS says it will combine its wealth management businesses and resources in the Chinese market.
+- 09/10 11:08 [FirstSquawk] UBS says the Greater Bay Area continues to be one of its main growth markets in China.
+- 09/10 11:09 [FirstSquawk] UBS is exploring opportunities to deepen its wealth management operations in China’s Greater Bay Area.
+- 09/10 11:11 [financialjuice] Trump: if Republicans secure house and senate, I'll issue $5,000 payout to every U.S. adult
+- 09/10 11:11 [FirstSquawk] Trump pledges a $5,000 payment to every U.S. adult if Republicans win the House and Senate.
+- 09/10 11:17 [FirstSquawk] Mastercard launches Wallet Pay to support the global expansion of digital wallet transactions.
