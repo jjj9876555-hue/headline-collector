@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 08:30 JST／対象: 09/10 08:30 〜 09/11 08:30 JST（時刻はすべて日本時間）
+生成: 2026-09-11 08:42 JST／対象: 09/10 08:42 〜 09/11 08:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 09/10 16:41 | 09/11 07:31 | ⚠ 175分（03:41→06:36） |
+| DeItaone | 57 | 09/10 16:41 | 09/11 08:41 | ⚠ 175分（03:41→06:36） |
 | FirstSquawk | 386 | 09/10 09:05 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
-| financialjuice | 316 | 09/10 08:31 | 09/11 08:01 | ⚠ 119分（15:00→17:00） |
+| financialjuice | 314 | 09/10 08:50 | 09/11 08:01 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 734 行（統合前 763 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 735 行（統合前 764 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 08:31 [financialjuice] OpenAI: pushing for compulsory national AI safety regulations
-- 09/10 08:32 [financialjuice] OpenAI: backing four California bills
 - 09/10 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL 690.0B (FORECAST -, PREVIOUS 35.8B ,REVISION 35.9B) $MACRO
 - 09/10 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL 111.9B (FORECAST -, PREVIOUS -824.0B) $MACRO
 - 09/10 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL -481.6B (FORECAST -, PREVIOUS 35.8B) $MACRO
@@ -758,3 +756,6 @@
 - 09/11 07:38 [FirstSquawk] US TREASURY SECRETARY SCOTT BESSENT SAYS THE TREASURY MARKET IS IN VERY GOOD SHAPE AND EXPECTS THE U.S. ECONOMY TO MOVE PAST THE CURRENT ENERGY SUPPLY SHOCK, ADDING THAT THE U.S. HAS THE BEST-PERFORMING BOND MARKET GLOBALLY.
 - 09/11 07:38 [FirstSquawk] BESSENT SAYS THE TREASURY IS PLANNING TO SANCTION A LARGE BANK ON MONDAY, SIGNALING FURTHER PRESSURE ON THE FINANCIAL SECTOR.
 - 09/11 08:01 [financialjuice] Meta declares quarterly cash dividend of $0.53 per share payable Sept. 28, 2026
+- 09/11 08:32 [DeItaone] *TRUMP: MAYBE I DON'T GO FULL INTO IRAN BECAUSE OF ELECTION
+- 09/11 08:39 [DeItaone] U.S. DIESEL BREAKS $6 FOR FIRST TIME EVER The U.S. average diesel price surpassed $6 a gallon for the first time, according to GasBuddy, up nearly 60% since the Iran war began. Supply remains extremely tight, with U.S. diesel inventories 13…
+- 09/11 08:41 [DeItaone] APPLE’S $1,999 FOLDABLE FACES DEMAND TEST Apple’s new iPhone Duo starts at $1,999, but analysts question whether its appeal can extend beyond wealthy early adopters. Counterpoint still expects Apple to sell nearly 6 million units by year-en…

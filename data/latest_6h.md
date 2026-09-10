@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 08:30 JST／対象: 09/11 02:30 〜 09/11 08:30 JST（時刻はすべて日本時間）
+生成: 2026-09-11 08:42 JST／対象: 09/11 02:42 〜 09/11 08:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/11 02:44 | 09/11 07:31 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 66 | 09/11 02:32 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
+| DeItaone | 9 | 09/11 02:44 | 09/11 08:41 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 59 | 09/11 02:44 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
 | financialjuice | 47 | 09/11 02:42 | 09/11 08:01 | 39分（05:24→06:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 113 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 109 行（統合前 116 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 02:32 [FirstSquawk] OPENAI HAS LAUNCHED CHATGPT FOR FINANCIAL SERVICES WITH GPT-6 ASTRA REASONING, DEVELOPED THROUGH A PARTNERSHIP WITH MORGAN STANLEY AND EVERCORE.
-- 09/11 02:32 [FirstSquawk] OPENAI SAYS IT IS WORKING WITH FACTSET, S&P GLOBAL, PREQIN AND DATASITE ON SHARED SIGN-IN AND ENTITLEMENT INTEGRATIONS FOR CHATGPT FOR FINANCIAL SERVICES.
-- 09/11 02:35 [FirstSquawk] CANADA HAS STRUCK A C$350 MLN DEAL WITH UKRAINE TO PROVIDE IT WITH AIR DEFENSE INTERCEPTORS, PRIME MINISTER CARNEY SAYS, ADDING THAT CANADA AIMS TO BE ABLE TO PRODUCE MILLIONS OF DRONES WITHIN THE NEXT TWO YEARS AND WILL SEND A THIRD OF THO…
-- 09/11 02:37 [FirstSquawk] 4 COUNTERPARTIES TAKE $4.736 BLN AT FED REVERSE REPO OP. (PREV $432 MLN, 6 BIDS)
-- 09/11 02:37 [FirstSquawk] UNICREDIT'S BOARD HAS APPROVED A SHARE CAPITAL INCREASE FOR A COMMERZBANK TAKEOVER OFFER
-- 09/11 02:37 [FirstSquawk] ANTHROPIC SAYS MOONSHOT SECRETLY ROUTED USER REQUESTS THROUGH CLAUDE, DIVERTING QUERIES TO ANTHROPIC'S CHATBOTS WITHOUT LETTING USERS KNOW RATHER THAN PROCESSING THEM THROUGH ITS KIMI MODEL.
-- 09/11 02:37 [FirstSquawk] ANTHROPIC SAYS IT SPOTTED NEARLY 300,000 CUSTOMER REQUESTS THAT MOONSHOT SENT PRIMARILY TO ANTHROPIC'S OPUS AI MODEL.
 - 09/11 02:42 [financialjuice] OpenAI: introducing ChatGPT for Financial services.
 - 09/11 02:42 [financialjuice] OpenAI embeds GPT -6 Astra in financial services product.
 - 09/11 02:44 [DeItaone] OPENAI LAUNCHES CHATGPT FOR WALL STREET OpenAI is launching ChatGPT for Financial Services, targeting investment bankers and equity researchers with integrated data from LSEG, PitchBook and Daloopa. Powered initially by GPT-6 Astra, the pla…
@@ -137,3 +130,6 @@
 - 09/11 07:38 [FirstSquawk] US TREASURY SECRETARY SCOTT BESSENT SAYS THE TREASURY MARKET IS IN VERY GOOD SHAPE AND EXPECTS THE U.S. ECONOMY TO MOVE PAST THE CURRENT ENERGY SUPPLY SHOCK, ADDING THAT THE U.S. HAS THE BEST-PERFORMING BOND MARKET GLOBALLY.
 - 09/11 07:38 [FirstSquawk] BESSENT SAYS THE TREASURY IS PLANNING TO SANCTION A LARGE BANK ON MONDAY, SIGNALING FURTHER PRESSURE ON THE FINANCIAL SECTOR.
 - 09/11 08:01 [financialjuice] Meta declares quarterly cash dividend of $0.53 per share payable Sept. 28, 2026
+- 09/11 08:32 [DeItaone] *TRUMP: MAYBE I DON'T GO FULL INTO IRAN BECAUSE OF ELECTION
+- 09/11 08:39 [DeItaone] U.S. DIESEL BREAKS $6 FOR FIRST TIME EVER The U.S. average diesel price surpassed $6 a gallon for the first time, according to GasBuddy, up nearly 60% since the Iran war began. Supply remains extremely tight, with U.S. diesel inventories 13…
+- 09/11 08:41 [DeItaone] APPLE’S $1,999 FOLDABLE FACES DEMAND TEST Apple’s new iPhone Duo starts at $1,999, but analysts question whether its appeal can extend beyond wealthy early adopters. Counterpoint still expects Apple to sell nearly 6 million units by year-en…
