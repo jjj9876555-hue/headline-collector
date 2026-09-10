@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 10:18 JST／対象: 09/09 22:18 〜 09/10 10:18 JST（時刻はすべて日本時間）
+生成: 2026-09-10 10:32 JST／対象: 09/09 22:32 〜 09/10 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 33 | 09/09 22:19 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 138 | 09/09 22:22 | 09/10 10:18 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 154 | 09/09 22:22 | 09/10 10:17 | ⚠ 59分（07:00→08:00） |
+| DeItaone | 32 | 09/09 23:16 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 139 | 09/09 22:35 | 09/10 10:28 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 149 | 09/09 22:39 | 09/10 10:32 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 318 行（統合前 327 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 313 行（統合前 322 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 22:19 [DeItaone] KUWAIT OFFERS OIL TRANSFERS OUTSIDE HORMUZ Kuwait Petroleum Corp is offering ship-to-ship transfers of crude oil and refined fuels outside the Strait of Hormuz as buyers avoid ports inside the waterway due to U.S.-Iran war risks. KPC says v…
-- 09/09 22:22 [FirstSquawk] IRAQI OIL MINISTRY SAYS VESSEL USED TO STORE FUEL OIL WAS STRUCK BY UNKNOWN SOURCE IN IRAQI TERRITORIAL WATERS-POST ON X
-- 09/09 22:22 [financialjuice] Iraqi Oil Ministry: A vessel used to store fuel oil was struck by an unknown source in Iraqi territorial waters - Post on X.
-- 09/09 22:22 [FirstSquawk] ISRAEL WON'T LET TERRORIST ARMY TO SIT ON ITS BORDER: NETANYAHU
-- 09/09 22:22 [financialjuice] Israel's Prime Minister Netanyahu comments in visit to troops on mount Hermon in Syria: Israel won't let terrorist army to sit on its border.
-- 09/09 22:24 [financialjuice] Poll: The US Federal Reserve is to hold the Fed funds rate steady at 3.50%-3.75% in 2026, said 52 of 93 economists (vs 80 of 104 economists in August poll).
-- 09/09 22:24 [financialjuice] Poll: Fed to hold Fed Funds Rate at 3.50%-3.75% in September, said 65 of 93 economists (versus 94 of 104 economists in August poll).
-- 09/09 22:24 [financialjuice] Iraqi Oil Ministry: The vessel was chartered by the Iraqi oil tankers company.
-- 09/09 22:25 [FirstSquawk] IRAQ'S OIL MINISTRY SAYS NO LEAKAGE FROM VESSEL'S CARGO INTO WATER
-- 09/09 22:25 [FirstSquawk] IRAQI OIL MINISTRY SAYS NO CASUALTIES REPORTED
-- 09/09 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -60.8 MLN NASDAQ 100: 41.5 MLN DOW 30: -32.6 MLN MAG 7: 42.0 MLN $MACRO
-- 09/09 22:31 [financialjuice] Saudis to set up marine war risks insurance pool for cargo - SPA
-- 09/09 22:31 [FirstSquawk] S&P 500 DOWN 24.32 POINTS, OR 0.32 %, AT 7,649.20 AFTER MARKET OPEN DOW JONES DOWN 291.96 POINTS, OR 0.55 PERCENT, AT 52,494.11 AFTER MARKET OPEN NASDAQ DOWN 117.83 POINTS, OR 0.45 PERCENT, AT 26,303.59 AFTER MARKET OPEN
-- 09/09 22:32 [FirstSquawk] SPOT SILVER RISES NEARLY 3% TO $67.71/OZ
 - 09/09 22:35 [FirstSquawk] SAUDI ARABIA IS CREATING AN INSURANCE POOL TO COVER MARINE WAR RISKS FOR CARGO.
 - 09/09 22:39 [financialjuice] China Commerce Ministry on US issuing cybersecurity announcements related to Chinese AI companies: china firmly opposes this. US allegations are baseless - Statement
 - 09/09 22:39 [financialjuice] China Commerce Ministry: Distillation is a common practice among AI models globally, including by US firms.
@@ -342,3 +328,12 @@
 - 09/10 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 8, 2023, PBOC says
 - 09/10 10:17 [FirstSquawk] Yuan midpoint reaches its strongest level since February 2023 as China continues to allow the currency to strengthen.
 - 09/10 10:18 [FirstSquawk] Trump takes the stage to a huge reception in Dallas as Republicans rally ahead of the 2026 midterm elections - Fox News
+- 09/10 10:19 [FirstSquawk] President Trump hails the last two years as the strongest period of presidential leadership America has ever seen.
+- 09/10 10:21 [FirstSquawk] Alibaba's Hong Kong shares set for a 2.4% decline at the open.
+- 09/10 10:21 [financialjuice] China cbank injects 3 bln yuan via 7-day reverse repos: statement
+- 09/10 10:21 [FirstSquawk] Huawei says the U.S. case is based on false allegations as prosecutors pursue charges tied to trade secrets and Iran sanctions.
+- 09/10 10:22 [FirstSquawk] China central bank provides 3 billion yuan in liquidity through 7-day reverse repos, statement says.
+- 09/10 10:25 [FirstSquawk] WTI moves lower as oil markets balance rising Middle East risks against broader supply and demand factors.
+- 09/10 10:26 [FirstSquawk] Trump urges Republicans to secure a midterm victory to defend the gains made over the past two years.
+- 09/10 10:28 [FirstSquawk] Japanese researchers earn four Lasker Awards for achievements in medicine, according to Kyodo.
+- 09/10 10:32 [financialjuice] Bank of Japan board member Masu: underlying inflation remains under 2% but close to that level

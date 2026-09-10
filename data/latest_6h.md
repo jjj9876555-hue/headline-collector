@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 10:18 JST／対象: 09/10 04:18 〜 09/10 10:18 JST（時刻はすべて日本時間）
+生成: 2026-09-10 10:32 JST／対象: 09/10 04:32 〜 09/10 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/10 05:08 | 09/10 06:22 | ⚠ 60分（05:08→06:08） |
-| FirstSquawk | 54 | 09/10 04:51 | 09/10 10:18 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 54 | 09/10 04:20 | 09/10 10:17 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 61 | 09/10 04:51 | 09/10 10:28 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 54 | 09/10 04:50 | 09/10 10:32 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 110 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 117 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 04:20 [financialjuice] Senator Blumenthal asks OpenAI's Altman about safeguards and Hugging Face.
-- 09/10 04:22 [financialjuice] Thursday FX Options Expiries
 - 09/10 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -745.9 MLN NASDAQ 100: 122.0 MLN DOW 30: -476.3 MLN MAG 7: 27.8 MLN $MACRO
 - 09/10 04:51 [FirstSquawk] COPPER HITS FRESH RECORD HIGHS IN LONDON AND NEW YORK AS TARIFF FEARS AND A GLOBAL SUPPLY CRUNCH DRIVE A RALLY, WITH LME COPPER REACHING $14,858.50/TON. AI DATA CENTERS, RENEWABLES, EVS AND POWER-GRID EXPANSION ARE BOOSTING LONG-TERM DEMAND…
 - 09/10 04:57 [FirstSquawk] MASSIVE FIRE ERUPTS AT SOCHI PORT, RUSSIA, FOLLOWING REPORTED UKRAINIAN DRONE ATTACKS.MASSIVE FIRE ERUPTS AT SOCHI PORT, RUSSIA, FOLLOWING REPORTED UKRAINIAN DRONE ATTACKS.
@@ -134,3 +132,12 @@
 - 09/10 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 8, 2023, PBOC says
 - 09/10 10:17 [FirstSquawk] Yuan midpoint reaches its strongest level since February 2023 as China continues to allow the currency to strengthen.
 - 09/10 10:18 [FirstSquawk] Trump takes the stage to a huge reception in Dallas as Republicans rally ahead of the 2026 midterm elections - Fox News
+- 09/10 10:19 [FirstSquawk] President Trump hails the last two years as the strongest period of presidential leadership America has ever seen.
+- 09/10 10:21 [FirstSquawk] Alibaba's Hong Kong shares set for a 2.4% decline at the open.
+- 09/10 10:21 [financialjuice] China cbank injects 3 bln yuan via 7-day reverse repos: statement
+- 09/10 10:21 [FirstSquawk] Huawei says the U.S. case is based on false allegations as prosecutors pursue charges tied to trade secrets and Iran sanctions.
+- 09/10 10:22 [FirstSquawk] China central bank provides 3 billion yuan in liquidity through 7-day reverse repos, statement says.
+- 09/10 10:25 [FirstSquawk] WTI moves lower as oil markets balance rising Middle East risks against broader supply and demand factors.
+- 09/10 10:26 [FirstSquawk] Trump urges Republicans to secure a midterm victory to defend the gains made over the past two years.
+- 09/10 10:28 [FirstSquawk] Japanese researchers earn four Lasker Awards for achievements in medicine, according to Kyodo.
+- 09/10 10:32 [financialjuice] Bank of Japan board member Masu: underlying inflation remains under 2% but close to that level

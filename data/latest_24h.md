@@ -7,47 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 10:18 JST／対象: 09/09 10:18 〜 09/10 10:18 JST（時刻はすべて日本時間）
+生成: 2026-09-10 10:32 JST／対象: 09/09 10:32 〜 09/10 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 332 | 09/09 10:18 | 09/10 10:18 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 209 | 09/09 10:19 | 09/10 10:17 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 326 | 09/09 10:37 | 09/10 10:28 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 200 | 09/09 10:40 | 09/10 10:32 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 584 行（統合前 600 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 569 行（統合前 585 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 10:18 [FirstSquawk] PBOC Sets Daily Yuan Fixing at 6.7769 per U.S. Dollar
-- 09/09 10:19 [financialjuice] China sets yuan midpoint 727 pips weaker than estimate, biggest downside divergence since February 27, 2026
-- 09/09 10:20 [FirstSquawk] U.S. Diplomat in Taiwan: Taiwan Strait Conflict Could Hit Global Economy Harder Than WWII
-- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Says Maintaining Indo-Pacific Peace Is Key Trump Priority
-- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Sees U.S.-China Summit as Opportunity to Deepen Strategic Stability
-- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Says Washington Backs Efforts to Bolster Taiwan’s Defense
-- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan Says Strong Deterrence Is Essential to Preserving Taiwan’s Political, Economic and Social Systems
-- 09/09 10:20 [FirstSquawk] Top U.S. Official in Taiwan: Strong Deterrence Can Help Facilitate Meaningful Cross-Strait Dialogue
-- 09/09 10:20 [FirstSquawk] U.S. Diplomat in Taiwan Says Threats to Taiwan Are Increasing in Scale and Sophistication
-- 09/09 10:22 [financialjuice] China cbank: 7-day reverse repo volume hits zero Wednesday on primary dealer demand - statement
-- 09/09 10:25 [financialjuice] Top U.S. diplomat in Taiwan: Taiwan has tech and manufacturing capacity to meet its needs and back development of global democratic supply chains
-- 09/09 10:26 [FirstSquawk] U.S. Diplomat: Taiwan Can Meet Its Own Needs While Supporting Development of Global Democratic Supply Chains
-- 09/09 10:26 [financialjuice] National Transportation Safety Board: Evidence suggests pilots thought about aborting landing in Boeing 767 crash in Miami
-- 09/09 10:30 [financialjuice] ❗ CHINESE PPI YOY ACTUAL 3.8% (FORECAST 3.6%, PREVIOUS 3.5%) $MACRO
-- 09/09 10:30 [financialjuice] ‼ BREAKING: CHINESE CPI YOY ACTUAL 0.8% (FORECAST 0.8%, PREVIOUS 0.5%) $MACRO
-- 09/09 10:30 [financialjuice] China August CPI rises 0.8% from year earlier, poll predicted 0.8%
-- 09/09 10:30 [financialjuice] China August producer prices rise 0.4% from previous month
-- 09/09 10:30 [financialjuice] CHINESE CPI MOM ACTUAL 0.4% (FORECAST -, PREVIOUS -0.1%) $MACRO
-- 09/09 10:30 [FirstSquawk] CHINA (AUG) PPI YOY ACTUAL: 3.8% VS 3.5% PREVIOUS;EST 3.6%
-- 09/09 10:30 [financialjuice] China: August food CPI down 1.4% year-on-year; non-food CPI up 1.2%
-- 09/09 10:30 [financialjuice] China August CPI rises 0.4% month-on-month, above poll of 0.3%
-- 09/09 10:31 [FirstSquawk] CHINA (AUG) CPI YOY ACTUAL: 0.8% VS 0.5% PREVIOUS;EST 0.8%
-- 09/09 10:31 [FirstSquawk] CHINA (AUG) CPI CORE YOY ACTUAL: 1% VS 0.9% PREVIOUS;EST 0.9%
-- 09/09 10:32 [FirstSquawk] 5-Year Japanese Government Bond Yield Slips to 2.215%
 - 09/09 10:37 [FirstSquawk] Defense Minister Ahn Gyu-back will travel to Croatia on Wednesday to discuss bilateral defense ties with top officials and attend a ceremony for a South Korean rocket artillery export deal, Seoul's defense ministry said - YONHAP
 - 09/09 10:39 [FirstSquawk] South Korean Stocks Open Higher, Led by Chip Gains Amid Middle East Tensions
 - 09/09 10:40 [FirstSquawk] Bank of Korea Sells 2-Year Monetary Stabilisation Bonds at 3.805%
@@ -608,3 +584,12 @@
 - 09/10 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 8, 2023, PBOC says
 - 09/10 10:17 [FirstSquawk] Yuan midpoint reaches its strongest level since February 2023 as China continues to allow the currency to strengthen.
 - 09/10 10:18 [FirstSquawk] Trump takes the stage to a huge reception in Dallas as Republicans rally ahead of the 2026 midterm elections - Fox News
+- 09/10 10:19 [FirstSquawk] President Trump hails the last two years as the strongest period of presidential leadership America has ever seen.
+- 09/10 10:21 [FirstSquawk] Alibaba's Hong Kong shares set for a 2.4% decline at the open.
+- 09/10 10:21 [financialjuice] China cbank injects 3 bln yuan via 7-day reverse repos: statement
+- 09/10 10:21 [FirstSquawk] Huawei says the U.S. case is based on false allegations as prosecutors pursue charges tied to trade secrets and Iran sanctions.
+- 09/10 10:22 [FirstSquawk] China central bank provides 3 billion yuan in liquidity through 7-day reverse repos, statement says.
+- 09/10 10:25 [FirstSquawk] WTI moves lower as oil markets balance rising Middle East risks against broader supply and demand factors.
+- 09/10 10:26 [FirstSquawk] Trump urges Republicans to secure a midterm victory to defend the gains made over the past two years.
+- 09/10 10:28 [FirstSquawk] Japanese researchers earn four Lasker Awards for achievements in medicine, according to Kyodo.
+- 09/10 10:32 [financialjuice] Bank of Japan board member Masu: underlying inflation remains under 2% but close to that level
