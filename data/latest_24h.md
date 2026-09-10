@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 00:33 JST／対象: 09/10 00:33 〜 09/11 00:33 JST（時刻はすべて日本時間）
+生成: 2026-09-11 00:51 JST／対象: 09/10 00:51 〜 09/11 00:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 70 | 09/10 01:05 | 09/10 23:45 | ⚠ 619分（06:22→16:41） |
 | FirstSquawk | 380 | 09/10 01:01 | 09/11 00:31 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 338 | 09/10 00:35 | 09/11 00:33 | ⚠ 119分（15:00→17:00） |
+| financialjuice | 336 | 09/10 01:01 | 09/11 00:33 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 766 行（統合前 794 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 764 行（統合前 792 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 00:35 [financialjuice] Buyback increase is part of ongoing approach - Fox Business.
-- 09/10 00:36 [financialjuice] Fox Business cites Trump Admin Official on buyback announcement.
 - 09/10 01:01 [FirstSquawk] WHITE HOUSE REFUTES FINANCIAL TIMES REPORT ABOUT RATCLIFFE AND RUSSIA-UKRAINE DISCUSSIONS.
 - 09/10 01:01 [financialjuice] White House denies FT report on Ratcliffe and Russia-Ukraine talks
 - 09/10 01:01 [financialjuice] Iran: Once the conditions of war end, the ground will be prepared for the IAEA's verification activities - ISNA
