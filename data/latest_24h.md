@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 13:34 JST／対象: 09/09 13:34 〜 09/10 13:34 JST（時刻はすべて日本時間）
+生成: 2026-09-10 13:52 JST／対象: 09/09 13:52 〜 09/10 13:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 336 | 09/09 13:36 | 09/10 13:34 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 223 | 09/09 13:55 | 09/10 13:30 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 334 | 09/09 13:55 | 09/10 13:47 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 226 | 09/09 13:55 | 09/10 13:52 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 603 行（統合前 616 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 604 行（統合前 617 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 13:36 [FirstSquawk] Qatar Says Civil Defence Has Controlled Fire on Vessel at Al Wakra Port; No Injuries Reported
-- 09/09 13:40 [FirstSquawk] AI borrowing boom shakes up Swiss credit market - FT
-- 09/09 13:44 [FirstSquawk] EU resists Mario Draghi’s competitiveness cures - FT
-- 09/09 13:46 [FirstSquawk] Revolut takes aim at business banking with FTSE 250 companies - FT
 - 09/09 13:55 [financialjuice] Russian air strikes damage port facilities in Ukraine's Mykolayiv, officials say
 - 09/09 13:55 [FirstSquawk] Russian Strikes Hit Port Infrastructure in Mykolaiv, Ukrainian Officials Say
 - 09/09 13:58 [FirstSquawk] Peel Hunt Lowers Oxford Biomedica Price Target to 778p From 846p
@@ -627,3 +623,8 @@
 - 09/10 13:30 [financialjuice] Dutch July manufacturing output rises 1.6% m/m: CBS
 - 09/10 13:32 [FirstSquawk] Malaysia’s palm oil inventories climb to 2.82 million tonnes in August, up 7.48% from July, according to MPOB.
 - 09/10 13:34 [FirstSquawk] Malaysia’s crude palm oil output increased 1.39% M/M to 1.82 million tons in August, according to MPOB.
+- 09/10 13:45 [FirstSquawk] Trump offers $5,000 to every US adult if Republicans secure victory in the November midterm elections.
+- 09/10 13:47 [FirstSquawk] Four killed after Russian air strikes hit Ukraine’s port of Mykolaiv, official says.
+- 09/10 13:47 [financialjuice] Russian air strikes hit Ukraine's Mykolaiv port, kill four: official
+- 09/10 13:51 [financialjuice] Russian Defence Ministry: drone warehouse struck in Ukraine's Mykolaiv
+- 09/10 13:52 [financialjuice] Russian defence ministry: also struck Ukraine's Black Sea port of Chornomorsk, two ships near Odesa

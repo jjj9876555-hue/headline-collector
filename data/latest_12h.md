@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 13:34 JST／対象: 09/10 01:34 〜 09/10 13:34 JST（時刻はすべて日本時間）
+生成: 2026-09-10 13:52 JST／対象: 09/10 01:52 〜 09/10 13:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 09/10 01:38 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 158 | 09/10 01:39 | 09/10 13:34 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 130 | 09/10 01:46 | 09/10 13:30 | ⚠ 59分（07:00→08:00） |
+| DeItaone | 24 | 09/10 02:13 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
+| FirstSquawk | 159 | 09/10 01:52 | 09/10 13:47 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 131 | 09/10 01:53 | 09/10 13:52 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 309 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 308 行（統合前 315 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 01:38 [DeItaone] $AAPL - APPLE SLIPS AHEAD OF EXPECTED FOLDABLE IPHONE LAUNCH Apple shares fell 1.1% to $312.65 ahead of its first launch event under CEO John Ternus. Markets expect Apple to unveil its first foldable iPhone, potentially its biggest design o…
-- 09/10 01:39 [FirstSquawk] RUSSIA CLAIMS IT ATTACKED FACILITIES IN UKRAINE'S NIKOLAEV PORT, TARGETING LOGISTICS CENTERS, MILITARY, AND INDUSTRIAL SITES.
-- 09/10 01:42 [DeItaone] $AAPL - APPLE BETS ON FOLDABLE IPHONE TO DRIVE GROWTH Apple is expected to unveil its first foldable iPhone, targeting a mature smartphone market and aging consumers seeking larger screens. The device could cost more than $2,000, helping bo…
-- 09/10 01:42 [DeItaone] COPPER HITS RECORD AS GLOBAL SUPPLIES TIGHTEN Copper hit a fresh record of $14,802.50 a ton, as tight supplies outside the U.S. outweighed concerns over Middle East tensions and slowing growth. LME copper has surged about 25% since March, d…
-- 09/10 01:46 [financialjuice] Blast heard around Strait of Hormuz - IRIB
-- 09/10 01:50 [financialjuice] WATCH LIVE: Apple Event 1 PM ET $AAPL
 - 09/10 01:52 [FirstSquawk] BLAST REPORTED IN THE STRAIT OF HORMUZ, ACCORDING TO IRIB.
 - 09/10 01:53 [financialjuice] ❗ Russia's Siluanov: Russia weighs $50/bbl budget rule oil price - IFX.
 - 09/10 02:00 [financialjuice] Treasury WI 10 yr yield 4.849% before $39 billion auction
@@ -333,3 +327,8 @@
 - 09/10 13:30 [financialjuice] Dutch July manufacturing output rises 1.6% m/m: CBS
 - 09/10 13:32 [FirstSquawk] Malaysia’s palm oil inventories climb to 2.82 million tonnes in August, up 7.48% from July, according to MPOB.
 - 09/10 13:34 [FirstSquawk] Malaysia’s crude palm oil output increased 1.39% M/M to 1.82 million tons in August, according to MPOB.
+- 09/10 13:45 [FirstSquawk] Trump offers $5,000 to every US adult if Republicans secure victory in the November midterm elections.
+- 09/10 13:47 [FirstSquawk] Four killed after Russian air strikes hit Ukraine’s port of Mykolaiv, official says.
+- 09/10 13:47 [financialjuice] Russian air strikes hit Ukraine's Mykolaiv port, kill four: official
+- 09/10 13:51 [financialjuice] Russian Defence Ministry: drone warehouse struck in Ukraine's Mykolaiv
+- 09/10 13:52 [financialjuice] Russian defence ministry: also struck Ukraine's Black Sea port of Chornomorsk, two ships near Odesa

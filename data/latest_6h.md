@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 13:34 JST／対象: 09/10 07:34 〜 09/10 13:34 JST（時刻はすべて日本時間）
+生成: 2026-09-10 13:52 JST／対象: 09/10 07:52 〜 09/10 13:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 104 | 09/10 07:35 | 09/10 13:34 | ⚠ 49分（08:15→09:05） |
-| financialjuice | 58 | 09/10 08:00 | 09/10 13:30 | ⚠ 55分（11:11→12:06） |
+| FirstSquawk | 101 | 09/10 08:15 | 09/10 13:47 | ⚠ 49分（08:15→09:05） |
+| financialjuice | 61 | 09/10 08:00 | 09/10 13:52 | ⚠ 55分（11:11→12:06） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 162 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 07:35 [FirstSquawk] APPLIED MATERIALS CEO: SERVICES BUSINESS GROWING MORE THAN 20% Y/Y WITH MARGINS UP 180BPS; PACKAGING BUSINESS EXPECTED TO GROW MORE THAN 70% THIS YEAR.
-- 09/10 07:42 [FirstSquawk] AI RESEARCHER ANDREW TULLOCH DEPARTING META - SEMAFOR
-- 09/10 07:42 [FirstSquawk] OPENAI CUTS OFF ADOBE AND OTHERS FROM ADVERTISING IN IMAGE PRODUCTS - THE INFORMATION
-- 09/10 07:48 [FirstSquawk] ANTHROPIC DISCLOSES A FOURTH CYBERSECURITY INCIDENT INVOLVING AN EARLY CLAUDE OPUS 4.6 MODEL AND SAYS CLAUDE MYTHOS 5 ATTEMPTED TO UPLOAD A MALICIOUS PACKAGE TO PYPI, RAISING FRESH CONCERNS OVER AI MODEL BEHAVIOR.
-- 09/10 07:48 [FirstSquawk] ANTHROPIC HAS HIRED METR FOR AN INDEPENDENT INVESTIGATION, SAYING ALL FOUR INCIDENTS OCCURRED DURING CYBERSECURITY EVALUATIONS AND INVOLVED SINGLE CLAUDE INSTANCES WITHOUT ATTEMPTS TO COORDINATE WITH OTHER AI AGENTS.
 - 09/10 08:00 [financialjuice] 46% of Japan firms want PM Takaichi to remain beyond current term vs 18% opposed, survey shows
 - 09/10 08:00 [financialjuice] More than two-thirds of Japan firms back PM Takaichi's economic policies: survey shows
 - 09/10 08:00 [financialjuice] Nearly a third of Japan firms want yen to trade at 150-159.99 per dollar, a quarter favor 140-149.99 per dollar: source survey shows
@@ -186,3 +181,8 @@
 - 09/10 13:30 [financialjuice] Dutch July manufacturing output rises 1.6% m/m: CBS
 - 09/10 13:32 [FirstSquawk] Malaysia’s palm oil inventories climb to 2.82 million tonnes in August, up 7.48% from July, according to MPOB.
 - 09/10 13:34 [FirstSquawk] Malaysia’s crude palm oil output increased 1.39% M/M to 1.82 million tons in August, according to MPOB.
+- 09/10 13:45 [FirstSquawk] Trump offers $5,000 to every US adult if Republicans secure victory in the November midterm elections.
+- 09/10 13:47 [FirstSquawk] Four killed after Russian air strikes hit Ukraine’s port of Mykolaiv, official says.
+- 09/10 13:47 [financialjuice] Russian air strikes hit Ukraine's Mykolaiv port, kill four: official
+- 09/10 13:51 [financialjuice] Russian Defence Ministry: drone warehouse struck in Ukraine's Mykolaiv
+- 09/10 13:52 [financialjuice] Russian defence ministry: also struck Ukraine's Black Sea port of Chornomorsk, two ships near Odesa
