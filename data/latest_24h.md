@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 14:58 JST／対象: 09/09 14:58 〜 09/10 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-10 15:23 JST／対象: 09/09 15:23 〜 09/10 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 342 | 09/09 14:59 | 09/10 14:57 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 232 | 09/09 17:26 | 09/10 14:44 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 356 | 09/09 15:24 | 09/10 15:21 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 238 | 09/09 17:26 | 09/10 15:00 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 618 行（統合前 631 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 638 行（統合前 651 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 14:59 [FirstSquawk] Goldman Sachs Increases Mondi Target to 860p, Up From 780p
-- 09/09 15:00 [FirstSquawk] NORWAY (AUG) PPI INCLUDING OIL MOM ACTUAL: 30.1% VS 23.4% PREVIOUS
-- 09/09 15:01 [FirstSquawk] NORWAY PPI INCLUDING OIL (M/M): 4.7% (PREV 8.9%)
-- 09/09 15:01 [FirstSquawk] Japan Machine Tool Orders (Y/Y) Aug P: 64.7% (prev 50.4%)
-- 09/09 15:11 [FirstSquawk] Russian Naval Base in Novorossiysk Hit by Ukraine Overnight, Drone Forces Commander Says
-- 09/09 15:21 [FirstSquawk] Europe turns to carbon capture in bid to clamp down on emissions - FT
 - 09/09 15:24 [FirstSquawk] Australia’s ASX 200 Falls 0.1% to Close at 8,911.40 Points
 - 09/09 15:27 [FirstSquawk] Alerts Issued in Khamis Mushait as Saudi Civil Defense Warns of Potential Danger
 - 09/09 15:27 [FirstSquawk] Russia’s Defence Ministry Says Its Forces Struck a Cargo Vessel in the Black Sea
@@ -642,3 +636,29 @@
 - 09/10 14:55 [FirstSquawk] BOJ board member Masu says the central bank will determine policy based on its own assessment, declining to address Bessent’s comments.
 - 09/10 14:56 [FirstSquawk] BOJ board member Masu links the rise in long-term rates to oil prices, global inflation and growing fiscal concerns.
 - 09/10 14:57 [FirstSquawk] BOJ board member Masu says emergency action is available to address unusually sharp moves in Japanese government bonds.
+- 09/10 15:00 [financialjuice] GERMAN CPI FINAL MOM ACTUAL 0.2% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
+- 09/10 15:00 [financialjuice] ❗ GERMAN CPI FINAL YOY ACTUAL 2.9% (FORECAST 2.9%, PREVIOUS 2.9%) $MACRO
+- 09/10 15:00 [financialjuice] GERMAN HICP FINAL MOM ACTUAL 0.2% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
+- 09/10 15:00 [financialjuice] ❗ GERMAN HICP FINAL YOY ACTUAL 2.9% (FORECAST 2.9%, PREVIOUS 2.9%) $MACRO
+- 09/10 15:00 [financialjuice] NORWEGIAN CPI MOM ACTUAL -0.3% (FORECAST -, PREVIOUS 1.0%) $MACRO
+- 09/10 15:00 [financialjuice] NORWEGIAN CPI YOY ACTUAL 3.3% (FORECAST 3.2%, PREVIOUS 3.0%) $MACRO
+- 09/10 15:03 [FirstSquawk] NORWAY (AUG) CPI UNDERLYING MOM ACTUAL: -0.5% VS 0.8% PREVIOUS;EST -0.4%
+- 09/10 15:03 [FirstSquawk] NORWAY (AUG) CPI UNDERLYING YOY ACTUAL: 3% VS 2.7% PREVIOUS;EST 3.0%
+- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) GDP INDICATOR SA MOM ACTUAL: -0.8% VS -0.2% PREVIOUS;EST -0.1%
+- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) GDP INDICATOR WDA YOY ACTUAL: 2.5% VS 2.4% PREVIOUS
+- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) PRIVATE SECTOR PRODUCTION MOM ACTUAL: 0.0% VS 0.4% PREVIOUS
+- 09/10 15:03 [FirstSquawk] GERMANY (AUG) CPI MOM ACTUAL: 0.2% VS 0.2% PREVIOUS;EST 0.2%
+- 09/10 15:03 [FirstSquawk] GERMANY (AUG) CPI YOY ACTUAL: 2.9% VS 2.9% PREVIOUS;EST 2.9%
+- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) PRIVATE SECTOR PRODUCTION YOY ACTUAL: 3.6% VS 1.8% PREVIOUS
+- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) Industry Production Value YoY ACTUAL: 0.2% VS -1.5% PREVIOUS
+- 09/10 15:03 [FirstSquawk] GERMANY (AUG) CPI EU Harmonized MoM ACTUAL: 0.2% VS 0.2% PREVIOUS;EST 0.2%
+- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) Service Production Value YoY ACTUAL: 5% VS 3% PREVIOUS
+- 09/10 15:03 [FirstSquawk] GERMANY (AUG) CPI EU Harmonized YoY ACTUAL: 2.9% VS 2.9% PREVIOUS;EST 2.9%
+- 09/10 15:04 [FirstSquawk] SWEDEN (JUL) Industrial Orders MoM ACTUAL: -24.1% VS 32.3% PREVIOUS
+- 09/10 15:04 [FirstSquawk] SWEDEN (JUL) Industrial Orders NSA YOY ACTUAL: -24.1% VS 29.9% PREVIOUS
+- 09/10 15:04 [FirstSquawk] NORWAY (AUG) CPI YOY ACTUAL: -0.3% VS 3% PREVIOUS;EST 3.2%
+- 09/10 15:04 [FirstSquawk] NORWAY (AUG) CPI MOM ACTUAL: -0.5% VS 1% PREVIOUS
+- 09/10 15:05 [FirstSquawk] Iran has acquired billions of dollars in Chinese goods through a barter-style arrangement, according to Reuters sources.
+- 09/10 15:09 [FirstSquawk] DeepSeek officially rolls out V4.1 Flash, its latest AI model, the company says.
+- 09/10 15:10 [FirstSquawk] TotalEnergies makes a new Block 17 discovery in Angola and secures fresh exploration licences for Blocks 17 and 32.
+- 09/10 15:21 [FirstSquawk] TotalEnergies expands its Angola exploration footprint following a new discovery on Block 17.

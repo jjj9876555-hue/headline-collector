@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 14:58 JST／対象: 09/10 08:58 〜 09/10 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-10 15:23 JST／対象: 09/10 09:23 〜 09/10 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 122 | 09/10 09:05 | 09/10 14:57 | 14分（14:01→14:15） |
-| financialjuice | 54 | 09/10 09:00 | 09/10 14:44 | ⚠ 55分（11:11→12:06） |
+| FirstSquawk | 135 | 09/10 09:25 | 09/10 15:21 | 14分（14:01→14:15） |
+| financialjuice | 57 | 09/10 09:24 | 09/10 15:00 | ⚠ 55分（11:11→12:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 176 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 192 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 09:00 [financialjuice] Nvidia boosts AI infrastructure capacity through partnership with Australia’s data center network
-- 09/10 09:02 [financialjuice] Nvidia to back up to 2-gigawatt AI infrastructure expansion in Australia by 2027
-- 09/10 09:05 [FirstSquawk] GULF DEVELOPMENT AND SINGTEL FORM A STRATEGIC PARTNERSHIP TO BUILD NEW SUBMARINE CABLE CONNECTIVITY BETWEEN THAILAND AND SINGAPORE, STRENGTHENING REGIONAL DIGITAL INFRASTRUCTURE. THE PARTNERSHIP AIMS TO ENHANCE THAILAND-SINGAPORE SUBMARINE …
-- 09/10 09:11 [FirstSquawk] Up to 1 million Obamacare enrollees could receive $500 rebate checks under a Trump administration plan targeting people it says were overcharged, per Axios.
-- 09/10 09:17 [FirstSquawk] BESSENT’S EXPANDED TREASURY BUYBACK DISAPPOINTS MARKETS AS A SMALLER-THAN-EXPECTED OPERATION HELPS PUSH THE 10-YEAR YIELD TO ITS HIGHEST LEVEL SINCE 2023 DESPITE STRONG AUCTION DEMAND.
-- 09/10 09:17 [FirstSquawk] IRAN SIGNALS A MORE AGGRESSIVE WAR STRATEGY, SAYING IT HAS REBUILT ITS MILITARY CAPABILITIES AND HAS ENOUGH MISSILES FOR A PROLONGED CONFLICT AS US-IRAN ATTACKS CONTINUE TO ESCALATE. TRUMP SAYS THE WAR WILL END AFTER THE NOVEMBER MIDTERM EL…
-- 09/10 09:19 [FirstSquawk] Asia-Pacific shares weakened Wednesday as rising US Treasury yields and oil prices added to investor concerns
-- 09/10 09:20 [financialjuice] China PBOC likely to fix yuan midpoint at 6.7074 per dollar: estimate
-- 09/10 09:21 [FirstSquawk] SAMSUNG ELECTRONICS SEES SOCIAL-MEDIA ACTIVITY TRIPLE TO 10 FINANCIALLY FOCUSED POSTS IN 30 MINUTES, WELL ABOVE THE AVERAGE OF THREE, AMID BUZZ AROUND ITS AI-CHIP WORK WITH OPENAI AND UPCOMING FOLDABLES. THE SURGE FOLLOWS OTHER AI-RELATED D…
-- 09/10 09:23 [FirstSquawk] Brent closes up, with missing barrels and a widening conflict driving the broader oil narrative.
 - 09/10 09:24 [financialjuice] Southcom: carried out lethal kinetic strike on fast-moving vessel along narco-trafficking routes in Caribbean
 - 09/10 09:25 [FirstSquawk] ENBRIDGE IS IN ADVANCED TALKS TO ACQUIRE THE 900-MILE PONY EXPRESS PIPELINE FROM BLACKSTONE-OWNED TALLGRASS ENERGY FOR ABOUT $2 BILLION, WITH A DEAL POSSIBLY ANNOUNCED WITHIN DAYS.
 - 09/10 09:25 [FirstSquawk] Aussie dollar extends gains to a fresh mid-May high as a weaker US dollar and prospects for RBA tightening boost the currency.
@@ -200,3 +190,29 @@
 - 09/10 14:55 [FirstSquawk] BOJ board member Masu says the central bank will determine policy based on its own assessment, declining to address Bessent’s comments.
 - 09/10 14:56 [FirstSquawk] BOJ board member Masu links the rise in long-term rates to oil prices, global inflation and growing fiscal concerns.
 - 09/10 14:57 [FirstSquawk] BOJ board member Masu says emergency action is available to address unusually sharp moves in Japanese government bonds.
+- 09/10 15:00 [financialjuice] GERMAN CPI FINAL MOM ACTUAL 0.2% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
+- 09/10 15:00 [financialjuice] ❗ GERMAN CPI FINAL YOY ACTUAL 2.9% (FORECAST 2.9%, PREVIOUS 2.9%) $MACRO
+- 09/10 15:00 [financialjuice] GERMAN HICP FINAL MOM ACTUAL 0.2% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
+- 09/10 15:00 [financialjuice] ❗ GERMAN HICP FINAL YOY ACTUAL 2.9% (FORECAST 2.9%, PREVIOUS 2.9%) $MACRO
+- 09/10 15:00 [financialjuice] NORWEGIAN CPI MOM ACTUAL -0.3% (FORECAST -, PREVIOUS 1.0%) $MACRO
+- 09/10 15:00 [financialjuice] NORWEGIAN CPI YOY ACTUAL 3.3% (FORECAST 3.2%, PREVIOUS 3.0%) $MACRO
+- 09/10 15:03 [FirstSquawk] NORWAY (AUG) CPI UNDERLYING MOM ACTUAL: -0.5% VS 0.8% PREVIOUS;EST -0.4%
+- 09/10 15:03 [FirstSquawk] NORWAY (AUG) CPI UNDERLYING YOY ACTUAL: 3% VS 2.7% PREVIOUS;EST 3.0%
+- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) GDP INDICATOR SA MOM ACTUAL: -0.8% VS -0.2% PREVIOUS;EST -0.1%
+- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) GDP INDICATOR WDA YOY ACTUAL: 2.5% VS 2.4% PREVIOUS
+- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) PRIVATE SECTOR PRODUCTION MOM ACTUAL: 0.0% VS 0.4% PREVIOUS
+- 09/10 15:03 [FirstSquawk] GERMANY (AUG) CPI MOM ACTUAL: 0.2% VS 0.2% PREVIOUS;EST 0.2%
+- 09/10 15:03 [FirstSquawk] GERMANY (AUG) CPI YOY ACTUAL: 2.9% VS 2.9% PREVIOUS;EST 2.9%
+- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) PRIVATE SECTOR PRODUCTION YOY ACTUAL: 3.6% VS 1.8% PREVIOUS
+- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) Industry Production Value YoY ACTUAL: 0.2% VS -1.5% PREVIOUS
+- 09/10 15:03 [FirstSquawk] GERMANY (AUG) CPI EU Harmonized MoM ACTUAL: 0.2% VS 0.2% PREVIOUS;EST 0.2%
+- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) Service Production Value YoY ACTUAL: 5% VS 3% PREVIOUS
+- 09/10 15:03 [FirstSquawk] GERMANY (AUG) CPI EU Harmonized YoY ACTUAL: 2.9% VS 2.9% PREVIOUS;EST 2.9%
+- 09/10 15:04 [FirstSquawk] SWEDEN (JUL) Industrial Orders MoM ACTUAL: -24.1% VS 32.3% PREVIOUS
+- 09/10 15:04 [FirstSquawk] SWEDEN (JUL) Industrial Orders NSA YOY ACTUAL: -24.1% VS 29.9% PREVIOUS
+- 09/10 15:04 [FirstSquawk] NORWAY (AUG) CPI YOY ACTUAL: -0.3% VS 3% PREVIOUS;EST 3.2%
+- 09/10 15:04 [FirstSquawk] NORWAY (AUG) CPI MOM ACTUAL: -0.5% VS 1% PREVIOUS
+- 09/10 15:05 [FirstSquawk] Iran has acquired billions of dollars in Chinese goods through a barter-style arrangement, according to Reuters sources.
+- 09/10 15:09 [FirstSquawk] DeepSeek officially rolls out V4.1 Flash, its latest AI model, the company says.
+- 09/10 15:10 [FirstSquawk] TotalEnergies makes a new Block 17 discovery in Angola and secures fresh exploration licences for Blocks 17 and 32.
+- 09/10 15:21 [FirstSquawk] TotalEnergies expands its Angola exploration footprint following a new discovery on Block 17.
