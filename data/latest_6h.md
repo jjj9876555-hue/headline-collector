@@ -7,46 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 03:19 JST／対象: 09/10 21:19 〜 09/11 03:19 JST（時刻はすべて日本時間）
+生成: 2026-09-11 03:36 JST／対象: 09/10 21:36 〜 09/11 03:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 25 | 09/10 21:30 | 09/11 03:05 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 101 | 09/10 21:19 | 09/11 03:04 | 26分（00:31→00:58） |
-| financialjuice | 157 | 09/10 21:29 | 09/11 03:17 | 19分（02:04→02:24） |
+| DeItaone | 23 | 09/10 21:41 | 09/11 03:30 | ⚠ 108分（23:45→01:33） |
+| FirstSquawk | 91 | 09/10 21:37 | 09/11 03:04 | 26分（00:31→00:58） |
+| financialjuice | 156 | 09/10 21:36 | 09/11 03:34 | 19分（02:04→02:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 272 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 260 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 21:19 [FirstSquawk] ECB SAYS INTEREST RATES ECB DECIDED TO RAISE THREE INTEREST RATES BY 25 BASIS POINTS || SAYS ACCORDINGLY, INTEREST RATES ON DEPOSIT FACILITY, MAIN REFINANCING OPERATIONS AND MARGINAL LENDING FACILITY WILL BE INCREASED TO 2.50%, 2.65% AND 2.…
-- 09/10 21:21 [FirstSquawk] USD/JPY RISES 0.5% TO 154.33
-- 09/10 21:24 [FirstSquawk] US TREASURY YIELDS CLIMB LED BY EURO-ZONE DEBT AFTER ECB RATE HIKE
-- 09/10 21:24 [FirstSquawk] SPOT SILVER FALLS NEARLY 3% TO $65.27/OZ
-- 09/10 21:29 [financialjuice] Trump tariffs on refined Copper are not a foregone conclusion - Sources
-- 09/10 21:30 [DeItaone] *US JOBLESS CLAIMS 206,000 IN SEPT. 5 WEEK; EST. 205K
-- 09/10 21:30 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.774M (FORECAST 1.78M, PREVIOUS 1.779M) $MACRO
-- 09/10 21:30 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 206K (FORECAST 205K, PREVIOUS 206K) $MACRO
-- 09/10 21:30 [DeItaone] *US AUG. PRODUCER PRICES RISE 5.4% Y/Y; EST. +5.3%
-- 09/10 21:30 [financialjuice] ‼ BREAKING: US PPI YOY ACTUAL 5.4% (FORECAST 5.3%, PREVIOUS 4.7%) $MACRO
-- 09/10 21:30 [financialjuice] ❗ US CORE PPI MOM ACTUAL 0.2% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
-- 09/10 21:30 [financialjuice] ❗ US CORE PPI YOY ACTUAL 4.6% (FORECAST 4.6%, PREVIOUS 4.2%) $MACRO
-- 09/10 21:30 [financialjuice] ❗ US PPI MOM ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.0%) $MACRO
-- 09/10 21:30 [FirstSquawk] US PPI (MOM) (AUG) ACTUAL: 0.4% VS 0.0% PREVIOUS; EST 0.4%
-- 09/10 21:30 [DeItaone] *US AUG. PRODUCER PRICES RISE 0.4% M/M; EST. +0.4% *US AUG. PRODUCER PRICES RISE 5.4% Y/Y; EST. +5.3% *US AUG. CORE PPI RISES 0.2% M/M; EST. +0.3% *US AUG. CORE PPI RISES 4.6% Y/Y; EST. +4.6%
-- 09/10 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 206K VS 206K PREVIOUS; EST 205K
-- 09/10 21:31 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1774K VS 1779K PREVIOUS; EST 1780K
-- 09/10 21:32 [FirstSquawk] U.S. CRUDE FUTURES EXTENDED GAINS TO HIT $100/BBL FOR THE FIRST TIME SINCE MAY 21 ON INTENSIFYING MIDDLE EAST CONFLICT
-- 09/10 21:33 [financialjuice] US PPI August 2026 Report
-- 09/10 21:34 [FirstSquawk] BRENT OIL FUTURES RISE ABOVE $105 A BARREL
-- 09/10 21:34 [FirstSquawk/financialjuice] US SHORT-TERM INTEREST-RATE FUTURES FALL SLIGHTLY AFTER ECONOMIC DATA, AS TRADERS EDGE UP BETS ON FED RATE HIKE
-- 09/10 21:35 [FirstSquawk] INDIA TRADE MINISTER: INDIA, RUSSIA TO FAST TRACK TALKS FOR CONCLUDING BILATERAL INVESTMENT TREATY
 - 09/10 21:36 [financialjuice/FirstSquawk] ❗ Traders fully price four BoE rate hikes, first time since March.
+- 09/10 21:37 [FirstSquawk] US SHORT-TERM INTEREST-RATE FUTURES FALL SLIGHTLY AFTER ECONOMIC DATA, AS TRADERS EDGE UP BETS ON FED RATE HIKE.
 - 09/10 21:37 [financialjuice/FirstSquawk] ❗ Traders fully price in Fed rate hike in October after PPI data
 - 09/10 21:38 [financialjuice] WATCH LIVE: ECB Press Conference at 08:45 ET
 - 09/10 21:39 [financialjuice] ❗ Traders price in 75 bps of additional ECB hikes by October 2027
@@ -296,3 +275,12 @@
 - 09/11 03:06 [financialjuice] Canada's PM Carney: I spoke to Trump in recent days.
 - 09/11 03:07 [financialjuice] Iran's President Pezeshkian will travel to New Delhi tomorrow to participate in the 18th BRICS Summit - Fars News
 - 09/11 03:17 [financialjuice] Israel's Prime Minister Netanyahu: IDF destroys Hezbollah facilities at Ali Taher ridge.
+- 09/11 03:30 [DeItaone] BRENT CRUDE FUTURES RISE BY $7 A BARREL AS US-IRAN CONFLICT INTENSIFIES
+- 09/11 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $5.0575 a gallon
+- 09/11 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.3932 a gallon
+- 09/11 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8340/MMBTU
+- 09/11 03:33 [financialjuice] US issues fresh Iran-related sanctions - Treasury website
+- 09/11 03:33 [financialjuice] US Official: Iranian or suspected Iranian oil on water averaged 110 mln barrels over past week vs 180 mln barrels before war.
+- 09/11 03:34 [financialjuice] US Official: Offloadings of Iranian oil down to 0.9 mb/d from 1.4 mb/d before war.
+- 09/11 03:34 [financialjuice] US Official: Loadings of Iranian oil at about 0.2 mln barrels per day over past 30 days, down from 1.8 mln barrels per day in January/February
+- 09/11 03:34 [financialjuice] US Treasury announces new sanctions against entities supporting Iran's proxies in Middle East, including Iraqi business executives.

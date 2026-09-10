@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 03:19 JST／対象: 09/10 03:19 〜 09/11 03:19 JST（時刻はすべて日本時間）
+生成: 2026-09-11 03:36 JST／対象: 09/10 03:36 〜 09/11 03:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 62 | 09/10 03:29 | 09/11 03:05 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 377 | 09/10 03:22 | 09/11 03:04 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 337 | 09/10 03:21 | 09/11 03:17 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 55 | 09/10 05:08 | 09/11 03:30 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 376 | 09/10 03:43 | 09/11 03:04 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 330 | 09/10 03:41 | 09/11 03:34 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 754 行（統合前 782 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 740 行（統合前 767 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 03:21 [financialjuice] Apple prices the 2-terabyte version of the iPhone Duo at $3,199. $AAPL
-- 09/10 03:22 [FirstSquawk] APPLE HAS PRICED THE 2-TERABYTE VERSION OF THE IPHONE DUO AT $3,199
-- 09/10 03:27 [financialjuice] LIVE: President Donald Trump Heads to Dallas for Historic Republican Midterm Convention | AC15
-- 09/10 03:28 [financialjuice] Trump: The economy is very strong; we're going to explain that.
-- 09/10 03:29 [financialjuice] Trump on Gasoline Price: Can't let Iran have nuclear weapons.
-- 09/10 03:29 [DeItaone] TRUMP: OIL PRICES WILL TUMBLE AFTER ELECTION
-- 09/10 03:29 [financialjuice] Trump: After the election, oil prices will tumble.
-- 09/10 03:30 [financialjuice/DeItaone] Trump on Gasoline Price: It will take a little bit longer.
-- 09/10 03:30 [financialjuice] Trump: Will get gasoline down below $2.
-- 09/10 03:31 [financialjuice] Trump: Had a great conversation with Putin. He wants to make a deal.
-- 09/10 03:31 [DeItaone] TRUMP: GREAT CONVERSATION WITH RUSSIA'S PUTIN
-- 09/10 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $96.05 a barrel, up $3.02, 3.25%.
-- 09/10 03:32 [financialjuice] NYMEX Diesel October futures settle at $4.8010 a gallon.
-- 09/10 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.2106 a gallon.
-- 09/10 03:32 [financialjuice] Trump on Iran: Will be speaking to Israel about sanctions imposed on West Bank settlements.
-- 09/10 03:33 [DeItaone] TRUMP: BILATERAL MEETING COULD HAPPEN
-- 09/10 03:33 [DeItaone] TRUMP ON IRAN: WAR IN IRAN WILL END IMMEDIATELY AFTER ELECTION
-- 09/10 03:33 [financialjuice] NYMEX Natural Gas October futures settle at $2.8220/MMBTU.
-- 09/10 03:33 [DeItaone] TRUMP ON IRAN: I'M DOING MUCH MORE THAN A NUCLEAR DEAL
-- 09/10 03:34 [financialjuice] Trump on Iran: I'm doing much more than a nuclear deal, many things on table.
-- 09/10 03:34 [financialjuice] Trump on Iran: We're not looking for a deal, but negotiation could happen
-- 09/10 03:34 [DeItaone] TRUMP ON IRAN: WE'RE NOT LOOKING FOR A DEAL
-- 09/10 03:34 [DeItaone] TRUMP ON IRAN: NEGOTIATION COULD HAPPEN
 - 09/10 03:41 [financialjuice] Brent crude futures settle at $101.21/bbl, up $3.29, 3.36%
 - 09/10 03:43 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $96.05/BBL, SURGING $3.02 OR 3.25%
 - 09/10 03:43 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $101.21/BBL, SURGING $3.29 OR 3.36%
@@ -778,3 +755,12 @@
 - 09/11 03:06 [financialjuice] Canada's PM Carney: I spoke to Trump in recent days.
 - 09/11 03:07 [financialjuice] Iran's President Pezeshkian will travel to New Delhi tomorrow to participate in the 18th BRICS Summit - Fars News
 - 09/11 03:17 [financialjuice] Israel's Prime Minister Netanyahu: IDF destroys Hezbollah facilities at Ali Taher ridge.
+- 09/11 03:30 [DeItaone] BRENT CRUDE FUTURES RISE BY $7 A BARREL AS US-IRAN CONFLICT INTENSIFIES
+- 09/11 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $5.0575 a gallon
+- 09/11 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.3932 a gallon
+- 09/11 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8340/MMBTU
+- 09/11 03:33 [financialjuice] US issues fresh Iran-related sanctions - Treasury website
+- 09/11 03:33 [financialjuice] US Official: Iranian or suspected Iranian oil on water averaged 110 mln barrels over past week vs 180 mln barrels before war.
+- 09/11 03:34 [financialjuice] US Official: Offloadings of Iranian oil down to 0.9 mb/d from 1.4 mb/d before war.
+- 09/11 03:34 [financialjuice] US Official: Loadings of Iranian oil at about 0.2 mln barrels per day over past 30 days, down from 1.8 mln barrels per day in January/February
+- 09/11 03:34 [financialjuice] US Treasury announces new sanctions against entities supporting Iran's proxies in Middle East, including Iraqi business executives.

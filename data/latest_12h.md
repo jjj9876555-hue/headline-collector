@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 03:19 JST／対象: 09/10 15:19 〜 09/11 03:19 JST（時刻はすべて日本時間）
+生成: 2026-09-11 03:36 JST／対象: 09/10 15:36 〜 09/11 03:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 09/10 16:41 | 09/11 03:05 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 193 | 09/10 15:21 | 09/11 03:04 | 26分（00:31→00:58） |
-| financialjuice | 214 | 09/10 17:00 | 09/11 03:17 | ⚠ 48分（17:04→17:53） |
+| DeItaone | 51 | 09/10 16:41 | 09/11 03:30 | ⚠ 108分（23:45→01:33） |
+| FirstSquawk | 188 | 09/10 15:38 | 09/11 03:04 | 26分（00:31→00:58） |
+| financialjuice | 222 | 09/10 17:00 | 09/11 03:34 | ⚠ 48分（17:04→17:53） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 439 行（統合前 462 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 443 行（統合前 466 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 15:21 [FirstSquawk] TotalEnergies expands its Angola exploration footprint following a new discovery on Block 17.
-- 09/10 15:23 [FirstSquawk] ASX 200 drops 1.03% to 8,819.40 at the close.
-- 09/10 15:32 [FirstSquawk] Volvo Group launches plans for an Energy Park as it expands its operations in Mariestad.
-- 09/10 15:32 [FirstSquawk] The initial Energy Park setup at Volvo is projected to provide about 70 MW of power and 260 MWh of storage.
-- 09/10 15:32 [FirstSquawk] Volvo expects the Energy Park to be up and running by 2027.
 - 09/10 15:38 [FirstSquawk] Iran’s growing ability to strike ships may have benefited from Russian or Chinese technology, according to WSJ sources.
 - 09/10 15:44 [FirstSquawk] Nissan plans to consolidate Serena and Elgrand manufacturing at the Tochigi plant, shifting production from Kyushu.
 - 09/10 15:45 [FirstSquawk] South Korea’s top diplomat says a meeting with U.S. Secretary of State Rubio is planned for September.
@@ -463,3 +458,12 @@
 - 09/11 03:06 [financialjuice] Canada's PM Carney: I spoke to Trump in recent days.
 - 09/11 03:07 [financialjuice] Iran's President Pezeshkian will travel to New Delhi tomorrow to participate in the 18th BRICS Summit - Fars News
 - 09/11 03:17 [financialjuice] Israel's Prime Minister Netanyahu: IDF destroys Hezbollah facilities at Ali Taher ridge.
+- 09/11 03:30 [DeItaone] BRENT CRUDE FUTURES RISE BY $7 A BARREL AS US-IRAN CONFLICT INTENSIFIES
+- 09/11 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $5.0575 a gallon
+- 09/11 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.3932 a gallon
+- 09/11 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8340/MMBTU
+- 09/11 03:33 [financialjuice] US issues fresh Iran-related sanctions - Treasury website
+- 09/11 03:33 [financialjuice] US Official: Iranian or suspected Iranian oil on water averaged 110 mln barrels over past week vs 180 mln barrels before war.
+- 09/11 03:34 [financialjuice] US Official: Offloadings of Iranian oil down to 0.9 mb/d from 1.4 mb/d before war.
+- 09/11 03:34 [financialjuice] US Official: Loadings of Iranian oil at about 0.2 mln barrels per day over past 30 days, down from 1.8 mln barrels per day in January/February
+- 09/11 03:34 [financialjuice] US Treasury announces new sanctions against entities supporting Iran's proxies in Middle East, including Iraqi business executives.
