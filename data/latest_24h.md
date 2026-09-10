@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 01:43 JST／対象: 09/10 01:43 〜 09/11 01:43 JST（時刻はすべて日本時間）
+生成: 2026-09-11 01:58 JST／対象: 09/10 01:58 〜 09/11 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 09/10 02:13 | 09/11 01:36 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 375 | 09/10 01:52 | 09/11 01:41 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 342 | 09/10 01:46 | 09/11 01:37 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 69 | 09/10 02:13 | 09/11 01:56 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 375 | 09/10 02:47 | 09/11 01:53 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 341 | 09/10 02:00 | 09/11 01:53 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 760 行（統合前 788 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 763 行（統合前 791 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 01:46 [financialjuice] Blast heard around Strait of Hormuz - IRIB
-- 09/10 01:50 [financialjuice] WATCH LIVE: Apple Event 1 PM ET $AAPL
-- 09/10 01:52 [FirstSquawk] BLAST REPORTED IN THE STRAIT OF HORMUZ, ACCORDING TO IRIB.
-- 09/10 01:53 [financialjuice] ❗ Russia's Siluanov: Russia weighs $50/bbl budget rule oil price - IFX.
 - 09/10 02:00 [financialjuice] Treasury WI 10 yr yield 4.849% before $39 billion auction
 - 09/10 02:02 [financialjuice] US 10-YEAR NOTE HIGH YIELD ACTUAL 4.834% (FORECAST -, PREVIOUS 4.683%) $MACRO
 - 09/10 02:02 [financialjuice] US 10-YEAR NOTE BID-TO-COVER ACTUAL 2.71 (FORECAST -, PREVIOUS 2.530) $MACRO
@@ -784,3 +780,10 @@
 - 09/11 01:37 [financialjuice] Arab and Israeli officials are bracing for continued fighting - WSJ.
 - 09/11 01:41 [FirstSquawk] MACY'S WILL REINVEST $96 MILLION FROM TARIFF REFUNDS INTO ITS OPERATIONS, SAYS WSJ.
 - 09/11 01:41 [FirstSquawk] MACY'S WILL REDUCE PRICES ON FURNITURE AND JEWELRY DUE TO TARIFF EFFECTS, ACCORDING TO WSJ.
+- 09/11 01:44 [DeItaone] IRAN STRIKE DAMAGES U.S. WARPLANES IN JORDAN Iranian strikes on a U.S. base in Jordan damaged multiple American military aircraft, a U.S. official told Reuters. One A-10 lost a wing, while roughly eight F-15s sustained light damage and retu…
+- 09/11 01:49 [DeItaone] U.S. DIESEL SURGES ABOVE $5 AS SUPPLY SQUEEZE DEEPENS U.S. diesel futures surged above $5 a gallon for the first time since 2022, as Middle East disruptions and Russia’s export ban tighten global supplies. Retail diesel has already hit a re…
+- 09/11 01:51 [DeItaone] IRGC CLAIMS U.S. DRONE DESTROYED IN HORMUZ Iran’s IRGC Navy claims it destroyed a U.S. unmanned vessel at the entrance to the Strait of Hormuz, identifying it as hull number 5838. The IRGC also declared that Hormuz remains blocked and under…
+- 09/11 01:52 [financialjuice] IRGC: Strait of Hormuz is blocked and under our intelligent control and information dominance, and any hostile presence in this strategic Strait will be targeted - IRIB.
+- 09/11 01:53 [FirstSquawk] WALMART SAID TO BE EXPLORING FOOD DELIVERY BUSINESS AND DARK STORES $WMT
+- 09/11 01:53 [financialjuice] Iran's IRGC: We hit a US unmanned vessel in the Strait of Hormuz - State Media.
+- 09/11 01:56 [DeItaone] IRAN REBUILDING BALLISTIC MISSILE ARSENAL Iran has resumed production of ballistic missiles, using stockpiled components and underground facilities, according to U.S. and Middle Eastern officials cited by the WSJ. Despite heavy strikes on i…

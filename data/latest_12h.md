@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 01:43 JST／対象: 09/10 13:43 〜 09/11 01:43 JST（時刻はすべて日本時間）
+生成: 2026-09-11 01:58 JST／対象: 09/10 13:58 〜 09/11 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 09/10 16:41 | 09/11 01:36 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 218 | 09/10 13:45 | 09/11 01:41 | 26分（00:31→00:58） |
-| financialjuice | 212 | 09/10 13:47 | 09/11 01:37 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 45 | 09/10 16:41 | 09/11 01:56 | ⚠ 108分（23:45→01:33） |
+| FirstSquawk | 214 | 09/10 14:01 | 09/11 01:53 | 26分（00:31→00:58） |
+| financialjuice | 210 | 09/10 14:00 | 09/11 01:53 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 455 行（統合前 476 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 453 行（統合前 474 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 13:45 [FirstSquawk] Trump offers $5,000 to every US adult if Republicans secure victory in the November midterm elections.
-- 09/10 13:47 [FirstSquawk] Four killed after Russian air strikes hit Ukraine’s port of Mykolaiv, official says.
-- 09/10 13:47 [financialjuice] Russian air strikes hit Ukraine's Mykolaiv port, kill four: official
-- 09/10 13:51 [financialjuice] Russian Defence Ministry: drone warehouse struck in Ukraine's Mykolaiv
-- 09/10 13:52 [financialjuice] Russian defence ministry: also struck Ukraine's Black Sea port of Chornomorsk, two ships near Odesa
-- 09/10 13:54 [financialjuice] Japan chief cabinet secretary Kihara: aim to tackle abduction issue firmly to achieve Japan-North Korea summit meeting
-- 09/10 13:54 [FirstSquawk] Russian Defence Ministry reports a strike on a drone warehouse in Mykolaiv.
-- 09/10 13:54 [FirstSquawk] Russian Defence Ministry reports strikes on Chornomorsk port and two vessels near Odesa.
-- 09/10 13:55 [FirstSquawk] Japan Chief Cabinet Secretary Kihara says resolving the abduction issue is key to realizing a summit with North Korea.
 - 09/10 14:00 [financialjuice] Finnish industrial output rises 4.5% in July year on year, Statistics Finland
 - 09/10 14:01 [FirstSquawk] Roche’s Enspryng receives U.S. FDA priority review for MOGAD, which has no approved treatments.
 - 09/10 14:15 [FirstSquawk] Hong Kong stocks face wild swings as investors see little chance of state intervention.
@@ -479,3 +470,10 @@
 - 09/11 01:37 [financialjuice] Arab and Israeli officials are bracing for continued fighting - WSJ.
 - 09/11 01:41 [FirstSquawk] MACY'S WILL REINVEST $96 MILLION FROM TARIFF REFUNDS INTO ITS OPERATIONS, SAYS WSJ.
 - 09/11 01:41 [FirstSquawk] MACY'S WILL REDUCE PRICES ON FURNITURE AND JEWELRY DUE TO TARIFF EFFECTS, ACCORDING TO WSJ.
+- 09/11 01:44 [DeItaone] IRAN STRIKE DAMAGES U.S. WARPLANES IN JORDAN Iranian strikes on a U.S. base in Jordan damaged multiple American military aircraft, a U.S. official told Reuters. One A-10 lost a wing, while roughly eight F-15s sustained light damage and retu…
+- 09/11 01:49 [DeItaone] U.S. DIESEL SURGES ABOVE $5 AS SUPPLY SQUEEZE DEEPENS U.S. diesel futures surged above $5 a gallon for the first time since 2022, as Middle East disruptions and Russia’s export ban tighten global supplies. Retail diesel has already hit a re…
+- 09/11 01:51 [DeItaone] IRGC CLAIMS U.S. DRONE DESTROYED IN HORMUZ Iran’s IRGC Navy claims it destroyed a U.S. unmanned vessel at the entrance to the Strait of Hormuz, identifying it as hull number 5838. The IRGC also declared that Hormuz remains blocked and under…
+- 09/11 01:52 [financialjuice] IRGC: Strait of Hormuz is blocked and under our intelligent control and information dominance, and any hostile presence in this strategic Strait will be targeted - IRIB.
+- 09/11 01:53 [FirstSquawk] WALMART SAID TO BE EXPLORING FOOD DELIVERY BUSINESS AND DARK STORES $WMT
+- 09/11 01:53 [financialjuice] Iran's IRGC: We hit a US unmanned vessel in the Strait of Hormuz - State Media.
+- 09/11 01:56 [DeItaone] IRAN REBUILDING BALLISTIC MISSILE ARSENAL Iran has resumed production of ballistic missiles, using stockpiled components and underground facilities, according to U.S. and Middle Eastern officials cited by the WSJ. Despite heavy strikes on i…
