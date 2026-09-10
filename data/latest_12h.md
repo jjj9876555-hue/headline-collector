@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 22:44 JST／対象: 09/10 10:44 〜 09/10 22:44 JST（時刻はすべて日本時間）
+生成: 2026-09-10 22:58 JST／対象: 09/10 10:58 〜 09/10 22:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 31 | 09/10 16:41 | 09/10 22:36 | 35分（17:30→18:05） |
-| FirstSquawk | 232 | 09/10 10:45 | 09/10 22:40 | 18分（20:15→20:33） |
-| financialjuice | 175 | 09/10 10:45 | 09/10 22:38 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 227 | 09/10 11:02 | 09/10 22:48 | 18分（20:15→20:33） |
+| financialjuice | 173 | 09/10 11:11 | 09/10 22:48 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 423 行（統合前 442 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 416 行（統合前 435 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 10:45 [financialjuice] Boj's Masu: Boj Must Raise Rates Further and Push Policy Rate to Estimated Neutral Level to Prepare for Nimble Policy Moves
-- 09/10 10:45 [FirstSquawk] Masu says the BOJ should push its policy rate toward the estimated neutral range, allowing it to conduct monetary policy more flexibly.
-- 09/10 10:46 [FirstSquawk] Trump says the strategic waterway currently known as the Strait of Hormuz will be called the “Trump Strait.”
-- 09/10 10:46 [financialjuice] BOJ's Masu: no sign recent rate increases are weakening corporate demand for funds, concerned about potential overheating of corporate investment
-- 09/10 10:47 [FirstSquawk] BOJ board member Masu says corporate funding demand remains strong after recent rate hikes, raising concerns that investment activity could be running too hot.
-- 09/10 10:48 [financialjuice] BOJ's Masu: Debating maturity zones of JGBs held more crucial than balance sheet size
-- 09/10 10:48 [FirstSquawk] Masu says the BOJ will need to pay greater attention to the maturity composition of its JGB holdings when considering the appropriate balance-sheet size.
-- 09/10 10:50 [financialjuice] Yield gap between 10-year Chinese government bonds and US Treasury expands to record 316.7 basis points
-- 09/10 10:50 [FirstSquawk] Spread between China’s and the U.S.’s 10-year government bond yields hits an all-time high of 316.7 basis points.
-- 09/10 10:52 [FirstSquawk] Australia’s September consumer inflation expectations stay at 4.9%, matching the previous month.
-- 09/10 10:58 [FirstSquawk] SK Group chief to visit AI data center under construction in Ulsan - yonhap
 - 09/10 11:02 [FirstSquawk] Trump threatens to strike Mount Fao heavily if Iran resumes or conducts nuclear activity at the location.
 - 09/10 11:04 [FirstSquawk] Hong Kong’s biotech benchmark declines 2% in trading.
 - 09/10 11:07 [FirstSquawk] UBS to end fund sales activities at its China distribution unit in Shenzhen from the end of September.
@@ -447,3 +436,7 @@
 - 09/10 22:39 [FirstSquawk] SPACEX OVERHAULS DATA CENTER BUILD-OUT, POTENTIALLY SLOWING EXPANSION - THE INFORMATION
 - 09/10 22:39 [FirstSquawk] YEMENI ARMED FORCES GAIN CONTROL OF ZUBAYR CITY AND THE STRATEGIC ZAQAR ISLAND NEAR BAB-EL-MANDEB - TASNIM
 - 09/10 22:40 [FirstSquawk] ECB'S LAGARDE: LONGER THAN EXPECTED ENERGY SHOCK WOULD SEE SECOND ROUND EFFECTS, WILL AFFECT FOOD PRICES
+- 09/10 22:47 [financialjuice] ECB projections assume exchange rate of $1.16 in 2026-2028.
+- 09/10 22:48 [financialjuice] ECB projections assume oil price of $89.5/barrel in 2026, $74 in 2027, and $73.60 in 2028.
+- 09/10 22:48 [FirstSquawk] ECB PROJECTIONS ASSUME OIL PRICE OF $89.5/BARREL IN 2026
+- 09/10 22:48 [FirstSquawk] ECB PROJECTIONS ASSUME OIL PRICE OF $78/BARREL IN 2027

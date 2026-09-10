@@ -7,28 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 22:44 JST／対象: 09/09 22:44 〜 09/10 22:44 JST（時刻はすべて日本時間）
+生成: 2026-09-10 22:58 JST／対象: 09/09 22:58 〜 09/10 22:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 63 | 09/09 23:16 | 09/10 22:36 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 382 | 09/09 22:45 | 09/10 22:40 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 329 | 09/09 22:44 | 09/10 22:38 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 382 | 09/09 23:03 | 09/10 22:48 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 329 | 09/09 23:16 | 09/10 22:48 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 752 行（統合前 780 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 753 行（統合前 780 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 22:44 [financialjuice/FirstSquawk] Yemeni sources report Saudi-backed government's defense minister flees and goes into hiding - Mehr News
-- 09/09 22:45 [FirstSquawk] REFORM UK WILL BE UNDER CRIMINAL INVESTIGATION REGARDING DONATIONS.
-- 09/09 22:45 [financialjuice] Saudi-led coalition warplanes carried out 4 airstrikes in Saada, Yemen - Tasnim News
-- 09/09 22:55 [FirstSquawk] RBC CEO DAVE MCKAY: ESCALATION OF TRADE WAR LEADING TO SOME CAUTION ON CREDIT
 - 09/09 23:03 [FirstSquawk] SAUDI-LED COALITION WARPLANES CARRIED OUT 4 AIRSTRIKES IN SAADA, YEMEN - TASNIM
+- 09/09 23:04 [FirstSquawk] YEMENI SOURCES REPORT SAUDI-BACKED GOVERNMENT'S DEFENSE MINISTER FLEES AND GOES INTO HIDING - MEHR NEWS
 - 09/09 23:16 [DeItaone] BREAKING: Call option notional open interest on the Brazil ETF, $EWZ, has surged to a record $20 billion this week. This figure has nearly doubled over the last several weeks. As a result, total $EWZ call open interest exceeded 5 million co…
 - 09/09 23:16 [financialjuice] Fire broke out at energy facility in Yamal after attack - TASS
 - 09/09 23:17 [financialjuice] Crypto Fear & Greed Index: 66/100 - Greed
@@ -776,3 +773,7 @@
 - 09/10 22:39 [FirstSquawk] SPACEX OVERHAULS DATA CENTER BUILD-OUT, POTENTIALLY SLOWING EXPANSION - THE INFORMATION
 - 09/10 22:39 [FirstSquawk] YEMENI ARMED FORCES GAIN CONTROL OF ZUBAYR CITY AND THE STRATEGIC ZAQAR ISLAND NEAR BAB-EL-MANDEB - TASNIM
 - 09/10 22:40 [FirstSquawk] ECB'S LAGARDE: LONGER THAN EXPECTED ENERGY SHOCK WOULD SEE SECOND ROUND EFFECTS, WILL AFFECT FOOD PRICES
+- 09/10 22:47 [financialjuice] ECB projections assume exchange rate of $1.16 in 2026-2028.
+- 09/10 22:48 [financialjuice] ECB projections assume oil price of $89.5/barrel in 2026, $74 in 2027, and $73.60 in 2028.
+- 09/10 22:48 [FirstSquawk] ECB PROJECTIONS ASSUME OIL PRICE OF $89.5/BARREL IN 2026
+- 09/10 22:48 [FirstSquawk] ECB PROJECTIONS ASSUME OIL PRICE OF $78/BARREL IN 2027
