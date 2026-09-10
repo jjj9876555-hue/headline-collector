@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 20:17 JST／対象: 09/09 20:17 〜 09/10 20:17 JST（時刻はすべて日本時間）
+生成: 2026-09-10 20:33 JST／対象: 09/09 20:33 〜 09/10 20:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 56 | 09/09 20:35 | 09/10 20:04 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 355 | 09/09 20:24 | 09/10 20:15 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 236 | 09/09 20:26 | 09/10 20:01 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 57 | 09/09 20:35 | 09/10 20:28 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 348 | 09/09 20:33 | 09/10 20:33 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 235 | 09/09 20:34 | 09/10 20:01 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 634 行（統合前 649 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 627 行（統合前 642 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 20:24 [FirstSquawk] US BANK LAUNCHES USBDC STABLECOIN
-- 09/09 20:24 [FirstSquawk] UK PM BURNHAM: WILL TAKE PRAGMATIC APPROACH ON NORTH SEA OIL AND GAS
-- 09/09 20:26 [FirstSquawk] BURNHAM: PLAN FURTHER MEASURES ON COST OF LIVING THIS YEAR
-- 09/09 20:26 [FirstSquawk] BURNHAM ANNOUNCES MORE COST OF LIVING ACTIONS THIS YEAR.
-- 09/09 20:26 [financialjuice] UK's PM Burnham: We plan further measures on cost of living this year.
-- 09/09 20:27 [FirstSquawk] GERMAN GOVERNMENT SPOKESPERSON ON PLANNED EU BUDGET: WE DON'T YET HAVE VIABLE BASIS FOR TALKS, FIGURES NEED TO COME DOWN
-- 09/09 20:29 [FirstSquawk] UBER ANNOUNCES €4.5 BILLION EURO BOND SALE FOR ITS MARKET DEBUT.
-- 09/09 20:31 [FirstSquawk] STOXX EUROPE 600 EXTENDS LOSSES TO 1.5%, MOST IN TWO MONTHS
-- 09/09 20:31 [FirstSquawk] UK GILTS DECLINE; UK 10Y YIELD RISES 5BPS TO 5.23%
 - 09/09 20:33 [FirstSquawk] AIRLINES CALL FOR UK AIR TRAFFIC CONTROL BOSS TO QUIT AS DISRUPTION CONTINUES – FT
 - 09/09 20:34 [financialjuice] Fitch Ratings: Severe equity price shock scenario would entail US recession.
 - 09/09 20:35 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS RISE TO 4.4253%, HIGHEST SINCE JANUARY 2025
@@ -658,3 +649,5 @@
 - 09/10 20:04 [DeItaone] 📅 PRESIDENT TRUMP — THURSDAY SCHEDULE 8:00 AM CT — Executive Time — Dallas 12:00 PM CT — Tours the National Medal of Honor Museum — Arlington 12:30 PM CT — Delivers remarks at the museum 5:15 PM CT — Participates in RNC Roundtable — Dallas …
 - 09/10 20:10 [FirstSquawk] Macy’s Q2 2026 Earnings - Comp Sales +2.7% (est +0.86%) - Adj EPS 63C (est 36C) - Net Sales $4.87B, +1.1% Y/Y - Gross Margin 41.5% (est 39.7%) - Sees FY Net Sales $21.68B To $21.83B, Saw $21.58 To $21.75B - Sees FY Adj EPS $2.15 To $2.35, S…
 - 09/10 20:15 [FirstSquawk] KREMLIN: RUSSIA WILL DISCUSS TRADE SETTLEMENTS IN DIGITAL CURRENCIES WITH BRICS+ PARTNERS AT SUMMIT IN INDIA
+- 09/10 20:28 [DeItaone] $SPCX - UK DEEPENS SPACEX RELIANCE WITH $40 MILLION SATELLITE SPEND Britain has spent nearly $40 million on SpaceX satellite services, becoming the first country outside the U.S. to publicly acknowledge adopting Starshield. The UK military …
+- 09/10 20:33 [FirstSquawk] KREMLIN: RUSSIA WILL CONTINUE TO DESTROY VESSELS TRANSPORTING AMMUNITION FOR UKRAINE IN BLACK SEA

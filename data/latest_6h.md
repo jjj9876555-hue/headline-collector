@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 20:17 JST／対象: 09/10 14:17 〜 09/10 20:17 JST（時刻はすべて日本時間）
+生成: 2026-09-10 20:33 JST／対象: 09/10 14:33 〜 09/10 20:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 09/10 16:41 | 09/10 20:04 | 35分（17:30→18:05） |
-| FirstSquawk | 108 | 09/10 14:17 | 09/10 20:15 | 14分（18:38→18:53） |
+| DeItaone | 17 | 09/10 16:41 | 09/10 20:28 | 35分（17:30→18:05） |
+| FirstSquawk | 106 | 09/10 14:36 | 09/10 20:33 | 18分（20:15→20:33） |
 | financialjuice | 28 | 09/10 14:38 | 09/10 20:01 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 147 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 146 行（統合前 151 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 14:17 [FirstSquawk] Finnish industrial output grows 4.5% year on year in July, data shows.
-- 09/10 14:21 [FirstSquawk] Rising crude prices are putting pressure on Asian equities, with oil above $100 adding to inflation concerns.
-- 09/10 14:28 [FirstSquawk] AI-driven data-center expansion is fueling interest in nuclear power, putting renewed upward pressure on uranium prices.
 - 09/10 14:36 [FirstSquawk] TSMC posted record August revenue, with sales surging more than 53% year on year as per CNBC
 - 09/10 14:38 [FirstSquawk] BOJ’s Masu says inflation is moving closer to 2%, while a sharp rise beyond the target is not currently anticipated.
 - 09/10 14:38 [financialjuice] BoJ's Masu: Underlying inflation gradually approaching 2% but don't see it overshooting sharply above that level now.
@@ -171,3 +168,5 @@
 - 09/10 20:04 [DeItaone] 📅 PRESIDENT TRUMP — THURSDAY SCHEDULE 8:00 AM CT — Executive Time — Dallas 12:00 PM CT — Tours the National Medal of Honor Museum — Arlington 12:30 PM CT — Delivers remarks at the museum 5:15 PM CT — Participates in RNC Roundtable — Dallas …
 - 09/10 20:10 [FirstSquawk] Macy’s Q2 2026 Earnings - Comp Sales +2.7% (est +0.86%) - Adj EPS 63C (est 36C) - Net Sales $4.87B, +1.1% Y/Y - Gross Margin 41.5% (est 39.7%) - Sees FY Net Sales $21.68B To $21.83B, Saw $21.58 To $21.75B - Sees FY Adj EPS $2.15 To $2.35, S…
 - 09/10 20:15 [FirstSquawk] KREMLIN: RUSSIA WILL DISCUSS TRADE SETTLEMENTS IN DIGITAL CURRENCIES WITH BRICS+ PARTNERS AT SUMMIT IN INDIA
+- 09/10 20:28 [DeItaone] $SPCX - UK DEEPENS SPACEX RELIANCE WITH $40 MILLION SATELLITE SPEND Britain has spent nearly $40 million on SpaceX satellite services, becoming the first country outside the U.S. to publicly acknowledge adopting Starshield. The UK military …
+- 09/10 20:33 [FirstSquawk] KREMLIN: RUSSIA WILL CONTINUE TO DESTROY VESSELS TRANSPORTING AMMUNITION FOR UKRAINE IN BLACK SEA

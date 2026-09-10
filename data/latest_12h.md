@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 20:17 JST／対象: 09/10 08:17 〜 09/10 20:17 JST（時刻はすべて日本時間）
+生成: 2026-09-10 20:33 JST／対象: 09/10 08:33 〜 09/10 20:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 09/10 16:41 | 09/10 20:04 | 35分（17:30→18:05） |
-| FirstSquawk | 214 | 09/10 09:05 | 09/10 20:15 | 14分（18:38→18:53） |
-| financialjuice | 82 | 09/10 08:31 | 09/10 20:01 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 17 | 09/10 16:41 | 09/10 20:28 | 35分（17:30→18:05） |
+| FirstSquawk | 215 | 09/10 09:05 | 09/10 20:33 | 18分（20:15→20:33） |
+| financialjuice | 80 | 09/10 08:50 | 09/10 20:01 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 307 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 08:31 [financialjuice] OpenAI: pushing for compulsory national AI safety regulations
-- 09/10 08:32 [financialjuice] OpenAI: backing four California bills
 - 09/10 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL 690.0B (FORECAST -, PREVIOUS 35.8B ,REVISION 35.9B) $MACRO
 - 09/10 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL 111.9B (FORECAST -, PREVIOUS -824.0B) $MACRO
 - 09/10 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL -481.6B (FORECAST -, PREVIOUS 35.8B) $MACRO
@@ -331,3 +329,5 @@
 - 09/10 20:04 [DeItaone] 📅 PRESIDENT TRUMP — THURSDAY SCHEDULE 8:00 AM CT — Executive Time — Dallas 12:00 PM CT — Tours the National Medal of Honor Museum — Arlington 12:30 PM CT — Delivers remarks at the museum 5:15 PM CT — Participates in RNC Roundtable — Dallas …
 - 09/10 20:10 [FirstSquawk] Macy’s Q2 2026 Earnings - Comp Sales +2.7% (est +0.86%) - Adj EPS 63C (est 36C) - Net Sales $4.87B, +1.1% Y/Y - Gross Margin 41.5% (est 39.7%) - Sees FY Net Sales $21.68B To $21.83B, Saw $21.58 To $21.75B - Sees FY Adj EPS $2.15 To $2.35, S…
 - 09/10 20:15 [FirstSquawk] KREMLIN: RUSSIA WILL DISCUSS TRADE SETTLEMENTS IN DIGITAL CURRENCIES WITH BRICS+ PARTNERS AT SUMMIT IN INDIA
+- 09/10 20:28 [DeItaone] $SPCX - UK DEEPENS SPACEX RELIANCE WITH $40 MILLION SATELLITE SPEND Britain has spent nearly $40 million on SpaceX satellite services, becoming the first country outside the U.S. to publicly acknowledge adopting Starshield. The UK military …
+- 09/10 20:33 [FirstSquawk] KREMLIN: RUSSIA WILL CONTINUE TO DESTROY VESSELS TRANSPORTING AMMUNITION FOR UKRAINE IN BLACK SEA
