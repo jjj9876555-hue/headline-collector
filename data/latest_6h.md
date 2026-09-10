@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 01:58 JST／対象: 09/10 19:58 〜 09/11 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 02:16 JST／対象: 09/10 20:16 〜 09/11 02:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/10 19:59 | 09/11 01:56 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 107 | 09/10 20:00 | 09/11 01:53 | 26分（00:31→00:58） |
-| financialjuice | 182 | 09/10 20:00 | 09/11 01:53 | 36分（20:01→20:38） |
+| DeItaone | 29 | 09/10 20:28 | 09/11 01:56 | ⚠ 108分（23:45→01:33） |
+| FirstSquawk | 106 | 09/10 20:33 | 09/11 02:11 | 26分（00:31→00:58） |
+| financialjuice | 186 | 09/10 20:38 | 09/11 02:04 | 19分（00:33→00:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 309 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 310 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 19:59 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:15 AM ET — 🇪🇺 ECB Rate Decision 8:30 AM ET — 🇺🇸 PPI + Jobless Claims 8:45 AM ET — 🇪🇺 Lagarde Press Conference 10:00 AM ET — 🏠 Existing Home Sales 10:30 AM ET — 🔥 EIA Natural Gas Storage 12:00 PM ET — …
-- 09/10 20:00 [FirstSquawk] TURKEY LEAVES ONE-WEEK REPO RATE AT 37%; EST. 37.00%
-- 09/10 20:00 [financialjuice] TURKISH WEEKLY REPO RATE ACTUAL 37% (FORECAST 37%, PREVIOUS 37.00%) $MACRO
-- 09/10 20:00 [FirstSquawk] RUSSIAN BANK REPORTS 25% OF CORPORATE LOANS AS TROUBLESOME.
-- 09/10 20:01 [financialjuice] UKMTO: Has received a report of an incident 98NM Southwest of Al Mukalla, Yemen.
-- 09/10 20:04 [DeItaone] 📅 PRESIDENT TRUMP — THURSDAY SCHEDULE 8:00 AM CT — Executive Time — Dallas 12:00 PM CT — Tours the National Medal of Honor Museum — Arlington 12:30 PM CT — Delivers remarks at the museum 5:15 PM CT — Participates in RNC Roundtable — Dallas …
-- 09/10 20:10 [FirstSquawk] Macy’s Q2 2026 Earnings - Comp Sales +2.7% (est +0.86%) - Adj EPS 63C (est 36C) - Net Sales $4.87B, +1.1% Y/Y - Gross Margin 41.5% (est 39.7%) - Sees FY Net Sales $21.68B To $21.83B, Saw $21.58 To $21.75B - Sees FY Adj EPS $2.15 To $2.35, S…
-- 09/10 20:15 [FirstSquawk] KREMLIN: RUSSIA WILL DISCUSS TRADE SETTLEMENTS IN DIGITAL CURRENCIES WITH BRICS+ PARTNERS AT SUMMIT IN INDIA
 - 09/10 20:28 [DeItaone] $SPCX - UK DEEPENS SPACEX RELIANCE WITH $40 MILLION SATELLITE SPEND Britain has spent nearly $40 million on SpaceX satellite services, becoming the first country outside the U.S. to publicly acknowledge adopting Starshield. The UK military …
 - 09/10 20:33 [FirstSquawk] KREMLIN: RUSSIA WILL CONTINUE TO DESTROY VESSELS TRANSPORTING AMMUNITION FOR UKRAINE IN BLACK SEA
 - 09/10 20:38 [FirstSquawk] UN ATOMIC WATCHDOG SAYS LOSING CONTINUITY OF KNOWLEDGFE IN IRAN SAYS IAEA
@@ -333,3 +325,12 @@
 - 09/11 01:53 [FirstSquawk] WALMART SAID TO BE EXPLORING FOOD DELIVERY BUSINESS AND DARK STORES $WMT
 - 09/11 01:53 [financialjuice] Iran's IRGC: We hit a US unmanned vessel in the Strait of Hormuz - State Media.
 - 09/11 01:56 [DeItaone] IRAN REBUILDING BALLISTIC MISSILE ARSENAL Iran has resumed production of ballistic missiles, using stockpiled components and underground facilities, according to U.S. and Middle Eastern officials cited by the WSJ. Despite heavy strikes on i…
+- 09/11 02:00 [financialjuice] Treasury WI 30-year yield 5.335% before $22 billion auction.
+- 09/11 02:01 [FirstSquawk] FLOTEK $FTK BOOSTS 2026 GUIDANCE AGAIN, TARGETS 54% REVENUE GROWTH & 58% ADJUSTED EBITDA GROWTH AT MIDPOINTS $FTK
+- 09/11 02:02 [financialjuice] US 30-YEAR BOND HIGH YIELD ACTUAL 5.308% (FORECAST -, PREVIOUS 5.216%) $MACRO
+- 09/11 02:02 [financialjuice] US 30-YEAR BOND BID-TO-COVER ACTUAL 2.610 (FORECAST -, PREVIOUS 2.390) $MACRO
+- 09/11 02:02 [financialjuice] US 30-Year Bond Auction High Yield 5.308% (Stopped through by 2.7 basis points) Bid-to-cover 2.61 Sells $22 bln Awards 64.29% of bids at high Primary Dealers take 2.21% Direct 18.31% Indirect 79.48% 13:02 Sep 10US Bonds
+- 09/11 02:04 [financialjuice] Moonshot secretly routed user requests through Claude and Anthropic.
+- 09/11 02:04 [financialjuice] Anthropic: Spotted nearly 300,000 customer requests that moonshot sent primarily to Anthropic’s Opus AI model
+- 09/11 02:11 [FirstSquawk] US 30-Year Bond Sale: - High Yield Rate: 5.308% (prev 5.216%)- Bid-Cover Ratio: 2.61 (prev 2.39)- Direct Accepted: 18.3% (prev 21.6%)- Indirect Accepted: 79.5% (prev 66.8%)- WI: 5.335%
+- 09/11 02:11 [FirstSquawk] UBER $UBER CEO DARA KHOSROWSHAHI FILES TO BUY 141,000 SHARES AT $70.96 AVERAGE, WORTH ~$10M $UBER

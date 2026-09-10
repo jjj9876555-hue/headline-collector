@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 01:58 JST／対象: 09/10 13:58 〜 09/11 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 02:16 JST／対象: 09/10 14:16 〜 09/11 02:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 45 | 09/10 16:41 | 09/11 01:56 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 214 | 09/10 14:01 | 09/11 01:53 | 26分（00:31→00:58） |
-| financialjuice | 210 | 09/10 14:00 | 09/11 01:53 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 214 | 09/10 14:17 | 09/11 02:11 | 26分（00:31→00:58） |
+| financialjuice | 215 | 09/10 14:17 | 09/11 02:04 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 453 行（統合前 474 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 458 行（統合前 479 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 14:00 [financialjuice] Finnish industrial output rises 4.5% in July year on year, Statistics Finland
-- 09/10 14:01 [FirstSquawk] Roche’s Enspryng receives U.S. FDA priority review for MOGAD, which has no approved treatments.
-- 09/10 14:15 [FirstSquawk] Hong Kong stocks face wild swings as investors see little chance of state intervention.
-- 09/10 14:16 [FirstSquawk] Beijing rejects US accusations of AI technology copying and threatens retaliation.
 - 09/10 14:17 [financialjuice] China chipmakers raised prices for AI processors, including Huawei and Cambricon.
 - 09/10 14:17 [FirstSquawk] Finnish industrial output grows 4.5% year on year in July, data shows.
 - 09/10 14:21 [FirstSquawk] Rising crude prices are putting pressure on Asian equities, with oil above $100 adding to inflation concerns.
@@ -477,3 +473,12 @@
 - 09/11 01:53 [FirstSquawk] WALMART SAID TO BE EXPLORING FOOD DELIVERY BUSINESS AND DARK STORES $WMT
 - 09/11 01:53 [financialjuice] Iran's IRGC: We hit a US unmanned vessel in the Strait of Hormuz - State Media.
 - 09/11 01:56 [DeItaone] IRAN REBUILDING BALLISTIC MISSILE ARSENAL Iran has resumed production of ballistic missiles, using stockpiled components and underground facilities, according to U.S. and Middle Eastern officials cited by the WSJ. Despite heavy strikes on i…
+- 09/11 02:00 [financialjuice] Treasury WI 30-year yield 5.335% before $22 billion auction.
+- 09/11 02:01 [FirstSquawk] FLOTEK $FTK BOOSTS 2026 GUIDANCE AGAIN, TARGETS 54% REVENUE GROWTH & 58% ADJUSTED EBITDA GROWTH AT MIDPOINTS $FTK
+- 09/11 02:02 [financialjuice] US 30-YEAR BOND HIGH YIELD ACTUAL 5.308% (FORECAST -, PREVIOUS 5.216%) $MACRO
+- 09/11 02:02 [financialjuice] US 30-YEAR BOND BID-TO-COVER ACTUAL 2.610 (FORECAST -, PREVIOUS 2.390) $MACRO
+- 09/11 02:02 [financialjuice] US 30-Year Bond Auction High Yield 5.308% (Stopped through by 2.7 basis points) Bid-to-cover 2.61 Sells $22 bln Awards 64.29% of bids at high Primary Dealers take 2.21% Direct 18.31% Indirect 79.48% 13:02 Sep 10US Bonds
+- 09/11 02:04 [financialjuice] Moonshot secretly routed user requests through Claude and Anthropic.
+- 09/11 02:04 [financialjuice] Anthropic: Spotted nearly 300,000 customer requests that moonshot sent primarily to Anthropic’s Opus AI model
+- 09/11 02:11 [FirstSquawk] US 30-Year Bond Sale: - High Yield Rate: 5.308% (prev 5.216%)- Bid-Cover Ratio: 2.61 (prev 2.39)- Direct Accepted: 18.3% (prev 21.6%)- Indirect Accepted: 79.5% (prev 66.8%)- WI: 5.335%
+- 09/11 02:11 [FirstSquawk] UBER $UBER CEO DARA KHOSROWSHAHI FILES TO BUY 141,000 SHARES AT $70.96 AVERAGE, WORTH ~$10M $UBER

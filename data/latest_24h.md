@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 01:58 JST／対象: 09/10 01:58 〜 09/11 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 02:16 JST／対象: 09/10 02:16 〜 09/11 02:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 69 | 09/10 02:13 | 09/11 01:56 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 375 | 09/10 02:47 | 09/11 01:53 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 341 | 09/10 02:00 | 09/11 01:53 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 65 | 09/10 02:19 | 09/11 01:56 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 378 | 09/10 02:47 | 09/11 02:11 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 339 | 09/10 02:16 | 09/11 02:04 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 763 行（統合前 791 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 760 行（統合前 788 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 02:00 [financialjuice] Treasury WI 10 yr yield 4.849% before $39 billion auction
-- 09/10 02:02 [financialjuice] US 10-YEAR NOTE HIGH YIELD ACTUAL 4.834% (FORECAST -, PREVIOUS 4.683%) $MACRO
-- 09/10 02:02 [financialjuice] US 10-YEAR NOTE BID-TO-COVER ACTUAL 2.71 (FORECAST -, PREVIOUS 2.530) $MACRO
-- 09/10 02:03 [financialjuice] US 10-Year Note Auction
-- 09/10 02:03 [financialjuice] US 10-Year Note Auction High Yield 4.834% [Stop-through 1.5 bps] Bid-to-cover 2.71 Sells 39 bln Awards 89.25% of bids at high Primary Dealers take 4.3% Direct 16.5% Indirect 79.2%
-- 09/10 02:08 [financialjuice] Apple unveils iPhone 18 Pro and iPhone 18 Pro Max at event
-- 09/10 02:13 [DeItaone] APPLE: APPLE INTELLIGENCE IS NOT AVAILABLE IN CHINA - EVENT
-- 09/10 02:14 [DeItaone] APPLE: UPDATED SIRI WILL NOT BE AVAILABLE IN EU AND CHINA – EVENT
-- 09/10 02:14 [financialjuice] Apple: Apple Intelligence is not available in China or the EU - Event. $AAPL
-- 09/10 02:14 [DeItaone] APPLE ANNONCES A20 PRO CHIP BASED ON 2NM TECHNOLOGY - EVENT
-- 09/10 02:15 [financialjuice] Apple announces A20 Pro chip based on 2NM technology $AAPL
-- 09/10 02:16 [DeItaone] APPLE: A20 PRO CHIP HAS SEVEN GPU CORES - EVENT
 - 09/10 02:16 [financialjuice] Apple: A20 Pro chip has seven GPU cores. $AAPL
 - 09/10 02:17 [financialjuice] Apple: A20 chip will have two neural engines with 32 cores total, increasing on-device AI performance $AAPL
 - 09/10 02:19 [DeItaone] APPLE SAYS IPHONE 18 PRO MAX HAS THE LARGEST INCREASE IN BATTERY LIFE EVER ON IPHONE - EVENT
@@ -787,3 +775,12 @@
 - 09/11 01:53 [FirstSquawk] WALMART SAID TO BE EXPLORING FOOD DELIVERY BUSINESS AND DARK STORES $WMT
 - 09/11 01:53 [financialjuice] Iran's IRGC: We hit a US unmanned vessel in the Strait of Hormuz - State Media.
 - 09/11 01:56 [DeItaone] IRAN REBUILDING BALLISTIC MISSILE ARSENAL Iran has resumed production of ballistic missiles, using stockpiled components and underground facilities, according to U.S. and Middle Eastern officials cited by the WSJ. Despite heavy strikes on i…
+- 09/11 02:00 [financialjuice] Treasury WI 30-year yield 5.335% before $22 billion auction.
+- 09/11 02:01 [FirstSquawk] FLOTEK $FTK BOOSTS 2026 GUIDANCE AGAIN, TARGETS 54% REVENUE GROWTH & 58% ADJUSTED EBITDA GROWTH AT MIDPOINTS $FTK
+- 09/11 02:02 [financialjuice] US 30-YEAR BOND HIGH YIELD ACTUAL 5.308% (FORECAST -, PREVIOUS 5.216%) $MACRO
+- 09/11 02:02 [financialjuice] US 30-YEAR BOND BID-TO-COVER ACTUAL 2.610 (FORECAST -, PREVIOUS 2.390) $MACRO
+- 09/11 02:02 [financialjuice] US 30-Year Bond Auction High Yield 5.308% (Stopped through by 2.7 basis points) Bid-to-cover 2.61 Sells $22 bln Awards 64.29% of bids at high Primary Dealers take 2.21% Direct 18.31% Indirect 79.48% 13:02 Sep 10US Bonds
+- 09/11 02:04 [financialjuice] Moonshot secretly routed user requests through Claude and Anthropic.
+- 09/11 02:04 [financialjuice] Anthropic: Spotted nearly 300,000 customer requests that moonshot sent primarily to Anthropic’s Opus AI model
+- 09/11 02:11 [FirstSquawk] US 30-Year Bond Sale: - High Yield Rate: 5.308% (prev 5.216%)- Bid-Cover Ratio: 2.61 (prev 2.39)- Direct Accepted: 18.3% (prev 21.6%)- Indirect Accepted: 79.5% (prev 66.8%)- WI: 5.335%
+- 09/11 02:11 [FirstSquawk] UBER $UBER CEO DARA KHOSROWSHAHI FILES TO BUY 141,000 SHARES AT $70.96 AVERAGE, WORTH ~$10M $UBER
