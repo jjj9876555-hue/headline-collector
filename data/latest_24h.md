@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 11:19 JST／対象: 09/09 11:19 〜 09/10 11:19 JST（時刻はすべて日本時間）
+生成: 2026-09-10 11:34 JST／対象: 09/09 11:34 〜 09/10 11:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 339 | 09/09 11:22 | 09/10 11:17 | ⚠ 126分（05:28→07:34） |
+| FirstSquawk | 337 | 09/09 11:35 | 09/10 11:29 | ⚠ 126分（05:28→07:34） |
 | financialjuice | 215 | 09/09 12:39 | 09/10 11:11 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 597 行（統合前 613 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 595 行（統合前 611 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 11:22 [FirstSquawk] New Zealand Dollar holds gains above 0.5850 after Chinese inflation data - FX
-- 09/09 11:25 [FirstSquawk] Economic anxiety and US tensions drive Mao revival among young Chinese - SCMP
-- 09/09 11:31 [FirstSquawk] South Korea Auctions 20-Year Treasury Bonds at 4.520% Yield, Finance Ministry Says
-- 09/09 11:32 [FirstSquawk] China Tightens Humanoid IPOs Following Volatile Unitree Debut, The Information Says
 - 09/09 11:35 [FirstSquawk] Yuan use grows as supply chains reshape global trade, Deutsche Bank says - SCMP
 - 09/09 11:36 [FirstSquawk] South Korean Stocks Advance 2% as KOSPI Climbs
 - 09/09 11:37 [FirstSquawk] Gemini Digital Payments Singapore Receives Major Payment Institution License From MAS
@@ -621,3 +617,5 @@
 - 09/10 11:11 [financialjuice] Trump: if Republicans secure house and senate, I'll issue $5,000 payout to every U.S. adult
 - 09/10 11:11 [FirstSquawk] Trump pledges a $5,000 payment to every U.S. adult if Republicans win the House and Senate.
 - 09/10 11:17 [FirstSquawk] Mastercard launches Wallet Pay to support the global expansion of digital wallet transactions.
+- 09/10 11:21 [FirstSquawk] U.S. regulators grant accelerated approval to Bayer’s sevabertinib as a first-line targeted therapy for HER2-mutated NSCLC.
+- 09/10 11:29 [FirstSquawk] South Korea’s stock market starts lower as higher oil prices and escalating geopolitical tensions pressure risk sentiment.

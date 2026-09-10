@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 11:19 JST／対象: 09/10 05:19 〜 09/10 11:19 JST（時刻はすべて日本時間）
+生成: 2026-09-10 11:34 JST／対象: 09/10 05:34 〜 09/10 11:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/10 06:08 | 09/10 06:22 | 6分（06:08→06:15） |
-| FirstSquawk | 76 | 09/10 05:20 | 09/10 11:17 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 67 | 09/10 05:27 | 09/10 11:11 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 75 | 09/10 07:34 | 09/10 11:29 | ⚠ 49分（08:15→09:05） |
+| financialjuice | 66 | 09/10 05:46 | 09/10 11:11 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 145 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 05:20 [FirstSquawk] ENBRIDGE AGREES TO ACQUIRE TALLGRASS’ CRUDE TRANSPORTATION BUSINESS FOR $2.55 BILLION CASH, INCLUDING 75% OF PONY EXPRESS, 51% OF POWDER RIVER GATEWAY AND 8.4 MILLION BARRELS OF STORAGE CAPACITY. THE DEAL IS EXPECTED TO BOOST DISTRIBUTABLE …
-- 09/10 05:27 [financialjuice] US Energy Secretary Wright: Refining is a bigger problem than oil now.
-- 09/10 05:28 [FirstSquawk] GLOBAL STOCKS AND BONDS COME UNDER PRESSURE AS BRENT CRUDE TOPS $101 AMID ESCALATING US-IRAN TENSIONS, WITH THE S&P 500 FALLING 0.5%, NASDAQ 100 DOWN 0.3% AND DOW SLIDING 0.8%, WHILE THE 10-YEAR TREASURY YIELD JUMPS TO 4.84%.
-- 09/10 05:28 [FirstSquawk] OIL AND INFLATION RISKS DOMINATE MARKETS AS WTI RISES 3.9% TO $96.69 AND GOLD GAINS 1% TO $4,398.87, WITH TRADERS PRICING AROUND 60% ODDS OF A SEPTEMBER FED RATE HIKE AHEAD OF PPI AND CPI DATA.
 - 09/10 05:46 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL -0.3M (FORECAST -1.3M, PREVIOUS -2.6M) $MACRO
 - 09/10 05:46 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL -0.3M (FORECAST -, PREVIOUS 0.2M) $MACRO
 - 09/10 05:46 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL 2M (FORECAST -, PREVIOUS -0.3M) $MACRO
@@ -169,3 +165,5 @@
 - 09/10 11:11 [financialjuice] Trump: if Republicans secure house and senate, I'll issue $5,000 payout to every U.S. adult
 - 09/10 11:11 [FirstSquawk] Trump pledges a $5,000 payment to every U.S. adult if Republicans win the House and Senate.
 - 09/10 11:17 [FirstSquawk] Mastercard launches Wallet Pay to support the global expansion of digital wallet transactions.
+- 09/10 11:21 [FirstSquawk] U.S. regulators grant accelerated approval to Bayer’s sevabertinib as a first-line targeted therapy for HER2-mutated NSCLC.
+- 09/10 11:29 [FirstSquawk] South Korea’s stock market starts lower as higher oil prices and escalating geopolitical tensions pressure risk sentiment.

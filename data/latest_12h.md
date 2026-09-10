@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 11:19 JST／対象: 09/09 23:19 〜 09/10 11:19 JST（時刻はすべて日本時間）
+生成: 2026-09-10 11:34 JST／対象: 09/09 23:34 〜 09/10 11:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 31 | 09/10 01:05 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 162 | 09/09 23:23 | 09/10 11:17 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 154 | 09/09 23:26 | 09/10 11:11 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 161 | 09/09 23:36 | 09/10 11:29 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 148 | 09/09 23:35 | 09/10 11:11 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 341 行（統合前 349 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 334 行（統合前 342 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 23:23 [FirstSquawk] EUROPEAN GAS PRICES HAVE INCREASED ABOVE €80 PER MWH FOR THE FIRST TIME IN 2023.
-- 09/09 23:23 [FirstSquawk] WELLS FARGO CEO CHARLES SCHARF SAYS SOME ASPECTS OF THE CLARITY BILL COULD HEIGHTEN SYSTEM SAFETY RISKS.
-- 09/09 23:26 [financialjuice] Saudi: Alert issued for potential danger in Khamis Mushait.
-- 09/09 23:26 [financialjuice] ❗ At Saudi Arabia's request, Pakistan is considering joining the conflict and attacking the Houthi rebels in Yemen - Israeli Hayom News
-- 09/09 23:27 [financialjuice] Saudi civil defense issues emergency alert for Abha - post on X.
-- 09/09 23:27 [FirstSquawk] KAZAKHSTAN SAYS CPC TERMINAL RESUMES OIL LOADINGS - IFX
-- 09/09 23:28 [financialjuice] Fire broke out at Novorossiysk fuel oil terminal after overnight drone attack - two sources.
-- 09/09 23:31 [financialjuice] Pakistan considers hitting Yemen's Houthis under Mecca pact upon Saudi request - Turkiye News
-- 09/09 23:32 [financialjuice] Pakistan considers hitting Yemen's Houthis under Mecca pact upon Saudi request - Turkiye Today
 - 09/09 23:35 [financialjuice] Saudi Civil Defence: Danger has passed in Abha - Post on X.
 - 09/09 23:35 [financialjuice] Saudis say danger passes in Khamis Mushait after alert.
 - 09/09 23:36 [FirstSquawk] SAUDI CIVIL DEFENCE ANNOUNCES THAT THE DANGER IN ABHA HAS ENDED.
@@ -365,3 +356,5 @@
 - 09/10 11:11 [financialjuice] Trump: if Republicans secure house and senate, I'll issue $5,000 payout to every U.S. adult
 - 09/10 11:11 [FirstSquawk] Trump pledges a $5,000 payment to every U.S. adult if Republicans win the House and Senate.
 - 09/10 11:17 [FirstSquawk] Mastercard launches Wallet Pay to support the global expansion of digital wallet transactions.
+- 09/10 11:21 [FirstSquawk] U.S. regulators grant accelerated approval to Bayer’s sevabertinib as a first-line targeted therapy for HER2-mutated NSCLC.
+- 09/10 11:29 [FirstSquawk] South Korea’s stock market starts lower as higher oil prices and escalating geopolitical tensions pressure risk sentiment.
