@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 12:26 JST／対象: 09/09 12:26 〜 09/10 12:26 JST（時刻はすべて日本時間）
+生成: 2026-09-10 12:45 JST／対象: 09/09 12:45 〜 09/10 12:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 334 | 09/09 12:29 | 09/10 12:16 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 216 | 09/09 12:39 | 09/10 12:06 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 335 | 09/09 12:48 | 09/10 12:42 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 215 | 09/09 13:03 | 09/10 12:26 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 593 行（統合前 609 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,13 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 12:29 [FirstSquawk] S. Korea, UNDP sign agreement on mine removal cooperation - yonhap
-- 09/09 12:36 [FirstSquawk] President Lee conferred France's highest decoration for promoting bilateral ties - yonhap
-- 09/09 12:39 [financialjuice] China finance ministry auctions 50-year ultra-long special treasury bonds at 2.2778% yield: traders
-- 09/09 12:39 [FirstSquawk] China Sells 50-Year Ultra-Long Special Treasury Bonds at 2.2778% Yield, Traders Say
-- 09/09 12:41 [financialjuice] China finance ministry auctions 3-month bills at 1.1270% yield: traders
-- 09/09 12:41 [FirstSquawk] MRPL Executive: Rising Local Diesel Demand Encourages Refiners to Shift Production From Jet Fuel to Diesel
-- 09/09 12:43 [FirstSquawk] BHP Group Says New Rio Doce Deal Brings Over R$1.2 Billion in Additional Reparations Payments
 - 09/09 12:48 [FirstSquawk] Thai Finance Ministry to Launch Rooftop Solar Support From Mid-October
 - 09/09 12:50 [FirstSquawk] Thai Government to Allocate 50 Billion Baht for Rooftop Solar Scheme, FinMin Says
 - 09/09 12:53 [FirstSquawk] Thailand to Exempt Some Solar Panel Imports From Tax, Finance Minister Says
@@ -617,3 +610,10 @@
 - 09/10 12:06 [financialjuice] Strait of Hormuz commodity vessel crossings below 10 on Wednesday, less than 10-day average of about 14, data shows
 - 09/10 12:12 [FirstSquawk] Bank of Korea to consider the timing and pace of additional rate increases as it monitors growth and inflation.
 - 09/10 12:16 [FirstSquawk] Researcher leaves Anthropic amid concerns that the race toward self-improving AI could endanger humanity.
+- 09/10 12:26 [financialjuice] Fortum: JP Morgan upgrades to neutral from underperform, lifts target to EUR 24.3 from EUR 17.8
+- 09/10 12:27 [FirstSquawk] Failed merger talks push Japan’s opposition alliance toward a formal split.
+- 09/10 12:28 [FirstSquawk] JPMorgan reduces its Pearson price target by 60p to 1,360p.
+- 09/10 12:35 [FirstSquawk] CNBC SAID TO HAVE SHUT HONGKONG OFFICE US business television network CNBC is closing its Hong Kong office and pulling the plug on several flagship international daily shows as part of a major operational overhaul across Asia and Europe. Th…
+- 09/10 12:35 [FirstSquawk] China’s electric vehicle penetration hit 65% by July, Sinopec researcher says.
+- 09/10 12:36 [FirstSquawk] Manipur plans to finish fencing its stretch of the India-Myanmar border within two years, reviving India’s broader border-fencing plan.
+- 09/10 12:42 [FirstSquawk] China could see EV penetration reach 75%-80% by 2030, Sinopec researcher says.

@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 12:26 JST／対象: 09/10 06:26 〜 09/10 12:26 JST（時刻はすべて日本時間）
+生成: 2026-09-10 12:45 JST／対象: 09/10 06:45 〜 09/10 12:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 83 | 09/10 07:34 | 09/10 12:16 | ⚠ 49分（08:15→09:05） |
-| financialjuice | 54 | 09/10 06:27 | 09/10 12:06 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 89 | 09/10 07:34 | 09/10 12:42 | ⚠ 49分（08:15→09:05） |
+| financialjuice | 51 | 09/10 07:00 | 09/10 12:26 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 138 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 140 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 06:27 [financialjuice] Israeli military: sirens alert hostile aircraft infiltration in multiple northern Israel areas
-- 09/10 06:30 [financialjuice] Iranian state media: multiple locations in Sirik struck by projectiles
-- 09/10 06:30 [financialjuice/FirstSquawk] AI researcher Andrew Tulloch departing Meta - Semafor
-- 09/10 06:38 [financialjuice] Israeli military: hostile aircraft incursion in northern Israel was misidentification
 - 09/10 07:00 [financialjuice] Poll: total size of Japan's FY2027 budget requests raise worries about fiscal discipline: 74% of economists
 - 09/10 07:00 [financialjuice] Poll: joint US-Japan FX intervention, US Treasury chief Bessent's comments reduce political barriers for BoJ rate hikes, say 82% of economists
 - 09/10 07:00 [financialjuice] Poll: Bank of Japan to increase benchmark interest rate to 1.25% on September 18, say 97% of economists (up from 57% in August)
@@ -35,6 +31,7 @@
 - 09/10 07:34 [FirstSquawk] FITCH WARNS COLOMBIA’S BUDGET HAS A DEEP FISCAL IMBALANCE AND SAYS SIGNIFICANT ADDITIONAL MEASURES ARE NEEDED TO STABILIZE THE COUNTRY’S RISING DEBT.
 - 09/10 07:34 [FirstSquawk] FITCH SAYS FAILURE TO DELIVER STRONGER DEFICIT-REDUCTION MEASURES COULD PUT NEW PRESSURE ON COLOMBIA’S CREDIT RATING, WITH DEFICITS LIKELY TO EXCEED PRIOR FORECASTS EVEN IF THE 2.2% OF GDP CONSOLIDATION TARGET IS MET.
 - 09/10 07:35 [FirstSquawk] APPLIED MATERIALS CEO: SERVICES BUSINESS GROWING MORE THAN 20% Y/Y WITH MARGINS UP 180BPS; PACKAGING BUSINESS EXPECTED TO GROW MORE THAN 70% THIS YEAR.
+- 09/10 07:42 [FirstSquawk] AI RESEARCHER ANDREW TULLOCH DEPARTING META - SEMAFOR
 - 09/10 07:42 [FirstSquawk] OPENAI CUTS OFF ADOBE AND OTHERS FROM ADVERTISING IN IMAGE PRODUCTS - THE INFORMATION
 - 09/10 07:48 [FirstSquawk] ANTHROPIC DISCLOSES A FOURTH CYBERSECURITY INCIDENT INVOLVING AN EARLY CLAUDE OPUS 4.6 MODEL AND SAYS CLAUDE MYTHOS 5 ATTEMPTED TO UPLOAD A MALICIOUS PACKAGE TO PYPI, RAISING FRESH CONCERNS OVER AI MODEL BEHAVIOR.
 - 09/10 07:48 [FirstSquawk] ANTHROPIC HAS HIRED METR FOR AN INDEPENDENT INVESTIGATION, SAYING ALL FOUR INCIDENTS OCCURRED DURING CYBERSECURITY EVALUATIONS AND INVOLVED SINGLE CLAUDE INSTANCES WITHOUT ATTEMPTS TO COORDINATE WITH OTHER AI AGENTS.
@@ -160,3 +157,10 @@
 - 09/10 12:06 [financialjuice] Strait of Hormuz commodity vessel crossings below 10 on Wednesday, less than 10-day average of about 14, data shows
 - 09/10 12:12 [FirstSquawk] Bank of Korea to consider the timing and pace of additional rate increases as it monitors growth and inflation.
 - 09/10 12:16 [FirstSquawk] Researcher leaves Anthropic amid concerns that the race toward self-improving AI could endanger humanity.
+- 09/10 12:26 [financialjuice] Fortum: JP Morgan upgrades to neutral from underperform, lifts target to EUR 24.3 from EUR 17.8
+- 09/10 12:27 [FirstSquawk] Failed merger talks push Japan’s opposition alliance toward a formal split.
+- 09/10 12:28 [FirstSquawk] JPMorgan reduces its Pearson price target by 60p to 1,360p.
+- 09/10 12:35 [FirstSquawk] CNBC SAID TO HAVE SHUT HONGKONG OFFICE US business television network CNBC is closing its Hong Kong office and pulling the plug on several flagship international daily shows as part of a major operational overhaul across Asia and Europe. Th…
+- 09/10 12:35 [FirstSquawk] China’s electric vehicle penetration hit 65% by July, Sinopec researcher says.
+- 09/10 12:36 [FirstSquawk] Manipur plans to finish fencing its stretch of the India-Myanmar border within two years, reviving India’s broader border-fencing plan.
+- 09/10 12:42 [FirstSquawk] China could see EV penetration reach 75%-80% by 2030, Sinopec researcher says.

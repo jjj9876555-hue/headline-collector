@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 12:26 JST／対象: 09/10 00:26 〜 09/10 12:26 JST（時刻はすべて日本時間）
+生成: 2026-09-10 12:45 JST／対象: 09/10 00:45 〜 09/10 12:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 31 | 09/10 01:05 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 152 | 09/10 00:32 | 09/10 12:16 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 139 | 09/10 00:31 | 09/10 12:06 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 156 | 09/10 01:01 | 09/10 12:42 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 136 | 09/10 01:01 | 09/10 12:26 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 316 行（統合前 323 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 317 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 00:31 [financialjuice] Pakistan's Defense Minister Expresses Hope for a Lasting Resolution to Issues Between Saudi Arabia and Yemen - IRNA
-- 09/10 00:31 [financialjuice] Pakistan Defense Minister reaffirms commitment to joint defense agreement with Saudi Arabia and Turkey - IRNA
-- 09/10 00:32 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.36%; GERMANY'S DAX DOWN 1.74%
-- 09/10 00:32 [FirstSquawk] FRANCE'S CAC 40 DOWN 1.87%; SPAIN'S IBEX DOWN 1.58%
-- 09/10 00:35 [financialjuice] Buyback increase is part of ongoing approach - Fox Business.
-- 09/10 00:36 [financialjuice] Fox Business cites Trump Admin Official on buyback announcement.
 - 09/10 01:01 [FirstSquawk] WHITE HOUSE REFUTES FINANCIAL TIMES REPORT ABOUT RATCLIFFE AND RUSSIA-UKRAINE DISCUSSIONS.
 - 09/10 01:01 [financialjuice] White House denies FT report on Ratcliffe and Russia-Ukraine talks
 - 09/10 01:01 [financialjuice] Iran: Once the conditions of war end, the ground will be prepared for the IAEA's verification activities - ISNA
@@ -340,3 +334,10 @@
 - 09/10 12:06 [financialjuice] Strait of Hormuz commodity vessel crossings below 10 on Wednesday, less than 10-day average of about 14, data shows
 - 09/10 12:12 [FirstSquawk] Bank of Korea to consider the timing and pace of additional rate increases as it monitors growth and inflation.
 - 09/10 12:16 [FirstSquawk] Researcher leaves Anthropic amid concerns that the race toward self-improving AI could endanger humanity.
+- 09/10 12:26 [financialjuice] Fortum: JP Morgan upgrades to neutral from underperform, lifts target to EUR 24.3 from EUR 17.8
+- 09/10 12:27 [FirstSquawk] Failed merger talks push Japan’s opposition alliance toward a formal split.
+- 09/10 12:28 [FirstSquawk] JPMorgan reduces its Pearson price target by 60p to 1,360p.
+- 09/10 12:35 [FirstSquawk] CNBC SAID TO HAVE SHUT HONGKONG OFFICE US business television network CNBC is closing its Hong Kong office and pulling the plug on several flagship international daily shows as part of a major operational overhaul across Asia and Europe. Th…
+- 09/10 12:35 [FirstSquawk] China’s electric vehicle penetration hit 65% by July, Sinopec researcher says.
+- 09/10 12:36 [FirstSquawk] Manipur plans to finish fencing its stretch of the India-Myanmar border within two years, reviving India’s broader border-fencing plan.
+- 09/10 12:42 [FirstSquawk] China could see EV penetration reach 75%-80% by 2030, Sinopec researcher says.
