@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 16:52 JST／対象: 09/09 16:52 〜 09/10 16:52 JST（時刻はすべて日本時間）
+生成: 2026-09-10 17:05 JST／対象: 09/09 17:05 〜 09/10 17:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 56 | 09/09 18:32 | 09/10 16:51 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 362 | 09/09 16:54 | 09/10 16:47 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 238 | 09/09 17:26 | 09/10 15:00 | ⚠ 59分（07:00→08:00） |
+| DeItaone | 57 | 09/09 18:32 | 09/10 17:02 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 361 | 09/09 17:07 | 09/10 17:02 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 240 | 09/09 17:26 | 09/10 17:04 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 645 行（統合前 658 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 647 行（統合前 660 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 16:54 [FirstSquawk] RUSSIA’S BIGGEST BLACK SEA PORT OF NOVOROSSIYSK AND THE SURROUNDING AREAS WERE ATTACKED BY DRONES OVERNIGHT, DAMAGING INFRASTRUCTURE AND THREATENING TO FURTHER SQUEEZE COMMODITY FLOWS FROM THE REGION
-- 09/09 16:56 [FirstSquawk] BP NORTH SEA ASSETS SAID TO DRAW INTEREST FROM ADURA, NEO NEXT+
-- 09/09 17:03 [FirstSquawk] HSBC CUTS HERMES TARGET PRICE TO EUR 1650 FROM EUR 1870
-- 09/09 17:05 [FirstSquawk] PUMA: APPOINTS STEVE CECCHINI TO LEAD GLOBAL SPORTS MARKETING
 - 09/09 17:07 [FirstSquawk] LUFTHANSA GROUP AIRLINES WILL GRADUALLY RESUME FLIGHT CONNECTIONS TO DUBAI STARTING IN LATE OCTOBER 2026
 - 09/09 17:15 [FirstSquawk] INDITEX'S SALES INCREASED FASTER AT THE BEGINNING OF Q3, SHOWING THAT THE ZARA PARENT COMPANY IS STILL ATTRACTING CUSTOMERS DESPITE RISING LIVING EXPENSES AFFECTING SPENDING.
 - 09/09 17:20 [FirstSquawk] US STOCKS MOVE WITH LITTLE CHANGE AS BRENT CRUDE PRICES HIT $100, RAISING INFLATION CONCERNS.
@@ -669,3 +665,9 @@
 - 09/10 16:42 [FirstSquawk] PBOC: Seeks Dynamic Balance In Macro Policy Objectives
 - 09/10 16:47 [FirstSquawk] TSMC SEES A 53.3% RISE IN MONTHLY SALES AS IT STRUGGLES TO KEEP UP WITH HIGH DEMAND FOR AI INFRASTRUCTURE.
 - 09/10 16:51 [DeItaone] HOUTHIS SEIZE STRATEGIC RED SEA CITY Iran-backed Houthis have seized Yemen’s Mocha, according to Reuters sources. The advance brings the group closer to the Bab el-Mandeb Strait, raising risks for Red Sea shipping and global trade.
+- 09/10 16:53 [FirstSquawk] NOVO NORDISK: WEGOVY APPROVED IN CHINA AS THE FIRST AND ONLY GLP-1 RA FOR THE TREATMENT OF MASH
+- 09/10 16:58 [FirstSquawk] KIMI MAKER MOONSHOT AI TO EXPLORE DUAL HONG KONG AND SHANGHAI IPOS TO BOOST CAPITAL, SOURCES SAY – SCMP
+- 09/10 17:00 [financialjuice] ITALIAN INDUSTRIAL PRODUCTION MOM ACTUAL 0.7% (FORECAST 0.3%, PREVIOUS -1.0%) $MACRO
+- 09/10 17:02 [FirstSquawk] ITALY INDUSTRIAL PRODUCTION (M/M) JUL: 0.7% (EST 0.3%; PREV -1.0%)
+- 09/10 17:02 [DeItaone] HUAWEI HIKES AI CHIP PRICES 60% Huawei has reportedly raised the price of its Ascend 950DT AI accelerator by about 60% to $37,300, as booming demand outstrips supply. HBM shortages are adding to costs, while demand for Chinese alternatives …
+- 09/10 17:04 [financialjuice] Anthropic grants EU access to Mythos months after release.

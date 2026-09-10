@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 16:52 JST／対象: 09/10 04:52 〜 09/10 16:52 JST（時刻はすべて日本時間）
+生成: 2026-09-10 17:05 JST／対象: 09/10 05:05 〜 09/10 17:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/10 05:08 | 09/10 16:51 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 195 | 09/10 04:57 | 09/10 16:47 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 101 | 09/10 04:57 | 09/10 15:00 | ⚠ 59分（07:00→08:00） |
+| DeItaone | 7 | 09/10 05:08 | 09/10 17:02 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 190 | 09/10 05:06 | 09/10 17:02 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 102 | 09/10 05:14 | 09/10 17:04 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 300 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 298 行（統合前 300 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 04:57 [FirstSquawk] MASSIVE FIRE ERUPTS AT SOCHI PORT, RUSSIA, FOLLOWING REPORTED UKRAINIAN DRONE ATTACKS.MASSIVE FIRE ERUPTS AT SOCHI PORT, RUSSIA, FOLLOWING REPORTED UKRAINIAN DRONE ATTACKS.
-- 09/10 04:57 [FirstSquawk] ZELENSKY’S PLANE WAS “ALMOST HIT” BY A DRONE WHILE TAKING OFF FROM MOLDOVA EN ROUTE TO OSLO, NORWEGIAN PM JONAS GAHR STØRE SAID.
-- 09/10 04:57 [financialjuice/FirstSquawk] Iran's First Vice President: Iran stands firm on peaceful nuclear energy rights.
-- 09/10 04:57 [FirstSquawk] ZELENSKY LATER MET STØRE IN OSLO TO DISCUSS EUROPEAN AIR-DEFENCE COOPERATION, HIGHLIGHTING THE ONGOING SECURITY RISKS SURROUNDING UKRAINE’S PRESIDENT.
-- 09/10 04:59 [FirstSquawk] DELL CEO: PC REPLACEMENT DEMAND WILL ACCELERATE AS AGING MACHINES REACH THE END OF THEIR USEFUL LIVES – GOLDMAN SACHS CONFERENCE.
-- 09/10 05:02 [FirstSquawk] DOW JONES UNOFFICIALLY CLOSES DOWN 387.40 POINTS, OR 0.73%, AT 52,398.67.
-- 09/10 05:02 [FirstSquawk] S&P 500 UNOFFICIALLY CLOSES DOWN 37.71 POINTS, OR 0.49%, AT 7,635.81.
-- 09/10 05:03 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 175.92 POINTS, OR 0.67%, AT 26,245.49.
 - 09/10 05:06 [FirstSquawk] HUACHEN AI PARKING MANAGEMENT TECHNOLOGY SIGNS A STRATEGIC COOPERATION AGREEMENT WITH BEYINDA TO EXPAND ITS PRECISION METAL COMPONENTS BUSINESS IN CHINA.
 - 09/10 05:06 [FirstSquawk] HUACHEN AI PARKING MANAGEMENT TECHNOLOGY: PARTNERSHIP IS AIMED AT STRENGTHENING HUACHEN AI’S PRESENCE IN CHINA’S PRECISION METAL COMPONENTS MARKET THROUGH EXPANDED BUSINESS COOPERATION.
 - 09/10 05:07 [FirstSquawk] VENEZUELAN OPPOSITION-BACKED BOARDS EXPECTED TO STOP OVERSEEING US REFINER CITGO PETROLEUM AS EARLY AS THIS MONTH, SOURCES SAY.
@@ -324,3 +316,9 @@
 - 09/10 16:42 [FirstSquawk] PBOC: Seeks Dynamic Balance In Macro Policy Objectives
 - 09/10 16:47 [FirstSquawk] TSMC SEES A 53.3% RISE IN MONTHLY SALES AS IT STRUGGLES TO KEEP UP WITH HIGH DEMAND FOR AI INFRASTRUCTURE.
 - 09/10 16:51 [DeItaone] HOUTHIS SEIZE STRATEGIC RED SEA CITY Iran-backed Houthis have seized Yemen’s Mocha, according to Reuters sources. The advance brings the group closer to the Bab el-Mandeb Strait, raising risks for Red Sea shipping and global trade.
+- 09/10 16:53 [FirstSquawk] NOVO NORDISK: WEGOVY APPROVED IN CHINA AS THE FIRST AND ONLY GLP-1 RA FOR THE TREATMENT OF MASH
+- 09/10 16:58 [FirstSquawk] KIMI MAKER MOONSHOT AI TO EXPLORE DUAL HONG KONG AND SHANGHAI IPOS TO BOOST CAPITAL, SOURCES SAY – SCMP
+- 09/10 17:00 [financialjuice] ITALIAN INDUSTRIAL PRODUCTION MOM ACTUAL 0.7% (FORECAST 0.3%, PREVIOUS -1.0%) $MACRO
+- 09/10 17:02 [FirstSquawk] ITALY INDUSTRIAL PRODUCTION (M/M) JUL: 0.7% (EST 0.3%; PREV -1.0%)
+- 09/10 17:02 [DeItaone] HUAWEI HIKES AI CHIP PRICES 60% Huawei has reportedly raised the price of its Ascend 950DT AI accelerator by about 60% to $37,300, as booming demand outstrips supply. HBM shortages are adding to costs, while demand for Chinese alternatives …
+- 09/10 17:04 [financialjuice] Anthropic grants EU access to Mythos months after release.
