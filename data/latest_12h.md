@@ -7,52 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 22:24 JST／対象: 09/10 10:24 〜 09/10 22:24 JST（時刻はすべて日本時間）
+生成: 2026-09-10 22:44 JST／対象: 09/10 10:44 〜 09/10 22:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/10 16:41 | 09/10 22:07 | 35分（17:30→18:05） |
-| FirstSquawk | 242 | 09/10 10:25 | 09/10 22:22 | 18分（20:15→20:33） |
-| financialjuice | 174 | 09/10 10:32 | 09/10 22:23 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 31 | 09/10 16:41 | 09/10 22:36 | 35分（17:30→18:05） |
+| FirstSquawk | 232 | 09/10 10:45 | 09/10 22:40 | 18分（20:15→20:33） |
+| financialjuice | 175 | 09/10 10:45 | 09/10 22:38 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 432 行（統合前 448 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 423 行（統合前 442 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 10:25 [FirstSquawk] WTI moves lower as oil markets balance rising Middle East risks against broader supply and demand factors.
-- 09/10 10:26 [FirstSquawk] Trump urges Republicans to secure a midterm victory to defend the gains made over the past two years.
-- 09/10 10:28 [FirstSquawk] Japanese researchers earn four Lasker Awards for achievements in medicine, according to Kyodo.
-- 09/10 10:32 [financialjuice] Bank of Japan board member Masu: underlying inflation remains under 2% but close to that level
-- 09/10 10:32 [financialjuice] BoJ board member Masu: BoJ likely to keep raising interest rates amid current loose financial conditions
-- 09/10 10:33 [financialjuice] BOJ board member Masu: pace and timing of rate increase will depend on likelihood of meeting baseline projections and risks, considering oil price changes, al-demand, and currency fluctuations
-- 09/10 10:34 [financialjuice] Multiple US military aircraft damaged in strikes overnight at Muwaffaq Salti Air Base in Jordan: CBS reporter on X
-- 09/10 10:34 [FirstSquawk] Masu says the BOJ should continue raising interest rates while current financial conditions remain accommodative.
-- 09/10 10:35 [financialjuice] BOJ board member Masu: rise in fuel, chemical prices may be one-off shock but could affect prices through distribution costs
-- 09/10 10:35 [FirstSquawk] BOJ policymaker Masu says the central bank will weigh its economic projections and key risks, including oil prices, AI demand and exchange-rate movements, when deciding the pace of rate hikes.
-- 09/10 10:36 [FirstSquawk] KOSPI drops 2% as selling pressure hits South Korean equities.
-- 09/10 10:36 [FirstSquawk] Several U.S. military aircraft sustained damage during overnight attacks targeting the Muwaffaq Salti Air Base in Jordan, according to CBS.
-- 09/10 10:36 [financialjuice] BOJ board member Masu: rising costs from Middle East conflict may drive overall prices higher
-- 09/10 10:36 [FirstSquawk] Masu says keeping underlying inflation from exceeding 2% by a wide margin is the BOJ’s most important objective.
-- 09/10 10:37 [financialjuice] BOJ's Masu: government measures to ease cost of living impact may increase demand, drive inflation higher
-- 09/10 10:39 [financialjuice] Boj’s Masu: recent 7% rise in producer prices requires attention as increase could boost consumer inflation more than before
-- 09/10 10:39 [FirstSquawk] BOJ policymaker Masu warns that fuel and chemical price gains, while potentially temporary, could have broader effects on inflation through distribution costs.
-- 09/10 10:40 [FirstSquawk] BOJ policymaker Masu says efforts to soften the impact of higher living costs could have the unintended effect of strengthening demand and raising inflation.
-- 09/10 10:40 [FirstSquawk] Masu says the 7% increase in producer prices is a key concern, with higher factory-gate costs potentially feeding into consumer prices more than before.
-- 09/10 10:40 [financialjuice] BOJ's Masu: food cost increases set to re-accelerate, may hold key to long-term inflation outlook
-- 09/10 10:41 [FirstSquawk] BOJ’s Masu says elevated producer-price growth could put greater pressure on consumer inflation as businesses pass on rising costs.
-- 09/10 10:42 [financialjuice] BOJ's Masu: Weak yen has greater effect on inflation than before, warrants attention
-- 09/10 10:42 [financialjuice] Boj's Masu: Japan no longer in deflation, must raise real interest rate above negative territory promptly
-- 09/10 10:42 [FirstSquawk] BOJ board member Masu warns that yen weakness is exerting a larger influence on prices than before, requiring attention.
-- 09/10 10:42 [FirstSquawk] BOJ board member Masu says with deflation no longer a concern, the central bank should aim to lift real interest rates from negative territory as soon as possible.
-- 09/10 10:43 [financialjuice] BOJ’s Masu: policy rate nearing estimated neutral range, must closely monitor price, job, financial conditions
-- 09/10 10:43 [FirstSquawk] Masu says with the BOJ policy rate nearing its estimated neutral range, the central bank must closely watch price trends, labor conditions and financial markets.
-- 09/10 10:44 [financialjuice] BOJ's Masu: Japan's financial conditions steady, rapid rate hikes possible if inflation picks up
-- 09/10 10:44 [FirstSquawk] Masu says the BOJ may need to accelerate monetary tightening if inflation picks up while financial conditions remain accommodative.
 - 09/10 10:45 [financialjuice] Boj's Masu: Boj Must Raise Rates Further and Push Policy Rate to Estimated Neutral Level to Prepare for Nimble Policy Moves
 - 09/10 10:45 [FirstSquawk] Masu says the BOJ should push its policy rate toward the estimated neutral range, allowing it to conduct monetary policy more flexibly.
 - 09/10 10:46 [FirstSquawk] Trump says the strategic waterway currently known as the Strait of Hormuz will be called the “Trump Strait.”
@@ -456,3 +427,23 @@
 - 09/10 22:22 [FirstSquawk] LAGARDE: VERY HOPEFUL DIGITAL EURO LAW WILL PASS BY YEAR-END
 - 09/10 22:22 [financialjuice] ECB's Lagarde: Won't comment on any FX intervention.
 - 09/10 22:23 [financialjuice] ECB's Lagarde: Euro-Yen intervention had a volume of €500m.
+- 09/10 22:24 [financialjuice] SpaceX overhauls data center build-out, potentially slowing expansion - The Information $SPCX
+- 09/10 22:25 [financialjuice] ECB's Lagarde: Won't comment on spreads.
+- 09/10 22:25 [financialjuice] ECB's Lagarde: Spread is a reflection of market perception of a country's bond.
+- 09/10 22:26 [financialjuice] ECB's Lagarde: Cancellation of debt would be a pure violation of the treaty.
+- 09/10 22:27 [financialjuice] ECB's Lagarde: Debt cancellation talk is financially dangerous
+- 09/10 22:29 [financialjuice] ECB's Lagarde: The ECB to publish benign, adverse, and severe scenarios.
+- 09/10 22:29 [financialjuice] ECB's Lagarde: Against all three scenarios, the decision to raise rates is robust.
+- 09/10 22:29 [FirstSquawk] LAGARDE: ECB HIKE ROBUST AGAINST ALL THREE SCENARIOS
+- 09/10 22:30 [financialjuice] ECB's Lagarde: ECB hike robust against all three scenarios.
+- 09/10 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 23.0 MLN NASDAQ 100: -11.8 MLN DOW 30: -11.3 MLN MAG 7: -7.4 MLN $MACRO
+- 09/10 22:33 [FirstSquawk] DOW JONES DOWN 232.28 POINTS, OR 0.44 PERCENT, AT 52,148.38 AFTER MARKET OPEN NASDAQ DOWN 248.90 POINTS, OR 0.95 PERCENT, AT 26,004.44 AFTER MARKET OPEN S&P 500 DOWN 43.77 POINTS, OR 0.57 %, AT 7,592.59 AFTER MARKET OPEN
+- 09/10 22:35 [financialjuice] ECB's President Lagarde: If energy shock longer than expected, we'll see second round effects and it will affect food prices.
+- 09/10 22:35 [financialjuice] Yemeni Armed Forces Gain Control of Zubayr City and the Strategic Zaqar Island Near Bab-el-Mandeb - Tasnim News.
+- 09/10 22:36 [financialjuice] ECB's Nagel: I am concerned about rise of right-wing parties.
+- 09/10 22:36 [DeItaone/FirstSquawk] ECB'S NAGEL: CONCERNED ABOUT RISE IN EURO-SCEPTIC PARTIES
+- 09/10 22:36 [financialjuice] ECB's Nagel: Euro-sceptic parties will make investors reluctant to invest in Germany.
+- 09/10 22:38 [financialjuice] ECB's President Lagarde ends the ECB press conference.
+- 09/10 22:39 [FirstSquawk] SPACEX OVERHAULS DATA CENTER BUILD-OUT, POTENTIALLY SLOWING EXPANSION - THE INFORMATION
+- 09/10 22:39 [FirstSquawk] YEMENI ARMED FORCES GAIN CONTROL OF ZUBAYR CITY AND THE STRATEGIC ZAQAR ISLAND NEAR BAB-EL-MANDEB - TASNIM
+- 09/10 22:40 [FirstSquawk] ECB'S LAGARDE: LONGER THAN EXPECTED ENERGY SHOCK WOULD SEE SECOND ROUND EFFECTS, WILL AFFECT FOOD PRICES

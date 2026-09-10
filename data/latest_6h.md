@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 22:24 JST／対象: 09/10 16:24 〜 09/10 22:24 JST（時刻はすべて日本時間）
+生成: 2026-09-10 22:44 JST／対象: 09/10 16:44 〜 09/10 22:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/10 16:41 | 09/10 22:07 | 35分（17:30→18:05） |
-| FirstSquawk | 112 | 09/10 16:27 | 09/10 22:22 | 18分（20:15→20:33） |
-| financialjuice | 125 | 09/10 17:00 | 09/10 22:23 | ⚠ 48分（17:04→17:53） |
+| DeItaone | 30 | 09/10 16:51 | 09/10 22:36 | 35分（17:30→18:05） |
+| FirstSquawk | 111 | 09/10 16:47 | 09/10 22:40 | 18分（20:15→20:33） |
+| financialjuice | 139 | 09/10 17:00 | 09/10 22:38 | ⚠ 48分（17:04→17:53） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 253 行（統合前 269 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 265 行（統合前 284 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 16:27 [FirstSquawk] MIZUHO'S FIRST FEMALE HEAD OF WEALTH MANAGEMENT AIMS FOR SIXFOLD GROWTH IN ASSET ADVISORY BUSINESS, JOINING A SMALL GROUP OF WOMEN LEADERS IN JAPAN'S FINANCIAL INDUSTRY.
-- 09/10 16:32 [FirstSquawk] CHINA'S DEEPSEEK UNVEILS THE V4.1-FLASH MODEL.
-- 09/10 16:32 [FirstSquawk] HUAWEI INTRODUCES NEW OPTICAL TECHNOLOGY STANDARDS TO COMPETE WITH NVIDIA AND BROADCOM.
-- 09/10 16:37 [FirstSquawk] PBOC: GUARD AGAINST HERD BEHAVIOR IN FX MARKET
-- 09/10 16:39 [FirstSquawk] FORMER ISRAELI PRIME MINISTER OLMERT: NETANYAHU GOVERNMENT SUPPORTS SETTLER VIOLENCE
-- 09/10 16:41 [FirstSquawk] EUROPEAN UNION FIRMS ARE GETTING BEATEN, OUTTHOUGHT, OR OUTSPENT BY CHINESE RIVALS.
-- 09/10 16:41 [DeItaone] TRUMP PROMISES $5,000 DIVIDEND IF GOP WINS MIDTERMS President Donald Trump pledged a $5,000 payment to every adult U.S. citizen if Republicans retain control of Congress in November. Trump credited U.S. economic performance for the proposal…
-- 09/10 16:42 [FirstSquawk] PBOC: Seeks Dynamic Balance In Macro Policy Objectives
 - 09/10 16:47 [FirstSquawk] TSMC SEES A 53.3% RISE IN MONTHLY SALES AS IT STRUGGLES TO KEEP UP WITH HIGH DEMAND FOR AI INFRASTRUCTURE.
 - 09/10 16:51 [DeItaone] HOUTHIS SEIZE STRATEGIC RED SEA CITY Iran-backed Houthis have seized Yemen’s Mocha, according to Reuters sources. The advance brings the group closer to the Bab el-Mandeb Strait, raising risks for Red Sea shipping and global trade.
 - 09/10 16:53 [FirstSquawk] NOVO NORDISK: WEGOVY APPROVED IN CHINA AS THE FIRST AND ONLY GLP-1 RA FOR THE TREATMENT OF MASH
@@ -277,3 +269,23 @@
 - 09/10 22:22 [FirstSquawk] LAGARDE: VERY HOPEFUL DIGITAL EURO LAW WILL PASS BY YEAR-END
 - 09/10 22:22 [financialjuice] ECB's Lagarde: Won't comment on any FX intervention.
 - 09/10 22:23 [financialjuice] ECB's Lagarde: Euro-Yen intervention had a volume of €500m.
+- 09/10 22:24 [financialjuice] SpaceX overhauls data center build-out, potentially slowing expansion - The Information $SPCX
+- 09/10 22:25 [financialjuice] ECB's Lagarde: Won't comment on spreads.
+- 09/10 22:25 [financialjuice] ECB's Lagarde: Spread is a reflection of market perception of a country's bond.
+- 09/10 22:26 [financialjuice] ECB's Lagarde: Cancellation of debt would be a pure violation of the treaty.
+- 09/10 22:27 [financialjuice] ECB's Lagarde: Debt cancellation talk is financially dangerous
+- 09/10 22:29 [financialjuice] ECB's Lagarde: The ECB to publish benign, adverse, and severe scenarios.
+- 09/10 22:29 [financialjuice] ECB's Lagarde: Against all three scenarios, the decision to raise rates is robust.
+- 09/10 22:29 [FirstSquawk] LAGARDE: ECB HIKE ROBUST AGAINST ALL THREE SCENARIOS
+- 09/10 22:30 [financialjuice] ECB's Lagarde: ECB hike robust against all three scenarios.
+- 09/10 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 23.0 MLN NASDAQ 100: -11.8 MLN DOW 30: -11.3 MLN MAG 7: -7.4 MLN $MACRO
+- 09/10 22:33 [FirstSquawk] DOW JONES DOWN 232.28 POINTS, OR 0.44 PERCENT, AT 52,148.38 AFTER MARKET OPEN NASDAQ DOWN 248.90 POINTS, OR 0.95 PERCENT, AT 26,004.44 AFTER MARKET OPEN S&P 500 DOWN 43.77 POINTS, OR 0.57 %, AT 7,592.59 AFTER MARKET OPEN
+- 09/10 22:35 [financialjuice] ECB's President Lagarde: If energy shock longer than expected, we'll see second round effects and it will affect food prices.
+- 09/10 22:35 [financialjuice] Yemeni Armed Forces Gain Control of Zubayr City and the Strategic Zaqar Island Near Bab-el-Mandeb - Tasnim News.
+- 09/10 22:36 [financialjuice] ECB's Nagel: I am concerned about rise of right-wing parties.
+- 09/10 22:36 [DeItaone/FirstSquawk] ECB'S NAGEL: CONCERNED ABOUT RISE IN EURO-SCEPTIC PARTIES
+- 09/10 22:36 [financialjuice] ECB's Nagel: Euro-sceptic parties will make investors reluctant to invest in Germany.
+- 09/10 22:38 [financialjuice] ECB's President Lagarde ends the ECB press conference.
+- 09/10 22:39 [FirstSquawk] SPACEX OVERHAULS DATA CENTER BUILD-OUT, POTENTIALLY SLOWING EXPANSION - THE INFORMATION
+- 09/10 22:39 [FirstSquawk] YEMENI ARMED FORCES GAIN CONTROL OF ZUBAYR CITY AND THE STRATEGIC ZAQAR ISLAND NEAR BAB-EL-MANDEB - TASNIM
+- 09/10 22:40 [FirstSquawk] ECB'S LAGARDE: LONGER THAN EXPECTED ENERGY SHOCK WOULD SEE SECOND ROUND EFFECTS, WILL AFFECT FOOD PRICES

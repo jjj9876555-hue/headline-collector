@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 22:24 JST／対象: 09/09 22:24 〜 09/10 22:24 JST（時刻はすべて日本時間）
+生成: 2026-09-10 22:44 JST／対象: 09/09 22:44 〜 09/10 22:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 62 | 09/09 23:16 | 09/10 22:07 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 382 | 09/09 22:25 | 09/10 22:22 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 324 | 09/09 22:31 | 09/10 22:23 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 63 | 09/09 23:16 | 09/10 22:36 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 382 | 09/09 22:45 | 09/10 22:40 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 329 | 09/09 22:44 | 09/10 22:38 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 747 行（統合前 772 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 752 行（統合前 780 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 22:25 [FirstSquawk] IRAQ'S OIL MINISTRY SAYS NO LEAKAGE FROM VESSEL'S CARGO INTO WATER
-- 09/09 22:25 [FirstSquawk] IRAQI OIL MINISTRY SAYS NO CASUALTIES REPORTED
-- 09/09 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -60.8 MLN NASDAQ 100: 41.5 MLN DOW 30: -32.6 MLN MAG 7: 42.0 MLN $MACRO
-- 09/09 22:31 [financialjuice] Saudis to set up marine war risks insurance pool for cargo - SPA
-- 09/09 22:31 [FirstSquawk] S&P 500 DOWN 24.32 POINTS, OR 0.32 %, AT 7,649.20 AFTER MARKET OPEN DOW JONES DOWN 291.96 POINTS, OR 0.55 PERCENT, AT 52,494.11 AFTER MARKET OPEN NASDAQ DOWN 117.83 POINTS, OR 0.45 PERCENT, AT 26,303.59 AFTER MARKET OPEN
-- 09/09 22:32 [FirstSquawk] SPOT SILVER RISES NEARLY 3% TO $67.71/OZ
-- 09/09 22:35 [FirstSquawk] SAUDI ARABIA IS CREATING AN INSURANCE POOL TO COVER MARINE WAR RISKS FOR CARGO.
-- 09/09 22:39 [financialjuice] China Commerce Ministry on US issuing cybersecurity announcements related to Chinese AI companies: china firmly opposes this. US allegations are baseless - Statement
-- 09/09 22:39 [financialjuice] China Commerce Ministry: Distillation is a common practice among AI models globally, including by US firms.
-- 09/09 22:40 [financialjuice] China Commerce Ministry: Heads of state of the two countries agreed to launch intergovernmental dialogue on AI.
-- 09/09 22:40 [financialjuice] China Commerce Ministry: If the US side takes action to suppress Chinese AI companies under the pretext of cracking down on distillation, China will take resolute countermeasures.
-- 09/09 22:41 [FirstSquawk] POLISH CENTRAL BANK LEAVES MAIN RATE AT 3.75%; EST. 3.75%
-- 09/09 22:41 [financialjuice] Yemeni sources report intense clashes between elements affiliated with the UAE and Saudi Arabia in Al-Dhalea, Yemen - Mehr News
-- 09/09 22:42 [financialjuice] Reform UK is going to face a criminal probe over donations.
-- 09/09 22:43 [financialjuice] Yemeni sources report Saudi-backed government's defense minister came under attack in Al-Dhalea - Mehr News
 - 09/09 22:44 [financialjuice/FirstSquawk] Yemeni sources report Saudi-backed government's defense minister flees and goes into hiding - Mehr News
 - 09/09 22:45 [FirstSquawk] REFORM UK WILL BE UNDER CRIMINAL INVESTIGATION REGARDING DONATIONS.
 - 09/09 22:45 [financialjuice] Saudi-led coalition warplanes carried out 4 airstrikes in Saada, Yemen - Tasnim News
@@ -771,3 +756,23 @@
 - 09/10 22:22 [FirstSquawk] LAGARDE: VERY HOPEFUL DIGITAL EURO LAW WILL PASS BY YEAR-END
 - 09/10 22:22 [financialjuice] ECB's Lagarde: Won't comment on any FX intervention.
 - 09/10 22:23 [financialjuice] ECB's Lagarde: Euro-Yen intervention had a volume of €500m.
+- 09/10 22:24 [financialjuice] SpaceX overhauls data center build-out, potentially slowing expansion - The Information $SPCX
+- 09/10 22:25 [financialjuice] ECB's Lagarde: Won't comment on spreads.
+- 09/10 22:25 [financialjuice] ECB's Lagarde: Spread is a reflection of market perception of a country's bond.
+- 09/10 22:26 [financialjuice] ECB's Lagarde: Cancellation of debt would be a pure violation of the treaty.
+- 09/10 22:27 [financialjuice] ECB's Lagarde: Debt cancellation talk is financially dangerous
+- 09/10 22:29 [financialjuice] ECB's Lagarde: The ECB to publish benign, adverse, and severe scenarios.
+- 09/10 22:29 [financialjuice] ECB's Lagarde: Against all three scenarios, the decision to raise rates is robust.
+- 09/10 22:29 [FirstSquawk] LAGARDE: ECB HIKE ROBUST AGAINST ALL THREE SCENARIOS
+- 09/10 22:30 [financialjuice] ECB's Lagarde: ECB hike robust against all three scenarios.
+- 09/10 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 23.0 MLN NASDAQ 100: -11.8 MLN DOW 30: -11.3 MLN MAG 7: -7.4 MLN $MACRO
+- 09/10 22:33 [FirstSquawk] DOW JONES DOWN 232.28 POINTS, OR 0.44 PERCENT, AT 52,148.38 AFTER MARKET OPEN NASDAQ DOWN 248.90 POINTS, OR 0.95 PERCENT, AT 26,004.44 AFTER MARKET OPEN S&P 500 DOWN 43.77 POINTS, OR 0.57 %, AT 7,592.59 AFTER MARKET OPEN
+- 09/10 22:35 [financialjuice] ECB's President Lagarde: If energy shock longer than expected, we'll see second round effects and it will affect food prices.
+- 09/10 22:35 [financialjuice] Yemeni Armed Forces Gain Control of Zubayr City and the Strategic Zaqar Island Near Bab-el-Mandeb - Tasnim News.
+- 09/10 22:36 [financialjuice] ECB's Nagel: I am concerned about rise of right-wing parties.
+- 09/10 22:36 [DeItaone/FirstSquawk] ECB'S NAGEL: CONCERNED ABOUT RISE IN EURO-SCEPTIC PARTIES
+- 09/10 22:36 [financialjuice] ECB's Nagel: Euro-sceptic parties will make investors reluctant to invest in Germany.
+- 09/10 22:38 [financialjuice] ECB's President Lagarde ends the ECB press conference.
+- 09/10 22:39 [FirstSquawk] SPACEX OVERHAULS DATA CENTER BUILD-OUT, POTENTIALLY SLOWING EXPANSION - THE INFORMATION
+- 09/10 22:39 [FirstSquawk] YEMENI ARMED FORCES GAIN CONTROL OF ZUBAYR CITY AND THE STRATEGIC ZAQAR ISLAND NEAR BAB-EL-MANDEB - TASNIM
+- 09/10 22:40 [FirstSquawk] ECB'S LAGARDE: LONGER THAN EXPECTED ENERGY SHOCK WOULD SEE SECOND ROUND EFFECTS, WILL AFFECT FOOD PRICES
