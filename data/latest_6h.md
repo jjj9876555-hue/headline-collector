@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 23:34 JST／対象: 09/10 17:34 〜 09/10 23:34 JST（時刻はすべて日本時間）
+生成: 2026-09-10 23:53 JST／対象: 09/10 17:53 〜 09/10 23:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 33 | 09/10 18:05 | 09/10 23:25 | 29分（18:21→18:50） |
-| FirstSquawk | 113 | 09/10 17:35 | 09/10 23:30 | 18分（20:15→20:33） |
-| financialjuice | 157 | 09/10 17:53 | 09/10 23:31 | ⚠ 46分（18:42→19:28） |
+| DeItaone | 34 | 09/10 18:05 | 09/10 23:45 | 29分（18:21→18:50） |
+| FirstSquawk | 108 | 09/10 17:55 | 09/10 23:44 | 18分（20:15→20:33） |
+| financialjuice | 159 | 09/10 17:53 | 09/10 23:42 | ⚠ 46分（18:42→19:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 287 行（統合前 308 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 285 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 17:35 [FirstSquawk] VW ESTIMATES THE COST OF JOB CUTS AND PLANT CLOSURES AT 16B EUROS - SPIEGEL
-- 09/10 17:36 [FirstSquawk] KIM JONG UN GAVE PUBLIC PRAISE TO NORTH KOREAN SOLDIERS INVOLVED IN "OVERSEAS MILITARY OPERATIONS," MAKING PYONGYANG’S ROLE IN RUSSIA’S WAR ON UKRAINE MORE NORMALIZED.
-- 09/10 17:38 [FirstSquawk] COINBASE EXPECTS STABLECOIN PAYMENTS TO BECOME A SIGNIFICANT REVENUE BOOST.
-- 09/10 17:39 [FirstSquawk] UKRAINIAN AIR DEFENSES CLAIMED THEY HAVE DESTROYED 128 RUSSIAN DRONES OF DIFFERENT TYPES.
-- 09/10 17:42 [FirstSquawk] UK 2-YEAR YIELD CLIMBS 2BPS TO 4.72%, HIGHEST SINCE NOV. 2023
-- 09/10 17:52 [FirstSquawk] BORING CO. RAISES $3 BILLION IN NEW FUNDING FROM UAE AND ASSOCIATED INVESTORS, PUTTING ELON MUSK’S TUNNELING COMPANY'S VALUE AT $23 BILLION.
-- 09/10 17:53 [FirstSquawk] US AI SAFETY BILL COULD BE PRESENTED AS SOON AS NEXT WEEK, ACCORDING TO SEMAFOR.
 - 09/10 17:53 [financialjuice] US AI safety bill may be introduced early as next week - Semafor
 - 09/10 17:55 [FirstSquawk] RYANAIR CEO: WE WILL BE DOWN VERY LOW SINGLE DIGITS IN Q2
 - 09/10 17:59 [financialjuice] China warns industrial companies against disorderly price competition.
@@ -311,3 +304,8 @@
 - 09/10 23:30 [FirstSquawk] U.S NATURAL GAS STORAGE ACTUAL: 40 VS 30 PREVIOUSL; EST 32
 - 09/10 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 40B (FORECAST 34B, PREVIOUS 30B) $MACRO
 - 09/10 23:31 [financialjuice] Weekly EIA Natural Gas Change Storage Report -
+- 09/10 23:42 [financialjuice] Diesel futures top $5/gal for the first time since 2022.
+- 09/10 23:42 [financialjuice] Yemen's Houthi-run Humanitarian Operations Coordination Centre: Red Sea navigation safe for all shipping companies except Saudi vessels.
+- 09/10 23:43 [FirstSquawk] YEMEN'S HOUTHI CONTROLLED HUMANITARIAN OPERATIONS CENTRE ANNOUNCES THAT NAVIGATION IN THE RED SEA IS SAFE FOR ALL SHIPPING COMPANIES EXCEPT SAUDI VESSELS.
+- 09/10 23:44 [FirstSquawk] DIESEL FUTURES TOP $5/GAL FOR FIRST TIME SINCE 2022
+- 09/10 23:45 [DeItaone] TRUMP SITS DOWN FOR EXCLUSIVE INGRAHAM INTERVIEW President Donald Trump has given Laura Ingraham an exclusive interview, with Part One airing tonight at 7 PM ET on The Ingraham Angle. Fox’s current schedule confirms the program’s 7 PM ET sl…

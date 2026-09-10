@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 23:34 JST／対象: 09/09 23:34 〜 09/10 23:34 JST（時刻はすべて日本時間）
+生成: 2026-09-10 23:53 JST／対象: 09/09 23:53 〜 09/10 23:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 69 | 09/10 01:05 | 09/10 23:25 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 389 | 09/09 23:36 | 09/10 23:30 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 338 | 09/09 23:35 | 09/10 23:31 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 70 | 09/10 01:05 | 09/10 23:45 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 382 | 09/09 23:55 | 09/10 23:44 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 338 | 09/09 23:55 | 09/10 23:42 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 774 行（統合前 803 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 768 行（統合前 797 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 23:35 [financialjuice] Saudi Civil Defence: Danger has passed in Abha - Post on X.
-- 09/09 23:35 [financialjuice] Saudis say danger passes in Khamis Mushait after alert.
-- 09/09 23:36 [FirstSquawk] SAUDI CIVIL DEFENCE ANNOUNCES THAT THE DANGER IN ABHA HAS ENDED.
-- 09/09 23:36 [FirstSquawk] SAUDI CIVIL DEFENSE ANNOUNCES THAT THE DANGER HAS PASSED IN KHAMIS MUSHAIT.
-- 09/09 23:38 [FirstSquawk] AFT, UFT, AND MICROSOFT UNVEIL A NEW NATIONAL AI SAFETY AND PRIVACY STANDARD FOR SCHOOLS TO ENSURE THE PROTECTION OF STUDENTS, FAMILIES, AND TEACHERS.
-- 09/09 23:38 [FirstSquawk] MICROSOFT'S NEW DEAL PROTECTS STUDENT DATA FROM AI USAGE, ENSURING STUDENTS REMAIN UNTRACKED AND AI REQUIRES HUMAN OVERSIGHT FOR DECISIONS.
-- 09/09 23:38 [FirstSquawk] MICROSOFT REQUIRES TECH FIRMS TO PROVIDE CLEAR AND SIMPLE EXPLANATIONS TO EDUCATORS AND PARENTS ABOUT THEIR PRODUCTS.
-- 09/09 23:38 [FirstSquawk] US SCHOOL DISTRICTS CAN NOW ADD SPECIFIC PROTECTIONS DIRECTLY INTO THEIR MICROSOFT CUSTOMER AGREEMENTS, ALLOWING THEM TO BE CONTRACTUALLY ENFORCED.
-- 09/09 23:45 [FirstSquawk] VALE CFO ANNOUNCES PLANS TO ENTER CHINESE BOND MARKET, BUT STATING BASE METALS IPO IS NOT A PRIORITY FOR THE NEXT 1-2 YEARS.
-- 09/09 23:52 [FirstSquawk] US SPY CHIEF JOHN RATCLIFFE GETS READY FOR A BIGGER ROLE IN RUSSIA-UKRAINE DISCUSSIONS.
-- 09/09 23:52 [FirstSquawk] UK 2-YEAR GILT YIELD INCREASES TO 4.698%, HIGHEST LEVEL SINCE MARCH 23, UP 10 BASIS POINTS TODAY.
 - 09/09 23:55 [financialjuice] The White House is considering paring back the involvement of US special envoy Witkoff and Kushner in talks with Moscow and Kyiv - FT.
 - 09/09 23:55 [FirstSquawk] AMAZON LEO HAS PLACED AN ORDER FOR 6 NEW ARIANE 64 LAUNCHES FROM ARIANESPACE.
 - 09/09 23:55 [FirstSquawk] AMAZON AND WIWYNN PLAN TO GROW THEIR SERVER RACK FACILITY IN TEXAS, ACCORDING TO WSJ.
@@ -798,3 +787,8 @@
 - 09/10 23:30 [FirstSquawk] U.S NATURAL GAS STORAGE ACTUAL: 40 VS 30 PREVIOUSL; EST 32
 - 09/10 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 40B (FORECAST 34B, PREVIOUS 30B) $MACRO
 - 09/10 23:31 [financialjuice] Weekly EIA Natural Gas Change Storage Report -
+- 09/10 23:42 [financialjuice] Diesel futures top $5/gal for the first time since 2022.
+- 09/10 23:42 [financialjuice] Yemen's Houthi-run Humanitarian Operations Coordination Centre: Red Sea navigation safe for all shipping companies except Saudi vessels.
+- 09/10 23:43 [FirstSquawk] YEMEN'S HOUTHI CONTROLLED HUMANITARIAN OPERATIONS CENTRE ANNOUNCES THAT NAVIGATION IN THE RED SEA IS SAFE FOR ALL SHIPPING COMPANIES EXCEPT SAUDI VESSELS.
+- 09/10 23:44 [FirstSquawk] DIESEL FUTURES TOP $5/GAL FOR FIRST TIME SINCE 2022
+- 09/10 23:45 [DeItaone] TRUMP SITS DOWN FOR EXCLUSIVE INGRAHAM INTERVIEW President Donald Trump has given Laura Ingraham an exclusive interview, with Part One airing tonight at 7 PM ET on The Ingraham Angle. Fox’s current schedule confirms the program’s 7 PM ET sl…
