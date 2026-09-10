@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 10:32 JST／対象: 09/09 10:32 〜 09/10 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-10 10:46 JST／対象: 09/09 10:46 〜 09/10 10:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 326 | 09/09 10:37 | 09/10 10:28 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 200 | 09/09 10:40 | 09/10 10:32 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 335 | 09/09 10:53 | 09/10 10:46 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 213 | 09/09 10:56 | 09/10 10:46 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 569 行（統合前 585 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 591 行（統合前 607 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 10:37 [FirstSquawk] Defense Minister Ahn Gyu-back will travel to Croatia on Wednesday to discuss bilateral defense ties with top officials and attend a ceremony for a South Korean rocket artillery export deal, Seoul's defense ministry said - YONHAP
-- 09/09 10:39 [FirstSquawk] South Korean Stocks Open Higher, Led by Chip Gains Amid Middle East Tensions
-- 09/09 10:40 [FirstSquawk] Bank of Korea Sells 2-Year Monetary Stabilisation Bonds at 3.805%
-- 09/09 10:40 [financialjuice] S.Korea central bank sells two-year monetary stabilization bonds at 3.805% yield
-- 09/09 10:42 [FirstSquawk] South Korea’s Employment Gains Reach Five-Month High With 184,000 Jobs Added in August
-- 09/09 10:43 [FirstSquawk] Korea’s 2027 Budget to Strengthen Fiscal Metrics, but Improvement May Be Short-Lived, Fitch Says
-- 09/09 10:45 [FirstSquawk] China 5G Communications Index Gains Over 2%
 - 09/09 10:53 [FirstSquawk] WTI surges as US strikes Iranian tankers - FX
 - 09/09 10:56 [financialjuice] Six commodity ships pass Strait of Hormuz on Tuesday, below 10-day average of about 12, data shows
 - 09/09 10:56 [FirstSquawk] DeepSeek fundraising frenzy spawns costly shadow market - FT
@@ -593,3 +586,32 @@
 - 09/10 10:26 [FirstSquawk] Trump urges Republicans to secure a midterm victory to defend the gains made over the past two years.
 - 09/10 10:28 [FirstSquawk] Japanese researchers earn four Lasker Awards for achievements in medicine, according to Kyodo.
 - 09/10 10:32 [financialjuice] Bank of Japan board member Masu: underlying inflation remains under 2% but close to that level
+- 09/10 10:32 [financialjuice] BoJ board member Masu: BoJ likely to keep raising interest rates amid current loose financial conditions
+- 09/10 10:33 [financialjuice] BOJ board member Masu: pace and timing of rate increase will depend on likelihood of meeting baseline projections and risks, considering oil price changes, al-demand, and currency fluctuations
+- 09/10 10:34 [financialjuice] Multiple US military aircraft damaged in strikes overnight at Muwaffaq Salti Air Base in Jordan: CBS reporter on X
+- 09/10 10:34 [FirstSquawk] Masu says the BOJ should continue raising interest rates while current financial conditions remain accommodative.
+- 09/10 10:35 [financialjuice] BOJ board member Masu: rise in fuel, chemical prices may be one-off shock but could affect prices through distribution costs
+- 09/10 10:35 [FirstSquawk] BOJ policymaker Masu says the central bank will weigh its economic projections and key risks, including oil prices, AI demand and exchange-rate movements, when deciding the pace of rate hikes.
+- 09/10 10:36 [FirstSquawk] KOSPI drops 2% as selling pressure hits South Korean equities.
+- 09/10 10:36 [FirstSquawk] Several U.S. military aircraft sustained damage during overnight attacks targeting the Muwaffaq Salti Air Base in Jordan, according to CBS.
+- 09/10 10:36 [financialjuice] BOJ board member Masu: rising costs from Middle East conflict may drive overall prices higher
+- 09/10 10:36 [FirstSquawk] Masu says keeping underlying inflation from exceeding 2% by a wide margin is the BOJ’s most important objective.
+- 09/10 10:37 [financialjuice] BOJ's Masu: government measures to ease cost of living impact may increase demand, drive inflation higher
+- 09/10 10:39 [financialjuice] Boj’s Masu: recent 7% rise in producer prices requires attention as increase could boost consumer inflation more than before
+- 09/10 10:39 [FirstSquawk] BOJ policymaker Masu warns that fuel and chemical price gains, while potentially temporary, could have broader effects on inflation through distribution costs.
+- 09/10 10:40 [FirstSquawk] BOJ policymaker Masu says efforts to soften the impact of higher living costs could have the unintended effect of strengthening demand and raising inflation.
+- 09/10 10:40 [FirstSquawk] Masu says the 7% increase in producer prices is a key concern, with higher factory-gate costs potentially feeding into consumer prices more than before.
+- 09/10 10:40 [financialjuice] BOJ's Masu: food cost increases set to re-accelerate, may hold key to long-term inflation outlook
+- 09/10 10:41 [FirstSquawk] BOJ’s Masu says elevated producer-price growth could put greater pressure on consumer inflation as businesses pass on rising costs.
+- 09/10 10:42 [financialjuice] BOJ's Masu: Weak yen has greater effect on inflation than before, warrants attention
+- 09/10 10:42 [financialjuice] Boj's Masu: Japan no longer in deflation, must raise real interest rate above negative territory promptly
+- 09/10 10:42 [FirstSquawk] BOJ board member Masu warns that yen weakness is exerting a larger influence on prices than before, requiring attention.
+- 09/10 10:42 [FirstSquawk] BOJ board member Masu says with deflation no longer a concern, the central bank should aim to lift real interest rates from negative territory as soon as possible.
+- 09/10 10:43 [financialjuice] BOJ’s Masu: policy rate nearing estimated neutral range, must closely monitor price, job, financial conditions
+- 09/10 10:43 [FirstSquawk] Masu says with the BOJ policy rate nearing its estimated neutral range, the central bank must closely watch price trends, labor conditions and financial markets.
+- 09/10 10:44 [financialjuice] BOJ's Masu: Japan's financial conditions steady, rapid rate hikes possible if inflation picks up
+- 09/10 10:44 [FirstSquawk] Masu says the BOJ may need to accelerate monetary tightening if inflation picks up while financial conditions remain accommodative.
+- 09/10 10:45 [financialjuice] Boj's Masu: Boj Must Raise Rates Further and Push Policy Rate to Estimated Neutral Level to Prepare for Nimble Policy Moves
+- 09/10 10:45 [FirstSquawk] Masu says the BOJ should push its policy rate toward the estimated neutral range, allowing it to conduct monetary policy more flexibly.
+- 09/10 10:46 [FirstSquawk] Trump says the strategic waterway currently known as the Strait of Hormuz will be called the “Trump Strait.”
+- 09/10 10:46 [financialjuice] BOJ's Masu: no sign recent rate increases are weakening corporate demand for funds, concerned about potential overheating of corporate investment

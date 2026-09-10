@@ -7,37 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 10:32 JST／対象: 09/09 22:32 〜 09/10 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-10 10:46 JST／対象: 09/09 22:46 〜 09/10 10:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 32 | 09/09 23:16 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 139 | 09/09 22:35 | 09/10 10:28 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 149 | 09/09 22:39 | 09/10 10:32 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 151 | 09/09 22:55 | 09/10 10:46 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 154 | 09/09 23:16 | 09/10 10:46 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 313 行（統合前 322 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 331 行（統合前 339 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 22:35 [FirstSquawk] SAUDI ARABIA IS CREATING AN INSURANCE POOL TO COVER MARINE WAR RISKS FOR CARGO.
-- 09/09 22:39 [financialjuice] China Commerce Ministry on US issuing cybersecurity announcements related to Chinese AI companies: china firmly opposes this. US allegations are baseless - Statement
-- 09/09 22:39 [financialjuice] China Commerce Ministry: Distillation is a common practice among AI models globally, including by US firms.
-- 09/09 22:40 [financialjuice] China Commerce Ministry: Heads of state of the two countries agreed to launch intergovernmental dialogue on AI.
-- 09/09 22:40 [financialjuice] China Commerce Ministry: If the US side takes action to suppress Chinese AI companies under the pretext of cracking down on distillation, China will take resolute countermeasures.
-- 09/09 22:41 [FirstSquawk] POLISH CENTRAL BANK LEAVES MAIN RATE AT 3.75%; EST. 3.75%
-- 09/09 22:41 [financialjuice] Yemeni sources report intense clashes between elements affiliated with the UAE and Saudi Arabia in Al-Dhalea, Yemen - Mehr News
-- 09/09 22:42 [financialjuice] Reform UK is going to face a criminal probe over donations.
-- 09/09 22:43 [financialjuice] Yemeni sources report Saudi-backed government's defense minister came under attack in Al-Dhalea - Mehr News
-- 09/09 22:44 [financialjuice/FirstSquawk] Yemeni sources report Saudi-backed government's defense minister flees and goes into hiding - Mehr News
-- 09/09 22:45 [FirstSquawk] REFORM UK WILL BE UNDER CRIMINAL INVESTIGATION REGARDING DONATIONS.
-- 09/09 22:45 [financialjuice] Saudi-led coalition warplanes carried out 4 airstrikes in Saada, Yemen - Tasnim News
 - 09/09 22:55 [FirstSquawk] RBC CEO DAVE MCKAY: ESCALATION OF TRADE WAR LEADING TO SOME CAUTION ON CREDIT
 - 09/09 23:03 [FirstSquawk] SAUDI-LED COALITION WARPLANES CARRIED OUT 4 AIRSTRIKES IN SAADA, YEMEN - TASNIM
+- 09/09 23:04 [FirstSquawk] YEMENI SOURCES REPORT SAUDI-BACKED GOVERNMENT'S DEFENSE MINISTER FLEES AND GOES INTO HIDING - MEHR NEWS
 - 09/09 23:16 [DeItaone] BREAKING: Call option notional open interest on the Brazil ETF, $EWZ, has surged to a record $20 billion this week. This figure has nearly doubled over the last several weeks. As a result, total $EWZ call open interest exceeded 5 million co…
 - 09/09 23:16 [financialjuice] Fire broke out at energy facility in Yamal after attack - TASS
 - 09/09 23:17 [financialjuice] Crypto Fear & Greed Index: 66/100 - Greed
@@ -337,3 +326,32 @@
 - 09/10 10:26 [FirstSquawk] Trump urges Republicans to secure a midterm victory to defend the gains made over the past two years.
 - 09/10 10:28 [FirstSquawk] Japanese researchers earn four Lasker Awards for achievements in medicine, according to Kyodo.
 - 09/10 10:32 [financialjuice] Bank of Japan board member Masu: underlying inflation remains under 2% but close to that level
+- 09/10 10:32 [financialjuice] BoJ board member Masu: BoJ likely to keep raising interest rates amid current loose financial conditions
+- 09/10 10:33 [financialjuice] BOJ board member Masu: pace and timing of rate increase will depend on likelihood of meeting baseline projections and risks, considering oil price changes, al-demand, and currency fluctuations
+- 09/10 10:34 [financialjuice] Multiple US military aircraft damaged in strikes overnight at Muwaffaq Salti Air Base in Jordan: CBS reporter on X
+- 09/10 10:34 [FirstSquawk] Masu says the BOJ should continue raising interest rates while current financial conditions remain accommodative.
+- 09/10 10:35 [financialjuice] BOJ board member Masu: rise in fuel, chemical prices may be one-off shock but could affect prices through distribution costs
+- 09/10 10:35 [FirstSquawk] BOJ policymaker Masu says the central bank will weigh its economic projections and key risks, including oil prices, AI demand and exchange-rate movements, when deciding the pace of rate hikes.
+- 09/10 10:36 [FirstSquawk] KOSPI drops 2% as selling pressure hits South Korean equities.
+- 09/10 10:36 [FirstSquawk] Several U.S. military aircraft sustained damage during overnight attacks targeting the Muwaffaq Salti Air Base in Jordan, according to CBS.
+- 09/10 10:36 [financialjuice] BOJ board member Masu: rising costs from Middle East conflict may drive overall prices higher
+- 09/10 10:36 [FirstSquawk] Masu says keeping underlying inflation from exceeding 2% by a wide margin is the BOJ’s most important objective.
+- 09/10 10:37 [financialjuice] BOJ's Masu: government measures to ease cost of living impact may increase demand, drive inflation higher
+- 09/10 10:39 [financialjuice] Boj’s Masu: recent 7% rise in producer prices requires attention as increase could boost consumer inflation more than before
+- 09/10 10:39 [FirstSquawk] BOJ policymaker Masu warns that fuel and chemical price gains, while potentially temporary, could have broader effects on inflation through distribution costs.
+- 09/10 10:40 [FirstSquawk] BOJ policymaker Masu says efforts to soften the impact of higher living costs could have the unintended effect of strengthening demand and raising inflation.
+- 09/10 10:40 [FirstSquawk] Masu says the 7% increase in producer prices is a key concern, with higher factory-gate costs potentially feeding into consumer prices more than before.
+- 09/10 10:40 [financialjuice] BOJ's Masu: food cost increases set to re-accelerate, may hold key to long-term inflation outlook
+- 09/10 10:41 [FirstSquawk] BOJ’s Masu says elevated producer-price growth could put greater pressure on consumer inflation as businesses pass on rising costs.
+- 09/10 10:42 [financialjuice] BOJ's Masu: Weak yen has greater effect on inflation than before, warrants attention
+- 09/10 10:42 [financialjuice] Boj's Masu: Japan no longer in deflation, must raise real interest rate above negative territory promptly
+- 09/10 10:42 [FirstSquawk] BOJ board member Masu warns that yen weakness is exerting a larger influence on prices than before, requiring attention.
+- 09/10 10:42 [FirstSquawk] BOJ board member Masu says with deflation no longer a concern, the central bank should aim to lift real interest rates from negative territory as soon as possible.
+- 09/10 10:43 [financialjuice] BOJ’s Masu: policy rate nearing estimated neutral range, must closely monitor price, job, financial conditions
+- 09/10 10:43 [FirstSquawk] Masu says with the BOJ policy rate nearing its estimated neutral range, the central bank must closely watch price trends, labor conditions and financial markets.
+- 09/10 10:44 [financialjuice] BOJ's Masu: Japan's financial conditions steady, rapid rate hikes possible if inflation picks up
+- 09/10 10:44 [FirstSquawk] Masu says the BOJ may need to accelerate monetary tightening if inflation picks up while financial conditions remain accommodative.
+- 09/10 10:45 [financialjuice] Boj's Masu: Boj Must Raise Rates Further and Push Policy Rate to Estimated Neutral Level to Prepare for Nimble Policy Moves
+- 09/10 10:45 [FirstSquawk] Masu says the BOJ should push its policy rate toward the estimated neutral range, allowing it to conduct monetary policy more flexibly.
+- 09/10 10:46 [FirstSquawk] Trump says the strategic waterway currently known as the Strait of Hormuz will be called the “Trump Strait.”
+- 09/10 10:46 [financialjuice] BOJ's Masu: no sign recent rate increases are weakening corporate demand for funds, concerned about potential overheating of corporate investment
