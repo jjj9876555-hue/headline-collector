@@ -7,51 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 15:23 JST／対象: 09/10 03:23 〜 09/10 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-10 15:49 JST／対象: 09/10 03:49 〜 09/10 15:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 09/10 03:29 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 184 | 09/10 03:43 | 09/10 15:21 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 122 | 09/10 03:27 | 09/10 15:00 | ⚠ 59分（07:00→08:00） |
+| DeItaone | 4 | 09/10 05:08 | 09/10 06:22 | ⚠ 60分（05:08→06:08） |
+| FirstSquawk | 185 | 09/10 03:51 | 09/10 15:45 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 107 | 09/10 03:55 | 09/10 15:00 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 314 行（統合前 319 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 293 行（統合前 297 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 03:27 [financialjuice] LIVE: President Donald Trump Heads to Dallas for Historic Republican Midterm Convention | AC15
-- 09/10 03:28 [financialjuice] Trump: The economy is very strong; we're going to explain that.
-- 09/10 03:29 [financialjuice] Trump on Gasoline Price: Can't let Iran have nuclear weapons.
-- 09/10 03:29 [DeItaone] TRUMP: OIL PRICES WILL TUMBLE AFTER ELECTION
-- 09/10 03:29 [financialjuice] Trump: After the election, oil prices will tumble.
-- 09/10 03:30 [financialjuice/DeItaone] Trump on Gasoline Price: It will take a little bit longer.
-- 09/10 03:30 [financialjuice] Trump: Will get gasoline down below $2.
-- 09/10 03:31 [financialjuice] Trump: Had a great conversation with Putin. He wants to make a deal.
-- 09/10 03:31 [DeItaone] TRUMP: GREAT CONVERSATION WITH RUSSIA'S PUTIN
-- 09/10 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $96.05 a barrel, up $3.02, 3.25%.
-- 09/10 03:32 [financialjuice] NYMEX Diesel October futures settle at $4.8010 a gallon.
-- 09/10 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.2106 a gallon.
-- 09/10 03:32 [financialjuice] Trump on Iran: Will be speaking to Israel about sanctions imposed on West Bank settlements.
-- 09/10 03:33 [DeItaone] TRUMP: BILATERAL MEETING COULD HAPPEN
-- 09/10 03:33 [DeItaone] TRUMP ON IRAN: WAR IN IRAN WILL END IMMEDIATELY AFTER ELECTION
-- 09/10 03:33 [financialjuice] NYMEX Natural Gas October futures settle at $2.8220/MMBTU.
-- 09/10 03:33 [DeItaone] TRUMP ON IRAN: I'M DOING MUCH MORE THAN A NUCLEAR DEAL
-- 09/10 03:34 [financialjuice] Trump on Iran: I'm doing much more than a nuclear deal, many things on table.
-- 09/10 03:34 [financialjuice] Trump on Iran: We're not looking for a deal, but negotiation could happen
-- 09/10 03:34 [DeItaone] TRUMP ON IRAN: WE'RE NOT LOOKING FOR A DEAL
-- 09/10 03:34 [DeItaone] TRUMP ON IRAN: NEGOTIATION COULD HAPPEN
-- 09/10 03:41 [financialjuice] Brent crude futures settle at $101.21/bbl, up $3.29, 3.36%
-- 09/10 03:43 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $96.05/BBL, SURGING $3.02 OR 3.25%
-- 09/10 03:43 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $101.21/BBL, SURGING $3.29 OR 3.36%
-- 09/10 03:44 [FirstSquawk] U.S. PRESIDENT TRUMP SAYS THAT 'SHORTLY, RIGHT AFTER THE ELECTION, OIL PRICES WILL COME TUMBLING DOWN BELOW $2/GALLON', THOUGH HE ADDS 'I THINK IT'S GOING TO TAKE A LITTLE BIT LONGER THAN THE MIDTERMS'
-- 09/10 03:44 [FirstSquawk] TRUMP: US HAS DESTROYED 9 IRANIAN OIL TANKERS IN HORMUZ STRIKES, EXPECTS “A LOT MORE” ACTION; SAYS THE WAR COULD END AFTER THE ELECTION, WHILE LEAVING OPEN THE POSSIBILITY OF NEGOTIATIONS AND A BROADER DEAL BEYOND NUCLEAR ISSUES.
-- 09/10 03:44 [FirstSquawk] US PRESIDENT TRUMP ON PUTIN: HAD GREAT CONVERSATION, BILATERAL MEETING COULD HAPPEN
-- 09/10 03:45 [FirstSquawk] DISNEY CFO: COMPANY HAS BUILT A “ONE FAN, ONE ACCOUNT” ECOSYSTEM CONNECTING HULU & DISNEY+ PROFILES; DISNEY+ POSTED A 13% MARGIN LAST QUARTER, WITH DOUBLE-DIGIT FULL-YEAR MARGINS EXPECTED, WHILE PRIORITIZING REVENUE GROWTH OVER MARGIN EXPAN…
 - 09/10 03:51 [FirstSquawk] RUBIO: US TO SEEK ADDITIONAL $45M IN SECURITY FUNDING FOR ECUADOR, INCLUDING ADDITIONAL EQUIPMENT.
 - 09/10 03:54 [FirstSquawk] APPLE'S FOLDABLE IPHONE EVENT — KEY TAKEAWAYS • APPLE IS POSITIONING THE IPHONE AS THE CENTRAL AI DEVICE FOR THE NEXT ERA OF COMPUTING. • THE NEW IPHONE DUO FOLDABLE STARTS AT $1,999, WITH A DISTINCT USER INTERFACE AND COMPETITIVE CAMERA FE…
 - 09/10 03:55 [financialjuice] Brent and US crude futures settle at their highest close since May 22nd.
@@ -338,3 +310,10 @@
 - 09/10 15:09 [FirstSquawk] DeepSeek officially rolls out V4.1 Flash, its latest AI model, the company says.
 - 09/10 15:10 [FirstSquawk] TotalEnergies makes a new Block 17 discovery in Angola and secures fresh exploration licences for Blocks 17 and 32.
 - 09/10 15:21 [FirstSquawk] TotalEnergies expands its Angola exploration footprint following a new discovery on Block 17.
+- 09/10 15:23 [FirstSquawk] ASX 200 drops 1.03% to 8,819.40 at the close.
+- 09/10 15:32 [FirstSquawk] Volvo Group launches plans for an Energy Park as it expands its operations in Mariestad.
+- 09/10 15:32 [FirstSquawk] The initial Energy Park setup at Volvo is projected to provide about 70 MW of power and 260 MWh of storage.
+- 09/10 15:32 [FirstSquawk] Volvo expects the Energy Park to be up and running by 2027.
+- 09/10 15:38 [FirstSquawk] Iran’s growing ability to strike ships may have benefited from Russian or Chinese technology, according to WSJ sources.
+- 09/10 15:44 [FirstSquawk] Nissan plans to consolidate Serena and Elgrand manufacturing at the Tochigi plant, shifting production from Kyushu.
+- 09/10 15:45 [FirstSquawk] South Korea’s top diplomat says a meeting with U.S. Secretary of State Rubio is planned for September.

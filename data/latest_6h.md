@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 15:23 JST／対象: 09/10 09:23 〜 09/10 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-10 15:49 JST／対象: 09/10 09:49 〜 09/10 15:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 135 | 09/10 09:25 | 09/10 15:21 | 14分（14:01→14:15） |
-| financialjuice | 57 | 09/10 09:24 | 09/10 15:00 | ⚠ 55分（11:11→12:06） |
+| FirstSquawk | 132 | 09/10 09:51 | 09/10 15:45 | 14分（14:01→14:15） |
+| financialjuice | 55 | 09/10 09:55 | 09/10 15:00 | ⚠ 55分（11:11→12:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 192 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 187 行（統合前 187 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 09:24 [financialjuice] Southcom: carried out lethal kinetic strike on fast-moving vessel along narco-trafficking routes in Caribbean
-- 09/10 09:25 [FirstSquawk] ENBRIDGE IS IN ADVANCED TALKS TO ACQUIRE THE 900-MILE PONY EXPRESS PIPELINE FROM BLACKSTONE-OWNED TALLGRASS ENERGY FOR ABOUT $2 BILLION, WITH A DEAL POSSIBLY ANNOUNCED WITHIN DAYS.
-- 09/10 09:25 [FirstSquawk] Aussie dollar extends gains to a fresh mid-May high as a weaker US dollar and prospects for RBA tightening boost the currency.
-- 09/10 09:25 [financialjuice] Regulators probe Nvidia’s licensing arrangement with Grog: NYT
-- 09/10 09:26 [FirstSquawk] U.S. SOUTHERN COMMAND SAYS THAT ON SEPTEMBER 9, UNDER THE DIRECTION OF SOUTHCOM, JOINT TASK FORCE WESTERN HEMISPHERE EXECUTED A LETHAL KINETIC STRIKE ON A GO-FAST VESSEL OPERATING ALONG ESTABLISHED NARCO-TRAFFICKING ROUTES IN THE CARIBBEAN,…
-- 09/10 09:26 [FirstSquawk] Nvidia’s agreement to license Groq’s AI inference technology is facing regulatory scrutiny, according to a New York Times report.
-- 09/10 09:27 [FirstSquawk] BRENT CRUDE CLIMBED ABOVE $100 A BARREL AS RENEWED U.S.-IRAN ATTACKS THREATENED OIL SUPPLIES AND SHIPPING THROUGH THE STRAIT OF HORMUZ, WHERE ROUGHLY ONE-FIFTH OF GLOBAL OIL SUPPLY PASSED BEFORE THE CONFLICT, WITH THE LATEST ESCALATION FOLL…
-- 09/10 09:30 [FirstSquawk] Canada’s trade tribunal says a surge in imported canned vegetables, led largely by U.S. shipments, has caused significant harm to the country’s domestic food-processing industry as per wall street journal.
-- 09/10 09:40 [FirstSquawk] 2-year Japanese government bond yield moves 1 bp higher to 1.84%.
-- 09/10 09:41 [FirstSquawk] Major Korean banks maintain stable prospects as resilient fundamentals support their credit profiles, Fitch says.
-- 09/10 09:41 [FirstSquawk] A suspected drug-trafficking boat was hit by U.S. forces in the Caribbean Sea, Southern Command says.
-- 09/10 09:48 [FirstSquawk] Business sentiment among U.S. firms in China has improved sharply as the latest U.S.-China trade truce reduces tensions.
 - 09/10 09:51 [FirstSquawk] 5-year Japanese government bond yield advances 1.5 basis points to 2.235%.
 - 09/10 09:52 [FirstSquawk] Yakhil has reportedly fallen under Houthi control amid renewed clashes in Yemen.
 - 09/10 09:52 [FirstSquawk] The captured American underwater drone could give Iran an opportunity to examine and potentially reproduce parts of its technology.
@@ -216,3 +204,10 @@
 - 09/10 15:09 [FirstSquawk] DeepSeek officially rolls out V4.1 Flash, its latest AI model, the company says.
 - 09/10 15:10 [FirstSquawk] TotalEnergies makes a new Block 17 discovery in Angola and secures fresh exploration licences for Blocks 17 and 32.
 - 09/10 15:21 [FirstSquawk] TotalEnergies expands its Angola exploration footprint following a new discovery on Block 17.
+- 09/10 15:23 [FirstSquawk] ASX 200 drops 1.03% to 8,819.40 at the close.
+- 09/10 15:32 [FirstSquawk] Volvo Group launches plans for an Energy Park as it expands its operations in Mariestad.
+- 09/10 15:32 [FirstSquawk] The initial Energy Park setup at Volvo is projected to provide about 70 MW of power and 260 MWh of storage.
+- 09/10 15:32 [FirstSquawk] Volvo expects the Energy Park to be up and running by 2027.
+- 09/10 15:38 [FirstSquawk] Iran’s growing ability to strike ships may have benefited from Russian or Chinese technology, according to WSJ sources.
+- 09/10 15:44 [FirstSquawk] Nissan plans to consolidate Serena and Elgrand manufacturing at the Tochigi plant, shifting production from Kyushu.
+- 09/10 15:45 [FirstSquawk] South Korea’s top diplomat says a meeting with U.S. Secretary of State Rubio is planned for September.

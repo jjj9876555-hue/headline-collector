@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 15:23 JST／対象: 09/09 15:23 〜 09/10 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-10 15:49 JST／対象: 09/09 15:49 〜 09/10 15:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 356 | 09/09 15:24 | 09/10 15:21 | ⚠ 126分（05:28→07:34） |
+| FirstSquawk | 351 | 09/09 15:51 | 09/10 15:45 | ⚠ 126分（05:28→07:34） |
 | financialjuice | 238 | 09/09 17:26 | 09/10 15:00 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 638 行（統合前 651 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 633 行（統合前 646 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 15:24 [FirstSquawk] Australia’s ASX 200 Falls 0.1% to Close at 8,911.40 Points
-- 09/09 15:27 [FirstSquawk] Alerts Issued in Khamis Mushait as Saudi Civil Defense Warns of Potential Danger
-- 09/09 15:27 [FirstSquawk] Russia’s Defence Ministry Says Its Forces Struck a Cargo Vessel in the Black Sea
-- 09/09 15:30 [FirstSquawk] Warehouse Belonging to Kyiv Company Manufacturing Unmanned Boats and Drones Hit, Russian Defence Ministry Says
-- 09/09 15:31 [FirstSquawk] Saudi Civil Defense Says Threat Has Now Passed
-- 09/09 15:43 [FirstSquawk] RBA’s Hawkish Comments Have Lit Fuse for September Rate Increase - WSJ
-- 09/09 15:43 [FirstSquawk] RBI Likely Intervening With Dollar Sales to Limit Rupee Weakness
-- 09/09 15:45 [FirstSquawk] FRANCE (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: -0.4% VS 0.1% PREVIOUS;EST 0.2%
-- 09/09 15:45 [FirstSquawk] FRANCE (JUL) INDUSTRIAL PRODUCTION YOY ACTUAL: -0.5% VS -0.1% PREVIOUS;EST 0.4%
-- 09/09 15:46 [FirstSquawk] FRANCE (JUL) MANUFACTURING PRODUCTION MOM ACTUAL: -0.8% VS -1.1% PREVIOUS;EST 0.4%
-- 09/09 15:46 [FirstSquawk] FRANCE (JUL) MANUFACTURING PRODUCTION YOY ACTUAL: -2% VS -1.7% PREVIOUS
-- 09/09 15:47 [FirstSquawk] UK Air Traffic Outage Cause Expected to Be Different From Previous Failures, NATS CEO Rolfe Says
 - 09/09 15:51 [FirstSquawk] Google Plans at Least €13 Billion Investment in Finnish AI Infrastructure Over 2027-2028, Yle Says
 - 09/09 15:58 [FirstSquawk] UK AIRPORTS WARN OF FURTHER TRAVEL DISRUPTION - FT
 - 09/09 16:06 [FirstSquawk] Beijing Unaware of Circumstances Surrounding Note to Philippine Defence Chief, Foreign Ministry Says; Position on South China Sea Arbitration Remains Unchanged
@@ -662,3 +650,10 @@
 - 09/10 15:09 [FirstSquawk] DeepSeek officially rolls out V4.1 Flash, its latest AI model, the company says.
 - 09/10 15:10 [FirstSquawk] TotalEnergies makes a new Block 17 discovery in Angola and secures fresh exploration licences for Blocks 17 and 32.
 - 09/10 15:21 [FirstSquawk] TotalEnergies expands its Angola exploration footprint following a new discovery on Block 17.
+- 09/10 15:23 [FirstSquawk] ASX 200 drops 1.03% to 8,819.40 at the close.
+- 09/10 15:32 [FirstSquawk] Volvo Group launches plans for an Energy Park as it expands its operations in Mariestad.
+- 09/10 15:32 [FirstSquawk] The initial Energy Park setup at Volvo is projected to provide about 70 MW of power and 260 MWh of storage.
+- 09/10 15:32 [FirstSquawk] Volvo expects the Energy Park to be up and running by 2027.
+- 09/10 15:38 [FirstSquawk] Iran’s growing ability to strike ships may have benefited from Russian or Chinese technology, according to WSJ sources.
+- 09/10 15:44 [FirstSquawk] Nissan plans to consolidate Serena and Elgrand manufacturing at the Tochigi plant, shifting production from Kyushu.
+- 09/10 15:45 [FirstSquawk] South Korea’s top diplomat says a meeting with U.S. Secretary of State Rubio is planned for September.
