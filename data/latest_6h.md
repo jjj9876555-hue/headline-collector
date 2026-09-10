@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 04:14 JST／対象: 09/10 22:14 〜 09/11 04:14 JST（時刻はすべて日本時間）
+生成: 2026-09-11 04:28 JST／対象: 09/10 22:28 〜 09/11 04:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/10 22:36 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 85 | 09/10 22:15 | 09/11 04:13 | 32分（03:04→03:37） |
-| financialjuice | 112 | 09/10 22:15 | 09/11 04:07 | 20分（03:44→04:04） |
+| FirstSquawk | 87 | 09/10 22:29 | 09/11 04:23 | 32分（03:04→03:37） |
+| financialjuice | 99 | 09/10 22:29 | 09/11 04:22 | 20分（03:44→04:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 212 行（統合前 223 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 201 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 22:15 [FirstSquawk] LAGARDE: BOND REPRICING HAPPENING ACROSS THE WORLD
-- 09/10 22:15 [financialjuice] ECB's Lagarde: Yield rise is not a euro-specific issue; bond repricing is happening across the world.
-- 09/10 22:16 [financialjuice] ECB's Lagarde: Significant financing needs from AI is a key driver.
-- 09/10 22:16 [financialjuice] ECB's Lagarde: We are monitoring attentively the bond market, particularly the long end
-- 09/10 22:17 [financialjuice] ECB's Lagarde: Surprised by economic resilience.
-- 09/10 22:17 [financialjuice] ECB's Lagarde: post-cutoff data suggest even higher 2026 growth than in projection.
-- 09/10 22:17 [FirstSquawk] LAGARDE: ECB WAS SURPRISED BY LOWER THAN EXPECTED INFLATION
-- 09/10 22:18 [financialjuice] ECB's Lagarde: Inflation has been lower recently than anticipated, especially food.
-- 09/10 22:18 [financialjuice] ECB's Lagarde: The ECB was surprised by longer-lasting inflation.
-- 09/10 22:21 [financialjuice] ECB's Lagarde: Very hopeful digital euro legislation voted on before year-end.
-- 09/10 22:21 [financialjuice] ❗ Yemen's Houthis reached the Red Sea islands of Hanish - Two Yemeni governmental military sources
-- 09/10 22:21 [financialjuice/FirstSquawk] ❗ Traders see more than 50% chance of ECB hike in October.
-- 09/10 22:22 [FirstSquawk] LAGARDE: VERY HOPEFUL DIGITAL EURO LAW WILL PASS BY YEAR-END
-- 09/10 22:22 [financialjuice] ECB's Lagarde: Won't comment on any FX intervention.
-- 09/10 22:23 [financialjuice] ECB's Lagarde: Euro-Yen intervention had a volume of €500m.
-- 09/10 22:24 [financialjuice] SpaceX overhauls data center build-out, potentially slowing expansion - The Information $SPCX
-- 09/10 22:25 [financialjuice] ECB's Lagarde: Won't comment on spreads.
-- 09/10 22:25 [financialjuice] ECB's Lagarde: Spread is a reflection of market perception of a country's bond.
-- 09/10 22:26 [financialjuice] ECB's Lagarde: Cancellation of debt would be a pure violation of the treaty.
-- 09/10 22:27 [financialjuice] ECB's Lagarde: Debt cancellation talk is financially dangerous
 - 09/10 22:29 [financialjuice] ECB's Lagarde: The ECB to publish benign, adverse, and severe scenarios.
 - 09/10 22:29 [financialjuice] ECB's Lagarde: Against all three scenarios, the decision to raise rates is robust.
 - 09/10 22:29 [FirstSquawk] LAGARDE: ECB HIKE ROBUST AGAINST ALL THREE SCENARIOS
@@ -236,3 +216,12 @@
 - 09/11 04:12 [FirstSquawk] PETROBRAS EYES UP TO R$1/L DIESEL PRICE HIKE AS IT AWAITS GOVERNMENT MEASURES TO SHIELD CONSUMERS FROM HIGHER FUEL COSTS AMID SURGING OIL PRICES.
 - 09/11 04:12 [FirstSquawk] SHELL SIGNS TWO US POWER PORTFOLIO DEALS, BUYING 100% OF THE 169 MW HUNLOCK CREEK GENERATING PLANT AND SELLING ITS INTERESTS IN RISEC HOLDINGS TO CONSTELLATION ENERGY FOR $715 MILLION.
 - 09/11 04:13 [FirstSquawk] SHELL - TRANSACTIONS EXPECTED TO CLOSE IN Q1 2027, STRENGTHEN SHELL’S POSITION IN THE PJM POWER MARKET AS PART OF ITS ACTIVE PORTFOLIO MANAGEMENT STRATEGY.
+- 09/11 04:14 [FirstSquawk] CANADIAN PM MARK CARNEY SAYS UKRAINE HAS DEFIED PUTIN’S EARLY PREDICTIONS OF A SWIFT VICTORY, DECLARING THAT AFTER FOUR YEARS AND 198 DAYS OF WAR, “UKRAINE WILL NEVER SUBMIT.”
+- 09/11 04:14 [FirstSquawk] CANADIAN PM MARK CARNEY CALLS RUSSIA’S INVASION “ILLEGAL” AND “BARBARIC,” SAYING THE UKRAINIAN PEOPLE HAVE CONTINUED THEIR RESISTANCE DESPITE YEARS OF WAR.
+- 09/11 04:15 [FirstSquawk] CANADIAN PM MARK CARNEY SAYS CANADA WILL ALWAYS STAND IN SOLIDARITY WITH UKRAINE, ADDING THAT “YOUR CAUSE IS OUR CAUSE” AND UKRAINE’S HISTORY INFORMS CANADA’S HISTORY.
+- 09/11 04:15 [FirstSquawk] ZELENSKYY SAYS UKRAINE HAS SIGNED THE START OF JOINT DRONE PRODUCTION WITH CANADA, WITH 30% OF THE DRONES TO BE DELIVERED TO UKRAINE IMMEDIATELY FOR USE ON THE BATTLEFIELD.
+- 09/11 04:15 [FirstSquawk] SAUDI CIVIL DEFENSE ISSUES EMERGENCY ALERT FOR KHAMIS MUSHAIT GOVERNORATE, WARNING OF A POTENTIAL DANGER THROUGH THE NATIONAL EARLY WARNING PLATFORM; THE THREAT WAS LATER DECLARED OVER.
+- 09/11 04:16 [financialjuice] Saudi Civil Defence issues emergency alert for Khamis Mushait and Abha - post on X
+- 09/11 04:20 [financialjuice] US money-market fund assets fall to $7.97 trln at ICI
+- 09/11 04:21 [financialjuice/FirstSquawk] Saudi Civil Defence: Danger has passed in Khamis Mushait and Abha - State TV.
+- 09/11 04:22 [financialjuice] Friday FX Options Expiries
