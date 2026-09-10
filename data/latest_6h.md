@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 17:05 JST／対象: 09/10 11:05 〜 09/10 17:05 JST（時刻はすべて日本時間）
+生成: 2026-09-10 17:28 JST／対象: 09/10 11:28 〜 09/10 17:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/10 16:41 | 09/10 17:02 | 11分（16:51→17:02） |
-| FirstSquawk | 116 | 09/10 11:07 | 09/10 17:02 | 14分（14:01→14:15） |
-| financialjuice | 34 | 09/10 11:11 | 09/10 17:04 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 4 | 09/10 16:41 | 09/10 17:27 | 24分（17:02→17:27） |
+| FirstSquawk | 115 | 09/10 11:29 | 09/10 17:25 | 14分（14:01→14:15） |
+| financialjuice | 33 | 09/10 12:06 | 09/10 17:04 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 153 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 152 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 11:07 [FirstSquawk] UBS to end fund sales activities at its China distribution unit in Shenzhen from the end of September.
-- 09/10 11:08 [FirstSquawk] UBS says there is no change to operations at its other wealth management platforms in China.
-- 09/10 11:08 [FirstSquawk] UBS says it will combine its wealth management businesses and resources in the Chinese market.
-- 09/10 11:08 [FirstSquawk] UBS says the Greater Bay Area continues to be one of its main growth markets in China.
-- 09/10 11:09 [FirstSquawk] UBS is exploring opportunities to deepen its wealth management operations in China’s Greater Bay Area.
-- 09/10 11:11 [financialjuice] Trump: if Republicans secure house and senate, I'll issue $5,000 payout to every U.S. adult
-- 09/10 11:11 [FirstSquawk] Trump pledges a $5,000 payment to every U.S. adult if Republicans win the House and Senate.
-- 09/10 11:17 [FirstSquawk] Mastercard launches Wallet Pay to support the global expansion of digital wallet transactions.
-- 09/10 11:21 [FirstSquawk] U.S. regulators grant accelerated approval to Bayer’s sevabertinib as a first-line targeted therapy for HER2-mutated NSCLC.
 - 09/10 11:29 [FirstSquawk] South Korea’s stock market starts lower as higher oil prices and escalating geopolitical tensions pressure risk sentiment.
 - 09/10 11:35 [FirstSquawk] Trump unveils a proposed $5,000 “Trump dividend” for U.S. adults, conditional on a Republican victory in the House and Senate As Per FT
 - 09/10 11:41 [FirstSquawk] South Korea’s economic recovery is becoming increasingly evident, the finance minister says.
@@ -177,3 +168,11 @@
 - 09/10 17:02 [FirstSquawk] ITALY INDUSTRIAL PRODUCTION (M/M) JUL: 0.7% (EST 0.3%; PREV -1.0%)
 - 09/10 17:02 [DeItaone] HUAWEI HIKES AI CHIP PRICES 60% Huawei has reportedly raised the price of its Ascend 950DT AI accelerator by about 60% to $37,300, as booming demand outstrips supply. HBM shortages are adding to costs, while demand for Chinese alternatives …
 - 09/10 17:04 [financialjuice] Anthropic grants EU access to Mythos months after release.
+- 09/10 17:06 [FirstSquawk] AUGUST WAS ONE OF THE HOTTEST MONTHS EVER RECORDED WORLDWIDE, ACCORDING TO EU DATA.
+- 09/10 17:07 [FirstSquawk] ANTHROPIC GRANTS EU ACCESS TO MYTHOS, SEVERAL MONTHS AFTER ITS LAUNCH.
+- 09/10 17:08 [FirstSquawk] BARCLAYS WARNED THAT THE YEN COULD FALL BACK TO THE UPPER 150s PER DOLLAR IF EXPECTATIONS FOR QUICKER BANK OF JAPAN RATE INCREASES AND A MOVE BY PENSION FUNDS TOWARD LOCAL ASSETS DON'T HAPPEN.
+- 09/10 17:12 [FirstSquawk] EU OFFICIAL URGES TECH GIANTS TO INVEST IN CLEAN ENERGY TO SUPPORT DATA CENTER POWER DEMAND AND GREEN TRANSITION.
+- 09/10 17:13 [FirstSquawk] CHINA COMMERCE MINISTRY: EXTENDS PROBE INTO PECAN IMPORTS FROM MEXICO, U.S. - STATEMENT
+- 09/10 17:19 [FirstSquawk] UBS PULLS PLUG ON FUND SALES ON A WEALTH PLATFORM IN CHINA AMID STIFF COMPETITION – SCMP
+- 09/10 17:25 [FirstSquawk] SPOKESPERSON FOR IRAQI ARMED FORCES STATES THAT SEPTEMBER 30 IS THE LAST DATE FOR THE INTERNATIONAL COALITION'S OPERATIONS IN IRAQ.
+- 09/10 17:27 [DeItaone] PUTIN AIDE: EUROPE DOES NOT WANT UKRAINE PEACE Putin aide Nikolay Patrushev claimed Western Europe is not interested in peace in Ukraine or encouraging Kyiv to negotiate. He said the U.S. appears more interested in negotiations, expressing …

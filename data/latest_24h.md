@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 17:05 JST／対象: 09/09 17:05 〜 09/10 17:05 JST（時刻はすべて日本時間）
+生成: 2026-09-10 17:28 JST／対象: 09/09 17:28 〜 09/10 17:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 57 | 09/09 18:32 | 09/10 17:02 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 361 | 09/09 17:07 | 09/10 17:02 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 240 | 09/09 17:26 | 09/10 17:04 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 58 | 09/09 18:32 | 09/10 17:27 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 364 | 09/09 17:28 | 09/10 17:25 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 239 | 09/09 17:45 | 09/10 17:04 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 647 行（統合前 660 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 650 行（統合前 663 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 17:07 [FirstSquawk] LUFTHANSA GROUP AIRLINES WILL GRADUALLY RESUME FLIGHT CONNECTIONS TO DUBAI STARTING IN LATE OCTOBER 2026
-- 09/09 17:15 [FirstSquawk] INDITEX'S SALES INCREASED FASTER AT THE BEGINNING OF Q3, SHOWING THAT THE ZARA PARENT COMPANY IS STILL ATTRACTING CUSTOMERS DESPITE RISING LIVING EXPENSES AFFECTING SPENDING.
-- 09/09 17:20 [FirstSquawk] US STOCKS MOVE WITH LITTLE CHANGE AS BRENT CRUDE PRICES HIT $100, RAISING INFLATION CONCERNS.
-- 09/09 17:22 [FirstSquawk] PBOC, CSRC, AND BANK REGULATOR OFFICIALS WILL DISCUSS FINANCIAL POWERHOUSE PLANS IN A THURSDAY BRIEFING.
-- 09/09 17:26 [financialjuice] Zankore builds 100MW NVIDIA AI infrastructure in Indonesia.
 - 09/09 17:28 [FirstSquawk] U.S. HAS IMPOSED AN IMPORT BAN ON MANY CANADIAN PRODUCTS AS TENSIONS IN TRADE INCREASE.
 - 09/09 17:30 [FirstSquawk] GERMAN FOREIGN MINISTER WADEPHUL STATED THAT GERMANY GIVES SIGNIFICANT MILITARY AID BUT EXPECTS PURCHASING FROM GERMAN DEFENSE FIRMS TO BENEFIT ITS INDUSTRY AND ECONOMY.
 - 09/09 17:35 [FirstSquawk] ELECTION BETTING BOOM: WILL PREDICTION MARKETS SHAPE AMERICA’S 2026 MIDTERMS? Prediction markets are surging ahead of the 2026 U.S. elections, with platforms such as Kalshi and Polymarket attracting growing volumes of political trading. Sup…
@@ -671,3 +666,11 @@
 - 09/10 17:02 [FirstSquawk] ITALY INDUSTRIAL PRODUCTION (M/M) JUL: 0.7% (EST 0.3%; PREV -1.0%)
 - 09/10 17:02 [DeItaone] HUAWEI HIKES AI CHIP PRICES 60% Huawei has reportedly raised the price of its Ascend 950DT AI accelerator by about 60% to $37,300, as booming demand outstrips supply. HBM shortages are adding to costs, while demand for Chinese alternatives …
 - 09/10 17:04 [financialjuice] Anthropic grants EU access to Mythos months after release.
+- 09/10 17:06 [FirstSquawk] AUGUST WAS ONE OF THE HOTTEST MONTHS EVER RECORDED WORLDWIDE, ACCORDING TO EU DATA.
+- 09/10 17:07 [FirstSquawk] ANTHROPIC GRANTS EU ACCESS TO MYTHOS, SEVERAL MONTHS AFTER ITS LAUNCH.
+- 09/10 17:08 [FirstSquawk] BARCLAYS WARNED THAT THE YEN COULD FALL BACK TO THE UPPER 150s PER DOLLAR IF EXPECTATIONS FOR QUICKER BANK OF JAPAN RATE INCREASES AND A MOVE BY PENSION FUNDS TOWARD LOCAL ASSETS DON'T HAPPEN.
+- 09/10 17:12 [FirstSquawk] EU OFFICIAL URGES TECH GIANTS TO INVEST IN CLEAN ENERGY TO SUPPORT DATA CENTER POWER DEMAND AND GREEN TRANSITION.
+- 09/10 17:13 [FirstSquawk] CHINA COMMERCE MINISTRY: EXTENDS PROBE INTO PECAN IMPORTS FROM MEXICO, U.S. - STATEMENT
+- 09/10 17:19 [FirstSquawk] UBS PULLS PLUG ON FUND SALES ON A WEALTH PLATFORM IN CHINA AMID STIFF COMPETITION – SCMP
+- 09/10 17:25 [FirstSquawk] SPOKESPERSON FOR IRAQI ARMED FORCES STATES THAT SEPTEMBER 30 IS THE LAST DATE FOR THE INTERNATIONAL COALITION'S OPERATIONS IN IRAQ.
+- 09/10 17:27 [DeItaone] PUTIN AIDE: EUROPE DOES NOT WANT UKRAINE PEACE Putin aide Nikolay Patrushev claimed Western Europe is not interested in peace in Ukraine or encouraging Kyiv to negotiate. He said the U.S. appears more interested in negotiations, expressing …
