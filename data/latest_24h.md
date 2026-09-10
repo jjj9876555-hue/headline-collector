@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 18:35 JST／対象: 09/09 18:35 〜 09/10 18:35 JST（時刻はすべて日本時間）
+生成: 2026-09-10 18:52 JST／対象: 09/09 18:52 〜 09/10 18:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 62 | 09/09 18:47 | 09/10 18:21 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 364 | 09/09 18:36 | 09/10 18:31 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 238 | 09/09 19:03 | 09/10 18:27 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 61 | 09/09 19:00 | 09/10 18:50 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 363 | 09/09 18:53 | 09/10 18:38 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 239 | 09/09 19:03 | 09/10 18:42 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 653 行（統合前 666 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 652 行（統合前 665 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 18:36 [FirstSquawk] BRITISH AIRWAYS: CANCELLED MORE THAN 190 FLIGHTS OF WEDNESDAY'S ORIGINAL PLANNED SCHEDULE
-- 09/09 18:47 [DeItaone] CHINA HITS BACK AT US OVER AI CLAIMS China rejected US claims that six Chinese AI companies systematically used American models to develop their technology. US agencies accused DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun and https://t.…
-- 09/09 18:47 [FirstSquawk] CSU LEADER MARKUS SÖDER STATES THAT EVERY CRIME AND KNIFE ATTACK IS EXAGGERATED ONLINE, MAKING IT SEEM LIKE THE COUNTRY IS CHAOTIC. HE ASSERTS THAT BAVARIA IS IN ITS SAFEST CONDITION SINCE 1978.
-- 09/09 18:50 [DeItaone] TRUMP’S WEDNESDAY CALENDAR 11:00 AM — Intelligence briefing, White House Afternoon — Travels to Dallas, Texas 6:00 PM — MAGA Inc. meeting 8:15 PM — Remarks at Republican National Committee Midterm Convention, American Airlines Center
 - 09/09 18:53 [FirstSquawk] US 2-YEAR YIELD INCREASES 2 BASIS POINTS TO 4.42%, THE HIGHEST LEVEL SINCE JANUARY 2025.
 - 09/09 19:00 [DeItaone] US 2-YEAR YIELD RISES 2BPS TO 4.42%, HIGHEST SINCE JANUARY 2025
 - 09/09 19:02 [DeItaone/financialjuice] US CENTCOM: IRGC CLAIM OF STRIKES ON TWO U.S. NAVY DESTROYERS OPERATING IN THE MIDDLE EAST IS FALSE, ALL IRGC ATTEMPTED ATTACKS FAILED
@@ -677,3 +673,6 @@
 - 09/10 18:27 [financialjuice] Japan cabinet to approve tax reform outline on September 15 - Kyodo
 - 09/10 18:28 [FirstSquawk] EU PLAN AIMS TO REDUCE RUSSIA MEDICAL RADIOISOTOPE DEPENDENCY
 - 09/10 18:31 [FirstSquawk] JAPAN'S CABINET WILL DECIDE ON TAX REFORM DETAILS ON SEPTEMBER 15TH, ACCORDING TO KYODO.
+- 09/10 18:38 [FirstSquawk] Europe Gas Prices Reach Highest Level Since Dec. 2022
+- 09/10 18:42 [financialjuice] UK Government: Houthis bear full responsibility for Yemen crisis.
+- 09/10 18:50 [DeItaone] TRUMP PLEDGES $5,000 DIVIDEND IF GOP WINS MIDTERMS President Donald Trump pledged a $5,000 payment to every U.S. adult citizen if Republicans retain control of both chambers of Congress, a plan estimated to cost around $1.2 trillion. Trump …

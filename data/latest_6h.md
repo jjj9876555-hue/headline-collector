@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 18:35 JST／対象: 09/10 12:35 〜 09/10 18:35 JST（時刻はすべて日本時間）
+生成: 2026-09-10 18:52 JST／対象: 09/10 12:52 〜 09/10 18:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/10 16:41 | 09/10 18:21 | 35分（17:30→18:05） |
-| FirstSquawk | 118 | 09/10 12:35 | 09/10 18:31 | 14分（14:01→14:15） |
-| financialjuice | 36 | 09/10 13:00 | 09/10 18:27 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 10 | 09/10 16:41 | 09/10 18:50 | 35分（17:30→18:05） |
+| FirstSquawk | 115 | 09/10 12:58 | 09/10 18:38 | 14分（14:01→14:15） |
+| financialjuice | 37 | 09/10 13:00 | 09/10 18:42 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 163 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 12:35 [FirstSquawk] China’s electric vehicle penetration hit 65% by July, Sinopec researcher says.
-- 09/10 12:36 [FirstSquawk] Manipur plans to finish fencing its stretch of the India-Myanmar border within two years, reviving India’s broader border-fencing plan.
-- 09/10 12:42 [FirstSquawk] China could see EV penetration reach 75%-80% by 2030, Sinopec researcher says.
-- 09/10 12:50 [FirstSquawk] Oceans set heat records for 100 straight days, prompting scientists to warn that the climate outlook is “not pretty.”
 - 09/10 12:58 [FirstSquawk] Gold prices remain above $4,400 as markets await fresh U.S. inflation data.
 - 09/10 13:00 [financialjuice] Saudi civil defence issues emergency warning for province of Khamis Mushait - post on X
 - 09/10 13:02 [financialjuice] IMF dropped leading candidate for chief economist role over Trump tariff comments: FT
@@ -187,3 +183,6 @@
 - 09/10 18:27 [financialjuice] Japan cabinet to approve tax reform outline on September 15 - Kyodo
 - 09/10 18:28 [FirstSquawk] EU PLAN AIMS TO REDUCE RUSSIA MEDICAL RADIOISOTOPE DEPENDENCY
 - 09/10 18:31 [FirstSquawk] JAPAN'S CABINET WILL DECIDE ON TAX REFORM DETAILS ON SEPTEMBER 15TH, ACCORDING TO KYODO.
+- 09/10 18:38 [FirstSquawk] Europe Gas Prices Reach Highest Level Since Dec. 2022
+- 09/10 18:42 [financialjuice] UK Government: Houthis bear full responsibility for Yemen crisis.
+- 09/10 18:50 [DeItaone] TRUMP PLEDGES $5,000 DIVIDEND IF GOP WINS MIDTERMS President Donald Trump pledged a $5,000 payment to every U.S. adult citizen if Republicans retain control of both chambers of Congress, a plan estimated to cost around $1.2 trillion. Trump …
