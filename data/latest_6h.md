@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 12:45 JST／対象: 09/10 06:45 〜 09/10 12:45 JST（時刻はすべて日本時間）
+生成: 2026-09-10 12:59 JST／対象: 09/10 06:59 〜 09/10 12:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 89 | 09/10 07:34 | 09/10 12:42 | ⚠ 49分（08:15→09:05） |
+| FirstSquawk | 91 | 09/10 07:34 | 09/10 12:58 | ⚠ 49分（08:15→09:05） |
 | financialjuice | 51 | 09/10 07:00 | 09/10 12:26 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 140 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 142 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -164,3 +164,5 @@
 - 09/10 12:35 [FirstSquawk] China’s electric vehicle penetration hit 65% by July, Sinopec researcher says.
 - 09/10 12:36 [FirstSquawk] Manipur plans to finish fencing its stretch of the India-Myanmar border within two years, reviving India’s broader border-fencing plan.
 - 09/10 12:42 [FirstSquawk] China could see EV penetration reach 75%-80% by 2030, Sinopec researcher says.
+- 09/10 12:50 [FirstSquawk] Oceans set heat records for 100 straight days, prompting scientists to warn that the climate outlook is “not pretty.”
+- 09/10 12:58 [FirstSquawk] Gold prices remain above $4,400 as markets await fresh U.S. inflation data.
