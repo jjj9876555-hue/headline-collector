@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 07:16 JST／対象: 09/10 07:16 〜 09/11 07:16 JST（時刻はすべて日本時間）
+生成: 2026-09-11 07:32 JST／対象: 09/10 07:32 〜 09/11 07:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 09/10 16:41 | 09/11 06:36 | ⚠ 175分（03:41→06:36） |
+| DeItaone | 54 | 09/10 16:41 | 09/11 07:31 | ⚠ 175分（03:41→06:36） |
 | FirstSquawk | 391 | 09/10 07:34 | 09/11 06:26 | ⚠ 49分（08:15→09:05） |
-| financialjuice | 323 | 09/10 08:00 | 09/11 07:11 | ⚠ 119分（15:00→17:00） |
+| financialjuice | 325 | 09/10 08:00 | 09/11 07:30 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 745 行（統合前 774 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 748 行（統合前 777 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -769,3 +769,6 @@
 - 09/11 06:41 [financialjuice] Pentagon in talks to provide about $5 billion loan to Al cloud-computing startup FluidStack to strengthen US data-center supply chain - WSJ
 - 09/11 07:10 [financialjuice] Transwarp Technology Shanghai Co plans global offering of 14 million H shares
 - 09/11 07:11 [financialjuice] Transwarp Technology (Shanghai) Co international offer shares under global offering total 13.3 million H shares
+- 09/11 07:30 [financialjuice] NEW ZEALAND MANUFACTURING PMI ACTUAL 53.1 (FORECAST -, PREVIOUS 54.3) $MACRO
+- 09/11 07:30 [financialjuice] New Zealand August s/adj PMI at 53.1: Business NZ/Bank NZ survey
+- 09/11 07:31 [DeItaone] BESSENT DISMISSES TREASURY MARKET CONCERNS Treasury Secretary Scott Bessent says the bond market remains in “very good shape” despite 10-year yields reaching their highest since 2023. He also downplayed Thursday’s smaller-than-expected buyb…

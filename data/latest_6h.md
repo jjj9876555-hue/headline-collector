@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 07:16 JST／対象: 09/11 01:16 〜 09/11 07:16 JST（時刻はすべて日本時間）
+生成: 2026-09-11 07:32 JST／対象: 09/11 01:32 〜 09/11 07:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/11 01:33 | 09/11 06:36 | ⚠ 175分（03:41→06:36） |
+| DeItaone | 15 | 09/11 01:33 | 09/11 07:31 | ⚠ 175分（03:41→06:36） |
 | FirstSquawk | 72 | 09/11 01:36 | 09/11 06:26 | ⚠ 48分（05:38→06:26） |
-| financialjuice | 58 | 09/11 01:25 | 09/11 07:11 | 39分（05:24→06:04） |
+| financialjuice | 59 | 09/11 01:35 | 09/11 07:30 | 39分（05:24→06:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 138 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 140 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 01:25 [financialjuice] Nvidia's CEO Huang: Investments are not circular. $NVDA
 - 09/11 01:33 [DeItaone] PENTAGON REJECTS AI “DOOMSDAY” WARNINGS Pentagon tech chief Emil Michael pushed back on warnings that AI could destroy humanity, calling fears of mass job losses and runaway AI part of a growing “doom loop.” Meanwhile, the Pentagon has alre…
 - 09/11 01:35 [financialjuice] ❗ Iran has resumed producing ballistic missiles - US and Middle East Officials cited by the WSJ
 - 09/11 01:35 [financialjuice] Iran producing ballistic missiles again - WSJ.
@@ -162,3 +161,6 @@
 - 09/11 06:41 [financialjuice] Pentagon in talks to provide about $5 billion loan to Al cloud-computing startup FluidStack to strengthen US data-center supply chain - WSJ
 - 09/11 07:10 [financialjuice] Transwarp Technology Shanghai Co plans global offering of 14 million H shares
 - 09/11 07:11 [financialjuice] Transwarp Technology (Shanghai) Co international offer shares under global offering total 13.3 million H shares
+- 09/11 07:30 [financialjuice] NEW ZEALAND MANUFACTURING PMI ACTUAL 53.1 (FORECAST -, PREVIOUS 54.3) $MACRO
+- 09/11 07:30 [financialjuice] New Zealand August s/adj PMI at 53.1: Business NZ/Bank NZ survey
+- 09/11 07:31 [DeItaone] BESSENT DISMISSES TREASURY MARKET CONCERNS Treasury Secretary Scott Bessent says the bond market remains in “very good shape” despite 10-year yields reaching their highest since 2023. He also downplayed Thursday’s smaller-than-expected buyb…

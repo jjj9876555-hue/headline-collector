@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 07:16 JST／対象: 09/10 19:16 〜 09/11 07:16 JST（時刻はすべて日本時間）
+生成: 2026-09-11 07:32 JST／対象: 09/10 19:32 〜 09/11 07:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 09/10 19:30 | 09/11 06:36 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 183 | 09/10 19:29 | 09/11 06:26 | ⚠ 48分（05:38→06:26） |
-| financialjuice | 239 | 09/10 19:28 | 09/11 07:11 | 39分（05:24→06:04） |
+| DeItaone | 42 | 09/10 19:33 | 09/11 07:31 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 182 | 09/10 19:34 | 09/11 06:26 | ⚠ 48分（05:38→06:26） |
+| financialjuice | 240 | 09/10 19:45 | 09/11 07:30 | 39分（05:24→06:04） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 442 行（統合前 470 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 19:28 [financialjuice] White House yet to decide on refined copper tariffs.
-- 09/10 19:29 [FirstSquawk] NASDAQ HAS INVESTED IN PAYWARD, THE PARENT COMPANY OF KRAKEN, VALUING IT AT $21 BILLION.
-- 09/10 19:30 [DeItaone] TRUMP SEES IRAN WAR ENDING AFTER MIDTERMS President Donald Trump said he expects the Iran war to end after November’s U.S. midterm elections, while again threatening strikes on Iran’s Pickaxe Mountain nuclear site. Meanwhile, Iran and the U…
 - 09/10 19:33 [DeItaone] WHITE HOUSE HESITATES ON COPPER TARIFFS The White House has not yet decided on refined copper tariffs, as officials weigh boosting U.S. production against higher manufacturing costs ahead of the midterms. Copper prices have already hit reco…
 - 09/10 19:34 [FirstSquawk] LME COPPER DROPS 2% AFTER RTRS REPORT ON TARIFF COST CONCERNS
 - 09/10 19:42 [FirstSquawk] USD/JPY EXTENDS GAINS, RISES 0.3% TO DAY HIGH AT 154.08
@@ -466,3 +463,6 @@
 - 09/11 06:41 [financialjuice] Pentagon in talks to provide about $5 billion loan to Al cloud-computing startup FluidStack to strengthen US data-center supply chain - WSJ
 - 09/11 07:10 [financialjuice] Transwarp Technology Shanghai Co plans global offering of 14 million H shares
 - 09/11 07:11 [financialjuice] Transwarp Technology (Shanghai) Co international offer shares under global offering total 13.3 million H shares
+- 09/11 07:30 [financialjuice] NEW ZEALAND MANUFACTURING PMI ACTUAL 53.1 (FORECAST -, PREVIOUS 54.3) $MACRO
+- 09/11 07:30 [financialjuice] New Zealand August s/adj PMI at 53.1: Business NZ/Bank NZ survey
+- 09/11 07:31 [DeItaone] BESSENT DISMISSES TREASURY MARKET CONCERNS Treasury Secretary Scott Bessent says the bond market remains in “very good shape” despite 10-year yields reaching their highest since 2023. He also downplayed Thursday’s smaller-than-expected buyb…
