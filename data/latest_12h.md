@@ -7,48 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 02:58 JST／対象: 09/10 14:58 〜 09/11 02:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 03:19 JST／対象: 09/10 15:19 〜 09/11 03:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 49 | 09/10 16:41 | 09/11 02:44 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 207 | 09/10 15:03 | 09/11 02:54 | 26分（00:31→00:58） |
-| financialjuice | 211 | 09/10 15:00 | 09/11 02:42 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 50 | 09/10 16:41 | 09/11 03:05 | ⚠ 108分（23:45→01:33） |
+| FirstSquawk | 193 | 09/10 15:21 | 09/11 03:04 | 26分（00:31→00:58） |
+| financialjuice | 214 | 09/10 17:00 | 09/11 03:17 | ⚠ 48分（17:04→17:53） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 451 行（統合前 472 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 439 行（統合前 462 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 15:00 [financialjuice] GERMAN CPI FINAL MOM ACTUAL 0.2% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
-- 09/10 15:00 [financialjuice] ❗ GERMAN CPI FINAL YOY ACTUAL 2.9% (FORECAST 2.9%, PREVIOUS 2.9%) $MACRO
-- 09/10 15:00 [financialjuice] GERMAN HICP FINAL MOM ACTUAL 0.2% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
-- 09/10 15:00 [financialjuice] ❗ GERMAN HICP FINAL YOY ACTUAL 2.9% (FORECAST 2.9%, PREVIOUS 2.9%) $MACRO
-- 09/10 15:00 [financialjuice] NORWEGIAN CPI MOM ACTUAL -0.3% (FORECAST -, PREVIOUS 1.0%) $MACRO
-- 09/10 15:00 [financialjuice] NORWEGIAN CPI YOY ACTUAL 3.3% (FORECAST 3.2%, PREVIOUS 3.0%) $MACRO
-- 09/10 15:03 [FirstSquawk] NORWAY (AUG) CPI UNDERLYING MOM ACTUAL: -0.5% VS 0.8% PREVIOUS;EST -0.4%
-- 09/10 15:03 [FirstSquawk] NORWAY (AUG) CPI UNDERLYING YOY ACTUAL: 3% VS 2.7% PREVIOUS;EST 3.0%
-- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) GDP INDICATOR SA MOM ACTUAL: -0.8% VS -0.2% PREVIOUS;EST -0.1%
-- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) GDP INDICATOR WDA YOY ACTUAL: 2.5% VS 2.4% PREVIOUS
-- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) PRIVATE SECTOR PRODUCTION MOM ACTUAL: 0.0% VS 0.4% PREVIOUS
-- 09/10 15:03 [FirstSquawk] GERMANY (AUG) CPI MOM ACTUAL: 0.2% VS 0.2% PREVIOUS;EST 0.2%
-- 09/10 15:03 [FirstSquawk] GERMANY (AUG) CPI YOY ACTUAL: 2.9% VS 2.9% PREVIOUS;EST 2.9%
-- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) PRIVATE SECTOR PRODUCTION YOY ACTUAL: 3.6% VS 1.8% PREVIOUS
-- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) Industry Production Value YoY ACTUAL: 0.2% VS -1.5% PREVIOUS
-- 09/10 15:03 [FirstSquawk] GERMANY (AUG) CPI EU Harmonized MoM ACTUAL: 0.2% VS 0.2% PREVIOUS;EST 0.2%
-- 09/10 15:03 [FirstSquawk] SWEDEN (JUL) Service Production Value YoY ACTUAL: 5% VS 3% PREVIOUS
-- 09/10 15:03 [FirstSquawk] GERMANY (AUG) CPI EU Harmonized YoY ACTUAL: 2.9% VS 2.9% PREVIOUS;EST 2.9%
-- 09/10 15:04 [FirstSquawk] SWEDEN (JUL) Industrial Orders MoM ACTUAL: -24.1% VS 32.3% PREVIOUS
-- 09/10 15:04 [FirstSquawk] SWEDEN (JUL) Industrial Orders NSA YOY ACTUAL: -24.1% VS 29.9% PREVIOUS
-- 09/10 15:04 [FirstSquawk] NORWAY (AUG) CPI YOY ACTUAL: -0.3% VS 3% PREVIOUS;EST 3.2%
-- 09/10 15:04 [FirstSquawk] NORWAY (AUG) CPI MOM ACTUAL: -0.5% VS 1% PREVIOUS
-- 09/10 15:05 [FirstSquawk] Iran has acquired billions of dollars in Chinese goods through a barter-style arrangement, according to Reuters sources.
-- 09/10 15:09 [FirstSquawk] DeepSeek officially rolls out V4.1 Flash, its latest AI model, the company says.
-- 09/10 15:10 [FirstSquawk] TotalEnergies makes a new Block 17 discovery in Angola and secures fresh exploration licences for Blocks 17 and 32.
 - 09/10 15:21 [FirstSquawk] TotalEnergies expands its Angola exploration footprint following a new discovery on Block 17.
 - 09/10 15:23 [FirstSquawk] ASX 200 drops 1.03% to 8,819.40 at the close.
 - 09/10 15:32 [FirstSquawk] Volvo Group launches plans for an Energy Park as it expands its operations in Mariestad.
@@ -475,3 +450,16 @@
 - 09/11 02:44 [DeItaone] OPENAI LAUNCHES CHATGPT FOR WALL STREET OpenAI is launching ChatGPT for Financial Services, targeting investment bankers and equity researchers with integrated data from LSEG, PitchBook and Daloopa. Powered initially by GPT-6 Astra, the pla…
 - 09/11 02:44 [FirstSquawk] OPENAI IS INTRODUCING CHATGPT FOR FINANCIAL SERVICES, EMBEDDING GPT-6 ASTRA IN THE FINANCIAL SERVICES PRODUCT
 - 09/11 02:54 [FirstSquawk] IRAN'S TOP SECURITY OFFICIAL REZAEI SAYS ON THE IAEA BOARD OF GOVERNORS DECISION THAT THE IAEA'S 'POLITICAL' MOVES WILL PUSH COUNTRIES TO EXIT THE NPT
+- 09/11 03:00 [financialjuice] Ukraine’s President Zelenskiy: Plan to meet the US team at the end of September in New York.
+- 09/11 03:02 [FirstSquawk] MACQUARIE GROUP SAYS A MACQUARIE ASSET MANAGEMENT-LED CONSORTIUM WILL ACQUIRE SI SOLUTIONS FROM MIDOCEAN PARTNERS, WITH THE TRANSACTION EXPECTED TO CLOSE IN FALL 2026
+- 09/11 03:02 [FirstSquawk] UKRAINE'S ZELENSKIY SAYS THERE WILL BE NO TRILATERAL TALKS BEFORE ELECTIONS IN RUSSIA, ADDING THAT HE HOPES FOR PROGRESS ON ENERGY AND GRAIN TALKS AFTER MEETING WITH TRUMP AT THE END OF SEPTEMBER
+- 09/11 03:03 [financialjuice/FirstSquawk] Netanyahu on Iran and Hezbollah: There will be more to come - Israel's Hayom News
+- 09/11 03:03 [financialjuice/FirstSquawk] Algeria closes airspace to flights from UAE - Tasnim News.
+- 09/11 03:04 [FirstSquawk] U.S. OFFICIALS ARE TO DECLARE THE END OF THE CYCLOSPORIASIS OUTBREAK - WAPO
+- 09/11 03:05 [DeItaone] MUNI YIELDS SURGE TO HIGHEST SINCE APRIL 2025 U.S. 10-year municipal bond yields jumped to 3.62%, the highest since April 2025, tracking the Treasury selloff. JPMorgan says rising Treasury yields, heavy muni issuance and weak reinvestment d…
+- 09/11 03:05 [financialjuice] Treasury debt buyback targets coupons maturing in 2037-2046
+- 09/11 03:05 [financialjuice] Treasury receives $10.489 bln of offers for buyback, accepts $5.19 bln
+- 09/11 03:05 [financialjuice] Treasury accepts 23 of 40 eligible issues in debt buyback.
+- 09/11 03:06 [financialjuice] Canada's PM Carney: I spoke to Trump in recent days.
+- 09/11 03:07 [financialjuice] Iran's President Pezeshkian will travel to New Delhi tomorrow to participate in the 18th BRICS Summit - Fars News
+- 09/11 03:17 [financialjuice] Israel's Prime Minister Netanyahu: IDF destroys Hezbollah facilities at Ali Taher ridge.

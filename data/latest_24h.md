@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 02:58 JST／対象: 09/10 02:58 〜 09/11 02:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 03:19 JST／対象: 09/10 03:19 〜 09/11 03:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 66 | 09/10 03:00 | 09/11 02:44 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 380 | 09/10 03:00 | 09/11 02:54 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 332 | 09/10 03:03 | 09/11 02:42 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 62 | 09/10 03:29 | 09/11 03:05 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 377 | 09/10 03:22 | 09/11 03:04 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 337 | 09/10 03:21 | 09/11 03:17 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 757 行（統合前 784 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 754 行（統合前 782 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 03:00 [FirstSquawk] APPLE SAYS THE IPHONE DUO OPENS TO A 7.6-INCH SUPER RETINA XDR DISPLAY THAT IS 50% LARGER THAN THE IPHONE 18 PRO MAX - EVENT
-- 09/10 03:00 [DeItaone] APPLE INC.: SAYS IPHONE DUO WHEN OPEN IS THINNEST IPHONE EVER- EVENT
-- 09/10 03:00 [DeItaone] APPLE: IPHONE DUO OPENS TO A 7.6-INCH SUPER RETINA XDR DISPLAY THAT IS 50% LARGER THAN IPHONE 18 PRO MAX - EVENT
-- 09/10 03:01 [DeItaone] APPLE INC.: APPLE IPHONE DUO OUTER DISPLAY WILL BE 5.4 INCHES - EVENT
-- 09/10 03:03 [financialjuice] US Treasury Debt Buyback
-- 09/10 03:04 [financialjuice] US Treasury Debt Buyback Treasury receives $28.027B in buyback offers, accepts $12.5B. Treasury accepts 27 of 45 eligible issues in the debt buyback. Treasury debt buyback targets coupons maturing in 2026–2028.
-- 09/10 03:05 [DeItaone] APPLE SAYS IPHONE DUO CAN BE USED PARTIALLY FOLDED - EVENT
-- 09/10 03:06 [FirstSquawk] U.S. TREASURY'S DEBT BUYBACK TARGETED COUPONS MATURING IN 2026-2028, RECEIVING $28.027 BLN IN BUYBACK OFFERS AND ACCEPTING $12.5 BLN, TAKING 27 OF 45 ELIGIBLE ISSUES
-- 09/10 03:07 [financialjuice/FirstSquawk] Saudi-led coalition in Yemen: Houthis attacked on Wednesday Saudi cities of Khamis Mushait, Abha, and Jazan with ballistic missiles and drones.
-- 09/10 03:07 [FirstSquawk] CIA DIRECTOR JOHN RATCLIFFE IS PREPARING TO TAKE A LARGER ROLE IN U.S. EFFORTS TO END THE RUSSIA-UKRAINE WAR, POTENTIALLY REPLACING OR REDUCING THE ROLE OF SPECIAL ENVOY STEVE WITKOFF AND JARED KUSHNER, WITH U.S. OFFICIALS TELLING EUROPEAN …
-- 09/10 03:08 [DeItaone] TRUMP PROPOSES MAJOR OVERHAUL OF U.S. CENSUS The Trump administration proposed limiting the 2030 census to U.S. citizens and permanent residents, excluding undocumented and temporary lawful immigrants. The proposal would also remove race an…
-- 09/10 03:09 [FirstSquawk] APPLE SAYS THE IPHONE DUO'S OUTER DISPLAY WILL BE 5.4 INCHES AND THAT THE DEVICE WILL SUPPORT MULTIPLE APPS AT ONCE IN SEPARATE WINDOWS FOR PRODUCTIVITY, CAN BE USED PARTIALLY FOLDED, AND WILL BE POWERED BY A NEW DISPLAY ENGINE ON THE A20 P…
-- 09/10 03:11 [FirstSquawk] APPLE SAYS THE IPHONE DUO IS ESIM ONLY WORLDWIDE, AND THAT ITS C2 MODEM CHIP WILL HAVE 5G MILLIMETER WAVE SUPPORT IN THE UNITED STATES - EVENT
-- 09/10 03:16 [financialjuice] Apple's iPhone Duo starts at $1999 for 256 gigabytes. $AAPL
-- 09/10 03:17 [FirstSquawk] APPLE'S IPHONE DUO STARTS AT $1,999, WITH STORAGE RANGING FROM 256GB TO 2TB
-- 09/10 03:18 [FirstSquawk] IPHONE DUO'S PRE-ORDERS BEGIN 16 OCTOBER, WITH THE DEVICE AVAILABLE FROM 23 OCTOBER
 - 09/10 03:21 [financialjuice] Apple prices the 2-terabyte version of the iPhone Duo at $3,199. $AAPL
 - 09/10 03:22 [FirstSquawk] APPLE HAS PRICED THE 2-TERABYTE VERSION OF THE IPHONE DUO AT $3,199
 - 09/10 03:27 [financialjuice] LIVE: President Donald Trump Heads to Dallas for Historic Republican Midterm Convention | AC15
@@ -781,3 +765,16 @@
 - 09/11 02:44 [DeItaone] OPENAI LAUNCHES CHATGPT FOR WALL STREET OpenAI is launching ChatGPT for Financial Services, targeting investment bankers and equity researchers with integrated data from LSEG, PitchBook and Daloopa. Powered initially by GPT-6 Astra, the pla…
 - 09/11 02:44 [FirstSquawk] OPENAI IS INTRODUCING CHATGPT FOR FINANCIAL SERVICES, EMBEDDING GPT-6 ASTRA IN THE FINANCIAL SERVICES PRODUCT
 - 09/11 02:54 [FirstSquawk] IRAN'S TOP SECURITY OFFICIAL REZAEI SAYS ON THE IAEA BOARD OF GOVERNORS DECISION THAT THE IAEA'S 'POLITICAL' MOVES WILL PUSH COUNTRIES TO EXIT THE NPT
+- 09/11 03:00 [financialjuice] Ukraine’s President Zelenskiy: Plan to meet the US team at the end of September in New York.
+- 09/11 03:02 [FirstSquawk] MACQUARIE GROUP SAYS A MACQUARIE ASSET MANAGEMENT-LED CONSORTIUM WILL ACQUIRE SI SOLUTIONS FROM MIDOCEAN PARTNERS, WITH THE TRANSACTION EXPECTED TO CLOSE IN FALL 2026
+- 09/11 03:02 [FirstSquawk] UKRAINE'S ZELENSKIY SAYS THERE WILL BE NO TRILATERAL TALKS BEFORE ELECTIONS IN RUSSIA, ADDING THAT HE HOPES FOR PROGRESS ON ENERGY AND GRAIN TALKS AFTER MEETING WITH TRUMP AT THE END OF SEPTEMBER
+- 09/11 03:03 [financialjuice/FirstSquawk] Netanyahu on Iran and Hezbollah: There will be more to come - Israel's Hayom News
+- 09/11 03:03 [financialjuice/FirstSquawk] Algeria closes airspace to flights from UAE - Tasnim News.
+- 09/11 03:04 [FirstSquawk] U.S. OFFICIALS ARE TO DECLARE THE END OF THE CYCLOSPORIASIS OUTBREAK - WAPO
+- 09/11 03:05 [DeItaone] MUNI YIELDS SURGE TO HIGHEST SINCE APRIL 2025 U.S. 10-year municipal bond yields jumped to 3.62%, the highest since April 2025, tracking the Treasury selloff. JPMorgan says rising Treasury yields, heavy muni issuance and weak reinvestment d…
+- 09/11 03:05 [financialjuice] Treasury debt buyback targets coupons maturing in 2037-2046
+- 09/11 03:05 [financialjuice] Treasury receives $10.489 bln of offers for buyback, accepts $5.19 bln
+- 09/11 03:05 [financialjuice] Treasury accepts 23 of 40 eligible issues in debt buyback.
+- 09/11 03:06 [financialjuice] Canada's PM Carney: I spoke to Trump in recent days.
+- 09/11 03:07 [financialjuice] Iran's President Pezeshkian will travel to New Delhi tomorrow to participate in the 18th BRICS Summit - Fars News
+- 09/11 03:17 [financialjuice] Israel's Prime Minister Netanyahu: IDF destroys Hezbollah facilities at Ali Taher ridge.

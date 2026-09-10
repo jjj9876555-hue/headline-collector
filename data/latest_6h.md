@@ -7,80 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 02:58 JST／対象: 09/10 20:58 〜 09/11 02:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 03:19 JST／対象: 09/10 21:19 〜 09/11 03:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/10 20:59 | 09/11 02:44 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 109 | 09/10 21:01 | 09/11 02:54 | 26分（00:31→00:58） |
-| financialjuice | 186 | 09/10 21:00 | 09/11 02:42 | 19分（02:04→02:24） |
+| DeItaone | 25 | 09/10 21:30 | 09/11 03:05 | ⚠ 108分（23:45→01:33） |
+| FirstSquawk | 101 | 09/10 21:19 | 09/11 03:04 | 26分（00:31→00:58） |
+| financialjuice | 157 | 09/10 21:29 | 09/11 03:17 | 19分（02:04→02:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 316 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 272 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 20:59 [DeItaone] TRUMP TOUTS “SOLD OUT” GOP MIDTERM CONVENTION President Donald Trump claimed the Republican Midterm Convention in Dallas drew record attendance and stronger overall viewership than the NFL. Trump said thousands were unable to enter the pack…
-- 09/10 21:00 [financialjuice] Secured Overnight Financing Rate 3.64% Sept. 9th vs 3.64% Sept. 8th
-- 09/10 21:00 [financialjuice] ❗ Saudis tell OPEC that output slumped again to lowest since 1990.
-- 09/10 21:01 [financialjuice] Russia's oil production down by 160,000 BPD in August from July to 8.718 million bpd, OPEC data shows.
-- 09/10 21:01 [financialjuice] OPEC raises 2027 global oil demand growth forecast to 2.36 million bpd vs prev. forecast 2.16 million bpd.
-- 09/10 21:01 [financialjuice] OPEC: OPEC+ crude output (including former member UAE) averaged 38.05 million BPD in August 2026, up about 300,000 BPD from July.
-- 09/10 21:01 [financialjuice] OPEC cuts 2026 global oil demand growth forecast to 380,000 barrels per day vs prev. forecast 580,000 bpd.
-- 09/10 21:01 [FirstSquawk] SAUDI ARABIA HAS INFORMED OPEC THAT OIL PRODUCTION DROPPED AGAIN, REACHING THE LOWEST LEVEL SINCE 1990.
-- 09/10 21:02 [financialjuice] IBM and NASA release AI model to support lunar exploration. $IBM
-- 09/10 21:02 [financialjuice] OPEC Monthly Report
-- 09/10 21:04 [financialjuice] Putin and China's Xi agreed to hold in-depth talks in November on the sidelines of the APEC summit - TASS.
-- 09/10 21:04 [FirstSquawk] PUTIN OF RUSSIA AND XI OF CHINA PLAN DETAILED DISCUSSIONS IN NOVEMBER DURING APEC SUMMIT.
-- 09/10 21:05 [FirstSquawk] COREWEAVE WILL CONVERT ITS OWN DATA INTO AI FOR PRODUCTION.
-- 09/10 21:05 [FirstSquawk] IBM AND NASA HAVE UNVEILED AN OPEN-SOURCE AI MODEL TO AID IN LUNAR EXPLORATION EFFORTS.
-- 09/10 21:08 [DeItaone] $AAPL - MORGAN STANLEY SEES “APPLE AI” BULL CASE STRENGTHENING Morgan Stanley analyst Erik Woodring maintains Overweight with a $360 price target, saying Apple’s latest launches represent a major step-up in innovation. He sees the iPhone Du…
-- 09/10 21:08 [FirstSquawk] BRENT OIL HITS $104 A BARREL AFTER SAUDIS REPORT OUTPUT SLUMP
-- 09/10 21:15 [FirstSquawk] ECB INTEREST RATE DECISION (SEP) ACTUAL: 2.65% VS 2.40% PREVIOUS; EST 2.65%
-- 09/10 21:15 [FirstSquawk] ECB DEPOSIT FACILITY RATE (SEP) ACTUAL: 2.50% VS 2.25% PREVIOUS; EST 2.50%
-- 09/10 21:15 [financialjuice] ‼ BREAKING: ECB DEPOSIT RATE ACTUAL 2.5% (FORECAST 2.5%, PREVIOUS 2.25%) $MACRO
-- 09/10 21:15 [financialjuice] ❗ ECB INTEREST RATE ACTUAL 2.65% (FORECAST 2.65%, PREVIOUS 2.40%) $MACRO
-- 09/10 21:15 [DeItaone] ECB SAYS INTEREST RATES ECB DECIDED TO RAISE THREE INTEREST RATES BY 25 BASIS POINTS
-- 09/10 21:15 [financialjuice] ECB not pre-committing to a particular rate path.
-- 09/10 21:15 [financialjuice] ECB: outlook remains highly uncertain, with inflation risks to upside and economic growth risks to downside
-- 09/10 21:16 [financialjuice] ECB: baseline of new staff projections sees headline inflation averaging 3.0% in 2026, 2.5% in 2027 and 2.1% in 2028
-- 09/10 21:16 [financialjuice] ECB: inflation excluding energy and food projections at 2.5% in 2026, 2.6% in 2027 and 2.3% in 2028
-- 09/10 21:16 [financialjuice] ECB: baseline inflation projection for 2026 unchanged from June, revised higher for 2027 and 2028
-- 09/10 21:16 [financialjuice] ECB baseline forecast for economic growth is 0.9% for 2026, 1.4% for 2027 and 1.5% for 2028
-- 09/10 21:16 [DeItaone] ECB HIKES RATES 25 BPS AS INFLATION RISKS RISE The ECB raised rates by 25 basis points, taking the deposit rate to 2.50%, as the Middle East conflict keeps inflation pressures elevated. The ECB now sees inflation averaging 3.0% in 2026, 2.5…
-- 09/10 21:16 [financialjuice] ECB: Updated scenarios highlight broad range of growth and inflation outcomes amid energy shock
-- 09/10 21:16 [financialjuice] ECB: with today's choice, ECB stays well placed to handle uncertainty from conflict
-- 09/10 21:16 [financialjuice] ECB: will adopt data-dependent, meeting-by-meeting approach to monetary policy stance
-- 09/10 21:16 [financialjuice] ECB: interest rate decisions will be based on inflation outlook and risks amid economic, financial data
-- 09/10 21:16 [financialjuice] ECB: APP, PEPP holdings falling at steady, foreseeable rate
-- 09/10 21:16 [financialjuice] ECB is well placed to manage uncertainty from Iran conflict
-- 09/10 21:16 [financialjuice] ECB to adopt data-dependent, meeting-by-meeting approach
-- 09/10 21:16 [financialjuice] ECB: Governing council prepared to modify all tools
-- 09/10 21:16 [financialjuice] ECB to decide based on inflation outlook, surrounding risks
-- 09/10 21:17 [financialjuice] ECB sees 2026 inflation at 3%; previous forecast 3%
-- 09/10 21:17 [financialjuice] ECB: inflation risks skewed to the upside
-- 09/10 21:17 [financialjuice] ECB new inflation projection: 3.0% in 2026, 2.5% in 2027 and 2.1% in 2028
-- 09/10 21:17 [financialjuice] ECB's new growth forecasts: 0.9% for 2026, 1.4% for 2027 and 1.5% for 2028
-- 09/10 21:17 [financialjuice] ECB to consider incoming data, core inflation, transmission
-- 09/10 21:17 [DeItaone] *ECB RAISES INFLATION OUTLOOK FOR NEXT 2 YEARS; SEES 2.1% IN '28
-- 09/10 21:17 [financialjuice] ECB sees 2027 inflation at 2.5%, prior forecast 2.3%
-- 09/10 21:17 [financialjuice] ECB: risks tilt to downside for economic growth
-- 09/10 21:17 [financialjuice] EUR/USD extends decline after ECB, down 0.2% to 1.1613
-- 09/10 21:17 [financialjuice] ECB: Middle East conflict continues to drive inflation pressures, inflation to stay well above target for prolonged period
-- 09/10 21:17 [financialjuice] ECB: committed to policy stabilising inflation at 2% over medium term
-- 09/10 21:17 [financialjuice] ECB sees 2027 GDP growth at 1.4%, up from prior 1.2% forecast
-- 09/10 21:17 [financialjuice] ECB: updated scenarios show broad range of growth and inflation outcomes amid energy shock
-- 09/10 21:18 [FirstSquawk] ECB SAYS INFLATION WILL STAY ABOVE 2% FOR `EXTENDED PERIOD'
-- 09/10 21:18 [DeItaone] DOLLAR/YEN EXTENDS RISE, UP AS MUCH AS 0.5% AT 154.3
-- 09/10 21:18 [FirstSquawk] TRADERS KEEP ECB RATE BETS STEADY; SEE ONE MORE HIKE IN 2026
-- 09/10 21:19 [FirstSquawk] ECB SAYS ECB TODAY DECIDED TO RAISE THREE INTEREST RATES BY 25 BASIS POINTS || SAYS BASELINE OF NEW ECB STAFF PROJECTIONS SEES HEADLINE INFLATION AVERAGING 3.0% IN 2026, 2.5% IN 2027 AND 2.1% IN 2028
-- 09/10 21:19 [FirstSquawk] ECB SAYS FOR INFLATION EXCLUDING ENERGY AND FOOD, BASELINE FORESEES 2.5% IN 2026, 2.6% IN 2027 AND 2.3% IN 2028 || SAYS COMPARED WITH JUNE, BASELINE PROJECTION FOR INFLATION IN 2026 IS UNCHANGED, WHILE IT HAS BEEN REVISED UP FOR 2027 AND 20…
-- 09/10 21:19 [FirstSquawk] ECB SAYS WITH TODAY’S DECISION, ECB REMAINS WELL POSITIONED TO NAVIGATE UNCERTAINTY CAUSED BY CONFLICT || SAYS IT WILL FOLLOW A DATA-DEPENDENT AND MEETING-BY-MEETING APPROACH TO DETERMINING APPROPRIATE MONETARY POLICY STANCE
-- 09/10 21:19 [FirstSquawk] ECB SAYS IN PARTICULAR, ECB’S INTEREST RATE DECISIONS WILL BE BASED ON ITS ASSESSMENT OF INFLATION OUTLOOK AND RISKS SURROUNDING IT, IN LIGHT OF INCOMING ECONOMIC AND FINANCIAL DATA, AS WELL AS DYNAMICS OF UNDERLYING INFLATION AND STRENGTH …
 - 09/10 21:19 [FirstSquawk] ECB SAYS INTEREST RATES ECB DECIDED TO RAISE THREE INTEREST RATES BY 25 BASIS POINTS || SAYS ACCORDINGLY, INTEREST RATES ON DEPOSIT FACILITY, MAIN REFINANCING OPERATIONS AND MARGINAL LENDING FACILITY WILL BE INCREASED TO 2.50%, 2.65% AND 2.…
 - 09/10 21:21 [FirstSquawk] USD/JPY RISES 0.5% TO 154.33
 - 09/10 21:24 [FirstSquawk] US TREASURY YIELDS CLIMB LED BY EURO-ZONE DEBT AFTER ECB RATE HIKE
@@ -340,3 +283,16 @@
 - 09/11 02:44 [DeItaone] OPENAI LAUNCHES CHATGPT FOR WALL STREET OpenAI is launching ChatGPT for Financial Services, targeting investment bankers and equity researchers with integrated data from LSEG, PitchBook and Daloopa. Powered initially by GPT-6 Astra, the pla…
 - 09/11 02:44 [FirstSquawk] OPENAI IS INTRODUCING CHATGPT FOR FINANCIAL SERVICES, EMBEDDING GPT-6 ASTRA IN THE FINANCIAL SERVICES PRODUCT
 - 09/11 02:54 [FirstSquawk] IRAN'S TOP SECURITY OFFICIAL REZAEI SAYS ON THE IAEA BOARD OF GOVERNORS DECISION THAT THE IAEA'S 'POLITICAL' MOVES WILL PUSH COUNTRIES TO EXIT THE NPT
+- 09/11 03:00 [financialjuice] Ukraine’s President Zelenskiy: Plan to meet the US team at the end of September in New York.
+- 09/11 03:02 [FirstSquawk] MACQUARIE GROUP SAYS A MACQUARIE ASSET MANAGEMENT-LED CONSORTIUM WILL ACQUIRE SI SOLUTIONS FROM MIDOCEAN PARTNERS, WITH THE TRANSACTION EXPECTED TO CLOSE IN FALL 2026
+- 09/11 03:02 [FirstSquawk] UKRAINE'S ZELENSKIY SAYS THERE WILL BE NO TRILATERAL TALKS BEFORE ELECTIONS IN RUSSIA, ADDING THAT HE HOPES FOR PROGRESS ON ENERGY AND GRAIN TALKS AFTER MEETING WITH TRUMP AT THE END OF SEPTEMBER
+- 09/11 03:03 [financialjuice/FirstSquawk] Netanyahu on Iran and Hezbollah: There will be more to come - Israel's Hayom News
+- 09/11 03:03 [financialjuice/FirstSquawk] Algeria closes airspace to flights from UAE - Tasnim News.
+- 09/11 03:04 [FirstSquawk] U.S. OFFICIALS ARE TO DECLARE THE END OF THE CYCLOSPORIASIS OUTBREAK - WAPO
+- 09/11 03:05 [DeItaone] MUNI YIELDS SURGE TO HIGHEST SINCE APRIL 2025 U.S. 10-year municipal bond yields jumped to 3.62%, the highest since April 2025, tracking the Treasury selloff. JPMorgan says rising Treasury yields, heavy muni issuance and weak reinvestment d…
+- 09/11 03:05 [financialjuice] Treasury debt buyback targets coupons maturing in 2037-2046
+- 09/11 03:05 [financialjuice] Treasury receives $10.489 bln of offers for buyback, accepts $5.19 bln
+- 09/11 03:05 [financialjuice] Treasury accepts 23 of 40 eligible issues in debt buyback.
+- 09/11 03:06 [financialjuice] Canada's PM Carney: I spoke to Trump in recent days.
+- 09/11 03:07 [financialjuice] Iran's President Pezeshkian will travel to New Delhi tomorrow to participate in the 18th BRICS Summit - Fars News
+- 09/11 03:17 [financialjuice] Israel's Prime Minister Netanyahu: IDF destroys Hezbollah facilities at Ali Taher ridge.
