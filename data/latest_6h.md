@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 10:46 JST／対象: 09/10 04:46 〜 09/10 10:46 JST（時刻はすべて日本時間）
+生成: 2026-09-10 10:59 JST／対象: 09/10 04:59 〜 09/10 10:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/10 05:08 | 09/10 06:22 | ⚠ 60分（05:08→06:08） |
-| FirstSquawk | 76 | 09/10 04:51 | 09/10 10:46 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 68 | 09/10 04:50 | 09/10 10:46 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 75 | 09/10 05:02 | 09/10 10:58 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 68 | 09/10 05:14 | 09/10 10:50 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 146 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 146 行（統合前 148 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -745.9 MLN NASDAQ 100: 122.0 MLN DOW 30: -476.3 MLN MAG 7: 27.8 MLN $MACRO
-- 09/10 04:51 [FirstSquawk] COPPER HITS FRESH RECORD HIGHS IN LONDON AND NEW YORK AS TARIFF FEARS AND A GLOBAL SUPPLY CRUNCH DRIVE A RALLY, WITH LME COPPER REACHING $14,858.50/TON. AI DATA CENTERS, RENEWABLES, EVS AND POWER-GRID EXPANSION ARE BOOSTING LONG-TERM DEMAND…
-- 09/10 04:57 [FirstSquawk] MASSIVE FIRE ERUPTS AT SOCHI PORT, RUSSIA, FOLLOWING REPORTED UKRAINIAN DRONE ATTACKS.MASSIVE FIRE ERUPTS AT SOCHI PORT, RUSSIA, FOLLOWING REPORTED UKRAINIAN DRONE ATTACKS.
-- 09/10 04:57 [FirstSquawk] ZELENSKY’S PLANE WAS “ALMOST HIT” BY A DRONE WHILE TAKING OFF FROM MOLDOVA EN ROUTE TO OSLO, NORWEGIAN PM JONAS GAHR STØRE SAID.
-- 09/10 04:57 [financialjuice/FirstSquawk] Iran's First Vice President: Iran stands firm on peaceful nuclear energy rights.
-- 09/10 04:57 [FirstSquawk] ZELENSKY LATER MET STØRE IN OSLO TO DISCUSS EUROPEAN AIR-DEFENCE COOPERATION, HIGHLIGHTING THE ONGOING SECURITY RISKS SURROUNDING UKRAINE’S PRESIDENT.
-- 09/10 04:59 [FirstSquawk] DELL CEO: PC REPLACEMENT DEMAND WILL ACCELERATE AS AGING MACHINES REACH THE END OF THEIR USEFUL LIVES – GOLDMAN SACHS CONFERENCE.
 - 09/10 05:02 [FirstSquawk] DOW JONES UNOFFICIALLY CLOSES DOWN 387.40 POINTS, OR 0.73%, AT 52,398.67.
 - 09/10 05:02 [FirstSquawk] S&P 500 UNOFFICIALLY CLOSES DOWN 37.71 POINTS, OR 0.49%, AT 7,635.81.
 - 09/10 05:03 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 175.92 POINTS, OR 0.67%, AT 26,245.49.
@@ -170,3 +163,10 @@
 - 09/10 10:45 [FirstSquawk] Masu says the BOJ should push its policy rate toward the estimated neutral range, allowing it to conduct monetary policy more flexibly.
 - 09/10 10:46 [FirstSquawk] Trump says the strategic waterway currently known as the Strait of Hormuz will be called the “Trump Strait.”
 - 09/10 10:46 [financialjuice] BOJ's Masu: no sign recent rate increases are weakening corporate demand for funds, concerned about potential overheating of corporate investment
+- 09/10 10:47 [FirstSquawk] BOJ board member Masu says corporate funding demand remains strong after recent rate hikes, raising concerns that investment activity could be running too hot.
+- 09/10 10:48 [financialjuice] BOJ's Masu: Debating maturity zones of JGBs held more crucial than balance sheet size
+- 09/10 10:48 [FirstSquawk] Masu says the BOJ will need to pay greater attention to the maturity composition of its JGB holdings when considering the appropriate balance-sheet size.
+- 09/10 10:50 [financialjuice] Yield gap between 10-year Chinese government bonds and US Treasury expands to record 316.7 basis points
+- 09/10 10:50 [FirstSquawk] Spread between China’s and the U.S.’s 10-year government bond yields hits an all-time high of 316.7 basis points.
+- 09/10 10:52 [FirstSquawk] Australia’s September consumer inflation expectations stay at 4.9%, matching the previous month.
+- 09/10 10:58 [FirstSquawk] SK Group chief to visit AI data center under construction in Ulsan - yonhap

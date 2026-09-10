@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 10:46 JST／対象: 09/09 22:46 〜 09/10 10:46 JST（時刻はすべて日本時間）
+生成: 2026-09-10 10:59 JST／対象: 09/09 22:59 〜 09/10 10:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 32 | 09/09 23:16 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 151 | 09/09 22:55 | 09/10 10:46 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 154 | 09/09 23:16 | 09/10 10:46 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 155 | 09/09 23:03 | 09/10 10:58 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 156 | 09/09 23:16 | 09/10 10:50 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 331 行（統合前 339 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 337 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 22:55 [FirstSquawk] RBC CEO DAVE MCKAY: ESCALATION OF TRADE WAR LEADING TO SOME CAUTION ON CREDIT
 - 09/09 23:03 [FirstSquawk] SAUDI-LED COALITION WARPLANES CARRIED OUT 4 AIRSTRIKES IN SAADA, YEMEN - TASNIM
 - 09/09 23:04 [FirstSquawk] YEMENI SOURCES REPORT SAUDI-BACKED GOVERNMENT'S DEFENSE MINISTER FLEES AND GOES INTO HIDING - MEHR NEWS
 - 09/09 23:16 [DeItaone] BREAKING: Call option notional open interest on the Brazil ETF, $EWZ, has surged to a record $20 billion this week. This figure has nearly doubled over the last several weeks. As a result, total $EWZ call open interest exceeded 5 million co…
@@ -355,3 +354,10 @@
 - 09/10 10:45 [FirstSquawk] Masu says the BOJ should push its policy rate toward the estimated neutral range, allowing it to conduct monetary policy more flexibly.
 - 09/10 10:46 [FirstSquawk] Trump says the strategic waterway currently known as the Strait of Hormuz will be called the “Trump Strait.”
 - 09/10 10:46 [financialjuice] BOJ's Masu: no sign recent rate increases are weakening corporate demand for funds, concerned about potential overheating of corporate investment
+- 09/10 10:47 [FirstSquawk] BOJ board member Masu says corporate funding demand remains strong after recent rate hikes, raising concerns that investment activity could be running too hot.
+- 09/10 10:48 [financialjuice] BOJ's Masu: Debating maturity zones of JGBs held more crucial than balance sheet size
+- 09/10 10:48 [FirstSquawk] Masu says the BOJ will need to pay greater attention to the maturity composition of its JGB holdings when considering the appropriate balance-sheet size.
+- 09/10 10:50 [financialjuice] Yield gap between 10-year Chinese government bonds and US Treasury expands to record 316.7 basis points
+- 09/10 10:50 [FirstSquawk] Spread between China’s and the U.S.’s 10-year government bond yields hits an all-time high of 316.7 basis points.
+- 09/10 10:52 [FirstSquawk] Australia’s September consumer inflation expectations stay at 4.9%, matching the previous month.
+- 09/10 10:58 [FirstSquawk] SK Group chief to visit AI data center under construction in Ulsan - yonhap
