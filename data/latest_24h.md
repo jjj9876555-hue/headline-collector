@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 10:00 JST／対象: 09/09 10:00 〜 09/10 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-10 10:18 JST／対象: 09/09 10:18 〜 09/10 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 329 | 09/09 10:06 | 09/10 09:59 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 215 | 09/09 10:00 | 09/10 10:00 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 332 | 09/09 10:18 | 09/10 10:18 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 209 | 09/09 10:19 | 09/10 10:17 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 587 行（統合前 603 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 584 行（統合前 600 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs 0.805% previous session
-- 09/09 10:06 [FirstSquawk] Peru’s Petroperu Secures $475 Million in Loan Disbursement From International Banks
-- 09/09 10:06 [FirstSquawk] The ban on imports worth ‘billions’ of dollars would take effect in three weeks, US officials said, as Donald Trump’s administration continued to expand its trade war with its second-largest trading partner - FT
-- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: Conflict across Taiwan Strait would hit global economy harder than WWII beyond human toll
-- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: Trump administration made preserving peace in Indo-Pacific a key priority
-- 09/09 10:16 [financialjuice] Top U.S. diplomat in Taiwan: we back Taiwan's efforts to strengthen its self-defense capabilities
-- 09/09 10:17 [financialjuice] Top U.S. diplomat in Taiwan: Taiwan’s capacity to prevent conflict remains crucial to maintaining its dynamic political, economic, and social system
-- 09/09 10:17 [financialjuice] Top U.S. diplomat in Taiwan: effective deterrence is crucial for enabling genuine cross-strait talks free from coercion or force threats
-- 09/09 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 8, 2023
-- 09/09 10:17 [financialjuice] Top US diplomat in Taiwan: threats Taiwan faces keep growing in scale and complexity
 - 09/09 10:18 [FirstSquawk] PBOC Sets Daily Yuan Fixing at 6.7769 per U.S. Dollar
 - 09/09 10:19 [financialjuice] China sets yuan midpoint 727 pips weaker than estimate, biggest downside divergence since February 27, 2026
 - 09/09 10:20 [FirstSquawk] U.S. Diplomat in Taiwan: Taiwan Strait Conflict Could Hit Global Economy Harder Than WWII
@@ -611,3 +601,10 @@
 - 09/10 09:58 [FirstSquawk] Potential danger reported in Khamis Mushait and Abha as Saudi Civil Defence issues warning.
 - 09/10 09:59 [FirstSquawk] The latest Apple Watch gains an AI-powered Live Rewind tool that lets users revisit the previous 15 seconds of speech through a text transcript.
 - 09/10 10:00 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait and Abha
+- 09/10 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% matching previous session opening
+- 09/10 10:12 [FirstSquawk] Washington says Beijing remains on course to meet its U.S. farm-product buying commitments before Xi’s planned trip to the U.S.
+- 09/10 10:14 [FirstSquawk] U.S. President Donald Trump headlines the Republican midterm gathering in Dallas as the party campaigns to retain control of Congress.
+- 09/10 10:15 [FirstSquawk] China's central bank sets the yuan reference rate at 6.7766 per dollar.
+- 09/10 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 8, 2023, PBOC says
+- 09/10 10:17 [FirstSquawk] Yuan midpoint reaches its strongest level since February 2023 as China continues to allow the currency to strengthen.
+- 09/10 10:18 [FirstSquawk] Trump takes the stage to a huge reception in Dallas as Republicans rally ahead of the 2026 midterm elections - Fox News

@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 10:00 JST／対象: 09/10 04:00 〜 09/10 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-10 10:18 JST／対象: 09/10 04:18 〜 09/10 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/10 05:08 | 09/10 06:22 | ⚠ 60分（05:08→06:08） |
-| FirstSquawk | 57 | 09/10 04:02 | 09/10 09:59 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 52 | 09/10 04:20 | 09/10 10:00 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 54 | 09/10 04:51 | 09/10 10:18 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 54 | 09/10 04:20 | 09/10 10:17 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 110 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 04:02 [FirstSquawk] ANTHROPIC IDENTIFIES A FOURTH CLAUDE SECURITY INCIDENT FROM JANUARY 2026 AND SAYS ALL FOUR INCIDENTS OCCURRED DURING CYBERSECURITY EVALUATIONS CONDUCTED BY THE SAME EVALUATION PARTNER.
-- 09/10 04:02 [FirstSquawk] ANTHROPIC HAS NOTIFIED AFFECTED PARTIES AND SIGNED AN AGREEMENT WITH METR TO CONDUCT AN INDEPENDENT INVESTIGATION INTO THE CLAUDE MODEL SECURITY INCIDENTS.
-- 09/10 04:02 [FirstSquawk] DISNEY SAYS IT HAS CREATED A “ONE FAN, ONE ACCOUNT” ECOSYSTEM LINKING HULU AND DISNEY+ PROFILES, WHILE DISNEY+ DELIVERED A 13% MARGIN LAST QUARTER AND IS EXPECTED TO POST DOUBLE-DIGIT MARGINS FOR THE FULL YEAR.
-- 09/10 04:02 [FirstSquawk] DISNEY’S CFO SAYS THE COMPANY IS PRIORITIZING REVENUE GROWTH, WITH A STRONG CONTENT SLATE AHEAD AND CRUISE SHIPS CONTINUING TO SELL OUT DESPITE A 50% INCREASE IN GUEST-ROOM CAPACITY.
-- 09/10 04:03 [FirstSquawk] ANTHROPIC SAYS CLAUDE MYTHOS 5 ATTEMPTED TO UPLOAD A MALICIOUS PACKAGE TO THE PYPI SOFTWARE REPOSITORY DURING A CYBERSECURITY EVALUATION.
-- 09/10 04:03 [FirstSquawk] ANTHROPIC SAYS ALL REPORTED INCIDENTS INVOLVED A SINGLE CLAUDE INSTANCE, WITH NO ATTEMPT BY THE MODEL TO COORDINATE OR COLLABORATE WITH OTHER AI AGENTS.
-- 09/10 04:07 [FirstSquawk] ANTHROPIC SAYS THE MISALIGNED BEHAVIORS SEEN IN ITS CYBERSECURITY INCIDENTS ARE UNLIKELY TO OCCUR DURING ORDINARY USE OF CLAUDE.
-- 09/10 04:07 [FirstSquawk] ANTHROPIC COULD NOT IDENTIFY A SINGLE ROOT CAUSE FOR CLAUDE MYTHOS 5’S BIASED REASONING, BUT SAYS SUCH BIASED BEHAVIOR HAS DECLINED ACROSS ITS PRODUCTION MODELS OVER TIME.
 - 09/10 04:20 [financialjuice] Senator Blumenthal asks OpenAI's Altman about safeguards and Hugging Face.
 - 09/10 04:22 [financialjuice] Thursday FX Options Expiries
 - 09/10 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -745.9 MLN NASDAQ 100: 122.0 MLN DOW 30: -476.3 MLN MAG 7: 27.8 MLN $MACRO
@@ -135,3 +127,10 @@
 - 09/10 09:58 [FirstSquawk] Potential danger reported in Khamis Mushait and Abha as Saudi Civil Defence issues warning.
 - 09/10 09:59 [FirstSquawk] The latest Apple Watch gains an AI-powered Live Rewind tool that lets users revisit the previous 15 seconds of speech through a text transcript.
 - 09/10 10:00 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait and Abha
+- 09/10 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% matching previous session opening
+- 09/10 10:12 [FirstSquawk] Washington says Beijing remains on course to meet its U.S. farm-product buying commitments before Xi’s planned trip to the U.S.
+- 09/10 10:14 [FirstSquawk] U.S. President Donald Trump headlines the Republican midterm gathering in Dallas as the party campaigns to retain control of Congress.
+- 09/10 10:15 [FirstSquawk] China's central bank sets the yuan reference rate at 6.7766 per dollar.
+- 09/10 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 8, 2023, PBOC says
+- 09/10 10:17 [FirstSquawk] Yuan midpoint reaches its strongest level since February 2023 as China continues to allow the currency to strengthen.
+- 09/10 10:18 [FirstSquawk] Trump takes the stage to a huge reception in Dallas as Republicans rally ahead of the 2026 midterm elections - Fox News
