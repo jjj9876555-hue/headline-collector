@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 14:24 JST／対象: 09/10 08:24 〜 09/10 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-10 14:43 JST／対象: 09/10 08:43 〜 09/10 14:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 108 | 09/10 09:05 | 09/10 14:21 | 14分（14:01→14:15） |
-| financialjuice | 54 | 09/10 08:31 | 09/10 14:17 | ⚠ 55分（11:11→12:06） |
+| FirstSquawk | 114 | 09/10 09:05 | 09/10 14:42 | 14分（14:01→14:15） |
+| financialjuice | 57 | 09/10 08:50 | 09/10 14:42 | ⚠ 55分（11:11→12:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 171 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 08:31 [financialjuice] OpenAI: pushing for compulsory national AI safety regulations
-- 09/10 08:32 [financialjuice] OpenAI: backing four California bills
 - 09/10 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL 690.0B (FORECAST -, PREVIOUS 35.8B ,REVISION 35.9B) $MACRO
 - 09/10 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL 111.9B (FORECAST -, PREVIOUS -824.0B) $MACRO
 - 09/10 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL -481.6B (FORECAST -, PREVIOUS 35.8B) $MACRO
@@ -186,3 +184,14 @@
 - 09/10 14:17 [financialjuice] China chipmakers raised prices for AI processors, including Huawei and Cambricon.
 - 09/10 14:17 [FirstSquawk] Finnish industrial output grows 4.5% year on year in July, data shows.
 - 09/10 14:21 [FirstSquawk] Rising crude prices are putting pressure on Asian equities, with oil above $100 adding to inflation concerns.
+- 09/10 14:28 [FirstSquawk] AI-driven data-center expansion is fueling interest in nuclear power, putting renewed upward pressure on uranium prices.
+- 09/10 14:36 [FirstSquawk] TSMC posted record August revenue, with sales surging more than 53% year on year as per CNBC
+- 09/10 14:38 [FirstSquawk] BOJ’s Masu says inflation is moving closer to 2%, while a sharp rise beyond the target is not currently anticipated.
+- 09/10 14:38 [financialjuice] BoJ's Masu: Underlying inflation gradually approaching 2% but don't see it overshooting sharply above that level now.
+- 09/10 14:39 [FirstSquawk] BOJ’s Masu signals caution on rate hikes when questioned about the prospect of a 50-basis-point increase.
+- 09/10 14:39 [financialjuice] BoJ's Masu when asked about chance of 50-basis-point rate hike: We should proceed at a cautious approach in pushing up borrowing costs.
+- 09/10 14:39 [financialjuice] BoJ's Masu: Important to stabilize price trend around 2%.
+- 09/10 14:41 [FirstSquawk] Masu: BOJ’s policy rate has remained below the neutral-rate range for too long and should be raised soon.
+- 09/10 14:42 [financialjuice] BoJ's Masu: BoJ's policy rate is still below our estimated range on neutral rate, and has been below that level for a very long time so this needs to be fixed soon.
+- 09/10 14:42 [financialjuice] BoJ's Masu: It is unnatural for BoJ's policy rate to stay below its estimated range of neutral level.
+- 09/10 14:42 [FirstSquawk] BOJ board member Masu says the current rate is unusually low relative to the estimated neutral range.
