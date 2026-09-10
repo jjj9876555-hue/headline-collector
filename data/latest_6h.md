@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 17:28 JST／対象: 09/10 11:28 〜 09/10 17:28 JST（時刻はすべて日本時間）
+生成: 2026-09-10 17:46 JST／対象: 09/10 11:46 〜 09/10 17:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/10 16:41 | 09/10 17:27 | 24分（17:02→17:27） |
-| FirstSquawk | 115 | 09/10 11:29 | 09/10 17:25 | 14分（14:01→14:15） |
+| DeItaone | 5 | 09/10 16:41 | 09/10 17:30 | 24分（17:02→17:27） |
+| FirstSquawk | 118 | 09/10 11:50 | 09/10 17:42 | 14分（14:01→14:15） |
 | financialjuice | 33 | 09/10 12:06 | 09/10 17:04 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 152 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 156 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 11:29 [FirstSquawk] South Korea’s stock market starts lower as higher oil prices and escalating geopolitical tensions pressure risk sentiment.
-- 09/10 11:35 [FirstSquawk] Trump unveils a proposed $5,000 “Trump dividend” for U.S. adults, conditional on a Republican victory in the House and Senate As Per FT
-- 09/10 11:41 [FirstSquawk] South Korea’s economic recovery is becoming increasingly evident, the finance minister says.
 - 09/10 11:50 [FirstSquawk] China’s local surtax reform strengthens tax adjustment capacity but delivers limited fiscal relief, Fitch Ratings says.
 - 09/10 11:55 [FirstSquawk] Pound strengthens as the dollar slips ahead of key U.S. PPI figures.
 - 09/10 12:05 [FirstSquawk] Stifel starts coverage of Targa Resources with a buy recommendation and $340 target.
@@ -176,3 +173,10 @@
 - 09/10 17:19 [FirstSquawk] UBS PULLS PLUG ON FUND SALES ON A WEALTH PLATFORM IN CHINA AMID STIFF COMPETITION – SCMP
 - 09/10 17:25 [FirstSquawk] SPOKESPERSON FOR IRAQI ARMED FORCES STATES THAT SEPTEMBER 30 IS THE LAST DATE FOR THE INTERNATIONAL COALITION'S OPERATIONS IN IRAQ.
 - 09/10 17:27 [DeItaone] PUTIN AIDE: EUROPE DOES NOT WANT UKRAINE PEACE Putin aide Nikolay Patrushev claimed Western Europe is not interested in peace in Ukraine or encouraging Kyiv to negotiate. He said the U.S. appears more interested in negotiations, expressing …
+- 09/10 17:30 [DeItaone] $META - JPMORGAN TURNS BULLISH ON META’S AI POTENTIAL JPMorgan upgraded Meta to Overweight and raised its price target to $820 from $640, implying roughly 24% upside. The bank sees significant new revenue opportunities from AI agents, subsc…
+- 09/10 17:32 [FirstSquawk] VIETNAM WILL START TRIAL RUNS AT LONG THANH INTERNATIONAL AIRPORT, BUT AIRLINES ARE HESITANT TO MOVE FLIGHTS DUE TO CONCERNS ABOUT FEES AND CONNECTIVITY.
+- 09/10 17:35 [FirstSquawk] VW ESTIMATES THE COST OF JOB CUTS AND PLANT CLOSURES AT 16B EUROS - SPIEGEL
+- 09/10 17:36 [FirstSquawk] KIM JONG UN GAVE PUBLIC PRAISE TO NORTH KOREAN SOLDIERS INVOLVED IN "OVERSEAS MILITARY OPERATIONS," MAKING PYONGYANG’S ROLE IN RUSSIA’S WAR ON UKRAINE MORE NORMALIZED.
+- 09/10 17:38 [FirstSquawk] COINBASE EXPECTS STABLECOIN PAYMENTS TO BECOME A SIGNIFICANT REVENUE BOOST.
+- 09/10 17:39 [FirstSquawk] UKRAINIAN AIR DEFENSES CLAIMED THEY HAVE DESTROYED 128 RUSSIAN DRONES OF DIFFERENT TYPES.
+- 09/10 17:42 [FirstSquawk] UK 2-YEAR YIELD CLIMBS 2BPS TO 4.72%, HIGHEST SINCE NOV. 2023

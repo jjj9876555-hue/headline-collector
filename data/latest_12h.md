@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 17:28 JST／対象: 09/10 05:28 〜 09/10 17:28 JST（時刻はすべて日本時間）
+生成: 2026-09-10 17:46 JST／対象: 09/10 05:46 〜 09/10 17:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/10 06:08 | 09/10 17:27 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 189 | 09/10 07:34 | 09/10 17:25 | ⚠ 49分（08:15→09:05） |
+| DeItaone | 8 | 09/10 06:08 | 09/10 17:30 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 195 | 09/10 07:34 | 09/10 17:42 | ⚠ 49分（08:15→09:05） |
 | financialjuice | 99 | 09/10 05:46 | 09/10 17:04 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 294 行（統合前 296 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 301 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -318,3 +318,10 @@
 - 09/10 17:19 [FirstSquawk] UBS PULLS PLUG ON FUND SALES ON A WEALTH PLATFORM IN CHINA AMID STIFF COMPETITION – SCMP
 - 09/10 17:25 [FirstSquawk] SPOKESPERSON FOR IRAQI ARMED FORCES STATES THAT SEPTEMBER 30 IS THE LAST DATE FOR THE INTERNATIONAL COALITION'S OPERATIONS IN IRAQ.
 - 09/10 17:27 [DeItaone] PUTIN AIDE: EUROPE DOES NOT WANT UKRAINE PEACE Putin aide Nikolay Patrushev claimed Western Europe is not interested in peace in Ukraine or encouraging Kyiv to negotiate. He said the U.S. appears more interested in negotiations, expressing …
+- 09/10 17:30 [DeItaone] $META - JPMORGAN TURNS BULLISH ON META’S AI POTENTIAL JPMorgan upgraded Meta to Overweight and raised its price target to $820 from $640, implying roughly 24% upside. The bank sees significant new revenue opportunities from AI agents, subsc…
+- 09/10 17:32 [FirstSquawk] VIETNAM WILL START TRIAL RUNS AT LONG THANH INTERNATIONAL AIRPORT, BUT AIRLINES ARE HESITANT TO MOVE FLIGHTS DUE TO CONCERNS ABOUT FEES AND CONNECTIVITY.
+- 09/10 17:35 [FirstSquawk] VW ESTIMATES THE COST OF JOB CUTS AND PLANT CLOSURES AT 16B EUROS - SPIEGEL
+- 09/10 17:36 [FirstSquawk] KIM JONG UN GAVE PUBLIC PRAISE TO NORTH KOREAN SOLDIERS INVOLVED IN "OVERSEAS MILITARY OPERATIONS," MAKING PYONGYANG’S ROLE IN RUSSIA’S WAR ON UKRAINE MORE NORMALIZED.
+- 09/10 17:38 [FirstSquawk] COINBASE EXPECTS STABLECOIN PAYMENTS TO BECOME A SIGNIFICANT REVENUE BOOST.
+- 09/10 17:39 [FirstSquawk] UKRAINIAN AIR DEFENSES CLAIMED THEY HAVE DESTROYED 128 RUSSIAN DRONES OF DIFFERENT TYPES.
+- 09/10 17:42 [FirstSquawk] UK 2-YEAR YIELD CLIMBS 2BPS TO 4.72%, HIGHEST SINCE NOV. 2023
