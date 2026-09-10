@@ -7,47 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 16:37 JST／対象: 09/10 10:37 〜 09/10 16:37 JST（時刻はすべて日本時間）
+生成: 2026-09-10 16:52 JST／対象: 09/10 10:52 〜 09/10 16:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 125 | 09/10 10:39 | 09/10 16:32 | 14分（14:01→14:15） |
-| financialjuice | 43 | 09/10 10:37 | 09/10 15:00 | ⚠ 55分（11:11→12:06） |
+| DeItaone | 2 | 09/10 16:41 | 09/10 16:51 | 9分（16:41→16:51） |
+| FirstSquawk | 117 | 09/10 10:52 | 09/10 16:47 | 14分（14:01→14:15） |
+| financialjuice | 32 | 09/10 11:11 | 09/10 15:00 | ⚠ 55分（11:11→12:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 168 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 151 行（統合前 151 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 10:37 [financialjuice] BOJ's Masu: government measures to ease cost of living impact may increase demand, drive inflation higher
-- 09/10 10:39 [financialjuice] Boj’s Masu: recent 7% rise in producer prices requires attention as increase could boost consumer inflation more than before
-- 09/10 10:39 [FirstSquawk] BOJ policymaker Masu warns that fuel and chemical price gains, while potentially temporary, could have broader effects on inflation through distribution costs.
-- 09/10 10:40 [FirstSquawk] BOJ policymaker Masu says efforts to soften the impact of higher living costs could have the unintended effect of strengthening demand and raising inflation.
-- 09/10 10:40 [FirstSquawk] Masu says the 7% increase in producer prices is a key concern, with higher factory-gate costs potentially feeding into consumer prices more than before.
-- 09/10 10:40 [financialjuice] BOJ's Masu: food cost increases set to re-accelerate, may hold key to long-term inflation outlook
-- 09/10 10:41 [FirstSquawk] BOJ’s Masu says elevated producer-price growth could put greater pressure on consumer inflation as businesses pass on rising costs.
-- 09/10 10:42 [financialjuice] BOJ's Masu: Weak yen has greater effect on inflation than before, warrants attention
-- 09/10 10:42 [financialjuice] Boj's Masu: Japan no longer in deflation, must raise real interest rate above negative territory promptly
-- 09/10 10:42 [FirstSquawk] BOJ board member Masu warns that yen weakness is exerting a larger influence on prices than before, requiring attention.
-- 09/10 10:42 [FirstSquawk] BOJ board member Masu says with deflation no longer a concern, the central bank should aim to lift real interest rates from negative territory as soon as possible.
-- 09/10 10:43 [financialjuice] BOJ’s Masu: policy rate nearing estimated neutral range, must closely monitor price, job, financial conditions
-- 09/10 10:43 [FirstSquawk] Masu says with the BOJ policy rate nearing its estimated neutral range, the central bank must closely watch price trends, labor conditions and financial markets.
-- 09/10 10:44 [financialjuice] BOJ's Masu: Japan's financial conditions steady, rapid rate hikes possible if inflation picks up
-- 09/10 10:44 [FirstSquawk] Masu says the BOJ may need to accelerate monetary tightening if inflation picks up while financial conditions remain accommodative.
-- 09/10 10:45 [financialjuice] Boj's Masu: Boj Must Raise Rates Further and Push Policy Rate to Estimated Neutral Level to Prepare for Nimble Policy Moves
-- 09/10 10:45 [FirstSquawk] Masu says the BOJ should push its policy rate toward the estimated neutral range, allowing it to conduct monetary policy more flexibly.
-- 09/10 10:46 [FirstSquawk] Trump says the strategic waterway currently known as the Strait of Hormuz will be called the “Trump Strait.”
-- 09/10 10:46 [financialjuice] BOJ's Masu: no sign recent rate increases are weakening corporate demand for funds, concerned about potential overheating of corporate investment
-- 09/10 10:47 [FirstSquawk] BOJ board member Masu says corporate funding demand remains strong after recent rate hikes, raising concerns that investment activity could be running too hot.
-- 09/10 10:48 [financialjuice] BOJ's Masu: Debating maturity zones of JGBs held more crucial than balance sheet size
-- 09/10 10:48 [FirstSquawk] Masu says the BOJ will need to pay greater attention to the maturity composition of its JGB holdings when considering the appropriate balance-sheet size.
-- 09/10 10:50 [financialjuice] Yield gap between 10-year Chinese government bonds and US Treasury expands to record 316.7 basis points
-- 09/10 10:50 [FirstSquawk] Spread between China’s and the U.S.’s 10-year government bond yields hits an all-time high of 316.7 basis points.
 - 09/10 10:52 [FirstSquawk] Australia’s September consumer inflation expectations stay at 4.9%, matching the previous month.
 - 09/10 10:58 [FirstSquawk] SK Group chief to visit AI data center under construction in Ulsan - yonhap
 - 09/10 11:02 [FirstSquawk] Trump threatens to strike Mount Fao heavily if Iran resumes or conducts nuclear activity at the location.
@@ -192,3 +168,10 @@
 - 09/10 16:27 [FirstSquawk] MIZUHO'S FIRST FEMALE HEAD OF WEALTH MANAGEMENT AIMS FOR SIXFOLD GROWTH IN ASSET ADVISORY BUSINESS, JOINING A SMALL GROUP OF WOMEN LEADERS IN JAPAN'S FINANCIAL INDUSTRY.
 - 09/10 16:32 [FirstSquawk] CHINA'S DEEPSEEK UNVEILS THE V4.1-FLASH MODEL.
 - 09/10 16:32 [FirstSquawk] HUAWEI INTRODUCES NEW OPTICAL TECHNOLOGY STANDARDS TO COMPETE WITH NVIDIA AND BROADCOM.
+- 09/10 16:37 [FirstSquawk] PBOC: GUARD AGAINST HERD BEHAVIOR IN FX MARKET
+- 09/10 16:39 [FirstSquawk] FORMER ISRAELI PRIME MINISTER OLMERT: NETANYAHU GOVERNMENT SUPPORTS SETTLER VIOLENCE
+- 09/10 16:41 [FirstSquawk] EUROPEAN UNION FIRMS ARE GETTING BEATEN, OUTTHOUGHT, OR OUTSPENT BY CHINESE RIVALS.
+- 09/10 16:41 [DeItaone] TRUMP PROMISES $5,000 DIVIDEND IF GOP WINS MIDTERMS President Donald Trump pledged a $5,000 payment to every adult U.S. citizen if Republicans retain control of Congress in November. Trump credited U.S. economic performance for the proposal…
+- 09/10 16:42 [FirstSquawk] PBOC: Seeks Dynamic Balance In Macro Policy Objectives
+- 09/10 16:47 [FirstSquawk] TSMC SEES A 53.3% RISE IN MONTHLY SALES AS IT STRUGGLES TO KEEP UP WITH HIGH DEMAND FOR AI INFRASTRUCTURE.
+- 09/10 16:51 [DeItaone] HOUTHIS SEIZE STRATEGIC RED SEA CITY Iran-backed Houthis have seized Yemen’s Mocha, according to Reuters sources. The advance brings the group closer to the Bab el-Mandeb Strait, raising risks for Red Sea shipping and global trade.

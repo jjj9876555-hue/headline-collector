@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 16:37 JST／対象: 09/10 04:37 〜 09/10 16:37 JST（時刻はすべて日本時間）
+生成: 2026-09-10 16:52 JST／対象: 09/10 04:52 〜 09/10 16:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/10 05:08 | 09/10 06:22 | ⚠ 60分（05:08→06:08） |
-| FirstSquawk | 191 | 09/10 04:51 | 09/10 16:32 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 102 | 09/10 04:50 | 09/10 15:00 | ⚠ 59分（07:00→08:00） |
+| DeItaone | 6 | 09/10 05:08 | 09/10 16:51 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 195 | 09/10 04:57 | 09/10 16:47 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 101 | 09/10 04:57 | 09/10 15:00 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 295 行（統合前 298 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 300 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -745.9 MLN NASDAQ 100: 122.0 MLN DOW 30: -476.3 MLN MAG 7: 27.8 MLN $MACRO
-- 09/10 04:51 [FirstSquawk] COPPER HITS FRESH RECORD HIGHS IN LONDON AND NEW YORK AS TARIFF FEARS AND A GLOBAL SUPPLY CRUNCH DRIVE A RALLY, WITH LME COPPER REACHING $14,858.50/TON. AI DATA CENTERS, RENEWABLES, EVS AND POWER-GRID EXPANSION ARE BOOSTING LONG-TERM DEMAND…
 - 09/10 04:57 [FirstSquawk] MASSIVE FIRE ERUPTS AT SOCHI PORT, RUSSIA, FOLLOWING REPORTED UKRAINIAN DRONE ATTACKS.MASSIVE FIRE ERUPTS AT SOCHI PORT, RUSSIA, FOLLOWING REPORTED UKRAINIAN DRONE ATTACKS.
 - 09/10 04:57 [FirstSquawk] ZELENSKY’S PLANE WAS “ALMOST HIT” BY A DRONE WHILE TAKING OFF FROM MOLDOVA EN ROUTE TO OSLO, NORWEGIAN PM JONAS GAHR STØRE SAID.
 - 09/10 04:57 [financialjuice/FirstSquawk] Iran's First Vice President: Iran stands firm on peaceful nuclear energy rights.
@@ -319,3 +317,10 @@
 - 09/10 16:27 [FirstSquawk] MIZUHO'S FIRST FEMALE HEAD OF WEALTH MANAGEMENT AIMS FOR SIXFOLD GROWTH IN ASSET ADVISORY BUSINESS, JOINING A SMALL GROUP OF WOMEN LEADERS IN JAPAN'S FINANCIAL INDUSTRY.
 - 09/10 16:32 [FirstSquawk] CHINA'S DEEPSEEK UNVEILS THE V4.1-FLASH MODEL.
 - 09/10 16:32 [FirstSquawk] HUAWEI INTRODUCES NEW OPTICAL TECHNOLOGY STANDARDS TO COMPETE WITH NVIDIA AND BROADCOM.
+- 09/10 16:37 [FirstSquawk] PBOC: GUARD AGAINST HERD BEHAVIOR IN FX MARKET
+- 09/10 16:39 [FirstSquawk] FORMER ISRAELI PRIME MINISTER OLMERT: NETANYAHU GOVERNMENT SUPPORTS SETTLER VIOLENCE
+- 09/10 16:41 [FirstSquawk] EUROPEAN UNION FIRMS ARE GETTING BEATEN, OUTTHOUGHT, OR OUTSPENT BY CHINESE RIVALS.
+- 09/10 16:41 [DeItaone] TRUMP PROMISES $5,000 DIVIDEND IF GOP WINS MIDTERMS President Donald Trump pledged a $5,000 payment to every adult U.S. citizen if Republicans retain control of Congress in November. Trump credited U.S. economic performance for the proposal…
+- 09/10 16:42 [FirstSquawk] PBOC: Seeks Dynamic Balance In Macro Policy Objectives
+- 09/10 16:47 [FirstSquawk] TSMC SEES A 53.3% RISE IN MONTHLY SALES AS IT STRUGGLES TO KEEP UP WITH HIGH DEMAND FOR AI INFRASTRUCTURE.
+- 09/10 16:51 [DeItaone] HOUTHIS SEIZE STRATEGIC RED SEA CITY Iran-backed Houthis have seized Yemen’s Mocha, according to Reuters sources. The advance brings the group closer to the Bab el-Mandeb Strait, raising risks for Red Sea shipping and global trade.
