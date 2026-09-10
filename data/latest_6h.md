@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 06:15 JST／対象: 09/11 00:15 〜 09/11 06:15 JST（時刻はすべて日本時間）
+生成: 2026-09-11 06:31 JST／対象: 09/11 00:31 〜 09/11 06:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 13 | 09/11 01:33 | 09/11 03:41 | 25分（03:05→03:30） |
-| FirstSquawk | 78 | 09/11 00:31 | 09/11 05:38 | 32分（03:04→03:37） |
+| FirstSquawk | 80 | 09/11 00:31 | 09/11 06:26 | ⚠ 48分（05:38→06:26） |
 | financialjuice | 75 | 09/11 00:32 | 09/11 06:09 | 39分（05:24→06:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 160 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -184,3 +184,5 @@
 - 09/11 06:04 [financialjuice] OpenAI's Thibault Sottiaux: pausing subscriptions to $200 pro plan - X post
 - 09/11 06:07 [financialjuice] Microsoft plans 38 gigawatts of data center capacity to meet demand
 - 09/11 06:09 [financialjuice] Microsoft's data center network will exceed 38 gigawatts capacity in 2032, up from around 12 gigawatts now
+- 09/11 06:26 [FirstSquawk] ORACLE CFO EXPECTS AROUND 50% OF THE COMPANY’S $664 BILLION RPO TO CONVERT INTO REVENUE OVER THE NEXT 36 MONTHS, WITH NEWLY BOOKED REVENUE BACKLOG NOT EXPECTED TO IMPACT REVENUE OR CAPEX UNTIL FY2028 OR LATER.
+- 09/11 06:26 [FirstSquawk] ORACLE MAINTAINS ITS FULL-YEAR CAPEX FORECAST AT $90-$95 BILLION, WITH SPENDING EXPECTED TO BE UNEVEN THROUGHOUT THE YEAR.
