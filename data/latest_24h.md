@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 09:23 JST／対象: 09/09 09:23 〜 09/10 09:23 JST（時刻はすべて日本時間）
+生成: 2026-09-10 09:48 JST／対象: 09/09 09:48 〜 09/10 09:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 328 | 09/09 09:24 | 09/10 09:23 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 210 | 09/09 10:00 | 09/10 09:20 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 326 | 09/09 09:49 | 09/10 09:48 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 212 | 09/09 10:00 | 09/10 09:25 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 581 行（統合前 597 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,18 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 09:24 [FirstSquawk] Chris Pappas Secures Democratic Senate Nomination in New Hampshire, AP Reports
-- 09/09 09:25 [FirstSquawk] China Vows to Deepen Opening-Up, Encourage Global Firms to Expand Presence in Chinese Market
-- 09/09 09:25 [FirstSquawk] Indonesia Motorcycle Sales Climb 3.18% Y/Y in August: Association
-- 09/09 09:29 [FirstSquawk] 10-Year Japanese Government Bond Yield Slips to 2.880%
-- 09/09 09:31 [FirstSquawk] Japanese Investors’ Move Into Domestic Bonds Remains Gradual, Fitch Says
-- 09/09 09:32 [FirstSquawk] U.S. Strikes Iranian Oil Tankers in Response to Tehran’s Attacks on Navy Ships - WSJ
-- 09/09 09:33 [FirstSquawk] Oil Rises as Houthi Militants’ Attack Amplifies Supply-Disruption Fears - WSJ
-- 09/09 09:33 [FirstSquawk] Nikkei Rises 0.1%, Led by Chip-Related Stocks - WSJ
-- 09/09 09:36 [FirstSquawk] Blackstone’s Head of Real Estate Is Leaving the Firm - WSJ
-- 09/09 09:39 [FirstSquawk] Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries - CNBC
-- 09/09 09:42 [FirstSquawk] Penicillin shortage continues in Japan amid high number of syphilis cases - KYODO
-- 09/09 09:45 [FirstSquawk] Maker of world's best sake this year hopes to spread Japanese culture - KYODO
 - 09/09 09:49 [FirstSquawk] Trump said the alcohol ban was in response to Canada's treatment of American alcohol - BusinessInsider
 - 09/09 09:52 [FirstSquawk] SK Hynix Stock Gains 3% in Trading
 - 09/09 09:59 [FirstSquawk] Heavy rain may continue through Thurs. on Pacific side of east, west Japan - KYODO
@@ -605,3 +593,15 @@
 - 09/10 09:20 [financialjuice] China PBOC likely to fix yuan midpoint at 6.7074 per dollar: estimate
 - 09/10 09:21 [FirstSquawk] SAMSUNG ELECTRONICS SEES SOCIAL-MEDIA ACTIVITY TRIPLE TO 10 FINANCIALLY FOCUSED POSTS IN 30 MINUTES, WELL ABOVE THE AVERAGE OF THREE, AMID BUZZ AROUND ITS AI-CHIP WORK WITH OPENAI AND UPCOMING FOLDABLES. THE SURGE FOLLOWS OTHER AI-RELATED D…
 - 09/10 09:23 [FirstSquawk] Brent closes up, with missing barrels and a widening conflict driving the broader oil narrative.
+- 09/10 09:24 [financialjuice] Southcom: carried out lethal kinetic strike on fast-moving vessel along narco-trafficking routes in Caribbean
+- 09/10 09:25 [FirstSquawk] ENBRIDGE IS IN ADVANCED TALKS TO ACQUIRE THE 900-MILE PONY EXPRESS PIPELINE FROM BLACKSTONE-OWNED TALLGRASS ENERGY FOR ABOUT $2 BILLION, WITH A DEAL POSSIBLY ANNOUNCED WITHIN DAYS.
+- 09/10 09:25 [FirstSquawk] Aussie dollar extends gains to a fresh mid-May high as a weaker US dollar and prospects for RBA tightening boost the currency.
+- 09/10 09:25 [financialjuice] Regulators probe Nvidia’s licensing arrangement with Grog: NYT
+- 09/10 09:26 [FirstSquawk] U.S. SOUTHERN COMMAND SAYS THAT ON SEPTEMBER 9, UNDER THE DIRECTION OF SOUTHCOM, JOINT TASK FORCE WESTERN HEMISPHERE EXECUTED A LETHAL KINETIC STRIKE ON A GO-FAST VESSEL OPERATING ALONG ESTABLISHED NARCO-TRAFFICKING ROUTES IN THE CARIBBEAN,…
+- 09/10 09:26 [FirstSquawk] Nvidia’s agreement to license Groq’s AI inference technology is facing regulatory scrutiny, according to a New York Times report.
+- 09/10 09:27 [FirstSquawk] BRENT CRUDE CLIMBED ABOVE $100 A BARREL AS RENEWED U.S.-IRAN ATTACKS THREATENED OIL SUPPLIES AND SHIPPING THROUGH THE STRAIT OF HORMUZ, WHERE ROUGHLY ONE-FIFTH OF GLOBAL OIL SUPPLY PASSED BEFORE THE CONFLICT, WITH THE LATEST ESCALATION FOLL…
+- 09/10 09:30 [FirstSquawk] Canada’s trade tribunal says a surge in imported canned vegetables, led largely by U.S. shipments, has caused significant harm to the country’s domestic food-processing industry as per wall street journal.
+- 09/10 09:40 [FirstSquawk] 2-year Japanese government bond yield moves 1 bp higher to 1.84%.
+- 09/10 09:41 [FirstSquawk] Major Korean banks maintain stable prospects as resilient fundamentals support their credit profiles, Fitch says.
+- 09/10 09:41 [FirstSquawk] A suspected drug-trafficking boat was hit by U.S. forces in the Caribbean Sea, Southern Command says.
+- 09/10 09:48 [FirstSquawk] Business sentiment among U.S. firms in China has improved sharply as the latest U.S.-China trade truce reduces tensions.

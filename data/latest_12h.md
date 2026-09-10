@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 09:23 JST／対象: 09/09 21:23 〜 09/10 09:23 JST（時刻はすべて日本時間）
+生成: 2026-09-10 09:48 JST／対象: 09/09 21:48 〜 09/10 09:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 09/09 21:27 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 124 | 09/09 21:35 | 09/10 09:23 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 152 | 09/09 21:55 | 09/10 09:20 | ⚠ 59分（07:00→08:00） |
+| DeItaone | 35 | 09/09 22:13 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
+| FirstSquawk | 131 | 09/09 21:49 | 09/10 09:48 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 154 | 09/09 21:55 | 09/10 09:25 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 305 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 313 行（統合前 322 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 21:27 [DeItaone] AI BOOM DRIVES S&P 500 EARNINGS HIGHER S&P 500 earnings estimates are rising sharply, fueled by AI investment and stronger-than-expected corporate results. About 86% of companies beat analyst expectations, the highest share since 2021. Wall…
-- 09/09 21:35 [FirstSquawk] US 10-YEAR TREASURY YIELDS RISE TO 4.8184%, HIGHEST SINCE NOVEMBER 2023
-- 09/09 21:40 [FirstSquawk] GOLDMAN SACHS CEO: U.S. NEEDS STRONGER GROWTH TO KEEP PACE WITH RISING DEBT Goldman Sachs CEO David Solomon says the U.S. needs consistently higher economic growth to sustain its current levels of government spending and debt. He argues tha…
-- 09/09 21:46 [FirstSquawk] SINGAPORE REFINER ASTER IS SOURCING CRUDE OIL FROM LATIN AMERICA AND WEST AFRICA TO SUBSTITUTE MIDDLE EASTERN SUPPLIES.
 - 09/09 21:49 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: RUSSIA TRIES TO INTIMIDATE AND DESTABILIZE OUR SOCIETY AND TAKEN MORE AND MORE RISKS IN DOING SO
 - 09/09 21:54 [FirstSquawk] DBS DISMISSES S$1.3B LAWSUIT RELATED TO 1MDB BY LIQUIDATORS.
 - 09/09 21:55 [financialjuice] US REDBOOK YOY ACTUAL 8.3% (FORECAST -, PREVIOUS 9.6%) $MACRO
@@ -329,3 +325,15 @@
 - 09/10 09:20 [financialjuice] China PBOC likely to fix yuan midpoint at 6.7074 per dollar: estimate
 - 09/10 09:21 [FirstSquawk] SAMSUNG ELECTRONICS SEES SOCIAL-MEDIA ACTIVITY TRIPLE TO 10 FINANCIALLY FOCUSED POSTS IN 30 MINUTES, WELL ABOVE THE AVERAGE OF THREE, AMID BUZZ AROUND ITS AI-CHIP WORK WITH OPENAI AND UPCOMING FOLDABLES. THE SURGE FOLLOWS OTHER AI-RELATED D…
 - 09/10 09:23 [FirstSquawk] Brent closes up, with missing barrels and a widening conflict driving the broader oil narrative.
+- 09/10 09:24 [financialjuice] Southcom: carried out lethal kinetic strike on fast-moving vessel along narco-trafficking routes in Caribbean
+- 09/10 09:25 [FirstSquawk] ENBRIDGE IS IN ADVANCED TALKS TO ACQUIRE THE 900-MILE PONY EXPRESS PIPELINE FROM BLACKSTONE-OWNED TALLGRASS ENERGY FOR ABOUT $2 BILLION, WITH A DEAL POSSIBLY ANNOUNCED WITHIN DAYS.
+- 09/10 09:25 [FirstSquawk] Aussie dollar extends gains to a fresh mid-May high as a weaker US dollar and prospects for RBA tightening boost the currency.
+- 09/10 09:25 [financialjuice] Regulators probe Nvidia’s licensing arrangement with Grog: NYT
+- 09/10 09:26 [FirstSquawk] U.S. SOUTHERN COMMAND SAYS THAT ON SEPTEMBER 9, UNDER THE DIRECTION OF SOUTHCOM, JOINT TASK FORCE WESTERN HEMISPHERE EXECUTED A LETHAL KINETIC STRIKE ON A GO-FAST VESSEL OPERATING ALONG ESTABLISHED NARCO-TRAFFICKING ROUTES IN THE CARIBBEAN,…
+- 09/10 09:26 [FirstSquawk] Nvidia’s agreement to license Groq’s AI inference technology is facing regulatory scrutiny, according to a New York Times report.
+- 09/10 09:27 [FirstSquawk] BRENT CRUDE CLIMBED ABOVE $100 A BARREL AS RENEWED U.S.-IRAN ATTACKS THREATENED OIL SUPPLIES AND SHIPPING THROUGH THE STRAIT OF HORMUZ, WHERE ROUGHLY ONE-FIFTH OF GLOBAL OIL SUPPLY PASSED BEFORE THE CONFLICT, WITH THE LATEST ESCALATION FOLL…
+- 09/10 09:30 [FirstSquawk] Canada’s trade tribunal says a surge in imported canned vegetables, led largely by U.S. shipments, has caused significant harm to the country’s domestic food-processing industry as per wall street journal.
+- 09/10 09:40 [FirstSquawk] 2-year Japanese government bond yield moves 1 bp higher to 1.84%.
+- 09/10 09:41 [FirstSquawk] Major Korean banks maintain stable prospects as resilient fundamentals support their credit profiles, Fitch says.
+- 09/10 09:41 [FirstSquawk] A suspected drug-trafficking boat was hit by U.S. forces in the Caribbean Sea, Southern Command says.
+- 09/10 09:48 [FirstSquawk] Business sentiment among U.S. firms in China has improved sharply as the latest U.S.-China trade truce reduces tensions.

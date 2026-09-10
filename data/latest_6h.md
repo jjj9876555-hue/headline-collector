@@ -7,51 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 09:23 JST／対象: 09/10 03:23 〜 09/10 09:23 JST（時刻はすべて日本時間）
+生成: 2026-09-10 09:48 JST／対象: 09/10 03:48 〜 09/10 09:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 09/10 03:29 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 49 | 09/10 03:43 | 09/10 09:23 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 65 | 09/10 03:27 | 09/10 09:20 | ⚠ 59分（07:00→08:00） |
+| DeItaone | 4 | 09/10 05:08 | 09/10 06:22 | ⚠ 60分（05:08→06:08） |
+| FirstSquawk | 53 | 09/10 03:51 | 09/10 09:48 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 52 | 09/10 03:55 | 09/10 09:25 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 122 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 106 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 03:27 [financialjuice] LIVE: President Donald Trump Heads to Dallas for Historic Republican Midterm Convention | AC15
-- 09/10 03:28 [financialjuice] Trump: The economy is very strong; we're going to explain that.
-- 09/10 03:29 [financialjuice] Trump on Gasoline Price: Can't let Iran have nuclear weapons.
-- 09/10 03:29 [DeItaone] TRUMP: OIL PRICES WILL TUMBLE AFTER ELECTION
-- 09/10 03:29 [financialjuice] Trump: After the election, oil prices will tumble.
-- 09/10 03:30 [financialjuice/DeItaone] Trump on Gasoline Price: It will take a little bit longer.
-- 09/10 03:30 [financialjuice] Trump: Will get gasoline down below $2.
-- 09/10 03:31 [financialjuice] Trump: Had a great conversation with Putin. He wants to make a deal.
-- 09/10 03:31 [DeItaone] TRUMP: GREAT CONVERSATION WITH RUSSIA'S PUTIN
-- 09/10 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $96.05 a barrel, up $3.02, 3.25%.
-- 09/10 03:32 [financialjuice] NYMEX Diesel October futures settle at $4.8010 a gallon.
-- 09/10 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.2106 a gallon.
-- 09/10 03:32 [financialjuice] Trump on Iran: Will be speaking to Israel about sanctions imposed on West Bank settlements.
-- 09/10 03:33 [DeItaone] TRUMP: BILATERAL MEETING COULD HAPPEN
-- 09/10 03:33 [DeItaone] TRUMP ON IRAN: WAR IN IRAN WILL END IMMEDIATELY AFTER ELECTION
-- 09/10 03:33 [financialjuice] NYMEX Natural Gas October futures settle at $2.8220/MMBTU.
-- 09/10 03:33 [DeItaone] TRUMP ON IRAN: I'M DOING MUCH MORE THAN A NUCLEAR DEAL
-- 09/10 03:34 [financialjuice] Trump on Iran: I'm doing much more than a nuclear deal, many things on table.
-- 09/10 03:34 [financialjuice] Trump on Iran: We're not looking for a deal, but negotiation could happen
-- 09/10 03:34 [DeItaone] TRUMP ON IRAN: WE'RE NOT LOOKING FOR A DEAL
-- 09/10 03:34 [DeItaone] TRUMP ON IRAN: NEGOTIATION COULD HAPPEN
-- 09/10 03:41 [financialjuice] Brent crude futures settle at $101.21/bbl, up $3.29, 3.36%
-- 09/10 03:43 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $96.05/BBL, SURGING $3.02 OR 3.25%
-- 09/10 03:43 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $101.21/BBL, SURGING $3.29 OR 3.36%
-- 09/10 03:44 [FirstSquawk] U.S. PRESIDENT TRUMP SAYS THAT 'SHORTLY, RIGHT AFTER THE ELECTION, OIL PRICES WILL COME TUMBLING DOWN BELOW $2/GALLON', THOUGH HE ADDS 'I THINK IT'S GOING TO TAKE A LITTLE BIT LONGER THAN THE MIDTERMS'
-- 09/10 03:44 [FirstSquawk] TRUMP: US HAS DESTROYED 9 IRANIAN OIL TANKERS IN HORMUZ STRIKES, EXPECTS “A LOT MORE” ACTION; SAYS THE WAR COULD END AFTER THE ELECTION, WHILE LEAVING OPEN THE POSSIBILITY OF NEGOTIATIONS AND A BROADER DEAL BEYOND NUCLEAR ISSUES.
-- 09/10 03:44 [FirstSquawk] US PRESIDENT TRUMP ON PUTIN: HAD GREAT CONVERSATION, BILATERAL MEETING COULD HAPPEN
-- 09/10 03:45 [FirstSquawk] DISNEY CFO: COMPANY HAS BUILT A “ONE FAN, ONE ACCOUNT” ECOSYSTEM CONNECTING HULU & DISNEY+ PROFILES; DISNEY+ POSTED A 13% MARGIN LAST QUARTER, WITH DOUBLE-DIGIT FULL-YEAR MARGINS EXPECTED, WHILE PRIORITIZING REVENUE GROWTH OVER MARGIN EXPAN…
 - 09/10 03:51 [FirstSquawk] RUBIO: US TO SEEK ADDITIONAL $45M IN SECURITY FUNDING FOR ECUADOR, INCLUDING ADDITIONAL EQUIPMENT.
 - 09/10 03:54 [FirstSquawk] APPLE'S FOLDABLE IPHONE EVENT — KEY TAKEAWAYS • APPLE IS POSITIONING THE IPHONE AS THE CENTRAL AI DEVICE FOR THE NEXT ERA OF COMPUTING. • THE NEW IPHONE DUO FOLDABLE STARTS AT $1,999, WITH A DISTINCT USER INTERFACE AND COMPETITIVE CAMERA FE…
 - 09/10 03:55 [financialjuice] Brent and US crude futures settle at their highest close since May 22nd.
@@ -146,3 +118,15 @@
 - 09/10 09:20 [financialjuice] China PBOC likely to fix yuan midpoint at 6.7074 per dollar: estimate
 - 09/10 09:21 [FirstSquawk] SAMSUNG ELECTRONICS SEES SOCIAL-MEDIA ACTIVITY TRIPLE TO 10 FINANCIALLY FOCUSED POSTS IN 30 MINUTES, WELL ABOVE THE AVERAGE OF THREE, AMID BUZZ AROUND ITS AI-CHIP WORK WITH OPENAI AND UPCOMING FOLDABLES. THE SURGE FOLLOWS OTHER AI-RELATED D…
 - 09/10 09:23 [FirstSquawk] Brent closes up, with missing barrels and a widening conflict driving the broader oil narrative.
+- 09/10 09:24 [financialjuice] Southcom: carried out lethal kinetic strike on fast-moving vessel along narco-trafficking routes in Caribbean
+- 09/10 09:25 [FirstSquawk] ENBRIDGE IS IN ADVANCED TALKS TO ACQUIRE THE 900-MILE PONY EXPRESS PIPELINE FROM BLACKSTONE-OWNED TALLGRASS ENERGY FOR ABOUT $2 BILLION, WITH A DEAL POSSIBLY ANNOUNCED WITHIN DAYS.
+- 09/10 09:25 [FirstSquawk] Aussie dollar extends gains to a fresh mid-May high as a weaker US dollar and prospects for RBA tightening boost the currency.
+- 09/10 09:25 [financialjuice] Regulators probe Nvidia’s licensing arrangement with Grog: NYT
+- 09/10 09:26 [FirstSquawk] U.S. SOUTHERN COMMAND SAYS THAT ON SEPTEMBER 9, UNDER THE DIRECTION OF SOUTHCOM, JOINT TASK FORCE WESTERN HEMISPHERE EXECUTED A LETHAL KINETIC STRIKE ON A GO-FAST VESSEL OPERATING ALONG ESTABLISHED NARCO-TRAFFICKING ROUTES IN THE CARIBBEAN,…
+- 09/10 09:26 [FirstSquawk] Nvidia’s agreement to license Groq’s AI inference technology is facing regulatory scrutiny, according to a New York Times report.
+- 09/10 09:27 [FirstSquawk] BRENT CRUDE CLIMBED ABOVE $100 A BARREL AS RENEWED U.S.-IRAN ATTACKS THREATENED OIL SUPPLIES AND SHIPPING THROUGH THE STRAIT OF HORMUZ, WHERE ROUGHLY ONE-FIFTH OF GLOBAL OIL SUPPLY PASSED BEFORE THE CONFLICT, WITH THE LATEST ESCALATION FOLL…
+- 09/10 09:30 [FirstSquawk] Canada’s trade tribunal says a surge in imported canned vegetables, led largely by U.S. shipments, has caused significant harm to the country’s domestic food-processing industry as per wall street journal.
+- 09/10 09:40 [FirstSquawk] 2-year Japanese government bond yield moves 1 bp higher to 1.84%.
+- 09/10 09:41 [FirstSquawk] Major Korean banks maintain stable prospects as resilient fundamentals support their credit profiles, Fitch says.
+- 09/10 09:41 [FirstSquawk] A suspected drug-trafficking boat was hit by U.S. forces in the Caribbean Sea, Southern Command says.
+- 09/10 09:48 [FirstSquawk] Business sentiment among U.S. firms in China has improved sharply as the latest U.S.-China trade truce reduces tensions.
