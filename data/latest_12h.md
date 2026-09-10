@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 03:36 JST／対象: 09/10 15:36 〜 09/11 03:36 JST（時刻はすべて日本時間）
+生成: 2026-09-11 03:53 JST／対象: 09/10 15:53 〜 09/11 03:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 51 | 09/10 16:41 | 09/11 03:30 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 188 | 09/10 15:38 | 09/11 03:04 | 26分（00:31→00:58） |
-| financialjuice | 222 | 09/10 17:00 | 09/11 03:34 | ⚠ 48分（17:04→17:53） |
+| DeItaone | 52 | 09/10 16:41 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
+| FirstSquawk | 200 | 09/10 15:55 | 09/11 03:53 | 32分（03:04→03:37） |
+| financialjuice | 223 | 09/10 17:00 | 09/11 03:44 | ⚠ 48分（17:04→17:53） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 443 行（統合前 466 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 455 行（統合前 480 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 15:38 [FirstSquawk] Iran’s growing ability to strike ships may have benefited from Russian or Chinese technology, according to WSJ sources.
-- 09/10 15:44 [FirstSquawk] Nissan plans to consolidate Serena and Elgrand manufacturing at the Tochigi plant, shifting production from Kyushu.
-- 09/10 15:45 [FirstSquawk] South Korea’s top diplomat says a meeting with U.S. Secretary of State Rubio is planned for September.
-- 09/10 15:52 [FirstSquawk] Ukraine targeted a Russian port in Dagestan, according to Zelenskyy.
 - 09/10 15:55 [FirstSquawk] UAE and China move to strengthen business ties with a new Business Advisory Committee.
 - 09/10 15:58 [FirstSquawk] Ministry of Investment will facilitate the committee’s integration with the broader high-level committee structure.
 - 09/10 15:58 [FirstSquawk] UAE Ministry of Investment says FCCI UAE will oversee engagement and implementation efforts.
@@ -456,8 +452,8 @@
 - 09/11 03:05 [financialjuice] Treasury receives $10.489 bln of offers for buyback, accepts $5.19 bln
 - 09/11 03:05 [financialjuice] Treasury accepts 23 of 40 eligible issues in debt buyback.
 - 09/11 03:06 [financialjuice] Canada's PM Carney: I spoke to Trump in recent days.
-- 09/11 03:07 [financialjuice] Iran's President Pezeshkian will travel to New Delhi tomorrow to participate in the 18th BRICS Summit - Fars News
-- 09/11 03:17 [financialjuice] Israel's Prime Minister Netanyahu: IDF destroys Hezbollah facilities at Ali Taher ridge.
+- 09/11 03:07 [financialjuice/FirstSquawk] Iran's President Pezeshkian will travel to New Delhi tomorrow to participate in the 18th BRICS Summit - Fars News
+- 09/11 03:17 [financialjuice/FirstSquawk] Israel's Prime Minister Netanyahu: IDF destroys Hezbollah facilities at Ali Taher ridge.
 - 09/11 03:30 [DeItaone] BRENT CRUDE FUTURES RISE BY $7 A BARREL AS US-IRAN CONFLICT INTENSIFIES
 - 09/11 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $5.0575 a gallon
 - 09/11 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.3932 a gallon
@@ -467,3 +463,19 @@
 - 09/11 03:34 [financialjuice] US Official: Offloadings of Iranian oil down to 0.9 mb/d from 1.4 mb/d before war.
 - 09/11 03:34 [financialjuice] US Official: Loadings of Iranian oil at about 0.2 mln barrels per day over past 30 days, down from 1.8 mln barrels per day in January/February
 - 09/11 03:34 [financialjuice] US Treasury announces new sanctions against entities supporting Iran's proxies in Middle East, including Iraqi business executives.
+- 09/11 03:39 [FirstSquawk] IRAN PRESIDENT PEZESHKIAN TO TRAVEL TO NEW DELHI ON FRIDAY FOR 18TH BRICS SUMMIT — FARS NEWS
+- 09/11 03:41 [DeItaone] U.S. CONTAINER IMPORTS HIT THIRD-HIGHEST LEVEL EVER U.S. container imports reached 2.6 million TEUs in August, the third-highest monthly level on record, according to Descartes. Volumes rose 3% year-over-year and 22% versus August 2019, sig…
+- 09/11 03:41 [FirstSquawk] U.S. TREASURY ANNOUNCES NEW SANCTIONS ON ENTITIES SUPPORTING IRANIAN PROXIES, WHILE MOST OUTSTANDING IRAN-RELATED LICENSING REQUESTS FACE DENIAL
+- 09/11 03:41 [FirstSquawk] IRANIAN OIL LOADINGS PLUNGE TO 0.2M BPD FROM 1.8M BPD IN JAN/FEB, WHILE OFFLOADINGS FALL TO 0.9M BPD FROM 1.4M BPD BEFORE THE WAR
+- 09/11 03:41 [FirstSquawk] IRANIAN OR SUSPECTED IRANIAN OIL ON WATER DROPS TO 110M BARRELS FROM 180M BARRELS BEFORE THE WAR, SIGNALING SHARPLY TIGHTER OIL FLOWS
+- 09/11 03:42 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $102.48/BBL, UP $6.43 OR 6.69%
+- 09/11 03:44 [financialjuice] Brent Crude futures settle at $107.63/bbl, up $6.42, 6.34%
+- 09/11 03:46 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $107.63/BBL, UP $6.42 OR 6.34%
+- 09/11 03:50 [FirstSquawk] UKRAINE STRIKES RUSSIA’S NOVOROSSIYSK NAVAL BASE WITH A COMBINED DRONE AND MISSILE ATTACK, WITH THE GENERAL STAFF REPORTING THREE WARSHIPS HIT ALONG WITH FUEL STORAGE, WHILE UKRAINIAN INTELLIGENCE AND OSINT REPORT ADDITIONAL DAMAGE. - SOURC…
+- 09/11 03:50 [FirstSquawk] UKRAINE ALSO STRUCK MAKHACHKALA PORT ON THE CASPIAN, A KEY RUSSIA-IRAN LOGISTICS HUB, AS ZELENSKY SAYS EIGHT RUSSIAN INFRASTRUCTURE SITES WERE HIT FROM THE ARCTIC TO THE CASPIAN. - SOURCES
+- 09/11 03:51 [FirstSquawk] MARCO RUBIO WELCOMES PERU JOINING THE SHIELD OF THE AMERICAS, SAYING THE INITIATIVE WILL PROTECT THE SOVEREIGNTY OF INDEPENDENT NATIONS AND COUNTER TRANSNATIONAL CRIMINAL GROUPS.
+- 09/11 03:51 [FirstSquawk] MARCO RUBIO SAYS THESE GROUPS IN SOME CASES HAVE MORE MONEY AND BETTER MILITARY EQUIPMENT THAN STATES, CALLING FOR A FORCEFUL RESPONSE TO DEFEAT THE THREAT.
+- 09/11 03:51 [FirstSquawk] MARCO RUBIO SAYS “GEOGRAPHY IS REAL” AND ARGUES THAT EVENTS IN THE WESTERN HEMISPHERE DIRECTLY AFFECT THE UNITED STATES, MAKING US ENGAGEMENT IN THE REGION ESSENTIAL.
+- 09/11 03:51 [FirstSquawk] MARCO RUBIO SAYS US INVOLVEMENT IS NOT AN ACT OF FAVOUR, BUT IS CRITICAL TO AMERICAN SECURITY, PROSPERITY AND WELLBEING.
+- 09/11 03:53 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE RECEIVES “48” CHANTS AT A CLOSED-DOOR REPUBLICAN CONVENTION BREAKFAST IN DALLAS, SIGNALING GROWING GOP ENTHUSIASM AROUND A POTENTIAL 2028 PRESIDENTIAL RUN. - POLITICO
+- 09/11 03:53 [FirstSquawk] U.S. VICE PRESIDENT VANCE URGES REPUBLICANS TO “NATIONALIZE” THE 2026 MIDTERMS, WARNING THAT A DEMOCRATIC CONGRESS WOULD REVERSE GOP TAX AND ECONOMIC POLICIES AND LAUNCH INVESTIGATIONS. - POLITICO
