@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 07:32 JST／対象: 09/10 19:32 〜 09/11 07:32 JST（時刻はすべて日本時間）
+生成: 2026-09-11 07:44 JST／対象: 09/10 19:44 〜 09/11 07:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 09/10 19:33 | 09/11 07:31 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 182 | 09/10 19:34 | 09/11 06:26 | ⚠ 48分（05:38→06:26） |
+| DeItaone | 41 | 09/10 19:57 | 09/11 07:31 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 182 | 09/10 19:46 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
 | financialjuice | 240 | 09/10 19:45 | 09/11 07:30 | 39分（05:24→06:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 442 行（統合前 470 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 441 行（統合前 469 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 19:33 [DeItaone] WHITE HOUSE HESITATES ON COPPER TARIFFS The White House has not yet decided on refined copper tariffs, as officials weigh boosting U.S. production against higher manufacturing costs ahead of the midterms. Copper prices have already hit reco…
-- 09/10 19:34 [FirstSquawk] LME COPPER DROPS 2% AFTER RTRS REPORT ON TARIFF COST CONCERNS
-- 09/10 19:42 [FirstSquawk] USD/JPY EXTENDS GAINS, RISES 0.3% TO DAY HIGH AT 154.08
-- 09/10 19:43 [FirstSquawk] 20 PEOPLE DIED AFTER CHINA SHIPYARD FIRE: CCTV
 - 09/10 19:45 [financialjuice/FirstSquawk] Yemen’s Houthis seize Mokha and its port - NYT
 - 09/10 19:47 [FirstSquawk] CHINA TO HOST APEC SUMMIT IN SHENZHEN NOV 17-18 - XINHUA
 - 09/10 19:47 [financialjuice] China to host APEC summit in Shenzhen November 17-18 - Xinhua.
@@ -466,3 +462,6 @@
 - 09/11 07:30 [financialjuice] NEW ZEALAND MANUFACTURING PMI ACTUAL 53.1 (FORECAST -, PREVIOUS 54.3) $MACRO
 - 09/11 07:30 [financialjuice] New Zealand August s/adj PMI at 53.1: Business NZ/Bank NZ survey
 - 09/11 07:31 [DeItaone] BESSENT DISMISSES TREASURY MARKET CONCERNS Treasury Secretary Scott Bessent says the bond market remains in “very good shape” despite 10-year yields reaching their highest since 2023. He also downplayed Thursday’s smaller-than-expected buyb…
+- 09/11 07:37 [FirstSquawk] ORACLE CFO EXPECTS AROUND HALF OF ITS RPO TO CONVERT INTO REVENUE OVER THE NEXT 36 MONTHS, WITH NEW REVENUE BACKLOG NOT EXPECTED TO IMPACT REVENUE OR CAPEX UNTIL FY2028 OR LATER.
+- 09/11 07:38 [FirstSquawk] US TREASURY SECRETARY SCOTT BESSENT SAYS THE TREASURY MARKET IS IN VERY GOOD SHAPE AND EXPECTS THE U.S. ECONOMY TO MOVE PAST THE CURRENT ENERGY SUPPLY SHOCK, ADDING THAT THE U.S. HAS THE BEST-PERFORMING BOND MARKET GLOBALLY.
+- 09/11 07:38 [FirstSquawk] BESSENT SAYS THE TREASURY IS PLANNING TO SANCTION A LARGE BANK ON MONDAY, SIGNALING FURTHER PRESSURE ON THE FINANCIAL SECTOR.
