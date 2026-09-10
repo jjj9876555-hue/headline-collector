@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 08:42 JST／対象: 09/10 20:42 〜 09/11 08:42 JST（時刻はすべて日本時間）
+生成: 2026-09-11 08:52 JST／対象: 09/10 20:52 〜 09/11 08:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 09/10 20:46 | 09/11 08:41 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 169 | 09/10 20:43 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
-| financialjuice | 232 | 09/10 20:42 | 09/11 08:01 | 39分（05:24→06:04） |
+| DeItaone | 40 | 09/10 20:59 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 168 | 09/10 20:54 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
+| financialjuice | 236 | 09/10 21:00 | 09/11 08:50 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 425 行（統合前 447 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 429 行（統合前 450 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 20:42 [financialjuice/FirstSquawk] IAEA sees evidence of activity by Iran's Pickaxe Mountain.
-- 09/10 20:46 [DeItaone] US, IRAN PREPARE FOR PROTRACTED WAR Iran and the U.S. are reportedly preparing for a potentially prolonged conflict, with little sign of an imminent ceasefire or normalization of Middle East energy flows. Bloomberg reports Tehran remains co…
-- 09/10 20:48 [DeItaone] HOUTHIS CLOSE IN ON KEY RED SEA CHOKEPOINT Iran-aligned Houthis have seized Yemen’s port city of Mocha and are pushing toward Dhubab and the Bab el-Mandeb Strait, according to Reuters sources. Control of the strategic waterway could allow t…
 - 09/10 20:54 [FirstSquawk] STELLANTIS OPEL COMBO START IS NOW AVAILABLE TO ORDER AT PRICE STARTING FROM €22,400
 - 09/10 20:56 [FirstSquawk] UK 10-YEAR YIELD ADVANCES 3BPS TO 5.29%, HIGHEST SINCE 2007
 - 09/10 20:59 [DeItaone] TRUMP TOUTS “SOLD OUT” GOP MIDTERM CONVENTION President Donald Trump claimed the Republican Midterm Convention in Dallas drew record attendance and stronger overall viewership than the NFL. Trump said thousands were unable to enter the pack…
@@ -449,3 +446,10 @@
 - 09/11 08:32 [DeItaone] *TRUMP: MAYBE I DON'T GO FULL INTO IRAN BECAUSE OF ELECTION
 - 09/11 08:39 [DeItaone] U.S. DIESEL BREAKS $6 FOR FIRST TIME EVER The U.S. average diesel price surpassed $6 a gallon for the first time, according to GasBuddy, up nearly 60% since the Iran war began. Supply remains extremely tight, with U.S. diesel inventories 13…
 - 09/11 08:41 [DeItaone] APPLE’S $1,999 FOLDABLE FACES DEMAND TEST Apple’s new iPhone Duo starts at $1,999, but analysts question whether its appeal can extend beyond wealthy early adopters. Counterpoint still expects Apple to sell nearly 6 million units by year-en…
+- 09/11 08:47 [DeItaone] TRUMP SUGGESTS ELECTION MAY LIMIT IRAN ESCALATION President Donald Trump said the upcoming election could influence whether the U.S. goes “fully” into Iran, while insisting he has no regrets over the conflict. Trump also claimed the U.S. co…
+- 09/11 08:48 [DeItaone] TRUMP SAYS IRAN WAR TO END AFTER MIDTERMS President Donald Trump reiterated that he expects the war with Iran to end “right after” the midterm elections, saying Tehran is “in deep trouble.” Trump also claimed Iran’s missile stockpile has be…
+- 09/11 08:50 [financialjuice] JAPANESE BUSINESS SURVEY INDEX ACTUAL 7.6% (FORECAST -, PREVIOUS -1.8%) $MACRO
+- 09/11 08:50 [financialjuice] ❗ JAPANESE PPI YOY ACTUAL 7.6% (FORECAST 7.4%, PREVIOUS 7.2%) $MACRO
+- 09/11 08:50 [financialjuice] ❗ JAPANESE PPI MOM ACTUAL -0.2% (FORECAST 0%, PREVIOUS 0.1%) $MACRO
+- 09/11 08:50 [financialjuice] Japan Aug domestic CGPI falls 0.2% month-on-month, BoJ: poll 0.0%
+- 09/11 08:50 [financialjuice] Japan Aug domestic corporate goods price index up 7.6% yr/yr: BoJ (Poll +7.4%)
