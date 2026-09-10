@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 07:58 JST／対象: 09/10 19:58 〜 09/11 07:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 08:14 JST／対象: 09/10 20:14 〜 09/11 08:14 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 09/10 19:59 | 09/11 07:31 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 177 | 09/10 19:58 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
-| financialjuice | 235 | 09/10 20:00 | 09/11 07:30 | 39分（05:24→06:04） |
+| DeItaone | 38 | 09/10 20:28 | 09/11 07:31 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 173 | 09/10 20:15 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
+| financialjuice | 234 | 09/10 20:38 | 09/11 08:01 | 39分（05:24→06:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 435 行（統合前 458 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 428 行（統合前 451 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 19:58 [FirstSquawk] IRAQ'S IOTC TENDERS FOR OIL SUPERTANKERS FOR 180-DAY PERIOD
-- 09/10 19:59 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:15 AM ET — 🇪🇺 ECB Rate Decision 8:30 AM ET — 🇺🇸 PPI + Jobless Claims 8:45 AM ET — 🇪🇺 Lagarde Press Conference 10:00 AM ET — 🏠 Existing Home Sales 10:30 AM ET — 🔥 EIA Natural Gas Storage 12:00 PM ET — …
-- 09/10 20:00 [FirstSquawk] TURKEY LEAVES ONE-WEEK REPO RATE AT 37%; EST. 37.00%
-- 09/10 20:00 [financialjuice] TURKISH WEEKLY REPO RATE ACTUAL 37% (FORECAST 37%, PREVIOUS 37.00%) $MACRO
-- 09/10 20:00 [FirstSquawk] RUSSIAN BANK REPORTS 25% OF CORPORATE LOANS AS TROUBLESOME.
-- 09/10 20:01 [financialjuice] UKMTO: Has received a report of an incident 98NM Southwest of Al Mukalla, Yemen.
-- 09/10 20:04 [DeItaone] 📅 PRESIDENT TRUMP — THURSDAY SCHEDULE 8:00 AM CT — Executive Time — Dallas 12:00 PM CT — Tours the National Medal of Honor Museum — Arlington 12:30 PM CT — Delivers remarks at the museum 5:15 PM CT — Participates in RNC Roundtable — Dallas …
-- 09/10 20:10 [FirstSquawk] Macy’s Q2 2026 Earnings - Comp Sales +2.7% (est +0.86%) - Adj EPS 63C (est 36C) - Net Sales $4.87B, +1.1% Y/Y - Gross Margin 41.5% (est 39.7%) - Sees FY Net Sales $21.68B To $21.83B, Saw $21.58 To $21.75B - Sees FY Adj EPS $2.15 To $2.35, S…
 - 09/10 20:15 [FirstSquawk] KREMLIN: RUSSIA WILL DISCUSS TRADE SETTLEMENTS IN DIGITAL CURRENCIES WITH BRICS+ PARTNERS AT SUMMIT IN INDIA
 - 09/10 20:28 [DeItaone] $SPCX - UK DEEPENS SPACEX RELIANCE WITH $40 MILLION SATELLITE SPEND Britain has spent nearly $40 million on SpaceX satellite services, becoming the first country outside the U.S. to publicly acknowledge adopting Starshield. The UK military …
 - 09/10 20:33 [FirstSquawk] KREMLIN: RUSSIA WILL CONTINUE TO DESTROY VESSELS TRANSPORTING AMMUNITION FOR UKRAINE IN BLACK SEA
@@ -459,3 +451,4 @@
 - 09/11 07:37 [FirstSquawk] ORACLE CFO EXPECTS AROUND HALF OF ITS RPO TO CONVERT INTO REVENUE OVER THE NEXT 36 MONTHS, WITH NEW REVENUE BACKLOG NOT EXPECTED TO IMPACT REVENUE OR CAPEX UNTIL FY2028 OR LATER.
 - 09/11 07:38 [FirstSquawk] US TREASURY SECRETARY SCOTT BESSENT SAYS THE TREASURY MARKET IS IN VERY GOOD SHAPE AND EXPECTS THE U.S. ECONOMY TO MOVE PAST THE CURRENT ENERGY SUPPLY SHOCK, ADDING THAT THE U.S. HAS THE BEST-PERFORMING BOND MARKET GLOBALLY.
 - 09/11 07:38 [FirstSquawk] BESSENT SAYS THE TREASURY IS PLANNING TO SANCTION A LARGE BANK ON MONDAY, SIGNALING FURTHER PRESSURE ON THE FINANCIAL SECTOR.
+- 09/11 08:01 [financialjuice] Meta declares quarterly cash dividend of $0.53 per share payable Sept. 28, 2026

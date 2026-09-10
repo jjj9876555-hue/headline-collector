@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 07:58 JST／対象: 09/11 01:58 〜 09/11 07:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 08:14 JST／対象: 09/11 02:14 〜 09/11 08:14 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/11 02:18 | 09/11 07:31 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 69 | 09/11 02:01 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
-| financialjuice | 53 | 09/11 02:00 | 09/11 07:30 | 39分（05:24→06:04） |
+| FirstSquawk | 66 | 09/11 02:32 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
+| financialjuice | 48 | 09/11 02:24 | 09/11 08:01 | 39分（05:24→06:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 125 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 117 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 02:00 [financialjuice] Treasury WI 30-year yield 5.335% before $22 billion auction.
-- 09/11 02:01 [FirstSquawk] FLOTEK $FTK BOOSTS 2026 GUIDANCE AGAIN, TARGETS 54% REVENUE GROWTH & 58% ADJUSTED EBITDA GROWTH AT MIDPOINTS $FTK
-- 09/11 02:02 [financialjuice] US 30-YEAR BOND HIGH YIELD ACTUAL 5.308% (FORECAST -, PREVIOUS 5.216%) $MACRO
-- 09/11 02:02 [financialjuice] US 30-YEAR BOND BID-TO-COVER ACTUAL 2.610 (FORECAST -, PREVIOUS 2.390) $MACRO
-- 09/11 02:02 [financialjuice] US 30-Year Bond Auction High Yield 5.308% (Stopped through by 2.7 basis points) Bid-to-cover 2.61 Sells $22 bln Awards 64.29% of bids at high Primary Dealers take 2.21% Direct 18.31% Indirect 79.48% 13:02 Sep 10US Bonds
-- 09/11 02:04 [financialjuice] Moonshot secretly routed user requests through Claude and Anthropic.
-- 09/11 02:04 [financialjuice] Anthropic: Spotted nearly 300,000 customer requests that moonshot sent primarily to Anthropic’s Opus AI model
-- 09/11 02:11 [FirstSquawk] US 30-Year Bond Sale: - High Yield Rate: 5.308% (prev 5.216%)- Bid-Cover Ratio: 2.61 (prev 2.39)- Direct Accepted: 18.3% (prev 21.6%)- Indirect Accepted: 79.5% (prev 66.8%)- WI: 5.335%
-- 09/11 02:11 [FirstSquawk] UBER $UBER CEO DARA KHOSROWSHAHI FILES TO BUY 141,000 SHARES AT $70.96 AVERAGE, WORTH ~$10M $UBER
 - 09/11 02:18 [DeItaone] $NVDA - NVIDIA’S HUANG SEES CYBERSECURITY AS AI’S NEXT BIG MARKET Nvidia CEO Jensen Huang says cybersecurity will likely become AI’s next major use case, as AI-generated code accelerates both software development and vulnerabilities. Huang …
 - 09/11 02:24 [financialjuice] LIVE: President Trump Delivers Remarks At National Medal Of Honor Museum In Arlington, TX
 - 09/11 02:25 [DeItaone] *DRUCKENMILLER SAYS US BORROWING COSTS STILL ‘A LITTLE LOW’: FT
@@ -149,3 +140,4 @@
 - 09/11 07:37 [FirstSquawk] ORACLE CFO EXPECTS AROUND HALF OF ITS RPO TO CONVERT INTO REVENUE OVER THE NEXT 36 MONTHS, WITH NEW REVENUE BACKLOG NOT EXPECTED TO IMPACT REVENUE OR CAPEX UNTIL FY2028 OR LATER.
 - 09/11 07:38 [FirstSquawk] US TREASURY SECRETARY SCOTT BESSENT SAYS THE TREASURY MARKET IS IN VERY GOOD SHAPE AND EXPECTS THE U.S. ECONOMY TO MOVE PAST THE CURRENT ENERGY SUPPLY SHOCK, ADDING THAT THE U.S. HAS THE BEST-PERFORMING BOND MARKET GLOBALLY.
 - 09/11 07:38 [FirstSquawk] BESSENT SAYS THE TREASURY IS PLANNING TO SANCTION A LARGE BANK ON MONDAY, SIGNALING FURTHER PRESSURE ON THE FINANCIAL SECTOR.
+- 09/11 08:01 [financialjuice] Meta declares quarterly cash dividend of $0.53 per share payable Sept. 28, 2026
