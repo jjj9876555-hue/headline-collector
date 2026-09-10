@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 15:49 JST／対象: 09/09 15:49 〜 09/10 15:49 JST（時刻はすべて日本時間）
+生成: 2026-09-10 16:01 JST／対象: 09/09 16:01 〜 09/10 16:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 351 | 09/09 15:51 | 09/10 15:45 | ⚠ 126分（05:28→07:34） |
+| FirstSquawk | 356 | 09/09 16:06 | 09/10 16:01 | ⚠ 126分（05:28→07:34） |
 | financialjuice | 238 | 09/09 17:26 | 09/10 15:00 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 633 行（統合前 646 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 638 行（統合前 651 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 15:51 [FirstSquawk] Google Plans at Least €13 Billion Investment in Finnish AI Infrastructure Over 2027-2028, Yle Says
-- 09/09 15:58 [FirstSquawk] UK AIRPORTS WARN OF FURTHER TRAVEL DISRUPTION - FT
 - 09/09 16:06 [FirstSquawk] Beijing Unaware of Circumstances Surrounding Note to Philippine Defence Chief, Foreign Ministry Says; Position on South China Sea Arbitration Remains Unchanged
 - 09/09 16:07 [FirstSquawk] Beijing Calls on Some in Philippines to Cease Actions That Undermine China-Philippines Ties and South China Sea Stability
 - 09/09 16:09 [FirstSquawk] Paytm Clarifies Media Report on Its Plans for Workplace AI Agents Beyond Payments
@@ -657,3 +655,10 @@
 - 09/10 15:38 [FirstSquawk] Iran’s growing ability to strike ships may have benefited from Russian or Chinese technology, according to WSJ sources.
 - 09/10 15:44 [FirstSquawk] Nissan plans to consolidate Serena and Elgrand manufacturing at the Tochigi plant, shifting production from Kyushu.
 - 09/10 15:45 [FirstSquawk] South Korea’s top diplomat says a meeting with U.S. Secretary of State Rubio is planned for September.
+- 09/10 15:52 [FirstSquawk] Ukraine targeted a Russian port in Dagestan, according to Zelenskyy.
+- 09/10 15:55 [FirstSquawk] UAE and China move to strengthen business ties with a new Business Advisory Committee.
+- 09/10 15:58 [FirstSquawk] Ministry of Investment will facilitate the committee’s integration with the broader high-level committee structure.
+- 09/10 15:58 [FirstSquawk] UAE Ministry of Investment says FCCI UAE will oversee engagement and implementation efforts.
+- 09/10 15:58 [FirstSquawk] UAE Investment Ministry says it will facilitate stakeholder engagement and coordination across the broader investment ecosystem.
+- 09/10 15:59 [FirstSquawk] POTENTIAL US-SOUTH KOREA DEAL, WORTH OVER $100 BILLION, ENVISIONS SOUTH KOREA FINANCING UP TO 8 NUCLEAR POWER PLANTS AND A NATURAL-GAS PROJECT - WSJ
+- 09/10 16:01 [FirstSquawk] SPAIN (JUL) INDUSTRIAL OUTPUT NSA YOY ACTUAL: 2.6% VS 3.8% PREVIOUS

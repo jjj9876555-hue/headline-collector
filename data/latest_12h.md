@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 15:49 JST／対象: 09/10 03:49 〜 09/10 15:49 JST（時刻はすべて日本時間）
+生成: 2026-09-10 16:01 JST／対象: 09/10 04:01 〜 09/10 16:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/10 05:08 | 09/10 06:22 | ⚠ 60分（05:08→06:08） |
-| FirstSquawk | 185 | 09/10 03:51 | 09/10 15:45 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 107 | 09/10 03:55 | 09/10 15:00 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 189 | 09/10 04:02 | 09/10 16:01 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 104 | 09/10 04:20 | 09/10 15:00 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 293 行（統合前 297 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 295 行（統合前 298 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 03:51 [FirstSquawk] RUBIO: US TO SEEK ADDITIONAL $45M IN SECURITY FUNDING FOR ECUADOR, INCLUDING ADDITIONAL EQUIPMENT.
-- 09/10 03:54 [FirstSquawk] APPLE'S FOLDABLE IPHONE EVENT — KEY TAKEAWAYS • APPLE IS POSITIONING THE IPHONE AS THE CENTRAL AI DEVICE FOR THE NEXT ERA OF COMPUTING. • THE NEW IPHONE DUO FOLDABLE STARTS AT $1,999, WITH A DISTINCT USER INTERFACE AND COMPETITIVE CAMERA FE…
-- 09/10 03:55 [financialjuice] Brent and US crude futures settle at their highest close since May 22nd.
-- 09/10 03:55 [financialjuice/FirstSquawk] Pakistani Ambassador: We believe a better understanding will soon be reached between the United States and Iran - ISNA
-- 09/10 03:58 [financialjuice] Ukrainian Forces: Struck a Siberian gas facilities in Russia 3000 km distant.
 - 09/10 04:02 [FirstSquawk] ANTHROPIC IDENTIFIES A FOURTH CLAUDE SECURITY INCIDENT FROM JANUARY 2026 AND SAYS ALL FOUR INCIDENTS OCCURRED DURING CYBERSECURITY EVALUATIONS CONDUCTED BY THE SAME EVALUATION PARTNER.
 - 09/10 04:02 [FirstSquawk] ANTHROPIC HAS NOTIFIED AFFECTED PARTIES AND SIGNED AN AGREEMENT WITH METR TO CONDUCT AN INDEPENDENT INVESTIGATION INTO THE CLAUDE MODEL SECURITY INCIDENTS.
 - 09/10 04:02 [FirstSquawk] DISNEY SAYS IT HAS CREATED A “ONE FAN, ONE ACCOUNT” ECOSYSTEM LINKING HULU AND DISNEY+ PROFILES, WHILE DISNEY+ DELIVERED A 13% MARGIN LAST QUARTER AND IS EXPECTED TO POST DOUBLE-DIGIT MARGINS FOR THE FULL YEAR.
@@ -317,3 +312,10 @@
 - 09/10 15:38 [FirstSquawk] Iran’s growing ability to strike ships may have benefited from Russian or Chinese technology, according to WSJ sources.
 - 09/10 15:44 [FirstSquawk] Nissan plans to consolidate Serena and Elgrand manufacturing at the Tochigi plant, shifting production from Kyushu.
 - 09/10 15:45 [FirstSquawk] South Korea’s top diplomat says a meeting with U.S. Secretary of State Rubio is planned for September.
+- 09/10 15:52 [FirstSquawk] Ukraine targeted a Russian port in Dagestan, according to Zelenskyy.
+- 09/10 15:55 [FirstSquawk] UAE and China move to strengthen business ties with a new Business Advisory Committee.
+- 09/10 15:58 [FirstSquawk] Ministry of Investment will facilitate the committee’s integration with the broader high-level committee structure.
+- 09/10 15:58 [FirstSquawk] UAE Ministry of Investment says FCCI UAE will oversee engagement and implementation efforts.
+- 09/10 15:58 [FirstSquawk] UAE Investment Ministry says it will facilitate stakeholder engagement and coordination across the broader investment ecosystem.
+- 09/10 15:59 [FirstSquawk] POTENTIAL US-SOUTH KOREA DEAL, WORTH OVER $100 BILLION, ENVISIONS SOUTH KOREA FINANCING UP TO 8 NUCLEAR POWER PLANTS AND A NATURAL-GAS PROJECT - WSJ
+- 09/10 16:01 [FirstSquawk] SPAIN (JUL) INDUSTRIAL OUTPUT NSA YOY ACTUAL: 2.6% VS 3.8% PREVIOUS

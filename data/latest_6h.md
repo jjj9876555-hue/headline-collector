@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 15:49 JST／対象: 09/10 09:49 〜 09/10 15:49 JST（時刻はすべて日本時間）
+生成: 2026-09-10 16:01 JST／対象: 09/10 10:01 〜 09/10 16:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 132 | 09/10 09:51 | 09/10 15:45 | 14分（14:01→14:15） |
-| financialjuice | 55 | 09/10 09:55 | 09/10 15:00 | ⚠ 55分（11:11→12:06） |
+| FirstSquawk | 132 | 09/10 10:12 | 09/10 16:01 | 14分（14:01→14:15） |
+| financialjuice | 51 | 09/10 10:17 | 09/10 15:00 | ⚠ 55分（11:11→12:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 187 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 183 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 09:51 [FirstSquawk] 5-year Japanese government bond yield advances 1.5 basis points to 2.235%.
-- 09/10 09:52 [FirstSquawk] Yakhil has reportedly fallen under Houthi control amid renewed clashes in Yemen.
-- 09/10 09:52 [FirstSquawk] The captured American underwater drone could give Iran an opportunity to examine and potentially reproduce parts of its technology.
-- 09/10 09:55 [financialjuice] Saudi civil defence issues urgent warning for Khamis Mushait and Abha
-- 09/10 09:57 [FirstSquawk] Emergency alerts have been issued in Abha and Khamis Mushait by Saudi Civil Defence as regional tensions remain elevated.
-- 09/10 09:57 [FirstSquawk] Taiwan's brokerage sector is seeing strong growth, but structural gaps continue to widen, Fitch Ratings says.
-- 09/10 09:57 [financialjuice] Saudi civil defence warns of possible threat in Khamis Mushait and Abha
-- 09/10 09:58 [FirstSquawk] Potential danger reported in Khamis Mushait and Abha as Saudi Civil Defence issues warning.
-- 09/10 09:59 [FirstSquawk] The latest Apple Watch gains an AI-powered Live Rewind tool that lets users revisit the previous 15 seconds of speech through a text transcript.
-- 09/10 10:00 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait and Abha
-- 09/10 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% matching previous session opening
 - 09/10 10:12 [FirstSquawk] Washington says Beijing remains on course to meet its U.S. farm-product buying commitments before Xi’s planned trip to the U.S.
 - 09/10 10:14 [FirstSquawk] U.S. President Donald Trump headlines the Republican midterm gathering in Dallas as the party campaigns to retain control of Congress.
 - 09/10 10:15 [FirstSquawk] China's central bank sets the yuan reference rate at 6.7766 per dollar.
@@ -211,3 +200,10 @@
 - 09/10 15:38 [FirstSquawk] Iran’s growing ability to strike ships may have benefited from Russian or Chinese technology, according to WSJ sources.
 - 09/10 15:44 [FirstSquawk] Nissan plans to consolidate Serena and Elgrand manufacturing at the Tochigi plant, shifting production from Kyushu.
 - 09/10 15:45 [FirstSquawk] South Korea’s top diplomat says a meeting with U.S. Secretary of State Rubio is planned for September.
+- 09/10 15:52 [FirstSquawk] Ukraine targeted a Russian port in Dagestan, according to Zelenskyy.
+- 09/10 15:55 [FirstSquawk] UAE and China move to strengthen business ties with a new Business Advisory Committee.
+- 09/10 15:58 [FirstSquawk] Ministry of Investment will facilitate the committee’s integration with the broader high-level committee structure.
+- 09/10 15:58 [FirstSquawk] UAE Ministry of Investment says FCCI UAE will oversee engagement and implementation efforts.
+- 09/10 15:58 [FirstSquawk] UAE Investment Ministry says it will facilitate stakeholder engagement and coordination across the broader investment ecosystem.
+- 09/10 15:59 [FirstSquawk] POTENTIAL US-SOUTH KOREA DEAL, WORTH OVER $100 BILLION, ENVISIONS SOUTH KOREA FINANCING UP TO 8 NUCLEAR POWER PLANTS AND A NATURAL-GAS PROJECT - WSJ
+- 09/10 16:01 [FirstSquawk] SPAIN (JUL) INDUSTRIAL OUTPUT NSA YOY ACTUAL: 2.6% VS 3.8% PREVIOUS
