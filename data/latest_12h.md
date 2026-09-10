@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 18:19 JST／対象: 09/10 06:19 〜 09/10 18:19 JST（時刻はすべて日本時間）
+生成: 2026-09-10 18:35 JST／対象: 09/10 06:35 〜 09/10 18:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/10 06:22 | 09/10 18:16 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 202 | 09/10 07:34 | 09/10 18:15 | ⚠ 49分（08:15→09:05） |
-| financialjuice | 92 | 09/10 06:19 | 09/10 18:04 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 9 | 09/10 16:41 | 09/10 18:21 | 35分（17:30→18:05） |
+| FirstSquawk | 204 | 09/10 07:34 | 09/10 18:31 | ⚠ 49分（08:15→09:05） |
+| financialjuice | 88 | 09/10 06:38 | 09/10 18:27 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 301 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 301 行（統合前 302 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 06:19 [financialjuice] Multiple blasts reported in Iran's Qeshm and Sirik: Iran's Fars
-- 09/10 06:20 [financialjuice] Hormozgan Province governorate: explosion sounds in Qeshm came from sea - Fars
-- 09/10 06:22 [DeItaone] MULTIPLE EXPLOSIONS HEARD IN IRAN'S QESHM AND SIRIK - IRAN'S FARS
-- 09/10 06:27 [financialjuice] Israeli military: sirens alert hostile aircraft infiltration in multiple northern Israel areas
-- 09/10 06:30 [financialjuice] Iranian state media: multiple locations in Sirik struck by projectiles
-- 09/10 06:30 [financialjuice/FirstSquawk] AI researcher Andrew Tulloch departing Meta - Semafor
 - 09/10 06:38 [financialjuice] Israeli military: hostile aircraft incursion in northern Israel was misidentification
 - 09/10 07:00 [financialjuice] Poll: total size of Japan's FY2027 budget requests raise worries about fiscal discipline: 74% of economists
 - 09/10 07:00 [financialjuice] Poll: joint US-Japan FX intervention, US Treasury chief Bessent's comments reduce political barriers for BoJ rate hikes, say 82% of economists
@@ -38,6 +32,7 @@
 - 09/10 07:34 [FirstSquawk] FITCH WARNS COLOMBIA’S BUDGET HAS A DEEP FISCAL IMBALANCE AND SAYS SIGNIFICANT ADDITIONAL MEASURES ARE NEEDED TO STABILIZE THE COUNTRY’S RISING DEBT.
 - 09/10 07:34 [FirstSquawk] FITCH SAYS FAILURE TO DELIVER STRONGER DEFICIT-REDUCTION MEASURES COULD PUT NEW PRESSURE ON COLOMBIA’S CREDIT RATING, WITH DEFICITS LIKELY TO EXCEED PRIOR FORECASTS EVEN IF THE 2.2% OF GDP CONSOLIDATION TARGET IS MET.
 - 09/10 07:35 [FirstSquawk] APPLIED MATERIALS CEO: SERVICES BUSINESS GROWING MORE THAN 20% Y/Y WITH MARGINS UP 180BPS; PACKAGING BUSINESS EXPECTED TO GROW MORE THAN 70% THIS YEAR.
+- 09/10 07:42 [FirstSquawk] AI RESEARCHER ANDREW TULLOCH DEPARTING META - SEMAFOR
 - 09/10 07:42 [FirstSquawk] OPENAI CUTS OFF ADOBE AND OTHERS FROM ADVERTISING IN IMAGE PRODUCTS - THE INFORMATION
 - 09/10 07:48 [FirstSquawk] ANTHROPIC DISCLOSES A FOURTH CYBERSECURITY INCIDENT INVOLVING AN EARLY CLAUDE OPUS 4.6 MODEL AND SAYS CLAUDE MYTHOS 5 ATTEMPTED TO UPLOAD A MALICIOUS PACKAGE TO PYPI, RAISING FRESH CONCERNS OVER AI MODEL BEHAVIOR.
 - 09/10 07:48 [FirstSquawk] ANTHROPIC HAS HIRED METR FOR AN INDEPENDENT INVESTIGATION, SAYING ALL FOUR INCIDENTS OCCURRED DURING CYBERSECURITY EVALUATIONS AND INVOLVED SINGLE CLAUDE INSTANCES WITHOUT ATTEMPTS TO COORDINATE WITH OTHER AI AGENTS.
@@ -325,3 +320,8 @@
 - 09/10 18:08 [FirstSquawk] BRIAN FITZPATRICK'S DEMOCRATIC OPPONENT AIMS TO FOCUS THE CAMPAIGN ON DATA CENTERS.
 - 09/10 18:15 [FirstSquawk] IRAN CAN TAKE "SPECIAL MEASURES" IN RESPONSE TO IAEA'S RESOLUTION AND MAY CONSIDER ACTION, SAID LAWMAKER SOMAYEH RAFIEI.
 - 09/10 18:16 [DeItaone] $PLTR $NVDA - PALANTIR, NVIDIA TEAM UP ON SUPPLY-CHAIN AI Palantir and Nvidia are partnering to bring AI capabilities to critical supply chains, starting with Nvidia’s own operations. The companies will integrate Nvidia’s Nemotron models in…
+- 09/10 18:19 [DeItaone] $AAPL - WALL STREET WEIGHS APPLE’S $1,999 FOLDABLE IPHONE Apple’s new iPhone Duo is drawing differing views from Wall Street. JPMorgan — Overweight, $340 PT: Sees Apple’s software-hardware integration giving the Duo an edge over Android fol…
+- 09/10 18:21 [DeItaone] FRANCE'S 10-YEAR GOVERNMENT BOND YIELD HITS HIGHEST SINCE OCTOBER 2008 AT 4.3443%, UP 1 BP
+- 09/10 18:27 [financialjuice] Japan cabinet to approve tax reform outline on September 15 - Kyodo
+- 09/10 18:28 [FirstSquawk] EU PLAN AIMS TO REDUCE RUSSIA MEDICAL RADIOISOTOPE DEPENDENCY
+- 09/10 18:31 [FirstSquawk] JAPAN'S CABINET WILL DECIDE ON TAX REFORM DETAILS ON SEPTEMBER 15TH, ACCORDING TO KYODO.

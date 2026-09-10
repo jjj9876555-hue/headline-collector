@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 18:19 JST／対象: 09/09 18:19 〜 09/10 18:19 JST（時刻はすべて日本時間）
+生成: 2026-09-10 18:35 JST／対象: 09/09 18:35 〜 09/10 18:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 61 | 09/09 18:32 | 09/10 18:16 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 365 | 09/09 18:20 | 09/10 18:15 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 239 | 09/09 18:21 | 09/10 18:04 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 62 | 09/09 18:47 | 09/10 18:21 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 364 | 09/09 18:36 | 09/10 18:31 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 238 | 09/09 19:03 | 09/10 18:27 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 654 行（統合前 667 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 653 行（統合前 666 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 18:20 [FirstSquawk] FRENCH PRIME MINISTER PLANS TO REDUCE ONE-OFF TAX ON LARGE COMPANIES IN UPCOMING BUDGET.
-- 09/09 18:21 [financialjuice] French PM Lecornu: We aim to lower one-off tax on big companies in budget.
-- 09/09 18:31 [FirstSquawk] CANADA'S LARGEST ICEBREAKER STARTS TO COME TOGETHER.
-- 09/09 18:32 [DeItaone] US HITS IRANIAN TANKERS AS OIL BREAKS $100 The US destroyed five more Iranian oil tankers overnight after Iran allegedly targeted an American warship. No US personnel were hurt. Iran reportedly retaliated against US warships and tankers and…
-- 09/09 18:32 [financialjuice] GERMAN 10 YR BUND BID-TO-COVER ACTUAL 1.5 (FORECAST -, PREVIOUS -) $MACRO
-- 09/09 18:34 [FirstSquawk] US AND EUROPE REQUEST IRAN TO ENGAGE IN UNCONDITIONAL TALKS.
 - 09/09 18:36 [FirstSquawk] BRITISH AIRWAYS: CANCELLED MORE THAN 190 FLIGHTS OF WEDNESDAY'S ORIGINAL PLANNED SCHEDULE
 - 09/09 18:47 [DeItaone] CHINA HITS BACK AT US OVER AI CLAIMS China rejected US claims that six Chinese AI companies systematically used American models to develop their technology. US agencies accused DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun and https://t.…
 - 09/09 18:47 [FirstSquawk] CSU LEADER MARKUS SÖDER STATES THAT EVERY CRIME AND KNIFE ATTACK IS EXAGGERATED ONLINE, MAKING IT SEEM LIKE THE COUNTRY IS CHAOTIC. HE ASSERTS THAT BAVARIA IS IN ITS SAFEST CONDITION SINCE 1978.
@@ -678,3 +672,8 @@
 - 09/10 18:08 [FirstSquawk] BRIAN FITZPATRICK'S DEMOCRATIC OPPONENT AIMS TO FOCUS THE CAMPAIGN ON DATA CENTERS.
 - 09/10 18:15 [FirstSquawk] IRAN CAN TAKE "SPECIAL MEASURES" IN RESPONSE TO IAEA'S RESOLUTION AND MAY CONSIDER ACTION, SAID LAWMAKER SOMAYEH RAFIEI.
 - 09/10 18:16 [DeItaone] $PLTR $NVDA - PALANTIR, NVIDIA TEAM UP ON SUPPLY-CHAIN AI Palantir and Nvidia are partnering to bring AI capabilities to critical supply chains, starting with Nvidia’s own operations. The companies will integrate Nvidia’s Nemotron models in…
+- 09/10 18:19 [DeItaone] $AAPL - WALL STREET WEIGHS APPLE’S $1,999 FOLDABLE IPHONE Apple’s new iPhone Duo is drawing differing views from Wall Street. JPMorgan — Overweight, $340 PT: Sees Apple’s software-hardware integration giving the Duo an edge over Android fol…
+- 09/10 18:21 [DeItaone] FRANCE'S 10-YEAR GOVERNMENT BOND YIELD HITS HIGHEST SINCE OCTOBER 2008 AT 4.3443%, UP 1 BP
+- 09/10 18:27 [financialjuice] Japan cabinet to approve tax reform outline on September 15 - Kyodo
+- 09/10 18:28 [FirstSquawk] EU PLAN AIMS TO REDUCE RUSSIA MEDICAL RADIOISOTOPE DEPENDENCY
+- 09/10 18:31 [FirstSquawk] JAPAN'S CABINET WILL DECIDE ON TAX REFORM DETAILS ON SEPTEMBER 15TH, ACCORDING TO KYODO.

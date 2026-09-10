@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 18:19 JST／対象: 09/10 12:19 〜 09/10 18:19 JST（時刻はすべて日本時間）
+生成: 2026-09-10 18:35 JST／対象: 09/10 12:35 〜 09/10 18:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/10 16:41 | 09/10 18:16 | 35分（17:30→18:05） |
-| FirstSquawk | 119 | 09/10 12:27 | 09/10 18:15 | 14分（14:01→14:15） |
-| financialjuice | 36 | 09/10 12:26 | 09/10 18:04 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 9 | 09/10 16:41 | 09/10 18:21 | 35分（17:30→18:05） |
+| FirstSquawk | 118 | 09/10 12:35 | 09/10 18:31 | 14分（14:01→14:15） |
+| financialjuice | 36 | 09/10 13:00 | 09/10 18:27 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 163 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 12:26 [financialjuice] Fortum: JP Morgan upgrades to neutral from underperform, lifts target to EUR 24.3 from EUR 17.8
-- 09/10 12:27 [FirstSquawk] Failed merger talks push Japan’s opposition alliance toward a formal split.
-- 09/10 12:28 [FirstSquawk] JPMorgan reduces its Pearson price target by 60p to 1,360p.
-- 09/10 12:35 [FirstSquawk] CNBC SAID TO HAVE SHUT HONGKONG OFFICE US business television network CNBC is closing its Hong Kong office and pulling the plug on several flagship international daily shows as part of a major operational overhaul across Asia and Europe. Th…
 - 09/10 12:35 [FirstSquawk] China’s electric vehicle penetration hit 65% by July, Sinopec researcher says.
 - 09/10 12:36 [FirstSquawk] Manipur plans to finish fencing its stretch of the India-Myanmar border within two years, reviving India’s broader border-fencing plan.
 - 09/10 12:42 [FirstSquawk] China could see EV penetration reach 75%-80% by 2030, Sinopec researcher says.
@@ -186,3 +182,8 @@
 - 09/10 18:08 [FirstSquawk] BRIAN FITZPATRICK'S DEMOCRATIC OPPONENT AIMS TO FOCUS THE CAMPAIGN ON DATA CENTERS.
 - 09/10 18:15 [FirstSquawk] IRAN CAN TAKE "SPECIAL MEASURES" IN RESPONSE TO IAEA'S RESOLUTION AND MAY CONSIDER ACTION, SAID LAWMAKER SOMAYEH RAFIEI.
 - 09/10 18:16 [DeItaone] $PLTR $NVDA - PALANTIR, NVIDIA TEAM UP ON SUPPLY-CHAIN AI Palantir and Nvidia are partnering to bring AI capabilities to critical supply chains, starting with Nvidia’s own operations. The companies will integrate Nvidia’s Nemotron models in…
+- 09/10 18:19 [DeItaone] $AAPL - WALL STREET WEIGHS APPLE’S $1,999 FOLDABLE IPHONE Apple’s new iPhone Duo is drawing differing views from Wall Street. JPMorgan — Overweight, $340 PT: Sees Apple’s software-hardware integration giving the Duo an edge over Android fol…
+- 09/10 18:21 [DeItaone] FRANCE'S 10-YEAR GOVERNMENT BOND YIELD HITS HIGHEST SINCE OCTOBER 2008 AT 4.3443%, UP 1 BP
+- 09/10 18:27 [financialjuice] Japan cabinet to approve tax reform outline on September 15 - Kyodo
+- 09/10 18:28 [FirstSquawk] EU PLAN AIMS TO REDUCE RUSSIA MEDICAL RADIOISOTOPE DEPENDENCY
+- 09/10 18:31 [FirstSquawk] JAPAN'S CABINET WILL DECIDE ON TAX REFORM DETAILS ON SEPTEMBER 15TH, ACCORDING TO KYODO.
