@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 13:18 JST／対象: 09/10 01:18 〜 09/10 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-10 13:34 JST／対象: 09/10 01:34 〜 09/10 13:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/10 01:22 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 154 | 09/10 01:28 | 09/10 13:16 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 134 | 09/10 01:20 | 09/10 13:18 | ⚠ 59分（07:00→08:00） |
+| DeItaone | 27 | 09/10 01:38 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
+| FirstSquawk | 158 | 09/10 01:39 | 09/10 13:34 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 130 | 09/10 01:46 | 09/10 13:30 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 311 行（統合前 318 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 309 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 01:20 [financialjuice] EIA: Middle East crude oil output shut-ins rose in August to 6.7 mln bpd, from 5 mln bpd in July.
-- 09/10 01:22 [DeItaone] IRAN WARNS OF ESCALATION AS U.S. CONFLICT INTENSIFIES An Iranian official says Tehran is prepared for a more intense war with the U.S. if necessary, according to Bloomberg headlines shown in the report. The official said Iran would escalate…
-- 09/10 01:25 [financialjuice] China and Russia vote against effort to pressure Iran at IAEA.
-- 09/10 01:26 [financialjuice] Explosion heard from the sea near southern Jask - Fars News
-- 09/10 01:27 [financialjuice] No details are available regarding the source, exact location, or cause of the explosion - Fars News on explosion heard in Jask.
-- 09/10 01:28 [FirstSquawk] EXPLOSION REPORTED OFF JASK COAST IN SOUTHERN IRAN - FARS
-- 09/10 01:31 [DeItaone] U.S. CORE CPI SEEN COOLING TO 2.4% Analyst estimates ahead of Friday’s CPI report point to core inflation rising 0.22% month-over-month in August, matching July’s pace. Core CPI is expected to ease to 2.4% year-over-year, potentially the lo…
-- 09/10 01:32 [financialjuice] Iranian media: Reports of an oil tanker being targeted in the Strait of Hormuz - Al-Hadath
 - 09/10 01:38 [DeItaone] $AAPL - APPLE SLIPS AHEAD OF EXPECTED FOLDABLE IPHONE LAUNCH Apple shares fell 1.1% to $312.65 ahead of its first launch event under CEO John Ternus. Markets expect Apple to unveil its first foldable iPhone, potentially its biggest design o…
 - 09/10 01:39 [FirstSquawk] RUSSIA CLAIMS IT ATTACKED FACILITIES IN UKRAINE'S NIKOLAEV PORT, TARGETING LOGISTICS CENTERS, MILITARY, AND INDUSTRIAL SITES.
 - 09/10 01:42 [DeItaone] $AAPL - APPLE BETS ON FOLDABLE IPHONE TO DRIVE GROWTH Apple is expected to unveil its first foldable iPhone, targeting a mature smartphone market and aging consumers seeking larger screens. The device could cost more than $2,000, helping bo…
@@ -335,3 +327,9 @@
 - 09/10 13:11 [FirstSquawk] Russian strikes on Sumy region leave five dead and 24 injured, according to Ukrainian police.
 - 09/10 13:16 [FirstSquawk] HD Hyundai Heavy Industries announces an 834 billion won investment in new power-generation engine production.
 - 09/10 13:18 [financialjuice] China's state-run Sinograin purchased 14-15 shipments or about 1 mln tons of US soybeans in deals this week: sources
+- 09/10 13:18 [FirstSquawk] HD Hyundai Heavy Industries announces a 239 billion won investment in an SMR facility, alongside upgrades to its existing plant.
+- 09/10 13:19 [FirstSquawk] Japan’s next budget will face scrutiny from Fitch over the balance between economic support and fiscal restraint, a sovereign analyst says.
+- 09/10 13:26 [FirstSquawk] Artificial intelligence is expected to support U.S. economic growth, but could also threaten knowledge-worker employment and weigh on wages.
+- 09/10 13:30 [financialjuice] Dutch July manufacturing output rises 1.6% m/m: CBS
+- 09/10 13:32 [FirstSquawk] Malaysia’s palm oil inventories climb to 2.82 million tonnes in August, up 7.48% from July, according to MPOB.
+- 09/10 13:34 [FirstSquawk] Malaysia’s crude palm oil output increased 1.39% M/M to 1.82 million tons in August, according to MPOB.
