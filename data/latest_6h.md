@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 05:23 JST／対象: 09/10 23:23 〜 09/11 05:23 JST（時刻はすべて日本時間）
+生成: 2026-09-11 05:43 JST／対象: 09/10 23:43 〜 09/11 05:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/10 23:25 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 83 | 09/10 23:25 | 09/11 05:19 | 32分（03:04→03:37） |
-| financialjuice | 85 | 09/10 23:25 | 09/11 05:15 | 20分（03:44→04:04） |
+| DeItaone | 14 | 09/10 23:45 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
+| FirstSquawk | 86 | 09/10 23:43 | 09/11 05:38 | 32分（03:04→03:37） |
+| financialjuice | 79 | 09/11 00:00 | 09/11 05:24 | 20分（03:44→04:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 176 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 173 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 23:25 [financialjuice] ❗ Iran-backed Yemen's Houthis spokesperson: Freedom of navigation and international trade in the Red Sea and Bab el-Mandeb Strait remain safe and uninterrupted.
-- 09/10 23:25 [FirstSquawk/DeItaone] IRAN-BACKED YEMEN'S HOUTHIS SPOKESPERSON SAYS FREEDOM OF NAVIGATION AND INTERNATIONAL TRADE IN RED SEA AND BAB EL-MANDEB STRAIT REMAIN SAFE AND UNINTERRUPTED
-- 09/10 23:25 [FirstSquawk] IRAN-BACKED YEMEN'S HOUTHIS SPOKESPERSON SAYS CURRENT OPERATIONS ARE LIMITED TO SPECIFIED TARGETS AND ARE DEFENSIVE
-- 09/10 23:26 [financialjuice] Iran-backed Yemen's Houthis Spokesperson: Current operations are limited to specified targets and are defensive.
-- 09/10 23:26 [FirstSquawk] YEMEN'S HOUTHIS SPOKESPERSON SAYS OPERATIONS WILL STOP WHEN ATTACKS ON YEMEN END AND BLOCKADE IS LIFTED
-- 09/10 23:26 [financialjuice] Yemen's Houthis Spokesperson: Operations will stop when attacks on Yemen end and the blockade is lifted.
-- 09/10 23:28 [financialjuice] Head of Yemen's Supreme Political Council announces stability in Taiz coastal areas - IRIB.
-- 09/10 23:29 [financialjuice] Head of Yemen's Supreme Political Council: Saudi-backed forces will be granted amnesty if they lay down their arms - IRIB News
-- 09/10 23:30 [FirstSquawk] U.S NATURAL GAS STORAGE ACTUAL: 40 VS 30 PREVIOUSL; EST 32
-- 09/10 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 40B (FORECAST 34B, PREVIOUS 30B) $MACRO
-- 09/10 23:31 [financialjuice] Weekly EIA Natural Gas Change Storage Report -
-- 09/10 23:42 [financialjuice] Diesel futures top $5/gal for the first time since 2022.
-- 09/10 23:42 [financialjuice] Yemen's Houthi-run Humanitarian Operations Coordination Centre: Red Sea navigation safe for all shipping companies except Saudi vessels.
 - 09/10 23:43 [FirstSquawk] YEMEN'S HOUTHI CONTROLLED HUMANITARIAN OPERATIONS CENTRE ANNOUNCES THAT NAVIGATION IN THE RED SEA IS SAFE FOR ALL SHIPPING COMPANIES EXCEPT SAUDI VESSELS.
 - 09/10 23:44 [FirstSquawk] DIESEL FUTURES TOP $5/GAL FOR FIRST TIME SINCE 2022
 - 09/10 23:45 [DeItaone] TRUMP SITS DOWN FOR EXCLUSIVE INGRAHAM INTERVIEW President Donald Trump has given Laura Ingraham an exclusive interview, with Part One airing tonight at 7 PM ET on The Ingraham Angle. Fox’s current schedule confirms the program’s 7 PM ET sl…
@@ -200,3 +187,13 @@
 - 09/11 05:19 [FirstSquawk] BRENT CRUDE CLIMBED ABOVE $107, PUSHING US STOCKS AND BONDS LOWER AS RISING ENERGY PRICES INTENSIFIED INFLATION CONCERNS. THE S&P 500 FELL FOR A FOURTH STRAIGHT SESSION, ITS LONGEST LOSING STREAK SINCE JUNE, WHILE TREASURY YIELDS REACHED MU…
 - 09/11 05:19 [FirstSquawk] MARKETS RAISED THE PROBABILITY OF A FED RATE HIKE NEXT WEEK TO 70%, WITH AN INCREASE FULLY PRICED BY OCTOBER. PRODUCER INFLATION ALSO SHOWED RENEWED PRICE PRESSURE FROM HIGHER ENERGY COSTS, INCREASING FOCUS ON THE UPCOMING CPI REPORT.
 - 09/11 05:19 [FirstSquawk] TREASURY’S $5.19B DEBT BUYBACK CAME IN BELOW THE PREVIOUSLY INDICATED AMOUNT, ADDING PRESSURE TO BONDS. THE FED’S SEPT. 15–16 MEETING WILL NOW HINGE HEAVILY ON THIS WEEK’S INFLATION AND ECONOMIC DATA, PARTICULARLY WHETHER SURGING GASOLINE P…
+- 09/11 05:23 [financialjuice] UKMTO has received a report of two vessels involved in an incident 4NM west of Khasab Oman.
+- 09/11 05:24 [financialjuice] UKMTO: The master of the vessel reports seeing four unknown projectiles hit two unknown vessels, causing fire on one vessel, and unsure of the status of the second vessel, 6nm north of his position.
+- 09/11 05:24 [financialjuice] $ADBE Adobe Q3 Earnings Adjusted EPS $6.13, est. $6.08 Revenue $6.76B, est. $6.70B Remaining performance obligations $22.16B, est. $22.72B AI-first ending ARR exceeds $650M, +150% y/y Sees Q4 adjusted EPS $6.30 to $6.35, est. $6.30 Sees Q4 …
+- 09/11 05:25 [FirstSquawk] UKMTO REPORTS TWO VESSELS INVOLVED IN AN INCIDENT 4 NM WEST OF KHASAB, OMAN, WITH THE MASTER REPORTING FOUR UNKNOWN PROJECTILES STRIKING TWO VESSELS. ONE VESSEL CAUGHT FIRE AFTER THE STRIKES, WHILE THE STATUS OF THE SECOND VESSEL REMAINS UN…
+- 09/11 05:35 [FirstSquawk] RUSSIA’S “NET ERRORS AND OMISSIONS” HIT A RECORD $12.2 BILLION IN Q2 2026, UP FROM $1.4 BILLION THE PREVIOUS QUARTER AND MARKING THE LARGEST UNEXPLAINED BALANCE-OF-PAYMENTS GAP SINCE 1994. - SOURCES
+- 09/11 05:35 [FirstSquawk] THE FIGURE IS NOT PROOF OF CAPITAL FLIGHT, AS SANCTIONS WORKAROUNDS AND PAYMENT TIMING CAN ALSO CONTRIBUTE, BUT IT COMES AMID REPORTS OF BILLIONS MOVED ABROAD BY WEALTHY RUSSIANS THROUGH CRYPTO, GOLD, DUBAI PROPERTY AND PRIVATE FUNDS. - SOU…
+- 09/11 05:36 [FirstSquawk] SAUDI OIL PRODUCTION PLUNGED 23% IN AUGUST TO 6.24 MILLION BARRELS A DAY AS THE IRAN WAR AND HOUTHI THREATS DISRUPTED KEY EXPORT ROUTES. - WSJ
+- 09/11 05:36 [FirstSquawk] CNN REPORTS THAT 100–200 U.S. MILITARY ADVISERS ARE NOW IN SAUDI ARABIA PROVIDING REAL-TIME INTELLIGENCE, TARGETING AND GEOSPATIAL SUPPORT AGAINST THE HOUTHIS, MARKING A SIGNIFICANT ESCALATION IN U.S. INVOLVEMENT.
+- 09/11 05:36 [FirstSquawk] A JOINT FORCES COMMAND WAS ESTABLISHED AFTER IRAN INCREASED SUPPORT TO THE HOUTHIS, INCLUDING DEPLOYING IRGC OFFICERS TO YEMEN, AS THE HOUTHIS’ CONTROL OF MOKHA RAISES CONCERNS OVER THE BAB-EL-MANDEB STRAIT; U.S. FORCES ARE NOT DIRECTLY PAR…
+- 09/11 05:38 [FirstSquawk] JD VANCE PRIVATELY SOUGHT UNFILTERED ASSESSMENTS FROM U.S. MILITARY COMMANDERS, WHO WARNED THAT THE IRAN WAR WAS DRAINING CRITICAL STOCKPILES OF PATRIOT INTERCEPTORS AND LONG-RANGE MISSILES AND COULD WEAKEN U.S. DETERRENCE AGAINST CHINA, RU…
