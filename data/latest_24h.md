@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 17:59 JST／対象: 09/09 17:59 〜 09/10 17:59 JST（時刻はすべて日本時間）
+生成: 2026-09-10 18:19 JST／対象: 09/09 18:19 〜 09/10 18:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 59 | 09/09 18:32 | 09/10 17:30 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 366 | 09/09 18:02 | 09/10 17:55 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 238 | 09/09 17:59 | 09/10 17:53 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 61 | 09/09 18:32 | 09/10 18:16 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 365 | 09/09 18:20 | 09/10 18:15 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 239 | 09/09 18:21 | 09/10 18:04 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 652 行（統合前 665 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 654 行（統合前 667 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 17:59 [financialjuice] Japan may convene extraordinary diet session on October 5 - Kyodo.
-- 09/09 18:02 [FirstSquawk] JAPAN IS PLANNING A SPECIAL DIET SESSION ON OCTOBER 5, ACCORDING TO KYODO.
-- 09/09 18:05 [FirstSquawk] ZELENSKIY: UKRAINE HIT NOVOROSSIYSK NAVAL BASE, OIL TERMINALS
-- 09/09 18:06 [FirstSquawk] EUROPEAN GAS PRICES INCREASE BY 4% TO A RECORD 79 EUROS PER MEGAWATT-HOUR, THE HIGHEST LEVEL SINCE LATE 2022.
-- 09/09 18:07 [financialjuice] UKMTO gets report of incident 24NM Northwest Port Rashid, UAE.
-- 09/09 18:08 [FirstSquawk] UKMTO SAYS IT RECEIVED A REPORT FROM THIRD PARTY OF INCIDENT 24 NM NORTHWEST OF PORT RASHID, UAE
-- 09/09 18:17 [FirstSquawk] TRUMP'S AI FRAMEWORK DOES NOT INCLUDE GUIDELINES FOR REPORTING PUBLIC INCIDENTS
 - 09/09 18:20 [FirstSquawk] FRENCH PRIME MINISTER PLANS TO REDUCE ONE-OFF TAX ON LARGE COMPANIES IN UPCOMING BUDGET.
 - 09/09 18:21 [financialjuice] French PM Lecornu: We aim to lower one-off tax on big companies in budget.
 - 09/09 18:31 [FirstSquawk] CANADA'S LARGEST ICEBREAKER STARTS TO COME TOGETHER.
@@ -676,3 +669,12 @@
 - 09/10 17:53 [FirstSquawk] US AI SAFETY BILL COULD BE PRESENTED AS SOON AS NEXT WEEK, ACCORDING TO SEMAFOR.
 - 09/10 17:53 [financialjuice] US AI safety bill may be introduced early as next week - Semafor
 - 09/10 17:55 [FirstSquawk] RYANAIR CEO: WE WILL BE DOWN VERY LOW SINGLE DIGITS IN Q2
+- 09/10 17:59 [financialjuice] China warns industrial companies against disorderly price competition.
+- 09/10 17:59 [financialjuice] China to conduct cost probe in major industrial-product sectors.
+- 09/10 18:01 [FirstSquawk] RUSSIAN DEFENSE MINISTRY CLAIMS CONTROL OF ZARUBINKA TOWN IN KHARKIV REGION.
+- 09/10 18:04 [financialjuice] OpenAI faces GOP-led senate probe re hugging face breach - Axios
+- 09/10 18:05 [DeItaone] CHINA CENTRAL BANK: TO CARRY OUT UP TO 600 BLN YUAN PER DAY OF OVERNIGHT REVERSE REPOS ON SEP 14-17
+- 09/10 18:07 [FirstSquawk] CHINA, US JOINTLY CRACK CROSS-BORDER DRUG CASE- CCTV
+- 09/10 18:08 [FirstSquawk] BRIAN FITZPATRICK'S DEMOCRATIC OPPONENT AIMS TO FOCUS THE CAMPAIGN ON DATA CENTERS.
+- 09/10 18:15 [FirstSquawk] IRAN CAN TAKE "SPECIAL MEASURES" IN RESPONSE TO IAEA'S RESOLUTION AND MAY CONSIDER ACTION, SAID LAWMAKER SOMAYEH RAFIEI.
+- 09/10 18:16 [DeItaone] $PLTR $NVDA - PALANTIR, NVIDIA TEAM UP ON SUPPLY-CHAIN AI Palantir and Nvidia are partnering to bring AI capabilities to critical supply chains, starting with Nvidia’s own operations. The companies will integrate Nvidia’s Nemotron models in…

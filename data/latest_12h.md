@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 17:59 JST／対象: 09/10 05:59 〜 09/10 17:59 JST（時刻はすべて日本時間）
+生成: 2026-09-10 18:19 JST／対象: 09/10 06:19 〜 09/10 18:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/10 06:08 | 09/10 17:30 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 198 | 09/10 07:34 | 09/10 17:55 | ⚠ 49分（08:15→09:05） |
-| financialjuice | 96 | 09/10 06:10 | 09/10 17:53 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 8 | 09/10 06:22 | 09/10 18:16 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 202 | 09/10 07:34 | 09/10 18:15 | ⚠ 49分（08:15→09:05） |
+| financialjuice | 92 | 09/10 06:19 | 09/10 18:04 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 301 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,15 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 06:08 [DeItaone] MILITARY AIDE ACCIDENTALLY DEPLOYED INFLATIBLE EMERGENCY SLIDE ON AIR FORCE ONE - PERSON FAMILIAR
-- 09/10 06:10 [financialjuice] Explosions heard on Iran's Qeshm Island: Iran state media
-- 09/10 06:11 [financialjuice] Iranian state media: unclear if explosion sound came from sea or Qeshm Island itself
-- 09/10 06:11 [financialjuice] Military aide accidentally deploys inflatable emergency slide on Air Force One: person familiar
-- 09/10 06:14 [financialjuice] Colombia's budget reveals significant imbalance: Fitch says major adjustment effort needed
-- 09/10 06:15 [DeItaone] EXPLOSIONS HEARD ON IRAN’S QESHM ISLAND - IRAN'S STATE MEDIA
-- 09/10 06:16 [financialjuice] Significant extra measures needed to stabilize Colombia's debt: Fitch
-- 09/10 06:16 [financialjuice] Failure to implement consolidation steps with persistent high deficits and a steepening debt/GDP path could increase rating pressure: Fitch
-- 09/10 06:17 [financialjuice] Even if fiscal adjustment law achieves full 2.2% of GDP consolidation target, deficits likely to significantly surpass Fitch's previous forecasts: Fitch
 - 09/10 06:19 [financialjuice] Multiple blasts reported in Iran's Qeshm and Sirik: Iran's Fars
 - 09/10 06:20 [financialjuice] Hormozgan Province governorate: explosion sounds in Qeshm came from sea - Fars
 - 09/10 06:22 [DeItaone] MULTIPLE EXPLOSIONS HEARD IN IRAN'S QESHM AND SIRIK - IRAN'S FARS
@@ -325,3 +316,12 @@
 - 09/10 17:53 [FirstSquawk] US AI SAFETY BILL COULD BE PRESENTED AS SOON AS NEXT WEEK, ACCORDING TO SEMAFOR.
 - 09/10 17:53 [financialjuice] US AI safety bill may be introduced early as next week - Semafor
 - 09/10 17:55 [FirstSquawk] RYANAIR CEO: WE WILL BE DOWN VERY LOW SINGLE DIGITS IN Q2
+- 09/10 17:59 [financialjuice] China warns industrial companies against disorderly price competition.
+- 09/10 17:59 [financialjuice] China to conduct cost probe in major industrial-product sectors.
+- 09/10 18:01 [FirstSquawk] RUSSIAN DEFENSE MINISTRY CLAIMS CONTROL OF ZARUBINKA TOWN IN KHARKIV REGION.
+- 09/10 18:04 [financialjuice] OpenAI faces GOP-led senate probe re hugging face breach - Axios
+- 09/10 18:05 [DeItaone] CHINA CENTRAL BANK: TO CARRY OUT UP TO 600 BLN YUAN PER DAY OF OVERNIGHT REVERSE REPOS ON SEP 14-17
+- 09/10 18:07 [FirstSquawk] CHINA, US JOINTLY CRACK CROSS-BORDER DRUG CASE- CCTV
+- 09/10 18:08 [FirstSquawk] BRIAN FITZPATRICK'S DEMOCRATIC OPPONENT AIMS TO FOCUS THE CAMPAIGN ON DATA CENTERS.
+- 09/10 18:15 [FirstSquawk] IRAN CAN TAKE "SPECIAL MEASURES" IN RESPONSE TO IAEA'S RESOLUTION AND MAY CONSIDER ACTION, SAID LAWMAKER SOMAYEH RAFIEI.
+- 09/10 18:16 [DeItaone] $PLTR $NVDA - PALANTIR, NVIDIA TEAM UP ON SUPPLY-CHAIN AI Palantir and Nvidia are partnering to bring AI capabilities to critical supply chains, starting with Nvidia’s own operations. The companies will integrate Nvidia’s Nemotron models in…

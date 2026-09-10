@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 17:59 JST／対象: 09/10 11:59 〜 09/10 17:59 JST（時刻はすべて日本時間）
+生成: 2026-09-10 18:19 JST／対象: 09/10 12:19 〜 09/10 18:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/10 16:41 | 09/10 17:30 | 24分（17:02→17:27） |
-| FirstSquawk | 119 | 09/10 12:05 | 09/10 17:55 | 14分（14:01→14:15） |
-| financialjuice | 34 | 09/10 12:06 | 09/10 17:53 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 7 | 09/10 16:41 | 09/10 18:16 | 35分（17:30→18:05） |
+| FirstSquawk | 119 | 09/10 12:27 | 09/10 18:15 | 14分（14:01→14:15） |
+| financialjuice | 36 | 09/10 12:26 | 09/10 18:04 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 158 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 12:05 [FirstSquawk] Stifel starts coverage of Targa Resources with a buy recommendation and $340 target.
-- 09/10 12:06 [FirstSquawk] Strait of Hormuz commodity vessel traffic dropped into single digits on Wednesday, data shows, versus a 10-day average near 14.
-- 09/10 12:06 [financialjuice] Strait of Hormuz commodity vessel crossings below 10 on Wednesday, less than 10-day average of about 14, data shows
-- 09/10 12:12 [FirstSquawk] Bank of Korea to consider the timing and pace of additional rate increases as it monitors growth and inflation.
-- 09/10 12:16 [FirstSquawk] Researcher leaves Anthropic amid concerns that the race toward self-improving AI could endanger humanity.
 - 09/10 12:26 [financialjuice] Fortum: JP Morgan upgrades to neutral from underperform, lifts target to EUR 24.3 from EUR 17.8
 - 09/10 12:27 [FirstSquawk] Failed merger talks push Japan’s opposition alliance toward a formal split.
 - 09/10 12:28 [FirstSquawk] JPMorgan reduces its Pearson price target by 60p to 1,360p.
@@ -182,3 +177,12 @@
 - 09/10 17:53 [FirstSquawk] US AI SAFETY BILL COULD BE PRESENTED AS SOON AS NEXT WEEK, ACCORDING TO SEMAFOR.
 - 09/10 17:53 [financialjuice] US AI safety bill may be introduced early as next week - Semafor
 - 09/10 17:55 [FirstSquawk] RYANAIR CEO: WE WILL BE DOWN VERY LOW SINGLE DIGITS IN Q2
+- 09/10 17:59 [financialjuice] China warns industrial companies against disorderly price competition.
+- 09/10 17:59 [financialjuice] China to conduct cost probe in major industrial-product sectors.
+- 09/10 18:01 [FirstSquawk] RUSSIAN DEFENSE MINISTRY CLAIMS CONTROL OF ZARUBINKA TOWN IN KHARKIV REGION.
+- 09/10 18:04 [financialjuice] OpenAI faces GOP-led senate probe re hugging face breach - Axios
+- 09/10 18:05 [DeItaone] CHINA CENTRAL BANK: TO CARRY OUT UP TO 600 BLN YUAN PER DAY OF OVERNIGHT REVERSE REPOS ON SEP 14-17
+- 09/10 18:07 [FirstSquawk] CHINA, US JOINTLY CRACK CROSS-BORDER DRUG CASE- CCTV
+- 09/10 18:08 [FirstSquawk] BRIAN FITZPATRICK'S DEMOCRATIC OPPONENT AIMS TO FOCUS THE CAMPAIGN ON DATA CENTERS.
+- 09/10 18:15 [FirstSquawk] IRAN CAN TAKE "SPECIAL MEASURES" IN RESPONSE TO IAEA'S RESOLUTION AND MAY CONSIDER ACTION, SAID LAWMAKER SOMAYEH RAFIEI.
+- 09/10 18:16 [DeItaone] $PLTR $NVDA - PALANTIR, NVIDIA TEAM UP ON SUPPLY-CHAIN AI Palantir and Nvidia are partnering to bring AI capabilities to critical supply chains, starting with Nvidia’s own operations. The companies will integrate Nvidia’s Nemotron models in…
