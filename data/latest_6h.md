@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 12:04 JST／対象: 09/10 06:04 〜 09/10 12:04 JST（時刻はすべて日本時間）
+生成: 2026-09-10 12:26 JST／対象: 09/10 06:26 〜 09/10 12:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/10 06:08 | 09/10 06:22 | 6分（06:08→06:15） |
-| FirstSquawk | 79 | 09/10 07:34 | 09/10 11:55 | ⚠ 49分（08:15→09:05） |
-| financialjuice | 62 | 09/10 06:10 | 09/10 11:11 | ⚠ 59分（07:00→08:00） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 83 | 09/10 07:34 | 09/10 12:16 | ⚠ 49分（08:15→09:05） |
+| financialjuice | 54 | 09/10 06:27 | 09/10 12:06 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 143 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 136 行（統合前 138 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 06:08 [DeItaone] MILITARY AIDE ACCIDENTALLY DEPLOYED INFLATIBLE EMERGENCY SLIDE ON AIR FORCE ONE - PERSON FAMILIAR
-- 09/10 06:10 [financialjuice] Explosions heard on Iran's Qeshm Island: Iran state media
-- 09/10 06:11 [financialjuice] Iranian state media: unclear if explosion sound came from sea or Qeshm Island itself
-- 09/10 06:11 [financialjuice] Military aide accidentally deploys inflatable emergency slide on Air Force One: person familiar
-- 09/10 06:14 [financialjuice] Colombia's budget reveals significant imbalance: Fitch says major adjustment effort needed
-- 09/10 06:15 [DeItaone] EXPLOSIONS HEARD ON IRAN’S QESHM ISLAND - IRAN'S STATE MEDIA
-- 09/10 06:16 [financialjuice] Significant extra measures needed to stabilize Colombia's debt: Fitch
-- 09/10 06:16 [financialjuice] Failure to implement consolidation steps with persistent high deficits and a steepening debt/GDP path could increase rating pressure: Fitch
-- 09/10 06:17 [financialjuice] Even if fiscal adjustment law achieves full 2.2% of GDP consolidation target, deficits likely to significantly surpass Fitch's previous forecasts: Fitch
-- 09/10 06:19 [financialjuice] Multiple blasts reported in Iran's Qeshm and Sirik: Iran's Fars
-- 09/10 06:20 [financialjuice] Hormozgan Province governorate: explosion sounds in Qeshm came from sea - Fars
-- 09/10 06:22 [DeItaone] MULTIPLE EXPLOSIONS HEARD IN IRAN'S QESHM AND SIRIK - IRAN'S FARS
 - 09/10 06:27 [financialjuice] Israeli military: sirens alert hostile aircraft infiltration in multiple northern Israel areas
 - 09/10 06:30 [financialjuice] Iranian state media: multiple locations in Sirik struck by projectiles
 - 09/10 06:30 [financialjuice/FirstSquawk] AI researcher Andrew Tulloch departing Meta - Semafor
@@ -167,3 +155,8 @@
 - 09/10 11:41 [FirstSquawk] South Korea’s economic recovery is becoming increasingly evident, the finance minister says.
 - 09/10 11:50 [FirstSquawk] China’s local surtax reform strengthens tax adjustment capacity but delivers limited fiscal relief, Fitch Ratings says.
 - 09/10 11:55 [FirstSquawk] Pound strengthens as the dollar slips ahead of key U.S. PPI figures.
+- 09/10 12:05 [FirstSquawk] Stifel starts coverage of Targa Resources with a buy recommendation and $340 target.
+- 09/10 12:06 [FirstSquawk] Strait of Hormuz commodity vessel traffic dropped into single digits on Wednesday, data shows, versus a 10-day average near 14.
+- 09/10 12:06 [financialjuice] Strait of Hormuz commodity vessel crossings below 10 on Wednesday, less than 10-day average of about 14, data shows
+- 09/10 12:12 [FirstSquawk] Bank of Korea to consider the timing and pace of additional rate increases as it monitors growth and inflation.
+- 09/10 12:16 [FirstSquawk] Researcher leaves Anthropic amid concerns that the race toward self-improving AI could endanger humanity.

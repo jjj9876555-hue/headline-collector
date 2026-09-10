@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 12:04 JST／対象: 09/10 00:04 〜 09/10 12:04 JST（時刻はすべて日本時間）
+生成: 2026-09-10 12:26 JST／対象: 09/10 00:26 〜 09/10 12:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 31 | 09/10 01:05 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 153 | 09/10 00:14 | 09/10 11:55 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 141 | 09/10 00:10 | 09/10 11:11 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 152 | 09/10 00:32 | 09/10 12:16 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 139 | 09/10 00:31 | 09/10 12:06 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 319 行（統合前 327 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 316 行（統合前 323 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 00:10 [financialjuice] ❗ US Treasury to buy back up to $6 bln in longer-dated debt Thursday. US previously said buyback to be at least $4 bln per operation
-- 09/10 00:14 [FirstSquawk] US TREASURY TO PURCHASE UP TO $6 BILLION IN 10 TO 20-YEAR BONDS ON SEPTEMBER 10TH.
-- 09/10 00:14 [FirstSquawk] S&P 500 DROPS BY 0.5%; NASDAQ 100 FALLS BY 0.4%.
-- 09/10 00:14 [FirstSquawk] LOCKHEED MARTIN RECEIVES $1.32 BILLION CONTRACT TO DEVELOP AUSTRALIA'S JOINT AIR BATTLE MANAGEMENT SYSTEM.
-- 09/10 00:18 [FirstSquawk] RUSSIA'S NOVOROSSIYSK GRAIN TERMINAL WAS HIT BY A DRONE ATTACK, CAUSING DAMAGE.
-- 09/10 00:19 [financialjuice] US Treasury Buyback Announcement
-- 09/10 00:19 [FirstSquawk] AMAZON AND WIWYNN PLAN TO EXPAND AN ADVANCED MANUFACTURING FACILITY IN TEXAS, ADDING NEARLY 1,000 JOBS AND STRENGTHENING THE US SUPPLY CHAIN.
-- 09/10 00:22 [financialjuice] The Treasury updates the buyback schedule to show long term operations of at least $4b.
 - 09/10 00:31 [financialjuice] Pakistan's Defense Minister Expresses Hope for a Lasting Resolution to Issues Between Saudi Arabia and Yemen - IRNA
 - 09/10 00:31 [financialjuice] Pakistan Defense Minister reaffirms commitment to joint defense agreement with Saudi Arabia and Turkey - IRNA
 - 09/10 00:32 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.36%; GERMANY'S DAX DOWN 1.74%
@@ -343,3 +335,8 @@
 - 09/10 11:41 [FirstSquawk] South Korea’s economic recovery is becoming increasingly evident, the finance minister says.
 - 09/10 11:50 [FirstSquawk] China’s local surtax reform strengthens tax adjustment capacity but delivers limited fiscal relief, Fitch Ratings says.
 - 09/10 11:55 [FirstSquawk] Pound strengthens as the dollar slips ahead of key U.S. PPI figures.
+- 09/10 12:05 [FirstSquawk] Stifel starts coverage of Targa Resources with a buy recommendation and $340 target.
+- 09/10 12:06 [FirstSquawk] Strait of Hormuz commodity vessel traffic dropped into single digits on Wednesday, data shows, versus a 10-day average near 14.
+- 09/10 12:06 [financialjuice] Strait of Hormuz commodity vessel crossings below 10 on Wednesday, less than 10-day average of about 14, data shows
+- 09/10 12:12 [FirstSquawk] Bank of Korea to consider the timing and pace of additional rate increases as it monitors growth and inflation.
+- 09/10 12:16 [FirstSquawk] Researcher leaves Anthropic amid concerns that the race toward self-improving AI could endanger humanity.
