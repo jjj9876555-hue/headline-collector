@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 14:05 JST／対象: 09/10 08:05 〜 09/10 14:05 JST（時刻はすべて日本時間）
+生成: 2026-09-10 14:24 JST／対象: 09/10 08:24 〜 09/10 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 105 | 09/10 08:15 | 09/10 14:01 | ⚠ 49分（08:15→09:05） |
-| financialjuice | 58 | 09/10 08:06 | 09/10 14:00 | ⚠ 55分（11:11→12:06） |
+| FirstSquawk | 108 | 09/10 09:05 | 09/10 14:21 | 14分（14:01→14:15） |
+| financialjuice | 54 | 09/10 08:31 | 09/10 14:17 | ⚠ 55分（11:11→12:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 163 行（統合前 164 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 08:06 [financialjuice] Trump’s top advisers face possibility iran war continues through end of term - wsj
-- 09/10 08:11 [financialjuice] Democratic Senator Fetterman appears in video at Republican convention in Dallas
-- 09/10 08:13 [financialjuice] No consistent spoken reply to pilot’s remarks on speed: NTSB
-- 09/10 08:13 [financialjuice] One pilot of crashed Amazon cargo plane tells other about excessive speed in final 1 minute 42 seconds of cockpit voice recording, NTSB says
-- 09/10 08:13 [financialjuice] 'Too low, terrain' was repeated several times before plane landed on runway: NTSB
-- 09/10 08:15 [FirstSquawk] JAPAN SURVEY SHOWS NEARLY ONE-THIRD OF COMPANIES PREFER THE YEN TO TRADE AT 150-159.99 PER DOLLAR, WHILE ABOUT A QUARTER FAVOR THE 140-149.99 RANGE. MORE THAN TWO-THIRDS OF JAPANESE FIRMS BACK PM SANAE TAKAICHI’S ECONOMIC POLICIES, WITH 46%…
 - 09/10 08:31 [financialjuice] OpenAI: pushing for compulsory national AI safety regulations
 - 09/10 08:32 [financialjuice] OpenAI: backing four California bills
 - 09/10 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL 690.0B (FORECAST -, PREVIOUS 35.8B ,REVISION 35.9B) $MACRO
@@ -187,3 +181,8 @@
 - 09/10 13:55 [FirstSquawk] Japan Chief Cabinet Secretary Kihara says resolving the abduction issue is key to realizing a summit with North Korea.
 - 09/10 14:00 [financialjuice] Finnish industrial output rises 4.5% in July year on year, Statistics Finland
 - 09/10 14:01 [FirstSquawk] Roche’s Enspryng receives U.S. FDA priority review for MOGAD, which has no approved treatments.
+- 09/10 14:15 [FirstSquawk] Hong Kong stocks face wild swings as investors see little chance of state intervention.
+- 09/10 14:16 [FirstSquawk] Beijing rejects US accusations of AI technology copying and threatens retaliation.
+- 09/10 14:17 [financialjuice] China chipmakers raised prices for AI processors, including Huawei and Cambricon.
+- 09/10 14:17 [FirstSquawk] Finnish industrial output grows 4.5% year on year in July, data shows.
+- 09/10 14:21 [FirstSquawk] Rising crude prices are putting pressure on Asian equities, with oil above $100 adding to inflation concerns.

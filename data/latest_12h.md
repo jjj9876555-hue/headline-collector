@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 14:05 JST／対象: 09/10 02:05 〜 09/10 14:05 JST（時刻はすべて日本時間）
+生成: 2026-09-10 14:24 JST／対象: 09/10 02:24 〜 09/10 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/10 02:13 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 162 | 09/10 02:47 | 09/10 14:01 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 127 | 09/10 02:08 | 09/10 14:00 | ⚠ 59分（07:00→08:00） |
+| DeItaone | 18 | 09/10 02:30 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
+| FirstSquawk | 166 | 09/10 02:47 | 09/10 14:21 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 122 | 09/10 02:28 | 09/10 14:17 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 307 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 300 行（統合前 307 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 02:08 [financialjuice] Apple unveils iPhone 18 Pro and iPhone 18 Pro Max at event
-- 09/10 02:13 [DeItaone] APPLE: APPLE INTELLIGENCE IS NOT AVAILABLE IN CHINA - EVENT
-- 09/10 02:14 [DeItaone] APPLE: UPDATED SIRI WILL NOT BE AVAILABLE IN EU AND CHINA – EVENT
-- 09/10 02:14 [financialjuice] Apple: Apple Intelligence is not available in China or the EU - Event. $AAPL
-- 09/10 02:14 [DeItaone] APPLE ANNONCES A20 PRO CHIP BASED ON 2NM TECHNOLOGY - EVENT
-- 09/10 02:15 [financialjuice] Apple announces A20 Pro chip based on 2NM technology $AAPL
-- 09/10 02:16 [DeItaone] APPLE: A20 PRO CHIP HAS SEVEN GPU CORES - EVENT
-- 09/10 02:16 [financialjuice] Apple: A20 Pro chip has seven GPU cores. $AAPL
-- 09/10 02:17 [financialjuice] Apple: A20 chip will have two neural engines with 32 cores total, increasing on-device AI performance $AAPL
-- 09/10 02:19 [DeItaone] APPLE SAYS IPHONE 18 PRO MAX HAS THE LARGEST INCREASE IN BATTERY LIFE EVER ON IPHONE - EVENT
-- 09/10 02:21 [DeItaone] SPAIN’S SPY AGENCY WARNED AHEAD OF CEUTA MIGRANT SURGE Spain’s CNI intelligence agency warned Madrid and Moroccan authorities one day before more than 70,000 migrants crossed into Ceuta, newly declassified documents show. The CNI flagged so…
-- 09/10 02:23 [financialjuice] Apple: iPhone 18 Pro has a 48 MP fusion main camera with variable aperture $AAPL
 - 09/10 02:28 [financialjuice] Apple: Apple reference image standard to prove the authenticity of photos at the time of capture, Reference image not available in the EU or China. $AAPL
 - 09/10 02:30 [DeItaone] APPLE INC.: IPHONE 18 PRO STARTS AT $1,199 - EVENT APPLE IPHONE 18 PRO MAX STARTS AT $1,299 - EVENT
 - 09/10 02:31 [financialjuice] Apple iPhone 18 Pro Max starts at $1,299, iPhone 18 Pro starts at $1,199 $AAPL
@@ -331,3 +319,8 @@
 - 09/10 13:55 [FirstSquawk] Japan Chief Cabinet Secretary Kihara says resolving the abduction issue is key to realizing a summit with North Korea.
 - 09/10 14:00 [financialjuice] Finnish industrial output rises 4.5% in July year on year, Statistics Finland
 - 09/10 14:01 [FirstSquawk] Roche’s Enspryng receives U.S. FDA priority review for MOGAD, which has no approved treatments.
+- 09/10 14:15 [FirstSquawk] Hong Kong stocks face wild swings as investors see little chance of state intervention.
+- 09/10 14:16 [FirstSquawk] Beijing rejects US accusations of AI technology copying and threatens retaliation.
+- 09/10 14:17 [financialjuice] China chipmakers raised prices for AI processors, including Huawei and Cambricon.
+- 09/10 14:17 [FirstSquawk] Finnish industrial output grows 4.5% year on year in July, data shows.
+- 09/10 14:21 [FirstSquawk] Rising crude prices are putting pressure on Asian equities, with oil above $100 adding to inflation concerns.
