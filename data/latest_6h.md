@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 13:52 JST／対象: 09/10 07:52 〜 09/10 13:52 JST（時刻はすべて日本時間）
+生成: 2026-09-10 14:05 JST／対象: 09/10 08:05 〜 09/10 14:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 101 | 09/10 08:15 | 09/10 13:47 | ⚠ 49分（08:15→09:05） |
-| financialjuice | 61 | 09/10 08:00 | 09/10 13:52 | ⚠ 55分（11:11→12:06） |
+| FirstSquawk | 105 | 09/10 08:15 | 09/10 14:01 | ⚠ 49分（08:15→09:05） |
+| financialjuice | 58 | 09/10 08:06 | 09/10 14:00 | ⚠ 55分（11:11→12:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 163 行（統合前 164 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 08:00 [financialjuice] 46% of Japan firms want PM Takaichi to remain beyond current term vs 18% opposed, survey shows
-- 09/10 08:00 [financialjuice] More than two-thirds of Japan firms back PM Takaichi's economic policies: survey shows
-- 09/10 08:00 [financialjuice] Nearly a third of Japan firms want yen to trade at 150-159.99 per dollar, a quarter favor 140-149.99 per dollar: source survey shows
-- 09/10 08:01 [financialjuice] UK RICS HOUSING SURVEY ACTUAL -28 (FORECAST -30, PREVIOUS -30) $MACRO
-- 09/10 08:04 [financialjuice] Democratic senator Fetterman to appear in video at Republican convention in Dallas, U.S. media
 - 09/10 08:06 [financialjuice] Trump’s top advisers face possibility iran war continues through end of term - wsj
 - 09/10 08:11 [financialjuice] Democratic Senator Fetterman appears in video at Republican convention in Dallas
 - 09/10 08:13 [financialjuice] No consistent spoken reply to pilot’s remarks on speed: NTSB
@@ -186,3 +181,9 @@
 - 09/10 13:47 [financialjuice] Russian air strikes hit Ukraine's Mykolaiv port, kill four: official
 - 09/10 13:51 [financialjuice] Russian Defence Ministry: drone warehouse struck in Ukraine's Mykolaiv
 - 09/10 13:52 [financialjuice] Russian defence ministry: also struck Ukraine's Black Sea port of Chornomorsk, two ships near Odesa
+- 09/10 13:54 [financialjuice] Japan chief cabinet secretary Kihara: aim to tackle abduction issue firmly to achieve Japan-North Korea summit meeting
+- 09/10 13:54 [FirstSquawk] Russian Defence Ministry reports a strike on a drone warehouse in Mykolaiv.
+- 09/10 13:54 [FirstSquawk] Russian Defence Ministry reports strikes on Chornomorsk port and two vessels near Odesa.
+- 09/10 13:55 [FirstSquawk] Japan Chief Cabinet Secretary Kihara says resolving the abduction issue is key to realizing a summit with North Korea.
+- 09/10 14:00 [financialjuice] Finnish industrial output rises 4.5% in July year on year, Statistics Finland
+- 09/10 14:01 [FirstSquawk] Roche’s Enspryng receives U.S. FDA priority review for MOGAD, which has no approved treatments.

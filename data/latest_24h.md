@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 13:52 JST／対象: 09/09 13:52 〜 09/10 13:52 JST（時刻はすべて日本時間）
+生成: 2026-09-10 14:05 JST／対象: 09/09 14:05 〜 09/10 14:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 334 | 09/09 13:55 | 09/10 13:47 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 226 | 09/09 13:55 | 09/10 13:52 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 334 | 09/09 14:10 | 09/10 14:01 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 225 | 09/09 17:26 | 09/10 14:00 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 604 行（統合前 617 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 603 行（統合前 616 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 13:55 [financialjuice] Russian air strikes damage port facilities in Ukraine's Mykolayiv, officials say
-- 09/09 13:55 [FirstSquawk] Russian Strikes Hit Port Infrastructure in Mykolaiv, Ukrainian Officials Say
-- 09/09 13:58 [FirstSquawk] Peel Hunt Lowers Oxford Biomedica Price Target to 778p From 846p
-- 09/09 13:59 [financialjuice] Israel tells British consulate in east Jerusalem to shut within 30 days, Israeli official says
-- 09/09 13:59 [FirstSquawk] British Consulate in East Jerusalem Ordered to Shut Within 30 Days by Israel, Official Says
-- 09/09 14:00 [financialjuice] Israel tells British consulate in East Jerusalem its diplomats will lose accreditation within 30 days, Israeli official says
-- 09/09 14:00 [FirstSquawk] British Consulate Diplomats in East Jerusalem Face Loss of Accreditation Within 30 Days, Israeli Official Says
 - 09/09 14:10 [FirstSquawk] Kazakhstan Gold and Foreign Currency Reserves Reach $68.562 Billion in August, Increasing 11.8% M/M
 - 09/09 14:12 [FirstSquawk] Gold Prices Edge Higher Amid Softer Dollar, Inflation Data Ahead and Mideast Tensions
 - 09/09 14:19 [FirstSquawk] China needs monkeys: lab animal shortage could hinder biotech growth - SCMP
@@ -628,3 +621,9 @@
 - 09/10 13:47 [financialjuice] Russian air strikes hit Ukraine's Mykolaiv port, kill four: official
 - 09/10 13:51 [financialjuice] Russian Defence Ministry: drone warehouse struck in Ukraine's Mykolaiv
 - 09/10 13:52 [financialjuice] Russian defence ministry: also struck Ukraine's Black Sea port of Chornomorsk, two ships near Odesa
+- 09/10 13:54 [financialjuice] Japan chief cabinet secretary Kihara: aim to tackle abduction issue firmly to achieve Japan-North Korea summit meeting
+- 09/10 13:54 [FirstSquawk] Russian Defence Ministry reports a strike on a drone warehouse in Mykolaiv.
+- 09/10 13:54 [FirstSquawk] Russian Defence Ministry reports strikes on Chornomorsk port and two vessels near Odesa.
+- 09/10 13:55 [FirstSquawk] Japan Chief Cabinet Secretary Kihara says resolving the abduction issue is key to realizing a summit with North Korea.
+- 09/10 14:00 [financialjuice] Finnish industrial output rises 4.5% in July year on year, Statistics Finland
+- 09/10 14:01 [FirstSquawk] Roche’s Enspryng receives U.S. FDA priority review for MOGAD, which has no approved treatments.

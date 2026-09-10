@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 13:52 JST／対象: 09/10 01:52 〜 09/10 13:52 JST（時刻はすべて日本時間）
+生成: 2026-09-10 14:05 JST／対象: 09/10 02:05 〜 09/10 14:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/10 02:13 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 159 | 09/10 01:52 | 09/10 13:47 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 131 | 09/10 01:53 | 09/10 13:52 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 162 | 09/10 02:47 | 09/10 14:01 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 127 | 09/10 02:08 | 09/10 14:00 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 308 行（統合前 315 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 307 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 01:52 [FirstSquawk] BLAST REPORTED IN THE STRAIT OF HORMUZ, ACCORDING TO IRIB.
-- 09/10 01:53 [financialjuice] ❗ Russia's Siluanov: Russia weighs $50/bbl budget rule oil price - IFX.
-- 09/10 02:00 [financialjuice] Treasury WI 10 yr yield 4.849% before $39 billion auction
-- 09/10 02:02 [financialjuice] US 10-YEAR NOTE HIGH YIELD ACTUAL 4.834% (FORECAST -, PREVIOUS 4.683%) $MACRO
-- 09/10 02:02 [financialjuice] US 10-YEAR NOTE BID-TO-COVER ACTUAL 2.71 (FORECAST -, PREVIOUS 2.530) $MACRO
-- 09/10 02:03 [financialjuice] US 10-Year Note Auction
-- 09/10 02:03 [financialjuice] US 10-Year Note Auction High Yield 4.834% [Stop-through 1.5 bps] Bid-to-cover 2.71 Sells 39 bln Awards 89.25% of bids at high Primary Dealers take 4.3% Direct 16.5% Indirect 79.2%
 - 09/10 02:08 [financialjuice] Apple unveils iPhone 18 Pro and iPhone 18 Pro Max at event
 - 09/10 02:13 [DeItaone] APPLE: APPLE INTELLIGENCE IS NOT AVAILABLE IN CHINA - EVENT
 - 09/10 02:14 [DeItaone] APPLE: UPDATED SIRI WILL NOT BE AVAILABLE IN EU AND CHINA – EVENT
@@ -332,3 +325,9 @@
 - 09/10 13:47 [financialjuice] Russian air strikes hit Ukraine's Mykolaiv port, kill four: official
 - 09/10 13:51 [financialjuice] Russian Defence Ministry: drone warehouse struck in Ukraine's Mykolaiv
 - 09/10 13:52 [financialjuice] Russian defence ministry: also struck Ukraine's Black Sea port of Chornomorsk, two ships near Odesa
+- 09/10 13:54 [financialjuice] Japan chief cabinet secretary Kihara: aim to tackle abduction issue firmly to achieve Japan-North Korea summit meeting
+- 09/10 13:54 [FirstSquawk] Russian Defence Ministry reports a strike on a drone warehouse in Mykolaiv.
+- 09/10 13:54 [FirstSquawk] Russian Defence Ministry reports strikes on Chornomorsk port and two vessels near Odesa.
+- 09/10 13:55 [FirstSquawk] Japan Chief Cabinet Secretary Kihara says resolving the abduction issue is key to realizing a summit with North Korea.
+- 09/10 14:00 [financialjuice] Finnish industrial output rises 4.5% in July year on year, Statistics Finland
+- 09/10 14:01 [FirstSquawk] Roche’s Enspryng receives U.S. FDA priority review for MOGAD, which has no approved treatments.
