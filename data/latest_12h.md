@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 19:58 JST／対象: 09/10 07:58 〜 09/10 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-10 20:17 JST／対象: 09/10 08:17 〜 09/10 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/10 16:41 | 09/10 19:57 | 35分（17:30→18:05） |
-| FirstSquawk | 211 | 09/10 08:15 | 09/10 19:58 | ⚠ 49分（08:15→09:05） |
-| financialjuice | 90 | 09/10 08:00 | 09/10 19:58 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 16 | 09/10 16:41 | 09/10 20:04 | 35分（17:30→18:05） |
+| FirstSquawk | 214 | 09/10 09:05 | 09/10 20:15 | 14分（18:38→18:53） |
+| financialjuice | 82 | 09/10 08:31 | 09/10 20:01 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 310 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 307 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 08:00 [financialjuice] 46% of Japan firms want PM Takaichi to remain beyond current term vs 18% opposed, survey shows
-- 09/10 08:00 [financialjuice] More than two-thirds of Japan firms back PM Takaichi's economic policies: survey shows
-- 09/10 08:00 [financialjuice] Nearly a third of Japan firms want yen to trade at 150-159.99 per dollar, a quarter favor 140-149.99 per dollar: source survey shows
-- 09/10 08:01 [financialjuice] UK RICS HOUSING SURVEY ACTUAL -28 (FORECAST -30, PREVIOUS -30) $MACRO
-- 09/10 08:04 [financialjuice] Democratic senator Fetterman to appear in video at Republican convention in Dallas, U.S. media
-- 09/10 08:06 [financialjuice] Trump’s top advisers face possibility iran war continues through end of term - wsj
-- 09/10 08:11 [financialjuice] Democratic Senator Fetterman appears in video at Republican convention in Dallas
-- 09/10 08:13 [financialjuice] No consistent spoken reply to pilot’s remarks on speed: NTSB
-- 09/10 08:13 [financialjuice] One pilot of crashed Amazon cargo plane tells other about excessive speed in final 1 minute 42 seconds of cockpit voice recording, NTSB says
-- 09/10 08:13 [financialjuice] 'Too low, terrain' was repeated several times before plane landed on runway: NTSB
-- 09/10 08:15 [FirstSquawk] JAPAN SURVEY SHOWS NEARLY ONE-THIRD OF COMPANIES PREFER THE YEN TO TRADE AT 150-159.99 PER DOLLAR, WHILE ABOUT A QUARTER FAVOR THE 140-149.99 RANGE. MORE THAN TWO-THIRDS OF JAPANESE FIRMS BACK PM SANAE TAKAICHI’S ECONOMIC POLICIES, WITH 46%…
 - 09/10 08:31 [financialjuice] OpenAI: pushing for compulsory national AI safety regulations
 - 09/10 08:32 [financialjuice] OpenAI: backing four California bills
 - 09/10 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL 690.0B (FORECAST -, PREVIOUS 35.8B ,REVISION 35.9B) $MACRO
@@ -334,3 +323,11 @@
 - 09/10 19:57 [financialjuice/DeItaone/FirstSquawk] ❗ Iran orders temporary suspension of 10% freight charge on foreign vessels carrying energy products to or from Iran - Fars News.
 - 09/10 19:58 [financialjuice/FirstSquawk] Iraq tendering for two oil supertankers to go through Hormuz.
 - 09/10 19:58 [financialjuice/FirstSquawk] Iraq's IOTC tenders for oil supertankers for 180-day period.
+- 09/10 19:59 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:15 AM ET — 🇪🇺 ECB Rate Decision 8:30 AM ET — 🇺🇸 PPI + Jobless Claims 8:45 AM ET — 🇪🇺 Lagarde Press Conference 10:00 AM ET — 🏠 Existing Home Sales 10:30 AM ET — 🔥 EIA Natural Gas Storage 12:00 PM ET — …
+- 09/10 20:00 [FirstSquawk] TURKEY LEAVES ONE-WEEK REPO RATE AT 37%; EST. 37.00%
+- 09/10 20:00 [financialjuice] TURKISH WEEKLY REPO RATE ACTUAL 37% (FORECAST 37%, PREVIOUS 37.00%) $MACRO
+- 09/10 20:00 [FirstSquawk] RUSSIAN BANK REPORTS 25% OF CORPORATE LOANS AS TROUBLESOME.
+- 09/10 20:01 [financialjuice] UKMTO: Has received a report of an incident 98NM Southwest of Al Mukalla, Yemen.
+- 09/10 20:04 [DeItaone] 📅 PRESIDENT TRUMP — THURSDAY SCHEDULE 8:00 AM CT — Executive Time — Dallas 12:00 PM CT — Tours the National Medal of Honor Museum — Arlington 12:30 PM CT — Delivers remarks at the museum 5:15 PM CT — Participates in RNC Roundtable — Dallas …
+- 09/10 20:10 [FirstSquawk] Macy’s Q2 2026 Earnings - Comp Sales +2.7% (est +0.86%) - Adj EPS 63C (est 36C) - Net Sales $4.87B, +1.1% Y/Y - Gross Margin 41.5% (est 39.7%) - Sees FY Net Sales $21.68B To $21.83B, Saw $21.58 To $21.75B - Sees FY Adj EPS $2.15 To $2.35, S…
+- 09/10 20:15 [FirstSquawk] KREMLIN: RUSSIA WILL DISCUSS TRADE SETTLEMENTS IN DIGITAL CURRENCIES WITH BRICS+ PARTNERS AT SUMMIT IN INDIA
