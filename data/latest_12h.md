@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 02:31 JST／対象: 09/10 14:31 〜 09/11 02:31 JST（時刻はすべて日本時間）
+生成: 2026-09-11 02:44 JST／対象: 09/10 14:44 〜 09/11 02:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 09/10 16:41 | 09/11 02:27 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 211 | 09/10 14:36 | 09/11 02:11 | 26分（00:31→00:58） |
-| financialjuice | 215 | 09/10 14:38 | 09/11 02:24 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 49 | 09/10 16:41 | 09/11 02:44 | ⚠ 108分（23:45→01:33） |
+| FirstSquawk | 213 | 09/10 14:48 | 09/11 02:44 | 26分（00:31→00:58） |
+| financialjuice | 211 | 09/10 15:00 | 09/11 02:42 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 458 行（統合前 479 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 457 行（統合前 478 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 14:36 [FirstSquawk] TSMC posted record August revenue, with sales surging more than 53% year on year as per CNBC
-- 09/10 14:38 [FirstSquawk] BOJ’s Masu says inflation is moving closer to 2%, while a sharp rise beyond the target is not currently anticipated.
-- 09/10 14:38 [financialjuice] BoJ's Masu: Underlying inflation gradually approaching 2% but don't see it overshooting sharply above that level now.
-- 09/10 14:39 [FirstSquawk] BOJ’s Masu signals caution on rate hikes when questioned about the prospect of a 50-basis-point increase.
-- 09/10 14:39 [financialjuice] BoJ's Masu when asked about chance of 50-basis-point rate hike: We should proceed at a cautious approach in pushing up borrowing costs.
-- 09/10 14:39 [financialjuice] BoJ's Masu: Important to stabilize price trend around 2%.
-- 09/10 14:41 [FirstSquawk] Masu: BOJ’s policy rate has remained below the neutral-rate range for too long and should be raised soon.
-- 09/10 14:42 [financialjuice] BoJ's Masu: BoJ's policy rate is still below our estimated range on neutral rate, and has been below that level for a very long time so this needs to be fixed soon.
-- 09/10 14:42 [financialjuice] BoJ's Masu: It is unnatural for BoJ's policy rate to stay below its estimated range of neutral level.
-- 09/10 14:42 [FirstSquawk] BOJ board member Masu says the current rate is unusually low relative to the estimated neutral range.
-- 09/10 14:44 [FirstSquawk] BOJ board member Masu says rising oil and food prices, along with the stronger yen, will be key factors in next week’s rate decision.
-- 09/10 14:44 [financialjuice] BoJ's Masu: Yen is rising while crude oil, global food prices rising so will scrutinize these factors comprehensively at next week's meeting in deciding on rates.
 - 09/10 14:48 [FirstSquawk] BOJ board member Masu says the pace of future rate increases will depend on decisions taken at individual meetings.
 - 09/10 14:50 [FirstSquawk] BOJ board member Masu says inflation has not shown signs of a significant overshoot so far.
 - 09/10 14:50 [FirstSquawk] BOJ board member Masu says current inflation risks are manageable if price trends stay aligned with the July outlook.
@@ -482,3 +470,14 @@
 - 09/11 02:24 [financialjuice] LIVE: President Trump Delivers Remarks At National Medal Of Honor Museum In Arlington, TX
 - 09/11 02:25 [DeItaone] *DRUCKENMILLER SAYS US BORROWING COSTS STILL ‘A LITTLE LOW’: FT
 - 09/11 02:27 [DeItaone] OPENAI: LAUNCHES CHATGPT FOR FINANCIAL SERVICES WITH GPT-6 ASTRA REASONING
+- 09/11 02:32 [FirstSquawk] OPENAI HAS LAUNCHED CHATGPT FOR FINANCIAL SERVICES WITH GPT-6 ASTRA REASONING, DEVELOPED THROUGH A PARTNERSHIP WITH MORGAN STANLEY AND EVERCORE.
+- 09/11 02:32 [FirstSquawk] OPENAI SAYS IT IS WORKING WITH FACTSET, S&P GLOBAL, PREQIN AND DATASITE ON SHARED SIGN-IN AND ENTITLEMENT INTEGRATIONS FOR CHATGPT FOR FINANCIAL SERVICES.
+- 09/11 02:35 [FirstSquawk] CANADA HAS STRUCK A C$350 MLN DEAL WITH UKRAINE TO PROVIDE IT WITH AIR DEFENSE INTERCEPTORS, PRIME MINISTER CARNEY SAYS, ADDING THAT CANADA AIMS TO BE ABLE TO PRODUCE MILLIONS OF DRONES WITHIN THE NEXT TWO YEARS AND WILL SEND A THIRD OF THO…
+- 09/11 02:37 [FirstSquawk] 4 COUNTERPARTIES TAKE $4.736 BLN AT FED REVERSE REPO OP. (PREV $432 MLN, 6 BIDS)
+- 09/11 02:37 [FirstSquawk] UNICREDIT'S BOARD HAS APPROVED A SHARE CAPITAL INCREASE FOR A COMMERZBANK TAKEOVER OFFER
+- 09/11 02:37 [FirstSquawk] ANTHROPIC SAYS MOONSHOT SECRETLY ROUTED USER REQUESTS THROUGH CLAUDE, DIVERTING QUERIES TO ANTHROPIC'S CHATBOTS WITHOUT LETTING USERS KNOW RATHER THAN PROCESSING THEM THROUGH ITS KIMI MODEL.
+- 09/11 02:37 [FirstSquawk] ANTHROPIC SAYS IT SPOTTED NEARLY 300,000 CUSTOMER REQUESTS THAT MOONSHOT SENT PRIMARILY TO ANTHROPIC'S OPUS AI MODEL.
+- 09/11 02:42 [financialjuice] OpenAI: introducing ChatGPT for Financial services.
+- 09/11 02:42 [financialjuice] OpenAI embeds GPT -6 Astra in financial services product.
+- 09/11 02:44 [DeItaone] OPENAI LAUNCHES CHATGPT FOR WALL STREET OpenAI is launching ChatGPT for Financial Services, targeting investment bankers and equity researchers with integrated data from LSEG, PitchBook and Daloopa. Powered initially by GPT-6 Astra, the pla…
+- 09/11 02:44 [FirstSquawk] OPENAI IS INTRODUCING CHATGPT FOR FINANCIAL SERVICES, EMBEDDING GPT-6 ASTRA IN THE FINANCIAL SERVICES PRODUCT
