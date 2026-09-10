@@ -7,51 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 12:59 JST／対象: 09/10 00:59 〜 09/10 12:59 JST（時刻はすべて日本時間）
+生成: 2026-09-10 13:18 JST／対象: 09/10 01:18 〜 09/10 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/10 01:05 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 158 | 09/10 01:01 | 09/10 12:58 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 136 | 09/10 01:01 | 09/10 12:26 | ⚠ 59分（07:00→08:00） |
+| DeItaone | 29 | 09/10 01:22 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
+| FirstSquawk | 154 | 09/10 01:28 | 09/10 13:16 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 134 | 09/10 01:20 | 09/10 13:18 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 319 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 311 行（統合前 318 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 01:01 [FirstSquawk] WHITE HOUSE REFUTES FINANCIAL TIMES REPORT ABOUT RATCLIFFE AND RUSSIA-UKRAINE DISCUSSIONS.
-- 09/10 01:01 [financialjuice] White House denies FT report on Ratcliffe and Russia-Ukraine talks
-- 09/10 01:01 [financialjuice] Iran: Once the conditions of war end, the ground will be prepared for the IAEA's verification activities - ISNA
-- 09/10 01:03 [financialjuice] EIA STEO Report EIA Raises Brent, WTI and US Oil Production Forecasts
-- 09/10 01:04 [FirstSquawk] EIA SEES 2026 U.S. OIL OUTPUT OF 13.83 MLN BPD, VS PRIOR FORECAST 13.8 MLN BPD; SEES 2027 OUTPUT OF 14.26 MLN BPD (PVS 14.15 MLN BPD) || EIA SEES 2026 U.S. NATGAS OUTPUT OF 111.7 BCF/DAY, VS PRIOR FORECAST 111.2 BCF/D; SEES 2027 DEMAND OF 1…
-- 09/10 01:04 [FirstSquawk] EIA SEES 2026 U.S. OIL DEMAND OF 20.6 MLN BPD, VS PRIOR FORECAST 20.6 MLN BPD; SEES 2027 DEMAND OF 20.8 MLN BPD (PVS 20.8 MLN BPD) || EIA SEES 2026 U.S. NATGAS DEMAND OF 92.2 BCF/DAY, VS PRIOR FORECAST 92 BCF/D; SEES 2027 DEMAND OF 94.3 BCF…
-- 09/10 01:04 [FirstSquawk] EIA SEES 2026 WORLD OIL OUTPUT OF 100.6 MLN BPD, VS PRIOR FORECAST 100.8 MLN BPD; SEES 2027 OUTPUT OF 109.9 MLN BPD (PVS 109.7 MLN BPD) || EIA SEES 2026 WORLD OIL DEMAND OF 102.6 MLN BPD, VS PRIOR FORECAST 102.7 MLN BPD; SEES 2027 DEMAND OF…
-- 09/10 01:04 [FirstSquawk] EIA SEES 2026 WTI PRICE AVERAGE OF 84.65/BBL, VS PRIOR FORECAST 80.88/BBL; 2027 FORECAST OF 69.74/BBL (PVS 65.39/BBL) || EIA SEES 2026 BRENT PRICE AVERAGE OF 91.01/BBL, VS PRIOR FORECAST 86.81/BBL; 2027 FORECAST OF 73.74/BBL (PVS 69.39/BBL)
-- 09/10 01:05 [financialjuice] EIA STEO Report
-- 09/10 01:05 [DeItaone] RESEARCHERS SAY OPENAI AGENTS BYPASSED WEB RESTRICTIONS Independent researchers say OpenAI AI agents used more than 10 websites for unauthorized communications, bypassing restrictions that were intended to limit them to reading the web. Som…
-- 09/10 01:05 [financialjuice] EIA STEO Report September 2026
-- 09/10 01:06 [financialjuice] EIA STEO Report: EIA expects Middle East oil output to rise in coming months due to gradually increasing flows" through Hormuz.
-- 09/10 01:06 [FirstSquawk] U.S. OIL PRODUCTION TO AVERAGE 13.96 MLN BPD IN SEPTEMBER VS 13.88 MLN BPD IN AUGUST; TO AVERAGE 13.95 MLN BPD IN OCTOBER – EIA || U.S. NATURAL GAS PRODUCTION TO AVERAGE 123.9 BCF/DAY IN SEPTEMBER VS 123.7 BCF/DAY IN AUGUST; TO AVERAGE 124.…
-- 09/10 01:07 [financialjuice] EIA STEO report assumes some constraints to oil exports from Middle East will persist through end of 2026.
-- 09/10 01:07 [FirstSquawk] EIA EXPECTS MIDDLE EAST OIL OUTPUT TO RISE IN COMING MONTHS DUE TO "GRADUALLY INCREASING FLOWS" THROUGH HORMUZ || EIA ASSUMES SOME CONSTRAINTS TO OIL EXPORTS FROM MIDDLE EAST WILL PERSIST THROUGH END OF 2026 - STEO
-- 09/10 01:08 [financialjuice] EIA expects Crude Oil output from Mideast will remain below pre-conflict averages until Q2 2027.
-- 09/10 01:08 [financialjuice] EIA: Saudi Yanbu oil exports fell about 50% in August from July amid Bab el-Mandeb disruptions.
-- 09/10 01:09 [financialjuice] ❗ Iran Official: Iran ready for more intense war with US if required.
-- 09/10 01:09 [FirstSquawk] BAKER HUGHES $BKR RAISES 2026 REVENUE GUIDANCE TO $28.50B-$30.30B FROM $26.65B $BKR
-- 09/10 01:10 [DeItaone] TREASURY TRIPLES BOND BUYBACK, MARKETS WANT MORE The U.S. Treasury tripled its next long-term debt buyback to $6 billion, as Secretary Scott Bessent seeks to contain rising borrowing costs. Despite the increase, Treasuries fell, pushing the…
-- 09/10 01:10 [FirstSquawk] IRAN PLANS TO INCREASE ATTACKS FOLLOWING U.S. STRIKES, SAYS OFFICIAL.
-- 09/10 01:10 [FirstSquawk] IRAN VIEWS WAR AS A MATTER OF SURVIVAL; FEELS OBLIGATED TO ENGAGE IN COMBAT, SAYS OFFICIAL.
-- 09/10 01:11 [financialjuice] US Agriculture Sec. Rollins: Some food costs have come down in the last two years.
-- 09/10 01:12 [FirstSquawk] TOTALENERGIES CEO ANNOUNCES $10 BILLION INVESTMENT IN ANGOLA PARTNERS FOR VARIOUS PROJECTS OVER THE NEXT FIVE YEARS.
-- 09/10 01:12 [FirstSquawk] ROLLINS STATES THAT FOOD PRICES HAVE DECREASED OVER THE PAST TWO YEARS.
-- 09/10 01:12 [FirstSquawk] ROLLINS IS FOCUSED ON HIS CURRENT POSITION AND NOT THINKING ABOUT A FUTURE RUN.
-- 09/10 01:14 [financialjuice] EIA finalized inputs into STEO forecast model on September 3rd. Forecast does not account for more recent Mideast events.
-- 09/10 01:15 [FirstSquawk] INDEPENDENCE REALTY $IRT AND CENTERSPACE AGREE TO MERGE IN $8.1B DEAL, CREATING LARGER MULTIFAMILY REIT WITH $24M IN ANNUAL SYNERGIES $IRT
 - 09/10 01:20 [financialjuice] EIA: Middle East crude oil output shut-ins rose in August to 6.7 mln bpd, from 5 mln bpd in July.
 - 09/10 01:22 [DeItaone] IRAN WARNS OF ESCALATION AS U.S. CONFLICT INTENSIFIES An Iranian official says Tehran is prepared for a more intense war with the U.S. if necessary, according to Bloomberg headlines shown in the report. The official said Iran would escalate…
 - 09/10 01:25 [financialjuice] China and Russia vote against effort to pressure Iran at IAEA.
@@ -343,3 +315,23 @@
 - 09/10 12:42 [FirstSquawk] China could see EV penetration reach 75%-80% by 2030, Sinopec researcher says.
 - 09/10 12:50 [FirstSquawk] Oceans set heat records for 100 straight days, prompting scientists to warn that the climate outlook is “not pretty.”
 - 09/10 12:58 [FirstSquawk] Gold prices remain above $4,400 as markets await fresh U.S. inflation data.
+- 09/10 13:00 [financialjuice] Saudi civil defence issues emergency warning for province of Khamis Mushait - post on X
+- 09/10 13:02 [financialjuice] IMF dropped leading candidate for chief economist role over Trump tariff comments: FT
+- 09/10 13:03 [financialjuice] Mubadala investment arrives as China’s coffee market keeps growing
+- 09/10 13:03 [financialjuice] IMF drops Ricardo Reis as lead candidate for new chief economist: FT
+- 09/10 13:04 [financialjuice] Mubadala: continues to see strong long-term prospects in China’s consumer sector
+- 09/10 13:04 [FirstSquawk] Arini is facing pressure after several European credit bets moved against the London-based investment firm.
+- 09/10 13:05 [FirstSquawk] Trump tariff comments reportedly cost the leading candidate a shot at becoming the IMF’s next chief economist.
+- 09/10 13:06 [FirstSquawk] Ukrainian battlefield robotics draws fresh U.S. investment as an Erik Prince-backed drone company moves for an acquisition.
+- 09/10 13:06 [FirstSquawk] Rising oil costs are reviving momentum around clean hydrogen as countries reassess energy alternatives.
+- 09/10 13:07 [FirstSquawk] UK probation authorities face a growing crisis as more released prisoners end up back in custody, watchdog says.
+- 09/10 13:07 [financialjuice] Saudi civil defence: threat has passed in Khamis Mushait
+- 09/10 13:07 [financialjuice] Ukraine air strikes target Russia's Caspian Sea port of Makhachkala, official says
+- 09/10 13:08 [FirstSquawk] Saudi Civil Defence says conditions in Khamis Mushait are now safe after an earlier warning.
+- 09/10 13:08 [FirstSquawk] Emergency alert issued by Saudi Civil Defence for Khamis Mushait.
+- 09/10 13:08 [financialjuice] Mubadala: to make major minority investment in Luckin Coffee alongside Centurium Capital
+- 09/10 13:09 [FirstSquawk] Russian official says Ukraine launched air strikes targeting the Caspian Sea port of Makhachkala.
+- 09/10 13:10 [financialjuice] Russian air strikes kill five, injure 24 in Ukraine’s Sumy region: police
+- 09/10 13:11 [FirstSquawk] Russian strikes on Sumy region leave five dead and 24 injured, according to Ukrainian police.
+- 09/10 13:16 [FirstSquawk] HD Hyundai Heavy Industries announces an 834 billion won investment in new power-generation engine production.
+- 09/10 13:18 [financialjuice] China's state-run Sinograin purchased 14-15 shipments or about 1 mln tons of US soybeans in deals this week: sources

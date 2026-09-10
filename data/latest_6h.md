@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 12:59 JST／対象: 09/10 06:59 〜 09/10 12:59 JST（時刻はすべて日本時間）
+生成: 2026-09-10 13:18 JST／対象: 09/10 07:18 〜 09/10 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 91 | 09/10 07:34 | 09/10 12:58 | ⚠ 49分（08:15→09:05） |
-| financialjuice | 51 | 09/10 07:00 | 09/10 12:26 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 101 | 09/10 07:34 | 09/10 13:16 | ⚠ 49分（08:15→09:05） |
+| financialjuice | 57 | 09/10 08:00 | 09/10 13:18 | ⚠ 55分（11:11→12:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 142 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 158 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 07:00 [financialjuice] Poll: total size of Japan's FY2027 budget requests raise worries about fiscal discipline: 74% of economists
-- 09/10 07:00 [financialjuice] Poll: joint US-Japan FX intervention, US Treasury chief Bessent's comments reduce political barriers for BoJ rate hikes, say 82% of economists
-- 09/10 07:00 [financialjuice] Poll: Bank of Japan to increase benchmark interest rate to 1.25% on September 18, say 97% of economists (up from 57% in August)
-- 09/10 07:00 [financialjuice] Poll: Bank of Japan to raise rates to minimum 1.75% in Q2 2027, 62% of economists say (vs. 1.50% in prior poll)
 - 09/10 07:34 [FirstSquawk] FITCH WARNS COLOMBIA’S BUDGET HAS A DEEP FISCAL IMBALANCE AND SAYS SIGNIFICANT ADDITIONAL MEASURES ARE NEEDED TO STABILIZE THE COUNTRY’S RISING DEBT.
 - 09/10 07:34 [FirstSquawk] FITCH SAYS FAILURE TO DELIVER STRONGER DEFICIT-REDUCTION MEASURES COULD PUT NEW PRESSURE ON COLOMBIA’S CREDIT RATING, WITH DEFICITS LIKELY TO EXCEED PRIOR FORECASTS EVEN IF THE 2.2% OF GDP CONSOLIDATION TARGET IS MET.
 - 09/10 07:35 [FirstSquawk] APPLIED MATERIALS CEO: SERVICES BUSINESS GROWING MORE THAN 20% Y/Y WITH MARGINS UP 180BPS; PACKAGING BUSINESS EXPECTED TO GROW MORE THAN 70% THIS YEAR.
@@ -166,3 +162,23 @@
 - 09/10 12:42 [FirstSquawk] China could see EV penetration reach 75%-80% by 2030, Sinopec researcher says.
 - 09/10 12:50 [FirstSquawk] Oceans set heat records for 100 straight days, prompting scientists to warn that the climate outlook is “not pretty.”
 - 09/10 12:58 [FirstSquawk] Gold prices remain above $4,400 as markets await fresh U.S. inflation data.
+- 09/10 13:00 [financialjuice] Saudi civil defence issues emergency warning for province of Khamis Mushait - post on X
+- 09/10 13:02 [financialjuice] IMF dropped leading candidate for chief economist role over Trump tariff comments: FT
+- 09/10 13:03 [financialjuice] Mubadala investment arrives as China’s coffee market keeps growing
+- 09/10 13:03 [financialjuice] IMF drops Ricardo Reis as lead candidate for new chief economist: FT
+- 09/10 13:04 [financialjuice] Mubadala: continues to see strong long-term prospects in China’s consumer sector
+- 09/10 13:04 [FirstSquawk] Arini is facing pressure after several European credit bets moved against the London-based investment firm.
+- 09/10 13:05 [FirstSquawk] Trump tariff comments reportedly cost the leading candidate a shot at becoming the IMF’s next chief economist.
+- 09/10 13:06 [FirstSquawk] Ukrainian battlefield robotics draws fresh U.S. investment as an Erik Prince-backed drone company moves for an acquisition.
+- 09/10 13:06 [FirstSquawk] Rising oil costs are reviving momentum around clean hydrogen as countries reassess energy alternatives.
+- 09/10 13:07 [FirstSquawk] UK probation authorities face a growing crisis as more released prisoners end up back in custody, watchdog says.
+- 09/10 13:07 [financialjuice] Saudi civil defence: threat has passed in Khamis Mushait
+- 09/10 13:07 [financialjuice] Ukraine air strikes target Russia's Caspian Sea port of Makhachkala, official says
+- 09/10 13:08 [FirstSquawk] Saudi Civil Defence says conditions in Khamis Mushait are now safe after an earlier warning.
+- 09/10 13:08 [FirstSquawk] Emergency alert issued by Saudi Civil Defence for Khamis Mushait.
+- 09/10 13:08 [financialjuice] Mubadala: to make major minority investment in Luckin Coffee alongside Centurium Capital
+- 09/10 13:09 [FirstSquawk] Russian official says Ukraine launched air strikes targeting the Caspian Sea port of Makhachkala.
+- 09/10 13:10 [financialjuice] Russian air strikes kill five, injure 24 in Ukraine’s Sumy region: police
+- 09/10 13:11 [FirstSquawk] Russian strikes on Sumy region leave five dead and 24 injured, according to Ukrainian police.
+- 09/10 13:16 [FirstSquawk] HD Hyundai Heavy Industries announces an 834 billion won investment in new power-generation engine production.
+- 09/10 13:18 [financialjuice] China's state-run Sinograin purchased 14-15 shipments or about 1 mln tons of US soybeans in deals this week: sources
