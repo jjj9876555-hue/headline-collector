@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 19:26 JST／対象: 09/10 13:26 〜 09/10 19:26 JST（時刻はすべて日本時間）
+生成: 2026-09-10 19:44 JST／対象: 09/10 13:44 〜 09/10 19:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/10 16:41 | 09/10 19:09 | 35分（17:30→18:05） |
-| FirstSquawk | 105 | 09/10 13:26 | 09/10 19:15 | 14分（18:38→18:53） |
-| financialjuice | 27 | 09/10 13:30 | 09/10 18:42 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 13 | 09/10 16:41 | 09/10 19:33 | 35分（17:30→18:05） |
+| FirstSquawk | 106 | 09/10 13:45 | 09/10 19:43 | 14分（18:38→18:53） |
+| financialjuice | 27 | 09/10 13:47 | 09/10 19:28 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 143 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 146 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 13:26 [FirstSquawk] Artificial intelligence is expected to support U.S. economic growth, but could also threaten knowledge-worker employment and weigh on wages.
-- 09/10 13:30 [financialjuice] Dutch July manufacturing output rises 1.6% m/m: CBS
-- 09/10 13:32 [FirstSquawk] Malaysia’s palm oil inventories climb to 2.82 million tonnes in August, up 7.48% from July, according to MPOB.
-- 09/10 13:34 [FirstSquawk] Malaysia’s crude palm oil output increased 1.39% M/M to 1.82 million tons in August, according to MPOB.
 - 09/10 13:45 [FirstSquawk] Trump offers $5,000 to every US adult if Republicans secure victory in the November midterm elections.
 - 09/10 13:47 [FirstSquawk] Four killed after Russian air strikes hit Ukraine’s port of Mykolaiv, official says.
 - 09/10 13:47 [financialjuice] Russian air strikes hit Ukraine's Mykolaiv port, kill four: official
@@ -167,3 +163,10 @@
 - 09/10 19:02 [FirstSquawk] CHINA'S XI TO VISIT INDIA SEP 12-13, ATTEND BRICS SUMMIT - CHINESE STATE MEDIA
 - 09/10 19:09 [DeItaone] $AAPL - APPLE INC.: BOFA GLOBAL RESEARCH CUTS PRICE OBJECTIVE TO $370 FROM $380
 - 09/10 19:15 [FirstSquawk] BROADCOM: REMAINING PERFORMANCE OBLIGATIONS UNDER SEMICONDUCTOR SOLUTIONS & INFRASTRUCTURE SOFTWARE SEGMENT CONTRACTS AS OF AUG 2, ABOUT $179.2B
+- 09/10 19:28 [financialjuice] White House yet to decide on refined copper tariffs.
+- 09/10 19:29 [FirstSquawk] NASDAQ HAS INVESTED IN PAYWARD, THE PARENT COMPANY OF KRAKEN, VALUING IT AT $21 BILLION.
+- 09/10 19:30 [DeItaone] TRUMP SEES IRAN WAR ENDING AFTER MIDTERMS President Donald Trump said he expects the Iran war to end after November’s U.S. midterm elections, while again threatening strikes on Iran’s Pickaxe Mountain nuclear site. Meanwhile, Iran and the U…
+- 09/10 19:33 [DeItaone] WHITE HOUSE HESITATES ON COPPER TARIFFS The White House has not yet decided on refined copper tariffs, as officials weigh boosting U.S. production against higher manufacturing costs ahead of the midterms. Copper prices have already hit reco…
+- 09/10 19:34 [FirstSquawk] LME COPPER DROPS 2% AFTER RTRS REPORT ON TARIFF COST CONCERNS
+- 09/10 19:42 [FirstSquawk] USD/JPY EXTENDS GAINS, RISES 0.3% TO DAY HIGH AT 154.08
+- 09/10 19:43 [FirstSquawk] 20 PEOPLE DIED AFTER CHINA SHIPYARD FIRE: CCTV

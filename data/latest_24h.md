@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 19:26 JST／対象: 09/09 19:26 〜 09/10 19:26 JST（時刻はすべて日本時間）
+生成: 2026-09-10 19:44 JST／対象: 09/09 19:44 〜 09/10 19:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 60 | 09/09 19:30 | 09/10 19:09 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 357 | 09/09 19:26 | 09/10 19:15 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 235 | 09/09 19:47 | 09/10 18:42 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 58 | 09/09 19:57 | 09/10 19:33 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 352 | 09/09 19:47 | 09/10 19:43 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 236 | 09/09 19:47 | 09/10 19:28 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 642 行（統合前 654 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 638 行（統合前 648 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 19:26 [FirstSquawk] KREMLIN: EUROPE COULD GET CHEAPER GAS IF IT BOUGHT FROM RUSSIA
-- 09/09 19:26 [FirstSquawk] KREMLIN: EUROPEANS ARE INFLICTING DAMAGE ON THEMSELVES BY BUYING GAS ON SPOT MARKET FOR A PRICE WHICH IS HIGHER THAN FOR RUSSIAN GAS
-- 09/09 19:26 [FirstSquawk] KREMLIN SAYS EUROPE IS IN DIFFICULT SITUATION, THEY WILL NOT BE ABLE TO REPLENISH THEIR GAS STORAGE BY WINTER
-- 09/09 19:26 [FirstSquawk/DeItaone] KREMLIN: NORD STREAM PIPELINE COULD BE BROUGHT BACK ONLINE INSTANTLY
-- 09/09 19:30 [FirstSquawk] RYANAIR CEO O’LEARY TO REUTERS: ON TUESDAY WE CANCELLED 260 FLIGHTS, AFFECTING ABOUT 48,000 PASSENGERS
-- 09/09 19:30 [DeItaone] KREMLIN HOPES US-BROKERED UKRAINE TALKS RESUME SOON The Kremlin says it hopes US-mediated peace talks between Russia and Ukraine will restart soon, after negotiations stalled in February. Spokesman Dmitry Peskov declined to discuss possible…
-- 09/09 19:33 [DeItaone] KREMLIN: EUROPE FEELING PAIN OF HIGHER GAS PRICES The Kremlin says Europe is suffering from soaring natural gas prices amid the Iran war and could cut costs by buying Russian gas. European gas prices recently reached their highest level sin…
-- 09/09 19:37 [FirstSquawk] AIRBNB SET TO FACE MORE RESTRICTIONS AS EUROPEAN COMMISSION PROPOSES NEW RULES TO TACKLE HOUSING CRUNCH
-- 09/09 19:37 [FirstSquawk] ANGOLA’S OIL AND GAS AGENCY ANPG, EXXONMOBIL AND BLOCK 15 PARTNERS ANNOUNCE NEW DISCOVERY IN OFFSHORE BLOCK 15- STATEMENT
-- 09/09 19:40 [FirstSquawk] AMAZON SEEKING AT LEAST £3 BILLION FROM FIRST STERLING BONDS
-- 09/09 19:43 [FirstSquawk/DeItaone] IRAN SAYS SHIPS PASSING RESTRICTED HORMUZ ZONE FACE SANCTIONS
 - 09/09 19:47 [FirstSquawk] IRAN'S IRGC SPOKESPERSON SAYS MARITIME RESTRICTED AREA EXTENDS FROM CHABAHAR INTO PARTS OF GULF OF OMAN AND ARABIAN SEA
 - 09/09 19:47 [FirstSquawk] IRGC SPOKESPERSON SAYS PRECISE COORDINATES OF RESTRICTED AREA WILL BE ANNOUNCED - FARS
 - 09/09 19:47 [financialjuice] Iran's IRGC Spokesperson: Maritime restricted area extends from Chabahar into parts of Gulf of Oman and Arabian Sea.
@@ -666,3 +655,10 @@
 - 09/10 19:02 [FirstSquawk] CHINA'S XI TO VISIT INDIA SEP 12-13, ATTEND BRICS SUMMIT - CHINESE STATE MEDIA
 - 09/10 19:09 [DeItaone] $AAPL - APPLE INC.: BOFA GLOBAL RESEARCH CUTS PRICE OBJECTIVE TO $370 FROM $380
 - 09/10 19:15 [FirstSquawk] BROADCOM: REMAINING PERFORMANCE OBLIGATIONS UNDER SEMICONDUCTOR SOLUTIONS & INFRASTRUCTURE SOFTWARE SEGMENT CONTRACTS AS OF AUG 2, ABOUT $179.2B
+- 09/10 19:28 [financialjuice] White House yet to decide on refined copper tariffs.
+- 09/10 19:29 [FirstSquawk] NASDAQ HAS INVESTED IN PAYWARD, THE PARENT COMPANY OF KRAKEN, VALUING IT AT $21 BILLION.
+- 09/10 19:30 [DeItaone] TRUMP SEES IRAN WAR ENDING AFTER MIDTERMS President Donald Trump said he expects the Iran war to end after November’s U.S. midterm elections, while again threatening strikes on Iran’s Pickaxe Mountain nuclear site. Meanwhile, Iran and the U…
+- 09/10 19:33 [DeItaone] WHITE HOUSE HESITATES ON COPPER TARIFFS The White House has not yet decided on refined copper tariffs, as officials weigh boosting U.S. production against higher manufacturing costs ahead of the midterms. Copper prices have already hit reco…
+- 09/10 19:34 [FirstSquawk] LME COPPER DROPS 2% AFTER RTRS REPORT ON TARIFF COST CONCERNS
+- 09/10 19:42 [FirstSquawk] USD/JPY EXTENDS GAINS, RISES 0.3% TO DAY HIGH AT 154.08
+- 09/10 19:43 [FirstSquawk] 20 PEOPLE DIED AFTER CHINA SHIPYARD FIRE: CCTV
