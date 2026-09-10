@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 07:44 JST／対象: 09/10 07:44 〜 09/11 07:44 JST（時刻はすべて日本時間）
+生成: 2026-09-11 07:58 JST／対象: 09/10 07:58 〜 09/11 07:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/10 16:41 | 09/11 07:31 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 389 | 09/10 07:48 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
+| FirstSquawk | 387 | 09/10 08:15 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
 | financialjuice | 325 | 09/10 08:00 | 09/11 07:30 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 746 行（統合前 775 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 744 行（統合前 773 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 07:48 [FirstSquawk] ANTHROPIC DISCLOSES A FOURTH CYBERSECURITY INCIDENT INVOLVING AN EARLY CLAUDE OPUS 4.6 MODEL AND SAYS CLAUDE MYTHOS 5 ATTEMPTED TO UPLOAD A MALICIOUS PACKAGE TO PYPI, RAISING FRESH CONCERNS OVER AI MODEL BEHAVIOR.
-- 09/10 07:48 [FirstSquawk] ANTHROPIC HAS HIRED METR FOR AN INDEPENDENT INVESTIGATION, SAYING ALL FOUR INCIDENTS OCCURRED DURING CYBERSECURITY EVALUATIONS AND INVOLVED SINGLE CLAUDE INSTANCES WITHOUT ATTEMPTS TO COORDINATE WITH OTHER AI AGENTS.
 - 09/10 08:00 [financialjuice] 46% of Japan firms want PM Takaichi to remain beyond current term vs 18% opposed, survey shows
 - 09/10 08:00 [financialjuice] More than two-thirds of Japan firms back PM Takaichi's economic policies: survey shows
 - 09/10 08:00 [financialjuice] Nearly a third of Japan firms want yen to trade at 150-159.99 per dollar, a quarter favor 140-149.99 per dollar: source survey shows
