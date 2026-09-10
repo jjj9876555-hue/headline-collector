@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 01:03 JST／対象: 09/10 19:03 〜 09/11 01:03 JST（時刻はすべて日本時間）
+生成: 2026-09-11 01:25 JST／対象: 09/10 19:25 〜 09/11 01:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/10 19:09 | 09/10 23:45 | 29分（22:07→22:36） |
-| FirstSquawk | 109 | 09/10 19:15 | 09/11 01:00 | 26分（00:31→00:58） |
-| financialjuice | 171 | 09/10 19:28 | 09/11 01:03 | 36分（20:01→20:38） |
+| DeItaone | 28 | 09/10 19:30 | 09/10 23:45 | 29分（22:07→22:36） |
+| FirstSquawk | 111 | 09/10 19:29 | 09/11 01:13 | 26分（00:31→00:58） |
+| financialjuice | 182 | 09/10 19:28 | 09/11 01:25 | 36分（20:01→20:38） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 293 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 305 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 19:09 [DeItaone] $AAPL - APPLE INC.: BOFA GLOBAL RESEARCH CUTS PRICE OBJECTIVE TO $370 FROM $380
-- 09/10 19:15 [FirstSquawk] BROADCOM: REMAINING PERFORMANCE OBLIGATIONS UNDER SEMICONDUCTOR SOLUTIONS & INFRASTRUCTURE SOFTWARE SEGMENT CONTRACTS AS OF AUG 2, ABOUT $179.2B
 - 09/10 19:28 [financialjuice] White House yet to decide on refined copper tariffs.
 - 09/10 19:29 [FirstSquawk] NASDAQ HAS INVESTED IN PAYWARD, THE PARENT COMPANY OF KRAKEN, VALUING IT AT $21 BILLION.
 - 09/10 19:30 [DeItaone] TRUMP SEES IRAN WAR ENDING AFTER MIDTERMS President Donald Trump said he expects the Iran war to end after November’s U.S. midterm elections, while again threatening strikes on Iran’s Pickaxe Mountain nuclear site. Meanwhile, Iran and the U…
@@ -317,3 +315,17 @@
 - 09/11 01:00 [FirstSquawk] U.S CUSHING OK CRUDE INVENTORY ACTUAL: -684K VS 80K PREVIOUS
 - 09/11 01:02 [financialjuice] Microsoft shares safe participation framework for AI. $MSFT
 - 09/11 01:03 [financialjuice] US weekly crude production hits new record near 14 mln b/d
+- 09/11 01:03 [financialjuice] Nvidia CEO: Cybersecurity is the next major use case of AI. $NVDA
+- 09/11 01:05 [financialjuice] US 30-year fixed rate mortgages average 6.76% September 10th week, highest since June 2025, vs 6.71$ prior week - Freddie Mac.
+- 09/11 01:06 [financialjuice] Vantage Data Centres seeks $2b in loans from Pimco and PGIM - FT.
+- 09/11 01:07 [financialjuice] Vantage Data Centers seeks $2bn in loans from Pimco and PGIM - FT
+- 09/11 01:08 [FirstSquawk] NVIDIA REPORTS GRACE BLACKWELL SHIPMENTS INCREASED BY 27% FROM LAST MONTH.
+- 09/11 01:08 [financialjuice] Nvidia's CEO Huang: Shipments of Grace Blackwell up 27% month to month. $NVDA
+- 09/11 01:08 [FirstSquawk] GOOGLE INTRODUCES GEMINI APP FOR WINDOWS 10 AND 11
+- 09/11 01:08 [financialjuice] Google launches a Gemini app for Windows 10 and 11. $GOOGL
+- 09/11 01:09 [financialjuice] ❗ ECB Sources: Further policy tightening is likely, and they may debate another hike as soon as October.
+- 09/11 01:09 [financialjuice] Nvidia's CEO Huang: Our share at Anthropic is growing very quickly. $NVDA
+- 09/11 01:11 [financialjuice] China halts new battery projects pending capacity review - Caixin.
+- 09/11 01:13 [FirstSquawk] CENTCOM: A U.S. NAVY MH-60R SEA HAWK HELICOPTER LAUNCHES FROM THE FLIGHT DECK OF USS RAFAEL PERALTA (DDG 115) WHILE ENFORCING THE U.S. BLOCKADE AGAINST IRAN. AS OF SEPT. 10, U.S. FORCES HAVE REDIRECTED 96 COMMERCIAL VESSELS TO ENSURE TOTAL …
+- 09/11 01:13 [financialjuice] China Pauses New Battery Projects Pending Capacity Review - Caixin.
+- 09/11 01:25 [financialjuice] Nvidia's CEO Huang: Investments are not circular. $NVDA

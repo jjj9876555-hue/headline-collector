@@ -7,50 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 01:03 JST／対象: 09/10 01:03 〜 09/11 01:03 JST（時刻はすべて日本時間）
+生成: 2026-09-11 01:25 JST／対象: 09/10 01:25 〜 09/11 01:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 70 | 09/10 01:05 | 09/10 23:45 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 382 | 09/10 01:04 | 09/11 01:00 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 341 | 09/10 01:05 | 09/11 01:03 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 67 | 09/10 01:31 | 09/10 23:45 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 372 | 09/10 01:28 | 09/11 01:13 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 341 | 09/10 01:26 | 09/11 01:25 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 771 行（統合前 799 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 758 行（統合前 786 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 01:04 [FirstSquawk] EIA SEES 2026 U.S. OIL OUTPUT OF 13.83 MLN BPD, VS PRIOR FORECAST 13.8 MLN BPD; SEES 2027 OUTPUT OF 14.26 MLN BPD (PVS 14.15 MLN BPD) || EIA SEES 2026 U.S. NATGAS OUTPUT OF 111.7 BCF/DAY, VS PRIOR FORECAST 111.2 BCF/D; SEES 2027 DEMAND OF 1…
-- 09/10 01:04 [FirstSquawk] EIA SEES 2026 U.S. OIL DEMAND OF 20.6 MLN BPD, VS PRIOR FORECAST 20.6 MLN BPD; SEES 2027 DEMAND OF 20.8 MLN BPD (PVS 20.8 MLN BPD) || EIA SEES 2026 U.S. NATGAS DEMAND OF 92.2 BCF/DAY, VS PRIOR FORECAST 92 BCF/D; SEES 2027 DEMAND OF 94.3 BCF…
-- 09/10 01:04 [FirstSquawk] EIA SEES 2026 WORLD OIL OUTPUT OF 100.6 MLN BPD, VS PRIOR FORECAST 100.8 MLN BPD; SEES 2027 OUTPUT OF 109.9 MLN BPD (PVS 109.7 MLN BPD) || EIA SEES 2026 WORLD OIL DEMAND OF 102.6 MLN BPD, VS PRIOR FORECAST 102.7 MLN BPD; SEES 2027 DEMAND OF…
-- 09/10 01:04 [FirstSquawk] EIA SEES 2026 WTI PRICE AVERAGE OF 84.65/BBL, VS PRIOR FORECAST 80.88/BBL; 2027 FORECAST OF 69.74/BBL (PVS 65.39/BBL) || EIA SEES 2026 BRENT PRICE AVERAGE OF 91.01/BBL, VS PRIOR FORECAST 86.81/BBL; 2027 FORECAST OF 73.74/BBL (PVS 69.39/BBL)
-- 09/10 01:05 [financialjuice] EIA STEO Report
-- 09/10 01:05 [DeItaone] RESEARCHERS SAY OPENAI AGENTS BYPASSED WEB RESTRICTIONS Independent researchers say OpenAI AI agents used more than 10 websites for unauthorized communications, bypassing restrictions that were intended to limit them to reading the web. Som…
-- 09/10 01:05 [financialjuice] EIA STEO Report September 2026
-- 09/10 01:06 [financialjuice] EIA STEO Report: EIA expects Middle East oil output to rise in coming months due to gradually increasing flows" through Hormuz.
-- 09/10 01:06 [FirstSquawk] U.S. OIL PRODUCTION TO AVERAGE 13.96 MLN BPD IN SEPTEMBER VS 13.88 MLN BPD IN AUGUST; TO AVERAGE 13.95 MLN BPD IN OCTOBER – EIA || U.S. NATURAL GAS PRODUCTION TO AVERAGE 123.9 BCF/DAY IN SEPTEMBER VS 123.7 BCF/DAY IN AUGUST; TO AVERAGE 124.…
-- 09/10 01:07 [financialjuice] EIA STEO report assumes some constraints to oil exports from Middle East will persist through end of 2026.
-- 09/10 01:07 [FirstSquawk] EIA EXPECTS MIDDLE EAST OIL OUTPUT TO RISE IN COMING MONTHS DUE TO "GRADUALLY INCREASING FLOWS" THROUGH HORMUZ || EIA ASSUMES SOME CONSTRAINTS TO OIL EXPORTS FROM MIDDLE EAST WILL PERSIST THROUGH END OF 2026 - STEO
-- 09/10 01:08 [financialjuice] EIA expects Crude Oil output from Mideast will remain below pre-conflict averages until Q2 2027.
-- 09/10 01:08 [financialjuice] EIA: Saudi Yanbu oil exports fell about 50% in August from July amid Bab el-Mandeb disruptions.
-- 09/10 01:09 [financialjuice] ❗ Iran Official: Iran ready for more intense war with US if required.
-- 09/10 01:09 [FirstSquawk] BAKER HUGHES $BKR RAISES 2026 REVENUE GUIDANCE TO $28.50B-$30.30B FROM $26.65B $BKR
-- 09/10 01:10 [DeItaone] TREASURY TRIPLES BOND BUYBACK, MARKETS WANT MORE The U.S. Treasury tripled its next long-term debt buyback to $6 billion, as Secretary Scott Bessent seeks to contain rising borrowing costs. Despite the increase, Treasuries fell, pushing the…
-- 09/10 01:10 [FirstSquawk] IRAN PLANS TO INCREASE ATTACKS FOLLOWING U.S. STRIKES, SAYS OFFICIAL.
-- 09/10 01:10 [FirstSquawk] IRAN VIEWS WAR AS A MATTER OF SURVIVAL; FEELS OBLIGATED TO ENGAGE IN COMBAT, SAYS OFFICIAL.
-- 09/10 01:11 [financialjuice] US Agriculture Sec. Rollins: Some food costs have come down in the last two years.
-- 09/10 01:12 [FirstSquawk] TOTALENERGIES CEO ANNOUNCES $10 BILLION INVESTMENT IN ANGOLA PARTNERS FOR VARIOUS PROJECTS OVER THE NEXT FIVE YEARS.
-- 09/10 01:12 [FirstSquawk] ROLLINS STATES THAT FOOD PRICES HAVE DECREASED OVER THE PAST TWO YEARS.
-- 09/10 01:12 [FirstSquawk] ROLLINS IS FOCUSED ON HIS CURRENT POSITION AND NOT THINKING ABOUT A FUTURE RUN.
-- 09/10 01:14 [financialjuice] EIA finalized inputs into STEO forecast model on September 3rd. Forecast does not account for more recent Mideast events.
-- 09/10 01:15 [FirstSquawk] INDEPENDENCE REALTY $IRT AND CENTERSPACE AGREE TO MERGE IN $8.1B DEAL, CREATING LARGER MULTIFAMILY REIT WITH $24M IN ANNUAL SYNERGIES $IRT
-- 09/10 01:20 [financialjuice] EIA: Middle East crude oil output shut-ins rose in August to 6.7 mln bpd, from 5 mln bpd in July.
-- 09/10 01:22 [DeItaone] IRAN WARNS OF ESCALATION AS U.S. CONFLICT INTENSIFIES An Iranian official says Tehran is prepared for a more intense war with the U.S. if necessary, according to Bloomberg headlines shown in the report. The official said Iran would escalate…
-- 09/10 01:25 [financialjuice] China and Russia vote against effort to pressure Iran at IAEA.
 - 09/10 01:26 [financialjuice] Explosion heard from the sea near southern Jask - Fars News
 - 09/10 01:27 [financialjuice] No details are available regarding the source, exact location, or cause of the explosion - Fars News on explosion heard in Jask.
 - 09/10 01:28 [FirstSquawk] EXPLOSION REPORTED OFF JASK COAST IN SOUTHERN IRAN - FARS
@@ -795,3 +768,17 @@
 - 09/11 01:00 [FirstSquawk] U.S CUSHING OK CRUDE INVENTORY ACTUAL: -684K VS 80K PREVIOUS
 - 09/11 01:02 [financialjuice] Microsoft shares safe participation framework for AI. $MSFT
 - 09/11 01:03 [financialjuice] US weekly crude production hits new record near 14 mln b/d
+- 09/11 01:03 [financialjuice] Nvidia CEO: Cybersecurity is the next major use case of AI. $NVDA
+- 09/11 01:05 [financialjuice] US 30-year fixed rate mortgages average 6.76% September 10th week, highest since June 2025, vs 6.71$ prior week - Freddie Mac.
+- 09/11 01:06 [financialjuice] Vantage Data Centres seeks $2b in loans from Pimco and PGIM - FT.
+- 09/11 01:07 [financialjuice] Vantage Data Centers seeks $2bn in loans from Pimco and PGIM - FT
+- 09/11 01:08 [FirstSquawk] NVIDIA REPORTS GRACE BLACKWELL SHIPMENTS INCREASED BY 27% FROM LAST MONTH.
+- 09/11 01:08 [financialjuice] Nvidia's CEO Huang: Shipments of Grace Blackwell up 27% month to month. $NVDA
+- 09/11 01:08 [FirstSquawk] GOOGLE INTRODUCES GEMINI APP FOR WINDOWS 10 AND 11
+- 09/11 01:08 [financialjuice] Google launches a Gemini app for Windows 10 and 11. $GOOGL
+- 09/11 01:09 [financialjuice] ❗ ECB Sources: Further policy tightening is likely, and they may debate another hike as soon as October.
+- 09/11 01:09 [financialjuice] Nvidia's CEO Huang: Our share at Anthropic is growing very quickly. $NVDA
+- 09/11 01:11 [financialjuice] China halts new battery projects pending capacity review - Caixin.
+- 09/11 01:13 [FirstSquawk] CENTCOM: A U.S. NAVY MH-60R SEA HAWK HELICOPTER LAUNCHES FROM THE FLIGHT DECK OF USS RAFAEL PERALTA (DDG 115) WHILE ENFORCING THE U.S. BLOCKADE AGAINST IRAN. AS OF SEPT. 10, U.S. FORCES HAVE REDIRECTED 96 COMMERCIAL VESSELS TO ENSURE TOTAL …
+- 09/11 01:13 [financialjuice] China Pauses New Battery Projects Pending Capacity Review - Caixin.
+- 09/11 01:25 [financialjuice] Nvidia's CEO Huang: Investments are not circular. $NVDA

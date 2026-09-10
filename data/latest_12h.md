@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 01:03 JST／対象: 09/10 13:03 〜 09/11 01:03 JST（時刻はすべて日本時間）
+生成: 2026-09-11 01:25 JST／対象: 09/10 13:25 〜 09/11 01:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 39 | 09/10 16:41 | 09/10 23:45 | 35分（17:30→18:05） |
-| FirstSquawk | 225 | 09/10 13:04 | 09/11 01:00 | 26分（00:31→00:58） |
-| financialjuice | 204 | 09/10 13:04 | 09/11 01:03 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 216 | 09/10 13:26 | 09/11 01:13 | 26分（00:31→00:58） |
+| financialjuice | 209 | 09/10 13:30 | 09/11 01:25 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 452 行（統合前 473 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 448 行（統合前 469 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 13:04 [financialjuice] Mubadala: continues to see strong long-term prospects in China’s consumer sector
-- 09/10 13:04 [FirstSquawk] Arini is facing pressure after several European credit bets moved against the London-based investment firm.
-- 09/10 13:05 [FirstSquawk] Trump tariff comments reportedly cost the leading candidate a shot at becoming the IMF’s next chief economist.
-- 09/10 13:06 [FirstSquawk] Ukrainian battlefield robotics draws fresh U.S. investment as an Erik Prince-backed drone company moves for an acquisition.
-- 09/10 13:06 [FirstSquawk] Rising oil costs are reviving momentum around clean hydrogen as countries reassess energy alternatives.
-- 09/10 13:07 [FirstSquawk] UK probation authorities face a growing crisis as more released prisoners end up back in custody, watchdog says.
-- 09/10 13:07 [financialjuice] Saudi civil defence: threat has passed in Khamis Mushait
-- 09/10 13:07 [financialjuice] Ukraine air strikes target Russia's Caspian Sea port of Makhachkala, official says
-- 09/10 13:08 [FirstSquawk] Saudi Civil Defence says conditions in Khamis Mushait are now safe after an earlier warning.
-- 09/10 13:08 [FirstSquawk] Emergency alert issued by Saudi Civil Defence for Khamis Mushait.
-- 09/10 13:08 [financialjuice] Mubadala: to make major minority investment in Luckin Coffee alongside Centurium Capital
-- 09/10 13:09 [FirstSquawk] Russian official says Ukraine launched air strikes targeting the Caspian Sea port of Makhachkala.
-- 09/10 13:10 [financialjuice] Russian air strikes kill five, injure 24 in Ukraine’s Sumy region: police
-- 09/10 13:11 [FirstSquawk] Russian strikes on Sumy region leave five dead and 24 injured, according to Ukrainian police.
-- 09/10 13:16 [FirstSquawk] HD Hyundai Heavy Industries announces an 834 billion won investment in new power-generation engine production.
-- 09/10 13:18 [financialjuice] China's state-run Sinograin purchased 14-15 shipments or about 1 mln tons of US soybeans in deals this week: sources
-- 09/10 13:18 [FirstSquawk] HD Hyundai Heavy Industries announces a 239 billion won investment in an SMR facility, alongside upgrades to its existing plant.
-- 09/10 13:19 [FirstSquawk] Japan’s next budget will face scrutiny from Fitch over the balance between economic support and fiscal restraint, a sovereign analyst says.
 - 09/10 13:26 [FirstSquawk] Artificial intelligence is expected to support U.S. economic growth, but could also threaten knowledge-worker employment and weigh on wages.
 - 09/10 13:30 [financialjuice] Dutch July manufacturing output rises 1.6% m/m: CBS
 - 09/10 13:32 [FirstSquawk] Malaysia’s palm oil inventories climb to 2.82 million tonnes in August, up 7.48% from July, according to MPOB.
@@ -476,3 +458,17 @@
 - 09/11 01:00 [FirstSquawk] U.S CUSHING OK CRUDE INVENTORY ACTUAL: -684K VS 80K PREVIOUS
 - 09/11 01:02 [financialjuice] Microsoft shares safe participation framework for AI. $MSFT
 - 09/11 01:03 [financialjuice] US weekly crude production hits new record near 14 mln b/d
+- 09/11 01:03 [financialjuice] Nvidia CEO: Cybersecurity is the next major use case of AI. $NVDA
+- 09/11 01:05 [financialjuice] US 30-year fixed rate mortgages average 6.76% September 10th week, highest since June 2025, vs 6.71$ prior week - Freddie Mac.
+- 09/11 01:06 [financialjuice] Vantage Data Centres seeks $2b in loans from Pimco and PGIM - FT.
+- 09/11 01:07 [financialjuice] Vantage Data Centers seeks $2bn in loans from Pimco and PGIM - FT
+- 09/11 01:08 [FirstSquawk] NVIDIA REPORTS GRACE BLACKWELL SHIPMENTS INCREASED BY 27% FROM LAST MONTH.
+- 09/11 01:08 [financialjuice] Nvidia's CEO Huang: Shipments of Grace Blackwell up 27% month to month. $NVDA
+- 09/11 01:08 [FirstSquawk] GOOGLE INTRODUCES GEMINI APP FOR WINDOWS 10 AND 11
+- 09/11 01:08 [financialjuice] Google launches a Gemini app for Windows 10 and 11. $GOOGL
+- 09/11 01:09 [financialjuice] ❗ ECB Sources: Further policy tightening is likely, and they may debate another hike as soon as October.
+- 09/11 01:09 [financialjuice] Nvidia's CEO Huang: Our share at Anthropic is growing very quickly. $NVDA
+- 09/11 01:11 [financialjuice] China halts new battery projects pending capacity review - Caixin.
+- 09/11 01:13 [FirstSquawk] CENTCOM: A U.S. NAVY MH-60R SEA HAWK HELICOPTER LAUNCHES FROM THE FLIGHT DECK OF USS RAFAEL PERALTA (DDG 115) WHILE ENFORCING THE U.S. BLOCKADE AGAINST IRAN. AS OF SEPT. 10, U.S. FORCES HAVE REDIRECTED 96 COMMERCIAL VESSELS TO ENSURE TOTAL …
+- 09/11 01:13 [financialjuice] China Pauses New Battery Projects Pending Capacity Review - Caixin.
+- 09/11 01:25 [financialjuice] Nvidia's CEO Huang: Investments are not circular. $NVDA
