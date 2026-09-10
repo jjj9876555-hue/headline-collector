@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 16:22 JST／対象: 09/10 10:22 〜 09/10 16:22 JST（時刻はすべて日本時間）
+生成: 2026-09-10 16:37 JST／対象: 09/10 10:37 〜 09/10 16:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 131 | 09/10 10:22 | 09/10 16:14 | 14分（14:01→14:15） |
-| financialjuice | 49 | 09/10 10:32 | 09/10 15:00 | ⚠ 55分（11:11→12:06） |
+| FirstSquawk | 125 | 09/10 10:39 | 09/10 16:32 | 14分（14:01→14:15） |
+| financialjuice | 43 | 09/10 10:37 | 09/10 15:00 | ⚠ 55分（11:11→12:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 180 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 168 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 10:22 [FirstSquawk] China central bank provides 3 billion yuan in liquidity through 7-day reverse repos, statement says.
-- 09/10 10:25 [FirstSquawk] WTI moves lower as oil markets balance rising Middle East risks against broader supply and demand factors.
-- 09/10 10:26 [FirstSquawk] Trump urges Republicans to secure a midterm victory to defend the gains made over the past two years.
-- 09/10 10:28 [FirstSquawk] Japanese researchers earn four Lasker Awards for achievements in medicine, according to Kyodo.
-- 09/10 10:32 [financialjuice] Bank of Japan board member Masu: underlying inflation remains under 2% but close to that level
-- 09/10 10:32 [financialjuice] BoJ board member Masu: BoJ likely to keep raising interest rates amid current loose financial conditions
-- 09/10 10:33 [financialjuice] BOJ board member Masu: pace and timing of rate increase will depend on likelihood of meeting baseline projections and risks, considering oil price changes, al-demand, and currency fluctuations
-- 09/10 10:34 [financialjuice] Multiple US military aircraft damaged in strikes overnight at Muwaffaq Salti Air Base in Jordan: CBS reporter on X
-- 09/10 10:34 [FirstSquawk] Masu says the BOJ should continue raising interest rates while current financial conditions remain accommodative.
-- 09/10 10:35 [financialjuice] BOJ board member Masu: rise in fuel, chemical prices may be one-off shock but could affect prices through distribution costs
-- 09/10 10:35 [FirstSquawk] BOJ policymaker Masu says the central bank will weigh its economic projections and key risks, including oil prices, AI demand and exchange-rate movements, when deciding the pace of rate hikes.
-- 09/10 10:36 [FirstSquawk] KOSPI drops 2% as selling pressure hits South Korean equities.
-- 09/10 10:36 [FirstSquawk] Several U.S. military aircraft sustained damage during overnight attacks targeting the Muwaffaq Salti Air Base in Jordan, according to CBS.
-- 09/10 10:36 [financialjuice] BOJ board member Masu: rising costs from Middle East conflict may drive overall prices higher
-- 09/10 10:36 [FirstSquawk] Masu says keeping underlying inflation from exceeding 2% by a wide margin is the BOJ’s most important objective.
 - 09/10 10:37 [financialjuice] BOJ's Masu: government measures to ease cost of living impact may increase demand, drive inflation higher
 - 09/10 10:39 [financialjuice] Boj’s Masu: recent 7% rise in producer prices requires attention as increase could boost consumer inflation more than before
 - 09/10 10:39 [FirstSquawk] BOJ policymaker Masu warns that fuel and chemical price gains, while potentially temporary, could have broader effects on inflation through distribution costs.
@@ -204,3 +189,6 @@
 - 09/10 16:10 [FirstSquawk] CHINA FOREIGN MINISTRY, ON INDIA PROPOSING PROBE INTO XIAOMI: HOPE INDIA WILL PROVIDE FAIR, JUST, NON-DISCRIMINATORY ENVIRONMENT FOR ALL COMPANIES IN INDIA
 - 09/10 16:12 [FirstSquawk] PBOC DEPT GOV: WANTS TO DEVELOP DIGITAL YUAN AT STEADY PACE
 - 09/10 16:14 [FirstSquawk] CHINA'S FOREIGN MINISTRY REJECTS US ACTIONS AGAINST HUAWEI, CALLING IT GOVERNMENT SUPPRESSION OF CHINESE FIRMS.
+- 09/10 16:27 [FirstSquawk] MIZUHO'S FIRST FEMALE HEAD OF WEALTH MANAGEMENT AIMS FOR SIXFOLD GROWTH IN ASSET ADVISORY BUSINESS, JOINING A SMALL GROUP OF WOMEN LEADERS IN JAPAN'S FINANCIAL INDUSTRY.
+- 09/10 16:32 [FirstSquawk] CHINA'S DEEPSEEK UNVEILS THE V4.1-FLASH MODEL.
+- 09/10 16:32 [FirstSquawk] HUAWEI INTRODUCES NEW OPTICAL TECHNOLOGY STANDARDS TO COMPETE WITH NVIDIA AND BROADCOM.
