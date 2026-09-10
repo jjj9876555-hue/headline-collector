@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 04:28 JST／対象: 09/10 04:28 〜 09/11 04:28 JST（時刻はすべて日本時間）
+生成: 2026-09-11 04:41 JST／対象: 09/10 04:41 〜 09/11 04:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 56 | 09/10 05:08 | 09/11 03:41 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 387 | 09/10 04:51 | 09/11 04:23 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 331 | 09/10 04:50 | 09/11 04:22 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 390 | 09/10 04:51 | 09/11 04:31 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 333 | 09/10 04:50 | 09/11 04:38 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 751 行（統合前 781 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 756 行（統合前 786 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -775,3 +775,8 @@
 - 09/11 04:20 [financialjuice] US money-market fund assets fall to $7.97 trln at ICI
 - 09/11 04:21 [financialjuice/FirstSquawk] Saudi Civil Defence: Danger has passed in Khamis Mushait and Abha - State TV.
 - 09/11 04:22 [financialjuice] Friday FX Options Expiries
+- 09/11 04:31 [FirstSquawk] ØRSTED RECEIVES A FINAL TAX OPINION CONFIRMING THAT THE WALNEY EXTENSION AND HORNSEA 1 OFFSHORE WIND FARMS HAVE A GENUINE LEGAL AND ECONOMIC PURPOSE, WITH THE PROJECTS PRIMARILY TAXABLE IN THE COUNTRIES WHERE THEY OPERATE.
+- 09/11 04:31 [FirstSquawk] ØRSTED WILL HOLD TALKS WITH HMRC AND THE DANISH TAX AGENCY (DTA) TO RESOLVE THE APPLICATION OF THE OPINION AND ADDRESS OTHER PROJECTS AFFECTED BY SIMILAR TAX DECISIONS.
+- 09/11 04:31 [FirstSquawk] IRAN FM, PAKISTAN ARMY CHIEF DISCUSS REGIONAL TENSIONS - IRAN FM, VIA DBNEWS
+- 09/11 04:32 [financialjuice] SpaceX: Next starship flight will be revenue generating. $SPCX
+- 09/11 04:38 [financialjuice] SpaceX CFO: More conviction on $100b annual runrate revenue. $SPCX

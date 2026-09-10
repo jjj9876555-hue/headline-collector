@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 04:28 JST／対象: 09/10 16:28 〜 09/11 04:28 JST（時刻はすべて日本時間）
+生成: 2026-09-11 04:41 JST／対象: 09/10 16:41 〜 09/11 04:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 52 | 09/10 16:41 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 198 | 09/10 16:32 | 09/11 04:23 | 32分（03:04→03:37） |
-| financialjuice | 229 | 09/10 17:00 | 09/11 04:22 | ⚠ 48分（17:04→17:53） |
+| FirstSquawk | 196 | 09/10 16:42 | 09/11 04:31 | 32分（03:04→03:37） |
+| financialjuice | 231 | 09/10 17:00 | 09/11 04:38 | ⚠ 48分（17:04→17:53） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 458 行（統合前 485 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 16:32 [FirstSquawk] CHINA'S DEEPSEEK UNVEILS THE V4.1-FLASH MODEL.
-- 09/10 16:32 [FirstSquawk] HUAWEI INTRODUCES NEW OPTICAL TECHNOLOGY STANDARDS TO COMPETE WITH NVIDIA AND BROADCOM.
-- 09/10 16:37 [FirstSquawk] PBOC: GUARD AGAINST HERD BEHAVIOR IN FX MARKET
-- 09/10 16:39 [FirstSquawk] FORMER ISRAELI PRIME MINISTER OLMERT: NETANYAHU GOVERNMENT SUPPORTS SETTLER VIOLENCE
-- 09/10 16:41 [FirstSquawk] EUROPEAN UNION FIRMS ARE GETTING BEATEN, OUTTHOUGHT, OR OUTSPENT BY CHINESE RIVALS.
 - 09/10 16:41 [DeItaone] TRUMP PROMISES $5,000 DIVIDEND IF GOP WINS MIDTERMS President Donald Trump pledged a $5,000 payment to every adult U.S. citizen if Republicans retain control of Congress in November. Trump credited U.S. economic performance for the proposal…
 - 09/10 16:42 [FirstSquawk] PBOC: Seeks Dynamic Balance In Macro Policy Objectives
 - 09/10 16:47 [FirstSquawk] TSMC SEES A 53.3% RISE IN MONTHLY SALES AS IT STRUGGLES TO KEEP UP WITH HIGH DEMAND FOR AI INFRASTRUCTURE.
@@ -482,3 +477,8 @@
 - 09/11 04:20 [financialjuice] US money-market fund assets fall to $7.97 trln at ICI
 - 09/11 04:21 [financialjuice/FirstSquawk] Saudi Civil Defence: Danger has passed in Khamis Mushait and Abha - State TV.
 - 09/11 04:22 [financialjuice] Friday FX Options Expiries
+- 09/11 04:31 [FirstSquawk] ØRSTED RECEIVES A FINAL TAX OPINION CONFIRMING THAT THE WALNEY EXTENSION AND HORNSEA 1 OFFSHORE WIND FARMS HAVE A GENUINE LEGAL AND ECONOMIC PURPOSE, WITH THE PROJECTS PRIMARILY TAXABLE IN THE COUNTRIES WHERE THEY OPERATE.
+- 09/11 04:31 [FirstSquawk] ØRSTED WILL HOLD TALKS WITH HMRC AND THE DANISH TAX AGENCY (DTA) TO RESOLVE THE APPLICATION OF THE OPINION AND ADDRESS OTHER PROJECTS AFFECTED BY SIMILAR TAX DECISIONS.
+- 09/11 04:31 [FirstSquawk] IRAN FM, PAKISTAN ARMY CHIEF DISCUSS REGIONAL TENSIONS - IRAN FM, VIA DBNEWS
+- 09/11 04:32 [financialjuice] SpaceX: Next starship flight will be revenue generating. $SPCX
+- 09/11 04:38 [financialjuice] SpaceX CFO: More conviction on $100b annual runrate revenue. $SPCX

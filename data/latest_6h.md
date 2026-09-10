@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 04:28 JST／対象: 09/10 22:28 〜 09/11 04:28 JST（時刻はすべて日本時間）
+生成: 2026-09-11 04:41 JST／対象: 09/10 22:41 〜 09/11 04:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/10 22:36 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 87 | 09/10 22:29 | 09/11 04:23 | 32分（03:04→03:37） |
-| financialjuice | 99 | 09/10 22:29 | 09/11 04:22 | 20分（03:44→04:04） |
+| DeItaone | 21 | 09/10 23:00 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
+| FirstSquawk | 84 | 09/10 22:48 | 09/11 04:31 | 32分（03:04→03:37） |
+| financialjuice | 92 | 09/10 22:47 | 09/11 04:38 | 20分（03:44→04:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 201 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 191 行（統合前 199 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 22:29 [financialjuice] ECB's Lagarde: The ECB to publish benign, adverse, and severe scenarios.
-- 09/10 22:29 [financialjuice] ECB's Lagarde: Against all three scenarios, the decision to raise rates is robust.
-- 09/10 22:29 [FirstSquawk] LAGARDE: ECB HIKE ROBUST AGAINST ALL THREE SCENARIOS
-- 09/10 22:30 [financialjuice] ECB's Lagarde: ECB hike robust against all three scenarios.
-- 09/10 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 23.0 MLN NASDAQ 100: -11.8 MLN DOW 30: -11.3 MLN MAG 7: -7.4 MLN $MACRO
-- 09/10 22:33 [FirstSquawk] DOW JONES DOWN 232.28 POINTS, OR 0.44 PERCENT, AT 52,148.38 AFTER MARKET OPEN NASDAQ DOWN 248.90 POINTS, OR 0.95 PERCENT, AT 26,004.44 AFTER MARKET OPEN S&P 500 DOWN 43.77 POINTS, OR 0.57 %, AT 7,592.59 AFTER MARKET OPEN
-- 09/10 22:35 [financialjuice] ECB's President Lagarde: If energy shock longer than expected, we'll see second round effects and it will affect food prices.
-- 09/10 22:35 [financialjuice] Yemeni Armed Forces Gain Control of Zubayr City and the Strategic Zaqar Island Near Bab-el-Mandeb - Tasnim News.
-- 09/10 22:36 [financialjuice] ECB's Nagel: I am concerned about rise of right-wing parties.
-- 09/10 22:36 [DeItaone/FirstSquawk] ECB'S NAGEL: CONCERNED ABOUT RISE IN EURO-SCEPTIC PARTIES
-- 09/10 22:36 [financialjuice] ECB's Nagel: Euro-sceptic parties will make investors reluctant to invest in Germany.
-- 09/10 22:38 [financialjuice] ECB's President Lagarde ends the ECB press conference.
-- 09/10 22:39 [FirstSquawk] SPACEX OVERHAULS DATA CENTER BUILD-OUT, POTENTIALLY SLOWING EXPANSION - THE INFORMATION
-- 09/10 22:39 [FirstSquawk] YEMENI ARMED FORCES GAIN CONTROL OF ZUBAYR CITY AND THE STRATEGIC ZAQAR ISLAND NEAR BAB-EL-MANDEB - TASNIM
-- 09/10 22:40 [FirstSquawk] ECB'S LAGARDE: LONGER THAN EXPECTED ENERGY SHOCK WOULD SEE SECOND ROUND EFFECTS, WILL AFFECT FOOD PRICES
 - 09/10 22:47 [financialjuice] ECB projections assume exchange rate of $1.16 in 2026-2028.
 - 09/10 22:48 [financialjuice] ECB projections assume oil price of $89.5/barrel in 2026, $74 in 2027, and $73.60 in 2028.
 - 09/10 22:48 [FirstSquawk] ECB PROJECTIONS ASSUME OIL PRICE OF $89.5/BARREL IN 2026
@@ -225,3 +210,8 @@
 - 09/11 04:20 [financialjuice] US money-market fund assets fall to $7.97 trln at ICI
 - 09/11 04:21 [financialjuice/FirstSquawk] Saudi Civil Defence: Danger has passed in Khamis Mushait and Abha - State TV.
 - 09/11 04:22 [financialjuice] Friday FX Options Expiries
+- 09/11 04:31 [FirstSquawk] ØRSTED RECEIVES A FINAL TAX OPINION CONFIRMING THAT THE WALNEY EXTENSION AND HORNSEA 1 OFFSHORE WIND FARMS HAVE A GENUINE LEGAL AND ECONOMIC PURPOSE, WITH THE PROJECTS PRIMARILY TAXABLE IN THE COUNTRIES WHERE THEY OPERATE.
+- 09/11 04:31 [FirstSquawk] ØRSTED WILL HOLD TALKS WITH HMRC AND THE DANISH TAX AGENCY (DTA) TO RESOLVE THE APPLICATION OF THE OPINION AND ADDRESS OTHER PROJECTS AFFECTED BY SIMILAR TAX DECISIONS.
+- 09/11 04:31 [FirstSquawk] IRAN FM, PAKISTAN ARMY CHIEF DISCUSS REGIONAL TENSIONS - IRAN FM, VIA DBNEWS
+- 09/11 04:32 [financialjuice] SpaceX: Next starship flight will be revenue generating. $SPCX
+- 09/11 04:38 [financialjuice] SpaceX CFO: More conviction on $100b annual runrate revenue. $SPCX
