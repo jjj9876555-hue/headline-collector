@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 19:44 JST／対象: 09/09 19:44 〜 09/10 19:44 JST（時刻はすべて日本時間）
+生成: 2026-09-10 19:58 JST／対象: 09/09 19:58 〜 09/10 19:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 58 | 09/09 19:57 | 09/10 19:33 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 352 | 09/09 19:47 | 09/10 19:43 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 236 | 09/09 19:47 | 09/10 19:28 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 58 | 09/09 19:58 | 09/10 19:57 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 356 | 09/09 20:00 | 09/10 19:58 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 237 | 09/09 20:00 | 09/10 19:58 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 638 行（統合前 648 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 638 行（統合前 653 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 19:47 [FirstSquawk] IRAN'S IRGC SPOKESPERSON SAYS MARITIME RESTRICTED AREA EXTENDS FROM CHABAHAR INTO PARTS OF GULF OF OMAN AND ARABIAN SEA
-- 09/09 19:47 [FirstSquawk] IRGC SPOKESPERSON SAYS PRECISE COORDINATES OF RESTRICTED AREA WILL BE ANNOUNCED - FARS
-- 09/09 19:47 [financialjuice] Iran's IRGC Spokesperson: Maritime restricted area extends from Chabahar into parts of Gulf of Oman and Arabian Sea.
-- 09/09 19:47 [financialjuice] IRGC Spokesperson: Precise coordinates of restricted area will be announced - Fars.
-- 09/09 19:50 [financialjuice] Iran's IRGC Spokesperson: Any ship passing through restricted area of Strait of Hormuz will face sanctions if no coordination with Iran.
-- 09/09 19:57 [financialjuice] UKMTO: Received report of incident 28 NM South East of Iraq's Faw.
-- 09/09 19:57 [DeItaone] PIMCO: HIGH BOND YIELDS CHALLENGE STOCKS PIMCO says bonds are becoming more attractive after global yields climbed to their highest levels in more than a decade. US aggregate bond yields are now around 5%, roughly matching equity earnings y…
 - 09/09 19:58 [DeItaone] IRAN EXPANDS MARITIME RESTRICTED ZONE Iran’s Revolutionary Guards said a new maritime restricted zone will extend from Chabahar into parts of the Gulf of Oman and Arabian Sea, with exact coordinates to be announced. The move follows Tehran’…
 - 09/09 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -2.7% (FORECAST -, PREVIOUS 0.8%) $MACRO
 - 09/09 20:00 [FirstSquawk] UKMTO RECEIVED A REPORT OF AN INCIDENT 28 NM SOUTHEAST OF FAW, IRAQ, WHERE A VESSEL WAS HIT BY A PROJECTILE, BUT THE CREW IS SAFE.
@@ -662,3 +655,10 @@
 - 09/10 19:34 [FirstSquawk] LME COPPER DROPS 2% AFTER RTRS REPORT ON TARIFF COST CONCERNS
 - 09/10 19:42 [FirstSquawk] USD/JPY EXTENDS GAINS, RISES 0.3% TO DAY HIGH AT 154.08
 - 09/10 19:43 [FirstSquawk] 20 PEOPLE DIED AFTER CHINA SHIPYARD FIRE: CCTV
+- 09/10 19:45 [financialjuice/FirstSquawk] Yemen’s Houthis seize Mokha and its port - NYT
+- 09/10 19:47 [FirstSquawk] CHINA TO HOST APEC SUMMIT IN SHENZHEN NOV 17-18 - XINHUA
+- 09/10 19:47 [financialjuice] China to host APEC summit in Shenzhen November 17-18 - Xinhua.
+- 09/10 19:56 [FirstSquawk] MACY'S 2Q NET SALES $4.87B, +1.1% Y/Y || 2Q COMP SALES +2.7%, EST. +0.86% || 2Q ADJ EPS 63C, EST. 36C
+- 09/10 19:57 [financialjuice/DeItaone/FirstSquawk] ❗ Iran orders temporary suspension of 10% freight charge on foreign vessels carrying energy products to or from Iran - Fars News.
+- 09/10 19:58 [financialjuice/FirstSquawk] Iraq tendering for two oil supertankers to go through Hormuz.
+- 09/10 19:58 [financialjuice/FirstSquawk] Iraq's IOTC tenders for oil supertankers for 180-day period.

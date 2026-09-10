@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 19:44 JST／対象: 09/10 13:44 〜 09/10 19:44 JST（時刻はすべて日本時間）
+生成: 2026-09-10 19:58 JST／対象: 09/10 13:58 〜 09/10 19:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/10 16:41 | 09/10 19:33 | 35分（17:30→18:05） |
-| FirstSquawk | 106 | 09/10 13:45 | 09/10 19:43 | 14分（18:38→18:53） |
-| financialjuice | 27 | 09/10 13:47 | 09/10 19:28 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 14 | 09/10 16:41 | 09/10 19:57 | 35分（17:30→18:05） |
+| FirstSquawk | 107 | 09/10 14:01 | 09/10 19:58 | 14分（18:38→18:53） |
+| financialjuice | 28 | 09/10 14:00 | 09/10 19:58 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 146 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 144 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 13:45 [FirstSquawk] Trump offers $5,000 to every US adult if Republicans secure victory in the November midterm elections.
-- 09/10 13:47 [FirstSquawk] Four killed after Russian air strikes hit Ukraine’s port of Mykolaiv, official says.
-- 09/10 13:47 [financialjuice] Russian air strikes hit Ukraine's Mykolaiv port, kill four: official
-- 09/10 13:51 [financialjuice] Russian Defence Ministry: drone warehouse struck in Ukraine's Mykolaiv
-- 09/10 13:52 [financialjuice] Russian defence ministry: also struck Ukraine's Black Sea port of Chornomorsk, two ships near Odesa
-- 09/10 13:54 [financialjuice] Japan chief cabinet secretary Kihara: aim to tackle abduction issue firmly to achieve Japan-North Korea summit meeting
-- 09/10 13:54 [FirstSquawk] Russian Defence Ministry reports a strike on a drone warehouse in Mykolaiv.
-- 09/10 13:54 [FirstSquawk] Russian Defence Ministry reports strikes on Chornomorsk port and two vessels near Odesa.
-- 09/10 13:55 [FirstSquawk] Japan Chief Cabinet Secretary Kihara says resolving the abduction issue is key to realizing a summit with North Korea.
 - 09/10 14:00 [financialjuice] Finnish industrial output rises 4.5% in July year on year, Statistics Finland
 - 09/10 14:01 [FirstSquawk] Roche’s Enspryng receives U.S. FDA priority review for MOGAD, which has no approved treatments.
 - 09/10 14:15 [FirstSquawk] Hong Kong stocks face wild swings as investors see little chance of state intervention.
@@ -170,3 +161,10 @@
 - 09/10 19:34 [FirstSquawk] LME COPPER DROPS 2% AFTER RTRS REPORT ON TARIFF COST CONCERNS
 - 09/10 19:42 [FirstSquawk] USD/JPY EXTENDS GAINS, RISES 0.3% TO DAY HIGH AT 154.08
 - 09/10 19:43 [FirstSquawk] 20 PEOPLE DIED AFTER CHINA SHIPYARD FIRE: CCTV
+- 09/10 19:45 [financialjuice/FirstSquawk] Yemen’s Houthis seize Mokha and its port - NYT
+- 09/10 19:47 [FirstSquawk] CHINA TO HOST APEC SUMMIT IN SHENZHEN NOV 17-18 - XINHUA
+- 09/10 19:47 [financialjuice] China to host APEC summit in Shenzhen November 17-18 - Xinhua.
+- 09/10 19:56 [FirstSquawk] MACY'S 2Q NET SALES $4.87B, +1.1% Y/Y || 2Q COMP SALES +2.7%, EST. +0.86% || 2Q ADJ EPS 63C, EST. 36C
+- 09/10 19:57 [financialjuice/DeItaone/FirstSquawk] ❗ Iran orders temporary suspension of 10% freight charge on foreign vessels carrying energy products to or from Iran - Fars News.
+- 09/10 19:58 [financialjuice/FirstSquawk] Iraq tendering for two oil supertankers to go through Hormuz.
+- 09/10 19:58 [financialjuice/FirstSquawk] Iraq's IOTC tenders for oil supertankers for 180-day period.
