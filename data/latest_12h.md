@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 05:43 JST／対象: 09/10 17:43 〜 09/11 05:43 JST（時刻はすべて日本時間）
+生成: 2026-09-11 05:54 JST／対象: 09/10 17:54 〜 09/11 05:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/10 18:05 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 194 | 09/10 17:52 | 09/11 05:38 | 32分（03:04→03:37） |
-| financialjuice | 238 | 09/10 17:53 | 09/11 05:24 | ⚠ 46分（18:42→19:28） |
+| FirstSquawk | 192 | 09/10 17:55 | 09/11 05:38 | 32分（03:04→03:37） |
+| financialjuice | 237 | 09/10 17:59 | 09/11 05:24 | ⚠ 46分（18:42→19:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 457 行（統合前 485 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 454 行（統合前 482 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 17:52 [FirstSquawk] BORING CO. RAISES $3 BILLION IN NEW FUNDING FROM UAE AND ASSOCIATED INVESTORS, PUTTING ELON MUSK’S TUNNELING COMPANY'S VALUE AT $23 BILLION.
-- 09/10 17:53 [FirstSquawk] US AI SAFETY BILL COULD BE PRESENTED AS SOON AS NEXT WEEK, ACCORDING TO SEMAFOR.
-- 09/10 17:53 [financialjuice] US AI safety bill may be introduced early as next week - Semafor
 - 09/10 17:55 [FirstSquawk] RYANAIR CEO: WE WILL BE DOWN VERY LOW SINGLE DIGITS IN Q2
 - 09/10 17:59 [financialjuice] China warns industrial companies against disorderly price competition.
 - 09/10 17:59 [financialjuice] China to conduct cost probe in major industrial-product sectors.

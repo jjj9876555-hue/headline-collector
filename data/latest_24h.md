@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 05:43 JST／対象: 09/10 05:43 〜 09/11 05:43 JST（時刻はすべて日本時間）
+生成: 2026-09-11 05:54 JST／対象: 09/10 05:54 〜 09/11 05:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/10 06:08 | 09/11 03:41 | ⚠ 619分（06:22→16:41） |
 | FirstSquawk | 389 | 09/10 07:34 | 09/11 05:38 | ⚠ 49分（08:15→09:05） |
-| financialjuice | 337 | 09/10 05:46 | 09/11 05:24 | ⚠ 119分（15:00→17:00） |
+| financialjuice | 333 | 09/10 06:10 | 09/11 05:24 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 758 行（統合前 788 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 754 行（統合前 784 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 05:46 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL -0.3M (FORECAST -1.3M, PREVIOUS -2.6M) $MACRO
-- 09/10 05:46 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL -0.3M (FORECAST -, PREVIOUS 0.2M) $MACRO
-- 09/10 05:46 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL 2M (FORECAST -, PREVIOUS -0.3M) $MACRO
-- 09/10 05:46 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL -1.9M (FORECAST -, PREVIOUS 0.3M) $MACRO
 - 09/10 06:08 [DeItaone] MILITARY AIDE ACCIDENTALLY DEPLOYED INFLATIBLE EMERGENCY SLIDE ON AIR FORCE ONE - PERSON FAMILIAR
 - 09/10 06:10 [financialjuice] Explosions heard on Iran's Qeshm Island: Iran state media
 - 09/10 06:11 [financialjuice] Iranian state media: unclear if explosion sound came from sea or Qeshm Island itself
