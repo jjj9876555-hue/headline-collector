@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 19:05 JST／対象: 09/09 19:05 〜 09/10 19:05 JST（時刻はすべて日本時間）
+生成: 2026-09-10 19:26 JST／対象: 09/09 19:26 〜 09/10 19:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 59 | 09/09 19:30 | 09/10 18:50 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 363 | 09/09 19:05 | 09/10 19:02 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 238 | 09/09 19:14 | 09/10 18:42 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 60 | 09/09 19:30 | 09/10 19:09 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 357 | 09/09 19:26 | 09/10 19:15 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 235 | 09/09 19:47 | 09/10 18:42 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 650 行（統合前 662 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 642 行（統合前 654 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 19:05 [FirstSquawk] SILVER LAKE WILL COMBINE CEGID AND SILAE TO FORM A GROUP VALUED AT OVER €10 BILLION, ACCORDING TO THE FINANCIAL TIMES.
-- 09/09 19:11 [FirstSquawk] NASDAQ 100 FUTURES EXTEND LOSSES TO 0.5%
-- 09/09 19:14 [financialjuice] Panama-flagged tanker carrying 2 mln barrels of Iraqi fuel oil was struck by drone in Iraqi territorial waters - Two Port Officials.
-- 09/09 19:19 [FirstSquawk] BARCLAYS DOWNGRADES US UTILITIES SECTOR TO NEUTRAL FROM POSITIVE
-- 09/09 19:22 [FirstSquawk] IRAN SAYS US VESSELS, BASES WERE HIT IN DEFENSIVE STRIKE
-- 09/09 19:22 [FirstSquawk] IRAN SAYS US ATTACKS ON ITS VESSELS THREATEN REGIONAL SECURITY
-- 09/09 19:23 [financialjuice] Iran: US attacks on its vessels threaten regional security.
-- 09/09 19:23 [financialjuice] Iran's Foreign Ministry: Armed forces retaliated in self-defence against ‘American tankers' and US bases in Jordan - Statement.
-- 09/09 19:24 [FirstSquawk] IRAN VOWS DECISIVE RESPONSE TO ANY US MILITARY ATTACK
-- 09/09 19:25 [FirstSquawk] KREMLIN SAYS IT WON'T PUBLICLY DISCUSS POTENTIAL ELEMENTS OF A PEACE SETTLEMENT || SAYS IT HOPES U.S.-MEDIATED TALKS WITH UKRAINE WILL RESUME SOON || ISSUE OF EXCHANGING PRISONERS BETWEEN RUSSIA AND U.S. IS CONSTANTLY ON THE AGENDA
 - 09/09 19:26 [FirstSquawk] KREMLIN: EUROPE COULD GET CHEAPER GAS IF IT BOUGHT FROM RUSSIA
 - 09/09 19:26 [FirstSquawk] KREMLIN: EUROPEANS ARE INFLICTING DAMAGE ON THEMSELVES BY BUYING GAS ON SPOT MARKET FOR A PRICE WHICH IS HIGHER THAN FOR RUSSIAN GAS
 - 09/09 19:26 [FirstSquawk] KREMLIN SAYS EUROPE IS IN DIFFICULT SITUATION, THEY WILL NOT BE ABLE TO REPLENISH THEIR GAS STORAGE BY WINTER
@@ -674,3 +664,5 @@
 - 09/10 18:50 [DeItaone] TRUMP PLEDGES $5,000 DIVIDEND IF GOP WINS MIDTERMS President Donald Trump pledged a $5,000 payment to every U.S. adult citizen if Republicans retain control of both chambers of Congress, a plan estimated to cost around $1.2 trillion. Trump …
 - 09/10 18:53 [FirstSquawk] SAUDI ARAMCO IS CONSIDERING SELLING RUBBER MAKER ARLANXEO.
 - 09/10 19:02 [FirstSquawk] CHINA'S XI TO VISIT INDIA SEP 12-13, ATTEND BRICS SUMMIT - CHINESE STATE MEDIA
+- 09/10 19:09 [DeItaone] $AAPL - APPLE INC.: BOFA GLOBAL RESEARCH CUTS PRICE OBJECTIVE TO $370 FROM $380
+- 09/10 19:15 [FirstSquawk] BROADCOM: REMAINING PERFORMANCE OBLIGATIONS UNDER SEMICONDUCTOR SOLUTIONS & INFRASTRUCTURE SOFTWARE SEGMENT CONTRACTS AS OF AUG 2, ABOUT $179.2B

@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 19:05 JST／対象: 09/10 13:05 〜 09/10 19:05 JST（時刻はすべて日本時間）
+生成: 2026-09-10 19:26 JST／対象: 09/10 13:26 〜 09/10 19:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/10 16:41 | 09/10 18:50 | 35分（17:30→18:05） |
-| FirstSquawk | 114 | 09/10 13:06 | 09/10 19:02 | 14分（18:38→18:53） |
-| financialjuice | 32 | 09/10 13:07 | 09/10 18:42 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 11 | 09/10 16:41 | 09/10 19:09 | 35分（17:30→18:05） |
+| FirstSquawk | 105 | 09/10 13:26 | 09/10 19:15 | 14分（18:38→18:53） |
+| financialjuice | 27 | 09/10 13:30 | 09/10 18:42 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 156 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 13:06 [FirstSquawk] Ukrainian battlefield robotics draws fresh U.S. investment as an Erik Prince-backed drone company moves for an acquisition.
-- 09/10 13:06 [FirstSquawk] Rising oil costs are reviving momentum around clean hydrogen as countries reassess energy alternatives.
-- 09/10 13:07 [FirstSquawk] UK probation authorities face a growing crisis as more released prisoners end up back in custody, watchdog says.
-- 09/10 13:07 [financialjuice] Saudi civil defence: threat has passed in Khamis Mushait
-- 09/10 13:07 [financialjuice] Ukraine air strikes target Russia's Caspian Sea port of Makhachkala, official says
-- 09/10 13:08 [FirstSquawk] Saudi Civil Defence says conditions in Khamis Mushait are now safe after an earlier warning.
-- 09/10 13:08 [FirstSquawk] Emergency alert issued by Saudi Civil Defence for Khamis Mushait.
-- 09/10 13:08 [financialjuice] Mubadala: to make major minority investment in Luckin Coffee alongside Centurium Capital
-- 09/10 13:09 [FirstSquawk] Russian official says Ukraine launched air strikes targeting the Caspian Sea port of Makhachkala.
-- 09/10 13:10 [financialjuice] Russian air strikes kill five, injure 24 in Ukraine’s Sumy region: police
-- 09/10 13:11 [FirstSquawk] Russian strikes on Sumy region leave five dead and 24 injured, according to Ukrainian police.
-- 09/10 13:16 [FirstSquawk] HD Hyundai Heavy Industries announces an 834 billion won investment in new power-generation engine production.
-- 09/10 13:18 [financialjuice] China's state-run Sinograin purchased 14-15 shipments or about 1 mln tons of US soybeans in deals this week: sources
-- 09/10 13:18 [FirstSquawk] HD Hyundai Heavy Industries announces a 239 billion won investment in an SMR facility, alongside upgrades to its existing plant.
-- 09/10 13:19 [FirstSquawk] Japan’s next budget will face scrutiny from Fitch over the balance between economic support and fiscal restraint, a sovereign analyst says.
 - 09/10 13:26 [FirstSquawk] Artificial intelligence is expected to support U.S. economic growth, but could also threaten knowledge-worker employment and weigh on wages.
 - 09/10 13:30 [financialjuice] Dutch July manufacturing output rises 1.6% m/m: CBS
 - 09/10 13:32 [FirstSquawk] Malaysia’s palm oil inventories climb to 2.82 million tonnes in August, up 7.48% from July, according to MPOB.
@@ -180,3 +165,5 @@
 - 09/10 18:50 [DeItaone] TRUMP PLEDGES $5,000 DIVIDEND IF GOP WINS MIDTERMS President Donald Trump pledged a $5,000 payment to every U.S. adult citizen if Republicans retain control of both chambers of Congress, a plan estimated to cost around $1.2 trillion. Trump …
 - 09/10 18:53 [FirstSquawk] SAUDI ARAMCO IS CONSIDERING SELLING RUBBER MAKER ARLANXEO.
 - 09/10 19:02 [FirstSquawk] CHINA'S XI TO VISIT INDIA SEP 12-13, ATTEND BRICS SUMMIT - CHINESE STATE MEDIA
+- 09/10 19:09 [DeItaone] $AAPL - APPLE INC.: BOFA GLOBAL RESEARCH CUTS PRICE OBJECTIVE TO $370 FROM $380
+- 09/10 19:15 [FirstSquawk] BROADCOM: REMAINING PERFORMANCE OBLIGATIONS UNDER SEMICONDUCTOR SOLUTIONS & INFRASTRUCTURE SOFTWARE SEGMENT CONTRACTS AS OF AUG 2, ABOUT $179.2B
