@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 16:01 JST／対象: 09/09 16:01 〜 09/10 16:01 JST（時刻はすべて日本時間）
+生成: 2026-09-10 16:22 JST／対象: 09/09 16:22 〜 09/10 16:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 356 | 09/09 16:06 | 09/10 16:01 | ⚠ 126分（05:28→07:34） |
+| FirstSquawk | 359 | 09/09 16:29 | 09/10 16:14 | ⚠ 126分（05:28→07:34） |
 | financialjuice | 238 | 09/09 17:26 | 09/10 15:00 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 638 行（統合前 651 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 641 行（統合前 654 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 16:06 [FirstSquawk] Beijing Unaware of Circumstances Surrounding Note to Philippine Defence Chief, Foreign Ministry Says; Position on South China Sea Arbitration Remains Unchanged
-- 09/09 16:07 [FirstSquawk] Beijing Calls on Some in Philippines to Cease Actions That Undermine China-Philippines Ties and South China Sea Stability
-- 09/09 16:09 [FirstSquawk] Paytm Clarifies Media Report on Its Plans for Workplace AI Agents Beyond Payments
-- 09/09 16:10 [FirstSquawk] Paytm Continues to Invest in and Build AI Capabilities Across Its Business Initiatives
 - 09/09 16:29 [FirstSquawk] BRENT CRUDE FUTURES HIT $100 A BARREL FOR THE FIRST TIME SINCE JULY 24 ON ESCALATING MIDDLE EAST TENSIONS
 - 09/09 16:30 [FirstSquawk] GERMANY'S MERZ WE WILL CONTINUE TO SUPPORT UKRAINE BECAUSE UKRAINE IS ALSO DEFENDING OUR FREEDOM
 - 09/09 16:31 [DeItaone] MORGAN STANLEY SEES OIL TRADERS CUTTING LONG-TERM RISK Oil traders are reducing longer-term exposure as the Iran and Ukraine wars increase uncertainty, according to Morgan Stanley’s Brendan Ross. Ross said traders are concentrating position…
@@ -662,3 +658,10 @@
 - 09/10 15:58 [FirstSquawk] UAE Investment Ministry says it will facilitate stakeholder engagement and coordination across the broader investment ecosystem.
 - 09/10 15:59 [FirstSquawk] POTENTIAL US-SOUTH KOREA DEAL, WORTH OVER $100 BILLION, ENVISIONS SOUTH KOREA FINANCING UP TO 8 NUCLEAR POWER PLANTS AND A NATURAL-GAS PROJECT - WSJ
 - 09/10 16:01 [FirstSquawk] SPAIN (JUL) INDUSTRIAL OUTPUT NSA YOY ACTUAL: 2.6% VS 3.8% PREVIOUS
+- 09/10 16:01 [FirstSquawk] SPAIN (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: 0.6% VS -0.7% PREVIOUS;EST 0.2%
+- 09/10 16:02 [FirstSquawk] SPAIN (JUL) INDUSTRIAL OUTPUT SA YOY ACTUAL: 2.3% VS 1.1% PREVIOUS
+- 09/10 16:03 [FirstSquawk] IBM, LOCKHEED MARTIN ANNOUNCE SWISS QUANTUM INNOVATION HUB AT ETH ZURICH, ANCHORED BY SWITZERLAND'S FIRST IBM QUANTUM COMPUTER
+- 09/10 16:05 [FirstSquawk] TOYOTA MOTOR CORPORATION FILES RECALL OF 8,521 US VEHICLES: NHTSA
+- 09/10 16:10 [FirstSquawk] CHINA FOREIGN MINISTRY, ON INDIA PROPOSING PROBE INTO XIAOMI: HOPE INDIA WILL PROVIDE FAIR, JUST, NON-DISCRIMINATORY ENVIRONMENT FOR ALL COMPANIES IN INDIA
+- 09/10 16:12 [FirstSquawk] PBOC DEPT GOV: WANTS TO DEVELOP DIGITAL YUAN AT STEADY PACE
+- 09/10 16:14 [FirstSquawk] CHINA'S FOREIGN MINISTRY REJECTS US ACTIONS AGAINST HUAWEI, CALLING IT GOVERNMENT SUPPRESSION OF CHINESE FIRMS.

@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 16:01 JST／対象: 09/10 10:01 〜 09/10 16:01 JST（時刻はすべて日本時間）
+生成: 2026-09-10 16:22 JST／対象: 09/10 10:22 〜 09/10 16:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 132 | 09/10 10:12 | 09/10 16:01 | 14分（14:01→14:15） |
-| financialjuice | 51 | 09/10 10:17 | 09/10 15:00 | ⚠ 55分（11:11→12:06） |
+| FirstSquawk | 131 | 09/10 10:22 | 09/10 16:14 | 14分（14:01→14:15） |
+| financialjuice | 49 | 09/10 10:32 | 09/10 15:00 | ⚠ 55分（11:11→12:06） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 183 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 180 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 10:12 [FirstSquawk] Washington says Beijing remains on course to meet its U.S. farm-product buying commitments before Xi’s planned trip to the U.S.
-- 09/10 10:14 [FirstSquawk] U.S. President Donald Trump headlines the Republican midterm gathering in Dallas as the party campaigns to retain control of Congress.
-- 09/10 10:15 [FirstSquawk] China's central bank sets the yuan reference rate at 6.7766 per dollar.
-- 09/10 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 8, 2023, PBOC says
-- 09/10 10:17 [FirstSquawk] Yuan midpoint reaches its strongest level since February 2023 as China continues to allow the currency to strengthen.
-- 09/10 10:18 [FirstSquawk] Trump takes the stage to a huge reception in Dallas as Republicans rally ahead of the 2026 midterm elections - Fox News
-- 09/10 10:19 [FirstSquawk] President Trump hails the last two years as the strongest period of presidential leadership America has ever seen.
-- 09/10 10:21 [FirstSquawk] Alibaba's Hong Kong shares set for a 2.4% decline at the open.
-- 09/10 10:21 [financialjuice] China cbank injects 3 bln yuan via 7-day reverse repos: statement
-- 09/10 10:21 [FirstSquawk] Huawei says the U.S. case is based on false allegations as prosecutors pursue charges tied to trade secrets and Iran sanctions.
 - 09/10 10:22 [FirstSquawk] China central bank provides 3 billion yuan in liquidity through 7-day reverse repos, statement says.
 - 09/10 10:25 [FirstSquawk] WTI moves lower as oil markets balance rising Middle East risks against broader supply and demand factors.
 - 09/10 10:26 [FirstSquawk] Trump urges Republicans to secure a midterm victory to defend the gains made over the past two years.
@@ -207,3 +197,10 @@
 - 09/10 15:58 [FirstSquawk] UAE Investment Ministry says it will facilitate stakeholder engagement and coordination across the broader investment ecosystem.
 - 09/10 15:59 [FirstSquawk] POTENTIAL US-SOUTH KOREA DEAL, WORTH OVER $100 BILLION, ENVISIONS SOUTH KOREA FINANCING UP TO 8 NUCLEAR POWER PLANTS AND A NATURAL-GAS PROJECT - WSJ
 - 09/10 16:01 [FirstSquawk] SPAIN (JUL) INDUSTRIAL OUTPUT NSA YOY ACTUAL: 2.6% VS 3.8% PREVIOUS
+- 09/10 16:01 [FirstSquawk] SPAIN (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: 0.6% VS -0.7% PREVIOUS;EST 0.2%
+- 09/10 16:02 [FirstSquawk] SPAIN (JUL) INDUSTRIAL OUTPUT SA YOY ACTUAL: 2.3% VS 1.1% PREVIOUS
+- 09/10 16:03 [FirstSquawk] IBM, LOCKHEED MARTIN ANNOUNCE SWISS QUANTUM INNOVATION HUB AT ETH ZURICH, ANCHORED BY SWITZERLAND'S FIRST IBM QUANTUM COMPUTER
+- 09/10 16:05 [FirstSquawk] TOYOTA MOTOR CORPORATION FILES RECALL OF 8,521 US VEHICLES: NHTSA
+- 09/10 16:10 [FirstSquawk] CHINA FOREIGN MINISTRY, ON INDIA PROPOSING PROBE INTO XIAOMI: HOPE INDIA WILL PROVIDE FAIR, JUST, NON-DISCRIMINATORY ENVIRONMENT FOR ALL COMPANIES IN INDIA
+- 09/10 16:12 [FirstSquawk] PBOC DEPT GOV: WANTS TO DEVELOP DIGITAL YUAN AT STEADY PACE
+- 09/10 16:14 [FirstSquawk] CHINA'S FOREIGN MINISTRY REJECTS US ACTIONS AGAINST HUAWEI, CALLING IT GOVERNMENT SUPPRESSION OF CHINESE FIRMS.
