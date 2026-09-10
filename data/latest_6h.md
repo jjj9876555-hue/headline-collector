@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 08:58 JST／対象: 09/10 02:58 〜 09/10 08:58 JST（時刻はすべて日本時間）
+生成: 2026-09-10 09:23 JST／対象: 09/10 03:23 〜 09/10 09:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/10 03:00 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 51 | 09/10 03:00 | 09/10 08:15 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 67 | 09/10 03:03 | 09/10 08:51 | ⚠ 59分（07:00→08:00） |
+| DeItaone | 12 | 09/10 03:29 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
+| FirstSquawk | 49 | 09/10 03:43 | 09/10 09:23 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 65 | 09/10 03:27 | 09/10 09:20 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 130 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 122 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 03:00 [FirstSquawk] APPLE SAYS THE IPHONE DUO OPENS TO A 7.6-INCH SUPER RETINA XDR DISPLAY THAT IS 50% LARGER THAN THE IPHONE 18 PRO MAX - EVENT
-- 09/10 03:00 [DeItaone] APPLE INC.: SAYS IPHONE DUO WHEN OPEN IS THINNEST IPHONE EVER- EVENT
-- 09/10 03:00 [DeItaone] APPLE: IPHONE DUO OPENS TO A 7.6-INCH SUPER RETINA XDR DISPLAY THAT IS 50% LARGER THAN IPHONE 18 PRO MAX - EVENT
-- 09/10 03:01 [DeItaone] APPLE INC.: APPLE IPHONE DUO OUTER DISPLAY WILL BE 5.4 INCHES - EVENT
-- 09/10 03:03 [financialjuice] US Treasury Debt Buyback
-- 09/10 03:04 [financialjuice] US Treasury Debt Buyback Treasury receives $28.027B in buyback offers, accepts $12.5B. Treasury accepts 27 of 45 eligible issues in the debt buyback. Treasury debt buyback targets coupons maturing in 2026–2028.
-- 09/10 03:05 [DeItaone] APPLE SAYS IPHONE DUO CAN BE USED PARTIALLY FOLDED - EVENT
-- 09/10 03:06 [FirstSquawk] U.S. TREASURY'S DEBT BUYBACK TARGETED COUPONS MATURING IN 2026-2028, RECEIVING $28.027 BLN IN BUYBACK OFFERS AND ACCEPTING $12.5 BLN, TAKING 27 OF 45 ELIGIBLE ISSUES
-- 09/10 03:07 [financialjuice/FirstSquawk] Saudi-led coalition in Yemen: Houthis attacked on Wednesday Saudi cities of Khamis Mushait, Abha, and Jazan with ballistic missiles and drones.
-- 09/10 03:07 [FirstSquawk] CIA DIRECTOR JOHN RATCLIFFE IS PREPARING TO TAKE A LARGER ROLE IN U.S. EFFORTS TO END THE RUSSIA-UKRAINE WAR, POTENTIALLY REPLACING OR REDUCING THE ROLE OF SPECIAL ENVOY STEVE WITKOFF AND JARED KUSHNER, WITH U.S. OFFICIALS TELLING EUROPEAN …
-- 09/10 03:08 [DeItaone] TRUMP PROPOSES MAJOR OVERHAUL OF U.S. CENSUS The Trump administration proposed limiting the 2030 census to U.S. citizens and permanent residents, excluding undocumented and temporary lawful immigrants. The proposal would also remove race an…
-- 09/10 03:09 [FirstSquawk] APPLE SAYS THE IPHONE DUO'S OUTER DISPLAY WILL BE 5.4 INCHES AND THAT THE DEVICE WILL SUPPORT MULTIPLE APPS AT ONCE IN SEPARATE WINDOWS FOR PRODUCTIVITY, CAN BE USED PARTIALLY FOLDED, AND WILL BE POWERED BY A NEW DISPLAY ENGINE ON THE A20 P…
-- 09/10 03:11 [FirstSquawk] APPLE SAYS THE IPHONE DUO IS ESIM ONLY WORLDWIDE, AND THAT ITS C2 MODEM CHIP WILL HAVE 5G MILLIMETER WAVE SUPPORT IN THE UNITED STATES - EVENT
-- 09/10 03:16 [financialjuice] Apple's iPhone Duo starts at $1999 for 256 gigabytes. $AAPL
-- 09/10 03:17 [FirstSquawk] APPLE'S IPHONE DUO STARTS AT $1,999, WITH STORAGE RANGING FROM 256GB TO 2TB
-- 09/10 03:18 [FirstSquawk] IPHONE DUO'S PRE-ORDERS BEGIN 16 OCTOBER, WITH THE DEVICE AVAILABLE FROM 23 OCTOBER
-- 09/10 03:21 [financialjuice] Apple prices the 2-terabyte version of the iPhone Duo at $3,199. $AAPL
-- 09/10 03:22 [FirstSquawk] APPLE HAS PRICED THE 2-TERABYTE VERSION OF THE IPHONE DUO AT $3,199
 - 09/10 03:27 [financialjuice] LIVE: President Donald Trump Heads to Dallas for Historic Republican Midterm Convention | AC15
 - 09/10 03:28 [financialjuice] Trump: The economy is very strong; we're going to explain that.
 - 09/10 03:29 [financialjuice] Trump on Gasoline Price: Can't let Iran have nuclear weapons.
@@ -154,3 +136,13 @@
 - 09/10 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL 111.9B (FORECAST -, PREVIOUS -824.0B) $MACRO
 - 09/10 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL -481.6B (FORECAST -, PREVIOUS 35.8B) $MACRO
 - 09/10 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 449.6B (FORECAST -, PREVIOUS 509.1B) $MACRO
+- 09/10 09:00 [financialjuice] Nvidia boosts AI infrastructure capacity through partnership with Australia’s data center network
+- 09/10 09:02 [financialjuice] Nvidia to back up to 2-gigawatt AI infrastructure expansion in Australia by 2027
+- 09/10 09:05 [FirstSquawk] GULF DEVELOPMENT AND SINGTEL FORM A STRATEGIC PARTNERSHIP TO BUILD NEW SUBMARINE CABLE CONNECTIVITY BETWEEN THAILAND AND SINGAPORE, STRENGTHENING REGIONAL DIGITAL INFRASTRUCTURE. THE PARTNERSHIP AIMS TO ENHANCE THAILAND-SINGAPORE SUBMARINE …
+- 09/10 09:11 [FirstSquawk] Up to 1 million Obamacare enrollees could receive $500 rebate checks under a Trump administration plan targeting people it says were overcharged, per Axios.
+- 09/10 09:17 [FirstSquawk] BESSENT’S EXPANDED TREASURY BUYBACK DISAPPOINTS MARKETS AS A SMALLER-THAN-EXPECTED OPERATION HELPS PUSH THE 10-YEAR YIELD TO ITS HIGHEST LEVEL SINCE 2023 DESPITE STRONG AUCTION DEMAND.
+- 09/10 09:17 [FirstSquawk] IRAN SIGNALS A MORE AGGRESSIVE WAR STRATEGY, SAYING IT HAS REBUILT ITS MILITARY CAPABILITIES AND HAS ENOUGH MISSILES FOR A PROLONGED CONFLICT AS US-IRAN ATTACKS CONTINUE TO ESCALATE. TRUMP SAYS THE WAR WILL END AFTER THE NOVEMBER MIDTERM EL…
+- 09/10 09:19 [FirstSquawk] Asia-Pacific shares weakened Wednesday as rising US Treasury yields and oil prices added to investor concerns
+- 09/10 09:20 [financialjuice] China PBOC likely to fix yuan midpoint at 6.7074 per dollar: estimate
+- 09/10 09:21 [FirstSquawk] SAMSUNG ELECTRONICS SEES SOCIAL-MEDIA ACTIVITY TRIPLE TO 10 FINANCIALLY FOCUSED POSTS IN 30 MINUTES, WELL ABOVE THE AVERAGE OF THREE, AMID BUZZ AROUND ITS AI-CHIP WORK WITH OPENAI AND UPCOMING FOLDABLES. THE SURGE FOLLOWS OTHER AI-RELATED D…
+- 09/10 09:23 [FirstSquawk] Brent closes up, with missing barrels and a widening conflict driving the broader oil narrative.

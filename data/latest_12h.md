@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 08:58 JST／対象: 09/09 20:58 〜 09/10 08:58 JST（時刻はすべて日本時間）
+生成: 2026-09-10 09:23 JST／対象: 09/09 21:23 〜 09/10 09:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 36 | 09/09 21:27 | 09/10 06:22 | ⚠ 108分（23:16→01:05） |
-| FirstSquawk | 124 | 09/09 21:02 | 09/10 08:15 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 157 | 09/09 21:00 | 09/10 08:51 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 124 | 09/09 21:35 | 09/10 09:23 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 152 | 09/09 21:55 | 09/10 09:20 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 310 行（統合前 318 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 305 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 21:00 [financialjuice] Secured overnight financing rate: 3.64% on September 8th vs 3.65% on September 4th
-- 09/09 21:02 [FirstSquawk] IRAQ CONFIRMS TANKER CARRIED FUEL OIL AND REPORTS NO LEAKS.
-- 09/09 21:02 [financialjuice] Iraq: Panama-flagged tanker hit in its waters. The tanker was carrying fuel oil; no leaks.
-- 09/09 21:04 [financialjuice] Morning Juice - US Session Prep (9th September)
-- 09/09 21:09 [FirstSquawk] JPMORGAN'S DIMON TO DISCUSS BANK TAXES WITH UK CHANCELLOR.
-- 09/09 21:11 [FirstSquawk] LYFT BEGINS WAYMO ROBOTAXI RIDES IN NASHVILLE, THE SECOND CITY IN THE US TO OFFER DRIVERLESS RIDES.
-- 09/09 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 12K (FORECAST -, PREVIOUS 11.75K) $MACRO
-- 09/09 21:15 [FirstSquawk] US ADP WEEKLY EMPLOYMENT CHANGE AUG-22ND: 12.00K (PREV 11.75K)
-- 09/09 21:16 [FirstSquawk] AMAZON SETS SIZE ON DEBUT STERLING BOND SALE AT £4.25 BILLION
-- 09/09 21:16 [financialjuice] Amazon sets size on debut sterling bond sale at £4.25 billion $AMZN
-- 09/09 21:17 [financialjuice] OpenAI projects compute spending around $750b through 2030 - NYT
-- 09/09 21:18 [FirstSquawk] TRADERS RAISE EXPECTATIONS FOR ECB AND BOE INTEREST RATE INCREASES, FAVORIZING 4 HIKES BY THE END OF 2027.
-- 09/09 21:18 [financialjuice] ❗ Traders boost ECB and BoE rate bets; favor 4 hikes by the end of 2027.
-- 09/09 21:19 [FirstSquawk] OIL PRODUCTS TANKER HERCULES STAR INVOLVED IN INCIDENT AT ANCHORAGE OFF DUBAI, ONE CREW MEMBER KILLED, CHARTERER PENINSULA SAYS
-- 09/09 21:20 [financialjuice] Charterer Peninsula: Oil products tanker Hercules Star involved in incident at anchorage off Dubai; one crew member killed.
 - 09/09 21:27 [DeItaone] AI BOOM DRIVES S&P 500 EARNINGS HIGHER S&P 500 earnings estimates are rising sharply, fueled by AI investment and stronger-than-expected corporate results. About 86% of companies beat analyst expectations, the highest share since 2021. Wall…
 - 09/09 21:35 [FirstSquawk] US 10-YEAR TREASURY YIELDS RISE TO 4.8184%, HIGHEST SINCE NOVEMBER 2023
 - 09/09 21:40 [FirstSquawk] GOLDMAN SACHS CEO: U.S. NEEDS STRONGER GROWTH TO KEEP PACE WITH RISING DEBT Goldman Sachs CEO David Solomon says the U.S. needs consistently higher economic growth to sustain its current levels of government spending and debt. He argues tha…
@@ -334,3 +319,13 @@
 - 09/10 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL 111.9B (FORECAST -, PREVIOUS -824.0B) $MACRO
 - 09/10 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL -481.6B (FORECAST -, PREVIOUS 35.8B) $MACRO
 - 09/10 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 449.6B (FORECAST -, PREVIOUS 509.1B) $MACRO
+- 09/10 09:00 [financialjuice] Nvidia boosts AI infrastructure capacity through partnership with Australia’s data center network
+- 09/10 09:02 [financialjuice] Nvidia to back up to 2-gigawatt AI infrastructure expansion in Australia by 2027
+- 09/10 09:05 [FirstSquawk] GULF DEVELOPMENT AND SINGTEL FORM A STRATEGIC PARTNERSHIP TO BUILD NEW SUBMARINE CABLE CONNECTIVITY BETWEEN THAILAND AND SINGAPORE, STRENGTHENING REGIONAL DIGITAL INFRASTRUCTURE. THE PARTNERSHIP AIMS TO ENHANCE THAILAND-SINGAPORE SUBMARINE …
+- 09/10 09:11 [FirstSquawk] Up to 1 million Obamacare enrollees could receive $500 rebate checks under a Trump administration plan targeting people it says were overcharged, per Axios.
+- 09/10 09:17 [FirstSquawk] BESSENT’S EXPANDED TREASURY BUYBACK DISAPPOINTS MARKETS AS A SMALLER-THAN-EXPECTED OPERATION HELPS PUSH THE 10-YEAR YIELD TO ITS HIGHEST LEVEL SINCE 2023 DESPITE STRONG AUCTION DEMAND.
+- 09/10 09:17 [FirstSquawk] IRAN SIGNALS A MORE AGGRESSIVE WAR STRATEGY, SAYING IT HAS REBUILT ITS MILITARY CAPABILITIES AND HAS ENOUGH MISSILES FOR A PROLONGED CONFLICT AS US-IRAN ATTACKS CONTINUE TO ESCALATE. TRUMP SAYS THE WAR WILL END AFTER THE NOVEMBER MIDTERM EL…
+- 09/10 09:19 [FirstSquawk] Asia-Pacific shares weakened Wednesday as rising US Treasury yields and oil prices added to investor concerns
+- 09/10 09:20 [financialjuice] China PBOC likely to fix yuan midpoint at 6.7074 per dollar: estimate
+- 09/10 09:21 [FirstSquawk] SAMSUNG ELECTRONICS SEES SOCIAL-MEDIA ACTIVITY TRIPLE TO 10 FINANCIALLY FOCUSED POSTS IN 30 MINUTES, WELL ABOVE THE AVERAGE OF THREE, AMID BUZZ AROUND ITS AI-CHIP WORK WITH OPENAI AND UPCOMING FOLDABLES. THE SURGE FOLLOWS OTHER AI-RELATED D…
+- 09/10 09:23 [FirstSquawk] Brent closes up, with missing barrels and a widening conflict driving the broader oil narrative.
