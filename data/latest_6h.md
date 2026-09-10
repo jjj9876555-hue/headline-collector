@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 00:51 JST／対象: 09/10 18:51 〜 09/11 00:51 JST（時刻はすべて日本時間）
+生成: 2026-09-11 01:03 JST／対象: 09/10 19:03 〜 09/11 01:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 29 | 09/10 19:09 | 09/10 23:45 | 29分（22:07→22:36） |
-| FirstSquawk | 108 | 09/10 18:53 | 09/11 00:31 | 18分（20:15→20:33） |
-| financialjuice | 163 | 09/10 19:28 | 09/11 00:33 | 36分（20:01→20:38） |
+| FirstSquawk | 109 | 09/10 19:15 | 09/11 01:00 | 26分（00:31→00:58） |
+| financialjuice | 171 | 09/10 19:28 | 09/11 01:03 | 36分（20:01→20:38） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 284 行（統合前 305 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 293 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 18:53 [FirstSquawk] SAUDI ARAMCO IS CONSIDERING SELLING RUBBER MAKER ARLANXEO.
-- 09/10 19:02 [FirstSquawk] CHINA'S XI TO VISIT INDIA SEP 12-13, ATTEND BRICS SUMMIT - CHINESE STATE MEDIA
 - 09/10 19:09 [DeItaone] $AAPL - APPLE INC.: BOFA GLOBAL RESEARCH CUTS PRICE OBJECTIVE TO $370 FROM $380
 - 09/10 19:15 [FirstSquawk] BROADCOM: REMAINING PERFORMANCE OBLIGATIONS UNDER SEMICONDUCTOR SOLUTIONS & INFRASTRUCTURE SOFTWARE SEGMENT CONTRACTS AS OF AUG 2, ABOUT $179.2B
 - 09/10 19:28 [financialjuice] White House yet to decide on refined copper tariffs.
@@ -308,3 +306,14 @@
 - 09/11 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.81 (FORECAST -, PREVIOUS 2.970) $MACRO
 - 09/11 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.775% (FORECAST -, PREVIOUS 3.700%) $MACRO
 - 09/11 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.775% Bid-to-cover 2.91 Sells $90 bln Awards 34.21% of bids at high
+- 09/11 00:52 [financialjuice] The Trump Administration partners with OpenAI to use AI tools - Fox Business
+- 09/11 00:58 [FirstSquawk] UAE PLANS TO INVEST €40 BILLION IN GERMANY.
+- 09/11 01:00 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 1.269M (FORECAST -1.275M, PREVIOUS -1.173M) $MACRO
+- 09/11 01:00 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL 2.087M (FORECAST -0.7M, PREVIOUS 0.796M) $MACRO
+- 09/11 01:00 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL -0.391M (FORECAST -1.35M, PREVIOUS -4.450M) $MACRO
+- 09/11 01:00 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL -0.684M (FORECAST -, PREVIOUS 0.080M) $MACRO
+- 09/11 01:00 [FirstSquawk] U.S CRUDE OIL INVENTORIES ACTUAL: -391K VS -4450K PREVIOUS; EST -1271.83K
+- 09/11 01:00 [financialjuice] US EIA Weekly Petroleum Status Report
+- 09/11 01:00 [FirstSquawk] U.S CUSHING OK CRUDE INVENTORY ACTUAL: -684K VS 80K PREVIOUS
+- 09/11 01:02 [financialjuice] Microsoft shares safe participation framework for AI. $MSFT
+- 09/11 01:03 [financialjuice] US weekly crude production hits new record near 14 mln b/d

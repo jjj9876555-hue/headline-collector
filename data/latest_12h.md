@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 00:51 JST／対象: 09/10 12:51 〜 09/11 00:51 JST（時刻はすべて日本時間）
+生成: 2026-09-11 01:03 JST／対象: 09/10 13:03 〜 09/11 01:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 39 | 09/10 16:41 | 09/10 23:45 | 35分（17:30→18:05） |
-| FirstSquawk | 223 | 09/10 12:58 | 09/11 00:31 | 18分（20:15→20:33） |
-| financialjuice | 200 | 09/10 13:00 | 09/11 00:33 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 225 | 09/10 13:04 | 09/11 01:00 | 26分（00:31→00:58） |
+| financialjuice | 204 | 09/10 13:04 | 09/11 01:03 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 446 行（統合前 467 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 452 行（統合前 473 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 12:58 [FirstSquawk] Gold prices remain above $4,400 as markets await fresh U.S. inflation data.
-- 09/10 13:00 [financialjuice] Saudi civil defence issues emergency warning for province of Khamis Mushait - post on X
-- 09/10 13:02 [financialjuice] IMF dropped leading candidate for chief economist role over Trump tariff comments: FT
-- 09/10 13:03 [financialjuice] Mubadala investment arrives as China’s coffee market keeps growing
-- 09/10 13:03 [financialjuice] IMF drops Ricardo Reis as lead candidate for new chief economist: FT
 - 09/10 13:04 [financialjuice] Mubadala: continues to see strong long-term prospects in China’s consumer sector
 - 09/10 13:04 [FirstSquawk] Arini is facing pressure after several European credit bets moved against the London-based investment firm.
 - 09/10 13:05 [FirstSquawk] Trump tariff comments reportedly cost the leading candidate a shot at becoming the IMF’s next chief economist.
@@ -470,3 +465,14 @@
 - 09/11 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.81 (FORECAST -, PREVIOUS 2.970) $MACRO
 - 09/11 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.775% (FORECAST -, PREVIOUS 3.700%) $MACRO
 - 09/11 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.775% Bid-to-cover 2.91 Sells $90 bln Awards 34.21% of bids at high
+- 09/11 00:52 [financialjuice] The Trump Administration partners with OpenAI to use AI tools - Fox Business
+- 09/11 00:58 [FirstSquawk] UAE PLANS TO INVEST €40 BILLION IN GERMANY.
+- 09/11 01:00 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 1.269M (FORECAST -1.275M, PREVIOUS -1.173M) $MACRO
+- 09/11 01:00 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL 2.087M (FORECAST -0.7M, PREVIOUS 0.796M) $MACRO
+- 09/11 01:00 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL -0.391M (FORECAST -1.35M, PREVIOUS -4.450M) $MACRO
+- 09/11 01:00 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL -0.684M (FORECAST -, PREVIOUS 0.080M) $MACRO
+- 09/11 01:00 [FirstSquawk] U.S CRUDE OIL INVENTORIES ACTUAL: -391K VS -4450K PREVIOUS; EST -1271.83K
+- 09/11 01:00 [financialjuice] US EIA Weekly Petroleum Status Report
+- 09/11 01:00 [FirstSquawk] U.S CUSHING OK CRUDE INVENTORY ACTUAL: -684K VS 80K PREVIOUS
+- 09/11 01:02 [financialjuice] Microsoft shares safe participation framework for AI. $MSFT
+- 09/11 01:03 [financialjuice] US weekly crude production hits new record near 14 mln b/d
