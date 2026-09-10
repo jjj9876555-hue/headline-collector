@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 05:04 JST／対象: 09/10 23:04 〜 09/11 05:04 JST（時刻はすべて日本時間）
+生成: 2026-09-11 05:23 JST／対象: 09/10 23:23 〜 09/11 05:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/10 23:10 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 82 | 09/10 23:05 | 09/11 05:02 | 32分（03:04→03:37） |
-| financialjuice | 88 | 09/10 23:09 | 09/11 05:02 | 20分（03:44→04:04） |
+| DeItaone | 15 | 09/10 23:25 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
+| FirstSquawk | 83 | 09/10 23:25 | 09/11 05:19 | 32分（03:04→03:37） |
+| financialjuice | 85 | 09/10 23:25 | 09/11 05:15 | 20分（03:44→04:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 182 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 176 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 23:05 [FirstSquawk] KALSHI LAUNCHES ‘PERPS’ FOR GOLD AND SILVER FOLLOWING CFTC APPROVAL, EXPANDING FUTURES OFFERINGS - CNBC
-- 09/10 23:09 [FirstSquawk] OPENAI HELD MEETINGS WITH REPRESENTATIVES FROM LEADING ENERGY FIRMS.
-- 09/10 23:09 [FirstSquawk] OPENAI HELD DISCUSSIONS WITH POWER COMPANIES ABOUT SECURING THE GRID, ACCORDING TO POLITICO.
-- 09/10 23:09 [financialjuice] OpenAI discussed securing the grid in talks with power companies - Politico.
-- 09/10 23:10 [DeItaone] WHITE HOUSE: WILL ISSUE $500 OBAMACARE REFUNDS TO NEARLY 1 MILLION AMERICANS
-- 09/10 23:12 [financialjuice] Poll: US 10-year Treasury yield likely to touch 5% within three months according to 55% bond strategists.
-- 09/10 23:13 [financialjuice] Poll: US 10-year Treasury yield to decline to 4.67% in three months, 4.65% in six, and 4.55% in a year (vs 4.50%, 4.50%, and 4.34%, respectively, in the August poll)
-- 09/10 23:13 [FirstSquawk] THUNE WAS ASKED IF SENATE WILL HAVE VOTES TO PASS $5,000 CHECKS
-- 09/10 23:14 [DeItaone] WALL STREET SEES 5% TREASURY YIELD RISK A Reuters poll found 17 of 31 bond strategists see the U.S. 10-year Treasury yield potentially hitting 5% within three months. The 10-year recently reached 4.86%, pressured by $100+ oil, inflation con…
-- 09/10 23:16 [FirstSquawk] TRADERS FULLY PRICE THREE MORE ECB RATE HIKES BY MID-2027
-- 09/10 23:16 [financialjuice] ❗ Traders fully price in three more ECB rate hikes by mid-2027.
-- 09/10 23:16 [DeItaone] *OPENAI SEEKS TO ENSURE MODELS CAN'T HARM GRID SECURITY:POLITICO
-- 09/10 23:17 [financialjuice] Crypto Fear and Greed Index: 69/100 = Greed
-- 09/10 23:18 [financialjuice] Fear & Greed Index: 36/100 - Fear
-- 09/10 23:20 [FirstSquawk] US TREASURY TWO-YEAR YIELD INCREASES BY 10 BASIS POINTS TO 4.53%.
-- 09/10 23:21 [DeItaone] *TREASURY TWO-YEAR YIELD RISES 10 BASIS POINTS ON DAY TO 4.53%
 - 09/10 23:25 [financialjuice] ❗ Iran-backed Yemen's Houthis spokesperson: Freedom of navigation and international trade in the Red Sea and Bab el-Mandeb Strait remain safe and uninterrupted.
 - 09/10 23:25 [FirstSquawk/DeItaone] IRAN-BACKED YEMEN'S HOUTHIS SPOKESPERSON SAYS FREEDOM OF NAVIGATION AND INTERNATIONAL TRADE IN RED SEA AND BAB EL-MANDEB STRAIT REMAIN SAFE AND UNINTERRUPTED
 - 09/10 23:25 [FirstSquawk] IRAN-BACKED YEMEN'S HOUTHIS SPOKESPERSON SAYS CURRENT OPERATIONS ARE LIMITED TO SPECIFIED TARGETS AND ARE DEFENSIVE
@@ -206,3 +190,13 @@
 - 09/11 04:52 [financialjuice] Trump and JD Vance speak at the Republican midterm convention - WATCH LIVE
 - 09/11 05:01 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 171.22 POINTS, OR 0.65%, AT 26,082.12. S&P 500 UNOFFICIALLY CLOSES DOWN 45.92 POINTS, OR 0.60%, AT 7,590.44. DOW JONES INDUSTRIAL AVERAGE UNOFFICIALLY CLOSES DOWN 327.34 POINTS, OR 0.62%, AT 52,053.…
 - 09/11 05:02 [financialjuice/FirstSquawk] Yemeni Armed Forces launch missile attack on southern Saudi Arabia - IRNA
+- 09/11 05:08 [FirstSquawk] ADOBE Q3 ADJUSTED EPS RISES TO $6.13 FROM $6.09 EXPECTED, WHILE REVENUE REACHES $6.76 BILLION, ABOVE THE $6.70 BILLION ESTIMATE, AND ADJUSTED NET INCOME HITS $2.42 BILLION.
+- 09/11 05:08 [FirstSquawk] ADOBE GUIDES FY REVENUE TO $26.576-$26.626 BILLION AND ADJUSTED EPS TO $24.45-$24.50, WHILE Q4 REVENUE IS FORECAST AT $6.80-$6.85 BILLION.
+- 09/11 05:10 [financialjuice] $ORCL Oracle Q1 2027 Earnings Adj. EPS $1.92, est. $1.75 Adj. Rev. $19.35B, est. $19.13B Adj. oper income $8.15B, est. $7.81B Adj. oper margin 42%, est. 40.8% Cloud infrastructure rev. (IaaS) $7.39B, est. $7.19B Software rev. $5.55B, est. $…
+- 09/11 05:13 [FirstSquawk] ORACLE EARNINGS • REVENUE: $19.3B VS $19.14B ESTIMATE • ADJ. EPS: $1.92 VS $1.74 ESTIMATE • CLOUD REVENUE: $11.6B VS $11.44B ESTIMATE • FY REVENUE GUIDANCE: ≥$90B VS $89.76B ESTIMATE • FY ADJ. EPS GUIDANCE: $8.10 VS $8.07 ESTIMATE • Q2 REVE…
+- 09/11 05:13 [financialjuice] Oracle now expects FY 2027 revenue at least $90 bln. $ORCL
+- 09/11 05:13 [FirstSquawk] ORACLE Q1 EARNINGS — AI CLOUD BOOM • Q1 REVENUE: $19.3B VS $19.14B ESTIMATE — BEAT. • Q1 ADJ EPS: $1.92 VS $1.74 ESTIMATE — STRONG BEAT. • CLOUD REVENUE: $11.6B VS $11.44B ESTIMATE. • FY REVENUE OUTLOOK: AT LEAST $90B VS $89.76B ESTIMATE. •…
+- 09/11 05:15 [financialjuice] Oracle booked over $30 bln of added AI cloud contracts in Q1
+- 09/11 05:19 [FirstSquawk] BRENT CRUDE CLIMBED ABOVE $107, PUSHING US STOCKS AND BONDS LOWER AS RISING ENERGY PRICES INTENSIFIED INFLATION CONCERNS. THE S&P 500 FELL FOR A FOURTH STRAIGHT SESSION, ITS LONGEST LOSING STREAK SINCE JUNE, WHILE TREASURY YIELDS REACHED MU…
+- 09/11 05:19 [FirstSquawk] MARKETS RAISED THE PROBABILITY OF A FED RATE HIKE NEXT WEEK TO 70%, WITH AN INCREASE FULLY PRICED BY OCTOBER. PRODUCER INFLATION ALSO SHOWED RENEWED PRICE PRESSURE FROM HIGHER ENERGY COSTS, INCREASING FOCUS ON THE UPCOMING CPI REPORT.
+- 09/11 05:19 [FirstSquawk] TREASURY’S $5.19B DEBT BUYBACK CAME IN BELOW THE PREVIOUSLY INDICATED AMOUNT, ADDING PRESSURE TO BONDS. THE FED’S SEPT. 15–16 MEETING WILL NOW HINGE HEAVILY ON THIS WEEK’S INFLATION AND ECONOMIC DATA, PARTICULARLY WHETHER SURGING GASOLINE P…
