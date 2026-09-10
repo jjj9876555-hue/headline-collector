@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 04:52 JST／対象: 09/10 22:52 〜 09/11 04:52 JST（時刻はすべて日本時間）
+生成: 2026-09-11 05:04 JST／対象: 09/10 23:04 〜 09/11 05:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/10 23:00 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 82 | 09/10 23:00 | 09/11 04:31 | 32分（03:04→03:37） |
-| financialjuice | 91 | 09/10 23:00 | 09/11 04:51 | 20分（03:44→04:04） |
+| DeItaone | 19 | 09/10 23:10 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
+| FirstSquawk | 82 | 09/10 23:05 | 09/11 05:02 | 32分（03:04→03:37） |
+| financialjuice | 88 | 09/10 23:09 | 09/11 05:02 | 20分（03:44→04:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 188 行（統合前 196 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 182 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 23:00 [FirstSquawk] US EXISTING HOME SALES (AUG) ACTUAL: 3.98M VS 4.06M PREVIOUS; EST 3.98M
-- 09/10 23:00 [financialjuice] ❗ US EXISTING HOME SALES ACTUAL 3.98M (FORECAST 3.98M, PREVIOUS 4.06M) $MACRO
-- 09/10 23:00 [financialjuice] US EXISTING HOME SALES CHANGE ACTUAL -2% (FORECAST -1.7%, PREVIOUS -1.7%) $MACRO
-- 09/10 23:00 [financialjuice] US WHOLESALE INVENTORIES MOM REVISED ACTUAL 1.3% (FORECAST 1.3%, PREVIOUS 1.3%) $MACRO
-- 09/10 23:00 [DeItaone] *US AUG. EXISTING HOME SALES AT 3.98M; EST. 3.98M *US AUG. EXISTING HOME SALES FALL 2% M/M; PREV. -1.7%
-- 09/10 23:00 [financialjuice] US WHOLESALE SALES MOM ACTUAL 0.8% (FORECAST -, PREVIOUS -3.0%) $MACRO
-- 09/10 23:01 [financialjuice] US Existing Home Sales August Report
-- 09/10 23:01 [FirstSquawk] US EXISTING HOME SUPPLY REACHES 4.9 MONTHS, THE HIGHEST LEVEL SINCE 2015.
-- 09/10 23:04 [DeItaone] MARKETS KALSHI LAUNCHES ‘PERPS’ FOR GOLD AND SILVER FOLLOWING CFTC APPROVAL, EXPANDING FUTURES OFFERINGS- CNBC
 - 09/10 23:05 [FirstSquawk] KALSHI LAUNCHES ‘PERPS’ FOR GOLD AND SILVER FOLLOWING CFTC APPROVAL, EXPANDING FUTURES OFFERINGS - CNBC
 - 09/10 23:09 [FirstSquawk] OPENAI HELD MEETINGS WITH REPRESENTATIVES FROM LEADING ENERGY FIRMS.
 - 09/10 23:09 [FirstSquawk] OPENAI HELD DISCUSSIONS WITH POWER COMPANIES ABOUT SECURING THE GRID, ACCORDING TO POLITICO.
@@ -212,3 +203,6 @@
 - 09/11 04:32 [financialjuice] SpaceX: Next starship flight will be revenue generating. $SPCX
 - 09/11 04:38 [financialjuice] SpaceX CFO: More conviction on $100b annual runrate revenue. $SPCX
 - 09/11 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 466.4 MLN NASDAQ 100: 464.1 MLN DOW 30: -128.5 MLN MAG 7: 336.9 MLN $MACRO
+- 09/11 04:52 [financialjuice] Trump and JD Vance speak at the Republican midterm convention - WATCH LIVE
+- 09/11 05:01 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 171.22 POINTS, OR 0.65%, AT 26,082.12. S&P 500 UNOFFICIALLY CLOSES DOWN 45.92 POINTS, OR 0.60%, AT 7,590.44. DOW JONES INDUSTRIAL AVERAGE UNOFFICIALLY CLOSES DOWN 327.34 POINTS, OR 0.62%, AT 52,053.…
+- 09/11 05:02 [financialjuice/FirstSquawk] Yemeni Armed Forces launch missile attack on southern Saudi Arabia - IRNA

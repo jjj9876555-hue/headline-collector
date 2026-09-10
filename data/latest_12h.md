@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 04:52 JST／対象: 09/10 16:52 〜 09/11 04:52 JST（時刻はすべて日本時間）
+生成: 2026-09-11 05:04 JST／対象: 09/10 17:04 〜 09/11 05:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 09/10 17:02 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 194 | 09/10 16:53 | 09/11 04:31 | 32分（03:04→03:37） |
-| financialjuice | 232 | 09/10 17:00 | 09/11 04:51 | ⚠ 48分（17:04→17:53） |
+| DeItaone | 49 | 09/10 17:27 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
+| FirstSquawk | 193 | 09/10 17:06 | 09/11 05:02 | 32分（03:04→03:37） |
+| financialjuice | 233 | 09/10 17:04 | 09/11 05:02 | ⚠ 48分（17:04→17:53） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 455 行（統合前 482 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 453 行（統合前 481 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 16:53 [FirstSquawk] NOVO NORDISK: WEGOVY APPROVED IN CHINA AS THE FIRST AND ONLY GLP-1 RA FOR THE TREATMENT OF MASH
-- 09/10 16:58 [FirstSquawk] KIMI MAKER MOONSHOT AI TO EXPLORE DUAL HONG KONG AND SHANGHAI IPOS TO BOOST CAPITAL, SOURCES SAY – SCMP
-- 09/10 17:00 [financialjuice] ITALIAN INDUSTRIAL PRODUCTION MOM ACTUAL 0.7% (FORECAST 0.3%, PREVIOUS -1.0%) $MACRO
-- 09/10 17:02 [FirstSquawk] ITALY INDUSTRIAL PRODUCTION (M/M) JUL: 0.7% (EST 0.3%; PREV -1.0%)
-- 09/10 17:02 [DeItaone] HUAWEI HIKES AI CHIP PRICES 60% Huawei has reportedly raised the price of its Ascend 950DT AI accelerator by about 60% to $37,300, as booming demand outstrips supply. HBM shortages are adding to costs, while demand for Chinese alternatives …
 - 09/10 17:04 [financialjuice] Anthropic grants EU access to Mythos months after release.
 - 09/10 17:06 [FirstSquawk] AUGUST WAS ONE OF THE HOTTEST MONTHS EVER RECORDED WORLDWIDE, ACCORDING TO EU DATA.
 - 09/10 17:07 [FirstSquawk] ANTHROPIC GRANTS EU ACCESS TO MYTHOS, SEVERAL MONTHS AFTER ITS LAUNCH.
@@ -479,3 +474,6 @@
 - 09/11 04:32 [financialjuice] SpaceX: Next starship flight will be revenue generating. $SPCX
 - 09/11 04:38 [financialjuice] SpaceX CFO: More conviction on $100b annual runrate revenue. $SPCX
 - 09/11 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 466.4 MLN NASDAQ 100: 464.1 MLN DOW 30: -128.5 MLN MAG 7: 336.9 MLN $MACRO
+- 09/11 04:52 [financialjuice] Trump and JD Vance speak at the Republican midterm convention - WATCH LIVE
+- 09/11 05:01 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 171.22 POINTS, OR 0.65%, AT 26,082.12. S&P 500 UNOFFICIALLY CLOSES DOWN 45.92 POINTS, OR 0.60%, AT 7,590.44. DOW JONES INDUSTRIAL AVERAGE UNOFFICIALLY CLOSES DOWN 327.34 POINTS, OR 0.62%, AT 52,053.…
+- 09/11 05:02 [financialjuice/FirstSquawk] Yemeni Armed Forces launch missile attack on southern Saudi Arabia - IRNA
