@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 06:44 JST／対象: 09/11 00:44 〜 09/11 06:44 JST（時刻はすべて日本時間）
+生成: 2026-09-11 06:58 JST／対象: 09/11 00:58 〜 09/11 06:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 14 | 09/11 01:33 | 09/11 06:36 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 78 | 09/11 00:58 | 09/11 06:26 | ⚠ 48分（05:38→06:26） |
-| financialjuice | 74 | 09/11 00:52 | 09/11 06:41 | 39分（05:24→06:04） |
+| FirstSquawk | 77 | 09/11 01:00 | 09/11 06:26 | ⚠ 48分（05:38→06:26） |
+| financialjuice | 73 | 09/11 01:00 | 09/11 06:41 | 39分（05:24→06:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 160 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 158 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 00:52 [financialjuice] The Trump Administration partners with OpenAI to use AI tools - Fox Business
-- 09/11 00:58 [FirstSquawk] UAE PLANS TO INVEST €40 BILLION IN GERMANY.
 - 09/11 01:00 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 1.269M (FORECAST -1.275M, PREVIOUS -1.173M) $MACRO
 - 09/11 01:00 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL 2.087M (FORECAST -0.7M, PREVIOUS 0.796M) $MACRO
 - 09/11 01:00 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL -0.391M (FORECAST -1.35M, PREVIOUS -4.450M) $MACRO
