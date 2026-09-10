@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 04:41 JST／対象: 09/10 16:41 〜 09/11 04:41 JST（時刻はすべて日本時間）
+生成: 2026-09-11 04:52 JST／対象: 09/10 16:52 〜 09/11 04:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 52 | 09/10 16:41 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 196 | 09/10 16:42 | 09/11 04:31 | 32分（03:04→03:37） |
-| financialjuice | 231 | 09/10 17:00 | 09/11 04:38 | ⚠ 48分（17:04→17:53） |
+| DeItaone | 50 | 09/10 17:02 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
+| FirstSquawk | 194 | 09/10 16:53 | 09/11 04:31 | 32分（03:04→03:37） |
+| financialjuice | 232 | 09/10 17:00 | 09/11 04:51 | ⚠ 48分（17:04→17:53） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 458 行（統合前 485 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 455 行（統合前 482 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 16:41 [DeItaone] TRUMP PROMISES $5,000 DIVIDEND IF GOP WINS MIDTERMS President Donald Trump pledged a $5,000 payment to every adult U.S. citizen if Republicans retain control of Congress in November. Trump credited U.S. economic performance for the proposal…
-- 09/10 16:42 [FirstSquawk] PBOC: Seeks Dynamic Balance In Macro Policy Objectives
-- 09/10 16:47 [FirstSquawk] TSMC SEES A 53.3% RISE IN MONTHLY SALES AS IT STRUGGLES TO KEEP UP WITH HIGH DEMAND FOR AI INFRASTRUCTURE.
-- 09/10 16:51 [DeItaone] HOUTHIS SEIZE STRATEGIC RED SEA CITY Iran-backed Houthis have seized Yemen’s Mocha, according to Reuters sources. The advance brings the group closer to the Bab el-Mandeb Strait, raising risks for Red Sea shipping and global trade.
 - 09/10 16:53 [FirstSquawk] NOVO NORDISK: WEGOVY APPROVED IN CHINA AS THE FIRST AND ONLY GLP-1 RA FOR THE TREATMENT OF MASH
 - 09/10 16:58 [FirstSquawk] KIMI MAKER MOONSHOT AI TO EXPLORE DUAL HONG KONG AND SHANGHAI IPOS TO BOOST CAPITAL, SOURCES SAY – SCMP
 - 09/10 17:00 [financialjuice] ITALIAN INDUSTRIAL PRODUCTION MOM ACTUAL 0.7% (FORECAST 0.3%, PREVIOUS -1.0%) $MACRO
@@ -482,3 +478,4 @@
 - 09/11 04:31 [FirstSquawk] IRAN FM, PAKISTAN ARMY CHIEF DISCUSS REGIONAL TENSIONS - IRAN FM, VIA DBNEWS
 - 09/11 04:32 [financialjuice] SpaceX: Next starship flight will be revenue generating. $SPCX
 - 09/11 04:38 [financialjuice] SpaceX CFO: More conviction on $100b annual runrate revenue. $SPCX
+- 09/11 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 466.4 MLN NASDAQ 100: 464.1 MLN DOW 30: -128.5 MLN MAG 7: 336.9 MLN $MACRO

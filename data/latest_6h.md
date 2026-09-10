@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 04:41 JST／対象: 09/10 22:41 〜 09/11 04:41 JST（時刻はすべて日本時間）
+生成: 2026-09-11 04:52 JST／対象: 09/10 22:52 〜 09/11 04:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/10 23:00 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 84 | 09/10 22:48 | 09/11 04:31 | 32分（03:04→03:37） |
-| financialjuice | 92 | 09/10 22:47 | 09/11 04:38 | 20分（03:44→04:04） |
+| FirstSquawk | 82 | 09/10 23:00 | 09/11 04:31 | 32分（03:04→03:37） |
+| financialjuice | 91 | 09/10 23:00 | 09/11 04:51 | 20分（03:44→04:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 191 行（統合前 199 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 188 行（統合前 196 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 22:47 [financialjuice] ECB projections assume exchange rate of $1.16 in 2026-2028.
-- 09/10 22:48 [financialjuice] ECB projections assume oil price of $89.5/barrel in 2026, $74 in 2027, and $73.60 in 2028.
-- 09/10 22:48 [FirstSquawk] ECB PROJECTIONS ASSUME OIL PRICE OF $89.5/BARREL IN 2026
-- 09/10 22:48 [FirstSquawk] ECB PROJECTIONS ASSUME OIL PRICE OF $78/BARREL IN 2027
 - 09/10 23:00 [FirstSquawk] US EXISTING HOME SALES (AUG) ACTUAL: 3.98M VS 4.06M PREVIOUS; EST 3.98M
 - 09/10 23:00 [financialjuice] ❗ US EXISTING HOME SALES ACTUAL 3.98M (FORECAST 3.98M, PREVIOUS 4.06M) $MACRO
 - 09/10 23:00 [financialjuice] US EXISTING HOME SALES CHANGE ACTUAL -2% (FORECAST -1.7%, PREVIOUS -1.7%) $MACRO
@@ -215,3 +211,4 @@
 - 09/11 04:31 [FirstSquawk] IRAN FM, PAKISTAN ARMY CHIEF DISCUSS REGIONAL TENSIONS - IRAN FM, VIA DBNEWS
 - 09/11 04:32 [financialjuice] SpaceX: Next starship flight will be revenue generating. $SPCX
 - 09/11 04:38 [financialjuice] SpaceX CFO: More conviction on $100b annual runrate revenue. $SPCX
+- 09/11 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 466.4 MLN NASDAQ 100: 464.1 MLN DOW 30: -128.5 MLN MAG 7: 336.9 MLN $MACRO

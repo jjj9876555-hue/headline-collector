@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 04:41 JST／対象: 09/10 04:41 〜 09/11 04:41 JST（時刻はすべて日本時間）
+生成: 2026-09-11 04:52 JST／対象: 09/10 04:52 〜 09/11 04:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 56 | 09/10 05:08 | 09/11 03:41 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 390 | 09/10 04:51 | 09/11 04:31 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 333 | 09/10 04:50 | 09/11 04:38 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 389 | 09/10 04:57 | 09/11 04:31 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 333 | 09/10 04:57 | 09/11 04:51 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 756 行（統合前 786 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 755 行（統合前 785 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -745.9 MLN NASDAQ 100: 122.0 MLN DOW 30: -476.3 MLN MAG 7: 27.8 MLN $MACRO
-- 09/10 04:51 [FirstSquawk] COPPER HITS FRESH RECORD HIGHS IN LONDON AND NEW YORK AS TARIFF FEARS AND A GLOBAL SUPPLY CRUNCH DRIVE A RALLY, WITH LME COPPER REACHING $14,858.50/TON. AI DATA CENTERS, RENEWABLES, EVS AND POWER-GRID EXPANSION ARE BOOSTING LONG-TERM DEMAND…
 - 09/10 04:57 [FirstSquawk] MASSIVE FIRE ERUPTS AT SOCHI PORT, RUSSIA, FOLLOWING REPORTED UKRAINIAN DRONE ATTACKS.MASSIVE FIRE ERUPTS AT SOCHI PORT, RUSSIA, FOLLOWING REPORTED UKRAINIAN DRONE ATTACKS.
 - 09/10 04:57 [FirstSquawk] ZELENSKY’S PLANE WAS “ALMOST HIT” BY A DRONE WHILE TAKING OFF FROM MOLDOVA EN ROUTE TO OSLO, NORWEGIAN PM JONAS GAHR STØRE SAID.
 - 09/10 04:57 [financialjuice/FirstSquawk] Iran's First Vice President: Iran stands firm on peaceful nuclear energy rights.
@@ -780,3 +778,4 @@
 - 09/11 04:31 [FirstSquawk] IRAN FM, PAKISTAN ARMY CHIEF DISCUSS REGIONAL TENSIONS - IRAN FM, VIA DBNEWS
 - 09/11 04:32 [financialjuice] SpaceX: Next starship flight will be revenue generating. $SPCX
 - 09/11 04:38 [financialjuice] SpaceX CFO: More conviction on $100b annual runrate revenue. $SPCX
+- 09/11 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 466.4 MLN NASDAQ 100: 464.1 MLN DOW 30: -128.5 MLN MAG 7: 336.9 MLN $MACRO
