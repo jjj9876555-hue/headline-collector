@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 20:33 JST／対象: 09/09 20:33 〜 09/10 20:33 JST（時刻はすべて日本時間）
+生成: 2026-09-10 20:51 JST／対象: 09/09 20:51 〜 09/10 20:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 57 | 09/09 20:35 | 09/10 20:28 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 348 | 09/09 20:33 | 09/10 20:33 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 235 | 09/09 20:34 | 09/10 20:01 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 55 | 09/09 21:27 | 09/10 20:48 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 343 | 09/09 20:51 | 09/10 20:43 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 236 | 09/09 21:00 | 09/10 20:42 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 627 行（統合前 642 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 620 行（統合前 636 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 20:33 [FirstSquawk] AIRLINES CALL FOR UK AIR TRAFFIC CONTROL BOSS TO QUIT AS DISRUPTION CONTINUES – FT
-- 09/09 20:34 [financialjuice] Fitch Ratings: Severe equity price shock scenario would entail US recession.
-- 09/09 20:35 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS RISE TO 4.4253%, HIGHEST SINCE JANUARY 2025
-- 09/09 20:36 [FirstSquawk] UK BURNHAM: WON'T SUPPORT MORATORIUM ON BUILDING DATA CENTERS
-- 09/09 20:37 [financialjuice] UK's PM Burnham: I won't support moratorium on building data centers.
-- 09/09 20:37 [FirstSquawk] UK BURNHAM: IMPORTANT FOR COMMUNITIES TO SEE DATA CENTER BENEFITS
-- 09/09 20:39 [DeItaone] GERMAN 2-YEAR YIELDS RISE AS MUCH AS 7.2 BPS TO 3.052%, SET FOR BIGGEST ONE-DAY INCREASE SINCE EARLY JULY
-- 09/09 20:41 [FirstSquawk] PUTIN'S AIDE: RUSSIA CONSIDERS ABU DHABI PRIORITY LOCATION FOR TALKS ON UKRAINE – VESTI
-- 09/09 20:41 [FirstSquawk] DOW IS CONSIDERING PULLING OUT OF A $20 BILLION CHEMICAL PROJECT IN SAUDI ARABIA.
-- 09/09 20:42 [DeItaone/FirstSquawk] KREMLIN: UNITED STATES SHOULD HALT ANY AID TO KYIV FOR THE MILITARY ACTIONS TO STOP
-- 09/09 20:43 [FirstSquawk] UK BURNHAM: GAVE THE MOST CAREFUL CONSIDERATION ON ISRAEL MEASURES
-- 09/09 20:48 [FirstSquawk] MARCO RUBIO: EXPECT COLOMBIA'S DRUG-FIGHTING CERTIFICATION TO CHANGE
-- 09/09 20:50 [DeItaone] CENTRAL BANKS FOCUS ON FUEL PRICES AS INFLATION RISK Central banks are increasingly watching refining margins, or “crack spreads,” as fuel shortages push gasoline and diesel prices higher. Bank of England Governor Andrew Bailey said refined…
 - 09/09 20:51 [FirstSquawk] COMPANIES ARE INCREASING BOND MARKET BORROWING, RAISING OVER $70 BILLION ON TUESDAY, THE BUSIEST SESSION SINCE JUNE.
 - 09/09 21:00 [financialjuice] Secured overnight financing rate: 3.64% on September 8th vs 3.65% on September 4th
 - 09/09 21:02 [FirstSquawk] IRAQ CONFIRMS TANKER CARRIED FUEL OIL AND REPORTS NO LEAKS.
@@ -651,3 +638,9 @@
 - 09/10 20:15 [FirstSquawk] KREMLIN: RUSSIA WILL DISCUSS TRADE SETTLEMENTS IN DIGITAL CURRENCIES WITH BRICS+ PARTNERS AT SUMMIT IN INDIA
 - 09/10 20:28 [DeItaone] $SPCX - UK DEEPENS SPACEX RELIANCE WITH $40 MILLION SATELLITE SPEND Britain has spent nearly $40 million on SpaceX satellite services, becoming the first country outside the U.S. to publicly acknowledge adopting Starshield. The UK military …
 - 09/10 20:33 [FirstSquawk] KREMLIN: RUSSIA WILL CONTINUE TO DESTROY VESSELS TRANSPORTING AMMUNITION FOR UKRAINE IN BLACK SEA
+- 09/10 20:38 [FirstSquawk] UN ATOMIC WATCHDOG SAYS LOSING CONTINUITY OF KNOWLEDGFE IN IRAN SAYS IAEA
+- 09/10 20:38 [financialjuice] UN Atomic Watchdog: Losing continuity of knowledge in Iran.
+- 09/10 20:40 [FirstSquawk/financialjuice] IAEA DOESN'T EXPECT RESUMPTION OF IRAN INSPECTIONS IN NEAR TERM
+- 09/10 20:42 [financialjuice/FirstSquawk] IAEA sees evidence of activity by Iran's Pickaxe Mountain.
+- 09/10 20:46 [DeItaone] US, IRAN PREPARE FOR PROTRACTED WAR Iran and the U.S. are reportedly preparing for a potentially prolonged conflict, with little sign of an imminent ceasefire or normalization of Middle East energy flows. Bloomberg reports Tehran remains co…
+- 09/10 20:48 [DeItaone] HOUTHIS CLOSE IN ON KEY RED SEA CHOKEPOINT Iran-aligned Houthis have seized Yemen’s port city of Mocha and are pushing toward Dhubab and the Bab el-Mandeb Strait, according to Reuters sources. Control of the strategic waterway could allow t…

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 20:33 JST／対象: 09/10 08:33 〜 09/10 20:33 JST（時刻はすべて日本時間）
+生成: 2026-09-10 20:51 JST／対象: 09/10 08:51 〜 09/10 20:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/10 16:41 | 09/10 20:28 | 35分（17:30→18:05） |
-| FirstSquawk | 215 | 09/10 09:05 | 09/10 20:33 | 18分（20:15→20:33） |
-| financialjuice | 80 | 09/10 08:50 | 09/10 20:01 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 19 | 09/10 16:41 | 09/10 20:48 | 35分（17:30→18:05） |
+| FirstSquawk | 218 | 09/10 09:05 | 09/10 20:43 | 18分（20:15→20:33） |
+| financialjuice | 81 | 09/10 08:51 | 09/10 20:42 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 307 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 311 行（統合前 319 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL 690.0B (FORECAST -, PREVIOUS 35.8B ,REVISION 35.9B) $MACRO
-- 09/10 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL 111.9B (FORECAST -, PREVIOUS -824.0B) $MACRO
 - 09/10 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL -481.6B (FORECAST -, PREVIOUS 35.8B) $MACRO
 - 09/10 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 449.6B (FORECAST -, PREVIOUS 509.1B) $MACRO
 - 09/10 09:00 [financialjuice] Nvidia boosts AI infrastructure capacity through partnership with Australia’s data center network
@@ -331,3 +329,9 @@
 - 09/10 20:15 [FirstSquawk] KREMLIN: RUSSIA WILL DISCUSS TRADE SETTLEMENTS IN DIGITAL CURRENCIES WITH BRICS+ PARTNERS AT SUMMIT IN INDIA
 - 09/10 20:28 [DeItaone] $SPCX - UK DEEPENS SPACEX RELIANCE WITH $40 MILLION SATELLITE SPEND Britain has spent nearly $40 million on SpaceX satellite services, becoming the first country outside the U.S. to publicly acknowledge adopting Starshield. The UK military …
 - 09/10 20:33 [FirstSquawk] KREMLIN: RUSSIA WILL CONTINUE TO DESTROY VESSELS TRANSPORTING AMMUNITION FOR UKRAINE IN BLACK SEA
+- 09/10 20:38 [FirstSquawk] UN ATOMIC WATCHDOG SAYS LOSING CONTINUITY OF KNOWLEDGFE IN IRAN SAYS IAEA
+- 09/10 20:38 [financialjuice] UN Atomic Watchdog: Losing continuity of knowledge in Iran.
+- 09/10 20:40 [FirstSquawk/financialjuice] IAEA DOESN'T EXPECT RESUMPTION OF IRAN INSPECTIONS IN NEAR TERM
+- 09/10 20:42 [financialjuice/FirstSquawk] IAEA sees evidence of activity by Iran's Pickaxe Mountain.
+- 09/10 20:46 [DeItaone] US, IRAN PREPARE FOR PROTRACTED WAR Iran and the U.S. are reportedly preparing for a potentially prolonged conflict, with little sign of an imminent ceasefire or normalization of Middle East energy flows. Bloomberg reports Tehran remains co…
+- 09/10 20:48 [DeItaone] HOUTHIS CLOSE IN ON KEY RED SEA CHOKEPOINT Iran-aligned Houthis have seized Yemen’s port city of Mocha and are pushing toward Dhubab and the Bab el-Mandeb Strait, according to Reuters sources. Control of the strategic waterway could allow t…
