@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 02:16 JST／対象: 09/10 20:16 〜 09/11 02:16 JST（時刻はすべて日本時間）
+生成: 2026-09-11 02:31 JST／対象: 09/10 20:31 〜 09/11 02:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/10 20:28 | 09/11 01:56 | ⚠ 108分（23:45→01:33） |
+| DeItaone | 31 | 09/10 20:46 | 09/11 02:27 | ⚠ 108分（23:45→01:33） |
 | FirstSquawk | 106 | 09/10 20:33 | 09/11 02:11 | 26分（00:31→00:58） |
-| financialjuice | 186 | 09/10 20:38 | 09/11 02:04 | 19分（00:33→00:52） |
+| financialjuice | 187 | 09/10 20:38 | 09/11 02:24 | 19分（02:04→02:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 310 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 313 行（統合前 329 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 20:28 [DeItaone] $SPCX - UK DEEPENS SPACEX RELIANCE WITH $40 MILLION SATELLITE SPEND Britain has spent nearly $40 million on SpaceX satellite services, becoming the first country outside the U.S. to publicly acknowledge adopting Starshield. The UK military …
 - 09/10 20:33 [FirstSquawk] KREMLIN: RUSSIA WILL CONTINUE TO DESTROY VESSELS TRANSPORTING AMMUNITION FOR UKRAINE IN BLACK SEA
 - 09/10 20:38 [FirstSquawk] UN ATOMIC WATCHDOG SAYS LOSING CONTINUITY OF KNOWLEDGFE IN IRAN SAYS IAEA
 - 09/10 20:38 [financialjuice] UN Atomic Watchdog: Losing continuity of knowledge in Iran.
@@ -334,3 +333,7 @@
 - 09/11 02:04 [financialjuice] Anthropic: Spotted nearly 300,000 customer requests that moonshot sent primarily to Anthropic’s Opus AI model
 - 09/11 02:11 [FirstSquawk] US 30-Year Bond Sale: - High Yield Rate: 5.308% (prev 5.216%)- Bid-Cover Ratio: 2.61 (prev 2.39)- Direct Accepted: 18.3% (prev 21.6%)- Indirect Accepted: 79.5% (prev 66.8%)- WI: 5.335%
 - 09/11 02:11 [FirstSquawk] UBER $UBER CEO DARA KHOSROWSHAHI FILES TO BUY 141,000 SHARES AT $70.96 AVERAGE, WORTH ~$10M $UBER
+- 09/11 02:18 [DeItaone] $NVDA - NVIDIA’S HUANG SEES CYBERSECURITY AS AI’S NEXT BIG MARKET Nvidia CEO Jensen Huang says cybersecurity will likely become AI’s next major use case, as AI-generated code accelerates both software development and vulnerabilities. Huang …
+- 09/11 02:24 [financialjuice] LIVE: President Trump Delivers Remarks At National Medal Of Honor Museum In Arlington, TX
+- 09/11 02:25 [DeItaone] *DRUCKENMILLER SAYS US BORROWING COSTS STILL ‘A LITTLE LOW’: FT
+- 09/11 02:27 [DeItaone] OPENAI: LAUNCHES CHATGPT FOR FINANCIAL SERVICES WITH GPT-6 ASTRA REASONING

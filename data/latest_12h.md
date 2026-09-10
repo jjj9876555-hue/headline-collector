@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 02:16 JST／対象: 09/10 14:16 〜 09/11 02:16 JST（時刻はすべて日本時間）
+生成: 2026-09-11 02:31 JST／対象: 09/10 14:31 〜 09/11 02:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 45 | 09/10 16:41 | 09/11 01:56 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 214 | 09/10 14:17 | 09/11 02:11 | 26分（00:31→00:58） |
-| financialjuice | 215 | 09/10 14:17 | 09/11 02:04 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 48 | 09/10 16:41 | 09/11 02:27 | ⚠ 108分（23:45→01:33） |
+| FirstSquawk | 211 | 09/10 14:36 | 09/11 02:11 | 26分（00:31→00:58） |
+| financialjuice | 215 | 09/10 14:38 | 09/11 02:24 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 458 行（統合前 479 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 14:17 [financialjuice] China chipmakers raised prices for AI processors, including Huawei and Cambricon.
-- 09/10 14:17 [FirstSquawk] Finnish industrial output grows 4.5% year on year in July, data shows.
-- 09/10 14:21 [FirstSquawk] Rising crude prices are putting pressure on Asian equities, with oil above $100 adding to inflation concerns.
-- 09/10 14:28 [FirstSquawk] AI-driven data-center expansion is fueling interest in nuclear power, putting renewed upward pressure on uranium prices.
 - 09/10 14:36 [FirstSquawk] TSMC posted record August revenue, with sales surging more than 53% year on year as per CNBC
 - 09/10 14:38 [FirstSquawk] BOJ’s Masu says inflation is moving closer to 2%, while a sharp rise beyond the target is not currently anticipated.
 - 09/10 14:38 [financialjuice] BoJ's Masu: Underlying inflation gradually approaching 2% but don't see it overshooting sharply above that level now.
@@ -482,3 +478,7 @@
 - 09/11 02:04 [financialjuice] Anthropic: Spotted nearly 300,000 customer requests that moonshot sent primarily to Anthropic’s Opus AI model
 - 09/11 02:11 [FirstSquawk] US 30-Year Bond Sale: - High Yield Rate: 5.308% (prev 5.216%)- Bid-Cover Ratio: 2.61 (prev 2.39)- Direct Accepted: 18.3% (prev 21.6%)- Indirect Accepted: 79.5% (prev 66.8%)- WI: 5.335%
 - 09/11 02:11 [FirstSquawk] UBER $UBER CEO DARA KHOSROWSHAHI FILES TO BUY 141,000 SHARES AT $70.96 AVERAGE, WORTH ~$10M $UBER
+- 09/11 02:18 [DeItaone] $NVDA - NVIDIA’S HUANG SEES CYBERSECURITY AS AI’S NEXT BIG MARKET Nvidia CEO Jensen Huang says cybersecurity will likely become AI’s next major use case, as AI-generated code accelerates both software development and vulnerabilities. Huang …
+- 09/11 02:24 [financialjuice] LIVE: President Trump Delivers Remarks At National Medal Of Honor Museum In Arlington, TX
+- 09/11 02:25 [DeItaone] *DRUCKENMILLER SAYS US BORROWING COSTS STILL ‘A LITTLE LOW’: FT
+- 09/11 02:27 [DeItaone] OPENAI: LAUNCHES CHATGPT FOR FINANCIAL SERVICES WITH GPT-6 ASTRA REASONING

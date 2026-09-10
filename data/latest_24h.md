@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 02:16 JST／対象: 09/10 02:16 〜 09/11 02:16 JST（時刻はすべて日本時間）
+生成: 2026-09-11 02:31 JST／対象: 09/10 02:31 〜 09/11 02:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 09/10 02:19 | 09/11 01:56 | ⚠ 619分（06:22→16:41） |
+| DeItaone | 65 | 09/10 03:00 | 09/11 02:27 | ⚠ 619分（06:22→16:41） |
 | FirstSquawk | 378 | 09/10 02:47 | 09/11 02:11 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 339 | 09/10 02:16 | 09/11 02:04 | ⚠ 119分（15:00→17:00） |
+| financialjuice | 335 | 09/10 02:32 | 09/11 02:24 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 760 行（統合前 788 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 756 行（統合前 784 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 02:16 [financialjuice] Apple: A20 Pro chip has seven GPU cores. $AAPL
-- 09/10 02:17 [financialjuice] Apple: A20 chip will have two neural engines with 32 cores total, increasing on-device AI performance $AAPL
-- 09/10 02:19 [DeItaone] APPLE SAYS IPHONE 18 PRO MAX HAS THE LARGEST INCREASE IN BATTERY LIFE EVER ON IPHONE - EVENT
-- 09/10 02:21 [DeItaone] SPAIN’S SPY AGENCY WARNED AHEAD OF CEUTA MIGRANT SURGE Spain’s CNI intelligence agency warned Madrid and Moroccan authorities one day before more than 70,000 migrants crossed into Ceuta, newly declassified documents show. The CNI flagged so…
-- 09/10 02:23 [financialjuice] Apple: iPhone 18 Pro has a 48 MP fusion main camera with variable aperture $AAPL
-- 09/10 02:28 [financialjuice] Apple: Apple reference image standard to prove the authenticity of photos at the time of capture, Reference image not available in the EU or China. $AAPL
-- 09/10 02:30 [DeItaone] APPLE INC.: IPHONE 18 PRO STARTS AT $1,199 - EVENT APPLE IPHONE 18 PRO MAX STARTS AT $1,299 - EVENT
-- 09/10 02:31 [financialjuice] Apple iPhone 18 Pro Max starts at $1,299, iPhone 18 Pro starts at $1,199 $AAPL
 - 09/10 02:32 [financialjuice] Apple announces AirPods 5 $AAPL
 - 09/10 02:35 [financialjuice] Apple: AirPods 5 base model starts at $129 $AAPL
 - 09/10 02:37 [financialjuice] Apple announces Apple Watch Series 12 and Apple Watch Ultra 4. $AAPL
@@ -784,3 +776,7 @@
 - 09/11 02:04 [financialjuice] Anthropic: Spotted nearly 300,000 customer requests that moonshot sent primarily to Anthropic’s Opus AI model
 - 09/11 02:11 [FirstSquawk] US 30-Year Bond Sale: - High Yield Rate: 5.308% (prev 5.216%)- Bid-Cover Ratio: 2.61 (prev 2.39)- Direct Accepted: 18.3% (prev 21.6%)- Indirect Accepted: 79.5% (prev 66.8%)- WI: 5.335%
 - 09/11 02:11 [FirstSquawk] UBER $UBER CEO DARA KHOSROWSHAHI FILES TO BUY 141,000 SHARES AT $70.96 AVERAGE, WORTH ~$10M $UBER
+- 09/11 02:18 [DeItaone] $NVDA - NVIDIA’S HUANG SEES CYBERSECURITY AS AI’S NEXT BIG MARKET Nvidia CEO Jensen Huang says cybersecurity will likely become AI’s next major use case, as AI-generated code accelerates both software development and vulnerabilities. Huang …
+- 09/11 02:24 [financialjuice] LIVE: President Trump Delivers Remarks At National Medal Of Honor Museum In Arlington, TX
+- 09/11 02:25 [DeItaone] *DRUCKENMILLER SAYS US BORROWING COSTS STILL ‘A LITTLE LOW’: FT
+- 09/11 02:27 [DeItaone] OPENAI: LAUNCHES CHATGPT FOR FINANCIAL SERVICES WITH GPT-6 ASTRA REASONING
