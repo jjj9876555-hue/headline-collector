@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 05:54 JST／対象: 09/10 05:54 〜 09/11 05:54 JST（時刻はすべて日本時間）
+生成: 2026-09-11 06:15 JST／対象: 09/10 06:15 〜 09/11 06:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 55 | 09/10 06:08 | 09/11 03:41 | ⚠ 619分（06:22→16:41） |
+| DeItaone | 54 | 09/10 06:15 | 09/11 03:41 | ⚠ 619分（06:22→16:41） |
 | FirstSquawk | 389 | 09/10 07:34 | 09/11 05:38 | ⚠ 49分（08:15→09:05） |
-| financialjuice | 333 | 09/10 06:10 | 09/11 05:24 | ⚠ 119分（15:00→17:00） |
+| financialjuice | 332 | 09/10 06:16 | 09/11 06:09 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 754 行（統合前 784 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 752 行（統合前 782 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 06:08 [DeItaone] MILITARY AIDE ACCIDENTALLY DEPLOYED INFLATIBLE EMERGENCY SLIDE ON AIR FORCE ONE - PERSON FAMILIAR
-- 09/10 06:10 [financialjuice] Explosions heard on Iran's Qeshm Island: Iran state media
-- 09/10 06:11 [financialjuice] Iranian state media: unclear if explosion sound came from sea or Qeshm Island itself
-- 09/10 06:11 [financialjuice] Military aide accidentally deploys inflatable emergency slide on Air Force One: person familiar
-- 09/10 06:14 [financialjuice] Colombia's budget reveals significant imbalance: Fitch says major adjustment effort needed
 - 09/10 06:15 [DeItaone] EXPLOSIONS HEARD ON IRAN’S QESHM ISLAND - IRAN'S STATE MEDIA
 - 09/10 06:16 [financialjuice] Significant extra measures needed to stabilize Colombia's debt: Fitch
 - 09/10 06:16 [financialjuice] Failure to implement consolidation steps with persistent high deficits and a steepening debt/GDP path could increase rating pressure: Fitch
@@ -778,3 +773,6 @@
 - 09/11 05:36 [FirstSquawk] CNN REPORTS THAT 100–200 U.S. MILITARY ADVISERS ARE NOW IN SAUDI ARABIA PROVIDING REAL-TIME INTELLIGENCE, TARGETING AND GEOSPATIAL SUPPORT AGAINST THE HOUTHIS, MARKING A SIGNIFICANT ESCALATION IN U.S. INVOLVEMENT.
 - 09/11 05:36 [FirstSquawk] A JOINT FORCES COMMAND WAS ESTABLISHED AFTER IRAN INCREASED SUPPORT TO THE HOUTHIS, INCLUDING DEPLOYING IRGC OFFICERS TO YEMEN, AS THE HOUTHIS’ CONTROL OF MOKHA RAISES CONCERNS OVER THE BAB-EL-MANDEB STRAIT; U.S. FORCES ARE NOT DIRECTLY PAR…
 - 09/11 05:38 [FirstSquawk] JD VANCE PRIVATELY SOUGHT UNFILTERED ASSESSMENTS FROM U.S. MILITARY COMMANDERS, WHO WARNED THAT THE IRAN WAR WAS DRAINING CRITICAL STOCKPILES OF PATRIOT INTERCEPTORS AND LONG-RANGE MISSILES AND COULD WEAKEN U.S. DETERRENCE AGAINST CHINA, RU…
+- 09/11 06:04 [financialjuice] OpenAI's Thibault Sottiaux: pausing subscriptions to $200 pro plan - X post
+- 09/11 06:07 [financialjuice] Microsoft plans 38 gigawatts of data center capacity to meet demand
+- 09/11 06:09 [financialjuice] Microsoft's data center network will exceed 38 gigawatts capacity in 2032, up from around 12 gigawatts now

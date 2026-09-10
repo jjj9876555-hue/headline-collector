@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 05:54 JST／対象: 09/10 23:54 〜 09/11 05:54 JST（時刻はすべて日本時間）
+生成: 2026-09-11 06:15 JST／対象: 09/11 00:15 〜 09/11 06:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 13 | 09/11 01:33 | 09/11 03:41 | 25分（03:05→03:30） |
-| FirstSquawk | 84 | 09/11 00:00 | 09/11 05:38 | 32分（03:04→03:37） |
-| financialjuice | 79 | 09/11 00:00 | 09/11 05:24 | 20分（03:44→04:04） |
+| FirstSquawk | 78 | 09/11 00:31 | 09/11 05:38 | 32分（03:04→03:37） |
+| financialjuice | 75 | 09/11 00:32 | 09/11 06:09 | 39分（05:24→06:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 170 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 160 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 00:00 [FirstSquawk] EU'S VON DER LEYEN WILL DISCUSS SOCIAL MEDIA PLAN IN NEXT WEEK'S STATE OF UNION SPEECH.
-- 09/11 00:00 [financialjuice] IMF: Global inflation expectations have risen but remain well-anchored over the longer run.
-- 09/11 00:01 [financialjuice] IMF: Global growth remains on track to reach about 3% in 2026, but risks remain high.
-- 09/11 00:01 [financialjuice] IMF: Energy shock from war in the Middle East is not over; global debt pressures are mounting, and the disinflation process has stalled.
-- 09/11 00:01 [financialjuice] IMF: We are advising central bankers to remain focused on price stability mandates; encouraging fiscal authorities to have medium-term consolidation plans.
-- 09/11 00:02 [financialjuice] US to sell $19 bln reopened 10-Year TIPS on September 17th, to settle on September 30th
-- 09/11 00:02 [financialjuice] US Treasury Announces Bill and Bond Auction Sizes US Treasury to sell $92 billion of 3-month bills on September 14, settling September 17 US Treasury to sell $79 billion of 6-month bills on September 14, settling September 17 US Treasury to…
-- 09/11 00:04 [FirstSquawk] IMF REPORTS THAT GLOBAL INFLATION EXPECTATIONS HAVE INCREASED BUT ARE STILL STABLE FOR THE LONG TERM.
-- 09/11 00:04 [FirstSquawk] IMF PREDICTS GLOBAL GROWTH WILL HIT AROUND 3% BY 2026, BUT RAISES CONCERNS ABOUT HIGH RISKS.
-- 09/11 00:04 [FirstSquawk] IMF REPORTS THAT THE ENERGY CRISIS FROM THE MIDDLE EAST CONFLICT CONTINUES; GLOBAL DEBT IS INCREASING, AND DISINFLATION HAS STOPPED.
-- 09/11 00:04 [FirstSquawk] IMF URGES CENTRAL BANKERS TO PRIORITIZE PRICE STABILITY AND ADVOCATES FOR MEDIUM-TERM CONSOLIDATION PLANS FROM FISCAL AUTHORITIES.
-- 09/11 00:14 [financialjuice] ❗ ECB Officials expect more tightening with October in play.
-- 09/11 00:14 [FirstSquawk] ECB OFFICIALS ANTICIPATE FURTHER INTEREST RATE HIKES AS OCTOBER APPROACHES.
 - 09/11 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.55%; GERMANY'S DAX DOWN 0.69%
 - 09/11 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.44%; SPAIN'S IBEX DOWN 0.01%
 - 09/11 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.81 (FORECAST -, PREVIOUS 2.970) $MACRO
@@ -194,3 +181,6 @@
 - 09/11 05:36 [FirstSquawk] CNN REPORTS THAT 100–200 U.S. MILITARY ADVISERS ARE NOW IN SAUDI ARABIA PROVIDING REAL-TIME INTELLIGENCE, TARGETING AND GEOSPATIAL SUPPORT AGAINST THE HOUTHIS, MARKING A SIGNIFICANT ESCALATION IN U.S. INVOLVEMENT.
 - 09/11 05:36 [FirstSquawk] A JOINT FORCES COMMAND WAS ESTABLISHED AFTER IRAN INCREASED SUPPORT TO THE HOUTHIS, INCLUDING DEPLOYING IRGC OFFICERS TO YEMEN, AS THE HOUTHIS’ CONTROL OF MOKHA RAISES CONCERNS OVER THE BAB-EL-MANDEB STRAIT; U.S. FORCES ARE NOT DIRECTLY PAR…
 - 09/11 05:38 [FirstSquawk] JD VANCE PRIVATELY SOUGHT UNFILTERED ASSESSMENTS FROM U.S. MILITARY COMMANDERS, WHO WARNED THAT THE IRAN WAR WAS DRAINING CRITICAL STOCKPILES OF PATRIOT INTERCEPTORS AND LONG-RANGE MISSILES AND COULD WEAKEN U.S. DETERRENCE AGAINST CHINA, RU…
+- 09/11 06:04 [financialjuice] OpenAI's Thibault Sottiaux: pausing subscriptions to $200 pro plan - X post
+- 09/11 06:07 [financialjuice] Microsoft plans 38 gigawatts of data center capacity to meet demand
+- 09/11 06:09 [financialjuice] Microsoft's data center network will exceed 38 gigawatts capacity in 2032, up from around 12 gigawatts now
