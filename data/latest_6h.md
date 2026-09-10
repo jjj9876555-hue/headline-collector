@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 23:17 JST／対象: 09/10 17:17 〜 09/10 23:17 JST（時刻はすべて日本時間）
+生成: 2026-09-10 23:34 JST／対象: 09/10 17:34 〜 09/10 23:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 33 | 09/10 17:27 | 09/10 23:16 | 35分（17:30→18:05） |
-| FirstSquawk | 111 | 09/10 17:19 | 09/10 23:16 | 18分（20:15→20:33） |
-| financialjuice | 148 | 09/10 17:53 | 09/10 23:16 | ⚠ 46分（18:42→19:28） |
+| DeItaone | 33 | 09/10 18:05 | 09/10 23:25 | 29分（18:21→18:50） |
+| FirstSquawk | 113 | 09/10 17:35 | 09/10 23:30 | 18分（20:15→20:33） |
+| financialjuice | 157 | 09/10 17:53 | 09/10 23:31 | ⚠ 46分（18:42→19:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 277 行（統合前 297 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 287 行（統合前 308 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 17:19 [FirstSquawk] UBS PULLS PLUG ON FUND SALES ON A WEALTH PLATFORM IN CHINA AMID STIFF COMPETITION – SCMP
-- 09/10 17:25 [FirstSquawk] SPOKESPERSON FOR IRAQI ARMED FORCES STATES THAT SEPTEMBER 30 IS THE LAST DATE FOR THE INTERNATIONAL COALITION'S OPERATIONS IN IRAQ.
-- 09/10 17:27 [DeItaone] PUTIN AIDE: EUROPE DOES NOT WANT UKRAINE PEACE Putin aide Nikolay Patrushev claimed Western Europe is not interested in peace in Ukraine or encouraging Kyiv to negotiate. He said the U.S. appears more interested in negotiations, expressing …
-- 09/10 17:30 [DeItaone] $META - JPMORGAN TURNS BULLISH ON META’S AI POTENTIAL JPMorgan upgraded Meta to Overweight and raised its price target to $820 from $640, implying roughly 24% upside. The bank sees significant new revenue opportunities from AI agents, subsc…
-- 09/10 17:32 [FirstSquawk] VIETNAM WILL START TRIAL RUNS AT LONG THANH INTERNATIONAL AIRPORT, BUT AIRLINES ARE HESITANT TO MOVE FLIGHTS DUE TO CONCERNS ABOUT FEES AND CONNECTIVITY.
 - 09/10 17:35 [FirstSquawk] VW ESTIMATES THE COST OF JOB CUTS AND PLANT CLOSURES AT 16B EUROS - SPIEGEL
 - 09/10 17:36 [FirstSquawk] KIM JONG UN GAVE PUBLIC PRAISE TO NORTH KOREAN SOLDIERS INVOLVED IN "OVERSEAS MILITARY OPERATIONS," MAKING PYONGYANG’S ROLE IN RUSSIA’S WAR ON UKRAINE MORE NORMALIZED.
 - 09/10 17:38 [FirstSquawk] COINBASE EXPECTS STABLECOIN PAYMENTS TO BECOME A SIGNIFICANT REVENUE BOOST.
@@ -301,3 +296,18 @@
 - 09/10 23:16 [FirstSquawk] TRADERS FULLY PRICE THREE MORE ECB RATE HIKES BY MID-2027
 - 09/10 23:16 [financialjuice] ❗ Traders fully price in three more ECB rate hikes by mid-2027.
 - 09/10 23:16 [DeItaone] *OPENAI SEEKS TO ENSURE MODELS CAN'T HARM GRID SECURITY:POLITICO
+- 09/10 23:17 [financialjuice] Crypto Fear and Greed Index: 69/100 = Greed
+- 09/10 23:18 [financialjuice] Fear & Greed Index: 36/100 - Fear
+- 09/10 23:20 [FirstSquawk] US TREASURY TWO-YEAR YIELD INCREASES BY 10 BASIS POINTS TO 4.53%.
+- 09/10 23:21 [DeItaone] *TREASURY TWO-YEAR YIELD RISES 10 BASIS POINTS ON DAY TO 4.53%
+- 09/10 23:25 [financialjuice] ❗ Iran-backed Yemen's Houthis spokesperson: Freedom of navigation and international trade in the Red Sea and Bab el-Mandeb Strait remain safe and uninterrupted.
+- 09/10 23:25 [FirstSquawk/DeItaone] IRAN-BACKED YEMEN'S HOUTHIS SPOKESPERSON SAYS FREEDOM OF NAVIGATION AND INTERNATIONAL TRADE IN RED SEA AND BAB EL-MANDEB STRAIT REMAIN SAFE AND UNINTERRUPTED
+- 09/10 23:25 [FirstSquawk] IRAN-BACKED YEMEN'S HOUTHIS SPOKESPERSON SAYS CURRENT OPERATIONS ARE LIMITED TO SPECIFIED TARGETS AND ARE DEFENSIVE
+- 09/10 23:26 [financialjuice] Iran-backed Yemen's Houthis Spokesperson: Current operations are limited to specified targets and are defensive.
+- 09/10 23:26 [FirstSquawk] YEMEN'S HOUTHIS SPOKESPERSON SAYS OPERATIONS WILL STOP WHEN ATTACKS ON YEMEN END AND BLOCKADE IS LIFTED
+- 09/10 23:26 [financialjuice] Yemen's Houthis Spokesperson: Operations will stop when attacks on Yemen end and the blockade is lifted.
+- 09/10 23:28 [financialjuice] Head of Yemen's Supreme Political Council announces stability in Taiz coastal areas - IRIB.
+- 09/10 23:29 [financialjuice] Head of Yemen's Supreme Political Council: Saudi-backed forces will be granted amnesty if they lay down their arms - IRIB News
+- 09/10 23:30 [FirstSquawk] U.S NATURAL GAS STORAGE ACTUAL: 40 VS 30 PREVIOUSL; EST 32
+- 09/10 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 40B (FORECAST 34B, PREVIOUS 30B) $MACRO
+- 09/10 23:31 [financialjuice] Weekly EIA Natural Gas Change Storage Report -

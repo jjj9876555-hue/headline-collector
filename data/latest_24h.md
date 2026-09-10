@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 23:17 JST／対象: 09/09 23:17 〜 09/10 23:17 JST（時刻はすべて日本時間）
+生成: 2026-09-10 23:34 JST／対象: 09/09 23:34 〜 09/10 23:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 67 | 09/10 01:05 | 09/10 23:16 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 387 | 09/09 23:23 | 09/10 23:16 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 337 | 09/09 23:17 | 09/10 23:16 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 69 | 09/10 01:05 | 09/10 23:25 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 389 | 09/09 23:36 | 09/10 23:30 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 338 | 09/09 23:35 | 09/10 23:31 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 770 行（統合前 798 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 774 行（統合前 803 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 23:17 [financialjuice] Crypto Fear & Greed Index: 66/100 - Greed
-- 09/09 23:17 [financialjuice] Fear and Greed Index: 42/100 = Fear
-- 09/09 23:23 [FirstSquawk] EUROPEAN GAS PRICES HAVE INCREASED ABOVE €80 PER MWH FOR THE FIRST TIME IN 2023.
-- 09/09 23:23 [FirstSquawk] WELLS FARGO CEO CHARLES SCHARF SAYS SOME ASPECTS OF THE CLARITY BILL COULD HEIGHTEN SYSTEM SAFETY RISKS.
-- 09/09 23:26 [financialjuice] Saudi: Alert issued for potential danger in Khamis Mushait.
-- 09/09 23:26 [financialjuice] ❗ At Saudi Arabia's request, Pakistan is considering joining the conflict and attacking the Houthi rebels in Yemen - Israeli Hayom News
-- 09/09 23:27 [financialjuice] Saudi civil defense issues emergency alert for Abha - post on X.
-- 09/09 23:27 [FirstSquawk] KAZAKHSTAN SAYS CPC TERMINAL RESUMES OIL LOADINGS - IFX
-- 09/09 23:28 [financialjuice] Fire broke out at Novorossiysk fuel oil terminal after overnight drone attack - two sources.
-- 09/09 23:31 [financialjuice] Pakistan considers hitting Yemen's Houthis under Mecca pact upon Saudi request - Turkiye News
-- 09/09 23:32 [financialjuice] Pakistan considers hitting Yemen's Houthis under Mecca pact upon Saudi request - Turkiye Today
 - 09/09 23:35 [financialjuice] Saudi Civil Defence: Danger has passed in Abha - Post on X.
 - 09/09 23:35 [financialjuice] Saudis say danger passes in Khamis Mushait after alert.
 - 09/09 23:36 [FirstSquawk] SAUDI CIVIL DEFENCE ANNOUNCES THAT THE DANGER IN ABHA HAS ENDED.
@@ -794,3 +783,18 @@
 - 09/10 23:16 [FirstSquawk] TRADERS FULLY PRICE THREE MORE ECB RATE HIKES BY MID-2027
 - 09/10 23:16 [financialjuice] ❗ Traders fully price in three more ECB rate hikes by mid-2027.
 - 09/10 23:16 [DeItaone] *OPENAI SEEKS TO ENSURE MODELS CAN'T HARM GRID SECURITY:POLITICO
+- 09/10 23:17 [financialjuice] Crypto Fear and Greed Index: 69/100 = Greed
+- 09/10 23:18 [financialjuice] Fear & Greed Index: 36/100 - Fear
+- 09/10 23:20 [FirstSquawk] US TREASURY TWO-YEAR YIELD INCREASES BY 10 BASIS POINTS TO 4.53%.
+- 09/10 23:21 [DeItaone] *TREASURY TWO-YEAR YIELD RISES 10 BASIS POINTS ON DAY TO 4.53%
+- 09/10 23:25 [financialjuice] ❗ Iran-backed Yemen's Houthis spokesperson: Freedom of navigation and international trade in the Red Sea and Bab el-Mandeb Strait remain safe and uninterrupted.
+- 09/10 23:25 [FirstSquawk/DeItaone] IRAN-BACKED YEMEN'S HOUTHIS SPOKESPERSON SAYS FREEDOM OF NAVIGATION AND INTERNATIONAL TRADE IN RED SEA AND BAB EL-MANDEB STRAIT REMAIN SAFE AND UNINTERRUPTED
+- 09/10 23:25 [FirstSquawk] IRAN-BACKED YEMEN'S HOUTHIS SPOKESPERSON SAYS CURRENT OPERATIONS ARE LIMITED TO SPECIFIED TARGETS AND ARE DEFENSIVE
+- 09/10 23:26 [financialjuice] Iran-backed Yemen's Houthis Spokesperson: Current operations are limited to specified targets and are defensive.
+- 09/10 23:26 [FirstSquawk] YEMEN'S HOUTHIS SPOKESPERSON SAYS OPERATIONS WILL STOP WHEN ATTACKS ON YEMEN END AND BLOCKADE IS LIFTED
+- 09/10 23:26 [financialjuice] Yemen's Houthis Spokesperson: Operations will stop when attacks on Yemen end and the blockade is lifted.
+- 09/10 23:28 [financialjuice] Head of Yemen's Supreme Political Council announces stability in Taiz coastal areas - IRIB.
+- 09/10 23:29 [financialjuice] Head of Yemen's Supreme Political Council: Saudi-backed forces will be granted amnesty if they lay down their arms - IRIB News
+- 09/10 23:30 [FirstSquawk] U.S NATURAL GAS STORAGE ACTUAL: 40 VS 30 PREVIOUSL; EST 32
+- 09/10 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 40B (FORECAST 34B, PREVIOUS 30B) $MACRO
+- 09/10 23:31 [financialjuice] Weekly EIA Natural Gas Change Storage Report -

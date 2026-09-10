@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 23:17 JST／対象: 09/10 11:17 〜 09/10 23:17 JST（時刻はすべて日本時間）
+生成: 2026-09-10 23:34 JST／対象: 09/10 11:34 〜 09/10 23:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 09/10 16:41 | 09/10 23:16 | 35分（17:30→18:05） |
-| FirstSquawk | 226 | 09/10 11:17 | 09/10 23:16 | 18分（20:15→20:33） |
-| financialjuice | 181 | 09/10 12:06 | 09/10 23:16 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 38 | 09/10 16:41 | 09/10 23:25 | 35分（17:30→18:05） |
+| FirstSquawk | 228 | 09/10 11:35 | 09/10 23:30 | 18分（20:15→20:33） |
+| financialjuice | 190 | 09/10 12:06 | 09/10 23:31 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 428 行（統合前 448 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 440 行（統合前 461 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 11:17 [FirstSquawk] Mastercard launches Wallet Pay to support the global expansion of digital wallet transactions.
-- 09/10 11:21 [FirstSquawk] U.S. regulators grant accelerated approval to Bayer’s sevabertinib as a first-line targeted therapy for HER2-mutated NSCLC.
-- 09/10 11:29 [FirstSquawk] South Korea’s stock market starts lower as higher oil prices and escalating geopolitical tensions pressure risk sentiment.
 - 09/10 11:35 [FirstSquawk] Trump unveils a proposed $5,000 “Trump dividend” for U.S. adults, conditional on a Republican victory in the House and Senate As Per FT
 - 09/10 11:41 [FirstSquawk] South Korea’s economic recovery is becoming increasingly evident, the finance minister says.
 - 09/10 11:50 [FirstSquawk] China’s local surtax reform strengthens tax adjustment capacity but delivers limited fiscal relief, Fitch Ratings says.
@@ -452,3 +449,18 @@
 - 09/10 23:16 [FirstSquawk] TRADERS FULLY PRICE THREE MORE ECB RATE HIKES BY MID-2027
 - 09/10 23:16 [financialjuice] ❗ Traders fully price in three more ECB rate hikes by mid-2027.
 - 09/10 23:16 [DeItaone] *OPENAI SEEKS TO ENSURE MODELS CAN'T HARM GRID SECURITY:POLITICO
+- 09/10 23:17 [financialjuice] Crypto Fear and Greed Index: 69/100 = Greed
+- 09/10 23:18 [financialjuice] Fear & Greed Index: 36/100 - Fear
+- 09/10 23:20 [FirstSquawk] US TREASURY TWO-YEAR YIELD INCREASES BY 10 BASIS POINTS TO 4.53%.
+- 09/10 23:21 [DeItaone] *TREASURY TWO-YEAR YIELD RISES 10 BASIS POINTS ON DAY TO 4.53%
+- 09/10 23:25 [financialjuice] ❗ Iran-backed Yemen's Houthis spokesperson: Freedom of navigation and international trade in the Red Sea and Bab el-Mandeb Strait remain safe and uninterrupted.
+- 09/10 23:25 [FirstSquawk/DeItaone] IRAN-BACKED YEMEN'S HOUTHIS SPOKESPERSON SAYS FREEDOM OF NAVIGATION AND INTERNATIONAL TRADE IN RED SEA AND BAB EL-MANDEB STRAIT REMAIN SAFE AND UNINTERRUPTED
+- 09/10 23:25 [FirstSquawk] IRAN-BACKED YEMEN'S HOUTHIS SPOKESPERSON SAYS CURRENT OPERATIONS ARE LIMITED TO SPECIFIED TARGETS AND ARE DEFENSIVE
+- 09/10 23:26 [financialjuice] Iran-backed Yemen's Houthis Spokesperson: Current operations are limited to specified targets and are defensive.
+- 09/10 23:26 [FirstSquawk] YEMEN'S HOUTHIS SPOKESPERSON SAYS OPERATIONS WILL STOP WHEN ATTACKS ON YEMEN END AND BLOCKADE IS LIFTED
+- 09/10 23:26 [financialjuice] Yemen's Houthis Spokesperson: Operations will stop when attacks on Yemen end and the blockade is lifted.
+- 09/10 23:28 [financialjuice] Head of Yemen's Supreme Political Council announces stability in Taiz coastal areas - IRIB.
+- 09/10 23:29 [financialjuice] Head of Yemen's Supreme Political Council: Saudi-backed forces will be granted amnesty if they lay down their arms - IRIB News
+- 09/10 23:30 [FirstSquawk] U.S NATURAL GAS STORAGE ACTUAL: 40 VS 30 PREVIOUSL; EST 32
+- 09/10 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 40B (FORECAST 34B, PREVIOUS 30B) $MACRO
+- 09/10 23:31 [financialjuice] Weekly EIA Natural Gas Change Storage Report -
