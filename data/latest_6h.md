@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 21:31 JST／対象: 09/10 15:31 〜 09/10 21:31 JST（時刻はすべて日本時間）
+生成: 2026-09-10 21:51 JST／対象: 09/10 15:51 〜 09/10 21:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/10 16:41 | 09/10 21:30 | 35分（17:30→18:05） |
-| FirstSquawk | 97 | 09/10 15:32 | 09/10 21:31 | 18分（20:15→20:33） |
-| financialjuice | 64 | 09/10 17:00 | 09/10 21:30 | ⚠ 48分（17:04→17:53） |
+| DeItaone | 29 | 09/10 16:41 | 09/10 21:41 | 35分（17:30→18:05） |
+| FirstSquawk | 103 | 09/10 15:52 | 09/10 21:49 | 18分（20:15→20:33） |
+| financialjuice | 72 | 09/10 17:00 | 09/10 21:46 | ⚠ 48分（17:04→17:53） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 182 行（統合前 189 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 192 行（統合前 206 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 15:32 [FirstSquawk] Volvo Group launches plans for an Energy Park as it expands its operations in Mariestad.
-- 09/10 15:32 [FirstSquawk] The initial Energy Park setup at Volvo is projected to provide about 70 MW of power and 260 MWh of storage.
-- 09/10 15:32 [FirstSquawk] Volvo expects the Energy Park to be up and running by 2027.
-- 09/10 15:38 [FirstSquawk] Iran’s growing ability to strike ships may have benefited from Russian or Chinese technology, according to WSJ sources.
-- 09/10 15:44 [FirstSquawk] Nissan plans to consolidate Serena and Elgrand manufacturing at the Tochigi plant, shifting production from Kyushu.
-- 09/10 15:45 [FirstSquawk] South Korea’s top diplomat says a meeting with U.S. Secretary of State Rubio is planned for September.
 - 09/10 15:52 [FirstSquawk] Ukraine targeted a Russian port in Dagestan, according to Zelenskyy.
 - 09/10 15:55 [FirstSquawk] UAE and China move to strengthen business ties with a new Business Advisory Committee.
 - 09/10 15:58 [FirstSquawk] Ministry of Investment will facilitate the committee’s integration with the broader high-level committee structure.
@@ -206,3 +200,19 @@
 - 09/10 21:30 [DeItaone] *US AUG. PRODUCER PRICES RISE 0.4% M/M; EST. +0.4% *US AUG. PRODUCER PRICES RISE 5.4% Y/Y; EST. +5.3% *US AUG. CORE PPI RISES 0.2% M/M; EST. +0.3% *US AUG. CORE PPI RISES 4.6% Y/Y; EST. +4.6%
 - 09/10 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 206K VS 206K PREVIOUS; EST 205K
 - 09/10 21:31 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1774K VS 1779K PREVIOUS; EST 1780K
+- 09/10 21:32 [FirstSquawk] U.S. CRUDE FUTURES EXTENDED GAINS TO HIT $100/BBL FOR THE FIRST TIME SINCE MAY 21 ON INTENSIFYING MIDDLE EAST CONFLICT
+- 09/10 21:33 [financialjuice] US PPI August 2026 Report
+- 09/10 21:34 [FirstSquawk] BRENT OIL FUTURES RISE ABOVE $105 A BARREL
+- 09/10 21:34 [FirstSquawk/financialjuice] US SHORT-TERM INTEREST-RATE FUTURES FALL SLIGHTLY AFTER ECONOMIC DATA, AS TRADERS EDGE UP BETS ON FED RATE HIKE
+- 09/10 21:35 [FirstSquawk] INDIA TRADE MINISTER: INDIA, RUSSIA TO FAST TRACK TALKS FOR CONCLUDING BILATERAL INVESTMENT TREATY
+- 09/10 21:36 [financialjuice/FirstSquawk] ❗ Traders fully price four BoE rate hikes, first time since March.
+- 09/10 21:37 [financialjuice/FirstSquawk] ❗ Traders fully price in Fed rate hike in October after PPI data
+- 09/10 21:38 [financialjuice] WATCH LIVE: ECB Press Conference at 08:45 ET
+- 09/10 21:39 [financialjuice] ❗ Traders price in 75 bps of additional ECB hikes by October 2027
+- 09/10 21:40 [FirstSquawk] TRADERS PRICE 75BPS OF ADDITIONAL ECB HIKES BY OCT 2027
+- 09/10 21:41 [financialjuice/FirstSquawk] ❗ Money markets price in ECB depo rate at 3.22% in September 2027 from 3.01% before ECB statement
+- 09/10 21:41 [FirstSquawk/DeItaone] US 30-YEAR YIELD RISES TO 5.34%, HIGHEST SINCE JUNE 2007
+- 09/10 21:41 [FirstSquawk] SPOT SILVER EXTENDS LOSSES, LAST DOWN NEARLY 5% AT $63.94/OZ
+- 09/10 21:44 [FirstSquawk] TRADERS FULLY PRICE 4 BOE RATE HIKES, FIRST SINCE MARCH
+- 09/10 21:46 [financialjuice] ❗ Money markets price in the ECB deposit rate at 2.80% in December, up from 2.74% before the ECB statement.
+- 09/10 21:49 [FirstSquawk] MONEY MARKETS PRICE IN ECB DEPO RATE AT 2.80% IN DECEMBER FROM 2.74% BEFORE ECB STATEMENT

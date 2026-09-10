@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 21:31 JST／対象: 09/09 21:31 〜 09/10 21:31 JST（時刻はすべて日本時間）
+生成: 2026-09-10 21:51 JST／対象: 09/09 21:51 〜 09/10 21:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 63 | 09/09 22:13 | 09/10 21:30 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 357 | 09/09 21:35 | 09/10 21:31 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 273 | 09/09 21:55 | 09/10 21:30 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 64 | 09/09 22:13 | 09/10 21:41 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 365 | 09/09 21:54 | 09/10 21:49 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 281 | 09/09 21:55 | 09/10 21:46 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 679 行（統合前 695 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 691 行（統合前 714 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 21:35 [FirstSquawk] US 10-YEAR TREASURY YIELDS RISE TO 4.8184%, HIGHEST SINCE NOVEMBER 2023
-- 09/09 21:40 [FirstSquawk] GOLDMAN SACHS CEO: U.S. NEEDS STRONGER GROWTH TO KEEP PACE WITH RISING DEBT Goldman Sachs CEO David Solomon says the U.S. needs consistently higher economic growth to sustain its current levels of government spending and debt. He argues tha…
-- 09/09 21:46 [FirstSquawk] SINGAPORE REFINER ASTER IS SOURCING CRUDE OIL FROM LATIN AMERICA AND WEST AFRICA TO SUBSTITUTE MIDDLE EASTERN SUPPLIES.
-- 09/09 21:49 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: RUSSIA TRIES TO INTIMIDATE AND DESTABILIZE OUR SOCIETY AND TAKEN MORE AND MORE RISKS IN DOING SO
 - 09/09 21:54 [FirstSquawk] DBS DISMISSES S$1.3B LAWSUIT RELATED TO 1MDB BY LIQUIDATORS.
 - 09/09 21:55 [financialjuice] US REDBOOK YOY ACTUAL 8.3% (FORECAST -, PREVIOUS 9.6%) $MACRO
 - 09/09 22:00 [financialjuice] Effective Fed funds rate 3.63% September 8th vs 3.63% September 4th.
@@ -703,3 +699,19 @@
 - 09/10 21:30 [DeItaone] *US AUG. PRODUCER PRICES RISE 0.4% M/M; EST. +0.4% *US AUG. PRODUCER PRICES RISE 5.4% Y/Y; EST. +5.3% *US AUG. CORE PPI RISES 0.2% M/M; EST. +0.3% *US AUG. CORE PPI RISES 4.6% Y/Y; EST. +4.6%
 - 09/10 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 206K VS 206K PREVIOUS; EST 205K
 - 09/10 21:31 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1774K VS 1779K PREVIOUS; EST 1780K
+- 09/10 21:32 [FirstSquawk] U.S. CRUDE FUTURES EXTENDED GAINS TO HIT $100/BBL FOR THE FIRST TIME SINCE MAY 21 ON INTENSIFYING MIDDLE EAST CONFLICT
+- 09/10 21:33 [financialjuice] US PPI August 2026 Report
+- 09/10 21:34 [FirstSquawk] BRENT OIL FUTURES RISE ABOVE $105 A BARREL
+- 09/10 21:34 [FirstSquawk/financialjuice] US SHORT-TERM INTEREST-RATE FUTURES FALL SLIGHTLY AFTER ECONOMIC DATA, AS TRADERS EDGE UP BETS ON FED RATE HIKE
+- 09/10 21:35 [FirstSquawk] INDIA TRADE MINISTER: INDIA, RUSSIA TO FAST TRACK TALKS FOR CONCLUDING BILATERAL INVESTMENT TREATY
+- 09/10 21:36 [financialjuice/FirstSquawk] ❗ Traders fully price four BoE rate hikes, first time since March.
+- 09/10 21:37 [financialjuice/FirstSquawk] ❗ Traders fully price in Fed rate hike in October after PPI data
+- 09/10 21:38 [financialjuice] WATCH LIVE: ECB Press Conference at 08:45 ET
+- 09/10 21:39 [financialjuice] ❗ Traders price in 75 bps of additional ECB hikes by October 2027
+- 09/10 21:40 [FirstSquawk] TRADERS PRICE 75BPS OF ADDITIONAL ECB HIKES BY OCT 2027
+- 09/10 21:41 [financialjuice/FirstSquawk] ❗ Money markets price in ECB depo rate at 3.22% in September 2027 from 3.01% before ECB statement
+- 09/10 21:41 [FirstSquawk/DeItaone] US 30-YEAR YIELD RISES TO 5.34%, HIGHEST SINCE JUNE 2007
+- 09/10 21:41 [FirstSquawk] SPOT SILVER EXTENDS LOSSES, LAST DOWN NEARLY 5% AT $63.94/OZ
+- 09/10 21:44 [FirstSquawk] TRADERS FULLY PRICE 4 BOE RATE HIKES, FIRST SINCE MARCH
+- 09/10 21:46 [financialjuice] ❗ Money markets price in the ECB deposit rate at 2.80% in December, up from 2.74% before the ECB statement.
+- 09/10 21:49 [FirstSquawk] MONEY MARKETS PRICE IN ECB DEPO RATE AT 2.80% IN DECEMBER FROM 2.74% BEFORE ECB STATEMENT
