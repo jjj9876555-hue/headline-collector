@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 08:14 JST／対象: 09/10 08:14 〜 09/11 08:14 JST（時刻はすべて日本時間）
+生成: 2026-09-11 08:30 JST／対象: 09/10 08:30 〜 09/11 08:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/10 16:41 | 09/11 07:31 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 387 | 09/10 08:15 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
+| FirstSquawk | 386 | 09/10 09:05 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
 | financialjuice | 316 | 09/10 08:31 | 09/11 08:01 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 735 行（統合前 764 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 734 行（統合前 763 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 08:15 [FirstSquawk] JAPAN SURVEY SHOWS NEARLY ONE-THIRD OF COMPANIES PREFER THE YEN TO TRADE AT 150-159.99 PER DOLLAR, WHILE ABOUT A QUARTER FAVOR THE 140-149.99 RANGE. MORE THAN TWO-THIRDS OF JAPANESE FIRMS BACK PM SANAE TAKAICHI’S ECONOMIC POLICIES, WITH 46%…
 - 09/10 08:31 [financialjuice] OpenAI: pushing for compulsory national AI safety regulations
 - 09/10 08:32 [financialjuice] OpenAI: backing four California bills
 - 09/10 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL 690.0B (FORECAST -, PREVIOUS 35.8B ,REVISION 35.9B) $MACRO

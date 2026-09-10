@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 08:14 JST／対象: 09/10 20:14 〜 09/11 08:14 JST（時刻はすべて日本時間）
+生成: 2026-09-11 08:30 JST／対象: 09/10 20:30 〜 09/11 08:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 09/10 20:28 | 09/11 07:31 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 173 | 09/10 20:15 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
+| DeItaone | 37 | 09/10 20:46 | 09/11 07:31 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 172 | 09/10 20:33 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
 | financialjuice | 234 | 09/10 20:38 | 09/11 08:01 | 39分（05:24→06:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 428 行（統合前 451 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 426 行（統合前 449 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 20:15 [FirstSquawk] KREMLIN: RUSSIA WILL DISCUSS TRADE SETTLEMENTS IN DIGITAL CURRENCIES WITH BRICS+ PARTNERS AT SUMMIT IN INDIA
-- 09/10 20:28 [DeItaone] $SPCX - UK DEEPENS SPACEX RELIANCE WITH $40 MILLION SATELLITE SPEND Britain has spent nearly $40 million on SpaceX satellite services, becoming the first country outside the U.S. to publicly acknowledge adopting Starshield. The UK military …
 - 09/10 20:33 [FirstSquawk] KREMLIN: RUSSIA WILL CONTINUE TO DESTROY VESSELS TRANSPORTING AMMUNITION FOR UKRAINE IN BLACK SEA
 - 09/10 20:38 [FirstSquawk] UN ATOMIC WATCHDOG SAYS LOSING CONTINUITY OF KNOWLEDGFE IN IRAN SAYS IAEA
 - 09/10 20:38 [financialjuice] UN Atomic Watchdog: Losing continuity of knowledge in Iran.

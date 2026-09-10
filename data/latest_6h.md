@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 08:14 JST／対象: 09/11 02:14 〜 09/11 08:14 JST（時刻はすべて日本時間）
+生成: 2026-09-11 08:30 JST／対象: 09/11 02:30 〜 09/11 08:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/11 02:18 | 09/11 07:31 | ⚠ 175分（03:41→06:36） |
+| DeItaone | 6 | 09/11 02:44 | 09/11 07:31 | ⚠ 175分（03:41→06:36） |
 | FirstSquawk | 66 | 09/11 02:32 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
-| financialjuice | 48 | 09/11 02:24 | 09/11 08:01 | 39分（05:24→06:04） |
+| financialjuice | 47 | 09/11 02:42 | 09/11 08:01 | 39分（05:24→06:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 117 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 02:18 [DeItaone] $NVDA - NVIDIA’S HUANG SEES CYBERSECURITY AS AI’S NEXT BIG MARKET Nvidia CEO Jensen Huang says cybersecurity will likely become AI’s next major use case, as AI-generated code accelerates both software development and vulnerabilities. Huang …
-- 09/11 02:24 [financialjuice] LIVE: President Trump Delivers Remarks At National Medal Of Honor Museum In Arlington, TX
-- 09/11 02:25 [DeItaone] *DRUCKENMILLER SAYS US BORROWING COSTS STILL ‘A LITTLE LOW’: FT
-- 09/11 02:27 [DeItaone] OPENAI: LAUNCHES CHATGPT FOR FINANCIAL SERVICES WITH GPT-6 ASTRA REASONING
 - 09/11 02:32 [FirstSquawk] OPENAI HAS LAUNCHED CHATGPT FOR FINANCIAL SERVICES WITH GPT-6 ASTRA REASONING, DEVELOPED THROUGH A PARTNERSHIP WITH MORGAN STANLEY AND EVERCORE.
 - 09/11 02:32 [FirstSquawk] OPENAI SAYS IT IS WORKING WITH FACTSET, S&P GLOBAL, PREQIN AND DATASITE ON SHARED SIGN-IN AND ENTITLEMENT INTEGRATIONS FOR CHATGPT FOR FINANCIAL SERVICES.
 - 09/11 02:35 [FirstSquawk] CANADA HAS STRUCK A C$350 MLN DEAL WITH UKRAINE TO PROVIDE IT WITH AIR DEFENSE INTERCEPTORS, PRIME MINISTER CARNEY SAYS, ADDING THAT CANADA AIMS TO BE ABLE TO PRODUCE MILLIONS OF DRONES WITHIN THE NEXT TWO YEARS AND WILL SEND A THIRD OF THO…
