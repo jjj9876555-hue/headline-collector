@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 06:31 JST／対象: 09/11 00:31 〜 09/11 06:31 JST（時刻はすべて日本時間）
+生成: 2026-09-11 06:44 JST／対象: 09/11 00:44 〜 09/11 06:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/11 01:33 | 09/11 03:41 | 25分（03:05→03:30） |
-| FirstSquawk | 80 | 09/11 00:31 | 09/11 06:26 | ⚠ 48分（05:38→06:26） |
-| financialjuice | 75 | 09/11 00:32 | 09/11 06:09 | 39分（05:24→06:04） |
+| DeItaone | 14 | 09/11 01:33 | 09/11 06:36 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 78 | 09/11 00:58 | 09/11 06:26 | ⚠ 48分（05:38→06:26） |
+| financialjuice | 74 | 09/11 00:52 | 09/11 06:41 | 39分（05:24→06:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 160 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.55%; GERMANY'S DAX DOWN 0.69%
-- 09/11 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.44%; SPAIN'S IBEX DOWN 0.01%
-- 09/11 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.81 (FORECAST -, PREVIOUS 2.970) $MACRO
-- 09/11 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.775% (FORECAST -, PREVIOUS 3.700%) $MACRO
-- 09/11 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.775% Bid-to-cover 2.91 Sells $90 bln Awards 34.21% of bids at high
 - 09/11 00:52 [financialjuice] The Trump Administration partners with OpenAI to use AI tools - Fox Business
 - 09/11 00:58 [FirstSquawk] UAE PLANS TO INVEST €40 BILLION IN GERMANY.
 - 09/11 01:00 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 1.269M (FORECAST -1.275M, PREVIOUS -1.173M) $MACRO
@@ -186,3 +181,6 @@
 - 09/11 06:09 [financialjuice] Microsoft's data center network will exceed 38 gigawatts capacity in 2032, up from around 12 gigawatts now
 - 09/11 06:26 [FirstSquawk] ORACLE CFO EXPECTS AROUND 50% OF THE COMPANY’S $664 BILLION RPO TO CONVERT INTO REVENUE OVER THE NEXT 36 MONTHS, WITH NEWLY BOOKED REVENUE BACKLOG NOT EXPECTED TO IMPACT REVENUE OR CAPEX UNTIL FY2028 OR LATER.
 - 09/11 06:26 [FirstSquawk] ORACLE MAINTAINS ITS FULL-YEAR CAPEX FORECAST AT $90-$95 BILLION, WITH SPENDING EXPECTED TO BE UNEVEN THROUGHOUT THE YEAR.
+- 09/11 06:36 [DeItaone] *BESSENT: GOING TO SANCTION A LARGE BANK ON MONDAY
+- 09/11 06:40 [financialjuice] Pentagon in talks to enter AI infrastructure funding with $5 billion loan - WSJ
+- 09/11 06:41 [financialjuice] Pentagon in talks to provide about $5 billion loan to Al cloud-computing startup FluidStack to strengthen US data-center supply chain - WSJ

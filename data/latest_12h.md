@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 06:31 JST／対象: 09/10 18:31 〜 09/11 06:31 JST（時刻はすべて日本時間）
+生成: 2026-09-11 06:44 JST／対象: 09/10 18:44 〜 09/11 06:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 09/10 18:50 | 09/11 03:41 | ⚠ 108分（23:45→01:33） |
-| FirstSquawk | 187 | 09/10 18:38 | 09/11 06:26 | ⚠ 48分（05:38→06:26） |
-| financialjuice | 236 | 09/10 18:42 | 09/11 06:09 | ⚠ 46分（18:42→19:28） |
+| DeItaone | 44 | 09/10 18:50 | 09/11 06:36 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 186 | 09/10 18:53 | 09/11 06:26 | ⚠ 48分（05:38→06:26） |
+| financialjuice | 237 | 09/10 19:28 | 09/11 06:41 | 39分（05:24→06:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 444 行（統合前 472 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 445 行（統合前 473 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 18:38 [FirstSquawk] Europe Gas Prices Reach Highest Level Since Dec. 2022
-- 09/10 18:42 [financialjuice] UK Government: Houthis bear full responsibility for Yemen crisis.
 - 09/10 18:50 [DeItaone] TRUMP PLEDGES $5,000 DIVIDEND IF GOP WINS MIDTERMS President Donald Trump pledged a $5,000 payment to every U.S. adult citizen if Republicans retain control of both chambers of Congress, a plan estimated to cost around $1.2 trillion. Trump …
 - 09/10 18:53 [FirstSquawk] SAUDI ARAMCO IS CONSIDERING SELLING RUBBER MAKER ARLANXEO.
 - 09/10 19:02 [FirstSquawk] CHINA'S XI TO VISIT INDIA SEP 12-13, ATTEND BRICS SUMMIT - CHINESE STATE MEDIA
@@ -468,3 +466,6 @@
 - 09/11 06:09 [financialjuice] Microsoft's data center network will exceed 38 gigawatts capacity in 2032, up from around 12 gigawatts now
 - 09/11 06:26 [FirstSquawk] ORACLE CFO EXPECTS AROUND 50% OF THE COMPANY’S $664 BILLION RPO TO CONVERT INTO REVENUE OVER THE NEXT 36 MONTHS, WITH NEWLY BOOKED REVENUE BACKLOG NOT EXPECTED TO IMPACT REVENUE OR CAPEX UNTIL FY2028 OR LATER.
 - 09/11 06:26 [FirstSquawk] ORACLE MAINTAINS ITS FULL-YEAR CAPEX FORECAST AT $90-$95 BILLION, WITH SPENDING EXPECTED TO BE UNEVEN THROUGHOUT THE YEAR.
+- 09/11 06:36 [DeItaone] *BESSENT: GOING TO SANCTION A LARGE BANK ON MONDAY
+- 09/11 06:40 [financialjuice] Pentagon in talks to enter AI infrastructure funding with $5 billion loan - WSJ
+- 09/11 06:41 [financialjuice] Pentagon in talks to provide about $5 billion loan to Al cloud-computing startup FluidStack to strengthen US data-center supply chain - WSJ
