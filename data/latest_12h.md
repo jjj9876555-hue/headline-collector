@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 11:34 JST／対象: 09/09 23:34 〜 09/10 11:34 JST（時刻はすべて日本時間）
+生成: 2026-09-10 11:52 JST／対象: 09/09 23:52 〜 09/10 11:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 31 | 09/10 01:05 | 09/10 06:22 | ⚠ 93分（03:34→05:08） |
-| FirstSquawk | 161 | 09/09 23:36 | 09/10 11:29 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 148 | 09/09 23:35 | 09/10 11:11 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 157 | 09/09 23:52 | 09/10 11:50 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 146 | 09/09 23:55 | 09/10 11:11 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 334 行（統合前 342 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 328 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 23:35 [financialjuice] Saudi Civil Defence: Danger has passed in Abha - Post on X.
-- 09/09 23:35 [financialjuice] Saudis say danger passes in Khamis Mushait after alert.
-- 09/09 23:36 [FirstSquawk] SAUDI CIVIL DEFENCE ANNOUNCES THAT THE DANGER IN ABHA HAS ENDED.
-- 09/09 23:36 [FirstSquawk] SAUDI CIVIL DEFENSE ANNOUNCES THAT THE DANGER HAS PASSED IN KHAMIS MUSHAIT.
-- 09/09 23:38 [FirstSquawk] AFT, UFT, AND MICROSOFT UNVEIL A NEW NATIONAL AI SAFETY AND PRIVACY STANDARD FOR SCHOOLS TO ENSURE THE PROTECTION OF STUDENTS, FAMILIES, AND TEACHERS.
-- 09/09 23:38 [FirstSquawk] MICROSOFT'S NEW DEAL PROTECTS STUDENT DATA FROM AI USAGE, ENSURING STUDENTS REMAIN UNTRACKED AND AI REQUIRES HUMAN OVERSIGHT FOR DECISIONS.
-- 09/09 23:38 [FirstSquawk] MICROSOFT REQUIRES TECH FIRMS TO PROVIDE CLEAR AND SIMPLE EXPLANATIONS TO EDUCATORS AND PARENTS ABOUT THEIR PRODUCTS.
-- 09/09 23:38 [FirstSquawk] US SCHOOL DISTRICTS CAN NOW ADD SPECIFIC PROTECTIONS DIRECTLY INTO THEIR MICROSOFT CUSTOMER AGREEMENTS, ALLOWING THEM TO BE CONTRACTUALLY ENFORCED.
-- 09/09 23:45 [FirstSquawk] VALE CFO ANNOUNCES PLANS TO ENTER CHINESE BOND MARKET, BUT STATING BASE METALS IPO IS NOT A PRIORITY FOR THE NEXT 1-2 YEARS.
 - 09/09 23:52 [FirstSquawk] US SPY CHIEF JOHN RATCLIFFE GETS READY FOR A BIGGER ROLE IN RUSSIA-UKRAINE DISCUSSIONS.
 - 09/09 23:52 [FirstSquawk] UK 2-YEAR GILT YIELD INCREASES TO 4.698%, HIGHEST LEVEL SINCE MARCH 23, UP 10 BASIS POINTS TODAY.
 - 09/09 23:55 [financialjuice] The White House is considering paring back the involvement of US special envoy Witkoff and Kushner in talks with Moscow and Kyiv - FT.
@@ -358,3 +349,6 @@
 - 09/10 11:17 [FirstSquawk] Mastercard launches Wallet Pay to support the global expansion of digital wallet transactions.
 - 09/10 11:21 [FirstSquawk] U.S. regulators grant accelerated approval to Bayer’s sevabertinib as a first-line targeted therapy for HER2-mutated NSCLC.
 - 09/10 11:29 [FirstSquawk] South Korea’s stock market starts lower as higher oil prices and escalating geopolitical tensions pressure risk sentiment.
+- 09/10 11:35 [FirstSquawk] Trump unveils a proposed $5,000 “Trump dividend” for U.S. adults, conditional on a Republican victory in the House and Senate As Per FT
+- 09/10 11:41 [FirstSquawk] South Korea’s economic recovery is becoming increasingly evident, the finance minister says.
+- 09/10 11:50 [FirstSquawk] China’s local surtax reform strengthens tax adjustment capacity but delivers limited fiscal relief, Fitch Ratings says.
