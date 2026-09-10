@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 18:52 JST／対象: 09/10 12:52 〜 09/10 18:52 JST（時刻はすべて日本時間）
+生成: 2026-09-10 19:05 JST／対象: 09/10 13:05 〜 09/10 19:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/10 16:41 | 09/10 18:50 | 35分（17:30→18:05） |
-| FirstSquawk | 115 | 09/10 12:58 | 09/10 18:38 | 14分（14:01→14:15） |
-| financialjuice | 37 | 09/10 13:00 | 09/10 18:42 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 114 | 09/10 13:06 | 09/10 19:02 | 14分（18:38→18:53） |
+| financialjuice | 32 | 09/10 13:07 | 09/10 18:42 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 156 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 12:58 [FirstSquawk] Gold prices remain above $4,400 as markets await fresh U.S. inflation data.
-- 09/10 13:00 [financialjuice] Saudi civil defence issues emergency warning for province of Khamis Mushait - post on X
-- 09/10 13:02 [financialjuice] IMF dropped leading candidate for chief economist role over Trump tariff comments: FT
-- 09/10 13:03 [financialjuice] Mubadala investment arrives as China’s coffee market keeps growing
-- 09/10 13:03 [financialjuice] IMF drops Ricardo Reis as lead candidate for new chief economist: FT
-- 09/10 13:04 [financialjuice] Mubadala: continues to see strong long-term prospects in China’s consumer sector
-- 09/10 13:04 [FirstSquawk] Arini is facing pressure after several European credit bets moved against the London-based investment firm.
-- 09/10 13:05 [FirstSquawk] Trump tariff comments reportedly cost the leading candidate a shot at becoming the IMF’s next chief economist.
 - 09/10 13:06 [FirstSquawk] Ukrainian battlefield robotics draws fresh U.S. investment as an Erik Prince-backed drone company moves for an acquisition.
 - 09/10 13:06 [FirstSquawk] Rising oil costs are reviving momentum around clean hydrogen as countries reassess energy alternatives.
 - 09/10 13:07 [FirstSquawk] UK probation authorities face a growing crisis as more released prisoners end up back in custody, watchdog says.
@@ -186,3 +178,5 @@
 - 09/10 18:38 [FirstSquawk] Europe Gas Prices Reach Highest Level Since Dec. 2022
 - 09/10 18:42 [financialjuice] UK Government: Houthis bear full responsibility for Yemen crisis.
 - 09/10 18:50 [DeItaone] TRUMP PLEDGES $5,000 DIVIDEND IF GOP WINS MIDTERMS President Donald Trump pledged a $5,000 payment to every U.S. adult citizen if Republicans retain control of both chambers of Congress, a plan estimated to cost around $1.2 trillion. Trump …
+- 09/10 18:53 [FirstSquawk] SAUDI ARAMCO IS CONSIDERING SELLING RUBBER MAKER ARLANXEO.
+- 09/10 19:02 [FirstSquawk] CHINA'S XI TO VISIT INDIA SEP 12-13, ATTEND BRICS SUMMIT - CHINESE STATE MEDIA

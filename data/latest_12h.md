@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 18:52 JST／対象: 09/10 06:52 〜 09/10 18:52 JST（時刻はすべて日本時間）
+生成: 2026-09-10 19:05 JST／対象: 09/10 07:05 〜 09/10 19:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/10 16:41 | 09/10 18:50 | 35分（17:30→18:05） |
-| FirstSquawk | 205 | 09/10 07:34 | 09/10 18:38 | ⚠ 49分（08:15→09:05） |
-| financialjuice | 88 | 09/10 07:00 | 09/10 18:42 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 207 | 09/10 07:34 | 09/10 19:02 | ⚠ 49分（08:15→09:05） |
+| financialjuice | 84 | 09/10 08:00 | 09/10 18:42 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 303 行（統合前 304 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 301 行（統合前 302 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 07:00 [financialjuice] Poll: total size of Japan's FY2027 budget requests raise worries about fiscal discipline: 74% of economists
-- 09/10 07:00 [financialjuice] Poll: joint US-Japan FX intervention, US Treasury chief Bessent's comments reduce political barriers for BoJ rate hikes, say 82% of economists
-- 09/10 07:00 [financialjuice] Poll: Bank of Japan to increase benchmark interest rate to 1.25% on September 18, say 97% of economists (up from 57% in August)
-- 09/10 07:00 [financialjuice] Poll: Bank of Japan to raise rates to minimum 1.75% in Q2 2027, 62% of economists say (vs. 1.50% in prior poll)
 - 09/10 07:34 [FirstSquawk] FITCH WARNS COLOMBIA’S BUDGET HAS A DEEP FISCAL IMBALANCE AND SAYS SIGNIFICANT ADDITIONAL MEASURES ARE NEEDED TO STABILIZE THE COUNTRY’S RISING DEBT.
 - 09/10 07:34 [FirstSquawk] FITCH SAYS FAILURE TO DELIVER STRONGER DEFICIT-REDUCTION MEASURES COULD PUT NEW PRESSURE ON COLOMBIA’S CREDIT RATING, WITH DEFICITS LIKELY TO EXCEED PRIOR FORECASTS EVEN IF THE 2.2% OF GDP CONSOLIDATION TARGET IS MET.
 - 09/10 07:35 [FirstSquawk] APPLIED MATERIALS CEO: SERVICES BUSINESS GROWING MORE THAN 20% Y/Y WITH MARGINS UP 180BPS; PACKAGING BUSINESS EXPECTED TO GROW MORE THAN 70% THIS YEAR.
@@ -327,3 +323,5 @@
 - 09/10 18:38 [FirstSquawk] Europe Gas Prices Reach Highest Level Since Dec. 2022
 - 09/10 18:42 [financialjuice] UK Government: Houthis bear full responsibility for Yemen crisis.
 - 09/10 18:50 [DeItaone] TRUMP PLEDGES $5,000 DIVIDEND IF GOP WINS MIDTERMS President Donald Trump pledged a $5,000 payment to every U.S. adult citizen if Republicans retain control of both chambers of Congress, a plan estimated to cost around $1.2 trillion. Trump …
+- 09/10 18:53 [FirstSquawk] SAUDI ARAMCO IS CONSIDERING SELLING RUBBER MAKER ARLANXEO.
+- 09/10 19:02 [FirstSquawk] CHINA'S XI TO VISIT INDIA SEP 12-13, ATTEND BRICS SUMMIT - CHINESE STATE MEDIA

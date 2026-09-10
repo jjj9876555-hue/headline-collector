@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 18:52 JST／対象: 09/09 18:52 〜 09/10 18:52 JST（時刻はすべて日本時間）
+生成: 2026-09-10 19:05 JST／対象: 09/09 19:05 〜 09/10 19:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 61 | 09/09 19:00 | 09/10 18:50 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 363 | 09/09 18:53 | 09/10 18:38 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 239 | 09/09 19:03 | 09/10 18:42 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 59 | 09/09 19:30 | 09/10 18:50 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 363 | 09/09 19:05 | 09/10 19:02 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 238 | 09/09 19:14 | 09/10 18:42 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 652 行（統合前 665 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 650 行（統合前 662 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 18:53 [FirstSquawk] US 2-YEAR YIELD INCREASES 2 BASIS POINTS TO 4.42%, THE HIGHEST LEVEL SINCE JANUARY 2025.
-- 09/09 19:00 [DeItaone] US 2-YEAR YIELD RISES 2BPS TO 4.42%, HIGHEST SINCE JANUARY 2025
-- 09/09 19:02 [DeItaone/financialjuice] US CENTCOM: IRGC CLAIM OF STRIKES ON TWO U.S. NAVY DESTROYERS OPERATING IN THE MIDDLE EAST IS FALSE, ALL IRGC ATTEMPTED ATTACKS FAILED
-- 09/09 19:02 [FirstSquawk] US CENTCOM SAYS IRGC'S CLAIM ABOUT STRIKES ON TWO U.S. NAVY DESTROYERS IN THE MIDDLE EAST IS NOT TRUE, ALL ATTACKS FROM IRGC FAILED.
 - 09/09 19:05 [FirstSquawk] SILVER LAKE WILL COMBINE CEGID AND SILAE TO FORM A GROUP VALUED AT OVER €10 BILLION, ACCORDING TO THE FINANCIAL TIMES.
 - 09/09 19:11 [FirstSquawk] NASDAQ 100 FUTURES EXTEND LOSSES TO 0.5%
 - 09/09 19:14 [financialjuice] Panama-flagged tanker carrying 2 mln barrels of Iraqi fuel oil was struck by drone in Iraqi territorial waters - Two Port Officials.
@@ -676,3 +672,5 @@
 - 09/10 18:38 [FirstSquawk] Europe Gas Prices Reach Highest Level Since Dec. 2022
 - 09/10 18:42 [financialjuice] UK Government: Houthis bear full responsibility for Yemen crisis.
 - 09/10 18:50 [DeItaone] TRUMP PLEDGES $5,000 DIVIDEND IF GOP WINS MIDTERMS President Donald Trump pledged a $5,000 payment to every U.S. adult citizen if Republicans retain control of both chambers of Congress, a plan estimated to cost around $1.2 trillion. Trump …
+- 09/10 18:53 [FirstSquawk] SAUDI ARAMCO IS CONSIDERING SELLING RUBBER MAKER ARLANXEO.
+- 09/10 19:02 [FirstSquawk] CHINA'S XI TO VISIT INDIA SEP 12-13, ATTEND BRICS SUMMIT - CHINESE STATE MEDIA
