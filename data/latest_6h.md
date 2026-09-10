@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 09:48 JST／対象: 09/10 03:48 〜 09/10 09:48 JST（時刻はすべて日本時間）
+生成: 2026-09-10 10:00 JST／対象: 09/10 04:00 〜 09/10 10:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/10 05:08 | 09/10 06:22 | ⚠ 60分（05:08→06:08） |
-| FirstSquawk | 53 | 09/10 03:51 | 09/10 09:48 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 52 | 09/10 03:55 | 09/10 09:25 | ⚠ 59分（07:00→08:00） |
+| FirstSquawk | 57 | 09/10 04:02 | 09/10 09:59 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 52 | 09/10 04:20 | 09/10 10:00 | ⚠ 59分（07:00→08:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 106 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 111 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 03:51 [FirstSquawk] RUBIO: US TO SEEK ADDITIONAL $45M IN SECURITY FUNDING FOR ECUADOR, INCLUDING ADDITIONAL EQUIPMENT.
-- 09/10 03:54 [FirstSquawk] APPLE'S FOLDABLE IPHONE EVENT — KEY TAKEAWAYS • APPLE IS POSITIONING THE IPHONE AS THE CENTRAL AI DEVICE FOR THE NEXT ERA OF COMPUTING. • THE NEW IPHONE DUO FOLDABLE STARTS AT $1,999, WITH A DISTINCT USER INTERFACE AND COMPETITIVE CAMERA FE…
-- 09/10 03:55 [financialjuice] Brent and US crude futures settle at their highest close since May 22nd.
-- 09/10 03:55 [financialjuice/FirstSquawk] Pakistani Ambassador: We believe a better understanding will soon be reached between the United States and Iran - ISNA
-- 09/10 03:58 [financialjuice] Ukrainian Forces: Struck a Siberian gas facilities in Russia 3000 km distant.
 - 09/10 04:02 [FirstSquawk] ANTHROPIC IDENTIFIES A FOURTH CLAUDE SECURITY INCIDENT FROM JANUARY 2026 AND SAYS ALL FOUR INCIDENTS OCCURRED DURING CYBERSECURITY EVALUATIONS CONDUCTED BY THE SAME EVALUATION PARTNER.
 - 09/10 04:02 [FirstSquawk] ANTHROPIC HAS NOTIFIED AFFECTED PARTIES AND SIGNED AN AGREEMENT WITH METR TO CONDUCT AN INDEPENDENT INVESTIGATION INTO THE CLAUDE MODEL SECURITY INCIDENTS.
 - 09/10 04:02 [FirstSquawk] DISNEY SAYS IT HAS CREATED A “ONE FAN, ONE ACCOUNT” ECOSYSTEM LINKING HULU AND DISNEY+ PROFILES, WHILE DISNEY+ DELIVERED A 13% MARGIN LAST QUARTER AND IS EXPECTED TO POST DOUBLE-DIGIT MARGINS FOR THE FULL YEAR.
@@ -130,3 +125,13 @@
 - 09/10 09:41 [FirstSquawk] Major Korean banks maintain stable prospects as resilient fundamentals support their credit profiles, Fitch says.
 - 09/10 09:41 [FirstSquawk] A suspected drug-trafficking boat was hit by U.S. forces in the Caribbean Sea, Southern Command says.
 - 09/10 09:48 [FirstSquawk] Business sentiment among U.S. firms in China has improved sharply as the latest U.S.-China trade truce reduces tensions.
+- 09/10 09:51 [FirstSquawk] 5-year Japanese government bond yield advances 1.5 basis points to 2.235%.
+- 09/10 09:52 [FirstSquawk] Yakhil has reportedly fallen under Houthi control amid renewed clashes in Yemen.
+- 09/10 09:52 [FirstSquawk] The captured American underwater drone could give Iran an opportunity to examine and potentially reproduce parts of its technology.
+- 09/10 09:55 [financialjuice] Saudi civil defence issues urgent warning for Khamis Mushait and Abha
+- 09/10 09:57 [FirstSquawk] Emergency alerts have been issued in Abha and Khamis Mushait by Saudi Civil Defence as regional tensions remain elevated.
+- 09/10 09:57 [FirstSquawk] Taiwan's brokerage sector is seeing strong growth, but structural gaps continue to widen, Fitch Ratings says.
+- 09/10 09:57 [financialjuice] Saudi civil defence warns of possible threat in Khamis Mushait and Abha
+- 09/10 09:58 [FirstSquawk] Potential danger reported in Khamis Mushait and Abha as Saudi Civil Defence issues warning.
+- 09/10 09:59 [FirstSquawk] The latest Apple Watch gains an AI-powered Live Rewind tool that lets users revisit the previous 15 seconds of speech through a text transcript.
+- 09/10 10:00 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait and Abha

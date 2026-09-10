@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 09:48 JST／対象: 09/09 09:48 〜 09/10 09:48 JST（時刻はすべて日本時間）
+生成: 2026-09-10 10:00 JST／対象: 09/09 10:00 〜 09/10 10:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 326 | 09/09 09:49 | 09/10 09:48 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 212 | 09/09 10:00 | 09/10 09:25 | ⚠ 206分（14:00→17:26） |
+| FirstSquawk | 329 | 09/09 10:06 | 09/10 09:59 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 215 | 09/09 10:00 | 09/10 10:00 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 581 行（統合前 597 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 587 行（統合前 603 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 09:49 [FirstSquawk] Trump said the alcohol ban was in response to Canada's treatment of American alcohol - BusinessInsider
-- 09/09 09:52 [FirstSquawk] SK Hynix Stock Gains 3% in Trading
-- 09/09 09:59 [FirstSquawk] Heavy rain may continue through Thurs. on Pacific side of east, west Japan - KYODO
-- 09/09 10:00 [FirstSquawk] Taiwan Overnight Rate Opens Steady at 0.805%
 - 09/09 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs 0.805% previous session
 - 09/09 10:06 [FirstSquawk] Peru’s Petroperu Secures $475 Million in Loan Disbursement From International Banks
 - 09/09 10:06 [FirstSquawk] The ban on imports worth ‘billions’ of dollars would take effect in three weeks, US officials said, as Donald Trump’s administration continued to expand its trade war with its second-largest trading partner - FT
@@ -605,3 +601,13 @@
 - 09/10 09:41 [FirstSquawk] Major Korean banks maintain stable prospects as resilient fundamentals support their credit profiles, Fitch says.
 - 09/10 09:41 [FirstSquawk] A suspected drug-trafficking boat was hit by U.S. forces in the Caribbean Sea, Southern Command says.
 - 09/10 09:48 [FirstSquawk] Business sentiment among U.S. firms in China has improved sharply as the latest U.S.-China trade truce reduces tensions.
+- 09/10 09:51 [FirstSquawk] 5-year Japanese government bond yield advances 1.5 basis points to 2.235%.
+- 09/10 09:52 [FirstSquawk] Yakhil has reportedly fallen under Houthi control amid renewed clashes in Yemen.
+- 09/10 09:52 [FirstSquawk] The captured American underwater drone could give Iran an opportunity to examine and potentially reproduce parts of its technology.
+- 09/10 09:55 [financialjuice] Saudi civil defence issues urgent warning for Khamis Mushait and Abha
+- 09/10 09:57 [FirstSquawk] Emergency alerts have been issued in Abha and Khamis Mushait by Saudi Civil Defence as regional tensions remain elevated.
+- 09/10 09:57 [FirstSquawk] Taiwan's brokerage sector is seeing strong growth, but structural gaps continue to widen, Fitch Ratings says.
+- 09/10 09:57 [financialjuice] Saudi civil defence warns of possible threat in Khamis Mushait and Abha
+- 09/10 09:58 [FirstSquawk] Potential danger reported in Khamis Mushait and Abha as Saudi Civil Defence issues warning.
+- 09/10 09:59 [FirstSquawk] The latest Apple Watch gains an AI-powered Live Rewind tool that lets users revisit the previous 15 seconds of speech through a text transcript.
+- 09/10 10:00 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait and Abha
