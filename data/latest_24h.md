@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 11:52 JST／対象: 09/09 11:52 〜 09/10 11:52 JST（時刻はすべて日本時間）
+生成: 2026-09-10 12:04 JST／対象: 09/09 12:04 〜 09/10 12:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/09 16:31 | 09/10 06:22 | ⚠ 120分（16:31→18:32） |
-| FirstSquawk | 335 | 09/09 11:55 | 09/10 11:50 | ⚠ 126分（05:28→07:34） |
+| FirstSquawk | 333 | 09/09 12:09 | 09/10 11:55 | ⚠ 126分（05:28→07:34） |
 | financialjuice | 215 | 09/09 12:39 | 09/10 11:11 | ⚠ 206分（14:00→17:26） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 593 行（統合前 609 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 591 行（統合前 607 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 11:55 [FirstSquawk] Hyundai Motor, AfDB agree to cooperate on Africa's energy transition, sustainable development - YONHAP
-- 09/09 12:00 [FirstSquawk] American Official Says U.S. Forces in Jordan Operating at Full Capacity, Al Arabiya English Reports
-- 09/09 12:04 [FirstSquawk] Skoda Auto Volkswagen- JSW Group Deal Structured as Two-Party Partnership With Joint Control and Defined Roles
 - 09/09 12:09 [FirstSquawk] RBC Starts Coverage of Sanofi With Sector Perform Rating, €80 Price Target
 - 09/09 12:14 [FirstSquawk] RBC Lifts Qualcomm Price Target to $180 From $160
 - 09/09 12:23 [FirstSquawk] RBC Begins AstraZeneca Coverage With Outperform Recommendation, Target Price 14,500p
@@ -617,3 +614,4 @@
 - 09/10 11:35 [FirstSquawk] Trump unveils a proposed $5,000 “Trump dividend” for U.S. adults, conditional on a Republican victory in the House and Senate As Per FT
 - 09/10 11:41 [FirstSquawk] South Korea’s economic recovery is becoming increasingly evident, the finance minister says.
 - 09/10 11:50 [FirstSquawk] China’s local surtax reform strengthens tax adjustment capacity but delivers limited fiscal relief, Fitch Ratings says.
+- 09/10 11:55 [FirstSquawk] Pound strengthens as the dollar slips ahead of key U.S. PPI figures.
