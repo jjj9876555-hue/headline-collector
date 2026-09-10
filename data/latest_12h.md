@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-10 17:46 JST／対象: 09/10 05:46 〜 09/10 17:46 JST（時刻はすべて日本時間）
+生成: 2026-09-10 17:59 JST／対象: 09/10 05:59 〜 09/10 17:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/10 06:08 | 09/10 17:30 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 195 | 09/10 07:34 | 09/10 17:42 | ⚠ 49分（08:15→09:05） |
-| financialjuice | 99 | 09/10 05:46 | 09/10 17:04 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 198 | 09/10 07:34 | 09/10 17:55 | ⚠ 49分（08:15→09:05） |
+| financialjuice | 96 | 09/10 06:10 | 09/10 17:53 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 301 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 05:46 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL -0.3M (FORECAST -1.3M, PREVIOUS -2.6M) $MACRO
-- 09/10 05:46 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL -0.3M (FORECAST -, PREVIOUS 0.2M) $MACRO
-- 09/10 05:46 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL 2M (FORECAST -, PREVIOUS -0.3M) $MACRO
-- 09/10 05:46 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL -1.9M (FORECAST -, PREVIOUS 0.3M) $MACRO
 - 09/10 06:08 [DeItaone] MILITARY AIDE ACCIDENTALLY DEPLOYED INFLATIBLE EMERGENCY SLIDE ON AIR FORCE ONE - PERSON FAMILIAR
 - 09/10 06:10 [financialjuice] Explosions heard on Iran's Qeshm Island: Iran state media
 - 09/10 06:11 [financialjuice] Iranian state media: unclear if explosion sound came from sea or Qeshm Island itself
@@ -325,3 +321,7 @@
 - 09/10 17:38 [FirstSquawk] COINBASE EXPECTS STABLECOIN PAYMENTS TO BECOME A SIGNIFICANT REVENUE BOOST.
 - 09/10 17:39 [FirstSquawk] UKRAINIAN AIR DEFENSES CLAIMED THEY HAVE DESTROYED 128 RUSSIAN DRONES OF DIFFERENT TYPES.
 - 09/10 17:42 [FirstSquawk] UK 2-YEAR YIELD CLIMBS 2BPS TO 4.72%, HIGHEST SINCE NOV. 2023
+- 09/10 17:52 [FirstSquawk] BORING CO. RAISES $3 BILLION IN NEW FUNDING FROM UAE AND ASSOCIATED INVESTORS, PUTTING ELON MUSK’S TUNNELING COMPANY'S VALUE AT $23 BILLION.
+- 09/10 17:53 [FirstSquawk] US AI SAFETY BILL COULD BE PRESENTED AS SOON AS NEXT WEEK, ACCORDING TO SEMAFOR.
+- 09/10 17:53 [financialjuice] US AI safety bill may be introduced early as next week - Semafor
+- 09/10 17:55 [FirstSquawk] RYANAIR CEO: WE WILL BE DOWN VERY LOW SINGLE DIGITS IN Q2

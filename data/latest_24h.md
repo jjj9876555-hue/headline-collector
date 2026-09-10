@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 17:46 JST／対象: 09/09 17:46 〜 09/10 17:46 JST（時刻はすべて日本時間）
+生成: 2026-09-10 17:59 JST／対象: 09/09 17:59 〜 09/10 17:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/09 18:32 | 09/10 17:30 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 366 | 09/09 17:48 | 09/10 17:42 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 238 | 09/09 17:46 | 09/10 17:04 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 366 | 09/09 18:02 | 09/10 17:55 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 238 | 09/09 17:59 | 09/10 17:53 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 652 行（統合前 665 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 17:46 [financialjuice] UKMTO says several vessels were subject to disabling fire.
-- 09/09 17:48 [FirstSquawk] JAY Y. LEE OF SAMSUNG WILL PURCHASE SHARES WORTH 1.9 TRILLION WON (USD 1.422 BILLION) FROM HIS MOTHER, ACCORDING TO A FILING.
-- 09/09 17:53 [FirstSquawk] HSBC PREDICTS A CHALLENGING SECOND HALF FOR EUROPEAN LUXURY GOODS STOCKS.
-- 09/09 17:58 [FirstSquawk] UBER WANTS TO RAISE APPROXIMATELY €4 BILLION THROUGH ITS FIRST EUROPEAN BOND SALE.
 - 09/09 17:59 [financialjuice] Japan may convene extraordinary diet session on October 5 - Kyodo.
 - 09/09 18:02 [FirstSquawk] JAPAN IS PLANNING A SPECIAL DIET SESSION ON OCTOBER 5, ACCORDING TO KYODO.
 - 09/09 18:05 [FirstSquawk] ZELENSKIY: UKRAINE HIT NOVOROSSIYSK NAVAL BASE, OIL TERMINALS
@@ -676,3 +672,7 @@
 - 09/10 17:38 [FirstSquawk] COINBASE EXPECTS STABLECOIN PAYMENTS TO BECOME A SIGNIFICANT REVENUE BOOST.
 - 09/10 17:39 [FirstSquawk] UKRAINIAN AIR DEFENSES CLAIMED THEY HAVE DESTROYED 128 RUSSIAN DRONES OF DIFFERENT TYPES.
 - 09/10 17:42 [FirstSquawk] UK 2-YEAR YIELD CLIMBS 2BPS TO 4.72%, HIGHEST SINCE NOV. 2023
+- 09/10 17:52 [FirstSquawk] BORING CO. RAISES $3 BILLION IN NEW FUNDING FROM UAE AND ASSOCIATED INVESTORS, PUTTING ELON MUSK’S TUNNELING COMPANY'S VALUE AT $23 BILLION.
+- 09/10 17:53 [FirstSquawk] US AI SAFETY BILL COULD BE PRESENTED AS SOON AS NEXT WEEK, ACCORDING TO SEMAFOR.
+- 09/10 17:53 [financialjuice] US AI safety bill may be introduced early as next week - Semafor
+- 09/10 17:55 [FirstSquawk] RYANAIR CEO: WE WILL BE DOWN VERY LOW SINGLE DIGITS IN Q2
