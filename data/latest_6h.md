@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 22:03 JST／対象: 09/10 16:03 〜 09/10 22:03 JST（時刻はすべて日本時間）
+生成: 2026-09-10 22:24 JST／対象: 09/10 16:24 〜 09/10 22:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/10 16:41 | 09/10 21:41 | 35分（17:30→18:05） |
-| FirstSquawk | 107 | 09/10 16:05 | 09/10 21:59 | 18分（20:15→20:33） |
-| financialjuice | 102 | 09/10 17:00 | 09/10 22:01 | ⚠ 48分（17:04→17:53） |
+| DeItaone | 30 | 09/10 16:41 | 09/10 22:07 | 35分（17:30→18:05） |
+| FirstSquawk | 112 | 09/10 16:27 | 09/10 22:22 | 18分（20:15→20:33） |
+| financialjuice | 125 | 09/10 17:00 | 09/10 22:23 | ⚠ 48分（17:04→17:53） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 226 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 253 行（統合前 269 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 16:05 [FirstSquawk] TOYOTA MOTOR CORPORATION FILES RECALL OF 8,521 US VEHICLES: NHTSA
-- 09/10 16:10 [FirstSquawk] CHINA FOREIGN MINISTRY, ON INDIA PROPOSING PROBE INTO XIAOMI: HOPE INDIA WILL PROVIDE FAIR, JUST, NON-DISCRIMINATORY ENVIRONMENT FOR ALL COMPANIES IN INDIA
-- 09/10 16:12 [FirstSquawk] PBOC DEPT GOV: WANTS TO DEVELOP DIGITAL YUAN AT STEADY PACE
-- 09/10 16:14 [FirstSquawk] CHINA'S FOREIGN MINISTRY REJECTS US ACTIONS AGAINST HUAWEI, CALLING IT GOVERNMENT SUPPRESSION OF CHINESE FIRMS.
 - 09/10 16:27 [FirstSquawk] MIZUHO'S FIRST FEMALE HEAD OF WEALTH MANAGEMENT AIMS FOR SIXFOLD GROWTH IN ASSET ADVISORY BUSINESS, JOINING A SMALL GROUP OF WOMEN LEADERS IN JAPAN'S FINANCIAL INDUSTRY.
 - 09/10 16:32 [FirstSquawk] CHINA'S DEEPSEEK UNVEILS THE V4.1-FLASH MODEL.
 - 09/10 16:32 [FirstSquawk] HUAWEI INTRODUCES NEW OPTICAL TECHNOLOGY STANDARDS TO COMPETE WITH NVIDIA AND BROADCOM.
@@ -250,3 +246,34 @@
 - 09/10 22:01 [financialjuice] ECB's Lagarde: The energy shock could intensify further, and its effects on other prices and wages could be stronger than currently expected.
 - 09/10 22:01 [financialjuice] ECB's Lagarde: Extreme weather events, potentially reinforced by intensifying “El Niño” conditions, and the unfolding climate and nature crises more broadly, could drive up food prices.
 - 09/10 22:01 [financialjuice] ECB's Lagarde: Gas prices, in particular, could increase in the event of further supply disruptions or an unusually cold winter coinciding with low storage levels.
+- 09/10 22:07 [FirstSquawk] LAGARDE: HEADLINE INFLATION TO RETURN TO AROUND TARGET END 2027
+- 09/10 22:07 [FirstSquawk] ECB LAGARDE: RISKS TO INFLATION OUTLOOK ON UPSIDE
+- 09/10 22:07 [DeItaone] FED HIKE ODDS SURGE AFTER ECB MOVE Kalshi now puts a 64% chance on a 25-bp Fed hike in September, versus 36% for no change. The repricing follows the ECB’s 25-bp hike, as energy-driven inflation concerns push central banks toward a more haw…
+- 09/10 22:07 [FirstSquawk] ECB PRES LAGARDE: THE ENERGY SHOCK COULD INTENSIFY FURTHER AND ITS EFFECTS ON OTHER PRICES AND WAGES COULD BE STRONGER THAN CURRENTLY EXPECTED
+- 09/10 22:07 [financialjuice] ECB's Lagarde: This is predominantly a supply shock.
+- 09/10 22:07 [financialjuice] ECB's Lagarde: Markets do what they have to do.
+- 09/10 22:07 [FirstSquawk] FRENCH ARMED FORCES ORDER AIRBUS U050 CAPA-X DRONE
+- 09/10 22:07 [financialjuice] ECB's Lagarde: Markets do what they have to do, and so do we.
+- 09/10 22:08 [financialjuice] ECB's Lagarde: The discussion was focused on today's decision.
+- 09/10 22:08 [financialjuice] ECB's Lagarde: Did not debate future rate path.
+- 09/10 22:10 [financialjuice] ECB's Lagarde: Not taking a view on which direction to go at the next meeting.
+- 09/10 22:11 [financialjuice/FirstSquawk] ECB's Lagarde: Uncertainty can change things almost overnight.
+- 09/10 22:12 [financialjuice] ECB's Lagarde: Neutral rate band is a work in progress on a constant basis.
+- 09/10 22:13 [financialjuice] ECB's Lagarde: Neutral band highly conceptual.
+- 09/10 22:13 [financialjuice] ECB's Lagarde: Not attaching great importance to the neutral rate.
+- 09/10 22:13 [financialjuice] ECB's Lagarde: The decison was a no brainer.
+- 09/10 22:15 [FirstSquawk] LAGARDE: BOND REPRICING HAPPENING ACROSS THE WORLD
+- 09/10 22:15 [financialjuice] ECB's Lagarde: Yield rise is not a euro-specific issue; bond repricing is happening across the world.
+- 09/10 22:16 [financialjuice] ECB's Lagarde: Significant financing needs from AI is a key driver.
+- 09/10 22:16 [financialjuice] ECB's Lagarde: We are monitoring attentively the bond market, particularly the long end
+- 09/10 22:17 [financialjuice] ECB's Lagarde: Surprised by economic resilience.
+- 09/10 22:17 [financialjuice] ECB's Lagarde: post-cutoff data suggest even higher 2026 growth than in projection.
+- 09/10 22:17 [FirstSquawk] LAGARDE: ECB WAS SURPRISED BY LOWER THAN EXPECTED INFLATION
+- 09/10 22:18 [financialjuice] ECB's Lagarde: Inflation has been lower recently than anticipated, especially food.
+- 09/10 22:18 [financialjuice] ECB's Lagarde: The ECB was surprised by longer-lasting inflation.
+- 09/10 22:21 [financialjuice] ECB's Lagarde: Very hopeful digital euro legislation voted on before year-end.
+- 09/10 22:21 [financialjuice] ❗ Yemen's Houthis reached the Red Sea islands of Hanish - Two Yemeni governmental military sources
+- 09/10 22:21 [financialjuice/FirstSquawk] ❗ Traders see more than 50% chance of ECB hike in October.
+- 09/10 22:22 [FirstSquawk] LAGARDE: VERY HOPEFUL DIGITAL EURO LAW WILL PASS BY YEAR-END
+- 09/10 22:22 [financialjuice] ECB's Lagarde: Won't comment on any FX intervention.
+- 09/10 22:23 [financialjuice] ECB's Lagarde: Euro-Yen intervention had a volume of €500m.

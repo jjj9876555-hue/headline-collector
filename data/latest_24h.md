@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 22:03 JST／対象: 09/09 22:03 〜 09/10 22:03 JST（時刻はすべて日本時間）
+生成: 2026-09-10 22:24 JST／対象: 09/09 22:24 〜 09/10 22:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 64 | 09/09 22:13 | 09/10 21:41 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 376 | 09/09 22:15 | 09/10 21:59 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 307 | 09/09 22:03 | 09/10 22:01 | ⚠ 119分（15:00→17:00） |
+| DeItaone | 62 | 09/09 23:16 | 09/10 22:07 | ⚠ 619分（06:22→16:41） |
+| FirstSquawk | 382 | 09/09 22:25 | 09/10 22:22 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 324 | 09/09 22:31 | 09/10 22:23 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 728 行（統合前 751 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 747 行（統合前 772 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 22:03 [financialjuice] IRGC Spokesman: If the enemy hits 2 targets, we will strike 20 - IRIB News
-- 09/09 22:13 [DeItaone] $AAPL - APPLE SET TO UNVEIL $2,000+ FOLDABLE IPHONE Apple is expected to unveil its first foldable iPhone Wednesday, marking new CEO John Ternus’ first major product launch. The device could cost more than $2,000, making it Apple’s most exp…
-- 09/09 22:14 [DeItaone] NORTHWESTERN MUTUAL: HOT CPI COULD TRIGGER FED HIKE Northwestern Mutual’s Matt Stucky says hotter-than-expected inflation could increase the chances of a Fed rate hike this month. Markets currently see roughly a 50-50 chance of a hike. Frid…
-- 09/09 22:15 [FirstSquawk] TRUMP’S 20% GDP DREAM: A GROWTH RATE AMERICA HAS SEEN ONLY ONCE SINCE WWII President Donald Trump has said U.S. economic growth could reach 20%, but that would be an extraordinary outlier by historical standards. Data going back to 1947 sho…
-- 09/09 22:19 [DeItaone] KUWAIT OFFERS OIL TRANSFERS OUTSIDE HORMUZ Kuwait Petroleum Corp is offering ship-to-ship transfers of crude oil and refined fuels outside the Strait of Hormuz as buyers avoid ports inside the waterway due to U.S.-Iran war risks. KPC says v…
-- 09/09 22:22 [FirstSquawk] IRAQI OIL MINISTRY SAYS VESSEL USED TO STORE FUEL OIL WAS STRUCK BY UNKNOWN SOURCE IN IRAQI TERRITORIAL WATERS-POST ON X
-- 09/09 22:22 [financialjuice] Iraqi Oil Ministry: A vessel used to store fuel oil was struck by an unknown source in Iraqi territorial waters - Post on X.
-- 09/09 22:22 [FirstSquawk] ISRAEL WON'T LET TERRORIST ARMY TO SIT ON ITS BORDER: NETANYAHU
-- 09/09 22:22 [financialjuice] Israel's Prime Minister Netanyahu comments in visit to troops on mount Hermon in Syria: Israel won't let terrorist army to sit on its border.
-- 09/09 22:24 [financialjuice] Poll: The US Federal Reserve is to hold the Fed funds rate steady at 3.50%-3.75% in 2026, said 52 of 93 economists (vs 80 of 104 economists in August poll).
-- 09/09 22:24 [financialjuice] Poll: Fed to hold Fed Funds Rate at 3.50%-3.75% in September, said 65 of 93 economists (versus 94 of 104 economists in August poll).
-- 09/09 22:24 [financialjuice] Iraqi Oil Ministry: The vessel was chartered by the Iraqi oil tankers company.
 - 09/09 22:25 [FirstSquawk] IRAQ'S OIL MINISTRY SAYS NO LEAKAGE FROM VESSEL'S CARGO INTO WATER
 - 09/09 22:25 [FirstSquawk] IRAQI OIL MINISTRY SAYS NO CASUALTIES REPORTED
 - 09/09 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -60.8 MLN NASDAQ 100: 41.5 MLN DOW 30: -32.6 MLN MAG 7: 42.0 MLN $MACRO
@@ -752,3 +740,34 @@
 - 09/10 22:01 [financialjuice] ECB's Lagarde: The energy shock could intensify further, and its effects on other prices and wages could be stronger than currently expected.
 - 09/10 22:01 [financialjuice] ECB's Lagarde: Extreme weather events, potentially reinforced by intensifying “El Niño” conditions, and the unfolding climate and nature crises more broadly, could drive up food prices.
 - 09/10 22:01 [financialjuice] ECB's Lagarde: Gas prices, in particular, could increase in the event of further supply disruptions or an unusually cold winter coinciding with low storage levels.
+- 09/10 22:07 [FirstSquawk] LAGARDE: HEADLINE INFLATION TO RETURN TO AROUND TARGET END 2027
+- 09/10 22:07 [FirstSquawk] ECB LAGARDE: RISKS TO INFLATION OUTLOOK ON UPSIDE
+- 09/10 22:07 [DeItaone] FED HIKE ODDS SURGE AFTER ECB MOVE Kalshi now puts a 64% chance on a 25-bp Fed hike in September, versus 36% for no change. The repricing follows the ECB’s 25-bp hike, as energy-driven inflation concerns push central banks toward a more haw…
+- 09/10 22:07 [FirstSquawk] ECB PRES LAGARDE: THE ENERGY SHOCK COULD INTENSIFY FURTHER AND ITS EFFECTS ON OTHER PRICES AND WAGES COULD BE STRONGER THAN CURRENTLY EXPECTED
+- 09/10 22:07 [financialjuice] ECB's Lagarde: This is predominantly a supply shock.
+- 09/10 22:07 [financialjuice] ECB's Lagarde: Markets do what they have to do.
+- 09/10 22:07 [FirstSquawk] FRENCH ARMED FORCES ORDER AIRBUS U050 CAPA-X DRONE
+- 09/10 22:07 [financialjuice] ECB's Lagarde: Markets do what they have to do, and so do we.
+- 09/10 22:08 [financialjuice] ECB's Lagarde: The discussion was focused on today's decision.
+- 09/10 22:08 [financialjuice] ECB's Lagarde: Did not debate future rate path.
+- 09/10 22:10 [financialjuice] ECB's Lagarde: Not taking a view on which direction to go at the next meeting.
+- 09/10 22:11 [financialjuice/FirstSquawk] ECB's Lagarde: Uncertainty can change things almost overnight.
+- 09/10 22:12 [financialjuice] ECB's Lagarde: Neutral rate band is a work in progress on a constant basis.
+- 09/10 22:13 [financialjuice] ECB's Lagarde: Neutral band highly conceptual.
+- 09/10 22:13 [financialjuice] ECB's Lagarde: Not attaching great importance to the neutral rate.
+- 09/10 22:13 [financialjuice] ECB's Lagarde: The decison was a no brainer.
+- 09/10 22:15 [FirstSquawk] LAGARDE: BOND REPRICING HAPPENING ACROSS THE WORLD
+- 09/10 22:15 [financialjuice] ECB's Lagarde: Yield rise is not a euro-specific issue; bond repricing is happening across the world.
+- 09/10 22:16 [financialjuice] ECB's Lagarde: Significant financing needs from AI is a key driver.
+- 09/10 22:16 [financialjuice] ECB's Lagarde: We are monitoring attentively the bond market, particularly the long end
+- 09/10 22:17 [financialjuice] ECB's Lagarde: Surprised by economic resilience.
+- 09/10 22:17 [financialjuice] ECB's Lagarde: post-cutoff data suggest even higher 2026 growth than in projection.
+- 09/10 22:17 [FirstSquawk] LAGARDE: ECB WAS SURPRISED BY LOWER THAN EXPECTED INFLATION
+- 09/10 22:18 [financialjuice] ECB's Lagarde: Inflation has been lower recently than anticipated, especially food.
+- 09/10 22:18 [financialjuice] ECB's Lagarde: The ECB was surprised by longer-lasting inflation.
+- 09/10 22:21 [financialjuice] ECB's Lagarde: Very hopeful digital euro legislation voted on before year-end.
+- 09/10 22:21 [financialjuice] ❗ Yemen's Houthis reached the Red Sea islands of Hanish - Two Yemeni governmental military sources
+- 09/10 22:21 [financialjuice/FirstSquawk] ❗ Traders see more than 50% chance of ECB hike in October.
+- 09/10 22:22 [FirstSquawk] LAGARDE: VERY HOPEFUL DIGITAL EURO LAW WILL PASS BY YEAR-END
+- 09/10 22:22 [financialjuice] ECB's Lagarde: Won't comment on any FX intervention.
+- 09/10 22:23 [financialjuice] ECB's Lagarde: Euro-Yen intervention had a volume of €500m.
