@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 00:18 JST／対象: 09/10 00:18 〜 09/11 00:18 JST（時刻はすべて日本時間）
+生成: 2026-09-11 00:33 JST／対象: 09/10 00:33 〜 09/11 00:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 70 | 09/10 01:05 | 09/10 23:45 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 382 | 09/10 00:18 | 09/11 00:14 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 339 | 09/10 00:19 | 09/11 00:14 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 380 | 09/10 01:01 | 09/11 00:31 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 338 | 09/10 00:35 | 09/11 00:33 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 769 行（統合前 798 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 766 行（統合前 794 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 00:18 [FirstSquawk] RUSSIA'S NOVOROSSIYSK GRAIN TERMINAL WAS HIT BY A DRONE ATTACK, CAUSING DAMAGE.
-- 09/10 00:19 [financialjuice] US Treasury Buyback Announcement
-- 09/10 00:19 [FirstSquawk] AMAZON AND WIWYNN PLAN TO EXPAND AN ADVANCED MANUFACTURING FACILITY IN TEXAS, ADDING NEARLY 1,000 JOBS AND STRENGTHENING THE US SUPPLY CHAIN.
-- 09/10 00:22 [financialjuice] The Treasury updates the buyback schedule to show long term operations of at least $4b.
-- 09/10 00:31 [financialjuice] Pakistan's Defense Minister Expresses Hope for a Lasting Resolution to Issues Between Saudi Arabia and Yemen - IRNA
-- 09/10 00:31 [financialjuice] Pakistan Defense Minister reaffirms commitment to joint defense agreement with Saudi Arabia and Turkey - IRNA
-- 09/10 00:32 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 1.36%; GERMANY'S DAX DOWN 1.74%
-- 09/10 00:32 [FirstSquawk] FRANCE'S CAC 40 DOWN 1.87%; SPAIN'S IBEX DOWN 1.58%
 - 09/10 00:35 [financialjuice] Buyback increase is part of ongoing approach - Fox Business.
 - 09/10 00:36 [financialjuice] Fox Business cites Trump Admin Official on buyback announcement.
 - 09/10 01:01 [FirstSquawk] WHITE HOUSE REFUTES FINANCIAL TIMES REPORT ABOUT RATCLIFFE AND RUSSIA-UKRAINE DISCUSSIONS.
@@ -793,3 +785,8 @@
 - 09/11 00:04 [FirstSquawk] IMF URGES CENTRAL BANKERS TO PRIORITIZE PRICE STABILITY AND ADVOCATES FOR MEDIUM-TERM CONSOLIDATION PLANS FROM FISCAL AUTHORITIES.
 - 09/11 00:14 [financialjuice] ❗ ECB Officials expect more tightening with October in play.
 - 09/11 00:14 [FirstSquawk] ECB OFFICIALS ANTICIPATE FURTHER INTEREST RATE HIKES AS OCTOBER APPROACHES.
+- 09/11 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.55%; GERMANY'S DAX DOWN 0.69%
+- 09/11 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.44%; SPAIN'S IBEX DOWN 0.01%
+- 09/11 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.81 (FORECAST -, PREVIOUS 2.970) $MACRO
+- 09/11 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.775% (FORECAST -, PREVIOUS 3.700%) $MACRO
+- 09/11 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.775% Bid-to-cover 2.91 Sells $90 bln Awards 34.21% of bids at high

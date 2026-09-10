@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 00:18 JST／対象: 09/10 18:18 〜 09/11 00:18 JST（時刻はすべて日本時間）
+生成: 2026-09-11 00:33 JST／対象: 09/10 18:33 〜 09/11 00:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 09/10 18:19 | 09/10 23:45 | 29分（18:21→18:50） |
-| FirstSquawk | 109 | 09/10 18:28 | 09/11 00:14 | 18分（20:15→20:33） |
-| financialjuice | 162 | 09/10 18:27 | 09/11 00:14 | ⚠ 46分（18:42→19:28） |
+| DeItaone | 30 | 09/10 18:50 | 09/10 23:45 | 29分（22:07→22:36） |
+| FirstSquawk | 109 | 09/10 18:38 | 09/11 00:31 | 18分（20:15→20:33） |
+| financialjuice | 164 | 09/10 18:42 | 09/11 00:33 | ⚠ 46分（18:42→19:28） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 287 行（統合前 308 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 18:19 [DeItaone] $AAPL - WALL STREET WEIGHS APPLE’S $1,999 FOLDABLE IPHONE Apple’s new iPhone Duo is drawing differing views from Wall Street. JPMorgan — Overweight, $340 PT: Sees Apple’s software-hardware integration giving the Duo an edge over Android fol…
-- 09/10 18:21 [DeItaone] FRANCE'S 10-YEAR GOVERNMENT BOND YIELD HITS HIGHEST SINCE OCTOBER 2008 AT 4.3443%, UP 1 BP
-- 09/10 18:27 [financialjuice] Japan cabinet to approve tax reform outline on September 15 - Kyodo
-- 09/10 18:28 [FirstSquawk] EU PLAN AIMS TO REDUCE RUSSIA MEDICAL RADIOISOTOPE DEPENDENCY
-- 09/10 18:31 [FirstSquawk] JAPAN'S CABINET WILL DECIDE ON TAX REFORM DETAILS ON SEPTEMBER 15TH, ACCORDING TO KYODO.
 - 09/10 18:38 [FirstSquawk] Europe Gas Prices Reach Highest Level Since Dec. 2022
 - 09/10 18:42 [financialjuice] UK Government: Houthis bear full responsibility for Yemen crisis.
 - 09/10 18:50 [DeItaone] TRUMP PLEDGES $5,000 DIVIDEND IF GOP WINS MIDTERMS President Donald Trump pledged a $5,000 payment to every U.S. adult citizen if Republicans retain control of both chambers of Congress, a plan estimated to cost around $1.2 trillion. Trump …
@@ -311,3 +306,8 @@
 - 09/11 00:04 [FirstSquawk] IMF URGES CENTRAL BANKERS TO PRIORITIZE PRICE STABILITY AND ADVOCATES FOR MEDIUM-TERM CONSOLIDATION PLANS FROM FISCAL AUTHORITIES.
 - 09/11 00:14 [financialjuice] ❗ ECB Officials expect more tightening with October in play.
 - 09/11 00:14 [FirstSquawk] ECB OFFICIALS ANTICIPATE FURTHER INTEREST RATE HIKES AS OCTOBER APPROACHES.
+- 09/11 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.55%; GERMANY'S DAX DOWN 0.69%
+- 09/11 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.44%; SPAIN'S IBEX DOWN 0.01%
+- 09/11 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.81 (FORECAST -, PREVIOUS 2.970) $MACRO
+- 09/11 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.775% (FORECAST -, PREVIOUS 3.700%) $MACRO
+- 09/11 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.775% Bid-to-cover 2.91 Sells $90 bln Awards 34.21% of bids at high
