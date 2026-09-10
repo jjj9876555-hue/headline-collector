@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-10 23:53 JST／対象: 09/09 23:53 〜 09/10 23:53 JST（時刻はすべて日本時間）
+生成: 2026-09-11 00:18 JST／対象: 09/10 00:18 〜 09/11 00:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 70 | 09/10 01:05 | 09/10 23:45 | ⚠ 619分（06:22→16:41） |
-| FirstSquawk | 382 | 09/09 23:55 | 09/10 23:44 | ⚠ 126分（05:28→07:34） |
-| financialjuice | 338 | 09/09 23:55 | 09/10 23:42 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 382 | 09/10 00:18 | 09/11 00:14 | ⚠ 126分（05:28→07:34） |
+| financialjuice | 339 | 09/10 00:19 | 09/11 00:14 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 768 行（統合前 797 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 769 行（統合前 798 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/09 23:55 [financialjuice] The White House is considering paring back the involvement of US special envoy Witkoff and Kushner in talks with Moscow and Kyiv - FT.
-- 09/09 23:55 [FirstSquawk] AMAZON LEO HAS PLACED AN ORDER FOR 6 NEW ARIANE 64 LAUNCHES FROM ARIANESPACE.
-- 09/09 23:55 [FirstSquawk] AMAZON AND WIWYNN PLAN TO GROW THEIR SERVER RACK FACILITY IN TEXAS, ACCORDING TO WSJ.
-- 09/09 23:55 [FirstSquawk] WIWYNN PLANS TO INVEST MORE THAN $1.6 BILLION IN A SERVER FACILITY LOCATED IN TEXAS, ACCORDING TO WSJ.
-- 09/09 23:56 [financialjuice] US spy chief prepares for greater role in Russia-Ukraine talks - FT
-- 09/10 00:02 [financialjuice] ❗ Us treasury to buy back up to $6b in longer-dated debt Thursday
-- 09/10 00:02 [financialjuice] ❗ US Treasury to buy back up to $6 bln in longer-dated debt Thursday vs previous $4 bln per operation
-- 09/10 00:03 [financialjuice] ❗ US Treasury: Will buy up to $6 bln in 10 to 20 Yr liquidity buyback operation on September 10th.
-- 09/10 00:10 [financialjuice] ❗ US Treasury to buy back up to $6 bln in longer-dated debt Thursday. US previously said buyback to be at least $4 bln per operation
-- 09/10 00:14 [FirstSquawk] US TREASURY TO PURCHASE UP TO $6 BILLION IN 10 TO 20-YEAR BONDS ON SEPTEMBER 10TH.
-- 09/10 00:14 [FirstSquawk] S&P 500 DROPS BY 0.5%; NASDAQ 100 FALLS BY 0.4%.
-- 09/10 00:14 [FirstSquawk] LOCKHEED MARTIN RECEIVES $1.32 BILLION CONTRACT TO DEVELOP AUSTRALIA'S JOINT AIR BATTLE MANAGEMENT SYSTEM.
 - 09/10 00:18 [FirstSquawk] RUSSIA'S NOVOROSSIYSK GRAIN TERMINAL WAS HIT BY A DRONE ATTACK, CAUSING DAMAGE.
 - 09/10 00:19 [financialjuice] US Treasury Buyback Announcement
 - 09/10 00:19 [FirstSquawk] AMAZON AND WIWYNN PLAN TO EXPAND AN ADVANCED MANUFACTURING FACILITY IN TEXAS, ADDING NEARLY 1,000 JOBS AND STRENGTHENING THE US SUPPLY CHAIN.
@@ -792,3 +780,16 @@
 - 09/10 23:43 [FirstSquawk] YEMEN'S HOUTHI CONTROLLED HUMANITARIAN OPERATIONS CENTRE ANNOUNCES THAT NAVIGATION IN THE RED SEA IS SAFE FOR ALL SHIPPING COMPANIES EXCEPT SAUDI VESSELS.
 - 09/10 23:44 [FirstSquawk] DIESEL FUTURES TOP $5/GAL FOR FIRST TIME SINCE 2022
 - 09/10 23:45 [DeItaone] TRUMP SITS DOWN FOR EXCLUSIVE INGRAHAM INTERVIEW President Donald Trump has given Laura Ingraham an exclusive interview, with Part One airing tonight at 7 PM ET on The Ingraham Angle. Fox’s current schedule confirms the program’s 7 PM ET sl…
+- 09/11 00:00 [FirstSquawk] EU'S VON DER LEYEN WILL DISCUSS SOCIAL MEDIA PLAN IN NEXT WEEK'S STATE OF UNION SPEECH.
+- 09/11 00:00 [financialjuice] IMF: Global inflation expectations have risen but remain well-anchored over the longer run.
+- 09/11 00:01 [financialjuice] IMF: Global growth remains on track to reach about 3% in 2026, but risks remain high.
+- 09/11 00:01 [financialjuice] IMF: Energy shock from war in the Middle East is not over; global debt pressures are mounting, and the disinflation process has stalled.
+- 09/11 00:01 [financialjuice] IMF: We are advising central bankers to remain focused on price stability mandates; encouraging fiscal authorities to have medium-term consolidation plans.
+- 09/11 00:02 [financialjuice] US to sell $19 bln reopened 10-Year TIPS on September 17th, to settle on September 30th
+- 09/11 00:02 [financialjuice] US Treasury Announces Bill and Bond Auction Sizes US Treasury to sell $92 billion of 3-month bills on September 14, settling September 17 US Treasury to sell $79 billion of 6-month bills on September 14, settling September 17 US Treasury to…
+- 09/11 00:04 [FirstSquawk] IMF REPORTS THAT GLOBAL INFLATION EXPECTATIONS HAVE INCREASED BUT ARE STILL STABLE FOR THE LONG TERM.
+- 09/11 00:04 [FirstSquawk] IMF PREDICTS GLOBAL GROWTH WILL HIT AROUND 3% BY 2026, BUT RAISES CONCERNS ABOUT HIGH RISKS.
+- 09/11 00:04 [FirstSquawk] IMF REPORTS THAT THE ENERGY CRISIS FROM THE MIDDLE EAST CONFLICT CONTINUES; GLOBAL DEBT IS INCREASING, AND DISINFLATION HAS STOPPED.
+- 09/11 00:04 [FirstSquawk] IMF URGES CENTRAL BANKERS TO PRIORITIZE PRICE STABILITY AND ADVOCATES FOR MEDIUM-TERM CONSOLIDATION PLANS FROM FISCAL AUTHORITIES.
+- 09/11 00:14 [financialjuice] ❗ ECB Officials expect more tightening with October in play.
+- 09/11 00:14 [FirstSquawk] ECB OFFICIALS ANTICIPATE FURTHER INTEREST RATE HIKES AS OCTOBER APPROACHES.

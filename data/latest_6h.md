@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-10 23:53 JST／対象: 09/10 17:53 〜 09/10 23:53 JST（時刻はすべて日本時間）
+生成: 2026-09-11 00:18 JST／対象: 09/10 18:18 〜 09/11 00:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 09/10 18:05 | 09/10 23:45 | 29分（18:21→18:50） |
-| FirstSquawk | 108 | 09/10 17:55 | 09/10 23:44 | 18分（20:15→20:33） |
-| financialjuice | 159 | 09/10 17:53 | 09/10 23:42 | ⚠ 46分（18:42→19:28） |
+| DeItaone | 32 | 09/10 18:19 | 09/10 23:45 | 29分（18:21→18:50） |
+| FirstSquawk | 109 | 09/10 18:28 | 09/11 00:14 | 18分（20:15→20:33） |
+| financialjuice | 162 | 09/10 18:27 | 09/11 00:14 | ⚠ 46分（18:42→19:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 285 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 287 行（統合前 308 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 17:53 [financialjuice] US AI safety bill may be introduced early as next week - Semafor
-- 09/10 17:55 [FirstSquawk] RYANAIR CEO: WE WILL BE DOWN VERY LOW SINGLE DIGITS IN Q2
-- 09/10 17:59 [financialjuice] China warns industrial companies against disorderly price competition.
-- 09/10 17:59 [financialjuice] China to conduct cost probe in major industrial-product sectors.
-- 09/10 18:01 [FirstSquawk] RUSSIAN DEFENSE MINISTRY CLAIMS CONTROL OF ZARUBINKA TOWN IN KHARKIV REGION.
-- 09/10 18:04 [financialjuice] OpenAI faces GOP-led senate probe re hugging face breach - Axios
-- 09/10 18:05 [DeItaone] CHINA CENTRAL BANK: TO CARRY OUT UP TO 600 BLN YUAN PER DAY OF OVERNIGHT REVERSE REPOS ON SEP 14-17
-- 09/10 18:07 [FirstSquawk] CHINA, US JOINTLY CRACK CROSS-BORDER DRUG CASE- CCTV
-- 09/10 18:08 [FirstSquawk] BRIAN FITZPATRICK'S DEMOCRATIC OPPONENT AIMS TO FOCUS THE CAMPAIGN ON DATA CENTERS.
-- 09/10 18:15 [FirstSquawk] IRAN CAN TAKE "SPECIAL MEASURES" IN RESPONSE TO IAEA'S RESOLUTION AND MAY CONSIDER ACTION, SAID LAWMAKER SOMAYEH RAFIEI.
-- 09/10 18:16 [DeItaone] $PLTR $NVDA - PALANTIR, NVIDIA TEAM UP ON SUPPLY-CHAIN AI Palantir and Nvidia are partnering to bring AI capabilities to critical supply chains, starting with Nvidia’s own operations. The companies will integrate Nvidia’s Nemotron models in…
 - 09/10 18:19 [DeItaone] $AAPL - WALL STREET WEIGHS APPLE’S $1,999 FOLDABLE IPHONE Apple’s new iPhone Duo is drawing differing views from Wall Street. JPMorgan — Overweight, $340 PT: Sees Apple’s software-hardware integration giving the Duo an edge over Android fol…
 - 09/10 18:21 [DeItaone] FRANCE'S 10-YEAR GOVERNMENT BOND YIELD HITS HIGHEST SINCE OCTOBER 2008 AT 4.3443%, UP 1 BP
 - 09/10 18:27 [financialjuice] Japan cabinet to approve tax reform outline on September 15 - Kyodo
@@ -309,3 +298,16 @@
 - 09/10 23:43 [FirstSquawk] YEMEN'S HOUTHI CONTROLLED HUMANITARIAN OPERATIONS CENTRE ANNOUNCES THAT NAVIGATION IN THE RED SEA IS SAFE FOR ALL SHIPPING COMPANIES EXCEPT SAUDI VESSELS.
 - 09/10 23:44 [FirstSquawk] DIESEL FUTURES TOP $5/GAL FOR FIRST TIME SINCE 2022
 - 09/10 23:45 [DeItaone] TRUMP SITS DOWN FOR EXCLUSIVE INGRAHAM INTERVIEW President Donald Trump has given Laura Ingraham an exclusive interview, with Part One airing tonight at 7 PM ET on The Ingraham Angle. Fox’s current schedule confirms the program’s 7 PM ET sl…
+- 09/11 00:00 [FirstSquawk] EU'S VON DER LEYEN WILL DISCUSS SOCIAL MEDIA PLAN IN NEXT WEEK'S STATE OF UNION SPEECH.
+- 09/11 00:00 [financialjuice] IMF: Global inflation expectations have risen but remain well-anchored over the longer run.
+- 09/11 00:01 [financialjuice] IMF: Global growth remains on track to reach about 3% in 2026, but risks remain high.
+- 09/11 00:01 [financialjuice] IMF: Energy shock from war in the Middle East is not over; global debt pressures are mounting, and the disinflation process has stalled.
+- 09/11 00:01 [financialjuice] IMF: We are advising central bankers to remain focused on price stability mandates; encouraging fiscal authorities to have medium-term consolidation plans.
+- 09/11 00:02 [financialjuice] US to sell $19 bln reopened 10-Year TIPS on September 17th, to settle on September 30th
+- 09/11 00:02 [financialjuice] US Treasury Announces Bill and Bond Auction Sizes US Treasury to sell $92 billion of 3-month bills on September 14, settling September 17 US Treasury to sell $79 billion of 6-month bills on September 14, settling September 17 US Treasury to…
+- 09/11 00:04 [FirstSquawk] IMF REPORTS THAT GLOBAL INFLATION EXPECTATIONS HAVE INCREASED BUT ARE STILL STABLE FOR THE LONG TERM.
+- 09/11 00:04 [FirstSquawk] IMF PREDICTS GLOBAL GROWTH WILL HIT AROUND 3% BY 2026, BUT RAISES CONCERNS ABOUT HIGH RISKS.
+- 09/11 00:04 [FirstSquawk] IMF REPORTS THAT THE ENERGY CRISIS FROM THE MIDDLE EAST CONFLICT CONTINUES; GLOBAL DEBT IS INCREASING, AND DISINFLATION HAS STOPPED.
+- 09/11 00:04 [FirstSquawk] IMF URGES CENTRAL BANKERS TO PRIORITIZE PRICE STABILITY AND ADVOCATES FOR MEDIUM-TERM CONSOLIDATION PLANS FROM FISCAL AUTHORITIES.
+- 09/11 00:14 [financialjuice] ❗ ECB Officials expect more tightening with October in play.
+- 09/11 00:14 [FirstSquawk] ECB OFFICIALS ANTICIPATE FURTHER INTEREST RATE HIKES AS OCTOBER APPROACHES.
