@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 14:03 JST／対象: 09/11 08:03 〜 09/11 14:03 JST（時刻はすべて日本時間）
+生成: 2026-09-11 14:24 JST／対象: 09/11 08:24 〜 09/11 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/11 08:32 | 09/11 08:48 | 7分（08:32→08:39） |
-| FirstSquawk | 78 | 09/11 09:00 | 09/11 13:50 | 15分（12:10→12:25） |
+| FirstSquawk | 83 | 09/11 09:00 | 09/11 14:23 | 15分（13:50→14:06） |
 | financialjuice | 19 | 09/11 08:50 | 09/11 10:47 | 27分（09:00→09:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 107 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -126,3 +126,8 @@
 - 09/11 13:44 [FirstSquawk] JPMorgan trims its RH price target by $22 to $190.
 - 09/11 13:49 [FirstSquawk] Australia’s proposed data-center rules could increase execution risks, according to Fitch Ratings.
 - 09/11 13:50 [FirstSquawk] South Korean President Lee set to hold Central Asia summit on September 16, media says.
+- 09/11 14:06 [FirstSquawk] YEN’S NEAR-TERM OUTLOOK DEPENDS ON BOJ SEPTEMBER GUIDANCE-WSJ
+- 09/11 14:07 [FirstSquawk] VANCE FIRES UP REPUBLICANS AS TRUMP CLOSES OUT GOP CONVENTION-WSJ
+- 09/11 14:09 [FirstSquawk] Seoul and Tehran’s foreign ministers hold phone talks, according to Yonhap.
+- 09/11 14:10 [FirstSquawk] South Korea and Iran hold talks focused on the Strait of Hormuz, foreign ministry says.
+- 09/11 14:23 [FirstSquawk] Russia’s Tula region reports 2 dead and 3 injured after Ukrainian drone attack.

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 14:03 JST／対象: 09/10 14:03 〜 09/11 14:03 JST（時刻はすべて日本時間）
+生成: 2026-09-11 14:24 JST／対象: 09/10 14:24 〜 09/11 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/10 16:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 360 | 09/10 14:15 | 09/11 13:50 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 282 | 09/10 14:17 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 361 | 09/10 14:28 | 09/11 14:23 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 281 | 09/10 14:38 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 679 行（統合前 707 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 14:15 [FirstSquawk] Hong Kong stocks face wild swings as investors see little chance of state intervention.
-- 09/10 14:16 [FirstSquawk] Beijing rejects US accusations of AI technology copying and threatens retaliation.
-- 09/10 14:17 [financialjuice] China chipmakers raised prices for AI processors, including Huawei and Cambricon.
-- 09/10 14:17 [FirstSquawk] Finnish industrial output grows 4.5% year on year in July, data shows.
-- 09/10 14:21 [FirstSquawk] Rising crude prices are putting pressure on Asian equities, with oil above $100 adding to inflation concerns.
 - 09/10 14:28 [FirstSquawk] AI-driven data-center expansion is fueling interest in nuclear power, putting renewed upward pressure on uranium prices.
 - 09/10 14:36 [FirstSquawk] TSMC posted record August revenue, with sales surging more than 53% year on year as per CNBC
 - 09/10 14:38 [FirstSquawk] BOJ’s Masu says inflation is moving closer to 2%, while a sharp rise beyond the target is not currently anticipated.
@@ -703,3 +698,8 @@
 - 09/11 13:44 [FirstSquawk] JPMorgan trims its RH price target by $22 to $190.
 - 09/11 13:49 [FirstSquawk] Australia’s proposed data-center rules could increase execution risks, according to Fitch Ratings.
 - 09/11 13:50 [FirstSquawk] South Korean President Lee set to hold Central Asia summit on September 16, media says.
+- 09/11 14:06 [FirstSquawk] YEN’S NEAR-TERM OUTLOOK DEPENDS ON BOJ SEPTEMBER GUIDANCE-WSJ
+- 09/11 14:07 [FirstSquawk] VANCE FIRES UP REPUBLICANS AS TRUMP CLOSES OUT GOP CONVENTION-WSJ
+- 09/11 14:09 [FirstSquawk] Seoul and Tehran’s foreign ministers hold phone talks, according to Yonhap.
+- 09/11 14:10 [FirstSquawk] South Korea and Iran hold talks focused on the Strait of Hormuz, foreign ministry says.
+- 09/11 14:23 [FirstSquawk] Russia’s Tula region reports 2 dead and 3 injured after Ukrainian drone attack.
