@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 01:26 JST／対象: 09/11 19:26 〜 09/12 01:26 JST（時刻はすべて日本時間）
+生成: 2026-09-12 01:44 JST／対象: 09/11 19:44 〜 09/12 01:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/11 19:41 | 09/11 23:00 | 33分（20:57→21:30） |
-| FirstSquawk | 46 | 09/11 19:31 | 09/12 01:22 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 76 | 09/11 19:30 | 09/12 01:08 | 27分（19:33→20:01） |
+| DeItaone | 27 | 09/11 20:06 | 09/11 23:00 | 33分（20:57→21:30） |
+| FirstSquawk | 46 | 09/11 19:56 | 09/12 01:35 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 78 | 09/11 20:01 | 09/12 01:33 | 25分（00:26→00:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 149 行（統合前 150 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 150 行（統合前 151 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 19:30 [financialjuice] RUSSIAN INTEREST RATE DECISION ACTUAL 14.00% (FORECAST 14%, PREVIOUS 14.00%) $MACRO
-- 09/11 19:31 [FirstSquawk] RUSSIAN CENTRAL BANK KEEPS KEY INTEREST RATE UNCHANGED AT 14.00%, SAME AS ESTIMATE.
-- 09/11 19:31 [FirstSquawk] https://t.co/jQvxnPAPkA PLANS TO SELL APPROXIMATELY 21.97 MILLION H SHARES AT HK$714 EACH.
-- 09/11 19:33 [financialjuice] ECB's Makhlouf: Longer Iran war risks keeping inflation elevated.
-- 09/11 19:38 [FirstSquawk] MAKHLOUF WARNS THAT A PROLONGED TRADE WAR MAY KEEP INFLATION HIGH.
-- 09/11 19:38 [FirstSquawk] ECB'S MAKHLOUF SAYS FURTHER RATE HIKES MIGHT DAMAGE ECONOMIC GROWTH.
-- 09/11 19:41 [DeItaone] AI USED TO SUPPORT MISSILE DEVELOPMENT IN YEMEN Anthropic says it uncovered a northern Yemen-based group using Claude to assist with missile and rocket development, including guidance and navigation software. The group reportedly worked on …
 - 09/11 19:56 [FirstSquawk] Kroger Q2 2026 Earnings - Adj EPS $1.09 (est $1.05) - Sales $34.6B (est $34.69B) - Identical-Store Sales Ex-Fuel +0.2% (est +0.88%) - Still Sees FY Adj EPS $5.10 To $5.30 (est $5.22) - Still Sees FY CAPEX $3.8B To $4.03 (est $3.95B)
 - 09/11 20:01 [financialjuice] EU put on hold proposal for trade measure on aluminum scrap.
 - 09/11 20:04 [FirstSquawk] GERMAN UNION IG METALL IS USING A REVISION CLAUSE TO DISCUSS WITH VOLKSWAGEN IF THEY WILL KEEP THEIR AGREEMENT.
@@ -173,3 +166,11 @@
 - 09/12 01:08 [financialjuice] Apple: Starting September 12th at 5 AM PT, customers can pre-order iPhone 18 Pro & iPhone 18 Pro Max on Apple .com and in the Apple Store App. $AAPL
 - 09/12 01:09 [FirstSquawk] APPLE INC WILL ALLOW CUSTOMERS TO PRE-ORDER THE IPHONE 18 PRO AND IPHONE 18 PRO MAX ON https://t.co/LJMqx4c7ya AND THE APP AT 5 A.M. PT ON SEPTEMBER 12.
 - 09/12 01:22 [FirstSquawk] GERMANY EXPLORES PHARMA PROPOSAL WITH TEAM TRUMP AS TARIFF THREAT LOOMS - POLITICO
+- 09/12 01:28 [financialjuice] US Commerce Secretary Lutnick: The US could try to 'earn' money for $5,000 checks, it won't rely on tax funds - NBC.
+- 09/12 01:28 [FirstSquawk] US MAY ATTEMPT TO 'EARN' FUNDS FOR $5,000 PAYMENTS: LUTNICK TO NBC.
+- 09/12 01:28 [FirstSquawk] LUTNICK TOLD NBC ON THURSDAY THAT $5,000 PAYMENTS WILL NOT DEPEND ON TAX DOLLARS.
+- 09/12 01:30 [financialjuice] US Commerce Secretary Lutnick when asked about $5k payments, cites the US' Intel stake - NBC.
+- 09/12 01:32 [financialjuice] Saudi Arabia oil pipeline was struck by projectiles yesterday - CNN.
+- 09/12 01:33 [financialjuice] Saudi Arabian oil pipeline system hit by projectiles, triggering fires - CNN
+- 09/12 01:34 [FirstSquawk] SAUDI ARABIA OIL PIPELINE STRUCK BY PROJECTILES THURSDAY - CNN
+- 09/12 01:35 [FirstSquawk] SAUDI ARABIA PUMP STATIONS NEXT TO PIPELINE WERE HIT - CNN

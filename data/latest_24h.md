@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 01:26 JST／対象: 09/11 01:26 〜 09/12 01:26 JST（時刻はすべて日本時間）
+生成: 2026-09-12 01:44 JST／対象: 09/11 01:44 〜 09/12 01:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 66 | 09/11 01:33 | 09/11 23:00 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 302 | 09/11 01:36 | 09/12 01:22 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 187 | 09/11 01:35 | 09/12 01:08 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 63 | 09/11 01:49 | 09/11 23:00 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 301 | 09/11 01:53 | 09/12 01:35 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 187 | 09/11 01:52 | 09/12 01:33 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 545 行（統合前 556 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 541 行（統合前 552 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 01:33 [DeItaone] PENTAGON REJECTS AI “DOOMSDAY” WARNINGS Pentagon tech chief Emil Michael pushed back on warnings that AI could destroy humanity, calling fears of mass job losses and runaway AI part of a growing “doom loop.” Meanwhile, the Pentagon has alre…
-- 09/11 01:35 [financialjuice] ❗ Iran has resumed producing ballistic missiles - US and Middle East Officials cited by the WSJ
-- 09/11 01:35 [financialjuice] Iran producing ballistic missiles again - WSJ.
-- 09/11 01:36 [FirstSquawk] IRAN IS AGAIN MANUFACTURING BALLISTIC MISSILES, REVEALS WSJ.
-- 09/11 01:36 [FirstSquawk] IRAN IS PRODUCING NEW MISSILES IN SMALL NUMBERS, REPORTS WSJ.
-- 09/11 01:36 [DeItaone] U.S. AND MIDDLE EAST OFFICIALS SAID IRAN HAS RESUMED PRODUCING BALLISTIC MISSILES IN UNDERGROUND FACILITIES USING STOCKPILED COMPONENTS- WSJ
-- 09/11 01:36 [FirstSquawk] IRAN IS MANUFACTURING MISSILES USING COMPONENTS THEY HAD STORED, ACCORDING TO WSJ.
-- 09/11 01:36 [financialjuice] US and Middle East Officials: Iran Has resumed producing ballistic missiles in underground facilities using stockpiled components - WSJ.
-- 09/11 01:37 [financialjuice] Arab and Israeli officials are bracing for continued fighting - WSJ.
-- 09/11 01:41 [FirstSquawk] MACY'S WILL REINVEST $96 MILLION FROM TARIFF REFUNDS INTO ITS OPERATIONS, SAYS WSJ.
-- 09/11 01:41 [FirstSquawk] MACY'S WILL REDUCE PRICES ON FURNITURE AND JEWELRY DUE TO TARIFF EFFECTS, ACCORDING TO WSJ.
-- 09/11 01:44 [DeItaone] IRAN STRIKE DAMAGES U.S. WARPLANES IN JORDAN Iranian strikes on a U.S. base in Jordan damaged multiple American military aircraft, a U.S. official told Reuters. One A-10 lost a wing, while roughly eight F-15s sustained light damage and retu…
 - 09/11 01:49 [DeItaone] U.S. DIESEL SURGES ABOVE $5 AS SUPPLY SQUEEZE DEEPENS U.S. diesel futures surged above $5 a gallon for the first time since 2022, as Middle East disruptions and Russia’s export ban tighten global supplies. Retail diesel has already hit a re…
 - 09/11 01:51 [DeItaone] IRGC CLAIMS U.S. DRONE DESTROYED IN HORMUZ Iran’s IRGC Navy claims it destroyed a U.S. unmanned vessel at the entrance to the Strait of Hormuz, identifying it as hull number 5838. The IRGC also declared that Hormuz remains blocked and under…
 - 09/11 01:52 [financialjuice] IRGC: Strait of Hormuz is blocked and under our intelligent control and information dominance, and any hostile presence in this strategic Strait will be targeted - IRIB.
@@ -569,3 +557,11 @@
 - 09/12 01:08 [financialjuice] Apple: Starting September 12th at 5 AM PT, customers can pre-order iPhone 18 Pro & iPhone 18 Pro Max on Apple .com and in the Apple Store App. $AAPL
 - 09/12 01:09 [FirstSquawk] APPLE INC WILL ALLOW CUSTOMERS TO PRE-ORDER THE IPHONE 18 PRO AND IPHONE 18 PRO MAX ON https://t.co/LJMqx4c7ya AND THE APP AT 5 A.M. PT ON SEPTEMBER 12.
 - 09/12 01:22 [FirstSquawk] GERMANY EXPLORES PHARMA PROPOSAL WITH TEAM TRUMP AS TARIFF THREAT LOOMS - POLITICO
+- 09/12 01:28 [financialjuice] US Commerce Secretary Lutnick: The US could try to 'earn' money for $5,000 checks, it won't rely on tax funds - NBC.
+- 09/12 01:28 [FirstSquawk] US MAY ATTEMPT TO 'EARN' FUNDS FOR $5,000 PAYMENTS: LUTNICK TO NBC.
+- 09/12 01:28 [FirstSquawk] LUTNICK TOLD NBC ON THURSDAY THAT $5,000 PAYMENTS WILL NOT DEPEND ON TAX DOLLARS.
+- 09/12 01:30 [financialjuice] US Commerce Secretary Lutnick when asked about $5k payments, cites the US' Intel stake - NBC.
+- 09/12 01:32 [financialjuice] Saudi Arabia oil pipeline was struck by projectiles yesterday - CNN.
+- 09/12 01:33 [financialjuice] Saudi Arabian oil pipeline system hit by projectiles, triggering fires - CNN
+- 09/12 01:34 [FirstSquawk] SAUDI ARABIA OIL PIPELINE STRUCK BY PROJECTILES THURSDAY - CNN
+- 09/12 01:35 [FirstSquawk] SAUDI ARABIA PUMP STATIONS NEXT TO PIPELINE WERE HIT - CNN

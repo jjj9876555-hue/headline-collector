@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 01:26 JST／対象: 09/11 13:26 〜 09/12 01:26 JST（時刻はすべて日本時間）
+生成: 2026-09-12 01:44 JST／対象: 09/11 13:44 〜 09/12 01:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 46 | 09/11 15:05 | 09/11 23:00 | 37分（19:03→19:41） |
-| FirstSquawk | 157 | 09/11 13:31 | 09/12 01:22 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 108 | 09/11 15:34 | 09/12 01:08 | ⚠ 55分（16:05→17:01） |
+| FirstSquawk | 156 | 09/11 13:44 | 09/12 01:35 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 112 | 09/11 15:34 | 09/12 01:33 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 307 行（統合前 311 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 310 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 13:31 [FirstSquawk] South Korea’s Han calls for mutual benefits and commercial returns from strategic investment talks with the U.S.
-- 09/11 13:32 [FirstSquawk] South Korea’s Han says discussions with Washington on strategic investment projects are advancing.
-- 09/11 13:32 [FirstSquawk] South Korea plans to ease regulatory hurdles and improve the investment environment for foreign investors, Han says.
-- 09/11 13:32 [FirstSquawk] South Korea’s Han says the government does not discriminate against firms based on nationality.
-- 09/11 13:33 [FirstSquawk] New Zealand currency strengthens 0.53% to $0.5829.
 - 09/11 13:44 [FirstSquawk] JPMorgan trims its RH price target by $22 to $190.
 - 09/11 13:49 [FirstSquawk] Australia’s proposed data-center rules could increase execution risks, according to Fitch Ratings.
 - 09/11 13:50 [FirstSquawk] South Korean President Lee set to hold Central Asia summit on September 16, media says.
@@ -331,3 +326,11 @@
 - 09/12 01:08 [financialjuice] Apple: Starting September 12th at 5 AM PT, customers can pre-order iPhone 18 Pro & iPhone 18 Pro Max on Apple .com and in the Apple Store App. $AAPL
 - 09/12 01:09 [FirstSquawk] APPLE INC WILL ALLOW CUSTOMERS TO PRE-ORDER THE IPHONE 18 PRO AND IPHONE 18 PRO MAX ON https://t.co/LJMqx4c7ya AND THE APP AT 5 A.M. PT ON SEPTEMBER 12.
 - 09/12 01:22 [FirstSquawk] GERMANY EXPLORES PHARMA PROPOSAL WITH TEAM TRUMP AS TARIFF THREAT LOOMS - POLITICO
+- 09/12 01:28 [financialjuice] US Commerce Secretary Lutnick: The US could try to 'earn' money for $5,000 checks, it won't rely on tax funds - NBC.
+- 09/12 01:28 [FirstSquawk] US MAY ATTEMPT TO 'EARN' FUNDS FOR $5,000 PAYMENTS: LUTNICK TO NBC.
+- 09/12 01:28 [FirstSquawk] LUTNICK TOLD NBC ON THURSDAY THAT $5,000 PAYMENTS WILL NOT DEPEND ON TAX DOLLARS.
+- 09/12 01:30 [financialjuice] US Commerce Secretary Lutnick when asked about $5k payments, cites the US' Intel stake - NBC.
+- 09/12 01:32 [financialjuice] Saudi Arabia oil pipeline was struck by projectiles yesterday - CNN.
+- 09/12 01:33 [financialjuice] Saudi Arabian oil pipeline system hit by projectiles, triggering fires - CNN
+- 09/12 01:34 [FirstSquawk] SAUDI ARABIA OIL PIPELINE STRUCK BY PROJECTILES THURSDAY - CNN
+- 09/12 01:35 [FirstSquawk] SAUDI ARABIA PUMP STATIONS NEXT TO PIPELINE WERE HIT - CNN
