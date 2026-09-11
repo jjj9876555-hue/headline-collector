@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 03:20 JST／対象: 09/11 21:20 〜 09/12 03:20 JST（時刻はすべて日本時間）
+生成: 2026-09-12 03:37 JST／対象: 09/11 21:37 〜 09/12 03:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/11 21:30 | 09/11 23:00 | 32分（21:52→22:25） |
-| FirstSquawk | 56 | 09/11 21:30 | 09/12 03:19 | 35分（23:55→00:31） |
-| financialjuice | 78 | 09/11 21:30 | 09/12 03:08 | 37分（02:21→02:58） |
+| DeItaone | 15 | 09/11 21:38 | 09/11 23:00 | 32分（21:52→22:25） |
+| FirstSquawk | 54 | 09/11 21:59 | 09/12 03:32 | 35分（23:55→00:31） |
+| financialjuice | 74 | 09/11 21:44 | 09/12 03:32 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 154 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 21:30 [financialjuice] ‼ BREAKING: US CPI MOM ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.1%) $MACRO
-- 09/11 21:30 [financialjuice] ❗ US CORE CPI MOM ACTUAL 0.3% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
-- 09/11 21:30 [FirstSquawk] US CPI (MOM) (AUG) ACTUAL: 0.4% VS 0.1% PREVIOUS; EST. 0.4%
-- 09/11 21:30 [financialjuice] ❗ US CPI YOY ACTUAL 3.4% (FORECAST 3.4%, PREVIOUS 3.4%) $MACRO
-- 09/11 21:30 [financialjuice] ❗ US CORE CPI YOY ACTUAL 2.4% (FORECAST 2.4%, PREVIOUS 2.5%) $MACRO
-- 09/11 21:30 [FirstSquawk] US CORE CPI (MOM) (AUG) ACTUAL: 0.3% VS 0.2% PREVIOUS; EST. 0.2%
-- 09/11 21:30 [DeItaone] *US AUG. CONSUMER PRICES RISE 0.4% M/M; EST. +0.4%
-- 09/11 21:30 [FirstSquawk] US CPI (YOY) (AUG) ACTUAL: 3.4% VS 3.4% PREVIOUS; EST. 3.4%
-- 09/11 21:30 [FirstSquawk] US CORE CPI (YOY) (AUG) ACTUAL: 2.4% VS 2.5% PREVIOUS; EST. 2.4%
-- 09/11 21:30 [DeItaone] *US AUG. CORE CPI RISES 0.3% M/M; EST. +0.2%
-- 09/11 21:31 [DeItaone] *US AUG. CORE CPI RISES 2.4% Y/Y; EST. +2.4%
-- 09/11 21:31 [DeItaone] *US AUG. CONSUMER PRICES RISE 3.4% Y/Y; EST. +3.4%
-- 09/11 21:31 [financialjuice] ❗ US Short-term interest-rate futures drop after inflation data as traders add to bets on September Fed rate hike.
-- 09/11 21:32 [financialjuice/DeItaone] ❗ Traders now see about a 90% chance of a Fed rate hike next week, vs about 70% before the inflation report.
-- 09/11 21:32 [financialjuice] US CPI August Report
-- 09/11 21:34 [financialjuice] ❗ Traders fully price in two Fed rate hikes by year-end
-- 09/11 21:34 [financialjuice] ❗ US Supercore CPI YoY: 2.84%, previous 2.84%
-- 09/11 21:35 [financialjuice] ❗ US Supercore CPI MoM: 0.51%, previous 0.19%
-- 09/11 21:36 [FirstSquawk] US SUPERCORE CPI ROSE TO 0.511% IN AUGUST FROM 0.189% LAST MONTH. YEARLY INCREASE NOW AT 3.022%, UP FROM 2.843%.
-- 09/11 21:36 [FirstSquawk] NASDAQ 100 FUTURES INCREASED BY 0.7%.
-- 09/11 21:36 [FirstSquawk] S&P 500 FUTURES INCREASE BY 0.56%, CORE CPI RISES MORE THAN EXPECTED.
-- 09/11 21:36 [DeItaone] 🚨 US INFLATION ACCELERATES — FED HIKE RISK RISES US inflation picked up in August, strengthening the case for another Fed rate hike next week. Headline CPI rose 0.4% M/M and 3.4% Y/Y, while core CPI increased 0.3% M/M. Gasoline was a key dr…
 - 09/11 21:38 [DeItaone] 🚨 US CPI: Inflation Comes In Hotter Than Expected August US inflation data delivered a firmer-than-expected headline reading, adding another complication to the Federal Reserve outlook. Headline CPI rose 0.396% M/M on an unrounded basis, ef…
 - 09/11 21:40 [DeItaone] PUTIN: WEST IS RESORTING TO DIRECT DESTRUCTION OF FACILITIES AND PIPELINES IN AN EFFORT TO MAINTAIN ITS ECONOMIC LEADERSHIP
 - 09/11 21:42 [DeItaone] US CORE INFLATION UPSIDE DRIVEN BY SUPERCORE The latest inflation details show the upside surprise was driven by supercore services, while core goods were softer than expected. Lodging was a notable upside outlier, while housing came in sof…
@@ -178,3 +156,14 @@
 - 09/12 03:08 [financialjuice] Yemeni military source: Saudi-backed mercenary positions in eastern Al-Jawf targeted, dozens of military vehicles set ablaze - Tasnim News
 - 09/12 03:09 [FirstSquawk] US COMMERCE CONFIRMS ILLEGAL SOLAR SUBSIDIES FROM INDIA
 - 09/12 03:19 [FirstSquawk] STELLANTIS, ROSHEL SIGN MOU FOR POSSIBLE SALE OF CANADA PLANT
+- 09/12 03:21 [FirstSquawk] JPMORGAN REVISES FED FORECAST; NOW SEES RATE HIKES IN SEPTEMBER, DECEMBER
+- 09/12 03:28 [financialjuice] ❗ Saudi Arabia: East-West pipeline shut down as a precaution.
+- 09/12 03:28 [FirstSquawk] SAUDI: EAST–WEST PIPELINE SHUT DOWN AS PRECAUTION AFTER ATTACK
+- 09/12 03:28 [financialjuice] Saudi Energy Ministry: East-West pipeline was temporarily shut down after several attacks on the pipeline in the Riyadh and Medina regions on Thursday.
+- 09/12 03:28 [FirstSquawk] SAUDI: EAST–WEST PIPELINE WAS HIT BY MULTIPLE ATTACKS THURSDAY
+- 09/12 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $100.05 a barrel down $2.43, 2.3%
+- 09/12 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.9593 a gallon
+- 09/12 03:32 [FirstSquawk] SAUDI: TAKING STEPS TO SECURE PIPELINE, ASSESS SAFETY
+- 09/12 03:32 [financialjuice] Saudi Arabia: Taking steps to secure pipeline, assess safety.
+- 09/12 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8310/MMBTU
+- 09/12 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $100.05/BBL, DOWN $2.43, 2.37%

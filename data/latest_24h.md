@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 03:20 JST／対象: 09/11 03:20 〜 09/12 03:20 JST（時刻はすべて日本時間）
+生成: 2026-09-12 03:37 JST／対象: 09/11 03:37 〜 09/12 03:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 55 | 09/11 03:30 | 09/11 23:00 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 297 | 09/11 03:37 | 09/12 03:19 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 174 | 09/11 03:31 | 09/12 03:08 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 54 | 09/11 03:41 | 09/11 23:00 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 302 | 09/11 03:37 | 09/12 03:32 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 172 | 09/11 03:44 | 09/12 03:32 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 520 行（統合前 527 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 522 行（統合前 529 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 03:30 [DeItaone] BRENT CRUDE FUTURES RISE BY $7 A BARREL AS US-IRAN CONFLICT INTENSIFIES
-- 09/11 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $5.0575 a gallon
-- 09/11 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.3932 a gallon
-- 09/11 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8340/MMBTU
-- 09/11 03:33 [financialjuice] US issues fresh Iran-related sanctions - Treasury website
-- 09/11 03:33 [financialjuice] US Official: Iranian or suspected Iranian oil on water averaged 110 mln barrels over past week vs 180 mln barrels before war.
-- 09/11 03:34 [financialjuice] US Official: Offloadings of Iranian oil down to 0.9 mb/d from 1.4 mb/d before war.
-- 09/11 03:34 [financialjuice] US Official: Loadings of Iranian oil at about 0.2 mln barrels per day over past 30 days, down from 1.8 mln barrels per day in January/February
-- 09/11 03:34 [financialjuice] US Treasury announces new sanctions against entities supporting Iran's proxies in Middle East, including Iraqi business executives.
 - 09/11 03:37 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN WILL TRAVEL TO NEW DELHI TOMORROW TO PARTICIPATE IN THE 18TH BRICS SUMMIT - FARS NEWS
 - 09/11 03:38 [FirstSquawk] ISRAEL'S PRIME MINISTER NETANYAHU: IDF DESTROYS HEZBOLLAH FACILITIES AT ALI TAHER RIDGE.
 - 09/11 03:39 [FirstSquawk] IRAN PRESIDENT PEZESHKIAN TO TRAVEL TO NEW DELHI ON FRIDAY FOR 18TH BRICS SUMMIT — FARS NEWS
@@ -544,3 +535,14 @@
 - 09/12 03:08 [financialjuice] Yemeni military source: Saudi-backed mercenary positions in eastern Al-Jawf targeted, dozens of military vehicles set ablaze - Tasnim News
 - 09/12 03:09 [FirstSquawk] US COMMERCE CONFIRMS ILLEGAL SOLAR SUBSIDIES FROM INDIA
 - 09/12 03:19 [FirstSquawk] STELLANTIS, ROSHEL SIGN MOU FOR POSSIBLE SALE OF CANADA PLANT
+- 09/12 03:21 [FirstSquawk] JPMORGAN REVISES FED FORECAST; NOW SEES RATE HIKES IN SEPTEMBER, DECEMBER
+- 09/12 03:28 [financialjuice] ❗ Saudi Arabia: East-West pipeline shut down as a precaution.
+- 09/12 03:28 [FirstSquawk] SAUDI: EAST–WEST PIPELINE SHUT DOWN AS PRECAUTION AFTER ATTACK
+- 09/12 03:28 [financialjuice] Saudi Energy Ministry: East-West pipeline was temporarily shut down after several attacks on the pipeline in the Riyadh and Medina regions on Thursday.
+- 09/12 03:28 [FirstSquawk] SAUDI: EAST–WEST PIPELINE WAS HIT BY MULTIPLE ATTACKS THURSDAY
+- 09/12 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $100.05 a barrel down $2.43, 2.3%
+- 09/12 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.9593 a gallon
+- 09/12 03:32 [FirstSquawk] SAUDI: TAKING STEPS TO SECURE PIPELINE, ASSESS SAFETY
+- 09/12 03:32 [financialjuice] Saudi Arabia: Taking steps to secure pipeline, assess safety.
+- 09/12 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8310/MMBTU
+- 09/12 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $100.05/BBL, DOWN $2.43, 2.37%

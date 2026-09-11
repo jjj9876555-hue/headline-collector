@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 03:20 JST／対象: 09/11 15:20 〜 09/12 03:20 JST（時刻はすべて日本時間）
+生成: 2026-09-12 03:37 JST／対象: 09/11 15:37 〜 09/12 03:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 45 | 09/11 15:25 | 09/11 23:00 | 37分（19:03→19:41） |
-| FirstSquawk | 133 | 09/11 15:20 | 09/12 03:19 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 119 | 09/11 15:34 | 09/12 03:08 | ⚠ 55分（16:05→17:01） |
+| DeItaone | 43 | 09/11 15:42 | 09/11 23:00 | 37分（19:03→19:41） |
+| FirstSquawk | 126 | 09/11 15:37 | 09/12 03:32 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 122 | 09/11 15:37 | 09/12 03:32 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 293 行（統合前 297 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 287 行（統合前 291 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 15:20 [FirstSquawk] France’s economy expected to recover at a moderate pace, Moulin says.
-- 09/11 15:21 [FirstSquawk] Concerns are mounting over France’s economy, Moulin says.
-- 09/11 15:21 [FirstSquawk] France’s economy remains manageable, but action cannot be delayed, Moulin says.
-- 09/11 15:24 [FirstSquawk] France must cut its deficit, Moulin says.
-- 09/11 15:24 [FirstSquawk] ASX 200 sheds 0.9%, finishing at 8,741.20.
-- 09/11 15:25 [DeItaone] TRUMP REPORTEDLY REJECTS MBS REQUEST TO STRIKE HOUTHIS Saudi Crown Prince Mohammed bin Salman asked President Trump to launch airstrikes against the Houthis, according to Axios, citing U.S. officials. Trump reportedly refused, as Washington…
-- 09/11 15:25 [FirstSquawk] Ukraine’s Sept. 1–9 food exports hit 630,000 tons, of which 380,000 tons are grain, farm minister says.
-- 09/11 15:25 [FirstSquawk] France should avoid adding more uncertainty to its budget situation, Moulin says.
-- 09/11 15:30 [FirstSquawk] Russia’s Sberbank sees significant scope for CBDCs in India-Russia trade payments, CEO says.
-- 09/11 15:32 [FirstSquawk] Sberbank chief says CBDCs offer much greater efficiency for trade settlements and the bank is helping central banks.
-- 09/11 15:32 [FirstSquawk] UK DMO adds Natixis as an associate GEMM.
-- 09/11 15:34 [financialjuice] ECB's Nagel: Next ECB moves dependent on energy price development.
-- 09/11 15:35 [DeItaone] IRAN, PAKISTAN DISCUSS PATH BACK TO TALKS Iranian Foreign Minister Abbas Araqchi and Pakistan’s army chief Asim Munir discussed efforts to de-escalate the U.S.-Iran conflict, a Pakistani security official told Reuters. The talks also covere…
-- 09/11 15:36 [FirstSquawk] India settles most of its oil purchases from Russia in rupees, Sberbank CEO says.
-- 09/11 15:36 [FirstSquawk] Energy prices will determine ECB policy moves, Nagel says.
-- 09/11 15:36 [financialjuice] ECB's Nagel: Low gas storage level not a real concern.
-- 09/11 15:36 [financialjuice] ECB's Nagel: At upper bound of neutral territory.
 - 09/11 15:37 [financialjuice] ECB's Nagel: We might need to go into mildly restrictive territory.
 - 09/11 15:37 [FirstSquawk] Nagel: A mildly restrictive policy stance may become necessary.
 - 09/11 15:42 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:00 AM ET — 🛒 Kroger Earnings 8:30 AM ET — 🇺🇸 August CPI + Real Earnings 10:00 AM ET — 🇺🇸 Michigan Consumer Sentiment 10:00 AM ET — 🇺🇸 Michigan Inflation Expectations 12:00 PM ET — 🏦 Fed Financial Acco…
@@ -317,3 +300,14 @@
 - 09/12 03:08 [financialjuice] Yemeni military source: Saudi-backed mercenary positions in eastern Al-Jawf targeted, dozens of military vehicles set ablaze - Tasnim News
 - 09/12 03:09 [FirstSquawk] US COMMERCE CONFIRMS ILLEGAL SOLAR SUBSIDIES FROM INDIA
 - 09/12 03:19 [FirstSquawk] STELLANTIS, ROSHEL SIGN MOU FOR POSSIBLE SALE OF CANADA PLANT
+- 09/12 03:21 [FirstSquawk] JPMORGAN REVISES FED FORECAST; NOW SEES RATE HIKES IN SEPTEMBER, DECEMBER
+- 09/12 03:28 [financialjuice] ❗ Saudi Arabia: East-West pipeline shut down as a precaution.
+- 09/12 03:28 [FirstSquawk] SAUDI: EAST–WEST PIPELINE SHUT DOWN AS PRECAUTION AFTER ATTACK
+- 09/12 03:28 [financialjuice] Saudi Energy Ministry: East-West pipeline was temporarily shut down after several attacks on the pipeline in the Riyadh and Medina regions on Thursday.
+- 09/12 03:28 [FirstSquawk] SAUDI: EAST–WEST PIPELINE WAS HIT BY MULTIPLE ATTACKS THURSDAY
+- 09/12 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $100.05 a barrel down $2.43, 2.3%
+- 09/12 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.9593 a gallon
+- 09/12 03:32 [FirstSquawk] SAUDI: TAKING STEPS TO SECURE PIPELINE, ASSESS SAFETY
+- 09/12 03:32 [financialjuice] Saudi Arabia: Taking steps to secure pipeline, assess safety.
+- 09/12 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8310/MMBTU
+- 09/12 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $100.05/BBL, DOWN $2.43, 2.37%
