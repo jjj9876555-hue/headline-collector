@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 16:51 JST／対象: 09/11 04:51 〜 09/11 16:51 JST（時刻はすべて日本時間）
+生成: 2026-09-11 17:04 JST／対象: 09/11 05:04 〜 09/11 17:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/11 06:36 | 09/11 16:47 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 163 | 09/11 05:01 | 09/11 16:40 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 42 | 09/11 04:52 | 09/11 16:05 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 16 | 09/11 06:36 | 09/11 16:57 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 169 | 09/11 05:08 | 09/11 17:02 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 48 | 09/11 05:10 | 09/11 17:04 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 218 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 230 行（統合前 233 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 04:52 [financialjuice] Trump and JD Vance speak at the Republican midterm convention - WATCH LIVE
-- 09/11 05:01 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 171.22 POINTS, OR 0.65%, AT 26,082.12. S&P 500 UNOFFICIALLY CLOSES DOWN 45.92 POINTS, OR 0.60%, AT 7,590.44. DOW JONES INDUSTRIAL AVERAGE UNOFFICIALLY CLOSES DOWN 327.34 POINTS, OR 0.62%, AT 52,053.…
-- 09/11 05:02 [financialjuice/FirstSquawk] Yemeni Armed Forces launch missile attack on southern Saudi Arabia - IRNA
 - 09/11 05:08 [FirstSquawk] ADOBE Q3 ADJUSTED EPS RISES TO $6.13 FROM $6.09 EXPECTED, WHILE REVENUE REACHES $6.76 BILLION, ABOVE THE $6.70 BILLION ESTIMATE, AND ADJUSTED NET INCOME HITS $2.42 BILLION.
 - 09/11 05:08 [FirstSquawk] ADOBE GUIDES FY REVENUE TO $26.576-$26.626 BILLION AND ADJUSTED EPS TO $24.45-$24.50, WHILE Q4 REVENUE IS FORECAST AT $6.80-$6.85 BILLION.
 - 09/11 05:10 [financialjuice] $ORCL Oracle Q1 2027 Earnings Adj. EPS $1.92, est. $1.75 Adj. Rev. $19.35B, est. $19.13B Adj. oper income $8.15B, est. $7.81B Adj. oper margin 42%, est. 40.8% Cloud infrastructure rev. (IaaS) $7.39B, est. $7.19B Software rev. $5.55B, est. $…
@@ -242,3 +239,18 @@
 - 09/11 16:40 [FirstSquawk] IRELAND IS PREPARING TO GIVE DONALD TRUMP A WARM RECEPTION BUT SECRETLY LOOKS FORWARD TO HIS DEPARTURE.
 - 09/11 16:41 [DeItaone] *US AVERAGE RETAIL DIESEL PRICE RISES PAST $6 A GALLON: AAA
 - 09/11 16:47 [DeItaone] U.S. DIESEL SURGES ABOVE $6, INFLATION RISK BUILDS U.S. diesel prices hit a record $6.06 a gallon, with California approaching $8, as global supply disruptions tighten the market. With diesel crucial to shipping, agriculture and constructio…
+- 09/11 16:57 [DeItaone] GULF STATES WEIGH TALKS WITH IRAN OVER HORMUZ Gulf states are considering rare talks with Iran next week over the future of the Strait of Hormuz, with Oman seeking a meeting of GCC and Iranian foreign ministers. The talks could focus on res…
+- 09/11 16:58 [FirstSquawk] HAWKISH POLICY SHIFT LEAVES NEAR-TERM RATE HIKES UNLIKELY
+- 09/11 17:01 [financialjuice] IEA: 2026 world oil demand to drop by 2.5 million bpd (prev. forecast 1.6 million bpd drop), citing impasse in US-Iran talks on resolving their conflict.
+- 09/11 17:01 [financialjuice/FirstSquawk] IEA sees total world oil supply 1.74 million bpd lower than demand in 2026 (prev. forecast 1.27 million bpd lower).
+- 09/11 17:01 [financialjuice/FirstSquawk] IEA now sees full recovery in oil supplies from gulf producers deferred until 2027.
+- 09/11 17:01 [FirstSquawk] IEA SAYS 2026 WORLD OIL DEMAND TO DROP BY 2.5 MILLION BPD (PREV. FORECAST 1.6 MILLION BPD DROP), CITING IMPASSE IN US-IRAN TALKS ON RESOLVING THEIR CONFLICT
+- 09/11 17:01 [financialjuice] IEA: World oil supply to average 100.7 million bpd in 2026, down 5.7 million bpd from 2025 and 1.3 million bpd lower than prev. forecast.
+- 09/11 17:01 [financialjuice] IE: Global observed oil inventories plunged by a further 95 million barrels in August.
+- 09/11 17:01 [FirstSquawk] IEA SAYS WORLD OIL SUPPLY TO AVERAGE 100.7 MILLION BPD IN 2026, DOWN 5.7 MILLION BPD FROM 2025 AND 1.3 MILLION BPD LOWER THAN PREV. FORECAST
+- 09/11 17:02 [financialjuice] IEA: Need for progress in resolving Middle East, Russia-Ukraine conflicts is greater than ever to avoid further oil market tightening.
+- 09/11 17:02 [FirstSquawk] IEA SAYS GLOBAL OBSERVED OIL INVENTORIES PLUNGED BY A FURTHER 95 MILLION BARRELS IN AUGUST
+- 09/11 17:02 [FirstSquawk] IEA SAYS NEED FOR PROGRESS IN RESOLVING MIDDLE EAST, RUSSIA-UKRAINE CONFLICTS IS GREATER THAN EVER TO AVOID FURTHER OIL MARKET TIGHTENING
+- 09/11 17:02 [financialjuice] French government will revise downward its 2026 growth forecast to 0.5% growth - Les Echos citing sources.
+- 09/11 17:02 [FirstSquawk] IRAN'S PRESIDENT MASOUD PEZESHKIAN EXPRESSED OPPOSITION TO THE CONTINUATION OF WAR BUT STRESSED THE IMPORTANCE OF BUILDING RESILIENCE AGAINST FUTURE PRESSURES.
+- 09/11 17:04 [financialjuice] Iran-backed Houthis reached Yemeni port city of Dhubab, along Bab El-Mandeb Strait - Two Yemeni Governmental Sources.

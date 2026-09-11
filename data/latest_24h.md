@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 16:51 JST／対象: 09/10 16:51 〜 09/11 16:51 JST（時刻はすべて日本時間）
+生成: 2026-09-11 17:04 JST／対象: 09/10 17:04 〜 09/11 17:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 09/10 17:02 | 09/11 16:47 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 357 | 09/10 16:53 | 09/11 16:40 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 274 | 09/10 17:00 | 09/11 16:05 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 65 | 09/10 17:27 | 09/11 16:57 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 362 | 09/10 17:06 | 09/11 17:02 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 281 | 09/10 17:04 | 09/11 17:04 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 673 行（統合前 702 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 683 行（統合前 714 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 16:53 [FirstSquawk] NOVO NORDISK: WEGOVY APPROVED IN CHINA AS THE FIRST AND ONLY GLP-1 RA FOR THE TREATMENT OF MASH
-- 09/10 16:58 [FirstSquawk] KIMI MAKER MOONSHOT AI TO EXPLORE DUAL HONG KONG AND SHANGHAI IPOS TO BOOST CAPITAL, SOURCES SAY – SCMP
-- 09/10 17:00 [financialjuice] ITALIAN INDUSTRIAL PRODUCTION MOM ACTUAL 0.7% (FORECAST 0.3%, PREVIOUS -1.0%) $MACRO
-- 09/10 17:02 [FirstSquawk] ITALY INDUSTRIAL PRODUCTION (M/M) JUL: 0.7% (EST 0.3%; PREV -1.0%)
-- 09/10 17:02 [DeItaone] HUAWEI HIKES AI CHIP PRICES 60% Huawei has reportedly raised the price of its Ascend 950DT AI accelerator by about 60% to $37,300, as booming demand outstrips supply. HBM shortages are adding to costs, while demand for Chinese alternatives …
 - 09/10 17:04 [financialjuice] Anthropic grants EU access to Mythos months after release.
 - 09/10 17:06 [FirstSquawk] AUGUST WAS ONE OF THE HOTTEST MONTHS EVER RECORDED WORLDWIDE, ACCORDING TO EU DATA.
 - 09/10 17:07 [FirstSquawk] ANTHROPIC GRANTS EU ACCESS TO MYTHOS, SEVERAL MONTHS AFTER ITS LAUNCH.
@@ -697,3 +692,18 @@
 - 09/11 16:40 [FirstSquawk] IRELAND IS PREPARING TO GIVE DONALD TRUMP A WARM RECEPTION BUT SECRETLY LOOKS FORWARD TO HIS DEPARTURE.
 - 09/11 16:41 [DeItaone] *US AVERAGE RETAIL DIESEL PRICE RISES PAST $6 A GALLON: AAA
 - 09/11 16:47 [DeItaone] U.S. DIESEL SURGES ABOVE $6, INFLATION RISK BUILDS U.S. diesel prices hit a record $6.06 a gallon, with California approaching $8, as global supply disruptions tighten the market. With diesel crucial to shipping, agriculture and constructio…
+- 09/11 16:57 [DeItaone] GULF STATES WEIGH TALKS WITH IRAN OVER HORMUZ Gulf states are considering rare talks with Iran next week over the future of the Strait of Hormuz, with Oman seeking a meeting of GCC and Iranian foreign ministers. The talks could focus on res…
+- 09/11 16:58 [FirstSquawk] HAWKISH POLICY SHIFT LEAVES NEAR-TERM RATE HIKES UNLIKELY
+- 09/11 17:01 [financialjuice] IEA: 2026 world oil demand to drop by 2.5 million bpd (prev. forecast 1.6 million bpd drop), citing impasse in US-Iran talks on resolving their conflict.
+- 09/11 17:01 [financialjuice/FirstSquawk] IEA sees total world oil supply 1.74 million bpd lower than demand in 2026 (prev. forecast 1.27 million bpd lower).
+- 09/11 17:01 [financialjuice/FirstSquawk] IEA now sees full recovery in oil supplies from gulf producers deferred until 2027.
+- 09/11 17:01 [FirstSquawk] IEA SAYS 2026 WORLD OIL DEMAND TO DROP BY 2.5 MILLION BPD (PREV. FORECAST 1.6 MILLION BPD DROP), CITING IMPASSE IN US-IRAN TALKS ON RESOLVING THEIR CONFLICT
+- 09/11 17:01 [financialjuice] IEA: World oil supply to average 100.7 million bpd in 2026, down 5.7 million bpd from 2025 and 1.3 million bpd lower than prev. forecast.
+- 09/11 17:01 [financialjuice] IE: Global observed oil inventories plunged by a further 95 million barrels in August.
+- 09/11 17:01 [FirstSquawk] IEA SAYS WORLD OIL SUPPLY TO AVERAGE 100.7 MILLION BPD IN 2026, DOWN 5.7 MILLION BPD FROM 2025 AND 1.3 MILLION BPD LOWER THAN PREV. FORECAST
+- 09/11 17:02 [financialjuice] IEA: Need for progress in resolving Middle East, Russia-Ukraine conflicts is greater than ever to avoid further oil market tightening.
+- 09/11 17:02 [FirstSquawk] IEA SAYS GLOBAL OBSERVED OIL INVENTORIES PLUNGED BY A FURTHER 95 MILLION BARRELS IN AUGUST
+- 09/11 17:02 [FirstSquawk] IEA SAYS NEED FOR PROGRESS IN RESOLVING MIDDLE EAST, RUSSIA-UKRAINE CONFLICTS IS GREATER THAN EVER TO AVOID FURTHER OIL MARKET TIGHTENING
+- 09/11 17:02 [financialjuice] French government will revise downward its 2026 growth forecast to 0.5% growth - Les Echos citing sources.
+- 09/11 17:02 [FirstSquawk] IRAN'S PRESIDENT MASOUD PEZESHKIAN EXPRESSED OPPOSITION TO THE CONTINUATION OF WAR BUT STRESSED THE IMPORTANCE OF BUILDING RESILIENCE AGAINST FUTURE PRESSURES.
+- 09/11 17:04 [financialjuice] Iran-backed Houthis reached Yemeni port city of Dhubab, along Bab El-Mandeb Strait - Two Yemeni Governmental Sources.
