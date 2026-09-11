@@ -7,63 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 21:48 JST／対象: 09/10 21:48 〜 09/11 21:48 JST（時刻はすべて日本時間）
+生成: 2026-09-11 22:00 JST／対象: 09/10 22:00 〜 09/11 22:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 64 | 09/10 22:07 | 09/11 21:42 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 332 | 09/10 21:49 | 09/11 21:36 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 249 | 09/10 21:53 | 09/11 21:44 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 66 | 09/10 22:07 | 09/11 21:52 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 319 | 09/10 22:07 | 09/11 21:59 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 230 | 09/10 22:00 | 09/11 21:58 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 631 行（統合前 649 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 601 行（統合前 619 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 21:49 [FirstSquawk] MONEY MARKETS PRICE IN ECB DEPO RATE AT 3.22% IN SEPTEMBER 2027 FROM 3.01% BEFORE ECB STATEMENT
-- 09/10 21:49 [FirstSquawk] MONEY MARKETS PRICE IN ECB DEPO RATE AT 2.80% IN DECEMBER FROM 2.74% BEFORE ECB STATEMENT
-- 09/10 21:53 [financialjuice] ECB's Lagarde: The economy is proving resilient.
-- 09/10 21:53 [financialjuice] ECB's Lagarde: Resilience likely to persist into Q3.
-- 09/10 21:53 [financialjuice] ECB's Lagarde: Consumer confidence rebounded, the services sector recovered, and the labor market has remained robust.
-- 09/10 21:54 [financialjuice] ECB's Lagarde: Growth in employment continues to slow.
-- 09/10 21:54 [financialjuice] ECB's Lagarde: Near-term growth outlook has improved.
-- 09/10 21:54 [financialjuice] ECB's Lagarde: This reflects the resilience of consumption, public investment.
-- 09/10 21:54 [FirstSquawk] ECB'S LAGARDE SAYS THE ECONOMY REMAINED STRONG IN Q2 EVEN WITH ENERGY DISRUPTIONS.
-- 09/10 21:54 [FirstSquawk] LAGARDE SAYS TREND LIKELY CARRIED ON INTO THE THIRD QUARTER.
-- 09/10 21:54 [FirstSquawk] LAGARDE SAYS THE JOB MARKET IS STRONG.
-- 09/10 21:54 [FirstSquawk] LAGARDE STATES THAT JOB GROWTH IS STILL SLOWING DOWN.
-- 09/10 21:54 [financialjuice] ECB's Lagarde: Growth will be bolstered by business and housing investment.
-- 09/10 21:54 [FirstSquawk] ECB'S LAGARDE SAYS BUSINESS AND HOUSING INVESTMENT WILL BOOST GROWTH.
-- 09/10 21:54 [FirstSquawk] ECB'S LAGARDE STATES COMPETITIVENESS ISSUES AND TRADE POLICIES ARE HINDERING EXPORTS.
-- 09/10 21:54 [financialjuice] ECB's Lagarde: Exports held back by competitiveness challenges, trade policies.
-- 09/10 21:55 [financialjuice] ECB's Lagarde: Higher potential growth requires structural reforms.
-- 09/10 21:55 [FirstSquawk] ECB LAGARDE: ECONOMY PROVED RESILIENT IN 2Q DESPITE ENERGY SHOCK
-- 09/10 21:55 [FirstSquawk] LAGARDE: EMPLOYMENT GROWTH CONTINUES TO SLOW
-- 09/10 21:55 [FirstSquawk] ECB'S LAGARDE: EXPORTS HELD BACK BY COMPETITVENESS CHALLENGES, TRADE POLICIES
-- 09/10 21:55 [FirstSquawk] LAGARDE: HIGHER POTENTIAL GROWTH REQUIRES STRUCTURAL REFORMS
-- 09/10 21:56 [financialjuice] ECB's Lagarde: Reiterate the importance of agreeing on a single currency package.
-- 09/10 21:56 [FirstSquawk] UK TWO-YEAR YIELD UP 10BPS AT 4.80%, HIGHEST SINCE NOV 2023
-- 09/10 21:56 [financialjuice] ECB's Lagarde: Refining margins made a strong contribution to inflation.
-- 09/10 21:57 [financialjuice] ECB's Lagarde: Most measures of underlying inflation are broadly stable.
-- 09/10 21:57 [financialjuice] ECB's Lagarde: Rising labour productivity has helped contain growth in unit labour costs.
-- 09/10 21:57 [financialjuice] ECB's Lagarde: Wages not showing material response to energy shock.
-- 09/10 21:57 [financialjuice] ECB's Lagarde: Wage tracker points to modest uptick in negotiated wage growth.
-- 09/10 21:57 [financialjuice] ECB's Lagarde: Inflation expectations over shorter horizons remain at elevated levels.
-- 09/10 21:58 [financialjuice] ECB's Lagarde: Wage tracker points to modest uptick in 1st half of 2027.
-- 09/10 21:58 [financialjuice] ECB's Lagarde: Most measures of longer-term inflation expectations stand at around 2%.
-- 09/10 21:58 [financialjuice] Anthropic remains a supply chain threat: Pentagon's Emil Michael
-- 09/10 21:58 [FirstSquawk] LAGARDE: MOST MEASURES OF UNDERLYING INFLATION BROADLY STABLE
-- 09/10 21:58 [FirstSquawk] LAGARDE: WAGE TRACKER POINTS TO MODEST UPTICK IN 1H27
-- 09/10 21:59 [FirstSquawk] ECB'S LAGARDE: BETTER ECON OUTLOOK TO FEED INTO CORE
-- 09/10 21:59 [financialjuice] Michael warns against falling into 'doom loop' on AI risks
-- 09/10 21:59 [financialjuice] ECB's Lagarde: Higher energy prices to feed through to core, food gradually.
-- 09/10 21:59 [financialjuice] ECB's Lagarde: Better economic outlook to feed into core.
-- 09/10 21:59 [financialjuice] ECB's Lagarde: Headline inflation to return to target towards the end of 2027.
-- 09/10 21:59 [financialjuice] ECB's Lagarde: Risks to the growth outlook are to the downside.
 - 09/10 22:00 [financialjuice] Effective Fed Funds Rate 3.63% Sept. 9th vs 3.63% Sept. 8th
 - 09/10 22:00 [financialjuice] ECB's Lagarde: Will monitor the feed-through of energy.
 - 09/10 22:00 [financialjuice] ECB's Lagarde: energy disruptions, worsening market sentiment, and trade frictions are risks to growth.
@@ -655,3 +615,13 @@
 - 09/11 21:40 [DeItaone] PUTIN: WEST IS RESORTING TO DIRECT DESTRUCTION OF FACILITIES AND PIPELINES IN AN EFFORT TO MAINTAIN ITS ECONOMIC LEADERSHIP
 - 09/11 21:42 [DeItaone] US CORE INFLATION UPSIDE DRIVEN BY SUPERCORE The latest inflation details show the upside surprise was driven by supercore services, while core goods were softer than expected. Lodging was a notable upside outlier, while housing came in sof…
 - 09/11 21:44 [financialjuice] GERMAN CURRENT ACCOUNT BALANCE NSA ACTUAL 21.154B (FORECAST -, PREVIOUS 19.0B) $MACRO
+- 09/11 21:50 [financialjuice] Iran President Pezeshkian: Iran proposes BRICS establish $10 billion insurance fund for major infrastructure and energy projects.
+- 09/11 21:51 [DeItaone] US DATA: RECORD CELL PHONE PRICE JUMP BOOSTS CORE CPI August inflation data carried a hawkish signal as wireless phone service prices surged 5.9% — the largest increase on record. The jump alone added around 0.08 percentage points to core C…
+- 09/11 21:51 [financialjuice] Yemeni army takes control of local council building in Dhubab, near Bab-el-Mandeb - Tasnim News
+- 09/11 21:52 [DeItaone] NASDAQ FUTURES EXTEND GAINS, LAST UP ABOUT 1%
+- 09/11 21:55 [financialjuice] Trump and the First Lady Participate in the 9/11 Observance Ceremony
+- 09/11 21:55 [financialjuice] Yemeni armed forces have taken control of the local council building in the strategically important town of "Dhubab," which has direct oversight of the vital Bab-el-Mandeb waterway - Tasnim News
+- 09/11 21:58 [financialjuice] Iran's President Pezeshkian urges wider use of local currencies in BRICS trade.
+- 09/11 21:59 [FirstSquawk] IRAN SUGGESTS A $10 BILLION JOINT REINSURANCE FIRM AT THE BRICS SUMMIT.
+- 09/11 21:59 [FirstSquawk] IRAN URGES BRICS BANK TO INCREASE FUNDING FOR INFRASTRUCTURE PROJECTS.
+- 09/11 21:59 [FirstSquawk] S&P 500 FUTURES INCREASE BY 1%.

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 21:48 JST／対象: 09/11 09:48 〜 09/11 21:48 JST（時刻はすべて日本時間）
+生成: 2026-09-11 22:00 JST／対象: 09/11 10:00 〜 09/11 22:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 09/11 15:05 | 09/11 21:42 | 37分（19:03→19:41） |
-| FirstSquawk | 179 | 09/11 09:52 | 09/11 21:36 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 59 | 09/11 10:00 | 09/11 21:44 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 36 | 09/11 15:05 | 09/11 21:52 | 37分（19:03→19:41） |
+| FirstSquawk | 180 | 09/11 10:00 | 09/11 21:59 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 64 | 09/11 10:00 | 09/11 21:58 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 268 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 276 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 09:52 [FirstSquawk] 30-year Treasury yield climbs 1.7 bps to 5.378%, reaching its highest since 2007.
-- 09/11 09:57 [FirstSquawk] EUR/USD flatlines above 1.1600 as traders turn their attention to upcoming U.S. CPI figures following the ECB’s hawkish hike.
 - 09/11 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus previous session open at 0.805%
 - 09/11 10:00 [FirstSquawk] Taiwan overnight rate remains steady at 0.805% at the start of trading.
 - 09/11 10:08 [FirstSquawk] Midland expects Hong Kong residential property prices to climb 15% this year.
@@ -292,3 +290,13 @@
 - 09/11 21:40 [DeItaone] PUTIN: WEST IS RESORTING TO DIRECT DESTRUCTION OF FACILITIES AND PIPELINES IN AN EFFORT TO MAINTAIN ITS ECONOMIC LEADERSHIP
 - 09/11 21:42 [DeItaone] US CORE INFLATION UPSIDE DRIVEN BY SUPERCORE The latest inflation details show the upside surprise was driven by supercore services, while core goods were softer than expected. Lodging was a notable upside outlier, while housing came in sof…
 - 09/11 21:44 [financialjuice] GERMAN CURRENT ACCOUNT BALANCE NSA ACTUAL 21.154B (FORECAST -, PREVIOUS 19.0B) $MACRO
+- 09/11 21:50 [financialjuice] Iran President Pezeshkian: Iran proposes BRICS establish $10 billion insurance fund for major infrastructure and energy projects.
+- 09/11 21:51 [DeItaone] US DATA: RECORD CELL PHONE PRICE JUMP BOOSTS CORE CPI August inflation data carried a hawkish signal as wireless phone service prices surged 5.9% — the largest increase on record. The jump alone added around 0.08 percentage points to core C…
+- 09/11 21:51 [financialjuice] Yemeni army takes control of local council building in Dhubab, near Bab-el-Mandeb - Tasnim News
+- 09/11 21:52 [DeItaone] NASDAQ FUTURES EXTEND GAINS, LAST UP ABOUT 1%
+- 09/11 21:55 [financialjuice] Trump and the First Lady Participate in the 9/11 Observance Ceremony
+- 09/11 21:55 [financialjuice] Yemeni armed forces have taken control of the local council building in the strategically important town of "Dhubab," which has direct oversight of the vital Bab-el-Mandeb waterway - Tasnim News
+- 09/11 21:58 [financialjuice] Iran's President Pezeshkian urges wider use of local currencies in BRICS trade.
+- 09/11 21:59 [FirstSquawk] IRAN SUGGESTS A $10 BILLION JOINT REINSURANCE FIRM AT THE BRICS SUMMIT.
+- 09/11 21:59 [FirstSquawk] IRAN URGES BRICS BANK TO INCREASE FUNDING FOR INFRASTRUCTURE PROJECTS.
+- 09/11 21:59 [FirstSquawk] S&P 500 FUTURES INCREASE BY 1%.
