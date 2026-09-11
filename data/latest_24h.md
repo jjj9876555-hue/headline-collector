@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 13:51 JST／対象: 09/10 13:51 〜 09/11 13:51 JST（時刻はすべて日本時間）
+生成: 2026-09-11 14:03 JST／対象: 09/10 14:03 〜 09/11 14:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/10 16:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 364 | 09/10 13:54 | 09/11 13:50 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 285 | 09/10 13:52 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 360 | 09/10 14:15 | 09/11 13:50 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 282 | 09/10 14:17 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 686 行（統合前 714 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 679 行（統合前 707 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 13:52 [financialjuice] Russian defence ministry: also struck Ukraine's Black Sea port of Chornomorsk, two ships near Odesa
-- 09/10 13:54 [financialjuice] Japan chief cabinet secretary Kihara: aim to tackle abduction issue firmly to achieve Japan-North Korea summit meeting
-- 09/10 13:54 [FirstSquawk] Russian Defence Ministry reports a strike on a drone warehouse in Mykolaiv.
-- 09/10 13:54 [FirstSquawk] Russian Defence Ministry reports strikes on Chornomorsk port and two vessels near Odesa.
-- 09/10 13:55 [FirstSquawk] Japan Chief Cabinet Secretary Kihara says resolving the abduction issue is key to realizing a summit with North Korea.
-- 09/10 14:00 [financialjuice] Finnish industrial output rises 4.5% in July year on year, Statistics Finland
-- 09/10 14:01 [FirstSquawk] Roche’s Enspryng receives U.S. FDA priority review for MOGAD, which has no approved treatments.
 - 09/10 14:15 [FirstSquawk] Hong Kong stocks face wild swings as investors see little chance of state intervention.
 - 09/10 14:16 [FirstSquawk] Beijing rejects US accusations of AI technology copying and threatens retaliation.
 - 09/10 14:17 [financialjuice] China chipmakers raised prices for AI processors, including Huawei and Cambricon.
