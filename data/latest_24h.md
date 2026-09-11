@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 06:15 JST／対象: 09/11 06:15 〜 09/12 06:15 JST（時刻はすべて日本時間）
+生成: 2026-09-12 06:30 JST／対象: 09/11 06:30 〜 09/12 06:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/11 06:36 | 09/12 04:10 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 270 | 09/11 06:26 | 09/12 05:01 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 184 | 09/11 06:40 | 09/12 06:08 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 268 | 09/11 07:37 | 09/12 05:01 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 188 | 09/11 06:40 | 09/12 06:22 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 504 行（統合前 510 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 506 行（統合前 512 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 06:26 [FirstSquawk] ORACLE CFO EXPECTS AROUND 50% OF THE COMPANY’S $664 BILLION RPO TO CONVERT INTO REVENUE OVER THE NEXT 36 MONTHS, WITH NEWLY BOOKED REVENUE BACKLOG NOT EXPECTED TO IMPACT REVENUE OR CAPEX UNTIL FY2028 OR LATER.
-- 09/11 06:26 [FirstSquawk] ORACLE MAINTAINS ITS FULL-YEAR CAPEX FORECAST AT $90-$95 BILLION, WITH SPENDING EXPECTED TO BE UNEVEN THROUGHOUT THE YEAR.
 - 09/11 06:36 [DeItaone] *BESSENT: GOING TO SANCTION A LARGE BANK ON MONDAY
 - 09/11 06:40 [financialjuice] Pentagon in talks to enter AI infrastructure funding with $5 billion loan - WSJ
 - 09/11 06:41 [financialjuice] Pentagon in talks to provide about $5 billion loan to Al cloud-computing startup FluidStack to strengthen US data-center supply chain - WSJ
@@ -528,3 +526,7 @@
 - 09/12 05:48 [financialjuice] Secretary-General of the Gulf Cooperation Council: Iraq must take the necessary and firm measures to prevent attacks.
 - 09/12 05:55 [financialjuice] JPMorgan cut off lending activity for situational awareness - FT.
 - 09/12 06:08 [financialjuice] North Korea launches unidentified missile into East Sea: South Korea's defense ministry
+- 09/12 06:22 [financialjuice] Putin: will not comment on election in Saxony-Anhalt, purely internal German affair
+- 09/12 06:22 [financialjuice] Putin: current events in Europe result of systemic mistakes by Western globalists
+- 09/12 06:22 [financialjuice] Putin: Ukraine conflict triggered by western elites pressuring Russia, aiming to pull Ukraine into NATO
+- 09/12 06:22 [financialjuice] Saudi civil defence: early warning issued in Khamis Mushait to signal possible threat

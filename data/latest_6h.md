@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 06:15 JST／対象: 09/12 00:15 〜 09/12 06:15 JST（時刻はすべて日本時間）
+生成: 2026-09-12 06:30 JST／対象: 09/12 00:30 〜 09/12 06:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
 | FirstSquawk | 45 | 09/12 00:31 | 09/12 05:01 | 32分（00:31→01:04） |
-| financialjuice | 61 | 09/12 00:19 | 09/12 06:08 | 37分（02:21→02:58） |
+| financialjuice | 63 | 09/12 00:52 | 09/12 06:22 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 109 行（統合前 111 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 00:19 [financialjuice] The House plans to vote on a Russia sanctions bill next week - Person Familiar.
-- 09/12 00:26 [financialjuice] Tesla: Semi truck is coming to Europe - X Post. $TSLA
 - 09/12 00:31 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.35%; GERMANY'S DAX UP 0.77%
 - 09/12 00:31 [FirstSquawk] FRANCE'S CAC 40 UP 0.74%; SPAIN'S IBEX UP 0.86%
 - 09/12 00:52 [financialjuice] IIF: China equities see $3.5 bln outflow in August, China debt draws $0.2 bln inflow.
@@ -131,3 +129,7 @@
 - 09/12 05:48 [financialjuice] Secretary-General of the Gulf Cooperation Council: Iraq must take the necessary and firm measures to prevent attacks.
 - 09/12 05:55 [financialjuice] JPMorgan cut off lending activity for situational awareness - FT.
 - 09/12 06:08 [financialjuice] North Korea launches unidentified missile into East Sea: South Korea's defense ministry
+- 09/12 06:22 [financialjuice] Putin: will not comment on election in Saxony-Anhalt, purely internal German affair
+- 09/12 06:22 [financialjuice] Putin: current events in Europe result of systemic mistakes by Western globalists
+- 09/12 06:22 [financialjuice] Putin: Ukraine conflict triggered by western elites pressuring Russia, aiming to pull Ukraine into NATO
+- 09/12 06:22 [financialjuice] Saudi civil defence: early warning issued in Khamis Mushait to signal possible threat

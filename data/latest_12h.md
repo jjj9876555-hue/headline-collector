@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 06:15 JST／対象: 09/11 18:15 〜 09/12 06:15 JST（時刻はすべて日本時間）
+生成: 2026-09-12 06:30 JST／対象: 09/11 18:30 〜 09/12 06:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 09/11 18:20 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 95 | 09/11 18:19 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 131 | 09/11 18:21 | 09/12 06:08 | 37分（02:21→02:58） |
+| DeItaone | 32 | 09/11 18:48 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
+| FirstSquawk | 93 | 09/11 18:37 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 134 | 09/11 18:57 | 09/12 06:22 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 259 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 258 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 18:19 [FirstSquawk] CHINA'S MOONSHOT AI AIMS FOR $2 BILLION IN ANNUAL SALES BY 2026.
-- 09/11 18:20 [DeItaone] WALL STREET HIKES OIL FORECASTS AS GULF DISRUPTIONS PERSIST Major banks are raising Brent forecasts as prolonged Middle East shipping disruptions tighten global oil supply. HSBC sees Brent averaging $90 in 2026, while Goldman warns prices c…
-- 09/11 18:21 [financialjuice] SNB's Chairman Schlegel: Inflation recently ticked up in Switzerland.
-- 09/11 18:23 [DeItaone] BofA WARNS “BLASÉ” MARKETS SET FOR HIGHER VOLATILITY U.S. equity funds have seen $14.2 billion of outflows in three weeks, the largest since January, according to BofA. With Treasury yields surging, oil above $100 and diesel at record highs…
-- 09/11 18:25 [FirstSquawk] SNB'S SCHLEGEL PRESENTATION OMITS USUAL LINES ON FRANC, PRICES
 - 09/11 18:37 [FirstSquawk] SAUDI ARABIA CONDUCTED TWO AIRSTRIKES ON MOCHA AIRPORT IN WESTERN YEMEN ON FRIDAY, AS REPORTED BY HOUTHI-RUN AL-MASIRAH TV, PER AFP.
 - 09/11 18:44 [FirstSquawk] INSIDE GERMANY’S €3.4B TOMAHAWK MISSILE PLAN - POLITICO
 - 09/11 18:48 [FirstSquawk] GERMAN FINANCE MINISTRY SPOKESPERSON: COMMERZBANK IS IMPORTANT FOR SME FINANCING, GERMAN FINANCIAL SECTOR
@@ -283,3 +278,7 @@
 - 09/12 05:48 [financialjuice] Secretary-General of the Gulf Cooperation Council: Iraq must take the necessary and firm measures to prevent attacks.
 - 09/12 05:55 [financialjuice] JPMorgan cut off lending activity for situational awareness - FT.
 - 09/12 06:08 [financialjuice] North Korea launches unidentified missile into East Sea: South Korea's defense ministry
+- 09/12 06:22 [financialjuice] Putin: will not comment on election in Saxony-Anhalt, purely internal German affair
+- 09/12 06:22 [financialjuice] Putin: current events in Europe result of systemic mistakes by Western globalists
+- 09/12 06:22 [financialjuice] Putin: Ukraine conflict triggered by western elites pressuring Russia, aiming to pull Ukraine into NATO
+- 09/12 06:22 [financialjuice] Saudi civil defence: early warning issued in Khamis Mushait to signal possible threat
