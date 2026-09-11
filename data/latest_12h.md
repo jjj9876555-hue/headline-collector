@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 08:21 JST／対象: 09/11 20:21 〜 09/12 08:21 JST（時刻はすべて日本時間）
+生成: 2026-09-12 08:33 JST／対象: 09/11 20:33 〜 09/12 08:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 09/11 20:23 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
+| DeItaone | 26 | 09/11 20:37 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
 | FirstSquawk | 77 | 09/11 20:35 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 134 | 09/11 20:34 | 09/12 08:06 | ⚠ 58分（06:50→07:48） |
+| financialjuice | 135 | 09/11 20:34 | 09/12 08:31 | ⚠ 58分（06:50→07:48） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 237 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 20:23 [DeItaone] FED’S WARSH FACES INDEPENDENCE TEST Fed Chair Kevin Warsh faces a credibility test as markets weigh whether he will hike rates despite President Trump’s push for lower borrowing costs. Macquarie says Warsh could position himself as a “reluc…
 - 09/11 20:34 [financialjuice] Iran's Foreign Ministry: IAEA risks becoming instrument for aggression.
 - 09/11 20:35 [FirstSquawk] IRAN CLAIMS IAEA MAY TURN INTO A TOOL FOR AGGRESSION.
 - 09/11 20:37 [DeItaone] IRAN ACCUSES IAEA OF HELPING JUSTIFY MILITARY ACTION Iran’s Foreign Ministry accused the IAEA and its Director General of politicizing technical nuclear assessments, claiming they have been used to build the case for military aggression aga…
@@ -261,3 +260,4 @@
 - 09/12 08:01 [financialjuice] Saudi civil defense: early alert issued in Taif to warn of possible threat
 - 09/12 08:03 [financialjuice] North Korea launches multiple ballistic missiles: South Korea's JCS
 - 09/12 08:06 [financialjuice] Saudi civil defense: danger has passed in Taif
+- 09/12 08:31 [financialjuice] Next round of Israel-Lebanon talks postponed: Axios
