@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 03:51 JST／対象: 09/11 15:51 〜 09/12 03:51 JST（時刻はすべて日本時間）
+生成: 2026-09-12 04:03 JST／対象: 09/11 16:03 〜 09/12 04:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 41 | 09/11 16:08 | 09/11 23:00 | 37分（19:03→19:41） |
-| FirstSquawk | 126 | 09/11 16:00 | 09/12 03:51 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 123 | 09/11 16:05 | 09/12 03:47 | ⚠ 55分（16:05→17:01） |
+| FirstSquawk | 123 | 09/11 16:07 | 09/12 03:55 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 124 | 09/11 16:05 | 09/12 03:53 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 286 行（統合前 290 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 284 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 16:00 [FirstSquawk] TURKEY (SEP) EXPECTED INFLATION NEXT 12MTH ACTUAL: 23.70% VS 23.69% PREVIOUS
-- 09/11 16:00 [FirstSquawk] TURKEY (JUL) CURRENT ACCOUNT BALANCE ACTUAL: 0.04B VS -4.19B PREVIOUS;EST 0.70B
-- 09/11 16:00 [FirstSquawk] SWITZERLAND (AUG) SECO CONSUMER CONFIDENCE ACTUAL: -32.8 VS -34.8 PREVIOUS;EST -32.0
-- 09/11 16:01 [FirstSquawk] TURKEY (JUL) RETAIL TRADE WDA YOY ACTUAL: 10.4% VS 11.8% PREVIOUS
 - 09/11 16:05 [financialjuice] China announces additional fuel price rise due to Iran war.
 - 09/11 16:07 [FirstSquawk/DeItaone] CHINA FOREIGN MINISTRY, ON ANTHROPIC ACCUSING CHINA AI LABS OF TARGETING CLAUDE: WE FIRMLY OPPOSE 'DISTORTION OF FACTS' AND SMEAR ATTACKS AGAINST CHINA
 - 09/11 16:09 [FirstSquawk] CHINA FOREIGN MINISTRY, ON XI AT BRICS SUMMIT: CHINA, INDIA ARE ARRANGING FOR A BILATERAL MEETING BETWEEN XI AND MODI
@@ -310,3 +306,5 @@
 - 09/12 03:45 [financialjuice] Brent Crude futures settle at $104.61/bbl, down $3.02, 2.81%
 - 09/12 03:47 [financialjuice] Iran has launched drones towards ships in the Strait of Hormuz - Israel's Channel 12 News
 - 09/12 03:51 [FirstSquawk] PARAMOUT SETTLEMENT TALKS TO TAKE PLACE IN LATE OCTOBER - COURT ORDER
+- 09/12 03:53 [financialjuice] Turkish Foreign Minister discussed regional developments, attacks against Saudi Arabia in call with Saudi counterpart - Turkish diplomatic source.
+- 09/12 03:55 [FirstSquawk] TURKISH FOREIGN MINISTER FIDAN AND SAUDI FOREIGN MINISTER DISCUSSED RECENT ATTACKS TARGETING SAUDI ARABIA.
