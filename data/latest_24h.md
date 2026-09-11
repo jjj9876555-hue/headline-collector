@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 22:34 JST／対象: 09/10 22:34 〜 09/11 22:34 JST（時刻はすべて日本時間）
+生成: 2026-09-11 22:51 JST／対象: 09/10 22:51 〜 09/11 22:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 69 | 09/10 22:36 | 09/11 22:33 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 314 | 09/10 22:38 | 09/11 22:32 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 207 | 09/10 22:35 | 09/11 22:33 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 71 | 09/10 23:00 | 09/11 22:49 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 313 | 09/10 23:00 | 09/11 22:49 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 207 | 09/10 23:00 | 09/11 22:51 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 578 行（統合前 592 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 580 行（統合前 593 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 22:35 [financialjuice] ECB's President Lagarde: If energy shock longer than expected, we'll see second round effects and it will affect food prices.
-- 09/10 22:35 [financialjuice] Yemeni Armed Forces Gain Control of Zubayr City and the Strategic Zaqar Island Near Bab-el-Mandeb - Tasnim News.
-- 09/10 22:36 [financialjuice] ECB's Nagel: I am concerned about rise of right-wing parties.
-- 09/10 22:36 [DeItaone/FirstSquawk] ECB'S NAGEL: CONCERNED ABOUT RISE IN EURO-SCEPTIC PARTIES
-- 09/10 22:36 [financialjuice] ECB's Nagel: Euro-sceptic parties will make investors reluctant to invest in Germany.
-- 09/10 22:38 [financialjuice] ECB's President Lagarde ends the ECB press conference.
-- 09/10 22:38 [FirstSquawk] DOW JONES DOWN 232.28 POINTS, OR 0.44 PERCENT, AT 52,148.38 AFTER MARKET OPEN NASDAQ DOWN 248.90 POINTS, OR 0.95 PERCENT, AT 26,004.44 AFTER MARKET OPEN S&P 500 DOWN 43.77 POINTS, OR 0.57 %, AT 7,592.59 AFTER MARKET OPEN
-- 09/10 22:39 [FirstSquawk] SPACEX OVERHAULS DATA CENTER BUILD-OUT, POTENTIALLY SLOWING EXPANSION - THE INFORMATION
-- 09/10 22:39 [FirstSquawk] YEMENI ARMED FORCES GAIN CONTROL OF ZUBAYR CITY AND THE STRATEGIC ZAQAR ISLAND NEAR BAB-EL-MANDEB - TASNIM
-- 09/10 22:40 [FirstSquawk] ECB'S LAGARDE: LONGER THAN EXPECTED ENERGY SHOCK WOULD SEE SECOND ROUND EFFECTS, WILL AFFECT FOOD PRICES
-- 09/10 22:47 [financialjuice] ECB projections assume exchange rate of $1.16 in 2026-2028.
-- 09/10 22:48 [financialjuice] ECB projections assume oil price of $89.5/barrel in 2026, $74 in 2027, and $73.60 in 2028.
-- 09/10 22:48 [FirstSquawk] ECB PROJECTIONS ASSUME OIL PRICE OF $89.5/BARREL IN 2026
-- 09/10 22:48 [FirstSquawk] ECB PROJECTIONS ASSUME OIL PRICE OF $78/BARREL IN 2027
 - 09/10 23:00 [FirstSquawk] US EXISTING HOME SALES (AUG) ACTUAL: 3.98M VS 4.06M PREVIOUS; EST 3.98M
 - 09/10 23:00 [financialjuice] ❗ US EXISTING HOME SALES ACTUAL 3.98M (FORECAST 3.98M, PREVIOUS 4.06M) $MACRO
 - 09/10 23:00 [financialjuice] US EXISTING HOME SALES CHANGE ACTUAL -2% (FORECAST -1.7%, PREVIOUS -1.7%) $MACRO
@@ -602,3 +588,19 @@
 - 09/11 22:32 [financialjuice] Chevron: We still see oil price risks to the upside due to Hormuz. $CVX
 - 09/11 22:33 [DeItaone] IRAN PLANS REGIONAL MEETING WITH IRAQ AND OTHER REGIONAL COUNTRIES IN OMAN TO DISCUSS SAFE COMMERCIAL SHIPPING ROUTES IN STRAIT OF HORMUZ ON MONDAY - FOREIGN MINISTRY SPOKESPERSON
 - 09/11 22:33 [financialjuice] Iran Foreign Ministry spokesperson announces plans for regional meeting involving Persian Gulf countries.
+- 09/11 22:34 [FirstSquawk] IRAN WILL HOST A MEETING ON MONDAY IN OMAN WITH IRAQ AND NEIGHBORING COUNTRIES TO TALK ABOUT SECURE SHIPPING ROUTES IN THE STRAIT OF HORMUZ, ACCORDING TO FARS REPORTING A FOREIGN MINISTRY SPOKESPERSON.
+- 09/11 22:34 [FirstSquawk] CHEVRON CEO MIKE WIRTH STATED THAT INITIAL SAFEGUARDS IN THE OIL MARKET HAVE "RUN THEIR COURSE", INCREASING PRICE RISK DUE TO THE IRAN CONFLICT - CONFERENCE.
+- 09/11 22:34 [FirstSquawk] CHEVRON CEO ANNOUNCED THAT A $7 BILLION INVESTMENT IN VENEZUELA OVER FIVE YEARS WILL BE FUNDED BY CASH FLOW FROM THREE JOINT VENTURES.
+- 09/11 22:35 [financialjuice] Iran plans a regional meeting with Iraq and other regional countries in Oman to discuss safe commercial shipping routes in the Strait of Hormuz on Monday - Fars, citing the Foreign Ministry Spokesperson
+- 09/11 22:36 [DeItaone] IRAN CONFIRMS REGIONAL TALKS ON HORMUZ SHIPPING Iran’s Foreign Ministry confirmed a regional meeting will be held in Oman on Monday, involving Iran, Iraq and other Gulf states to discuss security and commercial shipping through the Strait o…
+- 09/11 22:36 [financialjuice] Iran Foreign Ministry Spokesperson Baghaei: Iran considers itself committed to ensuring maritime security in the Strait of Hormuz - Tasnim News.
+- 09/11 22:37 [financialjuice] Iran Foreign Ministry spokesperson: Strait of Hormuz navigation cannot be guaranteed while US maritime blockades and economic warfare continue.
+- 09/11 22:39 [DeItaone] SITUATIONAL AWARENESS ACTIVE IN OPTIONS MARKET: CNBC CITING SOURCES
+- 09/11 22:48 [FirstSquawk] HASSETT STRESSES IMPORTANCE OF FEDERAL RESERVE'S INDEPENDENCE AND EXPRESSES HIGH RESPECT FOR WILLIAM WARSH.
+- 09/11 22:48 [FirstSquawk] HASSETT STATES INFLATION HAS BEEN SLOWING DOWN IN THE LAST 3 MONTHS.
+- 09/11 22:49 [financialjuice] WH Sr. Adviser Hassett: Inflation is clearly decelerating over the past 3 months.
+- 09/11 22:49 [FirstSquawk] HASSETT SAYS TRUMP WILL HAVE A VIEW IF THE FED INCREASES RATES.
+- 09/11 22:49 [financialjuice] WH Sr. Adviser Hassett: If the Fed hikes, Trump will have an opinion, I'm sure.
+- 09/11 22:49 [DeItaone] S&P 500’S 8,000 MILESTONE REMAINS ELUSIVE The S&P 500 is still 5.4% away from 8,000, as rising bond yields, sticky inflation and a hawkish Fed outlook stall the rally. CFRA still targets 8,050 by year-end, but warns a 5%-10% correction woul…
+- 09/11 22:50 [financialjuice] WH Sr. Adviser Hassett speaks on Bloomberg Business News Live
+- 09/11 22:51 [financialjuice] WH Sr. Adviser Hassett: Reconciliation is one path for $5,000 trump payments; can do $5,000 payments in a fiscally responsible way.

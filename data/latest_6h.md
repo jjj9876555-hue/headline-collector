@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 22:34 JST／対象: 09/11 16:34 〜 09/11 22:34 JST（時刻はすべて日本時間）
+生成: 2026-09-11 22:51 JST／対象: 09/11 16:51 〜 09/11 22:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 09/11 16:41 | 09/11 22:33 | 37分（19:03→19:41） |
-| FirstSquawk | 65 | 09/11 16:35 | 09/11 22:32 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 67 | 09/11 17:01 | 09/11 22:33 | 36分（18:21→18:57） |
+| DeItaone | 35 | 09/11 16:57 | 09/11 22:49 | 37分（19:03→19:41） |
+| FirstSquawk | 68 | 09/11 16:58 | 09/11 22:49 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 74 | 09/11 17:01 | 09/11 22:51 | 36分（18:21→18:57） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 163 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 174 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 16:35 [FirstSquawk] MUFG TO REDEEM $1.25B 1.64% SENIOR NOTES ON OCT. 13
-- 09/11 16:36 [FirstSquawk] US RETAIL DIESEL PRICE EXCEEDS $6 PER GALLON
-- 09/11 16:40 [FirstSquawk] IRELAND IS PREPARING TO GIVE DONALD TRUMP A WARM RECEPTION BUT SECRETLY LOOKS FORWARD TO HIS DEPARTURE.
-- 09/11 16:41 [DeItaone] *US AVERAGE RETAIL DIESEL PRICE RISES PAST $6 A GALLON: AAA
-- 09/11 16:47 [DeItaone] U.S. DIESEL SURGES ABOVE $6, INFLATION RISK BUILDS U.S. diesel prices hit a record $6.06 a gallon, with California approaching $8, as global supply disruptions tighten the market. With diesel crucial to shipping, agriculture and constructio…
 - 09/11 16:57 [DeItaone] GULF STATES WEIGH TALKS WITH IRAN OVER HORMUZ Gulf states are considering rare talks with Iran next week over the future of the Strait of Hormuz, with Oman seeking a meeting of GCC and Iranian foreign ministers. The talks could focus on res…
 - 09/11 16:58 [FirstSquawk] HAWKISH POLICY SHIFT LEAVES NEAR-TERM RATE HIKES UNLIKELY
 - 09/11 17:01 [financialjuice] IEA: 2026 world oil demand to drop by 2.5 million bpd (prev. forecast 1.6 million bpd drop), citing impasse in US-Iran talks on resolving their conflict.
@@ -187,3 +182,19 @@
 - 09/11 22:32 [financialjuice] Chevron: We still see oil price risks to the upside due to Hormuz. $CVX
 - 09/11 22:33 [DeItaone] IRAN PLANS REGIONAL MEETING WITH IRAQ AND OTHER REGIONAL COUNTRIES IN OMAN TO DISCUSS SAFE COMMERCIAL SHIPPING ROUTES IN STRAIT OF HORMUZ ON MONDAY - FOREIGN MINISTRY SPOKESPERSON
 - 09/11 22:33 [financialjuice] Iran Foreign Ministry spokesperson announces plans for regional meeting involving Persian Gulf countries.
+- 09/11 22:34 [FirstSquawk] IRAN WILL HOST A MEETING ON MONDAY IN OMAN WITH IRAQ AND NEIGHBORING COUNTRIES TO TALK ABOUT SECURE SHIPPING ROUTES IN THE STRAIT OF HORMUZ, ACCORDING TO FARS REPORTING A FOREIGN MINISTRY SPOKESPERSON.
+- 09/11 22:34 [FirstSquawk] CHEVRON CEO MIKE WIRTH STATED THAT INITIAL SAFEGUARDS IN THE OIL MARKET HAVE "RUN THEIR COURSE", INCREASING PRICE RISK DUE TO THE IRAN CONFLICT - CONFERENCE.
+- 09/11 22:34 [FirstSquawk] CHEVRON CEO ANNOUNCED THAT A $7 BILLION INVESTMENT IN VENEZUELA OVER FIVE YEARS WILL BE FUNDED BY CASH FLOW FROM THREE JOINT VENTURES.
+- 09/11 22:35 [financialjuice] Iran plans a regional meeting with Iraq and other regional countries in Oman to discuss safe commercial shipping routes in the Strait of Hormuz on Monday - Fars, citing the Foreign Ministry Spokesperson
+- 09/11 22:36 [DeItaone] IRAN CONFIRMS REGIONAL TALKS ON HORMUZ SHIPPING Iran’s Foreign Ministry confirmed a regional meeting will be held in Oman on Monday, involving Iran, Iraq and other Gulf states to discuss security and commercial shipping through the Strait o…
+- 09/11 22:36 [financialjuice] Iran Foreign Ministry Spokesperson Baghaei: Iran considers itself committed to ensuring maritime security in the Strait of Hormuz - Tasnim News.
+- 09/11 22:37 [financialjuice] Iran Foreign Ministry spokesperson: Strait of Hormuz navigation cannot be guaranteed while US maritime blockades and economic warfare continue.
+- 09/11 22:39 [DeItaone] SITUATIONAL AWARENESS ACTIVE IN OPTIONS MARKET: CNBC CITING SOURCES
+- 09/11 22:48 [FirstSquawk] HASSETT STRESSES IMPORTANCE OF FEDERAL RESERVE'S INDEPENDENCE AND EXPRESSES HIGH RESPECT FOR WILLIAM WARSH.
+- 09/11 22:48 [FirstSquawk] HASSETT STATES INFLATION HAS BEEN SLOWING DOWN IN THE LAST 3 MONTHS.
+- 09/11 22:49 [financialjuice] WH Sr. Adviser Hassett: Inflation is clearly decelerating over the past 3 months.
+- 09/11 22:49 [FirstSquawk] HASSETT SAYS TRUMP WILL HAVE A VIEW IF THE FED INCREASES RATES.
+- 09/11 22:49 [financialjuice] WH Sr. Adviser Hassett: If the Fed hikes, Trump will have an opinion, I'm sure.
+- 09/11 22:49 [DeItaone] S&P 500’S 8,000 MILESTONE REMAINS ELUSIVE The S&P 500 is still 5.4% away from 8,000, as rising bond yields, sticky inflation and a hawkish Fed outlook stall the rally. CFRA still targets 8,050 by year-end, but warns a 5%-10% correction woul…
+- 09/11 22:50 [financialjuice] WH Sr. Adviser Hassett speaks on Bloomberg Business News Live
+- 09/11 22:51 [financialjuice] WH Sr. Adviser Hassett: Reconciliation is one path for $5,000 trump payments; can do $5,000 payments in a fiscally responsible way.
