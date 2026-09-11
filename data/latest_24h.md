@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 15:22 JST／対象: 09/10 15:22 〜 09/11 15:22 JST（時刻はすべて日本時間）
+生成: 2026-09-11 15:41 JST／対象: 09/10 15:41 〜 09/11 15:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 60 | 09/10 16:41 | 09/11 15:05 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 359 | 09/10 15:23 | 09/11 15:21 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 269 | 09/10 17:00 | 09/11 10:47 | ⚠ 48分（17:04→17:53） |
+| DeItaone | 62 | 09/10 16:41 | 09/11 15:35 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 364 | 09/10 15:44 | 09/11 15:37 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 273 | 09/10 17:00 | 09/11 15:37 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 666 行（統合前 694 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 677 行（統合前 705 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 15:23 [FirstSquawk] ASX 200 drops 1.03% to 8,819.40 at the close.
-- 09/10 15:32 [FirstSquawk] Volvo Group launches plans for an Energy Park as it expands its operations in Mariestad.
-- 09/10 15:32 [FirstSquawk] The initial Energy Park setup at Volvo is projected to provide about 70 MW of power and 260 MWh of storage.
-- 09/10 15:32 [FirstSquawk] Volvo expects the Energy Park to be up and running by 2027.
-- 09/10 15:38 [FirstSquawk] Iran’s growing ability to strike ships may have benefited from Russian or Chinese technology, according to WSJ sources.
 - 09/10 15:44 [FirstSquawk] Nissan plans to consolidate Serena and Elgrand manufacturing at the Tochigi plant, shifting production from Kyushu.
 - 09/10 15:45 [FirstSquawk] South Korea’s top diplomat says a meeting with U.S. Secretary of State Rubio is planned for September.
 - 09/10 15:52 [FirstSquawk] Ukraine targeted a Russian port in Dagestan, according to Zelenskyy.
@@ -690,3 +685,19 @@
 - 09/11 15:20 [FirstSquawk] France’s economy expected to recover at a moderate pace, Moulin says.
 - 09/11 15:21 [FirstSquawk] Concerns are mounting over France’s economy, Moulin says.
 - 09/11 15:21 [FirstSquawk] France’s economy remains manageable, but action cannot be delayed, Moulin says.
+- 09/11 15:24 [FirstSquawk] France must cut its deficit, Moulin says.
+- 09/11 15:24 [FirstSquawk] ASX 200 sheds 0.9%, finishing at 8,741.20.
+- 09/11 15:25 [DeItaone] TRUMP REPORTEDLY REJECTS MBS REQUEST TO STRIKE HOUTHIS Saudi Crown Prince Mohammed bin Salman asked President Trump to launch airstrikes against the Houthis, according to Axios, citing U.S. officials. Trump reportedly refused, as Washington…
+- 09/11 15:25 [FirstSquawk] Ukraine’s Sept. 1–9 food exports hit 630,000 tons, of which 380,000 tons are grain, farm minister says.
+- 09/11 15:25 [FirstSquawk] France should avoid adding more uncertainty to its budget situation, Moulin says.
+- 09/11 15:30 [FirstSquawk] Russia’s Sberbank sees significant scope for CBDCs in India-Russia trade payments, CEO says.
+- 09/11 15:32 [FirstSquawk] Sberbank chief says CBDCs offer much greater efficiency for trade settlements and the bank is helping central banks.
+- 09/11 15:32 [FirstSquawk] UK DMO adds Natixis as an associate GEMM.
+- 09/11 15:34 [financialjuice] ECB's Nagel: Next ECB moves dependent on energy price development.
+- 09/11 15:35 [DeItaone] IRAN, PAKISTAN DISCUSS PATH BACK TO TALKS Iranian Foreign Minister Abbas Araqchi and Pakistan’s army chief Asim Munir discussed efforts to de-escalate the U.S.-Iran conflict, a Pakistani security official told Reuters. The talks also covere…
+- 09/11 15:36 [FirstSquawk] India settles most of its oil purchases from Russia in rupees, Sberbank CEO says.
+- 09/11 15:36 [FirstSquawk] Energy prices will determine ECB policy moves, Nagel says.
+- 09/11 15:36 [financialjuice] ECB's Nagel: Low gas storage level not a real concern.
+- 09/11 15:36 [financialjuice] ECB's Nagel: At upper bound of neutral territory.
+- 09/11 15:37 [financialjuice] ECB's Nagel: We might need to go into mildly restrictive territory.
+- 09/11 15:37 [FirstSquawk] Nagel: A mildly restrictive policy stance may become necessary.

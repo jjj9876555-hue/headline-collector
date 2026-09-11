@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 15:22 JST／対象: 09/11 09:22 〜 09/11 15:22 JST（時刻はすべて日本時間）
+生成: 2026-09-11 15:41 JST／対象: 09/11 09:41 〜 09/11 15:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/11 15:05 | 09/11 15:05 | - |
-| FirstSquawk | 106 | 09/11 09:24 | 09/11 15:21 | 15分（13:50→14:06） |
-| financialjuice | 10 | 09/11 09:28 | 09/11 10:47 | 18分（09:28→09:46） |
+| DeItaone | 3 | 09/11 15:05 | 09/11 15:35 | 20分（15:05→15:25） |
+| FirstSquawk | 113 | 09/11 09:42 | 09/11 15:37 | 15分（13:50→14:06） |
+| financialjuice | 13 | 09/11 09:46 | 09/11 15:37 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 117 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 129 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 09:24 [FirstSquawk] China CSSC Holdings says it is taking action to address a cargo vessel fire at its shipyard.
-- 09/11 09:28 [financialjuice] China PBOC forecast to set yuan midpoint at 6.7174 per dollar: estimate
-- 09/11 09:35 [FirstSquawk] Two-year JGB yield climbs 1 bp to 1.830%.
-- 09/11 09:41 [FirstSquawk] America’s Fast-Food Industry Pivots Back to Human Labor
 - 09/11 09:42 [FirstSquawk] Yield on the 20-year JGB advances 5.5 basis points, reaching 3.805%.
 - 09/11 09:42 [FirstSquawk] Yield on the 5-year JGB advances 3 basis points to 2.250%.
 - 09/11 09:46 [FirstSquawk] Nikkei tumbles over 3% at the open as surging crude futures pressure Japanese equities.
@@ -141,3 +137,19 @@
 - 09/11 15:20 [FirstSquawk] France’s economy expected to recover at a moderate pace, Moulin says.
 - 09/11 15:21 [FirstSquawk] Concerns are mounting over France’s economy, Moulin says.
 - 09/11 15:21 [FirstSquawk] France’s economy remains manageable, but action cannot be delayed, Moulin says.
+- 09/11 15:24 [FirstSquawk] France must cut its deficit, Moulin says.
+- 09/11 15:24 [FirstSquawk] ASX 200 sheds 0.9%, finishing at 8,741.20.
+- 09/11 15:25 [DeItaone] TRUMP REPORTEDLY REJECTS MBS REQUEST TO STRIKE HOUTHIS Saudi Crown Prince Mohammed bin Salman asked President Trump to launch airstrikes against the Houthis, according to Axios, citing U.S. officials. Trump reportedly refused, as Washington…
+- 09/11 15:25 [FirstSquawk] Ukraine’s Sept. 1–9 food exports hit 630,000 tons, of which 380,000 tons are grain, farm minister says.
+- 09/11 15:25 [FirstSquawk] France should avoid adding more uncertainty to its budget situation, Moulin says.
+- 09/11 15:30 [FirstSquawk] Russia’s Sberbank sees significant scope for CBDCs in India-Russia trade payments, CEO says.
+- 09/11 15:32 [FirstSquawk] Sberbank chief says CBDCs offer much greater efficiency for trade settlements and the bank is helping central banks.
+- 09/11 15:32 [FirstSquawk] UK DMO adds Natixis as an associate GEMM.
+- 09/11 15:34 [financialjuice] ECB's Nagel: Next ECB moves dependent on energy price development.
+- 09/11 15:35 [DeItaone] IRAN, PAKISTAN DISCUSS PATH BACK TO TALKS Iranian Foreign Minister Abbas Araqchi and Pakistan’s army chief Asim Munir discussed efforts to de-escalate the U.S.-Iran conflict, a Pakistani security official told Reuters. The talks also covere…
+- 09/11 15:36 [FirstSquawk] India settles most of its oil purchases from Russia in rupees, Sberbank CEO says.
+- 09/11 15:36 [FirstSquawk] Energy prices will determine ECB policy moves, Nagel says.
+- 09/11 15:36 [financialjuice] ECB's Nagel: Low gas storage level not a real concern.
+- 09/11 15:36 [financialjuice] ECB's Nagel: At upper bound of neutral territory.
+- 09/11 15:37 [financialjuice] ECB's Nagel: We might need to go into mildly restrictive territory.
+- 09/11 15:37 [FirstSquawk] Nagel: A mildly restrictive policy stance may become necessary.

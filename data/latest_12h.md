@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 15:22 JST／対象: 09/11 03:22 〜 09/11 15:22 JST（時刻はすべて日本時間）
+生成: 2026-09-11 15:41 JST／対象: 09/11 03:41 〜 09/11 15:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/11 03:30 | 09/11 15:05 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 167 | 09/11 03:37 | 09/11 15:21 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 55 | 09/11 03:31 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
+| DeItaone | 10 | 09/11 06:36 | 09/11 15:35 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 173 | 09/11 03:41 | 09/11 15:37 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 51 | 09/11 03:44 | 09/11 15:37 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 230 行（統合前 233 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 232 行（統合前 235 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 03:30 [DeItaone] BRENT CRUDE FUTURES RISE BY $7 A BARREL AS US-IRAN CONFLICT INTENSIFIES
-- 09/11 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $5.0575 a gallon
-- 09/11 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.3932 a gallon
-- 09/11 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8340/MMBTU
-- 09/11 03:33 [financialjuice] US issues fresh Iran-related sanctions - Treasury website
-- 09/11 03:33 [financialjuice] US Official: Iranian or suspected Iranian oil on water averaged 110 mln barrels over past week vs 180 mln barrels before war.
-- 09/11 03:34 [financialjuice] US Official: Offloadings of Iranian oil down to 0.9 mb/d from 1.4 mb/d before war.
-- 09/11 03:34 [financialjuice] US Official: Loadings of Iranian oil at about 0.2 mln barrels per day over past 30 days, down from 1.8 mln barrels per day in January/February
-- 09/11 03:34 [financialjuice] US Treasury announces new sanctions against entities supporting Iran's proxies in Middle East, including Iraqi business executives.
-- 09/11 03:37 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN WILL TRAVEL TO NEW DELHI TOMORROW TO PARTICIPATE IN THE 18TH BRICS SUMMIT - FARS NEWS
-- 09/11 03:38 [FirstSquawk] ISRAEL'S PRIME MINISTER NETANYAHU: IDF DESTROYS HEZBOLLAH FACILITIES AT ALI TAHER RIDGE.
-- 09/11 03:39 [FirstSquawk] IRAN PRESIDENT PEZESHKIAN TO TRAVEL TO NEW DELHI ON FRIDAY FOR 18TH BRICS SUMMIT — FARS NEWS
-- 09/11 03:41 [DeItaone] U.S. CONTAINER IMPORTS HIT THIRD-HIGHEST LEVEL EVER U.S. container imports reached 2.6 million TEUs in August, the third-highest monthly level on record, according to Descartes. Volumes rose 3% year-over-year and 22% versus August 2019, sig…
-- 09/11 03:41 [FirstSquawk] U.S. TREASURY ANNOUNCES NEW SANCTIONS ON ENTITIES SUPPORTING IRANIAN PROXIES, WHILE MOST OUTSTANDING IRAN-RELATED LICENSING REQUESTS FACE DENIAL
 - 09/11 03:41 [FirstSquawk] IRANIAN OIL LOADINGS PLUNGE TO 0.2M BPD FROM 1.8M BPD IN JAN/FEB, WHILE OFFLOADINGS FALL TO 0.9M BPD FROM 1.4M BPD BEFORE THE WAR
 - 09/11 03:41 [FirstSquawk] IRANIAN OR SUSPECTED IRANIAN OIL ON WATER DROPS TO 110M BARRELS FROM 180M BARRELS BEFORE THE WAR, SIGNALING SHARPLY TIGHTER OIL FLOWS
 - 09/11 03:42 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $102.48/BBL, UP $6.43 OR 6.69%
@@ -254,3 +240,19 @@
 - 09/11 15:20 [FirstSquawk] France’s economy expected to recover at a moderate pace, Moulin says.
 - 09/11 15:21 [FirstSquawk] Concerns are mounting over France’s economy, Moulin says.
 - 09/11 15:21 [FirstSquawk] France’s economy remains manageable, but action cannot be delayed, Moulin says.
+- 09/11 15:24 [FirstSquawk] France must cut its deficit, Moulin says.
+- 09/11 15:24 [FirstSquawk] ASX 200 sheds 0.9%, finishing at 8,741.20.
+- 09/11 15:25 [DeItaone] TRUMP REPORTEDLY REJECTS MBS REQUEST TO STRIKE HOUTHIS Saudi Crown Prince Mohammed bin Salman asked President Trump to launch airstrikes against the Houthis, according to Axios, citing U.S. officials. Trump reportedly refused, as Washington…
+- 09/11 15:25 [FirstSquawk] Ukraine’s Sept. 1–9 food exports hit 630,000 tons, of which 380,000 tons are grain, farm minister says.
+- 09/11 15:25 [FirstSquawk] France should avoid adding more uncertainty to its budget situation, Moulin says.
+- 09/11 15:30 [FirstSquawk] Russia’s Sberbank sees significant scope for CBDCs in India-Russia trade payments, CEO says.
+- 09/11 15:32 [FirstSquawk] Sberbank chief says CBDCs offer much greater efficiency for trade settlements and the bank is helping central banks.
+- 09/11 15:32 [FirstSquawk] UK DMO adds Natixis as an associate GEMM.
+- 09/11 15:34 [financialjuice] ECB's Nagel: Next ECB moves dependent on energy price development.
+- 09/11 15:35 [DeItaone] IRAN, PAKISTAN DISCUSS PATH BACK TO TALKS Iranian Foreign Minister Abbas Araqchi and Pakistan’s army chief Asim Munir discussed efforts to de-escalate the U.S.-Iran conflict, a Pakistani security official told Reuters. The talks also covere…
+- 09/11 15:36 [FirstSquawk] India settles most of its oil purchases from Russia in rupees, Sberbank CEO says.
+- 09/11 15:36 [FirstSquawk] Energy prices will determine ECB policy moves, Nagel says.
+- 09/11 15:36 [financialjuice] ECB's Nagel: Low gas storage level not a real concern.
+- 09/11 15:36 [financialjuice] ECB's Nagel: At upper bound of neutral territory.
+- 09/11 15:37 [financialjuice] ECB's Nagel: We might need to go into mildly restrictive territory.
+- 09/11 15:37 [FirstSquawk] Nagel: A mildly restrictive policy stance may become necessary.
