@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 00:18 JST／対象: 09/11 12:18 〜 09/12 00:18 JST（時刻はすべて日本時間）
+生成: 2026-09-12 00:33 JST／対象: 09/11 12:33 〜 09/12 00:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 46 | 09/11 15:05 | 09/11 23:00 | 37分（19:03→19:41） |
-| FirstSquawk | 165 | 09/11 12:25 | 09/11 23:55 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 97 | 09/11 15:34 | 09/12 00:12 | ⚠ 55分（16:05→17:01） |
+| FirstSquawk | 163 | 09/11 12:42 | 09/12 00:31 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 99 | 09/11 15:34 | 09/12 00:26 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 304 行（統合前 308 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 12:25 [FirstSquawk] Hezbollah tunnel network in southern Lebanon destroyed by Israel, triggering tremors.
-- 09/11 12:26 [FirstSquawk] Petrol-powered cars from foreign marques see deep price cuts as competition heats up in China.
-- 09/11 12:30 [FirstSquawk] Three-month Japanese Treasury bills clear at a lowest price of 99.7050 and average 99.7228, while 12.8708% of bids are accepted at the lowest price.
-- 09/11 12:32 [FirstSquawk] Former Malaysian PM Najib’s pardon request delayed until the next Pardons Board meeting, officials say.
 - 09/11 12:42 [FirstSquawk] China’s Finance Ministry sets the yield at 1.38% in its 5-year bond auction, traders say.
 - 09/11 12:45 [FirstSquawk] Trump warns the U.S. could be badly positioned globally if it loses the race for AI leadership.
 - 09/11 12:45 [FirstSquawk] Trump dismisses concerns that artificial intelligence could lead to human extinction.
@@ -328,3 +324,7 @@
 - 09/11 23:55 [FirstSquawk] INDIA'S PM MODI MET WITH IRAN'S PEZESHKIAN, EMPHASIZING THE IMPORTANCE OF SAFEGUARDING NAVIGATION AND TRADE, AS WELL AS THE SAFETY AND WELL-BEING OF SAILORS.
 - 09/12 00:01 [financialjuice] QatarEnergy Seeks Multi-Year LNG Supply Deals as Ras Laffan Repairs Seen Taking 3-5 Years
 - 09/12 00:12 [financialjuice] IDF: In the coming hours, attacks are expected in Lebanon, and explosions will be heard in the Western Galilee - Israel's N12 News.
+- 09/12 00:19 [financialjuice] The House plans to vote on a Russia sanctions bill next week - Person Familiar.
+- 09/12 00:26 [financialjuice] Tesla: Semi truck is coming to Europe - X Post. $TSLA
+- 09/12 00:31 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.35%; GERMANY'S DAX UP 0.77%
+- 09/12 00:31 [FirstSquawk] FRANCE'S CAC 40 UP 0.74%; SPAIN'S IBEX UP 0.86%

@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 00:18 JST／対象: 09/11 18:18 〜 09/12 00:18 JST（時刻はすべて日本時間）
+生成: 2026-09-12 00:33 JST／対象: 09/11 18:33 〜 09/12 00:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 33 | 09/11 18:20 | 09/11 23:00 | 37分（19:03→19:41） |
-| FirstSquawk | 50 | 09/11 18:19 | 09/11 23:55 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 70 | 09/11 18:21 | 09/12 00:12 | 36分（18:21→18:57） |
+| DeItaone | 31 | 09/11 18:48 | 09/11 23:00 | 37分（19:03→19:41） |
+| FirstSquawk | 50 | 09/11 18:37 | 09/12 00:31 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 71 | 09/11 18:57 | 09/12 00:26 | 27分（19:33→20:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 152 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 151 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 18:19 [FirstSquawk] CHINA'S MOONSHOT AI AIMS FOR $2 BILLION IN ANNUAL SALES BY 2026.
-- 09/11 18:20 [DeItaone] WALL STREET HIKES OIL FORECASTS AS GULF DISRUPTIONS PERSIST Major banks are raising Brent forecasts as prolonged Middle East shipping disruptions tighten global oil supply. HSBC sees Brent averaging $90 in 2026, while Goldman warns prices c…
-- 09/11 18:21 [financialjuice] SNB's Chairman Schlegel: Inflation recently ticked up in Switzerland.
-- 09/11 18:23 [DeItaone] BofA WARNS “BLASÉ” MARKETS SET FOR HIGHER VOLATILITY U.S. equity funds have seen $14.2 billion of outflows in three weeks, the largest since January, according to BofA. With Treasury yields surging, oil above $100 and diesel at record highs…
-- 09/11 18:25 [FirstSquawk] SNB'S SCHLEGEL PRESENTATION OMITS USUAL LINES ON FRANC, PRICES
 - 09/11 18:37 [FirstSquawk] SAUDI ARABIA CONDUCTED TWO AIRSTRIKES ON MOCHA AIRPORT IN WESTERN YEMEN ON FRIDAY, AS REPORTED BY HOUTHI-RUN AL-MASIRAH TV, PER AFP.
 - 09/11 18:44 [FirstSquawk] INSIDE GERMANY’S €3.4B TOMAHAWK MISSILE PLAN - POLITICO
 - 09/11 18:48 [FirstSquawk] GERMAN FINANCE MINISTRY SPOKESPERSON: COMMERZBANK IS IMPORTANT FOR SME FINANCING, GERMAN FINANCIAL SECTOR
@@ -176,3 +171,7 @@
 - 09/11 23:55 [FirstSquawk] INDIA'S PM MODI MET WITH IRAN'S PEZESHKIAN, EMPHASIZING THE IMPORTANCE OF SAFEGUARDING NAVIGATION AND TRADE, AS WELL AS THE SAFETY AND WELL-BEING OF SAILORS.
 - 09/12 00:01 [financialjuice] QatarEnergy Seeks Multi-Year LNG Supply Deals as Ras Laffan Repairs Seen Taking 3-5 Years
 - 09/12 00:12 [financialjuice] IDF: In the coming hours, attacks are expected in Lebanon, and explosions will be heard in the Western Galilee - Israel's N12 News.
+- 09/12 00:19 [financialjuice] The House plans to vote on a Russia sanctions bill next week - Person Familiar.
+- 09/12 00:26 [financialjuice] Tesla: Semi truck is coming to Europe - X Post. $TSLA
+- 09/12 00:31 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.35%; GERMANY'S DAX UP 0.77%
+- 09/12 00:31 [FirstSquawk] FRANCE'S CAC 40 UP 0.74%; SPAIN'S IBEX UP 0.86%

@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 00:18 JST／対象: 09/11 00:18 〜 09/12 00:18 JST（時刻はすべて日本時間）
+生成: 2026-09-12 00:33 JST／対象: 09/11 00:33 〜 09/12 00:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 66 | 09/11 01:33 | 09/11 23:00 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 303 | 09/11 00:31 | 09/11 23:55 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 198 | 09/11 00:32 | 09/12 00:12 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 303 | 09/11 00:58 | 09/12 00:31 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 197 | 09/11 00:52 | 09/12 00:26 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 557 行（統合前 568 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 556 行（統合前 567 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.55%; GERMANY'S DAX DOWN 0.69%
-- 09/11 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.44%; SPAIN'S IBEX DOWN 0.01%
-- 09/11 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.81 (FORECAST -, PREVIOUS 2.970) $MACRO
-- 09/11 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.775% (FORECAST -, PREVIOUS 3.700%) $MACRO
-- 09/11 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.775% Bid-to-cover 2.91 Sells $90 bln Awards 34.21% of bids at high
 - 09/11 00:52 [financialjuice] The Trump Administration partners with OpenAI to use AI tools - Fox Business
 - 09/11 00:58 [FirstSquawk] UAE PLANS TO INVEST €40 BILLION IN GERMANY.
 - 09/11 01:00 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 1.269M (FORECAST -1.275M, PREVIOUS -1.173M) $MACRO
@@ -581,3 +576,7 @@
 - 09/11 23:55 [FirstSquawk] INDIA'S PM MODI MET WITH IRAN'S PEZESHKIAN, EMPHASIZING THE IMPORTANCE OF SAFEGUARDING NAVIGATION AND TRADE, AS WELL AS THE SAFETY AND WELL-BEING OF SAILORS.
 - 09/12 00:01 [financialjuice] QatarEnergy Seeks Multi-Year LNG Supply Deals as Ras Laffan Repairs Seen Taking 3-5 Years
 - 09/12 00:12 [financialjuice] IDF: In the coming hours, attacks are expected in Lebanon, and explosions will be heard in the Western Galilee - Israel's N12 News.
+- 09/12 00:19 [financialjuice] The House plans to vote on a Russia sanctions bill next week - Person Familiar.
+- 09/12 00:26 [financialjuice] Tesla: Semi truck is coming to Europe - X Post. $TSLA
+- 09/12 00:31 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.35%; GERMANY'S DAX UP 0.77%
+- 09/12 00:31 [FirstSquawk] FRANCE'S CAC 40 UP 0.74%; SPAIN'S IBEX UP 0.86%
