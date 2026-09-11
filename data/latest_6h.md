@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 17:27 JST／対象: 09/11 11:27 〜 09/11 17:27 JST（時刻はすべて日本時間）
+生成: 2026-09-11 17:45 JST／対象: 09/11 11:45 〜 09/11 17:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/11 15:05 | 09/11 17:08 | 33分（16:08→16:41） |
-| FirstSquawk | 113 | 09/11 11:32 | 09/11 17:25 | 17分（16:40→16:58） |
-| financialjuice | 17 | 09/11 15:34 | 09/11 17:21 | ⚠ 55分（16:05→17:01） |
+| DeItaone | 12 | 09/11 15:05 | 09/11 17:28 | 33分（16:08→16:41） |
+| FirstSquawk | 110 | 09/11 11:53 | 09/11 17:41 | 17分（16:40→16:58） |
+| financialjuice | 24 | 09/11 15:34 | 09/11 17:44 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 137 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 11:32 [FirstSquawk] Economic strain leaves Iranians struggling to secure fuel supplies.
-- 09/11 11:39 [FirstSquawk] China’s benchmark Shanghai Composite drops 2%.
-- 09/11 11:39 [FirstSquawk] Saudi Red Sea oil exports come under threat as Houthis advance along Yemen’s coastline.
-- 09/11 11:40 [FirstSquawk] Benchmark coking coal contract in China retreats more than 3%.
-- 09/11 11:45 [FirstSquawk] Fewer than 10 commodity vessels cross the Strait of Hormuz on Thursday, data shows, well below the 10-day average.
 - 09/11 11:53 [FirstSquawk] JPMorgan lowers AB Foods’ target price to 1,645p from 1,700p.
 - 09/11 11:54 [FirstSquawk] Nikkei reports Astemo will invest $379 million in Kentucky to increase electric motor production.
 - 09/11 12:01 [FirstSquawk] Russia’s Volgograd region reports damage to an industrial facility from missile debris.
@@ -161,3 +156,14 @@
 - 09/11 17:21 [financialjuice] Japan trade delegation preparing China visit in September - Kyodo
 - 09/11 17:21 [FirstSquawk] ZELENSKY AND CANADIAN PM MARK CARNEY FORM A 100-YEAR PARTNERSHIP. CANADA JOINS UKRAINE’S FREYJA ANTI-BALLISTIC MISSILE PROJECT, OFFERS NEW AIR-DEFENSE AID, AND MOVES FORWARD WITH A DRONE DEAL.
 - 09/11 17:25 [FirstSquawk] YEMENI GOVERNMENT FORCES RETREAT FROM PERIM ISLAND IN BAB EL-MANDEB STRAIT
+- 09/11 17:27 [DeItaone] WALL STREET SEES 4%-5% TREASURY YIELDS AS NEW NORMAL Treasury yields are reaching levels unseen since 2008, as markets increasingly bet the Fed’s next move will be a hike. Bloomberg Economics argues the shift is structural: rising governmen…
+- 09/11 17:28 [financialjuice] Microsoft plans to triple data center capacity to 38 Gigawatts.
+- 09/11 17:28 [DeItaone] YEMENI GOVERNMENT FORCES WITHDRAW FROM PERIM ISLAND IN BAB EL-MANDEB STRAIT - TWO YEMENI GOVERMENTAL SOURCES
+- 09/11 17:31 [financialjuice] UK 1 YR INFLATION EXPECTATIONS ACTUAL 3.2% (FORECAST -, PREVIOUS 4%) $MACRO
+- 09/11 17:32 [financialjuice] Bank of England median one-year, two-year and five-year ahead expectations were 3.6%, 3.1% and 3.3% respectively.
+- 09/11 17:35 [FirstSquawk] HOUTHI SPOKESMAN: YEMENI ARMED FORCES TO ANNOUNCE MAJOR MILITARY OPERATIONS
+- 09/11 17:36 [financialjuice] France Fin. Min. Lescure: Economic uncertainties have never been so high.
+- 09/11 17:41 [FirstSquawk] FRENCH FINMIN LESCURE: ECONOMIC UNCERTAINTIES HAVE NEVER BEEN SO HIGH
+- 09/11 17:42 [financialjuice] French Finance Minister Lescure: Debt service costs seen at 65 billion euros this year, an increase of 4.5 billion euros from what was planned due to geopolitical crisis.
+- 09/11 17:43 [financialjuice] France Fin. Min. Lescure: 2027 growth forecast unrevised at 1.0%.
+- 09/11 17:44 [financialjuice] France Fin. Min. Lescure: We see 2026 inflation of 2.1%, 1.8% in 2027.

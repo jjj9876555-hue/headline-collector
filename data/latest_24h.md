@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 17:27 JST／対象: 09/10 17:27 〜 09/11 17:27 JST（時刻はすべて日本時間）
+生成: 2026-09-11 17:45 JST／対象: 09/10 17:45 〜 09/11 17:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 09/10 17:30 | 09/11 17:08 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 364 | 09/10 17:32 | 09/11 17:25 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 284 | 09/10 17:53 | 09/11 17:21 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 66 | 09/10 18:05 | 09/11 17:28 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 360 | 09/10 17:52 | 09/11 17:41 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 291 | 09/10 17:53 | 09/11 17:44 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 688 行（統合前 719 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 692 行（統合前 723 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 17:30 [DeItaone] $META - JPMORGAN TURNS BULLISH ON META’S AI POTENTIAL JPMorgan upgraded Meta to Overweight and raised its price target to $820 from $640, implying roughly 24% upside. The bank sees significant new revenue opportunities from AI agents, subsc…
-- 09/10 17:32 [FirstSquawk] VIETNAM WILL START TRIAL RUNS AT LONG THANH INTERNATIONAL AIRPORT, BUT AIRLINES ARE HESITANT TO MOVE FLIGHTS DUE TO CONCERNS ABOUT FEES AND CONNECTIVITY.
-- 09/10 17:35 [FirstSquawk] VW ESTIMATES THE COST OF JOB CUTS AND PLANT CLOSURES AT 16B EUROS - SPIEGEL
-- 09/10 17:36 [FirstSquawk] KIM JONG UN GAVE PUBLIC PRAISE TO NORTH KOREAN SOLDIERS INVOLVED IN "OVERSEAS MILITARY OPERATIONS," MAKING PYONGYANG’S ROLE IN RUSSIA’S WAR ON UKRAINE MORE NORMALIZED.
-- 09/10 17:38 [FirstSquawk] COINBASE EXPECTS STABLECOIN PAYMENTS TO BECOME A SIGNIFICANT REVENUE BOOST.
-- 09/10 17:39 [FirstSquawk] UKRAINIAN AIR DEFENSES CLAIMED THEY HAVE DESTROYED 128 RUSSIAN DRONES OF DIFFERENT TYPES.
-- 09/10 17:42 [FirstSquawk] UK 2-YEAR YIELD CLIMBS 2BPS TO 4.72%, HIGHEST SINCE NOV. 2023
 - 09/10 17:52 [FirstSquawk] BORING CO. RAISES $3 BILLION IN NEW FUNDING FROM UAE AND ASSOCIATED INVESTORS, PUTTING ELON MUSK’S TUNNELING COMPANY'S VALUE AT $23 BILLION.
 - 09/10 17:53 [FirstSquawk] US AI SAFETY BILL COULD BE PRESENTED AS SOON AS NEXT WEEK, ACCORDING TO SEMAFOR.
 - 09/10 17:53 [financialjuice] US AI safety bill may be introduced early as next week - Semafor
@@ -712,3 +705,14 @@
 - 09/11 17:21 [financialjuice] Japan trade delegation preparing China visit in September - Kyodo
 - 09/11 17:21 [FirstSquawk] ZELENSKY AND CANADIAN PM MARK CARNEY FORM A 100-YEAR PARTNERSHIP. CANADA JOINS UKRAINE’S FREYJA ANTI-BALLISTIC MISSILE PROJECT, OFFERS NEW AIR-DEFENSE AID, AND MOVES FORWARD WITH A DRONE DEAL.
 - 09/11 17:25 [FirstSquawk] YEMENI GOVERNMENT FORCES RETREAT FROM PERIM ISLAND IN BAB EL-MANDEB STRAIT
+- 09/11 17:27 [DeItaone] WALL STREET SEES 4%-5% TREASURY YIELDS AS NEW NORMAL Treasury yields are reaching levels unseen since 2008, as markets increasingly bet the Fed’s next move will be a hike. Bloomberg Economics argues the shift is structural: rising governmen…
+- 09/11 17:28 [financialjuice] Microsoft plans to triple data center capacity to 38 Gigawatts.
+- 09/11 17:28 [DeItaone] YEMENI GOVERNMENT FORCES WITHDRAW FROM PERIM ISLAND IN BAB EL-MANDEB STRAIT - TWO YEMENI GOVERMENTAL SOURCES
+- 09/11 17:31 [financialjuice] UK 1 YR INFLATION EXPECTATIONS ACTUAL 3.2% (FORECAST -, PREVIOUS 4%) $MACRO
+- 09/11 17:32 [financialjuice] Bank of England median one-year, two-year and five-year ahead expectations were 3.6%, 3.1% and 3.3% respectively.
+- 09/11 17:35 [FirstSquawk] HOUTHI SPOKESMAN: YEMENI ARMED FORCES TO ANNOUNCE MAJOR MILITARY OPERATIONS
+- 09/11 17:36 [financialjuice] France Fin. Min. Lescure: Economic uncertainties have never been so high.
+- 09/11 17:41 [FirstSquawk] FRENCH FINMIN LESCURE: ECONOMIC UNCERTAINTIES HAVE NEVER BEEN SO HIGH
+- 09/11 17:42 [financialjuice] French Finance Minister Lescure: Debt service costs seen at 65 billion euros this year, an increase of 4.5 billion euros from what was planned due to geopolitical crisis.
+- 09/11 17:43 [financialjuice] France Fin. Min. Lescure: 2027 growth forecast unrevised at 1.0%.
+- 09/11 17:44 [financialjuice] France Fin. Min. Lescure: We see 2026 inflation of 2.1%, 1.8% in 2027.

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 17:27 JST／対象: 09/11 05:27 〜 09/11 17:27 JST（時刻はすべて日本時間）
+生成: 2026-09-11 17:45 JST／対象: 09/11 05:45 〜 09/11 17:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/11 06:36 | 09/11 17:08 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 170 | 09/11 05:35 | 09/11 17:25 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 46 | 09/11 06:04 | 09/11 17:21 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 19 | 09/11 06:36 | 09/11 17:28 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 166 | 09/11 06:26 | 09/11 17:41 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 53 | 09/11 06:04 | 09/11 17:44 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 230 行（統合前 233 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 235 行（統合前 238 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 05:35 [FirstSquawk] RUSSIA’S “NET ERRORS AND OMISSIONS” HIT A RECORD $12.2 BILLION IN Q2 2026, UP FROM $1.4 BILLION THE PREVIOUS QUARTER AND MARKING THE LARGEST UNEXPLAINED BALANCE-OF-PAYMENTS GAP SINCE 1994. - SOURCES
-- 09/11 05:35 [FirstSquawk] THE FIGURE IS NOT PROOF OF CAPITAL FLIGHT, AS SANCTIONS WORKAROUNDS AND PAYMENT TIMING CAN ALSO CONTRIBUTE, BUT IT COMES AMID REPORTS OF BILLIONS MOVED ABROAD BY WEALTHY RUSSIANS THROUGH CRYPTO, GOLD, DUBAI PROPERTY AND PRIVATE FUNDS. - SOU…
-- 09/11 05:36 [FirstSquawk] SAUDI OIL PRODUCTION PLUNGED 23% IN AUGUST TO 6.24 MILLION BARRELS A DAY AS THE IRAN WAR AND HOUTHI THREATS DISRUPTED KEY EXPORT ROUTES. - WSJ
-- 09/11 05:36 [FirstSquawk] CNN REPORTS THAT 100–200 U.S. MILITARY ADVISERS ARE NOW IN SAUDI ARABIA PROVIDING REAL-TIME INTELLIGENCE, TARGETING AND GEOSPATIAL SUPPORT AGAINST THE HOUTHIS, MARKING A SIGNIFICANT ESCALATION IN U.S. INVOLVEMENT.
-- 09/11 05:36 [FirstSquawk] A JOINT FORCES COMMAND WAS ESTABLISHED AFTER IRAN INCREASED SUPPORT TO THE HOUTHIS, INCLUDING DEPLOYING IRGC OFFICERS TO YEMEN, AS THE HOUTHIS’ CONTROL OF MOKHA RAISES CONCERNS OVER THE BAB-EL-MANDEB STRAIT; U.S. FORCES ARE NOT DIRECTLY PAR…
-- 09/11 05:38 [FirstSquawk] JD VANCE PRIVATELY SOUGHT UNFILTERED ASSESSMENTS FROM U.S. MILITARY COMMANDERS, WHO WARNED THAT THE IRAN WAR WAS DRAINING CRITICAL STOCKPILES OF PATRIOT INTERCEPTORS AND LONG-RANGE MISSILES AND COULD WEAKEN U.S. DETERRENCE AGAINST CHINA, RU…
 - 09/11 06:04 [financialjuice] OpenAI's Thibault Sottiaux: pausing subscriptions to $200 pro plan - X post
 - 09/11 06:07 [financialjuice] Microsoft plans 38 gigawatts of data center capacity to meet demand
 - 09/11 06:09 [financialjuice] Microsoft's data center network will exceed 38 gigawatts capacity in 2032, up from around 12 gigawatts now
@@ -254,3 +248,14 @@
 - 09/11 17:21 [financialjuice] Japan trade delegation preparing China visit in September - Kyodo
 - 09/11 17:21 [FirstSquawk] ZELENSKY AND CANADIAN PM MARK CARNEY FORM A 100-YEAR PARTNERSHIP. CANADA JOINS UKRAINE’S FREYJA ANTI-BALLISTIC MISSILE PROJECT, OFFERS NEW AIR-DEFENSE AID, AND MOVES FORWARD WITH A DRONE DEAL.
 - 09/11 17:25 [FirstSquawk] YEMENI GOVERNMENT FORCES RETREAT FROM PERIM ISLAND IN BAB EL-MANDEB STRAIT
+- 09/11 17:27 [DeItaone] WALL STREET SEES 4%-5% TREASURY YIELDS AS NEW NORMAL Treasury yields are reaching levels unseen since 2008, as markets increasingly bet the Fed’s next move will be a hike. Bloomberg Economics argues the shift is structural: rising governmen…
+- 09/11 17:28 [financialjuice] Microsoft plans to triple data center capacity to 38 Gigawatts.
+- 09/11 17:28 [DeItaone] YEMENI GOVERNMENT FORCES WITHDRAW FROM PERIM ISLAND IN BAB EL-MANDEB STRAIT - TWO YEMENI GOVERMENTAL SOURCES
+- 09/11 17:31 [financialjuice] UK 1 YR INFLATION EXPECTATIONS ACTUAL 3.2% (FORECAST -, PREVIOUS 4%) $MACRO
+- 09/11 17:32 [financialjuice] Bank of England median one-year, two-year and five-year ahead expectations were 3.6%, 3.1% and 3.3% respectively.
+- 09/11 17:35 [FirstSquawk] HOUTHI SPOKESMAN: YEMENI ARMED FORCES TO ANNOUNCE MAJOR MILITARY OPERATIONS
+- 09/11 17:36 [financialjuice] France Fin. Min. Lescure: Economic uncertainties have never been so high.
+- 09/11 17:41 [FirstSquawk] FRENCH FINMIN LESCURE: ECONOMIC UNCERTAINTIES HAVE NEVER BEEN SO HIGH
+- 09/11 17:42 [financialjuice] French Finance Minister Lescure: Debt service costs seen at 65 billion euros this year, an increase of 4.5 billion euros from what was planned due to geopolitical crisis.
+- 09/11 17:43 [financialjuice] France Fin. Min. Lescure: 2027 growth forecast unrevised at 1.0%.
+- 09/11 17:44 [financialjuice] France Fin. Min. Lescure: We see 2026 inflation of 2.1%, 1.8% in 2027.
