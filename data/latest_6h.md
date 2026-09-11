@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 14:43 JST／対象: 09/11 08:43 〜 09/11 14:43 JST（時刻はすべて日本時間）
+生成: 2026-09-11 14:58 JST／対象: 09/11 08:58 〜 09/11 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/11 08:47 | 09/11 08:48 | 0分（08:47→08:48） |
-| FirstSquawk | 86 | 09/11 09:00 | 09/11 14:42 | 15分（13:50→14:06） |
-| financialjuice | 19 | 09/11 08:50 | 09/11 10:47 | 27分（09:00→09:28） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 88 | 09/11 09:00 | 09/11 14:53 | 15分（13:50→14:06） |
+| financialjuice | 14 | 09/11 09:00 | 09/11 10:47 | 27分（09:00→09:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 08:47 [DeItaone] TRUMP SUGGESTS ELECTION MAY LIMIT IRAN ESCALATION President Donald Trump said the upcoming election could influence whether the U.S. goes “fully” into Iran, while insisting he has no regrets over the conflict. Trump also claimed the U.S. co…
-- 09/11 08:48 [DeItaone] TRUMP SAYS IRAN WAR TO END AFTER MIDTERMS President Donald Trump reiterated that he expects the war with Iran to end “right after” the midterm elections, saying Tehran is “in deep trouble.” Trump also claimed Iran’s missile stockpile has be…
-- 09/11 08:50 [financialjuice] JAPANESE BUSINESS SURVEY INDEX ACTUAL 7.6% (FORECAST -, PREVIOUS -1.8%) $MACRO
-- 09/11 08:50 [financialjuice] ❗ JAPANESE PPI YOY ACTUAL 7.6% (FORECAST 7.4%, PREVIOUS 7.2%) $MACRO
-- 09/11 08:50 [financialjuice] ❗ JAPANESE PPI MOM ACTUAL -0.2% (FORECAST 0%, PREVIOUS 0.1%) $MACRO
-- 09/11 08:50 [financialjuice] Japan Aug domestic CGPI falls 0.2% month-on-month, BoJ: poll 0.0%
-- 09/11 08:50 [financialjuice] Japan Aug domestic corporate goods price index up 7.6% yr/yr: BoJ (Poll +7.4%)
 - 09/11 09:00 [FirstSquawk] Trump says Iran’s inflation rate has reached 300%, speaking to Fox News.
 - 09/11 09:00 [financialjuice] S. Korea semiconductor exports surge 270.1% year on year from Sept. 1-10: customs agency
 - 09/11 09:00 [financialjuice] S.Korea sept 1-10 trade surplus provisional $10.4 billion: customs agency
@@ -131,3 +124,5 @@
 - 09/11 14:33 [FirstSquawk] Berlin pushes for Commerzbank to stay listed as UniCredit targets a deal, Reuters reports.
 - 09/11 14:41 [FirstSquawk] APPLE’S IPHONE 18 UPGRADE CYCLE LIKELY TO BOOST SOME SUPPLIERS-WSJ
 - 09/11 14:42 [FirstSquawk] Brent eases to $105.86 and WTI to $101.22, giving up part of their early Asian gains.
+- 09/11 14:51 [FirstSquawk] Italian foreign minister to avoid talks with Taiwanese officials during their Italy visit, RTRS says.
+- 09/11 14:53 [FirstSquawk] RBC trims its Puma price target to €23 from €25.

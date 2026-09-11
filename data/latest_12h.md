@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 14:43 JST／対象: 09/11 02:43 〜 09/11 14:43 JST（時刻はすべて日本時間）
+生成: 2026-09-11 14:58 JST／対象: 09/11 02:58 〜 09/11 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/11 02:44 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 145 | 09/11 02:44 | 09/11 14:42 | ⚠ 81分（07:38→09:00） |
+| DeItaone | 10 | 09/11 03:05 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 145 | 09/11 03:02 | 09/11 14:53 | ⚠ 81分（07:38→09:00） |
 | financialjuice | 64 | 09/11 03:00 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 214 行（統合前 221 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 213 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 02:44 [DeItaone] OPENAI LAUNCHES CHATGPT FOR WALL STREET OpenAI is launching ChatGPT for Financial Services, targeting investment bankers and equity researchers with integrated data from LSEG, PitchBook and Daloopa. Powered initially by GPT-6 Astra, the pla…
-- 09/11 02:44 [FirstSquawk] OPENAI IS INTRODUCING CHATGPT FOR FINANCIAL SERVICES, EMBEDDING GPT-6 ASTRA IN THE FINANCIAL SERVICES PRODUCT
-- 09/11 02:54 [FirstSquawk] IRAN'S TOP SECURITY OFFICIAL REZAEI SAYS ON THE IAEA BOARD OF GOVERNORS DECISION THAT THE IAEA'S 'POLITICAL' MOVES WILL PUSH COUNTRIES TO EXIT THE NPT
 - 09/11 03:00 [financialjuice] Ukraine’s President Zelenskiy: Plan to meet the US team at the end of September in New York.
 - 09/11 03:02 [FirstSquawk] MACQUARIE GROUP SAYS A MACQUARIE ASSET MANAGEMENT-LED CONSORTIUM WILL ACQUIRE SI SOLUTIONS FROM MIDOCEAN PARTNERS, WITH THE TRANSACTION EXPECTED TO CLOSE IN FALL 2026
 - 09/11 03:02 [FirstSquawk] UKRAINE'S ZELENSKIY SAYS THERE WILL BE NO TRILATERAL TALKS BEFORE ELECTIONS IN RUSSIA, ADDING THAT HE HOPES FOR PROGRESS ON ENERGY AND GRAIN TALKS AFTER MEETING WITH TRUMP AT THE END OF SEPTEMBER
@@ -238,3 +235,5 @@
 - 09/11 14:33 [FirstSquawk] Berlin pushes for Commerzbank to stay listed as UniCredit targets a deal, Reuters reports.
 - 09/11 14:41 [FirstSquawk] APPLE’S IPHONE 18 UPGRADE CYCLE LIKELY TO BOOST SOME SUPPLIERS-WSJ
 - 09/11 14:42 [FirstSquawk] Brent eases to $105.86 and WTI to $101.22, giving up part of their early Asian gains.
+- 09/11 14:51 [FirstSquawk] Italian foreign minister to avoid talks with Taiwanese officials during their Italy visit, RTRS says.
+- 09/11 14:53 [FirstSquawk] RBC trims its Puma price target to €23 from €25.

@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 14:43 JST／対象: 09/10 14:43 〜 09/11 14:43 JST（時刻はすべて日本時間）
+生成: 2026-09-11 14:58 JST／対象: 09/10 14:58 〜 09/11 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/10 16:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 358 | 09/10 14:44 | 09/11 14:42 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 276 | 09/10 14:44 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 352 | 09/10 15:03 | 09/11 14:53 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 275 | 09/10 15:00 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 671 行（統合前 699 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 664 行（統合前 692 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 14:44 [FirstSquawk] BOJ board member Masu says rising oil and food prices, along with the stronger yen, will be key factors in next week’s rate decision.
-- 09/10 14:44 [financialjuice] BoJ's Masu: Yen is rising while crude oil, global food prices rising so will scrutinize these factors comprehensively at next week's meeting in deciding on rates.
-- 09/10 14:48 [FirstSquawk] BOJ board member Masu says the pace of future rate increases will depend on decisions taken at individual meetings.
-- 09/10 14:50 [FirstSquawk] BOJ board member Masu says inflation has not shown signs of a significant overshoot so far.
-- 09/10 14:50 [FirstSquawk] BOJ board member Masu says current inflation risks are manageable if price trends stay aligned with the July outlook.
-- 09/10 14:51 [FirstSquawk] Military aviation activity prompts temporary closure of Poland’s Lublin and Rzeszów airports, PANSA says.
-- 09/10 14:55 [FirstSquawk] BOJ board member Masu says the central bank will determine policy based on its own assessment, declining to address Bessent’s comments.
-- 09/10 14:56 [FirstSquawk] BOJ board member Masu links the rise in long-term rates to oil prices, global inflation and growing fiscal concerns.
-- 09/10 14:57 [FirstSquawk] BOJ board member Masu says emergency action is available to address unusually sharp moves in Japanese government bonds.
 - 09/10 15:00 [financialjuice] GERMAN CPI FINAL MOM ACTUAL 0.2% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
 - 09/10 15:00 [financialjuice] ❗ GERMAN CPI FINAL YOY ACTUAL 2.9% (FORECAST 2.9%, PREVIOUS 2.9%) $MACRO
 - 09/10 15:00 [financialjuice] GERMAN HICP FINAL MOM ACTUAL 0.2% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
@@ -695,3 +686,5 @@
 - 09/11 14:33 [FirstSquawk] Berlin pushes for Commerzbank to stay listed as UniCredit targets a deal, Reuters reports.
 - 09/11 14:41 [FirstSquawk] APPLE’S IPHONE 18 UPGRADE CYCLE LIKELY TO BOOST SOME SUPPLIERS-WSJ
 - 09/11 14:42 [FirstSquawk] Brent eases to $105.86 and WTI to $101.22, giving up part of their early Asian gains.
+- 09/11 14:51 [FirstSquawk] Italian foreign minister to avoid talks with Taiwanese officials during their Italy visit, RTRS says.
+- 09/11 14:53 [FirstSquawk] RBC trims its Puma price target to €23 from €25.
