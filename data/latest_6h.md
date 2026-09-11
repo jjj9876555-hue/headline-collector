@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 10:46 JST／対象: 09/11 04:46 〜 09/11 10:46 JST（時刻はすべて日本時間）
+生成: 2026-09-11 10:58 JST／対象: 09/11 04:58 〜 09/11 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/11 06:36 | 09/11 08:48 | ⚠ 60分（07:31→08:32） |
-| FirstSquawk | 53 | 09/11 05:01 | 09/11 10:41 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 37 | 09/11 04:51 | 09/11 10:39 | ⚠ 48分（08:01→08:50） |
+| FirstSquawk | 59 | 09/11 05:01 | 09/11 10:58 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 36 | 09/11 05:02 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 96 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 101 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 466.4 MLN NASDAQ 100: 464.1 MLN DOW 30: -128.5 MLN MAG 7: 336.9 MLN $MACRO
-- 09/11 04:52 [financialjuice] Trump and JD Vance speak at the Republican midterm convention - WATCH LIVE
 - 09/11 05:01 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 171.22 POINTS, OR 0.65%, AT 26,082.12. S&P 500 UNOFFICIALLY CLOSES DOWN 45.92 POINTS, OR 0.60%, AT 7,590.44. DOW JONES INDUSTRIAL AVERAGE UNOFFICIALLY CLOSES DOWN 327.34 POINTS, OR 0.62%, AT 52,053.…
 - 09/11 05:02 [financialjuice/FirstSquawk] Yemeni Armed Forces launch missile attack on southern Saudi Arabia - IRNA
 - 09/11 05:08 [FirstSquawk] ADOBE Q3 ADJUSTED EPS RISES TO $6.13 FROM $6.09 EXPECTED, WHILE REVENUE REACHES $6.76 BILLION, ABOVE THE $6.70 BILLION ESTIMATE, AND ADJUSTED NET INCOME HITS $2.42 BILLION.
@@ -120,3 +118,10 @@
 - 09/11 10:39 [financialjuice] Ukraine drones strike Ozon logistics center in Russia's Saratov, trigger fire: Ozon
 - 09/11 10:39 [FirstSquawk] Ozon reports a fire at its Saratov logistics hub after Ukrainian drones struck the facility.
 - 09/11 10:41 [FirstSquawk] 10-year JGB yield jumps 7.5 basis points, reaching 2.985%.
+- 09/11 10:47 [financialjuice] Taiwan stocks fall over 2%
+- 09/11 10:48 [FirstSquawk] Taiwanese shares decline sharply, falling over 2%.
+- 09/11 10:54 [FirstSquawk] Sterling stays above 1.3500 as markets await U.S. CPI figures.
+- 09/11 10:55 [FirstSquawk] Soybeans in Chicago retreat slightly after climbing to a three-year high on China demand.
+- 09/11 10:57 [FirstSquawk] Micron says eligible Taiwan employees will get a T$1 million thank-you payment for FY2026.
+- 09/11 10:58 [FirstSquawk] Taiwan-based Micron staff may get performance payouts reaching 500% of base targets plus additional equity for FY2026.
+- 09/11 10:58 [FirstSquawk] Taiwan-based Micron direct employees to receive FY2026 compensation equivalent to 35–68 months of salary, including a minimum T$1.7 million cash payout.

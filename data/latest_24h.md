@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 10:46 JST／対象: 09/10 10:46 〜 09/11 10:46 JST（時刻はすべて日本時間）
+生成: 2026-09-11 10:58 JST／対象: 09/10 10:58 〜 09/11 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/10 16:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 367 | 09/10 10:47 | 09/11 10:41 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 302 | 09/10 10:48 | 09/11 10:39 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 369 | 09/10 10:58 | 09/11 10:58 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 301 | 09/10 11:11 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 706 行（統合前 734 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 707 行（統合前 735 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 10:47 [FirstSquawk] BOJ board member Masu says corporate funding demand remains strong after recent rate hikes, raising concerns that investment activity could be running too hot.
-- 09/10 10:48 [financialjuice] BOJ's Masu: Debating maturity zones of JGBs held more crucial than balance sheet size
-- 09/10 10:48 [FirstSquawk] Masu says the BOJ will need to pay greater attention to the maturity composition of its JGB holdings when considering the appropriate balance-sheet size.
-- 09/10 10:50 [financialjuice] Yield gap between 10-year Chinese government bonds and US Treasury expands to record 316.7 basis points
-- 09/10 10:50 [FirstSquawk] Spread between China’s and the U.S.’s 10-year government bond yields hits an all-time high of 316.7 basis points.
-- 09/10 10:52 [FirstSquawk] Australia’s September consumer inflation expectations stay at 4.9%, matching the previous month.
 - 09/10 10:58 [FirstSquawk] SK Group chief to visit AI data center under construction in Ulsan - yonhap
 - 09/10 11:02 [FirstSquawk] Trump threatens to strike Mount Fao heavily if Iran resumes or conducts nuclear activity at the location.
 - 09/10 11:04 [FirstSquawk] Hong Kong’s biotech benchmark declines 2% in trading.
@@ -730,3 +724,10 @@
 - 09/11 10:39 [financialjuice] Ukraine drones strike Ozon logistics center in Russia's Saratov, trigger fire: Ozon
 - 09/11 10:39 [FirstSquawk] Ozon reports a fire at its Saratov logistics hub after Ukrainian drones struck the facility.
 - 09/11 10:41 [FirstSquawk] 10-year JGB yield jumps 7.5 basis points, reaching 2.985%.
+- 09/11 10:47 [financialjuice] Taiwan stocks fall over 2%
+- 09/11 10:48 [FirstSquawk] Taiwanese shares decline sharply, falling over 2%.
+- 09/11 10:54 [FirstSquawk] Sterling stays above 1.3500 as markets await U.S. CPI figures.
+- 09/11 10:55 [FirstSquawk] Soybeans in Chicago retreat slightly after climbing to a three-year high on China demand.
+- 09/11 10:57 [FirstSquawk] Micron says eligible Taiwan employees will get a T$1 million thank-you payment for FY2026.
+- 09/11 10:58 [FirstSquawk] Taiwan-based Micron staff may get performance payouts reaching 500% of base targets plus additional equity for FY2026.
+- 09/11 10:58 [FirstSquawk] Taiwan-based Micron direct employees to receive FY2026 compensation equivalent to 35–68 months of salary, including a minimum T$1.7 million cash payout.

@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 10:46 JST／対象: 09/10 22:46 〜 09/11 10:46 JST（時刻はすべて日本時間）
+生成: 2026-09-11 10:58 JST／対象: 09/10 22:58 〜 09/11 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/10 23:00 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 137 | 09/10 22:48 | 09/11 10:41 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 129 | 09/10 22:47 | 09/11 10:39 | ⚠ 48分（08:01→08:50） |
+| FirstSquawk | 141 | 09/10 23:00 | 09/11 10:58 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 128 | 09/10 23:00 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 287 行（統合前 296 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 290 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 22:47 [financialjuice] ECB projections assume exchange rate of $1.16 in 2026-2028.
-- 09/10 22:48 [financialjuice] ECB projections assume oil price of $89.5/barrel in 2026, $74 in 2027, and $73.60 in 2028.
-- 09/10 22:48 [FirstSquawk] ECB PROJECTIONS ASSUME OIL PRICE OF $89.5/BARREL IN 2026
-- 09/10 22:48 [FirstSquawk] ECB PROJECTIONS ASSUME OIL PRICE OF $78/BARREL IN 2027
 - 09/10 23:00 [FirstSquawk] US EXISTING HOME SALES (AUG) ACTUAL: 3.98M VS 4.06M PREVIOUS; EST 3.98M
 - 09/10 23:00 [financialjuice] ❗ US EXISTING HOME SALES ACTUAL 3.98M (FORECAST 3.98M, PREVIOUS 4.06M) $MACRO
 - 09/10 23:00 [financialjuice] US EXISTING HOME SALES CHANGE ACTUAL -2% (FORECAST -1.7%, PREVIOUS -1.7%) $MACRO
@@ -311,3 +307,10 @@
 - 09/11 10:39 [financialjuice] Ukraine drones strike Ozon logistics center in Russia's Saratov, trigger fire: Ozon
 - 09/11 10:39 [FirstSquawk] Ozon reports a fire at its Saratov logistics hub after Ukrainian drones struck the facility.
 - 09/11 10:41 [FirstSquawk] 10-year JGB yield jumps 7.5 basis points, reaching 2.985%.
+- 09/11 10:47 [financialjuice] Taiwan stocks fall over 2%
+- 09/11 10:48 [FirstSquawk] Taiwanese shares decline sharply, falling over 2%.
+- 09/11 10:54 [FirstSquawk] Sterling stays above 1.3500 as markets await U.S. CPI figures.
+- 09/11 10:55 [FirstSquawk] Soybeans in Chicago retreat slightly after climbing to a three-year high on China demand.
+- 09/11 10:57 [FirstSquawk] Micron says eligible Taiwan employees will get a T$1 million thank-you payment for FY2026.
+- 09/11 10:58 [FirstSquawk] Taiwan-based Micron staff may get performance payouts reaching 500% of base targets plus additional equity for FY2026.
+- 09/11 10:58 [FirstSquawk] Taiwan-based Micron direct employees to receive FY2026 compensation equivalent to 35–68 months of salary, including a minimum T$1.7 million cash payout.
