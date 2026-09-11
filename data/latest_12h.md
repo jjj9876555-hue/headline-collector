@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 05:32 JST／対象: 09/11 17:32 〜 09/12 05:32 JST（時刻はすべて日本時間）
+生成: 2026-09-12 05:46 JST／対象: 09/11 17:46 〜 09/12 05:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 35 | 09/11 17:48 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 106 | 09/11 17:35 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 131 | 09/11 17:36 | 09/12 05:25 | 37分（02:21→02:58） |
+| FirstSquawk | 103 | 09/11 17:55 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 130 | 09/11 17:54 | 09/12 05:43 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 271 行（統合前 273 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 267 行（統合前 269 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 17:35 [FirstSquawk] HOUTHI SPOKESMAN: YEMENI ARMED FORCES TO ANNOUNCE MAJOR MILITARY OPERATIONS
-- 09/11 17:36 [financialjuice] France Fin. Min. Lescure: Economic uncertainties have never been so high.
-- 09/11 17:41 [FirstSquawk] FRENCH FINMIN LESCURE: ECONOMIC UNCERTAINTIES HAVE NEVER BEEN SO HIGH
-- 09/11 17:42 [financialjuice] French Finance Minister Lescure: Debt service costs seen at 65 billion euros this year, an increase of 4.5 billion euros from what was planned due to geopolitical crisis.
-- 09/11 17:43 [financialjuice] France Fin. Min. Lescure: 2027 growth forecast unrevised at 1.0%.
-- 09/11 17:44 [financialjuice] France Fin. Min. Lescure: We see 2026 inflation of 2.1%, 1.8% in 2027.
-- 09/11 17:46 [FirstSquawk] FRANCE HAS REDUCED ITS 2026 GDP GROWTH PREDICTION TO 0.5% AND EXPECTS 1% GROWTH IN 2027.
 - 09/11 17:48 [DeItaone] *FRANCE CUTS 2026 GDP GROWTH FORECAST TO 0.5%, SEES +1% IN 2027
 - 09/11 17:54 [financialjuice] Japan 2026 extraordinary diet session eyed 69 days - Kyodo
 - 09/11 17:55 [FirstSquawk] UAE COMMITTED €40BN (~$46BN) IN NEW INVESTMENTS IN GERMANY, ADDING TO ABOUT €34BN ALREADY INVESTED, DURING SHEIKH MOHAMED BIN ZAYED'S VISIT.
@@ -295,3 +288,6 @@
 - 09/12 05:23 [financialjuice] Iraq appreciates Saudi Arabia's decision to hold off on retaliation - State Media.
 - 09/12 05:24 [financialjuice] Iraq rejects any attack that threatens Saudi security and stability - State Media.
 - 09/12 05:25 [financialjuice] The Iraqi PM has ordered an investigation into the circumstances of the attacks and the parties behind them, and will work with allies and friends to prevent a recurrence of such attacks - State Media.
+- 09/12 05:36 [financialjuice] North Korea launched ballistic missile - Yonhap
+- 09/12 05:37 [financialjuice] North Korea launched unidentified projectile - Yonhap
+- 09/12 05:43 [financialjuice] North Korea launches unidentified projectile toward East Sea - Yonhap
