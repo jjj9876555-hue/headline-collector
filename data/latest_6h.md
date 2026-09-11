@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 13:34 JST／対象: 09/11 07:34 〜 09/11 13:34 JST（時刻はすべて日本時間）
+生成: 2026-09-11 13:51 JST／対象: 09/11 07:51 〜 09/11 13:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/11 08:32 | 09/11 08:48 | 7分（08:32→08:39） |
-| FirstSquawk | 78 | 09/11 07:37 | 09/11 13:33 | ⚠ 81分（07:38→09:00） |
+| FirstSquawk | 78 | 09/11 09:00 | 09/11 13:50 | 15分（12:10→12:25） |
 | financialjuice | 20 | 09/11 08:01 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 07:37 [FirstSquawk] ORACLE CFO EXPECTS AROUND HALF OF ITS RPO TO CONVERT INTO REVENUE OVER THE NEXT 36 MONTHS, WITH NEW REVENUE BACKLOG NOT EXPECTED TO IMPACT REVENUE OR CAPEX UNTIL FY2028 OR LATER.
-- 09/11 07:38 [FirstSquawk] US TREASURY SECRETARY SCOTT BESSENT SAYS THE TREASURY MARKET IS IN VERY GOOD SHAPE AND EXPECTS THE U.S. ECONOMY TO MOVE PAST THE CURRENT ENERGY SUPPLY SHOCK, ADDING THAT THE U.S. HAS THE BEST-PERFORMING BOND MARKET GLOBALLY.
-- 09/11 07:38 [FirstSquawk] BESSENT SAYS THE TREASURY IS PLANNING TO SANCTION A LARGE BANK ON MONDAY, SIGNALING FURTHER PRESSURE ON THE FINANCIAL SECTOR.
 - 09/11 08:01 [financialjuice] Meta declares quarterly cash dividend of $0.53 per share payable Sept. 28, 2026
 - 09/11 08:32 [DeItaone] *TRUMP: MAYBE I DON'T GO FULL INTO IRAN BECAUSE OF ELECTION
 - 09/11 08:39 [DeItaone] U.S. DIESEL BREAKS $6 FOR FIRST TIME EVER The U.S. average diesel price surpassed $6 a gallon for the first time, according to GasBuddy, up nearly 60% since the Iran war began. Supply remains extremely tight, with U.S. diesel inventories 13…
@@ -127,3 +124,6 @@
 - 09/11 13:32 [FirstSquawk] South Korea plans to ease regulatory hurdles and improve the investment environment for foreign investors, Han says.
 - 09/11 13:32 [FirstSquawk] South Korea’s Han says the government does not discriminate against firms based on nationality.
 - 09/11 13:33 [FirstSquawk] New Zealand currency strengthens 0.53% to $0.5829.
+- 09/11 13:44 [FirstSquawk] JPMorgan trims its RH price target by $22 to $190.
+- 09/11 13:49 [FirstSquawk] Australia’s proposed data-center rules could increase execution risks, according to Fitch Ratings.
+- 09/11 13:50 [FirstSquawk] South Korean President Lee set to hold Central Asia summit on September 16, media says.

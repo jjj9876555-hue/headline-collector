@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 13:34 JST／対象: 09/10 13:34 〜 09/11 13:34 JST（時刻はすべて日本時間）
+生成: 2026-09-11 13:51 JST／対象: 09/10 13:51 〜 09/11 13:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/10 16:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 363 | 09/10 13:45 | 09/11 13:33 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 287 | 09/10 13:47 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 364 | 09/10 13:54 | 09/11 13:50 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 285 | 09/10 13:52 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 687 行（統合前 715 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 686 行（統合前 714 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 13:45 [FirstSquawk] Trump offers $5,000 to every US adult if Republicans secure victory in the November midterm elections.
-- 09/10 13:47 [FirstSquawk] Four killed after Russian air strikes hit Ukraine’s port of Mykolaiv, official says.
-- 09/10 13:47 [financialjuice] Russian air strikes hit Ukraine's Mykolaiv port, kill four: official
-- 09/10 13:51 [financialjuice] Russian Defence Ministry: drone warehouse struck in Ukraine's Mykolaiv
 - 09/10 13:52 [financialjuice] Russian defence ministry: also struck Ukraine's Black Sea port of Chornomorsk, two ships near Odesa
 - 09/10 13:54 [financialjuice] Japan chief cabinet secretary Kihara: aim to tackle abduction issue firmly to achieve Japan-North Korea summit meeting
 - 09/10 13:54 [FirstSquawk] Russian Defence Ministry reports a strike on a drone warehouse in Mykolaiv.
@@ -711,3 +707,6 @@
 - 09/11 13:32 [FirstSquawk] South Korea plans to ease regulatory hurdles and improve the investment environment for foreign investors, Han says.
 - 09/11 13:32 [FirstSquawk] South Korea’s Han says the government does not discriminate against firms based on nationality.
 - 09/11 13:33 [FirstSquawk] New Zealand currency strengthens 0.53% to $0.5829.
+- 09/11 13:44 [FirstSquawk] JPMorgan trims its RH price target by $22 to $190.
+- 09/11 13:49 [FirstSquawk] Australia’s proposed data-center rules could increase execution risks, according to Fitch Ratings.
+- 09/11 13:50 [FirstSquawk] South Korean President Lee set to hold Central Asia summit on September 16, media says.

@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 13:34 JST／対象: 09/11 01:34 〜 09/11 13:34 JST（時刻はすべて日本時間）
+生成: 2026-09-11 13:51 JST／対象: 09/11 01:51 〜 09/11 13:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/11 01:36 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 150 | 09/11 01:36 | 09/11 13:33 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 79 | 09/11 01:35 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
+| DeItaone | 16 | 09/11 01:51 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 148 | 09/11 01:53 | 09/11 13:50 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 75 | 09/11 01:52 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 242 行（統合前 249 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 233 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 01:35 [financialjuice] ❗ Iran has resumed producing ballistic missiles - US and Middle East Officials cited by the WSJ
-- 09/11 01:35 [financialjuice] Iran producing ballistic missiles again - WSJ.
-- 09/11 01:36 [FirstSquawk] IRAN IS AGAIN MANUFACTURING BALLISTIC MISSILES, REVEALS WSJ.
-- 09/11 01:36 [FirstSquawk] IRAN IS PRODUCING NEW MISSILES IN SMALL NUMBERS, REPORTS WSJ.
-- 09/11 01:36 [DeItaone] U.S. AND MIDDLE EAST OFFICIALS SAID IRAN HAS RESUMED PRODUCING BALLISTIC MISSILES IN UNDERGROUND FACILITIES USING STOCKPILED COMPONENTS- WSJ
-- 09/11 01:36 [FirstSquawk] IRAN IS MANUFACTURING MISSILES USING COMPONENTS THEY HAD STORED, ACCORDING TO WSJ.
-- 09/11 01:36 [financialjuice] US and Middle East Officials: Iran Has resumed producing ballistic missiles in underground facilities using stockpiled components - WSJ.
-- 09/11 01:37 [financialjuice] Arab and Israeli officials are bracing for continued fighting - WSJ.
-- 09/11 01:41 [FirstSquawk] MACY'S WILL REINVEST $96 MILLION FROM TARIFF REFUNDS INTO ITS OPERATIONS, SAYS WSJ.
-- 09/11 01:41 [FirstSquawk] MACY'S WILL REDUCE PRICES ON FURNITURE AND JEWELRY DUE TO TARIFF EFFECTS, ACCORDING TO WSJ.
-- 09/11 01:44 [DeItaone] IRAN STRIKE DAMAGES U.S. WARPLANES IN JORDAN Iranian strikes on a U.S. base in Jordan damaged multiple American military aircraft, a U.S. official told Reuters. One A-10 lost a wing, while roughly eight F-15s sustained light damage and retu…
-- 09/11 01:49 [DeItaone] U.S. DIESEL SURGES ABOVE $5 AS SUPPLY SQUEEZE DEEPENS U.S. diesel futures surged above $5 a gallon for the first time since 2022, as Middle East disruptions and Russia’s export ban tighten global supplies. Retail diesel has already hit a re…
 - 09/11 01:51 [DeItaone] IRGC CLAIMS U.S. DRONE DESTROYED IN HORMUZ Iran’s IRGC Navy claims it destroyed a U.S. unmanned vessel at the entrance to the Strait of Hormuz, identifying it as hull number 5838. The IRGC also declared that Hormuz remains blocked and under…
 - 09/11 01:52 [financialjuice] IRGC: Strait of Hormuz is blocked and under our intelligent control and information dominance, and any hostile presence in this strategic Strait will be targeted - IRIB.
 - 09/11 01:53 [FirstSquawk] WALMART SAID TO BE EXPLORING FOOD DELIVERY BUSINESS AND DARK STORES $WMT
@@ -266,3 +254,6 @@
 - 09/11 13:32 [FirstSquawk] South Korea plans to ease regulatory hurdles and improve the investment environment for foreign investors, Han says.
 - 09/11 13:32 [FirstSquawk] South Korea’s Han says the government does not discriminate against firms based on nationality.
 - 09/11 13:33 [FirstSquawk] New Zealand currency strengthens 0.53% to $0.5829.
+- 09/11 13:44 [FirstSquawk] JPMorgan trims its RH price target by $22 to $190.
+- 09/11 13:49 [FirstSquawk] Australia’s proposed data-center rules could increase execution risks, according to Fitch Ratings.
+- 09/11 13:50 [FirstSquawk] South Korean President Lee set to hold Central Asia summit on September 16, media says.
