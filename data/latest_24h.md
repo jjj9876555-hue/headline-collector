@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 16:33 JST／対象: 09/10 16:33 〜 09/11 16:33 JST（時刻はすべて日本時間）
+生成: 2026-09-11 16:51 JST／対象: 09/10 16:51 〜 09/11 16:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 09/10 16:41 | 09/11 16:08 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 359 | 09/10 16:37 | 09/11 16:33 | ⚠ 81分（07:38→09:00） |
+| DeItaone | 65 | 09/10 17:02 | 09/11 16:47 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 357 | 09/10 16:53 | 09/11 16:40 | ⚠ 81分（07:38→09:00） |
 | financialjuice | 274 | 09/10 17:00 | 09/11 16:05 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 675 行（統合前 704 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 673 行（統合前 702 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 16:37 [FirstSquawk] PBOC: GUARD AGAINST HERD BEHAVIOR IN FX MARKET
-- 09/10 16:39 [FirstSquawk] FORMER ISRAELI PRIME MINISTER OLMERT: NETANYAHU GOVERNMENT SUPPORTS SETTLER VIOLENCE
-- 09/10 16:41 [FirstSquawk] EUROPEAN UNION FIRMS ARE GETTING BEATEN, OUTTHOUGHT, OR OUTSPENT BY CHINESE RIVALS.
-- 09/10 16:41 [DeItaone] TRUMP PROMISES $5,000 DIVIDEND IF GOP WINS MIDTERMS President Donald Trump pledged a $5,000 payment to every adult U.S. citizen if Republicans retain control of Congress in November. Trump credited U.S. economic performance for the proposal…
-- 09/10 16:42 [FirstSquawk] PBOC: Seeks Dynamic Balance In Macro Policy Objectives
-- 09/10 16:47 [FirstSquawk] TSMC SEES A 53.3% RISE IN MONTHLY SALES AS IT STRUGGLES TO KEEP UP WITH HIGH DEMAND FOR AI INFRASTRUCTURE.
-- 09/10 16:51 [DeItaone] HOUTHIS SEIZE STRATEGIC RED SEA CITY Iran-backed Houthis have seized Yemen’s Mocha, according to Reuters sources. The advance brings the group closer to the Bab el-Mandeb Strait, raising risks for Red Sea shipping and global trade.
 - 09/10 16:53 [FirstSquawk] NOVO NORDISK: WEGOVY APPROVED IN CHINA AS THE FIRST AND ONLY GLP-1 RA FOR THE TREATMENT OF MASH
 - 09/10 16:58 [FirstSquawk] KIMI MAKER MOONSHOT AI TO EXPLORE DUAL HONG KONG AND SHANGHAI IPOS TO BOOST CAPITAL, SOURCES SAY – SCMP
 - 09/10 17:00 [financialjuice] ITALIAN INDUSTRIAL PRODUCTION MOM ACTUAL 0.7% (FORECAST 0.3%, PREVIOUS -1.0%) $MACRO
@@ -699,3 +692,8 @@
 - 09/11 16:21 [FirstSquawk] UBS GLOBAL WEALTH MANAGEMENT EXPECTS ECB TO DELIVER ONE FURTHER 25BPS RATE HIKE IN DECEMBER 2026 BEFORE PAUSING
 - 09/11 16:23 [FirstSquawk] RUSSIA THREATENS ELECTIONS IN EUROPE'S LARGEST DEMOCRACIES, SAYS SWEDEN'S DISINFORMATION DEFENSE HEAD, URGING SOCIAL MEDIA TO IMPROVE IN FIGHTING AGAINST MOSCOW'S BOT NETWORKS.
 - 09/11 16:33 [FirstSquawk] RIKSBANK RETAINS COUNTERCYCLICAL BUFFER RATE AT 2%
+- 09/11 16:35 [FirstSquawk] MUFG TO REDEEM $1.25B 1.64% SENIOR NOTES ON OCT. 13
+- 09/11 16:36 [FirstSquawk] US RETAIL DIESEL PRICE EXCEEDS $6 PER GALLON
+- 09/11 16:40 [FirstSquawk] IRELAND IS PREPARING TO GIVE DONALD TRUMP A WARM RECEPTION BUT SECRETLY LOOKS FORWARD TO HIS DEPARTURE.
+- 09/11 16:41 [DeItaone] *US AVERAGE RETAIL DIESEL PRICE RISES PAST $6 A GALLON: AAA
+- 09/11 16:47 [DeItaone] U.S. DIESEL SURGES ABOVE $6, INFLATION RISK BUILDS U.S. diesel prices hit a record $6.06 a gallon, with California approaching $8, as global supply disruptions tighten the market. With diesel crucial to shipping, agriculture and constructio…

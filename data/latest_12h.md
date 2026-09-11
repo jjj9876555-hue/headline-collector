@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 16:33 JST／対象: 09/11 04:33 〜 09/11 16:33 JST（時刻はすべて日本時間）
+生成: 2026-09-11 16:51 JST／対象: 09/11 04:51 〜 09/11 16:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/11 06:36 | 09/11 16:08 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 160 | 09/11 05:01 | 09/11 16:33 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 44 | 09/11 04:38 | 09/11 16:05 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 15 | 09/11 06:36 | 09/11 16:47 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 163 | 09/11 05:01 | 09/11 16:40 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 42 | 09/11 04:52 | 09/11 16:05 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 215 行（統合前 217 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 218 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 04:38 [financialjuice] SpaceX CFO: More conviction on $100b annual runrate revenue. $SPCX
-- 09/11 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 466.4 MLN NASDAQ 100: 464.1 MLN DOW 30: -128.5 MLN MAG 7: 336.9 MLN $MACRO
 - 09/11 04:52 [financialjuice] Trump and JD Vance speak at the Republican midterm convention - WATCH LIVE
 - 09/11 05:01 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 171.22 POINTS, OR 0.65%, AT 26,082.12. S&P 500 UNOFFICIALLY CLOSES DOWN 45.92 POINTS, OR 0.60%, AT 7,590.44. DOW JONES INDUSTRIAL AVERAGE UNOFFICIALLY CLOSES DOWN 327.34 POINTS, OR 0.62%, AT 52,053.…
 - 09/11 05:02 [financialjuice/FirstSquawk] Yemeni Armed Forces launch missile attack on southern Saudi Arabia - IRNA
@@ -239,3 +237,8 @@
 - 09/11 16:21 [FirstSquawk] UBS GLOBAL WEALTH MANAGEMENT EXPECTS ECB TO DELIVER ONE FURTHER 25BPS RATE HIKE IN DECEMBER 2026 BEFORE PAUSING
 - 09/11 16:23 [FirstSquawk] RUSSIA THREATENS ELECTIONS IN EUROPE'S LARGEST DEMOCRACIES, SAYS SWEDEN'S DISINFORMATION DEFENSE HEAD, URGING SOCIAL MEDIA TO IMPROVE IN FIGHTING AGAINST MOSCOW'S BOT NETWORKS.
 - 09/11 16:33 [FirstSquawk] RIKSBANK RETAINS COUNTERCYCLICAL BUFFER RATE AT 2%
+- 09/11 16:35 [FirstSquawk] MUFG TO REDEEM $1.25B 1.64% SENIOR NOTES ON OCT. 13
+- 09/11 16:36 [FirstSquawk] US RETAIL DIESEL PRICE EXCEEDS $6 PER GALLON
+- 09/11 16:40 [FirstSquawk] IRELAND IS PREPARING TO GIVE DONALD TRUMP A WARM RECEPTION BUT SECRETLY LOOKS FORWARD TO HIS DEPARTURE.
+- 09/11 16:41 [DeItaone] *US AVERAGE RETAIL DIESEL PRICE RISES PAST $6 A GALLON: AAA
+- 09/11 16:47 [DeItaone] U.S. DIESEL SURGES ABOVE $6, INFLATION RISK BUILDS U.S. diesel prices hit a record $6.06 a gallon, with California approaching $8, as global supply disruptions tighten the market. With diesel crucial to shipping, agriculture and constructio…

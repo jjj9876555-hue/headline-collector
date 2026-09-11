@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 16:33 JST／対象: 09/11 10:33 〜 09/11 16:33 JST（時刻はすべて日本時間）
+生成: 2026-09-11 16:51 JST／対象: 09/11 10:51 〜 09/11 16:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/11 15:05 | 09/11 16:08 | 21分（15:46→16:08） |
-| FirstSquawk | 110 | 09/11 10:34 | 09/11 16:33 | 15分（13:50→14:06） |
-| financialjuice | 7 | 09/11 10:39 | 09/11 16:05 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 8 | 09/11 15:05 | 09/11 16:47 | 33分（16:08→16:41） |
+| FirstSquawk | 109 | 09/11 10:54 | 09/11 16:40 | 15分（13:50→14:06） |
+| financialjuice | 5 | 09/11 15:34 | 09/11 16:05 | 28分（15:37→16:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 122 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 121 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 10:34 [FirstSquawk] Malaysia’s ringgit touches 4.073 per dollar, its weakest level in nearly a month.
-- 09/11 10:39 [financialjuice] Ukraine drones strike Ozon logistics center in Russia's Saratov, trigger fire: Ozon
-- 09/11 10:39 [FirstSquawk] Ozon reports a fire at its Saratov logistics hub after Ukrainian drones struck the facility.
-- 09/11 10:41 [FirstSquawk] 10-year JGB yield jumps 7.5 basis points, reaching 2.985%.
-- 09/11 10:47 [financialjuice] Taiwan stocks fall over 2%
-- 09/11 10:48 [FirstSquawk] Taiwanese shares decline sharply, falling over 2%.
 - 09/11 10:54 [FirstSquawk] Sterling stays above 1.3500 as markets await U.S. CPI figures.
 - 09/11 10:55 [FirstSquawk] Soybeans in Chicago retreat slightly after climbing to a three-year high on China demand.
 - 09/11 10:57 [FirstSquawk] Micron says eligible Taiwan employees will get a T$1 million thank-you payment for FY2026.
@@ -146,3 +140,8 @@
 - 09/11 16:21 [FirstSquawk] UBS GLOBAL WEALTH MANAGEMENT EXPECTS ECB TO DELIVER ONE FURTHER 25BPS RATE HIKE IN DECEMBER 2026 BEFORE PAUSING
 - 09/11 16:23 [FirstSquawk] RUSSIA THREATENS ELECTIONS IN EUROPE'S LARGEST DEMOCRACIES, SAYS SWEDEN'S DISINFORMATION DEFENSE HEAD, URGING SOCIAL MEDIA TO IMPROVE IN FIGHTING AGAINST MOSCOW'S BOT NETWORKS.
 - 09/11 16:33 [FirstSquawk] RIKSBANK RETAINS COUNTERCYCLICAL BUFFER RATE AT 2%
+- 09/11 16:35 [FirstSquawk] MUFG TO REDEEM $1.25B 1.64% SENIOR NOTES ON OCT. 13
+- 09/11 16:36 [FirstSquawk] US RETAIL DIESEL PRICE EXCEEDS $6 PER GALLON
+- 09/11 16:40 [FirstSquawk] IRELAND IS PREPARING TO GIVE DONALD TRUMP A WARM RECEPTION BUT SECRETLY LOOKS FORWARD TO HIS DEPARTURE.
+- 09/11 16:41 [DeItaone] *US AVERAGE RETAIL DIESEL PRICE RISES PAST $6 A GALLON: AAA
+- 09/11 16:47 [DeItaone] U.S. DIESEL SURGES ABOVE $6, INFLATION RISK BUILDS U.S. diesel prices hit a record $6.06 a gallon, with California approaching $8, as global supply disruptions tighten the market. With diesel crucial to shipping, agriculture and constructio…
