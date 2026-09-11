@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 19:25 JST／対象: 09/11 07:25 〜 09/11 19:25 JST（時刻はすべて日本時間）
+生成: 2026-09-11 19:44 JST／対象: 09/11 07:44 〜 09/11 19:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/11 07:31 | 09/11 19:03 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 184 | 09/11 07:37 | 09/11 19:25 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 54 | 09/11 07:30 | 09/11 19:23 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 24 | 09/11 08:32 | 09/11 19:41 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 185 | 09/11 09:00 | 09/11 19:38 | 21分（19:03→19:25） |
+| financialjuice | 54 | 09/11 08:01 | 09/11 19:33 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 259 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 260 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 07:30 [financialjuice] NEW ZEALAND MANUFACTURING PMI ACTUAL 53.1 (FORECAST -, PREVIOUS 54.3) $MACRO
-- 09/11 07:30 [financialjuice] New Zealand August s/adj PMI at 53.1: Business NZ/Bank NZ survey
-- 09/11 07:31 [DeItaone] BESSENT DISMISSES TREASURY MARKET CONCERNS Treasury Secretary Scott Bessent says the bond market remains in “very good shape” despite 10-year yields reaching their highest since 2023. He also downplayed Thursday’s smaller-than-expected buyb…
-- 09/11 07:37 [FirstSquawk] ORACLE CFO EXPECTS AROUND HALF OF ITS RPO TO CONVERT INTO REVENUE OVER THE NEXT 36 MONTHS, WITH NEW REVENUE BACKLOG NOT EXPECTED TO IMPACT REVENUE OR CAPEX UNTIL FY2028 OR LATER.
-- 09/11 07:38 [FirstSquawk] US TREASURY SECRETARY SCOTT BESSENT SAYS THE TREASURY MARKET IS IN VERY GOOD SHAPE AND EXPECTS THE U.S. ECONOMY TO MOVE PAST THE CURRENT ENERGY SUPPLY SHOCK, ADDING THAT THE U.S. HAS THE BEST-PERFORMING BOND MARKET GLOBALLY.
-- 09/11 07:38 [FirstSquawk] BESSENT SAYS THE TREASURY IS PLANNING TO SANCTION A LARGE BANK ON MONDAY, SIGNALING FURTHER PRESSURE ON THE FINANCIAL SECTOR.
 - 09/11 08:01 [financialjuice] Meta declares quarterly cash dividend of $0.53 per share payable Sept. 28, 2026
 - 09/11 08:32 [DeItaone] *TRUMP: MAYBE I DON'T GO FULL INTO IRAN BECAUSE OF ELECTION
 - 09/11 08:39 [DeItaone] U.S. DIESEL BREAKS $6 FOR FIRST TIME EVER The U.S. average diesel price surpassed $6 a gallon for the first time, according to GasBuddy, up nearly 60% since the Iran war began. Supply remains extremely tight, with U.S. diesel inventories 13…
@@ -283,3 +277,10 @@
 - 09/11 19:23 [financialjuice] CentCom commander traveled to Saudi Arabia on Thursday - Axios
 - 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER VISITED SAUDI ARABIA ON THURSDAY.
 - 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER TALKED ABOUT HOUTHIS MAKING PROGRESS IN YEMEN, ACCORDING TO AXIOS.
+- 09/11 19:30 [financialjuice] RUSSIAN INTEREST RATE DECISION ACTUAL 14.00% (FORECAST 14%, PREVIOUS 14.00%) $MACRO
+- 09/11 19:31 [FirstSquawk] RUSSIAN CENTRAL BANK KEEPS KEY INTEREST RATE UNCHANGED AT 14.00%, SAME AS ESTIMATE.
+- 09/11 19:31 [FirstSquawk] https://t.co/jQvxnPAPkA PLANS TO SELL APPROXIMATELY 21.97 MILLION H SHARES AT HK$714 EACH.
+- 09/11 19:33 [financialjuice] ECB's Makhlouf: Longer Iran war risks keeping inflation elevated.
+- 09/11 19:38 [FirstSquawk] MAKHLOUF WARNS THAT A PROLONGED TRADE WAR MAY KEEP INFLATION HIGH.
+- 09/11 19:38 [FirstSquawk] ECB'S MAKHLOUF SAYS FURTHER RATE HIKES MIGHT DAMAGE ECONOMIC GROWTH.
+- 09/11 19:41 [DeItaone] AI USED TO SUPPORT MISSILE DEVELOPMENT IN YEMEN Anthropic says it uncovered a northern Yemen-based group using Claude to assist with missile and rocket development, including guidance and navigation software. The group reportedly worked on …

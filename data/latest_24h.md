@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 19:25 JST／対象: 09/10 19:25 〜 09/11 19:25 JST（時刻はすべて日本時間）
+生成: 2026-09-11 19:44 JST／対象: 09/10 19:44 〜 09/11 19:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 66 | 09/10 19:30 | 09/11 19:03 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 367 | 09/10 19:29 | 09/11 19:25 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 293 | 09/10 19:28 | 09/11 19:23 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 65 | 09/10 19:57 | 09/11 19:41 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 367 | 09/10 19:46 | 09/11 19:38 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 294 | 09/10 19:45 | 09/11 19:33 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 701 行（統合前 732 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,13 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 19:28 [financialjuice] White House yet to decide on refined copper tariffs.
-- 09/10 19:29 [FirstSquawk] NASDAQ HAS INVESTED IN PAYWARD, THE PARENT COMPANY OF KRAKEN, VALUING IT AT $21 BILLION.
-- 09/10 19:30 [DeItaone] TRUMP SEES IRAN WAR ENDING AFTER MIDTERMS President Donald Trump said he expects the Iran war to end after November’s U.S. midterm elections, while again threatening strikes on Iran’s Pickaxe Mountain nuclear site. Meanwhile, Iran and the U…
-- 09/10 19:33 [DeItaone] WHITE HOUSE HESITATES ON COPPER TARIFFS The White House has not yet decided on refined copper tariffs, as officials weigh boosting U.S. production against higher manufacturing costs ahead of the midterms. Copper prices have already hit reco…
-- 09/10 19:34 [FirstSquawk] LME COPPER DROPS 2% AFTER RTRS REPORT ON TARIFF COST CONCERNS
-- 09/10 19:42 [FirstSquawk] USD/JPY EXTENDS GAINS, RISES 0.3% TO DAY HIGH AT 154.08
-- 09/10 19:43 [FirstSquawk] 20 PEOPLE DIED AFTER CHINA SHIPYARD FIRE: CCTV
 - 09/10 19:45 [financialjuice/FirstSquawk] Yemen’s Houthis seize Mokha and its port - NYT
 - 09/10 19:47 [FirstSquawk] CHINA TO HOST APEC SUMMIT IN SHENZHEN NOV 17-18 - XINHUA
 - 09/10 19:47 [financialjuice] China to host APEC summit in Shenzhen November 17-18 - Xinhua.
@@ -725,3 +718,10 @@
 - 09/11 19:23 [financialjuice] CentCom commander traveled to Saudi Arabia on Thursday - Axios
 - 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER VISITED SAUDI ARABIA ON THURSDAY.
 - 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER TALKED ABOUT HOUTHIS MAKING PROGRESS IN YEMEN, ACCORDING TO AXIOS.
+- 09/11 19:30 [financialjuice] RUSSIAN INTEREST RATE DECISION ACTUAL 14.00% (FORECAST 14%, PREVIOUS 14.00%) $MACRO
+- 09/11 19:31 [FirstSquawk] RUSSIAN CENTRAL BANK KEEPS KEY INTEREST RATE UNCHANGED AT 14.00%, SAME AS ESTIMATE.
+- 09/11 19:31 [FirstSquawk] https://t.co/jQvxnPAPkA PLANS TO SELL APPROXIMATELY 21.97 MILLION H SHARES AT HK$714 EACH.
+- 09/11 19:33 [financialjuice] ECB's Makhlouf: Longer Iran war risks keeping inflation elevated.
+- 09/11 19:38 [FirstSquawk] MAKHLOUF WARNS THAT A PROLONGED TRADE WAR MAY KEEP INFLATION HIGH.
+- 09/11 19:38 [FirstSquawk] ECB'S MAKHLOUF SAYS FURTHER RATE HIKES MIGHT DAMAGE ECONOMIC GROWTH.
+- 09/11 19:41 [DeItaone] AI USED TO SUPPORT MISSILE DEVELOPMENT IN YEMEN Anthropic says it uncovered a northern Yemen-based group using Claude to assist with missile and rocket development, including guidance and navigation software. The group reportedly worked on …

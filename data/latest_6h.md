@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 19:25 JST／対象: 09/11 13:25 〜 09/11 19:25 JST（時刻はすべて日本時間）
+生成: 2026-09-11 19:44 JST／対象: 09/11 13:44 〜 09/11 19:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 09/11 15:05 | 09/11 19:03 | 33分（16:08→16:41） |
-| FirstSquawk | 111 | 09/11 13:31 | 09/11 19:25 | 21分（19:03→19:25） |
-| financialjuice | 32 | 09/11 15:34 | 09/11 19:23 | ⚠ 55分（16:05→17:01） |
+| DeItaone | 19 | 09/11 15:05 | 09/11 19:41 | 37分（19:03→19:41） |
+| FirstSquawk | 110 | 09/11 13:44 | 09/11 19:38 | 21分（19:03→19:25） |
+| financialjuice | 34 | 09/11 15:34 | 09/11 19:33 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 158 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 160 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 13:31 [FirstSquawk] South Korea’s Han calls for mutual benefits and commercial returns from strategic investment talks with the U.S.
-- 09/11 13:32 [FirstSquawk] South Korea’s Han says discussions with Washington on strategic investment projects are advancing.
-- 09/11 13:32 [FirstSquawk] South Korea plans to ease regulatory hurdles and improve the investment environment for foreign investors, Han says.
-- 09/11 13:32 [FirstSquawk] South Korea’s Han says the government does not discriminate against firms based on nationality.
-- 09/11 13:33 [FirstSquawk] New Zealand currency strengthens 0.53% to $0.5829.
 - 09/11 13:44 [FirstSquawk] JPMorgan trims its RH price target by $22 to $190.
 - 09/11 13:49 [FirstSquawk] Australia’s proposed data-center rules could increase execution risks, according to Fitch Ratings.
 - 09/11 13:50 [FirstSquawk] South Korean President Lee set to hold Central Asia summit on September 16, media says.
@@ -182,3 +177,10 @@
 - 09/11 19:23 [financialjuice] CentCom commander traveled to Saudi Arabia on Thursday - Axios
 - 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER VISITED SAUDI ARABIA ON THURSDAY.
 - 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER TALKED ABOUT HOUTHIS MAKING PROGRESS IN YEMEN, ACCORDING TO AXIOS.
+- 09/11 19:30 [financialjuice] RUSSIAN INTEREST RATE DECISION ACTUAL 14.00% (FORECAST 14%, PREVIOUS 14.00%) $MACRO
+- 09/11 19:31 [FirstSquawk] RUSSIAN CENTRAL BANK KEEPS KEY INTEREST RATE UNCHANGED AT 14.00%, SAME AS ESTIMATE.
+- 09/11 19:31 [FirstSquawk] https://t.co/jQvxnPAPkA PLANS TO SELL APPROXIMATELY 21.97 MILLION H SHARES AT HK$714 EACH.
+- 09/11 19:33 [financialjuice] ECB's Makhlouf: Longer Iran war risks keeping inflation elevated.
+- 09/11 19:38 [FirstSquawk] MAKHLOUF WARNS THAT A PROLONGED TRADE WAR MAY KEEP INFLATION HIGH.
+- 09/11 19:38 [FirstSquawk] ECB'S MAKHLOUF SAYS FURTHER RATE HIKES MIGHT DAMAGE ECONOMIC GROWTH.
+- 09/11 19:41 [DeItaone] AI USED TO SUPPORT MISSILE DEVELOPMENT IN YEMEN Anthropic says it uncovered a northern Yemen-based group using Claude to assist with missile and rocket development, including guidance and navigation software. The group reportedly worked on …
