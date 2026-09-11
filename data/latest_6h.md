@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 04:58 JST／対象: 09/11 22:58 〜 09/12 04:58 JST（時刻はすべて日本時間）
+生成: 2026-09-12 05:18 JST／対象: 09/11 23:18 〜 09/12 05:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/11 23:00 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 50 | 09/11 23:00 | 09/12 04:51 | 35分（23:55→00:31） |
-| financialjuice | 57 | 09/11 23:00 | 09/12 04:53 | 37分（02:21→02:58） |
+| DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
+| FirstSquawk | 49 | 09/11 23:23 | 09/12 05:01 | 35分（23:55→00:31） |
+| financialjuice | 59 | 09/11 23:18 | 09/12 05:17 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 110 行（統合前 111 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 109 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION PRELIM ACTUAL 4.6% (FORECAST 4.2%, PREVIOUS 4.0%) $MACRO
-- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN 5 YR INFLATION PRELIM ACTUAL 3.4% (FORECAST 3.3%, PREVIOUS 3.3%) $MACRO
-- 09/11 23:00 [DeItaone] *UMICH 1-YR INFLATION EXPECTATIONS RISE TO 4.6% FROM 4.0%
-- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN CONDITION PRELIM ACTUAL 50.9 (FORECAST 51.3, PREVIOUS 51.9) $MACRO
-- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS PRELIM ACTUAL 45.8 (FORECAST 51, PREVIOUS 51.5) $MACRO
-- 09/11 23:00 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT PRELIM ACTUAL 47.8 (FORECAST 51, PREVIOUS 51.7) $MACRO
-- 09/11 23:00 [DeItaone] *UMICH PRELIM. SEPT. CONSUMER SENTIMENT FALLS TO 47.8; EST. 51
-- 09/11 23:00 [FirstSquawk] U.S. UMICH SEPTEMBER CONSUMER SENTIMENT DROPS TO 47.8, LOWER THAN ESTIMATED 51.
-- 09/11 23:00 [financialjuice] University of Michigan Sentiment September Prelim Report
-- 09/11 23:00 [FirstSquawk] U.S. UMICH 1-YEAR INFLATION EXPECTATIONS INCREASE TO 4.6% FROM 4.0%.
 - 09/11 23:18 [financialjuice] Fear and Greed Index: 36/100 = Fear
 - 09/11 23:18 [financialjuice] ECB's Lagarde: We are going to proceed meeting by meeting, using data to inform our coming decisions.
 - 09/11 23:19 [financialjuice] Crypto Fear and Greed Index: 56/100 = Greed
@@ -134,3 +124,12 @@
 - 09/12 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1520.0 MLN NASDAQ 100: -1245.7 MLN DOW 30: -528.4 MLN MAG 7: -891.7 MLN $MACRO
 - 09/12 04:51 [FirstSquawk] FED IS POISED FOR A RATE HIKE. IT RARELY STOPS AT ONE. – WSJ
 - 09/12 04:53 [financialjuice] The Fed Is Poised for a Rate Hike. It Rarely Stops at One - WSJ's Nick Timiraos
+- 09/12 04:59 [financialjuice] Al Mayadeen citing high-ranking Iranian source: Negotiations are not possible until Iran's conditions are accepted - ISNA
+- 09/12 05:01 [FirstSquawk] NASDAQ UNOFFICIALLY CLOSES UP 263.06 POINTS, OR 1.01 PERCENT, AT 26,344.78 DOW JONES UNOFFICIALLY CLOSES UP 514.27 POINTS, OR 0.99%, AT 52,578.37 S&P 500 UNOFFICIALLY CLOSES UP 65.79 POINTS, OR 0.87 PERCENT, AT 7,657.49
+- 09/12 05:05 [financialjuice] Week Ahead: Economic Indicators 14th – 18th September (US)
+- 09/12 05:07 [financialjuice] US Sec. of Defense Hegseth to meet German Defense Minister Pistorius September 15th
+- 09/12 05:09 [financialjuice] Saudi Foreign Ministry: We chose not to retaliate at this stage following a request from Iraq's PM - statement
+- 09/12 05:09 [financialjuice] S&P: Forecast 2027 Saudi oil production to rise, but, production will remain well below its reported highest-feasible production capacity of 12.3 MBPD.
+- 09/12 05:16 [financialjuice] Anthropic looks to provide a list of wealth advisers to staff. Goldman, BofA vie to manage anthropic staffers’ IPO millions
+- 09/12 05:17 [financialjuice] Wells Fargo, JPM, BNY also pitching wealth services to AI giant.
+- 09/12 05:17 [financialjuice] US bank deposits rose to $19.566 trln from $19.559 trln in prior week.
