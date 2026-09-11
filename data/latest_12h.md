@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 06:30 JST／対象: 09/11 18:30 〜 09/12 06:30 JST（時刻はすべて日本時間）
+生成: 2026-09-12 06:41 JST／対象: 09/11 18:41 〜 09/12 06:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 32 | 09/11 18:48 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 93 | 09/11 18:37 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 134 | 09/11 18:57 | 09/12 06:22 | 37分（02:21→02:58） |
+| FirstSquawk | 92 | 09/11 18:44 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 135 | 09/11 18:57 | 09/12 06:33 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 258 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 18:37 [FirstSquawk] SAUDI ARABIA CONDUCTED TWO AIRSTRIKES ON MOCHA AIRPORT IN WESTERN YEMEN ON FRIDAY, AS REPORTED BY HOUTHI-RUN AL-MASIRAH TV, PER AFP.
 - 09/11 18:44 [FirstSquawk] INSIDE GERMANY’S €3.4B TOMAHAWK MISSILE PLAN - POLITICO
 - 09/11 18:48 [FirstSquawk] GERMAN FINANCE MINISTRY SPOKESPERSON: COMMERZBANK IS IMPORTANT FOR SME FINANCING, GERMAN FINANCIAL SECTOR
 - 09/11 18:48 [DeItaone] 5% TREASURY YIELD SEEN AS KEY STOCK-MARKET DANGER ZONE With the 10-year Treasury yield above 4.96%, a Bloomberg survey shows investors increasingly see 5%-5.25% as the level that could trigger a 10% S&P 500 correction. Still, more than two-…
@@ -282,3 +281,4 @@
 - 09/12 06:22 [financialjuice] Putin: current events in Europe result of systemic mistakes by Western globalists
 - 09/12 06:22 [financialjuice] Putin: Ukraine conflict triggered by western elites pressuring Russia, aiming to pull Ukraine into NATO
 - 09/12 06:22 [financialjuice] Saudi civil defence: early warning issued in Khamis Mushait to signal possible threat
+- 09/12 06:33 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait

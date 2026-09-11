@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 06:30 JST／対象: 09/11 06:30 〜 09/12 06:30 JST（時刻はすべて日本時間）
+生成: 2026-09-12 06:41 JST／対象: 09/11 06:41 〜 09/12 06:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 09/11 06:36 | 09/12 04:10 | ⚠ 376分（08:48→15:05） |
+| DeItaone | 53 | 09/11 07:31 | 09/12 04:10 | ⚠ 376分（08:48→15:05） |
 | FirstSquawk | 268 | 09/11 07:37 | 09/12 05:01 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 188 | 09/11 06:40 | 09/12 06:22 | ⚠ 287分（10:47→15:34） |
+| financialjuice | 187 | 09/11 07:10 | 09/12 06:33 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 506 行（統合前 512 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 504 行（統合前 510 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 06:36 [DeItaone] *BESSENT: GOING TO SANCTION A LARGE BANK ON MONDAY
-- 09/11 06:40 [financialjuice] Pentagon in talks to enter AI infrastructure funding with $5 billion loan - WSJ
-- 09/11 06:41 [financialjuice] Pentagon in talks to provide about $5 billion loan to Al cloud-computing startup FluidStack to strengthen US data-center supply chain - WSJ
 - 09/11 07:10 [financialjuice] Transwarp Technology Shanghai Co plans global offering of 14 million H shares
 - 09/11 07:11 [financialjuice] Transwarp Technology (Shanghai) Co international offer shares under global offering total 13.3 million H shares
 - 09/11 07:30 [financialjuice] NEW ZEALAND MANUFACTURING PMI ACTUAL 53.1 (FORECAST -, PREVIOUS 54.3) $MACRO
@@ -530,3 +527,4 @@
 - 09/12 06:22 [financialjuice] Putin: current events in Europe result of systemic mistakes by Western globalists
 - 09/12 06:22 [financialjuice] Putin: Ukraine conflict triggered by western elites pressuring Russia, aiming to pull Ukraine into NATO
 - 09/12 06:22 [financialjuice] Saudi civil defence: early warning issued in Khamis Mushait to signal possible threat
+- 09/12 06:33 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait
