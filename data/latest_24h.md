@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 17:04 JST／対象: 09/10 17:04 〜 09/11 17:04 JST（時刻はすべて日本時間）
+生成: 2026-09-11 17:27 JST／対象: 09/10 17:27 〜 09/11 17:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 09/10 17:27 | 09/11 16:57 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 362 | 09/10 17:06 | 09/11 17:02 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 281 | 09/10 17:04 | 09/11 17:04 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 65 | 09/10 17:30 | 09/11 17:08 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 364 | 09/10 17:32 | 09/11 17:25 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 284 | 09/10 17:53 | 09/11 17:21 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 683 行（統合前 714 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 688 行（統合前 719 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 17:04 [financialjuice] Anthropic grants EU access to Mythos months after release.
-- 09/10 17:06 [FirstSquawk] AUGUST WAS ONE OF THE HOTTEST MONTHS EVER RECORDED WORLDWIDE, ACCORDING TO EU DATA.
-- 09/10 17:07 [FirstSquawk] ANTHROPIC GRANTS EU ACCESS TO MYTHOS, SEVERAL MONTHS AFTER ITS LAUNCH.
-- 09/10 17:08 [FirstSquawk] BARCLAYS WARNED THAT THE YEN COULD FALL BACK TO THE UPPER 150s PER DOLLAR IF EXPECTATIONS FOR QUICKER BANK OF JAPAN RATE INCREASES AND A MOVE BY PENSION FUNDS TOWARD LOCAL ASSETS DON'T HAPPEN.
-- 09/10 17:12 [FirstSquawk] EU OFFICIAL URGES TECH GIANTS TO INVEST IN CLEAN ENERGY TO SUPPORT DATA CENTER POWER DEMAND AND GREEN TRANSITION.
-- 09/10 17:13 [FirstSquawk] CHINA COMMERCE MINISTRY: EXTENDS PROBE INTO PECAN IMPORTS FROM MEXICO, U.S. - STATEMENT
-- 09/10 17:19 [FirstSquawk] UBS PULLS PLUG ON FUND SALES ON A WEALTH PLATFORM IN CHINA AMID STIFF COMPETITION – SCMP
-- 09/10 17:25 [FirstSquawk] SPOKESPERSON FOR IRAQI ARMED FORCES STATES THAT SEPTEMBER 30 IS THE LAST DATE FOR THE INTERNATIONAL COALITION'S OPERATIONS IN IRAQ.
-- 09/10 17:27 [DeItaone] PUTIN AIDE: EUROPE DOES NOT WANT UKRAINE PEACE Putin aide Nikolay Patrushev claimed Western Europe is not interested in peace in Ukraine or encouraging Kyiv to negotiate. He said the U.S. appears more interested in negotiations, expressing …
 - 09/10 17:30 [DeItaone] $META - JPMORGAN TURNS BULLISH ON META’S AI POTENTIAL JPMorgan upgraded Meta to Overweight and raised its price target to $820 from $640, implying roughly 24% upside. The bank sees significant new revenue opportunities from AI agents, subsc…
 - 09/10 17:32 [FirstSquawk] VIETNAM WILL START TRIAL RUNS AT LONG THANH INTERNATIONAL AIRPORT, BUT AIRLINES ARE HESITANT TO MOVE FLIGHTS DUE TO CONCERNS ABOUT FEES AND CONNECTIVITY.
 - 09/10 17:35 [FirstSquawk] VW ESTIMATES THE COST OF JOB CUTS AND PLANT CLOSURES AT 16B EUROS - SPIEGEL
@@ -707,3 +698,17 @@
 - 09/11 17:02 [financialjuice] French government will revise downward its 2026 growth forecast to 0.5% growth - Les Echos citing sources.
 - 09/11 17:02 [FirstSquawk] IRAN'S PRESIDENT MASOUD PEZESHKIAN EXPRESSED OPPOSITION TO THE CONTINUATION OF WAR BUT STRESSED THE IMPORTANCE OF BUILDING RESILIENCE AGAINST FUTURE PRESSURES.
 - 09/11 17:04 [financialjuice] Iran-backed Houthis reached Yemeni port city of Dhubab, along Bab El-Mandeb Strait - Two Yemeni Governmental Sources.
+- 09/11 17:05 [FirstSquawk] IRAN SUPPORTING HOUTHIS ARRIVED AT DHUBAB PORT CITY IN YEMEN, NEAR BAB EL-MANDEB STRAIT
+- 09/11 17:07 [financialjuice] ECB's Kocher: Too early to say anything about next ECB decision.
+- 09/11 17:08 [DeItaone] HOUTHIS REACHED YEMENI PORT CITY OF DHUBAB, ALONG BAB EL-MANDEB STRAIT- TWO YEMENI GOVERNMENTAL SOURCES
+- 09/11 17:10 [financialjuice] Yemen's Houthis take control of Mayyun Island in Red Sea - AFP
+- 09/11 17:10 [FirstSquawk] YEMEN'S HOUTHIS TAKE CONTROL OF MAYYUN ISLAND IN RED SEA: AFP REPORTS
+- 09/11 17:12 [FirstSquawk] YEMEN'S HOUTHIS COMPLETE TAKEOVER OF BAB EL-MANDEB STRAIT: AFP REPORTS
+- 09/11 17:12 [financialjuice] Yemen's Houthis complete takeover of Bab El-Mandeb strait - AFP.
+- 09/11 17:14 [FirstSquawk] BRICS FINANCE, CENTRAL BANK GOVERNORS: CONTINUE TO HAVE SERIOUS CONCERNS WITH UNILATERAL IMPOSITION OF TRADE AND FINANCE-RELATED ACTIONS
+- 09/11 17:16 [FirstSquawk] BRICS: SEEK FASTER, CHEAPER CROSS-BORDER PAYMENTS
+- 09/11 17:16 [FirstSquawk] BRICS: CALL FOR 'URGENT' OVERHAUL OF IMF, WORLD BANK POWER
+- 09/11 17:16 [FirstSquawk] BRICS: SUPPORT RULES-BASED TRADING SYSTEM WITH WTO AT ITS CORE
+- 09/11 17:21 [financialjuice] Japan trade delegation preparing China visit in September - Kyodo
+- 09/11 17:21 [FirstSquawk] ZELENSKY AND CANADIAN PM MARK CARNEY FORM A 100-YEAR PARTNERSHIP. CANADA JOINS UKRAINE’S FREYJA ANTI-BALLISTIC MISSILE PROJECT, OFFERS NEW AIR-DEFENSE AID, AND MOVES FORWARD WITH A DRONE DEAL.
+- 09/11 17:25 [FirstSquawk] YEMENI GOVERNMENT FORCES RETREAT FROM PERIM ISLAND IN BAB EL-MANDEB STRAIT

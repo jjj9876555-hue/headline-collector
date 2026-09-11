@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 17:04 JST／対象: 09/11 11:04 〜 09/11 17:04 JST（時刻はすべて日本時間）
+生成: 2026-09-11 17:27 JST／対象: 09/11 11:27 〜 09/11 17:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/11 15:05 | 09/11 16:57 | 33分（16:08→16:41） |
-| FirstSquawk | 112 | 09/11 11:05 | 09/11 17:02 | 17分（16:40→16:58） |
-| financialjuice | 13 | 09/11 15:34 | 09/11 17:04 | ⚠ 55分（16:05→17:01） |
+| DeItaone | 10 | 09/11 15:05 | 09/11 17:08 | 33分（16:08→16:41） |
+| FirstSquawk | 113 | 09/11 11:32 | 09/11 17:25 | 17分（16:40→16:58） |
+| financialjuice | 17 | 09/11 15:34 | 09/11 17:21 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 131 行（統合前 134 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 137 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 11:05 [FirstSquawk] New California rules tighten restrictions on social media for children.
-- 09/11 11:09 [FirstSquawk] Japan’s finance minister avoids giving a view on specific FX levels.
-- 09/11 11:10 [FirstSquawk] Katayama says Japan’s position remains completely unchanged following U.S.-Japan coordination.
-- 09/11 11:11 [FirstSquawk] Katayama says Japan will work to ensure stability in currency markets and communicate closely with the U.S.
-- 09/11 11:12 [FirstSquawk] Japan will seek stability in FX markets and maintain close communication with the U.S., Katayama says.
-- 09/11 11:18 [FirstSquawk] Seoul says the economy remains on a solid recovery path, supported by exports.
-- 09/11 11:22 [FirstSquawk] Japan gets its first look at Tesla’s driverless Cybercab.
-- 09/11 11:24 [FirstSquawk] Indonesia stocks slide, with the benchmark index sinking to 6,462.96, lowest since Aug. 27.
 - 09/11 11:32 [FirstSquawk] Economic strain leaves Iranians struggling to secure fuel supplies.
 - 09/11 11:39 [FirstSquawk] China’s benchmark Shanghai Composite drops 2%.
 - 09/11 11:39 [FirstSquawk] Saudi Red Sea oil exports come under threat as Houthis advance along Yemen’s coastline.
@@ -155,3 +147,17 @@
 - 09/11 17:02 [financialjuice] French government will revise downward its 2026 growth forecast to 0.5% growth - Les Echos citing sources.
 - 09/11 17:02 [FirstSquawk] IRAN'S PRESIDENT MASOUD PEZESHKIAN EXPRESSED OPPOSITION TO THE CONTINUATION OF WAR BUT STRESSED THE IMPORTANCE OF BUILDING RESILIENCE AGAINST FUTURE PRESSURES.
 - 09/11 17:04 [financialjuice] Iran-backed Houthis reached Yemeni port city of Dhubab, along Bab El-Mandeb Strait - Two Yemeni Governmental Sources.
+- 09/11 17:05 [FirstSquawk] IRAN SUPPORTING HOUTHIS ARRIVED AT DHUBAB PORT CITY IN YEMEN, NEAR BAB EL-MANDEB STRAIT
+- 09/11 17:07 [financialjuice] ECB's Kocher: Too early to say anything about next ECB decision.
+- 09/11 17:08 [DeItaone] HOUTHIS REACHED YEMENI PORT CITY OF DHUBAB, ALONG BAB EL-MANDEB STRAIT- TWO YEMENI GOVERNMENTAL SOURCES
+- 09/11 17:10 [financialjuice] Yemen's Houthis take control of Mayyun Island in Red Sea - AFP
+- 09/11 17:10 [FirstSquawk] YEMEN'S HOUTHIS TAKE CONTROL OF MAYYUN ISLAND IN RED SEA: AFP REPORTS
+- 09/11 17:12 [FirstSquawk] YEMEN'S HOUTHIS COMPLETE TAKEOVER OF BAB EL-MANDEB STRAIT: AFP REPORTS
+- 09/11 17:12 [financialjuice] Yemen's Houthis complete takeover of Bab El-Mandeb strait - AFP.
+- 09/11 17:14 [FirstSquawk] BRICS FINANCE, CENTRAL BANK GOVERNORS: CONTINUE TO HAVE SERIOUS CONCERNS WITH UNILATERAL IMPOSITION OF TRADE AND FINANCE-RELATED ACTIONS
+- 09/11 17:16 [FirstSquawk] BRICS: SEEK FASTER, CHEAPER CROSS-BORDER PAYMENTS
+- 09/11 17:16 [FirstSquawk] BRICS: CALL FOR 'URGENT' OVERHAUL OF IMF, WORLD BANK POWER
+- 09/11 17:16 [FirstSquawk] BRICS: SUPPORT RULES-BASED TRADING SYSTEM WITH WTO AT ITS CORE
+- 09/11 17:21 [financialjuice] Japan trade delegation preparing China visit in September - Kyodo
+- 09/11 17:21 [FirstSquawk] ZELENSKY AND CANADIAN PM MARK CARNEY FORM A 100-YEAR PARTNERSHIP. CANADA JOINS UKRAINE’S FREYJA ANTI-BALLISTIC MISSILE PROJECT, OFFERS NEW AIR-DEFENSE AID, AND MOVES FORWARD WITH A DRONE DEAL.
+- 09/11 17:25 [FirstSquawk] YEMENI GOVERNMENT FORCES RETREAT FROM PERIM ISLAND IN BAB EL-MANDEB STRAIT
