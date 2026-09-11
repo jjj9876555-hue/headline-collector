@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 18:18 JST／対象: 09/10 18:18 〜 09/11 18:18 JST（時刻はすべて日本時間）
+生成: 2026-09-11 18:34 JST／対象: 09/10 18:34 〜 09/11 18:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 09/10 18:19 | 09/11 17:48 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 362 | 09/10 18:28 | 09/11 18:12 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 290 | 09/10 18:27 | 09/11 18:09 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 65 | 09/10 18:50 | 09/11 18:23 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 362 | 09/10 18:38 | 09/11 18:25 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 290 | 09/10 18:42 | 09/11 18:21 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 692 行（統合前 723 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 18:19 [DeItaone] $AAPL - WALL STREET WEIGHS APPLE’S $1,999 FOLDABLE IPHONE Apple’s new iPhone Duo is drawing differing views from Wall Street. JPMorgan — Overweight, $340 PT: Sees Apple’s software-hardware integration giving the Duo an edge over Android fol…
-- 09/10 18:21 [DeItaone] FRANCE'S 10-YEAR GOVERNMENT BOND YIELD HITS HIGHEST SINCE OCTOBER 2008 AT 4.3443%, UP 1 BP
-- 09/10 18:27 [financialjuice] Japan cabinet to approve tax reform outline on September 15 - Kyodo
-- 09/10 18:28 [FirstSquawk] EU PLAN AIMS TO REDUCE RUSSIA MEDICAL RADIOISOTOPE DEPENDENCY
-- 09/10 18:31 [FirstSquawk] JAPAN'S CABINET WILL DECIDE ON TAX REFORM DETAILS ON SEPTEMBER 15TH, ACCORDING TO KYODO.
 - 09/10 18:38 [FirstSquawk] Europe Gas Prices Reach Highest Level Since Dec. 2022
 - 09/10 18:42 [financialjuice] UK Government: Houthis bear full responsibility for Yemen crisis.
 - 09/10 18:50 [DeItaone] TRUMP PLEDGES $5,000 DIVIDEND IF GOP WINS MIDTERMS President Donald Trump pledged a $5,000 payment to every U.S. adult citizen if Republicans retain control of both chambers of Congress, a plan estimated to cost around $1.2 trillion. Trump …
@@ -716,3 +711,8 @@
 - 09/11 18:10 [FirstSquawk] IRAN-SUPPORTED HOUTHIS ARRIVED AT THE IMPORTANT PERIM ISLAND IN YEMEN'S BAB EL-MANDEB STRAIT EARLY ON FRIDAY
 - 09/11 18:11 [FirstSquawk] FRENCH GOVERNMENT PREDICTS 2026 BUDGET DEFICIT WILL EXCEED 5% GOAL.
 - 09/11 18:12 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE: AT THIS POINT WE DO NOT SEE THE NEED FOR A NEW RELEASE OF OIL STOCKS
+- 09/11 18:19 [FirstSquawk] CHINA'S MOONSHOT AI AIMS FOR $2 BILLION IN ANNUAL SALES BY 2026.
+- 09/11 18:20 [DeItaone] WALL STREET HIKES OIL FORECASTS AS GULF DISRUPTIONS PERSIST Major banks are raising Brent forecasts as prolonged Middle East shipping disruptions tighten global oil supply. HSBC sees Brent averaging $90 in 2026, while Goldman warns prices c…
+- 09/11 18:21 [financialjuice] SNB's Chairman Schlegel: Inflation recently ticked up in Switzerland.
+- 09/11 18:23 [DeItaone] BofA WARNS “BLASÉ” MARKETS SET FOR HIGHER VOLATILITY U.S. equity funds have seen $14.2 billion of outflows in three weeks, the largest since January, according to BofA. With Treasury yields surging, oil above $100 and diesel at record highs…
+- 09/11 18:25 [FirstSquawk] SNB'S SCHLEGEL PRESENTATION OMITS USUAL LINES ON FRANC, PRICES

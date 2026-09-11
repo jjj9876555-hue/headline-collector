@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 18:18 JST／対象: 09/11 12:18 〜 09/11 18:18 JST（時刻はすべて日本時間）
+生成: 2026-09-11 18:34 JST／対象: 09/11 12:34 〜 09/11 18:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/11 15:05 | 09/11 17:48 | 33分（16:08→16:41） |
-| FirstSquawk | 115 | 09/11 12:25 | 09/11 18:12 | 17分（16:40→16:58） |
-| financialjuice | 27 | 09/11 15:34 | 09/11 18:09 | ⚠ 55分（16:05→17:01） |
+| DeItaone | 15 | 09/11 15:05 | 09/11 18:23 | 33分（16:08→16:41） |
+| FirstSquawk | 113 | 09/11 12:42 | 09/11 18:25 | 17分（16:40→16:58） |
+| financialjuice | 28 | 09/11 15:34 | 09/11 18:21 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 152 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 153 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 12:25 [FirstSquawk] Hezbollah tunnel network in southern Lebanon destroyed by Israel, triggering tremors.
-- 09/11 12:26 [FirstSquawk] Petrol-powered cars from foreign marques see deep price cuts as competition heats up in China.
-- 09/11 12:30 [FirstSquawk] Three-month Japanese Treasury bills clear at a lowest price of 99.7050 and average 99.7228, while 12.8708% of bids are accepted at the lowest price.
-- 09/11 12:32 [FirstSquawk] Former Malaysian PM Najib’s pardon request delayed until the next Pardons Board meeting, officials say.
 - 09/11 12:42 [FirstSquawk] China’s Finance Ministry sets the yield at 1.38% in its 5-year bond auction, traders say.
 - 09/11 12:45 [FirstSquawk] Trump warns the U.S. could be badly positioned globally if it loses the race for AI leadership.
 - 09/11 12:45 [FirstSquawk] Trump dismisses concerns that artificial intelligence could lead to human extinction.
@@ -176,3 +172,8 @@
 - 09/11 18:10 [FirstSquawk] IRAN-SUPPORTED HOUTHIS ARRIVED AT THE IMPORTANT PERIM ISLAND IN YEMEN'S BAB EL-MANDEB STRAIT EARLY ON FRIDAY
 - 09/11 18:11 [FirstSquawk] FRENCH GOVERNMENT PREDICTS 2026 BUDGET DEFICIT WILL EXCEED 5% GOAL.
 - 09/11 18:12 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE: AT THIS POINT WE DO NOT SEE THE NEED FOR A NEW RELEASE OF OIL STOCKS
+- 09/11 18:19 [FirstSquawk] CHINA'S MOONSHOT AI AIMS FOR $2 BILLION IN ANNUAL SALES BY 2026.
+- 09/11 18:20 [DeItaone] WALL STREET HIKES OIL FORECASTS AS GULF DISRUPTIONS PERSIST Major banks are raising Brent forecasts as prolonged Middle East shipping disruptions tighten global oil supply. HSBC sees Brent averaging $90 in 2026, while Goldman warns prices c…
+- 09/11 18:21 [financialjuice] SNB's Chairman Schlegel: Inflation recently ticked up in Switzerland.
+- 09/11 18:23 [DeItaone] BofA WARNS “BLASÉ” MARKETS SET FOR HIGHER VOLATILITY U.S. equity funds have seen $14.2 billion of outflows in three weeks, the largest since January, according to BofA. With Treasury yields surging, oil above $100 and diesel at record highs…
+- 09/11 18:25 [FirstSquawk] SNB'S SCHLEGEL PRESENTATION OMITS USUAL LINES ON FRANC, PRICES

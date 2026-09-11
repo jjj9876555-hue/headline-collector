@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 18:18 JST／対象: 09/11 06:18 〜 09/11 18:18 JST（時刻はすべて日本時間）
+生成: 2026-09-11 18:34 JST／対象: 09/11 06:34 〜 09/11 18:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/11 06:36 | 09/11 17:48 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 175 | 09/11 06:26 | 09/11 18:12 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 53 | 09/11 06:40 | 09/11 18:09 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 22 | 09/11 06:36 | 09/11 18:23 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 175 | 09/11 07:37 | 09/11 18:25 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 54 | 09/11 06:40 | 09/11 18:21 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 245 行（統合前 248 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 248 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 06:26 [FirstSquawk] ORACLE CFO EXPECTS AROUND 50% OF THE COMPANY’S $664 BILLION RPO TO CONVERT INTO REVENUE OVER THE NEXT 36 MONTHS, WITH NEWLY BOOKED REVENUE BACKLOG NOT EXPECTED TO IMPACT REVENUE OR CAPEX UNTIL FY2028 OR LATER.
-- 09/11 06:26 [FirstSquawk] ORACLE MAINTAINS ITS FULL-YEAR CAPEX FORECAST AT $90-$95 BILLION, WITH SPENDING EXPECTED TO BE UNEVEN THROUGHOUT THE YEAR.
 - 09/11 06:36 [DeItaone] *BESSENT: GOING TO SANCTION A LARGE BANK ON MONDAY
 - 09/11 06:40 [financialjuice] Pentagon in talks to enter AI infrastructure funding with $5 billion loan - WSJ
 - 09/11 06:41 [financialjuice] Pentagon in talks to provide about $5 billion loan to Al cloud-computing startup FluidStack to strengthen US data-center supply chain - WSJ
@@ -269,3 +267,8 @@
 - 09/11 18:10 [FirstSquawk] IRAN-SUPPORTED HOUTHIS ARRIVED AT THE IMPORTANT PERIM ISLAND IN YEMEN'S BAB EL-MANDEB STRAIT EARLY ON FRIDAY
 - 09/11 18:11 [FirstSquawk] FRENCH GOVERNMENT PREDICTS 2026 BUDGET DEFICIT WILL EXCEED 5% GOAL.
 - 09/11 18:12 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE: AT THIS POINT WE DO NOT SEE THE NEED FOR A NEW RELEASE OF OIL STOCKS
+- 09/11 18:19 [FirstSquawk] CHINA'S MOONSHOT AI AIMS FOR $2 BILLION IN ANNUAL SALES BY 2026.
+- 09/11 18:20 [DeItaone] WALL STREET HIKES OIL FORECASTS AS GULF DISRUPTIONS PERSIST Major banks are raising Brent forecasts as prolonged Middle East shipping disruptions tighten global oil supply. HSBC sees Brent averaging $90 in 2026, while Goldman warns prices c…
+- 09/11 18:21 [financialjuice] SNB's Chairman Schlegel: Inflation recently ticked up in Switzerland.
+- 09/11 18:23 [DeItaone] BofA WARNS “BLASÉ” MARKETS SET FOR HIGHER VOLATILITY U.S. equity funds have seen $14.2 billion of outflows in three weeks, the largest since January, according to BofA. With Treasury yields surging, oil above $100 and diesel at record highs…
+- 09/11 18:25 [FirstSquawk] SNB'S SCHLEGEL PRESENTATION OMITS USUAL LINES ON FRANC, PRICES
