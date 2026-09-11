@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 10:58 JST／対象: 09/10 10:58 〜 09/11 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 11:17 JST／対象: 09/10 11:17 〜 09/11 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/10 16:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 369 | 09/10 10:58 | 09/11 10:58 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 301 | 09/10 11:11 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 364 | 09/10 11:21 | 09/11 11:12 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 300 | 09/10 12:06 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 707 行（統合前 735 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 701 行（統合前 729 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 10:58 [FirstSquawk] SK Group chief to visit AI data center under construction in Ulsan - yonhap
-- 09/10 11:02 [FirstSquawk] Trump threatens to strike Mount Fao heavily if Iran resumes or conducts nuclear activity at the location.
-- 09/10 11:04 [FirstSquawk] Hong Kong’s biotech benchmark declines 2% in trading.
-- 09/10 11:07 [FirstSquawk] UBS to end fund sales activities at its China distribution unit in Shenzhen from the end of September.
-- 09/10 11:08 [FirstSquawk] UBS says there is no change to operations at its other wealth management platforms in China.
-- 09/10 11:08 [FirstSquawk] UBS says it will combine its wealth management businesses and resources in the Chinese market.
-- 09/10 11:08 [FirstSquawk] UBS says the Greater Bay Area continues to be one of its main growth markets in China.
-- 09/10 11:09 [FirstSquawk] UBS is exploring opportunities to deepen its wealth management operations in China’s Greater Bay Area.
-- 09/10 11:11 [financialjuice] Trump: if Republicans secure house and senate, I'll issue $5,000 payout to every U.S. adult
-- 09/10 11:11 [FirstSquawk] Trump pledges a $5,000 payment to every U.S. adult if Republicans win the House and Senate.
-- 09/10 11:17 [FirstSquawk] Mastercard launches Wallet Pay to support the global expansion of digital wallet transactions.
 - 09/10 11:21 [FirstSquawk] U.S. regulators grant accelerated approval to Bayer’s sevabertinib as a first-line targeted therapy for HER2-mutated NSCLC.
 - 09/10 11:29 [FirstSquawk] South Korea’s stock market starts lower as higher oil prices and escalating geopolitical tensions pressure risk sentiment.
 - 09/10 11:35 [FirstSquawk] Trump unveils a proposed $5,000 “Trump dividend” for U.S. adults, conditional on a Republican victory in the House and Senate As Per FT
@@ -731,3 +720,8 @@
 - 09/11 10:57 [FirstSquawk] Micron says eligible Taiwan employees will get a T$1 million thank-you payment for FY2026.
 - 09/11 10:58 [FirstSquawk] Taiwan-based Micron staff may get performance payouts reaching 500% of base targets plus additional equity for FY2026.
 - 09/11 10:58 [FirstSquawk] Taiwan-based Micron direct employees to receive FY2026 compensation equivalent to 35–68 months of salary, including a minimum T$1.7 million cash payout.
+- 09/11 11:05 [FirstSquawk] New California rules tighten restrictions on social media for children.
+- 09/11 11:09 [FirstSquawk] Japan’s finance minister avoids giving a view on specific FX levels.
+- 09/11 11:10 [FirstSquawk] Katayama says Japan’s position remains completely unchanged following U.S.-Japan coordination.
+- 09/11 11:11 [FirstSquawk] Katayama says Japan will work to ensure stability in currency markets and communicate closely with the U.S.
+- 09/11 11:12 [FirstSquawk] Japan will seek stability in FX markets and maintain close communication with the U.S., Katayama says.

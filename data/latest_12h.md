@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 10:58 JST／対象: 09/10 22:58 〜 09/11 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 11:17 JST／対象: 09/10 23:17 〜 09/11 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/10 23:00 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 141 | 09/10 23:00 | 09/11 10:58 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 128 | 09/10 23:00 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
+| DeItaone | 23 | 09/10 23:21 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 139 | 09/10 23:20 | 09/11 11:12 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 118 | 09/10 23:18 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 290 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 273 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 23:00 [FirstSquawk] US EXISTING HOME SALES (AUG) ACTUAL: 3.98M VS 4.06M PREVIOUS; EST 3.98M
-- 09/10 23:00 [financialjuice] ❗ US EXISTING HOME SALES ACTUAL 3.98M (FORECAST 3.98M, PREVIOUS 4.06M) $MACRO
-- 09/10 23:00 [financialjuice] US EXISTING HOME SALES CHANGE ACTUAL -2% (FORECAST -1.7%, PREVIOUS -1.7%) $MACRO
-- 09/10 23:00 [financialjuice] US WHOLESALE INVENTORIES MOM REVISED ACTUAL 1.3% (FORECAST 1.3%, PREVIOUS 1.3%) $MACRO
-- 09/10 23:00 [DeItaone] *US AUG. EXISTING HOME SALES AT 3.98M; EST. 3.98M *US AUG. EXISTING HOME SALES FALL 2% M/M; PREV. -1.7%
-- 09/10 23:00 [financialjuice] US WHOLESALE SALES MOM ACTUAL 0.8% (FORECAST -, PREVIOUS -3.0%) $MACRO
-- 09/10 23:01 [financialjuice] US Existing Home Sales August Report
-- 09/10 23:01 [FirstSquawk] US EXISTING HOME SUPPLY REACHES 4.9 MONTHS, THE HIGHEST LEVEL SINCE 2015.
-- 09/10 23:04 [DeItaone] MARKETS KALSHI LAUNCHES ‘PERPS’ FOR GOLD AND SILVER FOLLOWING CFTC APPROVAL, EXPANDING FUTURES OFFERINGS- CNBC
-- 09/10 23:05 [FirstSquawk] KALSHI LAUNCHES ‘PERPS’ FOR GOLD AND SILVER FOLLOWING CFTC APPROVAL, EXPANDING FUTURES OFFERINGS - CNBC
-- 09/10 23:09 [FirstSquawk] OPENAI HELD MEETINGS WITH REPRESENTATIVES FROM LEADING ENERGY FIRMS.
-- 09/10 23:09 [FirstSquawk] OPENAI HELD DISCUSSIONS WITH POWER COMPANIES ABOUT SECURING THE GRID, ACCORDING TO POLITICO.
-- 09/10 23:09 [financialjuice] OpenAI discussed securing the grid in talks with power companies - Politico.
-- 09/10 23:10 [DeItaone] WHITE HOUSE: WILL ISSUE $500 OBAMACARE REFUNDS TO NEARLY 1 MILLION AMERICANS
-- 09/10 23:12 [financialjuice] Poll: US 10-year Treasury yield likely to touch 5% within three months according to 55% bond strategists.
-- 09/10 23:13 [financialjuice] Poll: US 10-year Treasury yield to decline to 4.67% in three months, 4.65% in six, and 4.55% in a year (vs 4.50%, 4.50%, and 4.34%, respectively, in the August poll)
-- 09/10 23:13 [FirstSquawk] THUNE WAS ASKED IF SENATE WILL HAVE VOTES TO PASS $5,000 CHECKS
-- 09/10 23:14 [DeItaone] WALL STREET SEES 5% TREASURY YIELD RISK A Reuters poll found 17 of 31 bond strategists see the U.S. 10-year Treasury yield potentially hitting 5% within three months. The 10-year recently reached 4.86%, pressured by $100+ oil, inflation con…
-- 09/10 23:16 [FirstSquawk] TRADERS FULLY PRICE THREE MORE ECB RATE HIKES BY MID-2027
-- 09/10 23:16 [financialjuice] ❗ Traders fully price in three more ECB rate hikes by mid-2027.
-- 09/10 23:16 [DeItaone] *OPENAI SEEKS TO ENSURE MODELS CAN'T HARM GRID SECURITY:POLITICO
-- 09/10 23:17 [financialjuice] Crypto Fear and Greed Index: 69/100 = Greed
 - 09/10 23:18 [financialjuice] Fear & Greed Index: 36/100 - Fear
 - 09/10 23:20 [FirstSquawk] US TREASURY TWO-YEAR YIELD INCREASES BY 10 BASIS POINTS TO 4.53%.
 - 09/10 23:21 [DeItaone] *TREASURY TWO-YEAR YIELD RISES 10 BASIS POINTS ON DAY TO 4.53%
@@ -314,3 +292,8 @@
 - 09/11 10:57 [FirstSquawk] Micron says eligible Taiwan employees will get a T$1 million thank-you payment for FY2026.
 - 09/11 10:58 [FirstSquawk] Taiwan-based Micron staff may get performance payouts reaching 500% of base targets plus additional equity for FY2026.
 - 09/11 10:58 [FirstSquawk] Taiwan-based Micron direct employees to receive FY2026 compensation equivalent to 35–68 months of salary, including a minimum T$1.7 million cash payout.
+- 09/11 11:05 [FirstSquawk] New California rules tighten restrictions on social media for children.
+- 09/11 11:09 [FirstSquawk] Japan’s finance minister avoids giving a view on specific FX levels.
+- 09/11 11:10 [FirstSquawk] Katayama says Japan’s position remains completely unchanged following U.S.-Japan coordination.
+- 09/11 11:11 [FirstSquawk] Katayama says Japan will work to ensure stability in currency markets and communicate closely with the U.S.
+- 09/11 11:12 [FirstSquawk] Japan will seek stability in FX markets and maintain close communication with the U.S., Katayama says.

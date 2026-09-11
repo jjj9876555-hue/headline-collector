@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 10:58 JST／対象: 09/11 04:58 〜 09/11 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 11:17 JST／対象: 09/11 05:17 〜 09/11 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/11 06:36 | 09/11 08:48 | ⚠ 60分（07:31→08:32） |
-| FirstSquawk | 59 | 09/11 05:01 | 09/11 10:58 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 36 | 09/11 05:02 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
+| FirstSquawk | 58 | 09/11 05:19 | 09/11 11:12 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 32 | 09/11 05:23 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 101 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 97 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 05:01 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 171.22 POINTS, OR 0.65%, AT 26,082.12. S&P 500 UNOFFICIALLY CLOSES DOWN 45.92 POINTS, OR 0.60%, AT 7,590.44. DOW JONES INDUSTRIAL AVERAGE UNOFFICIALLY CLOSES DOWN 327.34 POINTS, OR 0.62%, AT 52,053.…
-- 09/11 05:02 [financialjuice/FirstSquawk] Yemeni Armed Forces launch missile attack on southern Saudi Arabia - IRNA
-- 09/11 05:08 [FirstSquawk] ADOBE Q3 ADJUSTED EPS RISES TO $6.13 FROM $6.09 EXPECTED, WHILE REVENUE REACHES $6.76 BILLION, ABOVE THE $6.70 BILLION ESTIMATE, AND ADJUSTED NET INCOME HITS $2.42 BILLION.
-- 09/11 05:08 [FirstSquawk] ADOBE GUIDES FY REVENUE TO $26.576-$26.626 BILLION AND ADJUSTED EPS TO $24.45-$24.50, WHILE Q4 REVENUE IS FORECAST AT $6.80-$6.85 BILLION.
-- 09/11 05:10 [financialjuice] $ORCL Oracle Q1 2027 Earnings Adj. EPS $1.92, est. $1.75 Adj. Rev. $19.35B, est. $19.13B Adj. oper income $8.15B, est. $7.81B Adj. oper margin 42%, est. 40.8% Cloud infrastructure rev. (IaaS) $7.39B, est. $7.19B Software rev. $5.55B, est. $…
-- 09/11 05:13 [FirstSquawk] ORACLE EARNINGS • REVENUE: $19.3B VS $19.14B ESTIMATE • ADJ. EPS: $1.92 VS $1.74 ESTIMATE • CLOUD REVENUE: $11.6B VS $11.44B ESTIMATE • FY REVENUE GUIDANCE: ≥$90B VS $89.76B ESTIMATE • FY ADJ. EPS GUIDANCE: $8.10 VS $8.07 ESTIMATE • Q2 REVE…
-- 09/11 05:13 [financialjuice] Oracle now expects FY 2027 revenue at least $90 bln. $ORCL
-- 09/11 05:13 [FirstSquawk] ORACLE Q1 EARNINGS — AI CLOUD BOOM • Q1 REVENUE: $19.3B VS $19.14B ESTIMATE — BEAT. • Q1 ADJ EPS: $1.92 VS $1.74 ESTIMATE — STRONG BEAT. • CLOUD REVENUE: $11.6B VS $11.44B ESTIMATE. • FY REVENUE OUTLOOK: AT LEAST $90B VS $89.76B ESTIMATE. •…
-- 09/11 05:15 [financialjuice] Oracle booked over $30 bln of added AI cloud contracts in Q1
 - 09/11 05:19 [FirstSquawk] BRENT CRUDE CLIMBED ABOVE $107, PUSHING US STOCKS AND BONDS LOWER AS RISING ENERGY PRICES INTENSIFIED INFLATION CONCERNS. THE S&P 500 FELL FOR A FOURTH STRAIGHT SESSION, ITS LONGEST LOSING STREAK SINCE JUNE, WHILE TREASURY YIELDS REACHED MU…
 - 09/11 05:19 [FirstSquawk] MARKETS RAISED THE PROBABILITY OF A FED RATE HIKE NEXT WEEK TO 70%, WITH AN INCREASE FULLY PRICED BY OCTOBER. PRODUCER INFLATION ALSO SHOWED RENEWED PRICE PRESSURE FROM HIGHER ENERGY COSTS, INCREASING FOCUS ON THE UPCOMING CPI REPORT.
 - 09/11 05:19 [FirstSquawk] TREASURY’S $5.19B DEBT BUYBACK CAME IN BELOW THE PREVIOUSLY INDICATED AMOUNT, ADDING PRESSURE TO BONDS. THE FED’S SEPT. 15–16 MEETING WILL NOW HINGE HEAVILY ON THIS WEEK’S INFLATION AND ECONOMIC DATA, PARTICULARLY WHETHER SURGING GASOLINE P…
@@ -125,3 +116,8 @@
 - 09/11 10:57 [FirstSquawk] Micron says eligible Taiwan employees will get a T$1 million thank-you payment for FY2026.
 - 09/11 10:58 [FirstSquawk] Taiwan-based Micron staff may get performance payouts reaching 500% of base targets plus additional equity for FY2026.
 - 09/11 10:58 [FirstSquawk] Taiwan-based Micron direct employees to receive FY2026 compensation equivalent to 35–68 months of salary, including a minimum T$1.7 million cash payout.
+- 09/11 11:05 [FirstSquawk] New California rules tighten restrictions on social media for children.
+- 09/11 11:09 [FirstSquawk] Japan’s finance minister avoids giving a view on specific FX levels.
+- 09/11 11:10 [FirstSquawk] Katayama says Japan’s position remains completely unchanged following U.S.-Japan coordination.
+- 09/11 11:11 [FirstSquawk] Katayama says Japan will work to ensure stability in currency markets and communicate closely with the U.S.
+- 09/11 11:12 [FirstSquawk] Japan will seek stability in FX markets and maintain close communication with the U.S., Katayama says.
