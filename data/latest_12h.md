@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 19:05 JST／対象: 09/11 07:05 〜 09/11 19:05 JST（時刻はすべて日本時間）
+生成: 2026-09-11 19:25 JST／対象: 09/11 07:25 〜 09/11 19:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/11 07:31 | 09/11 19:03 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 182 | 09/11 07:37 | 09/11 19:03 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 54 | 09/11 07:10 | 09/11 19:03 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 184 | 09/11 07:37 | 09/11 19:25 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 54 | 09/11 07:30 | 09/11 19:23 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 257 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 259 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 07:10 [financialjuice] Transwarp Technology Shanghai Co plans global offering of 14 million H shares
-- 09/11 07:11 [financialjuice] Transwarp Technology (Shanghai) Co international offer shares under global offering total 13.3 million H shares
 - 09/11 07:30 [financialjuice] NEW ZEALAND MANUFACTURING PMI ACTUAL 53.1 (FORECAST -, PREVIOUS 54.3) $MACRO
 - 09/11 07:30 [financialjuice] New Zealand August s/adj PMI at 53.1: Business NZ/Bank NZ survey
 - 09/11 07:31 [DeItaone] BESSENT DISMISSES TREASURY MARKET CONCERNS Treasury Secretary Scott Bessent says the bond market remains in “very good shape” despite 10-year yields reaching their highest since 2023. He also downplayed Thursday’s smaller-than-expected buyb…
@@ -281,3 +279,7 @@
 - 09/11 19:03 [DeItaone] SATELLITE IMAGERY SHOWS SMOKE ON THURSDAY IN VICINITY OF SAUDI ARABIA'S EAST WEST OIL PIPELINE
 - 09/11 19:03 [FirstSquawk] SATELLITE IMAGES CAPTURED SMOKE NEAR SAUDI ARABIA'S EAST WEST OIL PIPELINE ON THURSDAY.
 - 09/11 19:03 [FirstSquawk] NO OFFICIAL WORD FROM SAUDI ARABIA ON INCIDENT CLOSE TO EAST WEST OIL PIPELINE.
+- 09/11 19:15 [financialjuice] SNB's Chairman Schlegel: Swiss debt break policy has been highly successful.
+- 09/11 19:23 [financialjuice] CentCom commander traveled to Saudi Arabia on Thursday - Axios
+- 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER VISITED SAUDI ARABIA ON THURSDAY.
+- 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER TALKED ABOUT HOUTHIS MAKING PROGRESS IN YEMEN, ACCORDING TO AXIOS.

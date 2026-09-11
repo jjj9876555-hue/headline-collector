@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 19:05 JST／対象: 09/11 13:05 〜 09/11 19:05 JST（時刻はすべて日本時間）
+生成: 2026-09-11 19:25 JST／対象: 09/11 13:25 〜 09/11 19:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 18 | 09/11 15:05 | 09/11 19:03 | 33分（16:08→16:41） |
-| FirstSquawk | 113 | 09/11 13:13 | 09/11 19:03 | 17分（16:40→16:58） |
-| financialjuice | 30 | 09/11 15:34 | 09/11 19:03 | ⚠ 55分（16:05→17:01） |
+| FirstSquawk | 111 | 09/11 13:31 | 09/11 19:25 | 21分（19:03→19:25） |
+| financialjuice | 32 | 09/11 15:34 | 09/11 19:23 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 158 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 13:13 [FirstSquawk] Saudi Crown Prince MBS called on Trump to target the Houthis amid growing threats in the Red Sea, according to Axios.
-- 09/11 13:20 [FirstSquawk] Fears of higher U.S. interest rates ripple across global bond markets.-FT
-- 09/11 13:24 [FirstSquawk] Dubai airport operator plans to move fuel storage underground amid strike risks, according to the FT.
-- 09/11 13:25 [FirstSquawk] EU searches for new options to mobilize Russian assets in support of Ukraine, the FT reports.
 - 09/11 13:31 [FirstSquawk] South Korea’s Han calls for mutual benefits and commercial returns from strategic investment talks with the U.S.
 - 09/11 13:32 [FirstSquawk] South Korea’s Han says discussions with Washington on strategic investment projects are advancing.
 - 09/11 13:32 [FirstSquawk] South Korea plans to ease regulatory hurdles and improve the investment environment for foreign investors, Han says.
@@ -182,3 +178,7 @@
 - 09/11 19:03 [DeItaone] SATELLITE IMAGERY SHOWS SMOKE ON THURSDAY IN VICINITY OF SAUDI ARABIA'S EAST WEST OIL PIPELINE
 - 09/11 19:03 [FirstSquawk] SATELLITE IMAGES CAPTURED SMOKE NEAR SAUDI ARABIA'S EAST WEST OIL PIPELINE ON THURSDAY.
 - 09/11 19:03 [FirstSquawk] NO OFFICIAL WORD FROM SAUDI ARABIA ON INCIDENT CLOSE TO EAST WEST OIL PIPELINE.
+- 09/11 19:15 [financialjuice] SNB's Chairman Schlegel: Swiss debt break policy has been highly successful.
+- 09/11 19:23 [financialjuice] CentCom commander traveled to Saudi Arabia on Thursday - Axios
+- 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER VISITED SAUDI ARABIA ON THURSDAY.
+- 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER TALKED ABOUT HOUTHIS MAKING PROGRESS IN YEMEN, ACCORDING TO AXIOS.

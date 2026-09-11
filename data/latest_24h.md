@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 19:05 JST／対象: 09/10 19:05 〜 09/11 19:05 JST（時刻はすべて日本時間）
+生成: 2026-09-11 19:25 JST／対象: 09/10 19:25 〜 09/11 19:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 67 | 09/10 19:09 | 09/11 19:03 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 366 | 09/10 19:15 | 09/11 19:03 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 291 | 09/10 19:28 | 09/11 19:03 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 66 | 09/10 19:30 | 09/11 19:03 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 367 | 09/10 19:29 | 09/11 19:25 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 293 | 09/10 19:28 | 09/11 19:23 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 699 行（統合前 730 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 701 行（統合前 732 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 19:09 [DeItaone] $AAPL - APPLE INC.: BOFA GLOBAL RESEARCH CUTS PRICE OBJECTIVE TO $370 FROM $380
-- 09/10 19:15 [FirstSquawk] BROADCOM: REMAINING PERFORMANCE OBLIGATIONS UNDER SEMICONDUCTOR SOLUTIONS & INFRASTRUCTURE SOFTWARE SEGMENT CONTRACTS AS OF AUG 2, ABOUT $179.2B
 - 09/10 19:28 [financialjuice] White House yet to decide on refined copper tariffs.
 - 09/10 19:29 [FirstSquawk] NASDAQ HAS INVESTED IN PAYWARD, THE PARENT COMPANY OF KRAKEN, VALUING IT AT $21 BILLION.
 - 09/10 19:30 [DeItaone] TRUMP SEES IRAN WAR ENDING AFTER MIDTERMS President Donald Trump said he expects the Iran war to end after November’s U.S. midterm elections, while again threatening strikes on Iran’s Pickaxe Mountain nuclear site. Meanwhile, Iran and the U…
@@ -723,3 +721,7 @@
 - 09/11 19:03 [DeItaone] SATELLITE IMAGERY SHOWS SMOKE ON THURSDAY IN VICINITY OF SAUDI ARABIA'S EAST WEST OIL PIPELINE
 - 09/11 19:03 [FirstSquawk] SATELLITE IMAGES CAPTURED SMOKE NEAR SAUDI ARABIA'S EAST WEST OIL PIPELINE ON THURSDAY.
 - 09/11 19:03 [FirstSquawk] NO OFFICIAL WORD FROM SAUDI ARABIA ON INCIDENT CLOSE TO EAST WEST OIL PIPELINE.
+- 09/11 19:15 [financialjuice] SNB's Chairman Schlegel: Swiss debt break policy has been highly successful.
+- 09/11 19:23 [financialjuice] CentCom commander traveled to Saudi Arabia on Thursday - Axios
+- 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER VISITED SAUDI ARABIA ON THURSDAY.
+- 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER TALKED ABOUT HOUTHIS MAKING PROGRESS IN YEMEN, ACCORDING TO AXIOS.
