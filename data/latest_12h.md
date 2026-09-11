@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 05:46 JST／対象: 09/11 17:46 〜 09/12 05:46 JST（時刻はすべて日本時間）
+生成: 2026-09-12 05:58 JST／対象: 09/11 17:58 〜 09/12 05:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 35 | 09/11 17:48 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 103 | 09/11 17:55 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 130 | 09/11 17:54 | 09/12 05:43 | 37分（02:21→02:58） |
+| DeItaone | 34 | 09/11 18:20 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
+| FirstSquawk | 100 | 09/11 18:01 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 132 | 09/11 18:05 | 09/12 05:55 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 267 行（統合前 269 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 265 行（統合前 268 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 17:48 [DeItaone] *FRANCE CUTS 2026 GDP GROWTH FORECAST TO 0.5%, SEES +1% IN 2027
-- 09/11 17:54 [financialjuice] Japan 2026 extraordinary diet session eyed 69 days - Kyodo
-- 09/11 17:55 [FirstSquawk] UAE COMMITTED €40BN (~$46BN) IN NEW INVESTMENTS IN GERMANY, ADDING TO ABOUT €34BN ALREADY INVESTED, DURING SHEIKH MOHAMED BIN ZAYED'S VISIT.
-- 09/11 17:55 [FirstSquawk] THE MONEY FOCUSES ON INDUSTRY, AI/TECH, DIGITAL INFRASTRUCTURE, AND ENERGY WITH ABOUT 1 GW OF NEW DATA CENTERS; €10BN IS SET ASIDE FOR BAVARIA. IN ADDITION, COMPANIES SIGNED 29 AGREEMENTS WORTH OVER €9.4BN, AND GERMANY APPROVED DAILY FLIGHT…
-- 09/11 17:56 [FirstSquawk] EUROPEAN CENTRAL BANK INCREASED INTEREST RATES TODAY AS ANTICIPATED, SHOWING THE EUROZONE IS EXPERIENCING NEW INFLATION CHALLENGES.
 - 09/11 18:01 [FirstSquawk] UAE IS CHANGEING STRATEGY FOR 5-GIGAWATT AI CAMPUS DUE TO IRANIAN ATTACKS, SOURCES REPORT.
 - 09/11 18:01 [FirstSquawk] PROJECT IS EXPECTED TO MOVE TO A NETWORK OF DATA CENTERS IN THE UAE, ACCORDING TO SOURCES.
 - 09/11 18:05 [financialjuice] Iran-backed Houthis reached strategic Yemeni island of Perim in Bab El-Mandeb strait early on Friday - Four Yemeni Government Sources.
@@ -291,3 +286,6 @@
 - 09/12 05:36 [financialjuice] North Korea launched ballistic missile - Yonhap
 - 09/12 05:37 [financialjuice] North Korea launched unidentified projectile - Yonhap
 - 09/12 05:43 [financialjuice] North Korea launches unidentified projectile toward East Sea - Yonhap
+- 09/12 05:47 [financialjuice] Saudi blames oil pipeline attack on drones from Iraq - AP News
+- 09/12 05:48 [financialjuice] Secretary-General of the Gulf Cooperation Council: Iraq must take the necessary and firm measures to prevent attacks.
+- 09/12 05:55 [financialjuice] JPMorgan cut off lending activity for situational awareness - FT.

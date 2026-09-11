@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 05:46 JST／対象: 09/11 05:46 〜 09/12 05:46 JST（時刻はすべて日本時間）
+生成: 2026-09-12 05:58 JST／対象: 09/11 05:58 〜 09/12 05:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/11 06:36 | 09/12 04:10 | ⚠ 376分（08:48→15:05） |
 | FirstSquawk | 270 | 09/11 06:26 | 09/12 05:01 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 183 | 09/11 06:04 | 09/12 05:43 | ⚠ 287分（10:47→15:34） |
+| financialjuice | 186 | 09/11 06:04 | 09/12 05:55 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 503 行（統合前 508 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 506 行（統合前 512 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -527,3 +527,6 @@
 - 09/12 05:36 [financialjuice] North Korea launched ballistic missile - Yonhap
 - 09/12 05:37 [financialjuice] North Korea launched unidentified projectile - Yonhap
 - 09/12 05:43 [financialjuice] North Korea launches unidentified projectile toward East Sea - Yonhap
+- 09/12 05:47 [financialjuice] Saudi blames oil pipeline attack on drones from Iraq - AP News
+- 09/12 05:48 [financialjuice] Secretary-General of the Gulf Cooperation Council: Iraq must take the necessary and firm measures to prevent attacks.
+- 09/12 05:55 [financialjuice] JPMorgan cut off lending activity for situational awareness - FT.

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 05:46 JST／対象: 09/11 23:46 〜 09/12 05:46 JST（時刻はすべて日本時間）
+生成: 2026-09-12 05:58 JST／対象: 09/11 23:58 〜 09/12 05:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
-| FirstSquawk | 47 | 09/11 23:55 | 09/12 05:01 | 35分（23:55→00:31） |
-| financialjuice | 59 | 09/12 00:01 | 09/12 05:43 | 37分（02:21→02:58） |
+| FirstSquawk | 45 | 09/12 00:31 | 09/12 05:01 | 32分（00:31→01:04） |
+| financialjuice | 62 | 09/12 00:01 | 09/12 05:55 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 108 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 23:55 [FirstSquawk] INDIA PM MODI MET WITH PEZESHKIAN AND EMPHASIZED THE IMPORTANCE OF PERSISTENT EFFORTS FOR LASTING PEACE AND STABILITY IN THE REGION, SAID INDIA'S FOREIGN MINISTRY.
-- 09/11 23:55 [FirstSquawk] INDIA'S PM MODI MET WITH IRAN'S PEZESHKIAN, EMPHASIZING THE IMPORTANCE OF SAFEGUARDING NAVIGATION AND TRADE, AS WELL AS THE SAFETY AND WELL-BEING OF SAILORS.
 - 09/12 00:01 [financialjuice] QatarEnergy Seeks Multi-Year LNG Supply Deals as Ras Laffan Repairs Seen Taking 3-5 Years
 - 09/12 00:12 [financialjuice] IDF: In the coming hours, attacks are expected in Lebanon, and explosions will be heard in the Western Galilee - Israel's N12 News.
 - 09/12 00:19 [financialjuice] The House plans to vote on a Russia sanctions bill next week - Person Familiar.
@@ -131,3 +129,6 @@
 - 09/12 05:36 [financialjuice] North Korea launched ballistic missile - Yonhap
 - 09/12 05:37 [financialjuice] North Korea launched unidentified projectile - Yonhap
 - 09/12 05:43 [financialjuice] North Korea launches unidentified projectile toward East Sea - Yonhap
+- 09/12 05:47 [financialjuice] Saudi blames oil pipeline attack on drones from Iraq - AP News
+- 09/12 05:48 [financialjuice] Secretary-General of the Gulf Cooperation Council: Iraq must take the necessary and firm measures to prevent attacks.
+- 09/12 05:55 [financialjuice] JPMorgan cut off lending activity for situational awareness - FT.
