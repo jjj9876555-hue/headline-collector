@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 01:58 JST／対象: 09/11 01:58 〜 09/12 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-12 02:16 JST／対象: 09/11 02:16 〜 09/12 02:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 60 | 09/11 02:18 | 09/11 23:00 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 300 | 09/11 02:01 | 09/12 01:35 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 186 | 09/11 02:00 | 09/12 01:48 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 298 | 09/11 02:32 | 09/12 02:03 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 182 | 09/11 02:24 | 09/12 02:01 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 536 行（統合前 547 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 530 行（統合前 541 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 02:00 [financialjuice] Treasury WI 30-year yield 5.335% before $22 billion auction.
-- 09/11 02:01 [FirstSquawk] FLOTEK $FTK BOOSTS 2026 GUIDANCE AGAIN, TARGETS 54% REVENUE GROWTH & 58% ADJUSTED EBITDA GROWTH AT MIDPOINTS $FTK
-- 09/11 02:02 [financialjuice] US 30-YEAR BOND HIGH YIELD ACTUAL 5.308% (FORECAST -, PREVIOUS 5.216%) $MACRO
-- 09/11 02:02 [financialjuice] US 30-YEAR BOND BID-TO-COVER ACTUAL 2.610 (FORECAST -, PREVIOUS 2.390) $MACRO
-- 09/11 02:02 [financialjuice] US 30-Year Bond Auction High Yield 5.308% (Stopped through by 2.7 basis points) Bid-to-cover 2.61 Sells $22 bln Awards 64.29% of bids at high Primary Dealers take 2.21% Direct 18.31% Indirect 79.48% 13:02 Sep 10US Bonds
-- 09/11 02:04 [financialjuice] Moonshot secretly routed user requests through Claude and Anthropic.
-- 09/11 02:04 [financialjuice] Anthropic: Spotted nearly 300,000 customer requests that moonshot sent primarily to Anthropic’s Opus AI model
-- 09/11 02:11 [FirstSquawk] US 30-Year Bond Sale: - High Yield Rate: 5.308% (prev 5.216%)- Bid-Cover Ratio: 2.61 (prev 2.39)- Direct Accepted: 18.3% (prev 21.6%)- Indirect Accepted: 79.5% (prev 66.8%)- WI: 5.335%
-- 09/11 02:11 [FirstSquawk] UBER $UBER CEO DARA KHOSROWSHAHI FILES TO BUY 141,000 SHARES AT $70.96 AVERAGE, WORTH ~$10M $UBER
 - 09/11 02:18 [DeItaone] $NVDA - NVIDIA’S HUANG SEES CYBERSECURITY AS AI’S NEXT BIG MARKET Nvidia CEO Jensen Huang says cybersecurity will likely become AI’s next major use case, as AI-generated code accelerates both software development and vulnerabilities. Huang …
 - 09/11 02:24 [financialjuice] LIVE: President Trump Delivers Remarks At National Medal Of Honor Museum In Arlington, TX
 - 09/11 02:25 [DeItaone] *DRUCKENMILLER SAYS US BORROWING COSTS STILL ‘A LITTLE LOW’: FT
@@ -560,3 +551,6 @@
 - 09/12 01:34 [FirstSquawk] SAUDI ARABIA OIL PIPELINE STRUCK BY PROJECTILES THURSDAY - CNN
 - 09/12 01:35 [FirstSquawk] SAUDI ARABIA PUMP STATIONS NEXT TO PIPELINE WERE HIT - CNN
 - 09/12 01:48 [financialjuice] The US weighs how to use DPA to expand oil refining capacity - Sources.
+- 09/12 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 591 (FORECAST -, PREVIOUS 588) $MACRO
+- 09/12 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 450 (FORECAST -, PREVIOUS 449) $MACRO
+- 09/12 02:03 [FirstSquawk] US OIL RIG COUNT UP 1 TO 450 || US GAS RIG COUNT UP 2 TO 132 || US TOTAL RIG COUNT 591 , BAKER HUGHES SAYS
