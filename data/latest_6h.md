@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 11:33 JST／対象: 09/11 05:33 〜 09/11 11:33 JST（時刻はすべて日本時間）
+生成: 2026-09-11 11:52 JST／対象: 09/11 05:52 〜 09/11 11:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/11 06:36 | 09/11 08:48 | ⚠ 60分（07:31→08:32） |
-| FirstSquawk | 58 | 09/11 05:35 | 09/11 11:32 | ⚠ 81分（07:38→09:00） |
+| FirstSquawk | 56 | 09/11 06:26 | 09/11 11:45 | ⚠ 81分（07:38→09:00） |
 | financialjuice | 29 | 09/11 06:04 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 94 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 92 行（統合前 92 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 05:35 [FirstSquawk] RUSSIA’S “NET ERRORS AND OMISSIONS” HIT A RECORD $12.2 BILLION IN Q2 2026, UP FROM $1.4 BILLION THE PREVIOUS QUARTER AND MARKING THE LARGEST UNEXPLAINED BALANCE-OF-PAYMENTS GAP SINCE 1994. - SOURCES
-- 09/11 05:35 [FirstSquawk] THE FIGURE IS NOT PROOF OF CAPITAL FLIGHT, AS SANCTIONS WORKAROUNDS AND PAYMENT TIMING CAN ALSO CONTRIBUTE, BUT IT COMES AMID REPORTS OF BILLIONS MOVED ABROAD BY WEALTHY RUSSIANS THROUGH CRYPTO, GOLD, DUBAI PROPERTY AND PRIVATE FUNDS. - SOU…
-- 09/11 05:36 [FirstSquawk] SAUDI OIL PRODUCTION PLUNGED 23% IN AUGUST TO 6.24 MILLION BARRELS A DAY AS THE IRAN WAR AND HOUTHI THREATS DISRUPTED KEY EXPORT ROUTES. - WSJ
-- 09/11 05:36 [FirstSquawk] CNN REPORTS THAT 100–200 U.S. MILITARY ADVISERS ARE NOW IN SAUDI ARABIA PROVIDING REAL-TIME INTELLIGENCE, TARGETING AND GEOSPATIAL SUPPORT AGAINST THE HOUTHIS, MARKING A SIGNIFICANT ESCALATION IN U.S. INVOLVEMENT.
-- 09/11 05:36 [FirstSquawk] A JOINT FORCES COMMAND WAS ESTABLISHED AFTER IRAN INCREASED SUPPORT TO THE HOUTHIS, INCLUDING DEPLOYING IRGC OFFICERS TO YEMEN, AS THE HOUTHIS’ CONTROL OF MOKHA RAISES CONCERNS OVER THE BAB-EL-MANDEB STRAIT; U.S. FORCES ARE NOT DIRECTLY PAR…
-- 09/11 05:38 [FirstSquawk] JD VANCE PRIVATELY SOUGHT UNFILTERED ASSESSMENTS FROM U.S. MILITARY COMMANDERS, WHO WARNED THAT THE IRAN WAR WAS DRAINING CRITICAL STOCKPILES OF PATRIOT INTERCEPTORS AND LONG-RANGE MISSILES AND COULD WEAKEN U.S. DETERRENCE AGAINST CHINA, RU…
 - 09/11 06:04 [financialjuice] OpenAI's Thibault Sottiaux: pausing subscriptions to $200 pro plan - X post
 - 09/11 06:07 [financialjuice] Microsoft plans 38 gigawatts of data center capacity to meet demand
 - 09/11 06:09 [financialjuice] Microsoft's data center network will exceed 38 gigawatts capacity in 2032, up from around 12 gigawatts now
@@ -118,3 +112,7 @@
 - 09/11 11:22 [FirstSquawk] Japan gets its first look at Tesla’s driverless Cybercab.
 - 09/11 11:24 [FirstSquawk] Indonesia stocks slide, with the benchmark index sinking to 6,462.96, lowest since Aug. 27.
 - 09/11 11:32 [FirstSquawk] Economic strain leaves Iranians struggling to secure fuel supplies.
+- 09/11 11:39 [FirstSquawk] China’s benchmark Shanghai Composite drops 2%.
+- 09/11 11:39 [FirstSquawk] Saudi Red Sea oil exports come under threat as Houthis advance along Yemen’s coastline.
+- 09/11 11:40 [FirstSquawk] Benchmark coking coal contract in China retreats more than 3%.
+- 09/11 11:45 [FirstSquawk] Fewer than 10 commodity vessels cross the Strait of Hormuz on Thursday, data shows, well below the 10-day average.

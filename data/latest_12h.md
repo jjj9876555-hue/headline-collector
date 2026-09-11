@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 11:33 JST／対象: 09/10 23:33 〜 09/11 11:33 JST（時刻はすべて日本時間）
+生成: 2026-09-11 11:52 JST／対象: 09/10 23:52 〜 09/11 11:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/10 23:45 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 138 | 09/10 23:43 | 09/11 11:32 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 110 | 09/10 23:42 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
+| DeItaone | 20 | 09/11 01:33 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 140 | 09/11 00:00 | 09/11 11:45 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 108 | 09/11 00:00 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 263 行（統合前 270 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 262 行（統合前 269 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 23:42 [financialjuice] Diesel futures top $5/gal for the first time since 2022.
-- 09/10 23:42 [financialjuice] Yemen's Houthi-run Humanitarian Operations Coordination Centre: Red Sea navigation safe for all shipping companies except Saudi vessels.
-- 09/10 23:43 [FirstSquawk] YEMEN'S HOUTHI CONTROLLED HUMANITARIAN OPERATIONS CENTRE ANNOUNCES THAT NAVIGATION IN THE RED SEA IS SAFE FOR ALL SHIPPING COMPANIES EXCEPT SAUDI VESSELS.
-- 09/10 23:44 [FirstSquawk] DIESEL FUTURES TOP $5/GAL FOR FIRST TIME SINCE 2022
-- 09/10 23:45 [DeItaone] TRUMP SITS DOWN FOR EXCLUSIVE INGRAHAM INTERVIEW President Donald Trump has given Laura Ingraham an exclusive interview, with Part One airing tonight at 7 PM ET on The Ingraham Angle. Fox’s current schedule confirms the program’s 7 PM ET sl…
 - 09/11 00:00 [FirstSquawk] EU'S VON DER LEYEN WILL DISCUSS SOCIAL MEDIA PLAN IN NEXT WEEK'S STATE OF UNION SPEECH.
 - 09/11 00:00 [financialjuice] IMF: Global inflation expectations have risen but remain well-anchored over the longer run.
 - 09/11 00:01 [financialjuice] IMF: Global growth remains on track to reach about 3% in 2026, but risks remain high.
@@ -287,3 +282,7 @@
 - 09/11 11:22 [FirstSquawk] Japan gets its first look at Tesla’s driverless Cybercab.
 - 09/11 11:24 [FirstSquawk] Indonesia stocks slide, with the benchmark index sinking to 6,462.96, lowest since Aug. 27.
 - 09/11 11:32 [FirstSquawk] Economic strain leaves Iranians struggling to secure fuel supplies.
+- 09/11 11:39 [FirstSquawk] China’s benchmark Shanghai Composite drops 2%.
+- 09/11 11:39 [FirstSquawk] Saudi Red Sea oil exports come under threat as Houthis advance along Yemen’s coastline.
+- 09/11 11:40 [FirstSquawk] Benchmark coking coal contract in China retreats more than 3%.
+- 09/11 11:45 [FirstSquawk] Fewer than 10 commodity vessels cross the Strait of Hormuz on Thursday, data shows, well below the 10-day average.

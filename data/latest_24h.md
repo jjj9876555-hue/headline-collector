@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 11:33 JST／対象: 09/10 11:33 〜 09/11 11:33 JST（時刻はすべて日本時間）
+生成: 2026-09-11 11:52 JST／対象: 09/10 11:52 〜 09/11 11:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/10 16:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 366 | 09/10 11:35 | 09/11 11:32 | ⚠ 81分（07:38→09:00） |
+| FirstSquawk | 367 | 09/10 11:55 | 09/11 11:45 | ⚠ 81分（07:38→09:00） |
 | financialjuice | 300 | 09/10 12:06 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 703 行（統合前 731 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 704 行（統合前 732 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 11:35 [FirstSquawk] Trump unveils a proposed $5,000 “Trump dividend” for U.S. adults, conditional on a Republican victory in the House and Senate As Per FT
-- 09/10 11:41 [FirstSquawk] South Korea’s economic recovery is becoming increasingly evident, the finance minister says.
-- 09/10 11:50 [FirstSquawk] China’s local surtax reform strengthens tax adjustment capacity but delivers limited fiscal relief, Fitch Ratings says.
 - 09/10 11:55 [FirstSquawk] Pound strengthens as the dollar slips ahead of key U.S. PPI figures.
 - 09/10 12:05 [FirstSquawk] Stifel starts coverage of Targa Resources with a buy recommendation and $340 target.
 - 09/10 12:06 [FirstSquawk] Strait of Hormuz commodity vessel traffic dropped into single digits on Wednesday, data shows, versus a 10-day average near 14.
@@ -727,3 +724,7 @@
 - 09/11 11:22 [FirstSquawk] Japan gets its first look at Tesla’s driverless Cybercab.
 - 09/11 11:24 [FirstSquawk] Indonesia stocks slide, with the benchmark index sinking to 6,462.96, lowest since Aug. 27.
 - 09/11 11:32 [FirstSquawk] Economic strain leaves Iranians struggling to secure fuel supplies.
+- 09/11 11:39 [FirstSquawk] China’s benchmark Shanghai Composite drops 2%.
+- 09/11 11:39 [FirstSquawk] Saudi Red Sea oil exports come under threat as Houthis advance along Yemen’s coastline.
+- 09/11 11:40 [FirstSquawk] Benchmark coking coal contract in China retreats more than 3%.
+- 09/11 11:45 [FirstSquawk] Fewer than 10 commodity vessels cross the Strait of Hormuz on Thursday, data shows, well below the 10-day average.
