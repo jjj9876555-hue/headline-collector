@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 02:44 JST／対象: 09/11 14:44 〜 09/12 02:44 JST（時刻はすべて日本時間）
+生成: 2026-09-12 02:58 JST／対象: 09/11 14:58 〜 09/12 02:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 46 | 09/11 15:05 | 09/11 23:00 | 37分（19:03→19:41） |
-| FirstSquawk | 153 | 09/11 14:51 | 09/12 02:43 | ⚠ 55分（20:35→21:30） |
+| FirstSquawk | 152 | 09/11 15:02 | 09/12 02:50 | ⚠ 55分（20:35→21:30） |
 | financialjuice | 116 | 09/11 15:34 | 09/12 02:21 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 311 行（統合前 315 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 310 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 14:51 [FirstSquawk] Italian foreign minister to avoid talks with Taiwanese officials during their Italy visit, RTRS says.
-- 09/11 14:53 [FirstSquawk] RBC trims its Puma price target to €23 from €25.
 - 09/11 15:02 [FirstSquawk] UK (JUL) MONTHLY GDP (MOM) ACTUAL: 0.4% VS 0.3% PREVIOUS;EST 0.0%
 - 09/11 15:03 [FirstSquawk] UK (JUL) MONTHLY GDP (3M/3M) ACTUAL: 0.4% VS 0.4% PREVIOUS;EST 0.3%
 - 09/11 15:03 [FirstSquawk] UK (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: 0.2% VS -0.2% PREVIOUS;EST -0.2%
@@ -335,3 +333,4 @@
 - 09/12 02:32 [FirstSquawk] THE DEAL WOULD VALUE ARTIFICIAL-INTELLIGENCE COMPANY REOHE AT $20 BLN - GLOBE AND MAIL
 - 09/12 02:33 [FirstSquawk] IMF SAYS TURKMENISTAN NOT PROVIDING DATA WAS OBLIGATIONS BREACH
 - 09/12 02:43 [FirstSquawk] EMIRATES AND GERMANY BACK LEBANON IN ITS EFFORTS TO CONTROL WEAPONS AND RESTORE GOVERNMENT AUTHORITY.
+- 09/12 02:50 [FirstSquawk] IRAQI PM STATES THAT LIMITING WEAPONS TO THE GOVERNMENT AND CONSOLIDATING SECURITY DECISIONS ARE ESSENTIAL FOR SINJAR'S PROTECTION.
