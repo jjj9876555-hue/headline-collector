@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 04:03 JST／対象: 09/11 22:03 〜 09/12 04:03 JST（時刻はすべて日本時間）
+生成: 2026-09-12 04:19 JST／対象: 09/11 22:19 〜 09/12 04:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/11 22:25 | 09/11 23:00 | 10分（22:39→22:49） |
-| FirstSquawk | 53 | 09/11 22:08 | 09/12 03:55 | 35分（23:55→00:31） |
-| financialjuice | 69 | 09/11 22:06 | 09/12 03:53 | 37分（02:21→02:58） |
+| DeItaone | 11 | 09/11 22:25 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
+| FirstSquawk | 55 | 09/11 22:23 | 09/12 04:11 | 35分（23:55→00:31） |
+| financialjuice | 69 | 09/11 22:21 | 09/12 04:10 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 132 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 135 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 22:06 [financialjuice] Yemeni Army: Saudi-led forces expelled from 6 districts in Taiz and Hodeidah - Tasnim News
-- 09/11 22:07 [financialjuice] Germany’s Chancellor Merz is determined to stay in power as the push to replace him mounts
-- 09/11 22:07 [financialjuice] Yemen Armed Forces: We have liberated 5,400 kilometers and shot down 9 Saudi fighter jets - Fars News
-- 09/11 22:07 [financialjuice] Germany’s Chancellor Merz aims to push on with German reform effort despite setbacks.
-- 09/11 22:08 [FirstSquawk] GERMANY’S CHANCELLOR MERZ IS DETERMINED TO STAY IN POWER AS PUSH TO REPLACE HIM MOUNTS || AIMS TO PUSH AHEAD WITH REFORMS DESPITE SETBACKS
 - 09/11 22:21 [financialjuice] WH Sr. Adviser Hassett: Big issue with diesel because it's a refined product - Fox Business
 - 09/11 22:22 [financialjuice] WH Sr. Adviser Hassett on diesel prices: A major concern for us right now.
 - 09/11 22:22 [financialjuice] WH Sr. Adviser Hassett: A lot of Diesel refining in places disturbed by war.
@@ -156,3 +151,11 @@
 - 09/12 03:51 [FirstSquawk] PARAMOUT SETTLEMENT TALKS TO TAKE PLACE IN LATE OCTOBER - COURT ORDER
 - 09/12 03:53 [financialjuice] Turkish Foreign Minister discussed regional developments, attacks against Saudi Arabia in call with Saudi counterpart - Turkish diplomatic source.
 - 09/12 03:55 [FirstSquawk] TURKISH FOREIGN MINISTER FIDAN AND SAUDI FOREIGN MINISTER DISCUSSED RECENT ATTACKS TARGETING SAUDI ARABIA.
+- 09/12 04:05 [FirstSquawk] APPLE’S ALWAYS-ON AI FEATURES TEST EAVESDROPPING LAWS: LAWYERS
+- 09/12 04:05 [financialjuice] Apple’s always-on AI features test eavesdropping laws - Lawyers. $AAPL
+- 09/12 04:07 [financialjuice] Citi expects Fed rate hike in September and cuts by mid-2027
+- 09/12 04:09 [financialjuice] Trump: $5,000 dividend will be given to all US adults, citing trillions of dollars in economic development and investment - Truth Social
+- 09/12 04:10 [FirstSquawk] TRUMP ON $5K DIVIDEND: WHEN I SAY SOMETHING, I MEAN IT
+- 09/12 04:10 [DeItaone] TRUMP VOWS $5,000 “DIVIDEND” FOR U.S. ADULTS President Donald Trump says his proposed $5,000 payment to U.S. adults “will happen,” arguing Americans deserve to benefit from what he described as trillions of dollars in economic development a…
+- 09/12 04:10 [financialjuice] Trump: The dividend will happen despite criticism from Democrats.
+- 09/12 04:11 [FirstSquawk] Trump on truth social The $5,000 Trump Dividend, given to all Adults in the United States due to the fact that our Country is taking in Trillions of Dollars of Economic Development, Investment, and Pure SUCCESS, is being criticized by “Dumo…

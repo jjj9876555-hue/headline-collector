@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 04:03 JST／対象: 09/11 04:03 〜 09/12 04:03 JST（時刻はすべて日本時間）
+生成: 2026-09-12 04:19 JST／対象: 09/11 04:19 〜 09/12 04:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 09/11 06:36 | 09/11 23:00 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 287 | 09/11 04:09 | 09/12 03:55 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 174 | 09/11 04:04 | 09/12 03:53 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 54 | 09/11 06:36 | 09/12 04:10 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 281 | 09/11 04:23 | 09/12 04:11 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 175 | 09/11 04:20 | 09/12 04:10 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 508 行（統合前 515 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 504 行（統合前 510 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 04:04 [financialjuice] US expands intel, targeting support for Saudi campaign - CNN
-- 09/11 04:07 [financialjuice] Over 100 US military advisers in Saudi Arabia - CNN
-- 09/11 04:09 [FirstSquawk] ALGERIA WILL CLOSE ITS AIRSPACE TO ALL UAE-REGISTERED CIVILIAN AND MILITARY AIRCRAFT FROM MIDNIGHT FRIDAY, A DAY AFTER SEVERING DIPLOMATIC TIES AND ORDERING THE UAE AMBASSADOR TO LEAVE WITHIN 48 HOURS. THE UAE HAS DESCRIBED THE DIPLOMATIC R…
-- 09/11 04:12 [FirstSquawk] PETROBRAS EYES UP TO R$1/L DIESEL PRICE HIKE AS IT AWAITS GOVERNMENT MEASURES TO SHIELD CONSUMERS FROM HIGHER FUEL COSTS AMID SURGING OIL PRICES.
-- 09/11 04:12 [FirstSquawk] SHELL SIGNS TWO US POWER PORTFOLIO DEALS, BUYING 100% OF THE 169 MW HUNLOCK CREEK GENERATING PLANT AND SELLING ITS INTERESTS IN RISEC HOLDINGS TO CONSTELLATION ENERGY FOR $715 MILLION.
-- 09/11 04:13 [FirstSquawk] SHELL - TRANSACTIONS EXPECTED TO CLOSE IN Q1 2027, STRENGTHEN SHELL’S POSITION IN THE PJM POWER MARKET AS PART OF ITS ACTIVE PORTFOLIO MANAGEMENT STRATEGY.
-- 09/11 04:14 [FirstSquawk] CANADIAN PM MARK CARNEY SAYS UKRAINE HAS DEFIED PUTIN’S EARLY PREDICTIONS OF A SWIFT VICTORY, DECLARING THAT AFTER FOUR YEARS AND 198 DAYS OF WAR, “UKRAINE WILL NEVER SUBMIT.”
-- 09/11 04:14 [FirstSquawk] CANADIAN PM MARK CARNEY CALLS RUSSIA’S INVASION “ILLEGAL” AND “BARBARIC,” SAYING THE UKRAINIAN PEOPLE HAVE CONTINUED THEIR RESISTANCE DESPITE YEARS OF WAR.
-- 09/11 04:15 [FirstSquawk] CANADIAN PM MARK CARNEY SAYS CANADA WILL ALWAYS STAND IN SOLIDARITY WITH UKRAINE, ADDING THAT “YOUR CAUSE IS OUR CAUSE” AND UKRAINE’S HISTORY INFORMS CANADA’S HISTORY.
-- 09/11 04:15 [FirstSquawk] ZELENSKYY SAYS UKRAINE HAS SIGNED THE START OF JOINT DRONE PRODUCTION WITH CANADA, WITH 30% OF THE DRONES TO BE DELIVERED TO UKRAINE IMMEDIATELY FOR USE ON THE BATTLEFIELD.
-- 09/11 04:15 [FirstSquawk] SAUDI CIVIL DEFENSE ISSUES EMERGENCY ALERT FOR KHAMIS MUSHAIT GOVERNORATE, WARNING OF A POTENTIAL DANGER THROUGH THE NATIONAL EARLY WARNING PLATFORM; THE THREAT WAS LATER DECLARED OVER.
-- 09/11 04:16 [financialjuice] Saudi Civil Defence issues emergency alert for Khamis Mushait and Abha - post on X
 - 09/11 04:20 [financialjuice] US money-market fund assets fall to $7.97 trln at ICI
 - 09/11 04:21 [financialjuice/FirstSquawk] Saudi Civil Defence: Danger has passed in Khamis Mushait and Abha - State TV.
 - 09/11 04:22 [financialjuice] Friday FX Options Expiries
@@ -532,3 +520,11 @@
 - 09/12 03:51 [FirstSquawk] PARAMOUT SETTLEMENT TALKS TO TAKE PLACE IN LATE OCTOBER - COURT ORDER
 - 09/12 03:53 [financialjuice] Turkish Foreign Minister discussed regional developments, attacks against Saudi Arabia in call with Saudi counterpart - Turkish diplomatic source.
 - 09/12 03:55 [FirstSquawk] TURKISH FOREIGN MINISTER FIDAN AND SAUDI FOREIGN MINISTER DISCUSSED RECENT ATTACKS TARGETING SAUDI ARABIA.
+- 09/12 04:05 [FirstSquawk] APPLE’S ALWAYS-ON AI FEATURES TEST EAVESDROPPING LAWS: LAWYERS
+- 09/12 04:05 [financialjuice] Apple’s always-on AI features test eavesdropping laws - Lawyers. $AAPL
+- 09/12 04:07 [financialjuice] Citi expects Fed rate hike in September and cuts by mid-2027
+- 09/12 04:09 [financialjuice] Trump: $5,000 dividend will be given to all US adults, citing trillions of dollars in economic development and investment - Truth Social
+- 09/12 04:10 [FirstSquawk] TRUMP ON $5K DIVIDEND: WHEN I SAY SOMETHING, I MEAN IT
+- 09/12 04:10 [DeItaone] TRUMP VOWS $5,000 “DIVIDEND” FOR U.S. ADULTS President Donald Trump says his proposed $5,000 payment to U.S. adults “will happen,” arguing Americans deserve to benefit from what he described as trillions of dollars in economic development a…
+- 09/12 04:10 [financialjuice] Trump: The dividend will happen despite criticism from Democrats.
+- 09/12 04:11 [FirstSquawk] Trump on truth social The $5,000 Trump Dividend, given to all Adults in the United States due to the fact that our Country is taking in Trillions of Dollars of Economic Development, Investment, and Pure SUCCESS, is being criticized by “Dumo…

@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 04:03 JST／対象: 09/11 16:03 〜 09/12 04:03 JST（時刻はすべて日本時間）
+生成: 2026-09-12 04:19 JST／対象: 09/11 16:19 〜 09/12 04:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 09/11 16:08 | 09/11 23:00 | 37分（19:03→19:41） |
-| FirstSquawk | 123 | 09/11 16:07 | 09/12 03:55 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 124 | 09/11 16:05 | 09/12 03:53 | ⚠ 55分（16:05→17:01） |
+| DeItaone | 41 | 09/11 16:41 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
+| FirstSquawk | 120 | 09/11 16:21 | 09/12 04:11 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 127 | 09/11 17:01 | 09/12 04:10 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 284 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 285 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 16:05 [financialjuice] China announces additional fuel price rise due to Iran war.
-- 09/11 16:07 [FirstSquawk/DeItaone] CHINA FOREIGN MINISTRY, ON ANTHROPIC ACCUSING CHINA AI LABS OF TARGETING CLAUDE: WE FIRMLY OPPOSE 'DISTORTION OF FACTS' AND SMEAR ATTACKS AGAINST CHINA
-- 09/11 16:09 [FirstSquawk] CHINA FOREIGN MINISTRY, ON XI AT BRICS SUMMIT: CHINA, INDIA ARE ARRANGING FOR A BILATERAL MEETING BETWEEN XI AND MODI
-- 09/11 16:10 [FirstSquawk] CHINA FOREIGN MINISTRY, ON TAIWAN VICE PRESIDENT VISITING ITALY: CHINA HAS LODGED SERIOUS PROTESTS WITH ITALY AND EU IN THIS REGARD
-- 09/11 16:15 [FirstSquawk] UK FINANCE MINISTER HEALEY: BRITAIN’S ECONOMY IS DEMONSTRATING A WELCOME RESILIENCE, DESPITE SERIOUS GLOBAL UNCERTAINTY
-- 09/11 16:18 [FirstSquawk] BESSENT SAYS TRUMP HAS HIGH IMPACT, HIGH RETURNS, AND HIGH PERFORMANCE, MANAGING A VARIETY OF TASKS.
-- 09/11 16:19 [FirstSquawk] KREMLIN SAYS LITHUANIA'S MOVE TO LIFT NUCLEAR WEAPONS DEPLOYMENT BAN WOULD BE A SIGNIFICANT ESCALATION IF CARRIED OUT.
 - 09/11 16:21 [FirstSquawk] UBS GLOBAL WEALTH MANAGEMENT EXPECTS ECB TO DELIVER ONE FURTHER 25BPS RATE HIKE IN DECEMBER 2026 BEFORE PAUSING
 - 09/11 16:23 [FirstSquawk] RUSSIA THREATENS ELECTIONS IN EUROPE'S LARGEST DEMOCRACIES, SAYS SWEDEN'S DISINFORMATION DEFENSE HEAD, URGING SOCIAL MEDIA TO IMPROVE IN FIGHTING AGAINST MOSCOW'S BOT NETWORKS.
 - 09/11 16:33 [FirstSquawk] RIKSBANK RETAINS COUNTERCYCLICAL BUFFER RATE AT 2%
@@ -308,3 +301,11 @@
 - 09/12 03:51 [FirstSquawk] PARAMOUT SETTLEMENT TALKS TO TAKE PLACE IN LATE OCTOBER - COURT ORDER
 - 09/12 03:53 [financialjuice] Turkish Foreign Minister discussed regional developments, attacks against Saudi Arabia in call with Saudi counterpart - Turkish diplomatic source.
 - 09/12 03:55 [FirstSquawk] TURKISH FOREIGN MINISTER FIDAN AND SAUDI FOREIGN MINISTER DISCUSSED RECENT ATTACKS TARGETING SAUDI ARABIA.
+- 09/12 04:05 [FirstSquawk] APPLE’S ALWAYS-ON AI FEATURES TEST EAVESDROPPING LAWS: LAWYERS
+- 09/12 04:05 [financialjuice] Apple’s always-on AI features test eavesdropping laws - Lawyers. $AAPL
+- 09/12 04:07 [financialjuice] Citi expects Fed rate hike in September and cuts by mid-2027
+- 09/12 04:09 [financialjuice] Trump: $5,000 dividend will be given to all US adults, citing trillions of dollars in economic development and investment - Truth Social
+- 09/12 04:10 [FirstSquawk] TRUMP ON $5K DIVIDEND: WHEN I SAY SOMETHING, I MEAN IT
+- 09/12 04:10 [DeItaone] TRUMP VOWS $5,000 “DIVIDEND” FOR U.S. ADULTS President Donald Trump says his proposed $5,000 payment to U.S. adults “will happen,” arguing Americans deserve to benefit from what he described as trillions of dollars in economic development a…
+- 09/12 04:10 [financialjuice] Trump: The dividend will happen despite criticism from Democrats.
+- 09/12 04:11 [FirstSquawk] Trump on truth social The $5,000 Trump Dividend, given to all Adults in the United States due to the fact that our Country is taking in Trillions of Dollars of Economic Development, Investment, and Pure SUCCESS, is being criticized by “Dumo…
