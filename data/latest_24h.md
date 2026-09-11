@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 10:00 JST／対象: 09/10 10:00 〜 09/11 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-11 10:17 JST／対象: 09/10 10:17 〜 09/11 10:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/10 16:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 381 | 09/10 10:12 | 09/11 09:57 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 315 | 09/10 10:00 | 09/11 09:47 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 384 | 09/10 10:17 | 09/11 10:17 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 316 | 09/10 10:21 | 09/11 10:17 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 733 行（統合前 761 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 737 行（統合前 765 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 10:00 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait and Abha
-- 09/10 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% matching previous session opening
-- 09/10 10:12 [FirstSquawk] Washington says Beijing remains on course to meet its U.S. farm-product buying commitments before Xi’s planned trip to the U.S.
-- 09/10 10:14 [FirstSquawk] U.S. President Donald Trump headlines the Republican midterm gathering in Dallas as the party campaigns to retain control of Congress.
-- 09/10 10:15 [FirstSquawk] China's central bank sets the yuan reference rate at 6.7766 per dollar.
-- 09/10 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 8, 2023, PBOC says
 - 09/10 10:17 [FirstSquawk] Yuan midpoint reaches its strongest level since February 2023 as China continues to allow the currency to strengthen.
 - 09/10 10:18 [FirstSquawk] Trump takes the stage to a huge reception in Dallas as Republicans rally ahead of the 2026 midterm elections - Fox News
 - 09/10 10:19 [FirstSquawk] President Trump hails the last two years as the strongest period of presidential leadership America has ever seen.
@@ -757,3 +751,13 @@
 - 09/11 09:48 [FirstSquawk] 10-year Treasury yield climbs 2.6 bps to 4.9708%, reaching its highest since October 2023.
 - 09/11 09:52 [FirstSquawk] 30-year Treasury yield climbs 1.7 bps to 5.378%, reaching its highest since 2007.
 - 09/11 09:57 [FirstSquawk] EUR/USD flatlines above 1.1600 as traders turn their attention to upcoming U.S. CPI figures following the ECB’s hawkish hike.
+- 09/11 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus previous session open at 0.805%
+- 09/11 10:00 [FirstSquawk] Taiwan overnight rate remains steady at 0.805% at the start of trading.
+- 09/11 10:08 [FirstSquawk] Midland expects Hong Kong residential property prices to climb 15% this year.
+- 09/11 10:14 [FirstSquawk] Washington’s Iran sanctions raise fresh questions over the dollar’s global clout.
+- 09/11 10:15 [FirstSquawk] China’s central bank fixes the yuan midpoint at 6.7743 against the dollar.
+- 09/11 10:16 [financialjuice] Taiwan presidential office: Vice President Hsiao Bi-khim visits Italy
+- 09/11 10:16 [financialjuice] Taiwan presidential office: Vice President Hsiao accompanied by foreign minister in Italy
+- 09/11 10:17 [FirstSquawk] Taiwan says Vice President Hsiao Bi-khim is accompanied by the foreign minister on her Italy trip.
+- 09/11 10:17 [FirstSquawk] Vice President Hsiao Bi-khim travels to Italy, according to Taiwan’s presidential office.
+- 09/11 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 6, 2023

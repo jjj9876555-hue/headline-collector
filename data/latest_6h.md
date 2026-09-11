@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 10:00 JST／対象: 09/11 04:00 〜 09/11 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-11 10:17 JST／対象: 09/11 04:17 〜 09/11 10:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/11 06:36 | 09/11 08:48 | ⚠ 60分（07:31→08:32） |
-| FirstSquawk | 53 | 09/11 04:09 | 09/11 09:57 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 39 | 09/11 04:04 | 09/11 09:47 | ⚠ 48分（08:01→08:50） |
+| FirstSquawk | 50 | 09/11 04:23 | 09/11 10:17 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 40 | 09/11 04:20 | 09/11 10:17 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 97 行（統合前 100 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 95 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 04:04 [financialjuice] US expands intel, targeting support for Saudi campaign - CNN
-- 09/11 04:07 [financialjuice] Over 100 US military advisers in Saudi Arabia - CNN
-- 09/11 04:09 [FirstSquawk] ALGERIA WILL CLOSE ITS AIRSPACE TO ALL UAE-REGISTERED CIVILIAN AND MILITARY AIRCRAFT FROM MIDNIGHT FRIDAY, A DAY AFTER SEVERING DIPLOMATIC TIES AND ORDERING THE UAE AMBASSADOR TO LEAVE WITHIN 48 HOURS. THE UAE HAS DESCRIBED THE DIPLOMATIC R…
-- 09/11 04:12 [FirstSquawk] PETROBRAS EYES UP TO R$1/L DIESEL PRICE HIKE AS IT AWAITS GOVERNMENT MEASURES TO SHIELD CONSUMERS FROM HIGHER FUEL COSTS AMID SURGING OIL PRICES.
-- 09/11 04:12 [FirstSquawk] SHELL SIGNS TWO US POWER PORTFOLIO DEALS, BUYING 100% OF THE 169 MW HUNLOCK CREEK GENERATING PLANT AND SELLING ITS INTERESTS IN RISEC HOLDINGS TO CONSTELLATION ENERGY FOR $715 MILLION.
-- 09/11 04:13 [FirstSquawk] SHELL - TRANSACTIONS EXPECTED TO CLOSE IN Q1 2027, STRENGTHEN SHELL’S POSITION IN THE PJM POWER MARKET AS PART OF ITS ACTIVE PORTFOLIO MANAGEMENT STRATEGY.
-- 09/11 04:14 [FirstSquawk] CANADIAN PM MARK CARNEY SAYS UKRAINE HAS DEFIED PUTIN’S EARLY PREDICTIONS OF A SWIFT VICTORY, DECLARING THAT AFTER FOUR YEARS AND 198 DAYS OF WAR, “UKRAINE WILL NEVER SUBMIT.”
-- 09/11 04:14 [FirstSquawk] CANADIAN PM MARK CARNEY CALLS RUSSIA’S INVASION “ILLEGAL” AND “BARBARIC,” SAYING THE UKRAINIAN PEOPLE HAVE CONTINUED THEIR RESISTANCE DESPITE YEARS OF WAR.
-- 09/11 04:15 [FirstSquawk] CANADIAN PM MARK CARNEY SAYS CANADA WILL ALWAYS STAND IN SOLIDARITY WITH UKRAINE, ADDING THAT “YOUR CAUSE IS OUR CAUSE” AND UKRAINE’S HISTORY INFORMS CANADA’S HISTORY.
-- 09/11 04:15 [FirstSquawk] ZELENSKYY SAYS UKRAINE HAS SIGNED THE START OF JOINT DRONE PRODUCTION WITH CANADA, WITH 30% OF THE DRONES TO BE DELIVERED TO UKRAINE IMMEDIATELY FOR USE ON THE BATTLEFIELD.
-- 09/11 04:15 [FirstSquawk] SAUDI CIVIL DEFENSE ISSUES EMERGENCY ALERT FOR KHAMIS MUSHAIT GOVERNORATE, WARNING OF A POTENTIAL DANGER THROUGH THE NATIONAL EARLY WARNING PLATFORM; THE THREAT WAS LATER DECLARED OVER.
-- 09/11 04:16 [financialjuice] Saudi Civil Defence issues emergency alert for Khamis Mushait and Abha - post on X
 - 09/11 04:20 [financialjuice] US money-market fund assets fall to $7.97 trln at ICI
 - 09/11 04:21 [financialjuice/FirstSquawk] Saudi Civil Defence: Danger has passed in Khamis Mushait and Abha - State TV.
 - 09/11 04:22 [financialjuice] Friday FX Options Expiries
@@ -121,3 +109,13 @@
 - 09/11 09:48 [FirstSquawk] 10-year Treasury yield climbs 2.6 bps to 4.9708%, reaching its highest since October 2023.
 - 09/11 09:52 [FirstSquawk] 30-year Treasury yield climbs 1.7 bps to 5.378%, reaching its highest since 2007.
 - 09/11 09:57 [FirstSquawk] EUR/USD flatlines above 1.1600 as traders turn their attention to upcoming U.S. CPI figures following the ECB’s hawkish hike.
+- 09/11 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus previous session open at 0.805%
+- 09/11 10:00 [FirstSquawk] Taiwan overnight rate remains steady at 0.805% at the start of trading.
+- 09/11 10:08 [FirstSquawk] Midland expects Hong Kong residential property prices to climb 15% this year.
+- 09/11 10:14 [FirstSquawk] Washington’s Iran sanctions raise fresh questions over the dollar’s global clout.
+- 09/11 10:15 [FirstSquawk] China’s central bank fixes the yuan midpoint at 6.7743 against the dollar.
+- 09/11 10:16 [financialjuice] Taiwan presidential office: Vice President Hsiao Bi-khim visits Italy
+- 09/11 10:16 [financialjuice] Taiwan presidential office: Vice President Hsiao accompanied by foreign minister in Italy
+- 09/11 10:17 [FirstSquawk] Taiwan says Vice President Hsiao Bi-khim is accompanied by the foreign minister on her Italy trip.
+- 09/11 10:17 [FirstSquawk] Vice President Hsiao Bi-khim travels to Italy, according to Taiwan’s presidential office.
+- 09/11 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 6, 2023

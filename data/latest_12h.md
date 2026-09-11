@@ -7,49 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 10:00 JST／対象: 09/10 22:00 〜 09/11 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-11 10:17 JST／対象: 09/10 22:17 〜 09/11 10:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/10 22:07 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 139 | 09/10 22:07 | 09/11 09:57 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 165 | 09/10 22:00 | 09/11 09:47 | ⚠ 48分（08:01→08:50） |
+| DeItaone | 29 | 09/10 22:36 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 139 | 09/10 22:17 | 09/11 10:17 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 149 | 09/10 22:17 | 09/11 10:17 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 324 行（統合前 338 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 308 行（統合前 321 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 22:00 [financialjuice] ECB's Lagarde: Will monitor the feed-through of energy.
-- 09/10 22:00 [financialjuice] ECB's Lagarde: energy disruptions, worsening market sentiment, and trade frictions are risks to growth.
-- 09/10 22:01 [financialjuice] ECB's Lagarde: The energy shock could intensify further, and its effects on other prices and wages could be stronger than currently expected.
-- 09/10 22:01 [financialjuice] ECB's Lagarde: Extreme weather events, potentially reinforced by intensifying “El Niño” conditions, and the unfolding climate and nature crises more broadly, could drive up food prices.
-- 09/10 22:01 [financialjuice] ECB's Lagarde: Gas prices, in particular, could increase in the event of further supply disruptions or an unusually cold winter coinciding with low storage levels.
-- 09/10 22:07 [FirstSquawk] LAGARDE: HEADLINE INFLATION TO RETURN TO AROUND TARGET END 2027
-- 09/10 22:07 [FirstSquawk] ECB LAGARDE: RISKS TO INFLATION OUTLOOK ON UPSIDE
-- 09/10 22:07 [DeItaone] FED HIKE ODDS SURGE AFTER ECB MOVE Kalshi now puts a 64% chance on a 25-bp Fed hike in September, versus 36% for no change. The repricing follows the ECB’s 25-bp hike, as energy-driven inflation concerns push central banks toward a more haw…
-- 09/10 22:07 [FirstSquawk] ECB PRES LAGARDE: THE ENERGY SHOCK COULD INTENSIFY FURTHER AND ITS EFFECTS ON OTHER PRICES AND WAGES COULD BE STRONGER THAN CURRENTLY EXPECTED
-- 09/10 22:07 [financialjuice] ECB's Lagarde: This is predominantly a supply shock.
-- 09/10 22:07 [financialjuice] ECB's Lagarde: Markets do what they have to do.
-- 09/10 22:07 [FirstSquawk] FRENCH ARMED FORCES ORDER AIRBUS U050 CAPA-X DRONE
-- 09/10 22:07 [financialjuice] ECB's Lagarde: Markets do what they have to do, and so do we.
-- 09/10 22:08 [financialjuice] ECB's Lagarde: The discussion was focused on today's decision.
-- 09/10 22:08 [financialjuice] ECB's Lagarde: Did not debate future rate path.
-- 09/10 22:10 [financialjuice] ECB's Lagarde: Not taking a view on which direction to go at the next meeting.
-- 09/10 22:11 [financialjuice/FirstSquawk] ECB's Lagarde: Uncertainty can change things almost overnight.
-- 09/10 22:12 [financialjuice] ECB's Lagarde: Neutral rate band is a work in progress on a constant basis.
-- 09/10 22:13 [financialjuice] ECB's Lagarde: Neutral band highly conceptual.
-- 09/10 22:13 [financialjuice] ECB's Lagarde: Not attaching great importance to the neutral rate.
-- 09/10 22:13 [financialjuice] ECB's Lagarde: The decison was a no brainer.
-- 09/10 22:15 [FirstSquawk] LAGARDE: BOND REPRICING HAPPENING ACROSS THE WORLD
-- 09/10 22:15 [financialjuice] ECB's Lagarde: Yield rise is not a euro-specific issue; bond repricing is happening across the world.
-- 09/10 22:16 [financialjuice] ECB's Lagarde: Significant financing needs from AI is a key driver.
-- 09/10 22:16 [financialjuice] ECB's Lagarde: We are monitoring attentively the bond market, particularly the long end
-- 09/10 22:17 [financialjuice] ECB's Lagarde: Surprised by economic resilience.
 - 09/10 22:17 [financialjuice] ECB's Lagarde: post-cutoff data suggest even higher 2026 growth than in projection.
 - 09/10 22:17 [FirstSquawk] LAGARDE: ECB WAS SURPRISED BY LOWER THAN EXPECTED INFLATION
 - 09/10 22:18 [financialjuice] ECB's Lagarde: Inflation has been lower recently than anticipated, especially food.
@@ -348,3 +322,13 @@
 - 09/11 09:48 [FirstSquawk] 10-year Treasury yield climbs 2.6 bps to 4.9708%, reaching its highest since October 2023.
 - 09/11 09:52 [FirstSquawk] 30-year Treasury yield climbs 1.7 bps to 5.378%, reaching its highest since 2007.
 - 09/11 09:57 [FirstSquawk] EUR/USD flatlines above 1.1600 as traders turn their attention to upcoming U.S. CPI figures following the ECB’s hawkish hike.
+- 09/11 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus previous session open at 0.805%
+- 09/11 10:00 [FirstSquawk] Taiwan overnight rate remains steady at 0.805% at the start of trading.
+- 09/11 10:08 [FirstSquawk] Midland expects Hong Kong residential property prices to climb 15% this year.
+- 09/11 10:14 [FirstSquawk] Washington’s Iran sanctions raise fresh questions over the dollar’s global clout.
+- 09/11 10:15 [FirstSquawk] China’s central bank fixes the yuan midpoint at 6.7743 against the dollar.
+- 09/11 10:16 [financialjuice] Taiwan presidential office: Vice President Hsiao Bi-khim visits Italy
+- 09/11 10:16 [financialjuice] Taiwan presidential office: Vice President Hsiao accompanied by foreign minister in Italy
+- 09/11 10:17 [FirstSquawk] Taiwan says Vice President Hsiao Bi-khim is accompanied by the foreign minister on her Italy trip.
+- 09/11 10:17 [FirstSquawk] Vice President Hsiao Bi-khim travels to Italy, according to Taiwan’s presidential office.
+- 09/11 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 6, 2023
