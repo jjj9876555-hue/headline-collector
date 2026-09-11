@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 01:44 JST／対象: 09/11 13:44 〜 09/12 01:44 JST（時刻はすべて日本時間）
+生成: 2026-09-12 01:58 JST／対象: 09/11 13:58 〜 09/12 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 46 | 09/11 15:05 | 09/11 23:00 | 37分（19:03→19:41） |
-| FirstSquawk | 156 | 09/11 13:44 | 09/12 01:35 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 112 | 09/11 15:34 | 09/12 01:33 | ⚠ 55分（16:05→17:01） |
+| FirstSquawk | 153 | 09/11 14:06 | 09/12 01:35 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 113 | 09/11 15:34 | 09/12 01:48 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 310 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 308 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 13:44 [FirstSquawk] JPMorgan trims its RH price target by $22 to $190.
-- 09/11 13:49 [FirstSquawk] Australia’s proposed data-center rules could increase execution risks, according to Fitch Ratings.
-- 09/11 13:50 [FirstSquawk] South Korean President Lee set to hold Central Asia summit on September 16, media says.
 - 09/11 14:06 [FirstSquawk] YEN’S NEAR-TERM OUTLOOK DEPENDS ON BOJ SEPTEMBER GUIDANCE-WSJ
 - 09/11 14:07 [FirstSquawk] VANCE FIRES UP REPUBLICANS AS TRUMP CLOSES OUT GOP CONVENTION-WSJ
 - 09/11 14:09 [FirstSquawk] Seoul and Tehran’s foreign ministers hold phone talks, according to Yonhap.
@@ -334,3 +331,4 @@
 - 09/12 01:33 [financialjuice] Saudi Arabian oil pipeline system hit by projectiles, triggering fires - CNN
 - 09/12 01:34 [FirstSquawk] SAUDI ARABIA OIL PIPELINE STRUCK BY PROJECTILES THURSDAY - CNN
 - 09/12 01:35 [FirstSquawk] SAUDI ARABIA PUMP STATIONS NEXT TO PIPELINE WERE HIT - CNN
+- 09/12 01:48 [financialjuice] The US weighs how to use DPA to expand oil refining capacity - Sources.

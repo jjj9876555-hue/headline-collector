@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 01:44 JST／対象: 09/11 01:44 〜 09/12 01:44 JST（時刻はすべて日本時間）
+生成: 2026-09-12 01:58 JST／対象: 09/11 01:58 〜 09/12 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 63 | 09/11 01:49 | 09/11 23:00 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 301 | 09/11 01:53 | 09/12 01:35 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 187 | 09/11 01:52 | 09/12 01:33 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 60 | 09/11 02:18 | 09/11 23:00 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 300 | 09/11 02:01 | 09/12 01:35 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 186 | 09/11 02:00 | 09/12 01:48 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 541 行（統合前 552 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 536 行（統合前 547 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 01:49 [DeItaone] U.S. DIESEL SURGES ABOVE $5 AS SUPPLY SQUEEZE DEEPENS U.S. diesel futures surged above $5 a gallon for the first time since 2022, as Middle East disruptions and Russia’s export ban tighten global supplies. Retail diesel has already hit a re…
-- 09/11 01:51 [DeItaone] IRGC CLAIMS U.S. DRONE DESTROYED IN HORMUZ Iran’s IRGC Navy claims it destroyed a U.S. unmanned vessel at the entrance to the Strait of Hormuz, identifying it as hull number 5838. The IRGC also declared that Hormuz remains blocked and under…
-- 09/11 01:52 [financialjuice] IRGC: Strait of Hormuz is blocked and under our intelligent control and information dominance, and any hostile presence in this strategic Strait will be targeted - IRIB.
-- 09/11 01:53 [FirstSquawk] WALMART SAID TO BE EXPLORING FOOD DELIVERY BUSINESS AND DARK STORES $WMT
-- 09/11 01:53 [financialjuice] Iran's IRGC: We hit a US unmanned vessel in the Strait of Hormuz - State Media.
-- 09/11 01:56 [DeItaone] IRAN REBUILDING BALLISTIC MISSILE ARSENAL Iran has resumed production of ballistic missiles, using stockpiled components and underground facilities, according to U.S. and Middle Eastern officials cited by the WSJ. Despite heavy strikes on i…
 - 09/11 02:00 [financialjuice] Treasury WI 30-year yield 5.335% before $22 billion auction.
 - 09/11 02:01 [FirstSquawk] FLOTEK $FTK BOOSTS 2026 GUIDANCE AGAIN, TARGETS 54% REVENUE GROWTH & 58% ADJUSTED EBITDA GROWTH AT MIDPOINTS $FTK
 - 09/11 02:02 [financialjuice] US 30-YEAR BOND HIGH YIELD ACTUAL 5.308% (FORECAST -, PREVIOUS 5.216%) $MACRO
@@ -565,3 +559,4 @@
 - 09/12 01:33 [financialjuice] Saudi Arabian oil pipeline system hit by projectiles, triggering fires - CNN
 - 09/12 01:34 [FirstSquawk] SAUDI ARABIA OIL PIPELINE STRUCK BY PROJECTILES THURSDAY - CNN
 - 09/12 01:35 [FirstSquawk] SAUDI ARABIA PUMP STATIONS NEXT TO PIPELINE WERE HIT - CNN
+- 09/12 01:48 [financialjuice] The US weighs how to use DPA to expand oil refining capacity - Sources.
