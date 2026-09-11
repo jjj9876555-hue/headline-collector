@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 23:04 JST／対象: 09/11 17:04 〜 09/11 23:04 JST（時刻はすべて日本時間）
+生成: 2026-09-11 23:25 JST／対象: 09/11 17:25 〜 09/11 23:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 37 | 09/11 17:08 | 09/11 23:00 | 37分（19:03→19:41） |
-| FirstSquawk | 66 | 09/11 17:05 | 09/11 23:00 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 77 | 09/11 17:04 | 09/11 23:00 | 36分（18:21→18:57） |
+| DeItaone | 36 | 09/11 17:27 | 09/11 23:00 | 37分（19:03→19:41） |
+| FirstSquawk | 58 | 09/11 17:35 | 09/11 23:23 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 77 | 09/11 17:28 | 09/11 23:20 | 36分（18:21→18:57） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 179 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 171 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 17:04 [financialjuice] Iran-backed Houthis reached Yemeni port city of Dhubab, along Bab El-Mandeb Strait - Two Yemeni Governmental Sources.
-- 09/11 17:05 [FirstSquawk] IRAN SUPPORTING HOUTHIS ARRIVED AT DHUBAB PORT CITY IN YEMEN, NEAR BAB EL-MANDEB STRAIT
-- 09/11 17:07 [financialjuice] ECB's Kocher: Too early to say anything about next ECB decision.
-- 09/11 17:08 [DeItaone] HOUTHIS REACHED YEMENI PORT CITY OF DHUBAB, ALONG BAB EL-MANDEB STRAIT- TWO YEMENI GOVERNMENTAL SOURCES
-- 09/11 17:10 [financialjuice] Yemen's Houthis take control of Mayyun Island in Red Sea - AFP
-- 09/11 17:10 [FirstSquawk] YEMEN'S HOUTHIS TAKE CONTROL OF MAYYUN ISLAND IN RED SEA: AFP REPORTS
-- 09/11 17:12 [FirstSquawk] YEMEN'S HOUTHIS COMPLETE TAKEOVER OF BAB EL-MANDEB STRAIT: AFP REPORTS
-- 09/11 17:12 [financialjuice] Yemen's Houthis complete takeover of Bab El-Mandeb strait - AFP.
-- 09/11 17:14 [FirstSquawk] BRICS FINANCE, CENTRAL BANK GOVERNORS: CONTINUE TO HAVE SERIOUS CONCERNS WITH UNILATERAL IMPOSITION OF TRADE AND FINANCE-RELATED ACTIONS
-- 09/11 17:16 [FirstSquawk] BRICS: SEEK FASTER, CHEAPER CROSS-BORDER PAYMENTS
-- 09/11 17:16 [FirstSquawk] BRICS: CALL FOR 'URGENT' OVERHAUL OF IMF, WORLD BANK POWER
-- 09/11 17:16 [FirstSquawk] BRICS: SUPPORT RULES-BASED TRADING SYSTEM WITH WTO AT ITS CORE
-- 09/11 17:21 [financialjuice] Japan trade delegation preparing China visit in September - Kyodo
-- 09/11 17:21 [FirstSquawk] ZELENSKY AND CANADIAN PM MARK CARNEY FORM A 100-YEAR PARTNERSHIP. CANADA JOINS UKRAINE’S FREYJA ANTI-BALLISTIC MISSILE PROJECT, OFFERS NEW AIR-DEFENSE AID, AND MOVES FORWARD WITH A DRONE DEAL.
-- 09/11 17:25 [FirstSquawk] YEMENI GOVERNMENT FORCES RETREAT FROM PERIM ISLAND IN BAB EL-MANDEB STRAIT
 - 09/11 17:27 [DeItaone] WALL STREET SEES 4%-5% TREASURY YIELDS AS NEW NORMAL Treasury yields are reaching levels unseen since 2008, as markets increasingly bet the Fed’s next move will be a hike. Bloomberg Economics argues the shift is structural: rising governmen…
 - 09/11 17:28 [financialjuice] Microsoft plans to triple data center capacity to 38 Gigawatts.
 - 09/11 17:28 [DeItaone] YEMENI GOVERNMENT FORCES WITHDRAW FROM PERIM ISLAND IN BAB EL-MANDEB STRAIT - TWO YEMENI GOVERMENTAL SOURCES
@@ -203,3 +188,9 @@
 - 09/11 23:00 [FirstSquawk] U.S. UMICH SEPTEMBER CONSUMER SENTIMENT DROPS TO 47.8, LOWER THAN ESTIMATED 51.
 - 09/11 23:00 [financialjuice] University of Michigan Sentiment September Prelim Report
 - 09/11 23:00 [FirstSquawk] U.S. UMICH 1-YEAR INFLATION EXPECTATIONS INCREASE TO 4.6% FROM 4.0%.
+- 09/11 23:18 [financialjuice] Fear and Greed Index: 36/100 = Fear
+- 09/11 23:18 [financialjuice] ECB's Lagarde: We are going to proceed meeting by meeting, using data to inform our coming decisions.
+- 09/11 23:19 [financialjuice] Crypto Fear and Greed Index: 56/100 = Greed
+- 09/11 23:19 [financialjuice] ❗ TD changes Fed call to cuts from September vs hold previously [Corrected by the wires at 10:13 ET]
+- 09/11 23:20 [financialjuice] TD changes Fed call to hike from September vs hold previously
+- 09/11 23:23 [FirstSquawk] US PRESIDENT TRUMP: IRAN WILL NEVER POSSESS A NUCLEAR WEAPON

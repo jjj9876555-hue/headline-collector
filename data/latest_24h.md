@@ -7,42 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 23:04 JST／対象: 09/10 23:04 〜 09/11 23:04 JST（時刻はすべて日本時間）
+生成: 2026-09-11 23:25 JST／対象: 09/10 23:25 〜 09/11 23:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 72 | 09/10 23:10 | 09/11 23:00 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 317 | 09/10 23:05 | 09/11 23:00 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 212 | 09/10 23:09 | 09/11 23:00 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 68 | 09/10 23:25 | 09/11 23:00 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 311 | 09/10 23:25 | 09/11 23:23 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 210 | 09/10 23:26 | 09/11 23:20 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 590 行（統合前 603 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 579 行（統合前 590 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 23:05 [FirstSquawk] KALSHI LAUNCHES ‘PERPS’ FOR GOLD AND SILVER FOLLOWING CFTC APPROVAL, EXPANDING FUTURES OFFERINGS - CNBC
-- 09/10 23:09 [FirstSquawk] OPENAI HELD MEETINGS WITH REPRESENTATIVES FROM LEADING ENERGY FIRMS.
-- 09/10 23:09 [FirstSquawk] OPENAI HELD DISCUSSIONS WITH POWER COMPANIES ABOUT SECURING THE GRID, ACCORDING TO POLITICO.
-- 09/10 23:09 [financialjuice] OpenAI discussed securing the grid in talks with power companies - Politico.
-- 09/10 23:10 [DeItaone] WHITE HOUSE: WILL ISSUE $500 OBAMACARE REFUNDS TO NEARLY 1 MILLION AMERICANS
-- 09/10 23:12 [financialjuice] Poll: US 10-year Treasury yield likely to touch 5% within three months according to 55% bond strategists.
-- 09/10 23:13 [financialjuice] Poll: US 10-year Treasury yield to decline to 4.67% in three months, 4.65% in six, and 4.55% in a year (vs 4.50%, 4.50%, and 4.34%, respectively, in the August poll)
-- 09/10 23:13 [FirstSquawk] THUNE WAS ASKED IF SENATE WILL HAVE VOTES TO PASS $5,000 CHECKS
-- 09/10 23:14 [DeItaone] WALL STREET SEES 5% TREASURY YIELD RISK A Reuters poll found 17 of 31 bond strategists see the U.S. 10-year Treasury yield potentially hitting 5% within three months. The 10-year recently reached 4.86%, pressured by $100+ oil, inflation con…
-- 09/10 23:16 [FirstSquawk] TRADERS FULLY PRICE THREE MORE ECB RATE HIKES BY MID-2027
-- 09/10 23:16 [financialjuice] ❗ Traders fully price in three more ECB rate hikes by mid-2027.
-- 09/10 23:16 [DeItaone] *OPENAI SEEKS TO ENSURE MODELS CAN'T HARM GRID SECURITY:POLITICO
-- 09/10 23:17 [financialjuice] Crypto Fear and Greed Index: 69/100 = Greed
-- 09/10 23:18 [financialjuice] Fear & Greed Index: 36/100 - Fear
-- 09/10 23:20 [FirstSquawk] US TREASURY TWO-YEAR YIELD INCREASES BY 10 BASIS POINTS TO 4.53%.
-- 09/10 23:21 [DeItaone] *TREASURY TWO-YEAR YIELD RISES 10 BASIS POINTS ON DAY TO 4.53%
-- 09/10 23:25 [financialjuice] ❗ Iran-backed Yemen's Houthis spokesperson: Freedom of navigation and international trade in the Red Sea and Bab el-Mandeb Strait remain safe and uninterrupted.
-- 09/10 23:25 [FirstSquawk/DeItaone] IRAN-BACKED YEMEN'S HOUTHIS SPOKESPERSON SAYS FREEDOM OF NAVIGATION AND INTERNATIONAL TRADE IN RED SEA AND BAB EL-MANDEB STRAIT REMAIN SAFE AND UNINTERRUPTED
 - 09/10 23:25 [FirstSquawk] IRAN-BACKED YEMEN'S HOUTHIS SPOKESPERSON SAYS CURRENT OPERATIONS ARE LIMITED TO SPECIFIED TARGETS AND ARE DEFENSIVE
+- 09/10 23:25 [DeItaone] IRAN-BACKED YEMEN'S HOUTHIS SPOKESPERSON SAYS FREEDOM OF NAVIGATION AND INTERNATIONAL TRADE IN RED SEA AND BAB EL-MANDEB STRAIT REMAIN SAFE AND UNINTERRUPTED
 - 09/10 23:26 [financialjuice] Iran-backed Yemen's Houthis Spokesperson: Current operations are limited to specified targets and are defensive.
 - 09/10 23:26 [FirstSquawk] YEMEN'S HOUTHIS SPOKESPERSON SAYS OPERATIONS WILL STOP WHEN ATTACKS ON YEMEN END AND BLOCKADE IS LIFTED
 - 09/10 23:26 [financialjuice] Yemen's Houthis Spokesperson: Operations will stop when attacks on Yemen end and the blockade is lifted.
@@ -614,3 +597,9 @@
 - 09/11 23:00 [FirstSquawk] U.S. UMICH SEPTEMBER CONSUMER SENTIMENT DROPS TO 47.8, LOWER THAN ESTIMATED 51.
 - 09/11 23:00 [financialjuice] University of Michigan Sentiment September Prelim Report
 - 09/11 23:00 [FirstSquawk] U.S. UMICH 1-YEAR INFLATION EXPECTATIONS INCREASE TO 4.6% FROM 4.0%.
+- 09/11 23:18 [financialjuice] Fear and Greed Index: 36/100 = Fear
+- 09/11 23:18 [financialjuice] ECB's Lagarde: We are going to proceed meeting by meeting, using data to inform our coming decisions.
+- 09/11 23:19 [financialjuice] Crypto Fear and Greed Index: 56/100 = Greed
+- 09/11 23:19 [financialjuice] ❗ TD changes Fed call to cuts from September vs hold previously [Corrected by the wires at 10:13 ET]
+- 09/11 23:20 [financialjuice] TD changes Fed call to hike from September vs hold previously
+- 09/11 23:23 [FirstSquawk] US PRESIDENT TRUMP: IRAN WILL NEVER POSSESS A NUCLEAR WEAPON
