@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 23:25 JST／対象: 09/11 17:25 〜 09/11 23:25 JST（時刻はすべて日本時間）
+生成: 2026-09-11 23:45 JST／対象: 09/11 17:45 〜 09/11 23:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 09/11 17:27 | 09/11 23:00 | 37分（19:03→19:41） |
-| FirstSquawk | 58 | 09/11 17:35 | 09/11 23:23 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 77 | 09/11 17:28 | 09/11 23:20 | 36分（18:21→18:57） |
+| DeItaone | 34 | 09/11 17:48 | 09/11 23:00 | 37分（19:03→19:41） |
+| FirstSquawk | 57 | 09/11 17:46 | 09/11 23:41 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 71 | 09/11 17:54 | 09/11 23:41 | 36分（18:21→18:57） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 170 行（統合前 171 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 161 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 17:27 [DeItaone] WALL STREET SEES 4%-5% TREASURY YIELDS AS NEW NORMAL Treasury yields are reaching levels unseen since 2008, as markets increasingly bet the Fed’s next move will be a hike. Bloomberg Economics argues the shift is structural: rising governmen…
-- 09/11 17:28 [financialjuice] Microsoft plans to triple data center capacity to 38 Gigawatts.
-- 09/11 17:28 [DeItaone] YEMENI GOVERNMENT FORCES WITHDRAW FROM PERIM ISLAND IN BAB EL-MANDEB STRAIT - TWO YEMENI GOVERMENTAL SOURCES
-- 09/11 17:31 [financialjuice] UK 1 YR INFLATION EXPECTATIONS ACTUAL 3.2% (FORECAST -, PREVIOUS 4%) $MACRO
-- 09/11 17:32 [financialjuice] Bank of England median one-year, two-year and five-year ahead expectations were 3.6%, 3.1% and 3.3% respectively.
-- 09/11 17:35 [FirstSquawk] HOUTHI SPOKESMAN: YEMENI ARMED FORCES TO ANNOUNCE MAJOR MILITARY OPERATIONS
-- 09/11 17:36 [financialjuice] France Fin. Min. Lescure: Economic uncertainties have never been so high.
-- 09/11 17:41 [FirstSquawk] FRENCH FINMIN LESCURE: ECONOMIC UNCERTAINTIES HAVE NEVER BEEN SO HIGH
-- 09/11 17:42 [financialjuice] French Finance Minister Lescure: Debt service costs seen at 65 billion euros this year, an increase of 4.5 billion euros from what was planned due to geopolitical crisis.
-- 09/11 17:43 [financialjuice] France Fin. Min. Lescure: 2027 growth forecast unrevised at 1.0%.
-- 09/11 17:44 [financialjuice] France Fin. Min. Lescure: We see 2026 inflation of 2.1%, 1.8% in 2027.
 - 09/11 17:46 [FirstSquawk] FRANCE HAS REDUCED ITS 2026 GDP GROWTH PREDICTION TO 0.5% AND EXPECTS 1% GROWTH IN 2027.
 - 09/11 17:48 [DeItaone] *FRANCE CUTS 2026 GDP GROWTH FORECAST TO 0.5%, SEES +1% IN 2027
 - 09/11 17:54 [financialjuice] Japan 2026 extraordinary diet session eyed 69 days - Kyodo
@@ -194,3 +183,5 @@
 - 09/11 23:19 [financialjuice] ❗ TD changes Fed call to cuts from September vs hold previously [Corrected by the wires at 10:13 ET]
 - 09/11 23:20 [financialjuice] TD changes Fed call to hike from September vs hold previously
 - 09/11 23:23 [FirstSquawk] US PRESIDENT TRUMP: IRAN WILL NEVER POSSESS A NUCLEAR WEAPON
+- 09/11 23:41 [financialjuice] Kremlin: Russia is open to talks, seeks three-way meeting - IFX.
+- 09/11 23:41 [FirstSquawk] KREMLIN: RUSSIA OPEN TO TALKS, SEEKS THREE-WAY MEETING: IFX

@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 23:25 JST／対象: 09/11 11:25 〜 09/11 23:25 JST（時刻はすべて日本時間）
+生成: 2026-09-11 23:45 JST／対象: 09/11 11:45 〜 09/11 23:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 46 | 09/11 15:05 | 09/11 23:00 | 37分（19:03→19:41） |
-| FirstSquawk | 171 | 09/11 11:32 | 09/11 23:23 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 94 | 09/11 15:34 | 09/11 23:20 | ⚠ 55分（16:05→17:01） |
+| FirstSquawk | 168 | 09/11 11:45 | 09/11 23:41 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 95 | 09/11 15:34 | 09/11 23:41 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 307 行（統合前 311 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 305 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 11:32 [FirstSquawk] Economic strain leaves Iranians struggling to secure fuel supplies.
-- 09/11 11:39 [FirstSquawk] China’s benchmark Shanghai Composite drops 2%.
-- 09/11 11:39 [FirstSquawk] Saudi Red Sea oil exports come under threat as Houthis advance along Yemen’s coastline.
-- 09/11 11:40 [FirstSquawk] Benchmark coking coal contract in China retreats more than 3%.
 - 09/11 11:45 [FirstSquawk] Fewer than 10 commodity vessels cross the Strait of Hormuz on Thursday, data shows, well below the 10-day average.
 - 09/11 11:53 [FirstSquawk] JPMorgan lowers AB Foods’ target price to 1,645p from 1,700p.
 - 09/11 11:54 [FirstSquawk] Nikkei reports Astemo will invest $379 million in Kentucky to increase electric motor production.
@@ -331,3 +327,5 @@
 - 09/11 23:19 [financialjuice] ❗ TD changes Fed call to cuts from September vs hold previously [Corrected by the wires at 10:13 ET]
 - 09/11 23:20 [financialjuice] TD changes Fed call to hike from September vs hold previously
 - 09/11 23:23 [FirstSquawk] US PRESIDENT TRUMP: IRAN WILL NEVER POSSESS A NUCLEAR WEAPON
+- 09/11 23:41 [financialjuice] Kremlin: Russia is open to talks, seeks three-way meeting - IFX.
+- 09/11 23:41 [FirstSquawk] KREMLIN: RUSSIA OPEN TO TALKS, SEEKS THREE-WAY MEETING: IFX
