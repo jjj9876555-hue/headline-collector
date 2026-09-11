@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 00:51 JST／対象: 09/11 12:51 〜 09/12 00:51 JST（時刻はすべて日本時間）
+生成: 2026-09-12 01:04 JST／対象: 09/11 13:04 〜 09/12 01:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 46 | 09/11 15:05 | 09/11 23:00 | 37分（19:03→19:41） |
-| FirstSquawk | 160 | 09/11 12:59 | 09/12 00:31 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 99 | 09/11 15:34 | 09/12 00:26 | ⚠ 55分（16:05→17:01） |
+| FirstSquawk | 160 | 09/11 13:04 | 09/12 01:04 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 107 | 09/11 15:34 | 09/12 01:01 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 301 行（統合前 305 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 309 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 12:59 [FirstSquawk] U.S. officials say Washington will not directly intervene against the Houthis for now after Trump declined MBS, Axios reports.
-- 09/11 13:03 [FirstSquawk] IRAN AND GULF STATES TO MEET IN PUSH FOR HORMUZ DEAL- FT
-- 09/11 13:03 [FirstSquawk] INSURERS ZURICH AND ALLIANZ HAVE EXPOSURE LINKED TO RADIANT WORLD- FT
 - 09/11 13:04 [FirstSquawk] VIRGIN MEDIA O2 OWNERS TARGET £600MN IN COST CUTS - FT
 - 09/11 13:13 [FirstSquawk] Saudi Crown Prince MBS called on Trump to target the Houthis amid growing threats in the Red Sea, according to Axios.
 - 09/11 13:20 [FirstSquawk] Fears of higher U.S. interest rates ripple across global bond markets.-FT
@@ -325,3 +322,14 @@
 - 09/12 00:26 [financialjuice] Tesla: Semi truck is coming to Europe - X Post. $TSLA
 - 09/12 00:31 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.35%; GERMANY'S DAX UP 0.77%
 - 09/12 00:31 [FirstSquawk] FRANCE'S CAC 40 UP 0.74%; SPAIN'S IBEX UP 0.86%
+- 09/12 00:52 [financialjuice] IIF: China equities see $3.5 bln outflow in August, China debt draws $0.2 bln inflow.
+- 09/12 00:58 [financialjuice] US CENTCOM: Admiral Cooper is in Saudi Arabia for meetings and coordination regarding the recent Houthi advances in Yemen - Al Jazeera source.
+- 09/12 01:00 [financialjuice] WASDE SOYBEAN END STOCKS ACTUAL 310M (FORECAST 298.5M, PREVIOUS 320M) $MACRO
+- 09/12 01:00 [financialjuice] WASDE COTTON END STOCKS ACTUAL 3.6M (FORECAST 3.9M, PREVIOUS 4M) $MACRO
+- 09/12 01:00 [financialjuice] WASDE WHEAT END STOCKS ACTUAL 717M (FORECAST 717M, PREVIOUS 717M) $MACRO
+- 09/12 01:00 [financialjuice] WASDE CORN END STOCKS ACTUAL 1567M (FORECAST 1521.5M, PREVIOUS 1653M) $MACRO
+- 09/12 01:01 [financialjuice] Fed Financial Accounts of the United States
+- 09/12 01:01 [financialjuice] Fed: US 2Q household net worth rises $12.803t.
+- 09/12 01:04 [FirstSquawk] US SEPTEMBER WASDE REPORT SHOWS CORN END STOCKS AT 1.567 BILLION BUSHELS (ESTIMATES 1.522B; PREVIOUS 1.653B), SOYBEAN END STOCKS AT 310 MILLION BUSHELS (EST 299M; PREV 320M), TOTAL WHEAT END STOCKS AT 717 MILLION BUSHELS (EST 718M; PREV 717…
+- 09/12 01:04 [FirstSquawk] GLOBAL CORN END STOCKS IN SEPTEMBER AT 272M (EST 272M; PREV 275M) || SOYBEAN END STOCKS AT 124M (EST 123M; PREV 124M) || TOTAL WHEAT END STOCKS AT 276M (EST 273M; PREV 273M) || COTTON END STOCKS AT 70M (EST 69M; PREV 70M)
+- 09/12 01:04 [FirstSquawk] US HOUSEHOLD NET WORTH ROSE BY $12.803 TRILLION IN Q2, UP FROM $113 BILLION AND A REVISED $793 BILLION.

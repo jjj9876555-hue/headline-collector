@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 00:51 JST／対象: 09/11 00:51 〜 09/12 00:51 JST（時刻はすべて日本時間）
+生成: 2026-09-12 01:04 JST／対象: 09/11 01:04 〜 09/12 01:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 66 | 09/11 01:33 | 09/11 23:00 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 303 | 09/11 00:58 | 09/12 00:31 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 197 | 09/11 00:52 | 09/12 00:26 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 303 | 09/11 01:08 | 09/12 01:04 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 196 | 09/11 01:05 | 09/12 01:01 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 556 行（統合前 567 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 555 行（統合前 566 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 00:52 [financialjuice] The Trump Administration partners with OpenAI to use AI tools - Fox Business
-- 09/11 00:58 [FirstSquawk] UAE PLANS TO INVEST €40 BILLION IN GERMANY.
-- 09/11 01:00 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 1.269M (FORECAST -1.275M, PREVIOUS -1.173M) $MACRO
-- 09/11 01:00 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL 2.087M (FORECAST -0.7M, PREVIOUS 0.796M) $MACRO
-- 09/11 01:00 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL -0.391M (FORECAST -1.35M, PREVIOUS -4.450M) $MACRO
-- 09/11 01:00 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL -0.684M (FORECAST -, PREVIOUS 0.080M) $MACRO
-- 09/11 01:00 [FirstSquawk] U.S CRUDE OIL INVENTORIES ACTUAL: -391K VS -4450K PREVIOUS; EST -1271.83K
-- 09/11 01:00 [financialjuice] US EIA Weekly Petroleum Status Report
-- 09/11 01:00 [FirstSquawk] U.S CUSHING OK CRUDE INVENTORY ACTUAL: -684K VS 80K PREVIOUS
-- 09/11 01:02 [financialjuice] Microsoft shares safe participation framework for AI. $MSFT
-- 09/11 01:03 [financialjuice] US weekly crude production hits new record near 14 mln b/d
-- 09/11 01:03 [financialjuice] Nvidia CEO: Cybersecurity is the next major use case of AI. $NVDA
 - 09/11 01:05 [financialjuice] US 30-year fixed rate mortgages average 6.76% September 10th week, highest since June 2025, vs 6.71$ prior week - Freddie Mac.
 - 09/11 01:06 [financialjuice] Vantage Data Centres seeks $2b in loans from Pimco and PGIM - FT.
 - 09/11 01:07 [financialjuice] Vantage Data Centers seeks $2bn in loans from Pimco and PGIM - FT
@@ -580,3 +568,14 @@
 - 09/12 00:26 [financialjuice] Tesla: Semi truck is coming to Europe - X Post. $TSLA
 - 09/12 00:31 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.35%; GERMANY'S DAX UP 0.77%
 - 09/12 00:31 [FirstSquawk] FRANCE'S CAC 40 UP 0.74%; SPAIN'S IBEX UP 0.86%
+- 09/12 00:52 [financialjuice] IIF: China equities see $3.5 bln outflow in August, China debt draws $0.2 bln inflow.
+- 09/12 00:58 [financialjuice] US CENTCOM: Admiral Cooper is in Saudi Arabia for meetings and coordination regarding the recent Houthi advances in Yemen - Al Jazeera source.
+- 09/12 01:00 [financialjuice] WASDE SOYBEAN END STOCKS ACTUAL 310M (FORECAST 298.5M, PREVIOUS 320M) $MACRO
+- 09/12 01:00 [financialjuice] WASDE COTTON END STOCKS ACTUAL 3.6M (FORECAST 3.9M, PREVIOUS 4M) $MACRO
+- 09/12 01:00 [financialjuice] WASDE WHEAT END STOCKS ACTUAL 717M (FORECAST 717M, PREVIOUS 717M) $MACRO
+- 09/12 01:00 [financialjuice] WASDE CORN END STOCKS ACTUAL 1567M (FORECAST 1521.5M, PREVIOUS 1653M) $MACRO
+- 09/12 01:01 [financialjuice] Fed Financial Accounts of the United States
+- 09/12 01:01 [financialjuice] Fed: US 2Q household net worth rises $12.803t.
+- 09/12 01:04 [FirstSquawk] US SEPTEMBER WASDE REPORT SHOWS CORN END STOCKS AT 1.567 BILLION BUSHELS (ESTIMATES 1.522B; PREVIOUS 1.653B), SOYBEAN END STOCKS AT 310 MILLION BUSHELS (EST 299M; PREV 320M), TOTAL WHEAT END STOCKS AT 717 MILLION BUSHELS (EST 718M; PREV 717…
+- 09/12 01:04 [FirstSquawk] GLOBAL CORN END STOCKS IN SEPTEMBER AT 272M (EST 272M; PREV 275M) || SOYBEAN END STOCKS AT 124M (EST 123M; PREV 124M) || TOTAL WHEAT END STOCKS AT 276M (EST 273M; PREV 273M) || COTTON END STOCKS AT 70M (EST 69M; PREV 70M)
+- 09/12 01:04 [FirstSquawk] US HOUSEHOLD NET WORTH ROSE BY $12.803 TRILLION IN Q2, UP FROM $113 BILLION AND A REVISED $793 BILLION.

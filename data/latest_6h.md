@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 00:51 JST／対象: 09/11 18:51 〜 09/12 00:51 JST（時刻はすべて日本時間）
+生成: 2026-09-12 01:04 JST／対象: 09/11 19:04 〜 09/12 01:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/11 19:02 | 09/11 23:00 | 37分（19:03→19:41） |
-| FirstSquawk | 47 | 09/11 18:53 | 09/12 00:31 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 71 | 09/11 18:57 | 09/12 00:26 | 27分（19:33→20:01） |
+| DeItaone | 28 | 09/11 19:41 | 09/11 23:00 | 33分（20:57→21:30） |
+| FirstSquawk | 46 | 09/11 19:25 | 09/12 01:04 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 77 | 09/11 19:15 | 09/12 01:01 | 27分（19:33→20:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 147 行（統合前 148 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 150 行（統合前 151 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 18:53 [FirstSquawk] EU COMMISSION GIVES GREEN LIGHT FOR €6.1 BILLION TO SUPPORT UKRAINE'S AIR DEFENSE AND AMMUNITION.
-- 09/11 18:57 [FirstSquawk] SWISS NATIONAL BANK CHAIRMAN STATES THAT THE SWISS FRANC EXCHANGE RATE IS A CHALLENGE FOR THE SWISS ECONOMY, BUT THE REAL FRANC HAS REMAINED STABLE SINCE 2020.
-- 09/11 18:57 [financialjuice] SNB's Chairman Schlegel: Swiss Franc exchange rate a challenge for swiss economy, but real franc has been stable since 2020.
-- 09/11 19:02 [DeItaone] U.S., MEXICO RACE FOR TRADE DEAL BEFORE MIDTERMS The U.S. and Mexico are pushing for an interim bilateral trade deal before the November elections, Reuters reports, after negotiations with Canada collapsed. Mexico is seeking relief from 50%…
-- 09/11 19:03 [financialjuice] No official confirmation from Saudi Arabia on incident near East West oil pipeline.
-- 09/11 19:03 [DeItaone] SATELLITE IMAGERY SHOWS SMOKE ON THURSDAY IN VICINITY OF SAUDI ARABIA'S EAST WEST OIL PIPELINE
-- 09/11 19:03 [FirstSquawk] SATELLITE IMAGES CAPTURED SMOKE NEAR SAUDI ARABIA'S EAST WEST OIL PIPELINE ON THURSDAY.
-- 09/11 19:03 [FirstSquawk] NO OFFICIAL WORD FROM SAUDI ARABIA ON INCIDENT CLOSE TO EAST WEST OIL PIPELINE.
 - 09/11 19:15 [financialjuice] SNB's Chairman Schlegel: Swiss debt break policy has been highly successful.
 - 09/11 19:23 [financialjuice] CentCom commander traveled to Saudi Arabia on Thursday - Axios
 - 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER VISITED SAUDI ARABIA ON THURSDAY.
@@ -171,3 +163,14 @@
 - 09/12 00:26 [financialjuice] Tesla: Semi truck is coming to Europe - X Post. $TSLA
 - 09/12 00:31 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.35%; GERMANY'S DAX UP 0.77%
 - 09/12 00:31 [FirstSquawk] FRANCE'S CAC 40 UP 0.74%; SPAIN'S IBEX UP 0.86%
+- 09/12 00:52 [financialjuice] IIF: China equities see $3.5 bln outflow in August, China debt draws $0.2 bln inflow.
+- 09/12 00:58 [financialjuice] US CENTCOM: Admiral Cooper is in Saudi Arabia for meetings and coordination regarding the recent Houthi advances in Yemen - Al Jazeera source.
+- 09/12 01:00 [financialjuice] WASDE SOYBEAN END STOCKS ACTUAL 310M (FORECAST 298.5M, PREVIOUS 320M) $MACRO
+- 09/12 01:00 [financialjuice] WASDE COTTON END STOCKS ACTUAL 3.6M (FORECAST 3.9M, PREVIOUS 4M) $MACRO
+- 09/12 01:00 [financialjuice] WASDE WHEAT END STOCKS ACTUAL 717M (FORECAST 717M, PREVIOUS 717M) $MACRO
+- 09/12 01:00 [financialjuice] WASDE CORN END STOCKS ACTUAL 1567M (FORECAST 1521.5M, PREVIOUS 1653M) $MACRO
+- 09/12 01:01 [financialjuice] Fed Financial Accounts of the United States
+- 09/12 01:01 [financialjuice] Fed: US 2Q household net worth rises $12.803t.
+- 09/12 01:04 [FirstSquawk] US SEPTEMBER WASDE REPORT SHOWS CORN END STOCKS AT 1.567 BILLION BUSHELS (ESTIMATES 1.522B; PREVIOUS 1.653B), SOYBEAN END STOCKS AT 310 MILLION BUSHELS (EST 299M; PREV 320M), TOTAL WHEAT END STOCKS AT 717 MILLION BUSHELS (EST 718M; PREV 717…
+- 09/12 01:04 [FirstSquawk] GLOBAL CORN END STOCKS IN SEPTEMBER AT 272M (EST 272M; PREV 275M) || SOYBEAN END STOCKS AT 124M (EST 123M; PREV 124M) || TOTAL WHEAT END STOCKS AT 276M (EST 273M; PREV 273M) || COTTON END STOCKS AT 70M (EST 69M; PREV 70M)
+- 09/12 01:04 [FirstSquawk] US HOUSEHOLD NET WORTH ROSE BY $12.803 TRILLION IN Q2, UP FROM $113 BILLION AND A REVISED $793 BILLION.
