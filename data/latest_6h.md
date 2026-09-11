@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 14:24 JST／対象: 09/11 08:24 〜 09/11 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-11 14:43 JST／対象: 09/11 08:43 〜 09/11 14:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/11 08:32 | 09/11 08:48 | 7分（08:32→08:39） |
-| FirstSquawk | 83 | 09/11 09:00 | 09/11 14:23 | 15分（13:50→14:06） |
+| DeItaone | 2 | 09/11 08:47 | 09/11 08:48 | 0分（08:47→08:48） |
+| FirstSquawk | 86 | 09/11 09:00 | 09/11 14:42 | 15分（13:50→14:06） |
 | financialjuice | 19 | 09/11 08:50 | 09/11 10:47 | 27分（09:00→09:28） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 08:32 [DeItaone] *TRUMP: MAYBE I DON'T GO FULL INTO IRAN BECAUSE OF ELECTION
-- 09/11 08:39 [DeItaone] U.S. DIESEL BREAKS $6 FOR FIRST TIME EVER The U.S. average diesel price surpassed $6 a gallon for the first time, according to GasBuddy, up nearly 60% since the Iran war began. Supply remains extremely tight, with U.S. diesel inventories 13…
-- 09/11 08:41 [DeItaone] APPLE’S $1,999 FOLDABLE FACES DEMAND TEST Apple’s new iPhone Duo starts at $1,999, but analysts question whether its appeal can extend beyond wealthy early adopters. Counterpoint still expects Apple to sell nearly 6 million units by year-en…
 - 09/11 08:47 [DeItaone] TRUMP SUGGESTS ELECTION MAY LIMIT IRAN ESCALATION President Donald Trump said the upcoming election could influence whether the U.S. goes “fully” into Iran, while insisting he has no regrets over the conflict. Trump also claimed the U.S. co…
 - 09/11 08:48 [DeItaone] TRUMP SAYS IRAN WAR TO END AFTER MIDTERMS President Donald Trump reiterated that he expects the war with Iran to end “right after” the midterm elections, saying Tehran is “in deep trouble.” Trump also claimed Iran’s missile stockpile has be…
 - 09/11 08:50 [financialjuice] JAPANESE BUSINESS SURVEY INDEX ACTUAL 7.6% (FORECAST -, PREVIOUS -1.8%) $MACRO
@@ -131,3 +128,6 @@
 - 09/11 14:09 [FirstSquawk] Seoul and Tehran’s foreign ministers hold phone talks, according to Yonhap.
 - 09/11 14:10 [FirstSquawk] South Korea and Iran hold talks focused on the Strait of Hormuz, foreign ministry says.
 - 09/11 14:23 [FirstSquawk] Russia’s Tula region reports 2 dead and 3 injured after Ukrainian drone attack.
+- 09/11 14:33 [FirstSquawk] Berlin pushes for Commerzbank to stay listed as UniCredit targets a deal, Reuters reports.
+- 09/11 14:41 [FirstSquawk] APPLE’S IPHONE 18 UPGRADE CYCLE LIKELY TO BOOST SOME SUPPLIERS-WSJ
+- 09/11 14:42 [FirstSquawk] Brent eases to $105.86 and WTI to $101.22, giving up part of their early Asian gains.
