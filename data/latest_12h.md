@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 11:52 JST／対象: 09/10 23:52 〜 09/11 11:52 JST（時刻はすべて日本時間）
+生成: 2026-09-11 12:04 JST／対象: 09/11 00:04 〜 09/11 12:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 20 | 09/11 01:33 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 140 | 09/11 00:00 | 09/11 11:45 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 108 | 09/11 00:00 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
+| FirstSquawk | 142 | 09/11 00:04 | 09/11 12:01 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 102 | 09/11 00:14 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 262 行（統合前 269 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 258 行（統合前 265 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 00:00 [FirstSquawk] EU'S VON DER LEYEN WILL DISCUSS SOCIAL MEDIA PLAN IN NEXT WEEK'S STATE OF UNION SPEECH.
-- 09/11 00:00 [financialjuice] IMF: Global inflation expectations have risen but remain well-anchored over the longer run.
-- 09/11 00:01 [financialjuice] IMF: Global growth remains on track to reach about 3% in 2026, but risks remain high.
-- 09/11 00:01 [financialjuice] IMF: Energy shock from war in the Middle East is not over; global debt pressures are mounting, and the disinflation process has stalled.
-- 09/11 00:01 [financialjuice] IMF: We are advising central bankers to remain focused on price stability mandates; encouraging fiscal authorities to have medium-term consolidation plans.
-- 09/11 00:02 [financialjuice] US to sell $19 bln reopened 10-Year TIPS on September 17th, to settle on September 30th
-- 09/11 00:02 [financialjuice] US Treasury Announces Bill and Bond Auction Sizes US Treasury to sell $92 billion of 3-month bills on September 14, settling September 17 US Treasury to sell $79 billion of 6-month bills on September 14, settling September 17 US Treasury to…
 - 09/11 00:04 [FirstSquawk] IMF REPORTS THAT GLOBAL INFLATION EXPECTATIONS HAVE INCREASED BUT ARE STILL STABLE FOR THE LONG TERM.
 - 09/11 00:04 [FirstSquawk] IMF PREDICTS GLOBAL GROWTH WILL HIT AROUND 3% BY 2026, BUT RAISES CONCERNS ABOUT HIGH RISKS.
 - 09/11 00:04 [FirstSquawk] IMF REPORTS THAT THE ENERGY CRISIS FROM THE MIDDLE EAST CONFLICT CONTINUES; GLOBAL DEBT IS INCREASING, AND DISINFLATION HAS STOPPED.
@@ -286,3 +279,6 @@
 - 09/11 11:39 [FirstSquawk] Saudi Red Sea oil exports come under threat as Houthis advance along Yemen’s coastline.
 - 09/11 11:40 [FirstSquawk] Benchmark coking coal contract in China retreats more than 3%.
 - 09/11 11:45 [FirstSquawk] Fewer than 10 commodity vessels cross the Strait of Hormuz on Thursday, data shows, well below the 10-day average.
+- 09/11 11:53 [FirstSquawk] JPMorgan lowers AB Foods’ target price to 1,645p from 1,700p.
+- 09/11 11:54 [FirstSquawk] Nikkei reports Astemo will invest $379 million in Kentucky to increase electric motor production.
+- 09/11 12:01 [FirstSquawk] Russia’s Volgograd region reports damage to an industrial facility from missile debris.

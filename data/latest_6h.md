@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 11:52 JST／対象: 09/11 05:52 〜 09/11 11:52 JST（時刻はすべて日本時間）
+生成: 2026-09-11 12:04 JST／対象: 09/11 06:04 〜 09/11 12:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/11 06:36 | 09/11 08:48 | ⚠ 60分（07:31→08:32） |
-| FirstSquawk | 56 | 09/11 06:26 | 09/11 11:45 | ⚠ 81分（07:38→09:00） |
+| FirstSquawk | 59 | 09/11 06:26 | 09/11 12:01 | ⚠ 81分（07:38→09:00） |
 | financialjuice | 29 | 09/11 06:04 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 92 行（統合前 92 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 95 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -116,3 +116,6 @@
 - 09/11 11:39 [FirstSquawk] Saudi Red Sea oil exports come under threat as Houthis advance along Yemen’s coastline.
 - 09/11 11:40 [FirstSquawk] Benchmark coking coal contract in China retreats more than 3%.
 - 09/11 11:45 [FirstSquawk] Fewer than 10 commodity vessels cross the Strait of Hormuz on Thursday, data shows, well below the 10-day average.
+- 09/11 11:53 [FirstSquawk] JPMorgan lowers AB Foods’ target price to 1,645p from 1,700p.
+- 09/11 11:54 [FirstSquawk] Nikkei reports Astemo will invest $379 million in Kentucky to increase electric motor production.
+- 09/11 12:01 [FirstSquawk] Russia’s Volgograd region reports damage to an industrial facility from missile debris.
