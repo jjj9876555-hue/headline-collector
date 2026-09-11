@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 14:58 JST／対象: 09/11 02:58 〜 09/11 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 15:22 JST／対象: 09/11 03:22 〜 09/11 15:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/11 03:05 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 145 | 09/11 03:02 | 09/11 14:53 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 64 | 09/11 03:00 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
+| DeItaone | 10 | 09/11 03:30 | 09/11 15:05 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 167 | 09/11 03:37 | 09/11 15:21 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 55 | 09/11 03:31 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 213 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 230 行（統合前 233 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 03:00 [financialjuice] Ukraine’s President Zelenskiy: Plan to meet the US team at the end of September in New York.
-- 09/11 03:02 [FirstSquawk] MACQUARIE GROUP SAYS A MACQUARIE ASSET MANAGEMENT-LED CONSORTIUM WILL ACQUIRE SI SOLUTIONS FROM MIDOCEAN PARTNERS, WITH THE TRANSACTION EXPECTED TO CLOSE IN FALL 2026
-- 09/11 03:02 [FirstSquawk] UKRAINE'S ZELENSKIY SAYS THERE WILL BE NO TRILATERAL TALKS BEFORE ELECTIONS IN RUSSIA, ADDING THAT HE HOPES FOR PROGRESS ON ENERGY AND GRAIN TALKS AFTER MEETING WITH TRUMP AT THE END OF SEPTEMBER
-- 09/11 03:03 [financialjuice/FirstSquawk] Netanyahu on Iran and Hezbollah: There will be more to come - Israel's Hayom News
-- 09/11 03:03 [financialjuice/FirstSquawk] Algeria closes airspace to flights from UAE - Tasnim News.
-- 09/11 03:04 [FirstSquawk] U.S. OFFICIALS ARE TO DECLARE THE END OF THE CYCLOSPORIASIS OUTBREAK - WAPO
-- 09/11 03:05 [DeItaone] MUNI YIELDS SURGE TO HIGHEST SINCE APRIL 2025 U.S. 10-year municipal bond yields jumped to 3.62%, the highest since April 2025, tracking the Treasury selloff. JPMorgan says rising Treasury yields, heavy muni issuance and weak reinvestment d…
-- 09/11 03:05 [financialjuice] Treasury debt buyback targets coupons maturing in 2037-2046
-- 09/11 03:05 [financialjuice] Treasury receives $10.489 bln of offers for buyback, accepts $5.19 bln
-- 09/11 03:05 [financialjuice] Treasury accepts 23 of 40 eligible issues in debt buyback.
-- 09/11 03:06 [financialjuice] Canada's PM Carney: I spoke to Trump in recent days.
-- 09/11 03:07 [financialjuice/FirstSquawk] Iran's President Pezeshkian will travel to New Delhi tomorrow to participate in the 18th BRICS Summit - Fars News
-- 09/11 03:17 [financialjuice/FirstSquawk] Israel's Prime Minister Netanyahu: IDF destroys Hezbollah facilities at Ali Taher ridge.
 - 09/11 03:30 [DeItaone] BRENT CRUDE FUTURES RISE BY $7 A BARREL AS US-IRAN CONFLICT INTENSIFIES
 - 09/11 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $5.0575 a gallon
 - 09/11 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.3932 a gallon
@@ -46,6 +33,8 @@
 - 09/11 03:34 [financialjuice] US Official: Offloadings of Iranian oil down to 0.9 mb/d from 1.4 mb/d before war.
 - 09/11 03:34 [financialjuice] US Official: Loadings of Iranian oil at about 0.2 mln barrels per day over past 30 days, down from 1.8 mln barrels per day in January/February
 - 09/11 03:34 [financialjuice] US Treasury announces new sanctions against entities supporting Iran's proxies in Middle East, including Iraqi business executives.
+- 09/11 03:37 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN WILL TRAVEL TO NEW DELHI TOMORROW TO PARTICIPATE IN THE 18TH BRICS SUMMIT - FARS NEWS
+- 09/11 03:38 [FirstSquawk] ISRAEL'S PRIME MINISTER NETANYAHU: IDF DESTROYS HEZBOLLAH FACILITIES AT ALI TAHER RIDGE.
 - 09/11 03:39 [FirstSquawk] IRAN PRESIDENT PEZESHKIAN TO TRAVEL TO NEW DELHI ON FRIDAY FOR 18TH BRICS SUMMIT — FARS NEWS
 - 09/11 03:41 [DeItaone] U.S. CONTAINER IMPORTS HIT THIRD-HIGHEST LEVEL EVER U.S. container imports reached 2.6 million TEUs in August, the third-highest monthly level on record, according to Descartes. Volumes rose 3% year-over-year and 22% versus August 2019, sig…
 - 09/11 03:41 [FirstSquawk] U.S. TREASURY ANNOUNCES NEW SANCTIONS ON ENTITIES SUPPORTING IRANIAN PROXIES, WHILE MOST OUTSTANDING IRAN-RELATED LICENSING REQUESTS FACE DENIAL
@@ -237,3 +226,31 @@
 - 09/11 14:42 [FirstSquawk] Brent eases to $105.86 and WTI to $101.22, giving up part of their early Asian gains.
 - 09/11 14:51 [FirstSquawk] Italian foreign minister to avoid talks with Taiwanese officials during their Italy visit, RTRS says.
 - 09/11 14:53 [FirstSquawk] RBC trims its Puma price target to €23 from €25.
+- 09/11 15:02 [FirstSquawk] UK (JUL) MONTHLY GDP (MOM) ACTUAL: 0.4% VS 0.3% PREVIOUS;EST 0.0%
+- 09/11 15:03 [FirstSquawk] UK (JUL) MONTHLY GDP (3M/3M) ACTUAL: 0.4% VS 0.4% PREVIOUS;EST 0.3%
+- 09/11 15:03 [FirstSquawk] UK (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: 0.2% VS -0.2% PREVIOUS;EST -0.2%
+- 09/11 15:03 [FirstSquawk] UK (JUL) INDUSTRIAL PRODUCTION YOY ACTUAL: 0.6% VS -0.2% PREVIOUS;EST 0.2%
+- 09/11 15:03 [FirstSquawk] UK (JUL) MANUFACTURING PRODUCTION MOM ACTUAL: 0.9% VS -0.5% PREVIOUS;EST 0.2%
+- 09/11 15:03 [FirstSquawk] UK (JUL) MANUFACTURING PRODUCTION YOY ACTUAL: 2.6% VS 0.5% PREVIOUS;EST 2.1%
+- 09/11 15:03 [FirstSquawk] UK (JUL) CONSTRUCTION OUTPUT MOM ACTUAL: 0.1% VS -0.1% PREVIOUS;EST 0.1%
+- 09/11 15:03 [FirstSquawk] UK (JUL) CONSTRUCTION OUTPUT YOY ACTUAL: -2.5% VS -2.3% PREVIOUS;EST -2.3%
+- 09/11 15:03 [FirstSquawk] UK (JUL) INDEX OF SERVICES MOM ACTUAL: 0.4% VS 0.4% PREVIOUS;EST 0.0%
+- 09/11 15:03 [FirstSquawk] UK (JUL) INDEX OF SERVICES 3M/3M ACTUAL: 0.6% VS 0.5% PREVIOUS;EST 0.5%
+- 09/11 15:04 [FirstSquawk] UK (JUL) VISIBLE TRADE BALANCE GBP/MN ACTUAL: -20965M VS 23007M PREVIOUS;EST 22400M
+- 09/11 15:04 [FirstSquawk] UK (JUL) TRADE BALANCE GBP/MN ACTUAL: -3450M VS 5537M PREVIOUS;EST 4995M
+- 09/11 15:04 [FirstSquawk] UK (JUL) VISIBLE TRADE BALANCE EX PRECIOUS METALS ACTUAL: -21427M VS 21045M PREVIOUS
+- 09/11 15:04 [FirstSquawk] UK (JUL) TRADE BALANCE EX PRECIOUS METALS ACTUAL: -3912M VS 3575M PREVIOUS;EST 3000M
+- 09/11 15:05 [DeItaone] TRUMP DISMISSES AI EXTINCTION FEARS President Donald Trump says he has “no” concerns that AI could lead to human extinction, arguing the priority is ensuring the U.S. maintains its technological lead over China. Trump estimates America is r…
+- 09/11 15:05 [FirstSquawk] Russian forces hit two supply vessels linked to Ukrainian forces in the Black Sea, Defence Ministry says.
+- 09/11 15:06 [FirstSquawk] India holds talks with Argentina on additional lithium blocks while engaging Chile on lithium, minister says.
+- 09/11 15:08 [FirstSquawk] Gold jumps 1% to $4,357.59 per ounce in spot trade.
+- 09/11 15:09 [FirstSquawk] Ukraine sees 2026 sunflower harvest increasing to 12 million tons from 10.2 million tons in 2025, minister says.
+- 09/11 15:14 [FirstSquawk] Russia’s Sberbank no longer sees excess rupee accumulation by firms trading with India, CEO says.
+- 09/11 15:14 [FirstSquawk] Ukraine can process up to 20 million tons of oilseeds against demand of 16 million tons, minister says.
+- 09/11 15:14 [FirstSquawk] Iran, Pakistan officials explore ways to restart diplomatic efforts aimed at de-escalating the conflict, source says.
+- 09/11 15:15 [FirstSquawk] Pakistani source: Iran foreign minister and army chief focus talks on U.S.-Iran war, resuming negotiations and Houthi attacks.
+- 09/11 15:17 [FirstSquawk] France is not in economic danger, Bank of France’s Moulin says.
+- 09/11 15:20 [FirstSquawk] Heatwaves cut France’s economic growth by 0.1 percentage points, Moulin says.
+- 09/11 15:20 [FirstSquawk] France’s economy expected to recover at a moderate pace, Moulin says.
+- 09/11 15:21 [FirstSquawk] Concerns are mounting over France’s economy, Moulin says.
+- 09/11 15:21 [FirstSquawk] France’s economy remains manageable, but action cannot be delayed, Moulin says.

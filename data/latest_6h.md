@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 14:58 JST／対象: 09/11 08:58 〜 09/11 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 15:22 JST／対象: 09/11 09:22 〜 09/11 15:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 88 | 09/11 09:00 | 09/11 14:53 | 15分（13:50→14:06） |
-| financialjuice | 14 | 09/11 09:00 | 09/11 10:47 | 27分（09:00→09:28） |
+| DeItaone | 1 | 09/11 15:05 | 09/11 15:05 | - |
+| FirstSquawk | 106 | 09/11 09:24 | 09/11 15:21 | 15分（13:50→14:06） |
+| financialjuice | 10 | 09/11 09:28 | 09/11 10:47 | 18分（09:28→09:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 117 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 09:00 [FirstSquawk] Trump says Iran’s inflation rate has reached 300%, speaking to Fox News.
-- 09/11 09:00 [financialjuice] S. Korea semiconductor exports surge 270.1% year on year from Sept. 1-10: customs agency
-- 09/11 09:00 [financialjuice] S.Korea sept 1-10 trade surplus provisional $10.4 billion: customs agency
-- 09/11 09:00 [financialjuice] S. Korea Sept 1-10 imports rise 20.7% y/y: customs agency
-- 09/11 09:00 [financialjuice] S.Korea sept 1-10 exports climb 82.6% y/y: customs agency
-- 09/11 09:01 [FirstSquawk] Nikkei share average down 1.52% at 64,276.82.
-- 09/11 09:02 [FirstSquawk] KOSPI slides 3% in South Korea.
-- 09/11 09:02 [FirstSquawk] McDonald’s, Burger King and peers shift focus back toward personal service as digital ordering and kiosks reshape fast food as per WSJ
-- 09/11 09:06 [FirstSquawk] The bond market is moving fast. The 10-year Japanese Government Bond (JGB) yield just jumped 5.5 basis points to hit 2.965%.
-- 09/11 09:08 [FirstSquawk] Australia’s benchmark ASX 200 trades roughly 1% lower at 8,728.20.
-- 09/11 09:14 [FirstSquawk] Anthropic reports blocking potential AI-assisted bioweapons research by scientists.
-- 09/11 09:18 [FirstSquawk] Asia-Pacific shares slipped in early trade as soaring crude prices and climbing yields fueled caution over worsening geopolitical risks in the Middle East
-- 09/11 09:21 [FirstSquawk] 30-year JGB yield advances to 4.055%, up 5 basis points.
 - 09/11 09:24 [FirstSquawk] China CSSC Holdings says it is taking action to address a cargo vessel fire at its shipyard.
 - 09/11 09:28 [financialjuice] China PBOC forecast to set yuan midpoint at 6.7174 per dollar: estimate
 - 09/11 09:35 [FirstSquawk] Two-year JGB yield climbs 1 bp to 1.830%.
@@ -126,3 +113,31 @@
 - 09/11 14:42 [FirstSquawk] Brent eases to $105.86 and WTI to $101.22, giving up part of their early Asian gains.
 - 09/11 14:51 [FirstSquawk] Italian foreign minister to avoid talks with Taiwanese officials during their Italy visit, RTRS says.
 - 09/11 14:53 [FirstSquawk] RBC trims its Puma price target to €23 from €25.
+- 09/11 15:02 [FirstSquawk] UK (JUL) MONTHLY GDP (MOM) ACTUAL: 0.4% VS 0.3% PREVIOUS;EST 0.0%
+- 09/11 15:03 [FirstSquawk] UK (JUL) MONTHLY GDP (3M/3M) ACTUAL: 0.4% VS 0.4% PREVIOUS;EST 0.3%
+- 09/11 15:03 [FirstSquawk] UK (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: 0.2% VS -0.2% PREVIOUS;EST -0.2%
+- 09/11 15:03 [FirstSquawk] UK (JUL) INDUSTRIAL PRODUCTION YOY ACTUAL: 0.6% VS -0.2% PREVIOUS;EST 0.2%
+- 09/11 15:03 [FirstSquawk] UK (JUL) MANUFACTURING PRODUCTION MOM ACTUAL: 0.9% VS -0.5% PREVIOUS;EST 0.2%
+- 09/11 15:03 [FirstSquawk] UK (JUL) MANUFACTURING PRODUCTION YOY ACTUAL: 2.6% VS 0.5% PREVIOUS;EST 2.1%
+- 09/11 15:03 [FirstSquawk] UK (JUL) CONSTRUCTION OUTPUT MOM ACTUAL: 0.1% VS -0.1% PREVIOUS;EST 0.1%
+- 09/11 15:03 [FirstSquawk] UK (JUL) CONSTRUCTION OUTPUT YOY ACTUAL: -2.5% VS -2.3% PREVIOUS;EST -2.3%
+- 09/11 15:03 [FirstSquawk] UK (JUL) INDEX OF SERVICES MOM ACTUAL: 0.4% VS 0.4% PREVIOUS;EST 0.0%
+- 09/11 15:03 [FirstSquawk] UK (JUL) INDEX OF SERVICES 3M/3M ACTUAL: 0.6% VS 0.5% PREVIOUS;EST 0.5%
+- 09/11 15:04 [FirstSquawk] UK (JUL) VISIBLE TRADE BALANCE GBP/MN ACTUAL: -20965M VS 23007M PREVIOUS;EST 22400M
+- 09/11 15:04 [FirstSquawk] UK (JUL) TRADE BALANCE GBP/MN ACTUAL: -3450M VS 5537M PREVIOUS;EST 4995M
+- 09/11 15:04 [FirstSquawk] UK (JUL) VISIBLE TRADE BALANCE EX PRECIOUS METALS ACTUAL: -21427M VS 21045M PREVIOUS
+- 09/11 15:04 [FirstSquawk] UK (JUL) TRADE BALANCE EX PRECIOUS METALS ACTUAL: -3912M VS 3575M PREVIOUS;EST 3000M
+- 09/11 15:05 [DeItaone] TRUMP DISMISSES AI EXTINCTION FEARS President Donald Trump says he has “no” concerns that AI could lead to human extinction, arguing the priority is ensuring the U.S. maintains its technological lead over China. Trump estimates America is r…
+- 09/11 15:05 [FirstSquawk] Russian forces hit two supply vessels linked to Ukrainian forces in the Black Sea, Defence Ministry says.
+- 09/11 15:06 [FirstSquawk] India holds talks with Argentina on additional lithium blocks while engaging Chile on lithium, minister says.
+- 09/11 15:08 [FirstSquawk] Gold jumps 1% to $4,357.59 per ounce in spot trade.
+- 09/11 15:09 [FirstSquawk] Ukraine sees 2026 sunflower harvest increasing to 12 million tons from 10.2 million tons in 2025, minister says.
+- 09/11 15:14 [FirstSquawk] Russia’s Sberbank no longer sees excess rupee accumulation by firms trading with India, CEO says.
+- 09/11 15:14 [FirstSquawk] Ukraine can process up to 20 million tons of oilseeds against demand of 16 million tons, minister says.
+- 09/11 15:14 [FirstSquawk] Iran, Pakistan officials explore ways to restart diplomatic efforts aimed at de-escalating the conflict, source says.
+- 09/11 15:15 [FirstSquawk] Pakistani source: Iran foreign minister and army chief focus talks on U.S.-Iran war, resuming negotiations and Houthi attacks.
+- 09/11 15:17 [FirstSquawk] France is not in economic danger, Bank of France’s Moulin says.
+- 09/11 15:20 [FirstSquawk] Heatwaves cut France’s economic growth by 0.1 percentage points, Moulin says.
+- 09/11 15:20 [FirstSquawk] France’s economy expected to recover at a moderate pace, Moulin says.
+- 09/11 15:21 [FirstSquawk] Concerns are mounting over France’s economy, Moulin says.
+- 09/11 15:21 [FirstSquawk] France’s economy remains manageable, but action cannot be delayed, Moulin says.
