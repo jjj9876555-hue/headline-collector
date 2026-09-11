@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 04:19 JST／対象: 09/11 16:19 〜 09/12 04:19 JST（時刻はすべて日本時間）
+生成: 2026-09-12 04:31 JST／対象: 09/11 16:31 〜 09/12 04:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 41 | 09/11 16:41 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 120 | 09/11 16:21 | 09/12 04:11 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 127 | 09/11 17:01 | 09/12 04:10 | 37分（02:21→02:58） |
+| FirstSquawk | 120 | 09/11 16:33 | 09/12 04:23 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 132 | 09/11 17:01 | 09/12 04:30 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 285 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 290 行（統合前 293 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 16:21 [FirstSquawk] UBS GLOBAL WEALTH MANAGEMENT EXPECTS ECB TO DELIVER ONE FURTHER 25BPS RATE HIKE IN DECEMBER 2026 BEFORE PAUSING
-- 09/11 16:23 [FirstSquawk] RUSSIA THREATENS ELECTIONS IN EUROPE'S LARGEST DEMOCRACIES, SAYS SWEDEN'S DISINFORMATION DEFENSE HEAD, URGING SOCIAL MEDIA TO IMPROVE IN FIGHTING AGAINST MOSCOW'S BOT NETWORKS.
 - 09/11 16:33 [FirstSquawk] RIKSBANK RETAINS COUNTERCYCLICAL BUFFER RATE AT 2%
 - 09/11 16:35 [FirstSquawk] MUFG TO REDEEM $1.25B 1.64% SENIOR NOTES ON OCT. 13
 - 09/11 16:36 [FirstSquawk] US RETAIL DIESEL PRICE EXCEEDS $6 PER GALLON
@@ -309,3 +307,10 @@
 - 09/12 04:10 [DeItaone] TRUMP VOWS $5,000 “DIVIDEND” FOR U.S. ADULTS President Donald Trump says his proposed $5,000 payment to U.S. adults “will happen,” arguing Americans deserve to benefit from what he described as trillions of dollars in economic development a…
 - 09/12 04:10 [financialjuice] Trump: The dividend will happen despite criticism from Democrats.
 - 09/12 04:11 [FirstSquawk] Trump on truth social The $5,000 Trump Dividend, given to all Adults in the United States due to the fact that our Country is taking in Trillions of Dollars of Economic Development, Investment, and Pure SUCCESS, is being criticized by “Dumo…
+- 09/12 04:22 [FirstSquawk] US: 99 COMMERCIAL VESSELS REDIRECTED IN BLOCKADE AGAINST IRAN
+- 09/12 04:23 [financialjuice] Monday FX Options Expiries
+- 09/12 04:23 [FirstSquawk] U.S. NAVY MH-60R SEA HAWK HELICOPTER GETS READY TO LAND ON USS BOXER (LHD 4). BOXER IS THE LEAD SHIP FOR THE BOXER AMPHIBIOUS READY GROUP AND 11TH MARINE EXPEDITIONARY UNIT, CONTINUING TO IMPLEMENT THE U.S. BLOCKADE ON IRAN. AS OF SEPTEMBER…
+- 09/12 04:27 [financialjuice] Iran's foreign Ministry Spokesperson: Our strikes have been against the source of the attacks, not the countries - Tasnim News
+- 09/12 04:29 [financialjuice] Iran Foreign Ministry spokesperson: Saudi Arabia, Japan and Jordan will face consequences for backing anti-Iran IAEA resolution - Fars News
+- 09/12 04:29 [financialjuice] Iran Foreign Ministry spokesperson: Iran will hold Saudi Arabia, Japan and Jordan accountable for supporting anti-Iran IAEA resolution - Fars News
+- 09/12 04:30 [financialjuice] CFTC Positions in the Week Ended September 8th

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 04:19 JST／対象: 09/11 04:19 〜 09/12 04:19 JST（時刻はすべて日本時間）
+生成: 2026-09-12 04:31 JST／対象: 09/11 04:31 〜 09/12 04:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/11 06:36 | 09/12 04:10 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 281 | 09/11 04:23 | 09/12 04:11 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 175 | 09/11 04:20 | 09/12 04:10 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 279 | 09/11 05:01 | 09/12 04:23 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 177 | 09/11 04:32 | 09/12 04:30 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 504 行（統合前 510 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 505 行（統合前 510 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 04:20 [financialjuice] US money-market fund assets fall to $7.97 trln at ICI
-- 09/11 04:21 [financialjuice/FirstSquawk] Saudi Civil Defence: Danger has passed in Khamis Mushait and Abha - State TV.
-- 09/11 04:22 [financialjuice] Friday FX Options Expiries
-- 09/11 04:31 [FirstSquawk] ØRSTED RECEIVES A FINAL TAX OPINION CONFIRMING THAT THE WALNEY EXTENSION AND HORNSEA 1 OFFSHORE WIND FARMS HAVE A GENUINE LEGAL AND ECONOMIC PURPOSE, WITH THE PROJECTS PRIMARILY TAXABLE IN THE COUNTRIES WHERE THEY OPERATE.
-- 09/11 04:31 [FirstSquawk] ØRSTED WILL HOLD TALKS WITH HMRC AND THE DANISH TAX AGENCY (DTA) TO RESOLVE THE APPLICATION OF THE OPINION AND ADDRESS OTHER PROJECTS AFFECTED BY SIMILAR TAX DECISIONS.
-- 09/11 04:31 [FirstSquawk] IRAN FM, PAKISTAN ARMY CHIEF DISCUSS REGIONAL TENSIONS - IRAN FM, VIA DBNEWS
 - 09/11 04:32 [financialjuice] SpaceX: Next starship flight will be revenue generating. $SPCX
 - 09/11 04:38 [financialjuice] SpaceX CFO: More conviction on $100b annual runrate revenue. $SPCX
 - 09/11 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 466.4 MLN NASDAQ 100: 464.1 MLN DOW 30: -128.5 MLN MAG 7: 336.9 MLN $MACRO
@@ -528,3 +522,10 @@
 - 09/12 04:10 [DeItaone] TRUMP VOWS $5,000 “DIVIDEND” FOR U.S. ADULTS President Donald Trump says his proposed $5,000 payment to U.S. adults “will happen,” arguing Americans deserve to benefit from what he described as trillions of dollars in economic development a…
 - 09/12 04:10 [financialjuice] Trump: The dividend will happen despite criticism from Democrats.
 - 09/12 04:11 [FirstSquawk] Trump on truth social The $5,000 Trump Dividend, given to all Adults in the United States due to the fact that our Country is taking in Trillions of Dollars of Economic Development, Investment, and Pure SUCCESS, is being criticized by “Dumo…
+- 09/12 04:22 [FirstSquawk] US: 99 COMMERCIAL VESSELS REDIRECTED IN BLOCKADE AGAINST IRAN
+- 09/12 04:23 [financialjuice] Monday FX Options Expiries
+- 09/12 04:23 [FirstSquawk] U.S. NAVY MH-60R SEA HAWK HELICOPTER GETS READY TO LAND ON USS BOXER (LHD 4). BOXER IS THE LEAD SHIP FOR THE BOXER AMPHIBIOUS READY GROUP AND 11TH MARINE EXPEDITIONARY UNIT, CONTINUING TO IMPLEMENT THE U.S. BLOCKADE ON IRAN. AS OF SEPTEMBER…
+- 09/12 04:27 [financialjuice] Iran's foreign Ministry Spokesperson: Our strikes have been against the source of the attacks, not the countries - Tasnim News
+- 09/12 04:29 [financialjuice] Iran Foreign Ministry spokesperson: Saudi Arabia, Japan and Jordan will face consequences for backing anti-Iran IAEA resolution - Fars News
+- 09/12 04:29 [financialjuice] Iran Foreign Ministry spokesperson: Iran will hold Saudi Arabia, Japan and Jordan accountable for supporting anti-Iran IAEA resolution - Fars News
+- 09/12 04:30 [financialjuice] CFTC Positions in the Week Ended September 8th
