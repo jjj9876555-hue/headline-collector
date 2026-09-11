@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 08:49 JST／対象: 09/11 08:49 〜 09/12 08:49 JST（時刻はすべて日本時間）
+生成: 2026-09-12 08:59 JST／対象: 09/11 08:59 〜 09/12 08:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/11 15:05 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
 | FirstSquawk | 265 | 09/11 09:00 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 194 | 09/11 08:50 | 09/12 08:47 | ⚠ 287分（10:47→15:34） |
+| financialjuice | 189 | 09/11 09:00 | 09/12 08:47 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 502 行（統合前 508 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 497 行（統合前 503 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 08:50 [financialjuice] JAPANESE BUSINESS SURVEY INDEX ACTUAL 7.6% (FORECAST -, PREVIOUS -1.8%) $MACRO
-- 09/11 08:50 [financialjuice] ❗ JAPANESE PPI YOY ACTUAL 7.6% (FORECAST 7.4%, PREVIOUS 7.2%) $MACRO
-- 09/11 08:50 [financialjuice] ❗ JAPANESE PPI MOM ACTUAL -0.2% (FORECAST 0%, PREVIOUS 0.1%) $MACRO
-- 09/11 08:50 [financialjuice] Japan Aug domestic CGPI falls 0.2% month-on-month, BoJ: poll 0.0%
-- 09/11 08:50 [financialjuice] Japan Aug domestic corporate goods price index up 7.6% yr/yr: BoJ (Poll +7.4%)
 - 09/11 09:00 [FirstSquawk] Trump says Iran’s inflation rate has reached 300%, speaking to Fox News.
 - 09/11 09:00 [financialjuice] S. Korea semiconductor exports surge 270.1% year on year from Sept. 1-10: customs agency
 - 09/11 09:00 [financialjuice] S.Korea sept 1-10 trade surplus provisional $10.4 billion: customs agency

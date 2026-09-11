@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 08:49 JST／対象: 09/11 20:49 〜 09/12 08:49 JST（時刻はすべて日本時間）
+生成: 2026-09-12 08:59 JST／対象: 09/11 20:59 〜 09/12 08:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/11 20:53 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
+| DeItaone | 22 | 09/11 21:30 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
 | FirstSquawk | 76 | 09/11 21:30 | 09/12 05:01 | 35分（23:55→00:31） |
-| financialjuice | 137 | 09/11 20:49 | 09/12 08:47 | ⚠ 58分（06:50→07:48） |
+| financialjuice | 136 | 09/11 21:00 | 09/12 08:47 | ⚠ 58分（06:50→07:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 236 行（統合前 239 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 233 行（統合前 236 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 20:49 [financialjuice] Yemen Houthi's Spokesperson to make statement at 9 AM ET
-- 09/11 20:53 [DeItaone] OIL SET FOR 8% WEEKLY SURGE AS SUPPLY RISKS MOUNT Oil remains on track for an 8%+ weekly gain as Middle East attacks threaten key supply routes, despite Brent retreating to around $104 and WTI below $100 Friday. Reuters reports Saudi crude …
-- 09/11 20:57 [DeItaone] CPI SET TO DECIDE NEXT WEEK’S FED HIKE Markets currently price a 61% chance of a 25-bp Fed hike on September 16, versus 39% for a hold, according to Kalshi. With consensus expecting 0.2% core and 0.4% headline CPI M/M, Friday’s inflation pr…
 - 09/11 21:00 [financialjuice] Secured overnight financing rate: 3.62% September 10th vs 3.64% September 9th.
 - 09/11 21:18 [financialjuice] Salesforce expands Agentforce with a new portfolio of AI agents $CRM
 - 09/11 21:30 [financialjuice] ‼ BREAKING: US CPI MOM ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.1%) $MACRO
