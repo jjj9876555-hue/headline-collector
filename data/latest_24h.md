@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 23:45 JST／対象: 09/10 23:45 〜 09/11 23:45 JST（時刻はすべて日本時間）
+生成: 2026-09-12 00:00 JST／対象: 09/11 00:00 〜 09/12 00:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 66 | 09/11 01:33 | 09/11 23:00 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 307 | 09/11 00:00 | 09/11 23:41 | ⚠ 81分（07:38→09:00） |
+| FirstSquawk | 309 | 09/11 00:00 | 09/11 23:55 | ⚠ 81分（07:38→09:00） |
 | financialjuice | 203 | 09/11 00:00 | 09/11 23:41 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 566 行（統合前 577 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 568 行（統合前 579 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -590,3 +590,5 @@
 - 09/11 23:23 [FirstSquawk] US PRESIDENT TRUMP: IRAN WILL NEVER POSSESS A NUCLEAR WEAPON
 - 09/11 23:41 [financialjuice] Kremlin: Russia is open to talks, seeks three-way meeting - IFX.
 - 09/11 23:41 [FirstSquawk] KREMLIN: RUSSIA OPEN TO TALKS, SEEKS THREE-WAY MEETING: IFX
+- 09/11 23:55 [FirstSquawk] INDIA PM MODI MET WITH PEZESHKIAN AND EMPHASIZED THE IMPORTANCE OF PERSISTENT EFFORTS FOR LASTING PEACE AND STABILITY IN THE REGION, SAID INDIA'S FOREIGN MINISTRY.
+- 09/11 23:55 [FirstSquawk] INDIA'S PM MODI MET WITH IRAN'S PEZESHKIAN, EMPHASIZING THE IMPORTANCE OF SAFEGUARDING NAVIGATION AND TRADE, AS WELL AS THE SAFETY AND WELL-BEING OF SAILORS.
