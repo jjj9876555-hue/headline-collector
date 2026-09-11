@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 04:43 JST／対象: 09/11 16:43 〜 09/12 04:43 JST（時刻はすべて日本時間）
+生成: 2026-09-12 04:58 JST／対象: 09/11 16:58 〜 09/12 04:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 09/11 16:47 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 120 | 09/11 16:58 | 09/12 04:42 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 132 | 09/11 17:01 | 09/12 04:30 | 37分（02:21→02:58） |
+| DeItaone | 38 | 09/11 17:08 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
+| FirstSquawk | 121 | 09/11 17:01 | 09/12 04:51 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 135 | 09/11 17:01 | 09/12 04:53 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 289 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 291 行（統合前 295 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 16:47 [DeItaone] U.S. DIESEL SURGES ABOVE $6, INFLATION RISK BUILDS U.S. diesel prices hit a record $6.06 a gallon, with California approaching $8, as global supply disruptions tighten the market. With diesel crucial to shipping, agriculture and constructio…
-- 09/11 16:57 [DeItaone] GULF STATES WEIGH TALKS WITH IRAN OVER HORMUZ Gulf states are considering rare talks with Iran next week over the future of the Strait of Hormuz, with Oman seeking a meeting of GCC and Iranian foreign ministers. The talks could focus on res…
-- 09/11 16:58 [FirstSquawk] HAWKISH POLICY SHIFT LEAVES NEAR-TERM RATE HIKES UNLIKELY
 - 09/11 17:01 [financialjuice] IEA: 2026 world oil demand to drop by 2.5 million bpd (prev. forecast 1.6 million bpd drop), citing impasse in US-Iran talks on resolving their conflict.
 - 09/11 17:01 [financialjuice/FirstSquawk] IEA sees total world oil supply 1.74 million bpd lower than demand in 2026 (prev. forecast 1.27 million bpd lower).
 - 09/11 17:01 [financialjuice/FirstSquawk] IEA now sees full recovery in oil supplies from gulf producers deferred until 2027.
@@ -313,3 +310,8 @@
 - 09/12 04:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON WARNED SAUDI ARABIA, JAPAN, AND JORDAN THAT THEY WILL FACE REPERCUSSIONS FOR SUPPORTING ANTI-IRAN IAEA RESOLUTION.
 - 09/12 04:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS IRAN WILL HOLD SAUDI ARABIA, JAPAN, AND JORDAN RESPONSIBLE FOR BACKING AN ANTI-IRAN IAEA RESOLUTION.
 - 09/12 04:42 [FirstSquawk] CITI NOW SEE FED RAISING RATES IN SEPTEMBER, RATE CUTS BY MID-2027
+- 09/12 04:48 [FirstSquawk] CENTCOM: AS OF SEPT. 11, U.S. FORCES HAVE REDIRECTED 99 COMMERCIAL VESSELS TO ENSURE TOTAL COMPLIANCE
+- 09/12 04:48 [financialjuice] Farage Reform UK gets £36 mln donation from Ben Delo - Telegraph
+- 09/12 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1520.0 MLN NASDAQ 100: -1245.7 MLN DOW 30: -528.4 MLN MAG 7: -891.7 MLN $MACRO
+- 09/12 04:51 [FirstSquawk] FED IS POISED FOR A RATE HIKE. IT RARELY STOPS AT ONE. – WSJ
+- 09/12 04:53 [financialjuice] The Fed Is Poised for a Rate Hike. It Rarely Stops at One - WSJ's Nick Timiraos

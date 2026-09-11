@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 04:43 JST／対象: 09/11 04:43 〜 09/12 04:43 JST（時刻はすべて日本時間）
+生成: 2026-09-12 04:58 JST／対象: 09/11 04:58 〜 09/12 04:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/11 06:36 | 09/12 04:10 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 283 | 09/11 05:01 | 09/12 04:42 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 175 | 09/11 04:51 | 09/12 04:30 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 285 | 09/11 05:01 | 09/12 04:51 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 176 | 09/11 05:02 | 09/12 04:53 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 507 行（統合前 512 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 510 行（統合前 516 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 466.4 MLN NASDAQ 100: 464.1 MLN DOW 30: -128.5 MLN MAG 7: 336.9 MLN $MACRO
-- 09/11 04:52 [financialjuice] Trump and JD Vance speak at the Republican midterm convention - WATCH LIVE
 - 09/11 05:01 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 171.22 POINTS, OR 0.65%, AT 26,082.12. S&P 500 UNOFFICIALLY CLOSES DOWN 45.92 POINTS, OR 0.60%, AT 7,590.44. DOW JONES INDUSTRIAL AVERAGE UNOFFICIALLY CLOSES DOWN 327.34 POINTS, OR 0.62%, AT 52,053.…
 - 09/11 05:02 [financialjuice/FirstSquawk] Yemeni Armed Forces launch missile attack on southern Saudi Arabia - IRNA
 - 09/11 05:08 [FirstSquawk] ADOBE Q3 ADJUSTED EPS RISES TO $6.13 FROM $6.09 EXPECTED, WHILE REVENUE REACHES $6.76 BILLION, ABOVE THE $6.70 BILLION ESTIMATE, AND ADJUSTED NET INCOME HITS $2.42 BILLION.
@@ -531,3 +529,8 @@
 - 09/12 04:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON WARNED SAUDI ARABIA, JAPAN, AND JORDAN THAT THEY WILL FACE REPERCUSSIONS FOR SUPPORTING ANTI-IRAN IAEA RESOLUTION.
 - 09/12 04:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS IRAN WILL HOLD SAUDI ARABIA, JAPAN, AND JORDAN RESPONSIBLE FOR BACKING AN ANTI-IRAN IAEA RESOLUTION.
 - 09/12 04:42 [FirstSquawk] CITI NOW SEE FED RAISING RATES IN SEPTEMBER, RATE CUTS BY MID-2027
+- 09/12 04:48 [FirstSquawk] CENTCOM: AS OF SEPT. 11, U.S. FORCES HAVE REDIRECTED 99 COMMERCIAL VESSELS TO ENSURE TOTAL COMPLIANCE
+- 09/12 04:48 [financialjuice] Farage Reform UK gets £36 mln donation from Ben Delo - Telegraph
+- 09/12 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1520.0 MLN NASDAQ 100: -1245.7 MLN DOW 30: -528.4 MLN MAG 7: -891.7 MLN $MACRO
+- 09/12 04:51 [FirstSquawk] FED IS POISED FOR A RATE HIKE. IT RARELY STOPS AT ONE. – WSJ
+- 09/12 04:53 [financialjuice] The Fed Is Poised for a Rate Hike. It Rarely Stops at One - WSJ's Nick Timiraos
