@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 12:44 JST／対象: 09/11 06:44 〜 09/11 12:44 JST（時刻はすべて日本時間）
+生成: 2026-09-11 12:58 JST／対象: 09/11 06:58 〜 09/11 12:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/11 07:31 | 09/11 08:48 | ⚠ 60分（07:31→08:32） |
-| FirstSquawk | 63 | 09/11 07:37 | 09/11 12:42 | ⚠ 81分（07:38→09:00） |
+| FirstSquawk | 65 | 09/11 07:37 | 09/11 12:45 | ⚠ 81分（07:38→09:00） |
 | financialjuice | 24 | 09/11 07:10 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 93 行（統合前 93 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 95 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -117,3 +117,5 @@
 - 09/11 12:30 [FirstSquawk] Three-month Japanese Treasury bills clear at a lowest price of 99.7050 and average 99.7228, while 12.8708% of bids are accepted at the lowest price.
 - 09/11 12:32 [FirstSquawk] Former Malaysian PM Najib’s pardon request delayed until the next Pardons Board meeting, officials say.
 - 09/11 12:42 [FirstSquawk] China’s Finance Ministry sets the yield at 1.38% in its 5-year bond auction, traders say.
+- 09/11 12:45 [FirstSquawk] Trump warns the U.S. could be badly positioned globally if it loses the race for AI leadership.
+- 09/11 12:45 [FirstSquawk] Trump dismisses concerns that artificial intelligence could lead to human extinction.

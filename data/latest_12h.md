@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 12:44 JST／対象: 09/11 00:44 〜 09/11 12:44 JST（時刻はすべて日本時間）
+生成: 2026-09-11 12:58 JST／対象: 09/11 00:58 〜 09/11 12:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 20 | 09/11 01:33 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 141 | 09/11 00:58 | 09/11 12:42 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 98 | 09/11 00:52 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
+| FirstSquawk | 142 | 09/11 01:00 | 09/11 12:45 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 97 | 09/11 01:00 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 253 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 00:52 [financialjuice] The Trump Administration partners with OpenAI to use AI tools - Fox Business
-- 09/11 00:58 [FirstSquawk] UAE PLANS TO INVEST €40 BILLION IN GERMANY.
 - 09/11 01:00 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 1.269M (FORECAST -1.275M, PREVIOUS -1.173M) $MACRO
 - 09/11 01:00 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL 2.087M (FORECAST -0.7M, PREVIOUS 0.796M) $MACRO
 - 09/11 01:00 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL -0.391M (FORECAST -1.35M, PREVIOUS -4.450M) $MACRO
@@ -277,3 +275,5 @@
 - 09/11 12:30 [FirstSquawk] Three-month Japanese Treasury bills clear at a lowest price of 99.7050 and average 99.7228, while 12.8708% of bids are accepted at the lowest price.
 - 09/11 12:32 [FirstSquawk] Former Malaysian PM Najib’s pardon request delayed until the next Pardons Board meeting, officials say.
 - 09/11 12:42 [FirstSquawk] China’s Finance Ministry sets the yield at 1.38% in its 5-year bond auction, traders say.
+- 09/11 12:45 [FirstSquawk] Trump warns the U.S. could be badly positioned globally if it loses the race for AI leadership.
+- 09/11 12:45 [FirstSquawk] Trump dismisses concerns that artificial intelligence could lead to human extinction.

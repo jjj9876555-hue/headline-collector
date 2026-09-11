@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 12:44 JST／対象: 09/10 12:44 〜 09/11 12:44 JST（時刻はすべて日本時間）
+生成: 2026-09-11 12:58 JST／対象: 09/10 12:58 〜 09/11 12:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/10 16:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 365 | 09/10 12:50 | 09/11 12:42 | ⚠ 81分（07:38→09:00） |
+| FirstSquawk | 366 | 09/10 12:58 | 09/11 12:45 | ⚠ 81分（07:38→09:00） |
 | financialjuice | 298 | 09/10 13:00 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 700 行（統合前 728 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 701 行（統合前 729 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 12:50 [FirstSquawk] Oceans set heat records for 100 straight days, prompting scientists to warn that the climate outlook is “not pretty.”
 - 09/10 12:58 [FirstSquawk] Gold prices remain above $4,400 as markets await fresh U.S. inflation data.
 - 09/10 13:00 [financialjuice] Saudi civil defence issues emergency warning for province of Khamis Mushait - post on X
 - 09/10 13:02 [financialjuice] IMF dropped leading candidate for chief economist role over Trump tariff comments: FT
@@ -724,3 +723,5 @@
 - 09/11 12:30 [FirstSquawk] Three-month Japanese Treasury bills clear at a lowest price of 99.7050 and average 99.7228, while 12.8708% of bids are accepted at the lowest price.
 - 09/11 12:32 [FirstSquawk] Former Malaysian PM Najib’s pardon request delayed until the next Pardons Board meeting, officials say.
 - 09/11 12:42 [FirstSquawk] China’s Finance Ministry sets the yield at 1.38% in its 5-year bond auction, traders say.
+- 09/11 12:45 [FirstSquawk] Trump warns the U.S. could be badly positioned globally if it loses the race for AI leadership.
+- 09/11 12:45 [FirstSquawk] Trump dismisses concerns that artificial intelligence could lead to human extinction.
