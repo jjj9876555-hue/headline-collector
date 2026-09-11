@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 13:18 JST／対象: 09/11 01:18 〜 09/11 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-11 13:34 JST／対象: 09/11 01:34 〜 09/11 13:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/11 01:33 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 142 | 09/11 01:36 | 09/11 13:13 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 80 | 09/11 01:25 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
+| DeItaone | 19 | 09/11 01:36 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 150 | 09/11 01:36 | 09/11 13:33 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 79 | 09/11 01:35 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 236 行（統合前 243 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 242 行（統合前 249 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 01:25 [financialjuice] Nvidia's CEO Huang: Investments are not circular. $NVDA
-- 09/11 01:33 [DeItaone] PENTAGON REJECTS AI “DOOMSDAY” WARNINGS Pentagon tech chief Emil Michael pushed back on warnings that AI could destroy humanity, calling fears of mass job losses and runaway AI part of a growing “doom loop.” Meanwhile, the Pentagon has alre…
 - 09/11 01:35 [financialjuice] ❗ Iran has resumed producing ballistic missiles - US and Middle East Officials cited by the WSJ
 - 09/11 01:35 [financialjuice] Iran producing ballistic missiles again - WSJ.
 - 09/11 01:36 [FirstSquawk] IRAN IS AGAIN MANUFACTURING BALLISTIC MISSILES, REVEALS WSJ.
@@ -260,3 +258,11 @@
 - 09/11 13:03 [FirstSquawk] INSURERS ZURICH AND ALLIANZ HAVE EXPOSURE LINKED TO RADIANT WORLD- FT
 - 09/11 13:04 [FirstSquawk] VIRGIN MEDIA O2 OWNERS TARGET £600MN IN COST CUTS - FT
 - 09/11 13:13 [FirstSquawk] Saudi Crown Prince MBS called on Trump to target the Houthis amid growing threats in the Red Sea, according to Axios.
+- 09/11 13:20 [FirstSquawk] Fears of higher U.S. interest rates ripple across global bond markets.-FT
+- 09/11 13:24 [FirstSquawk] Dubai airport operator plans to move fuel storage underground amid strike risks, according to the FT.
+- 09/11 13:25 [FirstSquawk] EU searches for new options to mobilize Russian assets in support of Ukraine, the FT reports.
+- 09/11 13:31 [FirstSquawk] South Korea’s Han calls for mutual benefits and commercial returns from strategic investment talks with the U.S.
+- 09/11 13:32 [FirstSquawk] South Korea’s Han says discussions with Washington on strategic investment projects are advancing.
+- 09/11 13:32 [FirstSquawk] South Korea plans to ease regulatory hurdles and improve the investment environment for foreign investors, Han says.
+- 09/11 13:32 [FirstSquawk] South Korea’s Han says the government does not discriminate against firms based on nationality.
+- 09/11 13:33 [FirstSquawk] New Zealand currency strengthens 0.53% to $0.5829.

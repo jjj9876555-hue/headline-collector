@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 13:18 JST／対象: 09/10 13:18 〜 09/11 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-11 13:34 JST／対象: 09/10 13:34 〜 09/11 13:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/10 16:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 360 | 09/10 13:18 | 09/11 13:13 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 288 | 09/10 13:30 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 363 | 09/10 13:45 | 09/11 13:33 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 287 | 09/10 13:47 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 685 行（統合前 713 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 687 行（統合前 715 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 13:18 [FirstSquawk] HD Hyundai Heavy Industries announces a 239 billion won investment in an SMR facility, alongside upgrades to its existing plant.
-- 09/10 13:19 [FirstSquawk] Japan’s next budget will face scrutiny from Fitch over the balance between economic support and fiscal restraint, a sovereign analyst says.
-- 09/10 13:26 [FirstSquawk] Artificial intelligence is expected to support U.S. economic growth, but could also threaten knowledge-worker employment and weigh on wages.
-- 09/10 13:30 [financialjuice] Dutch July manufacturing output rises 1.6% m/m: CBS
-- 09/10 13:32 [FirstSquawk] Malaysia’s palm oil inventories climb to 2.82 million tonnes in August, up 7.48% from July, according to MPOB.
-- 09/10 13:34 [FirstSquawk] Malaysia’s crude palm oil output increased 1.39% M/M to 1.82 million tons in August, according to MPOB.
 - 09/10 13:45 [FirstSquawk] Trump offers $5,000 to every US adult if Republicans secure victory in the November midterm elections.
 - 09/10 13:47 [FirstSquawk] Four killed after Russian air strikes hit Ukraine’s port of Mykolaiv, official says.
 - 09/10 13:47 [financialjuice] Russian air strikes hit Ukraine's Mykolaiv port, kill four: official
@@ -709,3 +703,11 @@
 - 09/11 13:03 [FirstSquawk] INSURERS ZURICH AND ALLIANZ HAVE EXPOSURE LINKED TO RADIANT WORLD- FT
 - 09/11 13:04 [FirstSquawk] VIRGIN MEDIA O2 OWNERS TARGET £600MN IN COST CUTS - FT
 - 09/11 13:13 [FirstSquawk] Saudi Crown Prince MBS called on Trump to target the Houthis amid growing threats in the Red Sea, according to Axios.
+- 09/11 13:20 [FirstSquawk] Fears of higher U.S. interest rates ripple across global bond markets.-FT
+- 09/11 13:24 [FirstSquawk] Dubai airport operator plans to move fuel storage underground amid strike risks, according to the FT.
+- 09/11 13:25 [FirstSquawk] EU searches for new options to mobilize Russian assets in support of Ukraine, the FT reports.
+- 09/11 13:31 [FirstSquawk] South Korea’s Han calls for mutual benefits and commercial returns from strategic investment talks with the U.S.
+- 09/11 13:32 [FirstSquawk] South Korea’s Han says discussions with Washington on strategic investment projects are advancing.
+- 09/11 13:32 [FirstSquawk] South Korea plans to ease regulatory hurdles and improve the investment environment for foreign investors, Han says.
+- 09/11 13:32 [FirstSquawk] South Korea’s Han says the government does not discriminate against firms based on nationality.
+- 09/11 13:33 [FirstSquawk] New Zealand currency strengthens 0.53% to $0.5829.
