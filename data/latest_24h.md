@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 15:57 JST／対象: 09/10 15:57 〜 09/11 15:57 JST（時刻はすべて日本時間）
+生成: 2026-09-11 16:17 JST／対象: 09/10 16:17 〜 09/11 16:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 64 | 09/10 16:41 | 09/11 15:46 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 361 | 09/10 15:58 | 09/11 15:45 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 273 | 09/10 17:00 | 09/11 15:37 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 65 | 09/10 16:41 | 09/11 16:08 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 357 | 09/10 16:27 | 09/11 16:15 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 274 | 09/10 17:00 | 09/11 16:05 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 676 行（統合前 704 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 673 行（統合前 702 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 15:58 [FirstSquawk] Ministry of Investment will facilitate the committee’s integration with the broader high-level committee structure.
-- 09/10 15:58 [FirstSquawk] UAE Ministry of Investment says FCCI UAE will oversee engagement and implementation efforts.
-- 09/10 15:58 [FirstSquawk] UAE Investment Ministry says it will facilitate stakeholder engagement and coordination across the broader investment ecosystem.
-- 09/10 15:59 [FirstSquawk] POTENTIAL US-SOUTH KOREA DEAL, WORTH OVER $100 BILLION, ENVISIONS SOUTH KOREA FINANCING UP TO 8 NUCLEAR POWER PLANTS AND A NATURAL-GAS PROJECT - WSJ
-- 09/10 16:01 [FirstSquawk] SPAIN (JUL) INDUSTRIAL OUTPUT NSA YOY ACTUAL: 2.6% VS 3.8% PREVIOUS
-- 09/10 16:01 [FirstSquawk] SPAIN (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: 0.6% VS -0.7% PREVIOUS;EST 0.2%
-- 09/10 16:02 [FirstSquawk] SPAIN (JUL) INDUSTRIAL OUTPUT SA YOY ACTUAL: 2.3% VS 1.1% PREVIOUS
-- 09/10 16:03 [FirstSquawk] IBM, LOCKHEED MARTIN ANNOUNCE SWISS QUANTUM INNOVATION HUB AT ETH ZURICH, ANCHORED BY SWITZERLAND'S FIRST IBM QUANTUM COMPUTER
-- 09/10 16:05 [FirstSquawk] TOYOTA MOTOR CORPORATION FILES RECALL OF 8,521 US VEHICLES: NHTSA
-- 09/10 16:10 [FirstSquawk] CHINA FOREIGN MINISTRY, ON INDIA PROPOSING PROBE INTO XIAOMI: HOPE INDIA WILL PROVIDE FAIR, JUST, NON-DISCRIMINATORY ENVIRONMENT FOR ALL COMPANIES IN INDIA
-- 09/10 16:12 [FirstSquawk] PBOC DEPT GOV: WANTS TO DEVELOP DIGITAL YUAN AT STEADY PACE
-- 09/10 16:14 [FirstSquawk] CHINA'S FOREIGN MINISTRY REJECTS US ACTIONS AGAINST HUAWEI, CALLING IT GOVERNMENT SUPPRESSION OF CHINESE FIRMS.
 - 09/10 16:27 [FirstSquawk] MIZUHO'S FIRST FEMALE HEAD OF WEALTH MANAGEMENT AIMS FOR SIXFOLD GROWTH IN ASSET ADVISORY BUSINESS, JOINING A SMALL GROUP OF WOMEN LEADERS IN JAPAN'S FINANCIAL INDUSTRY.
 - 09/10 16:32 [FirstSquawk] CHINA'S DEEPSEEK UNVEILS THE V4.1-FLASH MODEL.
 - 09/10 16:32 [FirstSquawk] HUAWEI INTRODUCES NEW OPTICAL TECHNOLOGY STANDARDS TO COMPETE WITH NVIDIA AND BROADCOM.
@@ -700,3 +688,12 @@
 - 09/11 15:42 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:00 AM ET — 🛒 Kroger Earnings 8:30 AM ET — 🇺🇸 August CPI + Real Earnings 10:00 AM ET — 🇺🇸 Michigan Consumer Sentiment 10:00 AM ET — 🇺🇸 Michigan Inflation Expectations 12:00 PM ET — 🏦 Fed Financial Acco…
 - 09/11 15:45 [FirstSquawk] SoftBank Group receives inaugural ‘BB+’ rating from Fitch with stable outlook.
 - 09/11 15:46 [DeItaone] FRANCE DEBT CANCELLATION PLAN SLAMMED AS “DANGEROUS” Bank of France chief Emmanuel Moulin warned that Jean-Luc Mélenchon’s proposal to cancel 18% of France’s national debt would amount to a default, calling it “illegal, dangerous and useles…
+- 09/11 16:00 [FirstSquawk] TURKEY (SEP) EXPECTED INFLATION NEXT 12MTH ACTUAL: 23.70% VS 23.69% PREVIOUS
+- 09/11 16:00 [FirstSquawk] TURKEY (JUL) CURRENT ACCOUNT BALANCE ACTUAL: 0.04B VS -4.19B PREVIOUS;EST 0.70B
+- 09/11 16:00 [FirstSquawk] SWITZERLAND (AUG) SECO CONSUMER CONFIDENCE ACTUAL: -32.8 VS -34.8 PREVIOUS;EST -32.0
+- 09/11 16:01 [FirstSquawk] TURKEY (JUL) RETAIL TRADE WDA YOY ACTUAL: 10.4% VS 11.8% PREVIOUS
+- 09/11 16:05 [financialjuice] China announces additional fuel price rise due to Iran war.
+- 09/11 16:07 [FirstSquawk/DeItaone] CHINA FOREIGN MINISTRY, ON ANTHROPIC ACCUSING CHINA AI LABS OF TARGETING CLAUDE: WE FIRMLY OPPOSE 'DISTORTION OF FACTS' AND SMEAR ATTACKS AGAINST CHINA
+- 09/11 16:09 [FirstSquawk] CHINA FOREIGN MINISTRY, ON XI AT BRICS SUMMIT: CHINA, INDIA ARE ARRANGING FOR A BILATERAL MEETING BETWEEN XI AND MODI
+- 09/11 16:10 [FirstSquawk] CHINA FOREIGN MINISTRY, ON TAIWAN VICE PRESIDENT VISITING ITALY: CHINA HAS LODGED SERIOUS PROTESTS WITH ITALY AND EU IN THIS REGARD
+- 09/11 16:15 [FirstSquawk] UK FINANCE MINISTER HEALEY: BRITAIN’S ECONOMY IS DEMONSTRATING A WELCOME RESILIENCE, DESPITE SERIOUS GLOBAL UNCERTAINTY

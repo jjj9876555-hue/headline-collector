@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 15:57 JST／対象: 09/11 09:57 〜 09/11 15:57 JST（時刻はすべて日本時間）
+生成: 2026-09-11 16:17 JST／対象: 09/11 10:17 〜 09/11 16:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/11 15:05 | 09/11 15:46 | 20分（15:05→15:25） |
-| FirstSquawk | 107 | 09/11 10:00 | 09/11 15:45 | 15分（13:50→14:06） |
-| financialjuice | 11 | 09/11 10:00 | 09/11 15:37 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 6 | 09/11 15:05 | 09/11 16:08 | 21分（15:46→16:08） |
+| FirstSquawk | 108 | 09/11 10:20 | 09/11 16:15 | 15分（13:50→14:06） |
+| financialjuice | 8 | 09/11 10:21 | 09/11 16:05 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 123 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 121 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus previous session open at 0.805%
-- 09/11 10:00 [FirstSquawk] Taiwan overnight rate remains steady at 0.805% at the start of trading.
-- 09/11 10:08 [FirstSquawk] Midland expects Hong Kong residential property prices to climb 15% this year.
-- 09/11 10:14 [FirstSquawk] Washington’s Iran sanctions raise fresh questions over the dollar’s global clout.
-- 09/11 10:15 [FirstSquawk] China’s central bank fixes the yuan midpoint at 6.7743 against the dollar.
-- 09/11 10:16 [financialjuice] Taiwan presidential office: Vice President Hsiao Bi-khim visits Italy
-- 09/11 10:16 [financialjuice] Taiwan presidential office: Vice President Hsiao accompanied by foreign minister in Italy
-- 09/11 10:17 [FirstSquawk] Taiwan says Vice President Hsiao Bi-khim is accompanied by the foreign minister on her Italy trip.
-- 09/11 10:17 [FirstSquawk] Vice President Hsiao Bi-khim travels to Italy, according to Taiwan’s presidential office.
-- 09/11 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 6, 2023
-- 09/11 10:17 [FirstSquawk] Yuan reference rate hits its strongest level in more than three years as China sets the midpoint.
 - 09/11 10:20 [FirstSquawk] ¥3.5 trillion Treasury discount bills offered by Japan.
 - 09/11 10:21 [financialjuice] China injects 4 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
 - 09/11 10:27 [FirstSquawk] Copper futures in Shanghai pull back more than 3%.
@@ -147,3 +136,12 @@
 - 09/11 15:42 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:00 AM ET — 🛒 Kroger Earnings 8:30 AM ET — 🇺🇸 August CPI + Real Earnings 10:00 AM ET — 🇺🇸 Michigan Consumer Sentiment 10:00 AM ET — 🇺🇸 Michigan Inflation Expectations 12:00 PM ET — 🏦 Fed Financial Acco…
 - 09/11 15:45 [FirstSquawk] SoftBank Group receives inaugural ‘BB+’ rating from Fitch with stable outlook.
 - 09/11 15:46 [DeItaone] FRANCE DEBT CANCELLATION PLAN SLAMMED AS “DANGEROUS” Bank of France chief Emmanuel Moulin warned that Jean-Luc Mélenchon’s proposal to cancel 18% of France’s national debt would amount to a default, calling it “illegal, dangerous and useles…
+- 09/11 16:00 [FirstSquawk] TURKEY (SEP) EXPECTED INFLATION NEXT 12MTH ACTUAL: 23.70% VS 23.69% PREVIOUS
+- 09/11 16:00 [FirstSquawk] TURKEY (JUL) CURRENT ACCOUNT BALANCE ACTUAL: 0.04B VS -4.19B PREVIOUS;EST 0.70B
+- 09/11 16:00 [FirstSquawk] SWITZERLAND (AUG) SECO CONSUMER CONFIDENCE ACTUAL: -32.8 VS -34.8 PREVIOUS;EST -32.0
+- 09/11 16:01 [FirstSquawk] TURKEY (JUL) RETAIL TRADE WDA YOY ACTUAL: 10.4% VS 11.8% PREVIOUS
+- 09/11 16:05 [financialjuice] China announces additional fuel price rise due to Iran war.
+- 09/11 16:07 [FirstSquawk/DeItaone] CHINA FOREIGN MINISTRY, ON ANTHROPIC ACCUSING CHINA AI LABS OF TARGETING CLAUDE: WE FIRMLY OPPOSE 'DISTORTION OF FACTS' AND SMEAR ATTACKS AGAINST CHINA
+- 09/11 16:09 [FirstSquawk] CHINA FOREIGN MINISTRY, ON XI AT BRICS SUMMIT: CHINA, INDIA ARE ARRANGING FOR A BILATERAL MEETING BETWEEN XI AND MODI
+- 09/11 16:10 [FirstSquawk] CHINA FOREIGN MINISTRY, ON TAIWAN VICE PRESIDENT VISITING ITALY: CHINA HAS LODGED SERIOUS PROTESTS WITH ITALY AND EU IN THIS REGARD
+- 09/11 16:15 [FirstSquawk] UK FINANCE MINISTER HEALEY: BRITAIN’S ECONOMY IS DEMONSTRATING A WELCOME RESILIENCE, DESPITE SERIOUS GLOBAL UNCERTAINTY
