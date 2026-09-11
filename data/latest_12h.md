@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 10:32 JST／対象: 09/10 22:32 〜 09/11 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-11 10:46 JST／対象: 09/10 22:46 〜 09/11 10:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/10 22:36 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 138 | 09/10 22:33 | 09/11 10:27 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 133 | 09/10 22:35 | 09/11 10:21 | ⚠ 48分（08:01→08:50） |
+| DeItaone | 28 | 09/10 23:00 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 137 | 09/10 22:48 | 09/11 10:41 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 129 | 09/10 22:47 | 09/11 10:39 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 292 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 287 行（統合前 296 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 22:33 [FirstSquawk] DOW JONES DOWN 232.28 POINTS, OR 0.44 PERCENT, AT 52,148.38 AFTER MARKET OPEN NASDAQ DOWN 248.90 POINTS, OR 0.95 PERCENT, AT 26,004.44 AFTER MARKET OPEN S&P 500 DOWN 43.77 POINTS, OR 0.57 %, AT 7,592.59 AFTER MARKET OPEN
-- 09/10 22:35 [financialjuice] ECB's President Lagarde: If energy shock longer than expected, we'll see second round effects and it will affect food prices.
-- 09/10 22:35 [financialjuice] Yemeni Armed Forces Gain Control of Zubayr City and the Strategic Zaqar Island Near Bab-el-Mandeb - Tasnim News.
-- 09/10 22:36 [financialjuice] ECB's Nagel: I am concerned about rise of right-wing parties.
-- 09/10 22:36 [DeItaone/FirstSquawk] ECB'S NAGEL: CONCERNED ABOUT RISE IN EURO-SCEPTIC PARTIES
-- 09/10 22:36 [financialjuice] ECB's Nagel: Euro-sceptic parties will make investors reluctant to invest in Germany.
-- 09/10 22:38 [financialjuice] ECB's President Lagarde ends the ECB press conference.
-- 09/10 22:39 [FirstSquawk] SPACEX OVERHAULS DATA CENTER BUILD-OUT, POTENTIALLY SLOWING EXPANSION - THE INFORMATION
-- 09/10 22:39 [FirstSquawk] YEMENI ARMED FORCES GAIN CONTROL OF ZUBAYR CITY AND THE STRATEGIC ZAQAR ISLAND NEAR BAB-EL-MANDEB - TASNIM
-- 09/10 22:40 [FirstSquawk] ECB'S LAGARDE: LONGER THAN EXPECTED ENERGY SHOCK WOULD SEE SECOND ROUND EFFECTS, WILL AFFECT FOOD PRICES
 - 09/10 22:47 [financialjuice] ECB projections assume exchange rate of $1.16 in 2026-2028.
 - 09/10 22:48 [financialjuice] ECB projections assume oil price of $89.5/barrel in 2026, $74 in 2027, and $73.60 in 2028.
 - 09/10 22:48 [FirstSquawk] ECB PROJECTIONS ASSUME OIL PRICE OF $89.5/BARREL IN 2026
@@ -316,3 +306,8 @@
 - 09/11 10:20 [FirstSquawk] ¥3.5 trillion Treasury discount bills offered by Japan.
 - 09/11 10:21 [financialjuice] China injects 4 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
 - 09/11 10:27 [FirstSquawk] Copper futures in Shanghai pull back more than 3%.
+- 09/11 10:33 [FirstSquawk] South Korean stocks fall sharply at the open as U.S. market losses weigh on sentiment.
+- 09/11 10:34 [FirstSquawk] Malaysia’s ringgit touches 4.073 per dollar, its weakest level in nearly a month.
+- 09/11 10:39 [financialjuice] Ukraine drones strike Ozon logistics center in Russia's Saratov, trigger fire: Ozon
+- 09/11 10:39 [FirstSquawk] Ozon reports a fire at its Saratov logistics hub after Ukrainian drones struck the facility.
+- 09/11 10:41 [FirstSquawk] 10-year JGB yield jumps 7.5 basis points, reaching 2.985%.

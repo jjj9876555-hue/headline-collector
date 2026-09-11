@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 10:32 JST／対象: 09/11 04:32 〜 09/11 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-11 10:46 JST／対象: 09/11 04:46 〜 09/11 10:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/11 06:36 | 09/11 08:48 | ⚠ 60分（07:31→08:32） |
-| FirstSquawk | 49 | 09/11 05:01 | 09/11 10:27 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 37 | 09/11 04:38 | 09/11 10:21 | ⚠ 48分（08:01→08:50） |
+| FirstSquawk | 53 | 09/11 05:01 | 09/11 10:41 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 37 | 09/11 04:51 | 09/11 10:39 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 92 行（統合前 93 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 96 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 04:38 [financialjuice] SpaceX CFO: More conviction on $100b annual runrate revenue. $SPCX
 - 09/11 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 466.4 MLN NASDAQ 100: 464.1 MLN DOW 30: -128.5 MLN MAG 7: 336.9 MLN $MACRO
 - 09/11 04:52 [financialjuice] Trump and JD Vance speak at the Republican midterm convention - WATCH LIVE
 - 09/11 05:01 [FirstSquawk] NASDAQ COMPOSITE UNOFFICIALLY CLOSES DOWN 171.22 POINTS, OR 0.65%, AT 26,082.12. S&P 500 UNOFFICIALLY CLOSES DOWN 45.92 POINTS, OR 0.60%, AT 7,590.44. DOW JONES INDUSTRIAL AVERAGE UNOFFICIALLY CLOSES DOWN 327.34 POINTS, OR 0.62%, AT 52,053.…
@@ -116,3 +115,8 @@
 - 09/11 10:20 [FirstSquawk] ¥3.5 trillion Treasury discount bills offered by Japan.
 - 09/11 10:21 [financialjuice] China injects 4 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
 - 09/11 10:27 [FirstSquawk] Copper futures in Shanghai pull back more than 3%.
+- 09/11 10:33 [FirstSquawk] South Korean stocks fall sharply at the open as U.S. market losses weigh on sentiment.
+- 09/11 10:34 [FirstSquawk] Malaysia’s ringgit touches 4.073 per dollar, its weakest level in nearly a month.
+- 09/11 10:39 [financialjuice] Ukraine drones strike Ozon logistics center in Russia's Saratov, trigger fire: Ozon
+- 09/11 10:39 [FirstSquawk] Ozon reports a fire at its Saratov logistics hub after Ukrainian drones struck the facility.
+- 09/11 10:41 [FirstSquawk] 10-year JGB yield jumps 7.5 basis points, reaching 2.985%.

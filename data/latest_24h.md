@@ -7,52 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 10:32 JST／対象: 09/10 10:32 〜 09/11 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-11 10:46 JST／対象: 09/10 10:46 〜 09/11 10:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/10 16:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 378 | 09/10 10:34 | 09/11 10:27 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 315 | 09/10 10:32 | 09/11 10:21 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 367 | 09/10 10:47 | 09/11 10:41 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 302 | 09/10 10:48 | 09/11 10:39 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 730 行（統合前 758 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 706 行（統合前 734 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 10:32 [financialjuice] BoJ board member Masu: BoJ likely to keep raising interest rates amid current loose financial conditions
-- 09/10 10:33 [financialjuice] BOJ board member Masu: pace and timing of rate increase will depend on likelihood of meeting baseline projections and risks, considering oil price changes, al-demand, and currency fluctuations
-- 09/10 10:34 [financialjuice] Multiple US military aircraft damaged in strikes overnight at Muwaffaq Salti Air Base in Jordan: CBS reporter on X
-- 09/10 10:34 [FirstSquawk] Masu says the BOJ should continue raising interest rates while current financial conditions remain accommodative.
-- 09/10 10:35 [financialjuice] BOJ board member Masu: rise in fuel, chemical prices may be one-off shock but could affect prices through distribution costs
-- 09/10 10:35 [FirstSquawk] BOJ policymaker Masu says the central bank will weigh its economic projections and key risks, including oil prices, AI demand and exchange-rate movements, when deciding the pace of rate hikes.
-- 09/10 10:36 [FirstSquawk] KOSPI drops 2% as selling pressure hits South Korean equities.
-- 09/10 10:36 [FirstSquawk] Several U.S. military aircraft sustained damage during overnight attacks targeting the Muwaffaq Salti Air Base in Jordan, according to CBS.
-- 09/10 10:36 [financialjuice] BOJ board member Masu: rising costs from Middle East conflict may drive overall prices higher
-- 09/10 10:36 [FirstSquawk] Masu says keeping underlying inflation from exceeding 2% by a wide margin is the BOJ’s most important objective.
-- 09/10 10:37 [financialjuice] BOJ's Masu: government measures to ease cost of living impact may increase demand, drive inflation higher
-- 09/10 10:39 [financialjuice] Boj’s Masu: recent 7% rise in producer prices requires attention as increase could boost consumer inflation more than before
-- 09/10 10:39 [FirstSquawk] BOJ policymaker Masu warns that fuel and chemical price gains, while potentially temporary, could have broader effects on inflation through distribution costs.
-- 09/10 10:40 [FirstSquawk] BOJ policymaker Masu says efforts to soften the impact of higher living costs could have the unintended effect of strengthening demand and raising inflation.
-- 09/10 10:40 [FirstSquawk] Masu says the 7% increase in producer prices is a key concern, with higher factory-gate costs potentially feeding into consumer prices more than before.
-- 09/10 10:40 [financialjuice] BOJ's Masu: food cost increases set to re-accelerate, may hold key to long-term inflation outlook
-- 09/10 10:41 [FirstSquawk] BOJ’s Masu says elevated producer-price growth could put greater pressure on consumer inflation as businesses pass on rising costs.
-- 09/10 10:42 [financialjuice] BOJ's Masu: Weak yen has greater effect on inflation than before, warrants attention
-- 09/10 10:42 [financialjuice] Boj's Masu: Japan no longer in deflation, must raise real interest rate above negative territory promptly
-- 09/10 10:42 [FirstSquawk] BOJ board member Masu warns that yen weakness is exerting a larger influence on prices than before, requiring attention.
-- 09/10 10:42 [FirstSquawk] BOJ board member Masu says with deflation no longer a concern, the central bank should aim to lift real interest rates from negative territory as soon as possible.
-- 09/10 10:43 [financialjuice] BOJ’s Masu: policy rate nearing estimated neutral range, must closely monitor price, job, financial conditions
-- 09/10 10:43 [FirstSquawk] Masu says with the BOJ policy rate nearing its estimated neutral range, the central bank must closely watch price trends, labor conditions and financial markets.
-- 09/10 10:44 [financialjuice] BOJ's Masu: Japan's financial conditions steady, rapid rate hikes possible if inflation picks up
-- 09/10 10:44 [FirstSquawk] Masu says the BOJ may need to accelerate monetary tightening if inflation picks up while financial conditions remain accommodative.
-- 09/10 10:45 [financialjuice] Boj's Masu: Boj Must Raise Rates Further and Push Policy Rate to Estimated Neutral Level to Prepare for Nimble Policy Moves
-- 09/10 10:45 [FirstSquawk] Masu says the BOJ should push its policy rate toward the estimated neutral range, allowing it to conduct monetary policy more flexibly.
-- 09/10 10:46 [FirstSquawk] Trump says the strategic waterway currently known as the Strait of Hormuz will be called the “Trump Strait.”
-- 09/10 10:46 [financialjuice] BOJ's Masu: no sign recent rate increases are weakening corporate demand for funds, concerned about potential overheating of corporate investment
 - 09/10 10:47 [FirstSquawk] BOJ board member Masu says corporate funding demand remains strong after recent rate hikes, raising concerns that investment activity could be running too hot.
 - 09/10 10:48 [financialjuice] BOJ's Masu: Debating maturity zones of JGBs held more crucial than balance sheet size
 - 09/10 10:48 [FirstSquawk] Masu says the BOJ will need to pay greater attention to the maturity composition of its JGB holdings when considering the appropriate balance-sheet size.
@@ -754,3 +725,8 @@
 - 09/11 10:20 [FirstSquawk] ¥3.5 trillion Treasury discount bills offered by Japan.
 - 09/11 10:21 [financialjuice] China injects 4 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
 - 09/11 10:27 [FirstSquawk] Copper futures in Shanghai pull back more than 3%.
+- 09/11 10:33 [FirstSquawk] South Korean stocks fall sharply at the open as U.S. market losses weigh on sentiment.
+- 09/11 10:34 [FirstSquawk] Malaysia’s ringgit touches 4.073 per dollar, its weakest level in nearly a month.
+- 09/11 10:39 [financialjuice] Ukraine drones strike Ozon logistics center in Russia's Saratov, trigger fire: Ozon
+- 09/11 10:39 [FirstSquawk] Ozon reports a fire at its Saratov logistics hub after Ukrainian drones struck the facility.
+- 09/11 10:41 [FirstSquawk] 10-year JGB yield jumps 7.5 basis points, reaching 2.985%.
