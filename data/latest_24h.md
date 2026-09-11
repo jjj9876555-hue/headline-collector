@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 20:32 JST／対象: 09/10 20:32 〜 09/11 20:32 JST（時刻はすべて日本時間）
+生成: 2026-09-11 20:45 JST／対象: 09/10 20:45 〜 09/11 20:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 63 | 09/10 20:46 | 09/11 20:23 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 360 | 09/10 20:33 | 09/11 20:20 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 289 | 09/10 20:38 | 09/11 20:13 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 65 | 09/10 20:46 | 09/11 20:45 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 357 | 09/10 20:54 | 09/11 20:35 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 288 | 09/10 21:00 | 09/11 20:43 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 692 行（統合前 718 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 692 行（統合前 716 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 20:33 [FirstSquawk] KREMLIN: RUSSIA WILL CONTINUE TO DESTROY VESSELS TRANSPORTING AMMUNITION FOR UKRAINE IN BLACK SEA
-- 09/10 20:38 [FirstSquawk] UN ATOMIC WATCHDOG SAYS LOSING CONTINUITY OF KNOWLEDGFE IN IRAN SAYS IAEA
-- 09/10 20:38 [financialjuice] UN Atomic Watchdog: Losing continuity of knowledge in Iran.
-- 09/10 20:40 [FirstSquawk/financialjuice] IAEA DOESN'T EXPECT RESUMPTION OF IRAN INSPECTIONS IN NEAR TERM
-- 09/10 20:42 [financialjuice/FirstSquawk] IAEA sees evidence of activity by Iran's Pickaxe Mountain.
 - 09/10 20:46 [DeItaone] US, IRAN PREPARE FOR PROTRACTED WAR Iran and the U.S. are reportedly preparing for a potentially prolonged conflict, with little sign of an imminent ceasefire or normalization of Middle East energy flows. Bloomberg reports Tehran remains co…
 - 09/10 20:48 [DeItaone] HOUTHIS CLOSE IN ON KEY RED SEA CHOKEPOINT Iran-aligned Houthis have seized Yemen’s port city of Mocha and are pushing toward Dhubab and the Bab el-Mandeb Strait, according to Reuters sources. Control of the strategic waterway could allow t…
 - 09/10 20:54 [FirstSquawk] STELLANTIS OPEL COMBO START IS NOW AVAILABLE TO ORDER AT PRICE STARTING FROM €22,400
@@ -716,3 +711,8 @@
 - 09/11 20:13 [financialjuice] China to further enhance computing infrastructure - CCTV
 - 09/11 20:20 [FirstSquawk] VOLKSWAGEN'S WORKS COUNCIL LEADER SAYS THEY FACE TOUGH COMPETITION FROM CHINESE COMPANIES WITH HIGH SUBSIDIES, URGING FOR A FAIR EUROPEAN FRAMEWORK.
 - 09/11 20:23 [DeItaone] FED’S WARSH FACES INDEPENDENCE TEST Fed Chair Kevin Warsh faces a credibility test as markets weigh whether he will hike rates despite President Trump’s push for lower borrowing costs. Macquarie says Warsh could position himself as a “reluc…
+- 09/11 20:34 [financialjuice] Iran's Foreign Ministry: IAEA risks becoming instrument for aggression.
+- 09/11 20:35 [FirstSquawk] IRAN CLAIMS IAEA MAY TURN INTO A TOOL FOR AGGRESSION.
+- 09/11 20:37 [DeItaone] IRAN ACCUSES IAEA OF HELPING JUSTIFY MILITARY ACTION Iran’s Foreign Ministry accused the IAEA and its Director General of politicizing technical nuclear assessments, claiming they have been used to build the case for military aggression aga…
+- 09/11 20:43 [financialjuice] Canadian Conservative Leader Poilievre: Tariff-free trade would help bring down inflation.
+- 09/11 20:45 [DeItaone] HOUTHIS TEASE “LARGE-SCALE” MILITARY OPERATION The Houthis are expected to announce what they describe as a “large-scale and significant military operation” at 4 PM local time / 2 PM London. Details of the operation have not yet been disclo…

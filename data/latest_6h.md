@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 20:32 JST／対象: 09/11 14:32 〜 09/11 20:32 JST（時刻はすべて日本時間）
+生成: 2026-09-11 20:45 JST／対象: 09/11 14:45 〜 09/11 20:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/11 15:05 | 09/11 20:23 | 37分（19:03→19:41） |
-| FirstSquawk | 105 | 09/11 14:33 | 09/11 20:20 | 21分（19:03→19:25） |
-| financialjuice | 36 | 09/11 15:34 | 09/11 20:13 | ⚠ 55分（16:05→17:01） |
+| DeItaone | 23 | 09/11 15:05 | 09/11 20:45 | 37分（19:03→19:41） |
+| FirstSquawk | 103 | 09/11 14:51 | 09/11 20:35 | 21分（19:03→19:25） |
+| financialjuice | 38 | 09/11 15:34 | 09/11 20:43 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 159 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 161 行（統合前 164 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 14:33 [FirstSquawk] Berlin pushes for Commerzbank to stay listed as UniCredit targets a deal, Reuters reports.
-- 09/11 14:41 [FirstSquawk] APPLE’S IPHONE 18 UPGRADE CYCLE LIKELY TO BOOST SOME SUPPLIERS-WSJ
-- 09/11 14:42 [FirstSquawk] Brent eases to $105.86 and WTI to $101.22, giving up part of their early Asian gains.
 - 09/11 14:51 [FirstSquawk] Italian foreign minister to avoid talks with Taiwanese officials during their Italy visit, RTRS says.
 - 09/11 14:53 [FirstSquawk] RBC trims its Puma price target to €23 from €25.
 - 09/11 15:02 [FirstSquawk] UK (JUL) MONTHLY GDP (MOM) ACTUAL: 0.4% VS 0.3% PREVIOUS;EST 0.0%
@@ -183,3 +180,8 @@
 - 09/11 20:13 [financialjuice] China to further enhance computing infrastructure - CCTV
 - 09/11 20:20 [FirstSquawk] VOLKSWAGEN'S WORKS COUNCIL LEADER SAYS THEY FACE TOUGH COMPETITION FROM CHINESE COMPANIES WITH HIGH SUBSIDIES, URGING FOR A FAIR EUROPEAN FRAMEWORK.
 - 09/11 20:23 [DeItaone] FED’S WARSH FACES INDEPENDENCE TEST Fed Chair Kevin Warsh faces a credibility test as markets weigh whether he will hike rates despite President Trump’s push for lower borrowing costs. Macquarie says Warsh could position himself as a “reluc…
+- 09/11 20:34 [financialjuice] Iran's Foreign Ministry: IAEA risks becoming instrument for aggression.
+- 09/11 20:35 [FirstSquawk] IRAN CLAIMS IAEA MAY TURN INTO A TOOL FOR AGGRESSION.
+- 09/11 20:37 [DeItaone] IRAN ACCUSES IAEA OF HELPING JUSTIFY MILITARY ACTION Iran’s Foreign Ministry accused the IAEA and its Director General of politicizing technical nuclear assessments, claiming they have been used to build the case for military aggression aga…
+- 09/11 20:43 [financialjuice] Canadian Conservative Leader Poilievre: Tariff-free trade would help bring down inflation.
+- 09/11 20:45 [DeItaone] HOUTHIS TEASE “LARGE-SCALE” MILITARY OPERATION The Houthis are expected to announce what they describe as a “large-scale and significant military operation” at 4 PM local time / 2 PM London. Details of the operation have not yet been disclo…
