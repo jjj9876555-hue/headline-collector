@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 18:34 JST／対象: 09/10 18:34 〜 09/11 18:34 JST（時刻はすべて日本時間）
+生成: 2026-09-11 18:52 JST／対象: 09/10 18:52 〜 09/11 18:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 09/10 18:50 | 09/11 18:23 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 362 | 09/10 18:38 | 09/11 18:25 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 290 | 09/10 18:42 | 09/11 18:21 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 65 | 09/10 19:09 | 09/11 18:48 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 364 | 09/10 18:53 | 09/11 18:48 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 289 | 09/10 19:28 | 09/11 18:21 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 692 行（統合前 723 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 693 行（統合前 724 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 18:38 [FirstSquawk] Europe Gas Prices Reach Highest Level Since Dec. 2022
-- 09/10 18:42 [financialjuice] UK Government: Houthis bear full responsibility for Yemen crisis.
-- 09/10 18:50 [DeItaone] TRUMP PLEDGES $5,000 DIVIDEND IF GOP WINS MIDTERMS President Donald Trump pledged a $5,000 payment to every U.S. adult citizen if Republicans retain control of both chambers of Congress, a plan estimated to cost around $1.2 trillion. Trump …
 - 09/10 18:53 [FirstSquawk] SAUDI ARAMCO IS CONSIDERING SELLING RUBBER MAKER ARLANXEO.
 - 09/10 19:02 [FirstSquawk] CHINA'S XI TO VISIT INDIA SEP 12-13, ATTEND BRICS SUMMIT - CHINESE STATE MEDIA
 - 09/10 19:09 [DeItaone] $AAPL - APPLE INC.: BOFA GLOBAL RESEARCH CUTS PRICE OBJECTIVE TO $370 FROM $380
@@ -716,3 +713,7 @@
 - 09/11 18:21 [financialjuice] SNB's Chairman Schlegel: Inflation recently ticked up in Switzerland.
 - 09/11 18:23 [DeItaone] BofA WARNS “BLASÉ” MARKETS SET FOR HIGHER VOLATILITY U.S. equity funds have seen $14.2 billion of outflows in three weeks, the largest since January, according to BofA. With Treasury yields surging, oil above $100 and diesel at record highs…
 - 09/11 18:25 [FirstSquawk] SNB'S SCHLEGEL PRESENTATION OMITS USUAL LINES ON FRANC, PRICES
+- 09/11 18:37 [FirstSquawk] SAUDI ARABIA CONDUCTED TWO AIRSTRIKES ON MOCHA AIRPORT IN WESTERN YEMEN ON FRIDAY, AS REPORTED BY HOUTHI-RUN AL-MASIRAH TV, PER AFP.
+- 09/11 18:44 [FirstSquawk] INSIDE GERMANY’S €3.4B TOMAHAWK MISSILE PLAN - POLITICO
+- 09/11 18:48 [FirstSquawk] GERMAN FINANCE MINISTRY SPOKESPERSON: COMMERZBANK IS IMPORTANT FOR SME FINANCING, GERMAN FINANCIAL SECTOR
+- 09/11 18:48 [DeItaone] 5% TREASURY YIELD SEEN AS KEY STOCK-MARKET DANGER ZONE With the 10-year Treasury yield above 4.96%, a Bloomberg survey shows investors increasingly see 5%-5.25% as the level that could trigger a 10% S&P 500 correction. Still, more than two-…

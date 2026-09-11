@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 18:34 JST／対象: 09/11 06:34 〜 09/11 18:34 JST（時刻はすべて日本時間）
+生成: 2026-09-11 18:52 JST／対象: 09/11 06:52 〜 09/11 18:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/11 06:36 | 09/11 18:23 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 175 | 09/11 07:37 | 09/11 18:25 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 54 | 09/11 06:40 | 09/11 18:21 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 22 | 09/11 07:31 | 09/11 18:48 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 178 | 09/11 07:37 | 09/11 18:48 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 52 | 09/11 07:10 | 09/11 18:21 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 248 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 249 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 06:36 [DeItaone] *BESSENT: GOING TO SANCTION A LARGE BANK ON MONDAY
-- 09/11 06:40 [financialjuice] Pentagon in talks to enter AI infrastructure funding with $5 billion loan - WSJ
-- 09/11 06:41 [financialjuice] Pentagon in talks to provide about $5 billion loan to Al cloud-computing startup FluidStack to strengthen US data-center supply chain - WSJ
 - 09/11 07:10 [financialjuice] Transwarp Technology Shanghai Co plans global offering of 14 million H shares
 - 09/11 07:11 [financialjuice] Transwarp Technology (Shanghai) Co international offer shares under global offering total 13.3 million H shares
 - 09/11 07:30 [financialjuice] NEW ZEALAND MANUFACTURING PMI ACTUAL 53.1 (FORECAST -, PREVIOUS 54.3) $MACRO
@@ -272,3 +269,7 @@
 - 09/11 18:21 [financialjuice] SNB's Chairman Schlegel: Inflation recently ticked up in Switzerland.
 - 09/11 18:23 [DeItaone] BofA WARNS “BLASÉ” MARKETS SET FOR HIGHER VOLATILITY U.S. equity funds have seen $14.2 billion of outflows in three weeks, the largest since January, according to BofA. With Treasury yields surging, oil above $100 and diesel at record highs…
 - 09/11 18:25 [FirstSquawk] SNB'S SCHLEGEL PRESENTATION OMITS USUAL LINES ON FRANC, PRICES
+- 09/11 18:37 [FirstSquawk] SAUDI ARABIA CONDUCTED TWO AIRSTRIKES ON MOCHA AIRPORT IN WESTERN YEMEN ON FRIDAY, AS REPORTED BY HOUTHI-RUN AL-MASIRAH TV, PER AFP.
+- 09/11 18:44 [FirstSquawk] INSIDE GERMANY’S €3.4B TOMAHAWK MISSILE PLAN - POLITICO
+- 09/11 18:48 [FirstSquawk] GERMAN FINANCE MINISTRY SPOKESPERSON: COMMERZBANK IS IMPORTANT FOR SME FINANCING, GERMAN FINANCIAL SECTOR
+- 09/11 18:48 [DeItaone] 5% TREASURY YIELD SEEN AS KEY STOCK-MARKET DANGER ZONE With the 10-year Treasury yield above 4.96%, a Bloomberg survey shows investors increasingly see 5%-5.25% as the level that could trigger a 10% S&P 500 correction. Still, more than two-…

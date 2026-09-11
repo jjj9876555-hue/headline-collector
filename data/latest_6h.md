@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 18:34 JST／対象: 09/11 12:34 〜 09/11 18:34 JST（時刻はすべて日本時間）
+生成: 2026-09-11 18:52 JST／対象: 09/11 12:52 〜 09/11 18:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/11 15:05 | 09/11 18:23 | 33分（16:08→16:41） |
-| FirstSquawk | 113 | 09/11 12:42 | 09/11 18:25 | 17分（16:40→16:58） |
+| DeItaone | 16 | 09/11 15:05 | 09/11 18:48 | 33分（16:08→16:41） |
+| FirstSquawk | 113 | 09/11 12:59 | 09/11 18:48 | 17分（16:40→16:58） |
 | financialjuice | 28 | 09/11 15:34 | 09/11 18:21 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 153 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 154 行（統合前 157 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 12:42 [FirstSquawk] China’s Finance Ministry sets the yield at 1.38% in its 5-year bond auction, traders say.
-- 09/11 12:45 [FirstSquawk] Trump warns the U.S. could be badly positioned globally if it loses the race for AI leadership.
-- 09/11 12:45 [FirstSquawk] Trump dismisses concerns that artificial intelligence could lead to human extinction.
 - 09/11 12:59 [FirstSquawk] U.S. officials say Washington will not directly intervene against the Houthis for now after Trump declined MBS, Axios reports.
 - 09/11 13:03 [FirstSquawk] IRAN AND GULF STATES TO MEET IN PUSH FOR HORMUZ DEAL- FT
 - 09/11 13:03 [FirstSquawk] INSURERS ZURICH AND ALLIANZ HAVE EXPOSURE LINKED TO RADIANT WORLD- FT
@@ -177,3 +174,7 @@
 - 09/11 18:21 [financialjuice] SNB's Chairman Schlegel: Inflation recently ticked up in Switzerland.
 - 09/11 18:23 [DeItaone] BofA WARNS “BLASÉ” MARKETS SET FOR HIGHER VOLATILITY U.S. equity funds have seen $14.2 billion of outflows in three weeks, the largest since January, according to BofA. With Treasury yields surging, oil above $100 and diesel at record highs…
 - 09/11 18:25 [FirstSquawk] SNB'S SCHLEGEL PRESENTATION OMITS USUAL LINES ON FRANC, PRICES
+- 09/11 18:37 [FirstSquawk] SAUDI ARABIA CONDUCTED TWO AIRSTRIKES ON MOCHA AIRPORT IN WESTERN YEMEN ON FRIDAY, AS REPORTED BY HOUTHI-RUN AL-MASIRAH TV, PER AFP.
+- 09/11 18:44 [FirstSquawk] INSIDE GERMANY’S €3.4B TOMAHAWK MISSILE PLAN - POLITICO
+- 09/11 18:48 [FirstSquawk] GERMAN FINANCE MINISTRY SPOKESPERSON: COMMERZBANK IS IMPORTANT FOR SME FINANCING, GERMAN FINANCIAL SECTOR
+- 09/11 18:48 [DeItaone] 5% TREASURY YIELD SEEN AS KEY STOCK-MARKET DANGER ZONE With the 10-year Treasury yield above 4.96%, a Bloomberg survey shows investors increasingly see 5%-5.25% as the level that could trigger a 10% S&P 500 correction. Still, more than two-…
