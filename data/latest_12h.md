@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 06:41 JST／対象: 09/11 18:41 〜 09/12 06:41 JST（時刻はすべて日本時間）
+生成: 2026-09-12 06:52 JST／対象: 09/11 18:52 〜 09/12 06:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 09/11 18:48 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 92 | 09/11 18:44 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 135 | 09/11 18:57 | 09/12 06:33 | 37分（02:21→02:58） |
+| DeItaone | 31 | 09/11 19:02 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
+| FirstSquawk | 90 | 09/11 18:53 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 136 | 09/11 18:57 | 09/12 06:50 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 258 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 256 行（統合前 259 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 18:44 [FirstSquawk] INSIDE GERMANY’S €3.4B TOMAHAWK MISSILE PLAN - POLITICO
-- 09/11 18:48 [FirstSquawk] GERMAN FINANCE MINISTRY SPOKESPERSON: COMMERZBANK IS IMPORTANT FOR SME FINANCING, GERMAN FINANCIAL SECTOR
-- 09/11 18:48 [DeItaone] 5% TREASURY YIELD SEEN AS KEY STOCK-MARKET DANGER ZONE With the 10-year Treasury yield above 4.96%, a Bloomberg survey shows investors increasingly see 5%-5.25% as the level that could trigger a 10% S&P 500 correction. Still, more than two-…
 - 09/11 18:53 [FirstSquawk] EU COMMISSION GIVES GREEN LIGHT FOR €6.1 BILLION TO SUPPORT UKRAINE'S AIR DEFENSE AND AMMUNITION.
 - 09/11 18:57 [FirstSquawk] SWISS NATIONAL BANK CHAIRMAN STATES THAT THE SWISS FRANC EXCHANGE RATE IS A CHALLENGE FOR THE SWISS ECONOMY, BUT THE REAL FRANC HAS REMAINED STABLE SINCE 2020.
 - 09/11 18:57 [financialjuice] SNB's Chairman Schlegel: Swiss Franc exchange rate a challenge for swiss economy, but real franc has been stable since 2020.
@@ -282,3 +279,4 @@
 - 09/12 06:22 [financialjuice] Putin: Ukraine conflict triggered by western elites pressuring Russia, aiming to pull Ukraine into NATO
 - 09/12 06:22 [financialjuice] Saudi civil defence: early warning issued in Khamis Mushait to signal possible threat
 - 09/12 06:33 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait
+- 09/12 06:50 [financialjuice] Iraqi military commander removed after probe confirms drone attacks on Saudi Arabia came from Iraq: Iraqi PM office

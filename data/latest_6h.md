@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 06:41 JST／対象: 09/12 00:41 〜 09/12 06:41 JST（時刻はすべて日本時間）
+生成: 2026-09-12 06:52 JST／対象: 09/12 00:52 〜 09/12 06:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
 | FirstSquawk | 43 | 09/12 01:04 | 09/12 05:01 | 27分（01:35→02:03） |
-| financialjuice | 64 | 09/12 00:52 | 09/12 06:33 | 37分（02:21→02:58） |
+| financialjuice | 64 | 09/12 00:58 | 09/12 06:50 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 108 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 00:52 [financialjuice] IIF: China equities see $3.5 bln outflow in August, China debt draws $0.2 bln inflow.
 - 09/12 00:58 [financialjuice] US CENTCOM: Admiral Cooper is in Saudi Arabia for meetings and coordination regarding the recent Houthi advances in Yemen - Al Jazeera source.
 - 09/12 01:00 [financialjuice] WASDE SOYBEAN END STOCKS ACTUAL 310M (FORECAST 298.5M, PREVIOUS 320M) $MACRO
 - 09/12 01:00 [financialjuice] WASDE COTTON END STOCKS ACTUAL 3.6M (FORECAST 3.9M, PREVIOUS 4M) $MACRO
@@ -132,3 +131,4 @@
 - 09/12 06:22 [financialjuice] Putin: Ukraine conflict triggered by western elites pressuring Russia, aiming to pull Ukraine into NATO
 - 09/12 06:22 [financialjuice] Saudi civil defence: early warning issued in Khamis Mushait to signal possible threat
 - 09/12 06:33 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait
+- 09/12 06:50 [financialjuice] Iraqi military commander removed after probe confirms drone attacks on Saudi Arabia came from Iraq: Iraqi PM office

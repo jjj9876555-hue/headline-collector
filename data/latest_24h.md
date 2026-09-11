@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 06:41 JST／対象: 09/11 06:41 〜 09/12 06:41 JST（時刻はすべて日本時間）
+生成: 2026-09-12 06:52 JST／対象: 09/11 06:52 〜 09/12 06:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 53 | 09/11 07:31 | 09/12 04:10 | ⚠ 376分（08:48→15:05） |
 | FirstSquawk | 268 | 09/11 07:37 | 09/12 05:01 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 187 | 09/11 07:10 | 09/12 06:33 | ⚠ 287分（10:47→15:34） |
+| financialjuice | 188 | 09/11 07:10 | 09/12 06:50 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 504 行（統合前 510 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 505 行（統合前 511 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -528,3 +528,4 @@
 - 09/12 06:22 [financialjuice] Putin: Ukraine conflict triggered by western elites pressuring Russia, aiming to pull Ukraine into NATO
 - 09/12 06:22 [financialjuice] Saudi civil defence: early warning issued in Khamis Mushait to signal possible threat
 - 09/12 06:33 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait
+- 09/12 06:50 [financialjuice] Iraqi military commander removed after probe confirms drone attacks on Saudi Arabia came from Iraq: Iraqi PM office
