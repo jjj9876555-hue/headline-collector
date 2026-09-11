@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 17:45 JST／対象: 09/10 17:45 〜 09/11 17:45 JST（時刻はすべて日本時間）
+生成: 2026-09-11 17:59 JST／対象: 09/10 17:59 〜 09/11 17:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 66 | 09/10 18:05 | 09/11 17:28 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 360 | 09/10 17:52 | 09/11 17:41 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 291 | 09/10 17:53 | 09/11 17:44 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 67 | 09/10 18:05 | 09/11 17:48 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 361 | 09/10 18:01 | 09/11 17:56 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 291 | 09/10 17:59 | 09/11 17:54 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 692 行（統合前 723 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 694 行（統合前 725 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 17:52 [FirstSquawk] BORING CO. RAISES $3 BILLION IN NEW FUNDING FROM UAE AND ASSOCIATED INVESTORS, PUTTING ELON MUSK’S TUNNELING COMPANY'S VALUE AT $23 BILLION.
-- 09/10 17:53 [FirstSquawk] US AI SAFETY BILL COULD BE PRESENTED AS SOON AS NEXT WEEK, ACCORDING TO SEMAFOR.
-- 09/10 17:53 [financialjuice] US AI safety bill may be introduced early as next week - Semafor
-- 09/10 17:55 [FirstSquawk] RYANAIR CEO: WE WILL BE DOWN VERY LOW SINGLE DIGITS IN Q2
 - 09/10 17:59 [financialjuice] China warns industrial companies against disorderly price competition.
 - 09/10 17:59 [financialjuice] China to conduct cost probe in major industrial-product sectors.
 - 09/10 18:01 [FirstSquawk] RUSSIAN DEFENSE MINISTRY CLAIMS CONTROL OF ZARUBINKA TOWN IN KHARKIV REGION.
@@ -716,3 +712,9 @@
 - 09/11 17:42 [financialjuice] French Finance Minister Lescure: Debt service costs seen at 65 billion euros this year, an increase of 4.5 billion euros from what was planned due to geopolitical crisis.
 - 09/11 17:43 [financialjuice] France Fin. Min. Lescure: 2027 growth forecast unrevised at 1.0%.
 - 09/11 17:44 [financialjuice] France Fin. Min. Lescure: We see 2026 inflation of 2.1%, 1.8% in 2027.
+- 09/11 17:46 [FirstSquawk] FRANCE HAS REDUCED ITS 2026 GDP GROWTH PREDICTION TO 0.5% AND EXPECTS 1% GROWTH IN 2027.
+- 09/11 17:48 [DeItaone] *FRANCE CUTS 2026 GDP GROWTH FORECAST TO 0.5%, SEES +1% IN 2027
+- 09/11 17:54 [financialjuice] Japan 2026 extraordinary diet session eyed 69 days - Kyodo
+- 09/11 17:55 [FirstSquawk] UAE COMMITTED €40BN (~$46BN) IN NEW INVESTMENTS IN GERMANY, ADDING TO ABOUT €34BN ALREADY INVESTED, DURING SHEIKH MOHAMED BIN ZAYED'S VISIT.
+- 09/11 17:55 [FirstSquawk] THE MONEY FOCUSES ON INDUSTRY, AI/TECH, DIGITAL INFRASTRUCTURE, AND ENERGY WITH ABOUT 1 GW OF NEW DATA CENTERS; €10BN IS SET ASIDE FOR BAVARIA. IN ADDITION, COMPANIES SIGNED 29 AGREEMENTS WORTH OVER €9.4BN, AND GERMANY APPROVED DAILY FLIGHT…
+- 09/11 17:56 [FirstSquawk] EUROPEAN CENTRAL BANK INCREASED INTEREST RATES TODAY AS ANTICIPATED, SHOWING THE EUROZONE IS EXPERIENCING NEW INFLATION CHALLENGES.

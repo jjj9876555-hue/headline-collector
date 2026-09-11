@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 17:45 JST／対象: 09/11 11:45 〜 09/11 17:45 JST（時刻はすべて日本時間）
+生成: 2026-09-11 17:59 JST／対象: 09/11 11:59 〜 09/11 17:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 09/11 15:05 | 09/11 17:28 | 33分（16:08→16:41） |
-| FirstSquawk | 110 | 09/11 11:53 | 09/11 17:41 | 17分（16:40→16:58） |
-| financialjuice | 24 | 09/11 15:34 | 09/11 17:44 | ⚠ 55分（16:05→17:01） |
+| DeItaone | 13 | 09/11 15:05 | 09/11 17:48 | 33分（16:08→16:41） |
+| FirstSquawk | 112 | 09/11 12:01 | 09/11 17:56 | 17分（16:40→16:58） |
+| financialjuice | 25 | 09/11 15:34 | 09/11 17:54 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 143 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 147 行（統合前 150 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 11:53 [FirstSquawk] JPMorgan lowers AB Foods’ target price to 1,645p from 1,700p.
-- 09/11 11:54 [FirstSquawk] Nikkei reports Astemo will invest $379 million in Kentucky to increase electric motor production.
 - 09/11 12:01 [FirstSquawk] Russia’s Volgograd region reports damage to an industrial facility from missile debris.
 - 09/11 12:10 [FirstSquawk] Barclays forecasts another 25-bps ECB rate increase at the December 2026 meeting.
 - 09/11 12:25 [FirstSquawk] Hezbollah tunnel network in southern Lebanon destroyed by Israel, triggering tremors.
@@ -167,3 +165,9 @@
 - 09/11 17:42 [financialjuice] French Finance Minister Lescure: Debt service costs seen at 65 billion euros this year, an increase of 4.5 billion euros from what was planned due to geopolitical crisis.
 - 09/11 17:43 [financialjuice] France Fin. Min. Lescure: 2027 growth forecast unrevised at 1.0%.
 - 09/11 17:44 [financialjuice] France Fin. Min. Lescure: We see 2026 inflation of 2.1%, 1.8% in 2027.
+- 09/11 17:46 [FirstSquawk] FRANCE HAS REDUCED ITS 2026 GDP GROWTH PREDICTION TO 0.5% AND EXPECTS 1% GROWTH IN 2027.
+- 09/11 17:48 [DeItaone] *FRANCE CUTS 2026 GDP GROWTH FORECAST TO 0.5%, SEES +1% IN 2027
+- 09/11 17:54 [financialjuice] Japan 2026 extraordinary diet session eyed 69 days - Kyodo
+- 09/11 17:55 [FirstSquawk] UAE COMMITTED €40BN (~$46BN) IN NEW INVESTMENTS IN GERMANY, ADDING TO ABOUT €34BN ALREADY INVESTED, DURING SHEIKH MOHAMED BIN ZAYED'S VISIT.
+- 09/11 17:55 [FirstSquawk] THE MONEY FOCUSES ON INDUSTRY, AI/TECH, DIGITAL INFRASTRUCTURE, AND ENERGY WITH ABOUT 1 GW OF NEW DATA CENTERS; €10BN IS SET ASIDE FOR BAVARIA. IN ADDITION, COMPANIES SIGNED 29 AGREEMENTS WORTH OVER €9.4BN, AND GERMANY APPROVED DAILY FLIGHT…
+- 09/11 17:56 [FirstSquawk] EUROPEAN CENTRAL BANK INCREASED INTEREST RATES TODAY AS ANTICIPATED, SHOWING THE EUROZONE IS EXPERIENCING NEW INFLATION CHALLENGES.
