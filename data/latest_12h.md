@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 19:44 JST／対象: 09/11 07:44 〜 09/11 19:44 JST（時刻はすべて日本時間）
+生成: 2026-09-11 19:58 JST／対象: 09/11 07:58 〜 09/11 19:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/11 08:32 | 09/11 19:41 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 185 | 09/11 09:00 | 09/11 19:38 | 21分（19:03→19:25） |
+| FirstSquawk | 186 | 09/11 09:00 | 09/11 19:56 | 21分（19:03→19:25） |
 | financialjuice | 54 | 09/11 08:01 | 09/11 19:33 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 260 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 261 行（統合前 264 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -284,3 +284,4 @@
 - 09/11 19:38 [FirstSquawk] MAKHLOUF WARNS THAT A PROLONGED TRADE WAR MAY KEEP INFLATION HIGH.
 - 09/11 19:38 [FirstSquawk] ECB'S MAKHLOUF SAYS FURTHER RATE HIKES MIGHT DAMAGE ECONOMIC GROWTH.
 - 09/11 19:41 [DeItaone] AI USED TO SUPPORT MISSILE DEVELOPMENT IN YEMEN Anthropic says it uncovered a northern Yemen-based group using Claude to assist with missile and rocket development, including guidance and navigation software. The group reportedly worked on …
+- 09/11 19:56 [FirstSquawk] Kroger Q2 2026 Earnings - Adj EPS $1.09 (est $1.05) - Sales $34.6B (est $34.69B) - Identical-Store Sales Ex-Fuel +0.2% (est +0.88%) - Still Sees FY Adj EPS $5.10 To $5.30 (est $5.22) - Still Sees FY CAPEX $3.8B To $4.03 (est $3.95B)
