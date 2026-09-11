@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 19:58 JST／対象: 09/11 13:58 〜 09/11 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 20:17 JST／対象: 09/11 14:17 〜 09/11 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/11 15:05 | 09/11 19:41 | 37分（19:03→19:41） |
-| FirstSquawk | 108 | 09/11 14:06 | 09/11 19:56 | 21分（19:03→19:25） |
-| financialjuice | 34 | 09/11 15:34 | 09/11 19:33 | ⚠ 55分（16:05→17:01） |
+| DeItaone | 20 | 09/11 15:05 | 09/11 20:06 | 37分（19:03→19:41） |
+| FirstSquawk | 105 | 09/11 14:23 | 09/11 20:04 | 21分（19:03→19:25） |
+| financialjuice | 36 | 09/11 15:34 | 09/11 20:13 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 158 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 14:06 [FirstSquawk] YEN’S NEAR-TERM OUTLOOK DEPENDS ON BOJ SEPTEMBER GUIDANCE-WSJ
-- 09/11 14:07 [FirstSquawk] VANCE FIRES UP REPUBLICANS AS TRUMP CLOSES OUT GOP CONVENTION-WSJ
-- 09/11 14:09 [FirstSquawk] Seoul and Tehran’s foreign ministers hold phone talks, according to Yonhap.
-- 09/11 14:10 [FirstSquawk] South Korea and Iran hold talks focused on the Strait of Hormuz, foreign ministry says.
 - 09/11 14:23 [FirstSquawk] Russia’s Tula region reports 2 dead and 3 injured after Ukrainian drone attack.
 - 09/11 14:33 [FirstSquawk] Berlin pushes for Commerzbank to stay listed as UniCredit targets a deal, Reuters reports.
 - 09/11 14:41 [FirstSquawk] APPLE’S IPHONE 18 UPGRADE CYCLE LIKELY TO BOOST SOME SUPPLIERS-WSJ
@@ -182,3 +178,7 @@
 - 09/11 19:38 [FirstSquawk] ECB'S MAKHLOUF SAYS FURTHER RATE HIKES MIGHT DAMAGE ECONOMIC GROWTH.
 - 09/11 19:41 [DeItaone] AI USED TO SUPPORT MISSILE DEVELOPMENT IN YEMEN Anthropic says it uncovered a northern Yemen-based group using Claude to assist with missile and rocket development, including guidance and navigation software. The group reportedly worked on …
 - 09/11 19:56 [FirstSquawk] Kroger Q2 2026 Earnings - Adj EPS $1.09 (est $1.05) - Sales $34.6B (est $34.69B) - Identical-Store Sales Ex-Fuel +0.2% (est +0.88%) - Still Sees FY Adj EPS $5.10 To $5.30 (est $5.22) - Still Sees FY CAPEX $3.8B To $4.03 (est $3.95B)
+- 09/11 20:01 [financialjuice] EU put on hold proposal for trade measure on aluminum scrap.
+- 09/11 20:04 [FirstSquawk] GERMAN UNION IG METALL IS USING A REVISION CLAUSE TO DISCUSS WITH VOLKSWAGEN IF THEY WILL KEEP THEIR AGREEMENT.
+- 09/11 20:06 [DeItaone] RUSSIA, INDIA EXPLORE DIGITAL CURRENCY TRADE SETTLEMENTS Russia and India’s central banks are working on a mechanism to use digital currencies for bilateral trade payments, according to Sberbank CEO Herman Gref. The initiative could enable …
+- 09/11 20:13 [financialjuice] China to further enhance computing infrastructure - CCTV

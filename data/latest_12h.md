@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 19:58 JST／対象: 09/11 07:58 〜 09/11 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 20:17 JST／対象: 09/11 08:17 〜 09/11 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/11 08:32 | 09/11 19:41 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 186 | 09/11 09:00 | 09/11 19:56 | 21分（19:03→19:25） |
-| financialjuice | 54 | 09/11 08:01 | 09/11 19:33 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 25 | 09/11 08:32 | 09/11 20:06 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 187 | 09/11 09:00 | 09/11 20:04 | 21分（19:03→19:25） |
+| financialjuice | 55 | 09/11 08:50 | 09/11 20:13 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 261 行（統合前 264 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 264 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 08:01 [financialjuice] Meta declares quarterly cash dividend of $0.53 per share payable Sept. 28, 2026
 - 09/11 08:32 [DeItaone] *TRUMP: MAYBE I DON'T GO FULL INTO IRAN BECAUSE OF ELECTION
 - 09/11 08:39 [DeItaone] U.S. DIESEL BREAKS $6 FOR FIRST TIME EVER The U.S. average diesel price surpassed $6 a gallon for the first time, according to GasBuddy, up nearly 60% since the Iran war began. Supply remains extremely tight, with U.S. diesel inventories 13…
 - 09/11 08:41 [DeItaone] APPLE’S $1,999 FOLDABLE FACES DEMAND TEST Apple’s new iPhone Duo starts at $1,999, but analysts question whether its appeal can extend beyond wealthy early adopters. Counterpoint still expects Apple to sell nearly 6 million units by year-en…
@@ -285,3 +284,7 @@
 - 09/11 19:38 [FirstSquawk] ECB'S MAKHLOUF SAYS FURTHER RATE HIKES MIGHT DAMAGE ECONOMIC GROWTH.
 - 09/11 19:41 [DeItaone] AI USED TO SUPPORT MISSILE DEVELOPMENT IN YEMEN Anthropic says it uncovered a northern Yemen-based group using Claude to assist with missile and rocket development, including guidance and navigation software. The group reportedly worked on …
 - 09/11 19:56 [FirstSquawk] Kroger Q2 2026 Earnings - Adj EPS $1.09 (est $1.05) - Sales $34.6B (est $34.69B) - Identical-Store Sales Ex-Fuel +0.2% (est +0.88%) - Still Sees FY Adj EPS $5.10 To $5.30 (est $5.22) - Still Sees FY CAPEX $3.8B To $4.03 (est $3.95B)
+- 09/11 20:01 [financialjuice] EU put on hold proposal for trade measure on aluminum scrap.
+- 09/11 20:04 [FirstSquawk] GERMAN UNION IG METALL IS USING A REVISION CLAUSE TO DISCUSS WITH VOLKSWAGEN IF THEY WILL KEEP THEIR AGREEMENT.
+- 09/11 20:06 [DeItaone] RUSSIA, INDIA EXPLORE DIGITAL CURRENCY TRADE SETTLEMENTS Russia and India’s central banks are working on a mechanism to use digital currencies for bilateral trade payments, according to Sberbank CEO Herman Gref. The initiative could enable …
+- 09/11 20:13 [financialjuice] China to further enhance computing infrastructure - CCTV
