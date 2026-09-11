@@ -7,83 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 09:07 JST／対象: 09/10 21:07 〜 09/11 09:07 JST（時刻はすべて日本時間）
+生成: 2026-09-11 09:32 JST／対象: 09/10 21:32 〜 09/11 09:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 39 | 09/10 21:08 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 167 | 09/10 21:08 | 09/11 09:06 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 231 | 09/10 21:15 | 09/11 09:00 | ⚠ 48分（08:01→08:50） |
+| DeItaone | 31 | 09/10 21:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 156 | 09/10 21:32 | 09/11 09:24 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 196 | 09/10 21:33 | 09/11 09:28 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 422 行（統合前 443 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 368 行（統合前 389 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 21:08 [DeItaone] $AAPL - MORGAN STANLEY SEES “APPLE AI” BULL CASE STRENGTHENING Morgan Stanley analyst Erik Woodring maintains Overweight with a $360 price target, saying Apple’s latest launches represent a major step-up in innovation. He sees the iPhone Du…
-- 09/10 21:08 [FirstSquawk] BRENT OIL HITS $104 A BARREL AFTER SAUDIS REPORT OUTPUT SLUMP
-- 09/10 21:15 [FirstSquawk] ECB INTEREST RATE DECISION (SEP) ACTUAL: 2.65% VS 2.40% PREVIOUS; EST 2.65%
-- 09/10 21:15 [FirstSquawk] ECB DEPOSIT FACILITY RATE (SEP) ACTUAL: 2.50% VS 2.25% PREVIOUS; EST 2.50%
-- 09/10 21:15 [financialjuice] ‼ BREAKING: ECB DEPOSIT RATE ACTUAL 2.5% (FORECAST 2.5%, PREVIOUS 2.25%) $MACRO
-- 09/10 21:15 [financialjuice] ❗ ECB INTEREST RATE ACTUAL 2.65% (FORECAST 2.65%, PREVIOUS 2.40%) $MACRO
-- 09/10 21:15 [DeItaone] ECB SAYS INTEREST RATES ECB DECIDED TO RAISE THREE INTEREST RATES BY 25 BASIS POINTS
-- 09/10 21:15 [financialjuice] ECB not pre-committing to a particular rate path.
-- 09/10 21:15 [financialjuice] ECB: outlook remains highly uncertain, with inflation risks to upside and economic growth risks to downside
-- 09/10 21:16 [financialjuice] ECB: baseline of new staff projections sees headline inflation averaging 3.0% in 2026, 2.5% in 2027 and 2.1% in 2028
-- 09/10 21:16 [financialjuice] ECB: inflation excluding energy and food projections at 2.5% in 2026, 2.6% in 2027 and 2.3% in 2028
-- 09/10 21:16 [financialjuice] ECB: baseline inflation projection for 2026 unchanged from June, revised higher for 2027 and 2028
-- 09/10 21:16 [financialjuice] ECB baseline forecast for economic growth is 0.9% for 2026, 1.4% for 2027 and 1.5% for 2028
-- 09/10 21:16 [DeItaone] ECB HIKES RATES 25 BPS AS INFLATION RISKS RISE The ECB raised rates by 25 basis points, taking the deposit rate to 2.50%, as the Middle East conflict keeps inflation pressures elevated. The ECB now sees inflation averaging 3.0% in 2026, 2.5…
-- 09/10 21:16 [financialjuice] ECB: Updated scenarios highlight broad range of growth and inflation outcomes amid energy shock
-- 09/10 21:16 [financialjuice] ECB: with today's choice, ECB stays well placed to handle uncertainty from conflict
-- 09/10 21:16 [financialjuice] ECB: will adopt data-dependent, meeting-by-meeting approach to monetary policy stance
-- 09/10 21:16 [financialjuice] ECB: interest rate decisions will be based on inflation outlook and risks amid economic, financial data
-- 09/10 21:16 [financialjuice] ECB: APP, PEPP holdings falling at steady, foreseeable rate
-- 09/10 21:16 [financialjuice] ECB is well placed to manage uncertainty from Iran conflict
-- 09/10 21:16 [financialjuice] ECB to adopt data-dependent, meeting-by-meeting approach
-- 09/10 21:16 [financialjuice] ECB: Governing council prepared to modify all tools
-- 09/10 21:16 [financialjuice] ECB to decide based on inflation outlook, surrounding risks
-- 09/10 21:17 [financialjuice] ECB sees 2026 inflation at 3%; previous forecast 3%
-- 09/10 21:17 [financialjuice] ECB: inflation risks skewed to the upside
-- 09/10 21:17 [financialjuice] ECB new inflation projection: 3.0% in 2026, 2.5% in 2027 and 2.1% in 2028
-- 09/10 21:17 [financialjuice] ECB's new growth forecasts: 0.9% for 2026, 1.4% for 2027 and 1.5% for 2028
-- 09/10 21:17 [financialjuice] ECB to consider incoming data, core inflation, transmission
-- 09/10 21:17 [DeItaone] *ECB RAISES INFLATION OUTLOOK FOR NEXT 2 YEARS; SEES 2.1% IN '28
-- 09/10 21:17 [financialjuice] ECB sees 2027 inflation at 2.5%, prior forecast 2.3%
-- 09/10 21:17 [financialjuice] ECB: risks tilt to downside for economic growth
-- 09/10 21:17 [financialjuice] EUR/USD extends decline after ECB, down 0.2% to 1.1613
-- 09/10 21:17 [financialjuice] ECB: Middle East conflict continues to drive inflation pressures, inflation to stay well above target for prolonged period
-- 09/10 21:17 [financialjuice] ECB: committed to policy stabilising inflation at 2% over medium term
-- 09/10 21:17 [financialjuice] ECB sees 2027 GDP growth at 1.4%, up from prior 1.2% forecast
-- 09/10 21:17 [financialjuice] ECB: updated scenarios show broad range of growth and inflation outcomes amid energy shock
-- 09/10 21:18 [FirstSquawk] ECB SAYS INFLATION WILL STAY ABOVE 2% FOR `EXTENDED PERIOD'
-- 09/10 21:18 [DeItaone] DOLLAR/YEN EXTENDS RISE, UP AS MUCH AS 0.5% AT 154.3
-- 09/10 21:18 [FirstSquawk] TRADERS KEEP ECB RATE BETS STEADY; SEE ONE MORE HIKE IN 2026
-- 09/10 21:19 [FirstSquawk] ECB SAYS ECB TODAY DECIDED TO RAISE THREE INTEREST RATES BY 25 BASIS POINTS || SAYS BASELINE OF NEW ECB STAFF PROJECTIONS SEES HEADLINE INFLATION AVERAGING 3.0% IN 2026, 2.5% IN 2027 AND 2.1% IN 2028
-- 09/10 21:19 [FirstSquawk] ECB SAYS FOR INFLATION EXCLUDING ENERGY AND FOOD, BASELINE FORESEES 2.5% IN 2026, 2.6% IN 2027 AND 2.3% IN 2028 || SAYS COMPARED WITH JUNE, BASELINE PROJECTION FOR INFLATION IN 2026 IS UNCHANGED, WHILE IT HAS BEEN REVISED UP FOR 2027 AND 20…
-- 09/10 21:19 [FirstSquawk] ECB SAYS WITH TODAY’S DECISION, ECB REMAINS WELL POSITIONED TO NAVIGATE UNCERTAINTY CAUSED BY CONFLICT || SAYS IT WILL FOLLOW A DATA-DEPENDENT AND MEETING-BY-MEETING APPROACH TO DETERMINING APPROPRIATE MONETARY POLICY STANCE
-- 09/10 21:19 [FirstSquawk] ECB SAYS IN PARTICULAR, ECB’S INTEREST RATE DECISIONS WILL BE BASED ON ITS ASSESSMENT OF INFLATION OUTLOOK AND RISKS SURROUNDING IT, IN LIGHT OF INCOMING ECONOMIC AND FINANCIAL DATA, AS WELL AS DYNAMICS OF UNDERLYING INFLATION AND STRENGTH …
-- 09/10 21:19 [FirstSquawk] ECB SAYS INTEREST RATES ECB DECIDED TO RAISE THREE INTEREST RATES BY 25 BASIS POINTS || SAYS ACCORDINGLY, INTEREST RATES ON DEPOSIT FACILITY, MAIN REFINANCING OPERATIONS AND MARGINAL LENDING FACILITY WILL BE INCREASED TO 2.50%, 2.65% AND 2.…
-- 09/10 21:21 [FirstSquawk] USD/JPY RISES 0.5% TO 154.33
-- 09/10 21:24 [FirstSquawk] US TREASURY YIELDS CLIMB LED BY EURO-ZONE DEBT AFTER ECB RATE HIKE
-- 09/10 21:24 [FirstSquawk] SPOT SILVER FALLS NEARLY 3% TO $65.27/OZ
-- 09/10 21:29 [financialjuice] Trump tariffs on refined Copper are not a foregone conclusion - Sources
-- 09/10 21:30 [DeItaone] *US JOBLESS CLAIMS 206,000 IN SEPT. 5 WEEK; EST. 205K
-- 09/10 21:30 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.774M (FORECAST 1.78M, PREVIOUS 1.779M) $MACRO
-- 09/10 21:30 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 206K (FORECAST 205K, PREVIOUS 206K) $MACRO
-- 09/10 21:30 [DeItaone] *US AUG. PRODUCER PRICES RISE 5.4% Y/Y; EST. +5.3%
-- 09/10 21:30 [financialjuice] ‼ BREAKING: US PPI YOY ACTUAL 5.4% (FORECAST 5.3%, PREVIOUS 4.7%) $MACRO
-- 09/10 21:30 [financialjuice] ❗ US CORE PPI MOM ACTUAL 0.2% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
-- 09/10 21:30 [financialjuice] ❗ US CORE PPI YOY ACTUAL 4.6% (FORECAST 4.6%, PREVIOUS 4.2%) $MACRO
-- 09/10 21:30 [financialjuice] ❗ US PPI MOM ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.0%) $MACRO
-- 09/10 21:30 [FirstSquawk] US PPI (MOM) (AUG) ACTUAL: 0.4% VS 0.0% PREVIOUS; EST 0.4%
-- 09/10 21:30 [DeItaone] *US AUG. PRODUCER PRICES RISE 0.4% M/M; EST. +0.4% *US AUG. PRODUCER PRICES RISE 5.4% Y/Y; EST. +5.3% *US AUG. CORE PPI RISES 0.2% M/M; EST. +0.3% *US AUG. CORE PPI RISES 4.6% Y/Y; EST. +4.6%
-- 09/10 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 206K VS 206K PREVIOUS; EST 205K
-- 09/10 21:31 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1774K VS 1779K PREVIOUS; EST 1780K
 - 09/10 21:32 [FirstSquawk] U.S. CRUDE FUTURES EXTENDED GAINS TO HIT $100/BBL FOR THE FIRST TIME SINCE MAY 21 ON INTENSIFYING MIDDLE EAST CONFLICT
 - 09/10 21:33 [financialjuice] US PPI August 2026 Report
 - 09/10 21:34 [FirstSquawk] BRENT OIL FUTURES RISE ABOVE $105 A BARREL
@@ -446,3 +386,9 @@
 - 09/11 09:02 [FirstSquawk] KOSPI slides 3% in South Korea.
 - 09/11 09:02 [FirstSquawk] McDonald’s, Burger King and peers shift focus back toward personal service as digital ordering and kiosks reshape fast food as per WSJ
 - 09/11 09:06 [FirstSquawk] The bond market is moving fast. The 10-year Japanese Government Bond (JGB) yield just jumped 5.5 basis points to hit 2.965%.
+- 09/11 09:08 [FirstSquawk] Australia’s benchmark ASX 200 trades roughly 1% lower at 8,728.20.
+- 09/11 09:14 [FirstSquawk] Anthropic reports blocking potential AI-assisted bioweapons research by scientists.
+- 09/11 09:18 [FirstSquawk] Asia-Pacific shares slipped in early trade as soaring crude prices and climbing yields fueled caution over worsening geopolitical risks in the Middle East
+- 09/11 09:21 [FirstSquawk] 30-year JGB yield advances to 4.055%, up 5 basis points.
+- 09/11 09:24 [FirstSquawk] China CSSC Holdings says it is taking action to address a cargo vessel fire at its shipyard.
+- 09/11 09:28 [financialjuice] China PBOC forecast to set yuan midpoint at 6.7174 per dollar: estimate

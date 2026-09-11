@@ -7,34 +7,30 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 09:07 JST／対象: 09/11 03:07 〜 09/11 09:07 JST（時刻はすべて日本時間）
+生成: 2026-09-11 09:32 JST／対象: 09/11 03:32 〜 09/11 09:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/11 03:30 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 57 | 09/11 03:37 | 09/11 09:06 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 47 | 09/11 03:07 | 09/11 09:00 | ⚠ 48分（08:01→08:50） |
+| DeItaone | 8 | 09/11 03:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 62 | 09/11 03:37 | 09/11 09:24 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 43 | 09/11 03:33 | 09/11 09:28 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 109 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 111 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 03:07 [financialjuice/FirstSquawk] Iran's President Pezeshkian will travel to New Delhi tomorrow to participate in the 18th BRICS Summit - Fars News
-- 09/11 03:17 [financialjuice/FirstSquawk] Israel's Prime Minister Netanyahu: IDF destroys Hezbollah facilities at Ali Taher ridge.
-- 09/11 03:30 [DeItaone] BRENT CRUDE FUTURES RISE BY $7 A BARREL AS US-IRAN CONFLICT INTENSIFIES
-- 09/11 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $5.0575 a gallon
-- 09/11 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.3932 a gallon
-- 09/11 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8340/MMBTU
 - 09/11 03:33 [financialjuice] US issues fresh Iran-related sanctions - Treasury website
 - 09/11 03:33 [financialjuice] US Official: Iranian or suspected Iranian oil on water averaged 110 mln barrels over past week vs 180 mln barrels before war.
 - 09/11 03:34 [financialjuice] US Official: Offloadings of Iranian oil down to 0.9 mb/d from 1.4 mb/d before war.
 - 09/11 03:34 [financialjuice] US Official: Loadings of Iranian oil at about 0.2 mln barrels per day over past 30 days, down from 1.8 mln barrels per day in January/February
 - 09/11 03:34 [financialjuice] US Treasury announces new sanctions against entities supporting Iran's proxies in Middle East, including Iraqi business executives.
+- 09/11 03:37 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN WILL TRAVEL TO NEW DELHI TOMORROW TO PARTICIPATE IN THE 18TH BRICS SUMMIT - FARS NEWS
+- 09/11 03:38 [FirstSquawk] ISRAEL'S PRIME MINISTER NETANYAHU: IDF DESTROYS HEZBOLLAH FACILITIES AT ALI TAHER RIDGE.
 - 09/11 03:39 [FirstSquawk] IRAN PRESIDENT PEZESHKIAN TO TRAVEL TO NEW DELHI ON FRIDAY FOR 18TH BRICS SUMMIT — FARS NEWS
 - 09/11 03:41 [DeItaone] U.S. CONTAINER IMPORTS HIT THIRD-HIGHEST LEVEL EVER U.S. container imports reached 2.6 million TEUs in August, the third-highest monthly level on record, according to Descartes. Volumes rose 3% year-over-year and 22% versus August 2019, sig…
 - 09/11 03:41 [FirstSquawk] U.S. TREASURY ANNOUNCES NEW SANCTIONS ON ENTITIES SUPPORTING IRANIAN PROXIES, WHILE MOST OUTSTANDING IRAN-RELATED LICENSING REQUESTS FACE DENIAL
@@ -133,3 +129,9 @@
 - 09/11 09:02 [FirstSquawk] KOSPI slides 3% in South Korea.
 - 09/11 09:02 [FirstSquawk] McDonald’s, Burger King and peers shift focus back toward personal service as digital ordering and kiosks reshape fast food as per WSJ
 - 09/11 09:06 [FirstSquawk] The bond market is moving fast. The 10-year Japanese Government Bond (JGB) yield just jumped 5.5 basis points to hit 2.965%.
+- 09/11 09:08 [FirstSquawk] Australia’s benchmark ASX 200 trades roughly 1% lower at 8,728.20.
+- 09/11 09:14 [FirstSquawk] Anthropic reports blocking potential AI-assisted bioweapons research by scientists.
+- 09/11 09:18 [FirstSquawk] Asia-Pacific shares slipped in early trade as soaring crude prices and climbing yields fueled caution over worsening geopolitical risks in the Middle East
+- 09/11 09:21 [FirstSquawk] 30-year JGB yield advances to 4.055%, up 5 basis points.
+- 09/11 09:24 [FirstSquawk] China CSSC Holdings says it is taking action to address a cargo vessel fire at its shipyard.
+- 09/11 09:28 [financialjuice] China PBOC forecast to set yuan midpoint at 6.7174 per dollar: estimate

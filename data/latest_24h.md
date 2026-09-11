@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 09:07 JST／対象: 09/10 09:07 〜 09/11 09:07 JST（時刻はすべて日本時間）
+生成: 2026-09-11 09:32 JST／対象: 09/10 09:32 〜 09/11 09:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/10 16:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 390 | 09/10 09:11 | 09/11 09:06 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 317 | 09/10 09:20 | 09/11 09:00 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 383 | 09/10 09:40 | 09/11 09:24 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 315 | 09/10 09:55 | 09/11 09:28 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 744 行（統合前 773 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 735 行（統合前 763 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 09:11 [FirstSquawk] Up to 1 million Obamacare enrollees could receive $500 rebate checks under a Trump administration plan targeting people it says were overcharged, per Axios.
-- 09/10 09:17 [FirstSquawk] BESSENT’S EXPANDED TREASURY BUYBACK DISAPPOINTS MARKETS AS A SMALLER-THAN-EXPECTED OPERATION HELPS PUSH THE 10-YEAR YIELD TO ITS HIGHEST LEVEL SINCE 2023 DESPITE STRONG AUCTION DEMAND.
-- 09/10 09:17 [FirstSquawk] IRAN SIGNALS A MORE AGGRESSIVE WAR STRATEGY, SAYING IT HAS REBUILT ITS MILITARY CAPABILITIES AND HAS ENOUGH MISSILES FOR A PROLONGED CONFLICT AS US-IRAN ATTACKS CONTINUE TO ESCALATE. TRUMP SAYS THE WAR WILL END AFTER THE NOVEMBER MIDTERM EL…
-- 09/10 09:19 [FirstSquawk] Asia-Pacific shares weakened Wednesday as rising US Treasury yields and oil prices added to investor concerns
-- 09/10 09:20 [financialjuice] China PBOC likely to fix yuan midpoint at 6.7074 per dollar: estimate
-- 09/10 09:21 [FirstSquawk] SAMSUNG ELECTRONICS SEES SOCIAL-MEDIA ACTIVITY TRIPLE TO 10 FINANCIALLY FOCUSED POSTS IN 30 MINUTES, WELL ABOVE THE AVERAGE OF THREE, AMID BUZZ AROUND ITS AI-CHIP WORK WITH OPENAI AND UPCOMING FOLDABLES. THE SURGE FOLLOWS OTHER AI-RELATED D…
-- 09/10 09:23 [FirstSquawk] Brent closes up, with missing barrels and a widening conflict driving the broader oil narrative.
-- 09/10 09:24 [financialjuice] Southcom: carried out lethal kinetic strike on fast-moving vessel along narco-trafficking routes in Caribbean
-- 09/10 09:25 [FirstSquawk] ENBRIDGE IS IN ADVANCED TALKS TO ACQUIRE THE 900-MILE PONY EXPRESS PIPELINE FROM BLACKSTONE-OWNED TALLGRASS ENERGY FOR ABOUT $2 BILLION, WITH A DEAL POSSIBLY ANNOUNCED WITHIN DAYS.
-- 09/10 09:25 [FirstSquawk] Aussie dollar extends gains to a fresh mid-May high as a weaker US dollar and prospects for RBA tightening boost the currency.
-- 09/10 09:25 [financialjuice] Regulators probe Nvidia’s licensing arrangement with Grog: NYT
-- 09/10 09:26 [FirstSquawk] U.S. SOUTHERN COMMAND SAYS THAT ON SEPTEMBER 9, UNDER THE DIRECTION OF SOUTHCOM, JOINT TASK FORCE WESTERN HEMISPHERE EXECUTED A LETHAL KINETIC STRIKE ON A GO-FAST VESSEL OPERATING ALONG ESTABLISHED NARCO-TRAFFICKING ROUTES IN THE CARIBBEAN,…
-- 09/10 09:26 [FirstSquawk] Nvidia’s agreement to license Groq’s AI inference technology is facing regulatory scrutiny, according to a New York Times report.
-- 09/10 09:27 [FirstSquawk] BRENT CRUDE CLIMBED ABOVE $100 A BARREL AS RENEWED U.S.-IRAN ATTACKS THREATENED OIL SUPPLIES AND SHIPPING THROUGH THE STRAIT OF HORMUZ, WHERE ROUGHLY ONE-FIFTH OF GLOBAL OIL SUPPLY PASSED BEFORE THE CONFLICT, WITH THE LATEST ESCALATION FOLL…
-- 09/10 09:30 [FirstSquawk] Canada’s trade tribunal says a surge in imported canned vegetables, led largely by U.S. shipments, has caused significant harm to the country’s domestic food-processing industry as per wall street journal.
 - 09/10 09:40 [FirstSquawk] 2-year Japanese government bond yield moves 1 bp higher to 1.84%.
 - 09/10 09:41 [FirstSquawk] Major Korean banks maintain stable prospects as resilient fundamentals support their credit profiles, Fitch says.
 - 09/10 09:41 [FirstSquawk] A suspected drug-trafficking boat was hit by U.S. forces in the Caribbean Sea, Southern Command says.
@@ -768,3 +753,9 @@
 - 09/11 09:02 [FirstSquawk] KOSPI slides 3% in South Korea.
 - 09/11 09:02 [FirstSquawk] McDonald’s, Burger King and peers shift focus back toward personal service as digital ordering and kiosks reshape fast food as per WSJ
 - 09/11 09:06 [FirstSquawk] The bond market is moving fast. The 10-year Japanese Government Bond (JGB) yield just jumped 5.5 basis points to hit 2.965%.
+- 09/11 09:08 [FirstSquawk] Australia’s benchmark ASX 200 trades roughly 1% lower at 8,728.20.
+- 09/11 09:14 [FirstSquawk] Anthropic reports blocking potential AI-assisted bioweapons research by scientists.
+- 09/11 09:18 [FirstSquawk] Asia-Pacific shares slipped in early trade as soaring crude prices and climbing yields fueled caution over worsening geopolitical risks in the Middle East
+- 09/11 09:21 [FirstSquawk] 30-year JGB yield advances to 4.055%, up 5 basis points.
+- 09/11 09:24 [FirstSquawk] China CSSC Holdings says it is taking action to address a cargo vessel fire at its shipyard.
+- 09/11 09:28 [financialjuice] China PBOC forecast to set yuan midpoint at 6.7174 per dollar: estimate
