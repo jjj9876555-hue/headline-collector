@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 12:25 JST／対象: 09/11 00:25 〜 09/11 12:25 JST（時刻はすべて日本時間）
+生成: 2026-09-11 12:44 JST／対象: 09/11 00:44 〜 09/11 12:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 20 | 09/11 01:33 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 138 | 09/11 00:31 | 09/11 12:10 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 101 | 09/11 00:32 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
+| FirstSquawk | 141 | 09/11 00:58 | 09/11 12:42 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 98 | 09/11 00:52 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 253 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.55%; GERMANY'S DAX DOWN 0.69%
-- 09/11 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.44%; SPAIN'S IBEX DOWN 0.01%
-- 09/11 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.81 (FORECAST -, PREVIOUS 2.970) $MACRO
-- 09/11 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.775% (FORECAST -, PREVIOUS 3.700%) $MACRO
-- 09/11 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.775% Bid-to-cover 2.91 Sells $90 bln Awards 34.21% of bids at high
 - 09/11 00:52 [financialjuice] The Trump Administration partners with OpenAI to use AI tools - Fox Business
 - 09/11 00:58 [FirstSquawk] UAE PLANS TO INVEST €40 BILLION IN GERMANY.
 - 09/11 01:00 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 1.269M (FORECAST -1.275M, PREVIOUS -1.173M) $MACRO
@@ -277,3 +272,8 @@
 - 09/11 11:54 [FirstSquawk] Nikkei reports Astemo will invest $379 million in Kentucky to increase electric motor production.
 - 09/11 12:01 [FirstSquawk] Russia’s Volgograd region reports damage to an industrial facility from missile debris.
 - 09/11 12:10 [FirstSquawk] Barclays forecasts another 25-bps ECB rate increase at the December 2026 meeting.
+- 09/11 12:25 [FirstSquawk] Hezbollah tunnel network in southern Lebanon destroyed by Israel, triggering tremors.
+- 09/11 12:26 [FirstSquawk] Petrol-powered cars from foreign marques see deep price cuts as competition heats up in China.
+- 09/11 12:30 [FirstSquawk] Three-month Japanese Treasury bills clear at a lowest price of 99.7050 and average 99.7228, while 12.8708% of bids are accepted at the lowest price.
+- 09/11 12:32 [FirstSquawk] Former Malaysian PM Najib’s pardon request delayed until the next Pardons Board meeting, officials say.
+- 09/11 12:42 [FirstSquawk] China’s Finance Ministry sets the yield at 1.38% in its 5-year bond auction, traders say.

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 12:25 JST／対象: 09/11 06:25 〜 09/11 12:25 JST（時刻はすべて日本時間）
+生成: 2026-09-11 12:44 JST／対象: 09/11 06:44 〜 09/11 12:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/11 06:36 | 09/11 08:48 | ⚠ 60分（07:31→08:32） |
-| FirstSquawk | 60 | 09/11 06:26 | 09/11 12:10 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 26 | 09/11 06:40 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
+| DeItaone | 6 | 09/11 07:31 | 09/11 08:48 | ⚠ 60分（07:31→08:32） |
+| FirstSquawk | 63 | 09/11 07:37 | 09/11 12:42 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 24 | 09/11 07:10 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 93 行（統合前 93 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 06:26 [FirstSquawk] ORACLE CFO EXPECTS AROUND 50% OF THE COMPANY’S $664 BILLION RPO TO CONVERT INTO REVENUE OVER THE NEXT 36 MONTHS, WITH NEWLY BOOKED REVENUE BACKLOG NOT EXPECTED TO IMPACT REVENUE OR CAPEX UNTIL FY2028 OR LATER.
-- 09/11 06:26 [FirstSquawk] ORACLE MAINTAINS ITS FULL-YEAR CAPEX FORECAST AT $90-$95 BILLION, WITH SPENDING EXPECTED TO BE UNEVEN THROUGHOUT THE YEAR.
-- 09/11 06:36 [DeItaone] *BESSENT: GOING TO SANCTION A LARGE BANK ON MONDAY
-- 09/11 06:40 [financialjuice] Pentagon in talks to enter AI infrastructure funding with $5 billion loan - WSJ
-- 09/11 06:41 [financialjuice] Pentagon in talks to provide about $5 billion loan to Al cloud-computing startup FluidStack to strengthen US data-center supply chain - WSJ
 - 09/11 07:10 [financialjuice] Transwarp Technology Shanghai Co plans global offering of 14 million H shares
 - 09/11 07:11 [financialjuice] Transwarp Technology (Shanghai) Co international offer shares under global offering total 13.3 million H shares
 - 09/11 07:30 [financialjuice] NEW ZEALAND MANUFACTURING PMI ACTUAL 53.1 (FORECAST -, PREVIOUS 54.3) $MACRO
@@ -117,3 +112,8 @@
 - 09/11 11:54 [FirstSquawk] Nikkei reports Astemo will invest $379 million in Kentucky to increase electric motor production.
 - 09/11 12:01 [FirstSquawk] Russia’s Volgograd region reports damage to an industrial facility from missile debris.
 - 09/11 12:10 [FirstSquawk] Barclays forecasts another 25-bps ECB rate increase at the December 2026 meeting.
+- 09/11 12:25 [FirstSquawk] Hezbollah tunnel network in southern Lebanon destroyed by Israel, triggering tremors.
+- 09/11 12:26 [FirstSquawk] Petrol-powered cars from foreign marques see deep price cuts as competition heats up in China.
+- 09/11 12:30 [FirstSquawk] Three-month Japanese Treasury bills clear at a lowest price of 99.7050 and average 99.7228, while 12.8708% of bids are accepted at the lowest price.
+- 09/11 12:32 [FirstSquawk] Former Malaysian PM Najib’s pardon request delayed until the next Pardons Board meeting, officials say.
+- 09/11 12:42 [FirstSquawk] China’s Finance Ministry sets the yield at 1.38% in its 5-year bond auction, traders say.

@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 12:25 JST／対象: 09/10 12:25 〜 09/11 12:25 JST（時刻はすべて日本時間）
+生成: 2026-09-11 12:44 JST／対象: 09/10 12:44 〜 09/11 12:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/10 16:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 366 | 09/10 12:27 | 09/11 12:10 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 299 | 09/10 12:26 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 365 | 09/10 12:50 | 09/11 12:42 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 298 | 09/10 13:00 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 702 行（統合前 730 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 700 行（統合前 728 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 12:26 [financialjuice] Fortum: JP Morgan upgrades to neutral from underperform, lifts target to EUR 24.3 from EUR 17.8
-- 09/10 12:27 [FirstSquawk] Failed merger talks push Japan’s opposition alliance toward a formal split.
-- 09/10 12:28 [FirstSquawk] JPMorgan reduces its Pearson price target by 60p to 1,360p.
-- 09/10 12:35 [FirstSquawk] CNBC SAID TO HAVE SHUT HONGKONG OFFICE US business television network CNBC is closing its Hong Kong office and pulling the plug on several flagship international daily shows as part of a major operational overhaul across Asia and Europe. Th…
-- 09/10 12:35 [FirstSquawk] China’s electric vehicle penetration hit 65% by July, Sinopec researcher says.
-- 09/10 12:36 [FirstSquawk] Manipur plans to finish fencing its stretch of the India-Myanmar border within two years, reviving India’s broader border-fencing plan.
-- 09/10 12:42 [FirstSquawk] China could see EV penetration reach 75%-80% by 2030, Sinopec researcher says.
 - 09/10 12:50 [FirstSquawk] Oceans set heat records for 100 straight days, prompting scientists to warn that the climate outlook is “not pretty.”
 - 09/10 12:58 [FirstSquawk] Gold prices remain above $4,400 as markets await fresh U.S. inflation data.
 - 09/10 13:00 [financialjuice] Saudi civil defence issues emergency warning for province of Khamis Mushait - post on X
@@ -726,3 +719,8 @@
 - 09/11 11:54 [FirstSquawk] Nikkei reports Astemo will invest $379 million in Kentucky to increase electric motor production.
 - 09/11 12:01 [FirstSquawk] Russia’s Volgograd region reports damage to an industrial facility from missile debris.
 - 09/11 12:10 [FirstSquawk] Barclays forecasts another 25-bps ECB rate increase at the December 2026 meeting.
+- 09/11 12:25 [FirstSquawk] Hezbollah tunnel network in southern Lebanon destroyed by Israel, triggering tremors.
+- 09/11 12:26 [FirstSquawk] Petrol-powered cars from foreign marques see deep price cuts as competition heats up in China.
+- 09/11 12:30 [FirstSquawk] Three-month Japanese Treasury bills clear at a lowest price of 99.7050 and average 99.7228, while 12.8708% of bids are accepted at the lowest price.
+- 09/11 12:32 [FirstSquawk] Former Malaysian PM Najib’s pardon request delayed until the next Pardons Board meeting, officials say.
+- 09/11 12:42 [FirstSquawk] China’s Finance Ministry sets the yield at 1.38% in its 5-year bond auction, traders say.
