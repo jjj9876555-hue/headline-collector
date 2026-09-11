@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 22:00 JST／対象: 09/11 10:00 〜 09/11 22:00 JST（時刻はすべて日本時間）
+生成: 2026-09-11 22:19 JST／対象: 09/11 10:19 〜 09/11 22:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 36 | 09/11 15:05 | 09/11 21:52 | 37分（19:03→19:41） |
-| FirstSquawk | 180 | 09/11 10:00 | 09/11 21:59 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 64 | 09/11 10:00 | 09/11 21:58 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 175 | 09/11 10:20 | 09/11 22:08 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 66 | 09/11 10:21 | 09/11 22:07 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 276 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 273 行（統合前 277 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus previous session open at 0.805%
-- 09/11 10:00 [FirstSquawk] Taiwan overnight rate remains steady at 0.805% at the start of trading.
-- 09/11 10:08 [FirstSquawk] Midland expects Hong Kong residential property prices to climb 15% this year.
-- 09/11 10:14 [FirstSquawk] Washington’s Iran sanctions raise fresh questions over the dollar’s global clout.
-- 09/11 10:15 [FirstSquawk] China’s central bank fixes the yuan midpoint at 6.7743 against the dollar.
-- 09/11 10:16 [financialjuice] Taiwan presidential office: Vice President Hsiao Bi-khim visits Italy
-- 09/11 10:16 [financialjuice] Taiwan presidential office: Vice President Hsiao accompanied by foreign minister in Italy
-- 09/11 10:17 [FirstSquawk] Taiwan says Vice President Hsiao Bi-khim is accompanied by the foreign minister on her Italy trip.
-- 09/11 10:17 [FirstSquawk] Vice President Hsiao Bi-khim travels to Italy, according to Taiwan’s presidential office.
-- 09/11 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 6, 2023
-- 09/11 10:17 [FirstSquawk] Yuan reference rate hits its strongest level in more than three years as China sets the midpoint.
 - 09/11 10:20 [FirstSquawk] ¥3.5 trillion Treasury discount bills offered by Japan.
 - 09/11 10:21 [financialjuice] China injects 4 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
 - 09/11 10:27 [FirstSquawk] Copper futures in Shanghai pull back more than 3%.
@@ -300,3 +289,11 @@
 - 09/11 21:59 [FirstSquawk] IRAN SUGGESTS A $10 BILLION JOINT REINSURANCE FIRM AT THE BRICS SUMMIT.
 - 09/11 21:59 [FirstSquawk] IRAN URGES BRICS BANK TO INCREASE FUNDING FOR INFRASTRUCTURE PROJECTS.
 - 09/11 21:59 [FirstSquawk] S&P 500 FUTURES INCREASE BY 1%.
+- 09/11 22:00 [financialjuice] Effective Fed funds rate: 3.63% September 10th vs 3.63% September 9th.
+- 09/11 22:02 [financialjuice] Yemen's Houthis: Maritime navigation is safe for all shipping companies except Saudi vessels subject to a previously announced ban.
+- 09/11 22:02 [FirstSquawk] HOUTHIS IN YEMEN CLAIM ALL SHIPPING COMPANIES CAN NAVIGATE SAFELY EXCEPT SAUDI SHIPS DUE TO AN EXISTING BAN.
+- 09/11 22:06 [financialjuice] Yemeni Army: Saudi-led forces expelled from 6 districts in Taiz and Hodeidah - Tasnim News
+- 09/11 22:07 [financialjuice] Germany’s Chancellor Merz is determined to stay in power as the push to replace him mounts
+- 09/11 22:07 [financialjuice] Yemen Armed Forces: We have liberated 5,400 kilometers and shot down 9 Saudi fighter jets - Fars News
+- 09/11 22:07 [financialjuice] Germany’s Chancellor Merz aims to push on with German reform effort despite setbacks.
+- 09/11 22:08 [FirstSquawk] GERMANY’S CHANCELLOR MERZ IS DETERMINED TO STAY IN POWER AS PUSH TO REPLACE HIM MOUNTS || AIMS TO PUSH AHEAD WITH REFORMS DESPITE SETBACKS

@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 22:00 JST／対象: 09/11 16:00 〜 09/11 22:00 JST（時刻はすべて日本時間）
+生成: 2026-09-11 22:19 JST／対象: 09/11 16:19 〜 09/11 22:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/11 16:08 | 09/11 21:52 | 37分（19:03→19:41） |
-| FirstSquawk | 73 | 09/11 16:00 | 09/11 21:59 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 53 | 09/11 16:05 | 09/11 21:58 | ⚠ 55分（16:05→17:01） |
+| DeItaone | 30 | 09/11 16:41 | 09/11 21:52 | 37分（19:03→19:41） |
+| FirstSquawk | 65 | 09/11 16:21 | 09/11 22:08 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 58 | 09/11 17:01 | 09/11 22:07 | 36分（18:21→18:57） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 153 行（統合前 157 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 150 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 16:00 [FirstSquawk] TURKEY (SEP) EXPECTED INFLATION NEXT 12MTH ACTUAL: 23.70% VS 23.69% PREVIOUS
-- 09/11 16:00 [FirstSquawk] TURKEY (JUL) CURRENT ACCOUNT BALANCE ACTUAL: 0.04B VS -4.19B PREVIOUS;EST 0.70B
-- 09/11 16:00 [FirstSquawk] SWITZERLAND (AUG) SECO CONSUMER CONFIDENCE ACTUAL: -32.8 VS -34.8 PREVIOUS;EST -32.0
-- 09/11 16:01 [FirstSquawk] TURKEY (JUL) RETAIL TRADE WDA YOY ACTUAL: 10.4% VS 11.8% PREVIOUS
-- 09/11 16:05 [financialjuice] China announces additional fuel price rise due to Iran war.
-- 09/11 16:07 [FirstSquawk/DeItaone] CHINA FOREIGN MINISTRY, ON ANTHROPIC ACCUSING CHINA AI LABS OF TARGETING CLAUDE: WE FIRMLY OPPOSE 'DISTORTION OF FACTS' AND SMEAR ATTACKS AGAINST CHINA
-- 09/11 16:09 [FirstSquawk] CHINA FOREIGN MINISTRY, ON XI AT BRICS SUMMIT: CHINA, INDIA ARE ARRANGING FOR A BILATERAL MEETING BETWEEN XI AND MODI
-- 09/11 16:10 [FirstSquawk] CHINA FOREIGN MINISTRY, ON TAIWAN VICE PRESIDENT VISITING ITALY: CHINA HAS LODGED SERIOUS PROTESTS WITH ITALY AND EU IN THIS REGARD
-- 09/11 16:15 [FirstSquawk] UK FINANCE MINISTER HEALEY: BRITAIN’S ECONOMY IS DEMONSTRATING A WELCOME RESILIENCE, DESPITE SERIOUS GLOBAL UNCERTAINTY
-- 09/11 16:18 [FirstSquawk] BESSENT SAYS TRUMP HAS HIGH IMPACT, HIGH RETURNS, AND HIGH PERFORMANCE, MANAGING A VARIETY OF TASKS.
-- 09/11 16:19 [FirstSquawk] KREMLIN SAYS LITHUANIA'S MOVE TO LIFT NUCLEAR WEAPONS DEPLOYMENT BAN WOULD BE A SIGNIFICANT ESCALATION IF CARRIED OUT.
 - 09/11 16:21 [FirstSquawk] UBS GLOBAL WEALTH MANAGEMENT EXPECTS ECB TO DELIVER ONE FURTHER 25BPS RATE HIKE IN DECEMBER 2026 BEFORE PAUSING
 - 09/11 16:23 [FirstSquawk] RUSSIA THREATENS ELECTIONS IN EUROPE'S LARGEST DEMOCRACIES, SAYS SWEDEN'S DISINFORMATION DEFENSE HEAD, URGING SOCIAL MEDIA TO IMPROVE IN FIGHTING AGAINST MOSCOW'S BOT NETWORKS.
 - 09/11 16:33 [FirstSquawk] RIKSBANK RETAINS COUNTERCYCLICAL BUFFER RATE AT 2%
@@ -177,3 +166,11 @@
 - 09/11 21:59 [FirstSquawk] IRAN SUGGESTS A $10 BILLION JOINT REINSURANCE FIRM AT THE BRICS SUMMIT.
 - 09/11 21:59 [FirstSquawk] IRAN URGES BRICS BANK TO INCREASE FUNDING FOR INFRASTRUCTURE PROJECTS.
 - 09/11 21:59 [FirstSquawk] S&P 500 FUTURES INCREASE BY 1%.
+- 09/11 22:00 [financialjuice] Effective Fed funds rate: 3.63% September 10th vs 3.63% September 9th.
+- 09/11 22:02 [financialjuice] Yemen's Houthis: Maritime navigation is safe for all shipping companies except Saudi vessels subject to a previously announced ban.
+- 09/11 22:02 [FirstSquawk] HOUTHIS IN YEMEN CLAIM ALL SHIPPING COMPANIES CAN NAVIGATE SAFELY EXCEPT SAUDI SHIPS DUE TO AN EXISTING BAN.
+- 09/11 22:06 [financialjuice] Yemeni Army: Saudi-led forces expelled from 6 districts in Taiz and Hodeidah - Tasnim News
+- 09/11 22:07 [financialjuice] Germany’s Chancellor Merz is determined to stay in power as the push to replace him mounts
+- 09/11 22:07 [financialjuice] Yemen Armed Forces: We have liberated 5,400 kilometers and shot down 9 Saudi fighter jets - Fars News
+- 09/11 22:07 [financialjuice] Germany’s Chancellor Merz aims to push on with German reform effort despite setbacks.
+- 09/11 22:08 [FirstSquawk] GERMANY’S CHANCELLOR MERZ IS DETERMINED TO STAY IN POWER AS PUSH TO REPLACE HIM MOUNTS || AIMS TO PUSH AHEAD WITH REFORMS DESPITE SETBACKS
