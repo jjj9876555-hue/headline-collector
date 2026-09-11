@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 06:52 JST／対象: 09/11 18:52 〜 09/12 06:52 JST（時刻はすべて日本時間）
+生成: 2026-09-12 07:05 JST／対象: 09/11 19:05 〜 09/12 07:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/11 19:02 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 90 | 09/11 18:53 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 136 | 09/11 18:57 | 09/12 06:50 | 37分（02:21→02:58） |
+| DeItaone | 29 | 09/11 19:41 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
+| FirstSquawk | 86 | 09/11 19:25 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 134 | 09/11 19:15 | 09/12 06:50 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 256 行（統合前 259 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 248 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 18:53 [FirstSquawk] EU COMMISSION GIVES GREEN LIGHT FOR €6.1 BILLION TO SUPPORT UKRAINE'S AIR DEFENSE AND AMMUNITION.
-- 09/11 18:57 [FirstSquawk] SWISS NATIONAL BANK CHAIRMAN STATES THAT THE SWISS FRANC EXCHANGE RATE IS A CHALLENGE FOR THE SWISS ECONOMY, BUT THE REAL FRANC HAS REMAINED STABLE SINCE 2020.
-- 09/11 18:57 [financialjuice] SNB's Chairman Schlegel: Swiss Franc exchange rate a challenge for swiss economy, but real franc has been stable since 2020.
-- 09/11 19:02 [DeItaone] U.S., MEXICO RACE FOR TRADE DEAL BEFORE MIDTERMS The U.S. and Mexico are pushing for an interim bilateral trade deal before the November elections, Reuters reports, after negotiations with Canada collapsed. Mexico is seeking relief from 50%…
-- 09/11 19:03 [financialjuice] No official confirmation from Saudi Arabia on incident near East West oil pipeline.
-- 09/11 19:03 [DeItaone] SATELLITE IMAGERY SHOWS SMOKE ON THURSDAY IN VICINITY OF SAUDI ARABIA'S EAST WEST OIL PIPELINE
-- 09/11 19:03 [FirstSquawk] SATELLITE IMAGES CAPTURED SMOKE NEAR SAUDI ARABIA'S EAST WEST OIL PIPELINE ON THURSDAY.
-- 09/11 19:03 [FirstSquawk] NO OFFICIAL WORD FROM SAUDI ARABIA ON INCIDENT CLOSE TO EAST WEST OIL PIPELINE.
 - 09/11 19:15 [financialjuice] SNB's Chairman Schlegel: Swiss debt break policy has been highly successful.
 - 09/11 19:23 [financialjuice] CentCom commander traveled to Saudi Arabia on Thursday - Axios
 - 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER VISITED SAUDI ARABIA ON THURSDAY.
