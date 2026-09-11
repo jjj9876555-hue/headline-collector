@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 04:31 JST／対象: 09/11 22:31 〜 09/12 04:31 JST（時刻はすべて日本時間）
+生成: 2026-09-12 04:43 JST／対象: 09/11 22:43 〜 09/12 04:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/11 22:33 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 55 | 09/11 22:32 | 09/12 04:23 | 35分（23:55→00:31） |
-| financialjuice | 67 | 09/11 22:32 | 09/12 04:30 | 37分（02:21→02:58） |
+| DeItaone | 5 | 09/11 22:49 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
+| FirstSquawk | 55 | 09/11 22:48 | 09/12 04:42 | 35分（23:55→00:31） |
+| financialjuice | 62 | 09/11 22:49 | 09/12 04:30 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 130 行（統合前 130 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 122 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 22:32 [FirstSquawk] NASDAQ UP 213.80 POINTS, OR 0.82 PERCENT, AT 26,295.53 AFTER MARKET OPEN S&P 500 UP 65.32 POINTS, OR 0.86 PERCENT, AT 7,657.02 AFTER MARKET OPEN DOW JONES UP 539.30 POINTS, OR 1.04 PERCENT, AT 52,603.40 AFTER MARKET OPEN
-- 09/11 22:32 [financialjuice] Chevron: We still see oil price risks to the upside due to Hormuz. $CVX
-- 09/11 22:33 [DeItaone] IRAN PLANS REGIONAL MEETING WITH IRAQ AND OTHER REGIONAL COUNTRIES IN OMAN TO DISCUSS SAFE COMMERCIAL SHIPPING ROUTES IN STRAIT OF HORMUZ ON MONDAY - FOREIGN MINISTRY SPOKESPERSON
-- 09/11 22:33 [financialjuice] Iran Foreign Ministry spokesperson announces plans for regional meeting involving Persian Gulf countries.
-- 09/11 22:34 [FirstSquawk] IRAN WILL HOST A MEETING ON MONDAY IN OMAN WITH IRAQ AND NEIGHBORING COUNTRIES TO TALK ABOUT SECURE SHIPPING ROUTES IN THE STRAIT OF HORMUZ, ACCORDING TO FARS REPORTING A FOREIGN MINISTRY SPOKESPERSON.
-- 09/11 22:34 [FirstSquawk] CHEVRON CEO MIKE WIRTH STATED THAT INITIAL SAFEGUARDS IN THE OIL MARKET HAVE "RUN THEIR COURSE", INCREASING PRICE RISK DUE TO THE IRAN CONFLICT - CONFERENCE.
-- 09/11 22:34 [FirstSquawk] CHEVRON CEO ANNOUNCED THAT A $7 BILLION INVESTMENT IN VENEZUELA OVER FIVE YEARS WILL BE FUNDED BY CASH FLOW FROM THREE JOINT VENTURES.
-- 09/11 22:35 [financialjuice] Iran plans a regional meeting with Iraq and other regional countries in Oman to discuss safe commercial shipping routes in the Strait of Hormuz on Monday - Fars, citing the Foreign Ministry Spokesperson
-- 09/11 22:36 [DeItaone] IRAN CONFIRMS REGIONAL TALKS ON HORMUZ SHIPPING Iran’s Foreign Ministry confirmed a regional meeting will be held in Oman on Monday, involving Iran, Iraq and other Gulf states to discuss security and commercial shipping through the Strait o…
-- 09/11 22:36 [financialjuice] Iran Foreign Ministry Spokesperson Baghaei: Iran considers itself committed to ensuring maritime security in the Strait of Hormuz - Tasnim News.
-- 09/11 22:37 [financialjuice] Iran Foreign Ministry spokesperson: Strait of Hormuz navigation cannot be guaranteed while US maritime blockades and economic warfare continue.
-- 09/11 22:39 [DeItaone] SITUATIONAL AWARENESS ACTIVE IN OPTIONS MARKET: CNBC CITING SOURCES
 - 09/11 22:48 [FirstSquawk] HASSETT STRESSES IMPORTANCE OF FEDERAL RESERVE'S INDEPENDENCE AND EXPRESSES HIGH RESPECT FOR WILLIAM WARSH.
 - 09/11 22:48 [FirstSquawk] HASSETT STATES INFLATION HAS BEEN SLOWING DOWN IN THE LAST 3 MONTHS.
 - 09/11 22:49 [financialjuice] WH Sr. Adviser Hassett: Inflation is clearly decelerating over the past 3 months.
@@ -154,3 +142,7 @@
 - 09/12 04:29 [financialjuice] Iran Foreign Ministry spokesperson: Saudi Arabia, Japan and Jordan will face consequences for backing anti-Iran IAEA resolution - Fars News
 - 09/12 04:29 [financialjuice] Iran Foreign Ministry spokesperson: Iran will hold Saudi Arabia, Japan and Jordan accountable for supporting anti-Iran IAEA resolution - Fars News
 - 09/12 04:30 [financialjuice] CFTC Positions in the Week Ended September 8th
+- 09/12 04:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON STATES THAT THEIR STRIKES TARGETED THE SOURCE OF ATTACKS, NOT OTHER COUNTRIES.
+- 09/12 04:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON WARNED SAUDI ARABIA, JAPAN, AND JORDAN THAT THEY WILL FACE REPERCUSSIONS FOR SUPPORTING ANTI-IRAN IAEA RESOLUTION.
+- 09/12 04:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS IRAN WILL HOLD SAUDI ARABIA, JAPAN, AND JORDAN RESPONSIBLE FOR BACKING AN ANTI-IRAN IAEA RESOLUTION.
+- 09/12 04:42 [FirstSquawk] CITI NOW SEE FED RAISING RATES IN SEPTEMBER, RATE CUTS BY MID-2027
