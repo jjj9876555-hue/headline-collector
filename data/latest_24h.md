@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 15:41 JST／対象: 09/10 15:41 〜 09/11 15:41 JST（時刻はすべて日本時間）
+生成: 2026-09-11 15:57 JST／対象: 09/10 15:57 〜 09/11 15:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 62 | 09/10 16:41 | 09/11 15:35 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 364 | 09/10 15:44 | 09/11 15:37 | ⚠ 81分（07:38→09:00） |
+| DeItaone | 64 | 09/10 16:41 | 09/11 15:46 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 361 | 09/10 15:58 | 09/11 15:45 | ⚠ 81分（07:38→09:00） |
 | financialjuice | 273 | 09/10 17:00 | 09/11 15:37 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 677 行（統合前 705 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 676 行（統合前 704 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 15:44 [FirstSquawk] Nissan plans to consolidate Serena and Elgrand manufacturing at the Tochigi plant, shifting production from Kyushu.
-- 09/10 15:45 [FirstSquawk] South Korea’s top diplomat says a meeting with U.S. Secretary of State Rubio is planned for September.
-- 09/10 15:52 [FirstSquawk] Ukraine targeted a Russian port in Dagestan, according to Zelenskyy.
-- 09/10 15:55 [FirstSquawk] UAE and China move to strengthen business ties with a new Business Advisory Committee.
 - 09/10 15:58 [FirstSquawk] Ministry of Investment will facilitate the committee’s integration with the broader high-level committee structure.
 - 09/10 15:58 [FirstSquawk] UAE Ministry of Investment says FCCI UAE will oversee engagement and implementation efforts.
 - 09/10 15:58 [FirstSquawk] UAE Investment Ministry says it will facilitate stakeholder engagement and coordination across the broader investment ecosystem.
@@ -701,3 +697,6 @@
 - 09/11 15:36 [financialjuice] ECB's Nagel: At upper bound of neutral territory.
 - 09/11 15:37 [financialjuice] ECB's Nagel: We might need to go into mildly restrictive territory.
 - 09/11 15:37 [FirstSquawk] Nagel: A mildly restrictive policy stance may become necessary.
+- 09/11 15:42 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:00 AM ET — 🛒 Kroger Earnings 8:30 AM ET — 🇺🇸 August CPI + Real Earnings 10:00 AM ET — 🇺🇸 Michigan Consumer Sentiment 10:00 AM ET — 🇺🇸 Michigan Inflation Expectations 12:00 PM ET — 🏦 Fed Financial Acco…
+- 09/11 15:45 [FirstSquawk] SoftBank Group receives inaugural ‘BB+’ rating from Fitch with stable outlook.
+- 09/11 15:46 [DeItaone] FRANCE DEBT CANCELLATION PLAN SLAMMED AS “DANGEROUS” Bank of France chief Emmanuel Moulin warned that Jean-Luc Mélenchon’s proposal to cancel 18% of France’s national debt would amount to a default, calling it “illegal, dangerous and useles…

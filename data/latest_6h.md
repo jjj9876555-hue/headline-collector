@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 15:41 JST／対象: 09/11 09:41 〜 09/11 15:41 JST（時刻はすべて日本時間）
+生成: 2026-09-11 15:57 JST／対象: 09/11 09:57 〜 09/11 15:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/11 15:05 | 09/11 15:35 | 20分（15:05→15:25） |
-| FirstSquawk | 113 | 09/11 09:42 | 09/11 15:37 | 15分（13:50→14:06） |
-| financialjuice | 13 | 09/11 09:46 | 09/11 15:37 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 5 | 09/11 15:05 | 09/11 15:46 | 20分（15:05→15:25） |
+| FirstSquawk | 107 | 09/11 10:00 | 09/11 15:45 | 15分（13:50→14:06） |
+| financialjuice | 11 | 09/11 10:00 | 09/11 15:37 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 129 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 123 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 09:42 [FirstSquawk] Yield on the 20-year JGB advances 5.5 basis points, reaching 3.805%.
-- 09/11 09:42 [FirstSquawk] Yield on the 5-year JGB advances 3 basis points to 2.250%.
-- 09/11 09:46 [FirstSquawk] Nikkei tumbles over 3% at the open as surging crude futures pressure Japanese equities.
-- 09/11 09:46 [financialjuice] to single stocks including Tesla, Apple and Nvidia: WSJ
-- 09/11 09:47 [financialjuice] Kalshi planning to seek regulatory approval to offer regulated perpetual futures
-- 09/11 09:47 [FirstSquawk] Kalshi eyes regulatory approval to launch perpetual futures linked to stocks including Tesla, Apple and Nvidia, WSJ reports.
-- 09/11 09:48 [FirstSquawk] 10-year Treasury yield climbs 2.6 bps to 4.9708%, reaching its highest since October 2023.
-- 09/11 09:52 [FirstSquawk] 30-year Treasury yield climbs 1.7 bps to 5.378%, reaching its highest since 2007.
-- 09/11 09:57 [FirstSquawk] EUR/USD flatlines above 1.1600 as traders turn their attention to upcoming U.S. CPI figures following the ECB’s hawkish hike.
 - 09/11 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus previous session open at 0.805%
 - 09/11 10:00 [FirstSquawk] Taiwan overnight rate remains steady at 0.805% at the start of trading.
 - 09/11 10:08 [FirstSquawk] Midland expects Hong Kong residential property prices to climb 15% this year.
@@ -153,3 +144,6 @@
 - 09/11 15:36 [financialjuice] ECB's Nagel: At upper bound of neutral territory.
 - 09/11 15:37 [financialjuice] ECB's Nagel: We might need to go into mildly restrictive territory.
 - 09/11 15:37 [FirstSquawk] Nagel: A mildly restrictive policy stance may become necessary.
+- 09/11 15:42 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:00 AM ET — 🛒 Kroger Earnings 8:30 AM ET — 🇺🇸 August CPI + Real Earnings 10:00 AM ET — 🇺🇸 Michigan Consumer Sentiment 10:00 AM ET — 🇺🇸 Michigan Inflation Expectations 12:00 PM ET — 🏦 Fed Financial Acco…
+- 09/11 15:45 [FirstSquawk] SoftBank Group receives inaugural ‘BB+’ rating from Fitch with stable outlook.
+- 09/11 15:46 [DeItaone] FRANCE DEBT CANCELLATION PLAN SLAMMED AS “DANGEROUS” Bank of France chief Emmanuel Moulin warned that Jean-Luc Mélenchon’s proposal to cancel 18% of France’s national debt would amount to a default, calling it “illegal, dangerous and useles…
