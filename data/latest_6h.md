@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 08:52 JST／対象: 09/11 02:52 〜 09/11 08:52 JST（時刻はすべて日本時間）
+生成: 2026-09-11 09:07 JST／対象: 09/11 03:07 〜 09/11 09:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/11 03:05 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 58 | 09/11 02:54 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
-| financialjuice | 50 | 09/11 03:00 | 09/11 08:50 | ⚠ 48分（08:01→08:50） |
+| DeItaone | 9 | 09/11 03:30 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 57 | 09/11 03:37 | 09/11 09:06 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 47 | 09/11 03:07 | 09/11 09:00 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 112 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 109 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 02:54 [FirstSquawk] IRAN'S TOP SECURITY OFFICIAL REZAEI SAYS ON THE IAEA BOARD OF GOVERNORS DECISION THAT THE IAEA'S 'POLITICAL' MOVES WILL PUSH COUNTRIES TO EXIT THE NPT
-- 09/11 03:00 [financialjuice] Ukraine’s President Zelenskiy: Plan to meet the US team at the end of September in New York.
-- 09/11 03:02 [FirstSquawk] MACQUARIE GROUP SAYS A MACQUARIE ASSET MANAGEMENT-LED CONSORTIUM WILL ACQUIRE SI SOLUTIONS FROM MIDOCEAN PARTNERS, WITH THE TRANSACTION EXPECTED TO CLOSE IN FALL 2026
-- 09/11 03:02 [FirstSquawk] UKRAINE'S ZELENSKIY SAYS THERE WILL BE NO TRILATERAL TALKS BEFORE ELECTIONS IN RUSSIA, ADDING THAT HE HOPES FOR PROGRESS ON ENERGY AND GRAIN TALKS AFTER MEETING WITH TRUMP AT THE END OF SEPTEMBER
-- 09/11 03:03 [financialjuice/FirstSquawk] Netanyahu on Iran and Hezbollah: There will be more to come - Israel's Hayom News
-- 09/11 03:03 [financialjuice/FirstSquawk] Algeria closes airspace to flights from UAE - Tasnim News.
-- 09/11 03:04 [FirstSquawk] U.S. OFFICIALS ARE TO DECLARE THE END OF THE CYCLOSPORIASIS OUTBREAK - WAPO
-- 09/11 03:05 [DeItaone] MUNI YIELDS SURGE TO HIGHEST SINCE APRIL 2025 U.S. 10-year municipal bond yields jumped to 3.62%, the highest since April 2025, tracking the Treasury selloff. JPMorgan says rising Treasury yields, heavy muni issuance and weak reinvestment d…
-- 09/11 03:05 [financialjuice] Treasury debt buyback targets coupons maturing in 2037-2046
-- 09/11 03:05 [financialjuice] Treasury receives $10.489 bln of offers for buyback, accepts $5.19 bln
-- 09/11 03:05 [financialjuice] Treasury accepts 23 of 40 eligible issues in debt buyback.
-- 09/11 03:06 [financialjuice] Canada's PM Carney: I spoke to Trump in recent days.
 - 09/11 03:07 [financialjuice/FirstSquawk] Iran's President Pezeshkian will travel to New Delhi tomorrow to participate in the 18th BRICS Summit - Fars News
 - 09/11 03:17 [financialjuice/FirstSquawk] Israel's Prime Minister Netanyahu: IDF destroys Hezbollah facilities at Ali Taher ridge.
 - 09/11 03:30 [DeItaone] BRENT CRUDE FUTURES RISE BY $7 A BARREL AS US-IRAN CONFLICT INTENSIFIES
@@ -136,3 +124,12 @@
 - 09/11 08:50 [financialjuice] ❗ JAPANESE PPI MOM ACTUAL -0.2% (FORECAST 0%, PREVIOUS 0.1%) $MACRO
 - 09/11 08:50 [financialjuice] Japan Aug domestic CGPI falls 0.2% month-on-month, BoJ: poll 0.0%
 - 09/11 08:50 [financialjuice] Japan Aug domestic corporate goods price index up 7.6% yr/yr: BoJ (Poll +7.4%)
+- 09/11 09:00 [FirstSquawk] Trump says Iran’s inflation rate has reached 300%, speaking to Fox News.
+- 09/11 09:00 [financialjuice] S. Korea semiconductor exports surge 270.1% year on year from Sept. 1-10: customs agency
+- 09/11 09:00 [financialjuice] S.Korea sept 1-10 trade surplus provisional $10.4 billion: customs agency
+- 09/11 09:00 [financialjuice] S. Korea Sept 1-10 imports rise 20.7% y/y: customs agency
+- 09/11 09:00 [financialjuice] S.Korea sept 1-10 exports climb 82.6% y/y: customs agency
+- 09/11 09:01 [FirstSquawk] Nikkei share average down 1.52% at 64,276.82.
+- 09/11 09:02 [FirstSquawk] KOSPI slides 3% in South Korea.
+- 09/11 09:02 [FirstSquawk] McDonald’s, Burger King and peers shift focus back toward personal service as digital ordering and kiosks reshape fast food as per WSJ
+- 09/11 09:06 [FirstSquawk] The bond market is moving fast. The 10-year Japanese Government Bond (JGB) yield just jumped 5.5 basis points to hit 2.965%.

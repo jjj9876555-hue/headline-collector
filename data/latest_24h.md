@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 08:52 JST／対象: 09/10 08:52 〜 09/11 08:52 JST（時刻はすべて日本時間）
+生成: 2026-09-11 09:07 JST／対象: 09/10 09:07 〜 09/11 09:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/10 16:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 386 | 09/10 09:05 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
-| financialjuice | 315 | 09/10 09:00 | 09/11 08:50 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 390 | 09/10 09:11 | 09/11 09:06 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 317 | 09/10 09:20 | 09/11 09:00 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 738 行（統合前 767 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 744 行（統合前 773 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 09:00 [financialjuice] Nvidia boosts AI infrastructure capacity through partnership with Australia’s data center network
-- 09/10 09:02 [financialjuice] Nvidia to back up to 2-gigawatt AI infrastructure expansion in Australia by 2027
-- 09/10 09:05 [FirstSquawk] GULF DEVELOPMENT AND SINGTEL FORM A STRATEGIC PARTNERSHIP TO BUILD NEW SUBMARINE CABLE CONNECTIVITY BETWEEN THAILAND AND SINGAPORE, STRENGTHENING REGIONAL DIGITAL INFRASTRUCTURE. THE PARTNERSHIP AIMS TO ENHANCE THAILAND-SINGAPORE SUBMARINE …
 - 09/10 09:11 [FirstSquawk] Up to 1 million Obamacare enrollees could receive $500 rebate checks under a Trump administration plan targeting people it says were overcharged, per Axios.
 - 09/10 09:17 [FirstSquawk] BESSENT’S EXPANDED TREASURY BUYBACK DISAPPOINTS MARKETS AS A SMALLER-THAN-EXPECTED OPERATION HELPS PUSH THE 10-YEAR YIELD TO ITS HIGHEST LEVEL SINCE 2023 DESPITE STRONG AUCTION DEMAND.
 - 09/10 09:17 [FirstSquawk] IRAN SIGNALS A MORE AGGRESSIVE WAR STRATEGY, SAYING IT HAS REBUILT ITS MILITARY CAPABILITIES AND HAS ENOUGH MISSILES FOR A PROLONGED CONFLICT AS US-IRAN ATTACKS CONTINUE TO ESCALATE. TRUMP SAYS THE WAR WILL END AFTER THE NOVEMBER MIDTERM EL…
@@ -762,3 +759,12 @@
 - 09/11 08:50 [financialjuice] ❗ JAPANESE PPI MOM ACTUAL -0.2% (FORECAST 0%, PREVIOUS 0.1%) $MACRO
 - 09/11 08:50 [financialjuice] Japan Aug domestic CGPI falls 0.2% month-on-month, BoJ: poll 0.0%
 - 09/11 08:50 [financialjuice] Japan Aug domestic corporate goods price index up 7.6% yr/yr: BoJ (Poll +7.4%)
+- 09/11 09:00 [FirstSquawk] Trump says Iran’s inflation rate has reached 300%, speaking to Fox News.
+- 09/11 09:00 [financialjuice] S. Korea semiconductor exports surge 270.1% year on year from Sept. 1-10: customs agency
+- 09/11 09:00 [financialjuice] S.Korea sept 1-10 trade surplus provisional $10.4 billion: customs agency
+- 09/11 09:00 [financialjuice] S. Korea Sept 1-10 imports rise 20.7% y/y: customs agency
+- 09/11 09:00 [financialjuice] S.Korea sept 1-10 exports climb 82.6% y/y: customs agency
+- 09/11 09:01 [FirstSquawk] Nikkei share average down 1.52% at 64,276.82.
+- 09/11 09:02 [FirstSquawk] KOSPI slides 3% in South Korea.
+- 09/11 09:02 [FirstSquawk] McDonald’s, Burger King and peers shift focus back toward personal service as digital ordering and kiosks reshape fast food as per WSJ
+- 09/11 09:06 [FirstSquawk] The bond market is moving fast. The 10-year Japanese Government Bond (JGB) yield just jumped 5.5 basis points to hit 2.965%.

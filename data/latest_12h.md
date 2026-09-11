@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 08:52 JST／対象: 09/10 20:52 〜 09/11 08:52 JST（時刻はすべて日本時間）
+生成: 2026-09-11 09:07 JST／対象: 09/10 21:07 〜 09/11 09:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 09/10 20:59 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 168 | 09/10 20:54 | 09/11 07:38 | ⚠ 71分（06:26→07:37） |
-| financialjuice | 236 | 09/10 21:00 | 09/11 08:50 | ⚠ 48分（08:01→08:50） |
+| DeItaone | 39 | 09/10 21:08 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 167 | 09/10 21:08 | 09/11 09:06 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 231 | 09/10 21:15 | 09/11 09:00 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 429 行（統合前 450 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 422 行（統合前 443 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 20:54 [FirstSquawk] STELLANTIS OPEL COMBO START IS NOW AVAILABLE TO ORDER AT PRICE STARTING FROM €22,400
-- 09/10 20:56 [FirstSquawk] UK 10-YEAR YIELD ADVANCES 3BPS TO 5.29%, HIGHEST SINCE 2007
-- 09/10 20:59 [DeItaone] TRUMP TOUTS “SOLD OUT” GOP MIDTERM CONVENTION President Donald Trump claimed the Republican Midterm Convention in Dallas drew record attendance and stronger overall viewership than the NFL. Trump said thousands were unable to enter the pack…
-- 09/10 21:00 [financialjuice] Secured Overnight Financing Rate 3.64% Sept. 9th vs 3.64% Sept. 8th
-- 09/10 21:00 [financialjuice] ❗ Saudis tell OPEC that output slumped again to lowest since 1990.
-- 09/10 21:01 [financialjuice] Russia's oil production down by 160,000 BPD in August from July to 8.718 million bpd, OPEC data shows.
-- 09/10 21:01 [financialjuice] OPEC raises 2027 global oil demand growth forecast to 2.36 million bpd vs prev. forecast 2.16 million bpd.
-- 09/10 21:01 [financialjuice] OPEC: OPEC+ crude output (including former member UAE) averaged 38.05 million BPD in August 2026, up about 300,000 BPD from July.
-- 09/10 21:01 [financialjuice] OPEC cuts 2026 global oil demand growth forecast to 380,000 barrels per day vs prev. forecast 580,000 bpd.
-- 09/10 21:01 [FirstSquawk] SAUDI ARABIA HAS INFORMED OPEC THAT OIL PRODUCTION DROPPED AGAIN, REACHING THE LOWEST LEVEL SINCE 1990.
-- 09/10 21:02 [financialjuice] IBM and NASA release AI model to support lunar exploration. $IBM
-- 09/10 21:02 [financialjuice] OPEC Monthly Report
-- 09/10 21:04 [financialjuice] Putin and China's Xi agreed to hold in-depth talks in November on the sidelines of the APEC summit - TASS.
-- 09/10 21:04 [FirstSquawk] PUTIN OF RUSSIA AND XI OF CHINA PLAN DETAILED DISCUSSIONS IN NOVEMBER DURING APEC SUMMIT.
-- 09/10 21:05 [FirstSquawk] COREWEAVE WILL CONVERT ITS OWN DATA INTO AI FOR PRODUCTION.
-- 09/10 21:05 [FirstSquawk] IBM AND NASA HAVE UNVEILED AN OPEN-SOURCE AI MODEL TO AID IN LUNAR EXPLORATION EFFORTS.
 - 09/10 21:08 [DeItaone] $AAPL - MORGAN STANLEY SEES “APPLE AI” BULL CASE STRENGTHENING Morgan Stanley analyst Erik Woodring maintains Overweight with a $360 price target, saying Apple’s latest launches represent a major step-up in innovation. He sees the iPhone Du…
 - 09/10 21:08 [FirstSquawk] BRENT OIL HITS $104 A BARREL AFTER SAUDIS REPORT OUTPUT SLUMP
 - 09/10 21:15 [FirstSquawk] ECB INTEREST RATE DECISION (SEP) ACTUAL: 2.65% VS 2.40% PREVIOUS; EST 2.65%
@@ -453,3 +437,12 @@
 - 09/11 08:50 [financialjuice] ❗ JAPANESE PPI MOM ACTUAL -0.2% (FORECAST 0%, PREVIOUS 0.1%) $MACRO
 - 09/11 08:50 [financialjuice] Japan Aug domestic CGPI falls 0.2% month-on-month, BoJ: poll 0.0%
 - 09/11 08:50 [financialjuice] Japan Aug domestic corporate goods price index up 7.6% yr/yr: BoJ (Poll +7.4%)
+- 09/11 09:00 [FirstSquawk] Trump says Iran’s inflation rate has reached 300%, speaking to Fox News.
+- 09/11 09:00 [financialjuice] S. Korea semiconductor exports surge 270.1% year on year from Sept. 1-10: customs agency
+- 09/11 09:00 [financialjuice] S.Korea sept 1-10 trade surplus provisional $10.4 billion: customs agency
+- 09/11 09:00 [financialjuice] S. Korea Sept 1-10 imports rise 20.7% y/y: customs agency
+- 09/11 09:00 [financialjuice] S.Korea sept 1-10 exports climb 82.6% y/y: customs agency
+- 09/11 09:01 [FirstSquawk] Nikkei share average down 1.52% at 64,276.82.
+- 09/11 09:02 [FirstSquawk] KOSPI slides 3% in South Korea.
+- 09/11 09:02 [FirstSquawk] McDonald’s, Burger King and peers shift focus back toward personal service as digital ordering and kiosks reshape fast food as per WSJ
+- 09/11 09:06 [FirstSquawk] The bond market is moving fast. The 10-year Japanese Government Bond (JGB) yield just jumped 5.5 basis points to hit 2.965%.
