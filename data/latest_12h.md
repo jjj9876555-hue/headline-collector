@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 20:45 JST／対象: 09/11 08:45 〜 09/11 20:45 JST（時刻はすべて日本時間）
+生成: 2026-09-11 20:58 JST／対象: 09/11 08:58 〜 09/11 20:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 25 | 09/11 08:47 | 09/11 20:45 | ⚠ 376分（08:48→15:05） |
+| DeItaone | 25 | 09/11 15:05 | 09/11 20:57 | 37分（19:03→19:41） |
 | FirstSquawk | 189 | 09/11 09:00 | 09/11 20:35 | 21分（19:03→19:25） |
-| financialjuice | 57 | 09/11 08:50 | 09/11 20:43 | ⚠ 287分（10:47→15:34） |
+| financialjuice | 53 | 09/11 09:00 | 09/11 20:49 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 268 行（統合前 271 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 264 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 08:47 [DeItaone] TRUMP SUGGESTS ELECTION MAY LIMIT IRAN ESCALATION President Donald Trump said the upcoming election could influence whether the U.S. goes “fully” into Iran, while insisting he has no regrets over the conflict. Trump also claimed the U.S. co…
-- 09/11 08:48 [DeItaone] TRUMP SAYS IRAN WAR TO END AFTER MIDTERMS President Donald Trump reiterated that he expects the war with Iran to end “right after” the midterm elections, saying Tehran is “in deep trouble.” Trump also claimed Iran’s missile stockpile has be…
-- 09/11 08:50 [financialjuice] JAPANESE BUSINESS SURVEY INDEX ACTUAL 7.6% (FORECAST -, PREVIOUS -1.8%) $MACRO
-- 09/11 08:50 [financialjuice] ❗ JAPANESE PPI YOY ACTUAL 7.6% (FORECAST 7.4%, PREVIOUS 7.2%) $MACRO
-- 09/11 08:50 [financialjuice] ❗ JAPANESE PPI MOM ACTUAL -0.2% (FORECAST 0%, PREVIOUS 0.1%) $MACRO
-- 09/11 08:50 [financialjuice] Japan Aug domestic CGPI falls 0.2% month-on-month, BoJ: poll 0.0%
-- 09/11 08:50 [financialjuice] Japan Aug domestic corporate goods price index up 7.6% yr/yr: BoJ (Poll +7.4%)
 - 09/11 09:00 [FirstSquawk] Trump says Iran’s inflation rate has reached 300%, speaking to Fox News.
 - 09/11 09:00 [financialjuice] S. Korea semiconductor exports surge 270.1% year on year from Sept. 1-10: customs agency
 - 09/11 09:00 [financialjuice] S.Korea sept 1-10 trade surplus provisional $10.4 billion: customs agency
@@ -292,3 +285,6 @@
 - 09/11 20:37 [DeItaone] IRAN ACCUSES IAEA OF HELPING JUSTIFY MILITARY ACTION Iran’s Foreign Ministry accused the IAEA and its Director General of politicizing technical nuclear assessments, claiming they have been used to build the case for military aggression aga…
 - 09/11 20:43 [financialjuice] Canadian Conservative Leader Poilievre: Tariff-free trade would help bring down inflation.
 - 09/11 20:45 [DeItaone] HOUTHIS TEASE “LARGE-SCALE” MILITARY OPERATION The Houthis are expected to announce what they describe as a “large-scale and significant military operation” at 4 PM local time / 2 PM London. Details of the operation have not yet been disclo…
+- 09/11 20:49 [financialjuice] Yemen Houthi's Spokesperson to make statement at 9 AM ET
+- 09/11 20:53 [DeItaone] OIL SET FOR 8% WEEKLY SURGE AS SUPPLY RISKS MOUNT Oil remains on track for an 8%+ weekly gain as Middle East attacks threaten key supply routes, despite Brent retreating to around $104 and WTI below $100 Friday. Reuters reports Saudi crude …
+- 09/11 20:57 [DeItaone] CPI SET TO DECIDE NEXT WEEK’S FED HIKE Markets currently price a 61% chance of a 25-bp Fed hike on September 16, versus 39% for a hold, according to Kalshi. With consensus expecting 0.2% core and 0.4% headline CPI M/M, Friday’s inflation pr…

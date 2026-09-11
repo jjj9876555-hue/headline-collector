@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 20:45 JST／対象: 09/11 14:45 〜 09/11 20:45 JST（時刻はすべて日本時間）
+生成: 2026-09-11 20:58 JST／対象: 09/11 14:58 〜 09/11 20:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/11 15:05 | 09/11 20:45 | 37分（19:03→19:41） |
-| FirstSquawk | 103 | 09/11 14:51 | 09/11 20:35 | 21分（19:03→19:25） |
-| financialjuice | 38 | 09/11 15:34 | 09/11 20:43 | ⚠ 55分（16:05→17:01） |
+| DeItaone | 25 | 09/11 15:05 | 09/11 20:57 | 37分（19:03→19:41） |
+| FirstSquawk | 101 | 09/11 15:02 | 09/11 20:35 | 21分（19:03→19:25） |
+| financialjuice | 39 | 09/11 15:34 | 09/11 20:49 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 161 行（統合前 164 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 14:51 [FirstSquawk] Italian foreign minister to avoid talks with Taiwanese officials during their Italy visit, RTRS says.
-- 09/11 14:53 [FirstSquawk] RBC trims its Puma price target to €23 from €25.
 - 09/11 15:02 [FirstSquawk] UK (JUL) MONTHLY GDP (MOM) ACTUAL: 0.4% VS 0.3% PREVIOUS;EST 0.0%
 - 09/11 15:03 [FirstSquawk] UK (JUL) MONTHLY GDP (3M/3M) ACTUAL: 0.4% VS 0.4% PREVIOUS;EST 0.3%
 - 09/11 15:03 [FirstSquawk] UK (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: 0.2% VS -0.2% PREVIOUS;EST -0.2%
@@ -185,3 +183,6 @@
 - 09/11 20:37 [DeItaone] IRAN ACCUSES IAEA OF HELPING JUSTIFY MILITARY ACTION Iran’s Foreign Ministry accused the IAEA and its Director General of politicizing technical nuclear assessments, claiming they have been used to build the case for military aggression aga…
 - 09/11 20:43 [financialjuice] Canadian Conservative Leader Poilievre: Tariff-free trade would help bring down inflation.
 - 09/11 20:45 [DeItaone] HOUTHIS TEASE “LARGE-SCALE” MILITARY OPERATION The Houthis are expected to announce what they describe as a “large-scale and significant military operation” at 4 PM local time / 2 PM London. Details of the operation have not yet been disclo…
+- 09/11 20:49 [financialjuice] Yemen Houthi's Spokesperson to make statement at 9 AM ET
+- 09/11 20:53 [DeItaone] OIL SET FOR 8% WEEKLY SURGE AS SUPPLY RISKS MOUNT Oil remains on track for an 8%+ weekly gain as Middle East attacks threaten key supply routes, despite Brent retreating to around $104 and WTI below $100 Friday. Reuters reports Saudi crude …
+- 09/11 20:57 [DeItaone] CPI SET TO DECIDE NEXT WEEK’S FED HIKE Markets currently price a 61% chance of a 25-bp Fed hike on September 16, versus 39% for a hold, according to Kalshi. With consensus expecting 0.2% core and 0.4% headline CPI M/M, Friday’s inflation pr…

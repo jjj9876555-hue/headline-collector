@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 20:45 JST／対象: 09/10 20:45 〜 09/11 20:45 JST（時刻はすべて日本時間）
+生成: 2026-09-11 20:58 JST／対象: 09/10 20:58 〜 09/11 20:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 09/10 20:46 | 09/11 20:45 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 357 | 09/10 20:54 | 09/11 20:35 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 288 | 09/10 21:00 | 09/11 20:43 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 65 | 09/10 20:59 | 09/11 20:57 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 355 | 09/10 21:01 | 09/11 20:35 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 289 | 09/10 21:00 | 09/11 20:49 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 692 行（統合前 716 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 691 行（統合前 715 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 20:46 [DeItaone] US, IRAN PREPARE FOR PROTRACTED WAR Iran and the U.S. are reportedly preparing for a potentially prolonged conflict, with little sign of an imminent ceasefire or normalization of Middle East energy flows. Bloomberg reports Tehran remains co…
-- 09/10 20:48 [DeItaone] HOUTHIS CLOSE IN ON KEY RED SEA CHOKEPOINT Iran-aligned Houthis have seized Yemen’s port city of Mocha and are pushing toward Dhubab and the Bab el-Mandeb Strait, according to Reuters sources. Control of the strategic waterway could allow t…
-- 09/10 20:54 [FirstSquawk] STELLANTIS OPEL COMBO START IS NOW AVAILABLE TO ORDER AT PRICE STARTING FROM €22,400
-- 09/10 20:56 [FirstSquawk] UK 10-YEAR YIELD ADVANCES 3BPS TO 5.29%, HIGHEST SINCE 2007
 - 09/10 20:59 [DeItaone] TRUMP TOUTS “SOLD OUT” GOP MIDTERM CONVENTION President Donald Trump claimed the Republican Midterm Convention in Dallas drew record attendance and stronger overall viewership than the NFL. Trump said thousands were unable to enter the pack…
 - 09/10 21:00 [financialjuice] Secured Overnight Financing Rate 3.64% Sept. 9th vs 3.64% Sept. 8th
 - 09/10 21:00 [financialjuice] ❗ Saudis tell OPEC that output slumped again to lowest since 1990.
@@ -716,3 +712,6 @@
 - 09/11 20:37 [DeItaone] IRAN ACCUSES IAEA OF HELPING JUSTIFY MILITARY ACTION Iran’s Foreign Ministry accused the IAEA and its Director General of politicizing technical nuclear assessments, claiming they have been used to build the case for military aggression aga…
 - 09/11 20:43 [financialjuice] Canadian Conservative Leader Poilievre: Tariff-free trade would help bring down inflation.
 - 09/11 20:45 [DeItaone] HOUTHIS TEASE “LARGE-SCALE” MILITARY OPERATION The Houthis are expected to announce what they describe as a “large-scale and significant military operation” at 4 PM local time / 2 PM London. Details of the operation have not yet been disclo…
+- 09/11 20:49 [financialjuice] Yemen Houthi's Spokesperson to make statement at 9 AM ET
+- 09/11 20:53 [DeItaone] OIL SET FOR 8% WEEKLY SURGE AS SUPPLY RISKS MOUNT Oil remains on track for an 8%+ weekly gain as Middle East attacks threaten key supply routes, despite Brent retreating to around $104 and WTI below $100 Friday. Reuters reports Saudi crude …
+- 09/11 20:57 [DeItaone] CPI SET TO DECIDE NEXT WEEK’S FED HIKE Markets currently price a 61% chance of a 25-bp Fed hike on September 16, versus 39% for a hold, according to Kalshi. With consensus expecting 0.2% core and 0.4% headline CPI M/M, Friday’s inflation pr…
