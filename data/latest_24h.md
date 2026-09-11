@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 08:33 JST／対象: 09/11 08:33 〜 09/12 08:33 JST（時刻はすべて日本時間）
+生成: 2026-09-12 08:49 JST／対象: 09/11 08:49 〜 09/12 08:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 51 | 09/11 08:39 | 09/12 04:10 | ⚠ 376分（08:48→15:05） |
+| DeItaone | 47 | 09/11 15:05 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
 | FirstSquawk | 265 | 09/11 09:00 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 190 | 09/11 08:50 | 09/12 08:31 | ⚠ 287分（10:47→15:34） |
+| financialjuice | 194 | 09/11 08:50 | 09/12 08:47 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 502 行（統合前 508 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 08:39 [DeItaone] U.S. DIESEL BREAKS $6 FOR FIRST TIME EVER The U.S. average diesel price surpassed $6 a gallon for the first time, according to GasBuddy, up nearly 60% since the Iran war began. Supply remains extremely tight, with U.S. diesel inventories 13…
-- 09/11 08:41 [DeItaone] APPLE’S $1,999 FOLDABLE FACES DEMAND TEST Apple’s new iPhone Duo starts at $1,999, but analysts question whether its appeal can extend beyond wealthy early adopters. Counterpoint still expects Apple to sell nearly 6 million units by year-en…
-- 09/11 08:47 [DeItaone] TRUMP SUGGESTS ELECTION MAY LIMIT IRAN ESCALATION President Donald Trump said the upcoming election could influence whether the U.S. goes “fully” into Iran, while insisting he has no regrets over the conflict. Trump also claimed the U.S. co…
-- 09/11 08:48 [DeItaone] TRUMP SAYS IRAN WAR TO END AFTER MIDTERMS President Donald Trump reiterated that he expects the war with Iran to end “right after” the midterm elections, saying Tehran is “in deep trouble.” Trump also claimed Iran’s missile stockpile has be…
 - 09/11 08:50 [financialjuice] JAPANESE BUSINESS SURVEY INDEX ACTUAL 7.6% (FORECAST -, PREVIOUS -1.8%) $MACRO
 - 09/11 08:50 [financialjuice] ❗ JAPANESE PPI YOY ACTUAL 7.6% (FORECAST 7.4%, PREVIOUS 7.2%) $MACRO
 - 09/11 08:50 [financialjuice] ❗ JAPANESE PPI MOM ACTUAL -0.2% (FORECAST 0%, PREVIOUS 0.1%) $MACRO
@@ -526,3 +522,7 @@
 - 09/12 08:03 [financialjuice] North Korea launches multiple ballistic missiles: South Korea's JCS
 - 09/12 08:06 [financialjuice] Saudi civil defense: danger has passed in Taif
 - 09/12 08:31 [financialjuice] Next round of Israel-Lebanon talks postponed: Axios
+- 09/12 08:35 [financialjuice] Iraq orders closure of Shalamcheh border crossing with Iran as precaution after latest attacks on Saudi Arabia: two security sources
+- 09/12 08:38 [financialjuice] South Korea's presidential office: North Korea's ballistic missile launch breaches U.N. Security Council resolutions, holds emergency security review meeting - Yonhap
+- 09/12 08:44 [financialjuice] Trump: if China wanted to establish a plant to manufacture cars here, I'd be fine with that
+- 09/12 08:47 [financialjuice] South Korea's national security council holds urgent security review after North Korea's short-range missile launch: presidential office

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 08:33 JST／対象: 09/12 02:33 〜 09/12 08:33 JST（時刻はすべて日本時間）
+生成: 2026-09-12 08:49 JST／対象: 09/12 02:49 〜 09/12 08:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
-| FirstSquawk | 27 | 09/12 02:43 | 09/12 05:01 | 13分（03:32→03:45） |
-| financialjuice | 55 | 09/12 02:58 | 09/12 08:31 | ⚠ 58分（06:50→07:48） |
+| FirstSquawk | 26 | 09/12 02:50 | 09/12 05:01 | 13分（03:32→03:45） |
+| financialjuice | 59 | 09/12 02:58 | 09/12 08:47 | ⚠ 58分（06:50→07:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 83 行（統合前 85 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 86 行（統合前 88 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 02:43 [FirstSquawk] EMIRATES AND GERMANY BACK LEBANON IN ITS EFFORTS TO CONTROL WEAPONS AND RESTORE GOVERNMENT AUTHORITY.
 - 09/12 02:50 [FirstSquawk] IRAQI PM STATES THAT LIMITING WEAPONS TO THE GOVERNMENT AND CONSOLIDATING SECURITY DECISIONS ARE ESSENTIAL FOR SINJAR'S PROTECTION.
 - 09/12 02:58 [financialjuice] US FEDERAL BUDGET BALANCE ACTUAL -166.797B (FORECAST -211.1B, PREVIOUS -432.00B) $MACRO
 - 09/12 02:59 [FirstSquawk] REZA NAJAFI, THE ISLAMIC REPUBLIC'S REPRESENTATIVE AT THE IAEA, STATED TO CGTN THAT THE U.S. COULD USE THE NEW BOARD OF GOVERNORS RESOLUTION AS AN EXCUSE TO ESCALATE TENSIONS OR LAUNCH NEW MILITARY ACTIONS AGAINST IRAN.
@@ -107,3 +106,7 @@
 - 09/12 08:03 [financialjuice] North Korea launches multiple ballistic missiles: South Korea's JCS
 - 09/12 08:06 [financialjuice] Saudi civil defense: danger has passed in Taif
 - 09/12 08:31 [financialjuice] Next round of Israel-Lebanon talks postponed: Axios
+- 09/12 08:35 [financialjuice] Iraq orders closure of Shalamcheh border crossing with Iran as precaution after latest attacks on Saudi Arabia: two security sources
+- 09/12 08:38 [financialjuice] South Korea's presidential office: North Korea's ballistic missile launch breaches U.N. Security Council resolutions, holds emergency security review meeting - Yonhap
+- 09/12 08:44 [financialjuice] Trump: if China wanted to establish a plant to manufacture cars here, I'd be fine with that
+- 09/12 08:47 [financialjuice] South Korea's national security council holds urgent security review after North Korea's short-range missile launch: presidential office
