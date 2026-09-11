@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 11:17 JST／対象: 09/10 23:17 〜 09/11 11:17 JST（時刻はすべて日本時間）
+生成: 2026-09-11 11:33 JST／対象: 09/10 23:33 〜 09/11 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/10 23:21 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 139 | 09/10 23:20 | 09/11 11:12 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 118 | 09/10 23:18 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
+| DeItaone | 21 | 09/10 23:45 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 138 | 09/10 23:43 | 09/11 11:32 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 110 | 09/10 23:42 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 273 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 263 行（統合前 270 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 23:18 [financialjuice] Fear & Greed Index: 36/100 - Fear
-- 09/10 23:20 [FirstSquawk] US TREASURY TWO-YEAR YIELD INCREASES BY 10 BASIS POINTS TO 4.53%.
-- 09/10 23:21 [DeItaone] *TREASURY TWO-YEAR YIELD RISES 10 BASIS POINTS ON DAY TO 4.53%
-- 09/10 23:25 [financialjuice] ❗ Iran-backed Yemen's Houthis spokesperson: Freedom of navigation and international trade in the Red Sea and Bab el-Mandeb Strait remain safe and uninterrupted.
-- 09/10 23:25 [FirstSquawk/DeItaone] IRAN-BACKED YEMEN'S HOUTHIS SPOKESPERSON SAYS FREEDOM OF NAVIGATION AND INTERNATIONAL TRADE IN RED SEA AND BAB EL-MANDEB STRAIT REMAIN SAFE AND UNINTERRUPTED
-- 09/10 23:25 [FirstSquawk] IRAN-BACKED YEMEN'S HOUTHIS SPOKESPERSON SAYS CURRENT OPERATIONS ARE LIMITED TO SPECIFIED TARGETS AND ARE DEFENSIVE
-- 09/10 23:26 [financialjuice] Iran-backed Yemen's Houthis Spokesperson: Current operations are limited to specified targets and are defensive.
-- 09/10 23:26 [FirstSquawk] YEMEN'S HOUTHIS SPOKESPERSON SAYS OPERATIONS WILL STOP WHEN ATTACKS ON YEMEN END AND BLOCKADE IS LIFTED
-- 09/10 23:26 [financialjuice] Yemen's Houthis Spokesperson: Operations will stop when attacks on Yemen end and the blockade is lifted.
-- 09/10 23:28 [financialjuice] Head of Yemen's Supreme Political Council announces stability in Taiz coastal areas - IRIB.
-- 09/10 23:29 [financialjuice] Head of Yemen's Supreme Political Council: Saudi-backed forces will be granted amnesty if they lay down their arms - IRIB News
-- 09/10 23:30 [FirstSquawk] U.S NATURAL GAS STORAGE ACTUAL: 40 VS 30 PREVIOUSL; EST 32
-- 09/10 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 40B (FORECAST 34B, PREVIOUS 30B) $MACRO
-- 09/10 23:31 [financialjuice] Weekly EIA Natural Gas Change Storage Report -
 - 09/10 23:42 [financialjuice] Diesel futures top $5/gal for the first time since 2022.
 - 09/10 23:42 [financialjuice] Yemen's Houthi-run Humanitarian Operations Coordination Centre: Red Sea navigation safe for all shipping companies except Saudi vessels.
 - 09/10 23:43 [FirstSquawk] YEMEN'S HOUTHI CONTROLLED HUMANITARIAN OPERATIONS CENTRE ANNOUNCES THAT NAVIGATION IN THE RED SEA IS SAFE FOR ALL SHIPPING COMPANIES EXCEPT SAUDI VESSELS.
@@ -297,3 +283,7 @@
 - 09/11 11:10 [FirstSquawk] Katayama says Japan’s position remains completely unchanged following U.S.-Japan coordination.
 - 09/11 11:11 [FirstSquawk] Katayama says Japan will work to ensure stability in currency markets and communicate closely with the U.S.
 - 09/11 11:12 [FirstSquawk] Japan will seek stability in FX markets and maintain close communication with the U.S., Katayama says.
+- 09/11 11:18 [FirstSquawk] Seoul says the economy remains on a solid recovery path, supported by exports.
+- 09/11 11:22 [FirstSquawk] Japan gets its first look at Tesla’s driverless Cybercab.
+- 09/11 11:24 [FirstSquawk] Indonesia stocks slide, with the benchmark index sinking to 6,462.96, lowest since Aug. 27.
+- 09/11 11:32 [FirstSquawk] Economic strain leaves Iranians struggling to secure fuel supplies.

@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 11:17 JST／対象: 09/11 05:17 〜 09/11 11:17 JST（時刻はすべて日本時間）
+生成: 2026-09-11 11:33 JST／対象: 09/11 05:33 〜 09/11 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/11 06:36 | 09/11 08:48 | ⚠ 60分（07:31→08:32） |
-| FirstSquawk | 58 | 09/11 05:19 | 09/11 11:12 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 32 | 09/11 05:23 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
+| FirstSquawk | 58 | 09/11 05:35 | 09/11 11:32 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 29 | 09/11 06:04 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 97 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 94 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 05:19 [FirstSquawk] BRENT CRUDE CLIMBED ABOVE $107, PUSHING US STOCKS AND BONDS LOWER AS RISING ENERGY PRICES INTENSIFIED INFLATION CONCERNS. THE S&P 500 FELL FOR A FOURTH STRAIGHT SESSION, ITS LONGEST LOSING STREAK SINCE JUNE, WHILE TREASURY YIELDS REACHED MU…
-- 09/11 05:19 [FirstSquawk] MARKETS RAISED THE PROBABILITY OF A FED RATE HIKE NEXT WEEK TO 70%, WITH AN INCREASE FULLY PRICED BY OCTOBER. PRODUCER INFLATION ALSO SHOWED RENEWED PRICE PRESSURE FROM HIGHER ENERGY COSTS, INCREASING FOCUS ON THE UPCOMING CPI REPORT.
-- 09/11 05:19 [FirstSquawk] TREASURY’S $5.19B DEBT BUYBACK CAME IN BELOW THE PREVIOUSLY INDICATED AMOUNT, ADDING PRESSURE TO BONDS. THE FED’S SEPT. 15–16 MEETING WILL NOW HINGE HEAVILY ON THIS WEEK’S INFLATION AND ECONOMIC DATA, PARTICULARLY WHETHER SURGING GASOLINE P…
-- 09/11 05:23 [financialjuice] UKMTO has received a report of two vessels involved in an incident 4NM west of Khasab Oman.
-- 09/11 05:24 [financialjuice] UKMTO: The master of the vessel reports seeing four unknown projectiles hit two unknown vessels, causing fire on one vessel, and unsure of the status of the second vessel, 6nm north of his position.
-- 09/11 05:24 [financialjuice] $ADBE Adobe Q3 Earnings Adjusted EPS $6.13, est. $6.08 Revenue $6.76B, est. $6.70B Remaining performance obligations $22.16B, est. $22.72B AI-first ending ARR exceeds $650M, +150% y/y Sees Q4 adjusted EPS $6.30 to $6.35, est. $6.30 Sees Q4 …
-- 09/11 05:25 [FirstSquawk] UKMTO REPORTS TWO VESSELS INVOLVED IN AN INCIDENT 4 NM WEST OF KHASAB, OMAN, WITH THE MASTER REPORTING FOUR UNKNOWN PROJECTILES STRIKING TWO VESSELS. ONE VESSEL CAUGHT FIRE AFTER THE STRIKES, WHILE THE STATUS OF THE SECOND VESSEL REMAINS UN…
 - 09/11 05:35 [FirstSquawk] RUSSIA’S “NET ERRORS AND OMISSIONS” HIT A RECORD $12.2 BILLION IN Q2 2026, UP FROM $1.4 BILLION THE PREVIOUS QUARTER AND MARKING THE LARGEST UNEXPLAINED BALANCE-OF-PAYMENTS GAP SINCE 1994. - SOURCES
 - 09/11 05:35 [FirstSquawk] THE FIGURE IS NOT PROOF OF CAPITAL FLIGHT, AS SANCTIONS WORKAROUNDS AND PAYMENT TIMING CAN ALSO CONTRIBUTE, BUT IT COMES AMID REPORTS OF BILLIONS MOVED ABROAD BY WEALTHY RUSSIANS THROUGH CRYPTO, GOLD, DUBAI PROPERTY AND PRIVATE FUNDS. - SOU…
 - 09/11 05:36 [FirstSquawk] SAUDI OIL PRODUCTION PLUNGED 23% IN AUGUST TO 6.24 MILLION BARRELS A DAY AS THE IRAN WAR AND HOUTHI THREATS DISRUPTED KEY EXPORT ROUTES. - WSJ
@@ -121,3 +114,7 @@
 - 09/11 11:10 [FirstSquawk] Katayama says Japan’s position remains completely unchanged following U.S.-Japan coordination.
 - 09/11 11:11 [FirstSquawk] Katayama says Japan will work to ensure stability in currency markets and communicate closely with the U.S.
 - 09/11 11:12 [FirstSquawk] Japan will seek stability in FX markets and maintain close communication with the U.S., Katayama says.
+- 09/11 11:18 [FirstSquawk] Seoul says the economy remains on a solid recovery path, supported by exports.
+- 09/11 11:22 [FirstSquawk] Japan gets its first look at Tesla’s driverless Cybercab.
+- 09/11 11:24 [FirstSquawk] Indonesia stocks slide, with the benchmark index sinking to 6,462.96, lowest since Aug. 27.
+- 09/11 11:32 [FirstSquawk] Economic strain leaves Iranians struggling to secure fuel supplies.
