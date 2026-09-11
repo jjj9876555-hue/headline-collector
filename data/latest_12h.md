@@ -7,48 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 02:58 JST／対象: 09/11 14:58 〜 09/12 02:58 JST（時刻はすべて日本時間）
+生成: 2026-09-12 03:20 JST／対象: 09/11 15:20 〜 09/12 03:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 46 | 09/11 15:05 | 09/11 23:00 | 37分（19:03→19:41） |
-| FirstSquawk | 152 | 09/11 15:02 | 09/12 02:50 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 116 | 09/11 15:34 | 09/12 02:21 | ⚠ 55分（16:05→17:01） |
+| DeItaone | 45 | 09/11 15:25 | 09/11 23:00 | 37分（19:03→19:41） |
+| FirstSquawk | 133 | 09/11 15:20 | 09/12 03:19 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 119 | 09/11 15:34 | 09/12 03:08 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 310 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 293 行（統合前 297 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 15:02 [FirstSquawk] UK (JUL) MONTHLY GDP (MOM) ACTUAL: 0.4% VS 0.3% PREVIOUS;EST 0.0%
-- 09/11 15:03 [FirstSquawk] UK (JUL) MONTHLY GDP (3M/3M) ACTUAL: 0.4% VS 0.4% PREVIOUS;EST 0.3%
-- 09/11 15:03 [FirstSquawk] UK (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: 0.2% VS -0.2% PREVIOUS;EST -0.2%
-- 09/11 15:03 [FirstSquawk] UK (JUL) INDUSTRIAL PRODUCTION YOY ACTUAL: 0.6% VS -0.2% PREVIOUS;EST 0.2%
-- 09/11 15:03 [FirstSquawk] UK (JUL) MANUFACTURING PRODUCTION MOM ACTUAL: 0.9% VS -0.5% PREVIOUS;EST 0.2%
-- 09/11 15:03 [FirstSquawk] UK (JUL) MANUFACTURING PRODUCTION YOY ACTUAL: 2.6% VS 0.5% PREVIOUS;EST 2.1%
-- 09/11 15:03 [FirstSquawk] UK (JUL) CONSTRUCTION OUTPUT MOM ACTUAL: 0.1% VS -0.1% PREVIOUS;EST 0.1%
-- 09/11 15:03 [FirstSquawk] UK (JUL) CONSTRUCTION OUTPUT YOY ACTUAL: -2.5% VS -2.3% PREVIOUS;EST -2.3%
-- 09/11 15:03 [FirstSquawk] UK (JUL) INDEX OF SERVICES MOM ACTUAL: 0.4% VS 0.4% PREVIOUS;EST 0.0%
-- 09/11 15:03 [FirstSquawk] UK (JUL) INDEX OF SERVICES 3M/3M ACTUAL: 0.6% VS 0.5% PREVIOUS;EST 0.5%
-- 09/11 15:04 [FirstSquawk] UK (JUL) VISIBLE TRADE BALANCE GBP/MN ACTUAL: -20965M VS 23007M PREVIOUS;EST 22400M
-- 09/11 15:04 [FirstSquawk] UK (JUL) TRADE BALANCE GBP/MN ACTUAL: -3450M VS 5537M PREVIOUS;EST 4995M
-- 09/11 15:04 [FirstSquawk] UK (JUL) VISIBLE TRADE BALANCE EX PRECIOUS METALS ACTUAL: -21427M VS 21045M PREVIOUS
-- 09/11 15:04 [FirstSquawk] UK (JUL) TRADE BALANCE EX PRECIOUS METALS ACTUAL: -3912M VS 3575M PREVIOUS;EST 3000M
-- 09/11 15:05 [DeItaone] TRUMP DISMISSES AI EXTINCTION FEARS President Donald Trump says he has “no” concerns that AI could lead to human extinction, arguing the priority is ensuring the U.S. maintains its technological lead over China. Trump estimates America is r…
-- 09/11 15:05 [FirstSquawk] Russian forces hit two supply vessels linked to Ukrainian forces in the Black Sea, Defence Ministry says.
-- 09/11 15:06 [FirstSquawk] India holds talks with Argentina on additional lithium blocks while engaging Chile on lithium, minister says.
-- 09/11 15:08 [FirstSquawk] Gold jumps 1% to $4,357.59 per ounce in spot trade.
-- 09/11 15:09 [FirstSquawk] Ukraine sees 2026 sunflower harvest increasing to 12 million tons from 10.2 million tons in 2025, minister says.
-- 09/11 15:14 [FirstSquawk] Russia’s Sberbank no longer sees excess rupee accumulation by firms trading with India, CEO says.
-- 09/11 15:14 [FirstSquawk] Ukraine can process up to 20 million tons of oilseeds against demand of 16 million tons, minister says.
-- 09/11 15:14 [FirstSquawk] Iran, Pakistan officials explore ways to restart diplomatic efforts aimed at de-escalating the conflict, source says.
-- 09/11 15:15 [FirstSquawk] Pakistani source: Iran foreign minister and army chief focus talks on U.S.-Iran war, resuming negotiations and Houthi attacks.
-- 09/11 15:17 [FirstSquawk] France is not in economic danger, Bank of France’s Moulin says.
-- 09/11 15:20 [FirstSquawk] Heatwaves cut France’s economic growth by 0.1 percentage points, Moulin says.
 - 09/11 15:20 [FirstSquawk] France’s economy expected to recover at a moderate pace, Moulin says.
 - 09/11 15:21 [FirstSquawk] Concerns are mounting over France’s economy, Moulin says.
 - 09/11 15:21 [FirstSquawk] France’s economy remains manageable, but action cannot be delayed, Moulin says.
@@ -334,3 +309,11 @@
 - 09/12 02:33 [FirstSquawk] IMF SAYS TURKMENISTAN NOT PROVIDING DATA WAS OBLIGATIONS BREACH
 - 09/12 02:43 [FirstSquawk] EMIRATES AND GERMANY BACK LEBANON IN ITS EFFORTS TO CONTROL WEAPONS AND RESTORE GOVERNMENT AUTHORITY.
 - 09/12 02:50 [FirstSquawk] IRAQI PM STATES THAT LIMITING WEAPONS TO THE GOVERNMENT AND CONSOLIDATING SECURITY DECISIONS ARE ESSENTIAL FOR SINJAR'S PROTECTION.
+- 09/12 02:58 [financialjuice] US FEDERAL BUDGET BALANCE ACTUAL -166.797B (FORECAST -211.1B, PREVIOUS -432.00B) $MACRO
+- 09/12 02:59 [FirstSquawk] REZA NAJAFI, THE ISLAMIC REPUBLIC'S REPRESENTATIVE AT THE IAEA, STATED TO CGTN THAT THE U.S. COULD USE THE NEW BOARD OF GOVERNORS RESOLUTION AS AN EXCUSE TO ESCALATE TENSIONS OR LAUNCH NEW MILITARY ACTIONS AGAINST IRAN.
+- 09/12 03:00 [FirstSquawk] US AUG. BUDGET DEFICIT $166.80B
+- 09/12 03:00 [FirstSquawk] US BUDGET DEFICIT AT $1.97T FOR FIRST 11 MONTHS OF FISCAL YEAR
+- 09/12 03:02 [financialjuice] US Budget Balance August 202 Report
+- 09/12 03:08 [financialjuice] Yemeni military source: Saudi-backed mercenary positions in eastern Al-Jawf targeted, dozens of military vehicles set ablaze - Tasnim News
+- 09/12 03:09 [FirstSquawk] US COMMERCE CONFIRMS ILLEGAL SOLAR SUBSIDIES FROM INDIA
+- 09/12 03:19 [FirstSquawk] STELLANTIS, ROSHEL SIGN MOU FOR POSSIBLE SALE OF CANADA PLANT
