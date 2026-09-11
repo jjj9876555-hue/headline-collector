@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 22:51 JST／対象: 09/11 10:51 〜 09/11 22:51 JST（時刻はすべて日本時間）
+生成: 2026-09-11 23:04 JST／対象: 09/11 11:04 〜 09/11 23:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 09/11 15:05 | 09/11 22:49 | 37分（19:03→19:41） |
-| FirstSquawk | 177 | 09/11 10:54 | 09/11 22:49 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 79 | 09/11 15:34 | 09/11 22:51 | ⚠ 55分（16:05→17:01） |
+| DeItaone | 46 | 09/11 15:05 | 09/11 23:00 | 37分（19:03→19:41） |
+| FirstSquawk | 178 | 09/11 11:05 | 09/11 23:00 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 89 | 09/11 15:34 | 09/11 23:00 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 295 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 309 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 10:54 [FirstSquawk] Sterling stays above 1.3500 as markets await U.S. CPI figures.
-- 09/11 10:55 [FirstSquawk] Soybeans in Chicago retreat slightly after climbing to a three-year high on China demand.
-- 09/11 10:57 [FirstSquawk] Micron says eligible Taiwan employees will get a T$1 million thank-you payment for FY2026.
-- 09/11 10:58 [FirstSquawk] Taiwan-based Micron staff may get performance payouts reaching 500% of base targets plus additional equity for FY2026.
-- 09/11 10:58 [FirstSquawk] Taiwan-based Micron direct employees to receive FY2026 compensation equivalent to 35–68 months of salary, including a minimum T$1.7 million cash payout.
 - 09/11 11:05 [FirstSquawk] New California rules tighten restrictions on social media for children.
 - 09/11 11:09 [FirstSquawk] Japan’s finance minister avoids giving a view on specific FX levels.
 - 09/11 11:10 [FirstSquawk] Katayama says Japan’s position remains completely unchanged following U.S.-Japan coordination.
@@ -319,3 +314,22 @@
 - 09/11 22:49 [DeItaone] S&P 500’S 8,000 MILESTONE REMAINS ELUSIVE The S&P 500 is still 5.4% away from 8,000, as rising bond yields, sticky inflation and a hawkish Fed outlook stall the rally. CFRA still targets 8,050 by year-end, but warns a 5%-10% correction woul…
 - 09/11 22:50 [financialjuice] WH Sr. Adviser Hassett speaks on Bloomberg Business News Live
 - 09/11 22:51 [financialjuice] WH Sr. Adviser Hassett: Reconciliation is one path for $5,000 trump payments; can do $5,000 payments in a fiscally responsible way.
+- 09/11 22:51 [financialjuice] WH Sr. Adviser Hassett: Trump is very serious about the $5,000 proposal.
+- 09/11 22:53 [FirstSquawk] HASSETT SAYS RECONCILIATION CAN ENABLE $5,000 PAYMENTS UNDER TRUMP, MAINTAINING FISCAL RESPONSIBILITY.
+- 09/11 22:53 [FirstSquawk] SPOT GOLD RISES ALMOST 2% TO $4,400.09 PER OUNCE.
+- 09/11 22:53 [FirstSquawk] HASSETT SAYS TRUMP IS COMMITTED TO THE $5,000 PLAN.
+- 09/11 22:53 [FirstSquawk] HASSETT SAYS $5,000 CHECKS CAN BE COMBINED WITH FISCAL RESPONSIBILITY.
+- 09/11 22:54 [financialjuice] ECB's President Lagarde speaks live
+- 09/11 22:55 [DeItaone] HASSETT SAYS INFLATION IS “CLEARLY DECELERATING” White House economic adviser Kevin Hassett says inflation has clearly slowed over the past three months, while stressing that the Fed’s independence should be respected. Hassett added that Tr…
+- 09/11 22:55 [financialjuice] WH Sr. Adviser Hassett: An offset to the $5,000 checks would need to be negotiated.
+- 09/11 22:57 [financialjuice] ❗ TD changes Fed call to hikes from September vs cuts previously
+- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION PRELIM ACTUAL 4.6% (FORECAST 4.2%, PREVIOUS 4.0%) $MACRO
+- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN 5 YR INFLATION PRELIM ACTUAL 3.4% (FORECAST 3.3%, PREVIOUS 3.3%) $MACRO
+- 09/11 23:00 [DeItaone] *UMICH 1-YR INFLATION EXPECTATIONS RISE TO 4.6% FROM 4.0%
+- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN CONDITION PRELIM ACTUAL 50.9 (FORECAST 51.3, PREVIOUS 51.9) $MACRO
+- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS PRELIM ACTUAL 45.8 (FORECAST 51, PREVIOUS 51.5) $MACRO
+- 09/11 23:00 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT PRELIM ACTUAL 47.8 (FORECAST 51, PREVIOUS 51.7) $MACRO
+- 09/11 23:00 [DeItaone] *UMICH PRELIM. SEPT. CONSUMER SENTIMENT FALLS TO 47.8; EST. 51
+- 09/11 23:00 [FirstSquawk] U.S. UMICH SEPTEMBER CONSUMER SENTIMENT DROPS TO 47.8, LOWER THAN ESTIMATED 51.
+- 09/11 23:00 [financialjuice] University of Michigan Sentiment September Prelim Report
+- 09/11 23:00 [FirstSquawk] U.S. UMICH 1-YEAR INFLATION EXPECTATIONS INCREASE TO 4.6% FROM 4.0%.

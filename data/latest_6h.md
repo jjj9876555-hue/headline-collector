@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 22:51 JST／対象: 09/11 16:51 〜 09/11 22:51 JST（時刻はすべて日本時間）
+生成: 2026-09-11 23:04 JST／対象: 09/11 17:04 〜 09/11 23:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 35 | 09/11 16:57 | 09/11 22:49 | 37分（19:03→19:41） |
-| FirstSquawk | 68 | 09/11 16:58 | 09/11 22:49 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 74 | 09/11 17:01 | 09/11 22:51 | 36分（18:21→18:57） |
+| DeItaone | 37 | 09/11 17:08 | 09/11 23:00 | 37分（19:03→19:41） |
+| FirstSquawk | 66 | 09/11 17:05 | 09/11 23:00 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 77 | 09/11 17:04 | 09/11 23:00 | 36分（18:21→18:57） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 174 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 179 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 16:57 [DeItaone] GULF STATES WEIGH TALKS WITH IRAN OVER HORMUZ Gulf states are considering rare talks with Iran next week over the future of the Strait of Hormuz, with Oman seeking a meeting of GCC and Iranian foreign ministers. The talks could focus on res…
-- 09/11 16:58 [FirstSquawk] HAWKISH POLICY SHIFT LEAVES NEAR-TERM RATE HIKES UNLIKELY
-- 09/11 17:01 [financialjuice] IEA: 2026 world oil demand to drop by 2.5 million bpd (prev. forecast 1.6 million bpd drop), citing impasse in US-Iran talks on resolving their conflict.
-- 09/11 17:01 [financialjuice/FirstSquawk] IEA sees total world oil supply 1.74 million bpd lower than demand in 2026 (prev. forecast 1.27 million bpd lower).
-- 09/11 17:01 [financialjuice/FirstSquawk] IEA now sees full recovery in oil supplies from gulf producers deferred until 2027.
-- 09/11 17:01 [FirstSquawk] IEA SAYS 2026 WORLD OIL DEMAND TO DROP BY 2.5 MILLION BPD (PREV. FORECAST 1.6 MILLION BPD DROP), CITING IMPASSE IN US-IRAN TALKS ON RESOLVING THEIR CONFLICT
-- 09/11 17:01 [financialjuice] IEA: World oil supply to average 100.7 million bpd in 2026, down 5.7 million bpd from 2025 and 1.3 million bpd lower than prev. forecast.
-- 09/11 17:01 [financialjuice] IE: Global observed oil inventories plunged by a further 95 million barrels in August.
-- 09/11 17:01 [FirstSquawk] IEA SAYS WORLD OIL SUPPLY TO AVERAGE 100.7 MILLION BPD IN 2026, DOWN 5.7 MILLION BPD FROM 2025 AND 1.3 MILLION BPD LOWER THAN PREV. FORECAST
-- 09/11 17:02 [financialjuice] IEA: Need for progress in resolving Middle East, Russia-Ukraine conflicts is greater than ever to avoid further oil market tightening.
-- 09/11 17:02 [FirstSquawk] IEA SAYS GLOBAL OBSERVED OIL INVENTORIES PLUNGED BY A FURTHER 95 MILLION BARRELS IN AUGUST
-- 09/11 17:02 [FirstSquawk] IEA SAYS NEED FOR PROGRESS IN RESOLVING MIDDLE EAST, RUSSIA-UKRAINE CONFLICTS IS GREATER THAN EVER TO AVOID FURTHER OIL MARKET TIGHTENING
-- 09/11 17:02 [financialjuice] French government will revise downward its 2026 growth forecast to 0.5% growth - Les Echos citing sources.
-- 09/11 17:02 [FirstSquawk] IRAN'S PRESIDENT MASOUD PEZESHKIAN EXPRESSED OPPOSITION TO THE CONTINUATION OF WAR BUT STRESSED THE IMPORTANCE OF BUILDING RESILIENCE AGAINST FUTURE PRESSURES.
 - 09/11 17:04 [financialjuice] Iran-backed Houthis reached Yemeni port city of Dhubab, along Bab El-Mandeb Strait - Two Yemeni Governmental Sources.
 - 09/11 17:05 [FirstSquawk] IRAN SUPPORTING HOUTHIS ARRIVED AT DHUBAB PORT CITY IN YEMEN, NEAR BAB EL-MANDEB STRAIT
 - 09/11 17:07 [financialjuice] ECB's Kocher: Too early to say anything about next ECB decision.
@@ -198,3 +184,22 @@
 - 09/11 22:49 [DeItaone] S&P 500’S 8,000 MILESTONE REMAINS ELUSIVE The S&P 500 is still 5.4% away from 8,000, as rising bond yields, sticky inflation and a hawkish Fed outlook stall the rally. CFRA still targets 8,050 by year-end, but warns a 5%-10% correction woul…
 - 09/11 22:50 [financialjuice] WH Sr. Adviser Hassett speaks on Bloomberg Business News Live
 - 09/11 22:51 [financialjuice] WH Sr. Adviser Hassett: Reconciliation is one path for $5,000 trump payments; can do $5,000 payments in a fiscally responsible way.
+- 09/11 22:51 [financialjuice] WH Sr. Adviser Hassett: Trump is very serious about the $5,000 proposal.
+- 09/11 22:53 [FirstSquawk] HASSETT SAYS RECONCILIATION CAN ENABLE $5,000 PAYMENTS UNDER TRUMP, MAINTAINING FISCAL RESPONSIBILITY.
+- 09/11 22:53 [FirstSquawk] SPOT GOLD RISES ALMOST 2% TO $4,400.09 PER OUNCE.
+- 09/11 22:53 [FirstSquawk] HASSETT SAYS TRUMP IS COMMITTED TO THE $5,000 PLAN.
+- 09/11 22:53 [FirstSquawk] HASSETT SAYS $5,000 CHECKS CAN BE COMBINED WITH FISCAL RESPONSIBILITY.
+- 09/11 22:54 [financialjuice] ECB's President Lagarde speaks live
+- 09/11 22:55 [DeItaone] HASSETT SAYS INFLATION IS “CLEARLY DECELERATING” White House economic adviser Kevin Hassett says inflation has clearly slowed over the past three months, while stressing that the Fed’s independence should be respected. Hassett added that Tr…
+- 09/11 22:55 [financialjuice] WH Sr. Adviser Hassett: An offset to the $5,000 checks would need to be negotiated.
+- 09/11 22:57 [financialjuice] ❗ TD changes Fed call to hikes from September vs cuts previously
+- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION PRELIM ACTUAL 4.6% (FORECAST 4.2%, PREVIOUS 4.0%) $MACRO
+- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN 5 YR INFLATION PRELIM ACTUAL 3.4% (FORECAST 3.3%, PREVIOUS 3.3%) $MACRO
+- 09/11 23:00 [DeItaone] *UMICH 1-YR INFLATION EXPECTATIONS RISE TO 4.6% FROM 4.0%
+- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN CONDITION PRELIM ACTUAL 50.9 (FORECAST 51.3, PREVIOUS 51.9) $MACRO
+- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS PRELIM ACTUAL 45.8 (FORECAST 51, PREVIOUS 51.5) $MACRO
+- 09/11 23:00 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT PRELIM ACTUAL 47.8 (FORECAST 51, PREVIOUS 51.7) $MACRO
+- 09/11 23:00 [DeItaone] *UMICH PRELIM. SEPT. CONSUMER SENTIMENT FALLS TO 47.8; EST. 51
+- 09/11 23:00 [FirstSquawk] U.S. UMICH SEPTEMBER CONSUMER SENTIMENT DROPS TO 47.8, LOWER THAN ESTIMATED 51.
+- 09/11 23:00 [financialjuice] University of Michigan Sentiment September Prelim Report
+- 09/11 23:00 [FirstSquawk] U.S. UMICH 1-YEAR INFLATION EXPECTATIONS INCREASE TO 4.6% FROM 4.0%.

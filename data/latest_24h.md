@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 22:51 JST／対象: 09/10 22:51 〜 09/11 22:51 JST（時刻はすべて日本時間）
+生成: 2026-09-11 23:04 JST／対象: 09/10 23:04 〜 09/11 23:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 71 | 09/10 23:00 | 09/11 22:49 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 313 | 09/10 23:00 | 09/11 22:49 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 207 | 09/10 23:00 | 09/11 22:51 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 72 | 09/10 23:10 | 09/11 23:00 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 317 | 09/10 23:05 | 09/11 23:00 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 212 | 09/10 23:09 | 09/11 23:00 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 580 行（統合前 593 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 590 行（統合前 603 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 23:00 [FirstSquawk] US EXISTING HOME SALES (AUG) ACTUAL: 3.98M VS 4.06M PREVIOUS; EST 3.98M
-- 09/10 23:00 [financialjuice] ❗ US EXISTING HOME SALES ACTUAL 3.98M (FORECAST 3.98M, PREVIOUS 4.06M) $MACRO
-- 09/10 23:00 [financialjuice] US EXISTING HOME SALES CHANGE ACTUAL -2% (FORECAST -1.7%, PREVIOUS -1.7%) $MACRO
-- 09/10 23:00 [financialjuice] US WHOLESALE INVENTORIES MOM REVISED ACTUAL 1.3% (FORECAST 1.3%, PREVIOUS 1.3%) $MACRO
-- 09/10 23:00 [DeItaone] *US AUG. EXISTING HOME SALES AT 3.98M; EST. 3.98M *US AUG. EXISTING HOME SALES FALL 2% M/M; PREV. -1.7%
-- 09/10 23:00 [financialjuice] US WHOLESALE SALES MOM ACTUAL 0.8% (FORECAST -, PREVIOUS -3.0%) $MACRO
-- 09/10 23:01 [financialjuice] US Existing Home Sales August Report
-- 09/10 23:01 [FirstSquawk] US EXISTING HOME SUPPLY REACHES 4.9 MONTHS, THE HIGHEST LEVEL SINCE 2015.
-- 09/10 23:04 [DeItaone] MARKETS KALSHI LAUNCHES ‘PERPS’ FOR GOLD AND SILVER FOLLOWING CFTC APPROVAL, EXPANDING FUTURES OFFERINGS- CNBC
 - 09/10 23:05 [FirstSquawk] KALSHI LAUNCHES ‘PERPS’ FOR GOLD AND SILVER FOLLOWING CFTC APPROVAL, EXPANDING FUTURES OFFERINGS - CNBC
 - 09/10 23:09 [FirstSquawk] OPENAI HELD MEETINGS WITH REPRESENTATIVES FROM LEADING ENERGY FIRMS.
 - 09/10 23:09 [FirstSquawk] OPENAI HELD DISCUSSIONS WITH POWER COMPANIES ABOUT SECURING THE GRID, ACCORDING TO POLITICO.
@@ -604,3 +595,22 @@
 - 09/11 22:49 [DeItaone] S&P 500’S 8,000 MILESTONE REMAINS ELUSIVE The S&P 500 is still 5.4% away from 8,000, as rising bond yields, sticky inflation and a hawkish Fed outlook stall the rally. CFRA still targets 8,050 by year-end, but warns a 5%-10% correction woul…
 - 09/11 22:50 [financialjuice] WH Sr. Adviser Hassett speaks on Bloomberg Business News Live
 - 09/11 22:51 [financialjuice] WH Sr. Adviser Hassett: Reconciliation is one path for $5,000 trump payments; can do $5,000 payments in a fiscally responsible way.
+- 09/11 22:51 [financialjuice] WH Sr. Adviser Hassett: Trump is very serious about the $5,000 proposal.
+- 09/11 22:53 [FirstSquawk] HASSETT SAYS RECONCILIATION CAN ENABLE $5,000 PAYMENTS UNDER TRUMP, MAINTAINING FISCAL RESPONSIBILITY.
+- 09/11 22:53 [FirstSquawk] SPOT GOLD RISES ALMOST 2% TO $4,400.09 PER OUNCE.
+- 09/11 22:53 [FirstSquawk] HASSETT SAYS TRUMP IS COMMITTED TO THE $5,000 PLAN.
+- 09/11 22:53 [FirstSquawk] HASSETT SAYS $5,000 CHECKS CAN BE COMBINED WITH FISCAL RESPONSIBILITY.
+- 09/11 22:54 [financialjuice] ECB's President Lagarde speaks live
+- 09/11 22:55 [DeItaone] HASSETT SAYS INFLATION IS “CLEARLY DECELERATING” White House economic adviser Kevin Hassett says inflation has clearly slowed over the past three months, while stressing that the Fed’s independence should be respected. Hassett added that Tr…
+- 09/11 22:55 [financialjuice] WH Sr. Adviser Hassett: An offset to the $5,000 checks would need to be negotiated.
+- 09/11 22:57 [financialjuice] ❗ TD changes Fed call to hikes from September vs cuts previously
+- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION PRELIM ACTUAL 4.6% (FORECAST 4.2%, PREVIOUS 4.0%) $MACRO
+- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN 5 YR INFLATION PRELIM ACTUAL 3.4% (FORECAST 3.3%, PREVIOUS 3.3%) $MACRO
+- 09/11 23:00 [DeItaone] *UMICH 1-YR INFLATION EXPECTATIONS RISE TO 4.6% FROM 4.0%
+- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN CONDITION PRELIM ACTUAL 50.9 (FORECAST 51.3, PREVIOUS 51.9) $MACRO
+- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS PRELIM ACTUAL 45.8 (FORECAST 51, PREVIOUS 51.5) $MACRO
+- 09/11 23:00 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT PRELIM ACTUAL 47.8 (FORECAST 51, PREVIOUS 51.7) $MACRO
+- 09/11 23:00 [DeItaone] *UMICH PRELIM. SEPT. CONSUMER SENTIMENT FALLS TO 47.8; EST. 51
+- 09/11 23:00 [FirstSquawk] U.S. UMICH SEPTEMBER CONSUMER SENTIMENT DROPS TO 47.8, LOWER THAN ESTIMATED 51.
+- 09/11 23:00 [financialjuice] University of Michigan Sentiment September Prelim Report
+- 09/11 23:00 [FirstSquawk] U.S. UMICH 1-YEAR INFLATION EXPECTATIONS INCREASE TO 4.6% FROM 4.0%.
