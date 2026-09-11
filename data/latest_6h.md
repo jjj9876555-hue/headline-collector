@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 07:05 JST／対象: 09/12 01:05 〜 09/12 07:05 JST（時刻はすべて日本時間）
+生成: 2026-09-12 07:23 JST／対象: 09/12 01:23 〜 09/12 07:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
-| FirstSquawk | 40 | 09/12 01:09 | 09/12 05:01 | 27分（01:35→02:03） |
-| financialjuice | 57 | 09/12 01:08 | 09/12 06:50 | 37分（02:21→02:58） |
+| FirstSquawk | 38 | 09/12 01:28 | 09/12 05:01 | 27分（01:35→02:03） |
+| financialjuice | 56 | 09/12 01:28 | 09/12 06:50 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 98 行（統合前 100 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 95 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 01:08 [financialjuice] Apple: Starting September 12th at 5 AM PT, customers can pre-order iPhone 18 Pro & iPhone 18 Pro Max on Apple .com and in the Apple Store App. $AAPL
-- 09/12 01:09 [FirstSquawk] APPLE INC WILL ALLOW CUSTOMERS TO PRE-ORDER THE IPHONE 18 PRO AND IPHONE 18 PRO MAX ON https://t.co/LJMqx4c7ya AND THE APP AT 5 A.M. PT ON SEPTEMBER 12.
-- 09/12 01:22 [FirstSquawk] GERMANY EXPLORES PHARMA PROPOSAL WITH TEAM TRUMP AS TARIFF THREAT LOOMS - POLITICO
 - 09/12 01:28 [financialjuice] US Commerce Secretary Lutnick: The US could try to 'earn' money for $5,000 checks, it won't rely on tax funds - NBC.
 - 09/12 01:28 [FirstSquawk] US MAY ATTEMPT TO 'EARN' FUNDS FOR $5,000 PAYMENTS: LUTNICK TO NBC.
 - 09/12 01:28 [FirstSquawk] LUTNICK TOLD NBC ON THURSDAY THAT $5,000 PAYMENTS WILL NOT DEPEND ON TAX DOLLARS.
