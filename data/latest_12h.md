@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 20:17 JST／対象: 09/11 08:17 〜 09/11 20:17 JST（時刻はすべて日本時間）
+生成: 2026-09-11 20:32 JST／対象: 09/11 08:32 〜 09/11 20:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 25 | 09/11 08:32 | 09/11 20:06 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 187 | 09/11 09:00 | 09/11 20:04 | 21分（19:03→19:25） |
+| DeItaone | 25 | 09/11 08:39 | 09/11 20:23 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 188 | 09/11 09:00 | 09/11 20:20 | 21分（19:03→19:25） |
 | financialjuice | 55 | 09/11 08:50 | 09/11 20:13 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 264 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 265 行（統合前 268 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 08:32 [DeItaone] *TRUMP: MAYBE I DON'T GO FULL INTO IRAN BECAUSE OF ELECTION
 - 09/11 08:39 [DeItaone] U.S. DIESEL BREAKS $6 FOR FIRST TIME EVER The U.S. average diesel price surpassed $6 a gallon for the first time, according to GasBuddy, up nearly 60% since the Iran war began. Supply remains extremely tight, with U.S. diesel inventories 13…
 - 09/11 08:41 [DeItaone] APPLE’S $1,999 FOLDABLE FACES DEMAND TEST Apple’s new iPhone Duo starts at $1,999, but analysts question whether its appeal can extend beyond wealthy early adopters. Counterpoint still expects Apple to sell nearly 6 million units by year-en…
 - 09/11 08:47 [DeItaone] TRUMP SUGGESTS ELECTION MAY LIMIT IRAN ESCALATION President Donald Trump said the upcoming election could influence whether the U.S. goes “fully” into Iran, while insisting he has no regrets over the conflict. Trump also claimed the U.S. co…
@@ -288,3 +287,5 @@
 - 09/11 20:04 [FirstSquawk] GERMAN UNION IG METALL IS USING A REVISION CLAUSE TO DISCUSS WITH VOLKSWAGEN IF THEY WILL KEEP THEIR AGREEMENT.
 - 09/11 20:06 [DeItaone] RUSSIA, INDIA EXPLORE DIGITAL CURRENCY TRADE SETTLEMENTS Russia and India’s central banks are working on a mechanism to use digital currencies for bilateral trade payments, according to Sberbank CEO Herman Gref. The initiative could enable …
 - 09/11 20:13 [financialjuice] China to further enhance computing infrastructure - CCTV
+- 09/11 20:20 [FirstSquawk] VOLKSWAGEN'S WORKS COUNCIL LEADER SAYS THEY FACE TOUGH COMPETITION FROM CHINESE COMPANIES WITH HIGH SUBSIDIES, URGING FOR A FAIR EUROPEAN FRAMEWORK.
+- 09/11 20:23 [DeItaone] FED’S WARSH FACES INDEPENDENCE TEST Fed Chair Kevin Warsh faces a credibility test as markets weigh whether he will hike rates despite President Trump’s push for lower borrowing costs. Macquarie says Warsh could position himself as a “reluc…

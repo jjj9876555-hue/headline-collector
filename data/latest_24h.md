@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 20:17 JST／対象: 09/10 20:17 〜 09/11 20:17 JST（時刻はすべて日本時間）
+生成: 2026-09-11 20:32 JST／対象: 09/10 20:32 〜 09/11 20:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 63 | 09/10 20:28 | 09/11 20:06 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 359 | 09/10 20:33 | 09/11 20:04 | ⚠ 81分（07:38→09:00） |
+| DeItaone | 63 | 09/10 20:46 | 09/11 20:23 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 360 | 09/10 20:33 | 09/11 20:20 | ⚠ 81分（07:38→09:00） |
 | financialjuice | 289 | 09/10 20:38 | 09/11 20:13 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 691 行（統合前 717 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 692 行（統合前 718 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 20:28 [DeItaone] $SPCX - UK DEEPENS SPACEX RELIANCE WITH $40 MILLION SATELLITE SPEND Britain has spent nearly $40 million on SpaceX satellite services, becoming the first country outside the U.S. to publicly acknowledge adopting Starshield. The UK military …
 - 09/10 20:33 [FirstSquawk] KREMLIN: RUSSIA WILL CONTINUE TO DESTROY VESSELS TRANSPORTING AMMUNITION FOR UKRAINE IN BLACK SEA
 - 09/10 20:38 [FirstSquawk] UN ATOMIC WATCHDOG SAYS LOSING CONTINUITY OF KNOWLEDGFE IN IRAN SAYS IAEA
 - 09/10 20:38 [financialjuice] UN Atomic Watchdog: Losing continuity of knowledge in Iran.
@@ -715,3 +714,5 @@
 - 09/11 20:04 [FirstSquawk] GERMAN UNION IG METALL IS USING A REVISION CLAUSE TO DISCUSS WITH VOLKSWAGEN IF THEY WILL KEEP THEIR AGREEMENT.
 - 09/11 20:06 [DeItaone] RUSSIA, INDIA EXPLORE DIGITAL CURRENCY TRADE SETTLEMENTS Russia and India’s central banks are working on a mechanism to use digital currencies for bilateral trade payments, according to Sberbank CEO Herman Gref. The initiative could enable …
 - 09/11 20:13 [financialjuice] China to further enhance computing infrastructure - CCTV
+- 09/11 20:20 [FirstSquawk] VOLKSWAGEN'S WORKS COUNCIL LEADER SAYS THEY FACE TOUGH COMPETITION FROM CHINESE COMPANIES WITH HIGH SUBSIDIES, URGING FOR A FAIR EUROPEAN FRAMEWORK.
+- 09/11 20:23 [DeItaone] FED’S WARSH FACES INDEPENDENCE TEST Fed Chair Kevin Warsh faces a credibility test as markets weigh whether he will hike rates despite President Trump’s push for lower borrowing costs. Macquarie says Warsh could position himself as a “reluc…
