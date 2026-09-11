@@ -7,46 +7,30 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 22:19 JST／対象: 09/10 22:19 〜 09/11 22:19 JST（時刻はすべて日本時間）
+生成: 2026-09-11 22:34 JST／対象: 09/10 22:34 〜 09/11 22:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 09/10 22:36 | 09/11 21:52 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 314 | 09/10 22:22 | 09/11 22:08 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 212 | 09/10 22:21 | 09/11 22:07 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 69 | 09/10 22:36 | 09/11 22:33 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 314 | 09/10 22:38 | 09/11 22:32 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 207 | 09/10 22:35 | 09/11 22:33 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 578 行（統合前 595 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 578 行（統合前 592 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 22:21 [financialjuice] ECB's Lagarde: Very hopeful digital euro legislation voted on before year-end.
-- 09/10 22:21 [financialjuice] ❗ Yemen's Houthis reached the Red Sea islands of Hanish - Two Yemeni governmental military sources
-- 09/10 22:21 [financialjuice/FirstSquawk] ❗ Traders see more than 50% chance of ECB hike in October.
-- 09/10 22:22 [FirstSquawk] LAGARDE: VERY HOPEFUL DIGITAL EURO LAW WILL PASS BY YEAR-END
-- 09/10 22:22 [financialjuice] ECB's Lagarde: Won't comment on any FX intervention.
-- 09/10 22:23 [financialjuice] ECB's Lagarde: Euro-Yen intervention had a volume of €500m.
-- 09/10 22:24 [financialjuice] SpaceX overhauls data center build-out, potentially slowing expansion - The Information $SPCX
-- 09/10 22:25 [financialjuice] ECB's Lagarde: Won't comment on spreads.
-- 09/10 22:25 [financialjuice] ECB's Lagarde: Spread is a reflection of market perception of a country's bond.
-- 09/10 22:26 [financialjuice] ECB's Lagarde: Cancellation of debt would be a pure violation of the treaty.
-- 09/10 22:27 [financialjuice] ECB's Lagarde: Debt cancellation talk is financially dangerous
-- 09/10 22:29 [financialjuice] ECB's Lagarde: The ECB to publish benign, adverse, and severe scenarios.
-- 09/10 22:29 [financialjuice] ECB's Lagarde: Against all three scenarios, the decision to raise rates is robust.
-- 09/10 22:29 [FirstSquawk] LAGARDE: ECB HIKE ROBUST AGAINST ALL THREE SCENARIOS
-- 09/10 22:30 [financialjuice] ECB's Lagarde: ECB hike robust against all three scenarios.
-- 09/10 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 23.0 MLN NASDAQ 100: -11.8 MLN DOW 30: -11.3 MLN MAG 7: -7.4 MLN $MACRO
-- 09/10 22:33 [FirstSquawk] DOW JONES DOWN 232.28 POINTS, OR 0.44 PERCENT, AT 52,148.38 AFTER MARKET OPEN NASDAQ DOWN 248.90 POINTS, OR 0.95 PERCENT, AT 26,004.44 AFTER MARKET OPEN S&P 500 DOWN 43.77 POINTS, OR 0.57 %, AT 7,592.59 AFTER MARKET OPEN
 - 09/10 22:35 [financialjuice] ECB's President Lagarde: If energy shock longer than expected, we'll see second round effects and it will affect food prices.
 - 09/10 22:35 [financialjuice] Yemeni Armed Forces Gain Control of Zubayr City and the Strategic Zaqar Island Near Bab-el-Mandeb - Tasnim News.
 - 09/10 22:36 [financialjuice] ECB's Nagel: I am concerned about rise of right-wing parties.
 - 09/10 22:36 [DeItaone/FirstSquawk] ECB'S NAGEL: CONCERNED ABOUT RISE IN EURO-SCEPTIC PARTIES
 - 09/10 22:36 [financialjuice] ECB's Nagel: Euro-sceptic parties will make investors reluctant to invest in Germany.
 - 09/10 22:38 [financialjuice] ECB's President Lagarde ends the ECB press conference.
+- 09/10 22:38 [FirstSquawk] DOW JONES DOWN 232.28 POINTS, OR 0.44 PERCENT, AT 52,148.38 AFTER MARKET OPEN NASDAQ DOWN 248.90 POINTS, OR 0.95 PERCENT, AT 26,004.44 AFTER MARKET OPEN S&P 500 DOWN 43.77 POINTS, OR 0.57 %, AT 7,592.59 AFTER MARKET OPEN
 - 09/10 22:39 [FirstSquawk] SPACEX OVERHAULS DATA CENTER BUILD-OUT, POTENTIALLY SLOWING EXPANSION - THE INFORMATION
 - 09/10 22:39 [FirstSquawk] YEMENI ARMED FORCES GAIN CONTROL OF ZUBAYR CITY AND THE STRATEGIC ZAQAR ISLAND NEAR BAB-EL-MANDEB - TASNIM
 - 09/10 22:40 [FirstSquawk] ECB'S LAGARDE: LONGER THAN EXPECTED ENERGY SHOCK WOULD SEE SECOND ROUND EFFECTS, WILL AFFECT FOOD PRICES
@@ -602,3 +586,19 @@
 - 09/11 22:07 [financialjuice] Yemen Armed Forces: We have liberated 5,400 kilometers and shot down 9 Saudi fighter jets - Fars News
 - 09/11 22:07 [financialjuice] Germany’s Chancellor Merz aims to push on with German reform effort despite setbacks.
 - 09/11 22:08 [FirstSquawk] GERMANY’S CHANCELLOR MERZ IS DETERMINED TO STAY IN POWER AS PUSH TO REPLACE HIM MOUNTS || AIMS TO PUSH AHEAD WITH REFORMS DESPITE SETBACKS
+- 09/11 22:21 [financialjuice] WH Sr. Adviser Hassett: Big issue with diesel because it's a refined product - Fox Business
+- 09/11 22:22 [financialjuice] WH Sr. Adviser Hassett on diesel prices: A major concern for us right now.
+- 09/11 22:22 [financialjuice] WH Sr. Adviser Hassett: A lot of Diesel refining in places disturbed by war.
+- 09/11 22:23 [FirstSquawk] HASSETT SAYS THERE'S A MAJOR PROBLEM WITH DIESEL AS IT'S A REFINED PRODUCT.
+- 09/11 22:23 [FirstSquawk] HASSETT SAYS DIESEL PRICES ARE A SIGNIFICANT ISSUE FOR THE US CURRENTLY.
+- 09/11 22:23 [financialjuice] WH Sr. Adviser Hassett on $5,000 checks: Could happen through reconciliation.
+- 09/11 22:25 [DeItaone] HASSETT: BIG ISSUE WITH DIESEL BECAUSE IT'S A REFINED PRODUCT
+- 09/11 22:25 [DeItaone] HASSETT ON DIESEL PRICES: A MAJOR CONCERN FOR US RIGHT NOW
+- 09/11 22:27 [financialjuice] Chevron CEO Wirth: Early buffers in the oil market have played out, and the price risk from the Iran war is now higher - Conference.
+- 09/11 22:27 [DeItaone] CHEVRON CEO MIKE WIRTH SAYS EARLY BUFFERS IN OIL MARKET HAVE "PLAYED OUT", PRICE RISK FROM IRAN WAR IS NOW HIGHER -CONFERENCE
+- 09/11 22:30 [financialjuice] Spot premiums for Azeri BTC Crude oil jumped to over $10/bl vs dated Brent amid Middle East oil supply disruption - Traders.
+- 09/11 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 451.3 MLN NASDAQ 100: -0.6 MLN DOW 30: 93.3 MLN MAG 7: -0.9 MLN $MACRO
+- 09/11 22:32 [FirstSquawk] NASDAQ UP 213.80 POINTS, OR 0.82 PERCENT, AT 26,295.53 AFTER MARKET OPEN S&P 500 UP 65.32 POINTS, OR 0.86 PERCENT, AT 7,657.02 AFTER MARKET OPEN DOW JONES UP 539.30 POINTS, OR 1.04 PERCENT, AT 52,603.40 AFTER MARKET OPEN
+- 09/11 22:32 [financialjuice] Chevron: We still see oil price risks to the upside due to Hormuz. $CVX
+- 09/11 22:33 [DeItaone] IRAN PLANS REGIONAL MEETING WITH IRAQ AND OTHER REGIONAL COUNTRIES IN OMAN TO DISCUSS SAFE COMMERCIAL SHIPPING ROUTES IN STRAIT OF HORMUZ ON MONDAY - FOREIGN MINISTRY SPOKESPERSON
+- 09/11 22:33 [financialjuice] Iran Foreign Ministry spokesperson announces plans for regional meeting involving Persian Gulf countries.

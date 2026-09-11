@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 22:19 JST／対象: 09/11 10:19 〜 09/11 22:19 JST（時刻はすべて日本時間）
+生成: 2026-09-11 22:34 JST／対象: 09/11 10:34 〜 09/11 22:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 09/11 15:05 | 09/11 21:52 | 37分（19:03→19:41） |
-| FirstSquawk | 175 | 09/11 10:20 | 09/11 22:08 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 66 | 09/11 10:21 | 09/11 22:07 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 40 | 09/11 15:05 | 09/11 22:33 | 37分（19:03→19:41） |
+| FirstSquawk | 174 | 09/11 10:39 | 09/11 22:32 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 74 | 09/11 10:39 | 09/11 22:33 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 273 行（統合前 277 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 284 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 10:20 [FirstSquawk] ¥3.5 trillion Treasury discount bills offered by Japan.
-- 09/11 10:21 [financialjuice] China injects 4 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/11 10:27 [FirstSquawk] Copper futures in Shanghai pull back more than 3%.
-- 09/11 10:33 [FirstSquawk] South Korean stocks fall sharply at the open as U.S. market losses weigh on sentiment.
-- 09/11 10:34 [FirstSquawk] Malaysia’s ringgit touches 4.073 per dollar, its weakest level in nearly a month.
 - 09/11 10:39 [financialjuice] Ukraine drones strike Ozon logistics center in Russia's Saratov, trigger fire: Ozon
 - 09/11 10:39 [FirstSquawk] Ozon reports a fire at its Saratov logistics hub after Ukrainian drones struck the facility.
 - 09/11 10:41 [FirstSquawk] 10-year JGB yield jumps 7.5 basis points, reaching 2.985%.
@@ -297,3 +292,19 @@
 - 09/11 22:07 [financialjuice] Yemen Armed Forces: We have liberated 5,400 kilometers and shot down 9 Saudi fighter jets - Fars News
 - 09/11 22:07 [financialjuice] Germany’s Chancellor Merz aims to push on with German reform effort despite setbacks.
 - 09/11 22:08 [FirstSquawk] GERMANY’S CHANCELLOR MERZ IS DETERMINED TO STAY IN POWER AS PUSH TO REPLACE HIM MOUNTS || AIMS TO PUSH AHEAD WITH REFORMS DESPITE SETBACKS
+- 09/11 22:21 [financialjuice] WH Sr. Adviser Hassett: Big issue with diesel because it's a refined product - Fox Business
+- 09/11 22:22 [financialjuice] WH Sr. Adviser Hassett on diesel prices: A major concern for us right now.
+- 09/11 22:22 [financialjuice] WH Sr. Adviser Hassett: A lot of Diesel refining in places disturbed by war.
+- 09/11 22:23 [FirstSquawk] HASSETT SAYS THERE'S A MAJOR PROBLEM WITH DIESEL AS IT'S A REFINED PRODUCT.
+- 09/11 22:23 [FirstSquawk] HASSETT SAYS DIESEL PRICES ARE A SIGNIFICANT ISSUE FOR THE US CURRENTLY.
+- 09/11 22:23 [financialjuice] WH Sr. Adviser Hassett on $5,000 checks: Could happen through reconciliation.
+- 09/11 22:25 [DeItaone] HASSETT: BIG ISSUE WITH DIESEL BECAUSE IT'S A REFINED PRODUCT
+- 09/11 22:25 [DeItaone] HASSETT ON DIESEL PRICES: A MAJOR CONCERN FOR US RIGHT NOW
+- 09/11 22:27 [financialjuice] Chevron CEO Wirth: Early buffers in the oil market have played out, and the price risk from the Iran war is now higher - Conference.
+- 09/11 22:27 [DeItaone] CHEVRON CEO MIKE WIRTH SAYS EARLY BUFFERS IN OIL MARKET HAVE "PLAYED OUT", PRICE RISK FROM IRAN WAR IS NOW HIGHER -CONFERENCE
+- 09/11 22:30 [financialjuice] Spot premiums for Azeri BTC Crude oil jumped to over $10/bl vs dated Brent amid Middle East oil supply disruption - Traders.
+- 09/11 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 451.3 MLN NASDAQ 100: -0.6 MLN DOW 30: 93.3 MLN MAG 7: -0.9 MLN $MACRO
+- 09/11 22:32 [FirstSquawk] NASDAQ UP 213.80 POINTS, OR 0.82 PERCENT, AT 26,295.53 AFTER MARKET OPEN S&P 500 UP 65.32 POINTS, OR 0.86 PERCENT, AT 7,657.02 AFTER MARKET OPEN DOW JONES UP 539.30 POINTS, OR 1.04 PERCENT, AT 52,603.40 AFTER MARKET OPEN
+- 09/11 22:32 [financialjuice] Chevron: We still see oil price risks to the upside due to Hormuz. $CVX
+- 09/11 22:33 [DeItaone] IRAN PLANS REGIONAL MEETING WITH IRAQ AND OTHER REGIONAL COUNTRIES IN OMAN TO DISCUSS SAFE COMMERCIAL SHIPPING ROUTES IN STRAIT OF HORMUZ ON MONDAY - FOREIGN MINISTRY SPOKESPERSON
+- 09/11 22:33 [financialjuice] Iran Foreign Ministry spokesperson announces plans for regional meeting involving Persian Gulf countries.
