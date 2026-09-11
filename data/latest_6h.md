@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 05:18 JST／対象: 09/11 23:18 〜 09/12 05:18 JST（時刻はすべて日本時間）
+生成: 2026-09-12 05:32 JST／対象: 09/11 23:32 〜 09/12 05:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
-| FirstSquawk | 49 | 09/11 23:23 | 09/12 05:01 | 35分（23:55→00:31） |
-| financialjuice | 59 | 09/11 23:18 | 09/12 05:17 | 37分（02:21→02:58） |
+| FirstSquawk | 48 | 09/11 23:41 | 09/12 05:01 | 35分（23:55→00:31） |
+| financialjuice | 57 | 09/11 23:41 | 09/12 05:25 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 109 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 106 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 23:18 [financialjuice] Fear and Greed Index: 36/100 = Fear
-- 09/11 23:18 [financialjuice] ECB's Lagarde: We are going to proceed meeting by meeting, using data to inform our coming decisions.
-- 09/11 23:19 [financialjuice] Crypto Fear and Greed Index: 56/100 = Greed
-- 09/11 23:19 [financialjuice] ❗ TD changes Fed call to cuts from September vs hold previously [Corrected by the wires at 10:13 ET]
-- 09/11 23:20 [financialjuice] TD changes Fed call to hike from September vs hold previously
-- 09/11 23:23 [FirstSquawk] US PRESIDENT TRUMP: IRAN WILL NEVER POSSESS A NUCLEAR WEAPON
 - 09/11 23:41 [financialjuice] Kremlin: Russia is open to talks, seeks three-way meeting - IFX.
 - 09/11 23:41 [FirstSquawk] KREMLIN: RUSSIA OPEN TO TALKS, SEEKS THREE-WAY MEETING: IFX
 - 09/11 23:55 [FirstSquawk] INDIA PM MODI MET WITH PEZESHKIAN AND EMPHASIZED THE IMPORTANCE OF PERSISTENT EFFORTS FOR LASTING PEACE AND STABILITY IN THE REGION, SAID INDIA'S FOREIGN MINISTRY.
@@ -133,3 +127,6 @@
 - 09/12 05:16 [financialjuice] Anthropic looks to provide a list of wealth advisers to staff. Goldman, BofA vie to manage anthropic staffers’ IPO millions
 - 09/12 05:17 [financialjuice] Wells Fargo, JPM, BNY also pitching wealth services to AI giant.
 - 09/12 05:17 [financialjuice] US bank deposits rose to $19.566 trln from $19.559 trln in prior week.
+- 09/12 05:23 [financialjuice] Iraq appreciates Saudi Arabia's decision to hold off on retaliation - State Media.
+- 09/12 05:24 [financialjuice] Iraq rejects any attack that threatens Saudi security and stability - State Media.
+- 09/12 05:25 [financialjuice] The Iraqi PM has ordered an investigation into the circumstances of the attacks and the parties behind them, and will work with allies and friends to prevent a recurrence of such attacks - State Media.

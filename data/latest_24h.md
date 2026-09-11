@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 05:18 JST／対象: 09/11 05:18 〜 09/12 05:18 JST（時刻はすべて日本時間）
+生成: 2026-09-12 05:32 JST／対象: 09/11 05:32 〜 09/12 05:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/11 06:36 | 09/12 04:10 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 280 | 09/11 05:19 | 09/12 05:01 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 180 | 09/11 05:23 | 09/12 05:17 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 276 | 09/11 05:35 | 09/12 05:01 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 180 | 09/11 06:04 | 09/12 05:25 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 510 行（統合前 515 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 506 行（統合前 511 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 05:19 [FirstSquawk] BRENT CRUDE CLIMBED ABOVE $107, PUSHING US STOCKS AND BONDS LOWER AS RISING ENERGY PRICES INTENSIFIED INFLATION CONCERNS. THE S&P 500 FELL FOR A FOURTH STRAIGHT SESSION, ITS LONGEST LOSING STREAK SINCE JUNE, WHILE TREASURY YIELDS REACHED MU…
-- 09/11 05:19 [FirstSquawk] MARKETS RAISED THE PROBABILITY OF A FED RATE HIKE NEXT WEEK TO 70%, WITH AN INCREASE FULLY PRICED BY OCTOBER. PRODUCER INFLATION ALSO SHOWED RENEWED PRICE PRESSURE FROM HIGHER ENERGY COSTS, INCREASING FOCUS ON THE UPCOMING CPI REPORT.
-- 09/11 05:19 [FirstSquawk] TREASURY’S $5.19B DEBT BUYBACK CAME IN BELOW THE PREVIOUSLY INDICATED AMOUNT, ADDING PRESSURE TO BONDS. THE FED’S SEPT. 15–16 MEETING WILL NOW HINGE HEAVILY ON THIS WEEK’S INFLATION AND ECONOMIC DATA, PARTICULARLY WHETHER SURGING GASOLINE P…
-- 09/11 05:23 [financialjuice] UKMTO has received a report of two vessels involved in an incident 4NM west of Khasab Oman.
-- 09/11 05:24 [financialjuice] UKMTO: The master of the vessel reports seeing four unknown projectiles hit two unknown vessels, causing fire on one vessel, and unsure of the status of the second vessel, 6nm north of his position.
-- 09/11 05:24 [financialjuice] $ADBE Adobe Q3 Earnings Adjusted EPS $6.13, est. $6.08 Revenue $6.76B, est. $6.70B Remaining performance obligations $22.16B, est. $22.72B AI-first ending ARR exceeds $650M, +150% y/y Sees Q4 adjusted EPS $6.30 to $6.35, est. $6.30 Sees Q4 …
-- 09/11 05:25 [FirstSquawk] UKMTO REPORTS TWO VESSELS INVOLVED IN AN INCIDENT 4 NM WEST OF KHASAB, OMAN, WITH THE MASTER REPORTING FOUR UNKNOWN PROJECTILES STRIKING TWO VESSELS. ONE VESSEL CAUGHT FIRE AFTER THE STRIKES, WHILE THE STATUS OF THE SECOND VESSEL REMAINS UN…
 - 09/11 05:35 [FirstSquawk] RUSSIA’S “NET ERRORS AND OMISSIONS” HIT A RECORD $12.2 BILLION IN Q2 2026, UP FROM $1.4 BILLION THE PREVIOUS QUARTER AND MARKING THE LARGEST UNEXPLAINED BALANCE-OF-PAYMENTS GAP SINCE 1994. - SOURCES
 - 09/11 05:35 [FirstSquawk] THE FIGURE IS NOT PROOF OF CAPITAL FLIGHT, AS SANCTIONS WORKAROUNDS AND PAYMENT TIMING CAN ALSO CONTRIBUTE, BUT IT COMES AMID REPORTS OF BILLIONS MOVED ABROAD BY WEALTHY RUSSIANS THROUGH CRYPTO, GOLD, DUBAI PROPERTY AND PRIVATE FUNDS. - SOU…
 - 09/11 05:36 [FirstSquawk] SAUDI OIL PRODUCTION PLUNGED 23% IN AUGUST TO 6.24 MILLION BARRELS A DAY AS THE IRAN WAR AND HOUTHI THREATS DISRUPTED KEY EXPORT ROUTES. - WSJ
@@ -534,3 +527,6 @@
 - 09/12 05:16 [financialjuice] Anthropic looks to provide a list of wealth advisers to staff. Goldman, BofA vie to manage anthropic staffers’ IPO millions
 - 09/12 05:17 [financialjuice] Wells Fargo, JPM, BNY also pitching wealth services to AI giant.
 - 09/12 05:17 [financialjuice] US bank deposits rose to $19.566 trln from $19.559 trln in prior week.
+- 09/12 05:23 [financialjuice] Iraq appreciates Saudi Arabia's decision to hold off on retaliation - State Media.
+- 09/12 05:24 [financialjuice] Iraq rejects any attack that threatens Saudi security and stability - State Media.
+- 09/12 05:25 [financialjuice] The Iraqi PM has ordered an investigation into the circumstances of the attacks and the parties behind them, and will work with allies and friends to prevent a recurrence of such attacks - State Media.

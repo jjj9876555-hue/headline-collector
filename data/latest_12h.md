@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 05:18 JST／対象: 09/11 17:18 〜 09/12 05:18 JST（時刻はすべて日本時間）
+生成: 2026-09-12 05:32 JST／対象: 09/11 17:32 〜 09/12 05:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 37 | 09/11 17:27 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 108 | 09/11 17:21 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 132 | 09/11 17:21 | 09/12 05:17 | 37分（02:21→02:58） |
+| DeItaone | 35 | 09/11 17:48 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
+| FirstSquawk | 106 | 09/11 17:35 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 131 | 09/11 17:36 | 09/12 05:25 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 276 行（統合前 278 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 271 行（統合前 273 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 17:21 [financialjuice] Japan trade delegation preparing China visit in September - Kyodo
-- 09/11 17:21 [FirstSquawk] ZELENSKY AND CANADIAN PM MARK CARNEY FORM A 100-YEAR PARTNERSHIP. CANADA JOINS UKRAINE’S FREYJA ANTI-BALLISTIC MISSILE PROJECT, OFFERS NEW AIR-DEFENSE AID, AND MOVES FORWARD WITH A DRONE DEAL.
-- 09/11 17:25 [FirstSquawk] YEMENI GOVERNMENT FORCES RETREAT FROM PERIM ISLAND IN BAB EL-MANDEB STRAIT
-- 09/11 17:27 [DeItaone] WALL STREET SEES 4%-5% TREASURY YIELDS AS NEW NORMAL Treasury yields are reaching levels unseen since 2008, as markets increasingly bet the Fed’s next move will be a hike. Bloomberg Economics argues the shift is structural: rising governmen…
-- 09/11 17:28 [financialjuice] Microsoft plans to triple data center capacity to 38 Gigawatts.
-- 09/11 17:28 [DeItaone] YEMENI GOVERNMENT FORCES WITHDRAW FROM PERIM ISLAND IN BAB EL-MANDEB STRAIT - TWO YEMENI GOVERMENTAL SOURCES
-- 09/11 17:31 [financialjuice] UK 1 YR INFLATION EXPECTATIONS ACTUAL 3.2% (FORECAST -, PREVIOUS 4%) $MACRO
-- 09/11 17:32 [financialjuice] Bank of England median one-year, two-year and five-year ahead expectations were 3.6%, 3.1% and 3.3% respectively.
 - 09/11 17:35 [FirstSquawk] HOUTHI SPOKESMAN: YEMENI ARMED FORCES TO ANNOUNCE MAJOR MILITARY OPERATIONS
 - 09/11 17:36 [financialjuice] France Fin. Min. Lescure: Economic uncertainties have never been so high.
 - 09/11 17:41 [FirstSquawk] FRENCH FINMIN LESCURE: ECONOMIC UNCERTAINTIES HAVE NEVER BEEN SO HIGH
@@ -300,3 +292,6 @@
 - 09/12 05:16 [financialjuice] Anthropic looks to provide a list of wealth advisers to staff. Goldman, BofA vie to manage anthropic staffers’ IPO millions
 - 09/12 05:17 [financialjuice] Wells Fargo, JPM, BNY also pitching wealth services to AI giant.
 - 09/12 05:17 [financialjuice] US bank deposits rose to $19.566 trln from $19.559 trln in prior week.
+- 09/12 05:23 [financialjuice] Iraq appreciates Saudi Arabia's decision to hold off on retaliation - State Media.
+- 09/12 05:24 [financialjuice] Iraq rejects any attack that threatens Saudi security and stability - State Media.
+- 09/12 05:25 [financialjuice] The Iraqi PM has ordered an investigation into the circumstances of the attacks and the parties behind them, and will work with allies and friends to prevent a recurrence of such attacks - State Media.
