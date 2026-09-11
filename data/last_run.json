@@ -1,5 +1,5 @@
 {
- "run_utc": "2026-09-11T22:42:25+00:00",
+ "run_utc": "2026-09-11T22:52:26+00:00",
  "sources": {
   "tg:WalterBloomberg": {
    "ok": true,
@@ -18,12 +18,12 @@
   "tg:FinancialJuice": {
    "ok": true,
    "fetched": 20,
-   "new": 0,
-   "oldest_jst": "2026-09-12 05:16",
-   "newest_jst": "2026-09-12 06:50"
+   "new": 1,
+   "oldest_jst": "2026-09-12 05:17",
+   "newest_jst": "2026-09-12 07:48"
   }
  },
- "stored": 1899,
+ "stored": 1897,
  "cme": null,
  "cme_detail": "20260911/F http 403"
 }

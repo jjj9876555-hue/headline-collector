@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 07:42 JST／対象: 09/11 07:42 〜 09/12 07:42 JST（時刻はすべて日本時間）
+生成: 2026-09-12 07:52 JST／対象: 09/11 07:52 〜 09/12 07:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 52 | 09/11 08:32 | 09/12 04:10 | ⚠ 376分（08:48→15:05） |
 | FirstSquawk | 265 | 09/11 09:00 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 184 | 09/11 08:01 | 09/12 06:50 | ⚠ 287分（10:47→15:34） |
+| financialjuice | 185 | 09/11 08:01 | 09/12 07:48 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 497 行（統合前 503 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 498 行（統合前 504 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -521,3 +521,4 @@
 - 09/12 06:22 [financialjuice] Saudi civil defence: early warning issued in Khamis Mushait to signal possible threat
 - 09/12 06:33 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait
 - 09/12 06:50 [financialjuice] Iraqi military commander removed after probe confirms drone attacks on Saudi Arabia came from Iraq: Iraqi PM office
+- 09/12 07:48 [financialjuice] AI startup Discovery Loop targets valuation near $50 billion - Business Insider

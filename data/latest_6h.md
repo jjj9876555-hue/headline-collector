@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 07:42 JST／対象: 09/12 01:42 〜 09/12 07:42 JST（時刻はすべて日本時間）
+生成: 2026-09-12 07:52 JST／対象: 09/12 01:52 〜 09/12 07:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
 | FirstSquawk | 34 | 09/12 02:03 | 09/12 05:01 | 13分（02:03→02:16） |
-| financialjuice | 52 | 09/12 01:48 | 09/12 06:50 | 37分（02:21→02:58） |
+| financialjuice | 52 | 09/12 02:01 | 09/12 07:48 | ⚠ 58分（06:50→07:48） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 87 行（統合前 89 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 01:48 [financialjuice] The US weighs how to use DPA to expand oil refining capacity - Sources.
 - 09/12 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 591 (FORECAST -, PREVIOUS 588) $MACRO
 - 09/12 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 450 (FORECAST -, PREVIOUS 449) $MACRO
 - 09/12 02:03 [FirstSquawk] US OIL RIG COUNT UP 1 TO 450 || US GAS RIG COUNT UP 2 TO 132 || US TOTAL RIG COUNT 591 , BAKER HUGHES SAYS
@@ -111,3 +110,4 @@
 - 09/12 06:22 [financialjuice] Saudi civil defence: early warning issued in Khamis Mushait to signal possible threat
 - 09/12 06:33 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait
 - 09/12 06:50 [financialjuice] Iraqi military commander removed after probe confirms drone attacks on Saudi Arabia came from Iraq: Iraqi PM office
+- 09/12 07:48 [financialjuice] AI startup Discovery Loop targets valuation near $50 billion - Business Insider
