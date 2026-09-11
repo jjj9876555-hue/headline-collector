@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 21:23 JST／対象: 09/11 15:23 〜 09/11 21:23 JST（時刻はすべて日本時間）
+生成: 2026-09-11 21:48 JST／対象: 09/11 15:48 〜 09/11 21:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/11 15:25 | 09/11 20:57 | 37分（19:03→19:41） |
-| FirstSquawk | 74 | 09/11 15:24 | 09/11 20:35 | 21分（19:03→19:25） |
-| financialjuice | 41 | 09/11 15:34 | 09/11 21:18 | ⚠ 55分（16:05→17:01） |
+| DeItaone | 29 | 09/11 16:08 | 09/11 21:42 | 37分（19:03→19:41） |
+| FirstSquawk | 70 | 09/11 16:00 | 09/11 21:36 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 48 | 09/11 16:05 | 09/11 21:44 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 139 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 15:24 [FirstSquawk] France must cut its deficit, Moulin says.
-- 09/11 15:24 [FirstSquawk] ASX 200 sheds 0.9%, finishing at 8,741.20.
-- 09/11 15:25 [DeItaone] TRUMP REPORTEDLY REJECTS MBS REQUEST TO STRIKE HOUTHIS Saudi Crown Prince Mohammed bin Salman asked President Trump to launch airstrikes against the Houthis, according to Axios, citing U.S. officials. Trump reportedly refused, as Washington…
-- 09/11 15:25 [FirstSquawk] Ukraine’s Sept. 1–9 food exports hit 630,000 tons, of which 380,000 tons are grain, farm minister says.
-- 09/11 15:25 [FirstSquawk] France should avoid adding more uncertainty to its budget situation, Moulin says.
-- 09/11 15:30 [FirstSquawk] Russia’s Sberbank sees significant scope for CBDCs in India-Russia trade payments, CEO says.
-- 09/11 15:32 [FirstSquawk] Sberbank chief says CBDCs offer much greater efficiency for trade settlements and the bank is helping central banks.
-- 09/11 15:32 [FirstSquawk] UK DMO adds Natixis as an associate GEMM.
-- 09/11 15:34 [financialjuice] ECB's Nagel: Next ECB moves dependent on energy price development.
-- 09/11 15:35 [DeItaone] IRAN, PAKISTAN DISCUSS PATH BACK TO TALKS Iranian Foreign Minister Abbas Araqchi and Pakistan’s army chief Asim Munir discussed efforts to de-escalate the U.S.-Iran conflict, a Pakistani security official told Reuters. The talks also covere…
-- 09/11 15:36 [FirstSquawk] India settles most of its oil purchases from Russia in rupees, Sberbank CEO says.
-- 09/11 15:36 [FirstSquawk] Energy prices will determine ECB policy moves, Nagel says.
-- 09/11 15:36 [financialjuice] ECB's Nagel: Low gas storage level not a real concern.
-- 09/11 15:36 [financialjuice] ECB's Nagel: At upper bound of neutral territory.
-- 09/11 15:37 [financialjuice] ECB's Nagel: We might need to go into mildly restrictive territory.
-- 09/11 15:37 [FirstSquawk] Nagel: A mildly restrictive policy stance may become necessary.
-- 09/11 15:42 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:00 AM ET — 🛒 Kroger Earnings 8:30 AM ET — 🇺🇸 August CPI + Real Earnings 10:00 AM ET — 🇺🇸 Michigan Consumer Sentiment 10:00 AM ET — 🇺🇸 Michigan Inflation Expectations 12:00 PM ET — 🏦 Fed Financial Acco…
-- 09/11 15:45 [FirstSquawk] SoftBank Group receives inaugural ‘BB+’ rating from Fitch with stable outlook.
-- 09/11 15:46 [DeItaone] FRANCE DEBT CANCELLATION PLAN SLAMMED AS “DANGEROUS” Bank of France chief Emmanuel Moulin warned that Jean-Luc Mélenchon’s proposal to cancel 18% of France’s national debt would amount to a default, calling it “illegal, dangerous and useles…
 - 09/11 16:00 [FirstSquawk] TURKEY (SEP) EXPECTED INFLATION NEXT 12MTH ACTUAL: 23.70% VS 23.69% PREVIOUS
 - 09/11 16:00 [FirstSquawk] TURKEY (JUL) CURRENT ACCOUNT BALANCE ACTUAL: 0.04B VS -4.19B PREVIOUS;EST 0.70B
 - 09/11 16:00 [FirstSquawk] SWITZERLAND (AUG) SECO CONSUMER CONFIDENCE ACTUAL: -32.8 VS -34.8 PREVIOUS;EST -32.0
@@ -160,3 +141,29 @@
 - 09/11 20:57 [DeItaone] CPI SET TO DECIDE NEXT WEEK’S FED HIKE Markets currently price a 61% chance of a 25-bp Fed hike on September 16, versus 39% for a hold, according to Kalshi. With consensus expecting 0.2% core and 0.4% headline CPI M/M, Friday’s inflation pr…
 - 09/11 21:00 [financialjuice] Secured overnight financing rate: 3.62% September 10th vs 3.64% September 9th.
 - 09/11 21:18 [financialjuice] Salesforce expands Agentforce with a new portfolio of AI agents $CRM
+- 09/11 21:30 [financialjuice] ‼ BREAKING: US CPI MOM ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.1%) $MACRO
+- 09/11 21:30 [financialjuice] ❗ US CORE CPI MOM ACTUAL 0.3% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
+- 09/11 21:30 [FirstSquawk] US CPI (MOM) (AUG) ACTUAL: 0.4% VS 0.1% PREVIOUS; EST. 0.4%
+- 09/11 21:30 [financialjuice] ❗ US CPI YOY ACTUAL 3.4% (FORECAST 3.4%, PREVIOUS 3.4%) $MACRO
+- 09/11 21:30 [financialjuice] ❗ US CORE CPI YOY ACTUAL 2.4% (FORECAST 2.4%, PREVIOUS 2.5%) $MACRO
+- 09/11 21:30 [FirstSquawk] US CORE CPI (MOM) (AUG) ACTUAL: 0.3% VS 0.2% PREVIOUS; EST. 0.2%
+- 09/11 21:30 [DeItaone] *US AUG. CONSUMER PRICES RISE 0.4% M/M; EST. +0.4%
+- 09/11 21:30 [FirstSquawk] US CPI (YOY) (AUG) ACTUAL: 3.4% VS 3.4% PREVIOUS; EST. 3.4%
+- 09/11 21:30 [FirstSquawk] US CORE CPI (YOY) (AUG) ACTUAL: 2.4% VS 2.5% PREVIOUS; EST. 2.4%
+- 09/11 21:30 [DeItaone] *US AUG. CORE CPI RISES 0.3% M/M; EST. +0.2%
+- 09/11 21:31 [DeItaone] *US AUG. CORE CPI RISES 2.4% Y/Y; EST. +2.4%
+- 09/11 21:31 [DeItaone] *US AUG. CONSUMER PRICES RISE 3.4% Y/Y; EST. +3.4%
+- 09/11 21:31 [financialjuice] ❗ US Short-term interest-rate futures drop after inflation data as traders add to bets on September Fed rate hike.
+- 09/11 21:32 [financialjuice/DeItaone] ❗ Traders now see about a 90% chance of a Fed rate hike next week, vs about 70% before the inflation report.
+- 09/11 21:32 [financialjuice] US CPI August Report
+- 09/11 21:34 [financialjuice] ❗ Traders fully price in two Fed rate hikes by year-end
+- 09/11 21:34 [financialjuice] ❗ US Supercore CPI YoY: 2.84%, previous 2.84%
+- 09/11 21:35 [financialjuice] ❗ US Supercore CPI MoM: 0.51%, previous 0.19%
+- 09/11 21:36 [FirstSquawk] US SUPERCORE CPI ROSE TO 0.511% IN AUGUST FROM 0.189% LAST MONTH. YEARLY INCREASE NOW AT 3.022%, UP FROM 2.843%.
+- 09/11 21:36 [FirstSquawk] NASDAQ 100 FUTURES INCREASED BY 0.7%.
+- 09/11 21:36 [FirstSquawk] S&P 500 FUTURES INCREASE BY 0.56%, CORE CPI RISES MORE THAN EXPECTED.
+- 09/11 21:36 [DeItaone] 🚨 US INFLATION ACCELERATES — FED HIKE RISK RISES US inflation picked up in August, strengthening the case for another Fed rate hike next week. Headline CPI rose 0.4% M/M and 3.4% Y/Y, while core CPI increased 0.3% M/M. Gasoline was a key dr…
+- 09/11 21:38 [DeItaone] 🚨 US CPI: Inflation Comes In Hotter Than Expected August US inflation data delivered a firmer-than-expected headline reading, adding another complication to the Federal Reserve outlook. Headline CPI rose 0.396% M/M on an unrounded basis, ef…
+- 09/11 21:40 [DeItaone] PUTIN: WEST IS RESORTING TO DIRECT DESTRUCTION OF FACILITIES AND PIPELINES IN AN EFFORT TO MAINTAIN ITS ECONOMIC LEADERSHIP
+- 09/11 21:42 [DeItaone] US CORE INFLATION UPSIDE DRIVEN BY SUPERCORE The latest inflation details show the upside surprise was driven by supercore services, while core goods were softer than expected. Lodging was a notable upside outlier, while housing came in sof…
+- 09/11 21:44 [financialjuice] GERMAN CURRENT ACCOUNT BALANCE NSA ACTUAL 21.154B (FORECAST -, PREVIOUS 19.0B) $MACRO

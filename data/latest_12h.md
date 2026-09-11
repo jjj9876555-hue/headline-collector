@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 21:23 JST／対象: 09/11 09:23 〜 09/11 21:23 JST（時刻はすべて日本時間）
+生成: 2026-09-11 21:48 JST／対象: 09/11 09:48 〜 09/11 21:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 25 | 09/11 15:05 | 09/11 20:57 | 37分（19:03→19:41） |
-| FirstSquawk | 180 | 09/11 09:24 | 09/11 20:35 | 21分（19:03→19:25） |
-| financialjuice | 51 | 09/11 09:28 | 09/11 21:18 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 34 | 09/11 15:05 | 09/11 21:42 | 37分（19:03→19:41） |
+| FirstSquawk | 179 | 09/11 09:52 | 09/11 21:36 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 59 | 09/11 10:00 | 09/11 21:44 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 253 行（統合前 256 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 268 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 09:24 [FirstSquawk] China CSSC Holdings says it is taking action to address a cargo vessel fire at its shipyard.
-- 09/11 09:28 [financialjuice] China PBOC forecast to set yuan midpoint at 6.7174 per dollar: estimate
-- 09/11 09:35 [FirstSquawk] Two-year JGB yield climbs 1 bp to 1.830%.
-- 09/11 09:41 [FirstSquawk] America’s Fast-Food Industry Pivots Back to Human Labor
-- 09/11 09:42 [FirstSquawk] Yield on the 20-year JGB advances 5.5 basis points, reaching 3.805%.
-- 09/11 09:42 [FirstSquawk] Yield on the 5-year JGB advances 3 basis points to 2.250%.
-- 09/11 09:46 [FirstSquawk] Nikkei tumbles over 3% at the open as surging crude futures pressure Japanese equities.
-- 09/11 09:46 [financialjuice] to single stocks including Tesla, Apple and Nvidia: WSJ
-- 09/11 09:47 [financialjuice] Kalshi planning to seek regulatory approval to offer regulated perpetual futures
-- 09/11 09:47 [FirstSquawk] Kalshi eyes regulatory approval to launch perpetual futures linked to stocks including Tesla, Apple and Nvidia, WSJ reports.
-- 09/11 09:48 [FirstSquawk] 10-year Treasury yield climbs 2.6 bps to 4.9708%, reaching its highest since October 2023.
 - 09/11 09:52 [FirstSquawk] 30-year Treasury yield climbs 1.7 bps to 5.378%, reaching its highest since 2007.
 - 09/11 09:57 [FirstSquawk] EUR/USD flatlines above 1.1600 as traders turn their attention to upcoming U.S. CPI figures following the ECB’s hawkish hike.
 - 09/11 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus previous session open at 0.805%
@@ -277,3 +266,29 @@
 - 09/11 20:57 [DeItaone] CPI SET TO DECIDE NEXT WEEK’S FED HIKE Markets currently price a 61% chance of a 25-bp Fed hike on September 16, versus 39% for a hold, according to Kalshi. With consensus expecting 0.2% core and 0.4% headline CPI M/M, Friday’s inflation pr…
 - 09/11 21:00 [financialjuice] Secured overnight financing rate: 3.62% September 10th vs 3.64% September 9th.
 - 09/11 21:18 [financialjuice] Salesforce expands Agentforce with a new portfolio of AI agents $CRM
+- 09/11 21:30 [financialjuice] ‼ BREAKING: US CPI MOM ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.1%) $MACRO
+- 09/11 21:30 [financialjuice] ❗ US CORE CPI MOM ACTUAL 0.3% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
+- 09/11 21:30 [FirstSquawk] US CPI (MOM) (AUG) ACTUAL: 0.4% VS 0.1% PREVIOUS; EST. 0.4%
+- 09/11 21:30 [financialjuice] ❗ US CPI YOY ACTUAL 3.4% (FORECAST 3.4%, PREVIOUS 3.4%) $MACRO
+- 09/11 21:30 [financialjuice] ❗ US CORE CPI YOY ACTUAL 2.4% (FORECAST 2.4%, PREVIOUS 2.5%) $MACRO
+- 09/11 21:30 [FirstSquawk] US CORE CPI (MOM) (AUG) ACTUAL: 0.3% VS 0.2% PREVIOUS; EST. 0.2%
+- 09/11 21:30 [DeItaone] *US AUG. CONSUMER PRICES RISE 0.4% M/M; EST. +0.4%
+- 09/11 21:30 [FirstSquawk] US CPI (YOY) (AUG) ACTUAL: 3.4% VS 3.4% PREVIOUS; EST. 3.4%
+- 09/11 21:30 [FirstSquawk] US CORE CPI (YOY) (AUG) ACTUAL: 2.4% VS 2.5% PREVIOUS; EST. 2.4%
+- 09/11 21:30 [DeItaone] *US AUG. CORE CPI RISES 0.3% M/M; EST. +0.2%
+- 09/11 21:31 [DeItaone] *US AUG. CORE CPI RISES 2.4% Y/Y; EST. +2.4%
+- 09/11 21:31 [DeItaone] *US AUG. CONSUMER PRICES RISE 3.4% Y/Y; EST. +3.4%
+- 09/11 21:31 [financialjuice] ❗ US Short-term interest-rate futures drop after inflation data as traders add to bets on September Fed rate hike.
+- 09/11 21:32 [financialjuice/DeItaone] ❗ Traders now see about a 90% chance of a Fed rate hike next week, vs about 70% before the inflation report.
+- 09/11 21:32 [financialjuice] US CPI August Report
+- 09/11 21:34 [financialjuice] ❗ Traders fully price in two Fed rate hikes by year-end
+- 09/11 21:34 [financialjuice] ❗ US Supercore CPI YoY: 2.84%, previous 2.84%
+- 09/11 21:35 [financialjuice] ❗ US Supercore CPI MoM: 0.51%, previous 0.19%
+- 09/11 21:36 [FirstSquawk] US SUPERCORE CPI ROSE TO 0.511% IN AUGUST FROM 0.189% LAST MONTH. YEARLY INCREASE NOW AT 3.022%, UP FROM 2.843%.
+- 09/11 21:36 [FirstSquawk] NASDAQ 100 FUTURES INCREASED BY 0.7%.
+- 09/11 21:36 [FirstSquawk] S&P 500 FUTURES INCREASE BY 0.56%, CORE CPI RISES MORE THAN EXPECTED.
+- 09/11 21:36 [DeItaone] 🚨 US INFLATION ACCELERATES — FED HIKE RISK RISES US inflation picked up in August, strengthening the case for another Fed rate hike next week. Headline CPI rose 0.4% M/M and 3.4% Y/Y, while core CPI increased 0.3% M/M. Gasoline was a key dr…
+- 09/11 21:38 [DeItaone] 🚨 US CPI: Inflation Comes In Hotter Than Expected August US inflation data delivered a firmer-than-expected headline reading, adding another complication to the Federal Reserve outlook. Headline CPI rose 0.396% M/M on an unrounded basis, ef…
+- 09/11 21:40 [DeItaone] PUTIN: WEST IS RESORTING TO DIRECT DESTRUCTION OF FACILITIES AND PIPELINES IN AN EFFORT TO MAINTAIN ITS ECONOMIC LEADERSHIP
+- 09/11 21:42 [DeItaone] US CORE INFLATION UPSIDE DRIVEN BY SUPERCORE The latest inflation details show the upside surprise was driven by supercore services, while core goods were softer than expected. Lodging was a notable upside outlier, while housing came in sof…
+- 09/11 21:44 [financialjuice] GERMAN CURRENT ACCOUNT BALANCE NSA ACTUAL 21.154B (FORECAST -, PREVIOUS 19.0B) $MACRO

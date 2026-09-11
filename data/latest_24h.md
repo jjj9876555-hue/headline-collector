@@ -7,53 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 21:23 JST／対象: 09/10 21:23 〜 09/11 21:23 JST（時刻はすべて日本時間）
+生成: 2026-09-11 21:48 JST／対象: 09/10 21:48 〜 09/11 21:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 59 | 09/10 21:30 | 09/11 20:57 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 340 | 09/10 21:24 | 09/11 20:35 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 253 | 09/10 21:29 | 09/11 21:18 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 64 | 09/10 22:07 | 09/11 21:42 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 332 | 09/10 21:49 | 09/11 21:36 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 249 | 09/10 21:53 | 09/11 21:44 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 634 行（統合前 658 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 631 行（統合前 649 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 21:24 [FirstSquawk] US TREASURY YIELDS CLIMB LED BY EURO-ZONE DEBT AFTER ECB RATE HIKE
-- 09/10 21:24 [FirstSquawk] SPOT SILVER FALLS NEARLY 3% TO $65.27/OZ
-- 09/10 21:29 [financialjuice] Trump tariffs on refined Copper are not a foregone conclusion - Sources
-- 09/10 21:30 [DeItaone] *US JOBLESS CLAIMS 206,000 IN SEPT. 5 WEEK; EST. 205K
-- 09/10 21:30 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.774M (FORECAST 1.78M, PREVIOUS 1.779M) $MACRO
-- 09/10 21:30 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 206K (FORECAST 205K, PREVIOUS 206K) $MACRO
-- 09/10 21:30 [DeItaone] *US AUG. PRODUCER PRICES RISE 5.4% Y/Y; EST. +5.3%
-- 09/10 21:30 [financialjuice] ‼ BREAKING: US PPI YOY ACTUAL 5.4% (FORECAST 5.3%, PREVIOUS 4.7%) $MACRO
-- 09/10 21:30 [financialjuice] ❗ US CORE PPI MOM ACTUAL 0.2% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
-- 09/10 21:30 [financialjuice] ❗ US CORE PPI YOY ACTUAL 4.6% (FORECAST 4.6%, PREVIOUS 4.2%) $MACRO
-- 09/10 21:30 [financialjuice] ❗ US PPI MOM ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.0%) $MACRO
-- 09/10 21:30 [FirstSquawk] US PPI (MOM) (AUG) ACTUAL: 0.4% VS 0.0% PREVIOUS; EST 0.4%
-- 09/10 21:30 [DeItaone] *US AUG. PRODUCER PRICES RISE 0.4% M/M; EST. +0.4% *US AUG. PRODUCER PRICES RISE 5.4% Y/Y; EST. +5.3% *US AUG. CORE PPI RISES 0.2% M/M; EST. +0.3% *US AUG. CORE PPI RISES 4.6% Y/Y; EST. +4.6%
-- 09/10 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 206K VS 206K PREVIOUS; EST 205K
-- 09/10 21:31 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1774K VS 1779K PREVIOUS; EST 1780K
-- 09/10 21:32 [FirstSquawk] U.S. CRUDE FUTURES EXTENDED GAINS TO HIT $100/BBL FOR THE FIRST TIME SINCE MAY 21 ON INTENSIFYING MIDDLE EAST CONFLICT
-- 09/10 21:33 [financialjuice] US PPI August 2026 Report
-- 09/10 21:34 [FirstSquawk] BRENT OIL FUTURES RISE ABOVE $105 A BARREL
-- 09/10 21:34 [FirstSquawk/financialjuice] US SHORT-TERM INTEREST-RATE FUTURES FALL SLIGHTLY AFTER ECONOMIC DATA, AS TRADERS EDGE UP BETS ON FED RATE HIKE
-- 09/10 21:35 [FirstSquawk] INDIA TRADE MINISTER: INDIA, RUSSIA TO FAST TRACK TALKS FOR CONCLUDING BILATERAL INVESTMENT TREATY
-- 09/10 21:36 [financialjuice/FirstSquawk] ❗ Traders fully price four BoE rate hikes, first time since March.
-- 09/10 21:37 [financialjuice/FirstSquawk] ❗ Traders fully price in Fed rate hike in October after PPI data
-- 09/10 21:38 [financialjuice] WATCH LIVE: ECB Press Conference at 08:45 ET
-- 09/10 21:39 [financialjuice] ❗ Traders price in 75 bps of additional ECB hikes by October 2027
-- 09/10 21:40 [FirstSquawk] TRADERS PRICE 75BPS OF ADDITIONAL ECB HIKES BY OCT 2027
-- 09/10 21:41 [financialjuice/FirstSquawk] ❗ Money markets price in ECB depo rate at 3.22% in September 2027 from 3.01% before ECB statement
-- 09/10 21:41 [FirstSquawk/DeItaone] US 30-YEAR YIELD RISES TO 5.34%, HIGHEST SINCE JUNE 2007
-- 09/10 21:41 [FirstSquawk] SPOT SILVER EXTENDS LOSSES, LAST DOWN NEARLY 5% AT $63.94/OZ
-- 09/10 21:44 [FirstSquawk] TRADERS FULLY PRICE 4 BOE RATE HIKES, FIRST SINCE MARCH
-- 09/10 21:46 [financialjuice] ❗ Money markets price in the ECB deposit rate at 2.80% in December, up from 2.74% before the ECB statement.
+- 09/10 21:49 [FirstSquawk] MONEY MARKETS PRICE IN ECB DEPO RATE AT 3.22% IN SEPTEMBER 2027 FROM 3.01% BEFORE ECB STATEMENT
 - 09/10 21:49 [FirstSquawk] MONEY MARKETS PRICE IN ECB DEPO RATE AT 2.80% IN DECEMBER FROM 2.74% BEFORE ECB STATEMENT
 - 09/10 21:53 [financialjuice] ECB's Lagarde: The economy is proving resilient.
 - 09/10 21:53 [financialjuice] ECB's Lagarde: Resilience likely to persist into Q3.
@@ -658,3 +629,29 @@
 - 09/11 20:57 [DeItaone] CPI SET TO DECIDE NEXT WEEK’S FED HIKE Markets currently price a 61% chance of a 25-bp Fed hike on September 16, versus 39% for a hold, according to Kalshi. With consensus expecting 0.2% core and 0.4% headline CPI M/M, Friday’s inflation pr…
 - 09/11 21:00 [financialjuice] Secured overnight financing rate: 3.62% September 10th vs 3.64% September 9th.
 - 09/11 21:18 [financialjuice] Salesforce expands Agentforce with a new portfolio of AI agents $CRM
+- 09/11 21:30 [financialjuice] ‼ BREAKING: US CPI MOM ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.1%) $MACRO
+- 09/11 21:30 [financialjuice] ❗ US CORE CPI MOM ACTUAL 0.3% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
+- 09/11 21:30 [FirstSquawk] US CPI (MOM) (AUG) ACTUAL: 0.4% VS 0.1% PREVIOUS; EST. 0.4%
+- 09/11 21:30 [financialjuice] ❗ US CPI YOY ACTUAL 3.4% (FORECAST 3.4%, PREVIOUS 3.4%) $MACRO
+- 09/11 21:30 [financialjuice] ❗ US CORE CPI YOY ACTUAL 2.4% (FORECAST 2.4%, PREVIOUS 2.5%) $MACRO
+- 09/11 21:30 [FirstSquawk] US CORE CPI (MOM) (AUG) ACTUAL: 0.3% VS 0.2% PREVIOUS; EST. 0.2%
+- 09/11 21:30 [DeItaone] *US AUG. CONSUMER PRICES RISE 0.4% M/M; EST. +0.4%
+- 09/11 21:30 [FirstSquawk] US CPI (YOY) (AUG) ACTUAL: 3.4% VS 3.4% PREVIOUS; EST. 3.4%
+- 09/11 21:30 [FirstSquawk] US CORE CPI (YOY) (AUG) ACTUAL: 2.4% VS 2.5% PREVIOUS; EST. 2.4%
+- 09/11 21:30 [DeItaone] *US AUG. CORE CPI RISES 0.3% M/M; EST. +0.2%
+- 09/11 21:31 [DeItaone] *US AUG. CORE CPI RISES 2.4% Y/Y; EST. +2.4%
+- 09/11 21:31 [DeItaone] *US AUG. CONSUMER PRICES RISE 3.4% Y/Y; EST. +3.4%
+- 09/11 21:31 [financialjuice] ❗ US Short-term interest-rate futures drop after inflation data as traders add to bets on September Fed rate hike.
+- 09/11 21:32 [financialjuice/DeItaone] ❗ Traders now see about a 90% chance of a Fed rate hike next week, vs about 70% before the inflation report.
+- 09/11 21:32 [financialjuice] US CPI August Report
+- 09/11 21:34 [financialjuice] ❗ Traders fully price in two Fed rate hikes by year-end
+- 09/11 21:34 [financialjuice] ❗ US Supercore CPI YoY: 2.84%, previous 2.84%
+- 09/11 21:35 [financialjuice] ❗ US Supercore CPI MoM: 0.51%, previous 0.19%
+- 09/11 21:36 [FirstSquawk] US SUPERCORE CPI ROSE TO 0.511% IN AUGUST FROM 0.189% LAST MONTH. YEARLY INCREASE NOW AT 3.022%, UP FROM 2.843%.
+- 09/11 21:36 [FirstSquawk] NASDAQ 100 FUTURES INCREASED BY 0.7%.
+- 09/11 21:36 [FirstSquawk] S&P 500 FUTURES INCREASE BY 0.56%, CORE CPI RISES MORE THAN EXPECTED.
+- 09/11 21:36 [DeItaone] 🚨 US INFLATION ACCELERATES — FED HIKE RISK RISES US inflation picked up in August, strengthening the case for another Fed rate hike next week. Headline CPI rose 0.4% M/M and 3.4% Y/Y, while core CPI increased 0.3% M/M. Gasoline was a key dr…
+- 09/11 21:38 [DeItaone] 🚨 US CPI: Inflation Comes In Hotter Than Expected August US inflation data delivered a firmer-than-expected headline reading, adding another complication to the Federal Reserve outlook. Headline CPI rose 0.396% M/M on an unrounded basis, ef…
+- 09/11 21:40 [DeItaone] PUTIN: WEST IS RESORTING TO DIRECT DESTRUCTION OF FACILITIES AND PIPELINES IN AN EFFORT TO MAINTAIN ITS ECONOMIC LEADERSHIP
+- 09/11 21:42 [DeItaone] US CORE INFLATION UPSIDE DRIVEN BY SUPERCORE The latest inflation details show the upside surprise was driven by supercore services, while core goods were softer than expected. Lodging was a notable upside outlier, while housing came in sof…
+- 09/11 21:44 [financialjuice] GERMAN CURRENT ACCOUNT BALANCE NSA ACTUAL 21.154B (FORECAST -, PREVIOUS 19.0B) $MACRO
