@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 18:52 JST／対象: 09/11 06:52 〜 09/11 18:52 JST（時刻はすべて日本時間）
+生成: 2026-09-11 19:05 JST／対象: 09/11 07:05 〜 09/11 19:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/11 07:31 | 09/11 18:48 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 178 | 09/11 07:37 | 09/11 18:48 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 52 | 09/11 07:10 | 09/11 18:21 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 24 | 09/11 07:31 | 09/11 19:03 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 182 | 09/11 07:37 | 09/11 19:03 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 54 | 09/11 07:10 | 09/11 19:03 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 249 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 257 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -273,3 +273,11 @@
 - 09/11 18:44 [FirstSquawk] INSIDE GERMANY’S €3.4B TOMAHAWK MISSILE PLAN - POLITICO
 - 09/11 18:48 [FirstSquawk] GERMAN FINANCE MINISTRY SPOKESPERSON: COMMERZBANK IS IMPORTANT FOR SME FINANCING, GERMAN FINANCIAL SECTOR
 - 09/11 18:48 [DeItaone] 5% TREASURY YIELD SEEN AS KEY STOCK-MARKET DANGER ZONE With the 10-year Treasury yield above 4.96%, a Bloomberg survey shows investors increasingly see 5%-5.25% as the level that could trigger a 10% S&P 500 correction. Still, more than two-…
+- 09/11 18:53 [FirstSquawk] EU COMMISSION GIVES GREEN LIGHT FOR €6.1 BILLION TO SUPPORT UKRAINE'S AIR DEFENSE AND AMMUNITION.
+- 09/11 18:57 [FirstSquawk] SWISS NATIONAL BANK CHAIRMAN STATES THAT THE SWISS FRANC EXCHANGE RATE IS A CHALLENGE FOR THE SWISS ECONOMY, BUT THE REAL FRANC HAS REMAINED STABLE SINCE 2020.
+- 09/11 18:57 [financialjuice] SNB's Chairman Schlegel: Swiss Franc exchange rate a challenge for swiss economy, but real franc has been stable since 2020.
+- 09/11 19:02 [DeItaone] U.S., MEXICO RACE FOR TRADE DEAL BEFORE MIDTERMS The U.S. and Mexico are pushing for an interim bilateral trade deal before the November elections, Reuters reports, after negotiations with Canada collapsed. Mexico is seeking relief from 50%…
+- 09/11 19:03 [financialjuice] No official confirmation from Saudi Arabia on incident near East West oil pipeline.
+- 09/11 19:03 [DeItaone] SATELLITE IMAGERY SHOWS SMOKE ON THURSDAY IN VICINITY OF SAUDI ARABIA'S EAST WEST OIL PIPELINE
+- 09/11 19:03 [FirstSquawk] SATELLITE IMAGES CAPTURED SMOKE NEAR SAUDI ARABIA'S EAST WEST OIL PIPELINE ON THURSDAY.
+- 09/11 19:03 [FirstSquawk] NO OFFICIAL WORD FROM SAUDI ARABIA ON INCIDENT CLOSE TO EAST WEST OIL PIPELINE.
