@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 07:52 JST／対象: 09/11 19:52 〜 09/12 07:52 JST（時刻はすべて日本時間）
+生成: 2026-09-12 08:04 JST／対象: 09/11 20:04 〜 09/12 08:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/11 20:06 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 80 | 09/11 19:56 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 131 | 09/11 20:01 | 09/12 07:48 | ⚠ 58分（06:50→07:48） |
+| FirstSquawk | 78 | 09/11 20:20 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 134 | 09/11 20:13 | 09/12 08:03 | ⚠ 58分（06:50→07:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 238 行（統合前 241 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 239 行（統合前 242 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 19:56 [FirstSquawk] Kroger Q2 2026 Earnings - Adj EPS $1.09 (est $1.05) - Sales $34.6B (est $34.69B) - Identical-Store Sales Ex-Fuel +0.2% (est +0.88%) - Still Sees FY Adj EPS $5.10 To $5.30 (est $5.22) - Still Sees FY CAPEX $3.8B To $4.03 (est $3.95B)
-- 09/11 20:01 [financialjuice] EU put on hold proposal for trade measure on aluminum scrap.
-- 09/11 20:04 [FirstSquawk] GERMAN UNION IG METALL IS USING A REVISION CLAUSE TO DISCUSS WITH VOLKSWAGEN IF THEY WILL KEEP THEIR AGREEMENT.
 - 09/11 20:06 [DeItaone] RUSSIA, INDIA EXPLORE DIGITAL CURRENCY TRADE SETTLEMENTS Russia and India’s central banks are working on a mechanism to use digital currencies for bilateral trade payments, according to Sberbank CEO Herman Gref. The initiative could enable …
 - 09/11 20:13 [financialjuice] China to further enhance computing infrastructure - CCTV
 - 09/11 20:20 [FirstSquawk] VOLKSWAGEN'S WORKS COUNCIL LEADER SAYS THEY FACE TOUGH COMPETITION FROM CHINESE COMPANIES WITH HIGH SUBSIDIES, URGING FOR A FAIR EUROPEAN FRAMEWORK.
@@ -262,3 +259,7 @@
 - 09/12 06:33 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait
 - 09/12 06:50 [financialjuice] Iraqi military commander removed after probe confirms drone attacks on Saudi Arabia came from Iraq: Iraqi PM office
 - 09/12 07:48 [financialjuice] AI startup Discovery Loop targets valuation near $50 billion - Business Insider
+- 09/12 07:58 [financialjuice] Nvidia expected to lead Anthropic IPO, sources say
+- 09/12 07:58 [financialjuice] Nvidia to invest up to $10 billion in Anthropic IPO, source says
+- 09/12 08:01 [financialjuice] Saudi civil defense: early alert issued in Taif to warn of possible threat
+- 09/12 08:03 [financialjuice] North Korea launches multiple ballistic missiles: South Korea's JCS

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 07:52 JST／対象: 09/11 07:52 〜 09/12 07:52 JST（時刻はすべて日本時間）
+生成: 2026-09-12 08:04 JST／対象: 09/11 08:04 〜 09/12 08:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 52 | 09/11 08:32 | 09/12 04:10 | ⚠ 376分（08:48→15:05） |
 | FirstSquawk | 265 | 09/11 09:00 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 185 | 09/11 08:01 | 09/12 07:48 | ⚠ 287分（10:47→15:34） |
+| financialjuice | 188 | 09/11 08:50 | 09/12 08:03 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 498 行（統合前 504 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 501 行（統合前 507 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 08:01 [financialjuice] Meta declares quarterly cash dividend of $0.53 per share payable Sept. 28, 2026
 - 09/11 08:32 [DeItaone] *TRUMP: MAYBE I DON'T GO FULL INTO IRAN BECAUSE OF ELECTION
 - 09/11 08:39 [DeItaone] U.S. DIESEL BREAKS $6 FOR FIRST TIME EVER The U.S. average diesel price surpassed $6 a gallon for the first time, according to GasBuddy, up nearly 60% since the Iran war began. Supply remains extremely tight, with U.S. diesel inventories 13…
 - 09/11 08:41 [DeItaone] APPLE’S $1,999 FOLDABLE FACES DEMAND TEST Apple’s new iPhone Duo starts at $1,999, but analysts question whether its appeal can extend beyond wealthy early adopters. Counterpoint still expects Apple to sell nearly 6 million units by year-en…
@@ -522,3 +521,7 @@
 - 09/12 06:33 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait
 - 09/12 06:50 [financialjuice] Iraqi military commander removed after probe confirms drone attacks on Saudi Arabia came from Iraq: Iraqi PM office
 - 09/12 07:48 [financialjuice] AI startup Discovery Loop targets valuation near $50 billion - Business Insider
+- 09/12 07:58 [financialjuice] Nvidia expected to lead Anthropic IPO, sources say
+- 09/12 07:58 [financialjuice] Nvidia to invest up to $10 billion in Anthropic IPO, source says
+- 09/12 08:01 [financialjuice] Saudi civil defense: early alert issued in Taif to warn of possible threat
+- 09/12 08:03 [financialjuice] North Korea launches multiple ballistic missiles: South Korea's JCS
