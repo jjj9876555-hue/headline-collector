@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 17:59 JST／対象: 09/11 11:59 〜 09/11 17:59 JST（時刻はすべて日本時間）
+生成: 2026-09-11 18:18 JST／対象: 09/11 12:18 〜 09/11 18:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 13 | 09/11 15:05 | 09/11 17:48 | 33分（16:08→16:41） |
-| FirstSquawk | 112 | 09/11 12:01 | 09/11 17:56 | 17分（16:40→16:58） |
-| financialjuice | 25 | 09/11 15:34 | 09/11 17:54 | ⚠ 55分（16:05→17:01） |
+| FirstSquawk | 115 | 09/11 12:25 | 09/11 18:12 | 17分（16:40→16:58） |
+| financialjuice | 27 | 09/11 15:34 | 09/11 18:09 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 147 行（統合前 150 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 152 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 12:01 [FirstSquawk] Russia’s Volgograd region reports damage to an industrial facility from missile debris.
-- 09/11 12:10 [FirstSquawk] Barclays forecasts another 25-bps ECB rate increase at the December 2026 meeting.
 - 09/11 12:25 [FirstSquawk] Hezbollah tunnel network in southern Lebanon destroyed by Israel, triggering tremors.
 - 09/11 12:26 [FirstSquawk] Petrol-powered cars from foreign marques see deep price cuts as competition heats up in China.
 - 09/11 12:30 [FirstSquawk] Three-month Japanese Treasury bills clear at a lowest price of 99.7050 and average 99.7228, while 12.8708% of bids are accepted at the lowest price.
@@ -171,3 +169,10 @@
 - 09/11 17:55 [FirstSquawk] UAE COMMITTED €40BN (~$46BN) IN NEW INVESTMENTS IN GERMANY, ADDING TO ABOUT €34BN ALREADY INVESTED, DURING SHEIKH MOHAMED BIN ZAYED'S VISIT.
 - 09/11 17:55 [FirstSquawk] THE MONEY FOCUSES ON INDUSTRY, AI/TECH, DIGITAL INFRASTRUCTURE, AND ENERGY WITH ABOUT 1 GW OF NEW DATA CENTERS; €10BN IS SET ASIDE FOR BAVARIA. IN ADDITION, COMPANIES SIGNED 29 AGREEMENTS WORTH OVER €9.4BN, AND GERMANY APPROVED DAILY FLIGHT…
 - 09/11 17:56 [FirstSquawk] EUROPEAN CENTRAL BANK INCREASED INTEREST RATES TODAY AS ANTICIPATED, SHOWING THE EUROZONE IS EXPERIENCING NEW INFLATION CHALLENGES.
+- 09/11 18:01 [FirstSquawk] UAE IS CHANGEING STRATEGY FOR 5-GIGAWATT AI CAMPUS DUE TO IRANIAN ATTACKS, SOURCES REPORT.
+- 09/11 18:01 [FirstSquawk] PROJECT IS EXPECTED TO MOVE TO A NETWORK OF DATA CENTERS IN THE UAE, ACCORDING TO SOURCES.
+- 09/11 18:05 [financialjuice] Iran-backed Houthis reached strategic Yemeni island of Perim in Bab El-Mandeb strait early on Friday - Four Yemeni Government Sources.
+- 09/11 18:09 [financialjuice] UAE revising AI data center plan after Iranian attacks.
+- 09/11 18:10 [FirstSquawk] IRAN-SUPPORTED HOUTHIS ARRIVED AT THE IMPORTANT PERIM ISLAND IN YEMEN'S BAB EL-MANDEB STRAIT EARLY ON FRIDAY
+- 09/11 18:11 [FirstSquawk] FRENCH GOVERNMENT PREDICTS 2026 BUDGET DEFICIT WILL EXCEED 5% GOAL.
+- 09/11 18:12 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE: AT THIS POINT WE DO NOT SEE THE NEED FOR A NEW RELEASE OF OIL STOCKS

@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 17:59 JST／対象: 09/11 05:59 〜 09/11 17:59 JST（時刻はすべて日本時間）
+生成: 2026-09-11 18:18 JST／対象: 09/11 06:18 〜 09/11 18:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 20 | 09/11 06:36 | 09/11 17:48 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 170 | 09/11 06:26 | 09/11 17:56 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 54 | 09/11 06:04 | 09/11 17:54 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 175 | 09/11 06:26 | 09/11 18:12 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 53 | 09/11 06:40 | 09/11 18:09 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 241 行（統合前 244 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 245 行（統合前 248 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 06:04 [financialjuice] OpenAI's Thibault Sottiaux: pausing subscriptions to $200 pro plan - X post
-- 09/11 06:07 [financialjuice] Microsoft plans 38 gigawatts of data center capacity to meet demand
-- 09/11 06:09 [financialjuice] Microsoft's data center network will exceed 38 gigawatts capacity in 2032, up from around 12 gigawatts now
 - 09/11 06:26 [FirstSquawk] ORACLE CFO EXPECTS AROUND 50% OF THE COMPANY’S $664 BILLION RPO TO CONVERT INTO REVENUE OVER THE NEXT 36 MONTHS, WITH NEWLY BOOKED REVENUE BACKLOG NOT EXPECTED TO IMPACT REVENUE OR CAPEX UNTIL FY2028 OR LATER.
 - 09/11 06:26 [FirstSquawk] ORACLE MAINTAINS ITS FULL-YEAR CAPEX FORECAST AT $90-$95 BILLION, WITH SPENDING EXPECTED TO BE UNEVEN THROUGHOUT THE YEAR.
 - 09/11 06:36 [DeItaone] *BESSENT: GOING TO SANCTION A LARGE BANK ON MONDAY
@@ -265,3 +262,10 @@
 - 09/11 17:55 [FirstSquawk] UAE COMMITTED €40BN (~$46BN) IN NEW INVESTMENTS IN GERMANY, ADDING TO ABOUT €34BN ALREADY INVESTED, DURING SHEIKH MOHAMED BIN ZAYED'S VISIT.
 - 09/11 17:55 [FirstSquawk] THE MONEY FOCUSES ON INDUSTRY, AI/TECH, DIGITAL INFRASTRUCTURE, AND ENERGY WITH ABOUT 1 GW OF NEW DATA CENTERS; €10BN IS SET ASIDE FOR BAVARIA. IN ADDITION, COMPANIES SIGNED 29 AGREEMENTS WORTH OVER €9.4BN, AND GERMANY APPROVED DAILY FLIGHT…
 - 09/11 17:56 [FirstSquawk] EUROPEAN CENTRAL BANK INCREASED INTEREST RATES TODAY AS ANTICIPATED, SHOWING THE EUROZONE IS EXPERIENCING NEW INFLATION CHALLENGES.
+- 09/11 18:01 [FirstSquawk] UAE IS CHANGEING STRATEGY FOR 5-GIGAWATT AI CAMPUS DUE TO IRANIAN ATTACKS, SOURCES REPORT.
+- 09/11 18:01 [FirstSquawk] PROJECT IS EXPECTED TO MOVE TO A NETWORK OF DATA CENTERS IN THE UAE, ACCORDING TO SOURCES.
+- 09/11 18:05 [financialjuice] Iran-backed Houthis reached strategic Yemeni island of Perim in Bab El-Mandeb strait early on Friday - Four Yemeni Government Sources.
+- 09/11 18:09 [financialjuice] UAE revising AI data center plan after Iranian attacks.
+- 09/11 18:10 [FirstSquawk] IRAN-SUPPORTED HOUTHIS ARRIVED AT THE IMPORTANT PERIM ISLAND IN YEMEN'S BAB EL-MANDEB STRAIT EARLY ON FRIDAY
+- 09/11 18:11 [FirstSquawk] FRENCH GOVERNMENT PREDICTS 2026 BUDGET DEFICIT WILL EXCEED 5% GOAL.
+- 09/11 18:12 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE: AT THIS POINT WE DO NOT SEE THE NEED FOR A NEW RELEASE OF OIL STOCKS

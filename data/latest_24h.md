@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 17:59 JST／対象: 09/10 17:59 〜 09/11 17:59 JST（時刻はすべて日本時間）
+生成: 2026-09-11 18:18 JST／対象: 09/10 18:18 〜 09/11 18:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 67 | 09/10 18:05 | 09/11 17:48 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 361 | 09/10 18:01 | 09/11 17:56 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 291 | 09/10 17:59 | 09/11 17:54 | ⚠ 287分（10:47→15:34） |
+| DeItaone | 65 | 09/10 18:19 | 09/11 17:48 | ⚠ 376分（08:48→15:05） |
+| FirstSquawk | 362 | 09/10 18:28 | 09/11 18:12 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 290 | 09/10 18:27 | 09/11 18:09 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 694 行（統合前 725 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 692 行（統合前 723 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 17:59 [financialjuice] China warns industrial companies against disorderly price competition.
-- 09/10 17:59 [financialjuice] China to conduct cost probe in major industrial-product sectors.
-- 09/10 18:01 [FirstSquawk] RUSSIAN DEFENSE MINISTRY CLAIMS CONTROL OF ZARUBINKA TOWN IN KHARKIV REGION.
-- 09/10 18:04 [financialjuice] OpenAI faces GOP-led senate probe re hugging face breach - Axios
-- 09/10 18:05 [DeItaone] CHINA CENTRAL BANK: TO CARRY OUT UP TO 600 BLN YUAN PER DAY OF OVERNIGHT REVERSE REPOS ON SEP 14-17
-- 09/10 18:07 [FirstSquawk] CHINA, US JOINTLY CRACK CROSS-BORDER DRUG CASE- CCTV
-- 09/10 18:08 [FirstSquawk] BRIAN FITZPATRICK'S DEMOCRATIC OPPONENT AIMS TO FOCUS THE CAMPAIGN ON DATA CENTERS.
-- 09/10 18:15 [FirstSquawk] IRAN CAN TAKE "SPECIAL MEASURES" IN RESPONSE TO IAEA'S RESOLUTION AND MAY CONSIDER ACTION, SAID LAWMAKER SOMAYEH RAFIEI.
-- 09/10 18:16 [DeItaone] $PLTR $NVDA - PALANTIR, NVIDIA TEAM UP ON SUPPLY-CHAIN AI Palantir and Nvidia are partnering to bring AI capabilities to critical supply chains, starting with Nvidia’s own operations. The companies will integrate Nvidia’s Nemotron models in…
 - 09/10 18:19 [DeItaone] $AAPL - WALL STREET WEIGHS APPLE’S $1,999 FOLDABLE IPHONE Apple’s new iPhone Duo is drawing differing views from Wall Street. JPMorgan — Overweight, $340 PT: Sees Apple’s software-hardware integration giving the Duo an edge over Android fol…
 - 09/10 18:21 [DeItaone] FRANCE'S 10-YEAR GOVERNMENT BOND YIELD HITS HIGHEST SINCE OCTOBER 2008 AT 4.3443%, UP 1 BP
 - 09/10 18:27 [financialjuice] Japan cabinet to approve tax reform outline on September 15 - Kyodo
@@ -718,3 +709,10 @@
 - 09/11 17:55 [FirstSquawk] UAE COMMITTED €40BN (~$46BN) IN NEW INVESTMENTS IN GERMANY, ADDING TO ABOUT €34BN ALREADY INVESTED, DURING SHEIKH MOHAMED BIN ZAYED'S VISIT.
 - 09/11 17:55 [FirstSquawk] THE MONEY FOCUSES ON INDUSTRY, AI/TECH, DIGITAL INFRASTRUCTURE, AND ENERGY WITH ABOUT 1 GW OF NEW DATA CENTERS; €10BN IS SET ASIDE FOR BAVARIA. IN ADDITION, COMPANIES SIGNED 29 AGREEMENTS WORTH OVER €9.4BN, AND GERMANY APPROVED DAILY FLIGHT…
 - 09/11 17:56 [FirstSquawk] EUROPEAN CENTRAL BANK INCREASED INTEREST RATES TODAY AS ANTICIPATED, SHOWING THE EUROZONE IS EXPERIENCING NEW INFLATION CHALLENGES.
+- 09/11 18:01 [FirstSquawk] UAE IS CHANGEING STRATEGY FOR 5-GIGAWATT AI CAMPUS DUE TO IRANIAN ATTACKS, SOURCES REPORT.
+- 09/11 18:01 [FirstSquawk] PROJECT IS EXPECTED TO MOVE TO A NETWORK OF DATA CENTERS IN THE UAE, ACCORDING TO SOURCES.
+- 09/11 18:05 [financialjuice] Iran-backed Houthis reached strategic Yemeni island of Perim in Bab El-Mandeb strait early on Friday - Four Yemeni Government Sources.
+- 09/11 18:09 [financialjuice] UAE revising AI data center plan after Iranian attacks.
+- 09/11 18:10 [FirstSquawk] IRAN-SUPPORTED HOUTHIS ARRIVED AT THE IMPORTANT PERIM ISLAND IN YEMEN'S BAB EL-MANDEB STRAIT EARLY ON FRIDAY
+- 09/11 18:11 [FirstSquawk] FRENCH GOVERNMENT PREDICTS 2026 BUDGET DEFICIT WILL EXCEED 5% GOAL.
+- 09/11 18:12 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE: AT THIS POINT WE DO NOT SEE THE NEED FOR A NEW RELEASE OF OIL STOCKS
