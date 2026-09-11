@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 16:17 JST／対象: 09/11 10:17 〜 09/11 16:17 JST（時刻はすべて日本時間）
+生成: 2026-09-11 16:33 JST／対象: 09/11 10:33 〜 09/11 16:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/11 15:05 | 09/11 16:08 | 21分（15:46→16:08） |
-| FirstSquawk | 108 | 09/11 10:20 | 09/11 16:15 | 15分（13:50→14:06） |
-| financialjuice | 8 | 09/11 10:21 | 09/11 16:05 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 110 | 09/11 10:34 | 09/11 16:33 | 15分（13:50→14:06） |
+| financialjuice | 7 | 09/11 10:39 | 09/11 16:05 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 121 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 122 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 10:20 [FirstSquawk] ¥3.5 trillion Treasury discount bills offered by Japan.
-- 09/11 10:21 [financialjuice] China injects 4 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/11 10:27 [FirstSquawk] Copper futures in Shanghai pull back more than 3%.
-- 09/11 10:33 [FirstSquawk] South Korean stocks fall sharply at the open as U.S. market losses weigh on sentiment.
 - 09/11 10:34 [FirstSquawk] Malaysia’s ringgit touches 4.073 per dollar, its weakest level in nearly a month.
 - 09/11 10:39 [financialjuice] Ukraine drones strike Ozon logistics center in Russia's Saratov, trigger fire: Ozon
 - 09/11 10:39 [FirstSquawk] Ozon reports a fire at its Saratov logistics hub after Ukrainian drones struck the facility.
@@ -145,3 +141,8 @@
 - 09/11 16:09 [FirstSquawk] CHINA FOREIGN MINISTRY, ON XI AT BRICS SUMMIT: CHINA, INDIA ARE ARRANGING FOR A BILATERAL MEETING BETWEEN XI AND MODI
 - 09/11 16:10 [FirstSquawk] CHINA FOREIGN MINISTRY, ON TAIWAN VICE PRESIDENT VISITING ITALY: CHINA HAS LODGED SERIOUS PROTESTS WITH ITALY AND EU IN THIS REGARD
 - 09/11 16:15 [FirstSquawk] UK FINANCE MINISTER HEALEY: BRITAIN’S ECONOMY IS DEMONSTRATING A WELCOME RESILIENCE, DESPITE SERIOUS GLOBAL UNCERTAINTY
+- 09/11 16:18 [FirstSquawk] BESSENT SAYS TRUMP HAS HIGH IMPACT, HIGH RETURNS, AND HIGH PERFORMANCE, MANAGING A VARIETY OF TASKS.
+- 09/11 16:19 [FirstSquawk] KREMLIN SAYS LITHUANIA'S MOVE TO LIFT NUCLEAR WEAPONS DEPLOYMENT BAN WOULD BE A SIGNIFICANT ESCALATION IF CARRIED OUT.
+- 09/11 16:21 [FirstSquawk] UBS GLOBAL WEALTH MANAGEMENT EXPECTS ECB TO DELIVER ONE FURTHER 25BPS RATE HIKE IN DECEMBER 2026 BEFORE PAUSING
+- 09/11 16:23 [FirstSquawk] RUSSIA THREATENS ELECTIONS IN EUROPE'S LARGEST DEMOCRACIES, SAYS SWEDEN'S DISINFORMATION DEFENSE HEAD, URGING SOCIAL MEDIA TO IMPROVE IN FIGHTING AGAINST MOSCOW'S BOT NETWORKS.
+- 09/11 16:33 [FirstSquawk] RIKSBANK RETAINS COUNTERCYCLICAL BUFFER RATE AT 2%
