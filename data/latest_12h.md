@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 12:58 JST／対象: 09/11 00:58 〜 09/11 12:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 13:18 JST／対象: 09/11 01:18 〜 09/11 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 20 | 09/11 01:33 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 142 | 09/11 01:00 | 09/11 12:45 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 97 | 09/11 01:00 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
+| FirstSquawk | 142 | 09/11 01:36 | 09/11 13:13 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 80 | 09/11 01:25 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 253 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 236 行（統合前 243 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 01:00 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 1.269M (FORECAST -1.275M, PREVIOUS -1.173M) $MACRO
-- 09/11 01:00 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL 2.087M (FORECAST -0.7M, PREVIOUS 0.796M) $MACRO
-- 09/11 01:00 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL -0.391M (FORECAST -1.35M, PREVIOUS -4.450M) $MACRO
-- 09/11 01:00 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL -0.684M (FORECAST -, PREVIOUS 0.080M) $MACRO
-- 09/11 01:00 [FirstSquawk] U.S CRUDE OIL INVENTORIES ACTUAL: -391K VS -4450K PREVIOUS; EST -1271.83K
-- 09/11 01:00 [financialjuice] US EIA Weekly Petroleum Status Report
-- 09/11 01:00 [FirstSquawk] U.S CUSHING OK CRUDE INVENTORY ACTUAL: -684K VS 80K PREVIOUS
-- 09/11 01:02 [financialjuice] Microsoft shares safe participation framework for AI. $MSFT
-- 09/11 01:03 [financialjuice] US weekly crude production hits new record near 14 mln b/d
-- 09/11 01:03 [financialjuice] Nvidia CEO: Cybersecurity is the next major use case of AI. $NVDA
-- 09/11 01:05 [financialjuice] US 30-year fixed rate mortgages average 6.76% September 10th week, highest since June 2025, vs 6.71$ prior week - Freddie Mac.
-- 09/11 01:06 [financialjuice] Vantage Data Centres seeks $2b in loans from Pimco and PGIM - FT.
-- 09/11 01:07 [financialjuice] Vantage Data Centers seeks $2bn in loans from Pimco and PGIM - FT
-- 09/11 01:08 [FirstSquawk] NVIDIA REPORTS GRACE BLACKWELL SHIPMENTS INCREASED BY 27% FROM LAST MONTH.
-- 09/11 01:08 [financialjuice] Nvidia's CEO Huang: Shipments of Grace Blackwell up 27% month to month. $NVDA
-- 09/11 01:08 [FirstSquawk] GOOGLE INTRODUCES GEMINI APP FOR WINDOWS 10 AND 11
-- 09/11 01:08 [financialjuice] Google launches a Gemini app for Windows 10 and 11. $GOOGL
-- 09/11 01:09 [financialjuice] ❗ ECB Sources: Further policy tightening is likely, and they may debate another hike as soon as October.
-- 09/11 01:09 [financialjuice] Nvidia's CEO Huang: Our share at Anthropic is growing very quickly. $NVDA
-- 09/11 01:11 [financialjuice] China halts new battery projects pending capacity review - Caixin.
-- 09/11 01:13 [FirstSquawk] CENTCOM: A U.S. NAVY MH-60R SEA HAWK HELICOPTER LAUNCHES FROM THE FLIGHT DECK OF USS RAFAEL PERALTA (DDG 115) WHILE ENFORCING THE U.S. BLOCKADE AGAINST IRAN. AS OF SEPT. 10, U.S. FORCES HAVE REDIRECTED 96 COMMERCIAL VESSELS TO ENSURE TOTAL …
-- 09/11 01:13 [financialjuice] China Pauses New Battery Projects Pending Capacity Review - Caixin.
 - 09/11 01:25 [financialjuice] Nvidia's CEO Huang: Investments are not circular. $NVDA
 - 09/11 01:33 [DeItaone] PENTAGON REJECTS AI “DOOMSDAY” WARNINGS Pentagon tech chief Emil Michael pushed back on warnings that AI could destroy humanity, calling fears of mass job losses and runaway AI part of a growing “doom loop.” Meanwhile, the Pentagon has alre…
 - 09/11 01:35 [financialjuice] ❗ Iran has resumed producing ballistic missiles - US and Middle East Officials cited by the WSJ
@@ -277,3 +255,8 @@
 - 09/11 12:42 [FirstSquawk] China’s Finance Ministry sets the yield at 1.38% in its 5-year bond auction, traders say.
 - 09/11 12:45 [FirstSquawk] Trump warns the U.S. could be badly positioned globally if it loses the race for AI leadership.
 - 09/11 12:45 [FirstSquawk] Trump dismisses concerns that artificial intelligence could lead to human extinction.
+- 09/11 12:59 [FirstSquawk] U.S. officials say Washington will not directly intervene against the Houthis for now after Trump declined MBS, Axios reports.
+- 09/11 13:03 [FirstSquawk] IRAN AND GULF STATES TO MEET IN PUSH FOR HORMUZ DEAL- FT
+- 09/11 13:03 [FirstSquawk] INSURERS ZURICH AND ALLIANZ HAVE EXPOSURE LINKED TO RADIANT WORLD- FT
+- 09/11 13:04 [FirstSquawk] VIRGIN MEDIA O2 OWNERS TARGET £600MN IN COST CUTS - FT
+- 09/11 13:13 [FirstSquawk] Saudi Crown Prince MBS called on Trump to target the Houthis amid growing threats in the Red Sea, according to Axios.

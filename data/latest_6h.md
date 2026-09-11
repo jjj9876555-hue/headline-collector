@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 12:58 JST／対象: 09/11 06:58 〜 09/11 12:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 13:18 JST／対象: 09/11 07:18 〜 09/11 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/11 07:31 | 09/11 08:48 | ⚠ 60分（07:31→08:32） |
-| FirstSquawk | 65 | 09/11 07:37 | 09/11 12:45 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 24 | 09/11 07:10 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
+| FirstSquawk | 70 | 09/11 07:37 | 09/11 13:13 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 22 | 09/11 07:30 | 09/11 10:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 95 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 98 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 07:10 [financialjuice] Transwarp Technology Shanghai Co plans global offering of 14 million H shares
-- 09/11 07:11 [financialjuice] Transwarp Technology (Shanghai) Co international offer shares under global offering total 13.3 million H shares
 - 09/11 07:30 [financialjuice] NEW ZEALAND MANUFACTURING PMI ACTUAL 53.1 (FORECAST -, PREVIOUS 54.3) $MACRO
 - 09/11 07:30 [financialjuice] New Zealand August s/adj PMI at 53.1: Business NZ/Bank NZ survey
 - 09/11 07:31 [DeItaone] BESSENT DISMISSES TREASURY MARKET CONCERNS Treasury Secretary Scott Bessent says the bond market remains in “very good shape” despite 10-year yields reaching their highest since 2023. He also downplayed Thursday’s smaller-than-expected buyb…
@@ -119,3 +117,8 @@
 - 09/11 12:42 [FirstSquawk] China’s Finance Ministry sets the yield at 1.38% in its 5-year bond auction, traders say.
 - 09/11 12:45 [FirstSquawk] Trump warns the U.S. could be badly positioned globally if it loses the race for AI leadership.
 - 09/11 12:45 [FirstSquawk] Trump dismisses concerns that artificial intelligence could lead to human extinction.
+- 09/11 12:59 [FirstSquawk] U.S. officials say Washington will not directly intervene against the Houthis for now after Trump declined MBS, Axios reports.
+- 09/11 13:03 [FirstSquawk] IRAN AND GULF STATES TO MEET IN PUSH FOR HORMUZ DEAL- FT
+- 09/11 13:03 [FirstSquawk] INSURERS ZURICH AND ALLIANZ HAVE EXPOSURE LINKED TO RADIANT WORLD- FT
+- 09/11 13:04 [FirstSquawk] VIRGIN MEDIA O2 OWNERS TARGET £600MN IN COST CUTS - FT
+- 09/11 13:13 [FirstSquawk] Saudi Crown Prince MBS called on Trump to target the Houthis amid growing threats in the Red Sea, according to Axios.

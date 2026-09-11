@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 12:58 JST／対象: 09/10 12:58 〜 09/11 12:58 JST（時刻はすべて日本時間）
+生成: 2026-09-11 13:18 JST／対象: 09/10 13:18 〜 09/11 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/10 16:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 366 | 09/10 12:58 | 09/11 12:45 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 298 | 09/10 13:00 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 360 | 09/10 13:18 | 09/11 13:13 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 288 | 09/10 13:30 | 09/11 10:47 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 701 行（統合前 729 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 685 行（統合前 713 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 12:58 [FirstSquawk] Gold prices remain above $4,400 as markets await fresh U.S. inflation data.
-- 09/10 13:00 [financialjuice] Saudi civil defence issues emergency warning for province of Khamis Mushait - post on X
-- 09/10 13:02 [financialjuice] IMF dropped leading candidate for chief economist role over Trump tariff comments: FT
-- 09/10 13:03 [financialjuice] Mubadala investment arrives as China’s coffee market keeps growing
-- 09/10 13:03 [financialjuice] IMF drops Ricardo Reis as lead candidate for new chief economist: FT
-- 09/10 13:04 [financialjuice] Mubadala: continues to see strong long-term prospects in China’s consumer sector
-- 09/10 13:04 [FirstSquawk] Arini is facing pressure after several European credit bets moved against the London-based investment firm.
-- 09/10 13:05 [FirstSquawk] Trump tariff comments reportedly cost the leading candidate a shot at becoming the IMF’s next chief economist.
-- 09/10 13:06 [FirstSquawk] Ukrainian battlefield robotics draws fresh U.S. investment as an Erik Prince-backed drone company moves for an acquisition.
-- 09/10 13:06 [FirstSquawk] Rising oil costs are reviving momentum around clean hydrogen as countries reassess energy alternatives.
-- 09/10 13:07 [FirstSquawk] UK probation authorities face a growing crisis as more released prisoners end up back in custody, watchdog says.
-- 09/10 13:07 [financialjuice] Saudi civil defence: threat has passed in Khamis Mushait
-- 09/10 13:07 [financialjuice] Ukraine air strikes target Russia's Caspian Sea port of Makhachkala, official says
-- 09/10 13:08 [FirstSquawk] Saudi Civil Defence says conditions in Khamis Mushait are now safe after an earlier warning.
-- 09/10 13:08 [FirstSquawk] Emergency alert issued by Saudi Civil Defence for Khamis Mushait.
-- 09/10 13:08 [financialjuice] Mubadala: to make major minority investment in Luckin Coffee alongside Centurium Capital
-- 09/10 13:09 [FirstSquawk] Russian official says Ukraine launched air strikes targeting the Caspian Sea port of Makhachkala.
-- 09/10 13:10 [financialjuice] Russian air strikes kill five, injure 24 in Ukraine’s Sumy region: police
-- 09/10 13:11 [FirstSquawk] Russian strikes on Sumy region leave five dead and 24 injured, according to Ukrainian police.
-- 09/10 13:16 [FirstSquawk] HD Hyundai Heavy Industries announces an 834 billion won investment in new power-generation engine production.
-- 09/10 13:18 [financialjuice] China's state-run Sinograin purchased 14-15 shipments or about 1 mln tons of US soybeans in deals this week: sources
 - 09/10 13:18 [FirstSquawk] HD Hyundai Heavy Industries announces a 239 billion won investment in an SMR facility, alongside upgrades to its existing plant.
 - 09/10 13:19 [FirstSquawk] Japan’s next budget will face scrutiny from Fitch over the balance between economic support and fiscal restraint, a sovereign analyst says.
 - 09/10 13:26 [FirstSquawk] Artificial intelligence is expected to support U.S. economic growth, but could also threaten knowledge-worker employment and weigh on wages.
@@ -725,3 +704,8 @@
 - 09/11 12:42 [FirstSquawk] China’s Finance Ministry sets the yield at 1.38% in its 5-year bond auction, traders say.
 - 09/11 12:45 [FirstSquawk] Trump warns the U.S. could be badly positioned globally if it loses the race for AI leadership.
 - 09/11 12:45 [FirstSquawk] Trump dismisses concerns that artificial intelligence could lead to human extinction.
+- 09/11 12:59 [FirstSquawk] U.S. officials say Washington will not directly intervene against the Houthis for now after Trump declined MBS, Axios reports.
+- 09/11 13:03 [FirstSquawk] IRAN AND GULF STATES TO MEET IN PUSH FOR HORMUZ DEAL- FT
+- 09/11 13:03 [FirstSquawk] INSURERS ZURICH AND ALLIANZ HAVE EXPOSURE LINKED TO RADIANT WORLD- FT
+- 09/11 13:04 [FirstSquawk] VIRGIN MEDIA O2 OWNERS TARGET £600MN IN COST CUTS - FT
+- 09/11 13:13 [FirstSquawk] Saudi Crown Prince MBS called on Trump to target the Houthis amid growing threats in the Red Sea, according to Axios.
