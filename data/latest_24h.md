@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 09:32 JST／対象: 09/10 09:32 〜 09/11 09:32 JST（時刻はすべて日本時間）
+生成: 2026-09-11 09:48 JST／対象: 09/10 09:48 〜 09/11 09:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/10 16:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 383 | 09/10 09:40 | 09/11 09:24 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 315 | 09/10 09:55 | 09/11 09:28 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 386 | 09/10 09:51 | 09/11 09:48 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 317 | 09/10 09:55 | 09/11 09:47 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 735 行（統合前 763 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 740 行（統合前 768 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 09:40 [FirstSquawk] 2-year Japanese government bond yield moves 1 bp higher to 1.84%.
-- 09/10 09:41 [FirstSquawk] Major Korean banks maintain stable prospects as resilient fundamentals support their credit profiles, Fitch says.
-- 09/10 09:41 [FirstSquawk] A suspected drug-trafficking boat was hit by U.S. forces in the Caribbean Sea, Southern Command says.
-- 09/10 09:48 [FirstSquawk] Business sentiment among U.S. firms in China has improved sharply as the latest U.S.-China trade truce reduces tensions.
 - 09/10 09:51 [FirstSquawk] 5-year Japanese government bond yield advances 1.5 basis points to 2.235%.
 - 09/10 09:52 [FirstSquawk] Yakhil has reportedly fallen under Houthi control amid renewed clashes in Yemen.
 - 09/10 09:52 [FirstSquawk] The captured American underwater drone could give Iran an opportunity to examine and potentially reproduce parts of its technology.
@@ -759,3 +755,12 @@
 - 09/11 09:21 [FirstSquawk] 30-year JGB yield advances to 4.055%, up 5 basis points.
 - 09/11 09:24 [FirstSquawk] China CSSC Holdings says it is taking action to address a cargo vessel fire at its shipyard.
 - 09/11 09:28 [financialjuice] China PBOC forecast to set yuan midpoint at 6.7174 per dollar: estimate
+- 09/11 09:35 [FirstSquawk] Two-year JGB yield climbs 1 bp to 1.830%.
+- 09/11 09:41 [FirstSquawk] America’s Fast-Food Industry Pivots Back to Human Labor
+- 09/11 09:42 [FirstSquawk] Yield on the 20-year JGB advances 5.5 basis points, reaching 3.805%.
+- 09/11 09:42 [FirstSquawk] Yield on the 5-year JGB advances 3 basis points to 2.250%.
+- 09/11 09:46 [FirstSquawk] Nikkei tumbles over 3% at the open as surging crude futures pressure Japanese equities.
+- 09/11 09:46 [financialjuice] to single stocks including Tesla, Apple and Nvidia: WSJ
+- 09/11 09:47 [financialjuice] Kalshi planning to seek regulatory approval to offer regulated perpetual futures
+- 09/11 09:47 [FirstSquawk] Kalshi eyes regulatory approval to launch perpetual futures linked to stocks including Tesla, Apple and Nvidia, WSJ reports.
+- 09/11 09:48 [FirstSquawk] 10-year Treasury yield climbs 2.6 bps to 4.9708%, reaching its highest since October 2023.

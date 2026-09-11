@@ -7,38 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 09:32 JST／対象: 09/10 21:32 〜 09/11 09:32 JST（時刻はすべて日本時間）
+生成: 2026-09-11 09:48 JST／対象: 09/10 21:48 〜 09/11 09:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/10 21:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 156 | 09/10 21:32 | 09/11 09:24 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 196 | 09/10 21:33 | 09/11 09:28 | ⚠ 48分（08:01→08:50） |
+| DeItaone | 30 | 09/10 22:07 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
+| FirstSquawk | 153 | 09/10 21:49 | 09/11 09:48 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 190 | 09/10 21:53 | 09/11 09:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 368 行（統合前 389 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 363 行（統合前 377 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 21:32 [FirstSquawk] U.S. CRUDE FUTURES EXTENDED GAINS TO HIT $100/BBL FOR THE FIRST TIME SINCE MAY 21 ON INTENSIFYING MIDDLE EAST CONFLICT
-- 09/10 21:33 [financialjuice] US PPI August 2026 Report
-- 09/10 21:34 [FirstSquawk] BRENT OIL FUTURES RISE ABOVE $105 A BARREL
-- 09/10 21:34 [FirstSquawk/financialjuice] US SHORT-TERM INTEREST-RATE FUTURES FALL SLIGHTLY AFTER ECONOMIC DATA, AS TRADERS EDGE UP BETS ON FED RATE HIKE
-- 09/10 21:35 [FirstSquawk] INDIA TRADE MINISTER: INDIA, RUSSIA TO FAST TRACK TALKS FOR CONCLUDING BILATERAL INVESTMENT TREATY
-- 09/10 21:36 [financialjuice/FirstSquawk] ❗ Traders fully price four BoE rate hikes, first time since March.
-- 09/10 21:37 [financialjuice/FirstSquawk] ❗ Traders fully price in Fed rate hike in October after PPI data
-- 09/10 21:38 [financialjuice] WATCH LIVE: ECB Press Conference at 08:45 ET
-- 09/10 21:39 [financialjuice] ❗ Traders price in 75 bps of additional ECB hikes by October 2027
-- 09/10 21:40 [FirstSquawk] TRADERS PRICE 75BPS OF ADDITIONAL ECB HIKES BY OCT 2027
-- 09/10 21:41 [financialjuice/FirstSquawk] ❗ Money markets price in ECB depo rate at 3.22% in September 2027 from 3.01% before ECB statement
-- 09/10 21:41 [FirstSquawk/DeItaone] US 30-YEAR YIELD RISES TO 5.34%, HIGHEST SINCE JUNE 2007
-- 09/10 21:41 [FirstSquawk] SPOT SILVER EXTENDS LOSSES, LAST DOWN NEARLY 5% AT $63.94/OZ
-- 09/10 21:44 [FirstSquawk] TRADERS FULLY PRICE 4 BOE RATE HIKES, FIRST SINCE MARCH
-- 09/10 21:46 [financialjuice] ❗ Money markets price in the ECB deposit rate at 2.80% in December, up from 2.74% before the ECB statement.
+- 09/10 21:49 [FirstSquawk] MONEY MARKETS PRICE IN ECB DEPO RATE AT 3.22% IN SEPTEMBER 2027 FROM 3.01% BEFORE ECB STATEMENT
 - 09/10 21:49 [FirstSquawk] MONEY MARKETS PRICE IN ECB DEPO RATE AT 2.80% IN DECEMBER FROM 2.74% BEFORE ECB STATEMENT
 - 09/10 21:53 [financialjuice] ECB's Lagarde: The economy is proving resilient.
 - 09/10 21:53 [financialjuice] ECB's Lagarde: Resilience likely to persist into Q3.
@@ -392,3 +378,12 @@
 - 09/11 09:21 [FirstSquawk] 30-year JGB yield advances to 4.055%, up 5 basis points.
 - 09/11 09:24 [FirstSquawk] China CSSC Holdings says it is taking action to address a cargo vessel fire at its shipyard.
 - 09/11 09:28 [financialjuice] China PBOC forecast to set yuan midpoint at 6.7174 per dollar: estimate
+- 09/11 09:35 [FirstSquawk] Two-year JGB yield climbs 1 bp to 1.830%.
+- 09/11 09:41 [FirstSquawk] America’s Fast-Food Industry Pivots Back to Human Labor
+- 09/11 09:42 [FirstSquawk] Yield on the 20-year JGB advances 5.5 basis points, reaching 3.805%.
+- 09/11 09:42 [FirstSquawk] Yield on the 5-year JGB advances 3 basis points to 2.250%.
+- 09/11 09:46 [FirstSquawk] Nikkei tumbles over 3% at the open as surging crude futures pressure Japanese equities.
+- 09/11 09:46 [financialjuice] to single stocks including Tesla, Apple and Nvidia: WSJ
+- 09/11 09:47 [financialjuice] Kalshi planning to seek regulatory approval to offer regulated perpetual futures
+- 09/11 09:47 [FirstSquawk] Kalshi eyes regulatory approval to launch perpetual futures linked to stocks including Tesla, Apple and Nvidia, WSJ reports.
+- 09/11 09:48 [FirstSquawk] 10-year Treasury yield climbs 2.6 bps to 4.9708%, reaching its highest since October 2023.

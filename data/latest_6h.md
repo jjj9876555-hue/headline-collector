@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 09:32 JST／対象: 09/11 03:32 〜 09/11 09:32 JST（時刻はすべて日本時間）
+生成: 2026-09-11 09:48 JST／対象: 09/11 03:48 〜 09/11 09:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/11 03:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 62 | 09/11 03:37 | 09/11 09:24 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 43 | 09/11 03:33 | 09/11 09:28 | ⚠ 48分（08:01→08:50） |
+| DeItaone | 7 | 09/11 06:36 | 09/11 08:48 | ⚠ 60分（07:31→08:32） |
+| FirstSquawk | 61 | 09/11 03:50 | 09/11 09:48 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 39 | 09/11 04:04 | 09/11 09:47 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 105 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 03:33 [financialjuice] US issues fresh Iran-related sanctions - Treasury website
-- 09/11 03:33 [financialjuice] US Official: Iranian or suspected Iranian oil on water averaged 110 mln barrels over past week vs 180 mln barrels before war.
-- 09/11 03:34 [financialjuice] US Official: Offloadings of Iranian oil down to 0.9 mb/d from 1.4 mb/d before war.
-- 09/11 03:34 [financialjuice] US Official: Loadings of Iranian oil at about 0.2 mln barrels per day over past 30 days, down from 1.8 mln barrels per day in January/February
-- 09/11 03:34 [financialjuice] US Treasury announces new sanctions against entities supporting Iran's proxies in Middle East, including Iraqi business executives.
-- 09/11 03:37 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN WILL TRAVEL TO NEW DELHI TOMORROW TO PARTICIPATE IN THE 18TH BRICS SUMMIT - FARS NEWS
-- 09/11 03:38 [FirstSquawk] ISRAEL'S PRIME MINISTER NETANYAHU: IDF DESTROYS HEZBOLLAH FACILITIES AT ALI TAHER RIDGE.
-- 09/11 03:39 [FirstSquawk] IRAN PRESIDENT PEZESHKIAN TO TRAVEL TO NEW DELHI ON FRIDAY FOR 18TH BRICS SUMMIT — FARS NEWS
-- 09/11 03:41 [DeItaone] U.S. CONTAINER IMPORTS HIT THIRD-HIGHEST LEVEL EVER U.S. container imports reached 2.6 million TEUs in August, the third-highest monthly level on record, according to Descartes. Volumes rose 3% year-over-year and 22% versus August 2019, sig…
-- 09/11 03:41 [FirstSquawk] U.S. TREASURY ANNOUNCES NEW SANCTIONS ON ENTITIES SUPPORTING IRANIAN PROXIES, WHILE MOST OUTSTANDING IRAN-RELATED LICENSING REQUESTS FACE DENIAL
-- 09/11 03:41 [FirstSquawk] IRANIAN OIL LOADINGS PLUNGE TO 0.2M BPD FROM 1.8M BPD IN JAN/FEB, WHILE OFFLOADINGS FALL TO 0.9M BPD FROM 1.4M BPD BEFORE THE WAR
-- 09/11 03:41 [FirstSquawk] IRANIAN OR SUSPECTED IRANIAN OIL ON WATER DROPS TO 110M BARRELS FROM 180M BARRELS BEFORE THE WAR, SIGNALING SHARPLY TIGHTER OIL FLOWS
-- 09/11 03:42 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $102.48/BBL, UP $6.43 OR 6.69%
-- 09/11 03:44 [financialjuice] Brent Crude futures settle at $107.63/bbl, up $6.42, 6.34%
-- 09/11 03:46 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $107.63/BBL, UP $6.42 OR 6.34%
 - 09/11 03:50 [FirstSquawk] UKRAINE STRIKES RUSSIA’S NOVOROSSIYSK NAVAL BASE WITH A COMBINED DRONE AND MISSILE ATTACK, WITH THE GENERAL STAFF REPORTING THREE WARSHIPS HIT ALONG WITH FUEL STORAGE, WHILE UKRAINIAN INTELLIGENCE AND OSINT REPORT ADDITIONAL DAMAGE. - SOURC…
 - 09/11 03:50 [FirstSquawk] UKRAINE ALSO STRUCK MAKHACHKALA PORT ON THE CASPIAN, A KEY RUSSIA-IRAN LOGISTICS HUB, AS ZELENSKY SAYS EIGHT RUSSIAN INFRASTRUCTURE SITES WERE HIT FROM THE ARCTIC TO THE CASPIAN. - SOURCES
 - 09/11 03:51 [FirstSquawk] MARCO RUBIO WELCOMES PERU JOINING THE SHIELD OF THE AMERICAS, SAYING THE INITIATIVE WILL PROTECT THE SOVEREIGNTY OF INDEPENDENT NATIONS AND COUNTER TRANSNATIONAL CRIMINAL GROUPS.
@@ -135,3 +120,12 @@
 - 09/11 09:21 [FirstSquawk] 30-year JGB yield advances to 4.055%, up 5 basis points.
 - 09/11 09:24 [FirstSquawk] China CSSC Holdings says it is taking action to address a cargo vessel fire at its shipyard.
 - 09/11 09:28 [financialjuice] China PBOC forecast to set yuan midpoint at 6.7174 per dollar: estimate
+- 09/11 09:35 [FirstSquawk] Two-year JGB yield climbs 1 bp to 1.830%.
+- 09/11 09:41 [FirstSquawk] America’s Fast-Food Industry Pivots Back to Human Labor
+- 09/11 09:42 [FirstSquawk] Yield on the 20-year JGB advances 5.5 basis points, reaching 3.805%.
+- 09/11 09:42 [FirstSquawk] Yield on the 5-year JGB advances 3 basis points to 2.250%.
+- 09/11 09:46 [FirstSquawk] Nikkei tumbles over 3% at the open as surging crude futures pressure Japanese equities.
+- 09/11 09:46 [financialjuice] to single stocks including Tesla, Apple and Nvidia: WSJ
+- 09/11 09:47 [financialjuice] Kalshi planning to seek regulatory approval to offer regulated perpetual futures
+- 09/11 09:47 [FirstSquawk] Kalshi eyes regulatory approval to launch perpetual futures linked to stocks including Tesla, Apple and Nvidia, WSJ reports.
+- 09/11 09:48 [FirstSquawk] 10-year Treasury yield climbs 2.6 bps to 4.9708%, reaching its highest since October 2023.
