@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 02:16 JST／対象: 09/11 20:16 〜 09/12 02:16 JST（時刻はすべて日本時間）
+生成: 2026-09-12 02:32 JST／対象: 09/11 20:32 〜 09/12 02:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 26 | 09/11 20:23 | 09/11 23:00 | 33分（20:57→21:30） |
-| FirstSquawk | 45 | 09/11 20:20 | 09/12 02:03 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 79 | 09/11 20:34 | 09/12 02:01 | 25分（00:26→00:52） |
+| DeItaone | 25 | 09/11 20:37 | 09/11 23:00 | 33分（20:57→21:30） |
+| FirstSquawk | 49 | 09/11 20:35 | 09/12 02:32 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 80 | 09/11 20:34 | 09/12 02:21 | 25分（00:26→00:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 149 行（統合前 150 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 153 行（統合前 154 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 20:20 [FirstSquawk] VOLKSWAGEN'S WORKS COUNCIL LEADER SAYS THEY FACE TOUGH COMPETITION FROM CHINESE COMPANIES WITH HIGH SUBSIDIES, URGING FOR A FAIR EUROPEAN FRAMEWORK.
-- 09/11 20:23 [DeItaone] FED’S WARSH FACES INDEPENDENCE TEST Fed Chair Kevin Warsh faces a credibility test as markets weigh whether he will hike rates despite President Trump’s push for lower borrowing costs. Macquarie says Warsh could position himself as a “reluc…
 - 09/11 20:34 [financialjuice] Iran's Foreign Ministry: IAEA risks becoming instrument for aggression.
 - 09/11 20:35 [FirstSquawk] IRAN CLAIMS IAEA MAY TURN INTO A TOOL FOR AGGRESSION.
 - 09/11 20:37 [DeItaone] IRAN ACCUSES IAEA OF HELPING JUSTIFY MILITARY ACTION Iran’s Foreign Ministry accused the IAEA and its Director General of politicizing technical nuclear assessments, claiming they have been used to build the case for military aggression aga…
@@ -173,3 +171,9 @@
 - 09/12 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 591 (FORECAST -, PREVIOUS 588) $MACRO
 - 09/12 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 450 (FORECAST -, PREVIOUS 449) $MACRO
 - 09/12 02:03 [FirstSquawk] US OIL RIG COUNT UP 1 TO 450 || US GAS RIG COUNT UP 2 TO 132 || US TOTAL RIG COUNT 591 , BAKER HUGHES SAYS
+- 09/12 02:16 [FirstSquawk] 3 COUNTERPARTIES TAKE $5.255 BLN AT FED REVERSE REPO OP. (PREV $4.736 BLN, 4 BIDS)
+- 09/12 02:20 [FirstSquawk] RUSSIA OFFICIAL WILL ATTEND G20 ENERGY MEETING IN HOUSTON NEXT WEEK, WHITE HOUSE OFFICIAL SAYS
+- 09/12 02:21 [financialjuice] A Russian Official will attend the G20 energy meeting in Houston next week - White House Official.
+- 09/12 02:25 [FirstSquawk] ESTEE LAUDER ADVANCES CASE AGAINST WALMART OVER KNOCKOFFS: BLAW
+- 09/12 02:30 [FirstSquawk] CANADIAN AI FIRM COHERE IN ADVANCED TALKS TO RAISE UP TO $3-BILLION - GLOBE AND MAIL
+- 09/12 02:32 [FirstSquawk] THE DEAL WOULD VALUE ARTIFICIAL-INTELLIGENCE COMPANY REOHE AT $20 BLN - GLOBE AND MAIL

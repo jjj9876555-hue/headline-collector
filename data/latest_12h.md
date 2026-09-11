@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 02:16 JST／対象: 09/11 14:16 〜 09/12 02:16 JST（時刻はすべて日本時間）
+生成: 2026-09-12 02:32 JST／対象: 09/11 14:32 〜 09/12 02:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 46 | 09/11 15:05 | 09/11 23:00 | 37分（19:03→19:41） |
-| FirstSquawk | 150 | 09/11 14:23 | 09/12 02:03 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 115 | 09/11 15:34 | 09/12 02:01 | ⚠ 55分（16:05→17:01） |
+| FirstSquawk | 154 | 09/11 14:33 | 09/12 02:32 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 116 | 09/11 15:34 | 09/12 02:21 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 307 行（統合前 311 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 312 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 14:23 [FirstSquawk] Russia’s Tula region reports 2 dead and 3 injured after Ukrainian drone attack.
 - 09/11 14:33 [FirstSquawk] Berlin pushes for Commerzbank to stay listed as UniCredit targets a deal, Reuters reports.
 - 09/11 14:41 [FirstSquawk] APPLE’S IPHONE 18 UPGRADE CYCLE LIKELY TO BOOST SOME SUPPLIERS-WSJ
 - 09/11 14:42 [FirstSquawk] Brent eases to $105.86 and WTI to $101.22, giving up part of their early Asian gains.
@@ -331,3 +330,9 @@
 - 09/12 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 591 (FORECAST -, PREVIOUS 588) $MACRO
 - 09/12 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 450 (FORECAST -, PREVIOUS 449) $MACRO
 - 09/12 02:03 [FirstSquawk] US OIL RIG COUNT UP 1 TO 450 || US GAS RIG COUNT UP 2 TO 132 || US TOTAL RIG COUNT 591 , BAKER HUGHES SAYS
+- 09/12 02:16 [FirstSquawk] 3 COUNTERPARTIES TAKE $5.255 BLN AT FED REVERSE REPO OP. (PREV $4.736 BLN, 4 BIDS)
+- 09/12 02:20 [FirstSquawk] RUSSIA OFFICIAL WILL ATTEND G20 ENERGY MEETING IN HOUSTON NEXT WEEK, WHITE HOUSE OFFICIAL SAYS
+- 09/12 02:21 [financialjuice] A Russian Official will attend the G20 energy meeting in Houston next week - White House Official.
+- 09/12 02:25 [FirstSquawk] ESTEE LAUDER ADVANCES CASE AGAINST WALMART OVER KNOCKOFFS: BLAW
+- 09/12 02:30 [FirstSquawk] CANADIAN AI FIRM COHERE IN ADVANCED TALKS TO RAISE UP TO $3-BILLION - GLOBE AND MAIL
+- 09/12 02:32 [FirstSquawk] THE DEAL WOULD VALUE ARTIFICIAL-INTELLIGENCE COMPANY REOHE AT $20 BLN - GLOBE AND MAIL
