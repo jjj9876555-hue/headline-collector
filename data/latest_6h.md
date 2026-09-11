@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 02:32 JST／対象: 09/11 20:32 〜 09/12 02:32 JST（時刻はすべて日本時間）
+生成: 2026-09-12 02:44 JST／対象: 09/11 20:44 〜 09/12 02:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 25 | 09/11 20:37 | 09/11 23:00 | 33分（20:57→21:30） |
-| FirstSquawk | 49 | 09/11 20:35 | 09/12 02:32 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 80 | 09/11 20:34 | 09/12 02:21 | 25分（00:26→00:52） |
+| DeItaone | 24 | 09/11 20:45 | 09/11 23:00 | 33分（20:57→21:30） |
+| FirstSquawk | 50 | 09/11 21:30 | 09/12 02:43 | 35分（23:55→00:31） |
+| financialjuice | 78 | 09/11 20:49 | 09/12 02:21 | 25分（00:26→00:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 153 行（統合前 154 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 151 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 20:34 [financialjuice] Iran's Foreign Ministry: IAEA risks becoming instrument for aggression.
-- 09/11 20:35 [FirstSquawk] IRAN CLAIMS IAEA MAY TURN INTO A TOOL FOR AGGRESSION.
-- 09/11 20:37 [DeItaone] IRAN ACCUSES IAEA OF HELPING JUSTIFY MILITARY ACTION Iran’s Foreign Ministry accused the IAEA and its Director General of politicizing technical nuclear assessments, claiming they have been used to build the case for military aggression aga…
-- 09/11 20:43 [financialjuice] Canadian Conservative Leader Poilievre: Tariff-free trade would help bring down inflation.
 - 09/11 20:45 [DeItaone] HOUTHIS TEASE “LARGE-SCALE” MILITARY OPERATION The Houthis are expected to announce what they describe as a “large-scale and significant military operation” at 4 PM local time / 2 PM London. Details of the operation have not yet been disclo…
 - 09/11 20:49 [financialjuice] Yemen Houthi's Spokesperson to make statement at 9 AM ET
 - 09/11 20:53 [DeItaone] OIL SET FOR 8% WEEKLY SURGE AS SUPPLY RISKS MOUNT Oil remains on track for an 8%+ weekly gain as Middle East attacks threaten key supply routes, despite Brent retreating to around $104 and WTI below $100 Friday. Reuters reports Saudi crude …
@@ -177,3 +173,5 @@
 - 09/12 02:25 [FirstSquawk] ESTEE LAUDER ADVANCES CASE AGAINST WALMART OVER KNOCKOFFS: BLAW
 - 09/12 02:30 [FirstSquawk] CANADIAN AI FIRM COHERE IN ADVANCED TALKS TO RAISE UP TO $3-BILLION - GLOBE AND MAIL
 - 09/12 02:32 [FirstSquawk] THE DEAL WOULD VALUE ARTIFICIAL-INTELLIGENCE COMPANY REOHE AT $20 BLN - GLOBE AND MAIL
+- 09/12 02:33 [FirstSquawk] IMF SAYS TURKMENISTAN NOT PROVIDING DATA WAS OBLIGATIONS BREACH
+- 09/12 02:43 [FirstSquawk] EMIRATES AND GERMANY BACK LEBANON IN ITS EFFORTS TO CONTROL WEAPONS AND RESTORE GOVERNMENT AUTHORITY.
