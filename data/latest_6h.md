@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-11 10:17 JST／対象: 09/11 04:17 〜 09/11 10:17 JST（時刻はすべて日本時間）
+生成: 2026-09-11 10:32 JST／対象: 09/11 04:32 〜 09/11 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/11 06:36 | 09/11 08:48 | ⚠ 60分（07:31→08:32） |
-| FirstSquawk | 50 | 09/11 04:23 | 09/11 10:17 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 40 | 09/11 04:20 | 09/11 10:17 | ⚠ 48分（08:01→08:50） |
+| FirstSquawk | 49 | 09/11 05:01 | 09/11 10:27 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 37 | 09/11 04:38 | 09/11 10:21 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 95 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 92 行（統合前 93 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 04:20 [financialjuice] US money-market fund assets fall to $7.97 trln at ICI
-- 09/11 04:21 [financialjuice/FirstSquawk] Saudi Civil Defence: Danger has passed in Khamis Mushait and Abha - State TV.
-- 09/11 04:22 [financialjuice] Friday FX Options Expiries
-- 09/11 04:31 [FirstSquawk] ØRSTED RECEIVES A FINAL TAX OPINION CONFIRMING THAT THE WALNEY EXTENSION AND HORNSEA 1 OFFSHORE WIND FARMS HAVE A GENUINE LEGAL AND ECONOMIC PURPOSE, WITH THE PROJECTS PRIMARILY TAXABLE IN THE COUNTRIES WHERE THEY OPERATE.
-- 09/11 04:31 [FirstSquawk] ØRSTED WILL HOLD TALKS WITH HMRC AND THE DANISH TAX AGENCY (DTA) TO RESOLVE THE APPLICATION OF THE OPINION AND ADDRESS OTHER PROJECTS AFFECTED BY SIMILAR TAX DECISIONS.
-- 09/11 04:31 [FirstSquawk] IRAN FM, PAKISTAN ARMY CHIEF DISCUSS REGIONAL TENSIONS - IRAN FM, VIA DBNEWS
-- 09/11 04:32 [financialjuice] SpaceX: Next starship flight will be revenue generating. $SPCX
 - 09/11 04:38 [financialjuice] SpaceX CFO: More conviction on $100b annual runrate revenue. $SPCX
 - 09/11 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 466.4 MLN NASDAQ 100: 464.1 MLN DOW 30: -128.5 MLN MAG 7: 336.9 MLN $MACRO
 - 09/11 04:52 [financialjuice] Trump and JD Vance speak at the Republican midterm convention - WATCH LIVE
@@ -119,3 +112,7 @@
 - 09/11 10:17 [FirstSquawk] Taiwan says Vice President Hsiao Bi-khim is accompanied by the foreign minister on her Italy trip.
 - 09/11 10:17 [FirstSquawk] Vice President Hsiao Bi-khim travels to Italy, according to Taiwan’s presidential office.
 - 09/11 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 6, 2023
+- 09/11 10:17 [FirstSquawk] Yuan reference rate hits its strongest level in more than three years as China sets the midpoint.
+- 09/11 10:20 [FirstSquawk] ¥3.5 trillion Treasury discount bills offered by Japan.
+- 09/11 10:21 [financialjuice] China injects 4 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/11 10:27 [FirstSquawk] Copper futures in Shanghai pull back more than 3%.

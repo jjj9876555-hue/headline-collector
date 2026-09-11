@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-11 10:17 JST／対象: 09/10 22:17 〜 09/11 10:17 JST（時刻はすべて日本時間）
+生成: 2026-09-11 10:32 JST／対象: 09/10 22:32 〜 09/11 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 29 | 09/10 22:36 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 139 | 09/10 22:17 | 09/11 10:17 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 149 | 09/10 22:17 | 09/11 10:17 | ⚠ 48分（08:01→08:50） |
+| FirstSquawk | 138 | 09/10 22:33 | 09/11 10:27 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 133 | 09/10 22:35 | 09/11 10:21 | ⚠ 48分（08:01→08:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 308 行（統合前 321 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 292 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 22:17 [financialjuice] ECB's Lagarde: post-cutoff data suggest even higher 2026 growth than in projection.
-- 09/10 22:17 [FirstSquawk] LAGARDE: ECB WAS SURPRISED BY LOWER THAN EXPECTED INFLATION
-- 09/10 22:18 [financialjuice] ECB's Lagarde: Inflation has been lower recently than anticipated, especially food.
-- 09/10 22:18 [financialjuice] ECB's Lagarde: The ECB was surprised by longer-lasting inflation.
-- 09/10 22:21 [financialjuice] ECB's Lagarde: Very hopeful digital euro legislation voted on before year-end.
-- 09/10 22:21 [financialjuice] ❗ Yemen's Houthis reached the Red Sea islands of Hanish - Two Yemeni governmental military sources
-- 09/10 22:21 [financialjuice/FirstSquawk] ❗ Traders see more than 50% chance of ECB hike in October.
-- 09/10 22:22 [FirstSquawk] LAGARDE: VERY HOPEFUL DIGITAL EURO LAW WILL PASS BY YEAR-END
-- 09/10 22:22 [financialjuice] ECB's Lagarde: Won't comment on any FX intervention.
-- 09/10 22:23 [financialjuice] ECB's Lagarde: Euro-Yen intervention had a volume of €500m.
-- 09/10 22:24 [financialjuice] SpaceX overhauls data center build-out, potentially slowing expansion - The Information $SPCX
-- 09/10 22:25 [financialjuice] ECB's Lagarde: Won't comment on spreads.
-- 09/10 22:25 [financialjuice] ECB's Lagarde: Spread is a reflection of market perception of a country's bond.
-- 09/10 22:26 [financialjuice] ECB's Lagarde: Cancellation of debt would be a pure violation of the treaty.
-- 09/10 22:27 [financialjuice] ECB's Lagarde: Debt cancellation talk is financially dangerous
-- 09/10 22:29 [financialjuice] ECB's Lagarde: The ECB to publish benign, adverse, and severe scenarios.
-- 09/10 22:29 [financialjuice] ECB's Lagarde: Against all three scenarios, the decision to raise rates is robust.
-- 09/10 22:29 [FirstSquawk] LAGARDE: ECB HIKE ROBUST AGAINST ALL THREE SCENARIOS
-- 09/10 22:30 [financialjuice] ECB's Lagarde: ECB hike robust against all three scenarios.
-- 09/10 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 23.0 MLN NASDAQ 100: -11.8 MLN DOW 30: -11.3 MLN MAG 7: -7.4 MLN $MACRO
 - 09/10 22:33 [FirstSquawk] DOW JONES DOWN 232.28 POINTS, OR 0.44 PERCENT, AT 52,148.38 AFTER MARKET OPEN NASDAQ DOWN 248.90 POINTS, OR 0.95 PERCENT, AT 26,004.44 AFTER MARKET OPEN S&P 500 DOWN 43.77 POINTS, OR 0.57 %, AT 7,592.59 AFTER MARKET OPEN
 - 09/10 22:35 [financialjuice] ECB's President Lagarde: If energy shock longer than expected, we'll see second round effects and it will affect food prices.
 - 09/10 22:35 [financialjuice] Yemeni Armed Forces Gain Control of Zubayr City and the Strategic Zaqar Island Near Bab-el-Mandeb - Tasnim News.
@@ -332,3 +312,7 @@
 - 09/11 10:17 [FirstSquawk] Taiwan says Vice President Hsiao Bi-khim is accompanied by the foreign minister on her Italy trip.
 - 09/11 10:17 [FirstSquawk] Vice President Hsiao Bi-khim travels to Italy, according to Taiwan’s presidential office.
 - 09/11 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 6, 2023
+- 09/11 10:17 [FirstSquawk] Yuan reference rate hits its strongest level in more than three years as China sets the midpoint.
+- 09/11 10:20 [FirstSquawk] ¥3.5 trillion Treasury discount bills offered by Japan.
+- 09/11 10:21 [financialjuice] China injects 4 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/11 10:27 [FirstSquawk] Copper futures in Shanghai pull back more than 3%.

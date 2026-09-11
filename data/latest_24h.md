@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-11 10:17 JST／対象: 09/10 10:17 〜 09/11 10:17 JST（時刻はすべて日本時間）
+生成: 2026-09-11 10:32 JST／対象: 09/10 10:32 〜 09/11 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 59 | 09/10 16:41 | 09/11 08:48 | ⚠ 175分（03:41→06:36） |
-| FirstSquawk | 384 | 09/10 10:17 | 09/11 10:17 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 316 | 09/10 10:21 | 09/11 10:17 | ⚠ 119分（15:00→17:00） |
+| FirstSquawk | 378 | 09/10 10:34 | 09/11 10:27 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 315 | 09/10 10:32 | 09/11 10:21 | ⚠ 119分（15:00→17:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 737 行（統合前 765 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 730 行（統合前 758 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/10 10:17 [FirstSquawk] Yuan midpoint reaches its strongest level since February 2023 as China continues to allow the currency to strengthen.
-- 09/10 10:18 [FirstSquawk] Trump takes the stage to a huge reception in Dallas as Republicans rally ahead of the 2026 midterm elections - Fox News
-- 09/10 10:19 [FirstSquawk] President Trump hails the last two years as the strongest period of presidential leadership America has ever seen.
-- 09/10 10:21 [FirstSquawk] Alibaba's Hong Kong shares set for a 2.4% decline at the open.
-- 09/10 10:21 [financialjuice] China cbank injects 3 bln yuan via 7-day reverse repos: statement
-- 09/10 10:21 [FirstSquawk] Huawei says the U.S. case is based on false allegations as prosecutors pursue charges tied to trade secrets and Iran sanctions.
-- 09/10 10:22 [FirstSquawk] China central bank provides 3 billion yuan in liquidity through 7-day reverse repos, statement says.
-- 09/10 10:25 [FirstSquawk] WTI moves lower as oil markets balance rising Middle East risks against broader supply and demand factors.
-- 09/10 10:26 [FirstSquawk] Trump urges Republicans to secure a midterm victory to defend the gains made over the past two years.
-- 09/10 10:28 [FirstSquawk] Japanese researchers earn four Lasker Awards for achievements in medicine, according to Kyodo.
-- 09/10 10:32 [financialjuice] Bank of Japan board member Masu: underlying inflation remains under 2% but close to that level
 - 09/10 10:32 [financialjuice] BoJ board member Masu: BoJ likely to keep raising interest rates amid current loose financial conditions
 - 09/10 10:33 [financialjuice] BOJ board member Masu: pace and timing of rate increase will depend on likelihood of meeting baseline projections and risks, considering oil price changes, al-demand, and currency fluctuations
 - 09/10 10:34 [financialjuice] Multiple US military aircraft damaged in strikes overnight at Muwaffaq Salti Air Base in Jordan: CBS reporter on X
@@ -761,3 +750,7 @@
 - 09/11 10:17 [FirstSquawk] Taiwan says Vice President Hsiao Bi-khim is accompanied by the foreign minister on her Italy trip.
 - 09/11 10:17 [FirstSquawk] Vice President Hsiao Bi-khim travels to Italy, according to Taiwan’s presidential office.
 - 09/11 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 6, 2023
+- 09/11 10:17 [FirstSquawk] Yuan reference rate hits its strongest level in more than three years as China sets the midpoint.
+- 09/11 10:20 [FirstSquawk] ¥3.5 trillion Treasury discount bills offered by Japan.
+- 09/11 10:21 [financialjuice] China injects 4 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/11 10:27 [FirstSquawk] Copper futures in Shanghai pull back more than 3%.
