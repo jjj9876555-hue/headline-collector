@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 03:37 JST／対象: 09/11 21:37 〜 09/12 03:37 JST（時刻はすべて日本時間）
+生成: 2026-09-12 03:51 JST／対象: 09/11 21:51 〜 09/12 03:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/11 21:38 | 09/11 23:00 | 32分（21:52→22:25） |
-| FirstSquawk | 54 | 09/11 21:59 | 09/12 03:32 | 35分（23:55→00:31） |
-| financialjuice | 74 | 09/11 21:44 | 09/12 03:32 | 37分（02:21→02:58） |
+| DeItaone | 11 | 09/11 21:52 | 09/11 23:00 | 32分（21:52→22:25） |
+| FirstSquawk | 56 | 09/11 21:59 | 09/12 03:51 | 35分（23:55→00:31） |
+| financialjuice | 73 | 09/11 21:55 | 09/12 03:47 | 37分（02:21→02:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 143 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 140 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 21:38 [DeItaone] 🚨 US CPI: Inflation Comes In Hotter Than Expected August US inflation data delivered a firmer-than-expected headline reading, adding another complication to the Federal Reserve outlook. Headline CPI rose 0.396% M/M on an unrounded basis, ef…
-- 09/11 21:40 [DeItaone] PUTIN: WEST IS RESORTING TO DIRECT DESTRUCTION OF FACILITIES AND PIPELINES IN AN EFFORT TO MAINTAIN ITS ECONOMIC LEADERSHIP
-- 09/11 21:42 [DeItaone] US CORE INFLATION UPSIDE DRIVEN BY SUPERCORE The latest inflation details show the upside surprise was driven by supercore services, while core goods were softer than expected. Lodging was a notable upside outlier, while housing came in sof…
-- 09/11 21:44 [financialjuice] GERMAN CURRENT ACCOUNT BALANCE NSA ACTUAL 21.154B (FORECAST -, PREVIOUS 19.0B) $MACRO
-- 09/11 21:50 [financialjuice] Iran President Pezeshkian: Iran proposes BRICS establish $10 billion insurance fund for major infrastructure and energy projects.
-- 09/11 21:51 [DeItaone] US DATA: RECORD CELL PHONE PRICE JUMP BOOSTS CORE CPI August inflation data carried a hawkish signal as wireless phone service prices surged 5.9% — the largest increase on record. The jump alone added around 0.08 percentage points to core C…
-- 09/11 21:51 [financialjuice] Yemeni army takes control of local council building in Dhubab, near Bab-el-Mandeb - Tasnim News
 - 09/11 21:52 [DeItaone] NASDAQ FUTURES EXTEND GAINS, LAST UP ABOUT 1%
 - 09/11 21:55 [financialjuice] Trump and the First Lady Participate in the 9/11 Observance Ceremony
 - 09/11 21:55 [financialjuice] Yemeni armed forces have taken control of the local council building in the strategically important town of "Dhubab," which has direct oversight of the vital Bab-el-Mandeb waterway - Tasnim News
@@ -167,3 +160,7 @@
 - 09/12 03:32 [financialjuice] Saudi Arabia: Taking steps to secure pipeline, assess safety.
 - 09/12 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8310/MMBTU
 - 09/12 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $100.05/BBL, DOWN $2.43, 2.37%
+- 09/12 03:45 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $104.61/BBL, DOWN $3.02, 2.81 PCT
+- 09/12 03:45 [financialjuice] Brent Crude futures settle at $104.61/bbl, down $3.02, 2.81%
+- 09/12 03:47 [financialjuice] Iran has launched drones towards ships in the Strait of Hormuz - Israel's Channel 12 News
+- 09/12 03:51 [FirstSquawk] PARAMOUT SETTLEMENT TALKS TO TAKE PLACE IN LATE OCTOBER - COURT ORDER
