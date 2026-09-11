@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 00:00 JST／対象: 09/11 12:00 〜 09/12 00:00 JST（時刻はすべて日本時間）
+生成: 2026-09-12 00:18 JST／対象: 09/11 12:18 〜 09/12 00:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 46 | 09/11 15:05 | 09/11 23:00 | 37分（19:03→19:41） |
-| FirstSquawk | 167 | 09/11 12:01 | 09/11 23:55 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 95 | 09/11 15:34 | 09/11 23:41 | ⚠ 55分（16:05→17:01） |
+| FirstSquawk | 165 | 09/11 12:25 | 09/11 23:55 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 97 | 09/11 15:34 | 09/12 00:12 | ⚠ 55分（16:05→17:01） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 304 行（統合前 308 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 12:01 [FirstSquawk] Russia’s Volgograd region reports damage to an industrial facility from missile debris.
-- 09/11 12:10 [FirstSquawk] Barclays forecasts another 25-bps ECB rate increase at the December 2026 meeting.
 - 09/11 12:25 [FirstSquawk] Hezbollah tunnel network in southern Lebanon destroyed by Israel, triggering tremors.
 - 09/11 12:26 [FirstSquawk] Petrol-powered cars from foreign marques see deep price cuts as competition heats up in China.
 - 09/11 12:30 [FirstSquawk] Three-month Japanese Treasury bills clear at a lowest price of 99.7050 and average 99.7228, while 12.8708% of bids are accepted at the lowest price.
@@ -328,3 +326,5 @@
 - 09/11 23:41 [FirstSquawk] KREMLIN: RUSSIA OPEN TO TALKS, SEEKS THREE-WAY MEETING: IFX
 - 09/11 23:55 [FirstSquawk] INDIA PM MODI MET WITH PEZESHKIAN AND EMPHASIZED THE IMPORTANCE OF PERSISTENT EFFORTS FOR LASTING PEACE AND STABILITY IN THE REGION, SAID INDIA'S FOREIGN MINISTRY.
 - 09/11 23:55 [FirstSquawk] INDIA'S PM MODI MET WITH IRAN'S PEZESHKIAN, EMPHASIZING THE IMPORTANCE OF SAFEGUARDING NAVIGATION AND TRADE, AS WELL AS THE SAFETY AND WELL-BEING OF SAILORS.
+- 09/12 00:01 [financialjuice] QatarEnergy Seeks Multi-Year LNG Supply Deals as Ras Laffan Repairs Seen Taking 3-5 Years
+- 09/12 00:12 [financialjuice] IDF: In the coming hours, attacks are expected in Lebanon, and explosions will be heard in the Western Galilee - Israel's N12 News.

@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 00:00 JST／対象: 09/11 00:00 〜 09/12 00:00 JST（時刻はすべて日本時間）
+生成: 2026-09-12 00:18 JST／対象: 09/11 00:18 〜 09/12 00:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 66 | 09/11 01:33 | 09/11 23:00 | ⚠ 376分（08:48→15:05） |
-| FirstSquawk | 309 | 09/11 00:00 | 09/11 23:55 | ⚠ 81分（07:38→09:00） |
-| financialjuice | 203 | 09/11 00:00 | 09/11 23:41 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 303 | 09/11 00:31 | 09/11 23:55 | ⚠ 81分（07:38→09:00） |
+| financialjuice | 198 | 09/11 00:32 | 09/12 00:12 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 568 行（統合前 579 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 557 行（統合前 568 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 00:00 [FirstSquawk] EU'S VON DER LEYEN WILL DISCUSS SOCIAL MEDIA PLAN IN NEXT WEEK'S STATE OF UNION SPEECH.
-- 09/11 00:00 [financialjuice] IMF: Global inflation expectations have risen but remain well-anchored over the longer run.
-- 09/11 00:01 [financialjuice] IMF: Global growth remains on track to reach about 3% in 2026, but risks remain high.
-- 09/11 00:01 [financialjuice] IMF: Energy shock from war in the Middle East is not over; global debt pressures are mounting, and the disinflation process has stalled.
-- 09/11 00:01 [financialjuice] IMF: We are advising central bankers to remain focused on price stability mandates; encouraging fiscal authorities to have medium-term consolidation plans.
-- 09/11 00:02 [financialjuice] US to sell $19 bln reopened 10-Year TIPS on September 17th, to settle on September 30th
-- 09/11 00:02 [financialjuice] US Treasury Announces Bill and Bond Auction Sizes US Treasury to sell $92 billion of 3-month bills on September 14, settling September 17 US Treasury to sell $79 billion of 6-month bills on September 14, settling September 17 US Treasury to…
-- 09/11 00:04 [FirstSquawk] IMF REPORTS THAT GLOBAL INFLATION EXPECTATIONS HAVE INCREASED BUT ARE STILL STABLE FOR THE LONG TERM.
-- 09/11 00:04 [FirstSquawk] IMF PREDICTS GLOBAL GROWTH WILL HIT AROUND 3% BY 2026, BUT RAISES CONCERNS ABOUT HIGH RISKS.
-- 09/11 00:04 [FirstSquawk] IMF REPORTS THAT THE ENERGY CRISIS FROM THE MIDDLE EAST CONFLICT CONTINUES; GLOBAL DEBT IS INCREASING, AND DISINFLATION HAS STOPPED.
-- 09/11 00:04 [FirstSquawk] IMF URGES CENTRAL BANKERS TO PRIORITIZE PRICE STABILITY AND ADVOCATES FOR MEDIUM-TERM CONSOLIDATION PLANS FROM FISCAL AUTHORITIES.
-- 09/11 00:14 [financialjuice] ❗ ECB Officials expect more tightening with October in play.
-- 09/11 00:14 [FirstSquawk] ECB OFFICIALS ANTICIPATE FURTHER INTEREST RATE HIKES AS OCTOBER APPROACHES.
 - 09/11 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.55%; GERMANY'S DAX DOWN 0.69%
 - 09/11 00:31 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.44%; SPAIN'S IBEX DOWN 0.01%
 - 09/11 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.81 (FORECAST -, PREVIOUS 2.970) $MACRO
@@ -592,3 +579,5 @@
 - 09/11 23:41 [FirstSquawk] KREMLIN: RUSSIA OPEN TO TALKS, SEEKS THREE-WAY MEETING: IFX
 - 09/11 23:55 [FirstSquawk] INDIA PM MODI MET WITH PEZESHKIAN AND EMPHASIZED THE IMPORTANCE OF PERSISTENT EFFORTS FOR LASTING PEACE AND STABILITY IN THE REGION, SAID INDIA'S FOREIGN MINISTRY.
 - 09/11 23:55 [FirstSquawk] INDIA'S PM MODI MET WITH IRAN'S PEZESHKIAN, EMPHASIZING THE IMPORTANCE OF SAFEGUARDING NAVIGATION AND TRADE, AS WELL AS THE SAFETY AND WELL-BEING OF SAILORS.
+- 09/12 00:01 [financialjuice] QatarEnergy Seeks Multi-Year LNG Supply Deals as Ras Laffan Repairs Seen Taking 3-5 Years
+- 09/12 00:12 [financialjuice] IDF: In the coming hours, attacks are expected in Lebanon, and explosions will be heard in the Western Galilee - Israel's N12 News.

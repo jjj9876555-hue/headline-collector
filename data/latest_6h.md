@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 00:00 JST／対象: 09/11 18:00 〜 09/12 00:00 JST（時刻はすべて日本時間）
+生成: 2026-09-12 00:18 JST／対象: 09/11 18:18 〜 09/12 00:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 33 | 09/11 18:20 | 09/11 23:00 | 37分（19:03→19:41） |
-| FirstSquawk | 55 | 09/11 18:01 | 09/11 23:55 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 70 | 09/11 18:05 | 09/11 23:41 | 36分（18:21→18:57） |
+| FirstSquawk | 50 | 09/11 18:19 | 09/11 23:55 | ⚠ 55分（20:35→21:30） |
+| financialjuice | 70 | 09/11 18:21 | 09/12 00:12 | 36分（18:21→18:57） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 157 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 152 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 18:01 [FirstSquawk] UAE IS CHANGEING STRATEGY FOR 5-GIGAWATT AI CAMPUS DUE TO IRANIAN ATTACKS, SOURCES REPORT.
-- 09/11 18:01 [FirstSquawk] PROJECT IS EXPECTED TO MOVE TO A NETWORK OF DATA CENTERS IN THE UAE, ACCORDING TO SOURCES.
-- 09/11 18:05 [financialjuice] Iran-backed Houthis reached strategic Yemeni island of Perim in Bab El-Mandeb strait early on Friday - Four Yemeni Government Sources.
-- 09/11 18:09 [financialjuice] UAE revising AI data center plan after Iranian attacks.
-- 09/11 18:10 [FirstSquawk] IRAN-SUPPORTED HOUTHIS ARRIVED AT THE IMPORTANT PERIM ISLAND IN YEMEN'S BAB EL-MANDEB STRAIT EARLY ON FRIDAY
-- 09/11 18:11 [FirstSquawk] FRENCH GOVERNMENT PREDICTS 2026 BUDGET DEFICIT WILL EXCEED 5% GOAL.
-- 09/11 18:12 [FirstSquawk] FRENCH FINANCE MINISTER LESCURE: AT THIS POINT WE DO NOT SEE THE NEED FOR A NEW RELEASE OF OIL STOCKS
 - 09/11 18:19 [FirstSquawk] CHINA'S MOONSHOT AI AIMS FOR $2 BILLION IN ANNUAL SALES BY 2026.
 - 09/11 18:20 [DeItaone] WALL STREET HIKES OIL FORECASTS AS GULF DISRUPTIONS PERSIST Major banks are raising Brent forecasts as prolonged Middle East shipping disruptions tighten global oil supply. HSBC sees Brent averaging $90 in 2026, while Goldman warns prices c…
 - 09/11 18:21 [financialjuice] SNB's Chairman Schlegel: Inflation recently ticked up in Switzerland.
@@ -181,3 +174,5 @@
 - 09/11 23:41 [FirstSquawk] KREMLIN: RUSSIA OPEN TO TALKS, SEEKS THREE-WAY MEETING: IFX
 - 09/11 23:55 [FirstSquawk] INDIA PM MODI MET WITH PEZESHKIAN AND EMPHASIZED THE IMPORTANCE OF PERSISTENT EFFORTS FOR LASTING PEACE AND STABILITY IN THE REGION, SAID INDIA'S FOREIGN MINISTRY.
 - 09/11 23:55 [FirstSquawk] INDIA'S PM MODI MET WITH IRAN'S PEZESHKIAN, EMPHASIZING THE IMPORTANCE OF SAFEGUARDING NAVIGATION AND TRADE, AS WELL AS THE SAFETY AND WELL-BEING OF SAILORS.
+- 09/12 00:01 [financialjuice] QatarEnergy Seeks Multi-Year LNG Supply Deals as Ras Laffan Repairs Seen Taking 3-5 Years
+- 09/12 00:12 [financialjuice] IDF: In the coming hours, attacks are expected in Lebanon, and explosions will be heard in the Western Galilee - Israel's N12 News.
