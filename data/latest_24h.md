@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 02:15 JST／対象: 09/12 02:15 〜 09/13 02:15 JST（時刻はすべて日本時間）
+生成: 2026-09-13 02:30 JST／対象: 09/12 02:30 〜 09/13 02:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/12 04:10 | 09/13 01:48 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 270 | 09/12 02:16 | 09/13 02:14 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 127 | 09/12 02:21 | 09/13 02:00 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 267 | 09/12 02:30 | 09/13 02:14 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 126 | 09/12 02:58 | 09/13 02:00 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 422 行（統合前 427 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 418 行（統合前 423 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 02:16 [FirstSquawk] 3 COUNTERPARTIES TAKE $5.255 BLN AT FED REVERSE REPO OP. (PREV $4.736 BLN, 4 BIDS)
-- 09/12 02:20 [FirstSquawk] RUSSIA OFFICIAL WILL ATTEND G20 ENERGY MEETING IN HOUSTON NEXT WEEK, WHITE HOUSE OFFICIAL SAYS
-- 09/12 02:21 [financialjuice] A Russian Official will attend the G20 energy meeting in Houston next week - White House Official.
-- 09/12 02:25 [FirstSquawk] ESTEE LAUDER ADVANCES CASE AGAINST WALMART OVER KNOCKOFFS: BLAW
 - 09/12 02:30 [FirstSquawk] CANADIAN AI FIRM COHERE IN ADVANCED TALKS TO RAISE UP TO $3-BILLION - GLOBE AND MAIL
 - 09/12 02:32 [FirstSquawk] THE DEAL WOULD VALUE ARTIFICIAL-INTELLIGENCE COMPANY REOHE AT $20 BLN - GLOBE AND MAIL
 - 09/12 02:33 [FirstSquawk] IMF SAYS TURKMENISTAN NOT PROVIDING DATA WAS OBLIGATIONS BREACH

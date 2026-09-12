@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 02:15 JST／対象: 09/12 14:15 〜 09/13 02:15 JST（時刻はすべて日本時間）
+生成: 2026-09-13 02:30 JST／対象: 09/12 14:30 〜 09/13 02:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 135 | 09/12 14:18 | 09/13 02:14 | ⚠ 114分（16:00→17:55） |
+| FirstSquawk | 133 | 09/12 14:33 | 09/13 02:14 | ⚠ 114分（16:00→17:55） |
 | financialjuice | 62 | 09/12 15:10 | 09/13 02:00 | ⚠ 112分（15:43→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 221 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 219 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 14:18 [FirstSquawk] US decision to spare optical transceivers eases pressure on China’s supply chain.
-- 09/12 14:25 [FirstSquawk] August consumer-price growth in the US adds to expectations for a rate increase.
 - 09/12 14:33 [FirstSquawk] Japan Automakers to Overhaul Factory Schedules From FY2027 to Attract Workers — Kyodo Japanese automakers plan to redesign their factory operating calendars from fiscal 2027 as they seek to make manufacturing jobs more attractive and addres…
 - 09/12 14:46 [FirstSquawk] Egypt says any attack against Saudi Arabia constitutes a serious violation of international law.
 - 09/12 14:57 [FirstSquawk] South Korea Seeks U.S. Handover of Wartime Command Authority Under ‘No Added Conditions’ Principle South Korea’s defense minister nominee says Seoul aims to regain wartime operational control (OPCON) from the United States based on a “no ad…
