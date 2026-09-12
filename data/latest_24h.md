@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 13:46 JST／対象: 09/11 13:46 〜 09/12 13:46 JST（時刻はすべて日本時間）
+生成: 2026-09-12 13:58 JST／対象: 09/11 13:58 〜 09/12 13:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/11 15:05 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 288 | 09/11 13:49 | 09/12 13:44 | ⚠ 241分（05:01→09:02） |
+| FirstSquawk | 287 | 09/11 14:06 | 09/12 13:55 | ⚠ 241分（05:01→09:02） |
 | financialjuice | 180 | 09/11 15:34 | 09/12 13:04 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 511 行（統合前 517 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 510 行（統合前 516 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 13:49 [FirstSquawk] Australia’s proposed data-center rules could increase execution risks, according to Fitch Ratings.
-- 09/11 13:50 [FirstSquawk] South Korean President Lee set to hold Central Asia summit on September 16, media says.
 - 09/11 14:06 [FirstSquawk] YEN’S NEAR-TERM OUTLOOK DEPENDS ON BOJ SEPTEMBER GUIDANCE-WSJ
 - 09/11 14:07 [FirstSquawk] VANCE FIRES UP REPUBLICANS AS TRUMP CLOSES OUT GOP CONVENTION-WSJ
 - 09/11 14:09 [FirstSquawk] Seoul and Tehran’s foreign ministers hold phone talks, according to Yonhap.
@@ -535,3 +533,4 @@
 - 09/12 13:23 [FirstSquawk] BRICS nations look to connect expanding payment networks for cross-border transactions.
 - 09/12 13:34 [FirstSquawk] Singapore, China lead global education rankings while OECD student scores fall sharply.
 - 09/12 13:44 [FirstSquawk] UK Parliament blocks legislation seeking to legalize assisted dying in England and Wales.
+- 09/12 13:55 [FirstSquawk] Mandatory internships drive over 60% of new dentists into Hong Kong’s health department.

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 13:46 JST／対象: 09/12 01:46 〜 09/12 13:46 JST（時刻はすべて日本時間）
+生成: 2026-09-12 13:58 JST／対象: 09/12 01:58 〜 09/12 13:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
-| FirstSquawk | 133 | 09/12 02:03 | 09/12 13:44 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 68 | 09/12 01:48 | 09/12 13:04 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 134 | 09/12 02:03 | 09/12 13:55 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 67 | 09/12 02:01 | 09/12 13:04 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 202 行（統合前 204 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 01:48 [financialjuice] The US weighs how to use DPA to expand oil refining capacity - Sources.
 - 09/12 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 591 (FORECAST -, PREVIOUS 588) $MACRO
 - 09/12 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 450 (FORECAST -, PREVIOUS 449) $MACRO
 - 09/12 02:03 [FirstSquawk] US OIL RIG COUNT UP 1 TO 450 || US GAS RIG COUNT UP 2 TO 132 || US TOTAL RIG COUNT 591 , BAKER HUGHES SAYS
@@ -226,3 +225,4 @@
 - 09/12 13:23 [FirstSquawk] BRICS nations look to connect expanding payment networks for cross-border transactions.
 - 09/12 13:34 [FirstSquawk] Singapore, China lead global education rankings while OECD student scores fall sharply.
 - 09/12 13:44 [FirstSquawk] UK Parliament blocks legislation seeking to legalize assisted dying in England and Wales.
+- 09/12 13:55 [FirstSquawk] Mandatory internships drive over 60% of new dentists into Hong Kong’s health department.
