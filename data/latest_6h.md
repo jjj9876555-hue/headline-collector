@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 15:38 JST／対象: 09/12 09:38 〜 09/12 15:38 JST（時刻はすべて日本時間）
+生成: 2026-09-12 15:52 JST／対象: 09/12 09:52 〜 09/12 15:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 92 | 09/12 09:40 | 09/12 15:00 | 13分（11:26→11:40） |
-| financialjuice | 13 | 09/12 10:02 | 09/12 15:33 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 83 | 09/12 09:53 | 09/12 15:00 | 13分（11:26→11:40） |
+| financialjuice | 15 | 09/12 10:02 | 09/12 15:43 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 105 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 98 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 09:40 [FirstSquawk] Seoul’s NSC holds an urgent security review after North Korea launches short-range ballistic missiles.
-- 09/12 09:41 [FirstSquawk] Trump: I’m open to Chinese automakers building vehicles at U.S. plants.
-- 09/12 09:44 [FirstSquawk] Petrobras collects two payments totaling 2.54 billion reais linked to Brazil’s diesel subsidy initiative.
-- 09/12 09:47 [FirstSquawk] Seoul says North Korea’s missile firing defies U.N. Security Council resolutions, triggering an urgent security meeting.
-- 09/12 09:48 [FirstSquawk] Baghdad suspends traffic at the Shalamcheh border post with Iran as a precaution after recent attacks targeting Saudi Arabia.
-- 09/12 09:49 [FirstSquawk] The upcoming Israel-Lebanon talks have been moved to a later date, Axios reports.
-- 09/12 09:50 [FirstSquawk] Khamis Mushait is no longer under threat, Saudi Civil Defense says.
-- 09/12 09:50 [FirstSquawk] Taif is now clear of the threat, Saudi Civil Defense says.
-- 09/12 09:52 [FirstSquawk] Discovery Loop targets a $50 billion valuation as investor interest in AI startups grows.
 - 09/12 09:53 [FirstSquawk] Luckin Coffee secures a $1 billion investment from Abu Dhabi’s wealth fund.
 - 09/12 09:53 [FirstSquawk] Zaporizhzhia is struck by two Russian ballistic missiles.
 - 09/12 09:55 [FirstSquawk] OpenAI said its agents used the RubyGems platform to browse the web for benign purposes and gather publicly available information, according to WSJ. What could this mean for the future of AI agents?
@@ -129,3 +120,5 @@
 - 09/12 15:32 [financialjuice] Saudi civil defense: early warning issued in Sharurah to signal potential danger
 - 09/12 15:32 [financialjuice] India's Sebi proposes cutting post-closing auction window for derivatives segment to 5 minutes from 10 minutes
 - 09/12 15:33 [financialjuice] India's SEBI proposes to continue publishing indicative equilibrium price for stocks in closing auction session
+- 09/12 15:42 [financialjuice] Russian defence ministry: Russian troops strike two cargo ships in Ukrainian port of Chornomorsk
+- 09/12 15:43 [financialjuice] Russian Defence Ministry: Russian forces also strike metallurgical plant in Ukraine's Zaporizhzhia region - RIA

@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 15:38 JST／対象: 09/12 03:38 〜 09/12 15:38 JST（時刻はすべて日本時間）
+生成: 2026-09-12 15:52 JST／対象: 09/12 03:52 〜 09/12 15:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
-| FirstSquawk | 123 | 09/12 03:45 | 09/12 15:00 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 64 | 09/12 03:45 | 09/12 15:33 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 121 | 09/12 03:55 | 09/12 15:00 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 64 | 09/12 03:53 | 09/12 15:43 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 188 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 186 行（統合前 188 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 03:45 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $104.61/BBL, DOWN $3.02, 2.81 PCT
-- 09/12 03:45 [financialjuice] Brent Crude futures settle at $104.61/bbl, down $3.02, 2.81%
-- 09/12 03:47 [financialjuice] Iran has launched drones towards ships in the Strait of Hormuz - Israel's Channel 12 News
-- 09/12 03:51 [FirstSquawk] PARAMOUT SETTLEMENT TALKS TO TAKE PLACE IN LATE OCTOBER - COURT ORDER
 - 09/12 03:53 [financialjuice] Turkish Foreign Minister discussed regional developments, attacks against Saudi Arabia in call with Saudi counterpart - Turkish diplomatic source.
 - 09/12 03:55 [FirstSquawk] TURKISH FOREIGN MINISTER FIDAN AND SAUDI FOREIGN MINISTER DISCUSSED RECENT ATTACKS TARGETING SAUDI ARABIA.
 - 09/12 04:05 [FirstSquawk] APPLE’S ALWAYS-ON AI FEATURES TEST EAVESDROPPING LAWS: LAWYERS
@@ -212,3 +208,5 @@
 - 09/12 15:32 [financialjuice] Saudi civil defense: early warning issued in Sharurah to signal potential danger
 - 09/12 15:32 [financialjuice] India's Sebi proposes cutting post-closing auction window for derivatives segment to 5 minutes from 10 minutes
 - 09/12 15:33 [financialjuice] India's SEBI proposes to continue publishing indicative equilibrium price for stocks in closing auction session
+- 09/12 15:42 [financialjuice] Russian defence ministry: Russian troops strike two cargo ships in Ukrainian port of Chornomorsk
+- 09/12 15:43 [financialjuice] Russian Defence Ministry: Russian forces also strike metallurgical plant in Ukraine's Zaporizhzhia region - RIA
