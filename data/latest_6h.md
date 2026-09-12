@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 16:59 JST／対象: 09/12 10:59 〜 09/12 16:59 JST（時刻はすべて日本時間）
+生成: 2026-09-12 17:18 JST／対象: 09/12 11:18 〜 09/12 17:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 16:41 | 09/12 16:41 | - |
-| FirstSquawk | 43 | 09/12 11:02 | 09/12 16:00 | ⚠ 60分（15:00→16:00） |
+| FirstSquawk | 36 | 09/12 11:21 | 09/12 16:00 | ⚠ 60分（15:00→16:00） |
 | financialjuice | 13 | 09/12 13:03 | 09/12 15:43 | ⚠ 126分（13:04→15:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 57 行（統合前 57 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 50 行（統合前 50 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 11:02 [FirstSquawk] S&P Sees Saudi Oil Output Rising in 2027, But Below 12.3 Mln Bpd Capacity S&P expects Saudi Arabia’s oil production to increase in 2027, though output is projected to remain well below the kingdom’s reported maximum feasible capacity of 12.…
-- 09/12 11:04 [FirstSquawk] U.S. STUDENT DEBT EXPLODES TO $1.86 TRILLION
-- 09/12 11:04 [FirstSquawk] Riyadh pauses plans for retaliation after Iraq PM urges restraint, Saudi foreign ministry says.
-- 09/12 11:10 [FirstSquawk] Riyadh says it retains the option to take any measures needed to protect its territory, security and residents.
-- 09/12 11:11 [FirstSquawk] S&P: Saudi Arabia’s Energy Infrastructure Helps Cushion Middle East Conflict Impact S&P says Saudi Arabia’s diversified energy export network, combined with elevated oil prices, is helping the kingdom withstand economic pressures stemming f…
-- 09/12 11:13 [FirstSquawk] US TAX BRACKETS SET TO RISE 3.2% IN 2027 — AMERICANS CAN EARN MORE BEFORE HIGHER TAX RATES KICK IN
-- 09/12 11:15 [FirstSquawk] Ralph Lauren approves a quarterly dividend payment of $1 a share.
 - 09/12 11:21 [FirstSquawk] Measles cases in Pennsylvania reach 676 across 37 counties in 2026.
 - 09/12 11:22 [FirstSquawk] €500K COCAINE HIDDEN INSIDE LOLLIPOPS SEIZED AT DUBLIN AIRPORT About 5kg of cocaine was discovered concealed in bags of lollipops in a passenger’s luggage after a flight from Brazil. A man in his 60s was arrested and charged.
 - 09/12 11:26 [FirstSquawk] US REAL YIELDS SURGE TO 18-YEAR HIGH — 10-YEAR REAL YIELD HITS ~2.5%, HIGHEST SINCE 2008 MARKET WARNING: REAL YIELDS SPIKE TO LEVELS NOT SEEN SINCE GLOBAL FINANCIAL CRISIS
