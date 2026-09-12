@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 01:17 JST／対象: 09/12 19:17 〜 09/13 01:17 JST（時刻はすべて日本時間）
+生成: 2026-09-13 01:32 JST／対象: 09/12 19:32 〜 09/13 01:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/12 20:23 | 09/13 00:09 | ⚠ 67分（20:43→21:50） |
-| FirstSquawk | 84 | 09/12 19:43 | 09/13 01:09 | 45分（21:53→22:38） |
+| FirstSquawk | 85 | 09/12 19:43 | 09/13 01:31 | 45分（21:53→22:38） |
 | financialjuice | 28 | 09/12 19:55 | 09/13 00:19 | ⚠ 69分（23:09→00:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 119 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 120 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -143,3 +143,4 @@
 - 09/13 01:09 [FirstSquawk] United Nations: At least 76,000 people have been displaced by fighting in Yemen since July
 - 09/13 01:09 [FirstSquawk] UAE affirms that there is no military solution to the conflict in Sudan and that the only viable path to achieving lasting peace is an independent, civilian-led transition free from the influence of warring parties.
 - 09/13 01:09 [FirstSquawk] Lebanese News Agency: Heavy and concentrated Israeli shelling on the "Ali Taher" heights in southern Lebanon
+- 09/13 01:31 [FirstSquawk] Lebanese News Agency: The Israeli army carries out a massive explosion operation in "Al-Qanatra" in southern Lebanon

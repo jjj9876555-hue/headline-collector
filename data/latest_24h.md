@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 01:17 JST／対象: 09/12 01:17 〜 09/13 01:17 JST（時刻はすべて日本時間）
+生成: 2026-09-13 01:32 JST／対象: 09/12 01:32 〜 09/13 01:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 26 | 09/12 04:10 | 09/13 00:09 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 266 | 09/12 01:22 | 09/13 01:09 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 125 | 09/12 01:28 | 09/13 00:19 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 264 | 09/12 01:34 | 09/13 01:31 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 123 | 09/12 01:32 | 09/13 00:19 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 414 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 410 行（統合前 415 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 01:22 [FirstSquawk] GERMANY EXPLORES PHARMA PROPOSAL WITH TEAM TRUMP AS TARIFF THREAT LOOMS - POLITICO
-- 09/12 01:28 [financialjuice] US Commerce Secretary Lutnick: The US could try to 'earn' money for $5,000 checks, it won't rely on tax funds - NBC.
-- 09/12 01:28 [FirstSquawk] US MAY ATTEMPT TO 'EARN' FUNDS FOR $5,000 PAYMENTS: LUTNICK TO NBC.
-- 09/12 01:28 [FirstSquawk] LUTNICK TOLD NBC ON THURSDAY THAT $5,000 PAYMENTS WILL NOT DEPEND ON TAX DOLLARS.
-- 09/12 01:30 [financialjuice] US Commerce Secretary Lutnick when asked about $5k payments, cites the US' Intel stake - NBC.
 - 09/12 01:32 [financialjuice] Saudi Arabia oil pipeline was struck by projectiles yesterday - CNN.
 - 09/12 01:33 [financialjuice] Saudi Arabian oil pipeline system hit by projectiles, triggering fires - CNN
 - 09/12 01:34 [FirstSquawk] SAUDI ARABIA OIL PIPELINE STRUCK BY PROJECTILES THURSDAY - CNN
@@ -438,3 +433,4 @@
 - 09/13 01:09 [FirstSquawk] United Nations: At least 76,000 people have been displaced by fighting in Yemen since July
 - 09/13 01:09 [FirstSquawk] UAE affirms that there is no military solution to the conflict in Sudan and that the only viable path to achieving lasting peace is an independent, civilian-led transition free from the influence of warring parties.
 - 09/13 01:09 [FirstSquawk] Lebanese News Agency: Heavy and concentrated Israeli shelling on the "Ali Taher" heights in southern Lebanon
+- 09/13 01:31 [FirstSquawk] Lebanese News Agency: The Israeli army carries out a massive explosion operation in "Al-Qanatra" in southern Lebanon
