@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 03:42 JST／対象: 09/12 03:42 〜 09/13 03:42 JST（時刻はすべて日本時間）
+生成: 2026-09-13 03:53 JST／対象: 09/12 03:53 〜 09/13 03:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/12 04:10 | 09/13 01:48 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 260 | 09/12 03:45 | 09/13 03:29 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 126 | 09/12 03:45 | 09/13 03:14 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 258 | 09/12 03:55 | 09/13 03:29 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 124 | 09/12 03:53 | 09/13 03:14 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 411 行（統合前 416 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 407 行（統合前 412 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 03:45 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $104.61/BBL, DOWN $3.02, 2.81 PCT
-- 09/12 03:45 [financialjuice] Brent Crude futures settle at $104.61/bbl, down $3.02, 2.81%
-- 09/12 03:47 [financialjuice] Iran has launched drones towards ships in the Strait of Hormuz - Israel's Channel 12 News
-- 09/12 03:51 [FirstSquawk] PARAMOUT SETTLEMENT TALKS TO TAKE PLACE IN LATE OCTOBER - COURT ORDER
 - 09/12 03:53 [financialjuice] Turkish Foreign Minister discussed regional developments, attacks against Saudi Arabia in call with Saudi counterpart - Turkish diplomatic source.
 - 09/12 03:55 [FirstSquawk] TURKISH FOREIGN MINISTER FIDAN AND SAUDI FOREIGN MINISTER DISCUSSED RECENT ATTACKS TARGETING SAUDI ARABIA.
 - 09/12 04:05 [FirstSquawk] APPLE’S ALWAYS-ON AI FEATURES TEST EAVESDROPPING LAWS: LAWYERS
