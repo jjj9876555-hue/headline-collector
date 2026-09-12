@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 01:32 JST／対象: 09/12 19:32 〜 09/13 01:32 JST（時刻はすべて日本時間）
+生成: 2026-09-13 01:44 JST／対象: 09/12 19:44 〜 09/13 01:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/12 20:23 | 09/13 00:09 | ⚠ 67分（20:43→21:50） |
-| FirstSquawk | 85 | 09/12 19:43 | 09/13 01:31 | 45分（21:53→22:38） |
-| financialjuice | 28 | 09/12 19:55 | 09/13 00:19 | ⚠ 69分（23:09→00:19） |
+| DeItaone | 9 | 09/12 20:23 | 09/13 01:35 | ⚠ 85分（00:09→01:35） |
+| FirstSquawk | 84 | 09/12 19:47 | 09/13 01:31 | 45分（21:53→22:38） |
+| financialjuice | 34 | 09/12 19:55 | 09/13 01:36 | ⚠ 73分（00:19→01:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 126 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 19:43 [FirstSquawk] UAE strongly condemns targeting pipeline in Saudi Arabia with drones coming from Iraq
 - 09/12 19:47 [FirstSquawk] Iranian President: The BRICS Group must confront unilateral sanctions that target peoples and the development path of countries in a practical way
 - 09/12 19:47 [FirstSquawk] Iranian President: BRICS members must counter attempts to make targeting civilian infrastructure acceptable
 - 09/12 19:55 [financialjuice] Russia's Rosatom: plans to boost specialists at Bushehr nuclear power plant in Iran to 150 soon
@@ -144,3 +143,10 @@
 - 09/13 01:09 [FirstSquawk] UAE affirms that there is no military solution to the conflict in Sudan and that the only viable path to achieving lasting peace is an independent, civilian-led transition free from the influence of warring parties.
 - 09/13 01:09 [FirstSquawk] Lebanese News Agency: Heavy and concentrated Israeli shelling on the "Ali Taher" heights in southern Lebanon
 - 09/13 01:31 [FirstSquawk] Lebanese News Agency: The Israeli army carries out a massive explosion operation in "Al-Qanatra" in southern Lebanon
+- 09/13 01:32 [financialjuice] Iranian source to Tasnim News Agency: Strait of Hormuz will remain closed despite the Iran-Oman agreement
+- 09/13 01:33 [financialjuice] Iranian source to Tasnim: Iran and Oman finalize details of new routes for entry and exit from Strait of Hormuz
+- 09/13 01:34 [financialjuice] Iranian source to Tasnim: southern route will close despite U.S. pressure to reopen
+- 09/13 01:35 [DeItaone] IRANIAN SOURCE TO TASNIM NEWS AGENCY: THE STRAIT OF HORMUZ WILL NOT BE REOPENED UNDER THE IRAN-OMAN UNDERSTANDING
+- 09/13 01:35 [financialjuice] Iranian source to Tasnim: Iraq to participate in meeting in Oman on Monday
+- 09/13 01:35 [financialjuice] Iranian source to Tasnim: GCC countries to be updated on outcome of Iran-Oman talks, decisions at Oman meeting
+- 09/13 01:36 [financialjuice] Iranian source to Tasnim: Reopening of Strait of Hormuz hinges entirely on U.S. meeting Iran’s conditions

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 01:32 JST／対象: 09/12 13:32 〜 09/13 01:32 JST（時刻はすべて日本時間）
+生成: 2026-09-13 01:44 JST／対象: 09/12 13:44 〜 09/13 01:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 25 | 09/12 16:41 | 09/13 00:09 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 131 | 09/12 13:34 | 09/13 01:31 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 53 | 09/12 15:10 | 09/13 00:19 | ⚠ 112分（15:43→17:36） |
+| DeItaone | 26 | 09/12 16:41 | 09/13 01:35 | ⚠ 86分（16:41→18:07） |
+| FirstSquawk | 130 | 09/12 13:44 | 09/13 01:31 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 59 | 09/12 15:10 | 09/13 01:36 | ⚠ 112分（15:43→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 206 行（統合前 209 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 212 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 13:34 [FirstSquawk] Singapore, China lead global education rankings while OECD student scores fall sharply.
 - 09/12 13:44 [FirstSquawk] UK Parliament blocks legislation seeking to legalize assisted dying in England and Wales.
 - 09/12 13:55 [FirstSquawk] Mandatory internships drive over 60% of new dentists into Hong Kong’s health department.
 - 09/12 14:01 [FirstSquawk] Xi’s India Visit, Bank Capital Boosts and EU-China Trade in Focus — SCMP China’s President Xi Jinping’s India visit, fresh bank capital injections and the evolving EU-China trade relationship are among the key developments shaping Beijing’s…
@@ -230,3 +229,10 @@
 - 09/13 01:09 [FirstSquawk] UAE affirms that there is no military solution to the conflict in Sudan and that the only viable path to achieving lasting peace is an independent, civilian-led transition free from the influence of warring parties.
 - 09/13 01:09 [FirstSquawk] Lebanese News Agency: Heavy and concentrated Israeli shelling on the "Ali Taher" heights in southern Lebanon
 - 09/13 01:31 [FirstSquawk] Lebanese News Agency: The Israeli army carries out a massive explosion operation in "Al-Qanatra" in southern Lebanon
+- 09/13 01:32 [financialjuice] Iranian source to Tasnim News Agency: Strait of Hormuz will remain closed despite the Iran-Oman agreement
+- 09/13 01:33 [financialjuice] Iranian source to Tasnim: Iran and Oman finalize details of new routes for entry and exit from Strait of Hormuz
+- 09/13 01:34 [financialjuice] Iranian source to Tasnim: southern route will close despite U.S. pressure to reopen
+- 09/13 01:35 [DeItaone] IRANIAN SOURCE TO TASNIM NEWS AGENCY: THE STRAIT OF HORMUZ WILL NOT BE REOPENED UNDER THE IRAN-OMAN UNDERSTANDING
+- 09/13 01:35 [financialjuice] Iranian source to Tasnim: Iraq to participate in meeting in Oman on Monday
+- 09/13 01:35 [financialjuice] Iranian source to Tasnim: GCC countries to be updated on outcome of Iran-Oman talks, decisions at Oman meeting
+- 09/13 01:36 [financialjuice] Iranian source to Tasnim: Reopening of Strait of Hormuz hinges entirely on U.S. meeting Iran’s conditions
