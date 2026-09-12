@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 18:58 JST／対象: 09/12 12:58 〜 09/12 18:58 JST（時刻はすべて日本時間）
+生成: 2026-09-12 19:16 JST／対象: 09/12 13:16 〜 09/12 19:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/12 16:41 | 09/12 18:58 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 46 | 09/12 13:03 | 09/12 18:52 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 27 | 09/12 13:03 | 09/12 18:57 | ⚠ 126分（13:04→15:10） |
+| DeItaone | 17 | 09/12 16:41 | 09/12 19:04 | ⚠ 86分（16:41→18:07） |
+| FirstSquawk | 50 | 09/12 13:17 | 09/12 19:07 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 25 | 09/12 15:10 | 09/12 18:57 | ⚠ 112分（15:43→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 81 行（統合前 82 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 90 行（統合前 92 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 13:03 [financialjuice] US restricts air defense windows for tankers passing through Hormuz - FT
-- 09/12 13:03 [FirstSquawk] Sweden’s Election Front-Runner Faces Growing Pressure as Race Tightens — FT Sweden’s leading candidate is facing a tighter election contest, with the race becoming increasingly competitive ahead of the vote, according to the Financial Times…
-- 09/12 13:04 [FirstSquawk] U.S. Restricts Air Defence Time Slots for Tankers Crossing Strait of Hormuz — FT The U.S. has limited the available air-defence time slots for tankers sailing through the Strait of Hormuz, according to the Financial Times. The move could ad…
-- 09/12 13:04 [financialjuice] High oil prices could prompt ECB to increase rates further: top policymaker Martin Kocher - FT
-- 09/12 13:05 [FirstSquawk] High Oil Prices Could Push ECB Toward Further Rate Hikes, Policymaker Warns — FT ECB policymaker Martin Kocher warned that persistently elevated oil prices could create enough inflationary pressure to force the European Central Bank to rais…
-- 09/12 13:09 [FirstSquawk] Financing expenses and advisers’ fees leave Thames Water facing a £2 billion bill.
-- 09/12 13:16 [FirstSquawk] Seoul moves to guard sensitive chip technology from foreign intelligence threats.
 - 09/12 13:17 [FirstSquawk] GROUND BEEF PRICES HIT RECORD HIGH IN AUGUST, DEALING FRESH BLOW TO TRUMP’S AFFORDABILITY PUSH AHEAD OF MIDTERMS Ground beef averaged $7.158/lb in August, up 0.6% from July and 7.9% YoY, marking a new record high. The move underscores the d…
 - 09/12 13:18 [FirstSquawk] European Investment in Latin American Stocks Hits 15-Year High — FT European investors have sharply increased their exposure to Latin American equities, with investment flows reaching their highest level in 15 years, according to the Financ…
 - 09/12 13:22 [FirstSquawk] Chinese Crypto Investor Identified as Seller of £190 Million London Mansion — FT A Chinese cryptocurrency investor was behind the sale of a £190 million London mansion, according to the Financial Times. The transaction ranks among the city’…
@@ -92,7 +85,7 @@
 - 09/12 18:49 [financialjuice] Trump on protests: "I didn't know there was a protest"
 - 09/12 18:50 [financialjuice] Trump on Saudia pipeline attack: Iran likely behind assault
 - 09/12 18:51 [financialjuice] Trump on Saudi pipeline strike: Houthis avoid conflict with US
-- 09/12 18:51 [financialjuice] Trump on Saudi pipeline attack: We control Hormuz Strait
+- 09/12 18:51 [financialjuice/DeItaone] Trump on Saudi pipeline attack: We control Hormuz Strait
 - 09/12 18:52 [FirstSquawk] TRUMP CLAIMS HE WAS UNAWARE OF THE PROTEST.
 - 09/12 18:52 [FirstSquawk] TRUMP SAYS IRAN IS LIKELY BEHIND SAUDI PIPELINE ATTACK.
 - 09/12 18:52 [FirstSquawk] TRUMP SAYS HOUTHIS ARE NOT INTERESTED IN FIGHTING AGAINST THE U.S. FOLLOWING THE SAUDI PIPELINE ATTACK.
@@ -105,3 +98,19 @@
 - 09/12 18:57 [DeItaone] TRUMP ON IRAN: OIL PRICES WILL TUMBLE WHEN WAR ENDS
 - 09/12 18:57 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: CROWN PRINCE IS A GOOD FRIEND OF MINE, EVERYTHING WILL WORK OUT FINE
 - 09/12 18:58 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: IRAN PROBABLY RESPONSIBLE FOR ATTACK
+- 09/12 18:58 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: HOUTHIS DON'T WANT TO FIGHT WITH US
+- 09/12 18:59 [DeItaone] TRUMP ON IRISH UNIFICATION: IT WILL HAPPEN EVENTUALLY
+- 09/12 19:00 [DeItaone] TRUMP ON MCA TRADE DEAL: CANADA WANTS TO MAKE A DEAL VERY BADLY
+- 09/12 19:00 [DeItaone] TRUMP ON CANADA: DEAL COULD HAPPEN AT THE RIGHT TIME
+- 09/12 19:01 [DeItaone] TRUMP ON CANADA: PROBABLY SEE DEAL FAIRLY SOON
+- 09/12 19:03 [FirstSquawk] TRUMP SAYS UK WILL INFLUENCE IRISH UNIFICATION.
+- 09/12 19:03 [FirstSquawk] TRUMP SUPPORTS IRISH UNIFICATION, CALLING IT A GREAT ACHIEVEMENT FOR ALL. HE BELIEVES IT WILL HAPPEN EVENTUALLY, BUT THE UK WILL HAVE INPUT.
+- 09/12 19:03 [FirstSquawk] TRUMP SAYS CANADA IS VERY EAGER TO REACH A TRADE AGREEMENT.
+- 09/12 19:03 [FirstSquawk] TRUMP SAYS A DEAL WITH CANADA IS POSSIBLE IF TIMING IS RIGHT.
+- 09/12 19:03 [FirstSquawk] TRUMP URGES CANADA TO IMPROVE TREATMENT OF U.S. FARMERS.
+- 09/12 19:03 [FirstSquawk] TRUMP SAYS A DEAL WITH CANADA IS LIKELY COMING SOON.
+- 09/12 19:04 [DeItaone] CHINA'S XI AT BRICS SUMMIT: BRICS COUNTRIES SHOULD FIRMLY STAND ON RIGHT SIDE OF HISTORY-XINHUA
+- 09/12 19:04 [DeItaone] CHINA'S XI, AT BRICS SUMMIT: WARNS AGAINST WAR IN MIDDLE EAST AND GULF REGION- CHINESE STATE MEDIA
+- 09/12 19:07 [FirstSquawk] XI JINPING OF CHINA ANNOUNCED THAT CHINA WILL COLLABORATE WITH BRICS COUNTRIES TO PROMOTE PEACE AND STABILITY IN THE MIDDLE EAST AND GULF REGION.
+- 09/12 19:07 [FirstSquawk] XI JINPING CALLS FOR BRICS TO TAKE LEAD IN ENSURING PEACE AND STABILITY.
+- 09/12 19:07 [FirstSquawk] XI JINPING URGES BRICS NATIONS TO STAY ON HISTORY'S RIGHT SIDE AT BRICS SUMMIT.

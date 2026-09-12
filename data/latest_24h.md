@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 18:58 JST／対象: 09/11 18:58 〜 09/12 18:58 JST（時刻はすべて日本時間）
+生成: 2026-09-12 19:16 JST／対象: 09/11 19:16 〜 09/12 19:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 09/11 19:02 | 09/12 18:58 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 222 | 09/11 19:03 | 09/12 18:52 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 176 | 09/11 19:03 | 09/12 18:57 | ⚠ 170分（10:12→13:03） |
+| DeItaone | 46 | 09/11 19:41 | 09/12 19:04 | ⚠ 751分（04:10→16:41） |
+| FirstSquawk | 229 | 09/11 19:25 | 09/12 19:07 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 174 | 09/11 19:23 | 09/12 18:57 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 436 行（統合前 440 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 446 行（統合前 451 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 19:02 [DeItaone] U.S., MEXICO RACE FOR TRADE DEAL BEFORE MIDTERMS The U.S. and Mexico are pushing for an interim bilateral trade deal before the November elections, Reuters reports, after negotiations with Canada collapsed. Mexico is seeking relief from 50%…
-- 09/11 19:03 [financialjuice] No official confirmation from Saudi Arabia on incident near East West oil pipeline.
-- 09/11 19:03 [DeItaone] SATELLITE IMAGERY SHOWS SMOKE ON THURSDAY IN VICINITY OF SAUDI ARABIA'S EAST WEST OIL PIPELINE
-- 09/11 19:03 [FirstSquawk] SATELLITE IMAGES CAPTURED SMOKE NEAR SAUDI ARABIA'S EAST WEST OIL PIPELINE ON THURSDAY.
-- 09/11 19:03 [FirstSquawk] NO OFFICIAL WORD FROM SAUDI ARABIA ON INCIDENT CLOSE TO EAST WEST OIL PIPELINE.
-- 09/11 19:15 [financialjuice] SNB's Chairman Schlegel: Swiss debt break policy has been highly successful.
 - 09/11 19:23 [financialjuice] CentCom commander traveled to Saudi Arabia on Thursday - Axios
 - 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER VISITED SAUDI ARABIA ON THURSDAY.
 - 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER TALKED ABOUT HOUTHIS MAKING PROGRESS IN YEMEN, ACCORDING TO AXIOS.
@@ -447,7 +441,7 @@
 - 09/12 18:49 [financialjuice] Trump on protests: "I didn't know there was a protest"
 - 09/12 18:50 [financialjuice] Trump on Saudia pipeline attack: Iran likely behind assault
 - 09/12 18:51 [financialjuice] Trump on Saudi pipeline strike: Houthis avoid conflict with US
-- 09/12 18:51 [financialjuice] Trump on Saudi pipeline attack: We control Hormuz Strait
+- 09/12 18:51 [financialjuice/DeItaone] Trump on Saudi pipeline attack: We control Hormuz Strait
 - 09/12 18:52 [FirstSquawk] TRUMP CLAIMS HE WAS UNAWARE OF THE PROTEST.
 - 09/12 18:52 [FirstSquawk] TRUMP SAYS IRAN IS LIKELY BEHIND SAUDI PIPELINE ATTACK.
 - 09/12 18:52 [FirstSquawk] TRUMP SAYS HOUTHIS ARE NOT INTERESTED IN FIGHTING AGAINST THE U.S. FOLLOWING THE SAUDI PIPELINE ATTACK.
@@ -460,3 +454,19 @@
 - 09/12 18:57 [DeItaone] TRUMP ON IRAN: OIL PRICES WILL TUMBLE WHEN WAR ENDS
 - 09/12 18:57 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: CROWN PRINCE IS A GOOD FRIEND OF MINE, EVERYTHING WILL WORK OUT FINE
 - 09/12 18:58 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: IRAN PROBABLY RESPONSIBLE FOR ATTACK
+- 09/12 18:58 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: HOUTHIS DON'T WANT TO FIGHT WITH US
+- 09/12 18:59 [DeItaone] TRUMP ON IRISH UNIFICATION: IT WILL HAPPEN EVENTUALLY
+- 09/12 19:00 [DeItaone] TRUMP ON MCA TRADE DEAL: CANADA WANTS TO MAKE A DEAL VERY BADLY
+- 09/12 19:00 [DeItaone] TRUMP ON CANADA: DEAL COULD HAPPEN AT THE RIGHT TIME
+- 09/12 19:01 [DeItaone] TRUMP ON CANADA: PROBABLY SEE DEAL FAIRLY SOON
+- 09/12 19:03 [FirstSquawk] TRUMP SAYS UK WILL INFLUENCE IRISH UNIFICATION.
+- 09/12 19:03 [FirstSquawk] TRUMP SUPPORTS IRISH UNIFICATION, CALLING IT A GREAT ACHIEVEMENT FOR ALL. HE BELIEVES IT WILL HAPPEN EVENTUALLY, BUT THE UK WILL HAVE INPUT.
+- 09/12 19:03 [FirstSquawk] TRUMP SAYS CANADA IS VERY EAGER TO REACH A TRADE AGREEMENT.
+- 09/12 19:03 [FirstSquawk] TRUMP SAYS A DEAL WITH CANADA IS POSSIBLE IF TIMING IS RIGHT.
+- 09/12 19:03 [FirstSquawk] TRUMP URGES CANADA TO IMPROVE TREATMENT OF U.S. FARMERS.
+- 09/12 19:03 [FirstSquawk] TRUMP SAYS A DEAL WITH CANADA IS LIKELY COMING SOON.
+- 09/12 19:04 [DeItaone] CHINA'S XI AT BRICS SUMMIT: BRICS COUNTRIES SHOULD FIRMLY STAND ON RIGHT SIDE OF HISTORY-XINHUA
+- 09/12 19:04 [DeItaone] CHINA'S XI, AT BRICS SUMMIT: WARNS AGAINST WAR IN MIDDLE EAST AND GULF REGION- CHINESE STATE MEDIA
+- 09/12 19:07 [FirstSquawk] XI JINPING OF CHINA ANNOUNCED THAT CHINA WILL COLLABORATE WITH BRICS COUNTRIES TO PROMOTE PEACE AND STABILITY IN THE MIDDLE EAST AND GULF REGION.
+- 09/12 19:07 [FirstSquawk] XI JINPING CALLS FOR BRICS TO TAKE LEAD IN ENSURING PEACE AND STABILITY.
+- 09/12 19:07 [FirstSquawk] XI JINPING URGES BRICS NATIONS TO STAY ON HISTORY'S RIGHT SIDE AT BRICS SUMMIT.
