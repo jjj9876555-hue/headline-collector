@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 13:33 JST／対象: 09/11 13:33 〜 09/12 13:33 JST（時刻はすべて日本時間）
+生成: 2026-09-12 13:46 JST／対象: 09/11 13:46 〜 09/12 13:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/11 15:05 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 288 | 09/11 13:33 | 09/12 13:23 | ⚠ 241分（05:01→09:02） |
+| FirstSquawk | 288 | 09/11 13:49 | 09/12 13:44 | ⚠ 241分（05:01→09:02） |
 | financialjuice | 180 | 09/11 15:34 | 09/12 13:04 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 13:33 [FirstSquawk] New Zealand currency strengthens 0.53% to $0.5829.
-- 09/11 13:44 [FirstSquawk] JPMorgan trims its RH price target by $22 to $190.
 - 09/11 13:49 [FirstSquawk] Australia’s proposed data-center rules could increase execution risks, according to Fitch Ratings.
 - 09/11 13:50 [FirstSquawk] South Korean President Lee set to hold Central Asia summit on September 16, media says.
 - 09/11 14:06 [FirstSquawk] YEN’S NEAR-TERM OUTLOOK DEPENDS ON BOJ SEPTEMBER GUIDANCE-WSJ
@@ -535,3 +533,5 @@
 - 09/12 13:18 [FirstSquawk] European Investment in Latin American Stocks Hits 15-Year High — FT European investors have sharply increased their exposure to Latin American equities, with investment flows reaching their highest level in 15 years, according to the Financ…
 - 09/12 13:22 [FirstSquawk] Chinese Crypto Investor Identified as Seller of £190 Million London Mansion — FT A Chinese cryptocurrency investor was behind the sale of a £190 million London mansion, according to the Financial Times. The transaction ranks among the city’…
 - 09/12 13:23 [FirstSquawk] BRICS nations look to connect expanding payment networks for cross-border transactions.
+- 09/12 13:34 [FirstSquawk] Singapore, China lead global education rankings while OECD student scores fall sharply.
+- 09/12 13:44 [FirstSquawk] UK Parliament blocks legislation seeking to legalize assisted dying in England and Wales.

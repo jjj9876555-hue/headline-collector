@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 13:33 JST／対象: 09/12 07:33 〜 09/12 13:33 JST（時刻はすべて日本時間）
+生成: 2026-09-12 13:46 JST／対象: 09/12 07:46 〜 09/12 13:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 97 | 09/12 09:02 | 09/12 13:23 | 13分（11:26→11:40） |
+| FirstSquawk | 99 | 09/12 09:02 | 09/12 13:44 | 13分（11:26→11:40） |
 | financialjuice | 16 | 09/12 07:48 | 09/12 13:04 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 113 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 115 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -137,3 +137,5 @@
 - 09/12 13:18 [FirstSquawk] European Investment in Latin American Stocks Hits 15-Year High — FT European investors have sharply increased their exposure to Latin American equities, with investment flows reaching their highest level in 15 years, according to the Financ…
 - 09/12 13:22 [FirstSquawk] Chinese Crypto Investor Identified as Seller of £190 Million London Mansion — FT A Chinese cryptocurrency investor was behind the sale of a £190 million London mansion, according to the Financial Times. The transaction ranks among the city’…
 - 09/12 13:23 [FirstSquawk] BRICS nations look to connect expanding payment networks for cross-border transactions.
+- 09/12 13:34 [FirstSquawk] Singapore, China lead global education rankings while OECD student scores fall sharply.
+- 09/12 13:44 [FirstSquawk] UK Parliament blocks legislation seeking to legalize assisted dying in England and Wales.
