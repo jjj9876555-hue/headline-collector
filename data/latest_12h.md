@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 06:16 JST／対象: 09/12 18:16 〜 09/13 06:16 JST（時刻はすべて日本時間）
+生成: 2026-09-13 06:31 JST／対象: 09/12 18:31 〜 09/13 06:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/12 18:22 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
+| DeItaone | 22 | 09/12 18:57 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
 | FirstSquawk | 124 | 09/12 18:38 | 09/13 03:29 | 45分（21:53→22:38） |
 | financialjuice | 61 | 09/12 18:44 | 09/13 05:05 | ⚠ 73分（00:19→01:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 206 行（統合前 208 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 205 行（統合前 207 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 18:22 [DeItaone] BANKS RAISE CORE PCE FORECASTS AFTER CPI Wall Street economists have raised their August core PCE estimates following the latest CPI data, with forecasts now clustering in the high 0.20% range and several banks seeing 0.30% or higher. *Barc…
 - 09/12 18:38 [FirstSquawk] TRUMP ON IRAN: EVERYTHING WILL WORK OUT FINE
 - 09/12 18:42 [FirstSquawk] FORD IS RECALLING 223,472 VEHICLES IN THE U.S., ACCORDING TO NHTSA.
 - 09/12 18:42 [FirstSquawk] FORD IS RECALLING U.S. CARS DUE TO A DETACHED FUEL TANK THAT MIGHT CREATE ROAD HAZARDS, HIKING THE CRASH RISK. A FUEL LEAK COULD ALSO RESULT IN ENGINE FAILURE OR FIRE RISKS. - NHTSA
