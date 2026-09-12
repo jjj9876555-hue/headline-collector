@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 22:42 JST／対象: 09/11 22:42 〜 09/12 22:42 JST（時刻はすべて日本時間）
+生成: 2026-09-12 22:52 JST／対象: 09/11 22:52 〜 09/12 22:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 09/11 22:49 | 09/12 21:56 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 254 | 09/11 22:48 | 09/12 22:39 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 141 | 09/11 22:49 | 09/12 21:56 | ⚠ 170分（10:12→13:03） |
+| DeItaone | 27 | 09/11 22:55 | 09/12 22:49 | ⚠ 751分（04:10→16:41） |
+| FirstSquawk | 251 | 09/11 22:53 | 09/12 22:39 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 144 | 09/11 22:54 | 09/12 22:48 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 420 行（統合前 424 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,15 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 22:48 [FirstSquawk] HASSETT STRESSES IMPORTANCE OF FEDERAL RESERVE'S INDEPENDENCE AND EXPRESSES HIGH RESPECT FOR WILLIAM WARSH.
-- 09/11 22:48 [FirstSquawk] HASSETT STATES INFLATION HAS BEEN SLOWING DOWN IN THE LAST 3 MONTHS.
-- 09/11 22:49 [financialjuice] WH Sr. Adviser Hassett: Inflation is clearly decelerating over the past 3 months.
-- 09/11 22:49 [FirstSquawk] HASSETT SAYS TRUMP WILL HAVE A VIEW IF THE FED INCREASES RATES.
-- 09/11 22:49 [financialjuice] WH Sr. Adviser Hassett: If the Fed hikes, Trump will have an opinion, I'm sure.
-- 09/11 22:49 [DeItaone] S&P 500’S 8,000 MILESTONE REMAINS ELUSIVE The S&P 500 is still 5.4% away from 8,000, as rising bond yields, sticky inflation and a hawkish Fed outlook stall the rally. CFRA still targets 8,050 by year-end, but warns a 5%-10% correction woul…
-- 09/11 22:50 [financialjuice] WH Sr. Adviser Hassett speaks on Bloomberg Business News Live
-- 09/11 22:51 [financialjuice] WH Sr. Adviser Hassett: Reconciliation is one path for $5,000 trump payments; can do $5,000 payments in a fiscally responsible way.
-- 09/11 22:51 [financialjuice] WH Sr. Adviser Hassett: Trump is very serious about the $5,000 proposal.
 - 09/11 22:53 [FirstSquawk] HASSETT SAYS RECONCILIATION CAN ENABLE $5,000 PAYMENTS UNDER TRUMP, MAINTAINING FISCAL RESPONSIBILITY.
 - 09/11 22:53 [FirstSquawk] SPOT GOLD RISES ALMOST 2% TO $4,400.09 PER OUNCE.
 - 09/11 22:53 [FirstSquawk] HASSETT SAYS TRUMP IS COMMITTED TO THE $5,000 PLAN.
@@ -444,3 +435,12 @@
 - 09/12 22:38 [FirstSquawk] Arab League Secretary-General Condemns Attacks on Oil Facilities in Saudi Arabia
 - 09/12 22:38 [FirstSquawk] The Secretary-General of the League of Arab States affirms the League's categorical rejection of the use of the territory of any Arab country as a starting point for launching attacks on another Arab country or undermining its security and …
 - 09/12 22:39 [FirstSquawk] Kremlin: We are concerned about the situation in the Bab al-Mandab Strait
+- 09/12 22:44 [financialjuice] India foreign ministry: Modi tells China's Xi peace, stability in border areas vital for ongoing growth in bilateral ties
+- 09/12 22:44 [financialjuice] India foreign ministry: Modi, Xi express commitment to fair, reasonable, mutually acceptable boundary resolution
+- 09/12 22:45 [financialjuice] India’s Modi in meeting with China’s Xi underlined need for both sides to observe existing agreements and understandings on border issues: India foreign ministry
+- 09/12 22:45 [financialjuice] India foreign ministry: Modi, Xi reaffirm both nations should adopt strategic, long-term view of ties
+- 09/12 22:45 [financialjuice] India foreign ministry: Modi, Xi agree differences must not turn into disputes
+- 09/12 22:46 [financialjuice] India's Modi, China's Xi emphasize need to boost business ties and mobility between countries: India foreign ministry
+- 09/12 22:46 [financialjuice] Modi, Xi highlight need to address concerns including trade imbalance, supply chain issues, and predictable market access: India foreign minister
+- 09/12 22:48 [financialjuice] Iraq's Al-Tayyib border area with Iran closed after drone launch sites found: two Iraqi military sources
+- 09/12 22:49 [DeItaone] IRAN-GULF TALKS UNLIKELY TO PRODUCE HORMUZ DEAL Monday’s meeting between Iran and Gulf states in Oman is not expected to produce a signed agreement on the Strait of Hormuz, a senior Iranian official told Reuters. Tehran still wants the righ…

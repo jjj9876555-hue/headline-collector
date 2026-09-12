@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 22:42 JST／対象: 09/12 16:42 〜 09/12 22:42 JST（時刻はすべて日本時間）
+生成: 2026-09-12 22:52 JST／対象: 09/12 16:52 〜 09/12 22:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/12 18:07 | 09/12 21:56 | ⚠ 78分（19:04→20:23） |
+| DeItaone | 22 | 09/12 18:07 | 09/12 22:49 | ⚠ 78分（19:04→20:23） |
 | FirstSquawk | 87 | 09/12 17:55 | 09/12 22:39 | 45分（21:53→22:38） |
-| financialjuice | 25 | 09/12 17:36 | 09/12 21:56 | ⚠ 57分（18:57→19:55） |
+| financialjuice | 33 | 09/12 17:36 | 09/12 22:48 | ⚠ 57分（18:57→19:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 131 行（統合前 133 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 140 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -155,3 +155,12 @@
 - 09/12 22:38 [FirstSquawk] Arab League Secretary-General Condemns Attacks on Oil Facilities in Saudi Arabia
 - 09/12 22:38 [FirstSquawk] The Secretary-General of the League of Arab States affirms the League's categorical rejection of the use of the territory of any Arab country as a starting point for launching attacks on another Arab country or undermining its security and …
 - 09/12 22:39 [FirstSquawk] Kremlin: We are concerned about the situation in the Bab al-Mandab Strait
+- 09/12 22:44 [financialjuice] India foreign ministry: Modi tells China's Xi peace, stability in border areas vital for ongoing growth in bilateral ties
+- 09/12 22:44 [financialjuice] India foreign ministry: Modi, Xi express commitment to fair, reasonable, mutually acceptable boundary resolution
+- 09/12 22:45 [financialjuice] India’s Modi in meeting with China’s Xi underlined need for both sides to observe existing agreements and understandings on border issues: India foreign ministry
+- 09/12 22:45 [financialjuice] India foreign ministry: Modi, Xi reaffirm both nations should adopt strategic, long-term view of ties
+- 09/12 22:45 [financialjuice] India foreign ministry: Modi, Xi agree differences must not turn into disputes
+- 09/12 22:46 [financialjuice] India's Modi, China's Xi emphasize need to boost business ties and mobility between countries: India foreign ministry
+- 09/12 22:46 [financialjuice] Modi, Xi highlight need to address concerns including trade imbalance, supply chain issues, and predictable market access: India foreign minister
+- 09/12 22:48 [financialjuice] Iraq's Al-Tayyib border area with Iran closed after drone launch sites found: two Iraqi military sources
+- 09/12 22:49 [DeItaone] IRAN-GULF TALKS UNLIKELY TO PRODUCE HORMUZ DEAL Monday’s meeting between Iran and Gulf states in Oman is not expected to produce a signed agreement on the Strait of Hormuz, a senior Iranian official told Reuters. Tehran still wants the righ…
