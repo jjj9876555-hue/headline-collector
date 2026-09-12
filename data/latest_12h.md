@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 11:33 JST／対象: 09/11 23:33 〜 09/12 11:33 JST（時刻はすべて日本時間）
+生成: 2026-09-12 11:46 JST／対象: 09/11 23:46 〜 09/12 11:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
-| FirstSquawk | 125 | 09/11 23:41 | 09/12 11:26 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 84 | 09/11 23:41 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
+| FirstSquawk | 126 | 09/11 23:55 | 09/12 11:46 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 83 | 09/12 00:01 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 210 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 23:41 [financialjuice] Kremlin: Russia is open to talks, seeks three-way meeting - IFX.
-- 09/11 23:41 [FirstSquawk] KREMLIN: RUSSIA OPEN TO TALKS, SEEKS THREE-WAY MEETING: IFX
 - 09/11 23:55 [FirstSquawk] INDIA PM MODI MET WITH PEZESHKIAN AND EMPHASIZED THE IMPORTANCE OF PERSISTENT EFFORTS FOR LASTING PEACE AND STABILITY IN THE REGION, SAID INDIA'S FOREIGN MINISTRY.
 - 09/11 23:55 [FirstSquawk] INDIA'S PM MODI MET WITH IRAN'S PEZESHKIAN, EMPHASIZING THE IMPORTANCE OF SAFEGUARDING NAVIGATION AND TRADE, AS WELL AS THE SAFETY AND WELL-BEING OF SAILORS.
 - 09/12 00:01 [financialjuice] QatarEnergy Seeks Multi-Year LNG Supply Deals as Ras Laffan Repairs Seen Taking 3-5 Years
@@ -234,3 +232,5 @@
 - 09/12 11:22 [FirstSquawk] €500K COCAINE HIDDEN INSIDE LOLLIPOPS SEIZED AT DUBLIN AIRPORT About 5kg of cocaine was discovered concealed in bags of lollipops in a passenger’s luggage after a flight from Brazil. A man in his 60s was arrested and charged.
 - 09/12 11:26 [FirstSquawk] US REAL YIELDS SURGE TO 18-YEAR HIGH — 10-YEAR REAL YIELD HITS ~2.5%, HIGHEST SINCE 2008 MARKET WARNING: REAL YIELDS SPIKE TO LEVELS NOT SEEN SINCE GLOBAL FINANCIAL CRISIS
 - 09/12 11:26 [FirstSquawk] AI DEBT BOMBSHELL: HYPERSCALERS FLOOD CREDIT MARKETS WITH $219 BILLION OF DEBT — BOND SUPPLY NOW DISTORTING SPREADS BIG AI CREDIT WARNING: HYPERSCALER DEBT ISSUANCE MORE THAN DOUBLES — $400 BILLION COULD HIT MARKETS NEXT YEAR
+- 09/12 11:40 [FirstSquawk] More Than 30% of Unmarried People in Japan Say They Do Not Want Children — Kyodo A survey found that over 30% of unmarried people in Japan do not want to have children, highlighting shifting attitudes toward marriage and parenthood in the c…
+- 09/12 11:46 [FirstSquawk] U.S. legislator seeks a policy rethink on the North Korea travel ban Yonhap reports

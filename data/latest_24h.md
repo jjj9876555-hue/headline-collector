@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 11:33 JST／対象: 09/11 11:33 〜 09/12 11:33 JST（時刻はすべて日本時間）
+生成: 2026-09-12 11:46 JST／対象: 09/11 11:46 〜 09/12 11:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/11 15:05 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 295 | 09/11 11:39 | 09/12 11:26 | ⚠ 241分（05:01→09:02） |
+| FirstSquawk | 293 | 09/11 11:53 | 09/12 11:46 | ⚠ 241分（05:01→09:02） |
 | financialjuice | 178 | 09/11 15:34 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 516 行（統合前 522 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 514 行（統合前 520 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 11:39 [FirstSquawk] China’s benchmark Shanghai Composite drops 2%.
-- 09/11 11:39 [FirstSquawk] Saudi Red Sea oil exports come under threat as Houthis advance along Yemen’s coastline.
-- 09/11 11:40 [FirstSquawk] Benchmark coking coal contract in China retreats more than 3%.
-- 09/11 11:45 [FirstSquawk] Fewer than 10 commodity vessels cross the Strait of Hormuz on Thursday, data shows, well below the 10-day average.
 - 09/11 11:53 [FirstSquawk] JPMorgan lowers AB Foods’ target price to 1,645p from 1,700p.
 - 09/11 11:54 [FirstSquawk] Nikkei reports Astemo will invest $379 million in Kentucky to increase electric motor production.
 - 09/11 12:01 [FirstSquawk] Russia’s Volgograd region reports damage to an industrial facility from missile debris.
@@ -540,3 +536,5 @@
 - 09/12 11:22 [FirstSquawk] €500K COCAINE HIDDEN INSIDE LOLLIPOPS SEIZED AT DUBLIN AIRPORT About 5kg of cocaine was discovered concealed in bags of lollipops in a passenger’s luggage after a flight from Brazil. A man in his 60s was arrested and charged.
 - 09/12 11:26 [FirstSquawk] US REAL YIELDS SURGE TO 18-YEAR HIGH — 10-YEAR REAL YIELD HITS ~2.5%, HIGHEST SINCE 2008 MARKET WARNING: REAL YIELDS SPIKE TO LEVELS NOT SEEN SINCE GLOBAL FINANCIAL CRISIS
 - 09/12 11:26 [FirstSquawk] AI DEBT BOMBSHELL: HYPERSCALERS FLOOD CREDIT MARKETS WITH $219 BILLION OF DEBT — BOND SUPPLY NOW DISTORTING SPREADS BIG AI CREDIT WARNING: HYPERSCALER DEBT ISSUANCE MORE THAN DOUBLES — $400 BILLION COULD HIT MARKETS NEXT YEAR
+- 09/12 11:40 [FirstSquawk] More Than 30% of Unmarried People in Japan Say They Do Not Want Children — Kyodo A survey found that over 30% of unmarried people in Japan do not want to have children, highlighting shifting attitudes toward marriage and parenthood in the c…
+- 09/12 11:46 [FirstSquawk] U.S. legislator seeks a policy rethink on the North Korea travel ban Yonhap reports
