@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 00:42 JST／対象: 09/12 12:42 〜 09/13 00:42 JST（時刻はすべて日本時間）
+生成: 2026-09-13 00:53 JST／対象: 09/12 12:53 〜 09/13 00:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/12 16:41 | 09/13 00:09 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 136 | 09/12 12:46 | 09/13 00:33 | ⚠ 114分（16:00→17:55） |
+| FirstSquawk | 135 | 09/12 12:56 | 09/13 00:33 | ⚠ 114分（16:00→17:55） |
 | financialjuice | 55 | 09/12 13:03 | 09/13 00:19 | ⚠ 126分（13:04→15:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 214 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 213 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 12:46 [FirstSquawk] Iraqi commander ousted as probe finds recent attacks on Saudi Arabia were launched from Iraq.
 - 09/12 12:56 [FirstSquawk] Chinese AI companies decline meetings with US delegation amid sanctions fears, commission says.
 - 09/12 13:03 [financialjuice] US restricts air defense windows for tankers passing through Hormuz - FT
 - 09/12 13:03 [FirstSquawk] Sweden’s Election Front-Runner Faces Growing Pressure as Race Tightens — FT Sweden’s leading candidate is facing a tighter election contest, with the race becoming increasingly competitive ahead of the vote, according to the Financial Times…
