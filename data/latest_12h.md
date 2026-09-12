@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 23:05 JST／対象: 09/12 11:05 〜 09/12 23:05 JST（時刻はすべて日本時間）
+生成: 2026-09-12 23:24 JST／対象: 09/12 11:24 〜 09/12 23:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/12 16:41 | 09/12 23:04 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 127 | 09/12 11:10 | 09/12 22:39 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 48 | 09/12 13:03 | 09/12 23:05 | ⚠ 126分（13:04→15:10） |
+| FirstSquawk | 132 | 09/12 11:26 | 09/12 23:21 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 53 | 09/12 13:03 | 09/12 23:09 | ⚠ 126分（13:04→15:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 197 行（統合前 199 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 207 行（統合前 209 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 11:10 [FirstSquawk] Riyadh says it retains the option to take any measures needed to protect its territory, security and residents.
-- 09/12 11:11 [FirstSquawk] S&P: Saudi Arabia’s Energy Infrastructure Helps Cushion Middle East Conflict Impact S&P says Saudi Arabia’s diversified energy export network, combined with elevated oil prices, is helping the kingdom withstand economic pressures stemming f…
-- 09/12 11:13 [FirstSquawk] US TAX BRACKETS SET TO RISE 3.2% IN 2027 — AMERICANS CAN EARN MORE BEFORE HIGHER TAX RATES KICK IN
-- 09/12 11:15 [FirstSquawk] Ralph Lauren approves a quarterly dividend payment of $1 a share.
-- 09/12 11:21 [FirstSquawk] Measles cases in Pennsylvania reach 676 across 37 counties in 2026.
-- 09/12 11:22 [FirstSquawk] €500K COCAINE HIDDEN INSIDE LOLLIPOPS SEIZED AT DUBLIN AIRPORT About 5kg of cocaine was discovered concealed in bags of lollipops in a passenger’s luggage after a flight from Brazil. A man in his 60s was arrested and charged.
 - 09/12 11:26 [FirstSquawk] US REAL YIELDS SURGE TO 18-YEAR HIGH — 10-YEAR REAL YIELD HITS ~2.5%, HIGHEST SINCE 2008 MARKET WARNING: REAL YIELDS SPIKE TO LEVELS NOT SEEN SINCE GLOBAL FINANCIAL CRISIS
 - 09/12 11:26 [FirstSquawk] AI DEBT BOMBSHELL: HYPERSCALERS FLOOD CREDIT MARKETS WITH $219 BILLION OF DEBT — BOND SUPPLY NOW DISTORTING SPREADS BIG AI CREDIT WARNING: HYPERSCALER DEBT ISSUANCE MORE THAN DOUBLES — $400 BILLION COULD HIT MARKETS NEXT YEAR
 - 09/12 11:40 [FirstSquawk] More Than 30% of Unmarried People in Japan Say They Do Not Want Children — Kyodo A survey found that over 30% of unmarried people in Japan do not want to have children, highlighting shifting attitudes toward marriage and parenthood in the c…
@@ -221,3 +215,19 @@
 - 09/12 23:04 [financialjuice] Anthropic’s Dario Amodei: We must slow the pace of improving AI model capabilities
 - 09/12 23:04 [DeItaone] ANTHROPIC'S DARIO AMODEI: WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE CAPABILITIES OF AI MODELS
 - 09/12 23:05 [financialjuice] Anthropic's Dario Amodei: proposing a three-step strategy to pace the frontier
+- 09/12 23:06 [financialjuice] Anthropic’s Dario Amodei: proposing developing AI at a measured pace to ensure safety
+- 09/12 23:07 [financialjuice] Anthropic's Amodei: pacing means not halting model training or technical progress, ensuring companies take adequate time to align and safeguard models
+- 09/12 23:08 [financialjuice] Anthropic's Amodei proposes each leading AI company provide continuous, employee-level access to embedded third-party evaluators
+- 09/12 23:09 [financialjuice] Anthropic's Amodei: US and other democratic governments should try to coordinate with others
+- 09/12 23:09 [financialjuice] Anthropic’s Amodei: Proposes frontier AI firms in democratic nations coordinate to set joint safety standards
+- 09/12 23:19 [FirstSquawk] INDIA AND CHINA REPORT POSITIVE ADVANCEMENTS IN THEIR RELATIONSHIP.
+- 09/12 23:19 [FirstSquawk] INDIA ISSUES JOINT STATEMENT FOLLOWING MEETING BETWEEN XI AND MODI.
+- 09/12 23:19 [FirstSquawk] XI AND MODI AGREE TO FIND A BORDER SOLUTION THAT BOTH SIDES ACCEPT.
+- 09/12 23:20 [FirstSquawk] PEACE BETWEEN INDIA AND CHINA AT THE BORDER IS CRUCIAL FOR DEVELOPMENT.
+- 09/12 23:20 [FirstSquawk] XI AND MODI HAVE DECIDED TO ADDRESS EACH OTHER'S TRADE CONCERNS.
+- 09/12 23:20 [FirstSquawk] XI AND MODI DISCUSS SOLUTIONS FOR SUPPLY CHAIN ISSUES.
+- 09/12 23:20 [FirstSquawk] XI AND MODI PLAN TO CREATE STABLE MARKET ACCESS.
+- 09/12 23:20 [FirstSquawk] IRAN WILL UPDATE GULF COUNTRIES ON THE HORMUZ SHIPPING DEAL THIS MONDAY.
+- 09/12 23:21 [FirstSquawk] MODI STRESSES THE IMPORTANCE OF BOTH SIDES FOLLOWING CURRENT BORDER AGREEMENTS.
+- 09/12 23:21 [FirstSquawk] ANTHROPIC'S AMODEI PUBLISHES NEW LETTER REGARDING AI SAFETY.
+- 09/12 23:21 [FirstSquawk] ANTHROPIC CEO STRESSED THE IMPORTANCE OF SLOWING DOWN AI MODEL ADVANCEMENTS.

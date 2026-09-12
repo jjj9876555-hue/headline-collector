@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 23:05 JST／対象: 09/11 23:05 〜 09/12 23:05 JST（時刻はすべて日本時間）
+生成: 2026-09-12 23:24 JST／対象: 09/11 23:24 〜 09/12 23:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/12 04:10 | 09/12 23:04 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 245 | 09/11 23:23 | 09/12 22:39 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 137 | 09/11 23:18 | 09/12 23:05 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 255 | 09/11 23:41 | 09/12 23:21 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 137 | 09/11 23:41 | 09/12 23:09 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 405 行（統合前 409 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 415 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 23:18 [financialjuice] Fear and Greed Index: 36/100 = Fear
-- 09/11 23:18 [financialjuice] ECB's Lagarde: We are going to proceed meeting by meeting, using data to inform our coming decisions.
-- 09/11 23:19 [financialjuice] Crypto Fear and Greed Index: 56/100 = Greed
-- 09/11 23:19 [financialjuice] ❗ TD changes Fed call to cuts from September vs hold previously [Corrected by the wires at 10:13 ET]
-- 09/11 23:20 [financialjuice] TD changes Fed call to hike from September vs hold previously
-- 09/11 23:23 [FirstSquawk] US PRESIDENT TRUMP: IRAN WILL NEVER POSSESS A NUCLEAR WEAPON
 - 09/11 23:41 [financialjuice] Kremlin: Russia is open to talks, seeks three-way meeting - IFX.
 - 09/11 23:41 [FirstSquawk] KREMLIN: RUSSIA OPEN TO TALKS, SEEKS THREE-WAY MEETING: IFX
 - 09/11 23:55 [FirstSquawk] INDIA PM MODI MET WITH PEZESHKIAN AND EMPHASIZED THE IMPORTANCE OF PERSISTENT EFFORTS FOR LASTING PEACE AND STABILITY IN THE REGION, SAID INDIA'S FOREIGN MINISTRY.
@@ -429,3 +423,19 @@
 - 09/12 23:04 [financialjuice] Anthropic’s Dario Amodei: We must slow the pace of improving AI model capabilities
 - 09/12 23:04 [DeItaone] ANTHROPIC'S DARIO AMODEI: WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE CAPABILITIES OF AI MODELS
 - 09/12 23:05 [financialjuice] Anthropic's Dario Amodei: proposing a three-step strategy to pace the frontier
+- 09/12 23:06 [financialjuice] Anthropic’s Dario Amodei: proposing developing AI at a measured pace to ensure safety
+- 09/12 23:07 [financialjuice] Anthropic's Amodei: pacing means not halting model training or technical progress, ensuring companies take adequate time to align and safeguard models
+- 09/12 23:08 [financialjuice] Anthropic's Amodei proposes each leading AI company provide continuous, employee-level access to embedded third-party evaluators
+- 09/12 23:09 [financialjuice] Anthropic's Amodei: US and other democratic governments should try to coordinate with others
+- 09/12 23:09 [financialjuice] Anthropic’s Amodei: Proposes frontier AI firms in democratic nations coordinate to set joint safety standards
+- 09/12 23:19 [FirstSquawk] INDIA AND CHINA REPORT POSITIVE ADVANCEMENTS IN THEIR RELATIONSHIP.
+- 09/12 23:19 [FirstSquawk] INDIA ISSUES JOINT STATEMENT FOLLOWING MEETING BETWEEN XI AND MODI.
+- 09/12 23:19 [FirstSquawk] XI AND MODI AGREE TO FIND A BORDER SOLUTION THAT BOTH SIDES ACCEPT.
+- 09/12 23:20 [FirstSquawk] PEACE BETWEEN INDIA AND CHINA AT THE BORDER IS CRUCIAL FOR DEVELOPMENT.
+- 09/12 23:20 [FirstSquawk] XI AND MODI HAVE DECIDED TO ADDRESS EACH OTHER'S TRADE CONCERNS.
+- 09/12 23:20 [FirstSquawk] XI AND MODI DISCUSS SOLUTIONS FOR SUPPLY CHAIN ISSUES.
+- 09/12 23:20 [FirstSquawk] XI AND MODI PLAN TO CREATE STABLE MARKET ACCESS.
+- 09/12 23:20 [FirstSquawk] IRAN WILL UPDATE GULF COUNTRIES ON THE HORMUZ SHIPPING DEAL THIS MONDAY.
+- 09/12 23:21 [FirstSquawk] MODI STRESSES THE IMPORTANCE OF BOTH SIDES FOLLOWING CURRENT BORDER AGREEMENTS.
+- 09/12 23:21 [FirstSquawk] ANTHROPIC'S AMODEI PUBLISHES NEW LETTER REGARDING AI SAFETY.
+- 09/12 23:21 [FirstSquawk] ANTHROPIC CEO STRESSED THE IMPORTANCE OF SLOWING DOWN AI MODEL ADVANCEMENTS.

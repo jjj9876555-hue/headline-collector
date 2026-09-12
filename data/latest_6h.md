@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 23:05 JST／対象: 09/12 17:05 〜 09/12 23:05 JST（時刻はすべて日本時間）
+生成: 2026-09-12 23:24 JST／対象: 09/12 17:24 〜 09/12 23:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/12 18:07 | 09/12 23:04 | ⚠ 78分（19:04→20:23） |
-| FirstSquawk | 87 | 09/12 17:55 | 09/12 22:39 | 45分（21:53→22:38） |
-| financialjuice | 35 | 09/12 17:36 | 09/12 23:05 | ⚠ 57分（18:57→19:55） |
+| FirstSquawk | 98 | 09/12 17:55 | 09/12 23:21 | 45分（21:53→22:38） |
+| financialjuice | 40 | 09/12 17:36 | 09/12 23:09 | ⚠ 57分（18:57→19:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 143 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 159 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -167,3 +167,19 @@
 - 09/12 23:04 [financialjuice] Anthropic’s Dario Amodei: We must slow the pace of improving AI model capabilities
 - 09/12 23:04 [DeItaone] ANTHROPIC'S DARIO AMODEI: WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE CAPABILITIES OF AI MODELS
 - 09/12 23:05 [financialjuice] Anthropic's Dario Amodei: proposing a three-step strategy to pace the frontier
+- 09/12 23:06 [financialjuice] Anthropic’s Dario Amodei: proposing developing AI at a measured pace to ensure safety
+- 09/12 23:07 [financialjuice] Anthropic's Amodei: pacing means not halting model training or technical progress, ensuring companies take adequate time to align and safeguard models
+- 09/12 23:08 [financialjuice] Anthropic's Amodei proposes each leading AI company provide continuous, employee-level access to embedded third-party evaluators
+- 09/12 23:09 [financialjuice] Anthropic's Amodei: US and other democratic governments should try to coordinate with others
+- 09/12 23:09 [financialjuice] Anthropic’s Amodei: Proposes frontier AI firms in democratic nations coordinate to set joint safety standards
+- 09/12 23:19 [FirstSquawk] INDIA AND CHINA REPORT POSITIVE ADVANCEMENTS IN THEIR RELATIONSHIP.
+- 09/12 23:19 [FirstSquawk] INDIA ISSUES JOINT STATEMENT FOLLOWING MEETING BETWEEN XI AND MODI.
+- 09/12 23:19 [FirstSquawk] XI AND MODI AGREE TO FIND A BORDER SOLUTION THAT BOTH SIDES ACCEPT.
+- 09/12 23:20 [FirstSquawk] PEACE BETWEEN INDIA AND CHINA AT THE BORDER IS CRUCIAL FOR DEVELOPMENT.
+- 09/12 23:20 [FirstSquawk] XI AND MODI HAVE DECIDED TO ADDRESS EACH OTHER'S TRADE CONCERNS.
+- 09/12 23:20 [FirstSquawk] XI AND MODI DISCUSS SOLUTIONS FOR SUPPLY CHAIN ISSUES.
+- 09/12 23:20 [FirstSquawk] XI AND MODI PLAN TO CREATE STABLE MARKET ACCESS.
+- 09/12 23:20 [FirstSquawk] IRAN WILL UPDATE GULF COUNTRIES ON THE HORMUZ SHIPPING DEAL THIS MONDAY.
+- 09/12 23:21 [FirstSquawk] MODI STRESSES THE IMPORTANCE OF BOTH SIDES FOLLOWING CURRENT BORDER AGREEMENTS.
+- 09/12 23:21 [FirstSquawk] ANTHROPIC'S AMODEI PUBLISHES NEW LETTER REGARDING AI SAFETY.
+- 09/12 23:21 [FirstSquawk] ANTHROPIC CEO STRESSED THE IMPORTANCE OF SLOWING DOWN AI MODEL ADVANCEMENTS.
