@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 04:41 JST／対象: 09/12 16:41 〜 09/13 04:41 JST（時刻はすべて日本時間）
+生成: 2026-09-13 04:52 JST／対象: 09/12 16:52 〜 09/13 04:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
+| DeItaone | 26 | 09/12 18:07 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
 | FirstSquawk | 136 | 09/12 17:55 | 09/13 03:29 | 45分（21:53→22:38） |
 | financialjuice | 62 | 09/12 17:36 | 09/13 03:58 | ⚠ 73分（00:19→01:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 222 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 221 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 16:41 [DeItaone] IRAN RULES OUT U.S. TALKS WITHOUT CONDITIONS Iranian lawmaker Ebrahim Azizi says Tehran will not negotiate with Washington until Iran’s conditions are met, declaring that talks would otherwise be “futile.” The statement comes amid reports t…
 - 09/12 17:36 [financialjuice] Ukraine strikes Russia's top synthetic rubber maker in Togliatti in Samara region: Ukrainian military
 - 09/12 17:55 [FirstSquawk] Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace
 - 09/12 17:55 [FirstSquawk] Trump: If China wanted to come in and open a plant to build their cars here, I would be okay with it. Japan does it. But they hire our people. The big thing is they hire our people. In fact, they use our people.

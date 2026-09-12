@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 04:41 JST／対象: 09/12 04:41 〜 09/13 04:41 JST（時刻はすべて日本時間）
+生成: 2026-09-13 04:52 JST／対象: 09/12 04:52 〜 09/13 04:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 249 | 09/12 04:42 | 09/13 03:29 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 116 | 09/12 04:48 | 09/13 03:58 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 246 | 09/12 05:01 | 09/13 03:29 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 114 | 09/12 04:53 | 09/13 03:58 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 389 行（統合前 394 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 384 行（統合前 388 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 04:42 [FirstSquawk] CITI NOW SEE FED RAISING RATES IN SEPTEMBER, RATE CUTS BY MID-2027
-- 09/12 04:48 [FirstSquawk] CENTCOM: AS OF SEPT. 11, U.S. FORCES HAVE REDIRECTED 99 COMMERCIAL VESSELS TO ENSURE TOTAL COMPLIANCE
-- 09/12 04:48 [financialjuice] Farage Reform UK gets £36 mln donation from Ben Delo - Telegraph
-- 09/12 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1520.0 MLN NASDAQ 100: -1245.7 MLN DOW 30: -528.4 MLN MAG 7: -891.7 MLN $MACRO
-- 09/12 04:51 [FirstSquawk] FED IS POISED FOR A RATE HIKE. IT RARELY STOPS AT ONE. – WSJ
 - 09/12 04:53 [financialjuice] The Fed Is Poised for a Rate Hike. It Rarely Stops at One - WSJ's Nick Timiraos
 - 09/12 04:59 [financialjuice] Al Mayadeen citing high-ranking Iranian source: Negotiations are not possible until Iran's conditions are accepted - ISNA
 - 09/12 05:01 [FirstSquawk] NASDAQ UNOFFICIALLY CLOSES UP 263.06 POINTS, OR 1.01 PERCENT, AT 26,344.78 DOW JONES UNOFFICIALLY CLOSES UP 514.27 POINTS, OR 0.99%, AT 52,578.37 S&P 500 UNOFFICIALLY CLOSES UP 65.79 POINTS, OR 0.87 PERCENT, AT 7,657.49

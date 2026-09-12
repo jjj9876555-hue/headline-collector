@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 04:41 JST／対象: 09/12 22:41 〜 09/13 04:41 JST（時刻はすべて日本時間）
+生成: 2026-09-13 04:52 JST／対象: 09/12 22:52 〜 09/13 04:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/12 22:49 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
+| DeItaone | 4 | 09/12 23:04 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
 | FirstSquawk | 49 | 09/12 23:19 | 09/13 03:29 | 42分（02:14→02:57） |
-| financialjuice | 37 | 09/12 22:44 | 09/13 03:58 | ⚠ 73分（00:19→01:32） |
+| financialjuice | 29 | 09/12 23:04 | 09/13 03:58 | ⚠ 73分（00:19→01:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 90 行（統合前 91 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 81 行（統合前 82 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 22:44 [financialjuice] India foreign ministry: Modi tells China's Xi peace, stability in border areas vital for ongoing growth in bilateral ties
-- 09/12 22:44 [financialjuice] India foreign ministry: Modi, Xi express commitment to fair, reasonable, mutually acceptable boundary resolution
-- 09/12 22:45 [financialjuice] India’s Modi in meeting with China’s Xi underlined need for both sides to observe existing agreements and understandings on border issues: India foreign ministry
-- 09/12 22:45 [financialjuice] India foreign ministry: Modi, Xi reaffirm both nations should adopt strategic, long-term view of ties
-- 09/12 22:45 [financialjuice] India foreign ministry: Modi, Xi agree differences must not turn into disputes
-- 09/12 22:46 [financialjuice] India's Modi, China's Xi emphasize need to boost business ties and mobility between countries: India foreign ministry
-- 09/12 22:46 [financialjuice] Modi, Xi highlight need to address concerns including trade imbalance, supply chain issues, and predictable market access: India foreign minister
-- 09/12 22:48 [financialjuice] Iraq's Al-Tayyib border area with Iran closed after drone launch sites found: two Iraqi military sources
-- 09/12 22:49 [DeItaone] IRAN-GULF TALKS UNLIKELY TO PRODUCE HORMUZ DEAL Monday’s meeting between Iran and Gulf states in Oman is not expected to produce a signed agreement on the Strait of Hormuz, a senior Iranian official told Reuters. Tehran still wants the righ…
 - 09/12 23:04 [financialjuice] Anthropic’s Dario Amodei: We must slow the pace of improving AI model capabilities
 - 09/12 23:04 [DeItaone] ANTHROPIC'S DARIO AMODEI: WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE CAPABILITIES OF AI MODELS
 - 09/12 23:05 [financialjuice] Anthropic's Dario Amodei: proposing a three-step strategy to pace the frontier
