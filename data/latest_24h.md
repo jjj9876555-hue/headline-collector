@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 16:34 JST／対象: 09/11 16:34 〜 09/12 16:34 JST（時刻はすべて日本時間）
+生成: 2026-09-12 16:49 JST／対象: 09/11 16:49 〜 09/12 16:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 09/11 16:41 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 235 | 09/11 16:35 | 09/12 16:00 | ⚠ 241分（05:01→09:02） |
+| DeItaone | 40 | 09/11 16:57 | 09/12 16:41 | ⚠ 751分（04:10→16:41） |
+| FirstSquawk | 232 | 09/11 16:58 | 09/12 16:00 | ⚠ 241分（05:01→09:02） |
 | financialjuice | 186 | 09/11 17:01 | 09/12 15:43 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 459 行（統合前 464 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 455 行（統合前 460 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 16:35 [FirstSquawk] MUFG TO REDEEM $1.25B 1.64% SENIOR NOTES ON OCT. 13
-- 09/11 16:36 [FirstSquawk] US RETAIL DIESEL PRICE EXCEEDS $6 PER GALLON
-- 09/11 16:40 [FirstSquawk] IRELAND IS PREPARING TO GIVE DONALD TRUMP A WARM RECEPTION BUT SECRETLY LOOKS FORWARD TO HIS DEPARTURE.
-- 09/11 16:41 [DeItaone] *US AVERAGE RETAIL DIESEL PRICE RISES PAST $6 A GALLON: AAA
-- 09/11 16:47 [DeItaone] U.S. DIESEL SURGES ABOVE $6, INFLATION RISK BUILDS U.S. diesel prices hit a record $6.06 a gallon, with California approaching $8, as global supply disruptions tighten the market. With diesel crucial to shipping, agriculture and constructio…
 - 09/11 16:57 [DeItaone] GULF STATES WEIGH TALKS WITH IRAN OVER HORMUZ Gulf states are considering rare talks with Iran next week over the future of the Strait of Hormuz, with Oman seeking a meeting of GCC and Iranian foreign ministers. The talks could focus on res…
 - 09/11 16:58 [FirstSquawk] HAWKISH POLICY SHIFT LEAVES NEAR-TERM RATE HIKES UNLIKELY
 - 09/11 17:01 [financialjuice] IEA: 2026 world oil demand to drop by 2.5 million bpd (prev. forecast 1.6 million bpd drop), citing impasse in US-Iran talks on resolving their conflict.
@@ -483,3 +478,4 @@
 - 09/12 15:42 [financialjuice] Russian defence ministry: Russian troops strike two cargo ships in Ukrainian port of Chornomorsk
 - 09/12 15:43 [financialjuice] Russian Defence Ministry: Russian forces also strike metallurgical plant in Ukraine's Zaporizhzhia region - RIA
 - 09/12 16:00 [FirstSquawk] BOJ JGB HOLDINGS PLUNGE BY RECORD ¥47.8 TRILLION YOY IN JULY BANK OF JAPAN CUTS GOVERNMENT BOND HOLDINGS AT UNPRECEDENTED PACE; ¥47.8 TRILLION ANNUAL DROP MARKS BIGGEST DECLINE EVER
+- 09/12 16:41 [DeItaone] IRAN RULES OUT U.S. TALKS WITHOUT CONDITIONS Iranian lawmaker Ebrahim Azizi says Tehran will not negotiate with Washington until Iran’s conditions are met, declaring that talks would otherwise be “futile.” The statement comes amid reports t…

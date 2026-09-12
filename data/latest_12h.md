@@ -7,28 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 16:34 JST／対象: 09/12 04:34 〜 09/12 16:34 JST（時刻はすべて日本時間）
+生成: 2026-09-12 16:49 JST／対象: 09/12 04:49 〜 09/12 16:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 113 | 09/12 04:42 | 09/12 16:00 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 54 | 09/12 04:48 | 09/12 15:43 | ⚠ 170分（10:12→13:03） |
+| DeItaone | 1 | 09/12 16:41 | 09/12 16:41 | - |
+| FirstSquawk | 111 | 09/12 04:51 | 09/12 16:00 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 54 | 09/12 04:51 | 09/12 15:43 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 167 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 166 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 04:42 [FirstSquawk] CITI NOW SEE FED RAISING RATES IN SEPTEMBER, RATE CUTS BY MID-2027
-- 09/12 04:48 [FirstSquawk] CENTCOM: AS OF SEPT. 11, U.S. FORCES HAVE REDIRECTED 99 COMMERCIAL VESSELS TO ENSURE TOTAL COMPLIANCE
-- 09/12 04:48 [financialjuice] Farage Reform UK gets £36 mln donation from Ben Delo - Telegraph
 - 09/12 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1520.0 MLN NASDAQ 100: -1245.7 MLN DOW 30: -528.4 MLN MAG 7: -891.7 MLN $MACRO
 - 09/12 04:51 [FirstSquawk] FED IS POISED FOR A RATE HIKE. IT RARELY STOPS AT ONE. – WSJ
+- 09/12 04:51 [financialjuice] Farage Reform UK gets £36 mln donation from Ben Delo - Telegraph
 - 09/12 04:53 [financialjuice] The Fed Is Poised for a Rate Hike. It Rarely Stops at One - WSJ's Nick Timiraos
 - 09/12 04:59 [financialjuice] Al Mayadeen citing high-ranking Iranian source: Negotiations are not possible until Iran's conditions are accepted - ISNA
 - 09/12 05:01 [FirstSquawk] NASDAQ UNOFFICIALLY CLOSES UP 263.06 POINTS, OR 1.01 PERCENT, AT 26,344.78 DOW JONES UNOFFICIALLY CLOSES UP 514.27 POINTS, OR 0.99%, AT 52,578.37 S&P 500 UNOFFICIALLY CLOSES UP 65.79 POINTS, OR 0.87 PERCENT, AT 7,657.49
@@ -191,3 +189,4 @@
 - 09/12 15:42 [financialjuice] Russian defence ministry: Russian troops strike two cargo ships in Ukrainian port of Chornomorsk
 - 09/12 15:43 [financialjuice] Russian Defence Ministry: Russian forces also strike metallurgical plant in Ukraine's Zaporizhzhia region - RIA
 - 09/12 16:00 [FirstSquawk] BOJ JGB HOLDINGS PLUNGE BY RECORD ¥47.8 TRILLION YOY IN JULY BANK OF JAPAN CUTS GOVERNMENT BOND HOLDINGS AT UNPRECEDENTED PACE; ¥47.8 TRILLION ANNUAL DROP MARKS BIGGEST DECLINE EVER
+- 09/12 16:41 [DeItaone] IRAN RULES OUT U.S. TALKS WITHOUT CONDITIONS Iranian lawmaker Ebrahim Azizi says Tehran will not negotiate with Washington until Iran’s conditions are met, declaring that talks would otherwise be “futile.” The statement comes amid reports t…

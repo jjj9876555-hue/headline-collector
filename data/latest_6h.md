@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 16:34 JST／対象: 09/12 10:34 〜 09/12 16:34 JST（時刻はすべて日本時間）
+生成: 2026-09-12 16:49 JST／対象: 09/12 10:49 〜 09/12 16:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 55 | 09/12 10:35 | 09/12 16:00 | ⚠ 60分（15:00→16:00） |
+| DeItaone | 1 | 09/12 16:41 | 09/12 16:41 | - |
+| FirstSquawk | 47 | 09/12 10:50 | 09/12 16:00 | ⚠ 60分（15:00→16:00） |
 | financialjuice | 13 | 09/12 13:03 | 09/12 15:43 | ⚠ 126分（13:04→15:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 68 行（統合前 68 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 61 行（統合前 61 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 10:35 [FirstSquawk] Pyongyang fired an unidentified projectile in the direction of the East Sea, according to Yonhap.
-- 09/12 10:38 [FirstSquawk] Private-sector delivery and equity capacity emerge as main risks to Mexico’s power-grid expansion, Fitch says.
-- 09/12 10:41 [FirstSquawk] Baghdad thanks Riyadh for choosing not to retaliate, state media says.
-- 09/12 10:42 [FirstSquawk] Baghdad condemns any assault that puts Saudi security and stability at risk.
-- 09/12 10:42 [FirstSquawk] Baghdad launches an investigation to determine who was behind the attacks.
-- 09/12 10:42 [FirstSquawk] Baghdad vows to cooperate with allies and friends to stop future attacks.
-- 09/12 10:46 [FirstSquawk] Hamaoka nuclear plant’s restart applications in Japan to be pulled - kyodo
-- 09/12 10:48 [FirstSquawk] President Donald Trump’s promised $5,000 “dividend” for all U.S. adults would not be paid for with taxpayer dollars, Commerce Secretary Howard Lutnick said Thursday. “It’s not tax money,” Lutnick told NBC News in a wide-ranging interview at…
 - 09/12 10:50 [FirstSquawk] AI-POWERED WORM COULD HACK AND SELF-PROPAGATE ACROSS WECHAT ACCOUNTS, NYT REPORTS
 - 09/12 10:52 [FirstSquawk] Tamron Weighs Sony Bid as Chinese Rivals Intensify Pressure Japan’s Tamron is considering a potential offer from Sony as competition from Chinese lens makers grows, with the mid-sized manufacturer benefiting from strong returns on equity an…
 - 09/12 10:54 [FirstSquawk] Waymo Self-Driving Cars Reportedly 9x Safer Than Human Drivers as per polymarket. An analysis of 25.3 million autonomous miles found Waymo vehicles were roughly 900% safer than human drivers.
@@ -92,3 +84,4 @@
 - 09/12 15:42 [financialjuice] Russian defence ministry: Russian troops strike two cargo ships in Ukrainian port of Chornomorsk
 - 09/12 15:43 [financialjuice] Russian Defence Ministry: Russian forces also strike metallurgical plant in Ukraine's Zaporizhzhia region - RIA
 - 09/12 16:00 [FirstSquawk] BOJ JGB HOLDINGS PLUNGE BY RECORD ¥47.8 TRILLION YOY IN JULY BANK OF JAPAN CUTS GOVERNMENT BOND HOLDINGS AT UNPRECEDENTED PACE; ¥47.8 TRILLION ANNUAL DROP MARKS BIGGEST DECLINE EVER
+- 09/12 16:41 [DeItaone] IRAN RULES OUT U.S. TALKS WITHOUT CONDITIONS Iranian lawmaker Ebrahim Azizi says Tehran will not negotiate with Washington until Iran’s conditions are met, declaring that talks would otherwise be “futile.” The statement comes amid reports t…
