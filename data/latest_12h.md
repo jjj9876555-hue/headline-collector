@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 09:59 JST／対象: 09/11 21:59 〜 09/12 09:59 JST（時刻はすべて日本時間）
+生成: 2026-09-12 10:15 JST／対象: 09/11 22:15 〜 09/12 10:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/11 22:25 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 98 | 09/11 22:02 | 09/12 09:59 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 119 | 09/11 22:00 | 09/12 09:00 | ⚠ 58分（06:50→07:48） |
+| FirstSquawk | 109 | 09/11 22:23 | 09/12 10:14 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 115 | 09/11 22:21 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 228 行（統合前 230 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 235 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 22:00 [financialjuice] Effective Fed funds rate: 3.63% September 10th vs 3.63% September 9th.
-- 09/11 22:02 [financialjuice] Yemen's Houthis: Maritime navigation is safe for all shipping companies except Saudi vessels subject to a previously announced ban.
-- 09/11 22:02 [FirstSquawk] HOUTHIS IN YEMEN CLAIM ALL SHIPPING COMPANIES CAN NAVIGATE SAFELY EXCEPT SAUDI SHIPS DUE TO AN EXISTING BAN.
-- 09/11 22:06 [financialjuice] Yemeni Army: Saudi-led forces expelled from 6 districts in Taiz and Hodeidah - Tasnim News
-- 09/11 22:07 [financialjuice] Germany’s Chancellor Merz is determined to stay in power as the push to replace him mounts
-- 09/11 22:07 [financialjuice] Yemen Armed Forces: We have liberated 5,400 kilometers and shot down 9 Saudi fighter jets - Fars News
-- 09/11 22:07 [financialjuice] Germany’s Chancellor Merz aims to push on with German reform effort despite setbacks.
-- 09/11 22:08 [FirstSquawk] GERMANY’S CHANCELLOR MERZ IS DETERMINED TO STAY IN POWER AS PUSH TO REPLACE HIM MOUNTS || AIMS TO PUSH AHEAD WITH REFORMS DESPITE SETBACKS
 - 09/11 22:21 [financialjuice] WH Sr. Adviser Hassett: Big issue with diesel because it's a refined product - Fox Business
 - 09/11 22:22 [financialjuice] WH Sr. Adviser Hassett on diesel prices: A major concern for us right now.
 - 09/11 22:22 [financialjuice] WH Sr. Adviser Hassett: A lot of Diesel refining in places disturbed by war.
@@ -252,3 +244,18 @@
 - 09/12 09:57 [FirstSquawk] Baghdad fires military commander after investigation finds Saudi drone attacks were launched from Iraq.
 - 09/12 09:59 [FirstSquawk] Brazil to hold a spot-dollar auction on September 15, central bank says.
 - 09/12 09:59 [FirstSquawk] Brazil to sell as much as $1 billion in spot dollars on September 15.
+- 09/12 10:00 [FirstSquawk] Brazil announces a reverse currency swap operation for Sep 15.
+- 09/12 10:01 [FirstSquawk] A 6.24-magnitude earthquake struck Java, Indonesia, according to GFZ.
+- 09/12 10:02 [financialjuice] U.S. connects Chinese satellite images to July Iranian attack that killed three soldiers - WSJ
+- 09/12 10:03 [FirstSquawk] Putin claims the West pressured Russia and drove Ukraine toward NATO, triggering the conflict.
+- 09/12 10:04 [FirstSquawk] Putin said the turmoil unfolding across Europe stems from what he described as systemic failures caused by Western globalists.
+- 09/12 10:04 [FirstSquawk] Putin said he would refrain from commenting on the election in Saxony-Anhalt, calling it an exclusively domestic German issue.
+- 09/12 10:05 [FirstSquawk] Nvidia Eyes a Stake in Anthropic Ahead of Mega IPO — Straits Times
+- 09/12 10:06 [FirstSquawk] Isembyld wins FDA approval for treating spinal muscular atrophy in patients 2 years and above.
+- 09/12 10:08 [FirstSquawk] BREAKING: Sharurah placed under an early warning as Saudi authorities flag possible danger.
+- 09/12 10:11 [FirstSquawk] Fitch Ratings has assigned a ‘BB-’ rating to Jamaica’s notes maturing in 2037.
+- 09/12 10:12 [FirstSquawk] Goldman Sachs, Citi and Bank of America are still operating as brokers to maintain market visibility.
+- 09/12 10:12 [financialjuice] Saudi civil defense: danger has passed in Sharurah
+- 09/12 10:13 [FirstSquawk] Saudi Civil Defense says the danger in Sharurah has now subsided.
+- 09/12 10:14 [FirstSquawk] Sony PlayStation’s shift beyond physical discs fuels an outcry over digital ownership rights.
+- 09/12 10:14 [FirstSquawk] U.S. Ties Chinese Satellite Data to Deadly July Strike on Iran — WSJ The U.S. has linked Chinese satellite imagery to an Iranian attack in July that killed three U.S. troops, according to WSJ. The development adds another layer to rising U.…
