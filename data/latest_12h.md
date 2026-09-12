@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 02:52 JST／対象: 09/12 14:52 〜 09/13 02:52 JST（時刻はすべて日本時間）
+生成: 2026-09-13 03:05 JST／対象: 09/12 15:05 〜 09/13 03:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 131 | 09/12 14:57 | 09/13 02:14 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 62 | 09/12 15:10 | 09/13 02:00 | ⚠ 112分（15:43→17:36） |
+| FirstSquawk | 131 | 09/12 16:00 | 09/13 02:58 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 65 | 09/12 15:10 | 09/13 03:03 | ⚠ 112分（15:43→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 217 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 220 行（統合前 223 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 14:57 [FirstSquawk] South Korea Seeks U.S. Handover of Wartime Command Authority Under ‘No Added Conditions’ Principle South Korea’s defense minister nominee says Seoul aims to regain wartime operational control (OPCON) from the United States based on a “no ad…
-- 09/12 15:00 [FirstSquawk] Latin American Allies Throw Full Support Behind Trump’s Drug War - WSJ Latin American allies are stepping up cooperation with the Trump administration’s campaign against drug trafficking, signaling stronger regional backing for Washington’s…
 - 09/12 15:10 [financialjuice] China's Xi arrives in Delhi for BRICS summit - TV
 - 09/12 15:31 [financialjuice] India's markets regulator proposes six steps to enhance derivatives settlement prices in closing auction session
 - 09/12 15:31 [financialjuice] India's Sebi proposes adjustments to closing auction price band
@@ -241,3 +239,8 @@
 - 09/13 02:05 [FirstSquawk] Iranian source: Reopening of Strait of Hormuz hinges entirely on U.S. meeting Iran’s conditions - according to Tasnim
 - 09/13 02:14 [FirstSquawk] AFP, citing the Kremlin: A meeting between Putin and Zelensky at the G20 summit is "impossible".
 - 09/13 02:14 [FirstSquawk] Lebanese News Agency: Israeli airstrike on the vicinity of Tell al-Dabsha, on the outskirts of Nabatieh al-Fawqa
+- 09/13 02:57 [FirstSquawk] Israeli airstrike on the outskirts of Ali Taher Heights in southern Lebanon
+- 09/13 02:58 [financialjuice] Iran state media: sound of two blasts heard near Qeshm from the sea
+- 09/13 02:58 [FirstSquawk] Abu Dhabi Crown Prince Sheikh Khaled bin Mohammed bin Zayed meets Russian President Vladimir Putin on the sidelines of the "BRICS Summit" in New Delhi
+- 09/13 03:02 [financialjuice] Emergency alert in Saudi Arabia's Khamis Mushait warns of possible danger: Saudi Civil Defence
+- 09/13 03:03 [financialjuice] Emergency alert issued in Saudi Arabia's Abha warning of potential threat: Saudi Civil Defence

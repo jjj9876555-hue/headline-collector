@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 02:52 JST／対象: 09/12 20:52 〜 09/13 02:52 JST（時刻はすべて日本時間）
+生成: 2026-09-13 03:05 JST／対象: 09/12 21:05 〜 09/13 03:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/12 21:50 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
-| FirstSquawk | 71 | 09/12 20:52 | 09/13 02:14 | 45分（21:53→22:38） |
-| financialjuice | 31 | 09/12 21:43 | 09/13 02:00 | ⚠ 73分（00:19→01:32） |
+| FirstSquawk | 62 | 09/12 21:12 | 09/13 02:58 | 45分（21:53→22:38） |
+| financialjuice | 34 | 09/12 21:43 | 09/13 03:03 | ⚠ 73分（00:19→01:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 108 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 102 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 20:52 [FirstSquawk] TRUMP QUESTIONS NATO SUPPORT: “WHY ARE WE HELPING THEM? MORE DETAILS TO COME.”
-- 09/12 20:52 [FirstSquawk] TRUMP CRITICIZES EUROPE'S TRADE, ENERGY, AND IMMIGRATION POLICIES.
-- 09/12 20:53 [FirstSquawk] BRICS SHOWS STRONG CONCERN ABOUT RISING MIDEAST TENSIONS.
-- 09/12 20:53 [FirstSquawk] BRICS MEMBERS URGE FOR UPGRADED RESTRAINT AND TO PREVENT ESCALATING ACTIONS.
-- 09/12 20:53 [FirstSquawk] BRICS RAISES 'SERIOUS CONCERN' ABOUT ATTACKS ON CIVILIAN INFRASTRUCTURE.
-- 09/12 20:53 [FirstSquawk] BRICS EXPRESSES CONCERN ABOUT ATTACKS ON SAFE NUCLEAR PLANTS.
-- 09/12 20:54 [FirstSquawk] BRICS URGES GROWTH IN LOCAL CURRENCY FUNDING.
-- 09/12 20:54 [FirstSquawk] BRICS URGES CHANGES IN GLOBAL ECONOMIC MANAGEMENT.
-- 09/12 20:54 [FirstSquawk] BRICS EXPRESSES CONCERN ABOUT UNILATERAL TARIFFS AND NON-TARIFF MEASURES.
-- 09/12 20:54 [FirstSquawk] BRICS STRONGLY OPPOSES UNILATERAL AND SECONDARY SANCTIONS.
-- 09/12 20:54 [FirstSquawk] REFORM UK RECEIVES ANOTHER £36M DONATION WITHIN TWO DAYS, REPORTS TELEGRAPH.
 - 09/12 21:12 [FirstSquawk] Lebanese President: Israel's withdrawal, return of prisoners, and reconstruction are constants that the state is committed to implementing
 - 09/12 21:14 [FirstSquawk] Yemeni government forces: We targeted dozens of Houthi tugs loaded with weapons in the north Taiz
 - 09/12 21:14 [FirstSquawk] Lebanese Army Commander: We have not left Nabatieh or any town where there are still citizens, and we hope to liberate the rest of the towns and we will be stationed in them
@@ -132,3 +121,8 @@
 - 09/13 02:05 [FirstSquawk] Iranian source: Reopening of Strait of Hormuz hinges entirely on U.S. meeting Iran’s conditions - according to Tasnim
 - 09/13 02:14 [FirstSquawk] AFP, citing the Kremlin: A meeting between Putin and Zelensky at the G20 summit is "impossible".
 - 09/13 02:14 [FirstSquawk] Lebanese News Agency: Israeli airstrike on the vicinity of Tell al-Dabsha, on the outskirts of Nabatieh al-Fawqa
+- 09/13 02:57 [FirstSquawk] Israeli airstrike on the outskirts of Ali Taher Heights in southern Lebanon
+- 09/13 02:58 [financialjuice] Iran state media: sound of two blasts heard near Qeshm from the sea
+- 09/13 02:58 [FirstSquawk] Abu Dhabi Crown Prince Sheikh Khaled bin Mohammed bin Zayed meets Russian President Vladimir Putin on the sidelines of the "BRICS Summit" in New Delhi
+- 09/13 03:02 [financialjuice] Emergency alert in Saudi Arabia's Khamis Mushait warns of possible danger: Saudi Civil Defence
+- 09/13 03:03 [financialjuice] Emergency alert issued in Saudi Arabia's Abha warning of potential threat: Saudi Civil Defence

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 02:52 JST／対象: 09/12 02:52 〜 09/13 02:52 JST（時刻はすべて日本時間）
+生成: 2026-09-13 03:05 JST／対象: 09/12 03:05 〜 09/13 03:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/12 04:10 | 09/13 01:48 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 262 | 09/12 02:59 | 09/13 02:14 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 126 | 09/12 02:58 | 09/13 02:00 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 261 | 09/12 03:09 | 09/13 02:58 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 127 | 09/12 03:08 | 09/13 03:03 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 413 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 02:58 [financialjuice] US FEDERAL BUDGET BALANCE ACTUAL -166.797B (FORECAST -211.1B, PREVIOUS -432.00B) $MACRO
-- 09/12 02:59 [FirstSquawk] REZA NAJAFI, THE ISLAMIC REPUBLIC'S REPRESENTATIVE AT THE IAEA, STATED TO CGTN THAT THE U.S. COULD USE THE NEW BOARD OF GOVERNORS RESOLUTION AS AN EXCUSE TO ESCALATE TENSIONS OR LAUNCH NEW MILITARY ACTIONS AGAINST IRAN.
-- 09/12 03:00 [FirstSquawk] US AUG. BUDGET DEFICIT $166.80B
-- 09/12 03:00 [FirstSquawk] US BUDGET DEFICIT AT $1.97T FOR FIRST 11 MONTHS OF FISCAL YEAR
-- 09/12 03:02 [financialjuice] US Budget Balance August 202 Report
 - 09/12 03:08 [financialjuice] Yemeni military source: Saudi-backed mercenary positions in eastern Al-Jawf targeted, dozens of military vehicles set ablaze - Tasnim News
 - 09/12 03:09 [FirstSquawk] US COMMERCE CONFIRMS ILLEGAL SOLAR SUBSIDIES FROM INDIA
 - 09/12 03:19 [FirstSquawk] STELLANTIS, ROSHEL SIGN MOU FOR POSSIBLE SALE OF CANADA PLANT
@@ -437,3 +432,8 @@
 - 09/13 02:05 [FirstSquawk] Iranian source: Reopening of Strait of Hormuz hinges entirely on U.S. meeting Iran’s conditions - according to Tasnim
 - 09/13 02:14 [FirstSquawk] AFP, citing the Kremlin: A meeting between Putin and Zelensky at the G20 summit is "impossible".
 - 09/13 02:14 [FirstSquawk] Lebanese News Agency: Israeli airstrike on the vicinity of Tell al-Dabsha, on the outskirts of Nabatieh al-Fawqa
+- 09/13 02:57 [FirstSquawk] Israeli airstrike on the outskirts of Ali Taher Heights in southern Lebanon
+- 09/13 02:58 [financialjuice] Iran state media: sound of two blasts heard near Qeshm from the sea
+- 09/13 02:58 [FirstSquawk] Abu Dhabi Crown Prince Sheikh Khaled bin Mohammed bin Zayed meets Russian President Vladimir Putin on the sidelines of the "BRICS Summit" in New Delhi
+- 09/13 03:02 [financialjuice] Emergency alert in Saudi Arabia's Khamis Mushait warns of possible danger: Saudi Civil Defence
+- 09/13 03:03 [financialjuice] Emergency alert issued in Saudi Arabia's Abha warning of potential threat: Saudi Civil Defence
