@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 21:06 JST／対象: 09/12 15:06 〜 09/12 21:06 JST（時刻はすべて日本時間）
+生成: 2026-09-12 21:28 JST／対象: 09/12 15:28 〜 09/12 21:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 20 | 09/12 16:41 | 09/12 20:43 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 69 | 09/12 16:00 | 09/12 20:54 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 31 | 09/12 15:10 | 09/12 20:51 | ⚠ 112分（15:43→17:36） |
+| FirstSquawk | 78 | 09/12 16:00 | 09/12 21:26 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 30 | 09/12 15:31 | 09/12 20:51 | ⚠ 112分（15:43→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 118 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 126 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 15:10 [financialjuice] China's Xi arrives in Delhi for BRICS summit - TV
 - 09/12 15:31 [financialjuice] India's markets regulator proposes six steps to enhance derivatives settlement prices in closing auction session
 - 09/12 15:31 [financialjuice] India's Sebi proposes adjustments to closing auction price band
 - 09/12 15:31 [financialjuice] India's SEBI: Closing auction orders outside 1% range will not be allowed to be canceled
@@ -142,3 +141,12 @@
 - 09/12 20:54 [FirstSquawk] BRICS EXPRESSES CONCERN ABOUT UNILATERAL TARIFFS AND NON-TARIFF MEASURES.
 - 09/12 20:54 [FirstSquawk] BRICS STRONGLY OPPOSES UNILATERAL AND SECONDARY SANCTIONS.
 - 09/12 20:54 [FirstSquawk] REFORM UK RECEIVES ANOTHER £36M DONATION WITHIN TWO DAYS, REPORTS TELEGRAPH.
+- 09/12 21:12 [FirstSquawk] Lebanese President: Israel's withdrawal, return of prisoners, and reconstruction are constants that the state is committed to implementing
+- 09/12 21:14 [FirstSquawk] Yemeni government forces: We targeted dozens of Houthi tugs loaded with weapons in the north Taiz
+- 09/12 21:14 [FirstSquawk] Lebanese Army Commander: We have not left Nabatieh or any town where there are still citizens, and we hope to liberate the rest of the towns and we will be stationed in them
+- 09/12 21:14 [FirstSquawk] Head of the Iraqi Border Crossings Authority: The measures taken at the crossings with the Iranian side are temporary
+- 09/12 21:14 [FirstSquawk] Head of the Iraqi Border Ports Authority: The measures aim to reorganize work inside some ports and raise the level of readiness
+- 09/12 21:14 [FirstSquawk] Head of the Iraqi Border Ports Authority: Transit movement with the Iranian side has not stopped at the Zarbatiya and Mundhiriya crossings
+- 09/12 21:15 [FirstSquawk] Iraqi President: We condemn the attacks on Saudi Arabia We affirm that we do not accept the use of our territory as a starting point for aggression against neighboring countries
+- 09/12 21:15 [FirstSquawk] Iraqi News Agency: The Prime Minister assigns Major General Ali Abdul Hussein Kazim to the position of Commander of Maysan Operations
+- 09/12 21:26 [FirstSquawk] BRICS Urges Restraint as Middle East Tensions Escalate BRICS nations, including Iran, the United Arab Emirates, India and China, have expressed deep concern over rising tensions in the Middle East and called for maximum restraint. In a join…

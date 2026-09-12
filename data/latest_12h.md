@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 21:06 JST／対象: 09/12 09:06 〜 09/12 21:06 JST（時刻はすべて日本時間）
+生成: 2026-09-12 21:28 JST／対象: 09/12 09:28 〜 09/12 21:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 20 | 09/12 16:41 | 09/12 20:43 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 174 | 09/12 09:06 | 09/12 20:54 | ⚠ 114分（16:00→17:55） |
+| FirstSquawk | 173 | 09/12 09:31 | 09/12 21:26 | ⚠ 114分（16:00→17:55） |
 | financialjuice | 35 | 09/12 10:02 | 09/12 20:51 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 227 行（統合前 229 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 226 行（統合前 228 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 09:06 [FirstSquawk] Negotiations between Canada’s auto workers and Stellantis have reached an impasse over the future of the company’s Ontario manufacturing facility, the union says.
-- 09/12 09:07 [FirstSquawk] Japan’s autumn foliage season is expected to begin later than usual in some areas as warmer weather persists, with peak colors forecast for Hokkaido in early November and Tokyo several weeks later.
-- 09/12 09:08 [FirstSquawk] Flooding deals a setback to Nepal’s efforts to expand trade with China, reinforcing its dependence on India as costly infrastructure upgrades are needed to reopen and strengthen a key border crossing with Tibet.
-- 09/12 09:09 [FirstSquawk] Baghdad announces the shutdown of the Shalamcheh frontier point connecting Iraq and Iran, Reuters reports.
-- 09/12 09:11 [FirstSquawk] Congo’s Ebola outbreak has surpassed 7,000 reported infections as transmission expands into another province.
-- 09/12 09:19 [FirstSquawk] Oracle chairman Larry Ellison intends to offload as much as $7.5 billion of his holdings in the company.
-- 09/12 09:20 [FirstSquawk] With diesel prices topping $6, rising fuel costs are raising concerns over broader economic pressure beyond the pump - WSJ
-- 09/12 09:21 [FirstSquawk] US official says the three-way arrangement involving Israel and Lebanon remains the sole viable mechanism.
-- 09/12 09:22 [FirstSquawk] US official says Israeli and Lebanese envoys are set to hold talks at the State Department in Washington next week.
-- 09/12 09:23 [FirstSquawk] Saudi Civil Defense announces that the security alert in Khamis Mushait has been lifted, with the immediate threat now considered cleared.
 - 09/12 09:31 [FirstSquawk] Wall Street closed up as oil prices slid, while firm consumer price data boosted bets that the Fed will hike rates next week to rein in inflation.
 - 09/12 09:31 [FirstSquawk] Xi sets out for India with the BRICS summit dominated by conflict.
 - 09/12 09:32 [FirstSquawk] Boeing engineers face a contract deadline on October 6.
@@ -251,3 +241,12 @@
 - 09/12 20:54 [FirstSquawk] BRICS EXPRESSES CONCERN ABOUT UNILATERAL TARIFFS AND NON-TARIFF MEASURES.
 - 09/12 20:54 [FirstSquawk] BRICS STRONGLY OPPOSES UNILATERAL AND SECONDARY SANCTIONS.
 - 09/12 20:54 [FirstSquawk] REFORM UK RECEIVES ANOTHER £36M DONATION WITHIN TWO DAYS, REPORTS TELEGRAPH.
+- 09/12 21:12 [FirstSquawk] Lebanese President: Israel's withdrawal, return of prisoners, and reconstruction are constants that the state is committed to implementing
+- 09/12 21:14 [FirstSquawk] Yemeni government forces: We targeted dozens of Houthi tugs loaded with weapons in the north Taiz
+- 09/12 21:14 [FirstSquawk] Lebanese Army Commander: We have not left Nabatieh or any town where there are still citizens, and we hope to liberate the rest of the towns and we will be stationed in them
+- 09/12 21:14 [FirstSquawk] Head of the Iraqi Border Crossings Authority: The measures taken at the crossings with the Iranian side are temporary
+- 09/12 21:14 [FirstSquawk] Head of the Iraqi Border Ports Authority: The measures aim to reorganize work inside some ports and raise the level of readiness
+- 09/12 21:14 [FirstSquawk] Head of the Iraqi Border Ports Authority: Transit movement with the Iranian side has not stopped at the Zarbatiya and Mundhiriya crossings
+- 09/12 21:15 [FirstSquawk] Iraqi President: We condemn the attacks on Saudi Arabia We affirm that we do not accept the use of our territory as a starting point for aggression against neighboring countries
+- 09/12 21:15 [FirstSquawk] Iraqi News Agency: The Prime Minister assigns Major General Ali Abdul Hussein Kazim to the position of Commander of Maysan Operations
+- 09/12 21:26 [FirstSquawk] BRICS Urges Restraint as Middle East Tensions Escalate BRICS nations, including Iran, the United Arab Emirates, India and China, have expressed deep concern over rising tensions in the Middle East and called for maximum restraint. In a join…
