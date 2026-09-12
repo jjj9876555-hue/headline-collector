@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 05:58 JST／対象: 09/12 23:58 〜 09/13 05:58 JST（時刻はすべて日本時間）
+生成: 2026-09-13 06:16 JST／対象: 09/13 00:16 〜 09/13 06:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/13 00:09 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
-| FirstSquawk | 31 | 09/12 23:59 | 09/13 03:29 | 42分（02:14→02:57） |
+| DeItaone | 2 | 09/13 01:35 | 09/13 01:48 | 13分（01:35→01:48） |
+| FirstSquawk | 30 | 09/13 00:22 | 09/13 03:29 | 42分（02:14→02:57） |
 | financialjuice | 23 | 09/13 00:19 | 09/13 05:05 | ⚠ 73分（00:19→01:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 56 行（統合前 57 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 54 行（統合前 55 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 23:59 [FirstSquawk] PEZESHKIAN STATES NO DECISION HAS BEEN MADE REGARDING DIRECT TALKS WITH THE US, AND A TRUSTING ENVIRONMENT MUST BE CREATED.
-- 09/13 00:09 [DeItaone] IRAN, UAE BACK BRICS CALL FOR RESTRAINT Iran and the UAE jointly backed a BRICS declaration calling for maximum restraint in the Middle East war, marking a notable diplomatic step between the two sides. Iranian President Masoud Pezeshkian a…
 - 09/13 00:19 [financialjuice] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 million cubic feet/day from 135 million — PM's office
 - 09/13 00:19 [financialjuice/FirstSquawk] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd: PM’s office
 - 09/13 00:22 [FirstSquawk] ELON MUSK AGREES WITH AMODEI ON THE NEED TO SLOW DOWN AI MODEL DEVELOPMENT.
