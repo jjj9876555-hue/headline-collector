@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 20:42 JST／対象: 09/11 20:42 〜 09/12 20:42 JST（時刻はすべて日本時間）
+生成: 2026-09-12 20:52 JST／対象: 09/11 20:52 〜 09/12 20:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 09/11 20:45 | 09/12 20:24 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 241 | 09/11 21:30 | 09/12 20:23 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 173 | 09/11 20:43 | 09/12 20:35 | ⚠ 170分（10:12→13:03） |
+| DeItaone | 44 | 09/11 20:53 | 09/12 20:43 | ⚠ 751分（04:10→16:41） |
+| FirstSquawk | 244 | 09/11 21:30 | 09/12 20:52 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 172 | 09/11 21:00 | 09/12 20:51 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 455 行（統合前 460 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 457 行（統合前 462 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 20:43 [financialjuice] Canadian Conservative Leader Poilievre: Tariff-free trade would help bring down inflation.
-- 09/11 20:45 [DeItaone] HOUTHIS TEASE “LARGE-SCALE” MILITARY OPERATION The Houthis are expected to announce what they describe as a “large-scale and significant military operation” at 4 PM local time / 2 PM London. Details of the operation have not yet been disclo…
-- 09/11 20:49 [financialjuice] Yemen Houthi's Spokesperson to make statement at 9 AM ET
 - 09/11 20:53 [DeItaone] OIL SET FOR 8% WEEKLY SURGE AS SUPPLY RISKS MOUNT Oil remains on track for an 8%+ weekly gain as Middle East attacks threaten key supply routes, despite Brent retreating to around $104 and WTI below $100 Friday. Reuters reports Saudi crude …
 - 09/11 20:57 [DeItaone] CPI SET TO DECIDE NEXT WEEK’S FED HIKE Markets currently price a 61% chance of a 25-bp Fed hike on September 16, versus 39% for a hold, according to Kalshi. With consensus expecting 0.2% core and 0.4% headline CPI M/M, Friday’s inflation pr…
 - 09/11 21:00 [financialjuice] Secured overnight financing rate: 3.62% September 10th vs 3.64% September 9th.
@@ -479,3 +476,8 @@
 - 09/12 20:23 [FirstSquawk] TRUMP PROMOTES US MILITARY LASER WEAPONS AND COMPUTERIZED MACHINE GUNS.
 - 09/12 20:24 [DeItaone] MEXICO UNCOVERS SUSPECTED CARTEL-LINKED CRYPTO FARM Mexican authorities are investigating a clandestine crypto-mining operation in Puebla suspected of laundering illicit funds, Reuters reports, as organized crime increasingly expands into d…
 - 09/12 20:35 [financialjuice] Zelenskiy: Three killed, dozens injured in Russian strikes on 10 Ukrainian regions Saturday
+- 09/12 20:43 [DeItaone] TRUMP SLAMS EUROPE OVER TRADE, ENERGY AND IMMIGRATION President Donald Trump warned that Europe is “killing” itself over immigration, while criticizing the continent’s approach to trade and energy during a visit to Ireland. Trump also expre…
+- 09/12 20:51 [financialjuice] Nigel Farage's Reform UK party secures second £36 million contribution - Telegraph
+- 09/12 20:51 [FirstSquawk] TRUMP SAYS UK MUST BRING BACK CRIMINAL IMMIGRANTS, JUST LIKE THE US.
+- 09/12 20:52 [FirstSquawk] TRUMP QUESTIONS NATO SUPPORT: “WHY ARE WE HELPING THEM? MORE DETAILS TO COME.”
+- 09/12 20:52 [FirstSquawk] TRUMP CRITICIZES EUROPE'S TRADE, ENERGY, AND IMMIGRATION POLICIES.

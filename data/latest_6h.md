@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 20:42 JST／対象: 09/12 14:42 〜 09/12 20:42 JST（時刻はすべて日本時間）
+生成: 2026-09-12 20:52 JST／対象: 09/12 14:52 〜 09/12 20:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/12 16:41 | 09/12 20:24 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 60 | 09/12 14:46 | 09/12 20:23 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 30 | 09/12 15:10 | 09/12 20:35 | ⚠ 112分（15:43→17:36） |
+| DeItaone | 20 | 09/12 16:41 | 09/12 20:43 | ⚠ 86分（16:41→18:07） |
+| FirstSquawk | 62 | 09/12 14:57 | 09/12 20:52 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 31 | 09/12 15:10 | 09/12 20:51 | ⚠ 112分（15:43→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 111 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 14:46 [FirstSquawk] Egypt says any attack against Saudi Arabia constitutes a serious violation of international law.
 - 09/12 14:57 [FirstSquawk] South Korea Seeks U.S. Handover of Wartime Command Authority Under ‘No Added Conditions’ Principle South Korea’s defense minister nominee says Seoul aims to regain wartime operational control (OPCON) from the United States based on a “no ad…
 - 09/12 15:00 [FirstSquawk] Latin American Allies Throw Full Support Behind Trump’s Drug War - WSJ Latin American allies are stepping up cooperation with the Trump administration’s campaign against drug trafficking, signaling stronger regional backing for Washington’s…
 - 09/12 15:10 [financialjuice] China's Xi arrives in Delhi for BRICS summit - TV
@@ -131,3 +130,8 @@
 - 09/12 20:23 [FirstSquawk] TRUMP PROMOTES US MILITARY LASER WEAPONS AND COMPUTERIZED MACHINE GUNS.
 - 09/12 20:24 [DeItaone] MEXICO UNCOVERS SUSPECTED CARTEL-LINKED CRYPTO FARM Mexican authorities are investigating a clandestine crypto-mining operation in Puebla suspected of laundering illicit funds, Reuters reports, as organized crime increasingly expands into d…
 - 09/12 20:35 [financialjuice] Zelenskiy: Three killed, dozens injured in Russian strikes on 10 Ukrainian regions Saturday
+- 09/12 20:43 [DeItaone] TRUMP SLAMS EUROPE OVER TRADE, ENERGY AND IMMIGRATION President Donald Trump warned that Europe is “killing” itself over immigration, while criticizing the continent’s approach to trade and energy during a visit to Ireland. Trump also expre…
+- 09/12 20:51 [financialjuice] Nigel Farage's Reform UK party secures second £36 million contribution - Telegraph
+- 09/12 20:51 [FirstSquawk] TRUMP SAYS UK MUST BRING BACK CRIMINAL IMMIGRANTS, JUST LIKE THE US.
+- 09/12 20:52 [FirstSquawk] TRUMP QUESTIONS NATO SUPPORT: “WHY ARE WE HELPING THEM? MORE DETAILS TO COME.”
+- 09/12 20:52 [FirstSquawk] TRUMP CRITICIZES EUROPE'S TRADE, ENERGY, AND IMMIGRATION POLICIES.
