@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 22:15 JST／対象: 09/11 22:15 〜 09/12 22:15 JST（時刻はすべて日本時間）
+生成: 2026-09-12 22:30 JST／対象: 09/11 22:30 〜 09/12 22:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 33 | 09/11 22:25 | 09/12 21:56 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 255 | 09/11 22:23 | 09/12 21:53 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 153 | 09/11 22:21 | 09/12 21:56 | ⚠ 170分（10:12→13:03） |
+| DeItaone | 30 | 09/11 22:33 | 09/12 21:56 | ⚠ 751分（04:10→16:41） |
+| FirstSquawk | 253 | 09/11 22:32 | 09/12 21:53 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 147 | 09/11 22:31 | 09/12 21:56 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 439 行（統合前 443 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 428 行（統合前 432 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 22:21 [financialjuice] WH Sr. Adviser Hassett: Big issue with diesel because it's a refined product - Fox Business
-- 09/11 22:22 [financialjuice] WH Sr. Adviser Hassett on diesel prices: A major concern for us right now.
-- 09/11 22:22 [financialjuice] WH Sr. Adviser Hassett: A lot of Diesel refining in places disturbed by war.
-- 09/11 22:23 [FirstSquawk] HASSETT SAYS THERE'S A MAJOR PROBLEM WITH DIESEL AS IT'S A REFINED PRODUCT.
-- 09/11 22:23 [FirstSquawk] HASSETT SAYS DIESEL PRICES ARE A SIGNIFICANT ISSUE FOR THE US CURRENTLY.
-- 09/11 22:23 [financialjuice] WH Sr. Adviser Hassett on $5,000 checks: Could happen through reconciliation.
-- 09/11 22:25 [DeItaone] HASSETT: BIG ISSUE WITH DIESEL BECAUSE IT'S A REFINED PRODUCT
-- 09/11 22:25 [DeItaone] HASSETT ON DIESEL PRICES: A MAJOR CONCERN FOR US RIGHT NOW
-- 09/11 22:27 [financialjuice] Chevron CEO Wirth: Early buffers in the oil market have played out, and the price risk from the Iran war is now higher - Conference.
-- 09/11 22:27 [DeItaone] CHEVRON CEO MIKE WIRTH SAYS EARLY BUFFERS IN OIL MARKET HAVE "PLAYED OUT", PRICE RISK FROM IRAN WAR IS NOW HIGHER -CONFERENCE
-- 09/11 22:30 [financialjuice] Spot premiums for Azeri BTC Crude oil jumped to over $10/bl vs dated Brent amid Middle East oil supply disruption - Traders.
 - 09/11 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 451.3 MLN NASDAQ 100: -0.6 MLN DOW 30: 93.3 MLN MAG 7: -0.9 MLN $MACRO
 - 09/11 22:32 [FirstSquawk] NASDAQ UP 213.80 POINTS, OR 0.82 PERCENT, AT 26,295.53 AFTER MARKET OPEN S&P 500 UP 65.32 POINTS, OR 0.86 PERCENT, AT 7,657.02 AFTER MARKET OPEN DOW JONES UP 539.30 POINTS, OR 1.04 PERCENT, AT 52,603.40 AFTER MARKET OPEN
 - 09/11 22:32 [financialjuice] Chevron: We still see oil price risks to the upside due to Hormuz. $CVX

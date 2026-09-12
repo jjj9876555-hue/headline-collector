@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 22:15 JST／対象: 09/12 10:15 〜 09/12 22:15 JST（時刻はすべて日本時間）
+生成: 2026-09-12 22:30 JST／対象: 09/12 10:30 〜 09/12 22:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/12 16:41 | 09/12 21:56 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 146 | 09/12 10:16 | 09/12 21:53 | ⚠ 114分（16:00→17:55） |
+| FirstSquawk | 139 | 09/12 10:31 | 09/12 21:53 | ⚠ 114分（16:00→17:55） |
 | financialjuice | 38 | 09/12 13:03 | 09/12 21:56 | ⚠ 126分（13:04→15:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 204 行（統合前 206 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 197 行（統合前 199 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 10:16 [FirstSquawk] AI losses prompt JPMorgan to cut off situational-awareness lending.
-- 09/12 10:19 [FirstSquawk] Pyongyang launches an unidentified projectile toward waters off South Korea.
-- 09/12 10:20 [FirstSquawk] Atreides Management taps Lone Pine co-CIO Kelly Granat.
-- 09/12 10:21 [FirstSquawk] The U.S. Commerce Department has finalized higher duties on solar imports from India, Indonesia and Laos - Reuters
-- 09/12 10:23 [FirstSquawk] Italy retains its ‘BBB+’ sovereign rating as Fitch holds the outlook steady.
-- 09/12 10:23 [FirstSquawk] Slovenia retains its ‘A+’ rating as Fitch maintains a stable outlook.
-- 09/12 10:29 [FirstSquawk] GCC chief urges Iraq to take decisive steps to stop attacks.
 - 09/12 10:31 [FirstSquawk] Pham Nhat Vuong set to exit as VinFast chief executive.
 - 09/12 10:31 [FirstSquawk] Pham Nhat Quan Anh to take over as VinFast’s global chief executive.
 - 09/12 10:35 [FirstSquawk] Pyongyang fired an unidentified projectile in the direction of the East Sea, according to Yonhap.
