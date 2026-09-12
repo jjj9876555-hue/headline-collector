@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 12:16 JST／対象: 09/12 06:16 〜 09/12 12:16 JST（時刻はすべて日本時間）
+生成: 2026-09-12 12:33 JST／対象: 09/12 06:33 〜 09/12 12:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 83 | 09/12 09:02 | 09/12 12:15 | 13分（11:26→11:40） |
-| financialjuice | 20 | 09/12 06:22 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
+| FirstSquawk | 85 | 09/12 09:02 | 09/12 12:29 | 13分（11:26→11:40） |
+| financialjuice | 15 | 09/12 06:50 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 103 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 100 行（統合前 100 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 06:22 [financialjuice] Putin: will not comment on election in Saxony-Anhalt, purely internal German affair
-- 09/12 06:22 [financialjuice] Putin: current events in Europe result of systemic mistakes by Western globalists
-- 09/12 06:22 [financialjuice] Putin: Ukraine conflict triggered by western elites pressuring Russia, aiming to pull Ukraine into NATO
-- 09/12 06:22 [financialjuice] Saudi civil defence: early warning issued in Khamis Mushait to signal possible threat
-- 09/12 06:33 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait
 - 09/12 06:50 [financialjuice] Iraqi military commander removed after probe confirms drone attacks on Saudi Arabia came from Iraq: Iraqi PM office
 - 09/12 07:48 [financialjuice] AI startup Discovery Loop targets valuation near $50 billion - Business Insider
 - 09/12 07:58 [financialjuice] Nvidia expected to lead Anthropic IPO, sources say
@@ -127,3 +122,5 @@
 - 09/12 12:04 [FirstSquawk] Banco Master case files cleared for release in Brazil, excluding documents that could affect active investigations.
 - 09/12 12:11 [FirstSquawk] China played a pivotal role in Tesla’s rise into a worldwide EV leader. But the automaker now finds itself caught in the growing strategic rivalry between Beijing’s ambitions and Washington’s national security concerns.
 - 09/12 12:15 [FirstSquawk] Canada secures Dominican approval for beef and beef-product imports, covering cattle of all ages.
+- 09/12 12:21 [FirstSquawk] Fed rate bets put pressure on AUD/USD as the pair struggles past the Doji high.
+- 09/12 12:29 [FirstSquawk] GSK plans to shut down flu vaccine production in Dresden by summer 2027.

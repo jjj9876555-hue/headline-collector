@@ -1,5 +1,5 @@
 {
- "run_utc": "2026-09-12T03:16:52+00:00",
+ "run_utc": "2026-09-12T03:33:30+00:00",
  "sources": {
   "tg:WalterBloomberg": {
    "ok": true,
@@ -11,9 +11,9 @@
   "tg:firstsquaw": {
    "ok": true,
    "fetched": 20,
-   "new": 3,
-   "oldest_jst": "2026-09-12 10:52",
-   "newest_jst": "2026-09-12 12:15"
+   "new": 2,
+   "oldest_jst": "2026-09-12 10:58",
+   "newest_jst": "2026-09-12 12:29"
   },
   "tg:FinancialJuice": {
    "ok": true,

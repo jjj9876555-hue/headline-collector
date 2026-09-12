@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 12:16 JST／対象: 09/12 00:16 〜 09/12 12:16 JST（時刻はすべて日本時間）
+生成: 2026-09-12 12:33 JST／対象: 09/12 00:33 〜 09/12 12:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
-| FirstSquawk | 128 | 09/12 00:31 | 09/12 12:15 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 81 | 09/12 00:19 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
+| FirstSquawk | 128 | 09/12 01:04 | 09/12 12:29 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 79 | 09/12 00:52 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 210 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 208 行（統合前 210 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 00:19 [financialjuice] The House plans to vote on a Russia sanctions bill next week - Person Familiar.
-- 09/12 00:26 [financialjuice] Tesla: Semi truck is coming to Europe - X Post. $TSLA
-- 09/12 00:31 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.35%; GERMANY'S DAX UP 0.77%
-- 09/12 00:31 [FirstSquawk] FRANCE'S CAC 40 UP 0.74%; SPAIN'S IBEX UP 0.86%
 - 09/12 00:52 [financialjuice] IIF: China equities see $3.5 bln outflow in August, China debt draws $0.2 bln inflow.
 - 09/12 00:58 [financialjuice] US CENTCOM: Admiral Cooper is in Saudi Arabia for meetings and coordination regarding the recent Houthi advances in Yemen - Al Jazeera source.
 - 09/12 01:00 [financialjuice] WASDE SOYBEAN END STOCKS ACTUAL 310M (FORECAST 298.5M, PREVIOUS 320M) $MACRO
@@ -234,3 +230,5 @@
 - 09/12 12:04 [FirstSquawk] Banco Master case files cleared for release in Brazil, excluding documents that could affect active investigations.
 - 09/12 12:11 [FirstSquawk] China played a pivotal role in Tesla’s rise into a worldwide EV leader. But the automaker now finds itself caught in the growing strategic rivalry between Beijing’s ambitions and Washington’s national security concerns.
 - 09/12 12:15 [FirstSquawk] Canada secures Dominican approval for beef and beef-product imports, covering cattle of all ages.
+- 09/12 12:21 [FirstSquawk] Fed rate bets put pressure on AUD/USD as the pair struggles past the Doji high.
+- 09/12 12:29 [FirstSquawk] GSK plans to shut down flu vaccine production in Dresden by summer 2027.
