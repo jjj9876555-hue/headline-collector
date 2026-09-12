@@ -7,40 +7,28 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 23:53 JST／対象: 09/12 17:53 〜 09/12 23:53 JST（時刻はすべて日本時間）
+生成: 2026-09-13 00:15 JST／対象: 09/12 18:15 〜 09/13 00:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/12 18:07 | 09/12 23:04 | ⚠ 78分（19:04→20:23） |
-| FirstSquawk | 98 | 09/12 17:55 | 09/12 23:21 | 45分（21:53→22:38） |
-| financialjuice | 39 | 09/12 18:00 | 09/12 23:09 | ⚠ 57分（18:57→19:55） |
+| DeItaone | 21 | 09/12 18:22 | 09/13 00:09 | ⚠ 78分（19:04→20:23） |
+| FirstSquawk | 97 | 09/12 18:15 | 09/12 23:59 | 45分（21:53→22:38） |
+| financialjuice | 38 | 09/12 18:44 | 09/12 23:09 | ⚠ 57分（18:57→19:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 158 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 155 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 17:55 [FirstSquawk] Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace
-- 09/12 17:55 [FirstSquawk] Trump: If China wanted to come in and open a plant to build their cars here, I would be okay with it. Japan does it. But they hire our people. The big thing is they hire our people. In fact, they use our people.
-- 09/12 17:55 [FirstSquawk] Drones struck Taganrog's military airbase and key chemical plants in Tolyatti, including KuibyshevAzot and Tolyattikauchuk. Fires erupted across multiple Russian defense-industrial facilities.
-- 09/12 17:55 [FirstSquawk] Iraqi Speaker of Parliament: Confining arms to the hands of the state prevents the country from being dragged into regional conflicts
-- 09/12 17:56 [FirstSquawk] Zelensky: There is no army like Ukraine’s in Europe right now. Of course, for now — Europe is developing and will receive information, technologies, and experience from us through partnership. But there is no such army anywhere in Europe.
-- 09/12 17:56 [FirstSquawk] India-China relations, from conflict to cautious
-- 09/12 17:57 [FirstSquawk] Mohammadreza Mohseni-Sani, a member of parliament's National Security and Foreign Policy Committee, said Iran no longer regarded itself as bound by the Nuclear Non-Proliferation Treaty and could reconsider its uranium enrichment policy. "As…
-- 09/12 17:57 [FirstSquawk] Iran President says supreme leader Mojtaba Khamenei is alive and the U.S. can’t locate him.
-- 09/12 17:58 [FirstSquawk] Chinese company Huawei Technologies has developed a large language model trained on regional history, used for generating tourism content
-- 09/12 18:00 [financialjuice] Trump on Iran: everything will resolve smoothly
-- 09/12 18:07 [DeItaone/FirstSquawk] TRUMP ON IRAN: EVERYTHING WILL WORK OUT FINE
-- 09/12 18:09 [DeItaone] BRICS AGREES JOINT DECLARATION AMID IRAN WAR BRICS members have agreed on a joint declaration condemning unilateral war by any country, four sources told Reuters, though the statement is unlikely to name specific nations. The agreement foll…
-- 09/12 18:14 [DeItaone] LAGARDE STEPS INTO FRANCE’S PRESIDENTIAL SPOTLIGHT ECB President Christine Lagarde is set to speak at a political gathering in Normandy Saturday, fueling speculation she could leave the central bank before her term expires in 2027. The appe…
 - 09/12 18:15 [FirstSquawk] Russian President Vladimir Putin said Europe’s current problems are the result of what he described as “systemic mistakes” by the West’s globalists in politics, security and the economy. Putin said Western elites felt they were at the “top …
 - 09/12 18:16 [FirstSquawk] Iran has moved from a defensive to an offensive military strategy, lawmaker Esmail Kowsari, a member of parliament's National Security and Foreign Policy Committee, told Defa Press on Saturday.
 - 09/12 18:16 [FirstSquawk] Tesla and the Musks 'Chinamaxx' as rumors swirl over EV maker's plans
 - 09/12 18:22 [DeItaone] BANKS RAISE CORE PCE FORECASTS AFTER CPI Wall Street economists have raised their August core PCE estimates following the latest CPI data, with forecasts now clustering in the high 0.20% range and several banks seeing 0.30% or higher. *Barc…
+- 09/12 18:38 [FirstSquawk] TRUMP ON IRAN: EVERYTHING WILL WORK OUT FINE
 - 09/12 18:42 [FirstSquawk] FORD IS RECALLING 223,472 VEHICLES IN THE U.S., ACCORDING TO NHTSA.
 - 09/12 18:42 [FirstSquawk] FORD IS RECALLING U.S. CARS DUE TO A DETACHED FUEL TANK THAT MIGHT CREATE ROAD HAZARDS, HIKING THE CRASH RISK. A FUEL LEAK COULD ALSO RESULT IN ENGINE FAILURE OR FIRE RISKS. - NHTSA
 - 09/12 18:44 [financialjuice] Trump: U.S. and Ireland collaborate very successfully
@@ -182,3 +170,12 @@
 - 09/12 23:21 [FirstSquawk] MODI STRESSES THE IMPORTANCE OF BOTH SIDES FOLLOWING CURRENT BORDER AGREEMENTS.
 - 09/12 23:21 [FirstSquawk] ANTHROPIC'S AMODEI PUBLISHES NEW LETTER REGARDING AI SAFETY.
 - 09/12 23:21 [FirstSquawk] ANTHROPIC CEO STRESSED THE IMPORTANCE OF SLOWING DOWN AI MODEL ADVANCEMENTS.
+- 09/12 23:57 [FirstSquawk] IRAN SAYS HORMUZ DEAL DOES NOT PROMISE SAFE SHIPPING PASSAGE.
+- 09/12 23:57 [FirstSquawk] IRAN STATES IT HAS NO ISSUES WITH THE UAE BUT HAS CONCERNS ABOUT US MILITARY BASES IN NEARBY NATIONS.
+- 09/12 23:57 [FirstSquawk] IRAN DENIES CLAIMS ABOUT PURSUING A NUCLEAR BOMB, CALLING IT "JUST PROPAGANDA."
+- 09/12 23:58 [FirstSquawk] IRAN'S PEZESHKIAN STATES THAT THE COUNTRY IS NOT LOOKING FOR CONFLICT.
+- 09/12 23:58 [FirstSquawk] XI JINPING INFORMED MODI THAT CHINA AND INDIA SHOULD VIEW EACH OTHER AS PARTNERS RATHER THAN RIVALS, ACCORDING TO XINHUA.
+- 09/12 23:58 [FirstSquawk] XI PROMOTES A FAIR SOLUTION TO TRADE ISSUES WITH INDIA.
+- 09/12 23:58 [FirstSquawk] PEZESHKIAN SAYS US SHOULD CEASE BULLYING TACTICS IN COMMUNICATION.
+- 09/12 23:59 [FirstSquawk] PEZESHKIAN STATES NO DECISION HAS BEEN MADE REGARDING DIRECT TALKS WITH THE US, AND A TRUSTING ENVIRONMENT MUST BE CREATED.
+- 09/13 00:09 [DeItaone] IRAN, UAE BACK BRICS CALL FOR RESTRAINT Iran and the UAE jointly backed a BRICS declaration calling for maximum restraint in the Middle East war, marking a notable diplomatic step between the two sides. Iranian President Masoud Pezeshkian a…

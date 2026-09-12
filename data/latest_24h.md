@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 23:53 JST／対象: 09/11 23:53 〜 09/12 23:53 JST（時刻はすべて日本時間）
+生成: 2026-09-13 00:15 JST／対象: 09/12 00:15 〜 09/13 00:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 25 | 09/12 04:10 | 09/12 23:04 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 254 | 09/11 23:55 | 09/12 23:21 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 136 | 09/12 00:01 | 09/12 23:09 | ⚠ 170分（10:12→13:03） |
+| DeItaone | 26 | 09/12 04:10 | 09/13 00:09 | ⚠ 751分（04:10→16:41） |
+| FirstSquawk | 260 | 09/12 00:31 | 09/12 23:59 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 134 | 09/12 00:19 | 09/12 23:09 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 413 行（統合前 417 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 418 行（統合前 422 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 23:55 [FirstSquawk] INDIA PM MODI MET WITH PEZESHKIAN AND EMPHASIZED THE IMPORTANCE OF PERSISTENT EFFORTS FOR LASTING PEACE AND STABILITY IN THE REGION, SAID INDIA'S FOREIGN MINISTRY.
-- 09/11 23:55 [FirstSquawk] INDIA'S PM MODI MET WITH IRAN'S PEZESHKIAN, EMPHASIZING THE IMPORTANCE OF SAFEGUARDING NAVIGATION AND TRADE, AS WELL AS THE SAFETY AND WELL-BEING OF SAILORS.
-- 09/12 00:01 [financialjuice] QatarEnergy Seeks Multi-Year LNG Supply Deals as Ras Laffan Repairs Seen Taking 3-5 Years
-- 09/12 00:12 [financialjuice] IDF: In the coming hours, attacks are expected in Lebanon, and explosions will be heard in the Western Galilee - Israel's N12 News.
 - 09/12 00:19 [financialjuice] The House plans to vote on a Russia sanctions bill next week - Person Familiar.
 - 09/12 00:26 [financialjuice] Tesla: Semi truck is coming to Europe - X Post. $TSLA
 - 09/12 00:31 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.35%; GERMANY'S DAX UP 0.77%
@@ -437,3 +433,12 @@
 - 09/12 23:21 [FirstSquawk] MODI STRESSES THE IMPORTANCE OF BOTH SIDES FOLLOWING CURRENT BORDER AGREEMENTS.
 - 09/12 23:21 [FirstSquawk] ANTHROPIC'S AMODEI PUBLISHES NEW LETTER REGARDING AI SAFETY.
 - 09/12 23:21 [FirstSquawk] ANTHROPIC CEO STRESSED THE IMPORTANCE OF SLOWING DOWN AI MODEL ADVANCEMENTS.
+- 09/12 23:57 [FirstSquawk] IRAN SAYS HORMUZ DEAL DOES NOT PROMISE SAFE SHIPPING PASSAGE.
+- 09/12 23:57 [FirstSquawk] IRAN STATES IT HAS NO ISSUES WITH THE UAE BUT HAS CONCERNS ABOUT US MILITARY BASES IN NEARBY NATIONS.
+- 09/12 23:57 [FirstSquawk] IRAN DENIES CLAIMS ABOUT PURSUING A NUCLEAR BOMB, CALLING IT "JUST PROPAGANDA."
+- 09/12 23:58 [FirstSquawk] IRAN'S PEZESHKIAN STATES THAT THE COUNTRY IS NOT LOOKING FOR CONFLICT.
+- 09/12 23:58 [FirstSquawk] XI JINPING INFORMED MODI THAT CHINA AND INDIA SHOULD VIEW EACH OTHER AS PARTNERS RATHER THAN RIVALS, ACCORDING TO XINHUA.
+- 09/12 23:58 [FirstSquawk] XI PROMOTES A FAIR SOLUTION TO TRADE ISSUES WITH INDIA.
+- 09/12 23:58 [FirstSquawk] PEZESHKIAN SAYS US SHOULD CEASE BULLYING TACTICS IN COMMUNICATION.
+- 09/12 23:59 [FirstSquawk] PEZESHKIAN STATES NO DECISION HAS BEEN MADE REGARDING DIRECT TALKS WITH THE US, AND A TRUSTING ENVIRONMENT MUST BE CREATED.
+- 09/13 00:09 [DeItaone] IRAN, UAE BACK BRICS CALL FOR RESTRAINT Iran and the UAE jointly backed a BRICS declaration calling for maximum restraint in the Middle East war, marking a notable diplomatic step between the two sides. Iranian President Masoud Pezeshkian a…
