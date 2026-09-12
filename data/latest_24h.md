@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 05:04 JST／対象: 09/12 05:04 〜 09/13 05:04 JST（時刻はすべて日本時間）
+生成: 2026-09-13 05:24 JST／対象: 09/12 05:24 〜 09/13 05:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
 | FirstSquawk | 245 | 09/12 09:02 | 09/13 03:29 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 112 | 09/12 05:05 | 09/13 03:58 | ⚠ 170分（10:12→13:03） |
+| financialjuice | 104 | 09/12 05:25 | 09/13 05:05 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 381 行（統合前 385 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 373 行（統合前 377 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 05:05 [financialjuice] Week Ahead: Economic Indicators 14th – 18th September (US)
-- 09/12 05:07 [financialjuice] US Sec. of Defense Hegseth to meet German Defense Minister Pistorius September 15th
-- 09/12 05:09 [financialjuice] Saudi Foreign Ministry: We chose not to retaliate at this stage following a request from Iraq's PM - statement
-- 09/12 05:09 [financialjuice] S&P: Forecast 2027 Saudi oil production to rise, but, production will remain well below its reported highest-feasible production capacity of 12.3 MBPD.
-- 09/12 05:16 [financialjuice] Anthropic looks to provide a list of wealth advisers to staff. Goldman, BofA vie to manage anthropic staffers’ IPO millions
-- 09/12 05:17 [financialjuice] Wells Fargo, JPM, BNY also pitching wealth services to AI giant.
-- 09/12 05:17 [financialjuice] US bank deposits rose to $19.566 trln from $19.559 trln in prior week.
-- 09/12 05:23 [financialjuice] Iraq appreciates Saudi Arabia's decision to hold off on retaliation - State Media.
-- 09/12 05:24 [financialjuice] Iraq rejects any attack that threatens Saudi security and stability - State Media.
 - 09/12 05:25 [financialjuice] The Iraqi PM has ordered an investigation into the circumstances of the attacks and the parties behind them, and will work with allies and friends to prevent a recurrence of such attacks - State Media.
 - 09/12 05:36 [financialjuice] North Korea launched ballistic missile - Yonhap
 - 09/12 05:37 [financialjuice] North Korea launched unidentified projectile - Yonhap
@@ -405,3 +396,4 @@
 - 09/13 03:29 [FirstSquawk] UK foreign secretary Ed Miliband Says discussed Houthi aggression in Yemen and attacks on Saudi Arabia with Saudi foreign minister
 - 09/13 03:57 [financialjuice] Projectile wounds two in Saudi Arabia's Jizan: Saudi civil defence
 - 09/13 03:58 [financialjuice] Projectile from Yemen's Houthis causes material damage to mosque, buildings, vehicles: Saudi civil defence
+- 09/13 05:05 [financialjuice] ECB releases media interview with Quest-France

@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 05:04 JST／対象: 09/12 23:04 〜 09/13 05:04 JST（時刻はすべて日本時間）
+生成: 2026-09-13 05:24 JST／対象: 09/12 23:24 〜 09/13 05:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/13 00:09 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
-| FirstSquawk | 49 | 09/12 23:19 | 09/13 03:29 | 42分（02:14→02:57） |
-| financialjuice | 28 | 09/12 23:05 | 09/13 03:58 | ⚠ 73分（00:19→01:32） |
+| FirstSquawk | 38 | 09/12 23:57 | 09/13 03:29 | 42分（02:14→02:57） |
+| financialjuice | 23 | 09/13 00:19 | 09/13 05:05 | ⚠ 73分（00:19→01:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 79 行（統合前 80 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 63 行（統合前 64 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 23:05 [financialjuice] Anthropic's Dario Amodei: proposing a three-step strategy to pace the frontier
-- 09/12 23:06 [financialjuice] Anthropic’s Dario Amodei: proposing developing AI at a measured pace to ensure safety
-- 09/12 23:07 [financialjuice] Anthropic's Amodei: pacing means not halting model training or technical progress, ensuring companies take adequate time to align and safeguard models
-- 09/12 23:08 [financialjuice] Anthropic's Amodei proposes each leading AI company provide continuous, employee-level access to embedded third-party evaluators
-- 09/12 23:09 [financialjuice] Anthropic's Amodei: US and other democratic governments should try to coordinate with others
-- 09/12 23:09 [financialjuice] Anthropic’s Amodei: Proposes frontier AI firms in democratic nations coordinate to set joint safety standards
-- 09/12 23:19 [FirstSquawk] INDIA AND CHINA REPORT POSITIVE ADVANCEMENTS IN THEIR RELATIONSHIP.
-- 09/12 23:19 [FirstSquawk] INDIA ISSUES JOINT STATEMENT FOLLOWING MEETING BETWEEN XI AND MODI.
-- 09/12 23:19 [FirstSquawk] XI AND MODI AGREE TO FIND A BORDER SOLUTION THAT BOTH SIDES ACCEPT.
-- 09/12 23:20 [FirstSquawk] PEACE BETWEEN INDIA AND CHINA AT THE BORDER IS CRUCIAL FOR DEVELOPMENT.
-- 09/12 23:20 [FirstSquawk] XI AND MODI HAVE DECIDED TO ADDRESS EACH OTHER'S TRADE CONCERNS.
-- 09/12 23:20 [FirstSquawk] XI AND MODI DISCUSS SOLUTIONS FOR SUPPLY CHAIN ISSUES.
-- 09/12 23:20 [FirstSquawk] XI AND MODI PLAN TO CREATE STABLE MARKET ACCESS.
-- 09/12 23:20 [FirstSquawk] IRAN WILL UPDATE GULF COUNTRIES ON THE HORMUZ SHIPPING DEAL THIS MONDAY.
-- 09/12 23:21 [FirstSquawk] MODI STRESSES THE IMPORTANCE OF BOTH SIDES FOLLOWING CURRENT BORDER AGREEMENTS.
-- 09/12 23:21 [FirstSquawk] ANTHROPIC'S AMODEI PUBLISHES NEW LETTER REGARDING AI SAFETY.
-- 09/12 23:21 [FirstSquawk] ANTHROPIC CEO STRESSED THE IMPORTANCE OF SLOWING DOWN AI MODEL ADVANCEMENTS.
 - 09/12 23:57 [FirstSquawk] IRAN SAYS HORMUZ DEAL DOES NOT PROMISE SAFE SHIPPING PASSAGE.
 - 09/12 23:57 [FirstSquawk] IRAN STATES IT HAS NO ISSUES WITH THE UAE BUT HAS CONCERNS ABOUT US MILITARY BASES IN NEARBY NATIONS.
 - 09/12 23:57 [FirstSquawk] IRAN DENIES CLAIMS ABOUT PURSUING A NUCLEAR BOMB, CALLING IT "JUST PROPAGANDA."
@@ -103,3 +86,4 @@
 - 09/13 03:29 [FirstSquawk] UK foreign secretary Ed Miliband Says discussed Houthi aggression in Yemen and attacks on Saudi Arabia with Saudi foreign minister
 - 09/13 03:57 [financialjuice] Projectile wounds two in Saudi Arabia's Jizan: Saudi civil defence
 - 09/13 03:58 [financialjuice] Projectile from Yemen's Houthis causes material damage to mosque, buildings, vehicles: Saudi civil defence
+- 09/13 05:05 [financialjuice] ECB releases media interview with Quest-France

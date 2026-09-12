@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 05:04 JST／対象: 09/12 17:04 〜 09/13 05:04 JST（時刻はすべて日本時間）
+生成: 2026-09-13 05:24 JST／対象: 09/12 17:24 〜 09/13 05:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 26 | 09/12 18:07 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
 | FirstSquawk | 136 | 09/12 17:55 | 09/13 03:29 | 45分（21:53→22:38） |
-| financialjuice | 62 | 09/12 17:36 | 09/13 03:58 | ⚠ 73分（00:19→01:32） |
+| financialjuice | 63 | 09/12 17:36 | 09/13 05:05 | ⚠ 73分（00:19→01:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 221 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 222 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -245,3 +245,4 @@
 - 09/13 03:29 [FirstSquawk] UK foreign secretary Ed Miliband Says discussed Houthi aggression in Yemen and attacks on Saudi Arabia with Saudi foreign minister
 - 09/13 03:57 [financialjuice] Projectile wounds two in Saudi Arabia's Jizan: Saudi civil defence
 - 09/13 03:58 [financialjuice] Projectile from Yemen's Houthis causes material damage to mosque, buildings, vehicles: Saudi civil defence
+- 09/13 05:05 [financialjuice] ECB releases media interview with Quest-France
