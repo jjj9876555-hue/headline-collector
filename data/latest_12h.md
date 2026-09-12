@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 22:52 JST／対象: 09/12 10:52 〜 09/12 22:52 JST（時刻はすべて日本時間）
+生成: 2026-09-12 23:05 JST／対象: 09/12 11:05 〜 09/12 23:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/12 16:41 | 09/12 22:49 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 132 | 09/12 10:54 | 09/12 22:39 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 46 | 09/12 13:03 | 09/12 22:48 | ⚠ 126分（13:04→15:10） |
+| DeItaone | 24 | 09/12 16:41 | 09/12 23:04 | ⚠ 86分（16:41→18:07） |
+| FirstSquawk | 127 | 09/12 11:10 | 09/12 22:39 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 48 | 09/12 13:03 | 09/12 23:05 | ⚠ 126分（13:04→15:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 199 行（統合前 201 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 197 行（統合前 199 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 10:54 [FirstSquawk] Waymo Self-Driving Cars Reportedly 9x Safer Than Human Drivers as per polymarket. An analysis of 25.3 million autonomous miles found Waymo vehicles were roughly 900% safer than human drivers.
-- 09/12 10:58 [FirstSquawk] SERENA-4 trial of AstraZeneca’s etcamah combination falls short of its primary endpoint, with no new safety concerns.
-- 09/12 11:02 [FirstSquawk] S&P Sees Saudi Oil Output Rising in 2027, But Below 12.3 Mln Bpd Capacity S&P expects Saudi Arabia’s oil production to increase in 2027, though output is projected to remain well below the kingdom’s reported maximum feasible capacity of 12.…
-- 09/12 11:04 [FirstSquawk] U.S. STUDENT DEBT EXPLODES TO $1.86 TRILLION
-- 09/12 11:04 [FirstSquawk] Riyadh pauses plans for retaliation after Iraq PM urges restraint, Saudi foreign ministry says.
 - 09/12 11:10 [FirstSquawk] Riyadh says it retains the option to take any measures needed to protect its territory, security and residents.
 - 09/12 11:11 [FirstSquawk] S&P: Saudi Arabia’s Energy Infrastructure Helps Cushion Middle East Conflict Impact S&P says Saudi Arabia’s diversified energy export network, combined with elevated oil prices, is helping the kingdom withstand economic pressures stemming f…
 - 09/12 11:13 [FirstSquawk] US TAX BRACKETS SET TO RISE 3.2% IN 2027 — AMERICANS CAN EARN MORE BEFORE HIGHER TAX RATES KICK IN
@@ -223,3 +218,6 @@
 - 09/12 22:46 [financialjuice] Modi, Xi highlight need to address concerns including trade imbalance, supply chain issues, and predictable market access: India foreign minister
 - 09/12 22:48 [financialjuice] Iraq's Al-Tayyib border area with Iran closed after drone launch sites found: two Iraqi military sources
 - 09/12 22:49 [DeItaone] IRAN-GULF TALKS UNLIKELY TO PRODUCE HORMUZ DEAL Monday’s meeting between Iran and Gulf states in Oman is not expected to produce a signed agreement on the Strait of Hormuz, a senior Iranian official told Reuters. Tehran still wants the righ…
+- 09/12 23:04 [financialjuice] Anthropic’s Dario Amodei: We must slow the pace of improving AI model capabilities
+- 09/12 23:04 [DeItaone] ANTHROPIC'S DARIO AMODEI: WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE CAPABILITIES OF AI MODELS
+- 09/12 23:05 [financialjuice] Anthropic's Dario Amodei: proposing a three-step strategy to pace the frontier

@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 22:52 JST／対象: 09/12 16:52 〜 09/12 22:52 JST（時刻はすべて日本時間）
+生成: 2026-09-12 23:05 JST／対象: 09/12 17:05 〜 09/12 23:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/12 18:07 | 09/12 22:49 | ⚠ 78分（19:04→20:23） |
+| DeItaone | 23 | 09/12 18:07 | 09/12 23:04 | ⚠ 78分（19:04→20:23） |
 | FirstSquawk | 87 | 09/12 17:55 | 09/12 22:39 | 45分（21:53→22:38） |
-| financialjuice | 33 | 09/12 17:36 | 09/12 22:48 | ⚠ 57分（18:57→19:55） |
+| financialjuice | 35 | 09/12 17:36 | 09/12 23:05 | ⚠ 57分（18:57→19:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 140 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -164,3 +164,6 @@
 - 09/12 22:46 [financialjuice] Modi, Xi highlight need to address concerns including trade imbalance, supply chain issues, and predictable market access: India foreign minister
 - 09/12 22:48 [financialjuice] Iraq's Al-Tayyib border area with Iran closed after drone launch sites found: two Iraqi military sources
 - 09/12 22:49 [DeItaone] IRAN-GULF TALKS UNLIKELY TO PRODUCE HORMUZ DEAL Monday’s meeting between Iran and Gulf states in Oman is not expected to produce a signed agreement on the Strait of Hormuz, a senior Iranian official told Reuters. Tehran still wants the righ…
+- 09/12 23:04 [financialjuice] Anthropic’s Dario Amodei: We must slow the pace of improving AI model capabilities
+- 09/12 23:04 [DeItaone] ANTHROPIC'S DARIO AMODEI: WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE CAPABILITIES OF AI MODELS
+- 09/12 23:05 [financialjuice] Anthropic's Dario Amodei: proposing a three-step strategy to pace the frontier

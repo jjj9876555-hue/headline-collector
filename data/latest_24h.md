@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 22:52 JST／対象: 09/11 22:52 〜 09/12 22:52 JST（時刻はすべて日本時間）
+生成: 2026-09-12 23:05 JST／対象: 09/11 23:05 〜 09/12 23:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 09/11 22:55 | 09/12 22:49 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 251 | 09/11 22:53 | 09/12 22:39 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 144 | 09/11 22:54 | 09/12 22:48 | ⚠ 170分（10:12→13:03） |
+| DeItaone | 25 | 09/12 04:10 | 09/12 23:04 | ⚠ 751分（04:10→16:41） |
+| FirstSquawk | 245 | 09/11 23:23 | 09/12 22:39 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 137 | 09/11 23:18 | 09/12 23:05 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 420 行（統合前 424 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 405 行（統合前 409 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 22:53 [FirstSquawk] HASSETT SAYS RECONCILIATION CAN ENABLE $5,000 PAYMENTS UNDER TRUMP, MAINTAINING FISCAL RESPONSIBILITY.
-- 09/11 22:53 [FirstSquawk] SPOT GOLD RISES ALMOST 2% TO $4,400.09 PER OUNCE.
-- 09/11 22:53 [FirstSquawk] HASSETT SAYS TRUMP IS COMMITTED TO THE $5,000 PLAN.
-- 09/11 22:53 [FirstSquawk] HASSETT SAYS $5,000 CHECKS CAN BE COMBINED WITH FISCAL RESPONSIBILITY.
-- 09/11 22:54 [financialjuice] ECB's President Lagarde speaks live
-- 09/11 22:55 [DeItaone] HASSETT SAYS INFLATION IS “CLEARLY DECELERATING” White House economic adviser Kevin Hassett says inflation has clearly slowed over the past three months, while stressing that the Fed’s independence should be respected. Hassett added that Tr…
-- 09/11 22:55 [financialjuice] WH Sr. Adviser Hassett: An offset to the $5,000 checks would need to be negotiated.
-- 09/11 22:57 [financialjuice] ❗ TD changes Fed call to hikes from September vs cuts previously
-- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION PRELIM ACTUAL 4.6% (FORECAST 4.2%, PREVIOUS 4.0%) $MACRO
-- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN 5 YR INFLATION PRELIM ACTUAL 3.4% (FORECAST 3.3%, PREVIOUS 3.3%) $MACRO
-- 09/11 23:00 [DeItaone] *UMICH 1-YR INFLATION EXPECTATIONS RISE TO 4.6% FROM 4.0%
-- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN CONDITION PRELIM ACTUAL 50.9 (FORECAST 51.3, PREVIOUS 51.9) $MACRO
-- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS PRELIM ACTUAL 45.8 (FORECAST 51, PREVIOUS 51.5) $MACRO
-- 09/11 23:00 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT PRELIM ACTUAL 47.8 (FORECAST 51, PREVIOUS 51.7) $MACRO
-- 09/11 23:00 [DeItaone] *UMICH PRELIM. SEPT. CONSUMER SENTIMENT FALLS TO 47.8; EST. 51
-- 09/11 23:00 [FirstSquawk] U.S. UMICH SEPTEMBER CONSUMER SENTIMENT DROPS TO 47.8, LOWER THAN ESTIMATED 51.
-- 09/11 23:00 [financialjuice] University of Michigan Sentiment September Prelim Report
-- 09/11 23:00 [FirstSquawk] U.S. UMICH 1-YEAR INFLATION EXPECTATIONS INCREASE TO 4.6% FROM 4.0%.
 - 09/11 23:18 [financialjuice] Fear and Greed Index: 36/100 = Fear
 - 09/11 23:18 [financialjuice] ECB's Lagarde: We are going to proceed meeting by meeting, using data to inform our coming decisions.
 - 09/11 23:19 [financialjuice] Crypto Fear and Greed Index: 56/100 = Greed
@@ -444,3 +426,6 @@
 - 09/12 22:46 [financialjuice] Modi, Xi highlight need to address concerns including trade imbalance, supply chain issues, and predictable market access: India foreign minister
 - 09/12 22:48 [financialjuice] Iraq's Al-Tayyib border area with Iran closed after drone launch sites found: two Iraqi military sources
 - 09/12 22:49 [DeItaone] IRAN-GULF TALKS UNLIKELY TO PRODUCE HORMUZ DEAL Monday’s meeting between Iran and Gulf states in Oman is not expected to produce a signed agreement on the Strait of Hormuz, a senior Iranian official told Reuters. Tehran still wants the righ…
+- 09/12 23:04 [financialjuice] Anthropic’s Dario Amodei: We must slow the pace of improving AI model capabilities
+- 09/12 23:04 [DeItaone] ANTHROPIC'S DARIO AMODEI: WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE CAPABILITIES OF AI MODELS
+- 09/12 23:05 [financialjuice] Anthropic's Dario Amodei: proposing a three-step strategy to pace the frontier
