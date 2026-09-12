@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 20:30 JST／対象: 09/12 14:30 〜 09/12 20:30 JST（時刻はすべて日本時間）
+生成: 2026-09-12 20:42 JST／対象: 09/12 14:42 〜 09/12 20:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 19 | 09/12 16:41 | 09/12 20:24 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 61 | 09/12 14:33 | 09/12 20:23 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 29 | 09/12 15:10 | 09/12 20:04 | ⚠ 112分（15:43→17:36） |
+| FirstSquawk | 60 | 09/12 14:46 | 09/12 20:23 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 30 | 09/12 15:10 | 09/12 20:35 | ⚠ 112分（15:43→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 107 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 14:33 [FirstSquawk] Japan Automakers to Overhaul Factory Schedules From FY2027 to Attract Workers — Kyodo Japanese automakers plan to redesign their factory operating calendars from fiscal 2027 as they seek to make manufacturing jobs more attractive and addres…
 - 09/12 14:46 [FirstSquawk] Egypt says any attack against Saudi Arabia constitutes a serious violation of international law.
 - 09/12 14:57 [FirstSquawk] South Korea Seeks U.S. Handover of Wartime Command Authority Under ‘No Added Conditions’ Principle South Korea’s defense minister nominee says Seoul aims to regain wartime operational control (OPCON) from the United States based on a “no ad…
 - 09/12 15:00 [FirstSquawk] Latin American Allies Throw Full Support Behind Trump’s Drug War - WSJ Latin American allies are stepping up cooperation with the Trump administration’s campaign against drug trafficking, signaling stronger regional backing for Washington’s…
@@ -131,3 +130,4 @@
 - 09/12 20:23 [DeItaone] IRAN PRESIDENT MEETS ABU DHABI CROWN PRINCE IN NEW DELHI - IRAN EMBASSY IN INDIA
 - 09/12 20:23 [FirstSquawk] TRUMP PROMOTES US MILITARY LASER WEAPONS AND COMPUTERIZED MACHINE GUNS.
 - 09/12 20:24 [DeItaone] MEXICO UNCOVERS SUSPECTED CARTEL-LINKED CRYPTO FARM Mexican authorities are investigating a clandestine crypto-mining operation in Puebla suspected of laundering illicit funds, Reuters reports, as organized crime increasingly expands into d…
+- 09/12 20:35 [financialjuice] Zelenskiy: Three killed, dozens injured in Russian strikes on 10 Ukrainian regions Saturday

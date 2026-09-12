@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 20:30 JST／対象: 09/12 08:30 〜 09/12 20:30 JST（時刻はすべて日本時間）
+生成: 2026-09-12 20:42 JST／対象: 09/12 08:42 〜 09/12 20:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 19 | 09/12 16:41 | 09/12 20:24 | ⚠ 86分（16:41→18:07） |
 | FirstSquawk | 165 | 09/12 09:02 | 09/12 20:23 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 39 | 09/12 08:31 | 09/12 20:04 | ⚠ 170分（10:12→13:03） |
+| financialjuice | 37 | 09/12 08:44 | 09/12 20:35 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 221 行（統合前 223 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 219 行（統合前 221 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 08:31 [financialjuice] Next round of Israel-Lebanon talks postponed: Axios
-- 09/12 08:35 [financialjuice] Iraq orders closure of Shalamcheh border crossing with Iran as precaution after latest attacks on Saudi Arabia: two security sources
-- 09/12 08:38 [financialjuice] South Korea's presidential office: North Korea's ballistic missile launch breaches U.N. Security Council resolutions, holds emergency security review meeting - Yonhap
 - 09/12 08:44 [financialjuice] Trump: if China wanted to establish a plant to manufacture cars here, I'd be fine with that
 - 09/12 08:47 [financialjuice] South Korea's national security council holds urgent security review after North Korea's short-range missile launch: presidential office
 - 09/12 09:00 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo senior notes due 2029 and 2031
@@ -245,3 +242,4 @@
 - 09/12 20:23 [DeItaone] IRAN PRESIDENT MEETS ABU DHABI CROWN PRINCE IN NEW DELHI - IRAN EMBASSY IN INDIA
 - 09/12 20:23 [FirstSquawk] TRUMP PROMOTES US MILITARY LASER WEAPONS AND COMPUTERIZED MACHINE GUNS.
 - 09/12 20:24 [DeItaone] MEXICO UNCOVERS SUSPECTED CARTEL-LINKED CRYPTO FARM Mexican authorities are investigating a clandestine crypto-mining operation in Puebla suspected of laundering illicit funds, Reuters reports, as organized crime increasingly expands into d…
+- 09/12 20:35 [financialjuice] Zelenskiy: Three killed, dozens injured in Russian strikes on 10 Ukrainian regions Saturday
