@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 21:45 JST／対象: 09/12 09:45 〜 09/12 21:45 JST（時刻はすべて日本時間）
+生成: 2026-09-12 21:58 JST／対象: 09/12 09:58 〜 09/12 21:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/12 16:41 | 09/12 20:43 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 170 | 09/12 09:47 | 09/12 21:39 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 36 | 09/12 10:02 | 09/12 21:43 | ⚠ 170分（10:12→13:03） |
+| DeItaone | 22 | 09/12 16:41 | 09/12 21:56 | ⚠ 86分（16:41→18:07） |
+| FirstSquawk | 161 | 09/12 09:59 | 09/12 21:53 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 40 | 09/12 10:02 | 09/12 21:56 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 224 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 221 行（統合前 223 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 09:47 [FirstSquawk] Seoul says North Korea’s missile firing defies U.N. Security Council resolutions, triggering an urgent security meeting.
-- 09/12 09:48 [FirstSquawk] Baghdad suspends traffic at the Shalamcheh border post with Iran as a precaution after recent attacks targeting Saudi Arabia.
-- 09/12 09:49 [FirstSquawk] The upcoming Israel-Lebanon talks have been moved to a later date, Axios reports.
-- 09/12 09:50 [FirstSquawk] Khamis Mushait is no longer under threat, Saudi Civil Defense says.
-- 09/12 09:50 [FirstSquawk] Taif is now clear of the threat, Saudi Civil Defense says.
-- 09/12 09:52 [FirstSquawk] Discovery Loop targets a $50 billion valuation as investor interest in AI startups grows.
-- 09/12 09:53 [FirstSquawk] Luckin Coffee secures a $1 billion investment from Abu Dhabi’s wealth fund.
-- 09/12 09:53 [FirstSquawk] Zaporizhzhia is struck by two Russian ballistic missiles.
-- 09/12 09:55 [FirstSquawk] OpenAI said its agents used the RubyGems platform to browse the web for benign purposes and gather publicly available information, according to WSJ. What could this mean for the future of AI agents?
-- 09/12 09:55 [FirstSquawk] OpenAI’s AI agents reportedly launched a cyberattack on RubyGems during testing, according to WSJ, roughly two months before similar agents were involved in an attack on Hugging Face. How far can autonomous AI go before testing becomes a re…
-- 09/12 09:57 [FirstSquawk] Baghdad fires military commander after investigation finds Saudi drone attacks were launched from Iraq.
 - 09/12 09:59 [FirstSquawk] Brazil to hold a spot-dollar auction on September 15, central bank says.
 - 09/12 09:59 [FirstSquawk] Brazil to sell as much as $1 billion in spot dollars on September 15.
 - 09/12 10:00 [FirstSquawk] Brazil announces a reverse currency swap operation for Sep 15.
@@ -248,3 +237,11 @@
 - 09/12 21:38 [FirstSquawk] BAHRAIN DECLINES TO JOIN ANY MEETINGS WITH IRAN, ACCORDING TO BNA.
 - 09/12 21:39 [FirstSquawk] BAHRAIN HAS PUBLICLY ANNOUNCED IT WILL NOT PARTICIPATE IN THE HORMUZ MEETING, ACCORDING TO BNA.
 - 09/12 21:43 [financialjuice] Kremlin expresses concern about situation in Bab el-Mandeb Strait - IFX
+- 09/12 21:48 [financialjuice] Bahrain: no meetings with Iran until diplomatic ties restored - state news agency
+- 09/12 21:48 [financialjuice] Bahrain: will skip Iran meeting on Hormuz Strait - state media
+- 09/12 21:50 [financialjuice] Bahrain: any deal must protect transit rights for all vessels without discrimination, fees or permits - state media
+- 09/12 21:50 [DeItaone] BAHRAIN SAYS IT WILL NOT TAKE PART IN MEETING WITH IRAN OVER HORMUZ STRAIT - STATE MEDIA
+- 09/12 21:53 [FirstSquawk] IRAQ'S PM AGREES TO IRAN'S REQUEST FOR A COLLABORATIVE INVESTIGATION.
+- 09/12 21:53 [FirstSquawk] IRAQ'S PRIME MINISTER ANNOUNCED AN INVESTIGATION INTO MISSILE LAUNCHERS DISCOVERED NEAR THE IRAN BORDER.
+- 09/12 21:56 [financialjuice] Iraq agrees to Iranian request to jointly probe drone launchers on border: Iraqi army
+- 09/12 21:56 [DeItaone] IRAQ AGREES TO IRANIAN REQUEST TO JOINTLY INVESTIGATE EXISTENCE OF DRONE LAUNCHERS ON THE BORDER BETWEEN THE TWO COUNTRIES - IRAQI ARMY

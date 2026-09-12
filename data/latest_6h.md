@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 21:45 JST／対象: 09/12 15:45 〜 09/12 21:45 JST（時刻はすべて日本時間）
+生成: 2026-09-12 21:58 JST／対象: 09/12 15:58 〜 09/12 21:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/12 16:41 | 09/12 20:43 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 81 | 09/12 16:00 | 09/12 21:39 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 21 | 09/12 17:36 | 09/12 21:43 | ⚠ 57分（18:57→19:55） |
+| DeItaone | 22 | 09/12 16:41 | 09/12 21:56 | ⚠ 86分（16:41→18:07） |
+| FirstSquawk | 83 | 09/12 16:00 | 09/12 21:53 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 25 | 09/12 17:36 | 09/12 21:56 | ⚠ 57分（18:57→19:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 128 行（統合前 130 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -144,3 +144,11 @@
 - 09/12 21:38 [FirstSquawk] BAHRAIN DECLINES TO JOIN ANY MEETINGS WITH IRAN, ACCORDING TO BNA.
 - 09/12 21:39 [FirstSquawk] BAHRAIN HAS PUBLICLY ANNOUNCED IT WILL NOT PARTICIPATE IN THE HORMUZ MEETING, ACCORDING TO BNA.
 - 09/12 21:43 [financialjuice] Kremlin expresses concern about situation in Bab el-Mandeb Strait - IFX
+- 09/12 21:48 [financialjuice] Bahrain: no meetings with Iran until diplomatic ties restored - state news agency
+- 09/12 21:48 [financialjuice] Bahrain: will skip Iran meeting on Hormuz Strait - state media
+- 09/12 21:50 [financialjuice] Bahrain: any deal must protect transit rights for all vessels without discrimination, fees or permits - state media
+- 09/12 21:50 [DeItaone] BAHRAIN SAYS IT WILL NOT TAKE PART IN MEETING WITH IRAN OVER HORMUZ STRAIT - STATE MEDIA
+- 09/12 21:53 [FirstSquawk] IRAQ'S PM AGREES TO IRAN'S REQUEST FOR A COLLABORATIVE INVESTIGATION.
+- 09/12 21:53 [FirstSquawk] IRAQ'S PRIME MINISTER ANNOUNCED AN INVESTIGATION INTO MISSILE LAUNCHERS DISCOVERED NEAR THE IRAN BORDER.
+- 09/12 21:56 [financialjuice] Iraq agrees to Iranian request to jointly probe drone launchers on border: Iraqi army
+- 09/12 21:56 [DeItaone] IRAQ AGREES TO IRANIAN REQUEST TO JOINTLY INVESTIGATE EXISTENCE OF DRONE LAUNCHERS ON THE BORDER BETWEEN THE TWO COUNTRIES - IRAQI ARMY
