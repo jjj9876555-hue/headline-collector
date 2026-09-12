@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 12:33 JST／対象: 09/12 00:33 〜 09/12 12:33 JST（時刻はすべて日本時間）
+生成: 2026-09-12 12:50 JST／対象: 09/12 00:50 〜 09/12 12:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
-| FirstSquawk | 128 | 09/12 01:04 | 09/12 12:29 | ⚠ 241分（05:01→09:02） |
+| FirstSquawk | 130 | 09/12 01:04 | 09/12 12:46 | ⚠ 241分（05:01→09:02） |
 | financialjuice | 79 | 09/12 00:52 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 208 行（統合前 210 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 210 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -232,3 +232,5 @@
 - 09/12 12:15 [FirstSquawk] Canada secures Dominican approval for beef and beef-product imports, covering cattle of all ages.
 - 09/12 12:21 [FirstSquawk] Fed rate bets put pressure on AUD/USD as the pair struggles past the Doji high.
 - 09/12 12:29 [FirstSquawk] GSK plans to shut down flu vaccine production in Dresden by summer 2027.
+- 09/12 12:36 [FirstSquawk] Trump visit prompts major security operation across Ireland, with 4,000 officers deployed.
+- 09/12 12:46 [FirstSquawk] Iraqi commander ousted as probe finds recent attacks on Saudi Arabia were launched from Iraq.

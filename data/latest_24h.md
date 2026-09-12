@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 12:33 JST／対象: 09/11 12:33 〜 09/12 12:33 JST（時刻はすべて日本時間）
+生成: 2026-09-12 12:50 JST／対象: 09/11 12:50 〜 09/12 12:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/11 15:05 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 291 | 09/11 12:42 | 09/12 12:29 | ⚠ 241分（05:01→09:02） |
+| FirstSquawk | 290 | 09/11 12:59 | 09/12 12:46 | ⚠ 241分（05:01→09:02） |
 | financialjuice | 178 | 09/11 15:34 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 512 行（統合前 518 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 511 行（統合前 517 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 12:42 [FirstSquawk] China’s Finance Ministry sets the yield at 1.38% in its 5-year bond auction, traders say.
-- 09/11 12:45 [FirstSquawk] Trump warns the U.S. could be badly positioned globally if it loses the race for AI leadership.
-- 09/11 12:45 [FirstSquawk] Trump dismisses concerns that artificial intelligence could lead to human extinction.
 - 09/11 12:59 [FirstSquawk] U.S. officials say Washington will not directly intervene against the Houthis for now after Trump declined MBS, Axios reports.
 - 09/11 13:03 [FirstSquawk] IRAN AND GULF STATES TO MEET IN PUSH FOR HORMUZ DEAL- FT
 - 09/11 13:03 [FirstSquawk] INSURERS ZURICH AND ALLIANZ HAVE EXPOSURE LINKED TO RADIANT WORLD- FT
@@ -536,3 +533,5 @@
 - 09/12 12:15 [FirstSquawk] Canada secures Dominican approval for beef and beef-product imports, covering cattle of all ages.
 - 09/12 12:21 [FirstSquawk] Fed rate bets put pressure on AUD/USD as the pair struggles past the Doji high.
 - 09/12 12:29 [FirstSquawk] GSK plans to shut down flu vaccine production in Dresden by summer 2027.
+- 09/12 12:36 [FirstSquawk] Trump visit prompts major security operation across Ireland, with 4,000 officers deployed.
+- 09/12 12:46 [FirstSquawk] Iraqi commander ousted as probe finds recent attacks on Saudi Arabia were launched from Iraq.
