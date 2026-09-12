@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 19:58 JST／対象: 09/12 07:58 〜 09/12 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-12 20:15 JST／対象: 09/12 08:15 〜 09/12 20:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/12 16:41 | 09/12 19:04 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 153 | 09/12 09:02 | 09/12 19:57 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 42 | 09/12 07:58 | 09/12 19:56 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 156 | 09/12 09:02 | 09/12 20:15 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 39 | 09/12 08:31 | 09/12 20:04 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 210 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 07:58 [financialjuice] Nvidia expected to lead Anthropic IPO, sources say
-- 09/12 07:58 [financialjuice] Nvidia to invest up to $10 billion in Anthropic IPO, source says
-- 09/12 08:01 [financialjuice] Saudi civil defense: early alert issued in Taif to warn of possible threat
-- 09/12 08:03 [financialjuice] North Korea launches multiple ballistic missiles: South Korea's JCS
-- 09/12 08:06 [financialjuice] Saudi civil defense: danger has passed in Taif
 - 09/12 08:31 [financialjuice] Next round of Israel-Lebanon talks postponed: Axios
 - 09/12 08:35 [financialjuice] Iraq orders closure of Shalamcheh border crossing with Iran as precaution after latest attacks on Saudi Arabia: two security sources
 - 09/12 08:38 [financialjuice] South Korea's presidential office: North Korea's ballistic missile launch breaches U.N. Security Council resolutions, holds emergency security review meeting - Yonhap
@@ -234,3 +229,8 @@
 - 09/12 19:56 [FirstSquawk] BRICS Statement Reaffirming Our Commitment to the Peaceful Resolution of International Disputes Through Dialogue, Consultation and Diplomacy
 - 09/12 19:56 [FirstSquawk] BRICS Summit Statement: We Stress the Need to Engage in Conflict Prevention Efforts, Including Addressing Their Root Causes
 - 09/12 19:57 [FirstSquawk] BRICS Communiqué: We Call for a Multilateral Approach that Respects Diverse Perspectives and Positions on Critical Global Issues
+- 09/12 20:03 [financialjuice] UK government on Trump’s Irish unification remarks: PM Burnham’s stance on Good Friday Agreement remains unchanged
+- 09/12 20:04 [financialjuice] UK government on Trump’s Irish unification remarks: PM’s position remains no majority public backing for another referendum, and until that shifts, none will occur
+- 09/12 20:05 [FirstSquawk] IRAN PRESIDENT, UAE CROWN PRINCE HOLD TALKS AT BRICS - IRNA
+- 09/12 20:14 [FirstSquawk] Trump Signals Possible US-Canada Trade Deal Soon President Donald Trump said the United States and Canada could reach a trade agreement “fairly soon,” signaling optimism after months of escalating tensions between the two countries. Trump s…
+- 09/12 20:15 [FirstSquawk] Trump’s Ireland Visit Highlights Delicate US-Ireland Ties US President Donald Trump arrived in Ireland for a two-day visit, receiving a warm welcome from Irish leaders despite political tensions and public criticism surrounding his presiden…

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 19:58 JST／対象: 09/12 13:58 〜 09/12 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-12 20:15 JST／対象: 09/12 14:15 〜 09/12 20:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/12 16:41 | 09/12 19:04 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 53 | 09/12 14:01 | 09/12 19:57 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 27 | 09/12 15:10 | 09/12 19:56 | ⚠ 112分（15:43→17:36） |
+| FirstSquawk | 54 | 09/12 14:18 | 09/12 20:15 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 29 | 09/12 15:10 | 09/12 20:04 | ⚠ 112分（15:43→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 95 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 98 行（統合前 100 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 14:01 [FirstSquawk] Xi’s India Visit, Bank Capital Boosts and EU-China Trade in Focus — SCMP China’s President Xi Jinping’s India visit, fresh bank capital injections and the evolving EU-China trade relationship are among the key developments shaping Beijing’s…
-- 09/12 14:10 [FirstSquawk] Munich Strengthens Position as Chinese Automakers’ R&D Hub in Europe Munich is cementing its role as a key European research and development base for Chinese carmakers, while BMW is losing employees to Chinese startups increasingly viewed a…
 - 09/12 14:18 [FirstSquawk] US decision to spare optical transceivers eases pressure on China’s supply chain.
 - 09/12 14:25 [FirstSquawk] August consumer-price growth in the US adds to expectations for a rate increase.
 - 09/12 14:33 [FirstSquawk] Japan Automakers to Overhaul Factory Schedules From FY2027 to Attract Workers — Kyodo Japanese automakers plan to redesign their factory operating calendars from fiscal 2027 as they seek to make manufacturing jobs more attractive and addres…
@@ -119,3 +117,8 @@
 - 09/12 19:56 [FirstSquawk] BRICS Statement Reaffirming Our Commitment to the Peaceful Resolution of International Disputes Through Dialogue, Consultation and Diplomacy
 - 09/12 19:56 [FirstSquawk] BRICS Summit Statement: We Stress the Need to Engage in Conflict Prevention Efforts, Including Addressing Their Root Causes
 - 09/12 19:57 [FirstSquawk] BRICS Communiqué: We Call for a Multilateral Approach that Respects Diverse Perspectives and Positions on Critical Global Issues
+- 09/12 20:03 [financialjuice] UK government on Trump’s Irish unification remarks: PM Burnham’s stance on Good Friday Agreement remains unchanged
+- 09/12 20:04 [financialjuice] UK government on Trump’s Irish unification remarks: PM’s position remains no majority public backing for another referendum, and until that shifts, none will occur
+- 09/12 20:05 [FirstSquawk] IRAN PRESIDENT, UAE CROWN PRINCE HOLD TALKS AT BRICS - IRNA
+- 09/12 20:14 [FirstSquawk] Trump Signals Possible US-Canada Trade Deal Soon President Donald Trump said the United States and Canada could reach a trade agreement “fairly soon,” signaling optimism after months of escalating tensions between the two countries. Trump s…
+- 09/12 20:15 [FirstSquawk] Trump’s Ireland Visit Highlights Delicate US-Ireland Ties US President Donald Trump arrived in Ireland for a two-day visit, receiving a warm welcome from Irish leaders despite political tensions and public criticism surrounding his presiden…

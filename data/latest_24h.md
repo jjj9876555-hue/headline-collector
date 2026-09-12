@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 19:58 JST／対象: 09/11 19:58 〜 09/12 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-12 20:15 JST／対象: 09/11 20:15 〜 09/12 20:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 45 | 09/11 20:06 | 09/12 19:04 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 232 | 09/11 20:04 | 09/12 19:57 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 173 | 09/11 20:01 | 09/12 19:56 | ⚠ 170分（10:12→13:03） |
+| DeItaone | 44 | 09/11 20:23 | 09/12 19:04 | ⚠ 751分（04:10→16:41） |
+| FirstSquawk | 234 | 09/11 20:20 | 09/12 20:15 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 173 | 09/11 20:34 | 09/12 20:04 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 447 行（統合前 452 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 448 行（統合前 453 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 20:01 [financialjuice] EU put on hold proposal for trade measure on aluminum scrap.
-- 09/11 20:04 [FirstSquawk] GERMAN UNION IG METALL IS USING A REVISION CLAUSE TO DISCUSS WITH VOLKSWAGEN IF THEY WILL KEEP THEIR AGREEMENT.
-- 09/11 20:06 [DeItaone] RUSSIA, INDIA EXPLORE DIGITAL CURRENCY TRADE SETTLEMENTS Russia and India’s central banks are working on a mechanism to use digital currencies for bilateral trade payments, according to Sberbank CEO Herman Gref. The initiative could enable …
-- 09/11 20:13 [financialjuice] China to further enhance computing infrastructure - CCTV
 - 09/11 20:20 [FirstSquawk] VOLKSWAGEN'S WORKS COUNCIL LEADER SAYS THEY FACE TOUGH COMPETITION FROM CHINESE COMPANIES WITH HIGH SUBSIDIES, URGING FOR A FAIR EUROPEAN FRAMEWORK.
 - 09/11 20:23 [DeItaone] FED’S WARSH FACES INDEPENDENCE TEST Fed Chair Kevin Warsh faces a credibility test as markets weigh whether he will hike rates despite President Trump’s push for lower borrowing costs. Macquarie says Warsh could position himself as a “reluc…
 - 09/11 20:34 [financialjuice] Iran's Foreign Ministry: IAEA risks becoming instrument for aggression.
@@ -471,3 +467,8 @@
 - 09/12 19:56 [FirstSquawk] BRICS Statement Reaffirming Our Commitment to the Peaceful Resolution of International Disputes Through Dialogue, Consultation and Diplomacy
 - 09/12 19:56 [FirstSquawk] BRICS Summit Statement: We Stress the Need to Engage in Conflict Prevention Efforts, Including Addressing Their Root Causes
 - 09/12 19:57 [FirstSquawk] BRICS Communiqué: We Call for a Multilateral Approach that Respects Diverse Perspectives and Positions on Critical Global Issues
+- 09/12 20:03 [financialjuice] UK government on Trump’s Irish unification remarks: PM Burnham’s stance on Good Friday Agreement remains unchanged
+- 09/12 20:04 [financialjuice] UK government on Trump’s Irish unification remarks: PM’s position remains no majority public backing for another referendum, and until that shifts, none will occur
+- 09/12 20:05 [FirstSquawk] IRAN PRESIDENT, UAE CROWN PRINCE HOLD TALKS AT BRICS - IRNA
+- 09/12 20:14 [FirstSquawk] Trump Signals Possible US-Canada Trade Deal Soon President Donald Trump said the United States and Canada could reach a trade agreement “fairly soon,” signaling optimism after months of escalating tensions between the two countries. Trump s…
+- 09/12 20:15 [FirstSquawk] Trump’s Ireland Visit Highlights Delicate US-Ireland Ties US President Donald Trump arrived in Ireland for a two-day visit, receiving a warm welcome from Irish leaders despite political tensions and public criticism surrounding his presiden…
