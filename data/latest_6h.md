@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 03:05 JST／対象: 09/12 21:05 〜 09/13 03:05 JST（時刻はすべて日本時間）
+生成: 2026-09-13 03:25 JST／対象: 09/12 21:25 〜 09/13 03:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/12 21:50 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
-| FirstSquawk | 62 | 09/12 21:12 | 09/13 02:58 | 45分（21:53→22:38） |
-| financialjuice | 34 | 09/12 21:43 | 09/13 03:03 | ⚠ 73分（00:19→01:32） |
+| FirstSquawk | 57 | 09/12 21:26 | 09/13 03:18 | 45分（21:53→22:38） |
+| financialjuice | 40 | 09/12 21:43 | 09/13 03:14 | ⚠ 73分（00:19→01:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 21:12 [FirstSquawk] Lebanese President: Israel's withdrawal, return of prisoners, and reconstruction are constants that the state is committed to implementing
-- 09/12 21:14 [FirstSquawk] Yemeni government forces: We targeted dozens of Houthi tugs loaded with weapons in the north Taiz
-- 09/12 21:14 [FirstSquawk] Lebanese Army Commander: We have not left Nabatieh or any town where there are still citizens, and we hope to liberate the rest of the towns and we will be stationed in them
-- 09/12 21:14 [FirstSquawk] Head of the Iraqi Border Crossings Authority: The measures taken at the crossings with the Iranian side are temporary
-- 09/12 21:14 [FirstSquawk] Head of the Iraqi Border Ports Authority: The measures aim to reorganize work inside some ports and raise the level of readiness
-- 09/12 21:14 [FirstSquawk] Head of the Iraqi Border Ports Authority: Transit movement with the Iranian side has not stopped at the Zarbatiya and Mundhiriya crossings
-- 09/12 21:15 [FirstSquawk] Iraqi President: We condemn the attacks on Saudi Arabia We affirm that we do not accept the use of our territory as a starting point for aggression against neighboring countries
-- 09/12 21:15 [FirstSquawk] Iraqi News Agency: The Prime Minister assigns Major General Ali Abdul Hussein Kazim to the position of Commander of Maysan Operations
 - 09/12 21:26 [FirstSquawk] BRICS Urges Restraint as Middle East Tensions Escalate BRICS nations, including Iran, the United Arab Emirates, India and China, have expressed deep concern over rising tensions in the Middle East and called for maximum restraint. In a join…
 - 09/12 21:38 [FirstSquawk] BAHRAIN ANNOUNCES IT WILL NOT PARTICIPATE IN THE IRAN MEETING REGARDING THE HORMUZ STRAIT.
 - 09/12 21:38 [FirstSquawk] BAHRAIN DECLINES TO JOIN ANY MEETINGS WITH IRAN, ACCORDING TO BNA.
@@ -126,3 +118,12 @@
 - 09/13 02:58 [FirstSquawk] Abu Dhabi Crown Prince Sheikh Khaled bin Mohammed bin Zayed meets Russian President Vladimir Putin on the sidelines of the "BRICS Summit" in New Delhi
 - 09/13 03:02 [financialjuice] Emergency alert in Saudi Arabia's Khamis Mushait warns of possible danger: Saudi Civil Defence
 - 09/13 03:03 [financialjuice] Emergency alert issued in Saudi Arabia's Abha warning of potential threat: Saudi Civil Defence
+- 09/13 03:11 [financialjuice] Danger passed in Khamis Mushait: Saudi civil defence
+- 09/13 03:12 [financialjuice] Danger has passed in Abha: Saudi civil defence
+- 09/13 03:13 [financialjuice] UK foreign secretary Ed Miliband: spoke with Saudi counterpart
+- 09/13 03:13 [financialjuice] Minister to discuss Houthi aggression in Yemen and attacks on Saudi Arabia
+- 09/13 03:14 [financialjuice] UK foreign secretary Ed Miliband: UK stands firmly with Saudi Arabia and internationally recognized Yemen government against attacks
+- 09/13 03:14 [financialjuice] UK foreign secretary Ed Miliband: discussed Houthi aggression in Yemen and attacks on Saudi Arabia with Saudi foreign minister
+- 09/13 03:18 [FirstSquawk] Saudi Civil Defense: Alert issued in Khamis Mushait and Abha to warn of danger
+- 09/13 03:18 [FirstSquawk] Iranian News Agency: Two explosions heard from the sea off Qeshm Island in Hormozgan province, southern Iran
+- 09/13 03:18 [FirstSquawk] Saudi Civil Defense: Danger has passed in Khamis Mushait and Abha.

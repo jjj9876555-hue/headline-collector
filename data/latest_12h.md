@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 03:05 JST／対象: 09/12 15:05 〜 09/13 03:05 JST（時刻はすべて日本時間）
+生成: 2026-09-13 03:25 JST／対象: 09/12 15:25 〜 09/13 03:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 131 | 09/12 16:00 | 09/13 02:58 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 65 | 09/12 15:10 | 09/13 03:03 | ⚠ 112分（15:43→17:36） |
+| FirstSquawk | 134 | 09/12 16:00 | 09/13 03:18 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 70 | 09/12 15:31 | 09/13 03:14 | ⚠ 112分（15:43→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 220 行（統合前 223 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 228 行（統合前 231 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 15:10 [financialjuice] China's Xi arrives in Delhi for BRICS summit - TV
 - 09/12 15:31 [financialjuice] India's markets regulator proposes six steps to enhance derivatives settlement prices in closing auction session
 - 09/12 15:31 [financialjuice] India's Sebi proposes adjustments to closing auction price band
 - 09/12 15:31 [financialjuice] India's SEBI: Closing auction orders outside 1% range will not be allowed to be canceled
@@ -244,3 +243,12 @@
 - 09/13 02:58 [FirstSquawk] Abu Dhabi Crown Prince Sheikh Khaled bin Mohammed bin Zayed meets Russian President Vladimir Putin on the sidelines of the "BRICS Summit" in New Delhi
 - 09/13 03:02 [financialjuice] Emergency alert in Saudi Arabia's Khamis Mushait warns of possible danger: Saudi Civil Defence
 - 09/13 03:03 [financialjuice] Emergency alert issued in Saudi Arabia's Abha warning of potential threat: Saudi Civil Defence
+- 09/13 03:11 [financialjuice] Danger passed in Khamis Mushait: Saudi civil defence
+- 09/13 03:12 [financialjuice] Danger has passed in Abha: Saudi civil defence
+- 09/13 03:13 [financialjuice] UK foreign secretary Ed Miliband: spoke with Saudi counterpart
+- 09/13 03:13 [financialjuice] Minister to discuss Houthi aggression in Yemen and attacks on Saudi Arabia
+- 09/13 03:14 [financialjuice] UK foreign secretary Ed Miliband: UK stands firmly with Saudi Arabia and internationally recognized Yemen government against attacks
+- 09/13 03:14 [financialjuice] UK foreign secretary Ed Miliband: discussed Houthi aggression in Yemen and attacks on Saudi Arabia with Saudi foreign minister
+- 09/13 03:18 [FirstSquawk] Saudi Civil Defense: Alert issued in Khamis Mushait and Abha to warn of danger
+- 09/13 03:18 [FirstSquawk] Iranian News Agency: Two explosions heard from the sea off Qeshm Island in Hormozgan province, southern Iran
+- 09/13 03:18 [FirstSquawk] Saudi Civil Defense: Danger has passed in Khamis Mushait and Abha.

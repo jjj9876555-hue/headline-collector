@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 03:05 JST／対象: 09/12 03:05 〜 09/13 03:05 JST（時刻はすべて日本時間）
+生成: 2026-09-13 03:25 JST／対象: 09/12 03:25 〜 09/13 03:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/12 04:10 | 09/13 01:48 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 261 | 09/12 03:09 | 09/13 02:58 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 127 | 09/12 03:08 | 09/13 03:03 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 261 | 09/12 03:28 | 09/13 03:18 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 132 | 09/12 03:28 | 09/13 03:14 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 413 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 418 行（統合前 423 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 03:08 [financialjuice] Yemeni military source: Saudi-backed mercenary positions in eastern Al-Jawf targeted, dozens of military vehicles set ablaze - Tasnim News
-- 09/12 03:09 [FirstSquawk] US COMMERCE CONFIRMS ILLEGAL SOLAR SUBSIDIES FROM INDIA
-- 09/12 03:19 [FirstSquawk] STELLANTIS, ROSHEL SIGN MOU FOR POSSIBLE SALE OF CANADA PLANT
-- 09/12 03:21 [FirstSquawk] JPMORGAN REVISES FED FORECAST; NOW SEES RATE HIKES IN SEPTEMBER, DECEMBER
 - 09/12 03:28 [financialjuice] ❗ Saudi Arabia: East-West pipeline shut down as a precaution.
 - 09/12 03:28 [FirstSquawk] SAUDI: EAST–WEST PIPELINE SHUT DOWN AS PRECAUTION AFTER ATTACK
 - 09/12 03:28 [financialjuice] Saudi Energy Ministry: East-West pipeline was temporarily shut down after several attacks on the pipeline in the Riyadh and Medina regions on Thursday.
@@ -437,3 +433,12 @@
 - 09/13 02:58 [FirstSquawk] Abu Dhabi Crown Prince Sheikh Khaled bin Mohammed bin Zayed meets Russian President Vladimir Putin on the sidelines of the "BRICS Summit" in New Delhi
 - 09/13 03:02 [financialjuice] Emergency alert in Saudi Arabia's Khamis Mushait warns of possible danger: Saudi Civil Defence
 - 09/13 03:03 [financialjuice] Emergency alert issued in Saudi Arabia's Abha warning of potential threat: Saudi Civil Defence
+- 09/13 03:11 [financialjuice] Danger passed in Khamis Mushait: Saudi civil defence
+- 09/13 03:12 [financialjuice] Danger has passed in Abha: Saudi civil defence
+- 09/13 03:13 [financialjuice] UK foreign secretary Ed Miliband: spoke with Saudi counterpart
+- 09/13 03:13 [financialjuice] Minister to discuss Houthi aggression in Yemen and attacks on Saudi Arabia
+- 09/13 03:14 [financialjuice] UK foreign secretary Ed Miliband: UK stands firmly with Saudi Arabia and internationally recognized Yemen government against attacks
+- 09/13 03:14 [financialjuice] UK foreign secretary Ed Miliband: discussed Houthi aggression in Yemen and attacks on Saudi Arabia with Saudi foreign minister
+- 09/13 03:18 [FirstSquawk] Saudi Civil Defense: Alert issued in Khamis Mushait and Abha to warn of danger
+- 09/13 03:18 [FirstSquawk] Iranian News Agency: Two explosions heard from the sea off Qeshm Island in Hormozgan province, southern Iran
+- 09/13 03:18 [FirstSquawk] Saudi Civil Defense: Danger has passed in Khamis Mushait and Abha.
