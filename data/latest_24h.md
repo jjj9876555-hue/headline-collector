@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 10:15 JST／対象: 09/11 10:15 〜 09/12 10:15 JST（時刻はすべて日本時間）
+生成: 2026-09-12 10:30 JST／対象: 09/11 10:30 〜 09/12 10:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/11 15:05 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 287 | 09/11 10:17 | 09/12 10:14 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 184 | 09/11 10:16 | 09/12 10:12 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 289 | 09/11 10:33 | 09/12 10:29 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 180 | 09/11 10:39 | 09/12 10:12 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 514 行（統合前 520 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 512 行（統合前 518 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 10:16 [financialjuice] Taiwan presidential office: Vice President Hsiao Bi-khim visits Italy
-- 09/11 10:16 [financialjuice] Taiwan presidential office: Vice President Hsiao accompanied by foreign minister in Italy
-- 09/11 10:17 [FirstSquawk] Taiwan says Vice President Hsiao Bi-khim is accompanied by the foreign minister on her Italy trip.
-- 09/11 10:17 [FirstSquawk] Vice President Hsiao Bi-khim travels to Italy, according to Taiwan’s presidential office.
-- 09/11 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 6, 2023
-- 09/11 10:17 [FirstSquawk] Yuan reference rate hits its strongest level in more than three years as China sets the midpoint.
-- 09/11 10:20 [FirstSquawk] ¥3.5 trillion Treasury discount bills offered by Japan.
-- 09/11 10:21 [financialjuice] China injects 4 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/11 10:27 [FirstSquawk] Copper futures in Shanghai pull back more than 3%.
 - 09/11 10:33 [FirstSquawk] South Korean stocks fall sharply at the open as U.S. market losses weigh on sentiment.
 - 09/11 10:34 [FirstSquawk] Malaysia’s ringgit touches 4.073 per dollar, its weakest level in nearly a month.
 - 09/11 10:39 [financialjuice] Ukraine drones strike Ozon logistics center in Russia's Saratov, trigger fire: Ozon
@@ -538,3 +529,10 @@
 - 09/12 10:13 [FirstSquawk] Saudi Civil Defense says the danger in Sharurah has now subsided.
 - 09/12 10:14 [FirstSquawk] Sony PlayStation’s shift beyond physical discs fuels an outcry over digital ownership rights.
 - 09/12 10:14 [FirstSquawk] U.S. Ties Chinese Satellite Data to Deadly July Strike on Iran — WSJ The U.S. has linked Chinese satellite imagery to an Iranian attack in July that killed three U.S. troops, according to WSJ. The development adds another layer to rising U.…
+- 09/12 10:16 [FirstSquawk] AI losses prompt JPMorgan to cut off situational-awareness lending.
+- 09/12 10:19 [FirstSquawk] Pyongyang launches an unidentified projectile toward waters off South Korea.
+- 09/12 10:20 [FirstSquawk] Atreides Management taps Lone Pine co-CIO Kelly Granat.
+- 09/12 10:21 [FirstSquawk] The U.S. Commerce Department has finalized higher duties on solar imports from India, Indonesia and Laos - Reuters
+- 09/12 10:23 [FirstSquawk] Italy retains its ‘BBB+’ sovereign rating as Fitch holds the outlook steady.
+- 09/12 10:23 [FirstSquawk] Slovenia retains its ‘A+’ rating as Fitch maintains a stable outlook.
+- 09/12 10:29 [FirstSquawk] GCC chief urges Iraq to take decisive steps to stop attacks.

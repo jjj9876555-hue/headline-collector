@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 10:15 JST／対象: 09/12 04:15 〜 09/12 10:15 JST（時刻はすべて日本時間）
+生成: 2026-09-12 10:30 JST／対象: 09/12 04:30 〜 09/12 10:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 54 | 09/12 04:22 | 09/12 10:14 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 46 | 09/12 04:23 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
+| FirstSquawk | 59 | 09/12 04:32 | 09/12 10:29 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 41 | 09/12 04:48 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 100 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,13 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 04:22 [FirstSquawk] US: 99 COMMERCIAL VESSELS REDIRECTED IN BLOCKADE AGAINST IRAN
-- 09/12 04:23 [financialjuice] Monday FX Options Expiries
-- 09/12 04:23 [FirstSquawk] U.S. NAVY MH-60R SEA HAWK HELICOPTER GETS READY TO LAND ON USS BOXER (LHD 4). BOXER IS THE LEAD SHIP FOR THE BOXER AMPHIBIOUS READY GROUP AND 11TH MARINE EXPEDITIONARY UNIT, CONTINUING TO IMPLEMENT THE U.S. BLOCKADE ON IRAN. AS OF SEPTEMBER…
-- 09/12 04:27 [financialjuice] Iran's foreign Ministry Spokesperson: Our strikes have been against the source of the attacks, not the countries - Tasnim News
-- 09/12 04:29 [financialjuice] Iran Foreign Ministry spokesperson: Saudi Arabia, Japan and Jordan will face consequences for backing anti-Iran IAEA resolution - Fars News
-- 09/12 04:29 [financialjuice] Iran Foreign Ministry spokesperson: Iran will hold Saudi Arabia, Japan and Jordan accountable for supporting anti-Iran IAEA resolution - Fars News
-- 09/12 04:30 [financialjuice] CFTC Positions in the Week Ended September 8th
 - 09/12 04:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON STATES THAT THEIR STRIKES TARGETED THE SOURCE OF ATTACKS, NOT OTHER COUNTRIES.
 - 09/12 04:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON WARNED SAUDI ARABIA, JAPAN, AND JORDAN THAT THEY WILL FACE REPERCUSSIONS FOR SUPPORTING ANTI-IRAN IAEA RESOLUTION.
 - 09/12 04:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS IRAN WILL HOLD SAUDI ARABIA, JAPAN, AND JORDAN RESPONSIBLE FOR BACKING AN ANTI-IRAN IAEA RESOLUTION.
@@ -124,3 +117,10 @@
 - 09/12 10:13 [FirstSquawk] Saudi Civil Defense says the danger in Sharurah has now subsided.
 - 09/12 10:14 [FirstSquawk] Sony PlayStation’s shift beyond physical discs fuels an outcry over digital ownership rights.
 - 09/12 10:14 [FirstSquawk] U.S. Ties Chinese Satellite Data to Deadly July Strike on Iran — WSJ The U.S. has linked Chinese satellite imagery to an Iranian attack in July that killed three U.S. troops, according to WSJ. The development adds another layer to rising U.…
+- 09/12 10:16 [FirstSquawk] AI losses prompt JPMorgan to cut off situational-awareness lending.
+- 09/12 10:19 [FirstSquawk] Pyongyang launches an unidentified projectile toward waters off South Korea.
+- 09/12 10:20 [FirstSquawk] Atreides Management taps Lone Pine co-CIO Kelly Granat.
+- 09/12 10:21 [FirstSquawk] The U.S. Commerce Department has finalized higher duties on solar imports from India, Indonesia and Laos - Reuters
+- 09/12 10:23 [FirstSquawk] Italy retains its ‘BBB+’ sovereign rating as Fitch holds the outlook steady.
+- 09/12 10:23 [FirstSquawk] Slovenia retains its ‘A+’ rating as Fitch maintains a stable outlook.
+- 09/12 10:29 [FirstSquawk] GCC chief urges Iraq to take decisive steps to stop attacks.
