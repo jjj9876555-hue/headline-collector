@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 06:31 JST／対象: 09/13 00:31 〜 09/13 06:31 JST（時刻はすべて日本時間）
+生成: 2026-09-13 06:44 JST／対象: 09/13 00:44 〜 09/13 06:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/13 01:35 | 09/13 01:48 | 13分（01:35→01:48） |
-| FirstSquawk | 24 | 09/13 00:33 | 09/13 03:29 | 42分（02:14→02:57） |
+| FirstSquawk | 23 | 09/13 01:02 | 09/13 03:29 | 42分（02:14→02:57） |
 | financialjuice | 21 | 09/13 01:32 | 09/13 05:05 | ⚠ 67分（03:58→05:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 47 行（統合前 47 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 46 行（統合前 46 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 00:33 [FirstSquawk] California Diesel Prices Hit Record Highs Diesel prices in California have surged to record levels, with the statewide average rising above $8 a gallon and one San Diego station charging $9.99. Low fuel supplies, reduced refining capacity, …
 - 09/13 01:02 [FirstSquawk] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 mln cubic feet/day from 135 mln — PM's office
 - 09/13 01:02 [FirstSquawk] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd - PM’s office
 - 09/13 01:09 [FirstSquawk] United Nations: At least 76,000 people have been displaced by fighting in Yemen since July
