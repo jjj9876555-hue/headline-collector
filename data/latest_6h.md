@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 03:53 JST／対象: 09/12 21:53 〜 09/13 03:53 JST（時刻はすべて日本時間）
+生成: 2026-09-13 04:13 JST／対象: 09/12 22:13 〜 09/13 04:13 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/12 21:56 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
-| FirstSquawk | 56 | 09/12 21:53 | 09/13 03:29 | 45分（21:53→22:38） |
-| financialjuice | 36 | 09/12 21:56 | 09/13 03:14 | ⚠ 73分（00:19→01:32） |
+| DeItaone | 5 | 09/12 22:49 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
+| FirstSquawk | 54 | 09/12 22:38 | 09/13 03:29 | 42分（02:14→02:57） |
+| financialjuice | 37 | 09/12 22:44 | 09/13 03:58 | ⚠ 73分（00:19→01:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 97 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 95 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 21:53 [FirstSquawk] IRAQ'S PM AGREES TO IRAN'S REQUEST FOR A COLLABORATIVE INVESTIGATION.
-- 09/12 21:53 [FirstSquawk] IRAQ'S PRIME MINISTER ANNOUNCED AN INVESTIGATION INTO MISSILE LAUNCHERS DISCOVERED NEAR THE IRAN BORDER.
-- 09/12 21:56 [financialjuice] Iraq agrees to Iranian request to jointly probe drone launchers on border: Iraqi army
-- 09/12 21:56 [DeItaone] IRAQ AGREES TO IRANIAN REQUEST TO JOINTLY INVESTIGATE EXISTENCE OF DRONE LAUNCHERS ON THE BORDER BETWEEN THE TWO COUNTRIES - IRAQI ARMY
 - 09/12 22:38 [FirstSquawk] Abu Dhabi Crown Prince Sheikh Khalid bin Mohamed bin Zayed meets Iranian President on the sidelines of BRICS summit in New Delhi
 - 09/12 22:38 [FirstSquawk] Abu Dhabi Crown Prince discusses with Iranian President on the sidelines of BRICS summit the importance of supporting de-escalation efforts
 - 09/12 22:38 [FirstSquawk] Arab League Secretary-General Condemns Attacks on Oil Facilities in Saudi Arabia
@@ -121,3 +117,5 @@
 - 09/13 03:27 [FirstSquawk] Iranian media: Two explosions heard on Qeshm Island from the sea.
 - 09/13 03:28 [FirstSquawk] UK foreign secretary Ed Miliband Says UK stands firmly with Saudi Arabia and internationally recognized Yemen government against attacks
 - 09/13 03:29 [FirstSquawk] UK foreign secretary Ed Miliband Says discussed Houthi aggression in Yemen and attacks on Saudi Arabia with Saudi foreign minister
+- 09/13 03:57 [financialjuice] Projectile wounds two in Saudi Arabia's Jizan: Saudi civil defence
+- 09/13 03:58 [financialjuice] Projectile from Yemen's Houthis causes material damage to mosque, buildings, vehicles: Saudi civil defence
