@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 12:50 JST／対象: 09/12 06:50 〜 09/12 12:50 JST（時刻はすべて日本時間）
+生成: 2026-09-12 13:00 JST／対象: 09/12 07:00 〜 09/12 13:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 87 | 09/12 09:02 | 09/12 12:46 | 13分（11:26→11:40） |
-| financialjuice | 15 | 09/12 06:50 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
+| FirstSquawk | 88 | 09/12 09:02 | 09/12 12:56 | 13分（11:26→11:40） |
+| financialjuice | 14 | 09/12 07:48 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 06:50 [financialjuice] Iraqi military commander removed after probe confirms drone attacks on Saudi Arabia came from Iraq: Iraqi PM office
 - 09/12 07:48 [financialjuice] AI startup Discovery Loop targets valuation near $50 billion - Business Insider
 - 09/12 07:58 [financialjuice] Nvidia expected to lead Anthropic IPO, sources say
 - 09/12 07:58 [financialjuice] Nvidia to invest up to $10 billion in Anthropic IPO, source says
@@ -126,3 +125,4 @@
 - 09/12 12:29 [FirstSquawk] GSK plans to shut down flu vaccine production in Dresden by summer 2027.
 - 09/12 12:36 [FirstSquawk] Trump visit prompts major security operation across Ireland, with 4,000 officers deployed.
 - 09/12 12:46 [FirstSquawk] Iraqi commander ousted as probe finds recent attacks on Saudi Arabia were launched from Iraq.
+- 09/12 12:56 [FirstSquawk] Chinese AI companies decline meetings with US delegation amid sanctions fears, commission says.

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 12:50 JST／対象: 09/12 00:50 〜 09/12 12:50 JST（時刻はすべて日本時間）
+生成: 2026-09-12 13:00 JST／対象: 09/12 01:00 〜 09/12 13:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
-| FirstSquawk | 130 | 09/12 01:04 | 09/12 12:46 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 79 | 09/12 00:52 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
+| FirstSquawk | 131 | 09/12 01:04 | 09/12 12:56 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 73 | 09/12 01:01 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 210 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 205 行（統合前 207 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 00:52 [financialjuice] IIF: China equities see $3.5 bln outflow in August, China debt draws $0.2 bln inflow.
-- 09/12 00:58 [financialjuice] US CENTCOM: Admiral Cooper is in Saudi Arabia for meetings and coordination regarding the recent Houthi advances in Yemen - Al Jazeera source.
-- 09/12 01:00 [financialjuice] WASDE SOYBEAN END STOCKS ACTUAL 310M (FORECAST 298.5M, PREVIOUS 320M) $MACRO
-- 09/12 01:00 [financialjuice] WASDE COTTON END STOCKS ACTUAL 3.6M (FORECAST 3.9M, PREVIOUS 4M) $MACRO
-- 09/12 01:00 [financialjuice] WASDE WHEAT END STOCKS ACTUAL 717M (FORECAST 717M, PREVIOUS 717M) $MACRO
-- 09/12 01:00 [financialjuice] WASDE CORN END STOCKS ACTUAL 1567M (FORECAST 1521.5M, PREVIOUS 1653M) $MACRO
 - 09/12 01:01 [financialjuice] Fed Financial Accounts of the United States
 - 09/12 01:01 [financialjuice] Fed: US 2Q household net worth rises $12.803t.
 - 09/12 01:04 [FirstSquawk] US SEPTEMBER WASDE REPORT SHOWS CORN END STOCKS AT 1.567 BILLION BUSHELS (ESTIMATES 1.522B; PREVIOUS 1.653B), SOYBEAN END STOCKS AT 310 MILLION BUSHELS (EST 299M; PREV 320M), TOTAL WHEAT END STOCKS AT 717 MILLION BUSHELS (EST 718M; PREV 717…
@@ -234,3 +228,4 @@
 - 09/12 12:29 [FirstSquawk] GSK plans to shut down flu vaccine production in Dresden by summer 2027.
 - 09/12 12:36 [FirstSquawk] Trump visit prompts major security operation across Ireland, with 4,000 officers deployed.
 - 09/12 12:46 [FirstSquawk] Iraqi commander ousted as probe finds recent attacks on Saudi Arabia were launched from Iraq.
+- 09/12 12:56 [FirstSquawk] Chinese AI companies decline meetings with US delegation amid sanctions fears, commission says.
