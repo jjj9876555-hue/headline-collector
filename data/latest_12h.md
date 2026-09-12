@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 10:58 JST／対象: 09/11 22:58 〜 09/12 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-12 11:17 JST／対象: 09/11 23:17 〜 09/12 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/11 23:00 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 117 | 09/11 23:00 | 09/12 10:58 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 95 | 09/11 23:00 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
+| DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
+| FirstSquawk | 122 | 09/11 23:23 | 09/12 11:15 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 89 | 09/11 23:18 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 215 行（統合前 217 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 212 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION PRELIM ACTUAL 4.6% (FORECAST 4.2%, PREVIOUS 4.0%) $MACRO
-- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN 5 YR INFLATION PRELIM ACTUAL 3.4% (FORECAST 3.3%, PREVIOUS 3.3%) $MACRO
-- 09/11 23:00 [DeItaone] *UMICH 1-YR INFLATION EXPECTATIONS RISE TO 4.6% FROM 4.0%
-- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN CONDITION PRELIM ACTUAL 50.9 (FORECAST 51.3, PREVIOUS 51.9) $MACRO
-- 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN EXPECTATIONS PRELIM ACTUAL 45.8 (FORECAST 51, PREVIOUS 51.5) $MACRO
-- 09/11 23:00 [financialjuice] ‼ BREAKING: UNIVERSITY MICHIGAN SENTIMENT PRELIM ACTUAL 47.8 (FORECAST 51, PREVIOUS 51.7) $MACRO
-- 09/11 23:00 [DeItaone] *UMICH PRELIM. SEPT. CONSUMER SENTIMENT FALLS TO 47.8; EST. 51
-- 09/11 23:00 [FirstSquawk] U.S. UMICH SEPTEMBER CONSUMER SENTIMENT DROPS TO 47.8, LOWER THAN ESTIMATED 51.
-- 09/11 23:00 [financialjuice] University of Michigan Sentiment September Prelim Report
-- 09/11 23:00 [FirstSquawk] U.S. UMICH 1-YEAR INFLATION EXPECTATIONS INCREASE TO 4.6% FROM 4.0%.
 - 09/11 23:18 [financialjuice] Fear and Greed Index: 36/100 = Fear
 - 09/11 23:18 [financialjuice] ECB's Lagarde: We are going to proceed meeting by meeting, using data to inform our coming decisions.
 - 09/11 23:19 [financialjuice] Crypto Fear and Greed Index: 56/100 = Greed
@@ -239,3 +229,10 @@
 - 09/12 10:52 [FirstSquawk] Tamron Weighs Sony Bid as Chinese Rivals Intensify Pressure Japan’s Tamron is considering a potential offer from Sony as competition from Chinese lens makers grows, with the mid-sized manufacturer benefiting from strong returns on equity an…
 - 09/12 10:54 [FirstSquawk] Waymo Self-Driving Cars Reportedly 9x Safer Than Human Drivers as per polymarket. An analysis of 25.3 million autonomous miles found Waymo vehicles were roughly 900% safer than human drivers.
 - 09/12 10:58 [FirstSquawk] SERENA-4 trial of AstraZeneca’s etcamah combination falls short of its primary endpoint, with no new safety concerns.
+- 09/12 11:02 [FirstSquawk] S&P Sees Saudi Oil Output Rising in 2027, But Below 12.3 Mln Bpd Capacity S&P expects Saudi Arabia’s oil production to increase in 2027, though output is projected to remain well below the kingdom’s reported maximum feasible capacity of 12.…
+- 09/12 11:04 [FirstSquawk] U.S. STUDENT DEBT EXPLODES TO $1.86 TRILLION
+- 09/12 11:04 [FirstSquawk] Riyadh pauses plans for retaliation after Iraq PM urges restraint, Saudi foreign ministry says.
+- 09/12 11:10 [FirstSquawk] Riyadh says it retains the option to take any measures needed to protect its territory, security and residents.
+- 09/12 11:11 [FirstSquawk] S&P: Saudi Arabia’s Energy Infrastructure Helps Cushion Middle East Conflict Impact S&P says Saudi Arabia’s diversified energy export network, combined with elevated oil prices, is helping the kingdom withstand economic pressures stemming f…
+- 09/12 11:13 [FirstSquawk] US TAX BRACKETS SET TO RISE 3.2% IN 2027 — AMERICANS CAN EARN MORE BEFORE HIGHER TAX RATES KICK IN
+- 09/12 11:15 [FirstSquawk] Ralph Lauren approves a quarterly dividend payment of $1 a share.

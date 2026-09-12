@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 10:58 JST／対象: 09/12 04:58 〜 09/12 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-12 11:17 JST／対象: 09/12 05:17 〜 09/12 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 67 | 09/12 05:01 | 09/12 10:58 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 38 | 09/12 04:59 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
+| FirstSquawk | 73 | 09/12 09:02 | 09/12 11:15 | 8分（09:32→09:40） |
+| financialjuice | 30 | 09/12 05:23 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 105 行（統合前 106 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 04:59 [financialjuice] Al Mayadeen citing high-ranking Iranian source: Negotiations are not possible until Iran's conditions are accepted - ISNA
-- 09/12 05:01 [FirstSquawk] NASDAQ UNOFFICIALLY CLOSES UP 263.06 POINTS, OR 1.01 PERCENT, AT 26,344.78 DOW JONES UNOFFICIALLY CLOSES UP 514.27 POINTS, OR 0.99%, AT 52,578.37 S&P 500 UNOFFICIALLY CLOSES UP 65.79 POINTS, OR 0.87 PERCENT, AT 7,657.49
-- 09/12 05:05 [financialjuice] Week Ahead: Economic Indicators 14th – 18th September (US)
-- 09/12 05:07 [financialjuice] US Sec. of Defense Hegseth to meet German Defense Minister Pistorius September 15th
-- 09/12 05:09 [financialjuice] Saudi Foreign Ministry: We chose not to retaliate at this stage following a request from Iraq's PM - statement
-- 09/12 05:09 [financialjuice] S&P: Forecast 2027 Saudi oil production to rise, but, production will remain well below its reported highest-feasible production capacity of 12.3 MBPD.
-- 09/12 05:16 [financialjuice] Anthropic looks to provide a list of wealth advisers to staff. Goldman, BofA vie to manage anthropic staffers’ IPO millions
-- 09/12 05:17 [financialjuice] Wells Fargo, JPM, BNY also pitching wealth services to AI giant.
-- 09/12 05:17 [financialjuice] US bank deposits rose to $19.566 trln from $19.559 trln in prior week.
 - 09/12 05:23 [financialjuice] Iraq appreciates Saudi Arabia's decision to hold off on retaliation - State Media.
 - 09/12 05:24 [financialjuice] Iraq rejects any attack that threatens Saudi security and stability - State Media.
 - 09/12 05:25 [financialjuice] The Iraqi PM has ordered an investigation into the circumstances of the attacks and the parties behind them, and will work with allies and friends to prevent a recurrence of such attacks - State Media.
@@ -129,3 +120,10 @@
 - 09/12 10:52 [FirstSquawk] Tamron Weighs Sony Bid as Chinese Rivals Intensify Pressure Japan’s Tamron is considering a potential offer from Sony as competition from Chinese lens makers grows, with the mid-sized manufacturer benefiting from strong returns on equity an…
 - 09/12 10:54 [FirstSquawk] Waymo Self-Driving Cars Reportedly 9x Safer Than Human Drivers as per polymarket. An analysis of 25.3 million autonomous miles found Waymo vehicles were roughly 900% safer than human drivers.
 - 09/12 10:58 [FirstSquawk] SERENA-4 trial of AstraZeneca’s etcamah combination falls short of its primary endpoint, with no new safety concerns.
+- 09/12 11:02 [FirstSquawk] S&P Sees Saudi Oil Output Rising in 2027, But Below 12.3 Mln Bpd Capacity S&P expects Saudi Arabia’s oil production to increase in 2027, though output is projected to remain well below the kingdom’s reported maximum feasible capacity of 12.…
+- 09/12 11:04 [FirstSquawk] U.S. STUDENT DEBT EXPLODES TO $1.86 TRILLION
+- 09/12 11:04 [FirstSquawk] Riyadh pauses plans for retaliation after Iraq PM urges restraint, Saudi foreign ministry says.
+- 09/12 11:10 [FirstSquawk] Riyadh says it retains the option to take any measures needed to protect its territory, security and residents.
+- 09/12 11:11 [FirstSquawk] S&P: Saudi Arabia’s Energy Infrastructure Helps Cushion Middle East Conflict Impact S&P says Saudi Arabia’s diversified energy export network, combined with elevated oil prices, is helping the kingdom withstand economic pressures stemming f…
+- 09/12 11:13 [FirstSquawk] US TAX BRACKETS SET TO RISE 3.2% IN 2027 — AMERICANS CAN EARN MORE BEFORE HIGHER TAX RATES KICK IN
+- 09/12 11:15 [FirstSquawk] Ralph Lauren approves a quarterly dividend payment of $1 a share.

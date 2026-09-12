@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 10:58 JST／対象: 09/11 10:58 〜 09/12 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-12 11:17 JST／対象: 09/11 11:17 〜 09/12 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/11 15:05 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 294 | 09/11 10:58 | 09/12 10:58 | ⚠ 241分（05:01→09:02） |
+| FirstSquawk | 295 | 09/11 11:18 | 09/12 11:15 | ⚠ 241分（05:01→09:02） |
 | financialjuice | 178 | 09/11 15:34 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 515 行（統合前 521 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 516 行（統合前 522 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 10:58 [FirstSquawk] Taiwan-based Micron direct employees to receive FY2026 compensation equivalent to 35–68 months of salary, including a minimum T$1.7 million cash payout.
-- 09/11 11:05 [FirstSquawk] New California rules tighten restrictions on social media for children.
-- 09/11 11:09 [FirstSquawk] Japan’s finance minister avoids giving a view on specific FX levels.
-- 09/11 11:10 [FirstSquawk] Katayama says Japan’s position remains completely unchanged following U.S.-Japan coordination.
-- 09/11 11:11 [FirstSquawk] Katayama says Japan will work to ensure stability in currency markets and communicate closely with the U.S.
-- 09/11 11:12 [FirstSquawk] Japan will seek stability in FX markets and maintain close communication with the U.S., Katayama says.
 - 09/11 11:18 [FirstSquawk] Seoul says the economy remains on a solid recovery path, supported by exports.
 - 09/11 11:22 [FirstSquawk] Japan gets its first look at Tesla’s driverless Cybercab.
 - 09/11 11:24 [FirstSquawk] Indonesia stocks slide, with the benchmark index sinking to 6,462.96, lowest since Aug. 27.
@@ -539,3 +533,10 @@
 - 09/12 10:52 [FirstSquawk] Tamron Weighs Sony Bid as Chinese Rivals Intensify Pressure Japan’s Tamron is considering a potential offer from Sony as competition from Chinese lens makers grows, with the mid-sized manufacturer benefiting from strong returns on equity an…
 - 09/12 10:54 [FirstSquawk] Waymo Self-Driving Cars Reportedly 9x Safer Than Human Drivers as per polymarket. An analysis of 25.3 million autonomous miles found Waymo vehicles were roughly 900% safer than human drivers.
 - 09/12 10:58 [FirstSquawk] SERENA-4 trial of AstraZeneca’s etcamah combination falls short of its primary endpoint, with no new safety concerns.
+- 09/12 11:02 [FirstSquawk] S&P Sees Saudi Oil Output Rising in 2027, But Below 12.3 Mln Bpd Capacity S&P expects Saudi Arabia’s oil production to increase in 2027, though output is projected to remain well below the kingdom’s reported maximum feasible capacity of 12.…
+- 09/12 11:04 [FirstSquawk] U.S. STUDENT DEBT EXPLODES TO $1.86 TRILLION
+- 09/12 11:04 [FirstSquawk] Riyadh pauses plans for retaliation after Iraq PM urges restraint, Saudi foreign ministry says.
+- 09/12 11:10 [FirstSquawk] Riyadh says it retains the option to take any measures needed to protect its territory, security and residents.
+- 09/12 11:11 [FirstSquawk] S&P: Saudi Arabia’s Energy Infrastructure Helps Cushion Middle East Conflict Impact S&P says Saudi Arabia’s diversified energy export network, combined with elevated oil prices, is helping the kingdom withstand economic pressures stemming f…
+- 09/12 11:13 [FirstSquawk] US TAX BRACKETS SET TO RISE 3.2% IN 2027 — AMERICANS CAN EARN MORE BEFORE HIGHER TAX RATES KICK IN
+- 09/12 11:15 [FirstSquawk] Ralph Lauren approves a quarterly dividend payment of $1 a share.
