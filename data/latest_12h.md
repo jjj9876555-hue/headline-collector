@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 17:58 JST／対象: 09/12 05:58 〜 09/12 17:58 JST（時刻はすべて日本時間）
+生成: 2026-09-12 18:16 JST／対象: 09/12 06:16 〜 09/12 18:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/12 16:41 | 09/12 16:41 | - |
-| FirstSquawk | 118 | 09/12 09:02 | 09/12 17:58 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 35 | 09/12 06:08 | 09/12 17:36 | ⚠ 170分（10:12→13:03） |
+| DeItaone | 4 | 09/12 16:41 | 09/12 18:14 | ⚠ 86分（16:41→18:07） |
+| FirstSquawk | 121 | 09/12 09:02 | 09/12 18:16 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 35 | 09/12 06:22 | 09/12 18:00 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 154 行（統合前 154 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 160 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 06:08 [financialjuice] North Korea launches unidentified missile into East Sea: South Korea's defense ministry
 - 09/12 06:22 [financialjuice] Putin: will not comment on election in Saxony-Anhalt, purely internal German affair
 - 09/12 06:22 [financialjuice] Putin: current events in Europe result of systemic mistakes by Western globalists
 - 09/12 06:22 [financialjuice] Putin: Ukraine conflict triggered by western elites pressuring Russia, aiming to pull Ukraine into NATO
@@ -178,3 +177,10 @@
 - 09/12 17:57 [FirstSquawk] Mohammadreza Mohseni-Sani, a member of parliament's National Security and Foreign Policy Committee, said Iran no longer regarded itself as bound by the Nuclear Non-Proliferation Treaty and could reconsider its uranium enrichment policy. "As…
 - 09/12 17:57 [FirstSquawk] Iran President says supreme leader Mojtaba Khamenei is alive and the U.S. can’t locate him.
 - 09/12 17:58 [FirstSquawk] Chinese company Huawei Technologies has developed a large language model trained on regional history, used for generating tourism content
+- 09/12 18:00 [financialjuice] Trump on Iran: everything will resolve smoothly
+- 09/12 18:07 [DeItaone] TRUMP ON IRAN: EVERYTHING WILL WORK OUT FINE
+- 09/12 18:09 [DeItaone] BRICS AGREES JOINT DECLARATION AMID IRAN WAR BRICS members have agreed on a joint declaration condemning unilateral war by any country, four sources told Reuters, though the statement is unlikely to name specific nations. The agreement foll…
+- 09/12 18:14 [DeItaone] LAGARDE STEPS INTO FRANCE’S PRESIDENTIAL SPOTLIGHT ECB President Christine Lagarde is set to speak at a political gathering in Normandy Saturday, fueling speculation she could leave the central bank before her term expires in 2027. The appe…
+- 09/12 18:15 [FirstSquawk] Russian President Vladimir Putin said Europe’s current problems are the result of what he described as “systemic mistakes” by the West’s globalists in politics, security and the economy. Putin said Western elites felt they were at the “top …
+- 09/12 18:16 [FirstSquawk] Iran has moved from a defensive to an offensive military strategy, lawmaker Esmail Kowsari, a member of parliament's National Security and Foreign Policy Committee, told Defa Press on Saturday.
+- 09/12 18:16 [FirstSquawk] Tesla and the Musks 'Chinamaxx' as rumors swirl over EV maker's plans
