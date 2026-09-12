@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 13:18 JST／対象: 09/11 13:18 〜 09/12 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-12 13:33 JST／対象: 09/11 13:33 〜 09/12 13:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/11 15:05 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 293 | 09/11 13:20 | 09/12 13:18 | ⚠ 241分（05:01→09:02） |
+| FirstSquawk | 288 | 09/11 13:33 | 09/12 13:23 | ⚠ 241分（05:01→09:02） |
 | financialjuice | 180 | 09/11 15:34 | 09/12 13:04 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 516 行（統合前 522 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 511 行（統合前 517 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 13:20 [FirstSquawk] Fears of higher U.S. interest rates ripple across global bond markets.-FT
-- 09/11 13:24 [FirstSquawk] Dubai airport operator plans to move fuel storage underground amid strike risks, according to the FT.
-- 09/11 13:25 [FirstSquawk] EU searches for new options to mobilize Russian assets in support of Ukraine, the FT reports.
-- 09/11 13:31 [FirstSquawk] South Korea’s Han calls for mutual benefits and commercial returns from strategic investment talks with the U.S.
-- 09/11 13:32 [FirstSquawk] South Korea’s Han says discussions with Washington on strategic investment projects are advancing.
-- 09/11 13:32 [FirstSquawk] South Korea plans to ease regulatory hurdles and improve the investment environment for foreign investors, Han says.
-- 09/11 13:32 [FirstSquawk] South Korea’s Han says the government does not discriminate against firms based on nationality.
 - 09/11 13:33 [FirstSquawk] New Zealand currency strengthens 0.53% to $0.5829.
 - 09/11 13:44 [FirstSquawk] JPMorgan trims its RH price target by $22 to $190.
 - 09/11 13:49 [FirstSquawk] Australia’s proposed data-center rules could increase execution risks, according to Fitch Ratings.
@@ -540,3 +533,5 @@
 - 09/12 13:16 [FirstSquawk] Seoul moves to guard sensitive chip technology from foreign intelligence threats.
 - 09/12 13:17 [FirstSquawk] GROUND BEEF PRICES HIT RECORD HIGH IN AUGUST, DEALING FRESH BLOW TO TRUMP’S AFFORDABILITY PUSH AHEAD OF MIDTERMS Ground beef averaged $7.158/lb in August, up 0.6% from July and 7.9% YoY, marking a new record high. The move underscores the d…
 - 09/12 13:18 [FirstSquawk] European Investment in Latin American Stocks Hits 15-Year High — FT European investors have sharply increased their exposure to Latin American equities, with investment flows reaching their highest level in 15 years, according to the Financ…
+- 09/12 13:22 [FirstSquawk] Chinese Crypto Investor Identified as Seller of £190 Million London Mansion — FT A Chinese cryptocurrency investor was behind the sale of a £190 million London mansion, according to the Financial Times. The transaction ranks among the city’…
+- 09/12 13:23 [FirstSquawk] BRICS nations look to connect expanding payment networks for cross-border transactions.
