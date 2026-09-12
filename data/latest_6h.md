@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 11:58 JST／対象: 09/12 05:58 〜 09/12 11:58 JST（時刻はすべて日本時間）
+生成: 2026-09-12 12:16 JST／対象: 09/12 06:16 〜 09/12 12:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 80 | 09/12 09:02 | 09/12 11:54 | 13分（11:26→11:40） |
-| financialjuice | 21 | 09/12 06:08 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
+| FirstSquawk | 83 | 09/12 09:02 | 09/12 12:15 | 13分（11:26→11:40） |
+| financialjuice | 20 | 09/12 06:22 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 101 行（統合前 101 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 06:08 [financialjuice] North Korea launches unidentified missile into East Sea: South Korea's defense ministry
 - 09/12 06:22 [financialjuice] Putin: will not comment on election in Saxony-Anhalt, purely internal German affair
 - 09/12 06:22 [financialjuice] Putin: current events in Europe result of systemic mistakes by Western globalists
 - 09/12 06:22 [financialjuice] Putin: Ukraine conflict triggered by western elites pressuring Russia, aiming to pull Ukraine into NATO
@@ -125,3 +124,6 @@
 - 09/12 11:40 [FirstSquawk] More Than 30% of Unmarried People in Japan Say They Do Not Want Children — Kyodo A survey found that over 30% of unmarried people in Japan do not want to have children, highlighting shifting attitudes toward marriage and parenthood in the c…
 - 09/12 11:46 [FirstSquawk] U.S. legislator seeks a policy rethink on the North Korea travel ban Yonhap reports
 - 09/12 11:54 [FirstSquawk] Saudi-led strikes have left 82 people dead or injured since September 3, Yemen’s Houthi health ministry says.
+- 09/12 12:04 [FirstSquawk] Banco Master case files cleared for release in Brazil, excluding documents that could affect active investigations.
+- 09/12 12:11 [FirstSquawk] China played a pivotal role in Tesla’s rise into a worldwide EV leader. But the automaker now finds itself caught in the growing strategic rivalry between Beijing’s ambitions and Washington’s national security concerns.
+- 09/12 12:15 [FirstSquawk] Canada secures Dominican approval for beef and beef-product imports, covering cattle of all ages.
