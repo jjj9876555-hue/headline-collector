@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 14:58 JST／対象: 09/12 08:58 〜 09/12 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-12 15:21 JST／対象: 09/12 09:21 〜 09/12 15:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 107 | 09/12 09:02 | 09/12 14:57 | 13分（11:26→11:40） |
-| financialjuice | 5 | 09/12 09:00 | 09/12 13:04 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 97 | 09/12 09:22 | 09/12 15:00 | 13分（11:26→11:40） |
+| financialjuice | 5 | 09/12 10:02 | 09/12 15:10 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 112 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 09:00 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo senior notes due 2029 and 2031
-- 09/12 09:02 [FirstSquawk] SKYWORKS: CO EXTENDS DEADLINE FOR GORVO SENIOR NOTES EXCHANGE OFFERS Skyworks Solutions said it has extended the expiration date for its exchange offers involving GORVO senior notes due in 2029 and 2031. The extension gives eligible holders…
-- 09/12 09:04 [FirstSquawk] South Korea’s JCS reports North Korean short-range ballistic missiles covered approximately 250 km.
-- 09/12 09:05 [FirstSquawk] South Korea convenes an emergency security meeting following North Korea’s short-range missile launch, presidential office says.
-- 09/12 09:06 [FirstSquawk] Negotiations between Canada’s auto workers and Stellantis have reached an impasse over the future of the company’s Ontario manufacturing facility, the union says.
-- 09/12 09:07 [FirstSquawk] Japan’s autumn foliage season is expected to begin later than usual in some areas as warmer weather persists, with peak colors forecast for Hokkaido in early November and Tokyo several weeks later.
-- 09/12 09:08 [FirstSquawk] Flooding deals a setback to Nepal’s efforts to expand trade with China, reinforcing its dependence on India as costly infrastructure upgrades are needed to reopen and strengthen a key border crossing with Tibet.
-- 09/12 09:09 [FirstSquawk] Baghdad announces the shutdown of the Shalamcheh frontier point connecting Iraq and Iran, Reuters reports.
-- 09/12 09:11 [FirstSquawk] Congo’s Ebola outbreak has surpassed 7,000 reported infections as transmission expands into another province.
-- 09/12 09:19 [FirstSquawk] Oracle chairman Larry Ellison intends to offload as much as $7.5 billion of his holdings in the company.
-- 09/12 09:20 [FirstSquawk] With diesel prices topping $6, rising fuel costs are raising concerns over broader economic pressure beyond the pump - WSJ
-- 09/12 09:21 [FirstSquawk] US official says the three-way arrangement involving Israel and Lebanon remains the sole viable mechanism.
 - 09/12 09:22 [FirstSquawk] US official says Israeli and Lebanese envoys are set to hold talks at the State Department in Washington next week.
 - 09/12 09:23 [FirstSquawk] Saudi Civil Defense announces that the security alert in Khamis Mushait has been lifted, with the immediate threat now considered cleared.
 - 09/12 09:31 [FirstSquawk] Wall Street closed up as oil prices slid, while firm consumer price data boosted bets that the Fed will hike rates next week to rein in inflation.
@@ -136,3 +124,5 @@
 - 09/12 14:33 [FirstSquawk] Japan Automakers to Overhaul Factory Schedules From FY2027 to Attract Workers — Kyodo Japanese automakers plan to redesign their factory operating calendars from fiscal 2027 as they seek to make manufacturing jobs more attractive and addres…
 - 09/12 14:46 [FirstSquawk] Egypt says any attack against Saudi Arabia constitutes a serious violation of international law.
 - 09/12 14:57 [FirstSquawk] South Korea Seeks U.S. Handover of Wartime Command Authority Under ‘No Added Conditions’ Principle South Korea’s defense minister nominee says Seoul aims to regain wartime operational control (OPCON) from the United States based on a “no ad…
+- 09/12 15:00 [FirstSquawk] Latin American Allies Throw Full Support Behind Trump’s Drug War - WSJ Latin American allies are stepping up cooperation with the Trump administration’s campaign against drug trafficking, signaling stronger regional backing for Washington’s…
+- 09/12 15:10 [financialjuice] China's Xi arrives in Delhi for BRICS summit - TV

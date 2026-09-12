@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 14:58 JST／対象: 09/12 02:58 〜 09/12 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-12 15:21 JST／対象: 09/12 03:21 〜 09/12 15:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
-| FirstSquawk | 132 | 09/12 02:59 | 09/12 14:57 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 64 | 09/12 02:58 | 09/12 13:04 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 127 | 09/12 03:28 | 09/12 15:00 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 62 | 09/12 03:28 | 09/12 15:10 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 197 行（統合前 199 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 190 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 02:58 [financialjuice] US FEDERAL BUDGET BALANCE ACTUAL -166.797B (FORECAST -211.1B, PREVIOUS -432.00B) $MACRO
-- 09/12 02:59 [FirstSquawk] REZA NAJAFI, THE ISLAMIC REPUBLIC'S REPRESENTATIVE AT THE IAEA, STATED TO CGTN THAT THE U.S. COULD USE THE NEW BOARD OF GOVERNORS RESOLUTION AS AN EXCUSE TO ESCALATE TENSIONS OR LAUNCH NEW MILITARY ACTIONS AGAINST IRAN.
-- 09/12 03:00 [FirstSquawk] US AUG. BUDGET DEFICIT $166.80B
-- 09/12 03:00 [FirstSquawk] US BUDGET DEFICIT AT $1.97T FOR FIRST 11 MONTHS OF FISCAL YEAR
-- 09/12 03:02 [financialjuice] US Budget Balance August 202 Report
-- 09/12 03:08 [financialjuice] Yemeni military source: Saudi-backed mercenary positions in eastern Al-Jawf targeted, dozens of military vehicles set ablaze - Tasnim News
-- 09/12 03:09 [FirstSquawk] US COMMERCE CONFIRMS ILLEGAL SOLAR SUBSIDIES FROM INDIA
-- 09/12 03:19 [FirstSquawk] STELLANTIS, ROSHEL SIGN MOU FOR POSSIBLE SALE OF CANADA PLANT
-- 09/12 03:21 [FirstSquawk] JPMORGAN REVISES FED FORECAST; NOW SEES RATE HIKES IN SEPTEMBER, DECEMBER
 - 09/12 03:28 [financialjuice] ❗ Saudi Arabia: East-West pipeline shut down as a precaution.
 - 09/12 03:28 [FirstSquawk] SAUDI: EAST–WEST PIPELINE SHUT DOWN AS PRECAUTION AFTER ATTACK
 - 09/12 03:28 [financialjuice] Saudi Energy Ministry: East-West pipeline was temporarily shut down after several attacks on the pipeline in the Riyadh and Medina regions on Thursday.
@@ -221,3 +212,5 @@
 - 09/12 14:33 [FirstSquawk] Japan Automakers to Overhaul Factory Schedules From FY2027 to Attract Workers — Kyodo Japanese automakers plan to redesign their factory operating calendars from fiscal 2027 as they seek to make manufacturing jobs more attractive and addres…
 - 09/12 14:46 [FirstSquawk] Egypt says any attack against Saudi Arabia constitutes a serious violation of international law.
 - 09/12 14:57 [FirstSquawk] South Korea Seeks U.S. Handover of Wartime Command Authority Under ‘No Added Conditions’ Principle South Korea’s defense minister nominee says Seoul aims to regain wartime operational control (OPCON) from the United States based on a “no ad…
+- 09/12 15:00 [FirstSquawk] Latin American Allies Throw Full Support Behind Trump’s Drug War - WSJ Latin American allies are stepping up cooperation with the Trump administration’s campaign against drug trafficking, signaling stronger regional backing for Washington’s…
+- 09/12 15:10 [financialjuice] China's Xi arrives in Delhi for BRICS summit - TV
