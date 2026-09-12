@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 19:31 JST／対象: 09/12 13:31 〜 09/12 19:31 JST（時刻はすべて日本時間）
+生成: 2026-09-12 19:43 JST／対象: 09/12 13:43 〜 09/12 19:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/12 16:41 | 09/12 19:04 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 46 | 09/12 13:34 | 09/12 19:07 | ⚠ 114分（16:00→17:55） |
+| FirstSquawk | 46 | 09/12 13:44 | 09/12 19:43 | ⚠ 114分（16:00→17:55） |
 | financialjuice | 25 | 09/12 15:10 | 09/12 18:57 | ⚠ 112分（15:43→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 13:34 [FirstSquawk] Singapore, China lead global education rankings while OECD student scores fall sharply.
 - 09/12 13:44 [FirstSquawk] UK Parliament blocks legislation seeking to legalize assisted dying in England and Wales.
 - 09/12 13:55 [FirstSquawk] Mandatory internships drive over 60% of new dentists into Hong Kong’s health department.
 - 09/12 14:01 [FirstSquawk] Xi’s India Visit, Bank Capital Boosts and EU-China Trade in Focus — SCMP China’s President Xi Jinping’s India visit, fresh bank capital injections and the evolving EU-China trade relationship are among the key developments shaping Beijing’s…
@@ -110,3 +109,4 @@
 - 09/12 19:07 [FirstSquawk] XI JINPING OF CHINA ANNOUNCED THAT CHINA WILL COLLABORATE WITH BRICS COUNTRIES TO PROMOTE PEACE AND STABILITY IN THE MIDDLE EAST AND GULF REGION.
 - 09/12 19:07 [FirstSquawk] XI JINPING CALLS FOR BRICS TO TAKE LEAD IN ENSURING PEACE AND STABILITY.
 - 09/12 19:07 [FirstSquawk] XI JINPING URGES BRICS NATIONS TO STAY ON HISTORY'S RIGHT SIDE AT BRICS SUMMIT.
+- 09/12 19:43 [FirstSquawk] UAE strongly condemns targeting pipeline in Saudi Arabia with drones coming from Iraq

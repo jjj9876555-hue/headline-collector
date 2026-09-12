@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 19:31 JST／対象: 09/12 07:31 〜 09/12 19:31 JST（時刻はすべて日本時間）
+生成: 2026-09-12 19:43 JST／対象: 09/12 07:43 〜 09/12 19:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/12 16:41 | 09/12 19:04 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 143 | 09/12 09:02 | 09/12 19:07 | ⚠ 114分（16:00→17:55） |
+| FirstSquawk | 144 | 09/12 09:02 | 09/12 19:43 | ⚠ 114分（16:00→17:55） |
 | financialjuice | 41 | 09/12 07:48 | 09/12 18:57 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 199 行（統合前 201 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 200 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -223,3 +223,4 @@
 - 09/12 19:07 [FirstSquawk] XI JINPING OF CHINA ANNOUNCED THAT CHINA WILL COLLABORATE WITH BRICS COUNTRIES TO PROMOTE PEACE AND STABILITY IN THE MIDDLE EAST AND GULF REGION.
 - 09/12 19:07 [FirstSquawk] XI JINPING CALLS FOR BRICS TO TAKE LEAD IN ENSURING PEACE AND STABILITY.
 - 09/12 19:07 [FirstSquawk] XI JINPING URGES BRICS NATIONS TO STAY ON HISTORY'S RIGHT SIDE AT BRICS SUMMIT.
+- 09/12 19:43 [FirstSquawk] UAE strongly condemns targeting pipeline in Saudi Arabia with drones coming from Iraq
