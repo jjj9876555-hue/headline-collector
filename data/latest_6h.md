@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 13:58 JST／対象: 09/12 07:58 〜 09/12 13:58 JST（時刻はすべて日本時間）
+生成: 2026-09-12 14:16 JST／対象: 09/12 08:16 〜 09/12 14:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 100 | 09/12 09:02 | 09/12 13:55 | 13分（11:26→11:40） |
-| financialjuice | 15 | 09/12 07:58 | 09/12 13:04 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 102 | 09/12 09:02 | 09/12 14:10 | 13分（11:26→11:40） |
+| financialjuice | 10 | 09/12 08:31 | 09/12 13:04 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 115 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 112 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 07:58 [financialjuice] Nvidia expected to lead Anthropic IPO, sources say
-- 09/12 07:58 [financialjuice] Nvidia to invest up to $10 billion in Anthropic IPO, source says
-- 09/12 08:01 [financialjuice] Saudi civil defense: early alert issued in Taif to warn of possible threat
-- 09/12 08:03 [financialjuice] North Korea launches multiple ballistic missiles: South Korea's JCS
-- 09/12 08:06 [financialjuice] Saudi civil defense: danger has passed in Taif
 - 09/12 08:31 [financialjuice] Next round of Israel-Lebanon talks postponed: Axios
 - 09/12 08:35 [financialjuice] Iraq orders closure of Shalamcheh border crossing with Iran as precaution after latest attacks on Saudi Arabia: two security sources
 - 09/12 08:38 [financialjuice] South Korea's presidential office: North Korea's ballistic missile launch breaches U.N. Security Council resolutions, holds emergency security review meeting - Yonhap
@@ -139,3 +134,5 @@
 - 09/12 13:34 [FirstSquawk] Singapore, China lead global education rankings while OECD student scores fall sharply.
 - 09/12 13:44 [FirstSquawk] UK Parliament blocks legislation seeking to legalize assisted dying in England and Wales.
 - 09/12 13:55 [FirstSquawk] Mandatory internships drive over 60% of new dentists into Hong Kong’s health department.
+- 09/12 14:01 [FirstSquawk] Xi’s India Visit, Bank Capital Boosts and EU-China Trade in Focus — SCMP China’s President Xi Jinping’s India visit, fresh bank capital injections and the evolving EU-China trade relationship are among the key developments shaping Beijing’s…
+- 09/12 14:10 [FirstSquawk] Munich Strengthens Position as Chinese Automakers’ R&D Hub in Europe Munich is cementing its role as a key European research and development base for Chinese carmakers, while BMW is losing employees to Chinese startups increasingly viewed a…
