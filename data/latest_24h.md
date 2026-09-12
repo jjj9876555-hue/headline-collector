@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 17:45 JST／対象: 09/11 17:45 〜 09/12 17:45 JST（時刻はすべて日本時間）
+生成: 2026-09-12 17:58 JST／対象: 09/11 17:58 〜 09/12 17:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 09/11 17:48 | 09/12 16:41 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 213 | 09/11 17:46 | 09/12 16:00 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 168 | 09/11 17:54 | 09/12 17:36 | ⚠ 170分（10:12→13:03） |
+| DeItaone | 35 | 09/11 18:20 | 09/12 16:41 | ⚠ 751分（04:10→16:41） |
+| FirstSquawk | 218 | 09/11 18:01 | 09/12 17:58 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 167 | 09/11 18:05 | 09/12 17:36 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 416 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 419 行（統合前 422 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 17:46 [FirstSquawk] FRANCE HAS REDUCED ITS 2026 GDP GROWTH PREDICTION TO 0.5% AND EXPECTS 1% GROWTH IN 2027.
-- 09/11 17:48 [DeItaone] *FRANCE CUTS 2026 GDP GROWTH FORECAST TO 0.5%, SEES +1% IN 2027
-- 09/11 17:54 [financialjuice] Japan 2026 extraordinary diet session eyed 69 days - Kyodo
-- 09/11 17:55 [FirstSquawk] UAE COMMITTED €40BN (~$46BN) IN NEW INVESTMENTS IN GERMANY, ADDING TO ABOUT €34BN ALREADY INVESTED, DURING SHEIKH MOHAMED BIN ZAYED'S VISIT.
-- 09/11 17:55 [FirstSquawk] THE MONEY FOCUSES ON INDUSTRY, AI/TECH, DIGITAL INFRASTRUCTURE, AND ENERGY WITH ABOUT 1 GW OF NEW DATA CENTERS; €10BN IS SET ASIDE FOR BAVARIA. IN ADDITION, COMPANIES SIGNED 29 AGREEMENTS WORTH OVER €9.4BN, AND GERMANY APPROVED DAILY FLIGHT…
-- 09/11 17:56 [FirstSquawk] EUROPEAN CENTRAL BANK INCREASED INTEREST RATES TODAY AS ANTICIPATED, SHOWING THE EUROZONE IS EXPERIENCING NEW INFLATION CHALLENGES.
 - 09/11 18:01 [FirstSquawk] UAE IS CHANGEING STRATEGY FOR 5-GIGAWATT AI CAMPUS DUE TO IRANIAN ATTACKS, SOURCES REPORT.
 - 09/11 18:01 [FirstSquawk] PROJECT IS EXPECTED TO MOVE TO A NETWORK OF DATA CENTERS IN THE UAE, ACCORDING TO SOURCES.
 - 09/11 18:05 [financialjuice] Iran-backed Houthis reached strategic Yemeni island of Perim in Bab El-Mandeb strait early on Friday - Four Yemeni Government Sources.
@@ -440,3 +434,12 @@
 - 09/12 16:00 [FirstSquawk] BOJ JGB HOLDINGS PLUNGE BY RECORD ¥47.8 TRILLION YOY IN JULY BANK OF JAPAN CUTS GOVERNMENT BOND HOLDINGS AT UNPRECEDENTED PACE; ¥47.8 TRILLION ANNUAL DROP MARKS BIGGEST DECLINE EVER
 - 09/12 16:41 [DeItaone] IRAN RULES OUT U.S. TALKS WITHOUT CONDITIONS Iranian lawmaker Ebrahim Azizi says Tehran will not negotiate with Washington until Iran’s conditions are met, declaring that talks would otherwise be “futile.” The statement comes amid reports t…
 - 09/12 17:36 [financialjuice] Ukraine strikes Russia's top synthetic rubber maker in Togliatti in Samara region: Ukrainian military
+- 09/12 17:55 [FirstSquawk] Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace
+- 09/12 17:55 [FirstSquawk] Trump: If China wanted to come in and open a plant to build their cars here, I would be okay with it. Japan does it. But they hire our people. The big thing is they hire our people. In fact, they use our people.
+- 09/12 17:55 [FirstSquawk] Drones struck Taganrog's military airbase and key chemical plants in Tolyatti, including KuibyshevAzot and Tolyattikauchuk. Fires erupted across multiple Russian defense-industrial facilities.
+- 09/12 17:55 [FirstSquawk] Iraqi Speaker of Parliament: Confining arms to the hands of the state prevents the country from being dragged into regional conflicts
+- 09/12 17:56 [FirstSquawk] Zelensky: There is no army like Ukraine’s in Europe right now. Of course, for now — Europe is developing and will receive information, technologies, and experience from us through partnership. But there is no such army anywhere in Europe.
+- 09/12 17:56 [FirstSquawk] India-China relations, from conflict to cautious
+- 09/12 17:57 [FirstSquawk] Mohammadreza Mohseni-Sani, a member of parliament's National Security and Foreign Policy Committee, said Iran no longer regarded itself as bound by the Nuclear Non-Proliferation Treaty and could reconsider its uranium enrichment policy. "As…
+- 09/12 17:57 [FirstSquawk] Iran President says supreme leader Mojtaba Khamenei is alive and the U.S. can’t locate him.
+- 09/12 17:58 [FirstSquawk] Chinese company Huawei Technologies has developed a large language model trained on regional history, used for generating tourism content

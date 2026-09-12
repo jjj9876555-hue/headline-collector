@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 17:45 JST／対象: 09/12 05:45 〜 09/12 17:45 JST（時刻はすべて日本時間）
+生成: 2026-09-12 17:58 JST／対象: 09/12 05:58 〜 09/12 17:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 16:41 | 09/12 16:41 | - |
-| FirstSquawk | 109 | 09/12 09:02 | 09/12 16:00 | ⚠ 60分（15:00→16:00） |
-| financialjuice | 38 | 09/12 05:47 | 09/12 17:36 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 118 | 09/12 09:02 | 09/12 17:58 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 35 | 09/12 06:08 | 09/12 17:36 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 148 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 154 行（統合前 154 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 05:47 [financialjuice] Saudi blames oil pipeline attack on drones from Iraq - AP News
-- 09/12 05:48 [financialjuice] Secretary-General of the Gulf Cooperation Council: Iraq must take the necessary and firm measures to prevent attacks.
-- 09/12 05:55 [financialjuice] JPMorgan cut off lending activity for situational awareness - FT.
 - 09/12 06:08 [financialjuice] North Korea launches unidentified missile into East Sea: South Korea's defense ministry
 - 09/12 06:22 [financialjuice] Putin: will not comment on election in Saxony-Anhalt, purely internal German affair
 - 09/12 06:22 [financialjuice] Putin: current events in Europe result of systemic mistakes by Western globalists
@@ -172,3 +169,12 @@
 - 09/12 16:00 [FirstSquawk] BOJ JGB HOLDINGS PLUNGE BY RECORD ¥47.8 TRILLION YOY IN JULY BANK OF JAPAN CUTS GOVERNMENT BOND HOLDINGS AT UNPRECEDENTED PACE; ¥47.8 TRILLION ANNUAL DROP MARKS BIGGEST DECLINE EVER
 - 09/12 16:41 [DeItaone] IRAN RULES OUT U.S. TALKS WITHOUT CONDITIONS Iranian lawmaker Ebrahim Azizi says Tehran will not negotiate with Washington until Iran’s conditions are met, declaring that talks would otherwise be “futile.” The statement comes amid reports t…
 - 09/12 17:36 [financialjuice] Ukraine strikes Russia's top synthetic rubber maker in Togliatti in Samara region: Ukrainian military
+- 09/12 17:55 [FirstSquawk] Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace
+- 09/12 17:55 [FirstSquawk] Trump: If China wanted to come in and open a plant to build their cars here, I would be okay with it. Japan does it. But they hire our people. The big thing is they hire our people. In fact, they use our people.
+- 09/12 17:55 [FirstSquawk] Drones struck Taganrog's military airbase and key chemical plants in Tolyatti, including KuibyshevAzot and Tolyattikauchuk. Fires erupted across multiple Russian defense-industrial facilities.
+- 09/12 17:55 [FirstSquawk] Iraqi Speaker of Parliament: Confining arms to the hands of the state prevents the country from being dragged into regional conflicts
+- 09/12 17:56 [FirstSquawk] Zelensky: There is no army like Ukraine’s in Europe right now. Of course, for now — Europe is developing and will receive information, technologies, and experience from us through partnership. But there is no such army anywhere in Europe.
+- 09/12 17:56 [FirstSquawk] India-China relations, from conflict to cautious
+- 09/12 17:57 [FirstSquawk] Mohammadreza Mohseni-Sani, a member of parliament's National Security and Foreign Policy Committee, said Iran no longer regarded itself as bound by the Nuclear Non-Proliferation Treaty and could reconsider its uranium enrichment policy. "As…
+- 09/12 17:57 [FirstSquawk] Iran President says supreme leader Mojtaba Khamenei is alive and the U.S. can’t locate him.
+- 09/12 17:58 [FirstSquawk] Chinese company Huawei Technologies has developed a large language model trained on regional history, used for generating tourism content
