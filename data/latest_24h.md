@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 03:25 JST／対象: 09/12 03:25 〜 09/13 03:25 JST（時刻はすべて日本時間）
+生成: 2026-09-13 03:42 JST／対象: 09/12 03:42 〜 09/13 03:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/12 04:10 | 09/13 01:48 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 261 | 09/12 03:28 | 09/13 03:18 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 132 | 09/12 03:28 | 09/13 03:14 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 260 | 09/12 03:45 | 09/13 03:29 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 126 | 09/12 03:45 | 09/13 03:14 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 418 行（統合前 423 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 411 行（統合前 416 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 03:28 [financialjuice] ❗ Saudi Arabia: East-West pipeline shut down as a precaution.
-- 09/12 03:28 [FirstSquawk] SAUDI: EAST–WEST PIPELINE SHUT DOWN AS PRECAUTION AFTER ATTACK
-- 09/12 03:28 [financialjuice] Saudi Energy Ministry: East-West pipeline was temporarily shut down after several attacks on the pipeline in the Riyadh and Medina regions on Thursday.
-- 09/12 03:28 [FirstSquawk] SAUDI: EAST–WEST PIPELINE WAS HIT BY MULTIPLE ATTACKS THURSDAY
-- 09/12 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $100.05 a barrel down $2.43, 2.3%
-- 09/12 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.9593 a gallon
-- 09/12 03:32 [FirstSquawk] SAUDI: TAKING STEPS TO SECURE PIPELINE, ASSESS SAFETY
-- 09/12 03:32 [financialjuice] Saudi Arabia: Taking steps to secure pipeline, assess safety.
-- 09/12 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8310/MMBTU
-- 09/12 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $100.05/BBL, DOWN $2.43, 2.37%
 - 09/12 03:45 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $104.61/BBL, DOWN $3.02, 2.81 PCT
 - 09/12 03:45 [financialjuice] Brent Crude futures settle at $104.61/bbl, down $3.02, 2.81%
 - 09/12 03:47 [financialjuice] Iran has launched drones towards ships in the Strait of Hormuz - Israel's Channel 12 News
@@ -442,3 +432,6 @@
 - 09/13 03:18 [FirstSquawk] Saudi Civil Defense: Alert issued in Khamis Mushait and Abha to warn of danger
 - 09/13 03:18 [FirstSquawk] Iranian News Agency: Two explosions heard from the sea off Qeshm Island in Hormozgan province, southern Iran
 - 09/13 03:18 [FirstSquawk] Saudi Civil Defense: Danger has passed in Khamis Mushait and Abha.
+- 09/13 03:27 [FirstSquawk] Iranian media: Two explosions heard on Qeshm Island from the sea.
+- 09/13 03:28 [FirstSquawk] UK foreign secretary Ed Miliband Says UK stands firmly with Saudi Arabia and internationally recognized Yemen government against attacks
+- 09/13 03:29 [FirstSquawk] UK foreign secretary Ed Miliband Says discussed Houthi aggression in Yemen and attacks on Saudi Arabia with Saudi foreign minister

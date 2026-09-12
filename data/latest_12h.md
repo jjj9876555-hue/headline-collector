@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 03:25 JST／対象: 09/12 15:25 〜 09/13 03:25 JST（時刻はすべて日本時間）
+生成: 2026-09-13 03:42 JST／対象: 09/12 15:42 〜 09/13 03:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 134 | 09/12 16:00 | 09/13 03:18 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 70 | 09/12 15:31 | 09/13 03:14 | ⚠ 112分（15:43→17:36） |
+| FirstSquawk | 137 | 09/12 16:00 | 09/13 03:29 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 61 | 09/12 15:43 | 09/13 03:14 | ⚠ 112分（15:43→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 228 行（統合前 231 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 222 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 15:31 [financialjuice] India's markets regulator proposes six steps to enhance derivatives settlement prices in closing auction session
-- 09/12 15:31 [financialjuice] India's Sebi proposes adjustments to closing auction price band
-- 09/12 15:31 [financialjuice] India's SEBI: Closing auction orders outside 1% range will not be allowed to be canceled
-- 09/12 15:32 [financialjuice] India's Sebi proposes using closing auction session and volume-weighted average price for index and single stock derivatives on expiry day
-- 09/12 15:32 [financialjuice] India's Sebi proposes withholding indicative closing levels of index during closing auction session
-- 09/12 15:32 [financialjuice] Saudi civil defense: early warning issued in Sharurah to signal potential danger
-- 09/12 15:32 [financialjuice] India's Sebi proposes cutting post-closing auction window for derivatives segment to 5 minutes from 10 minutes
-- 09/12 15:33 [financialjuice] India's SEBI proposes to continue publishing indicative equilibrium price for stocks in closing auction session
-- 09/12 15:42 [financialjuice] Russian defence ministry: Russian troops strike two cargo ships in Ukrainian port of Chornomorsk
 - 09/12 15:43 [financialjuice] Russian Defence Ministry: Russian forces also strike metallurgical plant in Ukraine's Zaporizhzhia region - RIA
 - 09/12 16:00 [FirstSquawk] BOJ JGB HOLDINGS PLUNGE BY RECORD ¥47.8 TRILLION YOY IN JULY BANK OF JAPAN CUTS GOVERNMENT BOND HOLDINGS AT UNPRECEDENTED PACE; ¥47.8 TRILLION ANNUAL DROP MARKS BIGGEST DECLINE EVER
 - 09/12 16:41 [DeItaone] IRAN RULES OUT U.S. TALKS WITHOUT CONDITIONS Iranian lawmaker Ebrahim Azizi says Tehran will not negotiate with Washington until Iran’s conditions are met, declaring that talks would otherwise be “futile.” The statement comes amid reports t…
@@ -252,3 +243,6 @@
 - 09/13 03:18 [FirstSquawk] Saudi Civil Defense: Alert issued in Khamis Mushait and Abha to warn of danger
 - 09/13 03:18 [FirstSquawk] Iranian News Agency: Two explosions heard from the sea off Qeshm Island in Hormozgan province, southern Iran
 - 09/13 03:18 [FirstSquawk] Saudi Civil Defense: Danger has passed in Khamis Mushait and Abha.
+- 09/13 03:27 [FirstSquawk] Iranian media: Two explosions heard on Qeshm Island from the sea.
+- 09/13 03:28 [FirstSquawk] UK foreign secretary Ed Miliband Says UK stands firmly with Saudi Arabia and internationally recognized Yemen government against attacks
+- 09/13 03:29 [FirstSquawk] UK foreign secretary Ed Miliband Says discussed Houthi aggression in Yemen and attacks on Saudi Arabia with Saudi foreign minister
