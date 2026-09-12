@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 00:15 JST／対象: 09/12 18:15 〜 09/13 00:15 JST（時刻はすべて日本時間）
+生成: 2026-09-13 00:31 JST／対象: 09/12 18:31 〜 09/13 00:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/12 18:22 | 09/13 00:09 | ⚠ 78分（19:04→20:23） |
-| FirstSquawk | 97 | 09/12 18:15 | 09/12 23:59 | 45分（21:53→22:38） |
-| financialjuice | 38 | 09/12 18:44 | 09/12 23:09 | ⚠ 57分（18:57→19:55） |
+| DeItaone | 20 | 09/12 18:57 | 09/13 00:09 | ⚠ 78分（19:04→20:23） |
+| FirstSquawk | 100 | 09/12 18:38 | 09/13 00:30 | 45分（21:53→22:38） |
+| financialjuice | 40 | 09/12 18:44 | 09/13 00:19 | ⚠ 69分（23:09→00:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 155 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 159 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 18:15 [FirstSquawk] Russian President Vladimir Putin said Europe’s current problems are the result of what he described as “systemic mistakes” by the West’s globalists in politics, security and the economy. Putin said Western elites felt they were at the “top …
-- 09/12 18:16 [FirstSquawk] Iran has moved from a defensive to an offensive military strategy, lawmaker Esmail Kowsari, a member of parliament's National Security and Foreign Policy Committee, told Defa Press on Saturday.
-- 09/12 18:16 [FirstSquawk] Tesla and the Musks 'Chinamaxx' as rumors swirl over EV maker's plans
-- 09/12 18:22 [DeItaone] BANKS RAISE CORE PCE FORECASTS AFTER CPI Wall Street economists have raised their August core PCE estimates following the latest CPI data, with forecasts now clustering in the high 0.20% range and several banks seeing 0.30% or higher. *Barc…
 - 09/12 18:38 [FirstSquawk] TRUMP ON IRAN: EVERYTHING WILL WORK OUT FINE
 - 09/12 18:42 [FirstSquawk] FORD IS RECALLING 223,472 VEHICLES IN THE U.S., ACCORDING TO NHTSA.
 - 09/12 18:42 [FirstSquawk] FORD IS RECALLING U.S. CARS DUE TO A DETACHED FUEL TANK THAT MIGHT CREATE ROAD HAZARDS, HIKING THE CRASH RISK. A FUEL LEAK COULD ALSO RESULT IN ENGINE FAILURE OR FIRE RISKS. - NHTSA
@@ -179,3 +175,11 @@
 - 09/12 23:58 [FirstSquawk] PEZESHKIAN SAYS US SHOULD CEASE BULLYING TACTICS IN COMMUNICATION.
 - 09/12 23:59 [FirstSquawk] PEZESHKIAN STATES NO DECISION HAS BEEN MADE REGARDING DIRECT TALKS WITH THE US, AND A TRUSTING ENVIRONMENT MUST BE CREATED.
 - 09/13 00:09 [DeItaone] IRAN, UAE BACK BRICS CALL FOR RESTRAINT Iran and the UAE jointly backed a BRICS declaration calling for maximum restraint in the Middle East war, marking a notable diplomatic step between the two sides. Iranian President Masoud Pezeshkian a…
+- 09/13 00:19 [financialjuice] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 million cubic feet/day from 135 million — PM's office
+- 09/13 00:19 [financialjuice] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd: PM’s office
+- 09/13 00:22 [FirstSquawk] ELON MUSK AGREES WITH AMODEI ON THE NEED TO SLOW DOWN AI MODEL DEVELOPMENT.
+- 09/13 00:22 [FirstSquawk] CENTCOM REPORTS 100 COMMERCIAL SHIPS HAVE BEEN DIVERTED DUE TO THE BLOCKADE IN IRAN.
+- 09/13 00:22 [FirstSquawk] PEZESHKIAN SAYS THE STRAIT OF HORMUZ WILL REOPEN IF THE U.S. LIFTS THE BLOCKADE, AND THAT THE SUPREME LEADER HAS THE FINAL DECISION IN IRAN.
+- 09/13 00:22 [FirstSquawk] IRAN AND OMAN FOREIGN MINISTERS TALK ABOUT REGIONAL ISSUES IN A PHONE CALL.
+- 09/13 00:29 [FirstSquawk] Xi and Modi Move Toward Better Ties Chinese President Xi Jinping and Indian Prime Minister Narendra Modi met in New Delhi to improve relations between China and India. The two leaders discussed the border dispute, trade, supply chains and m…
+- 09/13 00:30 [FirstSquawk] Anthropic CEO Calls for Slower AI Development Anthropic CEO Dario Amodei has called for the AI industry to slow the pace of developing new models, warning that rapidly advancing AI could create serious risks for humans. He pointed to AI’s g…

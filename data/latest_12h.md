@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 00:15 JST／対象: 09/12 12:15 〜 09/13 00:15 JST（時刻はすべて日本時間）
+生成: 2026-09-13 00:31 JST／対象: 09/12 12:31 〜 09/13 00:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/12 16:41 | 09/13 00:09 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 133 | 09/12 12:15 | 09/12 23:59 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 53 | 09/12 13:03 | 09/12 23:09 | ⚠ 126分（13:04→15:10） |
+| FirstSquawk | 136 | 09/12 12:36 | 09/13 00:30 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 55 | 09/12 13:03 | 09/13 00:19 | ⚠ 126分（13:04→15:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 209 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 214 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 12:15 [FirstSquawk] Canada secures Dominican approval for beef and beef-product imports, covering cattle of all ages.
-- 09/12 12:21 [FirstSquawk] Fed rate bets put pressure on AUD/USD as the pair struggles past the Doji high.
-- 09/12 12:29 [FirstSquawk] GSK plans to shut down flu vaccine production in Dresden by summer 2027.
 - 09/12 12:36 [FirstSquawk] Trump visit prompts major security operation across Ireland, with 4,000 officers deployed.
 - 09/12 12:46 [FirstSquawk] Iraqi commander ousted as probe finds recent attacks on Saudi Arabia were launched from Iraq.
 - 09/12 12:56 [FirstSquawk] Chinese AI companies decline meetings with US delegation amid sanctions fears, commission says.
@@ -233,3 +230,11 @@
 - 09/12 23:58 [FirstSquawk] PEZESHKIAN SAYS US SHOULD CEASE BULLYING TACTICS IN COMMUNICATION.
 - 09/12 23:59 [FirstSquawk] PEZESHKIAN STATES NO DECISION HAS BEEN MADE REGARDING DIRECT TALKS WITH THE US, AND A TRUSTING ENVIRONMENT MUST BE CREATED.
 - 09/13 00:09 [DeItaone] IRAN, UAE BACK BRICS CALL FOR RESTRAINT Iran and the UAE jointly backed a BRICS declaration calling for maximum restraint in the Middle East war, marking a notable diplomatic step between the two sides. Iranian President Masoud Pezeshkian a…
+- 09/13 00:19 [financialjuice] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 million cubic feet/day from 135 million — PM's office
+- 09/13 00:19 [financialjuice] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd: PM’s office
+- 09/13 00:22 [FirstSquawk] ELON MUSK AGREES WITH AMODEI ON THE NEED TO SLOW DOWN AI MODEL DEVELOPMENT.
+- 09/13 00:22 [FirstSquawk] CENTCOM REPORTS 100 COMMERCIAL SHIPS HAVE BEEN DIVERTED DUE TO THE BLOCKADE IN IRAN.
+- 09/13 00:22 [FirstSquawk] PEZESHKIAN SAYS THE STRAIT OF HORMUZ WILL REOPEN IF THE U.S. LIFTS THE BLOCKADE, AND THAT THE SUPREME LEADER HAS THE FINAL DECISION IN IRAN.
+- 09/13 00:22 [FirstSquawk] IRAN AND OMAN FOREIGN MINISTERS TALK ABOUT REGIONAL ISSUES IN A PHONE CALL.
+- 09/13 00:29 [FirstSquawk] Xi and Modi Move Toward Better Ties Chinese President Xi Jinping and Indian Prime Minister Narendra Modi met in New Delhi to improve relations between China and India. The two leaders discussed the border dispute, trade, supply chains and m…
+- 09/13 00:30 [FirstSquawk] Anthropic CEO Calls for Slower AI Development Anthropic CEO Dario Amodei has called for the AI industry to slow the pace of developing new models, warning that rapidly advancing AI could create serious risks for humans. He pointed to AI’s g…

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 00:15 JST／対象: 09/12 00:15 〜 09/13 00:15 JST（時刻はすべて日本時間）
+生成: 2026-09-13 00:31 JST／対象: 09/12 00:31 〜 09/13 00:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 26 | 09/12 04:10 | 09/13 00:09 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 260 | 09/12 00:31 | 09/12 23:59 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 134 | 09/12 00:19 | 09/12 23:09 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 266 | 09/12 00:31 | 09/13 00:30 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 134 | 09/12 00:52 | 09/13 00:19 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 418 行（統合前 422 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 424 行（統合前 428 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 00:19 [financialjuice] The House plans to vote on a Russia sanctions bill next week - Person Familiar.
-- 09/12 00:26 [financialjuice] Tesla: Semi truck is coming to Europe - X Post. $TSLA
 - 09/12 00:31 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.35%; GERMANY'S DAX UP 0.77%
 - 09/12 00:31 [FirstSquawk] FRANCE'S CAC 40 UP 0.74%; SPAIN'S IBEX UP 0.86%
 - 09/12 00:52 [financialjuice] IIF: China equities see $3.5 bln outflow in August, China debt draws $0.2 bln inflow.
@@ -442,3 +440,11 @@
 - 09/12 23:58 [FirstSquawk] PEZESHKIAN SAYS US SHOULD CEASE BULLYING TACTICS IN COMMUNICATION.
 - 09/12 23:59 [FirstSquawk] PEZESHKIAN STATES NO DECISION HAS BEEN MADE REGARDING DIRECT TALKS WITH THE US, AND A TRUSTING ENVIRONMENT MUST BE CREATED.
 - 09/13 00:09 [DeItaone] IRAN, UAE BACK BRICS CALL FOR RESTRAINT Iran and the UAE jointly backed a BRICS declaration calling for maximum restraint in the Middle East war, marking a notable diplomatic step between the two sides. Iranian President Masoud Pezeshkian a…
+- 09/13 00:19 [financialjuice] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 million cubic feet/day from 135 million — PM's office
+- 09/13 00:19 [financialjuice] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd: PM’s office
+- 09/13 00:22 [FirstSquawk] ELON MUSK AGREES WITH AMODEI ON THE NEED TO SLOW DOWN AI MODEL DEVELOPMENT.
+- 09/13 00:22 [FirstSquawk] CENTCOM REPORTS 100 COMMERCIAL SHIPS HAVE BEEN DIVERTED DUE TO THE BLOCKADE IN IRAN.
+- 09/13 00:22 [FirstSquawk] PEZESHKIAN SAYS THE STRAIT OF HORMUZ WILL REOPEN IF THE U.S. LIFTS THE BLOCKADE, AND THAT THE SUPREME LEADER HAS THE FINAL DECISION IN IRAN.
+- 09/13 00:22 [FirstSquawk] IRAN AND OMAN FOREIGN MINISTERS TALK ABOUT REGIONAL ISSUES IN A PHONE CALL.
+- 09/13 00:29 [FirstSquawk] Xi and Modi Move Toward Better Ties Chinese President Xi Jinping and Indian Prime Minister Narendra Modi met in New Delhi to improve relations between China and India. The two leaders discussed the border dispute, trade, supply chains and m…
+- 09/13 00:30 [FirstSquawk] Anthropic CEO Calls for Slower AI Development Anthropic CEO Dario Amodei has called for the AI industry to slow the pace of developing new models, warning that rapidly advancing AI could create serious risks for humans. He pointed to AI’s g…
