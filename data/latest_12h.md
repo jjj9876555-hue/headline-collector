@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 22:30 JST／対象: 09/12 10:30 〜 09/12 22:30 JST（時刻はすべて日本時間）
+生成: 2026-09-12 22:42 JST／対象: 09/12 10:42 〜 09/12 22:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/12 16:41 | 09/12 21:56 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 139 | 09/12 10:31 | 09/12 21:53 | ⚠ 114分（16:00→17:55） |
+| FirstSquawk | 137 | 09/12 10:42 | 09/12 22:39 | ⚠ 114分（16:00→17:55） |
 | financialjuice | 38 | 09/12 13:03 | 09/12 21:56 | ⚠ 126分（13:04→15:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 197 行（統合前 199 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 195 行（統合前 197 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 10:31 [FirstSquawk] Pham Nhat Vuong set to exit as VinFast chief executive.
-- 09/12 10:31 [FirstSquawk] Pham Nhat Quan Anh to take over as VinFast’s global chief executive.
-- 09/12 10:35 [FirstSquawk] Pyongyang fired an unidentified projectile in the direction of the East Sea, according to Yonhap.
-- 09/12 10:38 [FirstSquawk] Private-sector delivery and equity capacity emerge as main risks to Mexico’s power-grid expansion, Fitch says.
-- 09/12 10:41 [FirstSquawk] Baghdad thanks Riyadh for choosing not to retaliate, state media says.
-- 09/12 10:42 [FirstSquawk] Baghdad condemns any assault that puts Saudi security and stability at risk.
-- 09/12 10:42 [FirstSquawk] Baghdad launches an investigation to determine who was behind the attacks.
 - 09/12 10:42 [FirstSquawk] Baghdad vows to cooperate with allies and friends to stop future attacks.
 - 09/12 10:46 [FirstSquawk] Hamaoka nuclear plant’s restart applications in Japan to be pulled - kyodo
 - 09/12 10:48 [FirstSquawk] President Donald Trump’s promised $5,000 “dividend” for all U.S. adults would not be paid for with taxpayer dollars, Commerce Secretary Howard Lutnick said Thursday. “It’s not tax money,” Lutnick told NBC News in a wide-ranging interview at…
@@ -221,3 +214,8 @@
 - 09/12 21:53 [FirstSquawk] IRAQ'S PRIME MINISTER ANNOUNCED AN INVESTIGATION INTO MISSILE LAUNCHERS DISCOVERED NEAR THE IRAN BORDER.
 - 09/12 21:56 [financialjuice] Iraq agrees to Iranian request to jointly probe drone launchers on border: Iraqi army
 - 09/12 21:56 [DeItaone] IRAQ AGREES TO IRANIAN REQUEST TO JOINTLY INVESTIGATE EXISTENCE OF DRONE LAUNCHERS ON THE BORDER BETWEEN THE TWO COUNTRIES - IRAQI ARMY
+- 09/12 22:38 [FirstSquawk] Abu Dhabi Crown Prince Sheikh Khalid bin Mohamed bin Zayed meets Iranian President on the sidelines of BRICS summit in New Delhi
+- 09/12 22:38 [FirstSquawk] Abu Dhabi Crown Prince discusses with Iranian President on the sidelines of BRICS summit the importance of supporting de-escalation efforts
+- 09/12 22:38 [FirstSquawk] Arab League Secretary-General Condemns Attacks on Oil Facilities in Saudi Arabia
+- 09/12 22:38 [FirstSquawk] The Secretary-General of the League of Arab States affirms the League's categorical rejection of the use of the territory of any Arab country as a starting point for launching attacks on another Arab country or undermining its security and …
+- 09/12 22:39 [FirstSquawk] Kremlin: We are concerned about the situation in the Bab al-Mandab Strait

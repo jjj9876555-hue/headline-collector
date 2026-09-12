@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 22:30 JST／対象: 09/12 16:30 〜 09/12 22:30 JST（時刻はすべて日本時間）
+生成: 2026-09-12 22:42 JST／対象: 09/12 16:42 〜 09/12 22:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/12 16:41 | 09/12 21:56 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 82 | 09/12 17:55 | 09/12 21:53 | 35分（19:07→19:43） |
+| DeItaone | 21 | 09/12 18:07 | 09/12 21:56 | ⚠ 78分（19:04→20:23） |
+| FirstSquawk | 87 | 09/12 17:55 | 09/12 22:39 | 45分（21:53→22:38） |
 | financialjuice | 25 | 09/12 17:36 | 09/12 21:56 | ⚠ 57分（18:57→19:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 127 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 131 行（統合前 133 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 16:41 [DeItaone] IRAN RULES OUT U.S. TALKS WITHOUT CONDITIONS Iranian lawmaker Ebrahim Azizi says Tehran will not negotiate with Washington until Iran’s conditions are met, declaring that talks would otherwise be “futile.” The statement comes amid reports t…
 - 09/12 17:36 [financialjuice] Ukraine strikes Russia's top synthetic rubber maker in Togliatti in Samara region: Ukrainian military
 - 09/12 17:55 [FirstSquawk] Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace
 - 09/12 17:55 [FirstSquawk] Trump: If China wanted to come in and open a plant to build their cars here, I would be okay with it. Japan does it. But they hire our people. The big thing is they hire our people. In fact, they use our people.
@@ -151,3 +150,8 @@
 - 09/12 21:53 [FirstSquawk] IRAQ'S PRIME MINISTER ANNOUNCED AN INVESTIGATION INTO MISSILE LAUNCHERS DISCOVERED NEAR THE IRAN BORDER.
 - 09/12 21:56 [financialjuice] Iraq agrees to Iranian request to jointly probe drone launchers on border: Iraqi army
 - 09/12 21:56 [DeItaone] IRAQ AGREES TO IRANIAN REQUEST TO JOINTLY INVESTIGATE EXISTENCE OF DRONE LAUNCHERS ON THE BORDER BETWEEN THE TWO COUNTRIES - IRAQI ARMY
+- 09/12 22:38 [FirstSquawk] Abu Dhabi Crown Prince Sheikh Khalid bin Mohamed bin Zayed meets Iranian President on the sidelines of BRICS summit in New Delhi
+- 09/12 22:38 [FirstSquawk] Abu Dhabi Crown Prince discusses with Iranian President on the sidelines of BRICS summit the importance of supporting de-escalation efforts
+- 09/12 22:38 [FirstSquawk] Arab League Secretary-General Condemns Attacks on Oil Facilities in Saudi Arabia
+- 09/12 22:38 [FirstSquawk] The Secretary-General of the League of Arab States affirms the League's categorical rejection of the use of the territory of any Arab country as a starting point for launching attacks on another Arab country or undermining its security and …
+- 09/12 22:39 [FirstSquawk] Kremlin: We are concerned about the situation in the Bab al-Mandab Strait

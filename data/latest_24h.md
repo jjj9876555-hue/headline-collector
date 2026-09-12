@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 22:30 JST／対象: 09/11 22:30 〜 09/12 22:30 JST（時刻はすべて日本時間）
+生成: 2026-09-12 22:42 JST／対象: 09/11 22:42 〜 09/12 22:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/11 22:33 | 09/12 21:56 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 253 | 09/11 22:32 | 09/12 21:53 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 147 | 09/11 22:31 | 09/12 21:56 | ⚠ 170分（10:12→13:03） |
+| DeItaone | 27 | 09/11 22:49 | 09/12 21:56 | ⚠ 751分（04:10→16:41） |
+| FirstSquawk | 254 | 09/11 22:48 | 09/12 22:39 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 141 | 09/11 22:49 | 09/12 21:56 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 428 行（統合前 432 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 420 行（統合前 424 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 451.3 MLN NASDAQ 100: -0.6 MLN DOW 30: 93.3 MLN MAG 7: -0.9 MLN $MACRO
-- 09/11 22:32 [FirstSquawk] NASDAQ UP 213.80 POINTS, OR 0.82 PERCENT, AT 26,295.53 AFTER MARKET OPEN S&P 500 UP 65.32 POINTS, OR 0.86 PERCENT, AT 7,657.02 AFTER MARKET OPEN DOW JONES UP 539.30 POINTS, OR 1.04 PERCENT, AT 52,603.40 AFTER MARKET OPEN
-- 09/11 22:32 [financialjuice] Chevron: We still see oil price risks to the upside due to Hormuz. $CVX
-- 09/11 22:33 [DeItaone] IRAN PLANS REGIONAL MEETING WITH IRAQ AND OTHER REGIONAL COUNTRIES IN OMAN TO DISCUSS SAFE COMMERCIAL SHIPPING ROUTES IN STRAIT OF HORMUZ ON MONDAY - FOREIGN MINISTRY SPOKESPERSON
-- 09/11 22:33 [financialjuice] Iran Foreign Ministry spokesperson announces plans for regional meeting involving Persian Gulf countries.
-- 09/11 22:34 [FirstSquawk] IRAN WILL HOST A MEETING ON MONDAY IN OMAN WITH IRAQ AND NEIGHBORING COUNTRIES TO TALK ABOUT SECURE SHIPPING ROUTES IN THE STRAIT OF HORMUZ, ACCORDING TO FARS REPORTING A FOREIGN MINISTRY SPOKESPERSON.
-- 09/11 22:34 [FirstSquawk] CHEVRON CEO MIKE WIRTH STATED THAT INITIAL SAFEGUARDS IN THE OIL MARKET HAVE "RUN THEIR COURSE", INCREASING PRICE RISK DUE TO THE IRAN CONFLICT - CONFERENCE.
-- 09/11 22:34 [FirstSquawk] CHEVRON CEO ANNOUNCED THAT A $7 BILLION INVESTMENT IN VENEZUELA OVER FIVE YEARS WILL BE FUNDED BY CASH FLOW FROM THREE JOINT VENTURES.
-- 09/11 22:35 [financialjuice] Iran plans a regional meeting with Iraq and other regional countries in Oman to discuss safe commercial shipping routes in the Strait of Hormuz on Monday - Fars, citing the Foreign Ministry Spokesperson
-- 09/11 22:36 [DeItaone] IRAN CONFIRMS REGIONAL TALKS ON HORMUZ SHIPPING Iran’s Foreign Ministry confirmed a regional meeting will be held in Oman on Monday, involving Iran, Iraq and other Gulf states to discuss security and commercial shipping through the Strait o…
-- 09/11 22:36 [financialjuice] Iran Foreign Ministry Spokesperson Baghaei: Iran considers itself committed to ensuring maritime security in the Strait of Hormuz - Tasnim News.
-- 09/11 22:37 [financialjuice] Iran Foreign Ministry spokesperson: Strait of Hormuz navigation cannot be guaranteed while US maritime blockades and economic warfare continue.
-- 09/11 22:39 [DeItaone] SITUATIONAL AWARENESS ACTIVE IN OPTIONS MARKET: CNBC CITING SOURCES
 - 09/11 22:48 [FirstSquawk] HASSETT STRESSES IMPORTANCE OF FEDERAL RESERVE'S INDEPENDENCE AND EXPRESSES HIGH RESPECT FOR WILLIAM WARSH.
 - 09/11 22:48 [FirstSquawk] HASSETT STATES INFLATION HAS BEEN SLOWING DOWN IN THE LAST 3 MONTHS.
 - 09/11 22:49 [financialjuice] WH Sr. Adviser Hassett: Inflation is clearly decelerating over the past 3 months.
@@ -452,3 +439,8 @@
 - 09/12 21:53 [FirstSquawk] IRAQ'S PRIME MINISTER ANNOUNCED AN INVESTIGATION INTO MISSILE LAUNCHERS DISCOVERED NEAR THE IRAN BORDER.
 - 09/12 21:56 [financialjuice] Iraq agrees to Iranian request to jointly probe drone launchers on border: Iraqi army
 - 09/12 21:56 [DeItaone] IRAQ AGREES TO IRANIAN REQUEST TO JOINTLY INVESTIGATE EXISTENCE OF DRONE LAUNCHERS ON THE BORDER BETWEEN THE TWO COUNTRIES - IRAQI ARMY
+- 09/12 22:38 [FirstSquawk] Abu Dhabi Crown Prince Sheikh Khalid bin Mohamed bin Zayed meets Iranian President on the sidelines of BRICS summit in New Delhi
+- 09/12 22:38 [FirstSquawk] Abu Dhabi Crown Prince discusses with Iranian President on the sidelines of BRICS summit the importance of supporting de-escalation efforts
+- 09/12 22:38 [FirstSquawk] Arab League Secretary-General Condemns Attacks on Oil Facilities in Saudi Arabia
+- 09/12 22:38 [FirstSquawk] The Secretary-General of the League of Arab States affirms the League's categorical rejection of the use of the territory of any Arab country as a starting point for launching attacks on another Arab country or undermining its security and …
+- 09/12 22:39 [FirstSquawk] Kremlin: We are concerned about the situation in the Bab al-Mandab Strait
