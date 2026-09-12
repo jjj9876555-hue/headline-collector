@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 20:15 JST／対象: 09/11 20:15 〜 09/12 20:15 JST（時刻はすべて日本時間）
+生成: 2026-09-12 20:30 JST／対象: 09/11 20:30 〜 09/12 20:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 09/11 20:23 | 09/12 19:04 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 234 | 09/11 20:20 | 09/12 20:15 | ⚠ 241分（05:01→09:02） |
+| DeItaone | 45 | 09/11 20:37 | 09/12 20:24 | ⚠ 751分（04:10→16:41） |
+| FirstSquawk | 242 | 09/11 20:35 | 09/12 20:23 | ⚠ 241分（05:01→09:02） |
 | financialjuice | 173 | 09/11 20:34 | 09/12 20:04 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 448 行（統合前 453 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 457 行（統合前 462 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 20:20 [FirstSquawk] VOLKSWAGEN'S WORKS COUNCIL LEADER SAYS THEY FACE TOUGH COMPETITION FROM CHINESE COMPANIES WITH HIGH SUBSIDIES, URGING FOR A FAIR EUROPEAN FRAMEWORK.
-- 09/11 20:23 [DeItaone] FED’S WARSH FACES INDEPENDENCE TEST Fed Chair Kevin Warsh faces a credibility test as markets weigh whether he will hike rates despite President Trump’s push for lower borrowing costs. Macquarie says Warsh could position himself as a “reluc…
 - 09/11 20:34 [financialjuice] Iran's Foreign Ministry: IAEA risks becoming instrument for aggression.
 - 09/11 20:35 [FirstSquawk] IRAN CLAIMS IAEA MAY TURN INTO A TOOL FOR AGGRESSION.
 - 09/11 20:37 [DeItaone] IRAN ACCUSES IAEA OF HELPING JUSTIFY MILITARY ACTION Iran’s Foreign Ministry accused the IAEA and its Director General of politicizing technical nuclear assessments, claiming they have been used to build the case for military aggression aga…
@@ -472,3 +470,14 @@
 - 09/12 20:05 [FirstSquawk] IRAN PRESIDENT, UAE CROWN PRINCE HOLD TALKS AT BRICS - IRNA
 - 09/12 20:14 [FirstSquawk] Trump Signals Possible US-Canada Trade Deal Soon President Donald Trump said the United States and Canada could reach a trade agreement “fairly soon,” signaling optimism after months of escalating tensions between the two countries. Trump s…
 - 09/12 20:15 [FirstSquawk] Trump’s Ireland Visit Highlights Delicate US-Ireland Ties US President Donald Trump arrived in Ireland for a two-day visit, receiving a warm welcome from Irish leaders despite political tensions and public criticism surrounding his presiden…
+- 09/12 20:22 [FirstSquawk] TRUMP SAYS HIS MEETING WITH XI WILL BE EXCELLENT.
+- 09/12 20:22 [FirstSquawk] TRUMP PRAISES THE JOB MARKET, ATTRIBUTES FACTORY GROWTH TO TARIFFS.
+- 09/12 20:22 [FirstSquawk] TRUMP SLAMS EUROPE FOR 'UNACCEPTABLE' BUSINESS RULES.
+- 09/12 20:22 [FirstSquawk] TRUMP SAYS HE IS GETTING ALONG VERY WELL WITH VENEZUELANS WHO ARE NOW VERY HAPPY.
+- 09/12 20:22 [FirstSquawk] TRUMP ANNOUNCES IRELAND IS INCREASING ITS MILITARY SPENDING.
+- 09/12 20:23 [FirstSquawk] TRUMP STATED THAT THE U.S. DEFENSE INDUSTRY IS GROWING QUICKLY.
+- 09/12 20:23 [FirstSquawk] TRUMP CALLS US ARMS DEMAND 'INCREDIBLE,' INCLUDING PATRIOT MISSILES.
+- 09/12 20:23 [FirstSquawk] TRUMP SAYS WE HAVEN'T FOCUSED ON LAND-BASED DRUG SMUGGLING YET.
+- 09/12 20:23 [DeItaone] IRAN PRESIDENT MEETS ABU DHABI CROWN PRINCE IN NEW DELHI - IRAN EMBASSY IN INDIA
+- 09/12 20:23 [FirstSquawk] TRUMP PROMOTES US MILITARY LASER WEAPONS AND COMPUTERIZED MACHINE GUNS.
+- 09/12 20:24 [DeItaone] MEXICO UNCOVERS SUSPECTED CARTEL-LINKED CRYPTO FARM Mexican authorities are investigating a clandestine crypto-mining operation in Puebla suspected of laundering illicit funds, Reuters reports, as organized crime increasingly expands into d…
