@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 17:32 JST／対象: 09/12 11:32 〜 09/12 17:32 JST（時刻はすべて日本時間）
+生成: 2026-09-12 17:45 JST／対象: 09/12 11:45 〜 09/12 17:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 16:41 | 09/12 16:41 | - |
-| FirstSquawk | 32 | 09/12 11:40 | 09/12 16:00 | ⚠ 60分（15:00→16:00） |
-| financialjuice | 13 | 09/12 13:03 | 09/12 15:43 | ⚠ 126分（13:04→15:10） |
+| FirstSquawk | 31 | 09/12 11:46 | 09/12 16:00 | ⚠ 60分（15:00→16:00） |
+| financialjuice | 14 | 09/12 13:03 | 09/12 17:36 | ⚠ 126分（13:04→15:10） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 46 行（統合前 46 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 11:40 [FirstSquawk] More Than 30% of Unmarried People in Japan Say They Do Not Want Children — Kyodo A survey found that over 30% of unmarried people in Japan do not want to have children, highlighting shifting attitudes toward marriage and parenthood in the c…
 - 09/12 11:46 [FirstSquawk] U.S. legislator seeks a policy rethink on the North Korea travel ban Yonhap reports
 - 09/12 11:54 [FirstSquawk] Saudi-led strikes have left 82 people dead or injured since September 3, Yemen’s Houthi health ministry says.
 - 09/12 12:04 [FirstSquawk] Banco Master case files cleared for release in Brazil, excluding documents that could affect active investigations.
@@ -70,3 +69,4 @@
 - 09/12 15:43 [financialjuice] Russian Defence Ministry: Russian forces also strike metallurgical plant in Ukraine's Zaporizhzhia region - RIA
 - 09/12 16:00 [FirstSquawk] BOJ JGB HOLDINGS PLUNGE BY RECORD ¥47.8 TRILLION YOY IN JULY BANK OF JAPAN CUTS GOVERNMENT BOND HOLDINGS AT UNPRECEDENTED PACE; ¥47.8 TRILLION ANNUAL DROP MARKS BIGGEST DECLINE EVER
 - 09/12 16:41 [DeItaone] IRAN RULES OUT U.S. TALKS WITHOUT CONDITIONS Iranian lawmaker Ebrahim Azizi says Tehran will not negotiate with Washington until Iran’s conditions are met, declaring that talks would otherwise be “futile.” The statement comes amid reports t…
+- 09/12 17:36 [financialjuice] Ukraine strikes Russia's top synthetic rubber maker in Togliatti in Samara region: Ukrainian military

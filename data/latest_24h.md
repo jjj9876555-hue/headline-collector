@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 17:32 JST／対象: 09/11 17:32 〜 09/12 17:32 JST（時刻はすべて日本時間）
+生成: 2026-09-12 17:45 JST／対象: 09/11 17:45 〜 09/12 17:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 36 | 09/11 17:48 | 09/12 16:41 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 215 | 09/11 17:35 | 09/12 16:00 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 172 | 09/11 17:32 | 09/12 15:43 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 213 | 09/11 17:46 | 09/12 16:00 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 168 | 09/11 17:54 | 09/12 17:36 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 422 行（統合前 425 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 416 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 17:32 [financialjuice] Bank of England median one-year, two-year and five-year ahead expectations were 3.6%, 3.1% and 3.3% respectively.
-- 09/11 17:35 [FirstSquawk] HOUTHI SPOKESMAN: YEMENI ARMED FORCES TO ANNOUNCE MAJOR MILITARY OPERATIONS
-- 09/11 17:36 [financialjuice] France Fin. Min. Lescure: Economic uncertainties have never been so high.
-- 09/11 17:41 [FirstSquawk] FRENCH FINMIN LESCURE: ECONOMIC UNCERTAINTIES HAVE NEVER BEEN SO HIGH
-- 09/11 17:42 [financialjuice] French Finance Minister Lescure: Debt service costs seen at 65 billion euros this year, an increase of 4.5 billion euros from what was planned due to geopolitical crisis.
-- 09/11 17:43 [financialjuice] France Fin. Min. Lescure: 2027 growth forecast unrevised at 1.0%.
-- 09/11 17:44 [financialjuice] France Fin. Min. Lescure: We see 2026 inflation of 2.1%, 1.8% in 2027.
 - 09/11 17:46 [FirstSquawk] FRANCE HAS REDUCED ITS 2026 GDP GROWTH PREDICTION TO 0.5% AND EXPECTS 1% GROWTH IN 2027.
 - 09/11 17:48 [DeItaone] *FRANCE CUTS 2026 GDP GROWTH FORECAST TO 0.5%, SEES +1% IN 2027
 - 09/11 17:54 [financialjuice] Japan 2026 extraordinary diet session eyed 69 days - Kyodo
@@ -446,3 +439,4 @@
 - 09/12 15:43 [financialjuice] Russian Defence Ministry: Russian forces also strike metallurgical plant in Ukraine's Zaporizhzhia region - RIA
 - 09/12 16:00 [FirstSquawk] BOJ JGB HOLDINGS PLUNGE BY RECORD ¥47.8 TRILLION YOY IN JULY BANK OF JAPAN CUTS GOVERNMENT BOND HOLDINGS AT UNPRECEDENTED PACE; ¥47.8 TRILLION ANNUAL DROP MARKS BIGGEST DECLINE EVER
 - 09/12 16:41 [DeItaone] IRAN RULES OUT U.S. TALKS WITHOUT CONDITIONS Iranian lawmaker Ebrahim Azizi says Tehran will not negotiate with Washington until Iran’s conditions are met, declaring that talks would otherwise be “futile.” The statement comes amid reports t…
+- 09/12 17:36 [financialjuice] Ukraine strikes Russia's top synthetic rubber maker in Togliatti in Samara region: Ukrainian military
