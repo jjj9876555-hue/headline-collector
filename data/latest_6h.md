@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 07:30 JST／対象: 09/13 01:30 〜 09/13 07:30 JST（時刻はすべて日本時間）
+生成: 2026-09-13 07:44 JST／対象: 09/13 01:44 〜 09/13 07:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/13 01:35 | 09/13 01:48 | 13分（01:35→01:48） |
-| FirstSquawk | 18 | 09/13 01:31 | 09/13 03:29 | 42分（02:14→02:57） |
-| financialjuice | 21 | 09/13 01:32 | 09/13 05:05 | ⚠ 67分（03:58→05:05） |
+| DeItaone | 1 | 09/13 01:48 | 09/13 01:48 | - |
+| FirstSquawk | 17 | 09/13 02:02 | 09/13 03:29 | 42分（02:14→02:57） |
+| financialjuice | 15 | 09/13 02:00 | 09/13 05:05 | ⚠ 67分（03:58→05:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 41 行（統合前 41 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 33 行（統合前 33 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 01:31 [FirstSquawk] Lebanese News Agency: The Israeli army carries out a massive explosion operation in "Al-Qanatra" in southern Lebanon
-- 09/13 01:32 [financialjuice] Iranian source to Tasnim News Agency: Strait of Hormuz will remain closed despite the Iran-Oman agreement
-- 09/13 01:33 [financialjuice] Iranian source to Tasnim: Iran and Oman finalize details of new routes for entry and exit from Strait of Hormuz
-- 09/13 01:34 [financialjuice] Iranian source to Tasnim: southern route will close despite U.S. pressure to reopen
-- 09/13 01:35 [DeItaone] IRANIAN SOURCE TO TASNIM NEWS AGENCY: THE STRAIT OF HORMUZ WILL NOT BE REOPENED UNDER THE IRAN-OMAN UNDERSTANDING
-- 09/13 01:35 [financialjuice] Iranian source to Tasnim: Iraq to participate in meeting in Oman on Monday
-- 09/13 01:35 [financialjuice] Iranian source to Tasnim: GCC countries to be updated on outcome of Iran-Oman talks, decisions at Oman meeting
-- 09/13 01:36 [financialjuice] Iranian source to Tasnim: Reopening of Strait of Hormuz hinges entirely on U.S. meeting Iran’s conditions
 - 09/13 01:48 [DeItaone] $ORCL - LARRY ELLISON CANCELS ORACLE STOCK SALE PLAN Oracle says founder Larry Ellison has canceled his 10b5-1 plan to sell Oracle shares, according to Reuters. No Oracle stock was sold under the canceled plan, and the company says Ellison …
 - 09/13 02:00 [financialjuice] Economy minister: about $40 billion of Ukraine's export revenue threatened by blockade
 - 09/13 02:00 [financialjuice] Destruction of Ukraine's infrastructure, fixed assets from Russian airstrikes estimated at $10 billion this year: economy minister
