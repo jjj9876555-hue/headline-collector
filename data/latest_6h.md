@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 21:28 JST／対象: 09/12 15:28 〜 09/12 21:28 JST（時刻はすべて日本時間）
+生成: 2026-09-12 21:45 JST／対象: 09/12 15:45 〜 09/12 21:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 20 | 09/12 16:41 | 09/12 20:43 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 78 | 09/12 16:00 | 09/12 21:26 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 30 | 09/12 15:31 | 09/12 20:51 | ⚠ 112分（15:43→17:36） |
+| FirstSquawk | 81 | 09/12 16:00 | 09/12 21:39 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 21 | 09/12 17:36 | 09/12 21:43 | ⚠ 57分（18:57→19:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 126 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 120 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 15:31 [financialjuice] India's markets regulator proposes six steps to enhance derivatives settlement prices in closing auction session
-- 09/12 15:31 [financialjuice] India's Sebi proposes adjustments to closing auction price band
-- 09/12 15:31 [financialjuice] India's SEBI: Closing auction orders outside 1% range will not be allowed to be canceled
-- 09/12 15:32 [financialjuice] India's Sebi proposes using closing auction session and volume-weighted average price for index and single stock derivatives on expiry day
-- 09/12 15:32 [financialjuice] India's Sebi proposes withholding indicative closing levels of index during closing auction session
-- 09/12 15:32 [financialjuice] Saudi civil defense: early warning issued in Sharurah to signal potential danger
-- 09/12 15:32 [financialjuice] India's Sebi proposes cutting post-closing auction window for derivatives segment to 5 minutes from 10 minutes
-- 09/12 15:33 [financialjuice] India's SEBI proposes to continue publishing indicative equilibrium price for stocks in closing auction session
-- 09/12 15:42 [financialjuice] Russian defence ministry: Russian troops strike two cargo ships in Ukrainian port of Chornomorsk
-- 09/12 15:43 [financialjuice] Russian Defence Ministry: Russian forces also strike metallurgical plant in Ukraine's Zaporizhzhia region - RIA
 - 09/12 16:00 [FirstSquawk] BOJ JGB HOLDINGS PLUNGE BY RECORD ¥47.8 TRILLION YOY IN JULY BANK OF JAPAN CUTS GOVERNMENT BOND HOLDINGS AT UNPRECEDENTED PACE; ¥47.8 TRILLION ANNUAL DROP MARKS BIGGEST DECLINE EVER
 - 09/12 16:41 [DeItaone] IRAN RULES OUT U.S. TALKS WITHOUT CONDITIONS Iranian lawmaker Ebrahim Azizi says Tehran will not negotiate with Washington until Iran’s conditions are met, declaring that talks would otherwise be “futile.” The statement comes amid reports t…
 - 09/12 17:36 [financialjuice] Ukraine strikes Russia's top synthetic rubber maker in Togliatti in Samara region: Ukrainian military
@@ -150,3 +140,7 @@
 - 09/12 21:15 [FirstSquawk] Iraqi President: We condemn the attacks on Saudi Arabia We affirm that we do not accept the use of our territory as a starting point for aggression against neighboring countries
 - 09/12 21:15 [FirstSquawk] Iraqi News Agency: The Prime Minister assigns Major General Ali Abdul Hussein Kazim to the position of Commander of Maysan Operations
 - 09/12 21:26 [FirstSquawk] BRICS Urges Restraint as Middle East Tensions Escalate BRICS nations, including Iran, the United Arab Emirates, India and China, have expressed deep concern over rising tensions in the Middle East and called for maximum restraint. In a join…
+- 09/12 21:38 [FirstSquawk] BAHRAIN ANNOUNCES IT WILL NOT PARTICIPATE IN THE IRAN MEETING REGARDING THE HORMUZ STRAIT.
+- 09/12 21:38 [FirstSquawk] BAHRAIN DECLINES TO JOIN ANY MEETINGS WITH IRAN, ACCORDING TO BNA.
+- 09/12 21:39 [FirstSquawk] BAHRAIN HAS PUBLICLY ANNOUNCED IT WILL NOT PARTICIPATE IN THE HORMUZ MEETING, ACCORDING TO BNA.
+- 09/12 21:43 [financialjuice] Kremlin expresses concern about situation in Bab el-Mandeb Strait - IFX

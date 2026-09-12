@@ -7,49 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 21:28 JST／対象: 09/11 21:28 〜 09/12 21:28 JST（時刻はすべて日本時間）
+生成: 2026-09-12 21:45 JST／対象: 09/11 21:45 〜 09/12 21:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 09/11 21:30 | 09/12 20:43 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 262 | 09/11 21:30 | 09/12 21:26 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 170 | 09/11 21:30 | 09/12 20:51 | ⚠ 170分（10:12→13:03） |
+| DeItaone | 33 | 09/11 21:51 | 09/12 20:43 | ⚠ 751分（04:10→16:41） |
+| FirstSquawk | 258 | 09/11 21:59 | 09/12 21:39 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 160 | 09/11 21:50 | 09/12 21:43 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 471 行（統合前 476 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 449 行（統合前 453 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 21:30 [financialjuice] ‼ BREAKING: US CPI MOM ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.1%) $MACRO
-- 09/11 21:30 [financialjuice] ❗ US CORE CPI MOM ACTUAL 0.3% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
-- 09/11 21:30 [FirstSquawk] US CPI (MOM) (AUG) ACTUAL: 0.4% VS 0.1% PREVIOUS; EST. 0.4%
-- 09/11 21:30 [financialjuice] ❗ US CPI YOY ACTUAL 3.4% (FORECAST 3.4%, PREVIOUS 3.4%) $MACRO
-- 09/11 21:30 [financialjuice] ❗ US CORE CPI YOY ACTUAL 2.4% (FORECAST 2.4%, PREVIOUS 2.5%) $MACRO
-- 09/11 21:30 [FirstSquawk] US CORE CPI (MOM) (AUG) ACTUAL: 0.3% VS 0.2% PREVIOUS; EST. 0.2%
-- 09/11 21:30 [DeItaone] *US AUG. CONSUMER PRICES RISE 0.4% M/M; EST. +0.4%
-- 09/11 21:30 [FirstSquawk] US CPI (YOY) (AUG) ACTUAL: 3.4% VS 3.4% PREVIOUS; EST. 3.4%
-- 09/11 21:30 [FirstSquawk] US CORE CPI (YOY) (AUG) ACTUAL: 2.4% VS 2.5% PREVIOUS; EST. 2.4%
-- 09/11 21:30 [DeItaone] *US AUG. CORE CPI RISES 0.3% M/M; EST. +0.2%
-- 09/11 21:31 [DeItaone] *US AUG. CORE CPI RISES 2.4% Y/Y; EST. +2.4%
-- 09/11 21:31 [DeItaone] *US AUG. CONSUMER PRICES RISE 3.4% Y/Y; EST. +3.4%
-- 09/11 21:31 [financialjuice] ❗ US Short-term interest-rate futures drop after inflation data as traders add to bets on September Fed rate hike.
-- 09/11 21:32 [financialjuice/DeItaone] ❗ Traders now see about a 90% chance of a Fed rate hike next week, vs about 70% before the inflation report.
-- 09/11 21:32 [financialjuice] US CPI August Report
-- 09/11 21:34 [financialjuice] ❗ Traders fully price in two Fed rate hikes by year-end
-- 09/11 21:34 [financialjuice] ❗ US Supercore CPI YoY: 2.84%, previous 2.84%
-- 09/11 21:35 [financialjuice] ❗ US Supercore CPI MoM: 0.51%, previous 0.19%
-- 09/11 21:36 [FirstSquawk] US SUPERCORE CPI ROSE TO 0.511% IN AUGUST FROM 0.189% LAST MONTH. YEARLY INCREASE NOW AT 3.022%, UP FROM 2.843%.
-- 09/11 21:36 [FirstSquawk] NASDAQ 100 FUTURES INCREASED BY 0.7%.
-- 09/11 21:36 [FirstSquawk] S&P 500 FUTURES INCREASE BY 0.56%, CORE CPI RISES MORE THAN EXPECTED.
-- 09/11 21:36 [DeItaone] 🚨 US INFLATION ACCELERATES — FED HIKE RISK RISES US inflation picked up in August, strengthening the case for another Fed rate hike next week. Headline CPI rose 0.4% M/M and 3.4% Y/Y, while core CPI increased 0.3% M/M. Gasoline was a key dr…
-- 09/11 21:38 [DeItaone] 🚨 US CPI: Inflation Comes In Hotter Than Expected August US inflation data delivered a firmer-than-expected headline reading, adding another complication to the Federal Reserve outlook. Headline CPI rose 0.396% M/M on an unrounded basis, ef…
-- 09/11 21:40 [DeItaone] PUTIN: WEST IS RESORTING TO DIRECT DESTRUCTION OF FACILITIES AND PIPELINES IN AN EFFORT TO MAINTAIN ITS ECONOMIC LEADERSHIP
-- 09/11 21:42 [DeItaone] US CORE INFLATION UPSIDE DRIVEN BY SUPERCORE The latest inflation details show the upside surprise was driven by supercore services, while core goods were softer than expected. Lodging was a notable upside outlier, while housing came in sof…
-- 09/11 21:44 [financialjuice] GERMAN CURRENT ACCOUNT BALANCE NSA ACTUAL 21.154B (FORECAST -, PREVIOUS 19.0B) $MACRO
 - 09/11 21:50 [financialjuice] Iran President Pezeshkian: Iran proposes BRICS establish $10 billion insurance fund for major infrastructure and energy projects.
 - 09/11 21:51 [DeItaone] US DATA: RECORD CELL PHONE PRICE JUMP BOOSTS CORE CPI August inflation data carried a hawkish signal as wireless phone service prices surged 5.9% — the largest increase on record. The jump alone added around 0.08 percentage points to core C…
 - 09/11 21:51 [financialjuice] Yemeni army takes control of local council building in Dhubab, near Bab-el-Mandeb - Tasnim News
@@ -495,3 +469,7 @@
 - 09/12 21:15 [FirstSquawk] Iraqi President: We condemn the attacks on Saudi Arabia We affirm that we do not accept the use of our territory as a starting point for aggression against neighboring countries
 - 09/12 21:15 [FirstSquawk] Iraqi News Agency: The Prime Minister assigns Major General Ali Abdul Hussein Kazim to the position of Commander of Maysan Operations
 - 09/12 21:26 [FirstSquawk] BRICS Urges Restraint as Middle East Tensions Escalate BRICS nations, including Iran, the United Arab Emirates, India and China, have expressed deep concern over rising tensions in the Middle East and called for maximum restraint. In a join…
+- 09/12 21:38 [FirstSquawk] BAHRAIN ANNOUNCES IT WILL NOT PARTICIPATE IN THE IRAN MEETING REGARDING THE HORMUZ STRAIT.
+- 09/12 21:38 [FirstSquawk] BAHRAIN DECLINES TO JOIN ANY MEETINGS WITH IRAN, ACCORDING TO BNA.
+- 09/12 21:39 [FirstSquawk] BAHRAIN HAS PUBLICLY ANNOUNCED IT WILL NOT PARTICIPATE IN THE HORMUZ MEETING, ACCORDING TO BNA.
+- 09/12 21:43 [financialjuice] Kremlin expresses concern about situation in Bab el-Mandeb Strait - IFX

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 21:28 JST／対象: 09/12 09:28 〜 09/12 21:28 JST（時刻はすべて日本時間）
+生成: 2026-09-12 21:45 JST／対象: 09/12 09:45 〜 09/12 21:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 20 | 09/12 16:41 | 09/12 20:43 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 173 | 09/12 09:31 | 09/12 21:26 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 35 | 09/12 10:02 | 09/12 20:51 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 170 | 09/12 09:47 | 09/12 21:39 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 36 | 09/12 10:02 | 09/12 21:43 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 226 行（統合前 228 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 224 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 09:31 [FirstSquawk] Wall Street closed up as oil prices slid, while firm consumer price data boosted bets that the Fed will hike rates next week to rein in inflation.
-- 09/12 09:31 [FirstSquawk] Xi sets out for India with the BRICS summit dominated by conflict.
-- 09/12 09:32 [FirstSquawk] Boeing engineers face a contract deadline on October 6.
-- 09/12 09:40 [FirstSquawk] Seoul’s NSC holds an urgent security review after North Korea launches short-range ballistic missiles.
-- 09/12 09:41 [FirstSquawk] Trump: I’m open to Chinese automakers building vehicles at U.S. plants.
-- 09/12 09:44 [FirstSquawk] Petrobras collects two payments totaling 2.54 billion reais linked to Brazil’s diesel subsidy initiative.
 - 09/12 09:47 [FirstSquawk] Seoul says North Korea’s missile firing defies U.N. Security Council resolutions, triggering an urgent security meeting.
 - 09/12 09:48 [FirstSquawk] Baghdad suspends traffic at the Shalamcheh border post with Iran as a precaution after recent attacks targeting Saudi Arabia.
 - 09/12 09:49 [FirstSquawk] The upcoming Israel-Lebanon talks have been moved to a later date, Axios reports.
@@ -250,3 +244,7 @@
 - 09/12 21:15 [FirstSquawk] Iraqi President: We condemn the attacks on Saudi Arabia We affirm that we do not accept the use of our territory as a starting point for aggression against neighboring countries
 - 09/12 21:15 [FirstSquawk] Iraqi News Agency: The Prime Minister assigns Major General Ali Abdul Hussein Kazim to the position of Commander of Maysan Operations
 - 09/12 21:26 [FirstSquawk] BRICS Urges Restraint as Middle East Tensions Escalate BRICS nations, including Iran, the United Arab Emirates, India and China, have expressed deep concern over rising tensions in the Middle East and called for maximum restraint. In a join…
+- 09/12 21:38 [FirstSquawk] BAHRAIN ANNOUNCES IT WILL NOT PARTICIPATE IN THE IRAN MEETING REGARDING THE HORMUZ STRAIT.
+- 09/12 21:38 [FirstSquawk] BAHRAIN DECLINES TO JOIN ANY MEETINGS WITH IRAN, ACCORDING TO BNA.
+- 09/12 21:39 [FirstSquawk] BAHRAIN HAS PUBLICLY ANNOUNCED IT WILL NOT PARTICIPATE IN THE HORMUZ MEETING, ACCORDING TO BNA.
+- 09/12 21:43 [financialjuice] Kremlin expresses concern about situation in Bab el-Mandeb Strait - IFX
