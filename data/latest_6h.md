@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 14:44 JST／対象: 09/12 08:44 〜 09/12 14:44 JST（時刻はすべて日本時間）
+生成: 2026-09-12 14:58 JST／対象: 09/12 08:58 〜 09/12 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 105 | 09/12 09:02 | 09/12 14:33 | 13分（11:26→11:40） |
-| financialjuice | 7 | 09/12 08:44 | 09/12 13:04 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 107 | 09/12 09:02 | 09/12 14:57 | 13分（11:26→11:40） |
+| financialjuice | 5 | 09/12 09:00 | 09/12 13:04 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 112 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 08:44 [financialjuice] Trump: if China wanted to establish a plant to manufacture cars here, I'd be fine with that
-- 09/12 08:47 [financialjuice] South Korea's national security council holds urgent security review after North Korea's short-range missile launch: presidential office
 - 09/12 09:00 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo senior notes due 2029 and 2031
 - 09/12 09:02 [FirstSquawk] SKYWORKS: CO EXTENDS DEADLINE FOR GORVO SENIOR NOTES EXCHANGE OFFERS Skyworks Solutions said it has extended the expiration date for its exchange offers involving GORVO senior notes due in 2029 and 2031. The extension gives eligible holders…
 - 09/12 09:04 [FirstSquawk] South Korea’s JCS reports North Korean short-range ballistic missiles covered approximately 250 km.
@@ -136,3 +134,5 @@
 - 09/12 14:18 [FirstSquawk] US decision to spare optical transceivers eases pressure on China’s supply chain.
 - 09/12 14:25 [FirstSquawk] August consumer-price growth in the US adds to expectations for a rate increase.
 - 09/12 14:33 [FirstSquawk] Japan Automakers to Overhaul Factory Schedules From FY2027 to Attract Workers — Kyodo Japanese automakers plan to redesign their factory operating calendars from fiscal 2027 as they seek to make manufacturing jobs more attractive and addres…
+- 09/12 14:46 [FirstSquawk] Egypt says any attack against Saudi Arabia constitutes a serious violation of international law.
+- 09/12 14:57 [FirstSquawk] South Korea Seeks U.S. Handover of Wartime Command Authority Under ‘No Added Conditions’ Principle South Korea’s defense minister nominee says Seoul aims to regain wartime operational control (OPCON) from the United States based on a “no ad…

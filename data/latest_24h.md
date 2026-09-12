@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 14:44 JST／対象: 09/11 14:44 〜 09/12 14:44 JST（時刻はすべて日本時間）
+生成: 2026-09-12 14:58 JST／対象: 09/11 14:58 〜 09/12 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/11 15:05 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 284 | 09/11 14:51 | 09/12 14:33 | ⚠ 241分（05:01→09:02） |
+| FirstSquawk | 284 | 09/11 15:02 | 09/12 14:57 | ⚠ 241分（05:01→09:02） |
 | financialjuice | 180 | 09/11 15:34 | 09/12 13:04 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 14:51 [FirstSquawk] Italian foreign minister to avoid talks with Taiwanese officials during their Italy visit, RTRS says.
-- 09/11 14:53 [FirstSquawk] RBC trims its Puma price target to €23 from €25.
 - 09/11 15:02 [FirstSquawk] UK (JUL) MONTHLY GDP (MOM) ACTUAL: 0.4% VS 0.3% PREVIOUS;EST 0.0%
 - 09/11 15:03 [FirstSquawk] UK (JUL) MONTHLY GDP (3M/3M) ACTUAL: 0.4% VS 0.4% PREVIOUS;EST 0.3%
 - 09/11 15:03 [FirstSquawk] UK (JUL) INDUSTRIAL PRODUCTION MOM ACTUAL: 0.2% VS -0.2% PREVIOUS;EST -0.2%
@@ -531,3 +529,5 @@
 - 09/12 14:18 [FirstSquawk] US decision to spare optical transceivers eases pressure on China’s supply chain.
 - 09/12 14:25 [FirstSquawk] August consumer-price growth in the US adds to expectations for a rate increase.
 - 09/12 14:33 [FirstSquawk] Japan Automakers to Overhaul Factory Schedules From FY2027 to Attract Workers — Kyodo Japanese automakers plan to redesign their factory operating calendars from fiscal 2027 as they seek to make manufacturing jobs more attractive and addres…
+- 09/12 14:46 [FirstSquawk] Egypt says any attack against Saudi Arabia constitutes a serious violation of international law.
+- 09/12 14:57 [FirstSquawk] South Korea Seeks U.S. Handover of Wartime Command Authority Under ‘No Added Conditions’ Principle South Korea’s defense minister nominee says Seoul aims to regain wartime operational control (OPCON) from the United States based on a “no ad…

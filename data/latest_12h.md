@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 14:44 JST／対象: 09/12 02:44 〜 09/12 14:44 JST（時刻はすべて日本時間）
+生成: 2026-09-12 14:58 JST／対象: 09/12 02:58 〜 09/12 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
-| FirstSquawk | 131 | 09/12 02:50 | 09/12 14:33 | ⚠ 241分（05:01→09:02） |
+| FirstSquawk | 132 | 09/12 02:59 | 09/12 14:57 | ⚠ 241分（05:01→09:02） |
 | financialjuice | 64 | 09/12 02:58 | 09/12 13:04 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 196 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 197 行（統合前 199 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 02:50 [FirstSquawk] IRAQI PM STATES THAT LIMITING WEAPONS TO THE GOVERNMENT AND CONSOLIDATING SECURITY DECISIONS ARE ESSENTIAL FOR SINJAR'S PROTECTION.
 - 09/12 02:58 [financialjuice] US FEDERAL BUDGET BALANCE ACTUAL -166.797B (FORECAST -211.1B, PREVIOUS -432.00B) $MACRO
 - 09/12 02:59 [FirstSquawk] REZA NAJAFI, THE ISLAMIC REPUBLIC'S REPRESENTATIVE AT THE IAEA, STATED TO CGTN THAT THE U.S. COULD USE THE NEW BOARD OF GOVERNORS RESOLUTION AS AN EXCUSE TO ESCALATE TENSIONS OR LAUNCH NEW MILITARY ACTIONS AGAINST IRAN.
 - 09/12 03:00 [FirstSquawk] US AUG. BUDGET DEFICIT $166.80B
@@ -220,3 +219,5 @@
 - 09/12 14:18 [FirstSquawk] US decision to spare optical transceivers eases pressure on China’s supply chain.
 - 09/12 14:25 [FirstSquawk] August consumer-price growth in the US adds to expectations for a rate increase.
 - 09/12 14:33 [FirstSquawk] Japan Automakers to Overhaul Factory Schedules From FY2027 to Attract Workers — Kyodo Japanese automakers plan to redesign their factory operating calendars from fiscal 2027 as they seek to make manufacturing jobs more attractive and addres…
+- 09/12 14:46 [FirstSquawk] Egypt says any attack against Saudi Arabia constitutes a serious violation of international law.
+- 09/12 14:57 [FirstSquawk] South Korea Seeks U.S. Handover of Wartime Command Authority Under ‘No Added Conditions’ Principle South Korea’s defense minister nominee says Seoul aims to regain wartime operational control (OPCON) from the United States based on a “no ad…
