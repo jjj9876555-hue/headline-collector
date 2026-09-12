@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 00:31 JST／対象: 09/12 18:31 〜 09/13 00:31 JST（時刻はすべて日本時間）
+生成: 2026-09-13 00:42 JST／対象: 09/12 18:42 〜 09/13 00:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 20 | 09/12 18:57 | 09/13 00:09 | ⚠ 78分（19:04→20:23） |
-| FirstSquawk | 100 | 09/12 18:38 | 09/13 00:30 | 45分（21:53→22:38） |
+| FirstSquawk | 98 | 09/12 18:47 | 09/13 00:33 | 45分（21:53→22:38） |
 | financialjuice | 40 | 09/12 18:44 | 09/13 00:19 | ⚠ 69分（23:09→00:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 159 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 157 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 18:38 [FirstSquawk] TRUMP ON IRAN: EVERYTHING WILL WORK OUT FINE
-- 09/12 18:42 [FirstSquawk] FORD IS RECALLING 223,472 VEHICLES IN THE U.S., ACCORDING TO NHTSA.
-- 09/12 18:42 [FirstSquawk] FORD IS RECALLING U.S. CARS DUE TO A DETACHED FUEL TANK THAT MIGHT CREATE ROAD HAZARDS, HIKING THE CRASH RISK. A FUEL LEAK COULD ALSO RESULT IN ENGINE FAILURE OR FIRE RISKS. - NHTSA
 - 09/12 18:44 [financialjuice] Trump: U.S. and Ireland collaborate very successfully
 - 09/12 18:45 [financialjuice] Trump on Iran: war will conclude very soon
 - 09/12 18:45 [financialjuice] Trump on Iran: oil prices to plunge when conflict ends
@@ -183,3 +180,4 @@
 - 09/13 00:22 [FirstSquawk] IRAN AND OMAN FOREIGN MINISTERS TALK ABOUT REGIONAL ISSUES IN A PHONE CALL.
 - 09/13 00:29 [FirstSquawk] Xi and Modi Move Toward Better Ties Chinese President Xi Jinping and Indian Prime Minister Narendra Modi met in New Delhi to improve relations between China and India. The two leaders discussed the border dispute, trade, supply chains and m…
 - 09/13 00:30 [FirstSquawk] Anthropic CEO Calls for Slower AI Development Anthropic CEO Dario Amodei has called for the AI industry to slow the pace of developing new models, warning that rapidly advancing AI could create serious risks for humans. He pointed to AI’s g…
+- 09/13 00:33 [FirstSquawk] California Diesel Prices Hit Record Highs Diesel prices in California have surged to record levels, with the statewide average rising above $8 a gallon and one San Diego station charging $9.99. Low fuel supplies, reduced refining capacity, …

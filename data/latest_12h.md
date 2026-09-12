@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 00:31 JST／対象: 09/12 12:31 〜 09/13 00:31 JST（時刻はすべて日本時間）
+生成: 2026-09-13 00:42 JST／対象: 09/12 12:42 〜 09/13 00:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/12 16:41 | 09/13 00:09 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 136 | 09/12 12:36 | 09/13 00:30 | ⚠ 114分（16:00→17:55） |
+| FirstSquawk | 136 | 09/12 12:46 | 09/13 00:33 | ⚠ 114分（16:00→17:55） |
 | financialjuice | 55 | 09/12 13:03 | 09/13 00:19 | ⚠ 126分（13:04→15:10） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 12:36 [FirstSquawk] Trump visit prompts major security operation across Ireland, with 4,000 officers deployed.
 - 09/12 12:46 [FirstSquawk] Iraqi commander ousted as probe finds recent attacks on Saudi Arabia were launched from Iraq.
 - 09/12 12:56 [FirstSquawk] Chinese AI companies decline meetings with US delegation amid sanctions fears, commission says.
 - 09/12 13:03 [financialjuice] US restricts air defense windows for tankers passing through Hormuz - FT
@@ -238,3 +237,4 @@
 - 09/13 00:22 [FirstSquawk] IRAN AND OMAN FOREIGN MINISTERS TALK ABOUT REGIONAL ISSUES IN A PHONE CALL.
 - 09/13 00:29 [FirstSquawk] Xi and Modi Move Toward Better Ties Chinese President Xi Jinping and Indian Prime Minister Narendra Modi met in New Delhi to improve relations between China and India. The two leaders discussed the border dispute, trade, supply chains and m…
 - 09/13 00:30 [FirstSquawk] Anthropic CEO Calls for Slower AI Development Anthropic CEO Dario Amodei has called for the AI industry to slow the pace of developing new models, warning that rapidly advancing AI could create serious risks for humans. He pointed to AI’s g…
+- 09/13 00:33 [FirstSquawk] California Diesel Prices Hit Record Highs Diesel prices in California have surged to record levels, with the statewide average rising above $8 a gallon and one San Diego station charging $9.99. Low fuel supplies, reduced refining capacity, …
