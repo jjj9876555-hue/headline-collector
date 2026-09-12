@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 21:58 JST／対象: 09/11 21:58 〜 09/12 21:58 JST（時刻はすべて日本時間）
+生成: 2026-09-12 22:15 JST／対象: 09/11 22:15 〜 09/12 22:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 33 | 09/11 22:25 | 09/12 21:56 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 260 | 09/11 21:59 | 09/12 21:53 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 160 | 09/11 21:58 | 09/12 21:56 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 255 | 09/11 22:23 | 09/12 21:53 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 153 | 09/11 22:21 | 09/12 21:56 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 451 行（統合前 455 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 439 行（統合前 443 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 21:58 [financialjuice] Iran's President Pezeshkian urges wider use of local currencies in BRICS trade.
-- 09/11 21:59 [FirstSquawk] IRAN SUGGESTS A $10 BILLION JOINT REINSURANCE FIRM AT THE BRICS SUMMIT.
-- 09/11 21:59 [FirstSquawk] IRAN URGES BRICS BANK TO INCREASE FUNDING FOR INFRASTRUCTURE PROJECTS.
-- 09/11 21:59 [FirstSquawk] S&P 500 FUTURES INCREASE BY 1%.
-- 09/11 22:00 [financialjuice] Effective Fed funds rate: 3.63% September 10th vs 3.63% September 9th.
-- 09/11 22:02 [financialjuice] Yemen's Houthis: Maritime navigation is safe for all shipping companies except Saudi vessels subject to a previously announced ban.
-- 09/11 22:02 [FirstSquawk] HOUTHIS IN YEMEN CLAIM ALL SHIPPING COMPANIES CAN NAVIGATE SAFELY EXCEPT SAUDI SHIPS DUE TO AN EXISTING BAN.
-- 09/11 22:06 [financialjuice] Yemeni Army: Saudi-led forces expelled from 6 districts in Taiz and Hodeidah - Tasnim News
-- 09/11 22:07 [financialjuice] Germany’s Chancellor Merz is determined to stay in power as the push to replace him mounts
-- 09/11 22:07 [financialjuice] Yemen Armed Forces: We have liberated 5,400 kilometers and shot down 9 Saudi fighter jets - Fars News
-- 09/11 22:07 [financialjuice] Germany’s Chancellor Merz aims to push on with German reform effort despite setbacks.
-- 09/11 22:08 [FirstSquawk] GERMANY’S CHANCELLOR MERZ IS DETERMINED TO STAY IN POWER AS PUSH TO REPLACE HIM MOUNTS || AIMS TO PUSH AHEAD WITH REFORMS DESPITE SETBACKS
 - 09/11 22:21 [financialjuice] WH Sr. Adviser Hassett: Big issue with diesel because it's a refined product - Fox Business
 - 09/11 22:22 [financialjuice] WH Sr. Adviser Hassett on diesel prices: A major concern for us right now.
 - 09/11 22:22 [financialjuice] WH Sr. Adviser Hassett: A lot of Diesel refining in places disturbed by war.
