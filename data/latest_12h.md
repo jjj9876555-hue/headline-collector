@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 00:53 JST／対象: 09/12 12:53 〜 09/13 00:53 JST（時刻はすべて日本時間）
+生成: 2026-09-13 01:17 JST／対象: 09/12 13:17 〜 09/13 01:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/12 16:41 | 09/13 00:09 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 135 | 09/12 12:56 | 09/13 00:33 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 55 | 09/12 13:03 | 09/13 00:19 | ⚠ 126分（13:04→15:10） |
+| FirstSquawk | 134 | 09/12 13:17 | 09/13 01:09 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 53 | 09/12 15:10 | 09/13 00:19 | ⚠ 112分（15:43→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 213 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 209 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 12:56 [FirstSquawk] Chinese AI companies decline meetings with US delegation amid sanctions fears, commission says.
-- 09/12 13:03 [financialjuice] US restricts air defense windows for tankers passing through Hormuz - FT
-- 09/12 13:03 [FirstSquawk] Sweden’s Election Front-Runner Faces Growing Pressure as Race Tightens — FT Sweden’s leading candidate is facing a tighter election contest, with the race becoming increasingly competitive ahead of the vote, according to the Financial Times…
-- 09/12 13:04 [FirstSquawk] U.S. Restricts Air Defence Time Slots for Tankers Crossing Strait of Hormuz — FT The U.S. has limited the available air-defence time slots for tankers sailing through the Strait of Hormuz, according to the Financial Times. The move could ad…
-- 09/12 13:04 [financialjuice] High oil prices could prompt ECB to increase rates further: top policymaker Martin Kocher - FT
-- 09/12 13:05 [FirstSquawk] High Oil Prices Could Push ECB Toward Further Rate Hikes, Policymaker Warns — FT ECB policymaker Martin Kocher warned that persistently elevated oil prices could create enough inflationary pressure to force the European Central Bank to rais…
-- 09/12 13:09 [FirstSquawk] Financing expenses and advisers’ fees leave Thames Water facing a £2 billion bill.
-- 09/12 13:16 [FirstSquawk] Seoul moves to guard sensitive chip technology from foreign intelligence threats.
 - 09/12 13:17 [FirstSquawk] GROUND BEEF PRICES HIT RECORD HIGH IN AUGUST, DEALING FRESH BLOW TO TRUMP’S AFFORDABILITY PUSH AHEAD OF MIDTERMS Ground beef averaged $7.158/lb in August, up 0.6% from July and 7.9% YoY, marking a new record high. The move underscores the d…
 - 09/12 13:18 [FirstSquawk] European Investment in Latin American Stocks Hits 15-Year High — FT European investors have sharply increased their exposure to Latin American equities, with investment flows reaching their highest level in 15 years, according to the Financ…
 - 09/12 13:22 [FirstSquawk] Chinese Crypto Investor Identified as Seller of £190 Million London Mansion — FT A Chinese cryptocurrency investor was behind the sale of a £190 million London mansion, according to the Financial Times. The transaction ranks among the city’…
@@ -229,7 +221,7 @@
 - 09/12 23:59 [FirstSquawk] PEZESHKIAN STATES NO DECISION HAS BEEN MADE REGARDING DIRECT TALKS WITH THE US, AND A TRUSTING ENVIRONMENT MUST BE CREATED.
 - 09/13 00:09 [DeItaone] IRAN, UAE BACK BRICS CALL FOR RESTRAINT Iran and the UAE jointly backed a BRICS declaration calling for maximum restraint in the Middle East war, marking a notable diplomatic step between the two sides. Iranian President Masoud Pezeshkian a…
 - 09/13 00:19 [financialjuice] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 million cubic feet/day from 135 million — PM's office
-- 09/13 00:19 [financialjuice] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd: PM’s office
+- 09/13 00:19 [financialjuice/FirstSquawk] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd: PM’s office
 - 09/13 00:22 [FirstSquawk] ELON MUSK AGREES WITH AMODEI ON THE NEED TO SLOW DOWN AI MODEL DEVELOPMENT.
 - 09/13 00:22 [FirstSquawk] CENTCOM REPORTS 100 COMMERCIAL SHIPS HAVE BEEN DIVERTED DUE TO THE BLOCKADE IN IRAN.
 - 09/13 00:22 [FirstSquawk] PEZESHKIAN SAYS THE STRAIT OF HORMUZ WILL REOPEN IF THE U.S. LIFTS THE BLOCKADE, AND THAT THE SUPREME LEADER HAS THE FINAL DECISION IN IRAN.
@@ -237,3 +229,7 @@
 - 09/13 00:29 [FirstSquawk] Xi and Modi Move Toward Better Ties Chinese President Xi Jinping and Indian Prime Minister Narendra Modi met in New Delhi to improve relations between China and India. The two leaders discussed the border dispute, trade, supply chains and m…
 - 09/13 00:30 [FirstSquawk] Anthropic CEO Calls for Slower AI Development Anthropic CEO Dario Amodei has called for the AI industry to slow the pace of developing new models, warning that rapidly advancing AI could create serious risks for humans. He pointed to AI’s g…
 - 09/13 00:33 [FirstSquawk] California Diesel Prices Hit Record Highs Diesel prices in California have surged to record levels, with the statewide average rising above $8 a gallon and one San Diego station charging $9.99. Low fuel supplies, reduced refining capacity, …
+- 09/13 01:02 [FirstSquawk] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 mln cubic feet/day from 135 mln — PM's office
+- 09/13 01:09 [FirstSquawk] United Nations: At least 76,000 people have been displaced by fighting in Yemen since July
+- 09/13 01:09 [FirstSquawk] UAE affirms that there is no military solution to the conflict in Sudan and that the only viable path to achieving lasting peace is an independent, civilian-led transition free from the influence of warring parties.
+- 09/13 01:09 [FirstSquawk] Lebanese News Agency: Heavy and concentrated Israeli shelling on the "Ali Taher" heights in southern Lebanon

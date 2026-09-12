@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 00:53 JST／対象: 09/12 00:53 〜 09/13 00:53 JST（時刻はすべて日本時間）
+生成: 2026-09-13 01:17 JST／対象: 09/12 01:17 〜 09/13 01:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 26 | 09/12 04:10 | 09/13 00:09 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 265 | 09/12 01:04 | 09/13 00:33 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 133 | 09/12 00:58 | 09/13 00:19 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 266 | 09/12 01:22 | 09/13 01:09 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 125 | 09/12 01:28 | 09/13 00:19 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 422 行（統合前 426 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 414 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 00:58 [financialjuice] US CENTCOM: Admiral Cooper is in Saudi Arabia for meetings and coordination regarding the recent Houthi advances in Yemen - Al Jazeera source.
-- 09/12 01:00 [financialjuice] WASDE SOYBEAN END STOCKS ACTUAL 310M (FORECAST 298.5M, PREVIOUS 320M) $MACRO
-- 09/12 01:00 [financialjuice] WASDE COTTON END STOCKS ACTUAL 3.6M (FORECAST 3.9M, PREVIOUS 4M) $MACRO
-- 09/12 01:00 [financialjuice] WASDE WHEAT END STOCKS ACTUAL 717M (FORECAST 717M, PREVIOUS 717M) $MACRO
-- 09/12 01:00 [financialjuice] WASDE CORN END STOCKS ACTUAL 1567M (FORECAST 1521.5M, PREVIOUS 1653M) $MACRO
-- 09/12 01:01 [financialjuice] Fed Financial Accounts of the United States
-- 09/12 01:01 [financialjuice] Fed: US 2Q household net worth rises $12.803t.
-- 09/12 01:04 [FirstSquawk] US SEPTEMBER WASDE REPORT SHOWS CORN END STOCKS AT 1.567 BILLION BUSHELS (ESTIMATES 1.522B; PREVIOUS 1.653B), SOYBEAN END STOCKS AT 310 MILLION BUSHELS (EST 299M; PREV 320M), TOTAL WHEAT END STOCKS AT 717 MILLION BUSHELS (EST 718M; PREV 717…
-- 09/12 01:04 [FirstSquawk] GLOBAL CORN END STOCKS IN SEPTEMBER AT 272M (EST 272M; PREV 275M) || SOYBEAN END STOCKS AT 124M (EST 123M; PREV 124M) || TOTAL WHEAT END STOCKS AT 276M (EST 273M; PREV 273M) || COTTON END STOCKS AT 70M (EST 69M; PREV 70M)
-- 09/12 01:04 [FirstSquawk] US HOUSEHOLD NET WORTH ROSE BY $12.803 TRILLION IN Q2, UP FROM $113 BILLION AND A REVISED $793 BILLION.
-- 09/12 01:08 [financialjuice] Apple: Starting September 12th at 5 AM PT, customers can pre-order iPhone 18 Pro & iPhone 18 Pro Max on Apple .com and in the Apple Store App. $AAPL
-- 09/12 01:09 [FirstSquawk] APPLE INC WILL ALLOW CUSTOMERS TO PRE-ORDER THE IPHONE 18 PRO AND IPHONE 18 PRO MAX ON https://t.co/LJMqx4c7ya AND THE APP AT 5 A.M. PT ON SEPTEMBER 12.
 - 09/12 01:22 [FirstSquawk] GERMANY EXPLORES PHARMA PROPOSAL WITH TEAM TRUMP AS TARIFF THREAT LOOMS - POLITICO
 - 09/12 01:28 [financialjuice] US Commerce Secretary Lutnick: The US could try to 'earn' money for $5,000 checks, it won't rely on tax funds - NBC.
 - 09/12 01:28 [FirstSquawk] US MAY ATTEMPT TO 'EARN' FUNDS FOR $5,000 PAYMENTS: LUTNICK TO NBC.
@@ -438,7 +426,7 @@
 - 09/12 23:59 [FirstSquawk] PEZESHKIAN STATES NO DECISION HAS BEEN MADE REGARDING DIRECT TALKS WITH THE US, AND A TRUSTING ENVIRONMENT MUST BE CREATED.
 - 09/13 00:09 [DeItaone] IRAN, UAE BACK BRICS CALL FOR RESTRAINT Iran and the UAE jointly backed a BRICS declaration calling for maximum restraint in the Middle East war, marking a notable diplomatic step between the two sides. Iranian President Masoud Pezeshkian a…
 - 09/13 00:19 [financialjuice] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 million cubic feet/day from 135 million — PM's office
-- 09/13 00:19 [financialjuice] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd: PM’s office
+- 09/13 00:19 [financialjuice/FirstSquawk] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd: PM’s office
 - 09/13 00:22 [FirstSquawk] ELON MUSK AGREES WITH AMODEI ON THE NEED TO SLOW DOWN AI MODEL DEVELOPMENT.
 - 09/13 00:22 [FirstSquawk] CENTCOM REPORTS 100 COMMERCIAL SHIPS HAVE BEEN DIVERTED DUE TO THE BLOCKADE IN IRAN.
 - 09/13 00:22 [FirstSquawk] PEZESHKIAN SAYS THE STRAIT OF HORMUZ WILL REOPEN IF THE U.S. LIFTS THE BLOCKADE, AND THAT THE SUPREME LEADER HAS THE FINAL DECISION IN IRAN.
@@ -446,3 +434,7 @@
 - 09/13 00:29 [FirstSquawk] Xi and Modi Move Toward Better Ties Chinese President Xi Jinping and Indian Prime Minister Narendra Modi met in New Delhi to improve relations between China and India. The two leaders discussed the border dispute, trade, supply chains and m…
 - 09/13 00:30 [FirstSquawk] Anthropic CEO Calls for Slower AI Development Anthropic CEO Dario Amodei has called for the AI industry to slow the pace of developing new models, warning that rapidly advancing AI could create serious risks for humans. He pointed to AI’s g…
 - 09/13 00:33 [FirstSquawk] California Diesel Prices Hit Record Highs Diesel prices in California have surged to record levels, with the statewide average rising above $8 a gallon and one San Diego station charging $9.99. Low fuel supplies, reduced refining capacity, …
+- 09/13 01:02 [FirstSquawk] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 mln cubic feet/day from 135 mln — PM's office
+- 09/13 01:09 [FirstSquawk] United Nations: At least 76,000 people have been displaced by fighting in Yemen since July
+- 09/13 01:09 [FirstSquawk] UAE affirms that there is no military solution to the conflict in Sudan and that the only viable path to achieving lasting peace is an independent, civilian-led transition free from the influence of warring parties.
+- 09/13 01:09 [FirstSquawk] Lebanese News Agency: Heavy and concentrated Israeli shelling on the "Ali Taher" heights in southern Lebanon

@@ -7,48 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 00:53 JST／対象: 09/12 18:53 〜 09/13 00:53 JST（時刻はすべて日本時間）
+生成: 2026-09-13 01:17 JST／対象: 09/12 19:17 〜 09/13 01:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/12 18:57 | 09/13 00:09 | ⚠ 78分（19:04→20:23） |
-| FirstSquawk | 88 | 09/12 19:03 | 09/13 00:33 | 45分（21:53→22:38） |
-| financialjuice | 32 | 09/12 18:56 | 09/13 00:19 | ⚠ 69分（23:09→00:19） |
+| DeItaone | 8 | 09/12 20:23 | 09/13 00:09 | ⚠ 67分（20:43→21:50） |
+| FirstSquawk | 84 | 09/12 19:43 | 09/13 01:09 | 45分（21:53→22:38） |
+| financialjuice | 28 | 09/12 19:55 | 09/13 00:19 | ⚠ 69分（23:09→00:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 140 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 119 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 18:56 [financialjuice] Trump on MCA trade pact: Canada eager to strike deal
-- 09/12 18:57 [financialjuice] Trump on Canada: agreement might occur at right time
-- 09/12 18:57 [DeItaone] TRUMP ON IRAN: WAR WILL END VERY SOON
-- 09/12 18:57 [financialjuice] Trump on Canada: Canada must improve treatment of U.S. farmers
-- 09/12 18:57 [financialjuice] Trump on Canada: likely to reach agreement fairly soon
-- 09/12 18:57 [DeItaone] TRUMP ON IRAN: OIL PRICES WILL TUMBLE WHEN WAR ENDS
-- 09/12 18:57 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: CROWN PRINCE IS A GOOD FRIEND OF MINE, EVERYTHING WILL WORK OUT FINE
-- 09/12 18:58 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: IRAN PROBABLY RESPONSIBLE FOR ATTACK
-- 09/12 18:58 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: HOUTHIS DON'T WANT TO FIGHT WITH US
-- 09/12 18:59 [DeItaone] TRUMP ON SAUDI PIPELINE ATTACK: WE CONTROL HORMUZ STRAIT
-- 09/12 18:59 [DeItaone] TRUMP ON IRISH UNIFICATION: IT WILL HAPPEN EVENTUALLY
-- 09/12 19:00 [DeItaone] TRUMP ON MCA TRADE DEAL: CANADA WANTS TO MAKE A DEAL VERY BADLY
-- 09/12 19:00 [DeItaone] TRUMP ON CANADA: DEAL COULD HAPPEN AT THE RIGHT TIME
-- 09/12 19:01 [DeItaone] TRUMP ON CANADA: PROBABLY SEE DEAL FAIRLY SOON
-- 09/12 19:03 [FirstSquawk] TRUMP SAYS UK WILL INFLUENCE IRISH UNIFICATION.
-- 09/12 19:03 [FirstSquawk] TRUMP SUPPORTS IRISH UNIFICATION, CALLING IT A GREAT ACHIEVEMENT FOR ALL. HE BELIEVES IT WILL HAPPEN EVENTUALLY, BUT THE UK WILL HAVE INPUT.
-- 09/12 19:03 [FirstSquawk] TRUMP SAYS CANADA IS VERY EAGER TO REACH A TRADE AGREEMENT.
-- 09/12 19:03 [FirstSquawk] TRUMP SAYS A DEAL WITH CANADA IS POSSIBLE IF TIMING IS RIGHT.
-- 09/12 19:03 [FirstSquawk] TRUMP URGES CANADA TO IMPROVE TREATMENT OF U.S. FARMERS.
-- 09/12 19:03 [FirstSquawk] TRUMP SAYS A DEAL WITH CANADA IS LIKELY COMING SOON.
-- 09/12 19:04 [DeItaone] CHINA'S XI AT BRICS SUMMIT: BRICS COUNTRIES SHOULD FIRMLY STAND ON RIGHT SIDE OF HISTORY-XINHUA
-- 09/12 19:04 [DeItaone] CHINA'S XI, AT BRICS SUMMIT: WARNS AGAINST WAR IN MIDDLE EAST AND GULF REGION- CHINESE STATE MEDIA
-- 09/12 19:07 [FirstSquawk] XI JINPING OF CHINA ANNOUNCED THAT CHINA WILL COLLABORATE WITH BRICS COUNTRIES TO PROMOTE PEACE AND STABILITY IN THE MIDDLE EAST AND GULF REGION.
-- 09/12 19:07 [FirstSquawk] XI JINPING CALLS FOR BRICS TO TAKE LEAD IN ENSURING PEACE AND STABILITY.
-- 09/12 19:07 [FirstSquawk] XI JINPING URGES BRICS NATIONS TO STAY ON HISTORY'S RIGHT SIDE AT BRICS SUMMIT.
 - 09/12 19:43 [FirstSquawk] UAE strongly condemns targeting pipeline in Saudi Arabia with drones coming from Iraq
 - 09/12 19:47 [FirstSquawk] Iranian President: The BRICS Group must confront unilateral sanctions that target peoples and the development path of countries in a practical way
 - 09/12 19:47 [FirstSquawk] Iranian President: BRICS members must counter attempts to make targeting civilian infrastructure acceptable
@@ -156,7 +131,7 @@
 - 09/12 23:59 [FirstSquawk] PEZESHKIAN STATES NO DECISION HAS BEEN MADE REGARDING DIRECT TALKS WITH THE US, AND A TRUSTING ENVIRONMENT MUST BE CREATED.
 - 09/13 00:09 [DeItaone] IRAN, UAE BACK BRICS CALL FOR RESTRAINT Iran and the UAE jointly backed a BRICS declaration calling for maximum restraint in the Middle East war, marking a notable diplomatic step between the two sides. Iranian President Masoud Pezeshkian a…
 - 09/13 00:19 [financialjuice] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 million cubic feet/day from 135 million — PM's office
-- 09/13 00:19 [financialjuice] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd: PM’s office
+- 09/13 00:19 [financialjuice/FirstSquawk] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd: PM’s office
 - 09/13 00:22 [FirstSquawk] ELON MUSK AGREES WITH AMODEI ON THE NEED TO SLOW DOWN AI MODEL DEVELOPMENT.
 - 09/13 00:22 [FirstSquawk] CENTCOM REPORTS 100 COMMERCIAL SHIPS HAVE BEEN DIVERTED DUE TO THE BLOCKADE IN IRAN.
 - 09/13 00:22 [FirstSquawk] PEZESHKIAN SAYS THE STRAIT OF HORMUZ WILL REOPEN IF THE U.S. LIFTS THE BLOCKADE, AND THAT THE SUPREME LEADER HAS THE FINAL DECISION IN IRAN.
@@ -164,3 +139,7 @@
 - 09/13 00:29 [FirstSquawk] Xi and Modi Move Toward Better Ties Chinese President Xi Jinping and Indian Prime Minister Narendra Modi met in New Delhi to improve relations between China and India. The two leaders discussed the border dispute, trade, supply chains and m…
 - 09/13 00:30 [FirstSquawk] Anthropic CEO Calls for Slower AI Development Anthropic CEO Dario Amodei has called for the AI industry to slow the pace of developing new models, warning that rapidly advancing AI could create serious risks for humans. He pointed to AI’s g…
 - 09/13 00:33 [FirstSquawk] California Diesel Prices Hit Record Highs Diesel prices in California have surged to record levels, with the statewide average rising above $8 a gallon and one San Diego station charging $9.99. Low fuel supplies, reduced refining capacity, …
+- 09/13 01:02 [FirstSquawk] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 mln cubic feet/day from 135 mln — PM's office
+- 09/13 01:09 [FirstSquawk] United Nations: At least 76,000 people have been displaced by fighting in Yemen since July
+- 09/13 01:09 [FirstSquawk] UAE affirms that there is no military solution to the conflict in Sudan and that the only viable path to achieving lasting peace is an independent, civilian-led transition free from the influence of warring parties.
+- 09/13 01:09 [FirstSquawk] Lebanese News Agency: Heavy and concentrated Israeli shelling on the "Ali Taher" heights in southern Lebanon
