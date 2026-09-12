@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 07:59 JST／対象: 09/13 01:59 〜 09/13 07:59 JST（時刻はすべて日本時間）
+生成: 2026-09-13 08:16 JST／対象: 09/13 02:16 〜 09/13 08:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 17 | 09/13 02:02 | 09/13 03:29 | 42分（02:14→02:57） |
-| financialjuice | 15 | 09/13 02:00 | 09/13 05:05 | ⚠ 67分（03:58→05:05） |
+| FirstSquawk | 8 | 09/13 02:57 | 09/13 03:29 | 19分（02:58→03:18） |
+| financialjuice | 12 | 09/13 02:58 | 09/13 05:05 | ⚠ 67分（03:58→05:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 32 行（統合前 32 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 20 行（統合前 20 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 02:00 [financialjuice] Economy minister: about $40 billion of Ukraine's export revenue threatened by blockade
-- 09/13 02:00 [financialjuice] Destruction of Ukraine's infrastructure, fixed assets from Russian airstrikes estimated at $10 billion this year: economy minister
-- 09/13 02:00 [financialjuice] Economic costs from Ukraine's seaports blockade and destruction about 1.5 percentage points of GDP this year: minister
-- 09/13 02:02 [FirstSquawk] Iranian source: Strait of Hormuz will remain closed despite the Iran-Oman agreement - according to Tasnim News
-- 09/13 02:02 [FirstSquawk] Iranian source: Iran and Oman finalize details of new routes for entry and exit from Strait of Hormuz - according to Tasnim
-- 09/13 02:03 [FirstSquawk] Iranian source: entry path into Persian Gulf lies fully within Iranian territorial waters, while part of exit route from Persian Gulf also lies within Iranian territory - according to Tasnim
-- 09/13 02:03 [FirstSquawk] Iranian source: southern route will close despite U.S. pressure to reopen - according to Tasnim
-- 09/13 02:04 [FirstSquawk] Iranian source: Iraq to participate in meeting in Oman on Monday - according to Tasnim
-- 09/13 02:04 [FirstSquawk] Iranian source: GCC countries to be updated on outcome of Iran-Oman talks, decisions at Oman meeting - according to Tasnim
-- 09/13 02:05 [FirstSquawk] Iranian source: Reopening of Strait of Hormuz hinges entirely on U.S. meeting Iran’s conditions - according to Tasnim
-- 09/13 02:14 [FirstSquawk] AFP, citing the Kremlin: A meeting between Putin and Zelensky at the G20 summit is "impossible".
-- 09/13 02:14 [FirstSquawk] Lebanese News Agency: Israeli airstrike on the vicinity of Tell al-Dabsha, on the outskirts of Nabatieh al-Fawqa
 - 09/13 02:57 [FirstSquawk] Israeli airstrike on the outskirts of Ali Taher Heights in southern Lebanon
 - 09/13 02:58 [financialjuice] Iran state media: sound of two blasts heard near Qeshm from the sea
 - 09/13 02:58 [FirstSquawk] Abu Dhabi Crown Prince Sheikh Khaled bin Mohammed bin Zayed meets Russian President Vladimir Putin on the sidelines of the "BRICS Summit" in New Delhi
