@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 09:24 JST／対象: 09/11 09:24 〜 09/12 09:24 JST（時刻はすべて日本時間）
+生成: 2026-09-12 09:46 JST／対象: 09/11 09:46 〜 09/12 09:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/11 15:05 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 268 | 09/11 09:35 | 09/12 09:23 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 186 | 09/11 09:28 | 09/12 09:00 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 269 | 09/11 09:47 | 09/12 09:44 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 184 | 09/11 09:47 | 09/12 09:00 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 497 行（統合前 503 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 496 行（統合前 502 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 09:28 [financialjuice] China PBOC forecast to set yuan midpoint at 6.7174 per dollar: estimate
-- 09/11 09:35 [FirstSquawk] Two-year JGB yield climbs 1 bp to 1.830%.
-- 09/11 09:41 [FirstSquawk] America’s Fast-Food Industry Pivots Back to Human Labor
-- 09/11 09:42 [FirstSquawk] Yield on the 20-year JGB advances 5.5 basis points, reaching 3.805%.
-- 09/11 09:42 [FirstSquawk] Yield on the 5-year JGB advances 3 basis points to 2.250%.
-- 09/11 09:46 [FirstSquawk] Nikkei tumbles over 3% at the open as surging crude futures pressure Japanese equities.
-- 09/11 09:46 [financialjuice] to single stocks including Tesla, Apple and Nvidia: WSJ
 - 09/11 09:47 [financialjuice] Kalshi planning to seek regulatory approval to offer regulated perpetual futures
 - 09/11 09:47 [FirstSquawk] Kalshi eyes regulatory approval to launch perpetual futures linked to stocks including Tesla, Apple and Nvidia, WSJ reports.
 - 09/11 09:48 [FirstSquawk] 10-year Treasury yield climbs 2.6 bps to 4.9708%, reaching its highest since October 2023.
@@ -521,3 +514,9 @@
 - 09/12 09:21 [FirstSquawk] US official says the three-way arrangement involving Israel and Lebanon remains the sole viable mechanism.
 - 09/12 09:22 [FirstSquawk] US official says Israeli and Lebanese envoys are set to hold talks at the State Department in Washington next week.
 - 09/12 09:23 [FirstSquawk] Saudi Civil Defense announces that the security alert in Khamis Mushait has been lifted, with the immediate threat now considered cleared.
+- 09/12 09:31 [FirstSquawk] Wall Street closed up as oil prices slid, while firm consumer price data boosted bets that the Fed will hike rates next week to rein in inflation.
+- 09/12 09:31 [FirstSquawk] Xi sets out for India with the BRICS summit dominated by conflict.
+- 09/12 09:32 [FirstSquawk] Boeing engineers face a contract deadline on October 6.
+- 09/12 09:40 [FirstSquawk] Seoul’s NSC holds an urgent security review after North Korea launches short-range ballistic missiles.
+- 09/12 09:41 [FirstSquawk] Trump: I’m open to Chinese automakers building vehicles at U.S. plants.
+- 09/12 09:44 [FirstSquawk] Petrobras collects two payments totaling 2.54 billion reais linked to Brazil’s diesel subsidy initiative.
