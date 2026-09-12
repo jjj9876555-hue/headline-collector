@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 18:43 JST／対象: 09/12 06:43 〜 09/12 18:43 JST（時刻はすべて日本時間）
+生成: 2026-09-12 18:58 JST／対象: 09/12 06:58 〜 09/12 18:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/12 16:41 | 09/12 18:22 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 124 | 09/12 09:02 | 09/12 18:42 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 30 | 09/12 06:50 | 09/12 18:00 | ⚠ 170分（10:12→13:03） |
+| DeItaone | 9 | 09/12 16:41 | 09/12 18:58 | ⚠ 86分（16:41→18:07） |
+| FirstSquawk | 134 | 09/12 09:02 | 09/12 18:52 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 41 | 09/12 07:48 | 09/12 18:57 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 158 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 183 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 06:50 [financialjuice] Iraqi military commander removed after probe confirms drone attacks on Saudi Arabia came from Iraq: Iraqi PM office
 - 09/12 07:48 [financialjuice] AI startup Discovery Loop targets valuation near $50 billion - Business Insider
 - 09/12 07:58 [financialjuice] Nvidia expected to lead Anthropic IPO, sources say
 - 09/12 07:58 [financialjuice] Nvidia to invest up to $10 billion in Anthropic IPO, source says
@@ -182,3 +181,29 @@
 - 09/12 18:22 [DeItaone] BANKS RAISE CORE PCE FORECASTS AFTER CPI Wall Street economists have raised their August core PCE estimates following the latest CPI data, with forecasts now clustering in the high 0.20% range and several banks seeing 0.30% or higher. *Barc…
 - 09/12 18:42 [FirstSquawk] FORD IS RECALLING 223,472 VEHICLES IN THE U.S., ACCORDING TO NHTSA.
 - 09/12 18:42 [FirstSquawk] FORD IS RECALLING U.S. CARS DUE TO A DETACHED FUEL TANK THAT MIGHT CREATE ROAD HAZARDS, HIKING THE CRASH RISK. A FUEL LEAK COULD ALSO RESULT IN ENGINE FAILURE OR FIRE RISKS. - NHTSA
+- 09/12 18:44 [financialjuice] Trump: U.S. and Ireland collaborate very successfully
+- 09/12 18:45 [financialjuice] Trump on Iran: war will conclude very soon
+- 09/12 18:45 [financialjuice] Trump on Iran: oil prices to plunge when conflict ends
+- 09/12 18:46 [financialjuice] Trump on Saudi pipeline attack: Crown prince is a close ally, everything will work out fine
+- 09/12 18:47 [FirstSquawk] CHINA WILL TAKE THE BRICS CHAIR IN 2027 AND HOST THE 19TH SUMMIT, REPORTS CCTV.
+- 09/12 18:47 [FirstSquawk] TRUMP SAYS U.S. AND IRELAND HAVE A STRONG TRADE RELATIONSHIP.
+- 09/12 18:48 [FirstSquawk] TRUMP STATES THAT WAR WITH IRAN WILL END IN THE NEAR FUTURE.
+- 09/12 18:48 [FirstSquawk] TRUMP SAYS OIL PRICES WILL DROP ONCE WAR WITH IRAN IS OVER.
+- 09/12 18:48 [FirstSquawk] TRUMP SAYS CROWN PRINCE OF SAUDI ARABIA IS A FRIEND AND ASSURES THAT THE PIPELINE ATTACK SITUATION WILL BE RESOLVED.
+- 09/12 18:48 [FirstSquawk] TRUMP ON GAZA: WE'VE DONE A GREAT JOB
+- 09/12 18:49 [financialjuice] Trump on protests: "I didn't know there was a protest"
+- 09/12 18:50 [financialjuice] Trump on Saudia pipeline attack: Iran likely behind assault
+- 09/12 18:51 [financialjuice] Trump on Saudi pipeline strike: Houthis avoid conflict with US
+- 09/12 18:51 [financialjuice] Trump on Saudi pipeline attack: We control Hormuz Strait
+- 09/12 18:52 [FirstSquawk] TRUMP CLAIMS HE WAS UNAWARE OF THE PROTEST.
+- 09/12 18:52 [FirstSquawk] TRUMP SAYS IRAN IS LIKELY BEHIND SAUDI PIPELINE ATTACK.
+- 09/12 18:52 [FirstSquawk] TRUMP SAYS HOUTHIS ARE NOT INTERESTED IN FIGHTING AGAINST THE U.S. FOLLOWING THE SAUDI PIPELINE ATTACK.
+- 09/12 18:52 [FirstSquawk] TRUMP SAYS WE CONTROL HORMUZ STRAIT AFTER SAUDI PIPELINE ATTACK.
+- 09/12 18:56 [financialjuice] Trump on MCA trade pact: Canada eager to strike deal
+- 09/12 18:57 [financialjuice] Trump on Canada: agreement might occur at right time
+- 09/12 18:57 [DeItaone] TRUMP ON IRAN: WAR WILL END VERY SOON
+- 09/12 18:57 [financialjuice] Trump on Canada: Canada must improve treatment of U.S. farmers
+- 09/12 18:57 [financialjuice] Trump on Canada: likely to reach agreement fairly soon
+- 09/12 18:57 [DeItaone] TRUMP ON IRAN: OIL PRICES WILL TUMBLE WHEN WAR ENDS
+- 09/12 18:57 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: CROWN PRINCE IS A GOOD FRIEND OF MINE, EVERYTHING WILL WORK OUT FINE
+- 09/12 18:58 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: IRAN PROBABLY RESPONSIBLE FOR ATTACK
