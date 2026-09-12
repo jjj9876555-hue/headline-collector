@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 15:21 JST／対象: 09/12 09:21 〜 09/12 15:21 JST（時刻はすべて日本時間）
+生成: 2026-09-12 15:38 JST／対象: 09/12 09:38 〜 09/12 15:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 97 | 09/12 09:22 | 09/12 15:00 | 13分（11:26→11:40） |
-| financialjuice | 5 | 09/12 10:02 | 09/12 15:10 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 92 | 09/12 09:40 | 09/12 15:00 | 13分（11:26→11:40） |
+| financialjuice | 13 | 09/12 10:02 | 09/12 15:33 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 105 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 09:22 [FirstSquawk] US official says Israeli and Lebanese envoys are set to hold talks at the State Department in Washington next week.
-- 09/12 09:23 [FirstSquawk] Saudi Civil Defense announces that the security alert in Khamis Mushait has been lifted, with the immediate threat now considered cleared.
-- 09/12 09:31 [FirstSquawk] Wall Street closed up as oil prices slid, while firm consumer price data boosted bets that the Fed will hike rates next week to rein in inflation.
-- 09/12 09:31 [FirstSquawk] Xi sets out for India with the BRICS summit dominated by conflict.
-- 09/12 09:32 [FirstSquawk] Boeing engineers face a contract deadline on October 6.
 - 09/12 09:40 [FirstSquawk] Seoul’s NSC holds an urgent security review after North Korea launches short-range ballistic missiles.
 - 09/12 09:41 [FirstSquawk] Trump: I’m open to Chinese automakers building vehicles at U.S. plants.
 - 09/12 09:44 [FirstSquawk] Petrobras collects two payments totaling 2.54 billion reais linked to Brazil’s diesel subsidy initiative.
@@ -126,3 +121,11 @@
 - 09/12 14:57 [FirstSquawk] South Korea Seeks U.S. Handover of Wartime Command Authority Under ‘No Added Conditions’ Principle South Korea’s defense minister nominee says Seoul aims to regain wartime operational control (OPCON) from the United States based on a “no ad…
 - 09/12 15:00 [FirstSquawk] Latin American Allies Throw Full Support Behind Trump’s Drug War - WSJ Latin American allies are stepping up cooperation with the Trump administration’s campaign against drug trafficking, signaling stronger regional backing for Washington’s…
 - 09/12 15:10 [financialjuice] China's Xi arrives in Delhi for BRICS summit - TV
+- 09/12 15:31 [financialjuice] India's markets regulator proposes six steps to enhance derivatives settlement prices in closing auction session
+- 09/12 15:31 [financialjuice] India's Sebi proposes adjustments to closing auction price band
+- 09/12 15:31 [financialjuice] India's SEBI: Closing auction orders outside 1% range will not be allowed to be canceled
+- 09/12 15:32 [financialjuice] India's Sebi proposes using closing auction session and volume-weighted average price for index and single stock derivatives on expiry day
+- 09/12 15:32 [financialjuice] India's Sebi proposes withholding indicative closing levels of index during closing auction session
+- 09/12 15:32 [financialjuice] Saudi civil defense: early warning issued in Sharurah to signal potential danger
+- 09/12 15:32 [financialjuice] India's Sebi proposes cutting post-closing auction window for derivatives segment to 5 minutes from 10 minutes
+- 09/12 15:33 [financialjuice] India's SEBI proposes to continue publishing indicative equilibrium price for stocks in closing auction session

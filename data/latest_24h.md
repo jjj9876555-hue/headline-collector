@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 15:21 JST／対象: 09/11 15:21 〜 09/12 15:21 JST（時刻はすべて日本時間）
+生成: 2026-09-12 15:38 JST／対象: 09/11 15:38 〜 09/12 15:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 46 | 09/11 15:25 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 258 | 09/11 15:24 | 09/12 15:00 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 181 | 09/11 15:34 | 09/12 15:10 | ⚠ 170分（10:12→13:03） |
+| DeItaone | 44 | 09/11 15:42 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
+| FirstSquawk | 248 | 09/11 15:45 | 09/12 15:00 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 185 | 09/11 16:05 | 09/12 15:33 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 481 行（統合前 487 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 473 行（統合前 479 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 15:24 [FirstSquawk] France must cut its deficit, Moulin says.
-- 09/11 15:24 [FirstSquawk] ASX 200 sheds 0.9%, finishing at 8,741.20.
-- 09/11 15:25 [DeItaone] TRUMP REPORTEDLY REJECTS MBS REQUEST TO STRIKE HOUTHIS Saudi Crown Prince Mohammed bin Salman asked President Trump to launch airstrikes against the Houthis, according to Axios, citing U.S. officials. Trump reportedly refused, as Washington…
-- 09/11 15:25 [FirstSquawk] Ukraine’s Sept. 1–9 food exports hit 630,000 tons, of which 380,000 tons are grain, farm minister says.
-- 09/11 15:25 [FirstSquawk] France should avoid adding more uncertainty to its budget situation, Moulin says.
-- 09/11 15:30 [FirstSquawk] Russia’s Sberbank sees significant scope for CBDCs in India-Russia trade payments, CEO says.
-- 09/11 15:32 [FirstSquawk] Sberbank chief says CBDCs offer much greater efficiency for trade settlements and the bank is helping central banks.
-- 09/11 15:32 [FirstSquawk] UK DMO adds Natixis as an associate GEMM.
-- 09/11 15:34 [financialjuice] ECB's Nagel: Next ECB moves dependent on energy price development.
-- 09/11 15:35 [DeItaone] IRAN, PAKISTAN DISCUSS PATH BACK TO TALKS Iranian Foreign Minister Abbas Araqchi and Pakistan’s army chief Asim Munir discussed efforts to de-escalate the U.S.-Iran conflict, a Pakistani security official told Reuters. The talks also covere…
-- 09/11 15:36 [FirstSquawk] India settles most of its oil purchases from Russia in rupees, Sberbank CEO says.
-- 09/11 15:36 [FirstSquawk] Energy prices will determine ECB policy moves, Nagel says.
-- 09/11 15:36 [financialjuice] ECB's Nagel: Low gas storage level not a real concern.
-- 09/11 15:36 [financialjuice] ECB's Nagel: At upper bound of neutral territory.
-- 09/11 15:37 [financialjuice] ECB's Nagel: We might need to go into mildly restrictive territory.
-- 09/11 15:37 [FirstSquawk] Nagel: A mildly restrictive policy stance may become necessary.
 - 09/11 15:42 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:00 AM ET — 🛒 Kroger Earnings 8:30 AM ET — 🇺🇸 August CPI + Real Earnings 10:00 AM ET — 🇺🇸 Michigan Consumer Sentiment 10:00 AM ET — 🇺🇸 Michigan Inflation Expectations 12:00 PM ET — 🏦 Fed Financial Acco…
 - 09/11 15:45 [FirstSquawk] SoftBank Group receives inaugural ‘BB+’ rating from Fitch with stable outlook.
 - 09/11 15:46 [DeItaone] FRANCE DEBT CANCELLATION PLAN SLAMMED AS “DANGEROUS” Bank of France chief Emmanuel Moulin warned that Jean-Luc Mélenchon’s proposal to cancel 18% of France’s national debt would amount to a default, calling it “illegal, dangerous and useles…
@@ -505,3 +489,11 @@
 - 09/12 14:57 [FirstSquawk] South Korea Seeks U.S. Handover of Wartime Command Authority Under ‘No Added Conditions’ Principle South Korea’s defense minister nominee says Seoul aims to regain wartime operational control (OPCON) from the United States based on a “no ad…
 - 09/12 15:00 [FirstSquawk] Latin American Allies Throw Full Support Behind Trump’s Drug War - WSJ Latin American allies are stepping up cooperation with the Trump administration’s campaign against drug trafficking, signaling stronger regional backing for Washington’s…
 - 09/12 15:10 [financialjuice] China's Xi arrives in Delhi for BRICS summit - TV
+- 09/12 15:31 [financialjuice] India's markets regulator proposes six steps to enhance derivatives settlement prices in closing auction session
+- 09/12 15:31 [financialjuice] India's Sebi proposes adjustments to closing auction price band
+- 09/12 15:31 [financialjuice] India's SEBI: Closing auction orders outside 1% range will not be allowed to be canceled
+- 09/12 15:32 [financialjuice] India's Sebi proposes using closing auction session and volume-weighted average price for index and single stock derivatives on expiry day
+- 09/12 15:32 [financialjuice] India's Sebi proposes withholding indicative closing levels of index during closing auction session
+- 09/12 15:32 [financialjuice] Saudi civil defense: early warning issued in Sharurah to signal potential danger
+- 09/12 15:32 [financialjuice] India's Sebi proposes cutting post-closing auction window for derivatives segment to 5 minutes from 10 minutes
+- 09/12 15:33 [financialjuice] India's SEBI proposes to continue publishing indicative equilibrium price for stocks in closing auction session

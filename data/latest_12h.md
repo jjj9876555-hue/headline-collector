@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 15:21 JST／対象: 09/12 03:21 〜 09/12 15:21 JST（時刻はすべて日本時間）
+生成: 2026-09-12 15:38 JST／対象: 09/12 03:38 〜 09/12 15:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
-| FirstSquawk | 127 | 09/12 03:28 | 09/12 15:00 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 62 | 09/12 03:28 | 09/12 15:10 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 123 | 09/12 03:45 | 09/12 15:00 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 64 | 09/12 03:45 | 09/12 15:33 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 190 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 188 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 03:28 [financialjuice] ❗ Saudi Arabia: East-West pipeline shut down as a precaution.
-- 09/12 03:28 [FirstSquawk] SAUDI: EAST–WEST PIPELINE SHUT DOWN AS PRECAUTION AFTER ATTACK
-- 09/12 03:28 [financialjuice] Saudi Energy Ministry: East-West pipeline was temporarily shut down after several attacks on the pipeline in the Riyadh and Medina regions on Thursday.
-- 09/12 03:28 [FirstSquawk] SAUDI: EAST–WEST PIPELINE WAS HIT BY MULTIPLE ATTACKS THURSDAY
-- 09/12 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $100.05 a barrel down $2.43, 2.3%
-- 09/12 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.9593 a gallon
-- 09/12 03:32 [FirstSquawk] SAUDI: TAKING STEPS TO SECURE PIPELINE, ASSESS SAFETY
-- 09/12 03:32 [financialjuice] Saudi Arabia: Taking steps to secure pipeline, assess safety.
-- 09/12 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8310/MMBTU
-- 09/12 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $100.05/BBL, DOWN $2.43, 2.37%
 - 09/12 03:45 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $104.61/BBL, DOWN $3.02, 2.81 PCT
 - 09/12 03:45 [financialjuice] Brent Crude futures settle at $104.61/bbl, down $3.02, 2.81%
 - 09/12 03:47 [financialjuice] Iran has launched drones towards ships in the Strait of Hormuz - Israel's Channel 12 News
@@ -214,3 +204,11 @@
 - 09/12 14:57 [FirstSquawk] South Korea Seeks U.S. Handover of Wartime Command Authority Under ‘No Added Conditions’ Principle South Korea’s defense minister nominee says Seoul aims to regain wartime operational control (OPCON) from the United States based on a “no ad…
 - 09/12 15:00 [FirstSquawk] Latin American Allies Throw Full Support Behind Trump’s Drug War - WSJ Latin American allies are stepping up cooperation with the Trump administration’s campaign against drug trafficking, signaling stronger regional backing for Washington’s…
 - 09/12 15:10 [financialjuice] China's Xi arrives in Delhi for BRICS summit - TV
+- 09/12 15:31 [financialjuice] India's markets regulator proposes six steps to enhance derivatives settlement prices in closing auction session
+- 09/12 15:31 [financialjuice] India's Sebi proposes adjustments to closing auction price band
+- 09/12 15:31 [financialjuice] India's SEBI: Closing auction orders outside 1% range will not be allowed to be canceled
+- 09/12 15:32 [financialjuice] India's Sebi proposes using closing auction session and volume-weighted average price for index and single stock derivatives on expiry day
+- 09/12 15:32 [financialjuice] India's Sebi proposes withholding indicative closing levels of index during closing auction session
+- 09/12 15:32 [financialjuice] Saudi civil defense: early warning issued in Sharurah to signal potential danger
+- 09/12 15:32 [financialjuice] India's Sebi proposes cutting post-closing auction window for derivatives segment to 5 minutes from 10 minutes
+- 09/12 15:33 [financialjuice] India's SEBI proposes to continue publishing indicative equilibrium price for stocks in closing auction session
