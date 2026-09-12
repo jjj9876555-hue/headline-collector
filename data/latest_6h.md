@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 07:44 JST／対象: 09/13 01:44 〜 09/13 07:44 JST（時刻はすべて日本時間）
+生成: 2026-09-13 07:59 JST／対象: 09/13 01:59 〜 09/13 07:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/13 01:48 | 09/13 01:48 | - |
+| DeItaone | 0 | - | - | - |
 | FirstSquawk | 17 | 09/13 02:02 | 09/13 03:29 | 42分（02:14→02:57） |
 | financialjuice | 15 | 09/13 02:00 | 09/13 05:05 | ⚠ 67分（03:58→05:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 33 行（統合前 33 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 32 行（統合前 32 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 01:48 [DeItaone] $ORCL - LARRY ELLISON CANCELS ORACLE STOCK SALE PLAN Oracle says founder Larry Ellison has canceled his 10b5-1 plan to sell Oracle shares, according to Reuters. No Oracle stock was sold under the canceled plan, and the company says Ellison …
 - 09/13 02:00 [financialjuice] Economy minister: about $40 billion of Ukraine's export revenue threatened by blockade
 - 09/13 02:00 [financialjuice] Destruction of Ukraine's infrastructure, fixed assets from Russian airstrikes estimated at $10 billion this year: economy minister
 - 09/13 02:00 [financialjuice] Economic costs from Ukraine's seaports blockade and destruction about 1.5 percentage points of GDP this year: minister
