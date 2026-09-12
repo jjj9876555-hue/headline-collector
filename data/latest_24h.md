@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 18:31 JST／対象: 09/11 18:31 〜 09/12 18:31 JST（時刻はすべて日本時間）
+生成: 2026-09-12 18:43 JST／対象: 09/11 18:43 〜 09/12 18:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 37 | 09/11 18:48 | 09/12 18:22 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 214 | 09/11 18:37 | 09/12 18:16 | ⚠ 241分（05:01→09:02） |
+| FirstSquawk | 216 | 09/11 18:44 | 09/12 18:42 | ⚠ 241分（05:01→09:02） |
 | financialjuice | 165 | 09/11 18:57 | 09/12 18:00 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 415 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 416 行（統合前 420 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 18:37 [FirstSquawk] SAUDI ARABIA CONDUCTED TWO AIRSTRIKES ON MOCHA AIRPORT IN WESTERN YEMEN ON FRIDAY, AS REPORTED BY HOUTHI-RUN AL-MASIRAH TV, PER AFP.
 - 09/11 18:44 [FirstSquawk] INSIDE GERMANY’S €3.4B TOMAHAWK MISSILE PLAN - POLITICO
 - 09/11 18:48 [FirstSquawk] GERMAN FINANCE MINISTRY SPOKESPERSON: COMMERZBANK IS IMPORTANT FOR SME FINANCING, GERMAN FINANCIAL SECTOR
 - 09/11 18:48 [DeItaone] 5% TREASURY YIELD SEEN AS KEY STOCK-MARKET DANGER ZONE With the 10-year Treasury yield above 4.96%, a Bloomberg survey shows investors increasingly see 5%-5.25% as the level that could trigger a 10% S&P 500 correction. Still, more than two-…
@@ -432,10 +431,12 @@
 - 09/12 17:57 [FirstSquawk] Iran President says supreme leader Mojtaba Khamenei is alive and the U.S. can’t locate him.
 - 09/12 17:58 [FirstSquawk] Chinese company Huawei Technologies has developed a large language model trained on regional history, used for generating tourism content
 - 09/12 18:00 [financialjuice] Trump on Iran: everything will resolve smoothly
-- 09/12 18:07 [DeItaone] TRUMP ON IRAN: EVERYTHING WILL WORK OUT FINE
+- 09/12 18:07 [DeItaone/FirstSquawk] TRUMP ON IRAN: EVERYTHING WILL WORK OUT FINE
 - 09/12 18:09 [DeItaone] BRICS AGREES JOINT DECLARATION AMID IRAN WAR BRICS members have agreed on a joint declaration condemning unilateral war by any country, four sources told Reuters, though the statement is unlikely to name specific nations. The agreement foll…
 - 09/12 18:14 [DeItaone] LAGARDE STEPS INTO FRANCE’S PRESIDENTIAL SPOTLIGHT ECB President Christine Lagarde is set to speak at a political gathering in Normandy Saturday, fueling speculation she could leave the central bank before her term expires in 2027. The appe…
 - 09/12 18:15 [FirstSquawk] Russian President Vladimir Putin said Europe’s current problems are the result of what he described as “systemic mistakes” by the West’s globalists in politics, security and the economy. Putin said Western elites felt they were at the “top …
 - 09/12 18:16 [FirstSquawk] Iran has moved from a defensive to an offensive military strategy, lawmaker Esmail Kowsari, a member of parliament's National Security and Foreign Policy Committee, told Defa Press on Saturday.
 - 09/12 18:16 [FirstSquawk] Tesla and the Musks 'Chinamaxx' as rumors swirl over EV maker's plans
 - 09/12 18:22 [DeItaone] BANKS RAISE CORE PCE FORECASTS AFTER CPI Wall Street economists have raised their August core PCE estimates following the latest CPI data, with forecasts now clustering in the high 0.20% range and several banks seeing 0.30% or higher. *Barc…
+- 09/12 18:42 [FirstSquawk] FORD IS RECALLING 223,472 VEHICLES IN THE U.S., ACCORDING TO NHTSA.
+- 09/12 18:42 [FirstSquawk] FORD IS RECALLING U.S. CARS DUE TO A DETACHED FUEL TANK THAT MIGHT CREATE ROAD HAZARDS, HIKING THE CRASH RISK. A FUEL LEAK COULD ALSO RESULT IN ENGINE FAILURE OR FIRE RISKS. - NHTSA

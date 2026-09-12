@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 18:31 JST／対象: 09/12 06:31 〜 09/12 18:31 JST（時刻はすべて日本時間）
+生成: 2026-09-12 18:43 JST／対象: 09/12 06:43 〜 09/12 18:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/12 16:41 | 09/12 18:22 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 121 | 09/12 09:02 | 09/12 18:16 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 31 | 09/12 06:33 | 09/12 18:00 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 124 | 09/12 09:02 | 09/12 18:42 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 30 | 09/12 06:50 | 09/12 18:00 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 157 行（統合前 157 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 158 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 06:33 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait
 - 09/12 06:50 [financialjuice] Iraqi military commander removed after probe confirms drone attacks on Saudi Arabia came from Iraq: Iraqi PM office
 - 09/12 07:48 [financialjuice] AI startup Discovery Loop targets valuation near $50 billion - Business Insider
 - 09/12 07:58 [financialjuice] Nvidia expected to lead Anthropic IPO, sources say
@@ -174,10 +173,12 @@
 - 09/12 17:57 [FirstSquawk] Iran President says supreme leader Mojtaba Khamenei is alive and the U.S. can’t locate him.
 - 09/12 17:58 [FirstSquawk] Chinese company Huawei Technologies has developed a large language model trained on regional history, used for generating tourism content
 - 09/12 18:00 [financialjuice] Trump on Iran: everything will resolve smoothly
-- 09/12 18:07 [DeItaone] TRUMP ON IRAN: EVERYTHING WILL WORK OUT FINE
+- 09/12 18:07 [DeItaone/FirstSquawk] TRUMP ON IRAN: EVERYTHING WILL WORK OUT FINE
 - 09/12 18:09 [DeItaone] BRICS AGREES JOINT DECLARATION AMID IRAN WAR BRICS members have agreed on a joint declaration condemning unilateral war by any country, four sources told Reuters, though the statement is unlikely to name specific nations. The agreement foll…
 - 09/12 18:14 [DeItaone] LAGARDE STEPS INTO FRANCE’S PRESIDENTIAL SPOTLIGHT ECB President Christine Lagarde is set to speak at a political gathering in Normandy Saturday, fueling speculation she could leave the central bank before her term expires in 2027. The appe…
 - 09/12 18:15 [FirstSquawk] Russian President Vladimir Putin said Europe’s current problems are the result of what he described as “systemic mistakes” by the West’s globalists in politics, security and the economy. Putin said Western elites felt they were at the “top …
 - 09/12 18:16 [FirstSquawk] Iran has moved from a defensive to an offensive military strategy, lawmaker Esmail Kowsari, a member of parliament's National Security and Foreign Policy Committee, told Defa Press on Saturday.
 - 09/12 18:16 [FirstSquawk] Tesla and the Musks 'Chinamaxx' as rumors swirl over EV maker's plans
 - 09/12 18:22 [DeItaone] BANKS RAISE CORE PCE FORECASTS AFTER CPI Wall Street economists have raised their August core PCE estimates following the latest CPI data, with forecasts now clustering in the high 0.20% range and several banks seeing 0.30% or higher. *Barc…
+- 09/12 18:42 [FirstSquawk] FORD IS RECALLING 223,472 VEHICLES IN THE U.S., ACCORDING TO NHTSA.
+- 09/12 18:42 [FirstSquawk] FORD IS RECALLING U.S. CARS DUE TO A DETACHED FUEL TANK THAT MIGHT CREATE ROAD HAZARDS, HIKING THE CRASH RISK. A FUEL LEAK COULD ALSO RESULT IN ENGINE FAILURE OR FIRE RISKS. - NHTSA
