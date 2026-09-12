@@ -7,50 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 06:44 JST／対象: 09/12 18:44 〜 09/13 06:44 JST（時刻はすべて日本時間）
+生成: 2026-09-13 06:58 JST／対象: 09/12 18:58 〜 09/13 06:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/12 18:57 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
-| FirstSquawk | 121 | 09/12 18:47 | 09/13 03:29 | 45分（21:53→22:38） |
-| financialjuice | 61 | 09/12 18:44 | 09/13 05:05 | ⚠ 73分（00:19→01:32） |
+| DeItaone | 18 | 09/12 18:58 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
+| FirstSquawk | 111 | 09/12 19:03 | 09/13 03:29 | 45分（21:53→22:38） |
+| financialjuice | 49 | 09/12 19:55 | 09/13 05:05 | ⚠ 73分（00:19→01:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 202 行（統合前 204 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 177 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 18:44 [financialjuice] Trump: U.S. and Ireland collaborate very successfully
-- 09/12 18:45 [financialjuice] Trump on Iran: war will conclude very soon
-- 09/12 18:45 [financialjuice] Trump on Iran: oil prices to plunge when conflict ends
-- 09/12 18:46 [financialjuice] Trump on Saudi pipeline attack: Crown prince is a close ally, everything will work out fine
-- 09/12 18:47 [FirstSquawk] CHINA WILL TAKE THE BRICS CHAIR IN 2027 AND HOST THE 19TH SUMMIT, REPORTS CCTV.
-- 09/12 18:47 [FirstSquawk] TRUMP SAYS U.S. AND IRELAND HAVE A STRONG TRADE RELATIONSHIP.
-- 09/12 18:48 [FirstSquawk] TRUMP STATES THAT WAR WITH IRAN WILL END IN THE NEAR FUTURE.
-- 09/12 18:48 [FirstSquawk] TRUMP SAYS OIL PRICES WILL DROP ONCE WAR WITH IRAN IS OVER.
-- 09/12 18:48 [FirstSquawk] TRUMP SAYS CROWN PRINCE OF SAUDI ARABIA IS A FRIEND AND ASSURES THAT THE PIPELINE ATTACK SITUATION WILL BE RESOLVED.
-- 09/12 18:48 [FirstSquawk] TRUMP ON GAZA: WE'VE DONE A GREAT JOB
-- 09/12 18:49 [financialjuice] Trump on protests: "I didn't know there was a protest"
-- 09/12 18:50 [financialjuice] Trump on Saudia pipeline attack: Iran likely behind assault
-- 09/12 18:51 [financialjuice] Trump on Saudi pipeline strike: Houthis avoid conflict with US
-- 09/12 18:51 [financialjuice/DeItaone] Trump on Saudi pipeline attack: We control Hormuz Strait
-- 09/12 18:52 [FirstSquawk] TRUMP CLAIMS HE WAS UNAWARE OF THE PROTEST.
-- 09/12 18:52 [FirstSquawk] TRUMP SAYS IRAN IS LIKELY BEHIND SAUDI PIPELINE ATTACK.
-- 09/12 18:52 [FirstSquawk] TRUMP SAYS HOUTHIS ARE NOT INTERESTED IN FIGHTING AGAINST THE U.S. FOLLOWING THE SAUDI PIPELINE ATTACK.
-- 09/12 18:52 [FirstSquawk] TRUMP SAYS WE CONTROL HORMUZ STRAIT AFTER SAUDI PIPELINE ATTACK.
-- 09/12 18:56 [financialjuice] Trump on MCA trade pact: Canada eager to strike deal
-- 09/12 18:57 [financialjuice] Trump on Canada: agreement might occur at right time
-- 09/12 18:57 [DeItaone] TRUMP ON IRAN: WAR WILL END VERY SOON
-- 09/12 18:57 [financialjuice] Trump on Canada: Canada must improve treatment of U.S. farmers
-- 09/12 18:57 [financialjuice] Trump on Canada: likely to reach agreement fairly soon
-- 09/12 18:57 [DeItaone] TRUMP ON IRAN: OIL PRICES WILL TUMBLE WHEN WAR ENDS
-- 09/12 18:57 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: CROWN PRINCE IS A GOOD FRIEND OF MINE, EVERYTHING WILL WORK OUT FINE
-- 09/12 18:58 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: IRAN PROBABLY RESPONSIBLE FOR ATTACK
 - 09/12 18:58 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: HOUTHIS DON'T WANT TO FIGHT WITH US
+- 09/12 18:59 [DeItaone] TRUMP ON SAUDI PIPELINE ATTACK: WE CONTROL HORMUZ STRAIT
 - 09/12 18:59 [DeItaone] TRUMP ON IRISH UNIFICATION: IT WILL HAPPEN EVENTUALLY
 - 09/12 19:00 [DeItaone] TRUMP ON MCA TRADE DEAL: CANADA WANTS TO MAKE A DEAL VERY BADLY
 - 09/12 19:00 [DeItaone] TRUMP ON CANADA: DEAL COULD HAPPEN AT THE RIGHT TIME
