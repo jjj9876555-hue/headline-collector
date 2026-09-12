@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 05:44 JST／対象: 09/12 23:44 〜 09/13 05:44 JST（時刻はすべて日本時間）
+生成: 2026-09-13 05:58 JST／対象: 09/12 23:58 〜 09/13 05:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/13 00:09 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
-| FirstSquawk | 38 | 09/12 23:57 | 09/13 03:29 | 42分（02:14→02:57） |
+| FirstSquawk | 31 | 09/12 23:59 | 09/13 03:29 | 42分（02:14→02:57） |
 | financialjuice | 23 | 09/13 00:19 | 09/13 05:05 | ⚠ 73分（00:19→01:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 63 行（統合前 64 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 56 行（統合前 57 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 23:57 [FirstSquawk] IRAN SAYS HORMUZ DEAL DOES NOT PROMISE SAFE SHIPPING PASSAGE.
-- 09/12 23:57 [FirstSquawk] IRAN STATES IT HAS NO ISSUES WITH THE UAE BUT HAS CONCERNS ABOUT US MILITARY BASES IN NEARBY NATIONS.
-- 09/12 23:57 [FirstSquawk] IRAN DENIES CLAIMS ABOUT PURSUING A NUCLEAR BOMB, CALLING IT "JUST PROPAGANDA."
-- 09/12 23:58 [FirstSquawk] IRAN'S PEZESHKIAN STATES THAT THE COUNTRY IS NOT LOOKING FOR CONFLICT.
-- 09/12 23:58 [FirstSquawk] XI JINPING INFORMED MODI THAT CHINA AND INDIA SHOULD VIEW EACH OTHER AS PARTNERS RATHER THAN RIVALS, ACCORDING TO XINHUA.
-- 09/12 23:58 [FirstSquawk] XI PROMOTES A FAIR SOLUTION TO TRADE ISSUES WITH INDIA.
-- 09/12 23:58 [FirstSquawk] PEZESHKIAN SAYS US SHOULD CEASE BULLYING TACTICS IN COMMUNICATION.
 - 09/12 23:59 [FirstSquawk] PEZESHKIAN STATES NO DECISION HAS BEEN MADE REGARDING DIRECT TALKS WITH THE US, AND A TRUSTING ENVIRONMENT MUST BE CREATED.
 - 09/13 00:09 [DeItaone] IRAN, UAE BACK BRICS CALL FOR RESTRAINT Iran and the UAE jointly backed a BRICS declaration calling for maximum restraint in the Middle East war, marking a notable diplomatic step between the two sides. Iranian President Masoud Pezeshkian a…
 - 09/13 00:19 [financialjuice] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 million cubic feet/day from 135 million — PM's office
