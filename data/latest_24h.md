@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 11:46 JST／対象: 09/11 11:46 〜 09/12 11:46 JST（時刻はすべて日本時間）
+生成: 2026-09-12 11:58 JST／対象: 09/11 11:58 〜 09/12 11:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/11 15:05 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 293 | 09/11 11:53 | 09/12 11:46 | ⚠ 241分（05:01→09:02） |
+| FirstSquawk | 292 | 09/11 12:01 | 09/12 11:54 | ⚠ 241分（05:01→09:02） |
 | financialjuice | 178 | 09/11 15:34 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 514 行（統合前 520 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 513 行（統合前 519 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 11:53 [FirstSquawk] JPMorgan lowers AB Foods’ target price to 1,645p from 1,700p.
-- 09/11 11:54 [FirstSquawk] Nikkei reports Astemo will invest $379 million in Kentucky to increase electric motor production.
 - 09/11 12:01 [FirstSquawk] Russia’s Volgograd region reports damage to an industrial facility from missile debris.
 - 09/11 12:10 [FirstSquawk] Barclays forecasts another 25-bps ECB rate increase at the December 2026 meeting.
 - 09/11 12:25 [FirstSquawk] Hezbollah tunnel network in southern Lebanon destroyed by Israel, triggering tremors.
@@ -538,3 +536,4 @@
 - 09/12 11:26 [FirstSquawk] AI DEBT BOMBSHELL: HYPERSCALERS FLOOD CREDIT MARKETS WITH $219 BILLION OF DEBT — BOND SUPPLY NOW DISTORTING SPREADS BIG AI CREDIT WARNING: HYPERSCALER DEBT ISSUANCE MORE THAN DOUBLES — $400 BILLION COULD HIT MARKETS NEXT YEAR
 - 09/12 11:40 [FirstSquawk] More Than 30% of Unmarried People in Japan Say They Do Not Want Children — Kyodo A survey found that over 30% of unmarried people in Japan do not want to have children, highlighting shifting attitudes toward marriage and parenthood in the c…
 - 09/12 11:46 [FirstSquawk] U.S. legislator seeks a policy rethink on the North Korea travel ban Yonhap reports
+- 09/12 11:54 [FirstSquawk] Saudi-led strikes have left 82 people dead or injured since September 3, Yemen’s Houthi health ministry says.
