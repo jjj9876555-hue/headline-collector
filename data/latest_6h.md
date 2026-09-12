@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 10:30 JST／対象: 09/12 04:30 〜 09/12 10:30 JST（時刻はすべて日本時間）
+生成: 2026-09-12 10:44 JST／対象: 09/12 04:44 〜 09/12 10:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 59 | 09/12 04:32 | 09/12 10:29 | ⚠ 241分（05:01→09:02） |
+| FirstSquawk | 63 | 09/12 04:48 | 09/12 10:42 | ⚠ 241分（05:01→09:02） |
 | financialjuice | 41 | 09/12 04:48 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 100 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 104 行（統合前 106 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 04:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON STATES THAT THEIR STRIKES TARGETED THE SOURCE OF ATTACKS, NOT OTHER COUNTRIES.
-- 09/12 04:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON WARNED SAUDI ARABIA, JAPAN, AND JORDAN THAT THEY WILL FACE REPERCUSSIONS FOR SUPPORTING ANTI-IRAN IAEA RESOLUTION.
-- 09/12 04:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS IRAN WILL HOLD SAUDI ARABIA, JAPAN, AND JORDAN RESPONSIBLE FOR BACKING AN ANTI-IRAN IAEA RESOLUTION.
-- 09/12 04:42 [FirstSquawk] CITI NOW SEE FED RAISING RATES IN SEPTEMBER, RATE CUTS BY MID-2027
 - 09/12 04:48 [FirstSquawk] CENTCOM: AS OF SEPT. 11, U.S. FORCES HAVE REDIRECTED 99 COMMERCIAL VESSELS TO ENSURE TOTAL COMPLIANCE
 - 09/12 04:48 [financialjuice] Farage Reform UK gets £36 mln donation from Ben Delo - Telegraph
 - 09/12 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -1520.0 MLN NASDAQ 100: -1245.7 MLN DOW 30: -528.4 MLN MAG 7: -891.7 MLN $MACRO
@@ -124,3 +120,11 @@
 - 09/12 10:23 [FirstSquawk] Italy retains its ‘BBB+’ sovereign rating as Fitch holds the outlook steady.
 - 09/12 10:23 [FirstSquawk] Slovenia retains its ‘A+’ rating as Fitch maintains a stable outlook.
 - 09/12 10:29 [FirstSquawk] GCC chief urges Iraq to take decisive steps to stop attacks.
+- 09/12 10:31 [FirstSquawk] Pham Nhat Vuong set to exit as VinFast chief executive.
+- 09/12 10:31 [FirstSquawk] Pham Nhat Quan Anh to take over as VinFast’s global chief executive.
+- 09/12 10:35 [FirstSquawk] Pyongyang fired an unidentified projectile in the direction of the East Sea, according to Yonhap.
+- 09/12 10:38 [FirstSquawk] Private-sector delivery and equity capacity emerge as main risks to Mexico’s power-grid expansion, Fitch says.
+- 09/12 10:41 [FirstSquawk] Baghdad thanks Riyadh for choosing not to retaliate, state media says.
+- 09/12 10:42 [FirstSquawk] Baghdad condemns any assault that puts Saudi security and stability at risk.
+- 09/12 10:42 [FirstSquawk] Baghdad launches an investigation to determine who was behind the attacks.
+- 09/12 10:42 [FirstSquawk] Baghdad vows to cooperate with allies and friends to stop future attacks.

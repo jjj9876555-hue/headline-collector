@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 10:30 JST／対象: 09/11 10:30 〜 09/12 10:30 JST（時刻はすべて日本時間）
+生成: 2026-09-12 10:44 JST／対象: 09/11 10:44 〜 09/12 10:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/11 15:05 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 289 | 09/11 10:33 | 09/12 10:29 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 180 | 09/11 10:39 | 09/12 10:12 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 293 | 09/11 10:48 | 09/12 10:42 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 179 | 09/11 10:47 | 09/12 10:12 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 512 行（統合前 518 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 515 行（統合前 521 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 10:33 [FirstSquawk] South Korean stocks fall sharply at the open as U.S. market losses weigh on sentiment.
-- 09/11 10:34 [FirstSquawk] Malaysia’s ringgit touches 4.073 per dollar, its weakest level in nearly a month.
-- 09/11 10:39 [financialjuice] Ukraine drones strike Ozon logistics center in Russia's Saratov, trigger fire: Ozon
-- 09/11 10:39 [FirstSquawk] Ozon reports a fire at its Saratov logistics hub after Ukrainian drones struck the facility.
-- 09/11 10:41 [FirstSquawk] 10-year JGB yield jumps 7.5 basis points, reaching 2.985%.
 - 09/11 10:47 [financialjuice] Taiwan stocks fall over 2%
 - 09/11 10:48 [FirstSquawk] Taiwanese shares decline sharply, falling over 2%.
 - 09/11 10:54 [FirstSquawk] Sterling stays above 1.3500 as markets await U.S. CPI figures.
@@ -536,3 +531,11 @@
 - 09/12 10:23 [FirstSquawk] Italy retains its ‘BBB+’ sovereign rating as Fitch holds the outlook steady.
 - 09/12 10:23 [FirstSquawk] Slovenia retains its ‘A+’ rating as Fitch maintains a stable outlook.
 - 09/12 10:29 [FirstSquawk] GCC chief urges Iraq to take decisive steps to stop attacks.
+- 09/12 10:31 [FirstSquawk] Pham Nhat Vuong set to exit as VinFast chief executive.
+- 09/12 10:31 [FirstSquawk] Pham Nhat Quan Anh to take over as VinFast’s global chief executive.
+- 09/12 10:35 [FirstSquawk] Pyongyang fired an unidentified projectile in the direction of the East Sea, according to Yonhap.
+- 09/12 10:38 [FirstSquawk] Private-sector delivery and equity capacity emerge as main risks to Mexico’s power-grid expansion, Fitch says.
+- 09/12 10:41 [FirstSquawk] Baghdad thanks Riyadh for choosing not to retaliate, state media says.
+- 09/12 10:42 [FirstSquawk] Baghdad condemns any assault that puts Saudi security and stability at risk.
+- 09/12 10:42 [FirstSquawk] Baghdad launches an investigation to determine who was behind the attacks.
+- 09/12 10:42 [FirstSquawk] Baghdad vows to cooperate with allies and friends to stop future attacks.
