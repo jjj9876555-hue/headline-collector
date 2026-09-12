@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 11:17 JST／対象: 09/11 11:17 〜 09/12 11:17 JST（時刻はすべて日本時間）
+生成: 2026-09-12 11:33 JST／対象: 09/11 11:33 〜 09/12 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/11 15:05 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 295 | 09/11 11:18 | 09/12 11:15 | ⚠ 241分（05:01→09:02） |
+| FirstSquawk | 295 | 09/11 11:39 | 09/12 11:26 | ⚠ 241分（05:01→09:02） |
 | financialjuice | 178 | 09/11 15:34 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 11:18 [FirstSquawk] Seoul says the economy remains on a solid recovery path, supported by exports.
-- 09/11 11:22 [FirstSquawk] Japan gets its first look at Tesla’s driverless Cybercab.
-- 09/11 11:24 [FirstSquawk] Indonesia stocks slide, with the benchmark index sinking to 6,462.96, lowest since Aug. 27.
-- 09/11 11:32 [FirstSquawk] Economic strain leaves Iranians struggling to secure fuel supplies.
 - 09/11 11:39 [FirstSquawk] China’s benchmark Shanghai Composite drops 2%.
 - 09/11 11:39 [FirstSquawk] Saudi Red Sea oil exports come under threat as Houthis advance along Yemen’s coastline.
 - 09/11 11:40 [FirstSquawk] Benchmark coking coal contract in China retreats more than 3%.
@@ -540,3 +536,7 @@
 - 09/12 11:11 [FirstSquawk] S&P: Saudi Arabia’s Energy Infrastructure Helps Cushion Middle East Conflict Impact S&P says Saudi Arabia’s diversified energy export network, combined with elevated oil prices, is helping the kingdom withstand economic pressures stemming f…
 - 09/12 11:13 [FirstSquawk] US TAX BRACKETS SET TO RISE 3.2% IN 2027 — AMERICANS CAN EARN MORE BEFORE HIGHER TAX RATES KICK IN
 - 09/12 11:15 [FirstSquawk] Ralph Lauren approves a quarterly dividend payment of $1 a share.
+- 09/12 11:21 [FirstSquawk] Measles cases in Pennsylvania reach 676 across 37 counties in 2026.
+- 09/12 11:22 [FirstSquawk] €500K COCAINE HIDDEN INSIDE LOLLIPOPS SEIZED AT DUBLIN AIRPORT About 5kg of cocaine was discovered concealed in bags of lollipops in a passenger’s luggage after a flight from Brazil. A man in his 60s was arrested and charged.
+- 09/12 11:26 [FirstSquawk] US REAL YIELDS SURGE TO 18-YEAR HIGH — 10-YEAR REAL YIELD HITS ~2.5%, HIGHEST SINCE 2008 MARKET WARNING: REAL YIELDS SPIKE TO LEVELS NOT SEEN SINCE GLOBAL FINANCIAL CRISIS
+- 09/12 11:26 [FirstSquawk] AI DEBT BOMBSHELL: HYPERSCALERS FLOOD CREDIT MARKETS WITH $219 BILLION OF DEBT — BOND SUPPLY NOW DISTORTING SPREADS BIG AI CREDIT WARNING: HYPERSCALER DEBT ISSUANCE MORE THAN DOUBLES — $400 BILLION COULD HIT MARKETS NEXT YEAR

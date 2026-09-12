@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 11:17 JST／対象: 09/11 23:17 〜 09/12 11:17 JST（時刻はすべて日本時間）
+生成: 2026-09-12 11:33 JST／対象: 09/11 23:33 〜 09/12 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
-| FirstSquawk | 122 | 09/11 23:23 | 09/12 11:15 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 89 | 09/11 23:18 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
+| FirstSquawk | 125 | 09/11 23:41 | 09/12 11:26 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 84 | 09/11 23:41 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 212 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 210 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 23:18 [financialjuice] Fear and Greed Index: 36/100 = Fear
-- 09/11 23:18 [financialjuice] ECB's Lagarde: We are going to proceed meeting by meeting, using data to inform our coming decisions.
-- 09/11 23:19 [financialjuice] Crypto Fear and Greed Index: 56/100 = Greed
-- 09/11 23:19 [financialjuice] ❗ TD changes Fed call to cuts from September vs hold previously [Corrected by the wires at 10:13 ET]
-- 09/11 23:20 [financialjuice] TD changes Fed call to hike from September vs hold previously
-- 09/11 23:23 [FirstSquawk] US PRESIDENT TRUMP: IRAN WILL NEVER POSSESS A NUCLEAR WEAPON
 - 09/11 23:41 [financialjuice] Kremlin: Russia is open to talks, seeks three-way meeting - IFX.
 - 09/11 23:41 [FirstSquawk] KREMLIN: RUSSIA OPEN TO TALKS, SEEKS THREE-WAY MEETING: IFX
 - 09/11 23:55 [FirstSquawk] INDIA PM MODI MET WITH PEZESHKIAN AND EMPHASIZED THE IMPORTANCE OF PERSISTENT EFFORTS FOR LASTING PEACE AND STABILITY IN THE REGION, SAID INDIA'S FOREIGN MINISTRY.
@@ -236,3 +230,7 @@
 - 09/12 11:11 [FirstSquawk] S&P: Saudi Arabia’s Energy Infrastructure Helps Cushion Middle East Conflict Impact S&P says Saudi Arabia’s diversified energy export network, combined with elevated oil prices, is helping the kingdom withstand economic pressures stemming f…
 - 09/12 11:13 [FirstSquawk] US TAX BRACKETS SET TO RISE 3.2% IN 2027 — AMERICANS CAN EARN MORE BEFORE HIGHER TAX RATES KICK IN
 - 09/12 11:15 [FirstSquawk] Ralph Lauren approves a quarterly dividend payment of $1 a share.
+- 09/12 11:21 [FirstSquawk] Measles cases in Pennsylvania reach 676 across 37 counties in 2026.
+- 09/12 11:22 [FirstSquawk] €500K COCAINE HIDDEN INSIDE LOLLIPOPS SEIZED AT DUBLIN AIRPORT About 5kg of cocaine was discovered concealed in bags of lollipops in a passenger’s luggage after a flight from Brazil. A man in his 60s was arrested and charged.
+- 09/12 11:26 [FirstSquawk] US REAL YIELDS SURGE TO 18-YEAR HIGH — 10-YEAR REAL YIELD HITS ~2.5%, HIGHEST SINCE 2008 MARKET WARNING: REAL YIELDS SPIKE TO LEVELS NOT SEEN SINCE GLOBAL FINANCIAL CRISIS
+- 09/12 11:26 [FirstSquawk] AI DEBT BOMBSHELL: HYPERSCALERS FLOOD CREDIT MARKETS WITH $219 BILLION OF DEBT — BOND SUPPLY NOW DISTORTING SPREADS BIG AI CREDIT WARNING: HYPERSCALER DEBT ISSUANCE MORE THAN DOUBLES — $400 BILLION COULD HIT MARKETS NEXT YEAR
