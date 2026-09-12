@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 08:59 JST／対象: 09/11 20:59 〜 09/12 08:59 JST（時刻はすべて日本時間）
+生成: 2026-09-12 09:24 JST／対象: 09/11 21:24 〜 09/12 09:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/11 21:30 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 76 | 09/11 21:30 | 09/12 05:01 | 35分（23:55→00:31） |
-| financialjuice | 136 | 09/11 21:00 | 09/12 08:47 | ⚠ 58分（06:50→07:48） |
+| FirstSquawk | 89 | 09/11 21:30 | 09/12 09:23 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 135 | 09/11 21:30 | 09/12 09:00 | ⚠ 58分（06:50→07:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 233 行（統合前 236 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 245 行（統合前 248 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 21:00 [financialjuice] Secured overnight financing rate: 3.62% September 10th vs 3.64% September 9th.
-- 09/11 21:18 [financialjuice] Salesforce expands Agentforce with a new portfolio of AI agents $CRM
 - 09/11 21:30 [financialjuice] ‼ BREAKING: US CPI MOM ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.1%) $MACRO
 - 09/11 21:30 [financialjuice] ❗ US CORE CPI MOM ACTUAL 0.3% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
 - 09/11 21:30 [FirstSquawk] US CPI (MOM) (AUG) ACTUAL: 0.4% VS 0.1% PREVIOUS; EST. 0.4%
@@ -257,3 +255,17 @@
 - 09/12 08:38 [financialjuice] South Korea's presidential office: North Korea's ballistic missile launch breaches U.N. Security Council resolutions, holds emergency security review meeting - Yonhap
 - 09/12 08:44 [financialjuice] Trump: if China wanted to establish a plant to manufacture cars here, I'd be fine with that
 - 09/12 08:47 [financialjuice] South Korea's national security council holds urgent security review after North Korea's short-range missile launch: presidential office
+- 09/12 09:00 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo senior notes due 2029 and 2031
+- 09/12 09:02 [FirstSquawk] SKYWORKS: CO EXTENDS DEADLINE FOR GORVO SENIOR NOTES EXCHANGE OFFERS Skyworks Solutions said it has extended the expiration date for its exchange offers involving GORVO senior notes due in 2029 and 2031. The extension gives eligible holders…
+- 09/12 09:04 [FirstSquawk] South Korea’s JCS reports North Korean short-range ballistic missiles covered approximately 250 km.
+- 09/12 09:05 [FirstSquawk] South Korea convenes an emergency security meeting following North Korea’s short-range missile launch, presidential office says.
+- 09/12 09:06 [FirstSquawk] Negotiations between Canada’s auto workers and Stellantis have reached an impasse over the future of the company’s Ontario manufacturing facility, the union says.
+- 09/12 09:07 [FirstSquawk] Japan’s autumn foliage season is expected to begin later than usual in some areas as warmer weather persists, with peak colors forecast for Hokkaido in early November and Tokyo several weeks later.
+- 09/12 09:08 [FirstSquawk] Flooding deals a setback to Nepal’s efforts to expand trade with China, reinforcing its dependence on India as costly infrastructure upgrades are needed to reopen and strengthen a key border crossing with Tibet.
+- 09/12 09:09 [FirstSquawk] Baghdad announces the shutdown of the Shalamcheh frontier point connecting Iraq and Iran, Reuters reports.
+- 09/12 09:11 [FirstSquawk] Congo’s Ebola outbreak has surpassed 7,000 reported infections as transmission expands into another province.
+- 09/12 09:19 [FirstSquawk] Oracle chairman Larry Ellison intends to offload as much as $7.5 billion of his holdings in the company.
+- 09/12 09:20 [FirstSquawk] With diesel prices topping $6, rising fuel costs are raising concerns over broader economic pressure beyond the pump - WSJ
+- 09/12 09:21 [FirstSquawk] US official says the three-way arrangement involving Israel and Lebanon remains the sole viable mechanism.
+- 09/12 09:22 [FirstSquawk] US official says Israeli and Lebanese envoys are set to hold talks at the State Department in Washington next week.
+- 09/12 09:23 [FirstSquawk] Saudi Civil Defense announces that the security alert in Khamis Mushait has been lifted, with the immediate threat now considered cleared.

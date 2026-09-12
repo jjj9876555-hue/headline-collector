@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 08:59 JST／対象: 09/11 08:59 〜 09/12 08:59 JST（時刻はすべて日本時間）
+生成: 2026-09-12 09:24 JST／対象: 09/11 09:24 〜 09/12 09:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/11 15:05 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 265 | 09/11 09:00 | 09/12 05:01 | ⚠ 55分（20:35→21:30） |
-| financialjuice | 189 | 09/11 09:00 | 09/12 08:47 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 268 | 09/11 09:35 | 09/12 09:23 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 186 | 09/11 09:28 | 09/12 09:00 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 497 行（統合前 503 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,20 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 09:00 [FirstSquawk] Trump says Iran’s inflation rate has reached 300%, speaking to Fox News.
-- 09/11 09:00 [financialjuice] S. Korea semiconductor exports surge 270.1% year on year from Sept. 1-10: customs agency
-- 09/11 09:00 [financialjuice] S.Korea sept 1-10 trade surplus provisional $10.4 billion: customs agency
-- 09/11 09:00 [financialjuice] S. Korea Sept 1-10 imports rise 20.7% y/y: customs agency
-- 09/11 09:00 [financialjuice] S.Korea sept 1-10 exports climb 82.6% y/y: customs agency
-- 09/11 09:01 [FirstSquawk] Nikkei share average down 1.52% at 64,276.82.
-- 09/11 09:02 [FirstSquawk] KOSPI slides 3% in South Korea.
-- 09/11 09:02 [FirstSquawk] McDonald’s, Burger King and peers shift focus back toward personal service as digital ordering and kiosks reshape fast food as per WSJ
-- 09/11 09:06 [FirstSquawk] The bond market is moving fast. The 10-year Japanese Government Bond (JGB) yield just jumped 5.5 basis points to hit 2.965%.
-- 09/11 09:08 [FirstSquawk] Australia’s benchmark ASX 200 trades roughly 1% lower at 8,728.20.
-- 09/11 09:14 [FirstSquawk] Anthropic reports blocking potential AI-assisted bioweapons research by scientists.
-- 09/11 09:18 [FirstSquawk] Asia-Pacific shares slipped in early trade as soaring crude prices and climbing yields fueled caution over worsening geopolitical risks in the Middle East
-- 09/11 09:21 [FirstSquawk] 30-year JGB yield advances to 4.055%, up 5 basis points.
-- 09/11 09:24 [FirstSquawk] China CSSC Holdings says it is taking action to address a cargo vessel fire at its shipyard.
 - 09/11 09:28 [financialjuice] China PBOC forecast to set yuan midpoint at 6.7174 per dollar: estimate
 - 09/11 09:35 [FirstSquawk] Two-year JGB yield climbs 1 bp to 1.830%.
 - 09/11 09:41 [FirstSquawk] America’s Fast-Food Industry Pivots Back to Human Labor
@@ -521,3 +507,17 @@
 - 09/12 08:38 [financialjuice] South Korea's presidential office: North Korea's ballistic missile launch breaches U.N. Security Council resolutions, holds emergency security review meeting - Yonhap
 - 09/12 08:44 [financialjuice] Trump: if China wanted to establish a plant to manufacture cars here, I'd be fine with that
 - 09/12 08:47 [financialjuice] South Korea's national security council holds urgent security review after North Korea's short-range missile launch: presidential office
+- 09/12 09:00 [financialjuice] Skyworks extends expiration date of exchange offers for Gorvo senior notes due 2029 and 2031
+- 09/12 09:02 [FirstSquawk] SKYWORKS: CO EXTENDS DEADLINE FOR GORVO SENIOR NOTES EXCHANGE OFFERS Skyworks Solutions said it has extended the expiration date for its exchange offers involving GORVO senior notes due in 2029 and 2031. The extension gives eligible holders…
+- 09/12 09:04 [FirstSquawk] South Korea’s JCS reports North Korean short-range ballistic missiles covered approximately 250 km.
+- 09/12 09:05 [FirstSquawk] South Korea convenes an emergency security meeting following North Korea’s short-range missile launch, presidential office says.
+- 09/12 09:06 [FirstSquawk] Negotiations between Canada’s auto workers and Stellantis have reached an impasse over the future of the company’s Ontario manufacturing facility, the union says.
+- 09/12 09:07 [FirstSquawk] Japan’s autumn foliage season is expected to begin later than usual in some areas as warmer weather persists, with peak colors forecast for Hokkaido in early November and Tokyo several weeks later.
+- 09/12 09:08 [FirstSquawk] Flooding deals a setback to Nepal’s efforts to expand trade with China, reinforcing its dependence on India as costly infrastructure upgrades are needed to reopen and strengthen a key border crossing with Tibet.
+- 09/12 09:09 [FirstSquawk] Baghdad announces the shutdown of the Shalamcheh frontier point connecting Iraq and Iran, Reuters reports.
+- 09/12 09:11 [FirstSquawk] Congo’s Ebola outbreak has surpassed 7,000 reported infections as transmission expands into another province.
+- 09/12 09:19 [FirstSquawk] Oracle chairman Larry Ellison intends to offload as much as $7.5 billion of his holdings in the company.
+- 09/12 09:20 [FirstSquawk] With diesel prices topping $6, rising fuel costs are raising concerns over broader economic pressure beyond the pump - WSJ
+- 09/12 09:21 [FirstSquawk] US official says the three-way arrangement involving Israel and Lebanon remains the sole viable mechanism.
+- 09/12 09:22 [FirstSquawk] US official says Israeli and Lebanese envoys are set to hold talks at the State Department in Washington next week.
+- 09/12 09:23 [FirstSquawk] Saudi Civil Defense announces that the security alert in Khamis Mushait has been lifted, with the immediate threat now considered cleared.
