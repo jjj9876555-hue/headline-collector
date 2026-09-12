@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 23:24 JST／対象: 09/12 17:24 〜 09/12 23:24 JST（時刻はすべて日本時間）
+生成: 2026-09-12 23:42 JST／対象: 09/12 17:42 〜 09/12 23:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/12 18:07 | 09/12 23:04 | ⚠ 78分（19:04→20:23） |
 | FirstSquawk | 98 | 09/12 17:55 | 09/12 23:21 | 45分（21:53→22:38） |
-| financialjuice | 40 | 09/12 17:36 | 09/12 23:09 | ⚠ 57分（18:57→19:55） |
+| financialjuice | 39 | 09/12 18:00 | 09/12 23:09 | ⚠ 57分（18:57→19:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 159 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 158 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 17:36 [financialjuice] Ukraine strikes Russia's top synthetic rubber maker in Togliatti in Samara region: Ukrainian military
 - 09/12 17:55 [FirstSquawk] Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace
 - 09/12 17:55 [FirstSquawk] Trump: If China wanted to come in and open a plant to build their cars here, I would be okay with it. Japan does it. But they hire our people. The big thing is they hire our people. In fact, they use our people.
 - 09/12 17:55 [FirstSquawk] Drones struck Taganrog's military airbase and key chemical plants in Tolyatti, including KuibyshevAzot and Tolyattikauchuk. Fires erupted across multiple Russian defense-industrial facilities.

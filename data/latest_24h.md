@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 23:24 JST／対象: 09/11 23:24 〜 09/12 23:24 JST（時刻はすべて日本時間）
+生成: 2026-09-12 23:42 JST／対象: 09/11 23:42 〜 09/12 23:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/12 04:10 | 09/12 23:04 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 255 | 09/11 23:41 | 09/12 23:21 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 137 | 09/11 23:41 | 09/12 23:09 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 254 | 09/11 23:55 | 09/12 23:21 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 136 | 09/12 00:01 | 09/12 23:09 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 415 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 413 行（統合前 417 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 23:41 [financialjuice] Kremlin: Russia is open to talks, seeks three-way meeting - IFX.
-- 09/11 23:41 [FirstSquawk] KREMLIN: RUSSIA OPEN TO TALKS, SEEKS THREE-WAY MEETING: IFX
 - 09/11 23:55 [FirstSquawk] INDIA PM MODI MET WITH PEZESHKIAN AND EMPHASIZED THE IMPORTANCE OF PERSISTENT EFFORTS FOR LASTING PEACE AND STABILITY IN THE REGION, SAID INDIA'S FOREIGN MINISTRY.
 - 09/11 23:55 [FirstSquawk] INDIA'S PM MODI MET WITH IRAN'S PEZESHKIAN, EMPHASIZING THE IMPORTANCE OF SAFEGUARDING NAVIGATION AND TRADE, AS WELL AS THE SAFETY AND WELL-BEING OF SAILORS.
 - 09/12 00:01 [financialjuice] QatarEnergy Seeks Multi-Year LNG Supply Deals as Ras Laffan Repairs Seen Taking 3-5 Years
