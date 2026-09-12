@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 09:46 JST／対象: 09/11 21:46 〜 09/12 09:46 JST（時刻はすべて日本時間）
+生成: 2026-09-12 09:59 JST／対象: 09/11 21:59 〜 09/12 09:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/11 21:51 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 88 | 09/11 21:59 | 09/12 09:44 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 124 | 09/11 21:50 | 09/12 09:00 | ⚠ 58分（06:50→07:48） |
+| DeItaone | 11 | 09/11 22:25 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
+| FirstSquawk | 98 | 09/11 22:02 | 09/12 09:59 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 119 | 09/11 22:00 | 09/12 09:00 | ⚠ 58分（06:50→07:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 225 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 228 行（統合前 230 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 21:50 [financialjuice] Iran President Pezeshkian: Iran proposes BRICS establish $10 billion insurance fund for major infrastructure and energy projects.
-- 09/11 21:51 [DeItaone] US DATA: RECORD CELL PHONE PRICE JUMP BOOSTS CORE CPI August inflation data carried a hawkish signal as wireless phone service prices surged 5.9% — the largest increase on record. The jump alone added around 0.08 percentage points to core C…
-- 09/11 21:51 [financialjuice] Yemeni army takes control of local council building in Dhubab, near Bab-el-Mandeb - Tasnim News
-- 09/11 21:52 [DeItaone] NASDAQ FUTURES EXTEND GAINS, LAST UP ABOUT 1%
-- 09/11 21:55 [financialjuice] Trump and the First Lady Participate in the 9/11 Observance Ceremony
-- 09/11 21:55 [financialjuice] Yemeni armed forces have taken control of the local council building in the strategically important town of "Dhubab," which has direct oversight of the vital Bab-el-Mandeb waterway - Tasnim News
-- 09/11 21:58 [financialjuice] Iran's President Pezeshkian urges wider use of local currencies in BRICS trade.
-- 09/11 21:59 [FirstSquawk] IRAN SUGGESTS A $10 BILLION JOINT REINSURANCE FIRM AT THE BRICS SUMMIT.
-- 09/11 21:59 [FirstSquawk] IRAN URGES BRICS BANK TO INCREASE FUNDING FOR INFRASTRUCTURE PROJECTS.
-- 09/11 21:59 [FirstSquawk] S&P 500 FUTURES INCREASE BY 1%.
 - 09/11 22:00 [financialjuice] Effective Fed funds rate: 3.63% September 10th vs 3.63% September 9th.
 - 09/11 22:02 [financialjuice] Yemen's Houthis: Maritime navigation is safe for all shipping companies except Saudi vessels subject to a previously announced ban.
 - 09/11 22:02 [FirstSquawk] HOUTHIS IN YEMEN CLAIM ALL SHIPPING COMPANIES CAN NAVIGATE SAFELY EXCEPT SAUDI SHIPS DUE TO AN EXISTING BAN.
@@ -249,3 +239,16 @@
 - 09/12 09:40 [FirstSquawk] Seoul’s NSC holds an urgent security review after North Korea launches short-range ballistic missiles.
 - 09/12 09:41 [FirstSquawk] Trump: I’m open to Chinese automakers building vehicles at U.S. plants.
 - 09/12 09:44 [FirstSquawk] Petrobras collects two payments totaling 2.54 billion reais linked to Brazil’s diesel subsidy initiative.
+- 09/12 09:47 [FirstSquawk] Seoul says North Korea’s missile firing defies U.N. Security Council resolutions, triggering an urgent security meeting.
+- 09/12 09:48 [FirstSquawk] Baghdad suspends traffic at the Shalamcheh border post with Iran as a precaution after recent attacks targeting Saudi Arabia.
+- 09/12 09:49 [FirstSquawk] The upcoming Israel-Lebanon talks have been moved to a later date, Axios reports.
+- 09/12 09:50 [FirstSquawk] Khamis Mushait is no longer under threat, Saudi Civil Defense says.
+- 09/12 09:50 [FirstSquawk] Taif is now clear of the threat, Saudi Civil Defense says.
+- 09/12 09:52 [FirstSquawk] Discovery Loop targets a $50 billion valuation as investor interest in AI startups grows.
+- 09/12 09:53 [FirstSquawk] Luckin Coffee secures a $1 billion investment from Abu Dhabi’s wealth fund.
+- 09/12 09:53 [FirstSquawk] Zaporizhzhia is struck by two Russian ballistic missiles.
+- 09/12 09:55 [FirstSquawk] OpenAI said its agents used the RubyGems platform to browse the web for benign purposes and gather publicly available information, according to WSJ. What could this mean for the future of AI agents?
+- 09/12 09:55 [FirstSquawk] OpenAI’s AI agents reportedly launched a cyberattack on RubyGems during testing, according to WSJ, roughly two months before similar agents were involved in an attack on Hugging Face. How far can autonomous AI go before testing becomes a re…
+- 09/12 09:57 [FirstSquawk] Baghdad fires military commander after investigation finds Saudi drone attacks were launched from Iraq.
+- 09/12 09:59 [FirstSquawk] Brazil to hold a spot-dollar auction on September 15, central bank says.
+- 09/12 09:59 [FirstSquawk] Brazil to sell as much as $1 billion in spot dollars on September 15.

@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 09:46 JST／対象: 09/11 09:46 〜 09/12 09:46 JST（時刻はすべて日本時間）
+生成: 2026-09-12 09:59 JST／対象: 09/11 09:59 〜 09/12 09:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/11 15:05 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 269 | 09/11 09:47 | 09/12 09:44 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 184 | 09/11 09:47 | 09/12 09:00 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 278 | 09/11 10:00 | 09/12 09:59 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 183 | 09/11 10:00 | 09/12 09:00 | ⚠ 287分（10:47→15:34） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 496 行（統合前 502 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 504 行（統合前 510 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 09:47 [financialjuice] Kalshi planning to seek regulatory approval to offer regulated perpetual futures
-- 09/11 09:47 [FirstSquawk] Kalshi eyes regulatory approval to launch perpetual futures linked to stocks including Tesla, Apple and Nvidia, WSJ reports.
-- 09/11 09:48 [FirstSquawk] 10-year Treasury yield climbs 2.6 bps to 4.9708%, reaching its highest since October 2023.
-- 09/11 09:52 [FirstSquawk] 30-year Treasury yield climbs 1.7 bps to 5.378%, reaching its highest since 2007.
-- 09/11 09:57 [FirstSquawk] EUR/USD flatlines above 1.1600 as traders turn their attention to upcoming U.S. CPI figures following the ECB’s hawkish hike.
 - 09/11 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% versus previous session open at 0.805%
 - 09/11 10:00 [FirstSquawk] Taiwan overnight rate remains steady at 0.805% at the start of trading.
 - 09/11 10:08 [FirstSquawk] Midland expects Hong Kong residential property prices to climb 15% this year.
@@ -520,3 +515,16 @@
 - 09/12 09:40 [FirstSquawk] Seoul’s NSC holds an urgent security review after North Korea launches short-range ballistic missiles.
 - 09/12 09:41 [FirstSquawk] Trump: I’m open to Chinese automakers building vehicles at U.S. plants.
 - 09/12 09:44 [FirstSquawk] Petrobras collects two payments totaling 2.54 billion reais linked to Brazil’s diesel subsidy initiative.
+- 09/12 09:47 [FirstSquawk] Seoul says North Korea’s missile firing defies U.N. Security Council resolutions, triggering an urgent security meeting.
+- 09/12 09:48 [FirstSquawk] Baghdad suspends traffic at the Shalamcheh border post with Iran as a precaution after recent attacks targeting Saudi Arabia.
+- 09/12 09:49 [FirstSquawk] The upcoming Israel-Lebanon talks have been moved to a later date, Axios reports.
+- 09/12 09:50 [FirstSquawk] Khamis Mushait is no longer under threat, Saudi Civil Defense says.
+- 09/12 09:50 [FirstSquawk] Taif is now clear of the threat, Saudi Civil Defense says.
+- 09/12 09:52 [FirstSquawk] Discovery Loop targets a $50 billion valuation as investor interest in AI startups grows.
+- 09/12 09:53 [FirstSquawk] Luckin Coffee secures a $1 billion investment from Abu Dhabi’s wealth fund.
+- 09/12 09:53 [FirstSquawk] Zaporizhzhia is struck by two Russian ballistic missiles.
+- 09/12 09:55 [FirstSquawk] OpenAI said its agents used the RubyGems platform to browse the web for benign purposes and gather publicly available information, according to WSJ. What could this mean for the future of AI agents?
+- 09/12 09:55 [FirstSquawk] OpenAI’s AI agents reportedly launched a cyberattack on RubyGems during testing, according to WSJ, roughly two months before similar agents were involved in an attack on Hugging Face. How far can autonomous AI go before testing becomes a re…
+- 09/12 09:57 [FirstSquawk] Baghdad fires military commander after investigation finds Saudi drone attacks were launched from Iraq.
+- 09/12 09:59 [FirstSquawk] Brazil to hold a spot-dollar auction on September 15, central bank says.
+- 09/12 09:59 [FirstSquawk] Brazil to sell as much as $1 billion in spot dollars on September 15.
