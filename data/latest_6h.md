@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 01:59 JST／対象: 09/12 19:59 〜 09/13 01:59 JST（時刻はすべて日本時間）
+生成: 2026-09-13 02:15 JST／対象: 09/12 20:15 〜 09/13 02:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/12 20:23 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
-| FirstSquawk | 75 | 09/12 20:05 | 09/13 01:31 | 45分（21:53→22:38） |
-| financialjuice | 32 | 09/12 20:03 | 09/13 01:36 | ⚠ 73分（00:19→01:32） |
+| FirstSquawk | 81 | 09/12 20:22 | 09/13 02:14 | 45分（21:53→22:38） |
+| financialjuice | 33 | 09/12 20:35 | 09/13 02:00 | ⚠ 73分（00:19→01:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 116 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 123 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 20:03 [financialjuice] UK government on Trump’s Irish unification remarks: PM Burnham’s stance on Good Friday Agreement remains unchanged
-- 09/12 20:04 [financialjuice] UK government on Trump’s Irish unification remarks: PM’s position remains no majority public backing for another referendum, and until that shifts, none will occur
-- 09/12 20:05 [FirstSquawk] IRAN PRESIDENT, UAE CROWN PRINCE HOLD TALKS AT BRICS - IRNA
-- 09/12 20:14 [FirstSquawk] Trump Signals Possible US-Canada Trade Deal Soon President Donald Trump said the United States and Canada could reach a trade agreement “fairly soon,” signaling optimism after months of escalating tensions between the two countries. Trump s…
-- 09/12 20:15 [FirstSquawk] Trump’s Ireland Visit Highlights Delicate US-Ireland Ties US President Donald Trump arrived in Ireland for a two-day visit, receiving a warm welcome from Irish leaders despite political tensions and public criticism surrounding his presiden…
 - 09/12 20:22 [FirstSquawk] TRUMP SAYS HIS MEETING WITH XI WILL BE EXCELLENT.
 - 09/12 20:22 [FirstSquawk] TRUMP PRAISES THE JOB MARKET, ATTRIBUTES FACTORY GROWTH TO TARIFFS.
 - 09/12 20:22 [FirstSquawk] TRUMP SLAMS EUROPE FOR 'UNACCEPTABLE' BUSINESS RULES.
@@ -140,3 +135,15 @@
 - 09/13 01:35 [financialjuice] Iranian source to Tasnim: GCC countries to be updated on outcome of Iran-Oman talks, decisions at Oman meeting
 - 09/13 01:36 [financialjuice] Iranian source to Tasnim: Reopening of Strait of Hormuz hinges entirely on U.S. meeting Iran’s conditions
 - 09/13 01:48 [DeItaone] $ORCL - LARRY ELLISON CANCELS ORACLE STOCK SALE PLAN Oracle says founder Larry Ellison has canceled his 10b5-1 plan to sell Oracle shares, according to Reuters. No Oracle stock was sold under the canceled plan, and the company says Ellison …
+- 09/13 02:00 [financialjuice] Economy minister: about $40 billion of Ukraine's export revenue threatened by blockade
+- 09/13 02:00 [financialjuice] Destruction of Ukraine's infrastructure, fixed assets from Russian airstrikes estimated at $10 billion this year: economy minister
+- 09/13 02:00 [financialjuice] Economic costs from Ukraine's seaports blockade and destruction about 1.5 percentage points of GDP this year: minister
+- 09/13 02:02 [FirstSquawk] Iranian source: Strait of Hormuz will remain closed despite the Iran-Oman agreement - according to Tasnim News
+- 09/13 02:02 [FirstSquawk] Iranian source: Iran and Oman finalize details of new routes for entry and exit from Strait of Hormuz - according to Tasnim
+- 09/13 02:03 [FirstSquawk] Iranian source: entry path into Persian Gulf lies fully within Iranian territorial waters, while part of exit route from Persian Gulf also lies within Iranian territory - according to Tasnim
+- 09/13 02:03 [FirstSquawk] Iranian source: southern route will close despite U.S. pressure to reopen - according to Tasnim
+- 09/13 02:04 [FirstSquawk] Iranian source: Iraq to participate in meeting in Oman on Monday - according to Tasnim
+- 09/13 02:04 [FirstSquawk] Iranian source: GCC countries to be updated on outcome of Iran-Oman talks, decisions at Oman meeting - according to Tasnim
+- 09/13 02:05 [FirstSquawk] Iranian source: Reopening of Strait of Hormuz hinges entirely on U.S. meeting Iran’s conditions - according to Tasnim
+- 09/13 02:14 [FirstSquawk] AFP, citing the Kremlin: A meeting between Putin and Zelensky at the G20 summit is "impossible".
+- 09/13 02:14 [FirstSquawk] Lebanese News Agency: Israeli airstrike on the vicinity of Tell al-Dabsha, on the outskirts of Nabatieh al-Fawqa

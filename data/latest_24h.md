@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 01:59 JST／対象: 09/12 01:59 〜 09/13 01:59 JST（時刻はすべて日本時間）
+生成: 2026-09-13 02:15 JST／対象: 09/12 02:15 〜 09/13 02:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/12 04:10 | 09/13 01:48 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 262 | 09/12 02:03 | 09/13 01:31 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 126 | 09/12 02:01 | 09/13 01:36 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 270 | 09/12 02:16 | 09/13 02:14 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 127 | 09/12 02:21 | 09/13 02:00 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 413 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 422 行（統合前 427 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 591 (FORECAST -, PREVIOUS 588) $MACRO
-- 09/12 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 450 (FORECAST -, PREVIOUS 449) $MACRO
-- 09/12 02:03 [FirstSquawk] US OIL RIG COUNT UP 1 TO 450 || US GAS RIG COUNT UP 2 TO 132 || US TOTAL RIG COUNT 591 , BAKER HUGHES SAYS
 - 09/12 02:16 [FirstSquawk] 3 COUNTERPARTIES TAKE $5.255 BLN AT FED REVERSE REPO OP. (PREV $4.736 BLN, 4 BIDS)
 - 09/12 02:20 [FirstSquawk] RUSSIA OFFICIAL WILL ATTEND G20 ENERGY MEETING IN HOUSTON NEXT WEEK, WHITE HOUSE OFFICIAL SAYS
 - 09/12 02:21 [financialjuice] A Russian Official will attend the G20 energy meeting in Houston next week - White House Official.
@@ -437,3 +434,15 @@
 - 09/13 01:35 [financialjuice] Iranian source to Tasnim: GCC countries to be updated on outcome of Iran-Oman talks, decisions at Oman meeting
 - 09/13 01:36 [financialjuice] Iranian source to Tasnim: Reopening of Strait of Hormuz hinges entirely on U.S. meeting Iran’s conditions
 - 09/13 01:48 [DeItaone] $ORCL - LARRY ELLISON CANCELS ORACLE STOCK SALE PLAN Oracle says founder Larry Ellison has canceled his 10b5-1 plan to sell Oracle shares, according to Reuters. No Oracle stock was sold under the canceled plan, and the company says Ellison …
+- 09/13 02:00 [financialjuice] Economy minister: about $40 billion of Ukraine's export revenue threatened by blockade
+- 09/13 02:00 [financialjuice] Destruction of Ukraine's infrastructure, fixed assets from Russian airstrikes estimated at $10 billion this year: economy minister
+- 09/13 02:00 [financialjuice] Economic costs from Ukraine's seaports blockade and destruction about 1.5 percentage points of GDP this year: minister
+- 09/13 02:02 [FirstSquawk] Iranian source: Strait of Hormuz will remain closed despite the Iran-Oman agreement - according to Tasnim News
+- 09/13 02:02 [FirstSquawk] Iranian source: Iran and Oman finalize details of new routes for entry and exit from Strait of Hormuz - according to Tasnim
+- 09/13 02:03 [FirstSquawk] Iranian source: entry path into Persian Gulf lies fully within Iranian territorial waters, while part of exit route from Persian Gulf also lies within Iranian territory - according to Tasnim
+- 09/13 02:03 [FirstSquawk] Iranian source: southern route will close despite U.S. pressure to reopen - according to Tasnim
+- 09/13 02:04 [FirstSquawk] Iranian source: Iraq to participate in meeting in Oman on Monday - according to Tasnim
+- 09/13 02:04 [FirstSquawk] Iranian source: GCC countries to be updated on outcome of Iran-Oman talks, decisions at Oman meeting - according to Tasnim
+- 09/13 02:05 [FirstSquawk] Iranian source: Reopening of Strait of Hormuz hinges entirely on U.S. meeting Iran’s conditions - according to Tasnim
+- 09/13 02:14 [FirstSquawk] AFP, citing the Kremlin: A meeting between Putin and Zelensky at the G20 summit is "impossible".
+- 09/13 02:14 [FirstSquawk] Lebanese News Agency: Israeli airstrike on the vicinity of Tell al-Dabsha, on the outskirts of Nabatieh al-Fawqa
