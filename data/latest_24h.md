@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 01:44 JST／対象: 09/12 01:44 〜 09/13 01:44 JST（時刻はすべて日本時間）
+生成: 2026-09-13 01:59 JST／対象: 09/12 01:59 〜 09/13 01:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 09/12 04:10 | 09/13 01:35 | ⚠ 751分（04:10→16:41） |
+| DeItaone | 28 | 09/12 04:10 | 09/13 01:48 | ⚠ 751分（04:10→16:41） |
 | FirstSquawk | 262 | 09/12 02:03 | 09/13 01:31 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 127 | 09/12 01:48 | 09/13 01:36 | ⚠ 170分（10:12→13:03） |
+| financialjuice | 126 | 09/12 02:01 | 09/13 01:36 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 413 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 01:48 [financialjuice] The US weighs how to use DPA to expand oil refining capacity - Sources.
 - 09/12 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 591 (FORECAST -, PREVIOUS 588) $MACRO
 - 09/12 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 450 (FORECAST -, PREVIOUS 449) $MACRO
 - 09/12 02:03 [FirstSquawk] US OIL RIG COUNT UP 1 TO 450 || US GAS RIG COUNT UP 2 TO 132 || US TOTAL RIG COUNT 591 , BAKER HUGHES SAYS
@@ -437,3 +436,4 @@
 - 09/13 01:35 [financialjuice] Iranian source to Tasnim: Iraq to participate in meeting in Oman on Monday
 - 09/13 01:35 [financialjuice] Iranian source to Tasnim: GCC countries to be updated on outcome of Iran-Oman talks, decisions at Oman meeting
 - 09/13 01:36 [financialjuice] Iranian source to Tasnim: Reopening of Strait of Hormuz hinges entirely on U.S. meeting Iran’s conditions
+- 09/13 01:48 [DeItaone] $ORCL - LARRY ELLISON CANCELS ORACLE STOCK SALE PLAN Oracle says founder Larry Ellison has canceled his 10b5-1 plan to sell Oracle shares, according to Reuters. No Oracle stock was sold under the canceled plan, and the company says Ellison …
