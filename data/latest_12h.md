@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 06:58 JST／対象: 09/12 18:58 〜 09/13 06:58 JST（時刻はすべて日本時間）
+生成: 2026-09-13 07:16 JST／対象: 09/12 19:16 〜 09/13 07:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 09/12 18:58 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
-| FirstSquawk | 111 | 09/12 19:03 | 09/13 03:29 | 45分（21:53→22:38） |
+| DeItaone | 10 | 09/12 20:23 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
+| FirstSquawk | 102 | 09/12 19:43 | 09/13 03:29 | 45分（21:53→22:38） |
 | financialjuice | 49 | 09/12 19:55 | 09/13 05:05 | ⚠ 73分（00:19→01:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 177 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 160 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 18:58 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: HOUTHIS DON'T WANT TO FIGHT WITH US
-- 09/12 18:59 [DeItaone] TRUMP ON SAUDI PIPELINE ATTACK: WE CONTROL HORMUZ STRAIT
-- 09/12 18:59 [DeItaone] TRUMP ON IRISH UNIFICATION: IT WILL HAPPEN EVENTUALLY
-- 09/12 19:00 [DeItaone] TRUMP ON MCA TRADE DEAL: CANADA WANTS TO MAKE A DEAL VERY BADLY
-- 09/12 19:00 [DeItaone] TRUMP ON CANADA: DEAL COULD HAPPEN AT THE RIGHT TIME
-- 09/12 19:01 [DeItaone] TRUMP ON CANADA: PROBABLY SEE DEAL FAIRLY SOON
-- 09/12 19:03 [FirstSquawk] TRUMP SAYS UK WILL INFLUENCE IRISH UNIFICATION.
-- 09/12 19:03 [FirstSquawk] TRUMP SUPPORTS IRISH UNIFICATION, CALLING IT A GREAT ACHIEVEMENT FOR ALL. HE BELIEVES IT WILL HAPPEN EVENTUALLY, BUT THE UK WILL HAVE INPUT.
-- 09/12 19:03 [FirstSquawk] TRUMP SAYS CANADA IS VERY EAGER TO REACH A TRADE AGREEMENT.
-- 09/12 19:03 [FirstSquawk] TRUMP SAYS A DEAL WITH CANADA IS POSSIBLE IF TIMING IS RIGHT.
-- 09/12 19:03 [FirstSquawk] TRUMP URGES CANADA TO IMPROVE TREATMENT OF U.S. FARMERS.
-- 09/12 19:03 [FirstSquawk] TRUMP SAYS A DEAL WITH CANADA IS LIKELY COMING SOON.
-- 09/12 19:04 [DeItaone] CHINA'S XI AT BRICS SUMMIT: BRICS COUNTRIES SHOULD FIRMLY STAND ON RIGHT SIDE OF HISTORY-XINHUA
-- 09/12 19:04 [DeItaone] CHINA'S XI, AT BRICS SUMMIT: WARNS AGAINST WAR IN MIDDLE EAST AND GULF REGION- CHINESE STATE MEDIA
-- 09/12 19:07 [FirstSquawk] XI JINPING OF CHINA ANNOUNCED THAT CHINA WILL COLLABORATE WITH BRICS COUNTRIES TO PROMOTE PEACE AND STABILITY IN THE MIDDLE EAST AND GULF REGION.
-- 09/12 19:07 [FirstSquawk] XI JINPING CALLS FOR BRICS TO TAKE LEAD IN ENSURING PEACE AND STABILITY.
-- 09/12 19:07 [FirstSquawk] XI JINPING URGES BRICS NATIONS TO STAY ON HISTORY'S RIGHT SIDE AT BRICS SUMMIT.
 - 09/12 19:43 [FirstSquawk] UAE strongly condemns targeting pipeline in Saudi Arabia with drones coming from Iraq
 - 09/12 19:47 [FirstSquawk] Iranian President: The BRICS Group must confront unilateral sanctions that target peoples and the development path of countries in a practical way
 - 09/12 19:47 [FirstSquawk] Iranian President: BRICS members must counter attempts to make targeting civilian infrastructure acceptable
