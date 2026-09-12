@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 20:52 JST／対象: 09/12 14:52 〜 09/12 20:52 JST（時刻はすべて日本時間）
+生成: 2026-09-12 21:06 JST／対象: 09/12 15:06 〜 09/12 21:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 20 | 09/12 16:41 | 09/12 20:43 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 62 | 09/12 14:57 | 09/12 20:52 | ⚠ 114分（16:00→17:55） |
+| FirstSquawk | 69 | 09/12 16:00 | 09/12 20:54 | ⚠ 114分（16:00→17:55） |
 | financialjuice | 31 | 09/12 15:10 | 09/12 20:51 | ⚠ 112分（15:43→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 118 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 14:57 [FirstSquawk] South Korea Seeks U.S. Handover of Wartime Command Authority Under ‘No Added Conditions’ Principle South Korea’s defense minister nominee says Seoul aims to regain wartime operational control (OPCON) from the United States based on a “no ad…
-- 09/12 15:00 [FirstSquawk] Latin American Allies Throw Full Support Behind Trump’s Drug War - WSJ Latin American allies are stepping up cooperation with the Trump administration’s campaign against drug trafficking, signaling stronger regional backing for Washington’s…
 - 09/12 15:10 [financialjuice] China's Xi arrives in Delhi for BRICS summit - TV
 - 09/12 15:31 [financialjuice] India's markets regulator proposes six steps to enhance derivatives settlement prices in closing auction session
 - 09/12 15:31 [financialjuice] India's Sebi proposes adjustments to closing auction price band
@@ -135,3 +133,12 @@
 - 09/12 20:51 [FirstSquawk] TRUMP SAYS UK MUST BRING BACK CRIMINAL IMMIGRANTS, JUST LIKE THE US.
 - 09/12 20:52 [FirstSquawk] TRUMP QUESTIONS NATO SUPPORT: “WHY ARE WE HELPING THEM? MORE DETAILS TO COME.”
 - 09/12 20:52 [FirstSquawk] TRUMP CRITICIZES EUROPE'S TRADE, ENERGY, AND IMMIGRATION POLICIES.
+- 09/12 20:53 [FirstSquawk] BRICS SHOWS STRONG CONCERN ABOUT RISING MIDEAST TENSIONS.
+- 09/12 20:53 [FirstSquawk] BRICS MEMBERS URGE FOR UPGRADED RESTRAINT AND TO PREVENT ESCALATING ACTIONS.
+- 09/12 20:53 [FirstSquawk] BRICS RAISES 'SERIOUS CONCERN' ABOUT ATTACKS ON CIVILIAN INFRASTRUCTURE.
+- 09/12 20:53 [FirstSquawk] BRICS EXPRESSES CONCERN ABOUT ATTACKS ON SAFE NUCLEAR PLANTS.
+- 09/12 20:54 [FirstSquawk] BRICS URGES GROWTH IN LOCAL CURRENCY FUNDING.
+- 09/12 20:54 [FirstSquawk] BRICS URGES CHANGES IN GLOBAL ECONOMIC MANAGEMENT.
+- 09/12 20:54 [FirstSquawk] BRICS EXPRESSES CONCERN ABOUT UNILATERAL TARIFFS AND NON-TARIFF MEASURES.
+- 09/12 20:54 [FirstSquawk] BRICS STRONGLY OPPOSES UNILATERAL AND SECONDARY SANCTIONS.
+- 09/12 20:54 [FirstSquawk] REFORM UK RECEIVES ANOTHER £36M DONATION WITHIN TWO DAYS, REPORTS TELEGRAPH.

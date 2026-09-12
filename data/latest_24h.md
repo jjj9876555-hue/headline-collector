@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 20:52 JST／対象: 09/11 20:52 〜 09/12 20:52 JST（時刻はすべて日本時間）
+生成: 2026-09-12 21:06 JST／対象: 09/11 21:06 〜 09/12 21:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 09/11 20:53 | 09/12 20:43 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 244 | 09/11 21:30 | 09/12 20:52 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 172 | 09/11 21:00 | 09/12 20:51 | ⚠ 170分（10:12→13:03） |
+| DeItaone | 42 | 09/11 21:30 | 09/12 20:43 | ⚠ 751分（04:10→16:41） |
+| FirstSquawk | 253 | 09/11 21:30 | 09/12 20:54 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 171 | 09/11 21:18 | 09/12 20:51 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 457 行（統合前 462 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 463 行（統合前 468 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 20:53 [DeItaone] OIL SET FOR 8% WEEKLY SURGE AS SUPPLY RISKS MOUNT Oil remains on track for an 8%+ weekly gain as Middle East attacks threaten key supply routes, despite Brent retreating to around $104 and WTI below $100 Friday. Reuters reports Saudi crude …
-- 09/11 20:57 [DeItaone] CPI SET TO DECIDE NEXT WEEK’S FED HIKE Markets currently price a 61% chance of a 25-bp Fed hike on September 16, versus 39% for a hold, according to Kalshi. With consensus expecting 0.2% core and 0.4% headline CPI M/M, Friday’s inflation pr…
-- 09/11 21:00 [financialjuice] Secured overnight financing rate: 3.62% September 10th vs 3.64% September 9th.
 - 09/11 21:18 [financialjuice] Salesforce expands Agentforce with a new portfolio of AI agents $CRM
 - 09/11 21:30 [financialjuice] ‼ BREAKING: US CPI MOM ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.1%) $MACRO
 - 09/11 21:30 [financialjuice] ❗ US CORE CPI MOM ACTUAL 0.3% (FORECAST 0.2%, PREVIOUS 0.2%) $MACRO
@@ -481,3 +478,12 @@
 - 09/12 20:51 [FirstSquawk] TRUMP SAYS UK MUST BRING BACK CRIMINAL IMMIGRANTS, JUST LIKE THE US.
 - 09/12 20:52 [FirstSquawk] TRUMP QUESTIONS NATO SUPPORT: “WHY ARE WE HELPING THEM? MORE DETAILS TO COME.”
 - 09/12 20:52 [FirstSquawk] TRUMP CRITICIZES EUROPE'S TRADE, ENERGY, AND IMMIGRATION POLICIES.
+- 09/12 20:53 [FirstSquawk] BRICS SHOWS STRONG CONCERN ABOUT RISING MIDEAST TENSIONS.
+- 09/12 20:53 [FirstSquawk] BRICS MEMBERS URGE FOR UPGRADED RESTRAINT AND TO PREVENT ESCALATING ACTIONS.
+- 09/12 20:53 [FirstSquawk] BRICS RAISES 'SERIOUS CONCERN' ABOUT ATTACKS ON CIVILIAN INFRASTRUCTURE.
+- 09/12 20:53 [FirstSquawk] BRICS EXPRESSES CONCERN ABOUT ATTACKS ON SAFE NUCLEAR PLANTS.
+- 09/12 20:54 [FirstSquawk] BRICS URGES GROWTH IN LOCAL CURRENCY FUNDING.
+- 09/12 20:54 [FirstSquawk] BRICS URGES CHANGES IN GLOBAL ECONOMIC MANAGEMENT.
+- 09/12 20:54 [FirstSquawk] BRICS EXPRESSES CONCERN ABOUT UNILATERAL TARIFFS AND NON-TARIFF MEASURES.
+- 09/12 20:54 [FirstSquawk] BRICS STRONGLY OPPOSES UNILATERAL AND SECONDARY SANCTIONS.
+- 09/12 20:54 [FirstSquawk] REFORM UK RECEIVES ANOTHER £36M DONATION WITHIN TWO DAYS, REPORTS TELEGRAPH.
