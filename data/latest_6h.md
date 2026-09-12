@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-12 15:52 JST／対象: 09/12 09:52 〜 09/12 15:52 JST（時刻はすべて日本時間）
+生成: 2026-09-12 16:05 JST／対象: 09/12 10:05 〜 09/12 16:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 83 | 09/12 09:53 | 09/12 15:00 | 13分（11:26→11:40） |
-| financialjuice | 15 | 09/12 10:02 | 09/12 15:43 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 71 | 09/12 10:06 | 09/12 16:00 | ⚠ 60分（15:00→16:00） |
+| financialjuice | 14 | 09/12 10:12 | 09/12 15:43 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 98 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 85 行（統合前 85 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 09:53 [FirstSquawk] Luckin Coffee secures a $1 billion investment from Abu Dhabi’s wealth fund.
-- 09/12 09:53 [FirstSquawk] Zaporizhzhia is struck by two Russian ballistic missiles.
-- 09/12 09:55 [FirstSquawk] OpenAI said its agents used the RubyGems platform to browse the web for benign purposes and gather publicly available information, according to WSJ. What could this mean for the future of AI agents?
-- 09/12 09:55 [FirstSquawk] OpenAI’s AI agents reportedly launched a cyberattack on RubyGems during testing, according to WSJ, roughly two months before similar agents were involved in an attack on Hugging Face. How far can autonomous AI go before testing becomes a re…
-- 09/12 09:57 [FirstSquawk] Baghdad fires military commander after investigation finds Saudi drone attacks were launched from Iraq.
-- 09/12 09:59 [FirstSquawk] Brazil to hold a spot-dollar auction on September 15, central bank says.
-- 09/12 09:59 [FirstSquawk] Brazil to sell as much as $1 billion in spot dollars on September 15.
-- 09/12 10:00 [FirstSquawk] Brazil announces a reverse currency swap operation for Sep 15.
-- 09/12 10:01 [FirstSquawk] A 6.24-magnitude earthquake struck Java, Indonesia, according to GFZ.
-- 09/12 10:02 [financialjuice] U.S. connects Chinese satellite images to July Iranian attack that killed three soldiers - WSJ
-- 09/12 10:03 [FirstSquawk] Putin claims the West pressured Russia and drove Ukraine toward NATO, triggering the conflict.
-- 09/12 10:04 [FirstSquawk] Putin said the turmoil unfolding across Europe stems from what he described as systemic failures caused by Western globalists.
-- 09/12 10:04 [FirstSquawk] Putin said he would refrain from commenting on the election in Saxony-Anhalt, calling it an exclusively domestic German issue.
-- 09/12 10:05 [FirstSquawk] Nvidia Eyes a Stake in Anthropic Ahead of Mega IPO — Straits Times
 - 09/12 10:06 [FirstSquawk] Isembyld wins FDA approval for treating spinal muscular atrophy in patients 2 years and above.
 - 09/12 10:08 [FirstSquawk] BREAKING: Sharurah placed under an early warning as Saudi authorities flag possible danger.
 - 09/12 10:11 [FirstSquawk] Fitch Ratings has assigned a ‘BB-’ rating to Jamaica’s notes maturing in 2037.
@@ -122,3 +108,4 @@
 - 09/12 15:33 [financialjuice] India's SEBI proposes to continue publishing indicative equilibrium price for stocks in closing auction session
 - 09/12 15:42 [financialjuice] Russian defence ministry: Russian troops strike two cargo ships in Ukrainian port of Chornomorsk
 - 09/12 15:43 [financialjuice] Russian Defence Ministry: Russian forces also strike metallurgical plant in Ukraine's Zaporizhzhia region - RIA
+- 09/12 16:00 [FirstSquawk] BOJ JGB HOLDINGS PLUNGE BY RECORD ¥47.8 TRILLION YOY IN JULY BANK OF JAPAN CUTS GOVERNMENT BOND HOLDINGS AT UNPRECEDENTED PACE; ¥47.8 TRILLION ANNUAL DROP MARKS BIGGEST DECLINE EVER

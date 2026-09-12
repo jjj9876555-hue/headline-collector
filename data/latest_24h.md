@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 15:52 JST／対象: 09/11 15:52 〜 09/12 15:52 JST（時刻はすべて日本時間）
+生成: 2026-09-12 16:05 JST／対象: 09/11 16:05 〜 09/12 16:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 42 | 09/11 16:08 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 247 | 09/11 16:00 | 09/12 15:00 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 187 | 09/11 16:05 | 09/12 15:43 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 244 | 09/11 16:07 | 09/12 16:00 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 186 | 09/11 17:01 | 09/12 15:43 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 472 行（統合前 478 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 468 行（統合前 474 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 16:00 [FirstSquawk] TURKEY (SEP) EXPECTED INFLATION NEXT 12MTH ACTUAL: 23.70% VS 23.69% PREVIOUS
-- 09/11 16:00 [FirstSquawk] TURKEY (JUL) CURRENT ACCOUNT BALANCE ACTUAL: 0.04B VS -4.19B PREVIOUS;EST 0.70B
-- 09/11 16:00 [FirstSquawk] SWITZERLAND (AUG) SECO CONSUMER CONFIDENCE ACTUAL: -32.8 VS -34.8 PREVIOUS;EST -32.0
-- 09/11 16:01 [FirstSquawk] TURKEY (JUL) RETAIL TRADE WDA YOY ACTUAL: 10.4% VS 11.8% PREVIOUS
-- 09/11 16:05 [financialjuice] China announces additional fuel price rise due to Iran war.
 - 09/11 16:07 [FirstSquawk/DeItaone] CHINA FOREIGN MINISTRY, ON ANTHROPIC ACCUSING CHINA AI LABS OF TARGETING CLAUDE: WE FIRMLY OPPOSE 'DISTORTION OF FACTS' AND SMEAR ATTACKS AGAINST CHINA
 - 09/11 16:09 [FirstSquawk] CHINA FOREIGN MINISTRY, ON XI AT BRICS SUMMIT: CHINA, INDIA ARE ARRANGING FOR A BILATERAL MEETING BETWEEN XI AND MODI
 - 09/11 16:10 [FirstSquawk] CHINA FOREIGN MINISTRY, ON TAIWAN VICE PRESIDENT VISITING ITALY: CHINA HAS LODGED SERIOUS PROTESTS WITH ITALY AND EU IN THIS REGARD
@@ -496,3 +491,4 @@
 - 09/12 15:33 [financialjuice] India's SEBI proposes to continue publishing indicative equilibrium price for stocks in closing auction session
 - 09/12 15:42 [financialjuice] Russian defence ministry: Russian troops strike two cargo ships in Ukrainian port of Chornomorsk
 - 09/12 15:43 [financialjuice] Russian Defence Ministry: Russian forces also strike metallurgical plant in Ukraine's Zaporizhzhia region - RIA
+- 09/12 16:00 [FirstSquawk] BOJ JGB HOLDINGS PLUNGE BY RECORD ¥47.8 TRILLION YOY IN JULY BANK OF JAPAN CUTS GOVERNMENT BOND HOLDINGS AT UNPRECEDENTED PACE; ¥47.8 TRILLION ANNUAL DROP MARKS BIGGEST DECLINE EVER
