@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 23:42 JST／対象: 09/12 11:42 〜 09/12 23:42 JST（時刻はすべて日本時間）
+生成: 2026-09-12 23:53 JST／対象: 09/12 11:53 〜 09/12 23:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/12 16:41 | 09/12 23:04 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 129 | 09/12 11:46 | 09/12 23:21 | ⚠ 114分（16:00→17:55） |
+| FirstSquawk | 128 | 09/12 11:54 | 09/12 23:21 | ⚠ 114分（16:00→17:55） |
 | financialjuice | 53 | 09/12 13:03 | 09/12 23:09 | ⚠ 126分（13:04→15:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 204 行（統合前 206 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 203 行（統合前 205 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 11:46 [FirstSquawk] U.S. legislator seeks a policy rethink on the North Korea travel ban Yonhap reports
 - 09/12 11:54 [FirstSquawk] Saudi-led strikes have left 82 people dead or injured since September 3, Yemen’s Houthi health ministry says.
 - 09/12 12:04 [FirstSquawk] Banco Master case files cleared for release in Brazil, excluding documents that could affect active investigations.
 - 09/12 12:11 [FirstSquawk] China played a pivotal role in Tesla’s rise into a worldwide EV leader. But the automaker now finds itself caught in the growing strategic rivalry between Beijing’s ambitions and Washington’s national security concerns.
