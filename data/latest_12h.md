@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 13:00 JST／対象: 09/12 01:00 〜 09/12 13:00 JST（時刻はすべて日本時間）
+生成: 2026-09-12 13:18 JST／対象: 09/12 01:18 〜 09/12 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/12 04:10 | 09/12 04:10 | - |
-| FirstSquawk | 131 | 09/12 01:04 | 09/12 12:56 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 73 | 09/12 01:01 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
+| FirstSquawk | 134 | 09/12 01:22 | 09/12 13:18 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 72 | 09/12 01:28 | 09/12 13:04 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 205 行（統合前 207 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 207 行（統合前 209 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 01:01 [financialjuice] Fed Financial Accounts of the United States
-- 09/12 01:01 [financialjuice] Fed: US 2Q household net worth rises $12.803t.
-- 09/12 01:04 [FirstSquawk] US SEPTEMBER WASDE REPORT SHOWS CORN END STOCKS AT 1.567 BILLION BUSHELS (ESTIMATES 1.522B; PREVIOUS 1.653B), SOYBEAN END STOCKS AT 310 MILLION BUSHELS (EST 299M; PREV 320M), TOTAL WHEAT END STOCKS AT 717 MILLION BUSHELS (EST 718M; PREV 717…
-- 09/12 01:04 [FirstSquawk] GLOBAL CORN END STOCKS IN SEPTEMBER AT 272M (EST 272M; PREV 275M) || SOYBEAN END STOCKS AT 124M (EST 123M; PREV 124M) || TOTAL WHEAT END STOCKS AT 276M (EST 273M; PREV 273M) || COTTON END STOCKS AT 70M (EST 69M; PREV 70M)
-- 09/12 01:04 [FirstSquawk] US HOUSEHOLD NET WORTH ROSE BY $12.803 TRILLION IN Q2, UP FROM $113 BILLION AND A REVISED $793 BILLION.
-- 09/12 01:08 [financialjuice] Apple: Starting September 12th at 5 AM PT, customers can pre-order iPhone 18 Pro & iPhone 18 Pro Max on Apple .com and in the Apple Store App. $AAPL
-- 09/12 01:09 [FirstSquawk] APPLE INC WILL ALLOW CUSTOMERS TO PRE-ORDER THE IPHONE 18 PRO AND IPHONE 18 PRO MAX ON https://t.co/LJMqx4c7ya AND THE APP AT 5 A.M. PT ON SEPTEMBER 12.
 - 09/12 01:22 [FirstSquawk] GERMANY EXPLORES PHARMA PROPOSAL WITH TEAM TRUMP AS TARIFF THREAT LOOMS - POLITICO
 - 09/12 01:28 [financialjuice] US Commerce Secretary Lutnick: The US could try to 'earn' money for $5,000 checks, it won't rely on tax funds - NBC.
 - 09/12 01:28 [FirstSquawk] US MAY ATTEMPT TO 'EARN' FUNDS FOR $5,000 PAYMENTS: LUTNICK TO NBC.
@@ -229,3 +222,12 @@
 - 09/12 12:36 [FirstSquawk] Trump visit prompts major security operation across Ireland, with 4,000 officers deployed.
 - 09/12 12:46 [FirstSquawk] Iraqi commander ousted as probe finds recent attacks on Saudi Arabia were launched from Iraq.
 - 09/12 12:56 [FirstSquawk] Chinese AI companies decline meetings with US delegation amid sanctions fears, commission says.
+- 09/12 13:03 [financialjuice] US restricts air defense windows for tankers passing through Hormuz - FT
+- 09/12 13:03 [FirstSquawk] Sweden’s Election Front-Runner Faces Growing Pressure as Race Tightens — FT Sweden’s leading candidate is facing a tighter election contest, with the race becoming increasingly competitive ahead of the vote, according to the Financial Times…
+- 09/12 13:04 [FirstSquawk] U.S. Restricts Air Defence Time Slots for Tankers Crossing Strait of Hormuz — FT The U.S. has limited the available air-defence time slots for tankers sailing through the Strait of Hormuz, according to the Financial Times. The move could ad…
+- 09/12 13:04 [financialjuice] High oil prices could prompt ECB to increase rates further: top policymaker Martin Kocher - FT
+- 09/12 13:05 [FirstSquawk] High Oil Prices Could Push ECB Toward Further Rate Hikes, Policymaker Warns — FT ECB policymaker Martin Kocher warned that persistently elevated oil prices could create enough inflationary pressure to force the European Central Bank to rais…
+- 09/12 13:09 [FirstSquawk] Financing expenses and advisers’ fees leave Thames Water facing a £2 billion bill.
+- 09/12 13:16 [FirstSquawk] Seoul moves to guard sensitive chip technology from foreign intelligence threats.
+- 09/12 13:17 [FirstSquawk] GROUND BEEF PRICES HIT RECORD HIGH IN AUGUST, DEALING FRESH BLOW TO TRUMP’S AFFORDABILITY PUSH AHEAD OF MIDTERMS Ground beef averaged $7.158/lb in August, up 0.6% from July and 7.9% YoY, marking a new record high. The move underscores the d…
+- 09/12 13:18 [FirstSquawk] European Investment in Latin American Stocks Hits 15-Year High — FT European investors have sharply increased their exposure to Latin American equities, with investment flows reaching their highest level in 15 years, according to the Financ…
