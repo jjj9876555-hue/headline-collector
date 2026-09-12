@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 19:16 JST／対象: 09/11 19:16 〜 09/12 19:16 JST（時刻はすべて日本時間）
+生成: 2026-09-12 19:31 JST／対象: 09/11 19:31 〜 09/12 19:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 46 | 09/11 19:41 | 09/12 19:04 | ⚠ 751分（04:10→16:41） |
-| FirstSquawk | 229 | 09/11 19:25 | 09/12 19:07 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 174 | 09/11 19:23 | 09/12 18:57 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 227 | 09/11 19:31 | 09/12 19:07 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 172 | 09/11 19:33 | 09/12 18:57 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 446 行（統合前 451 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 442 行（統合前 447 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 19:23 [financialjuice] CentCom commander traveled to Saudi Arabia on Thursday - Axios
-- 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER VISITED SAUDI ARABIA ON THURSDAY.
-- 09/11 19:25 [FirstSquawk] CENTCOM COMMANDER TALKED ABOUT HOUTHIS MAKING PROGRESS IN YEMEN, ACCORDING TO AXIOS.
-- 09/11 19:30 [financialjuice] RUSSIAN INTEREST RATE DECISION ACTUAL 14.00% (FORECAST 14%, PREVIOUS 14.00%) $MACRO
 - 09/11 19:31 [FirstSquawk] RUSSIAN CENTRAL BANK KEEPS KEY INTEREST RATE UNCHANGED AT 14.00%, SAME AS ESTIMATE.
 - 09/11 19:31 [FirstSquawk] https://t.co/jQvxnPAPkA PLANS TO SELL APPROXIMATELY 21.97 MILLION H SHARES AT HK$714 EACH.
 - 09/11 19:33 [financialjuice] ECB's Makhlouf: Longer Iran war risks keeping inflation elevated.
