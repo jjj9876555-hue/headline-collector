@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 19:43 JST／対象: 09/12 07:43 〜 09/12 19:43 JST（時刻はすべて日本時間）
+生成: 2026-09-12 19:58 JST／対象: 09/12 07:58 〜 09/12 19:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/12 16:41 | 09/12 19:04 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 144 | 09/12 09:02 | 09/12 19:43 | ⚠ 114分（16:00→17:55） |
-| financialjuice | 41 | 09/12 07:48 | 09/12 18:57 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 153 | 09/12 09:02 | 09/12 19:57 | ⚠ 114分（16:00→17:55） |
+| financialjuice | 42 | 09/12 07:58 | 09/12 19:56 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 200 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 210 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 07:48 [financialjuice] AI startup Discovery Loop targets valuation near $50 billion - Business Insider
 - 09/12 07:58 [financialjuice] Nvidia expected to lead Anthropic IPO, sources say
 - 09/12 07:58 [financialjuice] Nvidia to invest up to $10 billion in Anthropic IPO, source says
 - 09/12 08:01 [financialjuice] Saudi civil defense: early alert issued in Taif to warn of possible threat
@@ -224,3 +223,14 @@
 - 09/12 19:07 [FirstSquawk] XI JINPING CALLS FOR BRICS TO TAKE LEAD IN ENSURING PEACE AND STABILITY.
 - 09/12 19:07 [FirstSquawk] XI JINPING URGES BRICS NATIONS TO STAY ON HISTORY'S RIGHT SIDE AT BRICS SUMMIT.
 - 09/12 19:43 [FirstSquawk] UAE strongly condemns targeting pipeline in Saudi Arabia with drones coming from Iraq
+- 09/12 19:47 [FirstSquawk] Iranian President: The BRICS Group must confront unilateral sanctions that target peoples and the development path of countries in a practical way
+- 09/12 19:47 [FirstSquawk] Iranian President: BRICS members must counter attempts to make targeting civilian infrastructure acceptable
+- 09/12 19:55 [financialjuice] Russia's Rosatom: plans to boost specialists at Bushehr nuclear power plant in Iran to 150 soon
+- 09/12 19:55 [FirstSquawk] Iraqi Prime Minister: The police chief of Maysan province has been relieved of his position and the directors of the security services in the province have been referred for investigation
+- 09/12 19:56 [FirstSquawk] Speaker of the Iraqi Parliament: We affirm the importance of adhering to the principle of limiting weapons to the hands of the state in order to preserve the security and sovereignty of the country
+- 09/12 19:56 [FirstSquawk] Speaker of the Iraqi Parliament: We support the government's measures to open an urgent investigation to uncover the parties involved in the attacks
+- 09/12 19:56 [FirstSquawk] Palestinian Red Crescent: 9 injured in Israeli shelling on a tent for displaced people in the city of Khan Yunis
+- 09/12 19:56 [financialjuice] Trump on Irish unification: no matter what you say or how you say it, there’s no good solution
+- 09/12 19:56 [FirstSquawk] BRICS Statement Reaffirming Our Commitment to the Peaceful Resolution of International Disputes Through Dialogue, Consultation and Diplomacy
+- 09/12 19:56 [FirstSquawk] BRICS Summit Statement: We Stress the Need to Engage in Conflict Prevention Efforts, Including Addressing Their Root Causes
+- 09/12 19:57 [FirstSquawk] BRICS Communiqué: We Call for a Multilateral Approach that Respects Diverse Perspectives and Positions on Critical Global Issues
