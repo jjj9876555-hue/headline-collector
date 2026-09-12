@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-12 10:44 JST／対象: 09/11 10:44 〜 09/12 10:44 JST（時刻はすべて日本時間）
+生成: 2026-09-12 10:58 JST／対象: 09/11 10:58 〜 09/12 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/11 15:05 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 293 | 09/11 10:48 | 09/12 10:42 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 179 | 09/11 10:47 | 09/12 10:12 | ⚠ 287分（10:47→15:34） |
+| FirstSquawk | 294 | 09/11 10:58 | 09/12 10:58 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 178 | 09/11 15:34 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 515 行（統合前 521 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 10:47 [financialjuice] Taiwan stocks fall over 2%
-- 09/11 10:48 [FirstSquawk] Taiwanese shares decline sharply, falling over 2%.
-- 09/11 10:54 [FirstSquawk] Sterling stays above 1.3500 as markets await U.S. CPI figures.
-- 09/11 10:55 [FirstSquawk] Soybeans in Chicago retreat slightly after climbing to a three-year high on China demand.
-- 09/11 10:57 [FirstSquawk] Micron says eligible Taiwan employees will get a T$1 million thank-you payment for FY2026.
-- 09/11 10:58 [FirstSquawk] Taiwan-based Micron staff may get performance payouts reaching 500% of base targets plus additional equity for FY2026.
 - 09/11 10:58 [FirstSquawk] Taiwan-based Micron direct employees to receive FY2026 compensation equivalent to 35–68 months of salary, including a minimum T$1.7 million cash payout.
 - 09/11 11:05 [FirstSquawk] New California rules tighten restrictions on social media for children.
 - 09/11 11:09 [FirstSquawk] Japan’s finance minister avoids giving a view on specific FX levels.
@@ -539,3 +533,9 @@
 - 09/12 10:42 [FirstSquawk] Baghdad condemns any assault that puts Saudi security and stability at risk.
 - 09/12 10:42 [FirstSquawk] Baghdad launches an investigation to determine who was behind the attacks.
 - 09/12 10:42 [FirstSquawk] Baghdad vows to cooperate with allies and friends to stop future attacks.
+- 09/12 10:46 [FirstSquawk] Hamaoka nuclear plant’s restart applications in Japan to be pulled - kyodo
+- 09/12 10:48 [FirstSquawk] President Donald Trump’s promised $5,000 “dividend” for all U.S. adults would not be paid for with taxpayer dollars, Commerce Secretary Howard Lutnick said Thursday. “It’s not tax money,” Lutnick told NBC News in a wide-ranging interview at…
+- 09/12 10:50 [FirstSquawk] AI-POWERED WORM COULD HACK AND SELF-PROPAGATE ACROSS WECHAT ACCOUNTS, NYT REPORTS
+- 09/12 10:52 [FirstSquawk] Tamron Weighs Sony Bid as Chinese Rivals Intensify Pressure Japan’s Tamron is considering a potential offer from Sony as competition from Chinese lens makers grows, with the mid-sized manufacturer benefiting from strong returns on equity an…
+- 09/12 10:54 [FirstSquawk] Waymo Self-Driving Cars Reportedly 9x Safer Than Human Drivers as per polymarket. An analysis of 25.3 million autonomous miles found Waymo vehicles were roughly 900% safer than human drivers.
+- 09/12 10:58 [FirstSquawk] SERENA-4 trial of AstraZeneca’s etcamah combination falls short of its primary endpoint, with no new safety concerns.

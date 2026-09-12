@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 10:44 JST／対象: 09/11 22:44 〜 09/12 10:44 JST（時刻はすべて日本時間）
+生成: 2026-09-12 10:58 JST／対象: 09/11 22:58 〜 09/12 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/11 22:49 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
-| FirstSquawk | 118 | 09/11 22:48 | 09/12 10:42 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 103 | 09/11 22:49 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
+| DeItaone | 3 | 09/11 23:00 | 09/12 04:10 | ⚠ 309分（23:00→04:10） |
+| FirstSquawk | 117 | 09/11 23:00 | 09/12 10:58 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 95 | 09/11 23:00 | 09/12 10:12 | ⚠ 62分（09:00→10:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 226 行（統合前 228 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 215 行（統合前 217 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/11 22:48 [FirstSquawk] HASSETT STRESSES IMPORTANCE OF FEDERAL RESERVE'S INDEPENDENCE AND EXPRESSES HIGH RESPECT FOR WILLIAM WARSH.
-- 09/11 22:48 [FirstSquawk] HASSETT STATES INFLATION HAS BEEN SLOWING DOWN IN THE LAST 3 MONTHS.
-- 09/11 22:49 [financialjuice] WH Sr. Adviser Hassett: Inflation is clearly decelerating over the past 3 months.
-- 09/11 22:49 [FirstSquawk] HASSETT SAYS TRUMP WILL HAVE A VIEW IF THE FED INCREASES RATES.
-- 09/11 22:49 [financialjuice] WH Sr. Adviser Hassett: If the Fed hikes, Trump will have an opinion, I'm sure.
-- 09/11 22:49 [DeItaone] S&P 500’S 8,000 MILESTONE REMAINS ELUSIVE The S&P 500 is still 5.4% away from 8,000, as rising bond yields, sticky inflation and a hawkish Fed outlook stall the rally. CFRA still targets 8,050 by year-end, but warns a 5%-10% correction woul…
-- 09/11 22:50 [financialjuice] WH Sr. Adviser Hassett speaks on Bloomberg Business News Live
-- 09/11 22:51 [financialjuice] WH Sr. Adviser Hassett: Reconciliation is one path for $5,000 trump payments; can do $5,000 payments in a fiscally responsible way.
-- 09/11 22:51 [financialjuice] WH Sr. Adviser Hassett: Trump is very serious about the $5,000 proposal.
-- 09/11 22:53 [FirstSquawk] HASSETT SAYS RECONCILIATION CAN ENABLE $5,000 PAYMENTS UNDER TRUMP, MAINTAINING FISCAL RESPONSIBILITY.
-- 09/11 22:53 [FirstSquawk] SPOT GOLD RISES ALMOST 2% TO $4,400.09 PER OUNCE.
-- 09/11 22:53 [FirstSquawk] HASSETT SAYS TRUMP IS COMMITTED TO THE $5,000 PLAN.
-- 09/11 22:53 [FirstSquawk] HASSETT SAYS $5,000 CHECKS CAN BE COMBINED WITH FISCAL RESPONSIBILITY.
-- 09/11 22:54 [financialjuice] ECB's President Lagarde speaks live
-- 09/11 22:55 [DeItaone] HASSETT SAYS INFLATION IS “CLEARLY DECELERATING” White House economic adviser Kevin Hassett says inflation has clearly slowed over the past three months, while stressing that the Fed’s independence should be respected. Hassett added that Tr…
-- 09/11 22:55 [financialjuice] WH Sr. Adviser Hassett: An offset to the $5,000 checks would need to be negotiated.
-- 09/11 22:57 [financialjuice] ❗ TD changes Fed call to hikes from September vs cuts previously
 - 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN 1 YR INFLATION PRELIM ACTUAL 4.6% (FORECAST 4.2%, PREVIOUS 4.0%) $MACRO
 - 09/11 23:00 [financialjuice] UNIVERSITY MICHIGAN 5 YR INFLATION PRELIM ACTUAL 3.4% (FORECAST 3.3%, PREVIOUS 3.3%) $MACRO
 - 09/11 23:00 [DeItaone] *UMICH 1-YR INFLATION EXPECTATIONS RISE TO 4.6% FROM 4.0%
@@ -250,3 +233,9 @@
 - 09/12 10:42 [FirstSquawk] Baghdad condemns any assault that puts Saudi security and stability at risk.
 - 09/12 10:42 [FirstSquawk] Baghdad launches an investigation to determine who was behind the attacks.
 - 09/12 10:42 [FirstSquawk] Baghdad vows to cooperate with allies and friends to stop future attacks.
+- 09/12 10:46 [FirstSquawk] Hamaoka nuclear plant’s restart applications in Japan to be pulled - kyodo
+- 09/12 10:48 [FirstSquawk] President Donald Trump’s promised $5,000 “dividend” for all U.S. adults would not be paid for with taxpayer dollars, Commerce Secretary Howard Lutnick said Thursday. “It’s not tax money,” Lutnick told NBC News in a wide-ranging interview at…
+- 09/12 10:50 [FirstSquawk] AI-POWERED WORM COULD HACK AND SELF-PROPAGATE ACROSS WECHAT ACCOUNTS, NYT REPORTS
+- 09/12 10:52 [FirstSquawk] Tamron Weighs Sony Bid as Chinese Rivals Intensify Pressure Japan’s Tamron is considering a potential offer from Sony as competition from Chinese lens makers grows, with the mid-sized manufacturer benefiting from strong returns on equity an…
+- 09/12 10:54 [FirstSquawk] Waymo Self-Driving Cars Reportedly 9x Safer Than Human Drivers as per polymarket. An analysis of 25.3 million autonomous miles found Waymo vehicles were roughly 900% safer than human drivers.
+- 09/12 10:58 [FirstSquawk] SERENA-4 trial of AstraZeneca’s etcamah combination falls short of its primary endpoint, with no new safety concerns.
