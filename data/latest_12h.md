@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-12 16:22 JST／対象: 09/12 04:22 〜 09/12 16:22 JST（時刻はすべて日本時間）
+生成: 2026-09-12 16:34 JST／対象: 09/12 04:34 〜 09/12 16:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 117 | 09/12 04:23 | 09/12 16:00 | ⚠ 241分（05:01→09:02） |
-| financialjuice | 59 | 09/12 04:23 | 09/12 15:43 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 113 | 09/12 04:42 | 09/12 16:00 | ⚠ 241分（05:01→09:02） |
+| financialjuice | 54 | 09/12 04:48 | 09/12 15:43 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 176 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 167 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 04:23 [financialjuice] Monday FX Options Expiries
-- 09/12 04:23 [FirstSquawk] U.S. NAVY MH-60R SEA HAWK HELICOPTER GETS READY TO LAND ON USS BOXER (LHD 4). BOXER IS THE LEAD SHIP FOR THE BOXER AMPHIBIOUS READY GROUP AND 11TH MARINE EXPEDITIONARY UNIT, CONTINUING TO IMPLEMENT THE U.S. BLOCKADE ON IRAN. AS OF SEPTEMBER…
-- 09/12 04:27 [financialjuice] Iran's foreign Ministry Spokesperson: Our strikes have been against the source of the attacks, not the countries - Tasnim News
-- 09/12 04:29 [financialjuice] Iran Foreign Ministry spokesperson: Saudi Arabia, Japan and Jordan will face consequences for backing anti-Iran IAEA resolution - Fars News
-- 09/12 04:29 [financialjuice] Iran Foreign Ministry spokesperson: Iran will hold Saudi Arabia, Japan and Jordan accountable for supporting anti-Iran IAEA resolution - Fars News
-- 09/12 04:30 [financialjuice] CFTC Positions in the Week Ended September 8th
-- 09/12 04:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON STATES THAT THEIR STRIKES TARGETED THE SOURCE OF ATTACKS, NOT OTHER COUNTRIES.
-- 09/12 04:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON WARNED SAUDI ARABIA, JAPAN, AND JORDAN THAT THEY WILL FACE REPERCUSSIONS FOR SUPPORTING ANTI-IRAN IAEA RESOLUTION.
-- 09/12 04:32 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS IRAN WILL HOLD SAUDI ARABIA, JAPAN, AND JORDAN RESPONSIBLE FOR BACKING AN ANTI-IRAN IAEA RESOLUTION.
 - 09/12 04:42 [FirstSquawk] CITI NOW SEE FED RAISING RATES IN SEPTEMBER, RATE CUTS BY MID-2027
 - 09/12 04:48 [FirstSquawk] CENTCOM: AS OF SEPT. 11, U.S. FORCES HAVE REDIRECTED 99 COMMERCIAL VESSELS TO ENSURE TOTAL COMPLIANCE
 - 09/12 04:48 [financialjuice] Farage Reform UK gets £36 mln donation from Ben Delo - Telegraph
