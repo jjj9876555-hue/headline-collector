@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 08:31 JST／対象: 09/13 08:31 〜 09/14 08:31 JST（時刻はすべて日本時間）
+生成: 2026-09-14 08:42 JST／対象: 09/13 08:42 〜 09/14 08:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 255 | 09/13 09:35 | 09/14 07:53 | ⚠ 90分（01:59→03:29） |
+| FirstSquawk | 261 | 09/13 09:35 | 09/14 08:32 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 77 | 09/13 10:01 | 09/14 08:30 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 351 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 357 行（統合前 363 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -375,3 +375,9 @@
 - 09/14 08:25 [financialjuice] US EPA set to repeal carbon limits for coal, gas power plants
 - 09/14 08:28 [financialjuice] Early warning issued in Khamis Mushait to signal possible threat: Saudi civil defense
 - 09/14 08:30 [financialjuice] Early warning issued in Abha to alert of possible danger: Saudi civil defense
+- 09/14 08:31 [FirstSquawk] TRUMP, ASKED ABOUT REPORTS THAT CHINESE ENTITIES MAY HAVE PROVIDED IRAN WITH SATELLITE IMAGERY, SAYS THE CHINESE 'BASICALLY DO WHAT WE DO', ADDING THAT XI 'HAS BEHAVED REASONABLY WELL, AND WE'VE BEHAVED REASONABLY WELL'.
+- 09/14 08:31 [FirstSquawk] TRUMP SAYS ON RUSSIA THAT 'A LOT OF THE DIESEL COMES FROM RUSSIA' AND THAT 'RUSSIA'S PLANTS ARE BEING HIT BY UKRAINE', ADDING THAT HE HAS 'ASKED ZELENSKY NOT TO HIT THE DIESEL PLANTS, REFINERIES'.
+- 09/14 08:31 [FirstSquawk] TRUMP SAYS 'WITKOFF AND KUSHNER ARE DOING A GREAT JOB', POINTING TO GAZA AS AN EXAMPLE WHERE 'THERE'S NOT A LOT OF FIGHTING' AND 'HAMAS IS NOW WILLING TO GIVE UP THEIR WEAPONS', SAYING 'NOBODY COULD HAVE DONE THE JOB THEY DID'.
+- 09/14 08:32 [FirstSquawk] TRUMP SAYS 'THE LASERS ARE VERY, VERY GOOD FOR CERTAIN TYPES OF MISSILES, CERTAIN SLOWER MISSILES', ADDING 'I THINK THE LASERS ARE GOING TO BE THE FUTURE'.
+- 09/14 08:32 [FirstSquawk] TRUMP SAYS ON FLOCK CAMERAS THAT 'I SORT OF LIKE THEM', NOTING THAT WHILE SOME PEOPLE 'THINK IT'S AN INFRINGEMENT', HE LIKES THEM, AND SAYS ON CANADA THAT 'I FIND CANADA TO BE THE WORST COUNTRY TO DEAL WITH', THOUGH 'THEY'RE DYING TO MAKE A…
+- 09/14 08:32 [FirstSquawk] TRUMP SAYS ON AI THAT 'IT'S GOING TO BE MORE GOOD THAN BAD, BY A LOT', ADDING THAT 'WHOEVER WINS AI WINS'.
