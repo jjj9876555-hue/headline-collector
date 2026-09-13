@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 19:23 JST／対象: 09/13 07:23 〜 09/13 19:23 JST（時刻はすべて日本時間）
+生成: 2026-09-13 19:42 JST／対象: 09/13 07:42 〜 09/13 19:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/13 18:12 | 09/13 18:17 | 5分（18:12→18:17） |
-| FirstSquawk | 155 | 09/13 09:35 | 09/13 19:14 | 41分（15:32→16:14） |
-| financialjuice | 13 | 09/13 10:01 | 09/13 19:12 | ⚠ 220分（10:01→13:41） |
+| FirstSquawk | 160 | 09/13 09:35 | 09/13 19:41 | 41分（15:32→16:14） |
+| financialjuice | 16 | 09/13 10:01 | 09/13 19:29 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 167 行（統合前 170 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 175 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -191,3 +191,11 @@
 - 09/13 19:12 [financialjuice/FirstSquawk] South Korea industry minister: $200 billion total investment cap, $20 billion annual investment to be maintained as previously agreed with U.S.
 - 09/13 19:13 [FirstSquawk] Araqchi: The agenda for tomorrow's meeting in the Sultanate of Oman focuses on the new maritime route in the Strait of Hormuz
 - 09/13 19:14 [FirstSquawk] Araqchi: Iran's condition for reopening the Strait of Hormuz is the return of the United States to its commitments under the Islamabad Memorandum
+- 09/13 19:26 [financialjuice] Goldenmax International denies reports of products certified into Nvidia, Huawei supply chains after unusual share price moves
+- 09/13 19:26 [financialjuice] secures $5 billion through new share and convertible bond sales, filing reveals
+- 09/13 19:29 [financialjuice] Lithuania closes Vilnius airport, NATO deploys fighter jets after potential drone sighting – national crisis management centre
+- 09/13 19:40 [FirstSquawk] Yemeni government-affiliated resistance: 500 killed and 1,500 wounded among our forces in the battles of the western coast between August 9 and September 10
+- 09/13 19:40 [FirstSquawk] Yemeni government-affiliated resistance: The Houthi attack on the western coast was supported by the Iranian Revolutionary Guard and its allies.
+- 09/13 19:41 [FirstSquawk] Yemeni government-affiliated resistance: We have redeployed our forces to new defensive lines to thwart the plan to encircle them.
+- 09/13 19:41 [FirstSquawk] Yemeni government-affiliated resistance: Losing a battle is not the end, and we will continue the struggle until Yemen is liberated from Iran's proxies.
+- 09/13 19:41 [FirstSquawk] Syrian TV: Israeli occupation forces shelled the western outskirts of Beit Jinn town in western Damascus countryside with 3 artillery shells
