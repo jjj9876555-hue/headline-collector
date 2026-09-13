@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 05:52 JST／対象: 09/13 23:52 〜 09/14 05:52 JST（時刻はすべて日本時間）
+生成: 2026-09-14 06:05 JST／対象: 09/14 00:05 〜 09/14 06:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/14 01:15 | 09/14 04:44 | ⚠ 78分（02:47→04:05） |
 | FirstSquawk | 48 | 09/14 00:06 | 09/14 05:48 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 24 | 09/14 00:11 | 09/14 05:39 | ⚠ 147分（00:18→02:46） |
+| financialjuice | 25 | 09/14 00:11 | 09/14 06:02 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 79 行（統合前 80 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 80 行（統合前 81 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -103,3 +103,4 @@
 - 09/14 05:39 [financialjuice] Sweden's right-wing ruling bloc now projected to win 174 parliamentary seats, broadcaster SVT shows
 - 09/14 05:48 [FirstSquawk] ANTHROPIC, OPENAI AND GOOGLE ARE DISCUSSING AN INDUSTRY-LED AI STANDARDS BODY TO COORDINATE TESTING AND AUDITING OF ADVANCED AI SYSTEMS, WITH TALKS REPORTEDLY CONTINUING AS RECENTLY AS LAST WEEK.
 - 09/14 05:48 [FirstSquawk] OPENAI CEO SAM ALTMAN SUPPORTS AN INDEPENDENT AI TESTING AND AUDITING ORGANIZATION BUT BELIEVES MAJOR AI LABS SHOULD ESTABLISH IT WITHOUT U.S. GOVERNMENT SUPPORT, AS AI SAFETY COORDINATION GAINS MOMENTUM.
+- 09/14 06:02 [financialjuice] Several blasts heard in Iran's Sirik: source unknown, state media.
