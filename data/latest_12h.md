@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 10:16 JST／対象: 09/12 22:16 〜 09/13 10:16 JST（時刻はすべて日本時間）
+生成: 2026-09-13 10:32 JST／対象: 09/12 22:32 〜 09/13 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/12 22:49 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
-| FirstSquawk | 76 | 09/12 22:38 | 09/13 10:12 | ⚠ 366分（03:29→09:35） |
+| FirstSquawk | 79 | 09/12 22:38 | 09/13 10:23 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 40 | 09/12 22:44 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 123 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -144,3 +144,6 @@
 - 09/13 10:10 [FirstSquawk] New espionage provisions come into force as Seoul moves to strengthen defenses around sensitive semiconductor technologies.
 - 09/13 10:11 [FirstSquawk] BILLIONAIRE DROPS PLANNED SALE: The billionaire confirmed that no shares changed hands after he withdrew plans to sell 50 million shares, according to WSJ.
 - 09/13 10:12 [FirstSquawk] Britain stands firmly alongside Saudi Arabia and Yemen’s recognized government against attacks, Foreign Secretary Ed Miliband says.
+- 09/13 10:21 [FirstSquawk] YEMEN CONFLICT: Three aerial attacks targeted Houthi militia sites in Taiz, Yemen’s Armed Forces report.
+- 09/13 10:22 [FirstSquawk] Three air raids targeted Houthi positions and military barracks in Al-Tabba Al-Sawda and Jabal Al-Mun’im on Taiz’s Mist Front, according to Yemen’s Armed Forces.
+- 09/13 10:23 [FirstSquawk] Warplanes conducted three strikes against Houthi militia positions and barracks on the Mist Front, according to Yemen’s Armed Forces.

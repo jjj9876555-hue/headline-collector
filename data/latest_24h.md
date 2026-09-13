@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 10:16 JST／対象: 09/12 10:16 〜 09/13 10:16 JST（時刻はすべて日本時間）
+生成: 2026-09-13 10:32 JST／対象: 09/12 10:32 〜 09/13 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 221 | 09/12 10:19 | 09/13 10:12 | ⚠ 366分（03:29→09:35） |
+| FirstSquawk | 216 | 09/12 10:35 | 09/13 10:23 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 78 | 09/12 13:03 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 323 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 318 行（統合前 321 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 10:19 [FirstSquawk] Pyongyang launches an unidentified projectile toward waters off South Korea.
-- 09/12 10:20 [FirstSquawk] Atreides Management taps Lone Pine co-CIO Kelly Granat.
-- 09/12 10:21 [FirstSquawk] The U.S. Commerce Department has finalized higher duties on solar imports from India, Indonesia and Laos - Reuters
-- 09/12 10:23 [FirstSquawk] Italy retains its ‘BBB+’ sovereign rating as Fitch holds the outlook steady.
-- 09/12 10:23 [FirstSquawk] Slovenia retains its ‘A+’ rating as Fitch maintains a stable outlook.
-- 09/12 10:29 [FirstSquawk] GCC chief urges Iraq to take decisive steps to stop attacks.
-- 09/12 10:31 [FirstSquawk] Pham Nhat Vuong set to exit as VinFast chief executive.
-- 09/12 10:31 [FirstSquawk] Pham Nhat Quan Anh to take over as VinFast’s global chief executive.
 - 09/12 10:35 [FirstSquawk] Pyongyang fired an unidentified projectile in the direction of the East Sea, according to Yonhap.
 - 09/12 10:38 [FirstSquawk] Private-sector delivery and equity capacity emerge as main risks to Mexico’s power-grid expansion, Fitch says.
 - 09/12 10:41 [FirstSquawk] Baghdad thanks Riyadh for choosing not to retaliate, state media says.
@@ -347,3 +339,6 @@
 - 09/13 10:10 [FirstSquawk] New espionage provisions come into force as Seoul moves to strengthen defenses around sensitive semiconductor technologies.
 - 09/13 10:11 [FirstSquawk] BILLIONAIRE DROPS PLANNED SALE: The billionaire confirmed that no shares changed hands after he withdrew plans to sell 50 million shares, according to WSJ.
 - 09/13 10:12 [FirstSquawk] Britain stands firmly alongside Saudi Arabia and Yemen’s recognized government against attacks, Foreign Secretary Ed Miliband says.
+- 09/13 10:21 [FirstSquawk] YEMEN CONFLICT: Three aerial attacks targeted Houthi militia sites in Taiz, Yemen’s Armed Forces report.
+- 09/13 10:22 [FirstSquawk] Three air raids targeted Houthi positions and military barracks in Al-Tabba Al-Sawda and Jabal Al-Mun’im on Taiz’s Mist Front, according to Yemen’s Armed Forces.
+- 09/13 10:23 [FirstSquawk] Warplanes conducted three strikes against Houthi militia positions and barracks on the Mist Front, according to Yemen’s Armed Forces.
