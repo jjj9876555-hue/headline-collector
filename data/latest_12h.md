@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 01:17 JST／対象: 09/13 13:17 〜 09/14 01:17 JST（時刻はすべて日本時間）
+生成: 2026-09-14 01:32 JST／対象: 09/13 13:32 〜 09/14 01:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 09/13 18:12 | 09/14 01:16 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 126 | 09/13 13:23 | 09/14 01:12 | ⚠ 48分（21:58→22:46） |
+| DeItaone | 19 | 09/13 18:12 | 09/14 01:17 | ⚠ 147分（22:47→01:15） |
+| FirstSquawk | 123 | 09/13 13:33 | 09/14 01:12 | ⚠ 48分（21:58→22:46） |
 | financialjuice | 32 | 09/13 13:41 | 09/14 00:18 | ⚠ 103分（14:08→15:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 172 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 13:23 [FirstSquawk] Four arrested after Jordan’s Northern Military Region blocks attempted infiltration
-- 09/13 13:29 [FirstSquawk] Paris and Beirut call for the UN peacekeeping mission in Lebanon to be extended, keeping international forces in place amid ongoing regional tensions. The push highlights continued concerns over stability and security along Lebanon’s border…
-- 09/13 13:30 [FirstSquawk] CVC faces growing shareholder opposition over its €10.7 billion plan to take Recordati private - FT The revolt could complicate the deal, highlighting investor concerns over the valuation and terms of the proposed buyout.
 - 09/13 13:33 [FirstSquawk] Musk’s undisclosed financial backer has amassed a $40 billion stake in SpaceX. The investment underscores the growing influence of major private investors in the valuation and ownership of Elon Musk’s space company.
 - 09/13 13:40 [FirstSquawk] German defence start-up turns to automakers for support as Europe accelerates efforts to rebuild and expand its military strength. The push reflects growing demand for industrial capacity as European nations step up defence spending and rea…
 - 09/13 13:41 [financialjuice] Iranian commercial ship hit near Qeshm Island: one dead and three injured - state TV
@@ -196,3 +193,4 @@
 - 09/14 01:12 [FirstSquawk] Lebanese media: Israeli airstrike targets Qantara in southern Lebanon
 - 09/14 01:15 [DeItaone] HASSETT SAYS WHITE HOUSE WILL BACK FED DECISION White House economic adviser Kevin Hassett says the administration will “100% support” whatever Fed Chair Kevin Warsh and the committee decide on rates this week. Still, Hassett said he and Pr…
 - 09/14 01:16 [DeItaone] ANTHROPIC HAS CHOSEN THE NASDAQ FOR ITS IPO LISTING- BUSINESS INSIDER
+- 09/14 01:17 [DeItaone] ANTHROPIC PICKS NASDAQ FOR POTENTIAL $2 TRILLION IPO Anthropic has selected Nasdaq for its potential IPO, according to a person familiar with the company’s plans, as it targets an October listing. Some estimates have valued Anthropic at as …

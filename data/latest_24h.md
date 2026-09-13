@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 01:17 JST／対象: 09/13 01:17 〜 09/14 01:17 JST（時刻はすべて日本時間）
+生成: 2026-09-14 01:32 JST／対象: 09/13 01:32 〜 09/14 01:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/13 01:35 | 09/14 01:16 | ⚠ 984分（01:48→18:12） |
-| FirstSquawk | 217 | 09/13 01:31 | 09/14 01:12 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 55 | 09/13 01:32 | 09/14 00:18 | ⚠ 295分（05:05→10:01） |
+| DeItaone | 21 | 09/13 01:35 | 09/14 01:17 | ⚠ 984分（01:48→18:12） |
+| FirstSquawk | 216 | 09/13 02:02 | 09/14 01:12 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 54 | 09/13 01:33 | 09/14 00:18 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 288 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 287 行（統合前 291 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 01:31 [FirstSquawk] Lebanese News Agency: The Israeli army carries out a massive explosion operation in "Al-Qanatra" in southern Lebanon
-- 09/13 01:32 [financialjuice] Iranian source to Tasnim News Agency: Strait of Hormuz will remain closed despite the Iran-Oman agreement
 - 09/13 01:33 [financialjuice] Iranian source to Tasnim: Iran and Oman finalize details of new routes for entry and exit from Strait of Hormuz
 - 09/13 01:34 [financialjuice] Iranian source to Tasnim: southern route will close despite U.S. pressure to reopen
 - 09/13 01:35 [DeItaone] IRANIAN SOURCE TO TASNIM NEWS AGENCY: THE STRAIT OF HORMUZ WILL NOT BE REOPENED UNDER THE IRAN-OMAN UNDERSTANDING
@@ -312,3 +310,4 @@
 - 09/14 01:12 [FirstSquawk] Lebanese media: Israeli airstrike targets Qantara in southern Lebanon
 - 09/14 01:15 [DeItaone] HASSETT SAYS WHITE HOUSE WILL BACK FED DECISION White House economic adviser Kevin Hassett says the administration will “100% support” whatever Fed Chair Kevin Warsh and the committee decide on rates this week. Still, Hassett said he and Pr…
 - 09/14 01:16 [DeItaone] ANTHROPIC HAS CHOSEN THE NASDAQ FOR ITS IPO LISTING- BUSINESS INSIDER
+- 09/14 01:17 [DeItaone] ANTHROPIC PICKS NASDAQ FOR POTENTIAL $2 TRILLION IPO Anthropic has selected Nasdaq for its potential IPO, according to a person familiar with the company’s plans, as it targets an October listing. Some estimates have valued Anthropic at as …
