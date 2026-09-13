@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 19:42 JST／対象: 09/12 19:42 〜 09/13 19:42 JST（時刻はすべて日本時間）
+生成: 2026-09-13 19:53 JST／対象: 09/12 19:53 〜 09/13 19:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/12 20:23 | 09/13 18:17 | ⚠ 984分（01:48→18:12） |
-| FirstSquawk | 262 | 09/12 19:43 | 09/13 19:41 | ⚠ 366分（03:29→09:35） |
+| FirstSquawk | 259 | 09/12 19:55 | 09/13 19:41 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 65 | 09/12 19:55 | 09/13 19:29 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 335 行（統合前 339 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 332 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 19:43 [FirstSquawk] UAE strongly condemns targeting pipeline in Saudi Arabia with drones coming from Iraq
-- 09/12 19:47 [FirstSquawk] Iranian President: The BRICS Group must confront unilateral sanctions that target peoples and the development path of countries in a practical way
-- 09/12 19:47 [FirstSquawk] Iranian President: BRICS members must counter attempts to make targeting civilian infrastructure acceptable
 - 09/12 19:55 [financialjuice] Russia's Rosatom: plans to boost specialists at Bushehr nuclear power plant in Iran to 150 soon
 - 09/12 19:55 [FirstSquawk] Iraqi Prime Minister: The police chief of Maysan province has been relieved of his position and the directors of the security services in the province have been referred for investigation
 - 09/12 19:56 [FirstSquawk] Speaker of the Iraqi Parliament: We affirm the importance of adhering to the principle of limiting weapons to the hands of the state in order to preserve the security and sovereignty of the country
