@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 21:52 JST／対象: 09/13 09:52 〜 09/13 21:52 JST（時刻はすべて日本時間）
+生成: 2026-09-13 22:05 JST／対象: 09/13 10:05 〜 09/13 22:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/13 18:12 | 09/13 21:44 | ⚠ 137分（18:17→20:35） |
-| FirstSquawk | 165 | 09/13 09:53 | 09/13 21:28 | 42分（20:10→20:53） |
-| financialjuice | 20 | 09/13 10:01 | 09/13 21:37 | ⚠ 220分（10:01→13:41） |
+| DeItaone | 7 | 09/13 18:12 | 09/13 22:04 | ⚠ 137分（18:17→20:35） |
+| FirstSquawk | 161 | 09/13 10:10 | 09/13 21:58 | 42分（20:10→20:53） |
+| financialjuice | 18 | 09/13 13:41 | 09/13 21:37 | ⚠ 103分（14:08→15:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 188 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 183 行（統合前 186 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 09:53 [FirstSquawk] TRUMP PRAISES BORDER POLICY: The president says illegal crossings and sea-based drug trafficking have declined under his administration, as he renews criticism of the previous administration’s immigration policies.
-- 09/13 09:54 [FirstSquawk] ALTman ON IPO: OpenAI will not move toward an IPO this year, CEO Sam Altman says, pointing to the broader challenges surrounding AI safety.
-- 09/13 10:01 [financialjuice] Ukmto: Vessel hit by unidentified projectile while passing Strait of Hormuz
-- 09/13 10:01 [FirstSquawk] U.S.-CHINA AI RACE: Trump plays down concerns about AI’s potential dangers while pushing to keep the U.S. ahead of China in the technology race.
-- 09/13 10:01 [financialjuice] Ukmto: status of crew, damage assessment and environmental impact currently unknown
-- 09/13 10:02 [FirstSquawk] HORMUZ SECURITY: UKMTO says an unidentified projectile hit a vessel as it navigated the strategically important Strait of Hormuz.
-- 09/13 10:02 [FirstSquawk] HOUTHI ATTACK: A Houthi projectile from Yemen caused damage to a mosque, buildings and vehicles, Saudi Civil Defense says.
-- 09/13 10:03 [FirstSquawk] MILIBAND BACKS SAUDI ARABIA: The UK foreign secretary reaffirms Britain’s support for Saudi Arabia and Yemen’s recognized government amid ongoing attacks.
 - 09/13 10:10 [FirstSquawk] New espionage provisions come into force as Seoul moves to strengthen defenses around sensitive semiconductor technologies.
 - 09/13 10:11 [FirstSquawk] BILLIONAIRE DROPS PLANNED SALE: The billionaire confirmed that no shares changed hands after he withdrew plans to sell 50 million shares, according to WSJ.
 - 09/13 10:12 [FirstSquawk] Britain stands firmly alongside Saudi Arabia and Yemen’s recognized government against attacks, Foreign Secretary Ed Miliband says.
@@ -212,3 +204,6 @@
 - 09/13 21:28 [FirstSquawk] Turkish Foreign Minister: The regional and global economy has entered a crisis following the events in the Strait of Hormuz.
 - 09/13 21:37 [financialjuice] Iranian president: talk with Abu Dhabi crown prince was positive, agreed to move beyond past - Tasnim
 - 09/13 21:44 [DeItaone] IRANIAN PRESIDENT SAYS TALK WITH ABU DHABI CROWN PRINCE WAS GOOD, "AGREED TO PUT PAST BEHIND US" - TASNIM
+- 09/13 21:57 [FirstSquawk] International Organization for Migration: Nearly 85,000 people have been forced to leave their homes due to fighting in Yemen, and about 2,000 have arrived in Djibouti.
+- 09/13 21:58 [FirstSquawk] Iranian President: BRICS group has announced its rejection of the policy of imposing unilateral sanctions and coercive measures against countries
+- 09/13 22:04 [DeItaone] IRAN, UAE AGREE TO “PUT THE PAST ASIDE” Iranian President Masoud Pezeshkian says talks with Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed were positive, following their meeting at the BRICS summit in New Delhi. Pezeshkian said …

@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 21:52 JST／対象: 09/12 21:52 〜 09/13 21:52 JST（時刻はすべて日本時間）
+生成: 2026-09-13 22:05 JST／対象: 09/12 22:05 〜 09/13 22:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 09/12 21:56 | 09/13 21:44 | ⚠ 984分（01:48→18:12） |
-| FirstSquawk | 234 | 09/12 21:53 | 09/13 21:28 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 59 | 09/12 21:56 | 09/13 21:37 | ⚠ 295分（05:05→10:01） |
+| DeItaone | 12 | 09/12 22:49 | 09/13 22:04 | ⚠ 984分（01:48→18:12） |
+| FirstSquawk | 234 | 09/12 22:38 | 09/13 21:58 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 58 | 09/12 22:44 | 09/13 21:37 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 301 行（統合前 305 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 300 行（統合前 304 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 21:53 [FirstSquawk] IRAQ'S PM AGREES TO IRAN'S REQUEST FOR A COLLABORATIVE INVESTIGATION.
-- 09/12 21:53 [FirstSquawk] IRAQ'S PRIME MINISTER ANNOUNCED AN INVESTIGATION INTO MISSILE LAUNCHERS DISCOVERED NEAR THE IRAN BORDER.
-- 09/12 21:56 [financialjuice] Iraq agrees to Iranian request to jointly probe drone launchers on border: Iraqi army
-- 09/12 21:56 [DeItaone] IRAQ AGREES TO IRANIAN REQUEST TO JOINTLY INVESTIGATE EXISTENCE OF DRONE LAUNCHERS ON THE BORDER BETWEEN THE TWO COUNTRIES - IRAQI ARMY
 - 09/12 22:38 [FirstSquawk] Abu Dhabi Crown Prince Sheikh Khalid bin Mohamed bin Zayed meets Iranian President on the sidelines of BRICS summit in New Delhi
 - 09/12 22:38 [FirstSquawk] Abu Dhabi Crown Prince discusses with Iranian President on the sidelines of BRICS summit the importance of supporting de-escalation efforts
 - 09/12 22:38 [FirstSquawk] Arab League Secretary-General Condemns Attacks on Oil Facilities in Saudi Arabia
@@ -325,3 +321,6 @@
 - 09/13 21:28 [FirstSquawk] Turkish Foreign Minister: The regional and global economy has entered a crisis following the events in the Strait of Hormuz.
 - 09/13 21:37 [financialjuice] Iranian president: talk with Abu Dhabi crown prince was positive, agreed to move beyond past - Tasnim
 - 09/13 21:44 [DeItaone] IRANIAN PRESIDENT SAYS TALK WITH ABU DHABI CROWN PRINCE WAS GOOD, "AGREED TO PUT PAST BEHIND US" - TASNIM
+- 09/13 21:57 [FirstSquawk] International Organization for Migration: Nearly 85,000 people have been forced to leave their homes due to fighting in Yemen, and about 2,000 have arrived in Djibouti.
+- 09/13 21:58 [FirstSquawk] Iranian President: BRICS group has announced its rejection of the policy of imposing unilateral sanctions and coercive measures against countries
+- 09/13 22:04 [DeItaone] IRAN, UAE AGREE TO “PUT THE PAST ASIDE” Iranian President Masoud Pezeshkian says talks with Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed were positive, following their meeting at the BRICS summit in New Delhi. Pezeshkian said …
