@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 07:04 JST／対象: 09/13 19:04 〜 09/14 07:04 JST（時刻はすべて日本時間）
+生成: 2026-09-14 07:24 JST／対象: 09/13 19:24 〜 09/14 07:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/13 20:35 | 09/14 04:44 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 93 | 09/13 19:12 | 09/14 07:01 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 49 | 09/13 19:12 | 09/14 07:00 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 93 | 09/13 19:40 | 09/14 07:19 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 54 | 09/13 19:26 | 09/14 07:07 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 161 行（統合前 164 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 166 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 19:12 [FirstSquawk] Jerusalem Governorate: Israeli media blackout on settlers storming Al-Aqsa raises fears of an attempt to impose new realities.
-- 09/13 19:12 [financialjuice/FirstSquawk] South Korea industry minister: $200 billion total investment cap, $20 billion annual investment to be maintained as previously agreed with U.S.
-- 09/13 19:13 [FirstSquawk] Araqchi: The agenda for tomorrow's meeting in the Sultanate of Oman focuses on the new maritime route in the Strait of Hormuz
-- 09/13 19:14 [FirstSquawk] Araqchi: Iran's condition for reopening the Strait of Hormuz is the return of the United States to its commitments under the Islamabad Memorandum
 - 09/13 19:26 [financialjuice] Goldenmax International denies reports of products certified into Nvidia, Huawei supply chains after unusual share price moves
 - 09/13 19:26 [financialjuice] secures $5 billion through new share and convertible bond sales, filing reveals
 - 09/13 19:29 [financialjuice] Lithuania closes Vilnius airport, NATO deploys fighter jets after potential drone sighting – national crisis management centre
@@ -182,6 +178,15 @@
 - 09/14 06:16 [financialjuice] Election authority projection: Sweden's right-wing ruling bloc set to capture 174 parliamentary seats
 - 09/14 06:18 [FirstSquawk] NORTH KOREA HELD A LONG-RANGE ARTILLERY AND MISSILE DRILL ON SEPTEMBER 12 || THE DRILL INVOLVED ATTACK DRONES AND NEW BALLISTIC MISSILES, SIGNALING A BROADER SHOW OF NORTH KOREA’S STRIKE CAPABILITIES, ACCORDING TO STATE MEDIA KCNA.
 - 09/14 06:48 [FirstSquawk] HOUSE SPEAKER MIKE JOHNSON SAYS TRUMP’S PROPOSED $5,000 PAYMENT FOR EVERY AMERICAN ADULT WOULD REQUIRE CONGRESSIONAL APPROVAL, WHILE TRUMP INSISTS THE PLAN WILL HAPPEN “100%.” THE PROPOSAL COULD COST MORE THAN $1 TRILLION, ADDING TO THE U.S…
-- 09/14 06:54 [financialjuice] Elon Musk: highly confident SpaceX will launch Nvidia VR NLV72 AI computers in space next year - X post
+- 09/14 06:54 [financialjuice/FirstSquawk] Elon Musk: highly confident SpaceX will launch Nvidia VR NLV72 AI computers in space next year - X post
 - 09/14 07:00 [financialjuice] Sweden Social Democrats leader Andersson: currently leading, new government likely if results hold
 - 09/14 07:01 [FirstSquawk] BRENT CRUDE RISES 2.4% AFTER A SAUDI PIPELINE SHUTDOWN AND DELAYED HORMUZ SHIPPING TALKS RAISE CONCERNS OVER GLOBAL OIL SUPPLIES.
+- 09/14 07:06 [financialjuice] Shenzhen forms Syntron Information: 59 million H shares offered globally
+- 09/14 07:06 [financialjuice] Shenzhen establishes Syntron Information with maximum offer price HK$16.00 per H share in global offering
+- 09/14 07:06 [financialjuice] Ligent Technologies announces global offering of 172 million shares
+- 09/14 07:06 [financialjuice] Ligent Technologies announces offer price under global offering at HK$32.96 per share
+- 09/14 07:06 [financialjuice] Ligent Technologies: global offering includes 154.8 million international shares
+- 09/14 07:07 [financialjuice] Shenzhen forms Syntron Information with 53.1 million international H-share offer
+- 09/14 07:18 [FirstSquawk] SHENZHEN-BASED SYNTRON INFORMATION PLANS A GLOBAL OFFERING OF 59 MILLION H SHARES, WITH A MAXIMUM OFFER PRICE OF HK$16.00 PER H SHARE. THE OFFERING INCLUDES 53.1 MILLION INTERNATIONAL H SHARES, AS THE COMPANY MOVES FORWARD WITH ITS GLOBAL L…
+- 09/14 07:19 [FirstSquawk] US STOCK FUTURES FALL AS AI DEVELOPMENT CONCERNS AND HOTTER-THAN-EXPECTED INFLATION WEIGH ON SENTIMENT, WITH NASDAQ 100 FUTURES DOWN 1.2% AND S&P 500 FUTURES OFF 0.6%.
+- 09/14 07:19 [FirstSquawk] BRENT CRUDE JUMPS 2.8% TO $107.55 AFTER SAUDI ARABIA SHUT A KEY OIL PIPELINE FOLLOWING DRONE ATTACKS, WHILE DELAYED HORMUZ TALKS AND RISING INFLATION BOOST BETS ON A FED RATE HIKE WEDNESDAY.
