@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 22:05 JST／対象: 09/13 10:05 〜 09/13 22:05 JST（時刻はすべて日本時間）
+生成: 2026-09-13 22:23 JST／対象: 09/13 10:23 〜 09/13 22:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/13 18:12 | 09/13 22:04 | ⚠ 137分（18:17→20:35） |
-| FirstSquawk | 161 | 09/13 10:10 | 09/13 21:58 | 42分（20:10→20:53） |
-| financialjuice | 18 | 09/13 13:41 | 09/13 21:37 | ⚠ 103分（14:08→15:51） |
+| FirstSquawk | 156 | 09/13 10:23 | 09/13 21:58 | 42分（20:10→20:53） |
+| financialjuice | 28 | 09/13 13:41 | 09/13 22:15 | ⚠ 103分（14:08→15:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 183 行（統合前 186 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 188 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 10:10 [FirstSquawk] New espionage provisions come into force as Seoul moves to strengthen defenses around sensitive semiconductor technologies.
-- 09/13 10:11 [FirstSquawk] BILLIONAIRE DROPS PLANNED SALE: The billionaire confirmed that no shares changed hands after he withdrew plans to sell 50 million shares, according to WSJ.
-- 09/13 10:12 [FirstSquawk] Britain stands firmly alongside Saudi Arabia and Yemen’s recognized government against attacks, Foreign Secretary Ed Miliband says.
-- 09/13 10:21 [FirstSquawk] YEMEN CONFLICT: Three aerial attacks targeted Houthi militia sites in Taiz, Yemen’s Armed Forces report.
-- 09/13 10:22 [FirstSquawk] Three air raids targeted Houthi positions and military barracks in Al-Tabba Al-Sawda and Jabal Al-Mun’im on Taiz’s Mist Front, according to Yemen’s Armed Forces.
 - 09/13 10:23 [FirstSquawk] Warplanes conducted three strikes against Houthi militia positions and barracks on the Mist Front, according to Yemen’s Armed Forces.
 - 09/13 10:33 [FirstSquawk] INDIA IPO MOVE: Tata Sons faces pressure to go public after India’s central bank called for the conglomerate’s listing, according to FT.
 - 09/13 10:34 [FirstSquawk] BRICS CALLS FOR DE-ESCALATION: The bloc is urging diplomatic action to prevent further instability in the Gulf as war fears increase, according to FT.
@@ -207,3 +202,13 @@
 - 09/13 21:57 [FirstSquawk] International Organization for Migration: Nearly 85,000 people have been forced to leave their homes due to fighting in Yemen, and about 2,000 have arrived in Djibouti.
 - 09/13 21:58 [FirstSquawk] Iranian President: BRICS group has announced its rejection of the policy of imposing unilateral sanctions and coercive measures against countries
 - 09/13 22:04 [DeItaone] IRAN, UAE AGREE TO “PUT THE PAST ASIDE” Iranian President Masoud Pezeshkian says talks with Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed were positive, following their meeting at the BRICS summit in New Delhi. Pezeshkian said …
+- 09/13 22:10 [financialjuice] Trump on Fed decision next week: says US should have lowest rates globally
+- 09/13 22:11 [financialjuice] Trump: $5,000 post-election promise should be easy for Congress
+- 09/13 22:11 [financialjuice] Trump: I always honor my commitments
+- 09/13 22:12 [financialjuice] Trump on Iran: Iran war will wrap up perhaps before or shortly after midterms
+- 09/13 22:12 [financialjuice] Trump: Iran eager to reach a deal
+- 09/13 22:12 [financialjuice] Trump on Iran: indifferent if gulf states engage with Iran, decision is theirs
+- 09/13 22:13 [financialjuice] Trump on Ukraine: Zelenskiy must halt cutting diesel fuel supply in Russia
+- 09/13 22:13 [financialjuice] Trump on Ukraine: we discussed that with Zelenskiy
+- 09/13 22:14 [financialjuice] Trump on Irish unity: natural to unite north and south
+- 09/13 22:15 [financialjuice] Trump on Irish unity: Won't discuss Scotland for now, will address later

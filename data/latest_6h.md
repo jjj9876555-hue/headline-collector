@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 22:05 JST／対象: 09/13 16:05 〜 09/13 22:05 JST（時刻はすべて日本時間）
+生成: 2026-09-13 22:23 JST／対象: 09/13 16:23 〜 09/13 22:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/13 18:12 | 09/13 22:04 | ⚠ 137分（18:17→20:35） |
-| FirstSquawk | 68 | 09/13 16:14 | 09/13 21:58 | 42分（20:10→20:53） |
-| financialjuice | 15 | 09/13 16:41 | 09/13 21:37 | ⚠ 84分（17:48→19:12） |
+| FirstSquawk | 63 | 09/13 16:54 | 09/13 21:58 | 42分（20:10→20:53） |
+| financialjuice | 25 | 09/13 16:41 | 09/13 22:15 | ⚠ 84分（17:48→19:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 87 行（統合前 90 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 92 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 16:14 [FirstSquawk] Chinese leader pledges to help Brics nations with AI and smart manufacturing
-- 09/13 16:14 [FirstSquawk] Russia battered the Odesa region overnight and early Sunday morning with continuous strikes, damaging high-rises, private homes, and infrastructure.
-- 09/13 16:15 [FirstSquawk] Kremlin: Modi and Xi actively proposed help for Ukraine settlement, Putin welcomed their willingness
-- 09/13 16:15 [FirstSquawk] Student loans terms to be made clearer in England after MP criticism
-- 09/13 16:15 [FirstSquawk] BRICS+ format has proven its worth, Putin tells New Delhi session "This format has more than proven its worth: it opens the door to direct, candid dialogue between full-fledged BRICS members and partner countries, as well as other states an…
 - 09/13 16:41 [financialjuice] UKMTO: local officials evacuating crew of ship assaulted in Strait of Hormuz
 - 09/13 16:43 [financialjuice] Ukraine's military: oil refinery struck in Russia's Krasnodar region
 - 09/13 16:54 [FirstSquawk] A fire broke out aboard a vessel struck by an unknown projectile while transiting the Strait of Hormuz, UK Maritime Trade Operations said in an update on Sunday.
@@ -111,3 +106,13 @@
 - 09/13 21:57 [FirstSquawk] International Organization for Migration: Nearly 85,000 people have been forced to leave their homes due to fighting in Yemen, and about 2,000 have arrived in Djibouti.
 - 09/13 21:58 [FirstSquawk] Iranian President: BRICS group has announced its rejection of the policy of imposing unilateral sanctions and coercive measures against countries
 - 09/13 22:04 [DeItaone] IRAN, UAE AGREE TO “PUT THE PAST ASIDE” Iranian President Masoud Pezeshkian says talks with Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed were positive, following their meeting at the BRICS summit in New Delhi. Pezeshkian said …
+- 09/13 22:10 [financialjuice] Trump on Fed decision next week: says US should have lowest rates globally
+- 09/13 22:11 [financialjuice] Trump: $5,000 post-election promise should be easy for Congress
+- 09/13 22:11 [financialjuice] Trump: I always honor my commitments
+- 09/13 22:12 [financialjuice] Trump on Iran: Iran war will wrap up perhaps before or shortly after midterms
+- 09/13 22:12 [financialjuice] Trump: Iran eager to reach a deal
+- 09/13 22:12 [financialjuice] Trump on Iran: indifferent if gulf states engage with Iran, decision is theirs
+- 09/13 22:13 [financialjuice] Trump on Ukraine: Zelenskiy must halt cutting diesel fuel supply in Russia
+- 09/13 22:13 [financialjuice] Trump on Ukraine: we discussed that with Zelenskiy
+- 09/13 22:14 [financialjuice] Trump on Irish unity: natural to unite north and south
+- 09/13 22:15 [financialjuice] Trump on Irish unity: Won't discuss Scotland for now, will address later
