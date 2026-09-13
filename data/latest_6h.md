@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 11:32 JST／対象: 09/13 05:32 〜 09/13 11:32 JST（時刻はすべて日本時間）
+生成: 2026-09-13 11:45 JST／対象: 09/13 05:45 〜 09/13 11:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 39 | 09/13 09:35 | 09/13 11:18 | 10分（10:23→10:33） |
+| FirstSquawk | 43 | 09/13 09:35 | 09/13 11:44 | 23分（11:18→11:41） |
 | financialjuice | 2 | 09/13 10:01 | 09/13 10:01 | 0分（10:01→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 41 行（統合前 41 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 45 行（統合前 45 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -65,3 +65,7 @@
 - 09/13 11:08 [FirstSquawk] FAR RIGHT EYES POWER: Sweden holds an election that could potentially see far-right forces gain a role in government.
 - 09/13 11:17 [FirstSquawk] RUSSIA AIRSTRIKES: Russian aerial attacks have caused an estimated $10 billion in damage to Ukraine’s infrastructure and fixed assets this year.
 - 09/13 11:18 [FirstSquawk] IRAQ PRODUCTION BOOST: The Ajil oilfield is set to raise crude output to 40,000 bpd from 30,000 bpd under a new agreement, according to the prime minister’s office.
+- 09/13 11:41 [FirstSquawk] U.S. GOVERNMENT NET INTEREST PAYMENTS: 2015 fiscal year: $223 billion 2025 fiscal year: $970 billion That represents an increase of roughly 335% over the decade - spectatorindex
+- 09/13 11:42 [FirstSquawk] The Australian government vows tougher measures to ensure telecom networks can withstand future outages following the Optus incident.
+- 09/13 11:42 [FirstSquawk] AMERICAN PAYCHECKS: Inflation has overtaken wage gains again, putting renewed pressure on household incomes.
+- 09/13 11:44 [FirstSquawk] STRAIT OF HORMUZ ALERT: A fresh report of an attack on shipping in the Strait of Hormuz is fueling concerns over potential disruptions to oil supplies.
