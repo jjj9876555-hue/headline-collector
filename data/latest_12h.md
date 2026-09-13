@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 12:58 JST／対象: 09/13 00:58 〜 09/13 12:58 JST（時刻はすべて日本時間）
+生成: 2026-09-13 13:17 JST／対象: 09/13 01:17 〜 09/13 13:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/13 01:35 | 09/13 01:48 | 13分（01:35→01:48） |
-| FirstSquawk | 91 | 09/13 01:02 | 09/13 12:52 | ⚠ 366分（03:29→09:35） |
+| FirstSquawk | 91 | 09/13 01:31 | 09/13 13:15 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 23 | 09/13 01:32 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 01:02 [FirstSquawk] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 mln cubic feet/day from 135 mln — PM's office
-- 09/13 01:02 [FirstSquawk] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd - PM’s office
-- 09/13 01:09 [FirstSquawk] United Nations: At least 76,000 people have been displaced by fighting in Yemen since July
-- 09/13 01:09 [FirstSquawk] UAE affirms that there is no military solution to the conflict in Sudan and that the only viable path to achieving lasting peace is an independent, civilian-led transition free from the influence of warring parties.
-- 09/13 01:09 [FirstSquawk] Lebanese News Agency: Heavy and concentrated Israeli shelling on the "Ali Taher" heights in southern Lebanon
 - 09/13 01:31 [FirstSquawk] Lebanese News Agency: The Israeli army carries out a massive explosion operation in "Al-Qanatra" in southern Lebanon
 - 09/13 01:32 [financialjuice] Iranian source to Tasnim News Agency: Strait of Hormuz will remain closed despite the Iran-Oman agreement
 - 09/13 01:33 [financialjuice] Iranian source to Tasnim: Iran and Oman finalize details of new routes for entry and exit from Strait of Hormuz
@@ -140,3 +135,8 @@
 - 09/13 12:39 [FirstSquawk] Oil supply concerns rise as Iran and UAE leaders engage on regional de-escalation
 - 09/13 12:47 [FirstSquawk] American academic vanishes after China invitation as Trump prepares to press Xi on detainees - WSJ
 - 09/13 12:52 [FirstSquawk] Yen sentiment turns bullish as speculators build net-long positions for the first time since February
+- 09/13 12:58 [FirstSquawk] Carney eyes deeper European ties for Canada after trade negotiations with Washington break down - WSJ
+- 09/13 13:06 [FirstSquawk] HSBC warns that rising corporate taxes, renewed private-sector debt and shifting stock-bond dynamics could finally test global markets’ resilience - CNBC
+- 09/13 13:11 [FirstSquawk] Trump says the U.S. could reach a deal with Canada “fairly soon,” signaling progress toward a bilateral agreement.
+- 09/13 13:15 [FirstSquawk] China’s Xi highlights shared responsibilities with India as major Global South nations
+- 09/13 13:15 [FirstSquawk] Japanese trade representatives seek China talks as diplomatic tensions persist

@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 12:58 JST／対象: 09/12 12:58 〜 09/13 12:58 JST（時刻はすべて日本時間）
+生成: 2026-09-13 13:17 JST／対象: 09/12 13:17 〜 09/13 13:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 225 | 09/12 13:03 | 09/13 12:52 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 78 | 09/12 13:03 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
+| FirstSquawk | 225 | 09/12 13:17 | 09/13 13:15 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 76 | 09/12 15:10 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 327 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 325 行（統合前 328 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 13:03 [financialjuice] US restricts air defense windows for tankers passing through Hormuz - FT
-- 09/12 13:03 [FirstSquawk] Sweden’s Election Front-Runner Faces Growing Pressure as Race Tightens — FT Sweden’s leading candidate is facing a tighter election contest, with the race becoming increasingly competitive ahead of the vote, according to the Financial Times…
-- 09/12 13:04 [FirstSquawk] U.S. Restricts Air Defence Time Slots for Tankers Crossing Strait of Hormuz — FT The U.S. has limited the available air-defence time slots for tankers sailing through the Strait of Hormuz, according to the Financial Times. The move could ad…
-- 09/12 13:04 [financialjuice] High oil prices could prompt ECB to increase rates further: top policymaker Martin Kocher - FT
-- 09/12 13:05 [FirstSquawk] High Oil Prices Could Push ECB Toward Further Rate Hikes, Policymaker Warns — FT ECB policymaker Martin Kocher warned that persistently elevated oil prices could create enough inflationary pressure to force the European Central Bank to rais…
-- 09/12 13:09 [FirstSquawk] Financing expenses and advisers’ fees leave Thames Water facing a £2 billion bill.
-- 09/12 13:16 [FirstSquawk] Seoul moves to guard sensitive chip technology from foreign intelligence threats.
 - 09/12 13:17 [FirstSquawk] GROUND BEEF PRICES HIT RECORD HIGH IN AUGUST, DEALING FRESH BLOW TO TRUMP’S AFFORDABILITY PUSH AHEAD OF MIDTERMS Ground beef averaged $7.158/lb in August, up 0.6% from July and 7.9% YoY, marking a new record high. The move underscores the d…
 - 09/12 13:18 [FirstSquawk] European Investment in Latin American Stocks Hits 15-Year High — FT European investors have sharply increased their exposure to Latin American equities, with investment flows reaching their highest level in 15 years, according to the Financ…
 - 09/12 13:22 [FirstSquawk] Chinese Crypto Investor Identified as Seller of £190 Million London Mansion — FT A Chinese cryptocurrency investor was behind the sale of a £190 million London mansion, according to the Financial Times. The transaction ranks among the city’…
@@ -351,3 +344,8 @@
 - 09/13 12:39 [FirstSquawk] Oil supply concerns rise as Iran and UAE leaders engage on regional de-escalation
 - 09/13 12:47 [FirstSquawk] American academic vanishes after China invitation as Trump prepares to press Xi on detainees - WSJ
 - 09/13 12:52 [FirstSquawk] Yen sentiment turns bullish as speculators build net-long positions for the first time since February
+- 09/13 12:58 [FirstSquawk] Carney eyes deeper European ties for Canada after trade negotiations with Washington break down - WSJ
+- 09/13 13:06 [FirstSquawk] HSBC warns that rising corporate taxes, renewed private-sector debt and shifting stock-bond dynamics could finally test global markets’ resilience - CNBC
+- 09/13 13:11 [FirstSquawk] Trump says the U.S. could reach a deal with Canada “fairly soon,” signaling progress toward a bilateral agreement.
+- 09/13 13:15 [FirstSquawk] China’s Xi highlights shared responsibilities with India as major Global South nations
+- 09/13 13:15 [FirstSquawk] Japanese trade representatives seek China talks as diplomatic tensions persist
