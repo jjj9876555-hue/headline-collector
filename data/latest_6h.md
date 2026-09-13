@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 15:47 JST／対象: 09/13 09:47 〜 09/13 15:47 JST（時刻はすべて日本時間）
+生成: 2026-09-13 15:59 JST／対象: 09/13 09:59 〜 09/13 15:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 104 | 09/13 09:47 | 09/13 15:32 | 23分（11:18→11:41） |
-| financialjuice | 4 | 09/13 10:01 | 09/13 14:08 | ⚠ 220分（10:01→13:41） |
+| FirstSquawk | 97 | 09/13 10:01 | 09/13 15:32 | 23分（11:18→11:41） |
+| financialjuice | 5 | 09/13 10:01 | 09/13 15:51 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 108 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 09:47 [FirstSquawk] BIG LAW SHAKE-UP: Cravath is gaining Weil Gotshal’s highest-paid partner, with the move exposing divergent approaches to growth across the legal industry, according to WSJ.
-- 09/13 09:49 [FirstSquawk] AI DEVELOPMENT: Russia rejects calls to decelerate AI progress, saying the technology’s development cannot be slowed.
-- 09/13 09:50 [FirstSquawk] U.S. CORPORATE PROFITS: American companies are generating their highest-ever profits, CNBC reports.
-- 09/13 09:51 [FirstSquawk] U.S.-CHINA TENSIONS: Beijing warned Washington that new U.S. weapons deals with Taiwan could lead to the cancellation of a planned Trump-Xi summit.
-- 09/13 09:52 [FirstSquawk] WARMTH DELAYS FALL: Prolonged warm conditions are set to postpone Japan’s autumn foliage in several regions, with Hokkaido forecast to see peak colors in early November before Tokyo follows weeks later.
-- 09/13 09:53 [FirstSquawk] TRUMP PRAISES BORDER POLICY: The president says illegal crossings and sea-based drug trafficking have declined under his administration, as he renews criticism of the previous administration’s immigration policies.
-- 09/13 09:54 [FirstSquawk] ALTman ON IPO: OpenAI will not move toward an IPO this year, CEO Sam Altman says, pointing to the broader challenges surrounding AI safety.
 - 09/13 10:01 [financialjuice] Ukmto: Vessel hit by unidentified projectile while passing Strait of Hormuz
 - 09/13 10:01 [FirstSquawk] U.S.-CHINA AI RACE: Trump plays down concerns about AI’s potential dangers while pushing to keep the U.S. ahead of China in the technology race.
 - 09/13 10:01 [financialjuice] Ukmto: status of crew, damage assessment and environmental impact currently unknown
@@ -132,3 +125,4 @@
 - 09/13 15:32 [FirstSquawk] Donald Trump turns his focus to golf and promoting his business interests as he wraps up a visit to Ireland on Sunday
 - 09/13 15:32 [FirstSquawk] Chubu Electric Power Co.’s top two executives are set to step down over the falsification of safety data used in regulatory reviews to restart some of its nuclear reactors
 - 09/13 15:32 [FirstSquawk] Iranian President Masoud Pezeshkian meets Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan on the sidelines of the BRICS Summit
+- 09/13 15:51 [financialjuice] Kremlin: Modi and Xi actively proposed help for Ukraine settlement, Putin welcomed their willingness - TASS
