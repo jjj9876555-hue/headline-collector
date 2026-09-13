@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 23:32 JST／対象: 09/13 11:32 〜 09/13 23:32 JST（時刻はすべて日本時間）
+生成: 2026-09-13 23:44 JST／対象: 09/13 11:44 〜 09/13 23:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 16 | 09/13 18:12 | 09/13 22:47 | ⚠ 137分（18:17→20:35） |
-| FirstSquawk | 153 | 09/13 11:41 | 09/13 23:27 | ⚠ 48分（21:58→22:46） |
+| FirstSquawk | 150 | 09/13 11:44 | 09/13 23:27 | ⚠ 48分（21:58→22:46） |
 | financialjuice | 29 | 09/13 13:41 | 09/13 22:36 | ⚠ 103分（14:08→15:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 194 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 191 行（統合前 195 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 11:41 [FirstSquawk] U.S. GOVERNMENT NET INTEREST PAYMENTS: 2015 fiscal year: $223 billion 2025 fiscal year: $970 billion That represents an increase of roughly 335% over the decade - spectatorindex
-- 09/13 11:42 [FirstSquawk] The Australian government vows tougher measures to ensure telecom networks can withstand future outages following the Optus incident.
-- 09/13 11:42 [FirstSquawk] AMERICAN PAYCHECKS: Inflation has overtaken wage gains again, putting renewed pressure on household incomes.
 - 09/13 11:44 [FirstSquawk] STRAIT OF HORMUZ ALERT: A fresh report of an attack on shipping in the Strait of Hormuz is fueling concerns over potential disruptions to oil supplies.
 - 09/13 11:46 [FirstSquawk] AI WORKFORCE CHALLENGE: Peru’s candidate for ILO director-general says he will focus on managing the growing impact of AI on jobs and the future of work.
 - 09/13 11:46 [FirstSquawk] IRAN-U.S. TENSIONS: Iranian President Pezeshkian says Tehran will not bow to U.S. pressure as Indian Prime Minister Modi calls for dialogue and peace.
