@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 06:51 JST／対象: 09/14 00:51 〜 09/14 06:51 JST（時刻はすべて日本時間）
+生成: 2026-09-14 07:04 JST／対象: 09/14 01:04 〜 09/14 07:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/14 01:15 | 09/14 04:44 | ⚠ 78分（02:47→04:05） |
-| FirstSquawk | 45 | 09/14 01:12 | 09/14 06:48 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 25 | 09/14 02:46 | 09/14 06:16 | ⚠ 52分（04:46→05:39） |
+| FirstSquawk | 46 | 09/14 01:12 | 09/14 07:01 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 27 | 09/14 02:46 | 09/14 07:00 | ⚠ 52分（04:46→05:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 77 行（統合前 78 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 80 行（統合前 81 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -101,3 +101,6 @@
 - 09/14 06:16 [financialjuice] Election authority projection: Sweden's right-wing ruling bloc set to capture 174 parliamentary seats
 - 09/14 06:18 [FirstSquawk] NORTH KOREA HELD A LONG-RANGE ARTILLERY AND MISSILE DRILL ON SEPTEMBER 12 || THE DRILL INVOLVED ATTACK DRONES AND NEW BALLISTIC MISSILES, SIGNALING A BROADER SHOW OF NORTH KOREA’S STRIKE CAPABILITIES, ACCORDING TO STATE MEDIA KCNA.
 - 09/14 06:48 [FirstSquawk] HOUSE SPEAKER MIKE JOHNSON SAYS TRUMP’S PROPOSED $5,000 PAYMENT FOR EVERY AMERICAN ADULT WOULD REQUIRE CONGRESSIONAL APPROVAL, WHILE TRUMP INSISTS THE PLAN WILL HAPPEN “100%.” THE PROPOSAL COULD COST MORE THAN $1 TRILLION, ADDING TO THE U.S…
+- 09/14 06:54 [financialjuice] Elon Musk: highly confident SpaceX will launch Nvidia VR NLV72 AI computers in space next year - X post
+- 09/14 07:00 [financialjuice] Sweden Social Democrats leader Andersson: currently leading, new government likely if results hold
+- 09/14 07:01 [FirstSquawk] BRENT CRUDE RISES 2.4% AFTER A SAUDI PIPELINE SHUTDOWN AND DELAYED HORMUZ SHIPPING TALKS RAISE CONCERNS OVER GLOBAL OIL SUPPLIES.
