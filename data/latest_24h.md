@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 10:46 JST／対象: 09/12 10:46 〜 09/13 10:46 JST（時刻はすべて日本時間）
+生成: 2026-09-13 10:58 JST／対象: 09/12 10:58 〜 09/13 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 216 | 09/12 10:46 | 09/13 10:45 | ⚠ 366分（03:29→09:35） |
+| FirstSquawk | 213 | 09/12 11:02 | 09/13 10:57 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 78 | 09/12 13:03 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 318 行（統合前 321 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 315 行（統合前 318 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 10:46 [FirstSquawk] Hamaoka nuclear plant’s restart applications in Japan to be pulled - kyodo
-- 09/12 10:48 [FirstSquawk] President Donald Trump’s promised $5,000 “dividend” for all U.S. adults would not be paid for with taxpayer dollars, Commerce Secretary Howard Lutnick said Thursday. “It’s not tax money,” Lutnick told NBC News in a wide-ranging interview at…
-- 09/12 10:50 [FirstSquawk] AI-POWERED WORM COULD HACK AND SELF-PROPAGATE ACROSS WECHAT ACCOUNTS, NYT REPORTS
-- 09/12 10:52 [FirstSquawk] Tamron Weighs Sony Bid as Chinese Rivals Intensify Pressure Japan’s Tamron is considering a potential offer from Sony as competition from Chinese lens makers grows, with the mid-sized manufacturer benefiting from strong returns on equity an…
-- 09/12 10:54 [FirstSquawk] Waymo Self-Driving Cars Reportedly 9x Safer Than Human Drivers as per polymarket. An analysis of 25.3 million autonomous miles found Waymo vehicles were roughly 900% safer than human drivers.
-- 09/12 10:58 [FirstSquawk] SERENA-4 trial of AstraZeneca’s etcamah combination falls short of its primary endpoint, with no new safety concerns.
 - 09/12 11:02 [FirstSquawk] S&P Sees Saudi Oil Output Rising in 2027, But Below 12.3 Mln Bpd Capacity S&P expects Saudi Arabia’s oil production to increase in 2027, though output is projected to remain well below the kingdom’s reported maximum feasible capacity of 12.…
 - 09/12 11:04 [FirstSquawk] U.S. STUDENT DEBT EXPLODES TO $1.86 TRILLION
 - 09/12 11:04 [FirstSquawk] Riyadh pauses plans for retaliation after Iraq PM urges restraint, Saudi foreign ministry says.
@@ -342,3 +336,6 @@
 - 09/13 10:44 [FirstSquawk] FAKE DONATION CLAIM: A Chinese social media personality faces scrutiny after a purported US$150,000 flood contribution turned out to amount to only 15 cents, according to the Red Cross.
 - 09/13 10:45 [FirstSquawk] EXPLOSION UNDER INVESTIGATION: Bulgarian officials are examining the cause of an explosion at a weapons storage facility.
 - 09/13 10:45 [FirstSquawk] CHINA WARNS US: Beijing urges Washington to cease its intelligence-gathering operations and criticizes the U.S. over its alleged “gangster logic.”
+- 09/13 10:55 [FirstSquawk] NORTH KOREA CONSUMER SHIFT: Kim Jong-un is introducing new channels aimed at encouraging domestic spending among citizens.
+- 09/13 10:56 [FirstSquawk] Tehran will share details of the Iran-Oman talks and key decisions with Gulf Cooperation Council states, according to an Iranian source cited by Tasnim.
+- 09/13 10:57 [FirstSquawk] IRAN REJECTS US PRESSURE: Tehran will keep the southern route shut despite Washington’s demands for its reopening, an Iranian source tells Tasnim.

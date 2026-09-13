@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 10:46 JST／対象: 09/13 04:46 〜 09/13 10:46 JST（時刻はすべて日本時間）
+生成: 2026-09-13 10:58 JST／対象: 09/13 04:58 〜 09/13 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 31 | 09/13 09:35 | 09/13 10:45 | 10分（10:23→10:33） |
+| FirstSquawk | 34 | 09/13 09:35 | 09/13 10:57 | 10分（10:23→10:33） |
 | financialjuice | 3 | 09/13 05:05 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 34 行（統合前 34 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 37 行（統合前 37 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -58,3 +58,6 @@
 - 09/13 10:44 [FirstSquawk] FAKE DONATION CLAIM: A Chinese social media personality faces scrutiny after a purported US$150,000 flood contribution turned out to amount to only 15 cents, according to the Red Cross.
 - 09/13 10:45 [FirstSquawk] EXPLOSION UNDER INVESTIGATION: Bulgarian officials are examining the cause of an explosion at a weapons storage facility.
 - 09/13 10:45 [FirstSquawk] CHINA WARNS US: Beijing urges Washington to cease its intelligence-gathering operations and criticizes the U.S. over its alleged “gangster logic.”
+- 09/13 10:55 [FirstSquawk] NORTH KOREA CONSUMER SHIFT: Kim Jong-un is introducing new channels aimed at encouraging domestic spending among citizens.
+- 09/13 10:56 [FirstSquawk] Tehran will share details of the Iran-Oman talks and key decisions with Gulf Cooperation Council states, according to an Iranian source cited by Tasnim.
+- 09/13 10:57 [FirstSquawk] IRAN REJECTS US PRESSURE: Tehran will keep the southern route shut despite Washington’s demands for its reopening, an Iranian source tells Tasnim.
