@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 04:52 JST／対象: 09/13 16:52 〜 09/14 04:52 JST（時刻はすべて日本時間）
+生成: 2026-09-14 05:06 JST／対象: 09/13 17:06 〜 09/14 05:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/13 18:12 | 09/14 04:44 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 117 | 09/13 16:54 | 09/14 04:48 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 46 | 09/13 16:55 | 09/14 04:46 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 109 | 09/13 17:14 | 09/14 04:48 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 43 | 09/13 17:25 | 09/14 04:46 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 182 行（統合前 187 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 171 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 16:54 [FirstSquawk] A fire broke out aboard a vessel struck by an unknown projectile while transiting the Strait of Hormuz, UK Maritime Trade Operations said in an update on Sunday.
-- 09/13 16:54 [FirstSquawk] EU’s cybersecurity teams have used some of the most powerful AI models coming out of Silicon Valley to spot weaknesses in the bloc’s own digital systems.
-- 09/13 16:55 [financialjuice] Guangdong Goworld denies market rumor about high-frequency boards passing Nvidia certification after unusual share price moves
-- 09/13 16:56 [FirstSquawk] Ukraine is better prepared for winter energy strikes than last year, PM Serhii Koretskyi said at YES 2026. The strategy centers on decentralizing regional power and utility grids.
-- 09/13 16:56 [FirstSquawk] Modi and Xi volunteer mediation efforts on Ukraine to Putin “During their bilateral meetings, Modi and Xi took a keen interest in the Ukraine settlement and actively offered their good offices to help find a solution,” Kremlin spokesman Dmi…
-- 09/13 16:57 [FirstSquawk] Putin welcomed this readiness and gave the leaders detailed information on the situation regarding Ukraine, Peskov added
-- 09/13 16:57 [FirstSquawk] Donald Trump turns focus to golf at Doonbeg after Irish unity comments
-- 09/13 16:57 [FirstSquawk] US and Israeli attacks on Iran’s nuclear facilities were the main reason Tehran refused to grant the International Atomic Energy Agency access to some sites, a Foreign Ministry official said on Sunday.
-- 09/13 16:58 [FirstSquawk] Russian Foreign Minister Lavrov and Chinese Foreign Minister Wang Yi spend time with Araghchi at the BRICS Summit This just shows how closely Iran, Russia, and China are cooperating
-- 09/13 16:58 [financialjuice] into Nvidia, Huawei supply chains after unusual stock price shifts
-- 09/13 16:58 [financialjuice] Goldenmax International refutes claims of product certification
 - 09/13 17:14 [FirstSquawk] Benchmarking and bonuses: why Singapore pays its politicians like bankers
 - 09/13 17:15 [FirstSquawk] Iranian President Masoud Pezeshkian visited the Iranian Hall, dating back to the reign of Fath-Ali Shah Qajar, at India’s Presidential Palace.
 - 09/13 17:15 [FirstSquawk] Speculators turn net long on yen for first time since February

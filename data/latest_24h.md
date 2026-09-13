@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 04:52 JST／対象: 09/13 04:52 〜 09/14 04:52 JST（時刻はすべて日本時間）
+生成: 2026-09-14 05:06 JST／対象: 09/13 05:06 〜 09/14 05:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/13 18:12 | 09/14 04:44 | ⚠ 147分（22:47→01:15） |
 | FirstSquawk | 234 | 09/13 09:35 | 09/14 04:48 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 54 | 09/13 05:05 | 09/14 04:46 | ⚠ 295分（05:05→10:01） |
+| financialjuice | 53 | 09/13 10:01 | 09/14 04:46 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 307 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 306 行（統合前 311 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 05:05 [financialjuice] ECB releases media interview with Quest-France
 - 09/13 09:35 [FirstSquawk] Sony’s move to discontinue physical PlayStation game releases triggers backlash over digital ownership. Consumer rights groups in the UK and Mexico warn that the decision could undermine buyer choice.
 - 09/13 09:36 [FirstSquawk] Anthropic chief executive Dario Amodei urges AI firms to intentionally moderate the speed of artificial intelligence advancement.
 - 09/13 09:38 [FirstSquawk] Seven retirees who settled in tax-friendly states reveal how the move affected their wealth, reduced their tax burdens, exposed unforeseen costs and transformed their daily lives - WSJ
