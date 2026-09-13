@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 13:33 JST／対象: 09/13 07:33 〜 09/13 13:33 JST（時刻はすべて日本時間）
+生成: 2026-09-13 13:45 JST／対象: 09/13 07:45 〜 09/13 13:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 76 | 09/13 09:35 | 09/13 13:30 | 23分（11:18→11:41） |
-| financialjuice | 2 | 09/13 10:01 | 09/13 10:01 | 0分（10:01→10:01） |
+| FirstSquawk | 79 | 09/13 09:35 | 09/13 13:42 | 23分（11:18→11:41） |
+| financialjuice | 3 | 09/13 10:01 | 09/13 13:41 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 78 行（統合前 78 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 82 行（統合前 82 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -102,3 +102,7 @@
 - 09/13 13:23 [FirstSquawk] Four arrested after Jordan’s Northern Military Region blocks attempted infiltration
 - 09/13 13:29 [FirstSquawk] Paris and Beirut call for the UN peacekeeping mission in Lebanon to be extended, keeping international forces in place amid ongoing regional tensions. The push highlights continued concerns over stability and security along Lebanon’s border…
 - 09/13 13:30 [FirstSquawk] CVC faces growing shareholder opposition over its €10.7 billion plan to take Recordati private - FT The revolt could complicate the deal, highlighting investor concerns over the valuation and terms of the proposed buyout.
+- 09/13 13:33 [FirstSquawk] Musk’s undisclosed financial backer has amassed a $40 billion stake in SpaceX. The investment underscores the growing influence of major private investors in the valuation and ownership of Elon Musk’s space company.
+- 09/13 13:40 [FirstSquawk] German defence start-up turns to automakers for support as Europe accelerates efforts to rebuild and expand its military strength. The push reflects growing demand for industrial capacity as European nations step up defence spending and rea…
+- 09/13 13:41 [financialjuice] Iranian commercial ship hit near Qeshm Island: one dead and three injured - state TV
+- 09/13 13:42 [FirstSquawk] Commercial vessel incident near Iran’s Qeshm Island leaves one dead and three injured
