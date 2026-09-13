@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 04:02 JST／対象: 09/13 16:02 〜 09/14 04:02 JST（時刻はすべて日本時間）
+生成: 2026-09-14 04:17 JST／対象: 09/13 16:17 〜 09/14 04:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/13 18:12 | 09/14 02:47 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 104 | 09/13 16:14 | 09/14 03:41 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 41 | 09/13 16:41 | 09/14 04:00 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 22 | 09/13 18:12 | 09/14 04:05 | ⚠ 147分（22:47→01:15） |
+| FirstSquawk | 99 | 09/13 16:54 | 09/14 03:41 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 43 | 09/13 16:41 | 09/14 04:07 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 160 行（統合前 164 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 16:14 [FirstSquawk] Chinese leader pledges to help Brics nations with AI and smart manufacturing
-- 09/13 16:14 [FirstSquawk] Russia battered the Odesa region overnight and early Sunday morning with continuous strikes, damaging high-rises, private homes, and infrastructure.
-- 09/13 16:15 [FirstSquawk] Kremlin: Modi and Xi actively proposed help for Ukraine settlement, Putin welcomed their willingness
-- 09/13 16:15 [FirstSquawk] Student loans terms to be made clearer in England after MP criticism
-- 09/13 16:15 [FirstSquawk] BRICS+ format has proven its worth, Putin tells New Delhi session "This format has more than proven its worth: it opens the door to direct, candid dialogue between full-fledged BRICS members and partner countries, as well as other states an…
 - 09/13 16:41 [financialjuice] UKMTO: local officials evacuating crew of ship assaulted in Strait of Hormuz
 - 09/13 16:43 [financialjuice] Ukraine's military: oil refinery struck in Russia's Krasnodar region
 - 09/13 16:54 [FirstSquawk] A fire broke out aboard a vessel struck by an unknown projectile while transiting the Strait of Hormuz, UK Maritime Trade Operations said in an update on Sunday.
@@ -186,3 +181,6 @@
 - 09/14 03:41 [FirstSquawk] U.S. HOUSE SPEAKER MIKE JOHNSON SAYS ON IRAN THAT 'THE IRANIANS ARE NOT TRUSTWORTHY NEGOTIATING PARTNERS', ACCUSING THEM OF LYING 'EVERY DAY' AND SITTING AT THE TABLE TO 'TELL YOU ONE THING, DO THE OPPOSITE', ADDING THAT 'FOR SOME OF THEM, …
 - 09/14 03:52 [financialjuice] Trump: will consider releasing additional records related to 9/11 attacks
 - 09/14 04:00 [financialjuice] Canada aims for Ukraine loan role to strengthen EU relations - FT
+- 09/14 04:05 [DeItaone] TRUMP SAYS HE WILL LOOK AT WHETHER TO RELEASE MORE RECORDS LINKED TO 9/11 ATTACKS
+- 09/14 04:07 [financialjuice] Oman's foreign minister: regional meeting scheduled for tomorrow in Salalah postponed in the interest of consensus
+- 09/14 04:07 [financialjuice] Oman's foreign minister: We remain committed to fostering dialogue that supports stability and lasting cooperation in the region
