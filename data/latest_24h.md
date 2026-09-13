@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 09:07 JST／対象: 09/12 09:07 〜 09/13 09:07 JST（時刻はすべて日本時間）
+生成: 2026-09-13 09:32 JST／対象: 09/12 09:32 〜 09/13 09:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 241 | 09/12 09:07 | 09/13 03:29 | ⚠ 114分（16:00→17:55） |
+| FirstSquawk | 229 | 09/12 09:40 | 09/13 03:29 | ⚠ 114分（16:00→17:55） |
 | financialjuice | 78 | 09/12 10:02 | 09/13 05:05 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 343 行（統合前 346 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 331 行（統合前 334 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 09:07 [FirstSquawk] Japan’s autumn foliage season is expected to begin later than usual in some areas as warmer weather persists, with peak colors forecast for Hokkaido in early November and Tokyo several weeks later.
-- 09/12 09:08 [FirstSquawk] Flooding deals a setback to Nepal’s efforts to expand trade with China, reinforcing its dependence on India as costly infrastructure upgrades are needed to reopen and strengthen a key border crossing with Tibet.
-- 09/12 09:09 [FirstSquawk] Baghdad announces the shutdown of the Shalamcheh frontier point connecting Iraq and Iran, Reuters reports.
-- 09/12 09:11 [FirstSquawk] Congo’s Ebola outbreak has surpassed 7,000 reported infections as transmission expands into another province.
-- 09/12 09:19 [FirstSquawk] Oracle chairman Larry Ellison intends to offload as much as $7.5 billion of his holdings in the company.
-- 09/12 09:20 [FirstSquawk] With diesel prices topping $6, rising fuel costs are raising concerns over broader economic pressure beyond the pump - WSJ
-- 09/12 09:21 [FirstSquawk] US official says the three-way arrangement involving Israel and Lebanon remains the sole viable mechanism.
-- 09/12 09:22 [FirstSquawk] US official says Israeli and Lebanese envoys are set to hold talks at the State Department in Washington next week.
-- 09/12 09:23 [FirstSquawk] Saudi Civil Defense announces that the security alert in Khamis Mushait has been lifted, with the immediate threat now considered cleared.
-- 09/12 09:31 [FirstSquawk] Wall Street closed up as oil prices slid, while firm consumer price data boosted bets that the Fed will hike rates next week to rein in inflation.
-- 09/12 09:31 [FirstSquawk] Xi sets out for India with the BRICS summit dominated by conflict.
-- 09/12 09:32 [FirstSquawk] Boeing engineers face a contract deadline on October 6.
 - 09/12 09:40 [FirstSquawk] Seoul’s NSC holds an urgent security review after North Korea launches short-range ballistic missiles.
 - 09/12 09:41 [FirstSquawk] Trump: I’m open to Chinese automakers building vehicles at U.S. plants.
 - 09/12 09:44 [FirstSquawk] Petrobras collects two payments totaling 2.54 billion reais linked to Brazil’s diesel subsidy initiative.

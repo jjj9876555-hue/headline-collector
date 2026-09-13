@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 09:07 JST／対象: 09/13 03:07 〜 09/13 09:07 JST（時刻はすべて日本時間）
+生成: 2026-09-13 09:32 JST／対象: 09/13 03:32 〜 09/13 09:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 6 | 09/13 03:18 | 09/13 03:29 | 9分（03:18→03:27） |
-| financialjuice | 9 | 09/13 03:11 | 09/13 05:05 | ⚠ 67分（03:58→05:05） |
+| FirstSquawk | 0 | - | - | - |
+| financialjuice | 3 | 09/13 03:57 | 09/13 05:05 | ⚠ 67分（03:58→05:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 15 行（統合前 15 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 3 行（統合前 3 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 03:11 [financialjuice] Danger passed in Khamis Mushait: Saudi civil defence
-- 09/13 03:12 [financialjuice] Danger has passed in Abha: Saudi civil defence
-- 09/13 03:13 [financialjuice] UK foreign secretary Ed Miliband: spoke with Saudi counterpart
-- 09/13 03:13 [financialjuice] Minister to discuss Houthi aggression in Yemen and attacks on Saudi Arabia
-- 09/13 03:14 [financialjuice] UK foreign secretary Ed Miliband: UK stands firmly with Saudi Arabia and internationally recognized Yemen government against attacks
-- 09/13 03:14 [financialjuice] UK foreign secretary Ed Miliband: discussed Houthi aggression in Yemen and attacks on Saudi Arabia with Saudi foreign minister
-- 09/13 03:18 [FirstSquawk] Saudi Civil Defense: Alert issued in Khamis Mushait and Abha to warn of danger
-- 09/13 03:18 [FirstSquawk] Iranian News Agency: Two explosions heard from the sea off Qeshm Island in Hormozgan province, southern Iran
-- 09/13 03:18 [FirstSquawk] Saudi Civil Defense: Danger has passed in Khamis Mushait and Abha.
-- 09/13 03:27 [FirstSquawk] Iranian media: Two explosions heard on Qeshm Island from the sea.
-- 09/13 03:28 [FirstSquawk] UK foreign secretary Ed Miliband Says UK stands firmly with Saudi Arabia and internationally recognized Yemen government against attacks
-- 09/13 03:29 [FirstSquawk] UK foreign secretary Ed Miliband Says discussed Houthi aggression in Yemen and attacks on Saudi Arabia with Saudi foreign minister
 - 09/13 03:57 [financialjuice] Projectile wounds two in Saudi Arabia's Jizan: Saudi civil defence
 - 09/13 03:58 [financialjuice] Projectile from Yemen's Houthis causes material damage to mosque, buildings, vehicles: Saudi civil defence
 - 09/13 05:05 [financialjuice] ECB releases media interview with Quest-France
