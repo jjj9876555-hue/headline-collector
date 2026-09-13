@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 22:49 JST／対象: 09/13 10:49 〜 09/13 22:49 JST（時刻はすべて日本時間）
+生成: 2026-09-13 22:59 JST／対象: 09/13 10:59 〜 09/13 22:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 16 | 09/13 18:12 | 09/13 22:47 | ⚠ 137分（18:17→20:35） |
-| FirstSquawk | 159 | 09/13 10:55 | 09/13 22:48 | ⚠ 48分（21:58→22:46） |
+| FirstSquawk | 156 | 09/13 11:07 | 09/13 22:48 | ⚠ 48分（21:58→22:46） |
 | financialjuice | 29 | 09/13 13:41 | 09/13 22:36 | ⚠ 103分（14:08→15:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 200 行（統合前 204 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 197 行（統合前 201 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 10:55 [FirstSquawk] NORTH KOREA CONSUMER SHIFT: Kim Jong-un is introducing new channels aimed at encouraging domestic spending among citizens.
-- 09/13 10:56 [FirstSquawk] Tehran will share details of the Iran-Oman talks and key decisions with Gulf Cooperation Council states, according to an Iranian source cited by Tasnim.
-- 09/13 10:57 [FirstSquawk] IRAN REJECTS US PRESSURE: Tehran will keep the southern route shut despite Washington’s demands for its reopening, an Iranian source tells Tasnim.
 - 09/13 11:07 [FirstSquawk] India and China are gradually easing tensions following a period of conflict and strained relations, Reuters reports.
 - 09/13 11:07 [FirstSquawk] SAUDI SECURITY CHALLENGE: Saudi Arabia is confronting mounting pressure from Iran and allied forces as its strategic choices narrow, according to Politico.
 - 09/13 11:08 [FirstSquawk] FAR RIGHT EYES POWER: Sweden holds an election that could potentially see far-right forces gain a role in government.
