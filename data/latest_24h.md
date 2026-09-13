@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 20:43 JST／対象: 09/12 20:43 〜 09/13 20:43 JST（時刻はすべて日本時間）
+生成: 2026-09-13 20:58 JST／対象: 09/12 20:58 〜 09/13 20:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/12 21:50 | 09/13 20:35 | ⚠ 984分（01:48→18:12） |
-| FirstSquawk | 242 | 09/12 20:51 | 09/13 20:10 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 61 | 09/12 20:51 | 09/13 19:54 | ⚠ 295分（05:05→10:01） |
+| FirstSquawk | 235 | 09/12 21:12 | 09/13 20:54 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 60 | 09/12 21:43 | 09/13 19:54 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 309 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 301 行（統合前 305 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 20:51 [financialjuice] Nigel Farage's Reform UK party secures second £36 million contribution - Telegraph
-- 09/12 20:51 [FirstSquawk] TRUMP SAYS UK MUST BRING BACK CRIMINAL IMMIGRANTS, JUST LIKE THE US.
-- 09/12 20:52 [FirstSquawk] TRUMP QUESTIONS NATO SUPPORT: “WHY ARE WE HELPING THEM? MORE DETAILS TO COME.”
-- 09/12 20:52 [FirstSquawk] TRUMP CRITICIZES EUROPE'S TRADE, ENERGY, AND IMMIGRATION POLICIES.
-- 09/12 20:53 [FirstSquawk] BRICS SHOWS STRONG CONCERN ABOUT RISING MIDEAST TENSIONS.
-- 09/12 20:53 [FirstSquawk] BRICS MEMBERS URGE FOR UPGRADED RESTRAINT AND TO PREVENT ESCALATING ACTIONS.
-- 09/12 20:53 [FirstSquawk] BRICS RAISES 'SERIOUS CONCERN' ABOUT ATTACKS ON CIVILIAN INFRASTRUCTURE.
-- 09/12 20:53 [FirstSquawk] BRICS EXPRESSES CONCERN ABOUT ATTACKS ON SAFE NUCLEAR PLANTS.
-- 09/12 20:54 [FirstSquawk] BRICS URGES GROWTH IN LOCAL CURRENCY FUNDING.
-- 09/12 20:54 [FirstSquawk] BRICS URGES CHANGES IN GLOBAL ECONOMIC MANAGEMENT.
-- 09/12 20:54 [FirstSquawk] BRICS EXPRESSES CONCERN ABOUT UNILATERAL TARIFFS AND NON-TARIFF MEASURES.
-- 09/12 20:54 [FirstSquawk] BRICS STRONGLY OPPOSES UNILATERAL AND SECONDARY SANCTIONS.
-- 09/12 20:54 [FirstSquawk] REFORM UK RECEIVES ANOTHER £36M DONATION WITHIN TWO DAYS, REPORTS TELEGRAPH.
 - 09/12 21:12 [FirstSquawk] Lebanese President: Israel's withdrawal, return of prisoners, and reconstruction are constants that the state is committed to implementing
 - 09/12 21:14 [FirstSquawk] Yemeni government forces: We targeted dozens of Houthi tugs loaded with weapons in the north Taiz
 - 09/12 21:14 [FirstSquawk] Lebanese Army Commander: We have not left Nabatieh or any town where there are still citizens, and we hope to liberate the rest of the towns and we will be stationed in them
@@ -333,3 +320,8 @@
 - 09/13 20:10 [FirstSquawk] Lithuania closes Vilnius airport and NATO sends fighter jets after possible drone sighting in Lithuanian airspace
 - 09/13 20:10 [FirstSquawk] Israeli artillery shelling targets the vicinity of the town of Beit Jinn, southwest of Damascus countryside.
 - 09/13 20:35 [DeItaone] CANADA EXPLORES “ASSOCIATE MEMBERSHIP” WITH EU Canadian Prime Minister Mark Carney is exploring closer integration with the EU, including a potential new “associate member” status, the Wall Street Journal reports. Canada and the EU are repo…
+- 09/13 20:53 [FirstSquawk] Iraq: Arrest warrant issued for Iraqi suspect Omid Haji Ahmed on charges of financing terrorism and money laundering
+- 09/13 20:53 [FirstSquawk] Iraq: Accused Omid Haji Ahmad is on US sanctions lists for smuggling Iranian oil.
+- 09/13 20:53 [FirstSquawk] Yemeni Armed Forces: We destroyed equipment, gatherings, and elements of the Houthi militia in the "kill box" in Dhubab and Mocha.
+- 09/13 20:53 [FirstSquawk] Poland: A Russian drone struck a train bound for Warsaw; no injuries reported
+- 09/13 20:54 [FirstSquawk] Saudi Crown Prince and the Pakistani Prime Minister discuss regional developments in a phone call.

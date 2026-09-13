@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 20:43 JST／対象: 09/13 14:43 〜 09/13 20:43 JST（時刻はすべて日本時間）
+生成: 2026-09-13 20:58 JST／対象: 09/13 14:58 〜 09/13 20:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/13 18:12 | 09/13 20:35 | ⚠ 137分（18:17→20:35） |
-| FirstSquawk | 71 | 09/13 14:44 | 09/13 20:10 | 41分（15:32→16:14） |
+| FirstSquawk | 66 | 09/13 14:58 | 09/13 20:54 | 42分（20:10→20:53） |
 | financialjuice | 13 | 09/13 15:51 | 09/13 19:54 | ⚠ 84分（17:48→19:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 84 行（統合前 87 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 79 行（統合前 82 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 14:44 [FirstSquawk] North Carolina GOP Senate candidate’s rally features opening prayer from convicted sex offender, AP reports
-- 09/13 14:45 [FirstSquawk] Serbia’s Vucic inspects China-built expressway as major transport project advances
-- 09/13 14:46 [FirstSquawk] The U.S. government’s $166 billion tariff refund program is now tapering off sharply
-- 09/13 14:46 [FirstSquawk] Saudi Arabia shuts a major oil pipeline following a series of attacks. The disruption raises fresh concerns over regional energy security and the potential impact on global crude supply.
-- 09/13 14:47 [FirstSquawk] German city loses legal battle with Samsung over a 665-tablet contract, in a case with wider implications for the tech giant
-- 09/13 14:47 [FirstSquawk] Russia’s Tatarstan reports deadly drone attack, with two killed and 12 wounded
-- 09/13 14:48 [FirstSquawk] Email scam exposes limited Revolut customer data, company says
-- 09/13 14:48 [FirstSquawk] Tokyo is tightening restrictions on Airbnb-style short-term rentals as complaints from residents surge across districts including Shinjuku. The tougher rules signal a growing push to curb the impact of short-term stays on local communities …
-- 09/13 14:49 [FirstSquawk] Fujitsu prepares AI chip exports to the U.S. and Asia using technology developed for supercomputers
-- 09/13 14:53 [FirstSquawk] India-Pakistan tensions over water resources intensify following a ruling by the Hague-based court. The decision adds another layer to a long-running dispute over cross-border river management, with regional tensions remaining elevated.
 - 09/13 14:58 [FirstSquawk] US job openings held broadly steady in July at 7.3 million, with the openings rate unchanged at 4.4%. Hiring demand strengthened in durable goods manufacturing, where vacancies rose by 76,000.
 - 09/13 15:00 [FirstSquawk] US hiring remained broadly stable in July, with 5.1 million people hired and the hiring rate holding at 3.2%. Professional and business services saw the biggest decline, with hires falling by 188,000 during the month.
 - 09/13 15:16 [FirstSquawk] FM Nirmala Sitharaman Meets Iran’s Finance Minister In New Delhi Union Finance Minister Nirmala Sitharaman meets Iran’s Minister of Economic Affairs and Finance Seyed Ali Madanizadeh in New Delhi, with both sides discussing economic coopera…
@@ -108,3 +98,8 @@
 - 09/13 20:10 [FirstSquawk] Lithuania closes Vilnius airport and NATO sends fighter jets after possible drone sighting in Lithuanian airspace
 - 09/13 20:10 [FirstSquawk] Israeli artillery shelling targets the vicinity of the town of Beit Jinn, southwest of Damascus countryside.
 - 09/13 20:35 [DeItaone] CANADA EXPLORES “ASSOCIATE MEMBERSHIP” WITH EU Canadian Prime Minister Mark Carney is exploring closer integration with the EU, including a potential new “associate member” status, the Wall Street Journal reports. Canada and the EU are repo…
+- 09/13 20:53 [FirstSquawk] Iraq: Arrest warrant issued for Iraqi suspect Omid Haji Ahmed on charges of financing terrorism and money laundering
+- 09/13 20:53 [FirstSquawk] Iraq: Accused Omid Haji Ahmad is on US sanctions lists for smuggling Iranian oil.
+- 09/13 20:53 [FirstSquawk] Yemeni Armed Forces: We destroyed equipment, gatherings, and elements of the Houthi militia in the "kill box" in Dhubab and Mocha.
+- 09/13 20:53 [FirstSquawk] Poland: A Russian drone struck a train bound for Warsaw; no injuries reported
+- 09/13 20:54 [FirstSquawk] Saudi Crown Prince and the Pakistani Prime Minister discuss regional developments in a phone call.
