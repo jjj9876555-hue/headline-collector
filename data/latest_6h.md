@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 15:59 JST／対象: 09/13 09:59 〜 09/13 15:59 JST（時刻はすべて日本時間）
+生成: 2026-09-13 16:17 JST／対象: 09/13 10:17 〜 09/13 16:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 97 | 09/13 10:01 | 09/13 15:32 | 23分（11:18→11:41） |
-| financialjuice | 5 | 09/13 10:01 | 09/13 15:51 | ⚠ 220分（10:01→13:41） |
+| FirstSquawk | 95 | 09/13 10:21 | 09/13 16:15 | 41分（15:32→16:14） |
+| financialjuice | 3 | 09/13 13:41 | 09/13 15:51 | ⚠ 103分（14:08→15:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 98 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 10:01 [financialjuice] Ukmto: Vessel hit by unidentified projectile while passing Strait of Hormuz
-- 09/13 10:01 [FirstSquawk] U.S.-CHINA AI RACE: Trump plays down concerns about AI’s potential dangers while pushing to keep the U.S. ahead of China in the technology race.
-- 09/13 10:01 [financialjuice] Ukmto: status of crew, damage assessment and environmental impact currently unknown
-- 09/13 10:02 [FirstSquawk] HORMUZ SECURITY: UKMTO says an unidentified projectile hit a vessel as it navigated the strategically important Strait of Hormuz.
-- 09/13 10:02 [FirstSquawk] HOUTHI ATTACK: A Houthi projectile from Yemen caused damage to a mosque, buildings and vehicles, Saudi Civil Defense says.
-- 09/13 10:03 [FirstSquawk] MILIBAND BACKS SAUDI ARABIA: The UK foreign secretary reaffirms Britain’s support for Saudi Arabia and Yemen’s recognized government amid ongoing attacks.
-- 09/13 10:10 [FirstSquawk] New espionage provisions come into force as Seoul moves to strengthen defenses around sensitive semiconductor technologies.
-- 09/13 10:11 [FirstSquawk] BILLIONAIRE DROPS PLANNED SALE: The billionaire confirmed that no shares changed hands after he withdrew plans to sell 50 million shares, according to WSJ.
-- 09/13 10:12 [FirstSquawk] Britain stands firmly alongside Saudi Arabia and Yemen’s recognized government against attacks, Foreign Secretary Ed Miliband says.
 - 09/13 10:21 [FirstSquawk] YEMEN CONFLICT: Three aerial attacks targeted Houthi militia sites in Taiz, Yemen’s Armed Forces report.
 - 09/13 10:22 [FirstSquawk] Three air raids targeted Houthi positions and military barracks in Al-Tabba Al-Sawda and Jabal Al-Mun’im on Taiz’s Mist Front, according to Yemen’s Armed Forces.
 - 09/13 10:23 [FirstSquawk] Warplanes conducted three strikes against Houthi militia positions and barracks on the Mist Front, according to Yemen’s Armed Forces.
@@ -126,3 +117,8 @@
 - 09/13 15:32 [FirstSquawk] Chubu Electric Power Co.’s top two executives are set to step down over the falsification of safety data used in regulatory reviews to restart some of its nuclear reactors
 - 09/13 15:32 [FirstSquawk] Iranian President Masoud Pezeshkian meets Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan on the sidelines of the BRICS Summit
 - 09/13 15:51 [financialjuice] Kremlin: Modi and Xi actively proposed help for Ukraine settlement, Putin welcomed their willingness - TASS
+- 09/13 16:14 [FirstSquawk] Chinese leader pledges to help Brics nations with AI and smart manufacturing
+- 09/13 16:14 [FirstSquawk] Russia battered the Odesa region overnight and early Sunday morning with continuous strikes, damaging high-rises, private homes, and infrastructure.
+- 09/13 16:15 [FirstSquawk] Kremlin: Modi and Xi actively proposed help for Ukraine settlement, Putin welcomed their willingness
+- 09/13 16:15 [FirstSquawk] Student loans terms to be made clearer in England after MP criticism
+- 09/13 16:15 [FirstSquawk] BRICS+ format has proven its worth, Putin tells New Delhi session "This format has more than proven its worth: it opens the door to direct, candid dialogue between full-fledged BRICS members and partner countries, as well as other states an…

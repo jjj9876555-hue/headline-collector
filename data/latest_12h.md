@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 15:59 JST／対象: 09/13 03:59 〜 09/13 15:59 JST（時刻はすべて日本時間）
+生成: 2026-09-13 16:17 JST／対象: 09/13 04:17 〜 09/13 16:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 112 | 09/13 09:35 | 09/13 15:32 | 23分（11:18→11:41） |
+| FirstSquawk | 117 | 09/13 09:35 | 09/13 16:15 | 41分（15:32→16:14） |
 | financialjuice | 6 | 09/13 05:05 | 09/13 15:51 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 118 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 123 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -142,3 +142,8 @@
 - 09/13 15:32 [FirstSquawk] Chubu Electric Power Co.’s top two executives are set to step down over the falsification of safety data used in regulatory reviews to restart some of its nuclear reactors
 - 09/13 15:32 [FirstSquawk] Iranian President Masoud Pezeshkian meets Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan on the sidelines of the BRICS Summit
 - 09/13 15:51 [financialjuice] Kremlin: Modi and Xi actively proposed help for Ukraine settlement, Putin welcomed their willingness - TASS
+- 09/13 16:14 [FirstSquawk] Chinese leader pledges to help Brics nations with AI and smart manufacturing
+- 09/13 16:14 [FirstSquawk] Russia battered the Odesa region overnight and early Sunday morning with continuous strikes, damaging high-rises, private homes, and infrastructure.
+- 09/13 16:15 [FirstSquawk] Kremlin: Modi and Xi actively proposed help for Ukraine settlement, Putin welcomed their willingness
+- 09/13 16:15 [FirstSquawk] Student loans terms to be made clearer in England after MP criticism
+- 09/13 16:15 [FirstSquawk] BRICS+ format has proven its worth, Putin tells New Delhi session "This format has more than proven its worth: it opens the door to direct, candid dialogue between full-fledged BRICS members and partner countries, as well as other states an…
