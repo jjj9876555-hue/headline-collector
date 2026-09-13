@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 08:52 JST／対象: 09/12 20:52 〜 09/13 08:52 JST（時刻はすべて日本時間）
+生成: 2026-09-13 09:07 JST／対象: 09/12 21:07 〜 09/13 09:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/12 21:50 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
-| FirstSquawk | 77 | 09/12 20:53 | 09/13 03:29 | 45分（21:53→22:38） |
+| FirstSquawk | 68 | 09/12 21:12 | 09/13 03:29 | 45分（21:53→22:38） |
 | financialjuice | 43 | 09/12 21:43 | 09/13 05:05 | ⚠ 73分（00:19→01:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 126 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 117 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 20:53 [FirstSquawk] BRICS SHOWS STRONG CONCERN ABOUT RISING MIDEAST TENSIONS.
-- 09/12 20:53 [FirstSquawk] BRICS MEMBERS URGE FOR UPGRADED RESTRAINT AND TO PREVENT ESCALATING ACTIONS.
-- 09/12 20:53 [FirstSquawk] BRICS RAISES 'SERIOUS CONCERN' ABOUT ATTACKS ON CIVILIAN INFRASTRUCTURE.
-- 09/12 20:53 [FirstSquawk] BRICS EXPRESSES CONCERN ABOUT ATTACKS ON SAFE NUCLEAR PLANTS.
-- 09/12 20:54 [FirstSquawk] BRICS URGES GROWTH IN LOCAL CURRENCY FUNDING.
-- 09/12 20:54 [FirstSquawk] BRICS URGES CHANGES IN GLOBAL ECONOMIC MANAGEMENT.
-- 09/12 20:54 [FirstSquawk] BRICS EXPRESSES CONCERN ABOUT UNILATERAL TARIFFS AND NON-TARIFF MEASURES.
-- 09/12 20:54 [FirstSquawk] BRICS STRONGLY OPPOSES UNILATERAL AND SECONDARY SANCTIONS.
-- 09/12 20:54 [FirstSquawk] REFORM UK RECEIVES ANOTHER £36M DONATION WITHIN TWO DAYS, REPORTS TELEGRAPH.
 - 09/12 21:12 [FirstSquawk] Lebanese President: Israel's withdrawal, return of prisoners, and reconstruction are constants that the state is committed to implementing
 - 09/12 21:14 [FirstSquawk] Yemeni government forces: We targeted dozens of Houthi tugs loaded with weapons in the north Taiz
 - 09/12 21:14 [FirstSquawk] Lebanese Army Commander: We have not left Nabatieh or any town where there are still citizens, and we hope to liberate the rest of the towns and we will be stationed in them

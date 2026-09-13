@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 08:52 JST／対象: 09/13 02:52 〜 09/13 08:52 JST（時刻はすべて日本時間）
+生成: 2026-09-13 09:07 JST／対象: 09/13 03:07 〜 09/13 09:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 8 | 09/13 02:57 | 09/13 03:29 | 19分（02:58→03:18） |
-| financialjuice | 12 | 09/13 02:58 | 09/13 05:05 | ⚠ 67分（03:58→05:05） |
+| FirstSquawk | 6 | 09/13 03:18 | 09/13 03:29 | 9分（03:18→03:27） |
+| financialjuice | 9 | 09/13 03:11 | 09/13 05:05 | ⚠ 67分（03:58→05:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 20 行（統合前 20 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 15 行（統合前 15 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 02:57 [FirstSquawk] Israeli airstrike on the outskirts of Ali Taher Heights in southern Lebanon
-- 09/13 02:58 [financialjuice] Iran state media: sound of two blasts heard near Qeshm from the sea
-- 09/13 02:58 [FirstSquawk] Abu Dhabi Crown Prince Sheikh Khaled bin Mohammed bin Zayed meets Russian President Vladimir Putin on the sidelines of the "BRICS Summit" in New Delhi
-- 09/13 03:02 [financialjuice] Emergency alert in Saudi Arabia's Khamis Mushait warns of possible danger: Saudi Civil Defence
-- 09/13 03:03 [financialjuice] Emergency alert issued in Saudi Arabia's Abha warning of potential threat: Saudi Civil Defence
 - 09/13 03:11 [financialjuice] Danger passed in Khamis Mushait: Saudi civil defence
 - 09/13 03:12 [financialjuice] Danger has passed in Abha: Saudi civil defence
 - 09/13 03:13 [financialjuice] UK foreign secretary Ed Miliband: spoke with Saudi counterpart
