@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 01:46 JST／対象: 09/13 01:46 〜 09/14 01:46 JST（時刻はすべて日本時間）
+生成: 2026-09-14 01:58 JST／対象: 09/13 01:58 〜 09/14 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/13 01:48 | 09/14 01:17 | ⚠ 984分（01:48→18:12） |
-| FirstSquawk | 216 | 09/13 02:02 | 09/14 01:12 | ⚠ 366分（03:29→09:35） |
+| DeItaone | 19 | 09/13 18:12 | 09/14 01:17 | ⚠ 147分（22:47→01:15） |
+| FirstSquawk | 222 | 09/13 02:02 | 09/14 01:58 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 49 | 09/13 02:00 | 09/14 00:18 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 281 行（統合前 285 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 286 行（統合前 290 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 01:48 [DeItaone] $ORCL - LARRY ELLISON CANCELS ORACLE STOCK SALE PLAN Oracle says founder Larry Ellison has canceled his 10b5-1 plan to sell Oracle shares, according to Reuters. No Oracle stock was sold under the canceled plan, and the company says Ellison …
 - 09/13 02:00 [financialjuice] Economy minister: about $40 billion of Ukraine's export revenue threatened by blockade
 - 09/13 02:00 [financialjuice] Destruction of Ukraine's infrastructure, fixed assets from Russian airstrikes estimated at $10 billion this year: economy minister
 - 09/13 02:00 [financialjuice] Economic costs from Ukraine's seaports blockade and destruction about 1.5 percentage points of GDP this year: minister
@@ -305,3 +304,9 @@
 - 09/14 01:15 [DeItaone] HASSETT SAYS WHITE HOUSE WILL BACK FED DECISION White House economic adviser Kevin Hassett says the administration will “100% support” whatever Fed Chair Kevin Warsh and the committee decide on rates this week. Still, Hassett said he and Pr…
 - 09/14 01:16 [DeItaone] ANTHROPIC HAS CHOSEN THE NASDAQ FOR ITS IPO LISTING- BUSINESS INSIDER
 - 09/14 01:17 [DeItaone] ANTHROPIC PICKS NASDAQ FOR POTENTIAL $2 TRILLION IPO Anthropic has selected Nasdaq for its potential IPO, according to a person familiar with the company’s plans, as it targets an October listing. Some estimates have valued Anthropic at as …
+- 09/14 01:56 [FirstSquawk] Saudi civil defence warns of potential risk: Emergency alert issued in Saudi Arabia's Khamis Mushait and Abha
+- 09/14 01:57 [FirstSquawk] Saudi civil defence: Danger has passed in Saudi Arabia's Khamis Mushait
+- 09/14 01:57 [FirstSquawk] Saudi Civil Defence: Danger has passed in Saudi Arabia’s Abha
+- 09/14 01:58 [FirstSquawk] Donald Trump rejects calls from tech bosses for an AI slowdown - FT
+- 09/14 01:58 [FirstSquawk] EU-UK reset talks delayed again amid tension over ‘Made in Europe’ rules - FT
+- 09/14 01:58 [FirstSquawk] Le Pen vows to put French citizens first in campaign launch - FT

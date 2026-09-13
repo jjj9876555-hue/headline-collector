@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 01:46 JST／対象: 09/13 13:46 〜 09/14 01:46 JST（時刻はすべて日本時間）
+生成: 2026-09-14 01:58 JST／対象: 09/13 13:58 〜 09/14 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 19 | 09/13 18:12 | 09/14 01:17 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 120 | 09/13 13:51 | 09/14 01:12 | ⚠ 48分（21:58→22:46） |
+| FirstSquawk | 124 | 09/13 14:03 | 09/14 01:58 | ⚠ 48分（21:58→22:46） |
 | financialjuice | 31 | 09/13 14:08 | 09/14 00:18 | ⚠ 103分（14:08→15:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 166 行（統合前 170 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 13:51 [FirstSquawk] Patient records from UK general practices have been added to Palantir’s NHS data platform without public attention. The development raises fresh questions over how sensitive health information is being integrated, managed and accessed acros…
-- 09/13 13:57 [FirstSquawk] Anthropic CEO urges a slower pace of AI development as concerns mount over the potential risks of superintelligent systems. The warning highlights growing industry debate over whether AI progress is moving faster than safety measures can ke…
 - 09/13 14:03 [FirstSquawk] US pushes multilateral development banks to abandon climate-finance targets. The move could reshape how major global lenders allocate funding toward climate and clean-energy projects.
 - 09/13 14:08 [FirstSquawk] North Korean state media once again makes no mention of the country’s latest missile launches. The silence comes as Pyongyang continues its weapons activity, leaving state media’s lack of coverage notable.
 - 09/13 14:08 [financialjuice] South Korea government wins final ruling in 260 billion won Chinese investor arbitration case - media
@@ -190,3 +188,9 @@
 - 09/14 01:15 [DeItaone] HASSETT SAYS WHITE HOUSE WILL BACK FED DECISION White House economic adviser Kevin Hassett says the administration will “100% support” whatever Fed Chair Kevin Warsh and the committee decide on rates this week. Still, Hassett said he and Pr…
 - 09/14 01:16 [DeItaone] ANTHROPIC HAS CHOSEN THE NASDAQ FOR ITS IPO LISTING- BUSINESS INSIDER
 - 09/14 01:17 [DeItaone] ANTHROPIC PICKS NASDAQ FOR POTENTIAL $2 TRILLION IPO Anthropic has selected Nasdaq for its potential IPO, according to a person familiar with the company’s plans, as it targets an October listing. Some estimates have valued Anthropic at as …
+- 09/14 01:56 [FirstSquawk] Saudi civil defence warns of potential risk: Emergency alert issued in Saudi Arabia's Khamis Mushait and Abha
+- 09/14 01:57 [FirstSquawk] Saudi civil defence: Danger has passed in Saudi Arabia's Khamis Mushait
+- 09/14 01:57 [FirstSquawk] Saudi Civil Defence: Danger has passed in Saudi Arabia’s Abha
+- 09/14 01:58 [FirstSquawk] Donald Trump rejects calls from tech bosses for an AI slowdown - FT
+- 09/14 01:58 [FirstSquawk] EU-UK reset talks delayed again amid tension over ‘Made in Europe’ rules - FT
+- 09/14 01:58 [FirstSquawk] Le Pen vows to put French citizens first in campaign launch - FT
