@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 00:58 JST／対象: 09/13 18:58 〜 09/14 00:58 JST（時刻はすべて日本時間）
+生成: 2026-09-14 01:17 JST／対象: 09/13 19:17 〜 09/14 01:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/13 20:35 | 09/13 22:47 | 34分（20:35→21:10） |
-| FirstSquawk | 47 | 09/13 19:12 | 09/14 00:44 | ⚠ 48分（21:58→22:46） |
-| financialjuice | 22 | 09/13 19:12 | 09/14 00:18 | ⚠ 94分（22:36→00:11） |
+| DeItaone | 16 | 09/13 20:35 | 09/14 01:16 | ⚠ 147分（22:47→01:15） |
+| FirstSquawk | 44 | 09/13 19:40 | 09/14 01:12 | ⚠ 48分（21:58→22:46） |
+| financialjuice | 21 | 09/13 19:26 | 09/14 00:18 | ⚠ 94分（22:36→00:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 81 行（統合前 83 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 80 行（統合前 81 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 19:12 [FirstSquawk] Jerusalem Governorate: Israeli media blackout on settlers storming Al-Aqsa raises fears of an attempt to impose new realities.
-- 09/13 19:12 [financialjuice/FirstSquawk] South Korea industry minister: $200 billion total investment cap, $20 billion annual investment to be maintained as previously agreed with U.S.
-- 09/13 19:13 [FirstSquawk] Araqchi: The agenda for tomorrow's meeting in the Sultanate of Oman focuses on the new maritime route in the Strait of Hormuz
-- 09/13 19:14 [FirstSquawk] Araqchi: Iran's condition for reopening the Strait of Hormuz is the return of the United States to its commitments under the Islamabad Memorandum
 - 09/13 19:26 [financialjuice] Goldenmax International denies reports of products certified into Nvidia, Huawei supply chains after unusual share price moves
 - 09/13 19:26 [financialjuice] secures $5 billion through new share and convertible bond sales, filing reveals
 - 09/13 19:29 [financialjuice] Lithuania closes Vilnius airport, NATO deploys fighter jets after potential drone sighting – national crisis management centre
@@ -105,3 +101,6 @@
 - 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning activated in Khamis Mushait and Abha to warn of danger
 - 09/14 00:43 [FirstSquawk] Civil Defense in Gaza: We have recovered the remains of 17 martyrs from under the rubble of homes destroyed by the Israeli occupation in the Gaza and Central governorates.
 - 09/14 00:44 [FirstSquawk] International Organization for Migration: 100,000 displaced in 7 months from areas in Blue Nile, southeastern Sudan, following escalating clashes
+- 09/14 01:12 [FirstSquawk] Lebanese media: Israeli airstrike targets Qantara in southern Lebanon
+- 09/14 01:15 [DeItaone] HASSETT SAYS WHITE HOUSE WILL BACK FED DECISION White House economic adviser Kevin Hassett says the administration will “100% support” whatever Fed Chair Kevin Warsh and the committee decide on rates this week. Still, Hassett said he and Pr…
+- 09/14 01:16 [DeItaone] ANTHROPIC HAS CHOSEN THE NASDAQ FOR ITS IPO LISTING- BUSINESS INSIDER
