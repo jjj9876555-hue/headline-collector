@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 09:49 JST／対象: 09/12 21:49 〜 09/13 09:49 JST（時刻はすべて日本時間）
+生成: 2026-09-13 10:00 JST／対象: 09/12 22:00 〜 09/13 10:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/12 21:50 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
-| FirstSquawk | 66 | 09/12 21:53 | 09/13 09:49 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 40 | 09/12 21:50 | 09/13 05:05 | ⚠ 73分（00:19→01:32） |
+| DeItaone | 5 | 09/12 22:49 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
+| FirstSquawk | 69 | 09/12 22:38 | 09/13 09:54 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 38 | 09/12 22:44 | 09/13 05:05 | ⚠ 73分（00:19→01:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 112 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 111 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 21:50 [financialjuice] Bahrain: any deal must protect transit rights for all vessels without discrimination, fees or permits - state media
-- 09/12 21:50 [DeItaone] BAHRAIN SAYS IT WILL NOT TAKE PART IN MEETING WITH IRAN OVER HORMUZ STRAIT - STATE MEDIA
-- 09/12 21:53 [FirstSquawk] IRAQ'S PM AGREES TO IRAN'S REQUEST FOR A COLLABORATIVE INVESTIGATION.
-- 09/12 21:53 [FirstSquawk] IRAQ'S PRIME MINISTER ANNOUNCED AN INVESTIGATION INTO MISSILE LAUNCHERS DISCOVERED NEAR THE IRAN BORDER.
-- 09/12 21:56 [financialjuice] Iraq agrees to Iranian request to jointly probe drone launchers on border: Iraqi army
-- 09/12 21:56 [DeItaone] IRAQ AGREES TO IRANIAN REQUEST TO JOINTLY INVESTIGATE EXISTENCE OF DRONE LAUNCHERS ON THE BORDER BETWEEN THE TWO COUNTRIES - IRAQI ARMY
 - 09/12 22:38 [FirstSquawk] Abu Dhabi Crown Prince Sheikh Khalid bin Mohamed bin Zayed meets Iranian President on the sidelines of BRICS summit in New Delhi
 - 09/12 22:38 [FirstSquawk] Abu Dhabi Crown Prince discusses with Iranian President on the sidelines of BRICS summit the importance of supporting de-escalation efforts
 - 09/12 22:38 [FirstSquawk] Arab League Secretary-General Condemns Attacks on Oil Facilities in Saudi Arabia
@@ -136,3 +130,8 @@
 - 09/13 09:47 [FirstSquawk] DEATH TOLL RISES: The number of fatalities from a Philippine ferry fire reaches 76, while search operations continue.
 - 09/13 09:47 [FirstSquawk] BIG LAW SHAKE-UP: Cravath is gaining Weil Gotshal’s highest-paid partner, with the move exposing divergent approaches to growth across the legal industry, according to WSJ.
 - 09/13 09:49 [FirstSquawk] AI DEVELOPMENT: Russia rejects calls to decelerate AI progress, saying the technology’s development cannot be slowed.
+- 09/13 09:50 [FirstSquawk] U.S. CORPORATE PROFITS: American companies are generating their highest-ever profits, CNBC reports.
+- 09/13 09:51 [FirstSquawk] U.S.-CHINA TENSIONS: Beijing warned Washington that new U.S. weapons deals with Taiwan could lead to the cancellation of a planned Trump-Xi summit.
+- 09/13 09:52 [FirstSquawk] WARMTH DELAYS FALL: Prolonged warm conditions are set to postpone Japan’s autumn foliage in several regions, with Hokkaido forecast to see peak colors in early November before Tokyo follows weeks later.
+- 09/13 09:53 [FirstSquawk] TRUMP PRAISES BORDER POLICY: The president says illegal crossings and sea-based drug trafficking have declined under his administration, as he renews criticism of the previous administration’s immigration policies.
+- 09/13 09:54 [FirstSquawk] ALTman ON IPO: OpenAI will not move toward an IPO this year, CEO Sam Altman says, pointing to the broader challenges surrounding AI safety.

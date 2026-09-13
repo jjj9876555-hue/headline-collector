@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 09:49 JST／対象: 09/12 09:49 〜 09/13 09:49 JST（時刻はすべて日本時間）
+生成: 2026-09-13 10:00 JST／対象: 09/12 10:00 〜 09/13 10:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 234 | 09/12 09:49 | 09/13 09:49 | ⚠ 366分（03:29→09:35） |
+| FirstSquawk | 227 | 09/12 10:01 | 09/13 09:54 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 78 | 09/12 10:02 | 09/13 05:05 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 336 行（統合前 339 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 329 行（統合前 332 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 09:49 [FirstSquawk] The upcoming Israel-Lebanon talks have been moved to a later date, Axios reports.
-- 09/12 09:50 [FirstSquawk] Khamis Mushait is no longer under threat, Saudi Civil Defense says.
-- 09/12 09:50 [FirstSquawk] Taif is now clear of the threat, Saudi Civil Defense says.
-- 09/12 09:52 [FirstSquawk] Discovery Loop targets a $50 billion valuation as investor interest in AI startups grows.
-- 09/12 09:53 [FirstSquawk] Luckin Coffee secures a $1 billion investment from Abu Dhabi’s wealth fund.
-- 09/12 09:53 [FirstSquawk] Zaporizhzhia is struck by two Russian ballistic missiles.
-- 09/12 09:55 [FirstSquawk] OpenAI said its agents used the RubyGems platform to browse the web for benign purposes and gather publicly available information, according to WSJ. What could this mean for the future of AI agents?
-- 09/12 09:55 [FirstSquawk] OpenAI’s AI agents reportedly launched a cyberattack on RubyGems during testing, according to WSJ, roughly two months before similar agents were involved in an attack on Hugging Face. How far can autonomous AI go before testing becomes a re…
-- 09/12 09:57 [FirstSquawk] Baghdad fires military commander after investigation finds Saudi drone attacks were launched from Iraq.
-- 09/12 09:59 [FirstSquawk] Brazil to hold a spot-dollar auction on September 15, central bank says.
-- 09/12 09:59 [FirstSquawk] Brazil to sell as much as $1 billion in spot dollars on September 15.
-- 09/12 10:00 [FirstSquawk] Brazil announces a reverse currency swap operation for Sep 15.
 - 09/12 10:01 [FirstSquawk] A 6.24-magnitude earthquake struck Java, Indonesia, according to GFZ.
 - 09/12 10:02 [financialjuice] U.S. connects Chinese satellite images to July Iranian attack that killed three soldiers - WSJ
 - 09/12 10:03 [FirstSquawk] Putin claims the West pressured Russia and drove Ukraine toward NATO, triggering the conflict.
@@ -360,3 +348,8 @@
 - 09/13 09:47 [FirstSquawk] DEATH TOLL RISES: The number of fatalities from a Philippine ferry fire reaches 76, while search operations continue.
 - 09/13 09:47 [FirstSquawk] BIG LAW SHAKE-UP: Cravath is gaining Weil Gotshal’s highest-paid partner, with the move exposing divergent approaches to growth across the legal industry, according to WSJ.
 - 09/13 09:49 [FirstSquawk] AI DEVELOPMENT: Russia rejects calls to decelerate AI progress, saying the technology’s development cannot be slowed.
+- 09/13 09:50 [FirstSquawk] U.S. CORPORATE PROFITS: American companies are generating their highest-ever profits, CNBC reports.
+- 09/13 09:51 [FirstSquawk] U.S.-CHINA TENSIONS: Beijing warned Washington that new U.S. weapons deals with Taiwan could lead to the cancellation of a planned Trump-Xi summit.
+- 09/13 09:52 [FirstSquawk] WARMTH DELAYS FALL: Prolonged warm conditions are set to postpone Japan’s autumn foliage in several regions, with Hokkaido forecast to see peak colors in early November before Tokyo follows weeks later.
+- 09/13 09:53 [FirstSquawk] TRUMP PRAISES BORDER POLICY: The president says illegal crossings and sea-based drug trafficking have declined under his administration, as he renews criticism of the previous administration’s immigration policies.
+- 09/13 09:54 [FirstSquawk] ALTman ON IPO: OpenAI will not move toward an IPO this year, CEO Sam Altman says, pointing to the broader challenges surrounding AI safety.
