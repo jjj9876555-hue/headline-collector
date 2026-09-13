@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 23:59 JST／対象: 09/13 11:59 〜 09/13 23:59 JST（時刻はすべて日本時間）
+生成: 2026-09-14 00:16 JST／対象: 09/13 12:16 〜 09/14 00:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 16 | 09/13 18:12 | 09/13 22:47 | ⚠ 137分（18:17→20:35） |
-| FirstSquawk | 146 | 09/13 11:59 | 09/13 23:27 | ⚠ 48分（21:58→22:46） |
-| financialjuice | 29 | 09/13 13:41 | 09/13 22:36 | ⚠ 103分（14:08→15:51） |
+| FirstSquawk | 134 | 09/13 12:18 | 09/14 00:06 | ⚠ 48分（21:58→22:46） |
+| financialjuice | 30 | 09/13 13:41 | 09/14 00:11 | ⚠ 103分（14:08→15:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 176 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 11:59 [FirstSquawk] Crompton Greaves Consumer expands portfolio with outdoor wall lights
-- 09/13 11:59 [FirstSquawk] Families fuel China’s growing ‘red tourism’ trend at Communist Party sites
-- 09/13 11:59 [FirstSquawk] Iran’s security committee says no NPT withdrawal bill has been submitted despite earlier claims
-- 09/13 12:01 [FirstSquawk] U.S. ban threat tests Bombardier as its backlog offers protection but its valuation leaves little room for mistakes
-- 09/13 12:02 [FirstSquawk] China’s Xi pushes BRICS to lead on innovation, peace and global governance
-- 09/13 12:07 [FirstSquawk] Musk says Tesla will finally showcase the Roadster on October 1
-- 09/13 12:08 [FirstSquawk] Saudi Arabia’s top diplomat Faisal bin Farhan lands in Delhi ahead of BRICS Summit
-- 09/13 12:08 [FirstSquawk] G-7 rate pressures mount, putting the spotlight on Warsh
-- 09/13 12:09 [FirstSquawk] Indonesian ship with 243 passengers goes out of contact, prompting rescue response
-- 09/13 12:10 [FirstSquawk] Iraq rejects becoming a base for foreign conflicts or aggression against neighboring states
-- 09/13 12:10 [FirstSquawk] Houthi attack targets Yemeni forces in Ras Al-Arah, with deaths and injuries reported
-- 09/13 12:14 [FirstSquawk] Korean ETF frenzy fades as volatility pushes investors to the sidelines
-- 09/13 12:14 [FirstSquawk] STUDENT LOAN BORROWERS FACE MONTH-END DEADLINE TO AVOID COSTLIER REPAYMENT PLAN Millions of U.S. federal student loan borrowers could be automatically moved into the Standard Repayment Plan—often the most expensive monthly option—if they do…
 - 09/13 12:18 [FirstSquawk] Canadian shoppers increasingly choose domestic goods as backlash against U.S. products grows
 - 09/13 12:19 [FirstSquawk] Hong Kong’s next generation of wealthy investors looks beyond property for higher returns
 - 09/13 12:22 [FirstSquawk] Japan’s Aomori wineries band together to secure recognition for the region’s growing wine sector
@@ -211,3 +198,5 @@
 - 09/13 22:48 [FirstSquawk] US Trump on China: not concerned Xi will cancel summit, says China has treated US fairly over recent years
 - 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The security of the Arabian Gulf will not be stable without respecting the sovereignty and independence of its states and refraining from interfering in their affairs.
 - 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The Kingdom's security is inviolable, and the GCC states will not accept any targeting of their territories.
+- 09/14 00:06 [FirstSquawk] Jerusalem Governorate: 593 settlers stormed Al-Aqsa Mosque during the morning and evening incursions under the protection of the occupation forces.
+- 09/14 00:11 [financialjuice] Emergency alert issued in Saudi Arabia's Khamis Mushait and Abha: Saudi civil defence warns of potential risk
