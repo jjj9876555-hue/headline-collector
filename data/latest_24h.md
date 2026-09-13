@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 12:46 JST／対象: 09/12 12:46 〜 09/13 12:46 JST（時刻はすべて日本時間）
+生成: 2026-09-13 12:58 JST／対象: 09/12 12:58 〜 09/13 12:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 225 | 09/12 12:46 | 09/13 12:39 | ⚠ 366分（03:29→09:35） |
+| FirstSquawk | 225 | 09/12 13:03 | 09/13 12:52 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 78 | 09/12 13:03 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 12:46 [FirstSquawk] Iraqi commander ousted as probe finds recent attacks on Saudi Arabia were launched from Iraq.
-- 09/12 12:56 [FirstSquawk] Chinese AI companies decline meetings with US delegation amid sanctions fears, commission says.
 - 09/12 13:03 [financialjuice] US restricts air defense windows for tankers passing through Hormuz - FT
 - 09/12 13:03 [FirstSquawk] Sweden’s Election Front-Runner Faces Growing Pressure as Race Tightens — FT Sweden’s leading candidate is facing a tighter election contest, with the race becoming increasingly competitive ahead of the vote, according to the Financial Times…
 - 09/12 13:04 [FirstSquawk] U.S. Restricts Air Defence Time Slots for Tankers Crossing Strait of Hormuz — FT The U.S. has limited the available air-defence time slots for tankers sailing through the Strait of Hormuz, according to the Financial Times. The move could ad…
@@ -351,3 +349,5 @@
 - 09/13 12:28 [FirstSquawk] Kyoto stadium meal incident leaves 28 people ill, with food poisoning under investigation
 - 09/13 12:32 [FirstSquawk] Automakers in Japan prepare new factory calendars from FY2027 as they seek to draw more employees
 - 09/13 12:39 [FirstSquawk] Oil supply concerns rise as Iran and UAE leaders engage on regional de-escalation
+- 09/13 12:47 [FirstSquawk] American academic vanishes after China invitation as Trump prepares to press Xi on detainees - WSJ
+- 09/13 12:52 [FirstSquawk] Yen sentiment turns bullish as speculators build net-long positions for the first time since February
