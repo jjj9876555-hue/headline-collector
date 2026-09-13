@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 15:26 JST／対象: 09/12 15:26 〜 09/13 15:26 JST（時刻はすべて日本時間）
+生成: 2026-09-13 15:47 JST／対象: 09/12 15:47 〜 09/13 15:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 245 | 09/12 16:00 | 09/13 15:18 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 77 | 09/12 15:31 | 09/13 14:08 | ⚠ 295分（05:05→10:01） |
+| FirstSquawk | 249 | 09/12 16:00 | 09/13 15:32 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 67 | 09/12 17:36 | 09/13 14:08 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 346 行（統合前 349 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 340 行（統合前 343 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 15:31 [financialjuice] India's markets regulator proposes six steps to enhance derivatives settlement prices in closing auction session
-- 09/12 15:31 [financialjuice] India's Sebi proposes adjustments to closing auction price band
-- 09/12 15:31 [financialjuice] India's SEBI: Closing auction orders outside 1% range will not be allowed to be canceled
-- 09/12 15:32 [financialjuice] India's Sebi proposes using closing auction session and volume-weighted average price for index and single stock derivatives on expiry day
-- 09/12 15:32 [financialjuice] India's Sebi proposes withholding indicative closing levels of index during closing auction session
-- 09/12 15:32 [financialjuice] Saudi civil defense: early warning issued in Sharurah to signal potential danger
-- 09/12 15:32 [financialjuice] India's Sebi proposes cutting post-closing auction window for derivatives segment to 5 minutes from 10 minutes
-- 09/12 15:33 [financialjuice] India's SEBI proposes to continue publishing indicative equilibrium price for stocks in closing auction session
-- 09/12 15:42 [financialjuice] Russian defence ministry: Russian troops strike two cargo ships in Ukrainian port of Chornomorsk
-- 09/12 15:43 [financialjuice] Russian Defence Ministry: Russian forces also strike metallurgical plant in Ukraine's Zaporizhzhia region - RIA
 - 09/12 16:00 [FirstSquawk] BOJ JGB HOLDINGS PLUNGE BY RECORD ¥47.8 TRILLION YOY IN JULY BANK OF JAPAN CUTS GOVERNMENT BOND HOLDINGS AT UNPRECEDENTED PACE; ¥47.8 TRILLION ANNUAL DROP MARKS BIGGEST DECLINE EVER
 - 09/12 16:41 [DeItaone] IRAN RULES OUT U.S. TALKS WITHOUT CONDITIONS Iranian lawmaker Ebrahim Azizi says Tehran will not negotiate with Washington until Iran’s conditions are met, declaring that talks would otherwise be “futile.” The statement comes amid reports t…
 - 09/12 17:36 [financialjuice] Ukraine strikes Russia's top synthetic rubber maker in Togliatti in Samara region: Ukrainian military
@@ -370,3 +360,7 @@
 - 09/13 15:17 [FirstSquawk] Weekend markets update: #DAX 25507 -0.23% #DOW 52523 -0.03% #NASDAQ 29244 -0.42% #FTSE 10665 0.00% #HANGSENG 24754 +0.02% #EURUSD 11586 -0.10% #GOLD 4356 +0.15% #SILVER 6449 +0.06% #USOIL 9698 -0.17%
 - 09/13 15:17 [FirstSquawk] PwC shakes up Indian operations as AI threat looms over consulting sector
 - 09/13 15:18 [FirstSquawk] Elections are taking place in the districts, towns and local authorities of the German state of Lower Saxony - just one week after the far right's historic win in the eastern German state of Saxony-Anhalt and before two key state elections
+- 09/13 15:31 [FirstSquawk] BOJ meeting, Semicon India, Hong Kong's first five-year plan
+- 09/13 15:32 [FirstSquawk] Donald Trump turns his focus to golf and promoting his business interests as he wraps up a visit to Ireland on Sunday
+- 09/13 15:32 [FirstSquawk] Chubu Electric Power Co.’s top two executives are set to step down over the falsification of safety data used in regulatory reviews to restart some of its nuclear reactors
+- 09/13 15:32 [FirstSquawk] Iranian President Masoud Pezeshkian meets Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan on the sidelines of the BRICS Summit
