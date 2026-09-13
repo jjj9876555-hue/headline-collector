@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 00:16 JST／対象: 09/13 12:16 〜 09/14 00:16 JST（時刻はすべて日本時間）
+生成: 2026-09-14 00:32 JST／対象: 09/13 12:32 〜 09/14 00:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 16 | 09/13 18:12 | 09/13 22:47 | ⚠ 137分（18:17→20:35） |
-| FirstSquawk | 134 | 09/13 12:18 | 09/14 00:06 | ⚠ 48分（21:58→22:46） |
-| financialjuice | 30 | 09/13 13:41 | 09/14 00:11 | ⚠ 103分（14:08→15:51） |
+| FirstSquawk | 132 | 09/13 12:32 | 09/14 00:20 | ⚠ 48分（21:58→22:46） |
+| financialjuice | 32 | 09/13 13:41 | 09/14 00:18 | ⚠ 103分（14:08→15:51） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 176 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 12:18 [FirstSquawk] Canadian shoppers increasingly choose domestic goods as backlash against U.S. products grows
-- 09/13 12:19 [FirstSquawk] Hong Kong’s next generation of wealthy investors looks beyond property for higher returns
-- 09/13 12:22 [FirstSquawk] Japan’s Aomori wineries band together to secure recognition for the region’s growing wine sector
-- 09/13 12:24 [FirstSquawk] Vance-linked group reportedly approached Brazil’s Flávio Bolsonaro over an anti-China minerals deal
-- 09/13 12:28 [FirstSquawk] Kyoto stadium meal incident leaves 28 people ill, with food poisoning under investigation
 - 09/13 12:32 [FirstSquawk] Automakers in Japan prepare new factory calendars from FY2027 as they seek to draw more employees
 - 09/13 12:39 [FirstSquawk] Oil supply concerns rise as Iran and UAE leaders engage on regional de-escalation
 - 09/13 12:47 [FirstSquawk] American academic vanishes after China invitation as Trump prepares to press Xi on detainees - WSJ
@@ -200,3 +195,8 @@
 - 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The Kingdom's security is inviolable, and the GCC states will not accept any targeting of their territories.
 - 09/14 00:06 [FirstSquawk] Jerusalem Governorate: 593 settlers stormed Al-Aqsa Mosque during the morning and evening incursions under the protection of the occupation forces.
 - 09/14 00:11 [financialjuice] Emergency alert issued in Saudi Arabia's Khamis Mushait and Abha: Saudi civil defence warns of potential risk
+- 09/14 00:17 [financialjuice] Danger has passed in Saudi Arabia's Khamis Mushait: Saudi civil defence
+- 09/14 00:18 [financialjuice] Danger has passed in Saudi Arabia’s Abha: Saudi Civil Defence
+- 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning alert issued in Khamis Mushait Governorate to warn of danger
+- 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning activated in Abha city to warn of danger
+- 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning activated in Khamis Mushait and Abha to warn of danger

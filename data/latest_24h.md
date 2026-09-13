@@ -7,33 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 00:16 JST／対象: 09/13 00:16 〜 09/14 00:16 JST（時刻はすべて日本時間）
+生成: 2026-09-14 00:32 JST／対象: 09/13 00:32 〜 09/14 00:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 18 | 09/13 01:35 | 09/13 22:47 | ⚠ 984分（01:48→18:12） |
-| FirstSquawk | 223 | 09/13 00:22 | 09/14 00:06 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 55 | 09/13 00:19 | 09/14 00:11 | ⚠ 295分（05:05→10:01） |
+| FirstSquawk | 220 | 09/13 00:33 | 09/14 00:20 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 55 | 09/13 01:32 | 09/14 00:18 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 291 行（統合前 296 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 289 行（統合前 293 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 00:19 [financialjuice] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 million cubic feet/day from 135 million — PM's office
-- 09/13 00:19 [financialjuice/FirstSquawk] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd: PM’s office
-- 09/13 00:22 [FirstSquawk] ELON MUSK AGREES WITH AMODEI ON THE NEED TO SLOW DOWN AI MODEL DEVELOPMENT.
-- 09/13 00:22 [FirstSquawk] CENTCOM REPORTS 100 COMMERCIAL SHIPS HAVE BEEN DIVERTED DUE TO THE BLOCKADE IN IRAN.
-- 09/13 00:22 [FirstSquawk] PEZESHKIAN SAYS THE STRAIT OF HORMUZ WILL REOPEN IF THE U.S. LIFTS THE BLOCKADE, AND THAT THE SUPREME LEADER HAS THE FINAL DECISION IN IRAN.
-- 09/13 00:22 [FirstSquawk] IRAN AND OMAN FOREIGN MINISTERS TALK ABOUT REGIONAL ISSUES IN A PHONE CALL.
-- 09/13 00:29 [FirstSquawk] Xi and Modi Move Toward Better Ties Chinese President Xi Jinping and Indian Prime Minister Narendra Modi met in New Delhi to improve relations between China and India. The two leaders discussed the border dispute, trade, supply chains and m…
-- 09/13 00:30 [FirstSquawk] Anthropic CEO Calls for Slower AI Development Anthropic CEO Dario Amodei has called for the AI industry to slow the pace of developing new models, warning that rapidly advancing AI could create serious risks for humans. He pointed to AI’s g…
 - 09/13 00:33 [FirstSquawk] California Diesel Prices Hit Record Highs Diesel prices in California have surged to record levels, with the statewide average rising above $8 a gallon and one San Diego station charging $9.99. Low fuel supplies, reduced refining capacity, …
 - 09/13 01:02 [FirstSquawk] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 mln cubic feet/day from 135 mln — PM's office
+- 09/13 01:02 [FirstSquawk] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd - PM’s office
 - 09/13 01:09 [FirstSquawk] United Nations: At least 76,000 people have been displaced by fighting in Yemen since July
 - 09/13 01:09 [FirstSquawk] UAE affirms that there is no military solution to the conflict in Sudan and that the only viable path to achieving lasting peace is an independent, civilian-led transition free from the influence of warring parties.
 - 09/13 01:09 [FirstSquawk] Lebanese News Agency: Heavy and concentrated Israeli shelling on the "Ali Taher" heights in southern Lebanon
@@ -315,3 +308,8 @@
 - 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The Kingdom's security is inviolable, and the GCC states will not accept any targeting of their territories.
 - 09/14 00:06 [FirstSquawk] Jerusalem Governorate: 593 settlers stormed Al-Aqsa Mosque during the morning and evening incursions under the protection of the occupation forces.
 - 09/14 00:11 [financialjuice] Emergency alert issued in Saudi Arabia's Khamis Mushait and Abha: Saudi civil defence warns of potential risk
+- 09/14 00:17 [financialjuice] Danger has passed in Saudi Arabia's Khamis Mushait: Saudi civil defence
+- 09/14 00:18 [financialjuice] Danger has passed in Saudi Arabia’s Abha: Saudi Civil Defence
+- 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning alert issued in Khamis Mushait Governorate to warn of danger
+- 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning activated in Abha city to warn of danger
+- 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning activated in Khamis Mushait and Abha to warn of danger

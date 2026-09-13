@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 00:16 JST／対象: 09/13 18:16 〜 09/14 00:16 JST（時刻はすべて日本時間）
+生成: 2026-09-14 00:32 JST／対象: 09/13 18:32 〜 09/14 00:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/13 18:17 | 09/13 22:47 | ⚠ 137分（18:17→20:35） |
-| FirstSquawk | 51 | 09/13 18:36 | 09/14 00:06 | ⚠ 48分（21:58→22:46） |
-| financialjuice | 20 | 09/13 19:12 | 09/14 00:11 | ⚠ 94分（22:36→00:11） |
+| DeItaone | 14 | 09/13 20:35 | 09/13 22:47 | 34分（20:35→21:10） |
+| FirstSquawk | 54 | 09/13 18:36 | 09/14 00:20 | ⚠ 48分（21:58→22:46） |
+| financialjuice | 22 | 09/13 19:12 | 09/14 00:18 | ⚠ 94分（22:36→00:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 84 行（統合前 86 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 88 行（統合前 90 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 18:17 [DeItaone] $TSLA - TESLA TEASES OCTOBER 1 ROADSTER EVENT Tesla is teasing an October 1 event for its long-delayed next-generation Roadster, nearly nine years after Elon Musk first unveiled the vehicle. The “Go for launch” messaging is fueling speculat…
 - 09/13 18:36 [FirstSquawk] Xi Jinping has sought to turn the annual BRICS summit into another platform for championing Beijing’s vision for AI, as it vies for global influence over the technology with the US
 - 09/13 18:36 [FirstSquawk] Dario Amodei built Anthropic to avoid the very kind of moment that is playing out now
 - 09/13 18:37 [FirstSquawk] Houthi tribal mobilization shows long lines of armed Toyota technicals in the desert, the classic Yemen war image
@@ -108,3 +107,8 @@
 - 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The Kingdom's security is inviolable, and the GCC states will not accept any targeting of their territories.
 - 09/14 00:06 [FirstSquawk] Jerusalem Governorate: 593 settlers stormed Al-Aqsa Mosque during the morning and evening incursions under the protection of the occupation forces.
 - 09/14 00:11 [financialjuice] Emergency alert issued in Saudi Arabia's Khamis Mushait and Abha: Saudi civil defence warns of potential risk
+- 09/14 00:17 [financialjuice] Danger has passed in Saudi Arabia's Khamis Mushait: Saudi civil defence
+- 09/14 00:18 [financialjuice] Danger has passed in Saudi Arabia’s Abha: Saudi Civil Defence
+- 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning alert issued in Khamis Mushait Governorate to warn of danger
+- 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning activated in Abha city to warn of danger
+- 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning activated in Khamis Mushait and Abha to warn of danger
