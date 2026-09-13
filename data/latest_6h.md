@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 22:23 JST／対象: 09/13 16:23 〜 09/13 22:23 JST（時刻はすべて日本時間）
+生成: 2026-09-13 22:35 JST／対象: 09/13 16:35 〜 09/13 22:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/13 18:12 | 09/13 22:04 | ⚠ 137分（18:17→20:35） |
+| DeItaone | 10 | 09/13 18:12 | 09/13 22:35 | ⚠ 137分（18:17→20:35） |
 | FirstSquawk | 63 | 09/13 16:54 | 09/13 21:58 | 42分（20:10→20:53） |
 | financialjuice | 25 | 09/13 16:41 | 09/13 22:15 | ⚠ 84分（17:48→19:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 92 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 95 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -116,3 +116,6 @@
 - 09/13 22:13 [financialjuice] Trump on Ukraine: we discussed that with Zelenskiy
 - 09/13 22:14 [financialjuice] Trump on Irish unity: natural to unite north and south
 - 09/13 22:15 [financialjuice] Trump on Irish unity: Won't discuss Scotland for now, will address later
+- 09/13 22:34 [DeItaone] TRUMP : ASKED ABOUT FED DECISION NEXT WEEK, SAYS WE SHOULD HAVE THE LOWEST RATE IN THE WORLD
+- 09/13 22:35 [DeItaone] TRUMP ON IRAN: IRAN WAR WILL END - MAYBE BEFORE OR RIGHT AFTER THE MIDTERMS
+- 09/13 22:35 [DeItaone] TRUMP ON IRAN: IRAN WANTS TO MAKE A DEAL SO BADLY

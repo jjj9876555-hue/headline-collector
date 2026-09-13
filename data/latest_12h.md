@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 22:23 JST／対象: 09/13 10:23 〜 09/13 22:23 JST（時刻はすべて日本時間）
+生成: 2026-09-13 22:35 JST／対象: 09/13 10:35 〜 09/13 22:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/13 18:12 | 09/13 22:04 | ⚠ 137分（18:17→20:35） |
-| FirstSquawk | 156 | 09/13 10:23 | 09/13 21:58 | 42分（20:10→20:53） |
+| DeItaone | 10 | 09/13 18:12 | 09/13 22:35 | ⚠ 137分（18:17→20:35） |
+| FirstSquawk | 152 | 09/13 10:44 | 09/13 21:58 | 42分（20:10→20:53） |
 | financialjuice | 28 | 09/13 13:41 | 09/13 22:15 | ⚠ 103分（14:08→15:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 188 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 187 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 10:23 [FirstSquawk] Warplanes conducted three strikes against Houthi militia positions and barracks on the Mist Front, according to Yemen’s Armed Forces.
-- 09/13 10:33 [FirstSquawk] INDIA IPO MOVE: Tata Sons faces pressure to go public after India’s central bank called for the conglomerate’s listing, according to FT.
-- 09/13 10:34 [FirstSquawk] BRICS CALLS FOR DE-ESCALATION: The bloc is urging diplomatic action to prevent further instability in the Gulf as war fears increase, according to FT.
-- 09/13 10:34 [FirstSquawk] Ottawa is seeking to attract $1 trillion from global investors looking for an alternative haven amid Trump-era uncertainty, according to FT.
 - 09/13 10:44 [FirstSquawk] FAKE DONATION CLAIM: A Chinese social media personality faces scrutiny after a purported US$150,000 flood contribution turned out to amount to only 15 cents, according to the Red Cross.
 - 09/13 10:45 [FirstSquawk] EXPLOSION UNDER INVESTIGATION: Bulgarian officials are examining the cause of an explosion at a weapons storage facility.
 - 09/13 10:45 [FirstSquawk] CHINA WARNS US: Beijing urges Washington to cease its intelligence-gathering operations and criticizes the U.S. over its alleged “gangster logic.”
@@ -212,3 +208,6 @@
 - 09/13 22:13 [financialjuice] Trump on Ukraine: we discussed that with Zelenskiy
 - 09/13 22:14 [financialjuice] Trump on Irish unity: natural to unite north and south
 - 09/13 22:15 [financialjuice] Trump on Irish unity: Won't discuss Scotland for now, will address later
+- 09/13 22:34 [DeItaone] TRUMP : ASKED ABOUT FED DECISION NEXT WEEK, SAYS WE SHOULD HAVE THE LOWEST RATE IN THE WORLD
+- 09/13 22:35 [DeItaone] TRUMP ON IRAN: IRAN WAR WILL END - MAYBE BEFORE OR RIGHT AFTER THE MIDTERMS
+- 09/13 22:35 [DeItaone] TRUMP ON IRAN: IRAN WANTS TO MAKE A DEAL SO BADLY
