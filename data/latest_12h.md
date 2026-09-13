@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 06:05 JST／対象: 09/13 18:05 〜 09/14 06:05 JST（時刻はすべて日本時間）
+生成: 2026-09-14 06:23 JST／対象: 09/13 18:23 〜 09/14 06:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/13 18:12 | 09/14 04:44 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 105 | 09/13 18:09 | 09/14 05:48 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 44 | 09/13 19:12 | 09/14 06:02 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 22 | 09/13 20:35 | 09/14 04:44 | ⚠ 147分（22:47→01:15） |
+| FirstSquawk | 100 | 09/13 18:36 | 09/14 06:18 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 47 | 09/13 19:12 | 09/14 06:16 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 170 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 166 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 18:09 [FirstSquawk] Malaysian PM Anwar Ibrahim tells PM Modi he received several messages from people asking him to convey their regards to the Indian Prime Minister during their BRICS 2026 bilateral meeting.
-- 09/13 18:10 [FirstSquawk] Vladimir Putin rejected Volodymyr Zelensky's offer for direct talks at the December G20 summit in Miami. Kremlin spokesman Dmitry Peskov called US talks "impossible," stating Putin will only meet in Moscow.
-- 09/13 18:10 [FirstSquawk] Iranians gathered across Europe on Saturday to protest against the Islamic Republic, with demonstrations held in London, Nuremberg, Frankfurt, Helsinki, Bordeaux and Stuttgart, videos received by Iran International show.
-- 09/13 18:10 [FirstSquawk] Iran has signed contracts to import about 320 megawatts of electricity from Turkmenistan and between 300 and 350 megawatts from Armenia, a deputy energy minister said on Sunday.
-- 09/13 18:10 [FirstSquawk] PM Modi, Egypt Prez Sisi meet in Delhi
-- 09/13 18:12 [DeItaone] The biggest issue with an AI "safety slowdown:" What happens with China? While there are legitimate concerns around the safety of AI and how quickly it is evolving, the AI race is global. And, in today's ecosystem, falling even 6 months beh…
-- 09/13 18:14 [FirstSquawk] UKRAINE’S MILITARY: STRIKE ON TANEKO OIL REFINERY IN RUSSIA’S TATARSTAN
-- 09/13 18:14 [FirstSquawk] ITALY ECONOMY MINISTER: CRUCIAL FOR ITALY TO MAINTAIN PUBLIC FINANCES AS ECB HIKES INTEREST RATES
-- 09/13 18:17 [DeItaone] $TSLA - TESLA TEASES OCTOBER 1 ROADSTER EVENT Tesla is teasing an October 1 event for its long-delayed next-generation Roadster, nearly nine years after Elon Musk first unveiled the vehicle. The “Go for launch” messaging is fueling speculat…
 - 09/13 18:36 [FirstSquawk] Xi Jinping has sought to turn the annual BRICS summit into another platform for championing Beijing’s vision for AI, as it vies for global influence over the technology with the US
 - 09/13 18:36 [FirstSquawk] Dario Amodei built Anthropic to avoid the very kind of moment that is playing out now
 - 09/13 18:37 [FirstSquawk] Houthi tribal mobilization shows long lines of armed Toyota technicals in the desert, the classic Yemen war image
@@ -194,3 +185,8 @@
 - 09/14 05:48 [FirstSquawk] ANTHROPIC, OPENAI AND GOOGLE ARE DISCUSSING AN INDUSTRY-LED AI STANDARDS BODY TO COORDINATE TESTING AND AUDITING OF ADVANCED AI SYSTEMS, WITH TALKS REPORTEDLY CONTINUING AS RECENTLY AS LAST WEEK.
 - 09/14 05:48 [FirstSquawk] OPENAI CEO SAM ALTMAN SUPPORTS AN INDEPENDENT AI TESTING AND AUDITING ORGANIZATION BUT BELIEVES MAJOR AI LABS SHOULD ESTABLISH IT WITHOUT U.S. GOVERNMENT SUPPORT, AS AI SAFETY COORDINATION GAINS MOMENTUM.
 - 09/14 06:02 [financialjuice] Several blasts heard in Iran's Sirik: source unknown, state media.
+- 09/14 06:07 [FirstSquawk] HOUSE SPEAKER MIKE JOHNSON SAYS TRUMP’S PROPOSED $5,000 DIVIDEND FOR EVERY AMERICAN ADULT WOULD REQUIRE CONGRESSIONAL APPROVAL, CONTRADICTING TRUMP’S CLAIM THAT THE PAYMENTS CAN BE MADE WITHOUT AUTHORIZATION. JOHNSON VOWS TO WORK TO PASS TH…
+- 09/14 06:13 [financialjuice] Election authority projection: Sweden's center-left opposition bloc poised to secure 165 seats in parliament
+- 09/14 06:15 [financialjuice] Election authority projection: Sweden's centre-left opposition bloc anticipated to secure 175 seats in parliament
+- 09/14 06:16 [financialjuice] Election authority projection: Sweden's right-wing ruling bloc set to capture 174 parliamentary seats
+- 09/14 06:18 [FirstSquawk] NORTH KOREA HELD A LONG-RANGE ARTILLERY AND MISSILE DRILL ON SEPTEMBER 12 || THE DRILL INVOLVED ATTACK DRONES AND NEW BALLISTIC MISSILES, SIGNALING A BROADER SHOW OF NORTH KOREA’S STRIKE CAPABILITIES, ACCORDING TO STATE MEDIA KCNA.
