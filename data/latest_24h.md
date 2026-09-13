@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 23:16 JST／対象: 09/12 23:16 〜 09/13 23:16 JST（時刻はすべて日本時間）
+生成: 2026-09-13 23:32 JST／対象: 09/12 23:32 〜 09/13 23:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 19 | 09/13 00:09 | 09/13 22:47 | ⚠ 984分（01:48→18:12） |
-| FirstSquawk | 239 | 09/12 23:19 | 09/13 22:48 | ⚠ 366分（03:29→09:35） |
+| FirstSquawk | 230 | 09/12 23:57 | 09/13 23:27 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 54 | 09/13 00:19 | 09/13 22:36 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 307 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 298 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 23:19 [FirstSquawk] INDIA AND CHINA REPORT POSITIVE ADVANCEMENTS IN THEIR RELATIONSHIP.
-- 09/12 23:19 [FirstSquawk] INDIA ISSUES JOINT STATEMENT FOLLOWING MEETING BETWEEN XI AND MODI.
-- 09/12 23:19 [FirstSquawk] XI AND MODI AGREE TO FIND A BORDER SOLUTION THAT BOTH SIDES ACCEPT.
-- 09/12 23:20 [FirstSquawk] PEACE BETWEEN INDIA AND CHINA AT THE BORDER IS CRUCIAL FOR DEVELOPMENT.
-- 09/12 23:20 [FirstSquawk] XI AND MODI HAVE DECIDED TO ADDRESS EACH OTHER'S TRADE CONCERNS.
-- 09/12 23:20 [FirstSquawk] XI AND MODI DISCUSS SOLUTIONS FOR SUPPLY CHAIN ISSUES.
-- 09/12 23:20 [FirstSquawk] XI AND MODI PLAN TO CREATE STABLE MARKET ACCESS.
-- 09/12 23:20 [FirstSquawk] IRAN WILL UPDATE GULF COUNTRIES ON THE HORMUZ SHIPPING DEAL THIS MONDAY.
-- 09/12 23:21 [FirstSquawk] MODI STRESSES THE IMPORTANCE OF BOTH SIDES FOLLOWING CURRENT BORDER AGREEMENTS.
-- 09/12 23:21 [FirstSquawk] ANTHROPIC'S AMODEI PUBLISHES NEW LETTER REGARDING AI SAFETY.
-- 09/12 23:21 [FirstSquawk] ANTHROPIC CEO STRESSED THE IMPORTANCE OF SLOWING DOWN AI MODEL ADVANCEMENTS.
 - 09/12 23:57 [FirstSquawk] IRAN SAYS HORMUZ DEAL DOES NOT PROMISE SAFE SHIPPING PASSAGE.
 - 09/12 23:57 [FirstSquawk] IRAN STATES IT HAS NO ISSUES WITH THE UAE BUT HAS CONCERNS ABOUT US MILITARY BASES IN NEARBY NATIONS.
 - 09/12 23:57 [FirstSquawk] IRAN DENIES CLAIMS ABOUT PURSUING A NUCLEAR BOMB, CALLING IT "JUST PROPAGANDA."
@@ -331,3 +320,5 @@
 - 09/13 22:48 [FirstSquawk] US Trump on Ukraine: we discussed that with Zelenskiy
 - 09/13 22:48 [FirstSquawk] US Trump on Irish unity: Won't discuss Scotland for now, will address later
 - 09/13 22:48 [FirstSquawk] US Trump on China: not concerned Xi will cancel summit, says China has treated US fairly over recent years
+- 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The security of the Arabian Gulf will not be stable without respecting the sovereignty and independence of its states and refraining from interfering in their affairs.
+- 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The Kingdom's security is inviolable, and the GCC states will not accept any targeting of their territories.

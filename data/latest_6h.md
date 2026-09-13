@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 23:16 JST／対象: 09/13 17:16 〜 09/13 23:16 JST（時刻はすべて日本時間）
+生成: 2026-09-13 23:32 JST／対象: 09/13 17:32 〜 09/13 23:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 16 | 09/13 18:12 | 09/13 22:47 | ⚠ 137分（18:17→20:35） |
-| FirstSquawk | 61 | 09/13 17:19 | 09/13 22:48 | ⚠ 48分（21:58→22:46） |
-| financialjuice | 21 | 09/13 17:25 | 09/13 22:36 | ⚠ 84分（17:48→19:12） |
+| FirstSquawk | 61 | 09/13 17:48 | 09/13 23:27 | ⚠ 48分（21:58→22:46） |
+| financialjuice | 20 | 09/13 17:48 | 09/13 22:36 | ⚠ 84分（17:48→19:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 94 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 94 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 17:19 [FirstSquawk] Chinese President #XiJinping on Saturday urged BRICS countries to firmly stand on the right side of history and strive to be a pioneer of our times
-- 09/13 17:19 [FirstSquawk] Delhi: Chinese President Xi Jinping departs from Delhi after participating in the BRICS Summit 2026
-- 09/13 17:25 [financialjuice/FirstSquawk] Italy economy minister: crucial for Italy to maintain public finances as ECB hikes interest rates
 - 09/13 17:48 [financialjuice/FirstSquawk] Ukraine’s military: strike on Taneko oil refinery in Russia’s Tatarstan
 - 09/13 17:48 [FirstSquawk] Russian President Vladimir Putin departs from Delhi after participating in the BRICS Summit 2026.
 - 09/13 17:48 [FirstSquawk] Jared Kushner on Ukraine: President Putin's laid out his line of what he wants to achieve. If Ukraine, you know, wanted to withdraw to that line, then obviously, you know, we have the rest of the deal set up and put together
@@ -38,6 +35,7 @@
 - 09/13 18:10 [FirstSquawk] Iran has signed contracts to import about 320 megawatts of electricity from Turkmenistan and between 300 and 350 megawatts from Armenia, a deputy energy minister said on Sunday.
 - 09/13 18:10 [FirstSquawk] PM Modi, Egypt Prez Sisi meet in Delhi
 - 09/13 18:12 [DeItaone] The biggest issue with an AI "safety slowdown:" What happens with China? While there are legitimate concerns around the safety of AI and how quickly it is evolving, the AI race is global. And, in today's ecosystem, falling even 6 months beh…
+- 09/13 18:14 [FirstSquawk] ITALY ECONOMY MINISTER: CRUCIAL FOR ITALY TO MAINTAIN PUBLIC FINANCES AS ECB HIKES INTEREST RATES
 - 09/13 18:17 [DeItaone] $TSLA - TESLA TEASES OCTOBER 1 ROADSTER EVENT Tesla is teasing an October 1 event for its long-delayed next-generation Roadster, nearly nine years after Elon Musk first unveiled the vehicle. The “Go for launch” messaging is fueling speculat…
 - 09/13 18:36 [FirstSquawk] Xi Jinping has sought to turn the annual BRICS summit into another platform for championing Beijing’s vision for AI, as it vies for global influence over the technology with the US
 - 09/13 18:36 [FirstSquawk] Dario Amodei built Anthropic to avoid the very kind of moment that is playing out now
@@ -118,3 +116,5 @@
 - 09/13 22:48 [FirstSquawk] US Trump on Ukraine: we discussed that with Zelenskiy
 - 09/13 22:48 [FirstSquawk] US Trump on Irish unity: Won't discuss Scotland for now, will address later
 - 09/13 22:48 [FirstSquawk] US Trump on China: not concerned Xi will cancel summit, says China has treated US fairly over recent years
+- 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The security of the Arabian Gulf will not be stable without respecting the sovereignty and independence of its states and refraining from interfering in their affairs.
+- 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The Kingdom's security is inviolable, and the GCC states will not accept any targeting of their territories.

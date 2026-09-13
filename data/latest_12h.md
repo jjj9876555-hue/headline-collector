@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 23:16 JST／対象: 09/13 11:16 〜 09/13 23:16 JST（時刻はすべて日本時間）
+生成: 2026-09-13 23:32 JST／対象: 09/13 11:32 〜 09/13 23:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 16 | 09/13 18:12 | 09/13 22:47 | ⚠ 137分（18:17→20:35） |
-| FirstSquawk | 153 | 09/13 11:17 | 09/13 22:48 | ⚠ 48分（21:58→22:46） |
+| FirstSquawk | 153 | 09/13 11:41 | 09/13 23:27 | ⚠ 48分（21:58→22:46） |
 | financialjuice | 29 | 09/13 13:41 | 09/13 22:36 | ⚠ 103分（14:08→15:51） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 11:17 [FirstSquawk] RUSSIA AIRSTRIKES: Russian aerial attacks have caused an estimated $10 billion in damage to Ukraine’s infrastructure and fixed assets this year.
-- 09/13 11:18 [FirstSquawk] IRAQ PRODUCTION BOOST: The Ajil oilfield is set to raise crude output to 40,000 bpd from 30,000 bpd under a new agreement, according to the prime minister’s office.
 - 09/13 11:41 [FirstSquawk] U.S. GOVERNMENT NET INTEREST PAYMENTS: 2015 fiscal year: $223 billion 2025 fiscal year: $970 billion That represents an increase of roughly 335% over the decade - spectatorindex
 - 09/13 11:42 [FirstSquawk] The Australian government vows tougher measures to ensure telecom networks can withstand future outages following the Optus incident.
 - 09/13 11:42 [FirstSquawk] AMERICAN PAYCHECKS: Inflation has overtaken wage gains again, putting renewed pressure on household incomes.
@@ -218,3 +216,5 @@
 - 09/13 22:48 [FirstSquawk] US Trump on Ukraine: we discussed that with Zelenskiy
 - 09/13 22:48 [FirstSquawk] US Trump on Irish unity: Won't discuss Scotland for now, will address later
 - 09/13 22:48 [FirstSquawk] US Trump on China: not concerned Xi will cancel summit, says China has treated US fairly over recent years
+- 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The security of the Arabian Gulf will not be stable without respecting the sovereignty and independence of its states and refraining from interfering in their affairs.
+- 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The Kingdom's security is inviolable, and the GCC states will not accept any targeting of their territories.
