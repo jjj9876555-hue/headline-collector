@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 14:31 JST／対象: 09/13 08:31 〜 09/13 14:31 JST（時刻はすべて日本時間）
+生成: 2026-09-13 14:44 JST／対象: 09/13 08:44 〜 09/13 14:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 86 | 09/13 09:35 | 09/13 14:21 | 23分（11:18→11:41） |
+| FirstSquawk | 91 | 09/13 09:35 | 09/13 14:43 | 23分（11:18→11:41） |
 | financialjuice | 4 | 09/13 10:01 | 09/13 14:08 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 90 行（統合前 90 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 95 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -114,3 +114,8 @@
 - 09/13 14:08 [FirstSquawk] South Korea prevails in a 260 billion won arbitration dispute involving a Chinese investor, according to media reports. The final ruling delivers a major legal win for Seoul and removes a potentially significant financial liability.
 - 09/13 14:15 [FirstSquawk] Trump forecasts an end to the Iran conflict following the midterm elections, saying oil prices would fall significantly once the war ends - CNBC
 - 09/13 14:21 [FirstSquawk] Equinix confronts challenges surrounding its South African hyperscale data-centre project. The dispute highlights rising regulatory and operational risks for global data-centre operators.
+- 09/13 14:32 [FirstSquawk] Burnham pushes back against calls to overhaul the student loan system ahead of the Budget. The stance could put proposed changes to student financing under renewed political scrutiny as the government prepares its fiscal plans.
+- 09/13 14:34 [FirstSquawk] Trump administration moves forward with a proposed $100,000 fee for international graduates seeking to work in the US under OPT. The proposal could significantly raise the cost of post-study employment for foreign students and reshape the U…
+- 09/13 14:38 [FirstSquawk] US government debt climbs to $40 trillion as Washington’s borrowing accelerates at a historic pace as per FT The milestone puts America’s rapidly expanding debt burden back in focus, raising fresh questions over the long-term fiscal outlook…
+- 09/13 14:38 [FirstSquawk] Employment among people in their 20s is declining at its fastest pace since the 1998 Asian financial crisis. The data points to a growing shift toward later entry into the workforce, raising fresh concerns about youth employment and labor-m…
+- 09/13 14:43 [FirstSquawk] South Korea’s employment among people in their 20s averaged 3.38 million during January–August, down 193,000 from a year earlier. The decline signals a deeper shift in the labor market, with younger people increasingly entering employment a…
