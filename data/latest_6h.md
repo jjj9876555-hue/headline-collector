@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 03:19 JST／対象: 09/13 21:19 〜 09/14 03:19 JST（時刻はすべて日本時間）
+生成: 2026-09-14 03:35 JST／対象: 09/13 21:35 〜 09/14 03:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 16 | 09/13 21:44 | 09/14 02:47 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 41 | 09/13 21:25 | 09/14 01:59 | ⚠ 48分（21:58→22:46） |
+| FirstSquawk | 34 | 09/13 21:57 | 09/14 03:30 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 25 | 09/13 21:37 | 09/14 03:08 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 81 行（統合前 82 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 74 行（統合前 75 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 21:25 [FirstSquawk] Syrian diplomatic source: Ministers Fidan and Al-Shaibani are discussing in Damascus the latest developments regarding the dissolution of the SDF and its integration into state institutions.
-- 09/13 21:25 [FirstSquawk] Syrian diplomatic source: Syrian-Turkish talks are addressing the situation in southern Syria and Israel's repeated violations.
-- 09/13 21:26 [FirstSquawk] SPA: The Saudi Crown Prince and the Pakistani Prime Minister discuss by phone the latest developments and efforts to de-escalate tensions in the region
-- 09/13 21:26 [FirstSquawk] SPA: The Prime Minister of Pakistan affirmed his condemnation of the attacks on Saudi oil infrastructure and Pakistan's support for the Kingdom's security.
-- 09/13 21:26 [FirstSquawk] Syrian Foreign Minister: We look forward to increasing trade exchange with Turkey to reach approximately $10 billion annually.
-- 09/13 21:27 [FirstSquawk] Turkish Foreign Minister: Syrian-Turkish relations have made unprecedented progress over the past two years
-- 09/13 21:27 [FirstSquawk] Turkish Foreign Minister: Syria is making serious efforts to enhance the security and stability of the region
-- 09/13 21:27 [FirstSquawk] Turkish Foreign Minister: We discussed in Damascus the issue of President Erdogan's visit to Syria , which will be very soon.
-- 09/13 21:27 [FirstSquawk] Turkish Foreign Minister: The SDF's announcement of its dissolution is important and we see it as a positive step, but its implementation on the ground is also important.
-- 09/13 21:28 [FirstSquawk] Turkish Foreign Minister: Israel is permanently targeting the stability of Syria, and this serves the interests of terrorist forces in the region.
-- 09/13 21:28 [FirstSquawk] Turkish Foreign Minister: The regional and global economy has entered a crisis following the events in the Strait of Hormuz.
 - 09/13 21:37 [financialjuice] Iranian president: talk with Abu Dhabi crown prince was positive, agreed to move beyond past - Tasnim
 - 09/13 21:44 [DeItaone] IRANIAN PRESIDENT SAYS TALK WITH ABU DHABI CROWN PRINCE WAS GOOD, "AGREED TO PUT PAST BEHIND US" - TASNIM
 - 09/13 21:57 [FirstSquawk] International Organization for Migration: Nearly 85,000 people have been forced to leave their homes due to fighting in Yemen, and about 2,000 have arrived in Djibouti.
@@ -105,3 +94,7 @@
 - 09/14 03:05 [financialjuice] Sweden's centre-left bloc projected to secure 46.8% of votes in election: public broadcaster SVT exit poll
 - 09/14 03:05 [financialjuice] Sweden's right-wing ruling bloc tipped to secure 51.3% of vote in election: public broadcaster SVT exit poll
 - 09/14 03:08 [financialjuice] Sweden's centre-left bloc projected to secure 51.3% of votes in election: public broadcaster SVT exit poll
+- 09/14 03:29 [FirstSquawk] A RUSSIAN DRONE STRUCK A TRAIN NEAR THE UKRAINE-POLAND BORDER ON SUNDAY SHORTLY AFTER SENIOR VISITING OFFICIALS — INCLUDING FORMER U.K. PRIME MINISTER BORIS JOHNSON AND FORMER SWEDISH PRIME MINISTER CARL BILDT — PASSED THROUGH, UKRAINE'S ST…
+- 09/14 03:29 [FirstSquawk] UKRZALIZNYTSIA SAID IT IS 'HIGHLY PROBABLE' THE DRONE'S TARGET WAS THE DIPLOMATIC TRAIN, WITH ANOTHER TRAIN CARRYING FORMER CIA DIRECTOR DAVID PETRAEUS STILL AT THE STATION WHEN THE DRONE STRUCK, THOUGH NO CASUALTIES WERE IMMEDIATELY REPORT…
+- 09/14 03:29 [FirstSquawk] BILDT SAID ON X IT 'WASN'T OUR TRAIN, BUT THE ONE JUST MINUTES AFTER US', WHILE JOHNSON CALLED IT 'THE KIND OF RANDOM AND SENSELESS ATTACK UKRAINIANS ARE ENDURING EVERY DAY'.
+- 09/14 03:30 [FirstSquawk] TRUMP SAYS HE WILL REMOVE U.S. TARIFFS ON IRISH WHISKEY, DELIVERING A MAJOR WIN FOR IRELAND’S DISTILLERS AFTER APPEALS FROM PRIME MINISTER MICHEÁL MARTIN AND GOLFER SHANE LOWRY. THE MOVE WOULD END THE CURRENT 10% U.S. TARIFF ON IRISH WHISKE…
