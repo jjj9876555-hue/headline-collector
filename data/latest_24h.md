@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 13:58 JST／対象: 09/12 13:58 〜 09/13 13:58 JST（時刻はすべて日本時間）
+生成: 2026-09-13 14:15 JST／対象: 09/12 14:15 〜 09/13 14:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 226 | 09/12 14:01 | 09/13 13:57 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 77 | 09/12 15:10 | 09/13 13:41 | ⚠ 295分（05:05→10:01） |
+| FirstSquawk | 228 | 09/12 14:18 | 09/13 14:15 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 78 | 09/12 15:10 | 09/13 14:08 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 327 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 330 行（統合前 333 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 14:01 [FirstSquawk] Xi’s India Visit, Bank Capital Boosts and EU-China Trade in Focus — SCMP China’s President Xi Jinping’s India visit, fresh bank capital injections and the evolving EU-China trade relationship are among the key developments shaping Beijing’s…
-- 09/12 14:10 [FirstSquawk] Munich Strengthens Position as Chinese Automakers’ R&D Hub in Europe Munich is cementing its role as a key European research and development base for Chinese carmakers, while BMW is losing employees to Chinese startups increasingly viewed a…
 - 09/12 14:18 [FirstSquawk] US decision to spare optical transceivers eases pressure on China’s supply chain.
 - 09/12 14:25 [FirstSquawk] August consumer-price growth in the US adds to expectations for a rate increase.
 - 09/12 14:33 [FirstSquawk] Japan Automakers to Overhaul Factory Schedules From FY2027 to Attract Workers — Kyodo Japanese automakers plan to redesign their factory operating calendars from fiscal 2027 as they seek to make manufacturing jobs more attractive and addres…
@@ -351,3 +349,8 @@
 - 09/13 13:42 [FirstSquawk] Commercial vessel incident near Iran’s Qeshm Island leaves one dead and three injured
 - 09/13 13:51 [FirstSquawk] Patient records from UK general practices have been added to Palantir’s NHS data platform without public attention. The development raises fresh questions over how sensitive health information is being integrated, managed and accessed acros…
 - 09/13 13:57 [FirstSquawk] Anthropic CEO urges a slower pace of AI development as concerns mount over the potential risks of superintelligent systems. The warning highlights growing industry debate over whether AI progress is moving faster than safety measures can ke…
+- 09/13 14:03 [FirstSquawk] US pushes multilateral development banks to abandon climate-finance targets. The move could reshape how major global lenders allocate funding toward climate and clean-energy projects.
+- 09/13 14:08 [FirstSquawk] North Korean state media once again makes no mention of the country’s latest missile launches. The silence comes as Pyongyang continues its weapons activity, leaving state media’s lack of coverage notable.
+- 09/13 14:08 [financialjuice] South Korea government wins final ruling in 260 billion won Chinese investor arbitration case - media
+- 09/13 14:08 [FirstSquawk] South Korea prevails in a 260 billion won arbitration dispute involving a Chinese investor, according to media reports. The final ruling delivers a major legal win for Seoul and removes a potentially significant financial liability.
+- 09/13 14:15 [FirstSquawk] Trump forecasts an end to the Iran conflict following the midterm elections, saying oil prices would fall significantly once the war ends - CNBC

@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 13:58 JST／対象: 09/13 07:58 〜 09/13 13:58 JST（時刻はすべて日本時間）
+生成: 2026-09-13 14:15 JST／対象: 09/13 08:15 〜 09/13 14:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 81 | 09/13 09:35 | 09/13 13:57 | 23分（11:18→11:41） |
-| financialjuice | 3 | 09/13 10:01 | 09/13 13:41 | ⚠ 220分（10:01→13:41） |
+| FirstSquawk | 85 | 09/13 09:35 | 09/13 14:15 | 23分（11:18→11:41） |
+| financialjuice | 4 | 09/13 10:01 | 09/13 14:08 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 84 行（統合前 84 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 89 行（統合前 89 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -108,3 +108,8 @@
 - 09/13 13:42 [FirstSquawk] Commercial vessel incident near Iran’s Qeshm Island leaves one dead and three injured
 - 09/13 13:51 [FirstSquawk] Patient records from UK general practices have been added to Palantir’s NHS data platform without public attention. The development raises fresh questions over how sensitive health information is being integrated, managed and accessed acros…
 - 09/13 13:57 [FirstSquawk] Anthropic CEO urges a slower pace of AI development as concerns mount over the potential risks of superintelligent systems. The warning highlights growing industry debate over whether AI progress is moving faster than safety measures can ke…
+- 09/13 14:03 [FirstSquawk] US pushes multilateral development banks to abandon climate-finance targets. The move could reshape how major global lenders allocate funding toward climate and clean-energy projects.
+- 09/13 14:08 [FirstSquawk] North Korean state media once again makes no mention of the country’s latest missile launches. The silence comes as Pyongyang continues its weapons activity, leaving state media’s lack of coverage notable.
+- 09/13 14:08 [financialjuice] South Korea government wins final ruling in 260 billion won Chinese investor arbitration case - media
+- 09/13 14:08 [FirstSquawk] South Korea prevails in a 260 billion won arbitration dispute involving a Chinese investor, according to media reports. The final ruling delivers a major legal win for Seoul and removes a potentially significant financial liability.
+- 09/13 14:15 [FirstSquawk] Trump forecasts an end to the Iran conflict following the midterm elections, saying oil prices would fall significantly once the war ends - CNBC
