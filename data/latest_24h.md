@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 05:42 JST／対象: 09/13 05:42 〜 09/14 05:42 JST（時刻はすべて日本時間）
+生成: 2026-09-14 05:52 JST／対象: 09/13 05:52 〜 09/14 05:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/13 18:12 | 09/14 04:44 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 238 | 09/13 09:35 | 09/14 05:23 | ⚠ 90分（01:59→03:29） |
+| FirstSquawk | 240 | 09/13 09:35 | 09/14 05:48 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 55 | 09/13 10:01 | 09/14 05:39 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 312 行（統合前 317 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 314 行（統合前 319 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -336,3 +336,5 @@
 - 09/14 05:23 [FirstSquawk] NO CASUALTIES WERE REPORTED, WHILE ANOTHER TRAIN CARRYING FORMER CIA DIRECTOR DAVID PETRAEUS WAS STILL AT THE STATION WHEN THE DRONE HIT, HIGHLIGHTING GROWING SECURITY RISKS AROUND UKRAINE'S WESTERN BORDER.
 - 09/14 05:39 [financialjuice] Sweden's center-left opposition bloc now projected to win 175 seats in parliament, broadcaster SVT shows
 - 09/14 05:39 [financialjuice] Sweden's right-wing ruling bloc now projected to win 174 parliamentary seats, broadcaster SVT shows
+- 09/14 05:48 [FirstSquawk] ANTHROPIC, OPENAI AND GOOGLE ARE DISCUSSING AN INDUSTRY-LED AI STANDARDS BODY TO COORDINATE TESTING AND AUDITING OF ADVANCED AI SYSTEMS, WITH TALKS REPORTEDLY CONTINUING AS RECENTLY AS LAST WEEK.
+- 09/14 05:48 [FirstSquawk] OPENAI CEO SAM ALTMAN SUPPORTS AN INDEPENDENT AI TESTING AND AUDITING ORGANIZATION BUT BELIEVES MAJOR AI LABS SHOULD ESTABLISH IT WITHOUT U.S. GOVERNMENT SUPPORT, AS AI SAFETY COORDINATION GAINS MOMENTUM.
