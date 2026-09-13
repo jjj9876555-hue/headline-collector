@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 19:53 JST／対象: 09/13 07:53 〜 09/13 19:53 JST（時刻はすべて日本時間）
+生成: 2026-09-13 20:15 JST／対象: 09/13 08:15 〜 09/13 20:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/13 18:12 | 09/13 18:17 | 5分（18:12→18:17） |
-| FirstSquawk | 160 | 09/13 09:35 | 09/13 19:41 | 41分（15:32→16:14） |
-| financialjuice | 16 | 09/13 10:01 | 09/13 19:29 | ⚠ 220分（10:01→13:41） |
+| FirstSquawk | 162 | 09/13 09:35 | 09/13 20:10 | 41分（15:32→16:14） |
+| financialjuice | 17 | 09/13 10:01 | 09/13 19:54 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 175 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 178 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -199,3 +199,6 @@
 - 09/13 19:41 [FirstSquawk] Yemeni government-affiliated resistance: We have redeployed our forces to new defensive lines to thwart the plan to encircle them.
 - 09/13 19:41 [FirstSquawk] Yemeni government-affiliated resistance: Losing a battle is not the end, and we will continue the struggle until Yemen is liberated from Iran's proxies.
 - 09/13 19:41 [FirstSquawk] Syrian TV: Israeli occupation forces shelled the western outskirts of Beit Jinn town in western Damascus countryside with 3 artillery shells
+- 09/13 19:54 [financialjuice] Lithuanian national crisis management centre: possible drone alert has ended
+- 09/13 20:10 [FirstSquawk] Lithuania closes Vilnius airport and NATO sends fighter jets after possible drone sighting in Lithuanian airspace
+- 09/13 20:10 [FirstSquawk] Israeli artillery shelling targets the vicinity of the town of Beit Jinn, southwest of Damascus countryside.

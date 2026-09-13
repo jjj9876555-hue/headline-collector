@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 19:53 JST／対象: 09/12 19:53 〜 09/13 19:53 JST（時刻はすべて日本時間）
+生成: 2026-09-13 20:15 JST／対象: 09/12 20:15 〜 09/13 20:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/12 20:23 | 09/13 18:17 | ⚠ 984分（01:48→18:12） |
-| FirstSquawk | 259 | 09/12 19:55 | 09/13 19:41 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 65 | 09/12 19:55 | 09/13 19:29 | ⚠ 295分（05:05→10:01） |
+| FirstSquawk | 251 | 09/12 20:22 | 09/13 20:10 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 62 | 09/12 20:35 | 09/13 19:54 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 332 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 321 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 19:55 [financialjuice] Russia's Rosatom: plans to boost specialists at Bushehr nuclear power plant in Iran to 150 soon
-- 09/12 19:55 [FirstSquawk] Iraqi Prime Minister: The police chief of Maysan province has been relieved of his position and the directors of the security services in the province have been referred for investigation
-- 09/12 19:56 [FirstSquawk] Speaker of the Iraqi Parliament: We affirm the importance of adhering to the principle of limiting weapons to the hands of the state in order to preserve the security and sovereignty of the country
-- 09/12 19:56 [FirstSquawk] Speaker of the Iraqi Parliament: We support the government's measures to open an urgent investigation to uncover the parties involved in the attacks
-- 09/12 19:56 [FirstSquawk] Palestinian Red Crescent: 9 injured in Israeli shelling on a tent for displaced people in the city of Khan Yunis
-- 09/12 19:56 [financialjuice] Trump on Irish unification: no matter what you say or how you say it, there’s no good solution
-- 09/12 19:56 [FirstSquawk] BRICS Statement Reaffirming Our Commitment to the Peaceful Resolution of International Disputes Through Dialogue, Consultation and Diplomacy
-- 09/12 19:56 [FirstSquawk] BRICS Summit Statement: We Stress the Need to Engage in Conflict Prevention Efforts, Including Addressing Their Root Causes
-- 09/12 19:57 [FirstSquawk] BRICS Communiqué: We Call for a Multilateral Approach that Respects Diverse Perspectives and Positions on Critical Global Issues
-- 09/12 20:03 [financialjuice] UK government on Trump’s Irish unification remarks: PM Burnham’s stance on Good Friday Agreement remains unchanged
-- 09/12 20:04 [financialjuice] UK government on Trump’s Irish unification remarks: PM’s position remains no majority public backing for another referendum, and until that shifts, none will occur
-- 09/12 20:05 [FirstSquawk] IRAN PRESIDENT, UAE CROWN PRINCE HOLD TALKS AT BRICS - IRNA
-- 09/12 20:14 [FirstSquawk] Trump Signals Possible US-Canada Trade Deal Soon President Donald Trump said the United States and Canada could reach a trade agreement “fairly soon,” signaling optimism after months of escalating tensions between the two countries. Trump s…
-- 09/12 20:15 [FirstSquawk] Trump’s Ireland Visit Highlights Delicate US-Ireland Ties US President Donald Trump arrived in Ireland for a two-day visit, receiving a warm welcome from Irish leaders despite political tensions and public criticism surrounding his presiden…
 - 09/12 20:22 [FirstSquawk] TRUMP SAYS HIS MEETING WITH XI WILL BE EXCELLENT.
 - 09/12 20:22 [FirstSquawk] TRUMP PRAISES THE JOB MARKET, ATTRIBUTES FACTORY GROWTH TO TARIFFS.
 - 09/12 20:22 [FirstSquawk] TRUMP SLAMS EUROPE FOR 'UNACCEPTABLE' BUSINESS RULES.
@@ -356,3 +342,6 @@
 - 09/13 19:41 [FirstSquawk] Yemeni government-affiliated resistance: We have redeployed our forces to new defensive lines to thwart the plan to encircle them.
 - 09/13 19:41 [FirstSquawk] Yemeni government-affiliated resistance: Losing a battle is not the end, and we will continue the struggle until Yemen is liberated from Iran's proxies.
 - 09/13 19:41 [FirstSquawk] Syrian TV: Israeli occupation forces shelled the western outskirts of Beit Jinn town in western Damascus countryside with 3 artillery shells
+- 09/13 19:54 [financialjuice] Lithuanian national crisis management centre: possible drone alert has ended
+- 09/13 20:10 [FirstSquawk] Lithuania closes Vilnius airport and NATO sends fighter jets after possible drone sighting in Lithuanian airspace
+- 09/13 20:10 [FirstSquawk] Israeli artillery shelling targets the vicinity of the town of Beit Jinn, southwest of Damascus countryside.
