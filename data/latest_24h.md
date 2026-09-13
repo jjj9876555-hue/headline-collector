@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 02:43 JST／対象: 09/13 02:43 〜 09/14 02:43 JST（時刻はすべて日本時間）
+生成: 2026-09-14 02:59 JST／対象: 09/13 02:59 〜 09/14 02:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/13 18:12 | 09/14 02:20 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 216 | 09/13 02:57 | 09/14 01:59 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 46 | 09/13 02:58 | 09/14 00:18 | ⚠ 295分（05:05→10:01） |
+| DeItaone | 21 | 09/13 18:12 | 09/14 02:47 | ⚠ 147分（22:47→01:15） |
+| FirstSquawk | 214 | 09/13 03:18 | 09/14 01:59 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 46 | 09/13 03:02 | 09/14 02:46 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 278 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 277 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 02:57 [FirstSquawk] Israeli airstrike on the outskirts of Ali Taher Heights in southern Lebanon
-- 09/13 02:58 [financialjuice] Iran state media: sound of two blasts heard near Qeshm from the sea
-- 09/13 02:58 [FirstSquawk] Abu Dhabi Crown Prince Sheikh Khaled bin Mohammed bin Zayed meets Russian President Vladimir Putin on the sidelines of the "BRICS Summit" in New Delhi
 - 09/13 03:02 [financialjuice] Emergency alert in Saudi Arabia's Khamis Mushait warns of possible danger: Saudi Civil Defence
 - 09/13 03:03 [financialjuice] Emergency alert issued in Saudi Arabia's Abha warning of potential threat: Saudi Civil Defence
 - 09/13 03:11 [financialjuice] Danger passed in Khamis Mushait: Saudi civil defence
@@ -302,3 +299,5 @@
 - 09/14 01:59 [FirstSquawk] OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable' - Nikkei
 - 09/14 01:59 [FirstSquawk] Japan ruling camp-backed candidate wins Okinawa governor race - Nikkei
 - 09/14 02:20 [DeItaone] U.S. WARNS AGAINST HORMUZ DEAL OPTIMISM U.S. Energy Secretary Chris Wright warned traders against expecting a quick Strait of Hormuz breakthrough with Iran. Alternative routes are supplying about 10 million barrels a day, keeping oil market…
+- 09/14 02:46 [financialjuice] Trump: lifting tariffs on Irish whiskey
+- 09/14 02:47 [DeItaone] TRUMP SAYS HE IS LIFTING TARFFS ON IRISH WHISKEY
