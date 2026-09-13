@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 11:58 JST／対象: 09/12 23:58 〜 09/13 11:58 JST（時刻はすべて日本時間）
+生成: 2026-09-13 12:17 JST／対象: 09/13 00:17 〜 09/13 12:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/13 00:09 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
-| FirstSquawk | 77 | 09/12 23:59 | 09/13 11:53 | ⚠ 366分（03:29→09:35） |
+| DeItaone | 2 | 09/13 01:35 | 09/13 01:48 | 13分（01:35→01:48） |
+| FirstSquawk | 89 | 09/13 00:22 | 09/13 12:14 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 25 | 09/13 00:19 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 104 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 115 行（統合前 116 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 23:59 [FirstSquawk] PEZESHKIAN STATES NO DECISION HAS BEEN MADE REGARDING DIRECT TALKS WITH THE US, AND A TRUSTING ENVIRONMENT MUST BE CREATED.
-- 09/13 00:09 [DeItaone] IRAN, UAE BACK BRICS CALL FOR RESTRAINT Iran and the UAE jointly backed a BRICS declaration calling for maximum restraint in the Middle East war, marking a notable diplomatic step between the two sides. Iranian President Masoud Pezeshkian a…
 - 09/13 00:19 [financialjuice] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 million cubic feet/day from 135 million — PM's office
 - 09/13 00:19 [financialjuice/FirstSquawk] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd: PM’s office
 - 09/13 00:22 [FirstSquawk] ELON MUSK AGREES WITH AMODEI ON THE NEED TO SLOW DOWN AI MODEL DEVELOPMENT.
@@ -128,3 +126,16 @@
 - 09/13 11:46 [FirstSquawk] AI WORKFORCE CHALLENGE: Peru’s candidate for ILO director-general says he will focus on managing the growing impact of AI on jobs and the future of work.
 - 09/13 11:46 [FirstSquawk] IRAN-U.S. TENSIONS: Iranian President Pezeshkian says Tehran will not bow to U.S. pressure as Indian Prime Minister Modi calls for dialogue and peace.
 - 09/13 11:53 [FirstSquawk] IRAN DEFENSE: Top Army and IRGC commanders reaffirm an unbreakable alliance after confronting “terrorist powers.”
+- 09/13 11:59 [FirstSquawk] Crompton Greaves Consumer expands portfolio with outdoor wall lights
+- 09/13 11:59 [FirstSquawk] Families fuel China’s growing ‘red tourism’ trend at Communist Party sites
+- 09/13 11:59 [FirstSquawk] Iran’s security committee says no NPT withdrawal bill has been submitted despite earlier claims
+- 09/13 12:01 [FirstSquawk] U.S. ban threat tests Bombardier as its backlog offers protection but its valuation leaves little room for mistakes
+- 09/13 12:02 [FirstSquawk] China’s Xi pushes BRICS to lead on innovation, peace and global governance
+- 09/13 12:07 [FirstSquawk] Musk says Tesla will finally showcase the Roadster on October 1
+- 09/13 12:08 [FirstSquawk] Saudi Arabia’s top diplomat Faisal bin Farhan lands in Delhi ahead of BRICS Summit
+- 09/13 12:08 [FirstSquawk] G-7 rate pressures mount, putting the spotlight on Warsh
+- 09/13 12:09 [FirstSquawk] Indonesian ship with 243 passengers goes out of contact, prompting rescue response
+- 09/13 12:10 [FirstSquawk] Iraq rejects becoming a base for foreign conflicts or aggression against neighboring states
+- 09/13 12:10 [FirstSquawk] Houthi attack targets Yemeni forces in Ras Al-Arah, with deaths and injuries reported
+- 09/13 12:14 [FirstSquawk] Korean ETF frenzy fades as volatility pushes investors to the sidelines
+- 09/13 12:14 [FirstSquawk] STUDENT LOAN BORROWERS FACE MONTH-END DEADLINE TO AVOID COSTLIER REPAYMENT PLAN Millions of U.S. federal student loan borrowers could be automatically moved into the Standard Repayment Plan—often the most expensive monthly option—if they do…

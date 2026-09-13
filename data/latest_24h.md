@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 11:58 JST／対象: 09/12 11:58 〜 09/13 11:58 JST（時刻はすべて日本時間）
+生成: 2026-09-13 12:17 JST／対象: 09/12 12:17 〜 09/13 12:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 211 | 09/12 12:04 | 09/13 11:53 | ⚠ 366分（03:29→09:35） |
+| FirstSquawk | 221 | 09/12 12:21 | 09/13 12:14 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 78 | 09/12 13:03 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 313 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 323 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 12:04 [FirstSquawk] Banco Master case files cleared for release in Brazil, excluding documents that could affect active investigations.
-- 09/12 12:11 [FirstSquawk] China played a pivotal role in Tesla’s rise into a worldwide EV leader. But the automaker now finds itself caught in the growing strategic rivalry between Beijing’s ambitions and Washington’s national security concerns.
-- 09/12 12:15 [FirstSquawk] Canada secures Dominican approval for beef and beef-product imports, covering cattle of all ages.
 - 09/12 12:21 [FirstSquawk] Fed rate bets put pressure on AUD/USD as the pair struggles past the Doji high.
 - 09/12 12:29 [FirstSquawk] GSK plans to shut down flu vaccine production in Dresden by summer 2027.
 - 09/12 12:36 [FirstSquawk] Trump visit prompts major security operation across Ireland, with 4,000 officers deployed.
@@ -337,3 +334,16 @@
 - 09/13 11:46 [FirstSquawk] AI WORKFORCE CHALLENGE: Peru’s candidate for ILO director-general says he will focus on managing the growing impact of AI on jobs and the future of work.
 - 09/13 11:46 [FirstSquawk] IRAN-U.S. TENSIONS: Iranian President Pezeshkian says Tehran will not bow to U.S. pressure as Indian Prime Minister Modi calls for dialogue and peace.
 - 09/13 11:53 [FirstSquawk] IRAN DEFENSE: Top Army and IRGC commanders reaffirm an unbreakable alliance after confronting “terrorist powers.”
+- 09/13 11:59 [FirstSquawk] Crompton Greaves Consumer expands portfolio with outdoor wall lights
+- 09/13 11:59 [FirstSquawk] Families fuel China’s growing ‘red tourism’ trend at Communist Party sites
+- 09/13 11:59 [FirstSquawk] Iran’s security committee says no NPT withdrawal bill has been submitted despite earlier claims
+- 09/13 12:01 [FirstSquawk] U.S. ban threat tests Bombardier as its backlog offers protection but its valuation leaves little room for mistakes
+- 09/13 12:02 [FirstSquawk] China’s Xi pushes BRICS to lead on innovation, peace and global governance
+- 09/13 12:07 [FirstSquawk] Musk says Tesla will finally showcase the Roadster on October 1
+- 09/13 12:08 [FirstSquawk] Saudi Arabia’s top diplomat Faisal bin Farhan lands in Delhi ahead of BRICS Summit
+- 09/13 12:08 [FirstSquawk] G-7 rate pressures mount, putting the spotlight on Warsh
+- 09/13 12:09 [FirstSquawk] Indonesian ship with 243 passengers goes out of contact, prompting rescue response
+- 09/13 12:10 [FirstSquawk] Iraq rejects becoming a base for foreign conflicts or aggression against neighboring states
+- 09/13 12:10 [FirstSquawk] Houthi attack targets Yemeni forces in Ras Al-Arah, with deaths and injuries reported
+- 09/13 12:14 [FirstSquawk] Korean ETF frenzy fades as volatility pushes investors to the sidelines
+- 09/13 12:14 [FirstSquawk] STUDENT LOAN BORROWERS FACE MONTH-END DEADLINE TO AVOID COSTLIER REPAYMENT PLAN Millions of U.S. federal student loan borrowers could be automatically moved into the Standard Repayment Plan—often the most expensive monthly option—if they do…
