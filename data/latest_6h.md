@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 12:17 JST／対象: 09/13 06:17 〜 09/13 12:17 JST（時刻はすべて日本時間）
+生成: 2026-09-13 12:33 JST／対象: 09/13 06:33 〜 09/13 12:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 59 | 09/13 09:35 | 09/13 12:14 | 23分（11:18→11:41） |
+| FirstSquawk | 65 | 09/13 09:35 | 09/13 12:32 | 23分（11:18→11:41） |
 | financialjuice | 2 | 09/13 10:01 | 09/13 10:01 | 0分（10:01→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 61 行（統合前 61 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 67 行（統合前 67 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -85,3 +85,9 @@
 - 09/13 12:10 [FirstSquawk] Houthi attack targets Yemeni forces in Ras Al-Arah, with deaths and injuries reported
 - 09/13 12:14 [FirstSquawk] Korean ETF frenzy fades as volatility pushes investors to the sidelines
 - 09/13 12:14 [FirstSquawk] STUDENT LOAN BORROWERS FACE MONTH-END DEADLINE TO AVOID COSTLIER REPAYMENT PLAN Millions of U.S. federal student loan borrowers could be automatically moved into the Standard Repayment Plan—often the most expensive monthly option—if they do…
+- 09/13 12:18 [FirstSquawk] Canadian shoppers increasingly choose domestic goods as backlash against U.S. products grows
+- 09/13 12:19 [FirstSquawk] Hong Kong’s next generation of wealthy investors looks beyond property for higher returns
+- 09/13 12:22 [FirstSquawk] Japan’s Aomori wineries band together to secure recognition for the region’s growing wine sector
+- 09/13 12:24 [FirstSquawk] Vance-linked group reportedly approached Brazil’s Flávio Bolsonaro over an anti-China minerals deal
+- 09/13 12:28 [FirstSquawk] Kyoto stadium meal incident leaves 28 people ill, with food poisoning under investigation
+- 09/13 12:32 [FirstSquawk] Automakers in Japan prepare new factory calendars from FY2027 as they seek to draw more employees

@@ -7,33 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 12:17 JST／対象: 09/13 00:17 〜 09/13 12:17 JST（時刻はすべて日本時間）
+生成: 2026-09-13 12:33 JST／対象: 09/13 00:33 〜 09/13 12:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/13 01:35 | 09/13 01:48 | 13分（01:35→01:48） |
-| FirstSquawk | 89 | 09/13 00:22 | 09/13 12:14 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 25 | 09/13 00:19 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
+| FirstSquawk | 89 | 09/13 00:33 | 09/13 12:32 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 23 | 09/13 01:32 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 115 行（統合前 116 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 114 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 00:19 [financialjuice] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 million cubic feet/day from 135 million — PM's office
-- 09/13 00:19 [financialjuice/FirstSquawk] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd: PM’s office
-- 09/13 00:22 [FirstSquawk] ELON MUSK AGREES WITH AMODEI ON THE NEED TO SLOW DOWN AI MODEL DEVELOPMENT.
-- 09/13 00:22 [FirstSquawk] CENTCOM REPORTS 100 COMMERCIAL SHIPS HAVE BEEN DIVERTED DUE TO THE BLOCKADE IN IRAN.
-- 09/13 00:22 [FirstSquawk] PEZESHKIAN SAYS THE STRAIT OF HORMUZ WILL REOPEN IF THE U.S. LIFTS THE BLOCKADE, AND THAT THE SUPREME LEADER HAS THE FINAL DECISION IN IRAN.
-- 09/13 00:22 [FirstSquawk] IRAN AND OMAN FOREIGN MINISTERS TALK ABOUT REGIONAL ISSUES IN A PHONE CALL.
-- 09/13 00:29 [FirstSquawk] Xi and Modi Move Toward Better Ties Chinese President Xi Jinping and Indian Prime Minister Narendra Modi met in New Delhi to improve relations between China and India. The two leaders discussed the border dispute, trade, supply chains and m…
-- 09/13 00:30 [FirstSquawk] Anthropic CEO Calls for Slower AI Development Anthropic CEO Dario Amodei has called for the AI industry to slow the pace of developing new models, warning that rapidly advancing AI could create serious risks for humans. He pointed to AI’s g…
 - 09/13 00:33 [FirstSquawk] California Diesel Prices Hit Record Highs Diesel prices in California have surged to record levels, with the statewide average rising above $8 a gallon and one San Diego station charging $9.99. Low fuel supplies, reduced refining capacity, …
 - 09/13 01:02 [FirstSquawk] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 mln cubic feet/day from 135 mln — PM's office
+- 09/13 01:02 [FirstSquawk] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd - PM’s office
 - 09/13 01:09 [FirstSquawk] United Nations: At least 76,000 people have been displaced by fighting in Yemen since July
 - 09/13 01:09 [FirstSquawk] UAE affirms that there is no military solution to the conflict in Sudan and that the only viable path to achieving lasting peace is an independent, civilian-led transition free from the influence of warring parties.
 - 09/13 01:09 [FirstSquawk] Lebanese News Agency: Heavy and concentrated Israeli shelling on the "Ali Taher" heights in southern Lebanon
@@ -139,3 +132,9 @@
 - 09/13 12:10 [FirstSquawk] Houthi attack targets Yemeni forces in Ras Al-Arah, with deaths and injuries reported
 - 09/13 12:14 [FirstSquawk] Korean ETF frenzy fades as volatility pushes investors to the sidelines
 - 09/13 12:14 [FirstSquawk] STUDENT LOAN BORROWERS FACE MONTH-END DEADLINE TO AVOID COSTLIER REPAYMENT PLAN Millions of U.S. federal student loan borrowers could be automatically moved into the Standard Repayment Plan—often the most expensive monthly option—if they do…
+- 09/13 12:18 [FirstSquawk] Canadian shoppers increasingly choose domestic goods as backlash against U.S. products grows
+- 09/13 12:19 [FirstSquawk] Hong Kong’s next generation of wealthy investors looks beyond property for higher returns
+- 09/13 12:22 [FirstSquawk] Japan’s Aomori wineries band together to secure recognition for the region’s growing wine sector
+- 09/13 12:24 [FirstSquawk] Vance-linked group reportedly approached Brazil’s Flávio Bolsonaro over an anti-China minerals deal
+- 09/13 12:28 [FirstSquawk] Kyoto stadium meal incident leaves 28 people ill, with food poisoning under investigation
+- 09/13 12:32 [FirstSquawk] Automakers in Japan prepare new factory calendars from FY2027 as they seek to draw more employees

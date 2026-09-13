@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 12:17 JST／対象: 09/12 12:17 〜 09/13 12:17 JST（時刻はすべて日本時間）
+生成: 2026-09-13 12:33 JST／対象: 09/12 12:33 〜 09/13 12:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 221 | 09/12 12:21 | 09/13 12:14 | ⚠ 366分（03:29→09:35） |
+| FirstSquawk | 225 | 09/12 12:36 | 09/13 12:32 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 78 | 09/12 13:03 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 323 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 327 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 12:21 [FirstSquawk] Fed rate bets put pressure on AUD/USD as the pair struggles past the Doji high.
-- 09/12 12:29 [FirstSquawk] GSK plans to shut down flu vaccine production in Dresden by summer 2027.
 - 09/12 12:36 [FirstSquawk] Trump visit prompts major security operation across Ireland, with 4,000 officers deployed.
 - 09/12 12:46 [FirstSquawk] Iraqi commander ousted as probe finds recent attacks on Saudi Arabia were launched from Iraq.
 - 09/12 12:56 [FirstSquawk] Chinese AI companies decline meetings with US delegation amid sanctions fears, commission says.
@@ -347,3 +345,9 @@
 - 09/13 12:10 [FirstSquawk] Houthi attack targets Yemeni forces in Ras Al-Arah, with deaths and injuries reported
 - 09/13 12:14 [FirstSquawk] Korean ETF frenzy fades as volatility pushes investors to the sidelines
 - 09/13 12:14 [FirstSquawk] STUDENT LOAN BORROWERS FACE MONTH-END DEADLINE TO AVOID COSTLIER REPAYMENT PLAN Millions of U.S. federal student loan borrowers could be automatically moved into the Standard Repayment Plan—often the most expensive monthly option—if they do…
+- 09/13 12:18 [FirstSquawk] Canadian shoppers increasingly choose domestic goods as backlash against U.S. products grows
+- 09/13 12:19 [FirstSquawk] Hong Kong’s next generation of wealthy investors looks beyond property for higher returns
+- 09/13 12:22 [FirstSquawk] Japan’s Aomori wineries band together to secure recognition for the region’s growing wine sector
+- 09/13 12:24 [FirstSquawk] Vance-linked group reportedly approached Brazil’s Flávio Bolsonaro over an anti-China minerals deal
+- 09/13 12:28 [FirstSquawk] Kyoto stadium meal incident leaves 28 people ill, with food poisoning under investigation
+- 09/13 12:32 [FirstSquawk] Automakers in Japan prepare new factory calendars from FY2027 as they seek to draw more employees
