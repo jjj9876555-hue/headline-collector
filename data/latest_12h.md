@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 12:33 JST／対象: 09/13 00:33 〜 09/13 12:33 JST（時刻はすべて日本時間）
+生成: 2026-09-13 12:46 JST／対象: 09/13 00:46 〜 09/13 12:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/13 01:35 | 09/13 01:48 | 13分（01:35→01:48） |
-| FirstSquawk | 89 | 09/13 00:33 | 09/13 12:32 | ⚠ 366分（03:29→09:35） |
+| FirstSquawk | 89 | 09/13 01:02 | 09/13 12:39 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 23 | 09/13 01:32 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 00:33 [FirstSquawk] California Diesel Prices Hit Record Highs Diesel prices in California have surged to record levels, with the statewide average rising above $8 a gallon and one San Diego station charging $9.99. Low fuel supplies, reduced refining capacity, …
 - 09/13 01:02 [FirstSquawk] Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 mln cubic feet/day from 135 mln — PM's office
 - 09/13 01:02 [FirstSquawk] Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd - PM’s office
 - 09/13 01:09 [FirstSquawk] United Nations: At least 76,000 people have been displaced by fighting in Yemen since July
@@ -138,3 +137,4 @@
 - 09/13 12:24 [FirstSquawk] Vance-linked group reportedly approached Brazil’s Flávio Bolsonaro over an anti-China minerals deal
 - 09/13 12:28 [FirstSquawk] Kyoto stadium meal incident leaves 28 people ill, with food poisoning under investigation
 - 09/13 12:32 [FirstSquawk] Automakers in Japan prepare new factory calendars from FY2027 as they seek to draw more employees
+- 09/13 12:39 [FirstSquawk] Oil supply concerns rise as Iran and UAE leaders engage on regional de-escalation
