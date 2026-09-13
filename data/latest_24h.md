@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 22:59 JST／対象: 09/12 22:59 〜 09/13 22:59 JST（時刻はすべて日本時間）
+生成: 2026-09-13 23:16 JST／対象: 09/12 23:16 〜 09/13 23:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/12 23:04 | 09/13 22:47 | ⚠ 984分（01:48→18:12） |
+| DeItaone | 19 | 09/13 00:09 | 09/13 22:47 | ⚠ 984分（01:48→18:12） |
 | FirstSquawk | 239 | 09/12 23:19 | 09/13 22:48 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 61 | 09/12 23:04 | 09/13 22:36 | ⚠ 295分（05:05→10:01） |
+| financialjuice | 54 | 09/13 00:19 | 09/13 22:36 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 315 行（統合前 320 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 307 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 23:04 [financialjuice] Anthropic’s Dario Amodei: We must slow the pace of improving AI model capabilities
-- 09/12 23:04 [DeItaone] ANTHROPIC'S DARIO AMODEI: WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE CAPABILITIES OF AI MODELS
-- 09/12 23:05 [financialjuice] Anthropic's Dario Amodei: proposing a three-step strategy to pace the frontier
-- 09/12 23:06 [financialjuice] Anthropic’s Dario Amodei: proposing developing AI at a measured pace to ensure safety
-- 09/12 23:07 [financialjuice] Anthropic's Amodei: pacing means not halting model training or technical progress, ensuring companies take adequate time to align and safeguard models
-- 09/12 23:08 [financialjuice] Anthropic's Amodei proposes each leading AI company provide continuous, employee-level access to embedded third-party evaluators
-- 09/12 23:09 [financialjuice] Anthropic's Amodei: US and other democratic governments should try to coordinate with others
-- 09/12 23:09 [financialjuice] Anthropic’s Amodei: Proposes frontier AI firms in democratic nations coordinate to set joint safety standards
 - 09/12 23:19 [FirstSquawk] INDIA AND CHINA REPORT POSITIVE ADVANCEMENTS IN THEIR RELATIONSHIP.
 - 09/12 23:19 [FirstSquawk] INDIA ISSUES JOINT STATEMENT FOLLOWING MEETING BETWEEN XI AND MODI.
 - 09/12 23:19 [FirstSquawk] XI AND MODI AGREE TO FIND A BORDER SOLUTION THAT BOTH SIDES ACCEPT.

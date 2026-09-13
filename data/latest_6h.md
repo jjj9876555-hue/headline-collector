@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 22:59 JST／対象: 09/13 16:59 〜 09/13 22:59 JST（時刻はすべて日本時間）
+生成: 2026-09-13 23:16 JST／対象: 09/13 17:16 〜 09/13 23:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 16 | 09/13 18:12 | 09/13 22:47 | ⚠ 137分（18:17→20:35） |
-| FirstSquawk | 65 | 09/13 17:14 | 09/13 22:48 | ⚠ 48分（21:58→22:46） |
+| FirstSquawk | 61 | 09/13 17:19 | 09/13 22:48 | ⚠ 48分（21:58→22:46） |
 | financialjuice | 21 | 09/13 17:25 | 09/13 22:36 | ⚠ 84分（17:48→19:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 98 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 94 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 17:14 [FirstSquawk] Benchmarking and bonuses: why Singapore pays its politicians like bankers
-- 09/13 17:15 [FirstSquawk] Iranian President Masoud Pezeshkian visited the Iranian Hall, dating back to the reign of Fath-Ali Shah Qajar, at India’s Presidential Palace.
-- 09/13 17:15 [FirstSquawk] Speculators turn net long on yen for first time since February
-- 09/13 17:16 [FirstSquawk] U.S. EV sales remain depressed, but Tesla’s market share has recovered from its 2025
 - 09/13 17:19 [FirstSquawk] Chinese President #XiJinping on Saturday urged BRICS countries to firmly stand on the right side of history and strive to be a pioneer of our times
 - 09/13 17:19 [FirstSquawk] Delhi: Chinese President Xi Jinping departs from Delhi after participating in the BRICS Summit 2026
 - 09/13 17:25 [financialjuice/FirstSquawk] Italy economy minister: crucial for Italy to maintain public finances as ECB hikes interest rates
