@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 07:24 JST／対象: 09/14 01:24 〜 09/14 07:24 JST（時刻はすべて日本時間）
+生成: 2026-09-14 07:42 JST／対象: 09/14 01:42 〜 09/14 07:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/14 02:20 | 09/14 04:44 | ⚠ 78分（02:47→04:05） |
-| FirstSquawk | 49 | 09/14 01:56 | 09/14 07:19 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 33 | 09/14 02:46 | 09/14 07:07 | ⚠ 52分（04:46→05:39） |
+| FirstSquawk | 51 | 09/14 01:56 | 09/14 07:42 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 36 | 09/14 02:46 | 09/14 07:40 | ⚠ 52分（04:46→05:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 85 行（統合前 87 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 90 行（統合前 92 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -109,3 +109,8 @@
 - 09/14 07:18 [FirstSquawk] SHENZHEN-BASED SYNTRON INFORMATION PLANS A GLOBAL OFFERING OF 59 MILLION H SHARES, WITH A MAXIMUM OFFER PRICE OF HK$16.00 PER H SHARE. THE OFFERING INCLUDES 53.1 MILLION INTERNATIONAL H SHARES, AS THE COMPANY MOVES FORWARD WITH ITS GLOBAL L…
 - 09/14 07:19 [FirstSquawk] US STOCK FUTURES FALL AS AI DEVELOPMENT CONCERNS AND HOTTER-THAN-EXPECTED INFLATION WEIGH ON SENTIMENT, WITH NASDAQ 100 FUTURES DOWN 1.2% AND S&P 500 FUTURES OFF 0.6%.
 - 09/14 07:19 [FirstSquawk] BRENT CRUDE JUMPS 2.8% TO $107.55 AFTER SAUDI ARABIA SHUT A KEY OIL PIPELINE FOLLOWING DRONE ATTACKS, WHILE DELAYED HORMUZ TALKS AND RISING INFLATION BOOST BETS ON A FED RATE HIKE WEDNESDAY.
+- 09/14 07:33 [financialjuice] Sweden Prime Minister Ulf Kristersson: awaiting final election outcome
+- 09/14 07:36 [financialjuice] Sweden Prime Minister Ulf Kristersson: to reach out to other party leaders to discuss potential collaboration
+- 09/14 07:40 [financialjuice] Sweden Prime Minister Ulf Kristersson: government formation remains an open question
+- 09/14 07:40 [FirstSquawk] SWEDISH PRIME MINISTER ULF KRISTERSSON SAYS GOVERNMENT FORMATION REMAINS AN OPEN QUESTION AS THE COUNTRY AWAITS THE FINAL ELECTION OUTCOME. || KRISTERSSON SAYS HE WILL REACH OUT TO OTHER PARTY LEADERS TO DISCUSS POTENTIAL COOPERATION AND GO…
+- 09/14 07:42 [FirstSquawk] ANTHROPIC TELLS INVESTORS IT HAS BEEN PROFITABLE FOR SECOND CONSECUTIVE QUARTER - FT

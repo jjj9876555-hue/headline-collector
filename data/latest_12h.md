@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 07:24 JST／対象: 09/13 19:24 〜 09/14 07:24 JST（時刻はすべて日本時間）
+生成: 2026-09-14 07:42 JST／対象: 09/13 19:42 〜 09/14 07:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/13 20:35 | 09/14 04:44 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 93 | 09/13 19:40 | 09/14 07:19 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 54 | 09/13 19:26 | 09/14 07:07 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 90 | 09/13 20:10 | 09/14 07:42 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 54 | 09/13 19:54 | 09/14 07:40 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 166 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 163 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 19:26 [financialjuice] Goldenmax International denies reports of products certified into Nvidia, Huawei supply chains after unusual share price moves
-- 09/13 19:26 [financialjuice] secures $5 billion through new share and convertible bond sales, filing reveals
-- 09/13 19:29 [financialjuice] Lithuania closes Vilnius airport, NATO deploys fighter jets after potential drone sighting – national crisis management centre
-- 09/13 19:40 [FirstSquawk] Yemeni government-affiliated resistance: 500 killed and 1,500 wounded among our forces in the battles of the western coast between August 9 and September 10
-- 09/13 19:40 [FirstSquawk] Yemeni government-affiliated resistance: The Houthi attack on the western coast was supported by the Iranian Revolutionary Guard and its allies.
-- 09/13 19:41 [FirstSquawk] Yemeni government-affiliated resistance: We have redeployed our forces to new defensive lines to thwart the plan to encircle them.
-- 09/13 19:41 [FirstSquawk] Yemeni government-affiliated resistance: Losing a battle is not the end, and we will continue the struggle until Yemen is liberated from Iran's proxies.
-- 09/13 19:41 [FirstSquawk] Syrian TV: Israeli occupation forces shelled the western outskirts of Beit Jinn town in western Damascus countryside with 3 artillery shells
 - 09/13 19:54 [financialjuice] Lithuanian national crisis management centre: possible drone alert has ended
 - 09/13 20:10 [FirstSquawk] Lithuania closes Vilnius airport and NATO sends fighter jets after possible drone sighting in Lithuanian airspace
 - 09/13 20:10 [FirstSquawk] Israeli artillery shelling targets the vicinity of the town of Beit Jinn, southwest of Damascus countryside.
@@ -190,3 +182,8 @@
 - 09/14 07:18 [FirstSquawk] SHENZHEN-BASED SYNTRON INFORMATION PLANS A GLOBAL OFFERING OF 59 MILLION H SHARES, WITH A MAXIMUM OFFER PRICE OF HK$16.00 PER H SHARE. THE OFFERING INCLUDES 53.1 MILLION INTERNATIONAL H SHARES, AS THE COMPANY MOVES FORWARD WITH ITS GLOBAL L…
 - 09/14 07:19 [FirstSquawk] US STOCK FUTURES FALL AS AI DEVELOPMENT CONCERNS AND HOTTER-THAN-EXPECTED INFLATION WEIGH ON SENTIMENT, WITH NASDAQ 100 FUTURES DOWN 1.2% AND S&P 500 FUTURES OFF 0.6%.
 - 09/14 07:19 [FirstSquawk] BRENT CRUDE JUMPS 2.8% TO $107.55 AFTER SAUDI ARABIA SHUT A KEY OIL PIPELINE FOLLOWING DRONE ATTACKS, WHILE DELAYED HORMUZ TALKS AND RISING INFLATION BOOST BETS ON A FED RATE HIKE WEDNESDAY.
+- 09/14 07:33 [financialjuice] Sweden Prime Minister Ulf Kristersson: awaiting final election outcome
+- 09/14 07:36 [financialjuice] Sweden Prime Minister Ulf Kristersson: to reach out to other party leaders to discuss potential collaboration
+- 09/14 07:40 [financialjuice] Sweden Prime Minister Ulf Kristersson: government formation remains an open question
+- 09/14 07:40 [FirstSquawk] SWEDISH PRIME MINISTER ULF KRISTERSSON SAYS GOVERNMENT FORMATION REMAINS AN OPEN QUESTION AS THE COUNTRY AWAITS THE FINAL ELECTION OUTCOME. || KRISTERSSON SAYS HE WILL REACH OUT TO OTHER PARTY LEADERS TO DISCUSS POTENTIAL COOPERATION AND GO…
+- 09/14 07:42 [FirstSquawk] ANTHROPIC TELLS INVESTORS IT HAS BEEN PROFITABLE FOR SECOND CONSECUTIVE QUARTER - FT
