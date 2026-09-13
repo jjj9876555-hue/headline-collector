@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 20:31 JST／対象: 09/12 20:31 〜 09/13 20:31 JST（時刻はすべて日本時間）
+生成: 2026-09-13 20:43 JST／対象: 09/12 20:43 〜 09/13 20:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/12 20:43 | 09/13 18:17 | ⚠ 984分（01:48→18:12） |
+| DeItaone | 10 | 09/12 21:50 | 09/13 20:35 | ⚠ 984分（01:48→18:12） |
 | FirstSquawk | 242 | 09/12 20:51 | 09/13 20:10 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 62 | 09/12 20:35 | 09/13 19:54 | ⚠ 295分（05:05→10:01） |
+| financialjuice | 61 | 09/12 20:51 | 09/13 19:54 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 310 行（統合前 314 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 309 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 20:35 [financialjuice] Zelenskiy: Three killed, dozens injured in Russian strikes on 10 Ukrainian regions Saturday
-- 09/12 20:43 [DeItaone] TRUMP SLAMS EUROPE OVER TRADE, ENERGY AND IMMIGRATION President Donald Trump warned that Europe is “killing” itself over immigration, while criticizing the continent’s approach to trade and energy during a visit to Ireland. Trump also expre…
 - 09/12 20:51 [financialjuice] Nigel Farage's Reform UK party secures second £36 million contribution - Telegraph
 - 09/12 20:51 [FirstSquawk] TRUMP SAYS UK MUST BRING BACK CRIMINAL IMMIGRANTS, JUST LIKE THE US.
 - 09/12 20:52 [FirstSquawk] TRUMP QUESTIONS NATO SUPPORT: “WHY ARE WE HELPING THEM? MORE DETAILS TO COME.”
@@ -334,3 +332,4 @@
 - 09/13 19:54 [financialjuice] Lithuanian national crisis management centre: possible drone alert has ended
 - 09/13 20:10 [FirstSquawk] Lithuania closes Vilnius airport and NATO sends fighter jets after possible drone sighting in Lithuanian airspace
 - 09/13 20:10 [FirstSquawk] Israeli artillery shelling targets the vicinity of the town of Beit Jinn, southwest of Damascus countryside.
+- 09/13 20:35 [DeItaone] CANADA EXPLORES “ASSOCIATE MEMBERSHIP” WITH EU Canadian Prime Minister Mark Carney is exploring closer integration with the EU, including a potential new “associate member” status, the Wall Street Journal reports. Canada and the EU are repo…

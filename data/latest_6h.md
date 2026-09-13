@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 20:31 JST／対象: 09/13 14:31 〜 09/13 20:31 JST（時刻はすべて日本時間）
+生成: 2026-09-13 20:43 JST／対象: 09/13 14:43 〜 09/13 20:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/13 18:12 | 09/13 18:17 | 5分（18:12→18:17） |
-| FirstSquawk | 76 | 09/13 14:32 | 09/13 20:10 | 41分（15:32→16:14） |
+| DeItaone | 3 | 09/13 18:12 | 09/13 20:35 | ⚠ 137分（18:17→20:35） |
+| FirstSquawk | 71 | 09/13 14:44 | 09/13 20:10 | 41分（15:32→16:14） |
 | financialjuice | 13 | 09/13 15:51 | 09/13 19:54 | ⚠ 84分（17:48→19:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 88 行（統合前 91 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 84 行（統合前 87 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 14:32 [FirstSquawk] Burnham pushes back against calls to overhaul the student loan system ahead of the Budget. The stance could put proposed changes to student financing under renewed political scrutiny as the government prepares its fiscal plans.
-- 09/13 14:34 [FirstSquawk] Trump administration moves forward with a proposed $100,000 fee for international graduates seeking to work in the US under OPT. The proposal could significantly raise the cost of post-study employment for foreign students and reshape the U…
-- 09/13 14:38 [FirstSquawk] US government debt climbs to $40 trillion as Washington’s borrowing accelerates at a historic pace as per FT The milestone puts America’s rapidly expanding debt burden back in focus, raising fresh questions over the long-term fiscal outlook…
-- 09/13 14:38 [FirstSquawk] Employment among people in their 20s is declining at its fastest pace since the 1998 Asian financial crisis. The data points to a growing shift toward later entry into the workforce, raising fresh concerns about youth employment and labor-m…
-- 09/13 14:43 [FirstSquawk] South Korea’s employment among people in their 20s averaged 3.38 million during January–August, down 193,000 from a year earlier. The decline signals a deeper shift in the labor market, with younger people increasingly entering employment a…
 - 09/13 14:44 [FirstSquawk] North Carolina GOP Senate candidate’s rally features opening prayer from convicted sex offender, AP reports
 - 09/13 14:45 [FirstSquawk] Serbia’s Vucic inspects China-built expressway as major transport project advances
 - 09/13 14:46 [FirstSquawk] The U.S. government’s $166 billion tariff refund program is now tapering off sharply
@@ -112,3 +107,4 @@
 - 09/13 19:54 [financialjuice] Lithuanian national crisis management centre: possible drone alert has ended
 - 09/13 20:10 [FirstSquawk] Lithuania closes Vilnius airport and NATO sends fighter jets after possible drone sighting in Lithuanian airspace
 - 09/13 20:10 [FirstSquawk] Israeli artillery shelling targets the vicinity of the town of Beit Jinn, southwest of Damascus countryside.
+- 09/13 20:35 [DeItaone] CANADA EXPLORES “ASSOCIATE MEMBERSHIP” WITH EU Canadian Prime Minister Mark Carney is exploring closer integration with the EU, including a potential new “associate member” status, the Wall Street Journal reports. Canada and the EU are repo…
