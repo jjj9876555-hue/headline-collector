@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 04:41 JST／対象: 09/13 04:41 〜 09/14 04:41 JST（時刻はすべて日本時間）
+生成: 2026-09-14 04:52 JST／対象: 09/13 04:52 〜 09/14 04:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/13 18:12 | 09/14 04:30 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 231 | 09/13 09:35 | 09/14 04:35 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 49 | 09/13 05:05 | 09/14 04:07 | ⚠ 295分（05:05→10:01） |
+| DeItaone | 24 | 09/13 18:12 | 09/14 04:44 | ⚠ 147分（22:47→01:15） |
+| FirstSquawk | 234 | 09/13 09:35 | 09/14 04:48 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 54 | 09/13 05:05 | 09/14 04:46 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 298 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 307 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -322,3 +322,12 @@
 - 09/14 04:35 [FirstSquawk] U.S. HOUSE SPEAKER MIKE JOHNSON SAYS THAT 'IF CONGRESS JUST RACES IN AND DOES SOME SORT OF EMERGENCY SESSION TO TRY TO REGULATE AI, WE WILL LOSE THE RACE TO CHINA', CALLING THAT 'A THREAT TO EVERY SINGLE AMERICAN'.
 - 09/14 04:35 [FirstSquawk] U.S. HOUSE SPEAKER MIKE JOHNSON DEFENDED BACKING TEXAS REPUBLICAN CONGRESSIONAL CANDIDATE BRANDON HERRERA DESPITE PAST REMARKS IN WHICH HERRERA GOOSE-STEPPED TO NAZI MUSIC AND JOKED ABOUT KILLING OLDER PEOPLE, CALLING THE REMARKS 'DETESTABL…
 - 09/14 04:35 [FirstSquawk] U.S. HOUSE SPEAKER MIKE JOHNSON SAID HERRERA 'IS NOW RUNNING AS A VERY SERIOUS CANDIDATE FOR CONGRESS AND A VERY THOUGHTFUL GUY', ADDING THAT HE HAD APOLOGIZED.
+- 09/14 04:42 [financialjuice] Postponement of meeting between Gulf countries and Iran a joint decision by Tehran and Muscat: Iran's Fars
+- 09/14 04:42 [FirstSquawk] TRUMP SAYS A '$5,000 DIVIDEND IS GOING TO HAPPEN 100%', ARGUING THE REASON IS 'BECAUSE OUR COUNTRY IS TAKING IN TRILLIONS AND TRILLIONS OF DOLLARS', ADDING THAT 'PEOPLE DESERVE IT' AND THAT 'DEMOCRATS AND BIDEN TREATED THEM SO BADLY'
+- 09/14 04:44 [financialjuice] Postponement of meeting came at request of certain regional countries: Iran's Fars
+- 09/14 04:44 [DeItaone] POSTPONEMENT OF MEETING BETWEEN GULF COUNTRIES AND IRAN WAS A JOINT DECISION BY TEHRAN AND MUSCAT - IRANIAN MEDIA
+- 09/14 04:46 [financialjuice] Sweden's centre-left opposition bloc projected to secure 174 seats in parliament, broadcaster SVT shows
+- 09/14 04:46 [financialjuice] Sweden’s right-wing governing bloc poised to secure 175 seats in parliament, broadcaster SVT projection shows
+- 09/14 04:46 [financialjuice] Sweden's Liberals party forecast to surpass parliament's 4% threshold, broadcaster SVT projection shows
+- 09/14 04:47 [FirstSquawk] IRAN'S FARS NEWS SAYS THE POSTPONEMENT OF A MEETING BETWEEN GULF COUNTRIES AND IRAN WAS A JOINT DECISION BY TEHRAN AND MUSCAT, ADDING THAT IT CAME AT THE REQUEST OF CERTAIN REGIONAL COUNTRIES
+- 09/14 04:48 [FirstSquawk] SWEDEN'S RIGHT-WING GOVERNING BLOC IS POISED TO SECURE 175 SEATS IN PARLIAMENT, A BROADCASTER SVT PROJECTION SHOWS, WITH THE CENTRE-LEFT OPPOSITION BLOC PROJECTED TO SECURE 174 SEATS AND THE LIBERALS PARTY FORECAST TO SURPASS PARLIAMENT'S 4…

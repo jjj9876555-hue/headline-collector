@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 04:41 JST／対象: 09/13 22:41 〜 09/14 04:41 JST（時刻はすべて日本時間）
+生成: 2026-09-14 04:52 JST／対象: 09/13 22:52 〜 09/14 04:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/13 22:47 | 09/14 04:30 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 51 | 09/13 22:46 | 09/14 04:35 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 17 | 09/14 00:11 | 09/14 04:07 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 8 | 09/14 01:15 | 09/14 04:44 | ⚠ 78分（02:47→04:05） |
+| FirstSquawk | 44 | 09/13 23:27 | 09/14 04:48 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 22 | 09/14 00:11 | 09/14 04:46 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 75 行（統合前 76 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 73 行（統合前 74 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 22:46 [FirstSquawk] Trump on Fed decision next week: says US should have lowest rates globally
-- 09/13 22:46 [FirstSquawk] US Trump: $5,000 post-election promise should be easy for Congress
-- 09/13 22:47 [DeItaone] TRUMP PUSHES FED FOR WORLD’S LOWEST INTEREST RATES President Donald Trump says the U.S. should have the lowest interest rate in the world, just days before the Fed’s closely watched policy decision Wednesday. Asked whether he expects a rate…
-- 09/13 22:47 [FirstSquawk] US Trump: I always honor my commitments
-- 09/13 22:47 [FirstSquawk] US Trump on Iran: Iran war will wrap up perhaps before or shortly after midterms
-- 09/13 22:47 [FirstSquawk] US Trump: Iran eager to reach a deal
-- 09/13 22:47 [FirstSquawk] US Trump on Iran: indifferent if gulf states engage with Iran, decision is theirs
-- 09/13 22:47 [FirstSquawk] US Trump on Ukraine: Zelenskiy must halt cutting diesel fuel supply in Russia
-- 09/13 22:48 [FirstSquawk] US Trump on Ukraine: we discussed that with Zelenskiy
-- 09/13 22:48 [FirstSquawk] US Trump on Irish unity: Won't discuss Scotland for now, will address later
-- 09/13 22:48 [FirstSquawk] US Trump on China: not concerned Xi will cancel summit, says China has treated US fairly over recent years
 - 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The security of the Arabian Gulf will not be stable without respecting the sovereignty and independence of its states and refraining from interfering in their affairs.
 - 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The Kingdom's security is inviolable, and the GCC states will not accept any targeting of their territories.
 - 09/14 00:06 [FirstSquawk] Jerusalem Governorate: 593 settlers stormed Al-Aqsa Mosque during the morning and evening incursions under the protection of the occupation forces.
@@ -99,3 +88,12 @@
 - 09/14 04:35 [FirstSquawk] U.S. HOUSE SPEAKER MIKE JOHNSON SAYS THAT 'IF CONGRESS JUST RACES IN AND DOES SOME SORT OF EMERGENCY SESSION TO TRY TO REGULATE AI, WE WILL LOSE THE RACE TO CHINA', CALLING THAT 'A THREAT TO EVERY SINGLE AMERICAN'.
 - 09/14 04:35 [FirstSquawk] U.S. HOUSE SPEAKER MIKE JOHNSON DEFENDED BACKING TEXAS REPUBLICAN CONGRESSIONAL CANDIDATE BRANDON HERRERA DESPITE PAST REMARKS IN WHICH HERRERA GOOSE-STEPPED TO NAZI MUSIC AND JOKED ABOUT KILLING OLDER PEOPLE, CALLING THE REMARKS 'DETESTABL…
 - 09/14 04:35 [FirstSquawk] U.S. HOUSE SPEAKER MIKE JOHNSON SAID HERRERA 'IS NOW RUNNING AS A VERY SERIOUS CANDIDATE FOR CONGRESS AND A VERY THOUGHTFUL GUY', ADDING THAT HE HAD APOLOGIZED.
+- 09/14 04:42 [financialjuice] Postponement of meeting between Gulf countries and Iran a joint decision by Tehran and Muscat: Iran's Fars
+- 09/14 04:42 [FirstSquawk] TRUMP SAYS A '$5,000 DIVIDEND IS GOING TO HAPPEN 100%', ARGUING THE REASON IS 'BECAUSE OUR COUNTRY IS TAKING IN TRILLIONS AND TRILLIONS OF DOLLARS', ADDING THAT 'PEOPLE DESERVE IT' AND THAT 'DEMOCRATS AND BIDEN TREATED THEM SO BADLY'
+- 09/14 04:44 [financialjuice] Postponement of meeting came at request of certain regional countries: Iran's Fars
+- 09/14 04:44 [DeItaone] POSTPONEMENT OF MEETING BETWEEN GULF COUNTRIES AND IRAN WAS A JOINT DECISION BY TEHRAN AND MUSCAT - IRANIAN MEDIA
+- 09/14 04:46 [financialjuice] Sweden's centre-left opposition bloc projected to secure 174 seats in parliament, broadcaster SVT shows
+- 09/14 04:46 [financialjuice] Sweden’s right-wing governing bloc poised to secure 175 seats in parliament, broadcaster SVT projection shows
+- 09/14 04:46 [financialjuice] Sweden's Liberals party forecast to surpass parliament's 4% threshold, broadcaster SVT projection shows
+- 09/14 04:47 [FirstSquawk] IRAN'S FARS NEWS SAYS THE POSTPONEMENT OF A MEETING BETWEEN GULF COUNTRIES AND IRAN WAS A JOINT DECISION BY TEHRAN AND MUSCAT, ADDING THAT IT CAME AT THE REQUEST OF CERTAIN REGIONAL COUNTRIES
+- 09/14 04:48 [FirstSquawk] SWEDEN'S RIGHT-WING GOVERNING BLOC IS POISED TO SECURE 175 SEATS IN PARLIAMENT, A BROADCASTER SVT PROJECTION SHOWS, WITH THE CENTRE-LEFT OPPOSITION BLOC PROJECTED TO SECURE 174 SEATS AND THE LIBERALS PARTY FORECAST TO SURPASS PARLIAMENT'S 4…
