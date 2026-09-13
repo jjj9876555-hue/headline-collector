@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 01:58 JST／対象: 09/13 19:58 〜 09/14 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-14 02:15 JST／対象: 09/13 20:15 〜 09/14 02:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/13 20:35 | 09/14 01:17 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 45 | 09/13 20:10 | 09/14 01:58 | ⚠ 48分（21:58→22:46） |
+| FirstSquawk | 46 | 09/13 20:53 | 09/14 01:59 | ⚠ 48分（21:58→22:46） |
 | financialjuice | 17 | 09/13 21:00 | 09/14 00:18 | ⚠ 94分（22:36→00:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 78 行（統合前 79 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 79 行（統合前 80 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 20:10 [FirstSquawk] Lithuania closes Vilnius airport and NATO sends fighter jets after possible drone sighting in Lithuanian airspace
-- 09/13 20:10 [FirstSquawk] Israeli artillery shelling targets the vicinity of the town of Beit Jinn, southwest of Damascus countryside.
 - 09/13 20:35 [DeItaone] CANADA EXPLORES “ASSOCIATE MEMBERSHIP” WITH EU Canadian Prime Minister Mark Carney is exploring closer integration with the EU, including a potential new “associate member” status, the Wall Street Journal reports. Canada and the EU are repo…
 - 09/13 20:53 [FirstSquawk] Iraq: Arrest warrant issued for Iraqi suspect Omid Haji Ahmed on charges of financing terrorism and money laundering
 - 09/13 20:53 [FirstSquawk] Iraq: Accused Omid Haji Ahmad is on US sanctions lists for smuggling Iranian oil.
@@ -102,3 +100,6 @@
 - 09/14 01:58 [FirstSquawk] Donald Trump rejects calls from tech bosses for an AI slowdown - FT
 - 09/14 01:58 [FirstSquawk] EU-UK reset talks delayed again amid tension over ‘Made in Europe’ rules - FT
 - 09/14 01:58 [FirstSquawk] Le Pen vows to put French citizens first in campaign launch - FT
+- 09/14 01:58 [FirstSquawk] Japan ruling camp-backed candidate projected to win Okinawa governor race - Nikkei
+- 09/14 01:59 [FirstSquawk] OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable' - Nikkei
+- 09/14 01:59 [FirstSquawk] Japan ruling camp-backed candidate wins Okinawa governor race - Nikkei
