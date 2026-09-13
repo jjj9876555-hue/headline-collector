@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 04:17 JST／対象: 09/13 04:17 〜 09/14 04:17 JST（時刻はすべて日本時間）
+生成: 2026-09-14 04:30 JST／対象: 09/13 04:30 〜 09/14 04:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/13 18:12 | 09/14 04:05 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 216 | 09/13 09:35 | 09/14 03:41 | ⚠ 90分（01:59→03:29） |
+| FirstSquawk | 219 | 09/13 09:35 | 09/14 04:26 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 49 | 09/13 05:05 | 09/14 04:07 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 283 行（統合前 287 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 285 行（統合前 290 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -303,7 +303,9 @@
 - 09/14 03:38 [FirstSquawk] THE VISIT WAS NOT WITHOUT CONTROVERSY, AS TRUMP SAID SATURDAY HE WOULD LIKE TO SEE A UNIFIED IRELAND — SPARKING BLOWBACK IN NORTHERN IRELAND, WHICH IS PART OF THE UK — THOUGH HE DEFENDED THE REMARKS SUNDAY, CALLING THEM 'FAIRLY ROUTINE' AND…
 - 09/14 03:41 [FirstSquawk] U.S. HOUSE SPEAKER MIKE JOHNSON SAYS ON IRAN THAT 'THE IRANIANS ARE NOT TRUSTWORTHY NEGOTIATING PARTNERS', ACCUSING THEM OF LYING 'EVERY DAY' AND SITTING AT THE TABLE TO 'TELL YOU ONE THING, DO THE OPPOSITE', ADDING THAT 'FOR SOME OF THEM, …
 - 09/14 03:52 [financialjuice] Trump: will consider releasing additional records related to 9/11 attacks
-- 09/14 04:00 [financialjuice] Canada aims for Ukraine loan role to strengthen EU relations - FT
+- 09/14 04:00 [financialjuice/FirstSquawk] Canada aims for Ukraine loan role to strengthen EU relations - FT
 - 09/14 04:05 [DeItaone] TRUMP SAYS HE WILL LOOK AT WHETHER TO RELEASE MORE RECORDS LINKED TO 9/11 ATTACKS
 - 09/14 04:07 [financialjuice] Oman's foreign minister: regional meeting scheduled for tomorrow in Salalah postponed in the interest of consensus
 - 09/14 04:07 [financialjuice] Oman's foreign minister: We remain committed to fostering dialogue that supports stability and lasting cooperation in the region
+- 09/14 04:26 [FirstSquawk] OMAN'S FOREIGN MINISTER SAYS A REGIONAL MEETING SCHEDULED FOR TOMORROW IN SALALAH HAS BEEN POSTPONED IN THE INTEREST OF CONSENSUS, ADDING THAT OMAN REMAINS COMMITTED TO FOSTERING DIALOGUE THAT SUPPORTS STABILITY AND LASTING COOPERATION IN T…
+- 09/14 04:26 [FirstSquawk] TALKS ON AI STANDARDS BEGAN BEFORE AMODEI'S ESSAY - THE INFORMATION
