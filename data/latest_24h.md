@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 14:15 JST／対象: 09/12 14:15 〜 09/13 14:15 JST（時刻はすべて日本時間）
+生成: 2026-09-13 14:31 JST／対象: 09/12 14:31 〜 09/13 14:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 228 | 09/12 14:18 | 09/13 14:15 | ⚠ 366分（03:29→09:35） |
+| FirstSquawk | 227 | 09/12 14:33 | 09/13 14:21 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 78 | 09/12 15:10 | 09/13 14:08 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 330 行（統合前 333 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 329 行（統合前 332 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 14:18 [FirstSquawk] US decision to spare optical transceivers eases pressure on China’s supply chain.
-- 09/12 14:25 [FirstSquawk] August consumer-price growth in the US adds to expectations for a rate increase.
 - 09/12 14:33 [FirstSquawk] Japan Automakers to Overhaul Factory Schedules From FY2027 to Attract Workers — Kyodo Japanese automakers plan to redesign their factory operating calendars from fiscal 2027 as they seek to make manufacturing jobs more attractive and addres…
 - 09/12 14:46 [FirstSquawk] Egypt says any attack against Saudi Arabia constitutes a serious violation of international law.
 - 09/12 14:57 [FirstSquawk] South Korea Seeks U.S. Handover of Wartime Command Authority Under ‘No Added Conditions’ Principle South Korea’s defense minister nominee says Seoul aims to regain wartime operational control (OPCON) from the United States based on a “no ad…
@@ -354,3 +352,4 @@
 - 09/13 14:08 [financialjuice] South Korea government wins final ruling in 260 billion won Chinese investor arbitration case - media
 - 09/13 14:08 [FirstSquawk] South Korea prevails in a 260 billion won arbitration dispute involving a Chinese investor, according to media reports. The final ruling delivers a major legal win for Seoul and removes a potentially significant financial liability.
 - 09/13 14:15 [FirstSquawk] Trump forecasts an end to the Iran conflict following the midterm elections, saying oil prices would fall significantly once the war ends - CNBC
+- 09/13 14:21 [FirstSquawk] Equinix confronts challenges surrounding its South African hyperscale data-centre project. The dispute highlights rising regulatory and operational risks for global data-centre operators.
