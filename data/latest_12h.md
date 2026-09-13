@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 05:06 JST／対象: 09/13 17:06 〜 09/14 05:06 JST（時刻はすべて日本時間）
+生成: 2026-09-14 05:24 JST／対象: 09/13 17:24 〜 09/14 05:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/13 18:12 | 09/14 04:44 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 109 | 09/13 17:14 | 09/14 04:48 | ⚠ 90分（01:59→03:29） |
+| FirstSquawk | 107 | 09/13 17:48 | 09/14 05:23 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 43 | 09/13 17:25 | 09/14 04:46 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 171 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 169 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 17:14 [FirstSquawk] Benchmarking and bonuses: why Singapore pays its politicians like bankers
-- 09/13 17:15 [FirstSquawk] Iranian President Masoud Pezeshkian visited the Iranian Hall, dating back to the reign of Fath-Ali Shah Qajar, at India’s Presidential Palace.
-- 09/13 17:15 [FirstSquawk] Speculators turn net long on yen for first time since February
-- 09/13 17:16 [FirstSquawk] U.S. EV sales remain depressed, but Tesla’s market share has recovered from its 2025
-- 09/13 17:19 [FirstSquawk] Chinese President #XiJinping on Saturday urged BRICS countries to firmly stand on the right side of history and strive to be a pioneer of our times
-- 09/13 17:19 [FirstSquawk] Delhi: Chinese President Xi Jinping departs from Delhi after participating in the BRICS Summit 2026
 - 09/13 17:25 [financialjuice/FirstSquawk] Italy economy minister: crucial for Italy to maintain public finances as ECB hikes interest rates
 - 09/13 17:48 [financialjuice/FirstSquawk] Ukraine’s military: strike on Taneko oil refinery in Russia’s Tatarstan
 - 09/13 17:48 [FirstSquawk] Russian President Vladimir Putin departs from Delhi after participating in the BRICS Summit 2026.
@@ -195,3 +189,7 @@
 - 09/14 04:46 [financialjuice] Sweden's Liberals party forecast to surpass parliament's 4% threshold, broadcaster SVT projection shows
 - 09/14 04:47 [FirstSquawk] IRAN'S FARS NEWS SAYS THE POSTPONEMENT OF A MEETING BETWEEN GULF COUNTRIES AND IRAN WAS A JOINT DECISION BY TEHRAN AND MUSCAT, ADDING THAT IT CAME AT THE REQUEST OF CERTAIN REGIONAL COUNTRIES
 - 09/14 04:48 [FirstSquawk] SWEDEN'S RIGHT-WING GOVERNING BLOC IS POISED TO SECURE 175 SEATS IN PARLIAMENT, A BROADCASTER SVT PROJECTION SHOWS, WITH THE CENTRE-LEFT OPPOSITION BLOC PROJECTED TO SECURE 174 SEATS AND THE LIBERALS PARTY FORECAST TO SURPASS PARLIAMENT'S 4…
+- 09/14 05:07 [FirstSquawk] FED CHAIR KEVIN WARSH FACES A COLLISION COURSE WITH TRUMP AS HOTTER-THAN-EXPECTED AUGUST INFLATION PUSHES MARKETS TO PRICE ABOVE 85% ODDS OF A SEPTEMBER RATE HIKE.
+- 09/14 05:08 [FirstSquawk] TRUMP CONTINUES TO DEMAND LOWER BORROWING COSTS, SAYING THE U.S. SHOULD HAVE THE LOWEST INTEREST RATES IN THE WORLD, LEAVING WARSH TO BALANCE FED INDEPENDENCE AGAINST INTENSE WHITE HOUSE PRESSURE.
+- 09/14 05:23 [FirstSquawk] RUSSIAN DRONE STRIKES A TRAIN NEAR YAHODYN, CLOSE TO THE UKRAINE-POLAND BORDER, MINUTES AFTER A DIPLOMATIC TRAIN CARRYING BORIS JOHNSON, CARL BILDT AND EUROPEAN SECURITY ADVISERS DEPARTED AHEAD OF SCHEDULE, WITH UKRAINE SAYING IT WAS LIKELY…
+- 09/14 05:23 [FirstSquawk] NO CASUALTIES WERE REPORTED, WHILE ANOTHER TRAIN CARRYING FORMER CIA DIRECTOR DAVID PETRAEUS WAS STILL AT THE STATION WHEN THE DRONE HIT, HIGHLIGHTING GROWING SECURITY RISKS AROUND UKRAINE'S WESTERN BORDER.
