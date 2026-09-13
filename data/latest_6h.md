@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 13:45 JST／対象: 09/13 07:45 〜 09/13 13:45 JST（時刻はすべて日本時間）
+生成: 2026-09-13 13:58 JST／対象: 09/13 07:58 〜 09/13 13:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 79 | 09/13 09:35 | 09/13 13:42 | 23分（11:18→11:41） |
+| FirstSquawk | 81 | 09/13 09:35 | 09/13 13:57 | 23分（11:18→11:41） |
 | financialjuice | 3 | 09/13 10:01 | 09/13 13:41 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 82 行（統合前 82 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 84 行（統合前 84 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -106,3 +106,5 @@
 - 09/13 13:40 [FirstSquawk] German defence start-up turns to automakers for support as Europe accelerates efforts to rebuild and expand its military strength. The push reflects growing demand for industrial capacity as European nations step up defence spending and rea…
 - 09/13 13:41 [financialjuice] Iranian commercial ship hit near Qeshm Island: one dead and three injured - state TV
 - 09/13 13:42 [FirstSquawk] Commercial vessel incident near Iran’s Qeshm Island leaves one dead and three injured
+- 09/13 13:51 [FirstSquawk] Patient records from UK general practices have been added to Palantir’s NHS data platform without public attention. The development raises fresh questions over how sensitive health information is being integrated, managed and accessed acros…
+- 09/13 13:57 [FirstSquawk] Anthropic CEO urges a slower pace of AI development as concerns mount over the potential risks of superintelligent systems. The warning highlights growing industry debate over whether AI progress is moving faster than safety measures can ke…
