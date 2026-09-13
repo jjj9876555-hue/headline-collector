@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 06:23 JST／対象: 09/13 18:23 〜 09/14 06:23 JST（時刻はすべて日本時間）
+生成: 2026-09-14 06:41 JST／対象: 09/13 18:41 〜 09/14 06:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/13 20:35 | 09/14 04:44 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 100 | 09/13 18:36 | 09/14 06:18 | ⚠ 90分（01:59→03:29） |
+| FirstSquawk | 95 | 09/13 18:42 | 09/14 06:18 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 47 | 09/13 19:12 | 09/14 06:16 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 166 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 161 行（統合前 164 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 18:36 [FirstSquawk] Xi Jinping has sought to turn the annual BRICS summit into another platform for championing Beijing’s vision for AI, as it vies for global influence over the technology with the US
-- 09/13 18:36 [FirstSquawk] Dario Amodei built Anthropic to avoid the very kind of moment that is playing out now
-- 09/13 18:37 [FirstSquawk] Houthi tribal mobilization shows long lines of armed Toyota technicals in the desert, the classic Yemen war image
-- 09/13 18:37 [FirstSquawk] Ethiopia Eyes Indian Artillery Guns to Replace Soviet Howitzers
-- 09/13 18:38 [FirstSquawk] Saudi shares drop after drone attacks
 - 09/13 18:42 [FirstSquawk] The diplomatic advisor to the UAE president: The meeting between the Crown Prince of Abu Dhabi and the Iranian president on the sidelines of BRICS embodies the UAE's approach based on the two pillars of deterrence and diplomacy.
 - 09/13 18:42 [FirstSquawk] Gargash: Deterrence enhances the credibility of diplomacy, while diplomacy succeeds when it proceeds from a position of parity and capability, ultimately forming the optimal path towards achieving regional security.
 - 09/13 18:42 [FirstSquawk] Kremlin: Trilateral negotiations on Ukraine may resume next October.
