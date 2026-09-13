@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 08:42 JST／対象: 09/13 20:42 〜 09/14 08:42 JST（時刻はすべて日本時間）
+生成: 2026-09-14 08:53 JST／対象: 09/13 20:53 〜 09/14 08:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/13 21:10 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 99 | 09/13 20:53 | 09/14 08:32 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 60 | 09/13 21:00 | 09/14 08:30 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 102 | 09/13 20:53 | 09/14 08:50 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 62 | 09/13 21:00 | 09/14 08:47 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 178 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 183 行（統合前 186 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 20:53 [FirstSquawk] Iraq: Arrest warrant issued for Iraqi suspect Omid Haji Ahmed on charges of financing terrorism and money laundering
 - 09/13 20:53 [FirstSquawk] Iraq: Accused Omid Haji Ahmad is on US sanctions lists for smuggling Iranian oil.
 - 09/13 20:53 [FirstSquawk] Yemeni Armed Forces: We destroyed equipment, gatherings, and elements of the Houthi militia in the "kill box" in Dhubab and Mocha.
 - 09/13 20:53 [FirstSquawk] Poland: A Russian drone struck a train bound for Warsaw; no injuries reported
@@ -202,3 +201,9 @@
 - 09/14 08:32 [FirstSquawk] TRUMP SAYS 'THE LASERS ARE VERY, VERY GOOD FOR CERTAIN TYPES OF MISSILES, CERTAIN SLOWER MISSILES', ADDING 'I THINK THE LASERS ARE GOING TO BE THE FUTURE'.
 - 09/14 08:32 [FirstSquawk] TRUMP SAYS ON FLOCK CAMERAS THAT 'I SORT OF LIKE THEM', NOTING THAT WHILE SOME PEOPLE 'THINK IT'S AN INFRINGEMENT', HE LIKES THEM, AND SAYS ON CANADA THAT 'I FIND CANADA TO BE THE WORST COUNTRY TO DEAL WITH', THOUGH 'THEY'RE DYING TO MAKE A…
 - 09/14 08:32 [FirstSquawk] TRUMP SAYS ON AI THAT 'IT'S GOING TO BE MORE GOOD THAN BAD, BY A LOT', ADDING THAT 'WHOEVER WINS AI WINS'.
+- 09/14 08:46 [FirstSquawk] CANADA IS IN TALKS TO CONTRIBUTE TO THE EU'S €90 BLN LOAN FOR UKRAINE AS PRIME MINISTER MARK CARNEY PUSHES FOR CLOSER TIES WITH EUROPE AND LESS DEPENDENCE ON THE U.S., WITH THE TWO SIDES HOPING TO AGREE ON CANADA'S CONTRIBUTION BEFORE AN EU…
+- 09/14 08:46 [financialjuice] Danger has passed in Khamis Mushait: Saudi civil defense
+- 09/14 08:47 [FirstSquawk] THE NSA IS LAUNCHING ITS BIGGEST RESTRUCTURING IN AT LEAST A DECADE, CREATING FIVE NEW MISSION CENTERS FOCUSED ON AI, CHINA, CYBERSECURITY, WARFIGHTING AND GLOBAL INTELLIGENCE, WITH DIRECTOR GEN. JOSHUA RUDD'S PLAN GIVING THE NEW MISSION CH…
+- 09/14 08:47 [FirstSquawk] THE NSA'S ELITE HACKING UNIT, TAILORED ACCESS OPERATIONS, WILL FALL UNDER GLOBAL INTELLIGENCE AND IS EXPECTED TO RECEIVE A MAJOR BUDGET INCREASE, WITH THE RESTRUCTURING SET TO BEGIN IN MID-OCTOBER AND FULL IMPLEMENTATION TARGETED FOR JANUAR…
+- 09/14 08:47 [financialjuice] Danger has passed in Abha: Saudi civil defense
+- 09/14 08:50 [FirstSquawk] JAPAN EARLY TRADE: BENCHMARK 10-YEAR JGB FUTURES RISE 0.04 POINT, WHILE NIKKEI AVERAGE FUTURES FALL 1.5%
