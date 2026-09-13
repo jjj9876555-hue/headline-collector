@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 18:23 JST／対象: 09/13 12:23 〜 09/13 18:23 JST（時刻はすべて日本時間）
+生成: 2026-09-13 19:02 JST／対象: 09/13 13:02 〜 09/13 19:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/13 18:12 | 09/13 18:17 | 5分（18:12→18:17） |
-| FirstSquawk | 80 | 09/13 12:24 | 09/13 18:14 | 41分（15:32→16:14） |
+| FirstSquawk | 82 | 09/13 13:06 | 09/13 18:43 | 41分（15:32→16:14） |
 | financialjuice | 10 | 09/13 13:41 | 09/13 17:48 | ⚠ 103分（14:08→15:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 90 行（統合前 92 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 92 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 12:24 [FirstSquawk] Vance-linked group reportedly approached Brazil’s Flávio Bolsonaro over an anti-China minerals deal
-- 09/13 12:28 [FirstSquawk] Kyoto stadium meal incident leaves 28 people ill, with food poisoning under investigation
-- 09/13 12:32 [FirstSquawk] Automakers in Japan prepare new factory calendars from FY2027 as they seek to draw more employees
-- 09/13 12:39 [FirstSquawk] Oil supply concerns rise as Iran and UAE leaders engage on regional de-escalation
-- 09/13 12:47 [FirstSquawk] American academic vanishes after China invitation as Trump prepares to press Xi on detainees - WSJ
-- 09/13 12:52 [FirstSquawk] Yen sentiment turns bullish as speculators build net-long positions for the first time since February
-- 09/13 12:58 [FirstSquawk] Carney eyes deeper European ties for Canada after trade negotiations with Washington break down - WSJ
 - 09/13 13:06 [FirstSquawk] HSBC warns that rising corporate taxes, renewed private-sector debt and shifting stock-bond dynamics could finally test global markets’ resilience - CNBC
 - 09/13 13:11 [FirstSquawk] Trump says the U.S. could reach a deal with Canada “fairly soon,” signaling progress toward a bilateral agreement.
 - 09/13 13:15 [FirstSquawk] China’s Xi highlights shared responsibilities with India as major Global South nations
@@ -114,3 +107,12 @@
 - 09/13 18:10 [FirstSquawk] PM Modi, Egypt Prez Sisi meet in Delhi
 - 09/13 18:12 [DeItaone] The biggest issue with an AI "safety slowdown:" What happens with China? While there are legitimate concerns around the safety of AI and how quickly it is evolving, the AI race is global. And, in today's ecosystem, falling even 6 months beh…
 - 09/13 18:17 [DeItaone] $TSLA - TESLA TEASES OCTOBER 1 ROADSTER EVENT Tesla is teasing an October 1 event for its long-delayed next-generation Roadster, nearly nine years after Elon Musk first unveiled the vehicle. The “Go for launch” messaging is fueling speculat…
+- 09/13 18:36 [FirstSquawk] Xi Jinping has sought to turn the annual BRICS summit into another platform for championing Beijing’s vision for AI, as it vies for global influence over the technology with the US
+- 09/13 18:36 [FirstSquawk] Dario Amodei built Anthropic to avoid the very kind of moment that is playing out now
+- 09/13 18:37 [FirstSquawk] Houthi tribal mobilization shows long lines of armed Toyota technicals in the desert, the classic Yemen war image
+- 09/13 18:37 [FirstSquawk] Ethiopia Eyes Indian Artillery Guns to Replace Soviet Howitzers
+- 09/13 18:38 [FirstSquawk] Saudi shares drop after drone attacks
+- 09/13 18:42 [FirstSquawk] The diplomatic advisor to the UAE president: The meeting between the Crown Prince of Abu Dhabi and the Iranian president on the sidelines of BRICS embodies the UAE's approach based on the two pillars of deterrence and diplomacy.
+- 09/13 18:42 [FirstSquawk] Gargash: Deterrence enhances the credibility of diplomacy, while diplomacy succeeds when it proceeds from a position of parity and capability, ultimately forming the optimal path towards achieving regional security.
+- 09/13 18:42 [FirstSquawk] Kremlin: Trilateral negotiations on Ukraine may resume next October.
+- 09/13 18:43 [FirstSquawk] Yemeni government forces shot down five Houthi drones on the Al-Waziyah front, west of Taiz, in southwestern Yemen.

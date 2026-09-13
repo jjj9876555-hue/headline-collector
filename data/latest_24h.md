@@ -7,57 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 18:23 JST／対象: 09/12 18:23 〜 09/13 18:23 JST（時刻はすべて日本時間）
+生成: 2026-09-13 19:02 JST／対象: 09/12 19:02 〜 09/13 19:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/12 18:57 | 09/13 18:17 | ⚠ 984分（01:48→18:12） |
-| FirstSquawk | 266 | 09/12 18:38 | 09/13 18:14 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 73 | 09/12 18:44 | 09/13 17:48 | ⚠ 295分（05:05→10:01） |
+| DeItaone | 14 | 09/12 19:04 | 09/13 18:17 | ⚠ 984分（01:48→18:12） |
+| FirstSquawk | 262 | 09/12 19:03 | 09/13 18:43 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 61 | 09/12 19:55 | 09/13 17:48 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 359 行（統合前 363 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 334 行（統合前 337 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 18:38 [FirstSquawk] TRUMP ON IRAN: EVERYTHING WILL WORK OUT FINE
-- 09/12 18:42 [FirstSquawk] FORD IS RECALLING 223,472 VEHICLES IN THE U.S., ACCORDING TO NHTSA.
-- 09/12 18:42 [FirstSquawk] FORD IS RECALLING U.S. CARS DUE TO A DETACHED FUEL TANK THAT MIGHT CREATE ROAD HAZARDS, HIKING THE CRASH RISK. A FUEL LEAK COULD ALSO RESULT IN ENGINE FAILURE OR FIRE RISKS. - NHTSA
-- 09/12 18:44 [financialjuice] Trump: U.S. and Ireland collaborate very successfully
-- 09/12 18:45 [financialjuice] Trump on Iran: war will conclude very soon
-- 09/12 18:45 [financialjuice] Trump on Iran: oil prices to plunge when conflict ends
-- 09/12 18:46 [financialjuice] Trump on Saudi pipeline attack: Crown prince is a close ally, everything will work out fine
-- 09/12 18:47 [FirstSquawk] CHINA WILL TAKE THE BRICS CHAIR IN 2027 AND HOST THE 19TH SUMMIT, REPORTS CCTV.
-- 09/12 18:47 [FirstSquawk] TRUMP SAYS U.S. AND IRELAND HAVE A STRONG TRADE RELATIONSHIP.
-- 09/12 18:48 [FirstSquawk] TRUMP STATES THAT WAR WITH IRAN WILL END IN THE NEAR FUTURE.
-- 09/12 18:48 [FirstSquawk] TRUMP SAYS OIL PRICES WILL DROP ONCE WAR WITH IRAN IS OVER.
-- 09/12 18:48 [FirstSquawk] TRUMP SAYS CROWN PRINCE OF SAUDI ARABIA IS A FRIEND AND ASSURES THAT THE PIPELINE ATTACK SITUATION WILL BE RESOLVED.
-- 09/12 18:48 [FirstSquawk] TRUMP ON GAZA: WE'VE DONE A GREAT JOB
-- 09/12 18:49 [financialjuice] Trump on protests: "I didn't know there was a protest"
-- 09/12 18:50 [financialjuice] Trump on Saudia pipeline attack: Iran likely behind assault
-- 09/12 18:51 [financialjuice] Trump on Saudi pipeline strike: Houthis avoid conflict with US
-- 09/12 18:51 [financialjuice/DeItaone] Trump on Saudi pipeline attack: We control Hormuz Strait
-- 09/12 18:52 [FirstSquawk] TRUMP CLAIMS HE WAS UNAWARE OF THE PROTEST.
-- 09/12 18:52 [FirstSquawk] TRUMP SAYS IRAN IS LIKELY BEHIND SAUDI PIPELINE ATTACK.
-- 09/12 18:52 [FirstSquawk] TRUMP SAYS HOUTHIS ARE NOT INTERESTED IN FIGHTING AGAINST THE U.S. FOLLOWING THE SAUDI PIPELINE ATTACK.
-- 09/12 18:52 [FirstSquawk] TRUMP SAYS WE CONTROL HORMUZ STRAIT AFTER SAUDI PIPELINE ATTACK.
-- 09/12 18:56 [financialjuice] Trump on MCA trade pact: Canada eager to strike deal
-- 09/12 18:57 [financialjuice] Trump on Canada: agreement might occur at right time
-- 09/12 18:57 [DeItaone] TRUMP ON IRAN: WAR WILL END VERY SOON
-- 09/12 18:57 [financialjuice] Trump on Canada: Canada must improve treatment of U.S. farmers
-- 09/12 18:57 [financialjuice] Trump on Canada: likely to reach agreement fairly soon
-- 09/12 18:57 [DeItaone] TRUMP ON IRAN: OIL PRICES WILL TUMBLE WHEN WAR ENDS
-- 09/12 18:57 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: CROWN PRINCE IS A GOOD FRIEND OF MINE, EVERYTHING WILL WORK OUT FINE
-- 09/12 18:58 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: IRAN PROBABLY RESPONSIBLE FOR ATTACK
-- 09/12 18:58 [DeItaone] TRUMP ON SAUDIA PIPELINE ATTACK: HOUTHIS DON'T WANT TO FIGHT WITH US
-- 09/12 18:59 [DeItaone] TRUMP ON IRISH UNIFICATION: IT WILL HAPPEN EVENTUALLY
-- 09/12 19:00 [DeItaone] TRUMP ON MCA TRADE DEAL: CANADA WANTS TO MAKE A DEAL VERY BADLY
-- 09/12 19:00 [DeItaone] TRUMP ON CANADA: DEAL COULD HAPPEN AT THE RIGHT TIME
-- 09/12 19:01 [DeItaone] TRUMP ON CANADA: PROBABLY SEE DEAL FAIRLY SOON
 - 09/12 19:03 [FirstSquawk] TRUMP SAYS UK WILL INFLUENCE IRISH UNIFICATION.
 - 09/12 19:03 [FirstSquawk] TRUMP SUPPORTS IRISH UNIFICATION, CALLING IT A GREAT ACHIEVEMENT FOR ALL. HE BELIEVES IT WILL HAPPEN EVENTUALLY, BUT THE UK WILL HAVE INPUT.
 - 09/12 19:03 [FirstSquawk] TRUMP SAYS CANADA IS VERY EAGER TO REACH A TRADE AGREEMENT.
@@ -383,3 +349,12 @@
 - 09/13 18:10 [FirstSquawk] PM Modi, Egypt Prez Sisi meet in Delhi
 - 09/13 18:12 [DeItaone] The biggest issue with an AI "safety slowdown:" What happens with China? While there are legitimate concerns around the safety of AI and how quickly it is evolving, the AI race is global. And, in today's ecosystem, falling even 6 months beh…
 - 09/13 18:17 [DeItaone] $TSLA - TESLA TEASES OCTOBER 1 ROADSTER EVENT Tesla is teasing an October 1 event for its long-delayed next-generation Roadster, nearly nine years after Elon Musk first unveiled the vehicle. The “Go for launch” messaging is fueling speculat…
+- 09/13 18:36 [FirstSquawk] Xi Jinping has sought to turn the annual BRICS summit into another platform for championing Beijing’s vision for AI, as it vies for global influence over the technology with the US
+- 09/13 18:36 [FirstSquawk] Dario Amodei built Anthropic to avoid the very kind of moment that is playing out now
+- 09/13 18:37 [FirstSquawk] Houthi tribal mobilization shows long lines of armed Toyota technicals in the desert, the classic Yemen war image
+- 09/13 18:37 [FirstSquawk] Ethiopia Eyes Indian Artillery Guns to Replace Soviet Howitzers
+- 09/13 18:38 [FirstSquawk] Saudi shares drop after drone attacks
+- 09/13 18:42 [FirstSquawk] The diplomatic advisor to the UAE president: The meeting between the Crown Prince of Abu Dhabi and the Iranian president on the sidelines of BRICS embodies the UAE's approach based on the two pillars of deterrence and diplomacy.
+- 09/13 18:42 [FirstSquawk] Gargash: Deterrence enhances the credibility of diplomacy, while diplomacy succeeds when it proceeds from a position of parity and capability, ultimately forming the optimal path towards achieving regional security.
+- 09/13 18:42 [FirstSquawk] Kremlin: Trilateral negotiations on Ukraine may resume next October.
+- 09/13 18:43 [FirstSquawk] Yemeni government forces shot down five Houthi drones on the Al-Waziyah front, west of Taiz, in southwestern Yemen.
