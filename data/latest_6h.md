@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 02:59 JST／対象: 09/13 20:59 〜 09/14 02:59 JST（時刻はすべて日本時間）
+生成: 2026-09-14 03:19 JST／対象: 09/13 21:19 〜 09/14 03:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 09/13 21:10 | 09/14 02:47 | ⚠ 147分（22:47→01:15） |
+| DeItaone | 16 | 09/13 21:44 | 09/14 02:47 | ⚠ 147分（22:47→01:15） |
 | FirstSquawk | 41 | 09/13 21:25 | 09/14 01:59 | ⚠ 48分（21:58→22:46） |
-| financialjuice | 18 | 09/13 21:00 | 09/14 02:46 | ⚠ 147分（00:18→02:46） |
+| financialjuice | 25 | 09/13 21:37 | 09/14 03:08 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 76 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 81 行（統合前 82 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 21:00 [financialjuice] Saudi pipeline outage threatens 4% loss in global oil supply unless pumping resumes within days, say traders, sources
-- 09/13 21:00 [financialjuice] Saudi Arabia has storage at Yanbu for only 5-7 days of exports, plus smaller amount stored in Egypt, three sources say
-- 09/13 21:10 [DeItaone] SAUDI PIPELINE OUTAGE THREATENS LOSS OF 4% OF GLOBAL OIL SUPPLY UNLESS PUMPING RESUMES WITHIN DAYS, SAY TRADERS, SOURCES SAUDI ARABIA HAS STORAGE AT YANBU FOR JUST 5-7 DAYS OF EXPORTS, PLUS SMALLER AMOUNT STORED IN EGYPT, THREE SOURCES SAY
-- 09/13 21:10 [DeItaone] SAUDI PIPELINE OUTAGE THREATENS 4% OF GLOBAL OIL SUPPLY Saudi Arabia could lose up to 4 million barrels per day of exports — roughly 4% of global supply — if its critical East-West pipeline does not restart within days, Reuters reports. Sau…
 - 09/13 21:25 [FirstSquawk] Syrian diplomatic source: Ministers Fidan and Al-Shaibani are discussing in Damascus the latest developments regarding the dissolution of the SDF and its integration into state institutions.
 - 09/13 21:25 [FirstSquawk] Syrian diplomatic source: Syrian-Turkish talks are addressing the situation in southern Syria and Israel's repeated violations.
 - 09/13 21:26 [FirstSquawk] SPA: The Saudi Crown Prince and the Pakistani Prime Minister discuss by phone the latest developments and efforts to de-escalate tensions in the region
@@ -100,3 +96,12 @@
 - 09/14 02:20 [DeItaone] U.S. WARNS AGAINST HORMUZ DEAL OPTIMISM U.S. Energy Secretary Chris Wright warned traders against expecting a quick Strait of Hormuz breakthrough with Iran. Alternative routes are supplying about 10 million barrels a day, keeping oil market…
 - 09/14 02:46 [financialjuice] Trump: lifting tariffs on Irish whiskey
 - 09/14 02:47 [DeItaone] TRUMP SAYS HE IS LIFTING TARFFS ON IRISH WHISKEY
+- 09/14 03:01 [financialjuice] Sweden's Social Democrats forecasted to secure 28.4% of votes in election vs 30.3% in 2022 - public broadcaster SVT exit poll
+- 09/14 03:02 [financialjuice] Sweden Democrats forecast to gather 17.2% of votes in election vs 20.5% in 2022 public broadcaster SVT exit poll
+- 09/14 03:04 [financialjuice] Sweden's centre-left opposition bloc to secure 51.3% of votes in election: TV4 election day poll
+- 09/14 03:04 [financialjuice] Sweden's right-wing governing bloc set to capture 47% of votes in election: TV4 election day poll
+- 09/14 03:04 [financialjuice] Sweden's Liberals party seen surpassing parliament's 4% threshold: TV4 election day poll
+- 09/14 03:05 [financialjuice] Sweden's Liberals party expected to clear parliament's 4% threshold: public broadcaster SVT exit poll
+- 09/14 03:05 [financialjuice] Sweden's centre-left bloc projected to secure 46.8% of votes in election: public broadcaster SVT exit poll
+- 09/14 03:05 [financialjuice] Sweden's right-wing ruling bloc tipped to secure 51.3% of vote in election: public broadcaster SVT exit poll
+- 09/14 03:08 [financialjuice] Sweden's centre-left bloc projected to secure 51.3% of votes in election: public broadcaster SVT exit poll

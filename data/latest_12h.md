@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 02:59 JST／対象: 09/13 14:59 〜 09/14 02:59 JST（時刻はすべて日本時間）
+生成: 2026-09-14 03:19 JST／対象: 09/13 15:19 〜 09/14 03:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/13 18:12 | 09/14 02:47 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 106 | 09/13 15:00 | 09/14 01:59 | ⚠ 48分（21:58→22:46） |
-| financialjuice | 31 | 09/13 15:51 | 09/14 02:46 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 100 | 09/13 15:31 | 09/14 01:59 | ⚠ 48分（21:58→22:46） |
+| financialjuice | 40 | 09/13 15:51 | 09/14 03:08 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 154 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 157 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 15:00 [FirstSquawk] US hiring remained broadly stable in July, with 5.1 million people hired and the hiring rate holding at 3.2%. Professional and business services saw the biggest decline, with hires falling by 188,000 during the month.
-- 09/13 15:16 [FirstSquawk] FM Nirmala Sitharaman Meets Iran’s Finance Minister In New Delhi Union Finance Minister Nirmala Sitharaman meets Iran’s Minister of Economic Affairs and Finance Seyed Ali Madanizadeh in New Delhi, with both sides discussing economic coopera…
-- 09/13 15:17 [FirstSquawk] China revised leadership rules for universities and other public-sector institutions, strengthening requirements for political qualifications and Communist Party leadership
-- 09/13 15:17 [FirstSquawk] Weekend markets update: #DAX 25507 -0.23% #DOW 52523 -0.03% #NASDAQ 29244 -0.42% #FTSE 10665 0.00% #HANGSENG 24754 +0.02% #EURUSD 11586 -0.10% #GOLD 4356 +0.15% #SILVER 6449 +0.06% #USOIL 9698 -0.17%
-- 09/13 15:17 [FirstSquawk] PwC shakes up Indian operations as AI threat looms over consulting sector
-- 09/13 15:18 [FirstSquawk] Elections are taking place in the districts, towns and local authorities of the German state of Lower Saxony - just one week after the far right's historic win in the eastern German state of Saxony-Anhalt and before two key state elections
 - 09/13 15:31 [FirstSquawk] BOJ meeting, Semicon India, Hong Kong's first five-year plan
 - 09/13 15:32 [FirstSquawk] Donald Trump turns his focus to golf and promoting his business interests as he wraps up a visit to Ireland on Sunday
 - 09/13 15:32 [FirstSquawk] Chubu Electric Power Co.’s top two executives are set to step down over the falsification of safety data used in regulatory reviews to restart some of its nuclear reactors
@@ -178,3 +172,12 @@
 - 09/14 02:20 [DeItaone] U.S. WARNS AGAINST HORMUZ DEAL OPTIMISM U.S. Energy Secretary Chris Wright warned traders against expecting a quick Strait of Hormuz breakthrough with Iran. Alternative routes are supplying about 10 million barrels a day, keeping oil market…
 - 09/14 02:46 [financialjuice] Trump: lifting tariffs on Irish whiskey
 - 09/14 02:47 [DeItaone] TRUMP SAYS HE IS LIFTING TARFFS ON IRISH WHISKEY
+- 09/14 03:01 [financialjuice] Sweden's Social Democrats forecasted to secure 28.4% of votes in election vs 30.3% in 2022 - public broadcaster SVT exit poll
+- 09/14 03:02 [financialjuice] Sweden Democrats forecast to gather 17.2% of votes in election vs 20.5% in 2022 public broadcaster SVT exit poll
+- 09/14 03:04 [financialjuice] Sweden's centre-left opposition bloc to secure 51.3% of votes in election: TV4 election day poll
+- 09/14 03:04 [financialjuice] Sweden's right-wing governing bloc set to capture 47% of votes in election: TV4 election day poll
+- 09/14 03:04 [financialjuice] Sweden's Liberals party seen surpassing parliament's 4% threshold: TV4 election day poll
+- 09/14 03:05 [financialjuice] Sweden's Liberals party expected to clear parliament's 4% threshold: public broadcaster SVT exit poll
+- 09/14 03:05 [financialjuice] Sweden's centre-left bloc projected to secure 46.8% of votes in election: public broadcaster SVT exit poll
+- 09/14 03:05 [financialjuice] Sweden's right-wing ruling bloc tipped to secure 51.3% of vote in election: public broadcaster SVT exit poll
+- 09/14 03:08 [financialjuice] Sweden's centre-left bloc projected to secure 51.3% of votes in election: public broadcaster SVT exit poll
