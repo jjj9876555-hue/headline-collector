@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 05:24 JST／対象: 09/13 23:24 〜 09/14 05:24 JST（時刻はすべて日本時間）
+生成: 2026-09-14 05:42 JST／対象: 09/13 23:42 〜 09/14 05:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/14 01:15 | 09/14 04:44 | ⚠ 78分（02:47→04:05） |
-| FirstSquawk | 48 | 09/13 23:27 | 09/14 05:23 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 22 | 09/14 00:11 | 09/14 04:46 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 46 | 09/14 00:06 | 09/14 05:23 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 24 | 09/14 00:11 | 09/14 05:39 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 77 行（統合前 78 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The security of the Arabian Gulf will not be stable without respecting the sovereignty and independence of its states and refraining from interfering in their affairs.
-- 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The Kingdom's security is inviolable, and the GCC states will not accept any targeting of their territories.
 - 09/14 00:06 [FirstSquawk] Jerusalem Governorate: 593 settlers stormed Al-Aqsa Mosque during the morning and evening incursions under the protection of the occupation forces.
 - 09/14 00:11 [financialjuice] Emergency alert issued in Saudi Arabia's Khamis Mushait and Abha: Saudi civil defence warns of potential risk
 - 09/14 00:17 [financialjuice] Danger has passed in Saudi Arabia's Khamis Mushait: Saudi civil defence
@@ -101,3 +99,5 @@
 - 09/14 05:08 [FirstSquawk] TRUMP CONTINUES TO DEMAND LOWER BORROWING COSTS, SAYING THE U.S. SHOULD HAVE THE LOWEST INTEREST RATES IN THE WORLD, LEAVING WARSH TO BALANCE FED INDEPENDENCE AGAINST INTENSE WHITE HOUSE PRESSURE.
 - 09/14 05:23 [FirstSquawk] RUSSIAN DRONE STRIKES A TRAIN NEAR YAHODYN, CLOSE TO THE UKRAINE-POLAND BORDER, MINUTES AFTER A DIPLOMATIC TRAIN CARRYING BORIS JOHNSON, CARL BILDT AND EUROPEAN SECURITY ADVISERS DEPARTED AHEAD OF SCHEDULE, WITH UKRAINE SAYING IT WAS LIKELY…
 - 09/14 05:23 [FirstSquawk] NO CASUALTIES WERE REPORTED, WHILE ANOTHER TRAIN CARRYING FORMER CIA DIRECTOR DAVID PETRAEUS WAS STILL AT THE STATION WHEN THE DRONE HIT, HIGHLIGHTING GROWING SECURITY RISKS AROUND UKRAINE'S WESTERN BORDER.
+- 09/14 05:39 [financialjuice] Sweden's center-left opposition bloc now projected to win 175 seats in parliament, broadcaster SVT shows
+- 09/14 05:39 [financialjuice] Sweden's right-wing ruling bloc now projected to win 174 parliamentary seats, broadcaster SVT shows

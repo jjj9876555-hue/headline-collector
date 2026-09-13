@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 05:24 JST／対象: 09/13 17:24 〜 09/14 05:24 JST（時刻はすべて日本時間）
+生成: 2026-09-14 05:42 JST／対象: 09/13 17:42 〜 09/14 05:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/13 18:12 | 09/14 04:44 | ⚠ 147分（22:47→01:15） |
 | FirstSquawk | 107 | 09/13 17:48 | 09/14 05:23 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 43 | 09/13 17:25 | 09/14 04:46 | ⚠ 147分（00:18→02:46） |
+| financialjuice | 44 | 09/13 17:48 | 09/14 05:39 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 169 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 171 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 17:25 [financialjuice/FirstSquawk] Italy economy minister: crucial for Italy to maintain public finances as ECB hikes interest rates
 - 09/13 17:48 [financialjuice/FirstSquawk] Ukraine’s military: strike on Taneko oil refinery in Russia’s Tatarstan
 - 09/13 17:48 [FirstSquawk] Russian President Vladimir Putin departs from Delhi after participating in the BRICS Summit 2026.
 - 09/13 17:48 [FirstSquawk] Jared Kushner on Ukraine: President Putin's laid out his line of what he wants to achieve. If Ukraine, you know, wanted to withdraw to that line, then obviously, you know, we have the rest of the deal set up and put together
@@ -36,6 +35,7 @@
 - 09/13 18:10 [FirstSquawk] Iran has signed contracts to import about 320 megawatts of electricity from Turkmenistan and between 300 and 350 megawatts from Armenia, a deputy energy minister said on Sunday.
 - 09/13 18:10 [FirstSquawk] PM Modi, Egypt Prez Sisi meet in Delhi
 - 09/13 18:12 [DeItaone] The biggest issue with an AI "safety slowdown:" What happens with China? While there are legitimate concerns around the safety of AI and how quickly it is evolving, the AI race is global. And, in today's ecosystem, falling even 6 months beh…
+- 09/13 18:14 [FirstSquawk] ITALY ECONOMY MINISTER: CRUCIAL FOR ITALY TO MAINTAIN PUBLIC FINANCES AS ECB HIKES INTEREST RATES
 - 09/13 18:17 [DeItaone] $TSLA - TESLA TEASES OCTOBER 1 ROADSTER EVENT Tesla is teasing an October 1 event for its long-delayed next-generation Roadster, nearly nine years after Elon Musk first unveiled the vehicle. The “Go for launch” messaging is fueling speculat…
 - 09/13 18:36 [FirstSquawk] Xi Jinping has sought to turn the annual BRICS summit into another platform for championing Beijing’s vision for AI, as it vies for global influence over the technology with the US
 - 09/13 18:36 [FirstSquawk] Dario Amodei built Anthropic to avoid the very kind of moment that is playing out now
@@ -193,3 +193,5 @@
 - 09/14 05:08 [FirstSquawk] TRUMP CONTINUES TO DEMAND LOWER BORROWING COSTS, SAYING THE U.S. SHOULD HAVE THE LOWEST INTEREST RATES IN THE WORLD, LEAVING WARSH TO BALANCE FED INDEPENDENCE AGAINST INTENSE WHITE HOUSE PRESSURE.
 - 09/14 05:23 [FirstSquawk] RUSSIAN DRONE STRIKES A TRAIN NEAR YAHODYN, CLOSE TO THE UKRAINE-POLAND BORDER, MINUTES AFTER A DIPLOMATIC TRAIN CARRYING BORIS JOHNSON, CARL BILDT AND EUROPEAN SECURITY ADVISERS DEPARTED AHEAD OF SCHEDULE, WITH UKRAINE SAYING IT WAS LIKELY…
 - 09/14 05:23 [FirstSquawk] NO CASUALTIES WERE REPORTED, WHILE ANOTHER TRAIN CARRYING FORMER CIA DIRECTOR DAVID PETRAEUS WAS STILL AT THE STATION WHEN THE DRONE HIT, HIGHLIGHTING GROWING SECURITY RISKS AROUND UKRAINE'S WESTERN BORDER.
+- 09/14 05:39 [financialjuice] Sweden's center-left opposition bloc now projected to win 175 seats in parliament, broadcaster SVT shows
+- 09/14 05:39 [financialjuice] Sweden's right-wing ruling bloc now projected to win 174 parliamentary seats, broadcaster SVT shows
