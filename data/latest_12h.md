@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 17:17 JST／対象: 09/13 05:17 〜 09/13 17:17 JST（時刻はすべて日本時間）
+生成: 2026-09-13 17:32 JST／対象: 09/13 05:32 〜 09/13 17:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 129 | 09/13 09:35 | 09/13 17:16 | 41分（15:32→16:14） |
-| financialjuice | 10 | 09/13 10:01 | 09/13 16:58 | ⚠ 220分（10:01→13:41） |
+| FirstSquawk | 131 | 09/13 09:35 | 09/13 17:19 | 41分（15:32→16:14） |
+| financialjuice | 11 | 09/13 10:01 | 09/13 17:25 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 139 行（統合前 139 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 142 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -163,3 +163,6 @@
 - 09/13 17:15 [FirstSquawk] Iranian President Masoud Pezeshkian visited the Iranian Hall, dating back to the reign of Fath-Ali Shah Qajar, at India’s Presidential Palace.
 - 09/13 17:15 [FirstSquawk] Speculators turn net long on yen for first time since February
 - 09/13 17:16 [FirstSquawk] U.S. EV sales remain depressed, but Tesla’s market share has recovered from its 2025
+- 09/13 17:19 [FirstSquawk] Chinese President #XiJinping on Saturday urged BRICS countries to firmly stand on the right side of history and strive to be a pioneer of our times
+- 09/13 17:19 [FirstSquawk] Delhi: Chinese President Xi Jinping departs from Delhi after participating in the BRICS Summit 2026
+- 09/13 17:25 [financialjuice] Italy economy minister: crucial for Italy to maintain public finances as ECB hikes interest rates
