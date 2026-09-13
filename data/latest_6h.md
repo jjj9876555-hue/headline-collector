@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 10:32 JST／対象: 09/13 04:32 〜 09/13 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-13 10:46 JST／対象: 09/13 04:46 〜 09/13 10:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 25 | 09/13 09:35 | 09/13 10:23 | 9分（10:12→10:21） |
+| FirstSquawk | 31 | 09/13 09:35 | 09/13 10:45 | 10分（10:23→10:33） |
 | financialjuice | 3 | 09/13 05:05 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 28 行（統合前 28 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 34 行（統合前 34 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -52,3 +52,9 @@
 - 09/13 10:21 [FirstSquawk] YEMEN CONFLICT: Three aerial attacks targeted Houthi militia sites in Taiz, Yemen’s Armed Forces report.
 - 09/13 10:22 [FirstSquawk] Three air raids targeted Houthi positions and military barracks in Al-Tabba Al-Sawda and Jabal Al-Mun’im on Taiz’s Mist Front, according to Yemen’s Armed Forces.
 - 09/13 10:23 [FirstSquawk] Warplanes conducted three strikes against Houthi militia positions and barracks on the Mist Front, according to Yemen’s Armed Forces.
+- 09/13 10:33 [FirstSquawk] INDIA IPO MOVE: Tata Sons faces pressure to go public after India’s central bank called for the conglomerate’s listing, according to FT.
+- 09/13 10:34 [FirstSquawk] BRICS CALLS FOR DE-ESCALATION: The bloc is urging diplomatic action to prevent further instability in the Gulf as war fears increase, according to FT.
+- 09/13 10:34 [FirstSquawk] Ottawa is seeking to attract $1 trillion from global investors looking for an alternative haven amid Trump-era uncertainty, according to FT.
+- 09/13 10:44 [FirstSquawk] FAKE DONATION CLAIM: A Chinese social media personality faces scrutiny after a purported US$150,000 flood contribution turned out to amount to only 15 cents, according to the Red Cross.
+- 09/13 10:45 [FirstSquawk] EXPLOSION UNDER INVESTIGATION: Bulgarian officials are examining the cause of an explosion at a weapons storage facility.
+- 09/13 10:45 [FirstSquawk] CHINA WARNS US: Beijing urges Washington to cease its intelligence-gathering operations and criticizes the U.S. over its alleged “gangster logic.”

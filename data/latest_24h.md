@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 10:32 JST／対象: 09/12 10:32 〜 09/13 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-13 10:46 JST／対象: 09/12 10:46 〜 09/13 10:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 216 | 09/12 10:35 | 09/13 10:23 | ⚠ 366分（03:29→09:35） |
+| FirstSquawk | 216 | 09/12 10:46 | 09/13 10:45 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 78 | 09/12 13:03 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 10:35 [FirstSquawk] Pyongyang fired an unidentified projectile in the direction of the East Sea, according to Yonhap.
-- 09/12 10:38 [FirstSquawk] Private-sector delivery and equity capacity emerge as main risks to Mexico’s power-grid expansion, Fitch says.
-- 09/12 10:41 [FirstSquawk] Baghdad thanks Riyadh for choosing not to retaliate, state media says.
-- 09/12 10:42 [FirstSquawk] Baghdad condemns any assault that puts Saudi security and stability at risk.
-- 09/12 10:42 [FirstSquawk] Baghdad launches an investigation to determine who was behind the attacks.
-- 09/12 10:42 [FirstSquawk] Baghdad vows to cooperate with allies and friends to stop future attacks.
 - 09/12 10:46 [FirstSquawk] Hamaoka nuclear plant’s restart applications in Japan to be pulled - kyodo
 - 09/12 10:48 [FirstSquawk] President Donald Trump’s promised $5,000 “dividend” for all U.S. adults would not be paid for with taxpayer dollars, Commerce Secretary Howard Lutnick said Thursday. “It’s not tax money,” Lutnick told NBC News in a wide-ranging interview at…
 - 09/12 10:50 [FirstSquawk] AI-POWERED WORM COULD HACK AND SELF-PROPAGATE ACROSS WECHAT ACCOUNTS, NYT REPORTS
@@ -342,3 +336,9 @@
 - 09/13 10:21 [FirstSquawk] YEMEN CONFLICT: Three aerial attacks targeted Houthi militia sites in Taiz, Yemen’s Armed Forces report.
 - 09/13 10:22 [FirstSquawk] Three air raids targeted Houthi positions and military barracks in Al-Tabba Al-Sawda and Jabal Al-Mun’im on Taiz’s Mist Front, according to Yemen’s Armed Forces.
 - 09/13 10:23 [FirstSquawk] Warplanes conducted three strikes against Houthi militia positions and barracks on the Mist Front, according to Yemen’s Armed Forces.
+- 09/13 10:33 [FirstSquawk] INDIA IPO MOVE: Tata Sons faces pressure to go public after India’s central bank called for the conglomerate’s listing, according to FT.
+- 09/13 10:34 [FirstSquawk] BRICS CALLS FOR DE-ESCALATION: The bloc is urging diplomatic action to prevent further instability in the Gulf as war fears increase, according to FT.
+- 09/13 10:34 [FirstSquawk] Ottawa is seeking to attract $1 trillion from global investors looking for an alternative haven amid Trump-era uncertainty, according to FT.
+- 09/13 10:44 [FirstSquawk] FAKE DONATION CLAIM: A Chinese social media personality faces scrutiny after a purported US$150,000 flood contribution turned out to amount to only 15 cents, according to the Red Cross.
+- 09/13 10:45 [FirstSquawk] EXPLOSION UNDER INVESTIGATION: Bulgarian officials are examining the cause of an explosion at a weapons storage facility.
+- 09/13 10:45 [FirstSquawk] CHINA WARNS US: Beijing urges Washington to cease its intelligence-gathering operations and criticizes the U.S. over its alleged “gangster logic.”

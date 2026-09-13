@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 10:32 JST／対象: 09/12 22:32 〜 09/13 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-13 10:46 JST／対象: 09/12 22:46 〜 09/13 10:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/12 22:49 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
-| FirstSquawk | 79 | 09/12 22:38 | 09/13 10:23 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 40 | 09/12 22:44 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
+| FirstSquawk | 80 | 09/12 23:19 | 09/13 10:45 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 34 | 09/12 22:46 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 123 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 118 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 22:38 [FirstSquawk] Abu Dhabi Crown Prince Sheikh Khalid bin Mohamed bin Zayed meets Iranian President on the sidelines of BRICS summit in New Delhi
-- 09/12 22:38 [FirstSquawk] Abu Dhabi Crown Prince discusses with Iranian President on the sidelines of BRICS summit the importance of supporting de-escalation efforts
-- 09/12 22:38 [FirstSquawk] Arab League Secretary-General Condemns Attacks on Oil Facilities in Saudi Arabia
-- 09/12 22:38 [FirstSquawk] The Secretary-General of the League of Arab States affirms the League's categorical rejection of the use of the territory of any Arab country as a starting point for launching attacks on another Arab country or undermining its security and …
-- 09/12 22:39 [FirstSquawk] Kremlin: We are concerned about the situation in the Bab al-Mandab Strait
-- 09/12 22:44 [financialjuice] India foreign ministry: Modi tells China's Xi peace, stability in border areas vital for ongoing growth in bilateral ties
-- 09/12 22:44 [financialjuice] India foreign ministry: Modi, Xi express commitment to fair, reasonable, mutually acceptable boundary resolution
-- 09/12 22:45 [financialjuice] India’s Modi in meeting with China’s Xi underlined need for both sides to observe existing agreements and understandings on border issues: India foreign ministry
-- 09/12 22:45 [financialjuice] India foreign ministry: Modi, Xi reaffirm both nations should adopt strategic, long-term view of ties
-- 09/12 22:45 [financialjuice] India foreign ministry: Modi, Xi agree differences must not turn into disputes
-- 09/12 22:46 [financialjuice] India's Modi, China's Xi emphasize need to boost business ties and mobility between countries: India foreign ministry
 - 09/12 22:46 [financialjuice] Modi, Xi highlight need to address concerns including trade imbalance, supply chain issues, and predictable market access: India foreign minister
 - 09/12 22:48 [financialjuice] Iraq's Al-Tayyib border area with Iran closed after drone launch sites found: two Iraqi military sources
 - 09/12 22:49 [DeItaone] IRAN-GULF TALKS UNLIKELY TO PRODUCE HORMUZ DEAL Monday’s meeting between Iran and Gulf states in Oman is not expected to produce a signed agreement on the Strait of Hormuz, a senior Iranian official told Reuters. Tehran still wants the righ…
@@ -147,3 +136,9 @@
 - 09/13 10:21 [FirstSquawk] YEMEN CONFLICT: Three aerial attacks targeted Houthi militia sites in Taiz, Yemen’s Armed Forces report.
 - 09/13 10:22 [FirstSquawk] Three air raids targeted Houthi positions and military barracks in Al-Tabba Al-Sawda and Jabal Al-Mun’im on Taiz’s Mist Front, according to Yemen’s Armed Forces.
 - 09/13 10:23 [FirstSquawk] Warplanes conducted three strikes against Houthi militia positions and barracks on the Mist Front, according to Yemen’s Armed Forces.
+- 09/13 10:33 [FirstSquawk] INDIA IPO MOVE: Tata Sons faces pressure to go public after India’s central bank called for the conglomerate’s listing, according to FT.
+- 09/13 10:34 [FirstSquawk] BRICS CALLS FOR DE-ESCALATION: The bloc is urging diplomatic action to prevent further instability in the Gulf as war fears increase, according to FT.
+- 09/13 10:34 [FirstSquawk] Ottawa is seeking to attract $1 trillion from global investors looking for an alternative haven amid Trump-era uncertainty, according to FT.
+- 09/13 10:44 [FirstSquawk] FAKE DONATION CLAIM: A Chinese social media personality faces scrutiny after a purported US$150,000 flood contribution turned out to amount to only 15 cents, according to the Red Cross.
+- 09/13 10:45 [FirstSquawk] EXPLOSION UNDER INVESTIGATION: Bulgarian officials are examining the cause of an explosion at a weapons storage facility.
+- 09/13 10:45 [FirstSquawk] CHINA WARNS US: Beijing urges Washington to cease its intelligence-gathering operations and criticizes the U.S. over its alleged “gangster logic.”
