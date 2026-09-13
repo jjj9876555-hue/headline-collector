@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 03:51 JST／対象: 09/13 03:51 〜 09/14 03:51 JST（時刻はすべて日本時間）
+生成: 2026-09-14 04:02 JST／対象: 09/13 04:02 〜 09/14 04:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/13 18:12 | 09/14 02:47 | ⚠ 147分（22:47→01:15） |
 | FirstSquawk | 216 | 09/13 09:35 | 09/14 03:41 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 47 | 09/13 03:57 | 09/14 03:08 | ⚠ 295分（05:05→10:01） |
+| financialjuice | 47 | 09/13 05:05 | 09/14 04:00 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 280 行（統合前 284 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 03:57 [financialjuice] Projectile wounds two in Saudi Arabia's Jizan: Saudi civil defence
-- 09/13 03:58 [financialjuice] Projectile from Yemen's Houthis causes material damage to mosque, buildings, vehicles: Saudi civil defence
 - 09/13 05:05 [financialjuice] ECB releases media interview with Quest-France
 - 09/13 09:35 [FirstSquawk] Sony’s move to discontinue physical PlayStation game releases triggers backlash over digital ownership. Consumer rights groups in the UK and Mexico warn that the decision could undermine buyer choice.
 - 09/13 09:36 [FirstSquawk] Anthropic chief executive Dario Amodei urges AI firms to intentionally moderate the speed of artificial intelligence advancement.
@@ -304,3 +302,5 @@
 - 09/14 03:38 [FirstSquawk] THE DECISION DELIVERS A MAJOR VICTORY TO THE IRISH GOVERNMENT AND HIGHLIGHTS TRUMP'S OFTEN SHIFTING AND PERSONAL APPROACH TO TRADE POLICY, COMING AT THE END OF A TWO-DAY VISIT IN WHICH IRELAND'S LEADERS 'ROLLED OUT THE RED CARPET', WITH TRU…
 - 09/14 03:38 [FirstSquawk] THE VISIT WAS NOT WITHOUT CONTROVERSY, AS TRUMP SAID SATURDAY HE WOULD LIKE TO SEE A UNIFIED IRELAND — SPARKING BLOWBACK IN NORTHERN IRELAND, WHICH IS PART OF THE UK — THOUGH HE DEFENDED THE REMARKS SUNDAY, CALLING THEM 'FAIRLY ROUTINE' AND…
 - 09/14 03:41 [FirstSquawk] U.S. HOUSE SPEAKER MIKE JOHNSON SAYS ON IRAN THAT 'THE IRANIANS ARE NOT TRUSTWORTHY NEGOTIATING PARTNERS', ACCUSING THEM OF LYING 'EVERY DAY' AND SITTING AT THE TABLE TO 'TELL YOU ONE THING, DO THE OPPOSITE', ADDING THAT 'FOR SOME OF THEM, …
+- 09/14 03:52 [financialjuice] Trump: will consider releasing additional records related to 9/11 attacks
+- 09/14 04:00 [financialjuice] Canada aims for Ukraine loan role to strengthen EU relations - FT

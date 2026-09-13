@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 03:51 JST／対象: 09/13 21:51 〜 09/14 03:51 JST（時刻はすべて日本時間）
+生成: 2026-09-14 04:02 JST／対象: 09/13 22:02 〜 09/14 04:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 15 | 09/13 22:04 | 09/14 02:47 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 38 | 09/13 21:57 | 09/14 03:41 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 24 | 09/13 22:10 | 09/14 03:08 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 36 | 09/13 22:46 | 09/14 03:41 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 26 | 09/13 22:10 | 09/14 04:00 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 76 行（統合前 77 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 21:57 [FirstSquawk] International Organization for Migration: Nearly 85,000 people have been forced to leave their homes due to fighting in Yemen, and about 2,000 have arrived in Djibouti.
-- 09/13 21:58 [FirstSquawk] Iranian President: BRICS group has announced its rejection of the policy of imposing unilateral sanctions and coercive measures against countries
 - 09/13 22:04 [DeItaone] IRAN, UAE AGREE TO “PUT THE PAST ASIDE” Iranian President Masoud Pezeshkian says talks with Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed were positive, following their meeting at the BRICS summit in New Delhi. Pezeshkian said …
 - 09/13 22:10 [financialjuice/FirstSquawk] Trump on Fed decision next week: says US should have lowest rates globally
 - 09/13 22:11 [financialjuice] Trump: $5,000 post-election promise should be easy for Congress
@@ -100,3 +98,5 @@
 - 09/14 03:38 [FirstSquawk] THE DECISION DELIVERS A MAJOR VICTORY TO THE IRISH GOVERNMENT AND HIGHLIGHTS TRUMP'S OFTEN SHIFTING AND PERSONAL APPROACH TO TRADE POLICY, COMING AT THE END OF A TWO-DAY VISIT IN WHICH IRELAND'S LEADERS 'ROLLED OUT THE RED CARPET', WITH TRU…
 - 09/14 03:38 [FirstSquawk] THE VISIT WAS NOT WITHOUT CONTROVERSY, AS TRUMP SAID SATURDAY HE WOULD LIKE TO SEE A UNIFIED IRELAND — SPARKING BLOWBACK IN NORTHERN IRELAND, WHICH IS PART OF THE UK — THOUGH HE DEFENDED THE REMARKS SUNDAY, CALLING THEM 'FAIRLY ROUTINE' AND…
 - 09/14 03:41 [FirstSquawk] U.S. HOUSE SPEAKER MIKE JOHNSON SAYS ON IRAN THAT 'THE IRANIANS ARE NOT TRUSTWORTHY NEGOTIATING PARTNERS', ACCUSING THEM OF LYING 'EVERY DAY' AND SITTING AT THE TABLE TO 'TELL YOU ONE THING, DO THE OPPOSITE', ADDING THAT 'FOR SOME OF THEM, …
+- 09/14 03:52 [financialjuice] Trump: will consider releasing additional records related to 9/11 attacks
+- 09/14 04:00 [financialjuice] Canada aims for Ukraine loan role to strengthen EU relations - FT

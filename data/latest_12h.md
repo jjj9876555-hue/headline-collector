@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 03:51 JST／対象: 09/13 15:51 〜 09/14 03:51 JST（時刻はすべて日本時間）
+生成: 2026-09-14 04:02 JST／対象: 09/13 16:02 〜 09/14 04:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/13 18:12 | 09/14 02:47 | ⚠ 147分（22:47→01:15） |
 | FirstSquawk | 104 | 09/13 16:14 | 09/14 03:41 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 40 | 09/13 15:51 | 09/14 03:08 | ⚠ 147分（00:18→02:46） |
+| financialjuice | 41 | 09/13 16:41 | 09/14 04:00 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 161 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 15:51 [financialjuice] Kremlin: Modi and Xi actively proposed help for Ukraine settlement, Putin welcomed their willingness - TASS
 - 09/13 16:14 [FirstSquawk] Chinese leader pledges to help Brics nations with AI and smart manufacturing
 - 09/13 16:14 [FirstSquawk] Russia battered the Odesa region overnight and early Sunday morning with continuous strikes, damaging high-rises, private homes, and infrastructure.
 - 09/13 16:15 [FirstSquawk] Kremlin: Modi and Xi actively proposed help for Ukraine settlement, Putin welcomed their willingness
@@ -185,3 +184,5 @@
 - 09/14 03:38 [FirstSquawk] THE DECISION DELIVERS A MAJOR VICTORY TO THE IRISH GOVERNMENT AND HIGHLIGHTS TRUMP'S OFTEN SHIFTING AND PERSONAL APPROACH TO TRADE POLICY, COMING AT THE END OF A TWO-DAY VISIT IN WHICH IRELAND'S LEADERS 'ROLLED OUT THE RED CARPET', WITH TRU…
 - 09/14 03:38 [FirstSquawk] THE VISIT WAS NOT WITHOUT CONTROVERSY, AS TRUMP SAID SATURDAY HE WOULD LIKE TO SEE A UNIFIED IRELAND — SPARKING BLOWBACK IN NORTHERN IRELAND, WHICH IS PART OF THE UK — THOUGH HE DEFENDED THE REMARKS SUNDAY, CALLING THEM 'FAIRLY ROUTINE' AND…
 - 09/14 03:41 [FirstSquawk] U.S. HOUSE SPEAKER MIKE JOHNSON SAYS ON IRAN THAT 'THE IRANIANS ARE NOT TRUSTWORTHY NEGOTIATING PARTNERS', ACCUSING THEM OF LYING 'EVERY DAY' AND SITTING AT THE TABLE TO 'TELL YOU ONE THING, DO THE OPPOSITE', ADDING THAT 'FOR SOME OF THEM, …
+- 09/14 03:52 [financialjuice] Trump: will consider releasing additional records related to 9/11 attacks
+- 09/14 04:00 [financialjuice] Canada aims for Ukraine loan role to strengthen EU relations - FT
