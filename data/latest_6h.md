@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 16:17 JST／対象: 09/13 10:17 〜 09/13 16:17 JST（時刻はすべて日本時間）
+生成: 2026-09-13 16:32 JST／対象: 09/13 10:32 〜 09/13 16:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 95 | 09/13 10:21 | 09/13 16:15 | 41分（15:32→16:14） |
+| FirstSquawk | 92 | 09/13 10:33 | 09/13 16:15 | 41分（15:32→16:14） |
 | financialjuice | 3 | 09/13 13:41 | 09/13 15:51 | ⚠ 103分（14:08→15:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 98 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 95 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 10:21 [FirstSquawk] YEMEN CONFLICT: Three aerial attacks targeted Houthi militia sites in Taiz, Yemen’s Armed Forces report.
-- 09/13 10:22 [FirstSquawk] Three air raids targeted Houthi positions and military barracks in Al-Tabba Al-Sawda and Jabal Al-Mun’im on Taiz’s Mist Front, according to Yemen’s Armed Forces.
-- 09/13 10:23 [FirstSquawk] Warplanes conducted three strikes against Houthi militia positions and barracks on the Mist Front, according to Yemen’s Armed Forces.
 - 09/13 10:33 [FirstSquawk] INDIA IPO MOVE: Tata Sons faces pressure to go public after India’s central bank called for the conglomerate’s listing, according to FT.
 - 09/13 10:34 [FirstSquawk] BRICS CALLS FOR DE-ESCALATION: The bloc is urging diplomatic action to prevent further instability in the Gulf as war fears increase, according to FT.
 - 09/13 10:34 [FirstSquawk] Ottawa is seeking to attract $1 trillion from global investors looking for an alternative haven amid Trump-era uncertainty, according to FT.
