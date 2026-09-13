@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 19:02 JST／対象: 09/13 13:02 〜 09/13 19:02 JST（時刻はすべて日本時間）
+生成: 2026-09-13 19:23 JST／対象: 09/13 13:23 〜 09/13 19:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/13 18:12 | 09/13 18:17 | 5分（18:12→18:17） |
-| FirstSquawk | 82 | 09/13 13:06 | 09/13 18:43 | 41分（15:32→16:14） |
-| financialjuice | 10 | 09/13 13:41 | 09/13 17:48 | ⚠ 103分（14:08→15:51） |
+| FirstSquawk | 81 | 09/13 13:29 | 09/13 19:14 | 41分（15:32→16:14） |
+| financialjuice | 11 | 09/13 13:41 | 09/13 19:12 | ⚠ 103分（14:08→15:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 92 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 91 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 13:06 [FirstSquawk] HSBC warns that rising corporate taxes, renewed private-sector debt and shifting stock-bond dynamics could finally test global markets’ resilience - CNBC
-- 09/13 13:11 [FirstSquawk] Trump says the U.S. could reach a deal with Canada “fairly soon,” signaling progress toward a bilateral agreement.
-- 09/13 13:15 [FirstSquawk] China’s Xi highlights shared responsibilities with India as major Global South nations
-- 09/13 13:15 [FirstSquawk] Japanese trade representatives seek China talks as diplomatic tensions persist
-- 09/13 13:23 [FirstSquawk] Four arrested after Jordan’s Northern Military Region blocks attempted infiltration
 - 09/13 13:29 [FirstSquawk] Paris and Beirut call for the UN peacekeeping mission in Lebanon to be extended, keeping international forces in place amid ongoing regional tensions. The push highlights continued concerns over stability and security along Lebanon’s border…
 - 09/13 13:30 [FirstSquawk] CVC faces growing shareholder opposition over its €10.7 billion plan to take Recordati private - FT The revolt could complicate the deal, highlighting investor concerns over the valuation and terms of the proposed buyout.
 - 09/13 13:33 [FirstSquawk] Musk’s undisclosed financial backer has amassed a $40 billion stake in SpaceX. The investment underscores the growing influence of major private investors in the valuation and ownership of Elon Musk’s space company.
@@ -116,3 +111,7 @@
 - 09/13 18:42 [FirstSquawk] Gargash: Deterrence enhances the credibility of diplomacy, while diplomacy succeeds when it proceeds from a position of parity and capability, ultimately forming the optimal path towards achieving regional security.
 - 09/13 18:42 [FirstSquawk] Kremlin: Trilateral negotiations on Ukraine may resume next October.
 - 09/13 18:43 [FirstSquawk] Yemeni government forces shot down five Houthi drones on the Al-Waziyah front, west of Taiz, in southwestern Yemen.
+- 09/13 19:12 [FirstSquawk] Jerusalem Governorate: Israeli media blackout on settlers storming Al-Aqsa raises fears of an attempt to impose new realities.
+- 09/13 19:12 [financialjuice/FirstSquawk] South Korea industry minister: $200 billion total investment cap, $20 billion annual investment to be maintained as previously agreed with U.S.
+- 09/13 19:13 [FirstSquawk] Araqchi: The agenda for tomorrow's meeting in the Sultanate of Oman focuses on the new maritime route in the Strait of Hormuz
+- 09/13 19:14 [FirstSquawk] Araqchi: Iran's condition for reopening the Strait of Hormuz is the return of the United States to its commitments under the Islamabad Memorandum

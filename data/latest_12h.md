@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 19:02 JST／対象: 09/13 07:02 〜 09/13 19:02 JST（時刻はすべて日本時間）
+生成: 2026-09-13 19:23 JST／対象: 09/13 07:23 〜 09/13 19:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/13 18:12 | 09/13 18:17 | 5分（18:12→18:17） |
-| FirstSquawk | 151 | 09/13 09:35 | 09/13 18:43 | 41分（15:32→16:14） |
-| financialjuice | 12 | 09/13 10:01 | 09/13 17:48 | ⚠ 220分（10:01→13:41） |
+| FirstSquawk | 155 | 09/13 09:35 | 09/13 19:14 | 41分（15:32→16:14） |
+| financialjuice | 13 | 09/13 10:01 | 09/13 19:12 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 163 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 167 行（統合前 170 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -187,3 +187,7 @@
 - 09/13 18:42 [FirstSquawk] Gargash: Deterrence enhances the credibility of diplomacy, while diplomacy succeeds when it proceeds from a position of parity and capability, ultimately forming the optimal path towards achieving regional security.
 - 09/13 18:42 [FirstSquawk] Kremlin: Trilateral negotiations on Ukraine may resume next October.
 - 09/13 18:43 [FirstSquawk] Yemeni government forces shot down five Houthi drones on the Al-Waziyah front, west of Taiz, in southwestern Yemen.
+- 09/13 19:12 [FirstSquawk] Jerusalem Governorate: Israeli media blackout on settlers storming Al-Aqsa raises fears of an attempt to impose new realities.
+- 09/13 19:12 [financialjuice/FirstSquawk] South Korea industry minister: $200 billion total investment cap, $20 billion annual investment to be maintained as previously agreed with U.S.
+- 09/13 19:13 [FirstSquawk] Araqchi: The agenda for tomorrow's meeting in the Sultanate of Oman focuses on the new maritime route in the Strait of Hormuz
+- 09/13 19:14 [FirstSquawk] Araqchi: Iran's condition for reopening the Strait of Hormuz is the return of the United States to its commitments under the Islamabad Memorandum
