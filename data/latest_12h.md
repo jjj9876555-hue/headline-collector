@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 21:21 JST／対象: 09/13 09:21 〜 09/13 21:21 JST（時刻はすべて日本時間）
+生成: 2026-09-13 21:39 JST／対象: 09/13 09:39 〜 09/13 21:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/13 18:12 | 09/13 21:10 | ⚠ 137分（18:17→20:35） |
-| FirstSquawk | 167 | 09/13 09:35 | 09/13 20:54 | 42分（20:10→20:53） |
-| financialjuice | 19 | 09/13 10:01 | 09/13 21:00 | ⚠ 220分（10:01→13:41） |
+| FirstSquawk | 175 | 09/13 09:41 | 09/13 21:28 | 42分（20:10→20:53） |
+| financialjuice | 20 | 09/13 10:01 | 09/13 21:37 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 188 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 197 行（統合前 200 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 09:35 [FirstSquawk] Sony’s move to discontinue physical PlayStation game releases triggers backlash over digital ownership. Consumer rights groups in the UK and Mexico warn that the decision could undermine buyer choice.
-- 09/13 09:36 [FirstSquawk] Anthropic chief executive Dario Amodei urges AI firms to intentionally moderate the speed of artificial intelligence advancement.
-- 09/13 09:38 [FirstSquawk] Seven retirees who settled in tax-friendly states reveal how the move affected their wealth, reduced their tax burdens, exposed unforeseen costs and transformed their daily lives - WSJ
 - 09/13 09:41 [FirstSquawk] NEW YORK REAL ESTATE: Manhattan's ultra-luxury rental segment is booming, with apartments commanding over $50,000 per month more than doubling year-on-year and those exceeding $100,000 increasing sevenfold, according to CNBC.
 - 09/13 09:42 [FirstSquawk] OIL DEMAND HIT: China’s ambitious 70% EV target threatens to accelerate the decline in petroleum consumption.
 - 09/13 09:43 [FirstSquawk] PEACE NEGOTIATIONS: Another round of Ukraine-U.S.-Russia talks may be held in October, Budanov says, as Washington intensifies efforts to revive the negotiation process.
@@ -212,3 +209,15 @@
 - 09/13 21:00 [financialjuice] Saudi Arabia has storage at Yanbu for only 5-7 days of exports, plus smaller amount stored in Egypt, three sources say
 - 09/13 21:10 [DeItaone] SAUDI PIPELINE OUTAGE THREATENS LOSS OF 4% OF GLOBAL OIL SUPPLY UNLESS PUMPING RESUMES WITHIN DAYS, SAY TRADERS, SOURCES SAUDI ARABIA HAS STORAGE AT YANBU FOR JUST 5-7 DAYS OF EXPORTS, PLUS SMALLER AMOUNT STORED IN EGYPT, THREE SOURCES SAY
 - 09/13 21:10 [DeItaone] SAUDI PIPELINE OUTAGE THREATENS 4% OF GLOBAL OIL SUPPLY Saudi Arabia could lose up to 4 million barrels per day of exports — roughly 4% of global supply — if its critical East-West pipeline does not restart within days, Reuters reports. Sau…
+- 09/13 21:25 [FirstSquawk] Syrian diplomatic source: Ministers Fidan and Al-Shaibani are discussing in Damascus the latest developments regarding the dissolution of the SDF and its integration into state institutions.
+- 09/13 21:25 [FirstSquawk] Syrian diplomatic source: Syrian-Turkish talks are addressing the situation in southern Syria and Israel's repeated violations.
+- 09/13 21:26 [FirstSquawk] SPA: The Saudi Crown Prince and the Pakistani Prime Minister discuss by phone the latest developments and efforts to de-escalate tensions in the region
+- 09/13 21:26 [FirstSquawk] SPA: The Prime Minister of Pakistan affirmed his condemnation of the attacks on Saudi oil infrastructure and Pakistan's support for the Kingdom's security.
+- 09/13 21:26 [FirstSquawk] Syrian Foreign Minister: We look forward to increasing trade exchange with Turkey to reach approximately $10 billion annually.
+- 09/13 21:27 [FirstSquawk] Turkish Foreign Minister: Syrian-Turkish relations have made unprecedented progress over the past two years
+- 09/13 21:27 [FirstSquawk] Turkish Foreign Minister: Syria is making serious efforts to enhance the security and stability of the region
+- 09/13 21:27 [FirstSquawk] Turkish Foreign Minister: We discussed in Damascus the issue of President Erdogan's visit to Syria , which will be very soon.
+- 09/13 21:27 [FirstSquawk] Turkish Foreign Minister: The SDF's announcement of its dissolution is important and we see it as a positive step, but its implementation on the ground is also important.
+- 09/13 21:28 [FirstSquawk] Turkish Foreign Minister: Israel is permanently targeting the stability of Syria, and this serves the interests of terrorist forces in the region.
+- 09/13 21:28 [FirstSquawk] Turkish Foreign Minister: The regional and global economy has entered a crisis following the events in the Strait of Hormuz.
+- 09/13 21:37 [financialjuice] Iranian president: talk with Abu Dhabi crown prince was positive, agreed to move beyond past - Tasnim

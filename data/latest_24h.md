@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 21:21 JST／対象: 09/12 21:21 〜 09/13 21:21 JST（時刻はすべて日本時間）
+生成: 2026-09-13 21:39 JST／対象: 09/12 21:39 〜 09/13 21:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/12 21:50 | 09/13 21:10 | ⚠ 984分（01:48→18:12） |
-| FirstSquawk | 227 | 09/12 21:26 | 09/13 20:54 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 62 | 09/12 21:43 | 09/13 21:00 | ⚠ 295分（05:05→10:01） |
+| FirstSquawk | 235 | 09/12 21:39 | 09/13 21:28 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 63 | 09/12 21:43 | 09/13 21:37 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 297 行（統合前 301 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 306 行（統合前 310 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 21:26 [FirstSquawk] BRICS Urges Restraint as Middle East Tensions Escalate BRICS nations, including Iran, the United Arab Emirates, India and China, have expressed deep concern over rising tensions in the Middle East and called for maximum restraint. In a join…
-- 09/12 21:38 [FirstSquawk] BAHRAIN ANNOUNCES IT WILL NOT PARTICIPATE IN THE IRAN MEETING REGARDING THE HORMUZ STRAIT.
-- 09/12 21:38 [FirstSquawk] BAHRAIN DECLINES TO JOIN ANY MEETINGS WITH IRAN, ACCORDING TO BNA.
 - 09/12 21:39 [FirstSquawk] BAHRAIN HAS PUBLICLY ANNOUNCED IT WILL NOT PARTICIPATE IN THE HORMUZ MEETING, ACCORDING TO BNA.
 - 09/12 21:43 [financialjuice] Kremlin expresses concern about situation in Bab el-Mandeb Strait - IFX
 - 09/12 21:48 [financialjuice] Bahrain: no meetings with Iran until diplomatic ties restored - state news agency
@@ -321,3 +318,15 @@
 - 09/13 21:00 [financialjuice] Saudi Arabia has storage at Yanbu for only 5-7 days of exports, plus smaller amount stored in Egypt, three sources say
 - 09/13 21:10 [DeItaone] SAUDI PIPELINE OUTAGE THREATENS LOSS OF 4% OF GLOBAL OIL SUPPLY UNLESS PUMPING RESUMES WITHIN DAYS, SAY TRADERS, SOURCES SAUDI ARABIA HAS STORAGE AT YANBU FOR JUST 5-7 DAYS OF EXPORTS, PLUS SMALLER AMOUNT STORED IN EGYPT, THREE SOURCES SAY
 - 09/13 21:10 [DeItaone] SAUDI PIPELINE OUTAGE THREATENS 4% OF GLOBAL OIL SUPPLY Saudi Arabia could lose up to 4 million barrels per day of exports — roughly 4% of global supply — if its critical East-West pipeline does not restart within days, Reuters reports. Sau…
+- 09/13 21:25 [FirstSquawk] Syrian diplomatic source: Ministers Fidan and Al-Shaibani are discussing in Damascus the latest developments regarding the dissolution of the SDF and its integration into state institutions.
+- 09/13 21:25 [FirstSquawk] Syrian diplomatic source: Syrian-Turkish talks are addressing the situation in southern Syria and Israel's repeated violations.
+- 09/13 21:26 [FirstSquawk] SPA: The Saudi Crown Prince and the Pakistani Prime Minister discuss by phone the latest developments and efforts to de-escalate tensions in the region
+- 09/13 21:26 [FirstSquawk] SPA: The Prime Minister of Pakistan affirmed his condemnation of the attacks on Saudi oil infrastructure and Pakistan's support for the Kingdom's security.
+- 09/13 21:26 [FirstSquawk] Syrian Foreign Minister: We look forward to increasing trade exchange with Turkey to reach approximately $10 billion annually.
+- 09/13 21:27 [FirstSquawk] Turkish Foreign Minister: Syrian-Turkish relations have made unprecedented progress over the past two years
+- 09/13 21:27 [FirstSquawk] Turkish Foreign Minister: Syria is making serious efforts to enhance the security and stability of the region
+- 09/13 21:27 [FirstSquawk] Turkish Foreign Minister: We discussed in Damascus the issue of President Erdogan's visit to Syria , which will be very soon.
+- 09/13 21:27 [FirstSquawk] Turkish Foreign Minister: The SDF's announcement of its dissolution is important and we see it as a positive step, but its implementation on the ground is also important.
+- 09/13 21:28 [FirstSquawk] Turkish Foreign Minister: Israel is permanently targeting the stability of Syria, and this serves the interests of terrorist forces in the region.
+- 09/13 21:28 [FirstSquawk] Turkish Foreign Minister: The regional and global economy has entered a crisis following the events in the Strait of Hormuz.
+- 09/13 21:37 [financialjuice] Iranian president: talk with Abu Dhabi crown prince was positive, agreed to move beyond past - Tasnim
