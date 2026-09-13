@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 09:32 JST／対象: 09/12 09:32 〜 09/13 09:32 JST（時刻はすべて日本時間）
+生成: 2026-09-13 09:49 JST／対象: 09/12 09:49 〜 09/13 09:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 229 | 09/12 09:40 | 09/13 03:29 | ⚠ 114分（16:00→17:55） |
+| FirstSquawk | 234 | 09/12 09:49 | 09/13 09:49 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 78 | 09/12 10:02 | 09/13 05:05 | ⚠ 170分（10:12→13:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 331 行（統合前 334 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 336 行（統合前 339 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 09:40 [FirstSquawk] Seoul’s NSC holds an urgent security review after North Korea launches short-range ballistic missiles.
-- 09/12 09:41 [FirstSquawk] Trump: I’m open to Chinese automakers building vehicles at U.S. plants.
-- 09/12 09:44 [FirstSquawk] Petrobras collects two payments totaling 2.54 billion reais linked to Brazil’s diesel subsidy initiative.
-- 09/12 09:47 [FirstSquawk] Seoul says North Korea’s missile firing defies U.N. Security Council resolutions, triggering an urgent security meeting.
-- 09/12 09:48 [FirstSquawk] Baghdad suspends traffic at the Shalamcheh border post with Iran as a precaution after recent attacks targeting Saudi Arabia.
 - 09/12 09:49 [FirstSquawk] The upcoming Israel-Lebanon talks have been moved to a later date, Axios reports.
 - 09/12 09:50 [FirstSquawk] Khamis Mushait is no longer under threat, Saudi Civil Defense says.
 - 09/12 09:50 [FirstSquawk] Taif is now clear of the threat, Saudi Civil Defense says.
@@ -355,3 +350,13 @@
 - 09/13 03:57 [financialjuice] Projectile wounds two in Saudi Arabia's Jizan: Saudi civil defence
 - 09/13 03:58 [financialjuice] Projectile from Yemen's Houthis causes material damage to mosque, buildings, vehicles: Saudi civil defence
 - 09/13 05:05 [financialjuice] ECB releases media interview with Quest-France
+- 09/13 09:35 [FirstSquawk] Sony’s move to discontinue physical PlayStation game releases triggers backlash over digital ownership. Consumer rights groups in the UK and Mexico warn that the decision could undermine buyer choice.
+- 09/13 09:36 [FirstSquawk] Anthropic chief executive Dario Amodei urges AI firms to intentionally moderate the speed of artificial intelligence advancement.
+- 09/13 09:38 [FirstSquawk] Seven retirees who settled in tax-friendly states reveal how the move affected their wealth, reduced their tax burdens, exposed unforeseen costs and transformed their daily lives - WSJ
+- 09/13 09:41 [FirstSquawk] NEW YORK REAL ESTATE: Manhattan's ultra-luxury rental segment is booming, with apartments commanding over $50,000 per month more than doubling year-on-year and those exceeding $100,000 increasing sevenfold, according to CNBC.
+- 09/13 09:42 [FirstSquawk] OIL DEMAND HIT: China’s ambitious 70% EV target threatens to accelerate the decline in petroleum consumption.
+- 09/13 09:43 [FirstSquawk] PEACE NEGOTIATIONS: Another round of Ukraine-U.S.-Russia talks may be held in October, Budanov says, as Washington intensifies efforts to revive the negotiation process.
+- 09/13 09:44 [FirstSquawk] PUTIN WARNS EUROPE: Russian President Vladimir Putin cautions that deploying European troops to Ukraine would amount to direct war with Russia, CBS reports.
+- 09/13 09:47 [FirstSquawk] DEATH TOLL RISES: The number of fatalities from a Philippine ferry fire reaches 76, while search operations continue.
+- 09/13 09:47 [FirstSquawk] BIG LAW SHAKE-UP: Cravath is gaining Weil Gotshal’s highest-paid partner, with the move exposing divergent approaches to growth across the legal industry, according to WSJ.
+- 09/13 09:49 [FirstSquawk] AI DEVELOPMENT: Russia rejects calls to decelerate AI progress, saying the technology’s development cannot be slowed.
