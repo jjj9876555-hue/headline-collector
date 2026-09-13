@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 22:35 JST／対象: 09/12 22:35 〜 09/13 22:35 JST（時刻はすべて日本時間）
+生成: 2026-09-13 22:49 JST／対象: 09/12 22:49 〜 09/13 22:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/12 22:49 | 09/13 22:35 | ⚠ 984分（01:48→18:12） |
-| FirstSquawk | 234 | 09/12 22:38 | 09/13 21:58 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 68 | 09/12 22:44 | 09/13 22:15 | ⚠ 295分（05:05→10:01） |
+| DeItaone | 21 | 09/12 22:49 | 09/13 22:47 | ⚠ 984分（01:48→18:12） |
+| FirstSquawk | 239 | 09/12 23:19 | 09/13 22:48 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 61 | 09/12 23:04 | 09/13 22:36 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 313 行（統合前 317 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 316 行（統合前 321 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 22:38 [FirstSquawk] Abu Dhabi Crown Prince Sheikh Khalid bin Mohamed bin Zayed meets Iranian President on the sidelines of BRICS summit in New Delhi
-- 09/12 22:38 [FirstSquawk] Abu Dhabi Crown Prince discusses with Iranian President on the sidelines of BRICS summit the importance of supporting de-escalation efforts
-- 09/12 22:38 [FirstSquawk] Arab League Secretary-General Condemns Attacks on Oil Facilities in Saudi Arabia
-- 09/12 22:38 [FirstSquawk] The Secretary-General of the League of Arab States affirms the League's categorical rejection of the use of the territory of any Arab country as a starting point for launching attacks on another Arab country or undermining its security and …
-- 09/12 22:39 [FirstSquawk] Kremlin: We are concerned about the situation in the Bab al-Mandab Strait
-- 09/12 22:44 [financialjuice] India foreign ministry: Modi tells China's Xi peace, stability in border areas vital for ongoing growth in bilateral ties
-- 09/12 22:44 [financialjuice] India foreign ministry: Modi, Xi express commitment to fair, reasonable, mutually acceptable boundary resolution
-- 09/12 22:45 [financialjuice] India’s Modi in meeting with China’s Xi underlined need for both sides to observe existing agreements and understandings on border issues: India foreign ministry
-- 09/12 22:45 [financialjuice] India foreign ministry: Modi, Xi reaffirm both nations should adopt strategic, long-term view of ties
-- 09/12 22:45 [financialjuice] India foreign ministry: Modi, Xi agree differences must not turn into disputes
-- 09/12 22:46 [financialjuice] India's Modi, China's Xi emphasize need to boost business ties and mobility between countries: India foreign ministry
-- 09/12 22:46 [financialjuice] Modi, Xi highlight need to address concerns including trade imbalance, supply chain issues, and predictable market access: India foreign minister
-- 09/12 22:48 [financialjuice] Iraq's Al-Tayyib border area with Iran closed after drone launch sites found: two Iraqi military sources
 - 09/12 22:49 [DeItaone] IRAN-GULF TALKS UNLIKELY TO PRODUCE HORMUZ DEAL Monday’s meeting between Iran and Gulf states in Oman is not expected to produce a signed agreement on the Strait of Hormuz, a senior Iranian official told Reuters. Tehran still wants the righ…
 - 09/12 23:04 [financialjuice] Anthropic’s Dario Amodei: We must slow the pace of improving AI model capabilities
 - 09/12 23:04 [DeItaone] ANTHROPIC'S DARIO AMODEI: WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE CAPABILITIES OF AI MODELS
@@ -324,7 +311,7 @@
 - 09/13 21:57 [FirstSquawk] International Organization for Migration: Nearly 85,000 people have been forced to leave their homes due to fighting in Yemen, and about 2,000 have arrived in Djibouti.
 - 09/13 21:58 [FirstSquawk] Iranian President: BRICS group has announced its rejection of the policy of imposing unilateral sanctions and coercive measures against countries
 - 09/13 22:04 [DeItaone] IRAN, UAE AGREE TO “PUT THE PAST ASIDE” Iranian President Masoud Pezeshkian says talks with Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed were positive, following their meeting at the BRICS summit in New Delhi. Pezeshkian said …
-- 09/13 22:10 [financialjuice] Trump on Fed decision next week: says US should have lowest rates globally
+- 09/13 22:10 [financialjuice/FirstSquawk] Trump on Fed decision next week: says US should have lowest rates globally
 - 09/13 22:11 [financialjuice] Trump: $5,000 post-election promise should be easy for Congress
 - 09/13 22:11 [financialjuice] Trump: I always honor my commitments
 - 09/13 22:12 [financialjuice] Trump on Iran: Iran war will wrap up perhaps before or shortly after midterms
@@ -337,3 +324,19 @@
 - 09/13 22:34 [DeItaone] TRUMP : ASKED ABOUT FED DECISION NEXT WEEK, SAYS WE SHOULD HAVE THE LOWEST RATE IN THE WORLD
 - 09/13 22:35 [DeItaone] TRUMP ON IRAN: IRAN WAR WILL END - MAYBE BEFORE OR RIGHT AFTER THE MIDTERMS
 - 09/13 22:35 [DeItaone] TRUMP ON IRAN: IRAN WANTS TO MAKE A DEAL SO BADLY
+- 09/13 22:35 [DeItaone] TRUMP ON IRAN: DOESN'T CARE IF GULF NATIONS MEET WITH IRAN, THAT'S UP TO THEM
+- 09/13 22:36 [DeItaone] TRUMP ON UKRAINE: ZELENSKIY HAS TO DO ONE THING: HE HAS TO STOP KNOCKING OUT DIESEL FUEL IN RUSSIA
+- 09/13 22:36 [DeItaone] TRUMP ON CHINA: NOT WORRIED THAT XI MIGHT CANCEL SUMMIT, CHINA HAS BEEN FAIR WITH US OVER LAST NUMBER OF YEARS
+- 09/13 22:36 [financialjuice] Kosovo parliament reappoints Albin Kurti as prime minister
+- 09/13 22:37 [DeItaone] TRUMP ON AI: ASKED IF AI INDUSTRY SHOULD SLOW DOWN, SAYS WHOEVER WINS AI WINS
+- 09/13 22:37 [DeItaone] TRUMP ON AI: WE COULD PUT GUARDRAILS, BUT SOME VOICES ARE BEING OVERLY NEGATIVE
+- 09/13 22:46 [FirstSquawk] US Trump: $5,000 post-election promise should be easy for Congress
+- 09/13 22:47 [DeItaone] TRUMP PUSHES FED FOR WORLD’S LOWEST INTEREST RATES President Donald Trump says the U.S. should have the lowest interest rate in the world, just days before the Fed’s closely watched policy decision Wednesday. Asked whether he expects a rate…
+- 09/13 22:47 [FirstSquawk] US Trump: I always honor my commitments
+- 09/13 22:47 [FirstSquawk] US Trump on Iran: Iran war will wrap up perhaps before or shortly after midterms
+- 09/13 22:47 [FirstSquawk] US Trump: Iran eager to reach a deal
+- 09/13 22:47 [FirstSquawk] US Trump on Iran: indifferent if gulf states engage with Iran, decision is theirs
+- 09/13 22:47 [FirstSquawk] US Trump on Ukraine: Zelenskiy must halt cutting diesel fuel supply in Russia
+- 09/13 22:48 [FirstSquawk] US Trump on Ukraine: we discussed that with Zelenskiy
+- 09/13 22:48 [FirstSquawk] US Trump on Irish unity: Won't discuss Scotland for now, will address later
+- 09/13 22:48 [FirstSquawk] US Trump on China: not concerned Xi will cancel summit, says China has treated US fairly over recent years

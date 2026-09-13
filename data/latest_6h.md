@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 22:35 JST／対象: 09/13 16:35 〜 09/13 22:35 JST（時刻はすべて日本時間）
+生成: 2026-09-13 22:49 JST／対象: 09/13 16:49 〜 09/13 22:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/13 18:12 | 09/13 22:35 | ⚠ 137分（18:17→20:35） |
-| FirstSquawk | 63 | 09/13 16:54 | 09/13 21:58 | 42分（20:10→20:53） |
-| financialjuice | 25 | 09/13 16:41 | 09/13 22:15 | ⚠ 84分（17:48→19:12） |
+| DeItaone | 16 | 09/13 18:12 | 09/13 22:47 | ⚠ 137分（18:17→20:35） |
+| FirstSquawk | 73 | 09/13 16:54 | 09/13 22:48 | ⚠ 48分（21:58→22:46） |
+| financialjuice | 24 | 09/13 16:55 | 09/13 22:36 | ⚠ 84分（17:48→19:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 95 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 109 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 16:41 [financialjuice] UKMTO: local officials evacuating crew of ship assaulted in Strait of Hormuz
-- 09/13 16:43 [financialjuice] Ukraine's military: oil refinery struck in Russia's Krasnodar region
 - 09/13 16:54 [FirstSquawk] A fire broke out aboard a vessel struck by an unknown projectile while transiting the Strait of Hormuz, UK Maritime Trade Operations said in an update on Sunday.
 - 09/13 16:54 [FirstSquawk] EU’s cybersecurity teams have used some of the most powerful AI models coming out of Silicon Valley to spot weaknesses in the bloc’s own digital systems.
 - 09/13 16:55 [financialjuice] Guangdong Goworld denies market rumor about high-frequency boards passing Nvidia certification after unusual share price moves
@@ -106,7 +104,7 @@
 - 09/13 21:57 [FirstSquawk] International Organization for Migration: Nearly 85,000 people have been forced to leave their homes due to fighting in Yemen, and about 2,000 have arrived in Djibouti.
 - 09/13 21:58 [FirstSquawk] Iranian President: BRICS group has announced its rejection of the policy of imposing unilateral sanctions and coercive measures against countries
 - 09/13 22:04 [DeItaone] IRAN, UAE AGREE TO “PUT THE PAST ASIDE” Iranian President Masoud Pezeshkian says talks with Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed were positive, following their meeting at the BRICS summit in New Delhi. Pezeshkian said …
-- 09/13 22:10 [financialjuice] Trump on Fed decision next week: says US should have lowest rates globally
+- 09/13 22:10 [financialjuice/FirstSquawk] Trump on Fed decision next week: says US should have lowest rates globally
 - 09/13 22:11 [financialjuice] Trump: $5,000 post-election promise should be easy for Congress
 - 09/13 22:11 [financialjuice] Trump: I always honor my commitments
 - 09/13 22:12 [financialjuice] Trump on Iran: Iran war will wrap up perhaps before or shortly after midterms
@@ -119,3 +117,19 @@
 - 09/13 22:34 [DeItaone] TRUMP : ASKED ABOUT FED DECISION NEXT WEEK, SAYS WE SHOULD HAVE THE LOWEST RATE IN THE WORLD
 - 09/13 22:35 [DeItaone] TRUMP ON IRAN: IRAN WAR WILL END - MAYBE BEFORE OR RIGHT AFTER THE MIDTERMS
 - 09/13 22:35 [DeItaone] TRUMP ON IRAN: IRAN WANTS TO MAKE A DEAL SO BADLY
+- 09/13 22:35 [DeItaone] TRUMP ON IRAN: DOESN'T CARE IF GULF NATIONS MEET WITH IRAN, THAT'S UP TO THEM
+- 09/13 22:36 [DeItaone] TRUMP ON UKRAINE: ZELENSKIY HAS TO DO ONE THING: HE HAS TO STOP KNOCKING OUT DIESEL FUEL IN RUSSIA
+- 09/13 22:36 [DeItaone] TRUMP ON CHINA: NOT WORRIED THAT XI MIGHT CANCEL SUMMIT, CHINA HAS BEEN FAIR WITH US OVER LAST NUMBER OF YEARS
+- 09/13 22:36 [financialjuice] Kosovo parliament reappoints Albin Kurti as prime minister
+- 09/13 22:37 [DeItaone] TRUMP ON AI: ASKED IF AI INDUSTRY SHOULD SLOW DOWN, SAYS WHOEVER WINS AI WINS
+- 09/13 22:37 [DeItaone] TRUMP ON AI: WE COULD PUT GUARDRAILS, BUT SOME VOICES ARE BEING OVERLY NEGATIVE
+- 09/13 22:46 [FirstSquawk] US Trump: $5,000 post-election promise should be easy for Congress
+- 09/13 22:47 [DeItaone] TRUMP PUSHES FED FOR WORLD’S LOWEST INTEREST RATES President Donald Trump says the U.S. should have the lowest interest rate in the world, just days before the Fed’s closely watched policy decision Wednesday. Asked whether he expects a rate…
+- 09/13 22:47 [FirstSquawk] US Trump: I always honor my commitments
+- 09/13 22:47 [FirstSquawk] US Trump on Iran: Iran war will wrap up perhaps before or shortly after midterms
+- 09/13 22:47 [FirstSquawk] US Trump: Iran eager to reach a deal
+- 09/13 22:47 [FirstSquawk] US Trump on Iran: indifferent if gulf states engage with Iran, decision is theirs
+- 09/13 22:47 [FirstSquawk] US Trump on Ukraine: Zelenskiy must halt cutting diesel fuel supply in Russia
+- 09/13 22:48 [FirstSquawk] US Trump on Ukraine: we discussed that with Zelenskiy
+- 09/13 22:48 [FirstSquawk] US Trump on Irish unity: Won't discuss Scotland for now, will address later
+- 09/13 22:48 [FirstSquawk] US Trump on China: not concerned Xi will cancel summit, says China has treated US fairly over recent years
