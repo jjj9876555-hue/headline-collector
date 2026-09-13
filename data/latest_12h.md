@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 16:58 JST／対象: 09/13 04:58 〜 09/13 16:58 JST（時刻はすべて日本時間）
+生成: 2026-09-13 17:17 JST／対象: 09/13 05:17 〜 09/13 17:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 124 | 09/13 09:35 | 09/13 16:57 | 41分（15:32→16:14） |
-| financialjuice | 9 | 09/13 05:05 | 09/13 16:55 | ⚠ 295分（05:05→10:01） |
+| FirstSquawk | 129 | 09/13 09:35 | 09/13 17:16 | 41分（15:32→16:14） |
+| financialjuice | 10 | 09/13 10:01 | 09/13 16:58 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 133 行（統合前 133 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 139 行（統合前 139 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 05:05 [financialjuice] ECB releases media interview with Quest-France
 - 09/13 09:35 [FirstSquawk] Sony’s move to discontinue physical PlayStation game releases triggers backlash over digital ownership. Consumer rights groups in the UK and Mexico warn that the decision could undermine buyer choice.
 - 09/13 09:36 [FirstSquawk] Anthropic chief executive Dario Amodei urges AI firms to intentionally moderate the speed of artificial intelligence advancement.
 - 09/13 09:38 [FirstSquawk] Seven retirees who settled in tax-friendly states reveal how the move affected their wealth, reduced their tax burdens, exposed unforeseen costs and transformed their daily lives - WSJ
@@ -157,3 +156,10 @@
 - 09/13 16:57 [FirstSquawk] Putin welcomed this readiness and gave the leaders detailed information on the situation regarding Ukraine, Peskov added
 - 09/13 16:57 [FirstSquawk] Donald Trump turns focus to golf at Doonbeg after Irish unity comments
 - 09/13 16:57 [FirstSquawk] US and Israeli attacks on Iran’s nuclear facilities were the main reason Tehran refused to grant the International Atomic Energy Agency access to some sites, a Foreign Ministry official said on Sunday.
+- 09/13 16:58 [FirstSquawk] Russian Foreign Minister Lavrov and Chinese Foreign Minister Wang Yi spend time with Araghchi at the BRICS Summit This just shows how closely Iran, Russia, and China are cooperating
+- 09/13 16:58 [financialjuice] into Nvidia, Huawei supply chains after unusual stock price shifts
+- 09/13 16:58 [financialjuice] Goldenmax International refutes claims of product certification
+- 09/13 17:14 [FirstSquawk] Benchmarking and bonuses: why Singapore pays its politicians like bankers
+- 09/13 17:15 [FirstSquawk] Iranian President Masoud Pezeshkian visited the Iranian Hall, dating back to the reign of Fath-Ali Shah Qajar, at India’s Presidential Palace.
+- 09/13 17:15 [FirstSquawk] Speculators turn net long on yen for first time since February
+- 09/13 17:16 [FirstSquawk] U.S. EV sales remain depressed, but Tesla’s market share has recovered from its 2025

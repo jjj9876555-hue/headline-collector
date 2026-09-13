@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 16:58 JST／対象: 09/13 10:58 〜 09/13 16:58 JST（時刻はすべて日本時間）
+生成: 2026-09-13 17:17 JST／対象: 09/13 11:17 〜 09/13 17:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 90 | 09/13 11:07 | 09/13 16:57 | 41分（15:32→16:14） |
-| financialjuice | 6 | 09/13 13:41 | 09/13 16:55 | ⚠ 103分（14:08→15:51） |
+| FirstSquawk | 91 | 09/13 11:18 | 09/13 17:16 | 41分（15:32→16:14） |
+| financialjuice | 8 | 09/13 13:41 | 09/13 16:58 | ⚠ 103分（14:08→15:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 96 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 99 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 11:07 [FirstSquawk] India and China are gradually easing tensions following a period of conflict and strained relations, Reuters reports.
-- 09/13 11:07 [FirstSquawk] SAUDI SECURITY CHALLENGE: Saudi Arabia is confronting mounting pressure from Iran and allied forces as its strategic choices narrow, according to Politico.
-- 09/13 11:08 [FirstSquawk] FAR RIGHT EYES POWER: Sweden holds an election that could potentially see far-right forces gain a role in government.
-- 09/13 11:17 [FirstSquawk] RUSSIA AIRSTRIKES: Russian aerial attacks have caused an estimated $10 billion in damage to Ukraine’s infrastructure and fixed assets this year.
 - 09/13 11:18 [FirstSquawk] IRAQ PRODUCTION BOOST: The Ajil oilfield is set to raise crude output to 40,000 bpd from 30,000 bpd under a new agreement, according to the prime minister’s office.
 - 09/13 11:41 [FirstSquawk] U.S. GOVERNMENT NET INTEREST PAYMENTS: 2015 fiscal year: $223 billion 2025 fiscal year: $970 billion That represents an increase of roughly 335% over the decade - spectatorindex
 - 09/13 11:42 [FirstSquawk] The Australian government vows tougher measures to ensure telecom networks can withstand future outages following the Optus incident.
@@ -120,3 +116,10 @@
 - 09/13 16:57 [FirstSquawk] Putin welcomed this readiness and gave the leaders detailed information on the situation regarding Ukraine, Peskov added
 - 09/13 16:57 [FirstSquawk] Donald Trump turns focus to golf at Doonbeg after Irish unity comments
 - 09/13 16:57 [FirstSquawk] US and Israeli attacks on Iran’s nuclear facilities were the main reason Tehran refused to grant the International Atomic Energy Agency access to some sites, a Foreign Ministry official said on Sunday.
+- 09/13 16:58 [FirstSquawk] Russian Foreign Minister Lavrov and Chinese Foreign Minister Wang Yi spend time with Araghchi at the BRICS Summit This just shows how closely Iran, Russia, and China are cooperating
+- 09/13 16:58 [financialjuice] into Nvidia, Huawei supply chains after unusual stock price shifts
+- 09/13 16:58 [financialjuice] Goldenmax International refutes claims of product certification
+- 09/13 17:14 [FirstSquawk] Benchmarking and bonuses: why Singapore pays its politicians like bankers
+- 09/13 17:15 [FirstSquawk] Iranian President Masoud Pezeshkian visited the Iranian Hall, dating back to the reign of Fath-Ali Shah Qajar, at India’s Presidential Palace.
+- 09/13 17:15 [FirstSquawk] Speculators turn net long on yen for first time since February
+- 09/13 17:16 [FirstSquawk] U.S. EV sales remain depressed, but Tesla’s market share has recovered from its 2025

@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 16:58 JST／対象: 09/12 16:58 〜 09/13 16:58 JST（時刻はすべて日本時間）
+生成: 2026-09-13 17:17 JST／対象: 09/12 17:17 〜 09/13 17:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 26 | 09/12 18:07 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
-| FirstSquawk | 260 | 09/12 17:55 | 09/13 16:57 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 71 | 09/12 17:36 | 09/13 16:55 | ⚠ 295分（05:05→10:01） |
+| FirstSquawk | 265 | 09/12 17:55 | 09/13 17:16 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 73 | 09/12 17:36 | 09/13 16:58 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 354 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 361 行（統合前 364 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -378,3 +378,10 @@
 - 09/13 16:57 [FirstSquawk] Putin welcomed this readiness and gave the leaders detailed information on the situation regarding Ukraine, Peskov added
 - 09/13 16:57 [FirstSquawk] Donald Trump turns focus to golf at Doonbeg after Irish unity comments
 - 09/13 16:57 [FirstSquawk] US and Israeli attacks on Iran’s nuclear facilities were the main reason Tehran refused to grant the International Atomic Energy Agency access to some sites, a Foreign Ministry official said on Sunday.
+- 09/13 16:58 [FirstSquawk] Russian Foreign Minister Lavrov and Chinese Foreign Minister Wang Yi spend time with Araghchi at the BRICS Summit This just shows how closely Iran, Russia, and China are cooperating
+- 09/13 16:58 [financialjuice] into Nvidia, Huawei supply chains after unusual stock price shifts
+- 09/13 16:58 [financialjuice] Goldenmax International refutes claims of product certification
+- 09/13 17:14 [FirstSquawk] Benchmarking and bonuses: why Singapore pays its politicians like bankers
+- 09/13 17:15 [FirstSquawk] Iranian President Masoud Pezeshkian visited the Iranian Hall, dating back to the reign of Fath-Ali Shah Qajar, at India’s Presidential Palace.
+- 09/13 17:15 [FirstSquawk] Speculators turn net long on yen for first time since February
+- 09/13 17:16 [FirstSquawk] U.S. EV sales remain depressed, but Tesla’s market share has recovered from its 2025
