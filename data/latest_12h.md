@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 10:58 JST／対象: 09/12 22:58 〜 09/13 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-13 11:17 JST／対象: 09/12 23:17 〜 09/13 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/12 23:04 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
-| FirstSquawk | 83 | 09/12 23:19 | 09/13 10:57 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 32 | 09/12 23:04 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
+| DeItaone | 3 | 09/13 00:09 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
+| FirstSquawk | 86 | 09/12 23:19 | 09/13 11:08 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 25 | 09/13 00:19 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 118 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 23:04 [financialjuice] Anthropic’s Dario Amodei: We must slow the pace of improving AI model capabilities
-- 09/12 23:04 [DeItaone] ANTHROPIC'S DARIO AMODEI: WE MUST SLOW THE PACE AT WHICH WE IMPROVE THE CAPABILITIES OF AI MODELS
-- 09/12 23:05 [financialjuice] Anthropic's Dario Amodei: proposing a three-step strategy to pace the frontier
-- 09/12 23:06 [financialjuice] Anthropic’s Dario Amodei: proposing developing AI at a measured pace to ensure safety
-- 09/12 23:07 [financialjuice] Anthropic's Amodei: pacing means not halting model training or technical progress, ensuring companies take adequate time to align and safeguard models
-- 09/12 23:08 [financialjuice] Anthropic's Amodei proposes each leading AI company provide continuous, employee-level access to embedded third-party evaluators
-- 09/12 23:09 [financialjuice] Anthropic's Amodei: US and other democratic governments should try to coordinate with others
-- 09/12 23:09 [financialjuice] Anthropic’s Amodei: Proposes frontier AI firms in democratic nations coordinate to set joint safety standards
 - 09/12 23:19 [FirstSquawk] INDIA AND CHINA REPORT POSITIVE ADVANCEMENTS IN THEIR RELATIONSHIP.
 - 09/12 23:19 [FirstSquawk] INDIA ISSUES JOINT STATEMENT FOLLOWING MEETING BETWEEN XI AND MODI.
 - 09/12 23:19 [FirstSquawk] XI AND MODI AGREE TO FIND A BORDER SOLUTION THAT BOTH SIDES ACCEPT.
@@ -142,3 +134,6 @@
 - 09/13 10:55 [FirstSquawk] NORTH KOREA CONSUMER SHIFT: Kim Jong-un is introducing new channels aimed at encouraging domestic spending among citizens.
 - 09/13 10:56 [FirstSquawk] Tehran will share details of the Iran-Oman talks and key decisions with Gulf Cooperation Council states, according to an Iranian source cited by Tasnim.
 - 09/13 10:57 [FirstSquawk] IRAN REJECTS US PRESSURE: Tehran will keep the southern route shut despite Washington’s demands for its reopening, an Iranian source tells Tasnim.
+- 09/13 11:07 [FirstSquawk] India and China are gradually easing tensions following a period of conflict and strained relations, Reuters reports.
+- 09/13 11:07 [FirstSquawk] SAUDI SECURITY CHALLENGE: Saudi Arabia is confronting mounting pressure from Iran and allied forces as its strategic choices narrow, according to Politico.
+- 09/13 11:08 [FirstSquawk] FAR RIGHT EYES POWER: Sweden holds an election that could potentially see far-right forces gain a role in government.
