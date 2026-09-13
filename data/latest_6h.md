@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 00:44 JST／対象: 09/13 18:44 〜 09/14 00:44 JST（時刻はすべて日本時間）
+生成: 2026-09-14 00:58 JST／対象: 09/13 18:58 〜 09/14 00:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 14 | 09/13 20:35 | 09/13 22:47 | 34分（20:35→21:10） |
-| FirstSquawk | 46 | 09/13 19:12 | 09/14 00:43 | ⚠ 48分（21:58→22:46） |
+| FirstSquawk | 47 | 09/13 19:12 | 09/14 00:44 | ⚠ 48分（21:58→22:46） |
 | financialjuice | 22 | 09/13 19:12 | 09/14 00:18 | ⚠ 94分（22:36→00:11） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 80 行（統合前 82 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 81 行（統合前 83 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -104,3 +104,4 @@
 - 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning activated in Abha city to warn of danger
 - 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning activated in Khamis Mushait and Abha to warn of danger
 - 09/14 00:43 [FirstSquawk] Civil Defense in Gaza: We have recovered the remains of 17 martyrs from under the rubble of homes destroyed by the Israeli occupation in the Gaza and Central governorates.
+- 09/14 00:44 [FirstSquawk] International Organization for Migration: 100,000 displaced in 7 months from areas in Blue Nile, southeastern Sudan, following escalating clashes
