@@ -7,34 +7,30 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 23:44 JST／対象: 09/13 17:44 〜 09/13 23:44 JST（時刻はすべて日本時間）
+生成: 2026-09-13 23:59 JST／対象: 09/13 17:59 〜 09/13 23:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 16 | 09/13 18:12 | 09/13 22:47 | ⚠ 137分（18:17→20:35） |
-| FirstSquawk | 61 | 09/13 17:48 | 09/13 23:27 | ⚠ 48分（21:58→22:46） |
-| financialjuice | 20 | 09/13 17:48 | 09/13 22:36 | ⚠ 84分（17:48→19:12） |
+| FirstSquawk | 57 | 09/13 18:09 | 09/13 23:27 | ⚠ 48分（21:58→22:46） |
+| financialjuice | 19 | 09/13 19:12 | 09/13 22:36 | ⚠ 66分（19:54→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 94 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 90 行（統合前 92 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 17:48 [financialjuice/FirstSquawk] Ukraine’s military: strike on Taneko oil refinery in Russia’s Tatarstan
-- 09/13 17:48 [FirstSquawk] Russian President Vladimir Putin departs from Delhi after participating in the BRICS Summit 2026.
-- 09/13 17:48 [FirstSquawk] Jared Kushner on Ukraine: President Putin's laid out his line of what he wants to achieve. If Ukraine, you know, wanted to withdraw to that line, then obviously, you know, we have the rest of the deal set up and put together
-- 09/13 17:49 [FirstSquawk] Russian 'North' group's units 'take control' of the Chernyakov village, Kharkov region — MoD
-- 09/13 17:49 [FirstSquawk] Continuing low water levels on the Rhine are expected to cause significant economic damage in Germany this year
 - 09/13 18:09 [FirstSquawk] Malaysian PM Anwar Ibrahim tells PM Modi he received several messages from people asking him to convey their regards to the Indian Prime Minister during their BRICS 2026 bilateral meeting.
 - 09/13 18:10 [FirstSquawk] Vladimir Putin rejected Volodymyr Zelensky's offer for direct talks at the December G20 summit in Miami. Kremlin spokesman Dmitry Peskov called US talks "impossible," stating Putin will only meet in Moscow.
 - 09/13 18:10 [FirstSquawk] Iranians gathered across Europe on Saturday to protest against the Islamic Republic, with demonstrations held in London, Nuremberg, Frankfurt, Helsinki, Bordeaux and Stuttgart, videos received by Iran International show.
 - 09/13 18:10 [FirstSquawk] Iran has signed contracts to import about 320 megawatts of electricity from Turkmenistan and between 300 and 350 megawatts from Armenia, a deputy energy minister said on Sunday.
 - 09/13 18:10 [FirstSquawk] PM Modi, Egypt Prez Sisi meet in Delhi
 - 09/13 18:12 [DeItaone] The biggest issue with an AI "safety slowdown:" What happens with China? While there are legitimate concerns around the safety of AI and how quickly it is evolving, the AI race is global. And, in today's ecosystem, falling even 6 months beh…
+- 09/13 18:14 [FirstSquawk] UKRAINE’S MILITARY: STRIKE ON TANEKO OIL REFINERY IN RUSSIA’S TATARSTAN
 - 09/13 18:14 [FirstSquawk] ITALY ECONOMY MINISTER: CRUCIAL FOR ITALY TO MAINTAIN PUBLIC FINANCES AS ECB HIKES INTEREST RATES
 - 09/13 18:17 [DeItaone] $TSLA - TESLA TEASES OCTOBER 1 ROADSTER EVENT Tesla is teasing an October 1 event for its long-delayed next-generation Roadster, nearly nine years after Elon Musk first unveiled the vehicle. The “Go for launch” messaging is fueling speculat…
 - 09/13 18:36 [FirstSquawk] Xi Jinping has sought to turn the annual BRICS summit into another platform for championing Beijing’s vision for AI, as it vies for global influence over the technology with the US
