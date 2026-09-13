@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 14:58 JST／対象: 09/12 14:58 〜 09/13 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-13 15:26 JST／対象: 09/12 15:26 〜 09/13 15:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 239 | 09/12 15:00 | 09/13 14:53 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 78 | 09/12 15:10 | 09/13 14:08 | ⚠ 295分（05:05→10:01） |
+| FirstSquawk | 245 | 09/12 16:00 | 09/13 15:18 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 77 | 09/12 15:31 | 09/13 14:08 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 341 行（統合前 344 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 346 行（統合前 349 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 15:00 [FirstSquawk] Latin American Allies Throw Full Support Behind Trump’s Drug War - WSJ Latin American allies are stepping up cooperation with the Trump administration’s campaign against drug trafficking, signaling stronger regional backing for Washington’s…
-- 09/12 15:10 [financialjuice] China's Xi arrives in Delhi for BRICS summit - TV
 - 09/12 15:31 [financialjuice] India's markets regulator proposes six steps to enhance derivatives settlement prices in closing auction session
 - 09/12 15:31 [financialjuice] India's Sebi proposes adjustments to closing auction price band
 - 09/12 15:31 [financialjuice] India's SEBI: Closing auction orders outside 1% range will not be allowed to be canceled
@@ -365,3 +363,10 @@
 - 09/13 14:48 [FirstSquawk] Tokyo is tightening restrictions on Airbnb-style short-term rentals as complaints from residents surge across districts including Shinjuku. The tougher rules signal a growing push to curb the impact of short-term stays on local communities …
 - 09/13 14:49 [FirstSquawk] Fujitsu prepares AI chip exports to the U.S. and Asia using technology developed for supercomputers
 - 09/13 14:53 [FirstSquawk] India-Pakistan tensions over water resources intensify following a ruling by the Hague-based court. The decision adds another layer to a long-running dispute over cross-border river management, with regional tensions remaining elevated.
+- 09/13 14:58 [FirstSquawk] US job openings held broadly steady in July at 7.3 million, with the openings rate unchanged at 4.4%. Hiring demand strengthened in durable goods manufacturing, where vacancies rose by 76,000.
+- 09/13 15:00 [FirstSquawk] US hiring remained broadly stable in July, with 5.1 million people hired and the hiring rate holding at 3.2%. Professional and business services saw the biggest decline, with hires falling by 188,000 during the month.
+- 09/13 15:16 [FirstSquawk] FM Nirmala Sitharaman Meets Iran’s Finance Minister In New Delhi Union Finance Minister Nirmala Sitharaman meets Iran’s Minister of Economic Affairs and Finance Seyed Ali Madanizadeh in New Delhi, with both sides discussing economic coopera…
+- 09/13 15:17 [FirstSquawk] China revised leadership rules for universities and other public-sector institutions, strengthening requirements for political qualifications and Communist Party leadership
+- 09/13 15:17 [FirstSquawk] Weekend markets update: #DAX 25507 -0.23% #DOW 52523 -0.03% #NASDAQ 29244 -0.42% #FTSE 10665 0.00% #HANGSENG 24754 +0.02% #EURUSD 11586 -0.10% #GOLD 4356 +0.15% #SILVER 6449 +0.06% #USOIL 9698 -0.17%
+- 09/13 15:17 [FirstSquawk] PwC shakes up Indian operations as AI threat looms over consulting sector
+- 09/13 15:18 [FirstSquawk] Elections are taking place in the districts, towns and local authorities of the German state of Lower Saxony - just one week after the far right's historic win in the eastern German state of Saxony-Anhalt and before two key state elections
