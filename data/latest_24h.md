@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 14:44 JST／対象: 09/12 14:44 〜 09/13 14:44 JST（時刻はすべて日本時間）
+生成: 2026-09-13 14:58 JST／対象: 09/12 14:58 〜 09/13 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 231 | 09/12 14:46 | 09/13 14:43 | ⚠ 366分（03:29→09:35） |
+| FirstSquawk | 239 | 09/12 15:00 | 09/13 14:53 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 78 | 09/12 15:10 | 09/13 14:08 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 333 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 341 行（統合前 344 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 14:46 [FirstSquawk] Egypt says any attack against Saudi Arabia constitutes a serious violation of international law.
-- 09/12 14:57 [FirstSquawk] South Korea Seeks U.S. Handover of Wartime Command Authority Under ‘No Added Conditions’ Principle South Korea’s defense minister nominee says Seoul aims to regain wartime operational control (OPCON) from the United States based on a “no ad…
 - 09/12 15:00 [FirstSquawk] Latin American Allies Throw Full Support Behind Trump’s Drug War - WSJ Latin American allies are stepping up cooperation with the Trump administration’s campaign against drug trafficking, signaling stronger regional backing for Washington’s…
 - 09/12 15:10 [financialjuice] China's Xi arrives in Delhi for BRICS summit - TV
 - 09/12 15:31 [financialjuice] India's markets regulator proposes six steps to enhance derivatives settlement prices in closing auction session
@@ -357,3 +355,13 @@
 - 09/13 14:38 [FirstSquawk] US government debt climbs to $40 trillion as Washington’s borrowing accelerates at a historic pace as per FT The milestone puts America’s rapidly expanding debt burden back in focus, raising fresh questions over the long-term fiscal outlook…
 - 09/13 14:38 [FirstSquawk] Employment among people in their 20s is declining at its fastest pace since the 1998 Asian financial crisis. The data points to a growing shift toward later entry into the workforce, raising fresh concerns about youth employment and labor-m…
 - 09/13 14:43 [FirstSquawk] South Korea’s employment among people in their 20s averaged 3.38 million during January–August, down 193,000 from a year earlier. The decline signals a deeper shift in the labor market, with younger people increasingly entering employment a…
+- 09/13 14:44 [FirstSquawk] North Carolina GOP Senate candidate’s rally features opening prayer from convicted sex offender, AP reports
+- 09/13 14:45 [FirstSquawk] Serbia’s Vucic inspects China-built expressway as major transport project advances
+- 09/13 14:46 [FirstSquawk] The U.S. government’s $166 billion tariff refund program is now tapering off sharply
+- 09/13 14:46 [FirstSquawk] Saudi Arabia shuts a major oil pipeline following a series of attacks. The disruption raises fresh concerns over regional energy security and the potential impact on global crude supply.
+- 09/13 14:47 [FirstSquawk] German city loses legal battle with Samsung over a 665-tablet contract, in a case with wider implications for the tech giant
+- 09/13 14:47 [FirstSquawk] Russia’s Tatarstan reports deadly drone attack, with two killed and 12 wounded
+- 09/13 14:48 [FirstSquawk] Email scam exposes limited Revolut customer data, company says
+- 09/13 14:48 [FirstSquawk] Tokyo is tightening restrictions on Airbnb-style short-term rentals as complaints from residents surge across districts including Shinjuku. The tougher rules signal a growing push to curb the impact of short-term stays on local communities …
+- 09/13 14:49 [FirstSquawk] Fujitsu prepares AI chip exports to the U.S. and Asia using technology developed for supercomputers
+- 09/13 14:53 [FirstSquawk] India-Pakistan tensions over water resources intensify following a ruling by the Hague-based court. The decision adds another layer to a long-running dispute over cross-border river management, with regional tensions remaining elevated.

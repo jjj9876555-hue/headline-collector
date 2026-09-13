@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 14:44 JST／対象: 09/13 08:44 〜 09/13 14:44 JST（時刻はすべて日本時間）
+生成: 2026-09-13 14:58 JST／対象: 09/13 08:58 〜 09/13 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 91 | 09/13 09:35 | 09/13 14:43 | 23分（11:18→11:41） |
+| FirstSquawk | 101 | 09/13 09:35 | 09/13 14:53 | 23分（11:18→11:41） |
 | financialjuice | 4 | 09/13 10:01 | 09/13 14:08 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 95 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 105 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -119,3 +119,13 @@
 - 09/13 14:38 [FirstSquawk] US government debt climbs to $40 trillion as Washington’s borrowing accelerates at a historic pace as per FT The milestone puts America’s rapidly expanding debt burden back in focus, raising fresh questions over the long-term fiscal outlook…
 - 09/13 14:38 [FirstSquawk] Employment among people in their 20s is declining at its fastest pace since the 1998 Asian financial crisis. The data points to a growing shift toward later entry into the workforce, raising fresh concerns about youth employment and labor-m…
 - 09/13 14:43 [FirstSquawk] South Korea’s employment among people in their 20s averaged 3.38 million during January–August, down 193,000 from a year earlier. The decline signals a deeper shift in the labor market, with younger people increasingly entering employment a…
+- 09/13 14:44 [FirstSquawk] North Carolina GOP Senate candidate’s rally features opening prayer from convicted sex offender, AP reports
+- 09/13 14:45 [FirstSquawk] Serbia’s Vucic inspects China-built expressway as major transport project advances
+- 09/13 14:46 [FirstSquawk] The U.S. government’s $166 billion tariff refund program is now tapering off sharply
+- 09/13 14:46 [FirstSquawk] Saudi Arabia shuts a major oil pipeline following a series of attacks. The disruption raises fresh concerns over regional energy security and the potential impact on global crude supply.
+- 09/13 14:47 [FirstSquawk] German city loses legal battle with Samsung over a 665-tablet contract, in a case with wider implications for the tech giant
+- 09/13 14:47 [FirstSquawk] Russia’s Tatarstan reports deadly drone attack, with two killed and 12 wounded
+- 09/13 14:48 [FirstSquawk] Email scam exposes limited Revolut customer data, company says
+- 09/13 14:48 [FirstSquawk] Tokyo is tightening restrictions on Airbnb-style short-term rentals as complaints from residents surge across districts including Shinjuku. The tougher rules signal a growing push to curb the impact of short-term stays on local communities …
+- 09/13 14:49 [FirstSquawk] Fujitsu prepares AI chip exports to the U.S. and Asia using technology developed for supercomputers
+- 09/13 14:53 [FirstSquawk] India-Pakistan tensions over water resources intensify following a ruling by the Hague-based court. The decision adds another layer to a long-running dispute over cross-border river management, with regional tensions remaining elevated.
