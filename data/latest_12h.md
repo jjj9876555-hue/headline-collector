@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 07:54 JST／対象: 09/13 19:54 〜 09/14 07:54 JST（時刻はすべて日本時間）
+生成: 2026-09-14 08:15 JST／対象: 09/13 20:15 〜 09/14 08:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/13 20:35 | 09/14 04:44 | ⚠ 147分（22:47→01:15） |
-| FirstSquawk | 95 | 09/13 20:10 | 09/14 07:53 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 58 | 09/13 19:54 | 09/14 07:45 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 23 | 09/13 20:35 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
+| FirstSquawk | 93 | 09/13 20:53 | 09/14 07:53 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 57 | 09/13 21:00 | 09/14 07:45 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 172 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 19:54 [financialjuice] Lithuanian national crisis management centre: possible drone alert has ended
-- 09/13 20:10 [FirstSquawk] Lithuania closes Vilnius airport and NATO sends fighter jets after possible drone sighting in Lithuanian airspace
-- 09/13 20:10 [FirstSquawk] Israeli artillery shelling targets the vicinity of the town of Beit Jinn, southwest of Damascus countryside.
 - 09/13 20:35 [DeItaone] CANADA EXPLORES “ASSOCIATE MEMBERSHIP” WITH EU Canadian Prime Minister Mark Carney is exploring closer integration with the EU, including a potential new “associate member” status, the Wall Street Journal reports. Canada and the EU are repo…
 - 09/13 20:53 [FirstSquawk] Iraq: Arrest warrant issued for Iraqi suspect Omid Haji Ahmed on charges of financing terrorism and money laundering
 - 09/13 20:53 [FirstSquawk] Iraq: Accused Omid Haji Ahmad is on US sanctions lists for smuggling Iranian oil.
@@ -196,3 +193,4 @@
 - 09/14 07:52 [FirstSquawk] BRENT CRUDE JUMPS 3.2% TO AROUND $108 A BARREL AND WTI RISES NEAR 2.9% TO $103 AFTER A DRONE ATTACK PROMPTS SAUDI ARABIA TO SHUT A CRITICAL OIL PIPELINE, DEEPENING GLOBAL SUPPLY CONCERNS.
 - 09/14 07:52 [FirstSquawk] MOST SHIPPING THROUGH THE STRAIT OF HORMUZ REMAINS HALTED, WHILE PLANNED IRAN-GULF TALKS WERE POSTPONED AND U.S. STOCK FUTURES SLIPPED MORE THAN 0.5% AMID ESCALATING ENERGY RISKS.
 - 09/14 07:53 [FirstSquawk] TRUMP SAYS THE U.S. SHOULD HAVE THE LOWEST INTEREST RATE IN THE WORLD, EVEN AS HOTTER-THAN-EXPECTED AUGUST INFLATION PUSHES MARKETS TO PRICE AN 86% CHANCE OF A SEPTEMBER FED RATE HIKE. HIGHER ENERGY COSTS FROM THE IRAN WAR AND TRUMP’S TARIF…
+- 09/14 08:03 [DeItaone] OIL SURGES AS MIDDLE EAST STRIKES HIT SUPPLY FEARS Oil prices jumped more than $3 after fresh strikes in Saudi Arabia and near the Strait of Hormuz heightened supply concerns. Brent rose 3.5% to $108.23, while WTI climbed 3.2% to $103.20. W…
