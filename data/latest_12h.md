@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 16:45 JST／対象: 09/13 04:45 〜 09/13 16:45 JST（時刻はすべて日本時間）
+生成: 2026-09-13 16:58 JST／対象: 09/13 04:58 〜 09/13 16:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 117 | 09/13 09:35 | 09/13 16:15 | 41分（15:32→16:14） |
-| financialjuice | 8 | 09/13 05:05 | 09/13 16:43 | ⚠ 295分（05:05→10:01） |
+| FirstSquawk | 124 | 09/13 09:35 | 09/13 16:57 | 41分（15:32→16:14） |
+| financialjuice | 9 | 09/13 05:05 | 09/13 16:55 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 125 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 133 行（統合前 133 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -149,3 +149,11 @@
 - 09/13 16:15 [FirstSquawk] BRICS+ format has proven its worth, Putin tells New Delhi session "This format has more than proven its worth: it opens the door to direct, candid dialogue between full-fledged BRICS members and partner countries, as well as other states an…
 - 09/13 16:41 [financialjuice] UKMTO: local officials evacuating crew of ship assaulted in Strait of Hormuz
 - 09/13 16:43 [financialjuice] Ukraine's military: oil refinery struck in Russia's Krasnodar region
+- 09/13 16:54 [FirstSquawk] A fire broke out aboard a vessel struck by an unknown projectile while transiting the Strait of Hormuz, UK Maritime Trade Operations said in an update on Sunday.
+- 09/13 16:54 [FirstSquawk] EU’s cybersecurity teams have used some of the most powerful AI models coming out of Silicon Valley to spot weaknesses in the bloc’s own digital systems.
+- 09/13 16:55 [financialjuice] Guangdong Goworld denies market rumor about high-frequency boards passing Nvidia certification after unusual share price moves
+- 09/13 16:56 [FirstSquawk] Ukraine is better prepared for winter energy strikes than last year, PM Serhii Koretskyi said at YES 2026. The strategy centers on decentralizing regional power and utility grids.
+- 09/13 16:56 [FirstSquawk] Modi and Xi volunteer mediation efforts on Ukraine to Putin “During their bilateral meetings, Modi and Xi took a keen interest in the Ukraine settlement and actively offered their good offices to help find a solution,” Kremlin spokesman Dmi…
+- 09/13 16:57 [FirstSquawk] Putin welcomed this readiness and gave the leaders detailed information on the situation regarding Ukraine, Peskov added
+- 09/13 16:57 [FirstSquawk] Donald Trump turns focus to golf at Doonbeg after Irish unity comments
+- 09/13 16:57 [FirstSquawk] US and Israeli attacks on Iran’s nuclear facilities were the main reason Tehran refused to grant the International Atomic Energy Agency access to some sites, a Foreign Ministry official said on Sunday.
