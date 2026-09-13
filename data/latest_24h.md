@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 02:15 JST／対象: 09/13 02:15 〜 09/14 02:15 JST（時刻はすべて日本時間）
+生成: 2026-09-14 02:31 JST／対象: 09/13 02:31 〜 09/14 02:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/13 18:12 | 09/14 01:17 | ⚠ 147分（22:47→01:15） |
+| DeItaone | 20 | 09/13 18:12 | 09/14 02:20 | ⚠ 147分（22:47→01:15） |
 | FirstSquawk | 216 | 09/13 02:57 | 09/14 01:59 | ⚠ 366分（03:29→09:35） |
 | financialjuice | 46 | 09/13 02:58 | 09/14 00:18 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 277 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 278 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -301,3 +301,4 @@
 - 09/14 01:58 [FirstSquawk] Japan ruling camp-backed candidate projected to win Okinawa governor race - Nikkei
 - 09/14 01:59 [FirstSquawk] OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable' - Nikkei
 - 09/14 01:59 [FirstSquawk] Japan ruling camp-backed candidate wins Okinawa governor race - Nikkei
+- 09/14 02:20 [DeItaone] U.S. WARNS AGAINST HORMUZ DEAL OPTIMISM U.S. Energy Secretary Chris Wright warned traders against expecting a quick Strait of Hormuz breakthrough with Iran. Alternative routes are supplying about 10 million barrels a day, keeping oil market…
