@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 10:00 JST／対象: 09/12 22:00 〜 09/13 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-13 10:16 JST／対象: 09/12 22:16 〜 09/13 10:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/12 22:49 | 09/13 01:48 | ⚠ 85分（00:09→01:35） |
-| FirstSquawk | 69 | 09/12 22:38 | 09/13 09:54 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 38 | 09/12 22:44 | 09/13 05:05 | ⚠ 73分（00:19→01:32） |
+| FirstSquawk | 76 | 09/12 22:38 | 09/13 10:12 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 40 | 09/12 22:44 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 120 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -135,3 +135,12 @@
 - 09/13 09:52 [FirstSquawk] WARMTH DELAYS FALL: Prolonged warm conditions are set to postpone Japan’s autumn foliage in several regions, with Hokkaido forecast to see peak colors in early November before Tokyo follows weeks later.
 - 09/13 09:53 [FirstSquawk] TRUMP PRAISES BORDER POLICY: The president says illegal crossings and sea-based drug trafficking have declined under his administration, as he renews criticism of the previous administration’s immigration policies.
 - 09/13 09:54 [FirstSquawk] ALTman ON IPO: OpenAI will not move toward an IPO this year, CEO Sam Altman says, pointing to the broader challenges surrounding AI safety.
+- 09/13 10:01 [financialjuice] Ukmto: Vessel hit by unidentified projectile while passing Strait of Hormuz
+- 09/13 10:01 [FirstSquawk] U.S.-CHINA AI RACE: Trump plays down concerns about AI’s potential dangers while pushing to keep the U.S. ahead of China in the technology race.
+- 09/13 10:01 [financialjuice] Ukmto: status of crew, damage assessment and environmental impact currently unknown
+- 09/13 10:02 [FirstSquawk] HORMUZ SECURITY: UKMTO says an unidentified projectile hit a vessel as it navigated the strategically important Strait of Hormuz.
+- 09/13 10:02 [FirstSquawk] HOUTHI ATTACK: A Houthi projectile from Yemen caused damage to a mosque, buildings and vehicles, Saudi Civil Defense says.
+- 09/13 10:03 [FirstSquawk] MILIBAND BACKS SAUDI ARABIA: The UK foreign secretary reaffirms Britain’s support for Saudi Arabia and Yemen’s recognized government amid ongoing attacks.
+- 09/13 10:10 [FirstSquawk] New espionage provisions come into force as Seoul moves to strengthen defenses around sensitive semiconductor technologies.
+- 09/13 10:11 [FirstSquawk] BILLIONAIRE DROPS PLANNED SALE: The billionaire confirmed that no shares changed hands after he withdrew plans to sell 50 million shares, according to WSJ.
+- 09/13 10:12 [FirstSquawk] Britain stands firmly alongside Saudi Arabia and Yemen’s recognized government against attacks, Foreign Secretary Ed Miliband says.

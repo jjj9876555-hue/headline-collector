@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 10:00 JST／対象: 09/12 10:00 〜 09/13 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-13 10:16 JST／対象: 09/12 10:16 〜 09/13 10:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 27 | 09/12 16:41 | 09/13 01:48 | ⚠ 86分（16:41→18:07） |
-| FirstSquawk | 227 | 09/12 10:01 | 09/13 09:54 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 78 | 09/12 10:02 | 09/13 05:05 | ⚠ 170分（10:12→13:03） |
+| FirstSquawk | 221 | 09/12 10:19 | 09/13 10:12 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 78 | 09/12 13:03 | 09/13 10:01 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 329 行（統合前 332 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 323 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 10:01 [FirstSquawk] A 6.24-magnitude earthquake struck Java, Indonesia, according to GFZ.
-- 09/12 10:02 [financialjuice] U.S. connects Chinese satellite images to July Iranian attack that killed three soldiers - WSJ
-- 09/12 10:03 [FirstSquawk] Putin claims the West pressured Russia and drove Ukraine toward NATO, triggering the conflict.
-- 09/12 10:04 [FirstSquawk] Putin said the turmoil unfolding across Europe stems from what he described as systemic failures caused by Western globalists.
-- 09/12 10:04 [FirstSquawk] Putin said he would refrain from commenting on the election in Saxony-Anhalt, calling it an exclusively domestic German issue.
-- 09/12 10:05 [FirstSquawk] Nvidia Eyes a Stake in Anthropic Ahead of Mega IPO — Straits Times
-- 09/12 10:06 [FirstSquawk] Isembyld wins FDA approval for treating spinal muscular atrophy in patients 2 years and above.
-- 09/12 10:08 [FirstSquawk] BREAKING: Sharurah placed under an early warning as Saudi authorities flag possible danger.
-- 09/12 10:11 [FirstSquawk] Fitch Ratings has assigned a ‘BB-’ rating to Jamaica’s notes maturing in 2037.
-- 09/12 10:12 [FirstSquawk] Goldman Sachs, Citi and Bank of America are still operating as brokers to maintain market visibility.
-- 09/12 10:12 [financialjuice] Saudi civil defense: danger has passed in Sharurah
-- 09/12 10:13 [FirstSquawk] Saudi Civil Defense says the danger in Sharurah has now subsided.
-- 09/12 10:14 [FirstSquawk] Sony PlayStation’s shift beyond physical discs fuels an outcry over digital ownership rights.
-- 09/12 10:14 [FirstSquawk] U.S. Ties Chinese Satellite Data to Deadly July Strike on Iran — WSJ The U.S. has linked Chinese satellite imagery to an Iranian attack in July that killed three U.S. troops, according to WSJ. The development adds another layer to rising U.…
-- 09/12 10:16 [FirstSquawk] AI losses prompt JPMorgan to cut off situational-awareness lending.
 - 09/12 10:19 [FirstSquawk] Pyongyang launches an unidentified projectile toward waters off South Korea.
 - 09/12 10:20 [FirstSquawk] Atreides Management taps Lone Pine co-CIO Kelly Granat.
 - 09/12 10:21 [FirstSquawk] The U.S. Commerce Department has finalized higher duties on solar imports from India, Indonesia and Laos - Reuters
@@ -353,3 +338,12 @@
 - 09/13 09:52 [FirstSquawk] WARMTH DELAYS FALL: Prolonged warm conditions are set to postpone Japan’s autumn foliage in several regions, with Hokkaido forecast to see peak colors in early November before Tokyo follows weeks later.
 - 09/13 09:53 [FirstSquawk] TRUMP PRAISES BORDER POLICY: The president says illegal crossings and sea-based drug trafficking have declined under his administration, as he renews criticism of the previous administration’s immigration policies.
 - 09/13 09:54 [FirstSquawk] ALTman ON IPO: OpenAI will not move toward an IPO this year, CEO Sam Altman says, pointing to the broader challenges surrounding AI safety.
+- 09/13 10:01 [financialjuice] Ukmto: Vessel hit by unidentified projectile while passing Strait of Hormuz
+- 09/13 10:01 [FirstSquawk] U.S.-CHINA AI RACE: Trump plays down concerns about AI’s potential dangers while pushing to keep the U.S. ahead of China in the technology race.
+- 09/13 10:01 [financialjuice] Ukmto: status of crew, damage assessment and environmental impact currently unknown
+- 09/13 10:02 [FirstSquawk] HORMUZ SECURITY: UKMTO says an unidentified projectile hit a vessel as it navigated the strategically important Strait of Hormuz.
+- 09/13 10:02 [FirstSquawk] HOUTHI ATTACK: A Houthi projectile from Yemen caused damage to a mosque, buildings and vehicles, Saudi Civil Defense says.
+- 09/13 10:03 [FirstSquawk] MILIBAND BACKS SAUDI ARABIA: The UK foreign secretary reaffirms Britain’s support for Saudi Arabia and Yemen’s recognized government amid ongoing attacks.
+- 09/13 10:10 [FirstSquawk] New espionage provisions come into force as Seoul moves to strengthen defenses around sensitive semiconductor technologies.
+- 09/13 10:11 [FirstSquawk] BILLIONAIRE DROPS PLANNED SALE: The billionaire confirmed that no shares changed hands after he withdrew plans to sell 50 million shares, according to WSJ.
+- 09/13 10:12 [FirstSquawk] Britain stands firmly alongside Saudi Arabia and Yemen’s recognized government against attacks, Foreign Secretary Ed Miliband says.
