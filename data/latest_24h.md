@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-13 20:58 JST／対象: 09/12 20:58 〜 09/13 20:58 JST（時刻はすべて日本時間）
+生成: 2026-09-13 21:21 JST／対象: 09/12 21:21 〜 09/13 21:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/12 21:50 | 09/13 20:35 | ⚠ 984分（01:48→18:12） |
-| FirstSquawk | 235 | 09/12 21:12 | 09/13 20:54 | ⚠ 366分（03:29→09:35） |
-| financialjuice | 60 | 09/12 21:43 | 09/13 19:54 | ⚠ 295分（05:05→10:01） |
+| DeItaone | 12 | 09/12 21:50 | 09/13 21:10 | ⚠ 984分（01:48→18:12） |
+| FirstSquawk | 227 | 09/12 21:26 | 09/13 20:54 | ⚠ 366分（03:29→09:35） |
+| financialjuice | 62 | 09/12 21:43 | 09/13 21:00 | ⚠ 295分（05:05→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 301 行（統合前 305 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 297 行（統合前 301 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/12 21:12 [FirstSquawk] Lebanese President: Israel's withdrawal, return of prisoners, and reconstruction are constants that the state is committed to implementing
-- 09/12 21:14 [FirstSquawk] Yemeni government forces: We targeted dozens of Houthi tugs loaded with weapons in the north Taiz
-- 09/12 21:14 [FirstSquawk] Lebanese Army Commander: We have not left Nabatieh or any town where there are still citizens, and we hope to liberate the rest of the towns and we will be stationed in them
-- 09/12 21:14 [FirstSquawk] Head of the Iraqi Border Crossings Authority: The measures taken at the crossings with the Iranian side are temporary
-- 09/12 21:14 [FirstSquawk] Head of the Iraqi Border Ports Authority: The measures aim to reorganize work inside some ports and raise the level of readiness
-- 09/12 21:14 [FirstSquawk] Head of the Iraqi Border Ports Authority: Transit movement with the Iranian side has not stopped at the Zarbatiya and Mundhiriya crossings
-- 09/12 21:15 [FirstSquawk] Iraqi President: We condemn the attacks on Saudi Arabia We affirm that we do not accept the use of our territory as a starting point for aggression against neighboring countries
-- 09/12 21:15 [FirstSquawk] Iraqi News Agency: The Prime Minister assigns Major General Ali Abdul Hussein Kazim to the position of Commander of Maysan Operations
 - 09/12 21:26 [FirstSquawk] BRICS Urges Restraint as Middle East Tensions Escalate BRICS nations, including Iran, the United Arab Emirates, India and China, have expressed deep concern over rising tensions in the Middle East and called for maximum restraint. In a join…
 - 09/12 21:38 [FirstSquawk] BAHRAIN ANNOUNCES IT WILL NOT PARTICIPATE IN THE IRAN MEETING REGARDING THE HORMUZ STRAIT.
 - 09/12 21:38 [FirstSquawk] BAHRAIN DECLINES TO JOIN ANY MEETINGS WITH IRAN, ACCORDING TO BNA.
@@ -325,3 +317,7 @@
 - 09/13 20:53 [FirstSquawk] Yemeni Armed Forces: We destroyed equipment, gatherings, and elements of the Houthi militia in the "kill box" in Dhubab and Mocha.
 - 09/13 20:53 [FirstSquawk] Poland: A Russian drone struck a train bound for Warsaw; no injuries reported
 - 09/13 20:54 [FirstSquawk] Saudi Crown Prince and the Pakistani Prime Minister discuss regional developments in a phone call.
+- 09/13 21:00 [financialjuice] Saudi pipeline outage threatens 4% loss in global oil supply unless pumping resumes within days, say traders, sources
+- 09/13 21:00 [financialjuice] Saudi Arabia has storage at Yanbu for only 5-7 days of exports, plus smaller amount stored in Egypt, three sources say
+- 09/13 21:10 [DeItaone] SAUDI PIPELINE OUTAGE THREATENS LOSS OF 4% OF GLOBAL OIL SUPPLY UNLESS PUMPING RESUMES WITHIN DAYS, SAY TRADERS, SOURCES SAUDI ARABIA HAS STORAGE AT YANBU FOR JUST 5-7 DAYS OF EXPORTS, PLUS SMALLER AMOUNT STORED IN EGYPT, THREE SOURCES SAY
+- 09/13 21:10 [DeItaone] SAUDI PIPELINE OUTAGE THREATENS 4% OF GLOBAL OIL SUPPLY Saudi Arabia could lose up to 4 million barrels per day of exports — roughly 4% of global supply — if its critical East-West pipeline does not restart within days, Reuters reports. Sau…

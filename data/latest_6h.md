@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 20:58 JST／対象: 09/13 14:58 〜 09/13 20:58 JST（時刻はすべて日本時間）
+生成: 2026-09-13 21:21 JST／対象: 09/13 15:21 〜 09/13 21:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/13 18:12 | 09/13 20:35 | ⚠ 137分（18:17→20:35） |
-| FirstSquawk | 66 | 09/13 14:58 | 09/13 20:54 | 42分（20:10→20:53） |
-| financialjuice | 13 | 09/13 15:51 | 09/13 19:54 | ⚠ 84分（17:48→19:12） |
+| DeItaone | 5 | 09/13 18:12 | 09/13 21:10 | ⚠ 137分（18:17→20:35） |
+| FirstSquawk | 59 | 09/13 15:31 | 09/13 20:54 | 42分（20:10→20:53） |
+| financialjuice | 15 | 09/13 15:51 | 09/13 21:00 | ⚠ 84分（17:48→19:12） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 79 行（統合前 82 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 76 行（統合前 79 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 14:58 [FirstSquawk] US job openings held broadly steady in July at 7.3 million, with the openings rate unchanged at 4.4%. Hiring demand strengthened in durable goods manufacturing, where vacancies rose by 76,000.
-- 09/13 15:00 [FirstSquawk] US hiring remained broadly stable in July, with 5.1 million people hired and the hiring rate holding at 3.2%. Professional and business services saw the biggest decline, with hires falling by 188,000 during the month.
-- 09/13 15:16 [FirstSquawk] FM Nirmala Sitharaman Meets Iran’s Finance Minister In New Delhi Union Finance Minister Nirmala Sitharaman meets Iran’s Minister of Economic Affairs and Finance Seyed Ali Madanizadeh in New Delhi, with both sides discussing economic coopera…
-- 09/13 15:17 [FirstSquawk] China revised leadership rules for universities and other public-sector institutions, strengthening requirements for political qualifications and Communist Party leadership
-- 09/13 15:17 [FirstSquawk] Weekend markets update: #DAX 25507 -0.23% #DOW 52523 -0.03% #NASDAQ 29244 -0.42% #FTSE 10665 0.00% #HANGSENG 24754 +0.02% #EURUSD 11586 -0.10% #GOLD 4356 +0.15% #SILVER 6449 +0.06% #USOIL 9698 -0.17%
-- 09/13 15:17 [FirstSquawk] PwC shakes up Indian operations as AI threat looms over consulting sector
-- 09/13 15:18 [FirstSquawk] Elections are taking place in the districts, towns and local authorities of the German state of Lower Saxony - just one week after the far right's historic win in the eastern German state of Saxony-Anhalt and before two key state elections
 - 09/13 15:31 [FirstSquawk] BOJ meeting, Semicon India, Hong Kong's first five-year plan
 - 09/13 15:32 [FirstSquawk] Donald Trump turns his focus to golf and promoting his business interests as he wraps up a visit to Ireland on Sunday
 - 09/13 15:32 [FirstSquawk] Chubu Electric Power Co.’s top two executives are set to step down over the falsification of safety data used in regulatory reviews to restart some of its nuclear reactors
@@ -103,3 +96,7 @@
 - 09/13 20:53 [FirstSquawk] Yemeni Armed Forces: We destroyed equipment, gatherings, and elements of the Houthi militia in the "kill box" in Dhubab and Mocha.
 - 09/13 20:53 [FirstSquawk] Poland: A Russian drone struck a train bound for Warsaw; no injuries reported
 - 09/13 20:54 [FirstSquawk] Saudi Crown Prince and the Pakistani Prime Minister discuss regional developments in a phone call.
+- 09/13 21:00 [financialjuice] Saudi pipeline outage threatens 4% loss in global oil supply unless pumping resumes within days, say traders, sources
+- 09/13 21:00 [financialjuice] Saudi Arabia has storage at Yanbu for only 5-7 days of exports, plus smaller amount stored in Egypt, three sources say
+- 09/13 21:10 [DeItaone] SAUDI PIPELINE OUTAGE THREATENS LOSS OF 4% OF GLOBAL OIL SUPPLY UNLESS PUMPING RESUMES WITHIN DAYS, SAY TRADERS, SOURCES SAUDI ARABIA HAS STORAGE AT YANBU FOR JUST 5-7 DAYS OF EXPORTS, PLUS SMALLER AMOUNT STORED IN EGYPT, THREE SOURCES SAY
+- 09/13 21:10 [DeItaone] SAUDI PIPELINE OUTAGE THREATENS 4% OF GLOBAL OIL SUPPLY Saudi Arabia could lose up to 4 million barrels per day of exports — roughly 4% of global supply — if its critical East-West pipeline does not restart within days, Reuters reports. Sau…
