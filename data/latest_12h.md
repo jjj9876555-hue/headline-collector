@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-13 17:32 JST／対象: 09/13 05:32 〜 09/13 17:32 JST（時刻はすべて日本時間）
+生成: 2026-09-13 18:23 JST／対象: 09/13 06:23 〜 09/13 18:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 131 | 09/13 09:35 | 09/13 17:19 | 41分（15:32→16:14） |
-| financialjuice | 11 | 09/13 10:01 | 09/13 17:25 | ⚠ 220分（10:01→13:41） |
+| DeItaone | 2 | 09/13 18:12 | 09/13 18:17 | 5分（18:12→18:17） |
+| FirstSquawk | 142 | 09/13 09:35 | 09/13 18:14 | 41分（15:32→16:14） |
+| financialjuice | 12 | 09/13 10:01 | 09/13 17:48 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 142 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 154 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -165,4 +165,16 @@
 - 09/13 17:16 [FirstSquawk] U.S. EV sales remain depressed, but Tesla’s market share has recovered from its 2025
 - 09/13 17:19 [FirstSquawk] Chinese President #XiJinping on Saturday urged BRICS countries to firmly stand on the right side of history and strive to be a pioneer of our times
 - 09/13 17:19 [FirstSquawk] Delhi: Chinese President Xi Jinping departs from Delhi after participating in the BRICS Summit 2026
-- 09/13 17:25 [financialjuice] Italy economy minister: crucial for Italy to maintain public finances as ECB hikes interest rates
+- 09/13 17:25 [financialjuice/FirstSquawk] Italy economy minister: crucial for Italy to maintain public finances as ECB hikes interest rates
+- 09/13 17:48 [financialjuice/FirstSquawk] Ukraine’s military: strike on Taneko oil refinery in Russia’s Tatarstan
+- 09/13 17:48 [FirstSquawk] Russian President Vladimir Putin departs from Delhi after participating in the BRICS Summit 2026.
+- 09/13 17:48 [FirstSquawk] Jared Kushner on Ukraine: President Putin's laid out his line of what he wants to achieve. If Ukraine, you know, wanted to withdraw to that line, then obviously, you know, we have the rest of the deal set up and put together
+- 09/13 17:49 [FirstSquawk] Russian 'North' group's units 'take control' of the Chernyakov village, Kharkov region — MoD
+- 09/13 17:49 [FirstSquawk] Continuing low water levels on the Rhine are expected to cause significant economic damage in Germany this year
+- 09/13 18:09 [FirstSquawk] Malaysian PM Anwar Ibrahim tells PM Modi he received several messages from people asking him to convey their regards to the Indian Prime Minister during their BRICS 2026 bilateral meeting.
+- 09/13 18:10 [FirstSquawk] Vladimir Putin rejected Volodymyr Zelensky's offer for direct talks at the December G20 summit in Miami. Kremlin spokesman Dmitry Peskov called US talks "impossible," stating Putin will only meet in Moscow.
+- 09/13 18:10 [FirstSquawk] Iranians gathered across Europe on Saturday to protest against the Islamic Republic, with demonstrations held in London, Nuremberg, Frankfurt, Helsinki, Bordeaux and Stuttgart, videos received by Iran International show.
+- 09/13 18:10 [FirstSquawk] Iran has signed contracts to import about 320 megawatts of electricity from Turkmenistan and between 300 and 350 megawatts from Armenia, a deputy energy minister said on Sunday.
+- 09/13 18:10 [FirstSquawk] PM Modi, Egypt Prez Sisi meet in Delhi
+- 09/13 18:12 [DeItaone] The biggest issue with an AI "safety slowdown:" What happens with China? While there are legitimate concerns around the safety of AI and how quickly it is evolving, the AI race is global. And, in today's ecosystem, falling even 6 months beh…
+- 09/13 18:17 [DeItaone] $TSLA - TESLA TEASES OCTOBER 1 ROADSTER EVENT Tesla is teasing an October 1 event for its long-delayed next-generation Roadster, nearly nine years after Elon Musk first unveiled the vehicle. The “Go for launch” messaging is fueling speculat…

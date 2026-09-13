@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-13 17:32 JST／対象: 09/13 11:32 〜 09/13 17:32 JST（時刻はすべて日本時間）
+生成: 2026-09-13 18:23 JST／対象: 09/13 12:23 〜 09/13 18:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 92 | 09/13 11:41 | 09/13 17:19 | 41分（15:32→16:14） |
-| financialjuice | 9 | 09/13 13:41 | 09/13 17:25 | ⚠ 103分（14:08→15:51） |
+| DeItaone | 2 | 09/13 18:12 | 09/13 18:17 | 5分（18:12→18:17） |
+| FirstSquawk | 80 | 09/13 12:24 | 09/13 18:14 | 41分（15:32→16:14） |
+| financialjuice | 10 | 09/13 13:41 | 09/13 17:48 | ⚠ 103分（14:08→15:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 101 行（統合前 101 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 90 行（統合前 92 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 11:41 [FirstSquawk] U.S. GOVERNMENT NET INTEREST PAYMENTS: 2015 fiscal year: $223 billion 2025 fiscal year: $970 billion That represents an increase of roughly 335% over the decade - spectatorindex
-- 09/13 11:42 [FirstSquawk] The Australian government vows tougher measures to ensure telecom networks can withstand future outages following the Optus incident.
-- 09/13 11:42 [FirstSquawk] AMERICAN PAYCHECKS: Inflation has overtaken wage gains again, putting renewed pressure on household incomes.
-- 09/13 11:44 [FirstSquawk] STRAIT OF HORMUZ ALERT: A fresh report of an attack on shipping in the Strait of Hormuz is fueling concerns over potential disruptions to oil supplies.
-- 09/13 11:46 [FirstSquawk] AI WORKFORCE CHALLENGE: Peru’s candidate for ILO director-general says he will focus on managing the growing impact of AI on jobs and the future of work.
-- 09/13 11:46 [FirstSquawk] IRAN-U.S. TENSIONS: Iranian President Pezeshkian says Tehran will not bow to U.S. pressure as Indian Prime Minister Modi calls for dialogue and peace.
-- 09/13 11:53 [FirstSquawk] IRAN DEFENSE: Top Army and IRGC commanders reaffirm an unbreakable alliance after confronting “terrorist powers.”
-- 09/13 11:59 [FirstSquawk] Crompton Greaves Consumer expands portfolio with outdoor wall lights
-- 09/13 11:59 [FirstSquawk] Families fuel China’s growing ‘red tourism’ trend at Communist Party sites
-- 09/13 11:59 [FirstSquawk] Iran’s security committee says no NPT withdrawal bill has been submitted despite earlier claims
-- 09/13 12:01 [FirstSquawk] U.S. ban threat tests Bombardier as its backlog offers protection but its valuation leaves little room for mistakes
-- 09/13 12:02 [FirstSquawk] China’s Xi pushes BRICS to lead on innovation, peace and global governance
-- 09/13 12:07 [FirstSquawk] Musk says Tesla will finally showcase the Roadster on October 1
-- 09/13 12:08 [FirstSquawk] Saudi Arabia’s top diplomat Faisal bin Farhan lands in Delhi ahead of BRICS Summit
-- 09/13 12:08 [FirstSquawk] G-7 rate pressures mount, putting the spotlight on Warsh
-- 09/13 12:09 [FirstSquawk] Indonesian ship with 243 passengers goes out of contact, prompting rescue response
-- 09/13 12:10 [FirstSquawk] Iraq rejects becoming a base for foreign conflicts or aggression against neighboring states
-- 09/13 12:10 [FirstSquawk] Houthi attack targets Yemeni forces in Ras Al-Arah, with deaths and injuries reported
-- 09/13 12:14 [FirstSquawk] Korean ETF frenzy fades as volatility pushes investors to the sidelines
-- 09/13 12:14 [FirstSquawk] STUDENT LOAN BORROWERS FACE MONTH-END DEADLINE TO AVOID COSTLIER REPAYMENT PLAN Millions of U.S. federal student loan borrowers could be automatically moved into the Standard Repayment Plan—often the most expensive monthly option—if they do…
-- 09/13 12:18 [FirstSquawk] Canadian shoppers increasingly choose domestic goods as backlash against U.S. products grows
-- 09/13 12:19 [FirstSquawk] Hong Kong’s next generation of wealthy investors looks beyond property for higher returns
-- 09/13 12:22 [FirstSquawk] Japan’s Aomori wineries band together to secure recognition for the region’s growing wine sector
 - 09/13 12:24 [FirstSquawk] Vance-linked group reportedly approached Brazil’s Flávio Bolsonaro over an anti-China minerals deal
 - 09/13 12:28 [FirstSquawk] Kyoto stadium meal incident leaves 28 people ill, with food poisoning under investigation
 - 09/13 12:32 [FirstSquawk] Automakers in Japan prepare new factory calendars from FY2027 as they seek to draw more employees
@@ -124,4 +101,16 @@
 - 09/13 17:16 [FirstSquawk] U.S. EV sales remain depressed, but Tesla’s market share has recovered from its 2025
 - 09/13 17:19 [FirstSquawk] Chinese President #XiJinping on Saturday urged BRICS countries to firmly stand on the right side of history and strive to be a pioneer of our times
 - 09/13 17:19 [FirstSquawk] Delhi: Chinese President Xi Jinping departs from Delhi after participating in the BRICS Summit 2026
-- 09/13 17:25 [financialjuice] Italy economy minister: crucial for Italy to maintain public finances as ECB hikes interest rates
+- 09/13 17:25 [financialjuice/FirstSquawk] Italy economy minister: crucial for Italy to maintain public finances as ECB hikes interest rates
+- 09/13 17:48 [financialjuice/FirstSquawk] Ukraine’s military: strike on Taneko oil refinery in Russia’s Tatarstan
+- 09/13 17:48 [FirstSquawk] Russian President Vladimir Putin departs from Delhi after participating in the BRICS Summit 2026.
+- 09/13 17:48 [FirstSquawk] Jared Kushner on Ukraine: President Putin's laid out his line of what he wants to achieve. If Ukraine, you know, wanted to withdraw to that line, then obviously, you know, we have the rest of the deal set up and put together
+- 09/13 17:49 [FirstSquawk] Russian 'North' group's units 'take control' of the Chernyakov village, Kharkov region — MoD
+- 09/13 17:49 [FirstSquawk] Continuing low water levels on the Rhine are expected to cause significant economic damage in Germany this year
+- 09/13 18:09 [FirstSquawk] Malaysian PM Anwar Ibrahim tells PM Modi he received several messages from people asking him to convey their regards to the Indian Prime Minister during their BRICS 2026 bilateral meeting.
+- 09/13 18:10 [FirstSquawk] Vladimir Putin rejected Volodymyr Zelensky's offer for direct talks at the December G20 summit in Miami. Kremlin spokesman Dmitry Peskov called US talks "impossible," stating Putin will only meet in Moscow.
+- 09/13 18:10 [FirstSquawk] Iranians gathered across Europe on Saturday to protest against the Islamic Republic, with demonstrations held in London, Nuremberg, Frankfurt, Helsinki, Bordeaux and Stuttgart, videos received by Iran International show.
+- 09/13 18:10 [FirstSquawk] Iran has signed contracts to import about 320 megawatts of electricity from Turkmenistan and between 300 and 350 megawatts from Armenia, a deputy energy minister said on Sunday.
+- 09/13 18:10 [FirstSquawk] PM Modi, Egypt Prez Sisi meet in Delhi
+- 09/13 18:12 [DeItaone] The biggest issue with an AI "safety slowdown:" What happens with China? While there are legitimate concerns around the safety of AI and how quickly it is evolving, the AI race is global. And, in today's ecosystem, falling even 6 months beh…
+- 09/13 18:17 [DeItaone] $TSLA - TESLA TEASES OCTOBER 1 ROADSTER EVENT Tesla is teasing an October 1 event for its long-delayed next-generation Roadster, nearly nine years after Elon Musk first unveiled the vehicle. The “Go for launch” messaging is fueling speculat…
