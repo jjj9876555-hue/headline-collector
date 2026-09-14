@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 07:18 JST／対象: 09/14 07:18 〜 09/15 07:18 JST（時刻はすべて日本時間）
+生成: 2026-09-15 07:34 JST／対象: 09/14 07:34 〜 09/15 07:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 08:03 | 09/15 05:37 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 346 | 09/14 07:18 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 241 | 09/14 07:33 | 09/15 07:08 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 343 | 09/14 07:40 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 241 | 09/14 07:36 | 09/15 07:27 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 615 行（統合前 645 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 612 行（統合前 642 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 07:18 [FirstSquawk] SHENZHEN-BASED SYNTRON INFORMATION PLANS A GLOBAL OFFERING OF 59 MILLION H SHARES, WITH A MAXIMUM OFFER PRICE OF HK$16.00 PER H SHARE. THE OFFERING INCLUDES 53.1 MILLION INTERNATIONAL H SHARES, AS THE COMPANY MOVES FORWARD WITH ITS GLOBAL L…
-- 09/14 07:19 [FirstSquawk] US STOCK FUTURES FALL AS AI DEVELOPMENT CONCERNS AND HOTTER-THAN-EXPECTED INFLATION WEIGH ON SENTIMENT, WITH NASDAQ 100 FUTURES DOWN 1.2% AND S&P 500 FUTURES OFF 0.6%.
-- 09/14 07:19 [FirstSquawk] BRENT CRUDE JUMPS 2.8% TO $107.55 AFTER SAUDI ARABIA SHUT A KEY OIL PIPELINE FOLLOWING DRONE ATTACKS, WHILE DELAYED HORMUZ TALKS AND RISING INFLATION BOOST BETS ON A FED RATE HIKE WEDNESDAY.
-- 09/14 07:33 [financialjuice] Sweden Prime Minister Ulf Kristersson: awaiting final election outcome
 - 09/14 07:36 [financialjuice] Sweden Prime Minister Ulf Kristersson: to reach out to other party leaders to discuss potential collaboration
 - 09/14 07:40 [financialjuice] Sweden Prime Minister Ulf Kristersson: government formation remains an open question
 - 09/14 07:40 [FirstSquawk] SWEDISH PRIME MINISTER ULF KRISTERSSON SAYS GOVERNMENT FORMATION REMAINS AN OPEN QUESTION AS THE COUNTRY AWAITS THE FINAL ELECTION OUTCOME. || KRISTERSSON SAYS HE WILL REACH OUT TO OTHER PARTY LEADERS TO DISCUSS POTENTIAL COOPERATION AND GO…
@@ -639,3 +635,4 @@
 - 09/15 07:04 [financialjuice] Saudi civil defense issues emergency alert for Khamis Mushait and Abha: state TV
 - 09/15 07:07 [FirstSquawk] SAUDI ARABIA ACTIVATES EMERGENCY ALERTS IN KHAMIS MUSHAIT AND ABHA: STATE TV
 - 09/15 07:08 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait and Abha - state TV
+- 09/15 07:27 [financialjuice] Colombia congress endorses 2027 budget of 634.9 trillion pesos
