@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 03:49 JST／対象: 09/14 15:49 〜 09/15 03:49 JST（時刻はすべて日本時間）
+生成: 2026-09-15 04:01 JST／対象: 09/14 16:01 〜 09/15 04:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 49 | 09/14 16:28 | 09/15 03:33 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 161 | 09/14 15:50 | 09/15 03:47 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 159 | 09/14 16:02 | 09/15 03:48 | ⚠ 53分（17:16→18:10） |
+| FirstSquawk | 164 | 09/14 16:41 | 09/15 03:59 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 162 | 09/14 16:02 | 09/15 04:00 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 348 行（統合前 373 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 353 行（統合前 379 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 15:50 [FirstSquawk] Chinese traders are closely watching the upcoming Xi-Trump meeting, with expectations around the talks shaping sentiment and adding uncertainty for China’s stock market.
 - 09/14 16:02 [financialjuice] Currency Strength Chart: Strongest: USD, CAD, GBP, CHF, EUR, AUD, GBP, NZD - Weakest
 - 09/14 16:28 [DeItaone] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
 - 09/14 16:29 [financialjuice] Iran's foreign ministry spokesperson: Saudi Arabia insisted for meeting between Tehran and Gulf powers in Oman not to take place
@@ -368,7 +367,13 @@
 - 09/15 03:32 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $101.39/BBL, UP $1.34, 1.34%
 - 09/15 03:33 [DeItaone] OPENAI BUYS STARTUP DEVELOPING SMARTPHONE CAMERA CALLED GLASS IMAGING, VALUED ABOVE $300 MILLION IN DEAL - WSJ
 - 09/15 03:36 [FirstSquawk] OPENAI ACQUIRES SMARTPHONE CAMERA STARTUP GLASS IMAGING IN A DEAL VALUED AT OVER $300 MILLION: WSJ
-- 09/15 03:45 [financialjuice] Brent Crude futures settle at $105.68/bbl, up $1.07, 1.02%.
+- 09/15 03:45 [financialjuice/FirstSquawk] Brent Crude futures settle at $105.68/bbl, up $1.07, 1.02%.
 - 09/15 03:47 [FirstSquawk] BRENT CRUDE RISES 1.26% TO $105.93 A BARREL AND WTI GAINS 1.47% TO $101.52 AFTER SAUDI ARABIA SHUT ITS EAST-WEST PIPELINE FOLLOWING ATTACKS, RAISING GLOBAL SUPPLY CONCERNS.
 - 09/15 03:47 [FirstSquawk] OIL GAINS EASE AS TRADERS WEIGH POSSIBLE DIPLOMATIC PROGRESS WITH IRAN, WHILE THE PIPELINE’S OUTAGE DURATION AND DISRUPTIONS AROUND THE STRAIT OF HORMUZ REMAIN UNCERTAIN.
 - 09/15 03:48 [financialjuice] Saudis: A warning has been issued in the Najran province.
+- 09/15 03:52 [financialjuice] Saudi Civil Defense: The danger has passed in Najran.
+- 09/15 03:54 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS THE DANGER HAS PASSED IN NAJRAN AFTER A WARNING WAS ISSUED IN THE PROVINCE.
+- 09/15 03:56 [FirstSquawk] IRGC SAYS STRAIT OF HORMUZ REMAINS CLOSED AND IS UNDER SMART NAVAL CONTROL: TASNIM VIA DBNEWS
+- 09/15 03:57 [financialjuice] IRGC Navy Command: The Strait of Hormuz is closed and remains under the intelligent control of the IRGC Navy - IRNA.
+- 09/15 03:59 [FirstSquawk] IRGC NAVY COMMAND SAYS THE STRAIT OF HORMUZ IS CLOSED AND REMAINS UNDER THE “INTELLIGENT CONTROL” OF THE IRGC NAVY, ACCORDING TO IRNA. SUPERTANKER ALGAYA IS REPORTEDLY FULLY ENGULFED IN FLAMES AFTER STRIKING A NAVAL MINE WHILE ATTEMPTING TO…
+- 09/15 04:00 [financialjuice] IRGC Navy Command cited by IRNA: Supertanker Algaya Engulfed in Flames After Reportedly Striking Naval Mine South of Strait of Hormuz Algaya reportedly exploded after striking a naval mine while attempting to transit a restricted area south…
