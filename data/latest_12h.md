@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 08:22 JST／対象: 09/14 20:22 〜 09/15 08:22 JST（時刻はすべて日本時間）
+生成: 2026-09-15 08:34 JST／対象: 09/14 20:34 〜 09/15 08:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 37 | 09/14 20:51 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 146 | 09/14 20:31 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 169 | 09/14 20:30 | 09/15 07:55 | 34分（05:17→05:51） |
+| FirstSquawk | 144 | 09/14 20:39 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 167 | 09/14 20:48 | 09/15 08:29 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 330 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 326 行（統合前 352 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 20:30 [financialjuice] Intel-backed buildots raises $130M for AI in construction
-- 09/14 20:31 [FirstSquawk] 5.6 MAGNITUDE EARTHQUAKE OCCURS 78 KM NORTH-NORTHEAST OF TOBELO, INDONESIA, ACCORDING TO USGS.
-- 09/14 20:32 [financialjuice] UK's PM Starmer's Spokesman Wells: The PM thinks its good AI companies are being open about risks
-- 09/14 20:32 [FirstSquawk] TEXAS STOCK EXCHANGE ADDS FIFTH COMPANY IN JUST ONE WEEK.
-- 09/14 20:32 [financialjuice] UK's PM Spokesman Wells: Future AI measures will be evidence-based, risk-focused.
 - 09/14 20:39 [FirstSquawk] UK PM BURNHAM `CLEAR-EYED' ABOUT RISKS POSED BY AI: WELLS
 - 09/14 20:45 [FirstSquawk] CHINESE GROUPS ARE SAID TO HAVE PROVIDED IRAN WITH SATELLITE IMAGES OF A U.S. AIR BASE, WHICH IRAN LATER ATTACKED WITH MISSILES, RESULTING IN THE DEATH OF THREE AMERICAN SOLDIERS.
 - 09/14 20:47 [FirstSquawk] GERMANY'S MERZ: SUPPORT EU FUNDING TO BUY ICREBREAKERS
@@ -354,3 +349,4 @@
 - 09/15 07:45 [financialjuice] NZ actual electronic card retail sales up 0.2% in August from year earlier
 - 09/15 07:45 [financialjuice] NZ s/adj electronic card retail sales fall 0.9% in August versus prior month
 - 09/15 07:55 [financialjuice] Saudi-led coalition in Yemen: 13 civilians hurt in Houthis attacks on Saudi cities of Khamis Mushait, Abha and Taif on Monday
+- 09/15 08:29 [financialjuice] U.S. Supreme Court refuses Trump administration request to enforce postal service rule limiting mail-in voting

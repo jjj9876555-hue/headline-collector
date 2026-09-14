@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 08:22 JST／対象: 09/14 08:22 〜 09/15 08:22 JST（時刻はすべて日本時間）
+生成: 2026-09-15 08:34 JST／対象: 09/14 08:34 〜 09/15 08:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 336 | 09/14 08:31 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 239 | 09/14 08:25 | 09/15 07:55 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 330 | 09/14 08:46 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 237 | 09/14 08:46 | 09/15 08:29 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 603 行（統合前 633 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 595 行（統合前 625 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 08:25 [financialjuice] US EPA set to repeal carbon limits for coal, gas power plants
-- 09/14 08:28 [financialjuice] Early warning issued in Khamis Mushait to signal possible threat: Saudi civil defense
-- 09/14 08:30 [financialjuice] Early warning issued in Abha to alert of possible danger: Saudi civil defense
-- 09/14 08:31 [FirstSquawk] TRUMP, ASKED ABOUT REPORTS THAT CHINESE ENTITIES MAY HAVE PROVIDED IRAN WITH SATELLITE IMAGERY, SAYS THE CHINESE 'BASICALLY DO WHAT WE DO', ADDING THAT XI 'HAS BEHAVED REASONABLY WELL, AND WE'VE BEHAVED REASONABLY WELL'.
-- 09/14 08:31 [FirstSquawk] TRUMP SAYS ON RUSSIA THAT 'A LOT OF THE DIESEL COMES FROM RUSSIA' AND THAT 'RUSSIA'S PLANTS ARE BEING HIT BY UKRAINE', ADDING THAT HE HAS 'ASKED ZELENSKY NOT TO HIT THE DIESEL PLANTS, REFINERIES'.
-- 09/14 08:31 [FirstSquawk] TRUMP SAYS 'WITKOFF AND KUSHNER ARE DOING A GREAT JOB', POINTING TO GAZA AS AN EXAMPLE WHERE 'THERE'S NOT A LOT OF FIGHTING' AND 'HAMAS IS NOW WILLING TO GIVE UP THEIR WEAPONS', SAYING 'NOBODY COULD HAVE DONE THE JOB THEY DID'.
-- 09/14 08:32 [FirstSquawk] TRUMP SAYS 'THE LASERS ARE VERY, VERY GOOD FOR CERTAIN TYPES OF MISSILES, CERTAIN SLOWER MISSILES', ADDING 'I THINK THE LASERS ARE GOING TO BE THE FUTURE'.
-- 09/14 08:32 [FirstSquawk] TRUMP SAYS ON FLOCK CAMERAS THAT 'I SORT OF LIKE THEM', NOTING THAT WHILE SOME PEOPLE 'THINK IT'S AN INFRINGEMENT', HE LIKES THEM, AND SAYS ON CANADA THAT 'I FIND CANADA TO BE THE WORST COUNTRY TO DEAL WITH', THOUGH 'THEY'RE DYING TO MAKE A…
-- 09/14 08:32 [FirstSquawk] TRUMP SAYS ON AI THAT 'IT'S GOING TO BE MORE GOOD THAN BAD, BY A LOT', ADDING THAT 'WHOEVER WINS AI WINS'.
 - 09/14 08:46 [FirstSquawk] CANADA IS IN TALKS TO CONTRIBUTE TO THE EU'S €90 BLN LOAN FOR UKRAINE AS PRIME MINISTER MARK CARNEY PUSHES FOR CLOSER TIES WITH EUROPE AND LESS DEPENDENCE ON THE U.S., WITH THE TWO SIDES HOPING TO AGREE ON CANADA'S CONTRIBUTION BEFORE AN EU…
 - 09/14 08:46 [financialjuice] Danger has passed in Khamis Mushait: Saudi civil defense
 - 09/14 08:47 [FirstSquawk] THE NSA IS LAUNCHING ITS BIGGEST RESTRUCTURING IN AT LEAST A DECADE, CREATING FIVE NEW MISSION CENTERS FOCUSED ON AI, CHINA, CYBERSECURITY, WARFIGHTING AND GLOBAL INTELLIGENCE, WITH DIRECTOR GEN. JOSHUA RUDD'S PLAN GIVING THE NEW MISSION CH…
@@ -627,3 +618,4 @@
 - 09/15 07:45 [financialjuice] NZ actual electronic card retail sales up 0.2% in August from year earlier
 - 09/15 07:45 [financialjuice] NZ s/adj electronic card retail sales fall 0.9% in August versus prior month
 - 09/15 07:55 [financialjuice] Saudi-led coalition in Yemen: 13 civilians hurt in Houthis attacks on Saudi cities of Khamis Mushait, Abha and Taif on Monday
+- 09/15 08:29 [financialjuice] U.S. Supreme Court refuses Trump administration request to enforce postal service rule limiting mail-in voting

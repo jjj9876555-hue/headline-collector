@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 08:22 JST／対象: 09/15 02:22 〜 09/15 08:22 JST（時刻はすべて日本時間）
+生成: 2026-09-15 08:34 JST／対象: 09/15 02:34 〜 09/15 08:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/15 02:25 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 58 | 09/15 02:27 | 09/15 07:07 | 22分（02:58→03:21） |
-| financialjuice | 50 | 09/15 02:29 | 09/15 07:55 | 34分（05:17→05:51） |
+| DeItaone | 9 | 09/15 02:34 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
+| FirstSquawk | 51 | 09/15 02:37 | 09/15 07:07 | 22分（02:58→03:21） |
+| financialjuice | 50 | 09/15 02:35 | 09/15 08:29 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 110 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 02:25 [DeItaone] 🇺🇸 DEMS TAKE THE LEAD IN THE RACE FOR SENATE CONTROL Kalshi now puts Democrats at 51% vs. Republicans at 49%, as the battle for the Senate remains a true toss-up heading into November. https://t.co/D1o3O0u6JK https://t.co/ZtA7ADzz5G
-- 09/15 02:27 [FirstSquawk] TRUMP: WILL PROVIDE $5,000 DIVIDEND TO ALL US ADULTS - TSL VIA DBNEWS
-- 09/15 02:27 [FirstSquawk] DONALD TRUMP CLAIMS RUSSIA AND UKRAINE HAVE AGREED ENERGY TRUCE – FT
-- 09/15 02:29 [financialjuice/FirstSquawk] US House Speaker Johnson: Meeting with AI execs end of this week or early next.
-- 09/15 02:29 [FirstSquawk] EGYPTIAN PRESIDENTIAL OFFICE ANNOUNCED THAT CROWN PRINCE BIN SALMAN OF SAUDI ARABIA WILL BE VISITING CAIRO TOMORROW - TASNIM NEWS
-- 09/15 02:29 [FirstSquawk] US SENATORS DEBATING REQUIRING AL GIANTS TO COMMIT TO PREVENTING CATASTROPHE - SENATE AIDE AND LOBBYIST.
-- 09/15 02:31 [FirstSquawk] APPLE HAS LAUNCHED SIRI AI WITH PERSONAL CONTEXT AWARENESS, THOUGH IT SAYS SIRI AI AND APPLE INTELLIGENCE ARE NOT ACCESSIBLE IN CHINA DUE TO REGULATORY DEMANDS.
-- 09/15 02:31 [FirstSquawk] APPLE SAYS NEW CHILD PROTECTION TOOLS ARE NOW AVAILABLE IN IOS 27, IPADOS 27 AND MACOS 27.
 - 09/15 02:34 [DeItaone] DEEPSEEK HIRES FIRST CFO AHEAD OF POSSIBLE IPO DeepSeek plans to hire GL Ventures partner Yan Wentao as its first CFO, Reuters reports, as the Chinese AI startup prepares for a potential IPO. The company has also tapped CITIC Securities for…
 - 09/15 02:35 [financialjuice] Trump: I want Google to change thinking on AI building in Finland - Truth Social $GOOGL
 - 09/15 02:35 [financialjuice] Trump: AI taking over world and destroying humanity is a hoax.
@@ -134,3 +126,4 @@
 - 09/15 07:45 [financialjuice] NZ actual electronic card retail sales up 0.2% in August from year earlier
 - 09/15 07:45 [financialjuice] NZ s/adj electronic card retail sales fall 0.9% in August versus prior month
 - 09/15 07:55 [financialjuice] Saudi-led coalition in Yemen: 13 civilians hurt in Houthis attacks on Saudi cities of Khamis Mushait, Abha and Taif on Monday
+- 09/15 08:29 [financialjuice] U.S. Supreme Court refuses Trump administration request to enforce postal service rule limiting mail-in voting
