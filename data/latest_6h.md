@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 17:54 JST／対象: 09/14 11:54 〜 09/14 17:54 JST（時刻はすべて日本時間）
+生成: 2026-09-14 18:19 JST／対象: 09/14 12:19 〜 09/14 18:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/14 16:28 | 09/14 17:49 | ⚠ 50分（16:28→17:19） |
-| FirstSquawk | 87 | 09/14 11:56 | 09/14 17:52 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 36 | 09/14 12:23 | 09/14 17:16 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 8 | 09/14 16:28 | 09/14 18:11 | ⚠ 50分（16:28→17:19） |
+| FirstSquawk | 91 | 09/14 12:20 | 09/14 18:17 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 38 | 09/14 12:23 | 09/14 18:11 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 125 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 136 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 11:56 [FirstSquawk] House Speaker Mike Johnson says Congress would need to approve President Trump’s proposed $5,000 dividend, indicating the plan cannot move forward without lawmakers’ backing.
-- 09/14 12:02 [FirstSquawk] North Korea says it has tested weapons capable of striking South Korea, describing the systems as having “huge destructive power” amid heightened regional tensions.
-- 09/14 12:13 [FirstSquawk] Qatar eyes a bigger role in China’s growing Gulf logistics push as trade routes face disruption.
 - 09/14 12:20 [FirstSquawk] Goldman Sachs now expects the Fed to raise rates by 25 basis points this week, reversing its earlier call for no change, with the shift driven more by market pricing than its economic outlook.
 - 09/14 12:23 [FirstSquawk] Hong Kong’s five-year plan will maintain its capitalist system and existing governing model, Chief Executive John Lee says, reaffirming the city’s policy direction under the “one country, two systems” framework.
 - 09/14 12:23 [financialjuice] World Bank: approves $300 million financing to back reforms in Uruguay
@@ -149,3 +146,17 @@
 - 09/14 17:52 [FirstSquawk] BRENT CRUDE OIL FUTURES RISE MORE THAN $4 TO SESSION HIGH OF $108.65/BBL. ON ESCALATING MIDEAST ATTACKS
 - 09/14 17:52 [FirstSquawk] BRAZIL PRES ELECTION POLL: LULA HAS 47%, FLAVIO IN 2ND ROUND: BTC PACTUAL/NEXUS
 - 09/14 17:52 [FirstSquawk] JAPAN AUGUST ALUMINIUM STOCKPILES RISE 23% M/M TO 246,600 MT
+- 09/14 17:55 [DeItaone] CHINA SLAMS U.S. CALLS TO SLOW AI RACE China’s state-backed Global Times accused Anthropic CEO Dario Amodei of using AI safety concerns to restrict China’s technological rise. Amodei called for slower frontier AI development and tighter U.S…
+- 09/14 17:56 [DeItaone] SPOT GOLD FALLS NEARLY 1% TO $4,306.19/OZ
+- 09/14 18:02 [FirstSquawk] CHINA JAN.-AUG. AGGREGATE FINANCING CNY23.91T; EST. CNY24.372T
+- 09/14 18:02 [FirstSquawk] CHINA JAN.-AUG. NEW YUAN LOANS CNY10.44T; EST. CNY10.784T
+- 09/14 18:02 [FirstSquawk] VENEZUELA TO JOIN G20 ENERGY SUMMIT AS US AIMS FOR MORE DEALS
+- 09/14 18:03 [DeItaone] *JAN.-AUG. NEW YUAN LOANS CNY10.44T; EST. CNY10.784T *CHINA AUG. M2 MONEY SUPPLY RISES 7.5% Y/Y; EST. +7.6%
+- 09/14 18:03 [FirstSquawk] EURO REACHES ONE-MONTH LOW DUE TO INCREASE IN DOLLAR AND OIL PRICES.
+- 09/14 18:07 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS A light U.S. data calendar puts the focus on oil, geopolitics, Treasury yields and Fed positioning. 8:30 AM ET — 🇨🇦 Canada CPI 11:00 AM ET — 🇺🇸 13-Week & 26-Week Treasury Bill Auctions After Close — 🫀 K…
+- 09/14 18:10 [financialjuice] Iran's Persian Gulf Strait Authority publishes an updated list of 77 vessels "violating Iranian protocols for the Strait of Hormuz"
+- 09/14 18:11 [financialjuice] Iran's Persian Gulf Strait Authority: Vessels will face restrictions on future passage, including fines, detention, or confiscation
+- 09/14 18:11 [DeItaone] IRAN'S PERSIAN GULF STRAIT AUTHORITY PUBLISHES UPDATED LIST OF 77 VESSELS 'VIOLATING IRANIAN PROTOCOLS FOR THE STRAIT OF HORMUZ' IRAN'S PERSIAN GULF STRAIT AUTHORITY VESSELS WILL FACE RESTRICTIONS OF FUTURE PASSAGE INCLUDING FINES, DETENTIO…
+- 09/14 18:12 [FirstSquawk] IRAN'S PERSIAN GULF STRAIT AUTHORITY RELEASES AN UPDATED LIST OF 77 SHIPS "BREAKING IRANIAN RULES FOR THE STRAIT OF HORMUZ."
+- 09/14 18:12 [FirstSquawk] IRAN WILL ENFORCE NEW RESTRICTIONS ON VESSEL PASSAGE IN THE PERSIAN GULF STRAIT, WHICH MAY INCLUDE FINES, DETENTION, OR CONFISCATION.
+- 09/14 18:17 [FirstSquawk] ECB’S SCHNABEL: MACROECONOMIC, FISCAL AND FINANCIAL STABILITY IN A SHOCK-PRONE WORLD

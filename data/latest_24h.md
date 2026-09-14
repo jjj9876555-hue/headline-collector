@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 17:54 JST／対象: 09/13 17:54 〜 09/14 17:54 JST（時刻はすべて日本時間）
+生成: 2026-09-14 18:19 JST／対象: 09/13 18:19 〜 09/14 18:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/13 18:12 | 09/14 17:49 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 281 | 09/13 18:09 | 09/14 17:52 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 117 | 09/13 19:12 | 09/14 17:16 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 31 | 09/13 20:35 | 09/14 18:11 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 281 | 09/13 18:36 | 09/14 18:17 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 119 | 09/13 19:12 | 09/14 18:11 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 421 行（統合前 426 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 426 行（統合前 431 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 18:09 [FirstSquawk] Malaysian PM Anwar Ibrahim tells PM Modi he received several messages from people asking him to convey their regards to the Indian Prime Minister during their BRICS 2026 bilateral meeting.
-- 09/13 18:10 [FirstSquawk] Vladimir Putin rejected Volodymyr Zelensky's offer for direct talks at the December G20 summit in Miami. Kremlin spokesman Dmitry Peskov called US talks "impossible," stating Putin will only meet in Moscow.
-- 09/13 18:10 [FirstSquawk] Iranians gathered across Europe on Saturday to protest against the Islamic Republic, with demonstrations held in London, Nuremberg, Frankfurt, Helsinki, Bordeaux and Stuttgart, videos received by Iran International show.
-- 09/13 18:10 [FirstSquawk] Iran has signed contracts to import about 320 megawatts of electricity from Turkmenistan and between 300 and 350 megawatts from Armenia, a deputy energy minister said on Sunday.
-- 09/13 18:10 [FirstSquawk] PM Modi, Egypt Prez Sisi meet in Delhi
-- 09/13 18:12 [DeItaone] The biggest issue with an AI "safety slowdown:" What happens with China? While there are legitimate concerns around the safety of AI and how quickly it is evolving, the AI race is global. And, in today's ecosystem, falling even 6 months beh…
-- 09/13 18:14 [FirstSquawk] UKRAINE’S MILITARY: STRIKE ON TANEKO OIL REFINERY IN RUSSIA’S TATARSTAN
-- 09/13 18:14 [FirstSquawk] ITALY ECONOMY MINISTER: CRUCIAL FOR ITALY TO MAINTAIN PUBLIC FINANCES AS ECB HIKES INTEREST RATES
-- 09/13 18:17 [DeItaone] $TSLA - TESLA TEASES OCTOBER 1 ROADSTER EVENT Tesla is teasing an October 1 event for its long-delayed next-generation Roadster, nearly nine years after Elon Musk first unveiled the vehicle. The “Go for launch” messaging is fueling speculat…
 - 09/13 18:36 [FirstSquawk] Xi Jinping has sought to turn the annual BRICS summit into another platform for championing Beijing’s vision for AI, as it vies for global influence over the technology with the US
 - 09/13 18:36 [FirstSquawk] Dario Amodei built Anthropic to avoid the very kind of moment that is playing out now
 - 09/13 18:37 [FirstSquawk] Houthi tribal mobilization shows long lines of armed Toyota technicals in the desert, the classic Yemen war image
@@ -445,3 +436,17 @@
 - 09/14 17:52 [FirstSquawk] BRENT CRUDE OIL FUTURES RISE MORE THAN $4 TO SESSION HIGH OF $108.65/BBL. ON ESCALATING MIDEAST ATTACKS
 - 09/14 17:52 [FirstSquawk] BRAZIL PRES ELECTION POLL: LULA HAS 47%, FLAVIO IN 2ND ROUND: BTC PACTUAL/NEXUS
 - 09/14 17:52 [FirstSquawk] JAPAN AUGUST ALUMINIUM STOCKPILES RISE 23% M/M TO 246,600 MT
+- 09/14 17:55 [DeItaone] CHINA SLAMS U.S. CALLS TO SLOW AI RACE China’s state-backed Global Times accused Anthropic CEO Dario Amodei of using AI safety concerns to restrict China’s technological rise. Amodei called for slower frontier AI development and tighter U.S…
+- 09/14 17:56 [DeItaone] SPOT GOLD FALLS NEARLY 1% TO $4,306.19/OZ
+- 09/14 18:02 [FirstSquawk] CHINA JAN.-AUG. AGGREGATE FINANCING CNY23.91T; EST. CNY24.372T
+- 09/14 18:02 [FirstSquawk] CHINA JAN.-AUG. NEW YUAN LOANS CNY10.44T; EST. CNY10.784T
+- 09/14 18:02 [FirstSquawk] VENEZUELA TO JOIN G20 ENERGY SUMMIT AS US AIMS FOR MORE DEALS
+- 09/14 18:03 [DeItaone] *JAN.-AUG. NEW YUAN LOANS CNY10.44T; EST. CNY10.784T *CHINA AUG. M2 MONEY SUPPLY RISES 7.5% Y/Y; EST. +7.6%
+- 09/14 18:03 [FirstSquawk] EURO REACHES ONE-MONTH LOW DUE TO INCREASE IN DOLLAR AND OIL PRICES.
+- 09/14 18:07 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS A light U.S. data calendar puts the focus on oil, geopolitics, Treasury yields and Fed positioning. 8:30 AM ET — 🇨🇦 Canada CPI 11:00 AM ET — 🇺🇸 13-Week & 26-Week Treasury Bill Auctions After Close — 🫀 K…
+- 09/14 18:10 [financialjuice] Iran's Persian Gulf Strait Authority publishes an updated list of 77 vessels "violating Iranian protocols for the Strait of Hormuz"
+- 09/14 18:11 [financialjuice] Iran's Persian Gulf Strait Authority: Vessels will face restrictions on future passage, including fines, detention, or confiscation
+- 09/14 18:11 [DeItaone] IRAN'S PERSIAN GULF STRAIT AUTHORITY PUBLISHES UPDATED LIST OF 77 VESSELS 'VIOLATING IRANIAN PROTOCOLS FOR THE STRAIT OF HORMUZ' IRAN'S PERSIAN GULF STRAIT AUTHORITY VESSELS WILL FACE RESTRICTIONS OF FUTURE PASSAGE INCLUDING FINES, DETENTIO…
+- 09/14 18:12 [FirstSquawk] IRAN'S PERSIAN GULF STRAIT AUTHORITY RELEASES AN UPDATED LIST OF 77 SHIPS "BREAKING IRANIAN RULES FOR THE STRAIT OF HORMUZ."
+- 09/14 18:12 [FirstSquawk] IRAN WILL ENFORCE NEW RESTRICTIONS ON VESSEL PASSAGE IN THE PERSIAN GULF STRAIT, WHICH MAY INCLUDE FINES, DETENTION, OR CONFISCATION.
+- 09/14 18:17 [FirstSquawk] ECB’S SCHNABEL: MACROECONOMIC, FISCAL AND FINANCIAL STABILITY IN A SHOCK-PRONE WORLD
