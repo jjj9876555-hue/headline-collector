@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 19:33 JST／対象: 09/14 13:33 〜 09/14 19:33 JST（時刻はすべて日本時間）
+生成: 2026-09-14 19:53 JST／対象: 09/14 13:53 〜 09/14 19:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/14 16:28 | 09/14 19:24 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 85 | 09/14 13:41 | 09/14 19:27 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 44 | 09/14 14:07 | 09/14 19:22 | ⚠ 53分（17:16→18:10） |
+| DeItaone | 13 | 09/14 16:28 | 09/14 19:47 | ⚠ 53分（18:30→19:24） |
+| FirstSquawk | 86 | 09/14 13:53 | 09/14 19:47 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 45 | 09/14 14:07 | 09/14 19:37 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 137 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 140 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 13:41 [FirstSquawk] Japan’s central bank is approaching a pivotal rate decision, with markets closely watching whether the BOJ moves ahead with further policy tightening.
-- 09/14 13:41 [FirstSquawk] Global AI stocks retreat as concerns over AI risks intensify, while SoftBank shares tumble as much as 13% after tech leaders call for a slower pace of AI development - FT
-- 09/14 13:42 [FirstSquawk] Warsh and Trump appear headed for a clash over U.S. interest rates, as investors increasingly expect the Fed to raise rates, according to the Financial Times.
-- 09/14 13:50 [FirstSquawk] Essar has struck a deal to acquire 118 petrol stations in the UK, in a move that expands the Indian energy group’s retail footprint in the British market, according to the Financial Times.
 - 09/14 13:53 [FirstSquawk] The UK’s expanded ban on advertising ‘less healthy’ foods could put up to £1 billion of media spending at risk, according to the Financial Times.
 - 09/14 13:54 [FirstSquawk] The UK faces a £258 billion infrastructure spending shortfall, according to a Financial Times report, highlighting the scale of investment needed to upgrade the country’s infrastructure.
 - 09/14 13:54 [FirstSquawk] The music industry is stepping up its crackdown on AI-generated songs, targeting their use in streaming fraud and efforts to manipulate royalty payouts, according to the Financial Times.
@@ -161,3 +157,10 @@
 - 09/14 19:12 [FirstSquawk] EU'S VON DER LEYEN TO PRESENT 'EU KIDS ACT' ON THURSDAY
 - 09/14 19:22 [financialjuice/DeItaone] Reports of ammonia gas leak in Jordan's Aqaba industrial complex - State TV
 - 09/14 19:27 [FirstSquawk] EU COMMISSION SPOX: EU IS IN FAVOUR OF INNOVATIVE AI SERVICES, BUT WON'T COMPROMISE ON SAFETY, COMPANIES HAVE TO PROVE SAFETY FOR CITIZENS
+- 09/14 19:37 [financialjuice] ECB's Stournaras: Timely ECB steps limit risk of painful hikes later
+- 09/14 19:38 [FirstSquawk] BOEING EXEC: ALL FLIGHT TESTING COMPLETED FOR 737 MAX 10, AIM TO HAVE IT CERTIFIED VERY SOON
+- 09/14 19:38 [FirstSquawk] STOURNARAS: TIMELY ECB STEPS LIMIT RISK OF PAINFUL HIKES LATER
+- 09/14 19:44 [FirstSquawk] NASDAQ 100 FUTURES PARE LOSSES, NOW DOWN ABOUT 1.5%
+- 09/14 19:46 [DeItaone/FirstSquawk] U.S. ENERGY SECRETARY WRIGHT: THERE ARE NO PLANS FOR URANIUM ENRICHMENT IN SAUDI ARABIA
+- 09/14 19:47 [DeItaone] *KIOXIA IS SAID TO CONSIDER RAISING $10 BILLION IN US LISTING
+- 09/14 19:47 [FirstSquawk] KIOXIA PLANS TO RAISE $10 BILLION THROUGH A US STOCK LISTING.
