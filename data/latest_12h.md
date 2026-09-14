@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 05:52 JST／対象: 09/14 17:52 〜 09/15 05:52 JST（時刻はすべて日本時間）
+生成: 2026-09-15 06:04 JST／対象: 09/14 18:04 〜 09/15 06:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 09/14 17:55 | 09/15 05:37 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 163 | 09/14 17:52 | 09/15 05:44 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 170 | 09/14 18:10 | 09/15 05:51 | 34分（05:17→05:51） |
+| DeItaone | 47 | 09/14 18:07 | 09/15 05:37 | ⚠ 110分（00:34→02:25） |
+| FirstSquawk | 161 | 09/14 18:12 | 09/15 06:03 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 172 | 09/14 18:10 | 09/15 06:00 | 34分（05:17→05:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 360 行（統合前 387 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 357 行（統合前 384 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 17:52 [FirstSquawk] BRAZIL PRES ELECTION POLL: LULA HAS 47%, FLAVIO IN 2ND ROUND: BTC PACTUAL/NEXUS
-- 09/14 17:52 [FirstSquawk] JAPAN AUGUST ALUMINIUM STOCKPILES RISE 23% M/M TO 246,600 MT
-- 09/14 17:55 [DeItaone] CHINA SLAMS U.S. CALLS TO SLOW AI RACE China’s state-backed Global Times accused Anthropic CEO Dario Amodei of using AI safety concerns to restrict China’s technological rise. Amodei called for slower frontier AI development and tighter U.S…
-- 09/14 17:56 [DeItaone] SPOT GOLD FALLS NEARLY 1% TO $4,306.19/OZ
-- 09/14 18:02 [FirstSquawk] CHINA JAN.-AUG. AGGREGATE FINANCING CNY23.91T; EST. CNY24.372T
-- 09/14 18:02 [FirstSquawk] CHINA JAN.-AUG. NEW YUAN LOANS CNY10.44T; EST. CNY10.784T
-- 09/14 18:02 [FirstSquawk] VENEZUELA TO JOIN G20 ENERGY SUMMIT AS US AIMS FOR MORE DEALS
-- 09/14 18:03 [DeItaone] *JAN.-AUG. NEW YUAN LOANS CNY10.44T; EST. CNY10.784T *CHINA AUG. M2 MONEY SUPPLY RISES 7.5% Y/Y; EST. +7.6%
-- 09/14 18:03 [FirstSquawk] EURO REACHES ONE-MONTH LOW DUE TO INCREASE IN DOLLAR AND OIL PRICES.
 - 09/14 18:07 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS A light U.S. data calendar puts the focus on oil, geopolitics, Treasury yields and Fed positioning. 8:30 AM ET — 🇨🇦 Canada CPI 11:00 AM ET — 🇺🇸 13-Week & 26-Week Treasury Bill Auctions After Close — 🫀 K…
 - 09/14 18:10 [financialjuice] Iran's Persian Gulf Strait Authority publishes an updated list of 77 vessels "violating Iranian protocols for the Strait of Hormuz"
 - 09/14 18:11 [financialjuice] Iran's Persian Gulf Strait Authority: Vessels will face restrictions on future passage, including fines, detention, or confiscation
@@ -384,3 +375,9 @@
 - 09/15 05:44 [FirstSquawk] TRUMP ATTACKS ANTHROPIC CEO DARIO AMODEI OVER CALLS TO SLOW ADVANCED AI DEVELOPMENT, CALLING FEARS THAT AI COULD DESTROY HUMANITY A “HOAX” AND SAYING AI DEVELOPMENT WILL NOT BE STOPPED DURING HIS PRESIDENCY.
 - 09/15 05:44 [FirstSquawk] TRUMP SAYS THE U.S. MUST MAINTAIN ITS AI LEAD OVER CHINA AND CRITICIZES GOOGLE’S $15.1 BILLION AI INFRASTRUCTURE INVESTMENT IN FINLAND, PUTTING HIM AT ODDS WITH AMODEI, SAM ALTMAN AND ELON MUSK OVER AI SAFETY AND GUARDRAILS.
 - 09/15 05:51 [financialjuice] Trump called Nvidia's CEO Huang on Monday, and wanted to discuss AI - NYT. $NVDA
+- 09/15 06:00 [financialjuice] S. KOREAN EXPORT PRICE YOY ACTUAL 42.4% (FORECAST -, PREVIOUS 49.1%) $MACRO
+- 09/15 06:00 [financialjuice] S. KOREAN IMPORT PRICE YOY ACTUAL 15.6% (FORECAST -, PREVIOUS 18.7%) $MACRO
+- 09/15 06:01 [FirstSquawk] TRUMP WANTED TO DISCUSS AI WITH NVIDIA CEO JENSEN HUANG; CALLED HUANG ON MONDAY - NYT
+- 09/15 06:03 [FirstSquawk] TRUMP: CLAIMS THAT AI WILL “TAKE OVER, CONSUME AND DESTROY” THE WORLD ARE A “HOAX,” COMPARING THEM TO PAST WARNINGS ABOUT GLOBAL WARMING. - TRUTH SOCIAL
+- 09/15 06:03 [FirstSquawk] TRUMP: HE SAYS FEARS THAT ROBOTS WILL ENTER CITIES, REPLACE PEOPLE AND “GET RID OF US ALL” ARE EVEN MORE EXTREME THAN PREVIOUS CLAIMS ABOUT RUSSIA AND UKRAINE. - TRUTH SOCIAL
+- 09/15 06:03 [FirstSquawk] TRUMP: HE ACCUSES RADICAL LEFT DEMOCRATS OF CONTINUING TO PUSH SUCH FEARS AND SAYS VOTERS WILL EVENTUALLY SEE THROUGH THEM. - TRUTH SOCIAL

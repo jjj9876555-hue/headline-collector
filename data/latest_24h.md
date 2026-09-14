@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 05:52 JST／対象: 09/14 05:52 〜 09/15 05:52 JST（時刻はすべて日本時間）
+生成: 2026-09-15 06:04 JST／対象: 09/14 06:04 〜 09/15 06:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 08:03 | 09/15 05:37 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 337 | 09/14 06:07 | 09/15 05:44 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 244 | 09/14 06:02 | 09/15 05:51 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 341 | 09/14 06:07 | 09/15 06:03 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 245 | 09/14 06:13 | 09/15 06:00 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 610 行（統合前 639 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 615 行（統合前 644 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 06:02 [financialjuice] Several blasts heard in Iran's Sirik: source unknown, state media.
 - 09/14 06:07 [FirstSquawk] HOUSE SPEAKER MIKE JOHNSON SAYS TRUMP’S PROPOSED $5,000 DIVIDEND FOR EVERY AMERICAN ADULT WOULD REQUIRE CONGRESSIONAL APPROVAL, CONTRADICTING TRUMP’S CLAIM THAT THE PAYMENTS CAN BE MADE WITHOUT AUTHORIZATION. JOHNSON VOWS TO WORK TO PASS TH…
 - 09/14 06:13 [financialjuice] Election authority projection: Sweden's center-left opposition bloc poised to secure 165 seats in parliament
 - 09/14 06:15 [financialjuice] Election authority projection: Sweden's centre-left opposition bloc anticipated to secure 175 seats in parliament
@@ -634,3 +633,9 @@
 - 09/15 05:44 [FirstSquawk] TRUMP ATTACKS ANTHROPIC CEO DARIO AMODEI OVER CALLS TO SLOW ADVANCED AI DEVELOPMENT, CALLING FEARS THAT AI COULD DESTROY HUMANITY A “HOAX” AND SAYING AI DEVELOPMENT WILL NOT BE STOPPED DURING HIS PRESIDENCY.
 - 09/15 05:44 [FirstSquawk] TRUMP SAYS THE U.S. MUST MAINTAIN ITS AI LEAD OVER CHINA AND CRITICIZES GOOGLE’S $15.1 BILLION AI INFRASTRUCTURE INVESTMENT IN FINLAND, PUTTING HIM AT ODDS WITH AMODEI, SAM ALTMAN AND ELON MUSK OVER AI SAFETY AND GUARDRAILS.
 - 09/15 05:51 [financialjuice] Trump called Nvidia's CEO Huang on Monday, and wanted to discuss AI - NYT. $NVDA
+- 09/15 06:00 [financialjuice] S. KOREAN EXPORT PRICE YOY ACTUAL 42.4% (FORECAST -, PREVIOUS 49.1%) $MACRO
+- 09/15 06:00 [financialjuice] S. KOREAN IMPORT PRICE YOY ACTUAL 15.6% (FORECAST -, PREVIOUS 18.7%) $MACRO
+- 09/15 06:01 [FirstSquawk] TRUMP WANTED TO DISCUSS AI WITH NVIDIA CEO JENSEN HUANG; CALLED HUANG ON MONDAY - NYT
+- 09/15 06:03 [FirstSquawk] TRUMP: CLAIMS THAT AI WILL “TAKE OVER, CONSUME AND DESTROY” THE WORLD ARE A “HOAX,” COMPARING THEM TO PAST WARNINGS ABOUT GLOBAL WARMING. - TRUTH SOCIAL
+- 09/15 06:03 [FirstSquawk] TRUMP: HE SAYS FEARS THAT ROBOTS WILL ENTER CITIES, REPLACE PEOPLE AND “GET RID OF US ALL” ARE EVEN MORE EXTREME THAN PREVIOUS CLAIMS ABOUT RUSSIA AND UKRAINE. - TRUTH SOCIAL
+- 09/15 06:03 [FirstSquawk] TRUMP: HE ACCUSES RADICAL LEFT DEMOCRATS OF CONTINUING TO PUSH SUCH FEARS AND SAYS VOTERS WILL EVENTUALLY SEE THROUGH THEM. - TRUTH SOCIAL

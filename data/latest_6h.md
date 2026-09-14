@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 05:52 JST／対象: 09/14 23:52 〜 09/15 05:52 JST（時刻はすべて日本時間）
+生成: 2026-09-15 06:04 JST／対象: 09/15 00:04 〜 09/15 06:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/14 23:53 | 09/15 05:37 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 67 | 09/14 23:54 | 09/15 05:44 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 89 | 09/14 23:52 | 09/15 05:51 | 34分（05:17→05:51） |
+| DeItaone | 16 | 09/15 00:08 | 09/15 05:37 | ⚠ 110分（00:34→02:25） |
+| FirstSquawk | 69 | 09/15 00:09 | 09/15 06:03 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 88 | 09/15 00:06 | 09/15 06:00 | 34分（05:17→05:51） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 163 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 23:52 [financialjuice] UK Business Secretary Reynolds: UK can't support Speciality Steel on proposed terms
-- 09/14 23:53 [DeItaone] SENIOR SUNNI MUSLIM CLERIC SHOT DEAD BY UNIDENTIFIED GUNMEN IN SOUTHEAST IRAN - IRANIAN MEDIA
-- 09/14 23:53 [financialjuice] Israeli Prime Minister Netanyahu warns Hezbollah against further attacks - Israel's Channel 12
-- 09/14 23:54 [FirstSquawk] EU PLANS TO RESTRICT SOCIAL MEDIA AND CHATBOTS FOR CHILDREN UNDER 15 YEARS OLD.
-- 09/14 23:54 [FirstSquawk] UK BUSINESS SECRETARY REYNOLDS SAYS THE UK CANNOT SUPPORT SPECIALTY STEEL UNDER THE CURRENT TERMS AND PLANS TO CREATE A PROPOSAL FOR PUBLIC ACQUISITION.
-- 09/14 23:54 [financialjuice] Israeli Prime Minister Netanyahu: Hezbollah will suffer heavier blows if it attacks again - Israel's Channel 12
 - 09/15 00:06 [financialjuice] ‼ BREAKING: Trump: Ukraine has agreed not to hit Russian energy targets.
 - 09/15 00:07 [financialjuice] Trump: Ukraine has agreed not to hit Russian energy targets. Russia has agreed to do likewise - Truth Social
 - 09/15 00:07 [financialjuice] Trump: World’s diesel price rise is caused by Russia-Ukraine war.
@@ -187,3 +181,9 @@
 - 09/15 05:44 [FirstSquawk] TRUMP ATTACKS ANTHROPIC CEO DARIO AMODEI OVER CALLS TO SLOW ADVANCED AI DEVELOPMENT, CALLING FEARS THAT AI COULD DESTROY HUMANITY A “HOAX” AND SAYING AI DEVELOPMENT WILL NOT BE STOPPED DURING HIS PRESIDENCY.
 - 09/15 05:44 [FirstSquawk] TRUMP SAYS THE U.S. MUST MAINTAIN ITS AI LEAD OVER CHINA AND CRITICIZES GOOGLE’S $15.1 BILLION AI INFRASTRUCTURE INVESTMENT IN FINLAND, PUTTING HIM AT ODDS WITH AMODEI, SAM ALTMAN AND ELON MUSK OVER AI SAFETY AND GUARDRAILS.
 - 09/15 05:51 [financialjuice] Trump called Nvidia's CEO Huang on Monday, and wanted to discuss AI - NYT. $NVDA
+- 09/15 06:00 [financialjuice] S. KOREAN EXPORT PRICE YOY ACTUAL 42.4% (FORECAST -, PREVIOUS 49.1%) $MACRO
+- 09/15 06:00 [financialjuice] S. KOREAN IMPORT PRICE YOY ACTUAL 15.6% (FORECAST -, PREVIOUS 18.7%) $MACRO
+- 09/15 06:01 [FirstSquawk] TRUMP WANTED TO DISCUSS AI WITH NVIDIA CEO JENSEN HUANG; CALLED HUANG ON MONDAY - NYT
+- 09/15 06:03 [FirstSquawk] TRUMP: CLAIMS THAT AI WILL “TAKE OVER, CONSUME AND DESTROY” THE WORLD ARE A “HOAX,” COMPARING THEM TO PAST WARNINGS ABOUT GLOBAL WARMING. - TRUTH SOCIAL
+- 09/15 06:03 [FirstSquawk] TRUMP: HE SAYS FEARS THAT ROBOTS WILL ENTER CITIES, REPLACE PEOPLE AND “GET RID OF US ALL” ARE EVEN MORE EXTREME THAN PREVIOUS CLAIMS ABOUT RUSSIA AND UKRAINE. - TRUTH SOCIAL
+- 09/15 06:03 [FirstSquawk] TRUMP: HE ACCUSES RADICAL LEFT DEMOCRATS OF CONTINUING TO PUSH SUCH FEARS AND SAYS VOTERS WILL EVENTUALLY SEE THROUGH THEM. - TRUTH SOCIAL
