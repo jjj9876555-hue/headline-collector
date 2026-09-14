@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 08:53 JST／対象: 09/13 08:53 〜 09/14 08:53 JST（時刻はすべて日本時間）
+生成: 2026-09-14 09:25 JST／対象: 09/13 09:25 〜 09/14 09:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 265 | 09/13 09:35 | 09/14 08:50 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 79 | 09/13 10:01 | 09/14 08:47 | ⚠ 220分（10:01→13:41） |
+| FirstSquawk | 274 | 09/13 09:35 | 09/14 09:24 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 81 | 09/13 10:01 | 09/14 09:23 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 363 行（統合前 369 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 374 行（統合前 380 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -387,3 +387,14 @@
 - 09/14 08:47 [FirstSquawk] THE NSA'S ELITE HACKING UNIT, TAILORED ACCESS OPERATIONS, WILL FALL UNDER GLOBAL INTELLIGENCE AND IS EXPECTED TO RECEIVE A MAJOR BUDGET INCREASE, WITH THE RESTRUCTURING SET TO BEGIN IN MID-OCTOBER AND FULL IMPLEMENTATION TARGETED FOR JANUAR…
 - 09/14 08:47 [financialjuice] Danger has passed in Abha: Saudi civil defense
 - 09/14 08:50 [FirstSquawk] JAPAN EARLY TRADE: BENCHMARK 10-YEAR JGB FUTURES RISE 0.04 POINT, WHILE NIKKEI AVERAGE FUTURES FALL 1.5%
+- 09/14 09:00 [financialjuice] Kennedy Center may shut as soon as Tuesday, warns of bankruptcy, documents show - Washington Post
+- 09/14 09:10 [FirstSquawk] Musk says he’s highly confident SpaceX will put Nvidia AI computers into orbit in 2027, potentially opening a new frontier for space-based computing.
+- 09/14 09:11 [FirstSquawk] BAKER HUGHES WINS A MAJOR CONTRACT FROM VENTURE GLOBAL LNG TO SUPPLY 13 GAS COMPRESSION SYSTEMS FOR THE CLOUD CONNECT PIPELINE IN LOUISIANA. || COMPANY WILL ALSO DELIVER FOUR LIQUEFACTION BLOCKS WITH EIGHT MODULES FOR VENTURE GLOBAL'S PLAQU…
+- 09/14 09:11 [FirstSquawk] Asia-Pacific markets start mostly lower as surging oil prices and Middle East supply risks pressure sentiment, while traders weigh potential Fed and BOJ rate hikes this week.
+- 09/14 09:11 [FirstSquawk] China’s defence forum opens against a backdrop of rising regional tensions, putting Beijing’s security priorities and military diplomacy under closer scrutiny.
+- 09/14 09:15 [FirstSquawk] Oil jumps more than 3% as fresh Middle East developments deepen supply concerns and a planned Strait of Hormuz meeting is delayed, adding to market uncertainty.
+- 09/14 09:15 [FirstSquawk] HONG KONG CHIEF EXECUTIVE JOHN LEE SAYS THE CITY’S FIRST FIVE-YEAR PLAN WILL PRESERVE ITS CAPITALIST SYSTEM, RULE OF LAW AND “ONE COUNTRY, TWO SYSTEMS” FRAMEWORK, WHILE KEEPING THE FREE FLOW OF CAPITAL, PEOPLE, GOODS AND INFORMATION. LEE SA…
+- 09/14 09:20 [FirstSquawk] Two U.S. Air Force officers were forced to eject over Iran in April after their F-15E was shot down, landing separately near Isfahan as Iranian forces searched the area.
+- 09/14 09:23 [financialjuice] China PBOC likely to fix yuan midpoint at 6.7083 per dollar: estimate
+- 09/14 09:24 [FirstSquawk] Higher oil prices are strengthening the case for rate hikes, as renewed energy-cost pressures raise concerns over inflation and could complicate central banks’ policy decisions.
+- 09/14 09:24 [FirstSquawk] Middle East tensions are tightening global oil supplies, with Houthi activity in Yemen adding pressure to another key energy corridor and increasing risks for regional energy flows.

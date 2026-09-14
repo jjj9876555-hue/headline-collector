@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 08:53 JST／対象: 09/14 02:53 〜 09/14 08:53 JST（時刻はすべて日本時間）
+生成: 2026-09-14 09:25 JST／対象: 09/14 03:25 〜 09/14 09:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/14 04:05 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 57 | 09/14 03:29 | 09/14 08:50 | 43分（03:41→04:25） |
-| financialjuice | 44 | 09/14 03:01 | 09/14 08:47 | ⚠ 52分（04:46→05:39） |
+| FirstSquawk | 66 | 09/14 03:29 | 09/14 09:24 | 43分（03:41→04:25） |
+| financialjuice | 37 | 09/14 03:52 | 09/14 09:23 | ⚠ 52分（04:46→05:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 103 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 105 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 03:01 [financialjuice] Sweden's Social Democrats forecasted to secure 28.4% of votes in election vs 30.3% in 2022 - public broadcaster SVT exit poll
-- 09/14 03:02 [financialjuice] Sweden Democrats forecast to gather 17.2% of votes in election vs 20.5% in 2022 public broadcaster SVT exit poll
-- 09/14 03:04 [financialjuice] Sweden's centre-left opposition bloc to secure 51.3% of votes in election: TV4 election day poll
-- 09/14 03:04 [financialjuice] Sweden's right-wing governing bloc set to capture 47% of votes in election: TV4 election day poll
-- 09/14 03:04 [financialjuice] Sweden's Liberals party seen surpassing parliament's 4% threshold: TV4 election day poll
-- 09/14 03:05 [financialjuice] Sweden's Liberals party expected to clear parliament's 4% threshold: public broadcaster SVT exit poll
-- 09/14 03:05 [financialjuice] Sweden's centre-left bloc projected to secure 46.8% of votes in election: public broadcaster SVT exit poll
-- 09/14 03:05 [financialjuice] Sweden's right-wing ruling bloc tipped to secure 51.3% of vote in election: public broadcaster SVT exit poll
-- 09/14 03:08 [financialjuice] Sweden's centre-left bloc projected to secure 51.3% of votes in election: public broadcaster SVT exit poll
 - 09/14 03:29 [FirstSquawk] A RUSSIAN DRONE STRUCK A TRAIN NEAR THE UKRAINE-POLAND BORDER ON SUNDAY SHORTLY AFTER SENIOR VISITING OFFICIALS — INCLUDING FORMER U.K. PRIME MINISTER BORIS JOHNSON AND FORMER SWEDISH PRIME MINISTER CARL BILDT — PASSED THROUGH, UKRAINE'S ST…
 - 09/14 03:29 [FirstSquawk] UKRZALIZNYTSIA SAID IT IS 'HIGHLY PROBABLE' THE DRONE'S TARGET WAS THE DIPLOMATIC TRAIN, WITH ANOTHER TRAIN CARRYING FORMER CIA DIRECTOR DAVID PETRAEUS STILL AT THE STATION WHEN THE DRONE STRUCK, THOUGH NO CASUALTIES WERE IMMEDIATELY REPORT…
 - 09/14 03:29 [FirstSquawk] BILDT SAID ON X IT 'WASN'T OUR TRAIN, BUT THE ONE JUST MINUTES AFTER US', WHILE JOHNSON CALLED IT 'THE KIND OF RANDOM AND SENSELESS ATTACK UKRAINIANS ARE ENDURING EVERY DAY'.
@@ -127,3 +118,14 @@
 - 09/14 08:47 [FirstSquawk] THE NSA'S ELITE HACKING UNIT, TAILORED ACCESS OPERATIONS, WILL FALL UNDER GLOBAL INTELLIGENCE AND IS EXPECTED TO RECEIVE A MAJOR BUDGET INCREASE, WITH THE RESTRUCTURING SET TO BEGIN IN MID-OCTOBER AND FULL IMPLEMENTATION TARGETED FOR JANUAR…
 - 09/14 08:47 [financialjuice] Danger has passed in Abha: Saudi civil defense
 - 09/14 08:50 [FirstSquawk] JAPAN EARLY TRADE: BENCHMARK 10-YEAR JGB FUTURES RISE 0.04 POINT, WHILE NIKKEI AVERAGE FUTURES FALL 1.5%
+- 09/14 09:00 [financialjuice] Kennedy Center may shut as soon as Tuesday, warns of bankruptcy, documents show - Washington Post
+- 09/14 09:10 [FirstSquawk] Musk says he’s highly confident SpaceX will put Nvidia AI computers into orbit in 2027, potentially opening a new frontier for space-based computing.
+- 09/14 09:11 [FirstSquawk] BAKER HUGHES WINS A MAJOR CONTRACT FROM VENTURE GLOBAL LNG TO SUPPLY 13 GAS COMPRESSION SYSTEMS FOR THE CLOUD CONNECT PIPELINE IN LOUISIANA. || COMPANY WILL ALSO DELIVER FOUR LIQUEFACTION BLOCKS WITH EIGHT MODULES FOR VENTURE GLOBAL'S PLAQU…
+- 09/14 09:11 [FirstSquawk] Asia-Pacific markets start mostly lower as surging oil prices and Middle East supply risks pressure sentiment, while traders weigh potential Fed and BOJ rate hikes this week.
+- 09/14 09:11 [FirstSquawk] China’s defence forum opens against a backdrop of rising regional tensions, putting Beijing’s security priorities and military diplomacy under closer scrutiny.
+- 09/14 09:15 [FirstSquawk] Oil jumps more than 3% as fresh Middle East developments deepen supply concerns and a planned Strait of Hormuz meeting is delayed, adding to market uncertainty.
+- 09/14 09:15 [FirstSquawk] HONG KONG CHIEF EXECUTIVE JOHN LEE SAYS THE CITY’S FIRST FIVE-YEAR PLAN WILL PRESERVE ITS CAPITALIST SYSTEM, RULE OF LAW AND “ONE COUNTRY, TWO SYSTEMS” FRAMEWORK, WHILE KEEPING THE FREE FLOW OF CAPITAL, PEOPLE, GOODS AND INFORMATION. LEE SA…
+- 09/14 09:20 [FirstSquawk] Two U.S. Air Force officers were forced to eject over Iran in April after their F-15E was shot down, landing separately near Isfahan as Iranian forces searched the area.
+- 09/14 09:23 [financialjuice] China PBOC likely to fix yuan midpoint at 6.7083 per dollar: estimate
+- 09/14 09:24 [FirstSquawk] Higher oil prices are strengthening the case for rate hikes, as renewed energy-cost pressures raise concerns over inflation and could complicate central banks’ policy decisions.
+- 09/14 09:24 [FirstSquawk] Middle East tensions are tightening global oil supplies, with Houthi activity in Yemen adding pressure to another key energy corridor and increasing risks for regional energy flows.

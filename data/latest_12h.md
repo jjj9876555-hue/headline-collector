@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 08:53 JST／対象: 09/13 20:53 〜 09/14 08:53 JST（時刻はすべて日本時間）
+生成: 2026-09-14 09:25 JST／対象: 09/13 21:25 〜 09/14 09:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/13 21:10 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 102 | 09/13 20:53 | 09/14 08:50 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 62 | 09/13 21:00 | 09/14 08:47 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 20 | 09/13 21:44 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
+| FirstSquawk | 106 | 09/13 21:25 | 09/14 09:24 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 62 | 09/13 21:37 | 09/14 09:23 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 183 行（統合前 186 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 185 行（統合前 188 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 20:53 [FirstSquawk] Iraq: Accused Omid Haji Ahmad is on US sanctions lists for smuggling Iranian oil.
-- 09/13 20:53 [FirstSquawk] Yemeni Armed Forces: We destroyed equipment, gatherings, and elements of the Houthi militia in the "kill box" in Dhubab and Mocha.
-- 09/13 20:53 [FirstSquawk] Poland: A Russian drone struck a train bound for Warsaw; no injuries reported
-- 09/13 20:54 [FirstSquawk] Saudi Crown Prince and the Pakistani Prime Minister discuss regional developments in a phone call.
-- 09/13 21:00 [financialjuice] Saudi pipeline outage threatens 4% loss in global oil supply unless pumping resumes within days, say traders, sources
-- 09/13 21:00 [financialjuice] Saudi Arabia has storage at Yanbu for only 5-7 days of exports, plus smaller amount stored in Egypt, three sources say
-- 09/13 21:10 [DeItaone] SAUDI PIPELINE OUTAGE THREATENS LOSS OF 4% OF GLOBAL OIL SUPPLY UNLESS PUMPING RESUMES WITHIN DAYS, SAY TRADERS, SOURCES SAUDI ARABIA HAS STORAGE AT YANBU FOR JUST 5-7 DAYS OF EXPORTS, PLUS SMALLER AMOUNT STORED IN EGYPT, THREE SOURCES SAY
-- 09/13 21:10 [DeItaone] SAUDI PIPELINE OUTAGE THREATENS 4% OF GLOBAL OIL SUPPLY Saudi Arabia could lose up to 4 million barrels per day of exports — roughly 4% of global supply — if its critical East-West pipeline does not restart within days, Reuters reports. Sau…
-- 09/13 21:25 [FirstSquawk] Syrian diplomatic source: Ministers Fidan and Al-Shaibani are discussing in Damascus the latest developments regarding the dissolution of the SDF and its integration into state institutions.
 - 09/13 21:25 [FirstSquawk] Syrian diplomatic source: Syrian-Turkish talks are addressing the situation in southern Syria and Israel's repeated violations.
 - 09/13 21:26 [FirstSquawk] SPA: The Saudi Crown Prince and the Pakistani Prime Minister discuss by phone the latest developments and efforts to de-escalate tensions in the region
 - 09/13 21:26 [FirstSquawk] SPA: The Prime Minister of Pakistan affirmed his condemnation of the attacks on Saudi oil infrastructure and Pakistan's support for the Kingdom's security.
@@ -207,3 +198,14 @@
 - 09/14 08:47 [FirstSquawk] THE NSA'S ELITE HACKING UNIT, TAILORED ACCESS OPERATIONS, WILL FALL UNDER GLOBAL INTELLIGENCE AND IS EXPECTED TO RECEIVE A MAJOR BUDGET INCREASE, WITH THE RESTRUCTURING SET TO BEGIN IN MID-OCTOBER AND FULL IMPLEMENTATION TARGETED FOR JANUAR…
 - 09/14 08:47 [financialjuice] Danger has passed in Abha: Saudi civil defense
 - 09/14 08:50 [FirstSquawk] JAPAN EARLY TRADE: BENCHMARK 10-YEAR JGB FUTURES RISE 0.04 POINT, WHILE NIKKEI AVERAGE FUTURES FALL 1.5%
+- 09/14 09:00 [financialjuice] Kennedy Center may shut as soon as Tuesday, warns of bankruptcy, documents show - Washington Post
+- 09/14 09:10 [FirstSquawk] Musk says he’s highly confident SpaceX will put Nvidia AI computers into orbit in 2027, potentially opening a new frontier for space-based computing.
+- 09/14 09:11 [FirstSquawk] BAKER HUGHES WINS A MAJOR CONTRACT FROM VENTURE GLOBAL LNG TO SUPPLY 13 GAS COMPRESSION SYSTEMS FOR THE CLOUD CONNECT PIPELINE IN LOUISIANA. || COMPANY WILL ALSO DELIVER FOUR LIQUEFACTION BLOCKS WITH EIGHT MODULES FOR VENTURE GLOBAL'S PLAQU…
+- 09/14 09:11 [FirstSquawk] Asia-Pacific markets start mostly lower as surging oil prices and Middle East supply risks pressure sentiment, while traders weigh potential Fed and BOJ rate hikes this week.
+- 09/14 09:11 [FirstSquawk] China’s defence forum opens against a backdrop of rising regional tensions, putting Beijing’s security priorities and military diplomacy under closer scrutiny.
+- 09/14 09:15 [FirstSquawk] Oil jumps more than 3% as fresh Middle East developments deepen supply concerns and a planned Strait of Hormuz meeting is delayed, adding to market uncertainty.
+- 09/14 09:15 [FirstSquawk] HONG KONG CHIEF EXECUTIVE JOHN LEE SAYS THE CITY’S FIRST FIVE-YEAR PLAN WILL PRESERVE ITS CAPITALIST SYSTEM, RULE OF LAW AND “ONE COUNTRY, TWO SYSTEMS” FRAMEWORK, WHILE KEEPING THE FREE FLOW OF CAPITAL, PEOPLE, GOODS AND INFORMATION. LEE SA…
+- 09/14 09:20 [FirstSquawk] Two U.S. Air Force officers were forced to eject over Iran in April after their F-15E was shot down, landing separately near Isfahan as Iranian forces searched the area.
+- 09/14 09:23 [financialjuice] China PBOC likely to fix yuan midpoint at 6.7083 per dollar: estimate
+- 09/14 09:24 [FirstSquawk] Higher oil prices are strengthening the case for rate hikes, as renewed energy-cost pressures raise concerns over inflation and could complicate central banks’ policy decisions.
+- 09/14 09:24 [FirstSquawk] Middle East tensions are tightening global oil supplies, with Houthi activity in Yemen adding pressure to another key energy corridor and increasing risks for regional energy flows.
