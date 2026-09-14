@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 01:55 JST／対象: 09/14 01:55 〜 09/15 01:55 JST（時刻はすべて日本時間）
+生成: 2026-09-15 02:15 JST／対象: 09/14 02:15 〜 09/15 02:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 50 | 09/14 02:20 | 09/15 00:34 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 334 | 09/14 01:56 | 09/15 01:33 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 220 | 09/14 02:46 | 09/15 01:50 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 325 | 09/14 03:29 | 09/15 01:33 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 226 | 09/14 02:46 | 09/15 02:14 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 586 行（統合前 608 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 583 行（統合前 605 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 01:56 [FirstSquawk] Saudi civil defence warns of potential risk: Emergency alert issued in Saudi Arabia's Khamis Mushait and Abha
-- 09/14 01:57 [FirstSquawk] Saudi civil defence: Danger has passed in Saudi Arabia's Khamis Mushait
-- 09/14 01:57 [FirstSquawk] Saudi Civil Defence: Danger has passed in Saudi Arabia’s Abha
-- 09/14 01:58 [FirstSquawk] Donald Trump rejects calls from tech bosses for an AI slowdown - FT
-- 09/14 01:58 [FirstSquawk] EU-UK reset talks delayed again amid tension over ‘Made in Europe’ rules - FT
-- 09/14 01:58 [FirstSquawk] Le Pen vows to put French citizens first in campaign launch - FT
-- 09/14 01:58 [FirstSquawk] Japan ruling camp-backed candidate projected to win Okinawa governor race - Nikkei
-- 09/14 01:59 [FirstSquawk] OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable' - Nikkei
-- 09/14 01:59 [FirstSquawk] Japan ruling camp-backed candidate wins Okinawa governor race - Nikkei
 - 09/14 02:20 [DeItaone] U.S. WARNS AGAINST HORMUZ DEAL OPTIMISM U.S. Energy Secretary Chris Wright warned traders against expecting a quick Strait of Hormuz breakthrough with Iran. Alternative routes are supplying about 10 million barrels a day, keeping oil market…
 - 09/14 02:46 [financialjuice] Trump: lifting tariffs on Irish whiskey
 - 09/14 02:47 [DeItaone] TRUMP SAYS HE IS LIFTING TARFFS ON IRISH WHISKEY
@@ -610,3 +601,9 @@
 - 09/15 01:32 [financialjuice] Trump: Oil to drop after Iran conflict ends, will not be long.
 - 09/15 01:33 [FirstSquawk] TRUMP: I HOPE EVERYONE REALIZES THAT PRICE INCREASES THROUGHOUT AMERICA WERE CAUSED BY SLEEPY JOE BIDEN AND THE BIDEN ADMINISTRATION, NOT BY “TRUMP.” EVEN OIL WAS HIGHER UNDER BIDEN THAN IT IS RIGHT NOW, AND WE PREVENTED IRAN FROM HAVING A …
 - 09/15 01:50 [financialjuice] ❗ US seeks "step-by-step" agreement with Iran, reports ILNA citing Pakistani sources
+- 09/15 02:01 [financialjuice] US senators debating requiring al giants to commit to preventing catastrophe - Senate aide and lobbyist.
+- 09/15 02:01 [financialjuice] US Treasury Secretary Bessent posts support for final Clarity Act draft on X.
+- 09/15 02:09 [financialjuice] Bank of America CEO Brian Moynihan: Consumer credit quality is good.
+- 09/15 02:12 [financialjuice] Apple: new child protection tools now available in iOS 27, iPadOS 27, macOS 27
+- 09/15 02:13 [financialjuice] Apple launches Siri AI with personal context awareness. $AAPL
+- 09/15 02:14 [financialjuice] Apple: Siri AI, Apple intelligence not accessible in China due to regulatory demands

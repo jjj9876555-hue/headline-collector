@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 01:55 JST／対象: 09/14 19:55 〜 09/15 01:55 JST（時刻はすべて日本時間）
+生成: 2026-09-15 02:15 JST／対象: 09/14 20:15 〜 09/15 02:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/14 19:56 | 09/15 00:34 | ⚠ 48分（22:11→23:00） |
-| FirstSquawk | 93 | 09/14 20:00 | 09/15 01:33 | 18分（20:12→20:31） |
-| financialjuice | 112 | 09/14 20:01 | 09/15 01:50 | 28分（20:02→20:30） |
+| DeItaone | 27 | 09/14 20:51 | 09/15 00:34 | ⚠ 48分（22:11→23:00） |
+| FirstSquawk | 88 | 09/14 20:31 | 09/15 01:33 | 18分（00:33→00:52） |
+| financialjuice | 116 | 09/14 20:30 | 09/15 02:14 | 23分（00:46→01:09） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 224 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 219 行（統合前 235 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 19:56 [DeItaone] VIENNA- U.S. ENERGY SEC WRIGHT: TREND IN 7-DAY ROLLING AVERAGE OF OIL SHIPMENTS THROUGH HORMUZ IS RISING AND WILL CONTINUE TO RISE
-- 09/14 20:00 [FirstSquawk] Boeing Exec: Progress Has Been Made In The Supply Of Engines For 787 Series From Ge Aerospace
-- 09/14 20:01 [FirstSquawk] US ENERGY SEC WRIGHT: TREND IN 7-DAY ROLLING AVERAGE OF OIL SHIPMENTS THROUGH HORMUZ IS RISING AND WILL CONTINUE TO RISE
-- 09/14 20:01 [DeItaone] AI MARKET MOMENTUM HAS BEGUN TO SHOW GROWING SIGNS OF VULNERABILITY, BANK FOR INTERNATIONAL SETTLEMENTS SAYS
-- 09/14 20:01 [financialjuice] US Energy Secretary Wright: Oil refining capacity 'too tight right now'
-- 09/14 20:02 [financialjuice] US Energy Secretary Wright: No plans at all for enrichment in Saudi Arabia
-- 09/14 20:02 [DeItaone] BIS SEES NO SIGNS OF STRESS IN MARKETS OVERALL, RISK APPETITE HAS REMAINED 'REMARKABLY RESILIENT'
-- 09/14 20:05 [FirstSquawk] GERMANY PLANS TO ADVOCATE FOR A NEW CHINA POLICY WITH THE EU AND MAY PURSUE INCREASED TARIFFS.
-- 09/14 20:05 [DeItaone] *GERMANY TO LOBBY EU ON NEW CHINA POLICY, MAY SEEK MORE TARIFFS
-- 09/14 20:09 [FirstSquawk] US ENERGY SEC WRIGHT: REFINING CAPACITY HELD BACK BY CHINA COULD RETURN
-- 09/14 20:12 [FirstSquawk] CITIGROUP EXPECTS BOE TO HIKE INTEREST RATES BY 25 BPS EACH IN Q4 2026 AND Q1 2027 VS PRIOR FORECAST OF RATES ON HOLD UNTIL Q2 2027
 - 09/14 20:30 [financialjuice] Intel-backed buildots raises $130M for AI in construction
 - 09/14 20:31 [FirstSquawk] 5.6 MAGNITUDE EARTHQUAKE OCCURS 78 KM NORTH-NORTHEAST OF TOBELO, INDONESIA, ACCORDING TO USGS.
 - 09/14 20:32 [financialjuice] UK's PM Starmer's Spokesman Wells: The PM thinks its good AI companies are being open about risks
@@ -248,3 +237,9 @@
 - 09/15 01:32 [financialjuice] Trump: Oil to drop after Iran conflict ends, will not be long.
 - 09/15 01:33 [FirstSquawk] TRUMP: I HOPE EVERYONE REALIZES THAT PRICE INCREASES THROUGHOUT AMERICA WERE CAUSED BY SLEEPY JOE BIDEN AND THE BIDEN ADMINISTRATION, NOT BY “TRUMP.” EVEN OIL WAS HIGHER UNDER BIDEN THAN IT IS RIGHT NOW, AND WE PREVENTED IRAN FROM HAVING A …
 - 09/15 01:50 [financialjuice] ❗ US seeks "step-by-step" agreement with Iran, reports ILNA citing Pakistani sources
+- 09/15 02:01 [financialjuice] US senators debating requiring al giants to commit to preventing catastrophe - Senate aide and lobbyist.
+- 09/15 02:01 [financialjuice] US Treasury Secretary Bessent posts support for final Clarity Act draft on X.
+- 09/15 02:09 [financialjuice] Bank of America CEO Brian Moynihan: Consumer credit quality is good.
+- 09/15 02:12 [financialjuice] Apple: new child protection tools now available in iOS 27, iPadOS 27, macOS 27
+- 09/15 02:13 [financialjuice] Apple launches Siri AI with personal context awareness. $AAPL
+- 09/15 02:14 [financialjuice] Apple: Siri AI, Apple intelligence not accessible in China due to regulatory demands

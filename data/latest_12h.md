@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 01:55 JST／対象: 09/14 13:55 〜 09/15 01:55 JST（時刻はすべて日本時間）
+生成: 2026-09-15 02:15 JST／対象: 09/14 14:15 〜 09/15 02:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 44 | 09/14 16:28 | 09/15 00:34 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 177 | 09/14 13:55 | 09/15 01:33 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 157 | 09/14 14:07 | 09/15 01:50 | ⚠ 53分（17:16→18:10） |
+| FirstSquawk | 172 | 09/14 14:18 | 09/15 01:33 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 148 | 09/14 14:33 | 09/15 02:14 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 362 行（統合前 382 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 348 行（統合前 368 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 13:55 [FirstSquawk] A surge in oil prices is reviving expectations of a Bank of England rate hike this year, as higher energy costs threaten to keep inflation elevated, according to the Financial Times.
-- 09/14 13:55 [FirstSquawk] Europe’s growing defence spending is testing its appetite for US investment, as major arms deals raise questions over how much European security spending will flow toward American companies, according to the Financial Times.
-- 09/14 14:02 [FirstSquawk] FINLAND (AUG) CPI YOY ACTUAL: 2.2% VS 2.1% PREVIOUS
-- 09/14 14:02 [FirstSquawk] FINLAND (AUG) CPI MOM ACTUAL: -0.2% VS 0.2% PREVIOUS
-- 09/14 14:07 [financialjuice] PBoC: will allow currency swap and yuan settlement to play their parts
-- 09/14 14:07 [financialjuice] PBoC holds 2025 macroprudential work conference
-- 09/14 14:07 [financialjuice] PBoC: will support real estate market to halt decline and stabilize
-- 09/14 14:07 [financialjuice] PBoC: to intensify review of macroeconomic and financial efforts
-- 09/14 14:07 [financialjuice] PBoC: will prioritize real economy and financial services for the public
-- 09/14 14:07 [financialjuice] Prime Minister Mitsotakis speaks in interview
-- 09/14 14:07 [financialjuice] China TQ to Use Green Bond Proceeds for Financing Green Spending
-- 09/14 14:07 [financialjuice] PBoC: plans to expand yuan offshore market
-- 09/14 14:07 [financialjuice] China Citic Bank: Liu Cheng steps down as president
-- 09/14 14:07 [financialjuice] PBoC: to consider expanding central bank's macroprudential and financial stability roles
-- 09/14 14:07 [financialjuice] PBoC: to innovate macroprudential policy tools and support steady economic recovery and growth
-- 09/14 14:07 [financialjuice] PBoC: back building a new model for real estate development
-- 09/14 14:07 [financialjuice] China unveils sovereign framework for green bonds
-- 09/14 14:07 [financialjuice] PBoC: to boost cross-border yuan usage
-- 09/14 14:08 [financialjuice] JAPANESE CAPACITY UTILIZATION MOM ACTUAL 0.5% (FORECAST -, PREVIOUS 4.1%) $MACRO
-- 09/14 14:10 [FirstSquawk] Japan is considering tighter regulations on regenerative medicine treatments as their use expands, raising concerns over safety and oversight, according to Kyodo News.
 - 09/14 14:18 [FirstSquawk] EUR/USD falls to a four-week low as stronger expectations for a hawkish Fed boost the dollar and weigh on the euro, according to FX
 - 09/14 14:27 [FirstSquawk] GSK says data from 88 million Greater Bay Area residents could help shape better healthcare policies and improve planning across the region.
 - 09/14 14:33 [financialjuice] EU's Albuquerque: Difficult to map AI risks
@@ -386,3 +366,9 @@
 - 09/15 01:32 [financialjuice] Trump: Oil to drop after Iran conflict ends, will not be long.
 - 09/15 01:33 [FirstSquawk] TRUMP: I HOPE EVERYONE REALIZES THAT PRICE INCREASES THROUGHOUT AMERICA WERE CAUSED BY SLEEPY JOE BIDEN AND THE BIDEN ADMINISTRATION, NOT BY “TRUMP.” EVEN OIL WAS HIGHER UNDER BIDEN THAN IT IS RIGHT NOW, AND WE PREVENTED IRAN FROM HAVING A …
 - 09/15 01:50 [financialjuice] ❗ US seeks "step-by-step" agreement with Iran, reports ILNA citing Pakistani sources
+- 09/15 02:01 [financialjuice] US senators debating requiring al giants to commit to preventing catastrophe - Senate aide and lobbyist.
+- 09/15 02:01 [financialjuice] US Treasury Secretary Bessent posts support for final Clarity Act draft on X.
+- 09/15 02:09 [financialjuice] Bank of America CEO Brian Moynihan: Consumer credit quality is good.
+- 09/15 02:12 [financialjuice] Apple: new child protection tools now available in iOS 27, iPadOS 27, macOS 27
+- 09/15 02:13 [financialjuice] Apple launches Siri AI with personal context awareness. $AAPL
+- 09/15 02:14 [financialjuice] Apple: Siri AI, Apple intelligence not accessible in China due to regulatory demands
