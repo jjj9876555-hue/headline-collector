@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 23:38 JST／対象: 09/14 11:38 〜 09/14 23:38 JST（時刻はすべて日本時間）
+生成: 2026-09-14 23:57 JST／対象: 09/14 11:57 〜 09/14 23:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 35 | 09/14 16:28 | 09/14 23:26 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 183 | 09/14 11:44 | 09/14 23:37 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 116 | 09/14 11:51 | 09/14 23:37 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 37 | 09/14 16:28 | 09/14 23:53 | ⚠ 53分（18:30→19:24） |
+| FirstSquawk | 182 | 09/14 12:02 | 09/14 23:54 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 120 | 09/14 12:23 | 09/14 23:54 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 320 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 325 行（統合前 342 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 11:44 [FirstSquawk] Commodity vessel crossings through the Strait of Hormuz dropped to single digits per day over the weekend, well below the 10-day average of roughly 14, according to data.
-- 09/14 11:45 [FirstSquawk] Brent crude jumps to $107 as Oman postpones an Iran meeting and Saudi Arabia shuts a key pipeline following an attack. Meanwhile, Nasdaq futures slide amid renewed jitters over AI valuations, Benzinga reports.
-- 09/14 11:50 [FirstSquawk] Long-term Japanese government bond yields move higher as markets strengthen expectations for further BOJ interest-rate increases, according to the Wall Street Journal.
-- 09/14 11:51 [financialjuice] Dollar/yen rises 0.3% to 154.02
-- 09/14 11:53 [FirstSquawk] The dollar rises 0.3% against the yen to 154.02, extending gains in the currency pair.
-- 09/14 11:56 [FirstSquawk] House Speaker Mike Johnson says Congress would need to approve President Trump’s proposed $5,000 dividend, indicating the plan cannot move forward without lawmakers’ backing.
 - 09/14 12:02 [FirstSquawk] North Korea says it has tested weapons capable of striking South Korea, describing the systems as having “huge destructive power” amid heightened regional tensions.
 - 09/14 12:13 [FirstSquawk] Qatar eyes a bigger role in China’s growing Gulf logistics push as trade routes face disruption.
 - 09/14 12:20 [FirstSquawk] Goldman Sachs now expects the Fed to raise rates by 25 basis points this week, reversing its earlier call for no change, with the shift driven more by market pricing than its economic outlook.
@@ -344,3 +338,14 @@
 - 09/14 23:31 [FirstSquawk] FAA NEEDS MORE FUNDING FROM CONGRESS TO COMPLETE PHASE 1 OF $10.6 BLN AIR TRAFFIC CONTROL REFORM PLAN – RTRS CITING GOVT REPORT
 - 09/14 23:37 [financialjuice] Yemen's Foreign Ministry: Maritime shipping is safe, but Saudi Arabia gravely mistaken if it believes it stays secure after 300 air strikes in past five days - IRIB News
 - 09/14 23:37 [FirstSquawk] JOLIET REFINERY HIT BY TOTAL POWER OUTAGE — 275K BPD CAPACITY AT RISK, FUEL MARKETS UNDER PRESSURE $XOM
+- 09/14 23:44 [financialjuice] OpenAI backs binding UK AI legislation - Politico
+- 09/14 23:45 [FirstSquawk] OPENAI SUPPORTS COMPULSORY AI LAWS IN THE UK.
+- 09/14 23:45 [FirstSquawk] YEMEN'S FOREIGN MINISTRY SAYS MARITIME SHIPPING IS SAFE, BUT SAUDI ARABIA IS MAKING A SERIOUS ERROR IF IT THINKS IT REMAINS SAFE AFTER 300 AIR STRIKES IN JUST FIVE DAYS.
+- 09/14 23:46 [financialjuice] EU looking to limit social media and chatbots for kids under 15.
+- 09/14 23:51 [DeItaone] U.S. 10-YEAR YIELD BREAKS 5% The 10-year Treasury yield climbed above 5%, its highest since October 2023, as oil-driven inflation fears fuel expectations of higher-for-longer Fed policy. Heavy debt issuance and concerns over U.S. deficits a…
+- 09/14 23:52 [financialjuice] UK Business Secretary Reynolds: UK can't support Speciality Steel on proposed terms
+- 09/14 23:53 [DeItaone] SENIOR SUNNI MUSLIM CLERIC SHOT DEAD BY UNIDENTIFIED GUNMEN IN SOUTHEAST IRAN - IRANIAN MEDIA
+- 09/14 23:53 [financialjuice] Israeli Prime Minister Netanyahu warns Hezbollah against further attacks - Israel's Channel 12
+- 09/14 23:54 [FirstSquawk] EU PLANS TO RESTRICT SOCIAL MEDIA AND CHATBOTS FOR CHILDREN UNDER 15 YEARS OLD.
+- 09/14 23:54 [FirstSquawk] UK BUSINESS SECRETARY REYNOLDS SAYS THE UK CANNOT SUPPORT SPECIALTY STEEL UNDER THE CURRENT TERMS AND PLANS TO CREATE A PROPOSAL FOR PUBLIC ACQUISITION.
+- 09/14 23:54 [financialjuice] Israeli Prime Minister Netanyahu: Hezbollah will suffer heavier blows if it attacks again - Israel's Channel 12

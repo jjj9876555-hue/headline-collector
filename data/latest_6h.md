@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 23:38 JST／対象: 09/14 17:38 〜 09/14 23:38 JST（時刻はすべて日本時間）
+生成: 2026-09-14 23:57 JST／対象: 09/14 17:57 〜 09/14 23:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 33 | 09/14 17:49 | 09/14 23:26 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 95 | 09/14 17:52 | 09/14 23:37 | 18分（20:12→20:31） |
-| financialjuice | 79 | 09/14 18:10 | 09/14 23:37 | 28分（20:02→20:30） |
+| DeItaone | 32 | 09/14 18:03 | 09/14 23:53 | ⚠ 53分（18:30→19:24） |
+| FirstSquawk | 96 | 09/14 18:02 | 09/14 23:54 | 18分（20:12→20:31） |
+| financialjuice | 84 | 09/14 18:10 | 09/14 23:54 | 28分（20:02→20:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 194 行（統合前 209 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 199 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 17:49 [DeItaone] GOLDMAN, JPMORGAN NOW EXPECT FED TO HIKE THIS WEEK Goldman Sachs and JPMorgan have shifted to expecting a 25 bp Fed hike at the September meeting after hotter August inflation and the renewed oil surge. Markets are pricing roughly an 87% pr…
-- 09/14 17:52 [FirstSquawk] BRENT CRUDE OIL FUTURES RISE MORE THAN $4 TO SESSION HIGH OF $108.65/BBL. ON ESCALATING MIDEAST ATTACKS
-- 09/14 17:52 [FirstSquawk] BRAZIL PRES ELECTION POLL: LULA HAS 47%, FLAVIO IN 2ND ROUND: BTC PACTUAL/NEXUS
-- 09/14 17:52 [FirstSquawk] JAPAN AUGUST ALUMINIUM STOCKPILES RISE 23% M/M TO 246,600 MT
-- 09/14 17:55 [DeItaone] CHINA SLAMS U.S. CALLS TO SLOW AI RACE China’s state-backed Global Times accused Anthropic CEO Dario Amodei of using AI safety concerns to restrict China’s technological rise. Amodei called for slower frontier AI development and tighter U.S…
-- 09/14 17:56 [DeItaone] SPOT GOLD FALLS NEARLY 1% TO $4,306.19/OZ
 - 09/14 18:02 [FirstSquawk] CHINA JAN.-AUG. AGGREGATE FINANCING CNY23.91T; EST. CNY24.372T
 - 09/14 18:02 [FirstSquawk] CHINA JAN.-AUG. NEW YUAN LOANS CNY10.44T; EST. CNY10.784T
 - 09/14 18:02 [FirstSquawk] VENEZUELA TO JOIN G20 ENERGY SUMMIT AS US AIMS FOR MORE DEALS
@@ -218,3 +212,14 @@
 - 09/14 23:31 [FirstSquawk] FAA NEEDS MORE FUNDING FROM CONGRESS TO COMPLETE PHASE 1 OF $10.6 BLN AIR TRAFFIC CONTROL REFORM PLAN – RTRS CITING GOVT REPORT
 - 09/14 23:37 [financialjuice] Yemen's Foreign Ministry: Maritime shipping is safe, but Saudi Arabia gravely mistaken if it believes it stays secure after 300 air strikes in past five days - IRIB News
 - 09/14 23:37 [FirstSquawk] JOLIET REFINERY HIT BY TOTAL POWER OUTAGE — 275K BPD CAPACITY AT RISK, FUEL MARKETS UNDER PRESSURE $XOM
+- 09/14 23:44 [financialjuice] OpenAI backs binding UK AI legislation - Politico
+- 09/14 23:45 [FirstSquawk] OPENAI SUPPORTS COMPULSORY AI LAWS IN THE UK.
+- 09/14 23:45 [FirstSquawk] YEMEN'S FOREIGN MINISTRY SAYS MARITIME SHIPPING IS SAFE, BUT SAUDI ARABIA IS MAKING A SERIOUS ERROR IF IT THINKS IT REMAINS SAFE AFTER 300 AIR STRIKES IN JUST FIVE DAYS.
+- 09/14 23:46 [financialjuice] EU looking to limit social media and chatbots for kids under 15.
+- 09/14 23:51 [DeItaone] U.S. 10-YEAR YIELD BREAKS 5% The 10-year Treasury yield climbed above 5%, its highest since October 2023, as oil-driven inflation fears fuel expectations of higher-for-longer Fed policy. Heavy debt issuance and concerns over U.S. deficits a…
+- 09/14 23:52 [financialjuice] UK Business Secretary Reynolds: UK can't support Speciality Steel on proposed terms
+- 09/14 23:53 [DeItaone] SENIOR SUNNI MUSLIM CLERIC SHOT DEAD BY UNIDENTIFIED GUNMEN IN SOUTHEAST IRAN - IRANIAN MEDIA
+- 09/14 23:53 [financialjuice] Israeli Prime Minister Netanyahu warns Hezbollah against further attacks - Israel's Channel 12
+- 09/14 23:54 [FirstSquawk] EU PLANS TO RESTRICT SOCIAL MEDIA AND CHATBOTS FOR CHILDREN UNDER 15 YEARS OLD.
+- 09/14 23:54 [FirstSquawk] UK BUSINESS SECRETARY REYNOLDS SAYS THE UK CANNOT SUPPORT SPECIALTY STEEL UNDER THE CURRENT TERMS AND PLANS TO CREATE A PROPOSAL FOR PUBLIC ACQUISITION.
+- 09/14 23:54 [financialjuice] Israeli Prime Minister Netanyahu: Hezbollah will suffer heavier blows if it attacks again - Israel's Channel 12

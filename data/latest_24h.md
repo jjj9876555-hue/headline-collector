@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 23:38 JST／対象: 09/13 23:38 〜 09/14 23:38 JST（時刻はすべて日本時間）
+生成: 2026-09-14 23:57 JST／対象: 09/13 23:57 〜 09/14 23:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 09/14 01:15 | 09/14 23:26 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 316 | 09/14 00:06 | 09/14 23:37 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 177 | 09/14 00:11 | 09/14 23:37 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 46 | 09/14 01:15 | 09/14 23:53 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 320 | 09/14 00:06 | 09/14 23:54 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 182 | 09/14 00:11 | 09/14 23:54 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 521 行（統合前 539 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 532 行（統合前 551 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -545,3 +545,14 @@
 - 09/14 23:31 [FirstSquawk] FAA NEEDS MORE FUNDING FROM CONGRESS TO COMPLETE PHASE 1 OF $10.6 BLN AIR TRAFFIC CONTROL REFORM PLAN – RTRS CITING GOVT REPORT
 - 09/14 23:37 [financialjuice] Yemen's Foreign Ministry: Maritime shipping is safe, but Saudi Arabia gravely mistaken if it believes it stays secure after 300 air strikes in past five days - IRIB News
 - 09/14 23:37 [FirstSquawk] JOLIET REFINERY HIT BY TOTAL POWER OUTAGE — 275K BPD CAPACITY AT RISK, FUEL MARKETS UNDER PRESSURE $XOM
+- 09/14 23:44 [financialjuice] OpenAI backs binding UK AI legislation - Politico
+- 09/14 23:45 [FirstSquawk] OPENAI SUPPORTS COMPULSORY AI LAWS IN THE UK.
+- 09/14 23:45 [FirstSquawk] YEMEN'S FOREIGN MINISTRY SAYS MARITIME SHIPPING IS SAFE, BUT SAUDI ARABIA IS MAKING A SERIOUS ERROR IF IT THINKS IT REMAINS SAFE AFTER 300 AIR STRIKES IN JUST FIVE DAYS.
+- 09/14 23:46 [financialjuice] EU looking to limit social media and chatbots for kids under 15.
+- 09/14 23:51 [DeItaone] U.S. 10-YEAR YIELD BREAKS 5% The 10-year Treasury yield climbed above 5%, its highest since October 2023, as oil-driven inflation fears fuel expectations of higher-for-longer Fed policy. Heavy debt issuance and concerns over U.S. deficits a…
+- 09/14 23:52 [financialjuice] UK Business Secretary Reynolds: UK can't support Speciality Steel on proposed terms
+- 09/14 23:53 [DeItaone] SENIOR SUNNI MUSLIM CLERIC SHOT DEAD BY UNIDENTIFIED GUNMEN IN SOUTHEAST IRAN - IRANIAN MEDIA
+- 09/14 23:53 [financialjuice] Israeli Prime Minister Netanyahu warns Hezbollah against further attacks - Israel's Channel 12
+- 09/14 23:54 [FirstSquawk] EU PLANS TO RESTRICT SOCIAL MEDIA AND CHATBOTS FOR CHILDREN UNDER 15 YEARS OLD.
+- 09/14 23:54 [FirstSquawk] UK BUSINESS SECRETARY REYNOLDS SAYS THE UK CANNOT SUPPORT SPECIALTY STEEL UNDER THE CURRENT TERMS AND PLANS TO CREATE A PROPOSAL FOR PUBLIC ACQUISITION.
+- 09/14 23:54 [financialjuice] Israeli Prime Minister Netanyahu: Hezbollah will suffer heavier blows if it attacks again - Israel's Channel 12
