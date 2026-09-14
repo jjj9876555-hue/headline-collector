@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 23:21 JST／対象: 09/14 11:21 〜 09/14 23:21 JST（時刻はすべて日本時間）
+生成: 2026-09-14 23:38 JST／対象: 09/14 11:38 〜 09/14 23:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 09/14 16:28 | 09/14 23:20 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 182 | 09/14 11:24 | 09/14 23:20 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 114 | 09/14 11:31 | 09/14 23:18 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 35 | 09/14 16:28 | 09/14 23:26 | ⚠ 53分（18:30→19:24） |
+| FirstSquawk | 183 | 09/14 11:44 | 09/14 23:37 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 116 | 09/14 11:51 | 09/14 23:37 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 318 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 320 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 11:24 [FirstSquawk] Iran says a commercial vessel was struck in the Strait of Hormuz, adding fresh tension to one of the world’s most critical energy shipping routes.
-- 09/14 11:31 [financialjuice] Strait of Hormuz commodity vessel crossings drop to single digits per day over weekend, under 10-day average near 14, data shows
-- 09/14 11:32 [financialjuice] Japan chief cabinet secretary Kihara: will finalize budget while properly managing bond issuance amount
-- 09/14 11:32 [FirstSquawk] Commodity vessel traffic through the Strait of Hormuz fell to single digits per day over the weekend, below the 10-day average of around 14 crossings, data shows.
-- 09/14 11:32 [FirstSquawk] Japan’s Chief Cabinet Secretary Kihara says the government will finalize the budget while carefully managing the amount of new bond issuance.
-- 09/14 11:34 [FirstSquawk] Australian luxury bootmaker R.M.Williams is turning its attention to Japan, marking the next step in the brand’s international expansion.
 - 09/14 11:44 [FirstSquawk] Commodity vessel crossings through the Strait of Hormuz dropped to single digits per day over the weekend, well below the 10-day average of roughly 14, according to data.
 - 09/14 11:45 [FirstSquawk] Brent crude jumps to $107 as Oman postpones an Iran meeting and Saudi Arabia shuts a key pipeline following an attack. Meanwhile, Nasdaq futures slide amid renewed jitters over AI valuations, Benzinga reports.
 - 09/14 11:50 [FirstSquawk] Long-term Japanese government bond yields move higher as markets strengthen expectations for further BOJ interest-rate increases, according to the Wall Street Journal.
@@ -342,3 +336,11 @@
 - 09/14 23:19 [DeItaone] US 10-YEAR TREASURY YIELD REACHES 5% FOR FIRST TIME SINCE 2023
 - 09/14 23:20 [FirstSquawk] ANTHROPIC REMAINS ON TRACK FOR 2026 IPO
 - 09/14 23:20 [DeItaone] ANTHROPIC STILL EYES 2026 IPO Anthropic is still likely to go public in 2026, despite growing debate over AI safety and regulation, Axios reports. The Claude maker reportedly views public-market transparency as potentially strengthening its…
+- 09/14 23:22 [financialjuice] ❗ Traders fully price four quarter-point ECB hikes by end of 2027.
+- 09/14 23:22 [FirstSquawk] TEN-YEAR TREASURY YIELD HITS 5% FOR FIRST TIME SINCE 2023.
+- 09/14 23:22 [FirstSquawk] TRADERS ANTICIPATE FOUR 0.25% INTEREST RATE INCREASES BY THE EUROPEAN CENTRAL BANK BY THE END OF 2027.
+- 09/14 23:22 [financialjuice] Anthropic IPO won't be slowed by safety uproar - Axios
+- 09/14 23:26 [FirstSquawk/DeItaone/financialjuice] TRADERS FULLY PRICE FIVE QUARTER-POINT BOE HIKES BY END OF 2027
+- 09/14 23:31 [FirstSquawk] FAA NEEDS MORE FUNDING FROM CONGRESS TO COMPLETE PHASE 1 OF $10.6 BLN AIR TRAFFIC CONTROL REFORM PLAN – RTRS CITING GOVT REPORT
+- 09/14 23:37 [financialjuice] Yemen's Foreign Ministry: Maritime shipping is safe, but Saudi Arabia gravely mistaken if it believes it stays secure after 300 air strikes in past five days - IRIB News
+- 09/14 23:37 [FirstSquawk] JOLIET REFINERY HIT BY TOTAL POWER OUTAGE — 275K BPD CAPACITY AT RISK, FUEL MARKETS UNDER PRESSURE $XOM

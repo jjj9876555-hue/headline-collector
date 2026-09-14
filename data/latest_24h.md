@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 23:21 JST／対象: 09/13 23:21 〜 09/14 23:21 JST（時刻はすべて日本時間）
+生成: 2026-09-14 23:38 JST／対象: 09/13 23:38 〜 09/14 23:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 09/14 01:15 | 09/14 23:20 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 313 | 09/13 23:27 | 09/14 23:20 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 173 | 09/14 00:11 | 09/14 23:18 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 44 | 09/14 01:15 | 09/14 23:26 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 316 | 09/14 00:06 | 09/14 23:37 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 177 | 09/14 00:11 | 09/14 23:37 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 515 行（統合前 530 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 521 行（統合前 539 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The security of the Arabian Gulf will not be stable without respecting the sovereignty and independence of its states and refraining from interfering in their affairs.
-- 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The Kingdom's security is inviolable, and the GCC states will not accept any targeting of their territories.
 - 09/14 00:06 [FirstSquawk] Jerusalem Governorate: 593 settlers stormed Al-Aqsa Mosque during the morning and evening incursions under the protection of the occupation forces.
 - 09/14 00:11 [financialjuice] Emergency alert issued in Saudi Arabia's Khamis Mushait and Abha: Saudi civil defence warns of potential risk
 - 09/14 00:17 [financialjuice] Danger has passed in Saudi Arabia's Khamis Mushait: Saudi civil defence
@@ -539,3 +537,11 @@
 - 09/14 23:19 [DeItaone] US 10-YEAR TREASURY YIELD REACHES 5% FOR FIRST TIME SINCE 2023
 - 09/14 23:20 [FirstSquawk] ANTHROPIC REMAINS ON TRACK FOR 2026 IPO
 - 09/14 23:20 [DeItaone] ANTHROPIC STILL EYES 2026 IPO Anthropic is still likely to go public in 2026, despite growing debate over AI safety and regulation, Axios reports. The Claude maker reportedly views public-market transparency as potentially strengthening its…
+- 09/14 23:22 [financialjuice] ❗ Traders fully price four quarter-point ECB hikes by end of 2027.
+- 09/14 23:22 [FirstSquawk] TEN-YEAR TREASURY YIELD HITS 5% FOR FIRST TIME SINCE 2023.
+- 09/14 23:22 [FirstSquawk] TRADERS ANTICIPATE FOUR 0.25% INTEREST RATE INCREASES BY THE EUROPEAN CENTRAL BANK BY THE END OF 2027.
+- 09/14 23:22 [financialjuice] Anthropic IPO won't be slowed by safety uproar - Axios
+- 09/14 23:26 [FirstSquawk/DeItaone/financialjuice] TRADERS FULLY PRICE FIVE QUARTER-POINT BOE HIKES BY END OF 2027
+- 09/14 23:31 [FirstSquawk] FAA NEEDS MORE FUNDING FROM CONGRESS TO COMPLETE PHASE 1 OF $10.6 BLN AIR TRAFFIC CONTROL REFORM PLAN – RTRS CITING GOVT REPORT
+- 09/14 23:37 [financialjuice] Yemen's Foreign Ministry: Maritime shipping is safe, but Saudi Arabia gravely mistaken if it believes it stays secure after 300 air strikes in past five days - IRIB News
+- 09/14 23:37 [FirstSquawk] JOLIET REFINERY HIT BY TOTAL POWER OUTAGE — 275K BPD CAPACITY AT RISK, FUEL MARKETS UNDER PRESSURE $XOM

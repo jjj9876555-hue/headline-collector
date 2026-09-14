@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 23:21 JST／対象: 09/14 17:21 〜 09/14 23:21 JST（時刻はすべて日本時間）
+生成: 2026-09-14 23:38 JST／対象: 09/14 17:38 〜 09/14 23:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 09/14 17:49 | 09/14 23:20 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 94 | 09/14 17:26 | 09/14 23:20 | 18分（20:12→20:31） |
-| financialjuice | 75 | 09/14 18:10 | 09/14 23:18 | 28分（20:02→20:30） |
+| DeItaone | 33 | 09/14 17:49 | 09/14 23:26 | ⚠ 53分（18:30→19:24） |
+| FirstSquawk | 95 | 09/14 17:52 | 09/14 23:37 | 18分（20:12→20:31） |
+| financialjuice | 79 | 09/14 18:10 | 09/14 23:37 | 28分（20:02→20:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 190 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 194 行（統合前 209 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 17:26 [FirstSquawk] EXXONMOBIL EXEC: A LOT OF LATENT DEMAND GOING TO ABSORB ADDITIONAL LNG VOLUMES AS ECONOMICS IMPROVE
-- 09/14 17:31 [FirstSquawk] SAUDI CIVIL DEFENCE ALERTS OF POTENTIAL DANGER IN KHAMIS MUSHAIT AND ABHA AREAS - STATE TV
-- 09/14 17:33 [FirstSquawk] INDONESIA APPOINTS NAZARA AS NEW FINANCE MINISTER, TAKING OVER FROM PURBAYA.
-- 09/14 17:35 [FirstSquawk] SAUDI CIVIL DEFENCE: DANGER HAS PASSED - STATE TV
 - 09/14 17:49 [DeItaone] GOLDMAN, JPMORGAN NOW EXPECT FED TO HIKE THIS WEEK Goldman Sachs and JPMorgan have shifted to expecting a 25 bp Fed hike at the September meeting after hotter August inflation and the renewed oil surge. Markets are pricing roughly an 87% pr…
 - 09/14 17:52 [FirstSquawk] BRENT CRUDE OIL FUTURES RISE MORE THAN $4 TO SESSION HIGH OF $108.65/BBL. ON ESCALATING MIDEAST ATTACKS
 - 09/14 17:52 [FirstSquawk] BRAZIL PRES ELECTION POLL: LULA HAS 47%, FLAVIO IN 2ND ROUND: BTC PACTUAL/NEXUS
@@ -214,3 +210,11 @@
 - 09/14 23:19 [DeItaone] US 10-YEAR TREASURY YIELD REACHES 5% FOR FIRST TIME SINCE 2023
 - 09/14 23:20 [FirstSquawk] ANTHROPIC REMAINS ON TRACK FOR 2026 IPO
 - 09/14 23:20 [DeItaone] ANTHROPIC STILL EYES 2026 IPO Anthropic is still likely to go public in 2026, despite growing debate over AI safety and regulation, Axios reports. The Claude maker reportedly views public-market transparency as potentially strengthening its…
+- 09/14 23:22 [financialjuice] ❗ Traders fully price four quarter-point ECB hikes by end of 2027.
+- 09/14 23:22 [FirstSquawk] TEN-YEAR TREASURY YIELD HITS 5% FOR FIRST TIME SINCE 2023.
+- 09/14 23:22 [FirstSquawk] TRADERS ANTICIPATE FOUR 0.25% INTEREST RATE INCREASES BY THE EUROPEAN CENTRAL BANK BY THE END OF 2027.
+- 09/14 23:22 [financialjuice] Anthropic IPO won't be slowed by safety uproar - Axios
+- 09/14 23:26 [FirstSquawk/DeItaone/financialjuice] TRADERS FULLY PRICE FIVE QUARTER-POINT BOE HIKES BY END OF 2027
+- 09/14 23:31 [FirstSquawk] FAA NEEDS MORE FUNDING FROM CONGRESS TO COMPLETE PHASE 1 OF $10.6 BLN AIR TRAFFIC CONTROL REFORM PLAN – RTRS CITING GOVT REPORT
+- 09/14 23:37 [financialjuice] Yemen's Foreign Ministry: Maritime shipping is safe, but Saudi Arabia gravely mistaken if it believes it stays secure after 300 air strikes in past five days - IRIB News
+- 09/14 23:37 [FirstSquawk] JOLIET REFINERY HIT BY TOTAL POWER OUTAGE — 275K BPD CAPACITY AT RISK, FUEL MARKETS UNDER PRESSURE $XOM
