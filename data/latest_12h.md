@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 19:53 JST／対象: 09/14 07:53 〜 09/14 19:53 JST（時刻はすべて日本時間）
+生成: 2026-09-14 20:07 JST／対象: 09/14 08:07 〜 09/14 20:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/14 08:03 | 09/14 19:47 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 185 | 09/14 07:53 | 09/14 19:47 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 68 | 09/14 08:25 | 09/14 19:37 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 17 | 09/14 16:28 | 09/14 20:05 | ⚠ 53分（18:30→19:24） |
+| FirstSquawk | 188 | 09/14 08:31 | 09/14 20:05 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 70 | 09/14 08:25 | 09/14 20:02 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 263 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 271 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 07:53 [FirstSquawk] TRUMP SAYS THE U.S. SHOULD HAVE THE LOWEST INTEREST RATE IN THE WORLD, EVEN AS HOTTER-THAN-EXPECTED AUGUST INFLATION PUSHES MARKETS TO PRICE AN 86% CHANCE OF A SEPTEMBER FED RATE HIKE. HIGHER ENERGY COSTS FROM THE IRAN WAR AND TRUMP’S TARIF…
-- 09/14 08:03 [DeItaone] OIL SURGES AS MIDDLE EAST STRIKES HIT SUPPLY FEARS Oil prices jumped more than $3 after fresh strikes in Saudi Arabia and near the Strait of Hormuz heightened supply concerns. Brent rose 3.5% to $108.23, while WTI climbed 3.2% to $103.20. W…
 - 09/14 08:25 [financialjuice] US EPA set to repeal carbon limits for coal, gas power plants
 - 09/14 08:28 [financialjuice] Early warning issued in Khamis Mushait to signal possible threat: Saudi civil defense
 - 09/14 08:30 [financialjuice] Early warning issued in Abha to alert of possible danger: Saudi civil defense
@@ -287,3 +285,13 @@
 - 09/14 19:46 [DeItaone/FirstSquawk] U.S. ENERGY SECRETARY WRIGHT: THERE ARE NO PLANS FOR URANIUM ENRICHMENT IN SAUDI ARABIA
 - 09/14 19:47 [DeItaone] *KIOXIA IS SAID TO CONSIDER RAISING $10 BILLION IN US LISTING
 - 09/14 19:47 [FirstSquawk] KIOXIA PLANS TO RAISE $10 BILLION THROUGH A US STOCK LISTING.
+- 09/14 19:54 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: SOME POLITICAL REPRESENTATIVES IN GERMANY ARE QUESTIONING THE EXTENT OF OUR DEFENCE EXPENDITURE, INCLUDING FOR UKRAINE, BUT THEY ARE NOT THE MAJORITY
+- 09/14 19:56 [DeItaone] VIENNA- U.S. ENERGY SEC WRIGHT: TREND IN 7-DAY ROLLING AVERAGE OF OIL SHIPMENTS THROUGH HORMUZ IS RISING AND WILL CONTINUE TO RISE
+- 09/14 20:00 [FirstSquawk] Boeing Exec: Progress Has Been Made In The Supply Of Engines For 787 Series From Ge Aerospace
+- 09/14 20:01 [FirstSquawk] US ENERGY SEC WRIGHT: TREND IN 7-DAY ROLLING AVERAGE OF OIL SHIPMENTS THROUGH HORMUZ IS RISING AND WILL CONTINUE TO RISE
+- 09/14 20:01 [DeItaone] AI MARKET MOMENTUM HAS BEGUN TO SHOW GROWING SIGNS OF VULNERABILITY, BANK FOR INTERNATIONAL SETTLEMENTS SAYS
+- 09/14 20:01 [financialjuice] US Energy Secretary Wright: Oil refining capacity 'too tight right now'
+- 09/14 20:02 [financialjuice] US Energy Secretary Wright: No plans at all for enrichment in Saudi Arabia
+- 09/14 20:02 [DeItaone] BIS SEES NO SIGNS OF STRESS IN MARKETS OVERALL, RISK APPETITE HAS REMAINED 'REMARKABLY RESILIENT'
+- 09/14 20:05 [FirstSquawk] GERMANY PLANS TO ADVOCATE FOR A NEW CHINA POLICY WITH THE EU AND MAY PURSUE INCREASED TARIFFS.
+- 09/14 20:05 [DeItaone] *GERMANY TO LOBBY EU ON NEW CHINA POLICY, MAY SEEK MORE TARIFFS

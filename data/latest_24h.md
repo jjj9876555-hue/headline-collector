@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 19:53 JST／対象: 09/13 19:53 〜 09/14 19:53 JST（時刻はすべて日本時間）
+生成: 2026-09-14 20:07 JST／対象: 09/13 20:07 〜 09/14 20:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 09/13 20:35 | 09/14 19:47 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 279 | 09/13 20:10 | 09/14 19:47 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 126 | 09/13 19:54 | 09/14 19:37 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 40 | 09/13 20:35 | 09/14 20:05 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 283 | 09/13 20:10 | 09/14 20:05 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 127 | 09/13 21:00 | 09/14 20:02 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 434 行（統合前 441 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 443 行（統合前 450 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 19:54 [financialjuice] Lithuanian national crisis management centre: possible drone alert has ended
 - 09/13 20:10 [FirstSquawk] Lithuania closes Vilnius airport and NATO sends fighter jets after possible drone sighting in Lithuanian airspace
 - 09/13 20:10 [FirstSquawk] Israeli artillery shelling targets the vicinity of the town of Beit Jinn, southwest of Damascus countryside.
 - 09/13 20:35 [DeItaone] CANADA EXPLORES “ASSOCIATE MEMBERSHIP” WITH EU Canadian Prime Minister Mark Carney is exploring closer integration with the EU, including a potential new “associate member” status, the Wall Street Journal reports. Canada and the EU are repo…
@@ -458,3 +457,13 @@
 - 09/14 19:46 [DeItaone/FirstSquawk] U.S. ENERGY SECRETARY WRIGHT: THERE ARE NO PLANS FOR URANIUM ENRICHMENT IN SAUDI ARABIA
 - 09/14 19:47 [DeItaone] *KIOXIA IS SAID TO CONSIDER RAISING $10 BILLION IN US LISTING
 - 09/14 19:47 [FirstSquawk] KIOXIA PLANS TO RAISE $10 BILLION THROUGH A US STOCK LISTING.
+- 09/14 19:54 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: SOME POLITICAL REPRESENTATIVES IN GERMANY ARE QUESTIONING THE EXTENT OF OUR DEFENCE EXPENDITURE, INCLUDING FOR UKRAINE, BUT THEY ARE NOT THE MAJORITY
+- 09/14 19:56 [DeItaone] VIENNA- U.S. ENERGY SEC WRIGHT: TREND IN 7-DAY ROLLING AVERAGE OF OIL SHIPMENTS THROUGH HORMUZ IS RISING AND WILL CONTINUE TO RISE
+- 09/14 20:00 [FirstSquawk] Boeing Exec: Progress Has Been Made In The Supply Of Engines For 787 Series From Ge Aerospace
+- 09/14 20:01 [FirstSquawk] US ENERGY SEC WRIGHT: TREND IN 7-DAY ROLLING AVERAGE OF OIL SHIPMENTS THROUGH HORMUZ IS RISING AND WILL CONTINUE TO RISE
+- 09/14 20:01 [DeItaone] AI MARKET MOMENTUM HAS BEGUN TO SHOW GROWING SIGNS OF VULNERABILITY, BANK FOR INTERNATIONAL SETTLEMENTS SAYS
+- 09/14 20:01 [financialjuice] US Energy Secretary Wright: Oil refining capacity 'too tight right now'
+- 09/14 20:02 [financialjuice] US Energy Secretary Wright: No plans at all for enrichment in Saudi Arabia
+- 09/14 20:02 [DeItaone] BIS SEES NO SIGNS OF STRESS IN MARKETS OVERALL, RISK APPETITE HAS REMAINED 'REMARKABLY RESILIENT'
+- 09/14 20:05 [FirstSquawk] GERMANY PLANS TO ADVOCATE FOR A NEW CHINA POLICY WITH THE EU AND MAY PURSUE INCREASED TARIFFS.
+- 09/14 20:05 [DeItaone] *GERMANY TO LOBBY EU ON NEW CHINA POLICY, MAY SEEK MORE TARIFFS

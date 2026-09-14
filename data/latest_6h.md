@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 19:53 JST／対象: 09/14 13:53 〜 09/14 19:53 JST（時刻はすべて日本時間）
+生成: 2026-09-14 20:07 JST／対象: 09/14 14:07 〜 09/14 20:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/14 16:28 | 09/14 19:47 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 86 | 09/14 13:53 | 09/14 19:47 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 45 | 09/14 14:07 | 09/14 19:37 | ⚠ 53分（17:16→18:10） |
+| DeItaone | 17 | 09/14 16:28 | 09/14 20:05 | ⚠ 53分（18:30→19:24） |
+| FirstSquawk | 83 | 09/14 14:10 | 09/14 20:05 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 47 | 09/14 14:07 | 09/14 20:02 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 140 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 13:53 [FirstSquawk] The UK’s expanded ban on advertising ‘less healthy’ foods could put up to £1 billion of media spending at risk, according to the Financial Times.
-- 09/14 13:54 [FirstSquawk] The UK faces a £258 billion infrastructure spending shortfall, according to a Financial Times report, highlighting the scale of investment needed to upgrade the country’s infrastructure.
-- 09/14 13:54 [FirstSquawk] The music industry is stepping up its crackdown on AI-generated songs, targeting their use in streaming fraud and efforts to manipulate royalty payouts, according to the Financial Times.
-- 09/14 13:55 [FirstSquawk] A surge in oil prices is reviving expectations of a Bank of England rate hike this year, as higher energy costs threaten to keep inflation elevated, according to the Financial Times.
-- 09/14 13:55 [FirstSquawk] Europe’s growing defence spending is testing its appetite for US investment, as major arms deals raise questions over how much European security spending will flow toward American companies, according to the Financial Times.
-- 09/14 14:02 [FirstSquawk] FINLAND (AUG) CPI YOY ACTUAL: 2.2% VS 2.1% PREVIOUS
-- 09/14 14:02 [FirstSquawk] FINLAND (AUG) CPI MOM ACTUAL: -0.2% VS 0.2% PREVIOUS
 - 09/14 14:07 [financialjuice] PBoC: will allow currency swap and yuan settlement to play their parts
 - 09/14 14:07 [financialjuice] PBoC holds 2025 macroprudential work conference
 - 09/14 14:07 [financialjuice] PBoC: will support real estate market to halt decline and stabilize
@@ -164,3 +157,13 @@
 - 09/14 19:46 [DeItaone/FirstSquawk] U.S. ENERGY SECRETARY WRIGHT: THERE ARE NO PLANS FOR URANIUM ENRICHMENT IN SAUDI ARABIA
 - 09/14 19:47 [DeItaone] *KIOXIA IS SAID TO CONSIDER RAISING $10 BILLION IN US LISTING
 - 09/14 19:47 [FirstSquawk] KIOXIA PLANS TO RAISE $10 BILLION THROUGH A US STOCK LISTING.
+- 09/14 19:54 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: SOME POLITICAL REPRESENTATIVES IN GERMANY ARE QUESTIONING THE EXTENT OF OUR DEFENCE EXPENDITURE, INCLUDING FOR UKRAINE, BUT THEY ARE NOT THE MAJORITY
+- 09/14 19:56 [DeItaone] VIENNA- U.S. ENERGY SEC WRIGHT: TREND IN 7-DAY ROLLING AVERAGE OF OIL SHIPMENTS THROUGH HORMUZ IS RISING AND WILL CONTINUE TO RISE
+- 09/14 20:00 [FirstSquawk] Boeing Exec: Progress Has Been Made In The Supply Of Engines For 787 Series From Ge Aerospace
+- 09/14 20:01 [FirstSquawk] US ENERGY SEC WRIGHT: TREND IN 7-DAY ROLLING AVERAGE OF OIL SHIPMENTS THROUGH HORMUZ IS RISING AND WILL CONTINUE TO RISE
+- 09/14 20:01 [DeItaone] AI MARKET MOMENTUM HAS BEGUN TO SHOW GROWING SIGNS OF VULNERABILITY, BANK FOR INTERNATIONAL SETTLEMENTS SAYS
+- 09/14 20:01 [financialjuice] US Energy Secretary Wright: Oil refining capacity 'too tight right now'
+- 09/14 20:02 [financialjuice] US Energy Secretary Wright: No plans at all for enrichment in Saudi Arabia
+- 09/14 20:02 [DeItaone] BIS SEES NO SIGNS OF STRESS IN MARKETS OVERALL, RISK APPETITE HAS REMAINED 'REMARKABLY RESILIENT'
+- 09/14 20:05 [FirstSquawk] GERMANY PLANS TO ADVOCATE FOR A NEW CHINA POLICY WITH THE EU AND MAY PURSUE INCREASED TARIFFS.
+- 09/14 20:05 [DeItaone] *GERMANY TO LOBBY EU ON NEW CHINA POLICY, MAY SEEK MORE TARIFFS
