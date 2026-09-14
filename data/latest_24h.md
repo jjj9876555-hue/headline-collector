@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 14:06 JST／対象: 09/13 14:06 〜 09/14 14:06 JST（時刻はすべて日本時間）
+生成: 2026-09-14 14:24 JST／対象: 09/13 14:24 〜 09/14 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 278 | 09/13 14:08 | 09/14 14:02 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 94 | 09/13 14:08 | 09/14 12:52 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 276 | 09/13 14:32 | 09/14 14:18 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 108 | 09/13 15:51 | 09/14 14:08 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 391 行（統合前 397 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 403 行（統合前 409 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 14:08 [FirstSquawk] North Korean state media once again makes no mention of the country’s latest missile launches. The silence comes as Pyongyang continues its weapons activity, leaving state media’s lack of coverage notable.
-- 09/13 14:08 [financialjuice] South Korea government wins final ruling in 260 billion won Chinese investor arbitration case - media
-- 09/13 14:08 [FirstSquawk] South Korea prevails in a 260 billion won arbitration dispute involving a Chinese investor, according to media reports. The final ruling delivers a major legal win for Seoul and removes a potentially significant financial liability.
-- 09/13 14:15 [FirstSquawk] Trump forecasts an end to the Iran conflict following the midterm elections, saying oil prices would fall significantly once the war ends - CNBC
-- 09/13 14:21 [FirstSquawk] Equinix confronts challenges surrounding its South African hyperscale data-centre project. The dispute highlights rising regulatory and operational risks for global data-centre operators.
 - 09/13 14:32 [FirstSquawk] Burnham pushes back against calls to overhaul the student loan system ahead of the Budget. The stance could put proposed changes to student financing under renewed political scrutiny as the government prepares its fiscal plans.
 - 09/13 14:34 [FirstSquawk] Trump administration moves forward with a proposed $100,000 fee for international graduates seeking to work in the US under OPT. The proposal could significantly raise the cost of post-study employment for foreign students and reshape the U…
 - 09/13 14:38 [FirstSquawk] US government debt climbs to $40 trillion as Washington’s borrowing accelerates at a historic pace as per FT The milestone puts America’s rapidly expanding debt burden back in focus, raising fresh questions over the long-term fiscal outlook…
@@ -415,3 +410,20 @@
 - 09/14 13:55 [FirstSquawk] Europe’s growing defence spending is testing its appetite for US investment, as major arms deals raise questions over how much European security spending will flow toward American companies, according to the Financial Times.
 - 09/14 14:02 [FirstSquawk] FINLAND (AUG) CPI YOY ACTUAL: 2.2% VS 2.1% PREVIOUS
 - 09/14 14:02 [FirstSquawk] FINLAND (AUG) CPI MOM ACTUAL: -0.2% VS 0.2% PREVIOUS
+- 09/14 14:07 [financialjuice] PBoC: will allow currency swap and yuan settlement to play their parts
+- 09/14 14:07 [financialjuice] PBoC holds 2025 macroprudential work conference
+- 09/14 14:07 [financialjuice] PBoC: will support real estate market to halt decline and stabilize
+- 09/14 14:07 [financialjuice] PBoC: to intensify review of macroeconomic and financial efforts
+- 09/14 14:07 [financialjuice] PBoC: will prioritize real economy and financial services for the public
+- 09/14 14:07 [financialjuice] Prime Minister Mitsotakis speaks in interview
+- 09/14 14:07 [financialjuice] China TQ to Use Green Bond Proceeds for Financing Green Spending
+- 09/14 14:07 [financialjuice] PBoC: plans to expand yuan offshore market
+- 09/14 14:07 [financialjuice] China Citic Bank: Liu Cheng steps down as president
+- 09/14 14:07 [financialjuice] PBoC: to consider expanding central bank's macroprudential and financial stability roles
+- 09/14 14:07 [financialjuice] PBoC: to innovate macroprudential policy tools and support steady economic recovery and growth
+- 09/14 14:07 [financialjuice] PBoC: back building a new model for real estate development
+- 09/14 14:07 [financialjuice] China unveils sovereign framework for green bonds
+- 09/14 14:07 [financialjuice] PBoC: to boost cross-border yuan usage
+- 09/14 14:08 [financialjuice] JAPANESE CAPACITY UTILIZATION MOM ACTUAL 0.5% (FORECAST -, PREVIOUS 4.1%) $MACRO
+- 09/14 14:10 [FirstSquawk] Japan is considering tighter regulations on regenerative medicine treatments as their use expands, raising concerns over safety and oversight, according to Kyodo News.
+- 09/14 14:18 [FirstSquawk] EUR/USD falls to a four-week low as stronger expectations for a hawkish Fed boost the dollar and weigh on the euro, according to FX

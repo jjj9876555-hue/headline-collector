@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 14:06 JST／対象: 09/14 02:06 〜 09/14 14:06 JST（時刻はすべて日本時間）
+生成: 2026-09-14 14:24 JST／対象: 09/14 02:24 〜 09/14 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/14 02:20 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 152 | 09/14 03:29 | 09/14 14:02 | 43分（03:41→04:25） |
-| financialjuice | 63 | 09/14 02:46 | 09/14 12:52 | ⚠ 52分（04:46→05:39） |
+| DeItaone | 5 | 09/14 02:47 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
+| FirstSquawk | 154 | 09/14 03:29 | 09/14 14:18 | 43分（03:41→04:25） |
+| financialjuice | 78 | 09/14 02:46 | 09/14 14:08 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 219 行（統合前 221 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 235 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 02:20 [DeItaone] U.S. WARNS AGAINST HORMUZ DEAL OPTIMISM U.S. Energy Secretary Chris Wright warned traders against expecting a quick Strait of Hormuz breakthrough with Iran. Alternative routes are supplying about 10 million barrels a day, keeping oil market…
 - 09/14 02:46 [financialjuice] Trump: lifting tariffs on Irish whiskey
 - 09/14 02:47 [DeItaone] TRUMP SAYS HE IS LIFTING TARFFS ON IRISH WHISKEY
 - 09/14 03:01 [financialjuice] Sweden's Social Democrats forecasted to secure 28.4% of votes in election vs 30.3% in 2022 - public broadcaster SVT exit poll
@@ -243,3 +242,20 @@
 - 09/14 13:55 [FirstSquawk] Europe’s growing defence spending is testing its appetite for US investment, as major arms deals raise questions over how much European security spending will flow toward American companies, according to the Financial Times.
 - 09/14 14:02 [FirstSquawk] FINLAND (AUG) CPI YOY ACTUAL: 2.2% VS 2.1% PREVIOUS
 - 09/14 14:02 [FirstSquawk] FINLAND (AUG) CPI MOM ACTUAL: -0.2% VS 0.2% PREVIOUS
+- 09/14 14:07 [financialjuice] PBoC: will allow currency swap and yuan settlement to play their parts
+- 09/14 14:07 [financialjuice] PBoC holds 2025 macroprudential work conference
+- 09/14 14:07 [financialjuice] PBoC: will support real estate market to halt decline and stabilize
+- 09/14 14:07 [financialjuice] PBoC: to intensify review of macroeconomic and financial efforts
+- 09/14 14:07 [financialjuice] PBoC: will prioritize real economy and financial services for the public
+- 09/14 14:07 [financialjuice] Prime Minister Mitsotakis speaks in interview
+- 09/14 14:07 [financialjuice] China TQ to Use Green Bond Proceeds for Financing Green Spending
+- 09/14 14:07 [financialjuice] PBoC: plans to expand yuan offshore market
+- 09/14 14:07 [financialjuice] China Citic Bank: Liu Cheng steps down as president
+- 09/14 14:07 [financialjuice] PBoC: to consider expanding central bank's macroprudential and financial stability roles
+- 09/14 14:07 [financialjuice] PBoC: to innovate macroprudential policy tools and support steady economic recovery and growth
+- 09/14 14:07 [financialjuice] PBoC: back building a new model for real estate development
+- 09/14 14:07 [financialjuice] China unveils sovereign framework for green bonds
+- 09/14 14:07 [financialjuice] PBoC: to boost cross-border yuan usage
+- 09/14 14:08 [financialjuice] JAPANESE CAPACITY UTILIZATION MOM ACTUAL 0.5% (FORECAST -, PREVIOUS 4.1%) $MACRO
+- 09/14 14:10 [FirstSquawk] Japan is considering tighter regulations on regenerative medicine treatments as their use expands, raising concerns over safety and oversight, according to Kyodo News.
+- 09/14 14:18 [FirstSquawk] EUR/USD falls to a four-week low as stronger expectations for a hawkish Fed boost the dollar and weigh on the euro, according to FX

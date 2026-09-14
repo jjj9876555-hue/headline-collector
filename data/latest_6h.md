@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 14:06 JST／対象: 09/14 08:06 〜 09/14 14:06 JST（時刻はすべて日本時間）
+生成: 2026-09-14 14:24 JST／対象: 09/14 08:24 〜 09/14 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 105 | 09/14 08:31 | 09/14 14:02 | 19分（08:50→09:10） |
-| financialjuice | 23 | 09/14 08:25 | 09/14 12:52 | ⚠ 50分（10:40→11:31） |
+| FirstSquawk | 107 | 09/14 08:31 | 09/14 14:18 | 19分（08:50→09:10） |
+| financialjuice | 38 | 09/14 08:25 | 09/14 14:08 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 128 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 145 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -152,3 +152,20 @@
 - 09/14 13:55 [FirstSquawk] Europe’s growing defence spending is testing its appetite for US investment, as major arms deals raise questions over how much European security spending will flow toward American companies, according to the Financial Times.
 - 09/14 14:02 [FirstSquawk] FINLAND (AUG) CPI YOY ACTUAL: 2.2% VS 2.1% PREVIOUS
 - 09/14 14:02 [FirstSquawk] FINLAND (AUG) CPI MOM ACTUAL: -0.2% VS 0.2% PREVIOUS
+- 09/14 14:07 [financialjuice] PBoC: will allow currency swap and yuan settlement to play their parts
+- 09/14 14:07 [financialjuice] PBoC holds 2025 macroprudential work conference
+- 09/14 14:07 [financialjuice] PBoC: will support real estate market to halt decline and stabilize
+- 09/14 14:07 [financialjuice] PBoC: to intensify review of macroeconomic and financial efforts
+- 09/14 14:07 [financialjuice] PBoC: will prioritize real economy and financial services for the public
+- 09/14 14:07 [financialjuice] Prime Minister Mitsotakis speaks in interview
+- 09/14 14:07 [financialjuice] China TQ to Use Green Bond Proceeds for Financing Green Spending
+- 09/14 14:07 [financialjuice] PBoC: plans to expand yuan offshore market
+- 09/14 14:07 [financialjuice] China Citic Bank: Liu Cheng steps down as president
+- 09/14 14:07 [financialjuice] PBoC: to consider expanding central bank's macroprudential and financial stability roles
+- 09/14 14:07 [financialjuice] PBoC: to innovate macroprudential policy tools and support steady economic recovery and growth
+- 09/14 14:07 [financialjuice] PBoC: back building a new model for real estate development
+- 09/14 14:07 [financialjuice] China unveils sovereign framework for green bonds
+- 09/14 14:07 [financialjuice] PBoC: to boost cross-border yuan usage
+- 09/14 14:08 [financialjuice] JAPANESE CAPACITY UTILIZATION MOM ACTUAL 0.5% (FORECAST -, PREVIOUS 4.1%) $MACRO
+- 09/14 14:10 [FirstSquawk] Japan is considering tighter regulations on regenerative medicine treatments as their use expands, raising concerns over safety and oversight, according to Kyodo News.
+- 09/14 14:18 [FirstSquawk] EUR/USD falls to a four-week low as stronger expectations for a hawkish Fed boost the dollar and weigh on the euro, according to FX
