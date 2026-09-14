@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 04:35 JST／対象: 09/14 22:35 〜 09/15 04:35 JST（時刻はすべて日本時間）
+生成: 2026-09-15 04:50 JST／対象: 09/14 22:50 〜 09/15 04:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/14 23:00 | 09/15 04:32 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 92 | 09/14 22:38 | 09/15 04:22 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 106 | 09/14 22:39 | 09/15 04:26 | 23分（02:54→03:17） |
+| FirstSquawk | 88 | 09/14 22:54 | 09/15 04:45 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 106 | 09/14 22:56 | 09/15 04:41 | 23分（02:54→03:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 206 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 201 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 22:38 [FirstSquawk] UK GOVT CONSIDERING TAKEOVER OF SPECIALITY STEEL UK: FT
-- 09/14 22:39 [FirstSquawk] JOHNSON & JOHNSON SHARES RISE ON APOLLO GLOBAL TAKEOVER TALKS - INVESTING
-- 09/14 22:39 [FirstSquawk] RUSSIA BANS SULFURIC ACID EXPORTS UNTIL YEAR-END: KOMMERSANT
-- 09/14 22:39 [financialjuice] UK government considering takeover of insolvent steelmaker - FT
-- 09/14 22:45 [FirstSquawk] AI BOOM FALTERS: US TECH STOCKS SLUMP AS BIG TECH CALLS FOR AI SLOWDOWN
-- 09/14 22:49 [FirstSquawk] CARDIFF ONCOLOGY SCORES MAJOR LEGAL WIN, SETTLES DISPUTE WITH NERVIANO MEDICAL SCIENCES $CRDF
 - 09/14 22:54 [FirstSquawk] US VP VANCE: CONCERNED BY HOUTHI SEIZURE OF PARAMO ISLAND AND RED SEA; KEEPING TABS
 - 09/14 22:56 [financialjuice] China's Foreign Minister Wang Yi: China and EU should avoid trade conflict escalation.
 - 09/14 22:57 [FirstSquawk] FOREIGN MINISTERS OF CHINA, FRANCE HOLD PHONE CALL: XINHUA
@@ -230,3 +224,4 @@
 - 09/15 04:22 [FirstSquawk] TRUMP PRIVATELY MET OPENAI'S SAM ALTMAN AT GOP CONVENTION AFTER ALTMAN REQUESTED THE MEETING.
 - 09/15 04:26 [financialjuice] Tuesday FX Option Expiries
 - 09/15 04:32 [DeItaone] TRUMP, ALTMAN SPLIT OVER AI SAFETY President Trump privately met OpenAI CEO Sam Altman last week to discuss AI and its growing power, according to MS NOW. Days later, their positions diverged sharply. Altman backed slowing frontier AI devel…
+- 09/15 04:41 [financialjuice/FirstSquawk] Houthis Spokesman: Yemeni Armed Forces successfully intercepted two Saudi Arabian fighter jets - IRIB.
