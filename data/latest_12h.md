@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 11:00 JST／対象: 09/13 23:00 〜 09/14 11:00 JST（時刻はすべて日本時間）
+生成: 2026-09-14 11:19 JST／対象: 09/13 23:19 〜 09/14 11:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/14 01:15 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 125 | 09/13 23:27 | 09/14 10:58 | ⚠ 90分（01:59→03:29） |
+| FirstSquawk | 131 | 09/13 23:27 | 09/14 11:18 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 59 | 09/14 00:11 | 09/14 10:40 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 191 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 197 行（統合前 199 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -215,3 +215,9 @@
 - 09/14 10:53 [FirstSquawk] Iraq and the UAE discuss regional security and developments in Yemen, while also exploring stronger Iraqi-Gulf cooperation and efforts to preserve stability across the region.
 - 09/14 10:55 [FirstSquawk] Brent crude surges at the open after Saudi Arabia shuts a major pipeline following an attack, intensifying concerns over global oil supply.
 - 09/14 10:58 [FirstSquawk] India’s rapid data center expansion is emerging as a new growth driver for renewable energy, as rising power demand accelerates investment in cleaner electricity.
+- 09/14 11:02 [FirstSquawk] North Korea says its recent missile launches were conducted as live-fire drills, framing the tests as part of a military training exercise.
+- 09/14 11:03 [FirstSquawk] Chick-fil-A’s operator model draws around 100,000 applicants for just 200 spots, with a $10,000 entry fee but operators typically don’t own the restaurant, equipment or property, and cannot sell or pass the business to their children - FOX …
+- 09/14 11:07 [FirstSquawk] The Japanese yen edges lower against the U.S. dollar as Middle East tensions weigh on sentiment, with traders also positioning ahead of upcoming Fed and BoJ policy meetings.
+- 09/14 11:11 [FirstSquawk] Trump agrees to allow state lawsuits over alleged violations of the CLARITY Act, according to Semafor, potentially opening a new avenue for enforcement at the state level.
+- 09/14 11:14 [FirstSquawk] Trump says the U.S. is working to replenish and expand weapons production, signaling efforts to strengthen American defense manufacturing capacity.
+- 09/14 11:18 [FirstSquawk] Trump plays down calls for tighter checks on AI development, saying the U.S. cannot afford to surrender its technological edge to China.

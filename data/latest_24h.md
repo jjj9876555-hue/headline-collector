@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 11:00 JST／対象: 09/13 11:00 〜 09/14 11:00 JST（時刻はすべて日本時間）
+生成: 2026-09-14 11:19 JST／対象: 09/13 11:19 〜 09/14 11:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 281 | 09/13 11:07 | 09/14 10:58 | ⚠ 90分（01:59→03:29） |
+| FirstSquawk | 282 | 09/13 11:41 | 09/14 11:18 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 88 | 09/13 13:41 | 09/14 10:40 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 388 行（統合前 394 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 389 行（統合前 395 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 11:07 [FirstSquawk] India and China are gradually easing tensions following a period of conflict and strained relations, Reuters reports.
-- 09/13 11:07 [FirstSquawk] SAUDI SECURITY CHALLENGE: Saudi Arabia is confronting mounting pressure from Iran and allied forces as its strategic choices narrow, according to Politico.
-- 09/13 11:08 [FirstSquawk] FAR RIGHT EYES POWER: Sweden holds an election that could potentially see far-right forces gain a role in government.
-- 09/13 11:17 [FirstSquawk] RUSSIA AIRSTRIKES: Russian aerial attacks have caused an estimated $10 billion in damage to Ukraine’s infrastructure and fixed assets this year.
-- 09/13 11:18 [FirstSquawk] IRAQ PRODUCTION BOOST: The Ajil oilfield is set to raise crude output to 40,000 bpd from 30,000 bpd under a new agreement, according to the prime minister’s office.
 - 09/13 11:41 [FirstSquawk] U.S. GOVERNMENT NET INTEREST PAYMENTS: 2015 fiscal year: $223 billion 2025 fiscal year: $970 billion That represents an increase of roughly 335% over the decade - spectatorindex
 - 09/13 11:42 [FirstSquawk] The Australian government vows tougher measures to ensure telecom networks can withstand future outages following the Optus incident.
 - 09/13 11:42 [FirstSquawk] AMERICAN PAYCHECKS: Inflation has overtaken wage gains again, putting renewed pressure on household incomes.
@@ -412,3 +407,9 @@
 - 09/14 10:53 [FirstSquawk] Iraq and the UAE discuss regional security and developments in Yemen, while also exploring stronger Iraqi-Gulf cooperation and efforts to preserve stability across the region.
 - 09/14 10:55 [FirstSquawk] Brent crude surges at the open after Saudi Arabia shuts a major pipeline following an attack, intensifying concerns over global oil supply.
 - 09/14 10:58 [FirstSquawk] India’s rapid data center expansion is emerging as a new growth driver for renewable energy, as rising power demand accelerates investment in cleaner electricity.
+- 09/14 11:02 [FirstSquawk] North Korea says its recent missile launches were conducted as live-fire drills, framing the tests as part of a military training exercise.
+- 09/14 11:03 [FirstSquawk] Chick-fil-A’s operator model draws around 100,000 applicants for just 200 spots, with a $10,000 entry fee but operators typically don’t own the restaurant, equipment or property, and cannot sell or pass the business to their children - FOX …
+- 09/14 11:07 [FirstSquawk] The Japanese yen edges lower against the U.S. dollar as Middle East tensions weigh on sentiment, with traders also positioning ahead of upcoming Fed and BoJ policy meetings.
+- 09/14 11:11 [FirstSquawk] Trump agrees to allow state lawsuits over alleged violations of the CLARITY Act, according to Semafor, potentially opening a new avenue for enforcement at the state level.
+- 09/14 11:14 [FirstSquawk] Trump says the U.S. is working to replenish and expand weapons production, signaling efforts to strengthen American defense manufacturing capacity.
+- 09/14 11:18 [FirstSquawk] Trump plays down calls for tighter checks on AI development, saying the U.S. cannot afford to surrender its technological edge to China.
