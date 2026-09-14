@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 14:43 JST／対象: 09/14 02:43 〜 09/14 14:43 JST（時刻はすべて日本時間）
+生成: 2026-09-14 14:58 JST／対象: 09/14 02:58 〜 09/14 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/14 02:47 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 157 | 09/14 03:29 | 09/14 14:42 | 43分（03:41→04:25） |
-| financialjuice | 80 | 09/14 02:46 | 09/14 14:34 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 4 | 09/14 04:05 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
+| FirstSquawk | 164 | 09/14 03:29 | 09/14 14:57 | 43分（03:41→04:25） |
+| financialjuice | 79 | 09/14 03:01 | 09/14 14:34 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 240 行（統合前 242 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 245 行（統合前 247 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 02:46 [financialjuice] Trump: lifting tariffs on Irish whiskey
-- 09/14 02:47 [DeItaone] TRUMP SAYS HE IS LIFTING TARFFS ON IRISH WHISKEY
 - 09/14 03:01 [financialjuice] Sweden's Social Democrats forecasted to secure 28.4% of votes in election vs 30.3% in 2022 - public broadcaster SVT exit poll
 - 09/14 03:02 [financialjuice] Sweden Democrats forecast to gather 17.2% of votes in election vs 20.5% in 2022 public broadcaster SVT exit poll
 - 09/14 03:04 [financialjuice] Sweden's centre-left opposition bloc to secure 51.3% of votes in election: TV4 election day poll
@@ -264,3 +262,10 @@
 - 09/14 14:34 [financialjuice] EU's Albuquerque: AI risks will only increase
 - 09/14 14:37 [FirstSquawk] China is set to lay out a new five-year strategy for the new-energy vehicle sector, shaping the next phase of growth and development for the country’s EV industry.
 - 09/14 14:42 [FirstSquawk] Canadian PM Mark Carney says Canada is not seeking EU membership, but plans to begin discussions on a unique alliance with the European Union, deepening ties between Ottawa and Brussels.
+- 09/14 14:46 [FirstSquawk] An EU official says fragmented bank tax regimes across member states are hurting competitiveness, highlighting calls for a more consistent approach to banking taxation.
+- 09/14 14:49 [FirstSquawk] Trump says Canada is the “worst country to deal with”, while claiming Ottawa is eager to reach a new deal with Washington.
+- 09/14 14:54 [FirstSquawk] Russian forces launched drone attacks on Ukraine’s western Lviv region, with the heaviest damage reported in Stryi. No deaths or injuries were reported, while a residential building and an educational complex were damaged, according to CNBC…
+- 09/14 14:56 [FirstSquawk] Bangladesh says it must turn to the spot LNG market to replace 110 cargoes previously scheduled from Qatar, adding pressure to its gas supply arrangements.
+- 09/14 14:56 [FirstSquawk] Bangladesh’s energy minister says the LNG supply disruption has put significant pressure on the country’s economy, as Dhaka seeks replacement cargoes on the spot market.
+- 09/14 14:57 [FirstSquawk] Saudi-backed Yemeni forces retake positions in southwest Taiz after Houthi militants infiltrated the area, Saudi media Hadath reports.
+- 09/14 14:57 [FirstSquawk] South Korea’s foreign ministry condemns Houthi attacks on Saudi civilians and economic infrastructure, calling for an immediate halt to the attacks.

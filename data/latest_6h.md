@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 14:43 JST／対象: 09/14 08:43 〜 09/14 14:43 JST（時刻はすべて日本時間）
+生成: 2026-09-14 14:58 JST／対象: 09/14 08:58 〜 09/14 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 104 | 09/14 08:46 | 09/14 14:42 | 19分（08:50→09:10） |
-| financialjuice | 37 | 09/14 08:46 | 09/14 14:34 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 107 | 09/14 09:10 | 09/14 14:57 | 11分（12:02→12:13） |
+| financialjuice | 35 | 09/14 09:00 | 09/14 14:34 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 141 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 142 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 08:46 [FirstSquawk] CANADA IS IN TALKS TO CONTRIBUTE TO THE EU'S €90 BLN LOAN FOR UKRAINE AS PRIME MINISTER MARK CARNEY PUSHES FOR CLOSER TIES WITH EUROPE AND LESS DEPENDENCE ON THE U.S., WITH THE TWO SIDES HOPING TO AGREE ON CANADA'S CONTRIBUTION BEFORE AN EU…
-- 09/14 08:46 [financialjuice] Danger has passed in Khamis Mushait: Saudi civil defense
-- 09/14 08:47 [FirstSquawk] THE NSA IS LAUNCHING ITS BIGGEST RESTRUCTURING IN AT LEAST A DECADE, CREATING FIVE NEW MISSION CENTERS FOCUSED ON AI, CHINA, CYBERSECURITY, WARFIGHTING AND GLOBAL INTELLIGENCE, WITH DIRECTOR GEN. JOSHUA RUDD'S PLAN GIVING THE NEW MISSION CH…
-- 09/14 08:47 [FirstSquawk] THE NSA'S ELITE HACKING UNIT, TAILORED ACCESS OPERATIONS, WILL FALL UNDER GLOBAL INTELLIGENCE AND IS EXPECTED TO RECEIVE A MAJOR BUDGET INCREASE, WITH THE RESTRUCTURING SET TO BEGIN IN MID-OCTOBER AND FULL IMPLEMENTATION TARGETED FOR JANUAR…
-- 09/14 08:47 [financialjuice] Danger has passed in Abha: Saudi civil defense
-- 09/14 08:50 [FirstSquawk] JAPAN EARLY TRADE: BENCHMARK 10-YEAR JGB FUTURES RISE 0.04 POINT, WHILE NIKKEI AVERAGE FUTURES FALL 1.5%
 - 09/14 09:00 [financialjuice] Kennedy Center may shut as soon as Tuesday, warns of bankruptcy, documents show - Washington Post
 - 09/14 09:10 [FirstSquawk] Musk says he’s highly confident SpaceX will put Nvidia AI computers into orbit in 2027, potentially opening a new frontier for space-based computing.
 - 09/14 09:11 [FirstSquawk] BAKER HUGHES WINS A MAJOR CONTRACT FROM VENTURE GLOBAL LNG TO SUPPLY 13 GAS COMPRESSION SYSTEMS FOR THE CLOUD CONNECT PIPELINE IN LOUISIANA. || COMPANY WILL ALSO DELIVER FOUR LIQUEFACTION BLOCKS WITH EIGHT MODULES FOR VENTURE GLOBAL'S PLAQU…
@@ -165,3 +159,10 @@
 - 09/14 14:34 [financialjuice] EU's Albuquerque: AI risks will only increase
 - 09/14 14:37 [FirstSquawk] China is set to lay out a new five-year strategy for the new-energy vehicle sector, shaping the next phase of growth and development for the country’s EV industry.
 - 09/14 14:42 [FirstSquawk] Canadian PM Mark Carney says Canada is not seeking EU membership, but plans to begin discussions on a unique alliance with the European Union, deepening ties between Ottawa and Brussels.
+- 09/14 14:46 [FirstSquawk] An EU official says fragmented bank tax regimes across member states are hurting competitiveness, highlighting calls for a more consistent approach to banking taxation.
+- 09/14 14:49 [FirstSquawk] Trump says Canada is the “worst country to deal with”, while claiming Ottawa is eager to reach a new deal with Washington.
+- 09/14 14:54 [FirstSquawk] Russian forces launched drone attacks on Ukraine’s western Lviv region, with the heaviest damage reported in Stryi. No deaths or injuries were reported, while a residential building and an educational complex were damaged, according to CNBC…
+- 09/14 14:56 [FirstSquawk] Bangladesh says it must turn to the spot LNG market to replace 110 cargoes previously scheduled from Qatar, adding pressure to its gas supply arrangements.
+- 09/14 14:56 [FirstSquawk] Bangladesh’s energy minister says the LNG supply disruption has put significant pressure on the country’s economy, as Dhaka seeks replacement cargoes on the spot market.
+- 09/14 14:57 [FirstSquawk] Saudi-backed Yemeni forces retake positions in southwest Taiz after Houthi militants infiltrated the area, Saudi media Hadath reports.
+- 09/14 14:57 [FirstSquawk] South Korea’s foreign ministry condemns Houthi attacks on Saudi civilians and economic infrastructure, calling for an immediate halt to the attacks.

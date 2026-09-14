@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 14:43 JST／対象: 09/13 14:43 〜 09/14 14:43 JST（時刻はすべて日本時間）
+生成: 2026-09-14 14:58 JST／対象: 09/13 14:58 〜 09/14 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 274 | 09/13 14:44 | 09/14 14:42 | ⚠ 90分（01:59→03:29） |
+| FirstSquawk | 270 | 09/13 15:00 | 09/14 14:57 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 110 | 09/13 15:51 | 09/14 14:34 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 403 行（統合前 409 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 399 行（統合前 405 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 14:44 [FirstSquawk] North Carolina GOP Senate candidate’s rally features opening prayer from convicted sex offender, AP reports
-- 09/13 14:45 [FirstSquawk] Serbia’s Vucic inspects China-built expressway as major transport project advances
-- 09/13 14:46 [FirstSquawk] The U.S. government’s $166 billion tariff refund program is now tapering off sharply
-- 09/13 14:46 [FirstSquawk] Saudi Arabia shuts a major oil pipeline following a series of attacks. The disruption raises fresh concerns over regional energy security and the potential impact on global crude supply.
-- 09/13 14:47 [FirstSquawk] German city loses legal battle with Samsung over a 665-tablet contract, in a case with wider implications for the tech giant
-- 09/13 14:47 [FirstSquawk] Russia’s Tatarstan reports deadly drone attack, with two killed and 12 wounded
-- 09/13 14:48 [FirstSquawk] Email scam exposes limited Revolut customer data, company says
-- 09/13 14:48 [FirstSquawk] Tokyo is tightening restrictions on Airbnb-style short-term rentals as complaints from residents surge across districts including Shinjuku. The tougher rules signal a growing push to curb the impact of short-term stays on local communities …
-- 09/13 14:49 [FirstSquawk] Fujitsu prepares AI chip exports to the U.S. and Asia using technology developed for supercomputers
-- 09/13 14:53 [FirstSquawk] India-Pakistan tensions over water resources intensify following a ruling by the Hague-based court. The decision adds another layer to a long-running dispute over cross-border river management, with regional tensions remaining elevated.
-- 09/13 14:58 [FirstSquawk] US job openings held broadly steady in July at 7.3 million, with the openings rate unchanged at 4.4%. Hiring demand strengthened in durable goods manufacturing, where vacancies rose by 76,000.
 - 09/13 15:00 [FirstSquawk] US hiring remained broadly stable in July, with 5.1 million people hired and the hiring rate holding at 3.2%. Professional and business services saw the biggest decline, with hires falling by 188,000 during the month.
 - 09/13 15:16 [FirstSquawk] FM Nirmala Sitharaman Meets Iran’s Finance Minister In New Delhi Union Finance Minister Nirmala Sitharaman meets Iran’s Minister of Economic Affairs and Finance Seyed Ali Madanizadeh in New Delhi, with both sides discussing economic coopera…
 - 09/13 15:17 [FirstSquawk] China revised leadership rules for universities and other public-sector institutions, strengthening requirements for political qualifications and Communist Party leadership
@@ -427,3 +416,10 @@
 - 09/14 14:34 [financialjuice] EU's Albuquerque: AI risks will only increase
 - 09/14 14:37 [FirstSquawk] China is set to lay out a new five-year strategy for the new-energy vehicle sector, shaping the next phase of growth and development for the country’s EV industry.
 - 09/14 14:42 [FirstSquawk] Canadian PM Mark Carney says Canada is not seeking EU membership, but plans to begin discussions on a unique alliance with the European Union, deepening ties between Ottawa and Brussels.
+- 09/14 14:46 [FirstSquawk] An EU official says fragmented bank tax regimes across member states are hurting competitiveness, highlighting calls for a more consistent approach to banking taxation.
+- 09/14 14:49 [FirstSquawk] Trump says Canada is the “worst country to deal with”, while claiming Ottawa is eager to reach a new deal with Washington.
+- 09/14 14:54 [FirstSquawk] Russian forces launched drone attacks on Ukraine’s western Lviv region, with the heaviest damage reported in Stryi. No deaths or injuries were reported, while a residential building and an educational complex were damaged, according to CNBC…
+- 09/14 14:56 [FirstSquawk] Bangladesh says it must turn to the spot LNG market to replace 110 cargoes previously scheduled from Qatar, adding pressure to its gas supply arrangements.
+- 09/14 14:56 [FirstSquawk] Bangladesh’s energy minister says the LNG supply disruption has put significant pressure on the country’s economy, as Dhaka seeks replacement cargoes on the spot market.
+- 09/14 14:57 [FirstSquawk] Saudi-backed Yemeni forces retake positions in southwest Taiz after Houthi militants infiltrated the area, Saudi media Hadath reports.
+- 09/14 14:57 [FirstSquawk] South Korea’s foreign ministry condemns Houthi attacks on Saudi civilians and economic infrastructure, calling for an immediate halt to the attacks.
