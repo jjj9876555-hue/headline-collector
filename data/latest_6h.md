@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 05:01 JST／対象: 09/14 23:01 〜 09/15 05:01 JST（時刻はすべて日本時間）
+生成: 2026-09-15 05:20 JST／対象: 09/14 23:20 〜 09/15 05:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/14 23:19 | 09/15 04:32 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 79 | 09/14 23:01 | 09/15 04:45 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 104 | 09/14 23:03 | 09/15 04:58 | 23分（02:54→03:17） |
+| DeItaone | 18 | 09/14 23:20 | 09/15 04:32 | ⚠ 110分（00:34→02:25） |
+| FirstSquawk | 71 | 09/14 23:22 | 09/15 05:20 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 94 | 09/14 23:22 | 09/15 05:17 | 23分（02:54→03:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 188 行（統合前 205 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 171 行（統合前 186 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 23:01 [FirstSquawk] GERMANY SET TO BUY €3.4 BILLION WORTH OF US TOMAHAWK MISSILES AND LOCKHEED MARTIN TYPHON SYSTEMS $LMT
-- 09/14 23:03 [financialjuice] Google: Exploring a potential data center in Lea County, New Mexico. $GOOGL
-- 09/14 23:05 [FirstSquawk] CARNEY: FOREIGN CAPITAL UNDERALLOCATED TO CANADA
-- 09/14 23:06 [financialjuice] Canada's PM Carney: More tax competitiveness measures coming soon
-- 09/14 23:06 [FirstSquawk] EXXONMOBIL: INVESTIGATING CAUSE OF POWER OUTAGE AT 264K BPD REFINERY IN JOLIET, ILLINOIS
-- 09/14 23:11 [FirstSquawk] NASDAQ 100 PARES DROP TO 1%, HAD BEEN DOWN AS MUCH AS 1.7%
-- 09/14 23:12 [financialjuice] Canada's PM Carney: Mutually advantageous deal possible between Canada and US.
-- 09/14 23:12 [financialjuice] Canada's PM Carney: I welcome Trump's comments that a deal could come soon.
-- 09/14 23:13 [financialjuice/FirstSquawk] Canada's PM Carney: Ready to sit down and negotiate deal with the US.
-- 09/14 23:14 [financialjuice/FirstSquawk] Canada's PM Carney: US officials may understand Canada's red lines better.
-- 09/14 23:14 [financialjuice/FirstSquawk] Canada's PM Carney: We'll come to an agreement at some point with the US.
-- 09/14 23:16 [FirstSquawk] CARNEY: TECH STABILITY BOARD SIMILAR TO FSB WOULD MAKE SENSE
-- 09/14 23:16 [FirstSquawk] CARNEY: MUTUALLY ADVANTAGEOUS DEAL POSSIBLE BETWEEN CANADA AND US.
-- 09/14 23:16 [FirstSquawk] CARNEY: READY TO SIT DOWN AND NEGOTIATE DEAL WITH THE US.
-- 09/14 23:16 [FirstSquawk] CARNEY: US OFFICIALS MAY UNDERSTAND CANADA'S RED LINES BETTER.
-- 09/14 23:16 [FirstSquawk] CARNEY: WE'LL COME TO AN AGREEMENT AT SOME POINT WITH THE US.
-- 09/14 23:16 [financialjuice] Canada's PM Carney: There is a huge opportunity for Canada and EU to build prosperity.
-- 09/14 23:17 [financialjuice] Canada's PM Carney: We may see enhanced labor mobility from EU partnership.
-- 09/14 23:17 [financialjuice] Crypto Fear & Greed Index: 57/100 - Greed
-- 09/14 23:18 [financialjuice] Fear & Greed Index: 32/100 - Fear
-- 09/14 23:18 [financialjuice] US September Interest Rate Decision Prep
-- 09/14 23:19 [DeItaone] US 10-YEAR TREASURY YIELD REACHES 5% FOR FIRST TIME SINCE 2023
-- 09/14 23:20 [FirstSquawk] ANTHROPIC REMAINS ON TRACK FOR 2026 IPO
 - 09/14 23:20 [DeItaone] ANTHROPIC STILL EYES 2026 IPO Anthropic is still likely to go public in 2026, despite growing debate over AI safety and regulation, Axios reports. The Claude maker reportedly views public-market transparency as potentially strengthening its…
 - 09/14 23:22 [financialjuice] ❗ Traders fully price four quarter-point ECB hikes by end of 2027.
 - 09/14 23:22 [FirstSquawk] TEN-YEAR TREASURY YIELD HITS 5% FOR FIRST TIME SINCE 2023.
@@ -212,3 +189,9 @@
 - 09/15 04:41 [financialjuice/FirstSquawk] Houthis Spokesman: Yemeni Armed Forces successfully intercepted two Saudi Arabian fighter jets - IRIB.
 - 09/15 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -166.6 MLN NASDAQ 100: 120.0 MLN DOW 30: -96.0 MLN MAG 7: 365.0 MLN $MACRO
 - 09/15 04:58 [financialjuice] OpenAI's top lobbyist is meeting with lawmakers today - Politico.
+- 09/15 05:03 [FirstSquawk] ZELENSKY: UKRAINE IS READY TO CONSIDER A MUTUAL HALT TO STRIKES ON CRITICAL INFRASTRUCTURE IF THE U.S. CAN ENSURE RUSSIA'S LONG-TERM COMMITMENT.
+- 09/15 05:03 [FirstSquawk] ZELENSKY: PEACE TALKS MUST INCLUDE ENERGY, FOOD, TRANSPORT ROUTES AND CRITICAL INFRASTRUCTURE, WITH A FAIR AND LASTING SOLUTION.
+- 09/15 05:07 [FirstSquawk] ZELENSKYY SAYS UKRAINE IS READY TO SUPPORT DE-ESCALATION FOLLOWING A U.S. PROPOSAL AND IS AWAITING SPECIFIC DETAILS FROM ITS PARTNERS. ZELENSKYY SAYS KYIV WANTS TO ENSURE RUSSIA IS GENUINELY “READY TO STOP THIS WAR” BEFORE SUPPORTING THE IN…
+- 09/15 05:13 [FirstSquawk] US STOCKS DECLINED AS CONCERNS OVER A POTENTIAL SLOWDOWN IN ADVANCED AI DEVELOPMENT TRIGGERED A SHARP SELLOFF IN SEMICONDUCTOR SHARES. THE PHILADELPHIA SEMICONDUCTOR INDEX PLUNGED 5.9%, WHILE THE NASDAQ 100 FELL 0.8% AND THE S&P 500 LOST 0.…
+- 09/15 05:17 [financialjuice] Chipmakers Slide as AI Leaders Back Slower Development – US Market Wrap
+- 09/15 05:17 [financialjuice/FirstSquawk] Two Iranian fishing boats were hit by drones in Southern Iran, several fishermen are missing - State Broadcaster IRIB.

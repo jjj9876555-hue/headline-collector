@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 05:01 JST／対象: 09/14 17:01 〜 09/15 05:01 JST（時刻はすべて日本時間）
+生成: 2026-09-15 05:20 JST／対象: 09/14 17:20 〜 09/15 05:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 09/14 17:19 | 09/15 04:32 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 166 | 09/14 17:02 | 09/15 04:45 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 172 | 09/14 17:02 | 09/15 04:58 | ⚠ 53分（17:16→18:10） |
+| DeItaone | 49 | 09/14 17:49 | 09/15 04:32 | ⚠ 110分（00:34→02:25） |
+| FirstSquawk | 165 | 09/14 17:26 | 09/15 05:20 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 169 | 09/14 18:10 | 09/15 05:17 | 28分（20:02→20:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 366 行（統合前 392 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 360 行（統合前 387 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 17:02 [FirstSquawk] IRAN DENIES CLAIMS OF ACTIVITY AT PICKAXE MOUNTAIN, STATING THERE IS NO EVIDENCE.
-- 09/14 17:02 [FirstSquawk] HOUTHIS CLAIM TO HAVE ATTACKED SAUDI ARABIA'S KHAMIS MUSHAIT.
-- 09/14 17:02 [FirstSquawk] ECB'S KAZIMIR SAYS THEY WILL CONSIDER ALL OPTIONS FOR THE NEXT DECISION BUT WILL TAKE ACTION IF NECESSARY.
-- 09/14 17:02 [financialjuice] Yemen's Houthis say they attacked Saudi's Khamis Mushait air base.
-- 09/14 17:05 [FirstSquawk] MAERSK AND HAPAG-LLOYD ARE ANNOUNCING A STRUCTURAL CHANGE TO THE FOLLOWING FOUR GEMINI SERVICES; AE5, AE11, AE12 AND ME2.
-- 09/14 17:08 [financialjuice] German economy ministry: slowdown in previously robust economic momentum emerging at start of Q3
-- 09/14 17:09 [financialjuice] French President Macron to visit Spain Sept. 29-30
-- 09/14 17:10 [FirstSquawk] IRAN STATES THAT THE US IS THE MAIN BARRIER TO DIPLOMACY, NOT A LACK OF MEDIATION.
-- 09/14 17:11 [financialjuice] Iran: US lack of mediation, is main obstacle to diplomacy.
-- 09/14 17:16 [financialjuice] ECB's Kazimir: Increasingly concerned about gas and power prices.
-- 09/14 17:18 [FirstSquawk] TELEFÓNICA REACTIVATES TALKS WITH ZEGONA TO ACQUIRE VODAFONE SPAIN - VOZPOLULI
-- 09/14 17:19 [DeItaone] *IRAN: US, NOT LACK OF MEDIATION, IS MAIN OBSTACLE TO DIPLOMACY
 - 09/14 17:26 [FirstSquawk] EXXONMOBIL EXEC: A LOT OF LATENT DEMAND GOING TO ABSORB ADDITIONAL LNG VOLUMES AS ECONOMICS IMPROVE
 - 09/14 17:31 [FirstSquawk] SAUDI CIVIL DEFENCE ALERTS OF POTENTIAL DANGER IN KHAMIS MUSHAIT AND ABHA AREAS - STATE TV
 - 09/14 17:33 [FirstSquawk] INDONESIA APPOINTS NAZARA AS NEW FINANCE MINISTER, TAKING OVER FROM PURBAYA.
@@ -390,3 +378,9 @@
 - 09/15 04:41 [financialjuice/FirstSquawk] Houthis Spokesman: Yemeni Armed Forces successfully intercepted two Saudi Arabian fighter jets - IRIB.
 - 09/15 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -166.6 MLN NASDAQ 100: 120.0 MLN DOW 30: -96.0 MLN MAG 7: 365.0 MLN $MACRO
 - 09/15 04:58 [financialjuice] OpenAI's top lobbyist is meeting with lawmakers today - Politico.
+- 09/15 05:03 [FirstSquawk] ZELENSKY: UKRAINE IS READY TO CONSIDER A MUTUAL HALT TO STRIKES ON CRITICAL INFRASTRUCTURE IF THE U.S. CAN ENSURE RUSSIA'S LONG-TERM COMMITMENT.
+- 09/15 05:03 [FirstSquawk] ZELENSKY: PEACE TALKS MUST INCLUDE ENERGY, FOOD, TRANSPORT ROUTES AND CRITICAL INFRASTRUCTURE, WITH A FAIR AND LASTING SOLUTION.
+- 09/15 05:07 [FirstSquawk] ZELENSKYY SAYS UKRAINE IS READY TO SUPPORT DE-ESCALATION FOLLOWING A U.S. PROPOSAL AND IS AWAITING SPECIFIC DETAILS FROM ITS PARTNERS. ZELENSKYY SAYS KYIV WANTS TO ENSURE RUSSIA IS GENUINELY “READY TO STOP THIS WAR” BEFORE SUPPORTING THE IN…
+- 09/15 05:13 [FirstSquawk] US STOCKS DECLINED AS CONCERNS OVER A POTENTIAL SLOWDOWN IN ADVANCED AI DEVELOPMENT TRIGGERED A SHARP SELLOFF IN SEMICONDUCTOR SHARES. THE PHILADELPHIA SEMICONDUCTOR INDEX PLUNGED 5.9%, WHILE THE NASDAQ 100 FELL 0.8% AND THE S&P 500 LOST 0.…
+- 09/15 05:17 [financialjuice] Chipmakers Slide as AI Leaders Back Slower Development – US Market Wrap
+- 09/15 05:17 [financialjuice/FirstSquawk] Two Iranian fishing boats were hit by drones in Southern Iran, several fishermen are missing - State Broadcaster IRIB.
