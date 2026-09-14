@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 15:50 JST／対象: 09/13 15:50 〜 09/14 15:50 JST（時刻はすべて日本時間）
+生成: 2026-09-14 16:02 JST／対象: 09/13 16:02 〜 09/14 16:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 280 | 09/13 16:14 | 09/14 15:40 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 114 | 09/13 15:51 | 09/14 15:30 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 281 | 09/13 16:14 | 09/14 15:50 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 114 | 09/13 16:41 | 09/14 16:02 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 413 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 414 行（統合前 420 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 15:51 [financialjuice] Kremlin: Modi and Xi actively proposed help for Ukraine settlement, Putin welcomed their willingness - TASS
 - 09/13 16:14 [FirstSquawk] Chinese leader pledges to help Brics nations with AI and smart manufacturing
 - 09/13 16:14 [FirstSquawk] Russia battered the Odesa region overnight and early Sunday morning with continuous strikes, damaging high-rises, private homes, and infrastructure.
 - 09/13 16:15 [FirstSquawk] Kremlin: Modi and Xi actively proposed help for Ukraine settlement, Putin welcomed their willingness
@@ -437,3 +436,5 @@
 - 09/14 15:36 [FirstSquawk] British pound slips toward 1.3500 against the U.S. dollar as expectations for a Fed rate hike strengthen, adding pressure to sterling.
 - 09/14 15:40 [FirstSquawk] INDIA (AUG) OUTPUT PPI YOY ACTUAL: 9.81% VS 9.57% PREVIOUS
 - 09/14 15:40 [FirstSquawk] INDIA (AUG) WHOLESALE PRICES YOY ACTUAL: 9.92% VS 9.78% PREVIOUS; EST 9.90%
+- 09/14 15:50 [FirstSquawk] Chinese traders are closely watching the upcoming Xi-Trump meeting, with expectations around the talks shaping sentiment and adding uncertainty for China’s stock market.
+- 09/14 16:02 [financialjuice] Currency Strength Chart: Strongest: USD, CAD, GBP, CHF, EUR, AUD, GBP, NZD - Weakest
