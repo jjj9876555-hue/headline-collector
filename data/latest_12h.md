@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 12:46 JST／対象: 09/14 00:46 〜 09/14 12:46 JST（時刻はすべて日本時間）
+生成: 2026-09-14 12:59 JST／対象: 09/14 00:59 〜 09/14 12:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/14 01:15 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 140 | 09/14 01:12 | 09/14 12:38 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 61 | 09/14 02:46 | 09/14 12:37 | ⚠ 52分（04:46→05:39） |
+| FirstSquawk | 144 | 09/14 01:12 | 09/14 12:56 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 63 | 09/14 02:46 | 09/14 12:52 | ⚠ 52分（04:46→05:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 208 行（統合前 210 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 214 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -232,3 +232,9 @@
 - 09/14 12:31 [FirstSquawk] Heads of leading U.S. frontier AI labs are increasingly concerned about China’s rapid advances in artificial intelligence, highlighting intensifying competition at the cutting edge of the technology.
 - 09/14 12:37 [financialjuice] China finance ministry auctions 7-year bonds at 1.49% yield: traders
 - 09/14 12:38 [FirstSquawk] U.S. senators have released the final draft of the Crypto Clarity Act, with the legislation scheduled for a Senate vote on Tuesday.
+- 09/14 12:49 [financialjuice] Saudi civil defence warns of possible threat in Khamis Mushait and Abha areas - post on X
+- 09/14 12:49 [FirstSquawk] Asian tech stocks slump as growing concerns over AI safety weigh on investor sentiment and put pressure on technology shares.
+- 09/14 12:52 [FirstSquawk] Saudi Civil Defence warns of a possible threat in the Khamis Mushait and Abha areas, according to a post on X.
+- 09/14 12:52 [financialjuice] Saudi civil defence: danger has passed – post on X
+- 09/14 12:52 [FirstSquawk] China’s Finance Ministry auctions seven-year government bonds at a 1.49% yield, according to traders, highlighting current demand and pricing in the sovereign debt market.
+- 09/14 12:56 [FirstSquawk] Oil holds onto its opening gains in Asia, keeping energy markets elevated as traders assess the latest supply and geopolitical risks.
