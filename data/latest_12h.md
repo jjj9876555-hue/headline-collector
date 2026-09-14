@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 10:00 JST／対象: 09/13 22:00 〜 09/14 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-14 10:19 JST／対象: 09/13 22:19 〜 09/14 10:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/13 22:04 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 114 | 09/13 22:46 | 09/14 09:56 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 63 | 09/13 22:10 | 09/14 09:48 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 18 | 09/13 22:34 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
+| FirstSquawk | 122 | 09/13 22:46 | 09/14 10:18 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 55 | 09/13 22:36 | 09/14 10:18 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 193 行（統合前 196 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 193 行（統合前 195 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 22:04 [DeItaone] IRAN, UAE AGREE TO “PUT THE PAST ASIDE” Iranian President Masoud Pezeshkian says talks with Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed were positive, following their meeting at the BRICS summit in New Delhi. Pezeshkian said …
-- 09/13 22:10 [financialjuice/FirstSquawk] Trump on Fed decision next week: says US should have lowest rates globally
-- 09/13 22:11 [financialjuice] Trump: $5,000 post-election promise should be easy for Congress
-- 09/13 22:11 [financialjuice] Trump: I always honor my commitments
-- 09/13 22:12 [financialjuice] Trump on Iran: Iran war will wrap up perhaps before or shortly after midterms
-- 09/13 22:12 [financialjuice] Trump: Iran eager to reach a deal
-- 09/13 22:12 [financialjuice] Trump on Iran: indifferent if gulf states engage with Iran, decision is theirs
-- 09/13 22:13 [financialjuice] Trump on Ukraine: Zelenskiy must halt cutting diesel fuel supply in Russia
-- 09/13 22:13 [financialjuice] Trump on Ukraine: we discussed that with Zelenskiy
-- 09/13 22:14 [financialjuice] Trump on Irish unity: natural to unite north and south
-- 09/13 22:15 [financialjuice] Trump on Irish unity: Won't discuss Scotland for now, will address later
 - 09/13 22:34 [DeItaone] TRUMP : ASKED ABOUT FED DECISION NEXT WEEK, SAYS WE SHOULD HAVE THE LOWEST RATE IN THE WORLD
 - 09/13 22:35 [DeItaone] TRUMP ON IRAN: IRAN WAR WILL END - MAYBE BEFORE OR RIGHT AFTER THE MIDTERMS
 - 09/13 22:35 [DeItaone] TRUMP ON IRAN: IRAN WANTS TO MAKE A DEAL SO BADLY
@@ -44,6 +33,7 @@
 - 09/13 22:36 [financialjuice] Kosovo parliament reappoints Albin Kurti as prime minister
 - 09/13 22:37 [DeItaone] TRUMP ON AI: ASKED IF AI INDUSTRY SHOULD SLOW DOWN, SAYS WHOEVER WINS AI WINS
 - 09/13 22:37 [DeItaone] TRUMP ON AI: WE COULD PUT GUARDRAILS, BUT SOME VOICES ARE BEING OVERLY NEGATIVE
+- 09/13 22:46 [FirstSquawk] Trump on Fed decision next week: says US should have lowest rates globally
 - 09/13 22:46 [FirstSquawk] US Trump: $5,000 post-election promise should be easy for Congress
 - 09/13 22:47 [DeItaone] TRUMP PUSHES FED FOR WORLD’S LOWEST INTEREST RATES President Donald Trump says the U.S. should have the lowest interest rate in the world, just days before the Fed’s closely watched policy decision Wednesday. Asked whether he expects a rate…
 - 09/13 22:47 [FirstSquawk] US Trump: I always honor my commitments
@@ -217,3 +207,13 @@
 - 09/14 09:53 [FirstSquawk] Indonesia’s Java Sea ship disaster leaves at least six dead, with 129 people still missing after a passenger vessel capsized on Sunday, according to authorities.
 - 09/14 09:55 [FirstSquawk] Amazon pauses operations with 21 Air following the Miami crash, according to The Wall Street Journal, as the incident prompts a temporary disruption to the airline partnership.
 - 09/14 09:56 [FirstSquawk] Dollar holds steady while the yen climbs toward a seven-month high, as traders position ahead of this week’s closely watched Fed and BOJ policy meetings.
+- 09/14 10:01 [FirstSquawk] AI’s race for ever-more powerful systems may be facing a rare slowdown, as the CEOs of two leading AI companies publicly argue that development should proceed at a more measured pace says NBC
+- 09/14 10:01 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs 0.805% at previous session open
+- 09/14 10:02 [FirstSquawk] U.S. diesel prices have surged 60% above pre-Iran war levels, according to Fortune, highlighting the growing impact of the conflict on fuel costs and the broader U.S. economy.
+- 09/14 10:03 [FirstSquawk] Taiwan’s overnight funding market starts the session steady at 0.805%, matching the previous session’s opening level.
+- 09/14 10:09 [FirstSquawk] Euro slips below 1.1600 as markets increasingly price a potential Fed rate hike, adding pressure to the single currency.
+- 09/14 10:12 [FirstSquawk] Trump dismisses claims that Chinese entities assisted Iran ahead of the attack that resulted in the deaths of U.S. troops - RTRS
+- 09/14 10:14 [FirstSquawk] Trump signals openness to Chinese automakers entering the U.S. market, ahead of his upcoming summit with Chinese President Xi Jinping.
+- 09/14 10:18 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023
+- 09/14 10:18 [FirstSquawk] China’s central bank sets the USD/CNY reference rate at 6.7698, stronger than the previous fixing of 6.7743.
+- 09/14 10:18 [FirstSquawk] Oil prices climb after Saudi Arabia shuts a key pipeline designed to bypass the Strait of Hormuz, raising fresh concerns over global crude supply flows - CNBC

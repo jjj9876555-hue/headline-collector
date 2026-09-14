@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 10:00 JST／対象: 09/14 04:00 〜 09/14 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-14 10:19 JST／対象: 09/14 04:19 〜 09/14 10:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/14 04:05 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 78 | 09/14 04:25 | 09/14 09:56 | 37分（07:53→08:31） |
-| financialjuice | 37 | 09/14 04:07 | 09/14 09:48 | ⚠ 52分（04:46→05:39） |
+| DeItaone | 3 | 09/14 04:30 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
+| FirstSquawk | 86 | 09/14 04:25 | 09/14 10:18 | 37分（07:53→08:31） |
+| financialjuice | 37 | 09/14 04:42 | 09/14 10:18 | ⚠ 52分（04:46→05:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 118 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 04:05 [DeItaone] TRUMP SAYS HE WILL LOOK AT WHETHER TO RELEASE MORE RECORDS LINKED TO 9/11 ATTACKS
-- 09/14 04:07 [financialjuice] Oman's foreign minister: regional meeting scheduled for tomorrow in Salalah postponed in the interest of consensus
-- 09/14 04:07 [financialjuice] Oman's foreign minister: We remain committed to fostering dialogue that supports stability and lasting cooperation in the region
 - 09/14 04:25 [FirstSquawk] CANADA AIMS FOR UKRAINE LOAN ROLE TO STRENGTHEN EU RELATIONS - FT
 - 09/14 04:26 [FirstSquawk] OMAN'S FOREIGN MINISTER SAYS A REGIONAL MEETING SCHEDULED FOR TOMORROW IN SALALAH HAS BEEN POSTPONED IN THE INTEREST OF CONSENSUS, ADDING THAT OMAN REMAINS COMMITTED TO FOSTERING DIALOGUE THAT SUPPORTS STABILITY AND LASTING COOPERATION IN T…
 - 09/14 04:26 [FirstSquawk] TALKS ON AI STANDARDS BEGAN BEFORE AMODEI'S ESSAY - THE INFORMATION
@@ -142,3 +139,13 @@
 - 09/14 09:53 [FirstSquawk] Indonesia’s Java Sea ship disaster leaves at least six dead, with 129 people still missing after a passenger vessel capsized on Sunday, according to authorities.
 - 09/14 09:55 [FirstSquawk] Amazon pauses operations with 21 Air following the Miami crash, according to The Wall Street Journal, as the incident prompts a temporary disruption to the airline partnership.
 - 09/14 09:56 [FirstSquawk] Dollar holds steady while the yen climbs toward a seven-month high, as traders position ahead of this week’s closely watched Fed and BOJ policy meetings.
+- 09/14 10:01 [FirstSquawk] AI’s race for ever-more powerful systems may be facing a rare slowdown, as the CEOs of two leading AI companies publicly argue that development should proceed at a more measured pace says NBC
+- 09/14 10:01 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs 0.805% at previous session open
+- 09/14 10:02 [FirstSquawk] U.S. diesel prices have surged 60% above pre-Iran war levels, according to Fortune, highlighting the growing impact of the conflict on fuel costs and the broader U.S. economy.
+- 09/14 10:03 [FirstSquawk] Taiwan’s overnight funding market starts the session steady at 0.805%, matching the previous session’s opening level.
+- 09/14 10:09 [FirstSquawk] Euro slips below 1.1600 as markets increasingly price a potential Fed rate hike, adding pressure to the single currency.
+- 09/14 10:12 [FirstSquawk] Trump dismisses claims that Chinese entities assisted Iran ahead of the attack that resulted in the deaths of U.S. troops - RTRS
+- 09/14 10:14 [FirstSquawk] Trump signals openness to Chinese automakers entering the U.S. market, ahead of his upcoming summit with Chinese President Xi Jinping.
+- 09/14 10:18 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023
+- 09/14 10:18 [FirstSquawk] China’s central bank sets the USD/CNY reference rate at 6.7698, stronger than the previous fixing of 6.7743.
+- 09/14 10:18 [FirstSquawk] Oil prices climb after Saudi Arabia shuts a key pipeline designed to bypass the Strait of Hormuz, raising fresh concerns over global crude supply flows - CNBC
