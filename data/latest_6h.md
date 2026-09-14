@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 15:25 JST／対象: 09/14 09:25 〜 09/14 15:25 JST（時刻はすべて日本時間）
+生成: 2026-09-14 15:50 JST／対象: 09/14 09:50 〜 09/14 15:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 113 | 09/14 09:26 | 09/14 15:23 | 11分（15:10→15:21） |
-| financialjuice | 35 | 09/14 09:34 | 09/14 15:00 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 104 | 09/14 09:50 | 09/14 15:40 | 11分（15:10→15:21） |
+| financialjuice | 35 | 09/14 10:01 | 09/14 15:30 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 148 行（統合前 148 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 139 行（統合前 139 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 09:26 [FirstSquawk] Nikkei slides 1.6% as chipmakers and metals stocks come under pressure, weighing on Japan’s broader equity market.
-- 09/14 09:29 [FirstSquawk] Trump signals the U.S. could remain in Iran and take control of its oil, raising the stakes for Washington’s role in the country and adding another layer of uncertainty to global energy markets - cablefxmacro
-- 09/14 09:32 [FirstSquawk] The Kennedy Center is reportedly on the verge of bankruptcy, with the Washington Post reporting that the Washington arts institution could face closure as soon as Tuesday.
-- 09/14 09:34 [FirstSquawk] SpaceX marks a major milestone as **Falcon completes its 700th flight**, with Elon Musk congratulating the team behind the rocket program.
-- 09/14 09:34 [financialjuice] Election authority projection: Sweden's centre-left opposition bloc now seen at 176 seats vs 173 for governing coalition
-- 09/14 09:37 [FirstSquawk] SoftBank shares plunge 13% as calls to slow the pace of AI development trigger a sharp selloff, putting fresh pressure on the company’s aggressive AI investment strategy - zerohedge
-- 09/14 09:38 [FirstSquawk] GOLD SLIPS 0.2% TO AROUND $4,340 AN OUNCE AS HOTTER-THAN-EXPECTED U.S. INFLATION BOOSTS BETS TO AN 88% CHANCE OF A SEPTEMBER FED RATE HIKE. || HIGHER BORROWING COSTS AND RISING OIL PRICES WEIGH ON BULLION, WITH BRENT CRUDE SURGING TOWARD $1…
-- 09/14 09:38 [FirstSquawk] Sweden’s centre-left opposition edges ahead in the latest election projection, with 176 seats versus 173 for the governing coalition, according to the election authority.
-- 09/14 09:39 [FirstSquawk] Gold slips 0.2% to around $4,340 an ounce as hotter-than-expected U.S. inflation boosts expectations for a September Fed rate hike, with markets now pricing an 88% probability.
-- 09/14 09:40 [FirstSquawk] ANTHROPIC EXPECTS TO REPORT AN ADJUSTED OPERATING PROFIT THIS QUARTER, MARKING ITS SECOND CONSECUTIVE PROFITABLE PERIOD, WITH GROSS MARGINS ABOVE 80% BEFORE REVENUE-SHARING AND AI TRAINING COSTS.
-- 09/14 09:40 [FirstSquawk] ANTHROPIC IS PREPARING FOR AN IPO ON NASDAQ AND AIMS TO MATCH OR EXCEED SPACEX’S RECORD $86.3 BILLION OFFERING, AS ITS ANNUALIZED REVENUE PACE SURPASSES $65 BILLION.
-- 09/14 09:46 [FirstSquawk] ASIAN STOCKS AND U.S. EQUITY FUTURES RETREATED AFTER MAJOR AI COMPANIES CALLED FOR A SLOWDOWN IN THE TECHNOLOGY'S DEVELOPMENT, RATTLING A SECTOR THAT HAS POWERED THIS YEAR'S RALLY, WITH MSCI'S ASIA PACIFIC INDEX DOWN 0.5%, NASDAQ 100 FUTURE…
-- 09/14 09:46 [FirstSquawk] THE U.S. CORE CPI ROSE 0.3% IN AUGUST AND 2.4% Y/Y, WITH OVERALL PRICES UP 0.4% AND 3.4% ANNUALLY ON HIGHER ENERGY COSTS, REINFORCING BETS THE FED MAY HIKE WEDNESDAY — NOW OVER 90% PRICED IN — AS 10-YEAR YIELDS NEARED 5%, WHILE ANTHROPIC PI…
-- 09/14 09:46 [FirstSquawk] Australian dollar slips toward 0.7150 as hotter-than-expected U.S. inflation strengthens the case for a Fed rate hike, boosting the greenback and weighing on the Aussie.
-- 09/14 09:48 [FirstSquawk] Trump says he will review requests from 9/11 victims’ families to declassify records that could provide further insight into Saudi Arabia’s alleged links to the attacks, saying he will examine the matter after returning.
-- 09/14 09:48 [financialjuice] Amazon halts operations with 21 air after Miami crash: WSJ
 - 09/14 09:50 [FirstSquawk] Trump says a meeting with Delcy Rodríguez at the UN remains possible, while pointing to an energy arrangement that he says is delivering millions of barrels of oil to the U.S. each month.
 - 09/14 09:51 [FirstSquawk] NORTH KOREA SAYS A JOINT LIVE-FIRE DRILL INVOLVING MISSILES, ARTILLERY AND DRONES DEMONSTRATED THE “HUGE DESTRUCTIVE POWER” OF CONCENTRATED FIRE.
 - 09/14 09:51 [FirstSquawk] SOUTH KOREA SAYS SEVERAL MISSILES FLEW ABOUT 250 KM TOWARD NORTH KOREA’S EASTERN WATERS, INDICATING THEY ARE DESIGNED TO STRIKE TARGETS IN SOUTH KOREA.
@@ -172,3 +156,10 @@
 - 09/14 15:10 [FirstSquawk] Shanghai is encouraging eligible financial institutions to develop enterprise AI platforms, signaling a push to accelerate AI adoption across the city’s financial sector.
 - 09/14 15:21 [FirstSquawk] CHINA’S TOP SPY CHIEF WARNS AI COULD THREATEN POLITICAL STABILITY & CRITICAL INFRASTRUCTURE
 - 09/14 15:23 [FirstSquawk] Malaysia’s **PETRONAS signs an LNG supply agreement with METLEN**, aiming to strengthen energy security and diversify gas supplies across Southeast Europe.
+- 09/14 15:27 [FirstSquawk] EUR/USD falls 0.33% to 1.1549, hitting a near one-month low as the euro comes under renewed pressure against the dollar.
+- 09/14 15:27 [FirstSquawk] OpenAI is reportedly in talks to conduct AI model training in Australia, according to Nikkei, potentially expanding the company’s training operations beyond its existing locations.
+- 09/14 15:30 [financialjuice] SWISS PPI YOY ACTUAL -0.7% (FORECAST -, PREVIOUS -2.1%) $MACRO
+- 09/14 15:30 [financialjuice] SWISS PPI MOM ACTUAL 0.7% (FORECAST -, PREVIOUS -0.1%) $MACRO
+- 09/14 15:36 [FirstSquawk] British pound slips toward 1.3500 against the U.S. dollar as expectations for a Fed rate hike strengthen, adding pressure to sterling.
+- 09/14 15:40 [FirstSquawk] INDIA (AUG) OUTPUT PPI YOY ACTUAL: 9.81% VS 9.57% PREVIOUS
+- 09/14 15:40 [FirstSquawk] INDIA (AUG) WHOLESALE PRICES YOY ACTUAL: 9.92% VS 9.78% PREVIOUS; EST 9.90%

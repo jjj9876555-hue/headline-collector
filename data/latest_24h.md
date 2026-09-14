@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 15:25 JST／対象: 09/13 15:25 〜 09/14 15:25 JST（時刻はすべて日本時間）
+生成: 2026-09-14 15:50 JST／対象: 09/13 15:50 〜 09/14 15:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 279 | 09/13 15:31 | 09/14 15:23 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 112 | 09/13 15:51 | 09/14 15:00 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 280 | 09/13 16:14 | 09/14 15:40 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 114 | 09/13 15:51 | 09/14 15:30 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 410 行（統合前 416 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 413 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 15:31 [FirstSquawk] BOJ meeting, Semicon India, Hong Kong's first five-year plan
-- 09/13 15:32 [FirstSquawk] Donald Trump turns his focus to golf and promoting his business interests as he wraps up a visit to Ireland on Sunday
-- 09/13 15:32 [FirstSquawk] Chubu Electric Power Co.’s top two executives are set to step down over the falsification of safety data used in regulatory reviews to restart some of its nuclear reactors
-- 09/13 15:32 [FirstSquawk] Iranian President Masoud Pezeshkian meets Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan on the sidelines of the BRICS Summit
 - 09/13 15:51 [financialjuice] Kremlin: Modi and Xi actively proposed help for Ukraine settlement, Putin welcomed their willingness - TASS
 - 09/13 16:14 [FirstSquawk] Chinese leader pledges to help Brics nations with AI and smart manufacturing
 - 09/13 16:14 [FirstSquawk] Russia battered the Odesa region overnight and early Sunday morning with continuous strikes, damaging high-rises, private homes, and infrastructure.
@@ -434,3 +430,10 @@
 - 09/14 15:10 [FirstSquawk] Shanghai is encouraging eligible financial institutions to develop enterprise AI platforms, signaling a push to accelerate AI adoption across the city’s financial sector.
 - 09/14 15:21 [FirstSquawk] CHINA’S TOP SPY CHIEF WARNS AI COULD THREATEN POLITICAL STABILITY & CRITICAL INFRASTRUCTURE
 - 09/14 15:23 [FirstSquawk] Malaysia’s **PETRONAS signs an LNG supply agreement with METLEN**, aiming to strengthen energy security and diversify gas supplies across Southeast Europe.
+- 09/14 15:27 [FirstSquawk] EUR/USD falls 0.33% to 1.1549, hitting a near one-month low as the euro comes under renewed pressure against the dollar.
+- 09/14 15:27 [FirstSquawk] OpenAI is reportedly in talks to conduct AI model training in Australia, according to Nikkei, potentially expanding the company’s training operations beyond its existing locations.
+- 09/14 15:30 [financialjuice] SWISS PPI YOY ACTUAL -0.7% (FORECAST -, PREVIOUS -2.1%) $MACRO
+- 09/14 15:30 [financialjuice] SWISS PPI MOM ACTUAL 0.7% (FORECAST -, PREVIOUS -0.1%) $MACRO
+- 09/14 15:36 [FirstSquawk] British pound slips toward 1.3500 against the U.S. dollar as expectations for a Fed rate hike strengthen, adding pressure to sterling.
+- 09/14 15:40 [FirstSquawk] INDIA (AUG) OUTPUT PPI YOY ACTUAL: 9.81% VS 9.57% PREVIOUS
+- 09/14 15:40 [FirstSquawk] INDIA (AUG) WHOLESALE PRICES YOY ACTUAL: 9.92% VS 9.78% PREVIOUS; EST 9.90%

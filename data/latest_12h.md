@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 15:25 JST／対象: 09/14 03:25 〜 09/14 15:25 JST（時刻はすべて日本時間）
+生成: 2026-09-14 15:50 JST／対象: 09/14 03:50 〜 09/14 15:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/14 04:05 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 179 | 09/14 03:29 | 09/14 15:23 | 43分（03:41→04:25） |
-| financialjuice | 72 | 09/14 03:52 | 09/14 15:00 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 176 | 09/14 04:25 | 09/14 15:40 | 37分（07:53→08:31） |
+| financialjuice | 74 | 09/14 03:52 | 09/14 15:30 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 253 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 252 行（統合前 254 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 03:29 [FirstSquawk] A RUSSIAN DRONE STRUCK A TRAIN NEAR THE UKRAINE-POLAND BORDER ON SUNDAY SHORTLY AFTER SENIOR VISITING OFFICIALS — INCLUDING FORMER U.K. PRIME MINISTER BORIS JOHNSON AND FORMER SWEDISH PRIME MINISTER CARL BILDT — PASSED THROUGH, UKRAINE'S ST…
-- 09/14 03:29 [FirstSquawk] UKRZALIZNYTSIA SAID IT IS 'HIGHLY PROBABLE' THE DRONE'S TARGET WAS THE DIPLOMATIC TRAIN, WITH ANOTHER TRAIN CARRYING FORMER CIA DIRECTOR DAVID PETRAEUS STILL AT THE STATION WHEN THE DRONE STRUCK, THOUGH NO CASUALTIES WERE IMMEDIATELY REPORT…
-- 09/14 03:29 [FirstSquawk] BILDT SAID ON X IT 'WASN'T OUR TRAIN, BUT THE ONE JUST MINUTES AFTER US', WHILE JOHNSON CALLED IT 'THE KIND OF RANDOM AND SENSELESS ATTACK UKRAINIANS ARE ENDURING EVERY DAY'.
-- 09/14 03:30 [FirstSquawk] TRUMP SAYS HE WILL REMOVE U.S. TARIFFS ON IRISH WHISKEY, DELIVERING A MAJOR WIN FOR IRELAND’S DISTILLERS AFTER APPEALS FROM PRIME MINISTER MICHEÁL MARTIN AND GOLFER SHANE LOWRY. THE MOVE WOULD END THE CURRENT 10% U.S. TARIFF ON IRISH WHISKE…
-- 09/14 03:38 [FirstSquawk] PRESIDENT DONALD TRUMP SAYS HE WILL REMOVE U.S. TARIFFS ON IRISH WHISKEY, ANNOUNCING THE MOVE SUNDAY AS HE ATTENDED A GOLF TOURNAMENT AT HIS FAMILY'S COURSE IN WESTERN IRELAND, TELLING THE CROWD 'ON BEHALF OF THE UNITED STATES OF AMERICA, I…
-- 09/14 03:38 [FirstSquawk] THE DECISION DELIVERS A MAJOR VICTORY TO THE IRISH GOVERNMENT AND HIGHLIGHTS TRUMP'S OFTEN SHIFTING AND PERSONAL APPROACH TO TRADE POLICY, COMING AT THE END OF A TWO-DAY VISIT IN WHICH IRELAND'S LEADERS 'ROLLED OUT THE RED CARPET', WITH TRU…
-- 09/14 03:38 [FirstSquawk] THE VISIT WAS NOT WITHOUT CONTROVERSY, AS TRUMP SAID SATURDAY HE WOULD LIKE TO SEE A UNIFIED IRELAND — SPARKING BLOWBACK IN NORTHERN IRELAND, WHICH IS PART OF THE UK — THOUGH HE DEFENDED THE REMARKS SUNDAY, CALLING THEM 'FAIRLY ROUTINE' AND…
-- 09/14 03:41 [FirstSquawk] U.S. HOUSE SPEAKER MIKE JOHNSON SAYS ON IRAN THAT 'THE IRANIANS ARE NOT TRUSTWORTHY NEGOTIATING PARTNERS', ACCUSING THEM OF LYING 'EVERY DAY' AND SITTING AT THE TABLE TO 'TELL YOU ONE THING, DO THE OPPOSITE', ADDING THAT 'FOR SOME OF THEM, …
 - 09/14 03:52 [financialjuice] Trump: will consider releasing additional records related to 9/11 attacks
 - 09/14 04:00 [financialjuice/FirstSquawk] Canada aims for Ukraine loan role to strengthen EU relations - FT
 - 09/14 04:05 [DeItaone] TRUMP SAYS HE WILL LOOK AT WHETHER TO RELEASE MORE RECORDS LINKED TO 9/11 ATTACKS
@@ -277,3 +269,10 @@
 - 09/14 15:10 [FirstSquawk] Shanghai is encouraging eligible financial institutions to develop enterprise AI platforms, signaling a push to accelerate AI adoption across the city’s financial sector.
 - 09/14 15:21 [FirstSquawk] CHINA’S TOP SPY CHIEF WARNS AI COULD THREATEN POLITICAL STABILITY & CRITICAL INFRASTRUCTURE
 - 09/14 15:23 [FirstSquawk] Malaysia’s **PETRONAS signs an LNG supply agreement with METLEN**, aiming to strengthen energy security and diversify gas supplies across Southeast Europe.
+- 09/14 15:27 [FirstSquawk] EUR/USD falls 0.33% to 1.1549, hitting a near one-month low as the euro comes under renewed pressure against the dollar.
+- 09/14 15:27 [FirstSquawk] OpenAI is reportedly in talks to conduct AI model training in Australia, according to Nikkei, potentially expanding the company’s training operations beyond its existing locations.
+- 09/14 15:30 [financialjuice] SWISS PPI YOY ACTUAL -0.7% (FORECAST -, PREVIOUS -2.1%) $MACRO
+- 09/14 15:30 [financialjuice] SWISS PPI MOM ACTUAL 0.7% (FORECAST -, PREVIOUS -0.1%) $MACRO
+- 09/14 15:36 [FirstSquawk] British pound slips toward 1.3500 against the U.S. dollar as expectations for a Fed rate hike strengthen, adding pressure to sterling.
+- 09/14 15:40 [FirstSquawk] INDIA (AUG) OUTPUT PPI YOY ACTUAL: 9.81% VS 9.57% PREVIOUS
+- 09/14 15:40 [FirstSquawk] INDIA (AUG) WHOLESALE PRICES YOY ACTUAL: 9.92% VS 9.78% PREVIOUS; EST 9.90%
