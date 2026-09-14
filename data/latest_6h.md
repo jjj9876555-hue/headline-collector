@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 19:17 JST／対象: 09/14 13:17 〜 09/14 19:17 JST（時刻はすべて日本時間）
+生成: 2026-09-14 19:33 JST／対象: 09/14 13:33 〜 09/14 19:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/14 16:28 | 09/14 18:30 | ⚠ 50分（16:28→17:19） |
-| FirstSquawk | 88 | 09/14 13:18 | 09/14 19:12 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 43 | 09/14 14:07 | 09/14 19:06 | ⚠ 53分（17:16→18:10） |
+| DeItaone | 11 | 09/14 16:28 | 09/14 19:24 | ⚠ 53分（18:30→19:24） |
+| FirstSquawk | 85 | 09/14 13:41 | 09/14 19:27 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 44 | 09/14 14:07 | 09/14 19:22 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 139 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 137 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 13:18 [FirstSquawk] AI-linked stocks tumble in early Asian trading after leaders of major frontier AI companies warn that development may need to slow to limit potential risks to humanity as per reuters
-- 09/14 13:29 [FirstSquawk] Okinawa governor-elect Koja secures more than 400,000 votes, setting a new record in the prefecture’s gubernatorial election.
-- 09/14 13:33 [FirstSquawk] JAPAN INDUSTRIAL PRODUCTION (Y/Y): 3.9% (PREV 4.1%)
-- 09/14 13:33 [FirstSquawk] JAPAN INDUSTRIAL PRODUCTION (M/M) JUL F: 0.2% (PREV 0.1%)
 - 09/14 13:41 [FirstSquawk] Japan’s central bank is approaching a pivotal rate decision, with markets closely watching whether the BOJ moves ahead with further policy tightening.
 - 09/14 13:41 [FirstSquawk] Global AI stocks retreat as concerns over AI risks intensify, while SoftBank shares tumble as much as 13% after tech leaders call for a slower pace of AI development - FT
 - 09/14 13:42 [FirstSquawk] Warsh and Trump appear headed for a clash over U.S. interest rates, as investors increasingly expect the Fed to raise rates, according to the Financial Times.
@@ -163,3 +159,5 @@
 - 09/14 19:06 [financialjuice] Japan cabinet approval rating unchanged at 53% - NHK Poll
 - 09/14 19:08 [FirstSquawk] USD/JPY EXTENDS GAINS, RISES 0.7% TO ONE-WEEK HIGH AT 154.74
 - 09/14 19:12 [FirstSquawk] EU'S VON DER LEYEN TO PRESENT 'EU KIDS ACT' ON THURSDAY
+- 09/14 19:22 [financialjuice/DeItaone] Reports of ammonia gas leak in Jordan's Aqaba industrial complex - State TV
+- 09/14 19:27 [FirstSquawk] EU COMMISSION SPOX: EU IS IN FAVOUR OF INNOVATIVE AI SERVICES, BUT WON'T COMPROMISE ON SAFETY, COMPANIES HAVE TO PROVE SAFETY FOR CITIZENS

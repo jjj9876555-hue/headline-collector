@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 19:17 JST／対象: 09/13 19:17 〜 09/14 19:17 JST（時刻はすべて日本時間）
+生成: 2026-09-14 19:33 JST／対象: 09/13 19:33 〜 09/14 19:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 33 | 09/13 20:35 | 09/14 18:30 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 278 | 09/13 19:40 | 09/14 19:12 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 127 | 09/13 19:26 | 09/14 19:06 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 34 | 09/13 20:35 | 09/14 19:24 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 279 | 09/13 19:40 | 09/14 19:27 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 125 | 09/13 19:54 | 09/14 19:22 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 433 行（統合前 438 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 432 行（統合前 438 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 19:26 [financialjuice] Goldenmax International denies reports of products certified into Nvidia, Huawei supply chains after unusual share price moves
-- 09/13 19:26 [financialjuice] secures $5 billion through new share and convertible bond sales, filing reveals
-- 09/13 19:29 [financialjuice] Lithuania closes Vilnius airport, NATO deploys fighter jets after potential drone sighting – national crisis management centre
 - 09/13 19:40 [FirstSquawk] Yemeni government-affiliated resistance: 500 killed and 1,500 wounded among our forces in the battles of the western coast between August 9 and September 10
 - 09/13 19:40 [FirstSquawk] Yemeni government-affiliated resistance: The Houthi attack on the western coast was supported by the Iranian Revolutionary Guard and its allies.
 - 09/13 19:41 [FirstSquawk] Yemeni government-affiliated resistance: We have redeployed our forces to new defensive lines to thwart the plan to encircle them.
@@ -457,3 +454,5 @@
 - 09/14 19:06 [financialjuice] Japan cabinet approval rating unchanged at 53% - NHK Poll
 - 09/14 19:08 [FirstSquawk] USD/JPY EXTENDS GAINS, RISES 0.7% TO ONE-WEEK HIGH AT 154.74
 - 09/14 19:12 [FirstSquawk] EU'S VON DER LEYEN TO PRESENT 'EU KIDS ACT' ON THURSDAY
+- 09/14 19:22 [financialjuice/DeItaone] Reports of ammonia gas leak in Jordan's Aqaba industrial complex - State TV
+- 09/14 19:27 [FirstSquawk] EU COMMISSION SPOX: EU IS IN FAVOUR OF INNOVATIVE AI SERVICES, BUT WON'T COMPROMISE ON SAFETY, COMPANIES HAVE TO PROVE SAFETY FOR CITIZENS
