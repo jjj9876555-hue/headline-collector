@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 16:02 JST／対象: 09/13 16:02 〜 09/14 16:02 JST（時刻はすべて日本時間）
+生成: 2026-09-14 16:22 JST／対象: 09/13 16:22 〜 09/14 16:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 281 | 09/13 16:14 | 09/14 15:50 | ⚠ 90分（01:59→03:29） |
+| FirstSquawk | 276 | 09/13 16:54 | 09/14 15:50 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 114 | 09/13 16:41 | 09/14 16:02 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 414 行（統合前 420 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 409 行（統合前 415 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 16:14 [FirstSquawk] Chinese leader pledges to help Brics nations with AI and smart manufacturing
-- 09/13 16:14 [FirstSquawk] Russia battered the Odesa region overnight and early Sunday morning with continuous strikes, damaging high-rises, private homes, and infrastructure.
-- 09/13 16:15 [FirstSquawk] Kremlin: Modi and Xi actively proposed help for Ukraine settlement, Putin welcomed their willingness
-- 09/13 16:15 [FirstSquawk] Student loans terms to be made clearer in England after MP criticism
-- 09/13 16:15 [FirstSquawk] BRICS+ format has proven its worth, Putin tells New Delhi session "This format has more than proven its worth: it opens the door to direct, candid dialogue between full-fledged BRICS members and partner countries, as well as other states an…
 - 09/13 16:41 [financialjuice] UKMTO: local officials evacuating crew of ship assaulted in Strait of Hormuz
 - 09/13 16:43 [financialjuice] Ukraine's military: oil refinery struck in Russia's Krasnodar region
 - 09/13 16:54 [FirstSquawk] A fire broke out aboard a vessel struck by an unknown projectile while transiting the Strait of Hormuz, UK Maritime Trade Operations said in an update on Sunday.

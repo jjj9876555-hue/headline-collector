@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 16:02 JST／対象: 09/14 10:02 〜 09/14 16:02 JST（時刻はすべて日本時間）
+生成: 2026-09-14 16:22 JST／対象: 09/14 10:22 〜 09/14 16:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 97 | 09/14 10:03 | 09/14 15:50 | 11分（15:10→15:21） |
-| financialjuice | 35 | 09/14 10:18 | 09/14 16:02 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 90 | 09/14 10:23 | 09/14 15:50 | 11分（15:10→15:21） |
+| financialjuice | 34 | 09/14 10:22 | 09/14 16:02 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 132 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 124 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 10:03 [FirstSquawk] Taiwan’s overnight funding market starts the session steady at 0.805%, matching the previous session’s opening level.
-- 09/14 10:09 [FirstSquawk] Euro slips below 1.1600 as markets increasingly price a potential Fed rate hike, adding pressure to the single currency.
-- 09/14 10:12 [FirstSquawk] Trump dismisses claims that Chinese entities assisted Iran ahead of the attack that resulted in the deaths of U.S. troops - RTRS
-- 09/14 10:14 [FirstSquawk] Trump signals openness to Chinese automakers entering the U.S. market, ahead of his upcoming summit with Chinese President Xi Jinping.
-- 09/14 10:18 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023
-- 09/14 10:18 [FirstSquawk] China’s central bank sets the USD/CNY reference rate at 6.7698, stronger than the previous fixing of 6.7743.
-- 09/14 10:18 [FirstSquawk] Oil prices climb after Saudi Arabia shuts a key pipeline designed to bypass the Strait of Hormuz, raising fresh concerns over global crude supply flows - CNBC
-- 09/14 10:19 [FirstSquawk] China sets the yuan midpoint at its strongest level since February 3, 2023, signaling firmer support for the currency.
 - 09/14 10:22 [financialjuice] China cbank: 7-day reverse repo volume drops to zero Monday amid primary dealer demand - statement
 - 09/14 10:23 [FirstSquawk] The British pound holds above 1.3500 against the U.S. dollar, with traders looking ahead to key UK economic data and upcoming Fed and BoE decisions.
 - 09/14 10:25 [financialjuice] China’s central bank injects 504 billion yuan via overnight and one-day reverse repos: statement

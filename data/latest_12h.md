@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 16:02 JST／対象: 09/14 04:02 〜 09/14 16:02 JST（時刻はすべて日本時間）
+生成: 2026-09-14 16:22 JST／対象: 09/14 04:22 〜 09/14 16:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/14 04:05 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
+| DeItaone | 3 | 09/14 04:30 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
 | FirstSquawk | 177 | 09/14 04:25 | 09/14 15:50 | 37分（07:53→08:31） |
-| financialjuice | 73 | 09/14 04:07 | 09/14 16:02 | ⚠ 75分（12:52→14:07） |
+| financialjuice | 71 | 09/14 04:42 | 09/14 16:02 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 253 行（統合前 254 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 250 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 04:05 [DeItaone] TRUMP SAYS HE WILL LOOK AT WHETHER TO RELEASE MORE RECORDS LINKED TO 9/11 ATTACKS
-- 09/14 04:07 [financialjuice] Oman's foreign minister: regional meeting scheduled for tomorrow in Salalah postponed in the interest of consensus
-- 09/14 04:07 [financialjuice] Oman's foreign minister: We remain committed to fostering dialogue that supports stability and lasting cooperation in the region
 - 09/14 04:25 [FirstSquawk] CANADA AIMS FOR UKRAINE LOAN ROLE TO STRENGTHEN EU RELATIONS - FT
 - 09/14 04:26 [FirstSquawk] OMAN'S FOREIGN MINISTER SAYS A REGIONAL MEETING SCHEDULED FOR TOMORROW IN SALALAH HAS BEEN POSTPONED IN THE INTEREST OF CONSENSUS, ADDING THAT OMAN REMAINS COMMITTED TO FOSTERING DIALOGUE THAT SUPPORTS STABILITY AND LASTING COOPERATION IN T…
 - 09/14 04:26 [FirstSquawk] TALKS ON AI STANDARDS BEGAN BEFORE AMODEI'S ESSAY - THE INFORMATION
