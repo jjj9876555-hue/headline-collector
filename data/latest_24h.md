@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 01:34 JST／対象: 09/14 01:34 〜 09/15 01:34 JST（時刻はすべて日本時間）
+生成: 2026-09-15 01:55 JST／対象: 09/14 01:55 〜 09/15 01:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 50 | 09/14 02:20 | 09/15 00:34 | ⚠ 505分（08:03→16:28） |
 | FirstSquawk | 334 | 09/14 01:56 | 09/15 01:33 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 219 | 09/14 02:46 | 09/15 01:32 | ⚠ 75分（12:52→14:07） |
+| financialjuice | 220 | 09/14 02:46 | 09/15 01:50 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 585 行（統合前 606 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 586 行（統合前 608 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -609,3 +609,4 @@
 - 09/15 01:32 [financialjuice] Trump: With temporary exception of oil, prices coming down.
 - 09/15 01:32 [financialjuice] Trump: Oil to drop after Iran conflict ends, will not be long.
 - 09/15 01:33 [FirstSquawk] TRUMP: I HOPE EVERYONE REALIZES THAT PRICE INCREASES THROUGHOUT AMERICA WERE CAUSED BY SLEEPY JOE BIDEN AND THE BIDEN ADMINISTRATION, NOT BY “TRUMP.” EVEN OIL WAS HIGHER UNDER BIDEN THAN IT IS RIGHT NOW, AND WE PREVENTED IRAN FROM HAVING A …
+- 09/15 01:50 [financialjuice] ❗ US seeks "step-by-step" agreement with Iran, reports ILNA citing Pakistani sources

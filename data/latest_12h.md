@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 01:34 JST／対象: 09/14 13:34 〜 09/15 01:34 JST（時刻はすべて日本時間）
+生成: 2026-09-15 01:55 JST／対象: 09/14 13:55 〜 09/15 01:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 44 | 09/14 16:28 | 09/15 00:34 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 184 | 09/14 13:41 | 09/15 01:33 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 156 | 09/14 14:07 | 09/15 01:32 | ⚠ 53分（17:16→18:10） |
+| FirstSquawk | 177 | 09/14 13:55 | 09/15 01:33 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 157 | 09/14 14:07 | 09/15 01:50 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 368 行（統合前 387 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 362 行（統合前 382 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 13:41 [FirstSquawk] Japan’s central bank is approaching a pivotal rate decision, with markets closely watching whether the BOJ moves ahead with further policy tightening.
-- 09/14 13:41 [FirstSquawk] Global AI stocks retreat as concerns over AI risks intensify, while SoftBank shares tumble as much as 13% after tech leaders call for a slower pace of AI development - FT
-- 09/14 13:42 [FirstSquawk] Warsh and Trump appear headed for a clash over U.S. interest rates, as investors increasingly expect the Fed to raise rates, according to the Financial Times.
-- 09/14 13:50 [FirstSquawk] Essar has struck a deal to acquire 118 petrol stations in the UK, in a move that expands the Indian energy group’s retail footprint in the British market, according to the Financial Times.
-- 09/14 13:53 [FirstSquawk] The UK’s expanded ban on advertising ‘less healthy’ foods could put up to £1 billion of media spending at risk, according to the Financial Times.
-- 09/14 13:54 [FirstSquawk] The UK faces a £258 billion infrastructure spending shortfall, according to a Financial Times report, highlighting the scale of investment needed to upgrade the country’s infrastructure.
-- 09/14 13:54 [FirstSquawk] The music industry is stepping up its crackdown on AI-generated songs, targeting their use in streaming fraud and efforts to manipulate royalty payouts, according to the Financial Times.
 - 09/14 13:55 [FirstSquawk] A surge in oil prices is reviving expectations of a Bank of England rate hike this year, as higher energy costs threaten to keep inflation elevated, according to the Financial Times.
 - 09/14 13:55 [FirstSquawk] Europe’s growing defence spending is testing its appetite for US investment, as major arms deals raise questions over how much European security spending will flow toward American companies, according to the Financial Times.
 - 09/14 14:02 [FirstSquawk] FINLAND (AUG) CPI YOY ACTUAL: 2.2% VS 2.1% PREVIOUS
@@ -392,3 +385,4 @@
 - 09/15 01:32 [financialjuice] Trump: With temporary exception of oil, prices coming down.
 - 09/15 01:32 [financialjuice] Trump: Oil to drop after Iran conflict ends, will not be long.
 - 09/15 01:33 [FirstSquawk] TRUMP: I HOPE EVERYONE REALIZES THAT PRICE INCREASES THROUGHOUT AMERICA WERE CAUSED BY SLEEPY JOE BIDEN AND THE BIDEN ADMINISTRATION, NOT BY “TRUMP.” EVEN OIL WAS HIGHER UNDER BIDEN THAN IT IS RIGHT NOW, AND WE PREVENTED IRAN FROM HAVING A …
+- 09/15 01:50 [financialjuice] ❗ US seeks "step-by-step" agreement with Iran, reports ILNA citing Pakistani sources

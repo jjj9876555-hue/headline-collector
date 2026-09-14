@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 01:34 JST／対象: 09/14 19:34 〜 09/15 01:34 JST（時刻はすべて日本時間）
+生成: 2026-09-15 01:55 JST／対象: 09/14 19:55 〜 09/15 01:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 33 | 09/14 19:46 | 09/15 00:34 | ⚠ 48分（22:11→23:00） |
-| FirstSquawk | 99 | 09/14 19:38 | 09/15 01:33 | 18分（20:12→20:31） |
-| financialjuice | 112 | 09/14 19:37 | 09/15 01:32 | 28分（20:02→20:30） |
+| DeItaone | 31 | 09/14 19:56 | 09/15 00:34 | ⚠ 48分（22:11→23:00） |
+| FirstSquawk | 93 | 09/14 20:00 | 09/15 01:33 | 18分（20:12→20:31） |
+| financialjuice | 112 | 09/14 20:01 | 09/15 01:50 | 28分（20:02→20:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 231 行（統合前 247 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 224 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 19:37 [financialjuice] ECB's Stournaras: Timely ECB steps limit risk of painful hikes later
-- 09/14 19:38 [FirstSquawk] BOEING EXEC: ALL FLIGHT TESTING COMPLETED FOR 737 MAX 10, AIM TO HAVE IT CERTIFIED VERY SOON
-- 09/14 19:38 [FirstSquawk] STOURNARAS: TIMELY ECB STEPS LIMIT RISK OF PAINFUL HIKES LATER
-- 09/14 19:44 [FirstSquawk] NASDAQ 100 FUTURES PARE LOSSES, NOW DOWN ABOUT 1.5%
-- 09/14 19:46 [DeItaone/FirstSquawk] U.S. ENERGY SECRETARY WRIGHT: THERE ARE NO PLANS FOR URANIUM ENRICHMENT IN SAUDI ARABIA
-- 09/14 19:47 [DeItaone] *KIOXIA IS SAID TO CONSIDER RAISING $10 BILLION IN US LISTING
-- 09/14 19:47 [FirstSquawk] KIOXIA PLANS TO RAISE $10 BILLION THROUGH A US STOCK LISTING.
-- 09/14 19:54 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: SOME POLITICAL REPRESENTATIVES IN GERMANY ARE QUESTIONING THE EXTENT OF OUR DEFENCE EXPENDITURE, INCLUDING FOR UKRAINE, BUT THEY ARE NOT THE MAJORITY
 - 09/14 19:56 [DeItaone] VIENNA- U.S. ENERGY SEC WRIGHT: TREND IN 7-DAY ROLLING AVERAGE OF OIL SHIPMENTS THROUGH HORMUZ IS RISING AND WILL CONTINUE TO RISE
 - 09/14 20:00 [FirstSquawk] Boeing Exec: Progress Has Been Made In The Supply Of Engines For 787 Series From Ge Aerospace
 - 09/14 20:01 [FirstSquawk] US ENERGY SEC WRIGHT: TREND IN 7-DAY ROLLING AVERAGE OF OIL SHIPMENTS THROUGH HORMUZ IS RISING AND WILL CONTINUE TO RISE
@@ -255,3 +247,4 @@
 - 09/15 01:32 [financialjuice] Trump: With temporary exception of oil, prices coming down.
 - 09/15 01:32 [financialjuice] Trump: Oil to drop after Iran conflict ends, will not be long.
 - 09/15 01:33 [FirstSquawk] TRUMP: I HOPE EVERYONE REALIZES THAT PRICE INCREASES THROUGHOUT AMERICA WERE CAUSED BY SLEEPY JOE BIDEN AND THE BIDEN ADMINISTRATION, NOT BY “TRUMP.” EVEN OIL WAS HIGHER UNDER BIDEN THAN IT IS RIGHT NOW, AND WE PREVENTED IRAN FROM HAVING A …
+- 09/15 01:50 [financialjuice] ❗ US seeks "step-by-step" agreement with Iran, reports ILNA citing Pakistani sources
