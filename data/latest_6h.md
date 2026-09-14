@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 08:49 JST／対象: 09/15 02:49 〜 09/15 08:49 JST（時刻はすべて日本時間）
+生成: 2026-09-15 08:59 JST／対象: 09/15 02:59 〜 09/15 08:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/15 03:00 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 45 | 09/15 02:58 | 09/15 07:07 | 22分（02:58→03:21） |
-| financialjuice | 45 | 09/15 02:54 | 09/15 08:29 | 34分（07:55→08:29） |
+| FirstSquawk | 46 | 09/15 03:21 | 09/15 08:55 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 45 | 09/15 03:17 | 09/15 08:50 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 90 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 92 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 02:54 [financialjuice/FirstSquawk] House Minority Leader Jeffries: Democrats to prioritize regulating AI if we win house
 - 09/15 03:00 [DeItaone] U.S.-IRAN PHASED DEAL REPORTEDLY IN PLAY Washington may be considering a “phased” agreement with Tehran aimed at ending the U.S.-Iran conflict, according to a Pakistani source cited by ILNA. The source cautioned that Trump’s recent comments…
 - 09/15 03:17 [financialjuice/FirstSquawk] US House Speaker Johnson: Trump will convene with AI executives this week or next.
 - 09/15 03:23 [FirstSquawk] SAUDI ARABIA'S KEY EAST-WEST PIPELINE, HIT BY DRONES, COULD REMAIN MOSTLY OFFLINE FOR THREE TO FIVE WEEKS, TIGHTENING GLOBAL SUPPLY AS HOUTHI FORCES EXPAND ALONG RED SEA SHIPPING ROUTES, WITH THE PIPELINE POSSIBLY OPERATING AT REDUCED CAPAC…
@@ -114,3 +113,6 @@
 - 09/15 07:45 [financialjuice] NZ s/adj electronic card retail sales fall 0.9% in August versus prior month
 - 09/15 07:55 [financialjuice] Saudi-led coalition in Yemen: 13 civilians hurt in Houthis attacks on Saudi cities of Khamis Mushait, Abha and Taif on Monday
 - 09/15 08:29 [financialjuice] U.S. Supreme Court refuses Trump administration request to enforce postal service rule limiting mail-in voting
+- 09/15 08:50 [financialjuice] CanSemi Technology Inc plans to sell 512.64 million shares in Shenzhen listing
+- 09/15 08:54 [FirstSquawk] JAPAN EARLY TRADE: NIKKEI FUTURES SLIDE 0.46%, WHILE 10-YEAR JGB FUTURES DROP 0.18 POINT.
+- 09/15 08:55 [FirstSquawk] NATO FIGHTER JETS SHOT DOWN A DRONE THAT VIOLATED LITHUANIA'S AIRSPACE OVER KAUNAS COUNTY, PROMPTING AN AIR ALERT AND TEMPORARY FLIGHT RESTRICTIONS AT VILNIUS AIRPORT. THE ALERT AND RESTRICTIONS WERE LIFTED AFTER THE DRONE WAS DESTROYED, WI…
