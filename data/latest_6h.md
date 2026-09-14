@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 13:53 JST／対象: 09/14 07:53 〜 09/14 13:53 JST（時刻はすべて日本時間）
+生成: 2026-09-14 14:06 JST／対象: 09/14 08:06 〜 09/14 14:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/14 08:03 | 09/14 08:03 | - |
-| FirstSquawk | 99 | 09/14 07:53 | 09/14 13:50 | 37分（07:53→08:31） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 105 | 09/14 08:31 | 09/14 14:02 | 19分（08:50→09:10） |
 | financialjuice | 23 | 09/14 08:25 | 09/14 12:52 | ⚠ 50分（10:40→11:31） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 123 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 128 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 07:53 [FirstSquawk] TRUMP SAYS THE U.S. SHOULD HAVE THE LOWEST INTEREST RATE IN THE WORLD, EVEN AS HOTTER-THAN-EXPECTED AUGUST INFLATION PUSHES MARKETS TO PRICE AN 86% CHANCE OF A SEPTEMBER FED RATE HIKE. HIGHER ENERGY COSTS FROM THE IRAN WAR AND TRUMP’S TARIF…
-- 09/14 08:03 [DeItaone] OIL SURGES AS MIDDLE EAST STRIKES HIT SUPPLY FEARS Oil prices jumped more than $3 after fresh strikes in Saudi Arabia and near the Strait of Hormuz heightened supply concerns. Brent rose 3.5% to $108.23, while WTI climbed 3.2% to $103.20. W…
 - 09/14 08:25 [financialjuice] US EPA set to repeal carbon limits for coal, gas power plants
 - 09/14 08:28 [financialjuice] Early warning issued in Khamis Mushait to signal possible threat: Saudi civil defense
 - 09/14 08:30 [financialjuice] Early warning issued in Abha to alert of possible danger: Saudi civil defense
@@ -147,3 +145,10 @@
 - 09/14 13:41 [FirstSquawk] Global AI stocks retreat as concerns over AI risks intensify, while SoftBank shares tumble as much as 13% after tech leaders call for a slower pace of AI development - FT
 - 09/14 13:42 [FirstSquawk] Warsh and Trump appear headed for a clash over U.S. interest rates, as investors increasingly expect the Fed to raise rates, according to the Financial Times.
 - 09/14 13:50 [FirstSquawk] Essar has struck a deal to acquire 118 petrol stations in the UK, in a move that expands the Indian energy group’s retail footprint in the British market, according to the Financial Times.
+- 09/14 13:53 [FirstSquawk] The UK’s expanded ban on advertising ‘less healthy’ foods could put up to £1 billion of media spending at risk, according to the Financial Times.
+- 09/14 13:54 [FirstSquawk] The UK faces a £258 billion infrastructure spending shortfall, according to a Financial Times report, highlighting the scale of investment needed to upgrade the country’s infrastructure.
+- 09/14 13:54 [FirstSquawk] The music industry is stepping up its crackdown on AI-generated songs, targeting their use in streaming fraud and efforts to manipulate royalty payouts, according to the Financial Times.
+- 09/14 13:55 [FirstSquawk] A surge in oil prices is reviving expectations of a Bank of England rate hike this year, as higher energy costs threaten to keep inflation elevated, according to the Financial Times.
+- 09/14 13:55 [FirstSquawk] Europe’s growing defence spending is testing its appetite for US investment, as major arms deals raise questions over how much European security spending will flow toward American companies, according to the Financial Times.
+- 09/14 14:02 [FirstSquawk] FINLAND (AUG) CPI YOY ACTUAL: 2.2% VS 2.1% PREVIOUS
+- 09/14 14:02 [FirstSquawk] FINLAND (AUG) CPI MOM ACTUAL: -0.2% VS 0.2% PREVIOUS
