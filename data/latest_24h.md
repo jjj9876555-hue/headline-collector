@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 22:59 JST／対象: 09/13 22:59 〜 09/14 22:59 JST（時刻はすべて日本時間）
+生成: 2026-09-14 23:21 JST／対象: 09/13 23:21 〜 09/14 23:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 09/14 01:15 | 09/14 22:11 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 298 | 09/13 23:27 | 09/14 22:59 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 158 | 09/14 00:11 | 09/14 22:56 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 43 | 09/14 01:15 | 09/14 23:20 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 313 | 09/13 23:27 | 09/14 23:20 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 173 | 09/14 00:11 | 09/14 23:18 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 484 行（統合前 495 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 515 行（統合前 530 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -506,5 +506,36 @@
 - 09/14 22:57 [FirstSquawk] WANG SAYS CHINA, FRANCE SHOULD ENHANCE STRATEGIC COMMUNICATIONS
 - 09/14 22:57 [FirstSquawk] WANG: CHINA, EU SHOULD AVOID CONFRONTATIONS
 - 09/14 22:58 [FirstSquawk] CHINA HOPES FRANCE AVOIDS OFFICIAL COMMUNICATIONS WITH TAIWAN
-- 09/14 22:59 [FirstSquawk] TRUMP: ONLY CONTROL THAT AI NEEDS IS A STRONG PRESIDENT
+- 09/14 22:59 [FirstSquawk/DeItaone] TRUMP: ONLY CONTROL THAT AI NEEDS IS A STRONG PRESIDENT
 - 09/14 22:59 [FirstSquawk] TRUMP: 'SICK CONSPIRACY' GOING ON AGAINST AI AND DATA CENTERS
+- 09/14 22:59 [FirstSquawk] TRUMP: ADMIN HAS STOPPED AI PEOPLE FROM DOING BAD THINGS
+- 09/14 22:59 [financialjuice] Trump: AI does not need additional guardrails. Strong presidential oversight is sufficient - Truth Social
+- 09/14 23:00 [FirstSquawk] TRUMP ON TRUTH SOCIAL: The only control or “guardrails” that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades! The Trump Administration has stopped AI “people” from doing bad, or potentially bad, “thin…
+- 09/14 23:00 [DeItaone] TRUMP REJECTS AI GUARDRAILS President Trump says AI does not need additional industry “guardrails,” arguing that his administration already has sufficient criminal and regulatory authority over AI companies. Trump also criticized Anthropic …
+- 09/14 23:00 [financialjuice] Trump: Administration has stopped AI figures and companies from doing “bad, or potentially bad” things, (specifically naming Anthropic CEO Dario Amodei)
+- 09/14 23:01 [financialjuice] Trump: There is a conspiracy against AI and data centers that benefits China.
+- 09/14 23:01 [DeItaone] TRUMP: THERE IS A SICK CONSPIRACY GOING ON AGAINST AI AND DATA CENTERS
+- 09/14 23:01 [FirstSquawk] GERMANY SET TO BUY €3.4 BILLION WORTH OF US TOMAHAWK MISSILES AND LOCKHEED MARTIN TYPHON SYSTEMS $LMT
+- 09/14 23:03 [financialjuice] Google: Exploring a potential data center in Lea County, New Mexico. $GOOGL
+- 09/14 23:05 [FirstSquawk] CARNEY: FOREIGN CAPITAL UNDERALLOCATED TO CANADA
+- 09/14 23:06 [financialjuice] Canada's PM Carney: More tax competitiveness measures coming soon
+- 09/14 23:06 [FirstSquawk] EXXONMOBIL: INVESTIGATING CAUSE OF POWER OUTAGE AT 264K BPD REFINERY IN JOLIET, ILLINOIS
+- 09/14 23:11 [FirstSquawk] NASDAQ 100 PARES DROP TO 1%, HAD BEEN DOWN AS MUCH AS 1.7%
+- 09/14 23:12 [financialjuice] Canada's PM Carney: Mutually advantageous deal possible between Canada and US.
+- 09/14 23:12 [financialjuice] Canada's PM Carney: I welcome Trump's comments that a deal could come soon.
+- 09/14 23:13 [financialjuice/FirstSquawk] Canada's PM Carney: Ready to sit down and negotiate deal with the US.
+- 09/14 23:14 [financialjuice/FirstSquawk] Canada's PM Carney: US officials may understand Canada's red lines better.
+- 09/14 23:14 [financialjuice/FirstSquawk] Canada's PM Carney: We'll come to an agreement at some point with the US.
+- 09/14 23:16 [FirstSquawk] CARNEY: TECH STABILITY BOARD SIMILAR TO FSB WOULD MAKE SENSE
+- 09/14 23:16 [FirstSquawk] CARNEY: MUTUALLY ADVANTAGEOUS DEAL POSSIBLE BETWEEN CANADA AND US.
+- 09/14 23:16 [FirstSquawk] CARNEY: READY TO SIT DOWN AND NEGOTIATE DEAL WITH THE US.
+- 09/14 23:16 [FirstSquawk] CARNEY: US OFFICIALS MAY UNDERSTAND CANADA'S RED LINES BETTER.
+- 09/14 23:16 [FirstSquawk] CARNEY: WE'LL COME TO AN AGREEMENT AT SOME POINT WITH THE US.
+- 09/14 23:16 [financialjuice] Canada's PM Carney: There is a huge opportunity for Canada and EU to build prosperity.
+- 09/14 23:17 [financialjuice] Canada's PM Carney: We may see enhanced labor mobility from EU partnership.
+- 09/14 23:17 [financialjuice] Crypto Fear & Greed Index: 57/100 - Greed
+- 09/14 23:18 [financialjuice] Fear & Greed Index: 32/100 - Fear
+- 09/14 23:18 [financialjuice] US September Interest Rate Decision Prep
+- 09/14 23:19 [DeItaone] US 10-YEAR TREASURY YIELD REACHES 5% FOR FIRST TIME SINCE 2023
+- 09/14 23:20 [FirstSquawk] ANTHROPIC REMAINS ON TRACK FOR 2026 IPO
+- 09/14 23:20 [DeItaone] ANTHROPIC STILL EYES 2026 IPO Anthropic is still likely to go public in 2026, despite growing debate over AI safety and regulation, Axios reports. The Claude maker reportedly views public-market transparency as potentially strengthening its…
