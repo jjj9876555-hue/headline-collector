@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 13:19 JST／対象: 09/14 01:19 〜 09/14 13:19 JST（時刻はすべて日本時間）
+生成: 2026-09-14 13:36 JST／対象: 09/14 01:36 〜 09/14 13:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/14 02:20 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 147 | 09/14 01:56 | 09/14 13:18 | ⚠ 90分（01:59→03:29） |
+| FirstSquawk | 150 | 09/14 01:56 | 09/14 13:33 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 63 | 09/14 02:46 | 09/14 12:52 | ⚠ 52分（04:46→05:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 214 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 217 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -238,3 +238,6 @@
 - 09/14 13:12 [FirstSquawk] OMANI ENERGY MINISTER: STRAIT OF HORMUZ WILL REOPEN; CURRENT DISRUPTION LIKELY TO BE SHORT-LIVED.
 - 09/14 13:13 [FirstSquawk] The U.S.-backed Luzon corridor in the Philippines is facing growing scrutiny, with questions emerging over whether the initiative is delivering meaningful benefits to local communities.
 - 09/14 13:18 [FirstSquawk] AI-linked stocks tumble in early Asian trading after leaders of major frontier AI companies warn that development may need to slow to limit potential risks to humanity as per reuters
+- 09/14 13:29 [FirstSquawk] Okinawa governor-elect Koja secures more than 400,000 votes, setting a new record in the prefecture’s gubernatorial election.
+- 09/14 13:33 [FirstSquawk] JAPAN INDUSTRIAL PRODUCTION (Y/Y): 3.9% (PREV 4.1%)
+- 09/14 13:33 [FirstSquawk] JAPAN INDUSTRIAL PRODUCTION (M/M) JUL F: 0.2% (PREV 0.1%)

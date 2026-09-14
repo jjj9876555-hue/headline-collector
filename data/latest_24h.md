@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 13:19 JST／対象: 09/13 13:19 〜 09/14 13:19 JST（時刻はすべて日本時間）
+生成: 2026-09-14 13:36 JST／対象: 09/13 13:36 〜 09/14 13:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 273 | 09/13 13:23 | 09/14 13:18 | ⚠ 90分（01:59→03:29） |
+| FirstSquawk | 272 | 09/13 13:40 | 09/14 13:33 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 95 | 09/13 13:41 | 09/14 12:52 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 387 行（統合前 393 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 386 行（統合前 392 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 13:23 [FirstSquawk] Four arrested after Jordan’s Northern Military Region blocks attempted infiltration
-- 09/13 13:29 [FirstSquawk] Paris and Beirut call for the UN peacekeeping mission in Lebanon to be extended, keeping international forces in place amid ongoing regional tensions. The push highlights continued concerns over stability and security along Lebanon’s border…
-- 09/13 13:30 [FirstSquawk] CVC faces growing shareholder opposition over its €10.7 billion plan to take Recordati private - FT The revolt could complicate the deal, highlighting investor concerns over the valuation and terms of the proposed buyout.
-- 09/13 13:33 [FirstSquawk] Musk’s undisclosed financial backer has amassed a $40 billion stake in SpaceX. The investment underscores the growing influence of major private investors in the valuation and ownership of Elon Musk’s space company.
 - 09/13 13:40 [FirstSquawk] German defence start-up turns to automakers for support as Europe accelerates efforts to rebuild and expand its military strength. The push reflects growing demand for industrial capacity as European nations step up defence spending and rea…
 - 09/13 13:41 [financialjuice] Iranian commercial ship hit near Qeshm Island: one dead and three injured - state TV
 - 09/13 13:42 [FirstSquawk] Commercial vessel incident near Iran’s Qeshm Island leaves one dead and three injured
@@ -411,3 +407,6 @@
 - 09/14 13:12 [FirstSquawk] OMANI ENERGY MINISTER: STRAIT OF HORMUZ WILL REOPEN; CURRENT DISRUPTION LIKELY TO BE SHORT-LIVED.
 - 09/14 13:13 [FirstSquawk] The U.S.-backed Luzon corridor in the Philippines is facing growing scrutiny, with questions emerging over whether the initiative is delivering meaningful benefits to local communities.
 - 09/14 13:18 [FirstSquawk] AI-linked stocks tumble in early Asian trading after leaders of major frontier AI companies warn that development may need to slow to limit potential risks to humanity as per reuters
+- 09/14 13:29 [FirstSquawk] Okinawa governor-elect Koja secures more than 400,000 votes, setting a new record in the prefecture’s gubernatorial election.
+- 09/14 13:33 [FirstSquawk] JAPAN INDUSTRIAL PRODUCTION (Y/Y): 3.9% (PREV 4.1%)
+- 09/14 13:33 [FirstSquawk] JAPAN INDUSTRIAL PRODUCTION (M/M) JUL F: 0.2% (PREV 0.1%)
