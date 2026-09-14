@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 16:54 JST／対象: 09/13 16:54 〜 09/14 16:54 JST（時刻はすべて日本時間）
+生成: 2026-09-14 17:19 JST／対象: 09/13 17:19 〜 09/14 17:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 26 | 09/13 18:12 | 09/14 16:28 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 284 | 09/13 16:54 | 09/14 16:53 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 115 | 09/13 16:55 | 09/14 16:53 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 27 | 09/13 18:12 | 09/14 17:19 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 278 | 09/13 17:48 | 09/14 17:18 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 119 | 09/13 17:25 | 09/14 17:16 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 419 行（統合前 425 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 417 行（統合前 424 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 16:54 [FirstSquawk] A fire broke out aboard a vessel struck by an unknown projectile while transiting the Strait of Hormuz, UK Maritime Trade Operations said in an update on Sunday.
-- 09/13 16:54 [FirstSquawk] EU’s cybersecurity teams have used some of the most powerful AI models coming out of Silicon Valley to spot weaknesses in the bloc’s own digital systems.
-- 09/13 16:55 [financialjuice] Guangdong Goworld denies market rumor about high-frequency boards passing Nvidia certification after unusual share price moves
-- 09/13 16:56 [FirstSquawk] Ukraine is better prepared for winter energy strikes than last year, PM Serhii Koretskyi said at YES 2026. The strategy centers on decentralizing regional power and utility grids.
-- 09/13 16:56 [FirstSquawk] Modi and Xi volunteer mediation efforts on Ukraine to Putin “During their bilateral meetings, Modi and Xi took a keen interest in the Ukraine settlement and actively offered their good offices to help find a solution,” Kremlin spokesman Dmi…
-- 09/13 16:57 [FirstSquawk] Putin welcomed this readiness and gave the leaders detailed information on the situation regarding Ukraine, Peskov added
-- 09/13 16:57 [FirstSquawk] Donald Trump turns focus to golf at Doonbeg after Irish unity comments
-- 09/13 16:57 [FirstSquawk] US and Israeli attacks on Iran’s nuclear facilities were the main reason Tehran refused to grant the International Atomic Energy Agency access to some sites, a Foreign Ministry official said on Sunday.
-- 09/13 16:58 [FirstSquawk] Russian Foreign Minister Lavrov and Chinese Foreign Minister Wang Yi spend time with Araghchi at the BRICS Summit This just shows how closely Iran, Russia, and China are cooperating
-- 09/13 16:58 [financialjuice] into Nvidia, Huawei supply chains after unusual stock price shifts
-- 09/13 16:58 [financialjuice] Goldenmax International refutes claims of product certification
-- 09/13 17:14 [FirstSquawk] Benchmarking and bonuses: why Singapore pays its politicians like bankers
-- 09/13 17:15 [FirstSquawk] Iranian President Masoud Pezeshkian visited the Iranian Hall, dating back to the reign of Fath-Ali Shah Qajar, at India’s Presidential Palace.
-- 09/13 17:15 [FirstSquawk] Speculators turn net long on yen for first time since February
-- 09/13 17:16 [FirstSquawk] U.S. EV sales remain depressed, but Tesla’s market share has recovered from its 2025
-- 09/13 17:19 [FirstSquawk] Chinese President #XiJinping on Saturday urged BRICS countries to firmly stand on the right side of history and strive to be a pioneer of our times
-- 09/13 17:19 [FirstSquawk] Delhi: Chinese President Xi Jinping departs from Delhi after participating in the BRICS Summit 2026
 - 09/13 17:25 [financialjuice/FirstSquawk] Italy economy minister: crucial for Italy to maintain public finances as ECB hikes interest rates
 - 09/13 17:48 [financialjuice/FirstSquawk] Ukraine’s military: strike on Taneko oil refinery in Russia’s Tatarstan
 - 09/13 17:48 [FirstSquawk] Russian President Vladimir Putin departs from Delhi after participating in the BRICS Summit 2026.
@@ -443,3 +426,18 @@
 - 09/14 16:53 [FirstSquawk] ECB'S SIMKUS: DECEMBER IS NATURAL TIME TO ASSESS SITAUTION MORE
 - 09/14 16:53 [FirstSquawk] SIMKUS: ECB MUST ALSO LOOK AT ENERGY PRICES BEFORE OCT. MEETING
 - 09/14 16:53 [financialjuice] ECB's Simkus: December is natural time to assess situation more.
+- 09/14 16:54 [financialjuice] ECB's Simkus: ECB must also look at energy prices before October meeting.
+- 09/14 16:54 [FirstSquawk/financialjuice] ECB'S SIMKUS: CAN'T EXCLUDE ACTION AT ANY MEETING
+- 09/14 16:59 [FirstSquawk] SHELL EXEC: WORLD HAS LOST ABOUT 36M T LNG FROM MIDDLE EAST YEAR TO DATE
+- 09/14 17:02 [FirstSquawk] IRAN DENIES CLAIMS OF ACTIVITY AT PICKAXE MOUNTAIN, STATING THERE IS NO EVIDENCE.
+- 09/14 17:02 [FirstSquawk] HOUTHIS CLAIM TO HAVE ATTACKED SAUDI ARABIA'S KHAMIS MUSHAIT.
+- 09/14 17:02 [FirstSquawk] ECB'S KAZIMIR SAYS THEY WILL CONSIDER ALL OPTIONS FOR THE NEXT DECISION BUT WILL TAKE ACTION IF NECESSARY.
+- 09/14 17:02 [financialjuice] Yemen's Houthis say they attacked Saudi's Khamis Mushait air base.
+- 09/14 17:05 [FirstSquawk] MAERSK AND HAPAG-LLOYD ARE ANNOUNCING A STRUCTURAL CHANGE TO THE FOLLOWING FOUR GEMINI SERVICES; AE5, AE11, AE12 AND ME2.
+- 09/14 17:08 [financialjuice] German economy ministry: slowdown in previously robust economic momentum emerging at start of Q3
+- 09/14 17:09 [financialjuice] French President Macron to visit Spain Sept. 29-30
+- 09/14 17:10 [FirstSquawk] IRAN STATES THAT THE US IS THE MAIN BARRIER TO DIPLOMACY, NOT A LACK OF MEDIATION.
+- 09/14 17:11 [financialjuice] Iran: US lack of mediation, is main obstacle to diplomacy.
+- 09/14 17:16 [financialjuice] ECB's Kazimir: Increasingly concerned about gas and power prices.
+- 09/14 17:18 [FirstSquawk] TELEFÓNICA REACTIVATES TALKS WITH ZEGONA TO ACQUIRE VODAFONE SPAIN - VOZPOLULI
+- 09/14 17:19 [DeItaone] *IRAN: US, NOT LACK OF MEDIATION, IS MAIN OBSTACLE TO DIPLOMACY

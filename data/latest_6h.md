@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 16:54 JST／対象: 09/14 10:54 〜 09/14 16:54 JST（時刻はすべて日本時間）
+生成: 2026-09-14 17:19 JST／対象: 09/14 11:19 〜 09/14 17:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/14 16:28 | 09/14 16:28 | - |
-| FirstSquawk | 88 | 09/14 10:55 | 09/14 16:53 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 32 | 09/14 11:31 | 09/14 16:53 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 2 | 09/14 16:28 | 09/14 17:19 | ⚠ 50分（16:28→17:19） |
+| FirstSquawk | 88 | 09/14 11:24 | 09/14 17:18 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 39 | 09/14 11:31 | 09/14 17:16 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 121 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 128 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 10:55 [FirstSquawk] Brent crude surges at the open after Saudi Arabia shuts a major pipeline following an attack, intensifying concerns over global oil supply.
-- 09/14 10:58 [FirstSquawk] India’s rapid data center expansion is emerging as a new growth driver for renewable energy, as rising power demand accelerates investment in cleaner electricity.
-- 09/14 11:02 [FirstSquawk] North Korea says its recent missile launches were conducted as live-fire drills, framing the tests as part of a military training exercise.
-- 09/14 11:03 [FirstSquawk] Chick-fil-A’s operator model draws around 100,000 applicants for just 200 spots, with a $10,000 entry fee but operators typically don’t own the restaurant, equipment or property, and cannot sell or pass the business to their children - FOX …
-- 09/14 11:07 [FirstSquawk] The Japanese yen edges lower against the U.S. dollar as Middle East tensions weigh on sentiment, with traders also positioning ahead of upcoming Fed and BoJ policy meetings.
-- 09/14 11:11 [FirstSquawk] Trump agrees to allow state lawsuits over alleged violations of the CLARITY Act, according to Semafor, potentially opening a new avenue for enforcement at the state level.
-- 09/14 11:14 [FirstSquawk] Trump says the U.S. is working to replenish and expand weapons production, signaling efforts to strengthen American defense manufacturing capacity.
-- 09/14 11:18 [FirstSquawk] Trump plays down calls for tighter checks on AI development, saying the U.S. cannot afford to surrender its technological edge to China.
 - 09/14 11:24 [FirstSquawk] Iran says a commercial vessel was struck in the Strait of Hormuz, adding fresh tension to one of the world’s most critical energy shipping routes.
 - 09/14 11:31 [financialjuice] Strait of Hormuz commodity vessel crossings drop to single digits per day over weekend, under 10-day average near 14, data shows
 - 09/14 11:32 [financialjuice] Japan chief cabinet secretary Kihara: will finalize budget while properly managing bond issuance amount
@@ -145,3 +137,18 @@
 - 09/14 16:53 [FirstSquawk] ECB'S SIMKUS: DECEMBER IS NATURAL TIME TO ASSESS SITAUTION MORE
 - 09/14 16:53 [FirstSquawk] SIMKUS: ECB MUST ALSO LOOK AT ENERGY PRICES BEFORE OCT. MEETING
 - 09/14 16:53 [financialjuice] ECB's Simkus: December is natural time to assess situation more.
+- 09/14 16:54 [financialjuice] ECB's Simkus: ECB must also look at energy prices before October meeting.
+- 09/14 16:54 [FirstSquawk/financialjuice] ECB'S SIMKUS: CAN'T EXCLUDE ACTION AT ANY MEETING
+- 09/14 16:59 [FirstSquawk] SHELL EXEC: WORLD HAS LOST ABOUT 36M T LNG FROM MIDDLE EAST YEAR TO DATE
+- 09/14 17:02 [FirstSquawk] IRAN DENIES CLAIMS OF ACTIVITY AT PICKAXE MOUNTAIN, STATING THERE IS NO EVIDENCE.
+- 09/14 17:02 [FirstSquawk] HOUTHIS CLAIM TO HAVE ATTACKED SAUDI ARABIA'S KHAMIS MUSHAIT.
+- 09/14 17:02 [FirstSquawk] ECB'S KAZIMIR SAYS THEY WILL CONSIDER ALL OPTIONS FOR THE NEXT DECISION BUT WILL TAKE ACTION IF NECESSARY.
+- 09/14 17:02 [financialjuice] Yemen's Houthis say they attacked Saudi's Khamis Mushait air base.
+- 09/14 17:05 [FirstSquawk] MAERSK AND HAPAG-LLOYD ARE ANNOUNCING A STRUCTURAL CHANGE TO THE FOLLOWING FOUR GEMINI SERVICES; AE5, AE11, AE12 AND ME2.
+- 09/14 17:08 [financialjuice] German economy ministry: slowdown in previously robust economic momentum emerging at start of Q3
+- 09/14 17:09 [financialjuice] French President Macron to visit Spain Sept. 29-30
+- 09/14 17:10 [FirstSquawk] IRAN STATES THAT THE US IS THE MAIN BARRIER TO DIPLOMACY, NOT A LACK OF MEDIATION.
+- 09/14 17:11 [financialjuice] Iran: US lack of mediation, is main obstacle to diplomacy.
+- 09/14 17:16 [financialjuice] ECB's Kazimir: Increasingly concerned about gas and power prices.
+- 09/14 17:18 [FirstSquawk] TELEFÓNICA REACTIVATES TALKS WITH ZEGONA TO ACQUIRE VODAFONE SPAIN - VOZPOLULI
+- 09/14 17:19 [DeItaone] *IRAN: US, NOT LACK OF MEDIATION, IS MAIN OBSTACLE TO DIPLOMACY

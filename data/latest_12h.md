@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 16:54 JST／対象: 09/14 04:54 〜 09/14 16:54 JST（時刻はすべて日本時間）
+生成: 2026-09-14 17:19 JST／対象: 09/14 05:19 〜 09/14 17:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/14 08:03 | 09/14 16:28 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 167 | 09/14 05:07 | 09/14 16:53 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 69 | 09/14 05:39 | 09/14 16:53 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 3 | 09/14 08:03 | 09/14 17:19 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 173 | 09/14 05:23 | 09/14 17:18 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 76 | 09/14 05:39 | 09/14 17:16 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 237 行（統合前 238 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 250 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 05:07 [FirstSquawk] FED CHAIR KEVIN WARSH FACES A COLLISION COURSE WITH TRUMP AS HOTTER-THAN-EXPECTED AUGUST INFLATION PUSHES MARKETS TO PRICE ABOVE 85% ODDS OF A SEPTEMBER RATE HIKE.
-- 09/14 05:08 [FirstSquawk] TRUMP CONTINUES TO DEMAND LOWER BORROWING COSTS, SAYING THE U.S. SHOULD HAVE THE LOWEST INTEREST RATES IN THE WORLD, LEAVING WARSH TO BALANCE FED INDEPENDENCE AGAINST INTENSE WHITE HOUSE PRESSURE.
 - 09/14 05:23 [FirstSquawk] RUSSIAN DRONE STRIKES A TRAIN NEAR YAHODYN, CLOSE TO THE UKRAINE-POLAND BORDER, MINUTES AFTER A DIPLOMATIC TRAIN CARRYING BORIS JOHNSON, CARL BILDT AND EUROPEAN SECURITY ADVISERS DEPARTED AHEAD OF SCHEDULE, WITH UKRAINE SAYING IT WAS LIKELY…
 - 09/14 05:23 [FirstSquawk] NO CASUALTIES WERE REPORTED, WHILE ANOTHER TRAIN CARRYING FORMER CIA DIRECTOR DAVID PETRAEUS WAS STILL AT THE STATION WHEN THE DRONE HIT, HIGHLIGHTING GROWING SECURITY RISKS AROUND UKRAINE'S WESTERN BORDER.
 - 09/14 05:39 [financialjuice] Sweden's center-left opposition bloc now projected to win 175 seats in parliament, broadcaster SVT shows
@@ -261,3 +259,18 @@
 - 09/14 16:53 [FirstSquawk] ECB'S SIMKUS: DECEMBER IS NATURAL TIME TO ASSESS SITAUTION MORE
 - 09/14 16:53 [FirstSquawk] SIMKUS: ECB MUST ALSO LOOK AT ENERGY PRICES BEFORE OCT. MEETING
 - 09/14 16:53 [financialjuice] ECB's Simkus: December is natural time to assess situation more.
+- 09/14 16:54 [financialjuice] ECB's Simkus: ECB must also look at energy prices before October meeting.
+- 09/14 16:54 [FirstSquawk/financialjuice] ECB'S SIMKUS: CAN'T EXCLUDE ACTION AT ANY MEETING
+- 09/14 16:59 [FirstSquawk] SHELL EXEC: WORLD HAS LOST ABOUT 36M T LNG FROM MIDDLE EAST YEAR TO DATE
+- 09/14 17:02 [FirstSquawk] IRAN DENIES CLAIMS OF ACTIVITY AT PICKAXE MOUNTAIN, STATING THERE IS NO EVIDENCE.
+- 09/14 17:02 [FirstSquawk] HOUTHIS CLAIM TO HAVE ATTACKED SAUDI ARABIA'S KHAMIS MUSHAIT.
+- 09/14 17:02 [FirstSquawk] ECB'S KAZIMIR SAYS THEY WILL CONSIDER ALL OPTIONS FOR THE NEXT DECISION BUT WILL TAKE ACTION IF NECESSARY.
+- 09/14 17:02 [financialjuice] Yemen's Houthis say they attacked Saudi's Khamis Mushait air base.
+- 09/14 17:05 [FirstSquawk] MAERSK AND HAPAG-LLOYD ARE ANNOUNCING A STRUCTURAL CHANGE TO THE FOLLOWING FOUR GEMINI SERVICES; AE5, AE11, AE12 AND ME2.
+- 09/14 17:08 [financialjuice] German economy ministry: slowdown in previously robust economic momentum emerging at start of Q3
+- 09/14 17:09 [financialjuice] French President Macron to visit Spain Sept. 29-30
+- 09/14 17:10 [FirstSquawk] IRAN STATES THAT THE US IS THE MAIN BARRIER TO DIPLOMACY, NOT A LACK OF MEDIATION.
+- 09/14 17:11 [financialjuice] Iran: US lack of mediation, is main obstacle to diplomacy.
+- 09/14 17:16 [financialjuice] ECB's Kazimir: Increasingly concerned about gas and power prices.
+- 09/14 17:18 [FirstSquawk] TELEFÓNICA REACTIVATES TALKS WITH ZEGONA TO ACQUIRE VODAFONE SPAIN - VOZPOLULI
+- 09/14 17:19 [DeItaone] *IRAN: US, NOT LACK OF MEDIATION, IS MAIN OBSTACLE TO DIPLOMACY
