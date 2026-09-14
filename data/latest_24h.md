@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 18:53 JST／対象: 09/13 18:53 〜 09/14 18:53 JST（時刻はすべて日本時間）
+生成: 2026-09-14 19:17 JST／対象: 09/13 19:17 〜 09/14 19:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 33 | 09/13 20:35 | 09/14 18:30 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 278 | 09/13 19:12 | 09/14 18:53 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 127 | 09/13 19:12 | 09/14 18:52 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 278 | 09/13 19:40 | 09/14 19:12 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 127 | 09/13 19:26 | 09/14 19:06 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 432 行（統合前 438 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 433 行（統合前 438 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 19:12 [FirstSquawk] Jerusalem Governorate: Israeli media blackout on settlers storming Al-Aqsa raises fears of an attempt to impose new realities.
-- 09/13 19:12 [financialjuice/FirstSquawk] South Korea industry minister: $200 billion total investment cap, $20 billion annual investment to be maintained as previously agreed with U.S.
-- 09/13 19:13 [FirstSquawk] Araqchi: The agenda for tomorrow's meeting in the Sultanate of Oman focuses on the new maritime route in the Strait of Hormuz
-- 09/13 19:14 [FirstSquawk] Araqchi: Iran's condition for reopening the Strait of Hormuz is the return of the United States to its commitments under the Islamabad Memorandum
 - 09/13 19:26 [financialjuice] Goldenmax International denies reports of products certified into Nvidia, Huawei supply chains after unusual share price moves
 - 09/13 19:26 [financialjuice] secures $5 billion through new share and convertible bond sales, filing reveals
 - 09/13 19:29 [financialjuice] Lithuania closes Vilnius airport, NATO deploys fighter jets after potential drone sighting – national crisis management centre
@@ -456,3 +452,8 @@
 - 09/14 18:52 [financialjuice] Kremlin welcomes Trump's call to stop striking refineries - IFX
 - 09/14 18:52 [FirstSquawk] KREMLIN ON TRUMP'S CALL FOR UKRAINE TO STOP ATTACKS ON RUSSIAN ENERGY INFRASTRUCTURE: SITUATION IN GLOBAL ENERGY MARKETS IS WORSENING MAINLY DUE TO INSTABILITY IN MIDDLE EAST
 - 09/14 18:53 [FirstSquawk] KREMLIN: INDIA MODI, CHINA'S XI TOLD PUTIN AT BRICS SUMMIT THEY ARE READY TO PLAY ROLE IN UKRAINE CONFLICT SETTLEMENT, THIS WAS POSITIVELY RECEIVED BY PUTIN
+- 09/14 18:55 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: WE AIM TO ORDER A FOURTH NEW SIGNALS INTELLIGENCE SHIP, THE ORDER IS ON ITS WAY TO PARLIAMENT
+- 09/14 19:03 [FirstSquawk] TD LAUNCHES $150 BILLION FIVE-YEAR COMMITMENT TO ACCELERATE CANADA'S INVESTMENT SUPERCYCLE
+- 09/14 19:06 [financialjuice] Japan cabinet approval rating unchanged at 53% - NHK Poll
+- 09/14 19:08 [FirstSquawk] USD/JPY EXTENDS GAINS, RISES 0.7% TO ONE-WEEK HIGH AT 154.74
+- 09/14 19:12 [FirstSquawk] EU'S VON DER LEYEN TO PRESENT 'EU KIDS ACT' ON THURSDAY

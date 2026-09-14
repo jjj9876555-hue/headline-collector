@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 18:53 JST／対象: 09/14 06:53 〜 09/14 18:53 JST（時刻はすべて日本時間）
+生成: 2026-09-14 19:17 JST／対象: 09/14 07:17 〜 09/14 19:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/14 08:03 | 09/14 18:30 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 186 | 09/14 07:01 | 09/14 18:53 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 80 | 09/14 06:54 | 09/14 18:52 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 188 | 09/14 07:18 | 09/14 19:12 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 73 | 09/14 07:33 | 09/14 19:06 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 274 行（統合前 277 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 270 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 06:54 [financialjuice/FirstSquawk] Elon Musk: highly confident SpaceX will launch Nvidia VR NLV72 AI computers in space next year - X post
-- 09/14 07:00 [financialjuice] Sweden Social Democrats leader Andersson: currently leading, new government likely if results hold
-- 09/14 07:01 [FirstSquawk] BRENT CRUDE RISES 2.4% AFTER A SAUDI PIPELINE SHUTDOWN AND DELAYED HORMUZ SHIPPING TALKS RAISE CONCERNS OVER GLOBAL OIL SUPPLIES.
-- 09/14 07:06 [financialjuice] Shenzhen forms Syntron Information: 59 million H shares offered globally
-- 09/14 07:06 [financialjuice] Shenzhen establishes Syntron Information with maximum offer price HK$16.00 per H share in global offering
-- 09/14 07:06 [financialjuice] Ligent Technologies announces global offering of 172 million shares
-- 09/14 07:06 [financialjuice] Ligent Technologies announces offer price under global offering at HK$32.96 per share
-- 09/14 07:06 [financialjuice] Ligent Technologies: global offering includes 154.8 million international shares
-- 09/14 07:07 [financialjuice] Shenzhen forms Syntron Information with 53.1 million international H-share offer
 - 09/14 07:18 [FirstSquawk] SHENZHEN-BASED SYNTRON INFORMATION PLANS A GLOBAL OFFERING OF 59 MILLION H SHARES, WITH A MAXIMUM OFFER PRICE OF HK$16.00 PER H SHARE. THE OFFERING INCLUDES 53.1 MILLION INTERNATIONAL H SHARES, AS THE COMPANY MOVES FORWARD WITH ITS GLOBAL L…
 - 09/14 07:19 [FirstSquawk] US STOCK FUTURES FALL AS AI DEVELOPMENT CONCERNS AND HOTTER-THAN-EXPECTED INFLATION WEIGH ON SENTIMENT, WITH NASDAQ 100 FUTURES DOWN 1.2% AND S&P 500 FUTURES OFF 0.6%.
 - 09/14 07:19 [FirstSquawk] BRENT CRUDE JUMPS 2.8% TO $107.55 AFTER SAUDI ARABIA SHUT A KEY OIL PIPELINE FOLLOWING DRONE ATTACKS, WHILE DELAYED HORMUZ TALKS AND RISING INFLATION BOOST BETS ON A FED RATE HIKE WEDNESDAY.
@@ -298,3 +289,8 @@
 - 09/14 18:52 [financialjuice] Kremlin welcomes Trump's call to stop striking refineries - IFX
 - 09/14 18:52 [FirstSquawk] KREMLIN ON TRUMP'S CALL FOR UKRAINE TO STOP ATTACKS ON RUSSIAN ENERGY INFRASTRUCTURE: SITUATION IN GLOBAL ENERGY MARKETS IS WORSENING MAINLY DUE TO INSTABILITY IN MIDDLE EAST
 - 09/14 18:53 [FirstSquawk] KREMLIN: INDIA MODI, CHINA'S XI TOLD PUTIN AT BRICS SUMMIT THEY ARE READY TO PLAY ROLE IN UKRAINE CONFLICT SETTLEMENT, THIS WAS POSITIVELY RECEIVED BY PUTIN
+- 09/14 18:55 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: WE AIM TO ORDER A FOURTH NEW SIGNALS INTELLIGENCE SHIP, THE ORDER IS ON ITS WAY TO PARLIAMENT
+- 09/14 19:03 [FirstSquawk] TD LAUNCHES $150 BILLION FIVE-YEAR COMMITMENT TO ACCELERATE CANADA'S INVESTMENT SUPERCYCLE
+- 09/14 19:06 [financialjuice] Japan cabinet approval rating unchanged at 53% - NHK Poll
+- 09/14 19:08 [FirstSquawk] USD/JPY EXTENDS GAINS, RISES 0.7% TO ONE-WEEK HIGH AT 154.74
+- 09/14 19:12 [FirstSquawk] EU'S VON DER LEYEN TO PRESENT 'EU KIDS ACT' ON THURSDAY
