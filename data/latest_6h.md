@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 06:24 JST／対象: 09/15 00:24 〜 09/15 06:24 JST（時刻はすべて日本時間）
+生成: 2026-09-15 06:44 JST／対象: 09/15 00:44 〜 09/15 06:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/15 00:24 | 09/15 05:37 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 68 | 09/15 00:25 | 09/15 06:21 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 80 | 09/15 00:24 | 09/15 06:14 | 34分（05:17→05:51） |
+| DeItaone | 9 | 09/15 02:25 | 09/15 05:37 | ⚠ 64分（04:32→05:37） |
+| FirstSquawk | 70 | 09/15 00:52 | 09/15 06:40 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 71 | 09/15 00:44 | 09/15 06:32 | 34分（05:17→05:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 153 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 140 行（統合前 151 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 00:24 [financialjuice] Trump on AI/Data Centers: Don’t kill the Golden Goose - Truth Social
-- 09/15 00:24 [DeItaone] TRUMP: “DON’T KILL THE GOLDEN GOOSE” President Trump says America’s AI and data center boom is happening because the U.S. holds a commanding global lead. He urged against measures that could slow the industry’s expansion, warning policymake…
-- 09/15 00:25 [FirstSquawk] TRUMP: THE ONLY REASON THE AI/DATA CENTER OUTBURST IS HAPPENING IS BECAUSE THE UNITED STATES IS LEADING, BY A LOT, EVERY OTHER COUNTRY. DON’T KILL THE GOLDEN GOOSE! PRESIDENT DONALD J. TRUMP
-- 09/15 00:29 [DeItaone] AI BOOM SET TO SUPERCHARGE U.S. GAS DEMAND U.S. data centers could add 15 Bcf/d of natural gas demand by 2035, more than double BNEF’s previous forecast. Gas is expected to supply 69% of new grid-connected data center power, while LNG expor…
-- 09/15 00:32 [financialjuice] US 6-MONTH BILL BID-TO-COVER ACTUAL 2.74 (FORECAST -, PREVIOUS 2.880) $MACRO
-- 09/15 00:32 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 4.06% (FORECAST -, PREVIOUS 3.890%) $MACRO
-- 09/15 00:32 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 3.97% (FORECAST -, PREVIOUS 3.800%) $MACRO
-- 09/15 00:32 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.64 (FORECAST -, PREVIOUS 2.610) $MACRO
-- 09/15 00:32 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 82.500% (FORECAST -, PREVIOUS 79.100%) $MACRO
-- 09/15 00:32 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 13.860% (FORECAST -, PREVIOUS 20.330%) $MACRO
-- 09/15 00:33 [FirstSquawk] TRUMP: THE FAILING NATION OF IRAN WANTS TO MAKE A DEAL, QUICKLY AND BADLY. I WILL DETERMINE WHETHER OR NOT THE U.S.A. WILL CHOOSE TO ENGAGE - THE CONCEPT OF WHICH WE ARE OPEN TO. THANK YOU FOR YOUR ATTENTION TO THIS MATTER! PRESIDENT DONALD…
-- 09/15 00:33 [financialjuice] ❗ Trump: Iran wants to make a deal. I will determine whether or not we engage with Iran, which we are open to.
-- 09/15 00:34 [DeItaone] TRUMP OPEN TO IRAN DEAL President Trump says Iran wants to reach a deal “quickly and badly,” signaling the U.S. remains open to negotiations. Trump said he will decide whether Washington engages, leaving the door open to a potential diploma…
-- 09/15 00:34 [DeItaone] TRUMP ON IRAN: IRAN WANTS TO MAKE A DEAL, QUICKLY AND BADLY
-- 09/15 00:34 [DeItaone] TRUMP ON IRAN: WILL DETERMINE WHETHER OR NOT U.S.A. WILL CHOOSE TO ENGAGE, CONCEPT OF WHICH WE ARE OPEN TO
-- 09/15 00:38 [financialjuice] ❗ Trump on Iran: Will determine whether or not US will choose to engage, concept of which we are open to - Truth Social
-- 09/15 00:42 [financialjuice] While Iran has repeatedly stated that it does not seek negotiations for a deal with the terrorist US government - Tasnim News
 - 09/15 00:44 [financialjuice] US 6-Month Bill Auction High Yield 4.06% Bid-to-Cover 2.74 Sells $79 bln Awards 82.50% of bids at high US 3-Month Bill Auction High Rate 3.97% Bid-to-Cover 2.64 Sells $92 bln Awards 13.86% of bids at high
 - 09/15 00:46 [financialjuice] Stocks of Crude oil in US SPR fell by about 3.6 mln barrels to 285 mln barrels last week, lowest since 1982
 - 09/15 00:52 [FirstSquawk] ABBOTT WILL PAY MORE THAN $384 MILLION TO RESOLVE CLAIMS ABOUT CONTAMINATED INFANT FORMULA, ACCORDING TO THE DOJ.
@@ -177,3 +160,7 @@
 - 09/15 06:13 [financialjuice] World Bank's Banga: wants Senegal to undergo common framework debt restructuring faster than previous cases
 - 09/15 06:14 [financialjuice/FirstSquawk] NATO military jets scrambled in Lithuania over possible drone near Vilnius: national crisis management centre
 - 09/15 06:21 [FirstSquawk] IRAN TOP SECURITY OFFICIAL REZAEE: U.S. PRESIDENT IS SENDING MIXED SIGNALS ON NEGOTIATIONS; IRAN WILL NOT ENTER TALKS UNTIL ITS CONDITIONS ARE FULLY MET.
+- 09/15 06:24 [FirstSquawk] US NAVY: AWARDS BOEING $562M CONTRACT FOR MQ-25A STINGRAY
+- 09/15 06:25 [FirstSquawk] TRUMP AI CZAR DAVID SACKS SAYS AI LABS CAN DEVELOP SAFE TECHNOLOGY WITHOUT MAKING ANTITRUST CONCESSIONS, REJECTING CALLS FOR GOVERNMENT-IMPOSED LIMITS ON AI DEVELOPMENT.
+- 09/15 06:25 [FirstSquawk] TRUMP AI CZAR DAVID SACKS CALLS FOR GREATER TRANSPARENCY AND AUDITS OF AI LABS, SAYING THE INDUSTRY DOES NOT NEED THE GOVERNMENT TO CONTROL THE PACE OF TECHNOLOGICAL PROGRESS.
+- 09/15 06:32 [financialjuice/FirstSquawk] Nato military fighter shoots down drone in Lithuanian airspace: national crisis management centre

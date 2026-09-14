@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 06:24 JST／対象: 09/14 06:24 〜 09/15 06:24 JST（時刻はすべて日本時間）
+生成: 2026-09-15 06:44 JST／対象: 09/14 06:44 〜 09/15 06:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 08:03 | 09/15 05:37 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 341 | 09/14 06:48 | 09/15 06:21 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 246 | 09/14 06:54 | 09/15 06:14 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 345 | 09/14 06:48 | 09/15 06:40 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 247 | 09/14 06:54 | 09/15 06:32 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 615 行（統合前 645 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 619 行（統合前 650 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -639,3 +639,7 @@
 - 09/15 06:13 [financialjuice] World Bank's Banga: wants Senegal to undergo common framework debt restructuring faster than previous cases
 - 09/15 06:14 [financialjuice/FirstSquawk] NATO military jets scrambled in Lithuania over possible drone near Vilnius: national crisis management centre
 - 09/15 06:21 [FirstSquawk] IRAN TOP SECURITY OFFICIAL REZAEE: U.S. PRESIDENT IS SENDING MIXED SIGNALS ON NEGOTIATIONS; IRAN WILL NOT ENTER TALKS UNTIL ITS CONDITIONS ARE FULLY MET.
+- 09/15 06:24 [FirstSquawk] US NAVY: AWARDS BOEING $562M CONTRACT FOR MQ-25A STINGRAY
+- 09/15 06:25 [FirstSquawk] TRUMP AI CZAR DAVID SACKS SAYS AI LABS CAN DEVELOP SAFE TECHNOLOGY WITHOUT MAKING ANTITRUST CONCESSIONS, REJECTING CALLS FOR GOVERNMENT-IMPOSED LIMITS ON AI DEVELOPMENT.
+- 09/15 06:25 [FirstSquawk] TRUMP AI CZAR DAVID SACKS CALLS FOR GREATER TRANSPARENCY AND AUDITS OF AI LABS, SAYING THE INDUSTRY DOES NOT NEED THE GOVERNMENT TO CONTROL THE PACE OF TECHNOLOGICAL PROGRESS.
+- 09/15 06:32 [financialjuice/FirstSquawk] Nato military fighter shoots down drone in Lithuanian airspace: national crisis management centre
