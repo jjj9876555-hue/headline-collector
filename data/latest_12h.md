@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 14:24 JST／対象: 09/14 02:24 〜 09/14 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-14 14:43 JST／対象: 09/14 02:43 〜 09/14 14:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/14 02:47 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 154 | 09/14 03:29 | 09/14 14:18 | 43分（03:41→04:25） |
-| financialjuice | 78 | 09/14 02:46 | 09/14 14:08 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 157 | 09/14 03:29 | 09/14 14:42 | 43分（03:41→04:25） |
+| financialjuice | 80 | 09/14 02:46 | 09/14 14:34 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 235 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 240 行（統合前 242 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -259,3 +259,8 @@
 - 09/14 14:08 [financialjuice] JAPANESE CAPACITY UTILIZATION MOM ACTUAL 0.5% (FORECAST -, PREVIOUS 4.1%) $MACRO
 - 09/14 14:10 [FirstSquawk] Japan is considering tighter regulations on regenerative medicine treatments as their use expands, raising concerns over safety and oversight, according to Kyodo News.
 - 09/14 14:18 [FirstSquawk] EUR/USD falls to a four-week low as stronger expectations for a hawkish Fed boost the dollar and weigh on the euro, according to FX
+- 09/14 14:27 [FirstSquawk] GSK says data from 88 million Greater Bay Area residents could help shape better healthcare policies and improve planning across the region.
+- 09/14 14:33 [financialjuice] EU's Albuquerque: Difficult to map AI risks
+- 09/14 14:34 [financialjuice] EU's Albuquerque: AI risks will only increase
+- 09/14 14:37 [FirstSquawk] China is set to lay out a new five-year strategy for the new-energy vehicle sector, shaping the next phase of growth and development for the country’s EV industry.
+- 09/14 14:42 [FirstSquawk] Canadian PM Mark Carney says Canada is not seeking EU membership, but plans to begin discussions on a unique alliance with the European Union, deepening ties between Ottawa and Brussels.

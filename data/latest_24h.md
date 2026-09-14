@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 14:24 JST／対象: 09/13 14:24 〜 09/14 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-14 14:43 JST／対象: 09/13 14:43 〜 09/14 14:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 276 | 09/13 14:32 | 09/14 14:18 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 108 | 09/13 15:51 | 09/14 14:08 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 274 | 09/13 14:44 | 09/14 14:42 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 110 | 09/13 15:51 | 09/14 14:34 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 403 行（統合前 409 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 14:32 [FirstSquawk] Burnham pushes back against calls to overhaul the student loan system ahead of the Budget. The stance could put proposed changes to student financing under renewed political scrutiny as the government prepares its fiscal plans.
-- 09/13 14:34 [FirstSquawk] Trump administration moves forward with a proposed $100,000 fee for international graduates seeking to work in the US under OPT. The proposal could significantly raise the cost of post-study employment for foreign students and reshape the U…
-- 09/13 14:38 [FirstSquawk] US government debt climbs to $40 trillion as Washington’s borrowing accelerates at a historic pace as per FT The milestone puts America’s rapidly expanding debt burden back in focus, raising fresh questions over the long-term fiscal outlook…
-- 09/13 14:38 [FirstSquawk] Employment among people in their 20s is declining at its fastest pace since the 1998 Asian financial crisis. The data points to a growing shift toward later entry into the workforce, raising fresh concerns about youth employment and labor-m…
-- 09/13 14:43 [FirstSquawk] South Korea’s employment among people in their 20s averaged 3.38 million during January–August, down 193,000 from a year earlier. The decline signals a deeper shift in the labor market, with younger people increasingly entering employment a…
 - 09/13 14:44 [FirstSquawk] North Carolina GOP Senate candidate’s rally features opening prayer from convicted sex offender, AP reports
 - 09/13 14:45 [FirstSquawk] Serbia’s Vucic inspects China-built expressway as major transport project advances
 - 09/13 14:46 [FirstSquawk] The U.S. government’s $166 billion tariff refund program is now tapering off sharply
@@ -427,3 +422,8 @@
 - 09/14 14:08 [financialjuice] JAPANESE CAPACITY UTILIZATION MOM ACTUAL 0.5% (FORECAST -, PREVIOUS 4.1%) $MACRO
 - 09/14 14:10 [FirstSquawk] Japan is considering tighter regulations on regenerative medicine treatments as their use expands, raising concerns over safety and oversight, according to Kyodo News.
 - 09/14 14:18 [FirstSquawk] EUR/USD falls to a four-week low as stronger expectations for a hawkish Fed boost the dollar and weigh on the euro, according to FX
+- 09/14 14:27 [FirstSquawk] GSK says data from 88 million Greater Bay Area residents could help shape better healthcare policies and improve planning across the region.
+- 09/14 14:33 [financialjuice] EU's Albuquerque: Difficult to map AI risks
+- 09/14 14:34 [financialjuice] EU's Albuquerque: AI risks will only increase
+- 09/14 14:37 [FirstSquawk] China is set to lay out a new five-year strategy for the new-energy vehicle sector, shaping the next phase of growth and development for the country’s EV industry.
+- 09/14 14:42 [FirstSquawk] Canadian PM Mark Carney says Canada is not seeking EU membership, but plans to begin discussions on a unique alliance with the European Union, deepening ties between Ottawa and Brussels.
