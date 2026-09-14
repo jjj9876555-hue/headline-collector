@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 07:52 JST／対象: 09/14 07:52 〜 09/15 07:52 JST（時刻はすべて日本時間）
+生成: 2026-09-15 08:04 JST／対象: 09/14 08:04 〜 09/15 08:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 55 | 09/14 08:03 | 09/15 07:36 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 341 | 09/14 07:52 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 238 | 09/14 08:25 | 09/15 07:45 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
+| FirstSquawk | 336 | 09/14 08:31 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 239 | 09/14 08:25 | 09/15 07:55 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 608 行（統合前 638 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 603 行（統合前 633 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 07:52 [FirstSquawk] IRANIAN VICE PRESIDENT FOR NUCLEAR AFFAIRS MOHAMMAD ESLAMI HAS BEEN BLOCKED FROM ADDRESSING THE IAEA GENERAL CONFERENCE IN VIENNA AFTER THE U.S. URGED AUSTRIA TO DENY A SANCTIONS WAIVER ALLOWING HIS ENTRY.
-- 09/14 07:52 [FirstSquawk] U.S. ENERGY SECRETARY CHRIS WRIGHT IS SET TO WARN THAT IRAN MUST NEVER DEVELOP OR OBTAIN A NUCLEAR WEAPON, AS THE IAEA FLAGS CONSTRUCTION ACTIVITY AT IRAN’S SUSPECTED NUCLEAR SITE AT PICKAXE MOUNTAIN.
-- 09/14 07:52 [FirstSquawk] BRENT CRUDE JUMPS 3.2% TO AROUND $108 A BARREL AND WTI RISES NEAR 2.9% TO $103 AFTER A DRONE ATTACK PROMPTS SAUDI ARABIA TO SHUT A CRITICAL OIL PIPELINE, DEEPENING GLOBAL SUPPLY CONCERNS.
-- 09/14 07:52 [FirstSquawk] MOST SHIPPING THROUGH THE STRAIT OF HORMUZ REMAINS HALTED, WHILE PLANNED IRAN-GULF TALKS WERE POSTPONED AND U.S. STOCK FUTURES SLIPPED MORE THAN 0.5% AMID ESCALATING ENERGY RISKS.
-- 09/14 07:53 [FirstSquawk] TRUMP SAYS THE U.S. SHOULD HAVE THE LOWEST INTEREST RATE IN THE WORLD, EVEN AS HOTTER-THAN-EXPECTED AUGUST INFLATION PUSHES MARKETS TO PRICE AN 86% CHANCE OF A SEPTEMBER FED RATE HIKE. HIGHER ENERGY COSTS FROM THE IRAN WAR AND TRUMP’S TARIF…
-- 09/14 08:03 [DeItaone] OIL SURGES AS MIDDLE EAST STRIKES HIT SUPPLY FEARS Oil prices jumped more than $3 after fresh strikes in Saudi Arabia and near the Strait of Hormuz heightened supply concerns. Brent rose 3.5% to $108.23, while WTI climbed 3.2% to $103.20. W…
 - 09/14 08:25 [financialjuice] US EPA set to repeal carbon limits for coal, gas power plants
 - 09/14 08:28 [financialjuice] Early warning issued in Khamis Mushait to signal possible threat: Saudi civil defense
 - 09/14 08:30 [financialjuice] Early warning issued in Abha to alert of possible danger: Saudi civil defense
@@ -632,3 +626,4 @@
 - 09/15 07:41 [financialjuice] Google allows all engineers to access Anthropic's Claude - Business Insider
 - 09/15 07:45 [financialjuice] NZ actual electronic card retail sales up 0.2% in August from year earlier
 - 09/15 07:45 [financialjuice] NZ s/adj electronic card retail sales fall 0.9% in August versus prior month
+- 09/15 07:55 [financialjuice] Saudi-led coalition in Yemen: 13 civilians hurt in Houthis attacks on Saudi cities of Khamis Mushait, Abha and Taif on Monday

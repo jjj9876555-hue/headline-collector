@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 07:52 JST／対象: 09/14 19:52 〜 09/15 07:52 JST（時刻はすべて日本時間）
+生成: 2026-09-15 08:04 JST／対象: 09/14 20:04 〜 09/15 08:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 09/14 19:56 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 152 | 09/14 19:54 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 170 | 09/14 20:01 | 09/15 07:45 | 34分（05:17→05:51） |
+| DeItaone | 38 | 09/14 20:05 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
+| FirstSquawk | 149 | 09/14 20:05 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 169 | 09/14 20:30 | 09/15 07:55 | 34分（05:17→05:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 341 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 334 行（統合前 360 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 19:54 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: SOME POLITICAL REPRESENTATIVES IN GERMANY ARE QUESTIONING THE EXTENT OF OUR DEFENCE EXPENDITURE, INCLUDING FOR UKRAINE, BUT THEY ARE NOT THE MAJORITY
-- 09/14 19:56 [DeItaone] VIENNA- U.S. ENERGY SEC WRIGHT: TREND IN 7-DAY ROLLING AVERAGE OF OIL SHIPMENTS THROUGH HORMUZ IS RISING AND WILL CONTINUE TO RISE
-- 09/14 20:00 [FirstSquawk] Boeing Exec: Progress Has Been Made In The Supply Of Engines For 787 Series From Ge Aerospace
-- 09/14 20:01 [FirstSquawk] US ENERGY SEC WRIGHT: TREND IN 7-DAY ROLLING AVERAGE OF OIL SHIPMENTS THROUGH HORMUZ IS RISING AND WILL CONTINUE TO RISE
-- 09/14 20:01 [DeItaone] AI MARKET MOMENTUM HAS BEGUN TO SHOW GROWING SIGNS OF VULNERABILITY, BANK FOR INTERNATIONAL SETTLEMENTS SAYS
-- 09/14 20:01 [financialjuice] US Energy Secretary Wright: Oil refining capacity 'too tight right now'
-- 09/14 20:02 [financialjuice] US Energy Secretary Wright: No plans at all for enrichment in Saudi Arabia
-- 09/14 20:02 [DeItaone] BIS SEES NO SIGNS OF STRESS IN MARKETS OVERALL, RISK APPETITE HAS REMAINED 'REMARKABLY RESILIENT'
 - 09/14 20:05 [FirstSquawk] GERMANY PLANS TO ADVOCATE FOR A NEW CHINA POLICY WITH THE EU AND MAY PURSUE INCREASED TARIFFS.
 - 09/14 20:05 [DeItaone] *GERMANY TO LOBBY EU ON NEW CHINA POLICY, MAY SEEK MORE TARIFFS
 - 09/14 20:09 [FirstSquawk] US ENERGY SEC WRIGHT: REFINING CAPACITY HELD BACK BY CHINA COULD RETURN
@@ -365,3 +357,4 @@
 - 09/15 07:41 [financialjuice] Google allows all engineers to access Anthropic's Claude - Business Insider
 - 09/15 07:45 [financialjuice] NZ actual electronic card retail sales up 0.2% in August from year earlier
 - 09/15 07:45 [financialjuice] NZ s/adj electronic card retail sales fall 0.9% in August versus prior month
+- 09/15 07:55 [financialjuice] Saudi-led coalition in Yemen: 13 civilians hurt in Houthis attacks on Saudi cities of Khamis Mushait, Abha and Taif on Monday
