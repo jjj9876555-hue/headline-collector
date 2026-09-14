@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 06:04 JST／対象: 09/15 00:04 〜 09/15 06:04 JST（時刻はすべて日本時間）
+生成: 2026-09-15 06:24 JST／対象: 09/15 00:24 〜 09/15 06:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 09/15 00:08 | 09/15 05:37 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 69 | 09/15 00:09 | 09/15 06:03 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 88 | 09/15 00:06 | 09/15 06:00 | 34分（05:17→05:51） |
+| DeItaone | 14 | 09/15 00:24 | 09/15 05:37 | ⚠ 110分（00:34→02:25） |
+| FirstSquawk | 68 | 09/15 00:25 | 09/15 06:21 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 80 | 09/15 00:24 | 09/15 06:14 | 34分（05:17→05:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 163 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 153 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 00:06 [financialjuice] ‼ BREAKING: Trump: Ukraine has agreed not to hit Russian energy targets.
-- 09/15 00:07 [financialjuice] Trump: Ukraine has agreed not to hit Russian energy targets. Russia has agreed to do likewise - Truth Social
-- 09/15 00:07 [financialjuice] Trump: World’s diesel price rise is caused by Russia-Ukraine war.
-- 09/15 00:07 [financialjuice] Trump: World’s diesel price rise not caused by Iran war.
-- 09/15 00:08 [financialjuice] Anthropic's Amodei and Openai's Altman spoke with US Senator Mark Warner over the weekend about AI risks - Senate Spokesperson.
-- 09/15 00:08 [DeItaone] TRUMP: UKRAINE HAS AGREED NOT TO HIT RUSSIAN ENERGY TARGETS, RUSSIA HAS AGREED TO DO, LIKEWISE
-- 09/15 00:08 [financialjuice] CME Group: 100-ounce Silver futures draw significant demand in first weekend of 24/7 trading.
-- 09/15 00:09 [DeItaone] ANTHROPIC'S AMODEI, OPENAI'S ALTMAN SPOKE WITH U.S. SENATOR MARK WARNER OVER THE WEEKEND ABOUT AI RISKS - SENATE SPOKESPERSON
-- 09/15 00:09 [financialjuice] Nvidia: Perplexity local agent platform now available on Windows RTX PCs. $NVDA $MSFT
-- 09/15 00:09 [FirstSquawk] TRUMP: UKRAINE HAS AGREED NOT TO HIT RUSSIAN ENERGY TARGETS. RUSSIA HAS AGREED TO DO, LIKEWISE! THE WORLD’S DIESEL PRICE RISE IS MOSTLY CAUSED BY THE RUSSIA/UKRAINE WAR, NOT IRAN. PRESIDENT DJT
-- 09/15 00:15 [financialjuice/FirstSquawk] ECB's President Lagarde: Europe must also build AI infrasctucture itself.
-- 09/15 00:16 [financialjuice/FirstSquawk] ECB's President Lagarde: Europe can’t simply import AI technologies from US.
-- 09/15 00:16 [financialjuice] Fed bids for 6-Month bills total $7.1 bln
-- 09/15 00:16 [financialjuice] Fed bids for 3-Month bills total $8.2 bln
-- 09/15 00:16 [financialjuice] ECB's President Lagarde's Speech on 'A new age of capital: growth, sovereignty and AI'
 - 09/15 00:24 [financialjuice] Trump on AI/Data Centers: Don’t kill the Golden Goose - Truth Social
 - 09/15 00:24 [DeItaone] TRUMP: “DON’T KILL THE GOLDEN GOOSE” President Trump says America’s AI and data center boom is happening because the U.S. holds a commanding global lead. He urged against measures that could slow the industry’s expansion, warning policymake…
 - 09/15 00:25 [FirstSquawk] TRUMP: THE ONLY REASON THE AI/DATA CENTER OUTBURST IS HAPPENING IS BECAUSE THE UNITED STATES IS LEADING, BY A LOT, EVERY OTHER COUNTRY. DON’T KILL THE GOLDEN GOOSE! PRESIDENT DONALD J. TRUMP
@@ -187,3 +172,8 @@
 - 09/15 06:03 [FirstSquawk] TRUMP: CLAIMS THAT AI WILL “TAKE OVER, CONSUME AND DESTROY” THE WORLD ARE A “HOAX,” COMPARING THEM TO PAST WARNINGS ABOUT GLOBAL WARMING. - TRUTH SOCIAL
 - 09/15 06:03 [FirstSquawk] TRUMP: HE SAYS FEARS THAT ROBOTS WILL ENTER CITIES, REPLACE PEOPLE AND “GET RID OF US ALL” ARE EVEN MORE EXTREME THAN PREVIOUS CLAIMS ABOUT RUSSIA AND UKRAINE. - TRUTH SOCIAL
 - 09/15 06:03 [FirstSquawk] TRUMP: HE ACCUSES RADICAL LEFT DEMOCRATS OF CONTINUING TO PUSH SUCH FEARS AND SAYS VOTERS WILL EVENTUALLY SEE THROUGH THEM. - TRUTH SOCIAL
+- 09/15 06:12 [financialjuice] World Bank president banga: to meet Senegalese president in Washington on Monday
+- 09/15 06:12 [financialjuice] S. Korea August export prices in won terms rise 42.4% y/y vs 48.9% in July: central bank
+- 09/15 06:13 [financialjuice] World Bank's Banga: wants Senegal to undergo common framework debt restructuring faster than previous cases
+- 09/15 06:14 [financialjuice/FirstSquawk] NATO military jets scrambled in Lithuania over possible drone near Vilnius: national crisis management centre
+- 09/15 06:21 [FirstSquawk] IRAN TOP SECURITY OFFICIAL REZAEE: U.S. PRESIDENT IS SENDING MIXED SIGNALS ON NEGOTIATIONS; IRAN WILL NOT ENTER TALKS UNTIL ITS CONDITIONS ARE FULLY MET.

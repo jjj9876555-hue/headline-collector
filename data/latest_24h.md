@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 06:04 JST／対象: 09/14 06:04 〜 09/15 06:04 JST（時刻はすべて日本時間）
+生成: 2026-09-15 06:24 JST／対象: 09/14 06:24 〜 09/15 06:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 08:03 | 09/15 05:37 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 341 | 09/14 06:07 | 09/15 06:03 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 245 | 09/14 06:13 | 09/15 06:00 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 341 | 09/14 06:48 | 09/15 06:21 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 246 | 09/14 06:54 | 09/15 06:14 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 615 行（統合前 644 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 615 行（統合前 645 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 06:07 [FirstSquawk] HOUSE SPEAKER MIKE JOHNSON SAYS TRUMP’S PROPOSED $5,000 DIVIDEND FOR EVERY AMERICAN ADULT WOULD REQUIRE CONGRESSIONAL APPROVAL, CONTRADICTING TRUMP’S CLAIM THAT THE PAYMENTS CAN BE MADE WITHOUT AUTHORIZATION. JOHNSON VOWS TO WORK TO PASS TH…
-- 09/14 06:13 [financialjuice] Election authority projection: Sweden's center-left opposition bloc poised to secure 165 seats in parliament
-- 09/14 06:15 [financialjuice] Election authority projection: Sweden's centre-left opposition bloc anticipated to secure 175 seats in parliament
-- 09/14 06:16 [financialjuice] Election authority projection: Sweden's right-wing ruling bloc set to capture 174 parliamentary seats
-- 09/14 06:18 [FirstSquawk] NORTH KOREA HELD A LONG-RANGE ARTILLERY AND MISSILE DRILL ON SEPTEMBER 12 || THE DRILL INVOLVED ATTACK DRONES AND NEW BALLISTIC MISSILES, SIGNALING A BROADER SHOW OF NORTH KOREA’S STRIKE CAPABILITIES, ACCORDING TO STATE MEDIA KCNA.
 - 09/14 06:48 [FirstSquawk] HOUSE SPEAKER MIKE JOHNSON SAYS TRUMP’S PROPOSED $5,000 PAYMENT FOR EVERY AMERICAN ADULT WOULD REQUIRE CONGRESSIONAL APPROVAL, WHILE TRUMP INSISTS THE PLAN WILL HAPPEN “100%.” THE PROPOSAL COULD COST MORE THAN $1 TRILLION, ADDING TO THE U.S…
 - 09/14 06:54 [financialjuice/FirstSquawk] Elon Musk: highly confident SpaceX will launch Nvidia VR NLV72 AI computers in space next year - X post
 - 09/14 07:00 [financialjuice] Sweden Social Democrats leader Andersson: currently leading, new government likely if results hold
@@ -639,3 +634,8 @@
 - 09/15 06:03 [FirstSquawk] TRUMP: CLAIMS THAT AI WILL “TAKE OVER, CONSUME AND DESTROY” THE WORLD ARE A “HOAX,” COMPARING THEM TO PAST WARNINGS ABOUT GLOBAL WARMING. - TRUTH SOCIAL
 - 09/15 06:03 [FirstSquawk] TRUMP: HE SAYS FEARS THAT ROBOTS WILL ENTER CITIES, REPLACE PEOPLE AND “GET RID OF US ALL” ARE EVEN MORE EXTREME THAN PREVIOUS CLAIMS ABOUT RUSSIA AND UKRAINE. - TRUTH SOCIAL
 - 09/15 06:03 [FirstSquawk] TRUMP: HE ACCUSES RADICAL LEFT DEMOCRATS OF CONTINUING TO PUSH SUCH FEARS AND SAYS VOTERS WILL EVENTUALLY SEE THROUGH THEM. - TRUTH SOCIAL
+- 09/15 06:12 [financialjuice] World Bank president banga: to meet Senegalese president in Washington on Monday
+- 09/15 06:12 [financialjuice] S. Korea August export prices in won terms rise 42.4% y/y vs 48.9% in July: central bank
+- 09/15 06:13 [financialjuice] World Bank's Banga: wants Senegal to undergo common framework debt restructuring faster than previous cases
+- 09/15 06:14 [financialjuice/FirstSquawk] NATO military jets scrambled in Lithuania over possible drone near Vilnius: national crisis management centre
+- 09/15 06:21 [FirstSquawk] IRAN TOP SECURITY OFFICIAL REZAEE: U.S. PRESIDENT IS SENDING MIXED SIGNALS ON NEGOTIATIONS; IRAN WILL NOT ENTER TALKS UNTIL ITS CONDITIONS ARE FULLY MET.

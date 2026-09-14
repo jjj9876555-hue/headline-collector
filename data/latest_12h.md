@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 06:04 JST／対象: 09/14 18:04 〜 09/15 06:04 JST（時刻はすべて日本時間）
+生成: 2026-09-15 06:24 JST／対象: 09/14 18:24 〜 09/15 06:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 47 | 09/14 18:07 | 09/15 05:37 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 161 | 09/14 18:12 | 09/15 06:03 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 172 | 09/14 18:10 | 09/15 06:00 | 34分（05:17→05:51） |
+| DeItaone | 45 | 09/14 18:30 | 09/15 05:37 | ⚠ 110分（00:34→02:25） |
+| FirstSquawk | 159 | 09/14 18:38 | 09/15 06:21 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 173 | 09/14 18:25 | 09/15 06:14 | 34分（05:17→05:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 357 行（統合前 384 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 353 行（統合前 381 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 18:07 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS A light U.S. data calendar puts the focus on oil, geopolitics, Treasury yields and Fed positioning. 8:30 AM ET — 🇨🇦 Canada CPI 11:00 AM ET — 🇺🇸 13-Week & 26-Week Treasury Bill Auctions After Close — 🫀 K…
-- 09/14 18:10 [financialjuice] Iran's Persian Gulf Strait Authority publishes an updated list of 77 vessels "violating Iranian protocols for the Strait of Hormuz"
-- 09/14 18:11 [financialjuice] Iran's Persian Gulf Strait Authority: Vessels will face restrictions on future passage, including fines, detention, or confiscation
-- 09/14 18:11 [DeItaone] IRAN'S PERSIAN GULF STRAIT AUTHORITY PUBLISHES UPDATED LIST OF 77 VESSELS 'VIOLATING IRANIAN PROTOCOLS FOR THE STRAIT OF HORMUZ' IRAN'S PERSIAN GULF STRAIT AUTHORITY VESSELS WILL FACE RESTRICTIONS OF FUTURE PASSAGE INCLUDING FINES, DETENTIO…
-- 09/14 18:12 [FirstSquawk] IRAN'S PERSIAN GULF STRAIT AUTHORITY RELEASES AN UPDATED LIST OF 77 SHIPS "BREAKING IRANIAN RULES FOR THE STRAIT OF HORMUZ."
-- 09/14 18:12 [FirstSquawk] IRAN WILL ENFORCE NEW RESTRICTIONS ON VESSEL PASSAGE IN THE PERSIAN GULF STRAIT, WHICH MAY INCLUDE FINES, DETENTION, OR CONFISCATION.
-- 09/14 18:17 [FirstSquawk] ECB’S SCHNABEL: MACROECONOMIC, FISCAL AND FINANCIAL STABILITY IN A SHOCK-PRONE WORLD
-- 09/14 18:21 [FirstSquawk] SAUDI CROWN PRINCE MEETS CENTCOM COMMANDER
-- 09/14 18:22 [financialjuice] Saudi Crown Prince and US CENTCOM chief discuss latest regional developments
 - 09/14 18:25 [financialjuice] Iran updates list of Hormuz non-compliant vessels to 77
 - 09/14 18:30 [DeItaone] OPENAI’S BROCKMAN BACKS SLOWDOWN FOR FRONTIER AI OpenAI co-founder Greg Brockman says any AI slowdown should target only frontier models powered by massive supercomputers, not open-source or hobby projects. His comments follow growing indus…
 - 09/14 18:30 [DeItaone] TRUMP'S MAIL-IN VOTING RESTRICTIONS ARE BLOCKED BY A SECOND FEDERAL JUDGE
@@ -381,3 +372,8 @@
 - 09/15 06:03 [FirstSquawk] TRUMP: CLAIMS THAT AI WILL “TAKE OVER, CONSUME AND DESTROY” THE WORLD ARE A “HOAX,” COMPARING THEM TO PAST WARNINGS ABOUT GLOBAL WARMING. - TRUTH SOCIAL
 - 09/15 06:03 [FirstSquawk] TRUMP: HE SAYS FEARS THAT ROBOTS WILL ENTER CITIES, REPLACE PEOPLE AND “GET RID OF US ALL” ARE EVEN MORE EXTREME THAN PREVIOUS CLAIMS ABOUT RUSSIA AND UKRAINE. - TRUTH SOCIAL
 - 09/15 06:03 [FirstSquawk] TRUMP: HE ACCUSES RADICAL LEFT DEMOCRATS OF CONTINUING TO PUSH SUCH FEARS AND SAYS VOTERS WILL EVENTUALLY SEE THROUGH THEM. - TRUTH SOCIAL
+- 09/15 06:12 [financialjuice] World Bank president banga: to meet Senegalese president in Washington on Monday
+- 09/15 06:12 [financialjuice] S. Korea August export prices in won terms rise 42.4% y/y vs 48.9% in July: central bank
+- 09/15 06:13 [financialjuice] World Bank's Banga: wants Senegal to undergo common framework debt restructuring faster than previous cases
+- 09/15 06:14 [financialjuice/FirstSquawk] NATO military jets scrambled in Lithuania over possible drone near Vilnius: national crisis management centre
+- 09/15 06:21 [FirstSquawk] IRAN TOP SECURITY OFFICIAL REZAEE: U.S. PRESIDENT IS SENDING MIXED SIGNALS ON NEGOTIATIONS; IRAN WILL NOT ENTER TALKS UNTIL ITS CONDITIONS ARE FULLY MET.
