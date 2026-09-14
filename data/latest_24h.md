@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 10:47 JST／対象: 09/13 10:47 〜 09/14 10:47 JST（時刻はすべて日本時間）
+生成: 2026-09-14 11:00 JST／対象: 09/13 11:00 〜 09/14 11:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 280 | 09/13 10:55 | 09/14 10:46 | ⚠ 90分（01:59→03:29） |
+| FirstSquawk | 281 | 09/13 11:07 | 09/14 10:58 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 88 | 09/13 13:41 | 09/14 10:40 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 387 行（統合前 393 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 388 行（統合前 394 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 10:55 [FirstSquawk] NORTH KOREA CONSUMER SHIFT: Kim Jong-un is introducing new channels aimed at encouraging domestic spending among citizens.
-- 09/13 10:56 [FirstSquawk] Tehran will share details of the Iran-Oman talks and key decisions with Gulf Cooperation Council states, according to an Iranian source cited by Tasnim.
-- 09/13 10:57 [FirstSquawk] IRAN REJECTS US PRESSURE: Tehran will keep the southern route shut despite Washington’s demands for its reopening, an Iranian source tells Tasnim.
 - 09/13 11:07 [FirstSquawk] India and China are gradually easing tensions following a period of conflict and strained relations, Reuters reports.
 - 09/13 11:07 [FirstSquawk] SAUDI SECURITY CHALLENGE: Saudi Arabia is confronting mounting pressure from Iran and allied forces as its strategic choices narrow, according to Politico.
 - 09/13 11:08 [FirstSquawk] FAR RIGHT EYES POWER: Sweden holds an election that could potentially see far-right forces gain a role in government.
@@ -411,3 +408,7 @@
 - 09/14 10:40 [financialjuice] S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.050% yield
 - 09/14 10:43 [FirstSquawk] South Korea’s central bank sells 91-day Monetary Stabilisation Bonds at a 3.050% yield, according to the Bank of Korea.
 - 09/14 10:46 [FirstSquawk] Beijing’s trust concerns over Hong Kong are emerging as a key challenge for the city’s next five-year plan, raising questions over what commitments Hong Kong can credibly make to strengthen ties with the central government.
+- 09/14 10:48 [FirstSquawk] China’s intelligence chief warns that AI could pose growing security risks if controlled by hostile forces, highlighting the technology’s emerging role in strategic competition.
+- 09/14 10:53 [FirstSquawk] Iraq and the UAE discuss regional security and developments in Yemen, while also exploring stronger Iraqi-Gulf cooperation and efforts to preserve stability across the region.
+- 09/14 10:55 [FirstSquawk] Brent crude surges at the open after Saudi Arabia shuts a major pipeline following an attack, intensifying concerns over global oil supply.
+- 09/14 10:58 [FirstSquawk] India’s rapid data center expansion is emerging as a new growth driver for renewable energy, as rising power demand accelerates investment in cleaner electricity.

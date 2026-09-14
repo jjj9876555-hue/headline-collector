@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 10:47 JST／対象: 09/14 04:47 〜 09/14 10:47 JST（時刻はすべて日本時間）
+生成: 2026-09-14 11:00 JST／対象: 09/14 05:00 〜 09/14 11:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/14 08:03 | 09/14 08:03 | - |
-| FirstSquawk | 78 | 09/14 04:48 | 09/14 10:46 | 37分（07:53→08:31） |
+| FirstSquawk | 81 | 09/14 05:07 | 09/14 10:58 | 37分（07:53→08:31） |
 | financialjuice | 37 | 09/14 05:39 | 09/14 10:40 | 39分（07:45→08:25） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 115 行（統合前 116 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 118 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 04:48 [FirstSquawk] SWEDEN'S RIGHT-WING GOVERNING BLOC IS POISED TO SECURE 175 SEATS IN PARLIAMENT, A BROADCASTER SVT PROJECTION SHOWS, WITH THE CENTRE-LEFT OPPOSITION BLOC PROJECTED TO SECURE 174 SEATS AND THE LIBERALS PARTY FORECAST TO SURPASS PARLIAMENT'S 4…
 - 09/14 05:07 [FirstSquawk] FED CHAIR KEVIN WARSH FACES A COLLISION COURSE WITH TRUMP AS HOTTER-THAN-EXPECTED AUGUST INFLATION PUSHES MARKETS TO PRICE ABOVE 85% ODDS OF A SEPTEMBER RATE HIKE.
 - 09/14 05:08 [FirstSquawk] TRUMP CONTINUES TO DEMAND LOWER BORROWING COSTS, SAYING THE U.S. SHOULD HAVE THE LOWEST INTEREST RATES IN THE WORLD, LEAVING WARSH TO BALANCE FED INDEPENDENCE AGAINST INTENSE WHITE HOUSE PRESSURE.
 - 09/14 05:23 [FirstSquawk] RUSSIAN DRONE STRIKES A TRAIN NEAR YAHODYN, CLOSE TO THE UKRAINE-POLAND BORDER, MINUTES AFTER A DIPLOMATIC TRAIN CARRYING BORIS JOHNSON, CARL BILDT AND EUROPEAN SECURITY ADVISERS DEPARTED AHEAD OF SCHEDULE, WITH UKRAINE SAYING IT WAS LIKELY…
@@ -139,3 +138,7 @@
 - 09/14 10:40 [financialjuice] S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.050% yield
 - 09/14 10:43 [FirstSquawk] South Korea’s central bank sells 91-day Monetary Stabilisation Bonds at a 3.050% yield, according to the Bank of Korea.
 - 09/14 10:46 [FirstSquawk] Beijing’s trust concerns over Hong Kong are emerging as a key challenge for the city’s next five-year plan, raising questions over what commitments Hong Kong can credibly make to strengthen ties with the central government.
+- 09/14 10:48 [FirstSquawk] China’s intelligence chief warns that AI could pose growing security risks if controlled by hostile forces, highlighting the technology’s emerging role in strategic competition.
+- 09/14 10:53 [FirstSquawk] Iraq and the UAE discuss regional security and developments in Yemen, while also exploring stronger Iraqi-Gulf cooperation and efforts to preserve stability across the region.
+- 09/14 10:55 [FirstSquawk] Brent crude surges at the open after Saudi Arabia shuts a major pipeline following an attack, intensifying concerns over global oil supply.
+- 09/14 10:58 [FirstSquawk] India’s rapid data center expansion is emerging as a new growth driver for renewable energy, as rising power demand accelerates investment in cleaner electricity.
