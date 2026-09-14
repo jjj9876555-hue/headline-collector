@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 22:03 JST／対象: 09/14 10:03 〜 09/14 22:03 JST（時刻はすべて日本時間）
+生成: 2026-09-14 22:28 JST／対象: 09/14 10:28 〜 09/14 22:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/14 16:28 | 09/14 21:42 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 171 | 09/14 10:09 | 09/14 22:03 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 91 | 09/14 10:18 | 09/14 22:03 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 29 | 09/14 16:28 | 09/14 22:11 | ⚠ 53分（18:30→19:24） |
+| FirstSquawk | 167 | 09/14 10:29 | 09/14 22:21 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 97 | 09/14 10:34 | 09/14 22:15 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 280 行（統合前 286 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 285 行（統合前 293 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 10:09 [FirstSquawk] Euro slips below 1.1600 as markets increasingly price a potential Fed rate hike, adding pressure to the single currency.
-- 09/14 10:12 [FirstSquawk] Trump dismisses claims that Chinese entities assisted Iran ahead of the attack that resulted in the deaths of U.S. troops - RTRS
-- 09/14 10:14 [FirstSquawk] Trump signals openness to Chinese automakers entering the U.S. market, ahead of his upcoming summit with Chinese President Xi Jinping.
-- 09/14 10:18 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023
-- 09/14 10:18 [FirstSquawk] China’s central bank sets the USD/CNY reference rate at 6.7698, stronger than the previous fixing of 6.7743.
-- 09/14 10:18 [FirstSquawk] Oil prices climb after Saudi Arabia shuts a key pipeline designed to bypass the Strait of Hormuz, raising fresh concerns over global crude supply flows - CNBC
-- 09/14 10:19 [FirstSquawk] China sets the yuan midpoint at its strongest level since February 3, 2023, signaling firmer support for the currency.
-- 09/14 10:22 [financialjuice] China cbank: 7-day reverse repo volume drops to zero Monday amid primary dealer demand - statement
-- 09/14 10:23 [FirstSquawk] The British pound holds above 1.3500 against the U.S. dollar, with traders looking ahead to key UK economic data and upcoming Fed and BoE decisions.
-- 09/14 10:25 [financialjuice] China’s central bank injects 504 billion yuan via overnight and one-day reverse repos: statement
-- 09/14 10:25 [FirstSquawk] China’s central bank injects 504 billion yuan into the financial system through overnight and one-day reverse repo operations, according to a statement.
-- 09/14 10:26 [financialjuice] Amazon: we’ve decided to suspend operations with 21 Air
 - 09/14 10:29 [FirstSquawk] Amazon says it has suspended operations with 21 Air, signaling a pause in its business relationship with the carrier.
 - 09/14 10:33 [FirstSquawk] WTI rebounds toward a near four-month high as Saudi Arabia’s pipeline shutdown raises fresh concerns over crude supply and adds upward pressure to oil prices.
 - 09/14 10:34 [financialjuice] Hong Kong-listed shares of drop as much as 10.5% after discounted share placement
@@ -302,5 +290,22 @@
 - 09/14 22:01 [FirstSquawk] AN ATTACK THAT SAUDI ARABIA BLAMED ON DRONES FROM IRANIAN-BACKED MILITIAS IN IRAQ FORCED THE SHUTDOWN OF THE PIPELINE ON THURSDAY. || THE OFFICIALS, WHO HAVE BEEN BRIEFED ON THE MATTER, SAID REPAIRING THE DAMAGE COULD TAKE THREE TO FIVE WEE…
 - 09/14 22:02 [FirstSquawk] NETFLIX, AMAZON, YOUTUBE LAUNCH NEW STREAMING COALITION
 - 09/14 22:03 [financialjuice] Netflix, Amazon and Youtube launch new streaming coalition - Axios
-- 09/14 22:03 [FirstSquawk] MICROSOFT SETS LIMITS FOR FUTURE AI MODELS: CNBC
+- 09/14 22:03 [FirstSquawk/DeItaone] MICROSOFT SETS LIMITS FOR FUTURE AI MODELS: CNBC
 - 09/14 22:03 [financialjuice] Nvidia, Palantir and Booz Allen to limit Anthropic model use - The Information
+- 09/14 22:03 [financialjuice] Microsoft sets limits for future AI models - CNBC $MSFT
+- 09/14 22:04 [FirstSquawk] ANTHROPIC DATA FEARS PROMPT NVIDIA, PALANTIR AND BOOZ ALLEN TO RESTRICT MODEL USE – INFORMATION
+- 09/14 22:05 [financialjuice] Microsoft issues code of conduct to restrict AI models - CNBC $MSFT
+- 09/14 22:05 [financialjuice] Microsoft sets limits for future AI models as industry throttles frontier development - CNBC $MSFT
+- 09/14 22:06 [DeItaone] NVIDIA, Palantir and Booz Allen Hamilton will limit use of ANTHROPIC models
+- 09/14 22:06 [financialjuice] Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use - The Information $NVDA $PLTR
+- 09/14 22:07 [financialjuice/FirstSquawk] BofA raises s&p 500 year-end target to 7,400 from 7,100.
+- 09/14 22:07 [financialjuice] BofA introduces 12-month S&P 500 target of 7,800.
+- 09/14 22:09 [financialjuice] Verizon: AWS, Cisco, Intel, NVIDIA & other companies joined Verizon 6G Innovation Forum.
+- 09/14 22:09 [DeItaone] BOFA TURNS MORE BULLISH ON S&P 500 Bank of America raised its S&P 500 year-end target to 7,400 from 7,100, signaling increased confidence in the equity rally. BofA also introduced a 12-month target of 7,800, pointing to further upside for U…
+- 09/14 22:10 [DeItaone] SPOT GOLD EXTENDS LOSSES, DOWN 2% TO $4,256.39/OZ
+- 09/14 22:11 [DeItaone] *ORACLE STARTS A NEW ROUND OF LAYOFFS: INSIDER
+- 09/14 22:12 [financialjuice] Oracle starts a new round of layoffs - Insider. $ORCL
+- 09/14 22:13 [financialjuice] Oracle cuts reach double-digit % on some teams - Insider.
+- 09/14 22:15 [financialjuice] Oracle begins a new round of layoffs - Business Insider $ORCL
+- 09/14 22:17 [FirstSquawk] ORACLE BEGINS A NEW ROUND OF LAYOFFS
+- 09/14 22:21 [FirstSquawk] LULA SEEN WITH 36%, FLAVIO BOLSONARO 31%, CURY 7% IN FIRST ROUND OF BRAZIL'S PRESIDENTIAL ELECTION - QUAEST POLL
