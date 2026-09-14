@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 20:45 JST／対象: 09/14 08:45 〜 09/14 20:45 JST（時刻はすべて日本時間）
+生成: 2026-09-14 20:59 JST／対象: 09/14 08:59 〜 09/14 20:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/14 16:28 | 09/14 20:05 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 188 | 09/14 08:46 | 09/14 20:45 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 70 | 09/14 08:46 | 09/14 20:32 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 18 | 09/14 16:28 | 09/14 20:51 | ⚠ 53分（18:30→19:24） |
+| FirstSquawk | 186 | 09/14 09:10 | 09/14 20:58 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 69 | 09/14 09:00 | 09/14 20:48 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 271 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 269 行（統合前 273 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 08:46 [FirstSquawk] CANADA IS IN TALKS TO CONTRIBUTE TO THE EU'S €90 BLN LOAN FOR UKRAINE AS PRIME MINISTER MARK CARNEY PUSHES FOR CLOSER TIES WITH EUROPE AND LESS DEPENDENCE ON THE U.S., WITH THE TWO SIDES HOPING TO AGREE ON CANADA'S CONTRIBUTION BEFORE AN EU…
-- 09/14 08:46 [financialjuice] Danger has passed in Khamis Mushait: Saudi civil defense
-- 09/14 08:47 [FirstSquawk] THE NSA IS LAUNCHING ITS BIGGEST RESTRUCTURING IN AT LEAST A DECADE, CREATING FIVE NEW MISSION CENTERS FOCUSED ON AI, CHINA, CYBERSECURITY, WARFIGHTING AND GLOBAL INTELLIGENCE, WITH DIRECTOR GEN. JOSHUA RUDD'S PLAN GIVING THE NEW MISSION CH…
-- 09/14 08:47 [FirstSquawk] THE NSA'S ELITE HACKING UNIT, TAILORED ACCESS OPERATIONS, WILL FALL UNDER GLOBAL INTELLIGENCE AND IS EXPECTED TO RECEIVE A MAJOR BUDGET INCREASE, WITH THE RESTRUCTURING SET TO BEGIN IN MID-OCTOBER AND FULL IMPLEMENTATION TARGETED FOR JANUAR…
-- 09/14 08:47 [financialjuice] Danger has passed in Abha: Saudi civil defense
-- 09/14 08:50 [FirstSquawk] JAPAN EARLY TRADE: BENCHMARK 10-YEAR JGB FUTURES RISE 0.04 POINT, WHILE NIKKEI AVERAGE FUTURES FALL 1.5%
 - 09/14 09:00 [financialjuice] Kennedy Center may shut as soon as Tuesday, warns of bankruptcy, documents show - Washington Post
 - 09/14 09:10 [FirstSquawk] Musk says he’s highly confident SpaceX will put Nvidia AI computers into orbit in 2027, potentially opening a new frontier for space-based computing.
 - 09/14 09:11 [FirstSquawk] BAKER HUGHES WINS A MAJOR CONTRACT FROM VENTURE GLOBAL LNG TO SUPPLY 13 GAS COMPRESSION SYSTEMS FOR THE CLOUD CONNECT PIPELINE IN LOUISIANA. || COMPANY WILL ALSO DELIVER FOUR LIQUEFACTION BLOCKS WITH EIGHT MODULES FOR VENTURE GLOBAL'S PLAQU…
@@ -295,3 +289,7 @@
 - 09/14 20:32 [financialjuice] UK's PM Spokesman Wells: Future AI measures will be evidence-based, risk-focused.
 - 09/14 20:39 [FirstSquawk] UK PM BURNHAM `CLEAR-EYED' ABOUT RISKS POSED BY AI: WELLS
 - 09/14 20:45 [FirstSquawk] CHINESE GROUPS ARE SAID TO HAVE PROVIDED IRAN WITH SATELLITE IMAGES OF A U.S. AIR BASE, WHICH IRAN LATER ATTACKED WITH MISSILES, RESULTING IN THE DEATH OF THREE AMERICAN SOLDIERS.
+- 09/14 20:47 [FirstSquawk] GERMANY'S MERZ: SUPPORT EU FUNDING TO BUY ICREBREAKERS
+- 09/14 20:48 [financialjuice] US Senate Minority Leader Schumer demands AI briefing from the Trump administration to the Senate
+- 09/14 20:51 [DeItaone] QATAR OFFERS OIL FROM INSIDE STRAIT OF HORMUZ QatarEnergy has launched a tender to sell crude for October and November loading from Qatari ports located inside the Strait of Hormuz. The offer includes Al-Shaheen, Qatar Marine and Qatar Land…
+- 09/14 20:58 [FirstSquawk] 89% OF AMERICANS SAY GOVERNMENT CORRUPTION IS REAL — PUBLIC TRUST HITS A BREAKING POINT A striking 89% of Americans believe corruption is present in the U.S. government, highlighting a deep and widespread crisis of public trust. The figure …

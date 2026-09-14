@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 20:45 JST／対象: 09/13 20:45 〜 09/14 20:45 JST（時刻はすべて日本時間）
+生成: 2026-09-14 20:59 JST／対象: 09/13 20:59 〜 09/14 20:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 39 | 09/13 21:10 | 09/14 20:05 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 287 | 09/13 20:53 | 09/14 20:45 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 130 | 09/13 21:00 | 09/14 20:32 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 40 | 09/13 21:10 | 09/14 20:51 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 284 | 09/13 21:25 | 09/14 20:58 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 131 | 09/13 21:00 | 09/14 20:48 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 449 行（統合前 456 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 448 行（統合前 455 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 20:53 [FirstSquawk] Iraq: Arrest warrant issued for Iraqi suspect Omid Haji Ahmed on charges of financing terrorism and money laundering
-- 09/13 20:53 [FirstSquawk] Iraq: Accused Omid Haji Ahmad is on US sanctions lists for smuggling Iranian oil.
-- 09/13 20:53 [FirstSquawk] Yemeni Armed Forces: We destroyed equipment, gatherings, and elements of the Houthi militia in the "kill box" in Dhubab and Mocha.
-- 09/13 20:53 [FirstSquawk] Poland: A Russian drone struck a train bound for Warsaw; no injuries reported
-- 09/13 20:54 [FirstSquawk] Saudi Crown Prince and the Pakistani Prime Minister discuss regional developments in a phone call.
 - 09/13 21:00 [financialjuice] Saudi pipeline outage threatens 4% loss in global oil supply unless pumping resumes within days, say traders, sources
 - 09/13 21:00 [financialjuice] Saudi Arabia has storage at Yanbu for only 5-7 days of exports, plus smaller amount stored in Egypt, three sources say
 - 09/13 21:10 [DeItaone] SAUDI PIPELINE OUTAGE THREATENS LOSS OF 4% OF GLOBAL OIL SUPPLY UNLESS PUMPING RESUMES WITHIN DAYS, SAY TRADERS, SOURCES SAUDI ARABIA HAS STORAGE AT YANBU FOR JUST 5-7 DAYS OF EXPORTS, PLUS SMALLER AMOUNT STORED IN EGYPT, THREE SOURCES SAY
@@ -473,3 +468,7 @@
 - 09/14 20:32 [financialjuice] UK's PM Spokesman Wells: Future AI measures will be evidence-based, risk-focused.
 - 09/14 20:39 [FirstSquawk] UK PM BURNHAM `CLEAR-EYED' ABOUT RISKS POSED BY AI: WELLS
 - 09/14 20:45 [FirstSquawk] CHINESE GROUPS ARE SAID TO HAVE PROVIDED IRAN WITH SATELLITE IMAGES OF A U.S. AIR BASE, WHICH IRAN LATER ATTACKED WITH MISSILES, RESULTING IN THE DEATH OF THREE AMERICAN SOLDIERS.
+- 09/14 20:47 [FirstSquawk] GERMANY'S MERZ: SUPPORT EU FUNDING TO BUY ICREBREAKERS
+- 09/14 20:48 [financialjuice] US Senate Minority Leader Schumer demands AI briefing from the Trump administration to the Senate
+- 09/14 20:51 [DeItaone] QATAR OFFERS OIL FROM INSIDE STRAIT OF HORMUZ QatarEnergy has launched a tender to sell crude for October and November loading from Qatari ports located inside the Strait of Hormuz. The offer includes Al-Shaheen, Qatar Marine and Qatar Land…
+- 09/14 20:58 [FirstSquawk] 89% OF AMERICANS SAY GOVERNMENT CORRUPTION IS REAL — PUBLIC TRUST HITS A BREAKING POINT A striking 89% of Americans believe corruption is present in the U.S. government, highlighting a deep and widespread crisis of public trust. The figure …
