@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 10:19 JST／対象: 09/14 04:19 〜 09/14 10:19 JST（時刻はすべて日本時間）
+生成: 2026-09-14 10:32 JST／対象: 09/14 04:32 〜 09/14 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/14 04:30 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 86 | 09/14 04:25 | 09/14 10:18 | 37分（07:53→08:31） |
-| financialjuice | 37 | 09/14 04:42 | 09/14 10:18 | ⚠ 52分（04:46→05:39） |
+| DeItaone | 2 | 09/14 04:44 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
+| FirstSquawk | 85 | 09/14 04:33 | 09/14 10:29 | 37分（07:53→08:31） |
+| financialjuice | 40 | 09/14 04:42 | 09/14 10:26 | ⚠ 52分（04:46→05:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 125 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 126 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 04:25 [FirstSquawk] CANADA AIMS FOR UKRAINE LOAN ROLE TO STRENGTHEN EU RELATIONS - FT
-- 09/14 04:26 [FirstSquawk] OMAN'S FOREIGN MINISTER SAYS A REGIONAL MEETING SCHEDULED FOR TOMORROW IN SALALAH HAS BEEN POSTPONED IN THE INTEREST OF CONSENSUS, ADDING THAT OMAN REMAINS COMMITTED TO FOSTERING DIALOGUE THAT SUPPORTS STABILITY AND LASTING COOPERATION IN T…
-- 09/14 04:26 [FirstSquawk] TALKS ON AI STANDARDS BEGAN BEFORE AMODEI'S ESSAY - THE INFORMATION
-- 09/14 04:30 [FirstSquawk] ANTHROPIC, OPENAI AND GOOGLE ARE DISCUSSING CREATING AI STANDARDS, WITH THE TALKS HAVING BEGUN BEFORE AMODEI'S ESSAY - THE INFORMATION
-- 09/14 04:30 [FirstSquawk] HORMUZ SHIPPING TALKS BETWEEN IRAN AND GULF NATIONS HAVE BEEN POSTPONED, WITH OMAN SAYING THE MEETING WAS DELAYED “IN THE INTERESTS OF CONSENSUS” AS EFFORTS TO CREATE A TEMPORARY SHIPPING LANE CONTINUE. THE DELAY COMES AS BRENT CRUDE REMAIN…
-- 09/14 04:30 [DeItaone] GULF–IRAN HORMUZ TALKS POSTPONED A planned September 14 meeting in Oman between Iran and Gulf states on possible Strait of Hormuz arrangements has been postponed, Omani Foreign Minister Badr Albusaidi said Sunday. No reason or replacement d…
 - 09/14 04:33 [FirstSquawk] UK NATIONAL SECURITY ADVISER JONATHAN POWELL SAYS 'THE SO-CALLED ANCHORAGE COMPROMISE IS FIRMLY DEAD', ADDING 'THAT'S GONE. WE CAN STOP WORRYING ABOUT IT. IT'S FINISHED'.
 - 09/14 04:33 [FirstSquawk] UK NATIONAL SECURITY ADVISER JONATHAN POWELL SAYS 'GAS COULD BE THE PROBLEM AS WE COME INTO THE WINTER, WHERE THE EU IS GOING TO HAVE REAL PROBLEMS OF SHORTAGE, AND WE CANNOT TURN THAT INTO AN ADVANTAGE FOR PUTIN', WARNING THAT 'IT WILL REQ…
 - 09/14 04:33 [FirstSquawk] UK NATIONAL SECURITY ADVISER JONATHAN POWELL SAYS 'I SEE NO CRACKS IN BRITISH PUBLIC OPINION, YOUNG OR OLD, ON UKRAINE', CALLING BRITAIN 'ONE OF THE MOST RESOLUTE COUNTRIES IN EUROPE OR ANYWHERE ELSE IN TERMS OF SUPPORTING IT'.
@@ -149,3 +143,10 @@
 - 09/14 10:18 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023
 - 09/14 10:18 [FirstSquawk] China’s central bank sets the USD/CNY reference rate at 6.7698, stronger than the previous fixing of 6.7743.
 - 09/14 10:18 [FirstSquawk] Oil prices climb after Saudi Arabia shuts a key pipeline designed to bypass the Strait of Hormuz, raising fresh concerns over global crude supply flows - CNBC
+- 09/14 10:19 [FirstSquawk] China sets the yuan midpoint at its strongest level since February 3, 2023, signaling firmer support for the currency.
+- 09/14 10:22 [financialjuice] China cbank: 7-day reverse repo volume drops to zero Monday amid primary dealer demand - statement
+- 09/14 10:23 [FirstSquawk] The British pound holds above 1.3500 against the U.S. dollar, with traders looking ahead to key UK economic data and upcoming Fed and BoE decisions.
+- 09/14 10:25 [financialjuice] China’s central bank injects 504 billion yuan via overnight and one-day reverse repos: statement
+- 09/14 10:25 [FirstSquawk] China’s central bank injects 504 billion yuan into the financial system through overnight and one-day reverse repo operations, according to a statement.
+- 09/14 10:26 [financialjuice] Amazon: we’ve decided to suspend operations with 21 Air
+- 09/14 10:29 [FirstSquawk] Amazon says it has suspended operations with 21 Air, signaling a pause in its business relationship with the carrier.
