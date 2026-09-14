@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 17:19 JST／対象: 09/14 11:19 〜 09/14 17:19 JST（時刻はすべて日本時間）
+生成: 2026-09-14 17:36 JST／対象: 09/14 11:36 〜 09/14 17:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/14 16:28 | 09/14 17:19 | ⚠ 50分（16:28→17:19） |
-| FirstSquawk | 88 | 09/14 11:24 | 09/14 17:18 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 39 | 09/14 11:31 | 09/14 17:16 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 88 | 09/14 11:44 | 09/14 17:35 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 37 | 09/14 11:51 | 09/14 17:16 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 128 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 126 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 11:24 [FirstSquawk] Iran says a commercial vessel was struck in the Strait of Hormuz, adding fresh tension to one of the world’s most critical energy shipping routes.
-- 09/14 11:31 [financialjuice] Strait of Hormuz commodity vessel crossings drop to single digits per day over weekend, under 10-day average near 14, data shows
-- 09/14 11:32 [financialjuice] Japan chief cabinet secretary Kihara: will finalize budget while properly managing bond issuance amount
-- 09/14 11:32 [FirstSquawk] Commodity vessel traffic through the Strait of Hormuz fell to single digits per day over the weekend, below the 10-day average of around 14 crossings, data shows.
-- 09/14 11:32 [FirstSquawk] Japan’s Chief Cabinet Secretary Kihara says the government will finalize the budget while carefully managing the amount of new bond issuance.
-- 09/14 11:34 [FirstSquawk] Australian luxury bootmaker R.M.Williams is turning its attention to Japan, marking the next step in the brand’s international expansion.
 - 09/14 11:44 [FirstSquawk] Commodity vessel crossings through the Strait of Hormuz dropped to single digits per day over the weekend, well below the 10-day average of roughly 14, according to data.
 - 09/14 11:45 [FirstSquawk] Brent crude jumps to $107 as Oman postpones an Iran meeting and Saudi Arabia shuts a key pipeline following an attack. Meanwhile, Nasdaq futures slide amid renewed jitters over AI valuations, Benzinga reports.
 - 09/14 11:50 [FirstSquawk] Long-term Japanese government bond yields move higher as markets strengthen expectations for further BOJ interest-rate increases, according to the Wall Street Journal.
@@ -152,3 +146,7 @@
 - 09/14 17:16 [financialjuice] ECB's Kazimir: Increasingly concerned about gas and power prices.
 - 09/14 17:18 [FirstSquawk] TELEFÓNICA REACTIVATES TALKS WITH ZEGONA TO ACQUIRE VODAFONE SPAIN - VOZPOLULI
 - 09/14 17:19 [DeItaone] *IRAN: US, NOT LACK OF MEDIATION, IS MAIN OBSTACLE TO DIPLOMACY
+- 09/14 17:26 [FirstSquawk] EXXONMOBIL EXEC: A LOT OF LATENT DEMAND GOING TO ABSORB ADDITIONAL LNG VOLUMES AS ECONOMICS IMPROVE
+- 09/14 17:31 [FirstSquawk] SAUDI CIVIL DEFENCE ALERTS OF POTENTIAL DANGER IN KHAMIS MUSHAIT AND ABHA AREAS - STATE TV
+- 09/14 17:33 [FirstSquawk] INDONESIA APPOINTS NAZARA AS NEW FINANCE MINISTER, TAKING OVER FROM PURBAYA.
+- 09/14 17:35 [FirstSquawk] SAUDI CIVIL DEFENCE: DANGER HAS PASSED - STATE TV
