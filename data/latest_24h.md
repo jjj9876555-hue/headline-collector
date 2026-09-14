@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 20:07 JST／対象: 09/13 20:07 〜 09/14 20:07 JST（時刻はすべて日本時間）
+生成: 2026-09-14 20:26 JST／対象: 09/13 20:26 〜 09/14 20:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 40 | 09/13 20:35 | 09/14 20:05 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 283 | 09/13 20:10 | 09/14 20:05 | ⚠ 90分（01:59→03:29） |
+| FirstSquawk | 283 | 09/13 20:53 | 09/14 20:12 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 127 | 09/13 21:00 | 09/14 20:02 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 20:10 [FirstSquawk] Lithuania closes Vilnius airport and NATO sends fighter jets after possible drone sighting in Lithuanian airspace
-- 09/13 20:10 [FirstSquawk] Israeli artillery shelling targets the vicinity of the town of Beit Jinn, southwest of Damascus countryside.
 - 09/13 20:35 [DeItaone] CANADA EXPLORES “ASSOCIATE MEMBERSHIP” WITH EU Canadian Prime Minister Mark Carney is exploring closer integration with the EU, including a potential new “associate member” status, the Wall Street Journal reports. Canada and the EU are repo…
 - 09/13 20:53 [FirstSquawk] Iraq: Arrest warrant issued for Iraqi suspect Omid Haji Ahmed on charges of financing terrorism and money laundering
 - 09/13 20:53 [FirstSquawk] Iraq: Accused Omid Haji Ahmad is on US sanctions lists for smuggling Iranian oil.
@@ -467,3 +465,5 @@
 - 09/14 20:02 [DeItaone] BIS SEES NO SIGNS OF STRESS IN MARKETS OVERALL, RISK APPETITE HAS REMAINED 'REMARKABLY RESILIENT'
 - 09/14 20:05 [FirstSquawk] GERMANY PLANS TO ADVOCATE FOR A NEW CHINA POLICY WITH THE EU AND MAY PURSUE INCREASED TARIFFS.
 - 09/14 20:05 [DeItaone] *GERMANY TO LOBBY EU ON NEW CHINA POLICY, MAY SEEK MORE TARIFFS
+- 09/14 20:09 [FirstSquawk] US ENERGY SEC WRIGHT: REFINING CAPACITY HELD BACK BY CHINA COULD RETURN
+- 09/14 20:12 [FirstSquawk] CITIGROUP EXPECTS BOE TO HIKE INTEREST RATES BY 25 BPS EACH IN Q4 2026 AND Q1 2027 VS PRIOR FORECAST OF RATES ON HOLD UNTIL Q2 2027
