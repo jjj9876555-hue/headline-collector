@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 22:46 JST／対象: 09/13 22:46 〜 09/14 22:46 JST（時刻はすべて日本時間）
+生成: 2026-09-14 22:59 JST／対象: 09/13 22:59 〜 09/14 22:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 39 | 09/13 22:47 | 09/14 22:11 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 298 | 09/13 22:47 | 09/14 22:45 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 157 | 09/14 00:11 | 09/14 22:39 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 38 | 09/14 01:15 | 09/14 22:11 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 298 | 09/13 23:27 | 09/14 22:59 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 158 | 09/14 00:11 | 09/14 22:56 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 484 行（統合前 495 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,15 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 22:47 [DeItaone] TRUMP PUSHES FED FOR WORLD’S LOWEST INTEREST RATES President Donald Trump says the U.S. should have the lowest interest rate in the world, just days before the Fed’s closely watched policy decision Wednesday. Asked whether he expects a rate…
-- 09/13 22:47 [FirstSquawk] US Trump: I always honor my commitments
-- 09/13 22:47 [FirstSquawk] US Trump on Iran: Iran war will wrap up perhaps before or shortly after midterms
-- 09/13 22:47 [FirstSquawk] US Trump: Iran eager to reach a deal
-- 09/13 22:47 [FirstSquawk] US Trump on Iran: indifferent if gulf states engage with Iran, decision is theirs
-- 09/13 22:47 [FirstSquawk] US Trump on Ukraine: Zelenskiy must halt cutting diesel fuel supply in Russia
-- 09/13 22:48 [FirstSquawk] US Trump on Ukraine: we discussed that with Zelenskiy
-- 09/13 22:48 [FirstSquawk] US Trump on Irish unity: Won't discuss Scotland for now, will address later
-- 09/13 22:48 [FirstSquawk] US Trump on China: not concerned Xi will cancel summit, says China has treated US fairly over recent years
 - 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The security of the Arabian Gulf will not be stable without respecting the sovereignty and independence of its states and refraining from interfering in their affairs.
 - 09/13 23:27 [FirstSquawk] Saudi Foreign Minister: The Kingdom's security is inviolable, and the GCC states will not accept any targeting of their territories.
 - 09/14 00:06 [FirstSquawk] Jerusalem Governorate: 593 settlers stormed Al-Aqsa Mosque during the morning and evening incursions under the protection of the occupation forces.
@@ -508,3 +499,12 @@
 - 09/14 22:39 [FirstSquawk] RUSSIA BANS SULFURIC ACID EXPORTS UNTIL YEAR-END: KOMMERSANT
 - 09/14 22:39 [financialjuice] UK government considering takeover of insolvent steelmaker - FT
 - 09/14 22:45 [FirstSquawk] AI BOOM FALTERS: US TECH STOCKS SLUMP AS BIG TECH CALLS FOR AI SLOWDOWN
+- 09/14 22:49 [FirstSquawk] CARDIFF ONCOLOGY SCORES MAJOR LEGAL WIN, SETTLES DISPUTE WITH NERVIANO MEDICAL SCIENCES $CRDF
+- 09/14 22:54 [FirstSquawk] US VP VANCE: CONCERNED BY HOUTHI SEIZURE OF PARAMO ISLAND AND RED SEA; KEEPING TABS
+- 09/14 22:56 [financialjuice] China's Foreign Minister Wang Yi: China and EU should avoid trade conflict escalation.
+- 09/14 22:57 [FirstSquawk] FOREIGN MINISTERS OF CHINA, FRANCE HOLD PHONE CALL: XINHUA
+- 09/14 22:57 [FirstSquawk] WANG SAYS CHINA, FRANCE SHOULD ENHANCE STRATEGIC COMMUNICATIONS
+- 09/14 22:57 [FirstSquawk] WANG: CHINA, EU SHOULD AVOID CONFRONTATIONS
+- 09/14 22:58 [FirstSquawk] CHINA HOPES FRANCE AVOIDS OFFICIAL COMMUNICATIONS WITH TAIWAN
+- 09/14 22:59 [FirstSquawk] TRUMP: ONLY CONTROL THAT AI NEEDS IS A STRONG PRESIDENT
+- 09/14 22:59 [FirstSquawk] TRUMP: 'SICK CONSPIRACY' GOING ON AGAINST AI AND DATA CENTERS

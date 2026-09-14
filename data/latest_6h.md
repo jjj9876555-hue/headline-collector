@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 22:46 JST／対象: 09/14 16:46 〜 09/14 22:46 JST（時刻はすべて日本時間）
+生成: 2026-09-14 22:59 JST／対象: 09/14 16:59 〜 09/14 22:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/14 17:19 | 09/14 22:11 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 83 | 09/14 16:49 | 09/14 22:45 | 18分（20:12→20:31） |
-| financialjuice | 67 | 09/14 16:53 | 09/14 22:39 | ⚠ 53分（17:16→18:10） |
+| FirstSquawk | 85 | 09/14 17:02 | 09/14 22:59 | 18分（20:12→20:31） |
+| financialjuice | 65 | 09/14 17:02 | 09/14 22:56 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 170 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 171 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 16:49 [FirstSquawk] NEW SHIPPING PATHS IN THE ARCTIC, UNTAPPED MINERAL RESOURCES, AND SECURITY RISKS WILL BE DISCUSSED AT A SUMMIT IN FINLAND.
-- 09/14 16:50 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON CLAIMED ON MONDAY THAT ISRAEL IS THE SOLE BENEFICIARY OF STRIFE BETWEEN IRAN AND PERSIAN GULF NATIONS.
-- 09/14 16:53 [FirstSquawk] ECB'S SIMKUS: DECEMBER IS NATURAL TIME TO ASSESS SITAUTION MORE
-- 09/14 16:53 [FirstSquawk] SIMKUS: ECB MUST ALSO LOOK AT ENERGY PRICES BEFORE OCT. MEETING
-- 09/14 16:53 [financialjuice] ECB's Simkus: December is natural time to assess situation more.
-- 09/14 16:54 [financialjuice] ECB's Simkus: ECB must also look at energy prices before October meeting.
-- 09/14 16:54 [FirstSquawk/financialjuice] ECB'S SIMKUS: CAN'T EXCLUDE ACTION AT ANY MEETING
-- 09/14 16:59 [FirstSquawk] SHELL EXEC: WORLD HAS LOST ABOUT 36M T LNG FROM MIDDLE EAST YEAR TO DATE
 - 09/14 17:02 [FirstSquawk] IRAN DENIES CLAIMS OF ACTIVITY AT PICKAXE MOUNTAIN, STATING THERE IS NO EVIDENCE.
 - 09/14 17:02 [FirstSquawk] HOUTHIS CLAIM TO HAVE ATTACKED SAUDI ARABIA'S KHAMIS MUSHAIT.
 - 09/14 17:02 [FirstSquawk] ECB'S KAZIMIR SAYS THEY WILL CONSIDER ALL OPTIONS FOR THE NEXT DECISION BUT WILL TAKE ACTION IF NECESSARY.
@@ -194,3 +186,12 @@
 - 09/14 22:39 [FirstSquawk] RUSSIA BANS SULFURIC ACID EXPORTS UNTIL YEAR-END: KOMMERSANT
 - 09/14 22:39 [financialjuice] UK government considering takeover of insolvent steelmaker - FT
 - 09/14 22:45 [FirstSquawk] AI BOOM FALTERS: US TECH STOCKS SLUMP AS BIG TECH CALLS FOR AI SLOWDOWN
+- 09/14 22:49 [FirstSquawk] CARDIFF ONCOLOGY SCORES MAJOR LEGAL WIN, SETTLES DISPUTE WITH NERVIANO MEDICAL SCIENCES $CRDF
+- 09/14 22:54 [FirstSquawk] US VP VANCE: CONCERNED BY HOUTHI SEIZURE OF PARAMO ISLAND AND RED SEA; KEEPING TABS
+- 09/14 22:56 [financialjuice] China's Foreign Minister Wang Yi: China and EU should avoid trade conflict escalation.
+- 09/14 22:57 [FirstSquawk] FOREIGN MINISTERS OF CHINA, FRANCE HOLD PHONE CALL: XINHUA
+- 09/14 22:57 [FirstSquawk] WANG SAYS CHINA, FRANCE SHOULD ENHANCE STRATEGIC COMMUNICATIONS
+- 09/14 22:57 [FirstSquawk] WANG: CHINA, EU SHOULD AVOID CONFRONTATIONS
+- 09/14 22:58 [FirstSquawk] CHINA HOPES FRANCE AVOIDS OFFICIAL COMMUNICATIONS WITH TAIWAN
+- 09/14 22:59 [FirstSquawk] TRUMP: ONLY CONTROL THAT AI NEEDS IS A STRONG PRESIDENT
+- 09/14 22:59 [FirstSquawk] TRUMP: 'SICK CONSPIRACY' GOING ON AGAINST AI AND DATA CENTERS
