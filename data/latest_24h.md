@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 03:05 JST／対象: 09/14 03:05 〜 09/15 03:05 JST（時刻はすべて日本時間）
+生成: 2026-09-15 03:28 JST／対象: 09/14 03:28 〜 09/15 03:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 52 | 09/14 04:05 | 09/15 03:00 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 339 | 09/14 03:29 | 09/15 02:58 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 229 | 09/14 03:05 | 09/15 02:54 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 341 | 09/14 03:29 | 09/15 03:23 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 227 | 09/14 03:52 | 09/15 03:17 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 598 行（統合前 624 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 597 行（統合前 624 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 03:05 [financialjuice] Sweden's centre-left bloc projected to secure 46.8% of votes in election: public broadcaster SVT exit poll
-- 09/14 03:05 [financialjuice] Sweden's right-wing ruling bloc tipped to secure 51.3% of vote in election: public broadcaster SVT exit poll
-- 09/14 03:08 [financialjuice] Sweden's centre-left bloc projected to secure 51.3% of votes in election: public broadcaster SVT exit poll
 - 09/14 03:29 [FirstSquawk] A RUSSIAN DRONE STRUCK A TRAIN NEAR THE UKRAINE-POLAND BORDER ON SUNDAY SHORTLY AFTER SENIOR VISITING OFFICIALS — INCLUDING FORMER U.K. PRIME MINISTER BORIS JOHNSON AND FORMER SWEDISH PRIME MINISTER CARL BILDT — PASSED THROUGH, UKRAINE'S ST…
 - 09/14 03:29 [FirstSquawk] UKRZALIZNYTSIA SAID IT IS 'HIGHLY PROBABLE' THE DRONE'S TARGET WAS THE DIPLOMATIC TRAIN, WITH ANOTHER TRAIN CARRYING FORMER CIA DIRECTOR DAVID PETRAEUS STILL AT THE STATION WHEN THE DRONE STRUCK, THOUGH NO CASUALTIES WERE IMMEDIATELY REPORT…
 - 09/14 03:29 [FirstSquawk] BILDT SAID ON X IT 'WASN'T OUR TRAIN, BUT THE ONE JUST MINUTES AFTER US', WHILE JOHNSON CALLED IT 'THE KIND OF RANDOM AND SENSELESS ATTACK UKRAINIANS ARE ENDURING EVERY DAY'.
@@ -622,3 +619,5 @@
 - 09/15 02:47 [DeItaone] TRUMP SAYS AI TAKING OVER WORLD, DESTROYING HUMANITY IS A HOAX
 - 09/15 02:54 [financialjuice/FirstSquawk] House Minority Leader Jeffries: Democrats to prioritize regulating AI if we win house
 - 09/15 03:00 [DeItaone] U.S.-IRAN PHASED DEAL REPORTEDLY IN PLAY Washington may be considering a “phased” agreement with Tehran aimed at ending the U.S.-Iran conflict, according to a Pakistani source cited by ILNA. The source cautioned that Trump’s recent comments…
+- 09/15 03:17 [financialjuice/FirstSquawk] US House Speaker Johnson: Trump will convene with AI executives this week or next.
+- 09/15 03:23 [FirstSquawk] SAUDI ARABIA'S KEY EAST-WEST PIPELINE, HIT BY DRONES, COULD REMAIN MOSTLY OFFLINE FOR THREE TO FIVE WEEKS, TIGHTENING GLOBAL SUPPLY AS HOUTHI FORCES EXPAND ALONG RED SEA SHIPPING ROUTES, WITH THE PIPELINE POSSIBLY OPERATING AT REDUCED CAPAC…

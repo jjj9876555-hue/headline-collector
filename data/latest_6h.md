@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 03:05 JST／対象: 09/14 21:05 〜 09/15 03:05 JST（時刻はすべて日本時間）
+生成: 2026-09-15 03:28 JST／対象: 09/14 21:28 〜 09/15 03:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/14 21:14 | 09/15 03:00 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 95 | 09/14 21:13 | 09/15 02:58 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 121 | 09/14 21:08 | 09/15 02:54 | 23分（00:46→01:09） |
+| DeItaone | 27 | 09/14 21:31 | 09/15 03:00 | ⚠ 110分（00:34→02:25） |
+| FirstSquawk | 91 | 09/14 21:32 | 09/15 03:23 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 113 | 09/14 21:30 | 09/15 03:17 | 23分（02:54→03:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 230 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 215 行（統合前 235 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 21:08 [financialjuice] Morning Juice – US Session Prep (14th September)
-- 09/14 21:11 [financialjuice/FirstSquawk] Oil production in Kazakhstan fell by 8.4% in January-August, with 61.7 million tonnes produced - IFX
-- 09/14 21:14 [DeItaone] FED HIKE BECOMES THE BASE CASE Goldman Sachs and JPMorgan now expect a 25bp Fed hike this week after hotter inflation and surging oil. Kalshi puts the odds of a 25bp hike at 80%, while broader markets price around 87%. JPMorgan expects anot…
-- 09/14 21:18 [DeItaone] BIS WARNS AI-DRIVEN MARKET MOMENTUM IS BECOMING VULNERABLE The Bank for International Settlements says the AI-driven equity rally is showing growing vulnerability as investors question future profitability and leverage rises across major te…
-- 09/14 21:19 [FirstSquawk] US ENERGY SEC EXPECTS EAST-WEST PIPELINE TO BE RUNNING SOON
-- 09/14 21:19 [financialjuice] US Energy Secretary Wright: The running ovewrage of oil coming out is 10 mln bpd.
-- 09/14 21:20 [financialjuice] US Energy Secretary Wright: We expect East-West pipeline to be running soon.
-- 09/14 21:20 [financialjuice] US Energy Secretary Wright Speaks - WATCH LIVE
-- 09/14 21:20 [financialjuice] US Energy Secretary Wright: Over 12m/b day went through hormuz last night.
-- 09/14 21:21 [FirstSquawk] AON KICKS OFF SEVEN-PART US DOLLAR BOND SALE FOR USI TAKEOVER
-- 09/14 21:21 [FirstSquawk] RUNNING AVERAGE FLOWING THROUGH STRAIT IS 10 M/B A DAY: WRIGHT
-- 09/14 21:22 [FirstSquawk] US WANTS MORE REFINED PRODUCTS FROM THE MIDDLE EAST: WRIGHT
-- 09/14 21:22 [financialjuice] US Energy Secretary Wright: US wants more refined products from the Middle East.
-- 09/14 21:23 [DeItaone] AI BOOM FUELS $110BN U.S. POWER BUILDOUT America’s data center boom will require $110 billion to add 45GW of power capacity through 2030, according to Moody’s. More than 30GW is expected to come from natural gas, requiring an extra 4 billio…
-- 09/14 21:24 [financialjuice] US Energy Secretary Wright: I am confident flows will increase in Hormuz in weeks ahead.
-- 09/14 21:24 [FirstSquawk] WRIGHT CONFIDENT FLOWS WILL INCREASE IN HORMUZ IN WEEKS AHEAD
-- 09/14 21:25 [financialjuice] US Energy Secretary Wright: The US will start refiling SPR in the next few months
 - 09/14 21:30 [financialjuice] CANADIAN MANUFACTURING SALES MOM ACTUAL -0.4% (FORECAST -0.2%, PREVIOUS 0.1%) $MACRO
 - 09/14 21:30 [financialjuice] CANADIAN CPI MEDIAN ACTUAL 2% (FORECAST 2%, PREVIOUS 2.0%) $MACRO
 - 09/14 21:30 [financialjuice] CANADIAN CPI TRIM ACTUAL 1.9% (FORECAST 1.9%, PREVIOUS 1.9%) $MACRO
@@ -254,3 +237,5 @@
 - 09/15 02:47 [DeItaone] TRUMP SAYS AI TAKING OVER WORLD, DESTROYING HUMANITY IS A HOAX
 - 09/15 02:54 [financialjuice/FirstSquawk] House Minority Leader Jeffries: Democrats to prioritize regulating AI if we win house
 - 09/15 03:00 [DeItaone] U.S.-IRAN PHASED DEAL REPORTEDLY IN PLAY Washington may be considering a “phased” agreement with Tehran aimed at ending the U.S.-Iran conflict, according to a Pakistani source cited by ILNA. The source cautioned that Trump’s recent comments…
+- 09/15 03:17 [financialjuice/FirstSquawk] US House Speaker Johnson: Trump will convene with AI executives this week or next.
+- 09/15 03:23 [FirstSquawk] SAUDI ARABIA'S KEY EAST-WEST PIPELINE, HIT BY DRONES, COULD REMAIN MOSTLY OFFLINE FOR THREE TO FIVE WEEKS, TIGHTENING GLOBAL SUPPLY AS HOUTHI FORCES EXPAND ALONG RED SEA SHIPPING ROUTES, WITH THE PIPELINE POSSIBLY OPERATING AT REDUCED CAPAC…

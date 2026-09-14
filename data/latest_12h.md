@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 03:05 JST／対象: 09/14 15:05 〜 09/15 03:05 JST（時刻はすべて日本時間）
+生成: 2026-09-15 03:28 JST／対象: 09/14 15:28 〜 09/15 03:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 48 | 09/14 16:28 | 09/15 03:00 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 165 | 09/14 15:06 | 09/15 02:58 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 154 | 09/14 15:30 | 09/15 02:54 | ⚠ 53分（17:16→18:10） |
+| FirstSquawk | 160 | 09/14 15:36 | 09/15 03:23 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 155 | 09/14 15:30 | 09/15 03:17 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 347 行（統合前 371 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 342 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 15:06 [FirstSquawk] Bangladesh is seeking alternative LNG suppliers and considering U.S. LNG despite high shipping costs, as the country works to secure replacement gas supplies.
-- 09/14 15:06 [FirstSquawk] AstraZeneca’s breast-cancer drug fails to meet its goal in a late-stage trial, dealing a setback to the company’s oncology pipeline.
-- 09/14 15:10 [FirstSquawk] Shanghai is encouraging eligible financial institutions to develop enterprise AI platforms, signaling a push to accelerate AI adoption across the city’s financial sector.
-- 09/14 15:21 [FirstSquawk] CHINA’S TOP SPY CHIEF WARNS AI COULD THREATEN POLITICAL STABILITY & CRITICAL INFRASTRUCTURE
-- 09/14 15:23 [FirstSquawk] Malaysia’s **PETRONAS signs an LNG supply agreement with METLEN**, aiming to strengthen energy security and diversify gas supplies across Southeast Europe.
-- 09/14 15:27 [FirstSquawk] EUR/USD falls 0.33% to 1.1549, hitting a near one-month low as the euro comes under renewed pressure against the dollar.
-- 09/14 15:27 [FirstSquawk] OpenAI is reportedly in talks to conduct AI model training in Australia, according to Nikkei, potentially expanding the company’s training operations beyond its existing locations.
 - 09/14 15:30 [financialjuice] SWISS PPI YOY ACTUAL -0.7% (FORECAST -, PREVIOUS -2.1%) $MACRO
 - 09/14 15:30 [financialjuice] SWISS PPI MOM ACTUAL 0.7% (FORECAST -, PREVIOUS -0.1%) $MACRO
 - 09/14 15:36 [FirstSquawk] British pound slips toward 1.3500 against the U.S. dollar as expectations for a Fed rate hike strengthen, adding pressure to sterling.
@@ -371,3 +364,5 @@
 - 09/15 02:47 [DeItaone] TRUMP SAYS AI TAKING OVER WORLD, DESTROYING HUMANITY IS A HOAX
 - 09/15 02:54 [financialjuice/FirstSquawk] House Minority Leader Jeffries: Democrats to prioritize regulating AI if we win house
 - 09/15 03:00 [DeItaone] U.S.-IRAN PHASED DEAL REPORTEDLY IN PLAY Washington may be considering a “phased” agreement with Tehran aimed at ending the U.S.-Iran conflict, according to a Pakistani source cited by ILNA. The source cautioned that Trump’s recent comments…
+- 09/15 03:17 [financialjuice/FirstSquawk] US House Speaker Johnson: Trump will convene with AI executives this week or next.
+- 09/15 03:23 [FirstSquawk] SAUDI ARABIA'S KEY EAST-WEST PIPELINE, HIT BY DRONES, COULD REMAIN MOSTLY OFFLINE FOR THREE TO FIVE WEEKS, TIGHTENING GLOBAL SUPPLY AS HOUTHI FORCES EXPAND ALONG RED SEA SHIPPING ROUTES, WITH THE PIPELINE POSSIBLY OPERATING AT REDUCED CAPAC…
