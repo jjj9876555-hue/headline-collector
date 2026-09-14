@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 04:50 JST／対象: 09/14 22:50 〜 09/15 04:50 JST（時刻はすべて日本時間）
+生成: 2026-09-15 05:01 JST／対象: 09/14 23:01 〜 09/15 05:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/14 23:00 | 09/15 04:32 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 88 | 09/14 22:54 | 09/15 04:45 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 106 | 09/14 22:56 | 09/15 04:41 | 23分（02:54→03:17） |
+| DeItaone | 19 | 09/14 23:19 | 09/15 04:32 | ⚠ 110分（00:34→02:25） |
+| FirstSquawk | 79 | 09/14 23:01 | 09/15 04:45 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 104 | 09/14 23:03 | 09/15 04:58 | 23分（02:54→03:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 201 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 188 行（統合前 205 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 22:54 [FirstSquawk] US VP VANCE: CONCERNED BY HOUTHI SEIZURE OF PARAMO ISLAND AND RED SEA; KEEPING TABS
-- 09/14 22:56 [financialjuice] China's Foreign Minister Wang Yi: China and EU should avoid trade conflict escalation.
-- 09/14 22:57 [FirstSquawk] FOREIGN MINISTERS OF CHINA, FRANCE HOLD PHONE CALL: XINHUA
-- 09/14 22:57 [FirstSquawk] WANG SAYS CHINA, FRANCE SHOULD ENHANCE STRATEGIC COMMUNICATIONS
-- 09/14 22:57 [FirstSquawk] WANG: CHINA, EU SHOULD AVOID CONFRONTATIONS
-- 09/14 22:58 [FirstSquawk] CHINA HOPES FRANCE AVOIDS OFFICIAL COMMUNICATIONS WITH TAIWAN
-- 09/14 22:59 [FirstSquawk/DeItaone] TRUMP: ONLY CONTROL THAT AI NEEDS IS A STRONG PRESIDENT
-- 09/14 22:59 [FirstSquawk] TRUMP: 'SICK CONSPIRACY' GOING ON AGAINST AI AND DATA CENTERS
-- 09/14 22:59 [FirstSquawk] TRUMP: ADMIN HAS STOPPED AI PEOPLE FROM DOING BAD THINGS
-- 09/14 22:59 [financialjuice] Trump: AI does not need additional guardrails. Strong presidential oversight is sufficient - Truth Social
-- 09/14 23:00 [FirstSquawk] TRUMP ON TRUTH SOCIAL: The only control or “guardrails” that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades! The Trump Administration has stopped AI “people” from doing bad, or potentially bad, “thin…
-- 09/14 23:00 [DeItaone] TRUMP REJECTS AI GUARDRAILS President Trump says AI does not need additional industry “guardrails,” arguing that his administration already has sufficient criminal and regulatory authority over AI companies. Trump also criticized Anthropic …
-- 09/14 23:00 [financialjuice] Trump: Administration has stopped AI figures and companies from doing “bad, or potentially bad” things, (specifically naming Anthropic CEO Dario Amodei)
-- 09/14 23:01 [financialjuice] Trump: There is a conspiracy against AI and data centers that benefits China.
-- 09/14 23:01 [DeItaone] TRUMP: THERE IS A SICK CONSPIRACY GOING ON AGAINST AI AND DATA CENTERS
 - 09/14 23:01 [FirstSquawk] GERMANY SET TO BUY €3.4 BILLION WORTH OF US TOMAHAWK MISSILES AND LOCKHEED MARTIN TYPHON SYSTEMS $LMT
 - 09/14 23:03 [financialjuice] Google: Exploring a potential data center in Lea County, New Mexico. $GOOGL
 - 09/14 23:05 [FirstSquawk] CARNEY: FOREIGN CAPITAL UNDERALLOCATED TO CANADA
@@ -225,3 +210,5 @@
 - 09/15 04:26 [financialjuice] Tuesday FX Option Expiries
 - 09/15 04:32 [DeItaone] TRUMP, ALTMAN SPLIT OVER AI SAFETY President Trump privately met OpenAI CEO Sam Altman last week to discuss AI and its growing power, according to MS NOW. Days later, their positions diverged sharply. Altman backed slowing frontier AI devel…
 - 09/15 04:41 [financialjuice/FirstSquawk] Houthis Spokesman: Yemeni Armed Forces successfully intercepted two Saudi Arabian fighter jets - IRIB.
+- 09/15 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -166.6 MLN NASDAQ 100: 120.0 MLN DOW 30: -96.0 MLN MAG 7: 365.0 MLN $MACRO
+- 09/15 04:58 [financialjuice] OpenAI's top lobbyist is meeting with lawmakers today - Politico.

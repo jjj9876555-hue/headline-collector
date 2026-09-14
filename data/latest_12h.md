@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 04:50 JST／対象: 09/14 16:50 〜 09/15 04:50 JST（時刻はすべて日本時間）
+生成: 2026-09-15 05:01 JST／対象: 09/14 17:01 〜 09/15 05:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 50 | 09/14 17:19 | 09/15 04:32 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 170 | 09/14 16:53 | 09/15 04:45 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 173 | 09/14 16:53 | 09/15 04:41 | ⚠ 53分（17:16→18:10） |
+| FirstSquawk | 166 | 09/14 17:02 | 09/15 04:45 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 172 | 09/14 17:02 | 09/15 04:58 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 370 行（統合前 397 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 366 行（統合前 392 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 16:53 [FirstSquawk] ECB'S SIMKUS: DECEMBER IS NATURAL TIME TO ASSESS SITAUTION MORE
-- 09/14 16:53 [FirstSquawk] SIMKUS: ECB MUST ALSO LOOK AT ENERGY PRICES BEFORE OCT. MEETING
-- 09/14 16:53 [financialjuice] ECB's Simkus: December is natural time to assess situation more.
-- 09/14 16:54 [financialjuice] ECB's Simkus: ECB must also look at energy prices before October meeting.
-- 09/14 16:54 [FirstSquawk/financialjuice] ECB'S SIMKUS: CAN'T EXCLUDE ACTION AT ANY MEETING
-- 09/14 16:59 [FirstSquawk] SHELL EXEC: WORLD HAS LOST ABOUT 36M T LNG FROM MIDDLE EAST YEAR TO DATE
 - 09/14 17:02 [FirstSquawk] IRAN DENIES CLAIMS OF ACTIVITY AT PICKAXE MOUNTAIN, STATING THERE IS NO EVIDENCE.
 - 09/14 17:02 [FirstSquawk] HOUTHIS CLAIM TO HAVE ATTACKED SAUDI ARABIA'S KHAMIS MUSHAIT.
 - 09/14 17:02 [FirstSquawk] ECB'S KAZIMIR SAYS THEY WILL CONSIDER ALL OPTIONS FOR THE NEXT DECISION BUT WILL TAKE ACTION IF NECESSARY.
@@ -394,3 +388,5 @@
 - 09/15 04:26 [financialjuice] Tuesday FX Option Expiries
 - 09/15 04:32 [DeItaone] TRUMP, ALTMAN SPLIT OVER AI SAFETY President Trump privately met OpenAI CEO Sam Altman last week to discuss AI and its growing power, according to MS NOW. Days later, their positions diverged sharply. Altman backed slowing frontier AI devel…
 - 09/15 04:41 [financialjuice/FirstSquawk] Houthis Spokesman: Yemeni Armed Forces successfully intercepted two Saudi Arabian fighter jets - IRIB.
+- 09/15 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -166.6 MLN NASDAQ 100: 120.0 MLN DOW 30: -96.0 MLN MAG 7: 365.0 MLN $MACRO
+- 09/15 04:58 [financialjuice] OpenAI's top lobbyist is meeting with lawmakers today - Politico.

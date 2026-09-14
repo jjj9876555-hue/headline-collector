@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 04:50 JST／対象: 09/14 04:50 〜 09/15 04:50 JST（時刻はすべて日本時間）
+生成: 2026-09-15 05:01 JST／対象: 09/14 05:01 〜 09/15 05:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 52 | 09/14 08:03 | 09/15 04:32 | ⚠ 505分（08:03→16:28） |
 | FirstSquawk | 335 | 09/14 05:07 | 09/15 04:45 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 241 | 09/14 05:39 | 09/15 04:41 | ⚠ 75分（12:52→14:07） |
+| financialjuice | 243 | 09/14 05:39 | 09/15 04:58 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 604 行（統合前 632 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 606 行（統合前 634 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -628,3 +628,5 @@
 - 09/15 04:26 [financialjuice] Tuesday FX Option Expiries
 - 09/15 04:32 [DeItaone] TRUMP, ALTMAN SPLIT OVER AI SAFETY President Trump privately met OpenAI CEO Sam Altman last week to discuss AI and its growing power, according to MS NOW. Days later, their positions diverged sharply. Altman backed slowing frontier AI devel…
 - 09/15 04:41 [financialjuice/FirstSquawk] Houthis Spokesman: Yemeni Armed Forces successfully intercepted two Saudi Arabian fighter jets - IRIB.
+- 09/15 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -166.6 MLN NASDAQ 100: 120.0 MLN DOW 30: -96.0 MLN MAG 7: 365.0 MLN $MACRO
+- 09/15 04:58 [financialjuice] OpenAI's top lobbyist is meeting with lawmakers today - Politico.
