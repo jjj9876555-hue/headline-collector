@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 20:59 JST／対象: 09/13 20:59 〜 09/14 20:59 JST（時刻はすべて日本時間）
+生成: 2026-09-14 21:25 JST／対象: 09/13 21:25 〜 09/14 21:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 09/13 21:10 | 09/14 20:51 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 284 | 09/13 21:25 | 09/14 20:58 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 131 | 09/13 21:00 | 09/14 20:48 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 41 | 09/13 21:44 | 09/14 21:23 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 291 | 09/13 21:25 | 09/14 21:24 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 138 | 09/13 21:37 | 09/14 21:24 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 448 行（統合前 455 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 462 行（統合前 470 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 21:00 [financialjuice] Saudi pipeline outage threatens 4% loss in global oil supply unless pumping resumes within days, say traders, sources
-- 09/13 21:00 [financialjuice] Saudi Arabia has storage at Yanbu for only 5-7 days of exports, plus smaller amount stored in Egypt, three sources say
-- 09/13 21:10 [DeItaone] SAUDI PIPELINE OUTAGE THREATENS LOSS OF 4% OF GLOBAL OIL SUPPLY UNLESS PUMPING RESUMES WITHIN DAYS, SAY TRADERS, SOURCES SAUDI ARABIA HAS STORAGE AT YANBU FOR JUST 5-7 DAYS OF EXPORTS, PLUS SMALLER AMOUNT STORED IN EGYPT, THREE SOURCES SAY
-- 09/13 21:10 [DeItaone] SAUDI PIPELINE OUTAGE THREATENS 4% OF GLOBAL OIL SUPPLY Saudi Arabia could lose up to 4 million barrels per day of exports — roughly 4% of global supply — if its critical East-West pipeline does not restart within days, Reuters reports. Sau…
 - 09/13 21:25 [FirstSquawk] Syrian diplomatic source: Ministers Fidan and Al-Shaibani are discussing in Damascus the latest developments regarding the dissolution of the SDF and its integration into state institutions.
 - 09/13 21:25 [FirstSquawk] Syrian diplomatic source: Syrian-Turkish talks are addressing the situation in southern Syria and Israel's repeated violations.
 - 09/13 21:26 [FirstSquawk] SPA: The Saudi Crown Prince and the Pakistani Prime Minister discuss by phone the latest developments and efforts to de-escalate tensions in the region
@@ -472,3 +468,21 @@
 - 09/14 20:48 [financialjuice] US Senate Minority Leader Schumer demands AI briefing from the Trump administration to the Senate
 - 09/14 20:51 [DeItaone] QATAR OFFERS OIL FROM INSIDE STRAIT OF HORMUZ QatarEnergy has launched a tender to sell crude for October and November loading from Qatari ports located inside the Strait of Hormuz. The offer includes Al-Shaheen, Qatar Marine and Qatar Land…
 - 09/14 20:58 [FirstSquawk] 89% OF AMERICANS SAY GOVERNMENT CORRUPTION IS REAL — PUBLIC TRUST HITS A BREAKING POINT A striking 89% of Americans believe corruption is present in the U.S. government, highlighting a deep and widespread crisis of public trust. The figure …
+- 09/14 21:00 [financialjuice] Secured overnight financing rate: 3.62% September 11th vs 3.62% September 10th
+- 09/14 21:02 [FirstSquawk] NATO'S RUTTE: NATO HAS ALL THE OPTIONS IT NEEDS TO RESPOND TO RUSSIAN HYBRID ATTACKS, RESPONSE WILL NOT ALWAYS BE VISIBLE
+- 09/14 21:08 [financialjuice] Morning Juice – US Session Prep (14th September)
+- 09/14 21:11 [financialjuice/FirstSquawk] Oil production in Kazakhstan fell by 8.4% in January-August, with 61.7 million tonnes produced - IFX
+- 09/14 21:14 [DeItaone] FED HIKE BECOMES THE BASE CASE Goldman Sachs and JPMorgan now expect a 25bp Fed hike this week after hotter inflation and surging oil. Kalshi puts the odds of a 25bp hike at 80%, while broader markets price around 87%. JPMorgan expects anot…
+- 09/14 21:18 [DeItaone] BIS WARNS AI-DRIVEN MARKET MOMENTUM IS BECOMING VULNERABLE The Bank for International Settlements says the AI-driven equity rally is showing growing vulnerability as investors question future profitability and leverage rises across major te…
+- 09/14 21:19 [FirstSquawk] US ENERGY SEC EXPECTS EAST-WEST PIPELINE TO BE RUNNING SOON
+- 09/14 21:19 [financialjuice] US Energy Secretary Wright: The running ovewrage of oil coming out is 10 mln bpd.
+- 09/14 21:20 [financialjuice] US Energy Secretary Wright: We expect East-West pipeline to be running soon.
+- 09/14 21:20 [financialjuice] US Energy Secretary Wright Speaks - WATCH LIVE
+- 09/14 21:20 [financialjuice] US Energy Secretary Wright: Over 12m/b day went through hormuz last night.
+- 09/14 21:21 [FirstSquawk] AON KICKS OFF SEVEN-PART US DOLLAR BOND SALE FOR USI TAKEOVER
+- 09/14 21:21 [FirstSquawk] RUNNING AVERAGE FLOWING THROUGH STRAIT IS 10 M/B A DAY: WRIGHT
+- 09/14 21:22 [FirstSquawk] US WANTS MORE REFINED PRODUCTS FROM THE MIDDLE EAST: WRIGHT
+- 09/14 21:22 [financialjuice] US Energy Secretary Wright: US wants more refined products from the Middle East.
+- 09/14 21:23 [DeItaone] AI BOOM FUELS $110BN U.S. POWER BUILDOUT America’s data center boom will require $110 billion to add 45GW of power capacity through 2030, according to Moody’s. More than 30GW is expected to come from natural gas, requiring an extra 4 billio…
+- 09/14 21:24 [financialjuice] US Energy Secretary Wright: I am confident flows will increase in Hormuz in weeks ahead.
+- 09/14 21:24 [FirstSquawk] WRIGHT CONFIDENT FLOWS WILL INCREASE IN HORMUZ IN WEEKS AHEAD

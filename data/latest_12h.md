@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 20:59 JST／対象: 09/14 08:59 〜 09/14 20:59 JST（時刻はすべて日本時間）
+生成: 2026-09-14 21:25 JST／対象: 09/14 09:25 〜 09/14 21:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 09/14 16:28 | 09/14 20:51 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 186 | 09/14 09:10 | 09/14 20:58 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 69 | 09/14 09:00 | 09/14 20:48 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 21 | 09/14 16:28 | 09/14 21:23 | ⚠ 53分（18:30→19:24） |
+| FirstSquawk | 184 | 09/14 09:26 | 09/14 21:24 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 76 | 09/14 09:34 | 09/14 21:24 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 269 行（統合前 273 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 276 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 09:00 [financialjuice] Kennedy Center may shut as soon as Tuesday, warns of bankruptcy, documents show - Washington Post
-- 09/14 09:10 [FirstSquawk] Musk says he’s highly confident SpaceX will put Nvidia AI computers into orbit in 2027, potentially opening a new frontier for space-based computing.
-- 09/14 09:11 [FirstSquawk] BAKER HUGHES WINS A MAJOR CONTRACT FROM VENTURE GLOBAL LNG TO SUPPLY 13 GAS COMPRESSION SYSTEMS FOR THE CLOUD CONNECT PIPELINE IN LOUISIANA. || COMPANY WILL ALSO DELIVER FOUR LIQUEFACTION BLOCKS WITH EIGHT MODULES FOR VENTURE GLOBAL'S PLAQU…
-- 09/14 09:11 [FirstSquawk] Asia-Pacific markets start mostly lower as surging oil prices and Middle East supply risks pressure sentiment, while traders weigh potential Fed and BOJ rate hikes this week.
-- 09/14 09:11 [FirstSquawk] China’s defence forum opens against a backdrop of rising regional tensions, putting Beijing’s security priorities and military diplomacy under closer scrutiny.
-- 09/14 09:15 [FirstSquawk] Oil jumps more than 3% as fresh Middle East developments deepen supply concerns and a planned Strait of Hormuz meeting is delayed, adding to market uncertainty.
-- 09/14 09:15 [FirstSquawk] HONG KONG CHIEF EXECUTIVE JOHN LEE SAYS THE CITY’S FIRST FIVE-YEAR PLAN WILL PRESERVE ITS CAPITALIST SYSTEM, RULE OF LAW AND “ONE COUNTRY, TWO SYSTEMS” FRAMEWORK, WHILE KEEPING THE FREE FLOW OF CAPITAL, PEOPLE, GOODS AND INFORMATION. LEE SA…
-- 09/14 09:20 [FirstSquawk] Two U.S. Air Force officers were forced to eject over Iran in April after their F-15E was shot down, landing separately near Isfahan as Iranian forces searched the area.
-- 09/14 09:23 [financialjuice] China PBOC likely to fix yuan midpoint at 6.7083 per dollar: estimate
-- 09/14 09:24 [FirstSquawk] Higher oil prices are strengthening the case for rate hikes, as renewed energy-cost pressures raise concerns over inflation and could complicate central banks’ policy decisions.
-- 09/14 09:24 [FirstSquawk] Middle East tensions are tightening global oil supplies, with Houthi activity in Yemen adding pressure to another key energy corridor and increasing risks for regional energy flows.
 - 09/14 09:26 [FirstSquawk] Nikkei slides 1.6% as chipmakers and metals stocks come under pressure, weighing on Japan’s broader equity market.
 - 09/14 09:29 [FirstSquawk] Trump signals the U.S. could remain in Iran and take control of its oil, raising the stakes for Washington’s role in the country and adding another layer of uncertainty to global energy markets - cablefxmacro
 - 09/14 09:32 [FirstSquawk] The Kennedy Center is reportedly on the verge of bankruptcy, with the Washington Post reporting that the Washington arts institution could face closure as soon as Tuesday.
@@ -293,3 +282,21 @@
 - 09/14 20:48 [financialjuice] US Senate Minority Leader Schumer demands AI briefing from the Trump administration to the Senate
 - 09/14 20:51 [DeItaone] QATAR OFFERS OIL FROM INSIDE STRAIT OF HORMUZ QatarEnergy has launched a tender to sell crude for October and November loading from Qatari ports located inside the Strait of Hormuz. The offer includes Al-Shaheen, Qatar Marine and Qatar Land…
 - 09/14 20:58 [FirstSquawk] 89% OF AMERICANS SAY GOVERNMENT CORRUPTION IS REAL — PUBLIC TRUST HITS A BREAKING POINT A striking 89% of Americans believe corruption is present in the U.S. government, highlighting a deep and widespread crisis of public trust. The figure …
+- 09/14 21:00 [financialjuice] Secured overnight financing rate: 3.62% September 11th vs 3.62% September 10th
+- 09/14 21:02 [FirstSquawk] NATO'S RUTTE: NATO HAS ALL THE OPTIONS IT NEEDS TO RESPOND TO RUSSIAN HYBRID ATTACKS, RESPONSE WILL NOT ALWAYS BE VISIBLE
+- 09/14 21:08 [financialjuice] Morning Juice – US Session Prep (14th September)
+- 09/14 21:11 [financialjuice/FirstSquawk] Oil production in Kazakhstan fell by 8.4% in January-August, with 61.7 million tonnes produced - IFX
+- 09/14 21:14 [DeItaone] FED HIKE BECOMES THE BASE CASE Goldman Sachs and JPMorgan now expect a 25bp Fed hike this week after hotter inflation and surging oil. Kalshi puts the odds of a 25bp hike at 80%, while broader markets price around 87%. JPMorgan expects anot…
+- 09/14 21:18 [DeItaone] BIS WARNS AI-DRIVEN MARKET MOMENTUM IS BECOMING VULNERABLE The Bank for International Settlements says the AI-driven equity rally is showing growing vulnerability as investors question future profitability and leverage rises across major te…
+- 09/14 21:19 [FirstSquawk] US ENERGY SEC EXPECTS EAST-WEST PIPELINE TO BE RUNNING SOON
+- 09/14 21:19 [financialjuice] US Energy Secretary Wright: The running ovewrage of oil coming out is 10 mln bpd.
+- 09/14 21:20 [financialjuice] US Energy Secretary Wright: We expect East-West pipeline to be running soon.
+- 09/14 21:20 [financialjuice] US Energy Secretary Wright Speaks - WATCH LIVE
+- 09/14 21:20 [financialjuice] US Energy Secretary Wright: Over 12m/b day went through hormuz last night.
+- 09/14 21:21 [FirstSquawk] AON KICKS OFF SEVEN-PART US DOLLAR BOND SALE FOR USI TAKEOVER
+- 09/14 21:21 [FirstSquawk] RUNNING AVERAGE FLOWING THROUGH STRAIT IS 10 M/B A DAY: WRIGHT
+- 09/14 21:22 [FirstSquawk] US WANTS MORE REFINED PRODUCTS FROM THE MIDDLE EAST: WRIGHT
+- 09/14 21:22 [financialjuice] US Energy Secretary Wright: US wants more refined products from the Middle East.
+- 09/14 21:23 [DeItaone] AI BOOM FUELS $110BN U.S. POWER BUILDOUT America’s data center boom will require $110 billion to add 45GW of power capacity through 2030, according to Moody’s. More than 30GW is expected to come from natural gas, requiring an extra 4 billio…
+- 09/14 21:24 [financialjuice] US Energy Secretary Wright: I am confident flows will increase in Hormuz in weeks ahead.
+- 09/14 21:24 [FirstSquawk] WRIGHT CONFIDENT FLOWS WILL INCREASE IN HORMUZ IN WEEKS AHEAD

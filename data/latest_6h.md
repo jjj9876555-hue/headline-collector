@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 20:59 JST／対象: 09/14 14:59 〜 09/14 20:59 JST（時刻はすべて日本時間）
+生成: 2026-09-14 21:25 JST／対象: 09/14 15:25 〜 09/14 21:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 09/14 16:28 | 09/14 20:51 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 79 | 09/14 15:00 | 09/14 20:58 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 34 | 09/14 15:00 | 09/14 20:48 | ⚠ 53分（17:16→18:10） |
+| DeItaone | 21 | 09/14 16:28 | 09/14 21:23 | ⚠ 53分（18:30→19:24） |
+| FirstSquawk | 71 | 09/14 15:27 | 09/14 21:24 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 41 | 09/14 15:30 | 09/14 21:24 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 127 行（統合前 131 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 128 行（統合前 133 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 15:00 [financialjuice] SWEDISH CPI MOM ACTUAL -0.3% (FORECAST -0.3%, PREVIOUS -0.3%) $MACRO
-- 09/14 15:00 [FirstSquawk] U.S. stock futures fall sharply, with S&P 500 E-mini futures down 0.5%, Nasdaq-100 futures off 1.3% and Dow futures lower 0.1%.
-- 09/14 15:00 [financialjuice] SWEDISH CPI YOY ACTUAL 0.3% (FORECAST 0.3%, PREVIOUS 0.3%) $MACRO
-- 09/14 15:01 [FirstSquawk] China’s top intelligence official warns that rapid AI advances could threaten political stability and critical infrastructure, saying adversaries’ misuse of the technology could pose direct risks to China’s political, institutional and ideo…
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI MOM ACTUAL: -0.3% VS -0.3% PREVIOUS;EST -0.3%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI YOY ACTUAL: 0.3% VS 0.3% PREVIOUS;EST 0.3%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF MOM ACTUAL: -0.2% VS -0.3% PREVIOUS;EST -0.3%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF YOY ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY MOM ACTUAL: -0.5% VS -0.6% PREVIOUS;EST -0.6%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY YOY ACTUAL: 0.5% VS 0.5% PREVIOUS;EST 0.5%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI LEVEL ACTUAL: 124.85 VS 125.17 PREVIOUS;EST 124.82
-- 09/14 15:04 [FirstSquawk] European stock futures are mixed, with STOXX Europe 50 down 0.41%, DAX futures lower 0.35%, while FTSE 100 futures rise 0.18%.
-- 09/14 15:06 [FirstSquawk] Bangladesh is seeking alternative LNG suppliers and considering U.S. LNG despite high shipping costs, as the country works to secure replacement gas supplies.
-- 09/14 15:06 [FirstSquawk] AstraZeneca’s breast-cancer drug fails to meet its goal in a late-stage trial, dealing a setback to the company’s oncology pipeline.
-- 09/14 15:10 [FirstSquawk] Shanghai is encouraging eligible financial institutions to develop enterprise AI platforms, signaling a push to accelerate AI adoption across the city’s financial sector.
-- 09/14 15:21 [FirstSquawk] CHINA’S TOP SPY CHIEF WARNS AI COULD THREATEN POLITICAL STABILITY & CRITICAL INFRASTRUCTURE
-- 09/14 15:23 [FirstSquawk] Malaysia’s **PETRONAS signs an LNG supply agreement with METLEN**, aiming to strengthen energy security and diversify gas supplies across Southeast Europe.
 - 09/14 15:27 [FirstSquawk] EUR/USD falls 0.33% to 1.1549, hitting a near one-month low as the euro comes under renewed pressure against the dollar.
 - 09/14 15:27 [FirstSquawk] OpenAI is reportedly in talks to conduct AI model training in Australia, according to Nikkei, potentially expanding the company’s training operations beyond its existing locations.
 - 09/14 15:30 [financialjuice] SWISS PPI YOY ACTUAL -0.7% (FORECAST -, PREVIOUS -2.1%) $MACRO
@@ -151,3 +134,21 @@
 - 09/14 20:48 [financialjuice] US Senate Minority Leader Schumer demands AI briefing from the Trump administration to the Senate
 - 09/14 20:51 [DeItaone] QATAR OFFERS OIL FROM INSIDE STRAIT OF HORMUZ QatarEnergy has launched a tender to sell crude for October and November loading from Qatari ports located inside the Strait of Hormuz. The offer includes Al-Shaheen, Qatar Marine and Qatar Land…
 - 09/14 20:58 [FirstSquawk] 89% OF AMERICANS SAY GOVERNMENT CORRUPTION IS REAL — PUBLIC TRUST HITS A BREAKING POINT A striking 89% of Americans believe corruption is present in the U.S. government, highlighting a deep and widespread crisis of public trust. The figure …
+- 09/14 21:00 [financialjuice] Secured overnight financing rate: 3.62% September 11th vs 3.62% September 10th
+- 09/14 21:02 [FirstSquawk] NATO'S RUTTE: NATO HAS ALL THE OPTIONS IT NEEDS TO RESPOND TO RUSSIAN HYBRID ATTACKS, RESPONSE WILL NOT ALWAYS BE VISIBLE
+- 09/14 21:08 [financialjuice] Morning Juice – US Session Prep (14th September)
+- 09/14 21:11 [financialjuice/FirstSquawk] Oil production in Kazakhstan fell by 8.4% in January-August, with 61.7 million tonnes produced - IFX
+- 09/14 21:14 [DeItaone] FED HIKE BECOMES THE BASE CASE Goldman Sachs and JPMorgan now expect a 25bp Fed hike this week after hotter inflation and surging oil. Kalshi puts the odds of a 25bp hike at 80%, while broader markets price around 87%. JPMorgan expects anot…
+- 09/14 21:18 [DeItaone] BIS WARNS AI-DRIVEN MARKET MOMENTUM IS BECOMING VULNERABLE The Bank for International Settlements says the AI-driven equity rally is showing growing vulnerability as investors question future profitability and leverage rises across major te…
+- 09/14 21:19 [FirstSquawk] US ENERGY SEC EXPECTS EAST-WEST PIPELINE TO BE RUNNING SOON
+- 09/14 21:19 [financialjuice] US Energy Secretary Wright: The running ovewrage of oil coming out is 10 mln bpd.
+- 09/14 21:20 [financialjuice] US Energy Secretary Wright: We expect East-West pipeline to be running soon.
+- 09/14 21:20 [financialjuice] US Energy Secretary Wright Speaks - WATCH LIVE
+- 09/14 21:20 [financialjuice] US Energy Secretary Wright: Over 12m/b day went through hormuz last night.
+- 09/14 21:21 [FirstSquawk] AON KICKS OFF SEVEN-PART US DOLLAR BOND SALE FOR USI TAKEOVER
+- 09/14 21:21 [FirstSquawk] RUNNING AVERAGE FLOWING THROUGH STRAIT IS 10 M/B A DAY: WRIGHT
+- 09/14 21:22 [FirstSquawk] US WANTS MORE REFINED PRODUCTS FROM THE MIDDLE EAST: WRIGHT
+- 09/14 21:22 [financialjuice] US Energy Secretary Wright: US wants more refined products from the Middle East.
+- 09/14 21:23 [DeItaone] AI BOOM FUELS $110BN U.S. POWER BUILDOUT America’s data center boom will require $110 billion to add 45GW of power capacity through 2030, according to Moody’s. More than 30GW is expected to come from natural gas, requiring an extra 4 billio…
+- 09/14 21:24 [financialjuice] US Energy Secretary Wright: I am confident flows will increase in Hormuz in weeks ahead.
+- 09/14 21:24 [FirstSquawk] WRIGHT CONFIDENT FLOWS WILL INCREASE IN HORMUZ IN WEEKS AHEAD
