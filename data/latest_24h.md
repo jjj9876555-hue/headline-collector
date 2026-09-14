@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 10:32 JST／対象: 09/13 10:32 〜 09/14 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-14 10:47 JST／対象: 09/13 10:47 〜 09/14 10:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 281 | 09/13 10:33 | 09/14 10:29 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 86 | 09/13 13:41 | 09/14 10:26 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 280 | 09/13 10:55 | 09/14 10:46 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 88 | 09/13 13:41 | 09/14 10:40 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 386 行（統合前 392 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 387 行（統合前 393 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 10:33 [FirstSquawk] INDIA IPO MOVE: Tata Sons faces pressure to go public after India’s central bank called for the conglomerate’s listing, according to FT.
-- 09/13 10:34 [FirstSquawk] BRICS CALLS FOR DE-ESCALATION: The bloc is urging diplomatic action to prevent further instability in the Gulf as war fears increase, according to FT.
-- 09/13 10:34 [FirstSquawk] Ottawa is seeking to attract $1 trillion from global investors looking for an alternative haven amid Trump-era uncertainty, according to FT.
-- 09/13 10:44 [FirstSquawk] FAKE DONATION CLAIM: A Chinese social media personality faces scrutiny after a purported US$150,000 flood contribution turned out to amount to only 15 cents, according to the Red Cross.
-- 09/13 10:45 [FirstSquawk] EXPLOSION UNDER INVESTIGATION: Bulgarian officials are examining the cause of an explosion at a weapons storage facility.
-- 09/13 10:45 [FirstSquawk] CHINA WARNS US: Beijing urges Washington to cease its intelligence-gathering operations and criticizes the U.S. over its alleged “gangster logic.”
 - 09/13 10:55 [FirstSquawk] NORTH KOREA CONSUMER SHIFT: Kim Jong-un is introducing new channels aimed at encouraging domestic spending among citizens.
 - 09/13 10:56 [FirstSquawk] Tehran will share details of the Iran-Oman talks and key decisions with Gulf Cooperation Council states, according to an Iranian source cited by Tasnim.
 - 09/13 10:57 [FirstSquawk] IRAN REJECTS US PRESSURE: Tehran will keep the southern route shut despite Washington’s demands for its reopening, an Iranian source tells Tasnim.
@@ -410,3 +404,10 @@
 - 09/14 10:25 [FirstSquawk] China’s central bank injects 504 billion yuan into the financial system through overnight and one-day reverse repo operations, according to a statement.
 - 09/14 10:26 [financialjuice] Amazon: we’ve decided to suspend operations with 21 Air
 - 09/14 10:29 [FirstSquawk] Amazon says it has suspended operations with 21 Air, signaling a pause in its business relationship with the carrier.
+- 09/14 10:33 [FirstSquawk] WTI rebounds toward a near four-month high as Saudi Arabia’s pipeline shutdown raises fresh concerns over crude supply and adds upward pressure to oil prices.
+- 09/14 10:34 [financialjuice] Hong Kong-listed shares of drop as much as 10.5% after discounted share placement
+- 09/14 10:36 [FirstSquawk] Z. AL shares plunge as much as 10.5% in Hong Kong after the company launches a discounted share placement, putting fresh pressure on the stock.
+- 09/14 10:40 [FirstSquawk] European leaders have gathered in Rovaniemi, Finland, for a two-day summit focused on the Arctic region’s economic opportunities and security, Finnish broadcaster YLE reports.
+- 09/14 10:40 [financialjuice] S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.050% yield
+- 09/14 10:43 [FirstSquawk] South Korea’s central bank sells 91-day Monetary Stabilisation Bonds at a 3.050% yield, according to the Bank of Korea.
+- 09/14 10:46 [FirstSquawk] Beijing’s trust concerns over Hong Kong are emerging as a key challenge for the city’s next five-year plan, raising questions over what commitments Hong Kong can credibly make to strengthen ties with the central government.

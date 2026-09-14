@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 10:32 JST／対象: 09/13 22:32 〜 09/14 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-14 10:47 JST／対象: 09/13 22:47 〜 09/14 10:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 09/13 22:34 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 126 | 09/13 22:46 | 09/14 10:29 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 58 | 09/13 22:36 | 09/14 10:26 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 9 | 09/14 01:15 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
+| FirstSquawk | 127 | 09/13 22:47 | 09/14 10:46 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 59 | 09/14 00:11 | 09/14 10:40 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 200 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 193 行（統合前 195 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 22:34 [DeItaone] TRUMP : ASKED ABOUT FED DECISION NEXT WEEK, SAYS WE SHOULD HAVE THE LOWEST RATE IN THE WORLD
-- 09/13 22:35 [DeItaone] TRUMP ON IRAN: IRAN WAR WILL END - MAYBE BEFORE OR RIGHT AFTER THE MIDTERMS
-- 09/13 22:35 [DeItaone] TRUMP ON IRAN: IRAN WANTS TO MAKE A DEAL SO BADLY
-- 09/13 22:35 [DeItaone] TRUMP ON IRAN: DOESN'T CARE IF GULF NATIONS MEET WITH IRAN, THAT'S UP TO THEM
-- 09/13 22:36 [DeItaone] TRUMP ON UKRAINE: ZELENSKIY HAS TO DO ONE THING: HE HAS TO STOP KNOCKING OUT DIESEL FUEL IN RUSSIA
-- 09/13 22:36 [DeItaone] TRUMP ON CHINA: NOT WORRIED THAT XI MIGHT CANCEL SUMMIT, CHINA HAS BEEN FAIR WITH US OVER LAST NUMBER OF YEARS
-- 09/13 22:36 [financialjuice] Kosovo parliament reappoints Albin Kurti as prime minister
-- 09/13 22:37 [DeItaone] TRUMP ON AI: ASKED IF AI INDUSTRY SHOULD SLOW DOWN, SAYS WHOEVER WINS AI WINS
-- 09/13 22:37 [DeItaone] TRUMP ON AI: WE COULD PUT GUARDRAILS, BUT SOME VOICES ARE BEING OVERLY NEGATIVE
-- 09/13 22:46 [FirstSquawk] Trump on Fed decision next week: says US should have lowest rates globally
-- 09/13 22:46 [FirstSquawk] US Trump: $5,000 post-election promise should be easy for Congress
-- 09/13 22:47 [DeItaone] TRUMP PUSHES FED FOR WORLD’S LOWEST INTEREST RATES President Donald Trump says the U.S. should have the lowest interest rate in the world, just days before the Fed’s closely watched policy decision Wednesday. Asked whether he expects a rate…
-- 09/13 22:47 [FirstSquawk] US Trump: I always honor my commitments
-- 09/13 22:47 [FirstSquawk] US Trump on Iran: Iran war will wrap up perhaps before or shortly after midterms
 - 09/13 22:47 [FirstSquawk] US Trump: Iran eager to reach a deal
 - 09/13 22:47 [FirstSquawk] US Trump on Iran: indifferent if gulf states engage with Iran, decision is theirs
 - 09/13 22:47 [FirstSquawk] US Trump on Ukraine: Zelenskiy must halt cutting diesel fuel supply in Russia
@@ -224,3 +210,10 @@
 - 09/14 10:25 [FirstSquawk] China’s central bank injects 504 billion yuan into the financial system through overnight and one-day reverse repo operations, according to a statement.
 - 09/14 10:26 [financialjuice] Amazon: we’ve decided to suspend operations with 21 Air
 - 09/14 10:29 [FirstSquawk] Amazon says it has suspended operations with 21 Air, signaling a pause in its business relationship with the carrier.
+- 09/14 10:33 [FirstSquawk] WTI rebounds toward a near four-month high as Saudi Arabia’s pipeline shutdown raises fresh concerns over crude supply and adds upward pressure to oil prices.
+- 09/14 10:34 [financialjuice] Hong Kong-listed shares of drop as much as 10.5% after discounted share placement
+- 09/14 10:36 [FirstSquawk] Z. AL shares plunge as much as 10.5% in Hong Kong after the company launches a discounted share placement, putting fresh pressure on the stock.
+- 09/14 10:40 [FirstSquawk] European leaders have gathered in Rovaniemi, Finland, for a two-day summit focused on the Arctic region’s economic opportunities and security, Finnish broadcaster YLE reports.
+- 09/14 10:40 [financialjuice] S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.050% yield
+- 09/14 10:43 [FirstSquawk] South Korea’s central bank sells 91-day Monetary Stabilisation Bonds at a 3.050% yield, according to the Bank of Korea.
+- 09/14 10:46 [FirstSquawk] Beijing’s trust concerns over Hong Kong are emerging as a key challenge for the city’s next five-year plan, raising questions over what commitments Hong Kong can credibly make to strengthen ties with the central government.
