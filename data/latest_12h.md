@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 05:34 JST／対象: 09/14 17:34 〜 09/15 05:34 JST（時刻はすべて日本時間）
+生成: 2026-09-15 05:52 JST／対象: 09/14 17:52 〜 09/15 05:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 49 | 09/14 17:49 | 09/15 04:32 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 163 | 09/14 17:35 | 09/15 05:33 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 169 | 09/14 18:10 | 09/15 05:17 | 28分（20:02→20:30） |
+| DeItaone | 50 | 09/14 17:55 | 09/15 05:37 | ⚠ 110分（00:34→02:25） |
+| FirstSquawk | 163 | 09/14 17:52 | 09/15 05:44 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 170 | 09/14 18:10 | 09/15 05:51 | 34分（05:17→05:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 358 行（統合前 385 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 360 行（統合前 387 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 17:35 [FirstSquawk] SAUDI CIVIL DEFENCE: DANGER HAS PASSED - STATE TV
-- 09/14 17:49 [DeItaone] GOLDMAN, JPMORGAN NOW EXPECT FED TO HIKE THIS WEEK Goldman Sachs and JPMorgan have shifted to expecting a 25 bp Fed hike at the September meeting after hotter August inflation and the renewed oil surge. Markets are pricing roughly an 87% pr…
-- 09/14 17:52 [FirstSquawk] BRENT CRUDE OIL FUTURES RISE MORE THAN $4 TO SESSION HIGH OF $108.65/BBL. ON ESCALATING MIDEAST ATTACKS
 - 09/14 17:52 [FirstSquawk] BRAZIL PRES ELECTION POLL: LULA HAS 47%, FLAVIO IN 2ND ROUND: BTC PACTUAL/NEXUS
 - 09/14 17:52 [FirstSquawk] JAPAN AUGUST ALUMINIUM STOCKPILES RISE 23% M/M TO 246,600 MT
 - 09/14 17:55 [DeItaone] CHINA SLAMS U.S. CALLS TO SLOW AI RACE China’s state-backed Global Times accused Anthropic CEO Dario Amodei of using AI safety concerns to restrict China’s technological rise. Amodei called for slower frontier AI development and tighter U.S…
@@ -382,3 +379,8 @@
 - 09/15 05:17 [financialjuice] Chipmakers Slide as AI Leaders Back Slower Development – US Market Wrap
 - 09/15 05:17 [financialjuice/FirstSquawk] Two Iranian fishing boats were hit by drones in Southern Iran, several fishermen are missing - State Broadcaster IRIB.
 - 09/15 05:33 [FirstSquawk] OPENAI ACQUIRES SMARTPHONE CAMERA STARTUP GLASS IMAGING IN A DEAL VALUED AT MORE THAN $300 MILLION, ACCORDING TO THE WALL STREET JOURNAL. GLASS IMAGING USES AI, HARDWARE AND SOFTWARE TO DEVELOP DSLR-QUALITY SMARTPHONE IMAGING, WITH THE ACQU…
+- 09/15 05:37 [DeItaone] TRUMP DISMISSES AI AND DATA CENTER FEARS President Trump rejected warnings that AI could threaten humanity or data centers could harm communities, comparing those concerns to his criticism of climate-change warnings. Trump accused critics o…
+- 09/15 05:37 [DeItaone] TRUMP DISMISSES AI TAKEOVER FEARS President Trump rejected warnings that AI and robots could eventually threaten humanity, calling the concerns a “hoax.” He compared fears of AI taking control to past controversies over Russia and climate c…
+- 09/15 05:44 [FirstSquawk] TRUMP ATTACKS ANTHROPIC CEO DARIO AMODEI OVER CALLS TO SLOW ADVANCED AI DEVELOPMENT, CALLING FEARS THAT AI COULD DESTROY HUMANITY A “HOAX” AND SAYING AI DEVELOPMENT WILL NOT BE STOPPED DURING HIS PRESIDENCY.
+- 09/15 05:44 [FirstSquawk] TRUMP SAYS THE U.S. MUST MAINTAIN ITS AI LEAD OVER CHINA AND CRITICIZES GOOGLE’S $15.1 BILLION AI INFRASTRUCTURE INVESTMENT IN FINLAND, PUTTING HIM AT ODDS WITH AMODEI, SAM ALTMAN AND ELON MUSK OVER AI SAFETY AND GUARDRAILS.
+- 09/15 05:51 [financialjuice] Trump called Nvidia's CEO Huang on Monday, and wanted to discuss AI - NYT. $NVDA

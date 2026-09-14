@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 05:34 JST／対象: 09/14 23:34 〜 09/15 05:34 JST（時刻はすべて日本時間）
+生成: 2026-09-15 05:52 JST／対象: 09/14 23:52 〜 09/15 05:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 09/14 23:51 | 09/15 04:32 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 68 | 09/14 23:37 | 09/15 05:33 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 91 | 09/14 23:37 | 09/15 05:17 | 23分（02:54→03:17） |
+| DeItaone | 17 | 09/14 23:53 | 09/15 05:37 | ⚠ 110分（00:34→02:25） |
+| FirstSquawk | 67 | 09/14 23:54 | 09/15 05:44 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 89 | 09/14 23:52 | 09/15 05:51 | 34分（05:17→05:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 165 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 163 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 23:37 [financialjuice] Yemen's Foreign Ministry: Maritime shipping is safe, but Saudi Arabia gravely mistaken if it believes it stays secure after 300 air strikes in past five days - IRIB News
-- 09/14 23:37 [FirstSquawk] JOLIET REFINERY HIT BY TOTAL POWER OUTAGE — 275K BPD CAPACITY AT RISK, FUEL MARKETS UNDER PRESSURE $XOM
-- 09/14 23:44 [financialjuice] OpenAI backs binding UK AI legislation - Politico
-- 09/14 23:45 [FirstSquawk] OPENAI SUPPORTS COMPULSORY AI LAWS IN THE UK.
-- 09/14 23:45 [FirstSquawk] YEMEN'S FOREIGN MINISTRY SAYS MARITIME SHIPPING IS SAFE, BUT SAUDI ARABIA IS MAKING A SERIOUS ERROR IF IT THINKS IT REMAINS SAFE AFTER 300 AIR STRIKES IN JUST FIVE DAYS.
-- 09/14 23:46 [financialjuice] EU looking to limit social media and chatbots for kids under 15.
-- 09/14 23:51 [DeItaone] U.S. 10-YEAR YIELD BREAKS 5% The 10-year Treasury yield climbed above 5%, its highest since October 2023, as oil-driven inflation fears fuel expectations of higher-for-longer Fed policy. Heavy debt issuance and concerns over U.S. deficits a…
 - 09/14 23:52 [financialjuice] UK Business Secretary Reynolds: UK can't support Speciality Steel on proposed terms
 - 09/14 23:53 [DeItaone] SENIOR SUNNI MUSLIM CLERIC SHOT DEAD BY UNIDENTIFIED GUNMEN IN SOUTHEAST IRAN - IRANIAN MEDIA
 - 09/14 23:53 [financialjuice] Israeli Prime Minister Netanyahu warns Hezbollah against further attacks - Israel's Channel 12
@@ -189,3 +182,8 @@
 - 09/15 05:17 [financialjuice] Chipmakers Slide as AI Leaders Back Slower Development – US Market Wrap
 - 09/15 05:17 [financialjuice/FirstSquawk] Two Iranian fishing boats were hit by drones in Southern Iran, several fishermen are missing - State Broadcaster IRIB.
 - 09/15 05:33 [FirstSquawk] OPENAI ACQUIRES SMARTPHONE CAMERA STARTUP GLASS IMAGING IN A DEAL VALUED AT MORE THAN $300 MILLION, ACCORDING TO THE WALL STREET JOURNAL. GLASS IMAGING USES AI, HARDWARE AND SOFTWARE TO DEVELOP DSLR-QUALITY SMARTPHONE IMAGING, WITH THE ACQU…
+- 09/15 05:37 [DeItaone] TRUMP DISMISSES AI AND DATA CENTER FEARS President Trump rejected warnings that AI could threaten humanity or data centers could harm communities, comparing those concerns to his criticism of climate-change warnings. Trump accused critics o…
+- 09/15 05:37 [DeItaone] TRUMP DISMISSES AI TAKEOVER FEARS President Trump rejected warnings that AI and robots could eventually threaten humanity, calling the concerns a “hoax.” He compared fears of AI taking control to past controversies over Russia and climate c…
+- 09/15 05:44 [FirstSquawk] TRUMP ATTACKS ANTHROPIC CEO DARIO AMODEI OVER CALLS TO SLOW ADVANCED AI DEVELOPMENT, CALLING FEARS THAT AI COULD DESTROY HUMANITY A “HOAX” AND SAYING AI DEVELOPMENT WILL NOT BE STOPPED DURING HIS PRESIDENCY.
+- 09/15 05:44 [FirstSquawk] TRUMP SAYS THE U.S. MUST MAINTAIN ITS AI LEAD OVER CHINA AND CRITICIZES GOOGLE’S $15.1 BILLION AI INFRASTRUCTURE INVESTMENT IN FINLAND, PUTTING HIM AT ODDS WITH AMODEI, SAM ALTMAN AND ELON MUSK OVER AI SAFETY AND GUARDRAILS.
+- 09/15 05:51 [financialjuice] Trump called Nvidia's CEO Huang on Monday, and wanted to discuss AI - NYT. $NVDA
