@@ -7,34 +7,30 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 17:36 JST／対象: 09/13 17:36 〜 09/14 17:36 JST（時刻はすべて日本時間）
+生成: 2026-09-14 17:54 JST／対象: 09/13 17:54 〜 09/14 17:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 09/13 18:12 | 09/14 17:19 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 282 | 09/13 17:48 | 09/14 17:35 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 118 | 09/13 17:48 | 09/14 17:16 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 28 | 09/13 18:12 | 09/14 17:49 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 281 | 09/13 18:09 | 09/14 17:52 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 117 | 09/13 19:12 | 09/14 17:16 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 421 行（統合前 427 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 421 行（統合前 426 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 17:48 [financialjuice/FirstSquawk] Ukraine’s military: strike on Taneko oil refinery in Russia’s Tatarstan
-- 09/13 17:48 [FirstSquawk] Russian President Vladimir Putin departs from Delhi after participating in the BRICS Summit 2026.
-- 09/13 17:48 [FirstSquawk] Jared Kushner on Ukraine: President Putin's laid out his line of what he wants to achieve. If Ukraine, you know, wanted to withdraw to that line, then obviously, you know, we have the rest of the deal set up and put together
-- 09/13 17:49 [FirstSquawk] Russian 'North' group's units 'take control' of the Chernyakov village, Kharkov region — MoD
-- 09/13 17:49 [FirstSquawk] Continuing low water levels on the Rhine are expected to cause significant economic damage in Germany this year
 - 09/13 18:09 [FirstSquawk] Malaysian PM Anwar Ibrahim tells PM Modi he received several messages from people asking him to convey their regards to the Indian Prime Minister during their BRICS 2026 bilateral meeting.
 - 09/13 18:10 [FirstSquawk] Vladimir Putin rejected Volodymyr Zelensky's offer for direct talks at the December G20 summit in Miami. Kremlin spokesman Dmitry Peskov called US talks "impossible," stating Putin will only meet in Moscow.
 - 09/13 18:10 [FirstSquawk] Iranians gathered across Europe on Saturday to protest against the Islamic Republic, with demonstrations held in London, Nuremberg, Frankfurt, Helsinki, Bordeaux and Stuttgart, videos received by Iran International show.
 - 09/13 18:10 [FirstSquawk] Iran has signed contracts to import about 320 megawatts of electricity from Turkmenistan and between 300 and 350 megawatts from Armenia, a deputy energy minister said on Sunday.
 - 09/13 18:10 [FirstSquawk] PM Modi, Egypt Prez Sisi meet in Delhi
 - 09/13 18:12 [DeItaone] The biggest issue with an AI "safety slowdown:" What happens with China? While there are legitimate concerns around the safety of AI and how quickly it is evolving, the AI race is global. And, in today's ecosystem, falling even 6 months beh…
+- 09/13 18:14 [FirstSquawk] UKRAINE’S MILITARY: STRIKE ON TANEKO OIL REFINERY IN RUSSIA’S TATARSTAN
 - 09/13 18:14 [FirstSquawk] ITALY ECONOMY MINISTER: CRUCIAL FOR ITALY TO MAINTAIN PUBLIC FINANCES AS ECB HIKES INTEREST RATES
 - 09/13 18:17 [DeItaone] $TSLA - TESLA TEASES OCTOBER 1 ROADSTER EVENT Tesla is teasing an October 1 event for its long-delayed next-generation Roadster, nearly nine years after Elon Musk first unveiled the vehicle. The “Go for launch” messaging is fueling speculat…
 - 09/13 18:36 [FirstSquawk] Xi Jinping has sought to turn the annual BRICS summit into another platform for championing Beijing’s vision for AI, as it vies for global influence over the technology with the US
@@ -445,3 +441,7 @@
 - 09/14 17:31 [FirstSquawk] SAUDI CIVIL DEFENCE ALERTS OF POTENTIAL DANGER IN KHAMIS MUSHAIT AND ABHA AREAS - STATE TV
 - 09/14 17:33 [FirstSquawk] INDONESIA APPOINTS NAZARA AS NEW FINANCE MINISTER, TAKING OVER FROM PURBAYA.
 - 09/14 17:35 [FirstSquawk] SAUDI CIVIL DEFENCE: DANGER HAS PASSED - STATE TV
+- 09/14 17:49 [DeItaone] GOLDMAN, JPMORGAN NOW EXPECT FED TO HIKE THIS WEEK Goldman Sachs and JPMorgan have shifted to expecting a 25 bp Fed hike at the September meeting after hotter August inflation and the renewed oil surge. Markets are pricing roughly an 87% pr…
+- 09/14 17:52 [FirstSquawk] BRENT CRUDE OIL FUTURES RISE MORE THAN $4 TO SESSION HIGH OF $108.65/BBL. ON ESCALATING MIDEAST ATTACKS
+- 09/14 17:52 [FirstSquawk] BRAZIL PRES ELECTION POLL: LULA HAS 47%, FLAVIO IN 2ND ROUND: BTC PACTUAL/NEXUS
+- 09/14 17:52 [FirstSquawk] JAPAN AUGUST ALUMINIUM STOCKPILES RISE 23% M/M TO 246,600 MT

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 17:36 JST／対象: 09/14 05:36 〜 09/14 17:36 JST（時刻はすべて日本時間）
+生成: 2026-09-14 17:54 JST／対象: 09/14 05:54 〜 09/14 17:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/14 08:03 | 09/14 17:19 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 175 | 09/14 05:48 | 09/14 17:35 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 76 | 09/14 05:39 | 09/14 17:16 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 4 | 09/14 08:03 | 09/14 17:49 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 176 | 09/14 06:07 | 09/14 17:52 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 74 | 09/14 06:02 | 09/14 17:16 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 252 行（統合前 254 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 05:39 [financialjuice] Sweden's center-left opposition bloc now projected to win 175 seats in parliament, broadcaster SVT shows
-- 09/14 05:39 [financialjuice] Sweden's right-wing ruling bloc now projected to win 174 parliamentary seats, broadcaster SVT shows
-- 09/14 05:48 [FirstSquawk] ANTHROPIC, OPENAI AND GOOGLE ARE DISCUSSING AN INDUSTRY-LED AI STANDARDS BODY TO COORDINATE TESTING AND AUDITING OF ADVANCED AI SYSTEMS, WITH TALKS REPORTEDLY CONTINUING AS RECENTLY AS LAST WEEK.
-- 09/14 05:48 [FirstSquawk] OPENAI CEO SAM ALTMAN SUPPORTS AN INDEPENDENT AI TESTING AND AUDITING ORGANIZATION BUT BELIEVES MAJOR AI LABS SHOULD ESTABLISH IT WITHOUT U.S. GOVERNMENT SUPPORT, AS AI SAFETY COORDINATION GAINS MOMENTUM.
 - 09/14 06:02 [financialjuice] Several blasts heard in Iran's Sirik: source unknown, state media.
 - 09/14 06:07 [FirstSquawk] HOUSE SPEAKER MIKE JOHNSON SAYS TRUMP’S PROPOSED $5,000 DIVIDEND FOR EVERY AMERICAN ADULT WOULD REQUIRE CONGRESSIONAL APPROVAL, CONTRADICTING TRUMP’S CLAIM THAT THE PAYMENTS CAN BE MADE WITHOUT AUTHORIZATION. JOHNSON VOWS TO WORK TO PASS TH…
 - 09/14 06:13 [financialjuice] Election authority projection: Sweden's center-left opposition bloc poised to secure 165 seats in parliament
@@ -276,3 +272,7 @@
 - 09/14 17:31 [FirstSquawk] SAUDI CIVIL DEFENCE ALERTS OF POTENTIAL DANGER IN KHAMIS MUSHAIT AND ABHA AREAS - STATE TV
 - 09/14 17:33 [FirstSquawk] INDONESIA APPOINTS NAZARA AS NEW FINANCE MINISTER, TAKING OVER FROM PURBAYA.
 - 09/14 17:35 [FirstSquawk] SAUDI CIVIL DEFENCE: DANGER HAS PASSED - STATE TV
+- 09/14 17:49 [DeItaone] GOLDMAN, JPMORGAN NOW EXPECT FED TO HIKE THIS WEEK Goldman Sachs and JPMorgan have shifted to expecting a 25 bp Fed hike at the September meeting after hotter August inflation and the renewed oil surge. Markets are pricing roughly an 87% pr…
+- 09/14 17:52 [FirstSquawk] BRENT CRUDE OIL FUTURES RISE MORE THAN $4 TO SESSION HIGH OF $108.65/BBL. ON ESCALATING MIDEAST ATTACKS
+- 09/14 17:52 [FirstSquawk] BRAZIL PRES ELECTION POLL: LULA HAS 47%, FLAVIO IN 2ND ROUND: BTC PACTUAL/NEXUS
+- 09/14 17:52 [FirstSquawk] JAPAN AUGUST ALUMINIUM STOCKPILES RISE 23% M/M TO 246,600 MT

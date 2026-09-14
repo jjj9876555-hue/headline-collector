@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 17:36 JST／対象: 09/14 11:36 〜 09/14 17:36 JST（時刻はすべて日本時間）
+生成: 2026-09-14 17:54 JST／対象: 09/14 11:54 〜 09/14 17:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/14 16:28 | 09/14 17:19 | ⚠ 50分（16:28→17:19） |
-| FirstSquawk | 88 | 09/14 11:44 | 09/14 17:35 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 37 | 09/14 11:51 | 09/14 17:16 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 3 | 09/14 16:28 | 09/14 17:49 | ⚠ 50分（16:28→17:19） |
+| FirstSquawk | 87 | 09/14 11:56 | 09/14 17:52 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 36 | 09/14 12:23 | 09/14 17:16 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 126 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 11:44 [FirstSquawk] Commodity vessel crossings through the Strait of Hormuz dropped to single digits per day over the weekend, well below the 10-day average of roughly 14, according to data.
-- 09/14 11:45 [FirstSquawk] Brent crude jumps to $107 as Oman postpones an Iran meeting and Saudi Arabia shuts a key pipeline following an attack. Meanwhile, Nasdaq futures slide amid renewed jitters over AI valuations, Benzinga reports.
-- 09/14 11:50 [FirstSquawk] Long-term Japanese government bond yields move higher as markets strengthen expectations for further BOJ interest-rate increases, according to the Wall Street Journal.
-- 09/14 11:51 [financialjuice] Dollar/yen rises 0.3% to 154.02
-- 09/14 11:53 [FirstSquawk] The dollar rises 0.3% against the yen to 154.02, extending gains in the currency pair.
 - 09/14 11:56 [FirstSquawk] House Speaker Mike Johnson says Congress would need to approve President Trump’s proposed $5,000 dividend, indicating the plan cannot move forward without lawmakers’ backing.
 - 09/14 12:02 [FirstSquawk] North Korea says it has tested weapons capable of striking South Korea, describing the systems as having “huge destructive power” amid heightened regional tensions.
 - 09/14 12:13 [FirstSquawk] Qatar eyes a bigger role in China’s growing Gulf logistics push as trade routes face disruption.
@@ -150,3 +145,7 @@
 - 09/14 17:31 [FirstSquawk] SAUDI CIVIL DEFENCE ALERTS OF POTENTIAL DANGER IN KHAMIS MUSHAIT AND ABHA AREAS - STATE TV
 - 09/14 17:33 [FirstSquawk] INDONESIA APPOINTS NAZARA AS NEW FINANCE MINISTER, TAKING OVER FROM PURBAYA.
 - 09/14 17:35 [FirstSquawk] SAUDI CIVIL DEFENCE: DANGER HAS PASSED - STATE TV
+- 09/14 17:49 [DeItaone] GOLDMAN, JPMORGAN NOW EXPECT FED TO HIKE THIS WEEK Goldman Sachs and JPMorgan have shifted to expecting a 25 bp Fed hike at the September meeting after hotter August inflation and the renewed oil surge. Markets are pricing roughly an 87% pr…
+- 09/14 17:52 [FirstSquawk] BRENT CRUDE OIL FUTURES RISE MORE THAN $4 TO SESSION HIGH OF $108.65/BBL. ON ESCALATING MIDEAST ATTACKS
+- 09/14 17:52 [FirstSquawk] BRAZIL PRES ELECTION POLL: LULA HAS 47%, FLAVIO IN 2ND ROUND: BTC PACTUAL/NEXUS
+- 09/14 17:52 [FirstSquawk] JAPAN AUGUST ALUMINIUM STOCKPILES RISE 23% M/M TO 246,600 MT
