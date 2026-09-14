@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 11:34 JST／対象: 09/14 05:34 〜 09/14 11:34 JST（時刻はすべて日本時間）
+生成: 2026-09-14 11:52 JST／対象: 09/14 05:52 〜 09/14 11:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/14 08:03 | 09/14 08:03 | - |
-| FirstSquawk | 87 | 09/14 05:48 | 09/14 11:34 | 37分（07:53→08:31） |
-| financialjuice | 39 | 09/14 05:39 | 09/14 11:32 | ⚠ 50分（10:40→11:31） |
+| FirstSquawk | 88 | 09/14 06:07 | 09/14 11:50 | 37分（07:53→08:31） |
+| financialjuice | 38 | 09/14 06:02 | 09/14 11:51 | ⚠ 50分（10:40→11:31） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 126 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 05:39 [financialjuice] Sweden's center-left opposition bloc now projected to win 175 seats in parliament, broadcaster SVT shows
-- 09/14 05:39 [financialjuice] Sweden's right-wing ruling bloc now projected to win 174 parliamentary seats, broadcaster SVT shows
-- 09/14 05:48 [FirstSquawk] ANTHROPIC, OPENAI AND GOOGLE ARE DISCUSSING AN INDUSTRY-LED AI STANDARDS BODY TO COORDINATE TESTING AND AUDITING OF ADVANCED AI SYSTEMS, WITH TALKS REPORTEDLY CONTINUING AS RECENTLY AS LAST WEEK.
-- 09/14 05:48 [FirstSquawk] OPENAI CEO SAM ALTMAN SUPPORTS AN INDEPENDENT AI TESTING AND AUDITING ORGANIZATION BUT BELIEVES MAJOR AI LABS SHOULD ESTABLISH IT WITHOUT U.S. GOVERNMENT SUPPORT, AS AI SAFETY COORDINATION GAINS MOMENTUM.
 - 09/14 06:02 [financialjuice] Several blasts heard in Iran's Sirik: source unknown, state media.
 - 09/14 06:07 [FirstSquawk] HOUSE SPEAKER MIKE JOHNSON SAYS TRUMP’S PROPOSED $5,000 DIVIDEND FOR EVERY AMERICAN ADULT WOULD REQUIRE CONGRESSIONAL APPROVAL, CONTRADICTING TRUMP’S CLAIM THAT THE PAYMENTS CAN BE MADE WITHOUT AUTHORIZATION. JOHNSON VOWS TO WORK TO PASS TH…
 - 09/14 06:13 [financialjuice] Election authority projection: Sweden's center-left opposition bloc poised to secure 165 seats in parliament
@@ -150,3 +146,7 @@
 - 09/14 11:32 [FirstSquawk] Commodity vessel traffic through the Strait of Hormuz fell to single digits per day over the weekend, below the 10-day average of around 14 crossings, data shows.
 - 09/14 11:32 [FirstSquawk] Japan’s Chief Cabinet Secretary Kihara says the government will finalize the budget while carefully managing the amount of new bond issuance.
 - 09/14 11:34 [FirstSquawk] Australian luxury bootmaker R.M.Williams is turning its attention to Japan, marking the next step in the brand’s international expansion.
+- 09/14 11:44 [FirstSquawk] Commodity vessel crossings through the Strait of Hormuz dropped to single digits per day over the weekend, well below the 10-day average of roughly 14, according to data.
+- 09/14 11:45 [FirstSquawk] Brent crude jumps to $107 as Oman postpones an Iran meeting and Saudi Arabia shuts a key pipeline following an attack. Meanwhile, Nasdaq futures slide amid renewed jitters over AI valuations, Benzinga reports.
+- 09/14 11:50 [FirstSquawk] Long-term Japanese government bond yields move higher as markets strengthen expectations for further BOJ interest-rate increases, according to the Wall Street Journal.
+- 09/14 11:51 [financialjuice] Dollar/yen rises 0.3% to 154.02

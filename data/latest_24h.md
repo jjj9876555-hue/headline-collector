@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 11:34 JST／対象: 09/13 11:34 〜 09/14 11:34 JST（時刻はすべて日本時間）
+生成: 2026-09-14 11:52 JST／対象: 09/13 11:52 〜 09/14 11:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 286 | 09/13 11:41 | 09/14 11:34 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 90 | 09/13 13:41 | 09/14 11:32 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 283 | 09/13 11:53 | 09/14 11:50 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 91 | 09/13 13:41 | 09/14 11:51 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 395 行（統合前 401 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 393 行（統合前 399 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 11:41 [FirstSquawk] U.S. GOVERNMENT NET INTEREST PAYMENTS: 2015 fiscal year: $223 billion 2025 fiscal year: $970 billion That represents an increase of roughly 335% over the decade - spectatorindex
-- 09/13 11:42 [FirstSquawk] The Australian government vows tougher measures to ensure telecom networks can withstand future outages following the Optus incident.
-- 09/13 11:42 [FirstSquawk] AMERICAN PAYCHECKS: Inflation has overtaken wage gains again, putting renewed pressure on household incomes.
-- 09/13 11:44 [FirstSquawk] STRAIT OF HORMUZ ALERT: A fresh report of an attack on shipping in the Strait of Hormuz is fueling concerns over potential disruptions to oil supplies.
-- 09/13 11:46 [FirstSquawk] AI WORKFORCE CHALLENGE: Peru’s candidate for ILO director-general says he will focus on managing the growing impact of AI on jobs and the future of work.
-- 09/13 11:46 [FirstSquawk] IRAN-U.S. TENSIONS: Iranian President Pezeshkian says Tehran will not bow to U.S. pressure as Indian Prime Minister Modi calls for dialogue and peace.
 - 09/13 11:53 [FirstSquawk] IRAN DEFENSE: Top Army and IRGC commanders reaffirm an unbreakable alliance after confronting “terrorist powers.”
 - 09/13 11:59 [FirstSquawk] Crompton Greaves Consumer expands portfolio with outdoor wall lights
 - 09/13 11:59 [FirstSquawk] Families fuel China’s growing ‘red tourism’ trend at Communist Party sites
@@ -419,3 +413,7 @@
 - 09/14 11:32 [FirstSquawk] Commodity vessel traffic through the Strait of Hormuz fell to single digits per day over the weekend, below the 10-day average of around 14 crossings, data shows.
 - 09/14 11:32 [FirstSquawk] Japan’s Chief Cabinet Secretary Kihara says the government will finalize the budget while carefully managing the amount of new bond issuance.
 - 09/14 11:34 [FirstSquawk] Australian luxury bootmaker R.M.Williams is turning its attention to Japan, marking the next step in the brand’s international expansion.
+- 09/14 11:44 [FirstSquawk] Commodity vessel crossings through the Strait of Hormuz dropped to single digits per day over the weekend, well below the 10-day average of roughly 14, according to data.
+- 09/14 11:45 [FirstSquawk] Brent crude jumps to $107 as Oman postpones an Iran meeting and Saudi Arabia shuts a key pipeline following an attack. Meanwhile, Nasdaq futures slide amid renewed jitters over AI valuations, Benzinga reports.
+- 09/14 11:50 [FirstSquawk] Long-term Japanese government bond yields move higher as markets strengthen expectations for further BOJ interest-rate increases, according to the Wall Street Journal.
+- 09/14 11:51 [financialjuice] Dollar/yen rises 0.3% to 154.02

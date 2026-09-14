@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 11:34 JST／対象: 09/13 23:34 〜 09/14 11:34 JST（時刻はすべて日本時間）
+生成: 2026-09-14 11:52 JST／対象: 09/13 23:52 〜 09/14 11:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/14 01:15 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 133 | 09/14 00:06 | 09/14 11:34 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 61 | 09/14 00:11 | 09/14 11:32 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 136 | 09/14 00:06 | 09/14 11:50 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 62 | 09/14 00:11 | 09/14 11:51 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 201 行（統合前 203 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 205 行（統合前 207 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -225,3 +225,7 @@
 - 09/14 11:32 [FirstSquawk] Commodity vessel traffic through the Strait of Hormuz fell to single digits per day over the weekend, below the 10-day average of around 14 crossings, data shows.
 - 09/14 11:32 [FirstSquawk] Japan’s Chief Cabinet Secretary Kihara says the government will finalize the budget while carefully managing the amount of new bond issuance.
 - 09/14 11:34 [FirstSquawk] Australian luxury bootmaker R.M.Williams is turning its attention to Japan, marking the next step in the brand’s international expansion.
+- 09/14 11:44 [FirstSquawk] Commodity vessel crossings through the Strait of Hormuz dropped to single digits per day over the weekend, well below the 10-day average of roughly 14, according to data.
+- 09/14 11:45 [FirstSquawk] Brent crude jumps to $107 as Oman postpones an Iran meeting and Saudi Arabia shuts a key pipeline following an attack. Meanwhile, Nasdaq futures slide amid renewed jitters over AI valuations, Benzinga reports.
+- 09/14 11:50 [FirstSquawk] Long-term Japanese government bond yields move higher as markets strengthen expectations for further BOJ interest-rate increases, according to the Wall Street Journal.
+- 09/14 11:51 [financialjuice] Dollar/yen rises 0.3% to 154.02
