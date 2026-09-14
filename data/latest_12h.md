@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 08:34 JST／対象: 09/14 20:34 〜 09/15 08:34 JST（時刻はすべて日本時間）
+生成: 2026-09-15 08:49 JST／対象: 09/14 20:49 〜 09/15 08:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 37 | 09/14 20:51 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 144 | 09/14 20:39 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 167 | 09/14 20:48 | 09/15 08:29 | 34分（07:55→08:29） |
+| FirstSquawk | 141 | 09/14 20:58 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 166 | 09/14 21:00 | 09/15 08:29 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 326 行（統合前 352 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 322 行（統合前 348 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 20:39 [FirstSquawk] UK PM BURNHAM `CLEAR-EYED' ABOUT RISKS POSED BY AI: WELLS
-- 09/14 20:45 [FirstSquawk] CHINESE GROUPS ARE SAID TO HAVE PROVIDED IRAN WITH SATELLITE IMAGES OF A U.S. AIR BASE, WHICH IRAN LATER ATTACKED WITH MISSILES, RESULTING IN THE DEATH OF THREE AMERICAN SOLDIERS.
-- 09/14 20:47 [FirstSquawk] GERMANY'S MERZ: SUPPORT EU FUNDING TO BUY ICREBREAKERS
-- 09/14 20:48 [financialjuice] US Senate Minority Leader Schumer demands AI briefing from the Trump administration to the Senate
 - 09/14 20:51 [DeItaone] QATAR OFFERS OIL FROM INSIDE STRAIT OF HORMUZ QatarEnergy has launched a tender to sell crude for October and November loading from Qatari ports located inside the Strait of Hormuz. The offer includes Al-Shaheen, Qatar Marine and Qatar Land…
 - 09/14 20:58 [FirstSquawk] 89% OF AMERICANS SAY GOVERNMENT CORRUPTION IS REAL — PUBLIC TRUST HITS A BREAKING POINT A striking 89% of Americans believe corruption is present in the U.S. government, highlighting a deep and widespread crisis of public trust. The figure …
 - 09/14 21:00 [financialjuice] Secured overnight financing rate: 3.62% September 11th vs 3.62% September 10th

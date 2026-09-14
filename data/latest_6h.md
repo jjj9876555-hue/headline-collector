@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 08:34 JST／対象: 09/15 02:34 〜 09/15 08:34 JST（時刻はすべて日本時間）
+生成: 2026-09-15 08:49 JST／対象: 09/15 02:49 〜 09/15 08:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/15 02:34 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 51 | 09/15 02:37 | 09/15 07:07 | 22分（02:58→03:21） |
-| financialjuice | 50 | 09/15 02:35 | 09/15 08:29 | 34分（07:55→08:29） |
+| DeItaone | 7 | 09/15 03:00 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
+| FirstSquawk | 45 | 09/15 02:58 | 09/15 07:07 | 22分（02:58→03:21） |
+| financialjuice | 45 | 09/15 02:54 | 09/15 08:29 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 103 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 90 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 02:34 [DeItaone] DEEPSEEK HIRES FIRST CFO AHEAD OF POSSIBLE IPO DeepSeek plans to hire GL Ventures partner Yan Wentao as its first CFO, Reuters reports, as the Chinese AI startup prepares for a potential IPO. The company has also tapped CITIC Securities for…
-- 09/15 02:35 [financialjuice] Trump: I want Google to change thinking on AI building in Finland - Truth Social $GOOGL
-- 09/15 02:35 [financialjuice] Trump: AI taking over world and destroying humanity is a hoax.
-- 09/15 02:36 [financialjuice] BofA CEO: If rates go up a lot, that will slow down some of the financing demand. $BAC
-- 09/15 02:37 [FirstSquawk] TRUMP SAYS THE '$5,000 TRUMP DIVIDEND, TO BE GIVEN TO ALL ADULTS IN THE UNITED STATES DUE TO THE FACT THAT OUR COUNTRY IS TAKING IN TRILLIONS OF DOLLARS OF ECONOMIC DEVELOPMENT, INVESTMENT, AND PURE SUCCESS', IS BEING CRITICIZED BY 'DUMOCRA…
-- 09/15 02:37 [FirstSquawk] TRUMP CITES 'THE GREAT BIG BEAUTIFUL BILL' AND THE 'GIFT OF $1776' HE GAVE THE MILITARY LAST YEAR AS EXAMPLES OF THINGS CRITICS SAID COULD NOT BE DONE, SAYING 'WHEN I SAY SOMETHING, I MEAN IT'. - TRUTH SOCIAL
-- 09/15 02:37 [FirstSquawk] TRUMP SAYS 'THE $5,000 DIVIDEND WILL HAPPEN BECAUSE THE PEOPLE OF OUR COUNTRY DESERVE IT', ADDING 'VOTE REPUBLICAN — MAKE AMERICA GREAT AGAIN'. - TRUTH SOCIAL
-- 09/15 02:39 [FirstSquawk] TRUMP SAYS CONCERNING AI THAT NEVER 'IN THE HISTORY OF BUSINESS' HAS ANYONE SEEN 'THE LEADERS OF AN INDUSTRY CALL FOR REGULATION THAT, IF STRONGLY IMPLEMENTED, WILL DRIVE THEM INTO OBLIVION AND BANKRUPTCY', CALLING THE IDEA OF 'AI TAKING OV…
-- 09/15 02:40 [FirstSquawk] TRUMP SAYS PRESIDENT XI 'JUST ANNOUNCED THAT CHINA WILL BE DOING ABSOLUTELY NOTHING TO STAND IN THE WAY OF AI', WHILE CRITICIZING GOOGLE'S PLAN TO 'BUILD A MASSIVE PLANT IN FINLAND' BECAUSE PERMITTING IS 'TOO DIFFICULT IN THE UNITED STATES'…
-- 09/15 02:40 [FirstSquawk] TRUMP SAYS 'AI, AND DATA CENTERS, WILL BE THE GREATEST ECONOMIC DEVELOPMENT ENGINE IN HISTORY — BIGGER THAN OIL, GOLD, DIAMONDS, OR EVEN THE INTERNET', ADDING THAT IT 'WILL NOT BE STOPPED BY BRILLIANTLY RUN DESTRUCTIVE FORCES' DURING HIS TE…
-- 09/15 02:46 [financialjuice] Northrop, Air Force put together first complete Sentinel missile
-- 09/15 02:47 [financialjuice] Northrop says Entinel missile on track for 2027 flight test
-- 09/15 02:47 [DeItaone] TRUMP SAYS AI TAKING OVER WORLD, DESTROYING HUMANITY IS A HOAX
 - 09/15 02:54 [financialjuice/FirstSquawk] House Minority Leader Jeffries: Democrats to prioritize regulating AI if we win house
 - 09/15 03:00 [DeItaone] U.S.-IRAN PHASED DEAL REPORTEDLY IN PLAY Washington may be considering a “phased” agreement with Tehran aimed at ending the U.S.-Iran conflict, according to a Pakistani source cited by ILNA. The source cautioned that Trump’s recent comments…
 - 09/15 03:17 [financialjuice/FirstSquawk] US House Speaker Johnson: Trump will convene with AI executives this week or next.

@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 08:34 JST／対象: 09/14 08:34 〜 09/15 08:34 JST（時刻はすべて日本時間）
+生成: 2026-09-15 08:49 JST／対象: 09/14 08:49 〜 09/15 08:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 330 | 09/14 08:46 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 237 | 09/14 08:46 | 09/15 08:29 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 327 | 09/14 08:50 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 235 | 09/14 09:00 | 09/15 08:29 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 595 行（統合前 625 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 590 行（統合前 620 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 08:46 [FirstSquawk] CANADA IS IN TALKS TO CONTRIBUTE TO THE EU'S €90 BLN LOAN FOR UKRAINE AS PRIME MINISTER MARK CARNEY PUSHES FOR CLOSER TIES WITH EUROPE AND LESS DEPENDENCE ON THE U.S., WITH THE TWO SIDES HOPING TO AGREE ON CANADA'S CONTRIBUTION BEFORE AN EU…
-- 09/14 08:46 [financialjuice] Danger has passed in Khamis Mushait: Saudi civil defense
-- 09/14 08:47 [FirstSquawk] THE NSA IS LAUNCHING ITS BIGGEST RESTRUCTURING IN AT LEAST A DECADE, CREATING FIVE NEW MISSION CENTERS FOCUSED ON AI, CHINA, CYBERSECURITY, WARFIGHTING AND GLOBAL INTELLIGENCE, WITH DIRECTOR GEN. JOSHUA RUDD'S PLAN GIVING THE NEW MISSION CH…
-- 09/14 08:47 [FirstSquawk] THE NSA'S ELITE HACKING UNIT, TAILORED ACCESS OPERATIONS, WILL FALL UNDER GLOBAL INTELLIGENCE AND IS EXPECTED TO RECEIVE A MAJOR BUDGET INCREASE, WITH THE RESTRUCTURING SET TO BEGIN IN MID-OCTOBER AND FULL IMPLEMENTATION TARGETED FOR JANUAR…
-- 09/14 08:47 [financialjuice] Danger has passed in Abha: Saudi civil defense
 - 09/14 08:50 [FirstSquawk] JAPAN EARLY TRADE: BENCHMARK 10-YEAR JGB FUTURES RISE 0.04 POINT, WHILE NIKKEI AVERAGE FUTURES FALL 1.5%
 - 09/14 09:00 [financialjuice] Kennedy Center may shut as soon as Tuesday, warns of bankruptcy, documents show - Washington Post
 - 09/14 09:10 [FirstSquawk] Musk says he’s highly confident SpaceX will put Nvidia AI computers into orbit in 2027, potentially opening a new frontier for space-based computing.
