@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 21:50 JST／対象: 09/14 09:50 〜 09/14 21:50 JST（時刻はすべて日本時間）
+生成: 2026-09-14 22:03 JST／対象: 09/14 10:03 〜 09/14 22:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/14 16:28 | 09/14 21:42 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 174 | 09/14 09:50 | 09/14 21:47 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 88 | 09/14 10:01 | 09/14 21:47 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 171 | 09/14 10:09 | 09/14 22:03 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 91 | 09/14 10:18 | 09/14 22:03 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 280 行（統合前 286 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,16 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 09:50 [FirstSquawk] Trump says a meeting with Delcy Rodríguez at the UN remains possible, while pointing to an energy arrangement that he says is delivering millions of barrels of oil to the U.S. each month.
-- 09/14 09:51 [FirstSquawk] NORTH KOREA SAYS A JOINT LIVE-FIRE DRILL INVOLVING MISSILES, ARTILLERY AND DRONES DEMONSTRATED THE “HUGE DESTRUCTIVE POWER” OF CONCENTRATED FIRE.
-- 09/14 09:51 [FirstSquawk] SOUTH KOREA SAYS SEVERAL MISSILES FLEW ABOUT 250 KM TOWARD NORTH KOREA’S EASTERN WATERS, INDICATING THEY ARE DESIGNED TO STRIKE TARGETS IN SOUTH KOREA.
-- 09/14 09:53 [FirstSquawk] Indonesia’s Java Sea ship disaster leaves at least six dead, with 129 people still missing after a passenger vessel capsized on Sunday, according to authorities.
-- 09/14 09:55 [FirstSquawk] Amazon pauses operations with 21 Air following the Miami crash, according to The Wall Street Journal, as the incident prompts a temporary disruption to the airline partnership.
-- 09/14 09:56 [FirstSquawk] Dollar holds steady while the yen climbs toward a seven-month high, as traders position ahead of this week’s closely watched Fed and BOJ policy meetings.
-- 09/14 10:01 [FirstSquawk] AI’s race for ever-more powerful systems may be facing a rare slowdown, as the CEOs of two leading AI companies publicly argue that development should proceed at a more measured pace says NBC
-- 09/14 10:01 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs 0.805% at previous session open
-- 09/14 10:02 [FirstSquawk] U.S. diesel prices have surged 60% above pre-Iran war levels, according to Fortune, highlighting the growing impact of the conflict on fuel costs and the broader U.S. economy.
-- 09/14 10:03 [FirstSquawk] Taiwan’s overnight funding market starts the session steady at 0.805%, matching the previous session’s opening level.
 - 09/14 10:09 [FirstSquawk] Euro slips below 1.1600 as markets increasingly price a potential Fed rate hike, adding pressure to the single currency.
 - 09/14 10:12 [FirstSquawk] Trump dismisses claims that Chinese entities assisted Iran ahead of the attack that resulted in the deaths of U.S. troops - RTRS
 - 09/14 10:14 [FirstSquawk] Trump signals openness to Chinese automakers entering the U.S. market, ahead of his upcoming summit with Chinese President Xi Jinping.
@@ -304,3 +294,13 @@
 - 09/14 21:41 [DeItaone] SAUDI OIL PIPELINE COULD BE DOWN FOR WEEKS Saudi Arabia’s East-West oil pipeline could remain largely offline for 3–5 weeks following last week’s drone attack, AP reports. The pipeline can carry up to 7 million barrels per day to the Red Se…
 - 09/14 21:42 [DeItaone/FirstSquawk] U.S. CRUDE FUTURES EXTENDED GAINS TO HIT A SESSION HIGH OF $104.95/BBL, HIGHEST LEVEL SINCE MID MAY
 - 09/14 21:47 [financialjuice] Saudi oil pipeline hit in strikes will be mostly out of service for several weeks for repair
+- 09/14 21:55 [FirstSquawk] POLISH CABINET TO DISCUSS FUEL FIRMS WINDFALL TAX ON TUESDAY
+- 09/14 22:00 [financialjuice] Effective Fed Funds Rate 3.63% September 11 vs 3.63% September 10
+- 09/14 22:00 [FirstSquawk] NVIDIA EXPANDS OPEN SOURCE CUDA-Q PLATFORM WITH CUDA-Q LOGICAL
+- 09/14 22:01 [financialjuice] Nvidia expands the open-source CUDA-Q platform with CUDA-Q logical. $NVDA
+- 09/14 22:01 [FirstSquawk] THE EAST-WEST PIPELINE, WHICH RUNS ACROSS THE KINGDOM, IS KEY TO SAUDI ARABIA’S STRATEGY OF SHIFTING ITS OIL EXPORTS TO THE RED SEA TO AVOID THE PERSIAN GULF’S STRAIT OF HORMUZ, WHERE IRANIAN ATTACKS HAVE STIFLED SHIPPING. THE 1,200-KILOMET…
+- 09/14 22:01 [FirstSquawk] AN ATTACK THAT SAUDI ARABIA BLAMED ON DRONES FROM IRANIAN-BACKED MILITIAS IN IRAQ FORCED THE SHUTDOWN OF THE PIPELINE ON THURSDAY. || THE OFFICIALS, WHO HAVE BEEN BRIEFED ON THE MATTER, SAID REPAIRING THE DAMAGE COULD TAKE THREE TO FIVE WEE…
+- 09/14 22:02 [FirstSquawk] NETFLIX, AMAZON, YOUTUBE LAUNCH NEW STREAMING COALITION
+- 09/14 22:03 [financialjuice] Netflix, Amazon and Youtube launch new streaming coalition - Axios
+- 09/14 22:03 [FirstSquawk] MICROSOFT SETS LIMITS FOR FUTURE AI MODELS: CNBC
+- 09/14 22:03 [financialjuice] Nvidia, Palantir and Booz Allen to limit Anthropic model use - The Information

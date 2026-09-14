@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 21:50 JST／対象: 09/13 21:50 〜 09/14 21:50 JST（時刻はすべて日本時間）
+生成: 2026-09-14 22:03 JST／対象: 09/13 22:03 〜 09/14 22:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 43 | 09/13 22:04 | 09/14 21:42 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 284 | 09/13 21:57 | 09/14 21:47 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 151 | 09/13 22:10 | 09/14 21:47 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 288 | 09/13 22:46 | 09/14 22:03 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 155 | 09/13 22:10 | 09/14 22:03 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 469 行（統合前 478 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 477 行（統合前 486 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 21:57 [FirstSquawk] International Organization for Migration: Nearly 85,000 people have been forced to leave their homes due to fighting in Yemen, and about 2,000 have arrived in Djibouti.
-- 09/13 21:58 [FirstSquawk] Iranian President: BRICS group has announced its rejection of the policy of imposing unilateral sanctions and coercive measures against countries
 - 09/13 22:04 [DeItaone] IRAN, UAE AGREE TO “PUT THE PAST ASIDE” Iranian President Masoud Pezeshkian says talks with Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed were positive, following their meeting at the BRICS summit in New Delhi. Pezeshkian said …
 - 09/13 22:10 [financialjuice/FirstSquawk] Trump on Fed decision next week: says US should have lowest rates globally
 - 09/13 22:11 [financialjuice] Trump: $5,000 post-election promise should be easy for Congress
@@ -493,3 +491,13 @@
 - 09/14 21:41 [DeItaone] SAUDI OIL PIPELINE COULD BE DOWN FOR WEEKS Saudi Arabia’s East-West oil pipeline could remain largely offline for 3–5 weeks following last week’s drone attack, AP reports. The pipeline can carry up to 7 million barrels per day to the Red Se…
 - 09/14 21:42 [DeItaone/FirstSquawk] U.S. CRUDE FUTURES EXTENDED GAINS TO HIT A SESSION HIGH OF $104.95/BBL, HIGHEST LEVEL SINCE MID MAY
 - 09/14 21:47 [financialjuice] Saudi oil pipeline hit in strikes will be mostly out of service for several weeks for repair
+- 09/14 21:55 [FirstSquawk] POLISH CABINET TO DISCUSS FUEL FIRMS WINDFALL TAX ON TUESDAY
+- 09/14 22:00 [financialjuice] Effective Fed Funds Rate 3.63% September 11 vs 3.63% September 10
+- 09/14 22:00 [FirstSquawk] NVIDIA EXPANDS OPEN SOURCE CUDA-Q PLATFORM WITH CUDA-Q LOGICAL
+- 09/14 22:01 [financialjuice] Nvidia expands the open-source CUDA-Q platform with CUDA-Q logical. $NVDA
+- 09/14 22:01 [FirstSquawk] THE EAST-WEST PIPELINE, WHICH RUNS ACROSS THE KINGDOM, IS KEY TO SAUDI ARABIA’S STRATEGY OF SHIFTING ITS OIL EXPORTS TO THE RED SEA TO AVOID THE PERSIAN GULF’S STRAIT OF HORMUZ, WHERE IRANIAN ATTACKS HAVE STIFLED SHIPPING. THE 1,200-KILOMET…
+- 09/14 22:01 [FirstSquawk] AN ATTACK THAT SAUDI ARABIA BLAMED ON DRONES FROM IRANIAN-BACKED MILITIAS IN IRAQ FORCED THE SHUTDOWN OF THE PIPELINE ON THURSDAY. || THE OFFICIALS, WHO HAVE BEEN BRIEFED ON THE MATTER, SAID REPAIRING THE DAMAGE COULD TAKE THREE TO FIVE WEE…
+- 09/14 22:02 [FirstSquawk] NETFLIX, AMAZON, YOUTUBE LAUNCH NEW STREAMING COALITION
+- 09/14 22:03 [financialjuice] Netflix, Amazon and Youtube launch new streaming coalition - Axios
+- 09/14 22:03 [FirstSquawk] MICROSOFT SETS LIMITS FOR FUTURE AI MODELS: CNBC
+- 09/14 22:03 [financialjuice] Nvidia, Palantir and Booz Allen to limit Anthropic model use - The Information

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 21:50 JST／対象: 09/14 15:50 〜 09/14 21:50 JST（時刻はすべて日本時間）
+生成: 2026-09-14 22:03 JST／対象: 09/14 16:03 〜 09/14 22:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/14 16:28 | 09/14 21:42 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 70 | 09/14 15:50 | 09/14 21:47 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 53 | 09/14 16:02 | 09/14 21:47 | ⚠ 53分（17:16→18:10） |
+| FirstSquawk | 75 | 09/14 16:41 | 09/14 22:03 | 18分（20:12→20:31） |
+| financialjuice | 56 | 09/14 16:29 | 09/14 22:03 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 141 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 149 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 15:50 [FirstSquawk] Chinese traders are closely watching the upcoming Xi-Trump meeting, with expectations around the talks shaping sentiment and adding uncertainty for China’s stock market.
-- 09/14 16:02 [financialjuice] Currency Strength Chart: Strongest: USD, CAD, GBP, CHF, EUR, AUD, GBP, NZD - Weakest
 - 09/14 16:28 [DeItaone] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
 - 09/14 16:29 [financialjuice] Iran's foreign ministry spokesperson: Saudi Arabia insisted for meeting between Tehran and Gulf powers in Oman not to take place
 - 09/14 16:38 [financialjuice] Iran's Foreign Ministry Spokesperson: Reports about nuclear activity in Iran's Pickaxe mountain (kolang kouh) are baseless.
@@ -165,3 +163,13 @@
 - 09/14 21:41 [DeItaone] SAUDI OIL PIPELINE COULD BE DOWN FOR WEEKS Saudi Arabia’s East-West oil pipeline could remain largely offline for 3–5 weeks following last week’s drone attack, AP reports. The pipeline can carry up to 7 million barrels per day to the Red Se…
 - 09/14 21:42 [DeItaone/FirstSquawk] U.S. CRUDE FUTURES EXTENDED GAINS TO HIT A SESSION HIGH OF $104.95/BBL, HIGHEST LEVEL SINCE MID MAY
 - 09/14 21:47 [financialjuice] Saudi oil pipeline hit in strikes will be mostly out of service for several weeks for repair
+- 09/14 21:55 [FirstSquawk] POLISH CABINET TO DISCUSS FUEL FIRMS WINDFALL TAX ON TUESDAY
+- 09/14 22:00 [financialjuice] Effective Fed Funds Rate 3.63% September 11 vs 3.63% September 10
+- 09/14 22:00 [FirstSquawk] NVIDIA EXPANDS OPEN SOURCE CUDA-Q PLATFORM WITH CUDA-Q LOGICAL
+- 09/14 22:01 [financialjuice] Nvidia expands the open-source CUDA-Q platform with CUDA-Q logical. $NVDA
+- 09/14 22:01 [FirstSquawk] THE EAST-WEST PIPELINE, WHICH RUNS ACROSS THE KINGDOM, IS KEY TO SAUDI ARABIA’S STRATEGY OF SHIFTING ITS OIL EXPORTS TO THE RED SEA TO AVOID THE PERSIAN GULF’S STRAIT OF HORMUZ, WHERE IRANIAN ATTACKS HAVE STIFLED SHIPPING. THE 1,200-KILOMET…
+- 09/14 22:01 [FirstSquawk] AN ATTACK THAT SAUDI ARABIA BLAMED ON DRONES FROM IRANIAN-BACKED MILITIAS IN IRAQ FORCED THE SHUTDOWN OF THE PIPELINE ON THURSDAY. || THE OFFICIALS, WHO HAVE BEEN BRIEFED ON THE MATTER, SAID REPAIRING THE DAMAGE COULD TAKE THREE TO FIVE WEE…
+- 09/14 22:02 [FirstSquawk] NETFLIX, AMAZON, YOUTUBE LAUNCH NEW STREAMING COALITION
+- 09/14 22:03 [financialjuice] Netflix, Amazon and Youtube launch new streaming coalition - Axios
+- 09/14 22:03 [FirstSquawk] MICROSOFT SETS LIMITS FOR FUTURE AI MODELS: CNBC
+- 09/14 22:03 [financialjuice] Nvidia, Palantir and Booz Allen to limit Anthropic model use - The Information
