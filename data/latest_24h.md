@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 00:19 JST／対象: 09/14 00:19 〜 09/15 00:19 JST（時刻はすべて日本時間）
+生成: 2026-09-15 00:36 JST／対象: 09/14 00:36 〜 09/15 00:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 09/14 01:15 | 09/15 00:09 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 320 | 09/14 00:20 | 09/15 00:09 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 191 | 09/14 02:46 | 09/15 00:16 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 53 | 09/14 01:15 | 09/15 00:34 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 321 | 09/14 00:43 | 09/15 00:33 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 199 | 09/14 02:46 | 09/15 00:33 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 543 行（統合前 562 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 555 行（統合前 576 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning alert issued in Khamis Mushait Governorate to warn of danger
-- 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning activated in Abha city to warn of danger
-- 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning activated in Khamis Mushait and Abha to warn of danger
 - 09/14 00:43 [FirstSquawk] Civil Defense in Gaza: We have recovered the remains of 17 martyrs from under the rubble of homes destroyed by the Israeli occupation in the Gaza and Central governorates.
 - 09/14 00:44 [FirstSquawk] International Organization for Migration: 100,000 displaced in 7 months from areas in Blue Nile, southeastern Sudan, following escalating clashes
 - 09/14 01:12 [FirstSquawk] Lebanese media: Israeli airstrike targets Qantara in southern Lebanon
@@ -562,8 +559,23 @@
 - 09/15 00:09 [DeItaone] ANTHROPIC'S AMODEI, OPENAI'S ALTMAN SPOKE WITH U.S. SENATOR MARK WARNER OVER THE WEEKEND ABOUT AI RISKS - SENATE SPOKESPERSON
 - 09/15 00:09 [financialjuice] Nvidia: Perplexity local agent platform now available on Windows RTX PCs. $NVDA $MSFT
 - 09/15 00:09 [FirstSquawk] TRUMP: UKRAINE HAS AGREED NOT TO HIT RUSSIAN ENERGY TARGETS. RUSSIA HAS AGREED TO DO, LIKEWISE! THE WORLD’S DIESEL PRICE RISE IS MOSTLY CAUSED BY THE RUSSIA/UKRAINE WAR, NOT IRAN. PRESIDENT DJT
-- 09/15 00:15 [financialjuice] ECB's President Lagarde: Europe must also build AI infrasctucture itself.
-- 09/15 00:16 [financialjuice] ECB's President Lagarde: Europe can’t simply import AI technologies from US.
+- 09/15 00:15 [financialjuice/FirstSquawk] ECB's President Lagarde: Europe must also build AI infrasctucture itself.
+- 09/15 00:16 [financialjuice/FirstSquawk] ECB's President Lagarde: Europe can’t simply import AI technologies from US.
 - 09/15 00:16 [financialjuice] Fed bids for 6-Month bills total $7.1 bln
 - 09/15 00:16 [financialjuice] Fed bids for 3-Month bills total $8.2 bln
 - 09/15 00:16 [financialjuice] ECB's President Lagarde's Speech on 'A new age of capital: growth, sovereignty and AI'
+- 09/15 00:24 [financialjuice] Trump on AI/Data Centers: Don’t kill the Golden Goose - Truth Social
+- 09/15 00:24 [DeItaone] TRUMP: “DON’T KILL THE GOLDEN GOOSE” President Trump says America’s AI and data center boom is happening because the U.S. holds a commanding global lead. He urged against measures that could slow the industry’s expansion, warning policymake…
+- 09/15 00:25 [FirstSquawk] TRUMP: THE ONLY REASON THE AI/DATA CENTER OUTBURST IS HAPPENING IS BECAUSE THE UNITED STATES IS LEADING, BY A LOT, EVERY OTHER COUNTRY. DON’T KILL THE GOLDEN GOOSE! PRESIDENT DONALD J. TRUMP
+- 09/15 00:29 [DeItaone] AI BOOM SET TO SUPERCHARGE U.S. GAS DEMAND U.S. data centers could add 15 Bcf/d of natural gas demand by 2035, more than double BNEF’s previous forecast. Gas is expected to supply 69% of new grid-connected data center power, while LNG expor…
+- 09/15 00:32 [financialjuice] US 6-MONTH BILL BID-TO-COVER ACTUAL 2.74 (FORECAST -, PREVIOUS 2.880) $MACRO
+- 09/15 00:32 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 4.06% (FORECAST -, PREVIOUS 3.890%) $MACRO
+- 09/15 00:32 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 3.97% (FORECAST -, PREVIOUS 3.800%) $MACRO
+- 09/15 00:32 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.64 (FORECAST -, PREVIOUS 2.610) $MACRO
+- 09/15 00:32 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 82.500% (FORECAST -, PREVIOUS 79.100%) $MACRO
+- 09/15 00:32 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 13.860% (FORECAST -, PREVIOUS 20.330%) $MACRO
+- 09/15 00:33 [FirstSquawk] TRUMP: THE FAILING NATION OF IRAN WANTS TO MAKE A DEAL, QUICKLY AND BADLY. I WILL DETERMINE WHETHER OR NOT THE U.S.A. WILL CHOOSE TO ENGAGE - THE CONCEPT OF WHICH WE ARE OPEN TO. THANK YOU FOR YOUR ATTENTION TO THIS MATTER! PRESIDENT DONALD…
+- 09/15 00:33 [financialjuice] ❗ Trump: Iran wants to make a deal. I will determine whether or not we engage with Iran, which we are open to.
+- 09/15 00:34 [DeItaone] TRUMP OPEN TO IRAN DEAL President Trump says Iran wants to reach a deal “quickly and badly,” signaling the U.S. remains open to negotiations. Trump said he will decide whether Washington engages, leaving the door open to a potential diploma…
+- 09/15 00:34 [DeItaone] TRUMP ON IRAN: IRAN WANTS TO MAKE A DEAL, QUICKLY AND BADLY
+- 09/15 00:34 [DeItaone] TRUMP ON IRAN: WILL DETERMINE WHETHER OR NOT U.S.A. WILL CHOOSE TO ENGAGE, CONCEPT OF WHICH WE ARE OPEN TO
