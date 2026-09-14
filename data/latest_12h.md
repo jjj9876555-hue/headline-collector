@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 08:04 JST／対象: 09/14 20:04 〜 09/15 08:04 JST（時刻はすべて日本時間）
+生成: 2026-09-15 08:22 JST／対象: 09/14 20:22 〜 09/15 08:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 09/14 20:05 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 149 | 09/14 20:05 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
+| DeItaone | 37 | 09/14 20:51 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
+| FirstSquawk | 146 | 09/14 20:31 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
 | financialjuice | 169 | 09/14 20:30 | 09/15 07:55 | 34分（05:17→05:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 334 行（統合前 360 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 330 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 20:05 [FirstSquawk] GERMANY PLANS TO ADVOCATE FOR A NEW CHINA POLICY WITH THE EU AND MAY PURSUE INCREASED TARIFFS.
-- 09/14 20:05 [DeItaone] *GERMANY TO LOBBY EU ON NEW CHINA POLICY, MAY SEEK MORE TARIFFS
-- 09/14 20:09 [FirstSquawk] US ENERGY SEC WRIGHT: REFINING CAPACITY HELD BACK BY CHINA COULD RETURN
-- 09/14 20:12 [FirstSquawk] CITIGROUP EXPECTS BOE TO HIKE INTEREST RATES BY 25 BPS EACH IN Q4 2026 AND Q1 2027 VS PRIOR FORECAST OF RATES ON HOLD UNTIL Q2 2027
 - 09/14 20:30 [financialjuice] Intel-backed buildots raises $130M for AI in construction
 - 09/14 20:31 [FirstSquawk] 5.6 MAGNITUDE EARTHQUAKE OCCURS 78 KM NORTH-NORTHEAST OF TOBELO, INDONESIA, ACCORDING TO USGS.
 - 09/14 20:32 [financialjuice] UK's PM Starmer's Spokesman Wells: The PM thinks its good AI companies are being open about risks

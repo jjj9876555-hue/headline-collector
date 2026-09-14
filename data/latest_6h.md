@@ -7,34 +7,28 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 08:04 JST／対象: 09/15 02:04 〜 09/15 08:04 JST（時刻はすべて日本時間）
+生成: 2026-09-15 08:22 JST／対象: 09/15 02:22 〜 09/15 08:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/15 02:25 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
 | FirstSquawk | 58 | 09/15 02:27 | 09/15 07:07 | 22分（02:58→03:21） |
-| financialjuice | 57 | 09/15 02:09 | 09/15 07:55 | 34分（05:17→05:51） |
+| financialjuice | 50 | 09/15 02:29 | 09/15 07:55 | 34分（05:17→05:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 116 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 110 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 02:09 [financialjuice] Bank of America CEO Brian Moynihan: Consumer credit quality is good.
-- 09/15 02:12 [financialjuice] Apple: new child protection tools now available in iOS 27, iPadOS 27, macOS 27
-- 09/15 02:13 [financialjuice] Apple launches Siri AI with personal context awareness. $AAPL
-- 09/15 02:14 [financialjuice] Apple: Siri AI, Apple intelligence not accessible in China due to regulatory demands
-- 09/15 02:17 [financialjuice/FirstSquawk] Egyptian Presidential Office announced that Crown Prince Bin Salman of Saudi Arabia will be visiting Cairo tomorrow - Tasnim News
-- 09/15 02:20 [financialjuice] BofA CEO: Sales and trading 'relatively flat' to 3Q last year. $BAC
-- 09/15 02:21 [financialjuice] Trump: $5,000 Trump Dividend, to be given to all adults in the US - Truth Social
 - 09/15 02:25 [DeItaone] 🇺🇸 DEMS TAKE THE LEAD IN THE RACE FOR SENATE CONTROL Kalshi now puts Democrats at 51% vs. Republicans at 49%, as the battle for the Senate remains a true toss-up heading into November. https://t.co/D1o3O0u6JK https://t.co/ZtA7ADzz5G
 - 09/15 02:27 [FirstSquawk] TRUMP: WILL PROVIDE $5,000 DIVIDEND TO ALL US ADULTS - TSL VIA DBNEWS
 - 09/15 02:27 [FirstSquawk] DONALD TRUMP CLAIMS RUSSIA AND UKRAINE HAVE AGREED ENERGY TRUCE – FT
 - 09/15 02:29 [financialjuice/FirstSquawk] US House Speaker Johnson: Meeting with AI execs end of this week or early next.
+- 09/15 02:29 [FirstSquawk] EGYPTIAN PRESIDENTIAL OFFICE ANNOUNCED THAT CROWN PRINCE BIN SALMAN OF SAUDI ARABIA WILL BE VISITING CAIRO TOMORROW - TASNIM NEWS
 - 09/15 02:29 [FirstSquawk] US SENATORS DEBATING REQUIRING AL GIANTS TO COMMIT TO PREVENTING CATASTROPHE - SENATE AIDE AND LOBBYIST.
 - 09/15 02:31 [FirstSquawk] APPLE HAS LAUNCHED SIRI AI WITH PERSONAL CONTEXT AWARENESS, THOUGH IT SAYS SIRI AI AND APPLE INTELLIGENCE ARE NOT ACCESSIBLE IN CHINA DUE TO REGULATORY DEMANDS.
 - 09/15 02:31 [FirstSquawk] APPLE SAYS NEW CHILD PROTECTION TOOLS ARE NOW AVAILABLE IN IOS 27, IPADOS 27 AND MACOS 27.
