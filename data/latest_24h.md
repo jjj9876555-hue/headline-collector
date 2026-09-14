@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 06:44 JST／対象: 09/14 06:44 〜 09/15 06:44 JST（時刻はすべて日本時間）
+生成: 2026-09-15 06:59 JST／対象: 09/14 06:59 〜 09/15 06:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 08:03 | 09/15 05:37 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 345 | 09/14 06:48 | 09/15 06:40 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 247 | 09/14 06:54 | 09/15 06:32 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 344 | 09/14 07:01 | 09/15 06:40 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 246 | 09/14 07:00 | 09/15 06:32 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 619 行（統合前 650 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 618 行（統合前 648 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 06:48 [FirstSquawk] HOUSE SPEAKER MIKE JOHNSON SAYS TRUMP’S PROPOSED $5,000 PAYMENT FOR EVERY AMERICAN ADULT WOULD REQUIRE CONGRESSIONAL APPROVAL, WHILE TRUMP INSISTS THE PLAN WILL HAPPEN “100%.” THE PROPOSAL COULD COST MORE THAN $1 TRILLION, ADDING TO THE U.S…
-- 09/14 06:54 [financialjuice/FirstSquawk] Elon Musk: highly confident SpaceX will launch Nvidia VR NLV72 AI computers in space next year - X post
 - 09/14 07:00 [financialjuice] Sweden Social Democrats leader Andersson: currently leading, new government likely if results hold
 - 09/14 07:01 [FirstSquawk] BRENT CRUDE RISES 2.4% AFTER A SAUDI PIPELINE SHUTDOWN AND DELAYED HORMUZ SHIPPING TALKS RAISE CONCERNS OVER GLOBAL OIL SUPPLIES.
 - 09/14 07:06 [financialjuice] Shenzhen forms Syntron Information: 59 million H shares offered globally
@@ -34,6 +32,7 @@
 - 09/14 07:06 [financialjuice] Ligent Technologies announces offer price under global offering at HK$32.96 per share
 - 09/14 07:06 [financialjuice] Ligent Technologies: global offering includes 154.8 million international shares
 - 09/14 07:07 [financialjuice] Shenzhen forms Syntron Information with 53.1 million international H-share offer
+- 09/14 07:17 [FirstSquawk] ELON MUSK: HIGHLY CONFIDENT SPACEX WILL LAUNCH NVIDIA VR NLV72 AI COMPUTERS IN SPACE NEXT YEAR - X POST
 - 09/14 07:18 [FirstSquawk] SHENZHEN-BASED SYNTRON INFORMATION PLANS A GLOBAL OFFERING OF 59 MILLION H SHARES, WITH A MAXIMUM OFFER PRICE OF HK$16.00 PER H SHARE. THE OFFERING INCLUDES 53.1 MILLION INTERNATIONAL H SHARES, AS THE COMPANY MOVES FORWARD WITH ITS GLOBAL L…
 - 09/14 07:19 [FirstSquawk] US STOCK FUTURES FALL AS AI DEVELOPMENT CONCERNS AND HOTTER-THAN-EXPECTED INFLATION WEIGH ON SENTIMENT, WITH NASDAQ 100 FUTURES DOWN 1.2% AND S&P 500 FUTURES OFF 0.6%.
 - 09/14 07:19 [FirstSquawk] BRENT CRUDE JUMPS 2.8% TO $107.55 AFTER SAUDI ARABIA SHUT A KEY OIL PIPELINE FOLLOWING DRONE ATTACKS, WHILE DELAYED HORMUZ TALKS AND RISING INFLATION BOOST BETS ON A FED RATE HIKE WEDNESDAY.

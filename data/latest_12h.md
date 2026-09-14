@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 06:44 JST／対象: 09/14 18:44 〜 09/15 06:44 JST（時刻はすべて日本時間）
+生成: 2026-09-15 06:59 JST／対象: 09/14 18:59 〜 09/15 06:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 43 | 09/14 19:24 | 09/15 05:37 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 161 | 09/14 18:50 | 09/15 06:40 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 171 | 09/14 18:48 | 09/15 06:32 | 34分（05:17→05:51） |
+| FirstSquawk | 157 | 09/14 19:03 | 09/15 06:40 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 167 | 09/14 19:06 | 09/15 06:32 | 34分（05:17→05:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 350 行（統合前 379 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 343 行（統合前 371 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 18:48 [financialjuice] Poll: Fed to hike Fed funds rate to 3.75%-4.00% on September 16th - 86 of 101 economists (vs 65 of 93 expecting a hold in the Sept 9th poll)
-- 09/14 18:48 [financialjuice] Poll: Fed to hike fed funds rate at least twice by the end of March 2027 - 37 of 70 economists (vs 21 of 82 economists in September 9th poll)
-- 09/14 18:49 [financialjuice/FirstSquawk] ECB's Schnabel: Recent energy-price developments are “quite concerning"
-- 09/14 18:52 [financialjuice] Kremlin welcomes Trump's call to stop striking refineries - IFX
-- 09/14 18:52 [FirstSquawk] KREMLIN ON TRUMP'S CALL FOR UKRAINE TO STOP ATTACKS ON RUSSIAN ENERGY INFRASTRUCTURE: SITUATION IN GLOBAL ENERGY MARKETS IS WORSENING MAINLY DUE TO INSTABILITY IN MIDDLE EAST
-- 09/14 18:53 [FirstSquawk] KREMLIN: INDIA MODI, CHINA'S XI TOLD PUTIN AT BRICS SUMMIT THEY ARE READY TO PLAY ROLE IN UKRAINE CONFLICT SETTLEMENT, THIS WAS POSITIVELY RECEIVED BY PUTIN
-- 09/14 18:55 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: WE AIM TO ORDER A FOURTH NEW SIGNALS INTELLIGENCE SHIP, THE ORDER IS ON ITS WAY TO PARLIAMENT
 - 09/14 19:03 [FirstSquawk] TD LAUNCHES $150 BILLION FIVE-YEAR COMMITMENT TO ACCELERATE CANADA'S INVESTMENT SUPERCYCLE
 - 09/14 19:06 [financialjuice] Japan cabinet approval rating unchanged at 53% - NHK Poll
 - 09/14 19:08 [FirstSquawk] USD/JPY EXTENDS GAINS, RISES 0.7% TO ONE-WEEK HIGH AT 154.74
