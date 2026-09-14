@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 00:53 JST／対象: 09/14 12:53 〜 09/15 00:53 JST（時刻はすべて日本時間）
+生成: 2026-09-15 01:17 JST／対象: 09/14 13:17 〜 09/15 01:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 44 | 09/14 16:28 | 09/15 00:34 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 179 | 09/14 12:56 | 09/15 00:52 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 140 | 09/14 14:07 | 09/15 00:46 | ⚠ 53分（17:16→18:10） |
+| FirstSquawk | 183 | 09/14 13:18 | 09/15 01:09 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 146 | 09/14 14:07 | 09/15 01:13 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 347 行（統合前 366 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 357 行（統合前 376 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 12:56 [FirstSquawk] Oil holds onto its opening gains in Asia, keeping energy markets elevated as traders assess the latest supply and geopolitical risks.
-- 09/14 13:05 [FirstSquawk] A Hong Kong lawmaker says Apple should bear responsibility for card fraud involving iPhones, putting fresh scrutiny on the tech giant’s role in consumer payment security.
-- 09/14 13:12 [FirstSquawk] OMANI ENERGY MINISTER: STRAIT OF HORMUZ WILL REOPEN; CURRENT DISRUPTION LIKELY TO BE SHORT-LIVED.
-- 09/14 13:13 [FirstSquawk] The U.S.-backed Luzon corridor in the Philippines is facing growing scrutiny, with questions emerging over whether the initiative is delivering meaningful benefits to local communities.
 - 09/14 13:18 [FirstSquawk] AI-linked stocks tumble in early Asian trading after leaders of major frontier AI companies warn that development may need to slow to limit potential risks to humanity as per reuters
 - 09/14 13:29 [FirstSquawk] Okinawa governor-elect Koja secures more than 400,000 votes, setting a new record in the prefecture’s gubernatorial election.
 - 09/14 13:33 [FirstSquawk] JAPAN INDUSTRIAL PRODUCTION (Y/Y): 3.9% (PREV 4.1%)
@@ -371,3 +367,17 @@
 - 09/15 00:52 [FirstSquawk] ABBOTT WILL PAY MORE THAN $384 MILLION TO RESOLVE CLAIMS ABOUT CONTAMINATED INFANT FORMULA, ACCORDING TO THE DOJ.
 - 09/15 00:52 [FirstSquawk] BP WILL EXECUTE SCHEDULED OPERATIONS AT WHITING REFINERY, RUNNING AT 440,000 BARRELS PER DAY IN THE COMING DAYS.
 - 09/15 00:52 [FirstSquawk] EU EXTENDS SANCTIONS ON RUSSIAN INDIVIDUALS FOR ONE WEEK, NOW UNTIL SEPTEMBER 22.
+- 09/15 00:58 [FirstSquawk] EU NATIONS AIM TO REQUEST ADDITIONAL FREE CARBON PERMITS FOR INDUSTRY.
+- 09/15 00:58 [FirstSquawk] KLINGBEIL HAD PRODUCTIVE DISCUSSIONS WITH UNICREDIT'S ORCEL.
+- 09/15 00:59 [FirstSquawk] KLINGBEIL STATED THAT FUTURE TALKS WITH COMMERZBANK NEED TO BE CONDUCTED RESPONSIBLY.
+- 09/15 00:59 [FirstSquawk] KLINGBEIL CONFIRMS GERMANY SUPPORTS 40,000 COMMERZBANK EMPLOYEES.
+- 09/15 01:02 [FirstSquawk] ANTHROPIC INTRODUCES CLAUDE AIMED AT FINANCIAL ADVISERS.
+- 09/15 01:02 [FirstSquawk] CLAUDE IS NOW AVAILABLE FOR FINANCIAL ADVISORS.
+- 09/15 01:02 [FirstSquawk] CLAUDE CONNECTS WITH SCHWAB, BLACKROCK, ADDEPAR, AND ORION.
+- 09/15 01:09 [financialjuice] Zelenskyy: Ukraine proposed partners secure agreement with Russia
+- 09/15 01:09 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE SUGGESTED PARTNERS TO REACH A DEAL WITH RUSSIA.
+- 09/15 01:11 [financialjuice] Ukraine’s President Zelenskiy: Ukraine would agree on energy truce if Russia does.
+- 09/15 01:12 [financialjuice] Ukraine’s President Zelenskiy: Ukraine proposed that its partners secure an agreement with Russia that would stop the destruction of critical infrastructure.
+- 09/15 01:13 [financialjuice] Ukraine’s President Zelenskiy: Ukraine ready to ensure a corresponding halt to our strikes.
+- 09/15 01:13 [financialjuice] EU kids act draft calls for fines of up to 6% of global revenue.
+- 09/15 01:13 [financialjuice] Ukraine’s President Zelenskiy: Ukraine is not convinced that Russia is willing to abide by any agreement.

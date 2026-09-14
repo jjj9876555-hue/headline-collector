@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 00:53 JST／対象: 09/14 00:53 〜 09/15 00:53 JST（時刻はすべて日本時間）
+生成: 2026-09-15 01:17 JST／対象: 09/14 01:17 〜 09/15 01:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 09/14 01:15 | 09/15 00:34 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 322 | 09/14 01:12 | 09/15 00:52 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 203 | 09/14 02:46 | 09/15 00:46 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 50 | 09/14 02:20 | 09/15 00:34 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 329 | 09/14 01:56 | 09/15 01:09 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 209 | 09/14 02:46 | 09/15 01:13 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 560 行（統合前 581 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 570 行（統合前 591 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 01:12 [FirstSquawk] Lebanese media: Israeli airstrike targets Qantara in southern Lebanon
-- 09/14 01:15 [DeItaone] HASSETT SAYS WHITE HOUSE WILL BACK FED DECISION White House economic adviser Kevin Hassett says the administration will “100% support” whatever Fed Chair Kevin Warsh and the committee decide on rates this week. Still, Hassett said he and Pr…
-- 09/14 01:16 [DeItaone] ANTHROPIC HAS CHOSEN THE NASDAQ FOR ITS IPO LISTING- BUSINESS INSIDER
-- 09/14 01:17 [DeItaone] ANTHROPIC PICKS NASDAQ FOR POTENTIAL $2 TRILLION IPO Anthropic has selected Nasdaq for its potential IPO, according to a person familiar with the company’s plans, as it targets an October listing. Some estimates have valued Anthropic at as …
 - 09/14 01:56 [FirstSquawk] Saudi civil defence warns of potential risk: Emergency alert issued in Saudi Arabia's Khamis Mushait and Abha
 - 09/14 01:57 [FirstSquawk] Saudi civil defence: Danger has passed in Saudi Arabia's Khamis Mushait
 - 09/14 01:57 [FirstSquawk] Saudi Civil Defence: Danger has passed in Saudi Arabia’s Abha
@@ -584,3 +580,17 @@
 - 09/15 00:52 [FirstSquawk] ABBOTT WILL PAY MORE THAN $384 MILLION TO RESOLVE CLAIMS ABOUT CONTAMINATED INFANT FORMULA, ACCORDING TO THE DOJ.
 - 09/15 00:52 [FirstSquawk] BP WILL EXECUTE SCHEDULED OPERATIONS AT WHITING REFINERY, RUNNING AT 440,000 BARRELS PER DAY IN THE COMING DAYS.
 - 09/15 00:52 [FirstSquawk] EU EXTENDS SANCTIONS ON RUSSIAN INDIVIDUALS FOR ONE WEEK, NOW UNTIL SEPTEMBER 22.
+- 09/15 00:58 [FirstSquawk] EU NATIONS AIM TO REQUEST ADDITIONAL FREE CARBON PERMITS FOR INDUSTRY.
+- 09/15 00:58 [FirstSquawk] KLINGBEIL HAD PRODUCTIVE DISCUSSIONS WITH UNICREDIT'S ORCEL.
+- 09/15 00:59 [FirstSquawk] KLINGBEIL STATED THAT FUTURE TALKS WITH COMMERZBANK NEED TO BE CONDUCTED RESPONSIBLY.
+- 09/15 00:59 [FirstSquawk] KLINGBEIL CONFIRMS GERMANY SUPPORTS 40,000 COMMERZBANK EMPLOYEES.
+- 09/15 01:02 [FirstSquawk] ANTHROPIC INTRODUCES CLAUDE AIMED AT FINANCIAL ADVISERS.
+- 09/15 01:02 [FirstSquawk] CLAUDE IS NOW AVAILABLE FOR FINANCIAL ADVISORS.
+- 09/15 01:02 [FirstSquawk] CLAUDE CONNECTS WITH SCHWAB, BLACKROCK, ADDEPAR, AND ORION.
+- 09/15 01:09 [financialjuice] Zelenskyy: Ukraine proposed partners secure agreement with Russia
+- 09/15 01:09 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE SUGGESTED PARTNERS TO REACH A DEAL WITH RUSSIA.
+- 09/15 01:11 [financialjuice] Ukraine’s President Zelenskiy: Ukraine would agree on energy truce if Russia does.
+- 09/15 01:12 [financialjuice] Ukraine’s President Zelenskiy: Ukraine proposed that its partners secure an agreement with Russia that would stop the destruction of critical infrastructure.
+- 09/15 01:13 [financialjuice] Ukraine’s President Zelenskiy: Ukraine ready to ensure a corresponding halt to our strikes.
+- 09/15 01:13 [financialjuice] EU kids act draft calls for fines of up to 6% of global revenue.
+- 09/15 01:13 [financialjuice] Ukraine’s President Zelenskiy: Ukraine is not convinced that Russia is willing to abide by any agreement.

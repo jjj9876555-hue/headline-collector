@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 00:53 JST／対象: 09/14 18:53 〜 09/15 00:53 JST（時刻はすべて日本時間）
+生成: 2026-09-15 01:17 JST／対象: 09/14 19:17 〜 09/15 01:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 34 | 09/14 19:24 | 09/15 00:34 | ⚠ 48分（22:11→23:00） |
-| FirstSquawk | 91 | 09/14 18:55 | 09/15 00:52 | 18分（20:12→20:31） |
-| financialjuice | 98 | 09/14 19:06 | 09/15 00:46 | 28分（20:02→20:30） |
+| FirstSquawk | 95 | 09/14 19:27 | 09/15 01:09 | 18分（20:12→20:31） |
+| financialjuice | 103 | 09/14 19:22 | 09/15 01:13 | 28分（20:02→20:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 209 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 218 行（統合前 235 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 18:55 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: WE AIM TO ORDER A FOURTH NEW SIGNALS INTELLIGENCE SHIP, THE ORDER IS ON ITS WAY TO PARLIAMENT
-- 09/14 19:03 [FirstSquawk] TD LAUNCHES $150 BILLION FIVE-YEAR COMMITMENT TO ACCELERATE CANADA'S INVESTMENT SUPERCYCLE
-- 09/14 19:06 [financialjuice] Japan cabinet approval rating unchanged at 53% - NHK Poll
-- 09/14 19:08 [FirstSquawk] USD/JPY EXTENDS GAINS, RISES 0.7% TO ONE-WEEK HIGH AT 154.74
-- 09/14 19:12 [FirstSquawk] EU'S VON DER LEYEN TO PRESENT 'EU KIDS ACT' ON THURSDAY
 - 09/14 19:22 [financialjuice/DeItaone] Reports of ammonia gas leak in Jordan's Aqaba industrial complex - State TV
 - 09/14 19:27 [FirstSquawk] EU COMMISSION SPOX: EU IS IN FAVOUR OF INNOVATIVE AI SERVICES, BUT WON'T COMPROMISE ON SAFETY, COMPANIES HAVE TO PROVE SAFETY FOR CITIZENS
 - 09/14 19:37 [financialjuice] ECB's Stournaras: Timely ECB steps limit risk of painful hikes later
@@ -233,3 +228,17 @@
 - 09/15 00:52 [FirstSquawk] ABBOTT WILL PAY MORE THAN $384 MILLION TO RESOLVE CLAIMS ABOUT CONTAMINATED INFANT FORMULA, ACCORDING TO THE DOJ.
 - 09/15 00:52 [FirstSquawk] BP WILL EXECUTE SCHEDULED OPERATIONS AT WHITING REFINERY, RUNNING AT 440,000 BARRELS PER DAY IN THE COMING DAYS.
 - 09/15 00:52 [FirstSquawk] EU EXTENDS SANCTIONS ON RUSSIAN INDIVIDUALS FOR ONE WEEK, NOW UNTIL SEPTEMBER 22.
+- 09/15 00:58 [FirstSquawk] EU NATIONS AIM TO REQUEST ADDITIONAL FREE CARBON PERMITS FOR INDUSTRY.
+- 09/15 00:58 [FirstSquawk] KLINGBEIL HAD PRODUCTIVE DISCUSSIONS WITH UNICREDIT'S ORCEL.
+- 09/15 00:59 [FirstSquawk] KLINGBEIL STATED THAT FUTURE TALKS WITH COMMERZBANK NEED TO BE CONDUCTED RESPONSIBLY.
+- 09/15 00:59 [FirstSquawk] KLINGBEIL CONFIRMS GERMANY SUPPORTS 40,000 COMMERZBANK EMPLOYEES.
+- 09/15 01:02 [FirstSquawk] ANTHROPIC INTRODUCES CLAUDE AIMED AT FINANCIAL ADVISERS.
+- 09/15 01:02 [FirstSquawk] CLAUDE IS NOW AVAILABLE FOR FINANCIAL ADVISORS.
+- 09/15 01:02 [FirstSquawk] CLAUDE CONNECTS WITH SCHWAB, BLACKROCK, ADDEPAR, AND ORION.
+- 09/15 01:09 [financialjuice] Zelenskyy: Ukraine proposed partners secure agreement with Russia
+- 09/15 01:09 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE SUGGESTED PARTNERS TO REACH A DEAL WITH RUSSIA.
+- 09/15 01:11 [financialjuice] Ukraine’s President Zelenskiy: Ukraine would agree on energy truce if Russia does.
+- 09/15 01:12 [financialjuice] Ukraine’s President Zelenskiy: Ukraine proposed that its partners secure an agreement with Russia that would stop the destruction of critical infrastructure.
+- 09/15 01:13 [financialjuice] Ukraine’s President Zelenskiy: Ukraine ready to ensure a corresponding halt to our strikes.
+- 09/15 01:13 [financialjuice] EU kids act draft calls for fines of up to 6% of global revenue.
+- 09/15 01:13 [financialjuice] Ukraine’s President Zelenskiy: Ukraine is not convinced that Russia is willing to abide by any agreement.
