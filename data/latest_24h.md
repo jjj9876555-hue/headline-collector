@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 13:36 JST／対象: 09/13 13:36 〜 09/14 13:36 JST（時刻はすべて日本時間）
+生成: 2026-09-14 13:53 JST／対象: 09/13 13:53 〜 09/14 13:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 272 | 09/13 13:40 | 09/14 13:33 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 95 | 09/13 13:41 | 09/14 12:52 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 273 | 09/13 13:57 | 09/14 13:50 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 94 | 09/13 14:08 | 09/14 12:52 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 386 行（統合前 392 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 13:40 [FirstSquawk] German defence start-up turns to automakers for support as Europe accelerates efforts to rebuild and expand its military strength. The push reflects growing demand for industrial capacity as European nations step up defence spending and rea…
-- 09/13 13:41 [financialjuice] Iranian commercial ship hit near Qeshm Island: one dead and three injured - state TV
-- 09/13 13:42 [FirstSquawk] Commercial vessel incident near Iran’s Qeshm Island leaves one dead and three injured
-- 09/13 13:51 [FirstSquawk] Patient records from UK general practices have been added to Palantir’s NHS data platform without public attention. The development raises fresh questions over how sensitive health information is being integrated, managed and accessed acros…
 - 09/13 13:57 [FirstSquawk] Anthropic CEO urges a slower pace of AI development as concerns mount over the potential risks of superintelligent systems. The warning highlights growing industry debate over whether AI progress is moving faster than safety measures can ke…
 - 09/13 14:03 [FirstSquawk] US pushes multilateral development banks to abandon climate-finance targets. The move could reshape how major global lenders allocate funding toward climate and clean-energy projects.
 - 09/13 14:08 [FirstSquawk] North Korean state media once again makes no mention of the country’s latest missile launches. The silence comes as Pyongyang continues its weapons activity, leaving state media’s lack of coverage notable.
@@ -410,3 +406,7 @@
 - 09/14 13:29 [FirstSquawk] Okinawa governor-elect Koja secures more than 400,000 votes, setting a new record in the prefecture’s gubernatorial election.
 - 09/14 13:33 [FirstSquawk] JAPAN INDUSTRIAL PRODUCTION (Y/Y): 3.9% (PREV 4.1%)
 - 09/14 13:33 [FirstSquawk] JAPAN INDUSTRIAL PRODUCTION (M/M) JUL F: 0.2% (PREV 0.1%)
+- 09/14 13:41 [FirstSquawk] Japan’s central bank is approaching a pivotal rate decision, with markets closely watching whether the BOJ moves ahead with further policy tightening.
+- 09/14 13:41 [FirstSquawk] Global AI stocks retreat as concerns over AI risks intensify, while SoftBank shares tumble as much as 13% after tech leaders call for a slower pace of AI development - FT
+- 09/14 13:42 [FirstSquawk] Warsh and Trump appear headed for a clash over U.S. interest rates, as investors increasingly expect the Fed to raise rates, according to the Financial Times.
+- 09/14 13:50 [FirstSquawk] Essar has struck a deal to acquire 118 petrol stations in the UK, in a move that expands the Indian energy group’s retail footprint in the British market, according to the Financial Times.

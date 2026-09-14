@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 13:36 JST／対象: 09/14 01:36 〜 09/14 13:36 JST（時刻はすべて日本時間）
+生成: 2026-09-14 13:53 JST／対象: 09/14 01:53 〜 09/14 13:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/14 02:20 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 150 | 09/14 01:56 | 09/14 13:33 | ⚠ 90分（01:59→03:29） |
+| FirstSquawk | 154 | 09/14 01:56 | 09/14 13:50 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 63 | 09/14 02:46 | 09/14 12:52 | ⚠ 52分（04:46→05:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 217 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 221 行（統合前 223 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -241,3 +241,7 @@
 - 09/14 13:29 [FirstSquawk] Okinawa governor-elect Koja secures more than 400,000 votes, setting a new record in the prefecture’s gubernatorial election.
 - 09/14 13:33 [FirstSquawk] JAPAN INDUSTRIAL PRODUCTION (Y/Y): 3.9% (PREV 4.1%)
 - 09/14 13:33 [FirstSquawk] JAPAN INDUSTRIAL PRODUCTION (M/M) JUL F: 0.2% (PREV 0.1%)
+- 09/14 13:41 [FirstSquawk] Japan’s central bank is approaching a pivotal rate decision, with markets closely watching whether the BOJ moves ahead with further policy tightening.
+- 09/14 13:41 [FirstSquawk] Global AI stocks retreat as concerns over AI risks intensify, while SoftBank shares tumble as much as 13% after tech leaders call for a slower pace of AI development - FT
+- 09/14 13:42 [FirstSquawk] Warsh and Trump appear headed for a clash over U.S. interest rates, as investors increasingly expect the Fed to raise rates, according to the Financial Times.
+- 09/14 13:50 [FirstSquawk] Essar has struck a deal to acquire 118 petrol stations in the UK, in a move that expands the Indian energy group’s retail footprint in the British market, according to the Financial Times.

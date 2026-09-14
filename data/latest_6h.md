@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 13:36 JST／対象: 09/14 07:36 〜 09/14 13:36 JST（時刻はすべて日本時間）
+生成: 2026-09-14 13:53 JST／対象: 09/14 07:53 〜 09/14 13:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/14 08:03 | 09/14 08:03 | - |
-| FirstSquawk | 101 | 09/14 07:40 | 09/14 13:33 | 37分（07:53→08:31） |
-| financialjuice | 29 | 09/14 07:36 | 09/14 12:52 | ⚠ 50分（10:40→11:31） |
+| FirstSquawk | 99 | 09/14 07:53 | 09/14 13:50 | 37分（07:53→08:31） |
+| financialjuice | 23 | 09/14 08:25 | 09/14 12:52 | ⚠ 50分（10:40→11:31） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 131 行（統合前 131 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 123 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 07:36 [financialjuice] Sweden Prime Minister Ulf Kristersson: to reach out to other party leaders to discuss potential collaboration
-- 09/14 07:40 [financialjuice] Sweden Prime Minister Ulf Kristersson: government formation remains an open question
-- 09/14 07:40 [FirstSquawk] SWEDISH PRIME MINISTER ULF KRISTERSSON SAYS GOVERNMENT FORMATION REMAINS AN OPEN QUESTION AS THE COUNTRY AWAITS THE FINAL ELECTION OUTCOME. || KRISTERSSON SAYS HE WILL REACH OUT TO OTHER PARTY LEADERS TO DISCUSS POTENTIAL COOPERATION AND GO…
-- 09/14 07:42 [FirstSquawk] ANTHROPIC TELLS INVESTORS IT HAS BEEN PROFITABLE FOR SECOND CONSECUTIVE QUARTER - FT
-- 09/14 07:45 [financialjuice] NZ short-term visitors rise 8.5% in July vs year ago
-- 09/14 07:45 [financialjuice] New Zealand seasonally adjusted net migration rises 3,010 in July
-- 09/14 07:45 [financialjuice] NEW ZEALAND VISITOR ARRIVALS ACTUAL 3,010 (FORECAST -, PREVIOUS 1,610 ,REVISION 2,580) $MACRO
-- 09/14 07:45 [financialjuice] NEW ZEALAND EXTERNAL MIGRATION & VISITORS ACTUAL 8.5% (FORECAST -, PREVIOUS 8.1%) $MACRO
-- 09/14 07:52 [FirstSquawk] IRANIAN VICE PRESIDENT FOR NUCLEAR AFFAIRS MOHAMMAD ESLAMI HAS BEEN BLOCKED FROM ADDRESSING THE IAEA GENERAL CONFERENCE IN VIENNA AFTER THE U.S. URGED AUSTRIA TO DENY A SANCTIONS WAIVER ALLOWING HIS ENTRY.
-- 09/14 07:52 [FirstSquawk] U.S. ENERGY SECRETARY CHRIS WRIGHT IS SET TO WARN THAT IRAN MUST NEVER DEVELOP OR OBTAIN A NUCLEAR WEAPON, AS THE IAEA FLAGS CONSTRUCTION ACTIVITY AT IRAN’S SUSPECTED NUCLEAR SITE AT PICKAXE MOUNTAIN.
-- 09/14 07:52 [FirstSquawk] BRENT CRUDE JUMPS 3.2% TO AROUND $108 A BARREL AND WTI RISES NEAR 2.9% TO $103 AFTER A DRONE ATTACK PROMPTS SAUDI ARABIA TO SHUT A CRITICAL OIL PIPELINE, DEEPENING GLOBAL SUPPLY CONCERNS.
-- 09/14 07:52 [FirstSquawk] MOST SHIPPING THROUGH THE STRAIT OF HORMUZ REMAINS HALTED, WHILE PLANNED IRAN-GULF TALKS WERE POSTPONED AND U.S. STOCK FUTURES SLIPPED MORE THAN 0.5% AMID ESCALATING ENERGY RISKS.
 - 09/14 07:53 [FirstSquawk] TRUMP SAYS THE U.S. SHOULD HAVE THE LOWEST INTEREST RATE IN THE WORLD, EVEN AS HOTTER-THAN-EXPECTED AUGUST INFLATION PUSHES MARKETS TO PRICE AN 86% CHANCE OF A SEPTEMBER FED RATE HIKE. HIGHER ENERGY COSTS FROM THE IRAN WAR AND TRUMP’S TARIF…
 - 09/14 08:03 [DeItaone] OIL SURGES AS MIDDLE EAST STRIKES HIT SUPPLY FEARS Oil prices jumped more than $3 after fresh strikes in Saudi Arabia and near the Strait of Hormuz heightened supply concerns. Brent rose 3.5% to $108.23, while WTI climbed 3.2% to $103.20. W…
 - 09/14 08:25 [financialjuice] US EPA set to repeal carbon limits for coal, gas power plants
@@ -155,3 +143,7 @@
 - 09/14 13:29 [FirstSquawk] Okinawa governor-elect Koja secures more than 400,000 votes, setting a new record in the prefecture’s gubernatorial election.
 - 09/14 13:33 [FirstSquawk] JAPAN INDUSTRIAL PRODUCTION (Y/Y): 3.9% (PREV 4.1%)
 - 09/14 13:33 [FirstSquawk] JAPAN INDUSTRIAL PRODUCTION (M/M) JUL F: 0.2% (PREV 0.1%)
+- 09/14 13:41 [FirstSquawk] Japan’s central bank is approaching a pivotal rate decision, with markets closely watching whether the BOJ moves ahead with further policy tightening.
+- 09/14 13:41 [FirstSquawk] Global AI stocks retreat as concerns over AI risks intensify, while SoftBank shares tumble as much as 13% after tech leaders call for a slower pace of AI development - FT
+- 09/14 13:42 [FirstSquawk] Warsh and Trump appear headed for a clash over U.S. interest rates, as investors increasingly expect the Fed to raise rates, according to the Financial Times.
+- 09/14 13:50 [FirstSquawk] Essar has struck a deal to acquire 118 petrol stations in the UK, in a move that expands the Indian energy group’s retail footprint in the British market, according to the Financial Times.
