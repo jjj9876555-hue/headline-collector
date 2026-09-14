@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 18:35 JST／対象: 09/13 18:35 〜 09/14 18:35 JST（時刻はすべて日本時間）
+生成: 2026-09-14 18:53 JST／対象: 09/13 18:53 〜 09/14 18:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 33 | 09/13 20:35 | 09/14 18:30 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 282 | 09/13 18:36 | 09/14 18:21 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 121 | 09/13 19:12 | 09/14 18:25 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 278 | 09/13 19:12 | 09/14 18:53 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 127 | 09/13 19:12 | 09/14 18:52 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 431 行（統合前 436 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 432 行（統合前 438 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 18:36 [FirstSquawk] Xi Jinping has sought to turn the annual BRICS summit into another platform for championing Beijing’s vision for AI, as it vies for global influence over the technology with the US
-- 09/13 18:36 [FirstSquawk] Dario Amodei built Anthropic to avoid the very kind of moment that is playing out now
-- 09/13 18:37 [FirstSquawk] Houthi tribal mobilization shows long lines of armed Toyota technicals in the desert, the classic Yemen war image
-- 09/13 18:37 [FirstSquawk] Ethiopia Eyes Indian Artillery Guns to Replace Soviet Howitzers
-- 09/13 18:38 [FirstSquawk] Saudi shares drop after drone attacks
-- 09/13 18:42 [FirstSquawk] The diplomatic advisor to the UAE president: The meeting between the Crown Prince of Abu Dhabi and the Iranian president on the sidelines of BRICS embodies the UAE's approach based on the two pillars of deterrence and diplomacy.
-- 09/13 18:42 [FirstSquawk] Gargash: Deterrence enhances the credibility of diplomacy, while diplomacy succeeds when it proceeds from a position of parity and capability, ultimately forming the optimal path towards achieving regional security.
-- 09/13 18:42 [FirstSquawk] Kremlin: Trilateral negotiations on Ukraine may resume next October.
-- 09/13 18:43 [FirstSquawk] Yemeni government forces shot down five Houthi drones on the Al-Waziyah front, west of Taiz, in southwestern Yemen.
 - 09/13 19:12 [FirstSquawk] Jerusalem Governorate: Israeli media blackout on settlers storming Al-Aqsa raises fears of an attempt to impose new realities.
 - 09/13 19:12 [financialjuice/FirstSquawk] South Korea industry minister: $200 billion total investment cap, $20 billion annual investment to be maintained as previously agreed with U.S.
 - 09/13 19:13 [FirstSquawk] Araqchi: The agenda for tomorrow's meeting in the Sultanate of Oman focuses on the new maritime route in the Strait of Hormuz
@@ -455,3 +446,13 @@
 - 09/14 18:25 [financialjuice] Iran updates list of Hormuz non-compliant vessels to 77
 - 09/14 18:30 [DeItaone] OPENAI’S BROCKMAN BACKS SLOWDOWN FOR FRONTIER AI OpenAI co-founder Greg Brockman says any AI slowdown should target only frontier models powered by massive supercomputers, not open-source or hobby projects. His comments follow growing indus…
 - 09/14 18:30 [DeItaone] TRUMP'S MAIL-IN VOTING RESTRICTIONS ARE BLOCKED BY A SECOND FEDERAL JUDGE
+- 09/14 18:38 [FirstSquawk] JAPAN, YEMEN FOREIGN MINISTERS HELD TELEPHONE CALL TODAY: MOFA
+- 09/14 18:38 [financialjuice] Japan and Yemen foreign ministers held a telephone call today - MofA
+- 09/14 18:41 [financialjuice] Japan and Yemen to work on Bab-el-Mandeb situation de-escalation
+- 09/14 18:44 [FirstSquawk] GERMAN GOVERNMENT SPOX: INCREASINGLY CONCERNED ABOUT DIESEL AND GASOLINE PRICES
+- 09/14 18:48 [financialjuice] Poll: Fed to hike Fed funds rate to 3.75%-4.00% on September 16th - 86 of 101 economists (vs 65 of 93 expecting a hold in the Sept 9th poll)
+- 09/14 18:48 [financialjuice] Poll: Fed to hike fed funds rate at least twice by the end of March 2027 - 37 of 70 economists (vs 21 of 82 economists in September 9th poll)
+- 09/14 18:49 [financialjuice/FirstSquawk] ECB's Schnabel: Recent energy-price developments are “quite concerning"
+- 09/14 18:52 [financialjuice] Kremlin welcomes Trump's call to stop striking refineries - IFX
+- 09/14 18:52 [FirstSquawk] KREMLIN ON TRUMP'S CALL FOR UKRAINE TO STOP ATTACKS ON RUSSIAN ENERGY INFRASTRUCTURE: SITUATION IN GLOBAL ENERGY MARKETS IS WORSENING MAINLY DUE TO INSTABILITY IN MIDDLE EAST
+- 09/14 18:53 [FirstSquawk] KREMLIN: INDIA MODI, CHINA'S XI TOLD PUTIN AT BRICS SUMMIT THEY ARE READY TO PLAY ROLE IN UKRAINE CONFLICT SETTLEMENT, THIS WAS POSITIVELY RECEIVED BY PUTIN

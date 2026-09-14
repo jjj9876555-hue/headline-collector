@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 18:35 JST／対象: 09/14 12:35 〜 09/14 18:35 JST（時刻はすべて日本時間）
+生成: 2026-09-14 18:53 JST／対象: 09/14 12:53 〜 09/14 18:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/14 16:28 | 09/14 18:30 | ⚠ 50分（16:28→17:19） |
-| FirstSquawk | 87 | 09/14 12:38 | 09/14 18:21 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 39 | 09/14 12:37 | 09/14 18:25 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 88 | 09/14 12:56 | 09/14 18:53 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 42 | 09/14 14:07 | 09/14 18:52 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 135 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 138 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 12:37 [financialjuice] China finance ministry auctions 7-year bonds at 1.49% yield: traders
-- 09/14 12:38 [FirstSquawk] U.S. senators have released the final draft of the Crypto Clarity Act, with the legislation scheduled for a Senate vote on Tuesday.
-- 09/14 12:49 [financialjuice] Saudi civil defence warns of possible threat in Khamis Mushait and Abha areas - post on X
-- 09/14 12:49 [FirstSquawk] Asian tech stocks slump as growing concerns over AI safety weigh on investor sentiment and put pressure on technology shares.
-- 09/14 12:52 [FirstSquawk] Saudi Civil Defence warns of a possible threat in the Khamis Mushait and Abha areas, according to a post on X.
-- 09/14 12:52 [financialjuice] Saudi civil defence: danger has passed – post on X
-- 09/14 12:52 [FirstSquawk] China’s Finance Ministry auctions seven-year government bonds at a 1.49% yield, according to traders, highlighting current demand and pricing in the sovereign debt market.
 - 09/14 12:56 [FirstSquawk] Oil holds onto its opening gains in Asia, keeping energy markets elevated as traders assess the latest supply and geopolitical risks.
 - 09/14 13:05 [FirstSquawk] A Hong Kong lawmaker says Apple should bear responsibility for card fraud involving iPhones, putting fresh scrutiny on the tech giant’s role in consumer payment security.
 - 09/14 13:12 [FirstSquawk] OMANI ENERGY MINISTER: STRAIT OF HORMUZ WILL REOPEN; CURRENT DISRUPTION LIKELY TO BE SHORT-LIVED.
@@ -159,3 +152,13 @@
 - 09/14 18:25 [financialjuice] Iran updates list of Hormuz non-compliant vessels to 77
 - 09/14 18:30 [DeItaone] OPENAI’S BROCKMAN BACKS SLOWDOWN FOR FRONTIER AI OpenAI co-founder Greg Brockman says any AI slowdown should target only frontier models powered by massive supercomputers, not open-source or hobby projects. His comments follow growing indus…
 - 09/14 18:30 [DeItaone] TRUMP'S MAIL-IN VOTING RESTRICTIONS ARE BLOCKED BY A SECOND FEDERAL JUDGE
+- 09/14 18:38 [FirstSquawk] JAPAN, YEMEN FOREIGN MINISTERS HELD TELEPHONE CALL TODAY: MOFA
+- 09/14 18:38 [financialjuice] Japan and Yemen foreign ministers held a telephone call today - MofA
+- 09/14 18:41 [financialjuice] Japan and Yemen to work on Bab-el-Mandeb situation de-escalation
+- 09/14 18:44 [FirstSquawk] GERMAN GOVERNMENT SPOX: INCREASINGLY CONCERNED ABOUT DIESEL AND GASOLINE PRICES
+- 09/14 18:48 [financialjuice] Poll: Fed to hike Fed funds rate to 3.75%-4.00% on September 16th - 86 of 101 economists (vs 65 of 93 expecting a hold in the Sept 9th poll)
+- 09/14 18:48 [financialjuice] Poll: Fed to hike fed funds rate at least twice by the end of March 2027 - 37 of 70 economists (vs 21 of 82 economists in September 9th poll)
+- 09/14 18:49 [financialjuice/FirstSquawk] ECB's Schnabel: Recent energy-price developments are “quite concerning"
+- 09/14 18:52 [financialjuice] Kremlin welcomes Trump's call to stop striking refineries - IFX
+- 09/14 18:52 [FirstSquawk] KREMLIN ON TRUMP'S CALL FOR UKRAINE TO STOP ATTACKS ON RUSSIAN ENERGY INFRASTRUCTURE: SITUATION IN GLOBAL ENERGY MARKETS IS WORSENING MAINLY DUE TO INSTABILITY IN MIDDLE EAST
+- 09/14 18:53 [FirstSquawk] KREMLIN: INDIA MODI, CHINA'S XI TOLD PUTIN AT BRICS SUMMIT THEY ARE READY TO PLAY ROLE IN UKRAINE CONFLICT SETTLEMENT, THIS WAS POSITIVELY RECEIVED BY PUTIN

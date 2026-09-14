@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 18:35 JST／対象: 09/14 06:35 〜 09/14 18:35 JST（時刻はすべて日本時間）
+生成: 2026-09-14 18:53 JST／対象: 09/14 06:53 〜 09/14 18:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/14 08:03 | 09/14 18:30 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 182 | 09/14 06:48 | 09/14 18:21 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 74 | 09/14 06:54 | 09/14 18:25 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 186 | 09/14 07:01 | 09/14 18:53 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 80 | 09/14 06:54 | 09/14 18:52 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 265 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 274 行（統合前 277 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 06:48 [FirstSquawk] HOUSE SPEAKER MIKE JOHNSON SAYS TRUMP’S PROPOSED $5,000 PAYMENT FOR EVERY AMERICAN ADULT WOULD REQUIRE CONGRESSIONAL APPROVAL, WHILE TRUMP INSISTS THE PLAN WILL HAPPEN “100%.” THE PROPOSAL COULD COST MORE THAN $1 TRILLION, ADDING TO THE U.S…
 - 09/14 06:54 [financialjuice/FirstSquawk] Elon Musk: highly confident SpaceX will launch Nvidia VR NLV72 AI computers in space next year - X post
 - 09/14 07:00 [financialjuice] Sweden Social Democrats leader Andersson: currently leading, new government likely if results hold
 - 09/14 07:01 [FirstSquawk] BRENT CRUDE RISES 2.4% AFTER A SAUDI PIPELINE SHUTDOWN AND DELAYED HORMUZ SHIPPING TALKS RAISE CONCERNS OVER GLOBAL OIL SUPPLIES.
@@ -289,3 +288,13 @@
 - 09/14 18:25 [financialjuice] Iran updates list of Hormuz non-compliant vessels to 77
 - 09/14 18:30 [DeItaone] OPENAI’S BROCKMAN BACKS SLOWDOWN FOR FRONTIER AI OpenAI co-founder Greg Brockman says any AI slowdown should target only frontier models powered by massive supercomputers, not open-source or hobby projects. His comments follow growing indus…
 - 09/14 18:30 [DeItaone] TRUMP'S MAIL-IN VOTING RESTRICTIONS ARE BLOCKED BY A SECOND FEDERAL JUDGE
+- 09/14 18:38 [FirstSquawk] JAPAN, YEMEN FOREIGN MINISTERS HELD TELEPHONE CALL TODAY: MOFA
+- 09/14 18:38 [financialjuice] Japan and Yemen foreign ministers held a telephone call today - MofA
+- 09/14 18:41 [financialjuice] Japan and Yemen to work on Bab-el-Mandeb situation de-escalation
+- 09/14 18:44 [FirstSquawk] GERMAN GOVERNMENT SPOX: INCREASINGLY CONCERNED ABOUT DIESEL AND GASOLINE PRICES
+- 09/14 18:48 [financialjuice] Poll: Fed to hike Fed funds rate to 3.75%-4.00% on September 16th - 86 of 101 economists (vs 65 of 93 expecting a hold in the Sept 9th poll)
+- 09/14 18:48 [financialjuice] Poll: Fed to hike fed funds rate at least twice by the end of March 2027 - 37 of 70 economists (vs 21 of 82 economists in September 9th poll)
+- 09/14 18:49 [financialjuice/FirstSquawk] ECB's Schnabel: Recent energy-price developments are “quite concerning"
+- 09/14 18:52 [financialjuice] Kremlin welcomes Trump's call to stop striking refineries - IFX
+- 09/14 18:52 [FirstSquawk] KREMLIN ON TRUMP'S CALL FOR UKRAINE TO STOP ATTACKS ON RUSSIAN ENERGY INFRASTRUCTURE: SITUATION IN GLOBAL ENERGY MARKETS IS WORSENING MAINLY DUE TO INSTABILITY IN MIDDLE EAST
+- 09/14 18:53 [FirstSquawk] KREMLIN: INDIA MODI, CHINA'S XI TOLD PUTIN AT BRICS SUMMIT THEY ARE READY TO PLAY ROLE IN UKRAINE CONFLICT SETTLEMENT, THIS WAS POSITIVELY RECEIVED BY PUTIN
