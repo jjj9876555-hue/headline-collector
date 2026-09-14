@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 12:26 JST／対象: 09/13 12:26 〜 09/14 12:26 JST（時刻はすべて日本時間）
+生成: 2026-09-14 12:46 JST／対象: 09/13 12:46 〜 09/14 12:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 272 | 09/13 12:28 | 09/14 12:24 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 92 | 09/13 13:41 | 09/14 12:23 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 272 | 09/13 12:47 | 09/14 12:38 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 93 | 09/13 13:41 | 09/14 12:37 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 383 行（統合前 389 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 384 行（統合前 390 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 12:28 [FirstSquawk] Kyoto stadium meal incident leaves 28 people ill, with food poisoning under investigation
-- 09/13 12:32 [FirstSquawk] Automakers in Japan prepare new factory calendars from FY2027 as they seek to draw more employees
-- 09/13 12:39 [FirstSquawk] Oil supply concerns rise as Iran and UAE leaders engage on regional de-escalation
 - 09/13 12:47 [FirstSquawk] American academic vanishes after China invitation as Trump prepares to press Xi on detainees - WSJ
 - 09/13 12:52 [FirstSquawk] Yen sentiment turns bullish as speculators build net-long positions for the first time since February
 - 09/13 12:58 [FirstSquawk] Carney eyes deeper European ties for Canada after trade negotiations with Washington break down - WSJ
@@ -407,3 +404,7 @@
 - 09/14 12:23 [FirstSquawk] Hong Kong’s five-year plan will maintain its capitalist system and existing governing model, Chief Executive John Lee says, reaffirming the city’s policy direction under the “one country, two systems” framework.
 - 09/14 12:23 [financialjuice] World Bank: approves $300 million financing to back reforms in Uruguay
 - 09/14 12:24 [FirstSquawk] The World Bank approves $300 million in financing for Uruguay, supporting government reforms aimed at strengthening the country’s economic and institutional framework.
+- 09/14 12:29 [FirstSquawk] The New Zealand dollar falls below 0.5800 against the U.S. dollar as dovish signals from the RBNZ weigh on the currency and reinforce expectations for a softer monetary policy stance.
+- 09/14 12:31 [FirstSquawk] Heads of leading U.S. frontier AI labs are increasingly concerned about China’s rapid advances in artificial intelligence, highlighting intensifying competition at the cutting edge of the technology.
+- 09/14 12:37 [financialjuice] China finance ministry auctions 7-year bonds at 1.49% yield: traders
+- 09/14 12:38 [FirstSquawk] U.S. senators have released the final draft of the Crypto Clarity Act, with the legislation scheduled for a Senate vote on Tuesday.

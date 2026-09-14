@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 12:26 JST／対象: 09/14 00:26 〜 09/14 12:26 JST（時刻はすべて日本時間）
+生成: 2026-09-14 12:46 JST／対象: 09/14 00:46 〜 09/14 12:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/14 01:15 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 139 | 09/14 00:43 | 09/14 12:24 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 60 | 09/14 02:46 | 09/14 12:23 | ⚠ 52分（04:46→05:39） |
+| FirstSquawk | 140 | 09/14 01:12 | 09/14 12:38 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 61 | 09/14 02:46 | 09/14 12:37 | ⚠ 52分（04:46→05:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 206 行（統合前 208 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 208 行（統合前 210 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 00:43 [FirstSquawk] Civil Defense in Gaza: We have recovered the remains of 17 martyrs from under the rubble of homes destroyed by the Israeli occupation in the Gaza and Central governorates.
-- 09/14 00:44 [FirstSquawk] International Organization for Migration: 100,000 displaced in 7 months from areas in Blue Nile, southeastern Sudan, following escalating clashes
 - 09/14 01:12 [FirstSquawk] Lebanese media: Israeli airstrike targets Qantara in southern Lebanon
 - 09/14 01:15 [DeItaone] HASSETT SAYS WHITE HOUSE WILL BACK FED DECISION White House economic adviser Kevin Hassett says the administration will “100% support” whatever Fed Chair Kevin Warsh and the committee decide on rates this week. Still, Hassett said he and Pr…
 - 09/14 01:16 [DeItaone] ANTHROPIC HAS CHOSEN THE NASDAQ FOR ITS IPO LISTING- BUSINESS INSIDER
@@ -230,3 +228,7 @@
 - 09/14 12:23 [FirstSquawk] Hong Kong’s five-year plan will maintain its capitalist system and existing governing model, Chief Executive John Lee says, reaffirming the city’s policy direction under the “one country, two systems” framework.
 - 09/14 12:23 [financialjuice] World Bank: approves $300 million financing to back reforms in Uruguay
 - 09/14 12:24 [FirstSquawk] The World Bank approves $300 million in financing for Uruguay, supporting government reforms aimed at strengthening the country’s economic and institutional framework.
+- 09/14 12:29 [FirstSquawk] The New Zealand dollar falls below 0.5800 against the U.S. dollar as dovish signals from the RBNZ weigh on the currency and reinforce expectations for a softer monetary policy stance.
+- 09/14 12:31 [FirstSquawk] Heads of leading U.S. frontier AI labs are increasingly concerned about China’s rapid advances in artificial intelligence, highlighting intensifying competition at the cutting edge of the technology.
+- 09/14 12:37 [financialjuice] China finance ministry auctions 7-year bonds at 1.49% yield: traders
+- 09/14 12:38 [FirstSquawk] U.S. senators have released the final draft of the Crypto Clarity Act, with the legislation scheduled for a Senate vote on Tuesday.
