@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 12:59 JST／対象: 09/14 00:59 〜 09/14 12:59 JST（時刻はすべて日本時間）
+生成: 2026-09-14 13:19 JST／対象: 09/14 01:19 〜 09/14 13:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/14 01:15 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 144 | 09/14 01:12 | 09/14 12:56 | ⚠ 90分（01:59→03:29） |
+| DeItaone | 6 | 09/14 02:20 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
+| FirstSquawk | 147 | 09/14 01:56 | 09/14 13:18 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 63 | 09/14 02:46 | 09/14 12:52 | ⚠ 52分（04:46→05:39） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 01:12 [FirstSquawk] Lebanese media: Israeli airstrike targets Qantara in southern Lebanon
-- 09/14 01:15 [DeItaone] HASSETT SAYS WHITE HOUSE WILL BACK FED DECISION White House economic adviser Kevin Hassett says the administration will “100% support” whatever Fed Chair Kevin Warsh and the committee decide on rates this week. Still, Hassett said he and Pr…
-- 09/14 01:16 [DeItaone] ANTHROPIC HAS CHOSEN THE NASDAQ FOR ITS IPO LISTING- BUSINESS INSIDER
-- 09/14 01:17 [DeItaone] ANTHROPIC PICKS NASDAQ FOR POTENTIAL $2 TRILLION IPO Anthropic has selected Nasdaq for its potential IPO, according to a person familiar with the company’s plans, as it targets an October listing. Some estimates have valued Anthropic at as …
 - 09/14 01:56 [FirstSquawk] Saudi civil defence warns of potential risk: Emergency alert issued in Saudi Arabia's Khamis Mushait and Abha
 - 09/14 01:57 [FirstSquawk] Saudi civil defence: Danger has passed in Saudi Arabia's Khamis Mushait
 - 09/14 01:57 [FirstSquawk] Saudi Civil Defence: Danger has passed in Saudi Arabia’s Abha
@@ -238,3 +234,7 @@
 - 09/14 12:52 [financialjuice] Saudi civil defence: danger has passed – post on X
 - 09/14 12:52 [FirstSquawk] China’s Finance Ministry auctions seven-year government bonds at a 1.49% yield, according to traders, highlighting current demand and pricing in the sovereign debt market.
 - 09/14 12:56 [FirstSquawk] Oil holds onto its opening gains in Asia, keeping energy markets elevated as traders assess the latest supply and geopolitical risks.
+- 09/14 13:05 [FirstSquawk] A Hong Kong lawmaker says Apple should bear responsibility for card fraud involving iPhones, putting fresh scrutiny on the tech giant’s role in consumer payment security.
+- 09/14 13:12 [FirstSquawk] OMANI ENERGY MINISTER: STRAIT OF HORMUZ WILL REOPEN; CURRENT DISRUPTION LIKELY TO BE SHORT-LIVED.
+- 09/14 13:13 [FirstSquawk] The U.S.-backed Luzon corridor in the Philippines is facing growing scrutiny, with questions emerging over whether the initiative is delivering meaningful benefits to local communities.
+- 09/14 13:18 [FirstSquawk] AI-linked stocks tumble in early Asian trading after leaders of major frontier AI companies warn that development may need to slow to limit potential risks to humanity as per reuters

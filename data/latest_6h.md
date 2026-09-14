@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 12:59 JST／対象: 09/14 06:59 〜 09/14 12:59 JST（時刻はすべて日本時間）
+生成: 2026-09-14 13:19 JST／対象: 09/14 07:19 〜 09/14 13:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/14 08:03 | 09/14 08:03 | - |
-| FirstSquawk | 99 | 09/14 07:01 | 09/14 12:56 | 37分（07:53→08:31） |
-| financialjuice | 37 | 09/14 07:00 | 09/14 12:52 | ⚠ 50分（10:40→11:31） |
+| FirstSquawk | 98 | 09/14 07:40 | 09/14 13:18 | 37分（07:53→08:31） |
+| financialjuice | 30 | 09/14 07:33 | 09/14 12:52 | ⚠ 50分（10:40→11:31） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 137 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 129 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 07:00 [financialjuice] Sweden Social Democrats leader Andersson: currently leading, new government likely if results hold
-- 09/14 07:01 [FirstSquawk] BRENT CRUDE RISES 2.4% AFTER A SAUDI PIPELINE SHUTDOWN AND DELAYED HORMUZ SHIPPING TALKS RAISE CONCERNS OVER GLOBAL OIL SUPPLIES.
-- 09/14 07:06 [financialjuice] Shenzhen forms Syntron Information: 59 million H shares offered globally
-- 09/14 07:06 [financialjuice] Shenzhen establishes Syntron Information with maximum offer price HK$16.00 per H share in global offering
-- 09/14 07:06 [financialjuice] Ligent Technologies announces global offering of 172 million shares
-- 09/14 07:06 [financialjuice] Ligent Technologies announces offer price under global offering at HK$32.96 per share
-- 09/14 07:06 [financialjuice] Ligent Technologies: global offering includes 154.8 million international shares
-- 09/14 07:07 [financialjuice] Shenzhen forms Syntron Information with 53.1 million international H-share offer
-- 09/14 07:17 [FirstSquawk] ELON MUSK: HIGHLY CONFIDENT SPACEX WILL LAUNCH NVIDIA VR NLV72 AI COMPUTERS IN SPACE NEXT YEAR - X POST
-- 09/14 07:18 [FirstSquawk] SHENZHEN-BASED SYNTRON INFORMATION PLANS A GLOBAL OFFERING OF 59 MILLION H SHARES, WITH A MAXIMUM OFFER PRICE OF HK$16.00 PER H SHARE. THE OFFERING INCLUDES 53.1 MILLION INTERNATIONAL H SHARES, AS THE COMPANY MOVES FORWARD WITH ITS GLOBAL L…
-- 09/14 07:19 [FirstSquawk] US STOCK FUTURES FALL AS AI DEVELOPMENT CONCERNS AND HOTTER-THAN-EXPECTED INFLATION WEIGH ON SENTIMENT, WITH NASDAQ 100 FUTURES DOWN 1.2% AND S&P 500 FUTURES OFF 0.6%.
-- 09/14 07:19 [FirstSquawk] BRENT CRUDE JUMPS 2.8% TO $107.55 AFTER SAUDI ARABIA SHUT A KEY OIL PIPELINE FOLLOWING DRONE ATTACKS, WHILE DELAYED HORMUZ TALKS AND RISING INFLATION BOOST BETS ON A FED RATE HIKE WEDNESDAY.
 - 09/14 07:33 [financialjuice] Sweden Prime Minister Ulf Kristersson: awaiting final election outcome
 - 09/14 07:36 [financialjuice] Sweden Prime Minister Ulf Kristersson: to reach out to other party leaders to discuss potential collaboration
 - 09/14 07:40 [financialjuice] Sweden Prime Minister Ulf Kristersson: government formation remains an open question
@@ -161,3 +149,7 @@
 - 09/14 12:52 [financialjuice] Saudi civil defence: danger has passed – post on X
 - 09/14 12:52 [FirstSquawk] China’s Finance Ministry auctions seven-year government bonds at a 1.49% yield, according to traders, highlighting current demand and pricing in the sovereign debt market.
 - 09/14 12:56 [FirstSquawk] Oil holds onto its opening gains in Asia, keeping energy markets elevated as traders assess the latest supply and geopolitical risks.
+- 09/14 13:05 [FirstSquawk] A Hong Kong lawmaker says Apple should bear responsibility for card fraud involving iPhones, putting fresh scrutiny on the tech giant’s role in consumer payment security.
+- 09/14 13:12 [FirstSquawk] OMANI ENERGY MINISTER: STRAIT OF HORMUZ WILL REOPEN; CURRENT DISRUPTION LIKELY TO BE SHORT-LIVED.
+- 09/14 13:13 [FirstSquawk] The U.S.-backed Luzon corridor in the Philippines is facing growing scrutiny, with questions emerging over whether the initiative is delivering meaningful benefits to local communities.
+- 09/14 13:18 [FirstSquawk] AI-linked stocks tumble in early Asian trading after leaders of major frontier AI companies warn that development may need to slow to limit potential risks to humanity as per reuters

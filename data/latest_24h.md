@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 12:59 JST／対象: 09/13 12:59 〜 09/14 12:59 JST（時刻はすべて日本時間）
+生成: 2026-09-14 13:19 JST／対象: 09/13 13:19 〜 09/14 13:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 273 | 09/13 13:06 | 09/14 12:56 | ⚠ 90分（01:59→03:29） |
+| FirstSquawk | 273 | 09/13 13:23 | 09/14 13:18 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 95 | 09/13 13:41 | 09/14 12:52 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 13:06 [FirstSquawk] HSBC warns that rising corporate taxes, renewed private-sector debt and shifting stock-bond dynamics could finally test global markets’ resilience - CNBC
-- 09/13 13:11 [FirstSquawk] Trump says the U.S. could reach a deal with Canada “fairly soon,” signaling progress toward a bilateral agreement.
-- 09/13 13:15 [FirstSquawk] China’s Xi highlights shared responsibilities with India as major Global South nations
-- 09/13 13:15 [FirstSquawk] Japanese trade representatives seek China talks as diplomatic tensions persist
 - 09/13 13:23 [FirstSquawk] Four arrested after Jordan’s Northern Military Region blocks attempted infiltration
 - 09/13 13:29 [FirstSquawk] Paris and Beirut call for the UN peacekeeping mission in Lebanon to be extended, keeping international forces in place amid ongoing regional tensions. The push highlights continued concerns over stability and security along Lebanon’s border…
 - 09/13 13:30 [FirstSquawk] CVC faces growing shareholder opposition over its €10.7 billion plan to take Recordati private - FT The revolt could complicate the deal, highlighting investor concerns over the valuation and terms of the proposed buyout.
@@ -411,3 +407,7 @@
 - 09/14 12:52 [financialjuice] Saudi civil defence: danger has passed – post on X
 - 09/14 12:52 [FirstSquawk] China’s Finance Ministry auctions seven-year government bonds at a 1.49% yield, according to traders, highlighting current demand and pricing in the sovereign debt market.
 - 09/14 12:56 [FirstSquawk] Oil holds onto its opening gains in Asia, keeping energy markets elevated as traders assess the latest supply and geopolitical risks.
+- 09/14 13:05 [FirstSquawk] A Hong Kong lawmaker says Apple should bear responsibility for card fraud involving iPhones, putting fresh scrutiny on the tech giant’s role in consumer payment security.
+- 09/14 13:12 [FirstSquawk] OMANI ENERGY MINISTER: STRAIT OF HORMUZ WILL REOPEN; CURRENT DISRUPTION LIKELY TO BE SHORT-LIVED.
+- 09/14 13:13 [FirstSquawk] The U.S.-backed Luzon corridor in the Philippines is facing growing scrutiny, with questions emerging over whether the initiative is delivering meaningful benefits to local communities.
+- 09/14 13:18 [FirstSquawk] AI-linked stocks tumble in early Asian trading after leaders of major frontier AI companies warn that development may need to slow to limit potential risks to humanity as per reuters
