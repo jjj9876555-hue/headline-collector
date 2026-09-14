@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 12:05 JST／対象: 09/14 00:05 〜 09/14 12:05 JST（時刻はすべて日本時間）
+生成: 2026-09-14 12:26 JST／対象: 09/14 00:26 〜 09/14 12:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/14 01:15 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 139 | 09/14 00:06 | 09/14 12:02 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 62 | 09/14 00:11 | 09/14 11:51 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 139 | 09/14 00:43 | 09/14 12:24 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 60 | 09/14 02:46 | 09/14 12:23 | ⚠ 52分（04:46→05:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 208 行（統合前 210 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 206 行（統合前 208 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 00:06 [FirstSquawk] Jerusalem Governorate: 593 settlers stormed Al-Aqsa Mosque during the morning and evening incursions under the protection of the occupation forces.
-- 09/14 00:11 [financialjuice] Emergency alert issued in Saudi Arabia's Khamis Mushait and Abha: Saudi civil defence warns of potential risk
-- 09/14 00:17 [financialjuice] Danger has passed in Saudi Arabia's Khamis Mushait: Saudi civil defence
-- 09/14 00:18 [financialjuice] Danger has passed in Saudi Arabia’s Abha: Saudi Civil Defence
-- 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning alert issued in Khamis Mushait Governorate to warn of danger
-- 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning activated in Abha city to warn of danger
-- 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning activated in Khamis Mushait and Abha to warn of danger
 - 09/14 00:43 [FirstSquawk] Civil Defense in Gaza: We have recovered the remains of 17 martyrs from under the rubble of homes destroyed by the Israeli occupation in the Gaza and Central governorates.
 - 09/14 00:44 [FirstSquawk] International Organization for Migration: 100,000 displaced in 7 months from areas in Blue Nile, southeastern Sudan, following escalating clashes
 - 09/14 01:12 [FirstSquawk] Lebanese media: Israeli airstrike targets Qantara in southern Lebanon
@@ -232,3 +225,8 @@
 - 09/14 11:53 [FirstSquawk] The dollar rises 0.3% against the yen to 154.02, extending gains in the currency pair.
 - 09/14 11:56 [FirstSquawk] House Speaker Mike Johnson says Congress would need to approve President Trump’s proposed $5,000 dividend, indicating the plan cannot move forward without lawmakers’ backing.
 - 09/14 12:02 [FirstSquawk] North Korea says it has tested weapons capable of striking South Korea, describing the systems as having “huge destructive power” amid heightened regional tensions.
+- 09/14 12:13 [FirstSquawk] Qatar eyes a bigger role in China’s growing Gulf logistics push as trade routes face disruption.
+- 09/14 12:20 [FirstSquawk] Goldman Sachs now expects the Fed to raise rates by 25 basis points this week, reversing its earlier call for no change, with the shift driven more by market pricing than its economic outlook.
+- 09/14 12:23 [FirstSquawk] Hong Kong’s five-year plan will maintain its capitalist system and existing governing model, Chief Executive John Lee says, reaffirming the city’s policy direction under the “one country, two systems” framework.
+- 09/14 12:23 [financialjuice] World Bank: approves $300 million financing to back reforms in Uruguay
+- 09/14 12:24 [FirstSquawk] The World Bank approves $300 million in financing for Uruguay, supporting government reforms aimed at strengthening the country’s economic and institutional framework.

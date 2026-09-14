@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 12:05 JST／対象: 09/14 06:05 〜 09/14 12:05 JST（時刻はすべて日本時間）
+生成: 2026-09-14 12:26 JST／対象: 09/14 06:26 〜 09/14 12:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/14 08:03 | 09/14 08:03 | - |
-| FirstSquawk | 91 | 09/14 06:07 | 09/14 12:02 | 37分（07:53→08:31） |
-| financialjuice | 37 | 09/14 06:13 | 09/14 11:51 | ⚠ 50分（10:40→11:31） |
+| FirstSquawk | 93 | 09/14 06:48 | 09/14 12:24 | 37分（07:53→08:31） |
+| financialjuice | 35 | 09/14 06:54 | 09/14 12:23 | ⚠ 50分（10:40→11:31） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 128 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 06:07 [FirstSquawk] HOUSE SPEAKER MIKE JOHNSON SAYS TRUMP’S PROPOSED $5,000 DIVIDEND FOR EVERY AMERICAN ADULT WOULD REQUIRE CONGRESSIONAL APPROVAL, CONTRADICTING TRUMP’S CLAIM THAT THE PAYMENTS CAN BE MADE WITHOUT AUTHORIZATION. JOHNSON VOWS TO WORK TO PASS TH…
-- 09/14 06:13 [financialjuice] Election authority projection: Sweden's center-left opposition bloc poised to secure 165 seats in parliament
-- 09/14 06:15 [financialjuice] Election authority projection: Sweden's centre-left opposition bloc anticipated to secure 175 seats in parliament
-- 09/14 06:16 [financialjuice] Election authority projection: Sweden's right-wing ruling bloc set to capture 174 parliamentary seats
-- 09/14 06:18 [FirstSquawk] NORTH KOREA HELD A LONG-RANGE ARTILLERY AND MISSILE DRILL ON SEPTEMBER 12 || THE DRILL INVOLVED ATTACK DRONES AND NEW BALLISTIC MISSILES, SIGNALING A BROADER SHOW OF NORTH KOREA’S STRIKE CAPABILITIES, ACCORDING TO STATE MEDIA KCNA.
 - 09/14 06:48 [FirstSquawk] HOUSE SPEAKER MIKE JOHNSON SAYS TRUMP’S PROPOSED $5,000 PAYMENT FOR EVERY AMERICAN ADULT WOULD REQUIRE CONGRESSIONAL APPROVAL, WHILE TRUMP INSISTS THE PLAN WILL HAPPEN “100%.” THE PROPOSAL COULD COST MORE THAN $1 TRILLION, ADDING TO THE U.S…
 - 09/14 06:54 [financialjuice/FirstSquawk] Elon Musk: highly confident SpaceX will launch Nvidia VR NLV72 AI computers in space next year - X post
 - 09/14 07:00 [financialjuice] Sweden Social Democrats leader Andersson: currently leading, new government likely if results hold
@@ -152,3 +147,8 @@
 - 09/14 11:53 [FirstSquawk] The dollar rises 0.3% against the yen to 154.02, extending gains in the currency pair.
 - 09/14 11:56 [FirstSquawk] House Speaker Mike Johnson says Congress would need to approve President Trump’s proposed $5,000 dividend, indicating the plan cannot move forward without lawmakers’ backing.
 - 09/14 12:02 [FirstSquawk] North Korea says it has tested weapons capable of striking South Korea, describing the systems as having “huge destructive power” amid heightened regional tensions.
+- 09/14 12:13 [FirstSquawk] Qatar eyes a bigger role in China’s growing Gulf logistics push as trade routes face disruption.
+- 09/14 12:20 [FirstSquawk] Goldman Sachs now expects the Fed to raise rates by 25 basis points this week, reversing its earlier call for no change, with the shift driven more by market pricing than its economic outlook.
+- 09/14 12:23 [FirstSquawk] Hong Kong’s five-year plan will maintain its capitalist system and existing governing model, Chief Executive John Lee says, reaffirming the city’s policy direction under the “one country, two systems” framework.
+- 09/14 12:23 [financialjuice] World Bank: approves $300 million financing to back reforms in Uruguay
+- 09/14 12:24 [FirstSquawk] The World Bank approves $300 million in financing for Uruguay, supporting government reforms aimed at strengthening the country’s economic and institutional framework.

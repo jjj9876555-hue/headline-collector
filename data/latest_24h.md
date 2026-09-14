@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 12:05 JST／対象: 09/13 12:05 〜 09/14 12:05 JST（時刻はすべて日本時間）
+生成: 2026-09-14 12:26 JST／対象: 09/13 12:26 〜 09/14 12:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 280 | 09/13 12:07 | 09/14 12:02 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 91 | 09/13 13:41 | 09/14 11:51 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 272 | 09/13 12:28 | 09/14 12:24 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 92 | 09/13 13:41 | 09/14 12:23 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 390 行（統合前 396 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 383 行（統合前 389 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 12:07 [FirstSquawk] Musk says Tesla will finally showcase the Roadster on October 1
-- 09/13 12:08 [FirstSquawk] Saudi Arabia’s top diplomat Faisal bin Farhan lands in Delhi ahead of BRICS Summit
-- 09/13 12:08 [FirstSquawk] G-7 rate pressures mount, putting the spotlight on Warsh
-- 09/13 12:09 [FirstSquawk] Indonesian ship with 243 passengers goes out of contact, prompting rescue response
-- 09/13 12:10 [FirstSquawk] Iraq rejects becoming a base for foreign conflicts or aggression against neighboring states
-- 09/13 12:10 [FirstSquawk] Houthi attack targets Yemeni forces in Ras Al-Arah, with deaths and injuries reported
-- 09/13 12:14 [FirstSquawk] Korean ETF frenzy fades as volatility pushes investors to the sidelines
-- 09/13 12:14 [FirstSquawk] STUDENT LOAN BORROWERS FACE MONTH-END DEADLINE TO AVOID COSTLIER REPAYMENT PLAN Millions of U.S. federal student loan borrowers could be automatically moved into the Standard Repayment Plan—often the most expensive monthly option—if they do…
-- 09/13 12:18 [FirstSquawk] Canadian shoppers increasingly choose domestic goods as backlash against U.S. products grows
-- 09/13 12:19 [FirstSquawk] Hong Kong’s next generation of wealthy investors looks beyond property for higher returns
-- 09/13 12:22 [FirstSquawk] Japan’s Aomori wineries band together to secure recognition for the region’s growing wine sector
-- 09/13 12:24 [FirstSquawk] Vance-linked group reportedly approached Brazil’s Flávio Bolsonaro over an anti-China minerals deal
 - 09/13 12:28 [FirstSquawk] Kyoto stadium meal incident leaves 28 people ill, with food poisoning under investigation
 - 09/13 12:32 [FirstSquawk] Automakers in Japan prepare new factory calendars from FY2027 as they seek to draw more employees
 - 09/13 12:39 [FirstSquawk] Oil supply concerns rise as Iran and UAE leaders engage on regional de-escalation
@@ -414,3 +402,8 @@
 - 09/14 11:53 [FirstSquawk] The dollar rises 0.3% against the yen to 154.02, extending gains in the currency pair.
 - 09/14 11:56 [FirstSquawk] House Speaker Mike Johnson says Congress would need to approve President Trump’s proposed $5,000 dividend, indicating the plan cannot move forward without lawmakers’ backing.
 - 09/14 12:02 [FirstSquawk] North Korea says it has tested weapons capable of striking South Korea, describing the systems as having “huge destructive power” amid heightened regional tensions.
+- 09/14 12:13 [FirstSquawk] Qatar eyes a bigger role in China’s growing Gulf logistics push as trade routes face disruption.
+- 09/14 12:20 [FirstSquawk] Goldman Sachs now expects the Fed to raise rates by 25 basis points this week, reversing its earlier call for no change, with the shift driven more by market pricing than its economic outlook.
+- 09/14 12:23 [FirstSquawk] Hong Kong’s five-year plan will maintain its capitalist system and existing governing model, Chief Executive John Lee says, reaffirming the city’s policy direction under the “one country, two systems” framework.
+- 09/14 12:23 [financialjuice] World Bank: approves $300 million financing to back reforms in Uruguay
+- 09/14 12:24 [FirstSquawk] The World Bank approves $300 million in financing for Uruguay, supporting government reforms aimed at strengthening the country’s economic and institutional framework.
