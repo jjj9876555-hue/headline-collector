@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 09:48 JST／対象: 09/13 21:48 〜 09/14 09:48 JST（時刻はすべて日本時間）
+生成: 2026-09-14 10:00 JST／対象: 09/13 22:00 〜 09/14 10:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 19 | 09/13 22:04 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 110 | 09/13 21:57 | 09/14 09:48 | ⚠ 90分（01:59→03:29） |
+| FirstSquawk | 114 | 09/13 22:46 | 09/14 09:56 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 63 | 09/13 22:10 | 09/14 09:48 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 189 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 193 行（統合前 196 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 21:57 [FirstSquawk] International Organization for Migration: Nearly 85,000 people have been forced to leave their homes due to fighting in Yemen, and about 2,000 have arrived in Djibouti.
-- 09/13 21:58 [FirstSquawk] Iranian President: BRICS group has announced its rejection of the policy of imposing unilateral sanctions and coercive measures against countries
 - 09/13 22:04 [DeItaone] IRAN, UAE AGREE TO “PUT THE PAST ASIDE” Iranian President Masoud Pezeshkian says talks with Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed were positive, following their meeting at the BRICS summit in New Delhi. Pezeshkian said …
 - 09/13 22:10 [financialjuice/FirstSquawk] Trump on Fed decision next week: says US should have lowest rates globally
 - 09/13 22:11 [financialjuice] Trump: $5,000 post-election promise should be easy for Congress
@@ -213,3 +211,9 @@
 - 09/14 09:46 [FirstSquawk] Australian dollar slips toward 0.7150 as hotter-than-expected U.S. inflation strengthens the case for a Fed rate hike, boosting the greenback and weighing on the Aussie.
 - 09/14 09:48 [FirstSquawk] Trump says he will review requests from 9/11 victims’ families to declassify records that could provide further insight into Saudi Arabia’s alleged links to the attacks, saying he will examine the matter after returning.
 - 09/14 09:48 [financialjuice] Amazon halts operations with 21 air after Miami crash: WSJ
+- 09/14 09:50 [FirstSquawk] Trump says a meeting with Delcy Rodríguez at the UN remains possible, while pointing to an energy arrangement that he says is delivering millions of barrels of oil to the U.S. each month.
+- 09/14 09:51 [FirstSquawk] NORTH KOREA SAYS A JOINT LIVE-FIRE DRILL INVOLVING MISSILES, ARTILLERY AND DRONES DEMONSTRATED THE “HUGE DESTRUCTIVE POWER” OF CONCENTRATED FIRE.
+- 09/14 09:51 [FirstSquawk] SOUTH KOREA SAYS SEVERAL MISSILES FLEW ABOUT 250 KM TOWARD NORTH KOREA’S EASTERN WATERS, INDICATING THEY ARE DESIGNED TO STRIKE TARGETS IN SOUTH KOREA.
+- 09/14 09:53 [FirstSquawk] Indonesia’s Java Sea ship disaster leaves at least six dead, with 129 people still missing after a passenger vessel capsized on Sunday, according to authorities.
+- 09/14 09:55 [FirstSquawk] Amazon pauses operations with 21 Air following the Miami crash, according to The Wall Street Journal, as the incident prompts a temporary disruption to the airline partnership.
+- 09/14 09:56 [FirstSquawk] Dollar holds steady while the yen climbs toward a seven-month high, as traders position ahead of this week’s closely watched Fed and BOJ policy meetings.

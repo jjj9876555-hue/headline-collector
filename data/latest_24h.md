@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 09:48 JST／対象: 09/13 09:48 〜 09/14 09:48 JST（時刻はすべて日本時間）
+生成: 2026-09-14 10:00 JST／対象: 09/13 10:00 〜 09/14 10:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 279 | 09/13 09:49 | 09/14 09:48 | ⚠ 90分（01:59→03:29） |
+| FirstSquawk | 279 | 09/13 10:01 | 09/14 09:56 | ⚠ 90分（01:59→03:29） |
 | financialjuice | 83 | 09/13 10:01 | 09/14 09:48 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 09:49 [FirstSquawk] AI DEVELOPMENT: Russia rejects calls to decelerate AI progress, saying the technology’s development cannot be slowed.
-- 09/13 09:50 [FirstSquawk] U.S. CORPORATE PROFITS: American companies are generating their highest-ever profits, CNBC reports.
-- 09/13 09:51 [FirstSquawk] U.S.-CHINA TENSIONS: Beijing warned Washington that new U.S. weapons deals with Taiwan could lead to the cancellation of a planned Trump-Xi summit.
-- 09/13 09:52 [FirstSquawk] WARMTH DELAYS FALL: Prolonged warm conditions are set to postpone Japan’s autumn foliage in several regions, with Hokkaido forecast to see peak colors in early November before Tokyo follows weeks later.
-- 09/13 09:53 [FirstSquawk] TRUMP PRAISES BORDER POLICY: The president says illegal crossings and sea-based drug trafficking have declined under his administration, as he renews criticism of the previous administration’s immigration policies.
-- 09/13 09:54 [FirstSquawk] ALTman ON IPO: OpenAI will not move toward an IPO this year, CEO Sam Altman says, pointing to the broader challenges surrounding AI safety.
 - 09/13 10:01 [financialjuice] Ukmto: Vessel hit by unidentified projectile while passing Strait of Hormuz
 - 09/13 10:01 [FirstSquawk] U.S.-CHINA AI RACE: Trump plays down concerns about AI’s potential dangers while pushing to keep the U.S. ahead of China in the technology race.
 - 09/13 10:01 [financialjuice] Ukmto: status of crew, damage assessment and environmental impact currently unknown
@@ -405,3 +399,9 @@
 - 09/14 09:46 [FirstSquawk] Australian dollar slips toward 0.7150 as hotter-than-expected U.S. inflation strengthens the case for a Fed rate hike, boosting the greenback and weighing on the Aussie.
 - 09/14 09:48 [FirstSquawk] Trump says he will review requests from 9/11 victims’ families to declassify records that could provide further insight into Saudi Arabia’s alleged links to the attacks, saying he will examine the matter after returning.
 - 09/14 09:48 [financialjuice] Amazon halts operations with 21 air after Miami crash: WSJ
+- 09/14 09:50 [FirstSquawk] Trump says a meeting with Delcy Rodríguez at the UN remains possible, while pointing to an energy arrangement that he says is delivering millions of barrels of oil to the U.S. each month.
+- 09/14 09:51 [FirstSquawk] NORTH KOREA SAYS A JOINT LIVE-FIRE DRILL INVOLVING MISSILES, ARTILLERY AND DRONES DEMONSTRATED THE “HUGE DESTRUCTIVE POWER” OF CONCENTRATED FIRE.
+- 09/14 09:51 [FirstSquawk] SOUTH KOREA SAYS SEVERAL MISSILES FLEW ABOUT 250 KM TOWARD NORTH KOREA’S EASTERN WATERS, INDICATING THEY ARE DESIGNED TO STRIKE TARGETS IN SOUTH KOREA.
+- 09/14 09:53 [FirstSquawk] Indonesia’s Java Sea ship disaster leaves at least six dead, with 129 people still missing after a passenger vessel capsized on Sunday, according to authorities.
+- 09/14 09:55 [FirstSquawk] Amazon pauses operations with 21 Air following the Miami crash, according to The Wall Street Journal, as the incident prompts a temporary disruption to the airline partnership.
+- 09/14 09:56 [FirstSquawk] Dollar holds steady while the yen climbs toward a seven-month high, as traders position ahead of this week’s closely watched Fed and BOJ policy meetings.
