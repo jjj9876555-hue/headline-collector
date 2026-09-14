@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 03:28 JST／対象: 09/14 15:28 〜 09/15 03:28 JST（時刻はすべて日本時間）
+生成: 2026-09-15 03:49 JST／対象: 09/14 15:49 〜 09/15 03:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 09/14 16:28 | 09/15 03:00 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 160 | 09/14 15:36 | 09/15 03:23 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 155 | 09/14 15:30 | 09/15 03:17 | ⚠ 53分（17:16→18:10） |
+| DeItaone | 49 | 09/14 16:28 | 09/15 03:33 | ⚠ 110分（00:34→02:25） |
+| FirstSquawk | 161 | 09/14 15:50 | 09/15 03:47 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 159 | 09/14 16:02 | 09/15 03:48 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 342 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 348 行（統合前 373 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 15:30 [financialjuice] SWISS PPI YOY ACTUAL -0.7% (FORECAST -, PREVIOUS -2.1%) $MACRO
-- 09/14 15:30 [financialjuice] SWISS PPI MOM ACTUAL 0.7% (FORECAST -, PREVIOUS -0.1%) $MACRO
-- 09/14 15:36 [FirstSquawk] British pound slips toward 1.3500 against the U.S. dollar as expectations for a Fed rate hike strengthen, adding pressure to sterling.
-- 09/14 15:40 [FirstSquawk] INDIA (AUG) OUTPUT PPI YOY ACTUAL: 9.81% VS 9.57% PREVIOUS
-- 09/14 15:40 [FirstSquawk] INDIA (AUG) WHOLESALE PRICES YOY ACTUAL: 9.92% VS 9.78% PREVIOUS; EST 9.90%
 - 09/14 15:50 [FirstSquawk] Chinese traders are closely watching the upcoming Xi-Trump meeting, with expectations around the talks shaping sentiment and adding uncertainty for China’s stock market.
 - 09/14 16:02 [financialjuice] Currency Strength Chart: Strongest: USD, CAD, GBP, CHF, EUR, AUD, GBP, NZD - Weakest
 - 09/14 16:28 [DeItaone] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
@@ -366,3 +361,14 @@
 - 09/15 03:00 [DeItaone] U.S.-IRAN PHASED DEAL REPORTEDLY IN PLAY Washington may be considering a “phased” agreement with Tehran aimed at ending the U.S.-Iran conflict, according to a Pakistani source cited by ILNA. The source cautioned that Trump’s recent comments…
 - 09/15 03:17 [financialjuice/FirstSquawk] US House Speaker Johnson: Trump will convene with AI executives this week or next.
 - 09/15 03:23 [FirstSquawk] SAUDI ARABIA'S KEY EAST-WEST PIPELINE, HIT BY DRONES, COULD REMAIN MOSTLY OFFLINE FOR THREE TO FIVE WEEKS, TIGHTENING GLOBAL SUPPLY AS HOUTHI FORCES EXPAND ALONG RED SEA SHIPPING ROUTES, WITH THE PIPELINE POSSIBLY OPERATING AT REDUCED CAPAC…
+- 09/15 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $101.39 a barrel, up $1.34, 1.34%.
+- 09/15 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.9615 a gallon.
+- 09/15 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.3171 a gallon.
+- 09/15 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $2.8960/MMBtu.
+- 09/15 03:32 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $101.39/BBL, UP $1.34, 1.34%
+- 09/15 03:33 [DeItaone] OPENAI BUYS STARTUP DEVELOPING SMARTPHONE CAMERA CALLED GLASS IMAGING, VALUED ABOVE $300 MILLION IN DEAL - WSJ
+- 09/15 03:36 [FirstSquawk] OPENAI ACQUIRES SMARTPHONE CAMERA STARTUP GLASS IMAGING IN A DEAL VALUED AT OVER $300 MILLION: WSJ
+- 09/15 03:45 [financialjuice] Brent Crude futures settle at $105.68/bbl, up $1.07, 1.02%.
+- 09/15 03:47 [FirstSquawk] BRENT CRUDE RISES 1.26% TO $105.93 A BARREL AND WTI GAINS 1.47% TO $101.52 AFTER SAUDI ARABIA SHUT ITS EAST-WEST PIPELINE FOLLOWING ATTACKS, RAISING GLOBAL SUPPLY CONCERNS.
+- 09/15 03:47 [FirstSquawk] OIL GAINS EASE AS TRADERS WEIGH POSSIBLE DIPLOMATIC PROGRESS WITH IRAN, WHILE THE PIPELINE’S OUTAGE DURATION AND DISRUPTIONS AROUND THE STRAIT OF HORMUZ REMAIN UNCERTAIN.
+- 09/15 03:48 [financialjuice] Saudis: A warning has been issued in the Najran province.

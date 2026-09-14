@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 03:28 JST／対象: 09/14 21:28 〜 09/15 03:28 JST（時刻はすべて日本時間）
+生成: 2026-09-15 03:49 JST／対象: 09/14 21:49 〜 09/15 03:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 09/14 21:31 | 09/15 03:00 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 91 | 09/14 21:32 | 09/15 03:23 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 113 | 09/14 21:30 | 09/15 03:17 | 23分（02:54→03:17） |
+| DeItaone | 25 | 09/14 22:05 | 09/15 03:33 | ⚠ 110分（00:34→02:25） |
+| FirstSquawk | 91 | 09/14 21:55 | 09/15 03:47 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 106 | 09/14 22:00 | 09/15 03:48 | 23分（02:54→03:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 215 行（統合前 235 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 207 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 21:30 [financialjuice] CANADIAN MANUFACTURING SALES MOM ACTUAL -0.4% (FORECAST -0.2%, PREVIOUS 0.1%) $MACRO
-- 09/14 21:30 [financialjuice] CANADIAN CPI MEDIAN ACTUAL 2% (FORECAST 2%, PREVIOUS 2.0%) $MACRO
-- 09/14 21:30 [financialjuice] CANADIAN CPI TRIM ACTUAL 1.9% (FORECAST 1.9%, PREVIOUS 1.9%) $MACRO
-- 09/14 21:31 [financialjuice] ❗ CANADIAN CPI MOM ACTUAL -0.1% (FORECAST -0.1%, PREVIOUS 0.5%) $MACRO
-- 09/14 21:31 [financialjuice] ‼ BREAKING: CANADIAN CPI YOY ACTUAL 3% (FORECAST 3%, PREVIOUS 3.0%) $MACRO
-- 09/14 21:31 [DeItaone] *CANADA INFLATION HOLDS AT 3.0% Y/Y IN AUGUST, MATCHES EST.
-- 09/14 21:31 [financialjuice] BOC CORE CPI YOY ACTUAL 2.4% (FORECAST -, PREVIOUS 2.3%) $MACRO
-- 09/14 21:31 [financialjuice] BOC CORE CPI MOM ACTUAL 0.1% (FORECAST -, PREVIOUS 0.2%) $MACRO
-- 09/14 21:31 [financialjuice] CANADIAN CPI COMMON ACTUAL 2.6% (FORECAST -, PREVIOUS 2.7%) $MACRO
-- 09/14 21:31 [financialjuice] CANADIAN CORE CPI MOM ACTUAL 0.2% (FORECAST -, PREVIOUS 0.2%) $MACRO
-- 09/14 21:31 [financialjuice] Canadian CPI August Report
-- 09/14 21:32 [FirstSquawk] Canada CPI (M/M) Aug: -0.1% (est -0.1%; prev 0.5%) - CPI (Y/Y): 3.0% (est 3.0%; prev 3.0%) - CPI Ex Food And Energy (Y/Y): 2.1% (est 2.1%; prev 1.9%) - CPI Core Median (Y/Y): 2.0% (est 2.0%; prev 2.0%) - CPI Core Trim (Y/Y): 1.9% (est 1.9%;…
-- 09/14 21:32 [FirstSquawk] CANADA MANUFACTURING SALES (M/M) JUL: -0.4% (EST -0.2%; PREV 0.1%; PREV R 0.3%)
-- 09/14 21:36 [financialjuice] StatCan: Inflation data was delayed due to website issues.
-- 09/14 21:37 [financialjuice] ❗ A Crucial Saudi Oil Pipeline Hit In Strikes Will Be Mostly Out Of Service For Several Weeks For Repairs – AP Cites Officials
-- 09/14 21:39 [FirstSquawk] A KEY SAUDI OIL PIPELINE WAS DAMAGED IN STRIKES AND WILL REMAIN OUT OF SERVICE FOR SEVERAL WEEKS FOR REPAIRS, ACCORDING TO OFFICIALS.
-- 09/14 21:41 [DeItaone] SAUDI OIL PIPELINE COULD BE DOWN FOR WEEKS Saudi Arabia’s East-West oil pipeline could remain largely offline for 3–5 weeks following last week’s drone attack, AP reports. The pipeline can carry up to 7 million barrels per day to the Red Se…
-- 09/14 21:42 [DeItaone/FirstSquawk] U.S. CRUDE FUTURES EXTENDED GAINS TO HIT A SESSION HIGH OF $104.95/BBL, HIGHEST LEVEL SINCE MID MAY
-- 09/14 21:47 [financialjuice] Saudi oil pipeline hit in strikes will be mostly out of service for several weeks for repair
 - 09/14 21:55 [FirstSquawk] POLISH CABINET TO DISCUSS FUEL FIRMS WINDFALL TAX ON TUESDAY
 - 09/14 22:00 [financialjuice] Effective Fed Funds Rate 3.63% September 11 vs 3.63% September 10
 - 09/14 22:00 [FirstSquawk] NVIDIA EXPANDS OPEN SOURCE CUDA-Q PLATFORM WITH CUDA-Q LOGICAL
@@ -239,3 +220,14 @@
 - 09/15 03:00 [DeItaone] U.S.-IRAN PHASED DEAL REPORTEDLY IN PLAY Washington may be considering a “phased” agreement with Tehran aimed at ending the U.S.-Iran conflict, according to a Pakistani source cited by ILNA. The source cautioned that Trump’s recent comments…
 - 09/15 03:17 [financialjuice/FirstSquawk] US House Speaker Johnson: Trump will convene with AI executives this week or next.
 - 09/15 03:23 [FirstSquawk] SAUDI ARABIA'S KEY EAST-WEST PIPELINE, HIT BY DRONES, COULD REMAIN MOSTLY OFFLINE FOR THREE TO FIVE WEEKS, TIGHTENING GLOBAL SUPPLY AS HOUTHI FORCES EXPAND ALONG RED SEA SHIPPING ROUTES, WITH THE PIPELINE POSSIBLY OPERATING AT REDUCED CAPAC…
+- 09/15 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $101.39 a barrel, up $1.34, 1.34%.
+- 09/15 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.9615 a gallon.
+- 09/15 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.3171 a gallon.
+- 09/15 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $2.8960/MMBtu.
+- 09/15 03:32 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $101.39/BBL, UP $1.34, 1.34%
+- 09/15 03:33 [DeItaone] OPENAI BUYS STARTUP DEVELOPING SMARTPHONE CAMERA CALLED GLASS IMAGING, VALUED ABOVE $300 MILLION IN DEAL - WSJ
+- 09/15 03:36 [FirstSquawk] OPENAI ACQUIRES SMARTPHONE CAMERA STARTUP GLASS IMAGING IN A DEAL VALUED AT OVER $300 MILLION: WSJ
+- 09/15 03:45 [financialjuice] Brent Crude futures settle at $105.68/bbl, up $1.07, 1.02%.
+- 09/15 03:47 [FirstSquawk] BRENT CRUDE RISES 1.26% TO $105.93 A BARREL AND WTI GAINS 1.47% TO $101.52 AFTER SAUDI ARABIA SHUT ITS EAST-WEST PIPELINE FOLLOWING ATTACKS, RAISING GLOBAL SUPPLY CONCERNS.
+- 09/15 03:47 [FirstSquawk] OIL GAINS EASE AS TRADERS WEIGH POSSIBLE DIPLOMATIC PROGRESS WITH IRAN, WHILE THE PIPELINE’S OUTAGE DURATION AND DISRUPTIONS AROUND THE STRAIT OF HORMUZ REMAIN UNCERTAIN.
+- 09/15 03:48 [financialjuice] Saudis: A warning has been issued in the Najran province.
