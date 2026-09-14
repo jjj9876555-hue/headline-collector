@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 09:25 JST／対象: 09/13 09:25 〜 09/14 09:25 JST（時刻はすべて日本時間）
+生成: 2026-09-14 09:48 JST／対象: 09/13 09:48 〜 09/14 09:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 274 | 09/13 09:35 | 09/14 09:24 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 81 | 09/13 10:01 | 09/14 09:23 | ⚠ 220分（10:01→13:41） |
+| FirstSquawk | 279 | 09/13 09:49 | 09/14 09:48 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 83 | 09/13 10:01 | 09/14 09:48 | ⚠ 220分（10:01→13:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 374 行（統合前 380 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 381 行（統合前 387 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 09:35 [FirstSquawk] Sony’s move to discontinue physical PlayStation game releases triggers backlash over digital ownership. Consumer rights groups in the UK and Mexico warn that the decision could undermine buyer choice.
-- 09/13 09:36 [FirstSquawk] Anthropic chief executive Dario Amodei urges AI firms to intentionally moderate the speed of artificial intelligence advancement.
-- 09/13 09:38 [FirstSquawk] Seven retirees who settled in tax-friendly states reveal how the move affected their wealth, reduced their tax burdens, exposed unforeseen costs and transformed their daily lives - WSJ
-- 09/13 09:41 [FirstSquawk] NEW YORK REAL ESTATE: Manhattan's ultra-luxury rental segment is booming, with apartments commanding over $50,000 per month more than doubling year-on-year and those exceeding $100,000 increasing sevenfold, according to CNBC.
-- 09/13 09:42 [FirstSquawk] OIL DEMAND HIT: China’s ambitious 70% EV target threatens to accelerate the decline in petroleum consumption.
-- 09/13 09:43 [FirstSquawk] PEACE NEGOTIATIONS: Another round of Ukraine-U.S.-Russia talks may be held in October, Budanov says, as Washington intensifies efforts to revive the negotiation process.
-- 09/13 09:44 [FirstSquawk] PUTIN WARNS EUROPE: Russian President Vladimir Putin cautions that deploying European troops to Ukraine would amount to direct war with Russia, CBS reports.
-- 09/13 09:47 [FirstSquawk] DEATH TOLL RISES: The number of fatalities from a Philippine ferry fire reaches 76, while search operations continue.
-- 09/13 09:47 [FirstSquawk] BIG LAW SHAKE-UP: Cravath is gaining Weil Gotshal’s highest-paid partner, with the move exposing divergent approaches to growth across the legal industry, according to WSJ.
 - 09/13 09:49 [FirstSquawk] AI DEVELOPMENT: Russia rejects calls to decelerate AI progress, saying the technology’s development cannot be slowed.
 - 09/13 09:50 [FirstSquawk] U.S. CORPORATE PROFITS: American companies are generating their highest-ever profits, CNBC reports.
 - 09/13 09:51 [FirstSquawk] U.S.-CHINA TENSIONS: Beijing warned Washington that new U.S. weapons deals with Taiwan could lead to the cancellation of a planned Trump-Xi summit.
@@ -398,3 +389,19 @@
 - 09/14 09:23 [financialjuice] China PBOC likely to fix yuan midpoint at 6.7083 per dollar: estimate
 - 09/14 09:24 [FirstSquawk] Higher oil prices are strengthening the case for rate hikes, as renewed energy-cost pressures raise concerns over inflation and could complicate central banks’ policy decisions.
 - 09/14 09:24 [FirstSquawk] Middle East tensions are tightening global oil supplies, with Houthi activity in Yemen adding pressure to another key energy corridor and increasing risks for regional energy flows.
+- 09/14 09:26 [FirstSquawk] Nikkei slides 1.6% as chipmakers and metals stocks come under pressure, weighing on Japan’s broader equity market.
+- 09/14 09:29 [FirstSquawk] Trump signals the U.S. could remain in Iran and take control of its oil, raising the stakes for Washington’s role in the country and adding another layer of uncertainty to global energy markets - cablefxmacro
+- 09/14 09:32 [FirstSquawk] The Kennedy Center is reportedly on the verge of bankruptcy, with the Washington Post reporting that the Washington arts institution could face closure as soon as Tuesday.
+- 09/14 09:34 [FirstSquawk] SpaceX marks a major milestone as **Falcon completes its 700th flight**, with Elon Musk congratulating the team behind the rocket program.
+- 09/14 09:34 [financialjuice] Election authority projection: Sweden's centre-left opposition bloc now seen at 176 seats vs 173 for governing coalition
+- 09/14 09:37 [FirstSquawk] SoftBank shares plunge 13% as calls to slow the pace of AI development trigger a sharp selloff, putting fresh pressure on the company’s aggressive AI investment strategy - zerohedge
+- 09/14 09:38 [FirstSquawk] GOLD SLIPS 0.2% TO AROUND $4,340 AN OUNCE AS HOTTER-THAN-EXPECTED U.S. INFLATION BOOSTS BETS TO AN 88% CHANCE OF A SEPTEMBER FED RATE HIKE. || HIGHER BORROWING COSTS AND RISING OIL PRICES WEIGH ON BULLION, WITH BRENT CRUDE SURGING TOWARD $1…
+- 09/14 09:38 [FirstSquawk] Sweden’s centre-left opposition edges ahead in the latest election projection, with 176 seats versus 173 for the governing coalition, according to the election authority.
+- 09/14 09:39 [FirstSquawk] Gold slips 0.2% to around $4,340 an ounce as hotter-than-expected U.S. inflation boosts expectations for a September Fed rate hike, with markets now pricing an 88% probability.
+- 09/14 09:40 [FirstSquawk] ANTHROPIC EXPECTS TO REPORT AN ADJUSTED OPERATING PROFIT THIS QUARTER, MARKING ITS SECOND CONSECUTIVE PROFITABLE PERIOD, WITH GROSS MARGINS ABOVE 80% BEFORE REVENUE-SHARING AND AI TRAINING COSTS.
+- 09/14 09:40 [FirstSquawk] ANTHROPIC IS PREPARING FOR AN IPO ON NASDAQ AND AIMS TO MATCH OR EXCEED SPACEX’S RECORD $86.3 BILLION OFFERING, AS ITS ANNUALIZED REVENUE PACE SURPASSES $65 BILLION.
+- 09/14 09:46 [FirstSquawk] ASIAN STOCKS AND U.S. EQUITY FUTURES RETREATED AFTER MAJOR AI COMPANIES CALLED FOR A SLOWDOWN IN THE TECHNOLOGY'S DEVELOPMENT, RATTLING A SECTOR THAT HAS POWERED THIS YEAR'S RALLY, WITH MSCI'S ASIA PACIFIC INDEX DOWN 0.5%, NASDAQ 100 FUTURE…
+- 09/14 09:46 [FirstSquawk] THE U.S. CORE CPI ROSE 0.3% IN AUGUST AND 2.4% Y/Y, WITH OVERALL PRICES UP 0.4% AND 3.4% ANNUALLY ON HIGHER ENERGY COSTS, REINFORCING BETS THE FED MAY HIKE WEDNESDAY — NOW OVER 90% PRICED IN — AS 10-YEAR YIELDS NEARED 5%, WHILE ANTHROPIC PI…
+- 09/14 09:46 [FirstSquawk] Australian dollar slips toward 0.7150 as hotter-than-expected U.S. inflation strengthens the case for a Fed rate hike, boosting the greenback and weighing on the Aussie.
+- 09/14 09:48 [FirstSquawk] Trump says he will review requests from 9/11 victims’ families to declassify records that could provide further insight into Saudi Arabia’s alleged links to the attacks, saying he will examine the matter after returning.
+- 09/14 09:48 [financialjuice] Amazon halts operations with 21 air after Miami crash: WSJ

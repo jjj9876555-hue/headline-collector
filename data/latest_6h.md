@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 09:25 JST／対象: 09/14 03:25 〜 09/14 09:25 JST（時刻はすべて日本時間）
+生成: 2026-09-14 09:48 JST／対象: 09/14 03:48 〜 09/14 09:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/14 04:05 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 66 | 09/14 03:29 | 09/14 09:24 | 43分（03:41→04:25） |
-| financialjuice | 37 | 09/14 03:52 | 09/14 09:23 | ⚠ 52分（04:46→05:39） |
+| FirstSquawk | 72 | 09/14 04:25 | 09/14 09:48 | 37分（07:53→08:31） |
+| financialjuice | 39 | 09/14 03:52 | 09/14 09:48 | ⚠ 52分（04:46→05:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 105 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 03:29 [FirstSquawk] A RUSSIAN DRONE STRUCK A TRAIN NEAR THE UKRAINE-POLAND BORDER ON SUNDAY SHORTLY AFTER SENIOR VISITING OFFICIALS — INCLUDING FORMER U.K. PRIME MINISTER BORIS JOHNSON AND FORMER SWEDISH PRIME MINISTER CARL BILDT — PASSED THROUGH, UKRAINE'S ST…
-- 09/14 03:29 [FirstSquawk] UKRZALIZNYTSIA SAID IT IS 'HIGHLY PROBABLE' THE DRONE'S TARGET WAS THE DIPLOMATIC TRAIN, WITH ANOTHER TRAIN CARRYING FORMER CIA DIRECTOR DAVID PETRAEUS STILL AT THE STATION WHEN THE DRONE STRUCK, THOUGH NO CASUALTIES WERE IMMEDIATELY REPORT…
-- 09/14 03:29 [FirstSquawk] BILDT SAID ON X IT 'WASN'T OUR TRAIN, BUT THE ONE JUST MINUTES AFTER US', WHILE JOHNSON CALLED IT 'THE KIND OF RANDOM AND SENSELESS ATTACK UKRAINIANS ARE ENDURING EVERY DAY'.
-- 09/14 03:30 [FirstSquawk] TRUMP SAYS HE WILL REMOVE U.S. TARIFFS ON IRISH WHISKEY, DELIVERING A MAJOR WIN FOR IRELAND’S DISTILLERS AFTER APPEALS FROM PRIME MINISTER MICHEÁL MARTIN AND GOLFER SHANE LOWRY. THE MOVE WOULD END THE CURRENT 10% U.S. TARIFF ON IRISH WHISKE…
-- 09/14 03:38 [FirstSquawk] PRESIDENT DONALD TRUMP SAYS HE WILL REMOVE U.S. TARIFFS ON IRISH WHISKEY, ANNOUNCING THE MOVE SUNDAY AS HE ATTENDED A GOLF TOURNAMENT AT HIS FAMILY'S COURSE IN WESTERN IRELAND, TELLING THE CROWD 'ON BEHALF OF THE UNITED STATES OF AMERICA, I…
-- 09/14 03:38 [FirstSquawk] THE DECISION DELIVERS A MAJOR VICTORY TO THE IRISH GOVERNMENT AND HIGHLIGHTS TRUMP'S OFTEN SHIFTING AND PERSONAL APPROACH TO TRADE POLICY, COMING AT THE END OF A TWO-DAY VISIT IN WHICH IRELAND'S LEADERS 'ROLLED OUT THE RED CARPET', WITH TRU…
-- 09/14 03:38 [FirstSquawk] THE VISIT WAS NOT WITHOUT CONTROVERSY, AS TRUMP SAID SATURDAY HE WOULD LIKE TO SEE A UNIFIED IRELAND — SPARKING BLOWBACK IN NORTHERN IRELAND, WHICH IS PART OF THE UK — THOUGH HE DEFENDED THE REMARKS SUNDAY, CALLING THEM 'FAIRLY ROUTINE' AND…
-- 09/14 03:41 [FirstSquawk] U.S. HOUSE SPEAKER MIKE JOHNSON SAYS ON IRAN THAT 'THE IRANIANS ARE NOT TRUSTWORTHY NEGOTIATING PARTNERS', ACCUSING THEM OF LYING 'EVERY DAY' AND SITTING AT THE TABLE TO 'TELL YOU ONE THING, DO THE OPPOSITE', ADDING THAT 'FOR SOME OF THEM, …
 - 09/14 03:52 [financialjuice] Trump: will consider releasing additional records related to 9/11 attacks
 - 09/14 04:00 [financialjuice/FirstSquawk] Canada aims for Ukraine loan role to strengthen EU relations - FT
 - 09/14 04:05 [DeItaone] TRUMP SAYS HE WILL LOOK AT WHETHER TO RELEASE MORE RECORDS LINKED TO 9/11 ATTACKS
@@ -129,3 +121,19 @@
 - 09/14 09:23 [financialjuice] China PBOC likely to fix yuan midpoint at 6.7083 per dollar: estimate
 - 09/14 09:24 [FirstSquawk] Higher oil prices are strengthening the case for rate hikes, as renewed energy-cost pressures raise concerns over inflation and could complicate central banks’ policy decisions.
 - 09/14 09:24 [FirstSquawk] Middle East tensions are tightening global oil supplies, with Houthi activity in Yemen adding pressure to another key energy corridor and increasing risks for regional energy flows.
+- 09/14 09:26 [FirstSquawk] Nikkei slides 1.6% as chipmakers and metals stocks come under pressure, weighing on Japan’s broader equity market.
+- 09/14 09:29 [FirstSquawk] Trump signals the U.S. could remain in Iran and take control of its oil, raising the stakes for Washington’s role in the country and adding another layer of uncertainty to global energy markets - cablefxmacro
+- 09/14 09:32 [FirstSquawk] The Kennedy Center is reportedly on the verge of bankruptcy, with the Washington Post reporting that the Washington arts institution could face closure as soon as Tuesday.
+- 09/14 09:34 [FirstSquawk] SpaceX marks a major milestone as **Falcon completes its 700th flight**, with Elon Musk congratulating the team behind the rocket program.
+- 09/14 09:34 [financialjuice] Election authority projection: Sweden's centre-left opposition bloc now seen at 176 seats vs 173 for governing coalition
+- 09/14 09:37 [FirstSquawk] SoftBank shares plunge 13% as calls to slow the pace of AI development trigger a sharp selloff, putting fresh pressure on the company’s aggressive AI investment strategy - zerohedge
+- 09/14 09:38 [FirstSquawk] GOLD SLIPS 0.2% TO AROUND $4,340 AN OUNCE AS HOTTER-THAN-EXPECTED U.S. INFLATION BOOSTS BETS TO AN 88% CHANCE OF A SEPTEMBER FED RATE HIKE. || HIGHER BORROWING COSTS AND RISING OIL PRICES WEIGH ON BULLION, WITH BRENT CRUDE SURGING TOWARD $1…
+- 09/14 09:38 [FirstSquawk] Sweden’s centre-left opposition edges ahead in the latest election projection, with 176 seats versus 173 for the governing coalition, according to the election authority.
+- 09/14 09:39 [FirstSquawk] Gold slips 0.2% to around $4,340 an ounce as hotter-than-expected U.S. inflation boosts expectations for a September Fed rate hike, with markets now pricing an 88% probability.
+- 09/14 09:40 [FirstSquawk] ANTHROPIC EXPECTS TO REPORT AN ADJUSTED OPERATING PROFIT THIS QUARTER, MARKING ITS SECOND CONSECUTIVE PROFITABLE PERIOD, WITH GROSS MARGINS ABOVE 80% BEFORE REVENUE-SHARING AND AI TRAINING COSTS.
+- 09/14 09:40 [FirstSquawk] ANTHROPIC IS PREPARING FOR AN IPO ON NASDAQ AND AIMS TO MATCH OR EXCEED SPACEX’S RECORD $86.3 BILLION OFFERING, AS ITS ANNUALIZED REVENUE PACE SURPASSES $65 BILLION.
+- 09/14 09:46 [FirstSquawk] ASIAN STOCKS AND U.S. EQUITY FUTURES RETREATED AFTER MAJOR AI COMPANIES CALLED FOR A SLOWDOWN IN THE TECHNOLOGY'S DEVELOPMENT, RATTLING A SECTOR THAT HAS POWERED THIS YEAR'S RALLY, WITH MSCI'S ASIA PACIFIC INDEX DOWN 0.5%, NASDAQ 100 FUTURE…
+- 09/14 09:46 [FirstSquawk] THE U.S. CORE CPI ROSE 0.3% IN AUGUST AND 2.4% Y/Y, WITH OVERALL PRICES UP 0.4% AND 3.4% ANNUALLY ON HIGHER ENERGY COSTS, REINFORCING BETS THE FED MAY HIKE WEDNESDAY — NOW OVER 90% PRICED IN — AS 10-YEAR YIELDS NEARED 5%, WHILE ANTHROPIC PI…
+- 09/14 09:46 [FirstSquawk] Australian dollar slips toward 0.7150 as hotter-than-expected U.S. inflation strengthens the case for a Fed rate hike, boosting the greenback and weighing on the Aussie.
+- 09/14 09:48 [FirstSquawk] Trump says he will review requests from 9/11 victims’ families to declassify records that could provide further insight into Saudi Arabia’s alleged links to the attacks, saying he will examine the matter after returning.
+- 09/14 09:48 [financialjuice] Amazon halts operations with 21 air after Miami crash: WSJ
