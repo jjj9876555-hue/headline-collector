@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 02:52 JST／対象: 09/14 14:52 〜 09/15 02:52 JST（時刻はすべて日本時間）
+生成: 2026-09-15 03:05 JST／対象: 09/14 15:05 〜 09/15 03:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 47 | 09/14 16:28 | 09/15 02:47 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 179 | 09/14 14:54 | 09/15 02:40 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 155 | 09/14 15:00 | 09/15 02:47 | ⚠ 53分（17:16→18:10） |
+| DeItaone | 48 | 09/14 16:28 | 09/15 03:00 | ⚠ 110分（00:34→02:25） |
+| FirstSquawk | 165 | 09/14 15:06 | 09/15 02:58 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 154 | 09/14 15:30 | 09/15 02:54 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 362 行（統合前 385 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 347 行（統合前 371 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 14:54 [FirstSquawk] Russian forces launched drone attacks on Ukraine’s western Lviv region, with the heaviest damage reported in Stryi. No deaths or injuries were reported, while a residential building and an educational complex were damaged, according to CNBC…
-- 09/14 14:56 [FirstSquawk] Bangladesh says it must turn to the spot LNG market to replace 110 cargoes previously scheduled from Qatar, adding pressure to its gas supply arrangements.
-- 09/14 14:56 [FirstSquawk] Bangladesh’s energy minister says the LNG supply disruption has put significant pressure on the country’s economy, as Dhaka seeks replacement cargoes on the spot market.
-- 09/14 14:57 [FirstSquawk] Saudi-backed Yemeni forces retake positions in southwest Taiz after Houthi militants infiltrated the area, Saudi media Hadath reports.
-- 09/14 14:57 [FirstSquawk] South Korea’s foreign ministry condemns Houthi attacks on Saudi civilians and economic infrastructure, calling for an immediate halt to the attacks.
-- 09/14 15:00 [financialjuice] SWEDISH CPI MOM ACTUAL -0.3% (FORECAST -0.3%, PREVIOUS -0.3%) $MACRO
-- 09/14 15:00 [FirstSquawk] U.S. stock futures fall sharply, with S&P 500 E-mini futures down 0.5%, Nasdaq-100 futures off 1.3% and Dow futures lower 0.1%.
-- 09/14 15:00 [financialjuice] SWEDISH CPI YOY ACTUAL 0.3% (FORECAST 0.3%, PREVIOUS 0.3%) $MACRO
-- 09/14 15:01 [FirstSquawk] China’s top intelligence official warns that rapid AI advances could threaten political stability and critical infrastructure, saying adversaries’ misuse of the technology could pose direct risks to China’s political, institutional and ideo…
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI MOM ACTUAL: -0.3% VS -0.3% PREVIOUS;EST -0.3%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI YOY ACTUAL: 0.3% VS 0.3% PREVIOUS;EST 0.3%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF MOM ACTUAL: -0.2% VS -0.3% PREVIOUS;EST -0.3%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF YOY ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY MOM ACTUAL: -0.5% VS -0.6% PREVIOUS;EST -0.6%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY YOY ACTUAL: 0.5% VS 0.5% PREVIOUS;EST 0.5%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI LEVEL ACTUAL: 124.85 VS 125.17 PREVIOUS;EST 124.82
-- 09/14 15:04 [FirstSquawk] European stock futures are mixed, with STOXX Europe 50 down 0.41%, DAX futures lower 0.35%, while FTSE 100 futures rise 0.18%.
 - 09/14 15:06 [FirstSquawk] Bangladesh is seeking alternative LNG suppliers and considering U.S. LNG despite high shipping costs, as the country works to secure replacement gas supplies.
 - 09/14 15:06 [FirstSquawk] AstraZeneca’s breast-cancer drug fails to meet its goal in a late-stage trial, dealing a setback to the company’s oncology pipeline.
 - 09/14 15:10 [FirstSquawk] Shanghai is encouraging eligible financial institutions to develop enterprise AI platforms, signaling a push to accelerate AI adoption across the city’s financial sector.
@@ -386,3 +369,5 @@
 - 09/15 02:46 [financialjuice] Northrop, Air Force put together first complete Sentinel missile
 - 09/15 02:47 [financialjuice] Northrop says Entinel missile on track for 2027 flight test
 - 09/15 02:47 [DeItaone] TRUMP SAYS AI TAKING OVER WORLD, DESTROYING HUMANITY IS A HOAX
+- 09/15 02:54 [financialjuice/FirstSquawk] House Minority Leader Jeffries: Democrats to prioritize regulating AI if we win house
+- 09/15 03:00 [DeItaone] U.S.-IRAN PHASED DEAL REPORTEDLY IN PLAY Washington may be considering a “phased” agreement with Tehran aimed at ending the U.S.-Iran conflict, according to a Pakistani source cited by ILNA. The source cautioned that Trump’s recent comments…

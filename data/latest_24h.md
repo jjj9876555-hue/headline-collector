@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 02:52 JST／対象: 09/14 02:52 〜 09/15 02:52 JST（時刻はすべて日本時間）
+生成: 2026-09-15 03:05 JST／対象: 09/14 03:05 〜 09/15 03:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 51 | 09/14 04:05 | 09/15 02:47 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 338 | 09/14 03:29 | 09/15 02:40 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 234 | 09/14 03:01 | 09/15 02:47 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 52 | 09/14 04:05 | 09/15 03:00 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 339 | 09/14 03:29 | 09/15 02:58 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 229 | 09/14 03:05 | 09/15 02:54 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 602 行（統合前 627 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 598 行（統合前 624 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 03:01 [financialjuice] Sweden's Social Democrats forecasted to secure 28.4% of votes in election vs 30.3% in 2022 - public broadcaster SVT exit poll
-- 09/14 03:02 [financialjuice] Sweden Democrats forecast to gather 17.2% of votes in election vs 20.5% in 2022 public broadcaster SVT exit poll
-- 09/14 03:04 [financialjuice] Sweden's centre-left opposition bloc to secure 51.3% of votes in election: TV4 election day poll
-- 09/14 03:04 [financialjuice] Sweden's right-wing governing bloc set to capture 47% of votes in election: TV4 election day poll
-- 09/14 03:04 [financialjuice] Sweden's Liberals party seen surpassing parliament's 4% threshold: TV4 election day poll
-- 09/14 03:05 [financialjuice] Sweden's Liberals party expected to clear parliament's 4% threshold: public broadcaster SVT exit poll
 - 09/14 03:05 [financialjuice] Sweden's centre-left bloc projected to secure 46.8% of votes in election: public broadcaster SVT exit poll
 - 09/14 03:05 [financialjuice] Sweden's right-wing ruling bloc tipped to secure 51.3% of vote in election: public broadcaster SVT exit poll
 - 09/14 03:08 [financialjuice] Sweden's centre-left bloc projected to secure 51.3% of votes in election: public broadcaster SVT exit poll
@@ -626,3 +620,5 @@
 - 09/15 02:46 [financialjuice] Northrop, Air Force put together first complete Sentinel missile
 - 09/15 02:47 [financialjuice] Northrop says Entinel missile on track for 2027 flight test
 - 09/15 02:47 [DeItaone] TRUMP SAYS AI TAKING OVER WORLD, DESTROYING HUMANITY IS A HOAX
+- 09/15 02:54 [financialjuice/FirstSquawk] House Minority Leader Jeffries: Democrats to prioritize regulating AI if we win house
+- 09/15 03:00 [DeItaone] U.S.-IRAN PHASED DEAL REPORTEDLY IN PLAY Washington may be considering a “phased” agreement with Tehran aimed at ending the U.S.-Iran conflict, according to a Pakistani source cited by ILNA. The source cautioned that Trump’s recent comments…

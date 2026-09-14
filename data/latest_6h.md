@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 02:52 JST／対象: 09/14 20:52 〜 09/15 02:52 JST（時刻はすべて日本時間）
+生成: 2026-09-15 03:05 JST／対象: 09/14 21:05 〜 09/15 03:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/14 21:14 | 09/15 02:47 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 96 | 09/14 20:58 | 09/15 02:40 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 121 | 09/14 21:00 | 09/15 02:47 | 23分（00:46→01:09） |
+| DeItaone | 30 | 09/14 21:14 | 09/15 03:00 | ⚠ 110分（00:34→02:25） |
+| FirstSquawk | 95 | 09/14 21:13 | 09/15 02:58 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 121 | 09/14 21:08 | 09/15 02:54 | 23分（00:46→01:09） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 231 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 230 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 20:58 [FirstSquawk] 89% OF AMERICANS SAY GOVERNMENT CORRUPTION IS REAL — PUBLIC TRUST HITS A BREAKING POINT A striking 89% of Americans believe corruption is present in the U.S. government, highlighting a deep and widespread crisis of public trust. The figure …
-- 09/14 21:00 [financialjuice] Secured overnight financing rate: 3.62% September 11th vs 3.62% September 10th
-- 09/14 21:02 [FirstSquawk] NATO'S RUTTE: NATO HAS ALL THE OPTIONS IT NEEDS TO RESPOND TO RUSSIAN HYBRID ATTACKS, RESPONSE WILL NOT ALWAYS BE VISIBLE
 - 09/14 21:08 [financialjuice] Morning Juice – US Session Prep (14th September)
 - 09/14 21:11 [financialjuice/FirstSquawk] Oil production in Kazakhstan fell by 8.4% in January-August, with 61.7 million tonnes produced - IFX
 - 09/14 21:14 [DeItaone] FED HIKE BECOMES THE BASE CASE Goldman Sachs and JPMorgan now expect a 25bp Fed hike this week after hotter inflation and surging oil. Kalshi puts the odds of a 25bp hike at 80%, while broader markets price around 87%. JPMorgan expects anot…
@@ -255,3 +252,5 @@
 - 09/15 02:46 [financialjuice] Northrop, Air Force put together first complete Sentinel missile
 - 09/15 02:47 [financialjuice] Northrop says Entinel missile on track for 2027 flight test
 - 09/15 02:47 [DeItaone] TRUMP SAYS AI TAKING OVER WORLD, DESTROYING HUMANITY IS A HOAX
+- 09/15 02:54 [financialjuice/FirstSquawk] House Minority Leader Jeffries: Democrats to prioritize regulating AI if we win house
+- 09/15 03:00 [DeItaone] U.S.-IRAN PHASED DEAL REPORTEDLY IN PLAY Washington may be considering a “phased” agreement with Tehran aimed at ending the U.S.-Iran conflict, according to a Pakistani source cited by ILNA. The source cautioned that Trump’s recent comments…
