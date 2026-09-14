@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 22:28 JST／対象: 09/14 16:28 〜 09/14 22:28 JST（時刻はすべて日本時間）
+生成: 2026-09-14 22:46 JST／対象: 09/14 16:46 〜 09/14 22:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/14 16:28 | 09/14 22:11 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 79 | 09/14 16:41 | 09/14 22:21 | 18分（20:12→20:31） |
-| financialjuice | 66 | 09/14 16:29 | 09/14 22:15 | ⚠ 53分（17:16→18:10） |
+| DeItaone | 28 | 09/14 17:19 | 09/14 22:11 | ⚠ 53分（18:30→19:24） |
+| FirstSquawk | 83 | 09/14 16:49 | 09/14 22:45 | 18分（20:12→20:31） |
+| financialjuice | 67 | 09/14 16:53 | 09/14 22:39 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 166 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 16:28 [DeItaone] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
-- 09/14 16:29 [financialjuice] Iran's foreign ministry spokesperson: Saudi Arabia insisted for meeting between Tehran and Gulf powers in Oman not to take place
-- 09/14 16:38 [financialjuice] Iran's Foreign Ministry Spokesperson: Reports about nuclear activity in Iran's Pickaxe mountain (kolang kouh) are baseless.
-- 09/14 16:41 [FirstSquawk] IRAN’S FOREIGN MINISTRY SPOX: SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
-- 09/14 16:41 [FirstSquawk] ICBC, HSBC Among Major Lenders On Bytedance's $30 Billion Loan
-- 09/14 16:41 [FirstSquawk] Novo Nordisk - 'Novo' To Be Used As Company Name; Novo Nordisk A/S Remains Legal Name
-- 09/14 16:41 [FirstSquawk] GERMAN NEW PASSENGER CAR REGISTRATIONS DOWN 4.6%
 - 09/14 16:49 [FirstSquawk] NEW SHIPPING PATHS IN THE ARCTIC, UNTAPPED MINERAL RESOURCES, AND SECURITY RISKS WILL BE DISCUSSED AT A SUMMIT IN FINLAND.
 - 09/14 16:50 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON CLAIMED ON MONDAY THAT ISRAEL IS THE SOLE BENEFICIARY OF STRIFE BETWEEN IRAN AND PERSIAN GULF NATIONS.
 - 09/14 16:53 [FirstSquawk] ECB'S SIMKUS: DECEMBER IS NATURAL TIME TO ASSESS SITAUTION MORE
@@ -190,3 +183,14 @@
 - 09/14 22:15 [financialjuice] Oracle begins a new round of layoffs - Business Insider $ORCL
 - 09/14 22:17 [FirstSquawk] ORACLE BEGINS A NEW ROUND OF LAYOFFS
 - 09/14 22:21 [FirstSquawk] LULA SEEN WITH 36%, FLAVIO BOLSONARO 31%, CURY 7% IN FIRST ROUND OF BRAZIL'S PRESIDENTIAL ELECTION - QUAEST POLL
+- 09/14 22:30 [FirstSquawk] 12 EU MEMBER COUNTRIES: CALL FOR EU TO TAKE ON A MORE ‘STRATEGIC AND PROACTIVE ROLE’ IN THE EUROPEAN ARCTIC - JOINT STATEMENT
+- 09/14 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 35.3 MLN NASDAQ 100: -32.6 MLN DOW 30: 38.0 MLN MAG 7: -9.6 MLN $MACRO
+- 09/14 22:31 [FirstSquawk] NVIDIA OPENS 3.7% LOWER AMID CALLS FOR SLOWER AI DEVELOPMENT
+- 09/14 22:32 [FirstSquawk] EUROPE HESITATES AS RUSSIAN ATTACKS ESCALATE – POLITICO
+- 09/14 22:35 [financialjuice] Musk’s X and xAI resolve antitrust lawsuit against Apple - court filing. $SPCX $AAPL
+- 09/14 22:35 [FirstSquawk] MICROSOFT DRAWS A LINE ON AI POWER: “PEOPLE MATTER MORE THAN AI”
+- 09/14 22:38 [FirstSquawk] UK GOVT CONSIDERING TAKEOVER OF SPECIALITY STEEL UK: FT
+- 09/14 22:39 [FirstSquawk] JOHNSON & JOHNSON SHARES RISE ON APOLLO GLOBAL TAKEOVER TALKS - INVESTING
+- 09/14 22:39 [FirstSquawk] RUSSIA BANS SULFURIC ACID EXPORTS UNTIL YEAR-END: KOMMERSANT
+- 09/14 22:39 [financialjuice] UK government considering takeover of insolvent steelmaker - FT
+- 09/14 22:45 [FirstSquawk] AI BOOM FALTERS: US TECH STOCKS SLUMP AS BIG TECH CALLS FOR AI SLOWDOWN

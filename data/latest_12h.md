@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 22:28 JST／対象: 09/14 10:28 〜 09/14 22:28 JST（時刻はすべて日本時間）
+生成: 2026-09-14 22:46 JST／対象: 09/14 10:46 〜 09/14 22:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 29 | 09/14 16:28 | 09/14 22:11 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 167 | 09/14 10:29 | 09/14 22:21 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 97 | 09/14 10:34 | 09/14 22:15 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 169 | 09/14 10:48 | 09/14 22:45 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 98 | 09/14 11:31 | 09/14 22:39 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 285 行（統合前 293 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 288 行（統合前 297 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 10:29 [FirstSquawk] Amazon says it has suspended operations with 21 Air, signaling a pause in its business relationship with the carrier.
-- 09/14 10:33 [FirstSquawk] WTI rebounds toward a near four-month high as Saudi Arabia’s pipeline shutdown raises fresh concerns over crude supply and adds upward pressure to oil prices.
-- 09/14 10:34 [financialjuice] Hong Kong-listed shares of drop as much as 10.5% after discounted share placement
-- 09/14 10:36 [FirstSquawk] Z. AL shares plunge as much as 10.5% in Hong Kong after the company launches a discounted share placement, putting fresh pressure on the stock.
-- 09/14 10:40 [FirstSquawk] European leaders have gathered in Rovaniemi, Finland, for a two-day summit focused on the Arctic region’s economic opportunities and security, Finnish broadcaster YLE reports.
-- 09/14 10:40 [financialjuice] S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.050% yield
-- 09/14 10:43 [FirstSquawk] South Korea’s central bank sells 91-day Monetary Stabilisation Bonds at a 3.050% yield, according to the Bank of Korea.
-- 09/14 10:46 [FirstSquawk] Beijing’s trust concerns over Hong Kong are emerging as a key challenge for the city’s next five-year plan, raising questions over what commitments Hong Kong can credibly make to strengthen ties with the central government.
 - 09/14 10:48 [FirstSquawk] China’s intelligence chief warns that AI could pose growing security risks if controlled by hostile forces, highlighting the technology’s emerging role in strategic competition.
 - 09/14 10:53 [FirstSquawk] Iraq and the UAE discuss regional security and developments in Yemen, while also exploring stronger Iraqi-Gulf cooperation and efforts to preserve stability across the region.
 - 09/14 10:55 [FirstSquawk] Brent crude surges at the open after Saudi Arabia shuts a major pipeline following an attack, intensifying concerns over global oil supply.
@@ -309,3 +301,14 @@
 - 09/14 22:15 [financialjuice] Oracle begins a new round of layoffs - Business Insider $ORCL
 - 09/14 22:17 [FirstSquawk] ORACLE BEGINS A NEW ROUND OF LAYOFFS
 - 09/14 22:21 [FirstSquawk] LULA SEEN WITH 36%, FLAVIO BOLSONARO 31%, CURY 7% IN FIRST ROUND OF BRAZIL'S PRESIDENTIAL ELECTION - QUAEST POLL
+- 09/14 22:30 [FirstSquawk] 12 EU MEMBER COUNTRIES: CALL FOR EU TO TAKE ON A MORE ‘STRATEGIC AND PROACTIVE ROLE’ IN THE EUROPEAN ARCTIC - JOINT STATEMENT
+- 09/14 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 35.3 MLN NASDAQ 100: -32.6 MLN DOW 30: 38.0 MLN MAG 7: -9.6 MLN $MACRO
+- 09/14 22:31 [FirstSquawk] NVIDIA OPENS 3.7% LOWER AMID CALLS FOR SLOWER AI DEVELOPMENT
+- 09/14 22:32 [FirstSquawk] EUROPE HESITATES AS RUSSIAN ATTACKS ESCALATE – POLITICO
+- 09/14 22:35 [financialjuice] Musk’s X and xAI resolve antitrust lawsuit against Apple - court filing. $SPCX $AAPL
+- 09/14 22:35 [FirstSquawk] MICROSOFT DRAWS A LINE ON AI POWER: “PEOPLE MATTER MORE THAN AI”
+- 09/14 22:38 [FirstSquawk] UK GOVT CONSIDERING TAKEOVER OF SPECIALITY STEEL UK: FT
+- 09/14 22:39 [FirstSquawk] JOHNSON & JOHNSON SHARES RISE ON APOLLO GLOBAL TAKEOVER TALKS - INVESTING
+- 09/14 22:39 [FirstSquawk] RUSSIA BANS SULFURIC ACID EXPORTS UNTIL YEAR-END: KOMMERSANT
+- 09/14 22:39 [financialjuice] UK government considering takeover of insolvent steelmaker - FT
+- 09/14 22:45 [FirstSquawk] AI BOOM FALTERS: US TECH STOCKS SLUMP AS BIG TECH CALLS FOR AI SLOWDOWN

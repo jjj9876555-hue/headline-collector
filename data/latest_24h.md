@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 22:28 JST／対象: 09/13 22:28 〜 09/14 22:28 JST（時刻はすべて日本時間）
+生成: 2026-09-14 22:46 JST／対象: 09/13 22:46 〜 09/14 22:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 47 | 09/13 22:34 | 09/14 22:11 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 292 | 09/13 22:46 | 09/14 22:21 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 155 | 09/13 22:36 | 09/14 22:15 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 39 | 09/13 22:47 | 09/14 22:11 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 298 | 09/13 22:47 | 09/14 22:45 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 157 | 09/14 00:11 | 09/14 22:39 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 484 行（統合前 494 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 484 行（統合前 495 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 22:34 [DeItaone] TRUMP : ASKED ABOUT FED DECISION NEXT WEEK, SAYS WE SHOULD HAVE THE LOWEST RATE IN THE WORLD
-- 09/13 22:35 [DeItaone] TRUMP ON IRAN: IRAN WAR WILL END - MAYBE BEFORE OR RIGHT AFTER THE MIDTERMS
-- 09/13 22:35 [DeItaone] TRUMP ON IRAN: IRAN WANTS TO MAKE A DEAL SO BADLY
-- 09/13 22:35 [DeItaone] TRUMP ON IRAN: DOESN'T CARE IF GULF NATIONS MEET WITH IRAN, THAT'S UP TO THEM
-- 09/13 22:36 [DeItaone] TRUMP ON UKRAINE: ZELENSKIY HAS TO DO ONE THING: HE HAS TO STOP KNOCKING OUT DIESEL FUEL IN RUSSIA
-- 09/13 22:36 [DeItaone] TRUMP ON CHINA: NOT WORRIED THAT XI MIGHT CANCEL SUMMIT, CHINA HAS BEEN FAIR WITH US OVER LAST NUMBER OF YEARS
-- 09/13 22:36 [financialjuice] Kosovo parliament reappoints Albin Kurti as prime minister
-- 09/13 22:37 [DeItaone] TRUMP ON AI: ASKED IF AI INDUSTRY SHOULD SLOW DOWN, SAYS WHOEVER WINS AI WINS
-- 09/13 22:37 [DeItaone] TRUMP ON AI: WE COULD PUT GUARDRAILS, BUT SOME VOICES ARE BEING OVERLY NEGATIVE
-- 09/13 22:46 [FirstSquawk] Trump on Fed decision next week: says US should have lowest rates globally
-- 09/13 22:46 [FirstSquawk] US Trump: $5,000 post-election promise should be easy for Congress
 - 09/13 22:47 [DeItaone] TRUMP PUSHES FED FOR WORLD’S LOWEST INTEREST RATES President Donald Trump says the U.S. should have the lowest interest rate in the world, just days before the Fed’s closely watched policy decision Wednesday. Asked whether he expects a rate…
 - 09/13 22:47 [FirstSquawk] US Trump: I always honor my commitments
 - 09/13 22:47 [FirstSquawk] US Trump on Iran: Iran war will wrap up perhaps before or shortly after midterms
@@ -508,3 +497,14 @@
 - 09/14 22:15 [financialjuice] Oracle begins a new round of layoffs - Business Insider $ORCL
 - 09/14 22:17 [FirstSquawk] ORACLE BEGINS A NEW ROUND OF LAYOFFS
 - 09/14 22:21 [FirstSquawk] LULA SEEN WITH 36%, FLAVIO BOLSONARO 31%, CURY 7% IN FIRST ROUND OF BRAZIL'S PRESIDENTIAL ELECTION - QUAEST POLL
+- 09/14 22:30 [FirstSquawk] 12 EU MEMBER COUNTRIES: CALL FOR EU TO TAKE ON A MORE ‘STRATEGIC AND PROACTIVE ROLE’ IN THE EUROPEAN ARCTIC - JOINT STATEMENT
+- 09/14 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 35.3 MLN NASDAQ 100: -32.6 MLN DOW 30: 38.0 MLN MAG 7: -9.6 MLN $MACRO
+- 09/14 22:31 [FirstSquawk] NVIDIA OPENS 3.7% LOWER AMID CALLS FOR SLOWER AI DEVELOPMENT
+- 09/14 22:32 [FirstSquawk] EUROPE HESITATES AS RUSSIAN ATTACKS ESCALATE – POLITICO
+- 09/14 22:35 [financialjuice] Musk’s X and xAI resolve antitrust lawsuit against Apple - court filing. $SPCX $AAPL
+- 09/14 22:35 [FirstSquawk] MICROSOFT DRAWS A LINE ON AI POWER: “PEOPLE MATTER MORE THAN AI”
+- 09/14 22:38 [FirstSquawk] UK GOVT CONSIDERING TAKEOVER OF SPECIALITY STEEL UK: FT
+- 09/14 22:39 [FirstSquawk] JOHNSON & JOHNSON SHARES RISE ON APOLLO GLOBAL TAKEOVER TALKS - INVESTING
+- 09/14 22:39 [FirstSquawk] RUSSIA BANS SULFURIC ACID EXPORTS UNTIL YEAR-END: KOMMERSANT
+- 09/14 22:39 [financialjuice] UK government considering takeover of insolvent steelmaker - FT
+- 09/14 22:45 [FirstSquawk] AI BOOM FALTERS: US TECH STOCKS SLUMP AS BIG TECH CALLS FOR AI SLOWDOWN
