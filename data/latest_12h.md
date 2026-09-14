@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 18:19 JST／対象: 09/14 06:19 〜 09/14 18:19 JST（時刻はすべて日本時間）
+生成: 2026-09-14 18:35 JST／対象: 09/14 06:35 〜 09/14 18:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/14 08:03 | 09/14 18:11 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 181 | 09/14 06:48 | 09/14 18:17 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 72 | 09/14 06:54 | 09/14 18:11 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 11 | 09/14 08:03 | 09/14 18:30 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 182 | 09/14 06:48 | 09/14 18:21 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 74 | 09/14 06:54 | 09/14 18:25 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 260 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 265 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -284,3 +284,8 @@
 - 09/14 18:12 [FirstSquawk] IRAN'S PERSIAN GULF STRAIT AUTHORITY RELEASES AN UPDATED LIST OF 77 SHIPS "BREAKING IRANIAN RULES FOR THE STRAIT OF HORMUZ."
 - 09/14 18:12 [FirstSquawk] IRAN WILL ENFORCE NEW RESTRICTIONS ON VESSEL PASSAGE IN THE PERSIAN GULF STRAIT, WHICH MAY INCLUDE FINES, DETENTION, OR CONFISCATION.
 - 09/14 18:17 [FirstSquawk] ECB’S SCHNABEL: MACROECONOMIC, FISCAL AND FINANCIAL STABILITY IN A SHOCK-PRONE WORLD
+- 09/14 18:21 [FirstSquawk] SAUDI CROWN PRINCE MEETS CENTCOM COMMANDER
+- 09/14 18:22 [financialjuice] Saudi Crown Prince and US CENTCOM chief discuss latest regional developments
+- 09/14 18:25 [financialjuice] Iran updates list of Hormuz non-compliant vessels to 77
+- 09/14 18:30 [DeItaone] OPENAI’S BROCKMAN BACKS SLOWDOWN FOR FRONTIER AI OpenAI co-founder Greg Brockman says any AI slowdown should target only frontier models powered by massive supercomputers, not open-source or hobby projects. His comments follow growing indus…
+- 09/14 18:30 [DeItaone] TRUMP'S MAIL-IN VOTING RESTRICTIONS ARE BLOCKED BY A SECOND FEDERAL JUDGE

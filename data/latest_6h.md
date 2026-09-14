@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 18:19 JST／対象: 09/14 12:19 〜 09/14 18:19 JST（時刻はすべて日本時間）
+生成: 2026-09-14 18:35 JST／対象: 09/14 12:35 〜 09/14 18:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/14 16:28 | 09/14 18:11 | ⚠ 50分（16:28→17:19） |
-| FirstSquawk | 91 | 09/14 12:20 | 09/14 18:17 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 38 | 09/14 12:23 | 09/14 18:11 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 10 | 09/14 16:28 | 09/14 18:30 | ⚠ 50分（16:28→17:19） |
+| FirstSquawk | 87 | 09/14 12:38 | 09/14 18:21 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 39 | 09/14 12:37 | 09/14 18:25 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 135 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 12:20 [FirstSquawk] Goldman Sachs now expects the Fed to raise rates by 25 basis points this week, reversing its earlier call for no change, with the shift driven more by market pricing than its economic outlook.
-- 09/14 12:23 [FirstSquawk] Hong Kong’s five-year plan will maintain its capitalist system and existing governing model, Chief Executive John Lee says, reaffirming the city’s policy direction under the “one country, two systems” framework.
-- 09/14 12:23 [financialjuice] World Bank: approves $300 million financing to back reforms in Uruguay
-- 09/14 12:24 [FirstSquawk] The World Bank approves $300 million in financing for Uruguay, supporting government reforms aimed at strengthening the country’s economic and institutional framework.
-- 09/14 12:29 [FirstSquawk] The New Zealand dollar falls below 0.5800 against the U.S. dollar as dovish signals from the RBNZ weigh on the currency and reinforce expectations for a softer monetary policy stance.
-- 09/14 12:31 [FirstSquawk] Heads of leading U.S. frontier AI labs are increasingly concerned about China’s rapid advances in artificial intelligence, highlighting intensifying competition at the cutting edge of the technology.
 - 09/14 12:37 [financialjuice] China finance ministry auctions 7-year bonds at 1.49% yield: traders
 - 09/14 12:38 [FirstSquawk] U.S. senators have released the final draft of the Crypto Clarity Act, with the legislation scheduled for a Senate vote on Tuesday.
 - 09/14 12:49 [financialjuice] Saudi civil defence warns of possible threat in Khamis Mushait and Abha areas - post on X
@@ -160,3 +154,8 @@
 - 09/14 18:12 [FirstSquawk] IRAN'S PERSIAN GULF STRAIT AUTHORITY RELEASES AN UPDATED LIST OF 77 SHIPS "BREAKING IRANIAN RULES FOR THE STRAIT OF HORMUZ."
 - 09/14 18:12 [FirstSquawk] IRAN WILL ENFORCE NEW RESTRICTIONS ON VESSEL PASSAGE IN THE PERSIAN GULF STRAIT, WHICH MAY INCLUDE FINES, DETENTION, OR CONFISCATION.
 - 09/14 18:17 [FirstSquawk] ECB’S SCHNABEL: MACROECONOMIC, FISCAL AND FINANCIAL STABILITY IN A SHOCK-PRONE WORLD
+- 09/14 18:21 [FirstSquawk] SAUDI CROWN PRINCE MEETS CENTCOM COMMANDER
+- 09/14 18:22 [financialjuice] Saudi Crown Prince and US CENTCOM chief discuss latest regional developments
+- 09/14 18:25 [financialjuice] Iran updates list of Hormuz non-compliant vessels to 77
+- 09/14 18:30 [DeItaone] OPENAI’S BROCKMAN BACKS SLOWDOWN FOR FRONTIER AI OpenAI co-founder Greg Brockman says any AI slowdown should target only frontier models powered by massive supercomputers, not open-source or hobby projects. His comments follow growing indus…
+- 09/14 18:30 [DeItaone] TRUMP'S MAIL-IN VOTING RESTRICTIONS ARE BLOCKED BY A SECOND FEDERAL JUDGE
