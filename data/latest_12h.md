@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 05:20 JST／対象: 09/14 17:20 〜 09/15 05:20 JST（時刻はすべて日本時間）
+生成: 2026-09-15 05:34 JST／対象: 09/14 17:34 〜 09/15 05:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 49 | 09/14 17:49 | 09/15 04:32 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 165 | 09/14 17:26 | 09/15 05:20 | ⚠ 54分（01:33→02:27） |
+| FirstSquawk | 163 | 09/14 17:35 | 09/15 05:33 | ⚠ 54分（01:33→02:27） |
 | financialjuice | 169 | 09/14 18:10 | 09/15 05:17 | 28分（20:02→20:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 360 行（統合前 387 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 358 行（統合前 385 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 17:26 [FirstSquawk] EXXONMOBIL EXEC: A LOT OF LATENT DEMAND GOING TO ABSORB ADDITIONAL LNG VOLUMES AS ECONOMICS IMPROVE
-- 09/14 17:31 [FirstSquawk] SAUDI CIVIL DEFENCE ALERTS OF POTENTIAL DANGER IN KHAMIS MUSHAIT AND ABHA AREAS - STATE TV
-- 09/14 17:33 [FirstSquawk] INDONESIA APPOINTS NAZARA AS NEW FINANCE MINISTER, TAKING OVER FROM PURBAYA.
 - 09/14 17:35 [FirstSquawk] SAUDI CIVIL DEFENCE: DANGER HAS PASSED - STATE TV
 - 09/14 17:49 [DeItaone] GOLDMAN, JPMORGAN NOW EXPECT FED TO HIKE THIS WEEK Goldman Sachs and JPMorgan have shifted to expecting a 25 bp Fed hike at the September meeting after hotter August inflation and the renewed oil surge. Markets are pricing roughly an 87% pr…
 - 09/14 17:52 [FirstSquawk] BRENT CRUDE OIL FUTURES RISE MORE THAN $4 TO SESSION HIGH OF $108.65/BBL. ON ESCALATING MIDEAST ATTACKS
@@ -384,3 +381,4 @@
 - 09/15 05:13 [FirstSquawk] US STOCKS DECLINED AS CONCERNS OVER A POTENTIAL SLOWDOWN IN ADVANCED AI DEVELOPMENT TRIGGERED A SHARP SELLOFF IN SEMICONDUCTOR SHARES. THE PHILADELPHIA SEMICONDUCTOR INDEX PLUNGED 5.9%, WHILE THE NASDAQ 100 FELL 0.8% AND THE S&P 500 LOST 0.…
 - 09/15 05:17 [financialjuice] Chipmakers Slide as AI Leaders Back Slower Development – US Market Wrap
 - 09/15 05:17 [financialjuice/FirstSquawk] Two Iranian fishing boats were hit by drones in Southern Iran, several fishermen are missing - State Broadcaster IRIB.
+- 09/15 05:33 [FirstSquawk] OPENAI ACQUIRES SMARTPHONE CAMERA STARTUP GLASS IMAGING IN A DEAL VALUED AT MORE THAN $300 MILLION, ACCORDING TO THE WALL STREET JOURNAL. GLASS IMAGING USES AI, HARDWARE AND SOFTWARE TO DEVELOP DSLR-QUALITY SMARTPHONE IMAGING, WITH THE ACQU…
