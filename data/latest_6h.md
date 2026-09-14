@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 21:25 JST／対象: 09/14 15:25 〜 09/14 21:25 JST（時刻はすべて日本時間）
+生成: 2026-09-14 21:50 JST／対象: 09/14 15:50 〜 09/14 21:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/14 16:28 | 09/14 21:23 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 71 | 09/14 15:27 | 09/14 21:24 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 41 | 09/14 15:30 | 09/14 21:24 | ⚠ 53分（17:16→18:10） |
+| DeItaone | 24 | 09/14 16:28 | 09/14 21:42 | ⚠ 53分（18:30→19:24） |
+| FirstSquawk | 70 | 09/14 15:50 | 09/14 21:47 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 53 | 09/14 16:02 | 09/14 21:47 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 128 行（統合前 133 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 141 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 15:27 [FirstSquawk] EUR/USD falls 0.33% to 1.1549, hitting a near one-month low as the euro comes under renewed pressure against the dollar.
-- 09/14 15:27 [FirstSquawk] OpenAI is reportedly in talks to conduct AI model training in Australia, according to Nikkei, potentially expanding the company’s training operations beyond its existing locations.
-- 09/14 15:30 [financialjuice] SWISS PPI YOY ACTUAL -0.7% (FORECAST -, PREVIOUS -2.1%) $MACRO
-- 09/14 15:30 [financialjuice] SWISS PPI MOM ACTUAL 0.7% (FORECAST -, PREVIOUS -0.1%) $MACRO
-- 09/14 15:36 [FirstSquawk] British pound slips toward 1.3500 against the U.S. dollar as expectations for a Fed rate hike strengthen, adding pressure to sterling.
-- 09/14 15:40 [FirstSquawk] INDIA (AUG) OUTPUT PPI YOY ACTUAL: 9.81% VS 9.57% PREVIOUS
-- 09/14 15:40 [FirstSquawk] INDIA (AUG) WHOLESALE PRICES YOY ACTUAL: 9.92% VS 9.78% PREVIOUS; EST 9.90%
 - 09/14 15:50 [FirstSquawk] Chinese traders are closely watching the upcoming Xi-Trump meeting, with expectations around the talks shaping sentiment and adding uncertainty for China’s stock market.
 - 09/14 16:02 [financialjuice] Currency Strength Chart: Strongest: USD, CAD, GBP, CHF, EUR, AUD, GBP, NZD - Weakest
 - 09/14 16:28 [DeItaone] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
@@ -152,3 +145,23 @@
 - 09/14 21:23 [DeItaone] AI BOOM FUELS $110BN U.S. POWER BUILDOUT America’s data center boom will require $110 billion to add 45GW of power capacity through 2030, according to Moody’s. More than 30GW is expected to come from natural gas, requiring an extra 4 billio…
 - 09/14 21:24 [financialjuice] US Energy Secretary Wright: I am confident flows will increase in Hormuz in weeks ahead.
 - 09/14 21:24 [FirstSquawk] WRIGHT CONFIDENT FLOWS WILL INCREASE IN HORMUZ IN WEEKS AHEAD
+- 09/14 21:25 [financialjuice] US Energy Secretary Wright: The US will start refiling SPR in the next few months
+- 09/14 21:30 [financialjuice] CANADIAN MANUFACTURING SALES MOM ACTUAL -0.4% (FORECAST -0.2%, PREVIOUS 0.1%) $MACRO
+- 09/14 21:30 [financialjuice] CANADIAN CPI MEDIAN ACTUAL 2% (FORECAST 2%, PREVIOUS 2.0%) $MACRO
+- 09/14 21:30 [financialjuice] CANADIAN CPI TRIM ACTUAL 1.9% (FORECAST 1.9%, PREVIOUS 1.9%) $MACRO
+- 09/14 21:31 [financialjuice] ❗ CANADIAN CPI MOM ACTUAL -0.1% (FORECAST -0.1%, PREVIOUS 0.5%) $MACRO
+- 09/14 21:31 [financialjuice] ‼ BREAKING: CANADIAN CPI YOY ACTUAL 3% (FORECAST 3%, PREVIOUS 3.0%) $MACRO
+- 09/14 21:31 [DeItaone] *CANADA INFLATION HOLDS AT 3.0% Y/Y IN AUGUST, MATCHES EST.
+- 09/14 21:31 [financialjuice] BOC CORE CPI YOY ACTUAL 2.4% (FORECAST -, PREVIOUS 2.3%) $MACRO
+- 09/14 21:31 [financialjuice] BOC CORE CPI MOM ACTUAL 0.1% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 09/14 21:31 [financialjuice] CANADIAN CPI COMMON ACTUAL 2.6% (FORECAST -, PREVIOUS 2.7%) $MACRO
+- 09/14 21:31 [financialjuice] CANADIAN CORE CPI MOM ACTUAL 0.2% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 09/14 21:31 [financialjuice] Canadian CPI August Report
+- 09/14 21:32 [FirstSquawk] Canada CPI (M/M) Aug: -0.1% (est -0.1%; prev 0.5%) - CPI (Y/Y): 3.0% (est 3.0%; prev 3.0%) - CPI Ex Food And Energy (Y/Y): 2.1% (est 2.1%; prev 1.9%) - CPI Core Median (Y/Y): 2.0% (est 2.0%; prev 2.0%) - CPI Core Trim (Y/Y): 1.9% (est 1.9%;…
+- 09/14 21:32 [FirstSquawk] CANADA MANUFACTURING SALES (M/M) JUL: -0.4% (EST -0.2%; PREV 0.1%; PREV R 0.3%)
+- 09/14 21:36 [financialjuice] StatCan: Inflation data was delayed due to website issues.
+- 09/14 21:37 [financialjuice] ❗ A Crucial Saudi Oil Pipeline Hit In Strikes Will Be Mostly Out Of Service For Several Weeks For Repairs – AP Cites Officials
+- 09/14 21:39 [FirstSquawk] A KEY SAUDI OIL PIPELINE WAS DAMAGED IN STRIKES AND WILL REMAIN OUT OF SERVICE FOR SEVERAL WEEKS FOR REPAIRS, ACCORDING TO OFFICIALS.
+- 09/14 21:41 [DeItaone] SAUDI OIL PIPELINE COULD BE DOWN FOR WEEKS Saudi Arabia’s East-West oil pipeline could remain largely offline for 3–5 weeks following last week’s drone attack, AP reports. The pipeline can carry up to 7 million barrels per day to the Red Se…
+- 09/14 21:42 [DeItaone/FirstSquawk] U.S. CRUDE FUTURES EXTENDED GAINS TO HIT A SESSION HIGH OF $104.95/BBL, HIGHEST LEVEL SINCE MID MAY
+- 09/14 21:47 [financialjuice] Saudi oil pipeline hit in strikes will be mostly out of service for several weeks for repair

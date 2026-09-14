@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 21:25 JST／対象: 09/14 09:25 〜 09/14 21:25 JST（時刻はすべて日本時間）
+生成: 2026-09-14 21:50 JST／対象: 09/14 09:50 〜 09/14 21:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/14 16:28 | 09/14 21:23 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 184 | 09/14 09:26 | 09/14 21:24 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 76 | 09/14 09:34 | 09/14 21:24 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 24 | 09/14 16:28 | 09/14 21:42 | ⚠ 53分（18:30→19:24） |
+| FirstSquawk | 174 | 09/14 09:50 | 09/14 21:47 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 88 | 09/14 10:01 | 09/14 21:47 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 276 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 280 行（統合前 286 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 09:26 [FirstSquawk] Nikkei slides 1.6% as chipmakers and metals stocks come under pressure, weighing on Japan’s broader equity market.
-- 09/14 09:29 [FirstSquawk] Trump signals the U.S. could remain in Iran and take control of its oil, raising the stakes for Washington’s role in the country and adding another layer of uncertainty to global energy markets - cablefxmacro
-- 09/14 09:32 [FirstSquawk] The Kennedy Center is reportedly on the verge of bankruptcy, with the Washington Post reporting that the Washington arts institution could face closure as soon as Tuesday.
-- 09/14 09:34 [FirstSquawk] SpaceX marks a major milestone as **Falcon completes its 700th flight**, with Elon Musk congratulating the team behind the rocket program.
-- 09/14 09:34 [financialjuice] Election authority projection: Sweden's centre-left opposition bloc now seen at 176 seats vs 173 for governing coalition
-- 09/14 09:37 [FirstSquawk] SoftBank shares plunge 13% as calls to slow the pace of AI development trigger a sharp selloff, putting fresh pressure on the company’s aggressive AI investment strategy - zerohedge
-- 09/14 09:38 [FirstSquawk] GOLD SLIPS 0.2% TO AROUND $4,340 AN OUNCE AS HOTTER-THAN-EXPECTED U.S. INFLATION BOOSTS BETS TO AN 88% CHANCE OF A SEPTEMBER FED RATE HIKE. || HIGHER BORROWING COSTS AND RISING OIL PRICES WEIGH ON BULLION, WITH BRENT CRUDE SURGING TOWARD $1…
-- 09/14 09:38 [FirstSquawk] Sweden’s centre-left opposition edges ahead in the latest election projection, with 176 seats versus 173 for the governing coalition, according to the election authority.
-- 09/14 09:39 [FirstSquawk] Gold slips 0.2% to around $4,340 an ounce as hotter-than-expected U.S. inflation boosts expectations for a September Fed rate hike, with markets now pricing an 88% probability.
-- 09/14 09:40 [FirstSquawk] ANTHROPIC EXPECTS TO REPORT AN ADJUSTED OPERATING PROFIT THIS QUARTER, MARKING ITS SECOND CONSECUTIVE PROFITABLE PERIOD, WITH GROSS MARGINS ABOVE 80% BEFORE REVENUE-SHARING AND AI TRAINING COSTS.
-- 09/14 09:40 [FirstSquawk] ANTHROPIC IS PREPARING FOR AN IPO ON NASDAQ AND AIMS TO MATCH OR EXCEED SPACEX’S RECORD $86.3 BILLION OFFERING, AS ITS ANNUALIZED REVENUE PACE SURPASSES $65 BILLION.
-- 09/14 09:46 [FirstSquawk] ASIAN STOCKS AND U.S. EQUITY FUTURES RETREATED AFTER MAJOR AI COMPANIES CALLED FOR A SLOWDOWN IN THE TECHNOLOGY'S DEVELOPMENT, RATTLING A SECTOR THAT HAS POWERED THIS YEAR'S RALLY, WITH MSCI'S ASIA PACIFIC INDEX DOWN 0.5%, NASDAQ 100 FUTURE…
-- 09/14 09:46 [FirstSquawk] THE U.S. CORE CPI ROSE 0.3% IN AUGUST AND 2.4% Y/Y, WITH OVERALL PRICES UP 0.4% AND 3.4% ANNUALLY ON HIGHER ENERGY COSTS, REINFORCING BETS THE FED MAY HIKE WEDNESDAY — NOW OVER 90% PRICED IN — AS 10-YEAR YIELDS NEARED 5%, WHILE ANTHROPIC PI…
-- 09/14 09:46 [FirstSquawk] Australian dollar slips toward 0.7150 as hotter-than-expected U.S. inflation strengthens the case for a Fed rate hike, boosting the greenback and weighing on the Aussie.
-- 09/14 09:48 [FirstSquawk] Trump says he will review requests from 9/11 victims’ families to declassify records that could provide further insight into Saudi Arabia’s alleged links to the attacks, saying he will examine the matter after returning.
-- 09/14 09:48 [financialjuice] Amazon halts operations with 21 air after Miami crash: WSJ
 - 09/14 09:50 [FirstSquawk] Trump says a meeting with Delcy Rodríguez at the UN remains possible, while pointing to an energy arrangement that he says is delivering millions of barrels of oil to the U.S. each month.
 - 09/14 09:51 [FirstSquawk] NORTH KOREA SAYS A JOINT LIVE-FIRE DRILL INVOLVING MISSILES, ARTILLERY AND DRONES DEMONSTRATED THE “HUGE DESTRUCTIVE POWER” OF CONCENTRATED FIRE.
 - 09/14 09:51 [FirstSquawk] SOUTH KOREA SAYS SEVERAL MISSILES FLEW ABOUT 250 KM TOWARD NORTH KOREA’S EASTERN WATERS, INDICATING THEY ARE DESIGNED TO STRIKE TARGETS IN SOUTH KOREA.
@@ -300,3 +284,23 @@
 - 09/14 21:23 [DeItaone] AI BOOM FUELS $110BN U.S. POWER BUILDOUT America’s data center boom will require $110 billion to add 45GW of power capacity through 2030, according to Moody’s. More than 30GW is expected to come from natural gas, requiring an extra 4 billio…
 - 09/14 21:24 [financialjuice] US Energy Secretary Wright: I am confident flows will increase in Hormuz in weeks ahead.
 - 09/14 21:24 [FirstSquawk] WRIGHT CONFIDENT FLOWS WILL INCREASE IN HORMUZ IN WEEKS AHEAD
+- 09/14 21:25 [financialjuice] US Energy Secretary Wright: The US will start refiling SPR in the next few months
+- 09/14 21:30 [financialjuice] CANADIAN MANUFACTURING SALES MOM ACTUAL -0.4% (FORECAST -0.2%, PREVIOUS 0.1%) $MACRO
+- 09/14 21:30 [financialjuice] CANADIAN CPI MEDIAN ACTUAL 2% (FORECAST 2%, PREVIOUS 2.0%) $MACRO
+- 09/14 21:30 [financialjuice] CANADIAN CPI TRIM ACTUAL 1.9% (FORECAST 1.9%, PREVIOUS 1.9%) $MACRO
+- 09/14 21:31 [financialjuice] ❗ CANADIAN CPI MOM ACTUAL -0.1% (FORECAST -0.1%, PREVIOUS 0.5%) $MACRO
+- 09/14 21:31 [financialjuice] ‼ BREAKING: CANADIAN CPI YOY ACTUAL 3% (FORECAST 3%, PREVIOUS 3.0%) $MACRO
+- 09/14 21:31 [DeItaone] *CANADA INFLATION HOLDS AT 3.0% Y/Y IN AUGUST, MATCHES EST.
+- 09/14 21:31 [financialjuice] BOC CORE CPI YOY ACTUAL 2.4% (FORECAST -, PREVIOUS 2.3%) $MACRO
+- 09/14 21:31 [financialjuice] BOC CORE CPI MOM ACTUAL 0.1% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 09/14 21:31 [financialjuice] CANADIAN CPI COMMON ACTUAL 2.6% (FORECAST -, PREVIOUS 2.7%) $MACRO
+- 09/14 21:31 [financialjuice] CANADIAN CORE CPI MOM ACTUAL 0.2% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 09/14 21:31 [financialjuice] Canadian CPI August Report
+- 09/14 21:32 [FirstSquawk] Canada CPI (M/M) Aug: -0.1% (est -0.1%; prev 0.5%) - CPI (Y/Y): 3.0% (est 3.0%; prev 3.0%) - CPI Ex Food And Energy (Y/Y): 2.1% (est 2.1%; prev 1.9%) - CPI Core Median (Y/Y): 2.0% (est 2.0%; prev 2.0%) - CPI Core Trim (Y/Y): 1.9% (est 1.9%;…
+- 09/14 21:32 [FirstSquawk] CANADA MANUFACTURING SALES (M/M) JUL: -0.4% (EST -0.2%; PREV 0.1%; PREV R 0.3%)
+- 09/14 21:36 [financialjuice] StatCan: Inflation data was delayed due to website issues.
+- 09/14 21:37 [financialjuice] ❗ A Crucial Saudi Oil Pipeline Hit In Strikes Will Be Mostly Out Of Service For Several Weeks For Repairs – AP Cites Officials
+- 09/14 21:39 [FirstSquawk] A KEY SAUDI OIL PIPELINE WAS DAMAGED IN STRIKES AND WILL REMAIN OUT OF SERVICE FOR SEVERAL WEEKS FOR REPAIRS, ACCORDING TO OFFICIALS.
+- 09/14 21:41 [DeItaone] SAUDI OIL PIPELINE COULD BE DOWN FOR WEEKS Saudi Arabia’s East-West oil pipeline could remain largely offline for 3–5 weeks following last week’s drone attack, AP reports. The pipeline can carry up to 7 million barrels per day to the Red Se…
+- 09/14 21:42 [DeItaone/FirstSquawk] U.S. CRUDE FUTURES EXTENDED GAINS TO HIT A SESSION HIGH OF $104.95/BBL, HIGHEST LEVEL SINCE MID MAY
+- 09/14 21:47 [financialjuice] Saudi oil pipeline hit in strikes will be mostly out of service for several weeks for repair

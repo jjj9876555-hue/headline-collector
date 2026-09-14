@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 21:25 JST／対象: 09/13 21:25 〜 09/14 21:25 JST（時刻はすべて日本時間）
+生成: 2026-09-14 21:50 JST／対象: 09/13 21:50 〜 09/14 21:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 09/13 21:44 | 09/14 21:23 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 291 | 09/13 21:25 | 09/14 21:24 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 138 | 09/13 21:37 | 09/14 21:24 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 43 | 09/13 22:04 | 09/14 21:42 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 284 | 09/13 21:57 | 09/14 21:47 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 151 | 09/13 22:10 | 09/14 21:47 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 462 行（統合前 470 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 469 行（統合前 478 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 21:25 [FirstSquawk] Syrian diplomatic source: Ministers Fidan and Al-Shaibani are discussing in Damascus the latest developments regarding the dissolution of the SDF and its integration into state institutions.
-- 09/13 21:25 [FirstSquawk] Syrian diplomatic source: Syrian-Turkish talks are addressing the situation in southern Syria and Israel's repeated violations.
-- 09/13 21:26 [FirstSquawk] SPA: The Saudi Crown Prince and the Pakistani Prime Minister discuss by phone the latest developments and efforts to de-escalate tensions in the region
-- 09/13 21:26 [FirstSquawk] SPA: The Prime Minister of Pakistan affirmed his condemnation of the attacks on Saudi oil infrastructure and Pakistan's support for the Kingdom's security.
-- 09/13 21:26 [FirstSquawk] Syrian Foreign Minister: We look forward to increasing trade exchange with Turkey to reach approximately $10 billion annually.
-- 09/13 21:27 [FirstSquawk] Turkish Foreign Minister: Syrian-Turkish relations have made unprecedented progress over the past two years
-- 09/13 21:27 [FirstSquawk] Turkish Foreign Minister: Syria is making serious efforts to enhance the security and stability of the region
-- 09/13 21:27 [FirstSquawk] Turkish Foreign Minister: We discussed in Damascus the issue of President Erdogan's visit to Syria , which will be very soon.
-- 09/13 21:27 [FirstSquawk] Turkish Foreign Minister: The SDF's announcement of its dissolution is important and we see it as a positive step, but its implementation on the ground is also important.
-- 09/13 21:28 [FirstSquawk] Turkish Foreign Minister: Israel is permanently targeting the stability of Syria, and this serves the interests of terrorist forces in the region.
-- 09/13 21:28 [FirstSquawk] Turkish Foreign Minister: The regional and global economy has entered a crisis following the events in the Strait of Hormuz.
-- 09/13 21:37 [financialjuice] Iranian president: talk with Abu Dhabi crown prince was positive, agreed to move beyond past - Tasnim
-- 09/13 21:44 [DeItaone] IRANIAN PRESIDENT SAYS TALK WITH ABU DHABI CROWN PRINCE WAS GOOD, "AGREED TO PUT PAST BEHIND US" - TASNIM
 - 09/13 21:57 [FirstSquawk] International Organization for Migration: Nearly 85,000 people have been forced to leave their homes due to fighting in Yemen, and about 2,000 have arrived in Djibouti.
 - 09/13 21:58 [FirstSquawk] Iranian President: BRICS group has announced its rejection of the policy of imposing unilateral sanctions and coercive measures against countries
 - 09/13 22:04 [DeItaone] IRAN, UAE AGREE TO “PUT THE PAST ASIDE” Iranian President Masoud Pezeshkian says talks with Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed were positive, following their meeting at the BRICS summit in New Delhi. Pezeshkian said …
@@ -486,3 +473,23 @@
 - 09/14 21:23 [DeItaone] AI BOOM FUELS $110BN U.S. POWER BUILDOUT America’s data center boom will require $110 billion to add 45GW of power capacity through 2030, according to Moody’s. More than 30GW is expected to come from natural gas, requiring an extra 4 billio…
 - 09/14 21:24 [financialjuice] US Energy Secretary Wright: I am confident flows will increase in Hormuz in weeks ahead.
 - 09/14 21:24 [FirstSquawk] WRIGHT CONFIDENT FLOWS WILL INCREASE IN HORMUZ IN WEEKS AHEAD
+- 09/14 21:25 [financialjuice] US Energy Secretary Wright: The US will start refiling SPR in the next few months
+- 09/14 21:30 [financialjuice] CANADIAN MANUFACTURING SALES MOM ACTUAL -0.4% (FORECAST -0.2%, PREVIOUS 0.1%) $MACRO
+- 09/14 21:30 [financialjuice] CANADIAN CPI MEDIAN ACTUAL 2% (FORECAST 2%, PREVIOUS 2.0%) $MACRO
+- 09/14 21:30 [financialjuice] CANADIAN CPI TRIM ACTUAL 1.9% (FORECAST 1.9%, PREVIOUS 1.9%) $MACRO
+- 09/14 21:31 [financialjuice] ❗ CANADIAN CPI MOM ACTUAL -0.1% (FORECAST -0.1%, PREVIOUS 0.5%) $MACRO
+- 09/14 21:31 [financialjuice] ‼ BREAKING: CANADIAN CPI YOY ACTUAL 3% (FORECAST 3%, PREVIOUS 3.0%) $MACRO
+- 09/14 21:31 [DeItaone] *CANADA INFLATION HOLDS AT 3.0% Y/Y IN AUGUST, MATCHES EST.
+- 09/14 21:31 [financialjuice] BOC CORE CPI YOY ACTUAL 2.4% (FORECAST -, PREVIOUS 2.3%) $MACRO
+- 09/14 21:31 [financialjuice] BOC CORE CPI MOM ACTUAL 0.1% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 09/14 21:31 [financialjuice] CANADIAN CPI COMMON ACTUAL 2.6% (FORECAST -, PREVIOUS 2.7%) $MACRO
+- 09/14 21:31 [financialjuice] CANADIAN CORE CPI MOM ACTUAL 0.2% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 09/14 21:31 [financialjuice] Canadian CPI August Report
+- 09/14 21:32 [FirstSquawk] Canada CPI (M/M) Aug: -0.1% (est -0.1%; prev 0.5%) - CPI (Y/Y): 3.0% (est 3.0%; prev 3.0%) - CPI Ex Food And Energy (Y/Y): 2.1% (est 2.1%; prev 1.9%) - CPI Core Median (Y/Y): 2.0% (est 2.0%; prev 2.0%) - CPI Core Trim (Y/Y): 1.9% (est 1.9%;…
+- 09/14 21:32 [FirstSquawk] CANADA MANUFACTURING SALES (M/M) JUL: -0.4% (EST -0.2%; PREV 0.1%; PREV R 0.3%)
+- 09/14 21:36 [financialjuice] StatCan: Inflation data was delayed due to website issues.
+- 09/14 21:37 [financialjuice] ❗ A Crucial Saudi Oil Pipeline Hit In Strikes Will Be Mostly Out Of Service For Several Weeks For Repairs – AP Cites Officials
+- 09/14 21:39 [FirstSquawk] A KEY SAUDI OIL PIPELINE WAS DAMAGED IN STRIKES AND WILL REMAIN OUT OF SERVICE FOR SEVERAL WEEKS FOR REPAIRS, ACCORDING TO OFFICIALS.
+- 09/14 21:41 [DeItaone] SAUDI OIL PIPELINE COULD BE DOWN FOR WEEKS Saudi Arabia’s East-West oil pipeline could remain largely offline for 3–5 weeks following last week’s drone attack, AP reports. The pipeline can carry up to 7 million barrels per day to the Red Se…
+- 09/14 21:42 [DeItaone/FirstSquawk] U.S. CRUDE FUTURES EXTENDED GAINS TO HIT A SESSION HIGH OF $104.95/BBL, HIGHEST LEVEL SINCE MID MAY
+- 09/14 21:47 [financialjuice] Saudi oil pipeline hit in strikes will be mostly out of service for several weeks for repair
