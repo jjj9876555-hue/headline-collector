@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 00:36 JST／対象: 09/14 12:36 〜 09/15 00:36 JST（時刻はすべて日本時間）
+生成: 2026-09-15 00:53 JST／対象: 09/14 12:53 〜 09/15 00:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 44 | 09/14 16:28 | 09/15 00:34 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 180 | 09/14 12:38 | 09/15 00:33 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 139 | 09/14 12:37 | 09/15 00:33 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 179 | 09/14 12:56 | 09/15 00:52 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 140 | 09/14 14:07 | 09/15 00:46 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 347 行（統合前 366 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,13 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 12:37 [financialjuice] China finance ministry auctions 7-year bonds at 1.49% yield: traders
-- 09/14 12:38 [FirstSquawk] U.S. senators have released the final draft of the Crypto Clarity Act, with the legislation scheduled for a Senate vote on Tuesday.
-- 09/14 12:49 [financialjuice] Saudi civil defence warns of possible threat in Khamis Mushait and Abha areas - post on X
-- 09/14 12:49 [FirstSquawk] Asian tech stocks slump as growing concerns over AI safety weigh on investor sentiment and put pressure on technology shares.
-- 09/14 12:52 [FirstSquawk] Saudi Civil Defence warns of a possible threat in the Khamis Mushait and Abha areas, according to a post on X.
-- 09/14 12:52 [financialjuice] Saudi civil defence: danger has passed – post on X
-- 09/14 12:52 [FirstSquawk] China’s Finance Ministry auctions seven-year government bonds at a 1.49% yield, according to traders, highlighting current demand and pricing in the sovereign debt market.
 - 09/14 12:56 [FirstSquawk] Oil holds onto its opening gains in Asia, keeping energy markets elevated as traders assess the latest supply and geopolitical risks.
 - 09/14 13:05 [FirstSquawk] A Hong Kong lawmaker says Apple should bear responsibility for card fraud involving iPhones, putting fresh scrutiny on the tech giant’s role in consumer payment security.
 - 09/14 13:12 [FirstSquawk] OMANI ENERGY MINISTER: STRAIT OF HORMUZ WILL REOPEN; CURRENT DISRUPTION LIKELY TO BE SHORT-LIVED.
@@ -371,3 +364,10 @@
 - 09/15 00:34 [DeItaone] TRUMP OPEN TO IRAN DEAL President Trump says Iran wants to reach a deal “quickly and badly,” signaling the U.S. remains open to negotiations. Trump said he will decide whether Washington engages, leaving the door open to a potential diploma…
 - 09/15 00:34 [DeItaone] TRUMP ON IRAN: IRAN WANTS TO MAKE A DEAL, QUICKLY AND BADLY
 - 09/15 00:34 [DeItaone] TRUMP ON IRAN: WILL DETERMINE WHETHER OR NOT U.S.A. WILL CHOOSE TO ENGAGE, CONCEPT OF WHICH WE ARE OPEN TO
+- 09/15 00:38 [financialjuice] ❗ Trump on Iran: Will determine whether or not US will choose to engage, concept of which we are open to - Truth Social
+- 09/15 00:42 [financialjuice] While Iran has repeatedly stated that it does not seek negotiations for a deal with the terrorist US government - Tasnim News
+- 09/15 00:44 [financialjuice] US 6-Month Bill Auction High Yield 4.06% Bid-to-Cover 2.74 Sells $79 bln Awards 82.50% of bids at high US 3-Month Bill Auction High Rate 3.97% Bid-to-Cover 2.64 Sells $92 bln Awards 13.86% of bids at high
+- 09/15 00:46 [financialjuice] Stocks of Crude oil in US SPR fell by about 3.6 mln barrels to 285 mln barrels last week, lowest since 1982
+- 09/15 00:52 [FirstSquawk] ABBOTT WILL PAY MORE THAN $384 MILLION TO RESOLVE CLAIMS ABOUT CONTAMINATED INFANT FORMULA, ACCORDING TO THE DOJ.
+- 09/15 00:52 [FirstSquawk] BP WILL EXECUTE SCHEDULED OPERATIONS AT WHITING REFINERY, RUNNING AT 440,000 BARRELS PER DAY IN THE COMING DAYS.
+- 09/15 00:52 [FirstSquawk] EU EXTENDS SANCTIONS ON RUSSIAN INDIVIDUALS FOR ONE WEEK, NOW UNTIL SEPTEMBER 22.

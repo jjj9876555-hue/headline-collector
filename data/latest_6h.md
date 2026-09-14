@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 00:36 JST／対象: 09/14 18:36 〜 09/15 00:36 JST（時刻はすべて日本時間）
+生成: 2026-09-15 00:53 JST／対象: 09/14 18:53 〜 09/15 00:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 34 | 09/14 19:24 | 09/15 00:34 | ⚠ 48分（22:11→23:00） |
-| FirstSquawk | 93 | 09/14 18:38 | 09/15 00:33 | 18分（20:12→20:31） |
-| financialjuice | 100 | 09/14 18:38 | 09/15 00:33 | 28分（20:02→20:30） |
+| FirstSquawk | 91 | 09/14 18:55 | 09/15 00:52 | 18分（20:12→20:31） |
+| financialjuice | 98 | 09/14 19:06 | 09/15 00:46 | 28分（20:02→20:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 212 行（統合前 230 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 209 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 18:38 [FirstSquawk] JAPAN, YEMEN FOREIGN MINISTERS HELD TELEPHONE CALL TODAY: MOFA
-- 09/14 18:38 [financialjuice] Japan and Yemen foreign ministers held a telephone call today - MofA
-- 09/14 18:41 [financialjuice] Japan and Yemen to work on Bab-el-Mandeb situation de-escalation
-- 09/14 18:44 [FirstSquawk] GERMAN GOVERNMENT SPOX: INCREASINGLY CONCERNED ABOUT DIESEL AND GASOLINE PRICES
-- 09/14 18:48 [financialjuice] Poll: Fed to hike Fed funds rate to 3.75%-4.00% on September 16th - 86 of 101 economists (vs 65 of 93 expecting a hold in the Sept 9th poll)
-- 09/14 18:48 [financialjuice] Poll: Fed to hike fed funds rate at least twice by the end of March 2027 - 37 of 70 economists (vs 21 of 82 economists in September 9th poll)
-- 09/14 18:49 [financialjuice/FirstSquawk] ECB's Schnabel: Recent energy-price developments are “quite concerning"
-- 09/14 18:52 [financialjuice] Kremlin welcomes Trump's call to stop striking refineries - IFX
-- 09/14 18:52 [FirstSquawk] KREMLIN ON TRUMP'S CALL FOR UKRAINE TO STOP ATTACKS ON RUSSIAN ENERGY INFRASTRUCTURE: SITUATION IN GLOBAL ENERGY MARKETS IS WORSENING MAINLY DUE TO INSTABILITY IN MIDDLE EAST
-- 09/14 18:53 [FirstSquawk] KREMLIN: INDIA MODI, CHINA'S XI TOLD PUTIN AT BRICS SUMMIT THEY ARE READY TO PLAY ROLE IN UKRAINE CONFLICT SETTLEMENT, THIS WAS POSITIVELY RECEIVED BY PUTIN
 - 09/14 18:55 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: WE AIM TO ORDER A FOURTH NEW SIGNALS INTELLIGENCE SHIP, THE ORDER IS ON ITS WAY TO PARLIAMENT
 - 09/14 19:03 [FirstSquawk] TD LAUNCHES $150 BILLION FIVE-YEAR COMMITMENT TO ACCELERATE CANADA'S INVESTMENT SUPERCYCLE
 - 09/14 19:06 [financialjuice] Japan cabinet approval rating unchanged at 53% - NHK Poll
@@ -236,3 +226,10 @@
 - 09/15 00:34 [DeItaone] TRUMP OPEN TO IRAN DEAL President Trump says Iran wants to reach a deal “quickly and badly,” signaling the U.S. remains open to negotiations. Trump said he will decide whether Washington engages, leaving the door open to a potential diploma…
 - 09/15 00:34 [DeItaone] TRUMP ON IRAN: IRAN WANTS TO MAKE A DEAL, QUICKLY AND BADLY
 - 09/15 00:34 [DeItaone] TRUMP ON IRAN: WILL DETERMINE WHETHER OR NOT U.S.A. WILL CHOOSE TO ENGAGE, CONCEPT OF WHICH WE ARE OPEN TO
+- 09/15 00:38 [financialjuice] ❗ Trump on Iran: Will determine whether or not US will choose to engage, concept of which we are open to - Truth Social
+- 09/15 00:42 [financialjuice] While Iran has repeatedly stated that it does not seek negotiations for a deal with the terrorist US government - Tasnim News
+- 09/15 00:44 [financialjuice] US 6-Month Bill Auction High Yield 4.06% Bid-to-Cover 2.74 Sells $79 bln Awards 82.50% of bids at high US 3-Month Bill Auction High Rate 3.97% Bid-to-Cover 2.64 Sells $92 bln Awards 13.86% of bids at high
+- 09/15 00:46 [financialjuice] Stocks of Crude oil in US SPR fell by about 3.6 mln barrels to 285 mln barrels last week, lowest since 1982
+- 09/15 00:52 [FirstSquawk] ABBOTT WILL PAY MORE THAN $384 MILLION TO RESOLVE CLAIMS ABOUT CONTAMINATED INFANT FORMULA, ACCORDING TO THE DOJ.
+- 09/15 00:52 [FirstSquawk] BP WILL EXECUTE SCHEDULED OPERATIONS AT WHITING REFINERY, RUNNING AT 440,000 BARRELS PER DAY IN THE COMING DAYS.
+- 09/15 00:52 [FirstSquawk] EU EXTENDS SANCTIONS ON RUSSIAN INDIVIDUALS FOR ONE WEEK, NOW UNTIL SEPTEMBER 22.
