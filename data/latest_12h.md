@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 01:17 JST／対象: 09/14 13:17 〜 09/15 01:17 JST（時刻はすべて日本時間）
+生成: 2026-09-15 01:34 JST／対象: 09/14 13:34 〜 09/15 01:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 44 | 09/14 16:28 | 09/15 00:34 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 183 | 09/14 13:18 | 09/15 01:09 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 146 | 09/14 14:07 | 09/15 01:13 | ⚠ 53分（17:16→18:10） |
+| FirstSquawk | 184 | 09/14 13:41 | 09/15 01:33 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 156 | 09/14 14:07 | 09/15 01:32 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 357 行（統合前 376 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 368 行（統合前 387 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 13:18 [FirstSquawk] AI-linked stocks tumble in early Asian trading after leaders of major frontier AI companies warn that development may need to slow to limit potential risks to humanity as per reuters
-- 09/14 13:29 [FirstSquawk] Okinawa governor-elect Koja secures more than 400,000 votes, setting a new record in the prefecture’s gubernatorial election.
-- 09/14 13:33 [FirstSquawk] JAPAN INDUSTRIAL PRODUCTION (Y/Y): 3.9% (PREV 4.1%)
-- 09/14 13:33 [FirstSquawk] JAPAN INDUSTRIAL PRODUCTION (M/M) JUL F: 0.2% (PREV 0.1%)
 - 09/14 13:41 [FirstSquawk] Japan’s central bank is approaching a pivotal rate decision, with markets closely watching whether the BOJ moves ahead with further policy tightening.
 - 09/14 13:41 [FirstSquawk] Global AI stocks retreat as concerns over AI risks intensify, while SoftBank shares tumble as much as 13% after tech leaders call for a slower pace of AI development - FT
 - 09/14 13:42 [FirstSquawk] Warsh and Trump appear headed for a clash over U.S. interest rates, as investors increasingly expect the Fed to raise rates, according to the Financial Times.
@@ -381,3 +377,18 @@
 - 09/15 01:13 [financialjuice] Ukraine’s President Zelenskiy: Ukraine ready to ensure a corresponding halt to our strikes.
 - 09/15 01:13 [financialjuice] EU kids act draft calls for fines of up to 6% of global revenue.
 - 09/15 01:13 [financialjuice] Ukraine’s President Zelenskiy: Ukraine is not convinced that Russia is willing to abide by any agreement.
+- 09/15 01:20 [FirstSquawk] ECB'S MACHADO CALLS FOR GREATER TRANSPARENCY IN SYNTHETIC SRTS.
+- 09/15 01:21 [financialjuice] EC Pres. von der Leyen is going to meet with Canada's PM Carney on Wednesday - Spokesperson.
+- 09/15 01:24 [financialjuice] Trump: US producing more weapons than any time in history - Truth Social Post
+- 09/15 01:25 [financialjuice] Trump: weapons are being delivered daily to US forces in the Middle East and elsewhere
+- 09/15 01:25 [financialjuice] Trump: Defense manufacturers are operating around the clock and building 4-5 new large-scale plants on average.
+- 09/15 01:25 [FirstSquawk] TRUMP: I’VE JUST RECEIVED A REPORT THAT THE UNITED STATES IS PRODUCING MORE EXQUISITE AND ELITE WEAPONS THAN AT ANY TIME IN OUR HISTORY. THEY ARE BEING DELIVERED ON A DAILY BASIS TO OUR FORCES IN THE MIDDLE EAST, AND BEYOND.
+- 09/15 01:25 [financialjuice] Trump: Production is focused on Patriot, THAAD, Tomahawk and other standard missile systems.
+- 09/15 01:25 [FirstSquawk] TRUMP: OUR DEFENSE COMPANY FACTORIES ARE MOVING 24/7, WHILE AT THE SAME TIME BUILDING, ON AVERAGE, 4 TO 5 LARGESCALE BRAND NEW PLANTS, EACH! A PRIMARY FOCUS OF THIS PRODUCTION HAS BEEN PATRIOTS, THAAD SYSTEMS, TOMAHAWKS, AND OTHER STANDARD …
+- 09/15 01:27 [FirstSquawk] TRUMP: OIL IS FLOWING THROUGH THE HORMUZ STRAIT. THE COUNTRIES OF THE WORLD, WHICH HAVE BEEN NO HELP TO US WHATSOEVER, SHOULD, AND WILL, REIMBURSE THE UNITED STATES OF AMERICA WHEN THIS SCAM CONFLIGRATION IS ALL OVER. WE ARE DOING IT MUCH M…
+- 09/15 01:27 [financialjuice] Trump: Oil is flowing through the Hormuz Strait - Truth Social
+- 09/15 01:27 [financialjuice] Trump: Countries who haven't helped will reimburse US, post war.
+- 09/15 01:30 [financialjuice] Saudis seek to boost Hormuz oil exports as key pipeline attacked.
+- 09/15 01:32 [financialjuice] Trump: With temporary exception of oil, prices coming down.
+- 09/15 01:32 [financialjuice] Trump: Oil to drop after Iran conflict ends, will not be long.
+- 09/15 01:33 [FirstSquawk] TRUMP: I HOPE EVERYONE REALIZES THAT PRICE INCREASES THROUGHOUT AMERICA WERE CAUSED BY SLEEPY JOE BIDEN AND THE BIDEN ADMINISTRATION, NOT BY “TRUMP.” EVEN OIL WAS HIGHER UNDER BIDEN THAN IT IS RIGHT NOW, AND WE PREVENTED IRAN FROM HAVING A …
