@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 20:26 JST／対象: 09/14 14:26 〜 09/14 20:26 JST（時刻はすべて日本時間）
+生成: 2026-09-14 20:45 JST／対象: 09/14 14:45 〜 09/14 20:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/14 16:28 | 09/14 20:05 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 83 | 09/14 14:27 | 09/14 20:12 | ⚠ 50分（15:50→16:41） |
-| financialjuice | 32 | 09/14 14:33 | 09/14 20:02 | ⚠ 53分（17:16→18:10） |
+| FirstSquawk | 84 | 09/14 14:46 | 09/14 20:45 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 33 | 09/14 15:00 | 09/14 20:32 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 128 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 130 行（統合前 134 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 14:27 [FirstSquawk] GSK says data from 88 million Greater Bay Area residents could help shape better healthcare policies and improve planning across the region.
-- 09/14 14:33 [financialjuice] EU's Albuquerque: Difficult to map AI risks
-- 09/14 14:34 [financialjuice] EU's Albuquerque: AI risks will only increase
-- 09/14 14:37 [FirstSquawk] China is set to lay out a new five-year strategy for the new-energy vehicle sector, shaping the next phase of growth and development for the country’s EV industry.
-- 09/14 14:42 [FirstSquawk] Canadian PM Mark Carney says Canada is not seeking EU membership, but plans to begin discussions on a unique alliance with the European Union, deepening ties between Ottawa and Brussels.
 - 09/14 14:46 [FirstSquawk] An EU official says fragmented bank tax regimes across member states are hurting competitiveness, highlighting calls for a more consistent approach to banking taxation.
 - 09/14 14:49 [FirstSquawk] Trump says Canada is the “worst country to deal with”, while claiming Ottawa is eager to reach a new deal with Washington.
 - 09/14 14:54 [FirstSquawk] Russian forces launched drone attacks on Ukraine’s western Lviv region, with the heaviest damage reported in Stryi. No deaths or injuries were reported, while a residential building and an educational complex were damaged, according to CNBC…
@@ -152,3 +147,10 @@
 - 09/14 20:05 [DeItaone] *GERMANY TO LOBBY EU ON NEW CHINA POLICY, MAY SEEK MORE TARIFFS
 - 09/14 20:09 [FirstSquawk] US ENERGY SEC WRIGHT: REFINING CAPACITY HELD BACK BY CHINA COULD RETURN
 - 09/14 20:12 [FirstSquawk] CITIGROUP EXPECTS BOE TO HIKE INTEREST RATES BY 25 BPS EACH IN Q4 2026 AND Q1 2027 VS PRIOR FORECAST OF RATES ON HOLD UNTIL Q2 2027
+- 09/14 20:30 [financialjuice] Intel-backed buildots raises $130M for AI in construction
+- 09/14 20:31 [FirstSquawk] 5.6 MAGNITUDE EARTHQUAKE OCCURS 78 KM NORTH-NORTHEAST OF TOBELO, INDONESIA, ACCORDING TO USGS.
+- 09/14 20:32 [financialjuice] UK's PM Starmer's Spokesman Wells: The PM thinks its good AI companies are being open about risks
+- 09/14 20:32 [FirstSquawk] TEXAS STOCK EXCHANGE ADDS FIFTH COMPANY IN JUST ONE WEEK.
+- 09/14 20:32 [financialjuice] UK's PM Spokesman Wells: Future AI measures will be evidence-based, risk-focused.
+- 09/14 20:39 [FirstSquawk] UK PM BURNHAM `CLEAR-EYED' ABOUT RISKS POSED BY AI: WELLS
+- 09/14 20:45 [FirstSquawk] CHINESE GROUPS ARE SAID TO HAVE PROVIDED IRAN WITH SATELLITE IMAGES OF A U.S. AIR BASE, WHICH IRAN LATER ATTACKED WITH MISSILES, RESULTING IN THE DEATH OF THREE AMERICAN SOLDIERS.
