@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 06:59 JST／対象: 09/14 06:59 〜 09/15 06:59 JST（時刻はすべて日本時間）
+生成: 2026-09-15 07:18 JST／対象: 09/14 07:18 〜 09/15 07:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 08:03 | 09/15 05:37 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 344 | 09/14 07:01 | 09/15 06:40 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 246 | 09/14 07:00 | 09/15 06:32 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 346 | 09/14 07:18 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 241 | 09/14 07:33 | 09/15 07:08 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 618 行（統合前 648 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 615 行（統合前 645 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 07:00 [financialjuice] Sweden Social Democrats leader Andersson: currently leading, new government likely if results hold
-- 09/14 07:01 [FirstSquawk] BRENT CRUDE RISES 2.4% AFTER A SAUDI PIPELINE SHUTDOWN AND DELAYED HORMUZ SHIPPING TALKS RAISE CONCERNS OVER GLOBAL OIL SUPPLIES.
-- 09/14 07:06 [financialjuice] Shenzhen forms Syntron Information: 59 million H shares offered globally
-- 09/14 07:06 [financialjuice] Shenzhen establishes Syntron Information with maximum offer price HK$16.00 per H share in global offering
-- 09/14 07:06 [financialjuice] Ligent Technologies announces global offering of 172 million shares
-- 09/14 07:06 [financialjuice] Ligent Technologies announces offer price under global offering at HK$32.96 per share
-- 09/14 07:06 [financialjuice] Ligent Technologies: global offering includes 154.8 million international shares
-- 09/14 07:07 [financialjuice] Shenzhen forms Syntron Information with 53.1 million international H-share offer
-- 09/14 07:17 [FirstSquawk] ELON MUSK: HIGHLY CONFIDENT SPACEX WILL LAUNCH NVIDIA VR NLV72 AI COMPUTERS IN SPACE NEXT YEAR - X POST
 - 09/14 07:18 [FirstSquawk] SHENZHEN-BASED SYNTRON INFORMATION PLANS A GLOBAL OFFERING OF 59 MILLION H SHARES, WITH A MAXIMUM OFFER PRICE OF HK$16.00 PER H SHARE. THE OFFERING INCLUDES 53.1 MILLION INTERNATIONAL H SHARES, AS THE COMPANY MOVES FORWARD WITH ITS GLOBAL L…
 - 09/14 07:19 [FirstSquawk] US STOCK FUTURES FALL AS AI DEVELOPMENT CONCERNS AND HOTTER-THAN-EXPECTED INFLATION WEIGH ON SENTIMENT, WITH NASDAQ 100 FUTURES DOWN 1.2% AND S&P 500 FUTURES OFF 0.6%.
 - 09/14 07:19 [FirstSquawk] BRENT CRUDE JUMPS 2.8% TO $107.55 AFTER SAUDI ARABIA SHUT A KEY OIL PIPELINE FOLLOWING DRONE ATTACKS, WHILE DELAYED HORMUZ TALKS AND RISING INFLATION BOOST BETS ON A FED RATE HIKE WEDNESDAY.
@@ -642,3 +633,9 @@
 - 09/15 06:25 [FirstSquawk] TRUMP AI CZAR DAVID SACKS SAYS AI LABS CAN DEVELOP SAFE TECHNOLOGY WITHOUT MAKING ANTITRUST CONCESSIONS, REJECTING CALLS FOR GOVERNMENT-IMPOSED LIMITS ON AI DEVELOPMENT.
 - 09/15 06:25 [FirstSquawk] TRUMP AI CZAR DAVID SACKS CALLS FOR GREATER TRANSPARENCY AND AUDITS OF AI LABS, SAYING THE INDUSTRY DOES NOT NEED THE GOVERNMENT TO CONTROL THE PACE OF TECHNOLOGICAL PROGRESS.
 - 09/15 06:32 [financialjuice/FirstSquawk] Nato military fighter shoots down drone in Lithuanian airspace: national crisis management centre
+- 09/15 06:59 [FirstSquawk] ABBOTT LABORATORIES AGREES TO PAY $385 MILLION TO SETTLE U.S. AND STATE CLAIMS OVER POOR MANUFACTURING PRACTICES AT TWO FACILITIES, INCLUDING ITS STURGIS, MICHIGAN INFANT FORMULA PLANT.
+- 09/15 06:59 [FirstSquawk] ABBOTT WILL PAY $348.7 MILLION TO THE U.S. UNDER THE FALSE CLAIMS ACT AND $36.3 MILLION TO SEVERAL STATES, WITHOUT ADMITTING FAULT OR LIABILITY.
+- 09/15 07:01 [FirstSquawk] WTI OIL RISES 0.7% AT THE OPEN AS IRAN REJECTS U.S. TALKS AND A TANKER INCIDENT HEIGHTENS STRAIT OF HORMUZ SUPPLY CONCERNS.
+- 09/15 07:04 [financialjuice] Saudi civil defense issues emergency alert for Khamis Mushait and Abha: state TV
+- 09/15 07:07 [FirstSquawk] SAUDI ARABIA ACTIVATES EMERGENCY ALERTS IN KHAMIS MUSHAIT AND ABHA: STATE TV
+- 09/15 07:08 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait and Abha - state TV

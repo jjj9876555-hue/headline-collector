@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 06:59 JST／対象: 09/14 18:59 〜 09/15 06:59 JST（時刻はすべて日本時間）
+生成: 2026-09-15 07:18 JST／対象: 09/14 19:18 〜 09/15 07:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 43 | 09/14 19:24 | 09/15 05:37 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 157 | 09/14 19:03 | 09/15 06:40 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 167 | 09/14 19:06 | 09/15 06:32 | 34分（05:17→05:51） |
+| FirstSquawk | 158 | 09/14 19:27 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 168 | 09/14 19:22 | 09/15 07:08 | 34分（05:17→05:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 343 行（統合前 371 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 345 行（統合前 373 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 19:03 [FirstSquawk] TD LAUNCHES $150 BILLION FIVE-YEAR COMMITMENT TO ACCELERATE CANADA'S INVESTMENT SUPERCYCLE
-- 09/14 19:06 [financialjuice] Japan cabinet approval rating unchanged at 53% - NHK Poll
-- 09/14 19:08 [FirstSquawk] USD/JPY EXTENDS GAINS, RISES 0.7% TO ONE-WEEK HIGH AT 154.74
-- 09/14 19:12 [FirstSquawk] EU'S VON DER LEYEN TO PRESENT 'EU KIDS ACT' ON THURSDAY
 - 09/14 19:22 [financialjuice/DeItaone] Reports of ammonia gas leak in Jordan's Aqaba industrial complex - State TV
 - 09/14 19:27 [FirstSquawk] EU COMMISSION SPOX: EU IS IN FAVOUR OF INNOVATIVE AI SERVICES, BUT WON'T COMPROMISE ON SAFETY, COMPANIES HAVE TO PROVE SAFETY FOR CITIZENS
 - 09/14 19:37 [financialjuice] ECB's Stournaras: Timely ECB steps limit risk of painful hikes later
@@ -367,3 +363,9 @@
 - 09/15 06:25 [FirstSquawk] TRUMP AI CZAR DAVID SACKS SAYS AI LABS CAN DEVELOP SAFE TECHNOLOGY WITHOUT MAKING ANTITRUST CONCESSIONS, REJECTING CALLS FOR GOVERNMENT-IMPOSED LIMITS ON AI DEVELOPMENT.
 - 09/15 06:25 [FirstSquawk] TRUMP AI CZAR DAVID SACKS CALLS FOR GREATER TRANSPARENCY AND AUDITS OF AI LABS, SAYING THE INDUSTRY DOES NOT NEED THE GOVERNMENT TO CONTROL THE PACE OF TECHNOLOGICAL PROGRESS.
 - 09/15 06:32 [financialjuice/FirstSquawk] Nato military fighter shoots down drone in Lithuanian airspace: national crisis management centre
+- 09/15 06:59 [FirstSquawk] ABBOTT LABORATORIES AGREES TO PAY $385 MILLION TO SETTLE U.S. AND STATE CLAIMS OVER POOR MANUFACTURING PRACTICES AT TWO FACILITIES, INCLUDING ITS STURGIS, MICHIGAN INFANT FORMULA PLANT.
+- 09/15 06:59 [FirstSquawk] ABBOTT WILL PAY $348.7 MILLION TO THE U.S. UNDER THE FALSE CLAIMS ACT AND $36.3 MILLION TO SEVERAL STATES, WITHOUT ADMITTING FAULT OR LIABILITY.
+- 09/15 07:01 [FirstSquawk] WTI OIL RISES 0.7% AT THE OPEN AS IRAN REJECTS U.S. TALKS AND A TANKER INCIDENT HEIGHTENS STRAIT OF HORMUZ SUPPLY CONCERNS.
+- 09/15 07:04 [financialjuice] Saudi civil defense issues emergency alert for Khamis Mushait and Abha: state TV
+- 09/15 07:07 [FirstSquawk] SAUDI ARABIA ACTIVATES EMERGENCY ALERTS IN KHAMIS MUSHAIT AND ABHA: STATE TV
+- 09/15 07:08 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait and Abha - state TV

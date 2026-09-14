@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 06:59 JST／対象: 09/15 00:59 〜 09/15 06:59 JST（時刻はすべて日本時間）
+生成: 2026-09-15 07:18 JST／対象: 09/15 01:18 〜 09/15 07:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/15 02:25 | 09/15 05:37 | ⚠ 64分（04:32→05:37） |
-| FirstSquawk | 64 | 09/15 00:59 | 09/15 06:40 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 69 | 09/15 01:09 | 09/15 06:32 | 34分（05:17→05:51） |
+| FirstSquawk | 63 | 09/15 01:20 | 09/15 07:07 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 65 | 09/15 01:21 | 09/15 07:08 | 34分（05:17→05:51） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 132 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 127 行（統合前 138 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 00:59 [FirstSquawk] KLINGBEIL CONFIRMS GERMANY SUPPORTS 40,000 COMMERZBANK EMPLOYEES.
-- 09/15 01:02 [FirstSquawk] ANTHROPIC INTRODUCES CLAUDE AIMED AT FINANCIAL ADVISERS.
-- 09/15 01:02 [FirstSquawk] CLAUDE IS NOW AVAILABLE FOR FINANCIAL ADVISORS.
-- 09/15 01:02 [FirstSquawk] CLAUDE CONNECTS WITH SCHWAB, BLACKROCK, ADDEPAR, AND ORION.
-- 09/15 01:09 [financialjuice] Zelenskyy: Ukraine proposed partners secure agreement with Russia
-- 09/15 01:09 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE SUGGESTED PARTNERS TO REACH A DEAL WITH RUSSIA.
-- 09/15 01:11 [financialjuice] Ukraine’s President Zelenskiy: Ukraine would agree on energy truce if Russia does.
-- 09/15 01:12 [financialjuice] Ukraine’s President Zelenskiy: Ukraine proposed that its partners secure an agreement with Russia that would stop the destruction of critical infrastructure.
-- 09/15 01:13 [financialjuice] Ukraine’s President Zelenskiy: Ukraine ready to ensure a corresponding halt to our strikes.
-- 09/15 01:13 [financialjuice] EU kids act draft calls for fines of up to 6% of global revenue.
-- 09/15 01:13 [financialjuice] Ukraine’s President Zelenskiy: Ukraine is not convinced that Russia is willing to abide by any agreement.
 - 09/15 01:20 [FirstSquawk] ECB'S MACHADO CALLS FOR GREATER TRANSPARENCY IN SYNTHETIC SRTS.
 - 09/15 01:21 [financialjuice] EC Pres. von der Leyen is going to meet with Canada's PM Carney on Wednesday - Spokesperson.
 - 09/15 01:24 [financialjuice] Trump: US producing more weapons than any time in history - Truth Social Post
@@ -156,3 +145,9 @@
 - 09/15 06:25 [FirstSquawk] TRUMP AI CZAR DAVID SACKS SAYS AI LABS CAN DEVELOP SAFE TECHNOLOGY WITHOUT MAKING ANTITRUST CONCESSIONS, REJECTING CALLS FOR GOVERNMENT-IMPOSED LIMITS ON AI DEVELOPMENT.
 - 09/15 06:25 [FirstSquawk] TRUMP AI CZAR DAVID SACKS CALLS FOR GREATER TRANSPARENCY AND AUDITS OF AI LABS, SAYING THE INDUSTRY DOES NOT NEED THE GOVERNMENT TO CONTROL THE PACE OF TECHNOLOGICAL PROGRESS.
 - 09/15 06:32 [financialjuice/FirstSquawk] Nato military fighter shoots down drone in Lithuanian airspace: national crisis management centre
+- 09/15 06:59 [FirstSquawk] ABBOTT LABORATORIES AGREES TO PAY $385 MILLION TO SETTLE U.S. AND STATE CLAIMS OVER POOR MANUFACTURING PRACTICES AT TWO FACILITIES, INCLUDING ITS STURGIS, MICHIGAN INFANT FORMULA PLANT.
+- 09/15 06:59 [FirstSquawk] ABBOTT WILL PAY $348.7 MILLION TO THE U.S. UNDER THE FALSE CLAIMS ACT AND $36.3 MILLION TO SEVERAL STATES, WITHOUT ADMITTING FAULT OR LIABILITY.
+- 09/15 07:01 [FirstSquawk] WTI OIL RISES 0.7% AT THE OPEN AS IRAN REJECTS U.S. TALKS AND A TANKER INCIDENT HEIGHTENS STRAIT OF HORMUZ SUPPLY CONCERNS.
+- 09/15 07:04 [financialjuice] Saudi civil defense issues emergency alert for Khamis Mushait and Abha: state TV
+- 09/15 07:07 [FirstSquawk] SAUDI ARABIA ACTIVATES EMERGENCY ALERTS IN KHAMIS MUSHAIT AND ABHA: STATE TV
+- 09/15 07:08 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait and Abha - state TV
