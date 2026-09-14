@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 14:58 JST／対象: 09/14 08:58 〜 09/14 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-14 15:25 JST／対象: 09/14 09:25 〜 09/14 15:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 107 | 09/14 09:10 | 09/14 14:57 | 11分（12:02→12:13） |
-| financialjuice | 35 | 09/14 09:00 | 09/14 14:34 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 113 | 09/14 09:26 | 09/14 15:23 | 11分（15:10→15:21） |
+| financialjuice | 35 | 09/14 09:34 | 09/14 15:00 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 142 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 148 行（統合前 148 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 09:00 [financialjuice] Kennedy Center may shut as soon as Tuesday, warns of bankruptcy, documents show - Washington Post
-- 09/14 09:10 [FirstSquawk] Musk says he’s highly confident SpaceX will put Nvidia AI computers into orbit in 2027, potentially opening a new frontier for space-based computing.
-- 09/14 09:11 [FirstSquawk] BAKER HUGHES WINS A MAJOR CONTRACT FROM VENTURE GLOBAL LNG TO SUPPLY 13 GAS COMPRESSION SYSTEMS FOR THE CLOUD CONNECT PIPELINE IN LOUISIANA. || COMPANY WILL ALSO DELIVER FOUR LIQUEFACTION BLOCKS WITH EIGHT MODULES FOR VENTURE GLOBAL'S PLAQU…
-- 09/14 09:11 [FirstSquawk] Asia-Pacific markets start mostly lower as surging oil prices and Middle East supply risks pressure sentiment, while traders weigh potential Fed and BOJ rate hikes this week.
-- 09/14 09:11 [FirstSquawk] China’s defence forum opens against a backdrop of rising regional tensions, putting Beijing’s security priorities and military diplomacy under closer scrutiny.
-- 09/14 09:15 [FirstSquawk] Oil jumps more than 3% as fresh Middle East developments deepen supply concerns and a planned Strait of Hormuz meeting is delayed, adding to market uncertainty.
-- 09/14 09:15 [FirstSquawk] HONG KONG CHIEF EXECUTIVE JOHN LEE SAYS THE CITY’S FIRST FIVE-YEAR PLAN WILL PRESERVE ITS CAPITALIST SYSTEM, RULE OF LAW AND “ONE COUNTRY, TWO SYSTEMS” FRAMEWORK, WHILE KEEPING THE FREE FLOW OF CAPITAL, PEOPLE, GOODS AND INFORMATION. LEE SA…
-- 09/14 09:20 [FirstSquawk] Two U.S. Air Force officers were forced to eject over Iran in April after their F-15E was shot down, landing separately near Isfahan as Iranian forces searched the area.
-- 09/14 09:23 [financialjuice] China PBOC likely to fix yuan midpoint at 6.7083 per dollar: estimate
-- 09/14 09:24 [FirstSquawk] Higher oil prices are strengthening the case for rate hikes, as renewed energy-cost pressures raise concerns over inflation and could complicate central banks’ policy decisions.
-- 09/14 09:24 [FirstSquawk] Middle East tensions are tightening global oil supplies, with Houthi activity in Yemen adding pressure to another key energy corridor and increasing risks for regional energy flows.
 - 09/14 09:26 [FirstSquawk] Nikkei slides 1.6% as chipmakers and metals stocks come under pressure, weighing on Japan’s broader equity market.
 - 09/14 09:29 [FirstSquawk] Trump signals the U.S. could remain in Iran and take control of its oil, raising the stakes for Washington’s role in the country and adding another layer of uncertainty to global energy markets - cablefxmacro
 - 09/14 09:32 [FirstSquawk] The Kennedy Center is reportedly on the verge of bankruptcy, with the Washington Post reporting that the Washington arts institution could face closure as soon as Tuesday.
@@ -166,3 +155,20 @@
 - 09/14 14:56 [FirstSquawk] Bangladesh’s energy minister says the LNG supply disruption has put significant pressure on the country’s economy, as Dhaka seeks replacement cargoes on the spot market.
 - 09/14 14:57 [FirstSquawk] Saudi-backed Yemeni forces retake positions in southwest Taiz after Houthi militants infiltrated the area, Saudi media Hadath reports.
 - 09/14 14:57 [FirstSquawk] South Korea’s foreign ministry condemns Houthi attacks on Saudi civilians and economic infrastructure, calling for an immediate halt to the attacks.
+- 09/14 15:00 [financialjuice] SWEDISH CPI MOM ACTUAL -0.3% (FORECAST -0.3%, PREVIOUS -0.3%) $MACRO
+- 09/14 15:00 [FirstSquawk] U.S. stock futures fall sharply, with S&P 500 E-mini futures down 0.5%, Nasdaq-100 futures off 1.3% and Dow futures lower 0.1%.
+- 09/14 15:00 [financialjuice] SWEDISH CPI YOY ACTUAL 0.3% (FORECAST 0.3%, PREVIOUS 0.3%) $MACRO
+- 09/14 15:01 [FirstSquawk] China’s top intelligence official warns that rapid AI advances could threaten political stability and critical infrastructure, saying adversaries’ misuse of the technology could pose direct risks to China’s political, institutional and ideo…
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI MOM ACTUAL: -0.3% VS -0.3% PREVIOUS;EST -0.3%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI YOY ACTUAL: 0.3% VS 0.3% PREVIOUS;EST 0.3%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF MOM ACTUAL: -0.2% VS -0.3% PREVIOUS;EST -0.3%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF YOY ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY MOM ACTUAL: -0.5% VS -0.6% PREVIOUS;EST -0.6%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY YOY ACTUAL: 0.5% VS 0.5% PREVIOUS;EST 0.5%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI LEVEL ACTUAL: 124.85 VS 125.17 PREVIOUS;EST 124.82
+- 09/14 15:04 [FirstSquawk] European stock futures are mixed, with STOXX Europe 50 down 0.41%, DAX futures lower 0.35%, while FTSE 100 futures rise 0.18%.
+- 09/14 15:06 [FirstSquawk] Bangladesh is seeking alternative LNG suppliers and considering U.S. LNG despite high shipping costs, as the country works to secure replacement gas supplies.
+- 09/14 15:06 [FirstSquawk] AstraZeneca’s breast-cancer drug fails to meet its goal in a late-stage trial, dealing a setback to the company’s oncology pipeline.
+- 09/14 15:10 [FirstSquawk] Shanghai is encouraging eligible financial institutions to develop enterprise AI platforms, signaling a push to accelerate AI adoption across the city’s financial sector.
+- 09/14 15:21 [FirstSquawk] CHINA’S TOP SPY CHIEF WARNS AI COULD THREATEN POLITICAL STABILITY & CRITICAL INFRASTRUCTURE
+- 09/14 15:23 [FirstSquawk] Malaysia’s **PETRONAS signs an LNG supply agreement with METLEN**, aiming to strengthen energy security and diversify gas supplies across Southeast Europe.

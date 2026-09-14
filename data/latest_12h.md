@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 14:58 JST／対象: 09/14 02:58 〜 09/14 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-14 15:25 JST／対象: 09/14 03:25 〜 09/14 15:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/14 04:05 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 164 | 09/14 03:29 | 09/14 14:57 | 43分（03:41→04:25） |
-| financialjuice | 79 | 09/14 03:01 | 09/14 14:34 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 179 | 09/14 03:29 | 09/14 15:23 | 43分（03:41→04:25） |
+| financialjuice | 72 | 09/14 03:52 | 09/14 15:00 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 245 行（統合前 247 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 253 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 03:01 [financialjuice] Sweden's Social Democrats forecasted to secure 28.4% of votes in election vs 30.3% in 2022 - public broadcaster SVT exit poll
-- 09/14 03:02 [financialjuice] Sweden Democrats forecast to gather 17.2% of votes in election vs 20.5% in 2022 public broadcaster SVT exit poll
-- 09/14 03:04 [financialjuice] Sweden's centre-left opposition bloc to secure 51.3% of votes in election: TV4 election day poll
-- 09/14 03:04 [financialjuice] Sweden's right-wing governing bloc set to capture 47% of votes in election: TV4 election day poll
-- 09/14 03:04 [financialjuice] Sweden's Liberals party seen surpassing parliament's 4% threshold: TV4 election day poll
-- 09/14 03:05 [financialjuice] Sweden's Liberals party expected to clear parliament's 4% threshold: public broadcaster SVT exit poll
-- 09/14 03:05 [financialjuice] Sweden's centre-left bloc projected to secure 46.8% of votes in election: public broadcaster SVT exit poll
-- 09/14 03:05 [financialjuice] Sweden's right-wing ruling bloc tipped to secure 51.3% of vote in election: public broadcaster SVT exit poll
-- 09/14 03:08 [financialjuice] Sweden's centre-left bloc projected to secure 51.3% of votes in election: public broadcaster SVT exit poll
 - 09/14 03:29 [FirstSquawk] A RUSSIAN DRONE STRUCK A TRAIN NEAR THE UKRAINE-POLAND BORDER ON SUNDAY SHORTLY AFTER SENIOR VISITING OFFICIALS — INCLUDING FORMER U.K. PRIME MINISTER BORIS JOHNSON AND FORMER SWEDISH PRIME MINISTER CARL BILDT — PASSED THROUGH, UKRAINE'S ST…
 - 09/14 03:29 [FirstSquawk] UKRZALIZNYTSIA SAID IT IS 'HIGHLY PROBABLE' THE DRONE'S TARGET WAS THE DIPLOMATIC TRAIN, WITH ANOTHER TRAIN CARRYING FORMER CIA DIRECTOR DAVID PETRAEUS STILL AT THE STATION WHEN THE DRONE STRUCK, THOUGH NO CASUALTIES WERE IMMEDIATELY REPORT…
 - 09/14 03:29 [FirstSquawk] BILDT SAID ON X IT 'WASN'T OUR TRAIN, BUT THE ONE JUST MINUTES AFTER US', WHILE JOHNSON CALLED IT 'THE KIND OF RANDOM AND SENSELESS ATTACK UKRAINIANS ARE ENDURING EVERY DAY'.
@@ -269,3 +260,20 @@
 - 09/14 14:56 [FirstSquawk] Bangladesh’s energy minister says the LNG supply disruption has put significant pressure on the country’s economy, as Dhaka seeks replacement cargoes on the spot market.
 - 09/14 14:57 [FirstSquawk] Saudi-backed Yemeni forces retake positions in southwest Taiz after Houthi militants infiltrated the area, Saudi media Hadath reports.
 - 09/14 14:57 [FirstSquawk] South Korea’s foreign ministry condemns Houthi attacks on Saudi civilians and economic infrastructure, calling for an immediate halt to the attacks.
+- 09/14 15:00 [financialjuice] SWEDISH CPI MOM ACTUAL -0.3% (FORECAST -0.3%, PREVIOUS -0.3%) $MACRO
+- 09/14 15:00 [FirstSquawk] U.S. stock futures fall sharply, with S&P 500 E-mini futures down 0.5%, Nasdaq-100 futures off 1.3% and Dow futures lower 0.1%.
+- 09/14 15:00 [financialjuice] SWEDISH CPI YOY ACTUAL 0.3% (FORECAST 0.3%, PREVIOUS 0.3%) $MACRO
+- 09/14 15:01 [FirstSquawk] China’s top intelligence official warns that rapid AI advances could threaten political stability and critical infrastructure, saying adversaries’ misuse of the technology could pose direct risks to China’s political, institutional and ideo…
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI MOM ACTUAL: -0.3% VS -0.3% PREVIOUS;EST -0.3%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI YOY ACTUAL: 0.3% VS 0.3% PREVIOUS;EST 0.3%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF MOM ACTUAL: -0.2% VS -0.3% PREVIOUS;EST -0.3%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF YOY ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY MOM ACTUAL: -0.5% VS -0.6% PREVIOUS;EST -0.6%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY YOY ACTUAL: 0.5% VS 0.5% PREVIOUS;EST 0.5%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI LEVEL ACTUAL: 124.85 VS 125.17 PREVIOUS;EST 124.82
+- 09/14 15:04 [FirstSquawk] European stock futures are mixed, with STOXX Europe 50 down 0.41%, DAX futures lower 0.35%, while FTSE 100 futures rise 0.18%.
+- 09/14 15:06 [FirstSquawk] Bangladesh is seeking alternative LNG suppliers and considering U.S. LNG despite high shipping costs, as the country works to secure replacement gas supplies.
+- 09/14 15:06 [FirstSquawk] AstraZeneca’s breast-cancer drug fails to meet its goal in a late-stage trial, dealing a setback to the company’s oncology pipeline.
+- 09/14 15:10 [FirstSquawk] Shanghai is encouraging eligible financial institutions to develop enterprise AI platforms, signaling a push to accelerate AI adoption across the city’s financial sector.
+- 09/14 15:21 [FirstSquawk] CHINA’S TOP SPY CHIEF WARNS AI COULD THREATEN POLITICAL STABILITY & CRITICAL INFRASTRUCTURE
+- 09/14 15:23 [FirstSquawk] Malaysia’s **PETRONAS signs an LNG supply agreement with METLEN**, aiming to strengthen energy security and diversify gas supplies across Southeast Europe.

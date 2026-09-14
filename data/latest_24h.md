@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 14:58 JST／対象: 09/13 14:58 〜 09/14 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-14 15:25 JST／対象: 09/13 15:25 〜 09/14 15:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/13 18:12 | 09/14 08:03 | ⚠ 199分（04:44→08:03） |
-| FirstSquawk | 270 | 09/13 15:00 | 09/14 14:57 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 110 | 09/13 15:51 | 09/14 14:34 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 279 | 09/13 15:31 | 09/14 15:23 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 112 | 09/13 15:51 | 09/14 15:00 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 399 行（統合前 405 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 410 行（統合前 416 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 15:00 [FirstSquawk] US hiring remained broadly stable in July, with 5.1 million people hired and the hiring rate holding at 3.2%. Professional and business services saw the biggest decline, with hires falling by 188,000 during the month.
-- 09/13 15:16 [FirstSquawk] FM Nirmala Sitharaman Meets Iran’s Finance Minister In New Delhi Union Finance Minister Nirmala Sitharaman meets Iran’s Minister of Economic Affairs and Finance Seyed Ali Madanizadeh in New Delhi, with both sides discussing economic coopera…
-- 09/13 15:17 [FirstSquawk] China revised leadership rules for universities and other public-sector institutions, strengthening requirements for political qualifications and Communist Party leadership
-- 09/13 15:17 [FirstSquawk] Weekend markets update: #DAX 25507 -0.23% #DOW 52523 -0.03% #NASDAQ 29244 -0.42% #FTSE 10665 0.00% #HANGSENG 24754 +0.02% #EURUSD 11586 -0.10% #GOLD 4356 +0.15% #SILVER 6449 +0.06% #USOIL 9698 -0.17%
-- 09/13 15:17 [FirstSquawk] PwC shakes up Indian operations as AI threat looms over consulting sector
-- 09/13 15:18 [FirstSquawk] Elections are taking place in the districts, towns and local authorities of the German state of Lower Saxony - just one week after the far right's historic win in the eastern German state of Saxony-Anhalt and before two key state elections
 - 09/13 15:31 [FirstSquawk] BOJ meeting, Semicon India, Hong Kong's first five-year plan
 - 09/13 15:32 [FirstSquawk] Donald Trump turns his focus to golf and promoting his business interests as he wraps up a visit to Ireland on Sunday
 - 09/13 15:32 [FirstSquawk] Chubu Electric Power Co.’s top two executives are set to step down over the falsification of safety data used in regulatory reviews to restart some of its nuclear reactors
@@ -423,3 +417,20 @@
 - 09/14 14:56 [FirstSquawk] Bangladesh’s energy minister says the LNG supply disruption has put significant pressure on the country’s economy, as Dhaka seeks replacement cargoes on the spot market.
 - 09/14 14:57 [FirstSquawk] Saudi-backed Yemeni forces retake positions in southwest Taiz after Houthi militants infiltrated the area, Saudi media Hadath reports.
 - 09/14 14:57 [FirstSquawk] South Korea’s foreign ministry condemns Houthi attacks on Saudi civilians and economic infrastructure, calling for an immediate halt to the attacks.
+- 09/14 15:00 [financialjuice] SWEDISH CPI MOM ACTUAL -0.3% (FORECAST -0.3%, PREVIOUS -0.3%) $MACRO
+- 09/14 15:00 [FirstSquawk] U.S. stock futures fall sharply, with S&P 500 E-mini futures down 0.5%, Nasdaq-100 futures off 1.3% and Dow futures lower 0.1%.
+- 09/14 15:00 [financialjuice] SWEDISH CPI YOY ACTUAL 0.3% (FORECAST 0.3%, PREVIOUS 0.3%) $MACRO
+- 09/14 15:01 [FirstSquawk] China’s top intelligence official warns that rapid AI advances could threaten political stability and critical infrastructure, saying adversaries’ misuse of the technology could pose direct risks to China’s political, institutional and ideo…
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI MOM ACTUAL: -0.3% VS -0.3% PREVIOUS;EST -0.3%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI YOY ACTUAL: 0.3% VS 0.3% PREVIOUS;EST 0.3%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF MOM ACTUAL: -0.2% VS -0.3% PREVIOUS;EST -0.3%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF YOY ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY MOM ACTUAL: -0.5% VS -0.6% PREVIOUS;EST -0.6%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY YOY ACTUAL: 0.5% VS 0.5% PREVIOUS;EST 0.5%
+- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI LEVEL ACTUAL: 124.85 VS 125.17 PREVIOUS;EST 124.82
+- 09/14 15:04 [FirstSquawk] European stock futures are mixed, with STOXX Europe 50 down 0.41%, DAX futures lower 0.35%, while FTSE 100 futures rise 0.18%.
+- 09/14 15:06 [FirstSquawk] Bangladesh is seeking alternative LNG suppliers and considering U.S. LNG despite high shipping costs, as the country works to secure replacement gas supplies.
+- 09/14 15:06 [FirstSquawk] AstraZeneca’s breast-cancer drug fails to meet its goal in a late-stage trial, dealing a setback to the company’s oncology pipeline.
+- 09/14 15:10 [FirstSquawk] Shanghai is encouraging eligible financial institutions to develop enterprise AI platforms, signaling a push to accelerate AI adoption across the city’s financial sector.
+- 09/14 15:21 [FirstSquawk] CHINA’S TOP SPY CHIEF WARNS AI COULD THREATEN POLITICAL STABILITY & CRITICAL INFRASTRUCTURE
+- 09/14 15:23 [FirstSquawk] Malaysia’s **PETRONAS signs an LNG supply agreement with METLEN**, aiming to strengthen energy security and diversify gas supplies across Southeast Europe.
