@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 04:20 JST／対象: 09/14 16:20 〜 09/15 04:20 JST（時刻はすべて日本時間）
+生成: 2026-09-15 04:35 JST／対象: 09/14 16:35 〜 09/15 04:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 09/14 16:28 | 09/15 04:06 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 174 | 09/14 16:41 | 09/15 04:16 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 173 | 09/14 16:29 | 09/15 04:17 | ⚠ 53分（17:16→18:10） |
+| DeItaone | 50 | 09/14 17:19 | 09/15 04:32 | ⚠ 110分（00:34→02:25） |
+| FirstSquawk | 175 | 09/14 16:41 | 09/15 04:22 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 173 | 09/14 16:38 | 09/15 04:26 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 375 行（統合前 401 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 376 行（統合前 402 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 16:28 [DeItaone] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
-- 09/14 16:29 [financialjuice] Iran's foreign ministry spokesperson: Saudi Arabia insisted for meeting between Tehran and Gulf powers in Oman not to take place
 - 09/14 16:38 [financialjuice] Iran's Foreign Ministry Spokesperson: Reports about nuclear activity in Iran's Pickaxe mountain (kolang kouh) are baseless.
 - 09/14 16:41 [FirstSquawk] IRAN’S FOREIGN MINISTRY SPOX: SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
 - 09/14 16:41 [FirstSquawk] ICBC, HSBC Among Major Lenders On Bytedance's $30 Billion Loan
@@ -399,3 +397,6 @@
 - 09/15 04:15 [financialjuice] Trump met with OpenAI’s Altman at the GOP Convention - MS Now.
 - 09/15 04:16 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN: IRAN HAS NO INTENTION OF GOING TO WAR WITH SAUDI ARABIA; REGIONAL COOPERATION CAN ENSURE SECURITY AND DRIVE ECONOMIC GROWTH.
 - 09/15 04:17 [financialjuice] Trump privately met with OpenAI’s Sam Altman at GOP convention
+- 09/15 04:22 [FirstSquawk] TRUMP PRIVATELY MET OPENAI'S SAM ALTMAN AT GOP CONVENTION AFTER ALTMAN REQUESTED THE MEETING.
+- 09/15 04:26 [financialjuice] Tuesday FX Option Expiries
+- 09/15 04:32 [DeItaone] TRUMP, ALTMAN SPLIT OVER AI SAFETY President Trump privately met OpenAI CEO Sam Altman last week to discuss AI and its growing power, according to MS NOW. Days later, their positions diverged sharply. Altman backed slowing frontier AI devel…

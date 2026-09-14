@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 04:20 JST／対象: 09/14 22:20 〜 09/15 04:20 JST（時刻はすべて日本時間）
+生成: 2026-09-15 04:35 JST／対象: 09/14 22:35 〜 09/15 04:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/14 23:00 | 09/15 04:06 | ⚠ 110分（00:34→02:25） |
-| FirstSquawk | 96 | 09/14 22:21 | 09/15 04:16 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 107 | 09/14 22:31 | 09/15 04:17 | 23分（02:54→03:17） |
+| DeItaone | 22 | 09/14 23:00 | 09/15 04:32 | ⚠ 110分（00:34→02:25） |
+| FirstSquawk | 92 | 09/14 22:38 | 09/15 04:22 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 106 | 09/14 22:39 | 09/15 04:26 | 23分（02:54→03:17） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 210 行（統合前 228 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 206 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 22:21 [FirstSquawk] LULA SEEN WITH 36%, FLAVIO BOLSONARO 31%, CURY 7% IN FIRST ROUND OF BRAZIL'S PRESIDENTIAL ELECTION - QUAEST POLL
-- 09/14 22:30 [FirstSquawk] 12 EU MEMBER COUNTRIES: CALL FOR EU TO TAKE ON A MORE ‘STRATEGIC AND PROACTIVE ROLE’ IN THE EUROPEAN ARCTIC - JOINT STATEMENT
-- 09/14 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 35.3 MLN NASDAQ 100: -32.6 MLN DOW 30: 38.0 MLN MAG 7: -9.6 MLN $MACRO
-- 09/14 22:31 [FirstSquawk] NVIDIA OPENS 3.7% LOWER AMID CALLS FOR SLOWER AI DEVELOPMENT
-- 09/14 22:32 [FirstSquawk] EUROPE HESITATES AS RUSSIAN ATTACKS ESCALATE – POLITICO
-- 09/14 22:35 [financialjuice] Musk’s X and xAI resolve antitrust lawsuit against Apple - court filing. $SPCX $AAPL
-- 09/14 22:35 [FirstSquawk] MICROSOFT DRAWS A LINE ON AI POWER: “PEOPLE MATTER MORE THAN AI”
 - 09/14 22:38 [FirstSquawk] UK GOVT CONSIDERING TAKEOVER OF SPECIALITY STEEL UK: FT
 - 09/14 22:39 [FirstSquawk] JOHNSON & JOHNSON SHARES RISE ON APOLLO GLOBAL TAKEOVER TALKS - INVESTING
 - 09/14 22:39 [FirstSquawk] RUSSIA BANS SULFURIC ACID EXPORTS UNTIL YEAR-END: KOMMERSANT
@@ -234,3 +227,6 @@
 - 09/15 04:15 [financialjuice] Trump met with OpenAI’s Altman at the GOP Convention - MS Now.
 - 09/15 04:16 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN: IRAN HAS NO INTENTION OF GOING TO WAR WITH SAUDI ARABIA; REGIONAL COOPERATION CAN ENSURE SECURITY AND DRIVE ECONOMIC GROWTH.
 - 09/15 04:17 [financialjuice] Trump privately met with OpenAI’s Sam Altman at GOP convention
+- 09/15 04:22 [FirstSquawk] TRUMP PRIVATELY MET OPENAI'S SAM ALTMAN AT GOP CONVENTION AFTER ALTMAN REQUESTED THE MEETING.
+- 09/15 04:26 [financialjuice] Tuesday FX Option Expiries
+- 09/15 04:32 [DeItaone] TRUMP, ALTMAN SPLIT OVER AI SAFETY President Trump privately met OpenAI CEO Sam Altman last week to discuss AI and its growing power, according to MS NOW. Days later, their positions diverged sharply. Altman backed slowing frontier AI devel…
