@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 16:39 JST／対象: 09/14 10:39 〜 09/14 16:39 JST（時刻はすべて日本時間）
+生成: 2026-09-14 16:54 JST／対象: 09/14 10:54 〜 09/14 16:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/14 16:28 | 09/14 16:28 | - |
-| FirstSquawk | 85 | 09/14 10:40 | 09/14 15:50 | 11分（15:10→15:21） |
-| financialjuice | 32 | 09/14 10:40 | 09/14 16:38 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 88 | 09/14 10:55 | 09/14 16:53 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 32 | 09/14 11:31 | 09/14 16:53 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 118 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 121 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 10:40 [FirstSquawk] European leaders have gathered in Rovaniemi, Finland, for a two-day summit focused on the Arctic region’s economic opportunities and security, Finnish broadcaster YLE reports.
-- 09/14 10:40 [financialjuice] S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.050% yield
-- 09/14 10:43 [FirstSquawk] South Korea’s central bank sells 91-day Monetary Stabilisation Bonds at a 3.050% yield, according to the Bank of Korea.
-- 09/14 10:46 [FirstSquawk] Beijing’s trust concerns over Hong Kong are emerging as a key challenge for the city’s next five-year plan, raising questions over what commitments Hong Kong can credibly make to strengthen ties with the central government.
-- 09/14 10:48 [FirstSquawk] China’s intelligence chief warns that AI could pose growing security risks if controlled by hostile forces, highlighting the technology’s emerging role in strategic competition.
-- 09/14 10:53 [FirstSquawk] Iraq and the UAE discuss regional security and developments in Yemen, while also exploring stronger Iraqi-Gulf cooperation and efforts to preserve stability across the region.
 - 09/14 10:55 [FirstSquawk] Brent crude surges at the open after Saudi Arabia shuts a major pipeline following an attack, intensifying concerns over global oil supply.
 - 09/14 10:58 [FirstSquawk] India’s rapid data center expansion is emerging as a new growth driver for renewable energy, as rising power demand accelerates investment in cleaner electricity.
 - 09/14 11:02 [FirstSquawk] North Korea says its recent missile launches were conducted as live-fire drills, framing the tests as part of a military training exercise.
@@ -142,3 +136,12 @@
 - 09/14 16:28 [DeItaone] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
 - 09/14 16:29 [financialjuice] Iran's foreign ministry spokesperson: Saudi Arabia insisted for meeting between Tehran and Gulf powers in Oman not to take place
 - 09/14 16:38 [financialjuice] Iran's Foreign Ministry Spokesperson: Reports about nuclear activity in Iran's Pickaxe mountain (kolang kouh) are baseless.
+- 09/14 16:41 [FirstSquawk] IRAN’S FOREIGN MINISTRY SPOX: SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
+- 09/14 16:41 [FirstSquawk] ICBC, HSBC Among Major Lenders On Bytedance's $30 Billion Loan
+- 09/14 16:41 [FirstSquawk] Novo Nordisk - 'Novo' To Be Used As Company Name; Novo Nordisk A/S Remains Legal Name
+- 09/14 16:41 [FirstSquawk] GERMAN NEW PASSENGER CAR REGISTRATIONS DOWN 4.6%
+- 09/14 16:49 [FirstSquawk] NEW SHIPPING PATHS IN THE ARCTIC, UNTAPPED MINERAL RESOURCES, AND SECURITY RISKS WILL BE DISCUSSED AT A SUMMIT IN FINLAND.
+- 09/14 16:50 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON CLAIMED ON MONDAY THAT ISRAEL IS THE SOLE BENEFICIARY OF STRIFE BETWEEN IRAN AND PERSIAN GULF NATIONS.
+- 09/14 16:53 [FirstSquawk] ECB'S SIMKUS: DECEMBER IS NATURAL TIME TO ASSESS SITAUTION MORE
+- 09/14 16:53 [FirstSquawk] SIMKUS: ECB MUST ALSO LOOK AT ENERGY PRICES BEFORE OCT. MEETING
+- 09/14 16:53 [financialjuice] ECB's Simkus: December is natural time to assess situation more.

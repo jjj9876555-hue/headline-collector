@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-14 16:39 JST／対象: 09/14 04:39 〜 09/14 16:39 JST（時刻はすべて日本時間）
+生成: 2026-09-14 16:54 JST／対象: 09/14 04:54 〜 09/14 16:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/14 04:44 | 09/14 16:28 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 162 | 09/14 04:42 | 09/14 15:50 | 37分（07:53→08:31） |
-| financialjuice | 73 | 09/14 04:42 | 09/14 16:38 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 2 | 09/14 08:03 | 09/14 16:28 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 167 | 09/14 05:07 | 09/14 16:53 | ⚠ 50分（15:50→16:41） |
+| financialjuice | 69 | 09/14 05:39 | 09/14 16:53 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 237 行（統合前 238 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,15 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 04:42 [financialjuice] Postponement of meeting between Gulf countries and Iran a joint decision by Tehran and Muscat: Iran's Fars
-- 09/14 04:42 [FirstSquawk] TRUMP SAYS A '$5,000 DIVIDEND IS GOING TO HAPPEN 100%', ARGUING THE REASON IS 'BECAUSE OUR COUNTRY IS TAKING IN TRILLIONS AND TRILLIONS OF DOLLARS', ADDING THAT 'PEOPLE DESERVE IT' AND THAT 'DEMOCRATS AND BIDEN TREATED THEM SO BADLY'
-- 09/14 04:44 [financialjuice] Postponement of meeting came at request of certain regional countries: Iran's Fars
-- 09/14 04:44 [DeItaone] POSTPONEMENT OF MEETING BETWEEN GULF COUNTRIES AND IRAN WAS A JOINT DECISION BY TEHRAN AND MUSCAT - IRANIAN MEDIA
-- 09/14 04:46 [financialjuice] Sweden's centre-left opposition bloc projected to secure 174 seats in parliament, broadcaster SVT shows
-- 09/14 04:46 [financialjuice] Sweden’s right-wing governing bloc poised to secure 175 seats in parliament, broadcaster SVT projection shows
-- 09/14 04:46 [financialjuice] Sweden's Liberals party forecast to surpass parliament's 4% threshold, broadcaster SVT projection shows
-- 09/14 04:47 [FirstSquawk] IRAN'S FARS NEWS SAYS THE POSTPONEMENT OF A MEETING BETWEEN GULF COUNTRIES AND IRAN WAS A JOINT DECISION BY TEHRAN AND MUSCAT, ADDING THAT IT CAME AT THE REQUEST OF CERTAIN REGIONAL COUNTRIES
-- 09/14 04:48 [FirstSquawk] SWEDEN'S RIGHT-WING GOVERNING BLOC IS POISED TO SECURE 175 SEATS IN PARLIAMENT, A BROADCASTER SVT PROJECTION SHOWS, WITH THE CENTRE-LEFT OPPOSITION BLOC PROJECTED TO SECURE 174 SEATS AND THE LIBERALS PARTY FORECAST TO SURPASS PARLIAMENT'S 4…
 - 09/14 05:07 [FirstSquawk] FED CHAIR KEVIN WARSH FACES A COLLISION COURSE WITH TRUMP AS HOTTER-THAN-EXPECTED AUGUST INFLATION PUSHES MARKETS TO PRICE ABOVE 85% ODDS OF A SEPTEMBER RATE HIKE.
 - 09/14 05:08 [FirstSquawk] TRUMP CONTINUES TO DEMAND LOWER BORROWING COSTS, SAYING THE U.S. SHOULD HAVE THE LOWEST INTEREST RATES IN THE WORLD, LEAVING WARSH TO BALANCE FED INDEPENDENCE AGAINST INTENSE WHITE HOUSE PRESSURE.
 - 09/14 05:23 [FirstSquawk] RUSSIAN DRONE STRIKES A TRAIN NEAR YAHODYN, CLOSE TO THE UKRAINE-POLAND BORDER, MINUTES AFTER A DIPLOMATIC TRAIN CARRYING BORIS JOHNSON, CARL BILDT AND EUROPEAN SECURITY ADVISERS DEPARTED AHEAD OF SCHEDULE, WITH UKRAINE SAYING IT WAS LIKELY…
@@ -261,3 +252,12 @@
 - 09/14 16:28 [DeItaone] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
 - 09/14 16:29 [financialjuice] Iran's foreign ministry spokesperson: Saudi Arabia insisted for meeting between Tehran and Gulf powers in Oman not to take place
 - 09/14 16:38 [financialjuice] Iran's Foreign Ministry Spokesperson: Reports about nuclear activity in Iran's Pickaxe mountain (kolang kouh) are baseless.
+- 09/14 16:41 [FirstSquawk] IRAN’S FOREIGN MINISTRY SPOX: SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
+- 09/14 16:41 [FirstSquawk] ICBC, HSBC Among Major Lenders On Bytedance's $30 Billion Loan
+- 09/14 16:41 [FirstSquawk] Novo Nordisk - 'Novo' To Be Used As Company Name; Novo Nordisk A/S Remains Legal Name
+- 09/14 16:41 [FirstSquawk] GERMAN NEW PASSENGER CAR REGISTRATIONS DOWN 4.6%
+- 09/14 16:49 [FirstSquawk] NEW SHIPPING PATHS IN THE ARCTIC, UNTAPPED MINERAL RESOURCES, AND SECURITY RISKS WILL BE DISCUSSED AT A SUMMIT IN FINLAND.
+- 09/14 16:50 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON CLAIMED ON MONDAY THAT ISRAEL IS THE SOLE BENEFICIARY OF STRIFE BETWEEN IRAN AND PERSIAN GULF NATIONS.
+- 09/14 16:53 [FirstSquawk] ECB'S SIMKUS: DECEMBER IS NATURAL TIME TO ASSESS SITAUTION MORE
+- 09/14 16:53 [FirstSquawk] SIMKUS: ECB MUST ALSO LOOK AT ENERGY PRICES BEFORE OCT. MEETING
+- 09/14 16:53 [financialjuice] ECB's Simkus: December is natural time to assess situation more.

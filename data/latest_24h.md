@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 16:39 JST／対象: 09/13 16:39 〜 09/14 16:39 JST（時刻はすべて日本時間）
+生成: 2026-09-14 16:54 JST／対象: 09/13 16:54 〜 09/14 16:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 26 | 09/13 18:12 | 09/14 16:28 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 276 | 09/13 16:54 | 09/14 15:50 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 116 | 09/13 16:41 | 09/14 16:38 | ⚠ 147分（00:18→02:46） |
+| FirstSquawk | 284 | 09/13 16:54 | 09/14 16:53 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 115 | 09/13 16:55 | 09/14 16:53 | ⚠ 147分（00:18→02:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 412 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 419 行（統合前 425 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/13 16:41 [financialjuice] UKMTO: local officials evacuating crew of ship assaulted in Strait of Hormuz
-- 09/13 16:43 [financialjuice] Ukraine's military: oil refinery struck in Russia's Krasnodar region
 - 09/13 16:54 [FirstSquawk] A fire broke out aboard a vessel struck by an unknown projectile while transiting the Strait of Hormuz, UK Maritime Trade Operations said in an update on Sunday.
 - 09/13 16:54 [FirstSquawk] EU’s cybersecurity teams have used some of the most powerful AI models coming out of Silicon Valley to spot weaknesses in the bloc’s own digital systems.
 - 09/13 16:55 [financialjuice] Guangdong Goworld denies market rumor about high-frequency boards passing Nvidia certification after unusual share price moves
@@ -436,3 +434,12 @@
 - 09/14 16:28 [DeItaone] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
 - 09/14 16:29 [financialjuice] Iran's foreign ministry spokesperson: Saudi Arabia insisted for meeting between Tehran and Gulf powers in Oman not to take place
 - 09/14 16:38 [financialjuice] Iran's Foreign Ministry Spokesperson: Reports about nuclear activity in Iran's Pickaxe mountain (kolang kouh) are baseless.
+- 09/14 16:41 [FirstSquawk] IRAN’S FOREIGN MINISTRY SPOX: SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
+- 09/14 16:41 [FirstSquawk] ICBC, HSBC Among Major Lenders On Bytedance's $30 Billion Loan
+- 09/14 16:41 [FirstSquawk] Novo Nordisk - 'Novo' To Be Used As Company Name; Novo Nordisk A/S Remains Legal Name
+- 09/14 16:41 [FirstSquawk] GERMAN NEW PASSENGER CAR REGISTRATIONS DOWN 4.6%
+- 09/14 16:49 [FirstSquawk] NEW SHIPPING PATHS IN THE ARCTIC, UNTAPPED MINERAL RESOURCES, AND SECURITY RISKS WILL BE DISCUSSED AT A SUMMIT IN FINLAND.
+- 09/14 16:50 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON CLAIMED ON MONDAY THAT ISRAEL IS THE SOLE BENEFICIARY OF STRIFE BETWEEN IRAN AND PERSIAN GULF NATIONS.
+- 09/14 16:53 [FirstSquawk] ECB'S SIMKUS: DECEMBER IS NATURAL TIME TO ASSESS SITAUTION MORE
+- 09/14 16:53 [FirstSquawk] SIMKUS: ECB MUST ALSO LOOK AT ENERGY PRICES BEFORE OCT. MEETING
+- 09/14 16:53 [financialjuice] ECB's Simkus: December is natural time to assess situation more.
