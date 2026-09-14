@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 02:33 JST／対象: 09/14 02:33 〜 09/15 02:33 JST（時刻はすべて日本時間）
+生成: 2026-09-15 02:52 JST／対象: 09/14 02:52 〜 09/15 02:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 09/14 02:47 | 09/15 02:25 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 332 | 09/14 03:29 | 09/15 02:31 | ⚠ 54分（01:33→02:27） |
-| financialjuice | 230 | 09/14 02:46 | 09/15 02:29 | ⚠ 75分（12:52→14:07） |
+| DeItaone | 51 | 09/14 04:05 | 09/15 02:47 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 338 | 09/14 03:29 | 09/15 02:40 | ⚠ 54分（01:33→02:27） |
+| financialjuice | 234 | 09/14 03:01 | 09/15 02:47 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 591 行（統合前 616 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 602 行（統合前 627 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 02:46 [financialjuice] Trump: lifting tariffs on Irish whiskey
-- 09/14 02:47 [DeItaone] TRUMP SAYS HE IS LIFTING TARFFS ON IRISH WHISKEY
 - 09/14 03:01 [financialjuice] Sweden's Social Democrats forecasted to secure 28.4% of votes in election vs 30.3% in 2022 - public broadcaster SVT exit poll
 - 09/14 03:02 [financialjuice] Sweden Democrats forecast to gather 17.2% of votes in election vs 20.5% in 2022 public broadcaster SVT exit poll
 - 09/14 03:04 [financialjuice] Sweden's centre-left opposition bloc to secure 51.3% of votes in election: TV4 election day poll
@@ -615,3 +613,16 @@
 - 09/15 02:29 [financialjuice/FirstSquawk] US House Speaker Johnson: Meeting with AI execs end of this week or early next.
 - 09/15 02:31 [FirstSquawk] APPLE HAS LAUNCHED SIRI AI WITH PERSONAL CONTEXT AWARENESS, THOUGH IT SAYS SIRI AI AND APPLE INTELLIGENCE ARE NOT ACCESSIBLE IN CHINA DUE TO REGULATORY DEMANDS.
 - 09/15 02:31 [FirstSquawk] APPLE SAYS NEW CHILD PROTECTION TOOLS ARE NOW AVAILABLE IN IOS 27, IPADOS 27 AND MACOS 27.
+- 09/15 02:34 [DeItaone] DEEPSEEK HIRES FIRST CFO AHEAD OF POSSIBLE IPO DeepSeek plans to hire GL Ventures partner Yan Wentao as its first CFO, Reuters reports, as the Chinese AI startup prepares for a potential IPO. The company has also tapped CITIC Securities for…
+- 09/15 02:35 [financialjuice] Trump: I want Google to change thinking on AI building in Finland - Truth Social $GOOGL
+- 09/15 02:35 [financialjuice] Trump: AI taking over world and destroying humanity is a hoax.
+- 09/15 02:36 [financialjuice] BofA CEO: If rates go up a lot, that will slow down some of the financing demand. $BAC
+- 09/15 02:37 [FirstSquawk] TRUMP SAYS THE '$5,000 TRUMP DIVIDEND, TO BE GIVEN TO ALL ADULTS IN THE UNITED STATES DUE TO THE FACT THAT OUR COUNTRY IS TAKING IN TRILLIONS OF DOLLARS OF ECONOMIC DEVELOPMENT, INVESTMENT, AND PURE SUCCESS', IS BEING CRITICIZED BY 'DUMOCRA…
+- 09/15 02:37 [FirstSquawk] TRUMP CITES 'THE GREAT BIG BEAUTIFUL BILL' AND THE 'GIFT OF $1776' HE GAVE THE MILITARY LAST YEAR AS EXAMPLES OF THINGS CRITICS SAID COULD NOT BE DONE, SAYING 'WHEN I SAY SOMETHING, I MEAN IT'. - TRUTH SOCIAL
+- 09/15 02:37 [FirstSquawk] TRUMP SAYS 'THE $5,000 DIVIDEND WILL HAPPEN BECAUSE THE PEOPLE OF OUR COUNTRY DESERVE IT', ADDING 'VOTE REPUBLICAN — MAKE AMERICA GREAT AGAIN'. - TRUTH SOCIAL
+- 09/15 02:39 [FirstSquawk] TRUMP SAYS CONCERNING AI THAT NEVER 'IN THE HISTORY OF BUSINESS' HAS ANYONE SEEN 'THE LEADERS OF AN INDUSTRY CALL FOR REGULATION THAT, IF STRONGLY IMPLEMENTED, WILL DRIVE THEM INTO OBLIVION AND BANKRUPTCY', CALLING THE IDEA OF 'AI TAKING OV…
+- 09/15 02:40 [FirstSquawk] TRUMP SAYS PRESIDENT XI 'JUST ANNOUNCED THAT CHINA WILL BE DOING ABSOLUTELY NOTHING TO STAND IN THE WAY OF AI', WHILE CRITICIZING GOOGLE'S PLAN TO 'BUILD A MASSIVE PLANT IN FINLAND' BECAUSE PERMITTING IS 'TOO DIFFICULT IN THE UNITED STATES'…
+- 09/15 02:40 [FirstSquawk] TRUMP SAYS 'AI, AND DATA CENTERS, WILL BE THE GREATEST ECONOMIC DEVELOPMENT ENGINE IN HISTORY — BIGGER THAN OIL, GOLD, DIAMONDS, OR EVEN THE INTERNET', ADDING THAT IT 'WILL NOT BE STOPPED BY BRILLIANTLY RUN DESTRUCTIVE FORCES' DURING HIS TE…
+- 09/15 02:46 [financialjuice] Northrop, Air Force put together first complete Sentinel missile
+- 09/15 02:47 [financialjuice] Northrop says Entinel missile on track for 2027 flight test
+- 09/15 02:47 [DeItaone] TRUMP SAYS AI TAKING OVER WORLD, DESTROYING HUMANITY IS A HOAX
