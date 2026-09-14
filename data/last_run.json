@@ -1,29 +1,29 @@
 {
- "run_utc": "2026-09-14T14:57:03+00:00",
+ "run_utc": "2026-09-14T15:19:49+00:00",
  "sources": {
   "tg:WalterBloomberg": {
    "ok": true,
    "fetched": 20,
    "new": 2,
-   "oldest_jst": "2026-09-14 20:51",
-   "newest_jst": "2026-09-14 23:53"
+   "oldest_jst": "2026-09-14 21:18",
+   "newest_jst": "2026-09-15 00:09"
   },
   "tg:firstsquaw": {
    "ok": true,
    "fetched": 20,
-   "new": 4,
-   "oldest_jst": "2026-09-14 23:06",
-   "newest_jst": "2026-09-14 23:54"
+   "new": 1,
+   "oldest_jst": "2026-09-14 23:11",
+   "newest_jst": "2026-09-15 00:09"
   },
   "tg:FinancialJuice": {
    "ok": true,
    "fetched": 20,
-   "new": 6,
-   "oldest_jst": "2026-09-14 23:12",
-   "newest_jst": "2026-09-14 23:54"
+   "new": 12,
+   "oldest_jst": "2026-09-14 23:26",
+   "newest_jst": "2026-09-15 00:16"
   }
  },
- "stored": 1269,
+ "stored": 1281,
  "cme": null,
  "cme_detail": "20260914/F http 403"
 }

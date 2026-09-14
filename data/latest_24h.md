@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-14 23:57 JST／対象: 09/13 23:57 〜 09/14 23:57 JST（時刻はすべて日本時間）
+生成: 2026-09-15 00:19 JST／対象: 09/14 00:19 〜 09/15 00:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 46 | 09/14 01:15 | 09/14 23:53 | ⚠ 505分（08:03→16:28） |
-| FirstSquawk | 320 | 09/14 00:06 | 09/14 23:54 | ⚠ 90分（01:59→03:29） |
-| financialjuice | 182 | 09/14 00:11 | 09/14 23:54 | ⚠ 147分（00:18→02:46） |
+| DeItaone | 48 | 09/14 01:15 | 09/15 00:09 | ⚠ 505分（08:03→16:28） |
+| FirstSquawk | 320 | 09/14 00:20 | 09/15 00:09 | ⚠ 90分（01:59→03:29） |
+| financialjuice | 191 | 09/14 02:46 | 09/15 00:16 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 532 行（統合前 551 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 543 行（統合前 562 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 00:06 [FirstSquawk] Jerusalem Governorate: 593 settlers stormed Al-Aqsa Mosque during the morning and evening incursions under the protection of the occupation forces.
-- 09/14 00:11 [financialjuice] Emergency alert issued in Saudi Arabia's Khamis Mushait and Abha: Saudi civil defence warns of potential risk
-- 09/14 00:17 [financialjuice] Danger has passed in Saudi Arabia's Khamis Mushait: Saudi civil defence
-- 09/14 00:18 [financialjuice] Danger has passed in Saudi Arabia’s Abha: Saudi Civil Defence
 - 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning alert issued in Khamis Mushait Governorate to warn of danger
 - 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning activated in Abha city to warn of danger
 - 09/14 00:20 [FirstSquawk] Saudi Civil Defense: Early warning activated in Khamis Mushait and Abha to warn of danger
@@ -556,3 +552,18 @@
 - 09/14 23:54 [FirstSquawk] EU PLANS TO RESTRICT SOCIAL MEDIA AND CHATBOTS FOR CHILDREN UNDER 15 YEARS OLD.
 - 09/14 23:54 [FirstSquawk] UK BUSINESS SECRETARY REYNOLDS SAYS THE UK CANNOT SUPPORT SPECIALTY STEEL UNDER THE CURRENT TERMS AND PLANS TO CREATE A PROPOSAL FOR PUBLIC ACQUISITION.
 - 09/14 23:54 [financialjuice] Israeli Prime Minister Netanyahu: Hezbollah will suffer heavier blows if it attacks again - Israel's Channel 12
+- 09/15 00:06 [financialjuice] ‼ BREAKING: Trump: Ukraine has agreed not to hit Russian energy targets.
+- 09/15 00:07 [financialjuice] Trump: Ukraine has agreed not to hit Russian energy targets. Russia has agreed to do likewise - Truth Social
+- 09/15 00:07 [financialjuice] Trump: World’s diesel price rise is caused by Russia-Ukraine war.
+- 09/15 00:07 [financialjuice] Trump: World’s diesel price rise not caused by Iran war.
+- 09/15 00:08 [financialjuice] Anthropic's Amodei and Openai's Altman spoke with US Senator Mark Warner over the weekend about AI risks - Senate Spokesperson.
+- 09/15 00:08 [DeItaone] TRUMP: UKRAINE HAS AGREED NOT TO HIT RUSSIAN ENERGY TARGETS, RUSSIA HAS AGREED TO DO, LIKEWISE
+- 09/15 00:08 [financialjuice] CME Group: 100-ounce Silver futures draw significant demand in first weekend of 24/7 trading.
+- 09/15 00:09 [DeItaone] ANTHROPIC'S AMODEI, OPENAI'S ALTMAN SPOKE WITH U.S. SENATOR MARK WARNER OVER THE WEEKEND ABOUT AI RISKS - SENATE SPOKESPERSON
+- 09/15 00:09 [financialjuice] Nvidia: Perplexity local agent platform now available on Windows RTX PCs. $NVDA $MSFT
+- 09/15 00:09 [FirstSquawk] TRUMP: UKRAINE HAS AGREED NOT TO HIT RUSSIAN ENERGY TARGETS. RUSSIA HAS AGREED TO DO, LIKEWISE! THE WORLD’S DIESEL PRICE RISE IS MOSTLY CAUSED BY THE RUSSIA/UKRAINE WAR, NOT IRAN. PRESIDENT DJT
+- 09/15 00:15 [financialjuice] ECB's President Lagarde: Europe must also build AI infrasctucture itself.
+- 09/15 00:16 [financialjuice] ECB's President Lagarde: Europe can’t simply import AI technologies from US.
+- 09/15 00:16 [financialjuice] Fed bids for 6-Month bills total $7.1 bln
+- 09/15 00:16 [financialjuice] Fed bids for 3-Month bills total $8.2 bln
+- 09/15 00:16 [financialjuice] ECB's President Lagarde's Speech on 'A new age of capital: growth, sovereignty and AI'

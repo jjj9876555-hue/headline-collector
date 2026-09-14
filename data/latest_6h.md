@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-14 23:57 JST／対象: 09/14 17:57 〜 09/14 23:57 JST（時刻はすべて日本時間）
+生成: 2026-09-15 00:19 JST／対象: 09/14 18:19 〜 09/15 00:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 09/14 18:03 | 09/14 23:53 | ⚠ 53分（18:30→19:24） |
-| FirstSquawk | 96 | 09/14 18:02 | 09/14 23:54 | 18分（20:12→20:31） |
-| financialjuice | 84 | 09/14 18:10 | 09/14 23:54 | 28分（20:02→20:30） |
+| DeItaone | 31 | 09/14 18:30 | 09/15 00:09 | ⚠ 53分（18:30→19:24） |
+| FirstSquawk | 90 | 09/14 18:21 | 09/15 00:09 | 18分（20:12→20:31） |
+| financialjuice | 94 | 09/14 18:22 | 09/15 00:16 | 28分（20:02→20:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 199 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 202 行（統合前 218 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 18:02 [FirstSquawk] CHINA JAN.-AUG. AGGREGATE FINANCING CNY23.91T; EST. CNY24.372T
-- 09/14 18:02 [FirstSquawk] CHINA JAN.-AUG. NEW YUAN LOANS CNY10.44T; EST. CNY10.784T
-- 09/14 18:02 [FirstSquawk] VENEZUELA TO JOIN G20 ENERGY SUMMIT AS US AIMS FOR MORE DEALS
-- 09/14 18:03 [DeItaone] *JAN.-AUG. NEW YUAN LOANS CNY10.44T; EST. CNY10.784T *CHINA AUG. M2 MONEY SUPPLY RISES 7.5% Y/Y; EST. +7.6%
-- 09/14 18:03 [FirstSquawk] EURO REACHES ONE-MONTH LOW DUE TO INCREASE IN DOLLAR AND OIL PRICES.
-- 09/14 18:07 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS A light U.S. data calendar puts the focus on oil, geopolitics, Treasury yields and Fed positioning. 8:30 AM ET — 🇨🇦 Canada CPI 11:00 AM ET — 🇺🇸 13-Week & 26-Week Treasury Bill Auctions After Close — 🫀 K…
-- 09/14 18:10 [financialjuice] Iran's Persian Gulf Strait Authority publishes an updated list of 77 vessels "violating Iranian protocols for the Strait of Hormuz"
-- 09/14 18:11 [financialjuice] Iran's Persian Gulf Strait Authority: Vessels will face restrictions on future passage, including fines, detention, or confiscation
-- 09/14 18:11 [DeItaone] IRAN'S PERSIAN GULF STRAIT AUTHORITY PUBLISHES UPDATED LIST OF 77 VESSELS 'VIOLATING IRANIAN PROTOCOLS FOR THE STRAIT OF HORMUZ' IRAN'S PERSIAN GULF STRAIT AUTHORITY VESSELS WILL FACE RESTRICTIONS OF FUTURE PASSAGE INCLUDING FINES, DETENTIO…
-- 09/14 18:12 [FirstSquawk] IRAN'S PERSIAN GULF STRAIT AUTHORITY RELEASES AN UPDATED LIST OF 77 SHIPS "BREAKING IRANIAN RULES FOR THE STRAIT OF HORMUZ."
-- 09/14 18:12 [FirstSquawk] IRAN WILL ENFORCE NEW RESTRICTIONS ON VESSEL PASSAGE IN THE PERSIAN GULF STRAIT, WHICH MAY INCLUDE FINES, DETENTION, OR CONFISCATION.
-- 09/14 18:17 [FirstSquawk] ECB’S SCHNABEL: MACROECONOMIC, FISCAL AND FINANCIAL STABILITY IN A SHOCK-PRONE WORLD
 - 09/14 18:21 [FirstSquawk] SAUDI CROWN PRINCE MEETS CENTCOM COMMANDER
 - 09/14 18:22 [financialjuice] Saudi Crown Prince and US CENTCOM chief discuss latest regional developments
 - 09/14 18:25 [financialjuice] Iran updates list of Hormuz non-compliant vessels to 77
@@ -223,3 +211,18 @@
 - 09/14 23:54 [FirstSquawk] EU PLANS TO RESTRICT SOCIAL MEDIA AND CHATBOTS FOR CHILDREN UNDER 15 YEARS OLD.
 - 09/14 23:54 [FirstSquawk] UK BUSINESS SECRETARY REYNOLDS SAYS THE UK CANNOT SUPPORT SPECIALTY STEEL UNDER THE CURRENT TERMS AND PLANS TO CREATE A PROPOSAL FOR PUBLIC ACQUISITION.
 - 09/14 23:54 [financialjuice] Israeli Prime Minister Netanyahu: Hezbollah will suffer heavier blows if it attacks again - Israel's Channel 12
+- 09/15 00:06 [financialjuice] ‼ BREAKING: Trump: Ukraine has agreed not to hit Russian energy targets.
+- 09/15 00:07 [financialjuice] Trump: Ukraine has agreed not to hit Russian energy targets. Russia has agreed to do likewise - Truth Social
+- 09/15 00:07 [financialjuice] Trump: World’s diesel price rise is caused by Russia-Ukraine war.
+- 09/15 00:07 [financialjuice] Trump: World’s diesel price rise not caused by Iran war.
+- 09/15 00:08 [financialjuice] Anthropic's Amodei and Openai's Altman spoke with US Senator Mark Warner over the weekend about AI risks - Senate Spokesperson.
+- 09/15 00:08 [DeItaone] TRUMP: UKRAINE HAS AGREED NOT TO HIT RUSSIAN ENERGY TARGETS, RUSSIA HAS AGREED TO DO, LIKEWISE
+- 09/15 00:08 [financialjuice] CME Group: 100-ounce Silver futures draw significant demand in first weekend of 24/7 trading.
+- 09/15 00:09 [DeItaone] ANTHROPIC'S AMODEI, OPENAI'S ALTMAN SPOKE WITH U.S. SENATOR MARK WARNER OVER THE WEEKEND ABOUT AI RISKS - SENATE SPOKESPERSON
+- 09/15 00:09 [financialjuice] Nvidia: Perplexity local agent platform now available on Windows RTX PCs. $NVDA $MSFT
+- 09/15 00:09 [FirstSquawk] TRUMP: UKRAINE HAS AGREED NOT TO HIT RUSSIAN ENERGY TARGETS. RUSSIA HAS AGREED TO DO, LIKEWISE! THE WORLD’S DIESEL PRICE RISE IS MOSTLY CAUSED BY THE RUSSIA/UKRAINE WAR, NOT IRAN. PRESIDENT DJT
+- 09/15 00:15 [financialjuice] ECB's President Lagarde: Europe must also build AI infrasctucture itself.
+- 09/15 00:16 [financialjuice] ECB's President Lagarde: Europe can’t simply import AI technologies from US.
+- 09/15 00:16 [financialjuice] Fed bids for 6-Month bills total $7.1 bln
+- 09/15 00:16 [financialjuice] Fed bids for 3-Month bills total $8.2 bln
+- 09/15 00:16 [financialjuice] ECB's President Lagarde's Speech on 'A new age of capital: growth, sovereignty and AI'
