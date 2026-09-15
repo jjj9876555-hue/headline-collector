@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 09:27 JST／対象: 09/14 21:27 〜 09/15 09:27 JST（時刻はすべて日本時間）
+生成: 2026-09-15 09:49 JST／対象: 09/14 21:49 〜 09/15 09:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 33 | 09/14 21:31 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 147 | 09/14 21:32 | 09/15 09:25 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 163 | 09/14 21:30 | 09/15 09:27 | 34分（07:55→08:29） |
+| DeItaone | 30 | 09/14 22:05 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
+| FirstSquawk | 150 | 09/14 21:55 | 09/15 09:48 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 150 | 09/14 22:00 | 09/15 09:27 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 321 行（統合前 347 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 309 行（統合前 334 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 21:30 [financialjuice] CANADIAN MANUFACTURING SALES MOM ACTUAL -0.4% (FORECAST -0.2%, PREVIOUS 0.1%) $MACRO
-- 09/14 21:30 [financialjuice] CANADIAN CPI MEDIAN ACTUAL 2% (FORECAST 2%, PREVIOUS 2.0%) $MACRO
-- 09/14 21:30 [financialjuice] CANADIAN CPI TRIM ACTUAL 1.9% (FORECAST 1.9%, PREVIOUS 1.9%) $MACRO
-- 09/14 21:31 [financialjuice] ❗ CANADIAN CPI MOM ACTUAL -0.1% (FORECAST -0.1%, PREVIOUS 0.5%) $MACRO
-- 09/14 21:31 [financialjuice] ‼ BREAKING: CANADIAN CPI YOY ACTUAL 3% (FORECAST 3%, PREVIOUS 3.0%) $MACRO
-- 09/14 21:31 [DeItaone] *CANADA INFLATION HOLDS AT 3.0% Y/Y IN AUGUST, MATCHES EST.
-- 09/14 21:31 [financialjuice] BOC CORE CPI YOY ACTUAL 2.4% (FORECAST -, PREVIOUS 2.3%) $MACRO
-- 09/14 21:31 [financialjuice] BOC CORE CPI MOM ACTUAL 0.1% (FORECAST -, PREVIOUS 0.2%) $MACRO
-- 09/14 21:31 [financialjuice] CANADIAN CPI COMMON ACTUAL 2.6% (FORECAST -, PREVIOUS 2.7%) $MACRO
-- 09/14 21:31 [financialjuice] CANADIAN CORE CPI MOM ACTUAL 0.2% (FORECAST -, PREVIOUS 0.2%) $MACRO
-- 09/14 21:31 [financialjuice] Canadian CPI August Report
-- 09/14 21:32 [FirstSquawk] Canada CPI (M/M) Aug: -0.1% (est -0.1%; prev 0.5%) - CPI (Y/Y): 3.0% (est 3.0%; prev 3.0%) - CPI Ex Food And Energy (Y/Y): 2.1% (est 2.1%; prev 1.9%) - CPI Core Median (Y/Y): 2.0% (est 2.0%; prev 2.0%) - CPI Core Trim (Y/Y): 1.9% (est 1.9%;…
-- 09/14 21:32 [FirstSquawk] CANADA MANUFACTURING SALES (M/M) JUL: -0.4% (EST -0.2%; PREV 0.1%; PREV R 0.3%)
-- 09/14 21:36 [financialjuice] StatCan: Inflation data was delayed due to website issues.
-- 09/14 21:37 [financialjuice] ❗ A Crucial Saudi Oil Pipeline Hit In Strikes Will Be Mostly Out Of Service For Several Weeks For Repairs – AP Cites Officials
-- 09/14 21:39 [FirstSquawk] A KEY SAUDI OIL PIPELINE WAS DAMAGED IN STRIKES AND WILL REMAIN OUT OF SERVICE FOR SEVERAL WEEKS FOR REPAIRS, ACCORDING TO OFFICIALS.
-- 09/14 21:41 [DeItaone] SAUDI OIL PIPELINE COULD BE DOWN FOR WEEKS Saudi Arabia’s East-West oil pipeline could remain largely offline for 3–5 weeks following last week’s drone attack, AP reports. The pipeline can carry up to 7 million barrels per day to the Red Se…
-- 09/14 21:42 [DeItaone/FirstSquawk] U.S. CRUDE FUTURES EXTENDED GAINS TO HIT A SESSION HIGH OF $104.95/BBL, HIGHEST LEVEL SINCE MID MAY
-- 09/14 21:47 [financialjuice] Saudi oil pipeline hit in strikes will be mostly out of service for several weeks for repair
 - 09/14 21:55 [FirstSquawk] POLISH CABINET TO DISCUSS FUEL FIRMS WINDFALL TAX ON TUESDAY
 - 09/14 22:00 [financialjuice] Effective Fed Funds Rate 3.63% September 11 vs 3.63% September 10
 - 09/14 22:00 [FirstSquawk] NVIDIA EXPANDS OPEN SOURCE CUDA-Q PLATFORM WITH CUDA-Q LOGICAL
@@ -345,3 +326,10 @@
 - 09/15 09:23 [FirstSquawk] Japan’s long-dated bond yields edge higher as rising energy costs fuel fresh inflation concerns , citing WSJ
 - 09/15 09:25 [FirstSquawk] China pushes back against calls to curb the development of advanced AI, signaling continued momentum behind its technology ambitions.
 - 09/15 09:27 [financialjuice] China PBOC seen setting yuan midpoint at 6.7051 per dollar: estimate
+- 09/15 09:29 [FirstSquawk] ASIAN STOCKS SLIPPED AFTER A SHARP SELLOFF IN US SEMICONDUCTOR SHARES RAISED CONCERNS THAT AI DEVELOPMENT AND SPENDING COULD SLOW. THE MSCI ASIA PACIFIC INDEX FELL 0.1%, WHILE JAPAN AND SOUTH KOREA EDGED LOWER AFTER THE PHILADELPHIA SEMICON…
+- 09/15 09:29 [FirstSquawk] OIL EXTENDED ITS RALLY, WITH BRENT RISING 0.7% AND WTI REACHING AROUND $102.12, REVIVING INFLATION CONCERNS AHEAD OF WEDNESDAY’S FEDERAL RESERVE DECISION. TRADERS ARE PRICING A 95% CHANCE OF A RATE HIKE, WHILE THE 10-YEAR TREASURY YIELD REM…
+- 09/15 09:36 [FirstSquawk] Sen. Mitch McConnell returned to the Capitol Monday, preparing to cast his first Senate vote since being hospitalized after a June fall - ABC
+- 09/15 09:36 [FirstSquawk] Japan’s Nikkei slips 0.2% as chipmakers and trading houses weigh on the index , citing WSJ
+- 09/15 09:40 [FirstSquawk] China briefs foreign embassies on DNA procedures to identify nationals missing after the deadly China-Nepal border mudslide.
+- 09/15 09:43 [FirstSquawk] Crude oil is climbing as market stabilizers start to fade. The supply buffers and inventory cushions that kept prices steady for months are weakening, leaving less room for error.
+- 09/15 09:48 [FirstSquawk] Barack Obama on AI: "We can’t stuff AI back in a box." Instead of letting tech dictate our future, he argues we must proactively guide how it's built and deployed rather than just reacting to the fallout.

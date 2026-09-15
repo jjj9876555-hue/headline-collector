@@ -7,35 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 09:27 JST／対象: 09/15 03:27 〜 09/15 09:27 JST（時刻はすべて日本時間）
+生成: 2026-09-15 09:49 JST／対象: 09/15 03:49 〜 09/15 09:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/15 03:33 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 56 | 09/15 03:32 | 09/15 09:25 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 50 | 09/15 03:31 | 09/15 09:27 | 34分（07:55→08:29） |
+| DeItaone | 5 | 09/15 04:06 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
+| FirstSquawk | 59 | 09/15 03:52 | 09/15 09:48 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 44 | 09/15 03:52 | 09/15 09:27 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 106 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $101.39 a barrel, up $1.34, 1.34%.
-- 09/15 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.9615 a gallon.
-- 09/15 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.3171 a gallon.
-- 09/15 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $2.8960/MMBtu.
-- 09/15 03:32 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $101.39/BBL, UP $1.34, 1.34%
-- 09/15 03:33 [DeItaone] OPENAI BUYS STARTUP DEVELOPING SMARTPHONE CAMERA CALLED GLASS IMAGING, VALUED ABOVE $300 MILLION IN DEAL - WSJ
-- 09/15 03:36 [FirstSquawk] OPENAI ACQUIRES SMARTPHONE CAMERA STARTUP GLASS IMAGING IN A DEAL VALUED AT OVER $300 MILLION: WSJ
-- 09/15 03:45 [financialjuice/FirstSquawk] Brent Crude futures settle at $105.68/bbl, up $1.07, 1.02%.
-- 09/15 03:47 [FirstSquawk] BRENT CRUDE RISES 1.26% TO $105.93 A BARREL AND WTI GAINS 1.47% TO $101.52 AFTER SAUDI ARABIA SHUT ITS EAST-WEST PIPELINE FOLLOWING ATTACKS, RAISING GLOBAL SUPPLY CONCERNS.
-- 09/15 03:47 [FirstSquawk] OIL GAINS EASE AS TRADERS WEIGH POSSIBLE DIPLOMATIC PROGRESS WITH IRAN, WHILE THE PIPELINE’S OUTAGE DURATION AND DISRUPTIONS AROUND THE STRAIT OF HORMUZ REMAIN UNCERTAIN.
-- 09/15 03:48 [financialjuice] Saudis: A warning has been issued in the Najran province.
 - 09/15 03:52 [financialjuice] Saudi Civil Defense: The danger has passed in Najran.
+- 09/15 03:52 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $105.68/BBL, UP $1.07, 1.02%
 - 09/15 03:54 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS THE DANGER HAS PASSED IN NAJRAN AFTER A WARNING WAS ISSUED IN THE PROVINCE.
 - 09/15 03:56 [FirstSquawk] IRGC SAYS STRAIT OF HORMUZ REMAINS CLOSED AND IS UNDER SMART NAVAL CONTROL: TASNIM VIA DBNEWS
 - 09/15 03:57 [financialjuice] IRGC Navy Command: The Strait of Hormuz is closed and remains under the intelligent control of the IRGC Navy - IRNA.
@@ -130,3 +120,10 @@
 - 09/15 09:23 [FirstSquawk] Japan’s long-dated bond yields edge higher as rising energy costs fuel fresh inflation concerns , citing WSJ
 - 09/15 09:25 [FirstSquawk] China pushes back against calls to curb the development of advanced AI, signaling continued momentum behind its technology ambitions.
 - 09/15 09:27 [financialjuice] China PBOC seen setting yuan midpoint at 6.7051 per dollar: estimate
+- 09/15 09:29 [FirstSquawk] ASIAN STOCKS SLIPPED AFTER A SHARP SELLOFF IN US SEMICONDUCTOR SHARES RAISED CONCERNS THAT AI DEVELOPMENT AND SPENDING COULD SLOW. THE MSCI ASIA PACIFIC INDEX FELL 0.1%, WHILE JAPAN AND SOUTH KOREA EDGED LOWER AFTER THE PHILADELPHIA SEMICON…
+- 09/15 09:29 [FirstSquawk] OIL EXTENDED ITS RALLY, WITH BRENT RISING 0.7% AND WTI REACHING AROUND $102.12, REVIVING INFLATION CONCERNS AHEAD OF WEDNESDAY’S FEDERAL RESERVE DECISION. TRADERS ARE PRICING A 95% CHANCE OF A RATE HIKE, WHILE THE 10-YEAR TREASURY YIELD REM…
+- 09/15 09:36 [FirstSquawk] Sen. Mitch McConnell returned to the Capitol Monday, preparing to cast his first Senate vote since being hospitalized after a June fall - ABC
+- 09/15 09:36 [FirstSquawk] Japan’s Nikkei slips 0.2% as chipmakers and trading houses weigh on the index , citing WSJ
+- 09/15 09:40 [FirstSquawk] China briefs foreign embassies on DNA procedures to identify nationals missing after the deadly China-Nepal border mudslide.
+- 09/15 09:43 [FirstSquawk] Crude oil is climbing as market stabilizers start to fade. The supply buffers and inventory cushions that kept prices steady for months are weakening, leaving less room for error.
+- 09/15 09:48 [FirstSquawk] Barack Obama on AI: "We can’t stuff AI back in a box." Instead of letting tech dictate our future, he argues we must proactively guide how it's built and deployed rather than just reacting to the fallout.

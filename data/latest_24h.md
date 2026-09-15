@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 09:27 JST／対象: 09/14 09:27 〜 09/15 09:27 JST（時刻はすべて日本時間）
+生成: 2026-09-15 09:49 JST／対象: 09/14 09:49 〜 09/15 09:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 330 | 09/14 09:29 | 09/15 09:25 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 240 | 09/14 09:34 | 09/15 09:27 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 324 | 09/14 09:50 | 09/15 09:48 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 238 | 09/14 10:01 | 09/15 09:27 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 597 行（統合前 628 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 589 行（統合前 620 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 09:29 [FirstSquawk] Trump signals the U.S. could remain in Iran and take control of its oil, raising the stakes for Washington’s role in the country and adding another layer of uncertainty to global energy markets - cablefxmacro
-- 09/14 09:32 [FirstSquawk] The Kennedy Center is reportedly on the verge of bankruptcy, with the Washington Post reporting that the Washington arts institution could face closure as soon as Tuesday.
-- 09/14 09:34 [FirstSquawk] SpaceX marks a major milestone as **Falcon completes its 700th flight**, with Elon Musk congratulating the team behind the rocket program.
-- 09/14 09:34 [financialjuice] Election authority projection: Sweden's centre-left opposition bloc now seen at 176 seats vs 173 for governing coalition
-- 09/14 09:37 [FirstSquawk] SoftBank shares plunge 13% as calls to slow the pace of AI development trigger a sharp selloff, putting fresh pressure on the company’s aggressive AI investment strategy - zerohedge
-- 09/14 09:38 [FirstSquawk] GOLD SLIPS 0.2% TO AROUND $4,340 AN OUNCE AS HOTTER-THAN-EXPECTED U.S. INFLATION BOOSTS BETS TO AN 88% CHANCE OF A SEPTEMBER FED RATE HIKE. || HIGHER BORROWING COSTS AND RISING OIL PRICES WEIGH ON BULLION, WITH BRENT CRUDE SURGING TOWARD $1…
-- 09/14 09:38 [FirstSquawk] Sweden’s centre-left opposition edges ahead in the latest election projection, with 176 seats versus 173 for the governing coalition, according to the election authority.
-- 09/14 09:39 [FirstSquawk] Gold slips 0.2% to around $4,340 an ounce as hotter-than-expected U.S. inflation boosts expectations for a September Fed rate hike, with markets now pricing an 88% probability.
-- 09/14 09:40 [FirstSquawk] ANTHROPIC EXPECTS TO REPORT AN ADJUSTED OPERATING PROFIT THIS QUARTER, MARKING ITS SECOND CONSECUTIVE PROFITABLE PERIOD, WITH GROSS MARGINS ABOVE 80% BEFORE REVENUE-SHARING AND AI TRAINING COSTS.
-- 09/14 09:40 [FirstSquawk] ANTHROPIC IS PREPARING FOR AN IPO ON NASDAQ AND AIMS TO MATCH OR EXCEED SPACEX’S RECORD $86.3 BILLION OFFERING, AS ITS ANNUALIZED REVENUE PACE SURPASSES $65 BILLION.
-- 09/14 09:46 [FirstSquawk] ASIAN STOCKS AND U.S. EQUITY FUTURES RETREATED AFTER MAJOR AI COMPANIES CALLED FOR A SLOWDOWN IN THE TECHNOLOGY'S DEVELOPMENT, RATTLING A SECTOR THAT HAS POWERED THIS YEAR'S RALLY, WITH MSCI'S ASIA PACIFIC INDEX DOWN 0.5%, NASDAQ 100 FUTURE…
-- 09/14 09:46 [FirstSquawk] THE U.S. CORE CPI ROSE 0.3% IN AUGUST AND 2.4% Y/Y, WITH OVERALL PRICES UP 0.4% AND 3.4% ANNUALLY ON HIGHER ENERGY COSTS, REINFORCING BETS THE FED MAY HIKE WEDNESDAY — NOW OVER 90% PRICED IN — AS 10-YEAR YIELDS NEARED 5%, WHILE ANTHROPIC PI…
-- 09/14 09:46 [FirstSquawk] Australian dollar slips toward 0.7150 as hotter-than-expected U.S. inflation strengthens the case for a Fed rate hike, boosting the greenback and weighing on the Aussie.
-- 09/14 09:48 [FirstSquawk] Trump says he will review requests from 9/11 victims’ families to declassify records that could provide further insight into Saudi Arabia’s alleged links to the attacks, saying he will examine the matter after returning.
-- 09/14 09:48 [financialjuice] Amazon halts operations with 21 air after Miami crash: WSJ
 - 09/14 09:50 [FirstSquawk] Trump says a meeting with Delcy Rodríguez at the UN remains possible, while pointing to an energy arrangement that he says is delivering millions of barrels of oil to the U.S. each month.
 - 09/14 09:51 [FirstSquawk] NORTH KOREA SAYS A JOINT LIVE-FIRE DRILL INVOLVING MISSILES, ARTILLERY AND DRONES DEMONSTRATED THE “HUGE DESTRUCTIVE POWER” OF CONCENTRATED FIRE.
 - 09/14 09:51 [FirstSquawk] SOUTH KOREA SAYS SEVERAL MISSILES FLEW ABOUT 250 KM TOWARD NORTH KOREA’S EASTERN WATERS, INDICATING THEY ARE DESIGNED TO STRIKE TARGETS IN SOUTH KOREA.
@@ -621,3 +606,10 @@
 - 09/15 09:23 [FirstSquawk] Japan’s long-dated bond yields edge higher as rising energy costs fuel fresh inflation concerns , citing WSJ
 - 09/15 09:25 [FirstSquawk] China pushes back against calls to curb the development of advanced AI, signaling continued momentum behind its technology ambitions.
 - 09/15 09:27 [financialjuice] China PBOC seen setting yuan midpoint at 6.7051 per dollar: estimate
+- 09/15 09:29 [FirstSquawk] ASIAN STOCKS SLIPPED AFTER A SHARP SELLOFF IN US SEMICONDUCTOR SHARES RAISED CONCERNS THAT AI DEVELOPMENT AND SPENDING COULD SLOW. THE MSCI ASIA PACIFIC INDEX FELL 0.1%, WHILE JAPAN AND SOUTH KOREA EDGED LOWER AFTER THE PHILADELPHIA SEMICON…
+- 09/15 09:29 [FirstSquawk] OIL EXTENDED ITS RALLY, WITH BRENT RISING 0.7% AND WTI REACHING AROUND $102.12, REVIVING INFLATION CONCERNS AHEAD OF WEDNESDAY’S FEDERAL RESERVE DECISION. TRADERS ARE PRICING A 95% CHANCE OF A RATE HIKE, WHILE THE 10-YEAR TREASURY YIELD REM…
+- 09/15 09:36 [FirstSquawk] Sen. Mitch McConnell returned to the Capitol Monday, preparing to cast his first Senate vote since being hospitalized after a June fall - ABC
+- 09/15 09:36 [FirstSquawk] Japan’s Nikkei slips 0.2% as chipmakers and trading houses weigh on the index , citing WSJ
+- 09/15 09:40 [FirstSquawk] China briefs foreign embassies on DNA procedures to identify nationals missing after the deadly China-Nepal border mudslide.
+- 09/15 09:43 [FirstSquawk] Crude oil is climbing as market stabilizers start to fade. The supply buffers and inventory cushions that kept prices steady for months are weakening, leaving less room for error.
+- 09/15 09:48 [FirstSquawk] Barack Obama on AI: "We can’t stuff AI back in a box." Instead of letting tech dictate our future, he argues we must proactively guide how it's built and deployed rather than just reacting to the fallout.
