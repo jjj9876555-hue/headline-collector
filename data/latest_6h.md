@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 01:59 JST／対象: 09/15 19:59 〜 09/16 01:59 JST（時刻はすべて日本時間）
+生成: 2026-09-16 02:16 JST／対象: 09/15 20:16 〜 09/16 02:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 39 | 09/15 20:28 | 09/16 01:35 | ⚠ 60分（20:28→21:28） |
-| FirstSquawk | 125 | 09/15 20:02 | 09/16 01:25 | 25分（00:59→01:25） |
-| financialjuice | 98 | 09/15 21:05 | 09/16 01:24 | 21分（01:01→01:22） |
+| DeItaone | 41 | 09/15 20:28 | 09/16 02:06 | ⚠ 60分（20:28→21:28） |
+| FirstSquawk | 131 | 09/15 20:18 | 09/16 02:14 | 41分（01:25→02:06） |
+| financialjuice | 107 | 09/15 21:05 | 09/16 02:13 | 35分（01:24→02:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 257 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 272 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 20:02 [FirstSquawk] RUSSIA'S FOREIGN MINISTER LAVROV SAID THAT IF THE U.S. HAD NOT ABANDONED THE ANCHORAGE AGREEMENT AND IF EUROPE HAD NOT DISTRACTED THEM, WE WOULD HAVE BEEN AT PEACE FOR A YEAR.
-- 09/15 20:07 [FirstSquawk] CPP INVESTMENTS AND BROOKFIELD LAUNCH C$50 BILLION MAPLE FUND TO PURSUE LARGE-SCALE INVESTMENTS ACROSS CANADA
-- 09/15 20:12 [FirstSquawk] TURKISH FOREIGN MINISTER HAKAN FIDAN STATED THAT RECIPROCAL ATTACKS IN THE PERSIAN GULF ARE HAMPERING EFFORTS TO RESOLVE THE US-IRAN WAR AND NEED TO CEASE IMMEDIATELY.
 - 09/15 20:18 [FirstSquawk] AZERBAIJAN GAS EXPORTS FALL 0.5% TO 16.4BCM IN JAN.-AUG.: IFX
 - 09/15 20:26 [FirstSquawk] OIL IS CLOSE TO MONTHLY PEAKS AS EXPORT PATHS IN THE GULF FACE PRESSURE.
 - 09/15 20:28 [DeItaone] OIL RALLY BUILDS AS SUPPLY RISKS MOUNT WTI climbed 1% to $102.40, holding near recent highs as Middle East supply concerns persist. Shipping through the Strait of Hormuz has declined, while Saudi pipeline disruptions and uncertainty over th…
@@ -281,3 +278,21 @@
 - 09/16 01:25 [FirstSquawk] US, ISRAELI, ARAB MILITARY CHIEFS HELD SECRET MEETING ON IRAN - AXIOS
 - 09/16 01:29 [DeItaone] SAUDI OIL PIPELINE COULD RESTART WITHIN DAYS Saudi Arabia’s critical East-West Pipeline could resume crude flows within days, according to U.S. Energy Secretary Chris Wright. The pipeline had been moving 4–5 million barrels per day, roughly…
 - 09/16 01:35 [DeItaone] IRAN CLAIMS HUNDREDS OF U.S. MILITARY SITES HIT Iran’s foreign minister rejected claims that Iran is defenseless, asserting that hundreds of U.S. military sites have been destroyed and dozens of aircraft damaged. He claimed the figures were…
+- 09/16 02:00 [financialjuice] Treasury WI 20 Yr yield 5.400% before $13 billion auction
+- 09/16 02:00 [financialjuice] US Treasury Secretary Bessent hearing at House Financial Services panel concludes.
+- 09/16 02:02 [financialjuice] US 20-YEAR BOND HIGH YIELD ACTUAL 5.42% (FORECAST -, PREVIOUS 5.204%) $MACRO
+- 09/16 02:02 [financialjuice] US 20-YEAR BOND BID-TO-COVER ACTUAL 2.570 (FORECAST -, PREVIOUS 2.530) $MACRO
+- 09/16 02:03 [financialjuice] US 20 Yr Bond Auction High Yield 5.42% (Tail of 2 BPS) Bid-to-Cover 2.57 Sells $13 bln Awards 30.14% of bids at high Primary dealers take 16.85% Direct 30.68% Indirect 52.47%
+- 09/16 02:04 [DeItaone] *US 20Y BONDS DRAW 5.420% VS 5.400% PRE-SALE WHEN-ISSUED YIELD
+- 09/16 02:06 [DeItaone] U.S. 20-YEAR TREASURY YIELD HITS 5.42% The Treasury’s $13 billion 20-year bond auction cleared at a high yield of 5.420%, highlighting elevated long-term borrowing costs. Demand remained solid, with a 2.57 bid-to-cover ratio, while indirect…
+- 09/16 02:06 [FirstSquawk] AMAZON HAS LAUNCHED A FIVE-SERVICE STREAMING BUNDLE ON PRIME VIDEO IN THE U.S. FOR $29.99/MONTH STARTING SEPT. 15, 2026, COMBINING AMC+, BRITBOX, MGM+, PBS MASTERPIECE AND STARZ - WEBSITE
+- 09/16 02:07 [financialjuice] US prepares sale of 2,000-pound bombs to Israel - WaPo
+- 09/16 02:07 [FirstSquawk] U.S. 20-YEAR BOND SALE DREW A HIGH YIELD OF 5.420%, UP FROM 5.204% PREVIOUSLY AND ABOVE THE 5.40% WHEN-ISSUED LEVEL, WITH A BID-TO-COVER RATIO OF 2.57 VERSUS 2.53. DIRECT BIDDERS TOOK 30.7% VERSUS 24.6% PREVIOUSLY, WITH INDIRECT BIDDERS AT …
+- 09/16 02:07 [financialjuice/FirstSquawk] Israel's Chief of Staff met with military commanders from Gulf countries - Israel's N12 News
+- 09/16 02:08 [FirstSquawk] U.S. IS PREPARING A SALE OF 2,000-POUND BOMBS TO ISRAEL - WAPO
+- 09/16 02:08 [financialjuice/FirstSquawk] Germany’s Chancellor Merz cancels trip to New York next week. To remain in Berlin - Govt Officials
+- 09/16 02:12 [FirstSquawk] GOOGLE SAYS INTRODUCING GEMINI 3.8 LIVE AND 3.8 LIVE EXTENDED THINKING, AS PER WEBSITE
+- 09/16 02:13 [financialjuice] IAEA Spokesperson Kamalvandi: Iran will not surrender. our nuclear program is peaceful.
+- 09/16 02:13 [FirstSquawk] OIL FUTURES EXTEND GAINS, WITH U.S. CRUDE UP BY $5 A BARREL AS SAUDI ARABIA CANCELS SOME OIL CARGOES AND SUSPENDS LOADINGS AT YANBU AFTER THE PIPELINE HIT
+- 09/16 02:14 [FirstSquawk] GOOGLE SAYS PARTNERING WITH COMPANIES LIKE SALESFORCE, GENSPARK, AND LUMERIS FOR 3.8 LIVE AND 3.8 LIVE EXTENDED THINKING
+- 09/16 02:14 [FirstSquawk] IAEA SPOKESPERSON KAMALVANDI SAYS 'IRAN WILL NOT SURRENDER' AND THAT 'OUR NUCLEAR PROGRAM IS PEACEFUL'

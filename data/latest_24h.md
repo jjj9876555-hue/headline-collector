@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 01:59 JST／対象: 09/15 01:59 〜 09/16 01:59 JST（時刻はすべて日本時間）
+生成: 2026-09-16 02:16 JST／対象: 09/15 02:16 〜 09/16 02:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 58 | 09/15 02:25 | 09/16 01:35 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 365 | 09/15 02:27 | 09/16 01:25 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 230 | 09/15 02:01 | 09/16 01:24 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 60 | 09/15 02:25 | 09/16 02:06 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 374 | 09/15 02:27 | 09/16 02:14 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 233 | 09/15 02:17 | 09/16 02:13 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 637 行（統合前 654 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 650 行（統合前 668 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 02:01 [financialjuice/FirstSquawk] US senators debating requiring al giants to commit to preventing catastrophe - Senate aide and lobbyist.
-- 09/15 02:01 [financialjuice] US Treasury Secretary Bessent posts support for final Clarity Act draft on X.
-- 09/15 02:09 [financialjuice] Bank of America CEO Brian Moynihan: Consumer credit quality is good.
-- 09/15 02:12 [financialjuice] Apple: new child protection tools now available in iOS 27, iPadOS 27, macOS 27
-- 09/15 02:13 [financialjuice] Apple launches Siri AI with personal context awareness. $AAPL
-- 09/15 02:14 [financialjuice] Apple: Siri AI, Apple intelligence not accessible in China due to regulatory demands
 - 09/15 02:17 [financialjuice/FirstSquawk] Egyptian Presidential Office announced that Crown Prince Bin Salman of Saudi Arabia will be visiting Cairo tomorrow - Tasnim News
 - 09/15 02:20 [financialjuice] BofA CEO: Sales and trading 'relatively flat' to 3Q last year. $BAC
 - 09/15 02:21 [financialjuice] Trump: $5,000 Trump Dividend, to be given to all adults in the US - Truth Social
@@ -37,6 +31,7 @@
 - 09/15 02:27 [FirstSquawk] TRUMP: WILL PROVIDE $5,000 DIVIDEND TO ALL US ADULTS - TSL VIA DBNEWS
 - 09/15 02:27 [FirstSquawk] DONALD TRUMP CLAIMS RUSSIA AND UKRAINE HAVE AGREED ENERGY TRUCE – FT
 - 09/15 02:29 [financialjuice/FirstSquawk] US House Speaker Johnson: Meeting with AI execs end of this week or early next.
+- 09/15 02:29 [FirstSquawk] US SENATORS DEBATING REQUIRING AL GIANTS TO COMMIT TO PREVENTING CATASTROPHE - SENATE AIDE AND LOBBYIST.
 - 09/15 02:31 [FirstSquawk] APPLE HAS LAUNCHED SIRI AI WITH PERSONAL CONTEXT AWARENESS, THOUGH IT SAYS SIRI AI AND APPLE INTELLIGENCE ARE NOT ACCESSIBLE IN CHINA DUE TO REGULATORY DEMANDS.
 - 09/15 02:31 [FirstSquawk] APPLE SAYS NEW CHILD PROTECTION TOOLS ARE NOW AVAILABLE IN IOS 27, IPADOS 27 AND MACOS 27.
 - 09/15 02:34 [DeItaone] DEEPSEEK HIRES FIRST CFO AHEAD OF POSSIBLE IPO DeepSeek plans to hire GL Ventures partner Yan Wentao as its first CFO, Reuters reports, as the Chinese AI startup prepares for a potential IPO. The company has also tapped CITIC Securities for…
@@ -661,3 +656,21 @@
 - 09/16 01:25 [FirstSquawk] US, ISRAELI, ARAB MILITARY CHIEFS HELD SECRET MEETING ON IRAN - AXIOS
 - 09/16 01:29 [DeItaone] SAUDI OIL PIPELINE COULD RESTART WITHIN DAYS Saudi Arabia’s critical East-West Pipeline could resume crude flows within days, according to U.S. Energy Secretary Chris Wright. The pipeline had been moving 4–5 million barrels per day, roughly…
 - 09/16 01:35 [DeItaone] IRAN CLAIMS HUNDREDS OF U.S. MILITARY SITES HIT Iran’s foreign minister rejected claims that Iran is defenseless, asserting that hundreds of U.S. military sites have been destroyed and dozens of aircraft damaged. He claimed the figures were…
+- 09/16 02:00 [financialjuice] Treasury WI 20 Yr yield 5.400% before $13 billion auction
+- 09/16 02:00 [financialjuice] US Treasury Secretary Bessent hearing at House Financial Services panel concludes.
+- 09/16 02:02 [financialjuice] US 20-YEAR BOND HIGH YIELD ACTUAL 5.42% (FORECAST -, PREVIOUS 5.204%) $MACRO
+- 09/16 02:02 [financialjuice] US 20-YEAR BOND BID-TO-COVER ACTUAL 2.570 (FORECAST -, PREVIOUS 2.530) $MACRO
+- 09/16 02:03 [financialjuice] US 20 Yr Bond Auction High Yield 5.42% (Tail of 2 BPS) Bid-to-Cover 2.57 Sells $13 bln Awards 30.14% of bids at high Primary dealers take 16.85% Direct 30.68% Indirect 52.47%
+- 09/16 02:04 [DeItaone] *US 20Y BONDS DRAW 5.420% VS 5.400% PRE-SALE WHEN-ISSUED YIELD
+- 09/16 02:06 [DeItaone] U.S. 20-YEAR TREASURY YIELD HITS 5.42% The Treasury’s $13 billion 20-year bond auction cleared at a high yield of 5.420%, highlighting elevated long-term borrowing costs. Demand remained solid, with a 2.57 bid-to-cover ratio, while indirect…
+- 09/16 02:06 [FirstSquawk] AMAZON HAS LAUNCHED A FIVE-SERVICE STREAMING BUNDLE ON PRIME VIDEO IN THE U.S. FOR $29.99/MONTH STARTING SEPT. 15, 2026, COMBINING AMC+, BRITBOX, MGM+, PBS MASTERPIECE AND STARZ - WEBSITE
+- 09/16 02:07 [financialjuice] US prepares sale of 2,000-pound bombs to Israel - WaPo
+- 09/16 02:07 [FirstSquawk] U.S. 20-YEAR BOND SALE DREW A HIGH YIELD OF 5.420%, UP FROM 5.204% PREVIOUSLY AND ABOVE THE 5.40% WHEN-ISSUED LEVEL, WITH A BID-TO-COVER RATIO OF 2.57 VERSUS 2.53. DIRECT BIDDERS TOOK 30.7% VERSUS 24.6% PREVIOUSLY, WITH INDIRECT BIDDERS AT …
+- 09/16 02:07 [financialjuice/FirstSquawk] Israel's Chief of Staff met with military commanders from Gulf countries - Israel's N12 News
+- 09/16 02:08 [FirstSquawk] U.S. IS PREPARING A SALE OF 2,000-POUND BOMBS TO ISRAEL - WAPO
+- 09/16 02:08 [financialjuice/FirstSquawk] Germany’s Chancellor Merz cancels trip to New York next week. To remain in Berlin - Govt Officials
+- 09/16 02:12 [FirstSquawk] GOOGLE SAYS INTRODUCING GEMINI 3.8 LIVE AND 3.8 LIVE EXTENDED THINKING, AS PER WEBSITE
+- 09/16 02:13 [financialjuice] IAEA Spokesperson Kamalvandi: Iran will not surrender. our nuclear program is peaceful.
+- 09/16 02:13 [FirstSquawk] OIL FUTURES EXTEND GAINS, WITH U.S. CRUDE UP BY $5 A BARREL AS SAUDI ARABIA CANCELS SOME OIL CARGOES AND SUSPENDS LOADINGS AT YANBU AFTER THE PIPELINE HIT
+- 09/16 02:14 [FirstSquawk] GOOGLE SAYS PARTNERING WITH COMPANIES LIKE SALESFORCE, GENSPARK, AND LUMERIS FOR 3.8 LIVE AND 3.8 LIVE EXTENDED THINKING
+- 09/16 02:14 [FirstSquawk] IAEA SPOKESPERSON KAMALVANDI SAYS 'IRAN WILL NOT SURRENDER' AND THAT 'OUR NUCLEAR PROGRAM IS PEACEFUL'
