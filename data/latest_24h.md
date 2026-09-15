@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 17:22 JST／対象: 09/14 17:22 〜 09/15 17:22 JST（時刻はすべて日本時間）
+生成: 2026-09-15 17:40 JST／対象: 09/14 17:40 〜 09/15 17:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 17:49 | 09/15 16:50 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 331 | 09/14 17:26 | 09/15 17:20 | ⚠ 107分（07:07→08:54） |
+| FirstSquawk | 330 | 09/14 17:52 | 09/15 17:34 | ⚠ 107分（07:07→08:54） |
 | financialjuice | 257 | 09/14 18:10 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 616 行（統合前 646 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 615 行（統合前 645 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 17:26 [FirstSquawk] EXXONMOBIL EXEC: A LOT OF LATENT DEMAND GOING TO ABSORB ADDITIONAL LNG VOLUMES AS ECONOMICS IMPROVE
-- 09/14 17:31 [FirstSquawk] SAUDI CIVIL DEFENCE ALERTS OF POTENTIAL DANGER IN KHAMIS MUSHAIT AND ABHA AREAS - STATE TV
-- 09/14 17:33 [FirstSquawk] INDONESIA APPOINTS NAZARA AS NEW FINANCE MINISTER, TAKING OVER FROM PURBAYA.
-- 09/14 17:35 [FirstSquawk] SAUDI CIVIL DEFENCE: DANGER HAS PASSED - STATE TV
 - 09/14 17:49 [DeItaone] GOLDMAN, JPMORGAN NOW EXPECT FED TO HIKE THIS WEEK Goldman Sachs and JPMorgan have shifted to expecting a 25 bp Fed hike at the September meeting after hotter August inflation and the renewed oil surge. Markets are pricing roughly an 87% pr…
 - 09/14 17:52 [FirstSquawk] BRENT CRUDE OIL FUTURES RISE MORE THAN $4 TO SESSION HIGH OF $108.65/BBL. ON ESCALATING MIDEAST ATTACKS
 - 09/14 17:52 [FirstSquawk] BRAZIL PRES ELECTION POLL: LULA HAS 47%, FLAVIO IN 2ND ROUND: BTC PACTUAL/NEXUS
@@ -640,3 +636,6 @@
 - 09/15 17:07 [FirstSquawk] USD/JPY RISES 0.5% TO 155.08, HITS FRESH ONE-WEEK HIGH
 - 09/15 17:12 [FirstSquawk] EUROPEAN STOCK MARKETS NEED TO GATHER AN ADDITIONAL $5 BILLION FROM INITIAL PUBLIC OFFERINGS (IPOS) BY YEAR-END TO EXCEED LAST YEAR’S TOTAL. THIS WILL BE DIFFICULT.
 - 09/15 17:20 [FirstSquawk] TAIWAN CONFIRMS DUMPING IN KOREAN, CHINA ELECTRICAL STEEL CASE
+- 09/15 17:22 [FirstSquawk] UAE'S KHAZNA, SIEMENS IN MOU TO EXPLORE AI DATA CENTRE TECH
+- 09/15 17:30 [FirstSquawk] SPREAD BETWEEN FRENCH & GERMAN 10-YR BOND YIELDS RISES TO HIGHEST SINCE 2012 AT 98.15, UP 2 BPS
+- 09/15 17:34 [FirstSquawk] ITALY GENERAL GOV DEBT (EUR) JUL: 3.206T (PREVR 3.207T)

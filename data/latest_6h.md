@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 17:22 JST／対象: 09/15 11:22 〜 09/15 17:22 JST（時刻はすべて日本時間）
+生成: 2026-09-15 17:40 JST／対象: 09/15 11:40 〜 09/15 17:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/15 16:20 | 09/15 16:50 | 29分（16:20→16:50） |
-| FirstSquawk | 96 | 09/15 11:29 | 09/15 17:20 | 15分（15:46→16:01） |
-| financialjuice | 34 | 09/15 11:25 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| FirstSquawk | 95 | 09/15 11:47 | 09/15 17:34 | 15分（15:46→16:01） |
+| financialjuice | 28 | 09/15 11:43 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 132 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 11:25 [financialjuice] China statistics bureau: China's economy demonstrates robust resilience and vitality despite challenging external environment
-- 09/15 11:25 [financialjuice] China August retail sales rise 0.4% year on year, below poll of 0.8%
-- 09/15 11:25 [financialjuice] China Aug industrial output rises 5.2% y/y, beats poll estimate of 4.8%
-- 09/15 11:29 [FirstSquawk] “Eating homework” takes on a literal meaning in China as students seek a quirky way to cope with exam stress.
-- 09/15 11:31 [financialjuice] China's finance ministry reopens 130 billion yuan of 3-year bonds on Sept. 21
-- 09/15 11:32 [financialjuice] China's finance ministry plans 20 bln yuan auction of 28-day bills on Sept. 16
-- 09/15 11:33 [FirstSquawk] China’s Finance Ministry announces a 130 billion yuan reopening of three-year bonds for September 21.
-- 09/15 11:33 [FirstSquawk] China’s Finance Ministry schedules a 20 billion yuan 28-day bill auction for September 16.
-- 09/15 11:35 [financialjuice] Hormuz traffic declines after Middle East attacks escalate, shipping data shows
-- 09/15 11:37 [FirstSquawk] Shipping activity through Hormuz declines as rising Middle East tensions disrupt regional traffic.
 - 09/15 11:43 [financialjuice] Explosion heard in Ukraine's Kyiv: source witness reports
 - 09/15 11:46 [financialjuice] Missile strike damages ozone warehouse in Russia's Taganrog, regional governor says
 - 09/15 11:47 [FirstSquawk] China’s August data points to persistent economic weakness as investment and consumption ease.
@@ -156,3 +146,6 @@
 - 09/15 17:07 [FirstSquawk] USD/JPY RISES 0.5% TO 155.08, HITS FRESH ONE-WEEK HIGH
 - 09/15 17:12 [FirstSquawk] EUROPEAN STOCK MARKETS NEED TO GATHER AN ADDITIONAL $5 BILLION FROM INITIAL PUBLIC OFFERINGS (IPOS) BY YEAR-END TO EXCEED LAST YEAR’S TOTAL. THIS WILL BE DIFFICULT.
 - 09/15 17:20 [FirstSquawk] TAIWAN CONFIRMS DUMPING IN KOREAN, CHINA ELECTRICAL STEEL CASE
+- 09/15 17:22 [FirstSquawk] UAE'S KHAZNA, SIEMENS IN MOU TO EXPLORE AI DATA CENTRE TECH
+- 09/15 17:30 [FirstSquawk] SPREAD BETWEEN FRENCH & GERMAN 10-YR BOND YIELDS RISES TO HIGHEST SINCE 2012 AT 98.15, UP 2 BPS
+- 09/15 17:34 [FirstSquawk] ITALY GENERAL GOV DEBT (EUR) JUL: 3.206T (PREVR 3.207T)
