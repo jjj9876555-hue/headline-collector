@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 12:35 JST／対象: 09/15 00:35 〜 09/15 12:35 JST（時刻はすべて日本時間）
+生成: 2026-09-15 12:53 JST／対象: 09/15 00:53 〜 09/15 12:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/15 02:25 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 138 | 09/15 00:52 | 09/15 12:34 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 131 | 09/15 00:38 | 09/15 12:09 | 34分（07:55→08:29） |
+| FirstSquawk | 138 | 09/15 00:58 | 09/15 12:51 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 127 | 09/15 01:09 | 09/15 12:09 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 268 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 264 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 00:38 [financialjuice] ❗ Trump on Iran: Will determine whether or not US will choose to engage, concept of which we are open to - Truth Social
-- 09/15 00:42 [financialjuice] While Iran has repeatedly stated that it does not seek negotiations for a deal with the terrorist US government - Tasnim News
-- 09/15 00:44 [financialjuice] US 6-Month Bill Auction High Yield 4.06% Bid-to-Cover 2.74 Sells $79 bln Awards 82.50% of bids at high US 3-Month Bill Auction High Rate 3.97% Bid-to-Cover 2.64 Sells $92 bln Awards 13.86% of bids at high
-- 09/15 00:46 [financialjuice] Stocks of Crude oil in US SPR fell by about 3.6 mln barrels to 285 mln barrels last week, lowest since 1982
-- 09/15 00:52 [FirstSquawk] ABBOTT WILL PAY MORE THAN $384 MILLION TO RESOLVE CLAIMS ABOUT CONTAMINATED INFANT FORMULA, ACCORDING TO THE DOJ.
-- 09/15 00:52 [FirstSquawk] BP WILL EXECUTE SCHEDULED OPERATIONS AT WHITING REFINERY, RUNNING AT 440,000 BARRELS PER DAY IN THE COMING DAYS.
-- 09/15 00:52 [FirstSquawk] EU EXTENDS SANCTIONS ON RUSSIAN INDIVIDUALS FOR ONE WEEK, NOW UNTIL SEPTEMBER 22.
 - 09/15 00:58 [FirstSquawk] EU NATIONS AIM TO REQUEST ADDITIONAL FREE CARBON PERMITS FOR INDUSTRY.
 - 09/15 00:58 [FirstSquawk] KLINGBEIL HAD PRODUCTIVE DISCUSSIONS WITH UNICREDIT'S ORCEL.
 - 09/15 00:59 [FirstSquawk] KLINGBEIL STATED THAT FUTURE TALKS WITH COMMERZBANK NEED TO BE CONDUCTED RESPONSIBLY.
@@ -292,3 +285,6 @@
 - 09/15 12:13 [FirstSquawk] Industrial facility damaged by drone strike in Russia’s Samara region, authorities report.
 - 09/15 12:23 [FirstSquawk] China’s factories rev up as consumer spending loses momentum, highlighting persistent economic imbalances.
 - 09/15 12:34 [FirstSquawk] BOJ set for its biggest rate hike of the cycle as pressure on policymakers intensifies., citing RTRS
+- 09/15 12:35 [FirstSquawk] Coinbase climbs on CLARITY Act developments: The bill needs 60 votes to advance, with Republicans releasing a revised draft ahead of Tuesday’s procedural vote.
+- 09/15 12:39 [FirstSquawk] Travel discount bookings open in Japan to support Kumamoto earthquake recovery.
+- 09/15 12:51 [FirstSquawk] Japan’s 20-year government bond auction draws stronger demand, with bid-cover ratio rising to 4.01 from 3.98.

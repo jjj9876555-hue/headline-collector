@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 12:35 JST／対象: 09/14 12:35 〜 09/15 12:35 JST（時刻はすべて日本時間）
+生成: 2026-09-15 12:53 JST／対象: 09/14 12:53 〜 09/15 12:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 318 | 09/14 12:38 | 09/15 12:34 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 270 | 09/14 12:37 | 09/15 12:09 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 317 | 09/14 12:56 | 09/15 12:51 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 267 | 09/14 14:07 | 09/15 12:09 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 615 行（統合前 646 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 611 行（統合前 642 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 12:37 [financialjuice] China finance ministry auctions 7-year bonds at 1.49% yield: traders
-- 09/14 12:38 [FirstSquawk] U.S. senators have released the final draft of the Crypto Clarity Act, with the legislation scheduled for a Senate vote on Tuesday.
-- 09/14 12:49 [financialjuice] Saudi civil defence warns of possible threat in Khamis Mushait and Abha areas - post on X
-- 09/14 12:49 [FirstSquawk] Asian tech stocks slump as growing concerns over AI safety weigh on investor sentiment and put pressure on technology shares.
-- 09/14 12:52 [FirstSquawk] Saudi Civil Defence warns of a possible threat in the Khamis Mushait and Abha areas, according to a post on X.
-- 09/14 12:52 [financialjuice] Saudi civil defence: danger has passed – post on X
-- 09/14 12:52 [FirstSquawk] China’s Finance Ministry auctions seven-year government bonds at a 1.49% yield, according to traders, highlighting current demand and pricing in the sovereign debt market.
 - 09/14 12:56 [FirstSquawk] Oil holds onto its opening gains in Asia, keeping energy markets elevated as traders assess the latest supply and geopolitical risks.
 - 09/14 13:05 [FirstSquawk] A Hong Kong lawmaker says Apple should bear responsibility for card fraud involving iPhones, putting fresh scrutiny on the tech giant’s role in consumer payment security.
 - 09/14 13:12 [FirstSquawk] OMANI ENERGY MINISTER: STRAIT OF HORMUZ WILL REOPEN; CURRENT DISRUPTION LIKELY TO BE SHORT-LIVED.
@@ -639,3 +632,6 @@
 - 09/15 12:13 [FirstSquawk] Industrial facility damaged by drone strike in Russia’s Samara region, authorities report.
 - 09/15 12:23 [FirstSquawk] China’s factories rev up as consumer spending loses momentum, highlighting persistent economic imbalances.
 - 09/15 12:34 [FirstSquawk] BOJ set for its biggest rate hike of the cycle as pressure on policymakers intensifies., citing RTRS
+- 09/15 12:35 [FirstSquawk] Coinbase climbs on CLARITY Act developments: The bill needs 60 votes to advance, with Republicans releasing a revised draft ahead of Tuesday’s procedural vote.
+- 09/15 12:39 [FirstSquawk] Travel discount bookings open in Japan to support Kumamoto earthquake recovery.
+- 09/15 12:51 [FirstSquawk] Japan’s 20-year government bond auction draws stronger demand, with bid-cover ratio rising to 4.01 from 3.98.
