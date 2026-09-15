@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 17:00 JST／対象: 09/14 17:00 〜 09/15 17:00 JST（時刻はすべて日本時間）
+生成: 2026-09-15 17:22 JST／対象: 09/14 17:22 〜 09/15 17:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 55 | 09/14 17:19 | 09/15 16:50 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 331 | 09/14 17:02 | 09/15 16:59 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 262 | 09/14 17:02 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| DeItaone | 54 | 09/14 17:49 | 09/15 16:50 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 331 | 09/14 17:26 | 09/15 17:20 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 257 | 09/14 18:10 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 622 行（統合前 652 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 616 行（統合前 646 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 17:02 [FirstSquawk] IRAN DENIES CLAIMS OF ACTIVITY AT PICKAXE MOUNTAIN, STATING THERE IS NO EVIDENCE.
-- 09/14 17:02 [FirstSquawk] HOUTHIS CLAIM TO HAVE ATTACKED SAUDI ARABIA'S KHAMIS MUSHAIT.
-- 09/14 17:02 [FirstSquawk] ECB'S KAZIMIR SAYS THEY WILL CONSIDER ALL OPTIONS FOR THE NEXT DECISION BUT WILL TAKE ACTION IF NECESSARY.
-- 09/14 17:02 [financialjuice] Yemen's Houthis say they attacked Saudi's Khamis Mushait air base.
-- 09/14 17:05 [FirstSquawk] MAERSK AND HAPAG-LLOYD ARE ANNOUNCING A STRUCTURAL CHANGE TO THE FOLLOWING FOUR GEMINI SERVICES; AE5, AE11, AE12 AND ME2.
-- 09/14 17:08 [financialjuice] German economy ministry: slowdown in previously robust economic momentum emerging at start of Q3
-- 09/14 17:09 [financialjuice] French President Macron to visit Spain Sept. 29-30
-- 09/14 17:10 [FirstSquawk] IRAN STATES THAT THE US IS THE MAIN BARRIER TO DIPLOMACY, NOT A LACK OF MEDIATION.
-- 09/14 17:11 [financialjuice] Iran: US lack of mediation, is main obstacle to diplomacy.
-- 09/14 17:16 [financialjuice] ECB's Kazimir: Increasingly concerned about gas and power prices.
-- 09/14 17:18 [FirstSquawk] TELEFÓNICA REACTIVATES TALKS WITH ZEGONA TO ACQUIRE VODAFONE SPAIN - VOZPOLULI
-- 09/14 17:19 [DeItaone] *IRAN: US, NOT LACK OF MEDIATION, IS MAIN OBSTACLE TO DIPLOMACY
 - 09/14 17:26 [FirstSquawk] EXXONMOBIL EXEC: A LOT OF LATENT DEMAND GOING TO ABSORB ADDITIONAL LNG VOLUMES AS ECONOMICS IMPROVE
 - 09/14 17:31 [FirstSquawk] SAUDI CIVIL DEFENCE ALERTS OF POTENTIAL DANGER IN KHAMIS MUSHAIT AND ABHA AREAS - STATE TV
 - 09/14 17:33 [FirstSquawk] INDONESIA APPOINTS NAZARA AS NEW FINANCE MINISTER, TAKING OVER FROM PURBAYA.
@@ -646,3 +634,9 @@
 - 09/15 16:55 [FirstSquawk] BITCOIN DROPS BELOW $77,000.
 - 09/15 16:59 [FirstSquawk] S&P 500 INDEX FUTURES EXTEND DECLINE TO 0.5%, SESSION LOW
 - 09/15 16:59 [FirstSquawk] JAPAN'S FINANCE MINISTER KATAYAMA SAYS HE IS NOT AWARE OF REPORTS ABOUT A RISE IN DEFENSE SPENDING.
+- 09/15 17:02 [FirstSquawk] UNITED STATES HAS PUT WEAPONS IN SPACE TO PROTECT AMERICAN FORCES, ACCORDING TO AIR FORCE SECRETARY TROY MEINK.
+- 09/15 17:02 [FirstSquawk] IRANIAN FOREIGN MINISTER TO VISIT CHINA ON SEPTEMBER 16
+- 09/15 17:04 [FirstSquawk] CHINA REQUIRES https://t.co/f8LjrZps4a , MEITUAN TO CUT COMPETITION RISKS - CCTV
+- 09/15 17:07 [FirstSquawk] USD/JPY RISES 0.5% TO 155.08, HITS FRESH ONE-WEEK HIGH
+- 09/15 17:12 [FirstSquawk] EUROPEAN STOCK MARKETS NEED TO GATHER AN ADDITIONAL $5 BILLION FROM INITIAL PUBLIC OFFERINGS (IPOS) BY YEAR-END TO EXCEED LAST YEAR’S TOTAL. THIS WILL BE DIFFICULT.
+- 09/15 17:20 [FirstSquawk] TAIWAN CONFIRMS DUMPING IN KOREAN, CHINA ELECTRICAL STEEL CASE

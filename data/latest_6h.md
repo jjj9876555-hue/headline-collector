@@ -7,47 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 17:00 JST／対象: 09/15 11:00 〜 09/15 17:00 JST（時刻はすべて日本時間）
+生成: 2026-09-15 17:22 JST／対象: 09/15 11:22 〜 09/15 17:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/15 16:20 | 09/15 16:50 | 29分（16:20→16:50） |
-| FirstSquawk | 101 | 09/15 11:01 | 09/15 16:59 | 15分（15:46→16:01） |
-| financialjuice | 47 | 09/15 11:00 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| FirstSquawk | 96 | 09/15 11:29 | 09/15 17:20 | 15分（15:46→16:01） |
+| financialjuice | 34 | 09/15 11:25 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 150 行（統合前 150 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 132 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 11:00 [financialjuice] ‼ BREAKING: CHINESE INDUSTRIAL OUTPUT YOY ACTUAL 5.2% (FORECAST 4.8%, PREVIOUS 4.5%) $MACRO
-- 09/15 11:00 [financialjuice] ❗ CHINESE URBAN INVESTMENT YTD YOY ACTUAL -7.2% (FORECAST -7.1%, PREVIOUS -6.7%) $MACRO
-- 09/15 11:00 [financialjuice] ❗ CHINESE UNEMPLOYMENT RATE ACTUAL 5.3% (FORECAST 5.2%, PREVIOUS 5.200%) $MACRO
-- 09/15 11:00 [financialjuice] ❗ CHINESE RETAIL SALES YOY ACTUAL 0.4% (FORECAST 0.8%, PREVIOUS 0.6%) $MACRO
-- 09/15 11:00 [financialjuice] China new construction starts down 24.8% year-on-year Jan-Aug
-- 09/15 11:00 [financialjuice] China august survey-based urban unemployment rate in 31 major cities at 5.3%
-- 09/15 11:01 [financialjuice] S.Korea finmin nominee: supports pre-emptive management of huge liquidity inflows from chip boom
-- 09/15 11:01 [FirstSquawk] CHINA (AUG) Retail Sales YoY ACTUAL: 0.4% VS 0.6% PREVIOUS;EST 0.8%
-- 09/15 11:01 [FirstSquawk] CHINA (AUG) Retail Sales YTD YoY ACTUAL: 1.1% VS 1.2% PREVIOUS
-- 09/15 11:01 [FirstSquawk] CHINA (AUG) Industrial Production YoY ACTUAL: 5.2% VS 4.5% PREVIOUS;EST 4.8%
-- 09/15 11:01 [FirstSquawk] CHINA (AUG) Industrial Production YTD YoY ACTUAL: 5.3% VS 5.3% PREVIOUS
-- 09/15 11:01 [FirstSquawk] CHINA (AUG) Fixed Assets Ex Rural YTD YoY ACTUAL: -7.2% VS -6.7% PREVIOUS;EST -7.1%
-- 09/15 11:01 [FirstSquawk] CHINA (AUG) Surveyed Jobless Rate ACTUAL: 5.3% VS 5.2% PREVIOUS;EST 5.2%
-- 09/15 11:01 [FirstSquawk] CHINA (AUG) Property Investment YTD YoY ACTUAL: -19.9% VS -19.2% PREVIOUS;EST -20.1%
-- 09/15 11:01 [FirstSquawk] CHINA (AUG) Residential Property Sales YTD YoY ACTUAL: -13.1% VS -13.2% PREVIOUS
-- 09/15 11:02 [financialjuice] Venezuela's acting leader Rodriguez plans UN visit; expected to hold high-level talks
-- 09/15 11:06 [financialjuice] Dollar/yen rises 0.3% to 154.790
-- 09/15 11:07 [FirstSquawk] USD/JPY advances to 154.790, up 0.3% on the day.
-- 09/15 11:08 [FirstSquawk] Delcy Rodríguez set to visit the UN as Venezuela’s acting leader, with senior-level meetings anticipated.
-- 09/15 11:11 [financialjuice] Saudi civil defence: danger has passed in Yanbu, Jeddah, Taif, Jazan, Abha and AlUla – State TV
-- 09/15 11:12 [financialjuice] China Aug industrial output rises 5.2% y/y, beating poll of 4.8%
-- 09/15 11:12 [financialjuice] China aug retail sales rise 0.4% y/y, below poll forecast of 0.8% not 2.6%
-- 09/15 11:12 [financialjuice] China Jan-Aug fixed-asset investment declines 7.2% y/y, matching poll of 7.2% decline
-- 09/15 11:14 [FirstSquawk] Japan’s rental housing market gets a boost as demand for home restoration and renovation services expands.
 - 09/15 11:25 [financialjuice] China statistics bureau: China's economy demonstrates robust resilience and vitality despite challenging external environment
 - 09/15 11:25 [financialjuice] China August retail sales rise 0.4% year on year, below poll of 0.8%
 - 09/15 11:25 [financialjuice] China Aug industrial output rises 5.2% y/y, beats poll estimate of 4.8%
@@ -174,3 +150,9 @@
 - 09/15 16:55 [FirstSquawk] BITCOIN DROPS BELOW $77,000.
 - 09/15 16:59 [FirstSquawk] S&P 500 INDEX FUTURES EXTEND DECLINE TO 0.5%, SESSION LOW
 - 09/15 16:59 [FirstSquawk] JAPAN'S FINANCE MINISTER KATAYAMA SAYS HE IS NOT AWARE OF REPORTS ABOUT A RISE IN DEFENSE SPENDING.
+- 09/15 17:02 [FirstSquawk] UNITED STATES HAS PUT WEAPONS IN SPACE TO PROTECT AMERICAN FORCES, ACCORDING TO AIR FORCE SECRETARY TROY MEINK.
+- 09/15 17:02 [FirstSquawk] IRANIAN FOREIGN MINISTER TO VISIT CHINA ON SEPTEMBER 16
+- 09/15 17:04 [FirstSquawk] CHINA REQUIRES https://t.co/f8LjrZps4a , MEITUAN TO CUT COMPETITION RISKS - CCTV
+- 09/15 17:07 [FirstSquawk] USD/JPY RISES 0.5% TO 155.08, HITS FRESH ONE-WEEK HIGH
+- 09/15 17:12 [FirstSquawk] EUROPEAN STOCK MARKETS NEED TO GATHER AN ADDITIONAL $5 BILLION FROM INITIAL PUBLIC OFFERINGS (IPOS) BY YEAR-END TO EXCEED LAST YEAR’S TOTAL. THIS WILL BE DIFFICULT.
+- 09/15 17:20 [FirstSquawk] TAIWAN CONFIRMS DUMPING IN KOREAN, CHINA ELECTRICAL STEEL CASE

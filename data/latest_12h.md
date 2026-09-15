@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 17:00 JST／対象: 09/15 05:00 〜 09/15 17:00 JST（時刻はすべて日本時間）
+生成: 2026-09-15 17:22 JST／対象: 09/15 05:22 〜 09/15 17:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/15 05:37 | 09/15 16:50 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 165 | 09/15 05:03 | 09/15 16:59 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 90 | 09/15 05:17 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| FirstSquawk | 166 | 09/15 05:33 | 09/15 17:20 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 88 | 09/15 05:51 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 256 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 256 行（統合前 259 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 05:03 [FirstSquawk] ZELENSKY: UKRAINE IS READY TO CONSIDER A MUTUAL HALT TO STRIKES ON CRITICAL INFRASTRUCTURE IF THE U.S. CAN ENSURE RUSSIA'S LONG-TERM COMMITMENT.
-- 09/15 05:03 [FirstSquawk] ZELENSKY: PEACE TALKS MUST INCLUDE ENERGY, FOOD, TRANSPORT ROUTES AND CRITICAL INFRASTRUCTURE, WITH A FAIR AND LASTING SOLUTION.
-- 09/15 05:07 [FirstSquawk] ZELENSKYY SAYS UKRAINE IS READY TO SUPPORT DE-ESCALATION FOLLOWING A U.S. PROPOSAL AND IS AWAITING SPECIFIC DETAILS FROM ITS PARTNERS. ZELENSKYY SAYS KYIV WANTS TO ENSURE RUSSIA IS GENUINELY “READY TO STOP THIS WAR” BEFORE SUPPORTING THE IN…
-- 09/15 05:13 [FirstSquawk] US STOCKS DECLINED AS CONCERNS OVER A POTENTIAL SLOWDOWN IN ADVANCED AI DEVELOPMENT TRIGGERED A SHARP SELLOFF IN SEMICONDUCTOR SHARES. THE PHILADELPHIA SEMICONDUCTOR INDEX PLUNGED 5.9%, WHILE THE NASDAQ 100 FELL 0.8% AND THE S&P 500 LOST 0.…
-- 09/15 05:17 [financialjuice] Chipmakers Slide as AI Leaders Back Slower Development – US Market Wrap
-- 09/15 05:17 [financialjuice/FirstSquawk] Two Iranian fishing boats were hit by drones in Southern Iran, several fishermen are missing - State Broadcaster IRIB.
 - 09/15 05:33 [FirstSquawk] OPENAI ACQUIRES SMARTPHONE CAMERA STARTUP GLASS IMAGING IN A DEAL VALUED AT MORE THAN $300 MILLION, ACCORDING TO THE WALL STREET JOURNAL. GLASS IMAGING USES AI, HARDWARE AND SOFTWARE TO DEVELOP DSLR-QUALITY SMARTPHONE IMAGING, WITH THE ACQU…
 - 09/15 05:37 [DeItaone] TRUMP DISMISSES AI AND DATA CENTER FEARS President Trump rejected warnings that AI could threaten humanity or data centers could harm communities, comparing those concerns to his criticism of climate-change warnings. Trump accused critics o…
 - 09/15 05:37 [DeItaone] TRUMP DISMISSES AI TAKEOVER FEARS President Trump rejected warnings that AI and robots could eventually threaten humanity, calling the concerns a “hoax.” He compared fears of AI taking control to past controversies over Russia and climate c…
@@ -280,3 +274,9 @@
 - 09/15 16:55 [FirstSquawk] BITCOIN DROPS BELOW $77,000.
 - 09/15 16:59 [FirstSquawk] S&P 500 INDEX FUTURES EXTEND DECLINE TO 0.5%, SESSION LOW
 - 09/15 16:59 [FirstSquawk] JAPAN'S FINANCE MINISTER KATAYAMA SAYS HE IS NOT AWARE OF REPORTS ABOUT A RISE IN DEFENSE SPENDING.
+- 09/15 17:02 [FirstSquawk] UNITED STATES HAS PUT WEAPONS IN SPACE TO PROTECT AMERICAN FORCES, ACCORDING TO AIR FORCE SECRETARY TROY MEINK.
+- 09/15 17:02 [FirstSquawk] IRANIAN FOREIGN MINISTER TO VISIT CHINA ON SEPTEMBER 16
+- 09/15 17:04 [FirstSquawk] CHINA REQUIRES https://t.co/f8LjrZps4a , MEITUAN TO CUT COMPETITION RISKS - CCTV
+- 09/15 17:07 [FirstSquawk] USD/JPY RISES 0.5% TO 155.08, HITS FRESH ONE-WEEK HIGH
+- 09/15 17:12 [FirstSquawk] EUROPEAN STOCK MARKETS NEED TO GATHER AN ADDITIONAL $5 BILLION FROM INITIAL PUBLIC OFFERINGS (IPOS) BY YEAR-END TO EXCEED LAST YEAR’S TOTAL. THIS WILL BE DIFFICULT.
+- 09/15 17:20 [FirstSquawk] TAIWAN CONFIRMS DUMPING IN KOREAN, CHINA ELECTRICAL STEEL CASE
