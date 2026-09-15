@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 10:22 JST／対象: 09/14 10:22 〜 09/15 10:22 JST（時刻はすべて日本時間）
+生成: 2026-09-15 10:38 JST／対象: 09/14 10:38 〜 09/15 10:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 322 | 09/14 10:23 | 09/15 10:21 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 239 | 09/14 10:22 | 09/15 10:22 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 322 | 09/14 10:40 | 09/15 10:38 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 243 | 09/14 10:40 | 09/15 10:31 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 588 行（統合前 619 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 592 行（統合前 623 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 10:22 [financialjuice] China cbank: 7-day reverse repo volume drops to zero Monday amid primary dealer demand - statement
-- 09/14 10:23 [FirstSquawk] The British pound holds above 1.3500 against the U.S. dollar, with traders looking ahead to key UK economic data and upcoming Fed and BoE decisions.
-- 09/14 10:25 [financialjuice] China’s central bank injects 504 billion yuan via overnight and one-day reverse repos: statement
-- 09/14 10:25 [FirstSquawk] China’s central bank injects 504 billion yuan into the financial system through overnight and one-day reverse repo operations, according to a statement.
-- 09/14 10:26 [financialjuice] Amazon: we’ve decided to suspend operations with 21 Air
-- 09/14 10:29 [FirstSquawk] Amazon says it has suspended operations with 21 Air, signaling a pause in its business relationship with the carrier.
-- 09/14 10:33 [FirstSquawk] WTI rebounds toward a near four-month high as Saudi Arabia’s pipeline shutdown raises fresh concerns over crude supply and adds upward pressure to oil prices.
-- 09/14 10:34 [financialjuice] Hong Kong-listed shares of drop as much as 10.5% after discounted share placement
-- 09/14 10:36 [FirstSquawk] Z. AL shares plunge as much as 10.5% in Hong Kong after the company launches a discounted share placement, putting fresh pressure on the stock.
 - 09/14 10:40 [FirstSquawk] European leaders have gathered in Rovaniemi, Finland, for a two-day summit focused on the Arctic region’s economic opportunities and security, Finnish broadcaster YLE reports.
 - 09/14 10:40 [financialjuice] S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.050% yield
 - 09/14 10:43 [FirstSquawk] South Korea’s central bank sells 91-day Monetary Stabilisation Bonds at a 3.050% yield, according to the Bank of Korea.
@@ -612,3 +603,16 @@
 - 09/15 10:19 [financialjuice] China sets yuan mid-point at strongest level since February 3, 2023
 - 09/15 10:21 [FirstSquawk] China to release its latest 70-city residential property price data in 10 minutes, with markets watching for signs of recovery.
 - 09/15 10:22 [financialjuice] China cbank: 7-day reverse repo volume at zero Tuesday amid primary dealer demand - statement
+- 09/15 10:22 [financialjuice] China cbank injects 597 bln yuan via overnight reverse repos: statement
+- 09/15 10:22 [FirstSquawk] China’s central bank sets the yuan reference rate at 6.7670, from 6.7698 in the prior fixing.
+- 09/15 10:24 [FirstSquawk] Donald Trump Jr.’s Bahamas wedding after-party was reportedly financed by a Russian businessman.
+- 09/15 10:31 [financialjuice] CHINESE NEW HOUSE PRICES YOY ACTUAL -3.0% (FORECAST -, PREVIOUS -3.2%) $MACRO
+- 09/15 10:31 [financialjuice] China Aug Guangzhou new home prices fall 1.9% y/y after July 2.2% decline: stats bureau
+- 09/15 10:31 [financialjuice] China Aug Guangzhou new home prices up 0.1% m/m (July 0.1%): stats bureau
+- 09/15 10:31 [financialjuice] China Aug Shanghai new home prices rise 0.4% m/m (July 0.2%): stats bureau
+- 09/15 10:31 [financialjuice] China August Shenzhen new home prices fall 2.3% y/y (July -2.9%) : stats bureau
+- 09/15 10:31 [FirstSquawk] CHINA (AUG) NEW HOME PRICES MOM ACTUAL: -0.17% VS -0.18% PREVIOUS
+- 09/15 10:31 [financialjuice] China Aug new home prices drop 3.0% y/y, July down 3.2% - source calculation
+- 09/15 10:31 [FirstSquawk] CHINA (AUG) USED HOME PRICES MOM ACTUAL: -0.31% VS -0.29% PREVIOUS
+- 09/15 10:31 [financialjuice] China Aug Beijing new-home prices decline 0.2% m/m (July -0.3%): stats bureau
+- 09/15 10:38 [FirstSquawk] Israeli military chief calls for legal review of “NAZA,” a documentary focused on the Gaza war.

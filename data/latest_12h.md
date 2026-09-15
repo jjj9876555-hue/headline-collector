@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 10:22 JST／対象: 09/14 22:22 〜 09/15 10:22 JST（時刻はすべて日本時間）
+生成: 2026-09-15 10:38 JST／対象: 09/14 22:38 〜 09/15 10:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/14 23:00 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 153 | 09/14 22:30 | 09/15 10:21 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 139 | 09/14 22:31 | 09/15 10:22 | 34分（07:55→08:29） |
+| FirstSquawk | 154 | 09/14 22:38 | 09/15 10:38 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 145 | 09/14 22:39 | 09/15 10:31 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 298 行（統合前 321 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 305 行（統合前 328 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 22:30 [FirstSquawk] 12 EU MEMBER COUNTRIES: CALL FOR EU TO TAKE ON A MORE ‘STRATEGIC AND PROACTIVE ROLE’ IN THE EUROPEAN ARCTIC - JOINT STATEMENT
-- 09/14 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 35.3 MLN NASDAQ 100: -32.6 MLN DOW 30: 38.0 MLN MAG 7: -9.6 MLN $MACRO
-- 09/14 22:31 [FirstSquawk] NVIDIA OPENS 3.7% LOWER AMID CALLS FOR SLOWER AI DEVELOPMENT
-- 09/14 22:32 [FirstSquawk] EUROPE HESITATES AS RUSSIAN ATTACKS ESCALATE – POLITICO
-- 09/14 22:35 [financialjuice] Musk’s X and xAI resolve antitrust lawsuit against Apple - court filing. $SPCX $AAPL
-- 09/14 22:35 [FirstSquawk] MICROSOFT DRAWS A LINE ON AI POWER: “PEOPLE MATTER MORE THAN AI”
 - 09/14 22:38 [FirstSquawk] UK GOVT CONSIDERING TAKEOVER OF SPECIALITY STEEL UK: FT
 - 09/14 22:39 [FirstSquawk] JOHNSON & JOHNSON SHARES RISE ON APOLLO GLOBAL TAKEOVER TALKS - INVESTING
 - 09/14 22:39 [FirstSquawk] RUSSIA BANS SULFURIC ACID EXPORTS UNTIL YEAR-END: KOMMERSANT
@@ -322,3 +316,16 @@
 - 09/15 10:19 [financialjuice] China sets yuan mid-point at strongest level since February 3, 2023
 - 09/15 10:21 [FirstSquawk] China to release its latest 70-city residential property price data in 10 minutes, with markets watching for signs of recovery.
 - 09/15 10:22 [financialjuice] China cbank: 7-day reverse repo volume at zero Tuesday amid primary dealer demand - statement
+- 09/15 10:22 [financialjuice] China cbank injects 597 bln yuan via overnight reverse repos: statement
+- 09/15 10:22 [FirstSquawk] China’s central bank sets the yuan reference rate at 6.7670, from 6.7698 in the prior fixing.
+- 09/15 10:24 [FirstSquawk] Donald Trump Jr.’s Bahamas wedding after-party was reportedly financed by a Russian businessman.
+- 09/15 10:31 [financialjuice] CHINESE NEW HOUSE PRICES YOY ACTUAL -3.0% (FORECAST -, PREVIOUS -3.2%) $MACRO
+- 09/15 10:31 [financialjuice] China Aug Guangzhou new home prices fall 1.9% y/y after July 2.2% decline: stats bureau
+- 09/15 10:31 [financialjuice] China Aug Guangzhou new home prices up 0.1% m/m (July 0.1%): stats bureau
+- 09/15 10:31 [financialjuice] China Aug Shanghai new home prices rise 0.4% m/m (July 0.2%): stats bureau
+- 09/15 10:31 [financialjuice] China August Shenzhen new home prices fall 2.3% y/y (July -2.9%) : stats bureau
+- 09/15 10:31 [FirstSquawk] CHINA (AUG) NEW HOME PRICES MOM ACTUAL: -0.17% VS -0.18% PREVIOUS
+- 09/15 10:31 [financialjuice] China Aug new home prices drop 3.0% y/y, July down 3.2% - source calculation
+- 09/15 10:31 [FirstSquawk] CHINA (AUG) USED HOME PRICES MOM ACTUAL: -0.31% VS -0.29% PREVIOUS
+- 09/15 10:31 [financialjuice] China Aug Beijing new-home prices decline 0.2% m/m (July -0.3%): stats bureau
+- 09/15 10:38 [FirstSquawk] Israeli military chief calls for legal review of “NAZA,” a documentary focused on the Gaza war.
