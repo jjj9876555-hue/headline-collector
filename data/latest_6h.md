@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 11:35 JST／対象: 09/15 05:35 〜 09/15 11:35 JST（時刻はすべて日本時間）
+生成: 2026-09-15 11:53 JST／対象: 09/15 05:53 〜 09/15 11:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/15 05:37 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 72 | 09/15 05:44 | 09/15 11:33 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 59 | 09/15 05:51 | 09/15 11:32 | 34分（07:55→08:29） |
+| DeItaone | 1 | 09/15 07:36 | 09/15 07:36 | - |
+| FirstSquawk | 72 | 09/15 06:01 | 09/15 11:47 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 61 | 09/15 06:00 | 09/15 11:46 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 131 行（統合前 134 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 05:37 [DeItaone] TRUMP DISMISSES AI AND DATA CENTER FEARS President Trump rejected warnings that AI could threaten humanity or data centers could harm communities, comparing those concerns to his criticism of climate-change warnings. Trump accused critics o…
-- 09/15 05:37 [DeItaone] TRUMP DISMISSES AI TAKEOVER FEARS President Trump rejected warnings that AI and robots could eventually threaten humanity, calling the concerns a “hoax.” He compared fears of AI taking control to past controversies over Russia and climate c…
-- 09/15 05:44 [FirstSquawk] TRUMP ATTACKS ANTHROPIC CEO DARIO AMODEI OVER CALLS TO SLOW ADVANCED AI DEVELOPMENT, CALLING FEARS THAT AI COULD DESTROY HUMANITY A “HOAX” AND SAYING AI DEVELOPMENT WILL NOT BE STOPPED DURING HIS PRESIDENCY.
-- 09/15 05:44 [FirstSquawk] TRUMP SAYS THE U.S. MUST MAINTAIN ITS AI LEAD OVER CHINA AND CRITICIZES GOOGLE’S $15.1 BILLION AI INFRASTRUCTURE INVESTMENT IN FINLAND, PUTTING HIM AT ODDS WITH AMODEI, SAM ALTMAN AND ELON MUSK OVER AI SAFETY AND GUARDRAILS.
-- 09/15 05:51 [financialjuice] Trump called Nvidia's CEO Huang on Monday, and wanted to discuss AI - NYT. $NVDA
 - 09/15 06:00 [financialjuice] S. KOREAN EXPORT PRICE YOY ACTUAL 42.4% (FORECAST -, PREVIOUS 49.1%) $MACRO
 - 09/15 06:00 [financialjuice] S. KOREAN IMPORT PRICE YOY ACTUAL 15.6% (FORECAST -, PREVIOUS 18.7%) $MACRO
 - 09/15 06:01 [FirstSquawk] TRUMP WANTED TO DISCUSS AI WITH NVIDIA CEO JENSEN HUANG; CALLED HUANG ON MONDAY - NYT
@@ -155,3 +150,8 @@
 - 09/15 11:32 [financialjuice] China's finance ministry plans 20 bln yuan auction of 28-day bills on Sept. 16
 - 09/15 11:33 [FirstSquawk] China’s Finance Ministry announces a 130 billion yuan reopening of three-year bonds for September 21.
 - 09/15 11:33 [FirstSquawk] China’s Finance Ministry schedules a 20 billion yuan 28-day bill auction for September 16.
+- 09/15 11:35 [financialjuice] Hormuz traffic declines after Middle East attacks escalate, shipping data shows
+- 09/15 11:37 [FirstSquawk] Shipping activity through Hormuz declines as rising Middle East tensions disrupt regional traffic.
+- 09/15 11:43 [financialjuice] Explosion heard in Ukraine's Kyiv: source witness reports
+- 09/15 11:46 [financialjuice] Missile strike damages ozone warehouse in Russia's Taganrog, regional governor says
+- 09/15 11:47 [FirstSquawk] China’s August data points to persistent economic weakness as investment and consumption ease.

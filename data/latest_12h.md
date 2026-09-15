@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 11:35 JST／対象: 09/14 23:35 〜 09/15 11:35 JST（時刻はすべて日本時間）
+生成: 2026-09-15 11:53 JST／対象: 09/14 23:53 〜 09/15 11:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/14 23:51 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 140 | 09/14 23:37 | 09/15 11:33 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 150 | 09/14 23:37 | 09/15 11:32 | 34分（07:55→08:29） |
+| DeItaone | 17 | 09/15 00:08 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
+| FirstSquawk | 139 | 09/14 23:54 | 09/15 11:47 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 149 | 09/14 23:53 | 09/15 11:46 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 296 行（統合前 311 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 292 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 23:37 [financialjuice] Yemen's Foreign Ministry: Maritime shipping is safe, but Saudi Arabia gravely mistaken if it believes it stays secure after 300 air strikes in past five days - IRIB News
-- 09/14 23:37 [FirstSquawk] JOLIET REFINERY HIT BY TOTAL POWER OUTAGE — 275K BPD CAPACITY AT RISK, FUEL MARKETS UNDER PRESSURE $XOM
-- 09/14 23:44 [financialjuice] OpenAI backs binding UK AI legislation - Politico
-- 09/14 23:45 [FirstSquawk] OPENAI SUPPORTS COMPULSORY AI LAWS IN THE UK.
-- 09/14 23:45 [FirstSquawk] YEMEN'S FOREIGN MINISTRY SAYS MARITIME SHIPPING IS SAFE, BUT SAUDI ARABIA IS MAKING A SERIOUS ERROR IF IT THINKS IT REMAINS SAFE AFTER 300 AIR STRIKES IN JUST FIVE DAYS.
-- 09/14 23:46 [financialjuice] EU looking to limit social media and chatbots for kids under 15.
-- 09/14 23:51 [DeItaone] U.S. 10-YEAR YIELD BREAKS 5% The 10-year Treasury yield climbed above 5%, its highest since October 2023, as oil-driven inflation fears fuel expectations of higher-for-longer Fed policy. Heavy debt issuance and concerns over U.S. deficits a…
-- 09/14 23:52 [financialjuice] UK Business Secretary Reynolds: UK can't support Speciality Steel on proposed terms
-- 09/14 23:53 [DeItaone] SENIOR SUNNI MUSLIM CLERIC SHOT DEAD BY UNIDENTIFIED GUNMEN IN SOUTHEAST IRAN - IRANIAN MEDIA
 - 09/14 23:53 [financialjuice] Israeli Prime Minister Netanyahu warns Hezbollah against further attacks - Israel's Channel 12
 - 09/14 23:54 [FirstSquawk] EU PLANS TO RESTRICT SOCIAL MEDIA AND CHATBOTS FOR CHILDREN UNDER 15 YEARS OLD.
 - 09/14 23:54 [FirstSquawk] UK BUSINESS SECRETARY REYNOLDS SAYS THE UK CANNOT SUPPORT SPECIALTY STEEL UNDER THE CURRENT TERMS AND PLANS TO CREATE A PROPOSAL FOR PUBLIC ACQUISITION.
@@ -320,3 +311,8 @@
 - 09/15 11:32 [financialjuice] China's finance ministry plans 20 bln yuan auction of 28-day bills on Sept. 16
 - 09/15 11:33 [FirstSquawk] China’s Finance Ministry announces a 130 billion yuan reopening of three-year bonds for September 21.
 - 09/15 11:33 [FirstSquawk] China’s Finance Ministry schedules a 20 billion yuan 28-day bill auction for September 16.
+- 09/15 11:35 [financialjuice] Hormuz traffic declines after Middle East attacks escalate, shipping data shows
+- 09/15 11:37 [FirstSquawk] Shipping activity through Hormuz declines as rising Middle East tensions disrupt regional traffic.
+- 09/15 11:43 [financialjuice] Explosion heard in Ukraine's Kyiv: source witness reports
+- 09/15 11:46 [financialjuice] Missile strike damages ozone warehouse in Russia's Taganrog, regional governor says
+- 09/15 11:47 [FirstSquawk] China’s August data points to persistent economic weakness as investment and consumption ease.

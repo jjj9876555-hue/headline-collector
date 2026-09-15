@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 11:35 JST／対象: 09/14 11:35 〜 09/15 11:35 JST（時刻はすべて日本時間）
+生成: 2026-09-15 11:53 JST／対象: 09/14 11:53 〜 09/15 11:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 322 | 09/14 11:44 | 09/15 11:33 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 265 | 09/14 11:51 | 09/15 11:32 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 321 | 09/14 11:53 | 09/15 11:47 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 267 | 09/14 12:23 | 09/15 11:46 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 614 行（統合前 645 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 615 行（統合前 646 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 11:44 [FirstSquawk] Commodity vessel crossings through the Strait of Hormuz dropped to single digits per day over the weekend, well below the 10-day average of roughly 14, according to data.
-- 09/14 11:45 [FirstSquawk] Brent crude jumps to $107 as Oman postpones an Iran meeting and Saudi Arabia shuts a key pipeline following an attack. Meanwhile, Nasdaq futures slide amid renewed jitters over AI valuations, Benzinga reports.
-- 09/14 11:50 [FirstSquawk] Long-term Japanese government bond yields move higher as markets strengthen expectations for further BOJ interest-rate increases, according to the Wall Street Journal.
-- 09/14 11:51 [financialjuice] Dollar/yen rises 0.3% to 154.02
 - 09/14 11:53 [FirstSquawk] The dollar rises 0.3% against the yen to 154.02, extending gains in the currency pair.
 - 09/14 11:56 [FirstSquawk] House Speaker Mike Johnson says Congress would need to approve President Trump’s proposed $5,000 dividend, indicating the plan cannot move forward without lawmakers’ backing.
 - 09/14 12:02 [FirstSquawk] North Korea says it has tested weapons capable of striking South Korea, describing the systems as having “huge destructive power” amid heightened regional tensions.
@@ -638,3 +634,8 @@
 - 09/15 11:32 [financialjuice] China's finance ministry plans 20 bln yuan auction of 28-day bills on Sept. 16
 - 09/15 11:33 [FirstSquawk] China’s Finance Ministry announces a 130 billion yuan reopening of three-year bonds for September 21.
 - 09/15 11:33 [FirstSquawk] China’s Finance Ministry schedules a 20 billion yuan 28-day bill auction for September 16.
+- 09/15 11:35 [financialjuice] Hormuz traffic declines after Middle East attacks escalate, shipping data shows
+- 09/15 11:37 [FirstSquawk] Shipping activity through Hormuz declines as rising Middle East tensions disrupt regional traffic.
+- 09/15 11:43 [financialjuice] Explosion heard in Ukraine's Kyiv: source witness reports
+- 09/15 11:46 [financialjuice] Missile strike damages ozone warehouse in Russia's Taganrog, regional governor says
+- 09/15 11:47 [FirstSquawk] China’s August data points to persistent economic weakness as investment and consumption ease.
