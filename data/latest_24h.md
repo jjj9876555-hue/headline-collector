@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 04:45 JST／対象: 09/15 04:45 〜 09/16 04:45 JST（時刻はすべて日本時間）
+生成: 2026-09-16 04:58 JST／対象: 09/15 04:58 〜 09/16 04:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 57 | 09/15 05:37 | 09/16 04:42 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 376 | 09/15 05:03 | 09/16 04:18 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 227 | 09/15 04:51 | 09/16 04:45 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 58 | 09/15 05:37 | 09/16 04:52 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 379 | 09/15 05:03 | 09/16 04:57 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 228 | 09/15 04:58 | 09/16 04:51 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 644 行（統合前 662 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 649 行（統合前 667 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -166.6 MLN NASDAQ 100: 120.0 MLN DOW 30: -96.0 MLN MAG 7: 365.0 MLN $MACRO
 - 09/15 04:58 [financialjuice] OpenAI's top lobbyist is meeting with lawmakers today - Politico.
 - 09/15 05:03 [FirstSquawk] ZELENSKY: UKRAINE IS READY TO CONSIDER A MUTUAL HALT TO STRIKES ON CRITICAL INFRASTRUCTURE IF THE U.S. CAN ENSURE RUSSIA'S LONG-TERM COMMITMENT.
 - 09/15 05:03 [FirstSquawk] ZELENSKY: PEACE TALKS MUST INCLUDE ENERGY, FOOD, TRANSPORT ROUTES AND CRITICAL INFRASTRUCTURE, WITH A FAIR AND LASTING SOLUTION.
@@ -668,3 +667,9 @@
 - 09/16 04:42 [DeItaone] OPENAI CFO FRIAR SAYS WILL PACE THE FRONTIER AND SLOW DOWN IF WE HAVE TO - CNBC
 - 09/16 04:45 [financialjuice] US VP Vance agrees that the war will end after the midterms - NY Post.
 - 09/16 04:45 [financialjuice] US VP Vance to NYP: Iran is occasionally shooting at commercial shipping.
+- 09/16 04:45 [financialjuice] US VP Vance: The US is not engaged in aggressive operations - NY Post.
+- 09/16 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -754.5 MLN NASDAQ 100: -72.1 MLN DOW 30: -124.0 MLN MAG 7: 259.1 MLN $MACRO
+- 09/16 04:52 [DeItaone] *VANCE AGREES WAR WILL END AFTER MIDTERMS: NY POST *VANCE SAYS IRAN WAR WILL ENTER ‘MUCH DIFFERENT PHASE’: NY POST *VANCE TO NYP: IRAN OCCASIONALLY SHOOTING AT COMMERCIAL SHIPPING *VANCE TO NYP: US NOT ENGAGED IN AGGRESSIVE OPERATIONS IN IR…
+- 09/16 04:56 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE EXPECTS THE IRAN WAR TO END AFTER THE MIDTERM ELECTIONS, SAYING THE CONFLICT WILL ENTER A “MUCH DIFFERENT PHASE.”
+- 09/16 04:56 [FirstSquawk] VANCE SAYS THE U.S. IS NOT CONDUCTING AGGRESSIVE OPERATIONS IN IRAN, WHILE IRAN CONTINUES TO OCCASIONALLY FIRE ON COMMERCIAL SHIPPING.
+- 09/16 04:57 [FirstSquawk] U.S. CENTRAL COMMAND: U.S. NAVY INTENSIFIES IRAN BLOCKADE AS USS RAFAEL PERALTA HELICOPTER CONDUCTS OPERATIONS; 103 COMMERCIAL VESSELS REDIRECTED SINCE SEPT. 15.

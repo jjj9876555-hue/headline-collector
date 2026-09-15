@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 04:45 JST／対象: 09/15 22:45 〜 09/16 04:45 JST（時刻はすべて日本時間）
+生成: 2026-09-16 04:58 JST／対象: 09/15 22:58 〜 09/16 04:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 09/15 22:45 | 09/16 04:42 | ⚠ 57分（03:03→04:01） |
-| FirstSquawk | 116 | 09/15 22:47 | 09/16 04:18 | 41分（01:25→02:06） |
-| financialjuice | 97 | 09/15 22:47 | 09/16 04:45 | 35分（01:24→02:00） |
+| DeItaone | 35 | 09/15 23:06 | 09/16 04:52 | ⚠ 57分（03:03→04:01） |
+| FirstSquawk | 116 | 09/15 23:07 | 09/16 04:57 | 41分（01:25→02:06） |
+| financialjuice | 98 | 09/15 23:00 | 09/16 04:51 | 35分（01:24→02:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 239 行（統合前 253 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 238 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 22:45 [DeItaone] OIL JUMPS AS SAUDI CANCELS EUROPEAN CARGOES Oil prices surged after Saudi Arabia reportedly cancelled September crude cargoes to some European refiners following damage to its East-West pipeline. Additional supply pressure comes from Libyan…
-- 09/15 22:46 [DeItaone] *LIBYA NOC: OUTPUT HALTED AT HAMADA, AL-TAHARA FIELDS *LIBYA FIELDS SHUTDOWN DUE TO PIPELINE CLOSURE: NOC
-- 09/15 22:47 [FirstSquawk] LIBYA NOC: OUTPUT HALTED HAMADA, AL-TAHARA FIELDS; SHUTDOWN DUE TO PIPELINE CLOSURE
-- 09/15 22:47 [DeItaone] BESSENT, ASKED ABOUT RISING BOND YIELDS ON TUESDAY, SAID THIS IS DUE TO “GLOBAL ISSUES”
-- 09/15 22:47 [FirstSquawk/DeItaone] BRENT , US CRUDE FUTURES RISE AFTER LIBYA'S NOC SAYS IT MAY DECLARE FORCE MAJEURE AFTER PROTESTS SUSPEND PRODUCTION AT OIL FIELDS, BRENT LAST UP 1.7%, WTI UP 2.1%
-- 09/15 22:47 [financialjuice] US Treasury Secretary Bessent asked about rising bond yields on Tuesday: This is due to global issues.
-- 09/15 22:49 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT, ASKED ABOUT RISING BOND YIELDS ON TUESDAY, SAID THIS IS DUE TO “GLOBAL ISSUES”
 - 09/15 23:00 [financialjuice] ❗ META to roll out next-generation Astrid Chips at end of 2027. $META
 - 09/15 23:01 [financialjuice] META to deploy new in-house Arke chips in first half of 2027. $META $NVDA
 - 09/15 23:01 [financialjuice] ❗ META: Chips will save money and energy compared with Nvidia. $META $NVDA
@@ -263,3 +256,9 @@
 - 09/16 04:42 [DeItaone] OPENAI CFO FRIAR SAYS WILL PACE THE FRONTIER AND SLOW DOWN IF WE HAVE TO - CNBC
 - 09/16 04:45 [financialjuice] US VP Vance agrees that the war will end after the midterms - NY Post.
 - 09/16 04:45 [financialjuice] US VP Vance to NYP: Iran is occasionally shooting at commercial shipping.
+- 09/16 04:45 [financialjuice] US VP Vance: The US is not engaged in aggressive operations - NY Post.
+- 09/16 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -754.5 MLN NASDAQ 100: -72.1 MLN DOW 30: -124.0 MLN MAG 7: 259.1 MLN $MACRO
+- 09/16 04:52 [DeItaone] *VANCE AGREES WAR WILL END AFTER MIDTERMS: NY POST *VANCE SAYS IRAN WAR WILL ENTER ‘MUCH DIFFERENT PHASE’: NY POST *VANCE TO NYP: IRAN OCCASIONALLY SHOOTING AT COMMERCIAL SHIPPING *VANCE TO NYP: US NOT ENGAGED IN AGGRESSIVE OPERATIONS IN IR…
+- 09/16 04:56 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE EXPECTS THE IRAN WAR TO END AFTER THE MIDTERM ELECTIONS, SAYING THE CONFLICT WILL ENTER A “MUCH DIFFERENT PHASE.”
+- 09/16 04:56 [FirstSquawk] VANCE SAYS THE U.S. IS NOT CONDUCTING AGGRESSIVE OPERATIONS IN IRAN, WHILE IRAN CONTINUES TO OCCASIONALLY FIRE ON COMMERCIAL SHIPPING.
+- 09/16 04:57 [FirstSquawk] U.S. CENTRAL COMMAND: U.S. NAVY INTENSIFIES IRAN BLOCKADE AS USS RAFAEL PERALTA HELICOPTER CONDUCTS OPERATIONS; 103 COMMERCIAL VESSELS REDIRECTED SINCE SEPT. 15.
