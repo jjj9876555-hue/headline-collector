@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 21:41 JST／対象: 09/15 09:41 〜 09/15 21:41 JST（時刻はすべて日本時間）
+生成: 2026-09-15 21:58 JST／対象: 09/15 09:58 〜 09/15 21:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/15 16:20 | 09/15 21:28 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 200 | 09/15 09:43 | 09/15 21:37 | 19分（19:31→19:50） |
-| financialjuice | 81 | 09/15 10:00 | 09/15 21:32 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 13 | 09/15 16:20 | 09/15 21:56 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 202 | 09/15 10:00 | 09/15 21:57 | 19分（19:31→19:50） |
+| financialjuice | 84 | 09/15 10:00 | 09/15 21:54 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 292 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 299 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 09:43 [FirstSquawk] Crude oil is climbing as market stabilizers start to fade. The supply buffers and inventory cushions that kept prices steady for months are weakening, leaving less room for error.
-- 09/15 09:48 [FirstSquawk] Barack Obama on AI: "We can’t stuff AI back in a box." Instead of letting tech dictate our future, he argues we must proactively guide how it's built and deployed rather than just reacting to the fallout.
-- 09/15 09:51 [FirstSquawk] Berlin's new playbook on UniCredit: Instead of blocking the Commerzbank takeover outright, Germany is shifting to hardline conditions.
-- 09/15 09:57 [FirstSquawk] China’s updated Exit-Entry Regulations are now in effect, targeting visa fraud and intermediary agencies. Travelers face 1–5 year bans for false declarations, while corporate sponsors assume full legal accountability for itineraries.
 - 09/15 10:00 [FirstSquawk] Beijing turns its focus to offshore brokerages as it moves to curb pay loopholes and corruption.
 - 09/15 10:00 [FirstSquawk] New crypto tax bill emerges in the US House, putting digital-asset taxation back in focus.
 - 09/15 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% versus prior session opening of 0.805%
@@ -316,3 +312,14 @@
 - 09/15 21:36 [FirstSquawk] WELLS FARGO CFO MIKE SANTOMASSIMO SAYS ACTIVITY LEVEL IN U.S. ECONOMY STAYING STRONG || MIKE SANTOMASSIMO SPEAKS AT THE BARCLAYS GLOBAL FINANCIAL SERVICES CONFERENCE
 - 09/15 21:36 [FirstSquawk] WELLS FARGO CFO SANTOMASSIMO: NET INTEREST MARGIN COULD BE BETTER THAN GUIDANCE IN Q3
 - 09/15 21:37 [FirstSquawk] US EMPIRE MANUFACTURING SEP: 7.6 (EST 15.0; PREV 20.6)
+- 09/15 21:44 [FirstSquawk] UN SECURITY COUNCIL WILL MEET TODAY TO TALK ABOUT THE MIDDLE EAST AS HOUTHIS MOVE QUICKLY ALONG YEMEN'S RED SEA COAST, RAISING NEW CONCERNS FOR GLOBAL SHIPPING.
+- 09/15 21:45 [financialjuice] German Finance Minister Klingbeil on gasoline prices: We must now reduce the burden and find alternative funding.
+- 09/15 21:46 [FirstSquawk] OMAN, U.S. DISCUSS EFFORTS TO DE-ESCALATE REGIONAL TENSIONS - OMAN NEWS AGENCY
+- 09/15 21:48 [FirstSquawk] AI IS NOT LOYAL TO US: FORMER OPENAI RESEARCHER DANIEL KOKOTAJLO SOUNDS THE ALARM Former OpenAI researcher Daniel Kokotajlo has warned that artificial intelligence should not be viewed as inherently loyal or aligned with humanity. His comme…
+- 09/15 21:50 [FirstSquawk] S&P 500, NASDAQ 100 FUTURES TURN POSITIVE
+- 09/15 21:53 [financialjuice] Diplomatic sources confirm: Israel is assisting Saudi Arabia with intelligence gathering against the Houthis - Israel's Hayom News
+- 09/15 21:54 [financialjuice] Oman Foreign Minister, US Secretary of State discuss regional developments in phone call - Oman News Agency.
+- 09/15 21:54 [DeItaone] OMAN, U.S. DISCUSS REGIONAL DE-ESCALATION Oman’s Foreign Minister held a phone call with his U.S. counterpart to discuss rapidly evolving regional developments and efforts to reduce tensions and contain the fallout. The two also discussed c…
+- 09/15 21:56 [DeItaone] NOBEL LAUREATE WARNS AI COULD ERODE HUMAN AGENCY Nobel Peace Prize laureate Maria Ressa is calling for urgent AI regulation, warning that increasingly autonomous systems could undermine human agency. Ressa says citizens must pressure govern…
+- 09/15 21:57 [FirstSquawk] US ATTACKED IRANIAN BOATS TRYING TO SEIZE NAVY DRONE
+- 09/15 21:57 [FirstSquawk] ORACLE: PROJECTS SUPPLY ERCOT GRID POWERING ABILENE FACILITY

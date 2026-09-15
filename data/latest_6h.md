@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 21:41 JST／対象: 09/15 15:41 〜 09/15 21:41 JST（時刻はすべて日本時間）
+生成: 2026-09-15 21:58 JST／対象: 09/15 15:58 〜 09/15 21:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/15 16:20 | 09/15 21:28 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 101 | 09/15 15:45 | 09/15 21:37 | 19分（19:31→19:50） |
-| financialjuice | 16 | 09/15 21:05 | 09/15 21:32 | 6分（21:22→21:28） |
+| DeItaone | 13 | 09/15 16:20 | 09/15 21:56 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 102 | 09/15 16:01 | 09/15 21:57 | 19分（19:31→19:50） |
+| financialjuice | 19 | 09/15 21:05 | 09/15 21:54 | 13分（21:32→21:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 128 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 134 行（統合前 134 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 15:45 [FirstSquawk] FRANCE (AUG) CPI EU Harmonized MoM ACTUAL: 0.7% VS 0.8% PREVIOUS;EST 0.8%
-- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI EU Harmonized YoY ACTUAL: 2.6% VS 2.7% PREVIOUS;EST 2.7%
-- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI MoM ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7%
-- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI YoY ACTUAL: 2.4% VS 2.4% PREVIOUS;EST 2.4%
-- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI Ex-Tobacco Index ACTUAL: 103.35 VS 102.67 PREVIOUS;EST 103.41
 - 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI MoM ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7% SPAIN (AUG) CPI YoY ACTUAL: 4.3% VS 4.3% PREVIOUS;EST 4.3%
 - 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI CORE YOY ACTUAL: 2.9% VS 2.9% PREVIOUS;EST 2.9% SPAIN (AUG) CPI CORE MOM ACTUAL: 0.3% VS -0.1% PREVIOUS
 - 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI EU Harmonized MoM ACTUAL: 0.7% VS 0.6% PREVIOUS;EST 0.6% SPAIN (AUG) CPI EU Harmonized YoY ACTUAL: 4.6% VS 4.5% PREVIOUS;EST 4.5%
@@ -152,3 +147,14 @@
 - 09/15 21:36 [FirstSquawk] WELLS FARGO CFO MIKE SANTOMASSIMO SAYS ACTIVITY LEVEL IN U.S. ECONOMY STAYING STRONG || MIKE SANTOMASSIMO SPEAKS AT THE BARCLAYS GLOBAL FINANCIAL SERVICES CONFERENCE
 - 09/15 21:36 [FirstSquawk] WELLS FARGO CFO SANTOMASSIMO: NET INTEREST MARGIN COULD BE BETTER THAN GUIDANCE IN Q3
 - 09/15 21:37 [FirstSquawk] US EMPIRE MANUFACTURING SEP: 7.6 (EST 15.0; PREV 20.6)
+- 09/15 21:44 [FirstSquawk] UN SECURITY COUNCIL WILL MEET TODAY TO TALK ABOUT THE MIDDLE EAST AS HOUTHIS MOVE QUICKLY ALONG YEMEN'S RED SEA COAST, RAISING NEW CONCERNS FOR GLOBAL SHIPPING.
+- 09/15 21:45 [financialjuice] German Finance Minister Klingbeil on gasoline prices: We must now reduce the burden and find alternative funding.
+- 09/15 21:46 [FirstSquawk] OMAN, U.S. DISCUSS EFFORTS TO DE-ESCALATE REGIONAL TENSIONS - OMAN NEWS AGENCY
+- 09/15 21:48 [FirstSquawk] AI IS NOT LOYAL TO US: FORMER OPENAI RESEARCHER DANIEL KOKOTAJLO SOUNDS THE ALARM Former OpenAI researcher Daniel Kokotajlo has warned that artificial intelligence should not be viewed as inherently loyal or aligned with humanity. His comme…
+- 09/15 21:50 [FirstSquawk] S&P 500, NASDAQ 100 FUTURES TURN POSITIVE
+- 09/15 21:53 [financialjuice] Diplomatic sources confirm: Israel is assisting Saudi Arabia with intelligence gathering against the Houthis - Israel's Hayom News
+- 09/15 21:54 [financialjuice] Oman Foreign Minister, US Secretary of State discuss regional developments in phone call - Oman News Agency.
+- 09/15 21:54 [DeItaone] OMAN, U.S. DISCUSS REGIONAL DE-ESCALATION Oman’s Foreign Minister held a phone call with his U.S. counterpart to discuss rapidly evolving regional developments and efforts to reduce tensions and contain the fallout. The two also discussed c…
+- 09/15 21:56 [DeItaone] NOBEL LAUREATE WARNS AI COULD ERODE HUMAN AGENCY Nobel Peace Prize laureate Maria Ressa is calling for urgent AI regulation, warning that increasingly autonomous systems could undermine human agency. Ressa says citizens must pressure govern…
+- 09/15 21:57 [FirstSquawk] US ATTACKED IRANIAN BOATS TRYING TO SEIZE NAVY DRONE
+- 09/15 21:57 [FirstSquawk] ORACLE: PROJECTS SUPPLY ERCOT GRID POWERING ABILENE FACILITY

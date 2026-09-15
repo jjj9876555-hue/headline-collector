@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 21:41 JST／対象: 09/14 21:41 〜 09/15 21:41 JST（時刻はすべて日本時間）
+生成: 2026-09-15 21:58 JST／対象: 09/14 21:58 〜 09/15 21:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 09/14 21:42 | 09/15 21:28 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 349 | 09/14 21:47 | 09/15 21:37 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 232 | 09/14 21:47 | 09/15 21:32 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 43 | 09/14 22:05 | 09/15 21:56 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 353 | 09/14 22:00 | 09/15 21:57 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 234 | 09/14 22:00 | 09/15 21:54 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 601 行（統合前 627 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 609 行（統合前 634 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 21:42 [DeItaone/FirstSquawk] U.S. CRUDE FUTURES EXTENDED GAINS TO HIT A SESSION HIGH OF $104.95/BBL, HIGHEST LEVEL SINCE MID MAY
-- 09/14 21:47 [financialjuice] Saudi oil pipeline hit in strikes will be mostly out of service for several weeks for repair
-- 09/14 21:55 [FirstSquawk] POLISH CABINET TO DISCUSS FUEL FIRMS WINDFALL TAX ON TUESDAY
 - 09/14 22:00 [financialjuice] Effective Fed Funds Rate 3.63% September 11 vs 3.63% September 10
 - 09/14 22:00 [FirstSquawk] NVIDIA EXPANDS OPEN SOURCE CUDA-Q PLATFORM WITH CUDA-Q LOGICAL
 - 09/14 22:01 [financialjuice] Nvidia expands the open-source CUDA-Q platform with CUDA-Q logical. $NVDA
@@ -625,3 +622,14 @@
 - 09/15 21:36 [FirstSquawk] WELLS FARGO CFO MIKE SANTOMASSIMO SAYS ACTIVITY LEVEL IN U.S. ECONOMY STAYING STRONG || MIKE SANTOMASSIMO SPEAKS AT THE BARCLAYS GLOBAL FINANCIAL SERVICES CONFERENCE
 - 09/15 21:36 [FirstSquawk] WELLS FARGO CFO SANTOMASSIMO: NET INTEREST MARGIN COULD BE BETTER THAN GUIDANCE IN Q3
 - 09/15 21:37 [FirstSquawk] US EMPIRE MANUFACTURING SEP: 7.6 (EST 15.0; PREV 20.6)
+- 09/15 21:44 [FirstSquawk] UN SECURITY COUNCIL WILL MEET TODAY TO TALK ABOUT THE MIDDLE EAST AS HOUTHIS MOVE QUICKLY ALONG YEMEN'S RED SEA COAST, RAISING NEW CONCERNS FOR GLOBAL SHIPPING.
+- 09/15 21:45 [financialjuice] German Finance Minister Klingbeil on gasoline prices: We must now reduce the burden and find alternative funding.
+- 09/15 21:46 [FirstSquawk] OMAN, U.S. DISCUSS EFFORTS TO DE-ESCALATE REGIONAL TENSIONS - OMAN NEWS AGENCY
+- 09/15 21:48 [FirstSquawk] AI IS NOT LOYAL TO US: FORMER OPENAI RESEARCHER DANIEL KOKOTAJLO SOUNDS THE ALARM Former OpenAI researcher Daniel Kokotajlo has warned that artificial intelligence should not be viewed as inherently loyal or aligned with humanity. His comme…
+- 09/15 21:50 [FirstSquawk] S&P 500, NASDAQ 100 FUTURES TURN POSITIVE
+- 09/15 21:53 [financialjuice] Diplomatic sources confirm: Israel is assisting Saudi Arabia with intelligence gathering against the Houthis - Israel's Hayom News
+- 09/15 21:54 [financialjuice] Oman Foreign Minister, US Secretary of State discuss regional developments in phone call - Oman News Agency.
+- 09/15 21:54 [DeItaone] OMAN, U.S. DISCUSS REGIONAL DE-ESCALATION Oman’s Foreign Minister held a phone call with his U.S. counterpart to discuss rapidly evolving regional developments and efforts to reduce tensions and contain the fallout. The two also discussed c…
+- 09/15 21:56 [DeItaone] NOBEL LAUREATE WARNS AI COULD ERODE HUMAN AGENCY Nobel Peace Prize laureate Maria Ressa is calling for urgent AI regulation, warning that increasingly autonomous systems could undermine human agency. Ressa says citizens must pressure govern…
+- 09/15 21:57 [FirstSquawk] US ATTACKED IRANIAN BOATS TRYING TO SEIZE NAVY DRONE
+- 09/15 21:57 [FirstSquawk] ORACLE: PROJECTS SUPPLY ERCOT GRID POWERING ABILENE FACILITY
