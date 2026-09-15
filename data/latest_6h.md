@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 07:32 JST／対象: 09/16 01:32 〜 09/16 07:32 JST（時刻はすべて日本時間）
+生成: 2026-09-16 07:44 JST／対象: 09/16 01:44 〜 09/16 07:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/16 01:35 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| DeItaone | 9 | 09/16 02:04 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
 | FirstSquawk | 82 | 09/16 02:06 | 09/16 07:30 | 37分（04:18→04:56） |
 | financialjuice | 65 | 09/16 02:00 | 09/16 07:30 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 147 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 146 行（統合前 157 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 01:35 [DeItaone] IRAN CLAIMS HUNDREDS OF U.S. MILITARY SITES HIT Iran’s foreign minister rejected claims that Iran is defenseless, asserting that hundreds of U.S. military sites have been destroyed and dozens of aircraft damaged. He claimed the figures were…
 - 09/16 02:00 [financialjuice] Treasury WI 20 Yr yield 5.400% before $13 billion auction
 - 09/16 02:00 [financialjuice] US Treasury Secretary Bessent hearing at House Financial Services panel concludes.
 - 09/16 02:02 [financialjuice] US 20-YEAR BOND HIGH YIELD ACTUAL 5.42% (FORECAST -, PREVIOUS 5.204%) $MACRO

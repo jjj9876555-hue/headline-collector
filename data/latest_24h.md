@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 07:32 JST／対象: 09/15 07:32 〜 09/16 07:32 JST（時刻はすべて日本時間）
+生成: 2026-09-16 07:44 JST／対象: 09/15 07:44 〜 09/16 07:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 58 | 09/15 07:36 | 09/16 07:16 | ⚠ 524分（07:36→16:20） |
+| DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
 | FirstSquawk | 389 | 09/15 08:54 | 09/16 07:30 | 41分（01:25→02:06） |
-| financialjuice | 240 | 09/15 07:41 | 09/16 07:30 | ⚠ 353分（15:11→21:05） |
+| financialjuice | 239 | 09/15 07:45 | 09/16 07:30 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 671 行（統合前 689 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 669 行（統合前 687 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 07:36 [DeItaone] *IRAN SAYS NO TALKS WITH US UNTIL ITS CONDITIONS ARE MET *IRAN SAYS NO TALKS WITH US UNTIL ITS CONDITIONS ARE MET *IRAN TOP SECURITY OFFICIAL MOHSEN REZAEE SAYS IN POST ON X *REZAEE: US PRESIDENT SENDS ‘MIXED SIGNALS’ ON NEGOTIATIONS
-- 09/15 07:41 [financialjuice] Google allows all engineers to access Anthropic's Claude - Business Insider
 - 09/15 07:45 [financialjuice] NZ actual electronic card retail sales up 0.2% in August from year earlier
 - 09/15 07:45 [financialjuice] NZ s/adj electronic card retail sales fall 0.9% in August versus prior month
 - 09/15 07:55 [financialjuice] Saudi-led coalition in Yemen: 13 civilians hurt in Houthis attacks on Saudi cities of Khamis Mushait, Abha and Taif on Monday
