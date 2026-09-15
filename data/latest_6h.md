@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 02:45 JST／対象: 09/15 20:45 〜 09/16 02:45 JST（時刻はすべて日本時間）
+生成: 2026-09-16 02:58 JST／対象: 09/15 20:58 〜 09/16 02:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 40 | 09/15 21:28 | 09/16 02:06 | 29分（01:35→02:04） |
-| FirstSquawk | 136 | 09/15 20:47 | 09/16 02:36 | 41分（01:25→02:06） |
-| financialjuice | 110 | 09/15 21:05 | 09/16 02:20 | 35分（01:24→02:00） |
+| FirstSquawk | 132 | 09/15 21:00 | 09/16 02:36 | 41分（01:25→02:06） |
+| financialjuice | 112 | 09/15 21:05 | 09/16 02:58 | 35分（01:24→02:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 277 行（統合前 287 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 275 行（統合前 285 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 20:47 [FirstSquawk] UK PM SPOX: CHANCELLOR HEALEY TO SET OUT PENSION TAX DETAILS AT BUDGET
-- 09/15 20:47 [FirstSquawk] UK PENSIONERS JUST EXCEEDING TAX THRESHOLD WON'T PAY TAX
-- 09/15 20:51 [FirstSquawk] GERMAN CHANCELLOR MERZ: AIMS TO AGREE ON FURTHER REFORMS WITH SPD PARTY AFTER THE STATE ELECTIONS
-- 09/15 20:56 [FirstSquawk] GERMAN CHANCELLOR MERZ ON UPCOMING STATE ELECTIONS: I WAS ELECTED FOR FOUR YEARS AND WANT TO USE THIS TIME TO SOLVE PROBLEMS
 - 09/15 21:00 [FirstSquawk] SPAIN APPROVES €13B INVESTMENT FOR SPANISH AIRPORT NETWORK
 - 09/15 21:05 [financialjuice] Secured overnight financing rate 3.62% Sept. 14th vs 3.62% Sept. 11th
 - 09/15 21:05 [financialjuice] Bytedance’s first-half profit drops to $20 billion. weighed down by AI spending - The Information
@@ -301,3 +297,5 @@
 - 09/16 02:26 [FirstSquawk] U.S. SENATOR SANDERS CALLS FOR U.S. AND CHINA TO AGREE ON A TREATY TO HALT ADVANCED AI DEVELOPMENT
 - 09/16 02:36 [FirstSquawk] TRUMP SLAMS HIS OWN SUPREME COURT APPOINTEES AFTER THE COURT BLOCKED HIS ADMINISTRATION’S RESTRICTIONS ON MAIL BALLOTS AHEAD OF THE MIDTERM ELECTIONS.
 - 09/16 02:36 [FirstSquawk] TRUMP ACCUSES THE JUSTICES OF BEING “BULLIED AND CAJOLED BY THE RADICAL LEFT” AND SAYS THE SUPREME COURT HAS “REALLY LET OUR COUNTRY DOWN,” ESCALATING HIS ATTACKS ON JUDICIAL RULINGS.
+- 09/16 02:53 [financialjuice] Iranian Army Spokesman: Iran and Pakistan are cooperating to ensure regional security - Tasnim News
+- 09/16 02:58 [financialjuice] WATCH LIVE: Attorney General Blanche Speaks 2 PM ET

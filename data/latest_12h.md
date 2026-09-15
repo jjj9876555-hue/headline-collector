@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 02:45 JST／対象: 09/15 14:45 〜 09/16 02:45 JST（時刻はすべて日本時間）
+生成: 2026-09-16 02:58 JST／対象: 09/15 14:58 〜 09/16 02:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 50 | 09/15 16:20 | 09/16 02:06 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 231 | 09/15 14:47 | 09/16 02:36 | 41分（01:25→02:06） |
-| financialjuice | 128 | 09/15 14:46 | 09/16 02:20 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 227 | 09/15 15:02 | 09/16 02:36 | 41分（01:25→02:06） |
+| financialjuice | 127 | 09/15 14:58 | 09/16 02:58 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 400 行（統合前 410 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 395 行（統合前 405 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 14:46 [financialjuice] South Korea to take steps to stabilize the bond market if needed
-- 09/15 14:47 [FirstSquawk] China steps up exit restrictions as part of broader measures to secure strategic technology.
-- 09/15 14:49 [FirstSquawk] South Korea may introduce measures to calm the bond market if conditions warrant.
-- 09/15 14:57 [financialjuice] Japan's Fin. Min. Katayama: We will not rely on deficit-covering bonds to fund the tax cut
-- 09/15 14:57 [financialjuice] Japan Finance Minister Katayama: We will ensure market credibility by reviewing both spending and revenue
-- 09/15 14:58 [FirstSquawk] Japan's government will avoid using deficit-financing bonds to fund tax reductions, Finance Minister Katayama says.
-- 09/15 14:58 [FirstSquawk] Katayama: Japan will safeguard market confidence by examining both expenditure and revenue.
 - 09/15 14:58 [financialjuice] Japan's Fin. Min. Katayama: We won't issue debt to fund food sales tax cut
 - 09/15 14:58 [financialjuice] Japan finance minister Katayama: Will aim to secure enough funding through efforts to boost non-tax revenue
 - 09/15 15:00 [financialjuice] Japan Finance Minister Katayama: We expect a meaningful level of overshoot in tax revenue
@@ -424,3 +417,5 @@
 - 09/16 02:26 [FirstSquawk] U.S. SENATOR SANDERS CALLS FOR U.S. AND CHINA TO AGREE ON A TREATY TO HALT ADVANCED AI DEVELOPMENT
 - 09/16 02:36 [FirstSquawk] TRUMP SLAMS HIS OWN SUPREME COURT APPOINTEES AFTER THE COURT BLOCKED HIS ADMINISTRATION’S RESTRICTIONS ON MAIL BALLOTS AHEAD OF THE MIDTERM ELECTIONS.
 - 09/16 02:36 [FirstSquawk] TRUMP ACCUSES THE JUSTICES OF BEING “BULLIED AND CAJOLED BY THE RADICAL LEFT” AND SAYS THE SUPREME COURT HAS “REALLY LET OUR COUNTRY DOWN,” ESCALATING HIS ATTACKS ON JUDICIAL RULINGS.
+- 09/16 02:53 [financialjuice] Iranian Army Spokesman: Iran and Pakistan are cooperating to ensure regional security - Tasnim News
+- 09/16 02:58 [financialjuice] WATCH LIVE: Attorney General Blanche Speaks 2 PM ET
