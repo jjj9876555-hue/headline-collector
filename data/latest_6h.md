@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 17:57 JST／対象: 09/15 11:57 〜 09/15 17:57 JST（時刻はすべて日本時間）
+生成: 2026-09-15 18:20 JST／対象: 09/15 12:20 〜 09/15 18:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/15 16:20 | 09/15 16:50 | 29分（16:20→16:50） |
-| FirstSquawk | 99 | 09/15 12:03 | 09/15 17:56 | 15分（15:46→16:01） |
-| financialjuice | 25 | 09/15 12:00 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| DeItaone | 3 | 09/15 16:20 | 09/15 18:02 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 104 | 09/15 12:23 | 09/15 18:18 | 15分（15:46→16:01） |
+| financialjuice | 22 | 09/15 14:16 | 09/15 15:11 | 23分（14:16→14:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 126 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 129 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 12:00 [financialjuice] S.Korea July M2 money supply rises 5.8% y/y vs 6.0% in June: central bank
-- 09/15 12:01 [financialjuice] China statistics bureau: forecasts steady growth for economy despite structural pressures
-- 09/15 12:03 [FirstSquawk] SOUTH KOREA (JUL) MONEY SUPPLY L SA MOM ACTUAL: -0.5% VS 0.8% PREVIOUS
-- 09/15 12:04 [FirstSquawk] SOUTH KOREA (JUL) MONEY SUPPLY M2 SA MOM ACTUAL: 0.3% VS 0.7% PREVIOUS
-- 09/15 12:09 [financialjuice] Drone strike damages industrial plant in Russia's Samara region: authorities
-- 09/15 12:13 [FirstSquawk] Industrial facility damaged by drone strike in Russia’s Samara region, authorities report.
 - 09/15 12:23 [FirstSquawk] China’s factories rev up as consumer spending loses momentum, highlighting persistent economic imbalances.
 - 09/15 12:34 [FirstSquawk] BOJ set for its biggest rate hike of the cycle as pressure on policymakers intensifies., citing RTRS
 - 09/15 12:35 [FirstSquawk] Coinbase climbs on CLARITY Act developments: The bill needs 60 votes to advance, with Republicans releasing a revised draft ahead of Tuesday’s procedural vote.
@@ -150,3 +144,12 @@
 - 09/15 17:43 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE HIT RUSSIA'S SYZRAN OIL REFINERY.
 - 09/15 17:56 [FirstSquawk] FRANCE’S FIN MIN LESCURE: FRANCE’S FINANCIAL SECTOR IS RESILIENT, SOLID
 - 09/15 17:56 [FirstSquawk] WHO EBOLA EXPERT: THERE'S SOME EARLY SIGNS OF IMPROVEMENT, EFFORTS WILL NEED TO BE TO BE SUSTAINED AND STRENGTHENED
+- 09/15 18:00 [FirstSquawk] GERMAN ZEW ECONOMIC SENTIMENT (SEP) ACTUAL: 34.7 VS 34.2 PREVIOUS; EST 40.0
+- 09/15 18:00 [FirstSquawk] GERMAN ZEW CURRENT CONDITIONS (SEP) ACTUAL: -47.1 VS -61.1 PREVIOUS; EST -52.1
+- 09/15 18:01 [FirstSquawk] EUROZONE ZEW SURVEY EXPECTATIONS SEP: 25.8 (PREV 31.4)
+- 09/15 18:02 [DeItaone] IRAN’S FOREIGN MINISTER TO VISIT CHINA Iranian Foreign Minister Abbas Araghchi will visit China on September 16 for talks with Chinese Foreign Minister Wang Yi. The visit follows reports alleging Chinese entities provided Iran with satellit…
+- 09/15 18:05 [FirstSquawk] UKMTO: A VERIFIED SOURCE HAS REPORTED THAT A VESSEL HAS BEEN STRUCK BY AN UNKNOWN PROJECTILE
+- 09/15 18:10 [FirstSquawk] ECB'S MOULIN: NO PLAN TO CHANGE MORTGAGE LENDING RULES IN FRANCE
+- 09/15 18:16 [FirstSquawk] BILL DUDLEY, FORMER NEW YORK FED PRESIDENT, SAYS THE FEDERAL RESERVE MUST RAISE RATES THIS WEEK AS MARKETS SEE A 90% CHANCE OF IT HAPPENING.
+- 09/15 18:16 [FirstSquawk] SAUDI ARABIA HAS CLOSED A KEY OIL PIPELINE AFTER AN ATTACK, CAUSING CONCERNS THAT GLOBAL ENERGY MARKETS COULD EXPERIENCE SEVERE SHORTAGES DUE TO THE IRAN WAR, RESULTING IN HIGHER FUEL AND ESSENTIAL PRICES.
+- 09/15 18:18 [FirstSquawk] SAUDI CIVIL DEFENSE WARNS OF POSSIBLE THREATS IN MECCA, TAIF, AND JEDDAH - STATE TELEVISION.

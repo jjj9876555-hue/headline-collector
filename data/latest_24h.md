@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 17:57 JST／対象: 09/14 17:57 〜 09/15 17:57 JST（時刻はすべて日本時間）
+生成: 2026-09-15 18:20 JST／対象: 09/14 18:20 〜 09/15 18:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 51 | 09/14 18:03 | 09/15 16:50 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 333 | 09/14 18:02 | 09/15 17:56 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 257 | 09/14 18:10 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| DeItaone | 49 | 09/14 18:30 | 09/15 18:02 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 334 | 09/14 18:21 | 09/15 18:18 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 255 | 09/14 18:22 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 615 行（統合前 645 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 612 行（統合前 642 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 18:02 [FirstSquawk] CHINA JAN.-AUG. AGGREGATE FINANCING CNY23.91T; EST. CNY24.372T
-- 09/14 18:02 [FirstSquawk] CHINA JAN.-AUG. NEW YUAN LOANS CNY10.44T; EST. CNY10.784T
-- 09/14 18:02 [FirstSquawk] VENEZUELA TO JOIN G20 ENERGY SUMMIT AS US AIMS FOR MORE DEALS
-- 09/14 18:03 [DeItaone] *JAN.-AUG. NEW YUAN LOANS CNY10.44T; EST. CNY10.784T *CHINA AUG. M2 MONEY SUPPLY RISES 7.5% Y/Y; EST. +7.6%
-- 09/14 18:03 [FirstSquawk] EURO REACHES ONE-MONTH LOW DUE TO INCREASE IN DOLLAR AND OIL PRICES.
-- 09/14 18:07 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS A light U.S. data calendar puts the focus on oil, geopolitics, Treasury yields and Fed positioning. 8:30 AM ET — 🇨🇦 Canada CPI 11:00 AM ET — 🇺🇸 13-Week & 26-Week Treasury Bill Auctions After Close — 🫀 K…
-- 09/14 18:10 [financialjuice] Iran's Persian Gulf Strait Authority publishes an updated list of 77 vessels "violating Iranian protocols for the Strait of Hormuz"
-- 09/14 18:11 [financialjuice] Iran's Persian Gulf Strait Authority: Vessels will face restrictions on future passage, including fines, detention, or confiscation
-- 09/14 18:11 [DeItaone] IRAN'S PERSIAN GULF STRAIT AUTHORITY PUBLISHES UPDATED LIST OF 77 VESSELS 'VIOLATING IRANIAN PROTOCOLS FOR THE STRAIT OF HORMUZ' IRAN'S PERSIAN GULF STRAIT AUTHORITY VESSELS WILL FACE RESTRICTIONS OF FUTURE PASSAGE INCLUDING FINES, DETENTIO…
-- 09/14 18:12 [FirstSquawk] IRAN'S PERSIAN GULF STRAIT AUTHORITY RELEASES AN UPDATED LIST OF 77 SHIPS "BREAKING IRANIAN RULES FOR THE STRAIT OF HORMUZ."
-- 09/14 18:12 [FirstSquawk] IRAN WILL ENFORCE NEW RESTRICTIONS ON VESSEL PASSAGE IN THE PERSIAN GULF STRAIT, WHICH MAY INCLUDE FINES, DETENTION, OR CONFISCATION.
-- 09/14 18:17 [FirstSquawk] ECB’S SCHNABEL: MACROECONOMIC, FISCAL AND FINANCIAL STABILITY IN A SHOCK-PRONE WORLD
 - 09/14 18:21 [FirstSquawk] SAUDI CROWN PRINCE MEETS CENTCOM COMMANDER
 - 09/14 18:22 [financialjuice] Saudi Crown Prince and US CENTCOM chief discuss latest regional developments
 - 09/14 18:25 [financialjuice] Iran updates list of Hormuz non-compliant vessels to 77
@@ -639,3 +627,12 @@
 - 09/15 17:43 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE HIT RUSSIA'S SYZRAN OIL REFINERY.
 - 09/15 17:56 [FirstSquawk] FRANCE’S FIN MIN LESCURE: FRANCE’S FINANCIAL SECTOR IS RESILIENT, SOLID
 - 09/15 17:56 [FirstSquawk] WHO EBOLA EXPERT: THERE'S SOME EARLY SIGNS OF IMPROVEMENT, EFFORTS WILL NEED TO BE TO BE SUSTAINED AND STRENGTHENED
+- 09/15 18:00 [FirstSquawk] GERMAN ZEW ECONOMIC SENTIMENT (SEP) ACTUAL: 34.7 VS 34.2 PREVIOUS; EST 40.0
+- 09/15 18:00 [FirstSquawk] GERMAN ZEW CURRENT CONDITIONS (SEP) ACTUAL: -47.1 VS -61.1 PREVIOUS; EST -52.1
+- 09/15 18:01 [FirstSquawk] EUROZONE ZEW SURVEY EXPECTATIONS SEP: 25.8 (PREV 31.4)
+- 09/15 18:02 [DeItaone] IRAN’S FOREIGN MINISTER TO VISIT CHINA Iranian Foreign Minister Abbas Araghchi will visit China on September 16 for talks with Chinese Foreign Minister Wang Yi. The visit follows reports alleging Chinese entities provided Iran with satellit…
+- 09/15 18:05 [FirstSquawk] UKMTO: A VERIFIED SOURCE HAS REPORTED THAT A VESSEL HAS BEEN STRUCK BY AN UNKNOWN PROJECTILE
+- 09/15 18:10 [FirstSquawk] ECB'S MOULIN: NO PLAN TO CHANGE MORTGAGE LENDING RULES IN FRANCE
+- 09/15 18:16 [FirstSquawk] BILL DUDLEY, FORMER NEW YORK FED PRESIDENT, SAYS THE FEDERAL RESERVE MUST RAISE RATES THIS WEEK AS MARKETS SEE A 90% CHANCE OF IT HAPPENING.
+- 09/15 18:16 [FirstSquawk] SAUDI ARABIA HAS CLOSED A KEY OIL PIPELINE AFTER AN ATTACK, CAUSING CONCERNS THAT GLOBAL ENERGY MARKETS COULD EXPERIENCE SEVERE SHORTAGES DUE TO THE IRAN WAR, RESULTING IN HIGHER FUEL AND ESSENTIAL PRICES.
+- 09/15 18:18 [FirstSquawk] SAUDI CIVIL DEFENSE WARNS OF POSSIBLE THREATS IN MECCA, TAIF, AND JEDDAH - STATE TELEVISION.
