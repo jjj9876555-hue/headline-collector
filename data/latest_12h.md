@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 06:16 JST／対象: 09/15 18:16 〜 09/16 06:16 JST（時刻はすべて日本時間）
+生成: 2026-09-16 06:31 JST／対象: 09/15 18:31 〜 09/16 06:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 53 | 09/15 18:44 | 09/16 05:01 | ⚠ 60分（20:28→21:28） |
-| FirstSquawk | 213 | 09/15 18:18 | 09/16 05:58 | 41分（01:25→02:06） |
-| financialjuice | 146 | 09/15 21:05 | 09/16 05:58 | 38分（05:04→05:43） |
+| FirstSquawk | 215 | 09/15 18:31 | 09/16 06:21 | 41分（01:25→02:06） |
+| financialjuice | 151 | 09/15 21:05 | 09/16 06:20 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 399 行（統合前 414 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 406 行（統合前 421 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 18:18 [FirstSquawk] SAUDI CIVIL DEFENSE WARNS OF POSSIBLE THREATS IN MECCA, TAIF, AND JEDDAH - STATE TELEVISION.
-- 09/15 18:26 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS DANGER PASSED IN MECCA, TAIF AND JEDDAH
 - 09/15 18:31 [FirstSquawk] RUSSIA LAVROV: RUSSIA READY FOR REASONABLE COMPROMISES ON UKRAINE: IFX
 - 09/15 18:33 [FirstSquawk] RUSSIAN FOREIGN MINISTER LAVROV: RUSSIA WILL NOT STOP FIGHTING DURING PEACE TALKS ON UKRAINE
 - 09/15 18:43 [FirstSquawk] INDIA-EU TRADE DEAL EXPECTED BE SIGNED BEFORE END OF THE YEAR
@@ -423,3 +421,12 @@
 - 09/16 05:51 [FirstSquawk] U.S. API DATA SHOWS CRUDE INVENTORIES SURGING 7.1M BARRELS VS. 1.8M-BARREL DRAW EXPECTED AND 0.3M PREVIOUSLY.
 - 09/16 05:53 [financialjuice] US Pressures Mexico to Box Out China’s AI Hardware Exports - WSJ
 - 09/16 05:58 [financialjuice/FirstSquawk] Reports of an explosion heard in Erbil, northern Iraq - Tasnim News.
+- 09/16 06:16 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM IS SET TO MEET DONALD TRUMP IN NEW YORK NEXT WEEK DURING THE UNITED NATIONS GENERAL ASSEMBLY || MEETING WOULD MARK THEIR FIRST FACE-TO-FACE MEETING SINCE BURNHAM BECAME PRIME MINISTER, ACCORDING TO THE TIMES.
+- 09/16 06:18 [financialjuice] Burnham to meet Trump for first time in New York next week: The Times
+- 09/16 06:19 [financialjuice] Trump and Burnham expected to discuss Ukraine, Middle East and energy at United Nations General Assembly - The Times
+- 09/16 06:20 [financialjuice] Ukraine sets budget revenue goal at 5.65 trillion hryvnias ($126.7 bln) next year: draft budget
+- 09/16 06:20 [financialjuice] Ukraine will need $52.6 billion in global financial support in 2027: draft budget
+- 09/16 06:20 [FirstSquawk] TRUMP AND UK PRIME MINISTER ANDY BURNHAM ARE EXPECTED TO DISCUSS UKRAINE, THE MIDDLE EAST AND ENERGY DURING THEIR MEETING AT THE UNITED NATIONS GENERAL ASSEMBLY. - THE TIMES
+- 09/16 06:20 [financialjuice] Ukraine to allocate 43.8% of GDP for defense efforts in 2024 draft budget
+- 09/16 06:20 [FirstSquawk] UKRAINE TARGETS 5.65 TRILLION HRYVNIAS ($126.7 BILLION) IN BUDGET REVENUES NEXT YEAR, WITH 43.8% OF GDP PLANNED FOR DEFENCE, ACCORDING TO THE DRAFT BUDGET.
+- 09/16 06:21 [FirstSquawk] UKRAINE EXPECTS TO REQUIRE $52.6 BILLION IN INTERNATIONAL FINANCIAL AID IN 2027 TO SUPPORT ITS BUDGET AND WAR EFFORT.
