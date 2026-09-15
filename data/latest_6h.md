@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 08:59 JST／対象: 09/15 02:59 〜 09/15 08:59 JST（時刻はすべて日本時間）
+生成: 2026-09-15 09:27 JST／対象: 09/15 03:27 〜 09/15 09:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/15 03:00 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 46 | 09/15 03:21 | 09/15 08:55 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 45 | 09/15 03:17 | 09/15 08:50 | 34分（07:55→08:29） |
+| DeItaone | 6 | 09/15 03:33 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
+| FirstSquawk | 56 | 09/15 03:32 | 09/15 09:25 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 50 | 09/15 03:31 | 09/15 09:27 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 92 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 106 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 03:00 [DeItaone] U.S.-IRAN PHASED DEAL REPORTEDLY IN PLAY Washington may be considering a “phased” agreement with Tehran aimed at ending the U.S.-Iran conflict, according to a Pakistani source cited by ILNA. The source cautioned that Trump’s recent comments…
-- 09/15 03:17 [financialjuice/FirstSquawk] US House Speaker Johnson: Trump will convene with AI executives this week or next.
-- 09/15 03:23 [FirstSquawk] SAUDI ARABIA'S KEY EAST-WEST PIPELINE, HIT BY DRONES, COULD REMAIN MOSTLY OFFLINE FOR THREE TO FIVE WEEKS, TIGHTENING GLOBAL SUPPLY AS HOUTHI FORCES EXPAND ALONG RED SEA SHIPPING ROUTES, WITH THE PIPELINE POSSIBLY OPERATING AT REDUCED CAPAC…
 - 09/15 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $101.39 a barrel, up $1.34, 1.34%.
 - 09/15 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.9615 a gallon.
 - 09/15 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.3171 a gallon.
@@ -116,3 +113,20 @@
 - 09/15 08:50 [financialjuice] CanSemi Technology Inc plans to sell 512.64 million shares in Shenzhen listing
 - 09/15 08:54 [FirstSquawk] JAPAN EARLY TRADE: NIKKEI FUTURES SLIDE 0.46%, WHILE 10-YEAR JGB FUTURES DROP 0.18 POINT.
 - 09/15 08:55 [FirstSquawk] NATO FIGHTER JETS SHOT DOWN A DRONE THAT VIOLATED LITHUANIA'S AIRSPACE OVER KAUNAS COUNTY, PROMPTING AN AIR ALERT AND TEMPORARY FLIGHT RESTRICTIONS AT VILNIUS AIRPORT. THE ALERT AND RESTRICTIONS WERE LIFTED AFTER THE DRONE WAS DESTROYED, WI…
+- 09/15 09:04 [financialjuice] S. KOREAN TRADE BALANCE REVISED ACTUAL 34.79B (FORECAST -, PREVIOUS 34.75B) $MACRO
+- 09/15 09:04 [financialjuice] S. KOREAN EXPORTS REVISED ACTUAL 68.7% (FORECAST -, PREVIOUS 68.7%) $MACRO
+- 09/15 09:04 [financialjuice] S. KOREAN IMPORTS REVISED ACTUAL 22.4% (FORECAST -, PREVIOUS 22.5%) $MACRO
+- 09/15 09:05 [financialjuice] Unisound AI Technology Co releases U2-Flash, next-gen high-density intelligent model
+- 09/15 09:08 [financialjuice/FirstSquawk] Microsoft CEO Satya Nadella urges AI industry to prioritize safety, maintain human control: Business Insider
+- 09/15 09:11 [FirstSquawk] Unisound AI Technology unveils U2-FLASH, a new high-density intelligent model aimed at advancing its next-generation AI capabilities.
+- 09/15 09:11 [FirstSquawk] NVIDIA CEO JENSEN HUANG TOOK A LIVE PHONE CALL FROM DONALD TRUMP DURING AN ON-STAGE PANEL, WITH BOTH REJECTING CALLS TO SLOW ADVANCED AI DEVELOPMENT AND ARGUING THE U.S. MUST MAINTAIN ITS AI LEAD OVER CHINA. HUANG SAID AI SAFETY AND INNOVAT…
+- 09/15 09:11 [FirstSquawk] Microsoft CEO Satya Nadella calls on the AI industry to put safety first and ensure humans remain in control as the technology advances - BI
+- 09/15 09:13 [FirstSquawk] Japan’s heavy reliance on LNG is complicating its response to Putin’s visit to the disputed Kuril Islands, highlighting the tension between energy security and diplomacy.
+- 09/15 09:16 [FirstSquawk] Oil prices climb sharply as global equities slide and government bond yields move higher, signaling renewed pressure across financial markets.
+- 09/15 09:19 [FirstSquawk] Asian markets open weaker after Wall Street’s broad decline, with tech stocks under pressure as investors weigh calls for a slower pace of AI development
+- 09/15 09:20 [FirstSquawk] OpenAI is reportedly training ChatGPT to sound less human-like and reduce sycophantic responses, according to 404 Media.
+- 09/15 09:22 [FirstSquawk] NATO aircraft intercepted and destroyed a drone over Lithuanian territory, President Gitanas Nausėda said, citing AFP.
+- 09/15 09:22 [FirstSquawk] U.S. Supreme Court blocks the Postal Service from imposing new mail-in voting restrictions ahead of the congressional midterms, dealing a setback to the Trump administration - BBG
+- 09/15 09:23 [FirstSquawk] Japan’s long-dated bond yields edge higher as rising energy costs fuel fresh inflation concerns , citing WSJ
+- 09/15 09:25 [FirstSquawk] China pushes back against calls to curb the development of advanced AI, signaling continued momentum behind its technology ambitions.
+- 09/15 09:27 [financialjuice] China PBOC seen setting yuan midpoint at 6.7051 per dollar: estimate

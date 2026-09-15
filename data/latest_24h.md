@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 08:59 JST／対象: 09/14 08:59 〜 09/15 08:59 JST（時刻はすべて日本時間）
+生成: 2026-09-15 09:27 JST／対象: 09/14 09:27 〜 09/15 09:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 328 | 09/14 09:10 | 09/15 08:55 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 236 | 09/14 09:00 | 09/15 08:50 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 330 | 09/14 09:29 | 09/15 09:25 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 240 | 09/14 09:34 | 09/15 09:27 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 592 行（統合前 622 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 597 行（統合前 628 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 09:00 [financialjuice] Kennedy Center may shut as soon as Tuesday, warns of bankruptcy, documents show - Washington Post
-- 09/14 09:10 [FirstSquawk] Musk says he’s highly confident SpaceX will put Nvidia AI computers into orbit in 2027, potentially opening a new frontier for space-based computing.
-- 09/14 09:11 [FirstSquawk] BAKER HUGHES WINS A MAJOR CONTRACT FROM VENTURE GLOBAL LNG TO SUPPLY 13 GAS COMPRESSION SYSTEMS FOR THE CLOUD CONNECT PIPELINE IN LOUISIANA. || COMPANY WILL ALSO DELIVER FOUR LIQUEFACTION BLOCKS WITH EIGHT MODULES FOR VENTURE GLOBAL'S PLAQU…
-- 09/14 09:11 [FirstSquawk] Asia-Pacific markets start mostly lower as surging oil prices and Middle East supply risks pressure sentiment, while traders weigh potential Fed and BOJ rate hikes this week.
-- 09/14 09:11 [FirstSquawk] China’s defence forum opens against a backdrop of rising regional tensions, putting Beijing’s security priorities and military diplomacy under closer scrutiny.
-- 09/14 09:15 [FirstSquawk] Oil jumps more than 3% as fresh Middle East developments deepen supply concerns and a planned Strait of Hormuz meeting is delayed, adding to market uncertainty.
-- 09/14 09:15 [FirstSquawk] HONG KONG CHIEF EXECUTIVE JOHN LEE SAYS THE CITY’S FIRST FIVE-YEAR PLAN WILL PRESERVE ITS CAPITALIST SYSTEM, RULE OF LAW AND “ONE COUNTRY, TWO SYSTEMS” FRAMEWORK, WHILE KEEPING THE FREE FLOW OF CAPITAL, PEOPLE, GOODS AND INFORMATION. LEE SA…
-- 09/14 09:20 [FirstSquawk] Two U.S. Air Force officers were forced to eject over Iran in April after their F-15E was shot down, landing separately near Isfahan as Iranian forces searched the area.
-- 09/14 09:23 [financialjuice] China PBOC likely to fix yuan midpoint at 6.7083 per dollar: estimate
-- 09/14 09:24 [FirstSquawk] Higher oil prices are strengthening the case for rate hikes, as renewed energy-cost pressures raise concerns over inflation and could complicate central banks’ policy decisions.
-- 09/14 09:24 [FirstSquawk] Middle East tensions are tightening global oil supplies, with Houthi activity in Yemen adding pressure to another key energy corridor and increasing risks for regional energy flows.
-- 09/14 09:26 [FirstSquawk] Nikkei slides 1.6% as chipmakers and metals stocks come under pressure, weighing on Japan’s broader equity market.
 - 09/14 09:29 [FirstSquawk] Trump signals the U.S. could remain in Iran and take control of its oil, raising the stakes for Washington’s role in the country and adding another layer of uncertainty to global energy markets - cablefxmacro
 - 09/14 09:32 [FirstSquawk] The Kennedy Center is reportedly on the verge of bankruptcy, with the Washington Post reporting that the Washington arts institution could face closure as soon as Tuesday.
 - 09/14 09:34 [FirstSquawk] SpaceX marks a major milestone as **Falcon completes its 700th flight**, with Elon Musk congratulating the team behind the rocket program.
@@ -616,3 +604,20 @@
 - 09/15 08:50 [financialjuice] CanSemi Technology Inc plans to sell 512.64 million shares in Shenzhen listing
 - 09/15 08:54 [FirstSquawk] JAPAN EARLY TRADE: NIKKEI FUTURES SLIDE 0.46%, WHILE 10-YEAR JGB FUTURES DROP 0.18 POINT.
 - 09/15 08:55 [FirstSquawk] NATO FIGHTER JETS SHOT DOWN A DRONE THAT VIOLATED LITHUANIA'S AIRSPACE OVER KAUNAS COUNTY, PROMPTING AN AIR ALERT AND TEMPORARY FLIGHT RESTRICTIONS AT VILNIUS AIRPORT. THE ALERT AND RESTRICTIONS WERE LIFTED AFTER THE DRONE WAS DESTROYED, WI…
+- 09/15 09:04 [financialjuice] S. KOREAN TRADE BALANCE REVISED ACTUAL 34.79B (FORECAST -, PREVIOUS 34.75B) $MACRO
+- 09/15 09:04 [financialjuice] S. KOREAN EXPORTS REVISED ACTUAL 68.7% (FORECAST -, PREVIOUS 68.7%) $MACRO
+- 09/15 09:04 [financialjuice] S. KOREAN IMPORTS REVISED ACTUAL 22.4% (FORECAST -, PREVIOUS 22.5%) $MACRO
+- 09/15 09:05 [financialjuice] Unisound AI Technology Co releases U2-Flash, next-gen high-density intelligent model
+- 09/15 09:08 [financialjuice/FirstSquawk] Microsoft CEO Satya Nadella urges AI industry to prioritize safety, maintain human control: Business Insider
+- 09/15 09:11 [FirstSquawk] Unisound AI Technology unveils U2-FLASH, a new high-density intelligent model aimed at advancing its next-generation AI capabilities.
+- 09/15 09:11 [FirstSquawk] NVIDIA CEO JENSEN HUANG TOOK A LIVE PHONE CALL FROM DONALD TRUMP DURING AN ON-STAGE PANEL, WITH BOTH REJECTING CALLS TO SLOW ADVANCED AI DEVELOPMENT AND ARGUING THE U.S. MUST MAINTAIN ITS AI LEAD OVER CHINA. HUANG SAID AI SAFETY AND INNOVAT…
+- 09/15 09:11 [FirstSquawk] Microsoft CEO Satya Nadella calls on the AI industry to put safety first and ensure humans remain in control as the technology advances - BI
+- 09/15 09:13 [FirstSquawk] Japan’s heavy reliance on LNG is complicating its response to Putin’s visit to the disputed Kuril Islands, highlighting the tension between energy security and diplomacy.
+- 09/15 09:16 [FirstSquawk] Oil prices climb sharply as global equities slide and government bond yields move higher, signaling renewed pressure across financial markets.
+- 09/15 09:19 [FirstSquawk] Asian markets open weaker after Wall Street’s broad decline, with tech stocks under pressure as investors weigh calls for a slower pace of AI development
+- 09/15 09:20 [FirstSquawk] OpenAI is reportedly training ChatGPT to sound less human-like and reduce sycophantic responses, according to 404 Media.
+- 09/15 09:22 [FirstSquawk] NATO aircraft intercepted and destroyed a drone over Lithuanian territory, President Gitanas Nausėda said, citing AFP.
+- 09/15 09:22 [FirstSquawk] U.S. Supreme Court blocks the Postal Service from imposing new mail-in voting restrictions ahead of the congressional midterms, dealing a setback to the Trump administration - BBG
+- 09/15 09:23 [FirstSquawk] Japan’s long-dated bond yields edge higher as rising energy costs fuel fresh inflation concerns , citing WSJ
+- 09/15 09:25 [FirstSquawk] China pushes back against calls to curb the development of advanced AI, signaling continued momentum behind its technology ambitions.
+- 09/15 09:27 [financialjuice] China PBOC seen setting yuan midpoint at 6.7051 per dollar: estimate
