@@ -7,49 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 06:44 JST／対象: 09/16 00:44 〜 09/16 06:44 JST（時刻はすべて日本時間）
+生成: 2026-09-16 06:58 JST／対象: 09/16 00:58 〜 09/16 06:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/16 00:50 | 09/16 05:01 | ⚠ 57分（03:03→04:01） |
-| FirstSquawk | 93 | 09/16 00:47 | 09/16 06:39 | 41分（01:25→02:06） |
-| financialjuice | 69 | 09/16 00:49 | 09/16 06:37 | 38分（05:04→05:43） |
+| DeItaone | 14 | 09/16 01:01 | 09/16 05:01 | ⚠ 57分（03:03→04:01） |
+| FirstSquawk | 79 | 09/16 00:59 | 09/16 06:49 | 41分（01:25→02:06） |
+| financialjuice | 63 | 09/16 00:59 | 09/16 06:57 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 171 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 148 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 00:47 [FirstSquawk] BESSENT RESPONDS TO QUESTIONS ABOUT WHETHER $5,000 CHECKS REQUIRE CONGRESSIONAL APPROVAL.
-- 09/16 00:47 [FirstSquawk] BESSENT SAID GOP'S NOVEMBER WIN WOULD INVOLVE $5,000 CHECKS.
-- 09/16 00:47 [FirstSquawk] US TREASURY SECRETARY BESSENT SAYS AI NEEDS TO BE ADDRESSED FOR INNOVATION AND SAFETY.
-- 09/16 00:47 [FirstSquawk] US TREASURY SECRETARY BESSENT STATED THAT THE BOND BUYBACK INTERVENTION BY THE TREASURY WAS SUCCESSFUL.
-- 09/16 00:47 [FirstSquawk] US TREASURY SECRETARY BESSENT ANNOUNCED THAT TWO RECENT TREASURY AUCTIONS HAVE BEEN AMONG THE MOST SUCCESSFUL IN THE LAST 20 YEARS.
-- 09/16 00:47 [FirstSquawk] BESSENT INDICATES THAT WORK IS 'UNDERWAY' ON OFFSETTING $5,000 CHECKS.
-- 09/16 00:47 [FirstSquawk] BESSENT URGES LAWMAKERS TO KEEP AI LIABILITY RULES IN PLACE.
-- 09/16 00:48 [FirstSquawk] BESSENT SAYS AI COMPANIES SHOULD NOT BE ALLOWED A 'BLANK CHECK ON LIABILITY.'
-- 09/16 00:48 [FirstSquawk] BESSENT STATED THAT WITH ARGENTINA, THEY HAD A COMPLETELY COLLATERALIZED SWAP LINE.
-- 09/16 00:49 [financialjuice] US Treasury Secretary Bessent: We had been in constant dialog on Japan interventions.
-- 09/16 00:49 [financialjuice] US Treasury Secretary Bessent: US used nominal amount for yen intervention.
-- 09/16 00:50 [DeItaone] RUSSIAN OIL PREMIUMS SURGE AS MIDDLE EAST SUPPLY TIGHTENS Russian Urals crude premiums in India jumped to $8/barrel over Brent, up from around $1 in August and the highest since May. Middle East supply disruptions are pushing Indian and Chi…
-- 09/16 00:50 [financialjuice] US Treasury's Bessent: Stronger yen is better for US exporters.
-- 09/16 00:50 [financialjuice] US Treasury Secretary Bessent: US made tens of mlns of dollars on yen intervention.
-- 09/16 00:51 [financialjuice] US Energy Secretary Wright on Saudis and oil: I think will see pipeline running again very soon - CNBC Interview
-- 09/16 00:51 [financialjuice] US Energy Secretary Wright: I think pipeline opening will be measured in days.
-- 09/16 00:52 [FirstSquawk] BESSENT EARNED MILLIONS FROM PREVIOUS ASSISTANCE TO ARGENTINA.
-- 09/16 00:52 [FirstSquawk] BESSENT STATED THEY WERE ALWAYS IN COMMUNICATION ABOUT JAPAN'S INTERVENTIONS.
-- 09/16 00:52 [DeItaone] BESSENT: FOR A NOMINAL AMOUNT, THE U.S. TREASURY WAS ABLE TO SIGNAL SUPPORT FOR JAPANESE POLICIES
-- 09/16 00:52 [FirstSquawk] BESSENT SAYS A STRONGER YEN BENEFITS U.S. EXPORTS.
-- 09/16 00:52 [FirstSquawk] U.S. ENERGY SECRETARY WRIGHT EXPECTS OIL PIPELINES IN SAUDI ARABIA TO OPERATE AGAIN SOON, ACCORDING TO A CNBC INTERVIEW.
-- 09/16 00:52 [FirstSquawk] WRIGHT BELIEVES THE PIPELINE OPENING WILL OCCUR IN A FEW DAYS.
-- 09/16 00:52 [FirstSquawk] STRONGER YEN MEANS JAPAN CAN AVOID SELLING US ASSETS, SAYS BESSENT.
-- 09/16 00:52 [financialjuice] US Treasury Secretary Bessent: For a nominal amount, US Treasury was able to signal support for Japanese policies
-- 09/16 00:54 [financialjuice] US Energy Secretary Wright's interview on CNBC ends
-- 09/16 00:57 [DeItaone] U.S., GULF STATES EXPAND HORMUZ TANKER TRANSITS The U.S. military and Gulf countries have begun conducting daytime tanker transits through the Strait of Hormuz, according to a U.S. official cited by Axios. Previously, escorted transits had …
 - 09/16 00:59 [financialjuice] US Treasury Secretary Bessent: We do not set equilibrium price for yield levels.
 - 09/16 00:59 [FirstSquawk] BESSENT STATES THEY DO NOT DETERMINE THE BALANCE PRICE FOR YIELD LEVELS AND BELIEVES THEY HAVE THE REQUIRED TOOLS.
 - 09/16 01:01 [financialjuice] US Treasury Secretary Bessent: The need to address deficit is one factor affecting 10-year treasury bond yield
@@ -195,3 +169,6 @@
 - 09/16 06:36 [financialjuice] Nvidia CEO Huang to attend U.S. state dinner for China's Xi, source familiar
 - 09/16 06:37 [financialjuice] Kraken investigating issue with Cardano funding gateway, withdrawals may be delayed
 - 09/16 06:39 [FirstSquawk] US WEIGHS BUYING WARSHIPS FROM JAPAN, SOUTH KOREA TO COUNTER CHINA, ACCORDING TO NIKKEI
+- 09/16 06:49 [FirstSquawk] THE U.S. IS PREPARING A $2.8 BILLION WEAPONS PACKAGE FOR ISRAEL, INCLUDING 40,000 HEAVY BOMBS AND 20,000 PENETRATOR WARHEADS, ACCORDING TO AP. THE PROPOSED PACKAGE INCLUDES 20,000 MK-84 2,000-POUND BOMBS, 20,000 BLU-117 BOMBS AND 20,000 I-2…
+- 09/16 06:56 [financialjuice] OpenAI considers funding round at $0.2tn valuation ahead of IPO - FT
+- 09/16 06:57 [financialjuice] OpenAI weighs funding round at $1.2tn valuation before IPO: FT

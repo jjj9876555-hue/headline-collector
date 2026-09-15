@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 06:44 JST／対象: 09/15 18:44 〜 09/16 06:44 JST（時刻はすべて日本時間）
+生成: 2026-09-16 06:58 JST／対象: 09/15 18:58 〜 09/16 06:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 09/15 18:44 | 09/16 05:01 | ⚠ 60分（20:28→21:28） |
-| FirstSquawk | 213 | 09/15 18:53 | 09/16 06:39 | 41分（01:25→02:06） |
-| financialjuice | 153 | 09/15 21:05 | 09/16 06:37 | 38分（05:04→05:43） |
+| DeItaone | 52 | 09/15 19:17 | 09/16 05:01 | ⚠ 60分（20:28→21:28） |
+| FirstSquawk | 213 | 09/15 19:01 | 09/16 06:49 | 41分（01:25→02:06） |
+| financialjuice | 155 | 09/15 21:05 | 09/16 06:57 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 406 行（統合前 421 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 407 行（統合前 422 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 18:44 [DeItaone] INVESTORS TURN CAUTIOUS AS BOND YIELDS SURGE Investor enthusiasm for stocks is fading as rising bond yields and U.S. midterm uncertainty weigh on sentiment, BofA’s fund manager survey shows. Global equity overweight fell to 49% from 56%, wh…
-- 09/15 18:53 [FirstSquawk] OMAN SAYS OIL TANKER ELGAIA BEING TOWED TO OMANI PORT AFTER FIRE IN ENGINE ROOM FOLLOWING ATTACK OFF OMANI COAST
 - 09/15 19:01 [FirstSquawk] ITALY SENATE APPROVES MELONI'S ELECTORAL REFORM
 - 09/15 19:05 [FirstSquawk] U.S. SPECIAL ENVOY COALE: U.S. HAS CALLED ON BANKS TO UNFREEZE BELARUS’S FROZEN ASSETS - RIA
 - 09/15 19:11 [FirstSquawk] GRAB WILL ACQUIRE A 60% SHARE IN ATOME FINANCIAL FOR $1.49 BILLION IN CASH.
@@ -430,3 +428,6 @@
 - 09/16 06:36 [financialjuice] Nvidia CEO Huang to attend U.S. state dinner for China's Xi, source familiar
 - 09/16 06:37 [financialjuice] Kraken investigating issue with Cardano funding gateway, withdrawals may be delayed
 - 09/16 06:39 [FirstSquawk] US WEIGHS BUYING WARSHIPS FROM JAPAN, SOUTH KOREA TO COUNTER CHINA, ACCORDING TO NIKKEI
+- 09/16 06:49 [FirstSquawk] THE U.S. IS PREPARING A $2.8 BILLION WEAPONS PACKAGE FOR ISRAEL, INCLUDING 40,000 HEAVY BOMBS AND 20,000 PENETRATOR WARHEADS, ACCORDING TO AP. THE PROPOSED PACKAGE INCLUDES 20,000 MK-84 2,000-POUND BOMBS, 20,000 BLU-117 BOMBS AND 20,000 I-2…
+- 09/16 06:56 [financialjuice] OpenAI considers funding round at $0.2tn valuation ahead of IPO - FT
+- 09/16 06:57 [financialjuice] OpenAI weighs funding round at $1.2tn valuation before IPO: FT
