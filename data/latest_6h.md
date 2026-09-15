@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 19:18 JST／対象: 09/15 13:18 〜 09/15 19:18 JST（時刻はすべて日本時間）
+生成: 2026-09-15 19:33 JST／対象: 09/15 13:33 〜 09/15 19:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/15 16:20 | 09/15 19:17 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 97 | 09/15 13:25 | 09/15 19:13 | 15分（15:46→16:01） |
+| DeItaone | 9 | 09/15 16:20 | 09/15 19:30 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 98 | 09/15 13:43 | 09/15 19:31 | 15分（15:46→16:01） |
 | financialjuice | 22 | 09/15 14:16 | 09/15 15:11 | 23分（14:16→14:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 124 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 129 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 13:25 [FirstSquawk] US manufacturers see supply-chain costs accelerate again.
-- 09/15 13:30 [FirstSquawk] Saudi Arabia faces new Houthi strikes amid stalled talks over the Strait of Hormuz.
-- 09/15 13:32 [FirstSquawk] Japan’s tertiary industry activity rebounds 0.4% in July, beating the 0.3% forecast.
 - 09/15 13:43 [FirstSquawk] Japanese yen stays weaker as traders await the Fed, while the BoJ meeting looms.
 - 09/15 13:44 [FirstSquawk] Japan considers adding drone-based defense options as part of new policies, Reuters reports.
 - 09/15 13:53 [FirstSquawk] Oil extends gains following Houthi strikes on Saudi Arabia - CNBC
@@ -148,3 +145,11 @@
 - 09/15 19:11 [FirstSquawk] GRAB WILL ACQUIRE A 60% SHARE IN ATOME FINANCIAL FOR $1.49 BILLION IN CASH.
 - 09/15 19:13 [FirstSquawk] RUSSIA HAS ISSUED A WARNING TO DENMARK OVER 'DANGEROUS MANOEUVRES' BY DANISH HELICOPTERS - RIA
 - 09/15 19:17 [DeItaone] SAUDI OIL EXPORTS PIVOT EAST Damage to Saudi Arabia’s East-West Pipeline could cut Yanbu exports by 2.5–2.7 million bpd for up to six weeks, according to Kpler. Saudi Arabia can redirect roughly 3 million bpd through Ras Tanura, but that in…
+- 09/15 19:20 [DeItaone] KREMLIN: WE THINK TRUMP'S PROPOSAL ON CEASEFIRE WITH UKRAINE ON ENERGY TARGETS IS A GOOD IDEA
+- 09/15 19:21 [DeItaone] KREMLIN: IF SANCTIONS ARE LIFTED, WORLD ENERGY PRICES WILL GO DOWN
+- 09/15 19:22 [FirstSquawk] PESKOV CALLS TRUMP ENERGY RUSSIA-UKRAINE TRUCE IDEA GOOD: IFX
+- 09/15 19:24 [DeItaone] KREMLIN BACKS RUSSIA-UKRAINE ENERGY TRUCE The Kremlin welcomed Trump’s proposal for Russia and Ukraine to stop attacking each other’s energy infrastructure. Trump said both sides had agreed to the moratorium. Moscow also called for sanction…
+- 09/15 19:25 [FirstSquawk] WELLS FARGO DOWNGRADES US TECHNOLOGY SECTOR TO EQUAL WEIGHT FROM OVERWEIGHT
+- 09/15 19:30 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:15 AM ET — 🇺🇸 ADP Weekly Employment Estimate 8:30 AM ET — 🇺🇸 Empire State Manufacturing 11:30 AM ET — 🇺🇸 6-Week Treasury Auction 1:00 PM ET — 🇺🇸 20-Year Treasury Auction 4:30 PM ET — 🛢️ API Oil Invent…
+- 09/15 19:31 [FirstSquawk] CARNEY WILL SPEAK AND HAVE A PRESS CONFERENCE ON THE SECOND DAY OF THE INVESTMENT SUMMIT.
+- 09/15 19:31 [FirstSquawk] CHINA IS AT THE CENTER OF DISCUSSIONS ON SLOWING FRONTIER AI DUE TO SAFETY ISSUES AND US-CHINA TENSIONS.
