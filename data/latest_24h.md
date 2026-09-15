@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 11:53 JST／対象: 09/14 11:53 〜 09/15 11:53 JST（時刻はすべて日本時間）
+生成: 2026-09-15 12:18 JST／対象: 09/14 12:18 〜 09/15 12:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 321 | 09/14 11:53 | 09/15 11:47 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 267 | 09/14 12:23 | 09/15 11:46 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 321 | 09/14 12:20 | 09/15 12:13 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 271 | 09/14 12:23 | 09/15 12:09 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 615 行（統合前 646 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 619 行（統合前 650 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 11:53 [FirstSquawk] The dollar rises 0.3% against the yen to 154.02, extending gains in the currency pair.
-- 09/14 11:56 [FirstSquawk] House Speaker Mike Johnson says Congress would need to approve President Trump’s proposed $5,000 dividend, indicating the plan cannot move forward without lawmakers’ backing.
-- 09/14 12:02 [FirstSquawk] North Korea says it has tested weapons capable of striking South Korea, describing the systems as having “huge destructive power” amid heightened regional tensions.
-- 09/14 12:13 [FirstSquawk] Qatar eyes a bigger role in China’s growing Gulf logistics push as trade routes face disruption.
 - 09/14 12:20 [FirstSquawk] Goldman Sachs now expects the Fed to raise rates by 25 basis points this week, reversing its earlier call for no change, with the shift driven more by market pricing than its economic outlook.
 - 09/14 12:23 [FirstSquawk] Hong Kong’s five-year plan will maintain its capitalist system and existing governing model, Chief Executive John Lee says, reaffirming the city’s policy direction under the “one country, two systems” framework.
 - 09/14 12:23 [financialjuice] World Bank: approves $300 million financing to back reforms in Uruguay
@@ -639,3 +635,11 @@
 - 09/15 11:43 [financialjuice] Explosion heard in Ukraine's Kyiv: source witness reports
 - 09/15 11:46 [financialjuice] Missile strike damages ozone warehouse in Russia's Taganrog, regional governor says
 - 09/15 11:47 [FirstSquawk] China’s August data points to persistent economic weakness as investment and consumption ease.
+- 09/15 11:54 [financialjuice] China statistics bureau: residents' spending ability and willingness need boosting, supply of quality goods and services should improve
+- 09/15 11:57 [FirstSquawk] Kpler data points to a sharp drop in Hormuz traffic: Bulk carrier crossings fell to 4 on Monday from 10 a day earlier.
+- 09/15 12:00 [financialjuice] S.Korea July M2 money supply rises 5.8% y/y vs 6.0% in June: central bank
+- 09/15 12:01 [financialjuice] China statistics bureau: forecasts steady growth for economy despite structural pressures
+- 09/15 12:03 [FirstSquawk] SOUTH KOREA (JUL) MONEY SUPPLY L SA MOM ACTUAL: -0.5% VS 0.8% PREVIOUS
+- 09/15 12:04 [FirstSquawk] SOUTH KOREA (JUL) MONEY SUPPLY M2 SA MOM ACTUAL: 0.3% VS 0.7% PREVIOUS
+- 09/15 12:09 [financialjuice] Drone strike damages industrial plant in Russia's Samara region: authorities
+- 09/15 12:13 [FirstSquawk] Industrial facility damaged by drone strike in Russia’s Samara region, authorities report.

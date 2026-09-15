@@ -7,33 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 11:53 JST／対象: 09/15 05:53 〜 09/15 11:53 JST（時刻はすべて日本時間）
+生成: 2026-09-15 12:18 JST／対象: 09/15 06:18 〜 09/15 12:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/15 07:36 | 09/15 07:36 | - |
-| FirstSquawk | 72 | 09/15 06:01 | 09/15 11:47 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 61 | 09/15 06:00 | 09/15 11:46 | 34分（07:55→08:29） |
+| FirstSquawk | 72 | 09/15 06:21 | 09/15 12:13 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 59 | 09/15 06:32 | 09/15 12:09 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 131 行（統合前 134 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 130 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 06:00 [financialjuice] S. KOREAN EXPORT PRICE YOY ACTUAL 42.4% (FORECAST -, PREVIOUS 49.1%) $MACRO
-- 09/15 06:00 [financialjuice] S. KOREAN IMPORT PRICE YOY ACTUAL 15.6% (FORECAST -, PREVIOUS 18.7%) $MACRO
-- 09/15 06:01 [FirstSquawk] TRUMP WANTED TO DISCUSS AI WITH NVIDIA CEO JENSEN HUANG; CALLED HUANG ON MONDAY - NYT
-- 09/15 06:03 [FirstSquawk] TRUMP: CLAIMS THAT AI WILL “TAKE OVER, CONSUME AND DESTROY” THE WORLD ARE A “HOAX,” COMPARING THEM TO PAST WARNINGS ABOUT GLOBAL WARMING. - TRUTH SOCIAL
-- 09/15 06:03 [FirstSquawk] TRUMP: HE SAYS FEARS THAT ROBOTS WILL ENTER CITIES, REPLACE PEOPLE AND “GET RID OF US ALL” ARE EVEN MORE EXTREME THAN PREVIOUS CLAIMS ABOUT RUSSIA AND UKRAINE. - TRUTH SOCIAL
-- 09/15 06:03 [FirstSquawk] TRUMP: HE ACCUSES RADICAL LEFT DEMOCRATS OF CONTINUING TO PUSH SUCH FEARS AND SAYS VOTERS WILL EVENTUALLY SEE THROUGH THEM. - TRUTH SOCIAL
-- 09/15 06:12 [financialjuice] World Bank president banga: to meet Senegalese president in Washington on Monday
-- 09/15 06:12 [financialjuice] S. Korea August export prices in won terms rise 42.4% y/y vs 48.9% in July: central bank
-- 09/15 06:13 [financialjuice] World Bank's Banga: wants Senegal to undergo common framework debt restructuring faster than previous cases
-- 09/15 06:14 [financialjuice/FirstSquawk] NATO military jets scrambled in Lithuania over possible drone near Vilnius: national crisis management centre
+- 09/15 06:21 [FirstSquawk] NATO MILITARY JETS SCRAMBLED IN LITHUANIA OVER POSSIBLE DRONE NEAR VILNIUS: NATIONAL CRISIS MANAGEMENT CENTRE
 - 09/15 06:21 [FirstSquawk] IRAN TOP SECURITY OFFICIAL REZAEE: U.S. PRESIDENT IS SENDING MIXED SIGNALS ON NEGOTIATIONS; IRAN WILL NOT ENTER TALKS UNTIL ITS CONDITIONS ARE FULLY MET.
 - 09/15 06:24 [FirstSquawk] US NAVY: AWARDS BOEING $562M CONTRACT FOR MQ-25A STINGRAY
 - 09/15 06:25 [FirstSquawk] TRUMP AI CZAR DAVID SACKS SAYS AI LABS CAN DEVELOP SAFE TECHNOLOGY WITHOUT MAKING ANTITRUST CONCESSIONS, REJECTING CALLS FOR GOVERNMENT-IMPOSED LIMITS ON AI DEVELOPMENT.
@@ -155,3 +146,11 @@
 - 09/15 11:43 [financialjuice] Explosion heard in Ukraine's Kyiv: source witness reports
 - 09/15 11:46 [financialjuice] Missile strike damages ozone warehouse in Russia's Taganrog, regional governor says
 - 09/15 11:47 [FirstSquawk] China’s August data points to persistent economic weakness as investment and consumption ease.
+- 09/15 11:54 [financialjuice] China statistics bureau: residents' spending ability and willingness need boosting, supply of quality goods and services should improve
+- 09/15 11:57 [FirstSquawk] Kpler data points to a sharp drop in Hormuz traffic: Bulk carrier crossings fell to 4 on Monday from 10 a day earlier.
+- 09/15 12:00 [financialjuice] S.Korea July M2 money supply rises 5.8% y/y vs 6.0% in June: central bank
+- 09/15 12:01 [financialjuice] China statistics bureau: forecasts steady growth for economy despite structural pressures
+- 09/15 12:03 [FirstSquawk] SOUTH KOREA (JUL) MONEY SUPPLY L SA MOM ACTUAL: -0.5% VS 0.8% PREVIOUS
+- 09/15 12:04 [FirstSquawk] SOUTH KOREA (JUL) MONEY SUPPLY M2 SA MOM ACTUAL: 0.3% VS 0.7% PREVIOUS
+- 09/15 12:09 [financialjuice] Drone strike damages industrial plant in Russia's Samara region: authorities
+- 09/15 12:13 [FirstSquawk] Industrial facility damaged by drone strike in Russia’s Samara region, authorities report.

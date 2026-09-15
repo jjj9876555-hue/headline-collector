@@ -7,42 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 11:53 JST／対象: 09/14 23:53 〜 09/15 11:53 JST（時刻はすべて日本時間）
+生成: 2026-09-15 12:18 JST／対象: 09/15 00:18 〜 09/15 12:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/15 00:08 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 139 | 09/14 23:54 | 09/15 11:47 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 149 | 09/14 23:53 | 09/15 11:46 | 34分（07:55→08:29） |
+| DeItaone | 15 | 09/15 00:24 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
+| FirstSquawk | 140 | 09/15 00:21 | 09/15 12:13 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 139 | 09/15 00:24 | 09/15 12:09 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 292 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 283 行（統合前 295 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 23:53 [financialjuice] Israeli Prime Minister Netanyahu warns Hezbollah against further attacks - Israel's Channel 12
-- 09/14 23:54 [FirstSquawk] EU PLANS TO RESTRICT SOCIAL MEDIA AND CHATBOTS FOR CHILDREN UNDER 15 YEARS OLD.
-- 09/14 23:54 [FirstSquawk] UK BUSINESS SECRETARY REYNOLDS SAYS THE UK CANNOT SUPPORT SPECIALTY STEEL UNDER THE CURRENT TERMS AND PLANS TO CREATE A PROPOSAL FOR PUBLIC ACQUISITION.
-- 09/14 23:54 [financialjuice] Israeli Prime Minister Netanyahu: Hezbollah will suffer heavier blows if it attacks again - Israel's Channel 12
-- 09/15 00:06 [financialjuice] ‼ BREAKING: Trump: Ukraine has agreed not to hit Russian energy targets.
-- 09/15 00:07 [financialjuice] Trump: Ukraine has agreed not to hit Russian energy targets. Russia has agreed to do likewise - Truth Social
-- 09/15 00:07 [financialjuice] Trump: World’s diesel price rise is caused by Russia-Ukraine war.
-- 09/15 00:07 [financialjuice] Trump: World’s diesel price rise not caused by Iran war.
-- 09/15 00:08 [financialjuice] Anthropic's Amodei and Openai's Altman spoke with US Senator Mark Warner over the weekend about AI risks - Senate Spokesperson.
-- 09/15 00:08 [DeItaone] TRUMP: UKRAINE HAS AGREED NOT TO HIT RUSSIAN ENERGY TARGETS, RUSSIA HAS AGREED TO DO, LIKEWISE
-- 09/15 00:08 [financialjuice] CME Group: 100-ounce Silver futures draw significant demand in first weekend of 24/7 trading.
-- 09/15 00:09 [DeItaone] ANTHROPIC'S AMODEI, OPENAI'S ALTMAN SPOKE WITH U.S. SENATOR MARK WARNER OVER THE WEEKEND ABOUT AI RISKS - SENATE SPOKESPERSON
-- 09/15 00:09 [financialjuice] Nvidia: Perplexity local agent platform now available on Windows RTX PCs. $NVDA $MSFT
-- 09/15 00:09 [FirstSquawk] TRUMP: UKRAINE HAS AGREED NOT TO HIT RUSSIAN ENERGY TARGETS. RUSSIA HAS AGREED TO DO, LIKEWISE! THE WORLD’S DIESEL PRICE RISE IS MOSTLY CAUSED BY THE RUSSIA/UKRAINE WAR, NOT IRAN. PRESIDENT DJT
-- 09/15 00:15 [financialjuice/FirstSquawk] ECB's President Lagarde: Europe must also build AI infrasctucture itself.
-- 09/15 00:16 [financialjuice/FirstSquawk] ECB's President Lagarde: Europe can’t simply import AI technologies from US.
-- 09/15 00:16 [financialjuice] Fed bids for 6-Month bills total $7.1 bln
-- 09/15 00:16 [financialjuice] Fed bids for 3-Month bills total $8.2 bln
-- 09/15 00:16 [financialjuice] ECB's President Lagarde's Speech on 'A new age of capital: growth, sovereignty and AI'
+- 09/15 00:21 [FirstSquawk] ECB'S PRESIDENT LAGARDE: EUROPE MUST ALSO BUILD AI INFRASCTUCTURE ITSELF.
+- 09/15 00:21 [FirstSquawk] ECB'S PRESIDENT LAGARDE: EUROPE CAN’T SIMPLY IMPORT AI TECHNOLOGIES FROM US.
 - 09/15 00:24 [financialjuice] Trump on AI/Data Centers: Don’t kill the Golden Goose - Truth Social
 - 09/15 00:24 [DeItaone] TRUMP: “DON’T KILL THE GOLDEN GOOSE” President Trump says America’s AI and data center boom is happening because the U.S. holds a commanding global lead. He urged against measures that could slow the industry’s expansion, warning policymake…
 - 09/15 00:25 [FirstSquawk] TRUMP: THE ONLY REASON THE AI/DATA CENTER OUTBURST IS HAPPENING IS BECAUSE THE UNITED STATES IS LEADING, BY A LOT, EVERY OTHER COUNTRY. DON’T KILL THE GOLDEN GOOSE! PRESIDENT DONALD J. TRUMP
@@ -316,3 +299,11 @@
 - 09/15 11:43 [financialjuice] Explosion heard in Ukraine's Kyiv: source witness reports
 - 09/15 11:46 [financialjuice] Missile strike damages ozone warehouse in Russia's Taganrog, regional governor says
 - 09/15 11:47 [FirstSquawk] China’s August data points to persistent economic weakness as investment and consumption ease.
+- 09/15 11:54 [financialjuice] China statistics bureau: residents' spending ability and willingness need boosting, supply of quality goods and services should improve
+- 09/15 11:57 [FirstSquawk] Kpler data points to a sharp drop in Hormuz traffic: Bulk carrier crossings fell to 4 on Monday from 10 a day earlier.
+- 09/15 12:00 [financialjuice] S.Korea July M2 money supply rises 5.8% y/y vs 6.0% in June: central bank
+- 09/15 12:01 [financialjuice] China statistics bureau: forecasts steady growth for economy despite structural pressures
+- 09/15 12:03 [FirstSquawk] SOUTH KOREA (JUL) MONEY SUPPLY L SA MOM ACTUAL: -0.5% VS 0.8% PREVIOUS
+- 09/15 12:04 [FirstSquawk] SOUTH KOREA (JUL) MONEY SUPPLY M2 SA MOM ACTUAL: 0.3% VS 0.7% PREVIOUS
+- 09/15 12:09 [financialjuice] Drone strike damages industrial plant in Russia's Samara region: authorities
+- 09/15 12:13 [FirstSquawk] Industrial facility damaged by drone strike in Russia’s Samara region, authorities report.
