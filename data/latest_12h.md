@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 16:03 JST／対象: 09/15 04:03 〜 09/15 16:03 JST（時刻はすべて日本時間）
+生成: 2026-09-15 16:28 JST／対象: 09/15 04:28 〜 09/15 16:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/15 04:06 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 158 | 09/15 04:03 | 09/15 16:01 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 106 | 09/15 04:03 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| DeItaone | 5 | 09/15 04:32 | 09/15 16:20 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 154 | 09/15 04:45 | 09/15 16:25 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 93 | 09/15 04:41 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 264 行（統合前 269 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 247 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 04:03 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM HAS AGREED TO SEND BRITISH MILITARY ADVISERS TO SAUDI ARABIA, THOUGH IT IS UNCLEAR WHETHER HE WILL APPROVE THE OTHER REQUESTS.
-- 09/15 04:03 [financialjuice] Fed extends pause on reserve management asset purchases to mid-October
-- 09/15 04:04 [financialjuice] Fed releases September-October Treasury bill purchase timetable
-- 09/15 04:04 [financialjuice] Fed to purchase $15.6 billion in bills for MBS reinvestment
-- 09/15 04:05 [financialjuice] US Interior Secretary Burgum: Oil export bans would be unlikely to help lower energy prices, but all options are on the table -Press Conference.
-- 09/15 04:05 [financialjuice] US Interior Secretary Burgum: I see the possibility of Venezuelan coal exports as part of deals with the US.
-- 09/15 04:06 [DeItaone] IRAN'S IRGC: OIL TANKER EXPLODED AFTER COLLIDING WITH MINES IN STRAIT OF HORMUZ AND CAUGHT FIRE - IRAN'S FARS
-- 09/15 04:06 [FirstSquawk] UK BANKS LAUNCH FUNDRAISING EFFORT TO CREATE A NEW PAYMENTS GIANT: SKY.
-- 09/15 04:06 [financialjuice] US sanction VTB Bank for Iranian sanctions evasion involvement - Treasury.
-- 09/15 04:07 [FirstSquawk] SATELLITE IMAGERY SHOWS TWO SAUDI PIPELINE PUMP STATIONS WERE HIT IN THE SEPTEMBER 10 DRONE ATTACK — ONE NEAR MEDINA WITH A 12-HECTARE BURN SCAR AND OIL SPILLING INTO THE DESERT, AND ANOTHER AT PUMP STATION 9, ALSO HIT IN 2019, WITH DAMAGE …
-- 09/15 04:07 [FirstSquawk] THE PIPELINE, WHICH CARRIED 4-5 MLN BARRELS A DAY AS SAUDI ARABIA'S HORMUZ BYPASS, REMAINS OFFLINE AS OF TODAY, WITH REPAIR ESTIMATES RANGING FROM DAYS FOR A PARTIAL RESTART TO 6-8 WEEKS FOR FULL CAPACITY, AS THE U.S. ENERGY SECRETARY SAYS …
-- 09/15 04:08 [FirstSquawk] US INTERIOR SECRETARY BURGUM: VENEZUELAN COAL EXPORTS COULD BE PART OF POTENTIAL DEALS WITH THE U.S. || OIL EXPORT BANS ARE UNLIKELY TO LOWER ENERGY PRICES, BUT ALL OPTIONS REMAIN ON THE TABLE.
-- 09/15 04:08 [financialjuice] Iran's President Pezeshkian: How can we negotiate with the United States, when they have never honored their commitments?
-- 09/15 04:09 [financialjuice] Iran's President Pezeshkian: Our demands are the same as our previous demands.
-- 09/15 04:09 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN: IRAN CANNOT NEGOTIATE WITH THE U.S. AS WASHINGTON HAS NEVER HONORED ITS COMMITMENTS.
-- 09/15 04:09 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN: IRAN'S DEMANDS REMAIN UNCHANGED FROM ITS PREVIOUS DEMANDS.
-- 09/15 04:11 [financialjuice] Iran's President Pezeshkian: We have no intention of going to war with Saudi Arabia.
-- 09/15 04:12 [financialjuice] Iran's President Pezeshkian: Countries in the region can create security and a dynamic economy through cooperation.
-- 09/15 04:15 [financialjuice] Trump met with OpenAI’s Altman at the GOP Convention - MS Now.
-- 09/15 04:16 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN: IRAN HAS NO INTENTION OF GOING TO WAR WITH SAUDI ARABIA; REGIONAL COOPERATION CAN ENSURE SECURITY AND DRIVE ECONOMIC GROWTH.
-- 09/15 04:17 [financialjuice] Trump privately met with OpenAI’s Sam Altman at GOP convention
-- 09/15 04:22 [FirstSquawk] TRUMP PRIVATELY MET OPENAI'S SAM ALTMAN AT GOP CONVENTION AFTER ALTMAN REQUESTED THE MEETING.
-- 09/15 04:26 [financialjuice] Tuesday FX Option Expiries
 - 09/15 04:32 [DeItaone] TRUMP, ALTMAN SPLIT OVER AI SAFETY President Trump privately met OpenAI CEO Sam Altman last week to discuss AI and its growing power, according to MS NOW. Days later, their positions diverged sharply. Altman backed slowing frontier AI devel…
 - 09/15 04:41 [financialjuice/FirstSquawk] Houthis Spokesman: Yemeni Armed Forces successfully intercepted two Saudi Arabian fighter jets - IRIB.
 - 09/15 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -166.6 MLN NASDAQ 100: 120.0 MLN DOW 30: -96.0 MLN MAG 7: 365.0 MLN $MACRO
@@ -288,3 +265,9 @@
 - 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI MoM ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7% SPAIN (AUG) CPI YoY ACTUAL: 4.3% VS 4.3% PREVIOUS;EST 4.3%
 - 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI CORE YOY ACTUAL: 2.9% VS 2.9% PREVIOUS;EST 2.9% SPAIN (AUG) CPI CORE MOM ACTUAL: 0.3% VS -0.1% PREVIOUS
 - 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI EU Harmonized MoM ACTUAL: 0.7% VS 0.6% PREVIOUS;EST 0.6% SPAIN (AUG) CPI EU Harmonized YoY ACTUAL: 4.6% VS 4.5% PREVIOUS;EST 4.5%
+- 09/15 16:12 [FirstSquawk] SAUDI CIVIL DEFENCE: DANGER HAS PASSED
+- 09/15 16:17 [FirstSquawk] ABS-CBN TO RETRENCH 200 EMPLOYEES, OR 7% OF WORKFORCE
+- 09/15 16:17 [FirstSquawk] TSMC IS BEING "CONSERATIVE" WHEN USING AI FOR TECH DEVELOPMENT
+- 09/15 16:19 [FirstSquawk] JAPAN AIR SELF-DEFENSE FORCE'S GLOBAL HAWK DRONE HAS DISAPPEARED.
+- 09/15 16:20 [DeItaone] U.S. WAR IN IRAN STRAINS MUNITIONS STOCKPILES Heavy U.S. weapons use during Operation Epic Fury has caused strategic inventory shortages and exposed production bottlenecks, according to the Pentagon inspector general. The Pentagon estimated…
+- 09/15 16:25 [FirstSquawk] IRAN'S IRGC CLAIMS TO HAVE TAKEN DOWN A FOURTH MQ-1 DRONE IN FOUR DAYS NEAR THE STRAIT OF HORMUZ USING A NEW AIR DEFENSE SYSTEM.

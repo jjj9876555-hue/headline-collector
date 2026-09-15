@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 16:03 JST／対象: 09/14 16:03 〜 09/15 16:03 JST（時刻はすべて日本時間）
+生成: 2026-09-15 16:28 JST／対象: 09/14 16:28 〜 09/15 16:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 324 | 09/14 16:41 | 09/15 16:01 | ⚠ 107分（07:07→08:54） |
+| DeItaone | 55 | 09/14 16:28 | 09/15 16:20 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 329 | 09/14 16:41 | 09/15 16:25 | ⚠ 107分（07:07→08:54） |
 | financialjuice | 267 | 09/14 16:29 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 618 行（統合前 649 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 624 行（統合前 655 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -642,3 +642,9 @@
 - 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI MoM ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7% SPAIN (AUG) CPI YoY ACTUAL: 4.3% VS 4.3% PREVIOUS;EST 4.3%
 - 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI CORE YOY ACTUAL: 2.9% VS 2.9% PREVIOUS;EST 2.9% SPAIN (AUG) CPI CORE MOM ACTUAL: 0.3% VS -0.1% PREVIOUS
 - 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI EU Harmonized MoM ACTUAL: 0.7% VS 0.6% PREVIOUS;EST 0.6% SPAIN (AUG) CPI EU Harmonized YoY ACTUAL: 4.6% VS 4.5% PREVIOUS;EST 4.5%
+- 09/15 16:12 [FirstSquawk] SAUDI CIVIL DEFENCE: DANGER HAS PASSED
+- 09/15 16:17 [FirstSquawk] ABS-CBN TO RETRENCH 200 EMPLOYEES, OR 7% OF WORKFORCE
+- 09/15 16:17 [FirstSquawk] TSMC IS BEING "CONSERATIVE" WHEN USING AI FOR TECH DEVELOPMENT
+- 09/15 16:19 [FirstSquawk] JAPAN AIR SELF-DEFENSE FORCE'S GLOBAL HAWK DRONE HAS DISAPPEARED.
+- 09/15 16:20 [DeItaone] U.S. WAR IN IRAN STRAINS MUNITIONS STOCKPILES Heavy U.S. weapons use during Operation Epic Fury has caused strategic inventory shortages and exposed production bottlenecks, according to the Pentagon inspector general. The Pentagon estimated…
+- 09/15 16:25 [FirstSquawk] IRAN'S IRGC CLAIMS TO HAVE TAKEN DOWN A FOURTH MQ-1 DRONE IN FOUR DAYS NEAR THE STRAIT OF HORMUZ USING A NEW AIR DEFENSE SYSTEM.

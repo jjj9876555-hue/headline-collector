@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 16:03 JST／対象: 09/15 10:03 〜 09/15 16:03 JST（時刻はすべて日本時間）
+生成: 2026-09-15 16:28 JST／対象: 09/15 10:28 〜 09/15 16:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 99 | 09/15 10:03 | 09/15 16:01 | 15分（15:46→16:01） |
-| financialjuice | 64 | 09/15 10:19 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| DeItaone | 1 | 09/15 16:20 | 09/15 16:20 | - |
+| FirstSquawk | 95 | 09/15 10:31 | 09/15 16:25 | 15分（15:46→16:01） |
+| financialjuice | 61 | 09/15 10:31 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 163 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 157 行（統合前 157 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 10:03 [FirstSquawk] Huawei’s US court battle intensifies as the jury weighs a case tied to China and Iran.
-- 09/15 10:07 [FirstSquawk] Iran’s Revolutionary Guards report an oil tanker explosion in the strategically vital Strait of Hormuz.
-- 09/15 10:10 [FirstSquawk] Polish armed forces launch air operations as Russian drones strike targets across Ukraine.
-- 09/15 10:14 [FirstSquawk] Brent crude prices advance about 1%, reaching the $107-a-barrel mark.
-- 09/15 10:14 [FirstSquawk] Emergency UN Security Council meeting set for tonight to address the latest developments in Bab al-Mandab, according to Al Arabiya.
-- 09/15 10:18 [FirstSquawk] Zelensky says Kyiv is prepared to lower tensions if Moscow responds with its own de-escalatory measures.
-- 09/15 10:19 [financialjuice] China sets yuan mid-point at strongest level since February 3, 2023
-- 09/15 10:21 [FirstSquawk] China to release its latest 70-city residential property price data in 10 minutes, with markets watching for signs of recovery.
-- 09/15 10:22 [financialjuice] China cbank: 7-day reverse repo volume at zero Tuesday amid primary dealer demand - statement
-- 09/15 10:22 [financialjuice] China cbank injects 597 bln yuan via overnight reverse repos: statement
-- 09/15 10:22 [FirstSquawk] China’s central bank sets the yuan reference rate at 6.7670, from 6.7698 in the prior fixing.
-- 09/15 10:24 [FirstSquawk] Donald Trump Jr.’s Bahamas wedding after-party was reportedly financed by a Russian businessman.
 - 09/15 10:31 [financialjuice] CHINESE NEW HOUSE PRICES YOY ACTUAL -3.0% (FORECAST -, PREVIOUS -3.2%) $MACRO
 - 09/15 10:31 [financialjuice] China Aug Guangzhou new home prices fall 1.9% y/y after July 2.2% decline: stats bureau
 - 09/15 10:31 [financialjuice] China Aug Guangzhou new home prices up 0.1% m/m (July 0.1%): stats bureau
@@ -187,3 +175,9 @@
 - 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI MoM ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7% SPAIN (AUG) CPI YoY ACTUAL: 4.3% VS 4.3% PREVIOUS;EST 4.3%
 - 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI CORE YOY ACTUAL: 2.9% VS 2.9% PREVIOUS;EST 2.9% SPAIN (AUG) CPI CORE MOM ACTUAL: 0.3% VS -0.1% PREVIOUS
 - 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI EU Harmonized MoM ACTUAL: 0.7% VS 0.6% PREVIOUS;EST 0.6% SPAIN (AUG) CPI EU Harmonized YoY ACTUAL: 4.6% VS 4.5% PREVIOUS;EST 4.5%
+- 09/15 16:12 [FirstSquawk] SAUDI CIVIL DEFENCE: DANGER HAS PASSED
+- 09/15 16:17 [FirstSquawk] ABS-CBN TO RETRENCH 200 EMPLOYEES, OR 7% OF WORKFORCE
+- 09/15 16:17 [FirstSquawk] TSMC IS BEING "CONSERATIVE" WHEN USING AI FOR TECH DEVELOPMENT
+- 09/15 16:19 [FirstSquawk] JAPAN AIR SELF-DEFENSE FORCE'S GLOBAL HAWK DRONE HAS DISAPPEARED.
+- 09/15 16:20 [DeItaone] U.S. WAR IN IRAN STRAINS MUNITIONS STOCKPILES Heavy U.S. weapons use during Operation Epic Fury has caused strategic inventory shortages and exposed production bottlenecks, according to the Pentagon inspector general. The Pentagon estimated…
+- 09/15 16:25 [FirstSquawk] IRAN'S IRGC CLAIMS TO HAVE TAKEN DOWN A FOURTH MQ-1 DRONE IN FOUR DAYS NEAR THE STRAIT OF HORMUZ USING A NEW AIR DEFENSE SYSTEM.
