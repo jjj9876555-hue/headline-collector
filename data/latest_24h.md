@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 14:34 JST／対象: 09/14 14:34 〜 09/15 14:34 JST（時刻はすべて日本時間）
+生成: 2026-09-15 14:53 JST／対象: 09/14 14:53 〜 09/15 14:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 321 | 09/14 14:37 | 09/15 14:30 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 252 | 09/14 15:00 | 09/15 14:16 | ⚠ 126分（12:09→14:16） |
+| FirstSquawk | 321 | 09/14 14:54 | 09/15 14:49 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 255 | 09/14 15:00 | 09/15 14:46 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 600 行（統合前 631 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 603 行（統合前 634 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 14:37 [FirstSquawk] China is set to lay out a new five-year strategy for the new-energy vehicle sector, shaping the next phase of growth and development for the country’s EV industry.
-- 09/14 14:42 [FirstSquawk] Canadian PM Mark Carney says Canada is not seeking EU membership, but plans to begin discussions on a unique alliance with the European Union, deepening ties between Ottawa and Brussels.
-- 09/14 14:46 [FirstSquawk] An EU official says fragmented bank tax regimes across member states are hurting competitiveness, highlighting calls for a more consistent approach to banking taxation.
-- 09/14 14:49 [FirstSquawk] Trump says Canada is the “worst country to deal with”, while claiming Ottawa is eager to reach a new deal with Washington.
 - 09/14 14:54 [FirstSquawk] Russian forces launched drone attacks on Ukraine’s western Lviv region, with the heaviest damage reported in Stryi. No deaths or injuries were reported, while a residential building and an educational complex were damaged, according to CNBC…
 - 09/14 14:56 [FirstSquawk] Bangladesh says it must turn to the spot LNG market to replace 110 cargoes previously scheduled from Qatar, adding pressure to its gas supply arrangements.
 - 09/14 14:56 [FirstSquawk] Bangladesh’s energy minister says the LNG supply disruption has put significant pressure on the country’s economy, as Dhaka seeks replacement cargoes on the spot market.
@@ -624,3 +620,10 @@
 - 09/15 14:25 [FirstSquawk] EXXONMOBIL EXECUTIVE: MIDDLE EAST LNG SUPPLY DISRUPTION LIKELY TO REMAIN A SHORT-TERM ISSUE.
 - 09/15 14:30 [FirstSquawk] WON WEAKENS 0.8% AGAINST THE DOLLAR AS SOUTH KOREA'S CURRENCY TRAILS OTHER ASIAN EMERGING-MARKET PEERS.
 - 09/15 14:30 [FirstSquawk] DOLLAR-YEN RISES 14 PIPS TO 154.90 IN INTRADAY TRADING.
+- 09/15 14:37 [FirstSquawk] OMAN LNG SAYS ITS LONG-TERM PLANS REMAIN UNCHANGED DESPITE THE STRAIT OF HORMUZ CRISIS.
+- 09/15 14:39 [financialjuice] BoE to overhaul debt sales amid bond market turmoil - The Telegraph
+- 09/15 14:41 [FirstSquawk] The Bank of England could pause sales of 20-year and 30-year gilts under a planned overhaul of its gilt-sale programme aimed at addressing market turbulence, according to the Daily Telegraph.
+- 09/15 14:45 [financialjuice] Korea finance chief Nominee: Bond market needs close monitoring
+- 09/15 14:46 [financialjuice] South Korea to take steps to stabilize the bond market if needed
+- 09/15 14:47 [FirstSquawk] China steps up exit restrictions as part of broader measures to secure strategic technology.
+- 09/15 14:49 [FirstSquawk] South Korea may introduce measures to calm the bond market if conditions warrant.

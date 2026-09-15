@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 14:34 JST／対象: 09/15 08:34 〜 09/15 14:34 JST（時刻はすべて日本時間）
+生成: 2026-09-15 14:53 JST／対象: 09/15 08:53 〜 09/15 14:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 93 | 09/15 08:54 | 09/15 14:30 | 15分（08:55→09:11） |
-| financialjuice | 52 | 09/15 08:50 | 09/15 14:16 | ⚠ 126分（12:09→14:16） |
+| FirstSquawk | 97 | 09/15 08:54 | 09/15 14:49 | 15分（08:55→09:11） |
+| financialjuice | 54 | 09/15 09:04 | 09/15 14:46 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 144 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 150 行（統合前 151 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 08:50 [financialjuice] CanSemi Technology Inc plans to sell 512.64 million shares in Shenzhen listing
 - 09/15 08:54 [FirstSquawk] JAPAN EARLY TRADE: NIKKEI FUTURES SLIDE 0.46%, WHILE 10-YEAR JGB FUTURES DROP 0.18 POINT.
 - 09/15 08:55 [FirstSquawk] NATO FIGHTER JETS SHOT DOWN A DRONE THAT VIOLATED LITHUANIA'S AIRSPACE OVER KAUNAS COUNTY, PROMPTING AN AIR ALERT AND TEMPORARY FLIGHT RESTRICTIONS AT VILNIUS AIRPORT. THE ALERT AND RESTRICTIONS WERE LIFTED AFTER THE DRONE WAS DESTROYED, WI…
 - 09/15 09:04 [financialjuice] S. KOREAN TRADE BALANCE REVISED ACTUAL 34.79B (FORECAST -, PREVIOUS 34.75B) $MACRO
@@ -168,3 +167,10 @@
 - 09/15 14:25 [FirstSquawk] EXXONMOBIL EXECUTIVE: MIDDLE EAST LNG SUPPLY DISRUPTION LIKELY TO REMAIN A SHORT-TERM ISSUE.
 - 09/15 14:30 [FirstSquawk] WON WEAKENS 0.8% AGAINST THE DOLLAR AS SOUTH KOREA'S CURRENCY TRAILS OTHER ASIAN EMERGING-MARKET PEERS.
 - 09/15 14:30 [FirstSquawk] DOLLAR-YEN RISES 14 PIPS TO 154.90 IN INTRADAY TRADING.
+- 09/15 14:37 [FirstSquawk] OMAN LNG SAYS ITS LONG-TERM PLANS REMAIN UNCHANGED DESPITE THE STRAIT OF HORMUZ CRISIS.
+- 09/15 14:39 [financialjuice] BoE to overhaul debt sales amid bond market turmoil - The Telegraph
+- 09/15 14:41 [FirstSquawk] The Bank of England could pause sales of 20-year and 30-year gilts under a planned overhaul of its gilt-sale programme aimed at addressing market turbulence, according to the Daily Telegraph.
+- 09/15 14:45 [financialjuice] Korea finance chief Nominee: Bond market needs close monitoring
+- 09/15 14:46 [financialjuice] South Korea to take steps to stabilize the bond market if needed
+- 09/15 14:47 [FirstSquawk] China steps up exit restrictions as part of broader measures to secure strategic technology.
+- 09/15 14:49 [FirstSquawk] South Korea may introduce measures to calm the bond market if conditions warrant.
