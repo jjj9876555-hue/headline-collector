@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 18:20 JST／対象: 09/15 12:20 〜 09/15 18:20 JST（時刻はすべて日本時間）
+生成: 2026-09-15 18:39 JST／対象: 09/15 12:39 〜 09/15 18:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/15 16:20 | 09/15 18:02 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 104 | 09/15 12:23 | 09/15 18:18 | 15分（15:46→16:01） |
+| FirstSquawk | 104 | 09/15 12:39 | 09/15 18:33 | 15分（15:46→16:01） |
 | financialjuice | 22 | 09/15 14:16 | 09/15 15:11 | 23分（14:16→14:39） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 12:23 [FirstSquawk] China’s factories rev up as consumer spending loses momentum, highlighting persistent economic imbalances.
-- 09/15 12:34 [FirstSquawk] BOJ set for its biggest rate hike of the cycle as pressure on policymakers intensifies., citing RTRS
-- 09/15 12:35 [FirstSquawk] Coinbase climbs on CLARITY Act developments: The bill needs 60 votes to advance, with Republicans releasing a revised draft ahead of Tuesday’s procedural vote.
 - 09/15 12:39 [FirstSquawk] Travel discount bookings open in Japan to support Kumamoto earthquake recovery.
 - 09/15 12:51 [FirstSquawk] Japan’s 20-year government bond auction draws stronger demand, with bid-cover ratio rising to 4.01 from 3.98.
 - 09/15 12:58 [FirstSquawk] HONG KONG’S STOCK MARKET COMES UNDER PRESSURE AS A WAVE OF AI LISTINGS ADDS TO SUPPLY CONCERNS, FT REPORTS.
@@ -153,3 +150,6 @@
 - 09/15 18:16 [FirstSquawk] BILL DUDLEY, FORMER NEW YORK FED PRESIDENT, SAYS THE FEDERAL RESERVE MUST RAISE RATES THIS WEEK AS MARKETS SEE A 90% CHANCE OF IT HAPPENING.
 - 09/15 18:16 [FirstSquawk] SAUDI ARABIA HAS CLOSED A KEY OIL PIPELINE AFTER AN ATTACK, CAUSING CONCERNS THAT GLOBAL ENERGY MARKETS COULD EXPERIENCE SEVERE SHORTAGES DUE TO THE IRAN WAR, RESULTING IN HIGHER FUEL AND ESSENTIAL PRICES.
 - 09/15 18:18 [FirstSquawk] SAUDI CIVIL DEFENSE WARNS OF POSSIBLE THREATS IN MECCA, TAIF, AND JEDDAH - STATE TELEVISION.
+- 09/15 18:26 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS DANGER PASSED IN MECCA, TAIF AND JEDDAH
+- 09/15 18:31 [FirstSquawk] RUSSIA LAVROV: RUSSIA READY FOR REASONABLE COMPROMISES ON UKRAINE: IFX
+- 09/15 18:33 [FirstSquawk] RUSSIAN FOREIGN MINISTER LAVROV: RUSSIA WILL NOT STOP FIGHTING DURING PEACE TALKS ON UKRAINE

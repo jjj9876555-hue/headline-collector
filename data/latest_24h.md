@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 18:20 JST／対象: 09/14 18:20 〜 09/15 18:20 JST（時刻はすべて日本時間）
+生成: 2026-09-15 18:39 JST／対象: 09/14 18:39 〜 09/15 18:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 49 | 09/14 18:30 | 09/15 18:02 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 334 | 09/14 18:21 | 09/15 18:18 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 255 | 09/14 18:22 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| DeItaone | 47 | 09/14 19:24 | 09/15 18:02 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 335 | 09/14 18:44 | 09/15 18:33 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 252 | 09/14 18:41 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 612 行（統合前 642 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 608 行（統合前 638 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 18:21 [FirstSquawk] SAUDI CROWN PRINCE MEETS CENTCOM COMMANDER
-- 09/14 18:22 [financialjuice] Saudi Crown Prince and US CENTCOM chief discuss latest regional developments
-- 09/14 18:25 [financialjuice] Iran updates list of Hormuz non-compliant vessels to 77
-- 09/14 18:30 [DeItaone] OPENAI’S BROCKMAN BACKS SLOWDOWN FOR FRONTIER AI OpenAI co-founder Greg Brockman says any AI slowdown should target only frontier models powered by massive supercomputers, not open-source or hobby projects. His comments follow growing indus…
-- 09/14 18:30 [DeItaone] TRUMP'S MAIL-IN VOTING RESTRICTIONS ARE BLOCKED BY A SECOND FEDERAL JUDGE
-- 09/14 18:38 [FirstSquawk] JAPAN, YEMEN FOREIGN MINISTERS HELD TELEPHONE CALL TODAY: MOFA
-- 09/14 18:38 [financialjuice] Japan and Yemen foreign ministers held a telephone call today - MofA
 - 09/14 18:41 [financialjuice] Japan and Yemen to work on Bab-el-Mandeb situation de-escalation
 - 09/14 18:44 [FirstSquawk] GERMAN GOVERNMENT SPOX: INCREASINGLY CONCERNED ABOUT DIESEL AND GASOLINE PRICES
 - 09/14 18:48 [financialjuice] Poll: Fed to hike Fed funds rate to 3.75%-4.00% on September 16th - 86 of 101 economists (vs 65 of 93 expecting a hold in the Sept 9th poll)
@@ -636,3 +629,6 @@
 - 09/15 18:16 [FirstSquawk] BILL DUDLEY, FORMER NEW YORK FED PRESIDENT, SAYS THE FEDERAL RESERVE MUST RAISE RATES THIS WEEK AS MARKETS SEE A 90% CHANCE OF IT HAPPENING.
 - 09/15 18:16 [FirstSquawk] SAUDI ARABIA HAS CLOSED A KEY OIL PIPELINE AFTER AN ATTACK, CAUSING CONCERNS THAT GLOBAL ENERGY MARKETS COULD EXPERIENCE SEVERE SHORTAGES DUE TO THE IRAN WAR, RESULTING IN HIGHER FUEL AND ESSENTIAL PRICES.
 - 09/15 18:18 [FirstSquawk] SAUDI CIVIL DEFENSE WARNS OF POSSIBLE THREATS IN MECCA, TAIF, AND JEDDAH - STATE TELEVISION.
+- 09/15 18:26 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS DANGER PASSED IN MECCA, TAIF AND JEDDAH
+- 09/15 18:31 [FirstSquawk] RUSSIA LAVROV: RUSSIA READY FOR REASONABLE COMPROMISES ON UKRAINE: IFX
+- 09/15 18:33 [FirstSquawk] RUSSIAN FOREIGN MINISTER LAVROV: RUSSIA WILL NOT STOP FIGHTING DURING PEACE TALKS ON UKRAINE
