@@ -7,36 +7,31 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 13:54 JST／対象: 09/15 01:54 〜 09/15 13:54 JST（時刻はすべて日本時間）
+生成: 2026-09-15 14:17 JST／対象: 09/15 02:17 〜 09/15 14:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/15 02:25 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 142 | 09/15 02:27 | 09/15 13:53 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 110 | 09/15 02:01 | 09/15 12:09 | 34分（07:55→08:29） |
+| FirstSquawk | 148 | 09/15 02:27 | 09/15 14:17 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 105 | 09/15 02:20 | 09/15 14:16 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 251 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 254 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 02:01 [financialjuice/FirstSquawk] US senators debating requiring al giants to commit to preventing catastrophe - Senate aide and lobbyist.
-- 09/15 02:01 [financialjuice] US Treasury Secretary Bessent posts support for final Clarity Act draft on X.
-- 09/15 02:09 [financialjuice] Bank of America CEO Brian Moynihan: Consumer credit quality is good.
-- 09/15 02:12 [financialjuice] Apple: new child protection tools now available in iOS 27, iPadOS 27, macOS 27
-- 09/15 02:13 [financialjuice] Apple launches Siri AI with personal context awareness. $AAPL
-- 09/15 02:14 [financialjuice] Apple: Siri AI, Apple intelligence not accessible in China due to regulatory demands
-- 09/15 02:17 [financialjuice/FirstSquawk] Egyptian Presidential Office announced that Crown Prince Bin Salman of Saudi Arabia will be visiting Cairo tomorrow - Tasnim News
 - 09/15 02:20 [financialjuice] BofA CEO: Sales and trading 'relatively flat' to 3Q last year. $BAC
 - 09/15 02:21 [financialjuice] Trump: $5,000 Trump Dividend, to be given to all adults in the US - Truth Social
 - 09/15 02:25 [DeItaone] 🇺🇸 DEMS TAKE THE LEAD IN THE RACE FOR SENATE CONTROL Kalshi now puts Democrats at 51% vs. Republicans at 49%, as the battle for the Senate remains a true toss-up heading into November. https://t.co/D1o3O0u6JK https://t.co/ZtA7ADzz5G
 - 09/15 02:27 [FirstSquawk] TRUMP: WILL PROVIDE $5,000 DIVIDEND TO ALL US ADULTS - TSL VIA DBNEWS
 - 09/15 02:27 [FirstSquawk] DONALD TRUMP CLAIMS RUSSIA AND UKRAINE HAVE AGREED ENERGY TRUCE – FT
 - 09/15 02:29 [financialjuice/FirstSquawk] US House Speaker Johnson: Meeting with AI execs end of this week or early next.
+- 09/15 02:29 [FirstSquawk] EGYPTIAN PRESIDENTIAL OFFICE ANNOUNCED THAT CROWN PRINCE BIN SALMAN OF SAUDI ARABIA WILL BE VISITING CAIRO TOMORROW - TASNIM NEWS
+- 09/15 02:29 [FirstSquawk] US SENATORS DEBATING REQUIRING AL GIANTS TO COMMIT TO PREVENTING CATASTROPHE - SENATE AIDE AND LOBBYIST.
 - 09/15 02:31 [FirstSquawk] APPLE HAS LAUNCHED SIRI AI WITH PERSONAL CONTEXT AWARENESS, THOUGH IT SAYS SIRI AI AND APPLE INTELLIGENCE ARE NOT ACCESSIBLE IN CHINA DUE TO REGULATORY DEMANDS.
 - 09/15 02:31 [FirstSquawk] APPLE SAYS NEW CHILD PROTECTION TOOLS ARE NOW AVAILABLE IN IOS 27, IPADOS 27 AND MACOS 27.
 - 09/15 02:34 [DeItaone] DEEPSEEK HIRES FIRST CFO AHEAD OF POSSIBLE IPO DeepSeek plans to hire GL Ventures partner Yan Wentao as its first CFO, Reuters reports, as the Chinese AI startup prepares for a potential IPO. The company has also tapped CITIC Securities for…
@@ -275,3 +270,11 @@
 - 09/15 13:43 [FirstSquawk] Japanese yen stays weaker as traders await the Fed, while the BoJ meeting looms.
 - 09/15 13:44 [FirstSquawk] Japan considers adding drone-based defense options as part of new policies, Reuters reports.
 - 09/15 13:53 [FirstSquawk] Oil extends gains following Houthi strikes on Saudi Arabia - CNBC
+- 09/15 14:03 [FirstSquawk] Asian markets show mixed moves amid focus on AI stocks and oil prices.
+- 09/15 14:09 [FirstSquawk] US stock futures edge lower, with S&P 500 and Nasdaq futures down 0.3%.
+- 09/15 14:09 [FirstSquawk] Japan PM set to reshuffle LDP executives Wednesday ahead of a Cabinet reshuffle Thursday.
+- 09/15 14:13 [FirstSquawk] Russian forces target two vessels in the Black Sea, according to the Defence Ministry.
+- 09/15 14:14 [FirstSquawk] US 10-Year Treasury Yields Rise To Highest Level Since 2007 - BBG
+- 09/15 14:16 [financialjuice] Japan told US officials it will raise defense spend.
+- 09/15 14:16 [financialjuice] Japan said to eye reaching 3.5% spending target in the mid-term
+- 09/15 14:17 [FirstSquawk] Philippines issues 6.032 billion pesos of reissued 2036 bonds at 7.525% average yield after rejecting 2030 bond bids worth 20–30 billion pesos.

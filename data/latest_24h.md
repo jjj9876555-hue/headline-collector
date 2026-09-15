@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 13:54 JST／対象: 09/14 13:54 〜 09/15 13:54 JST（時刻はすべて日本時間）
+生成: 2026-09-15 14:17 JST／対象: 09/14 14:17 〜 09/15 14:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 321 | 09/14 13:54 | 09/15 13:53 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 267 | 09/14 14:07 | 09/15 12:09 | ⚠ 53分（17:16→18:10） |
+| FirstSquawk | 320 | 09/14 14:18 | 09/15 14:17 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 254 | 09/14 14:33 | 09/15 14:16 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 615 行（統合前 646 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 601 行（統合前 632 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 13:54 [FirstSquawk] The UK faces a £258 billion infrastructure spending shortfall, according to a Financial Times report, highlighting the scale of investment needed to upgrade the country’s infrastructure.
-- 09/14 13:54 [FirstSquawk] The music industry is stepping up its crackdown on AI-generated songs, targeting their use in streaming fraud and efforts to manipulate royalty payouts, according to the Financial Times.
-- 09/14 13:55 [FirstSquawk] A surge in oil prices is reviving expectations of a Bank of England rate hike this year, as higher energy costs threaten to keep inflation elevated, according to the Financial Times.
-- 09/14 13:55 [FirstSquawk] Europe’s growing defence spending is testing its appetite for US investment, as major arms deals raise questions over how much European security spending will flow toward American companies, according to the Financial Times.
-- 09/14 14:02 [FirstSquawk] FINLAND (AUG) CPI YOY ACTUAL: 2.2% VS 2.1% PREVIOUS
-- 09/14 14:02 [FirstSquawk] FINLAND (AUG) CPI MOM ACTUAL: -0.2% VS 0.2% PREVIOUS
-- 09/14 14:07 [financialjuice] PBoC: will allow currency swap and yuan settlement to play their parts
-- 09/14 14:07 [financialjuice] PBoC holds 2025 macroprudential work conference
-- 09/14 14:07 [financialjuice] PBoC: will support real estate market to halt decline and stabilize
-- 09/14 14:07 [financialjuice] PBoC: to intensify review of macroeconomic and financial efforts
-- 09/14 14:07 [financialjuice] PBoC: will prioritize real economy and financial services for the public
-- 09/14 14:07 [financialjuice] Prime Minister Mitsotakis speaks in interview
-- 09/14 14:07 [financialjuice] China TQ to Use Green Bond Proceeds for Financing Green Spending
-- 09/14 14:07 [financialjuice] PBoC: plans to expand yuan offshore market
-- 09/14 14:07 [financialjuice] China Citic Bank: Liu Cheng steps down as president
-- 09/14 14:07 [financialjuice] PBoC: to consider expanding central bank's macroprudential and financial stability roles
-- 09/14 14:07 [financialjuice] PBoC: to innovate macroprudential policy tools and support steady economic recovery and growth
-- 09/14 14:07 [financialjuice] PBoC: back building a new model for real estate development
-- 09/14 14:07 [financialjuice] China unveils sovereign framework for green bonds
-- 09/14 14:07 [financialjuice] PBoC: to boost cross-border yuan usage
-- 09/14 14:08 [financialjuice] JAPANESE CAPACITY UTILIZATION MOM ACTUAL 0.5% (FORECAST -, PREVIOUS 4.1%) $MACRO
-- 09/14 14:10 [FirstSquawk] Japan is considering tighter regulations on regenerative medicine treatments as their use expands, raising concerns over safety and oversight, according to Kyodo News.
 - 09/14 14:18 [FirstSquawk] EUR/USD falls to a four-week low as stronger expectations for a hawkish Fed boost the dollar and weigh on the euro, according to FX
 - 09/14 14:27 [FirstSquawk] GSK says data from 88 million Greater Bay Area residents could help shape better healthcare policies and improve planning across the region.
 - 09/14 14:33 [financialjuice] EU's Albuquerque: Difficult to map AI risks
@@ -639,3 +617,11 @@
 - 09/15 13:43 [FirstSquawk] Japanese yen stays weaker as traders await the Fed, while the BoJ meeting looms.
 - 09/15 13:44 [FirstSquawk] Japan considers adding drone-based defense options as part of new policies, Reuters reports.
 - 09/15 13:53 [FirstSquawk] Oil extends gains following Houthi strikes on Saudi Arabia - CNBC
+- 09/15 14:03 [FirstSquawk] Asian markets show mixed moves amid focus on AI stocks and oil prices.
+- 09/15 14:09 [FirstSquawk] US stock futures edge lower, with S&P 500 and Nasdaq futures down 0.3%.
+- 09/15 14:09 [FirstSquawk] Japan PM set to reshuffle LDP executives Wednesday ahead of a Cabinet reshuffle Thursday.
+- 09/15 14:13 [FirstSquawk] Russian forces target two vessels in the Black Sea, according to the Defence Ministry.
+- 09/15 14:14 [FirstSquawk] US 10-Year Treasury Yields Rise To Highest Level Since 2007 - BBG
+- 09/15 14:16 [financialjuice] Japan told US officials it will raise defense spend.
+- 09/15 14:16 [financialjuice] Japan said to eye reaching 3.5% spending target in the mid-term
+- 09/15 14:17 [FirstSquawk] Philippines issues 6.032 billion pesos of reissued 2036 bonds at 7.525% average yield after rejecting 2030 bond bids worth 20–30 billion pesos.
