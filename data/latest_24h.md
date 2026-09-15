@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 09:49 JST／対象: 09/14 09:49 〜 09/15 09:49 JST（時刻はすべて日本時間）
+生成: 2026-09-15 10:01 JST／対象: 09/14 10:01 〜 09/15 10:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 324 | 09/14 09:50 | 09/15 09:48 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 238 | 09/14 10:01 | 09/15 09:27 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 322 | 09/14 10:02 | 09/15 10:01 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 238 | 09/14 10:18 | 09/15 10:00 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 589 行（統合前 620 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 587 行（統合前 618 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 09:50 [FirstSquawk] Trump says a meeting with Delcy Rodríguez at the UN remains possible, while pointing to an energy arrangement that he says is delivering millions of barrels of oil to the U.S. each month.
-- 09/14 09:51 [FirstSquawk] NORTH KOREA SAYS A JOINT LIVE-FIRE DRILL INVOLVING MISSILES, ARTILLERY AND DRONES DEMONSTRATED THE “HUGE DESTRUCTIVE POWER” OF CONCENTRATED FIRE.
-- 09/14 09:51 [FirstSquawk] SOUTH KOREA SAYS SEVERAL MISSILES FLEW ABOUT 250 KM TOWARD NORTH KOREA’S EASTERN WATERS, INDICATING THEY ARE DESIGNED TO STRIKE TARGETS IN SOUTH KOREA.
-- 09/14 09:53 [FirstSquawk] Indonesia’s Java Sea ship disaster leaves at least six dead, with 129 people still missing after a passenger vessel capsized on Sunday, according to authorities.
-- 09/14 09:55 [FirstSquawk] Amazon pauses operations with 21 Air following the Miami crash, according to The Wall Street Journal, as the incident prompts a temporary disruption to the airline partnership.
-- 09/14 09:56 [FirstSquawk] Dollar holds steady while the yen climbs toward a seven-month high, as traders position ahead of this week’s closely watched Fed and BOJ policy meetings.
-- 09/14 10:01 [FirstSquawk] AI’s race for ever-more powerful systems may be facing a rare slowdown, as the CEOs of two leading AI companies publicly argue that development should proceed at a more measured pace says NBC
-- 09/14 10:01 [financialjuice] Taiwan overnight interbank rate opens at 0.805% vs 0.805% at previous session open
 - 09/14 10:02 [FirstSquawk] U.S. diesel prices have surged 60% above pre-Iran war levels, according to Fortune, highlighting the growing impact of the conflict on fuel costs and the broader U.S. economy.
 - 09/14 10:03 [FirstSquawk] Taiwan’s overnight funding market starts the session steady at 0.805%, matching the previous session’s opening level.
 - 09/14 10:09 [FirstSquawk] Euro slips below 1.1600 as markets increasingly price a potential Fed rate hike, adding pressure to the single currency.
@@ -613,3 +605,9 @@
 - 09/15 09:40 [FirstSquawk] China briefs foreign embassies on DNA procedures to identify nationals missing after the deadly China-Nepal border mudslide.
 - 09/15 09:43 [FirstSquawk] Crude oil is climbing as market stabilizers start to fade. The supply buffers and inventory cushions that kept prices steady for months are weakening, leaving less room for error.
 - 09/15 09:48 [FirstSquawk] Barack Obama on AI: "We can’t stuff AI back in a box." Instead of letting tech dictate our future, he argues we must proactively guide how it's built and deployed rather than just reacting to the fallout.
+- 09/15 09:51 [FirstSquawk] Berlin's new playbook on UniCredit: Instead of blocking the Commerzbank takeover outright, Germany is shifting to hardline conditions.
+- 09/15 09:57 [FirstSquawk] China’s updated Exit-Entry Regulations are now in effect, targeting visa fraud and intermediary agencies. Travelers face 1–5 year bans for false declarations, while corporate sponsors assume full legal accountability for itineraries.
+- 09/15 10:00 [FirstSquawk] Beijing turns its focus to offshore brokerages as it moves to curb pay loopholes and corruption.
+- 09/15 10:00 [FirstSquawk] New crypto tax bill emerges in the US House, putting digital-asset taxation back in focus.
+- 09/15 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% versus prior session opening of 0.805%
+- 09/15 10:01 [FirstSquawk] US Treasury lays out a complex compliance framework for Venezuela oil deals, signaling that sanctions have not been lifted.

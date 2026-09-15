@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 09:49 JST／対象: 09/14 21:49 〜 09/15 09:49 JST（時刻はすべて日本時間）
+生成: 2026-09-15 10:01 JST／対象: 09/14 22:01 〜 09/15 10:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 30 | 09/14 22:05 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 150 | 09/14 21:55 | 09/15 09:48 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 150 | 09/14 22:00 | 09/15 09:27 | 34分（07:55→08:29） |
+| FirstSquawk | 151 | 09/14 22:02 | 09/15 10:01 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 149 | 09/14 22:03 | 09/15 10:00 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 309 行（統合前 334 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 21:55 [FirstSquawk] POLISH CABINET TO DISCUSS FUEL FIRMS WINDFALL TAX ON TUESDAY
-- 09/14 22:00 [financialjuice] Effective Fed Funds Rate 3.63% September 11 vs 3.63% September 10
-- 09/14 22:00 [FirstSquawk] NVIDIA EXPANDS OPEN SOURCE CUDA-Q PLATFORM WITH CUDA-Q LOGICAL
-- 09/14 22:01 [financialjuice] Nvidia expands the open-source CUDA-Q platform with CUDA-Q logical. $NVDA
-- 09/14 22:01 [FirstSquawk] THE EAST-WEST PIPELINE, WHICH RUNS ACROSS THE KINGDOM, IS KEY TO SAUDI ARABIA’S STRATEGY OF SHIFTING ITS OIL EXPORTS TO THE RED SEA TO AVOID THE PERSIAN GULF’S STRAIT OF HORMUZ, WHERE IRANIAN ATTACKS HAVE STIFLED SHIPPING. THE 1,200-KILOMET…
-- 09/14 22:01 [FirstSquawk] AN ATTACK THAT SAUDI ARABIA BLAMED ON DRONES FROM IRANIAN-BACKED MILITIAS IN IRAQ FORCED THE SHUTDOWN OF THE PIPELINE ON THURSDAY. || THE OFFICIALS, WHO HAVE BEEN BRIEFED ON THE MATTER, SAID REPAIRING THE DAMAGE COULD TAKE THREE TO FIVE WEE…
 - 09/14 22:02 [FirstSquawk] NETFLIX, AMAZON, YOUTUBE LAUNCH NEW STREAMING COALITION
 - 09/14 22:03 [financialjuice] Netflix, Amazon and Youtube launch new streaming coalition - Axios
 - 09/14 22:03 [FirstSquawk/DeItaone] MICROSOFT SETS LIMITS FOR FUTURE AI MODELS: CNBC
@@ -333,3 +327,9 @@
 - 09/15 09:40 [FirstSquawk] China briefs foreign embassies on DNA procedures to identify nationals missing after the deadly China-Nepal border mudslide.
 - 09/15 09:43 [FirstSquawk] Crude oil is climbing as market stabilizers start to fade. The supply buffers and inventory cushions that kept prices steady for months are weakening, leaving less room for error.
 - 09/15 09:48 [FirstSquawk] Barack Obama on AI: "We can’t stuff AI back in a box." Instead of letting tech dictate our future, he argues we must proactively guide how it's built and deployed rather than just reacting to the fallout.
+- 09/15 09:51 [FirstSquawk] Berlin's new playbook on UniCredit: Instead of blocking the Commerzbank takeover outright, Germany is shifting to hardline conditions.
+- 09/15 09:57 [FirstSquawk] China’s updated Exit-Entry Regulations are now in effect, targeting visa fraud and intermediary agencies. Travelers face 1–5 year bans for false declarations, while corporate sponsors assume full legal accountability for itineraries.
+- 09/15 10:00 [FirstSquawk] Beijing turns its focus to offshore brokerages as it moves to curb pay loopholes and corruption.
+- 09/15 10:00 [FirstSquawk] New crypto tax bill emerges in the US House, putting digital-asset taxation back in focus.
+- 09/15 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% versus prior session opening of 0.805%
+- 09/15 10:01 [FirstSquawk] US Treasury lays out a complex compliance framework for Venezuela oil deals, signaling that sanctions have not been lifted.
