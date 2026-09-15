@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 22:34 JST／対象: 09/14 22:34 〜 09/15 22:34 JST（時刻はすべて日本時間）
+生成: 2026-09-15 22:52 JST／対象: 09/14 22:52 〜 09/15 22:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 09/14 23:00 | 09/15 22:30 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 352 | 09/14 22:35 | 09/15 22:31 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 236 | 09/14 22:35 | 09/15 22:32 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 45 | 09/14 23:00 | 09/15 22:48 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 351 | 09/14 22:54 | 09/15 22:49 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 237 | 09/14 22:56 | 09/15 22:47 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 609 行（統合前 632 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 613 行（統合前 636 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 22:35 [financialjuice] Musk’s X and xAI resolve antitrust lawsuit against Apple - court filing. $SPCX $AAPL
-- 09/14 22:35 [FirstSquawk] MICROSOFT DRAWS A LINE ON AI POWER: “PEOPLE MATTER MORE THAN AI”
-- 09/14 22:38 [FirstSquawk] UK GOVT CONSIDERING TAKEOVER OF SPECIALITY STEEL UK: FT
-- 09/14 22:39 [FirstSquawk] JOHNSON & JOHNSON SHARES RISE ON APOLLO GLOBAL TAKEOVER TALKS - INVESTING
-- 09/14 22:39 [FirstSquawk] RUSSIA BANS SULFURIC ACID EXPORTS UNTIL YEAR-END: KOMMERSANT
-- 09/14 22:39 [financialjuice] UK government considering takeover of insolvent steelmaker - FT
-- 09/14 22:45 [FirstSquawk] AI BOOM FALTERS: US TECH STOCKS SLUMP AS BIG TECH CALLS FOR AI SLOWDOWN
-- 09/14 22:49 [FirstSquawk] CARDIFF ONCOLOGY SCORES MAJOR LEGAL WIN, SETTLES DISPUTE WITH NERVIANO MEDICAL SCIENCES $CRDF
 - 09/14 22:54 [FirstSquawk] US VP VANCE: CONCERNED BY HOUTHI SEIZURE OF PARAMO ISLAND AND RED SEA; KEEPING TABS
 - 09/14 22:56 [financialjuice] China's Foreign Minister Wang Yi: China and EU should avoid trade conflict escalation.
 - 09/14 22:57 [FirstSquawk] FOREIGN MINISTERS OF CHINA, FRANCE HOLD PHONE CALL: XINHUA
@@ -633,3 +625,15 @@
 - 09/15 22:31 [financialjuice] ❗ Saudi Arabia is informing some European oil refiners that their September-loading Crude cargoes are cancelled after the East-West pipeline closure - Three trade sources.
 - 09/15 22:31 [FirstSquawk] S&P 500 DOWN 2.90 POINTS, OR 0.04 %, AT 7,617.08 AFTER MARKET OPEN NASDAQ DOWN 33.99 POINTS, OR 0.13 PERCENT, AT 26,152.42 AFTER MARKET OPEN DOW JONES DOWN 122.29 POINTS, OR 0.23 PERCENT, AT 52,298.91 AFTER MARKET OPEN
 - 09/15 22:32 [financialjuice] Libya NOC: Output halted at the Hamada and Al-tahara fields.
+- 09/15 22:35 [FirstSquawk] US DIESEL FUTURES RISE NEAR $5.23/GALLON, HIGHEST SINCE 2022
+- 09/15 22:40 [financialjuice] Canada's corporate tax deduction is going to cost C$36b over five years.
+- 09/15 22:41 [FirstSquawk] CANADA CORPORATE TAX DEDUCTION TO COST C$36B OVER FIVE YEARS
+- 09/15 22:42 [financialjuice] OpenAI backs the House plan for safety assessments - Politico.
+- 09/15 22:43 [DeItaone] U.S. GASOLINE AND DIESEL PRICES SURGE U.S. fuel prices jumped sharply, adding fresh pressure on consumers and inflation. Regular gasoline rose 16.2 cents weekly to $4.319/gallon, now $1.151 higher than a year ago. Diesel surged 31.8 cents t…
+- 09/15 22:45 [DeItaone] OIL JUMPS AS SAUDI CANCELS EUROPEAN CARGOES Oil prices surged after Saudi Arabia reportedly cancelled September crude cargoes to some European refiners following damage to its East-West pipeline. Additional supply pressure comes from Libyan…
+- 09/15 22:46 [DeItaone] *LIBYA NOC: OUTPUT HALTED AT HAMADA, AL-TAHARA FIELDS *LIBYA FIELDS SHUTDOWN DUE TO PIPELINE CLOSURE: NOC
+- 09/15 22:47 [FirstSquawk] LIBYA NOC: OUTPUT HALTED HAMADA, AL-TAHARA FIELDS; SHUTDOWN DUE TO PIPELINE CLOSURE
+- 09/15 22:47 [DeItaone] BESSENT, ASKED ABOUT RISING BOND YIELDS ON TUESDAY, SAID THIS IS DUE TO “GLOBAL ISSUES”
+- 09/15 22:47 [FirstSquawk/DeItaone] BRENT , US CRUDE FUTURES RISE AFTER LIBYA'S NOC SAYS IT MAY DECLARE FORCE MAJEURE AFTER PROTESTS SUSPEND PRODUCTION AT OIL FIELDS, BRENT LAST UP 1.7%, WTI UP 2.1%
+- 09/15 22:47 [financialjuice] US Treasury Secretary Bessent asked about rising bond yields on Tuesday: This is due to global issues.
+- 09/15 22:49 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT, ASKED ABOUT RISING BOND YIELDS ON TUESDAY, SAID THIS IS DUE TO “GLOBAL ISSUES”

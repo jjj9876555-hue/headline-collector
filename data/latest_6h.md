@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 22:34 JST／対象: 09/15 16:34 〜 09/15 22:34 JST（時刻はすべて日本時間）
+生成: 2026-09-15 22:52 JST／対象: 09/15 16:52 〜 09/15 22:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/15 16:50 | 09/15 22:30 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 104 | 09/15 16:37 | 09/15 22:31 | 19分（19:31→19:50） |
-| financialjuice | 36 | 09/15 21:05 | 09/15 22:32 | 13分（21:32→21:45） |
+| DeItaone | 18 | 09/15 18:02 | 09/15 22:48 | ⚠ 60分（20:28→21:28） |
+| FirstSquawk | 102 | 09/15 16:53 | 09/15 22:49 | 19分（19:31→19:50） |
+| financialjuice | 39 | 09/15 21:05 | 09/15 22:47 | 13分（21:32→21:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 154 行（統合前 154 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 158 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 16:37 [FirstSquawk] MEDIATEK ANNOUNCES A NEW AI PHONE CHIP THAT LOWERS MEMORY USAGE DURING A SUPPLY SHORTAGE.
-- 09/15 16:37 [FirstSquawk] AVERAGE DIESEL PRICE IN THE U.S. REACHES AN ALL-TIME HIGH OF $6.27 PER GALLON.
-- 09/15 16:43 [FirstSquawk] PUTIN RELOCATED RUSSIA'S VALDAI FOREIGN POLICY CONFERENCE FROM SOCHI TO THE MOSCOW AREA DUE TO SECURITY FEARS ABOUT UKRAINIAN DRONE ATTACKS, SOURCES SAY.
-- 09/15 16:43 [FirstSquawk] CHINA'S REQUEST FOR BRICS TO UNITE IN BRINGING PEACE TO THE PERSIAN GULF AND MIDDLE EAST HAS SPARKED DISCUSSIONS IN IRAN ABOUT BEIJING POSSIBLY MEDIATING BETWEEN TEHRAN AND WASHINGTON.
-- 09/15 16:47 [FirstSquawk] IRAN GOVT JET ENTERS SAUDI AIRSPACE - KAN NEWS
-- 09/15 16:50 [DeItaone] IRANIAN GOVERNMENT JET ENTERS SAUDI AIRSPACE An Iranian government aircraft (EP-IGF) has reportedly entered Saudi Arabian airspace. The flight is fueling speculation that a senior Iranian delegation may be heading to Riyadh in an effort to …
-- 09/15 16:52 [FirstSquawk] JAPAN'S FINANCE MINISTER KATAYAMA WILL EVALUATE TAX INCOME, EXAMINE SPENDING, AND STRIVE TO REDUCE THE DEBT-TO-GDP RATIO IN THE NEXT BUDGET PROCESS.
-- 09/15 16:52 [FirstSquawk] JAPAN FINMIN KATAYAMA: IN UPCOMING BUDGETING PROCESS, WILL ASSESS TAX REVENUE, REVIEW SPENDING AND AIM TO LOWER DEBT-TO-GDP RATIO
 - 09/15 16:53 [FirstSquawk] UK ENERGY BILLS EXPECTED TO RISE BY 25%, INCREASING INFLATION.
 - 09/15 16:55 [FirstSquawk] BITCOIN DROPS BELOW $77,000.
 - 09/15 16:59 [FirstSquawk] S&P 500 INDEX FUTURES EXTEND DECLINE TO 0.5%, SESSION LOW
@@ -178,3 +170,15 @@
 - 09/15 22:31 [financialjuice] ❗ Saudi Arabia is informing some European oil refiners that their September-loading Crude cargoes are cancelled after the East-West pipeline closure - Three trade sources.
 - 09/15 22:31 [FirstSquawk] S&P 500 DOWN 2.90 POINTS, OR 0.04 %, AT 7,617.08 AFTER MARKET OPEN NASDAQ DOWN 33.99 POINTS, OR 0.13 PERCENT, AT 26,152.42 AFTER MARKET OPEN DOW JONES DOWN 122.29 POINTS, OR 0.23 PERCENT, AT 52,298.91 AFTER MARKET OPEN
 - 09/15 22:32 [financialjuice] Libya NOC: Output halted at the Hamada and Al-tahara fields.
+- 09/15 22:35 [FirstSquawk] US DIESEL FUTURES RISE NEAR $5.23/GALLON, HIGHEST SINCE 2022
+- 09/15 22:40 [financialjuice] Canada's corporate tax deduction is going to cost C$36b over five years.
+- 09/15 22:41 [FirstSquawk] CANADA CORPORATE TAX DEDUCTION TO COST C$36B OVER FIVE YEARS
+- 09/15 22:42 [financialjuice] OpenAI backs the House plan for safety assessments - Politico.
+- 09/15 22:43 [DeItaone] U.S. GASOLINE AND DIESEL PRICES SURGE U.S. fuel prices jumped sharply, adding fresh pressure on consumers and inflation. Regular gasoline rose 16.2 cents weekly to $4.319/gallon, now $1.151 higher than a year ago. Diesel surged 31.8 cents t…
+- 09/15 22:45 [DeItaone] OIL JUMPS AS SAUDI CANCELS EUROPEAN CARGOES Oil prices surged after Saudi Arabia reportedly cancelled September crude cargoes to some European refiners following damage to its East-West pipeline. Additional supply pressure comes from Libyan…
+- 09/15 22:46 [DeItaone] *LIBYA NOC: OUTPUT HALTED AT HAMADA, AL-TAHARA FIELDS *LIBYA FIELDS SHUTDOWN DUE TO PIPELINE CLOSURE: NOC
+- 09/15 22:47 [FirstSquawk] LIBYA NOC: OUTPUT HALTED HAMADA, AL-TAHARA FIELDS; SHUTDOWN DUE TO PIPELINE CLOSURE
+- 09/15 22:47 [DeItaone] BESSENT, ASKED ABOUT RISING BOND YIELDS ON TUESDAY, SAID THIS IS DUE TO “GLOBAL ISSUES”
+- 09/15 22:47 [FirstSquawk/DeItaone] BRENT , US CRUDE FUTURES RISE AFTER LIBYA'S NOC SAYS IT MAY DECLARE FORCE MAJEURE AFTER PROTESTS SUSPEND PRODUCTION AT OIL FIELDS, BRENT LAST UP 1.7%, WTI UP 2.1%
+- 09/15 22:47 [financialjuice] US Treasury Secretary Bessent asked about rising bond yields on Tuesday: This is due to global issues.
+- 09/15 22:49 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT, ASKED ABOUT RISING BOND YIELDS ON TUESDAY, SAID THIS IS DUE TO “GLOBAL ISSUES”

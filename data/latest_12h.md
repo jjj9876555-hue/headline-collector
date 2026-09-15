@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 22:34 JST／対象: 09/15 10:34 〜 09/15 22:34 JST（時刻はすべて日本時間）
+生成: 2026-09-15 22:52 JST／対象: 09/15 10:52 〜 09/15 22:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/15 16:20 | 09/15 22:30 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 198 | 09/15 10:38 | 09/15 22:31 | 19分（19:31→19:50） |
-| financialjuice | 90 | 09/15 10:43 | 09/15 22:32 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 20 | 09/15 16:20 | 09/15 22:48 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 200 | 09/15 10:56 | 09/15 22:49 | 19分（19:31→19:50） |
+| financialjuice | 88 | 09/15 10:54 | 09/15 22:47 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 303 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 307 行（統合前 308 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 10:38 [FirstSquawk] Israeli military chief calls for legal review of “NAZA,” a documentary focused on the Gaza war.
-- 09/15 10:43 [FirstSquawk] Calls for restraint are growing among AI leaders, but investors on Wall Street remain bullish on the sector, according to the WSJ.
-- 09/15 10:43 [financialjuice] Saudi Arabian Civil Defence issues emergency alert for Yanbu on social media platform X
-- 09/15 10:44 [financialjuice] Saudi civil defence issues emergency alert for Taif: state TV
-- 09/15 10:48 [financialjuice] Saudi Arabian civil defence issues urgent alert for Abha and Jazan: state TV
-- 09/15 10:49 [FirstSquawk] Urgent alerts issued for Abha and Jazan by Saudi Arabia’s civil defence, state TV reports.
-- 09/15 10:50 [financialjuice] China Aug Shanghai new home prices rise 3.0% y/y (July 3.0%) : stats bureau
-- 09/15 10:50 [financialjuice] Saudi Arabian civil defence issues emergency alert for AlUla: State TV
 - 09/15 10:54 [financialjuice] S.Korea finmin nominee: U.S. investment talks moving at pace not surpassing $20 billion annually, $200 billion total, per mou
 - 09/15 10:56 [financialjuice] S.Korea finance minister nominee: to consider strategic gains, values amid strong U.S.-S.Korea alliance
 - 09/15 10:56 [FirstSquawk] North Korea sends its sports minister to Japan as preparations continue for the Asian Games.
@@ -327,3 +319,15 @@
 - 09/15 22:31 [financialjuice] ❗ Saudi Arabia is informing some European oil refiners that their September-loading Crude cargoes are cancelled after the East-West pipeline closure - Three trade sources.
 - 09/15 22:31 [FirstSquawk] S&P 500 DOWN 2.90 POINTS, OR 0.04 %, AT 7,617.08 AFTER MARKET OPEN NASDAQ DOWN 33.99 POINTS, OR 0.13 PERCENT, AT 26,152.42 AFTER MARKET OPEN DOW JONES DOWN 122.29 POINTS, OR 0.23 PERCENT, AT 52,298.91 AFTER MARKET OPEN
 - 09/15 22:32 [financialjuice] Libya NOC: Output halted at the Hamada and Al-tahara fields.
+- 09/15 22:35 [FirstSquawk] US DIESEL FUTURES RISE NEAR $5.23/GALLON, HIGHEST SINCE 2022
+- 09/15 22:40 [financialjuice] Canada's corporate tax deduction is going to cost C$36b over five years.
+- 09/15 22:41 [FirstSquawk] CANADA CORPORATE TAX DEDUCTION TO COST C$36B OVER FIVE YEARS
+- 09/15 22:42 [financialjuice] OpenAI backs the House plan for safety assessments - Politico.
+- 09/15 22:43 [DeItaone] U.S. GASOLINE AND DIESEL PRICES SURGE U.S. fuel prices jumped sharply, adding fresh pressure on consumers and inflation. Regular gasoline rose 16.2 cents weekly to $4.319/gallon, now $1.151 higher than a year ago. Diesel surged 31.8 cents t…
+- 09/15 22:45 [DeItaone] OIL JUMPS AS SAUDI CANCELS EUROPEAN CARGOES Oil prices surged after Saudi Arabia reportedly cancelled September crude cargoes to some European refiners following damage to its East-West pipeline. Additional supply pressure comes from Libyan…
+- 09/15 22:46 [DeItaone] *LIBYA NOC: OUTPUT HALTED AT HAMADA, AL-TAHARA FIELDS *LIBYA FIELDS SHUTDOWN DUE TO PIPELINE CLOSURE: NOC
+- 09/15 22:47 [FirstSquawk] LIBYA NOC: OUTPUT HALTED HAMADA, AL-TAHARA FIELDS; SHUTDOWN DUE TO PIPELINE CLOSURE
+- 09/15 22:47 [DeItaone] BESSENT, ASKED ABOUT RISING BOND YIELDS ON TUESDAY, SAID THIS IS DUE TO “GLOBAL ISSUES”
+- 09/15 22:47 [FirstSquawk/DeItaone] BRENT , US CRUDE FUTURES RISE AFTER LIBYA'S NOC SAYS IT MAY DECLARE FORCE MAJEURE AFTER PROTESTS SUSPEND PRODUCTION AT OIL FIELDS, BRENT LAST UP 1.7%, WTI UP 2.1%
+- 09/15 22:47 [financialjuice] US Treasury Secretary Bessent asked about rising bond yields on Tuesday: This is due to global issues.
+- 09/15 22:49 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT, ASKED ABOUT RISING BOND YIELDS ON TUESDAY, SAID THIS IS DUE TO “GLOBAL ISSUES”
