@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 00:33 JST／対象: 09/15 18:33 〜 09/16 00:33 JST（時刻はすべて日本時間）
+生成: 2026-09-16 00:52 JST／対象: 09/15 18:52 〜 09/16 00:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 35 | 09/15 18:44 | 09/16 00:24 | ⚠ 60分（20:28→21:28） |
-| FirstSquawk | 121 | 09/15 18:43 | 09/16 00:24 | 19分（19:31→19:50） |
-| financialjuice | 81 | 09/15 21:05 | 09/16 00:22 | 13分（21:32→21:45） |
+| DeItaone | 37 | 09/15 19:17 | 09/16 00:52 | ⚠ 60分（20:28→21:28） |
+| FirstSquawk | 135 | 09/15 18:53 | 09/16 00:52 | 23分（00:24→00:47） |
+| financialjuice | 91 | 09/15 21:05 | 09/16 00:52 | 13分（21:32→21:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 232 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 258 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 18:43 [FirstSquawk] INDIA-EU TRADE DEAL EXPECTED BE SIGNED BEFORE END OF THE YEAR
-- 09/15 18:44 [DeItaone] INVESTORS TURN CAUTIOUS AS BOND YIELDS SURGE Investor enthusiasm for stocks is fading as rising bond yields and U.S. midterm uncertainty weigh on sentiment, BofA’s fund manager survey shows. Global equity overweight fell to 49% from 56%, wh…
 - 09/15 18:53 [FirstSquawk] OMAN SAYS OIL TANKER ELGAIA BEING TOWED TO OMANI PORT AFTER FIRE IN ENGINE ROOM FOLLOWING ATTACK OFF OMANI COAST
 - 09/15 19:01 [FirstSquawk] ITALY SENATE APPROVES MELONI'S ELECTORAL REFORM
 - 09/15 19:05 [FirstSquawk] U.S. SPECIAL ENVOY COALE: U.S. HAS CALLED ON BANKS TO UNFREEZE BELARUS’S FROZEN ASSETS - RIA
@@ -256,3 +254,31 @@
 - 09/16 00:24 [FirstSquawk] BESSENT SUGGESTS METHODS FOR ISSUING $5,000 CHECKS WITHOUT INCREASING THE DEFICIT.
 - 09/16 00:24 [FirstSquawk] BESSENT SAYS CONGRESS MUST AUTHORIZE A MEETING WITH JOHNSON IF IT'S NECESSARY.
 - 09/16 00:24 [DeItaone] *BESSENT: EXAMINING $5,000 CHECK PROPOSAL AT TREASURY
+- 09/16 00:34 [DeItaone] BESSENT: TREASURY'S BOND BUYBACK INTERVENTION WAS SUCCESSFUL
+- 09/16 00:34 [financialjuice] US Treasury Secretary Bessent: Treasury's bond buyback intervention was successful.
+- 09/16 00:35 [financialjuice] US Treasury Secretary Bessent: We've had two of the most successful Treasury auctions in 20 Yrs, recently
+- 09/16 00:43 [financialjuice] Bessent signals work in process on offsets for $5,000 checks
+- 09/16 00:47 [FirstSquawk] BESSENT RESPONDS TO QUESTIONS ABOUT WHETHER $5,000 CHECKS REQUIRE CONGRESSIONAL APPROVAL.
+- 09/16 00:47 [FirstSquawk] BESSENT SAID GOP'S NOVEMBER WIN WOULD INVOLVE $5,000 CHECKS.
+- 09/16 00:47 [FirstSquawk] US TREASURY SECRETARY BESSENT SAYS AI NEEDS TO BE ADDRESSED FOR INNOVATION AND SAFETY.
+- 09/16 00:47 [FirstSquawk] US TREASURY SECRETARY BESSENT STATED THAT THE BOND BUYBACK INTERVENTION BY THE TREASURY WAS SUCCESSFUL.
+- 09/16 00:47 [FirstSquawk] US TREASURY SECRETARY BESSENT ANNOUNCED THAT TWO RECENT TREASURY AUCTIONS HAVE BEEN AMONG THE MOST SUCCESSFUL IN THE LAST 20 YEARS.
+- 09/16 00:47 [FirstSquawk] BESSENT INDICATES THAT WORK IS 'UNDERWAY' ON OFFSETTING $5,000 CHECKS.
+- 09/16 00:47 [FirstSquawk] BESSENT URGES LAWMAKERS TO KEEP AI LIABILITY RULES IN PLACE.
+- 09/16 00:48 [FirstSquawk] BESSENT SAYS AI COMPANIES SHOULD NOT BE ALLOWED A 'BLANK CHECK ON LIABILITY.'
+- 09/16 00:48 [FirstSquawk] BESSENT STATED THAT WITH ARGENTINA, THEY HAD A COMPLETELY COLLATERALIZED SWAP LINE.
+- 09/16 00:49 [financialjuice] US Treasury Secretary Bessent: We had been in constant dialog on Japan interventions.
+- 09/16 00:49 [financialjuice] US Treasury Secretary Bessent: US used nominal amount for yen intervention.
+- 09/16 00:50 [DeItaone] RUSSIAN OIL PREMIUMS SURGE AS MIDDLE EAST SUPPLY TIGHTENS Russian Urals crude premiums in India jumped to $8/barrel over Brent, up from around $1 in August and the highest since May. Middle East supply disruptions are pushing Indian and Chi…
+- 09/16 00:50 [financialjuice] US Treasury's Bessent: Stronger yen is better for US exporters.
+- 09/16 00:50 [financialjuice] US Treasury Secretary Bessent: US made tens of mlns of dollars on yen intervention.
+- 09/16 00:51 [financialjuice] US Energy Secretary Wright on Saudis and oil: I think will see pipeline running again very soon - CNBC Interview
+- 09/16 00:51 [financialjuice] US Energy Secretary Wright: I think pipeline opening will be measured in days.
+- 09/16 00:52 [FirstSquawk] BESSENT EARNED MILLIONS FROM PREVIOUS ASSISTANCE TO ARGENTINA.
+- 09/16 00:52 [FirstSquawk] BESSENT STATED THEY WERE ALWAYS IN COMMUNICATION ABOUT JAPAN'S INTERVENTIONS.
+- 09/16 00:52 [DeItaone] BESSENT: FOR A NOMINAL AMOUNT, THE U.S. TREASURY WAS ABLE TO SIGNAL SUPPORT FOR JAPANESE POLICIES
+- 09/16 00:52 [FirstSquawk] BESSENT SAYS A STRONGER YEN BENEFITS U.S. EXPORTS.
+- 09/16 00:52 [FirstSquawk] U.S. ENERGY SECRETARY WRIGHT EXPECTS OIL PIPELINES IN SAUDI ARABIA TO OPERATE AGAIN SOON, ACCORDING TO A CNBC INTERVIEW.
+- 09/16 00:52 [FirstSquawk] WRIGHT BELIEVES THE PIPELINE OPENING WILL OCCUR IN A FEW DAYS.
+- 09/16 00:52 [FirstSquawk] STRONGER YEN MEANS JAPAN CAN AVOID SELLING US ASSETS, SAYS BESSENT.
+- 09/16 00:52 [financialjuice] US Treasury Secretary Bessent: For a nominal amount, US Treasury was able to signal support for Japanese policies
