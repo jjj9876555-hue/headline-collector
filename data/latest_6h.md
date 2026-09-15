@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 20:43 JST／対象: 09/15 14:43 〜 09/15 20:43 JST（時刻はすべて日本時間）
+生成: 2026-09-15 20:58 JST／対象: 09/15 14:58 〜 09/15 20:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/15 16:20 | 09/15 20:28 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 95 | 09/15 14:47 | 09/15 20:38 | 19分（19:31→19:50） |
-| financialjuice | 19 | 09/15 14:45 | 09/15 15:11 | 11分（14:46→14:57） |
+| FirstSquawk | 95 | 09/15 15:02 | 09/15 20:56 | 19分（19:31→19:50） |
+| financialjuice | 15 | 09/15 14:58 | 09/15 15:11 | 6分（15:00→15:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 124 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 120 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 14:45 [financialjuice] Korea finance chief Nominee: Bond market needs close monitoring
-- 09/15 14:46 [financialjuice] South Korea to take steps to stabilize the bond market if needed
-- 09/15 14:47 [FirstSquawk] China steps up exit restrictions as part of broader measures to secure strategic technology.
-- 09/15 14:49 [FirstSquawk] South Korea may introduce measures to calm the bond market if conditions warrant.
-- 09/15 14:57 [financialjuice] Japan's Fin. Min. Katayama: We will not rely on deficit-covering bonds to fund the tax cut
-- 09/15 14:57 [financialjuice] Japan Finance Minister Katayama: We will ensure market credibility by reviewing both spending and revenue
-- 09/15 14:58 [FirstSquawk] Japan's government will avoid using deficit-financing bonds to fund tax reductions, Finance Minister Katayama says.
-- 09/15 14:58 [FirstSquawk] Katayama: Japan will safeguard market confidence by examining both expenditure and revenue.
 - 09/15 14:58 [financialjuice] Japan's Fin. Min. Katayama: We won't issue debt to fund food sales tax cut
 - 09/15 14:58 [financialjuice] Japan finance minister Katayama: Will aim to secure enough funding through efforts to boost non-tax revenue
 - 09/15 15:00 [financialjuice] Japan Finance Minister Katayama: We expect a meaningful level of overshoot in tax revenue
@@ -148,3 +140,7 @@
 - 09/15 20:33 [FirstSquawk] RUSSIAN TU-95MS STRATEGIC BOMBERS FLY OVER NEUTRAL WATERS OF BARENTS SEA AND NORWEGIAN SEA - RIA
 - 09/15 20:33 [FirstSquawk] GERMAN CHANCELLOR MERZ: SUPPORT EU PROPOSAL FOR A TRADE ALLIANCE THAT GOES BEYOND THE WTO, WITH A STRONG ROLE FOR THE EU
 - 09/15 20:38 [FirstSquawk] AMERICAN EXPRESS- U.S. SMALL BUSINESS CARD MEMBER LOANS NET WRITE-OFF RATE - PRINCIPAL ONLY 2.2% AT AUG END
+- 09/15 20:47 [FirstSquawk] UK PM SPOX: CHANCELLOR HEALEY TO SET OUT PENSION TAX DETAILS AT BUDGET
+- 09/15 20:47 [FirstSquawk] UK PENSIONERS JUST EXCEEDING TAX THRESHOLD WON'T PAY TAX
+- 09/15 20:51 [FirstSquawk] GERMAN CHANCELLOR MERZ: AIMS TO AGREE ON FURTHER REFORMS WITH SPD PARTY AFTER THE STATE ELECTIONS
+- 09/15 20:56 [FirstSquawk] GERMAN CHANCELLOR MERZ ON UPCOMING STATE ELECTIONS: I WAS ELECTED FOR FOUR YEARS AND WANT TO USE THIS TIME TO SOLVE PROBLEMS
