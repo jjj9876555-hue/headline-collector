@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 00:00 JST／対象: 09/15 12:00 〜 09/16 00:00 JST（時刻はすべて日本時間）
+生成: 2026-09-16 00:18 JST／対象: 09/15 12:18 〜 09/16 00:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 09/15 16:20 | 09/15 23:57 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 222 | 09/15 12:03 | 09/15 23:57 | 19分（19:31→19:50） |
-| financialjuice | 100 | 09/15 12:00 | 09/15 23:57 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 35 | 09/15 16:20 | 09/16 00:01 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 221 | 09/15 12:23 | 09/16 00:14 | 19分（19:31→19:50） |
+| financialjuice | 101 | 09/15 14:16 | 09/16 00:18 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 351 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 352 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 12:00 [financialjuice] S.Korea July M2 money supply rises 5.8% y/y vs 6.0% in June: central bank
-- 09/15 12:01 [financialjuice] China statistics bureau: forecasts steady growth for economy despite structural pressures
-- 09/15 12:03 [FirstSquawk] SOUTH KOREA (JUL) MONEY SUPPLY L SA MOM ACTUAL: -0.5% VS 0.8% PREVIOUS
-- 09/15 12:04 [FirstSquawk] SOUTH KOREA (JUL) MONEY SUPPLY M2 SA MOM ACTUAL: 0.3% VS 0.7% PREVIOUS
-- 09/15 12:09 [financialjuice] Drone strike damages industrial plant in Russia's Samara region: authorities
-- 09/15 12:13 [FirstSquawk] Industrial facility damaged by drone strike in Russia’s Samara region, authorities report.
 - 09/15 12:23 [FirstSquawk] China’s factories rev up as consumer spending loses momentum, highlighting persistent economic imbalances.
 - 09/15 12:34 [FirstSquawk] BOJ set for its biggest rate hike of the cycle as pressure on policymakers intensifies., citing RTRS
 - 09/15 12:35 [FirstSquawk] Coinbase climbs on CLARITY Act developments: The bill needs 60 votes to advance, with Republicans releasing a revised draft ahead of Tuesday’s procedural vote.
@@ -375,3 +369,10 @@
 - 09/15 23:57 [FirstSquawk] BESSENT FOCUSED ON MAINTAINING A STRONG TREASURY MARKET.
 - 09/15 23:57 [financialjuice] US Treasury Secretary Bessent: I am dedicated to keeping Treasury market robust and the deepest.
 - 09/15 23:57 [DeItaone] BESSENT: TRUMP COMPLETELY ALIGNED WITH NVIDIA'S JENSEN HUANG
+- 09/16 00:00 [financialjuice] US to sell $90 bln 4-Week bills on Sept 17th to settle on Sept 22nd
+- 09/16 00:01 [DeItaone] BRENT, US CRUDE FUTURES RISE BY MORE THAN $3 AFTER SHIPPING SOURCES TELL REUTERS OIL LOADINGS AT SAUDI ARABIA'S RED SEA PORT OF YANBU HAVE BEEN SUSPENDED
+- 09/16 00:01 [financialjuice] Meta Launches Meta One Subscription Plans Globally $META
+- 09/16 00:05 [financialjuice] US Treasury Secretary Bessent: Iran officials say their economy is in dire straits.
+- 09/16 00:14 [FirstSquawk] 3M'S CEO STATES THAT ROBUST SALES GROWTH VIA DISTRIBUTORS WILL PERSIST INTO THE THIRD QUARTER, WHICH SUPPORTS A SALES BOOST IN THE SECOND HALF OF THE YEAR.
+- 09/16 00:14 [FirstSquawk] 3M PREDICTS THAT ITS CONSUMER BUSINESS WILL IMPROVE IN THE SECOND HALF OF THE YEAR COMPARED TO THE FIRST HALF.
+- 09/16 00:18 [financialjuice] US Treasury Secretary Bessent: Stablecoins will boost demand for US dollar assets.

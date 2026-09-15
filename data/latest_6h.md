@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 00:00 JST／対象: 09/15 18:00 〜 09/16 00:00 JST（時刻はすべて日本時間）
+生成: 2026-09-16 00:18 JST／対象: 09/15 18:18 〜 09/16 00:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 09/15 18:02 | 09/15 23:57 | ⚠ 60分（20:28→21:28） |
-| FirstSquawk | 123 | 09/15 18:00 | 09/15 23:57 | 19分（19:31→19:50） |
-| financialjuice | 75 | 09/15 21:05 | 09/15 23:57 | 13分（21:32→21:45） |
+| DeItaone | 32 | 09/15 18:44 | 09/16 00:01 | ⚠ 60分（20:28→21:28） |
+| FirstSquawk | 117 | 09/15 18:26 | 09/16 00:14 | 19分（19:31→19:50） |
+| financialjuice | 79 | 09/15 21:05 | 09/16 00:18 | 13分（21:32→21:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 225 行（統合前 230 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 223 行（統合前 228 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 18:00 [FirstSquawk] GERMAN ZEW ECONOMIC SENTIMENT (SEP) ACTUAL: 34.7 VS 34.2 PREVIOUS; EST 40.0
-- 09/15 18:00 [FirstSquawk] GERMAN ZEW CURRENT CONDITIONS (SEP) ACTUAL: -47.1 VS -61.1 PREVIOUS; EST -52.1
-- 09/15 18:01 [FirstSquawk] EUROZONE ZEW SURVEY EXPECTATIONS SEP: 25.8 (PREV 31.4)
-- 09/15 18:02 [DeItaone] IRAN’S FOREIGN MINISTER TO VISIT CHINA Iranian Foreign Minister Abbas Araghchi will visit China on September 16 for talks with Chinese Foreign Minister Wang Yi. The visit follows reports alleging Chinese entities provided Iran with satellit…
-- 09/15 18:05 [FirstSquawk] UKMTO: A VERIFIED SOURCE HAS REPORTED THAT A VESSEL HAS BEEN STRUCK BY AN UNKNOWN PROJECTILE
-- 09/15 18:10 [FirstSquawk] ECB'S MOULIN: NO PLAN TO CHANGE MORTGAGE LENDING RULES IN FRANCE
-- 09/15 18:16 [FirstSquawk] BILL DUDLEY, FORMER NEW YORK FED PRESIDENT, SAYS THE FEDERAL RESERVE MUST RAISE RATES THIS WEEK AS MARKETS SEE A 90% CHANCE OF IT HAPPENING.
-- 09/15 18:16 [FirstSquawk] SAUDI ARABIA HAS CLOSED A KEY OIL PIPELINE AFTER AN ATTACK, CAUSING CONCERNS THAT GLOBAL ENERGY MARKETS COULD EXPERIENCE SEVERE SHORTAGES DUE TO THE IRAN WAR, RESULTING IN HIGHER FUEL AND ESSENTIAL PRICES.
-- 09/15 18:18 [FirstSquawk] SAUDI CIVIL DEFENSE WARNS OF POSSIBLE THREATS IN MECCA, TAIF, AND JEDDAH - STATE TELEVISION.
 - 09/15 18:26 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS DANGER PASSED IN MECCA, TAIF AND JEDDAH
 - 09/15 18:31 [FirstSquawk] RUSSIA LAVROV: RUSSIA READY FOR REASONABLE COMPROMISES ON UKRAINE: IFX
 - 09/15 18:33 [FirstSquawk] RUSSIAN FOREIGN MINISTER LAVROV: RUSSIA WILL NOT STOP FIGHTING DURING PEACE TALKS ON UKRAINE
@@ -249,3 +240,10 @@
 - 09/15 23:57 [FirstSquawk] BESSENT FOCUSED ON MAINTAINING A STRONG TREASURY MARKET.
 - 09/15 23:57 [financialjuice] US Treasury Secretary Bessent: I am dedicated to keeping Treasury market robust and the deepest.
 - 09/15 23:57 [DeItaone] BESSENT: TRUMP COMPLETELY ALIGNED WITH NVIDIA'S JENSEN HUANG
+- 09/16 00:00 [financialjuice] US to sell $90 bln 4-Week bills on Sept 17th to settle on Sept 22nd
+- 09/16 00:01 [DeItaone] BRENT, US CRUDE FUTURES RISE BY MORE THAN $3 AFTER SHIPPING SOURCES TELL REUTERS OIL LOADINGS AT SAUDI ARABIA'S RED SEA PORT OF YANBU HAVE BEEN SUSPENDED
+- 09/16 00:01 [financialjuice] Meta Launches Meta One Subscription Plans Globally $META
+- 09/16 00:05 [financialjuice] US Treasury Secretary Bessent: Iran officials say their economy is in dire straits.
+- 09/16 00:14 [FirstSquawk] 3M'S CEO STATES THAT ROBUST SALES GROWTH VIA DISTRIBUTORS WILL PERSIST INTO THE THIRD QUARTER, WHICH SUPPORTS A SALES BOOST IN THE SECOND HALF OF THE YEAR.
+- 09/16 00:14 [FirstSquawk] 3M PREDICTS THAT ITS CONSUMER BUSINESS WILL IMPROVE IN THE SECOND HALF OF THE YEAR COMPARED TO THE FIRST HALF.
+- 09/16 00:18 [financialjuice] US Treasury Secretary Bessent: Stablecoins will boost demand for US dollar assets.

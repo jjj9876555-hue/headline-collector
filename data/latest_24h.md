@@ -7,38 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 00:00 JST／対象: 09/15 00:00 〜 09/16 00:00 JST（時刻はすべて日本時間）
+生成: 2026-09-16 00:18 JST／対象: 09/15 00:18 〜 09/16 00:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 51 | 09/15 00:08 | 09/15 23:57 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 360 | 09/15 00:09 | 09/15 23:57 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 248 | 09/15 00:06 | 09/15 23:57 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 50 | 09/15 00:24 | 09/16 00:01 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 361 | 09/15 00:21 | 09/16 00:14 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 240 | 09/15 00:24 | 09/16 00:18 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 641 行（統合前 660 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 635 行（統合前 652 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 00:06 [financialjuice] ‼ BREAKING: Trump: Ukraine has agreed not to hit Russian energy targets.
-- 09/15 00:07 [financialjuice] Trump: Ukraine has agreed not to hit Russian energy targets. Russia has agreed to do likewise - Truth Social
-- 09/15 00:07 [financialjuice] Trump: World’s diesel price rise is caused by Russia-Ukraine war.
-- 09/15 00:07 [financialjuice] Trump: World’s diesel price rise not caused by Iran war.
-- 09/15 00:08 [financialjuice] Anthropic's Amodei and Openai's Altman spoke with US Senator Mark Warner over the weekend about AI risks - Senate Spokesperson.
-- 09/15 00:08 [DeItaone] TRUMP: UKRAINE HAS AGREED NOT TO HIT RUSSIAN ENERGY TARGETS, RUSSIA HAS AGREED TO DO, LIKEWISE
-- 09/15 00:08 [financialjuice] CME Group: 100-ounce Silver futures draw significant demand in first weekend of 24/7 trading.
-- 09/15 00:09 [DeItaone] ANTHROPIC'S AMODEI, OPENAI'S ALTMAN SPOKE WITH U.S. SENATOR MARK WARNER OVER THE WEEKEND ABOUT AI RISKS - SENATE SPOKESPERSON
-- 09/15 00:09 [financialjuice] Nvidia: Perplexity local agent platform now available on Windows RTX PCs. $NVDA $MSFT
-- 09/15 00:09 [FirstSquawk] TRUMP: UKRAINE HAS AGREED NOT TO HIT RUSSIAN ENERGY TARGETS. RUSSIA HAS AGREED TO DO, LIKEWISE! THE WORLD’S DIESEL PRICE RISE IS MOSTLY CAUSED BY THE RUSSIA/UKRAINE WAR, NOT IRAN. PRESIDENT DJT
-- 09/15 00:15 [financialjuice/FirstSquawk] ECB's President Lagarde: Europe must also build AI infrasctucture itself.
-- 09/15 00:16 [financialjuice/FirstSquawk] ECB's President Lagarde: Europe can’t simply import AI technologies from US.
-- 09/15 00:16 [financialjuice] Fed bids for 6-Month bills total $7.1 bln
-- 09/15 00:16 [financialjuice] Fed bids for 3-Month bills total $8.2 bln
-- 09/15 00:16 [financialjuice] ECB's President Lagarde's Speech on 'A new age of capital: growth, sovereignty and AI'
+- 09/15 00:21 [FirstSquawk] ECB'S PRESIDENT LAGARDE: EUROPE MUST ALSO BUILD AI INFRASCTUCTURE ITSELF.
+- 09/15 00:21 [FirstSquawk] ECB'S PRESIDENT LAGARDE: EUROPE CAN’T SIMPLY IMPORT AI TECHNOLOGIES FROM US.
 - 09/15 00:24 [financialjuice] Trump on AI/Data Centers: Don’t kill the Golden Goose - Truth Social
 - 09/15 00:24 [DeItaone] TRUMP: “DON’T KILL THE GOLDEN GOOSE” President Trump says America’s AI and data center boom is happening because the U.S. holds a commanding global lead. He urged against measures that could slow the industry’s expansion, warning policymake…
 - 09/15 00:25 [FirstSquawk] TRUMP: THE ONLY REASON THE AI/DATA CENTER OUTBURST IS HAPPENING IS BECAUSE THE UNITED STATES IS LEADING, BY A LOT, EVERY OTHER COUNTRY. DON’T KILL THE GOLDEN GOOSE! PRESIDENT DONALD J. TRUMP
@@ -665,3 +652,10 @@
 - 09/15 23:57 [FirstSquawk] BESSENT FOCUSED ON MAINTAINING A STRONG TREASURY MARKET.
 - 09/15 23:57 [financialjuice] US Treasury Secretary Bessent: I am dedicated to keeping Treasury market robust and the deepest.
 - 09/15 23:57 [DeItaone] BESSENT: TRUMP COMPLETELY ALIGNED WITH NVIDIA'S JENSEN HUANG
+- 09/16 00:00 [financialjuice] US to sell $90 bln 4-Week bills on Sept 17th to settle on Sept 22nd
+- 09/16 00:01 [DeItaone] BRENT, US CRUDE FUTURES RISE BY MORE THAN $3 AFTER SHIPPING SOURCES TELL REUTERS OIL LOADINGS AT SAUDI ARABIA'S RED SEA PORT OF YANBU HAVE BEEN SUSPENDED
+- 09/16 00:01 [financialjuice] Meta Launches Meta One Subscription Plans Globally $META
+- 09/16 00:05 [financialjuice] US Treasury Secretary Bessent: Iran officials say their economy is in dire straits.
+- 09/16 00:14 [FirstSquawk] 3M'S CEO STATES THAT ROBUST SALES GROWTH VIA DISTRIBUTORS WILL PERSIST INTO THE THIRD QUARTER, WHICH SUPPORTS A SALES BOOST IN THE SECOND HALF OF THE YEAR.
+- 09/16 00:14 [FirstSquawk] 3M PREDICTS THAT ITS CONSUMER BUSINESS WILL IMPROVE IN THE SECOND HALF OF THE YEAR COMPARED TO THE FIRST HALF.
+- 09/16 00:18 [financialjuice] US Treasury Secretary Bessent: Stablecoins will boost demand for US dollar assets.
