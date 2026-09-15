@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 10:38 JST／対象: 09/14 22:38 〜 09/15 10:38 JST（時刻はすべて日本時間）
+生成: 2026-09-15 10:53 JST／対象: 09/14 22:53 〜 09/15 10:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 25 | 09/14 23:00 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 154 | 09/14 22:38 | 09/15 10:38 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 145 | 09/14 22:39 | 09/15 10:31 | 34分（07:55→08:29） |
+| FirstSquawk | 151 | 09/14 22:54 | 09/15 10:49 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 149 | 09/14 22:56 | 09/15 10:50 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 305 行（統合前 328 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 306 行（統合前 328 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 22:38 [FirstSquawk] UK GOVT CONSIDERING TAKEOVER OF SPECIALITY STEEL UK: FT
-- 09/14 22:39 [FirstSquawk] JOHNSON & JOHNSON SHARES RISE ON APOLLO GLOBAL TAKEOVER TALKS - INVESTING
-- 09/14 22:39 [FirstSquawk] RUSSIA BANS SULFURIC ACID EXPORTS UNTIL YEAR-END: KOMMERSANT
-- 09/14 22:39 [financialjuice] UK government considering takeover of insolvent steelmaker - FT
-- 09/14 22:45 [FirstSquawk] AI BOOM FALTERS: US TECH STOCKS SLUMP AS BIG TECH CALLS FOR AI SLOWDOWN
-- 09/14 22:49 [FirstSquawk] CARDIFF ONCOLOGY SCORES MAJOR LEGAL WIN, SETTLES DISPUTE WITH NERVIANO MEDICAL SCIENCES $CRDF
 - 09/14 22:54 [FirstSquawk] US VP VANCE: CONCERNED BY HOUTHI SEIZURE OF PARAMO ISLAND AND RED SEA; KEEPING TABS
 - 09/14 22:56 [financialjuice] China's Foreign Minister Wang Yi: China and EU should avoid trade conflict escalation.
 - 09/14 22:57 [FirstSquawk] FOREIGN MINISTERS OF CHINA, FRANCE HOLD PHONE CALL: XINHUA
@@ -329,3 +323,10 @@
 - 09/15 10:31 [FirstSquawk] CHINA (AUG) USED HOME PRICES MOM ACTUAL: -0.31% VS -0.29% PREVIOUS
 - 09/15 10:31 [financialjuice] China Aug Beijing new-home prices decline 0.2% m/m (July -0.3%): stats bureau
 - 09/15 10:38 [FirstSquawk] Israeli military chief calls for legal review of “NAZA,” a documentary focused on the Gaza war.
+- 09/15 10:43 [FirstSquawk] Calls for restraint are growing among AI leaders, but investors on Wall Street remain bullish on the sector, according to the WSJ.
+- 09/15 10:43 [financialjuice] Saudi Arabian Civil Defence issues emergency alert for Yanbu on social media platform X
+- 09/15 10:44 [financialjuice] Saudi civil defence issues emergency alert for Taif: state TV
+- 09/15 10:48 [financialjuice] Saudi Arabian civil defence issues urgent alert for Abha and Jazan: state TV
+- 09/15 10:49 [FirstSquawk] Urgent alerts issued for Abha and Jazan by Saudi Arabia’s civil defence, state TV reports.
+- 09/15 10:50 [financialjuice] China Aug Shanghai new home prices rise 3.0% y/y (July 3.0%) : stats bureau
+- 09/15 10:50 [financialjuice] Saudi Arabian civil defence issues emergency alert for AlUla: State TV

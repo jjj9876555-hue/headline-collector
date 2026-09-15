@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 10:38 JST／対象: 09/14 10:38 〜 09/15 10:38 JST（時刻はすべて日本時間）
+生成: 2026-09-15 10:53 JST／対象: 09/14 10:53 〜 09/15 10:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 322 | 09/14 10:40 | 09/15 10:38 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 243 | 09/14 10:40 | 09/15 10:31 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 319 | 09/14 10:55 | 09/15 10:49 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 247 | 09/14 11:31 | 09/15 10:50 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 592 行（統合前 623 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 593 行（統合前 624 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 10:40 [FirstSquawk] European leaders have gathered in Rovaniemi, Finland, for a two-day summit focused on the Arctic region’s economic opportunities and security, Finnish broadcaster YLE reports.
-- 09/14 10:40 [financialjuice] S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.050% yield
-- 09/14 10:43 [FirstSquawk] South Korea’s central bank sells 91-day Monetary Stabilisation Bonds at a 3.050% yield, according to the Bank of Korea.
-- 09/14 10:46 [FirstSquawk] Beijing’s trust concerns over Hong Kong are emerging as a key challenge for the city’s next five-year plan, raising questions over what commitments Hong Kong can credibly make to strengthen ties with the central government.
-- 09/14 10:48 [FirstSquawk] China’s intelligence chief warns that AI could pose growing security risks if controlled by hostile forces, highlighting the technology’s emerging role in strategic competition.
-- 09/14 10:53 [FirstSquawk] Iraq and the UAE discuss regional security and developments in Yemen, while also exploring stronger Iraqi-Gulf cooperation and efforts to preserve stability across the region.
 - 09/14 10:55 [FirstSquawk] Brent crude surges at the open after Saudi Arabia shuts a major pipeline following an attack, intensifying concerns over global oil supply.
 - 09/14 10:58 [FirstSquawk] India’s rapid data center expansion is emerging as a new growth driver for renewable energy, as rising power demand accelerates investment in cleaner electricity.
 - 09/14 11:02 [FirstSquawk] North Korea says its recent missile launches were conducted as live-fire drills, framing the tests as part of a military training exercise.
@@ -616,3 +610,10 @@
 - 09/15 10:31 [FirstSquawk] CHINA (AUG) USED HOME PRICES MOM ACTUAL: -0.31% VS -0.29% PREVIOUS
 - 09/15 10:31 [financialjuice] China Aug Beijing new-home prices decline 0.2% m/m (July -0.3%): stats bureau
 - 09/15 10:38 [FirstSquawk] Israeli military chief calls for legal review of “NAZA,” a documentary focused on the Gaza war.
+- 09/15 10:43 [FirstSquawk] Calls for restraint are growing among AI leaders, but investors on Wall Street remain bullish on the sector, according to the WSJ.
+- 09/15 10:43 [financialjuice] Saudi Arabian Civil Defence issues emergency alert for Yanbu on social media platform X
+- 09/15 10:44 [financialjuice] Saudi civil defence issues emergency alert for Taif: state TV
+- 09/15 10:48 [financialjuice] Saudi Arabian civil defence issues urgent alert for Abha and Jazan: state TV
+- 09/15 10:49 [FirstSquawk] Urgent alerts issued for Abha and Jazan by Saudi Arabia’s civil defence, state TV reports.
+- 09/15 10:50 [financialjuice] China Aug Shanghai new home prices rise 3.0% y/y (July 3.0%) : stats bureau
+- 09/15 10:50 [financialjuice] Saudi Arabian civil defence issues emergency alert for AlUla: State TV

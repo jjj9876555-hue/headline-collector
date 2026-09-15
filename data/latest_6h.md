@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 10:38 JST／対象: 09/15 04:38 〜 09/15 10:38 JST（時刻はすべて日本時間）
+生成: 2026-09-15 10:53 JST／対象: 09/15 04:53 〜 09/15 10:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/15 05:37 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 62 | 09/15 04:45 | 09/15 10:38 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 39 | 09/15 04:41 | 09/15 10:31 | 34分（07:55→08:29） |
+| FirstSquawk | 63 | 09/15 05:03 | 09/15 10:49 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 42 | 09/15 04:58 | 09/15 10:50 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 99 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 104 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 04:41 [financialjuice/FirstSquawk] Houthis Spokesman: Yemeni Armed Forces successfully intercepted two Saudi Arabian fighter jets - IRIB.
-- 09/15 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -166.6 MLN NASDAQ 100: 120.0 MLN DOW 30: -96.0 MLN MAG 7: 365.0 MLN $MACRO
 - 09/15 04:58 [financialjuice] OpenAI's top lobbyist is meeting with lawmakers today - Politico.
 - 09/15 05:03 [FirstSquawk] ZELENSKY: UKRAINE IS READY TO CONSIDER A MUTUAL HALT TO STRIKES ON CRITICAL INFRASTRUCTURE IF THE U.S. CAN ENSURE RUSSIA'S LONG-TERM COMMITMENT.
 - 09/15 05:03 [FirstSquawk] ZELENSKY: PEACE TALKS MUST INCLUDE ENERGY, FOOD, TRANSPORT ROUTES AND CRITICAL INFRASTRUCTURE, WITH A FAIR AND LASTING SOLUTION.
@@ -123,3 +121,10 @@
 - 09/15 10:31 [FirstSquawk] CHINA (AUG) USED HOME PRICES MOM ACTUAL: -0.31% VS -0.29% PREVIOUS
 - 09/15 10:31 [financialjuice] China Aug Beijing new-home prices decline 0.2% m/m (July -0.3%): stats bureau
 - 09/15 10:38 [FirstSquawk] Israeli military chief calls for legal review of “NAZA,” a documentary focused on the Gaza war.
+- 09/15 10:43 [FirstSquawk] Calls for restraint are growing among AI leaders, but investors on Wall Street remain bullish on the sector, according to the WSJ.
+- 09/15 10:43 [financialjuice] Saudi Arabian Civil Defence issues emergency alert for Yanbu on social media platform X
+- 09/15 10:44 [financialjuice] Saudi civil defence issues emergency alert for Taif: state TV
+- 09/15 10:48 [financialjuice] Saudi Arabian civil defence issues urgent alert for Abha and Jazan: state TV
+- 09/15 10:49 [FirstSquawk] Urgent alerts issued for Abha and Jazan by Saudi Arabia’s civil defence, state TV reports.
+- 09/15 10:50 [financialjuice] China Aug Shanghai new home prices rise 3.0% y/y (July 3.0%) : stats bureau
+- 09/15 10:50 [financialjuice] Saudi Arabian civil defence issues emergency alert for AlUla: State TV
