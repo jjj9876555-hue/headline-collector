@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 23:26 JST／対象: 09/15 17:26 〜 09/15 23:26 JST（時刻はすべて日本時間）
+生成: 2026-09-15 23:45 JST／対象: 09/15 17:45 〜 09/15 23:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/15 18:02 | 09/15 23:25 | ⚠ 60分（20:28→21:28） |
-| FirstSquawk | 106 | 09/15 17:30 | 09/15 23:22 | 19分（19:31→19:50） |
-| financialjuice | 50 | 09/15 21:05 | 09/15 23:25 | 13分（21:32→21:45） |
+| DeItaone | 28 | 09/15 18:02 | 09/15 23:34 | ⚠ 60分（20:28→21:28） |
+| FirstSquawk | 108 | 09/15 17:56 | 09/15 23:44 | 19分（19:31→19:50） |
+| financialjuice | 62 | 09/15 21:05 | 09/15 23:39 | 13分（21:32→21:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 175 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 194 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 17:30 [FirstSquawk] SPREAD BETWEEN FRENCH & GERMAN 10-YR BOND YIELDS RISES TO HIGHEST SINCE 2012 AT 98.15, UP 2 BPS
-- 09/15 17:34 [FirstSquawk] ITALY GENERAL GOV DEBT (EUR) JUL: 3.206T (PREVR 3.207T)
-- 09/15 17:41 [FirstSquawk] KUWAIT STRONGLY CONDEMNED HOUTHIS' BALLISTIC-MISSILE AND DRONE ATTACKS IN SAUDI ARABIA'S KHAMIS MUSHAIT, ABHA, AND TAIF, WHICH INJURED MANY CIVILIANS AND DAMAGED HOMES AND CARS.
-- 09/15 17:41 [FirstSquawk] YUAN-PRICED CRUDE FUTURES IN CHINA HAVE REACHED THEIR HIGHEST POINT EVER.
-- 09/15 17:42 [FirstSquawk] MOODY’S £330M LONDON HQ PUT UP FOR SALE MOODY’S CITY OF LONDON HQ HITS MARKET FOR £330M
-- 09/15 17:43 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE HIT RUSSIA'S SYZRAN OIL REFINERY.
 - 09/15 17:56 [FirstSquawk] FRANCE’S FIN MIN LESCURE: FRANCE’S FINANCIAL SECTOR IS RESILIENT, SOLID
 - 09/15 17:56 [FirstSquawk] WHO EBOLA EXPERT: THERE'S SOME EARLY SIGNS OF IMPROVEMENT, EFFORTS WILL NEED TO BE TO BE SUSTAINED AND STRENGTHENED
 - 09/15 18:00 [FirstSquawk] GERMAN ZEW ECONOMIC SENTIMENT (SEP) ACTUAL: 34.7 VS 34.2 PREVIOUS; EST 40.0
@@ -199,3 +193,28 @@
 - 09/15 23:24 [DeItaone] U.S. POVERTY FALLS AS INCOMES HIT RECORD HIGH The U.S. poverty rate fell to 10.2% in 2025, while median household income jumped 6% to a record $87,460. A notable improvement in the household economic picture.
 - 09/15 23:25 [financialjuice] The UK, US and the Netherlands issue an advisory exposing spyware used by Iranian state actors to target dissidents, activists, and journalists' - Statement by UK's NCSC.
 - 09/15 23:25 [DeItaone] BESSENT SAYS WE HAVE SEEN SOME FORWARD FACING STATEMENTS FROM UNITED ARAB EMIRATES TO CUT OFF IRAN FINANCES
+- 09/15 23:26 [DeItaone] BESSENT: WE HAVE HAD GOOD PRIVATE DISCUSSIONS WITH CHINA ON IRANIAN FINANCIAL LINKS
+- 09/15 23:27 [financialjuice] US Treasury Secretary Bessent: We have had good private discussions with China on Iranian financial links.
+- 09/15 23:27 [financialjuice] US Treasury Secretary Bessent: I will continue discussions with China's He Lifeng this weekend on Iran.
+- 09/15 23:27 [FirstSquawk] U.S. TREASURY'S BESSENT: TRUMP AND XI WILL CONTINUE DISCUSSIONS ON IRAN AT SUMMIT LATER THIS MONTH
+- 09/15 23:27 [financialjuice] US Treasury Secretary Bessent: Trump and China’s President Xi will continue discussions on Iran at a summit later this month.
+- 09/15 23:28 [financialjuice] US Treasury Secretary Bessent: The IMF is in advanced talks with China on their imbalances.
+- 09/15 23:29 [financialjuice] US REDBOOK YOY ACTUAL 8.5% (FORECAST -, PREVIOUS 8.3%) $MACRO
+- 09/15 23:30 [financialjuice] Senate Republican Leader Thune: I am open to considering an export ban on diesel.
+- 09/15 23:30 [DeItaone] *BESSENT: WILL BE MEETING WITH HE LIFENG THIS WEEKEND *BESSENT: HAVE HAD GOOD, PRIVATE, TALKS WITH CHINA ON IRAN *BESSENT: TALKS WITH CHINA ON IRAN WILL CONTINUE WITH HE LIFENG
+- 09/15 23:30 [DeItaone] BESSENT SAYS U.S. BOND MARKET IS THE BEST-PERFORMING IN THE WORLD
+- 09/15 23:31 [financialjuice] US Treasury Secretary Bessent: The US bond market is the best performing in the world.
+- 09/15 23:33 [DeItaone] BESSENT: TRUMP ADMINISTRATION IS AT FOREFRONT OF EXAMINING AI MODELS
+- 09/15 23:33 [financialjuice] US Treasury Secretary Bessent: AI company CEOs can stop progress anytime they want to.
+- 09/15 23:34 [DeItaone] *BESSENT SAYS WILL MEET CHINA'S HE LIFENG THIS WEEKEND
+- 09/15 23:34 [FirstSquawk] THUNE EXPRESSES WILLINGNESS TO CONSIDER A DIESEL EXPORT BAN.
+- 09/15 23:34 [FirstSquawk] BESSENT SAYS US BOND MARKET IS THE TOP PERFORMER GLOBALLY, HIGHLIGHTING ROBUST US TREASURY AUCTIONS.
+- 09/15 23:34 [FirstSquawk] CISCO AND NVIDIA RENEW PARTNERSHIP FOR SPLUNK AGENTIC AI.
+- 09/15 23:34 [FirstSquawk] BESSENT ANNOUNCED A MEETING WITH CHINA'S HE LIFENG THIS WEEKEND.
+- 09/15 23:36 [financialjuice] US Treasury Secretary Bessent: I have been coordinating for 6 months on AI and cybersecurity.
+- 09/15 23:36 [FirstSquawk] BESSENT: BIGGEST BANKS HAVE GOOD CYBERSECURITY RESILIENCE
+- 09/15 23:38 [financialjuice] US Treasury Secretary Bessent: At a defict-to-GDP ratio of 3%, we can start to pay down debt.
+- 09/15 23:39 [financialjuice] US Treasury Secretary Bessent: We would have continued fiscal contraction this year if not for tariff refunds.
+- 09/15 23:39 [financialjuice] Traders pare ECB bets. See 50% chance of rate hike in October.
+- 09/15 23:41 [FirstSquawk] THE HOME DEPOT FACES WEAK DEMAND OUTLOOK AS CONSUMERS HOLD BACK ON BIG-TICKET SPENDING THE HOME DEPOT SEES NO 2026 DEMAND RECOVERY AS CONSUMERS REMAIN RELUCTANT TO SPEND ON MAJOR PROJECTS $HD
+- 09/15 23:44 [FirstSquawk] CORRECTION - THUNE SAYS 'OPEN TO EXPLORING' AN EXPORT BAN ON DIESEL
