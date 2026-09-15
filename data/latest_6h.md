@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 07:58 JST／対象: 09/16 01:58 〜 09/16 07:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 08:16 JST／対象: 09/16 02:16 〜 09/16 08:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/16 02:04 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 84 | 09/16 02:06 | 09/16 07:51 | 37分（04:18→04:56） |
-| financialjuice | 70 | 09/16 02:00 | 09/16 07:45 | 38分（05:04→05:43） |
+| DeItaone | 7 | 09/16 03:03 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 79 | 09/16 02:19 | 09/16 08:13 | 37分（04:18→04:56） |
+| financialjuice | 62 | 09/16 02:19 | 09/16 08:07 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 153 行（統合前 164 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 140 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 02:00 [financialjuice] Treasury WI 20 Yr yield 5.400% before $13 billion auction
-- 09/16 02:00 [financialjuice] US Treasury Secretary Bessent hearing at House Financial Services panel concludes.
-- 09/16 02:02 [financialjuice] US 20-YEAR BOND HIGH YIELD ACTUAL 5.42% (FORECAST -, PREVIOUS 5.204%) $MACRO
-- 09/16 02:02 [financialjuice] US 20-YEAR BOND BID-TO-COVER ACTUAL 2.570 (FORECAST -, PREVIOUS 2.530) $MACRO
-- 09/16 02:03 [financialjuice] US 20 Yr Bond Auction High Yield 5.42% (Tail of 2 BPS) Bid-to-Cover 2.57 Sells $13 bln Awards 30.14% of bids at high Primary dealers take 16.85% Direct 30.68% Indirect 52.47%
-- 09/16 02:04 [DeItaone] *US 20Y BONDS DRAW 5.420% VS 5.400% PRE-SALE WHEN-ISSUED YIELD
-- 09/16 02:06 [DeItaone] U.S. 20-YEAR TREASURY YIELD HITS 5.42% The Treasury’s $13 billion 20-year bond auction cleared at a high yield of 5.420%, highlighting elevated long-term borrowing costs. Demand remained solid, with a 2.57 bid-to-cover ratio, while indirect…
-- 09/16 02:06 [FirstSquawk] AMAZON HAS LAUNCHED A FIVE-SERVICE STREAMING BUNDLE ON PRIME VIDEO IN THE U.S. FOR $29.99/MONTH STARTING SEPT. 15, 2026, COMBINING AMC+, BRITBOX, MGM+, PBS MASTERPIECE AND STARZ - WEBSITE
-- 09/16 02:07 [financialjuice] US prepares sale of 2,000-pound bombs to Israel - WaPo
-- 09/16 02:07 [FirstSquawk] U.S. 20-YEAR BOND SALE DREW A HIGH YIELD OF 5.420%, UP FROM 5.204% PREVIOUSLY AND ABOVE THE 5.40% WHEN-ISSUED LEVEL, WITH A BID-TO-COVER RATIO OF 2.57 VERSUS 2.53. DIRECT BIDDERS TOOK 30.7% VERSUS 24.6% PREVIOUSLY, WITH INDIRECT BIDDERS AT …
-- 09/16 02:07 [financialjuice/FirstSquawk] Israel's Chief of Staff met with military commanders from Gulf countries - Israel's N12 News
-- 09/16 02:08 [FirstSquawk] U.S. IS PREPARING A SALE OF 2,000-POUND BOMBS TO ISRAEL - WAPO
-- 09/16 02:08 [financialjuice/FirstSquawk] Germany’s Chancellor Merz cancels trip to New York next week. To remain in Berlin - Govt Officials
-- 09/16 02:12 [FirstSquawk] GOOGLE SAYS INTRODUCING GEMINI 3.8 LIVE AND 3.8 LIVE EXTENDED THINKING, AS PER WEBSITE
-- 09/16 02:13 [financialjuice] IAEA Spokesperson Kamalvandi: Iran will not surrender. our nuclear program is peaceful.
-- 09/16 02:13 [FirstSquawk] OIL FUTURES EXTEND GAINS, WITH U.S. CRUDE UP BY $5 A BARREL AS SAUDI ARABIA CANCELS SOME OIL CARGOES AND SUSPENDS LOADINGS AT YANBU AFTER THE PIPELINE HIT
-- 09/16 02:14 [FirstSquawk] GOOGLE SAYS PARTNERING WITH COMPANIES LIKE SALESFORCE, GENSPARK, AND LUMERIS FOR 3.8 LIVE AND 3.8 LIVE EXTENDED THINKING
-- 09/16 02:14 [FirstSquawk] IAEA SPOKESPERSON KAMALVANDI SAYS 'IRAN WILL NOT SURRENDER' AND THAT 'OUR NUCLEAR PROGRAM IS PEACEFUL'
 - 09/16 02:19 [financialjuice] Israel helping Saudi Arabia with intelligence is aimed at ensuring freedom of navigation in the Bab al-Mandab Strait - Israel's Kan News citing foreign source
 - 09/16 02:19 [FirstSquawk] ISRAEL HELPING SAUDI ARABIA WITH INTELLIGENCE IS AIMED AT ENSURING FREEDOM OF NAVIGATION IN THE BAB AL-MANDAB STRAIT - ISRAEL'S KAN NEWS, CITING A FOREIGN SOURCE
 - 09/16 02:20 [financialjuice/FirstSquawk] Canada's Resources Minister Tim Hodgson: Canada aiming to complete energy-, mining-project reviews within 12 months.
@@ -177,3 +159,8 @@
 - 09/16 07:45 [financialjuice] New Zealand Q2 current account deficit NZ$1.67 billion vs Poll NZ$2.571 billion
 - 09/16 07:51 [FirstSquawk] NEW ZEALAND'S Q2 CURRENT ACCOUNT SHOWED A DEFICIT OF NZ$1.67 BLN, NARROWER THAN THE FORECAST NZ$2.6 BLN DEFICIT, WITH THE YEAR-TO-JUNE DEFICIT AT NZ$14.583 BLN VERSUS A POLL OF NZ$17.523 BLN
 - 09/16 07:51 [FirstSquawk] NEW ZEALAND'S Q2 CURRENT ACCOUNT SHOWED A DEFICIT OF NZ$1.67 BLN, NARROWER THAN THE POLL OF NZ$2.571 BLN, WITH THE SEASONALLY ADJUSTED DEFICIT AT NZ$3.77 BLN AND THE YEAR-TO-JUNE DEFICIT ESTIMATED AT -3.2% OF GDP VERSUS A POLL OF -3.9%
+- 09/16 08:07 [financialjuice] Meta's Zuckerberg: every lab must have the duty and motivation to advance at the speed needed to train its models securely
+- 09/16 08:13 [FirstSquawk] THE HOUSE VOTED 232-147 TO BLOCK REP. AL GREEN'S ATTEMPT TO IMPEACH TRUMP, MARKING THE THIRD FAILED IMPEACHMENT PUSH IN TWO YEARS
+- 09/16 08:13 [FirstSquawk] NVIDIA CEO JENSEN HUANG SAYS THE IDEA THAT 'AI IS GOING TO DESTROY JOBS' IS 'COMPLETELY NONSENSE'
+- 09/16 08:13 [FirstSquawk] U.S. SECRETARY OF STATE MARCO RUBIO SAYS THE SOUTH AFRICAN PEOPLE 'ARE BEING FAILED BY A GOVERNMENT THAT IS DESTROYING ITS ECONOMY THROUGH AN OBSESSIVE PURSUIT OF RACIAL GRIEVANCE AGAINST THE AFRIKANER MINORITY', ACCUSING THE GOVERNMENT OF …
+- 09/16 08:13 [FirstSquawk] U.S. SECRETARY OF STATE MARCO RUBIO SAYS HE IS ANNOUNCING A NEW VISA RESTRICTION POLICY TARGETING FOREIGN NATIONALS 'WHO ENACT OR ENABLE POLICIES THAT PROMOTE RACE-BASED DISCRIMINATION, INCITE VIOLENCE, OR ENABLE LAND CONFISCATION WITHOUT C…
