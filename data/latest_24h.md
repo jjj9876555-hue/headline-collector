@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 03:35 JST／対象: 09/15 03:35 〜 09/16 03:35 JST（時刻はすべて日本時間）
+生成: 2026-09-16 03:53 JST／対象: 09/15 03:53 〜 09/16 03:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 56 | 09/15 04:06 | 09/16 03:03 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 377 | 09/15 03:36 | 09/16 03:35 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 234 | 09/15 03:45 | 09/16 03:33 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 383 | 09/15 03:54 | 09/16 03:50 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 234 | 09/15 03:57 | 09/16 03:45 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 649 行（統合前 668 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 656 行（統合前 675 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 03:36 [FirstSquawk] OPENAI ACQUIRES SMARTPHONE CAMERA STARTUP GLASS IMAGING IN A DEAL VALUED AT OVER $300 MILLION: WSJ
-- 09/15 03:45 [financialjuice/FirstSquawk] Brent Crude futures settle at $105.68/bbl, up $1.07, 1.02%.
-- 09/15 03:47 [FirstSquawk] BRENT CRUDE RISES 1.26% TO $105.93 A BARREL AND WTI GAINS 1.47% TO $101.52 AFTER SAUDI ARABIA SHUT ITS EAST-WEST PIPELINE FOLLOWING ATTACKS, RAISING GLOBAL SUPPLY CONCERNS.
-- 09/15 03:47 [FirstSquawk] OIL GAINS EASE AS TRADERS WEIGH POSSIBLE DIPLOMATIC PROGRESS WITH IRAN, WHILE THE PIPELINE’S OUTAGE DURATION AND DISRUPTIONS AROUND THE STRAIT OF HORMUZ REMAIN UNCERTAIN.
-- 09/15 03:48 [financialjuice] Saudis: A warning has been issued in the Najran province.
-- 09/15 03:52 [financialjuice] Saudi Civil Defense: The danger has passed in Najran.
 - 09/15 03:54 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS THE DANGER HAS PASSED IN NAJRAN AFTER A WARNING WAS ISSUED IN THE PROVINCE.
 - 09/15 03:56 [FirstSquawk] IRGC SAYS STRAIT OF HORMUZ REMAINS CLOSED AND IS UNDER SMART NAVAL CONTROL: TASNIM VIA DBNEWS
 - 09/15 03:57 [financialjuice] IRGC Navy Command: The Strait of Hormuz is closed and remains under the intelligent control of the IRGC Navy - IRNA.
@@ -673,3 +667,16 @@
 - 09/16 03:33 [financialjuice] NYMEX Natural Gas October futures settle at $2.9190/MMBtu.
 - 09/16 03:33 [financialjuice] NVIDIA CEO Huang: We do not need new laws or regulations for AI safety - Salesforce Event. $NVDA
 - 09/16 03:35 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $105.83/BBL, UP $4.44, OR 4.38%
+- 09/16 03:35 [FirstSquawk] US DIESEL FUTURES SETTLE ABOVE $5.26/GALLON, HIGHEST ON RECORD
+- 09/16 03:41 [FirstSquawk] NVIDIA CEO: AI COMPANIES SHOULD MOVE CAUTIOUSLY AND ONLY RELEASE PRODUCTS ONCE CONFIDENT THE MARKET WILL EMBRACE THEM.
+- 09/16 03:42 [financialjuice] ❗ Clarity Act is on track to the fail procedural hurdle in the Senate.
+- 09/16 03:42 [financialjuice] ❗ The Clarity Act is on track to fail the procedural hurdle in the Senate.
+- 09/16 03:44 [FirstSquawk] CLARITY ACT EXPECTED TO FAIL KEY PROCEDURAL VOTE IN THE U.S. SENATE AS LAWMAKERS CONTINUE VOTING.
+- 09/16 03:44 [FirstSquawk] JPMORGAN CO-PRESIDENT DOUG PETNO: JAMIE DIMON HAS NO PLANS TO STEP AWAY FROM HIS ROLE.
+- 09/16 03:45 [financialjuice] Brent CRUDe futures settle at $108.75/bbl, up $3.07, 2.9%.
+- 09/16 03:45 [FirstSquawk] BRENT CRUDE SETTLES 2.9% HIGHER AT $108.75/BBL, GAINING $3.07.
+- 09/16 03:47 [FirstSquawk] BRENT CRUDE RISES 3.0% TO $108.86 A BARREL AND WTI JUMPS 4.7% TO $106.15, AS TRADERS WEIGH SUPPLY RISKS FROM THE MIDDLE EAST AND RUSSIA, WITH SAUDI ARABIA’S KEY EAST-WEST PIPELINE STILL OFFLINE.
+- 09/16 03:47 [FirstSquawk] DIESEL FUTURES HIT A FOUR-YEAR HIGH, WHILE LIBYA SHUT SEVERAL OIL FIELDS AND SAUDI ARAMCO DELAYS SOME EUROPEAN SHIPMENTS, DEEPENING CONCERNS OVER TIGHTER GLOBAL FUEL SUPPLIES.
+- 09/16 03:49 [FirstSquawk] JPMORGAN'S PETNO: U.S. CONSUMERS AND CORPORATES SHOW NO MAJOR WARNING SIGNS, WITH VERY FEW AREAS OF CONCERN IN THE ECONOMY.
+- 09/16 03:49 [FirstSquawk] JPMORGAN'S PETNO: NO SYSTEMIC RISKS ARE CURRENTLY CAUSING CONCERN.
+- 09/16 03:50 [FirstSquawk] JPMORGAN'S PETNO: DEALMAKING ACTIVITY REMAINS STRONG AND ROBUST.

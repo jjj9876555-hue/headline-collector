@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 03:35 JST／対象: 09/15 21:35 〜 09/16 03:35 JST（時刻はすべて日本時間）
+生成: 2026-09-16 03:53 JST／対象: 09/15 21:53 〜 09/16 03:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 40 | 09/15 21:54 | 09/16 03:03 | ⚠ 57分（02:06→03:03） |
-| FirstSquawk | 122 | 09/15 21:36 | 09/16 03:35 | 41分（01:25→02:06） |
-| financialjuice | 107 | 09/15 21:45 | 09/16 03:33 | 35分（01:24→02:00） |
+| FirstSquawk | 123 | 09/15 21:57 | 09/16 03:50 | 41分（01:25→02:06） |
+| financialjuice | 108 | 09/15 21:54 | 09/16 03:45 | 35分（01:24→02:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 257 行（統合前 270 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 259 行（統合前 273 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 21:36 [FirstSquawk] WELLS FARGO'S SANTOMASSIMO SAYS NET INTEREST MARGIN COULD BE BETTER THAN GUIDANCE IN Q3 || SAYS NO CHANGE TO FY26 NET INTEREST INCOME FORECAST
-- 09/15 21:36 [FirstSquawk] WELLS FARGO'S SANTOMASSIMO SAYS NOT SEEING CHANGES IN DELINQUENCY TRENDS || SAYS MIDDLE MARKET CUSTOMERS CONTINUE TO REMAIN CAUTIOUS || SAYS EXPECT THIS YEAR AND EARLY NEXT YEAR TO BE HEALTHY || ON LOAN GROWTH SAYS WILL LIKELY BE BETTER THA…
-- 09/15 21:36 [FirstSquawk] WELLS FARGO CFO MIKE SANTOMASSIMO SAYS ACTIVITY LEVEL IN U.S. ECONOMY STAYING STRONG || MIKE SANTOMASSIMO SPEAKS AT THE BARCLAYS GLOBAL FINANCIAL SERVICES CONFERENCE
-- 09/15 21:36 [FirstSquawk] WELLS FARGO CFO SANTOMASSIMO: NET INTEREST MARGIN COULD BE BETTER THAN GUIDANCE IN Q3
-- 09/15 21:37 [FirstSquawk] US EMPIRE MANUFACTURING SEP: 7.6 (EST 15.0; PREV 20.6)
-- 09/15 21:44 [FirstSquawk] UN SECURITY COUNCIL WILL MEET TODAY TO TALK ABOUT THE MIDDLE EAST AS HOUTHIS MOVE QUICKLY ALONG YEMEN'S RED SEA COAST, RAISING NEW CONCERNS FOR GLOBAL SHIPPING.
-- 09/15 21:45 [financialjuice] German Finance Minister Klingbeil on gasoline prices: We must now reduce the burden and find alternative funding.
-- 09/15 21:46 [FirstSquawk] OMAN, U.S. DISCUSS EFFORTS TO DE-ESCALATE REGIONAL TENSIONS - OMAN NEWS AGENCY
-- 09/15 21:48 [FirstSquawk] AI IS NOT LOYAL TO US: FORMER OPENAI RESEARCHER DANIEL KOKOTAJLO SOUNDS THE ALARM Former OpenAI researcher Daniel Kokotajlo has warned that artificial intelligence should not be viewed as inherently loyal or aligned with humanity. His comme…
-- 09/15 21:50 [FirstSquawk] S&P 500, NASDAQ 100 FUTURES TURN POSITIVE
-- 09/15 21:53 [financialjuice] Diplomatic sources confirm: Israel is assisting Saudi Arabia with intelligence gathering against the Houthis - Israel's Hayom News
 - 09/15 21:54 [financialjuice] Oman Foreign Minister, US Secretary of State discuss regional developments in phone call - Oman News Agency.
 - 09/15 21:54 [DeItaone] OMAN, U.S. DISCUSS REGIONAL DE-ESCALATION Oman’s Foreign Minister held a phone call with his U.S. counterpart to discuss rapidly evolving regional developments and efforts to reduce tensions and contain the fallout. The two also discussed c…
 - 09/15 21:56 [DeItaone] NOBEL LAUREATE WARNS AI COULD ERODE HUMAN AGENCY Nobel Peace Prize laureate Maria Ressa is calling for urgent AI regulation, warning that increasingly autonomous systems could undermine human agency. Ressa says citizens must pressure govern…
@@ -281,3 +270,16 @@
 - 09/16 03:33 [financialjuice] NYMEX Natural Gas October futures settle at $2.9190/MMBtu.
 - 09/16 03:33 [financialjuice] NVIDIA CEO Huang: We do not need new laws or regulations for AI safety - Salesforce Event. $NVDA
 - 09/16 03:35 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $105.83/BBL, UP $4.44, OR 4.38%
+- 09/16 03:35 [FirstSquawk] US DIESEL FUTURES SETTLE ABOVE $5.26/GALLON, HIGHEST ON RECORD
+- 09/16 03:41 [FirstSquawk] NVIDIA CEO: AI COMPANIES SHOULD MOVE CAUTIOUSLY AND ONLY RELEASE PRODUCTS ONCE CONFIDENT THE MARKET WILL EMBRACE THEM.
+- 09/16 03:42 [financialjuice] ❗ Clarity Act is on track to the fail procedural hurdle in the Senate.
+- 09/16 03:42 [financialjuice] ❗ The Clarity Act is on track to fail the procedural hurdle in the Senate.
+- 09/16 03:44 [FirstSquawk] CLARITY ACT EXPECTED TO FAIL KEY PROCEDURAL VOTE IN THE U.S. SENATE AS LAWMAKERS CONTINUE VOTING.
+- 09/16 03:44 [FirstSquawk] JPMORGAN CO-PRESIDENT DOUG PETNO: JAMIE DIMON HAS NO PLANS TO STEP AWAY FROM HIS ROLE.
+- 09/16 03:45 [financialjuice] Brent CRUDe futures settle at $108.75/bbl, up $3.07, 2.9%.
+- 09/16 03:45 [FirstSquawk] BRENT CRUDE SETTLES 2.9% HIGHER AT $108.75/BBL, GAINING $3.07.
+- 09/16 03:47 [FirstSquawk] BRENT CRUDE RISES 3.0% TO $108.86 A BARREL AND WTI JUMPS 4.7% TO $106.15, AS TRADERS WEIGH SUPPLY RISKS FROM THE MIDDLE EAST AND RUSSIA, WITH SAUDI ARABIA’S KEY EAST-WEST PIPELINE STILL OFFLINE.
+- 09/16 03:47 [FirstSquawk] DIESEL FUTURES HIT A FOUR-YEAR HIGH, WHILE LIBYA SHUT SEVERAL OIL FIELDS AND SAUDI ARAMCO DELAYS SOME EUROPEAN SHIPMENTS, DEEPENING CONCERNS OVER TIGHTER GLOBAL FUEL SUPPLIES.
+- 09/16 03:49 [FirstSquawk] JPMORGAN'S PETNO: U.S. CONSUMERS AND CORPORATES SHOW NO MAJOR WARNING SIGNS, WITH VERY FEW AREAS OF CONCERN IN THE ECONOMY.
+- 09/16 03:49 [FirstSquawk] JPMORGAN'S PETNO: NO SYSTEMIC RISKS ARE CURRENTLY CAUSING CONCERN.
+- 09/16 03:50 [FirstSquawk] JPMORGAN'S PETNO: DEALMAKING ACTIVITY REMAINS STRONG AND ROBUST.
