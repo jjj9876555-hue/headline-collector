@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 02:16 JST／対象: 09/15 02:16 〜 09/16 02:16 JST（時刻はすべて日本時間）
+生成: 2026-09-16 02:31 JST／対象: 09/15 02:31 〜 09/16 02:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 60 | 09/15 02:25 | 09/16 02:06 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 374 | 09/15 02:27 | 09/16 02:14 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 233 | 09/15 02:17 | 09/16 02:13 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 59 | 09/15 02:34 | 09/16 02:06 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 375 | 09/15 02:37 | 09/16 02:26 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 232 | 09/15 02:35 | 09/16 02:20 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 650 行（統合前 668 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 649 行（統合前 667 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 02:17 [financialjuice/FirstSquawk] Egyptian Presidential Office announced that Crown Prince Bin Salman of Saudi Arabia will be visiting Cairo tomorrow - Tasnim News
-- 09/15 02:20 [financialjuice] BofA CEO: Sales and trading 'relatively flat' to 3Q last year. $BAC
-- 09/15 02:21 [financialjuice] Trump: $5,000 Trump Dividend, to be given to all adults in the US - Truth Social
-- 09/15 02:25 [DeItaone] 🇺🇸 DEMS TAKE THE LEAD IN THE RACE FOR SENATE CONTROL Kalshi now puts Democrats at 51% vs. Republicans at 49%, as the battle for the Senate remains a true toss-up heading into November. https://t.co/D1o3O0u6JK https://t.co/ZtA7ADzz5G
-- 09/15 02:27 [FirstSquawk] TRUMP: WILL PROVIDE $5,000 DIVIDEND TO ALL US ADULTS - TSL VIA DBNEWS
-- 09/15 02:27 [FirstSquawk] DONALD TRUMP CLAIMS RUSSIA AND UKRAINE HAVE AGREED ENERGY TRUCE – FT
-- 09/15 02:29 [financialjuice/FirstSquawk] US House Speaker Johnson: Meeting with AI execs end of this week or early next.
-- 09/15 02:29 [FirstSquawk] US SENATORS DEBATING REQUIRING AL GIANTS TO COMMIT TO PREVENTING CATASTROPHE - SENATE AIDE AND LOBBYIST.
-- 09/15 02:31 [FirstSquawk] APPLE HAS LAUNCHED SIRI AI WITH PERSONAL CONTEXT AWARENESS, THOUGH IT SAYS SIRI AI AND APPLE INTELLIGENCE ARE NOT ACCESSIBLE IN CHINA DUE TO REGULATORY DEMANDS.
-- 09/15 02:31 [FirstSquawk] APPLE SAYS NEW CHILD PROTECTION TOOLS ARE NOW AVAILABLE IN IOS 27, IPADOS 27 AND MACOS 27.
 - 09/15 02:34 [DeItaone] DEEPSEEK HIRES FIRST CFO AHEAD OF POSSIBLE IPO DeepSeek plans to hire GL Ventures partner Yan Wentao as its first CFO, Reuters reports, as the Chinese AI startup prepares for a potential IPO. The company has also tapped CITIC Securities for…
 - 09/15 02:35 [financialjuice] Trump: I want Google to change thinking on AI building in Finland - Truth Social $GOOGL
 - 09/15 02:35 [financialjuice] Trump: AI taking over world and destroying humanity is a hoax.
@@ -674,3 +664,12 @@
 - 09/16 02:13 [FirstSquawk] OIL FUTURES EXTEND GAINS, WITH U.S. CRUDE UP BY $5 A BARREL AS SAUDI ARABIA CANCELS SOME OIL CARGOES AND SUSPENDS LOADINGS AT YANBU AFTER THE PIPELINE HIT
 - 09/16 02:14 [FirstSquawk] GOOGLE SAYS PARTNERING WITH COMPANIES LIKE SALESFORCE, GENSPARK, AND LUMERIS FOR 3.8 LIVE AND 3.8 LIVE EXTENDED THINKING
 - 09/16 02:14 [FirstSquawk] IAEA SPOKESPERSON KAMALVANDI SAYS 'IRAN WILL NOT SURRENDER' AND THAT 'OUR NUCLEAR PROGRAM IS PEACEFUL'
+- 09/16 02:19 [financialjuice] Israel helping Saudi Arabia with intelligence is aimed at ensuring freedom of navigation in the Bab al-Mandab Strait - Israel's Kan News citing foreign source
+- 09/16 02:19 [FirstSquawk] ISRAEL HELPING SAUDI ARABIA WITH INTELLIGENCE IS AIMED AT ENSURING FREEDOM OF NAVIGATION IN THE BAB AL-MANDAB STRAIT - ISRAEL'S KAN NEWS, CITING A FOREIGN SOURCE
+- 09/16 02:20 [financialjuice/FirstSquawk] Canada's Resources Minister Tim Hodgson: Canada aiming to complete energy-, mining-project reviews within 12 months.
+- 09/16 02:20 [financialjuice/FirstSquawk] Canada's Resources Minister Tim Hodgson: Canada tax changes to serve as investment ‘motivator’ in commodity sector.
+- 09/16 02:23 [FirstSquawk] U.S. SENATOR SANDERS CALLS FOR MANDATORY SAFETY REGULATIONS FOR AI DEVELOPMENT INSTEAD OF JUST SUGGESTIONS
+- 09/16 02:24 [FirstSquawk] U.S. SENATOR SANDERS CALLS ON AI CEOS TO STOP FUNDING POLITICIANS WHO OPPOSE REGULATIONS
+- 09/16 02:25 [FirstSquawk] OPENAI IS EXPLORING DATA CENTER PARTNERSHIPS IN CANADA, CITING THE COUNTRY'S ABUNDANT ENERGY, LAND AND GROWING AI INFRASTRUCTURE OPPORTUNITIES UNDER PRIME MINISTER MARK CARNEY'S STRATEGY.
+- 09/16 02:25 [FirstSquawk] OPENAI EXECUTIVE GEORGE OSBORNE CALLED CARNEY'S AI ADOPTION STRATEGY ONE OF THE CLEAREST AMONG WESTERN GOVERNMENTS, SIGNALING CANADA COULD BECOME A KEY MARKET FOR FUTURE AI INVESTMENT.
+- 09/16 02:26 [FirstSquawk] U.S. SENATOR SANDERS CALLS FOR U.S. AND CHINA TO AGREE ON A TREATY TO HALT ADVANCED AI DEVELOPMENT

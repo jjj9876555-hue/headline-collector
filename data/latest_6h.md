@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 02:16 JST／対象: 09/15 20:16 〜 09/16 02:16 JST（時刻はすべて日本時間）
+生成: 2026-09-16 02:31 JST／対象: 09/15 20:31 〜 09/16 02:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 09/15 20:28 | 09/16 02:06 | ⚠ 60分（20:28→21:28） |
-| FirstSquawk | 131 | 09/15 20:18 | 09/16 02:14 | 41分（01:25→02:06） |
-| financialjuice | 107 | 09/15 21:05 | 09/16 02:13 | 35分（01:24→02:00） |
+| DeItaone | 40 | 09/15 21:28 | 09/16 02:06 | 29分（01:35→02:04） |
+| FirstSquawk | 137 | 09/15 20:33 | 09/16 02:26 | 41分（01:25→02:06） |
+| financialjuice | 110 | 09/15 21:05 | 09/16 02:20 | 35分（01:24→02:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 272 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 278 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 20:18 [FirstSquawk] AZERBAIJAN GAS EXPORTS FALL 0.5% TO 16.4BCM IN JAN.-AUG.: IFX
-- 09/15 20:26 [FirstSquawk] OIL IS CLOSE TO MONTHLY PEAKS AS EXPORT PATHS IN THE GULF FACE PRESSURE.
-- 09/15 20:28 [DeItaone] OIL RALLY BUILDS AS SUPPLY RISKS MOUNT WTI climbed 1% to $102.40, holding near recent highs as Middle East supply concerns persist. Shipping through the Strait of Hormuz has declined, while Saudi pipeline disruptions and uncertainty over th…
 - 09/15 20:33 [FirstSquawk] RUSSIAN TU-95MS STRATEGIC BOMBERS FLY OVER NEUTRAL WATERS OF BARENTS SEA AND NORWEGIAN SEA - RIA
 - 09/15 20:33 [FirstSquawk] GERMAN CHANCELLOR MERZ: SUPPORT EU PROPOSAL FOR A TRADE ALLIANCE THAT GOES BEYOND THE WTO, WITH A STRONG ROLE FOR THE EU
 - 09/15 20:38 [FirstSquawk] AMERICAN EXPRESS- U.S. SMALL BUSINESS CARD MEMBER LOANS NET WRITE-OFF RATE - PRINCIPAL ONLY 2.2% AT AUG END
@@ -296,3 +293,12 @@
 - 09/16 02:13 [FirstSquawk] OIL FUTURES EXTEND GAINS, WITH U.S. CRUDE UP BY $5 A BARREL AS SAUDI ARABIA CANCELS SOME OIL CARGOES AND SUSPENDS LOADINGS AT YANBU AFTER THE PIPELINE HIT
 - 09/16 02:14 [FirstSquawk] GOOGLE SAYS PARTNERING WITH COMPANIES LIKE SALESFORCE, GENSPARK, AND LUMERIS FOR 3.8 LIVE AND 3.8 LIVE EXTENDED THINKING
 - 09/16 02:14 [FirstSquawk] IAEA SPOKESPERSON KAMALVANDI SAYS 'IRAN WILL NOT SURRENDER' AND THAT 'OUR NUCLEAR PROGRAM IS PEACEFUL'
+- 09/16 02:19 [financialjuice] Israel helping Saudi Arabia with intelligence is aimed at ensuring freedom of navigation in the Bab al-Mandab Strait - Israel's Kan News citing foreign source
+- 09/16 02:19 [FirstSquawk] ISRAEL HELPING SAUDI ARABIA WITH INTELLIGENCE IS AIMED AT ENSURING FREEDOM OF NAVIGATION IN THE BAB AL-MANDAB STRAIT - ISRAEL'S KAN NEWS, CITING A FOREIGN SOURCE
+- 09/16 02:20 [financialjuice/FirstSquawk] Canada's Resources Minister Tim Hodgson: Canada aiming to complete energy-, mining-project reviews within 12 months.
+- 09/16 02:20 [financialjuice/FirstSquawk] Canada's Resources Minister Tim Hodgson: Canada tax changes to serve as investment ‘motivator’ in commodity sector.
+- 09/16 02:23 [FirstSquawk] U.S. SENATOR SANDERS CALLS FOR MANDATORY SAFETY REGULATIONS FOR AI DEVELOPMENT INSTEAD OF JUST SUGGESTIONS
+- 09/16 02:24 [FirstSquawk] U.S. SENATOR SANDERS CALLS ON AI CEOS TO STOP FUNDING POLITICIANS WHO OPPOSE REGULATIONS
+- 09/16 02:25 [FirstSquawk] OPENAI IS EXPLORING DATA CENTER PARTNERSHIPS IN CANADA, CITING THE COUNTRY'S ABUNDANT ENERGY, LAND AND GROWING AI INFRASTRUCTURE OPPORTUNITIES UNDER PRIME MINISTER MARK CARNEY'S STRATEGY.
+- 09/16 02:25 [FirstSquawk] OPENAI EXECUTIVE GEORGE OSBORNE CALLED CARNEY'S AI ADOPTION STRATEGY ONE OF THE CLEAREST AMONG WESTERN GOVERNMENTS, SIGNALING CANADA COULD BECOME A KEY MARKET FOR FUTURE AI INVESTMENT.
+- 09/16 02:26 [FirstSquawk] U.S. SENATOR SANDERS CALLS FOR U.S. AND CHINA TO AGREE ON A TREATY TO HALT ADVANCED AI DEVELOPMENT
