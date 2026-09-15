@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 15:49 JST／対象: 09/15 03:49 〜 09/15 15:49 JST（時刻はすべて日本時間）
+生成: 2026-09-15 16:03 JST／対象: 09/15 04:03 〜 09/15 16:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/15 04:06 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 161 | 09/15 03:52 | 09/15 15:46 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 109 | 09/15 03:52 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| FirstSquawk | 158 | 09/15 04:03 | 09/15 16:01 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 106 | 09/15 04:03 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 270 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 264 行（統合前 269 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 03:52 [financialjuice] Saudi Civil Defense: The danger has passed in Najran.
-- 09/15 03:52 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $105.68/BBL, UP $1.07, 1.02%
-- 09/15 03:54 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS THE DANGER HAS PASSED IN NAJRAN AFTER A WARNING WAS ISSUED IN THE PROVINCE.
-- 09/15 03:56 [FirstSquawk] IRGC SAYS STRAIT OF HORMUZ REMAINS CLOSED AND IS UNDER SMART NAVAL CONTROL: TASNIM VIA DBNEWS
-- 09/15 03:57 [financialjuice] IRGC Navy Command: The Strait of Hormuz is closed and remains under the intelligent control of the IRGC Navy - IRNA.
-- 09/15 03:59 [FirstSquawk] IRGC NAVY COMMAND SAYS THE STRAIT OF HORMUZ IS CLOSED AND REMAINS UNDER THE “INTELLIGENT CONTROL” OF THE IRGC NAVY, ACCORDING TO IRNA. SUPERTANKER ALGAYA IS REPORTEDLY FULLY ENGULFED IN FLAMES AFTER STRIKING A NAVAL MINE WHILE ATTEMPTING TO…
-- 09/15 04:00 [financialjuice] IRGC Navy Command cited by IRNA: Supertanker Algaya Engulfed in Flames After Reportedly Striking Naval Mine South of Strait of Hormuz Algaya reportedly exploded after striking a naval mine while attempting to transit a restricted area south…
-- 09/15 04:02 [FirstSquawk] IRGC NAVY SAYS SUPERTANKER EL GAIA STRUCK A SEA MINE WHILE ENTERING A PROHIBITED ZONE SOUTH OF THE STRAIT OF HORMUZ AND IS NOW FULLY ENGULFED IN FLAMES; IRGC SAYS HORMUZ REMAINS CLOSED UNDER ITS “INTELLIGENT CONTROL.”
-- 09/15 04:03 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM IS CONSIDERING SAUDI REQUESTS FOR MILITARY SUPPORT AGAINST THE HOUTHIS, INCLUDING HELP DEFENDING OIL INFRASTRUCTURE AND PREVENTING A HOUTHI ADVANCE TOWARD THE BAB EL-MANDEB STRAIT.
 - 09/15 04:03 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM HAS AGREED TO SEND BRITISH MILITARY ADVISERS TO SAUDI ARABIA, THOUGH IT IS UNCLEAR WHETHER HE WILL APPROVE THE OTHER REQUESTS.
 - 09/15 04:03 [financialjuice] Fed extends pause on reserve management asset purchases to mid-October
 - 09/15 04:04 [financialjuice] Fed releases September-October Treasury bill purchase timetable
@@ -294,3 +285,6 @@
 - 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI MoM ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7%
 - 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI YoY ACTUAL: 2.4% VS 2.4% PREVIOUS;EST 2.4%
 - 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI Ex-Tobacco Index ACTUAL: 103.35 VS 102.67 PREVIOUS;EST 103.41
+- 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI MoM ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7% SPAIN (AUG) CPI YoY ACTUAL: 4.3% VS 4.3% PREVIOUS;EST 4.3%
+- 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI CORE YOY ACTUAL: 2.9% VS 2.9% PREVIOUS;EST 2.9% SPAIN (AUG) CPI CORE MOM ACTUAL: 0.3% VS -0.1% PREVIOUS
+- 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI EU Harmonized MoM ACTUAL: 0.7% VS 0.6% PREVIOUS;EST 0.6% SPAIN (AUG) CPI EU Harmonized YoY ACTUAL: 4.6% VS 4.5% PREVIOUS;EST 4.5%

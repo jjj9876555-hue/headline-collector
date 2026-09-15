@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 15:49 JST／対象: 09/14 15:49 〜 09/15 15:49 JST（時刻はすべて日本時間）
+生成: 2026-09-15 16:03 JST／対象: 09/14 16:03 〜 09/15 16:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 322 | 09/14 15:50 | 09/15 15:46 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 268 | 09/14 16:02 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| FirstSquawk | 324 | 09/14 16:41 | 09/15 16:01 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 267 | 09/14 16:29 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 617 行（統合前 648 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 618 行（統合前 649 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 15:50 [FirstSquawk] Chinese traders are closely watching the upcoming Xi-Trump meeting, with expectations around the talks shaping sentiment and adding uncertainty for China’s stock market.
-- 09/14 16:02 [financialjuice] Currency Strength Chart: Strongest: USD, CAD, GBP, CHF, EUR, AUD, GBP, NZD - Weakest
 - 09/14 16:28 [DeItaone] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
 - 09/14 16:29 [financialjuice] Iran's foreign ministry spokesperson: Saudi Arabia insisted for meeting between Tehran and Gulf powers in Oman not to take place
 - 09/14 16:38 [financialjuice] Iran's Foreign Ministry Spokesperson: Reports about nuclear activity in Iran's Pickaxe mountain (kolang kouh) are baseless.
@@ -641,3 +639,6 @@
 - 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI MoM ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7%
 - 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI YoY ACTUAL: 2.4% VS 2.4% PREVIOUS;EST 2.4%
 - 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI Ex-Tobacco Index ACTUAL: 103.35 VS 102.67 PREVIOUS;EST 103.41
+- 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI MoM ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7% SPAIN (AUG) CPI YoY ACTUAL: 4.3% VS 4.3% PREVIOUS;EST 4.3%
+- 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI CORE YOY ACTUAL: 2.9% VS 2.9% PREVIOUS;EST 2.9% SPAIN (AUG) CPI CORE MOM ACTUAL: 0.3% VS -0.1% PREVIOUS
+- 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI EU Harmonized MoM ACTUAL: 0.7% VS 0.6% PREVIOUS;EST 0.6% SPAIN (AUG) CPI EU Harmonized YoY ACTUAL: 4.6% VS 4.5% PREVIOUS;EST 4.5%
