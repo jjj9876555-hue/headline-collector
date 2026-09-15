@@ -7,35 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 15:23 JST／対象: 09/15 03:23 〜 09/15 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-15 15:49 JST／対象: 09/15 03:49 〜 09/15 15:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/15 03:33 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 156 | 09/15 03:32 | 09/15 15:23 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 115 | 09/15 03:31 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| DeItaone | 5 | 09/15 04:06 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
+| FirstSquawk | 161 | 09/15 03:52 | 09/15 15:46 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 109 | 09/15 03:52 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 271 行（統合前 277 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 270 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $101.39 a barrel, up $1.34, 1.34%.
-- 09/15 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.9615 a gallon.
-- 09/15 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.3171 a gallon.
-- 09/15 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $2.8960/MMBtu.
-- 09/15 03:32 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $101.39/BBL, UP $1.34, 1.34%
-- 09/15 03:33 [DeItaone] OPENAI BUYS STARTUP DEVELOPING SMARTPHONE CAMERA CALLED GLASS IMAGING, VALUED ABOVE $300 MILLION IN DEAL - WSJ
-- 09/15 03:36 [FirstSquawk] OPENAI ACQUIRES SMARTPHONE CAMERA STARTUP GLASS IMAGING IN A DEAL VALUED AT OVER $300 MILLION: WSJ
-- 09/15 03:45 [financialjuice/FirstSquawk] Brent Crude futures settle at $105.68/bbl, up $1.07, 1.02%.
-- 09/15 03:47 [FirstSquawk] BRENT CRUDE RISES 1.26% TO $105.93 A BARREL AND WTI GAINS 1.47% TO $101.52 AFTER SAUDI ARABIA SHUT ITS EAST-WEST PIPELINE FOLLOWING ATTACKS, RAISING GLOBAL SUPPLY CONCERNS.
-- 09/15 03:47 [FirstSquawk] OIL GAINS EASE AS TRADERS WEIGH POSSIBLE DIPLOMATIC PROGRESS WITH IRAN, WHILE THE PIPELINE’S OUTAGE DURATION AND DISRUPTIONS AROUND THE STRAIT OF HORMUZ REMAIN UNCERTAIN.
-- 09/15 03:48 [financialjuice] Saudis: A warning has been issued in the Najran province.
 - 09/15 03:52 [financialjuice] Saudi Civil Defense: The danger has passed in Najran.
+- 09/15 03:52 [FirstSquawk] BRENT CRUDE FUTURES SETTLE AT $105.68/BBL, UP $1.07, 1.02%
 - 09/15 03:54 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS THE DANGER HAS PASSED IN NAJRAN AFTER A WARNING WAS ISSUED IN THE PROVINCE.
 - 09/15 03:56 [FirstSquawk] IRGC SAYS STRAIT OF HORMUZ REMAINS CLOSED AND IS UNDER SMART NAVAL CONTROL: TASNIM VIA DBNEWS
 - 09/15 03:57 [financialjuice] IRGC Navy Command: The Strait of Hormuz is closed and remains under the intelligent control of the IRGC Navy - IRNA.
@@ -295,3 +285,12 @@
 - 09/15 15:16 [FirstSquawk] ECB expected to cut policy rates by 25bp in December 2027, according to Morgan Stanley.
 - 09/15 15:22 [FirstSquawk] Yemeni Armed Forces aviation strikes Houthi weapons storage sites in Al-Jawf, Al Arabiya correspondent reports.
 - 09/15 15:23 [FirstSquawk] Al Arabiya: Yemeni Armed Forces carry out airstrikes against Houthi weapons depots near Mount Heilan.
+- 09/15 15:24 [FirstSquawk] Houthi infiltration attempt thwarted by Yemeni Armed Forces in Harib, south of Marib, Al Arabiya correspondent says.
+- 09/15 15:24 [FirstSquawk] Bahrain: Continued Houthi targeting of civilians and civilian facilities in Saudi Arabia is strongly condemned.
+- 09/15 15:25 [FirstSquawk] SpaceX target price raised to $150 from $117 by HSBC.
+- 09/15 15:36 [FirstSquawk] South Korea's Nuri set for fifth launch, carrying the country's first microsatellite constellation.
+- 09/15 15:45 [FirstSquawk] FRANCE (AUG) CPI EU Harmonized MoM ACTUAL: 0.7% VS 0.8% PREVIOUS;EST 0.8%
+- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI EU Harmonized YoY ACTUAL: 2.6% VS 2.7% PREVIOUS;EST 2.7%
+- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI MoM ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7%
+- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI YoY ACTUAL: 2.4% VS 2.4% PREVIOUS;EST 2.4%
+- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI Ex-Tobacco Index ACTUAL: 103.35 VS 102.67 PREVIOUS;EST 103.41

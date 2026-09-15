@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 15:23 JST／対象: 09/15 09:23 〜 09/15 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-15 15:49 JST／対象: 09/15 09:49 〜 09/15 15:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 101 | 09/15 09:25 | 09/15 15:23 | 14分（11:14→11:29） |
-| financialjuice | 66 | 09/15 09:27 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| FirstSquawk | 102 | 09/15 09:51 | 09/15 15:46 | 14分（11:14→11:29） |
+| financialjuice | 65 | 09/15 10:00 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 167 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,15 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 09:25 [FirstSquawk] China pushes back against calls to curb the development of advanced AI, signaling continued momentum behind its technology ambitions.
-- 09/15 09:27 [financialjuice] China PBOC seen setting yuan midpoint at 6.7051 per dollar: estimate
-- 09/15 09:29 [FirstSquawk] ASIAN STOCKS SLIPPED AFTER A SHARP SELLOFF IN US SEMICONDUCTOR SHARES RAISED CONCERNS THAT AI DEVELOPMENT AND SPENDING COULD SLOW. THE MSCI ASIA PACIFIC INDEX FELL 0.1%, WHILE JAPAN AND SOUTH KOREA EDGED LOWER AFTER THE PHILADELPHIA SEMICON…
-- 09/15 09:29 [FirstSquawk] OIL EXTENDED ITS RALLY, WITH BRENT RISING 0.7% AND WTI REACHING AROUND $102.12, REVIVING INFLATION CONCERNS AHEAD OF WEDNESDAY’S FEDERAL RESERVE DECISION. TRADERS ARE PRICING A 95% CHANCE OF A RATE HIKE, WHILE THE 10-YEAR TREASURY YIELD REM…
-- 09/15 09:36 [FirstSquawk] Sen. Mitch McConnell returned to the Capitol Monday, preparing to cast his first Senate vote since being hospitalized after a June fall - ABC
-- 09/15 09:36 [FirstSquawk] Japan’s Nikkei slips 0.2% as chipmakers and trading houses weigh on the index , citing WSJ
-- 09/15 09:40 [FirstSquawk] China briefs foreign embassies on DNA procedures to identify nationals missing after the deadly China-Nepal border mudslide.
-- 09/15 09:43 [FirstSquawk] Crude oil is climbing as market stabilizers start to fade. The supply buffers and inventory cushions that kept prices steady for months are weakening, leaving less room for error.
-- 09/15 09:48 [FirstSquawk] Barack Obama on AI: "We can’t stuff AI back in a box." Instead of letting tech dictate our future, he argues we must proactively guide how it's built and deployed rather than just reacting to the fallout.
 - 09/15 09:51 [FirstSquawk] Berlin's new playbook on UniCredit: Instead of blocking the Commerzbank takeover outright, Germany is shifting to hardline conditions.
 - 09/15 09:57 [FirstSquawk] China’s updated Exit-Entry Regulations are now in effect, targeting visa fraud and intermediary agencies. Travelers face 1–5 year bans for false declarations, while corporate sponsors assume full legal accountability for itineraries.
 - 09/15 10:00 [FirstSquawk] Beijing turns its focus to offshore brokerages as it moves to curb pay loopholes and corruption.
@@ -191,3 +182,12 @@
 - 09/15 15:16 [FirstSquawk] ECB expected to cut policy rates by 25bp in December 2027, according to Morgan Stanley.
 - 09/15 15:22 [FirstSquawk] Yemeni Armed Forces aviation strikes Houthi weapons storage sites in Al-Jawf, Al Arabiya correspondent reports.
 - 09/15 15:23 [FirstSquawk] Al Arabiya: Yemeni Armed Forces carry out airstrikes against Houthi weapons depots near Mount Heilan.
+- 09/15 15:24 [FirstSquawk] Houthi infiltration attempt thwarted by Yemeni Armed Forces in Harib, south of Marib, Al Arabiya correspondent says.
+- 09/15 15:24 [FirstSquawk] Bahrain: Continued Houthi targeting of civilians and civilian facilities in Saudi Arabia is strongly condemned.
+- 09/15 15:25 [FirstSquawk] SpaceX target price raised to $150 from $117 by HSBC.
+- 09/15 15:36 [FirstSquawk] South Korea's Nuri set for fifth launch, carrying the country's first microsatellite constellation.
+- 09/15 15:45 [FirstSquawk] FRANCE (AUG) CPI EU Harmonized MoM ACTUAL: 0.7% VS 0.8% PREVIOUS;EST 0.8%
+- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI EU Harmonized YoY ACTUAL: 2.6% VS 2.7% PREVIOUS;EST 2.7%
+- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI MoM ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7%
+- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI YoY ACTUAL: 2.4% VS 2.4% PREVIOUS;EST 2.4%
+- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI Ex-Tobacco Index ACTUAL: 103.35 VS 102.67 PREVIOUS;EST 103.41

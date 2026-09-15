@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 15:23 JST／対象: 09/14 15:23 〜 09/15 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-15 15:49 JST／対象: 09/14 15:49 〜 09/15 15:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 318 | 09/14 15:27 | 09/15 15:23 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 270 | 09/14 15:30 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| FirstSquawk | 322 | 09/14 15:50 | 09/15 15:46 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 268 | 09/14 16:02 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 615 行（統合前 646 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 617 行（統合前 648 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 15:27 [FirstSquawk] EUR/USD falls 0.33% to 1.1549, hitting a near one-month low as the euro comes under renewed pressure against the dollar.
-- 09/14 15:27 [FirstSquawk] OpenAI is reportedly in talks to conduct AI model training in Australia, according to Nikkei, potentially expanding the company’s training operations beyond its existing locations.
-- 09/14 15:30 [financialjuice] SWISS PPI YOY ACTUAL -0.7% (FORECAST -, PREVIOUS -2.1%) $MACRO
-- 09/14 15:30 [financialjuice] SWISS PPI MOM ACTUAL 0.7% (FORECAST -, PREVIOUS -0.1%) $MACRO
-- 09/14 15:36 [FirstSquawk] British pound slips toward 1.3500 against the U.S. dollar as expectations for a Fed rate hike strengthen, adding pressure to sterling.
-- 09/14 15:40 [FirstSquawk] INDIA (AUG) OUTPUT PPI YOY ACTUAL: 9.81% VS 9.57% PREVIOUS
-- 09/14 15:40 [FirstSquawk] INDIA (AUG) WHOLESALE PRICES YOY ACTUAL: 9.92% VS 9.78% PREVIOUS; EST 9.90%
 - 09/14 15:50 [FirstSquawk] Chinese traders are closely watching the upcoming Xi-Trump meeting, with expectations around the talks shaping sentiment and adding uncertainty for China’s stock market.
 - 09/14 16:02 [financialjuice] Currency Strength Chart: Strongest: USD, CAD, GBP, CHF, EUR, AUD, GBP, NZD - Weakest
 - 09/14 16:28 [DeItaone] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
@@ -639,3 +632,12 @@
 - 09/15 15:16 [FirstSquawk] ECB expected to cut policy rates by 25bp in December 2027, according to Morgan Stanley.
 - 09/15 15:22 [FirstSquawk] Yemeni Armed Forces aviation strikes Houthi weapons storage sites in Al-Jawf, Al Arabiya correspondent reports.
 - 09/15 15:23 [FirstSquawk] Al Arabiya: Yemeni Armed Forces carry out airstrikes against Houthi weapons depots near Mount Heilan.
+- 09/15 15:24 [FirstSquawk] Houthi infiltration attempt thwarted by Yemeni Armed Forces in Harib, south of Marib, Al Arabiya correspondent says.
+- 09/15 15:24 [FirstSquawk] Bahrain: Continued Houthi targeting of civilians and civilian facilities in Saudi Arabia is strongly condemned.
+- 09/15 15:25 [FirstSquawk] SpaceX target price raised to $150 from $117 by HSBC.
+- 09/15 15:36 [FirstSquawk] South Korea's Nuri set for fifth launch, carrying the country's first microsatellite constellation.
+- 09/15 15:45 [FirstSquawk] FRANCE (AUG) CPI EU Harmonized MoM ACTUAL: 0.7% VS 0.8% PREVIOUS;EST 0.8%
+- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI EU Harmonized YoY ACTUAL: 2.6% VS 2.7% PREVIOUS;EST 2.7%
+- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI MoM ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7%
+- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI YoY ACTUAL: 2.4% VS 2.4% PREVIOUS;EST 2.4%
+- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI Ex-Tobacco Index ACTUAL: 103.35 VS 102.67 PREVIOUS;EST 103.41
