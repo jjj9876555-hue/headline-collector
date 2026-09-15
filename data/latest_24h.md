@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 07:17 JST／対象: 09/15 07:17 〜 09/16 07:17 JST（時刻はすべて日本時間）
+生成: 2026-09-16 07:32 JST／対象: 09/15 07:32 〜 09/16 07:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 58 | 09/15 07:36 | 09/16 07:16 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 387 | 09/15 08:54 | 09/16 07:15 | 41分（01:25→02:06） |
-| financialjuice | 237 | 09/15 07:27 | 09/16 07:06 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 389 | 09/15 08:54 | 09/16 07:30 | 41分（01:25→02:06） |
+| financialjuice | 240 | 09/15 07:41 | 09/16 07:30 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 666 行（統合前 684 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 671 行（統合前 689 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 07:27 [financialjuice] Colombia congress endorses 2027 budget of 634.9 trillion pesos
 - 09/15 07:36 [DeItaone] *IRAN SAYS NO TALKS WITH US UNTIL ITS CONDITIONS ARE MET *IRAN SAYS NO TALKS WITH US UNTIL ITS CONDITIONS ARE MET *IRAN TOP SECURITY OFFICIAL MOHSEN REZAEE SAYS IN POST ON X *REZAEE: US PRESIDENT SENDS ‘MIXED SIGNALS’ ON NEGOTIATIONS
 - 09/15 07:41 [financialjuice] Google allows all engineers to access Anthropic's Claude - Business Insider
 - 09/15 07:45 [financialjuice] NZ actual electronic card retail sales up 0.2% in August from year earlier
@@ -690,3 +689,9 @@
 - 09/16 07:06 [financialjuice] OpenAI considers funding round at $1.2 trillion valuation before IPO - FT (adds currency)
 - 09/16 07:15 [FirstSquawk] TRUMP ADVISERS: MET SENIOR ANTHROPIC EXECUTIVE TO DISCUSS AI SAFETY
 - 09/16 07:16 [DeItaone] SEVERAL EXPLOSIONS HEARD ON IRAN'S QESHM ISLAND -IRNA CITING LOCAL SOURCES AS SAYING
+- 09/16 07:17 [FirstSquawk] IDF SAYS A HAMAS RAFAH COMMANDER HAS BEEN KILLED - SOURCES
+- 09/16 07:22 [financialjuice] Trump advisers Lutnick, Michael confer with leading Anthropic executive on AI safety
+- 09/16 07:24 [financialjuice] Meta to roll out smart glasses without cameras amid rising privacy concerns: The Information
+- 09/16 07:24 [financialjuice] Meta plans to unveil camera-free Luna smart glasses this fall: The Information
+- 09/16 07:30 [financialjuice] RBNZ assistant governor Karen Silk to depart central bank
+- 09/16 07:30 [FirstSquawk] META PLANS TO UNVEIL CAMERA-FREE 'LUNA' SMART GLASSES THIS FALL, ROLLING THEM OUT WITHOUT CAMERAS AMID RISING PRIVACY CONCERNS - THE INFORMATION
