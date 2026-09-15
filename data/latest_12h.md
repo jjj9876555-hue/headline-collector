@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 07:44 JST／対象: 09/15 19:44 〜 09/16 07:44 JST（時刻はすべて日本時間）
+生成: 2026-09-16 07:58 JST／対象: 09/15 19:58 〜 09/16 07:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 48 | 09/15 20:28 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 210 | 09/15 19:50 | 09/16 07:30 | 41分（01:25→02:06） |
-| financialjuice | 163 | 09/15 21:05 | 09/16 07:30 | 38分（05:04→05:43） |
+| FirstSquawk | 209 | 09/15 20:02 | 09/16 07:51 | 41分（01:25→02:06） |
+| financialjuice | 168 | 09/15 21:05 | 09/16 07:45 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 406 行（統合前 423 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 410 行（統合前 427 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 19:50 [FirstSquawk] BAKU-TURKISH FOREIGN MINISTER: MUTUAL ATTACKS IN GULF ARE HARMING PEACE EFFORTS, THESE MUST STOP IMMEDIATELY || FREEDOM OF PASSAGE MUST BE ALLOWED IN STRAIT OF HORMUZ
-- 09/15 19:50 [FirstSquawk] JAPAN LAND PRICES RISE FOR 5TH STRAIGHT YEAR ON HOUSING, TOURISM DEMAND
-- 09/15 19:57 [FirstSquawk] TURKEY FORMIN: TURKEY HAS STEPPED UP EFFORTS ON BLACK SEA SECURITY
 - 09/15 20:02 [FirstSquawk] RUSSIA'S FOREIGN MINISTER LAVROV SAID THAT IF THE U.S. HAD NOT ABANDONED THE ANCHORAGE AGREEMENT AND IF EUROPE HAD NOT DISTRACTED THEM, WE WOULD HAVE BEEN AT PEACE FOR A YEAR.
 - 09/15 20:07 [FirstSquawk] CPP INVESTMENTS AND BROOKFIELD LAUNCH C$50 BILLION MAPLE FUND TO PURSUE LARGE-SCALE INVESTMENTS ACROSS CANADA
 - 09/15 20:12 [FirstSquawk] TURKISH FOREIGN MINISTER HAKAN FIDAN STATED THAT RECIPROCAL ATTACKS IN THE PERSIAN GULF ARE HAMPERING EFFORTS TO RESOLVE THE US-IRAN WAR AND NEED TO CEASE IMMEDIATELY.
@@ -430,3 +427,10 @@
 - 09/16 07:24 [financialjuice] Meta plans to unveil camera-free Luna smart glasses this fall: The Information
 - 09/16 07:30 [financialjuice] RBNZ assistant governor Karen Silk to depart central bank
 - 09/16 07:30 [FirstSquawk] META PLANS TO UNVEIL CAMERA-FREE 'LUNA' SMART GLASSES THIS FALL, ROLLING THEM OUT WITHOUT CAMERAS AMID RISING PRIVACY CONCERNS - THE INFORMATION
+- 09/16 07:45 [financialjuice] NEW ZEALAND CURRENT ACCOUNT QOQ ACTUAL -1.67B (FORECAST -2.6B, PREVIOUS -1.008B) $MACRO
+- 09/16 07:45 [financialjuice] NZ year to June current account deficit NZ$-14.583 billion vs Poll NZ$-17.523 billion
+- 09/16 07:45 [financialjuice] NZ Q2 seasonally adjusted current account deficit NZ$3.77 billion
+- 09/16 07:45 [financialjuice] NZ year to June current account deficit estimated at -3.2% of GDP (poll: -3.9%)
+- 09/16 07:45 [financialjuice] New Zealand Q2 current account deficit NZ$1.67 billion vs Poll NZ$2.571 billion
+- 09/16 07:51 [FirstSquawk] NEW ZEALAND'S Q2 CURRENT ACCOUNT SHOWED A DEFICIT OF NZ$1.67 BLN, NARROWER THAN THE FORECAST NZ$2.6 BLN DEFICIT, WITH THE YEAR-TO-JUNE DEFICIT AT NZ$14.583 BLN VERSUS A POLL OF NZ$17.523 BLN
+- 09/16 07:51 [FirstSquawk] NEW ZEALAND'S Q2 CURRENT ACCOUNT SHOWED A DEFICIT OF NZ$1.67 BLN, NARROWER THAN THE POLL OF NZ$2.571 BLN, WITH THE SEASONALLY ADJUSTED DEFICIT AT NZ$3.77 BLN AND THE YEAR-TO-JUNE DEFICIT ESTIMATED AT -3.2% OF GDP VERSUS A POLL OF -3.9%
