@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 01:06 JST／対象: 09/15 13:06 〜 09/16 01:06 JST（時刻はすべて日本時間）
+生成: 2026-09-16 01:25 JST／対象: 09/15 13:25 〜 09/16 01:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 09/15 16:20 | 09/16 01:01 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 235 | 09/15 13:14 | 09/16 00:59 | 23分（00:24→00:47） |
-| financialjuice | 116 | 09/15 14:16 | 09/16 01:01 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 46 | 09/15 16:20 | 09/16 01:19 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 229 | 09/15 13:25 | 09/16 01:25 | 25分（00:59→01:25） |
+| financialjuice | 120 | 09/15 14:16 | 09/16 01:24 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 389 行（統合前 394 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 390 行（統合前 396 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 13:14 [FirstSquawk] Putin postpones a summit over concerns about a Ukrainian drone threat, FT reports.
-- 09/15 13:14 [FirstSquawk] Lagarde’s potential early departure prompts calls for clarity from ECB staff, according to the FT.
-- 09/15 13:15 [FirstSquawk] A landmark $1.6bn IPO could bring millions of Nigerians into equities, FT reports.
-- 09/15 13:15 [FirstSquawk] UK and Japan move to capitalise on Europe’s “Made in Europe” rules for the auto industry, according to the FT.
-- 09/15 13:16 [FirstSquawk] US stocks gain favour with foreign investors as concerns over Treasury debt rise.
-- 09/15 13:16 [FirstSquawk] Metlen warns Europe risks losing its new gallium supply to overseas markets.
-- 09/15 13:17 [FirstSquawk] China may bar citizens from leaving the country for up to three years under tighter travel rules, BBC reports.
 - 09/15 13:25 [FirstSquawk] US manufacturers see supply-chain costs accelerate again.
 - 09/15 13:30 [FirstSquawk] Saudi Arabia faces new Houthi strikes amid stalled talks over the Strait of Hormuz.
 - 09/15 13:32 [FirstSquawk] Japan’s tertiary industry activity rebounds 0.4% in July, beating the 0.3% forecast.
@@ -413,3 +406,11 @@
 - 09/16 00:59 [FirstSquawk] BESSENT STATES THEY DO NOT DETERMINE THE BALANCE PRICE FOR YIELD LEVELS AND BELIEVES THEY HAVE THE REQUIRED TOOLS.
 - 09/16 01:01 [financialjuice] US Treasury Secretary Bessent: The need to address deficit is one factor affecting 10-year treasury bond yield
 - 09/16 01:01 [DeItaone] BESSENT: THE NEED TO ADDRESS DEFICIT IS ONE FACTOR AFFECTING 10-YEAR TREASURY BOND YIELD
+- 09/16 01:15 [DeItaone] U.S. CONFIRMS WEAPONS IN ORBIT The Pentagon has made its strongest acknowledgment yet that the U.S. possesses weapons in space, with Air Force Secretary Troy Meink confirming orbital systems capable of defending U.S. forces. Space Command c…
+- 09/16 01:15 [DeItaone] BESSENT: GAS PRICES ARE LOWER THAN THEY WERE UNDER BIDEN
+- 09/16 01:19 [DeItaone] FRANCE BACKS KNOT FOR ECB PRESIDENT France would support former Dutch central-bank chief Klaas Knot to succeed Christine Lagarde as ECB president, provided a French candidate receives the powerful chief economist role, Reuters reports. The …
+- 09/16 01:22 [financialjuice] Bank of France sees economy expanding 0.4% in 2026
+- 09/16 01:22 [financialjuice] Bank of France survey indicates 3Q GDP to rise 0.1%
+- 09/16 01:22 [financialjuice] Bank of France trims 2026 GDP forecast, sees pickup next year.
+- 09/16 01:24 [financialjuice] US and Israeli and Arab military chiefs held secret meeting on Iran - Axios
+- 09/16 01:25 [FirstSquawk] US, ISRAELI, ARAB MILITARY CHIEFS HELD SECRET MEETING ON IRAN - AXIOS

@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 01:06 JST／対象: 09/15 01:06 〜 09/16 01:06 JST（時刻はすべて日本時間）
+生成: 2026-09-16 01:25 JST／対象: 09/15 01:25 〜 09/16 01:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 09/15 02:25 | 09/16 01:01 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 370 | 09/15 01:09 | 09/16 00:59 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 243 | 09/15 01:09 | 09/16 01:01 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 56 | 09/15 02:25 | 09/16 01:19 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 367 | 09/15 01:27 | 09/16 01:25 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 236 | 09/15 01:27 | 09/16 01:24 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 650 行（統合前 667 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 643 行（統合前 661 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 01:09 [financialjuice] Zelenskyy: Ukraine proposed partners secure agreement with Russia
-- 09/15 01:09 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE SUGGESTED PARTNERS TO REACH A DEAL WITH RUSSIA.
-- 09/15 01:11 [financialjuice] Ukraine’s President Zelenskiy: Ukraine would agree on energy truce if Russia does.
-- 09/15 01:12 [financialjuice] Ukraine’s President Zelenskiy: Ukraine proposed that its partners secure an agreement with Russia that would stop the destruction of critical infrastructure.
-- 09/15 01:13 [financialjuice] Ukraine’s President Zelenskiy: Ukraine ready to ensure a corresponding halt to our strikes.
-- 09/15 01:13 [financialjuice] EU kids act draft calls for fines of up to 6% of global revenue.
-- 09/15 01:13 [financialjuice] Ukraine’s President Zelenskiy: Ukraine is not convinced that Russia is willing to abide by any agreement.
-- 09/15 01:20 [FirstSquawk] ECB'S MACHADO CALLS FOR GREATER TRANSPARENCY IN SYNTHETIC SRTS.
-- 09/15 01:21 [financialjuice] EC Pres. von der Leyen is going to meet with Canada's PM Carney on Wednesday - Spokesperson.
-- 09/15 01:24 [financialjuice] Trump: US producing more weapons than any time in history - Truth Social Post
-- 09/15 01:25 [financialjuice] Trump: weapons are being delivered daily to US forces in the Middle East and elsewhere
-- 09/15 01:25 [financialjuice] Trump: Defense manufacturers are operating around the clock and building 4-5 new large-scale plants on average.
-- 09/15 01:25 [FirstSquawk] TRUMP: I’VE JUST RECEIVED A REPORT THAT THE UNITED STATES IS PRODUCING MORE EXQUISITE AND ELITE WEAPONS THAN AT ANY TIME IN OUR HISTORY. THEY ARE BEING DELIVERED ON A DAILY BASIS TO OUR FORCES IN THE MIDDLE EAST, AND BEYOND.
-- 09/15 01:25 [financialjuice] Trump: Production is focused on Patriot, THAAD, Tomahawk and other standard missile systems.
-- 09/15 01:25 [FirstSquawk] TRUMP: OUR DEFENSE COMPANY FACTORIES ARE MOVING 24/7, WHILE AT THE SAME TIME BUILDING, ON AVERAGE, 4 TO 5 LARGESCALE BRAND NEW PLANTS, EACH! A PRIMARY FOCUS OF THIS PRODUCTION HAS BEEN PATRIOTS, THAAD SYSTEMS, TOMAHAWKS, AND OTHER STANDARD …
 - 09/15 01:27 [FirstSquawk] TRUMP: OIL IS FLOWING THROUGH THE HORMUZ STRAIT. THE COUNTRIES OF THE WORLD, WHICH HAVE BEEN NO HELP TO US WHATSOEVER, SHOULD, AND WILL, REIMBURSE THE UNITED STATES OF AMERICA WHEN THIS SCAM CONFLIGRATION IS ALL OVER. WE ARE DOING IT MUCH M…
 - 09/15 01:27 [financialjuice] Trump: Oil is flowing through the Hormuz Strait - Truth Social
 - 09/15 01:27 [financialjuice] Trump: Countries who haven't helped will reimburse US, post war.
@@ -674,3 +659,11 @@
 - 09/16 00:59 [FirstSquawk] BESSENT STATES THEY DO NOT DETERMINE THE BALANCE PRICE FOR YIELD LEVELS AND BELIEVES THEY HAVE THE REQUIRED TOOLS.
 - 09/16 01:01 [financialjuice] US Treasury Secretary Bessent: The need to address deficit is one factor affecting 10-year treasury bond yield
 - 09/16 01:01 [DeItaone] BESSENT: THE NEED TO ADDRESS DEFICIT IS ONE FACTOR AFFECTING 10-YEAR TREASURY BOND YIELD
+- 09/16 01:15 [DeItaone] U.S. CONFIRMS WEAPONS IN ORBIT The Pentagon has made its strongest acknowledgment yet that the U.S. possesses weapons in space, with Air Force Secretary Troy Meink confirming orbital systems capable of defending U.S. forces. Space Command c…
+- 09/16 01:15 [DeItaone] BESSENT: GAS PRICES ARE LOWER THAN THEY WERE UNDER BIDEN
+- 09/16 01:19 [DeItaone] FRANCE BACKS KNOT FOR ECB PRESIDENT France would support former Dutch central-bank chief Klaas Knot to succeed Christine Lagarde as ECB president, provided a French candidate receives the powerful chief economist role, Reuters reports. The …
+- 09/16 01:22 [financialjuice] Bank of France sees economy expanding 0.4% in 2026
+- 09/16 01:22 [financialjuice] Bank of France survey indicates 3Q GDP to rise 0.1%
+- 09/16 01:22 [financialjuice] Bank of France trims 2026 GDP forecast, sees pickup next year.
+- 09/16 01:24 [financialjuice] US and Israeli and Arab military chiefs held secret meeting on Iran - Axios
+- 09/16 01:25 [FirstSquawk] US, ISRAELI, ARAB MILITARY CHIEFS HELD SECRET MEETING ON IRAN - AXIOS

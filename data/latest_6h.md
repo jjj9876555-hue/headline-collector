@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 01:06 JST／対象: 09/15 19:06 〜 09/16 01:06 JST（時刻はすべて日本時間）
+生成: 2026-09-16 01:25 JST／対象: 09/15 19:25 〜 09/16 01:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 39 | 09/15 19:17 | 09/16 01:01 | ⚠ 60分（20:28→21:28） |
-| FirstSquawk | 133 | 09/15 19:11 | 09/16 00:59 | 23分（00:24→00:47） |
-| financialjuice | 94 | 09/15 21:05 | 09/16 01:01 | 13分（21:32→21:45） |
+| DeItaone | 38 | 09/15 19:30 | 09/16 01:19 | ⚠ 60分（20:28→21:28） |
+| FirstSquawk | 131 | 09/15 19:25 | 09/16 01:25 | 25分（00:59→01:25） |
+| financialjuice | 98 | 09/15 21:05 | 09/16 01:24 | 21分（01:01→01:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 261 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 262 行（統合前 268 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 19:11 [FirstSquawk] GRAB WILL ACQUIRE A 60% SHARE IN ATOME FINANCIAL FOR $1.49 BILLION IN CASH.
-- 09/15 19:13 [FirstSquawk] RUSSIA HAS ISSUED A WARNING TO DENMARK OVER 'DANGEROUS MANOEUVRES' BY DANISH HELICOPTERS - RIA
-- 09/15 19:17 [DeItaone] SAUDI OIL EXPORTS PIVOT EAST Damage to Saudi Arabia’s East-West Pipeline could cut Yanbu exports by 2.5–2.7 million bpd for up to six weeks, according to Kpler. Saudi Arabia can redirect roughly 3 million bpd through Ras Tanura, but that in…
-- 09/15 19:20 [DeItaone] KREMLIN: WE THINK TRUMP'S PROPOSAL ON CEASEFIRE WITH UKRAINE ON ENERGY TARGETS IS A GOOD IDEA
-- 09/15 19:21 [DeItaone] KREMLIN: IF SANCTIONS ARE LIFTED, WORLD ENERGY PRICES WILL GO DOWN
-- 09/15 19:22 [FirstSquawk] PESKOV CALLS TRUMP ENERGY RUSSIA-UKRAINE TRUCE IDEA GOOD: IFX
-- 09/15 19:24 [DeItaone] KREMLIN BACKS RUSSIA-UKRAINE ENERGY TRUCE The Kremlin welcomed Trump’s proposal for Russia and Ukraine to stop attacking each other’s energy infrastructure. Trump said both sides had agreed to the moratorium. Moscow also called for sanction…
 - 09/15 19:25 [FirstSquawk] WELLS FARGO DOWNGRADES US TECHNOLOGY SECTOR TO EQUAL WEIGHT FROM OVERWEIGHT
 - 09/15 19:30 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:15 AM ET — 🇺🇸 ADP Weekly Employment Estimate 8:30 AM ET — 🇺🇸 Empire State Manufacturing 11:30 AM ET — 🇺🇸 6-Week Treasury Auction 1:00 PM ET — 🇺🇸 20-Year Treasury Auction 4:30 PM ET — 🛢️ API Oil Invent…
 - 09/15 19:31 [FirstSquawk] CARNEY WILL SPEAK AND HAVE A PRESS CONFERENCE ON THE SECOND DAY OF THE INVESTMENT SUMMIT.
@@ -285,3 +278,11 @@
 - 09/16 00:59 [FirstSquawk] BESSENT STATES THEY DO NOT DETERMINE THE BALANCE PRICE FOR YIELD LEVELS AND BELIEVES THEY HAVE THE REQUIRED TOOLS.
 - 09/16 01:01 [financialjuice] US Treasury Secretary Bessent: The need to address deficit is one factor affecting 10-year treasury bond yield
 - 09/16 01:01 [DeItaone] BESSENT: THE NEED TO ADDRESS DEFICIT IS ONE FACTOR AFFECTING 10-YEAR TREASURY BOND YIELD
+- 09/16 01:15 [DeItaone] U.S. CONFIRMS WEAPONS IN ORBIT The Pentagon has made its strongest acknowledgment yet that the U.S. possesses weapons in space, with Air Force Secretary Troy Meink confirming orbital systems capable of defending U.S. forces. Space Command c…
+- 09/16 01:15 [DeItaone] BESSENT: GAS PRICES ARE LOWER THAN THEY WERE UNDER BIDEN
+- 09/16 01:19 [DeItaone] FRANCE BACKS KNOT FOR ECB PRESIDENT France would support former Dutch central-bank chief Klaas Knot to succeed Christine Lagarde as ECB president, provided a French candidate receives the powerful chief economist role, Reuters reports. The …
+- 09/16 01:22 [financialjuice] Bank of France sees economy expanding 0.4% in 2026
+- 09/16 01:22 [financialjuice] Bank of France survey indicates 3Q GDP to rise 0.1%
+- 09/16 01:22 [financialjuice] Bank of France trims 2026 GDP forecast, sees pickup next year.
+- 09/16 01:24 [financialjuice] US and Israeli and Arab military chiefs held secret meeting on Iran - Axios
+- 09/16 01:25 [FirstSquawk] US, ISRAELI, ARAB MILITARY CHIEFS HELD SECRET MEETING ON IRAN - AXIOS
