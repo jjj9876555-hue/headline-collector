@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 20:58 JST／対象: 09/14 20:58 〜 09/15 20:58 JST（時刻はすべて日本時間）
+生成: 2026-09-15 21:22 JST／対象: 09/14 21:22 〜 09/15 21:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 46 | 09/14 21:14 | 09/15 20:28 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 335 | 09/14 20:58 | 09/15 20:56 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 238 | 09/14 21:00 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| DeItaone | 44 | 09/14 21:23 | 09/15 20:28 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 336 | 09/14 21:24 | 09/15 21:15 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 241 | 09/14 21:24 | 09/15 21:22 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 596 行（統合前 623 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 599 行（統合前 625 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 20:58 [FirstSquawk] 89% OF AMERICANS SAY GOVERNMENT CORRUPTION IS REAL — PUBLIC TRUST HITS A BREAKING POINT A striking 89% of Americans believe corruption is present in the U.S. government, highlighting a deep and widespread crisis of public trust. The figure …
-- 09/14 21:00 [financialjuice] Secured overnight financing rate: 3.62% September 11th vs 3.62% September 10th
-- 09/14 21:02 [FirstSquawk] NATO'S RUTTE: NATO HAS ALL THE OPTIONS IT NEEDS TO RESPOND TO RUSSIAN HYBRID ATTACKS, RESPONSE WILL NOT ALWAYS BE VISIBLE
-- 09/14 21:08 [financialjuice] Morning Juice – US Session Prep (14th September)
-- 09/14 21:11 [financialjuice/FirstSquawk] Oil production in Kazakhstan fell by 8.4% in January-August, with 61.7 million tonnes produced - IFX
-- 09/14 21:14 [DeItaone] FED HIKE BECOMES THE BASE CASE Goldman Sachs and JPMorgan now expect a 25bp Fed hike this week after hotter inflation and surging oil. Kalshi puts the odds of a 25bp hike at 80%, while broader markets price around 87%. JPMorgan expects anot…
-- 09/14 21:18 [DeItaone] BIS WARNS AI-DRIVEN MARKET MOMENTUM IS BECOMING VULNERABLE The Bank for International Settlements says the AI-driven equity rally is showing growing vulnerability as investors question future profitability and leverage rises across major te…
-- 09/14 21:19 [FirstSquawk] US ENERGY SEC EXPECTS EAST-WEST PIPELINE TO BE RUNNING SOON
-- 09/14 21:19 [financialjuice] US Energy Secretary Wright: The running ovewrage of oil coming out is 10 mln bpd.
-- 09/14 21:20 [financialjuice] US Energy Secretary Wright: We expect East-West pipeline to be running soon.
-- 09/14 21:20 [financialjuice] US Energy Secretary Wright Speaks - WATCH LIVE
-- 09/14 21:20 [financialjuice] US Energy Secretary Wright: Over 12m/b day went through hormuz last night.
-- 09/14 21:21 [FirstSquawk] AON KICKS OFF SEVEN-PART US DOLLAR BOND SALE FOR USI TAKEOVER
-- 09/14 21:21 [FirstSquawk] RUNNING AVERAGE FLOWING THROUGH STRAIT IS 10 M/B A DAY: WRIGHT
-- 09/14 21:22 [FirstSquawk] US WANTS MORE REFINED PRODUCTS FROM THE MIDDLE EAST: WRIGHT
-- 09/14 21:22 [financialjuice] US Energy Secretary Wright: US wants more refined products from the Middle East.
 - 09/14 21:23 [DeItaone] AI BOOM FUELS $110BN U.S. POWER BUILDOUT America’s data center boom will require $110 billion to add 45GW of power capacity through 2030, according to Moody’s. More than 30GW is expected to come from natural gas, requiring an extra 4 billio…
 - 09/14 21:24 [financialjuice] US Energy Secretary Wright: I am confident flows will increase in Hormuz in weeks ahead.
 - 09/14 21:24 [FirstSquawk] WRIGHT CONFIDENT FLOWS WILL INCREASE IN HORMUZ IN WEEKS AHEAD
@@ -620,3 +604,22 @@
 - 09/15 20:47 [FirstSquawk] UK PENSIONERS JUST EXCEEDING TAX THRESHOLD WON'T PAY TAX
 - 09/15 20:51 [FirstSquawk] GERMAN CHANCELLOR MERZ: AIMS TO AGREE ON FURTHER REFORMS WITH SPD PARTY AFTER THE STATE ELECTIONS
 - 09/15 20:56 [FirstSquawk] GERMAN CHANCELLOR MERZ ON UPCOMING STATE ELECTIONS: I WAS ELECTED FOR FOUR YEARS AND WANT TO USE THIS TIME TO SOLVE PROBLEMS
+- 09/15 21:00 [FirstSquawk] SPAIN APPROVES €13B INVESTMENT FOR SPANISH AIRPORT NETWORK
+- 09/15 21:05 [financialjuice] Secured overnight financing rate 3.62% Sept. 14th vs 3.62% Sept. 11th
+- 09/15 21:05 [financialjuice] Bytedance’s first-half profit drops to $20 billion. weighed down by AI spending - The Information
+- 09/15 21:05 [financialjuice] Bytedance LH revenue rises 30% YoY to $120b - Information
+- 09/15 21:06 [financialjuice] Morning Juice – US Session Prep (15th September)
+- 09/15 21:08 [financialjuice] WH Sr. Adviser Hassett praises private sector safeguards after Mythos worries.
+- 09/15 21:11 [FirstSquawk] NEC'S HASSETT COMMENDS PRIVATE SECTOR MEASURES, WHILE TRUMP BELIEVES THE US ALREADY HAS TOOLS REGARDING AI.
+- 09/15 21:12 [financialjuice] WH Sr. Adviser Hassett: It is not an antitrust issue for AI firms to warn each other.
+- 09/15 21:14 [financialjuice] WH Sr. Adviser Hassett: Trump and I respect whatever warsh does tomorrow.
+- 09/15 21:14 [FirstSquawk] HASSETT STATES AI COMPANIES WARNING EACH OTHER IS NOT AN ANTITRUST CONCERN.
+- 09/15 21:14 [FirstSquawk] HASSETT STATED THAT TRUMP AND HE WILL RESPECT WHAT WARSH DECIDES TO DO TOMORROW.
+- 09/15 21:14 [FirstSquawk] HASSETT ADDRESSES QUERIES ON INTEREST RATES AND FEDERAL RESERVE POLICIES.
+- 09/15 21:15 [FirstSquawk] ADP: US PRIVATE JOBS ROSE AVG 16,250/WK IN 4 WKS TO AUG. 29
+- 09/15 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 16.25 (FORECAST -, PREVIOUS 12,000.0) $MACRO
+- 09/15 21:15 [FirstSquawk] US ADP: US PRIVATE JOBS ROSE AVG 16,250/WK IN 4 WKS TO AUG. 29
+- 09/15 21:15 [FirstSquawk] US ADP WEEKLY EMPLOYMENT CHANGE W/O AUG 29: 16.250K (PREV 12.0K)
+- 09/15 21:19 [financialjuice] Wells Fargo’s Santomassimo: Not seeing changes in delinquency trends
+- 09/15 21:19 [financialjuice] Wells Fargo's Santomassimo: Activity level in US economy staying strong.
+- 09/15 21:22 [financialjuice] Salesforce and Google Cloud expand enterprise AI pact $GOOGL

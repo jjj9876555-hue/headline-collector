@@ -7,51 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 20:58 JST／対象: 09/15 14:58 〜 09/15 20:58 JST（時刻はすべて日本時間）
+生成: 2026-09-15 21:22 JST／対象: 09/15 15:22 〜 09/15 21:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/15 16:20 | 09/15 20:28 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 95 | 09/15 15:02 | 09/15 20:56 | 19分（19:31→19:50） |
-| financialjuice | 15 | 09/15 14:58 | 09/15 15:11 | 6分（15:00→15:07） |
+| FirstSquawk | 90 | 09/15 15:22 | 09/15 21:15 | 19分（19:31→19:50） |
+| financialjuice | 11 | 09/15 21:05 | 09/15 21:22 | 3分（21:15→21:19） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 111 行（統合前 111 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 14:58 [financialjuice] Japan's Fin. Min. Katayama: We won't issue debt to fund food sales tax cut
-- 09/15 14:58 [financialjuice] Japan finance minister Katayama: Will aim to secure enough funding through efforts to boost non-tax revenue
-- 09/15 15:00 [financialjuice] Japan Finance Minister Katayama: We expect a meaningful level of overshoot in tax revenue
-- 09/15 15:00 [financialjuice] ❗ UK UNEMPLOYMENT CHANGE ACTUAL 27.8K (FORECAST 5K, PREVIOUS -11.0K) $MACRO
-- 09/15 15:00 [financialjuice] UK EMPLOYMENT CHANGE 3M/3M ACTUAL 66K (FORECAST 67K, PREVIOUS 83K) $MACRO
-- 09/15 15:00 [financialjuice] UK AVERAGE WEEKLY EARNINGS YOY ACTUAL 3.9% (FORECAST 3.9%, PREVIOUS 4.1%) $MACRO
-- 09/15 15:00 [financialjuice] ❗ UK EMPLOYMENT CHANGE SA ACTUAL -26K (FORECAST -5K, PREVIOUS -13K) $MACRO
-- 09/15 15:00 [financialjuice] ❗ UK UNEMPLOYMENT RATE ACTUAL 4.9% (FORECAST 4.9%, PREVIOUS 4.9%) $MACRO
-- 09/15 15:00 [financialjuice] UK AVERAGE EARNINGS (EX-BONUS) ACTUAL 3.5% (FORECAST 3.5%, PREVIOUS 3.5%) $MACRO
-- 09/15 15:00 [financialjuice] NORWEGIAN TRADE BALANCE ACTUAL 100.44B (FORECAST -, PREVIOUS 84.30B) $MACRO
-- 09/15 15:00 [financialjuice] GERMAN WHOLESALE PRICE INDEX YOY ACTUAL 6.8% (FORECAST -, PREVIOUS 5.3%) $MACRO
-- 09/15 15:00 [financialjuice] GERMAN WHOLESALE PRICE INDEX MOM ACTUAL 0.9% (FORECAST -, PREVIOUS 0.2%) $MACRO
-- 09/15 15:02 [FirstSquawk] GERMANY (AUG) Wholesale Price Index MoM ACTUAL: 0.9% VS 0.2% PREVIOUS
-- 09/15 15:02 [FirstSquawk] UK (JUL) Average Weekly Earnings 3M/YoY ACTUAL: 3.9% VS 4.1% PREVIOUS;EST 3.9%
-- 09/15 15:02 [FirstSquawk] GERMANY (AUG) Wholesale Price Index YoY ACTUAL: 6.8% VS 5.3% PREVIOUS
-- 09/15 15:02 [FirstSquawk] UK (JUL) Weekly Earnings ex Bonus 3M/YoY ACTUAL: 3.5% VS 3.5% PREVIOUS;EST 3.5%
-- 09/15 15:02 [FirstSquawk] UK (JUL) Private Earnings ex Bonus 3M/YoY ACTUAL: 2.9% VS 2.8% PREVIOUS;EST 2.8%
-- 09/15 15:02 [FirstSquawk] UK (JUL) ILO Unemployment Rate 3Mths ACTUAL: 4.9% VS 4.9% PREVIOUS;EST 4.9%
-- 09/15 15:02 [FirstSquawk] UK (JUL) Employment Change 3M/3M ACTUAL: 66K VS 84K PREVIOUS;EST 67K
-- 09/15 15:02 [FirstSquawk] UK (JUL) Payrolled Employees Monthly Change ACTUAL: -26% VS -13K PREVIOUS;EST -5K
-- 09/15 15:02 [FirstSquawk] NORWAY (AUG) Trade Balance ACTUAL: 100.4B VS 84.3B PREVIOUS
-- 09/15 15:02 [FirstSquawk] UK (JUL) Jobless Claims Change ACTUAL: 27.8k VS -11K PREVIOUS
-- 09/15 15:03 [FirstSquawk] UK (AUG) CLAIMANT COUNT RATE: 4.4% (PREV 4.3%)
-- 09/15 15:04 [FirstSquawk] DAX futures rise 0.10% and Euro Stoxx 50 futures gain 0.02%, while CAC 40 futures slip 0.05% and FTSE futures lose 0.15%.
-- 09/15 15:07 [financialjuice] Japan's Fin. Min. Katayama: We will cut wasteful spending drastically from here
-- 09/15 15:08 [financialjuice] Japan's Fin. Min. Katayama: We will scrutinise budget requests for next fiscal year strictly going forward
-- 09/15 15:11 [financialjuice] Poll: US 30-year mortgage rate to average 6.43% in 2026, 6.40% in 2027 and 6.25% in 2028 (vs 6.3%, 6.2% and 6.0% respectively in Q2 poll)
-- 09/15 15:16 [FirstSquawk] ECB expected to cut policy rates by 25bp in December 2027, according to Morgan Stanley.
 - 09/15 15:22 [FirstSquawk] Yemeni Armed Forces aviation strikes Houthi weapons storage sites in Al-Jawf, Al Arabiya correspondent reports.
 - 09/15 15:23 [FirstSquawk] Al Arabiya: Yemeni Armed Forces carry out airstrikes against Houthi weapons depots near Mount Heilan.
 - 09/15 15:24 [FirstSquawk] Houthi infiltration attempt thwarted by Yemeni Armed Forces in Harib, south of Marib, Al Arabiya correspondent says.
@@ -144,3 +116,22 @@
 - 09/15 20:47 [FirstSquawk] UK PENSIONERS JUST EXCEEDING TAX THRESHOLD WON'T PAY TAX
 - 09/15 20:51 [FirstSquawk] GERMAN CHANCELLOR MERZ: AIMS TO AGREE ON FURTHER REFORMS WITH SPD PARTY AFTER THE STATE ELECTIONS
 - 09/15 20:56 [FirstSquawk] GERMAN CHANCELLOR MERZ ON UPCOMING STATE ELECTIONS: I WAS ELECTED FOR FOUR YEARS AND WANT TO USE THIS TIME TO SOLVE PROBLEMS
+- 09/15 21:00 [FirstSquawk] SPAIN APPROVES €13B INVESTMENT FOR SPANISH AIRPORT NETWORK
+- 09/15 21:05 [financialjuice] Secured overnight financing rate 3.62% Sept. 14th vs 3.62% Sept. 11th
+- 09/15 21:05 [financialjuice] Bytedance’s first-half profit drops to $20 billion. weighed down by AI spending - The Information
+- 09/15 21:05 [financialjuice] Bytedance LH revenue rises 30% YoY to $120b - Information
+- 09/15 21:06 [financialjuice] Morning Juice – US Session Prep (15th September)
+- 09/15 21:08 [financialjuice] WH Sr. Adviser Hassett praises private sector safeguards after Mythos worries.
+- 09/15 21:11 [FirstSquawk] NEC'S HASSETT COMMENDS PRIVATE SECTOR MEASURES, WHILE TRUMP BELIEVES THE US ALREADY HAS TOOLS REGARDING AI.
+- 09/15 21:12 [financialjuice] WH Sr. Adviser Hassett: It is not an antitrust issue for AI firms to warn each other.
+- 09/15 21:14 [financialjuice] WH Sr. Adviser Hassett: Trump and I respect whatever warsh does tomorrow.
+- 09/15 21:14 [FirstSquawk] HASSETT STATES AI COMPANIES WARNING EACH OTHER IS NOT AN ANTITRUST CONCERN.
+- 09/15 21:14 [FirstSquawk] HASSETT STATED THAT TRUMP AND HE WILL RESPECT WHAT WARSH DECIDES TO DO TOMORROW.
+- 09/15 21:14 [FirstSquawk] HASSETT ADDRESSES QUERIES ON INTEREST RATES AND FEDERAL RESERVE POLICIES.
+- 09/15 21:15 [FirstSquawk] ADP: US PRIVATE JOBS ROSE AVG 16,250/WK IN 4 WKS TO AUG. 29
+- 09/15 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 16.25 (FORECAST -, PREVIOUS 12,000.0) $MACRO
+- 09/15 21:15 [FirstSquawk] US ADP: US PRIVATE JOBS ROSE AVG 16,250/WK IN 4 WKS TO AUG. 29
+- 09/15 21:15 [FirstSquawk] US ADP WEEKLY EMPLOYMENT CHANGE W/O AUG 29: 16.250K (PREV 12.0K)
+- 09/15 21:19 [financialjuice] Wells Fargo’s Santomassimo: Not seeing changes in delinquency trends
+- 09/15 21:19 [financialjuice] Wells Fargo's Santomassimo: Activity level in US economy staying strong.
+- 09/15 21:22 [financialjuice] Salesforce and Google Cloud expand enterprise AI pact $GOOGL

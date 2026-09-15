@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 20:58 JST／対象: 09/15 08:58 〜 09/15 20:58 JST（時刻はすべて日本時間）
+生成: 2026-09-15 21:22 JST／対象: 09/15 09:22 〜 09/15 21:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/15 16:20 | 09/15 20:28 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 192 | 09/15 09:11 | 09/15 20:56 | 19分（19:31→19:50） |
-| financialjuice | 71 | 09/15 09:04 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| FirstSquawk | 190 | 09/15 09:23 | 09/15 21:15 | 19分（19:31→19:50） |
+| financialjuice | 77 | 09/15 09:27 | 09/15 21:22 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 272 行（統合前 273 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 277 行（統合前 277 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 09:04 [financialjuice] S. KOREAN TRADE BALANCE REVISED ACTUAL 34.79B (FORECAST -, PREVIOUS 34.75B) $MACRO
-- 09/15 09:04 [financialjuice] S. KOREAN EXPORTS REVISED ACTUAL 68.7% (FORECAST -, PREVIOUS 68.7%) $MACRO
-- 09/15 09:04 [financialjuice] S. KOREAN IMPORTS REVISED ACTUAL 22.4% (FORECAST -, PREVIOUS 22.5%) $MACRO
-- 09/15 09:05 [financialjuice] Unisound AI Technology Co releases U2-Flash, next-gen high-density intelligent model
-- 09/15 09:08 [financialjuice/FirstSquawk] Microsoft CEO Satya Nadella urges AI industry to prioritize safety, maintain human control: Business Insider
-- 09/15 09:11 [FirstSquawk] Unisound AI Technology unveils U2-FLASH, a new high-density intelligent model aimed at advancing its next-generation AI capabilities.
-- 09/15 09:11 [FirstSquawk] NVIDIA CEO JENSEN HUANG TOOK A LIVE PHONE CALL FROM DONALD TRUMP DURING AN ON-STAGE PANEL, WITH BOTH REJECTING CALLS TO SLOW ADVANCED AI DEVELOPMENT AND ARGUING THE U.S. MUST MAINTAIN ITS AI LEAD OVER CHINA. HUANG SAID AI SAFETY AND INNOVAT…
-- 09/15 09:11 [FirstSquawk] Microsoft CEO Satya Nadella calls on the AI industry to put safety first and ensure humans remain in control as the technology advances - BI
-- 09/15 09:13 [FirstSquawk] Japan’s heavy reliance on LNG is complicating its response to Putin’s visit to the disputed Kuril Islands, highlighting the tension between energy security and diplomacy.
-- 09/15 09:16 [FirstSquawk] Oil prices climb sharply as global equities slide and government bond yields move higher, signaling renewed pressure across financial markets.
-- 09/15 09:19 [FirstSquawk] Asian markets open weaker after Wall Street’s broad decline, with tech stocks under pressure as investors weigh calls for a slower pace of AI development
-- 09/15 09:20 [FirstSquawk] OpenAI is reportedly training ChatGPT to sound less human-like and reduce sycophantic responses, according to 404 Media.
-- 09/15 09:22 [FirstSquawk] NATO aircraft intercepted and destroyed a drone over Lithuanian territory, President Gitanas Nausėda said, citing AFP.
-- 09/15 09:22 [FirstSquawk] U.S. Supreme Court blocks the Postal Service from imposing new mail-in voting restrictions ahead of the congressional midterms, dealing a setback to the Trump administration - BBG
 - 09/15 09:23 [FirstSquawk] Japan’s long-dated bond yields edge higher as rising energy costs fuel fresh inflation concerns , citing WSJ
 - 09/15 09:25 [FirstSquawk] China pushes back against calls to curb the development of advanced AI, signaling continued momentum behind its technology ambitions.
 - 09/15 09:27 [financialjuice] China PBOC seen setting yuan midpoint at 6.7051 per dollar: estimate
@@ -296,3 +282,22 @@
 - 09/15 20:47 [FirstSquawk] UK PENSIONERS JUST EXCEEDING TAX THRESHOLD WON'T PAY TAX
 - 09/15 20:51 [FirstSquawk] GERMAN CHANCELLOR MERZ: AIMS TO AGREE ON FURTHER REFORMS WITH SPD PARTY AFTER THE STATE ELECTIONS
 - 09/15 20:56 [FirstSquawk] GERMAN CHANCELLOR MERZ ON UPCOMING STATE ELECTIONS: I WAS ELECTED FOR FOUR YEARS AND WANT TO USE THIS TIME TO SOLVE PROBLEMS
+- 09/15 21:00 [FirstSquawk] SPAIN APPROVES €13B INVESTMENT FOR SPANISH AIRPORT NETWORK
+- 09/15 21:05 [financialjuice] Secured overnight financing rate 3.62% Sept. 14th vs 3.62% Sept. 11th
+- 09/15 21:05 [financialjuice] Bytedance’s first-half profit drops to $20 billion. weighed down by AI spending - The Information
+- 09/15 21:05 [financialjuice] Bytedance LH revenue rises 30% YoY to $120b - Information
+- 09/15 21:06 [financialjuice] Morning Juice – US Session Prep (15th September)
+- 09/15 21:08 [financialjuice] WH Sr. Adviser Hassett praises private sector safeguards after Mythos worries.
+- 09/15 21:11 [FirstSquawk] NEC'S HASSETT COMMENDS PRIVATE SECTOR MEASURES, WHILE TRUMP BELIEVES THE US ALREADY HAS TOOLS REGARDING AI.
+- 09/15 21:12 [financialjuice] WH Sr. Adviser Hassett: It is not an antitrust issue for AI firms to warn each other.
+- 09/15 21:14 [financialjuice] WH Sr. Adviser Hassett: Trump and I respect whatever warsh does tomorrow.
+- 09/15 21:14 [FirstSquawk] HASSETT STATES AI COMPANIES WARNING EACH OTHER IS NOT AN ANTITRUST CONCERN.
+- 09/15 21:14 [FirstSquawk] HASSETT STATED THAT TRUMP AND HE WILL RESPECT WHAT WARSH DECIDES TO DO TOMORROW.
+- 09/15 21:14 [FirstSquawk] HASSETT ADDRESSES QUERIES ON INTEREST RATES AND FEDERAL RESERVE POLICIES.
+- 09/15 21:15 [FirstSquawk] ADP: US PRIVATE JOBS ROSE AVG 16,250/WK IN 4 WKS TO AUG. 29
+- 09/15 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 16.25 (FORECAST -, PREVIOUS 12,000.0) $MACRO
+- 09/15 21:15 [FirstSquawk] US ADP: US PRIVATE JOBS ROSE AVG 16,250/WK IN 4 WKS TO AUG. 29
+- 09/15 21:15 [FirstSquawk] US ADP WEEKLY EMPLOYMENT CHANGE W/O AUG 29: 16.250K (PREV 12.0K)
+- 09/15 21:19 [financialjuice] Wells Fargo’s Santomassimo: Not seeing changes in delinquency trends
+- 09/15 21:19 [financialjuice] Wells Fargo's Santomassimo: Activity level in US economy staying strong.
+- 09/15 21:22 [financialjuice] Salesforce and Google Cloud expand enterprise AI pact $GOOGL
