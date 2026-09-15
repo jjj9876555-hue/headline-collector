@@ -7,54 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 05:46 JST／対象: 09/15 23:46 〜 09/16 05:46 JST（時刻はすべて日本時間）
+生成: 2026-09-16 05:58 JST／対象: 09/15 23:58 〜 09/16 05:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 26 | 09/15 23:47 | 09/16 05:01 | ⚠ 57分（03:03→04:01） |
-| FirstSquawk | 111 | 09/15 23:46 | 09/16 05:42 | 41分（01:25→02:06） |
-| financialjuice | 76 | 09/15 23:47 | 09/16 05:43 | 38分（05:04→05:43） |
+| DeItaone | 22 | 09/16 00:01 | 09/16 05:01 | ⚠ 57分（03:03→04:01） |
+| FirstSquawk | 97 | 09/16 00:14 | 09/16 05:58 | 41分（01:25→02:06） |
+| financialjuice | 71 | 09/16 00:00 | 09/16 05:58 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 205 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 182 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 23:46 [FirstSquawk] BESSENT SAYS CHINA'S BELT AND ROAD INITIATIVE HAS LED TO BANKRUPTCY FOR MANY BORROWERS.
-- 09/15 23:47 [financialjuice] US Treasury Secretary Bessent: Dollar continues to thrive as reserve currency. Transaction volume in dollars has risen.
-- 09/15 23:47 [FirstSquawk] BESSENT SAYS DOLLAR IS STILL STRONG IN GLOBAL DEALS.
-- 09/15 23:47 [FirstSquawk] BESSENT SAYS DOLLAR RESERVE DECLINE PRIMARILY CAUSED BY CHINA AND RUSSIA.
-- 09/15 23:47 [financialjuice] US Treasury Secretary Bessent: Dollar drop in reserves mainly due to China and Russia.
-- 09/15 23:47 [FirstSquawk] BESSENT ANNOUNCED THEY JUST COMPLETED TWO OF THE MOST SUCCESSFUL DEBT AUCTIONS IN THE LAST 20 YEARS.
-- 09/15 23:47 [DeItaone] BESSENT: DECREASE IN RESERVE HOLDINGS OF DOLLARS IS MAINLY FROM RUSSIA AND CHINA
-- 09/15 23:47 [FirstSquawk] BESSENT SAYS FISCAL CONSOLIDATION 'IS APPROACHING.'
-- 09/15 23:48 [financialjuice] US Treasury Secretary Bessent: Fiscal consolidation is coming.
-- 09/15 23:48 [financialjuice] Yemen denies Saudi Arabia's claim of a threat to attack Mecca - Tasnim News
-- 09/15 23:49 [financialjuice] Germany’s Chancellor Merz on fuel prices: I see no legal or factual basis for a windfall profit tax.
-- 09/15 23:49 [financialjuice] 3rd US drone shot down in the sky above the Strait of Hormuz by IRGC air defense - Fars News
-- 09/15 23:51 [financialjuice] US House Speaker Johnson: $5,000 checks will take time.
-- 09/15 23:51 [DeItaone/financialjuice] OIL LOADINGS SUSPENDED AT TOP SAUDI RED SEA PORT OF YANBU AFTER PREVIOUS ATTACK ON EAST-WEST PIPELINE - SHIPPING SOURCES
-- 09/15 23:53 [FirstSquawk] OIL LOADINGS HAVE BEEN STOPPED AT SAUDI ARABIA'S YANBU PORT AFTER AN ATTACK ON THE EAST-WEST PIPELINE, ACCORDING TO SHIPPING SOURCES.
-- 09/15 23:53 [FirstSquawk] US HOUSE SPEAKER JOHNSON DISCUSSED AI RISKS WITH PRESIDENT TRUMP LAST NIGHT.
-- 09/15 23:53 [FirstSquawk] CHINA'S KIMI HAD A SECURITY BREACH AND SHARED WEAPONS PLANS WITH ANTHROPIC.
-- 09/15 23:53 [financialjuice] US Treasury Secretary Bessent: China Kimi had breach, sent weapons plans to Anthropic.
-- 09/15 23:53 [FirstSquawk] CANADA PENSION FUNDS ARE LOOKING TO INVEST IN AIRPORT CONCESSIONS.
-- 09/15 23:54 [FirstSquawk] ANTHROPIC INTRODUCES BETA SALESFORCE PLUGIN FOR CLAUDE.
-- 09/15 23:54 [FirstSquawk] CARNEY: AIRPORT CONCESSIONS CAN NOW WELCOME FOREIGN INVESTMENTS.
-- 09/15 23:55 [financialjuice] House Speaker Johnson: AI executives are expected to come to the White House within the next week - Fox News Reporter on X
-- 09/15 23:56 [financialjuice] US Treasury Secretary Bessent: Trump completely aligned with Nvidia's CEO. $NVDA
-- 09/15 23:56 [FirstSquawk] US TREASURY SECRETARY BESSENT SAYS TRUMP IS 'COMPLETELY IN SYNC' WITH NVIDIA CEO HUANG.
-- 09/15 23:56 [FirstSquawk] JOHNSON STATES AI DEVELOPMENT SHOULD NOT BE PUT ON HOLD.
-- 09/15 23:56 [FirstSquawk] BESSENT SAYS TRUMP IS IN TOTAL AGREEMENT WITH NVIDIA'S JENSEN HUANG.
-- 09/15 23:56 [FirstSquawk] JOHNSON SAYS HE WILL NOT PERMIT LOSING AI COMPETITIVENESS.
-- 09/15 23:56 [DeItaone] JOHNSON SAYS AI MORATORIUM WILL LOSE COMPETITIVE EDGE TO CHINA
-- 09/15 23:57 [FirstSquawk] BESSENT FOCUSED ON MAINTAINING A STRONG TREASURY MARKET.
-- 09/15 23:57 [financialjuice] US Treasury Secretary Bessent: I am dedicated to keeping Treasury market robust and the deepest.
-- 09/15 23:57 [DeItaone] BESSENT: TRUMP COMPLETELY ALIGNED WITH NVIDIA'S JENSEN HUANG
 - 09/16 00:00 [financialjuice] US to sell $90 bln 4-Week bills on Sept 17th to settle on Sept 22nd
 - 09/16 00:01 [DeItaone] BRENT, US CRUDE FUTURES RISE BY MORE THAN $3 AFTER SHIPPING SOURCES TELL REUTERS OIL LOADINGS AT SAUDI ARABIA'S RED SEA PORT OF YANBU HAVE BEEN SUSPENDED
 - 09/16 00:01 [financialjuice] Meta Launches Meta One Subscription Plans Globally $META
@@ -229,3 +198,11 @@
 - 09/16 05:36 [FirstSquawk] INPEX’S ABADI LNG PROJECT IN INDONESIA IS EXPECTED TO PRODUCE 9.5 MILLION METRIC TONS OF LNG ANNUALLY, WITH NEGOTIATIONS UNDERWAY WITH MAJOR BUYERS. INPEX PRESIDENT SAYS TALKS WITH BP AND SHELL ARE “CLOSE TO REACHING AGREEMENTS” ON TERMS, A…
 - 09/16 05:42 [FirstSquawk] COUNCIL OF ECONOMIC ADVISERS CHAIRMAN CHRISTOPHER PHELAN SAYS WOULD BE A MISTAKE FOR FED TO HIKE RATES - CNBC INTERVIEW
 - 09/16 05:43 [financialjuice] Council of Economic Advisers Chairman Phelan: It would be a mistake for the Fed to hike rates - CNBC Interview.
+- 09/16 05:48 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL 7.1M (FORECAST -1.8M, PREVIOUS -0.3M) $MACRO
+- 09/16 05:48 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL 1.5M (FORECAST -, PREVIOUS -1.9M) $MACRO
+- 09/16 05:48 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL 1.6M (FORECAST -, PREVIOUS 2M) $MACRO
+- 09/16 05:50 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL - (FORECAST -, PREVIOUS -0.246M ) $MACRO
+- 09/16 05:51 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL -0.246M (FORECAST -, PREVIOUS -0.3M) $MACRO
+- 09/16 05:51 [FirstSquawk] U.S. API DATA SHOWS CRUDE INVENTORIES SURGING 7.1M BARRELS VS. 1.8M-BARREL DRAW EXPECTED AND 0.3M PREVIOUSLY.
+- 09/16 05:53 [financialjuice] US Pressures Mexico to Box Out China’s AI Hardware Exports - WSJ
+- 09/16 05:58 [financialjuice/FirstSquawk] Reports of an explosion heard in Erbil, northern Iraq - Tasnim News.

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 05:46 JST／対象: 09/15 05:46 〜 09/16 05:46 JST（時刻はすべて日本時間）
+生成: 2026-09-16 05:58 JST／対象: 09/15 05:58 〜 09/16 05:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 07:36 | 09/16 05:01 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 390 | 09/15 06:01 | 09/16 05:42 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 227 | 09/15 05:51 | 09/16 05:43 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 392 | 09/15 06:01 | 09/16 05:58 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 233 | 09/15 06:00 | 09/16 05:58 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 659 行（統合前 676 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 666 行（統合前 684 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 05:51 [financialjuice] Trump called Nvidia's CEO Huang on Monday, and wanted to discuss AI - NYT. $NVDA
 - 09/15 06:00 [financialjuice] S. KOREAN EXPORT PRICE YOY ACTUAL 42.4% (FORECAST -, PREVIOUS 49.1%) $MACRO
 - 09/15 06:00 [financialjuice] S. KOREAN IMPORT PRICE YOY ACTUAL 15.6% (FORECAST -, PREVIOUS 18.7%) $MACRO
 - 09/15 06:01 [FirstSquawk] TRUMP WANTED TO DISCUSS AI WITH NVIDIA CEO JENSEN HUANG; CALLED HUANG ON MONDAY - NYT
@@ -683,3 +682,11 @@
 - 09/16 05:36 [FirstSquawk] INPEX’S ABADI LNG PROJECT IN INDONESIA IS EXPECTED TO PRODUCE 9.5 MILLION METRIC TONS OF LNG ANNUALLY, WITH NEGOTIATIONS UNDERWAY WITH MAJOR BUYERS. INPEX PRESIDENT SAYS TALKS WITH BP AND SHELL ARE “CLOSE TO REACHING AGREEMENTS” ON TERMS, A…
 - 09/16 05:42 [FirstSquawk] COUNCIL OF ECONOMIC ADVISERS CHAIRMAN CHRISTOPHER PHELAN SAYS WOULD BE A MISTAKE FOR FED TO HIKE RATES - CNBC INTERVIEW
 - 09/16 05:43 [financialjuice] Council of Economic Advisers Chairman Phelan: It would be a mistake for the Fed to hike rates - CNBC Interview.
+- 09/16 05:48 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL 7.1M (FORECAST -1.8M, PREVIOUS -0.3M) $MACRO
+- 09/16 05:48 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL 1.5M (FORECAST -, PREVIOUS -1.9M) $MACRO
+- 09/16 05:48 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL 1.6M (FORECAST -, PREVIOUS 2M) $MACRO
+- 09/16 05:50 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL - (FORECAST -, PREVIOUS -0.246M ) $MACRO
+- 09/16 05:51 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL -0.246M (FORECAST -, PREVIOUS -0.3M) $MACRO
+- 09/16 05:51 [FirstSquawk] U.S. API DATA SHOWS CRUDE INVENTORIES SURGING 7.1M BARRELS VS. 1.8M-BARREL DRAW EXPECTED AND 0.3M PREVIOUSLY.
+- 09/16 05:53 [financialjuice] US Pressures Mexico to Box Out China’s AI Hardware Exports - WSJ
+- 09/16 05:58 [financialjuice/FirstSquawk] Reports of an explosion heard in Erbil, northern Iraq - Tasnim News.
