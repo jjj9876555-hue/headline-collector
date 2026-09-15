@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 13:18 JST／対象: 09/15 07:18 〜 09/15 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-15 13:35 JST／対象: 09/15 07:35 〜 09/15 13:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/15 07:36 | 09/15 07:36 | - |
-| FirstSquawk | 78 | 09/15 08:54 | 09/15 13:17 | 15分（08:55→09:11） |
-| financialjuice | 56 | 09/15 07:27 | 09/15 12:09 | 34分（07:55→08:29） |
+| FirstSquawk | 81 | 09/15 08:54 | 09/15 13:32 | 15分（08:55→09:11） |
+| financialjuice | 55 | 09/15 07:41 | 09/15 12:09 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 134 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 136 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 07:27 [financialjuice] Colombia congress endorses 2027 budget of 634.9 trillion pesos
 - 09/15 07:36 [DeItaone] *IRAN SAYS NO TALKS WITH US UNTIL ITS CONDITIONS ARE MET *IRAN SAYS NO TALKS WITH US UNTIL ITS CONDITIONS ARE MET *IRAN TOP SECURITY OFFICIAL MOHSEN REZAEE SAYS IN POST ON X *REZAEE: US PRESIDENT SENDS ‘MIXED SIGNALS’ ON NEGOTIATIONS
 - 09/15 07:41 [financialjuice] Google allows all engineers to access Anthropic's Claude - Business Insider
 - 09/15 07:45 [financialjuice] NZ actual electronic card retail sales up 0.2% in August from year earlier
@@ -158,3 +157,6 @@
 - 09/15 13:16 [FirstSquawk] US stocks gain favour with foreign investors as concerns over Treasury debt rise.
 - 09/15 13:16 [FirstSquawk] Metlen warns Europe risks losing its new gallium supply to overseas markets.
 - 09/15 13:17 [FirstSquawk] China may bar citizens from leaving the country for up to three years under tighter travel rules, BBC reports.
+- 09/15 13:25 [FirstSquawk] US manufacturers see supply-chain costs accelerate again.
+- 09/15 13:30 [FirstSquawk] Saudi Arabia faces new Houthi strikes amid stalled talks over the Strait of Hormuz.
+- 09/15 13:32 [FirstSquawk] Japan’s tertiary industry activity rebounds 0.4% in July, beating the 0.3% forecast.

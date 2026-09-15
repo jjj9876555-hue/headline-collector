@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 13:18 JST／対象: 09/15 01:18 〜 09/15 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-15 13:35 JST／対象: 09/15 01:35 〜 09/15 13:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/15 02:25 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 141 | 09/15 01:20 | 09/15 13:17 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 121 | 09/15 01:21 | 09/15 12:09 | 34分（07:55→08:29） |
+| FirstSquawk | 139 | 09/15 02:27 | 09/15 13:32 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 111 | 09/15 01:50 | 09/15 12:09 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 261 行（統合前 273 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 249 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 01:20 [FirstSquawk] ECB'S MACHADO CALLS FOR GREATER TRANSPARENCY IN SYNTHETIC SRTS.
-- 09/15 01:21 [financialjuice] EC Pres. von der Leyen is going to meet with Canada's PM Carney on Wednesday - Spokesperson.
-- 09/15 01:24 [financialjuice] Trump: US producing more weapons than any time in history - Truth Social Post
-- 09/15 01:25 [financialjuice] Trump: weapons are being delivered daily to US forces in the Middle East and elsewhere
-- 09/15 01:25 [financialjuice] Trump: Defense manufacturers are operating around the clock and building 4-5 new large-scale plants on average.
-- 09/15 01:25 [FirstSquawk] TRUMP: I’VE JUST RECEIVED A REPORT THAT THE UNITED STATES IS PRODUCING MORE EXQUISITE AND ELITE WEAPONS THAN AT ANY TIME IN OUR HISTORY. THEY ARE BEING DELIVERED ON A DAILY BASIS TO OUR FORCES IN THE MIDDLE EAST, AND BEYOND.
-- 09/15 01:25 [financialjuice] Trump: Production is focused on Patriot, THAAD, Tomahawk and other standard missile systems.
-- 09/15 01:25 [FirstSquawk] TRUMP: OUR DEFENSE COMPANY FACTORIES ARE MOVING 24/7, WHILE AT THE SAME TIME BUILDING, ON AVERAGE, 4 TO 5 LARGESCALE BRAND NEW PLANTS, EACH! A PRIMARY FOCUS OF THIS PRODUCTION HAS BEEN PATRIOTS, THAAD SYSTEMS, TOMAHAWKS, AND OTHER STANDARD …
-- 09/15 01:27 [FirstSquawk] TRUMP: OIL IS FLOWING THROUGH THE HORMUZ STRAIT. THE COUNTRIES OF THE WORLD, WHICH HAVE BEEN NO HELP TO US WHATSOEVER, SHOULD, AND WILL, REIMBURSE THE UNITED STATES OF AMERICA WHEN THIS SCAM CONFLIGRATION IS ALL OVER. WE ARE DOING IT MUCH M…
-- 09/15 01:27 [financialjuice] Trump: Oil is flowing through the Hormuz Strait - Truth Social
-- 09/15 01:27 [financialjuice] Trump: Countries who haven't helped will reimburse US, post war.
-- 09/15 01:30 [financialjuice] Saudis seek to boost Hormuz oil exports as key pipeline attacked.
-- 09/15 01:32 [financialjuice] Trump: With temporary exception of oil, prices coming down.
-- 09/15 01:32 [financialjuice] Trump: Oil to drop after Iran conflict ends, will not be long.
-- 09/15 01:33 [FirstSquawk] TRUMP: I HOPE EVERYONE REALIZES THAT PRICE INCREASES THROUGHOUT AMERICA WERE CAUSED BY SLEEPY JOE BIDEN AND THE BIDEN ADMINISTRATION, NOT BY “TRUMP.” EVEN OIL WAS HIGHER UNDER BIDEN THAN IT IS RIGHT NOW, AND WE PREVENTED IRAN FROM HAVING A …
 - 09/15 01:50 [financialjuice] ❗ US seeks "step-by-step" agreement with Iran, reports ILNA citing Pakistani sources
 - 09/15 02:01 [financialjuice/FirstSquawk] US senators debating requiring al giants to commit to preventing catastrophe - Senate aide and lobbyist.
 - 09/15 02:01 [financialjuice] US Treasury Secretary Bessent posts support for final Clarity Act draft on X.
@@ -285,3 +270,6 @@
 - 09/15 13:16 [FirstSquawk] US stocks gain favour with foreign investors as concerns over Treasury debt rise.
 - 09/15 13:16 [FirstSquawk] Metlen warns Europe risks losing its new gallium supply to overseas markets.
 - 09/15 13:17 [FirstSquawk] China may bar citizens from leaving the country for up to three years under tighter travel rules, BBC reports.
+- 09/15 13:25 [FirstSquawk] US manufacturers see supply-chain costs accelerate again.
+- 09/15 13:30 [FirstSquawk] Saudi Arabia faces new Houthi strikes amid stalled talks over the Strait of Hormuz.
+- 09/15 13:32 [FirstSquawk] Japan’s tertiary industry activity rebounds 0.4% in July, beating the 0.3% forecast.
