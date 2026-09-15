@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 04:15 JST／対象: 09/15 16:15 〜 09/16 04:15 JST（時刻はすべて日本時間）
+生成: 2026-09-16 04:31 JST／対象: 09/15 16:31 〜 09/16 04:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 52 | 09/15 16:20 | 09/16 04:01 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 225 | 09/15 16:17 | 09/16 04:15 | 41分（01:25→02:06） |
-| financialjuice | 130 | 09/15 21:05 | 09/16 04:14 | 35分（01:24→02:00） |
+| DeItaone | 51 | 09/15 16:50 | 09/16 04:01 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 222 | 09/15 16:37 | 09/16 04:18 | 41分（01:25→02:06） |
+| financialjuice | 133 | 09/15 21:05 | 09/16 04:22 | 35分（01:24→02:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 395 行（統合前 409 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 394 行（統合前 408 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 16:17 [FirstSquawk] ABS-CBN TO RETRENCH 200 EMPLOYEES, OR 7% OF WORKFORCE
-- 09/15 16:17 [FirstSquawk] TSMC IS BEING "CONSERATIVE" WHEN USING AI FOR TECH DEVELOPMENT
-- 09/15 16:19 [FirstSquawk] JAPAN AIR SELF-DEFENSE FORCE'S GLOBAL HAWK DRONE HAS DISAPPEARED.
-- 09/15 16:20 [DeItaone] U.S. WAR IN IRAN STRAINS MUNITIONS STOCKPILES Heavy U.S. weapons use during Operation Epic Fury has caused strategic inventory shortages and exposed production bottlenecks, according to the Pentagon inspector general. The Pentagon estimated…
-- 09/15 16:25 [FirstSquawk] IRAN'S IRGC CLAIMS TO HAVE TAKEN DOWN A FOURTH MQ-1 DRONE IN FOUR DAYS NEAR THE STRAIT OF HORMUZ USING A NEW AIR DEFENSE SYSTEM.
-- 09/15 16:30 [FirstSquawk] NATO FIGHTER JETS DOWNED A UNKNOWN DRONE THAT CROSSED INTO LITHUANIA FROM BELARUS ON TUESDAY MORNING.
 - 09/15 16:37 [FirstSquawk] MEDIATEK ANNOUNCES A NEW AI PHONE CHIP THAT LOWERS MEMORY USAGE DURING A SUPPLY SHORTAGE.
 - 09/15 16:37 [FirstSquawk] AVERAGE DIESEL PRICE IN THE U.S. REACHES AN ALL-TIME HIGH OF $6.27 PER GALLON.
 - 09/15 16:43 [FirstSquawk] PUTIN RELOCATED RUSSIA'S VALDAI FOREIGN POLICY CONFERENCE FROM SOCHI TO THE MOSCOW AREA DUE TO SECURITY FEARS ABOUT UKRAINIAN DRONE ATTACKS, SOURCES SAY.
@@ -419,3 +413,8 @@
 - 09/16 04:13 [financialjuice] Saudi: Warning issued in the Jazan province.
 - 09/16 04:14 [financialjuice] Early warning issued in Khamis Mushait to alert of potential danger - Saudi Civil Defense.
 - 09/16 04:15 [FirstSquawk] SAUDI CIVIL DEFENSE ISSUES EARLY WARNINGS FOR POTENTIAL DANGER IN JAZAN, ABHA AND KHAMIS MUSHAIT.
+- 09/16 04:16 [FirstSquawk] UK ‘ACTIVELY’ EXPLORING JOINING CANADA-LED GLOBAL DEFENCE BANK - FT
+- 09/16 04:18 [FirstSquawk] JPMORGAN'S DOUG PETNO — KEY TAKEAWAYS • JPMORGAN CO-PRESIDENT DOUG PETNO: JAMIE DIMON IS NOT STEPPING BACK. • PETNO: NOTHING IS FLASHING RED IN THE US ECONOMY FOR CONSUMERS OR CORPORATES, WITH VERY LITTLE FLASHING YELLOW. • JPMORGAN SEES NO…
+- 09/16 04:19 [financialjuice] Danger has passed in Jazan - Saudi Civil Defense.
+- 09/16 04:20 [financialjuice] Danger has passed in Khamis Mushait - Saudi Civil Defense.
+- 09/16 04:22 [financialjuice] Wednesday FX Option Expiries

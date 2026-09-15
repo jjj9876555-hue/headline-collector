@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 04:15 JST／対象: 09/15 22:15 〜 09/16 04:15 JST（時刻はすべて日本時間）
+生成: 2026-09-16 04:31 JST／対象: 09/15 22:31 〜 09/16 04:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 09/15 22:30 | 09/16 04:01 | ⚠ 57分（03:03→04:01） |
-| FirstSquawk | 121 | 09/15 22:23 | 09/16 04:15 | 41分（01:25→02:06） |
-| financialjuice | 101 | 09/15 22:23 | 09/16 04:14 | 35分（01:24→02:00） |
+| DeItaone | 37 | 09/15 22:43 | 09/16 04:01 | ⚠ 57分（03:03→04:01） |
+| FirstSquawk | 118 | 09/15 22:35 | 09/16 04:18 | 41分（01:25→02:06） |
+| financialjuice | 98 | 09/15 22:32 | 09/16 04:22 | 35分（01:24→02:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 248 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 241 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 22:23 [financialjuice] Canada's PM Carney: Canada will allow immediate expensing for most new capital investment.
-- 09/15 22:23 [FirstSquawk] PAKISTAN PM SHARIF TO MEET US OFFICIALS IN NEW YORK ON SEPT 22
-- 09/15 22:24 [FirstSquawk] US, CHINA DISCUSS CUTTING TARIFFS ON AGRICULTURE AND ENERGY
-- 09/15 22:24 [financialjuice] Canada's PM Carney: Two-thirds of all assets will now qualify for machinery, citing manufacturing equipment, software, patents, R&D, fiber, rail, pipelines, and other infrastructure
-- 09/15 22:24 [FirstSquawk] MEETING BETWEEN THE TWO SIDES COULD LIKELY RESULT IN LOWER DUTIES ON CHINESE INPUTS FOR MANUFACTURES || MOST FAVORITE NATION CHARGES COULD BE GRANTED TO SOME PRODUCTS
-- 09/15 22:27 [financialjuice] French PM Lecornu aims to keep govt spending flat in 2027 budget - Echos
-- 09/15 22:28 [financialjuice] Karachaganak output to drop up to 450k tons during repair - IFX
-- 09/15 22:29 [FirstSquawk] TRUMP: REPUBLICANS JUST GOT ANOTHER BAD DECISION FROM UNITED STATES SUPREME COURT IN MAIL-IN BALLOT CASE
-- 09/15 22:30 [DeItaone] TRUMP BLASTS SUPREME COURT OVER MAJOR RULINGS President Trump sharply criticized the U.S. Supreme Court, accusing it of repeatedly delivering decisions harmful to Republicans and the country. Trump attacked rulings involving mail-in voting,…
-- 09/15 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -44.1 MLN NASDAQ 100: 4.6 MLN DOW 30: -23.1 MLN MAG 7: 6.2 MLN $MACRO
-- 09/15 22:31 [financialjuice] ❗ Saudi Arabia is informing some European oil refiners that their September-loading Crude cargoes are cancelled after the East-West pipeline closure - Three trade sources.
-- 09/15 22:31 [FirstSquawk] S&P 500 DOWN 2.90 POINTS, OR 0.04 %, AT 7,617.08 AFTER MARKET OPEN NASDAQ DOWN 33.99 POINTS, OR 0.13 PERCENT, AT 26,152.42 AFTER MARKET OPEN DOW JONES DOWN 122.29 POINTS, OR 0.23 PERCENT, AT 52,298.91 AFTER MARKET OPEN
 - 09/15 22:32 [financialjuice] Libya NOC: Output halted at the Hamada and Al-tahara fields.
 - 09/15 22:35 [FirstSquawk] US DIESEL FUTURES RISE NEAR $5.23/GALLON, HIGHEST SINCE 2022
 - 09/15 22:40 [financialjuice] Canada's corporate tax deduction is going to cost C$36b over five years.
@@ -272,3 +260,8 @@
 - 09/16 04:13 [financialjuice] Saudi: Warning issued in the Jazan province.
 - 09/16 04:14 [financialjuice] Early warning issued in Khamis Mushait to alert of potential danger - Saudi Civil Defense.
 - 09/16 04:15 [FirstSquawk] SAUDI CIVIL DEFENSE ISSUES EARLY WARNINGS FOR POTENTIAL DANGER IN JAZAN, ABHA AND KHAMIS MUSHAIT.
+- 09/16 04:16 [FirstSquawk] UK ‘ACTIVELY’ EXPLORING JOINING CANADA-LED GLOBAL DEFENCE BANK - FT
+- 09/16 04:18 [FirstSquawk] JPMORGAN'S DOUG PETNO — KEY TAKEAWAYS • JPMORGAN CO-PRESIDENT DOUG PETNO: JAMIE DIMON IS NOT STEPPING BACK. • PETNO: NOTHING IS FLASHING RED IN THE US ECONOMY FOR CONSUMERS OR CORPORATES, WITH VERY LITTLE FLASHING YELLOW. • JPMORGAN SEES NO…
+- 09/16 04:19 [financialjuice] Danger has passed in Jazan - Saudi Civil Defense.
+- 09/16 04:20 [financialjuice] Danger has passed in Khamis Mushait - Saudi Civil Defense.
+- 09/16 04:22 [financialjuice] Wednesday FX Option Expiries
