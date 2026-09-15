@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 22:19 JST／対象: 09/15 10:19 〜 09/15 22:19 JST（時刻はすべて日本時間）
+生成: 2026-09-15 22:34 JST／対象: 09/15 10:34 〜 09/15 22:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/15 16:20 | 09/15 22:09 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 198 | 09/15 10:21 | 09/15 22:14 | 19分（19:31→19:50） |
-| financialjuice | 92 | 09/15 10:22 | 09/15 22:14 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 15 | 09/15 16:20 | 09/15 22:30 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 198 | 09/15 10:38 | 09/15 22:31 | 19分（19:31→19:50） |
+| financialjuice | 90 | 09/15 10:43 | 09/15 22:32 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 304 行（統合前 304 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 303 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 10:21 [FirstSquawk] China to release its latest 70-city residential property price data in 10 minutes, with markets watching for signs of recovery.
-- 09/15 10:22 [financialjuice] China cbank: 7-day reverse repo volume at zero Tuesday amid primary dealer demand - statement
-- 09/15 10:22 [financialjuice] China cbank injects 597 bln yuan via overnight reverse repos: statement
-- 09/15 10:22 [FirstSquawk] China’s central bank sets the yuan reference rate at 6.7670, from 6.7698 in the prior fixing.
-- 09/15 10:24 [FirstSquawk] Donald Trump Jr.’s Bahamas wedding after-party was reportedly financed by a Russian businessman.
-- 09/15 10:31 [financialjuice] CHINESE NEW HOUSE PRICES YOY ACTUAL -3.0% (FORECAST -, PREVIOUS -3.2%) $MACRO
-- 09/15 10:31 [financialjuice] China Aug Guangzhou new home prices fall 1.9% y/y after July 2.2% decline: stats bureau
-- 09/15 10:31 [financialjuice] China Aug Guangzhou new home prices up 0.1% m/m (July 0.1%): stats bureau
-- 09/15 10:31 [financialjuice] China Aug Shanghai new home prices rise 0.4% m/m (July 0.2%): stats bureau
-- 09/15 10:31 [financialjuice] China August Shenzhen new home prices fall 2.3% y/y (July -2.9%) : stats bureau
-- 09/15 10:31 [FirstSquawk] CHINA (AUG) NEW HOME PRICES MOM ACTUAL: -0.17% VS -0.18% PREVIOUS
-- 09/15 10:31 [financialjuice] China Aug new home prices drop 3.0% y/y, July down 3.2% - source calculation
-- 09/15 10:31 [FirstSquawk] CHINA (AUG) USED HOME PRICES MOM ACTUAL: -0.31% VS -0.29% PREVIOUS
-- 09/15 10:31 [financialjuice] China Aug Beijing new-home prices decline 0.2% m/m (July -0.3%): stats bureau
 - 09/15 10:38 [FirstSquawk] Israeli military chief calls for legal review of “NAZA,” a documentary focused on the Gaza war.
 - 09/15 10:43 [FirstSquawk] Calls for restraint are growing among AI leaders, but investors on Wall Street remain bullish on the sector, according to the WSJ.
 - 09/15 10:43 [financialjuice] Saudi Arabian Civil Defence issues emergency alert for Yanbu on social media platform X
@@ -328,3 +314,16 @@
 - 09/15 22:12 [FirstSquawk] RUSSIA'S FOREIGN MINISTRY ABOUT DRONE ATTACK ON TRAIN WITH FOREIGN VISITORS IN UKRAINE: WE HAVE REPEATEDLY WARNED THAT RAILWAY HUBS, TRANSPORT USED IN UKRAINIAN ARMY'S INTERESTS ARE LEGAL TARGETS
 - 09/15 22:14 [financialjuice] China and US Discuss Cutting Tariffs on Agriculture and Energy - People familiar with the matter.
 - 09/15 22:14 [FirstSquawk] RUSSIA'S FOREIGN MINISTRY: RUSSIA WARNED FOREIGN DIPLOMATS IN MAY TO LEAVE KYIV DUE TO RUSSIA'S STRIKES ON UKRAINE'S INDUSTRIAL-MILITARY COMPLEX
+- 09/15 22:23 [financialjuice] Canada's PM Carney: Canada will allow immediate expensing for most new capital investment.
+- 09/15 22:23 [FirstSquawk] PAKISTAN PM SHARIF TO MEET US OFFICIALS IN NEW YORK ON SEPT 22
+- 09/15 22:24 [FirstSquawk] US, CHINA DISCUSS CUTTING TARIFFS ON AGRICULTURE AND ENERGY
+- 09/15 22:24 [financialjuice] Canada's PM Carney: Two-thirds of all assets will now qualify for machinery, citing manufacturing equipment, software, patents, R&D, fiber, rail, pipelines, and other infrastructure
+- 09/15 22:24 [FirstSquawk] MEETING BETWEEN THE TWO SIDES COULD LIKELY RESULT IN LOWER DUTIES ON CHINESE INPUTS FOR MANUFACTURES || MOST FAVORITE NATION CHARGES COULD BE GRANTED TO SOME PRODUCTS
+- 09/15 22:27 [financialjuice] French PM Lecornu aims to keep govt spending flat in 2027 budget - Echos
+- 09/15 22:28 [financialjuice] Karachaganak output to drop up to 450k tons during repair - IFX
+- 09/15 22:29 [FirstSquawk] TRUMP: REPUBLICANS JUST GOT ANOTHER BAD DECISION FROM UNITED STATES SUPREME COURT IN MAIL-IN BALLOT CASE
+- 09/15 22:30 [DeItaone] TRUMP BLASTS SUPREME COURT OVER MAJOR RULINGS President Trump sharply criticized the U.S. Supreme Court, accusing it of repeatedly delivering decisions harmful to Republicans and the country. Trump attacked rulings involving mail-in voting,…
+- 09/15 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -44.1 MLN NASDAQ 100: 4.6 MLN DOW 30: -23.1 MLN MAG 7: 6.2 MLN $MACRO
+- 09/15 22:31 [financialjuice] ❗ Saudi Arabia is informing some European oil refiners that their September-loading Crude cargoes are cancelled after the East-West pipeline closure - Three trade sources.
+- 09/15 22:31 [FirstSquawk] S&P 500 DOWN 2.90 POINTS, OR 0.04 %, AT 7,617.08 AFTER MARKET OPEN NASDAQ DOWN 33.99 POINTS, OR 0.13 PERCENT, AT 26,152.42 AFTER MARKET OPEN DOW JONES DOWN 122.29 POINTS, OR 0.23 PERCENT, AT 52,298.91 AFTER MARKET OPEN
+- 09/15 22:32 [financialjuice] Libya NOC: Output halted at the Hamada and Al-tahara fields.
