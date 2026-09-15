@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 03:19 JST／対象: 09/15 03:19 〜 09/16 03:19 JST（時刻はすべて日本時間）
+生成: 2026-09-16 03:35 JST／対象: 09/15 03:35 〜 09/16 03:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 57 | 09/15 03:33 | 09/16 03:03 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 379 | 09/15 03:21 | 09/16 03:11 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 231 | 09/15 03:31 | 09/16 03:02 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 56 | 09/15 04:06 | 09/16 03:03 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 377 | 09/15 03:36 | 09/16 03:35 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 234 | 09/15 03:45 | 09/16 03:33 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 649 行（統合前 668 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,14 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 03:21 [FirstSquawk] US HOUSE SPEAKER JOHNSON: TRUMP WILL CONVENE WITH AI EXECUTIVES THIS WEEK OR NEXT.
-- 09/15 03:23 [FirstSquawk] SAUDI ARABIA'S KEY EAST-WEST PIPELINE, HIT BY DRONES, COULD REMAIN MOSTLY OFFLINE FOR THREE TO FIVE WEEKS, TIGHTENING GLOBAL SUPPLY AS HOUTHI FORCES EXPAND ALONG RED SEA SHIPPING ROUTES, WITH THE PIPELINE POSSIBLY OPERATING AT REDUCED CAPAC…
-- 09/15 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $101.39 a barrel, up $1.34, 1.34%.
-- 09/15 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.9615 a gallon.
-- 09/15 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.3171 a gallon.
-- 09/15 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $2.8960/MMBtu.
-- 09/15 03:32 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $101.39/BBL, UP $1.34, 1.34%
-- 09/15 03:33 [DeItaone] OPENAI BUYS STARTUP DEVELOPING SMARTPHONE CAMERA CALLED GLASS IMAGING, VALUED ABOVE $300 MILLION IN DEAL - WSJ
 - 09/15 03:36 [FirstSquawk] OPENAI ACQUIRES SMARTPHONE CAMERA STARTUP GLASS IMAGING IN A DEAL VALUED AT OVER $300 MILLION: WSJ
 - 09/15 03:45 [financialjuice/FirstSquawk] Brent Crude futures settle at $105.68/bbl, up $1.07, 1.02%.
 - 09/15 03:47 [FirstSquawk] BRENT CRUDE RISES 1.26% TO $105.93 A BARREL AND WTI GAINS 1.47% TO $101.52 AFTER SAUDI ARABIA SHUT ITS EAST-WEST PIPELINE FOLLOWING ATTACKS, RAISING GLOBAL SUPPLY CONCERNS.
@@ -673,3 +665,11 @@
 - 09/16 03:09 [FirstSquawk] CBO SAYS THE IRAN WAR COST THE U.S. $38 BLN IN THE FIRST FIVE MONTHS, WITH ITS ANNUAL PCE INFLATION PROJECTION NOW 0.5 PERCENTAGE POINT HIGHER FOR Q1 2027
 - 09/16 03:09 [FirstSquawk] U.S. TREASURY RECEIVED $2.088 BLN OF OFFERS FOR ITS DEBT BUYBACK AND ACCEPTED $500 MLN, TAKING 6 OF 16 ELIGIBLE ISSUES, WITH THE BUYBACK TARGETING COUPONS MATURING IN 2040-2056
 - 09/16 03:11 [FirstSquawk] COMMERZBANK CEO AFTER UNICREDIT CEO MEETS GERMAN FINANCE MINISTER: ‘ALIGNED’ WITH THE GOVERNMENT
+- 09/16 03:26 [financialjuice] Clarity Act Vote - WATCH LIVE
+- 09/16 03:28 [financialjuice] Senate Republican Leader Thune: We have to mitigate the risks of AI.
+- 09/16 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $105.83 a barrel, up $4.44, 4.38%.
+- 09/16 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.4652 a gallon.
+- 09/16 03:31 [financialjuice] NYMEX Diesel October futures settle at $5.2620 a gallon, the highest on record.
+- 09/16 03:33 [financialjuice] NYMEX Natural Gas October futures settle at $2.9190/MMBtu.
+- 09/16 03:33 [financialjuice] NVIDIA CEO Huang: We do not need new laws or regulations for AI safety - Salesforce Event. $NVDA
+- 09/16 03:35 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $105.83/BBL, UP $4.44, OR 4.38%
