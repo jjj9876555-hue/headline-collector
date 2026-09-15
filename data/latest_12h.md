@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 02:31 JST／対象: 09/15 14:31 〜 09/16 02:31 JST（時刻はすべて日本時間）
+生成: 2026-09-16 02:45 JST／対象: 09/15 14:45 〜 09/16 02:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 50 | 09/15 16:20 | 09/16 02:06 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 231 | 09/15 14:37 | 09/16 02:26 | 41分（01:25→02:06） |
-| financialjuice | 130 | 09/15 14:39 | 09/16 02:20 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 231 | 09/15 14:47 | 09/16 02:36 | 41分（01:25→02:06） |
+| financialjuice | 128 | 09/15 14:46 | 09/16 02:20 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 402 行（統合前 412 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 400 行（統合前 410 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 14:37 [FirstSquawk] OMAN LNG SAYS ITS LONG-TERM PLANS REMAIN UNCHANGED DESPITE THE STRAIT OF HORMUZ CRISIS.
-- 09/15 14:39 [financialjuice] BoE to overhaul debt sales amid bond market turmoil - The Telegraph
-- 09/15 14:41 [FirstSquawk] The Bank of England could pause sales of 20-year and 30-year gilts under a planned overhaul of its gilt-sale programme aimed at addressing market turbulence, according to the Daily Telegraph.
-- 09/15 14:45 [financialjuice] Korea finance chief Nominee: Bond market needs close monitoring
 - 09/15 14:46 [financialjuice] South Korea to take steps to stabilize the bond market if needed
 - 09/15 14:47 [FirstSquawk] China steps up exit restrictions as part of broader measures to secure strategic technology.
 - 09/15 14:49 [FirstSquawk] South Korea may introduce measures to calm the bond market if conditions warrant.
@@ -426,3 +422,5 @@
 - 09/16 02:25 [FirstSquawk] OPENAI IS EXPLORING DATA CENTER PARTNERSHIPS IN CANADA, CITING THE COUNTRY'S ABUNDANT ENERGY, LAND AND GROWING AI INFRASTRUCTURE OPPORTUNITIES UNDER PRIME MINISTER MARK CARNEY'S STRATEGY.
 - 09/16 02:25 [FirstSquawk] OPENAI EXECUTIVE GEORGE OSBORNE CALLED CARNEY'S AI ADOPTION STRATEGY ONE OF THE CLEAREST AMONG WESTERN GOVERNMENTS, SIGNALING CANADA COULD BECOME A KEY MARKET FOR FUTURE AI INVESTMENT.
 - 09/16 02:26 [FirstSquawk] U.S. SENATOR SANDERS CALLS FOR U.S. AND CHINA TO AGREE ON A TREATY TO HALT ADVANCED AI DEVELOPMENT
+- 09/16 02:36 [FirstSquawk] TRUMP SLAMS HIS OWN SUPREME COURT APPOINTEES AFTER THE COURT BLOCKED HIS ADMINISTRATION’S RESTRICTIONS ON MAIL BALLOTS AHEAD OF THE MIDTERM ELECTIONS.
+- 09/16 02:36 [FirstSquawk] TRUMP ACCUSES THE JUSTICES OF BEING “BULLIED AND CAJOLED BY THE RADICAL LEFT” AND SAYS THE SUPREME COURT HAS “REALLY LET OUR COUNTRY DOWN,” ESCALATING HIS ATTACKS ON JUDICIAL RULINGS.
