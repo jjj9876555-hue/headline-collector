@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 11:19 JST／対象: 09/14 23:19 〜 09/15 11:19 JST（時刻はすべて日本時間）
+生成: 2026-09-15 11:35 JST／対象: 09/14 23:35 〜 09/15 11:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/14 23:19 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 142 | 09/14 23:20 | 09/15 11:14 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 148 | 09/14 23:22 | 09/15 11:12 | 34分（07:55→08:29） |
+| DeItaone | 19 | 09/14 23:51 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
+| FirstSquawk | 140 | 09/14 23:37 | 09/15 11:33 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 150 | 09/14 23:37 | 09/15 11:32 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 297 行（統合前 315 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 296 行（統合前 311 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 23:19 [DeItaone] US 10-YEAR TREASURY YIELD REACHES 5% FOR FIRST TIME SINCE 2023
-- 09/14 23:20 [FirstSquawk] ANTHROPIC REMAINS ON TRACK FOR 2026 IPO
-- 09/14 23:20 [DeItaone] ANTHROPIC STILL EYES 2026 IPO Anthropic is still likely to go public in 2026, despite growing debate over AI safety and regulation, Axios reports. The Claude maker reportedly views public-market transparency as potentially strengthening its…
-- 09/14 23:22 [financialjuice] ❗ Traders fully price four quarter-point ECB hikes by end of 2027.
-- 09/14 23:22 [FirstSquawk] TEN-YEAR TREASURY YIELD HITS 5% FOR FIRST TIME SINCE 2023.
-- 09/14 23:22 [FirstSquawk] TRADERS ANTICIPATE FOUR 0.25% INTEREST RATE INCREASES BY THE EUROPEAN CENTRAL BANK BY THE END OF 2027.
-- 09/14 23:22 [financialjuice] Anthropic IPO won't be slowed by safety uproar - Axios
-- 09/14 23:26 [FirstSquawk/DeItaone/financialjuice] TRADERS FULLY PRICE FIVE QUARTER-POINT BOE HIKES BY END OF 2027
-- 09/14 23:31 [FirstSquawk] FAA NEEDS MORE FUNDING FROM CONGRESS TO COMPLETE PHASE 1 OF $10.6 BLN AIR TRAFFIC CONTROL REFORM PLAN – RTRS CITING GOVT REPORT
 - 09/14 23:37 [financialjuice] Yemen's Foreign Ministry: Maritime shipping is safe, but Saudi Arabia gravely mistaken if it believes it stays secure after 300 air strikes in past five days - IRIB News
 - 09/14 23:37 [FirstSquawk] JOLIET REFINERY HIT BY TOTAL POWER OUTAGE — 275K BPD CAPACITY AT RISK, FUEL MARKETS UNDER PRESSURE $XOM
 - 09/14 23:44 [financialjuice] OpenAI backs binding UK AI legislation - Politico
@@ -321,3 +312,11 @@
 - 09/15 11:12 [financialjuice] China aug retail sales rise 0.4% y/y, below poll forecast of 0.8% not 2.6%
 - 09/15 11:12 [financialjuice] China Jan-Aug fixed-asset investment declines 7.2% y/y, matching poll of 7.2% decline
 - 09/15 11:14 [FirstSquawk] Japan’s rental housing market gets a boost as demand for home restoration and renovation services expands.
+- 09/15 11:25 [financialjuice] China statistics bureau: China's economy demonstrates robust resilience and vitality despite challenging external environment
+- 09/15 11:25 [financialjuice] China August retail sales rise 0.4% year on year, below poll of 0.8%
+- 09/15 11:25 [financialjuice] China Aug industrial output rises 5.2% y/y, beats poll estimate of 4.8%
+- 09/15 11:29 [FirstSquawk] “Eating homework” takes on a literal meaning in China as students seek a quirky way to cope with exam stress.
+- 09/15 11:31 [financialjuice] China's finance ministry reopens 130 billion yuan of 3-year bonds on Sept. 21
+- 09/15 11:32 [financialjuice] China's finance ministry plans 20 bln yuan auction of 28-day bills on Sept. 16
+- 09/15 11:33 [FirstSquawk] China’s Finance Ministry announces a 130 billion yuan reopening of three-year bonds for September 21.
+- 09/15 11:33 [FirstSquawk] China’s Finance Ministry schedules a 20 billion yuan 28-day bill auction for September 16.

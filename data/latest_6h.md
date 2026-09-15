@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 11:19 JST／対象: 09/15 05:19 〜 09/15 11:19 JST（時刻はすべて日本時間）
+生成: 2026-09-15 11:35 JST／対象: 09/15 05:35 〜 09/15 11:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/15 05:37 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 71 | 09/15 05:20 | 09/15 11:14 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 54 | 09/15 05:51 | 09/15 11:12 | 34分（07:55→08:29） |
+| FirstSquawk | 72 | 09/15 05:44 | 09/15 11:33 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 59 | 09/15 05:51 | 09/15 11:32 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 125 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 131 行（統合前 134 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 05:20 [FirstSquawk] TWO IRANIAN FISHING BOATS WERE HIT BY DRONES IN SOUTHERN IRAN, SEVERAL FISHERMEN ARE MISSING - STATE BROADCASTER IRIB.
-- 09/15 05:33 [FirstSquawk] OPENAI ACQUIRES SMARTPHONE CAMERA STARTUP GLASS IMAGING IN A DEAL VALUED AT MORE THAN $300 MILLION, ACCORDING TO THE WALL STREET JOURNAL. GLASS IMAGING USES AI, HARDWARE AND SOFTWARE TO DEVELOP DSLR-QUALITY SMARTPHONE IMAGING, WITH THE ACQU…
 - 09/15 05:37 [DeItaone] TRUMP DISMISSES AI AND DATA CENTER FEARS President Trump rejected warnings that AI could threaten humanity or data centers could harm communities, comparing those concerns to his criticism of climate-change warnings. Trump accused critics o…
 - 09/15 05:37 [DeItaone] TRUMP DISMISSES AI TAKEOVER FEARS President Trump rejected warnings that AI and robots could eventually threaten humanity, calling the concerns a “hoax.” He compared fears of AI taking control to past controversies over Russia and climate c…
 - 09/15 05:44 [FirstSquawk] TRUMP ATTACKS ANTHROPIC CEO DARIO AMODEI OVER CALLS TO SLOW ADVANCED AI DEVELOPMENT, CALLING FEARS THAT AI COULD DESTROY HUMANITY A “HOAX” AND SAYING AI DEVELOPMENT WILL NOT BE STOPPED DURING HIS PRESIDENCY.
@@ -149,3 +147,11 @@
 - 09/15 11:12 [financialjuice] China aug retail sales rise 0.4% y/y, below poll forecast of 0.8% not 2.6%
 - 09/15 11:12 [financialjuice] China Jan-Aug fixed-asset investment declines 7.2% y/y, matching poll of 7.2% decline
 - 09/15 11:14 [FirstSquawk] Japan’s rental housing market gets a boost as demand for home restoration and renovation services expands.
+- 09/15 11:25 [financialjuice] China statistics bureau: China's economy demonstrates robust resilience and vitality despite challenging external environment
+- 09/15 11:25 [financialjuice] China August retail sales rise 0.4% year on year, below poll of 0.8%
+- 09/15 11:25 [financialjuice] China Aug industrial output rises 5.2% y/y, beats poll estimate of 4.8%
+- 09/15 11:29 [FirstSquawk] “Eating homework” takes on a literal meaning in China as students seek a quirky way to cope with exam stress.
+- 09/15 11:31 [financialjuice] China's finance ministry reopens 130 billion yuan of 3-year bonds on Sept. 21
+- 09/15 11:32 [financialjuice] China's finance ministry plans 20 bln yuan auction of 28-day bills on Sept. 16
+- 09/15 11:33 [FirstSquawk] China’s Finance Ministry announces a 130 billion yuan reopening of three-year bonds for September 21.
+- 09/15 11:33 [FirstSquawk] China’s Finance Ministry schedules a 20 billion yuan 28-day bill auction for September 16.
