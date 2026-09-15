@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 01:25 JST／対象: 09/15 01:25 〜 09/16 01:25 JST（時刻はすべて日本時間）
+生成: 2026-09-16 01:44 JST／対象: 09/15 01:44 〜 09/16 01:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 56 | 09/15 02:25 | 09/16 01:19 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 367 | 09/15 01:27 | 09/16 01:25 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 236 | 09/15 01:27 | 09/16 01:24 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 58 | 09/15 02:25 | 09/16 01:35 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 365 | 09/15 02:27 | 09/16 01:25 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 231 | 09/15 01:50 | 09/16 01:24 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 643 行（統合前 661 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 638 行（統合前 656 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 01:27 [FirstSquawk] TRUMP: OIL IS FLOWING THROUGH THE HORMUZ STRAIT. THE COUNTRIES OF THE WORLD, WHICH HAVE BEEN NO HELP TO US WHATSOEVER, SHOULD, AND WILL, REIMBURSE THE UNITED STATES OF AMERICA WHEN THIS SCAM CONFLIGRATION IS ALL OVER. WE ARE DOING IT MUCH M…
-- 09/15 01:27 [financialjuice] Trump: Oil is flowing through the Hormuz Strait - Truth Social
-- 09/15 01:27 [financialjuice] Trump: Countries who haven't helped will reimburse US, post war.
-- 09/15 01:30 [financialjuice] Saudis seek to boost Hormuz oil exports as key pipeline attacked.
-- 09/15 01:32 [financialjuice] Trump: With temporary exception of oil, prices coming down.
-- 09/15 01:32 [financialjuice] Trump: Oil to drop after Iran conflict ends, will not be long.
-- 09/15 01:33 [FirstSquawk] TRUMP: I HOPE EVERYONE REALIZES THAT PRICE INCREASES THROUGHOUT AMERICA WERE CAUSED BY SLEEPY JOE BIDEN AND THE BIDEN ADMINISTRATION, NOT BY “TRUMP.” EVEN OIL WAS HIGHER UNDER BIDEN THAN IT IS RIGHT NOW, AND WE PREVENTED IRAN FROM HAVING A …
 - 09/15 01:50 [financialjuice] ❗ US seeks "step-by-step" agreement with Iran, reports ILNA citing Pakistani sources
 - 09/15 02:01 [financialjuice/FirstSquawk] US senators debating requiring al giants to commit to preventing catastrophe - Senate aide and lobbyist.
 - 09/15 02:01 [financialjuice] US Treasury Secretary Bessent posts support for final Clarity Act draft on X.
@@ -667,3 +660,5 @@
 - 09/16 01:22 [financialjuice] Bank of France trims 2026 GDP forecast, sees pickup next year.
 - 09/16 01:24 [financialjuice] US and Israeli and Arab military chiefs held secret meeting on Iran - Axios
 - 09/16 01:25 [FirstSquawk] US, ISRAELI, ARAB MILITARY CHIEFS HELD SECRET MEETING ON IRAN - AXIOS
+- 09/16 01:29 [DeItaone] SAUDI OIL PIPELINE COULD RESTART WITHIN DAYS Saudi Arabia’s critical East-West Pipeline could resume crude flows within days, according to U.S. Energy Secretary Chris Wright. The pipeline had been moving 4–5 million barrels per day, roughly…
+- 09/16 01:35 [DeItaone] IRAN CLAIMS HUNDREDS OF U.S. MILITARY SITES HIT Iran’s foreign minister rejected claims that Iran is defenseless, asserting that hundreds of U.S. military sites have been destroyed and dozens of aircraft damaged. He claimed the figures were…
