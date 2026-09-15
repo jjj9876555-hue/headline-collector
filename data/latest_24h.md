@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 23:45 JST／対象: 09/14 23:45 〜 09/15 23:45 JST（時刻はすべて日本時間）
+生成: 2026-09-16 00:00 JST／対象: 09/15 00:00 〜 09/16 00:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 49 | 09/14 23:51 | 09/15 23:34 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 347 | 09/14 23:45 | 09/15 23:44 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 239 | 09/14 23:46 | 09/15 23:39 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 51 | 09/15 00:08 | 09/15 23:57 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 360 | 09/15 00:09 | 09/15 23:57 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 248 | 09/15 00:06 | 09/15 23:57 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 618 行（統合前 637 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 641 行（統合前 660 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 23:45 [FirstSquawk] OPENAI SUPPORTS COMPULSORY AI LAWS IN THE UK.
-- 09/14 23:45 [FirstSquawk] YEMEN'S FOREIGN MINISTRY SAYS MARITIME SHIPPING IS SAFE, BUT SAUDI ARABIA IS MAKING A SERIOUS ERROR IF IT THINKS IT REMAINS SAFE AFTER 300 AIR STRIKES IN JUST FIVE DAYS.
-- 09/14 23:46 [financialjuice] EU looking to limit social media and chatbots for kids under 15.
-- 09/14 23:51 [DeItaone] U.S. 10-YEAR YIELD BREAKS 5% The 10-year Treasury yield climbed above 5%, its highest since October 2023, as oil-driven inflation fears fuel expectations of higher-for-longer Fed policy. Heavy debt issuance and concerns over U.S. deficits a…
-- 09/14 23:52 [financialjuice] UK Business Secretary Reynolds: UK can't support Speciality Steel on proposed terms
-- 09/14 23:53 [DeItaone] SENIOR SUNNI MUSLIM CLERIC SHOT DEAD BY UNIDENTIFIED GUNMEN IN SOUTHEAST IRAN - IRANIAN MEDIA
-- 09/14 23:53 [financialjuice] Israeli Prime Minister Netanyahu warns Hezbollah against further attacks - Israel's Channel 12
-- 09/14 23:54 [FirstSquawk] EU PLANS TO RESTRICT SOCIAL MEDIA AND CHATBOTS FOR CHILDREN UNDER 15 YEARS OLD.
-- 09/14 23:54 [FirstSquawk] UK BUSINESS SECRETARY REYNOLDS SAYS THE UK CANNOT SUPPORT SPECIALTY STEEL UNDER THE CURRENT TERMS AND PLANS TO CREATE A PROPOSAL FOR PUBLIC ACQUISITION.
-- 09/14 23:54 [financialjuice] Israeli Prime Minister Netanyahu: Hezbollah will suffer heavier blows if it attacks again - Israel's Channel 12
 - 09/15 00:06 [financialjuice] ‼ BREAKING: Trump: Ukraine has agreed not to hit Russian energy targets.
 - 09/15 00:07 [financialjuice] Trump: Ukraine has agreed not to hit Russian energy targets. Russia has agreed to do likewise - Truth Social
 - 09/15 00:07 [financialjuice] Trump: World’s diesel price rise is caused by Russia-Ukraine war.
@@ -642,3 +632,36 @@
 - 09/15 23:39 [financialjuice] Traders pare ECB bets. See 50% chance of rate hike in October.
 - 09/15 23:41 [FirstSquawk] THE HOME DEPOT FACES WEAK DEMAND OUTLOOK AS CONSUMERS HOLD BACK ON BIG-TICKET SPENDING THE HOME DEPOT SEES NO 2026 DEMAND RECOVERY AS CONSUMERS REMAIN RELUCTANT TO SPEND ON MAJOR PROJECTS $HD
 - 09/15 23:44 [FirstSquawk] CORRECTION - THUNE SAYS 'OPEN TO EXPLORING' AN EXPORT BAN ON DIESEL
+- 09/15 23:46 [financialjuice] US Treasury Secretary Bessent: We will continue to push for transparency in debt restructuring in light of hidden China debt provisions.
+- 09/15 23:46 [FirstSquawk] CHINA'S DEVELOPMENT LOANS CONTAIN UNDISCLOSED TERMS, SAYS BESSENT.
+- 09/15 23:46 [FirstSquawk] BESSENT SAYS CHINA'S BELT AND ROAD INITIATIVE HAS LED TO BANKRUPTCY FOR MANY BORROWERS.
+- 09/15 23:47 [financialjuice] US Treasury Secretary Bessent: Dollar continues to thrive as reserve currency. Transaction volume in dollars has risen.
+- 09/15 23:47 [FirstSquawk] BESSENT SAYS DOLLAR IS STILL STRONG IN GLOBAL DEALS.
+- 09/15 23:47 [FirstSquawk] BESSENT SAYS DOLLAR RESERVE DECLINE PRIMARILY CAUSED BY CHINA AND RUSSIA.
+- 09/15 23:47 [financialjuice] US Treasury Secretary Bessent: Dollar drop in reserves mainly due to China and Russia.
+- 09/15 23:47 [FirstSquawk] BESSENT ANNOUNCED THEY JUST COMPLETED TWO OF THE MOST SUCCESSFUL DEBT AUCTIONS IN THE LAST 20 YEARS.
+- 09/15 23:47 [DeItaone] BESSENT: DECREASE IN RESERVE HOLDINGS OF DOLLARS IS MAINLY FROM RUSSIA AND CHINA
+- 09/15 23:47 [FirstSquawk] BESSENT SAYS FISCAL CONSOLIDATION 'IS APPROACHING.'
+- 09/15 23:48 [financialjuice] US Treasury Secretary Bessent: Fiscal consolidation is coming.
+- 09/15 23:48 [financialjuice] Yemen denies Saudi Arabia's claim of a threat to attack Mecca - Tasnim News
+- 09/15 23:49 [financialjuice] Germany’s Chancellor Merz on fuel prices: I see no legal or factual basis for a windfall profit tax.
+- 09/15 23:49 [financialjuice] 3rd US drone shot down in the sky above the Strait of Hormuz by IRGC air defense - Fars News
+- 09/15 23:51 [financialjuice] US House Speaker Johnson: $5,000 checks will take time.
+- 09/15 23:51 [DeItaone/financialjuice] OIL LOADINGS SUSPENDED AT TOP SAUDI RED SEA PORT OF YANBU AFTER PREVIOUS ATTACK ON EAST-WEST PIPELINE - SHIPPING SOURCES
+- 09/15 23:53 [FirstSquawk] OIL LOADINGS HAVE BEEN STOPPED AT SAUDI ARABIA'S YANBU PORT AFTER AN ATTACK ON THE EAST-WEST PIPELINE, ACCORDING TO SHIPPING SOURCES.
+- 09/15 23:53 [FirstSquawk] US HOUSE SPEAKER JOHNSON DISCUSSED AI RISKS WITH PRESIDENT TRUMP LAST NIGHT.
+- 09/15 23:53 [FirstSquawk] CHINA'S KIMI HAD A SECURITY BREACH AND SHARED WEAPONS PLANS WITH ANTHROPIC.
+- 09/15 23:53 [financialjuice] US Treasury Secretary Bessent: China Kimi had breach, sent weapons plans to Anthropic.
+- 09/15 23:53 [FirstSquawk] CANADA PENSION FUNDS ARE LOOKING TO INVEST IN AIRPORT CONCESSIONS.
+- 09/15 23:54 [FirstSquawk] ANTHROPIC INTRODUCES BETA SALESFORCE PLUGIN FOR CLAUDE.
+- 09/15 23:54 [FirstSquawk] CARNEY: AIRPORT CONCESSIONS CAN NOW WELCOME FOREIGN INVESTMENTS.
+- 09/15 23:55 [financialjuice] House Speaker Johnson: AI executives are expected to come to the White House within the next week - Fox News Reporter on X
+- 09/15 23:56 [financialjuice] US Treasury Secretary Bessent: Trump completely aligned with Nvidia's CEO. $NVDA
+- 09/15 23:56 [FirstSquawk] US TREASURY SECRETARY BESSENT SAYS TRUMP IS 'COMPLETELY IN SYNC' WITH NVIDIA CEO HUANG.
+- 09/15 23:56 [FirstSquawk] JOHNSON STATES AI DEVELOPMENT SHOULD NOT BE PUT ON HOLD.
+- 09/15 23:56 [FirstSquawk] BESSENT SAYS TRUMP IS IN TOTAL AGREEMENT WITH NVIDIA'S JENSEN HUANG.
+- 09/15 23:56 [FirstSquawk] JOHNSON SAYS HE WILL NOT PERMIT LOSING AI COMPETITIVENESS.
+- 09/15 23:56 [DeItaone] JOHNSON SAYS AI MORATORIUM WILL LOSE COMPETITIVE EDGE TO CHINA
+- 09/15 23:57 [FirstSquawk] BESSENT FOCUSED ON MAINTAINING A STRONG TREASURY MARKET.
+- 09/15 23:57 [financialjuice] US Treasury Secretary Bessent: I am dedicated to keeping Treasury market robust and the deepest.
+- 09/15 23:57 [DeItaone] BESSENT: TRUMP COMPLETELY ALIGNED WITH NVIDIA'S JENSEN HUANG
