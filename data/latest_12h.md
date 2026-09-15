@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 06:31 JST／対象: 09/15 18:31 〜 09/16 06:31 JST（時刻はすべて日本時間）
+生成: 2026-09-16 06:44 JST／対象: 09/15 18:44 〜 09/16 06:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 53 | 09/15 18:44 | 09/16 05:01 | ⚠ 60分（20:28→21:28） |
-| FirstSquawk | 215 | 09/15 18:31 | 09/16 06:21 | 41分（01:25→02:06） |
-| financialjuice | 151 | 09/15 21:05 | 09/16 06:20 | 38分（05:04→05:43） |
+| FirstSquawk | 213 | 09/15 18:53 | 09/16 06:39 | 41分（01:25→02:06） |
+| financialjuice | 153 | 09/15 21:05 | 09/16 06:37 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 406 行（統合前 421 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 18:31 [FirstSquawk] RUSSIA LAVROV: RUSSIA READY FOR REASONABLE COMPROMISES ON UKRAINE: IFX
-- 09/15 18:33 [FirstSquawk] RUSSIAN FOREIGN MINISTER LAVROV: RUSSIA WILL NOT STOP FIGHTING DURING PEACE TALKS ON UKRAINE
-- 09/15 18:43 [FirstSquawk] INDIA-EU TRADE DEAL EXPECTED BE SIGNED BEFORE END OF THE YEAR
 - 09/15 18:44 [DeItaone] INVESTORS TURN CAUTIOUS AS BOND YIELDS SURGE Investor enthusiasm for stocks is fading as rising bond yields and U.S. midterm uncertainty weigh on sentiment, BofA’s fund manager survey shows. Global equity overweight fell to 49% from 56%, wh…
 - 09/15 18:53 [FirstSquawk] OMAN SAYS OIL TANKER ELGAIA BEING TOWED TO OMANI PORT AFTER FIRE IN ENGINE ROOM FOLLOWING ATTACK OFF OMANI COAST
 - 09/15 19:01 [FirstSquawk] ITALY SENATE APPROVES MELONI'S ELECTORAL REFORM
@@ -430,3 +427,6 @@
 - 09/16 06:20 [financialjuice] Ukraine to allocate 43.8% of GDP for defense efforts in 2024 draft budget
 - 09/16 06:20 [FirstSquawk] UKRAINE TARGETS 5.65 TRILLION HRYVNIAS ($126.7 BILLION) IN BUDGET REVENUES NEXT YEAR, WITH 43.8% OF GDP PLANNED FOR DEFENCE, ACCORDING TO THE DRAFT BUDGET.
 - 09/16 06:21 [FirstSquawk] UKRAINE EXPECTS TO REQUIRE $52.6 BILLION IN INTERNATIONAL FINANCIAL AID IN 2027 TO SUPPORT ITS BUDGET AND WAR EFFORT.
+- 09/16 06:36 [financialjuice] Nvidia CEO Huang to attend U.S. state dinner for China's Xi, source familiar
+- 09/16 06:37 [financialjuice] Kraken investigating issue with Cardano funding gateway, withdrawals may be delayed
+- 09/16 06:39 [FirstSquawk] US WEIGHS BUYING WARSHIPS FROM JAPAN, SOUTH KOREA TO COUNTER CHINA, ACCORDING TO NIKKEI

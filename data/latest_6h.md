@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 06:31 JST／対象: 09/16 00:31 〜 09/16 06:31 JST（時刻はすべて日本時間）
+生成: 2026-09-16 06:44 JST／対象: 09/16 00:44 〜 09/16 06:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 09/16 00:34 | 09/16 05:01 | ⚠ 57分（03:03→04:01） |
-| FirstSquawk | 92 | 09/16 00:47 | 09/16 06:21 | 41分（01:25→02:06） |
-| financialjuice | 70 | 09/16 00:34 | 09/16 06:20 | 38分（05:04→05:43） |
+| DeItaone | 17 | 09/16 00:50 | 09/16 05:01 | ⚠ 57分（03:03→04:01） |
+| FirstSquawk | 93 | 09/16 00:47 | 09/16 06:39 | 41分（01:25→02:06） |
+| financialjuice | 69 | 09/16 00:49 | 09/16 06:37 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 172 行（統合前 182 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 171 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 00:34 [DeItaone] BESSENT: TREASURY'S BOND BUYBACK INTERVENTION WAS SUCCESSFUL
-- 09/16 00:34 [financialjuice] US Treasury Secretary Bessent: Treasury's bond buyback intervention was successful.
-- 09/16 00:35 [financialjuice] US Treasury Secretary Bessent: We've had two of the most successful Treasury auctions in 20 Yrs, recently
-- 09/16 00:43 [financialjuice] Bessent signals work in process on offsets for $5,000 checks
 - 09/16 00:47 [FirstSquawk] BESSENT RESPONDS TO QUESTIONS ABOUT WHETHER $5,000 CHECKS REQUIRE CONGRESSIONAL APPROVAL.
 - 09/16 00:47 [FirstSquawk] BESSENT SAID GOP'S NOVEMBER WIN WOULD INVOLVE $5,000 CHECKS.
 - 09/16 00:47 [FirstSquawk] US TREASURY SECRETARY BESSENT SAYS AI NEEDS TO BE ADDRESSED FOR INNOVATION AND SAFETY.
@@ -196,3 +192,6 @@
 - 09/16 06:20 [financialjuice] Ukraine to allocate 43.8% of GDP for defense efforts in 2024 draft budget
 - 09/16 06:20 [FirstSquawk] UKRAINE TARGETS 5.65 TRILLION HRYVNIAS ($126.7 BILLION) IN BUDGET REVENUES NEXT YEAR, WITH 43.8% OF GDP PLANNED FOR DEFENCE, ACCORDING TO THE DRAFT BUDGET.
 - 09/16 06:21 [FirstSquawk] UKRAINE EXPECTS TO REQUIRE $52.6 BILLION IN INTERNATIONAL FINANCIAL AID IN 2027 TO SUPPORT ITS BUDGET AND WAR EFFORT.
+- 09/16 06:36 [financialjuice] Nvidia CEO Huang to attend U.S. state dinner for China's Xi, source familiar
+- 09/16 06:37 [financialjuice] Kraken investigating issue with Cardano funding gateway, withdrawals may be delayed
+- 09/16 06:39 [FirstSquawk] US WEIGHS BUYING WARSHIPS FROM JAPAN, SOUTH KOREA TO COUNTER CHINA, ACCORDING TO NIKKEI

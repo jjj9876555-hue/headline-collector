@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 06:31 JST／対象: 09/15 06:31 〜 09/16 06:31 JST（時刻はすべて日本時間）
+生成: 2026-09-16 06:44 JST／対象: 09/15 06:44 〜 09/16 06:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 07:36 | 09/16 05:01 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 387 | 09/15 06:40 | 09/16 06:21 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 232 | 09/15 06:32 | 09/16 06:20 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 387 | 09/15 06:59 | 09/16 06:39 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 233 | 09/15 07:04 | 09/16 06:37 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 661 行（統合前 678 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 663 行（統合前 679 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 06:32 [financialjuice/FirstSquawk] Nato military fighter shoots down drone in Lithuanian airspace: national crisis management centre
 - 09/15 06:59 [FirstSquawk] ABBOTT LABORATORIES AGREES TO PAY $385 MILLION TO SETTLE U.S. AND STATE CLAIMS OVER POOR MANUFACTURING PRACTICES AT TWO FACILITIES, INCLUDING ITS STURGIS, MICHIGAN INFANT FORMULA PLANT.
 - 09/15 06:59 [FirstSquawk] ABBOTT WILL PAY $348.7 MILLION TO THE U.S. UNDER THE FALSE CLAIMS ACT AND $36.3 MILLION TO SEVERAL STATES, WITHOUT ADMITTING FAULT OR LIABILITY.
 - 09/15 07:01 [FirstSquawk] WTI OIL RISES 0.7% AT THE OPEN AS IRAN REJECTS U.S. TALKS AND A TANKER INCIDENT HEIGHTENS STRAIT OF HORMUZ SUPPLY CONCERNS.
@@ -685,3 +684,6 @@
 - 09/16 06:20 [financialjuice] Ukraine to allocate 43.8% of GDP for defense efforts in 2024 draft budget
 - 09/16 06:20 [FirstSquawk] UKRAINE TARGETS 5.65 TRILLION HRYVNIAS ($126.7 BILLION) IN BUDGET REVENUES NEXT YEAR, WITH 43.8% OF GDP PLANNED FOR DEFENCE, ACCORDING TO THE DRAFT BUDGET.
 - 09/16 06:21 [FirstSquawk] UKRAINE EXPECTS TO REQUIRE $52.6 BILLION IN INTERNATIONAL FINANCIAL AID IN 2027 TO SUPPORT ITS BUDGET AND WAR EFFORT.
+- 09/16 06:36 [financialjuice] Nvidia CEO Huang to attend U.S. state dinner for China's Xi, source familiar
+- 09/16 06:37 [financialjuice] Kraken investigating issue with Cardano funding gateway, withdrawals may be delayed
+- 09/16 06:39 [FirstSquawk] US WEIGHS BUYING WARSHIPS FROM JAPAN, SOUTH KOREA TO COUNTER CHINA, ACCORDING TO NIKKEI
