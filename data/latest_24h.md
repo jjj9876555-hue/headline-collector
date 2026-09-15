@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 00:18 JST／対象: 09/15 00:18 〜 09/16 00:18 JST（時刻はすべて日本時間）
+生成: 2026-09-16 00:33 JST／対象: 09/15 00:33 〜 09/16 00:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 09/15 00:24 | 09/16 00:01 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 361 | 09/15 00:21 | 09/16 00:14 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 240 | 09/15 00:24 | 09/16 00:18 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 51 | 09/15 00:34 | 09/16 00:24 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 364 | 09/15 00:52 | 09/16 00:24 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 235 | 09/15 00:33 | 09/16 00:22 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 635 行（統合前 652 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 634 行（統合前 651 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 00:21 [FirstSquawk] ECB'S PRESIDENT LAGARDE: EUROPE MUST ALSO BUILD AI INFRASCTUCTURE ITSELF.
-- 09/15 00:21 [FirstSquawk] ECB'S PRESIDENT LAGARDE: EUROPE CAN’T SIMPLY IMPORT AI TECHNOLOGIES FROM US.
-- 09/15 00:24 [financialjuice] Trump on AI/Data Centers: Don’t kill the Golden Goose - Truth Social
-- 09/15 00:24 [DeItaone] TRUMP: “DON’T KILL THE GOLDEN GOOSE” President Trump says America’s AI and data center boom is happening because the U.S. holds a commanding global lead. He urged against measures that could slow the industry’s expansion, warning policymake…
-- 09/15 00:25 [FirstSquawk] TRUMP: THE ONLY REASON THE AI/DATA CENTER OUTBURST IS HAPPENING IS BECAUSE THE UNITED STATES IS LEADING, BY A LOT, EVERY OTHER COUNTRY. DON’T KILL THE GOLDEN GOOSE! PRESIDENT DONALD J. TRUMP
-- 09/15 00:29 [DeItaone] AI BOOM SET TO SUPERCHARGE U.S. GAS DEMAND U.S. data centers could add 15 Bcf/d of natural gas demand by 2035, more than double BNEF’s previous forecast. Gas is expected to supply 69% of new grid-connected data center power, while LNG expor…
-- 09/15 00:32 [financialjuice] US 6-MONTH BILL BID-TO-COVER ACTUAL 2.74 (FORECAST -, PREVIOUS 2.880) $MACRO
-- 09/15 00:32 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 4.06% (FORECAST -, PREVIOUS 3.890%) $MACRO
-- 09/15 00:32 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 3.97% (FORECAST -, PREVIOUS 3.800%) $MACRO
-- 09/15 00:32 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.64 (FORECAST -, PREVIOUS 2.610) $MACRO
-- 09/15 00:32 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 82.500% (FORECAST -, PREVIOUS 79.100%) $MACRO
-- 09/15 00:32 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 13.860% (FORECAST -, PREVIOUS 20.330%) $MACRO
-- 09/15 00:33 [FirstSquawk] TRUMP: THE FAILING NATION OF IRAN WANTS TO MAKE A DEAL, QUICKLY AND BADLY. I WILL DETERMINE WHETHER OR NOT THE U.S.A. WILL CHOOSE TO ENGAGE - THE CONCEPT OF WHICH WE ARE OPEN TO. THANK YOU FOR YOUR ATTENTION TO THIS MATTER! PRESIDENT DONALD…
 - 09/15 00:33 [financialjuice] ❗ Trump: Iran wants to make a deal. I will determine whether or not we engage with Iran, which we are open to.
 - 09/15 00:34 [DeItaone] TRUMP OPEN TO IRAN DEAL President Trump says Iran wants to reach a deal “quickly and badly,” signaling the U.S. remains open to negotiations. Trump said he will decide whether Washington engages, leaving the door open to a potential diploma…
 - 09/15 00:34 [DeItaone] TRUMP ON IRAN: IRAN WANTS TO MAKE A DEAL, QUICKLY AND BADLY
@@ -659,3 +646,15 @@
 - 09/16 00:14 [FirstSquawk] 3M'S CEO STATES THAT ROBUST SALES GROWTH VIA DISTRIBUTORS WILL PERSIST INTO THE THIRD QUARTER, WHICH SUPPORTS A SALES BOOST IN THE SECOND HALF OF THE YEAR.
 - 09/16 00:14 [FirstSquawk] 3M PREDICTS THAT ITS CONSUMER BUSINESS WILL IMPROVE IN THE SECOND HALF OF THE YEAR COMPARED TO THE FIRST HALF.
 - 09/16 00:18 [financialjuice] US Treasury Secretary Bessent: Stablecoins will boost demand for US dollar assets.
+- 09/16 00:19 [FirstSquawk] BESSENT CALLS TPLF FUNDS 'MALIGNANCY' IN FINANCIAL SYSTEM.
+- 09/16 00:19 [FirstSquawk] BESSENT SAYS STABLECOINS WILL INCREASE DEMAND FOR US DOLLAR ASSETS.
+- 09/16 00:19 [FirstSquawk] US ATTORNEY GENERAL BLANCHE CHOOSES A CAUTIOUS STANCE ON AI REGULATIONS, DISAGREEING WITH 'REGULATION BY PROSECUTION.'
+- 09/16 00:19 [DeItaone] WALL STREET OVERWHELMINGLY EXPECTS FED HIKE Nearly every major Wall Street bank now expects the Federal Reserve to raise rates in September, according to a WSJ survey. Most forecast 50 basis points of total tightening in 2026, while Bank of…
+- 09/16 00:21 [financialjuice] US Treasury Secretary Bessent: Examining $5,000 check proposal at Treasury
+- 09/16 00:22 [financialjuice] US Treasury Secretary Bessent: There are ways to do $5,000 checks without affecting deficit.
+- 09/16 00:23 [FirstSquawk] BESSENT LOOKS AT $5,000 CHECK PLAN AT TREASURY.
+- 09/16 00:23 [DeItaone] MORGAN STANLEY'S DAN SIMKOWITZ SAYS WE ARE IN RELATIVELY EARLY TO MIDDLE INNINGS OF AI FINANCING
+- 09/16 00:24 [FirstSquawk] BESSENT SAYS IF GOP WINS IN NOVEMBER, THEY WILL COLLABORATE WITH HOUSE ON $500 CHECKS.
+- 09/16 00:24 [FirstSquawk] BESSENT SUGGESTS METHODS FOR ISSUING $5,000 CHECKS WITHOUT INCREASING THE DEFICIT.
+- 09/16 00:24 [FirstSquawk] BESSENT SAYS CONGRESS MUST AUTHORIZE A MEETING WITH JOHNSON IF IT'S NECESSARY.
+- 09/16 00:24 [DeItaone] *BESSENT: EXAMINING $5,000 CHECK PROPOSAL AT TREASURY

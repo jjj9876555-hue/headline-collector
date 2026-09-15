@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 00:18 JST／対象: 09/15 12:18 〜 09/16 00:18 JST（時刻はすべて日本時間）
+生成: 2026-09-16 00:33 JST／対象: 09/15 12:33 〜 09/16 00:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 35 | 09/15 16:20 | 09/16 00:01 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 221 | 09/15 12:23 | 09/16 00:14 | 19分（19:31→19:50） |
-| financialjuice | 101 | 09/15 14:16 | 09/16 00:18 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 38 | 09/15 16:20 | 09/16 00:24 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 227 | 09/15 12:34 | 09/16 00:24 | 19分（19:31→19:50） |
+| financialjuice | 103 | 09/15 14:16 | 09/16 00:22 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 352 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 363 行（統合前 368 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 12:23 [FirstSquawk] China’s factories rev up as consumer spending loses momentum, highlighting persistent economic imbalances.
 - 09/15 12:34 [FirstSquawk] BOJ set for its biggest rate hike of the cycle as pressure on policymakers intensifies., citing RTRS
 - 09/15 12:35 [FirstSquawk] Coinbase climbs on CLARITY Act developments: The bill needs 60 votes to advance, with Republicans releasing a revised draft ahead of Tuesday’s procedural vote.
 - 09/15 12:39 [FirstSquawk] Travel discount bookings open in Japan to support Kumamoto earthquake recovery.
@@ -376,3 +375,15 @@
 - 09/16 00:14 [FirstSquawk] 3M'S CEO STATES THAT ROBUST SALES GROWTH VIA DISTRIBUTORS WILL PERSIST INTO THE THIRD QUARTER, WHICH SUPPORTS A SALES BOOST IN THE SECOND HALF OF THE YEAR.
 - 09/16 00:14 [FirstSquawk] 3M PREDICTS THAT ITS CONSUMER BUSINESS WILL IMPROVE IN THE SECOND HALF OF THE YEAR COMPARED TO THE FIRST HALF.
 - 09/16 00:18 [financialjuice] US Treasury Secretary Bessent: Stablecoins will boost demand for US dollar assets.
+- 09/16 00:19 [FirstSquawk] BESSENT CALLS TPLF FUNDS 'MALIGNANCY' IN FINANCIAL SYSTEM.
+- 09/16 00:19 [FirstSquawk] BESSENT SAYS STABLECOINS WILL INCREASE DEMAND FOR US DOLLAR ASSETS.
+- 09/16 00:19 [FirstSquawk] US ATTORNEY GENERAL BLANCHE CHOOSES A CAUTIOUS STANCE ON AI REGULATIONS, DISAGREEING WITH 'REGULATION BY PROSECUTION.'
+- 09/16 00:19 [DeItaone] WALL STREET OVERWHELMINGLY EXPECTS FED HIKE Nearly every major Wall Street bank now expects the Federal Reserve to raise rates in September, according to a WSJ survey. Most forecast 50 basis points of total tightening in 2026, while Bank of…
+- 09/16 00:21 [financialjuice] US Treasury Secretary Bessent: Examining $5,000 check proposal at Treasury
+- 09/16 00:22 [financialjuice] US Treasury Secretary Bessent: There are ways to do $5,000 checks without affecting deficit.
+- 09/16 00:23 [FirstSquawk] BESSENT LOOKS AT $5,000 CHECK PLAN AT TREASURY.
+- 09/16 00:23 [DeItaone] MORGAN STANLEY'S DAN SIMKOWITZ SAYS WE ARE IN RELATIVELY EARLY TO MIDDLE INNINGS OF AI FINANCING
+- 09/16 00:24 [FirstSquawk] BESSENT SAYS IF GOP WINS IN NOVEMBER, THEY WILL COLLABORATE WITH HOUSE ON $500 CHECKS.
+- 09/16 00:24 [FirstSquawk] BESSENT SUGGESTS METHODS FOR ISSUING $5,000 CHECKS WITHOUT INCREASING THE DEFICIT.
+- 09/16 00:24 [FirstSquawk] BESSENT SAYS CONGRESS MUST AUTHORIZE A MEETING WITH JOHNSON IF IT'S NECESSARY.
+- 09/16 00:24 [DeItaone] *BESSENT: EXAMINING $5,000 CHECK PROPOSAL AT TREASURY
