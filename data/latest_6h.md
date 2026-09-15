@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 16:46 JST／対象: 09/15 10:46 〜 09/15 16:46 JST（時刻はすべて日本時間）
+生成: 2026-09-15 17:00 JST／対象: 09/15 11:00 〜 09/15 17:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/15 16:20 | 09/15 16:20 | - |
-| FirstSquawk | 96 | 09/15 10:49 | 09/15 16:43 | 15分（15:46→16:01） |
-| financialjuice | 52 | 09/15 10:48 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| DeItaone | 2 | 09/15 16:20 | 09/15 16:50 | 29分（16:20→16:50） |
+| FirstSquawk | 101 | 09/15 11:01 | 09/15 16:59 | 15分（15:46→16:01） |
+| financialjuice | 47 | 09/15 11:00 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 149 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 150 行（統合前 150 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 10:48 [financialjuice] Saudi Arabian civil defence issues urgent alert for Abha and Jazan: state TV
-- 09/15 10:49 [FirstSquawk] Urgent alerts issued for Abha and Jazan by Saudi Arabia’s civil defence, state TV reports.
-- 09/15 10:50 [financialjuice] China Aug Shanghai new home prices rise 3.0% y/y (July 3.0%) : stats bureau
-- 09/15 10:50 [financialjuice] Saudi Arabian civil defence issues emergency alert for AlUla: State TV
-- 09/15 10:54 [financialjuice] S.Korea finmin nominee: U.S. investment talks moving at pace not surpassing $20 billion annually, $200 billion total, per mou
-- 09/15 10:56 [financialjuice] S.Korea finance minister nominee: to consider strategic gains, values amid strong U.S.-S.Korea alliance
-- 09/15 10:56 [FirstSquawk] North Korea sends its sports minister to Japan as preparations continue for the Asian Games.
 - 09/15 11:00 [financialjuice] ‼ BREAKING: CHINESE INDUSTRIAL OUTPUT YOY ACTUAL 5.2% (FORECAST 4.8%, PREVIOUS 4.5%) $MACRO
 - 09/15 11:00 [financialjuice] ❗ CHINESE URBAN INVESTMENT YTD YOY ACTUAL -7.2% (FORECAST -7.1%, PREVIOUS -6.7%) $MACRO
 - 09/15 11:00 [financialjuice] ❗ CHINESE UNEMPLOYMENT RATE ACTUAL 5.3% (FORECAST 5.2%, PREVIOUS 5.200%) $MACRO
@@ -173,3 +166,11 @@
 - 09/15 16:37 [FirstSquawk] AVERAGE DIESEL PRICE IN THE U.S. REACHES AN ALL-TIME HIGH OF $6.27 PER GALLON.
 - 09/15 16:43 [FirstSquawk] PUTIN RELOCATED RUSSIA'S VALDAI FOREIGN POLICY CONFERENCE FROM SOCHI TO THE MOSCOW AREA DUE TO SECURITY FEARS ABOUT UKRAINIAN DRONE ATTACKS, SOURCES SAY.
 - 09/15 16:43 [FirstSquawk] CHINA'S REQUEST FOR BRICS TO UNITE IN BRINGING PEACE TO THE PERSIAN GULF AND MIDDLE EAST HAS SPARKED DISCUSSIONS IN IRAN ABOUT BEIJING POSSIBLY MEDIATING BETWEEN TEHRAN AND WASHINGTON.
+- 09/15 16:47 [FirstSquawk] IRAN GOVT JET ENTERS SAUDI AIRSPACE - KAN NEWS
+- 09/15 16:50 [DeItaone] IRANIAN GOVERNMENT JET ENTERS SAUDI AIRSPACE An Iranian government aircraft (EP-IGF) has reportedly entered Saudi Arabian airspace. The flight is fueling speculation that a senior Iranian delegation may be heading to Riyadh in an effort to …
+- 09/15 16:52 [FirstSquawk] JAPAN'S FINANCE MINISTER KATAYAMA WILL EVALUATE TAX INCOME, EXAMINE SPENDING, AND STRIVE TO REDUCE THE DEBT-TO-GDP RATIO IN THE NEXT BUDGET PROCESS.
+- 09/15 16:52 [FirstSquawk] JAPAN FINMIN KATAYAMA: IN UPCOMING BUDGETING PROCESS, WILL ASSESS TAX REVENUE, REVIEW SPENDING AND AIM TO LOWER DEBT-TO-GDP RATIO
+- 09/15 16:53 [FirstSquawk] UK ENERGY BILLS EXPECTED TO RISE BY 25%, INCREASING INFLATION.
+- 09/15 16:55 [FirstSquawk] BITCOIN DROPS BELOW $77,000.
+- 09/15 16:59 [FirstSquawk] S&P 500 INDEX FUTURES EXTEND DECLINE TO 0.5%, SESSION LOW
+- 09/15 16:59 [FirstSquawk] JAPAN'S FINANCE MINISTER KATAYAMA SAYS HE IS NOT AWARE OF REPORTS ABOUT A RISE IN DEFENSE SPENDING.
