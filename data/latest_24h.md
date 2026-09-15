@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 08:31 JST／対象: 09/15 08:31 〜 09/16 08:31 JST（時刻はすべて日本時間）
+生成: 2026-09-16 08:43 JST／対象: 09/15 08:43 〜 09/16 08:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 402 | 09/15 08:54 | 09/16 08:29 | 41分（01:25→02:06） |
-| financialjuice | 243 | 09/15 08:50 | 09/16 08:28 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 403 | 09/15 08:54 | 09/16 08:41 | 41分（01:25→02:06） |
+| financialjuice | 244 | 09/15 08:50 | 09/16 08:31 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 686 行（統合前 704 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 688 行（統合前 706 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -710,3 +710,5 @@
 - 09/16 08:28 [financialjuice] Saudi-led coalition in Yemen: drone launched by Houthis intercepted before entering restricted airspace around Mecca
 - 09/16 08:29 [FirstSquawk] GOLD HELD BELOW $4,300 AN OUNCE, WITH SPOT GOLD AT $4,295.54, AS TRADERS PRICE IN AROUND A 95% CHANCE OF A FED RATE HIKE THIS WEEK, WHILE RISING OIL PRICES AND THE 10-YEAR U.S. TREASURY YIELD NEAR A TWO-DECADE HIGH KEEP PRESSURE ON BULLION.
 - 09/16 08:29 [FirstSquawk] GOLD IS DOWN MORE THAN 3% IN SEPTEMBER, THOUGH CENTRAL-BANK BUYING AND CURRENCY-DEBASEMENT CONCERNS CONTINUE TO SUPPORT ITS LONGER-TERM APPEAL AS A PORTFOLIO HEDGE, WHILE SILVER ROSE 0.3% TO $63.38 AN OUNCE.
+- 09/16 08:31 [financialjuice] Saudi-led coalition in Yemen: security of two holy mosques a red line, will act against Houthis
+- 09/16 08:41 [FirstSquawk] WARNER BROS. WINS APPEAL AS CALIFORNIA COURT STRIKES DAN SCHNEIDER’S DEFAMATION LAWSUIT UNDER THE STATE’S ANTI-SLAPP LAW. COURT RULES QUIET ON SET DID NOT IMPLY SCHNEIDER COMMITTED CHILD SEXUAL ABUSE AND NOTES THE DOCUMENTARY STATED THERE W…

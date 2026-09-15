@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 08:31 JST／対象: 09/16 02:31 〜 09/16 08:31 JST（時刻はすべて日本時間）
+生成: 2026-09-16 08:43 JST／対象: 09/16 02:43 〜 09/16 08:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/16 03:03 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 78 | 09/16 02:36 | 09/16 08:29 | 37分（04:18→04:56） |
-| financialjuice | 61 | 09/16 02:53 | 09/16 08:28 | 38分（05:04→05:43） |
+| FirstSquawk | 77 | 09/16 03:01 | 09/16 08:41 | 37分（04:18→04:56） |
+| financialjuice | 62 | 09/16 02:53 | 09/16 08:31 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 140 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 02:36 [FirstSquawk] TRUMP SLAMS HIS OWN SUPREME COURT APPOINTEES AFTER THE COURT BLOCKED HIS ADMINISTRATION’S RESTRICTIONS ON MAIL BALLOTS AHEAD OF THE MIDTERM ELECTIONS.
-- 09/16 02:36 [FirstSquawk] TRUMP ACCUSES THE JUSTICES OF BEING “BULLIED AND CAJOLED BY THE RADICAL LEFT” AND SAYS THE SUPREME COURT HAS “REALLY LET OUR COUNTRY DOWN,” ESCALATING HIS ATTACKS ON JUDICIAL RULINGS.
 - 09/16 02:53 [financialjuice/FirstSquawk] Iranian Army Spokesman: Iran and Pakistan are cooperating to ensure regional security - Tasnim News
 - 09/16 02:58 [financialjuice] WATCH LIVE: Attorney General Blanche Speaks 2 PM ET
 - 09/16 03:00 [financialjuice] CBO: Annual PCE inflation projection now 0.5 ppt higher in Q1 2027.
@@ -164,3 +162,5 @@
 - 09/16 08:28 [financialjuice] Saudi-led coalition in Yemen: drone launched by Houthis intercepted before entering restricted airspace around Mecca
 - 09/16 08:29 [FirstSquawk] GOLD HELD BELOW $4,300 AN OUNCE, WITH SPOT GOLD AT $4,295.54, AS TRADERS PRICE IN AROUND A 95% CHANCE OF A FED RATE HIKE THIS WEEK, WHILE RISING OIL PRICES AND THE 10-YEAR U.S. TREASURY YIELD NEAR A TWO-DECADE HIGH KEEP PRESSURE ON BULLION.
 - 09/16 08:29 [FirstSquawk] GOLD IS DOWN MORE THAN 3% IN SEPTEMBER, THOUGH CENTRAL-BANK BUYING AND CURRENCY-DEBASEMENT CONCERNS CONTINUE TO SUPPORT ITS LONGER-TERM APPEAL AS A PORTFOLIO HEDGE, WHILE SILVER ROSE 0.3% TO $63.38 AN OUNCE.
+- 09/16 08:31 [financialjuice] Saudi-led coalition in Yemen: security of two holy mosques a red line, will act against Houthis
+- 09/16 08:41 [FirstSquawk] WARNER BROS. WINS APPEAL AS CALIFORNIA COURT STRIKES DAN SCHNEIDER’S DEFAMATION LAWSUIT UNDER THE STATE’S ANTI-SLAPP LAW. COURT RULES QUIET ON SET DID NOT IMPLY SCHNEIDER COMMITTED CHILD SEXUAL ABUSE AND NOTES THE DOCUMENTARY STATED THERE W…
