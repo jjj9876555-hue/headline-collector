@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 20:04 JST／対象: 09/15 14:04 〜 09/15 20:04 JST（時刻はすべて日本時間）
+生成: 2026-09-15 20:25 JST／対象: 09/15 14:25 〜 09/15 20:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/15 16:20 | 09/15 19:30 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 98 | 09/15 14:09 | 09/15 20:02 | 19分（19:31→19:50） |
-| financialjuice | 22 | 09/15 14:16 | 09/15 15:11 | 23分（14:16→14:39） |
+| FirstSquawk | 96 | 09/15 14:25 | 09/15 20:18 | 19分（19:31→19:50） |
+| financialjuice | 20 | 09/15 14:39 | 09/15 15:11 | 11分（14:46→14:57） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 129 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 14:09 [FirstSquawk] US stock futures edge lower, with S&P 500 and Nasdaq futures down 0.3%.
-- 09/15 14:09 [FirstSquawk] Japan PM set to reshuffle LDP executives Wednesday ahead of a Cabinet reshuffle Thursday.
-- 09/15 14:13 [FirstSquawk] Russian forces target two vessels in the Black Sea, according to the Defence Ministry.
-- 09/15 14:14 [FirstSquawk] US 10-Year Treasury Yields Rise To Highest Level Since 2007 - BBG
-- 09/15 14:16 [financialjuice] Japan told US officials it will raise defense spend.
-- 09/15 14:16 [financialjuice] Japan said to eye reaching 3.5% spending target in the mid-term
-- 09/15 14:17 [FirstSquawk] Philippines issues 6.032 billion pesos of reissued 2036 bonds at 7.525% average yield after rejecting 2030 bond bids worth 20–30 billion pesos.
 - 09/15 14:25 [FirstSquawk] EXXONMOBIL EXECUTIVE: MIDDLE EAST LNG SUPPLY DISRUPTION LIKELY TO REMAIN A SHORT-TERM ISSUE.
 - 09/15 14:30 [FirstSquawk] WON WEAKENS 0.8% AGAINST THE DOLLAR AS SOUTH KOREA'S CURRENCY TRAILS OTHER ASIAN EMERGING-MARKET PEERS.
 - 09/15 14:30 [FirstSquawk] DOLLAR-YEN RISES 14 PIPS TO 154.90 IN INTRADAY TRADING.
@@ -153,3 +146,6 @@
 - 09/15 19:50 [FirstSquawk] JAPAN LAND PRICES RISE FOR 5TH STRAIGHT YEAR ON HOUSING, TOURISM DEMAND
 - 09/15 19:57 [FirstSquawk] TURKEY FORMIN: TURKEY HAS STEPPED UP EFFORTS ON BLACK SEA SECURITY
 - 09/15 20:02 [FirstSquawk] RUSSIA'S FOREIGN MINISTER LAVROV SAID THAT IF THE U.S. HAD NOT ABANDONED THE ANCHORAGE AGREEMENT AND IF EUROPE HAD NOT DISTRACTED THEM, WE WOULD HAVE BEEN AT PEACE FOR A YEAR.
+- 09/15 20:07 [FirstSquawk] CPP INVESTMENTS AND BROOKFIELD LAUNCH C$50 BILLION MAPLE FUND TO PURSUE LARGE-SCALE INVESTMENTS ACROSS CANADA
+- 09/15 20:12 [FirstSquawk] TURKISH FOREIGN MINISTER HAKAN FIDAN STATED THAT RECIPROCAL ATTACKS IN THE PERSIAN GULF ARE HAMPERING EFFORTS TO RESOLVE THE US-IRAN WAR AND NEED TO CEASE IMMEDIATELY.
+- 09/15 20:18 [FirstSquawk] AZERBAIJAN GAS EXPORTS FALL 0.5% TO 16.4BCM IN JAN.-AUG.: IFX
