@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 14:17 JST／対象: 09/15 08:17 〜 09/15 14:17 JST（時刻はすべて日本時間）
+生成: 2026-09-15 14:34 JST／対象: 09/15 08:34 〜 09/15 14:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 90 | 09/15 08:54 | 09/15 14:17 | 15分（08:55→09:11） |
-| financialjuice | 53 | 09/15 08:29 | 09/15 14:16 | ⚠ 126分（12:09→14:16） |
+| FirstSquawk | 93 | 09/15 08:54 | 09/15 14:30 | 15分（08:55→09:11） |
+| financialjuice | 52 | 09/15 08:50 | 09/15 14:16 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 142 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 144 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 08:29 [financialjuice] U.S. Supreme Court refuses Trump administration request to enforce postal service rule limiting mail-in voting
 - 09/15 08:50 [financialjuice] CanSemi Technology Inc plans to sell 512.64 million shares in Shenzhen listing
 - 09/15 08:54 [FirstSquawk] JAPAN EARLY TRADE: NIKKEI FUTURES SLIDE 0.46%, WHILE 10-YEAR JGB FUTURES DROP 0.18 POINT.
 - 09/15 08:55 [FirstSquawk] NATO FIGHTER JETS SHOT DOWN A DRONE THAT VIOLATED LITHUANIA'S AIRSPACE OVER KAUNAS COUNTY, PROMPTING AN AIR ALERT AND TEMPORARY FLIGHT RESTRICTIONS AT VILNIUS AIRPORT. THE ALERT AND RESTRICTIONS WERE LIFTED AFTER THE DRONE WAS DESTROYED, WI…
@@ -166,3 +165,6 @@
 - 09/15 14:16 [financialjuice] Japan told US officials it will raise defense spend.
 - 09/15 14:16 [financialjuice] Japan said to eye reaching 3.5% spending target in the mid-term
 - 09/15 14:17 [FirstSquawk] Philippines issues 6.032 billion pesos of reissued 2036 bonds at 7.525% average yield after rejecting 2030 bond bids worth 20–30 billion pesos.
+- 09/15 14:25 [FirstSquawk] EXXONMOBIL EXECUTIVE: MIDDLE EAST LNG SUPPLY DISRUPTION LIKELY TO REMAIN A SHORT-TERM ISSUE.
+- 09/15 14:30 [FirstSquawk] WON WEAKENS 0.8% AGAINST THE DOLLAR AS SOUTH KOREA'S CURRENCY TRAILS OTHER ASIAN EMERGING-MARKET PEERS.
+- 09/15 14:30 [FirstSquawk] DOLLAR-YEN RISES 14 PIPS TO 154.90 IN INTRADAY TRADING.

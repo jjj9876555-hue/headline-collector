@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 14:17 JST／対象: 09/14 14:17 〜 09/15 14:17 JST（時刻はすべて日本時間）
+生成: 2026-09-15 14:34 JST／対象: 09/14 14:34 〜 09/15 14:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 320 | 09/14 14:18 | 09/15 14:17 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 254 | 09/14 14:33 | 09/15 14:16 | ⚠ 126分（12:09→14:16） |
+| FirstSquawk | 321 | 09/14 14:37 | 09/15 14:30 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 252 | 09/14 15:00 | 09/15 14:16 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 601 行（統合前 632 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 600 行（統合前 631 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 14:18 [FirstSquawk] EUR/USD falls to a four-week low as stronger expectations for a hawkish Fed boost the dollar and weigh on the euro, according to FX
-- 09/14 14:27 [FirstSquawk] GSK says data from 88 million Greater Bay Area residents could help shape better healthcare policies and improve planning across the region.
-- 09/14 14:33 [financialjuice] EU's Albuquerque: Difficult to map AI risks
-- 09/14 14:34 [financialjuice] EU's Albuquerque: AI risks will only increase
 - 09/14 14:37 [FirstSquawk] China is set to lay out a new five-year strategy for the new-energy vehicle sector, shaping the next phase of growth and development for the country’s EV industry.
 - 09/14 14:42 [FirstSquawk] Canadian PM Mark Carney says Canada is not seeking EU membership, but plans to begin discussions on a unique alliance with the European Union, deepening ties between Ottawa and Brussels.
 - 09/14 14:46 [FirstSquawk] An EU official says fragmented bank tax regimes across member states are hurting competitiveness, highlighting calls for a more consistent approach to banking taxation.
@@ -625,3 +621,6 @@
 - 09/15 14:16 [financialjuice] Japan told US officials it will raise defense spend.
 - 09/15 14:16 [financialjuice] Japan said to eye reaching 3.5% spending target in the mid-term
 - 09/15 14:17 [FirstSquawk] Philippines issues 6.032 billion pesos of reissued 2036 bonds at 7.525% average yield after rejecting 2030 bond bids worth 20–30 billion pesos.
+- 09/15 14:25 [FirstSquawk] EXXONMOBIL EXECUTIVE: MIDDLE EAST LNG SUPPLY DISRUPTION LIKELY TO REMAIN A SHORT-TERM ISSUE.
+- 09/15 14:30 [FirstSquawk] WON WEAKENS 0.8% AGAINST THE DOLLAR AS SOUTH KOREA'S CURRENCY TRAILS OTHER ASIAN EMERGING-MARKET PEERS.
+- 09/15 14:30 [FirstSquawk] DOLLAR-YEN RISES 14 PIPS TO 154.90 IN INTRADAY TRADING.
