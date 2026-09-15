@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 10:01 JST／対象: 09/15 04:01 〜 09/15 10:01 JST（時刻はすべて日本時間）
+生成: 2026-09-15 10:22 JST／対象: 09/15 04:22 〜 09/15 10:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/15 04:06 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 60 | 09/15 04:02 | 09/15 10:01 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 42 | 09/15 04:03 | 09/15 10:00 | 34分（07:55→08:29） |
+| DeItaone | 4 | 09/15 04:32 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
+| FirstSquawk | 58 | 09/15 04:22 | 09/15 10:21 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 32 | 09/15 04:26 | 09/15 10:22 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 89 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 04:02 [FirstSquawk] IRGC NAVY SAYS SUPERTANKER EL GAIA STRUCK A SEA MINE WHILE ENTERING A PROHIBITED ZONE SOUTH OF THE STRAIT OF HORMUZ AND IS NOW FULLY ENGULFED IN FLAMES; IRGC SAYS HORMUZ REMAINS CLOSED UNDER ITS “INTELLIGENT CONTROL.”
-- 09/15 04:03 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM IS CONSIDERING SAUDI REQUESTS FOR MILITARY SUPPORT AGAINST THE HOUTHIS, INCLUDING HELP DEFENDING OIL INFRASTRUCTURE AND PREVENTING A HOUTHI ADVANCE TOWARD THE BAB EL-MANDEB STRAIT.
-- 09/15 04:03 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM HAS AGREED TO SEND BRITISH MILITARY ADVISERS TO SAUDI ARABIA, THOUGH IT IS UNCLEAR WHETHER HE WILL APPROVE THE OTHER REQUESTS.
-- 09/15 04:03 [financialjuice] Fed extends pause on reserve management asset purchases to mid-October
-- 09/15 04:04 [financialjuice] Fed releases September-October Treasury bill purchase timetable
-- 09/15 04:04 [financialjuice] Fed to purchase $15.6 billion in bills for MBS reinvestment
-- 09/15 04:05 [financialjuice] US Interior Secretary Burgum: Oil export bans would be unlikely to help lower energy prices, but all options are on the table -Press Conference.
-- 09/15 04:05 [financialjuice] US Interior Secretary Burgum: I see the possibility of Venezuelan coal exports as part of deals with the US.
-- 09/15 04:06 [DeItaone] IRAN'S IRGC: OIL TANKER EXPLODED AFTER COLLIDING WITH MINES IN STRAIT OF HORMUZ AND CAUGHT FIRE - IRAN'S FARS
-- 09/15 04:06 [FirstSquawk] UK BANKS LAUNCH FUNDRAISING EFFORT TO CREATE A NEW PAYMENTS GIANT: SKY.
-- 09/15 04:06 [financialjuice] US sanction VTB Bank for Iranian sanctions evasion involvement - Treasury.
-- 09/15 04:07 [FirstSquawk] SATELLITE IMAGERY SHOWS TWO SAUDI PIPELINE PUMP STATIONS WERE HIT IN THE SEPTEMBER 10 DRONE ATTACK — ONE NEAR MEDINA WITH A 12-HECTARE BURN SCAR AND OIL SPILLING INTO THE DESERT, AND ANOTHER AT PUMP STATION 9, ALSO HIT IN 2019, WITH DAMAGE …
-- 09/15 04:07 [FirstSquawk] THE PIPELINE, WHICH CARRIED 4-5 MLN BARRELS A DAY AS SAUDI ARABIA'S HORMUZ BYPASS, REMAINS OFFLINE AS OF TODAY, WITH REPAIR ESTIMATES RANGING FROM DAYS FOR A PARTIAL RESTART TO 6-8 WEEKS FOR FULL CAPACITY, AS THE U.S. ENERGY SECRETARY SAYS …
-- 09/15 04:08 [FirstSquawk] US INTERIOR SECRETARY BURGUM: VENEZUELAN COAL EXPORTS COULD BE PART OF POTENTIAL DEALS WITH THE U.S. || OIL EXPORT BANS ARE UNLIKELY TO LOWER ENERGY PRICES, BUT ALL OPTIONS REMAIN ON THE TABLE.
-- 09/15 04:08 [financialjuice] Iran's President Pezeshkian: How can we negotiate with the United States, when they have never honored their commitments?
-- 09/15 04:09 [financialjuice] Iran's President Pezeshkian: Our demands are the same as our previous demands.
-- 09/15 04:09 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN: IRAN CANNOT NEGOTIATE WITH THE U.S. AS WASHINGTON HAS NEVER HONORED ITS COMMITMENTS.
-- 09/15 04:09 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN: IRAN'S DEMANDS REMAIN UNCHANGED FROM ITS PREVIOUS DEMANDS.
-- 09/15 04:11 [financialjuice] Iran's President Pezeshkian: We have no intention of going to war with Saudi Arabia.
-- 09/15 04:12 [financialjuice] Iran's President Pezeshkian: Countries in the region can create security and a dynamic economy through cooperation.
-- 09/15 04:15 [financialjuice] Trump met with OpenAI’s Altman at the GOP Convention - MS Now.
-- 09/15 04:16 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN: IRAN HAS NO INTENTION OF GOING TO WAR WITH SAUDI ARABIA; REGIONAL COOPERATION CAN ENSURE SECURITY AND DRIVE ECONOMIC GROWTH.
-- 09/15 04:17 [financialjuice] Trump privately met with OpenAI’s Sam Altman at GOP convention
 - 09/15 04:22 [FirstSquawk] TRUMP PRIVATELY MET OPENAI'S SAM ALTMAN AT GOP CONVENTION AFTER ALTMAN REQUESTED THE MEETING.
 - 09/15 04:26 [financialjuice] Tuesday FX Option Expiries
 - 09/15 04:32 [DeItaone] TRUMP, ALTMAN SPLIT OVER AI SAFETY President Trump privately met OpenAI CEO Sam Altman last week to discuss AI and its growing power, according to MS NOW. Days later, their positions diverged sharply. Altman backed slowing frontier AI devel…
@@ -126,3 +103,13 @@
 - 09/15 10:00 [FirstSquawk] New crypto tax bill emerges in the US House, putting digital-asset taxation back in focus.
 - 09/15 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% versus prior session opening of 0.805%
 - 09/15 10:01 [FirstSquawk] US Treasury lays out a complex compliance framework for Venezuela oil deals, signaling that sanctions have not been lifted.
+- 09/15 10:03 [FirstSquawk] TAIEX starts Tuesday’s session slightly weaker, falling 0.04% to 45,845.06.
+- 09/15 10:03 [FirstSquawk] Huawei’s US court battle intensifies as the jury weighs a case tied to China and Iran.
+- 09/15 10:07 [FirstSquawk] Iran’s Revolutionary Guards report an oil tanker explosion in the strategically vital Strait of Hormuz.
+- 09/15 10:10 [FirstSquawk] Polish armed forces launch air operations as Russian drones strike targets across Ukraine.
+- 09/15 10:14 [FirstSquawk] Brent crude prices advance about 1%, reaching the $107-a-barrel mark.
+- 09/15 10:14 [FirstSquawk] Emergency UN Security Council meeting set for tonight to address the latest developments in Bab al-Mandab, according to Al Arabiya.
+- 09/15 10:18 [FirstSquawk] Zelensky says Kyiv is prepared to lower tensions if Moscow responds with its own de-escalatory measures.
+- 09/15 10:19 [financialjuice] China sets yuan mid-point at strongest level since February 3, 2023
+- 09/15 10:21 [FirstSquawk] China to release its latest 70-city residential property price data in 10 minutes, with markets watching for signs of recovery.
+- 09/15 10:22 [financialjuice] China cbank: 7-day reverse repo volume at zero Tuesday amid primary dealer demand - statement

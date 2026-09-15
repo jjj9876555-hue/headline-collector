@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 10:01 JST／対象: 09/14 22:01 〜 09/15 10:01 JST（時刻はすべて日本時間）
+生成: 2026-09-15 10:22 JST／対象: 09/14 22:22 〜 09/15 10:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/14 22:05 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 151 | 09/14 22:02 | 09/15 10:01 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 149 | 09/14 22:03 | 09/15 10:00 | 34分（07:55→08:29） |
+| DeItaone | 25 | 09/14 23:00 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
+| FirstSquawk | 153 | 09/14 22:30 | 09/15 10:21 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 139 | 09/14 22:31 | 09/15 10:22 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 309 行（統合前 334 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 298 行（統合前 321 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 22:02 [FirstSquawk] NETFLIX, AMAZON, YOUTUBE LAUNCH NEW STREAMING COALITION
-- 09/14 22:03 [financialjuice] Netflix, Amazon and Youtube launch new streaming coalition - Axios
-- 09/14 22:03 [FirstSquawk/DeItaone] MICROSOFT SETS LIMITS FOR FUTURE AI MODELS: CNBC
-- 09/14 22:03 [financialjuice] Nvidia, Palantir and Booz Allen to limit Anthropic model use - The Information
-- 09/14 22:03 [financialjuice] Microsoft sets limits for future AI models - CNBC $MSFT
-- 09/14 22:04 [FirstSquawk] ANTHROPIC DATA FEARS PROMPT NVIDIA, PALANTIR AND BOOZ ALLEN TO RESTRICT MODEL USE – INFORMATION
-- 09/14 22:05 [financialjuice] Microsoft issues code of conduct to restrict AI models - CNBC $MSFT
-- 09/14 22:05 [financialjuice] Microsoft sets limits for future AI models as industry throttles frontier development - CNBC $MSFT
-- 09/14 22:06 [DeItaone] NVIDIA, Palantir and Booz Allen Hamilton will limit use of ANTHROPIC models
-- 09/14 22:06 [financialjuice] Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use - The Information $NVDA $PLTR
-- 09/14 22:07 [financialjuice/FirstSquawk] BofA raises s&p 500 year-end target to 7,400 from 7,100.
-- 09/14 22:07 [financialjuice] BofA introduces 12-month S&P 500 target of 7,800.
-- 09/14 22:09 [financialjuice] Verizon: AWS, Cisco, Intel, NVIDIA & other companies joined Verizon 6G Innovation Forum.
-- 09/14 22:09 [DeItaone] BOFA TURNS MORE BULLISH ON S&P 500 Bank of America raised its S&P 500 year-end target to 7,400 from 7,100, signaling increased confidence in the equity rally. BofA also introduced a 12-month target of 7,800, pointing to further upside for U…
-- 09/14 22:10 [DeItaone] SPOT GOLD EXTENDS LOSSES, DOWN 2% TO $4,256.39/OZ
-- 09/14 22:11 [DeItaone] *ORACLE STARTS A NEW ROUND OF LAYOFFS: INSIDER
-- 09/14 22:12 [financialjuice] Oracle starts a new round of layoffs - Insider. $ORCL
-- 09/14 22:13 [financialjuice] Oracle cuts reach double-digit % on some teams - Insider.
-- 09/14 22:15 [financialjuice] Oracle begins a new round of layoffs - Business Insider $ORCL
-- 09/14 22:17 [FirstSquawk] ORACLE BEGINS A NEW ROUND OF LAYOFFS
-- 09/14 22:21 [FirstSquawk] LULA SEEN WITH 36%, FLAVIO BOLSONARO 31%, CURY 7% IN FIRST ROUND OF BRAZIL'S PRESIDENTIAL ELECTION - QUAEST POLL
 - 09/14 22:30 [FirstSquawk] 12 EU MEMBER COUNTRIES: CALL FOR EU TO TAKE ON A MORE ‘STRATEGIC AND PROACTIVE ROLE’ IN THE EUROPEAN ARCTIC - JOINT STATEMENT
 - 09/14 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 35.3 MLN NASDAQ 100: -32.6 MLN DOW 30: 38.0 MLN MAG 7: -9.6 MLN $MACRO
 - 09/14 22:31 [FirstSquawk] NVIDIA OPENS 3.7% LOWER AMID CALLS FOR SLOWER AI DEVELOPMENT
@@ -333,3 +312,13 @@
 - 09/15 10:00 [FirstSquawk] New crypto tax bill emerges in the US House, putting digital-asset taxation back in focus.
 - 09/15 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% versus prior session opening of 0.805%
 - 09/15 10:01 [FirstSquawk] US Treasury lays out a complex compliance framework for Venezuela oil deals, signaling that sanctions have not been lifted.
+- 09/15 10:03 [FirstSquawk] TAIEX starts Tuesday’s session slightly weaker, falling 0.04% to 45,845.06.
+- 09/15 10:03 [FirstSquawk] Huawei’s US court battle intensifies as the jury weighs a case tied to China and Iran.
+- 09/15 10:07 [FirstSquawk] Iran’s Revolutionary Guards report an oil tanker explosion in the strategically vital Strait of Hormuz.
+- 09/15 10:10 [FirstSquawk] Polish armed forces launch air operations as Russian drones strike targets across Ukraine.
+- 09/15 10:14 [FirstSquawk] Brent crude prices advance about 1%, reaching the $107-a-barrel mark.
+- 09/15 10:14 [FirstSquawk] Emergency UN Security Council meeting set for tonight to address the latest developments in Bab al-Mandab, according to Al Arabiya.
+- 09/15 10:18 [FirstSquawk] Zelensky says Kyiv is prepared to lower tensions if Moscow responds with its own de-escalatory measures.
+- 09/15 10:19 [financialjuice] China sets yuan mid-point at strongest level since February 3, 2023
+- 09/15 10:21 [FirstSquawk] China to release its latest 70-city residential property price data in 10 minutes, with markets watching for signs of recovery.
+- 09/15 10:22 [financialjuice] China cbank: 7-day reverse repo volume at zero Tuesday amid primary dealer demand - statement

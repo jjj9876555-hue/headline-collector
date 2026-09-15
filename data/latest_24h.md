@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 10:01 JST／対象: 09/14 10:01 〜 09/15 10:01 JST（時刻はすべて日本時間）
+生成: 2026-09-15 10:22 JST／対象: 09/14 10:22 〜 09/15 10:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 322 | 09/14 10:02 | 09/15 10:01 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 238 | 09/14 10:18 | 09/15 10:00 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 322 | 09/14 10:23 | 09/15 10:21 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 239 | 09/14 10:22 | 09/15 10:22 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 587 行（統合前 618 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 588 行（統合前 619 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 10:02 [FirstSquawk] U.S. diesel prices have surged 60% above pre-Iran war levels, according to Fortune, highlighting the growing impact of the conflict on fuel costs and the broader U.S. economy.
-- 09/14 10:03 [FirstSquawk] Taiwan’s overnight funding market starts the session steady at 0.805%, matching the previous session’s opening level.
-- 09/14 10:09 [FirstSquawk] Euro slips below 1.1600 as markets increasingly price a potential Fed rate hike, adding pressure to the single currency.
-- 09/14 10:12 [FirstSquawk] Trump dismisses claims that Chinese entities assisted Iran ahead of the attack that resulted in the deaths of U.S. troops - RTRS
-- 09/14 10:14 [FirstSquawk] Trump signals openness to Chinese automakers entering the U.S. market, ahead of his upcoming summit with Chinese President Xi Jinping.
-- 09/14 10:18 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023
-- 09/14 10:18 [FirstSquawk] China’s central bank sets the USD/CNY reference rate at 6.7698, stronger than the previous fixing of 6.7743.
-- 09/14 10:18 [FirstSquawk] Oil prices climb after Saudi Arabia shuts a key pipeline designed to bypass the Strait of Hormuz, raising fresh concerns over global crude supply flows - CNBC
-- 09/14 10:19 [FirstSquawk] China sets the yuan midpoint at its strongest level since February 3, 2023, signaling firmer support for the currency.
 - 09/14 10:22 [financialjuice] China cbank: 7-day reverse repo volume drops to zero Monday amid primary dealer demand - statement
 - 09/14 10:23 [FirstSquawk] The British pound holds above 1.3500 against the U.S. dollar, with traders looking ahead to key UK economic data and upcoming Fed and BoE decisions.
 - 09/14 10:25 [financialjuice] China’s central bank injects 504 billion yuan via overnight and one-day reverse repos: statement
@@ -611,3 +602,13 @@
 - 09/15 10:00 [FirstSquawk] New crypto tax bill emerges in the US House, putting digital-asset taxation back in focus.
 - 09/15 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% versus prior session opening of 0.805%
 - 09/15 10:01 [FirstSquawk] US Treasury lays out a complex compliance framework for Venezuela oil deals, signaling that sanctions have not been lifted.
+- 09/15 10:03 [FirstSquawk] TAIEX starts Tuesday’s session slightly weaker, falling 0.04% to 45,845.06.
+- 09/15 10:03 [FirstSquawk] Huawei’s US court battle intensifies as the jury weighs a case tied to China and Iran.
+- 09/15 10:07 [FirstSquawk] Iran’s Revolutionary Guards report an oil tanker explosion in the strategically vital Strait of Hormuz.
+- 09/15 10:10 [FirstSquawk] Polish armed forces launch air operations as Russian drones strike targets across Ukraine.
+- 09/15 10:14 [FirstSquawk] Brent crude prices advance about 1%, reaching the $107-a-barrel mark.
+- 09/15 10:14 [FirstSquawk] Emergency UN Security Council meeting set for tonight to address the latest developments in Bab al-Mandab, according to Al Arabiya.
+- 09/15 10:18 [FirstSquawk] Zelensky says Kyiv is prepared to lower tensions if Moscow responds with its own de-escalatory measures.
+- 09/15 10:19 [financialjuice] China sets yuan mid-point at strongest level since February 3, 2023
+- 09/15 10:21 [FirstSquawk] China to release its latest 70-city residential property price data in 10 minutes, with markets watching for signs of recovery.
+- 09/15 10:22 [financialjuice] China cbank: 7-day reverse repo volume at zero Tuesday amid primary dealer demand - statement
