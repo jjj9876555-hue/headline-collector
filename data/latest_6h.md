@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 05:58 JST／対象: 09/15 23:58 〜 09/16 05:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 06:16 JST／対象: 09/16 00:16 〜 09/16 06:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/16 00:01 | 09/16 05:01 | ⚠ 57分（03:03→04:01） |
-| FirstSquawk | 97 | 09/16 00:14 | 09/16 05:58 | 41分（01:25→02:06） |
-| financialjuice | 71 | 09/16 00:00 | 09/16 05:58 | 38分（05:04→05:43） |
+| DeItaone | 21 | 09/16 00:19 | 09/16 05:01 | ⚠ 57分（03:03→04:01） |
+| FirstSquawk | 95 | 09/16 00:19 | 09/16 05:58 | 41分（01:25→02:06） |
+| financialjuice | 68 | 09/16 00:18 | 09/16 05:58 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 182 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 176 行（統合前 186 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 00:00 [financialjuice] US to sell $90 bln 4-Week bills on Sept 17th to settle on Sept 22nd
-- 09/16 00:01 [DeItaone] BRENT, US CRUDE FUTURES RISE BY MORE THAN $3 AFTER SHIPPING SOURCES TELL REUTERS OIL LOADINGS AT SAUDI ARABIA'S RED SEA PORT OF YANBU HAVE BEEN SUSPENDED
-- 09/16 00:01 [financialjuice] Meta Launches Meta One Subscription Plans Globally $META
-- 09/16 00:05 [financialjuice] US Treasury Secretary Bessent: Iran officials say their economy is in dire straits.
-- 09/16 00:14 [FirstSquawk] 3M'S CEO STATES THAT ROBUST SALES GROWTH VIA DISTRIBUTORS WILL PERSIST INTO THE THIRD QUARTER, WHICH SUPPORTS A SALES BOOST IN THE SECOND HALF OF THE YEAR.
-- 09/16 00:14 [FirstSquawk] 3M PREDICTS THAT ITS CONSUMER BUSINESS WILL IMPROVE IN THE SECOND HALF OF THE YEAR COMPARED TO THE FIRST HALF.
 - 09/16 00:18 [financialjuice] US Treasury Secretary Bessent: Stablecoins will boost demand for US dollar assets.
 - 09/16 00:19 [FirstSquawk] BESSENT CALLS TPLF FUNDS 'MALIGNANCY' IN FINANCIAL SYSTEM.
 - 09/16 00:19 [FirstSquawk] BESSENT SAYS STABLECOINS WILL INCREASE DEMAND FOR US DOLLAR ASSETS.

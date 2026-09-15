@@ -7,33 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 05:58 JST／対象: 09/15 05:58 〜 09/16 05:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 06:16 JST／対象: 09/15 06:16 〜 09/16 06:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 07:36 | 09/16 05:01 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 392 | 09/15 06:01 | 09/16 05:58 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 233 | 09/15 06:00 | 09/16 05:58 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 388 | 09/15 06:21 | 09/16 05:58 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 227 | 09/15 06:32 | 09/16 05:58 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 666 行（統合前 684 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 657 行（統合前 674 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 06:00 [financialjuice] S. KOREAN EXPORT PRICE YOY ACTUAL 42.4% (FORECAST -, PREVIOUS 49.1%) $MACRO
-- 09/15 06:00 [financialjuice] S. KOREAN IMPORT PRICE YOY ACTUAL 15.6% (FORECAST -, PREVIOUS 18.7%) $MACRO
-- 09/15 06:01 [FirstSquawk] TRUMP WANTED TO DISCUSS AI WITH NVIDIA CEO JENSEN HUANG; CALLED HUANG ON MONDAY - NYT
-- 09/15 06:03 [FirstSquawk] TRUMP: CLAIMS THAT AI WILL “TAKE OVER, CONSUME AND DESTROY” THE WORLD ARE A “HOAX,” COMPARING THEM TO PAST WARNINGS ABOUT GLOBAL WARMING. - TRUTH SOCIAL
-- 09/15 06:03 [FirstSquawk] TRUMP: HE SAYS FEARS THAT ROBOTS WILL ENTER CITIES, REPLACE PEOPLE AND “GET RID OF US ALL” ARE EVEN MORE EXTREME THAN PREVIOUS CLAIMS ABOUT RUSSIA AND UKRAINE. - TRUTH SOCIAL
-- 09/15 06:03 [FirstSquawk] TRUMP: HE ACCUSES RADICAL LEFT DEMOCRATS OF CONTINUING TO PUSH SUCH FEARS AND SAYS VOTERS WILL EVENTUALLY SEE THROUGH THEM. - TRUTH SOCIAL
-- 09/15 06:12 [financialjuice] World Bank president banga: to meet Senegalese president in Washington on Monday
-- 09/15 06:12 [financialjuice] S. Korea August export prices in won terms rise 42.4% y/y vs 48.9% in July: central bank
-- 09/15 06:13 [financialjuice] World Bank's Banga: wants Senegal to undergo common framework debt restructuring faster than previous cases
-- 09/15 06:14 [financialjuice/FirstSquawk] NATO military jets scrambled in Lithuania over possible drone near Vilnius: national crisis management centre
+- 09/15 06:21 [FirstSquawk] NATO MILITARY JETS SCRAMBLED IN LITHUANIA OVER POSSIBLE DRONE NEAR VILNIUS: NATIONAL CRISIS MANAGEMENT CENTRE
 - 09/15 06:21 [FirstSquawk] IRAN TOP SECURITY OFFICIAL REZAEE: U.S. PRESIDENT IS SENDING MIXED SIGNALS ON NEGOTIATIONS; IRAN WILL NOT ENTER TALKS UNTIL ITS CONDITIONS ARE FULLY MET.
 - 09/15 06:24 [FirstSquawk] US NAVY: AWARDS BOEING $562M CONTRACT FOR MQ-25A STINGRAY
 - 09/15 06:25 [FirstSquawk] TRUMP AI CZAR DAVID SACKS SAYS AI LABS CAN DEVELOP SAFE TECHNOLOGY WITHOUT MAKING ANTITRUST CONCESSIONS, REJECTING CALLS FOR GOVERNMENT-IMPOSED LIMITS ON AI DEVELOPMENT.

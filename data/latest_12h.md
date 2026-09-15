@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 05:58 JST／対象: 09/15 17:58 〜 09/16 05:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 06:16 JST／対象: 09/15 18:16 〜 09/16 06:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 09/15 18:02 | 09/16 05:01 | ⚠ 60分（20:28→21:28） |
-| FirstSquawk | 220 | 09/15 18:00 | 09/16 05:58 | 41分（01:25→02:06） |
+| DeItaone | 53 | 09/15 18:44 | 09/16 05:01 | ⚠ 60分（20:28→21:28） |
+| FirstSquawk | 213 | 09/15 18:18 | 09/16 05:58 | 41分（01:25→02:06） |
 | financialjuice | 146 | 09/15 21:05 | 09/16 05:58 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 407 行（統合前 422 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 399 行（統合前 414 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 18:00 [FirstSquawk] GERMAN ZEW ECONOMIC SENTIMENT (SEP) ACTUAL: 34.7 VS 34.2 PREVIOUS; EST 40.0
-- 09/15 18:00 [FirstSquawk] GERMAN ZEW CURRENT CONDITIONS (SEP) ACTUAL: -47.1 VS -61.1 PREVIOUS; EST -52.1
-- 09/15 18:01 [FirstSquawk] EUROZONE ZEW SURVEY EXPECTATIONS SEP: 25.8 (PREV 31.4)
-- 09/15 18:02 [DeItaone] IRAN’S FOREIGN MINISTER TO VISIT CHINA Iranian Foreign Minister Abbas Araghchi will visit China on September 16 for talks with Chinese Foreign Minister Wang Yi. The visit follows reports alleging Chinese entities provided Iran with satellit…
-- 09/15 18:05 [FirstSquawk] UKMTO: A VERIFIED SOURCE HAS REPORTED THAT A VESSEL HAS BEEN STRUCK BY AN UNKNOWN PROJECTILE
-- 09/15 18:10 [FirstSquawk] ECB'S MOULIN: NO PLAN TO CHANGE MORTGAGE LENDING RULES IN FRANCE
-- 09/15 18:16 [FirstSquawk] BILL DUDLEY, FORMER NEW YORK FED PRESIDENT, SAYS THE FEDERAL RESERVE MUST RAISE RATES THIS WEEK AS MARKETS SEE A 90% CHANCE OF IT HAPPENING.
-- 09/15 18:16 [FirstSquawk] SAUDI ARABIA HAS CLOSED A KEY OIL PIPELINE AFTER AN ATTACK, CAUSING CONCERNS THAT GLOBAL ENERGY MARKETS COULD EXPERIENCE SEVERE SHORTAGES DUE TO THE IRAN WAR, RESULTING IN HIGHER FUEL AND ESSENTIAL PRICES.
 - 09/15 18:18 [FirstSquawk] SAUDI CIVIL DEFENSE WARNS OF POSSIBLE THREATS IN MECCA, TAIF, AND JEDDAH - STATE TELEVISION.
 - 09/15 18:26 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS DANGER PASSED IN MECCA, TAIF AND JEDDAH
 - 09/15 18:31 [FirstSquawk] RUSSIA LAVROV: RUSSIA READY FOR REASONABLE COMPROMISES ON UKRAINE: IFX
