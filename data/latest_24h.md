@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 13:35 JST／対象: 09/14 13:35 〜 09/15 13:35 JST（時刻はすべて日本時間）
+生成: 2026-09-15 13:54 JST／対象: 09/14 13:54 〜 09/15 13:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 323 | 09/14 13:41 | 09/15 13:32 | ⚠ 107分（07:07→08:54） |
+| FirstSquawk | 321 | 09/14 13:54 | 09/15 13:53 | ⚠ 107分（07:07→08:54） |
 | financialjuice | 267 | 09/14 14:07 | 09/15 12:09 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 617 行（統合前 648 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 615 行（統合前 646 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 13:41 [FirstSquawk] Japan’s central bank is approaching a pivotal rate decision, with markets closely watching whether the BOJ moves ahead with further policy tightening.
-- 09/14 13:41 [FirstSquawk] Global AI stocks retreat as concerns over AI risks intensify, while SoftBank shares tumble as much as 13% after tech leaders call for a slower pace of AI development - FT
-- 09/14 13:42 [FirstSquawk] Warsh and Trump appear headed for a clash over U.S. interest rates, as investors increasingly expect the Fed to raise rates, according to the Financial Times.
-- 09/14 13:50 [FirstSquawk] Essar has struck a deal to acquire 118 petrol stations in the UK, in a move that expands the Indian energy group’s retail footprint in the British market, according to the Financial Times.
-- 09/14 13:53 [FirstSquawk] The UK’s expanded ban on advertising ‘less healthy’ foods could put up to £1 billion of media spending at risk, according to the Financial Times.
 - 09/14 13:54 [FirstSquawk] The UK faces a £258 billion infrastructure spending shortfall, according to a Financial Times report, highlighting the scale of investment needed to upgrade the country’s infrastructure.
 - 09/14 13:54 [FirstSquawk] The music industry is stepping up its crackdown on AI-generated songs, targeting their use in streaming fraud and efforts to manipulate royalty payouts, according to the Financial Times.
 - 09/14 13:55 [FirstSquawk] A surge in oil prices is reviving expectations of a Bank of England rate hike this year, as higher energy costs threaten to keep inflation elevated, according to the Financial Times.
@@ -641,3 +636,6 @@
 - 09/15 13:25 [FirstSquawk] US manufacturers see supply-chain costs accelerate again.
 - 09/15 13:30 [FirstSquawk] Saudi Arabia faces new Houthi strikes amid stalled talks over the Strait of Hormuz.
 - 09/15 13:32 [FirstSquawk] Japan’s tertiary industry activity rebounds 0.4% in July, beating the 0.3% forecast.
+- 09/15 13:43 [FirstSquawk] Japanese yen stays weaker as traders await the Fed, while the BoJ meeting looms.
+- 09/15 13:44 [FirstSquawk] Japan considers adding drone-based defense options as part of new policies, Reuters reports.
+- 09/15 13:53 [FirstSquawk] Oil extends gains following Houthi strikes on Saudi Arabia - CNBC

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 13:35 JST／対象: 09/15 01:35 〜 09/15 13:35 JST（時刻はすべて日本時間）
+生成: 2026-09-15 13:54 JST／対象: 09/15 01:54 〜 09/15 13:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/15 02:25 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 139 | 09/15 02:27 | 09/15 13:32 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 111 | 09/15 01:50 | 09/15 12:09 | 34分（07:55→08:29） |
+| FirstSquawk | 142 | 09/15 02:27 | 09/15 13:53 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 110 | 09/15 02:01 | 09/15 12:09 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 249 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 251 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 01:50 [financialjuice] ❗ US seeks "step-by-step" agreement with Iran, reports ILNA citing Pakistani sources
 - 09/15 02:01 [financialjuice/FirstSquawk] US senators debating requiring al giants to commit to preventing catastrophe - Senate aide and lobbyist.
 - 09/15 02:01 [financialjuice] US Treasury Secretary Bessent posts support for final Clarity Act draft on X.
 - 09/15 02:09 [financialjuice] Bank of America CEO Brian Moynihan: Consumer credit quality is good.
@@ -273,3 +272,6 @@
 - 09/15 13:25 [FirstSquawk] US manufacturers see supply-chain costs accelerate again.
 - 09/15 13:30 [FirstSquawk] Saudi Arabia faces new Houthi strikes amid stalled talks over the Strait of Hormuz.
 - 09/15 13:32 [FirstSquawk] Japan’s tertiary industry activity rebounds 0.4% in July, beating the 0.3% forecast.
+- 09/15 13:43 [FirstSquawk] Japanese yen stays weaker as traders await the Fed, while the BoJ meeting looms.
+- 09/15 13:44 [FirstSquawk] Japan considers adding drone-based defense options as part of new policies, Reuters reports.
+- 09/15 13:53 [FirstSquawk] Oil extends gains following Houthi strikes on Saudi Arabia - CNBC
