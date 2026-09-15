@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 12:18 JST／対象: 09/14 12:18 〜 09/15 12:18 JST（時刻はすべて日本時間）
+生成: 2026-09-15 12:35 JST／対象: 09/14 12:35 〜 09/15 12:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 321 | 09/14 12:20 | 09/15 12:13 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 271 | 09/14 12:23 | 09/15 12:09 | ⚠ 75分（12:52→14:07） |
+| FirstSquawk | 318 | 09/14 12:38 | 09/15 12:34 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 270 | 09/14 12:37 | 09/15 12:09 | ⚠ 75分（12:52→14:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 619 行（統合前 650 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 615 行（統合前 646 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 12:20 [FirstSquawk] Goldman Sachs now expects the Fed to raise rates by 25 basis points this week, reversing its earlier call for no change, with the shift driven more by market pricing than its economic outlook.
-- 09/14 12:23 [FirstSquawk] Hong Kong’s five-year plan will maintain its capitalist system and existing governing model, Chief Executive John Lee says, reaffirming the city’s policy direction under the “one country, two systems” framework.
-- 09/14 12:23 [financialjuice] World Bank: approves $300 million financing to back reforms in Uruguay
-- 09/14 12:24 [FirstSquawk] The World Bank approves $300 million in financing for Uruguay, supporting government reforms aimed at strengthening the country’s economic and institutional framework.
-- 09/14 12:29 [FirstSquawk] The New Zealand dollar falls below 0.5800 against the U.S. dollar as dovish signals from the RBNZ weigh on the currency and reinforce expectations for a softer monetary policy stance.
-- 09/14 12:31 [FirstSquawk] Heads of leading U.S. frontier AI labs are increasingly concerned about China’s rapid advances in artificial intelligence, highlighting intensifying competition at the cutting edge of the technology.
 - 09/14 12:37 [financialjuice] China finance ministry auctions 7-year bonds at 1.49% yield: traders
 - 09/14 12:38 [FirstSquawk] U.S. senators have released the final draft of the Crypto Clarity Act, with the legislation scheduled for a Senate vote on Tuesday.
 - 09/14 12:49 [financialjuice] Saudi civil defence warns of possible threat in Khamis Mushait and Abha areas - post on X
@@ -643,3 +637,5 @@
 - 09/15 12:04 [FirstSquawk] SOUTH KOREA (JUL) MONEY SUPPLY M2 SA MOM ACTUAL: 0.3% VS 0.7% PREVIOUS
 - 09/15 12:09 [financialjuice] Drone strike damages industrial plant in Russia's Samara region: authorities
 - 09/15 12:13 [FirstSquawk] Industrial facility damaged by drone strike in Russia’s Samara region, authorities report.
+- 09/15 12:23 [FirstSquawk] China’s factories rev up as consumer spending loses momentum, highlighting persistent economic imbalances.
+- 09/15 12:34 [FirstSquawk] BOJ set for its biggest rate hike of the cycle as pressure on policymakers intensifies., citing RTRS

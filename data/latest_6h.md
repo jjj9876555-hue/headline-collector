@@ -7,29 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 12:18 JST／対象: 09/15 06:18 〜 09/15 12:18 JST（時刻はすべて日本時間）
+生成: 2026-09-15 12:35 JST／対象: 09/15 06:35 〜 09/15 12:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/15 07:36 | 09/15 07:36 | - |
-| FirstSquawk | 72 | 09/15 06:21 | 09/15 12:13 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 59 | 09/15 06:32 | 09/15 12:09 | 34分（07:55→08:29） |
+| FirstSquawk | 69 | 09/15 06:40 | 09/15 12:34 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 58 | 09/15 07:04 | 09/15 12:09 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 130 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 127 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 06:21 [FirstSquawk] NATO MILITARY JETS SCRAMBLED IN LITHUANIA OVER POSSIBLE DRONE NEAR VILNIUS: NATIONAL CRISIS MANAGEMENT CENTRE
-- 09/15 06:21 [FirstSquawk] IRAN TOP SECURITY OFFICIAL REZAEE: U.S. PRESIDENT IS SENDING MIXED SIGNALS ON NEGOTIATIONS; IRAN WILL NOT ENTER TALKS UNTIL ITS CONDITIONS ARE FULLY MET.
-- 09/15 06:24 [FirstSquawk] US NAVY: AWARDS BOEING $562M CONTRACT FOR MQ-25A STINGRAY
-- 09/15 06:25 [FirstSquawk] TRUMP AI CZAR DAVID SACKS SAYS AI LABS CAN DEVELOP SAFE TECHNOLOGY WITHOUT MAKING ANTITRUST CONCESSIONS, REJECTING CALLS FOR GOVERNMENT-IMPOSED LIMITS ON AI DEVELOPMENT.
-- 09/15 06:25 [FirstSquawk] TRUMP AI CZAR DAVID SACKS CALLS FOR GREATER TRANSPARENCY AND AUDITS OF AI LABS, SAYING THE INDUSTRY DOES NOT NEED THE GOVERNMENT TO CONTROL THE PACE OF TECHNOLOGICAL PROGRESS.
-- 09/15 06:32 [financialjuice/FirstSquawk] Nato military fighter shoots down drone in Lithuanian airspace: national crisis management centre
+- 09/15 06:40 [FirstSquawk] NATO MILITARY FIGHTER SHOOTS DOWN DRONE IN LITHUANIAN AIRSPACE: NATIONAL CRISIS MANAGEMENT CENTRE
 - 09/15 06:59 [FirstSquawk] ABBOTT LABORATORIES AGREES TO PAY $385 MILLION TO SETTLE U.S. AND STATE CLAIMS OVER POOR MANUFACTURING PRACTICES AT TWO FACILITIES, INCLUDING ITS STURGIS, MICHIGAN INFANT FORMULA PLANT.
 - 09/15 06:59 [FirstSquawk] ABBOTT WILL PAY $348.7 MILLION TO THE U.S. UNDER THE FALSE CLAIMS ACT AND $36.3 MILLION TO SEVERAL STATES, WITHOUT ADMITTING FAULT OR LIABILITY.
 - 09/15 07:01 [FirstSquawk] WTI OIL RISES 0.7% AT THE OPEN AS IRAN REJECTS U.S. TALKS AND A TANKER INCIDENT HEIGHTENS STRAIT OF HORMUZ SUPPLY CONCERNS.
@@ -154,3 +149,5 @@
 - 09/15 12:04 [FirstSquawk] SOUTH KOREA (JUL) MONEY SUPPLY M2 SA MOM ACTUAL: 0.3% VS 0.7% PREVIOUS
 - 09/15 12:09 [financialjuice] Drone strike damages industrial plant in Russia's Samara region: authorities
 - 09/15 12:13 [FirstSquawk] Industrial facility damaged by drone strike in Russia’s Samara region, authorities report.
+- 09/15 12:23 [FirstSquawk] China’s factories rev up as consumer spending loses momentum, highlighting persistent economic imbalances.
+- 09/15 12:34 [FirstSquawk] BOJ set for its biggest rate hike of the cycle as pressure on policymakers intensifies., citing RTRS

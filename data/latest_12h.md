@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 12:18 JST／対象: 09/15 00:18 〜 09/15 12:18 JST（時刻はすべて日本時間）
+生成: 2026-09-15 12:35 JST／対象: 09/15 00:35 〜 09/15 12:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/15 00:24 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 140 | 09/15 00:21 | 09/15 12:13 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 139 | 09/15 00:24 | 09/15 12:09 | 34分（07:55→08:29） |
+| DeItaone | 10 | 09/15 02:25 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
+| FirstSquawk | 138 | 09/15 00:52 | 09/15 12:34 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 131 | 09/15 00:38 | 09/15 12:09 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 283 行（統合前 295 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 268 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 00:21 [FirstSquawk] ECB'S PRESIDENT LAGARDE: EUROPE MUST ALSO BUILD AI INFRASCTUCTURE ITSELF.
-- 09/15 00:21 [FirstSquawk] ECB'S PRESIDENT LAGARDE: EUROPE CAN’T SIMPLY IMPORT AI TECHNOLOGIES FROM US.
-- 09/15 00:24 [financialjuice] Trump on AI/Data Centers: Don’t kill the Golden Goose - Truth Social
-- 09/15 00:24 [DeItaone] TRUMP: “DON’T KILL THE GOLDEN GOOSE” President Trump says America’s AI and data center boom is happening because the U.S. holds a commanding global lead. He urged against measures that could slow the industry’s expansion, warning policymake…
-- 09/15 00:25 [FirstSquawk] TRUMP: THE ONLY REASON THE AI/DATA CENTER OUTBURST IS HAPPENING IS BECAUSE THE UNITED STATES IS LEADING, BY A LOT, EVERY OTHER COUNTRY. DON’T KILL THE GOLDEN GOOSE! PRESIDENT DONALD J. TRUMP
-- 09/15 00:29 [DeItaone] AI BOOM SET TO SUPERCHARGE U.S. GAS DEMAND U.S. data centers could add 15 Bcf/d of natural gas demand by 2035, more than double BNEF’s previous forecast. Gas is expected to supply 69% of new grid-connected data center power, while LNG expor…
-- 09/15 00:32 [financialjuice] US 6-MONTH BILL BID-TO-COVER ACTUAL 2.74 (FORECAST -, PREVIOUS 2.880) $MACRO
-- 09/15 00:32 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 4.06% (FORECAST -, PREVIOUS 3.890%) $MACRO
-- 09/15 00:32 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 3.97% (FORECAST -, PREVIOUS 3.800%) $MACRO
-- 09/15 00:32 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.64 (FORECAST -, PREVIOUS 2.610) $MACRO
-- 09/15 00:32 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 82.500% (FORECAST -, PREVIOUS 79.100%) $MACRO
-- 09/15 00:32 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 13.860% (FORECAST -, PREVIOUS 20.330%) $MACRO
-- 09/15 00:33 [FirstSquawk] TRUMP: THE FAILING NATION OF IRAN WANTS TO MAKE A DEAL, QUICKLY AND BADLY. I WILL DETERMINE WHETHER OR NOT THE U.S.A. WILL CHOOSE TO ENGAGE - THE CONCEPT OF WHICH WE ARE OPEN TO. THANK YOU FOR YOUR ATTENTION TO THIS MATTER! PRESIDENT DONALD…
-- 09/15 00:33 [financialjuice] ❗ Trump: Iran wants to make a deal. I will determine whether or not we engage with Iran, which we are open to.
-- 09/15 00:34 [DeItaone] TRUMP OPEN TO IRAN DEAL President Trump says Iran wants to reach a deal “quickly and badly,” signaling the U.S. remains open to negotiations. Trump said he will decide whether Washington engages, leaving the door open to a potential diploma…
-- 09/15 00:34 [DeItaone] TRUMP ON IRAN: IRAN WANTS TO MAKE A DEAL, QUICKLY AND BADLY
-- 09/15 00:34 [DeItaone] TRUMP ON IRAN: WILL DETERMINE WHETHER OR NOT U.S.A. WILL CHOOSE TO ENGAGE, CONCEPT OF WHICH WE ARE OPEN TO
 - 09/15 00:38 [financialjuice] ❗ Trump on Iran: Will determine whether or not US will choose to engage, concept of which we are open to - Truth Social
 - 09/15 00:42 [financialjuice] While Iran has repeatedly stated that it does not seek negotiations for a deal with the terrorist US government - Tasnim News
 - 09/15 00:44 [financialjuice] US 6-Month Bill Auction High Yield 4.06% Bid-to-Cover 2.74 Sells $79 bln Awards 82.50% of bids at high US 3-Month Bill Auction High Rate 3.97% Bid-to-Cover 2.64 Sells $92 bln Awards 13.86% of bids at high
@@ -307,3 +290,5 @@
 - 09/15 12:04 [FirstSquawk] SOUTH KOREA (JUL) MONEY SUPPLY M2 SA MOM ACTUAL: 0.3% VS 0.7% PREVIOUS
 - 09/15 12:09 [financialjuice] Drone strike damages industrial plant in Russia's Samara region: authorities
 - 09/15 12:13 [FirstSquawk] Industrial facility damaged by drone strike in Russia’s Samara region, authorities report.
+- 09/15 12:23 [FirstSquawk] China’s factories rev up as consumer spending loses momentum, highlighting persistent economic imbalances.
+- 09/15 12:34 [FirstSquawk] BOJ set for its biggest rate hike of the cycle as pressure on policymakers intensifies., citing RTRS
