@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 19:33 JST／対象: 09/15 07:33 〜 09/15 19:33 JST（時刻はすべて日本時間）
+生成: 2026-09-15 19:51 JST／対象: 09/15 07:51 〜 09/15 19:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/15 07:36 | 09/15 19:30 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 179 | 09/15 08:54 | 09/15 19:31 | 15分（08:55→09:11） |
-| financialjuice | 77 | 09/15 07:41 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| DeItaone | 9 | 09/15 16:20 | 09/15 19:30 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 181 | 09/15 08:54 | 09/15 19:50 | 19分（19:31→19:50） |
+| financialjuice | 74 | 09/15 07:55 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 265 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 263 行（統合前 264 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 07:36 [DeItaone] *IRAN SAYS NO TALKS WITH US UNTIL ITS CONDITIONS ARE MET *IRAN SAYS NO TALKS WITH US UNTIL ITS CONDITIONS ARE MET *IRAN TOP SECURITY OFFICIAL MOHSEN REZAEE SAYS IN POST ON X *REZAEE: US PRESIDENT SENDS ‘MIXED SIGNALS’ ON NEGOTIATIONS
-- 09/15 07:41 [financialjuice] Google allows all engineers to access Anthropic's Claude - Business Insider
-- 09/15 07:45 [financialjuice] NZ actual electronic card retail sales up 0.2% in August from year earlier
-- 09/15 07:45 [financialjuice] NZ s/adj electronic card retail sales fall 0.9% in August versus prior month
 - 09/15 07:55 [financialjuice] Saudi-led coalition in Yemen: 13 civilians hurt in Houthis attacks on Saudi cities of Khamis Mushait, Abha and Taif on Monday
 - 09/15 08:29 [financialjuice] U.S. Supreme Court refuses Trump administration request to enforce postal service rule limiting mail-in voting
 - 09/15 08:50 [financialjuice] CanSemi Technology Inc plans to sell 512.64 million shares in Shenzhen listing
@@ -289,3 +285,5 @@
 - 09/15 19:30 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:15 AM ET — 🇺🇸 ADP Weekly Employment Estimate 8:30 AM ET — 🇺🇸 Empire State Manufacturing 11:30 AM ET — 🇺🇸 6-Week Treasury Auction 1:00 PM ET — 🇺🇸 20-Year Treasury Auction 4:30 PM ET — 🛢️ API Oil Invent…
 - 09/15 19:31 [FirstSquawk] CARNEY WILL SPEAK AND HAVE A PRESS CONFERENCE ON THE SECOND DAY OF THE INVESTMENT SUMMIT.
 - 09/15 19:31 [FirstSquawk] CHINA IS AT THE CENTER OF DISCUSSIONS ON SLOWING FRONTIER AI DUE TO SAFETY ISSUES AND US-CHINA TENSIONS.
+- 09/15 19:50 [FirstSquawk] BAKU-TURKISH FOREIGN MINISTER: MUTUAL ATTACKS IN GULF ARE HARMING PEACE EFFORTS, THESE MUST STOP IMMEDIATELY || FREEDOM OF PASSAGE MUST BE ALLOWED IN STRAIT OF HORMUZ
+- 09/15 19:50 [FirstSquawk] JAPAN LAND PRICES RISE FOR 5TH STRAIGHT YEAR ON HOUSING, TOURISM DEMAND

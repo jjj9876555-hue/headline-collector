@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 19:33 JST／対象: 09/15 13:33 〜 09/15 19:33 JST（時刻はすべて日本時間）
+生成: 2026-09-15 19:51 JST／対象: 09/15 13:51 〜 09/15 19:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/15 16:20 | 09/15 19:30 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 98 | 09/15 13:43 | 09/15 19:31 | 15分（15:46→16:01） |
+| FirstSquawk | 98 | 09/15 13:53 | 09/15 19:50 | 19分（19:31→19:50） |
 | financialjuice | 22 | 09/15 14:16 | 09/15 15:11 | 23分（14:16→14:39） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 13:43 [FirstSquawk] Japanese yen stays weaker as traders await the Fed, while the BoJ meeting looms.
-- 09/15 13:44 [FirstSquawk] Japan considers adding drone-based defense options as part of new policies, Reuters reports.
 - 09/15 13:53 [FirstSquawk] Oil extends gains following Houthi strikes on Saudi Arabia - CNBC
 - 09/15 14:03 [FirstSquawk] Asian markets show mixed moves amid focus on AI stocks and oil prices.
 - 09/15 14:09 [FirstSquawk] US stock futures edge lower, with S&P 500 and Nasdaq futures down 0.3%.
@@ -153,3 +151,5 @@
 - 09/15 19:30 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:15 AM ET — 🇺🇸 ADP Weekly Employment Estimate 8:30 AM ET — 🇺🇸 Empire State Manufacturing 11:30 AM ET — 🇺🇸 6-Week Treasury Auction 1:00 PM ET — 🇺🇸 20-Year Treasury Auction 4:30 PM ET — 🛢️ API Oil Invent…
 - 09/15 19:31 [FirstSquawk] CARNEY WILL SPEAK AND HAVE A PRESS CONFERENCE ON THE SECOND DAY OF THE INVESTMENT SUMMIT.
 - 09/15 19:31 [FirstSquawk] CHINA IS AT THE CENTER OF DISCUSSIONS ON SLOWING FRONTIER AI DUE TO SAFETY ISSUES AND US-CHINA TENSIONS.
+- 09/15 19:50 [FirstSquawk] BAKU-TURKISH FOREIGN MINISTER: MUTUAL ATTACKS IN GULF ARE HARMING PEACE EFFORTS, THESE MUST STOP IMMEDIATELY || FREEDOM OF PASSAGE MUST BE ALLOWED IN STRAIT OF HORMUZ
+- 09/15 19:50 [FirstSquawk] JAPAN LAND PRICES RISE FOR 5TH STRAIGHT YEAR ON HOUSING, TOURISM DEMAND

@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 19:33 JST／対象: 09/14 19:33 〜 09/15 19:33 JST（時刻はすべて日本時間）
+生成: 2026-09-15 19:51 JST／対象: 09/14 19:51 〜 09/15 19:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 52 | 09/14 19:46 | 09/15 19:30 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 336 | 09/14 19:38 | 09/15 19:31 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 245 | 09/14 19:37 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| DeItaone | 50 | 09/14 19:56 | 09/15 19:30 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 333 | 09/14 19:54 | 09/15 19:50 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 244 | 09/14 20:01 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 609 行（統合前 637 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 604 行（統合前 631 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 19:37 [financialjuice] ECB's Stournaras: Timely ECB steps limit risk of painful hikes later
-- 09/14 19:38 [FirstSquawk] BOEING EXEC: ALL FLIGHT TESTING COMPLETED FOR 737 MAX 10, AIM TO HAVE IT CERTIFIED VERY SOON
-- 09/14 19:38 [FirstSquawk] STOURNARAS: TIMELY ECB STEPS LIMIT RISK OF PAINFUL HIKES LATER
-- 09/14 19:44 [FirstSquawk] NASDAQ 100 FUTURES PARE LOSSES, NOW DOWN ABOUT 1.5%
-- 09/14 19:46 [DeItaone/FirstSquawk] U.S. ENERGY SECRETARY WRIGHT: THERE ARE NO PLANS FOR URANIUM ENRICHMENT IN SAUDI ARABIA
-- 09/14 19:47 [DeItaone] *KIOXIA IS SAID TO CONSIDER RAISING $10 BILLION IN US LISTING
-- 09/14 19:47 [FirstSquawk] KIOXIA PLANS TO RAISE $10 BILLION THROUGH A US STOCK LISTING.
 - 09/14 19:54 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: SOME POLITICAL REPRESENTATIVES IN GERMANY ARE QUESTIONING THE EXTENT OF OUR DEFENCE EXPENDITURE, INCLUDING FOR UKRAINE, BUT THEY ARE NOT THE MAJORITY
 - 09/14 19:56 [DeItaone] VIENNA- U.S. ENERGY SEC WRIGHT: TREND IN 7-DAY ROLLING AVERAGE OF OIL SHIPMENTS THROUGH HORMUZ IS RISING AND WILL CONTINUE TO RISE
 - 09/14 20:00 [FirstSquawk] Boeing Exec: Progress Has Been Made In The Supply Of Engines For 787 Series From Ge Aerospace
@@ -633,3 +626,5 @@
 - 09/15 19:30 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:15 AM ET — 🇺🇸 ADP Weekly Employment Estimate 8:30 AM ET — 🇺🇸 Empire State Manufacturing 11:30 AM ET — 🇺🇸 6-Week Treasury Auction 1:00 PM ET — 🇺🇸 20-Year Treasury Auction 4:30 PM ET — 🛢️ API Oil Invent…
 - 09/15 19:31 [FirstSquawk] CARNEY WILL SPEAK AND HAVE A PRESS CONFERENCE ON THE SECOND DAY OF THE INVESTMENT SUMMIT.
 - 09/15 19:31 [FirstSquawk] CHINA IS AT THE CENTER OF DISCUSSIONS ON SLOWING FRONTIER AI DUE TO SAFETY ISSUES AND US-CHINA TENSIONS.
+- 09/15 19:50 [FirstSquawk] BAKU-TURKISH FOREIGN MINISTER: MUTUAL ATTACKS IN GULF ARE HARMING PEACE EFFORTS, THESE MUST STOP IMMEDIATELY || FREEDOM OF PASSAGE MUST BE ALLOWED IN STRAIT OF HORMUZ
+- 09/15 19:50 [FirstSquawk] JAPAN LAND PRICES RISE FOR 5TH STRAIGHT YEAR ON HOUSING, TOURISM DEMAND
