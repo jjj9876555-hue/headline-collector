@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 21:22 JST／対象: 09/14 21:22 〜 09/15 21:22 JST（時刻はすべて日本時間）
+生成: 2026-09-15 21:41 JST／対象: 09/14 21:41 〜 09/15 21:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 09/14 21:23 | 09/15 20:28 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 336 | 09/14 21:24 | 09/15 21:15 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 241 | 09/14 21:24 | 09/15 21:22 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 42 | 09/14 21:42 | 09/15 21:28 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 349 | 09/14 21:47 | 09/15 21:37 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 232 | 09/14 21:47 | 09/15 21:32 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 599 行（統合前 625 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 601 行（統合前 627 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 21:23 [DeItaone] AI BOOM FUELS $110BN U.S. POWER BUILDOUT America’s data center boom will require $110 billion to add 45GW of power capacity through 2030, according to Moody’s. More than 30GW is expected to come from natural gas, requiring an extra 4 billio…
-- 09/14 21:24 [financialjuice] US Energy Secretary Wright: I am confident flows will increase in Hormuz in weeks ahead.
-- 09/14 21:24 [FirstSquawk] WRIGHT CONFIDENT FLOWS WILL INCREASE IN HORMUZ IN WEEKS AHEAD
-- 09/14 21:25 [financialjuice] US Energy Secretary Wright: The US will start refiling SPR in the next few months
-- 09/14 21:30 [financialjuice] CANADIAN MANUFACTURING SALES MOM ACTUAL -0.4% (FORECAST -0.2%, PREVIOUS 0.1%) $MACRO
-- 09/14 21:30 [financialjuice] CANADIAN CPI MEDIAN ACTUAL 2% (FORECAST 2%, PREVIOUS 2.0%) $MACRO
-- 09/14 21:30 [financialjuice] CANADIAN CPI TRIM ACTUAL 1.9% (FORECAST 1.9%, PREVIOUS 1.9%) $MACRO
-- 09/14 21:31 [financialjuice] ❗ CANADIAN CPI MOM ACTUAL -0.1% (FORECAST -0.1%, PREVIOUS 0.5%) $MACRO
-- 09/14 21:31 [financialjuice] ‼ BREAKING: CANADIAN CPI YOY ACTUAL 3% (FORECAST 3%, PREVIOUS 3.0%) $MACRO
-- 09/14 21:31 [DeItaone] *CANADA INFLATION HOLDS AT 3.0% Y/Y IN AUGUST, MATCHES EST.
-- 09/14 21:31 [financialjuice] BOC CORE CPI YOY ACTUAL 2.4% (FORECAST -, PREVIOUS 2.3%) $MACRO
-- 09/14 21:31 [financialjuice] BOC CORE CPI MOM ACTUAL 0.1% (FORECAST -, PREVIOUS 0.2%) $MACRO
-- 09/14 21:31 [financialjuice] CANADIAN CPI COMMON ACTUAL 2.6% (FORECAST -, PREVIOUS 2.7%) $MACRO
-- 09/14 21:31 [financialjuice] CANADIAN CORE CPI MOM ACTUAL 0.2% (FORECAST -, PREVIOUS 0.2%) $MACRO
-- 09/14 21:31 [financialjuice] Canadian CPI August Report
-- 09/14 21:32 [FirstSquawk] Canada CPI (M/M) Aug: -0.1% (est -0.1%; prev 0.5%) - CPI (Y/Y): 3.0% (est 3.0%; prev 3.0%) - CPI Ex Food And Energy (Y/Y): 2.1% (est 2.1%; prev 1.9%) - CPI Core Median (Y/Y): 2.0% (est 2.0%; prev 2.0%) - CPI Core Trim (Y/Y): 1.9% (est 1.9%;…
-- 09/14 21:32 [FirstSquawk] CANADA MANUFACTURING SALES (M/M) JUL: -0.4% (EST -0.2%; PREV 0.1%; PREV R 0.3%)
-- 09/14 21:36 [financialjuice] StatCan: Inflation data was delayed due to website issues.
-- 09/14 21:37 [financialjuice] ❗ A Crucial Saudi Oil Pipeline Hit In Strikes Will Be Mostly Out Of Service For Several Weeks For Repairs – AP Cites Officials
-- 09/14 21:39 [FirstSquawk] A KEY SAUDI OIL PIPELINE WAS DAMAGED IN STRIKES AND WILL REMAIN OUT OF SERVICE FOR SEVERAL WEEKS FOR REPAIRS, ACCORDING TO OFFICIALS.
-- 09/14 21:41 [DeItaone] SAUDI OIL PIPELINE COULD BE DOWN FOR WEEKS Saudi Arabia’s East-West oil pipeline could remain largely offline for 3–5 weeks following last week’s drone attack, AP reports. The pipeline can carry up to 7 million barrels per day to the Red Se…
 - 09/14 21:42 [DeItaone/FirstSquawk] U.S. CRUDE FUTURES EXTENDED GAINS TO HIT A SESSION HIGH OF $104.95/BBL, HIGHEST LEVEL SINCE MID MAY
 - 09/14 21:47 [financialjuice] Saudi oil pipeline hit in strikes will be mostly out of service for several weeks for repair
 - 09/14 21:55 [FirstSquawk] POLISH CABINET TO DISCUSS FUEL FIRMS WINDFALL TAX ON TUESDAY
@@ -623,3 +602,26 @@
 - 09/15 21:19 [financialjuice] Wells Fargo’s Santomassimo: Not seeing changes in delinquency trends
 - 09/15 21:19 [financialjuice] Wells Fargo's Santomassimo: Activity level in US economy staying strong.
 - 09/15 21:22 [financialjuice] Salesforce and Google Cloud expand enterprise AI pact $GOOGL
+- 09/15 21:23 [FirstSquawk] SALESFORCE, GOOGLE CLOUD EXPAND ENTERPRISE AI PACT
+- 09/15 21:23 [FirstSquawk] SALESFORCE, AWS ANNOUNCE EXPANDED PACT
+- 09/15 21:23 [FirstSquawk] SALESFORCE: 'KOA' IS CRM REASONING MODEL FOR AGENTFORCE
+- 09/15 21:23 [FirstSquawk] SALESFORCE & NVIDIA INTRODUCED 'KOA'
+- 09/15 21:24 [FirstSquawk] KENYA COURT RULES 15% SAFARICOM STAKE SHOULD RETURN TO TREASURY
+- 09/15 21:26 [FirstSquawk] SALESFORCE AND GOOGLE CLOUD EXPAND THEIR PARTNERSHIP IN ENTERPRISE AI.
+- 09/15 21:26 [FirstSquawk] SALESFORCE AND AWS HAVE ANNOUNCED A LARGER PARTNERSHIP.
+- 09/15 21:26 [FirstSquawk] SALESFORCE AND NVIDIA LAUNCHED 'KOA.'
+- 09/15 21:26 [FirstSquawk] SALESFORCE INTRODUCES 'KOA' AS A CRM REASONING MODEL FOR AGENTFORCE.
+- 09/15 21:27 [FirstSquawk] WELLS FARGO CFO SANTOMASSIMO SAYS US ECONOMIC ACTIVITY REMAINS STRONG AT BARCLAYS CONFERENCE.
+- 09/15 21:27 [FirstSquawk] ITALIAN DEFENCE MINISTER STATES THAT THE DRONE SHOT DOWN BY AN ITALIAN NATO FIGHTER IN LITHUANIA LIKELY ORIGINATED FROM RUSSIA.
+- 09/15 21:28 [DeItaone] TRUMP WILL RESPECT FED DECISION NEC Director Kevin Hassett says President Trump will respect whatever decision the Federal Reserve makes on Wednesday. Markets widely expect the Fed to raise interest rates, with another hike potentially comi…
+- 09/15 21:28 [financialjuice] UAE's Adnoc buys millions of barrels of discounted Iraqi crude in tenders for August through September - Iraqi Energy Sources
+- 09/15 21:28 [financialjuice] ADNOC has agreed to buy 72 million of barrels of discounted Iraqi crude in tenders for August through September - Iraq Energy Source
+- 09/15 21:28 [FirstSquawk] ITALIAN DEFENCE MINISTER: DRONE THAT WAS SHOT DOWN BY ITALIAN NATO FIGHTER IN LITHUANIA MOST PROBABLY CAME FROM RUSSIA
+- 09/15 21:30 [financialjuice] NY FED MANUFACTURING ACTUAL 7.6 (FORECAST 15, PREVIOUS 20.60) $MACRO
+- 09/15 21:31 [financialjuice] CANADIAN WHOLESALE SALES MOM ACTUAL 0.3% (FORECAST -0.5%, PREVIOUS 2.8%) $MACRO
+- 09/15 21:32 [financialjuice] New York Fed Manufacturing September Report
+- 09/15 21:36 [FirstSquawk] WELLS FARGO'S SANTOMASSIMO SAYS NET INTEREST MARGIN COULD BE BETTER THAN GUIDANCE IN Q3 || SAYS NO CHANGE TO FY26 NET INTEREST INCOME FORECAST
+- 09/15 21:36 [FirstSquawk] WELLS FARGO'S SANTOMASSIMO SAYS NOT SEEING CHANGES IN DELINQUENCY TRENDS || SAYS MIDDLE MARKET CUSTOMERS CONTINUE TO REMAIN CAUTIOUS || SAYS EXPECT THIS YEAR AND EARLY NEXT YEAR TO BE HEALTHY || ON LOAN GROWTH SAYS WILL LIKELY BE BETTER THA…
+- 09/15 21:36 [FirstSquawk] WELLS FARGO CFO MIKE SANTOMASSIMO SAYS ACTIVITY LEVEL IN U.S. ECONOMY STAYING STRONG || MIKE SANTOMASSIMO SPEAKS AT THE BARCLAYS GLOBAL FINANCIAL SERVICES CONFERENCE
+- 09/15 21:36 [FirstSquawk] WELLS FARGO CFO SANTOMASSIMO: NET INTEREST MARGIN COULD BE BETTER THAN GUIDANCE IN Q3
+- 09/15 21:37 [FirstSquawk] US EMPIRE MANUFACTURING SEP: 7.6 (EST 15.0; PREV 20.6)

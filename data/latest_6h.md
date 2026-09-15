@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 21:22 JST／対象: 09/15 15:22 〜 09/15 21:22 JST（時刻はすべて日本時間）
+生成: 2026-09-15 21:41 JST／対象: 09/15 15:41 〜 09/15 21:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/15 16:20 | 09/15 20:28 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 90 | 09/15 15:22 | 09/15 21:15 | 19分（19:31→19:50） |
-| financialjuice | 11 | 09/15 21:05 | 09/15 21:22 | 3分（21:15→21:19） |
+| DeItaone | 11 | 09/15 16:20 | 09/15 21:28 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 101 | 09/15 15:45 | 09/15 21:37 | 19分（19:31→19:50） |
+| financialjuice | 16 | 09/15 21:05 | 09/15 21:32 | 6分（21:22→21:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 111 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 128 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 15:22 [FirstSquawk] Yemeni Armed Forces aviation strikes Houthi weapons storage sites in Al-Jawf, Al Arabiya correspondent reports.
-- 09/15 15:23 [FirstSquawk] Al Arabiya: Yemeni Armed Forces carry out airstrikes against Houthi weapons depots near Mount Heilan.
-- 09/15 15:24 [FirstSquawk] Houthi infiltration attempt thwarted by Yemeni Armed Forces in Harib, south of Marib, Al Arabiya correspondent says.
-- 09/15 15:24 [FirstSquawk] Bahrain: Continued Houthi targeting of civilians and civilian facilities in Saudi Arabia is strongly condemned.
-- 09/15 15:25 [FirstSquawk] SpaceX target price raised to $150 from $117 by HSBC.
-- 09/15 15:36 [FirstSquawk] South Korea's Nuri set for fifth launch, carrying the country's first microsatellite constellation.
 - 09/15 15:45 [FirstSquawk] FRANCE (AUG) CPI EU Harmonized MoM ACTUAL: 0.7% VS 0.8% PREVIOUS;EST 0.8%
 - 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI EU Harmonized YoY ACTUAL: 2.6% VS 2.7% PREVIOUS;EST 2.7%
 - 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI MoM ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7%
@@ -135,3 +129,26 @@
 - 09/15 21:19 [financialjuice] Wells Fargo’s Santomassimo: Not seeing changes in delinquency trends
 - 09/15 21:19 [financialjuice] Wells Fargo's Santomassimo: Activity level in US economy staying strong.
 - 09/15 21:22 [financialjuice] Salesforce and Google Cloud expand enterprise AI pact $GOOGL
+- 09/15 21:23 [FirstSquawk] SALESFORCE, GOOGLE CLOUD EXPAND ENTERPRISE AI PACT
+- 09/15 21:23 [FirstSquawk] SALESFORCE, AWS ANNOUNCE EXPANDED PACT
+- 09/15 21:23 [FirstSquawk] SALESFORCE: 'KOA' IS CRM REASONING MODEL FOR AGENTFORCE
+- 09/15 21:23 [FirstSquawk] SALESFORCE & NVIDIA INTRODUCED 'KOA'
+- 09/15 21:24 [FirstSquawk] KENYA COURT RULES 15% SAFARICOM STAKE SHOULD RETURN TO TREASURY
+- 09/15 21:26 [FirstSquawk] SALESFORCE AND GOOGLE CLOUD EXPAND THEIR PARTNERSHIP IN ENTERPRISE AI.
+- 09/15 21:26 [FirstSquawk] SALESFORCE AND AWS HAVE ANNOUNCED A LARGER PARTNERSHIP.
+- 09/15 21:26 [FirstSquawk] SALESFORCE AND NVIDIA LAUNCHED 'KOA.'
+- 09/15 21:26 [FirstSquawk] SALESFORCE INTRODUCES 'KOA' AS A CRM REASONING MODEL FOR AGENTFORCE.
+- 09/15 21:27 [FirstSquawk] WELLS FARGO CFO SANTOMASSIMO SAYS US ECONOMIC ACTIVITY REMAINS STRONG AT BARCLAYS CONFERENCE.
+- 09/15 21:27 [FirstSquawk] ITALIAN DEFENCE MINISTER STATES THAT THE DRONE SHOT DOWN BY AN ITALIAN NATO FIGHTER IN LITHUANIA LIKELY ORIGINATED FROM RUSSIA.
+- 09/15 21:28 [DeItaone] TRUMP WILL RESPECT FED DECISION NEC Director Kevin Hassett says President Trump will respect whatever decision the Federal Reserve makes on Wednesday. Markets widely expect the Fed to raise interest rates, with another hike potentially comi…
+- 09/15 21:28 [financialjuice] UAE's Adnoc buys millions of barrels of discounted Iraqi crude in tenders for August through September - Iraqi Energy Sources
+- 09/15 21:28 [financialjuice] ADNOC has agreed to buy 72 million of barrels of discounted Iraqi crude in tenders for August through September - Iraq Energy Source
+- 09/15 21:28 [FirstSquawk] ITALIAN DEFENCE MINISTER: DRONE THAT WAS SHOT DOWN BY ITALIAN NATO FIGHTER IN LITHUANIA MOST PROBABLY CAME FROM RUSSIA
+- 09/15 21:30 [financialjuice] NY FED MANUFACTURING ACTUAL 7.6 (FORECAST 15, PREVIOUS 20.60) $MACRO
+- 09/15 21:31 [financialjuice] CANADIAN WHOLESALE SALES MOM ACTUAL 0.3% (FORECAST -0.5%, PREVIOUS 2.8%) $MACRO
+- 09/15 21:32 [financialjuice] New York Fed Manufacturing September Report
+- 09/15 21:36 [FirstSquawk] WELLS FARGO'S SANTOMASSIMO SAYS NET INTEREST MARGIN COULD BE BETTER THAN GUIDANCE IN Q3 || SAYS NO CHANGE TO FY26 NET INTEREST INCOME FORECAST
+- 09/15 21:36 [FirstSquawk] WELLS FARGO'S SANTOMASSIMO SAYS NOT SEEING CHANGES IN DELINQUENCY TRENDS || SAYS MIDDLE MARKET CUSTOMERS CONTINUE TO REMAIN CAUTIOUS || SAYS EXPECT THIS YEAR AND EARLY NEXT YEAR TO BE HEALTHY || ON LOAN GROWTH SAYS WILL LIKELY BE BETTER THA…
+- 09/15 21:36 [FirstSquawk] WELLS FARGO CFO MIKE SANTOMASSIMO SAYS ACTIVITY LEVEL IN U.S. ECONOMY STAYING STRONG || MIKE SANTOMASSIMO SPEAKS AT THE BARCLAYS GLOBAL FINANCIAL SERVICES CONFERENCE
+- 09/15 21:36 [FirstSquawk] WELLS FARGO CFO SANTOMASSIMO: NET INTEREST MARGIN COULD BE BETTER THAN GUIDANCE IN Q3
+- 09/15 21:37 [FirstSquawk] US EMPIRE MANUFACTURING SEP: 7.6 (EST 15.0; PREV 20.6)

@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 21:22 JST／対象: 09/15 09:22 〜 09/15 21:22 JST（時刻はすべて日本時間）
+生成: 2026-09-15 21:41 JST／対象: 09/15 09:41 〜 09/15 21:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/15 16:20 | 09/15 20:28 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 190 | 09/15 09:23 | 09/15 21:15 | 19分（19:31→19:50） |
-| financialjuice | 77 | 09/15 09:27 | 09/15 21:22 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 11 | 09/15 16:20 | 09/15 21:28 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 200 | 09/15 09:43 | 09/15 21:37 | 19分（19:31→19:50） |
+| financialjuice | 81 | 09/15 10:00 | 09/15 21:32 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 277 行（統合前 277 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 292 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 09:23 [FirstSquawk] Japan’s long-dated bond yields edge higher as rising energy costs fuel fresh inflation concerns , citing WSJ
-- 09/15 09:25 [FirstSquawk] China pushes back against calls to curb the development of advanced AI, signaling continued momentum behind its technology ambitions.
-- 09/15 09:27 [financialjuice] China PBOC seen setting yuan midpoint at 6.7051 per dollar: estimate
-- 09/15 09:29 [FirstSquawk] ASIAN STOCKS SLIPPED AFTER A SHARP SELLOFF IN US SEMICONDUCTOR SHARES RAISED CONCERNS THAT AI DEVELOPMENT AND SPENDING COULD SLOW. THE MSCI ASIA PACIFIC INDEX FELL 0.1%, WHILE JAPAN AND SOUTH KOREA EDGED LOWER AFTER THE PHILADELPHIA SEMICON…
-- 09/15 09:29 [FirstSquawk] OIL EXTENDED ITS RALLY, WITH BRENT RISING 0.7% AND WTI REACHING AROUND $102.12, REVIVING INFLATION CONCERNS AHEAD OF WEDNESDAY’S FEDERAL RESERVE DECISION. TRADERS ARE PRICING A 95% CHANCE OF A RATE HIKE, WHILE THE 10-YEAR TREASURY YIELD REM…
-- 09/15 09:36 [FirstSquawk] Sen. Mitch McConnell returned to the Capitol Monday, preparing to cast his first Senate vote since being hospitalized after a June fall - ABC
-- 09/15 09:36 [FirstSquawk] Japan’s Nikkei slips 0.2% as chipmakers and trading houses weigh on the index , citing WSJ
-- 09/15 09:40 [FirstSquawk] China briefs foreign embassies on DNA procedures to identify nationals missing after the deadly China-Nepal border mudslide.
 - 09/15 09:43 [FirstSquawk] Crude oil is climbing as market stabilizers start to fade. The supply buffers and inventory cushions that kept prices steady for months are weakening, leaving less room for error.
 - 09/15 09:48 [FirstSquawk] Barack Obama on AI: "We can’t stuff AI back in a box." Instead of letting tech dictate our future, he argues we must proactively guide how it's built and deployed rather than just reacting to the fallout.
 - 09/15 09:51 [FirstSquawk] Berlin's new playbook on UniCredit: Instead of blocking the Commerzbank takeover outright, Germany is shifting to hardline conditions.
@@ -301,3 +293,26 @@
 - 09/15 21:19 [financialjuice] Wells Fargo’s Santomassimo: Not seeing changes in delinquency trends
 - 09/15 21:19 [financialjuice] Wells Fargo's Santomassimo: Activity level in US economy staying strong.
 - 09/15 21:22 [financialjuice] Salesforce and Google Cloud expand enterprise AI pact $GOOGL
+- 09/15 21:23 [FirstSquawk] SALESFORCE, GOOGLE CLOUD EXPAND ENTERPRISE AI PACT
+- 09/15 21:23 [FirstSquawk] SALESFORCE, AWS ANNOUNCE EXPANDED PACT
+- 09/15 21:23 [FirstSquawk] SALESFORCE: 'KOA' IS CRM REASONING MODEL FOR AGENTFORCE
+- 09/15 21:23 [FirstSquawk] SALESFORCE & NVIDIA INTRODUCED 'KOA'
+- 09/15 21:24 [FirstSquawk] KENYA COURT RULES 15% SAFARICOM STAKE SHOULD RETURN TO TREASURY
+- 09/15 21:26 [FirstSquawk] SALESFORCE AND GOOGLE CLOUD EXPAND THEIR PARTNERSHIP IN ENTERPRISE AI.
+- 09/15 21:26 [FirstSquawk] SALESFORCE AND AWS HAVE ANNOUNCED A LARGER PARTNERSHIP.
+- 09/15 21:26 [FirstSquawk] SALESFORCE AND NVIDIA LAUNCHED 'KOA.'
+- 09/15 21:26 [FirstSquawk] SALESFORCE INTRODUCES 'KOA' AS A CRM REASONING MODEL FOR AGENTFORCE.
+- 09/15 21:27 [FirstSquawk] WELLS FARGO CFO SANTOMASSIMO SAYS US ECONOMIC ACTIVITY REMAINS STRONG AT BARCLAYS CONFERENCE.
+- 09/15 21:27 [FirstSquawk] ITALIAN DEFENCE MINISTER STATES THAT THE DRONE SHOT DOWN BY AN ITALIAN NATO FIGHTER IN LITHUANIA LIKELY ORIGINATED FROM RUSSIA.
+- 09/15 21:28 [DeItaone] TRUMP WILL RESPECT FED DECISION NEC Director Kevin Hassett says President Trump will respect whatever decision the Federal Reserve makes on Wednesday. Markets widely expect the Fed to raise interest rates, with another hike potentially comi…
+- 09/15 21:28 [financialjuice] UAE's Adnoc buys millions of barrels of discounted Iraqi crude in tenders for August through September - Iraqi Energy Sources
+- 09/15 21:28 [financialjuice] ADNOC has agreed to buy 72 million of barrels of discounted Iraqi crude in tenders for August through September - Iraq Energy Source
+- 09/15 21:28 [FirstSquawk] ITALIAN DEFENCE MINISTER: DRONE THAT WAS SHOT DOWN BY ITALIAN NATO FIGHTER IN LITHUANIA MOST PROBABLY CAME FROM RUSSIA
+- 09/15 21:30 [financialjuice] NY FED MANUFACTURING ACTUAL 7.6 (FORECAST 15, PREVIOUS 20.60) $MACRO
+- 09/15 21:31 [financialjuice] CANADIAN WHOLESALE SALES MOM ACTUAL 0.3% (FORECAST -0.5%, PREVIOUS 2.8%) $MACRO
+- 09/15 21:32 [financialjuice] New York Fed Manufacturing September Report
+- 09/15 21:36 [FirstSquawk] WELLS FARGO'S SANTOMASSIMO SAYS NET INTEREST MARGIN COULD BE BETTER THAN GUIDANCE IN Q3 || SAYS NO CHANGE TO FY26 NET INTEREST INCOME FORECAST
+- 09/15 21:36 [FirstSquawk] WELLS FARGO'S SANTOMASSIMO SAYS NOT SEEING CHANGES IN DELINQUENCY TRENDS || SAYS MIDDLE MARKET CUSTOMERS CONTINUE TO REMAIN CAUTIOUS || SAYS EXPECT THIS YEAR AND EARLY NEXT YEAR TO BE HEALTHY || ON LOAN GROWTH SAYS WILL LIKELY BE BETTER THA…
+- 09/15 21:36 [FirstSquawk] WELLS FARGO CFO MIKE SANTOMASSIMO SAYS ACTIVITY LEVEL IN U.S. ECONOMY STAYING STRONG || MIKE SANTOMASSIMO SPEAKS AT THE BARCLAYS GLOBAL FINANCIAL SERVICES CONFERENCE
+- 09/15 21:36 [FirstSquawk] WELLS FARGO CFO SANTOMASSIMO: NET INTEREST MARGIN COULD BE BETTER THAN GUIDANCE IN Q3
+- 09/15 21:37 [FirstSquawk] US EMPIRE MANUFACTURING SEP: 7.6 (EST 15.0; PREV 20.6)
