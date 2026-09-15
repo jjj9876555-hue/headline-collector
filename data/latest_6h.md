@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 06:58 JST／対象: 09/16 00:58 〜 09/16 06:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 07:17 JST／対象: 09/16 01:17 〜 09/16 07:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/16 01:01 | 09/16 05:01 | ⚠ 57分（03:03→04:01） |
-| FirstSquawk | 79 | 09/16 00:59 | 09/16 06:49 | 41分（01:25→02:06） |
-| financialjuice | 63 | 09/16 00:59 | 09/16 06:57 | 38分（05:04→05:43） |
+| DeItaone | 12 | 09/16 01:19 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 81 | 09/16 01:25 | 09/16 07:15 | 41分（01:25→02:06） |
+| financialjuice | 65 | 09/16 01:22 | 09/16 07:06 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 148 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 148 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 00:59 [financialjuice] US Treasury Secretary Bessent: We do not set equilibrium price for yield levels.
-- 09/16 00:59 [FirstSquawk] BESSENT STATES THEY DO NOT DETERMINE THE BALANCE PRICE FOR YIELD LEVELS AND BELIEVES THEY HAVE THE REQUIRED TOOLS.
-- 09/16 01:01 [financialjuice] US Treasury Secretary Bessent: The need to address deficit is one factor affecting 10-year treasury bond yield
-- 09/16 01:01 [DeItaone] BESSENT: THE NEED TO ADDRESS DEFICIT IS ONE FACTOR AFFECTING 10-YEAR TREASURY BOND YIELD
-- 09/16 01:15 [DeItaone] U.S. CONFIRMS WEAPONS IN ORBIT The Pentagon has made its strongest acknowledgment yet that the U.S. possesses weapons in space, with Air Force Secretary Troy Meink confirming orbital systems capable of defending U.S. forces. Space Command c…
-- 09/16 01:15 [DeItaone] BESSENT: GAS PRICES ARE LOWER THAN THEY WERE UNDER BIDEN
 - 09/16 01:19 [DeItaone] FRANCE BACKS KNOT FOR ECB PRESIDENT France would support former Dutch central-bank chief Klaas Knot to succeed Christine Lagarde as ECB president, provided a French candidate receives the powerful chief economist role, Reuters reports. The …
 - 09/16 01:22 [financialjuice] Bank of France sees economy expanding 0.4% in 2026
 - 09/16 01:22 [financialjuice] Bank of France survey indicates 3Q GDP to rise 0.1%
@@ -172,3 +166,9 @@
 - 09/16 06:49 [FirstSquawk] THE U.S. IS PREPARING A $2.8 BILLION WEAPONS PACKAGE FOR ISRAEL, INCLUDING 40,000 HEAVY BOMBS AND 20,000 PENETRATOR WARHEADS, ACCORDING TO AP. THE PROPOSED PACKAGE INCLUDES 20,000 MK-84 2,000-POUND BOMBS, 20,000 BLU-117 BOMBS AND 20,000 I-2…
 - 09/16 06:56 [financialjuice] OpenAI considers funding round at $0.2tn valuation ahead of IPO - FT
 - 09/16 06:57 [financialjuice] OpenAI weighs funding round at $1.2tn valuation before IPO: FT
+- 09/16 07:00 [financialjuice] Kraken investigating issue with base network funding gateway, deposits and withdrawals may be delayed
+- 09/16 07:06 [financialjuice/FirstSquawk] Microsoft declares quarterly dividend of $0.98 per share, up 8% from prior quarter
+- 09/16 07:06 [financialjuice/FirstSquawk] Several blasts heard on Iran's Geshm island: IRNA citing local sources
+- 09/16 07:06 [financialjuice] OpenAI considers funding round at $1.2 trillion valuation before IPO - FT (adds currency)
+- 09/16 07:15 [FirstSquawk] TRUMP ADVISERS: MET SENIOR ANTHROPIC EXECUTIVE TO DISCUSS AI SAFETY
+- 09/16 07:16 [DeItaone] SEVERAL EXPLOSIONS HEARD ON IRAN'S QESHM ISLAND -IRNA CITING LOCAL SOURCES AS SAYING

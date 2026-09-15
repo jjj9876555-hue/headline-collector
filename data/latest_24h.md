@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 06:58 JST／対象: 09/15 06:58 〜 09/16 06:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 07:17 JST／対象: 09/15 07:17 〜 09/16 07:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 57 | 09/15 07:36 | 09/16 05:01 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 388 | 09/15 06:59 | 09/16 06:49 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 235 | 09/15 07:04 | 09/16 06:57 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 58 | 09/15 07:36 | 09/16 07:16 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 387 | 09/15 08:54 | 09/16 07:15 | 41分（01:25→02:06） |
+| financialjuice | 237 | 09/15 07:27 | 09/16 07:06 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 666 行（統合前 682 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 666 行（統合前 684 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 06:59 [FirstSquawk] ABBOTT LABORATORIES AGREES TO PAY $385 MILLION TO SETTLE U.S. AND STATE CLAIMS OVER POOR MANUFACTURING PRACTICES AT TWO FACILITIES, INCLUDING ITS STURGIS, MICHIGAN INFANT FORMULA PLANT.
-- 09/15 06:59 [FirstSquawk] ABBOTT WILL PAY $348.7 MILLION TO THE U.S. UNDER THE FALSE CLAIMS ACT AND $36.3 MILLION TO SEVERAL STATES, WITHOUT ADMITTING FAULT OR LIABILITY.
-- 09/15 07:01 [FirstSquawk] WTI OIL RISES 0.7% AT THE OPEN AS IRAN REJECTS U.S. TALKS AND A TANKER INCIDENT HEIGHTENS STRAIT OF HORMUZ SUPPLY CONCERNS.
-- 09/15 07:04 [financialjuice] Saudi civil defense issues emergency alert for Khamis Mushait and Abha: state TV
-- 09/15 07:07 [FirstSquawk] SAUDI ARABIA ACTIVATES EMERGENCY ALERTS IN KHAMIS MUSHAIT AND ABHA: STATE TV
-- 09/15 07:08 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait and Abha - state TV
 - 09/15 07:27 [financialjuice] Colombia congress endorses 2027 budget of 634.9 trillion pesos
 - 09/15 07:36 [DeItaone] *IRAN SAYS NO TALKS WITH US UNTIL ITS CONDITIONS ARE MET *IRAN SAYS NO TALKS WITH US UNTIL ITS CONDITIONS ARE MET *IRAN TOP SECURITY OFFICIAL MOHSEN REZAEE SAYS IN POST ON X *REZAEE: US PRESIDENT SENDS ‘MIXED SIGNALS’ ON NEGOTIATIONS
 - 09/15 07:41 [financialjuice] Google allows all engineers to access Anthropic's Claude - Business Insider
@@ -690,3 +684,9 @@
 - 09/16 06:49 [FirstSquawk] THE U.S. IS PREPARING A $2.8 BILLION WEAPONS PACKAGE FOR ISRAEL, INCLUDING 40,000 HEAVY BOMBS AND 20,000 PENETRATOR WARHEADS, ACCORDING TO AP. THE PROPOSED PACKAGE INCLUDES 20,000 MK-84 2,000-POUND BOMBS, 20,000 BLU-117 BOMBS AND 20,000 I-2…
 - 09/16 06:56 [financialjuice] OpenAI considers funding round at $0.2tn valuation ahead of IPO - FT
 - 09/16 06:57 [financialjuice] OpenAI weighs funding round at $1.2tn valuation before IPO: FT
+- 09/16 07:00 [financialjuice] Kraken investigating issue with base network funding gateway, deposits and withdrawals may be delayed
+- 09/16 07:06 [financialjuice/FirstSquawk] Microsoft declares quarterly dividend of $0.98 per share, up 8% from prior quarter
+- 09/16 07:06 [financialjuice/FirstSquawk] Several blasts heard on Iran's Geshm island: IRNA citing local sources
+- 09/16 07:06 [financialjuice] OpenAI considers funding round at $1.2 trillion valuation before IPO - FT (adds currency)
+- 09/16 07:15 [FirstSquawk] TRUMP ADVISERS: MET SENIOR ANTHROPIC EXECUTIVE TO DISCUSS AI SAFETY
+- 09/16 07:16 [DeItaone] SEVERAL EXPLOSIONS HEARD ON IRAN'S QESHM ISLAND -IRNA CITING LOCAL SOURCES AS SAYING
