@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 18:54 JST／対象: 09/15 12:54 〜 09/15 18:54 JST（時刻はすべて日本時間）
+生成: 2026-09-15 19:18 JST／対象: 09/15 13:18 〜 09/15 19:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/15 16:20 | 09/15 18:44 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 104 | 09/15 12:58 | 09/15 18:53 | 15分（15:46→16:01） |
+| DeItaone | 5 | 09/15 16:20 | 09/15 19:17 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 97 | 09/15 13:25 | 09/15 19:13 | 15分（15:46→16:01） |
 | financialjuice | 22 | 09/15 14:16 | 09/15 15:11 | 23分（14:16→14:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 130 行（統合前 130 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 124 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 12:58 [FirstSquawk] HONG KONG’S STOCK MARKET COMES UNDER PRESSURE AS A WAVE OF AI LISTINGS ADDS TO SUPPLY CONCERNS, FT REPORTS.
-- 09/15 13:02 [FirstSquawk] Oxford spin-off develops low-cost jet engines for drones, FT reports.
-- 09/15 13:02 [FirstSquawk] Saudi Arabia faces mounting pressure as Iran’s allies expand their regional push - FT
-- 09/15 13:03 [FirstSquawk] Italian AI cybersecurity start-up Exein raises $270mn to fight hackers with AI, FT reports.
-- 09/15 13:14 [FirstSquawk] Putin postpones a summit over concerns about a Ukrainian drone threat, FT reports.
-- 09/15 13:14 [FirstSquawk] Lagarde’s potential early departure prompts calls for clarity from ECB staff, according to the FT.
-- 09/15 13:15 [FirstSquawk] A landmark $1.6bn IPO could bring millions of Nigerians into equities, FT reports.
-- 09/15 13:15 [FirstSquawk] UK and Japan move to capitalise on Europe’s “Made in Europe” rules for the auto industry, according to the FT.
-- 09/15 13:16 [FirstSquawk] US stocks gain favour with foreign investors as concerns over Treasury debt rise.
-- 09/15 13:16 [FirstSquawk] Metlen warns Europe risks losing its new gallium supply to overseas markets.
-- 09/15 13:17 [FirstSquawk] China may bar citizens from leaving the country for up to three years under tighter travel rules, BBC reports.
 - 09/15 13:25 [FirstSquawk] US manufacturers see supply-chain costs accelerate again.
 - 09/15 13:30 [FirstSquawk] Saudi Arabia faces new Houthi strikes amid stalled talks over the Strait of Hormuz.
 - 09/15 13:32 [FirstSquawk] Japan’s tertiary industry activity rebounds 0.4% in July, beating the 0.3% forecast.
@@ -154,3 +143,8 @@
 - 09/15 18:43 [FirstSquawk] INDIA-EU TRADE DEAL EXPECTED BE SIGNED BEFORE END OF THE YEAR
 - 09/15 18:44 [DeItaone] INVESTORS TURN CAUTIOUS AS BOND YIELDS SURGE Investor enthusiasm for stocks is fading as rising bond yields and U.S. midterm uncertainty weigh on sentiment, BofA’s fund manager survey shows. Global equity overweight fell to 49% from 56%, wh…
 - 09/15 18:53 [FirstSquawk] OMAN SAYS OIL TANKER ELGAIA BEING TOWED TO OMANI PORT AFTER FIRE IN ENGINE ROOM FOLLOWING ATTACK OFF OMANI COAST
+- 09/15 19:01 [FirstSquawk] ITALY SENATE APPROVES MELONI'S ELECTORAL REFORM
+- 09/15 19:05 [FirstSquawk] U.S. SPECIAL ENVOY COALE: U.S. HAS CALLED ON BANKS TO UNFREEZE BELARUS’S FROZEN ASSETS - RIA
+- 09/15 19:11 [FirstSquawk] GRAB WILL ACQUIRE A 60% SHARE IN ATOME FINANCIAL FOR $1.49 BILLION IN CASH.
+- 09/15 19:13 [FirstSquawk] RUSSIA HAS ISSUED A WARNING TO DENMARK OVER 'DANGEROUS MANOEUVRES' BY DANISH HELICOPTERS - RIA
+- 09/15 19:17 [DeItaone] SAUDI OIL EXPORTS PIVOT EAST Damage to Saudi Arabia’s East-West Pipeline could cut Yanbu exports by 2.5–2.7 million bpd for up to six weeks, according to Kpler. Saudi Arabia can redirect roughly 3 million bpd through Ras Tanura, but that in…

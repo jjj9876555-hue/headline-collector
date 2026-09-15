@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 18:54 JST／対象: 09/14 18:54 〜 09/15 18:54 JST（時刻はすべて日本時間）
+生成: 2026-09-15 19:18 JST／対象: 09/14 19:18 〜 09/15 19:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 09/14 19:24 | 09/15 18:44 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 333 | 09/14 18:55 | 09/15 18:53 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 247 | 09/14 19:06 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| DeItaone | 49 | 09/14 19:24 | 09/15 19:17 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 333 | 09/14 19:27 | 09/15 19:13 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 246 | 09/14 19:22 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 603 行（統合前 632 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 18:55 [FirstSquawk] GERMAN DEFENCE MINISTER PISTORIUS: WE AIM TO ORDER A FOURTH NEW SIGNALS INTELLIGENCE SHIP, THE ORDER IS ON ITS WAY TO PARLIAMENT
-- 09/14 19:03 [FirstSquawk] TD LAUNCHES $150 BILLION FIVE-YEAR COMMITMENT TO ACCELERATE CANADA'S INVESTMENT SUPERCYCLE
-- 09/14 19:06 [financialjuice] Japan cabinet approval rating unchanged at 53% - NHK Poll
-- 09/14 19:08 [FirstSquawk] USD/JPY EXTENDS GAINS, RISES 0.7% TO ONE-WEEK HIGH AT 154.74
-- 09/14 19:12 [FirstSquawk] EU'S VON DER LEYEN TO PRESENT 'EU KIDS ACT' ON THURSDAY
 - 09/14 19:22 [financialjuice/DeItaone] Reports of ammonia gas leak in Jordan's Aqaba industrial complex - State TV
 - 09/14 19:27 [FirstSquawk] EU COMMISSION SPOX: EU IS IN FAVOUR OF INNOVATIVE AI SERVICES, BUT WON'T COMPROMISE ON SAFETY, COMPANIES HAVE TO PROVE SAFETY FOR CITIZENS
 - 09/14 19:37 [financialjuice] ECB's Stournaras: Timely ECB steps limit risk of painful hikes later
@@ -627,3 +622,8 @@
 - 09/15 18:43 [FirstSquawk] INDIA-EU TRADE DEAL EXPECTED BE SIGNED BEFORE END OF THE YEAR
 - 09/15 18:44 [DeItaone] INVESTORS TURN CAUTIOUS AS BOND YIELDS SURGE Investor enthusiasm for stocks is fading as rising bond yields and U.S. midterm uncertainty weigh on sentiment, BofA’s fund manager survey shows. Global equity overweight fell to 49% from 56%, wh…
 - 09/15 18:53 [FirstSquawk] OMAN SAYS OIL TANKER ELGAIA BEING TOWED TO OMANI PORT AFTER FIRE IN ENGINE ROOM FOLLOWING ATTACK OFF OMANI COAST
+- 09/15 19:01 [FirstSquawk] ITALY SENATE APPROVES MELONI'S ELECTORAL REFORM
+- 09/15 19:05 [FirstSquawk] U.S. SPECIAL ENVOY COALE: U.S. HAS CALLED ON BANKS TO UNFREEZE BELARUS’S FROZEN ASSETS - RIA
+- 09/15 19:11 [FirstSquawk] GRAB WILL ACQUIRE A 60% SHARE IN ATOME FINANCIAL FOR $1.49 BILLION IN CASH.
+- 09/15 19:13 [FirstSquawk] RUSSIA HAS ISSUED A WARNING TO DENMARK OVER 'DANGEROUS MANOEUVRES' BY DANISH HELICOPTERS - RIA
+- 09/15 19:17 [DeItaone] SAUDI OIL EXPORTS PIVOT EAST Damage to Saudi Arabia’s East-West Pipeline could cut Yanbu exports by 2.5–2.7 million bpd for up to six weeks, according to Kpler. Saudi Arabia can redirect roughly 3 million bpd through Ras Tanura, but that in…
