@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 21:58 JST／対象: 09/15 09:58 〜 09/15 21:58 JST（時刻はすべて日本時間）
+生成: 2026-09-15 22:19 JST／対象: 09/15 10:19 〜 09/15 22:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/15 16:20 | 09/15 21:56 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 202 | 09/15 10:00 | 09/15 21:57 | 19分（19:31→19:50） |
-| financialjuice | 84 | 09/15 10:00 | 09/15 21:54 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 14 | 09/15 16:20 | 09/15 22:09 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 198 | 09/15 10:21 | 09/15 22:14 | 19分（19:31→19:50） |
+| financialjuice | 92 | 09/15 10:22 | 09/15 22:14 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 299 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 304 行（統合前 304 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 10:00 [FirstSquawk] Beijing turns its focus to offshore brokerages as it moves to curb pay loopholes and corruption.
-- 09/15 10:00 [FirstSquawk] New crypto tax bill emerges in the US House, putting digital-asset taxation back in focus.
-- 09/15 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% versus prior session opening of 0.805%
-- 09/15 10:01 [FirstSquawk] US Treasury lays out a complex compliance framework for Venezuela oil deals, signaling that sanctions have not been lifted.
-- 09/15 10:03 [FirstSquawk] TAIEX starts Tuesday’s session slightly weaker, falling 0.04% to 45,845.06.
-- 09/15 10:03 [FirstSquawk] Huawei’s US court battle intensifies as the jury weighs a case tied to China and Iran.
-- 09/15 10:07 [FirstSquawk] Iran’s Revolutionary Guards report an oil tanker explosion in the strategically vital Strait of Hormuz.
-- 09/15 10:10 [FirstSquawk] Polish armed forces launch air operations as Russian drones strike targets across Ukraine.
-- 09/15 10:14 [FirstSquawk] Brent crude prices advance about 1%, reaching the $107-a-barrel mark.
-- 09/15 10:14 [FirstSquawk] Emergency UN Security Council meeting set for tonight to address the latest developments in Bab al-Mandab, according to Al Arabiya.
-- 09/15 10:18 [FirstSquawk] Zelensky says Kyiv is prepared to lower tensions if Moscow responds with its own de-escalatory measures.
-- 09/15 10:19 [financialjuice] China sets yuan mid-point at strongest level since February 3, 2023
 - 09/15 10:21 [FirstSquawk] China to release its latest 70-city residential property price data in 10 minutes, with markets watching for signs of recovery.
 - 09/15 10:22 [financialjuice] China cbank: 7-day reverse repo volume at zero Tuesday amid primary dealer demand - statement
 - 09/15 10:22 [financialjuice] China cbank injects 597 bln yuan via overnight reverse repos: statement
@@ -323,3 +311,20 @@
 - 09/15 21:56 [DeItaone] NOBEL LAUREATE WARNS AI COULD ERODE HUMAN AGENCY Nobel Peace Prize laureate Maria Ressa is calling for urgent AI regulation, warning that increasingly autonomous systems could undermine human agency. Ressa says citizens must pressure govern…
 - 09/15 21:57 [FirstSquawk] US ATTACKED IRANIAN BOATS TRYING TO SEIZE NAVY DRONE
 - 09/15 21:57 [FirstSquawk] ORACLE: PROJECTS SUPPLY ERCOT GRID POWERING ABILENE FACILITY
+- 09/15 22:00 [financialjuice] Effective Fed funds rate 3.63% September 14th vs 3.63% September 11th
+- 09/15 22:00 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
+- 09/15 22:00 [financialjuice] ECB settled €1,667.2 bln public-sector bond purchases.
+- 09/15 22:00 [financialjuice] ECB settled €216.3 bln corporate bond purchases
+- 09/15 22:01 [financialjuice] US destroyed two Iranian small boats Monday - Axios.
+- 09/15 22:01 [financialjuice] ECB: Forex reserves fell €100 mln to €350.0 bln
+- 09/15 22:01 [FirstSquawk] EU’S VON DER LEYEN ON DRONE ENTERING LITHUANIA: RUSSIA WILL FIND OUR RESOLVE ONLY GROWING STRONGER
+- 09/15 22:02 [FirstSquawk] CANADA EXPANDS INSTANT TAX DEDUCTIONS TO VARIOUS INVESTMENTS.
+- 09/15 22:02 [financialjuice] Canada extends immediate tax write-offs to range of investments.
+- 09/15 22:03 [financialjuice] Micron sees 512GB RDIMMs in volume production in 2H 2027.
+- 09/15 22:05 [FirstSquawk] FED UNDER 'ENORMOUS PRESSURE' TO DELIVER 25 BPS HIKE: THOMAS
+- 09/15 22:05 [FirstSquawk] FED HAS TO 'GET SERIOUS' ON DELIVERING PRICE STABILITY: THOMAS
+- 09/15 22:09 [DeItaone] FED BANK MONITORING SYSTEM HIT BY OUTAGE The Federal Reserve’s National Information Center suffered an outage on August 5, according to the WSJ. The White House said only the public website was affected, but sources said internal systems an…
+- 09/15 22:11 [financialjuice] Fitch Ratings: Weaker AI pricing power undermines capex sustainability.
+- 09/15 22:12 [FirstSquawk] RUSSIA'S FOREIGN MINISTRY ABOUT DRONE ATTACK ON TRAIN WITH FOREIGN VISITORS IN UKRAINE: WE HAVE REPEATEDLY WARNED THAT RAILWAY HUBS, TRANSPORT USED IN UKRAINIAN ARMY'S INTERESTS ARE LEGAL TARGETS
+- 09/15 22:14 [financialjuice] China and US Discuss Cutting Tariffs on Agriculture and Energy - People familiar with the matter.
+- 09/15 22:14 [FirstSquawk] RUSSIA'S FOREIGN MINISTRY: RUSSIA WARNED FOREIGN DIPLOMATS IN MAY TO LEAVE KYIV DUE TO RUSSIA'S STRIKES ON UKRAINE'S INDUSTRIAL-MILITARY COMPLEX

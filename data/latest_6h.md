@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 21:58 JST／対象: 09/15 15:58 〜 09/15 21:58 JST（時刻はすべて日本時間）
+生成: 2026-09-15 22:19 JST／対象: 09/15 16:19 〜 09/15 22:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/15 16:20 | 09/15 21:56 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 102 | 09/15 16:01 | 09/15 21:57 | 19分（19:31→19:50） |
-| financialjuice | 19 | 09/15 21:05 | 09/15 21:54 | 13分（21:32→21:45） |
+| DeItaone | 14 | 09/15 16:20 | 09/15 22:09 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 101 | 09/15 16:25 | 09/15 22:14 | 19分（19:31→19:50） |
+| financialjuice | 29 | 09/15 21:05 | 09/15 22:14 | 13分（21:32→21:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 134 行（統合前 134 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 144 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI MoM ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7% SPAIN (AUG) CPI YoY ACTUAL: 4.3% VS 4.3% PREVIOUS;EST 4.3%
-- 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI CORE YOY ACTUAL: 2.9% VS 2.9% PREVIOUS;EST 2.9% SPAIN (AUG) CPI CORE MOM ACTUAL: 0.3% VS -0.1% PREVIOUS
-- 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI EU Harmonized MoM ACTUAL: 0.7% VS 0.6% PREVIOUS;EST 0.6% SPAIN (AUG) CPI EU Harmonized YoY ACTUAL: 4.6% VS 4.5% PREVIOUS;EST 4.5%
-- 09/15 16:12 [FirstSquawk] SAUDI CIVIL DEFENCE: DANGER HAS PASSED
-- 09/15 16:17 [FirstSquawk] ABS-CBN TO RETRENCH 200 EMPLOYEES, OR 7% OF WORKFORCE
-- 09/15 16:17 [FirstSquawk] TSMC IS BEING "CONSERATIVE" WHEN USING AI FOR TECH DEVELOPMENT
-- 09/15 16:19 [FirstSquawk] JAPAN AIR SELF-DEFENSE FORCE'S GLOBAL HAWK DRONE HAS DISAPPEARED.
 - 09/15 16:20 [DeItaone] U.S. WAR IN IRAN STRAINS MUNITIONS STOCKPILES Heavy U.S. weapons use during Operation Epic Fury has caused strategic inventory shortages and exposed production bottlenecks, according to the Pentagon inspector general. The Pentagon estimated…
 - 09/15 16:25 [FirstSquawk] IRAN'S IRGC CLAIMS TO HAVE TAKEN DOWN A FOURTH MQ-1 DRONE IN FOUR DAYS NEAR THE STRAIT OF HORMUZ USING A NEW AIR DEFENSE SYSTEM.
 - 09/15 16:30 [FirstSquawk] NATO FIGHTER JETS DOWNED A UNKNOWN DRONE THAT CROSSED INTO LITHUANIA FROM BELARUS ON TUESDAY MORNING.
@@ -158,3 +151,20 @@
 - 09/15 21:56 [DeItaone] NOBEL LAUREATE WARNS AI COULD ERODE HUMAN AGENCY Nobel Peace Prize laureate Maria Ressa is calling for urgent AI regulation, warning that increasingly autonomous systems could undermine human agency. Ressa says citizens must pressure govern…
 - 09/15 21:57 [FirstSquawk] US ATTACKED IRANIAN BOATS TRYING TO SEIZE NAVY DRONE
 - 09/15 21:57 [FirstSquawk] ORACLE: PROJECTS SUPPLY ERCOT GRID POWERING ABILENE FACILITY
+- 09/15 22:00 [financialjuice] Effective Fed funds rate 3.63% September 14th vs 3.63% September 11th
+- 09/15 22:00 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
+- 09/15 22:00 [financialjuice] ECB settled €1,667.2 bln public-sector bond purchases.
+- 09/15 22:00 [financialjuice] ECB settled €216.3 bln corporate bond purchases
+- 09/15 22:01 [financialjuice] US destroyed two Iranian small boats Monday - Axios.
+- 09/15 22:01 [financialjuice] ECB: Forex reserves fell €100 mln to €350.0 bln
+- 09/15 22:01 [FirstSquawk] EU’S VON DER LEYEN ON DRONE ENTERING LITHUANIA: RUSSIA WILL FIND OUR RESOLVE ONLY GROWING STRONGER
+- 09/15 22:02 [FirstSquawk] CANADA EXPANDS INSTANT TAX DEDUCTIONS TO VARIOUS INVESTMENTS.
+- 09/15 22:02 [financialjuice] Canada extends immediate tax write-offs to range of investments.
+- 09/15 22:03 [financialjuice] Micron sees 512GB RDIMMs in volume production in 2H 2027.
+- 09/15 22:05 [FirstSquawk] FED UNDER 'ENORMOUS PRESSURE' TO DELIVER 25 BPS HIKE: THOMAS
+- 09/15 22:05 [FirstSquawk] FED HAS TO 'GET SERIOUS' ON DELIVERING PRICE STABILITY: THOMAS
+- 09/15 22:09 [DeItaone] FED BANK MONITORING SYSTEM HIT BY OUTAGE The Federal Reserve’s National Information Center suffered an outage on August 5, according to the WSJ. The White House said only the public website was affected, but sources said internal systems an…
+- 09/15 22:11 [financialjuice] Fitch Ratings: Weaker AI pricing power undermines capex sustainability.
+- 09/15 22:12 [FirstSquawk] RUSSIA'S FOREIGN MINISTRY ABOUT DRONE ATTACK ON TRAIN WITH FOREIGN VISITORS IN UKRAINE: WE HAVE REPEATEDLY WARNED THAT RAILWAY HUBS, TRANSPORT USED IN UKRAINIAN ARMY'S INTERESTS ARE LEGAL TARGETS
+- 09/15 22:14 [financialjuice] China and US Discuss Cutting Tariffs on Agriculture and Energy - People familiar with the matter.
+- 09/15 22:14 [FirstSquawk] RUSSIA'S FOREIGN MINISTRY: RUSSIA WARNED FOREIGN DIPLOMATS IN MAY TO LEAVE KYIV DUE TO RUSSIA'S STRIKES ON UKRAINE'S INDUSTRIAL-MILITARY COMPLEX

@@ -7,48 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 21:58 JST／対象: 09/14 21:58 〜 09/15 21:58 JST（時刻はすべて日本時間）
+生成: 2026-09-15 22:19 JST／対象: 09/14 22:19 〜 09/15 22:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 09/14 22:05 | 09/15 21:56 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 353 | 09/14 22:00 | 09/15 21:57 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 234 | 09/14 22:00 | 09/15 21:54 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 39 | 09/14 23:00 | 09/15 22:09 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 351 | 09/14 22:21 | 09/15 22:14 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 230 | 09/14 22:31 | 09/15 22:14 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 609 行（統合前 634 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 601 行（統合前 624 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 22:00 [financialjuice] Effective Fed Funds Rate 3.63% September 11 vs 3.63% September 10
-- 09/14 22:00 [FirstSquawk] NVIDIA EXPANDS OPEN SOURCE CUDA-Q PLATFORM WITH CUDA-Q LOGICAL
-- 09/14 22:01 [financialjuice] Nvidia expands the open-source CUDA-Q platform with CUDA-Q logical. $NVDA
-- 09/14 22:01 [FirstSquawk] THE EAST-WEST PIPELINE, WHICH RUNS ACROSS THE KINGDOM, IS KEY TO SAUDI ARABIA’S STRATEGY OF SHIFTING ITS OIL EXPORTS TO THE RED SEA TO AVOID THE PERSIAN GULF’S STRAIT OF HORMUZ, WHERE IRANIAN ATTACKS HAVE STIFLED SHIPPING. THE 1,200-KILOMET…
-- 09/14 22:01 [FirstSquawk] AN ATTACK THAT SAUDI ARABIA BLAMED ON DRONES FROM IRANIAN-BACKED MILITIAS IN IRAQ FORCED THE SHUTDOWN OF THE PIPELINE ON THURSDAY. || THE OFFICIALS, WHO HAVE BEEN BRIEFED ON THE MATTER, SAID REPAIRING THE DAMAGE COULD TAKE THREE TO FIVE WEE…
-- 09/14 22:02 [FirstSquawk] NETFLIX, AMAZON, YOUTUBE LAUNCH NEW STREAMING COALITION
-- 09/14 22:03 [financialjuice] Netflix, Amazon and Youtube launch new streaming coalition - Axios
-- 09/14 22:03 [FirstSquawk/DeItaone] MICROSOFT SETS LIMITS FOR FUTURE AI MODELS: CNBC
-- 09/14 22:03 [financialjuice] Nvidia, Palantir and Booz Allen to limit Anthropic model use - The Information
-- 09/14 22:03 [financialjuice] Microsoft sets limits for future AI models - CNBC $MSFT
-- 09/14 22:04 [FirstSquawk] ANTHROPIC DATA FEARS PROMPT NVIDIA, PALANTIR AND BOOZ ALLEN TO RESTRICT MODEL USE – INFORMATION
-- 09/14 22:05 [financialjuice] Microsoft issues code of conduct to restrict AI models - CNBC $MSFT
-- 09/14 22:05 [financialjuice] Microsoft sets limits for future AI models as industry throttles frontier development - CNBC $MSFT
-- 09/14 22:06 [DeItaone] NVIDIA, Palantir and Booz Allen Hamilton will limit use of ANTHROPIC models
-- 09/14 22:06 [financialjuice] Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use - The Information $NVDA $PLTR
-- 09/14 22:07 [financialjuice/FirstSquawk] BofA raises s&p 500 year-end target to 7,400 from 7,100.
-- 09/14 22:07 [financialjuice] BofA introduces 12-month S&P 500 target of 7,800.
-- 09/14 22:09 [financialjuice] Verizon: AWS, Cisco, Intel, NVIDIA & other companies joined Verizon 6G Innovation Forum.
-- 09/14 22:09 [DeItaone] BOFA TURNS MORE BULLISH ON S&P 500 Bank of America raised its S&P 500 year-end target to 7,400 from 7,100, signaling increased confidence in the equity rally. BofA also introduced a 12-month target of 7,800, pointing to further upside for U…
-- 09/14 22:10 [DeItaone] SPOT GOLD EXTENDS LOSSES, DOWN 2% TO $4,256.39/OZ
-- 09/14 22:11 [DeItaone] *ORACLE STARTS A NEW ROUND OF LAYOFFS: INSIDER
-- 09/14 22:12 [financialjuice] Oracle starts a new round of layoffs - Insider. $ORCL
-- 09/14 22:13 [financialjuice] Oracle cuts reach double-digit % on some teams - Insider.
-- 09/14 22:15 [financialjuice] Oracle begins a new round of layoffs - Business Insider $ORCL
-- 09/14 22:17 [FirstSquawk] ORACLE BEGINS A NEW ROUND OF LAYOFFS
 - 09/14 22:21 [FirstSquawk] LULA SEEN WITH 36%, FLAVIO BOLSONARO 31%, CURY 7% IN FIRST ROUND OF BRAZIL'S PRESIDENTIAL ELECTION - QUAEST POLL
 - 09/14 22:30 [FirstSquawk] 12 EU MEMBER COUNTRIES: CALL FOR EU TO TAKE ON A MORE ‘STRATEGIC AND PROACTIVE ROLE’ IN THE EUROPEAN ARCTIC - JOINT STATEMENT
 - 09/14 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 35.3 MLN NASDAQ 100: -32.6 MLN DOW 30: 38.0 MLN MAG 7: -9.6 MLN $MACRO
@@ -633,3 +608,20 @@
 - 09/15 21:56 [DeItaone] NOBEL LAUREATE WARNS AI COULD ERODE HUMAN AGENCY Nobel Peace Prize laureate Maria Ressa is calling for urgent AI regulation, warning that increasingly autonomous systems could undermine human agency. Ressa says citizens must pressure govern…
 - 09/15 21:57 [FirstSquawk] US ATTACKED IRANIAN BOATS TRYING TO SEIZE NAVY DRONE
 - 09/15 21:57 [FirstSquawk] ORACLE: PROJECTS SUPPLY ERCOT GRID POWERING ABILENE FACILITY
+- 09/15 22:00 [financialjuice] Effective Fed funds rate 3.63% September 14th vs 3.63% September 11th
+- 09/15 22:00 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
+- 09/15 22:00 [financialjuice] ECB settled €1,667.2 bln public-sector bond purchases.
+- 09/15 22:00 [financialjuice] ECB settled €216.3 bln corporate bond purchases
+- 09/15 22:01 [financialjuice] US destroyed two Iranian small boats Monday - Axios.
+- 09/15 22:01 [financialjuice] ECB: Forex reserves fell €100 mln to €350.0 bln
+- 09/15 22:01 [FirstSquawk] EU’S VON DER LEYEN ON DRONE ENTERING LITHUANIA: RUSSIA WILL FIND OUR RESOLVE ONLY GROWING STRONGER
+- 09/15 22:02 [FirstSquawk] CANADA EXPANDS INSTANT TAX DEDUCTIONS TO VARIOUS INVESTMENTS.
+- 09/15 22:02 [financialjuice] Canada extends immediate tax write-offs to range of investments.
+- 09/15 22:03 [financialjuice] Micron sees 512GB RDIMMs in volume production in 2H 2027.
+- 09/15 22:05 [FirstSquawk] FED UNDER 'ENORMOUS PRESSURE' TO DELIVER 25 BPS HIKE: THOMAS
+- 09/15 22:05 [FirstSquawk] FED HAS TO 'GET SERIOUS' ON DELIVERING PRICE STABILITY: THOMAS
+- 09/15 22:09 [DeItaone] FED BANK MONITORING SYSTEM HIT BY OUTAGE The Federal Reserve’s National Information Center suffered an outage on August 5, according to the WSJ. The White House said only the public website was affected, but sources said internal systems an…
+- 09/15 22:11 [financialjuice] Fitch Ratings: Weaker AI pricing power undermines capex sustainability.
+- 09/15 22:12 [FirstSquawk] RUSSIA'S FOREIGN MINISTRY ABOUT DRONE ATTACK ON TRAIN WITH FOREIGN VISITORS IN UKRAINE: WE HAVE REPEATEDLY WARNED THAT RAILWAY HUBS, TRANSPORT USED IN UKRAINIAN ARMY'S INTERESTS ARE LEGAL TARGETS
+- 09/15 22:14 [financialjuice] China and US Discuss Cutting Tariffs on Agriculture and Energy - People familiar with the matter.
+- 09/15 22:14 [FirstSquawk] RUSSIA'S FOREIGN MINISTRY: RUSSIA WARNED FOREIGN DIPLOMATS IN MAY TO LEAVE KYIV DUE TO RUSSIA'S STRIKES ON UKRAINE'S INDUSTRIAL-MILITARY COMPLEX
