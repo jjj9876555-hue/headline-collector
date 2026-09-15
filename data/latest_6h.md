@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 17:40 JST／対象: 09/15 11:40 〜 09/15 17:40 JST（時刻はすべて日本時間）
+生成: 2026-09-15 17:57 JST／対象: 09/15 11:57 〜 09/15 17:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/15 16:20 | 09/15 16:50 | 29分（16:20→16:50） |
-| FirstSquawk | 95 | 09/15 11:47 | 09/15 17:34 | 15分（15:46→16:01） |
-| financialjuice | 28 | 09/15 11:43 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| FirstSquawk | 99 | 09/15 12:03 | 09/15 17:56 | 15分（15:46→16:01） |
+| financialjuice | 25 | 09/15 12:00 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 125 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 126 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 11:43 [financialjuice] Explosion heard in Ukraine's Kyiv: source witness reports
-- 09/15 11:46 [financialjuice] Missile strike damages ozone warehouse in Russia's Taganrog, regional governor says
-- 09/15 11:47 [FirstSquawk] China’s August data points to persistent economic weakness as investment and consumption ease.
-- 09/15 11:54 [financialjuice] China statistics bureau: residents' spending ability and willingness need boosting, supply of quality goods and services should improve
-- 09/15 11:57 [FirstSquawk] Kpler data points to a sharp drop in Hormuz traffic: Bulk carrier crossings fell to 4 on Monday from 10 a day earlier.
 - 09/15 12:00 [financialjuice] S.Korea July M2 money supply rises 5.8% y/y vs 6.0% in June: central bank
 - 09/15 12:01 [financialjuice] China statistics bureau: forecasts steady growth for economy despite structural pressures
 - 09/15 12:03 [FirstSquawk] SOUTH KOREA (JUL) MONEY SUPPLY L SA MOM ACTUAL: -0.5% VS 0.8% PREVIOUS
@@ -149,3 +144,9 @@
 - 09/15 17:22 [FirstSquawk] UAE'S KHAZNA, SIEMENS IN MOU TO EXPLORE AI DATA CENTRE TECH
 - 09/15 17:30 [FirstSquawk] SPREAD BETWEEN FRENCH & GERMAN 10-YR BOND YIELDS RISES TO HIGHEST SINCE 2012 AT 98.15, UP 2 BPS
 - 09/15 17:34 [FirstSquawk] ITALY GENERAL GOV DEBT (EUR) JUL: 3.206T (PREVR 3.207T)
+- 09/15 17:41 [FirstSquawk] KUWAIT STRONGLY CONDEMNED HOUTHIS' BALLISTIC-MISSILE AND DRONE ATTACKS IN SAUDI ARABIA'S KHAMIS MUSHAIT, ABHA, AND TAIF, WHICH INJURED MANY CIVILIANS AND DAMAGED HOMES AND CARS.
+- 09/15 17:41 [FirstSquawk] YUAN-PRICED CRUDE FUTURES IN CHINA HAVE REACHED THEIR HIGHEST POINT EVER.
+- 09/15 17:42 [FirstSquawk] MOODY’S £330M LONDON HQ PUT UP FOR SALE MOODY’S CITY OF LONDON HQ HITS MARKET FOR £330M
+- 09/15 17:43 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE HIT RUSSIA'S SYZRAN OIL REFINERY.
+- 09/15 17:56 [FirstSquawk] FRANCE’S FIN MIN LESCURE: FRANCE’S FINANCIAL SECTOR IS RESILIENT, SOLID
+- 09/15 17:56 [FirstSquawk] WHO EBOLA EXPERT: THERE'S SOME EARLY SIGNS OF IMPROVEMENT, EFFORTS WILL NEED TO BE TO BE SUSTAINED AND STRENGTHENED
