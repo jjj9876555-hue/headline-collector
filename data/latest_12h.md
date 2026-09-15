@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 16:28 JST／対象: 09/15 04:28 〜 09/15 16:28 JST（時刻はすべて日本時間）
+生成: 2026-09-15 16:46 JST／対象: 09/15 04:46 〜 09/15 16:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/15 04:32 | 09/15 16:20 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 154 | 09/15 04:45 | 09/15 16:25 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 93 | 09/15 04:41 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| DeItaone | 4 | 09/15 05:37 | 09/15 16:20 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 158 | 09/15 05:03 | 09/15 16:43 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 92 | 09/15 04:51 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 247 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 250 行（統合前 254 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 04:32 [DeItaone] TRUMP, ALTMAN SPLIT OVER AI SAFETY President Trump privately met OpenAI CEO Sam Altman last week to discuss AI and its growing power, according to MS NOW. Days later, their positions diverged sharply. Altman backed slowing frontier AI devel…
-- 09/15 04:41 [financialjuice/FirstSquawk] Houthis Spokesman: Yemeni Armed Forces successfully intercepted two Saudi Arabian fighter jets - IRIB.
 - 09/15 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -166.6 MLN NASDAQ 100: 120.0 MLN DOW 30: -96.0 MLN MAG 7: 365.0 MLN $MACRO
 - 09/15 04:58 [financialjuice] OpenAI's top lobbyist is meeting with lawmakers today - Politico.
 - 09/15 05:03 [FirstSquawk] ZELENSKY: UKRAINE IS READY TO CONSIDER A MUTUAL HALT TO STRIKES ON CRITICAL INFRASTRUCTURE IF THE U.S. CAN ENSURE RUSSIA'S LONG-TERM COMMITMENT.
@@ -271,3 +269,8 @@
 - 09/15 16:19 [FirstSquawk] JAPAN AIR SELF-DEFENSE FORCE'S GLOBAL HAWK DRONE HAS DISAPPEARED.
 - 09/15 16:20 [DeItaone] U.S. WAR IN IRAN STRAINS MUNITIONS STOCKPILES Heavy U.S. weapons use during Operation Epic Fury has caused strategic inventory shortages and exposed production bottlenecks, according to the Pentagon inspector general. The Pentagon estimated…
 - 09/15 16:25 [FirstSquawk] IRAN'S IRGC CLAIMS TO HAVE TAKEN DOWN A FOURTH MQ-1 DRONE IN FOUR DAYS NEAR THE STRAIT OF HORMUZ USING A NEW AIR DEFENSE SYSTEM.
+- 09/15 16:30 [FirstSquawk] NATO FIGHTER JETS DOWNED A UNKNOWN DRONE THAT CROSSED INTO LITHUANIA FROM BELARUS ON TUESDAY MORNING.
+- 09/15 16:37 [FirstSquawk] MEDIATEK ANNOUNCES A NEW AI PHONE CHIP THAT LOWERS MEMORY USAGE DURING A SUPPLY SHORTAGE.
+- 09/15 16:37 [FirstSquawk] AVERAGE DIESEL PRICE IN THE U.S. REACHES AN ALL-TIME HIGH OF $6.27 PER GALLON.
+- 09/15 16:43 [FirstSquawk] PUTIN RELOCATED RUSSIA'S VALDAI FOREIGN POLICY CONFERENCE FROM SOCHI TO THE MOSCOW AREA DUE TO SECURITY FEARS ABOUT UKRAINIAN DRONE ATTACKS, SOURCES SAY.
+- 09/15 16:43 [FirstSquawk] CHINA'S REQUEST FOR BRICS TO UNITE IN BRINGING PEACE TO THE PERSIAN GULF AND MIDDLE EAST HAS SPARKED DISCUSSIONS IN IRAN ABOUT BEIJING POSSIBLY MEDIATING BETWEEN TEHRAN AND WASHINGTON.

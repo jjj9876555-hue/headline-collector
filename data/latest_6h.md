@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 16:28 JST／対象: 09/15 10:28 〜 09/15 16:28 JST（時刻はすべて日本時間）
+生成: 2026-09-15 16:46 JST／対象: 09/15 10:46 〜 09/15 16:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/15 16:20 | 09/15 16:20 | - |
-| FirstSquawk | 95 | 09/15 10:31 | 09/15 16:25 | 15分（15:46→16:01） |
-| financialjuice | 61 | 09/15 10:31 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| FirstSquawk | 96 | 09/15 10:49 | 09/15 16:43 | 15分（15:46→16:01） |
+| financialjuice | 52 | 09/15 10:48 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 157 行（統合前 157 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 149 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 10:31 [financialjuice] CHINESE NEW HOUSE PRICES YOY ACTUAL -3.0% (FORECAST -, PREVIOUS -3.2%) $MACRO
-- 09/15 10:31 [financialjuice] China Aug Guangzhou new home prices fall 1.9% y/y after July 2.2% decline: stats bureau
-- 09/15 10:31 [financialjuice] China Aug Guangzhou new home prices up 0.1% m/m (July 0.1%): stats bureau
-- 09/15 10:31 [financialjuice] China Aug Shanghai new home prices rise 0.4% m/m (July 0.2%): stats bureau
-- 09/15 10:31 [financialjuice] China August Shenzhen new home prices fall 2.3% y/y (July -2.9%) : stats bureau
-- 09/15 10:31 [FirstSquawk] CHINA (AUG) NEW HOME PRICES MOM ACTUAL: -0.17% VS -0.18% PREVIOUS
-- 09/15 10:31 [financialjuice] China Aug new home prices drop 3.0% y/y, July down 3.2% - source calculation
-- 09/15 10:31 [FirstSquawk] CHINA (AUG) USED HOME PRICES MOM ACTUAL: -0.31% VS -0.29% PREVIOUS
-- 09/15 10:31 [financialjuice] China Aug Beijing new-home prices decline 0.2% m/m (July -0.3%): stats bureau
-- 09/15 10:38 [FirstSquawk] Israeli military chief calls for legal review of “NAZA,” a documentary focused on the Gaza war.
-- 09/15 10:43 [FirstSquawk] Calls for restraint are growing among AI leaders, but investors on Wall Street remain bullish on the sector, according to the WSJ.
-- 09/15 10:43 [financialjuice] Saudi Arabian Civil Defence issues emergency alert for Yanbu on social media platform X
-- 09/15 10:44 [financialjuice] Saudi civil defence issues emergency alert for Taif: state TV
 - 09/15 10:48 [financialjuice] Saudi Arabian civil defence issues urgent alert for Abha and Jazan: state TV
 - 09/15 10:49 [FirstSquawk] Urgent alerts issued for Abha and Jazan by Saudi Arabia’s civil defence, state TV reports.
 - 09/15 10:50 [financialjuice] China Aug Shanghai new home prices rise 3.0% y/y (July 3.0%) : stats bureau
@@ -181,3 +168,8 @@
 - 09/15 16:19 [FirstSquawk] JAPAN AIR SELF-DEFENSE FORCE'S GLOBAL HAWK DRONE HAS DISAPPEARED.
 - 09/15 16:20 [DeItaone] U.S. WAR IN IRAN STRAINS MUNITIONS STOCKPILES Heavy U.S. weapons use during Operation Epic Fury has caused strategic inventory shortages and exposed production bottlenecks, according to the Pentagon inspector general. The Pentagon estimated…
 - 09/15 16:25 [FirstSquawk] IRAN'S IRGC CLAIMS TO HAVE TAKEN DOWN A FOURTH MQ-1 DRONE IN FOUR DAYS NEAR THE STRAIT OF HORMUZ USING A NEW AIR DEFENSE SYSTEM.
+- 09/15 16:30 [FirstSquawk] NATO FIGHTER JETS DOWNED A UNKNOWN DRONE THAT CROSSED INTO LITHUANIA FROM BELARUS ON TUESDAY MORNING.
+- 09/15 16:37 [FirstSquawk] MEDIATEK ANNOUNCES A NEW AI PHONE CHIP THAT LOWERS MEMORY USAGE DURING A SUPPLY SHORTAGE.
+- 09/15 16:37 [FirstSquawk] AVERAGE DIESEL PRICE IN THE U.S. REACHES AN ALL-TIME HIGH OF $6.27 PER GALLON.
+- 09/15 16:43 [FirstSquawk] PUTIN RELOCATED RUSSIA'S VALDAI FOREIGN POLICY CONFERENCE FROM SOCHI TO THE MOSCOW AREA DUE TO SECURITY FEARS ABOUT UKRAINIAN DRONE ATTACKS, SOURCES SAY.
+- 09/15 16:43 [FirstSquawk] CHINA'S REQUEST FOR BRICS TO UNITE IN BRINGING PEACE TO THE PERSIAN GULF AND MIDDLE EAST HAS SPARKED DISCUSSIONS IN IRAN ABOUT BEIJING POSSIBLY MEDIATING BETWEEN TEHRAN AND WASHINGTON.

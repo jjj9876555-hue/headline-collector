@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 16:28 JST／対象: 09/14 16:28 〜 09/15 16:28 JST（時刻はすべて日本時間）
+生成: 2026-09-15 16:46 JST／対象: 09/14 16:46 〜 09/15 16:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 55 | 09/14 16:28 | 09/15 16:20 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 329 | 09/14 16:41 | 09/15 16:25 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 267 | 09/14 16:29 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| DeItaone | 54 | 09/14 17:19 | 09/15 16:20 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 330 | 09/14 16:49 | 09/15 16:43 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 265 | 09/14 16:53 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 624 行（統合前 655 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 622 行（統合前 653 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 16:28 [DeItaone] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
-- 09/14 16:29 [financialjuice] Iran's foreign ministry spokesperson: Saudi Arabia insisted for meeting between Tehran and Gulf powers in Oman not to take place
-- 09/14 16:38 [financialjuice] Iran's Foreign Ministry Spokesperson: Reports about nuclear activity in Iran's Pickaxe mountain (kolang kouh) are baseless.
-- 09/14 16:41 [FirstSquawk] IRAN’S FOREIGN MINISTRY SPOX: SAUDI ARABIA INSISTED FOR MEETING BETWEEN TEHRAN AND GULF POWERS IN OMAN NOT TO TAKE PLACE
-- 09/14 16:41 [FirstSquawk] ICBC, HSBC Among Major Lenders On Bytedance's $30 Billion Loan
-- 09/14 16:41 [FirstSquawk] Novo Nordisk - 'Novo' To Be Used As Company Name; Novo Nordisk A/S Remains Legal Name
-- 09/14 16:41 [FirstSquawk] GERMAN NEW PASSENGER CAR REGISTRATIONS DOWN 4.6%
 - 09/14 16:49 [FirstSquawk] NEW SHIPPING PATHS IN THE ARCTIC, UNTAPPED MINERAL RESOURCES, AND SECURITY RISKS WILL BE DISCUSSED AT A SUMMIT IN FINLAND.
 - 09/14 16:50 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON CLAIMED ON MONDAY THAT ISRAEL IS THE SOLE BENEFICIARY OF STRIFE BETWEEN IRAN AND PERSIAN GULF NATIONS.
 - 09/14 16:53 [FirstSquawk] ECB'S SIMKUS: DECEMBER IS NATURAL TIME TO ASSESS SITAUTION MORE
@@ -648,3 +641,8 @@
 - 09/15 16:19 [FirstSquawk] JAPAN AIR SELF-DEFENSE FORCE'S GLOBAL HAWK DRONE HAS DISAPPEARED.
 - 09/15 16:20 [DeItaone] U.S. WAR IN IRAN STRAINS MUNITIONS STOCKPILES Heavy U.S. weapons use during Operation Epic Fury has caused strategic inventory shortages and exposed production bottlenecks, according to the Pentagon inspector general. The Pentagon estimated…
 - 09/15 16:25 [FirstSquawk] IRAN'S IRGC CLAIMS TO HAVE TAKEN DOWN A FOURTH MQ-1 DRONE IN FOUR DAYS NEAR THE STRAIT OF HORMUZ USING A NEW AIR DEFENSE SYSTEM.
+- 09/15 16:30 [FirstSquawk] NATO FIGHTER JETS DOWNED A UNKNOWN DRONE THAT CROSSED INTO LITHUANIA FROM BELARUS ON TUESDAY MORNING.
+- 09/15 16:37 [FirstSquawk] MEDIATEK ANNOUNCES A NEW AI PHONE CHIP THAT LOWERS MEMORY USAGE DURING A SUPPLY SHORTAGE.
+- 09/15 16:37 [FirstSquawk] AVERAGE DIESEL PRICE IN THE U.S. REACHES AN ALL-TIME HIGH OF $6.27 PER GALLON.
+- 09/15 16:43 [FirstSquawk] PUTIN RELOCATED RUSSIA'S VALDAI FOREIGN POLICY CONFERENCE FROM SOCHI TO THE MOSCOW AREA DUE TO SECURITY FEARS ABOUT UKRAINIAN DRONE ATTACKS, SOURCES SAY.
+- 09/15 16:43 [FirstSquawk] CHINA'S REQUEST FOR BRICS TO UNITE IN BRINGING PEACE TO THE PERSIAN GULF AND MIDDLE EAST HAS SPARKED DISCUSSIONS IN IRAN ABOUT BEIJING POSSIBLY MEDIATING BETWEEN TEHRAN AND WASHINGTON.
