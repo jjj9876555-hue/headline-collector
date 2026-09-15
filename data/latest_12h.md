@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 04:31 JST／対象: 09/15 16:31 〜 09/16 04:31 JST（時刻はすべて日本時間）
+生成: 2026-09-16 04:45 JST／対象: 09/15 16:45 〜 09/16 04:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 51 | 09/15 16:50 | 09/16 04:01 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 222 | 09/15 16:37 | 09/16 04:18 | 41分（01:25→02:06） |
-| financialjuice | 133 | 09/15 21:05 | 09/16 04:22 | 35分（01:24→02:00） |
+| DeItaone | 53 | 09/15 16:50 | 09/16 04:42 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 218 | 09/15 16:47 | 09/16 04:18 | 41分（01:25→02:06） |
+| financialjuice | 135 | 09/15 21:05 | 09/16 04:45 | 35分（01:24→02:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 394 行（統合前 408 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 16:37 [FirstSquawk] MEDIATEK ANNOUNCES A NEW AI PHONE CHIP THAT LOWERS MEMORY USAGE DURING A SUPPLY SHORTAGE.
-- 09/15 16:37 [FirstSquawk] AVERAGE DIESEL PRICE IN THE U.S. REACHES AN ALL-TIME HIGH OF $6.27 PER GALLON.
-- 09/15 16:43 [FirstSquawk] PUTIN RELOCATED RUSSIA'S VALDAI FOREIGN POLICY CONFERENCE FROM SOCHI TO THE MOSCOW AREA DUE TO SECURITY FEARS ABOUT UKRAINIAN DRONE ATTACKS, SOURCES SAY.
-- 09/15 16:43 [FirstSquawk] CHINA'S REQUEST FOR BRICS TO UNITE IN BRINGING PEACE TO THE PERSIAN GULF AND MIDDLE EAST HAS SPARKED DISCUSSIONS IN IRAN ABOUT BEIJING POSSIBLY MEDIATING BETWEEN TEHRAN AND WASHINGTON.
 - 09/15 16:47 [FirstSquawk] IRAN GOVT JET ENTERS SAUDI AIRSPACE - KAN NEWS
 - 09/15 16:50 [DeItaone] IRANIAN GOVERNMENT JET ENTERS SAUDI AIRSPACE An Iranian government aircraft (EP-IGF) has reportedly entered Saudi Arabian airspace. The flight is fueling speculation that a senior Iranian delegation may be heading to Riyadh in an effort to …
 - 09/15 16:52 [FirstSquawk] JAPAN'S FINANCE MINISTER KATAYAMA WILL EVALUATE TAX INCOME, EXAMINE SPENDING, AND STRIVE TO REDUCE THE DEBT-TO-GDP RATIO IN THE NEXT BUDGET PROCESS.
@@ -418,3 +414,7 @@
 - 09/16 04:19 [financialjuice] Danger has passed in Jazan - Saudi Civil Defense.
 - 09/16 04:20 [financialjuice] Danger has passed in Khamis Mushait - Saudi Civil Defense.
 - 09/16 04:22 [financialjuice] Wednesday FX Option Expiries
+- 09/16 04:40 [DeItaone] OPENAI CFO SARAH FRIAR EMPHASIZES ‘NEED TO TAKE SAFETY SERIOUSLY’ ON AI RISKS- CNBC
+- 09/16 04:42 [DeItaone] OPENAI CFO FRIAR SAYS WILL PACE THE FRONTIER AND SLOW DOWN IF WE HAVE TO - CNBC
+- 09/16 04:45 [financialjuice] US VP Vance agrees that the war will end after the midterms - NY Post.
+- 09/16 04:45 [financialjuice] US VP Vance to NYP: Iran is occasionally shooting at commercial shipping.
