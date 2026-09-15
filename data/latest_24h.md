@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 22:52 JST／対象: 09/14 22:52 〜 09/15 22:52 JST（時刻はすべて日本時間）
+生成: 2026-09-15 23:06 JST／対象: 09/14 23:06 〜 09/15 23:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 45 | 09/14 23:00 | 09/15 22:48 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 351 | 09/14 22:54 | 09/15 22:49 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 237 | 09/14 22:56 | 09/15 22:47 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 43 | 09/14 23:19 | 09/15 23:06 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 339 | 09/14 23:11 | 09/15 22:49 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 235 | 09/14 23:12 | 09/15 23:04 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 613 行（統合前 636 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 598 行（統合前 620 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 22:54 [FirstSquawk] US VP VANCE: CONCERNED BY HOUTHI SEIZURE OF PARAMO ISLAND AND RED SEA; KEEPING TABS
-- 09/14 22:56 [financialjuice] China's Foreign Minister Wang Yi: China and EU should avoid trade conflict escalation.
-- 09/14 22:57 [FirstSquawk] FOREIGN MINISTERS OF CHINA, FRANCE HOLD PHONE CALL: XINHUA
-- 09/14 22:57 [FirstSquawk] WANG SAYS CHINA, FRANCE SHOULD ENHANCE STRATEGIC COMMUNICATIONS
-- 09/14 22:57 [FirstSquawk] WANG: CHINA, EU SHOULD AVOID CONFRONTATIONS
-- 09/14 22:58 [FirstSquawk] CHINA HOPES FRANCE AVOIDS OFFICIAL COMMUNICATIONS WITH TAIWAN
-- 09/14 22:59 [FirstSquawk/DeItaone] TRUMP: ONLY CONTROL THAT AI NEEDS IS A STRONG PRESIDENT
-- 09/14 22:59 [FirstSquawk] TRUMP: 'SICK CONSPIRACY' GOING ON AGAINST AI AND DATA CENTERS
-- 09/14 22:59 [FirstSquawk] TRUMP: ADMIN HAS STOPPED AI PEOPLE FROM DOING BAD THINGS
-- 09/14 22:59 [financialjuice] Trump: AI does not need additional guardrails. Strong presidential oversight is sufficient - Truth Social
-- 09/14 23:00 [FirstSquawk] TRUMP ON TRUTH SOCIAL: The only control or “guardrails” that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades! The Trump Administration has stopped AI “people” from doing bad, or potentially bad, “thin…
-- 09/14 23:00 [DeItaone] TRUMP REJECTS AI GUARDRAILS President Trump says AI does not need additional industry “guardrails,” arguing that his administration already has sufficient criminal and regulatory authority over AI companies. Trump also criticized Anthropic …
-- 09/14 23:00 [financialjuice] Trump: Administration has stopped AI figures and companies from doing “bad, or potentially bad” things, (specifically naming Anthropic CEO Dario Amodei)
-- 09/14 23:01 [financialjuice] Trump: There is a conspiracy against AI and data centers that benefits China.
-- 09/14 23:01 [DeItaone] TRUMP: THERE IS A SICK CONSPIRACY GOING ON AGAINST AI AND DATA CENTERS
-- 09/14 23:01 [FirstSquawk] GERMANY SET TO BUY €3.4 BILLION WORTH OF US TOMAHAWK MISSILES AND LOCKHEED MARTIN TYPHON SYSTEMS $LMT
-- 09/14 23:03 [financialjuice] Google: Exploring a potential data center in Lea County, New Mexico. $GOOGL
-- 09/14 23:05 [FirstSquawk] CARNEY: FOREIGN CAPITAL UNDERALLOCATED TO CANADA
-- 09/14 23:06 [financialjuice] Canada's PM Carney: More tax competitiveness measures coming soon
-- 09/14 23:06 [FirstSquawk] EXXONMOBIL: INVESTIGATING CAUSE OF POWER OUTAGE AT 264K BPD REFINERY IN JOLIET, ILLINOIS
 - 09/14 23:11 [FirstSquawk] NASDAQ 100 PARES DROP TO 1%, HAD BEEN DOWN AS MUCH AS 1.7%
 - 09/14 23:12 [financialjuice] Canada's PM Carney: Mutually advantageous deal possible between Canada and US.
 - 09/14 23:12 [financialjuice] Canada's PM Carney: I welcome Trump's comments that a deal could come soon.
@@ -637,3 +617,8 @@
 - 09/15 22:47 [FirstSquawk/DeItaone] BRENT , US CRUDE FUTURES RISE AFTER LIBYA'S NOC SAYS IT MAY DECLARE FORCE MAJEURE AFTER PROTESTS SUSPEND PRODUCTION AT OIL FIELDS, BRENT LAST UP 1.7%, WTI UP 2.1%
 - 09/15 22:47 [financialjuice] US Treasury Secretary Bessent asked about rising bond yields on Tuesday: This is due to global issues.
 - 09/15 22:49 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT, ASKED ABOUT RISING BOND YIELDS ON TUESDAY, SAID THIS IS DUE TO “GLOBAL ISSUES”
+- 09/15 23:00 [financialjuice] ❗ META to roll out next-generation Astrid Chips at end of 2027. $META
+- 09/15 23:01 [financialjuice] META to deploy new in-house Arke chips in first half of 2027. $META $NVDA
+- 09/15 23:01 [financialjuice] ❗ META: Chips will save money and energy compared with Nvidia. $META $NVDA
+- 09/15 23:04 [financialjuice] US Treasury Secretary Bessent asked on 10-Yr yields, blames oil price rise.
+- 09/15 23:06 [DeItaone] *BESSENT, ASKED ON 10-YR YIELDS, BLAMES OIL PRICE RISE
