@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 14:53 JST／対象: 09/14 14:53 〜 09/15 14:53 JST（時刻はすべて日本時間）
+生成: 2026-09-15 15:23 JST／対象: 09/14 15:23 〜 09/15 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 321 | 09/14 14:54 | 09/15 14:49 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 255 | 09/14 15:00 | 09/15 14:46 | ⚠ 126分（12:09→14:16） |
+| FirstSquawk | 318 | 09/14 15:27 | 09/15 15:23 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 270 | 09/14 15:30 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 603 行（統合前 634 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 615 行（統合前 646 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 14:54 [FirstSquawk] Russian forces launched drone attacks on Ukraine’s western Lviv region, with the heaviest damage reported in Stryi. No deaths or injuries were reported, while a residential building and an educational complex were damaged, according to CNBC…
-- 09/14 14:56 [FirstSquawk] Bangladesh says it must turn to the spot LNG market to replace 110 cargoes previously scheduled from Qatar, adding pressure to its gas supply arrangements.
-- 09/14 14:56 [FirstSquawk] Bangladesh’s energy minister says the LNG supply disruption has put significant pressure on the country’s economy, as Dhaka seeks replacement cargoes on the spot market.
-- 09/14 14:57 [FirstSquawk] Saudi-backed Yemeni forces retake positions in southwest Taiz after Houthi militants infiltrated the area, Saudi media Hadath reports.
-- 09/14 14:57 [FirstSquawk] South Korea’s foreign ministry condemns Houthi attacks on Saudi civilians and economic infrastructure, calling for an immediate halt to the attacks.
-- 09/14 15:00 [financialjuice] SWEDISH CPI MOM ACTUAL -0.3% (FORECAST -0.3%, PREVIOUS -0.3%) $MACRO
-- 09/14 15:00 [FirstSquawk] U.S. stock futures fall sharply, with S&P 500 E-mini futures down 0.5%, Nasdaq-100 futures off 1.3% and Dow futures lower 0.1%.
-- 09/14 15:00 [financialjuice] SWEDISH CPI YOY ACTUAL 0.3% (FORECAST 0.3%, PREVIOUS 0.3%) $MACRO
-- 09/14 15:01 [FirstSquawk] China’s top intelligence official warns that rapid AI advances could threaten political stability and critical infrastructure, saying adversaries’ misuse of the technology could pose direct risks to China’s political, institutional and ideo…
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI MOM ACTUAL: -0.3% VS -0.3% PREVIOUS;EST -0.3%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI YOY ACTUAL: 0.3% VS 0.3% PREVIOUS;EST 0.3%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF MOM ACTUAL: -0.2% VS -0.3% PREVIOUS;EST -0.3%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF YOY ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY MOM ACTUAL: -0.5% VS -0.6% PREVIOUS;EST -0.6%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPIF EXCL. ENERGY YOY ACTUAL: 0.5% VS 0.5% PREVIOUS;EST 0.5%
-- 09/14 15:03 [FirstSquawk] SWEDEN (AUG) CPI LEVEL ACTUAL: 124.85 VS 125.17 PREVIOUS;EST 124.82
-- 09/14 15:04 [FirstSquawk] European stock futures are mixed, with STOXX Europe 50 down 0.41%, DAX futures lower 0.35%, while FTSE 100 futures rise 0.18%.
-- 09/14 15:06 [FirstSquawk] Bangladesh is seeking alternative LNG suppliers and considering U.S. LNG despite high shipping costs, as the country works to secure replacement gas supplies.
-- 09/14 15:06 [FirstSquawk] AstraZeneca’s breast-cancer drug fails to meet its goal in a late-stage trial, dealing a setback to the company’s oncology pipeline.
-- 09/14 15:10 [FirstSquawk] Shanghai is encouraging eligible financial institutions to develop enterprise AI platforms, signaling a push to accelerate AI adoption across the city’s financial sector.
-- 09/14 15:21 [FirstSquawk] CHINA’S TOP SPY CHIEF WARNS AI COULD THREATEN POLITICAL STABILITY & CRITICAL INFRASTRUCTURE
-- 09/14 15:23 [FirstSquawk] Malaysia’s **PETRONAS signs an LNG supply agreement with METLEN**, aiming to strengthen energy security and diversify gas supplies across Southeast Europe.
 - 09/14 15:27 [FirstSquawk] EUR/USD falls 0.33% to 1.1549, hitting a near one-month low as the euro comes under renewed pressure against the dollar.
 - 09/14 15:27 [FirstSquawk] OpenAI is reportedly in talks to conduct AI model training in Australia, according to Nikkei, potentially expanding the company’s training operations beyond its existing locations.
 - 09/14 15:30 [financialjuice] SWISS PPI YOY ACTUAL -0.7% (FORECAST -, PREVIOUS -2.1%) $MACRO
@@ -627,3 +605,37 @@
 - 09/15 14:46 [financialjuice] South Korea to take steps to stabilize the bond market if needed
 - 09/15 14:47 [FirstSquawk] China steps up exit restrictions as part of broader measures to secure strategic technology.
 - 09/15 14:49 [FirstSquawk] South Korea may introduce measures to calm the bond market if conditions warrant.
+- 09/15 14:57 [financialjuice] Japan's Fin. Min. Katayama: We will not rely on deficit-covering bonds to fund the tax cut
+- 09/15 14:57 [financialjuice] Japan Finance Minister Katayama: We will ensure market credibility by reviewing both spending and revenue
+- 09/15 14:58 [FirstSquawk] Japan's government will avoid using deficit-financing bonds to fund tax reductions, Finance Minister Katayama says.
+- 09/15 14:58 [FirstSquawk] Katayama: Japan will safeguard market confidence by examining both expenditure and revenue.
+- 09/15 14:58 [financialjuice] Japan's Fin. Min. Katayama: We won't issue debt to fund food sales tax cut
+- 09/15 14:58 [financialjuice] Japan finance minister Katayama: Will aim to secure enough funding through efforts to boost non-tax revenue
+- 09/15 15:00 [financialjuice] Japan Finance Minister Katayama: We expect a meaningful level of overshoot in tax revenue
+- 09/15 15:00 [financialjuice] ❗ UK UNEMPLOYMENT CHANGE ACTUAL 27.8K (FORECAST 5K, PREVIOUS -11.0K) $MACRO
+- 09/15 15:00 [financialjuice] UK EMPLOYMENT CHANGE 3M/3M ACTUAL 66K (FORECAST 67K, PREVIOUS 83K) $MACRO
+- 09/15 15:00 [financialjuice] UK AVERAGE WEEKLY EARNINGS YOY ACTUAL 3.9% (FORECAST 3.9%, PREVIOUS 4.1%) $MACRO
+- 09/15 15:00 [financialjuice] ❗ UK EMPLOYMENT CHANGE SA ACTUAL -26K (FORECAST -5K, PREVIOUS -13K) $MACRO
+- 09/15 15:00 [financialjuice] ❗ UK UNEMPLOYMENT RATE ACTUAL 4.9% (FORECAST 4.9%, PREVIOUS 4.9%) $MACRO
+- 09/15 15:00 [financialjuice] UK AVERAGE EARNINGS (EX-BONUS) ACTUAL 3.5% (FORECAST 3.5%, PREVIOUS 3.5%) $MACRO
+- 09/15 15:00 [financialjuice] NORWEGIAN TRADE BALANCE ACTUAL 100.44B (FORECAST -, PREVIOUS 84.30B) $MACRO
+- 09/15 15:00 [financialjuice] GERMAN WHOLESALE PRICE INDEX YOY ACTUAL 6.8% (FORECAST -, PREVIOUS 5.3%) $MACRO
+- 09/15 15:00 [financialjuice] GERMAN WHOLESALE PRICE INDEX MOM ACTUAL 0.9% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 09/15 15:02 [FirstSquawk] GERMANY (AUG) Wholesale Price Index MoM ACTUAL: 0.9% VS 0.2% PREVIOUS
+- 09/15 15:02 [FirstSquawk] UK (JUL) Average Weekly Earnings 3M/YoY ACTUAL: 3.9% VS 4.1% PREVIOUS;EST 3.9%
+- 09/15 15:02 [FirstSquawk] GERMANY (AUG) Wholesale Price Index YoY ACTUAL: 6.8% VS 5.3% PREVIOUS
+- 09/15 15:02 [FirstSquawk] UK (JUL) Weekly Earnings ex Bonus 3M/YoY ACTUAL: 3.5% VS 3.5% PREVIOUS;EST 3.5%
+- 09/15 15:02 [FirstSquawk] UK (JUL) Private Earnings ex Bonus 3M/YoY ACTUAL: 2.9% VS 2.8% PREVIOUS;EST 2.8%
+- 09/15 15:02 [FirstSquawk] UK (JUL) ILO Unemployment Rate 3Mths ACTUAL: 4.9% VS 4.9% PREVIOUS;EST 4.9%
+- 09/15 15:02 [FirstSquawk] UK (JUL) Employment Change 3M/3M ACTUAL: 66K VS 84K PREVIOUS;EST 67K
+- 09/15 15:02 [FirstSquawk] UK (JUL) Payrolled Employees Monthly Change ACTUAL: -26% VS -13K PREVIOUS;EST -5K
+- 09/15 15:02 [FirstSquawk] NORWAY (AUG) Trade Balance ACTUAL: 100.4B VS 84.3B PREVIOUS
+- 09/15 15:02 [FirstSquawk] UK (JUL) Jobless Claims Change ACTUAL: 27.8k VS -11K PREVIOUS
+- 09/15 15:03 [FirstSquawk] UK (AUG) CLAIMANT COUNT RATE: 4.4% (PREV 4.3%)
+- 09/15 15:04 [FirstSquawk] DAX futures rise 0.10% and Euro Stoxx 50 futures gain 0.02%, while CAC 40 futures slip 0.05% and FTSE futures lose 0.15%.
+- 09/15 15:07 [financialjuice] Japan's Fin. Min. Katayama: We will cut wasteful spending drastically from here
+- 09/15 15:08 [financialjuice] Japan's Fin. Min. Katayama: We will scrutinise budget requests for next fiscal year strictly going forward
+- 09/15 15:11 [financialjuice] Poll: US 30-year mortgage rate to average 6.43% in 2026, 6.40% in 2027 and 6.25% in 2028 (vs 6.3%, 6.2% and 6.0% respectively in Q2 poll)
+- 09/15 15:16 [FirstSquawk] ECB expected to cut policy rates by 25bp in December 2027, according to Morgan Stanley.
+- 09/15 15:22 [FirstSquawk] Yemeni Armed Forces aviation strikes Houthi weapons storage sites in Al-Jawf, Al Arabiya correspondent reports.
+- 09/15 15:23 [FirstSquawk] Al Arabiya: Yemeni Armed Forces carry out airstrikes against Houthi weapons depots near Mount Heilan.

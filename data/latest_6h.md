@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 14:53 JST／対象: 09/15 08:53 〜 09/15 14:53 JST（時刻はすべて日本時間）
+生成: 2026-09-15 15:23 JST／対象: 09/15 09:23 〜 09/15 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 97 | 09/15 08:54 | 09/15 14:49 | 15分（08:55→09:11） |
-| financialjuice | 54 | 09/15 09:04 | 09/15 14:46 | ⚠ 126分（12:09→14:16） |
+| FirstSquawk | 101 | 09/15 09:25 | 09/15 15:23 | 14分（11:14→11:29） |
+| financialjuice | 66 | 09/15 09:27 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 150 行（統合前 151 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 167 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 08:54 [FirstSquawk] JAPAN EARLY TRADE: NIKKEI FUTURES SLIDE 0.46%, WHILE 10-YEAR JGB FUTURES DROP 0.18 POINT.
-- 09/15 08:55 [FirstSquawk] NATO FIGHTER JETS SHOT DOWN A DRONE THAT VIOLATED LITHUANIA'S AIRSPACE OVER KAUNAS COUNTY, PROMPTING AN AIR ALERT AND TEMPORARY FLIGHT RESTRICTIONS AT VILNIUS AIRPORT. THE ALERT AND RESTRICTIONS WERE LIFTED AFTER THE DRONE WAS DESTROYED, WI…
-- 09/15 09:04 [financialjuice] S. KOREAN TRADE BALANCE REVISED ACTUAL 34.79B (FORECAST -, PREVIOUS 34.75B) $MACRO
-- 09/15 09:04 [financialjuice] S. KOREAN EXPORTS REVISED ACTUAL 68.7% (FORECAST -, PREVIOUS 68.7%) $MACRO
-- 09/15 09:04 [financialjuice] S. KOREAN IMPORTS REVISED ACTUAL 22.4% (FORECAST -, PREVIOUS 22.5%) $MACRO
-- 09/15 09:05 [financialjuice] Unisound AI Technology Co releases U2-Flash, next-gen high-density intelligent model
-- 09/15 09:08 [financialjuice/FirstSquawk] Microsoft CEO Satya Nadella urges AI industry to prioritize safety, maintain human control: Business Insider
-- 09/15 09:11 [FirstSquawk] Unisound AI Technology unveils U2-FLASH, a new high-density intelligent model aimed at advancing its next-generation AI capabilities.
-- 09/15 09:11 [FirstSquawk] NVIDIA CEO JENSEN HUANG TOOK A LIVE PHONE CALL FROM DONALD TRUMP DURING AN ON-STAGE PANEL, WITH BOTH REJECTING CALLS TO SLOW ADVANCED AI DEVELOPMENT AND ARGUING THE U.S. MUST MAINTAIN ITS AI LEAD OVER CHINA. HUANG SAID AI SAFETY AND INNOVAT…
-- 09/15 09:11 [FirstSquawk] Microsoft CEO Satya Nadella calls on the AI industry to put safety first and ensure humans remain in control as the technology advances - BI
-- 09/15 09:13 [FirstSquawk] Japan’s heavy reliance on LNG is complicating its response to Putin’s visit to the disputed Kuril Islands, highlighting the tension between energy security and diplomacy.
-- 09/15 09:16 [FirstSquawk] Oil prices climb sharply as global equities slide and government bond yields move higher, signaling renewed pressure across financial markets.
-- 09/15 09:19 [FirstSquawk] Asian markets open weaker after Wall Street’s broad decline, with tech stocks under pressure as investors weigh calls for a slower pace of AI development
-- 09/15 09:20 [FirstSquawk] OpenAI is reportedly training ChatGPT to sound less human-like and reduce sycophantic responses, according to 404 Media.
-- 09/15 09:22 [FirstSquawk] NATO aircraft intercepted and destroyed a drone over Lithuanian territory, President Gitanas Nausėda said, citing AFP.
-- 09/15 09:22 [FirstSquawk] U.S. Supreme Court blocks the Postal Service from imposing new mail-in voting restrictions ahead of the congressional midterms, dealing a setback to the Trump administration - BBG
-- 09/15 09:23 [FirstSquawk] Japan’s long-dated bond yields edge higher as rising energy costs fuel fresh inflation concerns , citing WSJ
 - 09/15 09:25 [FirstSquawk] China pushes back against calls to curb the development of advanced AI, signaling continued momentum behind its technology ambitions.
 - 09/15 09:27 [financialjuice] China PBOC seen setting yuan midpoint at 6.7051 per dollar: estimate
 - 09/15 09:29 [FirstSquawk] ASIAN STOCKS SLIPPED AFTER A SHARP SELLOFF IN US SEMICONDUCTOR SHARES RAISED CONCERNS THAT AI DEVELOPMENT AND SPENDING COULD SLOW. THE MSCI ASIA PACIFIC INDEX FELL 0.1%, WHILE JAPAN AND SOUTH KOREA EDGED LOWER AFTER THE PHILADELPHIA SEMICON…
@@ -174,3 +157,37 @@
 - 09/15 14:46 [financialjuice] South Korea to take steps to stabilize the bond market if needed
 - 09/15 14:47 [FirstSquawk] China steps up exit restrictions as part of broader measures to secure strategic technology.
 - 09/15 14:49 [FirstSquawk] South Korea may introduce measures to calm the bond market if conditions warrant.
+- 09/15 14:57 [financialjuice] Japan's Fin. Min. Katayama: We will not rely on deficit-covering bonds to fund the tax cut
+- 09/15 14:57 [financialjuice] Japan Finance Minister Katayama: We will ensure market credibility by reviewing both spending and revenue
+- 09/15 14:58 [FirstSquawk] Japan's government will avoid using deficit-financing bonds to fund tax reductions, Finance Minister Katayama says.
+- 09/15 14:58 [FirstSquawk] Katayama: Japan will safeguard market confidence by examining both expenditure and revenue.
+- 09/15 14:58 [financialjuice] Japan's Fin. Min. Katayama: We won't issue debt to fund food sales tax cut
+- 09/15 14:58 [financialjuice] Japan finance minister Katayama: Will aim to secure enough funding through efforts to boost non-tax revenue
+- 09/15 15:00 [financialjuice] Japan Finance Minister Katayama: We expect a meaningful level of overshoot in tax revenue
+- 09/15 15:00 [financialjuice] ❗ UK UNEMPLOYMENT CHANGE ACTUAL 27.8K (FORECAST 5K, PREVIOUS -11.0K) $MACRO
+- 09/15 15:00 [financialjuice] UK EMPLOYMENT CHANGE 3M/3M ACTUAL 66K (FORECAST 67K, PREVIOUS 83K) $MACRO
+- 09/15 15:00 [financialjuice] UK AVERAGE WEEKLY EARNINGS YOY ACTUAL 3.9% (FORECAST 3.9%, PREVIOUS 4.1%) $MACRO
+- 09/15 15:00 [financialjuice] ❗ UK EMPLOYMENT CHANGE SA ACTUAL -26K (FORECAST -5K, PREVIOUS -13K) $MACRO
+- 09/15 15:00 [financialjuice] ❗ UK UNEMPLOYMENT RATE ACTUAL 4.9% (FORECAST 4.9%, PREVIOUS 4.9%) $MACRO
+- 09/15 15:00 [financialjuice] UK AVERAGE EARNINGS (EX-BONUS) ACTUAL 3.5% (FORECAST 3.5%, PREVIOUS 3.5%) $MACRO
+- 09/15 15:00 [financialjuice] NORWEGIAN TRADE BALANCE ACTUAL 100.44B (FORECAST -, PREVIOUS 84.30B) $MACRO
+- 09/15 15:00 [financialjuice] GERMAN WHOLESALE PRICE INDEX YOY ACTUAL 6.8% (FORECAST -, PREVIOUS 5.3%) $MACRO
+- 09/15 15:00 [financialjuice] GERMAN WHOLESALE PRICE INDEX MOM ACTUAL 0.9% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 09/15 15:02 [FirstSquawk] GERMANY (AUG) Wholesale Price Index MoM ACTUAL: 0.9% VS 0.2% PREVIOUS
+- 09/15 15:02 [FirstSquawk] UK (JUL) Average Weekly Earnings 3M/YoY ACTUAL: 3.9% VS 4.1% PREVIOUS;EST 3.9%
+- 09/15 15:02 [FirstSquawk] GERMANY (AUG) Wholesale Price Index YoY ACTUAL: 6.8% VS 5.3% PREVIOUS
+- 09/15 15:02 [FirstSquawk] UK (JUL) Weekly Earnings ex Bonus 3M/YoY ACTUAL: 3.5% VS 3.5% PREVIOUS;EST 3.5%
+- 09/15 15:02 [FirstSquawk] UK (JUL) Private Earnings ex Bonus 3M/YoY ACTUAL: 2.9% VS 2.8% PREVIOUS;EST 2.8%
+- 09/15 15:02 [FirstSquawk] UK (JUL) ILO Unemployment Rate 3Mths ACTUAL: 4.9% VS 4.9% PREVIOUS;EST 4.9%
+- 09/15 15:02 [FirstSquawk] UK (JUL) Employment Change 3M/3M ACTUAL: 66K VS 84K PREVIOUS;EST 67K
+- 09/15 15:02 [FirstSquawk] UK (JUL) Payrolled Employees Monthly Change ACTUAL: -26% VS -13K PREVIOUS;EST -5K
+- 09/15 15:02 [FirstSquawk] NORWAY (AUG) Trade Balance ACTUAL: 100.4B VS 84.3B PREVIOUS
+- 09/15 15:02 [FirstSquawk] UK (JUL) Jobless Claims Change ACTUAL: 27.8k VS -11K PREVIOUS
+- 09/15 15:03 [FirstSquawk] UK (AUG) CLAIMANT COUNT RATE: 4.4% (PREV 4.3%)
+- 09/15 15:04 [FirstSquawk] DAX futures rise 0.10% and Euro Stoxx 50 futures gain 0.02%, while CAC 40 futures slip 0.05% and FTSE futures lose 0.15%.
+- 09/15 15:07 [financialjuice] Japan's Fin. Min. Katayama: We will cut wasteful spending drastically from here
+- 09/15 15:08 [financialjuice] Japan's Fin. Min. Katayama: We will scrutinise budget requests for next fiscal year strictly going forward
+- 09/15 15:11 [financialjuice] Poll: US 30-year mortgage rate to average 6.43% in 2026, 6.40% in 2027 and 6.25% in 2028 (vs 6.3%, 6.2% and 6.0% respectively in Q2 poll)
+- 09/15 15:16 [FirstSquawk] ECB expected to cut policy rates by 25bp in December 2027, according to Morgan Stanley.
+- 09/15 15:22 [FirstSquawk] Yemeni Armed Forces aviation strikes Houthi weapons storage sites in Al-Jawf, Al Arabiya correspondent reports.
+- 09/15 15:23 [FirstSquawk] Al Arabiya: Yemeni Armed Forces carry out airstrikes against Houthi weapons depots near Mount Heilan.
