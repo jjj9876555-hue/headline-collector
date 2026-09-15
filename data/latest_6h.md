@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 23:06 JST／対象: 09/15 17:06 〜 09/15 23:06 JST（時刻はすべて日本時間）
+生成: 2026-09-15 23:26 JST／対象: 09/15 17:26 〜 09/15 23:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/15 18:02 | 09/15 23:06 | ⚠ 60分（20:28→21:28） |
-| FirstSquawk | 95 | 09/15 17:07 | 09/15 22:49 | 19分（19:31→19:50） |
-| financialjuice | 43 | 09/15 21:05 | 09/15 23:04 | 13分（21:32→21:45） |
+| DeItaone | 23 | 09/15 18:02 | 09/15 23:25 | ⚠ 60分（20:28→21:28） |
+| FirstSquawk | 106 | 09/15 17:30 | 09/15 23:22 | 19分（19:31→19:50） |
+| financialjuice | 50 | 09/15 21:05 | 09/15 23:25 | 13分（21:32→21:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 156 行（統合前 157 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 175 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 17:07 [FirstSquawk] USD/JPY RISES 0.5% TO 155.08, HITS FRESH ONE-WEEK HIGH
-- 09/15 17:12 [FirstSquawk] EUROPEAN STOCK MARKETS NEED TO GATHER AN ADDITIONAL $5 BILLION FROM INITIAL PUBLIC OFFERINGS (IPOS) BY YEAR-END TO EXCEED LAST YEAR’S TOTAL. THIS WILL BE DIFFICULT.
-- 09/15 17:20 [FirstSquawk] TAIWAN CONFIRMS DUMPING IN KOREAN, CHINA ELECTRICAL STEEL CASE
-- 09/15 17:22 [FirstSquawk] UAE'S KHAZNA, SIEMENS IN MOU TO EXPLORE AI DATA CENTRE TECH
 - 09/15 17:30 [FirstSquawk] SPREAD BETWEEN FRENCH & GERMAN 10-YR BOND YIELDS RISES TO HIGHEST SINCE 2012 AT 98.15, UP 2 BPS
 - 09/15 17:34 [FirstSquawk] ITALY GENERAL GOV DEBT (EUR) JUL: 3.206T (PREVR 3.207T)
 - 09/15 17:41 [FirstSquawk] KUWAIT STRONGLY CONDEMNED HOUTHIS' BALLISTIC-MISSILE AND DRONE ATTACKS IN SAUDI ARABIA'S KHAMIS MUSHAIT, ABHA, AND TAIF, WHICH INJURED MANY CIVILIANS AND DAMAGED HOMES AND CARS.
@@ -179,4 +175,27 @@
 - 09/15 23:01 [financialjuice] META to deploy new in-house Arke chips in first half of 2027. $META $NVDA
 - 09/15 23:01 [financialjuice] ❗ META: Chips will save money and energy compared with Nvidia. $META $NVDA
 - 09/15 23:04 [financialjuice] US Treasury Secretary Bessent asked on 10-Yr yields, blames oil price rise.
-- 09/15 23:06 [DeItaone] *BESSENT, ASKED ON 10-YR YIELDS, BLAMES OIL PRICE RISE
+- 09/15 23:06 [DeItaone/FirstSquawk] *BESSENT, ASKED ON 10-YR YIELDS, BLAMES OIL PRICE RISE
+- 09/15 23:06 [financialjuice] US Treasury Secretary Bessent: We have set the table for a robust economy.
+- 09/15 23:07 [FirstSquawk] META TO ROLL OUT NEXT-GENERATION ASTRID CHIPS AT END OF 2027
+- 09/15 23:07 [FirstSquawk] META SAYS CHIPS WILL SAVE MONEY AND ENERGY COMPARED WITH NVIDIA
+- 09/15 23:07 [FirstSquawk] META TO DEPLOY NEW IN-HOUSE ARKE CHIPS IN FIRST HALF OF 2027
+- 09/15 23:07 [FirstSquawk] META SHARES EXTEND GAIN TO SESSION HIGH, UP 2%
+- 09/15 23:07 [FirstSquawk/DeItaone] BESSENT: 'WE HAVE SET THE TABLE FOR A ROBUST ECONOMY'
+- 09/15 23:09 [FirstSquawk] HONEYWELL AEROSPACE CEO: HAVE ROUGHLY 10 OR SO SUPPLIERS THAT ARE CONSIDERED TO BE ‘CONSTRAINED’
+- 09/15 23:15 [FirstSquawk] DUTCH GOVT TO PROPOSE PLAN FOR CAPITAL GAINS TAX
+- 09/15 23:15 [FirstSquawk] THERMO FISHER EXEC: ORDERS ARE OUTPACING REVENUE, BODES WELL FOR FUTURE GROWTH
+- 09/15 23:17 [FirstSquawk] BESSENT HEARING AT HOUSE DISRUPTED BY ANTI-WAR PROTESTORS
+- 09/15 23:18 [financialjuice] Fear and Greed Index: 31/100 = Fear
+- 09/15 23:18 [FirstSquawk] OPENAI SAYS IT’S WORKING WITH ANTHROPIC, GOOGLE ON AI SAFETY
+- 09/15 23:19 [FirstSquawk] WELLS FARGO SIGNALS STRONG Q3 NIM UPSIDE, SEES RESULTS BEATING GUIDANCE $WFC
+- 09/15 23:19 [financialjuice] OpenAI: We're working with Anthropic, Google on AI safety.
+- 09/15 23:21 [financialjuice] Crypto Fear and Greed Index: 69/100 = Greed
+- 09/15 23:22 [FirstSquawk] BESSENT TOUTS REAL WAGES OUTPACING INFLATION, JOB GAINS
+- 09/15 23:22 [FirstSquawk] BESSENT: NEW `INDUSTRIAL SUPER-CYCLE' IS UNDERWAY
+- 09/15 23:22 [financialjuice] US Treasury Secretary Bessent: A new industrial super-cycle is underway.
+- 09/15 23:22 [FirstSquawk/DeItaone] BESSENT: WE ARE NOW ENDING IRAN THREAT, NOT 'MANAGING' IT
+- 09/15 23:23 [financialjuice] US Treasury Secretary Bessent: We are now ending the Iran threat, not managing it.
+- 09/15 23:24 [DeItaone] U.S. POVERTY FALLS AS INCOMES HIT RECORD HIGH The U.S. poverty rate fell to 10.2% in 2025, while median household income jumped 6% to a record $87,460. A notable improvement in the household economic picture.
+- 09/15 23:25 [financialjuice] The UK, US and the Netherlands issue an advisory exposing spyware used by Iranian state actors to target dissidents, activists, and journalists' - Statement by UK's NCSC.
+- 09/15 23:25 [DeItaone] BESSENT SAYS WE HAVE SEEN SOME FORWARD FACING STATEMENTS FROM UNITED ARAB EMIRATES TO CUT OFF IRAN FINANCES

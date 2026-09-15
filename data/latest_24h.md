@@ -7,47 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 23:06 JST／対象: 09/14 23:06 〜 09/15 23:06 JST（時刻はすべて日本時間）
+生成: 2026-09-15 23:26 JST／対象: 09/14 23:26 〜 09/15 23:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 09/14 23:19 | 09/15 23:06 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 339 | 09/14 23:11 | 09/15 22:49 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 235 | 09/14 23:12 | 09/15 23:04 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 45 | 09/14 23:26 | 09/15 23:25 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 341 | 09/14 23:31 | 09/15 23:22 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 230 | 09/14 23:26 | 09/15 23:25 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 598 行（統合前 620 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 598 行（統合前 618 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 23:11 [FirstSquawk] NASDAQ 100 PARES DROP TO 1%, HAD BEEN DOWN AS MUCH AS 1.7%
-- 09/14 23:12 [financialjuice] Canada's PM Carney: Mutually advantageous deal possible between Canada and US.
-- 09/14 23:12 [financialjuice] Canada's PM Carney: I welcome Trump's comments that a deal could come soon.
-- 09/14 23:13 [financialjuice/FirstSquawk] Canada's PM Carney: Ready to sit down and negotiate deal with the US.
-- 09/14 23:14 [financialjuice/FirstSquawk] Canada's PM Carney: US officials may understand Canada's red lines better.
-- 09/14 23:14 [financialjuice/FirstSquawk] Canada's PM Carney: We'll come to an agreement at some point with the US.
-- 09/14 23:16 [FirstSquawk] CARNEY: TECH STABILITY BOARD SIMILAR TO FSB WOULD MAKE SENSE
-- 09/14 23:16 [FirstSquawk] CARNEY: MUTUALLY ADVANTAGEOUS DEAL POSSIBLE BETWEEN CANADA AND US.
-- 09/14 23:16 [FirstSquawk] CARNEY: READY TO SIT DOWN AND NEGOTIATE DEAL WITH THE US.
-- 09/14 23:16 [FirstSquawk] CARNEY: US OFFICIALS MAY UNDERSTAND CANADA'S RED LINES BETTER.
-- 09/14 23:16 [FirstSquawk] CARNEY: WE'LL COME TO AN AGREEMENT AT SOME POINT WITH THE US.
-- 09/14 23:16 [financialjuice] Canada's PM Carney: There is a huge opportunity for Canada and EU to build prosperity.
-- 09/14 23:17 [financialjuice] Canada's PM Carney: We may see enhanced labor mobility from EU partnership.
-- 09/14 23:17 [financialjuice] Crypto Fear & Greed Index: 57/100 - Greed
-- 09/14 23:18 [financialjuice] Fear & Greed Index: 32/100 - Fear
-- 09/14 23:18 [financialjuice] US September Interest Rate Decision Prep
-- 09/14 23:19 [DeItaone] US 10-YEAR TREASURY YIELD REACHES 5% FOR FIRST TIME SINCE 2023
-- 09/14 23:20 [FirstSquawk] ANTHROPIC REMAINS ON TRACK FOR 2026 IPO
-- 09/14 23:20 [DeItaone] ANTHROPIC STILL EYES 2026 IPO Anthropic is still likely to go public in 2026, despite growing debate over AI safety and regulation, Axios reports. The Claude maker reportedly views public-market transparency as potentially strengthening its…
-- 09/14 23:22 [financialjuice] ❗ Traders fully price four quarter-point ECB hikes by end of 2027.
-- 09/14 23:22 [FirstSquawk] TEN-YEAR TREASURY YIELD HITS 5% FOR FIRST TIME SINCE 2023.
-- 09/14 23:22 [FirstSquawk] TRADERS ANTICIPATE FOUR 0.25% INTEREST RATE INCREASES BY THE EUROPEAN CENTRAL BANK BY THE END OF 2027.
-- 09/14 23:22 [financialjuice] Anthropic IPO won't be slowed by safety uproar - Axios
-- 09/14 23:26 [FirstSquawk/DeItaone/financialjuice] TRADERS FULLY PRICE FIVE QUARTER-POINT BOE HIKES BY END OF 2027
+- 09/14 23:26 [DeItaone/financialjuice] *TRADERS FULLY PRICE FIVE QUARTER-POINT BOE HIKES BY END OF 2027
 - 09/14 23:31 [FirstSquawk] FAA NEEDS MORE FUNDING FROM CONGRESS TO COMPLETE PHASE 1 OF $10.6 BLN AIR TRAFFIC CONTROL REFORM PLAN – RTRS CITING GOVT REPORT
 - 09/14 23:37 [financialjuice] Yemen's Foreign Ministry: Maritime shipping is safe, but Saudi Arabia gravely mistaken if it believes it stays secure after 300 air strikes in past five days - IRIB News
 - 09/14 23:37 [FirstSquawk] JOLIET REFINERY HIT BY TOTAL POWER OUTAGE — 275K BPD CAPACITY AT RISK, FUEL MARKETS UNDER PRESSURE $XOM
@@ -621,4 +598,27 @@
 - 09/15 23:01 [financialjuice] META to deploy new in-house Arke chips in first half of 2027. $META $NVDA
 - 09/15 23:01 [financialjuice] ❗ META: Chips will save money and energy compared with Nvidia. $META $NVDA
 - 09/15 23:04 [financialjuice] US Treasury Secretary Bessent asked on 10-Yr yields, blames oil price rise.
-- 09/15 23:06 [DeItaone] *BESSENT, ASKED ON 10-YR YIELDS, BLAMES OIL PRICE RISE
+- 09/15 23:06 [DeItaone/FirstSquawk] *BESSENT, ASKED ON 10-YR YIELDS, BLAMES OIL PRICE RISE
+- 09/15 23:06 [financialjuice] US Treasury Secretary Bessent: We have set the table for a robust economy.
+- 09/15 23:07 [FirstSquawk] META TO ROLL OUT NEXT-GENERATION ASTRID CHIPS AT END OF 2027
+- 09/15 23:07 [FirstSquawk] META SAYS CHIPS WILL SAVE MONEY AND ENERGY COMPARED WITH NVIDIA
+- 09/15 23:07 [FirstSquawk] META TO DEPLOY NEW IN-HOUSE ARKE CHIPS IN FIRST HALF OF 2027
+- 09/15 23:07 [FirstSquawk] META SHARES EXTEND GAIN TO SESSION HIGH, UP 2%
+- 09/15 23:07 [FirstSquawk/DeItaone] BESSENT: 'WE HAVE SET THE TABLE FOR A ROBUST ECONOMY'
+- 09/15 23:09 [FirstSquawk] HONEYWELL AEROSPACE CEO: HAVE ROUGHLY 10 OR SO SUPPLIERS THAT ARE CONSIDERED TO BE ‘CONSTRAINED’
+- 09/15 23:15 [FirstSquawk] DUTCH GOVT TO PROPOSE PLAN FOR CAPITAL GAINS TAX
+- 09/15 23:15 [FirstSquawk] THERMO FISHER EXEC: ORDERS ARE OUTPACING REVENUE, BODES WELL FOR FUTURE GROWTH
+- 09/15 23:17 [FirstSquawk] BESSENT HEARING AT HOUSE DISRUPTED BY ANTI-WAR PROTESTORS
+- 09/15 23:18 [financialjuice] Fear and Greed Index: 31/100 = Fear
+- 09/15 23:18 [FirstSquawk] OPENAI SAYS IT’S WORKING WITH ANTHROPIC, GOOGLE ON AI SAFETY
+- 09/15 23:19 [FirstSquawk] WELLS FARGO SIGNALS STRONG Q3 NIM UPSIDE, SEES RESULTS BEATING GUIDANCE $WFC
+- 09/15 23:19 [financialjuice] OpenAI: We're working with Anthropic, Google on AI safety.
+- 09/15 23:21 [financialjuice] Crypto Fear and Greed Index: 69/100 = Greed
+- 09/15 23:22 [FirstSquawk] BESSENT TOUTS REAL WAGES OUTPACING INFLATION, JOB GAINS
+- 09/15 23:22 [FirstSquawk] BESSENT: NEW `INDUSTRIAL SUPER-CYCLE' IS UNDERWAY
+- 09/15 23:22 [financialjuice] US Treasury Secretary Bessent: A new industrial super-cycle is underway.
+- 09/15 23:22 [FirstSquawk/DeItaone] BESSENT: WE ARE NOW ENDING IRAN THREAT, NOT 'MANAGING' IT
+- 09/15 23:23 [financialjuice] US Treasury Secretary Bessent: We are now ending the Iran threat, not managing it.
+- 09/15 23:24 [DeItaone] U.S. POVERTY FALLS AS INCOMES HIT RECORD HIGH The U.S. poverty rate fell to 10.2% in 2025, while median household income jumped 6% to a record $87,460. A notable improvement in the household economic picture.
+- 09/15 23:25 [financialjuice] The UK, US and the Netherlands issue an advisory exposing spyware used by Iranian state actors to target dissidents, activists, and journalists' - Statement by UK's NCSC.
+- 09/15 23:25 [DeItaone] BESSENT SAYS WE HAVE SEEN SOME FORWARD FACING STATEMENTS FROM UNITED ARAB EMIRATES TO CUT OFF IRAN FINANCES
