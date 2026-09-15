@@ -7,25 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 02:58 JST／対象: 09/15 02:58 〜 09/16 02:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 03:19 JST／対象: 09/15 03:19 〜 09/16 03:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 57 | 09/15 03:00 | 09/16 02:06 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 370 | 09/15 03:21 | 09/16 02:36 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 228 | 09/15 03:17 | 09/16 02:58 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 57 | 09/15 03:33 | 09/16 03:03 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 379 | 09/15 03:21 | 09/16 03:11 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 231 | 09/15 03:31 | 09/16 03:02 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 639 行（統合前 656 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 649 行（統合前 668 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 03:00 [DeItaone] U.S.-IRAN PHASED DEAL REPORTEDLY IN PLAY Washington may be considering a “phased” agreement with Tehran aimed at ending the U.S.-Iran conflict, according to a Pakistani source cited by ILNA. The source cautioned that Trump’s recent comments…
-- 09/15 03:17 [financialjuice/FirstSquawk] US House Speaker Johnson: Trump will convene with AI executives this week or next.
+- 09/15 03:21 [FirstSquawk] US HOUSE SPEAKER JOHNSON: TRUMP WILL CONVENE WITH AI EXECUTIVES THIS WEEK OR NEXT.
 - 09/15 03:23 [FirstSquawk] SAUDI ARABIA'S KEY EAST-WEST PIPELINE, HIT BY DRONES, COULD REMAIN MOSTLY OFFLINE FOR THREE TO FIVE WEEKS, TIGHTENING GLOBAL SUPPLY AS HOUTHI FORCES EXPAND ALONG RED SEA SHIPPING ROUTES, WITH THE PIPELINE POSSIBLY OPERATING AT REDUCED CAPAC…
 - 09/15 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $101.39 a barrel, up $1.34, 1.34%.
 - 09/15 03:31 [financialjuice] NYMEX Diesel October futures settle at $4.9615 a gallon.
@@ -661,5 +660,16 @@
 - 09/16 02:26 [FirstSquawk] U.S. SENATOR SANDERS CALLS FOR U.S. AND CHINA TO AGREE ON A TREATY TO HALT ADVANCED AI DEVELOPMENT
 - 09/16 02:36 [FirstSquawk] TRUMP SLAMS HIS OWN SUPREME COURT APPOINTEES AFTER THE COURT BLOCKED HIS ADMINISTRATION’S RESTRICTIONS ON MAIL BALLOTS AHEAD OF THE MIDTERM ELECTIONS.
 - 09/16 02:36 [FirstSquawk] TRUMP ACCUSES THE JUSTICES OF BEING “BULLIED AND CAJOLED BY THE RADICAL LEFT” AND SAYS THE SUPREME COURT HAS “REALLY LET OUR COUNTRY DOWN,” ESCALATING HIS ATTACKS ON JUDICIAL RULINGS.
-- 09/16 02:53 [financialjuice] Iranian Army Spokesman: Iran and Pakistan are cooperating to ensure regional security - Tasnim News
+- 09/16 02:53 [financialjuice/FirstSquawk] Iranian Army Spokesman: Iran and Pakistan are cooperating to ensure regional security - Tasnim News
 - 09/16 02:58 [financialjuice] WATCH LIVE: Attorney General Blanche Speaks 2 PM ET
+- 09/16 03:00 [financialjuice] CBO: Annual PCE inflation projection now 0.5 ppt higher in Q1 2027.
+- 09/16 03:01 [financialjuice] CBO: war in Iran cost us $38 billion in first five months.
+- 09/16 03:01 [financialjuice/FirstSquawk] Anthropic's Amodei: The world is only making use of 5% to 10% of current AI.
+- 09/16 03:02 [FirstSquawk] A U.S. CDC SPOKESPERSON SAYS PENNSYLVANIA HEALTH OFFICIALS HAVE NOTIFIED THE CDC OF TWO ADDITIONAL DEATHS INVOLVING INDIVIDUALS WHO HAD MEASLES, ADDING THAT PENNSYLVANIA HAS NOT REQUESTED A CDC EPI-AID, WHICH WOULD DEPLOY EPIDEMIOLOGISTS TO…
+- 09/16 03:02 [FirstSquawk] U.S. AUTO SAFETY AGENCY SAYS TESLA MUST ANSWER QUESTIONS ON THE CERTIFICATION OF THE CYBERCAB BY SEPT. 30 - FILING
+- 09/16 03:02 [FirstSquawk/DeItaone] CBO SAYS THE WAR IN IRAN COST THE U.S. $38 BLN IN THE FIRST FIVE MONTHS, ADDING THAT ITS ANNUAL PCE INFLATION PROJECTION IS NOW 0.5 PERCENTAGE POINT HIGHER FOR Q1 2027
+- 09/16 03:02 [FirstSquawk] CITIGROUP SAYS ITS CREDIT CARD CHARGE-OFFS WERE 2.03% IN AUGUST, WITH THE CREDIT CARD DELINQUENCY RATE AT 1.29% AT AUGUST END - SEC FILING
+- 09/16 03:02 [financialjuice] US Treasury Accepts $500 Million in Long-Dated Debt Buyback US Treasury receives $2.088 billion of offers and accepts $500 million Treasury accepts 6 of 16 eligible issues Buyback targets coupon securities maturing between 2040 and 2056
+- 09/16 03:09 [FirstSquawk] CBO SAYS THE IRAN WAR COST THE U.S. $38 BLN IN THE FIRST FIVE MONTHS, WITH ITS ANNUAL PCE INFLATION PROJECTION NOW 0.5 PERCENTAGE POINT HIGHER FOR Q1 2027
+- 09/16 03:09 [FirstSquawk] U.S. TREASURY RECEIVED $2.088 BLN OF OFFERS FOR ITS DEBT BUYBACK AND ACCEPTED $500 MLN, TAKING 6 OF 16 ELIGIBLE ISSUES, WITH THE BUYBACK TARGETING COUPONS MATURING IN 2040-2056
+- 09/16 03:11 [FirstSquawk] COMMERZBANK CEO AFTER UNICREDIT CEO MEETS GERMAN FINANCE MINISTER: ‘ALIGNED’ WITH THE GOVERNMENT

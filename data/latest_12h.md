@@ -7,51 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 02:58 JST／対象: 09/15 14:58 〜 09/16 02:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 03:19 JST／対象: 09/15 15:19 〜 09/16 03:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 09/15 16:20 | 09/16 02:06 | ⚠ 72分（16:50→18:02） |
-| FirstSquawk | 227 | 09/15 15:02 | 09/16 02:36 | 41分（01:25→02:06） |
-| financialjuice | 127 | 09/15 14:58 | 09/16 02:58 | ⚠ 353分（15:11→21:05） |
+| DeItaone | 51 | 09/15 16:20 | 09/16 03:03 | ⚠ 72分（16:50→18:02） |
+| FirstSquawk | 223 | 09/15 15:22 | 09/16 03:11 | 41分（01:25→02:06） |
+| financialjuice | 116 | 09/15 21:05 | 09/16 03:02 | 35分（01:24→02:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 395 行（統合前 405 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 378 行（統合前 391 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 14:58 [financialjuice] Japan's Fin. Min. Katayama: We won't issue debt to fund food sales tax cut
-- 09/15 14:58 [financialjuice] Japan finance minister Katayama: Will aim to secure enough funding through efforts to boost non-tax revenue
-- 09/15 15:00 [financialjuice] Japan Finance Minister Katayama: We expect a meaningful level of overshoot in tax revenue
-- 09/15 15:00 [financialjuice] ❗ UK UNEMPLOYMENT CHANGE ACTUAL 27.8K (FORECAST 5K, PREVIOUS -11.0K) $MACRO
-- 09/15 15:00 [financialjuice] UK EMPLOYMENT CHANGE 3M/3M ACTUAL 66K (FORECAST 67K, PREVIOUS 83K) $MACRO
-- 09/15 15:00 [financialjuice] UK AVERAGE WEEKLY EARNINGS YOY ACTUAL 3.9% (FORECAST 3.9%, PREVIOUS 4.1%) $MACRO
-- 09/15 15:00 [financialjuice] ❗ UK EMPLOYMENT CHANGE SA ACTUAL -26K (FORECAST -5K, PREVIOUS -13K) $MACRO
-- 09/15 15:00 [financialjuice] ❗ UK UNEMPLOYMENT RATE ACTUAL 4.9% (FORECAST 4.9%, PREVIOUS 4.9%) $MACRO
-- 09/15 15:00 [financialjuice] UK AVERAGE EARNINGS (EX-BONUS) ACTUAL 3.5% (FORECAST 3.5%, PREVIOUS 3.5%) $MACRO
-- 09/15 15:00 [financialjuice] NORWEGIAN TRADE BALANCE ACTUAL 100.44B (FORECAST -, PREVIOUS 84.30B) $MACRO
-- 09/15 15:00 [financialjuice] GERMAN WHOLESALE PRICE INDEX YOY ACTUAL 6.8% (FORECAST -, PREVIOUS 5.3%) $MACRO
-- 09/15 15:00 [financialjuice] GERMAN WHOLESALE PRICE INDEX MOM ACTUAL 0.9% (FORECAST -, PREVIOUS 0.2%) $MACRO
-- 09/15 15:02 [FirstSquawk] GERMANY (AUG) Wholesale Price Index MoM ACTUAL: 0.9% VS 0.2% PREVIOUS
-- 09/15 15:02 [FirstSquawk] UK (JUL) Average Weekly Earnings 3M/YoY ACTUAL: 3.9% VS 4.1% PREVIOUS;EST 3.9%
-- 09/15 15:02 [FirstSquawk] GERMANY (AUG) Wholesale Price Index YoY ACTUAL: 6.8% VS 5.3% PREVIOUS
-- 09/15 15:02 [FirstSquawk] UK (JUL) Weekly Earnings ex Bonus 3M/YoY ACTUAL: 3.5% VS 3.5% PREVIOUS;EST 3.5%
-- 09/15 15:02 [FirstSquawk] UK (JUL) Private Earnings ex Bonus 3M/YoY ACTUAL: 2.9% VS 2.8% PREVIOUS;EST 2.8%
-- 09/15 15:02 [FirstSquawk] UK (JUL) ILO Unemployment Rate 3Mths ACTUAL: 4.9% VS 4.9% PREVIOUS;EST 4.9%
-- 09/15 15:02 [FirstSquawk] UK (JUL) Employment Change 3M/3M ACTUAL: 66K VS 84K PREVIOUS;EST 67K
-- 09/15 15:02 [FirstSquawk] UK (JUL) Payrolled Employees Monthly Change ACTUAL: -26% VS -13K PREVIOUS;EST -5K
-- 09/15 15:02 [FirstSquawk] NORWAY (AUG) Trade Balance ACTUAL: 100.4B VS 84.3B PREVIOUS
-- 09/15 15:02 [FirstSquawk] UK (JUL) Jobless Claims Change ACTUAL: 27.8k VS -11K PREVIOUS
-- 09/15 15:03 [FirstSquawk] UK (AUG) CLAIMANT COUNT RATE: 4.4% (PREV 4.3%)
-- 09/15 15:04 [FirstSquawk] DAX futures rise 0.10% and Euro Stoxx 50 futures gain 0.02%, while CAC 40 futures slip 0.05% and FTSE futures lose 0.15%.
-- 09/15 15:07 [financialjuice] Japan's Fin. Min. Katayama: We will cut wasteful spending drastically from here
-- 09/15 15:08 [financialjuice] Japan's Fin. Min. Katayama: We will scrutinise budget requests for next fiscal year strictly going forward
-- 09/15 15:11 [financialjuice] Poll: US 30-year mortgage rate to average 6.43% in 2026, 6.40% in 2027 and 6.25% in 2028 (vs 6.3%, 6.2% and 6.0% respectively in Q2 poll)
-- 09/15 15:16 [FirstSquawk] ECB expected to cut policy rates by 25bp in December 2027, according to Morgan Stanley.
 - 09/15 15:22 [FirstSquawk] Yemeni Armed Forces aviation strikes Houthi weapons storage sites in Al-Jawf, Al Arabiya correspondent reports.
 - 09/15 15:23 [FirstSquawk] Al Arabiya: Yemeni Armed Forces carry out airstrikes against Houthi weapons depots near Mount Heilan.
 - 09/15 15:24 [FirstSquawk] Houthi infiltration attempt thwarted by Yemeni Armed Forces in Harib, south of Marib, Al Arabiya correspondent says.
@@ -417,5 +389,16 @@
 - 09/16 02:26 [FirstSquawk] U.S. SENATOR SANDERS CALLS FOR U.S. AND CHINA TO AGREE ON A TREATY TO HALT ADVANCED AI DEVELOPMENT
 - 09/16 02:36 [FirstSquawk] TRUMP SLAMS HIS OWN SUPREME COURT APPOINTEES AFTER THE COURT BLOCKED HIS ADMINISTRATION’S RESTRICTIONS ON MAIL BALLOTS AHEAD OF THE MIDTERM ELECTIONS.
 - 09/16 02:36 [FirstSquawk] TRUMP ACCUSES THE JUSTICES OF BEING “BULLIED AND CAJOLED BY THE RADICAL LEFT” AND SAYS THE SUPREME COURT HAS “REALLY LET OUR COUNTRY DOWN,” ESCALATING HIS ATTACKS ON JUDICIAL RULINGS.
-- 09/16 02:53 [financialjuice] Iranian Army Spokesman: Iran and Pakistan are cooperating to ensure regional security - Tasnim News
+- 09/16 02:53 [financialjuice/FirstSquawk] Iranian Army Spokesman: Iran and Pakistan are cooperating to ensure regional security - Tasnim News
 - 09/16 02:58 [financialjuice] WATCH LIVE: Attorney General Blanche Speaks 2 PM ET
+- 09/16 03:00 [financialjuice] CBO: Annual PCE inflation projection now 0.5 ppt higher in Q1 2027.
+- 09/16 03:01 [financialjuice] CBO: war in Iran cost us $38 billion in first five months.
+- 09/16 03:01 [financialjuice/FirstSquawk] Anthropic's Amodei: The world is only making use of 5% to 10% of current AI.
+- 09/16 03:02 [FirstSquawk] A U.S. CDC SPOKESPERSON SAYS PENNSYLVANIA HEALTH OFFICIALS HAVE NOTIFIED THE CDC OF TWO ADDITIONAL DEATHS INVOLVING INDIVIDUALS WHO HAD MEASLES, ADDING THAT PENNSYLVANIA HAS NOT REQUESTED A CDC EPI-AID, WHICH WOULD DEPLOY EPIDEMIOLOGISTS TO…
+- 09/16 03:02 [FirstSquawk] U.S. AUTO SAFETY AGENCY SAYS TESLA MUST ANSWER QUESTIONS ON THE CERTIFICATION OF THE CYBERCAB BY SEPT. 30 - FILING
+- 09/16 03:02 [FirstSquawk/DeItaone] CBO SAYS THE WAR IN IRAN COST THE U.S. $38 BLN IN THE FIRST FIVE MONTHS, ADDING THAT ITS ANNUAL PCE INFLATION PROJECTION IS NOW 0.5 PERCENTAGE POINT HIGHER FOR Q1 2027
+- 09/16 03:02 [FirstSquawk] CITIGROUP SAYS ITS CREDIT CARD CHARGE-OFFS WERE 2.03% IN AUGUST, WITH THE CREDIT CARD DELINQUENCY RATE AT 1.29% AT AUGUST END - SEC FILING
+- 09/16 03:02 [financialjuice] US Treasury Accepts $500 Million in Long-Dated Debt Buyback US Treasury receives $2.088 billion of offers and accepts $500 million Treasury accepts 6 of 16 eligible issues Buyback targets coupon securities maturing between 2040 and 2056
+- 09/16 03:09 [FirstSquawk] CBO SAYS THE IRAN WAR COST THE U.S. $38 BLN IN THE FIRST FIVE MONTHS, WITH ITS ANNUAL PCE INFLATION PROJECTION NOW 0.5 PERCENTAGE POINT HIGHER FOR Q1 2027
+- 09/16 03:09 [FirstSquawk] U.S. TREASURY RECEIVED $2.088 BLN OF OFFERS FOR ITS DEBT BUYBACK AND ACCEPTED $500 MLN, TAKING 6 OF 16 ELIGIBLE ISSUES, WITH THE BUYBACK TARGETING COUPONS MATURING IN 2040-2056
+- 09/16 03:11 [FirstSquawk] COMMERZBANK CEO AFTER UNICREDIT CEO MEETS GERMAN FINANCE MINISTER: ‘ALIGNED’ WITH THE GOVERNMENT
