@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 12:53 JST／対象: 09/14 12:53 〜 09/15 12:53 JST（時刻はすべて日本時間）
+生成: 2026-09-15 13:18 JST／対象: 09/14 13:18 〜 09/15 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 54 | 09/14 16:28 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 317 | 09/14 12:56 | 09/15 12:51 | ⚠ 107分（07:07→08:54） |
+| FirstSquawk | 323 | 09/14 13:29 | 09/15 13:17 | ⚠ 107分（07:07→08:54） |
 | financialjuice | 267 | 09/14 14:07 | 09/15 12:09 | ⚠ 53分（17:16→18:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 611 行（統合前 642 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 617 行（統合前 648 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 12:56 [FirstSquawk] Oil holds onto its opening gains in Asia, keeping energy markets elevated as traders assess the latest supply and geopolitical risks.
-- 09/14 13:05 [FirstSquawk] A Hong Kong lawmaker says Apple should bear responsibility for card fraud involving iPhones, putting fresh scrutiny on the tech giant’s role in consumer payment security.
-- 09/14 13:12 [FirstSquawk] OMANI ENERGY MINISTER: STRAIT OF HORMUZ WILL REOPEN; CURRENT DISRUPTION LIKELY TO BE SHORT-LIVED.
-- 09/14 13:13 [FirstSquawk] The U.S.-backed Luzon corridor in the Philippines is facing growing scrutiny, with questions emerging over whether the initiative is delivering meaningful benefits to local communities.
-- 09/14 13:18 [FirstSquawk] AI-linked stocks tumble in early Asian trading after leaders of major frontier AI companies warn that development may need to slow to limit potential risks to humanity as per reuters
 - 09/14 13:29 [FirstSquawk] Okinawa governor-elect Koja secures more than 400,000 votes, setting a new record in the prefecture’s gubernatorial election.
 - 09/14 13:33 [FirstSquawk] JAPAN INDUSTRIAL PRODUCTION (Y/Y): 3.9% (PREV 4.1%)
 - 09/14 13:33 [FirstSquawk] JAPAN INDUSTRIAL PRODUCTION (M/M) JUL F: 0.2% (PREV 0.1%)
@@ -635,3 +630,14 @@
 - 09/15 12:35 [FirstSquawk] Coinbase climbs on CLARITY Act developments: The bill needs 60 votes to advance, with Republicans releasing a revised draft ahead of Tuesday’s procedural vote.
 - 09/15 12:39 [FirstSquawk] Travel discount bookings open in Japan to support Kumamoto earthquake recovery.
 - 09/15 12:51 [FirstSquawk] Japan’s 20-year government bond auction draws stronger demand, with bid-cover ratio rising to 4.01 from 3.98.
+- 09/15 12:58 [FirstSquawk] HONG KONG’S STOCK MARKET COMES UNDER PRESSURE AS A WAVE OF AI LISTINGS ADDS TO SUPPLY CONCERNS, FT REPORTS.
+- 09/15 13:02 [FirstSquawk] Oxford spin-off develops low-cost jet engines for drones, FT reports.
+- 09/15 13:02 [FirstSquawk] Saudi Arabia faces mounting pressure as Iran’s allies expand their regional push - FT
+- 09/15 13:03 [FirstSquawk] Italian AI cybersecurity start-up Exein raises $270mn to fight hackers with AI, FT reports.
+- 09/15 13:14 [FirstSquawk] Putin postpones a summit over concerns about a Ukrainian drone threat, FT reports.
+- 09/15 13:14 [FirstSquawk] Lagarde’s potential early departure prompts calls for clarity from ECB staff, according to the FT.
+- 09/15 13:15 [FirstSquawk] A landmark $1.6bn IPO could bring millions of Nigerians into equities, FT reports.
+- 09/15 13:15 [FirstSquawk] UK and Japan move to capitalise on Europe’s “Made in Europe” rules for the auto industry, according to the FT.
+- 09/15 13:16 [FirstSquawk] US stocks gain favour with foreign investors as concerns over Treasury debt rise.
+- 09/15 13:16 [FirstSquawk] Metlen warns Europe risks losing its new gallium supply to overseas markets.
+- 09/15 13:17 [FirstSquawk] China may bar citizens from leaving the country for up to three years under tighter travel rules, BBC reports.

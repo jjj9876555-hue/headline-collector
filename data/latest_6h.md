@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-15 12:53 JST／対象: 09/15 06:53 〜 09/15 12:53 JST（時刻はすべて日本時間）
+生成: 2026-09-15 13:18 JST／対象: 09/15 07:18 〜 09/15 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/15 07:36 | 09/15 07:36 | - |
-| FirstSquawk | 71 | 09/15 06:59 | 09/15 12:51 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 58 | 09/15 07:04 | 09/15 12:09 | 34分（07:55→08:29） |
+| FirstSquawk | 78 | 09/15 08:54 | 09/15 13:17 | 15分（08:55→09:11） |
+| financialjuice | 56 | 09/15 07:27 | 09/15 12:09 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 129 行（統合前 130 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 134 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 06:59 [FirstSquawk] ABBOTT LABORATORIES AGREES TO PAY $385 MILLION TO SETTLE U.S. AND STATE CLAIMS OVER POOR MANUFACTURING PRACTICES AT TWO FACILITIES, INCLUDING ITS STURGIS, MICHIGAN INFANT FORMULA PLANT.
-- 09/15 06:59 [FirstSquawk] ABBOTT WILL PAY $348.7 MILLION TO THE U.S. UNDER THE FALSE CLAIMS ACT AND $36.3 MILLION TO SEVERAL STATES, WITHOUT ADMITTING FAULT OR LIABILITY.
-- 09/15 07:01 [FirstSquawk] WTI OIL RISES 0.7% AT THE OPEN AS IRAN REJECTS U.S. TALKS AND A TANKER INCIDENT HEIGHTENS STRAIT OF HORMUZ SUPPLY CONCERNS.
-- 09/15 07:04 [financialjuice] Saudi civil defense issues emergency alert for Khamis Mushait and Abha: state TV
-- 09/15 07:07 [FirstSquawk] SAUDI ARABIA ACTIVATES EMERGENCY ALERTS IN KHAMIS MUSHAIT AND ABHA: STATE TV
-- 09/15 07:08 [financialjuice] Saudi civil defence: danger has passed in Khamis Mushait and Abha - state TV
 - 09/15 07:27 [financialjuice] Colombia congress endorses 2027 budget of 634.9 trillion pesos
 - 09/15 07:36 [DeItaone] *IRAN SAYS NO TALKS WITH US UNTIL ITS CONDITIONS ARE MET *IRAN SAYS NO TALKS WITH US UNTIL ITS CONDITIONS ARE MET *IRAN TOP SECURITY OFFICIAL MOHSEN REZAEE SAYS IN POST ON X *REZAEE: US PRESIDENT SENDS ‘MIXED SIGNALS’ ON NEGOTIATIONS
 - 09/15 07:41 [financialjuice] Google allows all engineers to access Anthropic's Claude - Business Insider
@@ -153,3 +147,14 @@
 - 09/15 12:35 [FirstSquawk] Coinbase climbs on CLARITY Act developments: The bill needs 60 votes to advance, with Republicans releasing a revised draft ahead of Tuesday’s procedural vote.
 - 09/15 12:39 [FirstSquawk] Travel discount bookings open in Japan to support Kumamoto earthquake recovery.
 - 09/15 12:51 [FirstSquawk] Japan’s 20-year government bond auction draws stronger demand, with bid-cover ratio rising to 4.01 from 3.98.
+- 09/15 12:58 [FirstSquawk] HONG KONG’S STOCK MARKET COMES UNDER PRESSURE AS A WAVE OF AI LISTINGS ADDS TO SUPPLY CONCERNS, FT REPORTS.
+- 09/15 13:02 [FirstSquawk] Oxford spin-off develops low-cost jet engines for drones, FT reports.
+- 09/15 13:02 [FirstSquawk] Saudi Arabia faces mounting pressure as Iran’s allies expand their regional push - FT
+- 09/15 13:03 [FirstSquawk] Italian AI cybersecurity start-up Exein raises $270mn to fight hackers with AI, FT reports.
+- 09/15 13:14 [FirstSquawk] Putin postpones a summit over concerns about a Ukrainian drone threat, FT reports.
+- 09/15 13:14 [FirstSquawk] Lagarde’s potential early departure prompts calls for clarity from ECB staff, according to the FT.
+- 09/15 13:15 [FirstSquawk] A landmark $1.6bn IPO could bring millions of Nigerians into equities, FT reports.
+- 09/15 13:15 [FirstSquawk] UK and Japan move to capitalise on Europe’s “Made in Europe” rules for the auto industry, according to the FT.
+- 09/15 13:16 [FirstSquawk] US stocks gain favour with foreign investors as concerns over Treasury debt rise.
+- 09/15 13:16 [FirstSquawk] Metlen warns Europe risks losing its new gallium supply to overseas markets.
+- 09/15 13:17 [FirstSquawk] China may bar citizens from leaving the country for up to three years under tighter travel rules, BBC reports.

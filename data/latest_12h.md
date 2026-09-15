@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-15 12:53 JST／対象: 09/15 00:53 〜 09/15 12:53 JST（時刻はすべて日本時間）
+生成: 2026-09-15 13:18 JST／対象: 09/15 01:18 〜 09/15 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/15 02:25 | 09/15 07:36 | ⚠ 118分（05:37→07:36） |
-| FirstSquawk | 138 | 09/15 00:58 | 09/15 12:51 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 127 | 09/15 01:09 | 09/15 12:09 | 34分（07:55→08:29） |
+| FirstSquawk | 141 | 09/15 01:20 | 09/15 13:17 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 121 | 09/15 01:21 | 09/15 12:09 | 34分（07:55→08:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 264 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 261 行（統合前 273 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 00:58 [FirstSquawk] EU NATIONS AIM TO REQUEST ADDITIONAL FREE CARBON PERMITS FOR INDUSTRY.
-- 09/15 00:58 [FirstSquawk] KLINGBEIL HAD PRODUCTIVE DISCUSSIONS WITH UNICREDIT'S ORCEL.
-- 09/15 00:59 [FirstSquawk] KLINGBEIL STATED THAT FUTURE TALKS WITH COMMERZBANK NEED TO BE CONDUCTED RESPONSIBLY.
-- 09/15 00:59 [FirstSquawk] KLINGBEIL CONFIRMS GERMANY SUPPORTS 40,000 COMMERZBANK EMPLOYEES.
-- 09/15 01:02 [FirstSquawk] ANTHROPIC INTRODUCES CLAUDE AIMED AT FINANCIAL ADVISERS.
-- 09/15 01:02 [FirstSquawk] CLAUDE IS NOW AVAILABLE FOR FINANCIAL ADVISORS.
-- 09/15 01:02 [FirstSquawk] CLAUDE CONNECTS WITH SCHWAB, BLACKROCK, ADDEPAR, AND ORION.
-- 09/15 01:09 [financialjuice] Zelenskyy: Ukraine proposed partners secure agreement with Russia
-- 09/15 01:09 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE SUGGESTED PARTNERS TO REACH A DEAL WITH RUSSIA.
-- 09/15 01:11 [financialjuice] Ukraine’s President Zelenskiy: Ukraine would agree on energy truce if Russia does.
-- 09/15 01:12 [financialjuice] Ukraine’s President Zelenskiy: Ukraine proposed that its partners secure an agreement with Russia that would stop the destruction of critical infrastructure.
-- 09/15 01:13 [financialjuice] Ukraine’s President Zelenskiy: Ukraine ready to ensure a corresponding halt to our strikes.
-- 09/15 01:13 [financialjuice] EU kids act draft calls for fines of up to 6% of global revenue.
-- 09/15 01:13 [financialjuice] Ukraine’s President Zelenskiy: Ukraine is not convinced that Russia is willing to abide by any agreement.
 - 09/15 01:20 [FirstSquawk] ECB'S MACHADO CALLS FOR GREATER TRANSPARENCY IN SYNTHETIC SRTS.
 - 09/15 01:21 [financialjuice] EC Pres. von der Leyen is going to meet with Canada's PM Carney on Wednesday - Spokesperson.
 - 09/15 01:24 [financialjuice] Trump: US producing more weapons than any time in history - Truth Social Post
@@ -288,3 +274,14 @@
 - 09/15 12:35 [FirstSquawk] Coinbase climbs on CLARITY Act developments: The bill needs 60 votes to advance, with Republicans releasing a revised draft ahead of Tuesday’s procedural vote.
 - 09/15 12:39 [FirstSquawk] Travel discount bookings open in Japan to support Kumamoto earthquake recovery.
 - 09/15 12:51 [FirstSquawk] Japan’s 20-year government bond auction draws stronger demand, with bid-cover ratio rising to 4.01 from 3.98.
+- 09/15 12:58 [FirstSquawk] HONG KONG’S STOCK MARKET COMES UNDER PRESSURE AS A WAVE OF AI LISTINGS ADDS TO SUPPLY CONCERNS, FT REPORTS.
+- 09/15 13:02 [FirstSquawk] Oxford spin-off develops low-cost jet engines for drones, FT reports.
+- 09/15 13:02 [FirstSquawk] Saudi Arabia faces mounting pressure as Iran’s allies expand their regional push - FT
+- 09/15 13:03 [FirstSquawk] Italian AI cybersecurity start-up Exein raises $270mn to fight hackers with AI, FT reports.
+- 09/15 13:14 [FirstSquawk] Putin postpones a summit over concerns about a Ukrainian drone threat, FT reports.
+- 09/15 13:14 [FirstSquawk] Lagarde’s potential early departure prompts calls for clarity from ECB staff, according to the FT.
+- 09/15 13:15 [FirstSquawk] A landmark $1.6bn IPO could bring millions of Nigerians into equities, FT reports.
+- 09/15 13:15 [FirstSquawk] UK and Japan move to capitalise on Europe’s “Made in Europe” rules for the auto industry, according to the FT.
+- 09/15 13:16 [FirstSquawk] US stocks gain favour with foreign investors as concerns over Treasury debt rise.
+- 09/15 13:16 [FirstSquawk] Metlen warns Europe risks losing its new gallium supply to overseas markets.
+- 09/15 13:17 [FirstSquawk] China may bar citizens from leaving the country for up to three years under tighter travel rules, BBC reports.
