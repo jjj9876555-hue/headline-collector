@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-15 20:25 JST／対象: 09/14 20:25 〜 09/15 20:25 JST（時刻はすべて日本時間）
+生成: 2026-09-15 20:43 JST／対象: 09/14 20:43 〜 09/15 20:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 46 | 09/14 20:51 | 09/15 19:30 | ⚠ 524分（07:36→16:20） |
-| FirstSquawk | 332 | 09/14 20:31 | 09/15 20:18 | ⚠ 107分（07:07→08:54） |
-| financialjuice | 242 | 09/14 20:30 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
+| DeItaone | 47 | 09/14 20:51 | 09/15 20:28 | ⚠ 524分（07:36→16:20） |
+| FirstSquawk | 333 | 09/14 20:45 | 09/15 20:38 | ⚠ 107分（07:07→08:54） |
+| financialjuice | 239 | 09/14 20:48 | 09/15 15:11 | ⚠ 126分（12:09→14:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 597 行（統合前 624 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 596 行（統合前 623 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/14 20:30 [financialjuice] Intel-backed buildots raises $130M for AI in construction
-- 09/14 20:31 [FirstSquawk] 5.6 MAGNITUDE EARTHQUAKE OCCURS 78 KM NORTH-NORTHEAST OF TOBELO, INDONESIA, ACCORDING TO USGS.
-- 09/14 20:32 [financialjuice] UK's PM Starmer's Spokesman Wells: The PM thinks its good AI companies are being open about risks
-- 09/14 20:32 [FirstSquawk] TEXAS STOCK EXCHANGE ADDS FIFTH COMPANY IN JUST ONE WEEK.
-- 09/14 20:32 [financialjuice] UK's PM Spokesman Wells: Future AI measures will be evidence-based, risk-focused.
-- 09/14 20:39 [FirstSquawk] UK PM BURNHAM `CLEAR-EYED' ABOUT RISKS POSED BY AI: WELLS
 - 09/14 20:45 [FirstSquawk] CHINESE GROUPS ARE SAID TO HAVE PROVIDED IRAN WITH SATELLITE IMAGES OF A U.S. AIR BASE, WHICH IRAN LATER ATTACKED WITH MISSILES, RESULTING IN THE DEATH OF THREE AMERICAN SOLDIERS.
 - 09/14 20:47 [FirstSquawk] GERMANY'S MERZ: SUPPORT EU FUNDING TO BUY ICREBREAKERS
 - 09/14 20:48 [financialjuice] US Senate Minority Leader Schumer demands AI briefing from the Trump administration to the Senate
@@ -621,3 +615,8 @@
 - 09/15 20:07 [FirstSquawk] CPP INVESTMENTS AND BROOKFIELD LAUNCH C$50 BILLION MAPLE FUND TO PURSUE LARGE-SCALE INVESTMENTS ACROSS CANADA
 - 09/15 20:12 [FirstSquawk] TURKISH FOREIGN MINISTER HAKAN FIDAN STATED THAT RECIPROCAL ATTACKS IN THE PERSIAN GULF ARE HAMPERING EFFORTS TO RESOLVE THE US-IRAN WAR AND NEED TO CEASE IMMEDIATELY.
 - 09/15 20:18 [FirstSquawk] AZERBAIJAN GAS EXPORTS FALL 0.5% TO 16.4BCM IN JAN.-AUG.: IFX
+- 09/15 20:26 [FirstSquawk] OIL IS CLOSE TO MONTHLY PEAKS AS EXPORT PATHS IN THE GULF FACE PRESSURE.
+- 09/15 20:28 [DeItaone] OIL RALLY BUILDS AS SUPPLY RISKS MOUNT WTI climbed 1% to $102.40, holding near recent highs as Middle East supply concerns persist. Shipping through the Strait of Hormuz has declined, while Saudi pipeline disruptions and uncertainty over th…
+- 09/15 20:33 [FirstSquawk] RUSSIAN TU-95MS STRATEGIC BOMBERS FLY OVER NEUTRAL WATERS OF BARENTS SEA AND NORWEGIAN SEA - RIA
+- 09/15 20:33 [FirstSquawk] GERMAN CHANCELLOR MERZ: SUPPORT EU PROPOSAL FOR A TRADE ALLIANCE THAT GOES BEYOND THE WTO, WITH A STRONG ROLE FOR THE EU
+- 09/15 20:38 [FirstSquawk] AMERICAN EXPRESS- U.S. SMALL BUSINESS CARD MEMBER LOANS NET WRITE-OFF RATE - PRINCIPAL ONLY 2.2% AT AUG END
