@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 00:25 JST／対象: 09/16 00:25 〜 09/17 00:25 JST（時刻はすべて日本時間）
+生成: 2026-09-17 00:44 JST／対象: 09/16 00:44 〜 09/17 00:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 09/16 00:34 | 09/16 23:46 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 368 | 09/16 00:47 | 09/17 00:24 | 45分（17:00→17:45） |
-| financialjuice | 250 | 09/16 00:34 | 09/17 00:12 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 33 | 09/16 00:50 | 09/17 00:43 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 369 | 09/16 00:47 | 09/17 00:43 | 45分（17:00→17:45） |
+| financialjuice | 247 | 09/16 00:49 | 09/17 00:12 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 638 行（統合前 653 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 637 行（統合前 652 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 00:34 [DeItaone] BESSENT: TREASURY'S BOND BUYBACK INTERVENTION WAS SUCCESSFUL
-- 09/16 00:34 [financialjuice] US Treasury Secretary Bessent: Treasury's bond buyback intervention was successful.
-- 09/16 00:35 [financialjuice] US Treasury Secretary Bessent: We've had two of the most successful Treasury auctions in 20 Yrs, recently
-- 09/16 00:43 [financialjuice] Bessent signals work in process on offsets for $5,000 checks
 - 09/16 00:47 [FirstSquawk] BESSENT RESPONDS TO QUESTIONS ABOUT WHETHER $5,000 CHECKS REQUIRE CONGRESSIONAL APPROVAL.
 - 09/16 00:47 [FirstSquawk] BESSENT SAID GOP'S NOVEMBER WIN WOULD INVOLVE $5,000 CHECKS.
 - 09/16 00:47 [FirstSquawk] US TREASURY SECRETARY BESSENT SAYS AI NEEDS TO BE ADDRESSED FOR INNOVATION AND SAFETY.
@@ -662,3 +658,6 @@
 - 09/17 00:12 [financialjuice] Libya's NOC Chief: We do not anticipate further shutdowns.
 - 09/17 00:20 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time
 - 09/17 00:24 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time - Conditions ‘Currently Normal’, Do Not Anticipate Further Shutdowns
+- 09/17 00:38 [DeItaone] JPMORGAN MAPS FED DAY: STOCKS COULD SWING 2% JPMorgan says Fed communication could determine whether stocks rally or sell off after today’s widely expected 25bp hike. A standard hike with limited guidance could lift the S&P 500 0.25%–0.75%,…
+- 09/17 00:43 [FirstSquawk] ANDY BURNHAM HAS BEEN FORCED TO SCALE BACK HOPES FOR A MAJOR EU RESET AFTER BRUSSELS SIGNALED GREATER INTEREST IN CLOSER TIES WITH CANADA.
+- 09/17 00:43 [DeItaone] STOCKS RISE AS YIELDS RETREAT AHEAD OF FED Global stocks moved higher ahead of today’s Fed rate decision, with markets pricing more than a 90% chance of a 25bp hike. The S&P 500 gained 0.26% and Nasdaq 0.60%, while the 10-year Treasury yiel…
