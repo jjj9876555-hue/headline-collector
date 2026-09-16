@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 18:34 JST／対象: 09/16 06:34 〜 09/16 18:34 JST（時刻はすべて日本時間）
+生成: 2026-09-16 18:52 JST／対象: 09/16 06:52 〜 09/16 18:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/16 07:16 | 09/16 07:16 | - |
-| FirstSquawk | 198 | 09/16 06:39 | 09/16 18:12 | 45分（17:00→17:45） |
-| financialjuice | 101 | 09/16 06:36 | 09/16 18:33 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 198 | 09/16 07:11 | 09/16 18:35 | 45分（17:00→17:45） |
+| financialjuice | 99 | 09/16 06:56 | 09/16 18:33 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 298 行（統合前 301 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 296 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 06:36 [financialjuice] Nvidia CEO Huang to attend U.S. state dinner for China's Xi, source familiar
-- 09/16 06:37 [financialjuice] Kraken investigating issue with Cardano funding gateway, withdrawals may be delayed
-- 09/16 06:39 [FirstSquawk] US WEIGHS BUYING WARSHIPS FROM JAPAN, SOUTH KOREA TO COUNTER CHINA, ACCORDING TO NIKKEI
-- 09/16 06:49 [FirstSquawk] THE U.S. IS PREPARING A $2.8 BILLION WEAPONS PACKAGE FOR ISRAEL, INCLUDING 40,000 HEAVY BOMBS AND 20,000 PENETRATOR WARHEADS, ACCORDING TO AP. THE PROPOSED PACKAGE INCLUDES 20,000 MK-84 2,000-POUND BOMBS, 20,000 BLU-117 BOMBS AND 20,000 I-2…
 - 09/16 06:56 [financialjuice] OpenAI considers funding round at $0.2tn valuation ahead of IPO - FT
 - 09/16 06:57 [financialjuice] OpenAI weighs funding round at $1.2tn valuation before IPO: FT
 - 09/16 07:00 [financialjuice] Kraken investigating issue with base network funding gateway, deposits and withdrawals may be delayed
@@ -322,3 +318,5 @@
 - 09/16 18:23 [financialjuice] Amazon to build over 1k same-day delivery hubs by 2031. Budgets $6.8B for US same day hubs in 2026-27. $AMZN - Insider
 - 09/16 18:33 [financialjuice] GERMAN 30 YR BUND YIELD ACTUAL 3.9% (FORECAST -, PREVIOUS 3.64%) $MACRO
 - 09/16 18:33 [financialjuice] GERMAN 30 YR BUND BID-TO-COVER ACTUAL 2.425 (FORECAST -, PREVIOUS 2.9) $MACRO
+- 09/16 18:35 [FirstSquawk] GERMANY SOLD EUR864 MILLION IN BONDS WITH A 3.4% MATURITY IN 2047, BIDDING COVER RATIO OF 2.4X (DOWN FROM 3.6X), AND AVERAGE YIELD OF 3.88% (UP FROM 3.68%).
+- 09/16 18:35 [FirstSquawk] GERMANY SOLD EUR 1.257 BILLION IN 2056 BONDS AT A 2.9% RATE; BID-TO-COVER RATIO AT 2.4X (DOWN FROM 2.9X); AVERAGE YIELD REACHED 3.90% (UP FROM 3.64%).

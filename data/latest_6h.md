@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 18:34 JST／対象: 09/16 12:34 〜 09/16 18:34 JST（時刻はすべて日本時間）
+生成: 2026-09-16 18:52 JST／対象: 09/16 12:52 〜 09/16 18:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 103 | 09/16 12:38 | 09/16 18:12 | 45分（17:00→17:45） |
+| FirstSquawk | 101 | 09/16 12:55 | 09/16 18:35 | 45分（17:00→17:45） |
 | financialjuice | 41 | 09/16 14:36 | 09/16 18:33 | 40分（15:13→15:53） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 144 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 142 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 12:38 [FirstSquawk] The RBI may raise its policy rate by 25 basis points each in October and December, with inflation potentially moving above 6%, according to the latest outlook. If realized, the two hikes would amount to 50 basis points of tightening, puttin…
-- 09/16 12:38 [FirstSquawk] Japan is tightening enforcement against bicycle traffic violations, but the country still trails many global peers in developing dedicated cycling infrastructure. The gap highlights a key challenge: stricter enforcement is being introduced …
-- 09/16 12:49 [FirstSquawk] Families of Chinese people subjected to wartime forced labor have filed lawsuits against six Japanese companies, Kyodo News reports. The legal action brings longstanding wartime labor issues back into focus and involves claims by relatives …
-- 09/16 12:51 [FirstSquawk] China is tightening border controls with national security increasingly linked to entry and exit rules, as its technology rivalry with the U.S. intensifies. The policy shift brings cross-border movement further into the national-security fr…
 - 09/16 12:55 [FirstSquawk] The average U.S. diesel price has surged to a record $6.30 per gallon, while gasoline has climbed to $4.36. Kalshi expects the average diesel price to reach $7.20 per gallon this year, underscoring the growing pressure on transportation and…
 - 09/16 13:00 [FirstSquawk] Hong Kong leader to accelerate public housing expansion Hong Kong’s leader plans to push forward the development of public housing units as part of efforts to address the city’s housing situation.
 - 09/16 13:00 [FirstSquawk] Hong Kong to deliver 196,000 public housing units within five years Hong Kong’s leader says 196,000 public housing units are expected to be ready over the next five years, as the government steps up efforts to expand housing supply.
@@ -168,3 +164,5 @@
 - 09/16 18:23 [financialjuice] Amazon to build over 1k same-day delivery hubs by 2031. Budgets $6.8B for US same day hubs in 2026-27. $AMZN - Insider
 - 09/16 18:33 [financialjuice] GERMAN 30 YR BUND YIELD ACTUAL 3.9% (FORECAST -, PREVIOUS 3.64%) $MACRO
 - 09/16 18:33 [financialjuice] GERMAN 30 YR BUND BID-TO-COVER ACTUAL 2.425 (FORECAST -, PREVIOUS 2.9) $MACRO
+- 09/16 18:35 [FirstSquawk] GERMANY SOLD EUR864 MILLION IN BONDS WITH A 3.4% MATURITY IN 2047, BIDDING COVER RATIO OF 2.4X (DOWN FROM 3.6X), AND AVERAGE YIELD OF 3.88% (UP FROM 3.68%).
+- 09/16 18:35 [FirstSquawk] GERMANY SOLD EUR 1.257 BILLION IN 2056 BONDS AT A 2.9% RATE; BID-TO-COVER RATIO AT 2.4X (DOWN FROM 2.9X); AVERAGE YIELD REACHED 3.90% (UP FROM 3.64%).
