@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 02:59 JST／対象: 09/16 20:59 〜 09/17 02:59 JST（時刻はすべて日本時間）
+生成: 2026-09-17 03:20 JST／対象: 09/16 21:20 〜 09/17 03:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 09/16 21:33 | 09/17 02:22 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 74 | 09/16 21:03 | 09/17 02:39 | 19分（02:02→02:22） |
-| financialjuice | 91 | 09/16 21:00 | 09/17 02:58 | 35分（00:12→00:47） |
+| DeItaone | 23 | 09/16 21:33 | 09/17 03:18 | ⚠ 72分（01:09→02:22） |
+| FirstSquawk | 83 | 09/16 21:24 | 09/17 03:11 | 21分（02:39→03:00） |
+| financialjuice | 107 | 09/16 21:25 | 09/17 03:08 | 35分（00:12→00:47） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 180 行（統合前 182 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 211 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 21:00 [financialjuice] Secured overnight financing rate 3.64% September 15th vs 3.62% on September 14th
-- 09/16 21:03 [financialjuice] Coreweave brings up a multi-rack NVIDIA Vera Rubin NVL72 cluster $NVDA
-- 09/16 21:03 [FirstSquawk] JAPAN'S DEFENSE MINISTRY INTENDS TO PURCHASE 52,000 DRONES.
-- 09/16 21:03 [FirstSquawk] NOVO AND ANTHROPIC PARTNER TO DEVELOP MEDICATION USING CLAUDE AI TECHNOLOGY.
-- 09/16 21:04 [FirstSquawk] COREWEAVE LAUNCHES MULTI-RACK NVIDIA VERA RUBIN NVL72 CLUSTER.
-- 09/16 21:06 [FirstSquawk] SAUDIS SAY HAVE LEGITIMATE RIGHT TO DEFEND HOLY CITIES
-- 09/16 21:07 [FirstSquawk] SAUDIS CALL ON INTL COMMUNITY FOR FIRM STANCE AGAINST HOUTHIS
-- 09/16 21:07 [financialjuice] Traders no longer fully price in four quarter-point BoE rate hikes
-- 09/16 21:07 [financialjuice] Morning Juice – US Session Prep (16th September)
-- 09/16 21:07 [FirstSquawk] TRADERS NO LONGER FULLY PRICE FOUR QUARTER-POINT BANK OF ENGLAND RATE HIKES
-- 09/16 21:15 [financialjuice] CANADIAN HOUSE STARTS, ANNUALIZED ACTUAL 229.0K (FORECAST 240K, PREVIOUS 229.1K ,REVISION 229.4K) $MACRO
-- 09/16 21:16 [financialjuice] Canadian Housing Starts August Report
 - 09/16 21:24 [FirstSquawk] US WRIGHT: 18M BBL OF OIL WENT THROUGH HORMUZ YESTERDAY
 - 09/16 21:25 [financialjuice] US Energy Secretary Wright: We are looking at using DPA to increase refining capacity.
 - 09/16 21:26 [financialjuice] US Energy Secretary Wright: US oil company to talk Venezuela investment today.
@@ -204,3 +192,46 @@
 - 09/17 02:50 [financialjuice] Societe Generale's Rajappa: If Warsh sounds dovish, could see long end sell off.
 - 09/17 02:56 [financialjuice] JPMorgan's Michele: Funded long-end purchases with cash.
 - 09/17 02:58 [financialjuice] The US probes Iran link to cyberattacks on Texas-bound tankers - WSJ.
+- 09/17 02:59 [financialjuice] SocGen's Rajappa: I feel like Warsh will keep the Jackson Hole messaging.
+- 09/17 03:00 [DeItaone] FED RAISES RATES 25 BPS TO 3.75%-4.00% TARGET RANGE
+- 09/17 03:00 [financialjuice] ‼ BREAKING: US INTEREST RATE DECISION ACTUAL 4% (FORECAST 4%, PREVIOUS 3.75%) $MACRO
+- 09/17 03:00 [financialjuice] Fed: Job gains have kept pace with the workforce, unemployment rate has changed little.
+- 09/17 03:00 [DeItaone] *FOMC MEDIAN FORECAST SHOWS ONE ADDITIONAL 25 BPS HIKE IN 2026
+- 09/17 03:00 [FirstSquawk] U.S. (SEP) FED INTEREST RATE DECISION ACTUAL: 4.00% VS 3.75% PREVIOUS; EST 4.00%
+- 09/17 03:00 [financialjuice] ❗ Fed: Vote in favor of policy was unanimous.
+- 09/17 03:00 [DeItaone] *FED UNANIMOUSLY RAISES BENCHMARK RATE 25 BPS TO 3.75%-4% RANGE
+- 09/17 03:00 [DeItaone] *FED: RATE HIKE WILL SUPPORT `TIMELIER' RETURN TO 2% INFLATION
+- 09/17 03:01 [financialjuice] ❗ Fed Policymakers see 4.1% unemployment rate at end of 2026 versus 4.3% in June projections.
+- 09/17 03:01 [financialjuice] FED MEDIAN RATE FORECAST (LONG RUN) ACTUAL 3.25% (FORECAST 3.125%, PREVIOUS 3.063%) $MACRO
+- 09/17 03:01 [financialjuice] FED MEDIAN RATE FORECAST (NEXT YR) ACTUAL 4.125% (FORECAST 3.875%, PREVIOUS 3.625%) $MACRO
+- 09/17 03:01 [financialjuice] FED MEDIAN RATE FORECAST (NEXT 2 YRS) ACTUAL 3.875% (FORECAST 3.625%, PREVIOUS 3.375%) $MACRO
+- 09/17 03:01 [financialjuice] FED MEDIAN RATE FORECAST (NEXT 3 YRS) ACTUAL 3.625% (FORECAST 3.375%, PREVIOUS -) $MACRO
+- 09/17 03:01 [financialjuice] ❗ FED MEDIAN RATE FORECAST (CURRENT) ACTUAL 4.125% (FORECAST 4.125%, PREVIOUS 3.75%) $MACRO
+- 09/17 03:01 [financialjuice] ❗ Fed Policymakers see end-2026 PCE inflation at 3.7% versus 3.6% in June; core seen at 3.4% versus 3.3%.
+- 09/17 03:01 [financialjuice] ❗ Fed Policymakers see 2.3% GDP growth in 2026 versus 2.2% in June, see longer-run growth at 2.0% vs 2.0% in June.
+- 09/17 03:01 [financialjuice] Fed: Inflation remains elevated, drops earlier description of that owing in part to supply shocks.
+- 09/17 03:01 [financialjuice] Fed: Domestic spending has been resilient despite elevated uncertainty.
+- 09/17 03:02 [financialjuice] Fed: Productivity growth is strong, capital investment is robust.
+- 09/17 03:02 [financialjuice] ❗ Fed: 16 officials project at least one more rate hike in 2026.
+- 09/17 03:02 [financialjuice] ❗ Fed Officials' median view of the Fed funds rate at end-2029 3.6%.
+- 09/17 03:03 [FirstSquawk] FEDERAL RESERVE HAS RAISED ITS KEY OVERNIGHT INTEREST RATE BY 25 BASIS POINTS TO A 3.75%-4.00% RANGE, SAYING THE ACTION WILL SUPPORT A TIMELIER RETURN TO ITS 2% INFLATION GOAL, WITH THE VOTE UNANIMOUS.
+- 09/17 03:03 [FirstSquawk] FED SAYS ECONOMIC ACTIVITY IS EXPANDING AT A SOLID PACE, DOMESTIC SPENDING HAS BEEN RESILIENT DESPITE ELEVATED UNCERTAINTY, JOB GAINS HAVE KEPT PACE WITH THE WORKFORCE, AND INFLATION REMAINS ELEVATED — DROPPING ITS EARLIER DESCRIPTION OF TH…
+- 09/17 03:03 [FirstSquawk] FED SAYS PRODUCTIVITY GROWTH IS STRONG AND CAPITAL INVESTMENT IS ROBUST, ADDING THAT THE COMMITTEE 'WILL DELIVER PRICE STABILITY'.
+- 09/17 03:03 [financialjuice] Fed Rate Statement
+- 09/17 03:04 [financialjuice] FOMC September SEP
+- 09/17 03:04 [financialjuice] ❗ Fed Projections show 12 of 18 officials see one more 25-basis-point rate hike this year; four see two hikes; two see no more hikes.
+- 09/17 03:05 [FirstSquawk] U.S. DOLLAR INDEX RISES 0.15% TO 99.83 AFTER THE FED DECISION, WHILE STERLING FALLS 0.33% TO $1.3432 AND THE EURO DROPS 0.21% TO $1.1517.
+- 09/17 03:05 [FirstSquawk] DOLLAR/YEN GAINS 0.1% TO 155.24 AS THE DOLLAR STRENGTHENS ACROSS MAJOR CURRENCIES FOLLOWING THE FED’S DECISION.
+- 09/17 03:05 [DeItaone] FOMC RAISES RATES 25 BPS TO 3.75%-4%; VOTE 12-0 12 FOMC MEMBERS SEE RATES AT 4.1% BY END-2026 FED: HIKE WILL SUPPORT TIMELIER RETURN TO 2% INFLATION 4 MEMBERS SEE RATES AT 4.4% BY DEC, 2 SEE RATES AT 3.9% MEDIAN FED FUNDS RATE PROJECTION 4.…
+- 09/17 03:06 [FirstSquawk] FED MEDIAN RATE FORECAST RISES TO 4.125% FOR NEXT YEAR, 3.875% FOR TWO YEARS AND 3.625% FOR THREE YEARS, ALL ABOVE PREVIOUS FORECASTS.
+- 09/17 03:06 [FirstSquawk] FED’S LONG-RUN RATE FORECAST ALSO RISES TO 3.25% FROM 3.063%, SIGNALING HIGHER EXPECTED RATES OVER THE LONGER TERM.
+- 09/17 03:06 [financialjuice/FirstSquawk] ❗ Traders maintain bets on another Fed rate hike this year
+- 09/17 03:07 [FirstSquawk] FED PROJECTIONS SHOW 12 OF 18 OFFICIALS SEE ONE MORE 25-BASIS-POINT RATE HIKE THIS YEAR, FOUR SEE TWO HIKES, AND TWO SEE NO MORE HIKES.
+- 09/17 03:07 [FirstSquawk] 16 FED OFFICIALS PROJECT AT LEAST ONE MORE RATE HIKE IN 2026, WHILE THE MEDIAN FED FUNDS RATE FORECAST FOR END-2029 IS 3.6%.
+- 09/17 03:08 [financialjuice] Pimco's Clarida: I think it is important it was a unanimous decision
+- 09/17 03:08 [FirstSquawk] FED OFFICIALS RAISE THEIR MEDIAN FED FUNDS RATE FORECAST TO 4.1% AT END-2026, 4.1% AT END-2027 AND 3.9% AT END-2028, UP FROM 3.8%, 3.6% AND 3.4%, RESPECTIVELY.
+- 09/17 03:08 [FirstSquawk] FED POLICYMAKERS SEE 2026 PCE INFLATION AT 3.7%, CORE PCE AT 3.4%, GDP GROWTH AT 2.3% AND UNEMPLOYMENT AT 4.1%, WHILE 12 OF 18 OFFICIALS EXPECT ONE MORE 25-BASIS-POINT HIKE THIS YEAR.
+- 09/17 03:09 [DeItaone] FED SIGNALS ANOTHER HIKE FOMC median projections show one additional 25bps rate hike in 2026, while prediction markets are now pricing roughly 1.9 hikes for the year. https://t.co/18T2aU5OMr https://t.co/JzuBE9S8Zz
+- 09/17 03:10 [FirstSquawk] GOLDMAN SACHS CEO SEES ASSET & WEALTH MANAGEMENT GROWTH OUTPACING HIGH-SINGLE-DIGIT TARGET
+- 09/17 03:11 [FirstSquawk] US STOCKS HOLD GAINS POST-FED HIKE; NASDAQ +0.6%, S&P 500 +0.2%, CHIP INDEX +1.9%
+- 09/17 03:18 [DeItaone] FED DOT PLOT DELIVERS HAWKISH HIGHER-FOR-LONGER SIGNAL The Fed’s new Dot Plot shows 12 of 18 officials expect another 25bp hike by year-end, taking rates to 4.125%, while four see rates reaching 4.375%. The hawkish signal extends well beyon…
