@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 14:05 JST／対象: 09/16 08:05 〜 09/16 14:05 JST（時刻はすべて日本時間）
+生成: 2026-09-16 14:24 JST／対象: 09/16 08:24 〜 09/16 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 119 | 09/16 08:13 | 09/16 14:03 | 12分（08:29→08:41） |
-| financialjuice | 43 | 09/16 08:07 | 09/16 10:21 | 22分（08:51→09:13） |
+| FirstSquawk | 115 | 09/16 08:26 | 09/16 14:23 | 12分（08:29→08:41） |
+| financialjuice | 42 | 09/16 08:25 | 09/16 10:21 | 22分（08:51→09:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 157 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 08:07 [financialjuice] Meta's Zuckerberg: every lab must have the duty and motivation to advance at the speed needed to train its models securely
-- 09/16 08:13 [FirstSquawk] THE HOUSE VOTED 232-147 TO BLOCK REP. AL GREEN'S ATTEMPT TO IMPEACH TRUMP, MARKING THE THIRD FAILED IMPEACHMENT PUSH IN TWO YEARS
-- 09/16 08:13 [FirstSquawk] NVIDIA CEO JENSEN HUANG SAYS THE IDEA THAT 'AI IS GOING TO DESTROY JOBS' IS 'COMPLETELY NONSENSE'
-- 09/16 08:13 [FirstSquawk] U.S. SECRETARY OF STATE MARCO RUBIO SAYS THE SOUTH AFRICAN PEOPLE 'ARE BEING FAILED BY A GOVERNMENT THAT IS DESTROYING ITS ECONOMY THROUGH AN OBSESSIVE PURSUIT OF RACIAL GRIEVANCE AGAINST THE AFRIKANER MINORITY', ACCUSING THE GOVERNMENT OF …
-- 09/16 08:13 [FirstSquawk] U.S. SECRETARY OF STATE MARCO RUBIO SAYS HE IS ANNOUNCING A NEW VISA RESTRICTION POLICY TARGETING FOREIGN NATIONALS 'WHO ENACT OR ENABLE POLICIES THAT PROMOTE RACE-BASED DISCRIMINATION, INCITE VIOLENCE, OR ENABLE LAND CONFISCATION WITHOUT C…
-- 09/16 08:18 [FirstSquawk] RELIANCE WORLDWIDE CORPORATION HAS ENTERED A SCHEME IMPLEMENTATION DEED WITH BROOKFIELD CAPITAL PARTNERS, UNDER WHICH BROOKFIELD WILL BUY 100% OF RWC FOR $3.38 CASH PER SHARE, REFLECTING AN ENTERPRISE VALUE OF $2.9 BLN AND AN EV/FY26 EBITDA…
-- 09/16 08:18 [FirstSquawk] RELIANCE WORLDWIDE SAYS IT MAY SOLICIT ALTERNATIVE PROPOSALS UNTIL 15 OCTOBER 2026 UNDER A 'GO SHOP' PROVISION, WITH THE SCHEME EXPECTED TO BE IMPLEMENTED IN Q1 2027.
-- 09/16 08:18 [FirstSquawk] PENTAGON IS ASKING COMMANDERS TO NOMINATE TROOPS FOR PETE HEGSETH'S SEPT. 30 'STATE OF THE FORCE' ADDRESS, WITH CANDIDATES REQUIRED TO MEET FITNESS, WAIST-TO-HEIGHT, GROOMING AND UNIFORM STANDARDS. - WSJ
-- 09/16 08:18 [FirstSquawk] SELECTED SERVICEMEMBERS MUST ALSO BE TOP PERFORMERS WITH STRONG LEADERSHIP RECORDS AND MAY HAVE THE OPPORTUNITY TO WORK OUT WITH HEGSETH - WSJ
 - 09/16 08:25 [financialjuice] Saudi-led coalition in Yemen: air defences intercepted and destroyed Houthi drone trying to enter Mecca airspace
 - 09/16 08:26 [FirstSquawk] GLENCORE ACCUSES RADIANT WORLD AND RELATED COMPANIES OF SUBMITTING FALSIFIED INVOICES, CONTRACTS AND FABRICATED EMAILS, SAYING IT HAS ENDED ALL BUSINESS WITH RADIANT WORLD AND SAPPHIRE MINMETALS. RADIANT WORLD AND SAPPHIRE MINMETALS SAY THE…
 - 09/16 08:28 [financialjuice] Saudi-led coalition in Yemen: drone launched by Houthis intercepted before entering restricted airspace around Mecca
@@ -186,3 +177,7 @@
 - 09/16 13:56 [FirstSquawk] NTT Docomo gave user data to Amazon Japan without consent: Kyodo Japan’s NTT Docomo provided user data to Amazon Japan’s local arm without obtaining users’ consent, according to Kyodo News.
 - 09/16 13:58 [FirstSquawk] Explosions reported in Kyiv, Ukrainian media says Ukrainian media reported sounds of explosions in Kyiv, without providing further details on the cause or location. The reports come amid continued security tensions in Ukraine, with authorit…
 - 09/16 14:03 [FirstSquawk] Equinor expects EU gas inventories to reach around 75% by November Equinor expects European Union gas storage inventories to reach around 75% of capacity by November, highlighting its outlook for regional gas supplies.
+- 09/16 14:10 [FirstSquawk] Polish airports in Lublin and Rzeszów closed amid military aviation operations Airports in Lublin and Rzeszów have been closed due to military aviation operations, Poland’s air navigation services agency PANSA said. The closures affect air …
+- 09/16 14:14 [FirstSquawk] Berenberg raises BioNTech target price to $140 from $132
+- 09/16 14:21 [FirstSquawk] 20-year JGB yield falls 3 bps to 3.855%
+- 09/16 14:23 [FirstSquawk] French utility EDF will reduce output at its Bugey 2 nuclear reactor to 180 MW from 00:15 to 22:00 on September 17, 2026.

@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 14:05 JST／対象: 09/16 02:05 〜 09/16 14:05 JST（時刻はすべて日本時間）
+生成: 2026-09-16 14:24 JST／対象: 09/16 02:24 〜 09/16 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/16 02:06 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 203 | 09/16 02:06 | 09/16 14:03 | 37分（04:18→04:56） |
-| financialjuice | 108 | 09/16 02:07 | 09/16 10:21 | 38分（05:04→05:43） |
+| DeItaone | 7 | 09/16 03:03 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 193 | 09/16 02:25 | 09/16 14:23 | 37分（04:18→04:56） |
+| financialjuice | 101 | 09/16 02:53 | 09/16 10:21 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 309 行（統合前 321 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 295 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 02:06 [DeItaone] U.S. 20-YEAR TREASURY YIELD HITS 5.42% The Treasury’s $13 billion 20-year bond auction cleared at a high yield of 5.420%, highlighting elevated long-term borrowing costs. Demand remained solid, with a 2.57 bid-to-cover ratio, while indirect…
-- 09/16 02:06 [FirstSquawk] AMAZON HAS LAUNCHED A FIVE-SERVICE STREAMING BUNDLE ON PRIME VIDEO IN THE U.S. FOR $29.99/MONTH STARTING SEPT. 15, 2026, COMBINING AMC+, BRITBOX, MGM+, PBS MASTERPIECE AND STARZ - WEBSITE
-- 09/16 02:07 [financialjuice] US prepares sale of 2,000-pound bombs to Israel - WaPo
-- 09/16 02:07 [FirstSquawk] U.S. 20-YEAR BOND SALE DREW A HIGH YIELD OF 5.420%, UP FROM 5.204% PREVIOUSLY AND ABOVE THE 5.40% WHEN-ISSUED LEVEL, WITH A BID-TO-COVER RATIO OF 2.57 VERSUS 2.53. DIRECT BIDDERS TOOK 30.7% VERSUS 24.6% PREVIOUSLY, WITH INDIRECT BIDDERS AT …
-- 09/16 02:07 [financialjuice/FirstSquawk] Israel's Chief of Staff met with military commanders from Gulf countries - Israel's N12 News
-- 09/16 02:08 [FirstSquawk] U.S. IS PREPARING A SALE OF 2,000-POUND BOMBS TO ISRAEL - WAPO
-- 09/16 02:08 [financialjuice/FirstSquawk] Germany’s Chancellor Merz cancels trip to New York next week. To remain in Berlin - Govt Officials
-- 09/16 02:12 [FirstSquawk] GOOGLE SAYS INTRODUCING GEMINI 3.8 LIVE AND 3.8 LIVE EXTENDED THINKING, AS PER WEBSITE
-- 09/16 02:13 [financialjuice] IAEA Spokesperson Kamalvandi: Iran will not surrender. our nuclear program is peaceful.
-- 09/16 02:13 [FirstSquawk] OIL FUTURES EXTEND GAINS, WITH U.S. CRUDE UP BY $5 A BARREL AS SAUDI ARABIA CANCELS SOME OIL CARGOES AND SUSPENDS LOADINGS AT YANBU AFTER THE PIPELINE HIT
-- 09/16 02:14 [FirstSquawk] GOOGLE SAYS PARTNERING WITH COMPANIES LIKE SALESFORCE, GENSPARK, AND LUMERIS FOR 3.8 LIVE AND 3.8 LIVE EXTENDED THINKING
-- 09/16 02:14 [FirstSquawk] IAEA SPOKESPERSON KAMALVANDI SAYS 'IRAN WILL NOT SURRENDER' AND THAT 'OUR NUCLEAR PROGRAM IS PEACEFUL'
-- 09/16 02:19 [financialjuice] Israel helping Saudi Arabia with intelligence is aimed at ensuring freedom of navigation in the Bab al-Mandab Strait - Israel's Kan News citing foreign source
-- 09/16 02:19 [FirstSquawk] ISRAEL HELPING SAUDI ARABIA WITH INTELLIGENCE IS AIMED AT ENSURING FREEDOM OF NAVIGATION IN THE BAB AL-MANDAB STRAIT - ISRAEL'S KAN NEWS, CITING A FOREIGN SOURCE
-- 09/16 02:20 [financialjuice/FirstSquawk] Canada's Resources Minister Tim Hodgson: Canada aiming to complete energy-, mining-project reviews within 12 months.
-- 09/16 02:20 [financialjuice/FirstSquawk] Canada's Resources Minister Tim Hodgson: Canada tax changes to serve as investment ‘motivator’ in commodity sector.
-- 09/16 02:23 [FirstSquawk] U.S. SENATOR SANDERS CALLS FOR MANDATORY SAFETY REGULATIONS FOR AI DEVELOPMENT INSTEAD OF JUST SUGGESTIONS
-- 09/16 02:24 [FirstSquawk] U.S. SENATOR SANDERS CALLS ON AI CEOS TO STOP FUNDING POLITICIANS WHO OPPOSE REGULATIONS
 - 09/16 02:25 [FirstSquawk] OPENAI IS EXPLORING DATA CENTER PARTNERSHIPS IN CANADA, CITING THE COUNTRY'S ABUNDANT ENERGY, LAND AND GROWING AI INFRASTRUCTURE OPPORTUNITIES UNDER PRIME MINISTER MARK CARNEY'S STRATEGY.
 - 09/16 02:25 [FirstSquawk] OPENAI EXECUTIVE GEORGE OSBORNE CALLED CARNEY'S AI ADOPTION STRATEGY ONE OF THE CLEAREST AMONG WESTERN GOVERNMENTS, SIGNALING CANADA COULD BECOME A KEY MARKET FOR FUTURE AI INVESTMENT.
 - 09/16 02:26 [FirstSquawk] U.S. SENATOR SANDERS CALLS FOR U.S. AND CHINA TO AGREE ON A TREATY TO HALT ADVANCED AI DEVELOPMENT
@@ -333,3 +315,7 @@
 - 09/16 13:56 [FirstSquawk] NTT Docomo gave user data to Amazon Japan without consent: Kyodo Japan’s NTT Docomo provided user data to Amazon Japan’s local arm without obtaining users’ consent, according to Kyodo News.
 - 09/16 13:58 [FirstSquawk] Explosions reported in Kyiv, Ukrainian media says Ukrainian media reported sounds of explosions in Kyiv, without providing further details on the cause or location. The reports come amid continued security tensions in Ukraine, with authorit…
 - 09/16 14:03 [FirstSquawk] Equinor expects EU gas inventories to reach around 75% by November Equinor expects European Union gas storage inventories to reach around 75% of capacity by November, highlighting its outlook for regional gas supplies.
+- 09/16 14:10 [FirstSquawk] Polish airports in Lublin and Rzeszów closed amid military aviation operations Airports in Lublin and Rzeszów have been closed due to military aviation operations, Poland’s air navigation services agency PANSA said. The closures affect air …
+- 09/16 14:14 [FirstSquawk] Berenberg raises BioNTech target price to $140 from $132
+- 09/16 14:21 [FirstSquawk] 20-year JGB yield falls 3 bps to 3.855%
+- 09/16 14:23 [FirstSquawk] French utility EDF will reduce output at its Bugey 2 nuclear reactor to 180 MW from 00:15 to 22:00 on September 17, 2026.
