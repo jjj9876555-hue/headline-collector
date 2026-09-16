@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 19:44 JST／対象: 09/16 07:44 〜 09/16 19:44 JST（時刻はすべて日本時間）
+生成: 2026-09-16 19:58 JST／対象: 09/16 07:58 〜 09/16 19:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/16 19:06 | 09/16 19:25 | 19分（19:06→19:25） |
-| FirstSquawk | 204 | 09/16 07:51 | 09/16 19:41 | 45分（17:00→17:45） |
-| financialjuice | 91 | 09/16 07:45 | 09/16 19:01 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 206 | 09/16 08:13 | 09/16 19:56 | 45分（17:00→17:45） |
+| financialjuice | 90 | 09/16 08:07 | 09/16 19:52 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 297 行（統合前 298 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 297 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 07:45 [financialjuice] NEW ZEALAND CURRENT ACCOUNT QOQ ACTUAL -1.67B (FORECAST -2.6B, PREVIOUS -1.008B) $MACRO
-- 09/16 07:45 [financialjuice] NZ year to June current account deficit NZ$-14.583 billion vs Poll NZ$-17.523 billion
-- 09/16 07:45 [financialjuice] NZ Q2 seasonally adjusted current account deficit NZ$3.77 billion
-- 09/16 07:45 [financialjuice] NZ year to June current account deficit estimated at -3.2% of GDP (poll: -3.9%)
-- 09/16 07:45 [financialjuice] New Zealand Q2 current account deficit NZ$1.67 billion vs Poll NZ$2.571 billion
-- 09/16 07:51 [FirstSquawk] NEW ZEALAND'S Q2 CURRENT ACCOUNT SHOWED A DEFICIT OF NZ$1.67 BLN, NARROWER THAN THE FORECAST NZ$2.6 BLN DEFICIT, WITH THE YEAR-TO-JUNE DEFICIT AT NZ$14.583 BLN VERSUS A POLL OF NZ$17.523 BLN
-- 09/16 07:51 [FirstSquawk] NEW ZEALAND'S Q2 CURRENT ACCOUNT SHOWED A DEFICIT OF NZ$1.67 BLN, NARROWER THAN THE POLL OF NZ$2.571 BLN, WITH THE SEASONALLY ADJUSTED DEFICIT AT NZ$3.77 BLN AND THE YEAR-TO-JUNE DEFICIT ESTIMATED AT -3.2% OF GDP VERSUS A POLL OF -3.9%
 - 09/16 08:07 [financialjuice] Meta's Zuckerberg: every lab must have the duty and motivation to advance at the speed needed to train its models securely
 - 09/16 08:13 [FirstSquawk] THE HOUSE VOTED 232-147 TO BLOCK REP. AL GREEN'S ATTEMPT TO IMPEACH TRUMP, MARKING THE THIRD FAILED IMPEACHMENT PUSH IN TWO YEARS
 - 09/16 08:13 [FirstSquawk] NVIDIA CEO JENSEN HUANG SAYS THE IDEA THAT 'AI IS GOING TO DESTROY JOBS' IS 'COMPLETELY NONSENSE'
@@ -321,3 +314,10 @@
 - 09/16 19:37 [FirstSquawk] LME TO ROLL OUT ELECTRONIC OPTIONS FROM MARCH 30 2027, MARKET TEST ENVIRONMENT AVAILABLE FROM OCTOBER 19 2026
 - 09/16 19:41 [FirstSquawk] RUSSIAN DEFENCE MINISTRY: RUSSIAN WARSHIP FIRED TWO RED SIGNAL FLARES TOWARD A DANISH HELICOPTER TO PREVENT 'PROVOCATION' - TASS
 - 09/16 19:41 [FirstSquawk] EU PLANS TO PROHIBIT SOCIAL MEDIA FOR KIDS UNDER 13 AND LIMIT TECHNOLOGY AND AI SERVICES FOR OLDER CHILDREN.
+- 09/16 19:47 [FirstSquawk] YEMEN'S HOUTHI REBELS, SUPPORTED BY IRAN, HAVE INCREASED THEIR THREAT TO SAUDI SHIPPING BY TAKING CONTROL OF THE IMPORTANT GREATER AND LESSER HANISH ISLANDS, ACCORDING TO GOVERNMENT AND HOUTHI SOURCES ON MONDAY.
+- 09/16 19:51 [FirstSquawk] GOLD MINE COLLAPSE IN SUDAN RESULTS IN AT LEAST 67 DEATHS, REPORTS FROM A MEDICAL ORGANIZATION AND SURVIVORS CONFIRM.
+- 09/16 19:52 [financialjuice] UK PM Burnham: Inflation is a concern, but the UK economy is showing resilience
+- 09/16 19:52 [financialjuice] UK PM Burnham: Chancellor and I will take these issues into account at the budget
+- 09/16 19:52 [financialjuice/FirstSquawk] UK PM Burnham: We are not a traditional tax and spend socialist government.
+- 09/16 19:52 [financialjuice] UK PM Burnham: We will take difficult decisions to keep the economy on track
+- 09/16 19:56 [FirstSquawk] UK PM BURNHAM: INFLATION IS A CONCERN, UK ECONOMY SHOWING RESILIENCE
