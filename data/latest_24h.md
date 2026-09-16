@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 22:46 JST／対象: 09/15 22:46 〜 09/16 22:46 JST（時刻はすべて日本時間）
+生成: 2026-09-16 23:01 JST／対象: 09/15 23:01 〜 09/16 23:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 52 | 09/15 22:46 | 09/16 22:37 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 399 | 09/15 22:47 | 09/16 22:42 | 45分（17:00→17:45） |
-| financialjuice | 264 | 09/15 22:47 | 09/16 22:38 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 49 | 09/15 23:06 | 09/16 22:37 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 400 | 09/15 23:07 | 09/16 23:00 | 45分（17:00→17:45） |
+| financialjuice | 266 | 09/15 23:01 | 09/16 23:01 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 698 行（統合前 718 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 699 行（統合前 718 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 22:46 [DeItaone] *LIBYA NOC: OUTPUT HALTED AT HAMADA, AL-TAHARA FIELDS *LIBYA FIELDS SHUTDOWN DUE TO PIPELINE CLOSURE: NOC
-- 09/15 22:47 [FirstSquawk] LIBYA NOC: OUTPUT HALTED HAMADA, AL-TAHARA FIELDS; SHUTDOWN DUE TO PIPELINE CLOSURE
-- 09/15 22:47 [DeItaone] BESSENT, ASKED ABOUT RISING BOND YIELDS ON TUESDAY, SAID THIS IS DUE TO “GLOBAL ISSUES”
-- 09/15 22:47 [FirstSquawk/DeItaone] BRENT , US CRUDE FUTURES RISE AFTER LIBYA'S NOC SAYS IT MAY DECLARE FORCE MAJEURE AFTER PROTESTS SUSPEND PRODUCTION AT OIL FIELDS, BRENT LAST UP 1.7%, WTI UP 2.1%
-- 09/15 22:47 [financialjuice] US Treasury Secretary Bessent asked about rising bond yields on Tuesday: This is due to global issues.
-- 09/15 22:49 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT, ASKED ABOUT RISING BOND YIELDS ON TUESDAY, SAID THIS IS DUE TO “GLOBAL ISSUES”
-- 09/15 23:00 [financialjuice] ❗ META to roll out next-generation Astrid Chips at end of 2027. $META
-- 09/15 23:01 [financialjuice] META to deploy new in-house Arke chips in first half of 2027. $META $NVDA
 - 09/15 23:01 [financialjuice] ❗ META: Chips will save money and energy compared with Nvidia. $META $NVDA
 - 09/15 23:04 [financialjuice] US Treasury Secretary Bessent asked on 10-Yr yields, blames oil price rise.
 - 09/15 23:06 [DeItaone/FirstSquawk] *BESSENT, ASKED ON 10-YR YIELDS, BLAMES OIL PRICE RISE
@@ -722,3 +714,12 @@
 - 09/16 22:38 [financialjuice] US Energy Secretary Wright: Oil and gas producer to announce major investment into Venezuela - Fox
 - 09/16 22:38 [financialjuice] China considers BYD for CEO delegation at Xi-Trump summit.
 - 09/16 22:42 [FirstSquawk] WHO OFFICIAL SAYS MORE THAN 3,000 HEALTHCARE, FRONTLINE WORKERS IN DRC HAVE RECEIVED EBOLA VACCINE
+- 09/16 22:46 [FirstSquawk] US ENERGY SEC. WRIGHT ON VENEZUELA ANNOUNCEMENT: “GOING TO HEAR ABOUT A SIGNIFICANT OIL AND GAS PRODUCER THAT PLAYED A BIG ROLE IN LAUNCHING THE SHALE REVOLUTION, THEY'RE GOING TO ANNOUNCE A MAJOR INVESTMENT INTO VENEZUELA”
+- 09/16 22:50 [financialjuice] Russian Urals oil prices jumped above $110 per barrel on Tuesday on strong demand and firm Brent - data shows
+- 09/16 22:54 [FirstSquawk] US IDENTIFIES MEXICO, CHINA AS MAJOR DRUG TRANSIT COUNTRIES
+- 09/16 22:54 [financialjuice] US identifies Mexico and China as major drug transit countries.
+- 09/16 22:56 [FirstSquawk] US: CANADA, MEXICO NEED TO MORE TO STOP DRUG FLOW
+- 09/16 23:00 [financialjuice] US NAHB HOUSING MARKET INDEX ACTUAL 32 (FORECAST 34, PREVIOUS 35) $MACRO
+- 09/16 23:00 [financialjuice] US BUSINESS INVENTORIES MOM ACTUAL 0.8% (FORECAST 0.8%, PREVIOUS 0.0%) $MACRO
+- 09/16 23:00 [FirstSquawk] US NAHB HOUSING MARKET INDEX SEP: 32 (EST 34; PREV 35)
+- 09/16 23:01 [financialjuice] US Business Inventories July 2026 Report

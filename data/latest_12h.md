@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 22:46 JST／対象: 09/16 10:46 〜 09/16 22:46 JST（時刻はすべて日本時間）
+生成: 2026-09-16 23:01 JST／対象: 09/16 11:01 〜 09/16 23:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/16 19:06 | 09/16 22:37 | ⚠ 48分（20:44→21:33） |
-| FirstSquawk | 177 | 09/16 10:53 | 09/16 22:42 | 45分（17:00→17:45） |
-| financialjuice | 91 | 09/16 14:36 | 09/16 22:38 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 179 | 09/16 11:08 | 09/16 23:00 | 45分（17:00→17:45） |
+| financialjuice | 96 | 09/16 14:36 | 09/16 23:01 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 278 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 285 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 10:53 [FirstSquawk] Japan’s Prime Minister Sanae Takaichi says she will reshuffle cabinet personnel on Thursday. The planned changes put Japan’s government lineup in focus as markets monitor the direction of economic and policy priorities under the Takaichi ad…
-- 09/16 10:59 [FirstSquawk] The Philippine benchmark stock index fell as much as 1.2% to 5,933.27, hitting its lowest level since June 11. The decline puts the index at a multi-month low as investors assess the latest developments across Philippine financial markets.
 - 09/16 11:08 [FirstSquawk] The Indonesian rupiah has weakened to 17,740 per U.S. dollar, its lowest level since September 2. The move puts the currency at a fresh September low as traders monitor broader dollar strength and developments in Asian foreign-exchange mark…
 - 09/16 11:17 [FirstSquawk] Japan’s Prime Minister says the government and ruling party will work to overcome the current difficult situation through an executive reshuffle. The comments come as Tokyo prepares changes to the government and ruling-party leadership, put…
 - 09/16 11:18 [FirstSquawk] Asia’s AI boom is running into a new bottleneck: talent. Chipmakers are racing to expand capacity and accelerate AI development, but the shortage of skilled engineers is becoming an increasingly important constraint. The AI race is no longe…
@@ -302,3 +300,12 @@
 - 09/16 22:38 [financialjuice] US Energy Secretary Wright: Oil and gas producer to announce major investment into Venezuela - Fox
 - 09/16 22:38 [financialjuice] China considers BYD for CEO delegation at Xi-Trump summit.
 - 09/16 22:42 [FirstSquawk] WHO OFFICIAL SAYS MORE THAN 3,000 HEALTHCARE, FRONTLINE WORKERS IN DRC HAVE RECEIVED EBOLA VACCINE
+- 09/16 22:46 [FirstSquawk] US ENERGY SEC. WRIGHT ON VENEZUELA ANNOUNCEMENT: “GOING TO HEAR ABOUT A SIGNIFICANT OIL AND GAS PRODUCER THAT PLAYED A BIG ROLE IN LAUNCHING THE SHALE REVOLUTION, THEY'RE GOING TO ANNOUNCE A MAJOR INVESTMENT INTO VENEZUELA”
+- 09/16 22:50 [financialjuice] Russian Urals oil prices jumped above $110 per barrel on Tuesday on strong demand and firm Brent - data shows
+- 09/16 22:54 [FirstSquawk] US IDENTIFIES MEXICO, CHINA AS MAJOR DRUG TRANSIT COUNTRIES
+- 09/16 22:54 [financialjuice] US identifies Mexico and China as major drug transit countries.
+- 09/16 22:56 [FirstSquawk] US: CANADA, MEXICO NEED TO MORE TO STOP DRUG FLOW
+- 09/16 23:00 [financialjuice] US NAHB HOUSING MARKET INDEX ACTUAL 32 (FORECAST 34, PREVIOUS 35) $MACRO
+- 09/16 23:00 [financialjuice] US BUSINESS INVENTORIES MOM ACTUAL 0.8% (FORECAST 0.8%, PREVIOUS 0.0%) $MACRO
+- 09/16 23:00 [FirstSquawk] US NAHB HOUSING MARKET INDEX SEP: 32 (EST 34; PREV 35)
+- 09/16 23:01 [financialjuice] US Business Inventories July 2026 Report
