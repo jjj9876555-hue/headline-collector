@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 20:17 JST／対象: 09/16 14:17 〜 09/16 20:17 JST（時刻はすべて日本時間）
+生成: 2026-09-16 20:33 JST／対象: 09/16 14:33 〜 09/16 20:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/16 19:06 | 09/16 20:00 | 34分（19:25→20:00） |
-| FirstSquawk | 88 | 09/16 14:21 | 09/16 20:12 | 45分（17:00→17:45） |
-| financialjuice | 53 | 09/16 14:36 | 09/16 20:10 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 87 | 09/16 14:36 | 09/16 20:32 | 45分（17:00→17:45） |
+| financialjuice | 54 | 09/16 14:36 | 09/16 20:18 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 143 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 14:21 [FirstSquawk] 20-year JGB yield falls 3 bps to 3.855%
-- 09/16 14:23 [FirstSquawk] French utility EDF will reduce output at its Bugey 2 nuclear reactor to 180 MW from 00:15 to 22:00 on September 17, 2026.
-- 09/16 14:31 [FirstSquawk] China’s slower pace of loan growth is becoming the “new normal,” the central bank governor said, signaling a shift in credit expansion dynamics.
 - 09/16 14:36 [financialjuice] SK Hynix and Intel are in talks to make memory chips in the US - Sources
 - 09/16 14:36 [FirstSquawk] Saudi Vitrified Clay Pipes has provided an update on its memorandum of understanding (MOU) with Laffan Pipes Factory Company in Qatar. The update relates to the company’s ongoing engagement with the Qatari pipe manufacturer under the previo…
 - 09/16 14:39 [FirstSquawk] Saudi Arabia said it shot down a Houthi drone near Mecca on Tuesday, prompting swift condemnation from several countries in the region. Houthi officials denied targeting Mecca, rejecting the Saudi account of the incident as tensions continu…
@@ -167,3 +164,6 @@
 - 09/16 20:08 [FirstSquawk] ARDAGH SAYS COURT BARS SALE OF ARDAGH METAL PACKAGING STAKE
 - 09/16 20:10 [financialjuice] Houthis told the US they remain committed to 2025 ceasefire - Sources
 - 09/16 20:12 [FirstSquawk] HOUTHIS CONFIRM COMMITMENT TO CEASEFIRE
+- 09/16 20:18 [financialjuice] UK's PM Burnham shelves plans for UK investment summit this year - Sky
+- 09/16 20:21 [FirstSquawk] BURNHAM TO DELAY FLAGSHIP INVESTMENT SUMMIT UNTIL NEXT YEAR – SKY
+- 09/16 20:32 [FirstSquawk] HOUTHIS TOLD U.S. OFFICIALS THEY WILL AVOID ATTACKING ISRAELI VESSELS.
