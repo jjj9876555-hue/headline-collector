@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 08:58 JST／対象: 09/15 08:58 〜 09/16 08:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 09:23 JST／対象: 09/15 09:23 〜 09/16 09:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 417 | 09/15 09:11 | 09/16 08:54 | 41分（01:25→02:06） |
-| financialjuice | 258 | 09/15 09:04 | 09/16 08:51 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 410 | 09/15 09:25 | 09/16 09:19 | 41分（01:25→02:06） |
+| financialjuice | 255 | 09/15 09:27 | 09/16 09:17 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 716 行（統合前 734 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 707 行（統合前 724 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 09:04 [financialjuice] S. KOREAN TRADE BALANCE REVISED ACTUAL 34.79B (FORECAST -, PREVIOUS 34.75B) $MACRO
-- 09/15 09:04 [financialjuice] S. KOREAN EXPORTS REVISED ACTUAL 68.7% (FORECAST -, PREVIOUS 68.7%) $MACRO
-- 09/15 09:04 [financialjuice] S. KOREAN IMPORTS REVISED ACTUAL 22.4% (FORECAST -, PREVIOUS 22.5%) $MACRO
-- 09/15 09:05 [financialjuice] Unisound AI Technology Co releases U2-Flash, next-gen high-density intelligent model
-- 09/15 09:08 [financialjuice/FirstSquawk] Microsoft CEO Satya Nadella urges AI industry to prioritize safety, maintain human control: Business Insider
-- 09/15 09:11 [FirstSquawk] Unisound AI Technology unveils U2-FLASH, a new high-density intelligent model aimed at advancing its next-generation AI capabilities.
-- 09/15 09:11 [FirstSquawk] NVIDIA CEO JENSEN HUANG TOOK A LIVE PHONE CALL FROM DONALD TRUMP DURING AN ON-STAGE PANEL, WITH BOTH REJECTING CALLS TO SLOW ADVANCED AI DEVELOPMENT AND ARGUING THE U.S. MUST MAINTAIN ITS AI LEAD OVER CHINA. HUANG SAID AI SAFETY AND INNOVAT…
-- 09/15 09:11 [FirstSquawk] Microsoft CEO Satya Nadella calls on the AI industry to put safety first and ensure humans remain in control as the technology advances - BI
-- 09/15 09:13 [FirstSquawk] Japan’s heavy reliance on LNG is complicating its response to Putin’s visit to the disputed Kuril Islands, highlighting the tension between energy security and diplomacy.
-- 09/15 09:16 [FirstSquawk] Oil prices climb sharply as global equities slide and government bond yields move higher, signaling renewed pressure across financial markets.
-- 09/15 09:19 [FirstSquawk] Asian markets open weaker after Wall Street’s broad decline, with tech stocks under pressure as investors weigh calls for a slower pace of AI development
-- 09/15 09:20 [FirstSquawk] OpenAI is reportedly training ChatGPT to sound less human-like and reduce sycophantic responses, according to 404 Media.
-- 09/15 09:22 [FirstSquawk] NATO aircraft intercepted and destroyed a drone over Lithuanian territory, President Gitanas Nausėda said, citing AFP.
-- 09/15 09:22 [FirstSquawk] U.S. Supreme Court blocks the Postal Service from imposing new mail-in voting restrictions ahead of the congressional midterms, dealing a setback to the Trump administration - BBG
-- 09/15 09:23 [FirstSquawk] Japan’s long-dated bond yields edge higher as rising energy costs fuel fresh inflation concerns , citing WSJ
 - 09/15 09:25 [FirstSquawk] China pushes back against calls to curb the development of advanced AI, signaling continued momentum behind its technology ambitions.
 - 09/15 09:27 [financialjuice] China PBOC seen setting yuan midpoint at 6.7051 per dollar: estimate
 - 09/15 09:29 [FirstSquawk] ASIAN STOCKS SLIPPED AFTER A SHARP SELLOFF IN US SEMICONDUCTOR SHARES RAISED CONCERNS THAT AI DEVELOPMENT AND SPENDING COULD SLOW. THE MSCI ASIA PACIFIC INDEX FELL 0.1%, WHILE JAPAN AND SOUTH KOREA EDGED LOWER AFTER THE PHILADELPHIA SEMICON…
@@ -740,3 +725,9 @@
 - 09/16 08:53 [FirstSquawk] JAPAN'S AUGUST TRADE BALANCE SHOWED A DEFICIT OF ¥1,105.6 BLN, WIDER THAN THE ESTIMATED ¥1,058.4 BLN DEFICIT AND THE PRIOR ¥638.3 BLN, WITH EXPORTS UP 19.3% YEAR-ON-YEAR VERSUS AN 18.4% FORECAST AND IMPORTS UP 28.0% VERSUS 26.3% EXPECTED.
 - 09/16 08:54 [FirstSquawk] ANTHROPIC CEO DARIO AMODEI SAYS ONLY 5%-10% OF AI’S CURRENT POTENTIAL VALUE IS BEING REALIZED ACROSS THE ECONOMY, WHILE SALESFORCE CEO MARC BENIOFF SAYS BUSINESSES NEED MORE SUPPORT TO ACCELERATE AI ADOPTION.
 - 09/16 08:54 [FirstSquawk] ANTHROPIC AND SALESFORCE ARE DEEPENING THEIR CLAUDE PARTNERSHIP, WITH AROUND 7,000 SALESFORCE EMPLOYEES USING CLAUDE-INTEGRATED TOOLS AS DEBATE CONTINUES OVER AI DEVELOPMENT SPEED AND REGULATION.
+- 09/16 09:05 [FirstSquawk] PENGANA INTERNATIONAL EQUITIES HAS ANNOUNCED A SETTLEMENT WITH PCG AND PCL RESOLVING COURT PROCEEDINGS, INTENDED TO REMOVE LITIGATION UNCERTAINTY AND ALLOW PIA TO PROCEED WITH THE BUY-BACK COMPLETION.
+- 09/16 09:05 [FirstSquawk] PENGANA INTERNATIONAL EQUITIES SAYS FRANK GOOCH WILL BECOME INTERIM CHAIRMAN FOLLOWING COMPLETION OF THE BUY-BACK.
+- 09/16 09:13 [financialjuice] IMF Managing Director Georgieva: Senegal has made notable progress in boosting the economy and enhancing prospects for investments, jobs and growth
+- 09/16 09:14 [FirstSquawk] Georgieva says Senegal’s economic reforms are showing encouraging progress, with better prospects for investment, jobs and growth.
+- 09/16 09:17 [financialjuice] China PBOC predicted to set yuan reference rate at 6.7148 per dollar - Estimate
+- 09/16 09:19 [FirstSquawk] U.S. crude futures are pulling back, with prices down 1% at $104.77 a barrel. The move puts crude below the $105 level as traders monitor the latest developments affecting global oil markets.

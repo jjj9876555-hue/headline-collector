@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 08:58 JST／対象: 09/15 20:58 〜 09/16 08:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 09:23 JST／対象: 09/15 21:23 〜 09/16 09:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/15 21:28 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 225 | 09/15 21:00 | 09/16 08:54 | 41分（01:25→02:06） |
-| financialjuice | 187 | 09/15 21:05 | 09/16 08:51 | 38分（05:04→05:43） |
+| FirstSquawk | 217 | 09/15 21:24 | 09/16 09:19 | 41分（01:25→02:06） |
+| financialjuice | 178 | 09/15 21:28 | 09/16 09:17 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 444 行（統合前 461 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 427 行（統合前 444 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 21:00 [FirstSquawk] SPAIN APPROVES €13B INVESTMENT FOR SPANISH AIRPORT NETWORK
-- 09/15 21:05 [financialjuice] Secured overnight financing rate 3.62% Sept. 14th vs 3.62% Sept. 11th
-- 09/15 21:05 [financialjuice] Bytedance’s first-half profit drops to $20 billion. weighed down by AI spending - The Information
-- 09/15 21:05 [financialjuice] Bytedance LH revenue rises 30% YoY to $120b - Information
-- 09/15 21:06 [financialjuice] Morning Juice – US Session Prep (15th September)
-- 09/15 21:08 [financialjuice] WH Sr. Adviser Hassett praises private sector safeguards after Mythos worries.
-- 09/15 21:11 [FirstSquawk] NEC'S HASSETT COMMENDS PRIVATE SECTOR MEASURES, WHILE TRUMP BELIEVES THE US ALREADY HAS TOOLS REGARDING AI.
-- 09/15 21:12 [financialjuice] WH Sr. Adviser Hassett: It is not an antitrust issue for AI firms to warn each other.
-- 09/15 21:14 [financialjuice] WH Sr. Adviser Hassett: Trump and I respect whatever warsh does tomorrow.
-- 09/15 21:14 [FirstSquawk] HASSETT STATES AI COMPANIES WARNING EACH OTHER IS NOT AN ANTITRUST CONCERN.
-- 09/15 21:14 [FirstSquawk] HASSETT STATED THAT TRUMP AND HE WILL RESPECT WHAT WARSH DECIDES TO DO TOMORROW.
-- 09/15 21:14 [FirstSquawk] HASSETT ADDRESSES QUERIES ON INTEREST RATES AND FEDERAL RESERVE POLICIES.
-- 09/15 21:15 [FirstSquawk] ADP: US PRIVATE JOBS ROSE AVG 16,250/WK IN 4 WKS TO AUG. 29
-- 09/15 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 16.25 (FORECAST -, PREVIOUS 12,000.0) $MACRO
-- 09/15 21:15 [FirstSquawk] US ADP: US PRIVATE JOBS ROSE AVG 16,250/WK IN 4 WKS TO AUG. 29
-- 09/15 21:15 [FirstSquawk] US ADP WEEKLY EMPLOYMENT CHANGE W/O AUG 29: 16.250K (PREV 12.0K)
-- 09/15 21:19 [financialjuice] Wells Fargo’s Santomassimo: Not seeing changes in delinquency trends
-- 09/15 21:19 [financialjuice] Wells Fargo's Santomassimo: Activity level in US economy staying strong.
-- 09/15 21:22 [financialjuice] Salesforce and Google Cloud expand enterprise AI pact $GOOGL
-- 09/15 21:23 [FirstSquawk] SALESFORCE, GOOGLE CLOUD EXPAND ENTERPRISE AI PACT
-- 09/15 21:23 [FirstSquawk] SALESFORCE, AWS ANNOUNCE EXPANDED PACT
-- 09/15 21:23 [FirstSquawk] SALESFORCE: 'KOA' IS CRM REASONING MODEL FOR AGENTFORCE
-- 09/15 21:23 [FirstSquawk] SALESFORCE & NVIDIA INTRODUCED 'KOA'
 - 09/15 21:24 [FirstSquawk] KENYA COURT RULES 15% SAFARICOM STAKE SHOULD RETURN TO TREASURY
 - 09/15 21:26 [FirstSquawk] SALESFORCE AND GOOGLE CLOUD EXPAND THEIR PARTNERSHIP IN ENTERPRISE AI.
 - 09/15 21:26 [FirstSquawk] SALESFORCE AND AWS HAVE ANNOUNCED A LARGER PARTNERSHIP.
@@ -468,3 +445,9 @@
 - 09/16 08:53 [FirstSquawk] JAPAN'S AUGUST TRADE BALANCE SHOWED A DEFICIT OF ¥1,105.6 BLN, WIDER THAN THE ESTIMATED ¥1,058.4 BLN DEFICIT AND THE PRIOR ¥638.3 BLN, WITH EXPORTS UP 19.3% YEAR-ON-YEAR VERSUS AN 18.4% FORECAST AND IMPORTS UP 28.0% VERSUS 26.3% EXPECTED.
 - 09/16 08:54 [FirstSquawk] ANTHROPIC CEO DARIO AMODEI SAYS ONLY 5%-10% OF AI’S CURRENT POTENTIAL VALUE IS BEING REALIZED ACROSS THE ECONOMY, WHILE SALESFORCE CEO MARC BENIOFF SAYS BUSINESSES NEED MORE SUPPORT TO ACCELERATE AI ADOPTION.
 - 09/16 08:54 [FirstSquawk] ANTHROPIC AND SALESFORCE ARE DEEPENING THEIR CLAUDE PARTNERSHIP, WITH AROUND 7,000 SALESFORCE EMPLOYEES USING CLAUDE-INTEGRATED TOOLS AS DEBATE CONTINUES OVER AI DEVELOPMENT SPEED AND REGULATION.
+- 09/16 09:05 [FirstSquawk] PENGANA INTERNATIONAL EQUITIES HAS ANNOUNCED A SETTLEMENT WITH PCG AND PCL RESOLVING COURT PROCEEDINGS, INTENDED TO REMOVE LITIGATION UNCERTAINTY AND ALLOW PIA TO PROCEED WITH THE BUY-BACK COMPLETION.
+- 09/16 09:05 [FirstSquawk] PENGANA INTERNATIONAL EQUITIES SAYS FRANK GOOCH WILL BECOME INTERIM CHAIRMAN FOLLOWING COMPLETION OF THE BUY-BACK.
+- 09/16 09:13 [financialjuice] IMF Managing Director Georgieva: Senegal has made notable progress in boosting the economy and enhancing prospects for investments, jobs and growth
+- 09/16 09:14 [FirstSquawk] Georgieva says Senegal’s economic reforms are showing encouraging progress, with better prospects for investment, jobs and growth.
+- 09/16 09:17 [financialjuice] China PBOC predicted to set yuan reference rate at 6.7148 per dollar - Estimate
+- 09/16 09:19 [FirstSquawk] U.S. crude futures are pulling back, with prices down 1% at $104.77 a barrel. The move puts crude below the $105 level as traders monitor the latest developments affecting global oil markets.

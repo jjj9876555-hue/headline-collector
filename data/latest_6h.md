@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 08:58 JST／対象: 09/16 02:58 〜 09/16 08:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 09:23 JST／対象: 09/16 03:23 〜 09/16 09:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/16 03:03 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 93 | 09/16 03:01 | 09/16 08:54 | 37分（04:18→04:56） |
-| financialjuice | 76 | 09/16 02:58 | 09/16 08:51 | 38分（05:04→05:43） |
+| DeItaone | 6 | 09/16 04:01 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 88 | 09/16 03:35 | 09/16 09:19 | 37分（04:18→04:56） |
+| financialjuice | 73 | 09/16 03:26 | 09/16 09:17 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 171 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 164 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 02:58 [financialjuice] WATCH LIVE: Attorney General Blanche Speaks 2 PM ET
-- 09/16 03:00 [financialjuice] CBO: Annual PCE inflation projection now 0.5 ppt higher in Q1 2027.
-- 09/16 03:01 [financialjuice] CBO: war in Iran cost us $38 billion in first five months.
-- 09/16 03:01 [financialjuice/FirstSquawk] Anthropic's Amodei: The world is only making use of 5% to 10% of current AI.
-- 09/16 03:01 [FirstSquawk] IRANIAN ARMY SPOKESMAN: IRAN AND PAKISTAN ARE COOPERATING TO ENSURE REGIONAL SECURITY - TASNIM NEWS
-- 09/16 03:02 [FirstSquawk] A U.S. CDC SPOKESPERSON SAYS PENNSYLVANIA HEALTH OFFICIALS HAVE NOTIFIED THE CDC OF TWO ADDITIONAL DEATHS INVOLVING INDIVIDUALS WHO HAD MEASLES, ADDING THAT PENNSYLVANIA HAS NOT REQUESTED A CDC EPI-AID, WHICH WOULD DEPLOY EPIDEMIOLOGISTS TO…
-- 09/16 03:02 [FirstSquawk] U.S. AUTO SAFETY AGENCY SAYS TESLA MUST ANSWER QUESTIONS ON THE CERTIFICATION OF THE CYBERCAB BY SEPT. 30 - FILING
-- 09/16 03:02 [FirstSquawk/DeItaone] CBO SAYS THE WAR IN IRAN COST THE U.S. $38 BLN IN THE FIRST FIVE MONTHS, ADDING THAT ITS ANNUAL PCE INFLATION PROJECTION IS NOW 0.5 PERCENTAGE POINT HIGHER FOR Q1 2027
-- 09/16 03:02 [FirstSquawk] CITIGROUP SAYS ITS CREDIT CARD CHARGE-OFFS WERE 2.03% IN AUGUST, WITH THE CREDIT CARD DELINQUENCY RATE AT 1.29% AT AUGUST END - SEC FILING
-- 09/16 03:02 [financialjuice] US Treasury Accepts $500 Million in Long-Dated Debt Buyback US Treasury receives $2.088 billion of offers and accepts $500 million Treasury accepts 6 of 16 eligible issues Buyback targets coupon securities maturing between 2040 and 2056
-- 09/16 03:09 [FirstSquawk] CBO SAYS THE IRAN WAR COST THE U.S. $38 BLN IN THE FIRST FIVE MONTHS, WITH ITS ANNUAL PCE INFLATION PROJECTION NOW 0.5 PERCENTAGE POINT HIGHER FOR Q1 2027
-- 09/16 03:09 [FirstSquawk] U.S. TREASURY RECEIVED $2.088 BLN OF OFFERS FOR ITS DEBT BUYBACK AND ACCEPTED $500 MLN, TAKING 6 OF 16 ELIGIBLE ISSUES, WITH THE BUYBACK TARGETING COUPONS MATURING IN 2040-2056
-- 09/16 03:11 [FirstSquawk] COMMERZBANK CEO AFTER UNICREDIT CEO MEETS GERMAN FINANCE MINISTER: ‘ALIGNED’ WITH THE GOVERNMENT
 - 09/16 03:26 [financialjuice] Clarity Act Vote - WATCH LIVE
 - 09/16 03:28 [financialjuice] Senate Republican Leader Thune: We have to mitigate the risks of AI.
 - 09/16 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $105.83 a barrel, up $4.44, 4.38%.
@@ -195,3 +182,9 @@
 - 09/16 08:53 [FirstSquawk] JAPAN'S AUGUST TRADE BALANCE SHOWED A DEFICIT OF ¥1,105.6 BLN, WIDER THAN THE ESTIMATED ¥1,058.4 BLN DEFICIT AND THE PRIOR ¥638.3 BLN, WITH EXPORTS UP 19.3% YEAR-ON-YEAR VERSUS AN 18.4% FORECAST AND IMPORTS UP 28.0% VERSUS 26.3% EXPECTED.
 - 09/16 08:54 [FirstSquawk] ANTHROPIC CEO DARIO AMODEI SAYS ONLY 5%-10% OF AI’S CURRENT POTENTIAL VALUE IS BEING REALIZED ACROSS THE ECONOMY, WHILE SALESFORCE CEO MARC BENIOFF SAYS BUSINESSES NEED MORE SUPPORT TO ACCELERATE AI ADOPTION.
 - 09/16 08:54 [FirstSquawk] ANTHROPIC AND SALESFORCE ARE DEEPENING THEIR CLAUDE PARTNERSHIP, WITH AROUND 7,000 SALESFORCE EMPLOYEES USING CLAUDE-INTEGRATED TOOLS AS DEBATE CONTINUES OVER AI DEVELOPMENT SPEED AND REGULATION.
+- 09/16 09:05 [FirstSquawk] PENGANA INTERNATIONAL EQUITIES HAS ANNOUNCED A SETTLEMENT WITH PCG AND PCL RESOLVING COURT PROCEEDINGS, INTENDED TO REMOVE LITIGATION UNCERTAINTY AND ALLOW PIA TO PROCEED WITH THE BUY-BACK COMPLETION.
+- 09/16 09:05 [FirstSquawk] PENGANA INTERNATIONAL EQUITIES SAYS FRANK GOOCH WILL BECOME INTERIM CHAIRMAN FOLLOWING COMPLETION OF THE BUY-BACK.
+- 09/16 09:13 [financialjuice] IMF Managing Director Georgieva: Senegal has made notable progress in boosting the economy and enhancing prospects for investments, jobs and growth
+- 09/16 09:14 [FirstSquawk] Georgieva says Senegal’s economic reforms are showing encouraging progress, with better prospects for investment, jobs and growth.
+- 09/16 09:17 [financialjuice] China PBOC predicted to set yuan reference rate at 6.7148 per dollar - Estimate
+- 09/16 09:19 [FirstSquawk] U.S. crude futures are pulling back, with prices down 1% at $104.77 a barrel. The move puts crude below the $105 level as traders monitor the latest developments affecting global oil markets.
