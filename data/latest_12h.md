@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 14:58 JST／対象: 09/16 02:58 〜 09/16 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 15:23 JST／対象: 09/16 03:23 〜 09/16 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/16 03:03 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 196 | 09/16 03:01 | 09/16 14:51 | 37分（04:18→04:56） |
-| financialjuice | 101 | 09/16 02:58 | 09/16 14:36 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 6 | 09/16 04:01 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 200 | 09/16 03:35 | 09/16 15:22 | 37分（04:18→04:56） |
+| financialjuice | 111 | 09/16 03:26 | 09/16 15:13 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 299 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 314 行（統合前 319 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 02:58 [financialjuice] WATCH LIVE: Attorney General Blanche Speaks 2 PM ET
-- 09/16 03:00 [financialjuice] CBO: Annual PCE inflation projection now 0.5 ppt higher in Q1 2027.
-- 09/16 03:01 [financialjuice] CBO: war in Iran cost us $38 billion in first five months.
-- 09/16 03:01 [financialjuice/FirstSquawk] Anthropic's Amodei: The world is only making use of 5% to 10% of current AI.
-- 09/16 03:01 [FirstSquawk] IRANIAN ARMY SPOKESMAN: IRAN AND PAKISTAN ARE COOPERATING TO ENSURE REGIONAL SECURITY - TASNIM NEWS
-- 09/16 03:02 [FirstSquawk] A U.S. CDC SPOKESPERSON SAYS PENNSYLVANIA HEALTH OFFICIALS HAVE NOTIFIED THE CDC OF TWO ADDITIONAL DEATHS INVOLVING INDIVIDUALS WHO HAD MEASLES, ADDING THAT PENNSYLVANIA HAS NOT REQUESTED A CDC EPI-AID, WHICH WOULD DEPLOY EPIDEMIOLOGISTS TO…
-- 09/16 03:02 [FirstSquawk] U.S. AUTO SAFETY AGENCY SAYS TESLA MUST ANSWER QUESTIONS ON THE CERTIFICATION OF THE CYBERCAB BY SEPT. 30 - FILING
-- 09/16 03:02 [FirstSquawk/DeItaone] CBO SAYS THE WAR IN IRAN COST THE U.S. $38 BLN IN THE FIRST FIVE MONTHS, ADDING THAT ITS ANNUAL PCE INFLATION PROJECTION IS NOW 0.5 PERCENTAGE POINT HIGHER FOR Q1 2027
-- 09/16 03:02 [FirstSquawk] CITIGROUP SAYS ITS CREDIT CARD CHARGE-OFFS WERE 2.03% IN AUGUST, WITH THE CREDIT CARD DELINQUENCY RATE AT 1.29% AT AUGUST END - SEC FILING
-- 09/16 03:02 [financialjuice] US Treasury Accepts $500 Million in Long-Dated Debt Buyback US Treasury receives $2.088 billion of offers and accepts $500 million Treasury accepts 6 of 16 eligible issues Buyback targets coupon securities maturing between 2040 and 2056
-- 09/16 03:09 [FirstSquawk] CBO SAYS THE IRAN WAR COST THE U.S. $38 BLN IN THE FIRST FIVE MONTHS, WITH ITS ANNUAL PCE INFLATION PROJECTION NOW 0.5 PERCENTAGE POINT HIGHER FOR Q1 2027
-- 09/16 03:09 [FirstSquawk] U.S. TREASURY RECEIVED $2.088 BLN OF OFFERS FOR ITS DEBT BUYBACK AND ACCEPTED $500 MLN, TAKING 6 OF 16 ELIGIBLE ISSUES, WITH THE BUYBACK TARGETING COUPONS MATURING IN 2040-2056
-- 09/16 03:11 [FirstSquawk] COMMERZBANK CEO AFTER UNICREDIT CEO MEETS GERMAN FINANCE MINISTER: ‘ALIGNED’ WITH THE GOVERNMENT
 - 09/16 03:26 [financialjuice] Clarity Act Vote - WATCH LIVE
 - 09/16 03:28 [financialjuice] Senate Republican Leader Thune: We have to mitigate the risks of AI.
 - 09/16 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $105.83 a barrel, up $4.44, 4.38%.
@@ -323,3 +310,31 @@
 - 09/16 14:46 [FirstSquawk] Russia hits cargo vessel at Ukraine’s Chornomorsk port: IFX Russia struck a cargo vessel at the port of Chornomorsk in Ukraine, Interfax reported, citing the Russian Defence Ministry. The reported incident adds to ongoing risks around Ukrai…
 - 09/16 14:48 [FirstSquawk] Polish airports in Lublin and Rzeszów resume operations: PANSA Air operations at Lublin and Rzeszów airports in Poland have resumed after a temporary closure linked to military aviation operations, according to PANSA. The airports were brie…
 - 09/16 14:51 [FirstSquawk] US ambassador to South Africa says visa restrictions are only the first step The U.S. ambassador to South Africa said the visa restriction policy is only the first step in a series of potential escalatory measures. The remarks signal that W…
+- 09/16 15:00 [financialjuice] UK RPI MOM ACTUAL 0.6% (FORECAST 0.7%, PREVIOUS 0.6%) $MACRO
+- 09/16 15:00 [financialjuice] ‼ BREAKING: UK CPI YOY ACTUAL 3.1% (FORECAST 3.1%, PREVIOUS 2.9%) $MACRO
+- 09/16 15:00 [financialjuice] UK CPI MOM ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.3%) $MACRO
+- 09/16 15:00 [financialjuice] UK CORE CPI MOM ACTUAL 0.3% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 09/16 15:00 [financialjuice] ❗ UK CORE CPI YOY ACTUAL 2.6% (FORECAST 2.6%, PREVIOUS 2.6%) $MACRO
+- 09/16 15:00 [financialjuice] UK SERVICES CPI YOY ACTUAL 3.4% (FORECAST 3.5%, PREVIOUS 3.4%) $MACRO
+- 09/16 15:00 [financialjuice] SWEDISH UNEMPLOYMENT RATE ACTUAL 8.5% (FORECAST -, PREVIOUS 7.8%) $MACRO
+- 09/16 15:00 [financialjuice] UK PPI INPUT PRICES YOY ACTUAL 6.1% (FORECAST 5.4%, PREVIOUS 4.9% ,REVISION 5.8%) $MACRO
+- 09/16 15:01 [financialjuice] UK PPI OUTPUT PRICES MOM ACTUAL 0.7% (FORECAST 0.5%, PREVIOUS 0.2%) $MACRO
+- 09/16 15:01 [financialjuice] UK PPI OUTPUT PRICES YOY ACTUAL 3.7% (FORECAST 3.3%, PREVIOUS 3.1% ,REVISION 3.3%) $MACRO
+- 09/16 15:01 [financialjuice] UK PPI INPUT PRICES MOM ACTUAL 0.3% (FORECAST 0.4%, PREVIOUS -1.7%) $MACRO
+- 09/16 15:01 [financialjuice] SWEDISH UNEMPLOYMENT RATE SA ACTUAL 8.7% (FORECAST 8.6%, PREVIOUS 8.6%) $MACRO
+- 09/16 15:01 [financialjuice] UK PPI August 2026 Report
+- 09/16 15:01 [financialjuice] UK CPI August 2026 Report
+- 09/16 15:02 [FirstSquawk] Uk (Aug) cpi mom actual: 0.5% Vs 0.3% previous;est 0.5% Uk (Aug) cpi yoy actual: 3.1% Vs 2.9% previous;est 3.1%
+- 09/16 15:02 [FirstSquawk] Uk (Aug) cpi core yoy actual: 2.6% Vs 2.6% previous;est 2.6% Uk (Aug) cpi services yoy actual: 3.4% Vs 3.4% previous;est 3.5%
+- 09/16 15:02 [FirstSquawk] Uk (Aug) cpih yoy actual: 3.3% Vs 3.1% previous;est 3.2% Uk (Aug) retail price index actual: 421.6 Vs 419.1 previous;est 421.9
+- 09/16 15:03 [FirstSquawk] Uk (Aug) rpi mom actual: 0.6% Vs 0.6% previous;est 0.7% Uk (Aug) rpi yoy actual: 3.4% Vs 3.2% previous;est 3.5% Uk (Aug) rpi ex mort int.payments (yoy) actual: 3.3% Vs 3.1% previous
+- 09/16 15:03 [FirstSquawk] Sweden (Aug) unemployment rate actual: 8.5% Vs 7.8% previous Sweden (Aug) unemployment rate trend actual: 8.7% Vs 8.7% previous
+- 09/16 15:03 [FirstSquawk] Sweden (Aug) unemployment rate sa actual: 8.9% Vs 8.6% previous; est 8.6% Uk (Aug) ppi output nsa mom actual: 0.7% Vs 0.2% previous;est 0.5%
+- 09/16 15:03 [FirstSquawk] Uk (Aug) ppi output nsa yoy actual: 3.7% Vs 3.1% previous;est 3.2% Uk (Aug) ppi input nsa mom actual: 0.3% Vs -1.7% previous;est 0.4%
+- 09/16 15:03 [FirstSquawk] Uk (Aug) ppi input nsa yoy actual: 6.1% Vs 4.9% previous;est 5.4%
+- 09/16 15:05 [FirstSquawk] Panasonic Energy launches new global lithium-ion battery R&D hub in Japan Panasonic Energy has launched a new global lithium-ion battery R&D hub in Japan to accelerate development and production for automotive and data center applications. …
+- 09/16 15:12 [FirstSquawk] 30-year JGB yield falls 4.5 bps to 4.105% The yield on Japan’s 30-year government bond fell 4.5 basis points to 4.105%. The move comes as investors adjust positions in long-dated Japanese government bonds, with yields remaining elevated ami…
+- 09/16 15:13 [financialjuice] Senior German lawmaker Thorsten Frei: Energy price relief must come quickly - RTL TV
+- 09/16 15:14 [FirstSquawk] German lawmaker Frei calls for energy relief measures from October
+- 09/16 15:16 [FirstSquawk] Senior German lawmaker Frei said lowering the tax on gasoline would be one possible option as the government considers measures to provide energy relief.
+- 09/16 15:22 [FirstSquawk] Fitch affirms Indonesia Investment Authority at ‘BBB’; outlook negative Fitch Ratings has affirmed the Indonesia Investment Authority’s rating at ‘BBB’, while maintaining a negative outlook. The rating action keeps the sovereign wealth fund…

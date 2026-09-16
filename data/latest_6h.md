@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 14:58 JST／対象: 09/16 08:58 〜 09/16 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 15:23 JST／対象: 09/16 09:23 〜 09/16 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 103 | 09/16 09:05 | 09/16 14:51 | 10分（11:28→11:39） |
-| financialjuice | 25 | 09/16 09:13 | 09/16 14:36 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 112 | 09/16 09:27 | 09/16 15:22 | 11分（14:51→15:02） |
+| financialjuice | 38 | 09/16 09:38 | 09/16 15:13 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 128 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 150 行（統合前 151 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 09:05 [FirstSquawk] PENGANA INTERNATIONAL EQUITIES HAS ANNOUNCED A SETTLEMENT WITH PCG AND PCL RESOLVING COURT PROCEEDINGS, INTENDED TO REMOVE LITIGATION UNCERTAINTY AND ALLOW PIA TO PROCEED WITH THE BUY-BACK COMPLETION.
-- 09/16 09:05 [FirstSquawk] PENGANA INTERNATIONAL EQUITIES SAYS FRANK GOOCH WILL BECOME INTERIM CHAIRMAN FOLLOWING COMPLETION OF THE BUY-BACK.
-- 09/16 09:13 [financialjuice] IMF Managing Director Georgieva: Senegal has made notable progress in boosting the economy and enhancing prospects for investments, jobs and growth
-- 09/16 09:14 [FirstSquawk] Georgieva says Senegal’s economic reforms are showing encouraging progress, with better prospects for investment, jobs and growth.
-- 09/16 09:17 [financialjuice] China PBOC predicted to set yuan reference rate at 6.7148 per dollar - Estimate
-- 09/16 09:19 [FirstSquawk] U.S. crude futures are pulling back, with prices down 1% at $104.77 a barrel. The move puts crude below the $105 level as traders monitor the latest developments affecting global oil markets.
 - 09/16 09:27 [FirstSquawk] Asia-Pacific stocks open mixed as investors digest Wall Street’s weak handover and position cautiously ahead of the Fed’s rate decision
 - 09/16 09:30 [FirstSquawk] AI is moving from the tech sector into China’s restaurant industry, as major chains explore ways to bring artificial intelligence into everyday dining. From smarter operations to AI-enabled customer experiences, restaurants are testing how …
 - 09/16 09:31 [FirstSquawk] Japan’s 5-year government bond yield edged lower, falling 0.5 basis points to 2.305%. The move marks a modest pullback in one of Japan’s key government bond yields as investors continue to assess the country’s rates and monetary-policy outl…
@@ -152,3 +146,31 @@
 - 09/16 14:46 [FirstSquawk] Russia hits cargo vessel at Ukraine’s Chornomorsk port: IFX Russia struck a cargo vessel at the port of Chornomorsk in Ukraine, Interfax reported, citing the Russian Defence Ministry. The reported incident adds to ongoing risks around Ukrai…
 - 09/16 14:48 [FirstSquawk] Polish airports in Lublin and Rzeszów resume operations: PANSA Air operations at Lublin and Rzeszów airports in Poland have resumed after a temporary closure linked to military aviation operations, according to PANSA. The airports were brie…
 - 09/16 14:51 [FirstSquawk] US ambassador to South Africa says visa restrictions are only the first step The U.S. ambassador to South Africa said the visa restriction policy is only the first step in a series of potential escalatory measures. The remarks signal that W…
+- 09/16 15:00 [financialjuice] UK RPI MOM ACTUAL 0.6% (FORECAST 0.7%, PREVIOUS 0.6%) $MACRO
+- 09/16 15:00 [financialjuice] ‼ BREAKING: UK CPI YOY ACTUAL 3.1% (FORECAST 3.1%, PREVIOUS 2.9%) $MACRO
+- 09/16 15:00 [financialjuice] UK CPI MOM ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.3%) $MACRO
+- 09/16 15:00 [financialjuice] UK CORE CPI MOM ACTUAL 0.3% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 09/16 15:00 [financialjuice] ❗ UK CORE CPI YOY ACTUAL 2.6% (FORECAST 2.6%, PREVIOUS 2.6%) $MACRO
+- 09/16 15:00 [financialjuice] UK SERVICES CPI YOY ACTUAL 3.4% (FORECAST 3.5%, PREVIOUS 3.4%) $MACRO
+- 09/16 15:00 [financialjuice] SWEDISH UNEMPLOYMENT RATE ACTUAL 8.5% (FORECAST -, PREVIOUS 7.8%) $MACRO
+- 09/16 15:00 [financialjuice] UK PPI INPUT PRICES YOY ACTUAL 6.1% (FORECAST 5.4%, PREVIOUS 4.9% ,REVISION 5.8%) $MACRO
+- 09/16 15:01 [financialjuice] UK PPI OUTPUT PRICES MOM ACTUAL 0.7% (FORECAST 0.5%, PREVIOUS 0.2%) $MACRO
+- 09/16 15:01 [financialjuice] UK PPI OUTPUT PRICES YOY ACTUAL 3.7% (FORECAST 3.3%, PREVIOUS 3.1% ,REVISION 3.3%) $MACRO
+- 09/16 15:01 [financialjuice] UK PPI INPUT PRICES MOM ACTUAL 0.3% (FORECAST 0.4%, PREVIOUS -1.7%) $MACRO
+- 09/16 15:01 [financialjuice] SWEDISH UNEMPLOYMENT RATE SA ACTUAL 8.7% (FORECAST 8.6%, PREVIOUS 8.6%) $MACRO
+- 09/16 15:01 [financialjuice] UK PPI August 2026 Report
+- 09/16 15:01 [financialjuice] UK CPI August 2026 Report
+- 09/16 15:02 [FirstSquawk] Uk (Aug) cpi mom actual: 0.5% Vs 0.3% previous;est 0.5% Uk (Aug) cpi yoy actual: 3.1% Vs 2.9% previous;est 3.1%
+- 09/16 15:02 [FirstSquawk] Uk (Aug) cpi core yoy actual: 2.6% Vs 2.6% previous;est 2.6% Uk (Aug) cpi services yoy actual: 3.4% Vs 3.4% previous;est 3.5%
+- 09/16 15:02 [FirstSquawk] Uk (Aug) cpih yoy actual: 3.3% Vs 3.1% previous;est 3.2% Uk (Aug) retail price index actual: 421.6 Vs 419.1 previous;est 421.9
+- 09/16 15:03 [FirstSquawk] Uk (Aug) rpi mom actual: 0.6% Vs 0.6% previous;est 0.7% Uk (Aug) rpi yoy actual: 3.4% Vs 3.2% previous;est 3.5% Uk (Aug) rpi ex mort int.payments (yoy) actual: 3.3% Vs 3.1% previous
+- 09/16 15:03 [FirstSquawk] Sweden (Aug) unemployment rate actual: 8.5% Vs 7.8% previous Sweden (Aug) unemployment rate trend actual: 8.7% Vs 8.7% previous
+- 09/16 15:03 [FirstSquawk] Sweden (Aug) unemployment rate sa actual: 8.9% Vs 8.6% previous; est 8.6% Uk (Aug) ppi output nsa mom actual: 0.7% Vs 0.2% previous;est 0.5%
+- 09/16 15:03 [FirstSquawk] Uk (Aug) ppi output nsa yoy actual: 3.7% Vs 3.1% previous;est 3.2% Uk (Aug) ppi input nsa mom actual: 0.3% Vs -1.7% previous;est 0.4%
+- 09/16 15:03 [FirstSquawk] Uk (Aug) ppi input nsa yoy actual: 6.1% Vs 4.9% previous;est 5.4%
+- 09/16 15:05 [FirstSquawk] Panasonic Energy launches new global lithium-ion battery R&D hub in Japan Panasonic Energy has launched a new global lithium-ion battery R&D hub in Japan to accelerate development and production for automotive and data center applications. …
+- 09/16 15:12 [FirstSquawk] 30-year JGB yield falls 4.5 bps to 4.105% The yield on Japan’s 30-year government bond fell 4.5 basis points to 4.105%. The move comes as investors adjust positions in long-dated Japanese government bonds, with yields remaining elevated ami…
+- 09/16 15:13 [financialjuice] Senior German lawmaker Thorsten Frei: Energy price relief must come quickly - RTL TV
+- 09/16 15:14 [FirstSquawk] German lawmaker Frei calls for energy relief measures from October
+- 09/16 15:16 [FirstSquawk] Senior German lawmaker Frei said lowering the tax on gasoline would be one possible option as the government considers measures to provide energy relief.
+- 09/16 15:22 [FirstSquawk] Fitch affirms Indonesia Investment Authority at ‘BBB’; outlook negative Fitch Ratings has affirmed the Indonesia Investment Authority’s rating at ‘BBB’, while maintaining a negative outlook. The rating action keeps the sovereign wealth fund…

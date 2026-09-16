@@ -7,53 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 14:58 JST／対象: 09/15 14:58 〜 09/16 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 15:23 JST／対象: 09/15 15:23 〜 09/16 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 424 | 09/15 14:58 | 09/16 14:51 | 41分（01:25→02:06） |
-| financialjuice | 227 | 09/15 14:58 | 09/16 14:36 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 422 | 09/15 15:23 | 09/16 15:22 | 41分（01:25→02:06） |
+| financialjuice | 227 | 09/15 21:05 | 09/16 15:13 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 693 行（統合前 711 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 691 行（統合前 709 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 14:58 [FirstSquawk] Katayama: Japan will safeguard market confidence by examining both expenditure and revenue.
-- 09/15 14:58 [financialjuice] Japan's Fin. Min. Katayama: We won't issue debt to fund food sales tax cut
-- 09/15 14:58 [financialjuice] Japan finance minister Katayama: Will aim to secure enough funding through efforts to boost non-tax revenue
-- 09/15 15:00 [financialjuice] Japan Finance Minister Katayama: We expect a meaningful level of overshoot in tax revenue
-- 09/15 15:00 [financialjuice] ❗ UK UNEMPLOYMENT CHANGE ACTUAL 27.8K (FORECAST 5K, PREVIOUS -11.0K) $MACRO
-- 09/15 15:00 [financialjuice] UK EMPLOYMENT CHANGE 3M/3M ACTUAL 66K (FORECAST 67K, PREVIOUS 83K) $MACRO
-- 09/15 15:00 [financialjuice] UK AVERAGE WEEKLY EARNINGS YOY ACTUAL 3.9% (FORECAST 3.9%, PREVIOUS 4.1%) $MACRO
-- 09/15 15:00 [financialjuice] ❗ UK EMPLOYMENT CHANGE SA ACTUAL -26K (FORECAST -5K, PREVIOUS -13K) $MACRO
-- 09/15 15:00 [financialjuice] ❗ UK UNEMPLOYMENT RATE ACTUAL 4.9% (FORECAST 4.9%, PREVIOUS 4.9%) $MACRO
-- 09/15 15:00 [financialjuice] UK AVERAGE EARNINGS (EX-BONUS) ACTUAL 3.5% (FORECAST 3.5%, PREVIOUS 3.5%) $MACRO
-- 09/15 15:00 [financialjuice] NORWEGIAN TRADE BALANCE ACTUAL 100.44B (FORECAST -, PREVIOUS 84.30B) $MACRO
-- 09/15 15:00 [financialjuice] GERMAN WHOLESALE PRICE INDEX YOY ACTUAL 6.8% (FORECAST -, PREVIOUS 5.3%) $MACRO
-- 09/15 15:00 [financialjuice] GERMAN WHOLESALE PRICE INDEX MOM ACTUAL 0.9% (FORECAST -, PREVIOUS 0.2%) $MACRO
-- 09/15 15:02 [FirstSquawk] GERMANY (AUG) Wholesale Price Index MoM ACTUAL: 0.9% VS 0.2% PREVIOUS
-- 09/15 15:02 [FirstSquawk] UK (JUL) Average Weekly Earnings 3M/YoY ACTUAL: 3.9% VS 4.1% PREVIOUS;EST 3.9%
-- 09/15 15:02 [FirstSquawk] GERMANY (AUG) Wholesale Price Index YoY ACTUAL: 6.8% VS 5.3% PREVIOUS
-- 09/15 15:02 [FirstSquawk] UK (JUL) Weekly Earnings ex Bonus 3M/YoY ACTUAL: 3.5% VS 3.5% PREVIOUS;EST 3.5%
-- 09/15 15:02 [FirstSquawk] UK (JUL) Private Earnings ex Bonus 3M/YoY ACTUAL: 2.9% VS 2.8% PREVIOUS;EST 2.8%
-- 09/15 15:02 [FirstSquawk] UK (JUL) ILO Unemployment Rate 3Mths ACTUAL: 4.9% VS 4.9% PREVIOUS;EST 4.9%
-- 09/15 15:02 [FirstSquawk] UK (JUL) Employment Change 3M/3M ACTUAL: 66K VS 84K PREVIOUS;EST 67K
-- 09/15 15:02 [FirstSquawk] UK (JUL) Payrolled Employees Monthly Change ACTUAL: -26% VS -13K PREVIOUS;EST -5K
-- 09/15 15:02 [FirstSquawk] NORWAY (AUG) Trade Balance ACTUAL: 100.4B VS 84.3B PREVIOUS
-- 09/15 15:02 [FirstSquawk] UK (JUL) Jobless Claims Change ACTUAL: 27.8k VS -11K PREVIOUS
-- 09/15 15:03 [FirstSquawk] UK (AUG) CLAIMANT COUNT RATE: 4.4% (PREV 4.3%)
-- 09/15 15:04 [FirstSquawk] DAX futures rise 0.10% and Euro Stoxx 50 futures gain 0.02%, while CAC 40 futures slip 0.05% and FTSE futures lose 0.15%.
-- 09/15 15:07 [financialjuice] Japan's Fin. Min. Katayama: We will cut wasteful spending drastically from here
-- 09/15 15:08 [financialjuice] Japan's Fin. Min. Katayama: We will scrutinise budget requests for next fiscal year strictly going forward
-- 09/15 15:11 [financialjuice] Poll: US 30-year mortgage rate to average 6.43% in 2026, 6.40% in 2027 and 6.25% in 2028 (vs 6.3%, 6.2% and 6.0% respectively in Q2 poll)
-- 09/15 15:16 [FirstSquawk] ECB expected to cut policy rates by 25bp in December 2027, according to Morgan Stanley.
-- 09/15 15:22 [FirstSquawk] Yemeni Armed Forces aviation strikes Houthi weapons storage sites in Al-Jawf, Al Arabiya correspondent reports.
 - 09/15 15:23 [FirstSquawk] Al Arabiya: Yemeni Armed Forces carry out airstrikes against Houthi weapons depots near Mount Heilan.
 - 09/15 15:24 [FirstSquawk] Houthi infiltration attempt thwarted by Yemeni Armed Forces in Harib, south of Marib, Al Arabiya correspondent says.
 - 09/15 15:24 [FirstSquawk] Bahrain: Continued Houthi targeting of civilians and civilian facilities in Saudi Arabia is strongly condemned.
@@ -717,3 +687,31 @@
 - 09/16 14:46 [FirstSquawk] Russia hits cargo vessel at Ukraine’s Chornomorsk port: IFX Russia struck a cargo vessel at the port of Chornomorsk in Ukraine, Interfax reported, citing the Russian Defence Ministry. The reported incident adds to ongoing risks around Ukrai…
 - 09/16 14:48 [FirstSquawk] Polish airports in Lublin and Rzeszów resume operations: PANSA Air operations at Lublin and Rzeszów airports in Poland have resumed after a temporary closure linked to military aviation operations, according to PANSA. The airports were brie…
 - 09/16 14:51 [FirstSquawk] US ambassador to South Africa says visa restrictions are only the first step The U.S. ambassador to South Africa said the visa restriction policy is only the first step in a series of potential escalatory measures. The remarks signal that W…
+- 09/16 15:00 [financialjuice] UK RPI MOM ACTUAL 0.6% (FORECAST 0.7%, PREVIOUS 0.6%) $MACRO
+- 09/16 15:00 [financialjuice] ‼ BREAKING: UK CPI YOY ACTUAL 3.1% (FORECAST 3.1%, PREVIOUS 2.9%) $MACRO
+- 09/16 15:00 [financialjuice] UK CPI MOM ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.3%) $MACRO
+- 09/16 15:00 [financialjuice] UK CORE CPI MOM ACTUAL 0.3% (FORECAST -, PREVIOUS 0.2%) $MACRO
+- 09/16 15:00 [financialjuice] ❗ UK CORE CPI YOY ACTUAL 2.6% (FORECAST 2.6%, PREVIOUS 2.6%) $MACRO
+- 09/16 15:00 [financialjuice] UK SERVICES CPI YOY ACTUAL 3.4% (FORECAST 3.5%, PREVIOUS 3.4%) $MACRO
+- 09/16 15:00 [financialjuice] SWEDISH UNEMPLOYMENT RATE ACTUAL 8.5% (FORECAST -, PREVIOUS 7.8%) $MACRO
+- 09/16 15:00 [financialjuice] UK PPI INPUT PRICES YOY ACTUAL 6.1% (FORECAST 5.4%, PREVIOUS 4.9% ,REVISION 5.8%) $MACRO
+- 09/16 15:01 [financialjuice] UK PPI OUTPUT PRICES MOM ACTUAL 0.7% (FORECAST 0.5%, PREVIOUS 0.2%) $MACRO
+- 09/16 15:01 [financialjuice] UK PPI OUTPUT PRICES YOY ACTUAL 3.7% (FORECAST 3.3%, PREVIOUS 3.1% ,REVISION 3.3%) $MACRO
+- 09/16 15:01 [financialjuice] UK PPI INPUT PRICES MOM ACTUAL 0.3% (FORECAST 0.4%, PREVIOUS -1.7%) $MACRO
+- 09/16 15:01 [financialjuice] SWEDISH UNEMPLOYMENT RATE SA ACTUAL 8.7% (FORECAST 8.6%, PREVIOUS 8.6%) $MACRO
+- 09/16 15:01 [financialjuice] UK PPI August 2026 Report
+- 09/16 15:01 [financialjuice] UK CPI August 2026 Report
+- 09/16 15:02 [FirstSquawk] Uk (Aug) cpi mom actual: 0.5% Vs 0.3% previous;est 0.5% Uk (Aug) cpi yoy actual: 3.1% Vs 2.9% previous;est 3.1%
+- 09/16 15:02 [FirstSquawk] Uk (Aug) cpi core yoy actual: 2.6% Vs 2.6% previous;est 2.6% Uk (Aug) cpi services yoy actual: 3.4% Vs 3.4% previous;est 3.5%
+- 09/16 15:02 [FirstSquawk] Uk (Aug) cpih yoy actual: 3.3% Vs 3.1% previous;est 3.2% Uk (Aug) retail price index actual: 421.6 Vs 419.1 previous;est 421.9
+- 09/16 15:03 [FirstSquawk] Uk (Aug) rpi mom actual: 0.6% Vs 0.6% previous;est 0.7% Uk (Aug) rpi yoy actual: 3.4% Vs 3.2% previous;est 3.5% Uk (Aug) rpi ex mort int.payments (yoy) actual: 3.3% Vs 3.1% previous
+- 09/16 15:03 [FirstSquawk] Sweden (Aug) unemployment rate actual: 8.5% Vs 7.8% previous Sweden (Aug) unemployment rate trend actual: 8.7% Vs 8.7% previous
+- 09/16 15:03 [FirstSquawk] Sweden (Aug) unemployment rate sa actual: 8.9% Vs 8.6% previous; est 8.6% Uk (Aug) ppi output nsa mom actual: 0.7% Vs 0.2% previous;est 0.5%
+- 09/16 15:03 [FirstSquawk] Uk (Aug) ppi output nsa yoy actual: 3.7% Vs 3.1% previous;est 3.2% Uk (Aug) ppi input nsa mom actual: 0.3% Vs -1.7% previous;est 0.4%
+- 09/16 15:03 [FirstSquawk] Uk (Aug) ppi input nsa yoy actual: 6.1% Vs 4.9% previous;est 5.4%
+- 09/16 15:05 [FirstSquawk] Panasonic Energy launches new global lithium-ion battery R&D hub in Japan Panasonic Energy has launched a new global lithium-ion battery R&D hub in Japan to accelerate development and production for automotive and data center applications. …
+- 09/16 15:12 [FirstSquawk] 30-year JGB yield falls 4.5 bps to 4.105% The yield on Japan’s 30-year government bond fell 4.5 basis points to 4.105%. The move comes as investors adjust positions in long-dated Japanese government bonds, with yields remaining elevated ami…
+- 09/16 15:13 [financialjuice] Senior German lawmaker Thorsten Frei: Energy price relief must come quickly - RTL TV
+- 09/16 15:14 [FirstSquawk] German lawmaker Frei calls for energy relief measures from October
+- 09/16 15:16 [FirstSquawk] Senior German lawmaker Frei said lowering the tax on gasoline would be one possible option as the government considers measures to provide energy relief.
+- 09/16 15:22 [FirstSquawk] Fitch affirms Indonesia Investment Authority at ‘BBB’; outlook negative Fitch Ratings has affirmed the Indonesia Investment Authority’s rating at ‘BBB’, while maintaining a negative outlook. The rating action keeps the sovereign wealth fund…
