@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 22:05 JST／対象: 09/15 22:05 〜 09/16 22:05 JST（時刻はすべて日本時間）
+生成: 2026-09-16 22:27 JST／対象: 09/15 22:27 〜 09/16 22:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 09/15 22:09 | 09/16 22:01 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 396 | 09/15 22:12 | 09/16 22:05 | 45分（17:00→17:45） |
-| financialjuice | 270 | 09/15 22:11 | 09/16 22:05 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 54 | 09/15 22:30 | 09/16 22:20 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 397 | 09/15 22:29 | 09/16 22:21 | 45分（17:00→17:45） |
+| financialjuice | 266 | 09/15 22:28 | 09/16 22:09 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 703 行（統合前 723 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 700 行（統合前 720 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 22:09 [DeItaone] FED BANK MONITORING SYSTEM HIT BY OUTAGE The Federal Reserve’s National Information Center suffered an outage on August 5, according to the WSJ. The White House said only the public website was affected, but sources said internal systems an…
-- 09/15 22:11 [financialjuice] Fitch Ratings: Weaker AI pricing power undermines capex sustainability.
-- 09/15 22:12 [FirstSquawk] RUSSIA'S FOREIGN MINISTRY ABOUT DRONE ATTACK ON TRAIN WITH FOREIGN VISITORS IN UKRAINE: WE HAVE REPEATEDLY WARNED THAT RAILWAY HUBS, TRANSPORT USED IN UKRAINIAN ARMY'S INTERESTS ARE LEGAL TARGETS
-- 09/15 22:14 [financialjuice] China and US Discuss Cutting Tariffs on Agriculture and Energy - People familiar with the matter.
-- 09/15 22:14 [FirstSquawk] RUSSIA'S FOREIGN MINISTRY: RUSSIA WARNED FOREIGN DIPLOMATS IN MAY TO LEAVE KYIV DUE TO RUSSIA'S STRIKES ON UKRAINE'S INDUSTRIAL-MILITARY COMPLEX
-- 09/15 22:23 [financialjuice] Canada's PM Carney: Canada will allow immediate expensing for most new capital investment.
-- 09/15 22:23 [FirstSquawk] PAKISTAN PM SHARIF TO MEET US OFFICIALS IN NEW YORK ON SEPT 22
-- 09/15 22:24 [FirstSquawk] US, CHINA DISCUSS CUTTING TARIFFS ON AGRICULTURE AND ENERGY
-- 09/15 22:24 [financialjuice] Canada's PM Carney: Two-thirds of all assets will now qualify for machinery, citing manufacturing equipment, software, patents, R&D, fiber, rail, pipelines, and other infrastructure
-- 09/15 22:24 [FirstSquawk] MEETING BETWEEN THE TWO SIDES COULD LIKELY RESULT IN LOWER DUTIES ON CHINESE INPUTS FOR MANUFACTURES || MOST FAVORITE NATION CHARGES COULD BE GRANTED TO SOME PRODUCTS
-- 09/15 22:27 [financialjuice] French PM Lecornu aims to keep govt spending flat in 2027 budget - Echos
 - 09/15 22:28 [financialjuice] Karachaganak output to drop up to 450k tons during repair - IFX
 - 09/15 22:29 [FirstSquawk] TRUMP: REPUBLICANS JUST GOT ANOTHER BAD DECISION FROM UNITED STATES SUPREME COURT IN MAIL-IN BALLOT CASE
 - 09/15 22:30 [DeItaone] TRUMP BLASTS SUPREME COURT OVER MAJOR RULINGS President Trump sharply criticized the U.S. Supreme Court, accusing it of repeatedly delivering decisions harmful to Republicans and the country. Trump attacked rulings involving mail-in voting,…
@@ -727,3 +716,11 @@
 - 09/16 22:03 [financialjuice] Apple has been developing enterprise server - The Information. $AAPL
 - 09/16 22:04 [FirstSquawk/financialjuice] APPLE HAS TALKED WITH NVIDIA TO USE NETWORK TECH: INFORMATION
 - 09/16 22:05 [FirstSquawk] APPLE CONSIDERS RETURN TO SERVER MARKET, HAS TALKED WITH NVIDIA TO USE NETWORK TECH - INFORMATION
+- 09/16 22:06 [FirstSquawk] TURKISH STOCKS FALL 6%, TRIGGERING MARKET-WIDE CIRCUIT BREAKER
+- 09/16 22:08 [FirstSquawk] INFINEON TO SELL NOR FLASH, F-RAM OPS TO WINBOND FOR $1.12B
+- 09/16 22:09 [financialjuice] Nvidia: Emerald AI, Google & Nvidia launch alliance and are to advance flexible AI data centers $NVDA
+- 09/16 22:11 [FirstSquawk] APPLE IS WORKING ON AN ENTERPRISE SERVER USING ITS OWN CHIPS, SOURCES REVEAL.
+- 09/16 22:12 [FirstSquawk] EMERALD AI, GOOGLE AND NVIDIA LAUNCH ALLIANCE TO ADVANCE FLEXIBLE AI DATA CENTRES
+- 09/16 22:15 [FirstSquawk] AMAZON RAISES MINIMUM STARTING PAY FOR FULL-TIME CORE OPERATIONS EMPLOYEES TO $20/HOUR, WITH AVERAGE PAY REACHING NEARLY $24/HOUR, AND LAUNCHES GROCERY DISCOUNT AND ACCESS TO NEW LIFETIME BANKING BENEFITS TO MAKE EVERYDAY LIFE MORE AFFORDAB…
+- 09/16 22:20 [DeItaone] FED DECISION DAY: MARKETS BRACE FOR A HIKE The Federal Reserve delivers its September rate decision, with prediction markets putting an 88% probability on a 25bp hike. What Wall Street expects Bank of America: September hike, with Waller ex…
+- 09/16 22:21 [FirstSquawk] ED YARDENI SLASHES S&P 500 TARGET, SAYS ‘PROCEED WITH CAUTION’ IN STOCKS AS RATES RISE – CNBC
