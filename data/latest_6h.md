@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 10:00 JST／対象: 09/16 04:00 〜 09/16 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-16 10:18 JST／対象: 09/16 04:18 〜 09/16 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/16 04:01 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 101 | 09/16 04:01 | 09/16 09:55 | 37分（04:18→04:56） |
-| financialjuice | 80 | 09/16 04:05 | 09/16 09:55 | 38分（05:04→05:43） |
+| DeItaone | 5 | 09/16 04:40 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 100 | 09/16 04:18 | 09/16 10:16 | 37分（04:18→04:56） |
+| financialjuice | 79 | 09/16 04:19 | 09/16 10:17 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 184 行（統合前 187 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 181 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 04:01 [FirstSquawk] US SENATE BLOCKS LANDMARK CRYPTO
-- 09/16 04:01 [DeItaone] NVIDIA CEO JENSEN HUANG: DO NOT NEED NEW LAWS OR REGULATIONS FOR AI SAFETY - SALESFORCE EVENT NVIDIA CEO: ON AI SAFETY, SAYS COMPANIES SHOULD PACE THEMSELVES UNTIL THEY ARE ARE CONFIDENT THEY ARE RELEASING SOMETHING THE MARKET WOULD APPRECI…
-- 09/16 04:05 [FirstSquawk] U.S. SENATE FAILS TO ADVANCE THE CLARITY ACT, WITH LAWMAKERS VOTING 50-49 AGAINST MOVING THE CRYPTO REGULATORY BILL FORWARD. THE VOTE DEALS A SETBACK TO EFFORTS TO ESTABLISH A U.S. REGULATORY FRAMEWORK FOR CRYPTOCURRENCIES.
-- 09/16 04:05 [financialjuice] US Senate votes 50-49 against advancing the Clarity act.
-- 09/16 04:08 [FirstSquawk] CRYPTO STOCKS EXTEND SELLOFF AS COINBASE AND CIRCLE SLIDE AROUND 10% AFTER U.S. SENATE FAILS TO ADVANCE KEY CRYPTO REGULATION BILL.
-- 09/16 04:13 [financialjuice] Saudi: Warning issued in the Jazan province.
-- 09/16 04:14 [financialjuice] Early warning issued in Khamis Mushait to alert of potential danger - Saudi Civil Defense.
-- 09/16 04:15 [FirstSquawk] SAUDI CIVIL DEFENSE ISSUES EARLY WARNINGS FOR POTENTIAL DANGER IN JAZAN, ABHA AND KHAMIS MUSHAIT.
-- 09/16 04:16 [FirstSquawk] UK ‘ACTIVELY’ EXPLORING JOINING CANADA-LED GLOBAL DEFENCE BANK - FT
 - 09/16 04:18 [FirstSquawk] JPMORGAN'S DOUG PETNO — KEY TAKEAWAYS • JPMORGAN CO-PRESIDENT DOUG PETNO: JAMIE DIMON IS NOT STEPPING BACK. • PETNO: NOTHING IS FLASHING RED IN THE US ECONOMY FOR CONSUMERS OR CORPORATES, WITH VERY LITTLE FLASHING YELLOW. • JPMORGAN SEES NO…
 - 09/16 04:19 [financialjuice] Danger has passed in Jazan - Saudi Civil Defense.
 - 09/16 04:20 [financialjuice] Danger has passed in Khamis Mushait - Saudi Civil Defense.
@@ -208,3 +199,9 @@
 - 09/16 09:54 [financialjuice] China defence minister: we will broaden global cooperation on joint drills, personnel training, gear and technology
 - 09/16 09:55 [FirstSquawk] China’s defence minister called for joint action to address risks linked to the abusive military use of emerging technologies. The remarks highlight growing attention on how new technologies could be used in military applications and the ri…
 - 09/16 09:55 [financialjuice] China defence minister: all parties must cooperate to address risks of misuse of emerging military technology
+- 09/16 10:01 [FirstSquawk] Japan’s 10-year government bond yield edged lower, falling 1.0 basis point to 3.020%.
+- 09/16 10:09 [FirstSquawk] Hong Kong’s upcoming policy address is set to unveil new initiatives focused on youth housing and mediation - SCMP The measures are expected to highlight government efforts around housing support for younger residents, alongside initiatives…
+- 09/16 10:11 [financialjuice] Meta: Threads rolls out parental controls for teens in APAC - blog
+- 09/16 10:12 [FirstSquawk] Meta’s Threads is introducing parental supervision features for teenagers across Asia-Pacific. The rollout gives parents additional tools to oversee how teens use the platform, expanding Meta’s focus on safety and supervision features for y…
+- 09/16 10:16 [FirstSquawk] The PBOC has set the yuan’s daily midpoint at 6.7628 per U.S. dollar.
+- 09/16 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023

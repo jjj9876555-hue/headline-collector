@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 10:00 JST／対象: 09/15 10:00 〜 09/16 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-16 10:18 JST／対象: 09/15 10:18 〜 09/16 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 426 | 09/15 10:00 | 09/16 09:55 | 41分（01:25→02:06） |
-| financialjuice | 272 | 09/15 10:00 | 09/16 09:55 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 421 | 09/15 10:18 | 09/16 10:16 | 41分（01:25→02:06） |
+| financialjuice | 273 | 09/15 10:19 | 09/16 10:17 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 740 行（統合前 757 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 736 行（統合前 753 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 10:00 [FirstSquawk] Beijing turns its focus to offshore brokerages as it moves to curb pay loopholes and corruption.
-- 09/15 10:00 [FirstSquawk] New crypto tax bill emerges in the US House, putting digital-asset taxation back in focus.
-- 09/15 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% versus prior session opening of 0.805%
-- 09/15 10:01 [FirstSquawk] US Treasury lays out a complex compliance framework for Venezuela oil deals, signaling that sanctions have not been lifted.
-- 09/15 10:03 [FirstSquawk] TAIEX starts Tuesday’s session slightly weaker, falling 0.04% to 45,845.06.
-- 09/15 10:03 [FirstSquawk] Huawei’s US court battle intensifies as the jury weighs a case tied to China and Iran.
-- 09/15 10:07 [FirstSquawk] Iran’s Revolutionary Guards report an oil tanker explosion in the strategically vital Strait of Hormuz.
-- 09/15 10:10 [FirstSquawk] Polish armed forces launch air operations as Russian drones strike targets across Ukraine.
-- 09/15 10:14 [FirstSquawk] Brent crude prices advance about 1%, reaching the $107-a-barrel mark.
-- 09/15 10:14 [FirstSquawk] Emergency UN Security Council meeting set for tonight to address the latest developments in Bab al-Mandab, according to Al Arabiya.
 - 09/15 10:18 [FirstSquawk] Zelensky says Kyiv is prepared to lower tensions if Moscow responds with its own de-escalatory measures.
 - 09/15 10:19 [financialjuice] China sets yuan mid-point at strongest level since February 3, 2023
 - 09/15 10:21 [FirstSquawk] China to release its latest 70-city residential property price data in 10 minutes, with markets watching for signs of recovery.
@@ -764,3 +754,9 @@
 - 09/16 09:54 [financialjuice] China defence minister: we will broaden global cooperation on joint drills, personnel training, gear and technology
 - 09/16 09:55 [FirstSquawk] China’s defence minister called for joint action to address risks linked to the abusive military use of emerging technologies. The remarks highlight growing attention on how new technologies could be used in military applications and the ri…
 - 09/16 09:55 [financialjuice] China defence minister: all parties must cooperate to address risks of misuse of emerging military technology
+- 09/16 10:01 [FirstSquawk] Japan’s 10-year government bond yield edged lower, falling 1.0 basis point to 3.020%.
+- 09/16 10:09 [FirstSquawk] Hong Kong’s upcoming policy address is set to unveil new initiatives focused on youth housing and mediation - SCMP The measures are expected to highlight government efforts around housing support for younger residents, alongside initiatives…
+- 09/16 10:11 [financialjuice] Meta: Threads rolls out parental controls for teens in APAC - blog
+- 09/16 10:12 [FirstSquawk] Meta’s Threads is introducing parental supervision features for teenagers across Asia-Pacific. The rollout gives parents additional tools to oversee how teens use the platform, expanding Meta’s focus on safety and supervision features for y…
+- 09/16 10:16 [FirstSquawk] The PBOC has set the yuan’s daily midpoint at 6.7628 per U.S. dollar.
+- 09/16 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023

@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 10:00 JST／対象: 09/15 22:00 〜 09/16 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-16 10:18 JST／対象: 09/15 22:18 〜 09/16 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 09/15 22:09 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 224 | 09/15 22:01 | 09/16 09:55 | 41分（01:25→02:06） |
-| financialjuice | 187 | 09/15 22:00 | 09/16 09:55 | 38分（05:04→05:43） |
+| DeItaone | 43 | 09/15 22:30 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 222 | 09/15 22:23 | 09/16 10:16 | 41分（01:25→02:06） |
+| financialjuice | 180 | 09/15 22:23 | 09/16 10:17 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 440 行（統合前 457 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 430 行（統合前 447 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 22:00 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
-- 09/15 22:00 [financialjuice] ECB settled €1,667.2 bln public-sector bond purchases.
-- 09/15 22:00 [financialjuice] ECB settled €216.3 bln corporate bond purchases
-- 09/15 22:01 [financialjuice] US destroyed two Iranian small boats Monday - Axios.
-- 09/15 22:01 [financialjuice] ECB: Forex reserves fell €100 mln to €350.0 bln
-- 09/15 22:01 [FirstSquawk] EU’S VON DER LEYEN ON DRONE ENTERING LITHUANIA: RUSSIA WILL FIND OUR RESOLVE ONLY GROWING STRONGER
-- 09/15 22:02 [FirstSquawk] CANADA EXPANDS INSTANT TAX DEDUCTIONS TO VARIOUS INVESTMENTS.
-- 09/15 22:02 [financialjuice] Canada extends immediate tax write-offs to range of investments.
-- 09/15 22:03 [financialjuice] Micron sees 512GB RDIMMs in volume production in 2H 2027.
-- 09/15 22:05 [FirstSquawk] FED UNDER 'ENORMOUS PRESSURE' TO DELIVER 25 BPS HIKE: THOMAS
-- 09/15 22:05 [FirstSquawk] FED HAS TO 'GET SERIOUS' ON DELIVERING PRICE STABILITY: THOMAS
-- 09/15 22:09 [DeItaone] FED BANK MONITORING SYSTEM HIT BY OUTAGE The Federal Reserve’s National Information Center suffered an outage on August 5, according to the WSJ. The White House said only the public website was affected, but sources said internal systems an…
-- 09/15 22:11 [financialjuice] Fitch Ratings: Weaker AI pricing power undermines capex sustainability.
-- 09/15 22:12 [FirstSquawk] RUSSIA'S FOREIGN MINISTRY ABOUT DRONE ATTACK ON TRAIN WITH FOREIGN VISITORS IN UKRAINE: WE HAVE REPEATEDLY WARNED THAT RAILWAY HUBS, TRANSPORT USED IN UKRAINIAN ARMY'S INTERESTS ARE LEGAL TARGETS
-- 09/15 22:14 [financialjuice] China and US Discuss Cutting Tariffs on Agriculture and Energy - People familiar with the matter.
-- 09/15 22:14 [FirstSquawk] RUSSIA'S FOREIGN MINISTRY: RUSSIA WARNED FOREIGN DIPLOMATS IN MAY TO LEAVE KYIV DUE TO RUSSIA'S STRIKES ON UKRAINE'S INDUSTRIAL-MILITARY COMPLEX
 - 09/15 22:23 [financialjuice] Canada's PM Carney: Canada will allow immediate expensing for most new capital investment.
 - 09/15 22:23 [FirstSquawk] PAKISTAN PM SHARIF TO MEET US OFFICIALS IN NEW YORK ON SEPT 22
 - 09/15 22:24 [FirstSquawk] US, CHINA DISCUSS CUTTING TARIFFS ON AGRICULTURE AND ENERGY
@@ -464,3 +448,9 @@
 - 09/16 09:54 [financialjuice] China defence minister: we will broaden global cooperation on joint drills, personnel training, gear and technology
 - 09/16 09:55 [FirstSquawk] China’s defence minister called for joint action to address risks linked to the abusive military use of emerging technologies. The remarks highlight growing attention on how new technologies could be used in military applications and the ri…
 - 09/16 09:55 [financialjuice] China defence minister: all parties must cooperate to address risks of misuse of emerging military technology
+- 09/16 10:01 [FirstSquawk] Japan’s 10-year government bond yield edged lower, falling 1.0 basis point to 3.020%.
+- 09/16 10:09 [FirstSquawk] Hong Kong’s upcoming policy address is set to unveil new initiatives focused on youth housing and mediation - SCMP The measures are expected to highlight government efforts around housing support for younger residents, alongside initiatives…
+- 09/16 10:11 [financialjuice] Meta: Threads rolls out parental controls for teens in APAC - blog
+- 09/16 10:12 [FirstSquawk] Meta’s Threads is introducing parental supervision features for teenagers across Asia-Pacific. The rollout gives parents additional tools to oversee how teens use the platform, expanding Meta’s focus on safety and supervision features for y…
+- 09/16 10:16 [FirstSquawk] The PBOC has set the yuan’s daily midpoint at 6.7628 per U.S. dollar.
+- 09/16 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023
