@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 11:33 JST／対象: 09/16 05:33 〜 09/16 11:33 JST（時刻はすべて日本時間）
+生成: 2026-09-16 11:51 JST／対象: 09/16 05:51 〜 09/16 11:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/16 07:16 | 09/16 07:16 | - |
-| FirstSquawk | 95 | 09/16 05:35 | 09/16 11:28 | 22分（06:49→07:11） |
-| financialjuice | 73 | 09/16 05:43 | 09/16 10:21 | 22分（08:51→09:13） |
+| FirstSquawk | 94 | 09/16 05:51 | 09/16 11:49 | 22分（06:49→07:11） |
+| financialjuice | 67 | 09/16 05:53 | 09/16 10:21 | 22分（08:51→09:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 166 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 159 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 05:35 [FirstSquawk] JPMORGAN DECLARES QUARTERLY COMMON STOCK DIVIDEND OF $1.65 PER SHARE.
-- 09/16 05:36 [FirstSquawk] INPEX SEES STRONG BUYER INTEREST IN ITS ABADI LIQUEFIED NATURAL GAS PROJECT IN INDONESIA. INPEX PRESIDENT SAYS THE COMPANY PLANS TO MAKE A FINAL INVESTMENT DECISION IN MID-2027, ACCORDING TO NIKKEI.
-- 09/16 05:36 [FirstSquawk] INPEX’S ABADI LNG PROJECT IN INDONESIA IS EXPECTED TO PRODUCE 9.5 MILLION METRIC TONS OF LNG ANNUALLY, WITH NEGOTIATIONS UNDERWAY WITH MAJOR BUYERS. INPEX PRESIDENT SAYS TALKS WITH BP AND SHELL ARE “CLOSE TO REACHING AGREEMENTS” ON TERMS, A…
-- 09/16 05:42 [FirstSquawk] COUNCIL OF ECONOMIC ADVISERS CHAIRMAN CHRISTOPHER PHELAN SAYS WOULD BE A MISTAKE FOR FED TO HIKE RATES - CNBC INTERVIEW
-- 09/16 05:43 [financialjuice] Council of Economic Advisers Chairman Phelan: It would be a mistake for the Fed to hike rates - CNBC Interview.
-- 09/16 05:48 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL 7.1M (FORECAST -1.8M, PREVIOUS -0.3M) $MACRO
-- 09/16 05:48 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL 1.5M (FORECAST -, PREVIOUS -1.9M) $MACRO
-- 09/16 05:48 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL 1.6M (FORECAST -, PREVIOUS 2M) $MACRO
-- 09/16 05:50 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL - (FORECAST -, PREVIOUS -0.246M ) $MACRO
-- 09/16 05:51 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL -0.246M (FORECAST -, PREVIOUS -0.3M) $MACRO
 - 09/16 05:51 [FirstSquawk] U.S. API DATA SHOWS CRUDE INVENTORIES SURGING 7.1M BARRELS VS. 1.8M-BARREL DRAW EXPECTED AND 0.3M PREVIOUSLY.
 - 09/16 05:53 [financialjuice] US Pressures Mexico to Box Out China’s AI Hardware Exports - WSJ
 - 09/16 05:58 [financialjuice/FirstSquawk] Reports of an explosion heard in Erbil, northern Iraq - Tasnim News.
@@ -190,3 +180,6 @@
 - 09/16 11:18 [FirstSquawk] Asia’s AI boom is running into a new bottleneck: talent. Chipmakers are racing to expand capacity and accelerate AI development, but the shortage of skilled engineers is becoming an increasingly important constraint. The AI race is no longe…
 - 09/16 11:23 [FirstSquawk] Foreign investors held 3.19 trillion yuan of bonds traded on China’s interbank market at the end of August, according to the PBOC Shanghai Head Office. The figure highlights the scale of overseas participation in China’s domestic bond marke…
 - 09/16 11:28 [FirstSquawk] The Palestinian Civil Defense says people were killed and injured after a cracked residential building collapsed in Gaza, according to Al Arabiya.
+- 09/16 11:39 [FirstSquawk] South Korea has cancelled a plan to report details of its U.S. investment plans to parliament on Thursday, according to a report. The decision comes as Seoul’s planned U.S. investment commitments remain in focus, with further details on the…
+- 09/16 11:40 [FirstSquawk] China has launched the Pinglu Canal, a major waterway project aimed at cutting transit times for cargo moving toward Southeast Asia. The canal is expected to strengthen regional connectivity and provide a more direct trade route, potentiall…
+- 09/16 11:49 [FirstSquawk] Seaport has initiated coverage of Domino’s Pizza (DPZ) with a Neutral rating. The new analyst coverage puts the restaurant chain under fresh scrutiny as investors assess its growth outlook, valuation and operating performance. Seaport ratin…

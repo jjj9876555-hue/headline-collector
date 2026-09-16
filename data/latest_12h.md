@@ -7,51 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 11:33 JST／対象: 09/15 23:33 〜 09/16 11:33 JST（時刻はすべて日本時間）
+生成: 2026-09-16 11:51 JST／対象: 09/15 23:51 〜 09/16 11:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/15 23:34 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 210 | 09/15 23:34 | 09/16 11:28 | 41分（01:25→02:06） |
-| financialjuice | 153 | 09/15 23:36 | 09/16 10:21 | 38分（05:04→05:43） |
+| DeItaone | 25 | 09/15 23:56 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 200 | 09/15 23:53 | 09/16 11:49 | 41分（01:25→02:06） |
+| financialjuice | 140 | 09/15 23:53 | 09/16 10:21 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 380 行（統合前 393 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 355 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 23:34 [DeItaone] *BESSENT SAYS WILL MEET CHINA'S HE LIFENG THIS WEEKEND
-- 09/15 23:34 [FirstSquawk] THUNE EXPRESSES WILLINGNESS TO CONSIDER A DIESEL EXPORT BAN.
-- 09/15 23:34 [FirstSquawk] BESSENT SAYS US BOND MARKET IS THE TOP PERFORMER GLOBALLY, HIGHLIGHTING ROBUST US TREASURY AUCTIONS.
-- 09/15 23:34 [FirstSquawk] CISCO AND NVIDIA RENEW PARTNERSHIP FOR SPLUNK AGENTIC AI.
-- 09/15 23:34 [FirstSquawk] BESSENT ANNOUNCED A MEETING WITH CHINA'S HE LIFENG THIS WEEKEND.
-- 09/15 23:36 [financialjuice] US Treasury Secretary Bessent: I have been coordinating for 6 months on AI and cybersecurity.
-- 09/15 23:36 [FirstSquawk] BESSENT: BIGGEST BANKS HAVE GOOD CYBERSECURITY RESILIENCE
-- 09/15 23:38 [financialjuice] US Treasury Secretary Bessent: At a defict-to-GDP ratio of 3%, we can start to pay down debt.
-- 09/15 23:39 [financialjuice] US Treasury Secretary Bessent: We would have continued fiscal contraction this year if not for tariff refunds.
-- 09/15 23:39 [financialjuice] Traders pare ECB bets. See 50% chance of rate hike in October.
-- 09/15 23:41 [FirstSquawk] THE HOME DEPOT FACES WEAK DEMAND OUTLOOK AS CONSUMERS HOLD BACK ON BIG-TICKET SPENDING THE HOME DEPOT SEES NO 2026 DEMAND RECOVERY AS CONSUMERS REMAIN RELUCTANT TO SPEND ON MAJOR PROJECTS $HD
-- 09/15 23:44 [FirstSquawk] CORRECTION - THUNE SAYS 'OPEN TO EXPLORING' AN EXPORT BAN ON DIESEL
-- 09/15 23:46 [financialjuice] US Treasury Secretary Bessent: We will continue to push for transparency in debt restructuring in light of hidden China debt provisions.
-- 09/15 23:46 [FirstSquawk] CHINA'S DEVELOPMENT LOANS CONTAIN UNDISCLOSED TERMS, SAYS BESSENT.
-- 09/15 23:46 [FirstSquawk] BESSENT SAYS CHINA'S BELT AND ROAD INITIATIVE HAS LED TO BANKRUPTCY FOR MANY BORROWERS.
-- 09/15 23:47 [financialjuice] US Treasury Secretary Bessent: Dollar continues to thrive as reserve currency. Transaction volume in dollars has risen.
-- 09/15 23:47 [FirstSquawk] BESSENT SAYS DOLLAR IS STILL STRONG IN GLOBAL DEALS.
-- 09/15 23:47 [FirstSquawk] BESSENT SAYS DOLLAR RESERVE DECLINE PRIMARILY CAUSED BY CHINA AND RUSSIA.
-- 09/15 23:47 [financialjuice] US Treasury Secretary Bessent: Dollar drop in reserves mainly due to China and Russia.
-- 09/15 23:47 [FirstSquawk] BESSENT ANNOUNCED THEY JUST COMPLETED TWO OF THE MOST SUCCESSFUL DEBT AUCTIONS IN THE LAST 20 YEARS.
-- 09/15 23:47 [DeItaone] BESSENT: DECREASE IN RESERVE HOLDINGS OF DOLLARS IS MAINLY FROM RUSSIA AND CHINA
-- 09/15 23:47 [FirstSquawk] BESSENT SAYS FISCAL CONSOLIDATION 'IS APPROACHING.'
-- 09/15 23:48 [financialjuice] US Treasury Secretary Bessent: Fiscal consolidation is coming.
-- 09/15 23:48 [financialjuice] Yemen denies Saudi Arabia's claim of a threat to attack Mecca - Tasnim News
-- 09/15 23:49 [financialjuice] Germany’s Chancellor Merz on fuel prices: I see no legal or factual basis for a windfall profit tax.
-- 09/15 23:49 [financialjuice] 3rd US drone shot down in the sky above the Strait of Hormuz by IRGC air defense - Fars News
-- 09/15 23:51 [financialjuice] US House Speaker Johnson: $5,000 checks will take time.
-- 09/15 23:51 [DeItaone/financialjuice] OIL LOADINGS SUSPENDED AT TOP SAUDI RED SEA PORT OF YANBU AFTER PREVIOUS ATTACK ON EAST-WEST PIPELINE - SHIPPING SOURCES
 - 09/15 23:53 [FirstSquawk] OIL LOADINGS HAVE BEEN STOPPED AT SAUDI ARABIA'S YANBU PORT AFTER AN ATTACK ON THE EAST-WEST PIPELINE, ACCORDING TO SHIPPING SOURCES.
 - 09/15 23:53 [FirstSquawk] US HOUSE SPEAKER JOHNSON DISCUSSED AI RISKS WITH PRESIDENT TRUMP LAST NIGHT.
 - 09/15 23:53 [FirstSquawk] CHINA'S KIMI HAD A SECURITY BREACH AND SHARED WEAPONS PLANS WITH ANTHROPIC.
@@ -404,3 +376,6 @@
 - 09/16 11:18 [FirstSquawk] Asia’s AI boom is running into a new bottleneck: talent. Chipmakers are racing to expand capacity and accelerate AI development, but the shortage of skilled engineers is becoming an increasingly important constraint. The AI race is no longe…
 - 09/16 11:23 [FirstSquawk] Foreign investors held 3.19 trillion yuan of bonds traded on China’s interbank market at the end of August, according to the PBOC Shanghai Head Office. The figure highlights the scale of overseas participation in China’s domestic bond marke…
 - 09/16 11:28 [FirstSquawk] The Palestinian Civil Defense says people were killed and injured after a cracked residential building collapsed in Gaza, according to Al Arabiya.
+- 09/16 11:39 [FirstSquawk] South Korea has cancelled a plan to report details of its U.S. investment plans to parliament on Thursday, according to a report. The decision comes as Seoul’s planned U.S. investment commitments remain in focus, with further details on the…
+- 09/16 11:40 [FirstSquawk] China has launched the Pinglu Canal, a major waterway project aimed at cutting transit times for cargo moving toward Southeast Asia. The canal is expected to strengthen regional connectivity and provide a more direct trade route, potentiall…
+- 09/16 11:49 [FirstSquawk] Seaport has initiated coverage of Domino’s Pizza (DPZ) with a Neutral rating. The new analyst coverage puts the restaurant chain under fresh scrutiny as investors assess its growth outlook, valuation and operating performance. Seaport ratin…
