@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 03:37 JST／対象: 09/16 03:37 〜 09/17 03:37 JST（時刻はすべて日本時間）
+生成: 2026-09-17 03:53 JST／対象: 09/16 03:53 〜 09/17 03:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 09/16 04:01 | 09/17 03:36 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 371 | 09/16 03:41 | 09/17 03:37 | 45分（17:00→17:45） |
-| financialjuice | 286 | 09/16 03:42 | 09/17 03:37 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 44 | 09/16 04:01 | 09/17 03:48 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 378 | 09/16 03:56 | 09/17 03:51 | 45分（17:00→17:45） |
+| financialjuice | 300 | 09/16 03:54 | 09/17 03:51 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 686 行（統合前 699 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 712 行（統合前 725 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 03:41 [FirstSquawk] NVIDIA CEO: AI COMPANIES SHOULD MOVE CAUTIOUSLY AND ONLY RELEASE PRODUCTS ONCE CONFIDENT THE MARKET WILL EMBRACE THEM.
-- 09/16 03:42 [financialjuice] ❗ Clarity Act is on track to the fail procedural hurdle in the Senate.
-- 09/16 03:42 [financialjuice] ❗ The Clarity Act is on track to fail the procedural hurdle in the Senate.
-- 09/16 03:44 [FirstSquawk] CLARITY ACT EXPECTED TO FAIL KEY PROCEDURAL VOTE IN THE U.S. SENATE AS LAWMAKERS CONTINUE VOTING.
-- 09/16 03:44 [FirstSquawk] JPMORGAN CO-PRESIDENT DOUG PETNO: JAMIE DIMON HAS NO PLANS TO STEP AWAY FROM HIS ROLE.
-- 09/16 03:45 [financialjuice] Brent CRUDe futures settle at $108.75/bbl, up $3.07, 2.9%.
-- 09/16 03:45 [FirstSquawk] BRENT CRUDE SETTLES 2.9% HIGHER AT $108.75/BBL, GAINING $3.07.
-- 09/16 03:47 [FirstSquawk] BRENT CRUDE RISES 3.0% TO $108.86 A BARREL AND WTI JUMPS 4.7% TO $106.15, AS TRADERS WEIGH SUPPLY RISKS FROM THE MIDDLE EAST AND RUSSIA, WITH SAUDI ARABIA’S KEY EAST-WEST PIPELINE STILL OFFLINE.
-- 09/16 03:47 [FirstSquawk] DIESEL FUTURES HIT A FOUR-YEAR HIGH, WHILE LIBYA SHUT SEVERAL OIL FIELDS AND SAUDI ARAMCO DELAYS SOME EUROPEAN SHIPMENTS, DEEPENING CONCERNS OVER TIGHTER GLOBAL FUEL SUPPLIES.
-- 09/16 03:49 [FirstSquawk] JPMORGAN'S PETNO: U.S. CONSUMERS AND CORPORATES SHOW NO MAJOR WARNING SIGNS, WITH VERY FEW AREAS OF CONCERN IN THE ECONOMY.
-- 09/16 03:49 [FirstSquawk] JPMORGAN'S PETNO: NO SYSTEMIC RISKS ARE CURRENTLY CAUSING CONCERN.
-- 09/16 03:50 [FirstSquawk] JPMORGAN'S PETNO: DEALMAKING ACTIVITY REMAINS STRONG AND ROBUST.
 - 09/16 03:54 [financialjuice] JPmorgan's Petno: We would expect trading fees in the third quarter to be up mid to high teens. $JPM
 - 09/16 03:56 [FirstSquawk] TRUMP SAYS THE KENNEDY CENTER BOARD AGREED ALMOST UNANIMOUSLY TO CLOSE THE BUILDING FOR SAFETY REASONS.
 - 09/16 03:56 [FirstSquawk] TRUMP SAYS RENOVATION AND RECONSTRUCTION CANNOT BEGIN UNTIL THE D.C. CIRCUIT RULES ON THE BOARD’S APPROVED NAME.
@@ -710,3 +698,41 @@
 - 09/17 03:37 [FirstSquawk] US 2-YEAR YIELD SURGES TO 4.712%, HIGHEST SINCE JULY 2024
 - 09/17 03:37 [FirstSquawk] S&P 500 TURNS NEGATIVE, NASDAQ CUTS GAINS TO 0.3% AS US STOCKS LOSE MOMENTUM
 - 09/17 03:37 [financialjuice] Fed's Chair Warsh: Inflation risks are to the upside, labor risks are balanced.
+- 09/17 03:38 [FirstSquawk] FED’S WARSH SAYS THE FOMC DECIDED INFLATION HAS NOT MET THE TEST OF MOVING TOWARD 2% ON A TIMELY BASIS, DESPITE EXPRESSING READINESS TO ACT IN JULY.
+- 09/17 03:38 [FirstSquawk] FED'S WARSH SAYS THE FED HAS A ROLE IN SUSTAINING CURRENT ECONOMIC PROGRESS, ADDING THAT LOWER-INCOME AMERICANS HAVE THE MOST TO GAIN FROM THAT PROGRESS.
+- 09/17 03:38 [financialjuice/FirstSquawk] ❗ Traders add to bets on two more Fed rate hikes by the year-end.
+- 09/17 03:39 [financialjuice] Fed's Chair Warsh: We will ensure any changes in prices won't broaden out.
+- 09/17 03:39 [FirstSquawk] U.S. DOLLAR INDEX RISES 0.53% TO 100.19, ITS HIGHEST LEVEL SINCE JULY 31, AFTER THE FED’S RATE DECISION.
+- 09/17 03:39 [FirstSquawk] STERLING FALLS 0.66% TO $1.3387, THE EURO DROPS 0.58% TO $1.1474, AND DOLLAR/YEN RISES 0.51% TO 155.88.
+- 09/17 03:39 [financialjuice] Fed's Chair Warsh: I am not in the forward guidance business.
+- 09/17 03:40 [financialjuice] Fed's Chair Warsh: The decision we made today was a sober decision.
+- 09/17 03:40 [financialjuice] Fed's Chair Warsh: I am not going to prejudge any future decision we may make.
+- 09/17 03:41 [FirstSquawk] BOEING CEO SAYS 737 MAX 10 CERTIFICATION IS COMING “VERY SHORTLY”, ACCORDING TO MORGAN STANLEY, AS THE COMPANY CONTINUES WORKING TO STABILIZE PRODUCTION.
+- 09/17 03:41 [FirstSquawk] BOEING SAYS IT IS TAKING LONGER THAN EXPECTED TO REACH 47 JETS PER MONTH, WITH WING PRODUCTION CURRENTLY THE MAIN SUPPLY-CHAIN CONSTRAINT.
+- 09/17 03:41 [DeItaone] *WARSH: NOT IN THE FORWARD GUIDANCE BUSINESS
+- 09/17 03:42 [financialjuice] Fed's Chair Warsh: I have nothing for you about a discussion with the President.
+- 09/17 03:42 [financialjuice] Fed's Chair Warsh: Because of the underlying strength of the economy, we can afford to focus on price stability.
+- 09/17 03:42 [FirstSquawk] FED’S WARSH SAYS THE FED’S RATE DECISION WAS A “SOBER DECISION” AND THE RIGHT ONE, WHILE DECLINING TO PREJUDGE FUTURE POLICY MOVES.
+- 09/17 03:42 [FirstSquawk] FED'S WARSH SAYS THE UNDERLYING STRENGTH OF THE ECONOMY ALLOWS THE FED TO FOCUS ON PRICE STABILITY, ADDING THAT HE HAS NO COMMENT ON ANY DISCUSSION WITH THE PRESIDENT.
+- 09/17 03:43 [DeItaone] *TRADERS ADD TO BETS ON TWO MORE FED RATE HIKES BY YEAR-END
+- 09/17 03:43 [DeItaone] *WARSH: NOT GOING TO PREJUDGE ANY FUTURE DECISIONS
+- 09/17 03:43 [DeItaone] *WARSH DECLINES TO COMMENT ON ANY DISCUSSION WITH PRESIDENT
+- 09/17 03:44 [financialjuice] Fed's Chair Warsh: What happened in 7 weeks since we last met, data has shown that the economy has strenghtened.
+- 09/17 03:44 [financialjuice] Fed's Chair Warsh: Inflation trends were not passing the test, and I have seen little to change that.
+- 09/17 03:45 [financialjuice] Fed's Chair Warsh: My colleagues are hard-pressed to describe financial conditions as restrictive, so we decided to remove a dose of accommodation.
+- 09/17 03:45 [FirstSquawk] BOEING CEO SEES 737 MAX 10 CERTIFICATION “VERY SHORTLY”; PRODUCTION STABILIZATION TAKING LONGER THAN EXPECTED
+- 09/17 03:45 [DeItaone] *WARSH: SEEN LITTLE INFO TO SUGGEST INFL TRENDS PASSING THE TEST
+- 09/17 03:46 [financialjuice] Fed's Chair Warsh: I have always been interested in a neutral rate academically, but I don't see it having an operational effect on decisions today.
+- 09/17 03:47 [financialjuice] ❗ Fed's Chair Warsh: I was not waiting breathlessly on any one data point, including CPI.
+- 09/17 03:48 [FirstSquawk] FED’S WARSH SAYS DATA OVER THE PAST SEVEN WEEKS SHOWED THE ECONOMY HAS STRENGTHENED, WHILE INFLATION TRENDS FAILED TO IMPROVE ENOUGH TO MEET THE FED’S TEST.
+- 09/17 03:48 [financialjuice] Fed's Chair Warsh: Trends matter, data points are noisy.
+- 09/17 03:48 [FirstSquawk] FED'S WARSH SAYS THE FOMC REMOVED A DOSE OF ACCOMMODATION, ADDING THAT FINANCIAL CONDITIONS ARE NOT CLEARLY RESTRICTIVE AND THAT POLICY SHOULD FOCUS ON BROADER TRENDS RATHER THAN INDIVIDUAL DATA POINTS.
+- 09/17 03:48 [DeItaone] WARSH EXPLAINS WHY THE FED TURNED TO A RATE HIKE Fed Chair Kevin Warsh says three major developments changed the Fed’s outlook since July: a stronger economy and labor market, inflation failing to improve sufficiently, and a changed assessm…
+- 09/17 03:49 [financialjuice] Brent CRUDe futures settle at $105.83/bbl, down $2.92, 2.69%.
+- 09/17 03:49 [FirstSquawk] BOEING CEO: NO CHANGE TO INITIAL 777X UNIT PLANS; CONTRACT TALKS UNDERWAY WITH CUSTOMERS
+- 09/17 03:49 [FirstSquawk] BRENT CRUDE SETTLES 2.69% LOWER AT $105.83/BBL, DOWN $2.92
+- 09/17 03:50 [financialjuice] Fed's Chair Warsh: In aggregate, we're more or less at full employment.
+- 09/17 03:51 [financialjuice] Fed's Chair Warsh: Other advanced economies are suffering from price pressures, too.
+- 09/17 03:51 [FirstSquawk] FED’S WARSH SAYS THE ECONOMY IS MORE OR LESS AT FULL EMPLOYMENT AND THE FED TOOK A STEP TOWARD RESTORING PRICE STABILITY, WHILE DECLINING TO COMMENT ON DISCUSSIONS WITH THE PRESIDENT.
+- 09/17 03:51 [financialjuice] Fed's Chair Warsh declines to comment on ECB and other central banks' policy.
+- 09/17 03:51 [FirstSquawk] FED'S WARSH SAYS STABLE PRICES CAN HELP WORKERS GAIN REAL TAKE-HOME PAY, ADDING THAT OTHER ADVANCED ECONOMIES ARE ALSO FACING PRICE PRESSURES.
