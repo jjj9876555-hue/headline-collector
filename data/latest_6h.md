@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 05:25 JST／対象: 09/16 23:25 〜 09/17 05:25 JST（時刻はすべて日本時間）
+生成: 2026-09-17 05:44 JST／対象: 09/16 23:44 〜 09/17 05:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 30 | 09/16 23:46 | 09/17 05:03 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 108 | 09/16 23:26 | 09/17 05:10 | 24分（04:23→04:47） |
-| financialjuice | 133 | 09/16 23:27 | 09/17 05:05 | 35分（00:12→00:47） |
+| FirstSquawk | 105 | 09/16 23:44 | 09/17 05:43 | 32分（05:10→05:42） |
+| financialjuice | 126 | 09/16 23:51 | 09/17 05:40 | 35分（00:12→00:47） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 261 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 249 行（統合前 265 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 23:26 [FirstSquawk] BURNHAM'S BREXIT BRITAIN FEELS PAIN FROM EU-CANADA RELATIONSHIP.
-- 09/16 23:27 [financialjuice] Pentagon's Michael on CNBC: AI firms not investing enough in safety.
-- 09/16 23:28 [financialjuice] ECB's Pereira: So far inflation not broadening in the economy as widely as in the past, but something we will be watching in coming months
-- 09/16 23:30 [FirstSquawk] US CRUDE OIL INVENTORIES ACTUAL: -640K VS -391K PREVIOUS; EST -1550K
-- 09/16 23:30 [FirstSquawk] US CUSHING CRUDE OIL INVENTORIES ACTUAL: -342K VS -684K PREVIOUS
-- 09/16 23:30 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL 1.585M (FORECAST 0.65M, PREVIOUS 2.087M) $MACRO
-- 09/16 23:30 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL -0.64M (FORECAST -1.5M, PREVIOUS -0.391M) $MACRO
-- 09/16 23:30 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 0.794M (FORECAST -1.1M, PREVIOUS 1.269M) $MACRO
-- 09/16 23:30 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL -0.342M (FORECAST -, PREVIOUS -0.684M) $MACRO
-- 09/16 23:30 [financialjuice] EIA Weekly Inventories Report
-- 09/16 23:31 [financialjuice] Pentagon's Michael: AI firms should be doing independent auditing
-- 09/16 23:32 [FirstSquawk] CELH INSIDER BUYING SURGES: DIRECTOR DAMON DESANTIS BUYS $1M OF SHARES $CELH
-- 09/16 23:35 [financialjuice] CNBC interview with Pentagon's Emil Michael ends
-- 09/16 23:38 [FirstSquawk] SANOFI OPENS C$925 MLN FLU VACCINE PLANT IN TORONTO, OUTPUT TO START EARLY NEXT YEAR
-- 09/16 23:39 [financialjuice] ECB's Pereira: A lot of risks have certainly risen in last few months.
 - 09/16 23:44 [FirstSquawk] ECB'S PEREIRA: CERTAINLY SEEN A LOT OF RISKS RISE IN LAST FEW MONTHS
 - 09/16 23:46 [DeItaone] FED DOT PLOT COULD SIGNAL ANOTHER 2026 HIKE The Fed’s updated Dot Plot is expected to show rates ending 2026 near 4.1%, implying another hike after today’s anticipated 25bp increase. The bigger question is 2027: projections may still signal…
 - 09/16 23:51 [FirstSquawk] AMERICAN AIRLINES FEELING 'REALLY GOOD' ABOUT GUIDANCE: CEO
@@ -285,3 +270,6 @@
 - 09/17 05:10 [FirstSquawk] WALL STREET STOCKS FELL AFTER THE FEDERAL RESERVE RAISED ITS BENCHMARK RATE BY 25 BASIS POINTS TO 3.75%–4%, MARKING ITS FIRST HIKE IN THREE YEARS. THE S&P 500 DROPPED 0.45%, WHILE THE DOW FELL 1.2%, AS TRADERS INCREASED BETS THAT THE FED CO…
 - 09/17 05:10 [FirstSquawk] FED CHAIR KEVIN WARSH EMPHASIZED THAT INFLATION REMAINS TOO HIGH, WITH MULTIPLE CATEGORIES OF GOODS AND SERVICES RECORDING PRICE INCREASES ABOVE 3% OVER SIX- AND 12-MONTH PERIODS. THE DOT PLOT POINTED TO ONE MORE HIKE THIS YEAR, WHILE STRON…
 - 09/17 05:10 [FirstSquawk] MARKETS REACTED WITH HIGHER SHORT-TERM TREASURY YIELDS AND A STRONGER DOLLAR. THE 2-YEAR TREASURY YIELD ROSE 7 BASIS POINTS TO 4.74%, WHILE THE DOLLAR INDEX GAINED 0.5%. OIL FELL 3.6% TO $102.05, GOLD SLIPPED 0.5% TO $4,269.95, WHILE BITCOI…
+- 09/17 05:30 [financialjuice/FirstSquawk] The White House seeks to remove Canadian items from US procurement.
+- 09/17 05:36 [financialjuice/FirstSquawk] US-Mexico trade talks have been pushed back one week - WSJ.
+- 09/17 05:40 [financialjuice] Trump: Interest rates in the US should be 1%, or less. Lower the interest rates, and fast - Truth Social
