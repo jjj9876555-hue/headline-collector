@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 17:58 JST／対象: 09/16 05:58 〜 09/16 17:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 18:18 JST／対象: 09/16 06:18 〜 09/16 18:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/16 07:16 | 09/16 07:16 | - |
-| FirstSquawk | 201 | 09/16 06:16 | 09/16 17:46 | 45分（17:00→17:45） |
-| financialjuice | 100 | 09/16 06:18 | 09/16 17:45 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 201 | 09/16 06:20 | 09/16 18:12 | 45分（17:00→17:45） |
+| financialjuice | 103 | 09/16 06:18 | 09/16 18:00 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 300 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 303 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 06:16 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM IS SET TO MEET DONALD TRUMP IN NEW YORK NEXT WEEK DURING THE UNITED NATIONS GENERAL ASSEMBLY || MEETING WOULD MARK THEIR FIRST FACE-TO-FACE MEETING SINCE BURNHAM BECAME PRIME MINISTER, ACCORDING TO THE TIMES.
 - 09/16 06:18 [financialjuice] Burnham to meet Trump for first time in New York next week: The Times
 - 09/16 06:19 [financialjuice] Trump and Burnham expected to discuss Ukraine, Middle East and energy at United Nations General Assembly - The Times
 - 09/16 06:20 [financialjuice] Ukraine sets budget revenue goal at 5.65 trillion hryvnias ($126.7 bln) next year: draft budget
@@ -324,3 +323,7 @@
 - 09/16 17:45 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS GUIDING PRINCIPLE REMAINS UNCHANGED: WINTER PREPAREDNESS IS THE RESPONSIBILITY OF THE MARKET, AND ENERGY SUPPLY COMPANIES MUST FULFILL THEIR OBLIGATIONS
 - 09/16 17:46 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS GOVERNMENT HAS CONSISTENTLY TAKEN PRECAUTIONARY MEASURES AND PREPARED POTENTIAL COURSES OF ACTION TO ENSURE A RAPID AND TARGETED RESPONSE SHOULD THE SITUATION DETERIORATE, AND TO GUARANTEE SECURITY OF SUPPLY
 - 09/16 17:46 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS WE EXPRESSLY WELCOME SEFE’S INTENTION TO STEP UP ITS EFFORTS TO FILL GAS STORAGE FACILITIES
+- 09/16 18:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION MOM ACTUAL -0.1% (FORECAST -0.2%, PREVIOUS 0.0%) $MACRO
+- 09/16 18:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION YOY ACTUAL 0.0% (FORECAST -0.1%, PREVIOUS 0.1%) $MACRO
+- 09/16 18:00 [financialjuice] EUROZONE LABOUR COSTS YOY ACTUAL 3.1% (FORECAST -, PREVIOUS 3.2%) $MACRO
+- 09/16 18:12 [FirstSquawk] AMAZON PLANS TO ESTABLISH OVER 1,000 SAME-DAY DELIVERY HUBS BY 2031, AS REPORTED BY INSIDER.
