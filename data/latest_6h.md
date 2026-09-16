@@ -7,41 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 09:23 JST／対象: 09/16 03:23 〜 09/16 09:23 JST（時刻はすべて日本時間）
+生成: 2026-09-16 09:48 JST／対象: 09/16 03:48 〜 09/16 09:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/16 04:01 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 88 | 09/16 03:35 | 09/16 09:19 | 37分（04:18→04:56） |
-| financialjuice | 73 | 09/16 03:26 | 09/16 09:17 | 38分（05:04→05:43） |
+| FirstSquawk | 99 | 09/16 03:49 | 09/16 09:48 | 37分（04:18→04:56） |
+| financialjuice | 75 | 09/16 03:49 | 09/16 09:47 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 164 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 177 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 03:26 [financialjuice] Clarity Act Vote - WATCH LIVE
-- 09/16 03:28 [financialjuice] Senate Republican Leader Thune: We have to mitigate the risks of AI.
-- 09/16 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $105.83 a barrel, up $4.44, 4.38%.
-- 09/16 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.4652 a gallon.
-- 09/16 03:31 [financialjuice] NYMEX Diesel October futures settle at $5.2620 a gallon, the highest on record.
-- 09/16 03:33 [financialjuice] NYMEX Natural Gas October futures settle at $2.9190/MMBtu.
-- 09/16 03:33 [financialjuice] NVIDIA CEO Huang: We do not need new laws or regulations for AI safety - Salesforce Event. $NVDA
-- 09/16 03:35 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $105.83/BBL, UP $4.44, OR 4.38%
-- 09/16 03:35 [FirstSquawk] US DIESEL FUTURES SETTLE ABOVE $5.26/GALLON, HIGHEST ON RECORD
-- 09/16 03:41 [FirstSquawk] NVIDIA CEO: AI COMPANIES SHOULD MOVE CAUTIOUSLY AND ONLY RELEASE PRODUCTS ONCE CONFIDENT THE MARKET WILL EMBRACE THEM.
-- 09/16 03:42 [financialjuice] ❗ Clarity Act is on track to the fail procedural hurdle in the Senate.
-- 09/16 03:42 [financialjuice] ❗ The Clarity Act is on track to fail the procedural hurdle in the Senate.
-- 09/16 03:44 [FirstSquawk] CLARITY ACT EXPECTED TO FAIL KEY PROCEDURAL VOTE IN THE U.S. SENATE AS LAWMAKERS CONTINUE VOTING.
-- 09/16 03:44 [FirstSquawk] JPMORGAN CO-PRESIDENT DOUG PETNO: JAMIE DIMON HAS NO PLANS TO STEP AWAY FROM HIS ROLE.
-- 09/16 03:45 [financialjuice] Brent CRUDe futures settle at $108.75/bbl, up $3.07, 2.9%.
-- 09/16 03:45 [FirstSquawk] BRENT CRUDE SETTLES 2.9% HIGHER AT $108.75/BBL, GAINING $3.07.
-- 09/16 03:47 [FirstSquawk] BRENT CRUDE RISES 3.0% TO $108.86 A BARREL AND WTI JUMPS 4.7% TO $106.15, AS TRADERS WEIGH SUPPLY RISKS FROM THE MIDDLE EAST AND RUSSIA, WITH SAUDI ARABIA’S KEY EAST-WEST PIPELINE STILL OFFLINE.
-- 09/16 03:47 [FirstSquawk] DIESEL FUTURES HIT A FOUR-YEAR HIGH, WHILE LIBYA SHUT SEVERAL OIL FIELDS AND SAUDI ARAMCO DELAYS SOME EUROPEAN SHIPMENTS, DEEPENING CONCERNS OVER TIGHTER GLOBAL FUEL SUPPLIES.
+- 09/16 03:49 [financialjuice] Brent Crude futures settle at $108.75/bbl, up $3.07, 2.9%.
 - 09/16 03:49 [FirstSquawk] JPMORGAN'S PETNO: U.S. CONSUMERS AND CORPORATES SHOW NO MAJOR WARNING SIGNS, WITH VERY FEW AREAS OF CONCERN IN THE ECONOMY.
 - 09/16 03:49 [FirstSquawk] JPMORGAN'S PETNO: NO SYSTEMIC RISKS ARE CURRENTLY CAUSING CONCERN.
 - 09/16 03:50 [FirstSquawk] JPMORGAN'S PETNO: DEALMAKING ACTIVITY REMAINS STRONG AND ROBUST.
@@ -188,3 +171,33 @@
 - 09/16 09:14 [FirstSquawk] Georgieva says Senegal’s economic reforms are showing encouraging progress, with better prospects for investment, jobs and growth.
 - 09/16 09:17 [financialjuice] China PBOC predicted to set yuan reference rate at 6.7148 per dollar - Estimate
 - 09/16 09:19 [FirstSquawk] U.S. crude futures are pulling back, with prices down 1% at $104.77 a barrel. The move puts crude below the $105 level as traders monitor the latest developments affecting global oil markets.
+- 09/16 09:27 [FirstSquawk] Asia-Pacific stocks open mixed as investors digest Wall Street’s weak handover and position cautiously ahead of the Fed’s rate decision
+- 09/16 09:30 [FirstSquawk] AI is moving from the tech sector into China’s restaurant industry, as major chains explore ways to bring artificial intelligence into everyday dining. From smarter operations to AI-enabled customer experiences, restaurants are testing how …
+- 09/16 09:31 [FirstSquawk] Japan’s 5-year government bond yield edged lower, falling 0.5 basis points to 2.305%. The move marks a modest pullback in one of Japan’s key government bond yields as investors continue to assess the country’s rates and monetary-policy outl…
+- 09/16 09:32 [FirstSquawk] Australia’s Westpac Leading Index slipped into negative territory in August, falling 0.04% month-on-month, compared with a 0.03% rise previously. The reading points to a modest change in the near-term economic outlook, with the index moving…
+- 09/16 09:32 [FirstSquawk] Boeing has secured a major aircraft order from Korean Air, with the airline finalizing a deal for 103 jets across Boeing’s widebody and single-aisle families. The agreement adds to the pipeline for Boeing’s commercial aircraft business and …
+- 09/16 09:35 [FirstSquawk] A notable link between Britain’s financial and technology worlds: George Osborne, during his time as UK chancellor, appointed Mark Carney to lead the Bank of England. Separately, OpenAI paused a planned UK data centre project five months ag…
+- 09/16 09:37 [FirstSquawk] Beijing is hosting the Xiangshan Forum, marking the 20th anniversary of China’s major international defence conference. The gathering brings defence and security officials together as China continues to use the forum as a platform for discu…
+- 09/16 09:38 [financialjuice] China defence minister: global security management must be reinforced
+- 09/16 09:38 [financialjuice] China Defence Minister: we must establish a balanced and organized multipolar world
+- 09/16 09:38 [financialjuice] Japan Aug trade deficit 1.106 trillion yen: Ministry of Finance (poll:
+- 09/16 09:38 [FirstSquawk] China’s defence minister says global security governance must be strengthened, calling for greater attention to international security cooperation. The remarks come as Beijing hosts the Xiangshan Forum, where defence and security officials …
+- 09/16 09:38 [financialjuice] China defence minister: must seek new security approach focused on cooperation over conflict
+- 09/16 09:38 [FirstSquawk] China’s defence minister says the country must work toward building an “equal and orderly” multipolar world, emphasizing a broader vision for the global security landscape. The remarks come as Beijing hosts the Xiangshan Forum, bringing def…
+- 09/16 09:39 [FirstSquawk] China’s defence minister says the world must pursue a new approach to security built on collaboration rather than confrontation. The remarks come at the Xiangshan Forum in Beijing, where defence and security officials are discussing regiona…
+- 09/16 09:42 [financialjuice] China defence minister: we must support multilateralism
+- 09/16 09:43 [FirstSquawk] China’s defence minister says the country should uphold multilateralism, stressing the importance of cooperation in addressing global security challenges. The remarks come as Beijing hosts the Xiangshan Forum, where defence officials are di…
+- 09/16 09:43 [financialjuice] China defence minister: must consider legitimate security concerns of all relevant nations
+- 09/16 09:43 [FirstSquawk] China’s defence minister says the international security system must take into account the legitimate security concerns of all relevant countries.
+- 09/16 09:43 [financialjuice] China defence minister: support regional nations choosing their own future free from outside interference
+- 09/16 09:43 [FirstSquawk] China’s defence minister says regional countries should be supported in deciding their own future without external interference.
+- 09/16 09:45 [FirstSquawk] Gold is facing renewed pressure as expectations for higher interest rates and rising bond yields make the non-yielding metal less attractive - WSJ The rate outlook has become a key driver for precious metals, with investors watching the Fed…
+- 09/16 09:45 [financialjuice] China defence minister: must curb revival of regressive historical trends
+- 09/16 09:45 [financialjuice] China defence minister: provocative actions must not be tolerated
+- 09/16 09:46 [financialjuice] China defence minister: risk must be foreseen and eased early to stop minor friction becoming major dispute
+- 09/16 09:46 [FirstSquawk] Revolut is facing an escalating data-security crisis. The digital bank inadvertently provided sensitive information on roughly 680 customers to a scammer who posed as a government official and submitted fraudulent law-enforcement requests, …
+- 09/16 09:47 [FirstSquawk] China’s defence minister says the country must prevent the resurgence of regressive historical trends, as Beijing outlines its approach to the evolving global security environment.
+- 09/16 09:47 [financialjuice] China defence minister: military might can’t solve core issues, coercion will only widen rifts
+- 09/16 09:47 [FirstSquawk] China’s defence minister says provocative acts must not be allowed, calling for greater restraint as countries navigate an increasingly complex security environment.
+- 09/16 09:48 [FirstSquawk] China’s defence minister says security risks should be identified and defused early, warning that small areas of friction should not be allowed to escalate into major disputes.
+- 09/16 09:48 [FirstSquawk] China’s defence minister says military force cannot address the root causes of problems, arguing that coercion would only deepen divisions.

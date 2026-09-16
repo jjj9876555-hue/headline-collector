@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 09:23 JST／対象: 09/15 09:23 〜 09/16 09:23 JST（時刻はすべて日本時間）
+生成: 2026-09-16 09:48 JST／対象: 09/15 09:48 〜 09/16 09:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 410 | 09/15 09:25 | 09/16 09:19 | 41分（01:25→02:06） |
-| financialjuice | 255 | 09/15 09:27 | 09/16 09:17 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 421 | 09/15 09:51 | 09/16 09:48 | 41分（01:25→02:06） |
+| financialjuice | 265 | 09/15 10:00 | 09/16 09:47 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 707 行（統合前 724 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 728 行（統合前 745 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 09:25 [FirstSquawk] China pushes back against calls to curb the development of advanced AI, signaling continued momentum behind its technology ambitions.
-- 09/15 09:27 [financialjuice] China PBOC seen setting yuan midpoint at 6.7051 per dollar: estimate
-- 09/15 09:29 [FirstSquawk] ASIAN STOCKS SLIPPED AFTER A SHARP SELLOFF IN US SEMICONDUCTOR SHARES RAISED CONCERNS THAT AI DEVELOPMENT AND SPENDING COULD SLOW. THE MSCI ASIA PACIFIC INDEX FELL 0.1%, WHILE JAPAN AND SOUTH KOREA EDGED LOWER AFTER THE PHILADELPHIA SEMICON…
-- 09/15 09:29 [FirstSquawk] OIL EXTENDED ITS RALLY, WITH BRENT RISING 0.7% AND WTI REACHING AROUND $102.12, REVIVING INFLATION CONCERNS AHEAD OF WEDNESDAY’S FEDERAL RESERVE DECISION. TRADERS ARE PRICING A 95% CHANCE OF A RATE HIKE, WHILE THE 10-YEAR TREASURY YIELD REM…
-- 09/15 09:36 [FirstSquawk] Sen. Mitch McConnell returned to the Capitol Monday, preparing to cast his first Senate vote since being hospitalized after a June fall - ABC
-- 09/15 09:36 [FirstSquawk] Japan’s Nikkei slips 0.2% as chipmakers and trading houses weigh on the index , citing WSJ
-- 09/15 09:40 [FirstSquawk] China briefs foreign embassies on DNA procedures to identify nationals missing after the deadly China-Nepal border mudslide.
-- 09/15 09:43 [FirstSquawk] Crude oil is climbing as market stabilizers start to fade. The supply buffers and inventory cushions that kept prices steady for months are weakening, leaving less room for error.
-- 09/15 09:48 [FirstSquawk] Barack Obama on AI: "We can’t stuff AI back in a box." Instead of letting tech dictate our future, he argues we must proactively guide how it's built and deployed rather than just reacting to the fallout.
 - 09/15 09:51 [FirstSquawk] Berlin's new playbook on UniCredit: Instead of blocking the Commerzbank takeover outright, Germany is shifting to hardline conditions.
 - 09/15 09:57 [FirstSquawk] China’s updated Exit-Entry Regulations are now in effect, targeting visa fraud and intermediary agencies. Travelers face 1–5 year bans for false declarations, while corporate sponsors assume full legal accountability for itineraries.
 - 09/15 10:00 [FirstSquawk] Beijing turns its focus to offshore brokerages as it moves to curb pay loopholes and corruption.
@@ -731,3 +722,33 @@
 - 09/16 09:14 [FirstSquawk] Georgieva says Senegal’s economic reforms are showing encouraging progress, with better prospects for investment, jobs and growth.
 - 09/16 09:17 [financialjuice] China PBOC predicted to set yuan reference rate at 6.7148 per dollar - Estimate
 - 09/16 09:19 [FirstSquawk] U.S. crude futures are pulling back, with prices down 1% at $104.77 a barrel. The move puts crude below the $105 level as traders monitor the latest developments affecting global oil markets.
+- 09/16 09:27 [FirstSquawk] Asia-Pacific stocks open mixed as investors digest Wall Street’s weak handover and position cautiously ahead of the Fed’s rate decision
+- 09/16 09:30 [FirstSquawk] AI is moving from the tech sector into China’s restaurant industry, as major chains explore ways to bring artificial intelligence into everyday dining. From smarter operations to AI-enabled customer experiences, restaurants are testing how …
+- 09/16 09:31 [FirstSquawk] Japan’s 5-year government bond yield edged lower, falling 0.5 basis points to 2.305%. The move marks a modest pullback in one of Japan’s key government bond yields as investors continue to assess the country’s rates and monetary-policy outl…
+- 09/16 09:32 [FirstSquawk] Australia’s Westpac Leading Index slipped into negative territory in August, falling 0.04% month-on-month, compared with a 0.03% rise previously. The reading points to a modest change in the near-term economic outlook, with the index moving…
+- 09/16 09:32 [FirstSquawk] Boeing has secured a major aircraft order from Korean Air, with the airline finalizing a deal for 103 jets across Boeing’s widebody and single-aisle families. The agreement adds to the pipeline for Boeing’s commercial aircraft business and …
+- 09/16 09:35 [FirstSquawk] A notable link between Britain’s financial and technology worlds: George Osborne, during his time as UK chancellor, appointed Mark Carney to lead the Bank of England. Separately, OpenAI paused a planned UK data centre project five months ag…
+- 09/16 09:37 [FirstSquawk] Beijing is hosting the Xiangshan Forum, marking the 20th anniversary of China’s major international defence conference. The gathering brings defence and security officials together as China continues to use the forum as a platform for discu…
+- 09/16 09:38 [financialjuice] China defence minister: global security management must be reinforced
+- 09/16 09:38 [financialjuice] China Defence Minister: we must establish a balanced and organized multipolar world
+- 09/16 09:38 [financialjuice] Japan Aug trade deficit 1.106 trillion yen: Ministry of Finance (poll:
+- 09/16 09:38 [FirstSquawk] China’s defence minister says global security governance must be strengthened, calling for greater attention to international security cooperation. The remarks come as Beijing hosts the Xiangshan Forum, where defence and security officials …
+- 09/16 09:38 [financialjuice] China defence minister: must seek new security approach focused on cooperation over conflict
+- 09/16 09:38 [FirstSquawk] China’s defence minister says the country must work toward building an “equal and orderly” multipolar world, emphasizing a broader vision for the global security landscape. The remarks come as Beijing hosts the Xiangshan Forum, bringing def…
+- 09/16 09:39 [FirstSquawk] China’s defence minister says the world must pursue a new approach to security built on collaboration rather than confrontation. The remarks come at the Xiangshan Forum in Beijing, where defence and security officials are discussing regiona…
+- 09/16 09:42 [financialjuice] China defence minister: we must support multilateralism
+- 09/16 09:43 [FirstSquawk] China’s defence minister says the country should uphold multilateralism, stressing the importance of cooperation in addressing global security challenges. The remarks come as Beijing hosts the Xiangshan Forum, where defence officials are di…
+- 09/16 09:43 [financialjuice] China defence minister: must consider legitimate security concerns of all relevant nations
+- 09/16 09:43 [FirstSquawk] China’s defence minister says the international security system must take into account the legitimate security concerns of all relevant countries.
+- 09/16 09:43 [financialjuice] China defence minister: support regional nations choosing their own future free from outside interference
+- 09/16 09:43 [FirstSquawk] China’s defence minister says regional countries should be supported in deciding their own future without external interference.
+- 09/16 09:45 [FirstSquawk] Gold is facing renewed pressure as expectations for higher interest rates and rising bond yields make the non-yielding metal less attractive - WSJ The rate outlook has become a key driver for precious metals, with investors watching the Fed…
+- 09/16 09:45 [financialjuice] China defence minister: must curb revival of regressive historical trends
+- 09/16 09:45 [financialjuice] China defence minister: provocative actions must not be tolerated
+- 09/16 09:46 [financialjuice] China defence minister: risk must be foreseen and eased early to stop minor friction becoming major dispute
+- 09/16 09:46 [FirstSquawk] Revolut is facing an escalating data-security crisis. The digital bank inadvertently provided sensitive information on roughly 680 customers to a scammer who posed as a government official and submitted fraudulent law-enforcement requests, …
+- 09/16 09:47 [FirstSquawk] China’s defence minister says the country must prevent the resurgence of regressive historical trends, as Beijing outlines its approach to the evolving global security environment.
+- 09/16 09:47 [financialjuice] China defence minister: military might can’t solve core issues, coercion will only widen rifts
+- 09/16 09:47 [FirstSquawk] China’s defence minister says provocative acts must not be allowed, calling for greater restraint as countries navigate an increasingly complex security environment.
+- 09/16 09:48 [FirstSquawk] China’s defence minister says security risks should be identified and defused early, warning that small areas of friction should not be allowed to escalate into major disputes.
+- 09/16 09:48 [FirstSquawk] China’s defence minister says military force cannot address the root causes of problems, arguing that coercion would only deepen divisions.

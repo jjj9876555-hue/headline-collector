@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 09:23 JST／対象: 09/15 21:23 〜 09/16 09:23 JST（時刻はすべて日本時間）
+生成: 2026-09-16 09:48 JST／対象: 09/15 21:48 〜 09/16 09:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 47 | 09/15 21:28 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 217 | 09/15 21:24 | 09/16 09:19 | 41分（01:25→02:06） |
-| financialjuice | 178 | 09/15 21:28 | 09/16 09:17 | 38分（05:04→05:43） |
+| DeItaone | 46 | 09/15 21:54 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 221 | 09/15 21:48 | 09/16 09:48 | 41分（01:25→02:06） |
+| financialjuice | 183 | 09/15 21:53 | 09/16 09:47 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 427 行（統合前 444 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 435 行（統合前 452 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 21:24 [FirstSquawk] KENYA COURT RULES 15% SAFARICOM STAKE SHOULD RETURN TO TREASURY
-- 09/15 21:26 [FirstSquawk] SALESFORCE AND GOOGLE CLOUD EXPAND THEIR PARTNERSHIP IN ENTERPRISE AI.
-- 09/15 21:26 [FirstSquawk] SALESFORCE AND AWS HAVE ANNOUNCED A LARGER PARTNERSHIP.
-- 09/15 21:26 [FirstSquawk] SALESFORCE AND NVIDIA LAUNCHED 'KOA.'
-- 09/15 21:26 [FirstSquawk] SALESFORCE INTRODUCES 'KOA' AS A CRM REASONING MODEL FOR AGENTFORCE.
-- 09/15 21:27 [FirstSquawk] WELLS FARGO CFO SANTOMASSIMO SAYS US ECONOMIC ACTIVITY REMAINS STRONG AT BARCLAYS CONFERENCE.
-- 09/15 21:27 [FirstSquawk] ITALIAN DEFENCE MINISTER STATES THAT THE DRONE SHOT DOWN BY AN ITALIAN NATO FIGHTER IN LITHUANIA LIKELY ORIGINATED FROM RUSSIA.
-- 09/15 21:28 [DeItaone] TRUMP WILL RESPECT FED DECISION NEC Director Kevin Hassett says President Trump will respect whatever decision the Federal Reserve makes on Wednesday. Markets widely expect the Fed to raise interest rates, with another hike potentially comi…
-- 09/15 21:28 [financialjuice] UAE's Adnoc buys millions of barrels of discounted Iraqi crude in tenders for August through September - Iraqi Energy Sources
-- 09/15 21:28 [financialjuice] ADNOC has agreed to buy 72 million of barrels of discounted Iraqi crude in tenders for August through September - Iraq Energy Source
-- 09/15 21:28 [FirstSquawk] ITALIAN DEFENCE MINISTER: DRONE THAT WAS SHOT DOWN BY ITALIAN NATO FIGHTER IN LITHUANIA MOST PROBABLY CAME FROM RUSSIA
-- 09/15 21:30 [financialjuice] NY FED MANUFACTURING ACTUAL 7.6 (FORECAST 15, PREVIOUS 20.60) $MACRO
-- 09/15 21:31 [financialjuice] CANADIAN WHOLESALE SALES MOM ACTUAL 0.3% (FORECAST -0.5%, PREVIOUS 2.8%) $MACRO
-- 09/15 21:32 [financialjuice] New York Fed Manufacturing September Report
-- 09/15 21:36 [FirstSquawk] WELLS FARGO'S SANTOMASSIMO SAYS NET INTEREST MARGIN COULD BE BETTER THAN GUIDANCE IN Q3 || SAYS NO CHANGE TO FY26 NET INTEREST INCOME FORECAST
-- 09/15 21:36 [FirstSquawk] WELLS FARGO'S SANTOMASSIMO SAYS NOT SEEING CHANGES IN DELINQUENCY TRENDS || SAYS MIDDLE MARKET CUSTOMERS CONTINUE TO REMAIN CAUTIOUS || SAYS EXPECT THIS YEAR AND EARLY NEXT YEAR TO BE HEALTHY || ON LOAN GROWTH SAYS WILL LIKELY BE BETTER THA…
-- 09/15 21:36 [FirstSquawk] WELLS FARGO CFO MIKE SANTOMASSIMO SAYS ACTIVITY LEVEL IN U.S. ECONOMY STAYING STRONG || MIKE SANTOMASSIMO SPEAKS AT THE BARCLAYS GLOBAL FINANCIAL SERVICES CONFERENCE
-- 09/15 21:36 [FirstSquawk] WELLS FARGO CFO SANTOMASSIMO: NET INTEREST MARGIN COULD BE BETTER THAN GUIDANCE IN Q3
-- 09/15 21:37 [FirstSquawk] US EMPIRE MANUFACTURING SEP: 7.6 (EST 15.0; PREV 20.6)
-- 09/15 21:44 [FirstSquawk] UN SECURITY COUNCIL WILL MEET TODAY TO TALK ABOUT THE MIDDLE EAST AS HOUTHIS MOVE QUICKLY ALONG YEMEN'S RED SEA COAST, RAISING NEW CONCERNS FOR GLOBAL SHIPPING.
-- 09/15 21:45 [financialjuice] German Finance Minister Klingbeil on gasoline prices: We must now reduce the burden and find alternative funding.
-- 09/15 21:46 [FirstSquawk] OMAN, U.S. DISCUSS EFFORTS TO DE-ESCALATE REGIONAL TENSIONS - OMAN NEWS AGENCY
 - 09/15 21:48 [FirstSquawk] AI IS NOT LOYAL TO US: FORMER OPENAI RESEARCHER DANIEL KOKOTAJLO SOUNDS THE ALARM Former OpenAI researcher Daniel Kokotajlo has warned that artificial intelligence should not be viewed as inherently loyal or aligned with humanity. His comme…
 - 09/15 21:50 [FirstSquawk] S&P 500, NASDAQ 100 FUTURES TURN POSITIVE
 - 09/15 21:53 [financialjuice] Diplomatic sources confirm: Israel is assisting Saudi Arabia with intelligence gathering against the Houthis - Israel's Hayom News
@@ -451,3 +429,33 @@
 - 09/16 09:14 [FirstSquawk] Georgieva says Senegal’s economic reforms are showing encouraging progress, with better prospects for investment, jobs and growth.
 - 09/16 09:17 [financialjuice] China PBOC predicted to set yuan reference rate at 6.7148 per dollar - Estimate
 - 09/16 09:19 [FirstSquawk] U.S. crude futures are pulling back, with prices down 1% at $104.77 a barrel. The move puts crude below the $105 level as traders monitor the latest developments affecting global oil markets.
+- 09/16 09:27 [FirstSquawk] Asia-Pacific stocks open mixed as investors digest Wall Street’s weak handover and position cautiously ahead of the Fed’s rate decision
+- 09/16 09:30 [FirstSquawk] AI is moving from the tech sector into China’s restaurant industry, as major chains explore ways to bring artificial intelligence into everyday dining. From smarter operations to AI-enabled customer experiences, restaurants are testing how …
+- 09/16 09:31 [FirstSquawk] Japan’s 5-year government bond yield edged lower, falling 0.5 basis points to 2.305%. The move marks a modest pullback in one of Japan’s key government bond yields as investors continue to assess the country’s rates and monetary-policy outl…
+- 09/16 09:32 [FirstSquawk] Australia’s Westpac Leading Index slipped into negative territory in August, falling 0.04% month-on-month, compared with a 0.03% rise previously. The reading points to a modest change in the near-term economic outlook, with the index moving…
+- 09/16 09:32 [FirstSquawk] Boeing has secured a major aircraft order from Korean Air, with the airline finalizing a deal for 103 jets across Boeing’s widebody and single-aisle families. The agreement adds to the pipeline for Boeing’s commercial aircraft business and …
+- 09/16 09:35 [FirstSquawk] A notable link between Britain’s financial and technology worlds: George Osborne, during his time as UK chancellor, appointed Mark Carney to lead the Bank of England. Separately, OpenAI paused a planned UK data centre project five months ag…
+- 09/16 09:37 [FirstSquawk] Beijing is hosting the Xiangshan Forum, marking the 20th anniversary of China’s major international defence conference. The gathering brings defence and security officials together as China continues to use the forum as a platform for discu…
+- 09/16 09:38 [financialjuice] China defence minister: global security management must be reinforced
+- 09/16 09:38 [financialjuice] China Defence Minister: we must establish a balanced and organized multipolar world
+- 09/16 09:38 [financialjuice] Japan Aug trade deficit 1.106 trillion yen: Ministry of Finance (poll:
+- 09/16 09:38 [FirstSquawk] China’s defence minister says global security governance must be strengthened, calling for greater attention to international security cooperation. The remarks come as Beijing hosts the Xiangshan Forum, where defence and security officials …
+- 09/16 09:38 [financialjuice] China defence minister: must seek new security approach focused on cooperation over conflict
+- 09/16 09:38 [FirstSquawk] China’s defence minister says the country must work toward building an “equal and orderly” multipolar world, emphasizing a broader vision for the global security landscape. The remarks come as Beijing hosts the Xiangshan Forum, bringing def…
+- 09/16 09:39 [FirstSquawk] China’s defence minister says the world must pursue a new approach to security built on collaboration rather than confrontation. The remarks come at the Xiangshan Forum in Beijing, where defence and security officials are discussing regiona…
+- 09/16 09:42 [financialjuice] China defence minister: we must support multilateralism
+- 09/16 09:43 [FirstSquawk] China’s defence minister says the country should uphold multilateralism, stressing the importance of cooperation in addressing global security challenges. The remarks come as Beijing hosts the Xiangshan Forum, where defence officials are di…
+- 09/16 09:43 [financialjuice] China defence minister: must consider legitimate security concerns of all relevant nations
+- 09/16 09:43 [FirstSquawk] China’s defence minister says the international security system must take into account the legitimate security concerns of all relevant countries.
+- 09/16 09:43 [financialjuice] China defence minister: support regional nations choosing their own future free from outside interference
+- 09/16 09:43 [FirstSquawk] China’s defence minister says regional countries should be supported in deciding their own future without external interference.
+- 09/16 09:45 [FirstSquawk] Gold is facing renewed pressure as expectations for higher interest rates and rising bond yields make the non-yielding metal less attractive - WSJ The rate outlook has become a key driver for precious metals, with investors watching the Fed…
+- 09/16 09:45 [financialjuice] China defence minister: must curb revival of regressive historical trends
+- 09/16 09:45 [financialjuice] China defence minister: provocative actions must not be tolerated
+- 09/16 09:46 [financialjuice] China defence minister: risk must be foreseen and eased early to stop minor friction becoming major dispute
+- 09/16 09:46 [FirstSquawk] Revolut is facing an escalating data-security crisis. The digital bank inadvertently provided sensitive information on roughly 680 customers to a scammer who posed as a government official and submitted fraudulent law-enforcement requests, …
+- 09/16 09:47 [FirstSquawk] China’s defence minister says the country must prevent the resurgence of regressive historical trends, as Beijing outlines its approach to the evolving global security environment.
+- 09/16 09:47 [financialjuice] China defence minister: military might can’t solve core issues, coercion will only widen rifts
+- 09/16 09:47 [FirstSquawk] China’s defence minister says provocative acts must not be allowed, calling for greater restraint as countries navigate an increasingly complex security environment.
+- 09/16 09:48 [FirstSquawk] China’s defence minister says security risks should be identified and defused early, warning that small areas of friction should not be allowed to escalate into major disputes.
+- 09/16 09:48 [FirstSquawk] China’s defence minister says military force cannot address the root causes of problems, arguing that coercion would only deepen divisions.
