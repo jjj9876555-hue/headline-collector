@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 10:18 JST／対象: 09/15 22:18 〜 09/16 10:18 JST（時刻はすべて日本時間）
+生成: 2026-09-16 10:31 JST／対象: 09/15 22:31 〜 09/16 10:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 09/15 22:30 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 222 | 09/15 22:23 | 09/16 10:16 | 41分（01:25→02:06） |
-| financialjuice | 180 | 09/15 22:23 | 09/16 10:17 | 38分（05:04→05:43） |
+| DeItaone | 42 | 09/15 22:43 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 222 | 09/15 22:35 | 09/16 10:31 | 41分（01:25→02:06） |
+| financialjuice | 176 | 09/15 22:32 | 09/16 10:21 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 430 行（統合前 447 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 425 行（統合前 442 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 22:23 [financialjuice] Canada's PM Carney: Canada will allow immediate expensing for most new capital investment.
-- 09/15 22:23 [FirstSquawk] PAKISTAN PM SHARIF TO MEET US OFFICIALS IN NEW YORK ON SEPT 22
-- 09/15 22:24 [FirstSquawk] US, CHINA DISCUSS CUTTING TARIFFS ON AGRICULTURE AND ENERGY
-- 09/15 22:24 [financialjuice] Canada's PM Carney: Two-thirds of all assets will now qualify for machinery, citing manufacturing equipment, software, patents, R&D, fiber, rail, pipelines, and other infrastructure
-- 09/15 22:24 [FirstSquawk] MEETING BETWEEN THE TWO SIDES COULD LIKELY RESULT IN LOWER DUTIES ON CHINESE INPUTS FOR MANUFACTURES || MOST FAVORITE NATION CHARGES COULD BE GRANTED TO SOME PRODUCTS
-- 09/15 22:27 [financialjuice] French PM Lecornu aims to keep govt spending flat in 2027 budget - Echos
-- 09/15 22:28 [financialjuice] Karachaganak output to drop up to 450k tons during repair - IFX
-- 09/15 22:29 [FirstSquawk] TRUMP: REPUBLICANS JUST GOT ANOTHER BAD DECISION FROM UNITED STATES SUPREME COURT IN MAIL-IN BALLOT CASE
-- 09/15 22:30 [DeItaone] TRUMP BLASTS SUPREME COURT OVER MAJOR RULINGS President Trump sharply criticized the U.S. Supreme Court, accusing it of repeatedly delivering decisions harmful to Republicans and the country. Trump attacked rulings involving mail-in voting,…
-- 09/15 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -44.1 MLN NASDAQ 100: 4.6 MLN DOW 30: -23.1 MLN MAG 7: 6.2 MLN $MACRO
-- 09/15 22:31 [financialjuice] ❗ Saudi Arabia is informing some European oil refiners that their September-loading Crude cargoes are cancelled after the East-West pipeline closure - Three trade sources.
-- 09/15 22:31 [FirstSquawk] S&P 500 DOWN 2.90 POINTS, OR 0.04 %, AT 7,617.08 AFTER MARKET OPEN NASDAQ DOWN 33.99 POINTS, OR 0.13 PERCENT, AT 26,152.42 AFTER MARKET OPEN DOW JONES DOWN 122.29 POINTS, OR 0.23 PERCENT, AT 52,298.91 AFTER MARKET OPEN
 - 09/15 22:32 [financialjuice] Libya NOC: Output halted at the Hamada and Al-tahara fields.
 - 09/15 22:35 [FirstSquawk] US DIESEL FUTURES RISE NEAR $5.23/GALLON, HIGHEST SINCE 2022
 - 09/15 22:40 [financialjuice] Canada's corporate tax deduction is going to cost C$36b over five years.
@@ -454,3 +442,10 @@
 - 09/16 10:12 [FirstSquawk] Meta’s Threads is introducing parental supervision features for teenagers across Asia-Pacific. The rollout gives parents additional tools to oversee how teens use the platform, expanding Meta’s focus on safety and supervision features for y…
 - 09/16 10:16 [FirstSquawk] The PBOC has set the yuan’s daily midpoint at 6.7628 per U.S. dollar.
 - 09/16 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023
+- 09/16 10:18 [FirstSquawk] China has set the yuan’s daily midpoint at its strongest level since February 3, 2023. The stronger fixing puts the yuan at a key level against the U.S. dollar as markets continue to monitor China’s currency policy and broader dollar moveme…
+- 09/16 10:20 [FirstSquawk] Japan is offering ¥2.5 trillion in Treasury discount bills, adding to the latest government debt issuance. The auction will be closely watched by investors for demand and pricing as markets assess Japan’s short-term funding conditions and b…
+- 09/16 10:21 [financialjuice] China injects 110 bln yuan via 7-day reverse repos at 1.40%: statement
+- 09/16 10:21 [financialjuice] China central bank injects 600 billion yuan via overnight reverse repos: statement
+- 09/16 10:22 [FirstSquawk] China’s central bank injected 600 billion yuan into the financial system through overnight reverse repos, according to a statement. The operation adds short-term liquidity to the banking system as markets monitor funding conditions and the …
+- 09/16 10:28 [FirstSquawk] The Singapore dollar has weakened to 1.2738 per U.S. dollar, its lowest level since September 2. The move puts renewed focus on currency markets as traders track the strength of the U.S. dollar and shifting expectations around global intere…
+- 09/16 10:31 [FirstSquawk] Saudi Arabia and the Organisation of Islamic Cooperation have condemned what they described as a “heinous” Houthi attack targeting Mecca. A Houthi official, however, rejected Saudi Arabia’s account that its forces had shot down a drone head…

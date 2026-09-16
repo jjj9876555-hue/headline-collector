@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 10:18 JST／対象: 09/15 10:18 〜 09/16 10:18 JST（時刻はすべて日本時間）
+生成: 2026-09-16 10:31 JST／対象: 09/15 10:31 〜 09/16 10:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 421 | 09/15 10:18 | 09/16 10:16 | 41分（01:25→02:06） |
-| financialjuice | 273 | 09/15 10:19 | 09/16 10:17 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 420 | 09/15 10:38 | 09/16 10:31 | 41分（01:25→02:06） |
+| financialjuice | 265 | 09/15 10:43 | 09/16 10:21 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 736 行（統合前 753 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 727 行（統合前 744 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 10:18 [FirstSquawk] Zelensky says Kyiv is prepared to lower tensions if Moscow responds with its own de-escalatory measures.
-- 09/15 10:19 [financialjuice] China sets yuan mid-point at strongest level since February 3, 2023
-- 09/15 10:21 [FirstSquawk] China to release its latest 70-city residential property price data in 10 minutes, with markets watching for signs of recovery.
-- 09/15 10:22 [financialjuice] China cbank: 7-day reverse repo volume at zero Tuesday amid primary dealer demand - statement
-- 09/15 10:22 [financialjuice] China cbank injects 597 bln yuan via overnight reverse repos: statement
-- 09/15 10:22 [FirstSquawk] China’s central bank sets the yuan reference rate at 6.7670, from 6.7698 in the prior fixing.
-- 09/15 10:24 [FirstSquawk] Donald Trump Jr.’s Bahamas wedding after-party was reportedly financed by a Russian businessman.
-- 09/15 10:31 [financialjuice] CHINESE NEW HOUSE PRICES YOY ACTUAL -3.0% (FORECAST -, PREVIOUS -3.2%) $MACRO
-- 09/15 10:31 [financialjuice] China Aug Guangzhou new home prices fall 1.9% y/y after July 2.2% decline: stats bureau
-- 09/15 10:31 [financialjuice] China Aug Guangzhou new home prices up 0.1% m/m (July 0.1%): stats bureau
-- 09/15 10:31 [financialjuice] China Aug Shanghai new home prices rise 0.4% m/m (July 0.2%): stats bureau
-- 09/15 10:31 [financialjuice] China August Shenzhen new home prices fall 2.3% y/y (July -2.9%) : stats bureau
-- 09/15 10:31 [FirstSquawk] CHINA (AUG) NEW HOME PRICES MOM ACTUAL: -0.17% VS -0.18% PREVIOUS
-- 09/15 10:31 [financialjuice] China Aug new home prices drop 3.0% y/y, July down 3.2% - source calculation
-- 09/15 10:31 [FirstSquawk] CHINA (AUG) USED HOME PRICES MOM ACTUAL: -0.31% VS -0.29% PREVIOUS
-- 09/15 10:31 [financialjuice] China Aug Beijing new-home prices decline 0.2% m/m (July -0.3%): stats bureau
 - 09/15 10:38 [FirstSquawk] Israeli military chief calls for legal review of “NAZA,” a documentary focused on the Gaza war.
 - 09/15 10:43 [FirstSquawk] Calls for restraint are growing among AI leaders, but investors on Wall Street remain bullish on the sector, according to the WSJ.
 - 09/15 10:43 [financialjuice] Saudi Arabian Civil Defence issues emergency alert for Yanbu on social media platform X
@@ -760,3 +744,10 @@
 - 09/16 10:12 [FirstSquawk] Meta’s Threads is introducing parental supervision features for teenagers across Asia-Pacific. The rollout gives parents additional tools to oversee how teens use the platform, expanding Meta’s focus on safety and supervision features for y…
 - 09/16 10:16 [FirstSquawk] The PBOC has set the yuan’s daily midpoint at 6.7628 per U.S. dollar.
 - 09/16 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023
+- 09/16 10:18 [FirstSquawk] China has set the yuan’s daily midpoint at its strongest level since February 3, 2023. The stronger fixing puts the yuan at a key level against the U.S. dollar as markets continue to monitor China’s currency policy and broader dollar moveme…
+- 09/16 10:20 [FirstSquawk] Japan is offering ¥2.5 trillion in Treasury discount bills, adding to the latest government debt issuance. The auction will be closely watched by investors for demand and pricing as markets assess Japan’s short-term funding conditions and b…
+- 09/16 10:21 [financialjuice] China injects 110 bln yuan via 7-day reverse repos at 1.40%: statement
+- 09/16 10:21 [financialjuice] China central bank injects 600 billion yuan via overnight reverse repos: statement
+- 09/16 10:22 [FirstSquawk] China’s central bank injected 600 billion yuan into the financial system through overnight reverse repos, according to a statement. The operation adds short-term liquidity to the banking system as markets monitor funding conditions and the …
+- 09/16 10:28 [FirstSquawk] The Singapore dollar has weakened to 1.2738 per U.S. dollar, its lowest level since September 2. The move puts renewed focus on currency markets as traders track the strength of the U.S. dollar and shifting expectations around global intere…
+- 09/16 10:31 [FirstSquawk] Saudi Arabia and the Organisation of Islamic Cooperation have condemned what they described as a “heinous” Houthi attack targeting Mecca. A Houthi official, however, rejected Saudi Arabia’s account that its forces had shot down a drone head…

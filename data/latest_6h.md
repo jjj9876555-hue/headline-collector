@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 10:18 JST／対象: 09/16 04:18 〜 09/16 10:18 JST（時刻はすべて日本時間）
+生成: 2026-09-16 10:31 JST／対象: 09/16 04:31 〜 09/16 10:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/16 04:40 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 100 | 09/16 04:18 | 09/16 10:16 | 37分（04:18→04:56） |
-| financialjuice | 79 | 09/16 04:19 | 09/16 10:17 | 38分（05:04→05:43） |
+| FirstSquawk | 104 | 09/16 04:56 | 09/16 10:31 | 22分（06:49→07:11） |
+| financialjuice | 78 | 09/16 04:45 | 09/16 10:21 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 181 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 184 行（統合前 187 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 04:18 [FirstSquawk] JPMORGAN'S DOUG PETNO — KEY TAKEAWAYS • JPMORGAN CO-PRESIDENT DOUG PETNO: JAMIE DIMON IS NOT STEPPING BACK. • PETNO: NOTHING IS FLASHING RED IN THE US ECONOMY FOR CONSUMERS OR CORPORATES, WITH VERY LITTLE FLASHING YELLOW. • JPMORGAN SEES NO…
-- 09/16 04:19 [financialjuice] Danger has passed in Jazan - Saudi Civil Defense.
-- 09/16 04:20 [financialjuice] Danger has passed in Khamis Mushait - Saudi Civil Defense.
-- 09/16 04:22 [financialjuice] Wednesday FX Option Expiries
 - 09/16 04:40 [DeItaone] OPENAI CFO SARAH FRIAR EMPHASIZES ‘NEED TO TAKE SAFETY SERIOUSLY’ ON AI RISKS- CNBC
 - 09/16 04:42 [DeItaone] OPENAI CFO FRIAR SAYS WILL PACE THE FRONTIER AND SLOW DOWN IF WE HAVE TO - CNBC
 - 09/16 04:45 [financialjuice] US VP Vance agrees that the war will end after the midterms - NY Post.
@@ -205,3 +201,10 @@
 - 09/16 10:12 [FirstSquawk] Meta’s Threads is introducing parental supervision features for teenagers across Asia-Pacific. The rollout gives parents additional tools to oversee how teens use the platform, expanding Meta’s focus on safety and supervision features for y…
 - 09/16 10:16 [FirstSquawk] The PBOC has set the yuan’s daily midpoint at 6.7628 per U.S. dollar.
 - 09/16 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023
+- 09/16 10:18 [FirstSquawk] China has set the yuan’s daily midpoint at its strongest level since February 3, 2023. The stronger fixing puts the yuan at a key level against the U.S. dollar as markets continue to monitor China’s currency policy and broader dollar moveme…
+- 09/16 10:20 [FirstSquawk] Japan is offering ¥2.5 trillion in Treasury discount bills, adding to the latest government debt issuance. The auction will be closely watched by investors for demand and pricing as markets assess Japan’s short-term funding conditions and b…
+- 09/16 10:21 [financialjuice] China injects 110 bln yuan via 7-day reverse repos at 1.40%: statement
+- 09/16 10:21 [financialjuice] China central bank injects 600 billion yuan via overnight reverse repos: statement
+- 09/16 10:22 [FirstSquawk] China’s central bank injected 600 billion yuan into the financial system through overnight reverse repos, according to a statement. The operation adds short-term liquidity to the banking system as markets monitor funding conditions and the …
+- 09/16 10:28 [FirstSquawk] The Singapore dollar has weakened to 1.2738 per U.S. dollar, its lowest level since September 2. The move puts renewed focus on currency markets as traders track the strength of the U.S. dollar and shifting expectations around global intere…
+- 09/16 10:31 [FirstSquawk] Saudi Arabia and the Organisation of Islamic Cooperation have condemned what they described as a “heinous” Houthi attack targeting Mecca. A Houthi official, however, rejected Saudi Arabia’s account that its forces had shot down a drone head…
