@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 11:51 JST／対象: 09/15 11:51 〜 09/16 11:51 JST（時刻はすべて日本時間）
+生成: 2026-09-16 12:03 JST／対象: 09/15 12:03 〜 09/16 12:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 412 | 09/15 11:57 | 09/16 11:49 | 41分（01:25→02:06） |
-| financialjuice | 237 | 09/15 11:54 | 09/16 10:21 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 411 | 09/15 12:04 | 09/16 11:57 | 41分（01:25→02:06） |
+| financialjuice | 234 | 09/15 12:09 | 09/16 10:21 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 691 行（統合前 708 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 687 行（統合前 704 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 11:54 [financialjuice] China statistics bureau: residents' spending ability and willingness need boosting, supply of quality goods and services should improve
-- 09/15 11:57 [FirstSquawk] Kpler data points to a sharp drop in Hormuz traffic: Bulk carrier crossings fell to 4 on Monday from 10 a day earlier.
-- 09/15 12:00 [financialjuice] S.Korea July M2 money supply rises 5.8% y/y vs 6.0% in June: central bank
-- 09/15 12:01 [financialjuice] China statistics bureau: forecasts steady growth for economy despite structural pressures
-- 09/15 12:03 [FirstSquawk] SOUTH KOREA (JUL) MONEY SUPPLY L SA MOM ACTUAL: -0.5% VS 0.8% PREVIOUS
 - 09/15 12:04 [FirstSquawk] SOUTH KOREA (JUL) MONEY SUPPLY M2 SA MOM ACTUAL: 0.3% VS 0.7% PREVIOUS
 - 09/15 12:09 [financialjuice] Drone strike damages industrial plant in Russia's Samara region: authorities
 - 09/15 12:13 [FirstSquawk] Industrial facility damaged by drone strike in Russia’s Samara region, authorities report.
@@ -715,3 +710,4 @@
 - 09/16 11:39 [FirstSquawk] South Korea has cancelled a plan to report details of its U.S. investment plans to parliament on Thursday, according to a report. The decision comes as Seoul’s planned U.S. investment commitments remain in focus, with further details on the…
 - 09/16 11:40 [FirstSquawk] China has launched the Pinglu Canal, a major waterway project aimed at cutting transit times for cargo moving toward Southeast Asia. The canal is expected to strengthen regional connectivity and provide a more direct trade route, potentiall…
 - 09/16 11:49 [FirstSquawk] Seaport has initiated coverage of Domino’s Pizza (DPZ) with a Neutral rating. The new analyst coverage puts the restaurant chain under fresh scrutiny as investors assess its growth outlook, valuation and operating performance. Seaport ratin…
+- 09/16 11:57 [FirstSquawk] Indonesia’s benchmark stock index climbed as much as 1.2% to 6,535.46 points. The advance lifts the index to its highest intraday level in the latest session as investors assess broader regional market sentiment.

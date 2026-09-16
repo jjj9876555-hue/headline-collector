@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 11:51 JST／対象: 09/16 05:51 〜 09/16 11:51 JST（時刻はすべて日本時間）
+生成: 2026-09-16 12:03 JST／対象: 09/16 06:03 〜 09/16 12:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/16 07:16 | 09/16 07:16 | - |
-| FirstSquawk | 94 | 09/16 05:51 | 09/16 11:49 | 22分（06:49→07:11） |
-| financialjuice | 67 | 09/16 05:53 | 09/16 10:21 | 22分（08:51→09:13） |
+| FirstSquawk | 93 | 09/16 06:16 | 09/16 11:57 | 22分（06:49→07:11） |
+| financialjuice | 65 | 09/16 06:18 | 09/16 10:21 | 22分（08:51→09:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 159 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 157 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 05:51 [FirstSquawk] U.S. API DATA SHOWS CRUDE INVENTORIES SURGING 7.1M BARRELS VS. 1.8M-BARREL DRAW EXPECTED AND 0.3M PREVIOUSLY.
-- 09/16 05:53 [financialjuice] US Pressures Mexico to Box Out China’s AI Hardware Exports - WSJ
-- 09/16 05:58 [financialjuice/FirstSquawk] Reports of an explosion heard in Erbil, northern Iraq - Tasnim News.
 - 09/16 06:16 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM IS SET TO MEET DONALD TRUMP IN NEW YORK NEXT WEEK DURING THE UNITED NATIONS GENERAL ASSEMBLY || MEETING WOULD MARK THEIR FIRST FACE-TO-FACE MEETING SINCE BURNHAM BECAME PRIME MINISTER, ACCORDING TO THE TIMES.
 - 09/16 06:18 [financialjuice] Burnham to meet Trump for first time in New York next week: The Times
 - 09/16 06:19 [financialjuice] Trump and Burnham expected to discuss Ukraine, Middle East and energy at United Nations General Assembly - The Times
@@ -183,3 +180,4 @@
 - 09/16 11:39 [FirstSquawk] South Korea has cancelled a plan to report details of its U.S. investment plans to parliament on Thursday, according to a report. The decision comes as Seoul’s planned U.S. investment commitments remain in focus, with further details on the…
 - 09/16 11:40 [FirstSquawk] China has launched the Pinglu Canal, a major waterway project aimed at cutting transit times for cargo moving toward Southeast Asia. The canal is expected to strengthen regional connectivity and provide a more direct trade route, potentiall…
 - 09/16 11:49 [FirstSquawk] Seaport has initiated coverage of Domino’s Pizza (DPZ) with a Neutral rating. The new analyst coverage puts the restaurant chain under fresh scrutiny as investors assess its growth outlook, valuation and operating performance. Seaport ratin…
+- 09/16 11:57 [FirstSquawk] Indonesia’s benchmark stock index climbed as much as 1.2% to 6,535.46 points. The advance lifts the index to its highest intraday level in the latest session as investors assess broader regional market sentiment.

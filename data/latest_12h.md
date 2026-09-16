@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 11:51 JST／対象: 09/15 23:51 〜 09/16 11:51 JST（時刻はすべて日本時間）
+生成: 2026-09-16 12:03 JST／対象: 09/16 00:03 〜 09/16 12:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 25 | 09/15 23:56 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 200 | 09/15 23:53 | 09/16 11:49 | 41分（01:25→02:06） |
-| financialjuice | 140 | 09/15 23:53 | 09/16 10:21 | 38分（05:04→05:43） |
+| DeItaone | 22 | 09/16 00:19 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 190 | 09/16 00:14 | 09/16 11:57 | 41分（01:25→02:06） |
+| financialjuice | 134 | 09/16 00:05 | 09/16 10:21 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 355 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 336 行（統合前 348 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 23:53 [FirstSquawk] OIL LOADINGS HAVE BEEN STOPPED AT SAUDI ARABIA'S YANBU PORT AFTER AN ATTACK ON THE EAST-WEST PIPELINE, ACCORDING TO SHIPPING SOURCES.
-- 09/15 23:53 [FirstSquawk] US HOUSE SPEAKER JOHNSON DISCUSSED AI RISKS WITH PRESIDENT TRUMP LAST NIGHT.
-- 09/15 23:53 [FirstSquawk] CHINA'S KIMI HAD A SECURITY BREACH AND SHARED WEAPONS PLANS WITH ANTHROPIC.
-- 09/15 23:53 [financialjuice] US Treasury Secretary Bessent: China Kimi had breach, sent weapons plans to Anthropic.
-- 09/15 23:53 [FirstSquawk] CANADA PENSION FUNDS ARE LOOKING TO INVEST IN AIRPORT CONCESSIONS.
-- 09/15 23:54 [FirstSquawk] ANTHROPIC INTRODUCES BETA SALESFORCE PLUGIN FOR CLAUDE.
-- 09/15 23:54 [FirstSquawk] CARNEY: AIRPORT CONCESSIONS CAN NOW WELCOME FOREIGN INVESTMENTS.
-- 09/15 23:55 [financialjuice] House Speaker Johnson: AI executives are expected to come to the White House within the next week - Fox News Reporter on X
-- 09/15 23:56 [financialjuice] US Treasury Secretary Bessent: Trump completely aligned with Nvidia's CEO. $NVDA
-- 09/15 23:56 [FirstSquawk] US TREASURY SECRETARY BESSENT SAYS TRUMP IS 'COMPLETELY IN SYNC' WITH NVIDIA CEO HUANG.
-- 09/15 23:56 [FirstSquawk] JOHNSON STATES AI DEVELOPMENT SHOULD NOT BE PUT ON HOLD.
-- 09/15 23:56 [FirstSquawk] BESSENT SAYS TRUMP IS IN TOTAL AGREEMENT WITH NVIDIA'S JENSEN HUANG.
-- 09/15 23:56 [FirstSquawk] JOHNSON SAYS HE WILL NOT PERMIT LOSING AI COMPETITIVENESS.
-- 09/15 23:56 [DeItaone] JOHNSON SAYS AI MORATORIUM WILL LOSE COMPETITIVE EDGE TO CHINA
-- 09/15 23:57 [FirstSquawk] BESSENT FOCUSED ON MAINTAINING A STRONG TREASURY MARKET.
-- 09/15 23:57 [financialjuice] US Treasury Secretary Bessent: I am dedicated to keeping Treasury market robust and the deepest.
-- 09/15 23:57 [DeItaone] BESSENT: TRUMP COMPLETELY ALIGNED WITH NVIDIA'S JENSEN HUANG
-- 09/16 00:00 [financialjuice] US to sell $90 bln 4-Week bills on Sept 17th to settle on Sept 22nd
-- 09/16 00:01 [DeItaone] BRENT, US CRUDE FUTURES RISE BY MORE THAN $3 AFTER SHIPPING SOURCES TELL REUTERS OIL LOADINGS AT SAUDI ARABIA'S RED SEA PORT OF YANBU HAVE BEEN SUSPENDED
-- 09/16 00:01 [financialjuice] Meta Launches Meta One Subscription Plans Globally $META
 - 09/16 00:05 [financialjuice] US Treasury Secretary Bessent: Iran officials say their economy is in dire straits.
 - 09/16 00:14 [FirstSquawk] 3M'S CEO STATES THAT ROBUST SALES GROWTH VIA DISTRIBUTORS WILL PERSIST INTO THE THIRD QUARTER, WHICH SUPPORTS A SALES BOOST IN THE SECOND HALF OF THE YEAR.
 - 09/16 00:14 [FirstSquawk] 3M PREDICTS THAT ITS CONSUMER BUSINESS WILL IMPROVE IN THE SECOND HALF OF THE YEAR COMPARED TO THE FIRST HALF.
@@ -379,3 +359,4 @@
 - 09/16 11:39 [FirstSquawk] South Korea has cancelled a plan to report details of its U.S. investment plans to parliament on Thursday, according to a report. The decision comes as Seoul’s planned U.S. investment commitments remain in focus, with further details on the…
 - 09/16 11:40 [FirstSquawk] China has launched the Pinglu Canal, a major waterway project aimed at cutting transit times for cargo moving toward Southeast Asia. The canal is expected to strengthen regional connectivity and provide a more direct trade route, potentiall…
 - 09/16 11:49 [FirstSquawk] Seaport has initiated coverage of Domino’s Pizza (DPZ) with a Neutral rating. The new analyst coverage puts the restaurant chain under fresh scrutiny as investors assess its growth outlook, valuation and operating performance. Seaport ratin…
+- 09/16 11:57 [FirstSquawk] Indonesia’s benchmark stock index climbed as much as 1.2% to 6,535.46 points. The advance lifts the index to its highest intraday level in the latest session as investors assess broader regional market sentiment.
