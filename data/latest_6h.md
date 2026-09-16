@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 11:18 JST／対象: 09/16 05:18 〜 09/16 11:18 JST（時刻はすべて日本時間）
+生成: 2026-09-16 11:33 JST／対象: 09/16 05:33 〜 09/16 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/16 07:16 | 09/16 07:16 | - |
-| FirstSquawk | 99 | 09/16 05:21 | 09/16 11:18 | 22分（06:49→07:11） |
+| FirstSquawk | 95 | 09/16 05:35 | 09/16 11:28 | 22分（06:49→07:11） |
 | financialjuice | 73 | 09/16 05:43 | 09/16 10:21 | 22分（08:51→09:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 170 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 166 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 05:21 [FirstSquawk] SABRE CORPORATION ANNOUNCES ADDITIONAL CASH TENDER OFFERS FOR EXISTING SECURED DEBT, WITH SABRE GLBL INC. OFFERING TO PURCHASE SECURITIES FOR UP TO $250 MILLION IN AGGREGATE VALUE. THE TENDER OFFERS ARE SET TO EXPIRE AT 5:00 P.M. NEW YORK T…
-- 09/16 05:21 [FirstSquawk] AUTONATION AMENDS AND RESTATES ITS UNSECURED CREDIT AGREEMENT, INCREASING ITS REVOLVING CREDIT FACILITY COMMITMENT TO $2 BILLION AND THE ACCORDION FEATURE LIMIT TO $1 BILLION.
-- 09/16 05:22 [FirstSquawk] AUTONATION ALSO EXTENDS THE FACILITY MATURITY TO SEPTEMBER 14, 2031, ACCORDING TO AN SEC FILING.
-- 09/16 05:25 [FirstSquawk] US STOCKS DECLINED AS INVESTORS TURNED CAUTIOUS AHEAD OF THE FEDERAL RESERVE’S POLICY DECISION, WITH RISING OIL PRICES AND TREASURY YIELDS INTENSIFYING INFLATION CONCERNS. THE 10-YEAR TREASURY YIELD PUSHED ABOVE 5%, ITS HIGHEST LEVEL SINCE …
-- 09/16 05:25 [FirstSquawk] BRENT CRUDE SETTLED NEAR $109 A BARREL, KEEPING PRESSURE ON INFLATION EXPECTATIONS, WHILE A WEAK $13 BILLION 20-YEAR TREASURY AUCTION ADDED TO THE BOND-MARKET SELLOFF. HIGHER YIELDS ARE RAISING BORROWING COSTS AND PUTTING ADDITIONAL PRESSUR…
-- 09/16 05:25 [FirstSquawk] MARKETS ARE NOW FOCUSED ON THREE MAJOR CENTRAL-BANK DECISIONS: THE FED ON WEDNESDAY, FOLLOWED BY THE BANK OF ENGLAND AND BANK OF JAPAN. TRADERS ARE HEAVILY PRICING A 25-BASIS-POINT FED HIKE, WHICH WOULD BE THE FIRST INCREASE IN MORE THAN TH…
 - 09/16 05:35 [FirstSquawk] JPMORGAN DECLARES QUARTERLY COMMON STOCK DIVIDEND OF $1.65 PER SHARE.
 - 09/16 05:36 [FirstSquawk] INPEX SEES STRONG BUYER INTEREST IN ITS ABADI LIQUEFIED NATURAL GAS PROJECT IN INDONESIA. INPEX PRESIDENT SAYS THE COMPANY PLANS TO MAKE A FINAL INVESTMENT DECISION IN MID-2027, ACCORDING TO NIKKEI.
 - 09/16 05:36 [FirstSquawk] INPEX’S ABADI LNG PROJECT IN INDONESIA IS EXPECTED TO PRODUCE 9.5 MILLION METRIC TONS OF LNG ANNUALLY, WITH NEGOTIATIONS UNDERWAY WITH MAJOR BUYERS. INPEX PRESIDENT SAYS TALKS WITH BP AND SHELL ARE “CLOSE TO REACHING AGREEMENTS” ON TERMS, A…
@@ -194,3 +188,5 @@
 - 09/16 11:08 [FirstSquawk] The Indonesian rupiah has weakened to 17,740 per U.S. dollar, its lowest level since September 2. The move puts the currency at a fresh September low as traders monitor broader dollar strength and developments in Asian foreign-exchange mark…
 - 09/16 11:17 [FirstSquawk] Japan’s Prime Minister says the government and ruling party will work to overcome the current difficult situation through an executive reshuffle. The comments come as Tokyo prepares changes to the government and ruling-party leadership, put…
 - 09/16 11:18 [FirstSquawk] Asia’s AI boom is running into a new bottleneck: talent. Chipmakers are racing to expand capacity and accelerate AI development, but the shortage of skilled engineers is becoming an increasingly important constraint. The AI race is no longe…
+- 09/16 11:23 [FirstSquawk] Foreign investors held 3.19 trillion yuan of bonds traded on China’s interbank market at the end of August, according to the PBOC Shanghai Head Office. The figure highlights the scale of overseas participation in China’s domestic bond marke…
+- 09/16 11:28 [FirstSquawk] The Palestinian Civil Defense says people were killed and injured after a cracked residential building collapsed in Gaza, according to Al Arabiya.

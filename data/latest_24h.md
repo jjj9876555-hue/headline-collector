@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 11:18 JST／対象: 09/15 11:18 〜 09/16 11:18 JST（時刻はすべて日本時間）
+生成: 2026-09-16 11:33 JST／対象: 09/15 11:33 〜 09/16 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 412 | 09/15 11:29 | 09/16 11:18 | 41分（01:25→02:06） |
-| financialjuice | 245 | 09/15 11:25 | 09/16 10:21 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 412 | 09/15 11:33 | 09/16 11:28 | 41分（01:25→02:06） |
+| financialjuice | 240 | 09/15 11:35 | 09/16 10:21 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 699 行（統合前 716 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 694 行（統合前 711 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 11:25 [financialjuice] China statistics bureau: China's economy demonstrates robust resilience and vitality despite challenging external environment
-- 09/15 11:25 [financialjuice] China August retail sales rise 0.4% year on year, below poll of 0.8%
-- 09/15 11:25 [financialjuice] China Aug industrial output rises 5.2% y/y, beats poll estimate of 4.8%
-- 09/15 11:29 [FirstSquawk] “Eating homework” takes on a literal meaning in China as students seek a quirky way to cope with exam stress.
-- 09/15 11:31 [financialjuice] China's finance ministry reopens 130 billion yuan of 3-year bonds on Sept. 21
-- 09/15 11:32 [financialjuice] China's finance ministry plans 20 bln yuan auction of 28-day bills on Sept. 16
-- 09/15 11:33 [FirstSquawk] China’s Finance Ministry announces a 130 billion yuan reopening of three-year bonds for September 21.
 - 09/15 11:33 [FirstSquawk] China’s Finance Ministry schedules a 20 billion yuan 28-day bill auction for September 16.
 - 09/15 11:35 [financialjuice] Hormuz traffic declines after Middle East attacks escalate, shipping data shows
 - 09/15 11:37 [FirstSquawk] Shipping activity through Hormuz declines as rising Middle East tensions disrupt regional traffic.
@@ -723,3 +716,5 @@
 - 09/16 11:08 [FirstSquawk] The Indonesian rupiah has weakened to 17,740 per U.S. dollar, its lowest level since September 2. The move puts the currency at a fresh September low as traders monitor broader dollar strength and developments in Asian foreign-exchange mark…
 - 09/16 11:17 [FirstSquawk] Japan’s Prime Minister says the government and ruling party will work to overcome the current difficult situation through an executive reshuffle. The comments come as Tokyo prepares changes to the government and ruling-party leadership, put…
 - 09/16 11:18 [FirstSquawk] Asia’s AI boom is running into a new bottleneck: talent. Chipmakers are racing to expand capacity and accelerate AI development, but the shortage of skilled engineers is becoming an increasingly important constraint. The AI race is no longe…
+- 09/16 11:23 [FirstSquawk] Foreign investors held 3.19 trillion yuan of bonds traded on China’s interbank market at the end of August, according to the PBOC Shanghai Head Office. The figure highlights the scale of overseas participation in China’s domestic bond marke…
+- 09/16 11:28 [FirstSquawk] The Palestinian Civil Defense says people were killed and injured after a cracked residential building collapsed in Gaza, according to Al Arabiya.
