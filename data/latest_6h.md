@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 04:41 JST／対象: 09/16 22:41 〜 09/17 04:41 JST（時刻はすべて日本時間）
+生成: 2026-09-17 04:52 JST／対象: 09/16 22:52 〜 09/17 04:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/16 23:46 | 09/17 04:35 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 107 | 09/16 22:42 | 09/17 04:23 | 21分（02:39→03:00） |
-| financialjuice | 137 | 09/16 22:50 | 09/17 04:41 | 35分（00:12→00:47） |
+| FirstSquawk | 109 | 09/16 22:54 | 09/17 04:51 | 24分（04:23→04:47） |
+| financialjuice | 138 | 09/16 22:54 | 09/17 04:50 | 35分（00:12→00:47） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 264 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 265 行（統合前 279 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 22:42 [FirstSquawk] WHO OFFICIAL SAYS MORE THAN 3,000 HEALTHCARE, FRONTLINE WORKERS IN DRC HAVE RECEIVED EBOLA VACCINE
-- 09/16 22:46 [FirstSquawk] US ENERGY SEC. WRIGHT ON VENEZUELA ANNOUNCEMENT: “GOING TO HEAR ABOUT A SIGNIFICANT OIL AND GAS PRODUCER THAT PLAYED A BIG ROLE IN LAUNCHING THE SHALE REVOLUTION, THEY'RE GOING TO ANNOUNCE A MAJOR INVESTMENT INTO VENEZUELA”
-- 09/16 22:50 [financialjuice] Russian Urals oil prices jumped above $110 per barrel on Tuesday on strong demand and firm Brent - data shows
 - 09/16 22:54 [FirstSquawk] US IDENTIFIES MEXICO, CHINA AS MAJOR DRUG TRANSIT COUNTRIES
 - 09/16 22:54 [financialjuice] US identifies Mexico and China as major drug transit countries.
 - 09/16 22:56 [FirstSquawk] US: CANADA, MEXICO NEED TO MORE TO STOP DRUG FLOW
@@ -287,4 +284,8 @@
 - 09/17 04:35 [DeItaone] White House says Fed rate hike 'unfortunate'
 - 09/17 04:38 [financialjuice] ❗ Banks line up a $22b chip loan tied to Blackstone and Alphabet. $BLK $GOOGL
 - 09/17 04:38 [financialjuice] Banks line up a $22b chip loan tied to Blackstone and Alphabet. $BX $GOOGL
-- 09/17 04:41 [financialjuice] Trump Officials ARE considering an AI executive meeting on the sidelines of China’s President Xi visit next week - CNN.
+- 09/17 04:41 [financialjuice/FirstSquawk] Trump Officials ARE considering an AI executive meeting on the sidelines of China’s President Xi visit next week - CNN.
+- 09/17 04:47 [FirstSquawk] SOUTHWEST AIRLINES CFO SAYS TRAVEL DEMAND REMAINS “VERY, VERY STRONG”, WITH SEPTEMBER DEMAND EXCEEDING EXPECTATIONS AND FURTHER ROOM FOR PRICING GAINS.
+- 09/17 04:50 [financialjuice/FirstSquawk] American diplomats met over the weekend with Houthi representatives at the U.S. embassy in Oman and discussed tensions in the Red Sea - Axios citing a regional source familiar with the issue confirmed.
+- 09/17 04:50 [FirstSquawk] BANKS LINE UP A $22B CHIP LOAN TIED TO BLACKSTONE AND ALPHABET.
+- 09/17 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -967.4 MLN NASDAQ 100: -174.5 MLN DOW 30: 33.1 MLN MAG 7: -68.5 MLN $MACRO

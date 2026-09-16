@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 04:41 JST／対象: 09/16 04:41 〜 09/17 04:41 JST（時刻はすべて日本時間）
+生成: 2026-09-17 04:52 JST／対象: 09/16 04:52 〜 09/17 04:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 09/16 04:42 | 09/17 04:35 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 389 | 09/16 04:56 | 09/17 04:23 | 45分（17:00→17:45） |
-| financialjuice | 306 | 09/16 04:45 | 09/17 04:41 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 43 | 09/16 04:52 | 09/17 04:35 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 393 | 09/16 04:56 | 09/17 04:51 | 45分（17:00→17:45） |
+| financialjuice | 304 | 09/16 05:04 | 09/17 04:50 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 726 行（統合前 743 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 725 行（統合前 745 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 04:42 [DeItaone] OPENAI CFO FRIAR SAYS WILL PACE THE FRONTIER AND SLOW DOWN IF WE HAVE TO - CNBC
-- 09/16 04:45 [financialjuice] US VP Vance agrees that the war will end after the midterms - NY Post.
-- 09/16 04:45 [financialjuice] US VP Vance to NYP: Iran is occasionally shooting at commercial shipping.
-- 09/16 04:45 [financialjuice] US VP Vance: The US is not engaged in aggressive operations - NY Post.
-- 09/16 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: -754.5 MLN NASDAQ 100: -72.1 MLN DOW 30: -124.0 MLN MAG 7: 259.1 MLN $MACRO
 - 09/16 04:52 [DeItaone] *VANCE AGREES WAR WILL END AFTER MIDTERMS: NY POST *VANCE SAYS IRAN WAR WILL ENTER ‘MUCH DIFFERENT PHASE’: NY POST *VANCE TO NYP: IRAN OCCASIONALLY SHOOTING AT COMMERCIAL SHIPPING *VANCE TO NYP: US NOT ENGAGED IN AGGRESSIVE OPERATIONS IN IR…
 - 09/16 04:56 [FirstSquawk] U.S. VICE PRESIDENT JD VANCE EXPECTS THE IRAN WAR TO END AFTER THE MIDTERM ELECTIONS, SAYING THE CONFLICT WILL ENTER A “MUCH DIFFERENT PHASE.”
 - 09/16 04:56 [FirstSquawk] VANCE SAYS THE U.S. IS NOT CONDUCTING AGGRESSIVE OPERATIONS IN IRAN, WHILE IRAN CONTINUES TO OCCASIONALLY FIRE ON COMMERCIAL SHIPPING.
@@ -749,4 +744,8 @@
 - 09/17 04:35 [DeItaone] White House says Fed rate hike 'unfortunate'
 - 09/17 04:38 [financialjuice] ❗ Banks line up a $22b chip loan tied to Blackstone and Alphabet. $BLK $GOOGL
 - 09/17 04:38 [financialjuice] Banks line up a $22b chip loan tied to Blackstone and Alphabet. $BX $GOOGL
-- 09/17 04:41 [financialjuice] Trump Officials ARE considering an AI executive meeting on the sidelines of China’s President Xi visit next week - CNN.
+- 09/17 04:41 [financialjuice/FirstSquawk] Trump Officials ARE considering an AI executive meeting on the sidelines of China’s President Xi visit next week - CNN.
+- 09/17 04:47 [FirstSquawk] SOUTHWEST AIRLINES CFO SAYS TRAVEL DEMAND REMAINS “VERY, VERY STRONG”, WITH SEPTEMBER DEMAND EXCEEDING EXPECTATIONS AND FURTHER ROOM FOR PRICING GAINS.
+- 09/17 04:50 [financialjuice/FirstSquawk] American diplomats met over the weekend with Houthi representatives at the U.S. embassy in Oman and discussed tensions in the Red Sea - Axios citing a regional source familiar with the issue confirmed.
+- 09/17 04:50 [FirstSquawk] BANKS LINE UP A $22B CHIP LOAN TIED TO BLACKSTONE AND ALPHABET.
+- 09/17 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -967.4 MLN NASDAQ 100: -174.5 MLN DOW 30: 33.1 MLN MAG 7: -68.5 MLN $MACRO

@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 04:41 JST／対象: 09/16 16:41 〜 09/17 04:41 JST（時刻はすべて日本時間）
+生成: 2026-09-17 04:52 JST／対象: 09/16 16:52 〜 09/17 04:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 40 | 09/16 19:06 | 09/17 04:35 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 180 | 09/16 16:44 | 09/17 04:23 | 45分（17:00→17:45） |
-| financialjuice | 206 | 09/16 16:44 | 09/17 04:41 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 181 | 09/16 16:55 | 09/17 04:51 | 45分（17:00→17:45） |
+| financialjuice | 207 | 09/16 16:53 | 09/17 04:50 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 416 行（統合前 429 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 416 行（統合前 432 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 16:44 [FirstSquawk] EU WILL REVEAL NEW INITIATIVES IN NOVEMBER FOR INDUSTRIAL AI IN HEALTHCARE, TRANSPORTATION, AGRICULTURE, ADVANCED MANUFACTURING, DEFENSE, AND SPACE.
-- 09/16 16:44 [financialjuice] EU to announce initiatives in November for industrial AI in health, transport, agri-food, advanced manufacturing, defence and space.
-- 09/16 16:49 [FirstSquawk] VON DER LEYEN TARGETS €12B INVESTMENT FOR CONNECTIVITY CORRIDOR.
-- 09/16 16:49 [FirstSquawk] VON DER LEYEN ANNOUNCED A NEW CORRIDOR TO CONNECT THE EU WITH THE SOUTH CAUCASUS AND CENTRAL ASIA.
 - 09/16 16:53 [financialjuice] EC Pres. von der Leyen: We want to open the door for Canada to the first associate member of the EU.
 - 09/16 16:55 [FirstSquawk] VON DER LEYEN ANNOUNCES SHIFT FROM TRADE DEAL WITH CANADA TO A FUTURE ALLIANCE, AIMING TO ESTABLISH COMMON PROSPERITY AND ECONOMIC SECURITY IN MANUFACTURING, TECHNOLOGY, ENERGY, AI, DEFENSE, AND THE ARCTIC.
 - 09/16 16:55 [FirstSquawk] VON DER LEYEN SAYS WE AIM TO ELEVATE TIES WITH CANADA AND MAKE IT THE FIRST ASSOCIATE MEMBER OF THE EU.
@@ -439,4 +435,8 @@
 - 09/17 04:35 [DeItaone] White House says Fed rate hike 'unfortunate'
 - 09/17 04:38 [financialjuice] ❗ Banks line up a $22b chip loan tied to Blackstone and Alphabet. $BLK $GOOGL
 - 09/17 04:38 [financialjuice] Banks line up a $22b chip loan tied to Blackstone and Alphabet. $BX $GOOGL
-- 09/17 04:41 [financialjuice] Trump Officials ARE considering an AI executive meeting on the sidelines of China’s President Xi visit next week - CNN.
+- 09/17 04:41 [financialjuice/FirstSquawk] Trump Officials ARE considering an AI executive meeting on the sidelines of China’s President Xi visit next week - CNN.
+- 09/17 04:47 [FirstSquawk] SOUTHWEST AIRLINES CFO SAYS TRAVEL DEMAND REMAINS “VERY, VERY STRONG”, WITH SEPTEMBER DEMAND EXCEEDING EXPECTATIONS AND FURTHER ROOM FOR PRICING GAINS.
+- 09/17 04:50 [financialjuice/FirstSquawk] American diplomats met over the weekend with Houthi representatives at the U.S. embassy in Oman and discussed tensions in the Red Sea - Axios citing a regional source familiar with the issue confirmed.
+- 09/17 04:50 [FirstSquawk] BANKS LINE UP A $22B CHIP LOAN TIED TO BLACKSTONE AND ALPHABET.
+- 09/17 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -967.4 MLN NASDAQ 100: -174.5 MLN DOW 30: 33.1 MLN MAG 7: -68.5 MLN $MACRO
