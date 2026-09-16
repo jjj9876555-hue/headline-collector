@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 17:06 JST／対象: 09/15 17:06 〜 09/16 17:06 JST（時刻はすべて日本時間）
+生成: 2026-09-16 17:27 JST／対象: 09/15 17:27 〜 09/16 17:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/15 18:02 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 429 | 09/15 17:07 | 09/16 17:00 | 41分（01:25→02:06） |
-| financialjuice | 241 | 09/15 21:05 | 09/16 17:01 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 425 | 09/15 17:30 | 09/16 17:00 | 41分（01:25→02:06） |
+| financialjuice | 243 | 09/15 21:05 | 09/16 17:22 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 710 行（統合前 728 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 708 行（統合前 726 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 17:07 [FirstSquawk] USD/JPY RISES 0.5% TO 155.08, HITS FRESH ONE-WEEK HIGH
-- 09/15 17:12 [FirstSquawk] EUROPEAN STOCK MARKETS NEED TO GATHER AN ADDITIONAL $5 BILLION FROM INITIAL PUBLIC OFFERINGS (IPOS) BY YEAR-END TO EXCEED LAST YEAR’S TOTAL. THIS WILL BE DIFFICULT.
-- 09/15 17:20 [FirstSquawk] TAIWAN CONFIRMS DUMPING IN KOREAN, CHINA ELECTRICAL STEEL CASE
-- 09/15 17:22 [FirstSquawk] UAE'S KHAZNA, SIEMENS IN MOU TO EXPLORE AI DATA CENTRE TECH
 - 09/15 17:30 [FirstSquawk] SPREAD BETWEEN FRENCH & GERMAN 10-YR BOND YIELDS RISES TO HIGHEST SINCE 2012 AT 98.15, UP 2 BPS
 - 09/15 17:34 [FirstSquawk] ITALY GENERAL GOV DEBT (EUR) JUL: 3.206T (PREVR 3.207T)
 - 09/15 17:41 [FirstSquawk] KUWAIT STRONGLY CONDEMNED HOUTHIS' BALLISTIC-MISSILE AND DRONE ATTACKS IN SAUDI ARABIA'S KHAMIS MUSHAIT, ABHA, AND TAIF, WHICH INJURED MANY CIVILIANS AND DAMAGED HOMES AND CARS.
@@ -734,3 +730,5 @@
 - 09/16 17:00 [FirstSquawk] EU'S VON DER LEYEN PROMISES STRONGEST SUPPORT FOR UKRAINE DURING HARDEST WINTER OF THE WAR.
 - 09/16 17:00 [financialjuice] ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth.
 - 09/16 17:01 [financialjuice] ECB sees wage growth at 2.7% in 1q 2027, 2.8% in 2q 2027.
+- 09/16 17:21 [financialjuice] China's Wang Yi: We encourages Iran and US to exercise rationality.
+- 09/16 17:22 [financialjuice] China Foreign Minister, to Iran counterpart: Urge all parties to take effective measures to reopen Strait of Hormuz.

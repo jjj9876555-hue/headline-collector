@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 17:06 JST／対象: 09/16 11:06 〜 09/16 17:06 JST（時刻はすべて日本時間）
+生成: 2026-09-16 17:27 JST／対象: 09/16 11:27 〜 09/16 17:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 113 | 09/16 11:08 | 09/16 17:00 | 14分（15:53→16:07） |
-| financialjuice | 30 | 09/16 14:36 | 09/16 17:01 | 40分（15:13→15:53） |
+| FirstSquawk | 109 | 09/16 11:28 | 09/16 17:00 | 14分（15:53→16:07） |
+| financialjuice | 32 | 09/16 14:36 | 09/16 17:22 | 40分（15:13→15:53） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 143 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 141 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 11:08 [FirstSquawk] The Indonesian rupiah has weakened to 17,740 per U.S. dollar, its lowest level since September 2. The move puts the currency at a fresh September low as traders monitor broader dollar strength and developments in Asian foreign-exchange mark…
-- 09/16 11:17 [FirstSquawk] Japan’s Prime Minister says the government and ruling party will work to overcome the current difficult situation through an executive reshuffle. The comments come as Tokyo prepares changes to the government and ruling-party leadership, put…
-- 09/16 11:18 [FirstSquawk] Asia’s AI boom is running into a new bottleneck: talent. Chipmakers are racing to expand capacity and accelerate AI development, but the shortage of skilled engineers is becoming an increasingly important constraint. The AI race is no longe…
-- 09/16 11:23 [FirstSquawk] Foreign investors held 3.19 trillion yuan of bonds traded on China’s interbank market at the end of August, according to the PBOC Shanghai Head Office. The figure highlights the scale of overseas participation in China’s domestic bond marke…
 - 09/16 11:28 [FirstSquawk] The Palestinian Civil Defense says people were killed and injured after a cracked residential building collapsed in Gaza, according to Al Arabiya.
 - 09/16 11:39 [FirstSquawk] South Korea has cancelled a plan to report details of its U.S. investment plans to parliament on Thursday, according to a report. The decision comes as Seoul’s planned U.S. investment commitments remain in focus, with further details on the…
 - 09/16 11:40 [FirstSquawk] China has launched the Pinglu Canal, a major waterway project aimed at cutting transit times for cargo moving toward Southeast Asia. The canal is expected to strengthen regional connectivity and provide a more direct trade route, potentiall…
@@ -167,3 +163,5 @@
 - 09/16 17:00 [FirstSquawk] EU'S VON DER LEYEN PROMISES STRONGEST SUPPORT FOR UKRAINE DURING HARDEST WINTER OF THE WAR.
 - 09/16 17:00 [financialjuice] ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth.
 - 09/16 17:01 [financialjuice] ECB sees wage growth at 2.7% in 1q 2027, 2.8% in 2q 2027.
+- 09/16 17:21 [financialjuice] China's Wang Yi: We encourages Iran and US to exercise rationality.
+- 09/16 17:22 [financialjuice] China Foreign Minister, to Iran counterpart: Urge all parties to take effective measures to reopen Strait of Hormuz.
