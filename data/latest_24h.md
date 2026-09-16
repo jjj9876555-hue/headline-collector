@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 14:24 JST／対象: 09/15 14:24 〜 09/16 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-16 14:44 JST／対象: 09/15 14:44 〜 09/16 14:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 424 | 09/15 14:25 | 09/16 14:23 | 41分（01:25→02:06） |
-| financialjuice | 231 | 09/15 14:39 | 09/16 10:21 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 423 | 09/15 14:47 | 09/16 14:43 | 41分（01:25→02:06） |
+| financialjuice | 231 | 09/15 14:45 | 09/16 14:36 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 697 行（統合前 715 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 696 行（統合前 714 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 14:25 [FirstSquawk] EXXONMOBIL EXECUTIVE: MIDDLE EAST LNG SUPPLY DISRUPTION LIKELY TO REMAIN A SHORT-TERM ISSUE.
-- 09/15 14:30 [FirstSquawk] WON WEAKENS 0.8% AGAINST THE DOLLAR AS SOUTH KOREA'S CURRENCY TRAILS OTHER ASIAN EMERGING-MARKET PEERS.
-- 09/15 14:30 [FirstSquawk] DOLLAR-YEN RISES 14 PIPS TO 154.90 IN INTRADAY TRADING.
-- 09/15 14:37 [FirstSquawk] OMAN LNG SAYS ITS LONG-TERM PLANS REMAIN UNCHANGED DESPITE THE STRAIT OF HORMUZ CRISIS.
-- 09/15 14:39 [financialjuice] BoE to overhaul debt sales amid bond market turmoil - The Telegraph
-- 09/15 14:41 [FirstSquawk] The Bank of England could pause sales of 20-year and 30-year gilts under a planned overhaul of its gilt-sale programme aimed at addressing market turbulence, according to the Daily Telegraph.
 - 09/15 14:45 [financialjuice] Korea finance chief Nominee: Bond market needs close monitoring
 - 09/15 14:46 [financialjuice] South Korea to take steps to stabilize the bond market if needed
 - 09/15 14:47 [FirstSquawk] China steps up exit restrictions as part of broader measures to secure strategic technology.
@@ -721,3 +715,8 @@
 - 09/16 14:14 [FirstSquawk] Berenberg raises BioNTech target price to $140 from $132
 - 09/16 14:21 [FirstSquawk] 20-year JGB yield falls 3 bps to 3.855%
 - 09/16 14:23 [FirstSquawk] French utility EDF will reduce output at its Bugey 2 nuclear reactor to 180 MW from 00:15 to 22:00 on September 17, 2026.
+- 09/16 14:31 [FirstSquawk] China’s slower pace of loan growth is becoming the “new normal,” the central bank governor said, signaling a shift in credit expansion dynamics.
+- 09/16 14:36 [financialjuice] SK Hynix and Intel are in talks to make memory chips in the US - Sources
+- 09/16 14:36 [FirstSquawk] Saudi Vitrified Clay Pipes has provided an update on its memorandum of understanding (MOU) with Laffan Pipes Factory Company in Qatar. The update relates to the company’s ongoing engagement with the Qatari pipe manufacturer under the previo…
+- 09/16 14:39 [FirstSquawk] Saudi Arabia said it shot down a Houthi drone near Mecca on Tuesday, prompting swift condemnation from several countries in the region. Houthi officials denied targeting Mecca, rejecting the Saudi account of the incident as tensions continu…
+- 09/16 14:43 [FirstSquawk] China’s defense minister urges vigilance against ‘hegemonism’ and militarism

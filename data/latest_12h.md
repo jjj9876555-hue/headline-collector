@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 14:24 JST／対象: 09/16 02:24 〜 09/16 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-16 14:44 JST／対象: 09/16 02:44 〜 09/16 14:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/16 03:03 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 193 | 09/16 02:25 | 09/16 14:23 | 37分（04:18→04:56） |
-| financialjuice | 101 | 09/16 02:53 | 09/16 10:21 | 38分（05:04→05:43） |
+| FirstSquawk | 192 | 09/16 03:01 | 09/16 14:43 | 37分（04:18→04:56） |
+| financialjuice | 102 | 09/16 02:53 | 09/16 14:36 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 295 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 02:25 [FirstSquawk] OPENAI IS EXPLORING DATA CENTER PARTNERSHIPS IN CANADA, CITING THE COUNTRY'S ABUNDANT ENERGY, LAND AND GROWING AI INFRASTRUCTURE OPPORTUNITIES UNDER PRIME MINISTER MARK CARNEY'S STRATEGY.
-- 09/16 02:25 [FirstSquawk] OPENAI EXECUTIVE GEORGE OSBORNE CALLED CARNEY'S AI ADOPTION STRATEGY ONE OF THE CLEAREST AMONG WESTERN GOVERNMENTS, SIGNALING CANADA COULD BECOME A KEY MARKET FOR FUTURE AI INVESTMENT.
-- 09/16 02:26 [FirstSquawk] U.S. SENATOR SANDERS CALLS FOR U.S. AND CHINA TO AGREE ON A TREATY TO HALT ADVANCED AI DEVELOPMENT
-- 09/16 02:36 [FirstSquawk] TRUMP SLAMS HIS OWN SUPREME COURT APPOINTEES AFTER THE COURT BLOCKED HIS ADMINISTRATION’S RESTRICTIONS ON MAIL BALLOTS AHEAD OF THE MIDTERM ELECTIONS.
-- 09/16 02:36 [FirstSquawk] TRUMP ACCUSES THE JUSTICES OF BEING “BULLIED AND CAJOLED BY THE RADICAL LEFT” AND SAYS THE SUPREME COURT HAS “REALLY LET OUR COUNTRY DOWN,” ESCALATING HIS ATTACKS ON JUDICIAL RULINGS.
 - 09/16 02:53 [financialjuice/FirstSquawk] Iranian Army Spokesman: Iran and Pakistan are cooperating to ensure regional security - Tasnim News
 - 09/16 02:58 [financialjuice] WATCH LIVE: Attorney General Blanche Speaks 2 PM ET
 - 09/16 03:00 [financialjuice] CBO: Annual PCE inflation projection now 0.5 ppt higher in Q1 2027.
@@ -319,3 +314,8 @@
 - 09/16 14:14 [FirstSquawk] Berenberg raises BioNTech target price to $140 from $132
 - 09/16 14:21 [FirstSquawk] 20-year JGB yield falls 3 bps to 3.855%
 - 09/16 14:23 [FirstSquawk] French utility EDF will reduce output at its Bugey 2 nuclear reactor to 180 MW from 00:15 to 22:00 on September 17, 2026.
+- 09/16 14:31 [FirstSquawk] China’s slower pace of loan growth is becoming the “new normal,” the central bank governor said, signaling a shift in credit expansion dynamics.
+- 09/16 14:36 [financialjuice] SK Hynix and Intel are in talks to make memory chips in the US - Sources
+- 09/16 14:36 [FirstSquawk] Saudi Vitrified Clay Pipes has provided an update on its memorandum of understanding (MOU) with Laffan Pipes Factory Company in Qatar. The update relates to the company’s ongoing engagement with the Qatari pipe manufacturer under the previo…
+- 09/16 14:39 [FirstSquawk] Saudi Arabia said it shot down a Houthi drone near Mecca on Tuesday, prompting swift condemnation from several countries in the region. Houthi officials denied targeting Mecca, rejecting the Saudi account of the incident as tensions continu…
+- 09/16 14:43 [FirstSquawk] China’s defense minister urges vigilance against ‘hegemonism’ and militarism

@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 14:24 JST／対象: 09/16 08:24 〜 09/16 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-16 14:44 JST／対象: 09/16 08:44 〜 09/16 14:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 115 | 09/16 08:26 | 09/16 14:23 | 12分（08:29→08:41） |
-| financialjuice | 42 | 09/16 08:25 | 09/16 10:21 | 22分（08:51→09:13） |
+| FirstSquawk | 112 | 09/16 08:44 | 09/16 14:43 | 10分（11:28→11:39） |
+| financialjuice | 40 | 09/16 08:47 | 09/16 14:36 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 157 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 152 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 08:25 [financialjuice] Saudi-led coalition in Yemen: air defences intercepted and destroyed Houthi drone trying to enter Mecca airspace
-- 09/16 08:26 [FirstSquawk] GLENCORE ACCUSES RADIANT WORLD AND RELATED COMPANIES OF SUBMITTING FALSIFIED INVOICES, CONTRACTS AND FABRICATED EMAILS, SAYING IT HAS ENDED ALL BUSINESS WITH RADIANT WORLD AND SAPPHIRE MINMETALS. RADIANT WORLD AND SAPPHIRE MINMETALS SAY THE…
-- 09/16 08:28 [financialjuice] Saudi-led coalition in Yemen: drone launched by Houthis intercepted before entering restricted airspace around Mecca
-- 09/16 08:29 [FirstSquawk] GOLD HELD BELOW $4,300 AN OUNCE, WITH SPOT GOLD AT $4,295.54, AS TRADERS PRICE IN AROUND A 95% CHANCE OF A FED RATE HIKE THIS WEEK, WHILE RISING OIL PRICES AND THE 10-YEAR U.S. TREASURY YIELD NEAR A TWO-DECADE HIGH KEEP PRESSURE ON BULLION.
-- 09/16 08:29 [FirstSquawk] GOLD IS DOWN MORE THAN 3% IN SEPTEMBER, THOUGH CENTRAL-BANK BUYING AND CURRENCY-DEBASEMENT CONCERNS CONTINUE TO SUPPORT ITS LONGER-TERM APPEAL AS A PORTFOLIO HEDGE, WHILE SILVER ROSE 0.3% TO $63.38 AN OUNCE.
-- 09/16 08:31 [financialjuice] Saudi-led coalition in Yemen: security of two holy mosques a red line, will act against Houthis
-- 09/16 08:41 [FirstSquawk] WARNER BROS. WINS APPEAL AS CALIFORNIA COURT STRIKES DAN SCHNEIDER’S DEFAMATION LAWSUIT UNDER THE STATE’S ANTI-SLAPP LAW. COURT RULES QUIET ON SET DID NOT IMPLY SCHNEIDER COMMITTED CHILD SEXUAL ABUSE AND NOTES THE DOCUMENTARY STATED THERE W…
-- 09/16 08:43 [FirstSquawk] FORMER U.S. SECRETARY OF STATE ANTONY BLINKEN SAYS THAT 'TAKING THE OFF-RAMP — WHICH MEANS A DIPLOMATIC AGREEMENT WITH IRAN THAT, BY DEFINITION, GIVES IRAN SOMETHING — MEANS IT LOOKS LIKE A LOSS', ADDING 'I THINK THAT'S THE HESITATION ON TR…
-- 09/16 08:43 [FirstSquawk] FORMER U.S. SECRETARY OF STATE ANTONY BLINKEN SAYS 'THE IRAN WAR COULD AND SHOULD BE OVER TOMORROW'.
-- 09/16 08:43 [FirstSquawk] FORMER U.S. SECRETARY OF STATE ANTONY BLINKEN SAYS 'THE GULF STATES ARE ALL LOOKING TO TALK TO TEHRAN, MAYBE CUT A DEAL WITH TEHRAN'.
 - 09/16 08:44 [FirstSquawk] FORMER U.S. SECRETARY OF STATE ANTONY BLINKEN SAYS 'THEY'RE LOOKING TO CUT DEALS BECAUSE THEY KNOW THAT, UNFORTUNATELY, WHAT THEY'VE SEEN IS WE CAN'T NECESSARILY DEFEND THEM'.
 - 09/16 08:44 [FirstSquawk] FORMER U.S. SECRETARY OF STATE ANTONY BLINKEN SAYS 'THE IRANIANS HAVE AN INTERESTING WAY OF BEGGING, IF THAT MEANS LAUNCHING MORE PROJECTILES AT US, AT OUR PARTNERS, GETTING THE HOUTHIS IN THE ACT TO PULL DOWN THE RED SEA CORRIDOR ALONG WIT…
 - 09/16 08:44 [FirstSquawk] FORMER U.S. SECRETARY OF STATE ANTONY BLINKEN SAYS 'WE'RE IN A VERY DIFFICULT POSITION, UNFORTUNATELY, OF TRUMP'S MAKING'.
@@ -181,3 +171,8 @@
 - 09/16 14:14 [FirstSquawk] Berenberg raises BioNTech target price to $140 from $132
 - 09/16 14:21 [FirstSquawk] 20-year JGB yield falls 3 bps to 3.855%
 - 09/16 14:23 [FirstSquawk] French utility EDF will reduce output at its Bugey 2 nuclear reactor to 180 MW from 00:15 to 22:00 on September 17, 2026.
+- 09/16 14:31 [FirstSquawk] China’s slower pace of loan growth is becoming the “new normal,” the central bank governor said, signaling a shift in credit expansion dynamics.
+- 09/16 14:36 [financialjuice] SK Hynix and Intel are in talks to make memory chips in the US - Sources
+- 09/16 14:36 [FirstSquawk] Saudi Vitrified Clay Pipes has provided an update on its memorandum of understanding (MOU) with Laffan Pipes Factory Company in Qatar. The update relates to the company’s ongoing engagement with the Qatari pipe manufacturer under the previo…
+- 09/16 14:39 [FirstSquawk] Saudi Arabia said it shot down a Houthi drone near Mecca on Tuesday, prompting swift condemnation from several countries in the region. Houthi officials denied targeting Mecca, rejecting the Saudi account of the incident as tensions continu…
+- 09/16 14:43 [FirstSquawk] China’s defense minister urges vigilance against ‘hegemonism’ and militarism
