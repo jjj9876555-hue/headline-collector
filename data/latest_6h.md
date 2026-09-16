@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 06:33 JST／対象: 09/17 00:33 〜 09/17 06:33 JST（時刻はすべて日本時間）
+生成: 2026-09-17 06:51 JST／対象: 09/17 00:51 〜 09/17 06:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 09/17 00:38 | 09/17 05:51 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 106 | 09/17 00:43 | 09/17 06:29 | 32分（05:10→05:42） |
-| financialjuice | 120 | 09/17 00:47 | 09/17 05:57 | 25分（05:05→05:30） |
+| DeItaone | 29 | 09/17 00:51 | 09/17 05:51 | ⚠ 72分（01:09→02:22） |
+| FirstSquawk | 108 | 09/17 00:57 | 09/17 06:43 | 32分（05:10→05:42） |
+| financialjuice | 119 | 09/17 00:53 | 09/17 05:57 | 25分（05:05→05:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 246 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 244 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 00:38 [DeItaone] JPMORGAN MAPS FED DAY: STOCKS COULD SWING 2% JPMorgan says Fed communication could determine whether stocks rally or sell off after today’s widely expected 25bp hike. A standard hike with limited guidance could lift the S&P 500 0.25%–0.75%,…
-- 09/17 00:43 [FirstSquawk] ANDY BURNHAM HAS BEEN FORCED TO SCALE BACK HOPES FOR A MAJOR EU RESET AFTER BRUSSELS SIGNALED GREATER INTEREST IN CLOSER TIES WITH CANADA.
-- 09/17 00:43 [DeItaone] STOCKS RISE AS YIELDS RETREAT AHEAD OF FED Global stocks moved higher ahead of today’s Fed rate decision, with markets pricing more than a 90% chance of a 25bp hike. The S&P 500 gained 0.26% and Nasdaq 0.60%, while the 10-year Treasury yiel…
-- 09/17 00:45 [FirstSquawk] IRAN PRESIDENT MEETS IRAQI KURDISH LEADER TALABANI: TASNIM
-- 09/17 00:47 [financialjuice] ‼ BREAKING: Saudis seek to resume half of key oil pipeline within days
-- 09/17 00:49 [DeItaone] *SAUDIS SEEK TO RESUME HALF OF KEY OIL PIPELINE WITHIN DAYS
 - 09/17 00:51 [DeItaone] OPENAI CHALLENGES SECRET APPLE-MUSK AGREEMENT A federal judge ordered X and SpaceXAI to disclose their agreement with Apple after OpenAI sought access to the terms in Musk’s antitrust case. X recently resolved its claims against Apple but i…
 - 09/17 00:53 [financialjuice] German Economy Minister Reiche: It would be sensible to temporarily reduce VAT on fuel from 19% to 7%.
 - 09/17 00:53 [financialjuice] German Economy Minister Reiche: Cap on fuel prices is the wrong approach
@@ -270,3 +264,7 @@
 - 09/17 06:28 [FirstSquawk] UK PM BURNHAM WELCOMES CANADA AS FIRST OBSERVER NATION IN GLOBAL COMBAT AIR PROGRAMME (GCAP) THIS SUMMER — DOWNING STREET
 - 09/17 06:28 [FirstSquawk] DOWNING STREET: LEADERS DISCUSS AI OPPORTUNITIES AND RISKS, BACK GOVERNMENT-TECH COOPERATION TO ADDRESS SHARED CONCERNS AND PROTECT ONLINE SAFETY
 - 09/17 06:29 [FirstSquawk] DOWNING STREET: LEADERS DISCUSS STRENGTHENING DEFENCE COOPERATION, INCLUDING MULTILATERAL DEFENCE MECHANISM AND DSRB
+- 09/17 06:36 [FirstSquawk] BRAZIL’S CENTRAL BANK CUT ITS BENCHMARK INTEREST RATE BY 25 BASIS POINTS TO 13.75%, WITH THE DECISION UNANIMOUS AND IN LINE WITH THE REUTERS POLL.
+- 09/17 06:36 [FirstSquawk] BRAZIL'S CENTRAL BANK SAID INFLATION RISKS REMAIN HIGHER THAN USUAL WITH AN UPWARD BIAS, WHILE IT CONTINUES TO MONITOR LONGER-TERM INFLATION EXPECTATIONS AND MAINTAIN APPROPRIATELY RESTRICTIVE MONETARY POLICY.
+- 09/17 06:36 [FirstSquawk] BRAZIL’S CENTRAL BANK SAYS ECONOMIC ACTIVITY IS SHOWING A GRADUAL MODERATION, PARTICULARLY IN CYCLICAL SECTORS, ALTHOUGH ACTIVITY REMAINS RESILIENT AND THE LABOR MARKET REMAINS TIGHT.
+- 09/17 06:43 [FirstSquawk] GOOGLE AVOIDS BREAKUP OF AD-TECH BUSINESS; JUDGE ORDERS GOOGLE & DOJ TO PROPOSE FINAL JUDGMENT, REQUIRES INTERNAL COMPLIANCE OFFICER DUE TO “GRAVITY” OF ANTITRUST VIOLATIONS
