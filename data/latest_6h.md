@@ -7,51 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 14:44 JST／対象: 09/16 08:44 〜 09/16 14:44 JST（時刻はすべて日本時間）
+生成: 2026-09-16 14:58 JST／対象: 09/16 08:58 〜 09/16 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 112 | 09/16 08:44 | 09/16 14:43 | 10分（11:28→11:39） |
-| financialjuice | 40 | 09/16 08:47 | 09/16 14:36 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 103 | 09/16 09:05 | 09/16 14:51 | 10分（11:28→11:39） |
+| financialjuice | 25 | 09/16 09:13 | 09/16 14:36 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 152 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 128 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 08:44 [FirstSquawk] FORMER U.S. SECRETARY OF STATE ANTONY BLINKEN SAYS 'THEY'RE LOOKING TO CUT DEALS BECAUSE THEY KNOW THAT, UNFORTUNATELY, WHAT THEY'VE SEEN IS WE CAN'T NECESSARILY DEFEND THEM'.
-- 09/16 08:44 [FirstSquawk] FORMER U.S. SECRETARY OF STATE ANTONY BLINKEN SAYS 'THE IRANIANS HAVE AN INTERESTING WAY OF BEGGING, IF THAT MEANS LAUNCHING MORE PROJECTILES AT US, AT OUR PARTNERS, GETTING THE HOUTHIS IN THE ACT TO PULL DOWN THE RED SEA CORRIDOR ALONG WIT…
-- 09/16 08:44 [FirstSquawk] FORMER U.S. SECRETARY OF STATE ANTONY BLINKEN SAYS 'WE'RE IN A VERY DIFFICULT POSITION, UNFORTUNATELY, OF TRUMP'S MAKING'.
-- 09/16 08:45 [FirstSquawk] FORMER U.S. SECRETARY OF STATE ANTONY BLINKEN SAYS THAT 'IF YOU'RE PART OF THE CROWD FROM THE RIVER TO THE SEA THAT SAYS YOU WANT ISRAEL TO GO AWAY — GUESS WHAT? IT'S NOT', AND THAT 'IF YOU'RE A PART OF THE GREATER ISRAEL CROWD THAT WANTS T…
-- 09/16 08:45 [FirstSquawk] FORMER U.S. SECRETARY OF STATE ANTONY BLINKEN SAYS THAT 'UNTIL YOU RECONCILE THAT BASIC REALITY, YOU ARE PART OF THE PROBLEM, NOT THE SOLUTION', ADDING THAT THE SOLUTION IS 'WHAT IT'S BEEN, EVEN THOUGH NO ONE SEEMS TO BELIEVE IT ANYMORE: A …
-- 09/16 08:46 [FirstSquawk] NISSAN TO INVEST £170M IN NEW HYBRID SUV AT UK PLANT - FT
-- 09/16 08:46 [FirstSquawk] SAUDI-LED COALITION IN YEMEN SAYS ITS AIR DEFENCES INTERCEPTED AND DESTROYED A HOUTHI DRONE TRYING TO ENTER MECCA AIRSPACE, WITH THE DRONE INTERCEPTED BEFORE ENTERING THE RESTRICTED AIRSPACE AROUND MECCA.
-- 09/16 08:46 [FirstSquawk] SAUDI-LED COALITION SAYS THE SECURITY OF THE TWO HOLY MOSQUES IS A 'RED LINE' AND THAT IT WILL ACT AGAINST THE HOUTHIS.
-- 09/16 08:46 [FirstSquawk] JAPAN PM TAKAICHI IS LIKELY TO RETAIN KIUCHI AS ECONOMY MINISTER IN A CABINET RESHUFFLE, WITH TRADE MINISTER AKAZAWA ALSO LIKELY TO RETAIN HIS POST - YOMIURI
-- 09/16 08:47 [financialjuice] S. Korea foreign minister Cho to visit U.S. to meet Rubio on Friday: Yonhap
-- 09/16 08:50 [financialjuice] ‼ BREAKING: JAPANESE CORE MACHINERY ORDERS MOM ACTUAL -3.7% (FORECAST -1.2%, PREVIOUS 9.7%) $MACRO
-- 09/16 08:50 [financialjuice] ❗ JAPANESE CORE MACHINERY ORDERS YOY ACTUAL 11.2% (FORECAST 9.6%, PREVIOUS 16.9%) $MACRO
-- 09/16 08:50 [financialjuice] ❗ JAPANESE EXPORTS YOY ACTUAL 19.3% (FORECAST 18.4%, PREVIOUS 23.2%) $MACRO
-- 09/16 08:50 [financialjuice] ❗ JAPANESE IMPORTS YOY ACTUAL 28% (FORECAST 26.3%, PREVIOUS 27.8%) $MACRO
-- 09/16 08:50 [financialjuice] ❗ JAPANESE TOTAL TRADE BALANCE ACTUAL -1105.607B (FORECAST -1058.4B, PREVIOUS -634.5B) $MACRO
-- 09/16 08:50 [financialjuice] Japan July core machinery orders decline 3.7% M/M, below poll of -2.8%
-- 09/16 08:50 [financialjuice] Japan aug exports rise 19.3% year/year: MOF (poll: +18.2%)
-- 09/16 08:50 [financialjuice] Japan July core machinery orders rise 11.2% yr/yr, below poll of 15.3%
-- 09/16 08:50 [financialjuice] Japan Aug exports to EU rise 11% year/year: MOF
-- 09/16 08:50 [financialjuice] Japan August exports to China rise 20.6% year on year: MOF
-- 09/16 08:51 [financialjuice] Japan Aug trade deficit at 1.1056 trillion yen: MOF (poll: 1.0526 trillion yen)
-- 09/16 08:51 [financialjuice] Japan August exports to U.S. rise 24.9% year on year: MOF
-- 09/16 08:51 [financialjuice] Japan Aug exports to Asia rise 21.4% year/year: MOF
-- 09/16 08:51 [financialjuice] Japan aug imports climb 28% year/year: ministry of finance (poll 26.3%)
-- 09/16 08:53 [FirstSquawk] JAPAN'S JULY CORE MACHINE ORDERS FELL 3.7% MONTH-ON-MONTH, A STEEPER DROP THAN THE EXPECTED 1.2% DECLINE AND DOWN FROM A 9.7% RISE, THOUGH THEY ROSE 11.2% YEAR-ON-YEAR VERSUS A 9.6% FORECAST
-- 09/16 08:53 [FirstSquawk] JAPAN'S AUGUST TRADE BALANCE SHOWED A DEFICIT OF ¥1,105.6 BLN, WIDER THAN THE ESTIMATED ¥1,058.4 BLN DEFICIT AND THE PRIOR ¥638.3 BLN, WITH EXPORTS UP 19.3% YEAR-ON-YEAR VERSUS AN 18.4% FORECAST AND IMPORTS UP 28.0% VERSUS 26.3% EXPECTED.
-- 09/16 08:54 [FirstSquawk] ANTHROPIC CEO DARIO AMODEI SAYS ONLY 5%-10% OF AI’S CURRENT POTENTIAL VALUE IS BEING REALIZED ACROSS THE ECONOMY, WHILE SALESFORCE CEO MARC BENIOFF SAYS BUSINESSES NEED MORE SUPPORT TO ACCELERATE AI ADOPTION.
-- 09/16 08:54 [FirstSquawk] ANTHROPIC AND SALESFORCE ARE DEEPENING THEIR CLAUDE PARTNERSHIP, WITH AROUND 7,000 SALESFORCE EMPLOYEES USING CLAUDE-INTEGRATED TOOLS AS DEBATE CONTINUES OVER AI DEVELOPMENT SPEED AND REGULATION.
 - 09/16 09:05 [FirstSquawk] PENGANA INTERNATIONAL EQUITIES HAS ANNOUNCED A SETTLEMENT WITH PCG AND PCL RESOLVING COURT PROCEEDINGS, INTENDED TO REMOVE LITIGATION UNCERTAINTY AND ALLOW PIA TO PROCEED WITH THE BUY-BACK COMPLETION.
 - 09/16 09:05 [FirstSquawk] PENGANA INTERNATIONAL EQUITIES SAYS FRANK GOOCH WILL BECOME INTERIM CHAIRMAN FOLLOWING COMPLETION OF THE BUY-BACK.
 - 09/16 09:13 [financialjuice] IMF Managing Director Georgieva: Senegal has made notable progress in boosting the economy and enhancing prospects for investments, jobs and growth
@@ -176,3 +148,7 @@
 - 09/16 14:36 [FirstSquawk] Saudi Vitrified Clay Pipes has provided an update on its memorandum of understanding (MOU) with Laffan Pipes Factory Company in Qatar. The update relates to the company’s ongoing engagement with the Qatari pipe manufacturer under the previo…
 - 09/16 14:39 [FirstSquawk] Saudi Arabia said it shot down a Houthi drone near Mecca on Tuesday, prompting swift condemnation from several countries in the region. Houthi officials denied targeting Mecca, rejecting the Saudi account of the incident as tensions continu…
 - 09/16 14:43 [FirstSquawk] China’s defense minister urges vigilance against ‘hegemonism’ and militarism
+- 09/16 14:46 [FirstSquawk] Russia attacks energy infrastructure in Ukraine’s Poltava region Russia attacked energy infrastructure in Ukraine’s Poltava region overnight, the regional governor said. The reported strikes targeted energy facilities in the region, adding …
+- 09/16 14:46 [FirstSquawk] Russia hits cargo vessel at Ukraine’s Chornomorsk port: IFX Russia struck a cargo vessel at the port of Chornomorsk in Ukraine, Interfax reported, citing the Russian Defence Ministry. The reported incident adds to ongoing risks around Ukrai…
+- 09/16 14:48 [FirstSquawk] Polish airports in Lublin and Rzeszów resume operations: PANSA Air operations at Lublin and Rzeszów airports in Poland have resumed after a temporary closure linked to military aviation operations, according to PANSA. The airports were brie…
+- 09/16 14:51 [FirstSquawk] US ambassador to South Africa says visa restrictions are only the first step The U.S. ambassador to South Africa said the visa restriction policy is only the first step in a series of potential escalatory measures. The remarks signal that W…

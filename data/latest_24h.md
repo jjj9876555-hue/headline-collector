@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 14:44 JST／対象: 09/15 14:44 〜 09/16 14:44 JST（時刻はすべて日本時間）
+生成: 2026-09-16 14:58 JST／対象: 09/15 14:58 〜 09/16 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 423 | 09/15 14:47 | 09/16 14:43 | 41分（01:25→02:06） |
-| financialjuice | 231 | 09/15 14:45 | 09/16 14:36 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 424 | 09/15 14:58 | 09/16 14:51 | 41分（01:25→02:06） |
+| financialjuice | 227 | 09/15 14:58 | 09/16 14:36 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 696 行（統合前 714 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 693 行（統合前 711 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 14:45 [financialjuice] Korea finance chief Nominee: Bond market needs close monitoring
-- 09/15 14:46 [financialjuice] South Korea to take steps to stabilize the bond market if needed
-- 09/15 14:47 [FirstSquawk] China steps up exit restrictions as part of broader measures to secure strategic technology.
-- 09/15 14:49 [FirstSquawk] South Korea may introduce measures to calm the bond market if conditions warrant.
-- 09/15 14:57 [financialjuice] Japan's Fin. Min. Katayama: We will not rely on deficit-covering bonds to fund the tax cut
-- 09/15 14:57 [financialjuice] Japan Finance Minister Katayama: We will ensure market credibility by reviewing both spending and revenue
-- 09/15 14:58 [FirstSquawk] Japan's government will avoid using deficit-financing bonds to fund tax reductions, Finance Minister Katayama says.
 - 09/15 14:58 [FirstSquawk] Katayama: Japan will safeguard market confidence by examining both expenditure and revenue.
 - 09/15 14:58 [financialjuice] Japan's Fin. Min. Katayama: We won't issue debt to fund food sales tax cut
 - 09/15 14:58 [financialjuice] Japan finance minister Katayama: Will aim to secure enough funding through efforts to boost non-tax revenue
@@ -720,3 +713,7 @@
 - 09/16 14:36 [FirstSquawk] Saudi Vitrified Clay Pipes has provided an update on its memorandum of understanding (MOU) with Laffan Pipes Factory Company in Qatar. The update relates to the company’s ongoing engagement with the Qatari pipe manufacturer under the previo…
 - 09/16 14:39 [FirstSquawk] Saudi Arabia said it shot down a Houthi drone near Mecca on Tuesday, prompting swift condemnation from several countries in the region. Houthi officials denied targeting Mecca, rejecting the Saudi account of the incident as tensions continu…
 - 09/16 14:43 [FirstSquawk] China’s defense minister urges vigilance against ‘hegemonism’ and militarism
+- 09/16 14:46 [FirstSquawk] Russia attacks energy infrastructure in Ukraine’s Poltava region Russia attacked energy infrastructure in Ukraine’s Poltava region overnight, the regional governor said. The reported strikes targeted energy facilities in the region, adding …
+- 09/16 14:46 [FirstSquawk] Russia hits cargo vessel at Ukraine’s Chornomorsk port: IFX Russia struck a cargo vessel at the port of Chornomorsk in Ukraine, Interfax reported, citing the Russian Defence Ministry. The reported incident adds to ongoing risks around Ukrai…
+- 09/16 14:48 [FirstSquawk] Polish airports in Lublin and Rzeszów resume operations: PANSA Air operations at Lublin and Rzeszów airports in Poland have resumed after a temporary closure linked to military aviation operations, according to PANSA. The airports were brie…
+- 09/16 14:51 [FirstSquawk] US ambassador to South Africa says visa restrictions are only the first step The U.S. ambassador to South Africa said the visa restriction policy is only the first step in a series of potential escalatory measures. The remarks signal that W…

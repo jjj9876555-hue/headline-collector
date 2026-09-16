@@ -7,28 +7,28 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 14:44 JST／対象: 09/16 02:44 〜 09/16 14:44 JST（時刻はすべて日本時間）
+生成: 2026-09-16 14:58 JST／対象: 09/16 02:58 〜 09/16 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/16 03:03 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 192 | 09/16 03:01 | 09/16 14:43 | 37分（04:18→04:56） |
-| financialjuice | 102 | 09/16 02:53 | 09/16 14:36 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 196 | 09/16 03:01 | 09/16 14:51 | 37分（04:18→04:56） |
+| financialjuice | 101 | 09/16 02:58 | 09/16 14:36 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 295 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 299 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 02:53 [financialjuice/FirstSquawk] Iranian Army Spokesman: Iran and Pakistan are cooperating to ensure regional security - Tasnim News
 - 09/16 02:58 [financialjuice] WATCH LIVE: Attorney General Blanche Speaks 2 PM ET
 - 09/16 03:00 [financialjuice] CBO: Annual PCE inflation projection now 0.5 ppt higher in Q1 2027.
 - 09/16 03:01 [financialjuice] CBO: war in Iran cost us $38 billion in first five months.
 - 09/16 03:01 [financialjuice/FirstSquawk] Anthropic's Amodei: The world is only making use of 5% to 10% of current AI.
+- 09/16 03:01 [FirstSquawk] IRANIAN ARMY SPOKESMAN: IRAN AND PAKISTAN ARE COOPERATING TO ENSURE REGIONAL SECURITY - TASNIM NEWS
 - 09/16 03:02 [FirstSquawk] A U.S. CDC SPOKESPERSON SAYS PENNSYLVANIA HEALTH OFFICIALS HAVE NOTIFIED THE CDC OF TWO ADDITIONAL DEATHS INVOLVING INDIVIDUALS WHO HAD MEASLES, ADDING THAT PENNSYLVANIA HAS NOT REQUESTED A CDC EPI-AID, WHICH WOULD DEPLOY EPIDEMIOLOGISTS TO…
 - 09/16 03:02 [FirstSquawk] U.S. AUTO SAFETY AGENCY SAYS TESLA MUST ANSWER QUESTIONS ON THE CERTIFICATION OF THE CYBERCAB BY SEPT. 30 - FILING
 - 09/16 03:02 [FirstSquawk/DeItaone] CBO SAYS THE WAR IN IRAN COST THE U.S. $38 BLN IN THE FIRST FIVE MONTHS, ADDING THAT ITS ANNUAL PCE INFLATION PROJECTION IS NOW 0.5 PERCENTAGE POINT HIGHER FOR Q1 2027
@@ -319,3 +319,7 @@
 - 09/16 14:36 [FirstSquawk] Saudi Vitrified Clay Pipes has provided an update on its memorandum of understanding (MOU) with Laffan Pipes Factory Company in Qatar. The update relates to the company’s ongoing engagement with the Qatari pipe manufacturer under the previo…
 - 09/16 14:39 [FirstSquawk] Saudi Arabia said it shot down a Houthi drone near Mecca on Tuesday, prompting swift condemnation from several countries in the region. Houthi officials denied targeting Mecca, rejecting the Saudi account of the incident as tensions continu…
 - 09/16 14:43 [FirstSquawk] China’s defense minister urges vigilance against ‘hegemonism’ and militarism
+- 09/16 14:46 [FirstSquawk] Russia attacks energy infrastructure in Ukraine’s Poltava region Russia attacked energy infrastructure in Ukraine’s Poltava region overnight, the regional governor said. The reported strikes targeted energy facilities in the region, adding …
+- 09/16 14:46 [FirstSquawk] Russia hits cargo vessel at Ukraine’s Chornomorsk port: IFX Russia struck a cargo vessel at the port of Chornomorsk in Ukraine, Interfax reported, citing the Russian Defence Ministry. The reported incident adds to ongoing risks around Ukrai…
+- 09/16 14:48 [FirstSquawk] Polish airports in Lublin and Rzeszów resume operations: PANSA Air operations at Lublin and Rzeszów airports in Poland have resumed after a temporary closure linked to military aviation operations, according to PANSA. The airports were brie…
+- 09/16 14:51 [FirstSquawk] US ambassador to South Africa says visa restrictions are only the first step The U.S. ambassador to South Africa said the visa restriction policy is only the first step in a series of potential escalatory measures. The remarks signal that W…
