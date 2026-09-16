@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 20:52 JST／対象: 09/15 20:52 〜 09/16 20:52 JST（時刻はすべて日本時間）
+生成: 2026-09-16 21:05 JST／対象: 09/15 21:05 〜 09/16 21:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 53 | 09/15 21:28 | 09/16 20:44 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 410 | 09/15 20:56 | 09/16 20:49 | 45分（17:00→17:45） |
-| financialjuice | 268 | 09/15 21:05 | 09/16 20:41 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 411 | 09/15 21:11 | 09/16 21:04 | 45分（17:00→17:45） |
+| financialjuice | 268 | 09/15 21:06 | 09/16 21:03 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 715 行（統合前 734 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 716 行（統合前 735 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 20:56 [FirstSquawk] GERMAN CHANCELLOR MERZ ON UPCOMING STATE ELECTIONS: I WAS ELECTED FOR FOUR YEARS AND WANT TO USE THIS TIME TO SOLVE PROBLEMS
-- 09/15 21:00 [FirstSquawk] SPAIN APPROVES €13B INVESTMENT FOR SPANISH AIRPORT NETWORK
-- 09/15 21:05 [financialjuice] Secured overnight financing rate 3.62% Sept. 14th vs 3.62% Sept. 11th
-- 09/15 21:05 [financialjuice] Bytedance’s first-half profit drops to $20 billion. weighed down by AI spending - The Information
-- 09/15 21:05 [financialjuice] Bytedance LH revenue rises 30% YoY to $120b - Information
 - 09/15 21:06 [financialjuice] Morning Juice – US Session Prep (15th September)
 - 09/15 21:08 [financialjuice] WH Sr. Adviser Hassett praises private sector safeguards after Mythos worries.
 - 09/15 21:11 [FirstSquawk] NEC'S HASSETT COMMENDS PRIVATE SECTOR MEASURES, WHILE TRUMP BELIEVES THE US ALREADY HAS TOOLS REGARDING AI.
@@ -739,3 +734,9 @@
 - 09/16 20:41 [financialjuice] Houthis claim they are targeting Aramco site in Yanbu.
 - 09/16 20:44 [DeItaone] U.S. MORTGAGE PAIN DEEPENS AS RATES NEAR 7% U.S. mortgage applications fell 4.1% last week to their lowest since May 2025, with refinancing applications plunging 8.8%. The 30-year conforming mortgage rate climbed to 6.97%, while jumbo rates…
 - 09/16 20:49 [FirstSquawk] HOUTHI SPOKESPERSON: CLAIMS ATTACK ON ARAMCO FACILITY IN YANBU
+- 09/16 20:55 [financialjuice] German Government spokesperson: We're open to discussing new partnership models between the EU and Canada, but the term 'associate member' needs to be rethought
+- 09/16 21:00 [financialjuice] Secured overnight financing rate 3.64% September 15th vs 3.62% on September 14th
+- 09/16 21:03 [financialjuice] Coreweave brings up a multi-rack NVIDIA Vera Rubin NVL72 cluster $NVDA
+- 09/16 21:03 [FirstSquawk] JAPAN'S DEFENSE MINISTRY INTENDS TO PURCHASE 52,000 DRONES.
+- 09/16 21:03 [FirstSquawk] NOVO AND ANTHROPIC PARTNER TO DEVELOP MEDICATION USING CLAUDE AI TECHNOLOGY.
+- 09/16 21:04 [FirstSquawk] COREWEAVE LAUNCHES MULTI-RACK NVIDIA VERA RUBIN NVL72 CLUSTER.

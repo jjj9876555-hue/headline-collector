@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 20:52 JST／対象: 09/16 08:52 〜 09/16 20:52 JST（時刻はすべて日本時間）
+生成: 2026-09-16 21:05 JST／対象: 09/16 09:05 〜 09/16 21:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/16 19:06 | 09/16 20:44 | 35分（20:00→20:35） |
-| FirstSquawk | 188 | 09/16 08:53 | 09/16 20:49 | 45分（17:00→17:45） |
-| financialjuice | 81 | 09/16 09:13 | 09/16 20:41 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 185 | 09/16 09:14 | 09/16 21:04 | 45分（17:00→17:45） |
+| financialjuice | 84 | 09/16 09:13 | 09/16 21:03 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 274 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 08:53 [FirstSquawk] JAPAN'S JULY CORE MACHINE ORDERS FELL 3.7% MONTH-ON-MONTH, A STEEPER DROP THAN THE EXPECTED 1.2% DECLINE AND DOWN FROM A 9.7% RISE, THOUGH THEY ROSE 11.2% YEAR-ON-YEAR VERSUS A 9.6% FORECAST
-- 09/16 08:53 [FirstSquawk] JAPAN'S AUGUST TRADE BALANCE SHOWED A DEFICIT OF ¥1,105.6 BLN, WIDER THAN THE ESTIMATED ¥1,058.4 BLN DEFICIT AND THE PRIOR ¥638.3 BLN, WITH EXPORTS UP 19.3% YEAR-ON-YEAR VERSUS AN 18.4% FORECAST AND IMPORTS UP 28.0% VERSUS 26.3% EXPECTED.
-- 09/16 08:54 [FirstSquawk] ANTHROPIC CEO DARIO AMODEI SAYS ONLY 5%-10% OF AI’S CURRENT POTENTIAL VALUE IS BEING REALIZED ACROSS THE ECONOMY, WHILE SALESFORCE CEO MARC BENIOFF SAYS BUSINESSES NEED MORE SUPPORT TO ACCELERATE AI ADOPTION.
-- 09/16 08:54 [FirstSquawk] ANTHROPIC AND SALESFORCE ARE DEEPENING THEIR CLAUDE PARTNERSHIP, WITH AROUND 7,000 SALESFORCE EMPLOYEES USING CLAUDE-INTEGRATED TOOLS AS DEBATE CONTINUES OVER AI DEVELOPMENT SPEED AND REGULATION.
-- 09/16 09:05 [FirstSquawk] PENGANA INTERNATIONAL EQUITIES HAS ANNOUNCED A SETTLEMENT WITH PCG AND PCL RESOLVING COURT PROCEEDINGS, INTENDED TO REMOVE LITIGATION UNCERTAINTY AND ALLOW PIA TO PROCEED WITH THE BUY-BACK COMPLETION.
-- 09/16 09:05 [FirstSquawk] PENGANA INTERNATIONAL EQUITIES SAYS FRANK GOOCH WILL BECOME INTERIM CHAIRMAN FOLLOWING COMPLETION OF THE BUY-BACK.
 - 09/16 09:13 [financialjuice] IMF Managing Director Georgieva: Senegal has made notable progress in boosting the economy and enhancing prospects for investments, jobs and growth
 - 09/16 09:14 [FirstSquawk] Georgieva says Senegal’s economic reforms are showing encouraging progress, with better prospects for investment, jobs and growth.
 - 09/16 09:17 [financialjuice] China PBOC predicted to set yuan reference rate at 6.7148 per dollar - Estimate
@@ -298,3 +292,9 @@
 - 09/16 20:41 [financialjuice] Houthis claim they are targeting Aramco site in Yanbu.
 - 09/16 20:44 [DeItaone] U.S. MORTGAGE PAIN DEEPENS AS RATES NEAR 7% U.S. mortgage applications fell 4.1% last week to their lowest since May 2025, with refinancing applications plunging 8.8%. The 30-year conforming mortgage rate climbed to 6.97%, while jumbo rates…
 - 09/16 20:49 [FirstSquawk] HOUTHI SPOKESPERSON: CLAIMS ATTACK ON ARAMCO FACILITY IN YANBU
+- 09/16 20:55 [financialjuice] German Government spokesperson: We're open to discussing new partnership models between the EU and Canada, but the term 'associate member' needs to be rethought
+- 09/16 21:00 [financialjuice] Secured overnight financing rate 3.64% September 15th vs 3.62% on September 14th
+- 09/16 21:03 [financialjuice] Coreweave brings up a multi-rack NVIDIA Vera Rubin NVL72 cluster $NVDA
+- 09/16 21:03 [FirstSquawk] JAPAN'S DEFENSE MINISTRY INTENDS TO PURCHASE 52,000 DRONES.
+- 09/16 21:03 [FirstSquawk] NOVO AND ANTHROPIC PARTNER TO DEVELOP MEDICATION USING CLAUDE AI TECHNOLOGY.
+- 09/16 21:04 [FirstSquawk] COREWEAVE LAUNCHES MULTI-RACK NVIDIA VERA RUBIN NVL72 CLUSTER.

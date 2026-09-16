@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 20:52 JST／対象: 09/16 14:52 〜 09/16 20:52 JST（時刻はすべて日本時間）
+生成: 2026-09-16 21:05 JST／対象: 09/16 15:05 〜 09/16 21:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/16 19:06 | 09/16 20:44 | 35分（20:00→20:35） |
-| FirstSquawk | 81 | 09/16 15:02 | 09/16 20:49 | 45分（17:00→17:45） |
-| financialjuice | 56 | 09/16 15:00 | 09/16 20:41 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 75 | 09/16 15:12 | 09/16 21:04 | 45分（17:00→17:45） |
+| financialjuice | 45 | 09/16 15:13 | 09/16 21:03 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 142 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 15:00 [financialjuice] UK RPI MOM ACTUAL 0.6% (FORECAST 0.7%, PREVIOUS 0.6%) $MACRO
-- 09/16 15:00 [financialjuice] ‼ BREAKING: UK CPI YOY ACTUAL 3.1% (FORECAST 3.1%, PREVIOUS 2.9%) $MACRO
-- 09/16 15:00 [financialjuice] UK CPI MOM ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.3%) $MACRO
-- 09/16 15:00 [financialjuice] UK CORE CPI MOM ACTUAL 0.3% (FORECAST -, PREVIOUS 0.2%) $MACRO
-- 09/16 15:00 [financialjuice] ❗ UK CORE CPI YOY ACTUAL 2.6% (FORECAST 2.6%, PREVIOUS 2.6%) $MACRO
-- 09/16 15:00 [financialjuice] UK SERVICES CPI YOY ACTUAL 3.4% (FORECAST 3.5%, PREVIOUS 3.4%) $MACRO
-- 09/16 15:00 [financialjuice] SWEDISH UNEMPLOYMENT RATE ACTUAL 8.5% (FORECAST -, PREVIOUS 7.8%) $MACRO
-- 09/16 15:00 [financialjuice] UK PPI INPUT PRICES YOY ACTUAL 6.1% (FORECAST 5.4%, PREVIOUS 4.9% ,REVISION 5.8%) $MACRO
-- 09/16 15:01 [financialjuice] UK PPI OUTPUT PRICES MOM ACTUAL 0.7% (FORECAST 0.5%, PREVIOUS 0.2%) $MACRO
-- 09/16 15:01 [financialjuice] UK PPI OUTPUT PRICES YOY ACTUAL 3.7% (FORECAST 3.3%, PREVIOUS 3.1% ,REVISION 3.3%) $MACRO
-- 09/16 15:01 [financialjuice] UK PPI INPUT PRICES MOM ACTUAL 0.3% (FORECAST 0.4%, PREVIOUS -1.7%) $MACRO
-- 09/16 15:01 [financialjuice] SWEDISH UNEMPLOYMENT RATE SA ACTUAL 8.7% (FORECAST 8.6%, PREVIOUS 8.6%) $MACRO
-- 09/16 15:01 [financialjuice] UK PPI August 2026 Report
-- 09/16 15:01 [financialjuice] UK CPI August 2026 Report
-- 09/16 15:02 [FirstSquawk] Uk (Aug) cpi mom actual: 0.5% Vs 0.3% previous;est 0.5% Uk (Aug) cpi yoy actual: 3.1% Vs 2.9% previous;est 3.1%
-- 09/16 15:02 [FirstSquawk] Uk (Aug) cpi core yoy actual: 2.6% Vs 2.6% previous;est 2.6% Uk (Aug) cpi services yoy actual: 3.4% Vs 3.4% previous;est 3.5%
-- 09/16 15:02 [FirstSquawk] Uk (Aug) cpih yoy actual: 3.3% Vs 3.1% previous;est 3.2% Uk (Aug) retail price index actual: 421.6 Vs 419.1 previous;est 421.9
-- 09/16 15:03 [FirstSquawk] Uk (Aug) rpi mom actual: 0.6% Vs 0.6% previous;est 0.7% Uk (Aug) rpi yoy actual: 3.4% Vs 3.2% previous;est 3.5% Uk (Aug) rpi ex mort int.payments (yoy) actual: 3.3% Vs 3.1% previous
-- 09/16 15:03 [FirstSquawk] Sweden (Aug) unemployment rate actual: 8.5% Vs 7.8% previous Sweden (Aug) unemployment rate trend actual: 8.7% Vs 8.7% previous
-- 09/16 15:03 [FirstSquawk] Sweden (Aug) unemployment rate sa actual: 8.9% Vs 8.6% previous; est 8.6% Uk (Aug) ppi output nsa mom actual: 0.7% Vs 0.2% previous;est 0.5%
-- 09/16 15:03 [FirstSquawk] Uk (Aug) ppi output nsa yoy actual: 3.7% Vs 3.1% previous;est 3.2% Uk (Aug) ppi input nsa mom actual: 0.3% Vs -1.7% previous;est 0.4%
-- 09/16 15:03 [FirstSquawk] Uk (Aug) ppi input nsa yoy actual: 6.1% Vs 4.9% previous;est 5.4%
-- 09/16 15:05 [FirstSquawk] Panasonic Energy launches new global lithium-ion battery R&D hub in Japan Panasonic Energy has launched a new global lithium-ion battery R&D hub in Japan to accelerate development and production for automotive and data center applications. …
 - 09/16 15:12 [FirstSquawk] 30-year JGB yield falls 4.5 bps to 4.105% The yield on Japan’s 30-year government bond fell 4.5 basis points to 4.105%. The move comes as investors adjust positions in long-dated Japanese government bonds, with yields remaining elevated ami…
 - 09/16 15:13 [financialjuice] Senior German lawmaker Thorsten Frei: Energy price relief must come quickly - RTL TV
 - 09/16 15:14 [FirstSquawk] German lawmaker Frei calls for energy relief measures from October
@@ -166,3 +143,9 @@
 - 09/16 20:41 [financialjuice] Houthis claim they are targeting Aramco site in Yanbu.
 - 09/16 20:44 [DeItaone] U.S. MORTGAGE PAIN DEEPENS AS RATES NEAR 7% U.S. mortgage applications fell 4.1% last week to their lowest since May 2025, with refinancing applications plunging 8.8%. The 30-year conforming mortgage rate climbed to 6.97%, while jumbo rates…
 - 09/16 20:49 [FirstSquawk] HOUTHI SPOKESPERSON: CLAIMS ATTACK ON ARAMCO FACILITY IN YANBU
+- 09/16 20:55 [financialjuice] German Government spokesperson: We're open to discussing new partnership models between the EU and Canada, but the term 'associate member' needs to be rethought
+- 09/16 21:00 [financialjuice] Secured overnight financing rate 3.64% September 15th vs 3.62% on September 14th
+- 09/16 21:03 [financialjuice] Coreweave brings up a multi-rack NVIDIA Vera Rubin NVL72 cluster $NVDA
+- 09/16 21:03 [FirstSquawk] JAPAN'S DEFENSE MINISTRY INTENDS TO PURCHASE 52,000 DRONES.
+- 09/16 21:03 [FirstSquawk] NOVO AND ANTHROPIC PARTNER TO DEVELOP MEDICATION USING CLAUDE AI TECHNOLOGY.
+- 09/16 21:04 [FirstSquawk] COREWEAVE LAUNCHES MULTI-RACK NVIDIA VERA RUBIN NVL72 CLUSTER.
