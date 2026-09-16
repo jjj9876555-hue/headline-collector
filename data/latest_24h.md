@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 18:52 JST／対象: 09/15 18:52 〜 09/16 18:52 JST（時刻はすべて日本時間）
+生成: 2026-09-16 19:06 JST／対象: 09/15 19:06 〜 09/16 19:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 53 | 09/15 19:17 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 412 | 09/15 18:53 | 09/16 18:35 | 45分（17:00→17:45） |
-| financialjuice | 252 | 09/15 21:05 | 09/16 18:33 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 410 | 09/15 19:11 | 09/16 19:03 | 45分（17:00→17:45） |
+| financialjuice | 254 | 09/15 21:05 | 09/16 19:01 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 702 行（統合前 720 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 18:53 [FirstSquawk] OMAN SAYS OIL TANKER ELGAIA BEING TOWED TO OMANI PORT AFTER FIRE IN ENGINE ROOM FOLLOWING ATTACK OFF OMANI COAST
-- 09/15 19:01 [FirstSquawk] ITALY SENATE APPROVES MELONI'S ELECTORAL REFORM
-- 09/15 19:05 [FirstSquawk] U.S. SPECIAL ENVOY COALE: U.S. HAS CALLED ON BANKS TO UNFREEZE BELARUS’S FROZEN ASSETS - RIA
 - 09/15 19:11 [FirstSquawk] GRAB WILL ACQUIRE A 60% SHARE IN ATOME FINANCIAL FOR $1.49 BILLION IN CASH.
 - 09/15 19:13 [FirstSquawk] RUSSIA HAS ISSUED A WARNING TO DENMARK OVER 'DANGEROUS MANOEUVRES' BY DANISH HELICOPTERS - RIA
 - 09/15 19:17 [DeItaone] SAUDI OIL EXPORTS PIVOT EAST Damage to Saudi Arabia’s East-West Pipeline could cut Yanbu exports by 2.5–2.7 million bpd for up to six weeks, according to Kpler. Saudi Arabia can redirect roughly 3 million bpd through Ras Tanura, but that in…
@@ -726,3 +723,6 @@
 - 09/16 18:33 [financialjuice] GERMAN 30 YR BUND BID-TO-COVER ACTUAL 2.425 (FORECAST -, PREVIOUS 2.9) $MACRO
 - 09/16 18:35 [FirstSquawk] GERMANY SOLD EUR864 MILLION IN BONDS WITH A 3.4% MATURITY IN 2047, BIDDING COVER RATIO OF 2.4X (DOWN FROM 3.6X), AND AVERAGE YIELD OF 3.88% (UP FROM 3.68%).
 - 09/16 18:35 [FirstSquawk] GERMANY SOLD EUR 1.257 BILLION IN 2056 BONDS AT A 2.9% RATE; BID-TO-COVER RATIO AT 2.4X (DOWN FROM 2.9X); AVERAGE YIELD REACHED 3.90% (UP FROM 3.64%).
+- 09/16 19:00 [financialjuice] Meta partner Nextera to hire 1,000 from its workforce academy $META
+- 09/16 19:01 [financialjuice] Blackrock to build customizable 401k funds for firms - WSJ
+- 09/16 19:03 [FirstSquawk] META AND NEXTERA WILL RECRUIT 1,000 PEOPLE FROM THEIR WORKFORCE ACADEMY.

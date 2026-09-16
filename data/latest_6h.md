@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 18:52 JST／対象: 09/16 12:52 〜 09/16 18:52 JST（時刻はすべて日本時間）
+生成: 2026-09-16 19:06 JST／対象: 09/16 13:06 〜 09/16 19:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 101 | 09/16 12:55 | 09/16 18:35 | 45分（17:00→17:45） |
-| financialjuice | 41 | 09/16 14:36 | 09/16 18:33 | 40分（15:13→15:53） |
+| FirstSquawk | 94 | 09/16 13:07 | 09/16 19:03 | 45分（17:00→17:45） |
+| financialjuice | 43 | 09/16 14:36 | 09/16 19:01 | 40分（15:13→15:53） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 142 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 137 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 12:55 [FirstSquawk] The average U.S. diesel price has surged to a record $6.30 per gallon, while gasoline has climbed to $4.36. Kalshi expects the average diesel price to reach $7.20 per gallon this year, underscoring the growing pressure on transportation and…
-- 09/16 13:00 [FirstSquawk] Hong Kong leader to accelerate public housing expansion Hong Kong’s leader plans to push forward the development of public housing units as part of efforts to address the city’s housing situation.
-- 09/16 13:00 [FirstSquawk] Hong Kong to deliver 196,000 public housing units within five years Hong Kong’s leader says 196,000 public housing units are expected to be ready over the next five years, as the government steps up efforts to expand housing supply.
-- 09/16 13:01 [FirstSquawk] Vodafone faces up to €1.1 billion hit from Drahi’s German deal: FT Vodafone is set to take a financial hit of as much as €1.1 billion linked to a deal involving French telecom billionaire Patrick Drahi in Germany, according to the Financial…
-- 09/16 13:02 [FirstSquawk] Vodafone set to lose more than €1 billion in potential OXG payments: FT Vodafone could miss out on more than €1 billion in potential payments from OXG, according to the Financial Times, adding a significant financial impact linked to the Ge…
-- 09/16 13:03 [FirstSquawk] Economists urge Fed to raise rates despite Trump pressure: FT A large majority of economists surveyed in the FT-Booth poll say the Federal Reserve should raise borrowing costs, with inflation concerns weighing on the policy outlook.
-- 09/16 13:04 [FirstSquawk] UK explores ‘land drones’ to upgrade troubled Ajax fighting vehicles: FT The UK is looking at land-based drones as part of efforts to enhance the capabilities of its Ajax fighting vehicles, according to the Financial Times. The move reflect…
-- 09/16 13:05 [FirstSquawk] UK chancellor considers tax increase on higher-stake slot machines: FT The UK chancellor is considering a Budget tax increase on higher-stake slot machines, according to the Financial Times. The proposal could raise additional revenue from …
 - 09/16 13:07 [FirstSquawk] RBC raises Atalaya Mining target price to 1,350p from 1,100p
 - 09/16 13:10 [FirstSquawk] Databricks to invest more than $350 million in Singapore Databricks plans to invest more than US$350 million in Singapore, as demand for enterprise AI solutions accelerates. The investment highlights Singapore’s growing role as a regional h…
 - 09/16 13:10 [FirstSquawk] RBC raises Endeavour Mining target price to 4,900p from 4,600p
@@ -166,3 +158,6 @@
 - 09/16 18:33 [financialjuice] GERMAN 30 YR BUND BID-TO-COVER ACTUAL 2.425 (FORECAST -, PREVIOUS 2.9) $MACRO
 - 09/16 18:35 [FirstSquawk] GERMANY SOLD EUR864 MILLION IN BONDS WITH A 3.4% MATURITY IN 2047, BIDDING COVER RATIO OF 2.4X (DOWN FROM 3.6X), AND AVERAGE YIELD OF 3.88% (UP FROM 3.68%).
 - 09/16 18:35 [FirstSquawk] GERMANY SOLD EUR 1.257 BILLION IN 2056 BONDS AT A 2.9% RATE; BID-TO-COVER RATIO AT 2.4X (DOWN FROM 2.9X); AVERAGE YIELD REACHED 3.90% (UP FROM 3.64%).
+- 09/16 19:00 [financialjuice] Meta partner Nextera to hire 1,000 from its workforce academy $META
+- 09/16 19:01 [financialjuice] Blackrock to build customizable 401k funds for firms - WSJ
+- 09/16 19:03 [FirstSquawk] META AND NEXTERA WILL RECRUIT 1,000 PEOPLE FROM THEIR WORKFORCE ACADEMY.

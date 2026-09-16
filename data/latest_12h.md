@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 18:52 JST／対象: 09/16 06:52 〜 09/16 18:52 JST（時刻はすべて日本時間）
+生成: 2026-09-16 19:06 JST／対象: 09/16 07:06 〜 09/16 19:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/16 07:16 | 09/16 07:16 | - |
-| FirstSquawk | 198 | 09/16 07:11 | 09/16 18:35 | 45分（17:00→17:45） |
-| financialjuice | 99 | 09/16 06:56 | 09/16 18:33 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 199 | 09/16 07:11 | 09/16 19:03 | 45分（17:00→17:45） |
+| financialjuice | 98 | 09/16 07:06 | 09/16 19:01 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 296 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 06:56 [financialjuice] OpenAI considers funding round at $0.2tn valuation ahead of IPO - FT
-- 09/16 06:57 [financialjuice] OpenAI weighs funding round at $1.2tn valuation before IPO: FT
-- 09/16 07:00 [financialjuice] Kraken investigating issue with base network funding gateway, deposits and withdrawals may be delayed
 - 09/16 07:06 [financialjuice/FirstSquawk] Microsoft declares quarterly dividend of $0.98 per share, up 8% from prior quarter
 - 09/16 07:06 [financialjuice/FirstSquawk] Several blasts heard on Iran's Geshm island: IRNA citing local sources
 - 09/16 07:06 [financialjuice] OpenAI considers funding round at $1.2 trillion valuation before IPO - FT (adds currency)
@@ -320,3 +317,6 @@
 - 09/16 18:33 [financialjuice] GERMAN 30 YR BUND BID-TO-COVER ACTUAL 2.425 (FORECAST -, PREVIOUS 2.9) $MACRO
 - 09/16 18:35 [FirstSquawk] GERMANY SOLD EUR864 MILLION IN BONDS WITH A 3.4% MATURITY IN 2047, BIDDING COVER RATIO OF 2.4X (DOWN FROM 3.6X), AND AVERAGE YIELD OF 3.88% (UP FROM 3.68%).
 - 09/16 18:35 [FirstSquawk] GERMANY SOLD EUR 1.257 BILLION IN 2056 BONDS AT A 2.9% RATE; BID-TO-COVER RATIO AT 2.4X (DOWN FROM 2.9X); AVERAGE YIELD REACHED 3.90% (UP FROM 3.64%).
+- 09/16 19:00 [financialjuice] Meta partner Nextera to hire 1,000 from its workforce academy $META
+- 09/16 19:01 [financialjuice] Blackrock to build customizable 401k funds for firms - WSJ
+- 09/16 19:03 [FirstSquawk] META AND NEXTERA WILL RECRUIT 1,000 PEOPLE FROM THEIR WORKFORCE ACADEMY.
