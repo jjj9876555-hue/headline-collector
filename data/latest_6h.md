@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 18:18 JST／対象: 09/16 12:18 〜 09/16 18:18 JST（時刻はすべて日本時間）
+生成: 2026-09-16 18:34 JST／対象: 09/16 12:34 〜 09/16 18:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 106 | 09/16 12:26 | 09/16 18:12 | 45分（17:00→17:45） |
-| financialjuice | 38 | 09/16 14:36 | 09/16 18:00 | 40分（15:13→15:53） |
+| FirstSquawk | 103 | 09/16 12:38 | 09/16 18:12 | 45分（17:00→17:45） |
+| financialjuice | 41 | 09/16 14:36 | 09/16 18:33 | 40分（15:13→15:53） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 144 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 12:26 [FirstSquawk] China has warned against militarism and historical revisionism at a regional security forum, according to Kyodo News. The remarks come amid ongoing discussions over regional security and historical issues, keeping China’s position on milita…
-- 09/16 12:26 [FirstSquawk] Australia’s Speaker of the House of Representatives will lead a delegation to China from September 18 to 22, Xinhua reports. The visit will bring Australian parliamentary representatives to China as bilateral ties and parliamentary engageme…
-- 09/16 12:30 [FirstSquawk] Japan’s 12-month Treasury discount bill auction recorded a lowest price of 98.4490 and an average price of 98.4620. Bids were accepted at the lowest price at a 4.5263% rate, providing a fresh read on demand and pricing in Japan’s short-term…
 - 09/16 12:38 [FirstSquawk] The RBI may raise its policy rate by 25 basis points each in October and December, with inflation potentially moving above 6%, according to the latest outlook. If realized, the two hikes would amount to 50 basis points of tightening, puttin…
 - 09/16 12:38 [FirstSquawk] Japan is tightening enforcement against bicycle traffic violations, but the country still trails many global peers in developing dedicated cycling infrastructure. The gap highlights a key challenge: stricter enforcement is being introduced …
 - 09/16 12:49 [FirstSquawk] Families of Chinese people subjected to wartime forced labor have filed lawsuits against six Japanese companies, Kyodo News reports. The legal action brings longstanding wartime labor issues back into focus and involves claims by relatives …
@@ -168,3 +165,6 @@
 - 09/16 18:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION YOY ACTUAL 0.0% (FORECAST -0.1%, PREVIOUS 0.1%) $MACRO
 - 09/16 18:00 [financialjuice] EUROZONE LABOUR COSTS YOY ACTUAL 3.1% (FORECAST -, PREVIOUS 3.2%) $MACRO
 - 09/16 18:12 [FirstSquawk] AMAZON PLANS TO ESTABLISH OVER 1,000 SAME-DAY DELIVERY HUBS BY 2031, AS REPORTED BY INSIDER.
+- 09/16 18:23 [financialjuice] Amazon to build over 1k same-day delivery hubs by 2031. Budgets $6.8B for US same day hubs in 2026-27. $AMZN - Insider
+- 09/16 18:33 [financialjuice] GERMAN 30 YR BUND YIELD ACTUAL 3.9% (FORECAST -, PREVIOUS 3.64%) $MACRO
+- 09/16 18:33 [financialjuice] GERMAN 30 YR BUND BID-TO-COVER ACTUAL 2.425 (FORECAST -, PREVIOUS 2.9) $MACRO

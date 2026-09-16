@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 18:18 JST／対象: 09/16 06:18 〜 09/16 18:18 JST（時刻はすべて日本時間）
+生成: 2026-09-16 18:34 JST／対象: 09/16 06:34 〜 09/16 18:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/16 07:16 | 09/16 07:16 | - |
-| FirstSquawk | 201 | 09/16 06:20 | 09/16 18:12 | 45分（17:00→17:45） |
-| financialjuice | 103 | 09/16 06:18 | 09/16 18:00 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 198 | 09/16 06:39 | 09/16 18:12 | 45分（17:00→17:45） |
+| financialjuice | 101 | 09/16 06:36 | 09/16 18:33 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 303 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 298 行（統合前 301 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 06:18 [financialjuice] Burnham to meet Trump for first time in New York next week: The Times
-- 09/16 06:19 [financialjuice] Trump and Burnham expected to discuss Ukraine, Middle East and energy at United Nations General Assembly - The Times
-- 09/16 06:20 [financialjuice] Ukraine sets budget revenue goal at 5.65 trillion hryvnias ($126.7 bln) next year: draft budget
-- 09/16 06:20 [financialjuice] Ukraine will need $52.6 billion in global financial support in 2027: draft budget
-- 09/16 06:20 [FirstSquawk] TRUMP AND UK PRIME MINISTER ANDY BURNHAM ARE EXPECTED TO DISCUSS UKRAINE, THE MIDDLE EAST AND ENERGY DURING THEIR MEETING AT THE UNITED NATIONS GENERAL ASSEMBLY. - THE TIMES
-- 09/16 06:20 [financialjuice] Ukraine to allocate 43.8% of GDP for defense efforts in 2024 draft budget
-- 09/16 06:20 [FirstSquawk] UKRAINE TARGETS 5.65 TRILLION HRYVNIAS ($126.7 BILLION) IN BUDGET REVENUES NEXT YEAR, WITH 43.8% OF GDP PLANNED FOR DEFENCE, ACCORDING TO THE DRAFT BUDGET.
-- 09/16 06:21 [FirstSquawk] UKRAINE EXPECTS TO REQUIRE $52.6 BILLION IN INTERNATIONAL FINANCIAL AID IN 2027 TO SUPPORT ITS BUDGET AND WAR EFFORT.
 - 09/16 06:36 [financialjuice] Nvidia CEO Huang to attend U.S. state dinner for China's Xi, source familiar
 - 09/16 06:37 [financialjuice] Kraken investigating issue with Cardano funding gateway, withdrawals may be delayed
 - 09/16 06:39 [FirstSquawk] US WEIGHS BUYING WARSHIPS FROM JAPAN, SOUTH KOREA TO COUNTER CHINA, ACCORDING TO NIKKEI
@@ -327,3 +319,6 @@
 - 09/16 18:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION YOY ACTUAL 0.0% (FORECAST -0.1%, PREVIOUS 0.1%) $MACRO
 - 09/16 18:00 [financialjuice] EUROZONE LABOUR COSTS YOY ACTUAL 3.1% (FORECAST -, PREVIOUS 3.2%) $MACRO
 - 09/16 18:12 [FirstSquawk] AMAZON PLANS TO ESTABLISH OVER 1,000 SAME-DAY DELIVERY HUBS BY 2031, AS REPORTED BY INSIDER.
+- 09/16 18:23 [financialjuice] Amazon to build over 1k same-day delivery hubs by 2031. Budgets $6.8B for US same day hubs in 2026-27. $AMZN - Insider
+- 09/16 18:33 [financialjuice] GERMAN 30 YR BUND YIELD ACTUAL 3.9% (FORECAST -, PREVIOUS 3.64%) $MACRO
+- 09/16 18:33 [financialjuice] GERMAN 30 YR BUND BID-TO-COVER ACTUAL 2.425 (FORECAST -, PREVIOUS 2.9) $MACRO
