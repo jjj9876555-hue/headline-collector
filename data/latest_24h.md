@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 23:01 JST／対象: 09/15 23:01 〜 09/16 23:01 JST（時刻はすべて日本時間）
+生成: 2026-09-16 23:20 JST／対象: 09/15 23:20 〜 09/16 23:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 49 | 09/15 23:06 | 09/16 22:37 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 400 | 09/15 23:07 | 09/16 23:00 | 45分（17:00→17:45） |
-| financialjuice | 266 | 09/15 23:01 | 09/16 23:01 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 47 | 09/15 23:23 | 09/16 22:37 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 392 | 09/15 23:22 | 09/16 23:12 | 45分（17:00→17:45） |
+| financialjuice | 266 | 09/15 23:21 | 09/16 23:19 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 699 行（統合前 718 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 691 行（統合前 708 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 23:01 [financialjuice] ❗ META: Chips will save money and energy compared with Nvidia. $META $NVDA
-- 09/15 23:04 [financialjuice] US Treasury Secretary Bessent asked on 10-Yr yields, blames oil price rise.
-- 09/15 23:06 [DeItaone/FirstSquawk] *BESSENT, ASKED ON 10-YR YIELDS, BLAMES OIL PRICE RISE
-- 09/15 23:06 [financialjuice] US Treasury Secretary Bessent: We have set the table for a robust economy.
-- 09/15 23:07 [FirstSquawk] META TO ROLL OUT NEXT-GENERATION ASTRID CHIPS AT END OF 2027
-- 09/15 23:07 [FirstSquawk] META SAYS CHIPS WILL SAVE MONEY AND ENERGY COMPARED WITH NVIDIA
-- 09/15 23:07 [FirstSquawk] META TO DEPLOY NEW IN-HOUSE ARKE CHIPS IN FIRST HALF OF 2027
-- 09/15 23:07 [FirstSquawk] META SHARES EXTEND GAIN TO SESSION HIGH, UP 2%
-- 09/15 23:07 [FirstSquawk/DeItaone] BESSENT: 'WE HAVE SET THE TABLE FOR A ROBUST ECONOMY'
-- 09/15 23:09 [FirstSquawk] HONEYWELL AEROSPACE CEO: HAVE ROUGHLY 10 OR SO SUPPLIERS THAT ARE CONSIDERED TO BE ‘CONSTRAINED’
-- 09/15 23:15 [FirstSquawk] DUTCH GOVT TO PROPOSE PLAN FOR CAPITAL GAINS TAX
-- 09/15 23:15 [FirstSquawk] THERMO FISHER EXEC: ORDERS ARE OUTPACING REVENUE, BODES WELL FOR FUTURE GROWTH
-- 09/15 23:17 [FirstSquawk] BESSENT HEARING AT HOUSE DISRUPTED BY ANTI-WAR PROTESTORS
-- 09/15 23:18 [financialjuice] Fear and Greed Index: 31/100 = Fear
-- 09/15 23:18 [FirstSquawk] OPENAI SAYS IT’S WORKING WITH ANTHROPIC, GOOGLE ON AI SAFETY
-- 09/15 23:19 [FirstSquawk] WELLS FARGO SIGNALS STRONG Q3 NIM UPSIDE, SEES RESULTS BEATING GUIDANCE $WFC
-- 09/15 23:19 [financialjuice] OpenAI: We're working with Anthropic, Google on AI safety.
 - 09/15 23:21 [financialjuice] Crypto Fear and Greed Index: 69/100 = Greed
 - 09/15 23:22 [FirstSquawk] BESSENT TOUTS REAL WAGES OUTPACING INFLATION, JOB GAINS
 - 09/15 23:22 [FirstSquawk] BESSENT: NEW `INDUSTRIAL SUPER-CYCLE' IS UNDERWAY
@@ -723,3 +706,12 @@
 - 09/16 23:00 [financialjuice] US BUSINESS INVENTORIES MOM ACTUAL 0.8% (FORECAST 0.8%, PREVIOUS 0.0%) $MACRO
 - 09/16 23:00 [FirstSquawk] US NAHB HOUSING MARKET INDEX SEP: 32 (EST 34; PREV 35)
 - 09/16 23:01 [financialjuice] US Business Inventories July 2026 Report
+- 09/16 23:01 [financialjuice] US NAHB Housing Market Index Sept. 2026 Report
+- 09/16 23:06 [FirstSquawk] US SAYS BRAZIL FAILED TO CONFRONT PCC AND CV GROUPS
+- 09/16 23:06 [FirstSquawk] COINBASE EYES $70T US STOCK MARKET WITH FULLY BACKED TOKENIZED EQUITIES PUSH $COIN
+- 09/16 23:07 [financialjuice] US issues amended Venezuela-related general license authorizing certain deals related to Petroleos de Venezuela, S.A. 2020 8.5% bond on or after November 5th - Treasury website
+- 09/16 23:12 [FirstSquawk] US TREASURY: RUSSIA-RELATED DESIGNATIONS REMOVALS; COUNTER NARCOTICS DESIGNATION REMOVAL; ISSUANCE OF AMENDED VENEZUELA GENERAL LICENSE - OFAC
+- 09/16 23:12 [FirstSquawk] VENEZUELA REPORTEDLY READIES ALUMINIUM SHIPMENT FOR THE US MARKET
+- 09/16 23:18 [financialjuice] Crypto Fear & Greed Index: 51/100 - Neutral
+- 09/16 23:18 [financialjuice] Fear & Greed Index: 30/100 - Fear
+- 09/16 23:19 [financialjuice] ECB's Pereira: One area I'm watching closely is natural gas prices, especially if we have a cold winter.

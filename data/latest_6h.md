@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 23:01 JST／対象: 09/16 17:01 〜 09/16 23:01 JST（時刻はすべて日本時間）
+生成: 2026-09-16 23:20 JST／対象: 09/16 17:20 〜 09/16 23:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/16 19:06 | 09/16 22:37 | ⚠ 48分（20:44→21:33） |
-| FirstSquawk | 66 | 09/16 17:45 | 09/16 23:00 | 27分（18:35→19:03） |
-| financialjuice | 67 | 09/16 17:01 | 09/16 23:01 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 70 | 09/16 17:45 | 09/16 23:12 | 27分（18:35→19:03） |
+| financialjuice | 71 | 09/16 17:21 | 09/16 23:19 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 143 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 151 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 17:01 [financialjuice] ECB sees wage growth at 2.7% in 1q 2027, 2.8% in 2q 2027.
 - 09/16 17:21 [financialjuice] China's Wang Yi: We encourages Iran and US to exercise rationality.
 - 09/16 17:22 [financialjuice] China Foreign Minister, to Iran counterpart: Urge all parties to take effective measures to reopen Strait of Hormuz.
 - 09/16 17:32 [financialjuice] UK house prices rose by 1.4% in year to July (1.5% in year to June) - ONS.
@@ -167,3 +166,12 @@
 - 09/16 23:00 [financialjuice] US BUSINESS INVENTORIES MOM ACTUAL 0.8% (FORECAST 0.8%, PREVIOUS 0.0%) $MACRO
 - 09/16 23:00 [FirstSquawk] US NAHB HOUSING MARKET INDEX SEP: 32 (EST 34; PREV 35)
 - 09/16 23:01 [financialjuice] US Business Inventories July 2026 Report
+- 09/16 23:01 [financialjuice] US NAHB Housing Market Index Sept. 2026 Report
+- 09/16 23:06 [FirstSquawk] US SAYS BRAZIL FAILED TO CONFRONT PCC AND CV GROUPS
+- 09/16 23:06 [FirstSquawk] COINBASE EYES $70T US STOCK MARKET WITH FULLY BACKED TOKENIZED EQUITIES PUSH $COIN
+- 09/16 23:07 [financialjuice] US issues amended Venezuela-related general license authorizing certain deals related to Petroleos de Venezuela, S.A. 2020 8.5% bond on or after November 5th - Treasury website
+- 09/16 23:12 [FirstSquawk] US TREASURY: RUSSIA-RELATED DESIGNATIONS REMOVALS; COUNTER NARCOTICS DESIGNATION REMOVAL; ISSUANCE OF AMENDED VENEZUELA GENERAL LICENSE - OFAC
+- 09/16 23:12 [FirstSquawk] VENEZUELA REPORTEDLY READIES ALUMINIUM SHIPMENT FOR THE US MARKET
+- 09/16 23:18 [financialjuice] Crypto Fear & Greed Index: 51/100 - Neutral
+- 09/16 23:18 [financialjuice] Fear & Greed Index: 30/100 - Fear
+- 09/16 23:19 [financialjuice] ECB's Pereira: One area I'm watching closely is natural gas prices, especially if we have a cold winter.
