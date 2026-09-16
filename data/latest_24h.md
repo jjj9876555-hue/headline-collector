@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 15:23 JST／対象: 09/15 15:23 〜 09/16 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-16 15:49 JST／対象: 09/15 15:49 〜 09/16 15:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 422 | 09/15 15:23 | 09/16 15:22 | 41分（01:25→02:06） |
+| FirstSquawk | 417 | 09/15 16:01 | 09/16 15:43 | 41分（01:25→02:06） |
 | financialjuice | 227 | 09/15 21:05 | 09/16 15:13 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 691 行（統合前 709 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 686 行（統合前 704 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 15:23 [FirstSquawk] Al Arabiya: Yemeni Armed Forces carry out airstrikes against Houthi weapons depots near Mount Heilan.
-- 09/15 15:24 [FirstSquawk] Houthi infiltration attempt thwarted by Yemeni Armed Forces in Harib, south of Marib, Al Arabiya correspondent says.
-- 09/15 15:24 [FirstSquawk] Bahrain: Continued Houthi targeting of civilians and civilian facilities in Saudi Arabia is strongly condemned.
-- 09/15 15:25 [FirstSquawk] SpaceX target price raised to $150 from $117 by HSBC.
-- 09/15 15:36 [FirstSquawk] South Korea's Nuri set for fifth launch, carrying the country's first microsatellite constellation.
-- 09/15 15:45 [FirstSquawk] FRANCE (AUG) CPI EU Harmonized MoM ACTUAL: 0.7% VS 0.8% PREVIOUS;EST 0.8%
-- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI EU Harmonized YoY ACTUAL: 2.6% VS 2.7% PREVIOUS;EST 2.7%
-- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI MoM ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7%
-- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI YoY ACTUAL: 2.4% VS 2.4% PREVIOUS;EST 2.4%
-- 09/15 15:46 [FirstSquawk] FRANCE (AUG) CPI Ex-Tobacco Index ACTUAL: 103.35 VS 102.67 PREVIOUS;EST 103.41
 - 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI MoM ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7% SPAIN (AUG) CPI YoY ACTUAL: 4.3% VS 4.3% PREVIOUS;EST 4.3%
 - 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI CORE YOY ACTUAL: 2.9% VS 2.9% PREVIOUS;EST 2.9% SPAIN (AUG) CPI CORE MOM ACTUAL: 0.3% VS -0.1% PREVIOUS
 - 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI EU Harmonized MoM ACTUAL: 0.7% VS 0.6% PREVIOUS;EST 0.6% SPAIN (AUG) CPI EU Harmonized YoY ACTUAL: 4.6% VS 4.5% PREVIOUS;EST 4.5%
@@ -715,3 +705,8 @@
 - 09/16 15:14 [FirstSquawk] German lawmaker Frei calls for energy relief measures from October
 - 09/16 15:16 [FirstSquawk] Senior German lawmaker Frei said lowering the tax on gasoline would be one possible option as the government considers measures to provide energy relief.
 - 09/16 15:22 [FirstSquawk] Fitch affirms Indonesia Investment Authority at ‘BBB’; outlook negative Fitch Ratings has affirmed the Indonesia Investment Authority’s rating at ‘BBB’, while maintaining a negative outlook. The rating action keeps the sovereign wealth fund…
+- 09/16 15:26 [FirstSquawk] Chevron, ExxonMobil, Citibank and Qualcomm are among U.S. companies expected to sign agreements with Vietnamese partners, according to a document.
+- 09/16 15:27 [FirstSquawk] U.S. and Vietnamese corporations are expected to announce 29 agreements next week in New York, according to a document.
+- 09/16 15:32 [FirstSquawk] Investors brace for ‘super-central-bank week’ as US rate increase seen as near certain Global investors are preparing for a busy week of central-bank decisions, with markets broadly expecting a U.S. rate increase, according to SCMP. Attenti…
+- 09/16 15:36 [FirstSquawk] China’s most-active Dalian soymeal futures rise 2.8% China’s most-active Dalian soymeal futures contract rose 2.8% in trading. The sharp gain highlights stronger movement in China’s agricultural commodities market, with soymeal prices attra…
+- 09/16 15:43 [FirstSquawk] Kepler Cheuvreux cuts AB Foods to Hold, lowers target price to 1,900p
