@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 00:59 JST／対象: 09/16 18:59 〜 09/17 00:59 JST（時刻はすべて日本時間）
+生成: 2026-09-17 01:18 JST／対象: 09/16 19:18 〜 09/17 01:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/16 19:06 | 09/17 00:58 | ⚠ 68分（22:37→23:46） |
-| FirstSquawk | 80 | 09/16 19:03 | 09/17 00:57 | 18分（00:24→00:43） |
-| financialjuice | 82 | 09/16 19:00 | 09/17 00:53 | ⚠ 50分（19:01→19:52） |
+| DeItaone | 20 | 09/16 19:25 | 09/17 01:09 | ⚠ 68分（22:37→23:46） |
+| FirstSquawk | 80 | 09/16 19:25 | 09/17 01:17 | 18分（00:24→00:43） |
+| financialjuice | 82 | 09/16 19:52 | 09/17 01:14 | 35分（00:12→00:47） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 179 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 180 行（統合前 182 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 19:00 [financialjuice] Meta partner Nextera to hire 1,000 from its workforce academy $META
-- 09/16 19:01 [financialjuice] Blackrock to build customizable 401k funds for firms - WSJ
-- 09/16 19:03 [FirstSquawk] META AND NEXTERA WILL RECRUIT 1,000 PEOPLE FROM THEIR WORKFORCE ACADEMY.
-- 09/16 19:06 [DeItaone] SK HYNIX INC: NO PLANS HAVE BEEN CONFIRMED REGARDING THE REPORTED TALKS BETWEEN SK HYNIX AND INTEL ON MEMORY CHIP PRODUCTION IN THE U.S.
-- 09/16 19:15 [FirstSquawk] SK HYNIX: NO PLANS CONFIRMED REGARDING REPORTED TALKS WITH INTEL ON MEMORY CHIP PRODUCTION IN US
-- 09/16 19:18 [FirstSquawk] EUROPEAN COMMISSION PRESIDENT URSULA VON DER LEYEN AIMS FOR CANADA TO BE THE EU'S FIRST 'ASSOCIATE MEMBER.'
 - 09/16 19:25 [FirstSquawk] MORGAN STANLEY ASSUMES AIRBNB COVERAGE WITH ‘EQUAL WEIGHT’ RATING; PRICE TARGET $170
 - 09/16 19:25 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:30 AM ET — 🇺🇸 Retail Sales 8:30 AM ET — 🇺🇸 Import & Export Prices 10:30 AM ET — 🛢️ EIA Oil Inventories 1:00 PM ET — 🇺🇸 Treasury Auction 2:00 PM ET — 🏦 FOMC RATE DECISION + DOT PLOT 2:30 PM ET — 🎙️ Fed…
 - 09/16 19:30 [FirstSquawk] SAUDI AIR DEFENSES DEFEATED A DRONE FROM YEMEN’S HOUTHIS BEFORE IT REACHED RESTRICTED AIRSPACE NEAR MECCA, ACCORDING TO THE SAUDI-LED COALITION.
@@ -203,3 +197,10 @@
 - 09/17 00:57 [FirstSquawk] SAUDIS ARE SEEKING TO RETURN ROUGHLY HALF THE CAPACITY OF THE EAST-WEST PIPELINE WITHIN DAYS, BYPASSING RECENTLY DAMAGED SECTION
 - 09/17 00:57 [FirstSquawk] LOOKING AT ABOUT SIX WEEKS CURRENTLY TO RETURN TO REGULAR LEVELS
 - 09/17 00:58 [DeItaone] Saudi Aramco is reportedly targeting a full return to capacity in around six weeks.
+- 09/17 01:01 [FirstSquawk] ITALIAN PM MELONI: ITALY EXTENDS TAX CUT ON DIESEL TO OCT 5
+- 09/17 01:06 [DeItaone] FED: WHAT WALL STREET EXPECTS FROM WARSH TODAY Major banks are focused on how Kevin Warsh frames the path ahead if the Fed hikes today: Barclays: Expects Warsh to stress solid growth, near-full employment and inflation still too high, broad…
+- 09/17 01:09 [DeItaone] OPENAI ROGUE AGENTS PROBED HUGGING FACE BEFORE MAJOR HACK Researchers say rogue OpenAI agents hijacked two Hugging Face accounts and probed its network for vulnerabilities in May, nearly two months before the major July cyber incident. No e…
+- 09/17 01:14 [financialjuice] SEC's Atkins: Will act to give investors certainty on crypto - Post on X
+- 09/17 01:14 [financialjuice] SEC's Atkins: We can act within sec authority with or without crypto law.
+- 09/17 01:15 [FirstSquawk] PENTAGON CTO OPPOSES U.S. GOVERNMENT OWNERSHIP IN TECH GIANTS AND RAISES CONCERNS ABOUT AI REGULATIONS.
+- 09/17 01:17 [FirstSquawk] SEC SHAIR ATKINS: WILL ACT TO GIVE INVESTORS CERTAINTY ON CRYPTO

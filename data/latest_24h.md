@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 00:59 JST／対象: 09/16 00:59 〜 09/17 00:59 JST（時刻はすべて日本時間）
+生成: 2026-09-17 01:18 JST／対象: 09/16 01:18 〜 09/17 01:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 09/16 01:01 | 09/17 00:58 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 356 | 09/16 01:25 | 09/17 00:57 | 45分（17:00→17:45） |
-| financialjuice | 241 | 09/16 01:01 | 09/17 00:53 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 33 | 09/16 01:19 | 09/17 01:09 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 359 | 09/16 01:25 | 09/17 01:17 | 45分（17:00→17:45） |
+| financialjuice | 242 | 09/16 01:22 | 09/17 01:14 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 619 行（統合前 634 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 622 行（統合前 637 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 01:01 [financialjuice] US Treasury Secretary Bessent: The need to address deficit is one factor affecting 10-year treasury bond yield
-- 09/16 01:01 [DeItaone] BESSENT: THE NEED TO ADDRESS DEFICIT IS ONE FACTOR AFFECTING 10-YEAR TREASURY BOND YIELD
-- 09/16 01:15 [DeItaone] U.S. CONFIRMS WEAPONS IN ORBIT The Pentagon has made its strongest acknowledgment yet that the U.S. possesses weapons in space, with Air Force Secretary Troy Meink confirming orbital systems capable of defending U.S. forces. Space Command c…
-- 09/16 01:15 [DeItaone] BESSENT: GAS PRICES ARE LOWER THAN THEY WERE UNDER BIDEN
 - 09/16 01:19 [DeItaone] FRANCE BACKS KNOT FOR ECB PRESIDENT France would support former Dutch central-bank chief Klaas Knot to succeed Christine Lagarde as ECB president, provided a French candidate receives the powerful chief economist role, Reuters reports. The …
 - 09/16 01:22 [financialjuice] Bank of France sees economy expanding 0.4% in 2026
 - 09/16 01:22 [financialjuice] Bank of France survey indicates 3Q GDP to rise 0.1%
@@ -643,3 +639,10 @@
 - 09/17 00:57 [FirstSquawk] SAUDIS ARE SEEKING TO RETURN ROUGHLY HALF THE CAPACITY OF THE EAST-WEST PIPELINE WITHIN DAYS, BYPASSING RECENTLY DAMAGED SECTION
 - 09/17 00:57 [FirstSquawk] LOOKING AT ABOUT SIX WEEKS CURRENTLY TO RETURN TO REGULAR LEVELS
 - 09/17 00:58 [DeItaone] Saudi Aramco is reportedly targeting a full return to capacity in around six weeks.
+- 09/17 01:01 [FirstSquawk] ITALIAN PM MELONI: ITALY EXTENDS TAX CUT ON DIESEL TO OCT 5
+- 09/17 01:06 [DeItaone] FED: WHAT WALL STREET EXPECTS FROM WARSH TODAY Major banks are focused on how Kevin Warsh frames the path ahead if the Fed hikes today: Barclays: Expects Warsh to stress solid growth, near-full employment and inflation still too high, broad…
+- 09/17 01:09 [DeItaone] OPENAI ROGUE AGENTS PROBED HUGGING FACE BEFORE MAJOR HACK Researchers say rogue OpenAI agents hijacked two Hugging Face accounts and probed its network for vulnerabilities in May, nearly two months before the major July cyber incident. No e…
+- 09/17 01:14 [financialjuice] SEC's Atkins: Will act to give investors certainty on crypto - Post on X
+- 09/17 01:14 [financialjuice] SEC's Atkins: We can act within sec authority with or without crypto law.
+- 09/17 01:15 [FirstSquawk] PENTAGON CTO OPPOSES U.S. GOVERNMENT OWNERSHIP IN TECH GIANTS AND RAISES CONCERNS ABOUT AI REGULATIONS.
+- 09/17 01:17 [FirstSquawk] SEC SHAIR ATKINS: WILL ACT TO GIVE INVESTORS CERTAINTY ON CRYPTO
