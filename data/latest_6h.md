@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 16:02 JST／対象: 09/16 10:02 〜 09/16 16:02 JST（時刻はすべて日本時間）
+生成: 2026-09-16 16:21 JST／対象: 09/16 10:21 〜 09/16 16:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 91 | 09/16 10:09 | 09/16 15:53 | 11分（14:51→15:02） |
-| financialjuice | 22 | 09/16 10:11 | 09/16 16:01 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 92 | 09/16 10:22 | 09/16 16:20 | 14分（15:53→16:07） |
+| financialjuice | 19 | 09/16 10:21 | 09/16 16:01 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 113 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 111 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 10:09 [FirstSquawk] Hong Kong’s upcoming policy address is set to unveil new initiatives focused on youth housing and mediation - SCMP The measures are expected to highlight government efforts around housing support for younger residents, alongside initiatives…
-- 09/16 10:11 [financialjuice] Meta: Threads rolls out parental controls for teens in APAC - blog
-- 09/16 10:12 [FirstSquawk] Meta’s Threads is introducing parental supervision features for teenagers across Asia-Pacific. The rollout gives parents additional tools to oversee how teens use the platform, expanding Meta’s focus on safety and supervision features for y…
-- 09/16 10:16 [FirstSquawk] The PBOC has set the yuan’s daily midpoint at 6.7628 per U.S. dollar.
-- 09/16 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023
-- 09/16 10:18 [FirstSquawk] China has set the yuan’s daily midpoint at its strongest level since February 3, 2023. The stronger fixing puts the yuan at a key level against the U.S. dollar as markets continue to monitor China’s currency policy and broader dollar moveme…
-- 09/16 10:20 [FirstSquawk] Japan is offering ¥2.5 trillion in Treasury discount bills, adding to the latest government debt issuance. The auction will be closely watched by investors for demand and pricing as markets assess Japan’s short-term funding conditions and b…
-- 09/16 10:21 [financialjuice] China injects 110 bln yuan via 7-day reverse repos at 1.40%: statement
 - 09/16 10:21 [financialjuice] China central bank injects 600 billion yuan via overnight reverse repos: statement
 - 09/16 10:22 [FirstSquawk] China’s central bank injected 600 billion yuan into the financial system through overnight reverse repos, according to a statement. The operation adds short-term liquidity to the banking system as markets monitor funding conditions and the …
 - 09/16 10:28 [FirstSquawk] The Singapore dollar has weakened to 1.2738 per U.S. dollar, its lowest level since September 2. The move puts renewed focus on currency markets as traders track the strength of the U.S. dollar and shifting expectations around global intere…
@@ -137,3 +129,9 @@
 - 09/16 15:53 [FirstSquawk] Gold bulls appear hesitant to push prices above the $4,350 level, with traders remaining cautious ahead of the Federal Reserve’s upcoming rate decision. The Fed decision and guidance on the rate path remain key near-term catalysts for gold,…
 - 09/16 15:53 [financialjuice] The EU are to call for a European Security Council in new defense plan
 - 09/16 16:01 [financialjuice] Currency Strength Chart: Strongest: GBP, EUR, CHF, GBP, AUD, USD, EUR, CAD - Weakest
+- 09/16 16:07 [FirstSquawk] RUSSIA WILL CONTINUE ITS DIESEL EXPORT BAN UNTIL OCTOBER, ACCORDING TO VEDOMOSTI.
+- 09/16 16:07 [FirstSquawk] NASDAQ 100 FUTURES RISE BY 0.5%, REACHING SESSION PEAK.
+- 09/16 16:13 [FirstSquawk] EU COMMISSION PRESIDENT URSULA VON DER LEYEN SAYS A MORE POWERFUL AND SELF-SUFFICIENT EUROPE IS FORMING - STATE OF THE UNION.
+- 09/16 16:16 [FirstSquawk] EU'S VON DER LEYEN SAYS EUROPE'S FUTURE SHOULD BE CONTROLLED BY EUROPEANS.
+- 09/16 16:20 [FirstSquawk] VON DER LEYEN STRESSES THE NEED TO REFORM THE SINGLE MARKET BY 2027.
+- 09/16 16:20 [FirstSquawk] EU URGES STRONGER PARTNERSHIP WITH CANADA TO BOOST TRADE AND ENHANCE SECURITY.

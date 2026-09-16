@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 16:02 JST／対象: 09/16 04:02 〜 09/16 16:02 JST（時刻はすべて日本時間）
+生成: 2026-09-16 16:21 JST／対象: 09/16 04:21 〜 09/16 16:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/16 04:40 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 192 | 09/16 04:05 | 09/16 15:53 | 37分（04:18→04:56） |
-| financialjuice | 102 | 09/16 04:05 | 09/16 16:01 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 193 | 09/16 04:56 | 09/16 16:20 | 22分（06:49→07:11） |
+| financialjuice | 97 | 09/16 04:22 | 09/16 16:01 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 296 行（統合前 300 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 292 行（統合前 296 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 04:05 [FirstSquawk] U.S. SENATE FAILS TO ADVANCE THE CLARITY ACT, WITH LAWMAKERS VOTING 50-49 AGAINST MOVING THE CRYPTO REGULATORY BILL FORWARD. THE VOTE DEALS A SETBACK TO EFFORTS TO ESTABLISH A U.S. REGULATORY FRAMEWORK FOR CRYPTOCURRENCIES.
-- 09/16 04:05 [financialjuice] US Senate votes 50-49 against advancing the Clarity act.
-- 09/16 04:08 [FirstSquawk] CRYPTO STOCKS EXTEND SELLOFF AS COINBASE AND CIRCLE SLIDE AROUND 10% AFTER U.S. SENATE FAILS TO ADVANCE KEY CRYPTO REGULATION BILL.
-- 09/16 04:13 [financialjuice] Saudi: Warning issued in the Jazan province.
-- 09/16 04:14 [financialjuice] Early warning issued in Khamis Mushait to alert of potential danger - Saudi Civil Defense.
-- 09/16 04:15 [FirstSquawk] SAUDI CIVIL DEFENSE ISSUES EARLY WARNINGS FOR POTENTIAL DANGER IN JAZAN, ABHA AND KHAMIS MUSHAIT.
-- 09/16 04:16 [FirstSquawk] UK ‘ACTIVELY’ EXPLORING JOINING CANADA-LED GLOBAL DEFENCE BANK - FT
-- 09/16 04:18 [FirstSquawk] JPMORGAN'S DOUG PETNO — KEY TAKEAWAYS • JPMORGAN CO-PRESIDENT DOUG PETNO: JAMIE DIMON IS NOT STEPPING BACK. • PETNO: NOTHING IS FLASHING RED IN THE US ECONOMY FOR CONSUMERS OR CORPORATES, WITH VERY LITTLE FLASHING YELLOW. • JPMORGAN SEES NO…
-- 09/16 04:19 [financialjuice] Danger has passed in Jazan - Saudi Civil Defense.
-- 09/16 04:20 [financialjuice] Danger has passed in Khamis Mushait - Saudi Civil Defense.
 - 09/16 04:22 [financialjuice] Wednesday FX Option Expiries
 - 09/16 04:40 [DeItaone] OPENAI CFO SARAH FRIAR EMPHASIZES ‘NEED TO TAKE SAFETY SERIOUSLY’ ON AI RISKS- CNBC
 - 09/16 04:42 [DeItaone] OPENAI CFO FRIAR SAYS WILL PACE THE FRONTIER AND SLOW DOWN IF WE HAVE TO - CNBC
@@ -320,3 +310,9 @@
 - 09/16 15:53 [FirstSquawk] Gold bulls appear hesitant to push prices above the $4,350 level, with traders remaining cautious ahead of the Federal Reserve’s upcoming rate decision. The Fed decision and guidance on the rate path remain key near-term catalysts for gold,…
 - 09/16 15:53 [financialjuice] The EU are to call for a European Security Council in new defense plan
 - 09/16 16:01 [financialjuice] Currency Strength Chart: Strongest: GBP, EUR, CHF, GBP, AUD, USD, EUR, CAD - Weakest
+- 09/16 16:07 [FirstSquawk] RUSSIA WILL CONTINUE ITS DIESEL EXPORT BAN UNTIL OCTOBER, ACCORDING TO VEDOMOSTI.
+- 09/16 16:07 [FirstSquawk] NASDAQ 100 FUTURES RISE BY 0.5%, REACHING SESSION PEAK.
+- 09/16 16:13 [FirstSquawk] EU COMMISSION PRESIDENT URSULA VON DER LEYEN SAYS A MORE POWERFUL AND SELF-SUFFICIENT EUROPE IS FORMING - STATE OF THE UNION.
+- 09/16 16:16 [FirstSquawk] EU'S VON DER LEYEN SAYS EUROPE'S FUTURE SHOULD BE CONTROLLED BY EUROPEANS.
+- 09/16 16:20 [FirstSquawk] VON DER LEYEN STRESSES THE NEED TO REFORM THE SINGLE MARKET BY 2027.
+- 09/16 16:20 [FirstSquawk] EU URGES STRONGER PARTNERSHIP WITH CANADA TO BOOST TRADE AND ENHANCE SECURITY.
