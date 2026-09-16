@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 10:45 JST／対象: 09/15 22:45 〜 09/16 10:45 JST（時刻はすべて日本時間）
+生成: 2026-09-16 10:59 JST／対象: 09/15 22:59 〜 09/16 10:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 41 | 09/15 22:45 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 222 | 09/15 22:47 | 09/16 10:43 | 41分（01:25→02:06） |
-| financialjuice | 173 | 09/15 22:47 | 09/16 10:21 | 38分（05:04→05:43） |
+| DeItaone | 37 | 09/15 23:06 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 220 | 09/15 23:07 | 09/16 10:53 | 41分（01:25→02:06） |
+| financialjuice | 172 | 09/15 23:00 | 09/16 10:21 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 421 行（統合前 438 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 415 行（統合前 431 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 22:45 [DeItaone] OIL JUMPS AS SAUDI CANCELS EUROPEAN CARGOES Oil prices surged after Saudi Arabia reportedly cancelled September crude cargoes to some European refiners following damage to its East-West pipeline. Additional supply pressure comes from Libyan…
-- 09/15 22:46 [DeItaone] *LIBYA NOC: OUTPUT HALTED AT HAMADA, AL-TAHARA FIELDS *LIBYA FIELDS SHUTDOWN DUE TO PIPELINE CLOSURE: NOC
-- 09/15 22:47 [FirstSquawk] LIBYA NOC: OUTPUT HALTED HAMADA, AL-TAHARA FIELDS; SHUTDOWN DUE TO PIPELINE CLOSURE
-- 09/15 22:47 [DeItaone] BESSENT, ASKED ABOUT RISING BOND YIELDS ON TUESDAY, SAID THIS IS DUE TO “GLOBAL ISSUES”
-- 09/15 22:47 [FirstSquawk/DeItaone] BRENT , US CRUDE FUTURES RISE AFTER LIBYA'S NOC SAYS IT MAY DECLARE FORCE MAJEURE AFTER PROTESTS SUSPEND PRODUCTION AT OIL FIELDS, BRENT LAST UP 1.7%, WTI UP 2.1%
-- 09/15 22:47 [financialjuice] US Treasury Secretary Bessent asked about rising bond yields on Tuesday: This is due to global issues.
-- 09/15 22:49 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT, ASKED ABOUT RISING BOND YIELDS ON TUESDAY, SAID THIS IS DUE TO “GLOBAL ISSUES”
 - 09/15 23:00 [financialjuice] ❗ META to roll out next-generation Astrid Chips at end of 2027. $META
 - 09/15 23:01 [financialjuice] META to deploy new in-house Arke chips in first half of 2027. $META $NVDA
 - 09/15 23:01 [financialjuice] ❗ META: Chips will save money and energy compared with Nvidia. $META $NVDA
@@ -445,3 +438,4 @@
 - 09/16 10:31 [FirstSquawk] Saudi Arabia and the Organisation of Islamic Cooperation have condemned what they described as a “heinous” Houthi attack targeting Mecca. A Houthi official, however, rejected Saudi Arabia’s account that its forces had shot down a drone head…
 - 09/16 10:38 [FirstSquawk] Multiple U.S. positions across the Middle East were affected by Iranian attacks, CBS reports. The reported strikes add to the latest escalation across the region, putting U.S. military positions and the broader security situation in focus.
 - 09/16 10:43 [FirstSquawk] Japan’s 40-year government bond yield climbed 1.0 basis point to 4.220%. The move keeps long-dated Japanese yields elevated as investors continue to assess the country’s interest-rate and bond-market outlook.
+- 09/16 10:53 [FirstSquawk] Japan’s Prime Minister Sanae Takaichi says she will reshuffle cabinet personnel on Thursday. The planned changes put Japan’s government lineup in focus as markets monitor the direction of economic and policy priorities under the Takaichi ad…
