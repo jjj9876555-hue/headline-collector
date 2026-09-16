@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 03:20 JST／対象: 09/16 03:20 〜 09/17 03:20 JST（時刻はすべて日本時間）
+生成: 2026-09-17 03:37 JST／対象: 09/16 03:37 〜 09/17 03:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 35 | 09/16 04:01 | 09/17 03:18 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 357 | 09/16 03:35 | 09/17 03:11 | 45分（17:00→17:45） |
-| financialjuice | 266 | 09/16 03:26 | 09/17 03:08 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 38 | 09/16 04:01 | 09/17 03:36 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 371 | 09/16 03:41 | 09/17 03:37 | 45分（17:00→17:45） |
+| financialjuice | 286 | 09/16 03:42 | 09/17 03:37 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 652 行（統合前 662 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 686 行（統合前 699 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 03:26 [financialjuice] Clarity Act Vote - WATCH LIVE
-- 09/16 03:28 [financialjuice] Senate Republican Leader Thune: We have to mitigate the risks of AI.
-- 09/16 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $105.83 a barrel, up $4.44, 4.38%.
-- 09/16 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.4652 a gallon.
-- 09/16 03:31 [financialjuice] NYMEX Diesel October futures settle at $5.2620 a gallon, the highest on record.
-- 09/16 03:33 [financialjuice] NYMEX Natural Gas October futures settle at $2.9190/MMBtu.
-- 09/16 03:33 [financialjuice] NVIDIA CEO Huang: We do not need new laws or regulations for AI safety - Salesforce Event. $NVDA
-- 09/16 03:35 [FirstSquawk] U.S. CRUDE OIL FUTURES SETTLE AT $105.83/BBL, UP $4.44, OR 4.38%
-- 09/16 03:35 [FirstSquawk] US DIESEL FUTURES SETTLE ABOVE $5.26/GALLON, HIGHEST ON RECORD
 - 09/16 03:41 [FirstSquawk] NVIDIA CEO: AI COMPANIES SHOULD MOVE CAUTIOUSLY AND ONLY RELEASE PRODUCTS ONCE CONFIDENT THE MARKET WILL EMBRACE THEM.
 - 09/16 03:42 [financialjuice] ❗ Clarity Act is on track to the fail procedural hurdle in the Senate.
 - 09/16 03:42 [financialjuice] ❗ The Clarity Act is on track to fail the procedural hurdle in the Senate.
@@ -676,3 +667,46 @@
 - 09/17 03:10 [FirstSquawk] GOLDMAN SACHS CEO SEES ASSET & WEALTH MANAGEMENT GROWTH OUTPACING HIGH-SINGLE-DIGIT TARGET
 - 09/17 03:11 [FirstSquawk] US STOCKS HOLD GAINS POST-FED HIKE; NASDAQ +0.6%, S&P 500 +0.2%, CHIP INDEX +1.9%
 - 09/17 03:18 [DeItaone] FED DOT PLOT DELIVERS HAWKISH HIGHER-FOR-LONGER SIGNAL The Fed’s new Dot Plot shows 12 of 18 officials expect another 25bp hike by year-end, taking rates to 4.125%, while four see rates reaching 4.375%. The hawkish signal extends well beyon…
+- 09/17 03:21 [financialjuice] Pimco's Clarida: I think we can get disinflation without a recession.
+- 09/17 03:21 [financialjuice] US diplomats met over the weekend with Houthi representatives at the US embassy in Oman and discussed tensions in the Red Sea -Axios.
+- 09/17 03:21 [FirstSquawk] US DIPLOMATS HOLD TALKS WITH HOUTHIS IN OMAN AS DIPLOMATIC PUSH TARGETS RED SEA TENSIONS - AXIOS
+- 09/17 03:22 [financialjuice] FOMC Press Conference with Chair Warsh - WATCH LIVE
+- 09/17 03:23 [financialjuice/FirstSquawk] Deutsche Bank Chief US Economist Luzzetti: The dot plot was a bit more hawkish than anticipated. The view that the Fed has started a mild tightening cycle.
+- 09/17 03:24 [FirstSquawk] BITCOIN FACES A “DOUBLE WHAMMY” AS THE SENATE FAILS TO ADVANCE THE CLARITY ACT AND THE FED RAISES INTEREST RATES, SENDING BITCOIN AND CRYPTO-RELATED STOCKS LOWER.
+- 09/17 03:24 [FirstSquawk] BITCOIN TRADES AROUND $76,000, WHILE HIGHER RATES, TIGHTER LIQUIDITY AND WEAKENING RETAIL DEMAND ADD PRESSURE TO THE CRYPTO MARKET.
+- 09/17 03:24 [financialjuice/FirstSquawk] Deutsche Bank Chief US Economist Luzzetti: The US has a very strong growth backrop, supply shocks.
+- 09/17 03:25 [FirstSquawk] US HOUSE FOREIGN AFFAIRS RANKING MEMBER MEEKS SAYS HE WILL BLOCK PROPOSED $2.8B ISRAEL BOMB SALE - SOURCES
+- 09/17 03:26 [financialjuice] Deutsche Bank Chief US Economist Luzzetti on the rate statement: I think the word 'timelier' is doing a lot of work. Rate Statement: "Action will support a timelier return to 2% inflation goal"
+- 09/17 03:27 [FirstSquawk] DEUTSCHE BANK ECONOMIST: FED’S “TIMELIER” RETURN TO 2% INFLATION TARGET SIGNALS HEIGHTENED POLICY FOCUS
+- 09/17 03:27 [financialjuice/FirstSquawk] Deutsche Bank Chief US Economist Luzzetti: We see the Fed's patience has run out, and that it is time to act.
+- 09/17 03:27 [DeItaone] FED RAISES INFLATION OUTLOOK AS LABOR MARKET STAYS STRONG The Fed’s latest projections show a more persistent inflation outlook, with 2026 core PCE raised to 3.4% from 3.3%, despite methodology changes expected to mechanically lower the mea…
+- 09/17 03:28 [financialjuice] Goldman Sachs CEO Solomon: FICC has been a little softer on a relative basis, but the equities business continues to be very strong. $GS
+- 09/17 03:30 [FirstSquawk] FED’S WARSH BEGINS PRESS CONFERENCE — MARKETS AWAIT RATE PATH & POLICY SIGNALS
+- 09/17 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.4850 a gallon.
+- 09/17 03:32 [financialjuice] Fed's Warsh: Inflation remains elevated.
+- 09/17 03:32 [financialjuice] NYMEX Diesel October futures settle at $5.2465 a gallon.
+- 09/17 03:32 [FirstSquawk] US CRUDE SETTLES 3.2% LOWER AT $102.43/BBL, DOWN $3.40
+- 09/17 03:32 [financialjuice] Fed's Warsh: This decision comes when the economy appears to be strengthening.
+- 09/17 03:32 [financialjuice] Fed's Warsh: Key markers have improved in the recent months.
+- 09/17 03:32 [financialjuice] Fed's Chair Warsh: Credit flows have been robust.
+- 09/17 03:33 [financialjuice] ❗ Fed's Chair Warsh: I am hard-pressed to call financial conditions restrictive. The view that conditions are not restrictive was widely shared by the FOMC.
+- 09/17 03:33 [FirstSquawk] FED’S WARSH SAYS THE FOMC RAISED RATES BY 25 BASIS POINTS, AS INFLATION REMAINS ELEVATED AND THE ECONOMY APPEARS TO BE STRENGTHENING.
+- 09/17 03:33 [financialjuice] Fed's Warsh: The economy is resilient.
+- 09/17 03:33 [FirstSquawk] FED'S WARSH SAYS KEY ECONOMIC MARKERS HAVE IMPROVED, WITH THE VIEW THAT MONETARY CONDITIONS ARE NOT RESTRICTIVE WIDELY SHARED BY THE FOMC, ADDING THAT THE ECONOMY IS RESILIENT.
+- 09/17 03:33 [financialjuice] Fed's Warsh: The jobless rate remains low, openings and hours are increasing.
+- 09/17 03:34 [financialjuice] ❗ Fed's Chair Warsh: The FOMC removed a dose of accomodation.
+- 09/17 03:34 [financialjuice] Fed's Chair Warsh: The labor side of the Fed's remit is in good shape.
+- 09/17 03:34 [financialjuice] Fed's Chair Warsh: The predominant focus of the Fed is on price stability.
+- 09/17 03:34 [financialjuice] Fed's Chair Warsh: Inflation is too high, and has been for too long.
+- 09/17 03:34 [DeItaone] *WARSH: INFLATION IS TOO HIGH AND HAS BEEN FOR TOO LONG
+- 09/17 03:35 [financialjuice] ❗ Fed's Chair Warsh: The summer data does not tell me that the inflation situation has improved.
+- 09/17 03:35 [FirstSquawk] FED’S WARSH SAYS THE JOBLESS RATE REMAINS LOW, JOB OPENINGS AND WORKING HOURS ARE RISING, AND THE LABOR MARKET SIDE OF THE FED’S MANDATE IS IN GOOD SHAPE.
+- 09/17 03:35 [FirstSquawk] FED'S WARSH SAYS INFLATION IS TOO HIGH AND HAS BEEN FOR TOO LONG, WITH SUMMER DATA SHOWING LITTLE IMPROVEMENT AND TOO MANY CATEGORIES RISING ABOVE 3%.
+- 09/17 03:35 [financialjuice] ❗ Fed's Chair Warsh: There are too many categories that are posting increases above 3% on both 6 and 12 month basis.
+- 09/17 03:35 [financialjuice] Fed's Chair Warsh: In July, we expressed a joint readiness to act.
+- 09/17 03:36 [DeItaone] *WARSH: TOO MANY INF. CATEGORIES ARE STILL RISING MORE THAN 3% *WARSH: PREDOMINANT FOCUS OF FED IS ON PRICE STABILITY
+- 09/17 03:36 [financialjuice] ❗ Fed's Chair Warsh: We must be confident that underlying inflation must be moving to 2% on a timely basis, and the FOMC decided this has not been met.
+- 09/17 03:36 [financialjuice] Fed's Chair Warsh: I did not submit a dot.
+- 09/17 03:37 [FirstSquawk] US 2-YEAR YIELD SURGES TO 4.712%, HIGHEST SINCE JULY 2024
+- 09/17 03:37 [FirstSquawk] S&P 500 TURNS NEGATIVE, NASDAQ CUTS GAINS TO 0.3% AS US STOCKS LOSE MOMENTUM
+- 09/17 03:37 [financialjuice] Fed's Chair Warsh: Inflation risks are to the upside, labor risks are balanced.
