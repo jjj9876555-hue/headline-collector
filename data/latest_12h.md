@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 00:44 JST／対象: 09/16 12:44 〜 09/17 00:44 JST（時刻はすべて日本時間）
+生成: 2026-09-17 00:59 JST／対象: 09/16 12:59 〜 09/17 00:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/16 19:06 | 09/17 00:43 | ⚠ 68分（22:37→23:46） |
-| FirstSquawk | 180 | 09/16 12:49 | 09/17 00:43 | 45分（17:00→17:45） |
-| financialjuice | 120 | 09/16 14:36 | 09/17 00:12 | ⚠ 50分（19:01→19:52） |
+| DeItaone | 19 | 09/16 19:06 | 09/17 00:58 | ⚠ 68分（22:37→23:46） |
+| FirstSquawk | 180 | 09/16 13:00 | 09/17 00:57 | 45分（17:00→17:45） |
+| financialjuice | 123 | 09/16 14:36 | 09/17 00:53 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 313 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 320 行（統合前 323 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 12:49 [FirstSquawk] Families of Chinese people subjected to wartime forced labor have filed lawsuits against six Japanese companies, Kyodo News reports. The legal action brings longstanding wartime labor issues back into focus and involves claims by relatives …
-- 09/16 12:51 [FirstSquawk] China is tightening border controls with national security increasingly linked to entry and exit rules, as its technology rivalry with the U.S. intensifies. The policy shift brings cross-border movement further into the national-security fr…
-- 09/16 12:55 [FirstSquawk] The average U.S. diesel price has surged to a record $6.30 per gallon, while gasoline has climbed to $4.36. Kalshi expects the average diesel price to reach $7.20 per gallon this year, underscoring the growing pressure on transportation and…
 - 09/16 13:00 [FirstSquawk] Hong Kong leader to accelerate public housing expansion Hong Kong’s leader plans to push forward the development of public housing units as part of efforts to address the city’s housing situation.
 - 09/16 13:00 [FirstSquawk] Hong Kong to deliver 196,000 public housing units within five years Hong Kong’s leader says 196,000 public housing units are expected to be ready over the next five years, as the government steps up efforts to expand housing supply.
 - 09/16 13:01 [FirstSquawk] Vodafone faces up to €1.1 billion hit from Drahi’s German deal: FT Vodafone is set to take a financial hit of as much as €1.1 billion linked to a deal involving French telecom billionaire Patrick Drahi in Germany, according to the Financial…
@@ -337,3 +334,13 @@
 - 09/17 00:38 [DeItaone] JPMORGAN MAPS FED DAY: STOCKS COULD SWING 2% JPMorgan says Fed communication could determine whether stocks rally or sell off after today’s widely expected 25bp hike. A standard hike with limited guidance could lift the S&P 500 0.25%–0.75%,…
 - 09/17 00:43 [FirstSquawk] ANDY BURNHAM HAS BEEN FORCED TO SCALE BACK HOPES FOR A MAJOR EU RESET AFTER BRUSSELS SIGNALED GREATER INTEREST IN CLOSER TIES WITH CANADA.
 - 09/17 00:43 [DeItaone] STOCKS RISE AS YIELDS RETREAT AHEAD OF FED Global stocks moved higher ahead of today’s Fed rate decision, with markets pricing more than a 90% chance of a 25bp hike. The S&P 500 gained 0.26% and Nasdaq 0.60%, while the 10-year Treasury yiel…
+- 09/17 00:45 [FirstSquawk] IRAN PRESIDENT MEETS IRAQI KURDISH LEADER TALABANI: TASNIM
+- 09/17 00:47 [financialjuice] ‼ BREAKING: Saudis seek to resume half of key oil pipeline within days
+- 09/17 00:49 [DeItaone] *SAUDIS SEEK TO RESUME HALF OF KEY OIL PIPELINE WITHIN DAYS
+- 09/17 00:51 [DeItaone] OPENAI CHALLENGES SECRET APPLE-MUSK AGREEMENT A federal judge ordered X and SpaceXAI to disclose their agreement with Apple after OpenAI sought access to the terms in Musk’s antitrust case. X recently resolved its claims against Apple but i…
+- 09/17 00:53 [financialjuice] German Economy Minister Reiche: It would be sensible to temporarily reduce VAT on fuel from 19% to 7%.
+- 09/17 00:53 [financialjuice] German Economy Minister Reiche: Cap on fuel prices is the wrong approach
+- 09/17 00:56 [DeItaone] SAUDI PIPELINE COULD RESTORE HALF ITS CAPACITY WITHIN DAYS Saudi Arabia is working to restore roughly half the capacity of its East-West oil pipeline within days by bypassing a section damaged in last week’s drone attacks. Saudi Aramco is r…
+- 09/17 00:57 [FirstSquawk] SAUDIS ARE SEEKING TO RETURN ROUGHLY HALF THE CAPACITY OF THE EAST-WEST PIPELINE WITHIN DAYS, BYPASSING RECENTLY DAMAGED SECTION
+- 09/17 00:57 [FirstSquawk] LOOKING AT ABOUT SIX WEEKS CURRENTLY TO RETURN TO REGULAR LEVELS
+- 09/17 00:58 [DeItaone] Saudi Aramco is reportedly targeting a full return to capacity in around six weeks.

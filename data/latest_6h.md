@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 00:44 JST／対象: 09/16 18:44 〜 09/17 00:44 JST（時刻はすべて日本時間）
+生成: 2026-09-17 00:59 JST／対象: 09/16 18:59 〜 09/17 00:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/16 19:06 | 09/17 00:43 | ⚠ 68分（22:37→23:46） |
-| FirstSquawk | 77 | 09/16 19:03 | 09/17 00:43 | 18分（00:24→00:43） |
-| financialjuice | 79 | 09/16 19:00 | 09/17 00:12 | ⚠ 50分（19:01→19:52） |
+| DeItaone | 19 | 09/16 19:06 | 09/17 00:58 | ⚠ 68分（22:37→23:46） |
+| FirstSquawk | 80 | 09/16 19:03 | 09/17 00:57 | 18分（00:24→00:43） |
+| financialjuice | 82 | 09/16 19:00 | 09/17 00:53 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 169 行（統合前 171 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 179 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -193,3 +193,13 @@
 - 09/17 00:38 [DeItaone] JPMORGAN MAPS FED DAY: STOCKS COULD SWING 2% JPMorgan says Fed communication could determine whether stocks rally or sell off after today’s widely expected 25bp hike. A standard hike with limited guidance could lift the S&P 500 0.25%–0.75%,…
 - 09/17 00:43 [FirstSquawk] ANDY BURNHAM HAS BEEN FORCED TO SCALE BACK HOPES FOR A MAJOR EU RESET AFTER BRUSSELS SIGNALED GREATER INTEREST IN CLOSER TIES WITH CANADA.
 - 09/17 00:43 [DeItaone] STOCKS RISE AS YIELDS RETREAT AHEAD OF FED Global stocks moved higher ahead of today’s Fed rate decision, with markets pricing more than a 90% chance of a 25bp hike. The S&P 500 gained 0.26% and Nasdaq 0.60%, while the 10-year Treasury yiel…
+- 09/17 00:45 [FirstSquawk] IRAN PRESIDENT MEETS IRAQI KURDISH LEADER TALABANI: TASNIM
+- 09/17 00:47 [financialjuice] ‼ BREAKING: Saudis seek to resume half of key oil pipeline within days
+- 09/17 00:49 [DeItaone] *SAUDIS SEEK TO RESUME HALF OF KEY OIL PIPELINE WITHIN DAYS
+- 09/17 00:51 [DeItaone] OPENAI CHALLENGES SECRET APPLE-MUSK AGREEMENT A federal judge ordered X and SpaceXAI to disclose their agreement with Apple after OpenAI sought access to the terms in Musk’s antitrust case. X recently resolved its claims against Apple but i…
+- 09/17 00:53 [financialjuice] German Economy Minister Reiche: It would be sensible to temporarily reduce VAT on fuel from 19% to 7%.
+- 09/17 00:53 [financialjuice] German Economy Minister Reiche: Cap on fuel prices is the wrong approach
+- 09/17 00:56 [DeItaone] SAUDI PIPELINE COULD RESTORE HALF ITS CAPACITY WITHIN DAYS Saudi Arabia is working to restore roughly half the capacity of its East-West oil pipeline within days by bypassing a section damaged in last week’s drone attacks. Saudi Aramco is r…
+- 09/17 00:57 [FirstSquawk] SAUDIS ARE SEEKING TO RETURN ROUGHLY HALF THE CAPACITY OF THE EAST-WEST PIPELINE WITHIN DAYS, BYPASSING RECENTLY DAMAGED SECTION
+- 09/17 00:57 [FirstSquawk] LOOKING AT ABOUT SIX WEEKS CURRENTLY TO RETURN TO REGULAR LEVELS
+- 09/17 00:58 [DeItaone] Saudi Aramco is reportedly targeting a full return to capacity in around six weeks.
