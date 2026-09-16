@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 09:48 JST／対象: 09/15 09:48 〜 09/16 09:48 JST（時刻はすべて日本時間）
+生成: 2026-09-16 10:00 JST／対象: 09/15 10:00 〜 09/16 10:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 421 | 09/15 09:51 | 09/16 09:48 | 41分（01:25→02:06） |
-| financialjuice | 265 | 09/15 10:00 | 09/16 09:47 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 426 | 09/15 10:00 | 09/16 09:55 | 41分（01:25→02:06） |
+| financialjuice | 272 | 09/15 10:00 | 09/16 09:55 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 728 行（統合前 745 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 740 行（統合前 757 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 09:51 [FirstSquawk] Berlin's new playbook on UniCredit: Instead of blocking the Commerzbank takeover outright, Germany is shifting to hardline conditions.
-- 09/15 09:57 [FirstSquawk] China’s updated Exit-Entry Regulations are now in effect, targeting visa fraud and intermediary agencies. Travelers face 1–5 year bans for false declarations, while corporate sponsors assume full legal accountability for itineraries.
 - 09/15 10:00 [FirstSquawk] Beijing turns its focus to offshore brokerages as it moves to curb pay loopholes and corruption.
 - 09/15 10:00 [FirstSquawk] New crypto tax bill emerges in the US House, putting digital-asset taxation back in focus.
 - 09/15 10:00 [financialjuice] Taiwan overnight interbank rate opens at 0.805% versus prior session opening of 0.805%
@@ -752,3 +750,17 @@
 - 09/16 09:47 [FirstSquawk] China’s defence minister says provocative acts must not be allowed, calling for greater restraint as countries navigate an increasingly complex security environment.
 - 09/16 09:48 [FirstSquawk] China’s defence minister says security risks should be identified and defused early, warning that small areas of friction should not be allowed to escalate into major disputes.
 - 09/16 09:48 [FirstSquawk] China’s defence minister says military force cannot address the root causes of problems, arguing that coercion would only deepen divisions.
+- 09/16 09:48 [financialjuice] China defence minister: Beijing remains stabilizing force in ending hostilities
+- 09/16 09:49 [FirstSquawk] China’s defence minister says China remains a stabilising force in efforts to end hostilities, highlighting Beijing’s stated role in promoting security and reducing tensions. China positions itself as a stabilising force
+- 09/16 09:49 [financialjuice] China defence minister: international community must respect sovereignty and wishes of involved parties
+- 09/16 09:49 [FirstSquawk] China’s defence minister says the international community should respect the sovereignty and will of the parties concerned, stressing the importance of allowing those directly involved to determine their own course.
+- 09/16 09:50 [financialjuice] China defence minister: Chinese military ready to cooperate with all sides to maintain regional stability
+- 09/16 09:50 [FirstSquawk] China’s defence minister says the Chinese military is ready to work with all parties to safeguard regional stability, signaling Beijing’s stated focus on cooperation in addressing security challenges. Cooperation for regional stability
+- 09/16 09:50 [financialjuice] China defense minister: greater collaboration means enhanced security
+- 09/16 09:52 [FirstSquawk] China’s defence minister says greater cooperation will make countries safer, emphasizing collaboration as a way to address shared security challenges.
+- 09/16 09:53 [FirstSquawk] China’s defence minister says the Chinese military will share its experience and provide appropriate assistance to other militaries in need.
+- 09/16 09:53 [financialjuice] China defence minister: Chinese military to share experience and offer support to other armed forces in need
+- 09/16 09:54 [FirstSquawk] China plans to expand international defence cooperation across joint military exercises, personnel training, equipment and technology, according to its defence minister.
+- 09/16 09:54 [financialjuice] China defence minister: we will broaden global cooperation on joint drills, personnel training, gear and technology
+- 09/16 09:55 [FirstSquawk] China’s defence minister called for joint action to address risks linked to the abusive military use of emerging technologies. The remarks highlight growing attention on how new technologies could be used in military applications and the ri…
+- 09/16 09:55 [financialjuice] China defence minister: all parties must cooperate to address risks of misuse of emerging military technology
