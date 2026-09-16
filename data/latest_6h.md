@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 21:05 JST／対象: 09/16 15:05 〜 09/16 21:05 JST（時刻はすべて日本時間）
+生成: 2026-09-16 21:32 JST／対象: 09/16 15:32 〜 09/16 21:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/16 19:06 | 09/16 20:44 | 35分（20:00→20:35） |
-| FirstSquawk | 75 | 09/16 15:12 | 09/16 21:04 | 45分（17:00→17:45） |
-| financialjuice | 45 | 09/16 15:13 | 09/16 21:03 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 79 | 09/16 15:36 | 09/16 21:31 | 45分（17:00→17:45） |
+| financialjuice | 61 | 09/16 15:53 | 09/16 21:32 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 125 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 145 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 15:12 [FirstSquawk] 30-year JGB yield falls 4.5 bps to 4.105% The yield on Japan’s 30-year government bond fell 4.5 basis points to 4.105%. The move comes as investors adjust positions in long-dated Japanese government bonds, with yields remaining elevated ami…
-- 09/16 15:13 [financialjuice] Senior German lawmaker Thorsten Frei: Energy price relief must come quickly - RTL TV
-- 09/16 15:14 [FirstSquawk] German lawmaker Frei calls for energy relief measures from October
-- 09/16 15:16 [FirstSquawk] Senior German lawmaker Frei said lowering the tax on gasoline would be one possible option as the government considers measures to provide energy relief.
-- 09/16 15:22 [FirstSquawk] Fitch affirms Indonesia Investment Authority at ‘BBB’; outlook negative Fitch Ratings has affirmed the Indonesia Investment Authority’s rating at ‘BBB’, while maintaining a negative outlook. The rating action keeps the sovereign wealth fund…
-- 09/16 15:26 [FirstSquawk] Chevron, ExxonMobil, Citibank and Qualcomm are among U.S. companies expected to sign agreements with Vietnamese partners, according to a document.
-- 09/16 15:27 [FirstSquawk] U.S. and Vietnamese corporations are expected to announce 29 agreements next week in New York, according to a document.
-- 09/16 15:32 [FirstSquawk] Investors brace for ‘super-central-bank week’ as US rate increase seen as near certain Global investors are preparing for a busy week of central-bank decisions, with markets broadly expecting a U.S. rate increase, according to SCMP. Attenti…
 - 09/16 15:36 [FirstSquawk] China’s most-active Dalian soymeal futures rise 2.8% China’s most-active Dalian soymeal futures contract rose 2.8% in trading. The sharp gain highlights stronger movement in China’s agricultural commodities market, with soymeal prices attra…
 - 09/16 15:43 [FirstSquawk] Kepler Cheuvreux cuts AB Foods to Hold, lowers target price to 1,900p
 - 09/16 15:53 [FirstSquawk] Gold bulls appear hesitant to push prices above the $4,350 level, with traders remaining cautious ahead of the Federal Reserve’s upcoming rate decision. The Fed decision and guidance on the rate path remain key near-term catalysts for gold,…
@@ -149,3 +141,31 @@
 - 09/16 21:03 [FirstSquawk] JAPAN'S DEFENSE MINISTRY INTENDS TO PURCHASE 52,000 DRONES.
 - 09/16 21:03 [FirstSquawk] NOVO AND ANTHROPIC PARTNER TO DEVELOP MEDICATION USING CLAUDE AI TECHNOLOGY.
 - 09/16 21:04 [FirstSquawk] COREWEAVE LAUNCHES MULTI-RACK NVIDIA VERA RUBIN NVL72 CLUSTER.
+- 09/16 21:06 [FirstSquawk] SAUDIS SAY HAVE LEGITIMATE RIGHT TO DEFEND HOLY CITIES
+- 09/16 21:07 [FirstSquawk] SAUDIS CALL ON INTL COMMUNITY FOR FIRM STANCE AGAINST HOUTHIS
+- 09/16 21:07 [financialjuice] Traders no longer fully price in four quarter-point BoE rate hikes
+- 09/16 21:07 [financialjuice] Morning Juice – US Session Prep (16th September)
+- 09/16 21:07 [FirstSquawk] TRADERS NO LONGER FULLY PRICE FOUR QUARTER-POINT BANK OF ENGLAND RATE HIKES
+- 09/16 21:15 [financialjuice] CANADIAN HOUSE STARTS, ANNUALIZED ACTUAL 229.0K (FORECAST 240K, PREVIOUS 229.1K ,REVISION 229.4K) $MACRO
+- 09/16 21:16 [financialjuice] Canadian Housing Starts August Report
+- 09/16 21:24 [FirstSquawk] US WRIGHT: 18M BBL OF OIL WENT THROUGH HORMUZ YESTERDAY
+- 09/16 21:25 [financialjuice] US Energy Secretary Wright: We are looking at using DPA to increase refining capacity.
+- 09/16 21:26 [financialjuice] US Energy Secretary Wright: US oil company to talk Venezuela investment today.
+- 09/16 21:26 [FirstSquawk] WRIGHT SAYS US OIL COMPANY TO TALK VENEZUELA INVESTMENT TODAY
+- 09/16 21:26 [FirstSquawk] WRIGHT: LOOKING AT USING DPA TO INCREASE REFINING CAPACITY
+- 09/16 21:26 [FirstSquawk] WRIGHT REFERS TO DEFENSE PRODUCTION ACT
+- 09/16 21:27 [financialjuice] US Energy Secretary Wright: East-West pipeline damage assessments are ongoing
+- 09/16 21:27 [FirstSquawk] WRIGHT: EAST-WEST PIPELINE DAMAGE ASSESSMENTS ARE ONGOING || WRIGHT REITERATES SAUDI PIPELINE WILL BE RUNNING SOON
+- 09/16 21:28 [financialjuice] US Energy Secretary Wright on East-West pipeline: 3 pumping stations were hit.
+- 09/16 21:28 [financialjuice] US Energy Secretary Wright: The US will help escort refined product, not just crude
+- 09/16 21:29 [financialjuice] US Energy Secretary Wright: Daily bbl figures I give are refined plus crude
+- 09/16 21:30 [financialjuice] US Energy Secretary Wright, on Hormuz flow: 7-day average is 11m bbl/day
+- 09/16 21:30 [FirstSquawk] US RETAIL SALES (MOM) (AUG) ACTUAL: 1.2% VS -0.6% PREVIOUS; EST 0.8%
+- 09/16 21:30 [financialjuice] ‼ BREAKING: US RETAIL SALES MOM ACTUAL 1.2% (FORECAST 0.8%, PREVIOUS -0.6%) $MACRO
+- 09/16 21:30 [FirstSquawk] US CORE RETAIL SALES (MOM) (AUG) ACTUAL: 1.4% VS -0.3% PREVIOUS; EST 0.6%
+- 09/16 21:30 [financialjuice] US CORE RETAIL SALES MOM ACTUAL 1.4% (FORECAST 0.6%, PREVIOUS -0.3%) $MACRO
+- 09/16 21:30 [financialjuice] US EXPORT PRICES MOM ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS -1.3%) $MACRO
+- 09/16 21:30 [financialjuice] US IMPORT PRICES MOM ACTUAL 0.7% (FORECAST 0.5%, PREVIOUS -0.4%) $MACRO
+- 09/16 21:30 [financialjuice] CANADIAN BUILDING PERMITS MOM ACTUAL -17.3% (FORECAST -4.8%, PREVIOUS 18.5% ,REVISION 18.3%) $MACRO
+- 09/16 21:31 [FirstSquawk] US ENERGY SEC. WRIGHT ON HORMUZ FLOW’S 7-DAY AVERAGE IS 11M BBL/DAY
+- 09/16 21:32 [financialjuice] US Retail Sales August Report

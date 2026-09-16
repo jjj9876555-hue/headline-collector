@@ -7,56 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 21:05 JST／対象: 09/15 21:05 〜 09/16 21:05 JST（時刻はすべて日本時間）
+生成: 2026-09-16 21:32 JST／対象: 09/15 21:32 〜 09/16 21:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 09/15 21:28 | 09/16 20:44 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 411 | 09/15 21:11 | 09/16 21:04 | 45分（17:00→17:45） |
-| financialjuice | 268 | 09/15 21:06 | 09/16 21:03 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 52 | 09/15 21:54 | 09/16 20:44 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 403 | 09/15 21:36 | 09/16 21:31 | 45分（17:00→17:45） |
+| financialjuice | 272 | 09/15 21:45 | 09/16 21:32 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 716 行（統合前 735 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 711 行（統合前 730 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 21:06 [financialjuice] Morning Juice – US Session Prep (15th September)
-- 09/15 21:08 [financialjuice] WH Sr. Adviser Hassett praises private sector safeguards after Mythos worries.
-- 09/15 21:11 [FirstSquawk] NEC'S HASSETT COMMENDS PRIVATE SECTOR MEASURES, WHILE TRUMP BELIEVES THE US ALREADY HAS TOOLS REGARDING AI.
-- 09/15 21:12 [financialjuice] WH Sr. Adviser Hassett: It is not an antitrust issue for AI firms to warn each other.
-- 09/15 21:14 [financialjuice] WH Sr. Adviser Hassett: Trump and I respect whatever warsh does tomorrow.
-- 09/15 21:14 [FirstSquawk] HASSETT STATES AI COMPANIES WARNING EACH OTHER IS NOT AN ANTITRUST CONCERN.
-- 09/15 21:14 [FirstSquawk] HASSETT STATED THAT TRUMP AND HE WILL RESPECT WHAT WARSH DECIDES TO DO TOMORROW.
-- 09/15 21:14 [FirstSquawk] HASSETT ADDRESSES QUERIES ON INTEREST RATES AND FEDERAL RESERVE POLICIES.
-- 09/15 21:15 [FirstSquawk] ADP: US PRIVATE JOBS ROSE AVG 16,250/WK IN 4 WKS TO AUG. 29
-- 09/15 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 16.25 (FORECAST -, PREVIOUS 12,000.0) $MACRO
-- 09/15 21:15 [FirstSquawk] US ADP: US PRIVATE JOBS ROSE AVG 16,250/WK IN 4 WKS TO AUG. 29
-- 09/15 21:15 [FirstSquawk] US ADP WEEKLY EMPLOYMENT CHANGE W/O AUG 29: 16.250K (PREV 12.0K)
-- 09/15 21:19 [financialjuice] Wells Fargo’s Santomassimo: Not seeing changes in delinquency trends
-- 09/15 21:19 [financialjuice] Wells Fargo's Santomassimo: Activity level in US economy staying strong.
-- 09/15 21:22 [financialjuice] Salesforce and Google Cloud expand enterprise AI pact $GOOGL
-- 09/15 21:23 [FirstSquawk] SALESFORCE, GOOGLE CLOUD EXPAND ENTERPRISE AI PACT
-- 09/15 21:23 [FirstSquawk] SALESFORCE, AWS ANNOUNCE EXPANDED PACT
-- 09/15 21:23 [FirstSquawk] SALESFORCE: 'KOA' IS CRM REASONING MODEL FOR AGENTFORCE
-- 09/15 21:23 [FirstSquawk] SALESFORCE & NVIDIA INTRODUCED 'KOA'
-- 09/15 21:24 [FirstSquawk] KENYA COURT RULES 15% SAFARICOM STAKE SHOULD RETURN TO TREASURY
-- 09/15 21:26 [FirstSquawk] SALESFORCE AND GOOGLE CLOUD EXPAND THEIR PARTNERSHIP IN ENTERPRISE AI.
-- 09/15 21:26 [FirstSquawk] SALESFORCE AND AWS HAVE ANNOUNCED A LARGER PARTNERSHIP.
-- 09/15 21:26 [FirstSquawk] SALESFORCE AND NVIDIA LAUNCHED 'KOA.'
-- 09/15 21:26 [FirstSquawk] SALESFORCE INTRODUCES 'KOA' AS A CRM REASONING MODEL FOR AGENTFORCE.
-- 09/15 21:27 [FirstSquawk] WELLS FARGO CFO SANTOMASSIMO SAYS US ECONOMIC ACTIVITY REMAINS STRONG AT BARCLAYS CONFERENCE.
-- 09/15 21:27 [FirstSquawk] ITALIAN DEFENCE MINISTER STATES THAT THE DRONE SHOT DOWN BY AN ITALIAN NATO FIGHTER IN LITHUANIA LIKELY ORIGINATED FROM RUSSIA.
-- 09/15 21:28 [DeItaone] TRUMP WILL RESPECT FED DECISION NEC Director Kevin Hassett says President Trump will respect whatever decision the Federal Reserve makes on Wednesday. Markets widely expect the Fed to raise interest rates, with another hike potentially comi…
-- 09/15 21:28 [financialjuice] UAE's Adnoc buys millions of barrels of discounted Iraqi crude in tenders for August through September - Iraqi Energy Sources
-- 09/15 21:28 [financialjuice] ADNOC has agreed to buy 72 million of barrels of discounted Iraqi crude in tenders for August through September - Iraq Energy Source
-- 09/15 21:28 [FirstSquawk] ITALIAN DEFENCE MINISTER: DRONE THAT WAS SHOT DOWN BY ITALIAN NATO FIGHTER IN LITHUANIA MOST PROBABLY CAME FROM RUSSIA
-- 09/15 21:30 [financialjuice] NY FED MANUFACTURING ACTUAL 7.6 (FORECAST 15, PREVIOUS 20.60) $MACRO
-- 09/15 21:31 [financialjuice] CANADIAN WHOLESALE SALES MOM ACTUAL 0.3% (FORECAST -0.5%, PREVIOUS 2.8%) $MACRO
-- 09/15 21:32 [financialjuice] New York Fed Manufacturing September Report
 - 09/15 21:36 [FirstSquawk] WELLS FARGO'S SANTOMASSIMO SAYS NET INTEREST MARGIN COULD BE BETTER THAN GUIDANCE IN Q3 || SAYS NO CHANGE TO FY26 NET INTEREST INCOME FORECAST
 - 09/15 21:36 [FirstSquawk] WELLS FARGO'S SANTOMASSIMO SAYS NOT SEEING CHANGES IN DELINQUENCY TRENDS || SAYS MIDDLE MARKET CUSTOMERS CONTINUE TO REMAIN CAUTIOUS || SAYS EXPECT THIS YEAR AND EARLY NEXT YEAR TO BE HEALTHY || ON LOAN GROWTH SAYS WILL LIKELY BE BETTER THA…
 - 09/15 21:36 [FirstSquawk] WELLS FARGO CFO MIKE SANTOMASSIMO SAYS ACTIVITY LEVEL IN U.S. ECONOMY STAYING STRONG || MIKE SANTOMASSIMO SPEAKS AT THE BARCLAYS GLOBAL FINANCIAL SERVICES CONFERENCE
@@ -740,3 +707,31 @@
 - 09/16 21:03 [FirstSquawk] JAPAN'S DEFENSE MINISTRY INTENDS TO PURCHASE 52,000 DRONES.
 - 09/16 21:03 [FirstSquawk] NOVO AND ANTHROPIC PARTNER TO DEVELOP MEDICATION USING CLAUDE AI TECHNOLOGY.
 - 09/16 21:04 [FirstSquawk] COREWEAVE LAUNCHES MULTI-RACK NVIDIA VERA RUBIN NVL72 CLUSTER.
+- 09/16 21:06 [FirstSquawk] SAUDIS SAY HAVE LEGITIMATE RIGHT TO DEFEND HOLY CITIES
+- 09/16 21:07 [FirstSquawk] SAUDIS CALL ON INTL COMMUNITY FOR FIRM STANCE AGAINST HOUTHIS
+- 09/16 21:07 [financialjuice] Traders no longer fully price in four quarter-point BoE rate hikes
+- 09/16 21:07 [financialjuice] Morning Juice – US Session Prep (16th September)
+- 09/16 21:07 [FirstSquawk] TRADERS NO LONGER FULLY PRICE FOUR QUARTER-POINT BANK OF ENGLAND RATE HIKES
+- 09/16 21:15 [financialjuice] CANADIAN HOUSE STARTS, ANNUALIZED ACTUAL 229.0K (FORECAST 240K, PREVIOUS 229.1K ,REVISION 229.4K) $MACRO
+- 09/16 21:16 [financialjuice] Canadian Housing Starts August Report
+- 09/16 21:24 [FirstSquawk] US WRIGHT: 18M BBL OF OIL WENT THROUGH HORMUZ YESTERDAY
+- 09/16 21:25 [financialjuice] US Energy Secretary Wright: We are looking at using DPA to increase refining capacity.
+- 09/16 21:26 [financialjuice] US Energy Secretary Wright: US oil company to talk Venezuela investment today.
+- 09/16 21:26 [FirstSquawk] WRIGHT SAYS US OIL COMPANY TO TALK VENEZUELA INVESTMENT TODAY
+- 09/16 21:26 [FirstSquawk] WRIGHT: LOOKING AT USING DPA TO INCREASE REFINING CAPACITY
+- 09/16 21:26 [FirstSquawk] WRIGHT REFERS TO DEFENSE PRODUCTION ACT
+- 09/16 21:27 [financialjuice] US Energy Secretary Wright: East-West pipeline damage assessments are ongoing
+- 09/16 21:27 [FirstSquawk] WRIGHT: EAST-WEST PIPELINE DAMAGE ASSESSMENTS ARE ONGOING || WRIGHT REITERATES SAUDI PIPELINE WILL BE RUNNING SOON
+- 09/16 21:28 [financialjuice] US Energy Secretary Wright on East-West pipeline: 3 pumping stations were hit.
+- 09/16 21:28 [financialjuice] US Energy Secretary Wright: The US will help escort refined product, not just crude
+- 09/16 21:29 [financialjuice] US Energy Secretary Wright: Daily bbl figures I give are refined plus crude
+- 09/16 21:30 [financialjuice] US Energy Secretary Wright, on Hormuz flow: 7-day average is 11m bbl/day
+- 09/16 21:30 [FirstSquawk] US RETAIL SALES (MOM) (AUG) ACTUAL: 1.2% VS -0.6% PREVIOUS; EST 0.8%
+- 09/16 21:30 [financialjuice] ‼ BREAKING: US RETAIL SALES MOM ACTUAL 1.2% (FORECAST 0.8%, PREVIOUS -0.6%) $MACRO
+- 09/16 21:30 [FirstSquawk] US CORE RETAIL SALES (MOM) (AUG) ACTUAL: 1.4% VS -0.3% PREVIOUS; EST 0.6%
+- 09/16 21:30 [financialjuice] US CORE RETAIL SALES MOM ACTUAL 1.4% (FORECAST 0.6%, PREVIOUS -0.3%) $MACRO
+- 09/16 21:30 [financialjuice] US EXPORT PRICES MOM ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS -1.3%) $MACRO
+- 09/16 21:30 [financialjuice] US IMPORT PRICES MOM ACTUAL 0.7% (FORECAST 0.5%, PREVIOUS -0.4%) $MACRO
+- 09/16 21:30 [financialjuice] CANADIAN BUILDING PERMITS MOM ACTUAL -17.3% (FORECAST -4.8%, PREVIOUS 18.5% ,REVISION 18.3%) $MACRO
+- 09/16 21:31 [FirstSquawk] US ENERGY SEC. WRIGHT ON HORMUZ FLOW’S 7-DAY AVERAGE IS 11M BBL/DAY
+- 09/16 21:32 [financialjuice] US Retail Sales August Report

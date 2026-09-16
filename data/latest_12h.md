@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 21:05 JST／対象: 09/16 09:05 〜 09/16 21:05 JST（時刻はすべて日本時間）
+生成: 2026-09-16 21:32 JST／対象: 09/16 09:32 〜 09/16 21:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/16 19:06 | 09/16 20:44 | 35分（20:00→20:35） |
-| FirstSquawk | 185 | 09/16 09:14 | 09/16 21:04 | 45分（17:00→17:45） |
-| financialjuice | 84 | 09/16 09:13 | 09/16 21:03 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 190 | 09/16 09:32 | 09/16 21:31 | 45分（17:00→17:45） |
+| financialjuice | 99 | 09/16 09:38 | 09/16 21:32 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 274 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 294 行（統合前 296 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 09:13 [financialjuice] IMF Managing Director Georgieva: Senegal has made notable progress in boosting the economy and enhancing prospects for investments, jobs and growth
-- 09/16 09:14 [FirstSquawk] Georgieva says Senegal’s economic reforms are showing encouraging progress, with better prospects for investment, jobs and growth.
-- 09/16 09:17 [financialjuice] China PBOC predicted to set yuan reference rate at 6.7148 per dollar - Estimate
-- 09/16 09:19 [FirstSquawk] U.S. crude futures are pulling back, with prices down 1% at $104.77 a barrel. The move puts crude below the $105 level as traders monitor the latest developments affecting global oil markets.
-- 09/16 09:27 [FirstSquawk] Asia-Pacific stocks open mixed as investors digest Wall Street’s weak handover and position cautiously ahead of the Fed’s rate decision
-- 09/16 09:30 [FirstSquawk] AI is moving from the tech sector into China’s restaurant industry, as major chains explore ways to bring artificial intelligence into everyday dining. From smarter operations to AI-enabled customer experiences, restaurants are testing how …
-- 09/16 09:31 [FirstSquawk] Japan’s 5-year government bond yield edged lower, falling 0.5 basis points to 2.305%. The move marks a modest pullback in one of Japan’s key government bond yields as investors continue to assess the country’s rates and monetary-policy outl…
-- 09/16 09:32 [FirstSquawk] Australia’s Westpac Leading Index slipped into negative territory in August, falling 0.04% month-on-month, compared with a 0.03% rise previously. The reading points to a modest change in the near-term economic outlook, with the index moving…
 - 09/16 09:32 [FirstSquawk] Boeing has secured a major aircraft order from Korean Air, with the airline finalizing a deal for 103 jets across Boeing’s widebody and single-aisle families. The agreement adds to the pipeline for Boeing’s commercial aircraft business and …
 - 09/16 09:35 [FirstSquawk] A notable link between Britain’s financial and technology worlds: George Osborne, during his time as UK chancellor, appointed Mark Carney to lead the Bank of England. Separately, OpenAI paused a planned UK data centre project five months ag…
 - 09/16 09:37 [FirstSquawk] Beijing is hosting the Xiangshan Forum, marking the 20th anniversary of China’s major international defence conference. The gathering brings defence and security officials together as China continues to use the forum as a platform for discu…
@@ -298,3 +290,31 @@
 - 09/16 21:03 [FirstSquawk] JAPAN'S DEFENSE MINISTRY INTENDS TO PURCHASE 52,000 DRONES.
 - 09/16 21:03 [FirstSquawk] NOVO AND ANTHROPIC PARTNER TO DEVELOP MEDICATION USING CLAUDE AI TECHNOLOGY.
 - 09/16 21:04 [FirstSquawk] COREWEAVE LAUNCHES MULTI-RACK NVIDIA VERA RUBIN NVL72 CLUSTER.
+- 09/16 21:06 [FirstSquawk] SAUDIS SAY HAVE LEGITIMATE RIGHT TO DEFEND HOLY CITIES
+- 09/16 21:07 [FirstSquawk] SAUDIS CALL ON INTL COMMUNITY FOR FIRM STANCE AGAINST HOUTHIS
+- 09/16 21:07 [financialjuice] Traders no longer fully price in four quarter-point BoE rate hikes
+- 09/16 21:07 [financialjuice] Morning Juice – US Session Prep (16th September)
+- 09/16 21:07 [FirstSquawk] TRADERS NO LONGER FULLY PRICE FOUR QUARTER-POINT BANK OF ENGLAND RATE HIKES
+- 09/16 21:15 [financialjuice] CANADIAN HOUSE STARTS, ANNUALIZED ACTUAL 229.0K (FORECAST 240K, PREVIOUS 229.1K ,REVISION 229.4K) $MACRO
+- 09/16 21:16 [financialjuice] Canadian Housing Starts August Report
+- 09/16 21:24 [FirstSquawk] US WRIGHT: 18M BBL OF OIL WENT THROUGH HORMUZ YESTERDAY
+- 09/16 21:25 [financialjuice] US Energy Secretary Wright: We are looking at using DPA to increase refining capacity.
+- 09/16 21:26 [financialjuice] US Energy Secretary Wright: US oil company to talk Venezuela investment today.
+- 09/16 21:26 [FirstSquawk] WRIGHT SAYS US OIL COMPANY TO TALK VENEZUELA INVESTMENT TODAY
+- 09/16 21:26 [FirstSquawk] WRIGHT: LOOKING AT USING DPA TO INCREASE REFINING CAPACITY
+- 09/16 21:26 [FirstSquawk] WRIGHT REFERS TO DEFENSE PRODUCTION ACT
+- 09/16 21:27 [financialjuice] US Energy Secretary Wright: East-West pipeline damage assessments are ongoing
+- 09/16 21:27 [FirstSquawk] WRIGHT: EAST-WEST PIPELINE DAMAGE ASSESSMENTS ARE ONGOING || WRIGHT REITERATES SAUDI PIPELINE WILL BE RUNNING SOON
+- 09/16 21:28 [financialjuice] US Energy Secretary Wright on East-West pipeline: 3 pumping stations were hit.
+- 09/16 21:28 [financialjuice] US Energy Secretary Wright: The US will help escort refined product, not just crude
+- 09/16 21:29 [financialjuice] US Energy Secretary Wright: Daily bbl figures I give are refined plus crude
+- 09/16 21:30 [financialjuice] US Energy Secretary Wright, on Hormuz flow: 7-day average is 11m bbl/day
+- 09/16 21:30 [FirstSquawk] US RETAIL SALES (MOM) (AUG) ACTUAL: 1.2% VS -0.6% PREVIOUS; EST 0.8%
+- 09/16 21:30 [financialjuice] ‼ BREAKING: US RETAIL SALES MOM ACTUAL 1.2% (FORECAST 0.8%, PREVIOUS -0.6%) $MACRO
+- 09/16 21:30 [FirstSquawk] US CORE RETAIL SALES (MOM) (AUG) ACTUAL: 1.4% VS -0.3% PREVIOUS; EST 0.6%
+- 09/16 21:30 [financialjuice] US CORE RETAIL SALES MOM ACTUAL 1.4% (FORECAST 0.6%, PREVIOUS -0.3%) $MACRO
+- 09/16 21:30 [financialjuice] US EXPORT PRICES MOM ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS -1.3%) $MACRO
+- 09/16 21:30 [financialjuice] US IMPORT PRICES MOM ACTUAL 0.7% (FORECAST 0.5%, PREVIOUS -0.4%) $MACRO
+- 09/16 21:30 [financialjuice] CANADIAN BUILDING PERMITS MOM ACTUAL -17.3% (FORECAST -4.8%, PREVIOUS 18.5% ,REVISION 18.3%) $MACRO
+- 09/16 21:31 [FirstSquawk] US ENERGY SEC. WRIGHT ON HORMUZ FLOW’S 7-DAY AVERAGE IS 11M BBL/DAY
+- 09/16 21:32 [financialjuice] US Retail Sales August Report
