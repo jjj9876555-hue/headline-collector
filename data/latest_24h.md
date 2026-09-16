@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 06:51 JST／対象: 09/16 06:51 〜 09/17 06:51 JST（時刻はすべて日本時間）
+生成: 2026-09-17 07:02 JST／対象: 09/16 07:02 〜 09/17 07:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 46 | 09/16 07:16 | 09/17 05:51 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 384 | 09/16 07:11 | 09/17 06:43 | 45分（17:00→17:45） |
-| financialjuice | 298 | 09/16 06:56 | 09/17 05:57 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 386 | 09/16 07:11 | 09/17 07:00 | 45分（17:00→17:45） |
+| financialjuice | 295 | 09/16 07:06 | 09/17 05:57 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 712 行（統合前 733 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 711 行（統合前 732 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 06:56 [financialjuice] OpenAI considers funding round at $0.2tn valuation ahead of IPO - FT
-- 09/16 06:57 [financialjuice] OpenAI weighs funding round at $1.2tn valuation before IPO: FT
-- 09/16 07:00 [financialjuice] Kraken investigating issue with base network funding gateway, deposits and withdrawals may be delayed
 - 09/16 07:06 [financialjuice/FirstSquawk] Microsoft declares quarterly dividend of $0.98 per share, up 8% from prior quarter
 - 09/16 07:06 [financialjuice/FirstSquawk] Several blasts heard on Iran's Geshm island: IRNA citing local sources
 - 09/16 07:06 [financialjuice] OpenAI considers funding round at $1.2 trillion valuation before IPO - FT (adds currency)
@@ -736,3 +733,5 @@
 - 09/17 06:36 [FirstSquawk] BRAZIL'S CENTRAL BANK SAID INFLATION RISKS REMAIN HIGHER THAN USUAL WITH AN UPWARD BIAS, WHILE IT CONTINUES TO MONITOR LONGER-TERM INFLATION EXPECTATIONS AND MAINTAIN APPROPRIATELY RESTRICTIVE MONETARY POLICY.
 - 09/17 06:36 [FirstSquawk] BRAZIL’S CENTRAL BANK SAYS ECONOMIC ACTIVITY IS SHOWING A GRADUAL MODERATION, PARTICULARLY IN CYCLICAL SECTORS, ALTHOUGH ACTIVITY REMAINS RESILIENT AND THE LABOR MARKET REMAINS TIGHT.
 - 09/17 06:43 [FirstSquawk] GOOGLE AVOIDS BREAKUP OF AD-TECH BUSINESS; JUDGE ORDERS GOOGLE & DOJ TO PROPOSE FINAL JUDGMENT, REQUIRES INTERNAL COMPLIANCE OFFICER DUE TO “GRAVITY” OF ANTITRUST VIOLATIONS
+- 09/17 07:00 [FirstSquawk] CEA CHAIR PHELAN SAID HIGHER OIL PRICES HAVE STARTED “BLEEDING THROUGH” INTO THE BROADER ECONOMY, WHILE NOTING THAT INFLATION IS CURRENTLY ELEVATED BUT CONTINUES TO COME DOWN.
+- 09/17 07:00 [FirstSquawk] CEA CHAIR PHELAN SAID TRUMP’S PROPOSED $5,000 CHECKS WOULD NOT NECESSARILY BE INFLATIONARY, AND WARNED THAT THE “FRENZY” AROUND FEDERAL RESERVE DECISIONS CAN OVERSHADOW OTHER ECONOMIC DATA.

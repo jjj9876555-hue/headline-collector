@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 06:51 JST／対象: 09/17 00:51 〜 09/17 06:51 JST（時刻はすべて日本時間）
+生成: 2026-09-17 07:02 JST／対象: 09/17 01:02 〜 09/17 07:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/17 00:51 | 09/17 05:51 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 108 | 09/17 00:57 | 09/17 06:43 | 32分（05:10→05:42） |
-| financialjuice | 119 | 09/17 00:53 | 09/17 05:57 | 25分（05:05→05:30） |
+| DeItaone | 26 | 09/17 01:06 | 09/17 05:51 | ⚠ 72分（01:09→02:22） |
+| FirstSquawk | 107 | 09/17 01:15 | 09/17 07:00 | 32分（05:10→05:42） |
+| financialjuice | 117 | 09/17 01:14 | 09/17 05:57 | 25分（05:05→05:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 244 行（統合前 260 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 238 行（統合前 254 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 00:51 [DeItaone] OPENAI CHALLENGES SECRET APPLE-MUSK AGREEMENT A federal judge ordered X and SpaceXAI to disclose their agreement with Apple after OpenAI sought access to the terms in Musk’s antitrust case. X recently resolved its claims against Apple but i…
-- 09/17 00:53 [financialjuice] German Economy Minister Reiche: It would be sensible to temporarily reduce VAT on fuel from 19% to 7%.
-- 09/17 00:53 [financialjuice] German Economy Minister Reiche: Cap on fuel prices is the wrong approach
-- 09/17 00:56 [DeItaone] SAUDI PIPELINE COULD RESTORE HALF ITS CAPACITY WITHIN DAYS Saudi Arabia is working to restore roughly half the capacity of its East-West oil pipeline within days by bypassing a section damaged in last week’s drone attacks. Saudi Aramco is r…
-- 09/17 00:57 [FirstSquawk] SAUDIS ARE SEEKING TO RETURN ROUGHLY HALF THE CAPACITY OF THE EAST-WEST PIPELINE WITHIN DAYS, BYPASSING RECENTLY DAMAGED SECTION
-- 09/17 00:57 [FirstSquawk] LOOKING AT ABOUT SIX WEEKS CURRENTLY TO RETURN TO REGULAR LEVELS
-- 09/17 00:58 [DeItaone] Saudi Aramco is reportedly targeting a full return to capacity in around six weeks.
-- 09/17 01:01 [FirstSquawk] ITALIAN PM MELONI: ITALY EXTENDS TAX CUT ON DIESEL TO OCT 5
 - 09/17 01:06 [DeItaone] FED: WHAT WALL STREET EXPECTS FROM WARSH TODAY Major banks are focused on how Kevin Warsh frames the path ahead if the Fed hikes today: Barclays: Expects Warsh to stress solid growth, near-full employment and inflation still too high, broad…
 - 09/17 01:09 [DeItaone] OPENAI ROGUE AGENTS PROBED HUGGING FACE BEFORE MAJOR HACK Researchers say rogue OpenAI agents hijacked two Hugging Face accounts and probed its network for vulnerabilities in May, nearly two months before the major July cyber incident. No e…
 - 09/17 01:14 [financialjuice] SEC's Atkins: Will act to give investors certainty on crypto - Post on X
@@ -268,3 +260,5 @@
 - 09/17 06:36 [FirstSquawk] BRAZIL'S CENTRAL BANK SAID INFLATION RISKS REMAIN HIGHER THAN USUAL WITH AN UPWARD BIAS, WHILE IT CONTINUES TO MONITOR LONGER-TERM INFLATION EXPECTATIONS AND MAINTAIN APPROPRIATELY RESTRICTIVE MONETARY POLICY.
 - 09/17 06:36 [FirstSquawk] BRAZIL’S CENTRAL BANK SAYS ECONOMIC ACTIVITY IS SHOWING A GRADUAL MODERATION, PARTICULARLY IN CYCLICAL SECTORS, ALTHOUGH ACTIVITY REMAINS RESILIENT AND THE LABOR MARKET REMAINS TIGHT.
 - 09/17 06:43 [FirstSquawk] GOOGLE AVOIDS BREAKUP OF AD-TECH BUSINESS; JUDGE ORDERS GOOGLE & DOJ TO PROPOSE FINAL JUDGMENT, REQUIRES INTERNAL COMPLIANCE OFFICER DUE TO “GRAVITY” OF ANTITRUST VIOLATIONS
+- 09/17 07:00 [FirstSquawk] CEA CHAIR PHELAN SAID HIGHER OIL PRICES HAVE STARTED “BLEEDING THROUGH” INTO THE BROADER ECONOMY, WHILE NOTING THAT INFLATION IS CURRENTLY ELEVATED BUT CONTINUES TO COME DOWN.
+- 09/17 07:00 [FirstSquawk] CEA CHAIR PHELAN SAID TRUMP’S PROPOSED $5,000 CHECKS WOULD NOT NECESSARILY BE INFLATIONARY, AND WARNED THAT THE “FRENZY” AROUND FEDERAL RESERVE DECISIONS CAN OVERSHADOW OTHER ECONOMIC DATA.
