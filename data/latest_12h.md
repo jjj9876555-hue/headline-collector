@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 08:00 JST／対象: 09/16 20:00 〜 09/17 08:00 JST（時刻はすべて日本時間）
+生成: 2026-09-17 08:17 JST／対象: 09/16 20:17 〜 09/17 08:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 09/16 20:00 | 09/17 07:47 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 196 | 09/16 20:01 | 09/17 07:53 | 32分（05:10→05:42） |
-| financialjuice | 196 | 09/16 20:00 | 09/17 07:45 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 48 | 09/16 20:35 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
+| FirstSquawk | 203 | 09/16 20:21 | 09/17 08:16 | 32分（05:10→05:42） |
+| financialjuice | 193 | 09/16 20:18 | 09/17 08:11 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 427 行（統合前 444 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 431 行（統合前 448 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 20:00 [DeItaone] LAVROV WARNS EUROPE AGAINST ATTACKING RUSSIA Russian Foreign Minister Sergey Lavrov says Moscow has no intention of attacking Europe, but issued a stark warning against any European strike on Russia. “If Europe attacks Russia, the war will …
-- 09/16 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -4.1% (FORECAST -, PREVIOUS -2.7%) $MACRO
-- 09/16 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 6.97% (FORECAST -, PREVIOUS 6.85%) $MACRO
-- 09/16 20:00 [financialjuice] US officials met Houthis in Oman over the weekend after an Iran-backed group seized a strategic stretch of the Red Sea coast - Sources
-- 09/16 20:01 [FirstSquawk] US OFFICIALS HELD TALKS WITH HOUTHIS IN OMAN AFTER THE IRAN-SUPPORTED GROUP TOOK CONTROL OF A KEY PART OF THE RED SEA COAST
-- 09/16 20:02 [financialjuice] IBM's Anderon finalizes agreement with u.s. Department of Commerce for a $1 billion Chips Act award - IBM
-- 09/16 20:04 [financialjuice] OpenAI in talks for new funding at $1.2T valuation - The Information
-- 09/16 20:08 [FirstSquawk] ARDAGH SAYS COURT BARS SALE OF ARDAGH METAL PACKAGING STAKE
-- 09/16 20:10 [financialjuice] Houthis told the US they remain committed to 2025 ceasefire - Sources
-- 09/16 20:12 [FirstSquawk] HOUTHIS CONFIRM COMMITMENT TO CEASEFIRE
 - 09/16 20:18 [financialjuice] UK's PM Burnham shelves plans for UK investment summit this year - Sky
 - 09/16 20:21 [FirstSquawk] BURNHAM TO DELAY FLAGSHIP INVESTMENT SUMMIT UNTIL NEXT YEAR – SKY
 - 09/16 20:32 [FirstSquawk] HOUTHIS TOLD U.S. OFFICIALS THEY WILL AVOID ATTACKING ISRAELI VESSELS.
@@ -451,3 +441,17 @@
 - 09/17 07:47 [DeItaone] *TRUMP, ASKED WHETHER HE STILL HAS CONFIDENCE IN WARSH: I DO
 - 09/17 07:52 [FirstSquawk] US HOUSE HAS ENOUGH VOTES TO PASS DATA CENTER COST BILL; VOTING CONTINUES
 - 09/17 07:53 [FirstSquawk] US HOUSE PASSES BILL TO SHIFT ELECTRICAL GRID UPGRADE COSTS TO DATA CENTERS
+- 09/17 08:02 [FirstSquawk] APPLE'S COOK: TO ATTEND TRUMP DINNER FOR CHINA'S XI NEXT WEEK
+- 09/17 08:02 [FirstSquawk] SALESFORCE: FORECASTS FY2030 SALES OF $63B (EST $61.4B)
+- 09/17 08:02 [FirstSquawk] IMF SAYS ON AUSTRALIA THAT IT SEES GDP GROWTH AT 1.9% IN 2026 AND 1.6% IN 2027, ADDING THAT MAJOR TAX REFORM COULD BOOST GROWTH AND STRENGTHEN PUBLIC FINANCES AND CALLING FOR A MORE AMBITIOUS PRODUCTIVITY REFORM PROGRAMME.
+- 09/17 08:03 [FirstSquawk] IMF SAYS THE RBA SHOULD MAINTAIN A TIGHTENING BIAS AND BE READY TO HIKE AS NEEDED, WITH INFLATION RISKS REMAINING TILTED TO THE UPSIDE AND UNCERTAINTY OVER WHETHER FINANCIAL CONDITIONS ARE RESTRICTIVE ENOUGH, ADDING THAT FISCAL CONSOLIDATIO…
+- 09/17 08:04 [DeItaone] TRUMP LASHES OUT AT FED AFTER WARSH BACKS RATE HIKE President Trump criticized the Fed after its unanimous 25bp hike to 3.75%–4.00%, demanding rates be cut to 1% or lower. Trump said he still has confidence in Fed Chair Kevin Warsh but call…
+- 09/17 08:04 [FirstSquawk] LENNAR POSTED Q3 REVENUE OF $8.05 BLN, BELOW THE $8.30 BLN ESTIMATE, WITH EPS OF $1.19 VERSUS $1.28 EXPECTED.
+- 09/17 08:04 [FirstSquawk] LENNAR SEES Q4 NEW ORDERS OF 19,500 TO 20,500 AND Q4 DELIVERIES OF 22,000 TO 23,000 VERSUS 24,080 EXPECTED.
+- 09/17 08:10 [financialjuice] Trump: retains confidence in Fed Chair Warsh
+- 09/17 08:11 [financialjuice] Trump: wants Warsh to be independent
+- 09/17 08:11 [financialjuice] Trump: Warsh has an antagonistic board
+- 09/17 08:13 [FirstSquawk] EXXONMOBIL IS REPORTEDLY NEARING A PRELIMINARY AGREEMENT TO INVEST IN VENEZUELA'S OIL FIELDS, WITH A MEMORANDUM OF UNDERSTANDING WITH STATE-RUN PDVSA POTENTIALLY BEING SIGNED AS SOON AS THIS MONTH, ACCORDING TO THE WALL STREET JOURNAL.
+- 09/17 08:15 [FirstSquawk] A DEAL WITH EXXON WOULD MARK A NOTABLE DEVELOPMENT GIVEN THE COMPANY'S PREVIOUS HISTORY IN VENEZUELA AND COULD SIGNAL DEEPER INTERNATIONAL PARTICIPATION IN THE COUNTRY'S OIL SECTOR, THOUGH THE REPORTED AGREEMENT IS STILL PRELIMINARY AND THE…
+- 09/17 08:15 [FirstSquawk] THE POTENTIAL MOVE COMES AMID A BROADER PUSH BY U.S. ENERGY COMPANIES TO RE-ENTER AND EXPAND OPERATIONS IN VENEZUELA, WITH RECENT AGREEMENTS INVOLVING OTHER U.S. AND INTERNATIONAL FIRMS FOCUSED ON DEVELOPING THE COUNTRY'S LARGE BUT UNDERUTI…
+- 09/17 08:16 [FirstSquawk] TRUMP ADMINISTRATION TEMPORARILY RELAXES TRUCKER HOURS-OF-SERVICE RULES FOR GASOLINE & DIESEL SHIPMENTS — USDOT
