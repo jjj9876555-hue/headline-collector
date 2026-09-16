@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 23:53 JST／対象: 09/15 23:53 〜 09/16 23:53 JST（時刻はすべて日本時間）
+生成: 2026-09-17 00:07 JST／対象: 09/16 00:07 〜 09/17 00:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 09/15 23:56 | 09/16 23:46 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 382 | 09/15 23:53 | 09/16 23:51 | 45分（17:00→17:45） |
-| financialjuice | 253 | 09/15 23:53 | 09/16 23:51 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 35 | 09/16 00:19 | 09/16 23:46 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 374 | 09/16 00:14 | 09/17 00:03 | 45分（17:00→17:45） |
+| financialjuice | 249 | 09/16 00:18 | 09/17 00:06 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 661 行（統合前 676 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 646 行（統合前 661 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 23:53 [FirstSquawk] OIL LOADINGS HAVE BEEN STOPPED AT SAUDI ARABIA'S YANBU PORT AFTER AN ATTACK ON THE EAST-WEST PIPELINE, ACCORDING TO SHIPPING SOURCES.
-- 09/15 23:53 [FirstSquawk] US HOUSE SPEAKER JOHNSON DISCUSSED AI RISKS WITH PRESIDENT TRUMP LAST NIGHT.
-- 09/15 23:53 [FirstSquawk] CHINA'S KIMI HAD A SECURITY BREACH AND SHARED WEAPONS PLANS WITH ANTHROPIC.
-- 09/15 23:53 [financialjuice] US Treasury Secretary Bessent: China Kimi had breach, sent weapons plans to Anthropic.
-- 09/15 23:53 [FirstSquawk] CANADA PENSION FUNDS ARE LOOKING TO INVEST IN AIRPORT CONCESSIONS.
-- 09/15 23:54 [FirstSquawk] ANTHROPIC INTRODUCES BETA SALESFORCE PLUGIN FOR CLAUDE.
-- 09/15 23:54 [FirstSquawk] CARNEY: AIRPORT CONCESSIONS CAN NOW WELCOME FOREIGN INVESTMENTS.
-- 09/15 23:55 [financialjuice] House Speaker Johnson: AI executives are expected to come to the White House within the next week - Fox News Reporter on X
-- 09/15 23:56 [financialjuice] US Treasury Secretary Bessent: Trump completely aligned with Nvidia's CEO. $NVDA
-- 09/15 23:56 [FirstSquawk] US TREASURY SECRETARY BESSENT SAYS TRUMP IS 'COMPLETELY IN SYNC' WITH NVIDIA CEO HUANG.
-- 09/15 23:56 [FirstSquawk] JOHNSON STATES AI DEVELOPMENT SHOULD NOT BE PUT ON HOLD.
-- 09/15 23:56 [FirstSquawk] BESSENT SAYS TRUMP IS IN TOTAL AGREEMENT WITH NVIDIA'S JENSEN HUANG.
-- 09/15 23:56 [FirstSquawk] JOHNSON SAYS HE WILL NOT PERMIT LOSING AI COMPETITIVENESS.
-- 09/15 23:56 [DeItaone] JOHNSON SAYS AI MORATORIUM WILL LOSE COMPETITIVE EDGE TO CHINA
-- 09/15 23:57 [FirstSquawk] BESSENT FOCUSED ON MAINTAINING A STRONG TREASURY MARKET.
-- 09/15 23:57 [financialjuice] US Treasury Secretary Bessent: I am dedicated to keeping Treasury market robust and the deepest.
-- 09/15 23:57 [DeItaone] BESSENT: TRUMP COMPLETELY ALIGNED WITH NVIDIA'S JENSEN HUANG
-- 09/16 00:00 [financialjuice] US to sell $90 bln 4-Week bills on Sept 17th to settle on Sept 22nd
-- 09/16 00:01 [DeItaone] BRENT, US CRUDE FUTURES RISE BY MORE THAN $3 AFTER SHIPPING SOURCES TELL REUTERS OIL LOADINGS AT SAUDI ARABIA'S RED SEA PORT OF YANBU HAVE BEEN SUSPENDED
-- 09/16 00:01 [financialjuice] Meta Launches Meta One Subscription Plans Globally $META
-- 09/16 00:05 [financialjuice] US Treasury Secretary Bessent: Iran officials say their economy is in dire straits.
 - 09/16 00:14 [FirstSquawk] 3M'S CEO STATES THAT ROBUST SALES GROWTH VIA DISTRIBUTORS WILL PERSIST INTO THE THIRD QUARTER, WHICH SUPPORTS A SALES BOOST IN THE SECOND HALF OF THE YEAR.
 - 09/16 00:14 [FirstSquawk] 3M PREDICTS THAT ITS CONSUMER BUSINESS WILL IMPROVE IN THE SECOND HALF OF THE YEAR COMPARED TO THE FIRST HALF.
 - 09/16 00:18 [financialjuice] US Treasury Secretary Bessent: Stablecoins will boost demand for US dollar assets.
@@ -685,3 +664,9 @@
 - 09/16 23:46 [DeItaone] FED DOT PLOT COULD SIGNAL ANOTHER 2026 HIKE The Fed’s updated Dot Plot is expected to show rates ending 2026 near 4.1%, implying another hike after today’s anticipated 25bp increase. The bigger question is 2027: projections may still signal…
 - 09/16 23:51 [FirstSquawk] AMERICAN AIRLINES FEELING 'REALLY GOOD' ABOUT GUIDANCE: CEO
 - 09/16 23:51 [financialjuice] Senator Thune: I'd like to see the CLARITY crypto bill revived
+- 09/16 23:53 [FirstSquawk] HAROLD HAMM'S COMPANY, CONTINENTAL, WILL REVEAL DETAILS OF AN OIL DEAL IN VENEZUELA.
+- 09/16 23:55 [financialjuice] ECB's Pereira: We should not underestimate the impact on growth of fiscal spending in Germany and elsewhere.
+- 09/16 23:58 [FirstSquawk] AMERICAN AIRLINES: HIGH FUEL PRICES WILL NEED CAPACITY ADJUSTMENT
+- 09/17 00:03 [FirstSquawk] EU’S KALLAS TO EU PARL’T ON URGENT NEED FOR EU SUPPORT TO UKRAINE AGAINST RUSSIA’S ESCALATION OF ITS WAR OF AGGRESSION
+- 09/17 00:03 [financialjuice] French Finance Minister Lescure: I want France and Europe to accelerate on AI, so that we can control risks.
+- 09/17 00:06 [financialjuice] Iran's Mahan Air suspends Turkey flights from Sept. 21st. Suspends Tehran-Muscat flights from Sept. 17th.

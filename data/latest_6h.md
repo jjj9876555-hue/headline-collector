@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 23:53 JST／対象: 09/16 17:53 〜 09/16 23:53 JST（時刻はすべて日本時間）
+生成: 2026-09-17 00:07 JST／対象: 09/16 18:07 〜 09/17 00:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 13 | 09/16 19:06 | 09/16 23:46 | ⚠ 68分（22:37→23:46） |
-| FirstSquawk | 73 | 09/16 18:12 | 09/16 23:51 | 27分（18:35→19:03） |
-| financialjuice | 78 | 09/16 18:00 | 09/16 23:51 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 76 | 09/16 18:12 | 09/17 00:03 | 27分（18:35→19:03） |
+| financialjuice | 78 | 09/16 18:23 | 09/17 00:06 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 164 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 165 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 18:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION MOM ACTUAL -0.1% (FORECAST -0.2%, PREVIOUS 0.0%) $MACRO
-- 09/16 18:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION YOY ACTUAL 0.0% (FORECAST -0.1%, PREVIOUS 0.1%) $MACRO
-- 09/16 18:00 [financialjuice] EUROZONE LABOUR COSTS YOY ACTUAL 3.1% (FORECAST -, PREVIOUS 3.2%) $MACRO
 - 09/16 18:12 [FirstSquawk] AMAZON PLANS TO ESTABLISH OVER 1,000 SAME-DAY DELIVERY HUBS BY 2031, AS REPORTED BY INSIDER.
 - 09/16 18:23 [financialjuice] Amazon to build over 1k same-day delivery hubs by 2031. Budgets $6.8B for US same day hubs in 2026-27. $AMZN - Insider
 - 09/16 18:33 [financialjuice] GERMAN 30 YR BUND YIELD ACTUAL 3.9% (FORECAST -, PREVIOUS 3.64%) $MACRO
@@ -186,3 +183,9 @@
 - 09/16 23:46 [DeItaone] FED DOT PLOT COULD SIGNAL ANOTHER 2026 HIKE The Fed’s updated Dot Plot is expected to show rates ending 2026 near 4.1%, implying another hike after today’s anticipated 25bp increase. The bigger question is 2027: projections may still signal…
 - 09/16 23:51 [FirstSquawk] AMERICAN AIRLINES FEELING 'REALLY GOOD' ABOUT GUIDANCE: CEO
 - 09/16 23:51 [financialjuice] Senator Thune: I'd like to see the CLARITY crypto bill revived
+- 09/16 23:53 [FirstSquawk] HAROLD HAMM'S COMPANY, CONTINENTAL, WILL REVEAL DETAILS OF AN OIL DEAL IN VENEZUELA.
+- 09/16 23:55 [financialjuice] ECB's Pereira: We should not underestimate the impact on growth of fiscal spending in Germany and elsewhere.
+- 09/16 23:58 [FirstSquawk] AMERICAN AIRLINES: HIGH FUEL PRICES WILL NEED CAPACITY ADJUSTMENT
+- 09/17 00:03 [FirstSquawk] EU’S KALLAS TO EU PARL’T ON URGENT NEED FOR EU SUPPORT TO UKRAINE AGAINST RUSSIA’S ESCALATION OF ITS WAR OF AGGRESSION
+- 09/17 00:03 [financialjuice] French Finance Minister Lescure: I want France and Europe to accelerate on AI, so that we can control risks.
+- 09/17 00:06 [financialjuice] Iran's Mahan Air suspends Turkey flights from Sept. 21st. Suspends Tehran-Muscat flights from Sept. 17th.
