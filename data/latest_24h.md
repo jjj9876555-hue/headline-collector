@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 05:58 JST／対象: 09/16 05:58 〜 09/17 05:58 JST（時刻はすべて日本時間）
+生成: 2026-09-17 06:17 JST／対象: 09/16 06:17 〜 09/17 06:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 46 | 09/16 07:16 | 09/17 05:51 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 381 | 09/16 06:16 | 09/17 05:56 | 45分（17:00→17:45） |
+| FirstSquawk | 382 | 09/16 06:20 | 09/17 06:13 | 45分（17:00→17:45） |
 | financialjuice | 305 | 09/16 06:18 | 09/17 05:57 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 716 行（統合前 737 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 717 行（統合前 738 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 06:16 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM IS SET TO MEET DONALD TRUMP IN NEW YORK NEXT WEEK DURING THE UNITED NATIONS GENERAL ASSEMBLY || MEETING WOULD MARK THEIR FIRST FACE-TO-FACE MEETING SINCE BURNHAM BECAME PRIME MINISTER, ACCORDING TO THE TIMES.
 - 09/16 06:18 [financialjuice] Burnham to meet Trump for first time in New York next week: The Times
 - 09/16 06:19 [financialjuice] Trump and Burnham expected to discuss Ukraine, Middle East and energy at United Nations General Assembly - The Times
 - 09/16 06:20 [financialjuice] Ukraine sets budget revenue goal at 5.65 trillion hryvnias ($126.7 bln) next year: draft budget
@@ -740,3 +739,5 @@
 - 09/17 05:56 [FirstSquawk] SYNERGY CHC CORP.: NASDAQ WILL SUSPEND TRADING IN SYNERGY CHC CORP.’S COMMON STOCK ON SEPTEMBER 18, 2026, FOLLOWING THE DELISTING NOTICE ISSUED BY THE EXCHANGE.
 - 09/17 05:57 [financialjuice] Exxon is close to signing a preliminary deal to re-enter Venezuela - WSJ citing sources. $XOM
 - 09/17 05:57 [financialjuice] Exxon and PDVSA near an MOU on fields with 50b barrels - WSJ. $XOM
+- 09/17 05:59 [FirstSquawk] EXXON NEARS PRELIMINARY DEAL TO INVEST IN VENEZUELA OIL FIELDS; MOU WITH PDVSA COULD BE SIGNED THIS MONTH — WSJ
+- 09/17 06:13 [FirstSquawk] NORTH KOREA’S KIM YO JONG DENOUNCES IAEA MEETING ON DENUCLEARIZATION

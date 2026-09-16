@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 05:58 JST／対象: 09/16 23:58 〜 09/17 05:58 JST（時刻はすべて日本時間）
+生成: 2026-09-17 06:17 JST／対象: 09/17 00:17 〜 09/17 06:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 32 | 09/17 00:38 | 09/17 05:51 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 105 | 09/17 00:03 | 09/17 05:56 | 32分（05:10→05:42） |
-| financialjuice | 126 | 09/17 00:03 | 09/17 05:57 | 35分（00:12→00:47） |
+| FirstSquawk | 105 | 09/17 00:20 | 09/17 06:13 | 32分（05:10→05:42） |
+| financialjuice | 120 | 09/17 00:47 | 09/17 05:57 | 25分（05:05→05:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 251 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 245 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 00:03 [FirstSquawk] EU’S KALLAS TO EU PARL’T ON URGENT NEED FOR EU SUPPORT TO UKRAINE AGAINST RUSSIA’S ESCALATION OF ITS WAR OF AGGRESSION
-- 09/17 00:03 [financialjuice] French Finance Minister Lescure: I want France and Europe to accelerate on AI, so that we can control risks.
-- 09/17 00:06 [financialjuice] Iran's Mahan Air suspends Turkey flights from Sept. 21st. Suspends Tehran-Muscat flights from Sept. 17th.
-- 09/17 00:07 [FirstSquawk] IRAN'S MAHAN AIR FLIGHTS TO TURKEY SUSPENDED FROM 21ST SEPTEMBER - ISNA
-- 09/17 00:08 [financialjuice] ❗ 2 pumping stations along Saudi Arabia's east-west oil pipeline damaged in attack last week - sources
-- 09/17 00:08 [financialjuice] Repair timeline unclear for pumping stations 8 and 9 damaged along Saudi east-west oil pipeline - sources
-- 09/17 00:12 [financialjuice] Libya's NOC chief: Production has returned to normal levels after shutdown of three oil fields reduced it for a limited time.
-- 09/17 00:12 [financialjuice] Libya's NOC Chief: We do not anticipate further shutdowns.
 - 09/17 00:20 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time
 - 09/17 00:24 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time - Conditions ‘Currently Normal’, Do Not Anticipate Further Shutdowns
 - 09/17 00:38 [DeItaone] JPMORGAN MAPS FED DAY: STOCKS COULD SWING 2% JPMorgan says Fed communication could determine whether stocks rally or sell off after today’s widely expected 25bp hike. A standard hike with limited guidance could lift the S&P 500 0.25%–0.75%,…
@@ -275,3 +267,5 @@
 - 09/17 05:56 [FirstSquawk] SYNERGY CHC CORP.: NASDAQ WILL SUSPEND TRADING IN SYNERGY CHC CORP.’S COMMON STOCK ON SEPTEMBER 18, 2026, FOLLOWING THE DELISTING NOTICE ISSUED BY THE EXCHANGE.
 - 09/17 05:57 [financialjuice] Exxon is close to signing a preliminary deal to re-enter Venezuela - WSJ citing sources. $XOM
 - 09/17 05:57 [financialjuice] Exxon and PDVSA near an MOU on fields with 50b barrels - WSJ. $XOM
+- 09/17 05:59 [FirstSquawk] EXXON NEARS PRELIMINARY DEAL TO INVEST IN VENEZUELA OIL FIELDS; MOU WITH PDVSA COULD BE SIGNED THIS MONTH — WSJ
+- 09/17 06:13 [FirstSquawk] NORTH KOREA’S KIM YO JONG DENOUNCES IAEA MEETING ON DENUCLEARIZATION
