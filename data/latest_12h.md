@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 05:44 JST／対象: 09/16 17:44 〜 09/17 05:44 JST（時刻はすべて日本時間）
+生成: 2026-09-17 05:58 JST／対象: 09/16 17:58 〜 09/17 05:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 09/16 19:06 | 09/17 05:03 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 180 | 09/16 17:45 | 09/17 05:43 | 32分（05:10→05:42） |
-| financialjuice | 204 | 09/16 17:45 | 09/17 05:40 | ⚠ 50分（19:01→19:52） |
+| DeItaone | 45 | 09/16 19:06 | 09/17 05:51 | ⚠ 72分（01:09→02:22） |
+| FirstSquawk | 180 | 09/16 18:12 | 09/17 05:56 | 32分（05:10→05:42） |
+| financialjuice | 205 | 09/16 18:00 | 09/17 05:57 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 412 行（統合前 430 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 416 行（統合前 434 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 17:45 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS CONTINUOUSLY ASSESS THE SITUATION AND MAINTAIN AN ONGOING DIALOGUE WITH ALL MARKET PARTICIPANTS IN THE GAS SECTOR
-- 09/16 17:45 [financialjuice] Germany Economy Ministry: Continuously assess the situation and maintain an ongoing dialogue with all market participants in the gas sector.
-- 09/16 17:45 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS GUIDING PRINCIPLE REMAINS UNCHANGED: WINTER PREPAREDNESS IS THE RESPONSIBILITY OF THE MARKET, AND ENERGY SUPPLY COMPANIES MUST FULFILL THEIR OBLIGATIONS
-- 09/16 17:46 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS GOVERNMENT HAS CONSISTENTLY TAKEN PRECAUTIONARY MEASURES AND PREPARED POTENTIAL COURSES OF ACTION TO ENSURE A RAPID AND TARGETED RESPONSE SHOULD THE SITUATION DETERIORATE, AND TO GUARANTEE SECURITY OF SUPPLY
-- 09/16 17:46 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS WE EXPRESSLY WELCOME SEFE’S INTENTION TO STEP UP ITS EFFORTS TO FILL GAS STORAGE FACILITIES
 - 09/16 18:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION MOM ACTUAL -0.1% (FORECAST -0.2%, PREVIOUS 0.0%) $MACRO
 - 09/16 18:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION YOY ACTUAL 0.0% (FORECAST -0.1%, PREVIOUS 0.1%) $MACRO
 - 09/16 18:00 [financialjuice] EUROZONE LABOUR COSTS YOY ACTUAL 3.1% (FORECAST -, PREVIOUS 3.2%) $MACRO
@@ -436,3 +431,12 @@
 - 09/17 05:30 [financialjuice/FirstSquawk] The White House seeks to remove Canadian items from US procurement.
 - 09/17 05:36 [financialjuice/FirstSquawk] US-Mexico trade talks have been pushed back one week - WSJ.
 - 09/17 05:40 [financialjuice] Trump: Interest rates in the US should be 1%, or less. Lower the interest rates, and fast - Truth Social
+- 09/17 05:44 [FirstSquawk] TRUMP SAYS U.S. INTEREST RATES SHOULD BE 1% OR LOWER, ARGUING THE COUNTRY IS THE “BEST CREDIT IN THE WORLD” AND IS BOOMING WITH NEW INVESTMENT. - TRUTH SOCIAL
+- 09/17 05:45 [FirstSquawk] TRUMP SAYS ENDING TRADE WITH COUNTRIES THE U.S. RUNS DEFICITS WITH COULD GENERATE AT LEAST $1.5 TRILLION A YEAR, ADDING THAT LOWER RATES ARE NEEDED FOR THE UNITED STATES. - TRUTH SOCIAL
+- 09/17 05:50 [DeItaone] TRUMP DEMANDS U.S. INTEREST RATES AT 1% OR LOWER President Trump is calling for U.S. interest rates to be cut to 1% or below, arguing America’s credit strength and booming investment justify dramatically cheaper borrowing. He also criticize…
+- 09/17 05:51 [DeItaone] *TRUMP: LOWER THE INTEREST RATES FOR THE US FAST
+- 09/17 05:51 [DeItaone] TRUMP: LOWER INTEREST RATES FOR UNITED STATES OF AMERICA, AND FAST
+- 09/17 05:56 [FirstSquawk] SYNERGY CHC CORP. RECEIVES NASDAQ DELISTING NOTICE OVER BANKRUPTCY AND COMPLIANCE ISSUES
+- 09/17 05:56 [FirstSquawk] SYNERGY CHC CORP.: NASDAQ WILL SUSPEND TRADING IN SYNERGY CHC CORP.’S COMMON STOCK ON SEPTEMBER 18, 2026, FOLLOWING THE DELISTING NOTICE ISSUED BY THE EXCHANGE.
+- 09/17 05:57 [financialjuice] Exxon is close to signing a preliminary deal to re-enter Venezuela - WSJ citing sources. $XOM
+- 09/17 05:57 [financialjuice] Exxon and PDVSA near an MOU on fields with 50b barrels - WSJ. $XOM
