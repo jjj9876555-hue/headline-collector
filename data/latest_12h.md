@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 08:44 JST／対象: 09/16 20:44 〜 09/17 08:44 JST（時刻はすべて日本時間）
+生成: 2026-09-17 08:58 JST／対象: 09/16 20:58 〜 09/17 08:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 45 | 09/16 21:33 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 205 | 09/16 20:49 | 09/17 08:42 | 32分（05:10→05:42） |
-| financialjuice | 191 | 09/16 20:55 | 09/17 08:41 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 208 | 09/16 21:03 | 09/17 08:50 | 32分（05:10→05:42） |
+| financialjuice | 196 | 09/16 21:00 | 09/17 08:51 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 428 行（統合前 445 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 436 行（統合前 453 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 20:49 [FirstSquawk] HOUTHI SPOKESPERSON: CLAIMS ATTACK ON ARAMCO FACILITY IN YANBU
-- 09/16 20:55 [financialjuice] German Government spokesperson: We're open to discussing new partnership models between the EU and Canada, but the term 'associate member' needs to be rethought
 - 09/16 21:00 [financialjuice] Secured overnight financing rate 3.64% September 15th vs 3.62% on September 14th
 - 09/16 21:03 [financialjuice] Coreweave brings up a multi-rack NVIDIA Vera Rubin NVL72 cluster $NVDA
 - 09/16 21:03 [FirstSquawk] JAPAN'S DEFENSE MINISTRY INTENDS TO PURCHASE 52,000 DRONES.
@@ -452,3 +450,13 @@
 - 09/17 08:41 [financialjuice] Trump to hold Iran discussions with Gulf leaders next week: Axios
 - 09/17 08:41 [FirstSquawk] SNAP SAYS IT IS PARTNERING WITH VERIZON TO OFFER CUSTOM DATA PLANS, FLEXIBLE FINANCING AND DIGITAL SETUP AT SELECT VERIZON STORES FOR THE SPECS CHARGING CASE, ALONGSIDE GLOBAL CARRIERS INCLUDING ORANGE IN FRANCE AND EE IN THE UK.
 - 09/17 08:42 [FirstSquawk] TRUMP IS TO HOLD IRAN TALKS WITH GULF LEADERS NEXT WEEK - AXIOS
+- 09/17 08:45 [FirstSquawk] US STOCK FUTURES REBOUND: S&P 500 FUTURES +0.3%, NASDAQ FUTURES +0.5%
+- 09/17 08:46 [FirstSquawk] JAPAN MARKETS: NIKKEI FUTURES RISE 1% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.08 POINT
+- 09/17 08:50 [financialjuice] State Dept: US imposing sanctions on Palestinian Authority officials and Palestine Liberation Organization members
+- 09/17 08:50 [FirstSquawk] US SANCTIONS PALESTINIAN AUTHORITY OFFICIALS & PALESTINE LIBERATION ORGANIZATION MEMBERS — STATE DEPARTMENT
+- 09/17 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL 1,082.9B (FORECAST -, PREVIOUS 111.9B ,REVISION 111.4B) $MACRO
+- 09/17 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL -1,522.8B (FORECAST -, PREVIOUS 690.0B ,REVISION 689.6B) $MACRO
+- 09/17 08:50 [FirstSquawk] US TO EXTEND VISA-BAN SANCTIONS ON PLO MEMBERS & PA OFFICIALS — STATE DEPARTMENT
+- 09/17 08:50 [financialjuice] State Dept: US to extend visa sanctions on PLO members and PA officials
+- 09/17 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL 169.2B (FORECAST -, PREVIOUS -481.6B) $MACRO
+- 09/17 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 2236.2B (FORECAST -, PREVIOUS 449.6B) $MACRO
