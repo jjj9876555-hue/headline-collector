@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 01:52 JST／対象: 09/16 13:52 〜 09/17 01:52 JST（時刻はすべて日本時間）
+生成: 2026-09-17 02:04 JST／対象: 09/16 14:04 〜 09/17 02:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/16 19:06 | 09/17 01:09 | ⚠ 68分（22:37→23:46） |
-| FirstSquawk | 161 | 09/16 13:56 | 09/17 01:48 | 45分（17:00→17:45） |
-| financialjuice | 127 | 09/16 14:36 | 09/17 01:35 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 159 | 09/16 14:10 | 09/17 02:02 | 45分（17:00→17:45） |
+| financialjuice | 129 | 09/16 14:36 | 09/17 02:02 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 307 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 13:56 [FirstSquawk] NTT Docomo gave user data to Amazon Japan without consent: Kyodo Japan’s NTT Docomo provided user data to Amazon Japan’s local arm without obtaining users’ consent, according to Kyodo News.
-- 09/16 13:58 [FirstSquawk] Explosions reported in Kyiv, Ukrainian media says Ukrainian media reported sounds of explosions in Kyiv, without providing further details on the cause or location. The reports come amid continued security tensions in Ukraine, with authorit…
-- 09/16 14:03 [FirstSquawk] Equinor expects EU gas inventories to reach around 75% by November Equinor expects European Union gas storage inventories to reach around 75% of capacity by November, highlighting its outlook for regional gas supplies.
 - 09/16 14:10 [FirstSquawk] Polish airports in Lublin and Rzeszów closed amid military aviation operations Airports in Lublin and Rzeszów have been closed due to military aviation operations, Poland’s air navigation services agency PANSA said. The closures affect air …
 - 09/16 14:14 [FirstSquawk] Berenberg raises BioNTech target price to $140 from $132
 - 09/16 14:21 [FirstSquawk] 20-year JGB yield falls 3 bps to 3.855%
@@ -331,3 +328,6 @@
 - 09/17 01:35 [financialjuice] AWS' Desantis: Next Tranium chip to be very differentiated. $AMZN
 - 09/17 01:37 [FirstSquawk] SWEDISH CENTER-LEFT COALITION EXPECTED TO VICTORY IN ELECTIONS, SAYS SVT.
 - 09/17 01:48 [FirstSquawk] HYPERSCALER DEBT SIGNALS WARNING SIGN, APOLLO CAUTIONS - CNBC
+- 09/17 01:54 [financialjuice] Pakistan Foreign Ministry: While Pakistan navy was undertaking biennial exercise, Indian vessel carried out aggressive maneuvers in close proximity.
+- 09/17 02:02 [financialjuice] Iran's Rezai: We do not trust the US in any way.
+- 09/17 02:02 [FirstSquawk] FRENCH PM LECORNU REPORTEDLY SEEKING BUDGET ALIGNMENT WITH RN - LES ECHOS

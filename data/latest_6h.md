@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 01:52 JST／対象: 09/16 19:52 〜 09/17 01:52 JST（時刻はすべて日本時間）
+生成: 2026-09-17 02:04 JST／対象: 09/16 20:04 〜 09/17 02:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/16 20:00 | 09/17 01:09 | ⚠ 68分（22:37→23:46） |
-| FirstSquawk | 73 | 09/16 19:52 | 09/17 01:48 | 18分（00:24→00:43） |
-| financialjuice | 83 | 09/16 19:52 | 09/17 01:35 | 35分（00:12→00:47） |
+| DeItaone | 18 | 09/16 20:35 | 09/17 01:09 | ⚠ 68分（22:37→23:46） |
+| FirstSquawk | 71 | 09/16 20:08 | 09/17 02:02 | 18分（00:24→00:43） |
+| financialjuice | 78 | 09/16 20:04 | 09/17 02:02 | 35分（00:12→00:47） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 173 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 166 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 19:52 [financialjuice] UK PM Burnham: Chancellor and I will take these issues into account at the budget
-- 09/16 19:52 [financialjuice/FirstSquawk] UK PM Burnham: We are not a traditional tax and spend socialist government.
-- 09/16 19:52 [financialjuice] UK PM Burnham: We will take difficult decisions to keep the economy on track
-- 09/16 19:56 [FirstSquawk] UK PM BURNHAM: INFLATION IS A CONCERN, UK ECONOMY SHOWING RESILIENCE
-- 09/16 20:00 [DeItaone] LAVROV WARNS EUROPE AGAINST ATTACKING RUSSIA Russian Foreign Minister Sergey Lavrov says Moscow has no intention of attacking Europe, but issued a stark warning against any European strike on Russia. “If Europe attacks Russia, the war will …
-- 09/16 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -4.1% (FORECAST -, PREVIOUS -2.7%) $MACRO
-- 09/16 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 6.97% (FORECAST -, PREVIOUS 6.85%) $MACRO
-- 09/16 20:00 [financialjuice] US officials met Houthis in Oman over the weekend after an Iran-backed group seized a strategic stretch of the Red Sea coast - Sources
-- 09/16 20:01 [FirstSquawk] US OFFICIALS HELD TALKS WITH HOUTHIS IN OMAN AFTER THE IRAN-SUPPORTED GROUP TOOK CONTROL OF A KEY PART OF THE RED SEA COAST
-- 09/16 20:02 [financialjuice] IBM's Anderon finalizes agreement with u.s. Department of Commerce for a $1 billion Chips Act award - IBM
 - 09/16 20:04 [financialjuice] OpenAI in talks for new funding at $1.2T valuation - The Information
 - 09/16 20:08 [FirstSquawk] ARDAGH SAYS COURT BARS SALE OF ARDAGH METAL PACKAGING STAKE
 - 09/16 20:10 [financialjuice] Houthis told the US they remain committed to 2025 ceasefire - Sources
@@ -197,3 +187,6 @@
 - 09/17 01:35 [financialjuice] AWS' Desantis: Next Tranium chip to be very differentiated. $AMZN
 - 09/17 01:37 [FirstSquawk] SWEDISH CENTER-LEFT COALITION EXPECTED TO VICTORY IN ELECTIONS, SAYS SVT.
 - 09/17 01:48 [FirstSquawk] HYPERSCALER DEBT SIGNALS WARNING SIGN, APOLLO CAUTIONS - CNBC
+- 09/17 01:54 [financialjuice] Pakistan Foreign Ministry: While Pakistan navy was undertaking biennial exercise, Indian vessel carried out aggressive maneuvers in close proximity.
+- 09/17 02:02 [financialjuice] Iran's Rezai: We do not trust the US in any way.
+- 09/17 02:02 [FirstSquawk] FRENCH PM LECORNU REPORTEDLY SEEKING BUDGET ALIGNMENT WITH RN - LES ECHOS
