@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 13:52 JST／対象: 09/16 07:52 〜 09/16 13:52 JST（時刻はすべて日本時間）
+生成: 2026-09-16 14:05 JST／対象: 09/16 08:05 〜 09/16 14:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 116 | 09/16 08:13 | 09/16 13:49 | 12分（08:29→08:41） |
+| FirstSquawk | 119 | 09/16 08:13 | 09/16 14:03 | 12分（08:29→08:41） |
 | financialjuice | 43 | 09/16 08:07 | 09/16 10:21 | 22分（08:51→09:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 159 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -183,3 +183,6 @@
 - 09/16 13:38 [FirstSquawk] Federal investigation launched into cyberattack targeting two tankers: WSJ U.S. authorities are investigating what is believed to be a cyberattack targeting two tankers before their arrival in the United States, according to the Wall Street…
 - 09/16 13:45 [FirstSquawk] Asian stocks edge higher as markets await Fed decision Asian equities traded with modest gains on Wednesday, as investors remained cautious ahead of the Federal Reserve’s upcoming policy decision. Markets are closely watching the Fed outcom…
 - 09/16 13:49 [FirstSquawk] Amazon, Netflix and YouTube join forces to expand streaming choices: CNBC Amazon, Netflix and YouTube are joining hands in an effort to give viewers more choices across online streaming, according to CNBC.
+- 09/16 13:56 [FirstSquawk] NTT Docomo gave user data to Amazon Japan without consent: Kyodo Japan’s NTT Docomo provided user data to Amazon Japan’s local arm without obtaining users’ consent, according to Kyodo News.
+- 09/16 13:58 [FirstSquawk] Explosions reported in Kyiv, Ukrainian media says Ukrainian media reported sounds of explosions in Kyiv, without providing further details on the cause or location. The reports come amid continued security tensions in Ukraine, with authorit…
+- 09/16 14:03 [FirstSquawk] Equinor expects EU gas inventories to reach around 75% by November Equinor expects European Union gas storage inventories to reach around 75% of capacity by November, highlighting its outlook for regional gas supplies.
