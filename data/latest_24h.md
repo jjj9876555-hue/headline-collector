@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 21:32 JST／対象: 09/15 21:32 〜 09/16 21:32 JST（時刻はすべて日本時間）
+生成: 2026-09-16 21:51 JST／対象: 09/15 21:51 〜 09/16 21:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 52 | 09/15 21:54 | 09/16 20:44 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 403 | 09/15 21:36 | 09/16 21:31 | 45分（17:00→17:45） |
-| financialjuice | 272 | 09/15 21:45 | 09/16 21:32 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 53 | 09/15 21:54 | 09/16 21:33 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 397 | 09/15 21:57 | 09/16 21:45 | 45分（17:00→17:45） |
+| financialjuice | 275 | 09/15 21:53 | 09/16 21:51 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 711 行（統合前 730 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 709 行（統合前 728 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 21:36 [FirstSquawk] WELLS FARGO'S SANTOMASSIMO SAYS NET INTEREST MARGIN COULD BE BETTER THAN GUIDANCE IN Q3 || SAYS NO CHANGE TO FY26 NET INTEREST INCOME FORECAST
-- 09/15 21:36 [FirstSquawk] WELLS FARGO'S SANTOMASSIMO SAYS NOT SEEING CHANGES IN DELINQUENCY TRENDS || SAYS MIDDLE MARKET CUSTOMERS CONTINUE TO REMAIN CAUTIOUS || SAYS EXPECT THIS YEAR AND EARLY NEXT YEAR TO BE HEALTHY || ON LOAN GROWTH SAYS WILL LIKELY BE BETTER THA…
-- 09/15 21:36 [FirstSquawk] WELLS FARGO CFO MIKE SANTOMASSIMO SAYS ACTIVITY LEVEL IN U.S. ECONOMY STAYING STRONG || MIKE SANTOMASSIMO SPEAKS AT THE BARCLAYS GLOBAL FINANCIAL SERVICES CONFERENCE
-- 09/15 21:36 [FirstSquawk] WELLS FARGO CFO SANTOMASSIMO: NET INTEREST MARGIN COULD BE BETTER THAN GUIDANCE IN Q3
-- 09/15 21:37 [FirstSquawk] US EMPIRE MANUFACTURING SEP: 7.6 (EST 15.0; PREV 20.6)
-- 09/15 21:44 [FirstSquawk] UN SECURITY COUNCIL WILL MEET TODAY TO TALK ABOUT THE MIDDLE EAST AS HOUTHIS MOVE QUICKLY ALONG YEMEN'S RED SEA COAST, RAISING NEW CONCERNS FOR GLOBAL SHIPPING.
-- 09/15 21:45 [financialjuice] German Finance Minister Klingbeil on gasoline prices: We must now reduce the burden and find alternative funding.
-- 09/15 21:46 [FirstSquawk] OMAN, U.S. DISCUSS EFFORTS TO DE-ESCALATE REGIONAL TENSIONS - OMAN NEWS AGENCY
-- 09/15 21:48 [FirstSquawk] AI IS NOT LOYAL TO US: FORMER OPENAI RESEARCHER DANIEL KOKOTAJLO SOUNDS THE ALARM Former OpenAI researcher Daniel Kokotajlo has warned that artificial intelligence should not be viewed as inherently loyal or aligned with humanity. His comme…
-- 09/15 21:50 [FirstSquawk] S&P 500, NASDAQ 100 FUTURES TURN POSITIVE
 - 09/15 21:53 [financialjuice] Diplomatic sources confirm: Israel is assisting Saudi Arabia with intelligence gathering against the Houthis - Israel's Hayom News
 - 09/15 21:54 [financialjuice] Oman Foreign Minister, US Secretary of State discuss regional developments in phone call - Oman News Agency.
 - 09/15 21:54 [DeItaone] OMAN, U.S. DISCUSS REGIONAL DE-ESCALATION Oman’s Foreign Minister held a phone call with his U.S. counterpart to discuss rapidly evolving regional developments and efforts to reduce tensions and contain the fallout. The two also discussed c…
@@ -735,3 +725,11 @@
 - 09/16 21:30 [financialjuice] CANADIAN BUILDING PERMITS MOM ACTUAL -17.3% (FORECAST -4.8%, PREVIOUS 18.5% ,REVISION 18.3%) $MACRO
 - 09/16 21:31 [FirstSquawk] US ENERGY SEC. WRIGHT ON HORMUZ FLOW’S 7-DAY AVERAGE IS 11M BBL/DAY
 - 09/16 21:32 [financialjuice] US Retail Sales August Report
+- 09/16 21:33 [DeItaone] *US AUG. RETAIL SALES RISE 1.2% M/M; EST. +0.8% *US AUG. RETAIL 'CONTROL GROUP' SALES RISE 1.4% M/M; EST. +0.5%
+- 09/16 21:33 [financialjuice] US RETAIL SALES YOY ACTUAL 6.01% (FORECAST -, PREVIOUS 5.01%) $MACRO
+- 09/16 21:37 [FirstSquawk] SALESFORCE PLANNING TO BRING OPENAI MODELS TO GOVT ENVIRONMENTS
+- 09/16 21:44 [FirstSquawk] US MIDTERM ELECTIONS COULD IMPACT AI STOCKS AS MORE LAWMAKERS CALL FOR AI SAFETY REGULATIONS, RAISING CONCERNS.
+- 09/16 21:45 [FirstSquawk] US SAID TO ACCUSE N.KOREA OF 'SYSTEMIC EVASION' OF UN SANCTIONS
+- 09/16 21:49 [financialjuice] Iran, China foreign ministers discuss war, diplomatic solutions.
+- 09/16 21:51 [financialjuice] NYC council speaker asks Altman, Amodei to attend hearing - NYT.
+- 09/16 21:51 [financialjuice] NYC City Council plans public hearing on AI, October 5th - NYT
