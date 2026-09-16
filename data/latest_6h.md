@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 05:05 JST／対象: 09/16 23:05 〜 09/17 05:05 JST（時刻はすべて日本時間）
+生成: 2026-09-17 05:25 JST／対象: 09/16 23:25 〜 09/17 05:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 30 | 09/16 23:46 | 09/17 05:03 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 109 | 09/16 23:06 | 09/17 05:02 | 24分（04:23→04:47） |
-| financialjuice | 137 | 09/16 23:07 | 09/17 05:03 | 35分（00:12→00:47） |
+| FirstSquawk | 108 | 09/16 23:26 | 09/17 05:10 | 24分（04:23→04:47） |
+| financialjuice | 133 | 09/16 23:27 | 09/17 05:05 | 35分（00:12→00:47） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 266 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 261 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 23:06 [FirstSquawk] US SAYS BRAZIL FAILED TO CONFRONT PCC AND CV GROUPS
-- 09/16 23:06 [FirstSquawk] COINBASE EYES $70T US STOCK MARKET WITH FULLY BACKED TOKENIZED EQUITIES PUSH $COIN
-- 09/16 23:07 [financialjuice] US issues amended Venezuela-related general license authorizing certain deals related to Petroleos de Venezuela, S.A. 2020 8.5% bond on or after November 5th - Treasury website
-- 09/16 23:12 [FirstSquawk] US TREASURY: RUSSIA-RELATED DESIGNATIONS REMOVALS; COUNTER NARCOTICS DESIGNATION REMOVAL; ISSUANCE OF AMENDED VENEZUELA GENERAL LICENSE - OFAC
-- 09/16 23:12 [FirstSquawk] VENEZUELA REPORTEDLY READIES ALUMINIUM SHIPMENT FOR THE US MARKET
-- 09/16 23:18 [financialjuice] Crypto Fear & Greed Index: 51/100 - Neutral
-- 09/16 23:18 [financialjuice] Fear & Greed Index: 30/100 - Fear
-- 09/16 23:19 [financialjuice] ECB's Pereira: One area I'm watching closely is natural gas prices, especially if we have a cold winter.
-- 09/16 23:24 [financialjuice] UK's PM Burnham's Brexit Britain smarts from EU-Canada love-in.
 - 09/16 23:26 [FirstSquawk] BURNHAM'S BREXIT BRITAIN FEELS PAIN FROM EU-CANADA RELATIONSHIP.
 - 09/16 23:27 [financialjuice] Pentagon's Michael on CNBC: AI firms not investing enough in safety.
 - 09/16 23:28 [financialjuice] ECB's Pereira: So far inflation not broadening in the economy as widely as in the past, but something we will be watching in coming months
@@ -290,3 +281,7 @@
 - 09/17 05:02 [FirstSquawk] JAPAN’S U.S. TREASURY HOLDINGS FELL TO $1.104 TRILLION, CHINA’S TO $618 BILLION, WHILE THE UK’S HOLDINGS ROSE TO $998 BILLION IN JULY.
 - 09/17 05:03 [financialjuice] Japan's US Treasury holdings $1.104 trln in July vs $1.117 trln in June.
 - 09/17 05:03 [DeItaone] STOCKS DROP AS FED HIKES AND SIGNALS MORE TIGHTENING U.S. stocks reversed earlier gains after the Fed delivered its first rate hike in more than three years and signaled further tightening is likely. The S&P 500 fell 0.43% and Dow dropped 1…
+- 09/17 05:05 [financialjuice] Stocks Sink to Lowest Since July as Fed Signals Further Tightening – US Market Wrap
+- 09/17 05:10 [FirstSquawk] WALL STREET STOCKS FELL AFTER THE FEDERAL RESERVE RAISED ITS BENCHMARK RATE BY 25 BASIS POINTS TO 3.75%–4%, MARKING ITS FIRST HIKE IN THREE YEARS. THE S&P 500 DROPPED 0.45%, WHILE THE DOW FELL 1.2%, AS TRADERS INCREASED BETS THAT THE FED CO…
+- 09/17 05:10 [FirstSquawk] FED CHAIR KEVIN WARSH EMPHASIZED THAT INFLATION REMAINS TOO HIGH, WITH MULTIPLE CATEGORIES OF GOODS AND SERVICES RECORDING PRICE INCREASES ABOVE 3% OVER SIX- AND 12-MONTH PERIODS. THE DOT PLOT POINTED TO ONE MORE HIKE THIS YEAR, WHILE STRON…
+- 09/17 05:10 [FirstSquawk] MARKETS REACTED WITH HIGHER SHORT-TERM TREASURY YIELDS AND A STRONGER DOLLAR. THE 2-YEAR TREASURY YIELD ROSE 7 BASIS POINTS TO 4.74%, WHILE THE DOLLAR INDEX GAINED 0.5%. OIL FELL 3.6% TO $102.05, GOLD SLIPPED 0.5% TO $4,269.95, WHILE BITCOI…
