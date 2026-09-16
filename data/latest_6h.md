@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 16:52 JST／対象: 09/16 10:52 〜 09/16 16:52 JST（時刻はすべて日本時間）
+生成: 2026-09-16 17:06 JST／対象: 09/16 11:06 〜 09/16 17:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 106 | 09/16 10:53 | 09/16 16:49 | 14分（15:53→16:07） |
-| financialjuice | 23 | 09/16 14:36 | 09/16 16:44 | 40分（15:13→15:53） |
+| FirstSquawk | 113 | 09/16 11:08 | 09/16 17:00 | 14分（15:53→16:07） |
+| financialjuice | 30 | 09/16 14:36 | 09/16 17:01 | 40分（15:13→15:53） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 129 行（統合前 130 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 10:53 [FirstSquawk] Japan’s Prime Minister Sanae Takaichi says she will reshuffle cabinet personnel on Thursday. The planned changes put Japan’s government lineup in focus as markets monitor the direction of economic and policy priorities under the Takaichi ad…
-- 09/16 10:59 [FirstSquawk] The Philippine benchmark stock index fell as much as 1.2% to 5,933.27, hitting its lowest level since June 11. The decline puts the index at a multi-month low as investors assess the latest developments across Philippine financial markets.
 - 09/16 11:08 [FirstSquawk] The Indonesian rupiah has weakened to 17,740 per U.S. dollar, its lowest level since September 2. The move puts the currency at a fresh September low as traders monitor broader dollar strength and developments in Asian foreign-exchange mark…
 - 09/16 11:17 [FirstSquawk] Japan’s Prime Minister says the government and ruling party will work to overcome the current difficult situation through an executive reshuffle. The comments come as Tokyo prepares changes to the government and ruling-party leadership, put…
 - 09/16 11:18 [FirstSquawk] Asia’s AI boom is running into a new bottleneck: talent. Chipmakers are racing to expand capacity and accelerate AI development, but the shortage of skilled engineers is becoming an increasingly important constraint. The AI race is no longe…
@@ -153,3 +151,19 @@
 - 09/16 16:44 [financialjuice] EU to announce initiatives in November for industrial AI in health, transport, agri-food, advanced manufacturing, defence and space.
 - 09/16 16:49 [FirstSquawk] VON DER LEYEN TARGETS €12B INVESTMENT FOR CONNECTIVITY CORRIDOR.
 - 09/16 16:49 [FirstSquawk] VON DER LEYEN ANNOUNCED A NEW CORRIDOR TO CONNECT THE EU WITH THE SOUTH CAUCASUS AND CENTRAL ASIA.
+- 09/16 16:53 [financialjuice] EC Pres. von der Leyen: We want to open the door for Canada to the first associate member of the EU.
+- 09/16 16:55 [FirstSquawk] VON DER LEYEN ANNOUNCES SHIFT FROM TRADE DEAL WITH CANADA TO A FUTURE ALLIANCE, AIMING TO ESTABLISH COMMON PROSPERITY AND ECONOMIC SECURITY IN MANUFACTURING, TECHNOLOGY, ENERGY, AI, DEFENSE, AND THE ARCTIC.
+- 09/16 16:55 [FirstSquawk] VON DER LEYEN SAYS WE AIM TO ELEVATE TIES WITH CANADA AND MAKE IT THE FIRST ASSOCIATE MEMBER OF THE EU.
+- 09/16 16:55 [FirstSquawk] VON DER LEYEN SUGGESTS CANADA COULD BECOME THE FIRST ASSOCIATE MEMBER OF THE EU.
+- 09/16 16:55 [FirstSquawk] VON DER LEYEN STATES THAT THREATS ARE INCREASING IN EUROPE AND DESCRIBES THE LEIPZIG INCIDENT AS AN ATTACK BY RUSSIAN OPERATIVES USING MILITARY-QUALITY MATERIAL ON EUROPEAN TERRITORY.
+- 09/16 16:55 [FirstSquawk] VON DER LEYEN SAYS EUROPE FACES FEWER HYBRID THREATS, BUT CYBERATTACKS, SABOTAGE, ARSON, AND DRONE INCURSIONS ARE INCREASING DAILY. SHE STRESSES THAT EUROPE MUST BE MORE PREPARED AS THREAT LEVELS RISE.
+- 09/16 16:57 [FirstSquawk] EUROPE NEEDS AN EMERGENCY SECURITY PROTOCOL, SAYS VON DER LEYEN, TO GATHER ALL MEMBER STATES WHEN ACTIVATED.
+- 09/16 16:57 [financialjuice] ITALIAN HICP FINAL YOY ACTUAL 3.2% (FORECAST 3.2%, PREVIOUS 3.2%) $MACRO
+- 09/16 16:57 [financialjuice] ITALIAN CPI MOM FINAL ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.5%) $MACRO
+- 09/16 16:57 [financialjuice] ITALIAN HICP FINAL MOM ACTUAL 0.1% (FORECAST 0.1%, PREVIOUS 0.1%) $MACRO
+- 09/16 16:57 [financialjuice] ITALIAN CPI YOY FINAL ACTUAL 3.3% (FORECAST 3.3%, PREVIOUS 3.3%) $MACRO
+- 09/16 16:57 [FirstSquawk] VON DER LEYEN ANNOUNCES PLANS TO ESTABLISH A EUROPEAN SECURITY COUNCIL.
+- 09/16 16:59 [FirstSquawk] EU PRESIDENT VON DER LEYEN INTRODUCES A NEW TOOL FOR MILITARY STRATEGIC SUPPORT.
+- 09/16 17:00 [FirstSquawk] EU'S VON DER LEYEN PROMISES STRONGEST SUPPORT FOR UKRAINE DURING HARDEST WINTER OF THE WAR.
+- 09/16 17:00 [financialjuice] ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth.
+- 09/16 17:01 [financialjuice] ECB sees wage growth at 2.7% in 1q 2027, 2.8% in 2q 2027.
