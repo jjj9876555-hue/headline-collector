@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 02:04 JST／対象: 09/16 02:04 〜 09/17 02:04 JST（時刻はすべて日本時間）
+生成: 2026-09-17 02:23 JST／対象: 09/16 02:23 〜 09/17 02:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/16 02:04 | 09/17 01:09 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 362 | 09/16 02:06 | 09/17 02:02 | 45分（17:00→17:45） |
-| financialjuice | 237 | 09/16 02:07 | 09/17 02:02 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 29 | 09/16 03:03 | 09/17 02:22 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 352 | 09/16 02:23 | 09/17 02:22 | 45分（17:00→17:45） |
+| financialjuice | 231 | 09/16 02:53 | 09/17 02:22 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 617 行（統合前 631 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 604 行（統合前 614 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 02:04 [DeItaone] *US 20Y BONDS DRAW 5.420% VS 5.400% PRE-SALE WHEN-ISSUED YIELD
-- 09/16 02:06 [DeItaone] U.S. 20-YEAR TREASURY YIELD HITS 5.42% The Treasury’s $13 billion 20-year bond auction cleared at a high yield of 5.420%, highlighting elevated long-term borrowing costs. Demand remained solid, with a 2.57 bid-to-cover ratio, while indirect…
-- 09/16 02:06 [FirstSquawk] AMAZON HAS LAUNCHED A FIVE-SERVICE STREAMING BUNDLE ON PRIME VIDEO IN THE U.S. FOR $29.99/MONTH STARTING SEPT. 15, 2026, COMBINING AMC+, BRITBOX, MGM+, PBS MASTERPIECE AND STARZ - WEBSITE
-- 09/16 02:07 [financialjuice] US prepares sale of 2,000-pound bombs to Israel - WaPo
-- 09/16 02:07 [FirstSquawk] U.S. 20-YEAR BOND SALE DREW A HIGH YIELD OF 5.420%, UP FROM 5.204% PREVIOUSLY AND ABOVE THE 5.40% WHEN-ISSUED LEVEL, WITH A BID-TO-COVER RATIO OF 2.57 VERSUS 2.53. DIRECT BIDDERS TOOK 30.7% VERSUS 24.6% PREVIOUSLY, WITH INDIRECT BIDDERS AT …
-- 09/16 02:07 [financialjuice/FirstSquawk] Israel's Chief of Staff met with military commanders from Gulf countries - Israel's N12 News
-- 09/16 02:08 [FirstSquawk] U.S. IS PREPARING A SALE OF 2,000-POUND BOMBS TO ISRAEL - WAPO
-- 09/16 02:08 [financialjuice/FirstSquawk] Germany’s Chancellor Merz cancels trip to New York next week. To remain in Berlin - Govt Officials
-- 09/16 02:12 [FirstSquawk] GOOGLE SAYS INTRODUCING GEMINI 3.8 LIVE AND 3.8 LIVE EXTENDED THINKING, AS PER WEBSITE
-- 09/16 02:13 [financialjuice] IAEA Spokesperson Kamalvandi: Iran will not surrender. our nuclear program is peaceful.
-- 09/16 02:13 [FirstSquawk] OIL FUTURES EXTEND GAINS, WITH U.S. CRUDE UP BY $5 A BARREL AS SAUDI ARABIA CANCELS SOME OIL CARGOES AND SUSPENDS LOADINGS AT YANBU AFTER THE PIPELINE HIT
-- 09/16 02:14 [FirstSquawk] GOOGLE SAYS PARTNERING WITH COMPANIES LIKE SALESFORCE, GENSPARK, AND LUMERIS FOR 3.8 LIVE AND 3.8 LIVE EXTENDED THINKING
-- 09/16 02:14 [FirstSquawk] IAEA SPOKESPERSON KAMALVANDI SAYS 'IRAN WILL NOT SURRENDER' AND THAT 'OUR NUCLEAR PROGRAM IS PEACEFUL'
-- 09/16 02:19 [financialjuice] Israel helping Saudi Arabia with intelligence is aimed at ensuring freedom of navigation in the Bab al-Mandab Strait - Israel's Kan News citing foreign source
-- 09/16 02:19 [FirstSquawk] ISRAEL HELPING SAUDI ARABIA WITH INTELLIGENCE IS AIMED AT ENSURING FREEDOM OF NAVIGATION IN THE BAB AL-MANDAB STRAIT - ISRAEL'S KAN NEWS, CITING A FOREIGN SOURCE
-- 09/16 02:20 [financialjuice/FirstSquawk] Canada's Resources Minister Tim Hodgson: Canada aiming to complete energy-, mining-project reviews within 12 months.
-- 09/16 02:20 [financialjuice/FirstSquawk] Canada's Resources Minister Tim Hodgson: Canada tax changes to serve as investment ‘motivator’ in commodity sector.
 - 09/16 02:23 [FirstSquawk] U.S. SENATOR SANDERS CALLS FOR MANDATORY SAFETY REGULATIONS FOR AI DEVELOPMENT INSTEAD OF JUST SUGGESTIONS
 - 09/16 02:24 [FirstSquawk] U.S. SENATOR SANDERS CALLS ON AI CEOS TO STOP FUNDING POLITICIANS WHO OPPOSE REGULATIONS
 - 09/16 02:25 [FirstSquawk] OPENAI IS EXPLORING DATA CENTER PARTNERSHIPS IN CANADA, CITING THE COUNTRY'S ABUNDANT ENERGY, LAND AND GROWING AI INFRASTRUCTURE OPPORTUNITIES UNDER PRIME MINISTER MARK CARNEY'S STRATEGY.
@@ -641,3 +624,7 @@
 - 09/17 01:54 [financialjuice] Pakistan Foreign Ministry: While Pakistan navy was undertaking biennial exercise, Indian vessel carried out aggressive maneuvers in close proximity.
 - 09/17 02:02 [financialjuice] Iran's Rezai: We do not trust the US in any way.
 - 09/17 02:02 [FirstSquawk] FRENCH PM LECORNU REPORTEDLY SEEKING BUDGET ALIGNMENT WITH RN - LES ECHOS
+- 09/17 02:22 [financialjuice] Google, DeepMind launch institute to explore AGI - Axios. $GOOGL
+- 09/17 02:22 [FirstSquawk] GOOGLE, DEEPMIND LAUNCH INSTITUTE TO EXPLORE AGI - AXIOS.
+- 09/17 02:22 [FirstSquawk] ADIDAS SAYS ON INDIA TECH JOB CUTS THAT THE IMPACT OF THE CHANGES IS LESS THAN 20% OF ITS INDIA TECHNOLOGY ORGANIZATION
+- 09/17 02:22 [DeItaone] ATLANTA FED GDPNOW SURGES ABOVE 5% The Atlanta Fed’s GDPNow estimate for Q3 growth jumped to 5.1% from 4.42%, driven largely by stronger consumer spending after today’s retail sales data. Real consumption is now expected to contribute 2.83 …

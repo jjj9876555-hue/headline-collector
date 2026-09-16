@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 02:04 JST／対象: 09/16 20:04 〜 09/17 02:04 JST（時刻はすべて日本時間）
+生成: 2026-09-17 02:23 JST／対象: 09/16 20:23 〜 09/17 02:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 09/16 20:35 | 09/17 01:09 | ⚠ 68分（22:37→23:46） |
-| FirstSquawk | 71 | 09/16 20:08 | 09/17 02:02 | 18分（00:24→00:43） |
-| financialjuice | 78 | 09/16 20:04 | 09/17 02:02 | 35分（00:12→00:47） |
+| DeItaone | 19 | 09/16 20:35 | 09/17 02:22 | ⚠ 72分（01:09→02:22） |
+| FirstSquawk | 70 | 09/16 20:32 | 09/17 02:22 | 19分（02:02→02:22） |
+| financialjuice | 76 | 09/16 20:34 | 09/17 02:22 | 35分（00:12→00:47） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 166 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 164 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 20:04 [financialjuice] OpenAI in talks for new funding at $1.2T valuation - The Information
-- 09/16 20:08 [FirstSquawk] ARDAGH SAYS COURT BARS SALE OF ARDAGH METAL PACKAGING STAKE
-- 09/16 20:10 [financialjuice] Houthis told the US they remain committed to 2025 ceasefire - Sources
-- 09/16 20:12 [FirstSquawk] HOUTHIS CONFIRM COMMITMENT TO CEASEFIRE
-- 09/16 20:18 [financialjuice] UK's PM Burnham shelves plans for UK investment summit this year - Sky
-- 09/16 20:21 [FirstSquawk] BURNHAM TO DELAY FLAGSHIP INVESTMENT SUMMIT UNTIL NEXT YEAR – SKY
 - 09/16 20:32 [FirstSquawk] HOUTHIS TOLD U.S. OFFICIALS THEY WILL AVOID ATTACKING ISRAELI VESSELS.
 - 09/16 20:34 [financialjuice] House democrats press to stay in session for AI - Politico
 - 09/16 20:35 [DeItaone] MICHAEL BURRY JOINS NEW SHORT-FOCUSED FUND “Big Short” investor Michael Burry is joining Minerva Investment Management as senior adviser to help launch a new short-biased fund expected within a month. Burry has recently targeted AI hypersca…
@@ -190,3 +184,7 @@
 - 09/17 01:54 [financialjuice] Pakistan Foreign Ministry: While Pakistan navy was undertaking biennial exercise, Indian vessel carried out aggressive maneuvers in close proximity.
 - 09/17 02:02 [financialjuice] Iran's Rezai: We do not trust the US in any way.
 - 09/17 02:02 [FirstSquawk] FRENCH PM LECORNU REPORTEDLY SEEKING BUDGET ALIGNMENT WITH RN - LES ECHOS
+- 09/17 02:22 [financialjuice] Google, DeepMind launch institute to explore AGI - Axios. $GOOGL
+- 09/17 02:22 [FirstSquawk] GOOGLE, DEEPMIND LAUNCH INSTITUTE TO EXPLORE AGI - AXIOS.
+- 09/17 02:22 [FirstSquawk] ADIDAS SAYS ON INDIA TECH JOB CUTS THAT THE IMPACT OF THE CHANGES IS LESS THAN 20% OF ITS INDIA TECHNOLOGY ORGANIZATION
+- 09/17 02:22 [DeItaone] ATLANTA FED GDPNOW SURGES ABOVE 5% The Atlanta Fed’s GDPNow estimate for Q3 growth jumped to 5.1% from 4.42%, driven largely by stronger consumer spending after today’s retail sales data. Real consumption is now expected to contribute 2.83 …

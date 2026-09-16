@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 02:04 JST／対象: 09/16 14:04 〜 09/17 02:04 JST（時刻はすべて日本時間）
+生成: 2026-09-17 02:23 JST／対象: 09/16 14:23 〜 09/17 02:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/16 19:06 | 09/17 01:09 | ⚠ 68分（22:37→23:46） |
-| FirstSquawk | 159 | 09/16 14:10 | 09/17 02:02 | 45分（17:00→17:45） |
-| financialjuice | 129 | 09/16 14:36 | 09/17 02:02 | ⚠ 50分（19:01→19:52） |
+| DeItaone | 22 | 09/16 19:06 | 09/17 02:22 | ⚠ 72分（01:09→02:22） |
+| FirstSquawk | 158 | 09/16 14:23 | 09/17 02:22 | 45分（17:00→17:45） |
+| financialjuice | 130 | 09/16 14:36 | 09/17 02:22 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 307 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 308 行（統合前 310 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 14:10 [FirstSquawk] Polish airports in Lublin and Rzeszów closed amid military aviation operations Airports in Lublin and Rzeszów have been closed due to military aviation operations, Poland’s air navigation services agency PANSA said. The closures affect air …
-- 09/16 14:14 [FirstSquawk] Berenberg raises BioNTech target price to $140 from $132
-- 09/16 14:21 [FirstSquawk] 20-year JGB yield falls 3 bps to 3.855%
 - 09/16 14:23 [FirstSquawk] French utility EDF will reduce output at its Bugey 2 nuclear reactor to 180 MW from 00:15 to 22:00 on September 17, 2026.
 - 09/16 14:31 [FirstSquawk] China’s slower pace of loan growth is becoming the “new normal,” the central bank governor said, signaling a shift in credit expansion dynamics.
 - 09/16 14:36 [financialjuice] SK Hynix and Intel are in talks to make memory chips in the US - Sources
@@ -331,3 +328,7 @@
 - 09/17 01:54 [financialjuice] Pakistan Foreign Ministry: While Pakistan navy was undertaking biennial exercise, Indian vessel carried out aggressive maneuvers in close proximity.
 - 09/17 02:02 [financialjuice] Iran's Rezai: We do not trust the US in any way.
 - 09/17 02:02 [FirstSquawk] FRENCH PM LECORNU REPORTEDLY SEEKING BUDGET ALIGNMENT WITH RN - LES ECHOS
+- 09/17 02:22 [financialjuice] Google, DeepMind launch institute to explore AGI - Axios. $GOOGL
+- 09/17 02:22 [FirstSquawk] GOOGLE, DEEPMIND LAUNCH INSTITUTE TO EXPLORE AGI - AXIOS.
+- 09/17 02:22 [FirstSquawk] ADIDAS SAYS ON INDIA TECH JOB CUTS THAT THE IMPACT OF THE CHANGES IS LESS THAN 20% OF ITS INDIA TECHNOLOGY ORGANIZATION
+- 09/17 02:22 [DeItaone] ATLANTA FED GDPNOW SURGES ABOVE 5% The Atlanta Fed’s GDPNow estimate for Q3 growth jumped to 5.1% from 4.42%, driven largely by stronger consumer spending after today’s retail sales data. Real consumption is now expected to contribute 2.83 …
