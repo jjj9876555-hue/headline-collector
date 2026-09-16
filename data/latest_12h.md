@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 07:50 JST／対象: 09/16 19:50 〜 09/17 07:50 JST（時刻はすべて日本時間）
+生成: 2026-09-17 08:00 JST／対象: 09/16 20:00 〜 09/17 08:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 48 | 09/16 20:00 | 09/17 07:47 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 197 | 09/16 19:51 | 09/17 07:47 | 32分（05:10→05:42） |
-| financialjuice | 200 | 09/16 19:52 | 09/17 07:45 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 196 | 09/16 20:01 | 09/17 07:53 | 32分（05:10→05:42） |
+| financialjuice | 196 | 09/16 20:00 | 09/17 07:45 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 431 行（統合前 449 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 427 行（統合前 444 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 19:51 [FirstSquawk] GOLD MINE COLLAPSE IN SUDAN RESULTS IN AT LEAST 67 DEATHS, REPORTS FROM A MEDICAL ORGANIZATION AND SURVIVORS CONFIRM.
-- 09/16 19:52 [financialjuice] UK PM Burnham: Inflation is a concern, but the UK economy is showing resilience
-- 09/16 19:52 [financialjuice] UK PM Burnham: Chancellor and I will take these issues into account at the budget
-- 09/16 19:52 [financialjuice/FirstSquawk] UK PM Burnham: We are not a traditional tax and spend socialist government.
-- 09/16 19:52 [financialjuice] UK PM Burnham: We will take difficult decisions to keep the economy on track
-- 09/16 19:56 [FirstSquawk] UK PM BURNHAM: INFLATION IS A CONCERN, UK ECONOMY SHOWING RESILIENCE
 - 09/16 20:00 [DeItaone] LAVROV WARNS EUROPE AGAINST ATTACKING RUSSIA Russian Foreign Minister Sergey Lavrov says Moscow has no intention of attacking Europe, but issued a stark warning against any European strike on Russia. “If Europe attacks Russia, the war will …
 - 09/16 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -4.1% (FORECAST -, PREVIOUS -2.7%) $MACRO
 - 09/16 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 6.97% (FORECAST -, PREVIOUS 6.85%) $MACRO
@@ -455,3 +449,5 @@
 - 09/17 07:45 [financialjuice] ❗ NEW ZEALAND EXPENDITURE GDP QOQ ACTUAL 0.4% (FORECAST -, PREVIOUS 1.0%) $MACRO
 - 09/17 07:47 [FirstSquawk] NEW ZEALAND DOLLAR FIRMS TO $0.5724 AFTER GDP GROWTH TOPS FORECASTS
 - 09/17 07:47 [DeItaone] *TRUMP, ASKED WHETHER HE STILL HAS CONFIDENCE IN WARSH: I DO
+- 09/17 07:52 [FirstSquawk] US HOUSE HAS ENOUGH VOTES TO PASS DATA CENTER COST BILL; VOTING CONTINUES
+- 09/17 07:53 [FirstSquawk] US HOUSE PASSES BILL TO SHIFT ELECTRICAL GRID UPGRADE COSTS TO DATA CENTERS
