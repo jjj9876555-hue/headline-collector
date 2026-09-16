@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 03:53 JST／対象: 09/16 21:53 〜 09/17 03:53 JST（時刻はすべて日本時間）
+生成: 2026-09-17 04:06 JST／対象: 09/16 22:06 〜 09/17 04:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/16 21:53 | 09/17 03:48 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 104 | 09/16 21:57 | 09/17 03:51 | 21分（02:39→03:00） |
-| financialjuice | 134 | 09/16 21:58 | 09/17 03:51 | 35分（00:12→00:47） |
+| DeItaone | 28 | 09/16 22:20 | 09/17 03:48 | ⚠ 72分（01:09→02:22） |
+| FirstSquawk | 113 | 09/16 22:06 | 09/17 04:02 | 21分（02:39→03:00） |
+| financialjuice | 135 | 09/16 22:09 | 09/17 04:02 | 35分（00:12→00:47） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 263 行（統合前 271 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 270 行（統合前 278 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 21:53 [DeItaone] MARKETS MAY BE PRICING TOO MANY RATE HIKES Markets now expect four 25bp Fed hikes over the next year, taking rates to roughly 4.6%, as surging energy prices revive inflation fears. Traders also see the ECB reaching 3.25% and BoE 4.75%. Reut…
-- 09/16 21:57 [DeItaone] YARDENI SLASHES S&P 500 TARGET Wall Street bull Ed Yardeni cut his year-end S&P 500 target to 7,900 from 8,400, citing rising bond yields and increased downturn risks over the next 3–6 months. He lowered his expected forward P/E multiple to…
-- 09/16 21:57 [FirstSquawk] US STRATEGIC PETROLEUM RESERVE CRUDE OIL STOCKS DECLINE TO LOWEST LEVEL SINCE 1982.
-- 09/16 21:58 [financialjuice] US-contracted vessel hit in Iranian attack this week - Fox News
-- 09/16 21:58 [FirstSquawk] US-CONTRACTED VESSEL HIT IN IRANIAN ATTACK THIS WEEK
-- 09/16 22:00 [FirstSquawk] VESSEL STRUCK AROUND THE HORMUZ STRAIT: FOX
-- 09/16 22:00 [financialjuice] Effective Fed Funds Rate 3.63% September 15 vs 3.63% September 14.
-- 09/16 22:00 [financialjuice] While Iran is prepared to defend against aggressors, it welcomes diplomatic solutions, Iranian foreign minister tells Chinese counterpart - Iranian state media
-- 09/16 22:01 [DeItaone] IRANIAN ATTACK HITS U.S.-CONTRACTED VESSEL NEAR HORMUZ An Iranian drone and missile attack struck a U.S.-contracted vessel near the Strait of Hormuz this week, sources told Fox News. The reported strike comes amid persistent threats to comm…
-- 09/16 22:03 [financialjuice] Apple has been developing enterprise server - The Information. $AAPL
-- 09/16 22:04 [FirstSquawk/financialjuice] APPLE HAS TALKED WITH NVIDIA TO USE NETWORK TECH: INFORMATION
-- 09/16 22:05 [FirstSquawk] APPLE CONSIDERS RETURN TO SERVER MARKET, HAS TALKED WITH NVIDIA TO USE NETWORK TECH - INFORMATION
 - 09/16 22:06 [FirstSquawk] TURKISH STOCKS FALL 6%, TRIGGERING MARKET-WIDE CIRCUIT BREAKER
 - 09/16 22:08 [FirstSquawk] INFINEON TO SELL NOR FLASH, F-RAM OPS TO WINBOND FOR $1.12B
 - 09/16 22:09 [financialjuice] Nvidia: Emerald AI, Google & Nvidia launch alliance and are to advance flexible AI data centers $NVDA
@@ -287,3 +275,22 @@
 - 09/17 03:51 [FirstSquawk] FED’S WARSH SAYS THE ECONOMY IS MORE OR LESS AT FULL EMPLOYMENT AND THE FED TOOK A STEP TOWARD RESTORING PRICE STABILITY, WHILE DECLINING TO COMMENT ON DISCUSSIONS WITH THE PRESIDENT.
 - 09/17 03:51 [financialjuice] Fed's Chair Warsh declines to comment on ECB and other central banks' policy.
 - 09/17 03:51 [FirstSquawk] FED'S WARSH SAYS STABLE PRICES CAN HELP WORKERS GAIN REAL TAKE-HOME PAY, ADDING THAT OTHER ADVANCED ECONOMIES ARE ALSO FACING PRICE PRESSURES.
+- 09/17 03:54 [financialjuice] Fed's Chair Warsh: I see 3 reasons bond yields have risen: the first is economic strength, the second is competition for capital, the surge in CAPEX is real, and the third is geopolitics.
+- 09/17 03:55 [FirstSquawk] FED’S WARSH SAYS THE ECONOMY HAS STRENGTHENED, BUT INFLATION REMAINS THE KEY PROBLEM.
+- 09/17 03:55 [FirstSquawk] FED'S WARSH SAYS PRICE STABILITY IS FOUNDATIONAL TO ECONOMIC GROWTH, ADDING THAT TODAY’S POLICY STEP MOVES THE FED TOWARD DELIVERING IT.
+- 09/17 03:55 [FirstSquawk] FED’S WARSH SAYS BOND YIELDS HAVE RISEN FOR THREE REASONS: ECONOMIC STRENGTH, COMPETITION FOR CAPITAL AND GEOPOLITICAL DEVELOPMENTS.
+- 09/17 03:55 [FirstSquawk] FED'S WARSH SAYS A SURGE IN CAPEX IS REAL, WHILE GLOBAL HOT SPOTS ARE ALSO DRIVING ECONOMIC AND FINANCIAL ACTIVITY.
+- 09/17 03:55 [FirstSquawk] SPACEXAI INTRODUCES GROK MEMORY FEATURE TO BOOST SESSION CONTINUITY
+- 09/17 03:57 [FirstSquawk] US STOCKS MIXED AS WARSH SPEAKS: S&P 500 -0.3%, NASDAQ +0.1%
+- 09/17 03:57 [financialjuice] Fed's Chair Warsh: We care very much about what's happening in AI.
+- 09/17 03:57 [FirstSquawk] BOEING CEO DOWNSIZES EXPECTATIONS FOR CHINA JET ORDER AT UPCOMING TRUMP-XI SUMMIT
+- 09/17 03:58 [financialjuice] Fed's Chair Warsh: The taskforce should report to us about AI by the year-end.
+- 09/17 03:59 [financialjuice] Fed's Chair Warsh: I don't believe we need to do harm to the job market to achieve our objective.
+- 09/17 03:59 [FirstSquawk] US 10-YEAR TREASURY YIELD RISES TO 5.002% AS WARSH SPEAKS, SIGNALING HIGHER RATE PRESSURE
+- 09/17 04:00 [financialjuice] Fed's Chair Warsh ends press conference.
+- 09/17 04:00 [FirstSquawk] FED’S WARSH SAYS TODAY’S ACTION SHOWS THE FED IS SERIOUS ABOUT PRICE STABILITY, ADDING THAT THE FED DOES NOT NEED TO HARM THE JOB MARKET TO ACHIEVE ITS OBJECTIVES.
+- 09/17 04:00 [FirstSquawk] FED'S WARSH SAYS THE FED’S ROLE IS TO ENSURE PRICE STABILITY SO DURABLE ECONOMIC GROWTH CAN CONTINUE, WHILE DECISIONS ON AI RISKS AND REWARDS BELONG TO OTHER POLICYMAKERS.
+- 09/17 04:00 [FirstSquawk] FED’S WARSH ENDS PRESS CONFERENCE — MARKETS NOW ASSESS RATE PATH & POLICY SIGNALS
+- 09/17 04:01 [FirstSquawk] US STOCKS EXTEND SELLOFF; DOW JONES FALLS 1.0%
+- 09/17 04:01 [FirstSquawk] BOEING CEO WARNS SPEEA STRIKE WOULD SHUT DOWN 777X CERTIFICATION PROGRAM UNTIL ENGINEERS RETURN
+- 09/17 04:02 [financialjuice/FirstSquawk] ❗ Traders price in about a 50% chance of a Fed rate hike in October.

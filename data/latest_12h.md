@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 03:53 JST／対象: 09/16 15:53 〜 09/17 03:53 JST（時刻はすべて日本時間）
+生成: 2026-09-17 04:06 JST／対象: 09/16 16:06 〜 09/17 04:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/16 19:06 | 09/17 03:48 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 183 | 09/16 16:07 | 09/17 03:51 | 45分（17:00→17:45） |
-| financialjuice | 199 | 09/16 15:53 | 09/17 03:51 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 197 | 09/16 16:07 | 09/17 04:02 | 45分（17:00→17:45） |
+| financialjuice | 203 | 09/16 16:25 | 09/17 04:02 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 413 行（統合前 422 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 430 行（統合前 440 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 15:53 [financialjuice] The EU are to call for a European Security Council in new defense plan
-- 09/16 16:01 [financialjuice] Currency Strength Chart: Strongest: GBP, EUR, CHF, GBP, AUD, USD, EUR, CAD - Weakest
 - 09/16 16:07 [FirstSquawk] RUSSIA WILL CONTINUE ITS DIESEL EXPORT BAN UNTIL OCTOBER, ACCORDING TO VEDOMOSTI.
 - 09/16 16:07 [FirstSquawk] NASDAQ 100 FUTURES RISE BY 0.5%, REACHING SESSION PEAK.
 - 09/16 16:13 [FirstSquawk] EU COMMISSION PRESIDENT URSULA VON DER LEYEN SAYS A MORE POWERFUL AND SELF-SUFFICIENT EUROPE IS FORMING - STATE OF THE UNION.
@@ -437,3 +435,22 @@
 - 09/17 03:51 [FirstSquawk] FED’S WARSH SAYS THE ECONOMY IS MORE OR LESS AT FULL EMPLOYMENT AND THE FED TOOK A STEP TOWARD RESTORING PRICE STABILITY, WHILE DECLINING TO COMMENT ON DISCUSSIONS WITH THE PRESIDENT.
 - 09/17 03:51 [financialjuice] Fed's Chair Warsh declines to comment on ECB and other central banks' policy.
 - 09/17 03:51 [FirstSquawk] FED'S WARSH SAYS STABLE PRICES CAN HELP WORKERS GAIN REAL TAKE-HOME PAY, ADDING THAT OTHER ADVANCED ECONOMIES ARE ALSO FACING PRICE PRESSURES.
+- 09/17 03:54 [financialjuice] Fed's Chair Warsh: I see 3 reasons bond yields have risen: the first is economic strength, the second is competition for capital, the surge in CAPEX is real, and the third is geopolitics.
+- 09/17 03:55 [FirstSquawk] FED’S WARSH SAYS THE ECONOMY HAS STRENGTHENED, BUT INFLATION REMAINS THE KEY PROBLEM.
+- 09/17 03:55 [FirstSquawk] FED'S WARSH SAYS PRICE STABILITY IS FOUNDATIONAL TO ECONOMIC GROWTH, ADDING THAT TODAY’S POLICY STEP MOVES THE FED TOWARD DELIVERING IT.
+- 09/17 03:55 [FirstSquawk] FED’S WARSH SAYS BOND YIELDS HAVE RISEN FOR THREE REASONS: ECONOMIC STRENGTH, COMPETITION FOR CAPITAL AND GEOPOLITICAL DEVELOPMENTS.
+- 09/17 03:55 [FirstSquawk] FED'S WARSH SAYS A SURGE IN CAPEX IS REAL, WHILE GLOBAL HOT SPOTS ARE ALSO DRIVING ECONOMIC AND FINANCIAL ACTIVITY.
+- 09/17 03:55 [FirstSquawk] SPACEXAI INTRODUCES GROK MEMORY FEATURE TO BOOST SESSION CONTINUITY
+- 09/17 03:57 [FirstSquawk] US STOCKS MIXED AS WARSH SPEAKS: S&P 500 -0.3%, NASDAQ +0.1%
+- 09/17 03:57 [financialjuice] Fed's Chair Warsh: We care very much about what's happening in AI.
+- 09/17 03:57 [FirstSquawk] BOEING CEO DOWNSIZES EXPECTATIONS FOR CHINA JET ORDER AT UPCOMING TRUMP-XI SUMMIT
+- 09/17 03:58 [financialjuice] Fed's Chair Warsh: The taskforce should report to us about AI by the year-end.
+- 09/17 03:59 [financialjuice] Fed's Chair Warsh: I don't believe we need to do harm to the job market to achieve our objective.
+- 09/17 03:59 [FirstSquawk] US 10-YEAR TREASURY YIELD RISES TO 5.002% AS WARSH SPEAKS, SIGNALING HIGHER RATE PRESSURE
+- 09/17 04:00 [financialjuice] Fed's Chair Warsh ends press conference.
+- 09/17 04:00 [FirstSquawk] FED’S WARSH SAYS TODAY’S ACTION SHOWS THE FED IS SERIOUS ABOUT PRICE STABILITY, ADDING THAT THE FED DOES NOT NEED TO HARM THE JOB MARKET TO ACHIEVE ITS OBJECTIVES.
+- 09/17 04:00 [FirstSquawk] FED'S WARSH SAYS THE FED’S ROLE IS TO ENSURE PRICE STABILITY SO DURABLE ECONOMIC GROWTH CAN CONTINUE, WHILE DECISIONS ON AI RISKS AND REWARDS BELONG TO OTHER POLICYMAKERS.
+- 09/17 04:00 [FirstSquawk] FED’S WARSH ENDS PRESS CONFERENCE — MARKETS NOW ASSESS RATE PATH & POLICY SIGNALS
+- 09/17 04:01 [FirstSquawk] US STOCKS EXTEND SELLOFF; DOW JONES FALLS 1.0%
+- 09/17 04:01 [FirstSquawk] BOEING CEO WARNS SPEEA STRIKE WOULD SHUT DOWN 777X CERTIFICATION PROGRAM UNTIL ENGINEERS RETURN
+- 09/17 04:02 [financialjuice/FirstSquawk] ❗ Traders price in about a 50% chance of a Fed rate hike in October.
