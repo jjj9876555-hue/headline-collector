@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 13:34 JST／対象: 09/15 13:34 〜 09/16 13:34 JST（時刻はすべて日本時間）
+生成: 2026-09-16 13:52 JST／対象: 09/15 13:52 〜 09/16 13:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 420 | 09/15 13:43 | 09/16 13:31 | 41分（01:25→02:06） |
+| FirstSquawk | 424 | 09/15 13:53 | 09/16 13:49 | 41分（01:25→02:06） |
 | financialjuice | 233 | 09/15 14:16 | 09/16 10:21 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 695 行（統合前 713 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 699 行（統合前 717 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 13:43 [FirstSquawk] Japanese yen stays weaker as traders await the Fed, while the BoJ meeting looms.
-- 09/15 13:44 [FirstSquawk] Japan considers adding drone-based defense options as part of new policies, Reuters reports.
 - 09/15 13:53 [FirstSquawk] Oil extends gains following Houthi strikes on Saudi Arabia - CNBC
 - 09/15 14:03 [FirstSquawk] Asian markets show mixed moves amid focus on AI stocks and oil prices.
 - 09/15 14:09 [FirstSquawk] US stock futures edge lower, with S&P 500 and Nasdaq futures down 0.3%.
@@ -719,3 +717,9 @@
 - 09/16 13:22 [FirstSquawk] Iran calls for global condemnation of “unilateral hegemonism” A deputy for Iran’s armed forces operations called on countries around the world to condemn what he described as unilateral hegemonism and the “law of the jungle.”
 - 09/16 13:31 [FirstSquawk] Japan August imports jump as oil prices lift costs Japan’s imports rose sharply in August as higher oil prices pushed up import costs, while exports remained firm during the month.
 - 09/16 13:31 [FirstSquawk] Iran says it fears no war in defending sovereignty and security A deputy for Iran’s armed forces operations said at the Xiangshan Forum that Iran fears no war when it comes to safeguarding its sovereignty and national security. The remarks …
+- 09/16 13:37 [FirstSquawk] Two tankers hit by cyberattack while transiting Strait of Gibraltar An American official said two tankers were subjected to a cyberattack while passing through the Strait of Gibraltar in August.
+- 09/16 13:37 [FirstSquawk] Oil and gas cargoes raised explosion and collision risks: WSJ The two tankers targeted in the cyberattack were carrying oil and gas cargoes, according to the Wall Street Journal.
+- 09/16 13:38 [FirstSquawk] Two foreign tankers bound for U.S. shores hit by cyberattack American officials said two foreign tankers en route to U.S. shores were subjected to a cyberattack in August.
+- 09/16 13:38 [FirstSquawk] Federal investigation launched into cyberattack targeting two tankers: WSJ U.S. authorities are investigating what is believed to be a cyberattack targeting two tankers before their arrival in the United States, according to the Wall Street…
+- 09/16 13:45 [FirstSquawk] Asian stocks edge higher as markets await Fed decision Asian equities traded with modest gains on Wednesday, as investors remained cautious ahead of the Federal Reserve’s upcoming policy decision. Markets are closely watching the Fed outcom…
+- 09/16 13:49 [FirstSquawk] Amazon, Netflix and YouTube join forces to expand streaming choices: CNBC Amazon, Netflix and YouTube are joining hands in an effort to give viewers more choices across online streaming, according to CNBC.

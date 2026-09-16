@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 13:34 JST／対象: 09/16 01:34 〜 09/16 13:34 JST（時刻はすべて日本時間）
+生成: 2026-09-16 13:52 JST／対象: 09/16 01:52 〜 09/16 13:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/16 01:35 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 194 | 09/16 02:06 | 09/16 13:31 | 37分（04:18→04:56） |
+| DeItaone | 9 | 09/16 02:04 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 200 | 09/16 02:06 | 09/16 13:49 | 37分（04:18→04:56） |
 | financialjuice | 113 | 09/16 02:00 | 09/16 10:21 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 307 行（統合前 319 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 312 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 01:35 [DeItaone] IRAN CLAIMS HUNDREDS OF U.S. MILITARY SITES HIT Iran’s foreign minister rejected claims that Iran is defenseless, asserting that hundreds of U.S. military sites have been destroyed and dozens of aircraft damaged. He claimed the figures were…
 - 09/16 02:00 [financialjuice] Treasury WI 20 Yr yield 5.400% before $13 billion auction
 - 09/16 02:00 [financialjuice] US Treasury Secretary Bessent hearing at House Financial Services panel concludes.
 - 09/16 02:02 [financialjuice] US 20-YEAR BOND HIGH YIELD ACTUAL 5.42% (FORECAST -, PREVIOUS 5.204%) $MACRO
@@ -331,3 +330,9 @@
 - 09/16 13:22 [FirstSquawk] Iran calls for global condemnation of “unilateral hegemonism” A deputy for Iran’s armed forces operations called on countries around the world to condemn what he described as unilateral hegemonism and the “law of the jungle.”
 - 09/16 13:31 [FirstSquawk] Japan August imports jump as oil prices lift costs Japan’s imports rose sharply in August as higher oil prices pushed up import costs, while exports remained firm during the month.
 - 09/16 13:31 [FirstSquawk] Iran says it fears no war in defending sovereignty and security A deputy for Iran’s armed forces operations said at the Xiangshan Forum that Iran fears no war when it comes to safeguarding its sovereignty and national security. The remarks …
+- 09/16 13:37 [FirstSquawk] Two tankers hit by cyberattack while transiting Strait of Gibraltar An American official said two tankers were subjected to a cyberattack while passing through the Strait of Gibraltar in August.
+- 09/16 13:37 [FirstSquawk] Oil and gas cargoes raised explosion and collision risks: WSJ The two tankers targeted in the cyberattack were carrying oil and gas cargoes, according to the Wall Street Journal.
+- 09/16 13:38 [FirstSquawk] Two foreign tankers bound for U.S. shores hit by cyberattack American officials said two foreign tankers en route to U.S. shores were subjected to a cyberattack in August.
+- 09/16 13:38 [FirstSquawk] Federal investigation launched into cyberattack targeting two tankers: WSJ U.S. authorities are investigating what is believed to be a cyberattack targeting two tankers before their arrival in the United States, according to the Wall Street…
+- 09/16 13:45 [FirstSquawk] Asian stocks edge higher as markets await Fed decision Asian equities traded with modest gains on Wednesday, as investors remained cautious ahead of the Federal Reserve’s upcoming policy decision. Markets are closely watching the Fed outcom…
+- 09/16 13:49 [FirstSquawk] Amazon, Netflix and YouTube join forces to expand streaming choices: CNBC Amazon, Netflix and YouTube are joining hands in an effort to give viewers more choices across online streaming, according to CNBC.

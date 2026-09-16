@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 13:34 JST／対象: 09/16 07:34 〜 09/16 13:34 JST（時刻はすべて日本時間）
+生成: 2026-09-16 13:52 JST／対象: 09/16 07:52 〜 09/16 13:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 112 | 09/16 07:51 | 09/16 13:31 | 21分（07:51→08:13） |
-| financialjuice | 48 | 09/16 07:45 | 09/16 10:21 | 22分（08:51→09:13） |
+| FirstSquawk | 116 | 09/16 08:13 | 09/16 13:49 | 12分（08:29→08:41） |
+| financialjuice | 43 | 09/16 08:07 | 09/16 10:21 | 22分（08:51→09:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 160 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 159 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 07:45 [financialjuice] NEW ZEALAND CURRENT ACCOUNT QOQ ACTUAL -1.67B (FORECAST -2.6B, PREVIOUS -1.008B) $MACRO
-- 09/16 07:45 [financialjuice] NZ year to June current account deficit NZ$-14.583 billion vs Poll NZ$-17.523 billion
-- 09/16 07:45 [financialjuice] NZ Q2 seasonally adjusted current account deficit NZ$3.77 billion
-- 09/16 07:45 [financialjuice] NZ year to June current account deficit estimated at -3.2% of GDP (poll: -3.9%)
-- 09/16 07:45 [financialjuice] New Zealand Q2 current account deficit NZ$1.67 billion vs Poll NZ$2.571 billion
-- 09/16 07:51 [FirstSquawk] NEW ZEALAND'S Q2 CURRENT ACCOUNT SHOWED A DEFICIT OF NZ$1.67 BLN, NARROWER THAN THE FORECAST NZ$2.6 BLN DEFICIT, WITH THE YEAR-TO-JUNE DEFICIT AT NZ$14.583 BLN VERSUS A POLL OF NZ$17.523 BLN
-- 09/16 07:51 [FirstSquawk] NEW ZEALAND'S Q2 CURRENT ACCOUNT SHOWED A DEFICIT OF NZ$1.67 BLN, NARROWER THAN THE POLL OF NZ$2.571 BLN, WITH THE SEASONALLY ADJUSTED DEFICIT AT NZ$3.77 BLN AND THE YEAR-TO-JUNE DEFICIT ESTIMATED AT -3.2% OF GDP VERSUS A POLL OF -3.9%
 - 09/16 08:07 [financialjuice] Meta's Zuckerberg: every lab must have the duty and motivation to advance at the speed needed to train its models securely
 - 09/16 08:13 [FirstSquawk] THE HOUSE VOTED 232-147 TO BLOCK REP. AL GREEN'S ATTEMPT TO IMPEACH TRUMP, MARKING THE THIRD FAILED IMPEACHMENT PUSH IN TWO YEARS
 - 09/16 08:13 [FirstSquawk] NVIDIA CEO JENSEN HUANG SAYS THE IDEA THAT 'AI IS GOING TO DESTROY JOBS' IS 'COMPLETELY NONSENSE'
@@ -184,3 +177,9 @@
 - 09/16 13:22 [FirstSquawk] Iran calls for global condemnation of “unilateral hegemonism” A deputy for Iran’s armed forces operations called on countries around the world to condemn what he described as unilateral hegemonism and the “law of the jungle.”
 - 09/16 13:31 [FirstSquawk] Japan August imports jump as oil prices lift costs Japan’s imports rose sharply in August as higher oil prices pushed up import costs, while exports remained firm during the month.
 - 09/16 13:31 [FirstSquawk] Iran says it fears no war in defending sovereignty and security A deputy for Iran’s armed forces operations said at the Xiangshan Forum that Iran fears no war when it comes to safeguarding its sovereignty and national security. The remarks …
+- 09/16 13:37 [FirstSquawk] Two tankers hit by cyberattack while transiting Strait of Gibraltar An American official said two tankers were subjected to a cyberattack while passing through the Strait of Gibraltar in August.
+- 09/16 13:37 [FirstSquawk] Oil and gas cargoes raised explosion and collision risks: WSJ The two tankers targeted in the cyberattack were carrying oil and gas cargoes, according to the Wall Street Journal.
+- 09/16 13:38 [FirstSquawk] Two foreign tankers bound for U.S. shores hit by cyberattack American officials said two foreign tankers en route to U.S. shores were subjected to a cyberattack in August.
+- 09/16 13:38 [FirstSquawk] Federal investigation launched into cyberattack targeting two tankers: WSJ U.S. authorities are investigating what is believed to be a cyberattack targeting two tankers before their arrival in the United States, according to the Wall Street…
+- 09/16 13:45 [FirstSquawk] Asian stocks edge higher as markets await Fed decision Asian equities traded with modest gains on Wednesday, as investors remained cautious ahead of the Federal Reserve’s upcoming policy decision. Markets are closely watching the Fed outcom…
+- 09/16 13:49 [FirstSquawk] Amazon, Netflix and YouTube join forces to expand streaming choices: CNBC Amazon, Netflix and YouTube are joining hands in an effort to give viewers more choices across online streaming, according to CNBC.
