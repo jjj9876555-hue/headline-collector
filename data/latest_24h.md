@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 12:03 JST／対象: 09/15 12:03 〜 09/16 12:03 JST（時刻はすべて日本時間）
+生成: 2026-09-16 12:25 JST／対象: 09/15 12:25 〜 09/16 12:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 411 | 09/15 12:04 | 09/16 11:57 | 41分（01:25→02:06） |
-| financialjuice | 234 | 09/15 12:09 | 09/16 10:21 | ⚠ 353分（15:11→21:05） |
+| FirstSquawk | 411 | 09/15 12:34 | 09/16 12:16 | 41分（01:25→02:06） |
+| financialjuice | 233 | 09/15 14:16 | 09/16 10:21 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 687 行（統合前 704 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 686 行（統合前 703 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 12:04 [FirstSquawk] SOUTH KOREA (JUL) MONEY SUPPLY M2 SA MOM ACTUAL: 0.3% VS 0.7% PREVIOUS
-- 09/15 12:09 [financialjuice] Drone strike damages industrial plant in Russia's Samara region: authorities
-- 09/15 12:13 [FirstSquawk] Industrial facility damaged by drone strike in Russia’s Samara region, authorities report.
-- 09/15 12:23 [FirstSquawk] China’s factories rev up as consumer spending loses momentum, highlighting persistent economic imbalances.
 - 09/15 12:34 [FirstSquawk] BOJ set for its biggest rate hike of the cycle as pressure on policymakers intensifies., citing RTRS
 - 09/15 12:35 [FirstSquawk] Coinbase climbs on CLARITY Act developments: The bill needs 60 votes to advance, with Republicans releasing a revised draft ahead of Tuesday’s procedural vote.
 - 09/15 12:39 [FirstSquawk] Travel discount bookings open in Japan to support Kumamoto earthquake recovery.
@@ -711,3 +707,6 @@
 - 09/16 11:40 [FirstSquawk] China has launched the Pinglu Canal, a major waterway project aimed at cutting transit times for cargo moving toward Southeast Asia. The canal is expected to strengthen regional connectivity and provide a more direct trade route, potentiall…
 - 09/16 11:49 [FirstSquawk] Seaport has initiated coverage of Domino’s Pizza (DPZ) with a Neutral rating. The new analyst coverage puts the restaurant chain under fresh scrutiny as investors assess its growth outlook, valuation and operating performance. Seaport ratin…
 - 09/16 11:57 [FirstSquawk] Indonesia’s benchmark stock index climbed as much as 1.2% to 6,535.46 points. The advance lifts the index to its highest intraday level in the latest session as investors assess broader regional market sentiment.
+- 09/16 12:05 [FirstSquawk] Commodity vessel crossings through the Strait of Hormuz remain in single digits, according to ship-tracking data. The subdued traffic highlights continued disruption to commercial shipping through the key energy corridor, with markets close…
+- 09/16 12:06 [FirstSquawk] New Zealand Non-Resident Bond Holdings Aug: 58.9% (prev 58.9%)
+- 09/16 12:16 [FirstSquawk] Spot gold climbed 1% to $4,333.64 an ounce, extending gains in the precious-metal market. The move puts gold back above the $4,300/oz level as traders continue to monitor global markets and shifting expectations around interest rates.

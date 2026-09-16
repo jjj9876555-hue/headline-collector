@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 12:03 JST／対象: 09/16 00:03 〜 09/16 12:03 JST（時刻はすべて日本時間）
+生成: 2026-09-16 12:25 JST／対象: 09/16 00:25 〜 09/16 12:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/16 00:19 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 190 | 09/16 00:14 | 09/16 11:57 | 41分（01:25→02:06） |
-| financialjuice | 134 | 09/16 00:05 | 09/16 10:21 | 38分（05:04→05:43） |
+| DeItaone | 19 | 09/16 00:34 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 184 | 09/16 00:47 | 09/16 12:16 | 41分（01:25→02:06） |
+| financialjuice | 130 | 09/16 00:34 | 09/16 10:21 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 336 行（統合前 348 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 323 行（統合前 335 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 00:05 [financialjuice] US Treasury Secretary Bessent: Iran officials say their economy is in dire straits.
-- 09/16 00:14 [FirstSquawk] 3M'S CEO STATES THAT ROBUST SALES GROWTH VIA DISTRIBUTORS WILL PERSIST INTO THE THIRD QUARTER, WHICH SUPPORTS A SALES BOOST IN THE SECOND HALF OF THE YEAR.
-- 09/16 00:14 [FirstSquawk] 3M PREDICTS THAT ITS CONSUMER BUSINESS WILL IMPROVE IN THE SECOND HALF OF THE YEAR COMPARED TO THE FIRST HALF.
-- 09/16 00:18 [financialjuice] US Treasury Secretary Bessent: Stablecoins will boost demand for US dollar assets.
-- 09/16 00:19 [FirstSquawk] BESSENT CALLS TPLF FUNDS 'MALIGNANCY' IN FINANCIAL SYSTEM.
-- 09/16 00:19 [FirstSquawk] BESSENT SAYS STABLECOINS WILL INCREASE DEMAND FOR US DOLLAR ASSETS.
-- 09/16 00:19 [FirstSquawk] US ATTORNEY GENERAL BLANCHE CHOOSES A CAUTIOUS STANCE ON AI REGULATIONS, DISAGREEING WITH 'REGULATION BY PROSECUTION.'
-- 09/16 00:19 [DeItaone] WALL STREET OVERWHELMINGLY EXPECTS FED HIKE Nearly every major Wall Street bank now expects the Federal Reserve to raise rates in September, according to a WSJ survey. Most forecast 50 basis points of total tightening in 2026, while Bank of…
-- 09/16 00:21 [financialjuice] US Treasury Secretary Bessent: Examining $5,000 check proposal at Treasury
-- 09/16 00:22 [financialjuice] US Treasury Secretary Bessent: There are ways to do $5,000 checks without affecting deficit.
-- 09/16 00:23 [FirstSquawk] BESSENT LOOKS AT $5,000 CHECK PLAN AT TREASURY.
-- 09/16 00:23 [DeItaone] MORGAN STANLEY'S DAN SIMKOWITZ SAYS WE ARE IN RELATIVELY EARLY TO MIDDLE INNINGS OF AI FINANCING
-- 09/16 00:24 [FirstSquawk] BESSENT SAYS IF GOP WINS IN NOVEMBER, THEY WILL COLLABORATE WITH HOUSE ON $500 CHECKS.
-- 09/16 00:24 [FirstSquawk] BESSENT SUGGESTS METHODS FOR ISSUING $5,000 CHECKS WITHOUT INCREASING THE DEFICIT.
-- 09/16 00:24 [FirstSquawk] BESSENT SAYS CONGRESS MUST AUTHORIZE A MEETING WITH JOHNSON IF IT'S NECESSARY.
-- 09/16 00:24 [DeItaone] *BESSENT: EXAMINING $5,000 CHECK PROPOSAL AT TREASURY
 - 09/16 00:34 [DeItaone] BESSENT: TREASURY'S BOND BUYBACK INTERVENTION WAS SUCCESSFUL
 - 09/16 00:34 [financialjuice] US Treasury Secretary Bessent: Treasury's bond buyback intervention was successful.
 - 09/16 00:35 [financialjuice] US Treasury Secretary Bessent: We've had two of the most successful Treasury auctions in 20 Yrs, recently
@@ -360,3 +344,6 @@
 - 09/16 11:40 [FirstSquawk] China has launched the Pinglu Canal, a major waterway project aimed at cutting transit times for cargo moving toward Southeast Asia. The canal is expected to strengthen regional connectivity and provide a more direct trade route, potentiall…
 - 09/16 11:49 [FirstSquawk] Seaport has initiated coverage of Domino’s Pizza (DPZ) with a Neutral rating. The new analyst coverage puts the restaurant chain under fresh scrutiny as investors assess its growth outlook, valuation and operating performance. Seaport ratin…
 - 09/16 11:57 [FirstSquawk] Indonesia’s benchmark stock index climbed as much as 1.2% to 6,535.46 points. The advance lifts the index to its highest intraday level in the latest session as investors assess broader regional market sentiment.
+- 09/16 12:05 [FirstSquawk] Commodity vessel crossings through the Strait of Hormuz remain in single digits, according to ship-tracking data. The subdued traffic highlights continued disruption to commercial shipping through the key energy corridor, with markets close…
+- 09/16 12:06 [FirstSquawk] New Zealand Non-Resident Bond Holdings Aug: 58.9% (prev 58.9%)
+- 09/16 12:16 [FirstSquawk] Spot gold climbed 1% to $4,333.64 an ounce, extending gains in the precious-metal market. The move puts gold back above the $4,300/oz level as traders continue to monitor global markets and shifting expectations around interest rates.

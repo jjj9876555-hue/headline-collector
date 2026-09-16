@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 12:03 JST／対象: 09/16 06:03 〜 09/16 12:03 JST（時刻はすべて日本時間）
+生成: 2026-09-16 12:25 JST／対象: 09/16 06:25 〜 09/16 12:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/16 07:16 | 09/16 07:16 | - |
-| FirstSquawk | 93 | 09/16 06:16 | 09/16 11:57 | 22分（06:49→07:11） |
-| financialjuice | 65 | 09/16 06:18 | 09/16 10:21 | 22分（08:51→09:13） |
+| FirstSquawk | 92 | 09/16 06:39 | 09/16 12:16 | 22分（06:49→07:11） |
+| financialjuice | 60 | 09/16 06:36 | 09/16 10:21 | 22分（08:51→09:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 157 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 151 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 06:16 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM IS SET TO MEET DONALD TRUMP IN NEW YORK NEXT WEEK DURING THE UNITED NATIONS GENERAL ASSEMBLY || MEETING WOULD MARK THEIR FIRST FACE-TO-FACE MEETING SINCE BURNHAM BECAME PRIME MINISTER, ACCORDING TO THE TIMES.
-- 09/16 06:18 [financialjuice] Burnham to meet Trump for first time in New York next week: The Times
-- 09/16 06:19 [financialjuice] Trump and Burnham expected to discuss Ukraine, Middle East and energy at United Nations General Assembly - The Times
-- 09/16 06:20 [financialjuice] Ukraine sets budget revenue goal at 5.65 trillion hryvnias ($126.7 bln) next year: draft budget
-- 09/16 06:20 [financialjuice] Ukraine will need $52.6 billion in global financial support in 2027: draft budget
-- 09/16 06:20 [FirstSquawk] TRUMP AND UK PRIME MINISTER ANDY BURNHAM ARE EXPECTED TO DISCUSS UKRAINE, THE MIDDLE EAST AND ENERGY DURING THEIR MEETING AT THE UNITED NATIONS GENERAL ASSEMBLY. - THE TIMES
-- 09/16 06:20 [financialjuice] Ukraine to allocate 43.8% of GDP for defense efforts in 2024 draft budget
-- 09/16 06:20 [FirstSquawk] UKRAINE TARGETS 5.65 TRILLION HRYVNIAS ($126.7 BILLION) IN BUDGET REVENUES NEXT YEAR, WITH 43.8% OF GDP PLANNED FOR DEFENCE, ACCORDING TO THE DRAFT BUDGET.
-- 09/16 06:21 [FirstSquawk] UKRAINE EXPECTS TO REQUIRE $52.6 BILLION IN INTERNATIONAL FINANCIAL AID IN 2027 TO SUPPORT ITS BUDGET AND WAR EFFORT.
 - 09/16 06:36 [financialjuice] Nvidia CEO Huang to attend U.S. state dinner for China's Xi, source familiar
 - 09/16 06:37 [financialjuice] Kraken investigating issue with Cardano funding gateway, withdrawals may be delayed
 - 09/16 06:39 [FirstSquawk] US WEIGHS BUYING WARSHIPS FROM JAPAN, SOUTH KOREA TO COUNTER CHINA, ACCORDING TO NIKKEI
@@ -181,3 +172,6 @@
 - 09/16 11:40 [FirstSquawk] China has launched the Pinglu Canal, a major waterway project aimed at cutting transit times for cargo moving toward Southeast Asia. The canal is expected to strengthen regional connectivity and provide a more direct trade route, potentiall…
 - 09/16 11:49 [FirstSquawk] Seaport has initiated coverage of Domino’s Pizza (DPZ) with a Neutral rating. The new analyst coverage puts the restaurant chain under fresh scrutiny as investors assess its growth outlook, valuation and operating performance. Seaport ratin…
 - 09/16 11:57 [FirstSquawk] Indonesia’s benchmark stock index climbed as much as 1.2% to 6,535.46 points. The advance lifts the index to its highest intraday level in the latest session as investors assess broader regional market sentiment.
+- 09/16 12:05 [FirstSquawk] Commodity vessel crossings through the Strait of Hormuz remain in single digits, according to ship-tracking data. The subdued traffic highlights continued disruption to commercial shipping through the key energy corridor, with markets close…
+- 09/16 12:06 [FirstSquawk] New Zealand Non-Resident Bond Holdings Aug: 58.9% (prev 58.9%)
+- 09/16 12:16 [FirstSquawk] Spot gold climbed 1% to $4,333.64 an ounce, extending gains in the precious-metal market. The move puts gold back above the $4,300/oz level as traders continue to monitor global markets and shifting expectations around interest rates.
