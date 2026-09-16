@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 23:35 JST／対象: 09/15 23:35 〜 09/16 23:35 JST（時刻はすべて日本時間）
+生成: 2026-09-16 23:53 JST／対象: 09/15 23:53 〜 09/16 23:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 39 | 09/15 23:47 | 09/16 22:37 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 388 | 09/15 23:36 | 09/16 23:32 | 45分（17:00→17:45） |
-| financialjuice | 263 | 09/15 23:36 | 09/16 23:31 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 38 | 09/15 23:56 | 09/16 23:46 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 382 | 09/15 23:53 | 09/16 23:51 | 45分（17:00→17:45） |
+| financialjuice | 253 | 09/15 23:53 | 09/16 23:51 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 677 行（統合前 693 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 661 行（統合前 676 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 23:36 [financialjuice] US Treasury Secretary Bessent: I have been coordinating for 6 months on AI and cybersecurity.
-- 09/15 23:36 [FirstSquawk] BESSENT: BIGGEST BANKS HAVE GOOD CYBERSECURITY RESILIENCE
-- 09/15 23:38 [financialjuice] US Treasury Secretary Bessent: At a defict-to-GDP ratio of 3%, we can start to pay down debt.
-- 09/15 23:39 [financialjuice] US Treasury Secretary Bessent: We would have continued fiscal contraction this year if not for tariff refunds.
-- 09/15 23:39 [financialjuice] Traders pare ECB bets. See 50% chance of rate hike in October.
-- 09/15 23:41 [FirstSquawk] THE HOME DEPOT FACES WEAK DEMAND OUTLOOK AS CONSUMERS HOLD BACK ON BIG-TICKET SPENDING THE HOME DEPOT SEES NO 2026 DEMAND RECOVERY AS CONSUMERS REMAIN RELUCTANT TO SPEND ON MAJOR PROJECTS $HD
-- 09/15 23:44 [FirstSquawk] CORRECTION - THUNE SAYS 'OPEN TO EXPLORING' AN EXPORT BAN ON DIESEL
-- 09/15 23:46 [financialjuice] US Treasury Secretary Bessent: We will continue to push for transparency in debt restructuring in light of hidden China debt provisions.
-- 09/15 23:46 [FirstSquawk] CHINA'S DEVELOPMENT LOANS CONTAIN UNDISCLOSED TERMS, SAYS BESSENT.
-- 09/15 23:46 [FirstSquawk] BESSENT SAYS CHINA'S BELT AND ROAD INITIATIVE HAS LED TO BANKRUPTCY FOR MANY BORROWERS.
-- 09/15 23:47 [financialjuice] US Treasury Secretary Bessent: Dollar continues to thrive as reserve currency. Transaction volume in dollars has risen.
-- 09/15 23:47 [FirstSquawk] BESSENT SAYS DOLLAR IS STILL STRONG IN GLOBAL DEALS.
-- 09/15 23:47 [FirstSquawk] BESSENT SAYS DOLLAR RESERVE DECLINE PRIMARILY CAUSED BY CHINA AND RUSSIA.
-- 09/15 23:47 [financialjuice] US Treasury Secretary Bessent: Dollar drop in reserves mainly due to China and Russia.
-- 09/15 23:47 [FirstSquawk] BESSENT ANNOUNCED THEY JUST COMPLETED TWO OF THE MOST SUCCESSFUL DEBT AUCTIONS IN THE LAST 20 YEARS.
-- 09/15 23:47 [DeItaone] BESSENT: DECREASE IN RESERVE HOLDINGS OF DOLLARS IS MAINLY FROM RUSSIA AND CHINA
-- 09/15 23:47 [FirstSquawk] BESSENT SAYS FISCAL CONSOLIDATION 'IS APPROACHING.'
-- 09/15 23:48 [financialjuice] US Treasury Secretary Bessent: Fiscal consolidation is coming.
-- 09/15 23:48 [financialjuice] Yemen denies Saudi Arabia's claim of a threat to attack Mecca - Tasnim News
-- 09/15 23:49 [financialjuice] Germany’s Chancellor Merz on fuel prices: I see no legal or factual basis for a windfall profit tax.
-- 09/15 23:49 [financialjuice] 3rd US drone shot down in the sky above the Strait of Hormuz by IRGC air defense - Fars News
-- 09/15 23:51 [financialjuice] US House Speaker Johnson: $5,000 checks will take time.
-- 09/15 23:51 [DeItaone/financialjuice] OIL LOADINGS SUSPENDED AT TOP SAUDI RED SEA PORT OF YANBU AFTER PREVIOUS ATTACK ON EAST-WEST PIPELINE - SHIPPING SOURCES
 - 09/15 23:53 [FirstSquawk] OIL LOADINGS HAVE BEEN STOPPED AT SAUDI ARABIA'S YANBU PORT AFTER AN ATTACK ON THE EAST-WEST PIPELINE, ACCORDING TO SHIPPING SOURCES.
 - 09/15 23:53 [FirstSquawk] US HOUSE SPEAKER JOHNSON DISCUSSED AI RISKS WITH PRESIDENT TRUMP LAST NIGHT.
 - 09/15 23:53 [FirstSquawk] CHINA'S KIMI HAD A SECURITY BREACH AND SHARED WEAPONS PLANS WITH ANTHROPIC.
@@ -701,3 +678,10 @@
 - 09/16 23:30 [financialjuice] EIA Weekly Inventories Report
 - 09/16 23:31 [financialjuice] Pentagon's Michael: AI firms should be doing independent auditing
 - 09/16 23:32 [FirstSquawk] CELH INSIDER BUYING SURGES: DIRECTOR DAMON DESANTIS BUYS $1M OF SHARES $CELH
+- 09/16 23:35 [financialjuice] CNBC interview with Pentagon's Emil Michael ends
+- 09/16 23:38 [FirstSquawk] SANOFI OPENS C$925 MLN FLU VACCINE PLANT IN TORONTO, OUTPUT TO START EARLY NEXT YEAR
+- 09/16 23:39 [financialjuice] ECB's Pereira: A lot of risks have certainly risen in last few months.
+- 09/16 23:44 [FirstSquawk] ECB'S PEREIRA: CERTAINLY SEEN A LOT OF RISKS RISE IN LAST FEW MONTHS
+- 09/16 23:46 [DeItaone] FED DOT PLOT COULD SIGNAL ANOTHER 2026 HIKE The Fed’s updated Dot Plot is expected to show rates ending 2026 near 4.1%, implying another hike after today’s anticipated 25bp increase. The bigger question is 2027: projections may still signal…
+- 09/16 23:51 [FirstSquawk] AMERICAN AIRLINES FEELING 'REALLY GOOD' ABOUT GUIDANCE: CEO
+- 09/16 23:51 [financialjuice] Senator Thune: I'd like to see the CLARITY crypto bill revived

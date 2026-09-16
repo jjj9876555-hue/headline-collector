@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 23:35 JST／対象: 09/16 17:35 〜 09/16 23:35 JST（時刻はすべて日本時間）
+生成: 2026-09-16 23:53 JST／対象: 09/16 17:53 〜 09/16 23:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 09/16 19:06 | 09/16 22:37 | ⚠ 48分（20:44→21:33） |
-| FirstSquawk | 74 | 09/16 17:45 | 09/16 23:32 | 27分（18:35→19:03） |
-| financialjuice | 76 | 09/16 17:45 | 09/16 23:31 | ⚠ 50分（19:01→19:52） |
+| DeItaone | 13 | 09/16 19:06 | 09/16 23:46 | ⚠ 68分（22:37→23:46） |
+| FirstSquawk | 73 | 09/16 18:12 | 09/16 23:51 | 27分（18:35→19:03） |
+| financialjuice | 78 | 09/16 18:00 | 09/16 23:51 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 160 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 164 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 17:45 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS CONTINUOUSLY ASSESS THE SITUATION AND MAINTAIN AN ONGOING DIALOGUE WITH ALL MARKET PARTICIPANTS IN THE GAS SECTOR
-- 09/16 17:45 [financialjuice] Germany Economy Ministry: Continuously assess the situation and maintain an ongoing dialogue with all market participants in the gas sector.
-- 09/16 17:45 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS GUIDING PRINCIPLE REMAINS UNCHANGED: WINTER PREPAREDNESS IS THE RESPONSIBILITY OF THE MARKET, AND ENERGY SUPPLY COMPANIES MUST FULFILL THEIR OBLIGATIONS
-- 09/16 17:46 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS GOVERNMENT HAS CONSISTENTLY TAKEN PRECAUTIONARY MEASURES AND PREPARED POTENTIAL COURSES OF ACTION TO ENSURE A RAPID AND TARGETED RESPONSE SHOULD THE SITUATION DETERIORATE, AND TO GUARANTEE SECURITY OF SUPPLY
-- 09/16 17:46 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS WE EXPRESSLY WELCOME SEFE’S INTENTION TO STEP UP ITS EFFORTS TO FILL GAS STORAGE FACILITIES
 - 09/16 18:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION MOM ACTUAL -0.1% (FORECAST -0.2%, PREVIOUS 0.0%) $MACRO
 - 09/16 18:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION YOY ACTUAL 0.0% (FORECAST -0.1%, PREVIOUS 0.1%) $MACRO
 - 09/16 18:00 [financialjuice] EUROZONE LABOUR COSTS YOY ACTUAL 3.1% (FORECAST -, PREVIOUS 3.2%) $MACRO
@@ -184,3 +179,10 @@
 - 09/16 23:30 [financialjuice] EIA Weekly Inventories Report
 - 09/16 23:31 [financialjuice] Pentagon's Michael: AI firms should be doing independent auditing
 - 09/16 23:32 [FirstSquawk] CELH INSIDER BUYING SURGES: DIRECTOR DAMON DESANTIS BUYS $1M OF SHARES $CELH
+- 09/16 23:35 [financialjuice] CNBC interview with Pentagon's Emil Michael ends
+- 09/16 23:38 [FirstSquawk] SANOFI OPENS C$925 MLN FLU VACCINE PLANT IN TORONTO, OUTPUT TO START EARLY NEXT YEAR
+- 09/16 23:39 [financialjuice] ECB's Pereira: A lot of risks have certainly risen in last few months.
+- 09/16 23:44 [FirstSquawk] ECB'S PEREIRA: CERTAINLY SEEN A LOT OF RISKS RISE IN LAST FEW MONTHS
+- 09/16 23:46 [DeItaone] FED DOT PLOT COULD SIGNAL ANOTHER 2026 HIKE The Fed’s updated Dot Plot is expected to show rates ending 2026 near 4.1%, implying another hike after today’s anticipated 25bp increase. The bigger question is 2027: projections may still signal…
+- 09/16 23:51 [FirstSquawk] AMERICAN AIRLINES FEELING 'REALLY GOOD' ABOUT GUIDANCE: CEO
+- 09/16 23:51 [financialjuice] Senator Thune: I'd like to see the CLARITY crypto bill revived
