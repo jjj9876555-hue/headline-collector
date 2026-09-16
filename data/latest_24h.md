@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 15:49 JST／対象: 09/15 15:49 〜 09/16 15:49 JST（時刻はすべて日本時間）
+生成: 2026-09-16 16:02 JST／対象: 09/15 16:02 〜 09/16 16:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 417 | 09/15 16:01 | 09/16 15:43 | 41分（01:25→02:06） |
-| financialjuice | 227 | 09/15 21:05 | 09/16 15:13 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 415 | 09/15 16:12 | 09/16 15:53 | 41分（01:25→02:06） |
+| financialjuice | 229 | 09/15 21:05 | 09/16 16:01 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 686 行（統合前 704 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI MoM ACTUAL: 0.7% VS 0.7% PREVIOUS;EST 0.7% SPAIN (AUG) CPI YoY ACTUAL: 4.3% VS 4.3% PREVIOUS;EST 4.3%
-- 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI CORE YOY ACTUAL: 2.9% VS 2.9% PREVIOUS;EST 2.9% SPAIN (AUG) CPI CORE MOM ACTUAL: 0.3% VS -0.1% PREVIOUS
-- 09/15 16:01 [FirstSquawk] SPAIN (AUG) CPI EU Harmonized MoM ACTUAL: 0.7% VS 0.6% PREVIOUS;EST 0.6% SPAIN (AUG) CPI EU Harmonized YoY ACTUAL: 4.6% VS 4.5% PREVIOUS;EST 4.5%
 - 09/15 16:12 [FirstSquawk] SAUDI CIVIL DEFENCE: DANGER HAS PASSED
 - 09/15 16:17 [FirstSquawk] ABS-CBN TO RETRENCH 200 EMPLOYEES, OR 7% OF WORKFORCE
 - 09/15 16:17 [FirstSquawk] TSMC IS BEING "CONSERATIVE" WHEN USING AI FOR TECH DEVELOPMENT
@@ -710,3 +707,6 @@
 - 09/16 15:32 [FirstSquawk] Investors brace for ‘super-central-bank week’ as US rate increase seen as near certain Global investors are preparing for a busy week of central-bank decisions, with markets broadly expecting a U.S. rate increase, according to SCMP. Attenti…
 - 09/16 15:36 [FirstSquawk] China’s most-active Dalian soymeal futures rise 2.8% China’s most-active Dalian soymeal futures contract rose 2.8% in trading. The sharp gain highlights stronger movement in China’s agricultural commodities market, with soymeal prices attra…
 - 09/16 15:43 [FirstSquawk] Kepler Cheuvreux cuts AB Foods to Hold, lowers target price to 1,900p
+- 09/16 15:53 [FirstSquawk] Gold bulls appear hesitant to push prices above the $4,350 level, with traders remaining cautious ahead of the Federal Reserve’s upcoming rate decision. The Fed decision and guidance on the rate path remain key near-term catalysts for gold,…
+- 09/16 15:53 [financialjuice] The EU are to call for a European Security Council in new defense plan
+- 09/16 16:01 [financialjuice] Currency Strength Chart: Strongest: GBP, EUR, CHF, GBP, AUD, USD, EUR, CAD - Weakest

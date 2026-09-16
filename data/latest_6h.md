@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 15:49 JST／対象: 09/16 09:49 〜 09/16 15:49 JST（時刻はすべて日本時間）
+生成: 2026-09-16 16:02 JST／対象: 09/16 10:02 〜 09/16 16:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 96 | 09/16 09:50 | 09/16 15:43 | 11分（14:51→15:02） |
-| financialjuice | 25 | 09/16 09:50 | 09/16 15:13 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 91 | 09/16 10:09 | 09/16 15:53 | 11分（14:51→15:02） |
+| financialjuice | 22 | 09/16 10:11 | 09/16 16:01 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 121 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 09:50 [financialjuice] China defence minister: Chinese military ready to cooperate with all sides to maintain regional stability
-- 09/16 09:50 [FirstSquawk] China’s defence minister says the Chinese military is ready to work with all parties to safeguard regional stability, signaling Beijing’s stated focus on cooperation in addressing security challenges. Cooperation for regional stability
-- 09/16 09:50 [financialjuice] China defense minister: greater collaboration means enhanced security
-- 09/16 09:52 [FirstSquawk] China’s defence minister says greater cooperation will make countries safer, emphasizing collaboration as a way to address shared security challenges.
-- 09/16 09:53 [FirstSquawk] China’s defence minister says the Chinese military will share its experience and provide appropriate assistance to other militaries in need.
-- 09/16 09:53 [financialjuice] China defence minister: Chinese military to share experience and offer support to other armed forces in need
-- 09/16 09:54 [FirstSquawk] China plans to expand international defence cooperation across joint military exercises, personnel training, equipment and technology, according to its defence minister.
-- 09/16 09:54 [financialjuice] China defence minister: we will broaden global cooperation on joint drills, personnel training, gear and technology
-- 09/16 09:55 [FirstSquawk] China’s defence minister called for joint action to address risks linked to the abusive military use of emerging technologies. The remarks highlight growing attention on how new technologies could be used in military applications and the ri…
-- 09/16 09:55 [financialjuice] China defence minister: all parties must cooperate to address risks of misuse of emerging military technology
-- 09/16 10:01 [FirstSquawk] Japan’s 10-year government bond yield edged lower, falling 1.0 basis point to 3.020%.
 - 09/16 10:09 [FirstSquawk] Hong Kong’s upcoming policy address is set to unveil new initiatives focused on youth housing and mediation - SCMP The measures are expected to highlight government efforts around housing support for younger residents, alongside initiatives…
 - 09/16 10:11 [financialjuice] Meta: Threads rolls out parental controls for teens in APAC - blog
 - 09/16 10:12 [FirstSquawk] Meta’s Threads is introducing parental supervision features for teenagers across Asia-Pacific. The rollout gives parents additional tools to oversee how teens use the platform, expanding Meta’s focus on safety and supervision features for y…
@@ -145,3 +134,6 @@
 - 09/16 15:32 [FirstSquawk] Investors brace for ‘super-central-bank week’ as US rate increase seen as near certain Global investors are preparing for a busy week of central-bank decisions, with markets broadly expecting a U.S. rate increase, according to SCMP. Attenti…
 - 09/16 15:36 [FirstSquawk] China’s most-active Dalian soymeal futures rise 2.8% China’s most-active Dalian soymeal futures contract rose 2.8% in trading. The sharp gain highlights stronger movement in China’s agricultural commodities market, with soymeal prices attra…
 - 09/16 15:43 [FirstSquawk] Kepler Cheuvreux cuts AB Foods to Hold, lowers target price to 1,900p
+- 09/16 15:53 [FirstSquawk] Gold bulls appear hesitant to push prices above the $4,350 level, with traders remaining cautious ahead of the Federal Reserve’s upcoming rate decision. The Fed decision and guidance on the rate path remain key near-term catalysts for gold,…
+- 09/16 15:53 [financialjuice] The EU are to call for a European Security Council in new defense plan
+- 09/16 16:01 [financialjuice] Currency Strength Chart: Strongest: GBP, EUR, CHF, GBP, AUD, USD, EUR, CAD - Weakest
