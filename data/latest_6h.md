@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 04:06 JST／対象: 09/16 22:06 〜 09/17 04:06 JST（時刻はすべて日本時間）
+生成: 2026-09-17 04:24 JST／対象: 09/16 22:24 〜 09/17 04:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/16 22:20 | 09/17 03:48 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 113 | 09/16 22:06 | 09/17 04:02 | 21分（02:39→03:00） |
-| financialjuice | 135 | 09/16 22:09 | 09/17 04:02 | 35分（00:12→00:47） |
+| DeItaone | 28 | 09/16 22:37 | 09/17 04:12 | ⚠ 72分（01:09→02:22） |
+| FirstSquawk | 112 | 09/16 22:31 | 09/17 04:23 | 21分（02:39→03:00） |
+| financialjuice | 138 | 09/16 22:30 | 09/17 04:22 | 35分（00:12→00:47） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 270 行（統合前 278 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 270 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 22:06 [FirstSquawk] TURKISH STOCKS FALL 6%, TRIGGERING MARKET-WIDE CIRCUIT BREAKER
-- 09/16 22:08 [FirstSquawk] INFINEON TO SELL NOR FLASH, F-RAM OPS TO WINBOND FOR $1.12B
-- 09/16 22:09 [financialjuice] Nvidia: Emerald AI, Google & Nvidia launch alliance and are to advance flexible AI data centers $NVDA
-- 09/16 22:11 [FirstSquawk] APPLE IS WORKING ON AN ENTERPRISE SERVER USING ITS OWN CHIPS, SOURCES REVEAL.
-- 09/16 22:12 [FirstSquawk] EMERALD AI, GOOGLE AND NVIDIA LAUNCH ALLIANCE TO ADVANCE FLEXIBLE AI DATA CENTRES
-- 09/16 22:15 [FirstSquawk] AMAZON RAISES MINIMUM STARTING PAY FOR FULL-TIME CORE OPERATIONS EMPLOYEES TO $20/HOUR, WITH AVERAGE PAY REACHING NEARLY $24/HOUR, AND LAUNCHES GROCERY DISCOUNT AND ACCESS TO NEW LIFETIME BANKING BENEFITS TO MAKE EVERYDAY LIFE MORE AFFORDAB…
-- 09/16 22:20 [DeItaone] FED DECISION DAY: MARKETS BRACE FOR A HIKE The Federal Reserve delivers its September rate decision, with prediction markets putting an 88% probability on a 25bp hike. What Wall Street expects Bank of America: September hike, with Waller ex…
-- 09/16 22:21 [FirstSquawk] ED YARDENI SLASHES S&P 500 TARGET, SAYS ‘PROCEED WITH CAUTION’ IN STOCKS AS RATES RISE – CNBC
 - 09/16 22:30 [financialjuice] EU's Economy Commissioner Dombrovskis: Italy exit from EU deficit plan still possible.
 - 09/16 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -92.9 MLN NASDAQ 100: -18.6 MLN DOW 30: -6.5 MLN MAG 7: -16.0 MLN $MACRO
 - 09/16 22:31 [FirstSquawk] S&P 500 UP 18.52 POINTS, OR 0.24 PERCENT, AT 7,604.25 AFTER MARKET OPEN DOW JONES UP 16.25 POINTS, OR 0.03 PERCENT, AT 52,109.36 AFTER MARKET OPEN NASDAQ UP 119.80 POINTS, OR 0.46 PERCENT, AT 26,101.37 AFTER MARKET OPEN
@@ -294,3 +286,11 @@
 - 09/17 04:01 [FirstSquawk] US STOCKS EXTEND SELLOFF; DOW JONES FALLS 1.0%
 - 09/17 04:01 [FirstSquawk] BOEING CEO WARNS SPEEA STRIKE WOULD SHUT DOWN 777X CERTIFICATION PROGRAM UNTIL ENGINEERS RETURN
 - 09/17 04:02 [financialjuice/FirstSquawk] ❗ Traders price in about a 50% chance of a Fed rate hike in October.
+- 09/17 04:08 [financialjuice/FirstSquawk] White House's Desai: The Fed rate hike is rather unfortunate - Fox News.
+- 09/17 04:08 [financialjuice/FirstSquawk] White House's Desai: Higher interest rates do not change oil prices.
+- 09/17 04:09 [financialjuice] White House's Desai: Trump still believes in Fed independence.
+- 09/17 04:12 [DeItaone] DOUBLELINE CEO GUNDLACH: I SEE VIRTUALLY NO CHANCE THAT THIS IS THE PEAK OF THE FED FUNDS RATE- CNBC
+- 09/17 04:14 [FirstSquawk] BOEING CEO SAYS 737 MAX 10 CERTIFICATION IS COMING “VERY SHORTLY”, BUT PRODUCTION IS TAKING LONGER THAN EXPECTED TO STABILIZE AT 47 JETS A MONTH, WITH WING PRODUCTION THE KEY SUPPLY-CHAIN CONSTRAINT.
+- 09/17 04:14 [FirstSquawk] BOEING SAYS 777X ENGINE DELAYS COULD PUSH SOME TESTING INTO 2027 WHILE STILL TARGETING 2027 DELIVERIES, AS SLOWER 737 AND 787 RATE RAMP-UPS REDUCE THE CHANCE OF REACHING THE UPPER END OF ITS 2026 FREE-CASH-FLOW FORECAST.
+- 09/17 04:22 [financialjuice] Thursday FX Option Expiries
+- 09/17 04:23 [FirstSquawk] US DOLLAR INDEX JUMPS 0.61% TO 100.28, ON TRACK FOR BIGGEST DAILY GAIN SINCE JUNE 17

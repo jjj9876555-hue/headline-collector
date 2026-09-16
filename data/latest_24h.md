@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 04:06 JST／対象: 09/16 04:06 〜 09/17 04:06 JST（時刻はすべて日本時間）
+生成: 2026-09-17 04:24 JST／対象: 09/16 04:24 〜 09/17 04:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 09/16 04:40 | 09/17 03:48 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 388 | 09/16 04:08 | 09/17 04:02 | 45分（17:00→17:45） |
-| financialjuice | 304 | 09/16 04:13 | 09/17 04:02 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 44 | 09/16 04:40 | 09/17 04:12 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 389 | 09/16 04:56 | 09/17 04:23 | 45分（17:00→17:45） |
+| financialjuice | 303 | 09/16 04:45 | 09/17 04:22 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 724 行（統合前 738 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 723 行（統合前 739 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 04:08 [FirstSquawk] CRYPTO STOCKS EXTEND SELLOFF AS COINBASE AND CIRCLE SLIDE AROUND 10% AFTER U.S. SENATE FAILS TO ADVANCE KEY CRYPTO REGULATION BILL.
-- 09/16 04:13 [financialjuice] Saudi: Warning issued in the Jazan province.
-- 09/16 04:14 [financialjuice] Early warning issued in Khamis Mushait to alert of potential danger - Saudi Civil Defense.
-- 09/16 04:15 [FirstSquawk] SAUDI CIVIL DEFENSE ISSUES EARLY WARNINGS FOR POTENTIAL DANGER IN JAZAN, ABHA AND KHAMIS MUSHAIT.
-- 09/16 04:16 [FirstSquawk] UK ‘ACTIVELY’ EXPLORING JOINING CANADA-LED GLOBAL DEFENCE BANK - FT
-- 09/16 04:18 [FirstSquawk] JPMORGAN'S DOUG PETNO — KEY TAKEAWAYS • JPMORGAN CO-PRESIDENT DOUG PETNO: JAMIE DIMON IS NOT STEPPING BACK. • PETNO: NOTHING IS FLASHING RED IN THE US ECONOMY FOR CONSUMERS OR CORPORATES, WITH VERY LITTLE FLASHING YELLOW. • JPMORGAN SEES NO…
-- 09/16 04:19 [financialjuice] Danger has passed in Jazan - Saudi Civil Defense.
-- 09/16 04:20 [financialjuice] Danger has passed in Khamis Mushait - Saudi Civil Defense.
-- 09/16 04:22 [financialjuice] Wednesday FX Option Expiries
 - 09/16 04:40 [DeItaone] OPENAI CFO SARAH FRIAR EMPHASIZES ‘NEED TO TAKE SAFETY SERIOUSLY’ ON AI RISKS- CNBC
 - 09/16 04:42 [DeItaone] OPENAI CFO FRIAR SAYS WILL PACE THE FRONTIER AND SLOW DOWN IF WE HAVE TO - CNBC
 - 09/16 04:45 [financialjuice] US VP Vance agrees that the war will end after the midterms - NY Post.
@@ -748,3 +739,11 @@
 - 09/17 04:01 [FirstSquawk] US STOCKS EXTEND SELLOFF; DOW JONES FALLS 1.0%
 - 09/17 04:01 [FirstSquawk] BOEING CEO WARNS SPEEA STRIKE WOULD SHUT DOWN 777X CERTIFICATION PROGRAM UNTIL ENGINEERS RETURN
 - 09/17 04:02 [financialjuice/FirstSquawk] ❗ Traders price in about a 50% chance of a Fed rate hike in October.
+- 09/17 04:08 [financialjuice/FirstSquawk] White House's Desai: The Fed rate hike is rather unfortunate - Fox News.
+- 09/17 04:08 [financialjuice/FirstSquawk] White House's Desai: Higher interest rates do not change oil prices.
+- 09/17 04:09 [financialjuice] White House's Desai: Trump still believes in Fed independence.
+- 09/17 04:12 [DeItaone] DOUBLELINE CEO GUNDLACH: I SEE VIRTUALLY NO CHANCE THAT THIS IS THE PEAK OF THE FED FUNDS RATE- CNBC
+- 09/17 04:14 [FirstSquawk] BOEING CEO SAYS 737 MAX 10 CERTIFICATION IS COMING “VERY SHORTLY”, BUT PRODUCTION IS TAKING LONGER THAN EXPECTED TO STABILIZE AT 47 JETS A MONTH, WITH WING PRODUCTION THE KEY SUPPLY-CHAIN CONSTRAINT.
+- 09/17 04:14 [FirstSquawk] BOEING SAYS 777X ENGINE DELAYS COULD PUSH SOME TESTING INTO 2027 WHILE STILL TARGETING 2027 DELIVERIES, AS SLOWER 737 AND 787 RATE RAMP-UPS REDUCE THE CHANCE OF REACHING THE UPPER END OF ITS 2026 FREE-CASH-FLOW FORECAST.
+- 09/17 04:22 [financialjuice] Thursday FX Option Expiries
+- 09/17 04:23 [FirstSquawk] US DOLLAR INDEX JUMPS 0.61% TO 100.28, ON TRACK FOR BIGGEST DAILY GAIN SINCE JUNE 17
