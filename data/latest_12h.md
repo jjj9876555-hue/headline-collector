@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 17:27 JST／対象: 09/16 05:27 〜 09/16 17:27 JST（時刻はすべて日本時間）
+生成: 2026-09-16 17:46 JST／対象: 09/16 05:46 〜 09/16 17:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/16 07:16 | 09/16 07:16 | - |
-| FirstSquawk | 203 | 09/16 05:35 | 09/16 17:00 | 22分（06:49→07:11） |
-| financialjuice | 105 | 09/16 05:43 | 09/16 17:22 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 203 | 09/16 05:51 | 09/16 17:46 | 45分（17:00→17:45） |
+| financialjuice | 107 | 09/16 05:48 | 09/16 17:45 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 306 行（統合前 310 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 308 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 05:35 [FirstSquawk] JPMORGAN DECLARES QUARTERLY COMMON STOCK DIVIDEND OF $1.65 PER SHARE.
-- 09/16 05:36 [FirstSquawk] INPEX SEES STRONG BUYER INTEREST IN ITS ABADI LIQUEFIED NATURAL GAS PROJECT IN INDONESIA. INPEX PRESIDENT SAYS THE COMPANY PLANS TO MAKE A FINAL INVESTMENT DECISION IN MID-2027, ACCORDING TO NIKKEI.
-- 09/16 05:36 [FirstSquawk] INPEX’S ABADI LNG PROJECT IN INDONESIA IS EXPECTED TO PRODUCE 9.5 MILLION METRIC TONS OF LNG ANNUALLY, WITH NEGOTIATIONS UNDERWAY WITH MAJOR BUYERS. INPEX PRESIDENT SAYS TALKS WITH BP AND SHELL ARE “CLOSE TO REACHING AGREEMENTS” ON TERMS, A…
-- 09/16 05:42 [FirstSquawk] COUNCIL OF ECONOMIC ADVISERS CHAIRMAN CHRISTOPHER PHELAN SAYS WOULD BE A MISTAKE FOR FED TO HIKE RATES - CNBC INTERVIEW
-- 09/16 05:43 [financialjuice] Council of Economic Advisers Chairman Phelan: It would be a mistake for the Fed to hike rates - CNBC Interview.
 - 09/16 05:48 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL 7.1M (FORECAST -1.8M, PREVIOUS -0.3M) $MACRO
 - 09/16 05:48 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL 1.5M (FORECAST -, PREVIOUS -1.9M) $MACRO
 - 09/16 05:48 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL 1.6M (FORECAST -, PREVIOUS 2M) $MACRO
@@ -330,3 +325,10 @@
 - 09/16 17:01 [financialjuice] ECB sees wage growth at 2.7% in 1q 2027, 2.8% in 2q 2027.
 - 09/16 17:21 [financialjuice] China's Wang Yi: We encourages Iran and US to exercise rationality.
 - 09/16 17:22 [financialjuice] China Foreign Minister, to Iran counterpart: Urge all parties to take effective measures to reopen Strait of Hormuz.
+- 09/16 17:32 [financialjuice] UK house prices rose by 1.4% in year to July (1.5% in year to June) - ONS.
+- 09/16 17:32 [financialjuice] UK average private rents increased by 3.8% in year to August (3.7% in year to July) - ONS
+- 09/16 17:45 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS CONTINUOUSLY ASSESS THE SITUATION AND MAINTAIN AN ONGOING DIALOGUE WITH ALL MARKET PARTICIPANTS IN THE GAS SECTOR
+- 09/16 17:45 [financialjuice] Germany Economy Ministry: Continuously assess the situation and maintain an ongoing dialogue with all market participants in the gas sector.
+- 09/16 17:45 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS GUIDING PRINCIPLE REMAINS UNCHANGED: WINTER PREPAREDNESS IS THE RESPONSIBILITY OF THE MARKET, AND ENERGY SUPPLY COMPANIES MUST FULFILL THEIR OBLIGATIONS
+- 09/16 17:46 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS GOVERNMENT HAS CONSISTENTLY TAKEN PRECAUTIONARY MEASURES AND PREPARED POTENTIAL COURSES OF ACTION TO ENSURE A RAPID AND TARGETED RESPONSE SHOULD THE SITUATION DETERIORATE, AND TO GUARANTEE SECURITY OF SUPPLY
+- 09/16 17:46 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS WE EXPRESSLY WELCOME SEFE’S INTENTION TO STEP UP ITS EFFORTS TO FILL GAS STORAGE FACILITIES

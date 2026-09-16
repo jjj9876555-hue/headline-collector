@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 17:27 JST／対象: 09/15 17:27 〜 09/16 17:27 JST（時刻はすべて日本時間）
+生成: 2026-09-16 17:46 JST／対象: 09/15 17:46 〜 09/16 17:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/15 18:02 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 425 | 09/15 17:30 | 09/16 17:00 | 41分（01:25→02:06） |
-| financialjuice | 243 | 09/15 21:05 | 09/16 17:22 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 423 | 09/15 17:56 | 09/16 17:46 | 45分（17:00→17:45） |
+| financialjuice | 246 | 09/15 21:05 | 09/16 17:45 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 708 行（統合前 726 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 709 行（統合前 727 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 17:30 [FirstSquawk] SPREAD BETWEEN FRENCH & GERMAN 10-YR BOND YIELDS RISES TO HIGHEST SINCE 2012 AT 98.15, UP 2 BPS
-- 09/15 17:34 [FirstSquawk] ITALY GENERAL GOV DEBT (EUR) JUL: 3.206T (PREVR 3.207T)
-- 09/15 17:41 [FirstSquawk] KUWAIT STRONGLY CONDEMNED HOUTHIS' BALLISTIC-MISSILE AND DRONE ATTACKS IN SAUDI ARABIA'S KHAMIS MUSHAIT, ABHA, AND TAIF, WHICH INJURED MANY CIVILIANS AND DAMAGED HOMES AND CARS.
-- 09/15 17:41 [FirstSquawk] YUAN-PRICED CRUDE FUTURES IN CHINA HAVE REACHED THEIR HIGHEST POINT EVER.
-- 09/15 17:42 [FirstSquawk] MOODY’S £330M LONDON HQ PUT UP FOR SALE MOODY’S CITY OF LONDON HQ HITS MARKET FOR £330M
-- 09/15 17:43 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE HIT RUSSIA'S SYZRAN OIL REFINERY.
 - 09/15 17:56 [FirstSquawk] FRANCE’S FIN MIN LESCURE: FRANCE’S FINANCIAL SECTOR IS RESILIENT, SOLID
 - 09/15 17:56 [FirstSquawk] WHO EBOLA EXPERT: THERE'S SOME EARLY SIGNS OF IMPROVEMENT, EFFORTS WILL NEED TO BE TO BE SUSTAINED AND STRENGTHENED
 - 09/15 18:00 [FirstSquawk] GERMAN ZEW ECONOMIC SENTIMENT (SEP) ACTUAL: 34.7 VS 34.2 PREVIOUS; EST 40.0
@@ -732,3 +726,10 @@
 - 09/16 17:01 [financialjuice] ECB sees wage growth at 2.7% in 1q 2027, 2.8% in 2q 2027.
 - 09/16 17:21 [financialjuice] China's Wang Yi: We encourages Iran and US to exercise rationality.
 - 09/16 17:22 [financialjuice] China Foreign Minister, to Iran counterpart: Urge all parties to take effective measures to reopen Strait of Hormuz.
+- 09/16 17:32 [financialjuice] UK house prices rose by 1.4% in year to July (1.5% in year to June) - ONS.
+- 09/16 17:32 [financialjuice] UK average private rents increased by 3.8% in year to August (3.7% in year to July) - ONS
+- 09/16 17:45 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS CONTINUOUSLY ASSESS THE SITUATION AND MAINTAIN AN ONGOING DIALOGUE WITH ALL MARKET PARTICIPANTS IN THE GAS SECTOR
+- 09/16 17:45 [financialjuice] Germany Economy Ministry: Continuously assess the situation and maintain an ongoing dialogue with all market participants in the gas sector.
+- 09/16 17:45 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS GUIDING PRINCIPLE REMAINS UNCHANGED: WINTER PREPAREDNESS IS THE RESPONSIBILITY OF THE MARKET, AND ENERGY SUPPLY COMPANIES MUST FULFILL THEIR OBLIGATIONS
+- 09/16 17:46 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS GOVERNMENT HAS CONSISTENTLY TAKEN PRECAUTIONARY MEASURES AND PREPARED POTENTIAL COURSES OF ACTION TO ENSURE A RAPID AND TARGETED RESPONSE SHOULD THE SITUATION DETERIORATE, AND TO GUARANTEE SECURITY OF SUPPLY
+- 09/16 17:46 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS WE EXPRESSLY WELCOME SEFE’S INTENTION TO STEP UP ITS EFFORTS TO FILL GAS STORAGE FACILITIES
