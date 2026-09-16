@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 08:17 JST／対象: 09/16 20:17 〜 09/17 08:17 JST（時刻はすべて日本時間）
+生成: 2026-09-17 08:32 JST／対象: 09/16 20:32 〜 09/17 08:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 48 | 09/16 20:35 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 203 | 09/16 20:21 | 09/17 08:16 | 32分（05:10→05:42） |
-| financialjuice | 193 | 09/16 20:18 | 09/17 08:11 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 202 | 09/16 20:32 | 09/17 08:16 | 32分（05:10→05:42） |
+| financialjuice | 192 | 09/16 20:34 | 09/17 08:11 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 431 行（統合前 448 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 429 行（統合前 446 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 20:18 [financialjuice] UK's PM Burnham shelves plans for UK investment summit this year - Sky
-- 09/16 20:21 [FirstSquawk] BURNHAM TO DELAY FLAGSHIP INVESTMENT SUMMIT UNTIL NEXT YEAR – SKY
 - 09/16 20:32 [FirstSquawk] HOUTHIS TOLD U.S. OFFICIALS THEY WILL AVOID ATTACKING ISRAELI VESSELS.
 - 09/16 20:34 [financialjuice] House democrats press to stay in session for AI - Politico
 - 09/16 20:35 [DeItaone] MICHAEL BURRY JOINS NEW SHORT-FOCUSED FUND “Big Short” investor Michael Burry is joining Minerva Investment Management as senior adviser to help launch a new short-biased fund expected within a month. Burry has recently targeted AI hypersca…
