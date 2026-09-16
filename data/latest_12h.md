@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 12:25 JST／対象: 09/16 00:25 〜 09/16 12:25 JST（時刻はすべて日本時間）
+生成: 2026-09-16 12:44 JST／対象: 09/16 00:44 〜 09/16 12:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/16 00:34 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 184 | 09/16 00:47 | 09/16 12:16 | 41分（01:25→02:06） |
-| financialjuice | 130 | 09/16 00:34 | 09/16 10:21 | 38分（05:04→05:43） |
+| DeItaone | 18 | 09/16 00:50 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 189 | 09/16 00:47 | 09/16 12:38 | 41分（01:25→02:06） |
+| financialjuice | 127 | 09/16 00:49 | 09/16 10:21 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 323 行（統合前 335 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 324 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 00:34 [DeItaone] BESSENT: TREASURY'S BOND BUYBACK INTERVENTION WAS SUCCESSFUL
-- 09/16 00:34 [financialjuice] US Treasury Secretary Bessent: Treasury's bond buyback intervention was successful.
-- 09/16 00:35 [financialjuice] US Treasury Secretary Bessent: We've had two of the most successful Treasury auctions in 20 Yrs, recently
-- 09/16 00:43 [financialjuice] Bessent signals work in process on offsets for $5,000 checks
 - 09/16 00:47 [FirstSquawk] BESSENT RESPONDS TO QUESTIONS ABOUT WHETHER $5,000 CHECKS REQUIRE CONGRESSIONAL APPROVAL.
 - 09/16 00:47 [FirstSquawk] BESSENT SAID GOP'S NOVEMBER WIN WOULD INVOLVE $5,000 CHECKS.
 - 09/16 00:47 [FirstSquawk] US TREASURY SECRETARY BESSENT SAYS AI NEEDS TO BE ADDRESSED FOR INNOVATION AND SAFETY.
@@ -347,3 +343,8 @@
 - 09/16 12:05 [FirstSquawk] Commodity vessel crossings through the Strait of Hormuz remain in single digits, according to ship-tracking data. The subdued traffic highlights continued disruption to commercial shipping through the key energy corridor, with markets close…
 - 09/16 12:06 [FirstSquawk] New Zealand Non-Resident Bond Holdings Aug: 58.9% (prev 58.9%)
 - 09/16 12:16 [FirstSquawk] Spot gold climbed 1% to $4,333.64 an ounce, extending gains in the precious-metal market. The move puts gold back above the $4,300/oz level as traders continue to monitor global markets and shifting expectations around interest rates.
+- 09/16 12:26 [FirstSquawk] China has warned against militarism and historical revisionism at a regional security forum, according to Kyodo News. The remarks come amid ongoing discussions over regional security and historical issues, keeping China’s position on milita…
+- 09/16 12:26 [FirstSquawk] Australia’s Speaker of the House of Representatives will lead a delegation to China from September 18 to 22, Xinhua reports. The visit will bring Australian parliamentary representatives to China as bilateral ties and parliamentary engageme…
+- 09/16 12:30 [FirstSquawk] Japan’s 12-month Treasury discount bill auction recorded a lowest price of 98.4490 and an average price of 98.4620. Bids were accepted at the lowest price at a 4.5263% rate, providing a fresh read on demand and pricing in Japan’s short-term…
+- 09/16 12:38 [FirstSquawk] The RBI may raise its policy rate by 25 basis points each in October and December, with inflation potentially moving above 6%, according to the latest outlook. If realized, the two hikes would amount to 50 basis points of tightening, puttin…
+- 09/16 12:38 [FirstSquawk] Japan is tightening enforcement against bicycle traffic violations, but the country still trails many global peers in developing dedicated cycling infrastructure. The gap highlights a key challenge: stricter enforcement is being introduced …
