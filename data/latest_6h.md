@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 04:52 JST／対象: 09/16 22:52 〜 09/17 04:52 JST（時刻はすべて日本時間）
+生成: 2026-09-17 05:05 JST／対象: 09/16 23:05 〜 09/17 05:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/16 23:46 | 09/17 04:35 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 109 | 09/16 22:54 | 09/17 04:51 | 24分（04:23→04:47） |
-| financialjuice | 138 | 09/16 22:54 | 09/17 04:50 | 35分（00:12→00:47） |
+| DeItaone | 30 | 09/16 23:46 | 09/17 05:03 | ⚠ 72分（01:09→02:22） |
+| FirstSquawk | 109 | 09/16 23:06 | 09/17 05:02 | 24分（04:23→04:47） |
+| financialjuice | 137 | 09/16 23:07 | 09/17 05:03 | 35分（00:12→00:47） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 265 行（統合前 279 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 266 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 22:54 [FirstSquawk] US IDENTIFIES MEXICO, CHINA AS MAJOR DRUG TRANSIT COUNTRIES
-- 09/16 22:54 [financialjuice] US identifies Mexico and China as major drug transit countries.
-- 09/16 22:56 [FirstSquawk] US: CANADA, MEXICO NEED TO MORE TO STOP DRUG FLOW
-- 09/16 23:00 [financialjuice] US NAHB HOUSING MARKET INDEX ACTUAL 32 (FORECAST 34, PREVIOUS 35) $MACRO
-- 09/16 23:00 [financialjuice] US BUSINESS INVENTORIES MOM ACTUAL 0.8% (FORECAST 0.8%, PREVIOUS 0.0%) $MACRO
-- 09/16 23:00 [FirstSquawk] US NAHB HOUSING MARKET INDEX SEP: 32 (EST 34; PREV 35)
-- 09/16 23:01 [financialjuice] US Business Inventories July 2026 Report
-- 09/16 23:01 [financialjuice] US NAHB Housing Market Index Sept. 2026 Report
 - 09/16 23:06 [FirstSquawk] US SAYS BRAZIL FAILED TO CONFRONT PCC AND CV GROUPS
 - 09/16 23:06 [FirstSquawk] COINBASE EYES $70T US STOCK MARKET WITH FULLY BACKED TOKENIZED EQUITIES PUSH $COIN
 - 09/16 23:07 [financialjuice] US issues amended Venezuela-related general license authorizing certain deals related to Petroleos de Venezuela, S.A. 2020 8.5% bond on or after November 5th - Treasury website
@@ -289,3 +281,12 @@
 - 09/17 04:50 [financialjuice/FirstSquawk] American diplomats met over the weekend with Houthi representatives at the U.S. embassy in Oman and discussed tensions in the Red Sea - Axios citing a regional source familiar with the issue confirmed.
 - 09/17 04:50 [FirstSquawk] BANKS LINE UP A $22B CHIP LOAN TIED TO BLACKSTONE AND ALPHABET.
 - 09/17 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -967.4 MLN NASDAQ 100: -174.5 MLN DOW 30: 33.1 MLN MAG 7: -68.5 MLN $MACRO
+- 09/17 05:00 [financialjuice] US TIC LONG-TERM TRANSACTIONS ACTUAL -27.9B (FORECAST -, PREVIOUS 172.7B ,REVISION 174.4B) $MACRO
+- 09/17 05:01 [DeItaone] US TSY TICS NET FLOWS IN JUL +$83.7B US TSY TICS NET L-T FLOWS IN JUL -$27.9B
+- 09/17 05:02 [financialjuice] United Kingdom's US Treasury holdings 998 bln dlrs in July vs 940 bln in June.
+- 09/17 05:02 [FirstSquawk] NASDAQ CLOSES 0.07% LOWER AT 25,964.31, DOWN 17.26 POINTS S&P 500 CLOSES 0.44% LOWER AT 7,552.34, DOWN 33.39 POINTS DOW JONES CLOSES 1.20% LOWER AT 51,470.50, DOWN 622.61 POINTS
+- 09/17 05:02 [financialjuice] China's US Treasury securities holdings $618 bln in July vs $633 bln in June.
+- 09/17 05:02 [FirstSquawk] U.S. JULY NET OVERALL CAPITAL INFLOW FELL TO $83.7 BILLION FROM $135.5 BILLION IN JUNE, WHILE NET LONG-TERM FLOWS TURNED NEGATIVE AT -$27.9 BILLION FROM +$174.4 BILLION.
+- 09/17 05:02 [FirstSquawk] JAPAN’S U.S. TREASURY HOLDINGS FELL TO $1.104 TRILLION, CHINA’S TO $618 BILLION, WHILE THE UK’S HOLDINGS ROSE TO $998 BILLION IN JULY.
+- 09/17 05:03 [financialjuice] Japan's US Treasury holdings $1.104 trln in July vs $1.117 trln in June.
+- 09/17 05:03 [DeItaone] STOCKS DROP AS FED HIKES AND SIGNALS MORE TIGHTENING U.S. stocks reversed earlier gains after the Fed delivered its first rate hike in more than three years and signaled further tightening is likely. The S&P 500 fell 0.43% and Dow dropped 1…

@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 04:52 JST／対象: 09/16 16:52 〜 09/17 04:52 JST（時刻はすべて日本時間）
+生成: 2026-09-17 05:05 JST／対象: 09/16 17:05 〜 09/17 05:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 09/16 19:06 | 09/17 04:35 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 181 | 09/16 16:55 | 09/17 04:51 | 45分（17:00→17:45） |
-| financialjuice | 207 | 09/16 16:53 | 09/17 04:50 | ⚠ 50分（19:01→19:52） |
+| DeItaone | 42 | 09/16 19:06 | 09/17 05:03 | ⚠ 72分（01:09→02:22） |
+| FirstSquawk | 175 | 09/16 17:45 | 09/17 05:02 | 27分（18:35→19:03） |
+| financialjuice | 204 | 09/16 17:21 | 09/17 05:03 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 416 行（統合前 432 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 409 行（統合前 425 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 16:53 [financialjuice] EC Pres. von der Leyen: We want to open the door for Canada to the first associate member of the EU.
-- 09/16 16:55 [FirstSquawk] VON DER LEYEN ANNOUNCES SHIFT FROM TRADE DEAL WITH CANADA TO A FUTURE ALLIANCE, AIMING TO ESTABLISH COMMON PROSPERITY AND ECONOMIC SECURITY IN MANUFACTURING, TECHNOLOGY, ENERGY, AI, DEFENSE, AND THE ARCTIC.
-- 09/16 16:55 [FirstSquawk] VON DER LEYEN SAYS WE AIM TO ELEVATE TIES WITH CANADA AND MAKE IT THE FIRST ASSOCIATE MEMBER OF THE EU.
-- 09/16 16:55 [FirstSquawk] VON DER LEYEN SUGGESTS CANADA COULD BECOME THE FIRST ASSOCIATE MEMBER OF THE EU.
-- 09/16 16:55 [FirstSquawk] VON DER LEYEN STATES THAT THREATS ARE INCREASING IN EUROPE AND DESCRIBES THE LEIPZIG INCIDENT AS AN ATTACK BY RUSSIAN OPERATIVES USING MILITARY-QUALITY MATERIAL ON EUROPEAN TERRITORY.
-- 09/16 16:55 [FirstSquawk] VON DER LEYEN SAYS EUROPE FACES FEWER HYBRID THREATS, BUT CYBERATTACKS, SABOTAGE, ARSON, AND DRONE INCURSIONS ARE INCREASING DAILY. SHE STRESSES THAT EUROPE MUST BE MORE PREPARED AS THREAT LEVELS RISE.
-- 09/16 16:57 [FirstSquawk] EUROPE NEEDS AN EMERGENCY SECURITY PROTOCOL, SAYS VON DER LEYEN, TO GATHER ALL MEMBER STATES WHEN ACTIVATED.
-- 09/16 16:57 [financialjuice] ITALIAN HICP FINAL YOY ACTUAL 3.2% (FORECAST 3.2%, PREVIOUS 3.2%) $MACRO
-- 09/16 16:57 [financialjuice] ITALIAN CPI MOM FINAL ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.5%) $MACRO
-- 09/16 16:57 [financialjuice] ITALIAN HICP FINAL MOM ACTUAL 0.1% (FORECAST 0.1%, PREVIOUS 0.1%) $MACRO
-- 09/16 16:57 [financialjuice] ITALIAN CPI YOY FINAL ACTUAL 3.3% (FORECAST 3.3%, PREVIOUS 3.3%) $MACRO
-- 09/16 16:57 [FirstSquawk] VON DER LEYEN ANNOUNCES PLANS TO ESTABLISH A EUROPEAN SECURITY COUNCIL.
-- 09/16 16:59 [FirstSquawk] EU PRESIDENT VON DER LEYEN INTRODUCES A NEW TOOL FOR MILITARY STRATEGIC SUPPORT.
-- 09/16 17:00 [FirstSquawk] EU'S VON DER LEYEN PROMISES STRONGEST SUPPORT FOR UKRAINE DURING HARDEST WINTER OF THE WAR.
-- 09/16 17:00 [financialjuice] ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth.
-- 09/16 17:01 [financialjuice] ECB sees wage growth at 2.7% in 1q 2027, 2.8% in 2q 2027.
 - 09/16 17:21 [financialjuice] China's Wang Yi: We encourages Iran and US to exercise rationality.
 - 09/16 17:22 [financialjuice] China Foreign Minister, to Iran counterpart: Urge all parties to take effective measures to reopen Strait of Hormuz.
 - 09/16 17:32 [financialjuice] UK house prices rose by 1.4% in year to July (1.5% in year to June) - ONS.
@@ -440,3 +424,12 @@
 - 09/17 04:50 [financialjuice/FirstSquawk] American diplomats met over the weekend with Houthi representatives at the U.S. embassy in Oman and discussed tensions in the Red Sea - Axios citing a regional source familiar with the issue confirmed.
 - 09/17 04:50 [FirstSquawk] BANKS LINE UP A $22B CHIP LOAN TIED TO BLACKSTONE AND ALPHABET.
 - 09/17 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -967.4 MLN NASDAQ 100: -174.5 MLN DOW 30: 33.1 MLN MAG 7: -68.5 MLN $MACRO
+- 09/17 05:00 [financialjuice] US TIC LONG-TERM TRANSACTIONS ACTUAL -27.9B (FORECAST -, PREVIOUS 172.7B ,REVISION 174.4B) $MACRO
+- 09/17 05:01 [DeItaone] US TSY TICS NET FLOWS IN JUL +$83.7B US TSY TICS NET L-T FLOWS IN JUL -$27.9B
+- 09/17 05:02 [financialjuice] United Kingdom's US Treasury holdings 998 bln dlrs in July vs 940 bln in June.
+- 09/17 05:02 [FirstSquawk] NASDAQ CLOSES 0.07% LOWER AT 25,964.31, DOWN 17.26 POINTS S&P 500 CLOSES 0.44% LOWER AT 7,552.34, DOWN 33.39 POINTS DOW JONES CLOSES 1.20% LOWER AT 51,470.50, DOWN 622.61 POINTS
+- 09/17 05:02 [financialjuice] China's US Treasury securities holdings $618 bln in July vs $633 bln in June.
+- 09/17 05:02 [FirstSquawk] U.S. JULY NET OVERALL CAPITAL INFLOW FELL TO $83.7 BILLION FROM $135.5 BILLION IN JUNE, WHILE NET LONG-TERM FLOWS TURNED NEGATIVE AT -$27.9 BILLION FROM +$174.4 BILLION.
+- 09/17 05:02 [FirstSquawk] JAPAN’S U.S. TREASURY HOLDINGS FELL TO $1.104 TRILLION, CHINA’S TO $618 BILLION, WHILE THE UK’S HOLDINGS ROSE TO $998 BILLION IN JULY.
+- 09/17 05:03 [financialjuice] Japan's US Treasury holdings $1.104 trln in July vs $1.117 trln in June.
+- 09/17 05:03 [DeItaone] STOCKS DROP AS FED HIKES AND SIGNALS MORE TIGHTENING U.S. stocks reversed earlier gains after the Fed delivered its first rate hike in more than three years and signaled further tightening is likely. The S&P 500 fell 0.43% and Dow dropped 1…
