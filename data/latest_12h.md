@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 16:21 JST／対象: 09/16 04:21 〜 09/16 16:21 JST（時刻はすべて日本時間）
+生成: 2026-09-16 16:36 JST／対象: 09/16 04:36 〜 09/16 16:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/16 04:40 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 193 | 09/16 04:56 | 09/16 16:20 | 22分（06:49→07:11） |
-| financialjuice | 97 | 09/16 04:22 | 09/16 16:01 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 205 | 09/16 04:56 | 09/16 16:35 | 22分（06:49→07:11） |
+| financialjuice | 98 | 09/16 04:45 | 09/16 16:25 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 292 行（統合前 296 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 305 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 04:22 [financialjuice] Wednesday FX Option Expiries
 - 09/16 04:40 [DeItaone] OPENAI CFO SARAH FRIAR EMPHASIZES ‘NEED TO TAKE SAFETY SERIOUSLY’ ON AI RISKS- CNBC
 - 09/16 04:42 [DeItaone] OPENAI CFO FRIAR SAYS WILL PACE THE FRONTIER AND SLOW DOWN IF WE HAVE TO - CNBC
 - 09/16 04:45 [financialjuice] US VP Vance agrees that the war will end after the midterms - NY Post.
@@ -316,3 +315,17 @@
 - 09/16 16:16 [FirstSquawk] EU'S VON DER LEYEN SAYS EUROPE'S FUTURE SHOULD BE CONTROLLED BY EUROPEANS.
 - 09/16 16:20 [FirstSquawk] VON DER LEYEN STRESSES THE NEED TO REFORM THE SINGLE MARKET BY 2027.
 - 09/16 16:20 [FirstSquawk] EU URGES STRONGER PARTNERSHIP WITH CANADA TO BOOST TRADE AND ENHANCE SECURITY.
+- 09/16 16:21 [FirstSquawk] VON DER LEYEN STATES THAT THE IRAN WAR HAS RESULTED IN AN ADDITIONAL €90 BILLION IN FOSSIL FUEL IMPORT COSTS FOR THE EU.
+- 09/16 16:25 [financialjuice] EU's Von der Leyen: The EU will use all tools at its disposal to rebalance the relationship with China
+- 09/16 16:25 [FirstSquawk] VON DER LEYEN STATES CHINA DIALOGUE NEEDS TO PRODUCE RESULTS.
+- 09/16 16:25 [FirstSquawk] VON DER LEYEN STATES ALL MEASURES WILL BE USED TO ADJUST THE RELATIONSHIP WITH CHINA.
+- 09/16 16:25 [financialjuice] EU's Von der Leyen: EU will establish a new European corporation to help obtain and stockpile critical raw materials
+- 09/16 16:26 [FirstSquawk] EU'S VON DER LEYEN ANNOUNCES PLANS FOR A NEW CORPORATION FOCUSED ON CRITICAL RAW MATERIALS.
+- 09/16 16:31 [FirstSquawk] VON DER LEYEN ANNOUNCED THAT THE EU WILL PRESENT A PLAN FOR CLIMATE RESILIENCE IN OCTOBER.
+- 09/16 16:31 [FirstSquawk] VON DER LEYEN ANNOUNCED IDENTIFICATION OF THE 100 MOST CLIMATE-AT-RISK AREAS IN EUROPE AND PLANS TO MANAGE THEIR RISKS.
+- 09/16 16:33 [FirstSquawk] RIKSBANK REVEALS INITIAL CONCERNS BEFORE SUMMER, BUT CONDITIONS IMPROVED AFTERWARDS.
+- 09/16 16:33 [FirstSquawk] RIKSBANK SURVEY SHOWS COMPANIES HAVE A MORE OPTIMISTIC VIEW ON THE FUTURE.
+- 09/16 16:33 [FirstSquawk] RIKSBANK SURVEY SHOWS COMPANIES REPORT INCREASED DEMAND.
+- 09/16 16:34 [FirstSquawk] RIKSBANK REPORTS THAT COMPANIES FIND COST RISES DUE TO THE IRAN WAR TO BE MANAGEABLE.
+- 09/16 16:34 [FirstSquawk] VON DER LEYEN PLANS TO UNVEIL A WATER SCARCITY INITIATIVE.
+- 09/16 16:35 [FirstSquawk] RIKSBANK SURVEY SHOWS COMPANIES REPORT STRONGER HOUSEHOLD DEMAND NOW.
