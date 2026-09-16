@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 23:20 JST／対象: 09/16 11:20 〜 09/16 23:20 JST（時刻はすべて日本時間）
+生成: 2026-09-16 23:35 JST／対象: 09/16 11:35 〜 09/16 23:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/16 19:06 | 09/16 22:37 | ⚠ 48分（20:44→21:33） |
-| FirstSquawk | 180 | 09/16 11:23 | 09/16 23:12 | 45分（17:00→17:45） |
-| financialjuice | 101 | 09/16 14:36 | 09/16 23:19 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 182 | 09/16 11:39 | 09/16 23:32 | 45分（17:00→17:45） |
+| financialjuice | 110 | 09/16 14:36 | 09/16 23:31 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 291 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 302 行（統合前 305 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 11:23 [FirstSquawk] Foreign investors held 3.19 trillion yuan of bonds traded on China’s interbank market at the end of August, according to the PBOC Shanghai Head Office. The figure highlights the scale of overseas participation in China’s domestic bond marke…
-- 09/16 11:28 [FirstSquawk] The Palestinian Civil Defense says people were killed and injured after a cracked residential building collapsed in Gaza, according to Al Arabiya.
 - 09/16 11:39 [FirstSquawk] South Korea has cancelled a plan to report details of its U.S. investment plans to parliament on Thursday, according to a report. The decision comes as Seoul’s planned U.S. investment commitments remain in focus, with further details on the…
 - 09/16 11:40 [FirstSquawk] China has launched the Pinglu Canal, a major waterway project aimed at cutting transit times for cargo moving toward Southeast Asia. The canal is expected to strengthen regional connectivity and provide a more direct trade route, potentiall…
 - 09/16 11:49 [FirstSquawk] Seaport has initiated coverage of Domino’s Pizza (DPZ) with a Neutral rating. The new analyst coverage puts the restaurant chain under fresh scrutiny as investors assess its growth outlook, valuation and operating performance. Seaport ratin…
@@ -315,3 +313,16 @@
 - 09/16 23:18 [financialjuice] Crypto Fear & Greed Index: 51/100 - Neutral
 - 09/16 23:18 [financialjuice] Fear & Greed Index: 30/100 - Fear
 - 09/16 23:19 [financialjuice] ECB's Pereira: One area I'm watching closely is natural gas prices, especially if we have a cold winter.
+- 09/16 23:24 [financialjuice] UK's PM Burnham's Brexit Britain smarts from EU-Canada love-in.
+- 09/16 23:26 [FirstSquawk] BURNHAM'S BREXIT BRITAIN FEELS PAIN FROM EU-CANADA RELATIONSHIP.
+- 09/16 23:27 [financialjuice] Pentagon's Michael on CNBC: AI firms not investing enough in safety.
+- 09/16 23:28 [financialjuice] ECB's Pereira: So far inflation not broadening in the economy as widely as in the past, but something we will be watching in coming months
+- 09/16 23:30 [FirstSquawk] US CRUDE OIL INVENTORIES ACTUAL: -640K VS -391K PREVIOUS; EST -1550K
+- 09/16 23:30 [FirstSquawk] US CUSHING CRUDE OIL INVENTORIES ACTUAL: -342K VS -684K PREVIOUS
+- 09/16 23:30 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL 1.585M (FORECAST 0.65M, PREVIOUS 2.087M) $MACRO
+- 09/16 23:30 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL -0.64M (FORECAST -1.5M, PREVIOUS -0.391M) $MACRO
+- 09/16 23:30 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 0.794M (FORECAST -1.1M, PREVIOUS 1.269M) $MACRO
+- 09/16 23:30 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL -0.342M (FORECAST -, PREVIOUS -0.684M) $MACRO
+- 09/16 23:30 [financialjuice] EIA Weekly Inventories Report
+- 09/16 23:31 [financialjuice] Pentagon's Michael: AI firms should be doing independent auditing
+- 09/16 23:32 [FirstSquawk] CELH INSIDER BUYING SURGES: DIRECTOR DAMON DESANTIS BUYS $1M OF SHARES $CELH

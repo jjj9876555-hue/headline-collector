@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 23:20 JST／対象: 09/16 17:20 〜 09/16 23:20 JST（時刻はすべて日本時間）
+生成: 2026-09-16 23:35 JST／対象: 09/16 17:35 〜 09/16 23:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/16 19:06 | 09/16 22:37 | ⚠ 48分（20:44→21:33） |
-| FirstSquawk | 70 | 09/16 17:45 | 09/16 23:12 | 27分（18:35→19:03） |
-| financialjuice | 71 | 09/16 17:21 | 09/16 23:19 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 74 | 09/16 17:45 | 09/16 23:32 | 27分（18:35→19:03） |
+| financialjuice | 76 | 09/16 17:45 | 09/16 23:31 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 151 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 160 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 17:21 [financialjuice] China's Wang Yi: We encourages Iran and US to exercise rationality.
-- 09/16 17:22 [financialjuice] China Foreign Minister, to Iran counterpart: Urge all parties to take effective measures to reopen Strait of Hormuz.
-- 09/16 17:32 [financialjuice] UK house prices rose by 1.4% in year to July (1.5% in year to June) - ONS.
-- 09/16 17:32 [financialjuice] UK average private rents increased by 3.8% in year to August (3.7% in year to July) - ONS
 - 09/16 17:45 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS CONTINUOUSLY ASSESS THE SITUATION AND MAINTAIN AN ONGOING DIALOGUE WITH ALL MARKET PARTICIPANTS IN THE GAS SECTOR
 - 09/16 17:45 [financialjuice] Germany Economy Ministry: Continuously assess the situation and maintain an ongoing dialogue with all market participants in the gas sector.
 - 09/16 17:45 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS GUIDING PRINCIPLE REMAINS UNCHANGED: WINTER PREPAREDNESS IS THE RESPONSIBILITY OF THE MARKET, AND ENERGY SUPPLY COMPANIES MUST FULFILL THEIR OBLIGATIONS
@@ -175,3 +171,16 @@
 - 09/16 23:18 [financialjuice] Crypto Fear & Greed Index: 51/100 - Neutral
 - 09/16 23:18 [financialjuice] Fear & Greed Index: 30/100 - Fear
 - 09/16 23:19 [financialjuice] ECB's Pereira: One area I'm watching closely is natural gas prices, especially if we have a cold winter.
+- 09/16 23:24 [financialjuice] UK's PM Burnham's Brexit Britain smarts from EU-Canada love-in.
+- 09/16 23:26 [FirstSquawk] BURNHAM'S BREXIT BRITAIN FEELS PAIN FROM EU-CANADA RELATIONSHIP.
+- 09/16 23:27 [financialjuice] Pentagon's Michael on CNBC: AI firms not investing enough in safety.
+- 09/16 23:28 [financialjuice] ECB's Pereira: So far inflation not broadening in the economy as widely as in the past, but something we will be watching in coming months
+- 09/16 23:30 [FirstSquawk] US CRUDE OIL INVENTORIES ACTUAL: -640K VS -391K PREVIOUS; EST -1550K
+- 09/16 23:30 [FirstSquawk] US CUSHING CRUDE OIL INVENTORIES ACTUAL: -342K VS -684K PREVIOUS
+- 09/16 23:30 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL 1.585M (FORECAST 0.65M, PREVIOUS 2.087M) $MACRO
+- 09/16 23:30 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL -0.64M (FORECAST -1.5M, PREVIOUS -0.391M) $MACRO
+- 09/16 23:30 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 0.794M (FORECAST -1.1M, PREVIOUS 1.269M) $MACRO
+- 09/16 23:30 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL -0.342M (FORECAST -, PREVIOUS -0.684M) $MACRO
+- 09/16 23:30 [financialjuice] EIA Weekly Inventories Report
+- 09/16 23:31 [financialjuice] Pentagon's Michael: AI firms should be doing independent auditing
+- 09/16 23:32 [FirstSquawk] CELH INSIDER BUYING SURGES: DIRECTOR DAMON DESANTIS BUYS $1M OF SHARES $CELH
