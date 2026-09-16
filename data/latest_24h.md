@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 13:18 JST／対象: 09/15 13:18 〜 09/16 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-16 13:34 JST／対象: 09/15 13:34 〜 09/16 13:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 418 | 09/15 13:25 | 09/16 13:17 | 41分（01:25→02:06） |
+| FirstSquawk | 420 | 09/15 13:43 | 09/16 13:31 | 41分（01:25→02:06） |
 | financialjuice | 233 | 09/15 14:16 | 09/16 10:21 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 693 行（統合前 711 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 695 行（統合前 713 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 13:25 [FirstSquawk] US manufacturers see supply-chain costs accelerate again.
-- 09/15 13:30 [FirstSquawk] Saudi Arabia faces new Houthi strikes amid stalled talks over the Strait of Hormuz.
-- 09/15 13:32 [FirstSquawk] Japan’s tertiary industry activity rebounds 0.4% in July, beating the 0.3% forecast.
 - 09/15 13:43 [FirstSquawk] Japanese yen stays weaker as traders await the Fed, while the BoJ meeting looms.
 - 09/15 13:44 [FirstSquawk] Japan considers adding drone-based defense options as part of new policies, Reuters reports.
 - 09/15 13:53 [FirstSquawk] Oil extends gains following Houthi strikes on Saudi Arabia - CNBC
@@ -717,3 +714,8 @@
 - 09/16 13:12 [FirstSquawk] The European Union has pushed back against Canadian Prime Minister Mark Carney’s description of a “unique alliance” with the bloc, according to the Financial Times.
 - 09/16 13:16 [FirstSquawk] RBC raises Antofagasta target price to 3,400p from 2,700p
 - 09/16 13:17 [FirstSquawk] RBC raises Glencore target price to 660p from 610p
+- 09/16 13:21 [FirstSquawk] Iran condemns U.S. “suppression,” armed forces official says A deputy for Iran’s armed forces operations has condemned what he described as various forms of suppression by the United States at the Xiangshan Forum.
+- 09/16 13:21 [FirstSquawk] Iran official says external interference has torn apart regional unity A deputy for Iran’s armed forces operations said at the Xiangshan Forum that long-term interference by external forces in the Middle East has torn apart unity across the…
+- 09/16 13:22 [FirstSquawk] Iran calls for global condemnation of “unilateral hegemonism” A deputy for Iran’s armed forces operations called on countries around the world to condemn what he described as unilateral hegemonism and the “law of the jungle.”
+- 09/16 13:31 [FirstSquawk] Japan August imports jump as oil prices lift costs Japan’s imports rose sharply in August as higher oil prices pushed up import costs, while exports remained firm during the month.
+- 09/16 13:31 [FirstSquawk] Iran says it fears no war in defending sovereignty and security A deputy for Iran’s armed forces operations said at the Xiangshan Forum that Iran fears no war when it comes to safeguarding its sovereignty and national security. The remarks …

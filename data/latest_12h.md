@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 13:18 JST／対象: 09/16 01:18 〜 09/16 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-16 13:34 JST／対象: 09/16 01:34 〜 09/16 13:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 09/16 01:19 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 190 | 09/16 01:25 | 09/16 13:17 | 41分（01:25→02:06） |
-| financialjuice | 117 | 09/16 01:22 | 09/16 10:21 | 38分（05:04→05:43） |
+| DeItaone | 10 | 09/16 01:35 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 194 | 09/16 02:06 | 09/16 13:31 | 37分（04:18→04:56） |
+| financialjuice | 113 | 09/16 02:00 | 09/16 10:21 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 309 行（統合前 322 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 307 行（統合前 319 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 01:19 [DeItaone] FRANCE BACKS KNOT FOR ECB PRESIDENT France would support former Dutch central-bank chief Klaas Knot to succeed Christine Lagarde as ECB president, provided a French candidate receives the powerful chief economist role, Reuters reports. The …
-- 09/16 01:22 [financialjuice] Bank of France sees economy expanding 0.4% in 2026
-- 09/16 01:22 [financialjuice] Bank of France survey indicates 3Q GDP to rise 0.1%
-- 09/16 01:22 [financialjuice] Bank of France trims 2026 GDP forecast, sees pickup next year.
-- 09/16 01:24 [financialjuice] US and Israeli and Arab military chiefs held secret meeting on Iran - Axios
-- 09/16 01:25 [FirstSquawk] US, ISRAELI, ARAB MILITARY CHIEFS HELD SECRET MEETING ON IRAN - AXIOS
-- 09/16 01:29 [DeItaone] SAUDI OIL PIPELINE COULD RESTART WITHIN DAYS Saudi Arabia’s critical East-West Pipeline could resume crude flows within days, according to U.S. Energy Secretary Chris Wright. The pipeline had been moving 4–5 million barrels per day, roughly…
 - 09/16 01:35 [DeItaone] IRAN CLAIMS HUNDREDS OF U.S. MILITARY SITES HIT Iran’s foreign minister rejected claims that Iran is defenseless, asserting that hundreds of U.S. military sites have been destroyed and dozens of aircraft damaged. He claimed the figures were…
 - 09/16 02:00 [financialjuice] Treasury WI 20 Yr yield 5.400% before $13 billion auction
 - 09/16 02:00 [financialjuice] US Treasury Secretary Bessent hearing at House Financial Services panel concludes.
@@ -333,3 +326,8 @@
 - 09/16 13:12 [FirstSquawk] The European Union has pushed back against Canadian Prime Minister Mark Carney’s description of a “unique alliance” with the bloc, according to the Financial Times.
 - 09/16 13:16 [FirstSquawk] RBC raises Antofagasta target price to 3,400p from 2,700p
 - 09/16 13:17 [FirstSquawk] RBC raises Glencore target price to 660p from 610p
+- 09/16 13:21 [FirstSquawk] Iran condemns U.S. “suppression,” armed forces official says A deputy for Iran’s armed forces operations has condemned what he described as various forms of suppression by the United States at the Xiangshan Forum.
+- 09/16 13:21 [FirstSquawk] Iran official says external interference has torn apart regional unity A deputy for Iran’s armed forces operations said at the Xiangshan Forum that long-term interference by external forces in the Middle East has torn apart unity across the…
+- 09/16 13:22 [FirstSquawk] Iran calls for global condemnation of “unilateral hegemonism” A deputy for Iran’s armed forces operations called on countries around the world to condemn what he described as unilateral hegemonism and the “law of the jungle.”
+- 09/16 13:31 [FirstSquawk] Japan August imports jump as oil prices lift costs Japan’s imports rose sharply in August as higher oil prices pushed up import costs, while exports remained firm during the month.
+- 09/16 13:31 [FirstSquawk] Iran says it fears no war in defending sovereignty and security A deputy for Iran’s armed forces operations said at the Xiangshan Forum that Iran fears no war when it comes to safeguarding its sovereignty and national security. The remarks …

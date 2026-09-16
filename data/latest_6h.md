@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 13:18 JST／対象: 09/16 07:18 〜 09/16 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-16 13:34 JST／対象: 09/16 07:34 〜 09/16 13:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 108 | 09/16 07:30 | 09/16 13:17 | 21分（07:51→08:13） |
-| financialjuice | 52 | 09/16 07:22 | 09/16 10:21 | 22分（08:51→09:13） |
+| FirstSquawk | 112 | 09/16 07:51 | 09/16 13:31 | 21分（07:51→08:13） |
+| financialjuice | 48 | 09/16 07:45 | 09/16 10:21 | 22分（08:51→09:13） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 160 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 07:22 [financialjuice] Trump advisers Lutnick, Michael confer with leading Anthropic executive on AI safety
-- 09/16 07:24 [financialjuice] Meta to roll out smart glasses without cameras amid rising privacy concerns: The Information
-- 09/16 07:24 [financialjuice] Meta plans to unveil camera-free Luna smart glasses this fall: The Information
-- 09/16 07:30 [financialjuice] RBNZ assistant governor Karen Silk to depart central bank
-- 09/16 07:30 [FirstSquawk] META PLANS TO UNVEIL CAMERA-FREE 'LUNA' SMART GLASSES THIS FALL, ROLLING THEM OUT WITHOUT CAMERAS AMID RISING PRIVACY CONCERNS - THE INFORMATION
 - 09/16 07:45 [financialjuice] NEW ZEALAND CURRENT ACCOUNT QOQ ACTUAL -1.67B (FORECAST -2.6B, PREVIOUS -1.008B) $MACRO
 - 09/16 07:45 [financialjuice] NZ year to June current account deficit NZ$-14.583 billion vs Poll NZ$-17.523 billion
 - 09/16 07:45 [financialjuice] NZ Q2 seasonally adjusted current account deficit NZ$3.77 billion
@@ -184,3 +179,8 @@
 - 09/16 13:12 [FirstSquawk] The European Union has pushed back against Canadian Prime Minister Mark Carney’s description of a “unique alliance” with the bloc, according to the Financial Times.
 - 09/16 13:16 [FirstSquawk] RBC raises Antofagasta target price to 3,400p from 2,700p
 - 09/16 13:17 [FirstSquawk] RBC raises Glencore target price to 660p from 610p
+- 09/16 13:21 [FirstSquawk] Iran condemns U.S. “suppression,” armed forces official says A deputy for Iran’s armed forces operations has condemned what he described as various forms of suppression by the United States at the Xiangshan Forum.
+- 09/16 13:21 [FirstSquawk] Iran official says external interference has torn apart regional unity A deputy for Iran’s armed forces operations said at the Xiangshan Forum that long-term interference by external forces in the Middle East has torn apart unity across the…
+- 09/16 13:22 [FirstSquawk] Iran calls for global condemnation of “unilateral hegemonism” A deputy for Iran’s armed forces operations called on countries around the world to condemn what he described as unilateral hegemonism and the “law of the jungle.”
+- 09/16 13:31 [FirstSquawk] Japan August imports jump as oil prices lift costs Japan’s imports rose sharply in August as higher oil prices pushed up import costs, while exports remained firm during the month.
+- 09/16 13:31 [FirstSquawk] Iran says it fears no war in defending sovereignty and security A deputy for Iran’s armed forces operations said at the Xiangshan Forum that Iran fears no war when it comes to safeguarding its sovereignty and national security. The remarks …
