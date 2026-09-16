@@ -7,28 +7,27 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 02:43 JST／対象: 09/16 02:43 〜 09/17 02:43 JST（時刻はすべて日本時間）
+生成: 2026-09-17 02:59 JST／対象: 09/16 02:59 〜 09/17 02:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 29 | 09/16 03:03 | 09/17 02:22 | ⚠ 709分（07:16→19:06） |
 | FirstSquawk | 351 | 09/16 03:01 | 09/17 02:39 | 45分（17:00→17:45） |
-| financialjuice | 245 | 09/16 02:53 | 09/17 02:42 | ⚠ 254分（10:21→14:36） |
+| financialjuice | 248 | 09/16 03:00 | 09/17 02:58 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 617 行（統合前 627 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 621 行（統合前 631 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 02:53 [financialjuice/FirstSquawk] Iranian Army Spokesman: Iran and Pakistan are cooperating to ensure regional security - Tasnim News
-- 09/16 02:58 [financialjuice] WATCH LIVE: Attorney General Blanche Speaks 2 PM ET
 - 09/16 03:00 [financialjuice] CBO: Annual PCE inflation projection now 0.5 ppt higher in Q1 2027.
 - 09/16 03:01 [financialjuice] CBO: war in Iran cost us $38 billion in first five months.
 - 09/16 03:01 [financialjuice/FirstSquawk] Anthropic's Amodei: The world is only making use of 5% to 10% of current AI.
+- 09/16 03:01 [FirstSquawk] IRANIAN ARMY SPOKESMAN: IRAN AND PAKISTAN ARE COOPERATING TO ENSURE REGIONAL SECURITY - TASNIM NEWS
 - 09/16 03:02 [FirstSquawk] A U.S. CDC SPOKESPERSON SAYS PENNSYLVANIA HEALTH OFFICIALS HAVE NOTIFIED THE CDC OF TWO ADDITIONAL DEATHS INVOLVING INDIVIDUALS WHO HAD MEASLES, ADDING THAT PENNSYLVANIA HAS NOT REQUESTED A CDC EPI-AID, WHICH WOULD DEPLOY EPIDEMIOLOGISTS TO…
 - 09/16 03:02 [FirstSquawk] U.S. AUTO SAFETY AGENCY SAYS TESLA MUST ANSWER QUESTIONS ON THE CERTIFICATION OF THE CYBERCAB BY SEPT. 30 - FILING
 - 09/16 03:02 [FirstSquawk/DeItaone] CBO SAYS THE WAR IN IRAN COST THE U.S. $38 BLN IN THE FIRST FIVE MONTHS, ADDING THAT ITS ANNUAL PCE INFLATION PROJECTION IS NOW 0.5 PERCENTAGE POINT HIGHER FOR Q1 2027
@@ -641,3 +640,8 @@
 - 09/17 02:41 [financialjuice] US and China to talk AI, trade, rare earths this weekend - Axios cites sources familiar on us agenda for china talks
 - 09/17 02:42 [financialjuice] JPMorgan's Michele: We were buying the long end of US, Japan, Australia
 - 09/17 02:42 [financialjuice] JPMorgan's Michele: Bessent has done his best to stabilize the long end.
+- 09/17 02:49 [financialjuice] Societe Generale's Rajappa: Expecting another hike in December, maybe March.
+- 09/17 02:50 [financialjuice] Societe Generale's Rajappa: Long end has gotten a bit more volatile.
+- 09/17 02:50 [financialjuice] Societe Generale's Rajappa: If Warsh sounds dovish, could see long end sell off.
+- 09/17 02:56 [financialjuice] JPMorgan's Michele: Funded long-end purchases with cash.
+- 09/17 02:58 [financialjuice] The US probes Iran link to cyberattacks on Texas-bound tankers - WSJ.

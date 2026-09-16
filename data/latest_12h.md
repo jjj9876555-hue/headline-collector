@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 02:43 JST／対象: 09/16 14:43 〜 09/17 02:43 JST（時刻はすべて日本時間）
+生成: 2026-09-17 02:59 JST／対象: 09/16 14:59 〜 09/17 02:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/16 19:06 | 09/17 02:22 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 160 | 09/16 14:43 | 09/17 02:39 | 45分（17:00→17:45） |
-| financialjuice | 143 | 09/16 15:00 | 09/17 02:42 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 155 | 09/16 15:02 | 09/17 02:39 | 45分（17:00→17:45） |
+| financialjuice | 148 | 09/16 15:00 | 09/17 02:58 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 323 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 323 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 14:43 [FirstSquawk] China’s defense minister urges vigilance against ‘hegemonism’ and militarism
-- 09/16 14:46 [FirstSquawk] Russia attacks energy infrastructure in Ukraine’s Poltava region Russia attacked energy infrastructure in Ukraine’s Poltava region overnight, the regional governor said. The reported strikes targeted energy facilities in the region, adding …
-- 09/16 14:46 [FirstSquawk] Russia hits cargo vessel at Ukraine’s Chornomorsk port: IFX Russia struck a cargo vessel at the port of Chornomorsk in Ukraine, Interfax reported, citing the Russian Defence Ministry. The reported incident adds to ongoing risks around Ukrai…
-- 09/16 14:48 [FirstSquawk] Polish airports in Lublin and Rzeszów resume operations: PANSA Air operations at Lublin and Rzeszów airports in Poland have resumed after a temporary closure linked to military aviation operations, according to PANSA. The airports were brie…
-- 09/16 14:51 [FirstSquawk] US ambassador to South Africa says visa restrictions are only the first step The U.S. ambassador to South Africa said the visa restriction policy is only the first step in a series of potential escalatory measures. The remarks signal that W…
 - 09/16 15:00 [financialjuice] UK RPI MOM ACTUAL 0.6% (FORECAST 0.7%, PREVIOUS 0.6%) $MACRO
 - 09/16 15:00 [financialjuice] ‼ BREAKING: UK CPI YOY ACTUAL 3.1% (FORECAST 3.1%, PREVIOUS 2.9%) $MACRO
 - 09/16 15:00 [financialjuice] UK CPI MOM ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.3%) $MACRO
@@ -347,3 +342,8 @@
 - 09/17 02:41 [financialjuice] US and China to talk AI, trade, rare earths this weekend - Axios cites sources familiar on us agenda for china talks
 - 09/17 02:42 [financialjuice] JPMorgan's Michele: We were buying the long end of US, Japan, Australia
 - 09/17 02:42 [financialjuice] JPMorgan's Michele: Bessent has done his best to stabilize the long end.
+- 09/17 02:49 [financialjuice] Societe Generale's Rajappa: Expecting another hike in December, maybe March.
+- 09/17 02:50 [financialjuice] Societe Generale's Rajappa: Long end has gotten a bit more volatile.
+- 09/17 02:50 [financialjuice] Societe Generale's Rajappa: If Warsh sounds dovish, could see long end sell off.
+- 09/17 02:56 [financialjuice] JPMorgan's Michele: Funded long-end purchases with cash.
+- 09/17 02:58 [financialjuice] The US probes Iran link to cyberattacks on Texas-bound tankers - WSJ.

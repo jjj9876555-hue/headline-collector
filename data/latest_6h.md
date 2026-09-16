@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 02:43 JST／対象: 09/16 20:43 〜 09/17 02:43 JST（時刻はすべて日本時間）
+生成: 2026-09-17 02:59 JST／対象: 09/16 20:59 〜 09/17 02:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/16 20:44 | 09/17 02:22 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 75 | 09/16 20:49 | 09/17 02:39 | 19分（02:02→02:22） |
-| financialjuice | 87 | 09/16 20:55 | 09/17 02:42 | 35分（00:12→00:47） |
+| DeItaone | 16 | 09/16 21:33 | 09/17 02:22 | ⚠ 72分（01:09→02:22） |
+| FirstSquawk | 74 | 09/16 21:03 | 09/17 02:39 | 19分（02:02→02:22） |
+| financialjuice | 91 | 09/16 21:00 | 09/17 02:58 | 35分（00:12→00:47） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 178 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 180 行（統合前 182 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 20:44 [DeItaone] U.S. MORTGAGE PAIN DEEPENS AS RATES NEAR 7% U.S. mortgage applications fell 4.1% last week to their lowest since May 2025, with refinancing applications plunging 8.8%. The 30-year conforming mortgage rate climbed to 6.97%, while jumbo rates…
-- 09/16 20:49 [FirstSquawk] HOUTHI SPOKESPERSON: CLAIMS ATTACK ON ARAMCO FACILITY IN YANBU
-- 09/16 20:55 [financialjuice] German Government spokesperson: We're open to discussing new partnership models between the EU and Canada, but the term 'associate member' needs to be rethought
 - 09/16 21:00 [financialjuice] Secured overnight financing rate 3.64% September 15th vs 3.62% on September 14th
 - 09/16 21:03 [financialjuice] Coreweave brings up a multi-rack NVIDIA Vera Rubin NVL72 cluster $NVDA
 - 09/16 21:03 [FirstSquawk] JAPAN'S DEFENSE MINISTRY INTENDS TO PURCHASE 52,000 DRONES.
@@ -202,3 +199,8 @@
 - 09/17 02:41 [financialjuice] US and China to talk AI, trade, rare earths this weekend - Axios cites sources familiar on us agenda for china talks
 - 09/17 02:42 [financialjuice] JPMorgan's Michele: We were buying the long end of US, Japan, Australia
 - 09/17 02:42 [financialjuice] JPMorgan's Michele: Bessent has done his best to stabilize the long end.
+- 09/17 02:49 [financialjuice] Societe Generale's Rajappa: Expecting another hike in December, maybe March.
+- 09/17 02:50 [financialjuice] Societe Generale's Rajappa: Long end has gotten a bit more volatile.
+- 09/17 02:50 [financialjuice] Societe Generale's Rajappa: If Warsh sounds dovish, could see long end sell off.
+- 09/17 02:56 [financialjuice] JPMorgan's Michele: Funded long-end purchases with cash.
+- 09/17 02:58 [financialjuice] The US probes Iran link to cyberattacks on Texas-bound tankers - WSJ.
