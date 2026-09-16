@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 01:33 JST／対象: 09/16 01:33 〜 09/17 01:33 JST（時刻はすべて日本時間）
+生成: 2026-09-17 01:52 JST／対象: 09/16 01:52 〜 09/17 01:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/16 01:35 | 09/17 01:09 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 359 | 09/16 02:06 | 09/17 01:31 | 45分（17:00→17:45） |
-| financialjuice | 239 | 09/16 02:00 | 09/17 01:25 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 30 | 09/16 02:04 | 09/17 01:09 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 361 | 09/16 02:06 | 09/17 01:48 | 45分（17:00→17:45） |
+| financialjuice | 240 | 09/16 02:00 | 09/17 01:35 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 617 行（統合前 631 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 619 行（統合前 633 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 01:35 [DeItaone] IRAN CLAIMS HUNDREDS OF U.S. MILITARY SITES HIT Iran’s foreign minister rejected claims that Iran is defenseless, asserting that hundreds of U.S. military sites have been destroyed and dozens of aircraft damaged. He claimed the figures were…
 - 09/16 02:00 [financialjuice] Treasury WI 20 Yr yield 5.400% before $13 billion auction
 - 09/16 02:00 [financialjuice] US Treasury Secretary Bessent hearing at House Financial Services panel concludes.
 - 09/16 02:02 [financialjuice] US 20-YEAR BOND HIGH YIELD ACTUAL 5.42% (FORECAST -, PREVIOUS 5.204%) $MACRO
@@ -641,3 +640,6 @@
 - 09/17 01:17 [FirstSquawk] SEC SHAIR ATKINS: WILL ACT TO GIVE INVESTORS CERTAINTY ON CRYPTO
 - 09/17 01:25 [financialjuice] US energy firm National Fuel Gas is exploring strategic options for its natural gas production business - sources.
 - 09/17 01:31 [FirstSquawk] UNION PACIFIC CFO: DIESEL COSTS HAVE RISEN TO ABOUT $5.25-$5.30 A GALLON FROM AN EXPECTED Q3 AVERAGE OF ROUGHLY $4.25 - MORGAN STANLEY CONF
+- 09/17 01:35 [financialjuice] AWS' Desantis: Next Tranium chip to be very differentiated. $AMZN
+- 09/17 01:37 [FirstSquawk] SWEDISH CENTER-LEFT COALITION EXPECTED TO VICTORY IN ELECTIONS, SAYS SVT.
+- 09/17 01:48 [FirstSquawk] HYPERSCALER DEBT SIGNALS WARNING SIGN, APOLLO CAUTIONS - CNBC

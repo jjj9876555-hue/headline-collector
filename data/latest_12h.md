@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 01:33 JST／対象: 09/16 13:33 〜 09/17 01:33 JST（時刻はすべて日本時間）
+生成: 2026-09-17 01:52 JST／対象: 09/16 13:52 〜 09/17 01:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/16 19:06 | 09/17 01:09 | ⚠ 68分（22:37→23:46） |
-| FirstSquawk | 165 | 09/16 13:37 | 09/17 01:31 | 45分（17:00→17:45） |
-| financialjuice | 126 | 09/16 14:36 | 09/17 01:25 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 161 | 09/16 13:56 | 09/17 01:48 | 45分（17:00→17:45） |
+| financialjuice | 127 | 09/16 14:36 | 09/17 01:35 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 310 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 307 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 13:37 [FirstSquawk] Two tankers hit by cyberattack while transiting Strait of Gibraltar An American official said two tankers were subjected to a cyberattack while passing through the Strait of Gibraltar in August.
-- 09/16 13:37 [FirstSquawk] Oil and gas cargoes raised explosion and collision risks: WSJ The two tankers targeted in the cyberattack were carrying oil and gas cargoes, according to the Wall Street Journal.
-- 09/16 13:38 [FirstSquawk] Two foreign tankers bound for U.S. shores hit by cyberattack American officials said two foreign tankers en route to U.S. shores were subjected to a cyberattack in August.
-- 09/16 13:38 [FirstSquawk] Federal investigation launched into cyberattack targeting two tankers: WSJ U.S. authorities are investigating what is believed to be a cyberattack targeting two tankers before their arrival in the United States, according to the Wall Street…
-- 09/16 13:45 [FirstSquawk] Asian stocks edge higher as markets await Fed decision Asian equities traded with modest gains on Wednesday, as investors remained cautious ahead of the Federal Reserve’s upcoming policy decision. Markets are closely watching the Fed outcom…
-- 09/16 13:49 [FirstSquawk] Amazon, Netflix and YouTube join forces to expand streaming choices: CNBC Amazon, Netflix and YouTube are joining hands in an effort to give viewers more choices across online streaming, according to CNBC.
 - 09/16 13:56 [FirstSquawk] NTT Docomo gave user data to Amazon Japan without consent: Kyodo Japan’s NTT Docomo provided user data to Amazon Japan’s local arm without obtaining users’ consent, according to Kyodo News.
 - 09/16 13:58 [FirstSquawk] Explosions reported in Kyiv, Ukrainian media says Ukrainian media reported sounds of explosions in Kyiv, without providing further details on the cause or location. The reports come amid continued security tensions in Ukraine, with authorit…
 - 09/16 14:03 [FirstSquawk] Equinor expects EU gas inventories to reach around 75% by November Equinor expects European Union gas storage inventories to reach around 75% of capacity by November, highlighting its outlook for regional gas supplies.
@@ -334,3 +328,6 @@
 - 09/17 01:17 [FirstSquawk] SEC SHAIR ATKINS: WILL ACT TO GIVE INVESTORS CERTAINTY ON CRYPTO
 - 09/17 01:25 [financialjuice] US energy firm National Fuel Gas is exploring strategic options for its natural gas production business - sources.
 - 09/17 01:31 [FirstSquawk] UNION PACIFIC CFO: DIESEL COSTS HAVE RISEN TO ABOUT $5.25-$5.30 A GALLON FROM AN EXPECTED Q3 AVERAGE OF ROUGHLY $4.25 - MORGAN STANLEY CONF
+- 09/17 01:35 [financialjuice] AWS' Desantis: Next Tranium chip to be very differentiated. $AMZN
+- 09/17 01:37 [FirstSquawk] SWEDISH CENTER-LEFT COALITION EXPECTED TO VICTORY IN ELECTIONS, SAYS SVT.
+- 09/17 01:48 [FirstSquawk] HYPERSCALER DEBT SIGNALS WARNING SIGN, APOLLO CAUTIONS - CNBC

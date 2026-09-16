@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 01:33 JST／対象: 09/16 19:33 〜 09/17 01:33 JST（時刻はすべて日本時間）
+生成: 2026-09-17 01:52 JST／対象: 09/16 19:52 〜 09/17 01:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 19 | 09/16 20:00 | 09/17 01:09 | ⚠ 68分（22:37→23:46） |
-| FirstSquawk | 78 | 09/16 19:34 | 09/17 01:31 | 18分（00:24→00:43） |
-| financialjuice | 83 | 09/16 19:52 | 09/17 01:25 | 35分（00:12→00:47） |
+| FirstSquawk | 73 | 09/16 19:52 | 09/17 01:48 | 18分（00:24→00:43） |
+| financialjuice | 83 | 09/16 19:52 | 09/17 01:35 | 35分（00:12→00:47） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 178 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 173 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 19:34 [FirstSquawk] CENTENE STILL SEES FY ADJ EPS ABOVE $4.80 (EST $4.88)
-- 09/16 19:36 [FirstSquawk] CHINESE FM WANG YI DISCUSSED WITH IRAN'S FM ARAGHCHI IN BEIJING.
-- 09/16 19:37 [FirstSquawk] LME TO ROLL OUT ELECTRONIC OPTIONS FROM MARCH 30 2027, MARKET TEST ENVIRONMENT AVAILABLE FROM OCTOBER 19 2026
-- 09/16 19:41 [FirstSquawk] RUSSIAN DEFENCE MINISTRY: RUSSIAN WARSHIP FIRED TWO RED SIGNAL FLARES TOWARD A DANISH HELICOPTER TO PREVENT 'PROVOCATION' - TASS
-- 09/16 19:41 [FirstSquawk] EU PLANS TO PROHIBIT SOCIAL MEDIA FOR KIDS UNDER 13 AND LIMIT TECHNOLOGY AND AI SERVICES FOR OLDER CHILDREN.
-- 09/16 19:47 [FirstSquawk] YEMEN'S HOUTHI REBELS, SUPPORTED BY IRAN, HAVE INCREASED THEIR THREAT TO SAUDI SHIPPING BY TAKING CONTROL OF THE IMPORTANT GREATER AND LESSER HANISH ISLANDS, ACCORDING TO GOVERNMENT AND HOUTHI SOURCES ON MONDAY.
-- 09/16 19:51 [FirstSquawk] GOLD MINE COLLAPSE IN SUDAN RESULTS IN AT LEAST 67 DEATHS, REPORTS FROM A MEDICAL ORGANIZATION AND SURVIVORS CONFIRM.
-- 09/16 19:52 [financialjuice] UK PM Burnham: Inflation is a concern, but the UK economy is showing resilience
 - 09/16 19:52 [financialjuice] UK PM Burnham: Chancellor and I will take these issues into account at the budget
 - 09/16 19:52 [financialjuice/FirstSquawk] UK PM Burnham: We are not a traditional tax and spend socialist government.
 - 09/16 19:52 [financialjuice] UK PM Burnham: We will take difficult decisions to keep the economy on track
@@ -202,3 +194,6 @@
 - 09/17 01:17 [FirstSquawk] SEC SHAIR ATKINS: WILL ACT TO GIVE INVESTORS CERTAINTY ON CRYPTO
 - 09/17 01:25 [financialjuice] US energy firm National Fuel Gas is exploring strategic options for its natural gas production business - sources.
 - 09/17 01:31 [FirstSquawk] UNION PACIFIC CFO: DIESEL COSTS HAVE RISEN TO ABOUT $5.25-$5.30 A GALLON FROM AN EXPECTED Q3 AVERAGE OF ROUGHLY $4.25 - MORGAN STANLEY CONF
+- 09/17 01:35 [financialjuice] AWS' Desantis: Next Tranium chip to be very differentiated. $AMZN
+- 09/17 01:37 [FirstSquawk] SWEDISH CENTER-LEFT COALITION EXPECTED TO VICTORY IN ELECTIONS, SAYS SVT.
+- 09/17 01:48 [FirstSquawk] HYPERSCALER DEBT SIGNALS WARNING SIGN, APOLLO CAUTIONS - CNBC
