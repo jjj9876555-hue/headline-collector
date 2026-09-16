@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 10:59 JST／対象: 09/16 04:59 〜 09/16 10:59 JST（時刻はすべて日本時間）
+生成: 2026-09-16 11:18 JST／対象: 09/16 05:18 〜 09/16 11:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/16 05:01 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 104 | 09/16 05:00 | 09/16 10:53 | 22分（06:49→07:11） |
-| financialjuice | 74 | 09/16 05:04 | 09/16 10:21 | 38分（05:04→05:43） |
+| DeItaone | 1 | 09/16 07:16 | 09/16 07:16 | - |
+| FirstSquawk | 99 | 09/16 05:21 | 09/16 11:18 | 22分（06:49→07:11） |
+| financialjuice | 73 | 09/16 05:43 | 09/16 10:21 | 22分（08:51→09:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 177 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 05:00 [FirstSquawk] OPENAI BACKS BIPARTISAN CONGRESSIONAL EFFORT TO TACKLE AI-DRIVEN BIOLOGICAL THREATS: POLITICO.
-- 09/16 05:01 [DeItaone] OPENAI ISSUING NEW ENDORSEMENTS FOR WEB OF BIOLOGICAL DATA ACT, AI-READY BIO-DATA STANDARDS ACT, SCALE BIOLOGY ACT - POLITICO
-- 09/16 05:01 [FirstSquawk] NASDAQ COMPOSITE ENDS 0.83% LOWER AT 25,970.46, DOWN 215.95 POINTS IN UNOFFICIAL CLOSE. S&P 500 ENDS 0.47% LOWER AT 7,584.47, DOWN 35.51 POINTS IN UNOFFICIAL CLOSE. DOW JONES ENDS 366 POINTS LOWER, DOWN 0.70% AT 52,054.80 IN UNOFFICIAL CLOS…
-- 09/16 05:04 [financialjuice] Stocks Fall as Treasury Yields Hit Multi-Year Highs Ahead of Fed – US Market Wrap
-- 09/16 05:06 [FirstSquawk] TRUMP SAYS THE KENNEDY CENTER BOARD AGREED ALMOST UNANIMOUSLY TO CLOSE THE BUILDING IMMEDIATELY FOR SAFETY REASONS AND TO BEGIN THE PROCESS OF RECONSTRUCTION. - TRUTH SOCIAL
-- 09/16 05:06 [FirstSquawk] TRUMP SAYS RENOVATION AND RECONSTRUCTION CANNOT BEGIN UNTIL THE D.C. CIRCUIT RULES ON THE BOARD’S APPROVED NAME, WITH THE PROJECT AT RISK IF THE RULING IS NOT OVERTURNED. - TRUTH SOCIAL
-- 09/16 05:07 [FirstSquawk] U.S. PROSECUTORS ALLEGE TWO CHINESE COMPANIES USED BINANCE ACCOUNTS TO MOVE $61 MILLION LINKED TO BLACK-MARKET IRANIAN OIL SALES, ACCORDING TO THE JUSTICE DEPARTMENT. - FT
-- 09/16 05:07 [FirstSquawk] THE FUNDS WERE PART OF A BROADER DIGITAL-WALLET NETWORK THAT ALLEGEDLY HANDLED MORE THAN $1.5 BILLION IN IRANIAN OIL PROCEEDS, WITH SOME MONEY INTENDED FOR THE IRANIAN GOVERNMENT, ITS AGENTS AND PROXIES. - FT
-- 09/16 05:08 [FirstSquawk] MESSI SET FOR POTENTIAL FAREWELL ARGENTINA APPEARANCE AS AFA INCLUDES HIM IN PRELIMINARY SQUAD FOR SEPTEMBER-OCTOBER HOME FRIENDLIES.
-- 09/16 05:11 [FirstSquawk] ARES CAPITAL CORP. ISSUES $750 MILLION OF 6.250% NOTES DUE 2033, WITH THE NOTES MATURING ON SEPTEMBER 15, 2033 AND SUBJECT TO OPTIONAL REDEMPTION BY THE COMPANY.
-- 09/16 05:12 [FirstSquawk] ARES CAPITAL SAYS IT WILL USE THE NET PROCEEDS TO REPAY OUTSTANDING INDEBTEDNESS, ACCORDING TO AN SEC FILING.
 - 09/16 05:21 [FirstSquawk] SABRE CORPORATION ANNOUNCES ADDITIONAL CASH TENDER OFFERS FOR EXISTING SECURED DEBT, WITH SABRE GLBL INC. OFFERING TO PURCHASE SECURITIES FOR UP TO $250 MILLION IN AGGREGATE VALUE. THE TENDER OFFERS ARE SET TO EXPIRE AT 5:00 P.M. NEW YORK T…
 - 09/16 05:21 [FirstSquawk] AUTONATION AMENDS AND RESTATES ITS UNSECURED CREDIT AGREEMENT, INCREASING ITS REVOLVING CREDIT FACILITY COMMITMENT TO $2 BILLION AND THE ACCORDION FEATURE LIMIT TO $1 BILLION.
 - 09/16 05:22 [FirstSquawk] AUTONATION ALSO EXTENDS THE FACILITY MATURITY TO SEPTEMBER 14, 2031, ACCORDING TO AN SEC FILING.
@@ -201,3 +190,7 @@
 - 09/16 10:38 [FirstSquawk] Multiple U.S. positions across the Middle East were affected by Iranian attacks, CBS reports. The reported strikes add to the latest escalation across the region, putting U.S. military positions and the broader security situation in focus.
 - 09/16 10:43 [FirstSquawk] Japan’s 40-year government bond yield climbed 1.0 basis point to 4.220%. The move keeps long-dated Japanese yields elevated as investors continue to assess the country’s interest-rate and bond-market outlook.
 - 09/16 10:53 [FirstSquawk] Japan’s Prime Minister Sanae Takaichi says she will reshuffle cabinet personnel on Thursday. The planned changes put Japan’s government lineup in focus as markets monitor the direction of economic and policy priorities under the Takaichi ad…
+- 09/16 10:59 [FirstSquawk] The Philippine benchmark stock index fell as much as 1.2% to 5,933.27, hitting its lowest level since June 11. The decline puts the index at a multi-month low as investors assess the latest developments across Philippine financial markets.
+- 09/16 11:08 [FirstSquawk] The Indonesian rupiah has weakened to 17,740 per U.S. dollar, its lowest level since September 2. The move puts the currency at a fresh September low as traders monitor broader dollar strength and developments in Asian foreign-exchange mark…
+- 09/16 11:17 [FirstSquawk] Japan’s Prime Minister says the government and ruling party will work to overcome the current difficult situation through an executive reshuffle. The comments come as Tokyo prepares changes to the government and ruling-party leadership, put…
+- 09/16 11:18 [FirstSquawk] Asia’s AI boom is running into a new bottleneck: talent. Chipmakers are racing to expand capacity and accelerate AI development, but the shortage of skilled engineers is becoming an increasingly important constraint. The AI race is no longe…

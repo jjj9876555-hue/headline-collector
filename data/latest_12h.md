@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 10:59 JST／対象: 09/15 22:59 〜 09/16 10:59 JST（時刻はすべて日本時間）
+生成: 2026-09-16 11:18 JST／対象: 09/15 23:18 〜 09/16 11:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 37 | 09/15 23:06 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 220 | 09/15 23:07 | 09/16 10:53 | 41分（01:25→02:06） |
-| financialjuice | 172 | 09/15 23:00 | 09/16 10:21 | 38分（05:04→05:43） |
+| DeItaone | 35 | 09/15 23:23 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 214 | 09/15 23:18 | 09/16 11:18 | 41分（01:25→02:06） |
+| financialjuice | 166 | 09/15 23:19 | 09/16 10:21 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 415 行（統合前 431 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 403 行（統合前 417 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 23:00 [financialjuice] ❗ META to roll out next-generation Astrid Chips at end of 2027. $META
-- 09/15 23:01 [financialjuice] META to deploy new in-house Arke chips in first half of 2027. $META $NVDA
-- 09/15 23:01 [financialjuice] ❗ META: Chips will save money and energy compared with Nvidia. $META $NVDA
-- 09/15 23:04 [financialjuice] US Treasury Secretary Bessent asked on 10-Yr yields, blames oil price rise.
-- 09/15 23:06 [DeItaone/FirstSquawk] *BESSENT, ASKED ON 10-YR YIELDS, BLAMES OIL PRICE RISE
-- 09/15 23:06 [financialjuice] US Treasury Secretary Bessent: We have set the table for a robust economy.
-- 09/15 23:07 [FirstSquawk] META TO ROLL OUT NEXT-GENERATION ASTRID CHIPS AT END OF 2027
-- 09/15 23:07 [FirstSquawk] META SAYS CHIPS WILL SAVE MONEY AND ENERGY COMPARED WITH NVIDIA
-- 09/15 23:07 [FirstSquawk] META TO DEPLOY NEW IN-HOUSE ARKE CHIPS IN FIRST HALF OF 2027
-- 09/15 23:07 [FirstSquawk] META SHARES EXTEND GAIN TO SESSION HIGH, UP 2%
-- 09/15 23:07 [FirstSquawk/DeItaone] BESSENT: 'WE HAVE SET THE TABLE FOR A ROBUST ECONOMY'
-- 09/15 23:09 [FirstSquawk] HONEYWELL AEROSPACE CEO: HAVE ROUGHLY 10 OR SO SUPPLIERS THAT ARE CONSIDERED TO BE ‘CONSTRAINED’
-- 09/15 23:15 [FirstSquawk] DUTCH GOVT TO PROPOSE PLAN FOR CAPITAL GAINS TAX
-- 09/15 23:15 [FirstSquawk] THERMO FISHER EXEC: ORDERS ARE OUTPACING REVENUE, BODES WELL FOR FUTURE GROWTH
-- 09/15 23:17 [FirstSquawk] BESSENT HEARING AT HOUSE DISRUPTED BY ANTI-WAR PROTESTORS
-- 09/15 23:18 [financialjuice] Fear and Greed Index: 31/100 = Fear
 - 09/15 23:18 [FirstSquawk] OPENAI SAYS IT’S WORKING WITH ANTHROPIC, GOOGLE ON AI SAFETY
 - 09/15 23:19 [FirstSquawk] WELLS FARGO SIGNALS STRONG Q3 NIM UPSIDE, SEES RESULTS BEATING GUIDANCE $WFC
 - 09/15 23:19 [financialjuice] OpenAI: We're working with Anthropic, Google on AI safety.
@@ -439,3 +423,7 @@
 - 09/16 10:38 [FirstSquawk] Multiple U.S. positions across the Middle East were affected by Iranian attacks, CBS reports. The reported strikes add to the latest escalation across the region, putting U.S. military positions and the broader security situation in focus.
 - 09/16 10:43 [FirstSquawk] Japan’s 40-year government bond yield climbed 1.0 basis point to 4.220%. The move keeps long-dated Japanese yields elevated as investors continue to assess the country’s interest-rate and bond-market outlook.
 - 09/16 10:53 [FirstSquawk] Japan’s Prime Minister Sanae Takaichi says she will reshuffle cabinet personnel on Thursday. The planned changes put Japan’s government lineup in focus as markets monitor the direction of economic and policy priorities under the Takaichi ad…
+- 09/16 10:59 [FirstSquawk] The Philippine benchmark stock index fell as much as 1.2% to 5,933.27, hitting its lowest level since June 11. The decline puts the index at a multi-month low as investors assess the latest developments across Philippine financial markets.
+- 09/16 11:08 [FirstSquawk] The Indonesian rupiah has weakened to 17,740 per U.S. dollar, its lowest level since September 2. The move puts the currency at a fresh September low as traders monitor broader dollar strength and developments in Asian foreign-exchange mark…
+- 09/16 11:17 [FirstSquawk] Japan’s Prime Minister says the government and ruling party will work to overcome the current difficult situation through an executive reshuffle. The comments come as Tokyo prepares changes to the government and ruling-party leadership, put…
+- 09/16 11:18 [FirstSquawk] Asia’s AI boom is running into a new bottleneck: talent. Chipmakers are racing to expand capacity and accelerate AI development, but the shortage of skilled engineers is becoming an increasingly important constraint. The AI race is no longe…
