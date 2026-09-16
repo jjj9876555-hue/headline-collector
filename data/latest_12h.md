@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 10:31 JST／対象: 09/15 22:31 〜 09/16 10:31 JST（時刻はすべて日本時間）
+生成: 2026-09-16 10:45 JST／対象: 09/15 22:45 〜 09/16 10:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 09/15 22:43 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 222 | 09/15 22:35 | 09/16 10:31 | 41分（01:25→02:06） |
-| financialjuice | 176 | 09/15 22:32 | 09/16 10:21 | 38分（05:04→05:43） |
+| DeItaone | 41 | 09/15 22:45 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 222 | 09/15 22:47 | 09/16 10:43 | 41分（01:25→02:06） |
+| financialjuice | 173 | 09/15 22:47 | 09/16 10:21 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 425 行（統合前 442 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 421 行（統合前 438 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 22:32 [financialjuice] Libya NOC: Output halted at the Hamada and Al-tahara fields.
-- 09/15 22:35 [FirstSquawk] US DIESEL FUTURES RISE NEAR $5.23/GALLON, HIGHEST SINCE 2022
-- 09/15 22:40 [financialjuice] Canada's corporate tax deduction is going to cost C$36b over five years.
-- 09/15 22:41 [FirstSquawk] CANADA CORPORATE TAX DEDUCTION TO COST C$36B OVER FIVE YEARS
-- 09/15 22:42 [financialjuice] OpenAI backs the House plan for safety assessments - Politico.
-- 09/15 22:43 [DeItaone] U.S. GASOLINE AND DIESEL PRICES SURGE U.S. fuel prices jumped sharply, adding fresh pressure on consumers and inflation. Regular gasoline rose 16.2 cents weekly to $4.319/gallon, now $1.151 higher than a year ago. Diesel surged 31.8 cents t…
 - 09/15 22:45 [DeItaone] OIL JUMPS AS SAUDI CANCELS EUROPEAN CARGOES Oil prices surged after Saudi Arabia reportedly cancelled September crude cargoes to some European refiners following damage to its East-West pipeline. Additional supply pressure comes from Libyan…
 - 09/15 22:46 [DeItaone] *LIBYA NOC: OUTPUT HALTED AT HAMADA, AL-TAHARA FIELDS *LIBYA FIELDS SHUTDOWN DUE TO PIPELINE CLOSURE: NOC
 - 09/15 22:47 [FirstSquawk] LIBYA NOC: OUTPUT HALTED HAMADA, AL-TAHARA FIELDS; SHUTDOWN DUE TO PIPELINE CLOSURE
@@ -449,3 +443,5 @@
 - 09/16 10:22 [FirstSquawk] China’s central bank injected 600 billion yuan into the financial system through overnight reverse repos, according to a statement. The operation adds short-term liquidity to the banking system as markets monitor funding conditions and the …
 - 09/16 10:28 [FirstSquawk] The Singapore dollar has weakened to 1.2738 per U.S. dollar, its lowest level since September 2. The move puts renewed focus on currency markets as traders track the strength of the U.S. dollar and shifting expectations around global intere…
 - 09/16 10:31 [FirstSquawk] Saudi Arabia and the Organisation of Islamic Cooperation have condemned what they described as a “heinous” Houthi attack targeting Mecca. A Houthi official, however, rejected Saudi Arabia’s account that its forces had shot down a drone head…
+- 09/16 10:38 [FirstSquawk] Multiple U.S. positions across the Middle East were affected by Iranian attacks, CBS reports. The reported strikes add to the latest escalation across the region, putting U.S. military positions and the broader security situation in focus.
+- 09/16 10:43 [FirstSquawk] Japan’s 40-year government bond yield climbed 1.0 basis point to 4.220%. The move keeps long-dated Japanese yields elevated as investors continue to assess the country’s interest-rate and bond-market outlook.
