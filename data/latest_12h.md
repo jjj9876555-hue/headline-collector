@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 00:07 JST／対象: 09/16 12:07 〜 09/17 00:07 JST（時刻はすべて日本時間）
+生成: 2026-09-17 00:25 JST／対象: 09/16 12:25 〜 09/17 00:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 13 | 09/16 19:06 | 09/16 23:46 | ⚠ 68分（22:37→23:46） |
-| FirstSquawk | 182 | 09/16 12:16 | 09/17 00:03 | 45分（17:00→17:45） |
-| financialjuice | 116 | 09/16 14:36 | 09/17 00:06 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 184 | 09/16 12:26 | 09/17 00:24 | 45分（17:00→17:45） |
+| financialjuice | 120 | 09/16 14:36 | 09/17 00:12 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 309 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 315 行（統合前 318 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 12:16 [FirstSquawk] Spot gold climbed 1% to $4,333.64 an ounce, extending gains in the precious-metal market. The move puts gold back above the $4,300/oz level as traders continue to monitor global markets and shifting expectations around interest rates.
 - 09/16 12:26 [FirstSquawk] China has warned against militarism and historical revisionism at a regional security forum, according to Kyodo News. The remarks come amid ongoing discussions over regional security and historical issues, keeping China’s position on milita…
 - 09/16 12:26 [FirstSquawk] Australia’s Speaker of the House of Representatives will lead a delegation to China from September 18 to 22, Xinhua reports. The visit will bring Australian parliamentary representatives to China as bilateral ties and parliamentary engageme…
 - 09/16 12:30 [FirstSquawk] Japan’s 12-month Treasury discount bill auction recorded a lowest price of 98.4490 and an average price of 98.4620. Bids were accepted at the lowest price at a 4.5263% rate, providing a fresh read on demand and pricing in Japan’s short-term…
@@ -333,3 +332,10 @@
 - 09/17 00:03 [FirstSquawk] EU’S KALLAS TO EU PARL’T ON URGENT NEED FOR EU SUPPORT TO UKRAINE AGAINST RUSSIA’S ESCALATION OF ITS WAR OF AGGRESSION
 - 09/17 00:03 [financialjuice] French Finance Minister Lescure: I want France and Europe to accelerate on AI, so that we can control risks.
 - 09/17 00:06 [financialjuice] Iran's Mahan Air suspends Turkey flights from Sept. 21st. Suspends Tehran-Muscat flights from Sept. 17th.
+- 09/17 00:07 [FirstSquawk] IRAN'S MAHAN AIR FLIGHTS TO TURKEY SUSPENDED FROM 21ST SEPTEMBER - ISNA
+- 09/17 00:08 [financialjuice] ❗ 2 pumping stations along Saudi Arabia's east-west oil pipeline damaged in attack last week - sources
+- 09/17 00:08 [financialjuice] Repair timeline unclear for pumping stations 8 and 9 damaged along Saudi east-west oil pipeline - sources
+- 09/17 00:12 [financialjuice] Libya's NOC chief: Production has returned to normal levels after shutdown of three oil fields reduced it for a limited time.
+- 09/17 00:12 [financialjuice] Libya's NOC Chief: We do not anticipate further shutdowns.
+- 09/17 00:20 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time
+- 09/17 00:24 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time - Conditions ‘Currently Normal’, Do Not Anticipate Further Shutdowns

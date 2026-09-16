@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 00:07 JST／対象: 09/16 18:07 〜 09/17 00:07 JST（時刻はすべて日本時間）
+生成: 2026-09-17 00:25 JST／対象: 09/16 18:25 〜 09/17 00:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 13 | 09/16 19:06 | 09/16 23:46 | ⚠ 68分（22:37→23:46） |
-| FirstSquawk | 76 | 09/16 18:12 | 09/17 00:03 | 27分（18:35→19:03） |
-| financialjuice | 78 | 09/16 18:23 | 09/17 00:06 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 78 | 09/16 18:35 | 09/17 00:24 | 27分（18:35→19:03） |
+| financialjuice | 81 | 09/16 18:33 | 09/17 00:12 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 165 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 18:12 [FirstSquawk] AMAZON PLANS TO ESTABLISH OVER 1,000 SAME-DAY DELIVERY HUBS BY 2031, AS REPORTED BY INSIDER.
-- 09/16 18:23 [financialjuice] Amazon to build over 1k same-day delivery hubs by 2031. Budgets $6.8B for US same day hubs in 2026-27. $AMZN - Insider
 - 09/16 18:33 [financialjuice] GERMAN 30 YR BUND YIELD ACTUAL 3.9% (FORECAST -, PREVIOUS 3.64%) $MACRO
 - 09/16 18:33 [financialjuice] GERMAN 30 YR BUND BID-TO-COVER ACTUAL 2.425 (FORECAST -, PREVIOUS 2.9) $MACRO
 - 09/16 18:35 [FirstSquawk] GERMANY SOLD EUR864 MILLION IN BONDS WITH A 3.4% MATURITY IN 2047, BIDDING COVER RATIO OF 2.4X (DOWN FROM 3.6X), AND AVERAGE YIELD OF 3.88% (UP FROM 3.68%).
@@ -189,3 +187,10 @@
 - 09/17 00:03 [FirstSquawk] EU’S KALLAS TO EU PARL’T ON URGENT NEED FOR EU SUPPORT TO UKRAINE AGAINST RUSSIA’S ESCALATION OF ITS WAR OF AGGRESSION
 - 09/17 00:03 [financialjuice] French Finance Minister Lescure: I want France and Europe to accelerate on AI, so that we can control risks.
 - 09/17 00:06 [financialjuice] Iran's Mahan Air suspends Turkey flights from Sept. 21st. Suspends Tehran-Muscat flights from Sept. 17th.
+- 09/17 00:07 [FirstSquawk] IRAN'S MAHAN AIR FLIGHTS TO TURKEY SUSPENDED FROM 21ST SEPTEMBER - ISNA
+- 09/17 00:08 [financialjuice] ❗ 2 pumping stations along Saudi Arabia's east-west oil pipeline damaged in attack last week - sources
+- 09/17 00:08 [financialjuice] Repair timeline unclear for pumping stations 8 and 9 damaged along Saudi east-west oil pipeline - sources
+- 09/17 00:12 [financialjuice] Libya's NOC chief: Production has returned to normal levels after shutdown of three oil fields reduced it for a limited time.
+- 09/17 00:12 [financialjuice] Libya's NOC Chief: We do not anticipate further shutdowns.
+- 09/17 00:20 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time
+- 09/17 00:24 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time - Conditions ‘Currently Normal’, Do Not Anticipate Further Shutdowns
