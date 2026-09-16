@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 22:27 JST／対象: 09/15 22:27 〜 09/16 22:27 JST（時刻はすべて日本時間）
+生成: 2026-09-16 22:46 JST／対象: 09/15 22:46 〜 09/16 22:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 09/15 22:30 | 09/16 22:20 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 397 | 09/15 22:29 | 09/16 22:21 | 45分（17:00→17:45） |
-| financialjuice | 266 | 09/15 22:28 | 09/16 22:09 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 52 | 09/15 22:46 | 09/16 22:37 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 399 | 09/15 22:47 | 09/16 22:42 | 45分（17:00→17:45） |
+| financialjuice | 264 | 09/15 22:47 | 09/16 22:38 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 700 行（統合前 720 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 698 行（統合前 718 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 22:28 [financialjuice] Karachaganak output to drop up to 450k tons during repair - IFX
-- 09/15 22:29 [FirstSquawk] TRUMP: REPUBLICANS JUST GOT ANOTHER BAD DECISION FROM UNITED STATES SUPREME COURT IN MAIL-IN BALLOT CASE
-- 09/15 22:30 [DeItaone] TRUMP BLASTS SUPREME COURT OVER MAJOR RULINGS President Trump sharply criticized the U.S. Supreme Court, accusing it of repeatedly delivering decisions harmful to Republicans and the country. Trump attacked rulings involving mail-in voting,…
-- 09/15 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -44.1 MLN NASDAQ 100: 4.6 MLN DOW 30: -23.1 MLN MAG 7: 6.2 MLN $MACRO
-- 09/15 22:31 [financialjuice] ❗ Saudi Arabia is informing some European oil refiners that their September-loading Crude cargoes are cancelled after the East-West pipeline closure - Three trade sources.
-- 09/15 22:31 [FirstSquawk] S&P 500 DOWN 2.90 POINTS, OR 0.04 %, AT 7,617.08 AFTER MARKET OPEN NASDAQ DOWN 33.99 POINTS, OR 0.13 PERCENT, AT 26,152.42 AFTER MARKET OPEN DOW JONES DOWN 122.29 POINTS, OR 0.23 PERCENT, AT 52,298.91 AFTER MARKET OPEN
-- 09/15 22:32 [financialjuice] Libya NOC: Output halted at the Hamada and Al-tahara fields.
-- 09/15 22:35 [FirstSquawk] US DIESEL FUTURES RISE NEAR $5.23/GALLON, HIGHEST SINCE 2022
-- 09/15 22:40 [financialjuice] Canada's corporate tax deduction is going to cost C$36b over five years.
-- 09/15 22:41 [FirstSquawk] CANADA CORPORATE TAX DEDUCTION TO COST C$36B OVER FIVE YEARS
-- 09/15 22:42 [financialjuice] OpenAI backs the House plan for safety assessments - Politico.
-- 09/15 22:43 [DeItaone] U.S. GASOLINE AND DIESEL PRICES SURGE U.S. fuel prices jumped sharply, adding fresh pressure on consumers and inflation. Regular gasoline rose 16.2 cents weekly to $4.319/gallon, now $1.151 higher than a year ago. Diesel surged 31.8 cents t…
-- 09/15 22:45 [DeItaone] OIL JUMPS AS SAUDI CANCELS EUROPEAN CARGOES Oil prices surged after Saudi Arabia reportedly cancelled September crude cargoes to some European refiners following damage to its East-West pipeline. Additional supply pressure comes from Libyan…
 - 09/15 22:46 [DeItaone] *LIBYA NOC: OUTPUT HALTED AT HAMADA, AL-TAHARA FIELDS *LIBYA FIELDS SHUTDOWN DUE TO PIPELINE CLOSURE: NOC
 - 09/15 22:47 [FirstSquawk] LIBYA NOC: OUTPUT HALTED HAMADA, AL-TAHARA FIELDS; SHUTDOWN DUE TO PIPELINE CLOSURE
 - 09/15 22:47 [DeItaone] BESSENT, ASKED ABOUT RISING BOND YIELDS ON TUESDAY, SAID THIS IS DUE TO “GLOBAL ISSUES”
@@ -724,3 +711,14 @@
 - 09/16 22:15 [FirstSquawk] AMAZON RAISES MINIMUM STARTING PAY FOR FULL-TIME CORE OPERATIONS EMPLOYEES TO $20/HOUR, WITH AVERAGE PAY REACHING NEARLY $24/HOUR, AND LAUNCHES GROCERY DISCOUNT AND ACCESS TO NEW LIFETIME BANKING BENEFITS TO MAKE EVERYDAY LIFE MORE AFFORDAB…
 - 09/16 22:20 [DeItaone] FED DECISION DAY: MARKETS BRACE FOR A HIKE The Federal Reserve delivers its September rate decision, with prediction markets putting an 88% probability on a 25bp hike. What Wall Street expects Bank of America: September hike, with Waller ex…
 - 09/16 22:21 [FirstSquawk] ED YARDENI SLASHES S&P 500 TARGET, SAYS ‘PROCEED WITH CAUTION’ IN STOCKS AS RATES RISE – CNBC
+- 09/16 22:30 [financialjuice] EU's Economy Commissioner Dombrovskis: Italy exit from EU deficit plan still possible.
+- 09/16 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -92.9 MLN NASDAQ 100: -18.6 MLN DOW 30: -6.5 MLN MAG 7: -16.0 MLN $MACRO
+- 09/16 22:31 [FirstSquawk] S&P 500 UP 18.52 POINTS, OR 0.24 PERCENT, AT 7,604.25 AFTER MARKET OPEN DOW JONES UP 16.25 POINTS, OR 0.03 PERCENT, AT 52,109.36 AFTER MARKET OPEN NASDAQ UP 119.80 POINTS, OR 0.46 PERCENT, AT 26,101.37 AFTER MARKET OPEN
+- 09/16 22:37 [FirstSquawk] U.S. ENERGY SECRETARY WRIGHT: GETTING MORE FLOW THROUGH BAB EL-MANDEB STRAIT WOULD BE HELPFUL -FOX NEWS
+- 09/16 22:37 [FirstSquawk] U.S. ENERGY SECRETARY WRIGHT: 18 MLN BARRELS FLOWED OUT OF PERSIAN GULF YESTERDAY -FOX NEWS
+- 09/16 22:37 [FirstSquawk] U.S. ENERGY SECRETARY: OIL AND GAS PRODUCER TO ANNOUNCE MAJOR INVESTMENT INTO VENEZUELA -FOX
+- 09/16 22:37 [DeItaone] WRIGHT: 18 MLN BARRELS FLOWED OUT OF PERSIAN GULF YESTERDAY
+- 09/16 22:38 [FirstSquawk] EU’S DOMBROVSKIS: ITALIAN EXIT FROM EU DEFICIT PLAN 'STILL POSSIBLE'
+- 09/16 22:38 [financialjuice] US Energy Secretary Wright: Oil and gas producer to announce major investment into Venezuela - Fox
+- 09/16 22:38 [financialjuice] China considers BYD for CEO delegation at Xi-Trump summit.
+- 09/16 22:42 [FirstSquawk] WHO OFFICIAL SAYS MORE THAN 3,000 HEALTHCARE, FRONTLINE WORKERS IN DRC HAVE RECEIVED EBOLA VACCINE

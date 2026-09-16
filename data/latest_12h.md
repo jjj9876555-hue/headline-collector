@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 22:27 JST／対象: 09/16 10:27 〜 09/16 22:27 JST（時刻はすべて日本時間）
+生成: 2026-09-16 22:46 JST／対象: 09/16 10:46 〜 09/16 22:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/16 19:06 | 09/16 22:20 | ⚠ 48分（20:44→21:33） |
-| FirstSquawk | 175 | 09/16 10:28 | 09/16 22:21 | 45分（17:00→17:45） |
-| financialjuice | 87 | 09/16 14:36 | 09/16 22:09 | ⚠ 50分（19:01→19:52） |
+| DeItaone | 12 | 09/16 19:06 | 09/16 22:37 | ⚠ 48分（20:44→21:33） |
+| FirstSquawk | 177 | 09/16 10:53 | 09/16 22:42 | 45分（17:00→17:45） |
+| financialjuice | 91 | 09/16 14:36 | 09/16 22:38 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 271 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 278 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 10:28 [FirstSquawk] The Singapore dollar has weakened to 1.2738 per U.S. dollar, its lowest level since September 2. The move puts renewed focus on currency markets as traders track the strength of the U.S. dollar and shifting expectations around global intere…
-- 09/16 10:31 [FirstSquawk] Saudi Arabia and the Organisation of Islamic Cooperation have condemned what they described as a “heinous” Houthi attack targeting Mecca. A Houthi official, however, rejected Saudi Arabia’s account that its forces had shot down a drone head…
-- 09/16 10:38 [FirstSquawk] Multiple U.S. positions across the Middle East were affected by Iranian attacks, CBS reports. The reported strikes add to the latest escalation across the region, putting U.S. military positions and the broader security situation in focus.
-- 09/16 10:43 [FirstSquawk] Japan’s 40-year government bond yield climbed 1.0 basis point to 4.220%. The move keeps long-dated Japanese yields elevated as investors continue to assess the country’s interest-rate and bond-market outlook.
 - 09/16 10:53 [FirstSquawk] Japan’s Prime Minister Sanae Takaichi says she will reshuffle cabinet personnel on Thursday. The planned changes put Japan’s government lineup in focus as markets monitor the direction of economic and policy priorities under the Takaichi ad…
 - 09/16 10:59 [FirstSquawk] The Philippine benchmark stock index fell as much as 1.2% to 5,933.27, hitting its lowest level since June 11. The decline puts the index at a multi-month low as investors assess the latest developments across Philippine financial markets.
 - 09/16 11:08 [FirstSquawk] The Indonesian rupiah has weakened to 17,740 per U.S. dollar, its lowest level since September 2. The move puts the currency at a fresh September low as traders monitor broader dollar strength and developments in Asian foreign-exchange mark…
@@ -295,3 +291,14 @@
 - 09/16 22:15 [FirstSquawk] AMAZON RAISES MINIMUM STARTING PAY FOR FULL-TIME CORE OPERATIONS EMPLOYEES TO $20/HOUR, WITH AVERAGE PAY REACHING NEARLY $24/HOUR, AND LAUNCHES GROCERY DISCOUNT AND ACCESS TO NEW LIFETIME BANKING BENEFITS TO MAKE EVERYDAY LIFE MORE AFFORDAB…
 - 09/16 22:20 [DeItaone] FED DECISION DAY: MARKETS BRACE FOR A HIKE The Federal Reserve delivers its September rate decision, with prediction markets putting an 88% probability on a 25bp hike. What Wall Street expects Bank of America: September hike, with Waller ex…
 - 09/16 22:21 [FirstSquawk] ED YARDENI SLASHES S&P 500 TARGET, SAYS ‘PROCEED WITH CAUTION’ IN STOCKS AS RATES RISE – CNBC
+- 09/16 22:30 [financialjuice] EU's Economy Commissioner Dombrovskis: Italy exit from EU deficit plan still possible.
+- 09/16 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -92.9 MLN NASDAQ 100: -18.6 MLN DOW 30: -6.5 MLN MAG 7: -16.0 MLN $MACRO
+- 09/16 22:31 [FirstSquawk] S&P 500 UP 18.52 POINTS, OR 0.24 PERCENT, AT 7,604.25 AFTER MARKET OPEN DOW JONES UP 16.25 POINTS, OR 0.03 PERCENT, AT 52,109.36 AFTER MARKET OPEN NASDAQ UP 119.80 POINTS, OR 0.46 PERCENT, AT 26,101.37 AFTER MARKET OPEN
+- 09/16 22:37 [FirstSquawk] U.S. ENERGY SECRETARY WRIGHT: GETTING MORE FLOW THROUGH BAB EL-MANDEB STRAIT WOULD BE HELPFUL -FOX NEWS
+- 09/16 22:37 [FirstSquawk] U.S. ENERGY SECRETARY WRIGHT: 18 MLN BARRELS FLOWED OUT OF PERSIAN GULF YESTERDAY -FOX NEWS
+- 09/16 22:37 [FirstSquawk] U.S. ENERGY SECRETARY: OIL AND GAS PRODUCER TO ANNOUNCE MAJOR INVESTMENT INTO VENEZUELA -FOX
+- 09/16 22:37 [DeItaone] WRIGHT: 18 MLN BARRELS FLOWED OUT OF PERSIAN GULF YESTERDAY
+- 09/16 22:38 [FirstSquawk] EU’S DOMBROVSKIS: ITALIAN EXIT FROM EU DEFICIT PLAN 'STILL POSSIBLE'
+- 09/16 22:38 [financialjuice] US Energy Secretary Wright: Oil and gas producer to announce major investment into Venezuela - Fox
+- 09/16 22:38 [financialjuice] China considers BYD for CEO delegation at Xi-Trump summit.
+- 09/16 22:42 [FirstSquawk] WHO OFFICIAL SAYS MORE THAN 3,000 HEALTHCARE, FRONTLINE WORKERS IN DRC HAVE RECEIVED EBOLA VACCINE
