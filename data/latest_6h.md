@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 19:26 JST／対象: 09/16 13:26 〜 09/16 19:26 JST（時刻はすべて日本時間）
+生成: 2026-09-16 19:44 JST／対象: 09/16 13:44 〜 09/16 19:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/16 19:06 | 09/16 19:25 | 19分（19:06→19:25） |
-| FirstSquawk | 87 | 09/16 13:31 | 09/16 19:25 | 45分（17:00→17:45） |
+| FirstSquawk | 88 | 09/16 13:45 | 09/16 19:41 | 45分（17:00→17:45） |
 | financialjuice | 43 | 09/16 14:36 | 09/16 19:01 | 40分（15:13→15:53） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 132 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 133 行（統合前 133 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 13:31 [FirstSquawk] Japan August imports jump as oil prices lift costs Japan’s imports rose sharply in August as higher oil prices pushed up import costs, while exports remained firm during the month.
-- 09/16 13:31 [FirstSquawk] Iran says it fears no war in defending sovereignty and security A deputy for Iran’s armed forces operations said at the Xiangshan Forum that Iran fears no war when it comes to safeguarding its sovereignty and national security. The remarks …
-- 09/16 13:37 [FirstSquawk] Two tankers hit by cyberattack while transiting Strait of Gibraltar An American official said two tankers were subjected to a cyberattack while passing through the Strait of Gibraltar in August.
-- 09/16 13:37 [FirstSquawk] Oil and gas cargoes raised explosion and collision risks: WSJ The two tankers targeted in the cyberattack were carrying oil and gas cargoes, according to the Wall Street Journal.
-- 09/16 13:38 [FirstSquawk] Two foreign tankers bound for U.S. shores hit by cyberattack American officials said two foreign tankers en route to U.S. shores were subjected to a cyberattack in August.
-- 09/16 13:38 [FirstSquawk] Federal investigation launched into cyberattack targeting two tankers: WSJ U.S. authorities are investigating what is believed to be a cyberattack targeting two tankers before their arrival in the United States, according to the Wall Street…
 - 09/16 13:45 [FirstSquawk] Asian stocks edge higher as markets await Fed decision Asian equities traded with modest gains on Wednesday, as investors remained cautious ahead of the Federal Reserve’s upcoming policy decision. Markets are closely watching the Fed outcom…
 - 09/16 13:49 [FirstSquawk] Amazon, Netflix and YouTube join forces to expand streaming choices: CNBC Amazon, Netflix and YouTube are joining hands in an effort to give viewers more choices across online streaming, according to CNBC.
 - 09/16 13:56 [FirstSquawk] NTT Docomo gave user data to Amazon Japan without consent: Kyodo Japan’s NTT Docomo provided user data to Amazon Japan’s local arm without obtaining users’ consent, according to Kyodo News.
@@ -156,3 +150,10 @@
 - 09/16 19:18 [FirstSquawk] EUROPEAN COMMISSION PRESIDENT URSULA VON DER LEYEN AIMS FOR CANADA TO BE THE EU'S FIRST 'ASSOCIATE MEMBER.'
 - 09/16 19:25 [FirstSquawk] MORGAN STANLEY ASSUMES AIRBNB COVERAGE WITH ‘EQUAL WEIGHT’ RATING; PRICE TARGET $170
 - 09/16 19:25 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:30 AM ET — 🇺🇸 Retail Sales 8:30 AM ET — 🇺🇸 Import & Export Prices 10:30 AM ET — 🛢️ EIA Oil Inventories 1:00 PM ET — 🇺🇸 Treasury Auction 2:00 PM ET — 🏦 FOMC RATE DECISION + DOT PLOT 2:30 PM ET — 🎙️ Fed…
+- 09/16 19:30 [FirstSquawk] SAUDI AIR DEFENSES DEFEATED A DRONE FROM YEMEN’S HOUTHIS BEFORE IT REACHED RESTRICTED AIRSPACE NEAR MECCA, ACCORDING TO THE SAUDI-LED COALITION.
+- 09/16 19:32 [FirstSquawk] FORMER ISRAELI PM NAFTALI BENNETT WARNS THAT IF IRAN OBTAINS NUCLEAR WEAPONS, NEIGHBORING COUNTRIES LIKE SAUDI ARABIA, TURKEY, AND EGYPT WILL SEEK THEIR OWN NUCLEAR CAPABILITIES AS WELL.
+- 09/16 19:34 [FirstSquawk] CENTENE STILL SEES FY ADJ EPS ABOVE $4.80 (EST $4.88)
+- 09/16 19:36 [FirstSquawk] CHINESE FM WANG YI DISCUSSED WITH IRAN'S FM ARAGHCHI IN BEIJING.
+- 09/16 19:37 [FirstSquawk] LME TO ROLL OUT ELECTRONIC OPTIONS FROM MARCH 30 2027, MARKET TEST ENVIRONMENT AVAILABLE FROM OCTOBER 19 2026
+- 09/16 19:41 [FirstSquawk] RUSSIAN DEFENCE MINISTRY: RUSSIAN WARSHIP FIRED TWO RED SIGNAL FLARES TOWARD A DANISH HELICOPTER TO PREVENT 'PROVOCATION' - TASS
+- 09/16 19:41 [FirstSquawk] EU PLANS TO PROHIBIT SOCIAL MEDIA FOR KIDS UNDER 13 AND LIMIT TECHNOLOGY AND AI SERVICES FOR OLDER CHILDREN.
