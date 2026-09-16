@@ -7,49 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 12:44 JST／対象: 09/16 00:44 〜 09/16 12:44 JST（時刻はすべて日本時間）
+生成: 2026-09-16 12:58 JST／対象: 09/16 00:58 〜 09/16 12:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 09/16 00:50 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 189 | 09/16 00:47 | 09/16 12:38 | 41分（01:25→02:06） |
-| financialjuice | 127 | 09/16 00:49 | 09/16 10:21 | 38分（05:04→05:43） |
+| DeItaone | 15 | 09/16 01:01 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
+| FirstSquawk | 177 | 09/16 00:59 | 09/16 12:55 | 41分（01:25→02:06） |
+| financialjuice | 119 | 09/16 00:59 | 09/16 10:21 | 38分（05:04→05:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 324 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 301 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 00:47 [FirstSquawk] BESSENT RESPONDS TO QUESTIONS ABOUT WHETHER $5,000 CHECKS REQUIRE CONGRESSIONAL APPROVAL.
-- 09/16 00:47 [FirstSquawk] BESSENT SAID GOP'S NOVEMBER WIN WOULD INVOLVE $5,000 CHECKS.
-- 09/16 00:47 [FirstSquawk] US TREASURY SECRETARY BESSENT SAYS AI NEEDS TO BE ADDRESSED FOR INNOVATION AND SAFETY.
-- 09/16 00:47 [FirstSquawk] US TREASURY SECRETARY BESSENT STATED THAT THE BOND BUYBACK INTERVENTION BY THE TREASURY WAS SUCCESSFUL.
-- 09/16 00:47 [FirstSquawk] US TREASURY SECRETARY BESSENT ANNOUNCED THAT TWO RECENT TREASURY AUCTIONS HAVE BEEN AMONG THE MOST SUCCESSFUL IN THE LAST 20 YEARS.
-- 09/16 00:47 [FirstSquawk] BESSENT INDICATES THAT WORK IS 'UNDERWAY' ON OFFSETTING $5,000 CHECKS.
-- 09/16 00:47 [FirstSquawk] BESSENT URGES LAWMAKERS TO KEEP AI LIABILITY RULES IN PLACE.
-- 09/16 00:48 [FirstSquawk] BESSENT SAYS AI COMPANIES SHOULD NOT BE ALLOWED A 'BLANK CHECK ON LIABILITY.'
-- 09/16 00:48 [FirstSquawk] BESSENT STATED THAT WITH ARGENTINA, THEY HAD A COMPLETELY COLLATERALIZED SWAP LINE.
-- 09/16 00:49 [financialjuice] US Treasury Secretary Bessent: We had been in constant dialog on Japan interventions.
-- 09/16 00:49 [financialjuice] US Treasury Secretary Bessent: US used nominal amount for yen intervention.
-- 09/16 00:50 [DeItaone] RUSSIAN OIL PREMIUMS SURGE AS MIDDLE EAST SUPPLY TIGHTENS Russian Urals crude premiums in India jumped to $8/barrel over Brent, up from around $1 in August and the highest since May. Middle East supply disruptions are pushing Indian and Chi…
-- 09/16 00:50 [financialjuice] US Treasury's Bessent: Stronger yen is better for US exporters.
-- 09/16 00:50 [financialjuice] US Treasury Secretary Bessent: US made tens of mlns of dollars on yen intervention.
-- 09/16 00:51 [financialjuice] US Energy Secretary Wright on Saudis and oil: I think will see pipeline running again very soon - CNBC Interview
-- 09/16 00:51 [financialjuice] US Energy Secretary Wright: I think pipeline opening will be measured in days.
-- 09/16 00:52 [FirstSquawk] BESSENT EARNED MILLIONS FROM PREVIOUS ASSISTANCE TO ARGENTINA.
-- 09/16 00:52 [FirstSquawk] BESSENT STATED THEY WERE ALWAYS IN COMMUNICATION ABOUT JAPAN'S INTERVENTIONS.
-- 09/16 00:52 [DeItaone] BESSENT: FOR A NOMINAL AMOUNT, THE U.S. TREASURY WAS ABLE TO SIGNAL SUPPORT FOR JAPANESE POLICIES
-- 09/16 00:52 [FirstSquawk] BESSENT SAYS A STRONGER YEN BENEFITS U.S. EXPORTS.
-- 09/16 00:52 [FirstSquawk] U.S. ENERGY SECRETARY WRIGHT EXPECTS OIL PIPELINES IN SAUDI ARABIA TO OPERATE AGAIN SOON, ACCORDING TO A CNBC INTERVIEW.
-- 09/16 00:52 [FirstSquawk] WRIGHT BELIEVES THE PIPELINE OPENING WILL OCCUR IN A FEW DAYS.
-- 09/16 00:52 [FirstSquawk] STRONGER YEN MEANS JAPAN CAN AVOID SELLING US ASSETS, SAYS BESSENT.
-- 09/16 00:52 [financialjuice] US Treasury Secretary Bessent: For a nominal amount, US Treasury was able to signal support for Japanese policies
-- 09/16 00:54 [financialjuice] US Energy Secretary Wright's interview on CNBC ends
-- 09/16 00:57 [DeItaone] U.S., GULF STATES EXPAND HORMUZ TANKER TRANSITS The U.S. military and Gulf countries have begun conducting daytime tanker transits through the Strait of Hormuz, according to a U.S. official cited by Axios. Previously, escorted transits had …
 - 09/16 00:59 [financialjuice] US Treasury Secretary Bessent: We do not set equilibrium price for yield levels.
 - 09/16 00:59 [FirstSquawk] BESSENT STATES THEY DO NOT DETERMINE THE BALANCE PRICE FOR YIELD LEVELS AND BELIEVES THEY HAVE THE REQUIRED TOOLS.
 - 09/16 01:01 [financialjuice] US Treasury Secretary Bessent: The need to address deficit is one factor affecting 10-year treasury bond yield
@@ -348,3 +322,6 @@
 - 09/16 12:30 [FirstSquawk] Japan’s 12-month Treasury discount bill auction recorded a lowest price of 98.4490 and an average price of 98.4620. Bids were accepted at the lowest price at a 4.5263% rate, providing a fresh read on demand and pricing in Japan’s short-term…
 - 09/16 12:38 [FirstSquawk] The RBI may raise its policy rate by 25 basis points each in October and December, with inflation potentially moving above 6%, according to the latest outlook. If realized, the two hikes would amount to 50 basis points of tightening, puttin…
 - 09/16 12:38 [FirstSquawk] Japan is tightening enforcement against bicycle traffic violations, but the country still trails many global peers in developing dedicated cycling infrastructure. The gap highlights a key challenge: stricter enforcement is being introduced …
+- 09/16 12:49 [FirstSquawk] Families of Chinese people subjected to wartime forced labor have filed lawsuits against six Japanese companies, Kyodo News reports. The legal action brings longstanding wartime labor issues back into focus and involves claims by relatives …
+- 09/16 12:51 [FirstSquawk] China is tightening border controls with national security increasingly linked to entry and exit rules, as its technology rivalry with the U.S. intensifies. The policy shift brings cross-border movement further into the national-security fr…
+- 09/16 12:55 [FirstSquawk] The average U.S. diesel price has surged to a record $6.30 per gallon, while gasoline has climbed to $4.36. Kalshi expects the average diesel price to reach $7.20 per gallon this year, underscoring the growing pressure on transportation and…

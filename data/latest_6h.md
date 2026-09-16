@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 12:44 JST／対象: 09/16 06:44 〜 09/16 12:44 JST（時刻はすべて日本時間）
+生成: 2026-09-16 12:58 JST／対象: 09/16 06:58 〜 09/16 12:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/16 07:16 | 09/16 07:16 | - |
-| FirstSquawk | 96 | 09/16 06:49 | 09/16 12:38 | 22分（06:49→07:11） |
-| financialjuice | 58 | 09/16 06:56 | 09/16 10:21 | 22分（08:51→09:13） |
+| FirstSquawk | 98 | 09/16 07:11 | 09/16 12:55 | 21分（07:51→08:13） |
+| financialjuice | 56 | 09/16 07:00 | 09/16 10:21 | 22分（08:51→09:13） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 153 行（統合前 155 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 06:49 [FirstSquawk] THE U.S. IS PREPARING A $2.8 BILLION WEAPONS PACKAGE FOR ISRAEL, INCLUDING 40,000 HEAVY BOMBS AND 20,000 PENETRATOR WARHEADS, ACCORDING TO AP. THE PROPOSED PACKAGE INCLUDES 20,000 MK-84 2,000-POUND BOMBS, 20,000 BLU-117 BOMBS AND 20,000 I-2…
-- 09/16 06:56 [financialjuice] OpenAI considers funding round at $0.2tn valuation ahead of IPO - FT
-- 09/16 06:57 [financialjuice] OpenAI weighs funding round at $1.2tn valuation before IPO: FT
 - 09/16 07:00 [financialjuice] Kraken investigating issue with base network funding gateway, deposits and withdrawals may be delayed
 - 09/16 07:06 [financialjuice/FirstSquawk] Microsoft declares quarterly dividend of $0.98 per share, up 8% from prior quarter
 - 09/16 07:06 [financialjuice/FirstSquawk] Several blasts heard on Iran's Geshm island: IRNA citing local sources
@@ -177,3 +174,6 @@
 - 09/16 12:30 [FirstSquawk] Japan’s 12-month Treasury discount bill auction recorded a lowest price of 98.4490 and an average price of 98.4620. Bids were accepted at the lowest price at a 4.5263% rate, providing a fresh read on demand and pricing in Japan’s short-term…
 - 09/16 12:38 [FirstSquawk] The RBI may raise its policy rate by 25 basis points each in October and December, with inflation potentially moving above 6%, according to the latest outlook. If realized, the two hikes would amount to 50 basis points of tightening, puttin…
 - 09/16 12:38 [FirstSquawk] Japan is tightening enforcement against bicycle traffic violations, but the country still trails many global peers in developing dedicated cycling infrastructure. The gap highlights a key challenge: stricter enforcement is being introduced …
+- 09/16 12:49 [FirstSquawk] Families of Chinese people subjected to wartime forced labor have filed lawsuits against six Japanese companies, Kyodo News reports. The legal action brings longstanding wartime labor issues back into focus and involves claims by relatives …
+- 09/16 12:51 [FirstSquawk] China is tightening border controls with national security increasingly linked to entry and exit rules, as its technology rivalry with the U.S. intensifies. The policy shift brings cross-border movement further into the national-security fr…
+- 09/16 12:55 [FirstSquawk] The average U.S. diesel price has surged to a record $6.30 per gallon, while gasoline has climbed to $4.36. Kalshi expects the average diesel price to reach $7.20 per gallon this year, underscoring the growing pressure on transportation and…

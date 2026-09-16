@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 12:44 JST／対象: 09/15 12:44 〜 09/16 12:44 JST（時刻はすべて日本時間）
+生成: 2026-09-16 12:58 JST／対象: 09/15 12:58 〜 09/16 12:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/15 16:20 | 09/16 07:16 | ⚠ 135分（05:01→07:16） |
-| FirstSquawk | 413 | 09/15 12:51 | 09/16 12:38 | 41分（01:25→02:06） |
+| FirstSquawk | 414 | 09/15 13:02 | 09/16 12:55 | 41分（01:25→02:06） |
 | financialjuice | 233 | 09/15 14:16 | 09/16 10:21 | ⚠ 353分（15:11→21:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 688 行（統合前 705 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 689 行（統合前 706 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 12:51 [FirstSquawk] Japan’s 20-year government bond auction draws stronger demand, with bid-cover ratio rising to 4.01 from 3.98.
-- 09/15 12:58 [FirstSquawk] HONG KONG’S STOCK MARKET COMES UNDER PRESSURE AS A WAVE OF AI LISTINGS ADDS TO SUPPLY CONCERNS, FT REPORTS.
 - 09/15 13:02 [FirstSquawk] Oxford spin-off develops low-cost jet engines for drones, FT reports.
 - 09/15 13:02 [FirstSquawk] Saudi Arabia faces mounting pressure as Iran’s allies expand their regional push - FT
 - 09/15 13:03 [FirstSquawk] Italian AI cybersecurity start-up Exein raises $270mn to fight hackers with AI, FT reports.
@@ -712,3 +710,6 @@
 - 09/16 12:30 [FirstSquawk] Japan’s 12-month Treasury discount bill auction recorded a lowest price of 98.4490 and an average price of 98.4620. Bids were accepted at the lowest price at a 4.5263% rate, providing a fresh read on demand and pricing in Japan’s short-term…
 - 09/16 12:38 [FirstSquawk] The RBI may raise its policy rate by 25 basis points each in October and December, with inflation potentially moving above 6%, according to the latest outlook. If realized, the two hikes would amount to 50 basis points of tightening, puttin…
 - 09/16 12:38 [FirstSquawk] Japan is tightening enforcement against bicycle traffic violations, but the country still trails many global peers in developing dedicated cycling infrastructure. The gap highlights a key challenge: stricter enforcement is being introduced …
+- 09/16 12:49 [FirstSquawk] Families of Chinese people subjected to wartime forced labor have filed lawsuits against six Japanese companies, Kyodo News reports. The legal action brings longstanding wartime labor issues back into focus and involves claims by relatives …
+- 09/16 12:51 [FirstSquawk] China is tightening border controls with national security increasingly linked to entry and exit rules, as its technology rivalry with the U.S. intensifies. The policy shift brings cross-border movement further into the national-security fr…
+- 09/16 12:55 [FirstSquawk] The average U.S. diesel price has surged to a record $6.30 per gallon, while gasoline has climbed to $4.36. Kalshi expects the average diesel price to reach $7.20 per gallon this year, underscoring the growing pressure on transportation and…
