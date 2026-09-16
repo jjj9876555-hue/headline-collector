@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 01:18 JST／対象: 09/16 13:18 〜 09/17 01:18 JST（時刻はすべて日本時間）
+生成: 2026-09-17 01:33 JST／対象: 09/16 13:33 〜 09/17 01:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/16 19:06 | 09/17 01:09 | ⚠ 68分（22:37→23:46） |
-| FirstSquawk | 169 | 09/16 13:21 | 09/17 01:17 | 45分（17:00→17:45） |
-| financialjuice | 125 | 09/16 14:36 | 09/17 01:14 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 165 | 09/16 13:37 | 09/17 01:31 | 45分（17:00→17:45） |
+| financialjuice | 126 | 09/16 14:36 | 09/17 01:25 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 313 行（統合前 315 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 310 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 13:21 [FirstSquawk] Iran condemns U.S. “suppression,” armed forces official says A deputy for Iran’s armed forces operations has condemned what he described as various forms of suppression by the United States at the Xiangshan Forum.
-- 09/16 13:21 [FirstSquawk] Iran official says external interference has torn apart regional unity A deputy for Iran’s armed forces operations said at the Xiangshan Forum that long-term interference by external forces in the Middle East has torn apart unity across the…
-- 09/16 13:22 [FirstSquawk] Iran calls for global condemnation of “unilateral hegemonism” A deputy for Iran’s armed forces operations called on countries around the world to condemn what he described as unilateral hegemonism and the “law of the jungle.”
-- 09/16 13:31 [FirstSquawk] Japan August imports jump as oil prices lift costs Japan’s imports rose sharply in August as higher oil prices pushed up import costs, while exports remained firm during the month.
-- 09/16 13:31 [FirstSquawk] Iran says it fears no war in defending sovereignty and security A deputy for Iran’s armed forces operations said at the Xiangshan Forum that Iran fears no war when it comes to safeguarding its sovereignty and national security. The remarks …
 - 09/16 13:37 [FirstSquawk] Two tankers hit by cyberattack while transiting Strait of Gibraltar An American official said two tankers were subjected to a cyberattack while passing through the Strait of Gibraltar in August.
 - 09/16 13:37 [FirstSquawk] Oil and gas cargoes raised explosion and collision risks: WSJ The two tankers targeted in the cyberattack were carrying oil and gas cargoes, according to the Wall Street Journal.
 - 09/16 13:38 [FirstSquawk] Two foreign tankers bound for U.S. shores hit by cyberattack American officials said two foreign tankers en route to U.S. shores were subjected to a cyberattack in August.
@@ -337,3 +332,5 @@
 - 09/17 01:14 [financialjuice] SEC's Atkins: We can act within sec authority with or without crypto law.
 - 09/17 01:15 [FirstSquawk] PENTAGON CTO OPPOSES U.S. GOVERNMENT OWNERSHIP IN TECH GIANTS AND RAISES CONCERNS ABOUT AI REGULATIONS.
 - 09/17 01:17 [FirstSquawk] SEC SHAIR ATKINS: WILL ACT TO GIVE INVESTORS CERTAINTY ON CRYPTO
+- 09/17 01:25 [financialjuice] US energy firm National Fuel Gas is exploring strategic options for its natural gas production business - sources.
+- 09/17 01:31 [FirstSquawk] UNION PACIFIC CFO: DIESEL COSTS HAVE RISEN TO ABOUT $5.25-$5.30 A GALLON FROM AN EXPECTED Q3 AVERAGE OF ROUGHLY $4.25 - MORGAN STANLEY CONF
