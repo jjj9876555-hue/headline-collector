@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 06:17 JST／対象: 09/17 00:17 〜 09/17 06:17 JST（時刻はすべて日本時間）
+生成: 2026-09-17 06:33 JST／対象: 09/17 00:33 〜 09/17 06:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 32 | 09/17 00:38 | 09/17 05:51 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 105 | 09/17 00:20 | 09/17 06:13 | 32分（05:10→05:42） |
+| FirstSquawk | 106 | 09/17 00:43 | 09/17 06:29 | 32分（05:10→05:42） |
 | financialjuice | 120 | 09/17 00:47 | 09/17 05:57 | 25分（05:05→05:30） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 245 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 246 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 00:20 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time
-- 09/17 00:24 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time - Conditions ‘Currently Normal’, Do Not Anticipate Further Shutdowns
 - 09/17 00:38 [DeItaone] JPMORGAN MAPS FED DAY: STOCKS COULD SWING 2% JPMorgan says Fed communication could determine whether stocks rally or sell off after today’s widely expected 25bp hike. A standard hike with limited guidance could lift the S&P 500 0.25%–0.75%,…
 - 09/17 00:43 [FirstSquawk] ANDY BURNHAM HAS BEEN FORCED TO SCALE BACK HOPES FOR A MAJOR EU RESET AFTER BRUSSELS SIGNALED GREATER INTEREST IN CLOSER TIES WITH CANADA.
 - 09/17 00:43 [DeItaone] STOCKS RISE AS YIELDS RETREAT AHEAD OF FED Global stocks moved higher ahead of today’s Fed rate decision, with markets pricing more than a 90% chance of a 25bp hike. The S&P 500 gained 0.26% and Nasdaq 0.60%, while the 10-year Treasury yiel…
@@ -269,3 +267,6 @@
 - 09/17 05:57 [financialjuice] Exxon and PDVSA near an MOU on fields with 50b barrels - WSJ. $XOM
 - 09/17 05:59 [FirstSquawk] EXXON NEARS PRELIMINARY DEAL TO INVEST IN VENEZUELA OIL FIELDS; MOU WITH PDVSA COULD BE SIGNED THIS MONTH — WSJ
 - 09/17 06:13 [FirstSquawk] NORTH KOREA’S KIM YO JONG DENOUNCES IAEA MEETING ON DENUCLEARIZATION
+- 09/17 06:28 [FirstSquawk] UK PM BURNHAM WELCOMES CANADA AS FIRST OBSERVER NATION IN GLOBAL COMBAT AIR PROGRAMME (GCAP) THIS SUMMER — DOWNING STREET
+- 09/17 06:28 [FirstSquawk] DOWNING STREET: LEADERS DISCUSS AI OPPORTUNITIES AND RISKS, BACK GOVERNMENT-TECH COOPERATION TO ADDRESS SHARED CONCERNS AND PROTECT ONLINE SAFETY
+- 09/17 06:29 [FirstSquawk] DOWNING STREET: LEADERS DISCUSS STRENGTHENING DEFENCE COOPERATION, INCLUDING MULTILATERAL DEFENCE MECHANISM AND DSRB

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 06:17 JST／対象: 09/16 18:17 〜 09/17 06:17 JST（時刻はすべて日本時間）
+生成: 2026-09-17 06:33 JST／対象: 09/16 18:33 〜 09/17 06:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 45 | 09/16 19:06 | 09/17 05:51 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 181 | 09/16 18:35 | 09/17 06:13 | 32分（05:10→05:42） |
-| financialjuice | 202 | 09/16 18:23 | 09/17 05:57 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 184 | 09/16 18:35 | 09/17 06:29 | 32分（05:10→05:42） |
+| financialjuice | 199 | 09/16 19:00 | 09/17 05:57 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 414 行（統合前 432 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 18:23 [financialjuice] Amazon to build over 1k same-day delivery hubs by 2031. Budgets $6.8B for US same day hubs in 2026-27. $AMZN - Insider
-- 09/16 18:33 [financialjuice] GERMAN 30 YR BUND YIELD ACTUAL 3.9% (FORECAST -, PREVIOUS 3.64%) $MACRO
-- 09/16 18:33 [financialjuice] GERMAN 30 YR BUND BID-TO-COVER ACTUAL 2.425 (FORECAST -, PREVIOUS 2.9) $MACRO
 - 09/16 18:35 [FirstSquawk] GERMANY SOLD EUR864 MILLION IN BONDS WITH A 3.4% MATURITY IN 2047, BIDDING COVER RATIO OF 2.4X (DOWN FROM 3.6X), AND AVERAGE YIELD OF 3.88% (UP FROM 3.68%).
 - 09/16 18:35 [FirstSquawk] GERMANY SOLD EUR 1.257 BILLION IN 2056 BONDS AT A 2.9% RATE; BID-TO-COVER RATIO AT 2.4X (DOWN FROM 2.9X); AVERAGE YIELD REACHED 3.90% (UP FROM 3.64%).
 - 09/16 19:00 [financialjuice] Meta partner Nextera to hire 1,000 from its workforce academy $META
@@ -438,3 +435,6 @@
 - 09/17 05:57 [financialjuice] Exxon and PDVSA near an MOU on fields with 50b barrels - WSJ. $XOM
 - 09/17 05:59 [FirstSquawk] EXXON NEARS PRELIMINARY DEAL TO INVEST IN VENEZUELA OIL FIELDS; MOU WITH PDVSA COULD BE SIGNED THIS MONTH — WSJ
 - 09/17 06:13 [FirstSquawk] NORTH KOREA’S KIM YO JONG DENOUNCES IAEA MEETING ON DENUCLEARIZATION
+- 09/17 06:28 [FirstSquawk] UK PM BURNHAM WELCOMES CANADA AS FIRST OBSERVER NATION IN GLOBAL COMBAT AIR PROGRAMME (GCAP) THIS SUMMER — DOWNING STREET
+- 09/17 06:28 [FirstSquawk] DOWNING STREET: LEADERS DISCUSS AI OPPORTUNITIES AND RISKS, BACK GOVERNMENT-TECH COOPERATION TO ADDRESS SHARED CONCERNS AND PROTECT ONLINE SAFETY
+- 09/17 06:29 [FirstSquawk] DOWNING STREET: LEADERS DISCUSS STRENGTHENING DEFENCE COOPERATION, INCLUDING MULTILATERAL DEFENCE MECHANISM AND DSRB
