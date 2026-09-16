@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-16 19:58 JST／対象: 09/16 07:58 〜 09/16 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 20:17 JST／対象: 09/16 08:17 〜 09/16 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/16 19:06 | 09/16 19:25 | 19分（19:06→19:25） |
-| FirstSquawk | 206 | 09/16 08:13 | 09/16 19:56 | 45分（17:00→17:45） |
-| financialjuice | 90 | 09/16 08:07 | 09/16 19:52 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 3 | 09/16 19:06 | 09/16 20:00 | 34分（19:25→20:00） |
+| FirstSquawk | 205 | 09/16 08:18 | 09/16 20:12 | 45分（17:00→17:45） |
+| financialjuice | 95 | 09/16 08:25 | 09/16 20:10 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 297 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 302 行（統合前 304 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 08:07 [financialjuice] Meta's Zuckerberg: every lab must have the duty and motivation to advance at the speed needed to train its models securely
-- 09/16 08:13 [FirstSquawk] THE HOUSE VOTED 232-147 TO BLOCK REP. AL GREEN'S ATTEMPT TO IMPEACH TRUMP, MARKING THE THIRD FAILED IMPEACHMENT PUSH IN TWO YEARS
-- 09/16 08:13 [FirstSquawk] NVIDIA CEO JENSEN HUANG SAYS THE IDEA THAT 'AI IS GOING TO DESTROY JOBS' IS 'COMPLETELY NONSENSE'
-- 09/16 08:13 [FirstSquawk] U.S. SECRETARY OF STATE MARCO RUBIO SAYS THE SOUTH AFRICAN PEOPLE 'ARE BEING FAILED BY A GOVERNMENT THAT IS DESTROYING ITS ECONOMY THROUGH AN OBSESSIVE PURSUIT OF RACIAL GRIEVANCE AGAINST THE AFRIKANER MINORITY', ACCUSING THE GOVERNMENT OF …
-- 09/16 08:13 [FirstSquawk] U.S. SECRETARY OF STATE MARCO RUBIO SAYS HE IS ANNOUNCING A NEW VISA RESTRICTION POLICY TARGETING FOREIGN NATIONALS 'WHO ENACT OR ENABLE POLICIES THAT PROMOTE RACE-BASED DISCRIMINATION, INCITE VIOLENCE, OR ENABLE LAND CONFISCATION WITHOUT C…
 - 09/16 08:18 [FirstSquawk] RELIANCE WORLDWIDE CORPORATION HAS ENTERED A SCHEME IMPLEMENTATION DEED WITH BROOKFIELD CAPITAL PARTNERS, UNDER WHICH BROOKFIELD WILL BUY 100% OF RWC FOR $3.38 CASH PER SHARE, REFLECTING AN ENTERPRISE VALUE OF $2.9 BLN AND AN EV/FY26 EBITDA…
 - 09/16 08:18 [FirstSquawk] RELIANCE WORLDWIDE SAYS IT MAY SOLICIT ALTERNATIVE PROPOSALS UNTIL 15 OCTOBER 2026 UNDER A 'GO SHOP' PROVISION, WITH THE SCHEME EXPECTED TO BE IMPLEMENTED IN Q1 2027.
 - 09/16 08:18 [FirstSquawk] PENTAGON IS ASKING COMMANDERS TO NOMINATE TROOPS FOR PETE HEGSETH'S SEPT. 30 'STATE OF THE FORCE' ADDRESS, WITH CANDIDATES REQUIRED TO MEET FITNESS, WAIST-TO-HEIGHT, GROOMING AND UNIFORM STANDARDS. - WSJ
@@ -321,3 +316,13 @@
 - 09/16 19:52 [financialjuice/FirstSquawk] UK PM Burnham: We are not a traditional tax and spend socialist government.
 - 09/16 19:52 [financialjuice] UK PM Burnham: We will take difficult decisions to keep the economy on track
 - 09/16 19:56 [FirstSquawk] UK PM BURNHAM: INFLATION IS A CONCERN, UK ECONOMY SHOWING RESILIENCE
+- 09/16 20:00 [DeItaone] LAVROV WARNS EUROPE AGAINST ATTACKING RUSSIA Russian Foreign Minister Sergey Lavrov says Moscow has no intention of attacking Europe, but issued a stark warning against any European strike on Russia. “If Europe attacks Russia, the war will …
+- 09/16 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -4.1% (FORECAST -, PREVIOUS -2.7%) $MACRO
+- 09/16 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 6.97% (FORECAST -, PREVIOUS 6.85%) $MACRO
+- 09/16 20:00 [financialjuice] US officials met Houthis in Oman over the weekend after an Iran-backed group seized a strategic stretch of the Red Sea coast - Sources
+- 09/16 20:01 [FirstSquawk] US OFFICIALS HELD TALKS WITH HOUTHIS IN OMAN AFTER THE IRAN-SUPPORTED GROUP TOOK CONTROL OF A KEY PART OF THE RED SEA COAST
+- 09/16 20:02 [financialjuice] IBM's Anderon finalizes agreement with u.s. Department of Commerce for a $1 billion Chips Act award - IBM
+- 09/16 20:04 [financialjuice] OpenAI in talks for new funding at $1.2T valuation - The Information
+- 09/16 20:08 [FirstSquawk] ARDAGH SAYS COURT BARS SALE OF ARDAGH METAL PACKAGING STAKE
+- 09/16 20:10 [financialjuice] Houthis told the US they remain committed to 2025 ceasefire - Sources
+- 09/16 20:12 [FirstSquawk] HOUTHIS CONFIRM COMMITMENT TO CEASEFIRE

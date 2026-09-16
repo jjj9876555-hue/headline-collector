@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 19:58 JST／対象: 09/16 13:58 〜 09/16 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 20:17 JST／対象: 09/16 14:17 〜 09/16 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/16 19:06 | 09/16 19:25 | 19分（19:06→19:25） |
-| FirstSquawk | 88 | 09/16 14:03 | 09/16 19:56 | 45分（17:00→17:45） |
-| financialjuice | 47 | 09/16 14:36 | 09/16 19:52 | ⚠ 50分（19:01→19:52） |
+| DeItaone | 3 | 09/16 19:06 | 09/16 20:00 | 34分（19:25→20:00） |
+| FirstSquawk | 88 | 09/16 14:21 | 09/16 20:12 | 45分（17:00→17:45） |
+| financialjuice | 53 | 09/16 14:36 | 09/16 20:10 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 14:03 [FirstSquawk] Equinor expects EU gas inventories to reach around 75% by November Equinor expects European Union gas storage inventories to reach around 75% of capacity by November, highlighting its outlook for regional gas supplies.
-- 09/16 14:10 [FirstSquawk] Polish airports in Lublin and Rzeszów closed amid military aviation operations Airports in Lublin and Rzeszów have been closed due to military aviation operations, Poland’s air navigation services agency PANSA said. The closures affect air …
-- 09/16 14:14 [FirstSquawk] Berenberg raises BioNTech target price to $140 from $132
 - 09/16 14:21 [FirstSquawk] 20-year JGB yield falls 3 bps to 3.855%
 - 09/16 14:23 [FirstSquawk] French utility EDF will reduce output at its Bugey 2 nuclear reactor to 180 MW from 00:15 to 22:00 on September 17, 2026.
 - 09/16 14:31 [FirstSquawk] China’s slower pace of loan growth is becoming the “new normal,” the central bank governor said, signaling a shift in credit expansion dynamics.
@@ -160,3 +157,13 @@
 - 09/16 19:52 [financialjuice/FirstSquawk] UK PM Burnham: We are not a traditional tax and spend socialist government.
 - 09/16 19:52 [financialjuice] UK PM Burnham: We will take difficult decisions to keep the economy on track
 - 09/16 19:56 [FirstSquawk] UK PM BURNHAM: INFLATION IS A CONCERN, UK ECONOMY SHOWING RESILIENCE
+- 09/16 20:00 [DeItaone] LAVROV WARNS EUROPE AGAINST ATTACKING RUSSIA Russian Foreign Minister Sergey Lavrov says Moscow has no intention of attacking Europe, but issued a stark warning against any European strike on Russia. “If Europe attacks Russia, the war will …
+- 09/16 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -4.1% (FORECAST -, PREVIOUS -2.7%) $MACRO
+- 09/16 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 6.97% (FORECAST -, PREVIOUS 6.85%) $MACRO
+- 09/16 20:00 [financialjuice] US officials met Houthis in Oman over the weekend after an Iran-backed group seized a strategic stretch of the Red Sea coast - Sources
+- 09/16 20:01 [FirstSquawk] US OFFICIALS HELD TALKS WITH HOUTHIS IN OMAN AFTER THE IRAN-SUPPORTED GROUP TOOK CONTROL OF A KEY PART OF THE RED SEA COAST
+- 09/16 20:02 [financialjuice] IBM's Anderon finalizes agreement with u.s. Department of Commerce for a $1 billion Chips Act award - IBM
+- 09/16 20:04 [financialjuice] OpenAI in talks for new funding at $1.2T valuation - The Information
+- 09/16 20:08 [FirstSquawk] ARDAGH SAYS COURT BARS SALE OF ARDAGH METAL PACKAGING STAKE
+- 09/16 20:10 [financialjuice] Houthis told the US they remain committed to 2025 ceasefire - Sources
+- 09/16 20:12 [FirstSquawk] HOUTHIS CONFIRM COMMITMENT TO CEASEFIRE

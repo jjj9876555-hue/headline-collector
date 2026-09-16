@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 19:58 JST／対象: 09/15 19:58 〜 09/16 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-16 20:17 JST／対象: 09/15 20:17 〜 09/16 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 09/15 20:28 | 09/16 19:25 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 415 | 09/15 20:02 | 09/16 19:56 | 45分（17:00→17:45） |
-| financialjuice | 258 | 09/15 21:05 | 09/16 19:52 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 51 | 09/15 20:28 | 09/16 20:00 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 415 | 09/15 20:18 | 09/16 20:12 | 45分（17:00→17:45） |
+| financialjuice | 264 | 09/15 21:05 | 09/16 20:10 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 707 行（統合前 726 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 714 行（統合前 733 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 20:02 [FirstSquawk] RUSSIA'S FOREIGN MINISTER LAVROV SAID THAT IF THE U.S. HAD NOT ABANDONED THE ANCHORAGE AGREEMENT AND IF EUROPE HAD NOT DISTRACTED THEM, WE WOULD HAVE BEEN AT PEACE FOR A YEAR.
-- 09/15 20:07 [FirstSquawk] CPP INVESTMENTS AND BROOKFIELD LAUNCH C$50 BILLION MAPLE FUND TO PURSUE LARGE-SCALE INVESTMENTS ACROSS CANADA
-- 09/15 20:12 [FirstSquawk] TURKISH FOREIGN MINISTER HAKAN FIDAN STATED THAT RECIPROCAL ATTACKS IN THE PERSIAN GULF ARE HAMPERING EFFORTS TO RESOLVE THE US-IRAN WAR AND NEED TO CEASE IMMEDIATELY.
 - 09/15 20:18 [FirstSquawk] AZERBAIJAN GAS EXPORTS FALL 0.5% TO 16.4BCM IN JAN.-AUG.: IFX
 - 09/15 20:26 [FirstSquawk] OIL IS CLOSE TO MONTHLY PEAKS AS EXPORT PATHS IN THE GULF FACE PRESSURE.
 - 09/15 20:28 [DeItaone] OIL RALLY BUILDS AS SUPPLY RISKS MOUNT WTI climbed 1% to $102.40, holding near recent highs as Middle East supply concerns persist. Shipping through the Strait of Hormuz has declined, while Saudi pipeline disruptions and uncertainty over th…
@@ -731,3 +728,13 @@
 - 09/16 19:52 [financialjuice/FirstSquawk] UK PM Burnham: We are not a traditional tax and spend socialist government.
 - 09/16 19:52 [financialjuice] UK PM Burnham: We will take difficult decisions to keep the economy on track
 - 09/16 19:56 [FirstSquawk] UK PM BURNHAM: INFLATION IS A CONCERN, UK ECONOMY SHOWING RESILIENCE
+- 09/16 20:00 [DeItaone] LAVROV WARNS EUROPE AGAINST ATTACKING RUSSIA Russian Foreign Minister Sergey Lavrov says Moscow has no intention of attacking Europe, but issued a stark warning against any European strike on Russia. “If Europe attacks Russia, the war will …
+- 09/16 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -4.1% (FORECAST -, PREVIOUS -2.7%) $MACRO
+- 09/16 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 6.97% (FORECAST -, PREVIOUS 6.85%) $MACRO
+- 09/16 20:00 [financialjuice] US officials met Houthis in Oman over the weekend after an Iran-backed group seized a strategic stretch of the Red Sea coast - Sources
+- 09/16 20:01 [FirstSquawk] US OFFICIALS HELD TALKS WITH HOUTHIS IN OMAN AFTER THE IRAN-SUPPORTED GROUP TOOK CONTROL OF A KEY PART OF THE RED SEA COAST
+- 09/16 20:02 [financialjuice] IBM's Anderon finalizes agreement with u.s. Department of Commerce for a $1 billion Chips Act award - IBM
+- 09/16 20:04 [financialjuice] OpenAI in talks for new funding at $1.2T valuation - The Information
+- 09/16 20:08 [FirstSquawk] ARDAGH SAYS COURT BARS SALE OF ARDAGH METAL PACKAGING STAKE
+- 09/16 20:10 [financialjuice] Houthis told the US they remain committed to 2025 ceasefire - Sources
+- 09/16 20:12 [FirstSquawk] HOUTHIS CONFIRM COMMITMENT TO CEASEFIRE
