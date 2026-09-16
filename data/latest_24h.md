@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-16 20:33 JST／対象: 09/15 20:33 〜 09/16 20:33 JST（時刻はすべて日本時間）
+生成: 2026-09-16 20:52 JST／対象: 09/15 20:52 〜 09/16 20:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 09/15 21:28 | 09/16 20:00 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 413 | 09/15 20:38 | 09/16 20:32 | 45分（17:00→17:45） |
-| financialjuice | 265 | 09/15 21:05 | 09/16 20:18 | ⚠ 254分（10:21→14:36） |
+| DeItaone | 53 | 09/15 21:28 | 09/16 20:44 | ⚠ 709分（07:16→19:06） |
+| FirstSquawk | 410 | 09/15 20:56 | 09/16 20:49 | 45分（17:00→17:45） |
+| financialjuice | 268 | 09/15 21:05 | 09/16 20:41 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 712 行（統合前 731 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 715 行（統合前 734 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/15 20:38 [FirstSquawk] AMERICAN EXPRESS- U.S. SMALL BUSINESS CARD MEMBER LOANS NET WRITE-OFF RATE - PRINCIPAL ONLY 2.2% AT AUG END
-- 09/15 20:47 [FirstSquawk] UK PM SPOX: CHANCELLOR HEALEY TO SET OUT PENSION TAX DETAILS AT BUDGET
-- 09/15 20:47 [FirstSquawk] UK PENSIONERS JUST EXCEEDING TAX THRESHOLD WON'T PAY TAX
-- 09/15 20:51 [FirstSquawk] GERMAN CHANCELLOR MERZ: AIMS TO AGREE ON FURTHER REFORMS WITH SPD PARTY AFTER THE STATE ELECTIONS
 - 09/15 20:56 [FirstSquawk] GERMAN CHANCELLOR MERZ ON UPCOMING STATE ELECTIONS: I WAS ELECTED FOR FOUR YEARS AND WANT TO USE THIS TIME TO SOLVE PROBLEMS
 - 09/15 21:00 [FirstSquawk] SPAIN APPROVES €13B INVESTMENT FOR SPANISH AIRPORT NETWORK
 - 09/15 21:05 [financialjuice] Secured overnight financing rate 3.62% Sept. 14th vs 3.62% Sept. 11th
@@ -736,3 +732,10 @@
 - 09/16 20:18 [financialjuice] UK's PM Burnham shelves plans for UK investment summit this year - Sky
 - 09/16 20:21 [FirstSquawk] BURNHAM TO DELAY FLAGSHIP INVESTMENT SUMMIT UNTIL NEXT YEAR – SKY
 - 09/16 20:32 [FirstSquawk] HOUTHIS TOLD U.S. OFFICIALS THEY WILL AVOID ATTACKING ISRAELI VESSELS.
+- 09/16 20:34 [financialjuice] House democrats press to stay in session for AI - Politico
+- 09/16 20:35 [DeItaone] MICHAEL BURRY JOINS NEW SHORT-FOCUSED FUND “Big Short” investor Michael Burry is joining Minerva Investment Management as senior adviser to help launch a new short-biased fund expected within a month. Burry has recently targeted AI hypersca…
+- 09/16 20:36 [DeItaone] *HOUSE DEMOCRATS SEEK BIPARTISAN AI SAFEGUARDS: POLITICO
+- 09/16 20:41 [financialjuice] Yemen's Houthis say they attacked an air base in Khamis Mashit
+- 09/16 20:41 [financialjuice] Houthis claim they are targeting Aramco site in Yanbu.
+- 09/16 20:44 [DeItaone] U.S. MORTGAGE PAIN DEEPENS AS RATES NEAR 7% U.S. mortgage applications fell 4.1% last week to their lowest since May 2025, with refinancing applications plunging 8.8%. The 30-year conforming mortgage rate climbed to 6.97%, while jumbo rates…
+- 09/16 20:49 [FirstSquawk] HOUTHI SPOKESPERSON: CLAIMS ATTACK ON ARAMCO FACILITY IN YANBU

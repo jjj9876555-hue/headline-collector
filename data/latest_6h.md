@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 20:33 JST／対象: 09/16 14:33 〜 09/16 20:33 JST（時刻はすべて日本時間）
+生成: 2026-09-16 20:52 JST／対象: 09/16 14:52 〜 09/16 20:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/16 19:06 | 09/16 20:00 | 34分（19:25→20:00） |
-| FirstSquawk | 87 | 09/16 14:36 | 09/16 20:32 | 45分（17:00→17:45） |
-| financialjuice | 54 | 09/16 14:36 | 09/16 20:18 | ⚠ 50分（19:01→19:52） |
+| DeItaone | 6 | 09/16 19:06 | 09/16 20:44 | 35分（20:00→20:35） |
+| FirstSquawk | 81 | 09/16 15:02 | 09/16 20:49 | 45分（17:00→17:45） |
+| financialjuice | 56 | 09/16 15:00 | 09/16 20:41 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 143 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 142 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 14:36 [financialjuice] SK Hynix and Intel are in talks to make memory chips in the US - Sources
-- 09/16 14:36 [FirstSquawk] Saudi Vitrified Clay Pipes has provided an update on its memorandum of understanding (MOU) with Laffan Pipes Factory Company in Qatar. The update relates to the company’s ongoing engagement with the Qatari pipe manufacturer under the previo…
-- 09/16 14:39 [FirstSquawk] Saudi Arabia said it shot down a Houthi drone near Mecca on Tuesday, prompting swift condemnation from several countries in the region. Houthi officials denied targeting Mecca, rejecting the Saudi account of the incident as tensions continu…
-- 09/16 14:43 [FirstSquawk] China’s defense minister urges vigilance against ‘hegemonism’ and militarism
-- 09/16 14:46 [FirstSquawk] Russia attacks energy infrastructure in Ukraine’s Poltava region Russia attacked energy infrastructure in Ukraine’s Poltava region overnight, the regional governor said. The reported strikes targeted energy facilities in the region, adding …
-- 09/16 14:46 [FirstSquawk] Russia hits cargo vessel at Ukraine’s Chornomorsk port: IFX Russia struck a cargo vessel at the port of Chornomorsk in Ukraine, Interfax reported, citing the Russian Defence Ministry. The reported incident adds to ongoing risks around Ukrai…
-- 09/16 14:48 [FirstSquawk] Polish airports in Lublin and Rzeszów resume operations: PANSA Air operations at Lublin and Rzeszów airports in Poland have resumed after a temporary closure linked to military aviation operations, according to PANSA. The airports were brie…
-- 09/16 14:51 [FirstSquawk] US ambassador to South Africa says visa restrictions are only the first step The U.S. ambassador to South Africa said the visa restriction policy is only the first step in a series of potential escalatory measures. The remarks signal that W…
 - 09/16 15:00 [financialjuice] UK RPI MOM ACTUAL 0.6% (FORECAST 0.7%, PREVIOUS 0.6%) $MACRO
 - 09/16 15:00 [financialjuice] ‼ BREAKING: UK CPI YOY ACTUAL 3.1% (FORECAST 3.1%, PREVIOUS 2.9%) $MACRO
 - 09/16 15:00 [financialjuice] UK CPI MOM ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.3%) $MACRO
@@ -167,3 +159,10 @@
 - 09/16 20:18 [financialjuice] UK's PM Burnham shelves plans for UK investment summit this year - Sky
 - 09/16 20:21 [FirstSquawk] BURNHAM TO DELAY FLAGSHIP INVESTMENT SUMMIT UNTIL NEXT YEAR – SKY
 - 09/16 20:32 [FirstSquawk] HOUTHIS TOLD U.S. OFFICIALS THEY WILL AVOID ATTACKING ISRAELI VESSELS.
+- 09/16 20:34 [financialjuice] House democrats press to stay in session for AI - Politico
+- 09/16 20:35 [DeItaone] MICHAEL BURRY JOINS NEW SHORT-FOCUSED FUND “Big Short” investor Michael Burry is joining Minerva Investment Management as senior adviser to help launch a new short-biased fund expected within a month. Burry has recently targeted AI hypersca…
+- 09/16 20:36 [DeItaone] *HOUSE DEMOCRATS SEEK BIPARTISAN AI SAFEGUARDS: POLITICO
+- 09/16 20:41 [financialjuice] Yemen's Houthis say they attacked an air base in Khamis Mashit
+- 09/16 20:41 [financialjuice] Houthis claim they are targeting Aramco site in Yanbu.
+- 09/16 20:44 [DeItaone] U.S. MORTGAGE PAIN DEEPENS AS RATES NEAR 7% U.S. mortgage applications fell 4.1% last week to their lowest since May 2025, with refinancing applications plunging 8.8%. The 30-year conforming mortgage rate climbed to 6.97%, while jumbo rates…
+- 09/16 20:49 [FirstSquawk] HOUTHI SPOKESPERSON: CLAIMS ATTACK ON ARAMCO FACILITY IN YANBU
