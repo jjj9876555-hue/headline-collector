@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-16 17:46 JST／対象: 09/16 11:46 〜 09/16 17:46 JST（時刻はすべて日本時間）
+生成: 2026-09-16 17:58 JST／対象: 09/16 11:58 〜 09/16 17:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 110 | 09/16 11:49 | 09/16 17:46 | 45分（17:00→17:45） |
+| FirstSquawk | 108 | 09/16 12:05 | 09/16 17:46 | 45分（17:00→17:45） |
 | financialjuice | 35 | 09/16 14:36 | 09/16 17:45 | 40分（15:13→15:53） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 145 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 11:49 [FirstSquawk] Seaport has initiated coverage of Domino’s Pizza (DPZ) with a Neutral rating. The new analyst coverage puts the restaurant chain under fresh scrutiny as investors assess its growth outlook, valuation and operating performance. Seaport ratin…
-- 09/16 11:57 [FirstSquawk] Indonesia’s benchmark stock index climbed as much as 1.2% to 6,535.46 points. The advance lifts the index to its highest intraday level in the latest session as investors assess broader regional market sentiment.
 - 09/16 12:05 [FirstSquawk] Commodity vessel crossings through the Strait of Hormuz remain in single digits, according to ship-tracking data. The subdued traffic highlights continued disruption to commercial shipping through the key energy corridor, with markets close…
 - 09/16 12:06 [FirstSquawk] New Zealand Non-Resident Bond Holdings Aug: 58.9% (prev 58.9%)
 - 09/16 12:16 [FirstSquawk] Spot gold climbed 1% to $4,333.64 an ounce, extending gains in the precious-metal market. The move puts gold back above the $4,300/oz level as traders continue to monitor global markets and shifting expectations around interest rates.
