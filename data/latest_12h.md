@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 08:32 JST／対象: 09/16 20:32 〜 09/17 08:32 JST（時刻はすべて日本時間）
+生成: 2026-09-17 08:44 JST／対象: 09/16 20:44 〜 09/17 08:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 09/16 20:35 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 202 | 09/16 20:32 | 09/17 08:16 | 32分（05:10→05:42） |
-| financialjuice | 192 | 09/16 20:34 | 09/17 08:11 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 45 | 09/16 21:33 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
+| FirstSquawk | 205 | 09/16 20:49 | 09/17 08:42 | 32分（05:10→05:42） |
+| financialjuice | 191 | 09/16 20:55 | 09/17 08:41 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 429 行（統合前 446 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 428 行（統合前 445 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 20:32 [FirstSquawk] HOUTHIS TOLD U.S. OFFICIALS THEY WILL AVOID ATTACKING ISRAELI VESSELS.
-- 09/16 20:34 [financialjuice] House democrats press to stay in session for AI - Politico
-- 09/16 20:35 [DeItaone] MICHAEL BURRY JOINS NEW SHORT-FOCUSED FUND “Big Short” investor Michael Burry is joining Minerva Investment Management as senior adviser to help launch a new short-biased fund expected within a month. Burry has recently targeted AI hypersca…
-- 09/16 20:36 [DeItaone] *HOUSE DEMOCRATS SEEK BIPARTISAN AI SAFEGUARDS: POLITICO
-- 09/16 20:41 [financialjuice] Yemen's Houthis say they attacked an air base in Khamis Mashit
-- 09/16 20:41 [financialjuice] Houthis claim they are targeting Aramco site in Yanbu.
-- 09/16 20:44 [DeItaone] U.S. MORTGAGE PAIN DEEPENS AS RATES NEAR 7% U.S. mortgage applications fell 4.1% last week to their lowest since May 2025, with refinancing applications plunging 8.8%. The 30-year conforming mortgage rate climbed to 6.97%, while jumbo rates…
 - 09/16 20:49 [FirstSquawk] HOUTHI SPOKESPERSON: CLAIMS ATTACK ON ARAMCO FACILITY IN YANBU
 - 09/16 20:55 [financialjuice] German Government spokesperson: We're open to discussing new partnership models between the EU and Canada, but the term 'associate member' needs to be rethought
 - 09/16 21:00 [financialjuice] Secured overnight financing rate 3.64% September 15th vs 3.62% on September 14th
@@ -453,3 +446,9 @@
 - 09/17 08:15 [FirstSquawk] A DEAL WITH EXXON WOULD MARK A NOTABLE DEVELOPMENT GIVEN THE COMPANY'S PREVIOUS HISTORY IN VENEZUELA AND COULD SIGNAL DEEPER INTERNATIONAL PARTICIPATION IN THE COUNTRY'S OIL SECTOR, THOUGH THE REPORTED AGREEMENT IS STILL PRELIMINARY AND THE…
 - 09/17 08:15 [FirstSquawk] THE POTENTIAL MOVE COMES AMID A BROADER PUSH BY U.S. ENERGY COMPANIES TO RE-ENTER AND EXPAND OPERATIONS IN VENEZUELA, WITH RECENT AGREEMENTS INVOLVING OTHER U.S. AND INTERNATIONAL FIRMS FOCUSED ON DEVELOPING THE COUNTRY'S LARGE BUT UNDERUTI…
 - 09/17 08:16 [FirstSquawk] TRUMP ADMINISTRATION TEMPORARILY RELAXES TRUCKER HOURS-OF-SERVICE RULES FOR GASOLINE & DIESEL SHIPMENTS — USDOT
+- 09/17 08:40 [financialjuice] Snap: collaborating with Salesforce, AWS, Nvidia, Trifork, Hololight, and others to integrate AR specs into workplace settings
+- 09/17 08:41 [FirstSquawk] SNAP HAS ANNOUNCED NEW EXPERIENCES, SERVICES AND PARTNERSHIPS FOR SPECS, INTRODUCING SPECS INTELLIGENCE, A NEW ANTICIPATORY AI SERVICE DESIGNED TO WORK ACROSS IPHONE, MAC AND SPECS AR GLASSES, AND WORKING WITH SALESFORCE, AWS, NVIDIA, TRIFO…
+- 09/17 08:41 [FirstSquawk] SNAP SAYS THAT FROM TODAY IN THE U.S., ANYONE 18+ CAN DOWNLOAD THE SPECS APP FOR IOS AND TRY THE SPECS INTELLIGENCE PREVIEW, WITH CONSUMERS ABLE TO TRY SPECS AR GLASSES IN-PERSON FROM OCT. 1 AT SPECS FIRST LOOK AT WESTFIELD CENTURY CITY IN …
+- 09/17 08:41 [financialjuice] Trump to hold Iran discussions with Gulf leaders next week: Axios
+- 09/17 08:41 [FirstSquawk] SNAP SAYS IT IS PARTNERING WITH VERIZON TO OFFER CUSTOM DATA PLANS, FLEXIBLE FINANCING AND DIGITAL SETUP AT SELECT VERIZON STORES FOR THE SPECS CHARGING CASE, ALONGSIDE GLOBAL CARRIERS INCLUDING ORANGE IN FRANCE AND EE IN THE UK.
+- 09/17 08:42 [FirstSquawk] TRUMP IS TO HOLD IRAN TALKS WITH GULF LEADERS NEXT WEEK - AXIOS

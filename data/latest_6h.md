@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 08:32 JST／対象: 09/17 02:32 〜 09/17 08:32 JST（時刻はすべて日本時間）
+生成: 2026-09-17 08:44 JST／対象: 09/17 02:44 〜 09/17 08:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 29 | 09/17 03:00 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 130 | 09/17 02:35 | 09/17 08:16 | 32分（05:10→05:42） |
-| financialjuice | 113 | 09/17 02:32 | 09/17 08:11 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 130 | 09/17 03:00 | 09/17 08:42 | 32分（05:10→05:42） |
+| financialjuice | 104 | 09/17 02:49 | 09/17 08:41 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 260 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 251 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members felt that the main risks to July economic forecasts had become more acute.
-- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members felt general trade uncertainty had made growth prospects more uncertain.
-- 09/17 02:33 [financialjuice] BoC Meeting Minutes
-- 09/17 02:35 [FirstSquawk] THE TEL AVIV STOCK EXCHANGE HAS PRESENTED A 2027-2031 STRATEGIC PLAN TO ACCELERATE REVENUE GROWTH, EXPAND INTERNATIONAL ACTIVITY AND CREATE LONG-TERM SHAREHOLDER VALUE, TARGETING A 15%-18% REVENUE CAGR.
-- 09/17 02:35 [FirstSquawk] THE TEL AVIV STOCK EXCHANGE SAYS IT WILL EVALUATE EXTENDED TRADING HOURS AND AN AFTER-MARKET SESSION, AND WILL PURSUE STRATEGIC INVESTMENTS AND PARTNERSHIPS FOR VALUE CREATION.
-- 09/17 02:37 [financialjuice] JPMorgan's Michele: Should be a clean Fed meeting, should hike 25 BPS
-- 09/17 02:38 [financialjuice] JPMorgan's Michele: FOMC members probably taken aback by speed rates moved
-- 09/17 02:38 [financialjuice] Azerbaijan sets oil price at $65/bbl in 2027 budget draft - Finance Ministry
-- 09/17 02:38 [FirstSquawk] AZERBAIJAN HAS SET AN OIL PRICE OF $65/BBL IN ITS 2027 BUDGET DRAFT, FORECASTING 2.7% GDP GROWTH AND AVERAGE ANNUAL INFLATION OF 5.3% IN 2027 - FINANCE MINISTRY
-- 09/17 02:39 [financialjuice] US Treasury Secretary Bessent: US open to discuss AI "shared risks" with China - Axios
-- 09/17 02:39 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS THE U.S. IS OPEN TO DISCUSSING SHARED RISKS WITH CHINA IN UPCOMING AI TALKS THIS WEEKEND - AXIOS
-- 09/17 02:39 [financialjuice] JPMorgan's Michele: It's possible these are the last dots we ever get
-- 09/17 02:41 [financialjuice] US and China to talk AI, trade, rare earths this weekend - Axios cites sources familiar on us agenda for china talks
-- 09/17 02:42 [financialjuice] JPMorgan's Michele: We were buying the long end of US, Japan, Australia
-- 09/17 02:42 [financialjuice] JPMorgan's Michele: Bessent has done his best to stabilize the long end.
 - 09/17 02:49 [financialjuice] Societe Generale's Rajappa: Expecting another hike in December, maybe March.
 - 09/17 02:50 [financialjuice] Societe Generale's Rajappa: Long end has gotten a bit more volatile.
 - 09/17 02:50 [financialjuice] Societe Generale's Rajappa: If Warsh sounds dovish, could see long end sell off.
@@ -284,3 +269,9 @@
 - 09/17 08:15 [FirstSquawk] A DEAL WITH EXXON WOULD MARK A NOTABLE DEVELOPMENT GIVEN THE COMPANY'S PREVIOUS HISTORY IN VENEZUELA AND COULD SIGNAL DEEPER INTERNATIONAL PARTICIPATION IN THE COUNTRY'S OIL SECTOR, THOUGH THE REPORTED AGREEMENT IS STILL PRELIMINARY AND THE…
 - 09/17 08:15 [FirstSquawk] THE POTENTIAL MOVE COMES AMID A BROADER PUSH BY U.S. ENERGY COMPANIES TO RE-ENTER AND EXPAND OPERATIONS IN VENEZUELA, WITH RECENT AGREEMENTS INVOLVING OTHER U.S. AND INTERNATIONAL FIRMS FOCUSED ON DEVELOPING THE COUNTRY'S LARGE BUT UNDERUTI…
 - 09/17 08:16 [FirstSquawk] TRUMP ADMINISTRATION TEMPORARILY RELAXES TRUCKER HOURS-OF-SERVICE RULES FOR GASOLINE & DIESEL SHIPMENTS — USDOT
+- 09/17 08:40 [financialjuice] Snap: collaborating with Salesforce, AWS, Nvidia, Trifork, Hololight, and others to integrate AR specs into workplace settings
+- 09/17 08:41 [FirstSquawk] SNAP HAS ANNOUNCED NEW EXPERIENCES, SERVICES AND PARTNERSHIPS FOR SPECS, INTRODUCING SPECS INTELLIGENCE, A NEW ANTICIPATORY AI SERVICE DESIGNED TO WORK ACROSS IPHONE, MAC AND SPECS AR GLASSES, AND WORKING WITH SALESFORCE, AWS, NVIDIA, TRIFO…
+- 09/17 08:41 [FirstSquawk] SNAP SAYS THAT FROM TODAY IN THE U.S., ANYONE 18+ CAN DOWNLOAD THE SPECS APP FOR IOS AND TRY THE SPECS INTELLIGENCE PREVIEW, WITH CONSUMERS ABLE TO TRY SPECS AR GLASSES IN-PERSON FROM OCT. 1 AT SPECS FIRST LOOK AT WESTFIELD CENTURY CITY IN …
+- 09/17 08:41 [financialjuice] Trump to hold Iran discussions with Gulf leaders next week: Axios
+- 09/17 08:41 [FirstSquawk] SNAP SAYS IT IS PARTNERING WITH VERIZON TO OFFER CUSTOM DATA PLANS, FLEXIBLE FINANCING AND DIGITAL SETUP AT SELECT VERIZON STORES FOR THE SPECS CHARGING CASE, ALONGSIDE GLOBAL CARRIERS INCLUDING ORANGE IN FRANCE AND EE IN THE UK.
+- 09/17 08:42 [FirstSquawk] TRUMP IS TO HOLD IRAN TALKS WITH GULF LEADERS NEXT WEEK - AXIOS
