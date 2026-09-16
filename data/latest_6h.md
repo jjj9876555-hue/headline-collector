@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 02:23 JST／対象: 09/16 20:23 〜 09/17 02:23 JST（時刻はすべて日本時間）
+生成: 2026-09-17 02:43 JST／対象: 09/16 20:43 〜 09/17 02:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/16 20:35 | 09/17 02:22 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 70 | 09/16 20:32 | 09/17 02:22 | 19分（02:02→02:22） |
-| financialjuice | 76 | 09/16 20:34 | 09/17 02:22 | 35分（00:12→00:47） |
+| DeItaone | 17 | 09/16 20:44 | 09/17 02:22 | ⚠ 72分（01:09→02:22） |
+| FirstSquawk | 75 | 09/16 20:49 | 09/17 02:39 | 19分（02:02→02:22） |
+| financialjuice | 87 | 09/16 20:55 | 09/17 02:42 | 35分（00:12→00:47） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 164 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 178 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 20:32 [FirstSquawk] HOUTHIS TOLD U.S. OFFICIALS THEY WILL AVOID ATTACKING ISRAELI VESSELS.
-- 09/16 20:34 [financialjuice] House democrats press to stay in session for AI - Politico
-- 09/16 20:35 [DeItaone] MICHAEL BURRY JOINS NEW SHORT-FOCUSED FUND “Big Short” investor Michael Burry is joining Minerva Investment Management as senior adviser to help launch a new short-biased fund expected within a month. Burry has recently targeted AI hypersca…
-- 09/16 20:36 [DeItaone] *HOUSE DEMOCRATS SEEK BIPARTISAN AI SAFEGUARDS: POLITICO
-- 09/16 20:41 [financialjuice] Yemen's Houthis say they attacked an air base in Khamis Mashit
-- 09/16 20:41 [financialjuice] Houthis claim they are targeting Aramco site in Yanbu.
 - 09/16 20:44 [DeItaone] U.S. MORTGAGE PAIN DEEPENS AS RATES NEAR 7% U.S. mortgage applications fell 4.1% last week to their lowest since May 2025, with refinancing applications plunging 8.8%. The 30-year conforming mortgage rate climbed to 6.97%, while jumbo rates…
 - 09/16 20:49 [FirstSquawk] HOUTHI SPOKESPERSON: CLAIMS ATTACK ON ARAMCO FACILITY IN YANBU
 - 09/16 20:55 [financialjuice] German Government spokesperson: We're open to discussing new partnership models between the EU and Canada, but the term 'associate member' needs to be rethought
@@ -188,3 +182,23 @@
 - 09/17 02:22 [FirstSquawk] GOOGLE, DEEPMIND LAUNCH INSTITUTE TO EXPLORE AGI - AXIOS.
 - 09/17 02:22 [FirstSquawk] ADIDAS SAYS ON INDIA TECH JOB CUTS THAT THE IMPACT OF THE CHANGES IS LESS THAN 20% OF ITS INDIA TECHNOLOGY ORGANIZATION
 - 09/17 02:22 [DeItaone] ATLANTA FED GDPNOW SURGES ABOVE 5% The Atlanta Fed’s GDPNow estimate for Q3 growth jumped to 5.1% from 4.42%, driven largely by stronger consumer spending after today’s retail sales data. Real consumption is now expected to contribute 2.83 …
+- 09/17 02:31 [FirstSquawk] AHEAD OF THE BANK OF CANADA'S SEPT. 2 RATE ANNOUNCEMENT, THE GOVERNING COUNCIL AGREED NEAR-TERM INFLATION WAS LIKELY TO REMAIN ELEVATED, CITING THE PERSISTENTLY HIGH PRICE OF GASOLINE AND SAYING THE IRAN CONFLICT HAD RAISED MARKET EXPECTATI…
+- 09/17 02:31 [FirstSquawk] MEMBERS AGREED TO REITERATE THAT THE MONETARY POLICY STANCE WOULD BE GUIDED BY THE BOC'S INFLATION FORECAST AND RISKS AROUND IT, FEELING THAT THE MAIN RISKS TO THE JULY ECONOMIC FORECASTS HAD BECOME MORE ACUTE AND THAT GENERAL TRADE UNCERTA…
+- 09/17 02:31 [financialjuice] BoC Meeting Minutes: Members cited persistently high price of gasoline, said Iran conflict had raised market expectations for oil prices.
+- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members saw a higher risk of inflation spreading to non-energy goods and services in Canada.
+- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members agreed to reiterate that monetary policy stance would be guided by BoC's inflation forecast and risks around it.
+- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members felt that the main risks to July economic forecasts had become more acute.
+- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members felt general trade uncertainty had made growth prospects more uncertain.
+- 09/17 02:33 [financialjuice] BoC Meeting Minutes
+- 09/17 02:35 [FirstSquawk] THE TEL AVIV STOCK EXCHANGE HAS PRESENTED A 2027-2031 STRATEGIC PLAN TO ACCELERATE REVENUE GROWTH, EXPAND INTERNATIONAL ACTIVITY AND CREATE LONG-TERM SHAREHOLDER VALUE, TARGETING A 15%-18% REVENUE CAGR.
+- 09/17 02:35 [FirstSquawk] THE TEL AVIV STOCK EXCHANGE SAYS IT WILL EVALUATE EXTENDED TRADING HOURS AND AN AFTER-MARKET SESSION, AND WILL PURSUE STRATEGIC INVESTMENTS AND PARTNERSHIPS FOR VALUE CREATION.
+- 09/17 02:37 [financialjuice] JPMorgan's Michele: Should be a clean Fed meeting, should hike 25 BPS
+- 09/17 02:38 [financialjuice] JPMorgan's Michele: FOMC members probably taken aback by speed rates moved
+- 09/17 02:38 [financialjuice] Azerbaijan sets oil price at $65/bbl in 2027 budget draft - Finance Ministry
+- 09/17 02:38 [FirstSquawk] AZERBAIJAN HAS SET AN OIL PRICE OF $65/BBL IN ITS 2027 BUDGET DRAFT, FORECASTING 2.7% GDP GROWTH AND AVERAGE ANNUAL INFLATION OF 5.3% IN 2027 - FINANCE MINISTRY
+- 09/17 02:39 [financialjuice] US Treasury Secretary Bessent: US open to discuss AI "shared risks" with China - Axios
+- 09/17 02:39 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS THE U.S. IS OPEN TO DISCUSSING SHARED RISKS WITH CHINA IN UPCOMING AI TALKS THIS WEEKEND - AXIOS
+- 09/17 02:39 [financialjuice] JPMorgan's Michele: It's possible these are the last dots we ever get
+- 09/17 02:41 [financialjuice] US and China to talk AI, trade, rare earths this weekend - Axios cites sources familiar on us agenda for china talks
+- 09/17 02:42 [financialjuice] JPMorgan's Michele: We were buying the long end of US, Japan, Australia
+- 09/17 02:42 [financialjuice] JPMorgan's Michele: Bessent has done his best to stabilize the long end.

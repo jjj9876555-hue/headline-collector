@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 02:23 JST／対象: 09/16 14:23 〜 09/17 02:23 JST（時刻はすべて日本時間）
+生成: 2026-09-17 02:43 JST／対象: 09/16 14:43 〜 09/17 02:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 22 | 09/16 19:06 | 09/17 02:22 | ⚠ 72分（01:09→02:22） |
-| FirstSquawk | 158 | 09/16 14:23 | 09/17 02:22 | 45分（17:00→17:45） |
-| financialjuice | 130 | 09/16 14:36 | 09/17 02:22 | ⚠ 50分（19:01→19:52） |
+| FirstSquawk | 160 | 09/16 14:43 | 09/17 02:39 | 45分（17:00→17:45） |
+| financialjuice | 143 | 09/16 15:00 | 09/17 02:42 | ⚠ 50分（19:01→19:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 308 行（統合前 310 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 323 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 14:23 [FirstSquawk] French utility EDF will reduce output at its Bugey 2 nuclear reactor to 180 MW from 00:15 to 22:00 on September 17, 2026.
-- 09/16 14:31 [FirstSquawk] China’s slower pace of loan growth is becoming the “new normal,” the central bank governor said, signaling a shift in credit expansion dynamics.
-- 09/16 14:36 [financialjuice] SK Hynix and Intel are in talks to make memory chips in the US - Sources
-- 09/16 14:36 [FirstSquawk] Saudi Vitrified Clay Pipes has provided an update on its memorandum of understanding (MOU) with Laffan Pipes Factory Company in Qatar. The update relates to the company’s ongoing engagement with the Qatari pipe manufacturer under the previo…
-- 09/16 14:39 [FirstSquawk] Saudi Arabia said it shot down a Houthi drone near Mecca on Tuesday, prompting swift condemnation from several countries in the region. Houthi officials denied targeting Mecca, rejecting the Saudi account of the incident as tensions continu…
 - 09/16 14:43 [FirstSquawk] China’s defense minister urges vigilance against ‘hegemonism’ and militarism
 - 09/16 14:46 [FirstSquawk] Russia attacks energy infrastructure in Ukraine’s Poltava region Russia attacked energy infrastructure in Ukraine’s Poltava region overnight, the regional governor said. The reported strikes targeted energy facilities in the region, adding …
 - 09/16 14:46 [FirstSquawk] Russia hits cargo vessel at Ukraine’s Chornomorsk port: IFX Russia struck a cargo vessel at the port of Chornomorsk in Ukraine, Interfax reported, citing the Russian Defence Ministry. The reported incident adds to ongoing risks around Ukrai…
@@ -332,3 +327,23 @@
 - 09/17 02:22 [FirstSquawk] GOOGLE, DEEPMIND LAUNCH INSTITUTE TO EXPLORE AGI - AXIOS.
 - 09/17 02:22 [FirstSquawk] ADIDAS SAYS ON INDIA TECH JOB CUTS THAT THE IMPACT OF THE CHANGES IS LESS THAN 20% OF ITS INDIA TECHNOLOGY ORGANIZATION
 - 09/17 02:22 [DeItaone] ATLANTA FED GDPNOW SURGES ABOVE 5% The Atlanta Fed’s GDPNow estimate for Q3 growth jumped to 5.1% from 4.42%, driven largely by stronger consumer spending after today’s retail sales data. Real consumption is now expected to contribute 2.83 …
+- 09/17 02:31 [FirstSquawk] AHEAD OF THE BANK OF CANADA'S SEPT. 2 RATE ANNOUNCEMENT, THE GOVERNING COUNCIL AGREED NEAR-TERM INFLATION WAS LIKELY TO REMAIN ELEVATED, CITING THE PERSISTENTLY HIGH PRICE OF GASOLINE AND SAYING THE IRAN CONFLICT HAD RAISED MARKET EXPECTATI…
+- 09/17 02:31 [FirstSquawk] MEMBERS AGREED TO REITERATE THAT THE MONETARY POLICY STANCE WOULD BE GUIDED BY THE BOC'S INFLATION FORECAST AND RISKS AROUND IT, FEELING THAT THE MAIN RISKS TO THE JULY ECONOMIC FORECASTS HAD BECOME MORE ACUTE AND THAT GENERAL TRADE UNCERTA…
+- 09/17 02:31 [financialjuice] BoC Meeting Minutes: Members cited persistently high price of gasoline, said Iran conflict had raised market expectations for oil prices.
+- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members saw a higher risk of inflation spreading to non-energy goods and services in Canada.
+- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members agreed to reiterate that monetary policy stance would be guided by BoC's inflation forecast and risks around it.
+- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members felt that the main risks to July economic forecasts had become more acute.
+- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members felt general trade uncertainty had made growth prospects more uncertain.
+- 09/17 02:33 [financialjuice] BoC Meeting Minutes
+- 09/17 02:35 [FirstSquawk] THE TEL AVIV STOCK EXCHANGE HAS PRESENTED A 2027-2031 STRATEGIC PLAN TO ACCELERATE REVENUE GROWTH, EXPAND INTERNATIONAL ACTIVITY AND CREATE LONG-TERM SHAREHOLDER VALUE, TARGETING A 15%-18% REVENUE CAGR.
+- 09/17 02:35 [FirstSquawk] THE TEL AVIV STOCK EXCHANGE SAYS IT WILL EVALUATE EXTENDED TRADING HOURS AND AN AFTER-MARKET SESSION, AND WILL PURSUE STRATEGIC INVESTMENTS AND PARTNERSHIPS FOR VALUE CREATION.
+- 09/17 02:37 [financialjuice] JPMorgan's Michele: Should be a clean Fed meeting, should hike 25 BPS
+- 09/17 02:38 [financialjuice] JPMorgan's Michele: FOMC members probably taken aback by speed rates moved
+- 09/17 02:38 [financialjuice] Azerbaijan sets oil price at $65/bbl in 2027 budget draft - Finance Ministry
+- 09/17 02:38 [FirstSquawk] AZERBAIJAN HAS SET AN OIL PRICE OF $65/BBL IN ITS 2027 BUDGET DRAFT, FORECASTING 2.7% GDP GROWTH AND AVERAGE ANNUAL INFLATION OF 5.3% IN 2027 - FINANCE MINISTRY
+- 09/17 02:39 [financialjuice] US Treasury Secretary Bessent: US open to discuss AI "shared risks" with China - Axios
+- 09/17 02:39 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS THE U.S. IS OPEN TO DISCUSSING SHARED RISKS WITH CHINA IN UPCOMING AI TALKS THIS WEEKEND - AXIOS
+- 09/17 02:39 [financialjuice] JPMorgan's Michele: It's possible these are the last dots we ever get
+- 09/17 02:41 [financialjuice] US and China to talk AI, trade, rare earths this weekend - Axios cites sources familiar on us agenda for china talks
+- 09/17 02:42 [financialjuice] JPMorgan's Michele: We were buying the long end of US, Japan, Australia
+- 09/17 02:42 [financialjuice] JPMorgan's Michele: Bessent has done his best to stabilize the long end.

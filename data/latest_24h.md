@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 02:23 JST／対象: 09/16 02:23 〜 09/17 02:23 JST（時刻はすべて日本時間）
+生成: 2026-09-17 02:43 JST／対象: 09/16 02:43 〜 09/17 02:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 29 | 09/16 03:03 | 09/17 02:22 | ⚠ 709分（07:16→19:06） |
-| FirstSquawk | 352 | 09/16 02:23 | 09/17 02:22 | 45分（17:00→17:45） |
-| financialjuice | 231 | 09/16 02:53 | 09/17 02:22 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 351 | 09/16 03:01 | 09/17 02:39 | 45分（17:00→17:45） |
+| financialjuice | 245 | 09/16 02:53 | 09/17 02:42 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 604 行（統合前 614 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 617 行（統合前 627 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 02:23 [FirstSquawk] U.S. SENATOR SANDERS CALLS FOR MANDATORY SAFETY REGULATIONS FOR AI DEVELOPMENT INSTEAD OF JUST SUGGESTIONS
-- 09/16 02:24 [FirstSquawk] U.S. SENATOR SANDERS CALLS ON AI CEOS TO STOP FUNDING POLITICIANS WHO OPPOSE REGULATIONS
-- 09/16 02:25 [FirstSquawk] OPENAI IS EXPLORING DATA CENTER PARTNERSHIPS IN CANADA, CITING THE COUNTRY'S ABUNDANT ENERGY, LAND AND GROWING AI INFRASTRUCTURE OPPORTUNITIES UNDER PRIME MINISTER MARK CARNEY'S STRATEGY.
-- 09/16 02:25 [FirstSquawk] OPENAI EXECUTIVE GEORGE OSBORNE CALLED CARNEY'S AI ADOPTION STRATEGY ONE OF THE CLEAREST AMONG WESTERN GOVERNMENTS, SIGNALING CANADA COULD BECOME A KEY MARKET FOR FUTURE AI INVESTMENT.
-- 09/16 02:26 [FirstSquawk] U.S. SENATOR SANDERS CALLS FOR U.S. AND CHINA TO AGREE ON A TREATY TO HALT ADVANCED AI DEVELOPMENT
-- 09/16 02:36 [FirstSquawk] TRUMP SLAMS HIS OWN SUPREME COURT APPOINTEES AFTER THE COURT BLOCKED HIS ADMINISTRATION’S RESTRICTIONS ON MAIL BALLOTS AHEAD OF THE MIDTERM ELECTIONS.
-- 09/16 02:36 [FirstSquawk] TRUMP ACCUSES THE JUSTICES OF BEING “BULLIED AND CAJOLED BY THE RADICAL LEFT” AND SAYS THE SUPREME COURT HAS “REALLY LET OUR COUNTRY DOWN,” ESCALATING HIS ATTACKS ON JUDICIAL RULINGS.
 - 09/16 02:53 [financialjuice/FirstSquawk] Iranian Army Spokesman: Iran and Pakistan are cooperating to ensure regional security - Tasnim News
 - 09/16 02:58 [financialjuice] WATCH LIVE: Attorney General Blanche Speaks 2 PM ET
 - 09/16 03:00 [financialjuice] CBO: Annual PCE inflation projection now 0.5 ppt higher in Q1 2027.
@@ -628,3 +621,23 @@
 - 09/17 02:22 [FirstSquawk] GOOGLE, DEEPMIND LAUNCH INSTITUTE TO EXPLORE AGI - AXIOS.
 - 09/17 02:22 [FirstSquawk] ADIDAS SAYS ON INDIA TECH JOB CUTS THAT THE IMPACT OF THE CHANGES IS LESS THAN 20% OF ITS INDIA TECHNOLOGY ORGANIZATION
 - 09/17 02:22 [DeItaone] ATLANTA FED GDPNOW SURGES ABOVE 5% The Atlanta Fed’s GDPNow estimate for Q3 growth jumped to 5.1% from 4.42%, driven largely by stronger consumer spending after today’s retail sales data. Real consumption is now expected to contribute 2.83 …
+- 09/17 02:31 [FirstSquawk] AHEAD OF THE BANK OF CANADA'S SEPT. 2 RATE ANNOUNCEMENT, THE GOVERNING COUNCIL AGREED NEAR-TERM INFLATION WAS LIKELY TO REMAIN ELEVATED, CITING THE PERSISTENTLY HIGH PRICE OF GASOLINE AND SAYING THE IRAN CONFLICT HAD RAISED MARKET EXPECTATI…
+- 09/17 02:31 [FirstSquawk] MEMBERS AGREED TO REITERATE THAT THE MONETARY POLICY STANCE WOULD BE GUIDED BY THE BOC'S INFLATION FORECAST AND RISKS AROUND IT, FEELING THAT THE MAIN RISKS TO THE JULY ECONOMIC FORECASTS HAD BECOME MORE ACUTE AND THAT GENERAL TRADE UNCERTA…
+- 09/17 02:31 [financialjuice] BoC Meeting Minutes: Members cited persistently high price of gasoline, said Iran conflict had raised market expectations for oil prices.
+- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members saw a higher risk of inflation spreading to non-energy goods and services in Canada.
+- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members agreed to reiterate that monetary policy stance would be guided by BoC's inflation forecast and risks around it.
+- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members felt that the main risks to July economic forecasts had become more acute.
+- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members felt general trade uncertainty had made growth prospects more uncertain.
+- 09/17 02:33 [financialjuice] BoC Meeting Minutes
+- 09/17 02:35 [FirstSquawk] THE TEL AVIV STOCK EXCHANGE HAS PRESENTED A 2027-2031 STRATEGIC PLAN TO ACCELERATE REVENUE GROWTH, EXPAND INTERNATIONAL ACTIVITY AND CREATE LONG-TERM SHAREHOLDER VALUE, TARGETING A 15%-18% REVENUE CAGR.
+- 09/17 02:35 [FirstSquawk] THE TEL AVIV STOCK EXCHANGE SAYS IT WILL EVALUATE EXTENDED TRADING HOURS AND AN AFTER-MARKET SESSION, AND WILL PURSUE STRATEGIC INVESTMENTS AND PARTNERSHIPS FOR VALUE CREATION.
+- 09/17 02:37 [financialjuice] JPMorgan's Michele: Should be a clean Fed meeting, should hike 25 BPS
+- 09/17 02:38 [financialjuice] JPMorgan's Michele: FOMC members probably taken aback by speed rates moved
+- 09/17 02:38 [financialjuice] Azerbaijan sets oil price at $65/bbl in 2027 budget draft - Finance Ministry
+- 09/17 02:38 [FirstSquawk] AZERBAIJAN HAS SET AN OIL PRICE OF $65/BBL IN ITS 2027 BUDGET DRAFT, FORECASTING 2.7% GDP GROWTH AND AVERAGE ANNUAL INFLATION OF 5.3% IN 2027 - FINANCE MINISTRY
+- 09/17 02:39 [financialjuice] US Treasury Secretary Bessent: US open to discuss AI "shared risks" with China - Axios
+- 09/17 02:39 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS THE U.S. IS OPEN TO DISCUSSING SHARED RISKS WITH CHINA IN UPCOMING AI TALKS THIS WEEKEND - AXIOS
+- 09/17 02:39 [financialjuice] JPMorgan's Michele: It's possible these are the last dots we ever get
+- 09/17 02:41 [financialjuice] US and China to talk AI, trade, rare earths this weekend - Axios cites sources familiar on us agenda for china talks
+- 09/17 02:42 [financialjuice] JPMorgan's Michele: We were buying the long end of US, Japan, Australia
+- 09/17 02:42 [financialjuice] JPMorgan's Michele: Bessent has done his best to stabilize the long end.
