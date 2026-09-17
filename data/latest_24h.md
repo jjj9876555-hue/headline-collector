@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 10:33 JST／対象: 09/16 10:33 〜 09/17 10:33 JST（時刻はすべて日本時間）
+生成: 2026-09-17 10:52 JST／対象: 09/16 10:52 〜 09/17 10:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 406 | 09/16 10:38 | 09/17 10:33 | 45分（17:00→17:45） |
+| FirstSquawk | 406 | 09/16 10:53 | 09/17 10:47 | 45分（17:00→17:45） |
 | financialjuice | 273 | 09/16 14:36 | 09/17 10:31 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 10:38 [FirstSquawk] Multiple U.S. positions across the Middle East were affected by Iranian attacks, CBS reports. The reported strikes add to the latest escalation across the region, putting U.S. military positions and the broader security situation in focus.
-- 09/16 10:43 [FirstSquawk] Japan’s 40-year government bond yield climbed 1.0 basis point to 4.220%. The move keeps long-dated Japanese yields elevated as investors continue to assess the country’s interest-rate and bond-market outlook.
 - 09/16 10:53 [FirstSquawk] Japan’s Prime Minister Sanae Takaichi says she will reshuffle cabinet personnel on Thursday. The planned changes put Japan’s government lineup in focus as markets monitor the direction of economic and policy priorities under the Takaichi ad…
 - 09/16 10:59 [FirstSquawk] The Philippine benchmark stock index fell as much as 1.2% to 5,933.27, hitting its lowest level since June 11. The decline puts the index at a multi-month low as investors assess the latest developments across Philippine financial markets.
 - 09/16 11:08 [FirstSquawk] The Indonesian rupiah has weakened to 17,740 per U.S. dollar, its lowest level since September 2. The move puts the currency at a fresh September low as traders monitor broader dollar strength and developments in Asian foreign-exchange mark…
@@ -740,3 +738,5 @@
 - 09/17 10:31 [financialjuice] Taiwan stocks advance more than 2%
 - 09/17 10:32 [FirstSquawk] Taiwan’s stock market gains more than 2%.
 - 09/17 10:33 [FirstSquawk] South Korean sales of Samsung’s Galaxy Z Fold 8 increased roughly 10% following Apple’s unveiling of its first foldable iPhone, the telecommunications industry said.
+- 09/17 10:39 [FirstSquawk] Shares of SoftBank Group gain 3%.
+- 09/17 10:47 [FirstSquawk] WSJ: Oil declines amid expectations that efforts to contain the Middle East supply disruption could ease pressure on crude markets.
