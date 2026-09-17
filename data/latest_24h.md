@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 17:34 JST／対象: 09/16 17:34 〜 09/17 17:34 JST（時刻はすべて日本時間）
+生成: 2026-09-17 17:51 JST／対象: 09/16 17:51 〜 09/17 17:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 52 | 09/16 19:06 | 09/17 16:07 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 388 | 09/16 17:45 | 09/17 17:32 | 32分（05:10→05:42） |
-| financialjuice | 285 | 09/16 17:45 | 09/17 17:32 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 384 | 09/16 18:12 | 09/17 17:32 | 32分（05:10→05:42） |
+| financialjuice | 284 | 09/16 18:00 | 09/17 17:32 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 711 行（統合前 730 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 706 行（統合前 725 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 17:45 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS CONTINUOUSLY ASSESS THE SITUATION AND MAINTAIN AN ONGOING DIALOGUE WITH ALL MARKET PARTICIPANTS IN THE GAS SECTOR
-- 09/16 17:45 [financialjuice] Germany Economy Ministry: Continuously assess the situation and maintain an ongoing dialogue with all market participants in the gas sector.
-- 09/16 17:45 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS GUIDING PRINCIPLE REMAINS UNCHANGED: WINTER PREPAREDNESS IS THE RESPONSIBILITY OF THE MARKET, AND ENERGY SUPPLY COMPANIES MUST FULFILL THEIR OBLIGATIONS
-- 09/16 17:46 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS GOVERNMENT HAS CONSISTENTLY TAKEN PRECAUTIONARY MEASURES AND PREPARED POTENTIAL COURSES OF ACTION TO ENSURE A RAPID AND TARGETED RESPONSE SHOULD THE SITUATION DETERIORATE, AND TO GUARANTEE SECURITY OF SUPPLY
-- 09/16 17:46 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS WE EXPRESSLY WELCOME SEFE’S INTENTION TO STEP UP ITS EFFORTS TO FILL GAS STORAGE FACILITIES
 - 09/16 18:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION MOM ACTUAL -0.1% (FORECAST -0.2%, PREVIOUS 0.0%) $MACRO
 - 09/16 18:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION YOY ACTUAL 0.0% (FORECAST -0.1%, PREVIOUS 0.1%) $MACRO
 - 09/16 18:00 [financialjuice] EUROZONE LABOUR COSTS YOY ACTUAL 3.1% (FORECAST -, PREVIOUS 3.2%) $MACRO

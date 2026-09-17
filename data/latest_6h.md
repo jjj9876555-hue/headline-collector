@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 17:34 JST／対象: 09/17 11:34 〜 09/17 17:34 JST（時刻はすべて日本時間）
+生成: 2026-09-17 17:51 JST／対象: 09/17 11:51 〜 09/17 17:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/17 16:07 | 09/17 16:07 | - |
-| FirstSquawk | 90 | 09/17 11:37 | 09/17 17:32 | 29分（16:17→16:47） |
-| financialjuice | 46 | 09/17 11:49 | 09/17 17:32 | 38分（14:20→14:58） |
+| FirstSquawk | 86 | 09/17 12:03 | 09/17 17:32 | 29分（16:17→16:47） |
+| financialjuice | 45 | 09/17 12:10 | 09/17 17:32 | 38分（14:20→14:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 137 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 132 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 11:37 [FirstSquawk] House report alleges ActBlue accepted illegal foreign political donations, citing findings from a congressional investigation.
-- 09/17 11:40 [FirstSquawk] BBC reports that multiple world leaders, including South Africa’s Cyril Ramaphosa, have reportedly fallen ill following the BRICS summit in India, while reports involving China’s Xi Jinping remain unconfirmed.
-- 09/17 11:42 [FirstSquawk] Huawei rolls out new AI technology designed to strengthen computing capabilities and reduce reliance on Nvidia in China.
-- 09/17 11:48 [FirstSquawk] Hong Kong stocks fall as the Fed raises rates and points to more increases ahead, SCMP reports.
-- 09/17 11:49 [financialjuice] China’s chief trade negotiator Li Chenggang met with business delegation to discuss China-US economic, trade ties: statement
 - 09/17 12:03 [FirstSquawk] Malaysia’s Anwar Ibrahim expresses grave concern over a reported drone interception near Mecca, calling any threat to the city “wholly unacceptable.”
 - 09/17 12:04 [FirstSquawk] More than 20 international experts say human-driven climate change worsened several factors behind the catastrophic August flooding on the Nepal-China border, CNN reports.
 - 09/17 12:10 [FirstSquawk] Dollar Index stays above 100.00 after the Fed signals more monetary tightening.
