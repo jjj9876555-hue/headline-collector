@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 00:00 JST／対象: 09/17 12:00 〜 09/18 00:00 JST（時刻はすべて日本時間）
+生成: 2026-09-18 00:19 JST／対象: 09/17 12:19 〜 09/18 00:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/17 16:07 | 09/17 23:42 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 172 | 09/17 12:03 | 09/17 23:56 | 29分（16:17→16:47） |
-| financialjuice | 162 | 09/17 12:10 | 09/17 23:52 | 45分（18:03→18:48） |
+| FirstSquawk | 171 | 09/17 12:20 | 09/18 00:18 | 29分（16:17→16:47） |
+| financialjuice | 161 | 09/17 12:38 | 09/17 23:52 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 336 行（統合前 339 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 334 行（統合前 337 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 12:03 [FirstSquawk] Malaysia’s Anwar Ibrahim expresses grave concern over a reported drone interception near Mecca, calling any threat to the city “wholly unacceptable.”
-- 09/17 12:04 [FirstSquawk] More than 20 international experts say human-driven climate change worsened several factors behind the catastrophic August flooding on the Nepal-China border, CNN reports.
-- 09/17 12:10 [FirstSquawk] Dollar Index stays above 100.00 after the Fed signals more monetary tightening.
-- 09/17 12:10 [financialjuice] Japan chief cabinet secretary Kihara: continue close communication with US Treasury to maintain orderly forex market
-- 09/17 12:10 [FirstSquawk] Kihara: Japan will continue close talks with the US Treasury to support orderly foreign exchange markets.
-- 09/17 12:15 [FirstSquawk] China’s US Treasury holdings decline to an 18-year low amid broad-based selling across global bond markets, according to SCMP.
-- 09/17 12:17 [FirstSquawk] JPMorgan lifts its target price for Sandvik AB to SEK 415 from SEK 400.
 - 09/17 12:20 [FirstSquawk] JPMorgan lowers its target price for TransDigm Group to $1,415 from $1,450.
 - 09/17 12:30 [FirstSquawk] Japan’s 3-month Treasury bill auction records a lowest price of 99.7045 and an average price of 99.7099, with 49.5183% of bids accepted at the lowest price.
 - 09/17 12:32 [FirstSquawk] China’s property reforms may weigh more heavily on the cement sector than steel, Fitch Ratings says.
@@ -360,3 +353,8 @@
 - 09/17 23:52 [financialjuice] French PM Lecornu: Without corrective measures the 2027 budget deficit would exceed 6.5% of GDP
 - 09/17 23:53 [FirstSquawk] FRENCH PM LECORNU: INCREASE IN INTEREST RATES SEEN COSTING ADDITIONAL EUR10 BLN TO FINANCE DEBT SERVICING COST - LE FIGARO
 - 09/17 23:56 [FirstSquawk] FRENCH PM LECORNU: 2027 BUDGET DEFICIT, WITHOUT CORRECTIVE MEASURES, SEEN EXCEEDING 6.5% OF GDP - LE FIGARO
+- 09/18 00:01 [FirstSquawk] US TREASURY TO SELL $69 BLN IN 2-YEAR NOTES (EST $69 BLN)
+- 09/18 00:08 [FirstSquawk] STELLANTIS SAYS THERE IS NO LONG-TERM BUSINESS CASE FOR ITS BRAMPTON PLANT
+- 09/18 00:15 [FirstSquawk] WORKERS AT DIAGEO’S LARGEST DISTILLERY TO GO ON STRIKE AS DEMAND SLUMPS - FT
+- 09/18 00:16 [FirstSquawk] CENTCOM: AS OF SEPT. 17, CENTCOM FORCES HAVE REDIRECTED 104 COMMERCIAL VESSELS TO ENSURE STRICT COMPLIANCE.
+- 09/18 00:18 [FirstSquawk] JP MORGAN EXPECTS BOE TO HIKE INTEREST RATES BY 25 BP IN FEBRUARY 2027 VS PRIOR FORECAST OF TWO RATE CUTS IN 2027

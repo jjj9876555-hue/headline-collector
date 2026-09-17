@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 00:00 JST／対象: 09/17 00:00 〜 09/18 00:00 JST（時刻はすべて日本時間）
+生成: 2026-09-18 00:19 JST／対象: 09/17 00:19 〜 09/18 00:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 43 | 09/17 00:38 | 09/17 23:42 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 395 | 09/17 00:03 | 09/17 23:56 | 32分（05:10→05:42） |
-| financialjuice | 322 | 09/17 00:03 | 09/17 23:52 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 398 | 09/17 00:20 | 09/18 00:18 | 32分（05:10→05:42） |
+| financialjuice | 316 | 09/17 00:47 | 09/17 23:52 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 745 行（統合前 765 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 742 行（統合前 762 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 00:03 [FirstSquawk] EU’S KALLAS TO EU PARL’T ON URGENT NEED FOR EU SUPPORT TO UKRAINE AGAINST RUSSIA’S ESCALATION OF ITS WAR OF AGGRESSION
-- 09/17 00:03 [financialjuice] French Finance Minister Lescure: I want France and Europe to accelerate on AI, so that we can control risks.
-- 09/17 00:06 [financialjuice] Iran's Mahan Air suspends Turkey flights from Sept. 21st. Suspends Tehran-Muscat flights from Sept. 17th.
-- 09/17 00:07 [FirstSquawk] IRAN'S MAHAN AIR FLIGHTS TO TURKEY SUSPENDED FROM 21ST SEPTEMBER - ISNA
-- 09/17 00:08 [financialjuice] ❗ 2 pumping stations along Saudi Arabia's east-west oil pipeline damaged in attack last week - sources
-- 09/17 00:08 [financialjuice] Repair timeline unclear for pumping stations 8 and 9 damaged along Saudi east-west oil pipeline - sources
-- 09/17 00:12 [financialjuice] Libya's NOC chief: Production has returned to normal levels after shutdown of three oil fields reduced it for a limited time.
-- 09/17 00:12 [financialjuice] Libya's NOC Chief: We do not anticipate further shutdowns.
 - 09/17 00:20 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time
 - 09/17 00:24 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time - Conditions ‘Currently Normal’, Do Not Anticipate Further Shutdowns
 - 09/17 00:38 [DeItaone] JPMORGAN MAPS FED DAY: STOCKS COULD SWING 2% JPMorgan says Fed communication could determine whether stocks rally or sell off after today’s widely expected 25bp hike. A standard hike with limited guidance could lift the S&P 500 0.25%–0.75%,…
@@ -769,3 +761,8 @@
 - 09/17 23:52 [financialjuice] French PM Lecornu: Without corrective measures the 2027 budget deficit would exceed 6.5% of GDP
 - 09/17 23:53 [FirstSquawk] FRENCH PM LECORNU: INCREASE IN INTEREST RATES SEEN COSTING ADDITIONAL EUR10 BLN TO FINANCE DEBT SERVICING COST - LE FIGARO
 - 09/17 23:56 [FirstSquawk] FRENCH PM LECORNU: 2027 BUDGET DEFICIT, WITHOUT CORRECTIVE MEASURES, SEEN EXCEEDING 6.5% OF GDP - LE FIGARO
+- 09/18 00:01 [FirstSquawk] US TREASURY TO SELL $69 BLN IN 2-YEAR NOTES (EST $69 BLN)
+- 09/18 00:08 [FirstSquawk] STELLANTIS SAYS THERE IS NO LONG-TERM BUSINESS CASE FOR ITS BRAMPTON PLANT
+- 09/18 00:15 [FirstSquawk] WORKERS AT DIAGEO’S LARGEST DISTILLERY TO GO ON STRIKE AS DEMAND SLUMPS - FT
+- 09/18 00:16 [FirstSquawk] CENTCOM: AS OF SEPT. 17, CENTCOM FORCES HAVE REDIRECTED 104 COMMERCIAL VESSELS TO ENSURE STRICT COMPLIANCE.
+- 09/18 00:18 [FirstSquawk] JP MORGAN EXPECTS BOE TO HIKE INTEREST RATES BY 25 BP IN FEBRUARY 2027 VS PRIOR FORECAST OF TWO RATE CUTS IN 2027
