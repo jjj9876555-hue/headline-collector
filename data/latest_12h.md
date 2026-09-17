@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 13:06 JST／対象: 09/17 01:06 〜 09/17 13:06 JST（時刻はすべて日本時間）
+生成: 2026-09-17 13:26 JST／対象: 09/17 01:26 〜 09/17 13:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 09/17 01:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 236 | 09/17 01:15 | 09/17 13:05 | 32分（05:10→05:42） |
-| financialjuice | 160 | 09/17 01:14 | 09/17 13:04 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 30 | 09/17 02:22 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
+| FirstSquawk | 245 | 09/17 01:31 | 09/17 13:25 | 32分（05:10→05:42） |
+| financialjuice | 166 | 09/17 01:35 | 09/17 13:24 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 416 行（統合前 433 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 429 行（統合前 446 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 01:06 [DeItaone] FED: WHAT WALL STREET EXPECTS FROM WARSH TODAY Major banks are focused on how Kevin Warsh frames the path ahead if the Fed hikes today: Barclays: Expects Warsh to stress solid growth, near-full employment and inflation still too high, broad…
-- 09/17 01:09 [DeItaone] OPENAI ROGUE AGENTS PROBED HUGGING FACE BEFORE MAJOR HACK Researchers say rogue OpenAI agents hijacked two Hugging Face accounts and probed its network for vulnerabilities in May, nearly two months before the major July cyber incident. No e…
-- 09/17 01:14 [financialjuice] SEC's Atkins: Will act to give investors certainty on crypto - Post on X
-- 09/17 01:14 [financialjuice] SEC's Atkins: We can act within sec authority with or without crypto law.
-- 09/17 01:15 [FirstSquawk] PENTAGON CTO OPPOSES U.S. GOVERNMENT OWNERSHIP IN TECH GIANTS AND RAISES CONCERNS ABOUT AI REGULATIONS.
-- 09/17 01:17 [FirstSquawk] SEC SHAIR ATKINS: WILL ACT TO GIVE INVESTORS CERTAINTY ON CRYPTO
-- 09/17 01:25 [financialjuice] US energy firm National Fuel Gas is exploring strategic options for its natural gas production business - sources.
 - 09/17 01:31 [FirstSquawk] UNION PACIFIC CFO: DIESEL COSTS HAVE RISEN TO ABOUT $5.25-$5.30 A GALLON FROM AN EXPECTED Q3 AVERAGE OF ROUGHLY $4.25 - MORGAN STANLEY CONF
 - 09/17 01:35 [financialjuice] AWS' Desantis: Next Tranium chip to be very differentiated. $AMZN
 - 09/17 01:37 [FirstSquawk] SWEDISH CENTER-LEFT COALITION EXPECTED TO VICTORY IN ELECTIONS, SAYS SVT.
@@ -440,3 +433,23 @@
 - 09/17 13:03 [FirstSquawk] EU urges China to voluntarily curb hybrid vehicle exports under a proposed deal aimed at preventing a trade war, FT reports.
 - 09/17 13:04 [financialjuice] Brussels urges Beijing to limit Chinese hybrid vehicle sales to about 15% of EU market - FT
 - 09/17 13:05 [FirstSquawk] Brussels proposes limiting Chinese hybrid vehicle sales to roughly 15% of the EU market, FT reports.
+- 09/17 13:10 [financialjuice] China's Xi issues key directives on advanced manufacturing development - Xinhua
+- 09/17 13:11 [financialjuice] China's President Xi: to boost advanced manufacturing - Xinhua
+- 09/17 13:11 [financialjuice] China's President Xi: coordinate high-quality growth and advanced security - Xinhua
+- 09/17 13:11 [financialjuice] China's president Xi: enhance self-reliance and control of industrial chains - Xinhua
+- 09/17 13:12 [FirstSquawk] Xinhua: Xi stresses the importance of advancing China’s advanced manufacturing development.
+- 09/17 13:12 [FirstSquawk] Xinhua: Xi calls for stronger development of China’s advanced manufacturing sector.
+- 09/17 13:13 [FirstSquawk] HSBC keeps its Hong Kong dollar savings deposit rate unchanged.
+- 09/17 13:13 [FirstSquawk] HSBC leaves its best lending rate in Hong Kong at 5.00%.
+- 09/17 13:13 [FirstSquawk] Xinhua: Xi urges efforts to make China’s industrial chains more independent and controllable.
+- 09/17 13:17 [financialjuice] Strait of Hormuz commodity vessel traffic declines to 3 on Wednesday, well below 10-day average of about 17, shipping data shows
+- 09/17 13:22 [FirstSquawk] India says it has noted the US Congress passage of legislation imposing sanctions on Russia and Iran.
+- 09/17 13:22 [financialjuice] India foreign ministry: India has noted passage of bill sanctioning Russia and Iran in U.S. Congress
+- 09/17 13:22 [financialjuice] India foreign ministry: India remains strongly committed to securing energy supplies for its people
+- 09/17 13:22 [FirstSquawk] India says it remains firmly focused on ensuring energy security for its people.
+- 09/17 13:23 [financialjuice] India foreign ministry: India will maintain approach via diversified sourcing and adapting to changing market dynamics
+- 09/17 13:23 [FirstSquawk] India says it will maintain diversified sourcing while responding to evolving market dynamics.
+- 09/17 13:24 [FirstSquawk] Asian currencies weaken as rising US rates and high oil prices weigh on the region, FT reports.
+- 09/17 13:24 [financialjuice] Japan finance minister Katayama to stay in post in cabinet reshuffle, government spokesperson:
+- 09/17 13:24 [FirstSquawk] Trump’s efforts to sway the Federal Reserve fall short - FT
+- 09/17 13:25 [FirstSquawk] FT: Brussels seeks voluntary limits on China’s car exports.

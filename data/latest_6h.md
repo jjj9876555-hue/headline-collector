@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 13:06 JST／対象: 09/17 07:06 〜 09/17 13:06 JST（時刻はすべて日本時間）
+生成: 2026-09-17 13:26 JST／対象: 09/17 07:26 〜 09/17 13:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/17 07:41 | 09/17 08:04 | 16分（07:47→08:04） |
-| FirstSquawk | 125 | 09/17 07:06 | 09/17 13:05 | 25分（08:16→08:41） |
-| financialjuice | 43 | 09/17 07:45 | 09/17 13:04 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 131 | 09/17 07:27 | 09/17 13:25 | 25分（08:16→08:41） |
+| financialjuice | 52 | 09/17 07:45 | 09/17 13:24 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 174 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 189 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 07:06 [FirstSquawk] OPENAI LAUNCHES NEW MODEL-MISALIGNMENT TRACKING FRAMEWORK, PUBLISHES SIX REPORTS ON UNEXPECTED BEHAVIOR OBSERVED DURING MODEL TRAINING & EVALUATION OVER PAST SIX MONTHS
-- 09/17 07:10 [FirstSquawk] OPENAI REPORTS SIX MODEL-MISALIGNMENT CASES, INCLUDING SELF-GENERATED INSTRUCTIONS AND ATTEMPTS TO CONCEAL MISTAKES IN TASK SUMMARIES
-- 09/17 07:10 [FirstSquawk] OPENAI REPORTS MODEL-MISALIGNMENT CASES INCLUDING UNSANCTIONED WRITES & INTERNAL REPOSITORY COMMUNICATION, PLUS UNAUTHORIZED FILE SHARING BETWEEN COLLABORATING AGENTS
-- 09/17 07:12 [FirstSquawk] OPENAI REPORTS MODEL-MISALIGNMENT CASES INCLUDING SEARCHING PUBLIC REPOSITORIES FOR EXPOSED API KEYS, FABRICATING INFORMATION & UPLOADING FILES ONLINE TO CREATE CITATIONS
-- 09/17 07:24 [FirstSquawk] JAPAN PM TAKAICHI TO RETAIN TRADE MINISTER RYOSEI AKAZAWA - YOMIURI
 - 09/17 07:27 [FirstSquawk] TRUMP SAYS HE STILL HAS CONFIDENCE IN FED CHAIR WARSH
 - 09/17 07:29 [FirstSquawk] TRUMP SAYS FED CHAIR WARSH 'HAS A HOSTILE BOARD', ADDING THAT HE WANTS WARSH TO BE INDEPENDENT
 - 09/17 07:29 [FirstSquawk] U.S. HOUSE HAS VOTED 262 TO 159 TO PASS A BILL TO IMPOSE SANCTIONS AND TARIFFS OVER RUSSIA'S INVASION OF UKRAINE, WITH TRUMP EXPECTED TO SIGN IT INTO LAW
@@ -198,3 +193,23 @@
 - 09/17 13:03 [FirstSquawk] EU urges China to voluntarily curb hybrid vehicle exports under a proposed deal aimed at preventing a trade war, FT reports.
 - 09/17 13:04 [financialjuice] Brussels urges Beijing to limit Chinese hybrid vehicle sales to about 15% of EU market - FT
 - 09/17 13:05 [FirstSquawk] Brussels proposes limiting Chinese hybrid vehicle sales to roughly 15% of the EU market, FT reports.
+- 09/17 13:10 [financialjuice] China's Xi issues key directives on advanced manufacturing development - Xinhua
+- 09/17 13:11 [financialjuice] China's President Xi: to boost advanced manufacturing - Xinhua
+- 09/17 13:11 [financialjuice] China's President Xi: coordinate high-quality growth and advanced security - Xinhua
+- 09/17 13:11 [financialjuice] China's president Xi: enhance self-reliance and control of industrial chains - Xinhua
+- 09/17 13:12 [FirstSquawk] Xinhua: Xi stresses the importance of advancing China’s advanced manufacturing development.
+- 09/17 13:12 [FirstSquawk] Xinhua: Xi calls for stronger development of China’s advanced manufacturing sector.
+- 09/17 13:13 [FirstSquawk] HSBC keeps its Hong Kong dollar savings deposit rate unchanged.
+- 09/17 13:13 [FirstSquawk] HSBC leaves its best lending rate in Hong Kong at 5.00%.
+- 09/17 13:13 [FirstSquawk] Xinhua: Xi urges efforts to make China’s industrial chains more independent and controllable.
+- 09/17 13:17 [financialjuice] Strait of Hormuz commodity vessel traffic declines to 3 on Wednesday, well below 10-day average of about 17, shipping data shows
+- 09/17 13:22 [FirstSquawk] India says it has noted the US Congress passage of legislation imposing sanctions on Russia and Iran.
+- 09/17 13:22 [financialjuice] India foreign ministry: India has noted passage of bill sanctioning Russia and Iran in U.S. Congress
+- 09/17 13:22 [financialjuice] India foreign ministry: India remains strongly committed to securing energy supplies for its people
+- 09/17 13:22 [FirstSquawk] India says it remains firmly focused on ensuring energy security for its people.
+- 09/17 13:23 [financialjuice] India foreign ministry: India will maintain approach via diversified sourcing and adapting to changing market dynamics
+- 09/17 13:23 [FirstSquawk] India says it will maintain diversified sourcing while responding to evolving market dynamics.
+- 09/17 13:24 [FirstSquawk] Asian currencies weaken as rising US rates and high oil prices weigh on the region, FT reports.
+- 09/17 13:24 [financialjuice] Japan finance minister Katayama to stay in post in cabinet reshuffle, government spokesperson:
+- 09/17 13:24 [FirstSquawk] Trump’s efforts to sway the Federal Reserve fall short - FT
+- 09/17 13:25 [FirstSquawk] FT: Brussels seeks voluntary limits on China’s car exports.

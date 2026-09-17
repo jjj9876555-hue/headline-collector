@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 13:06 JST／対象: 09/16 13:06 〜 09/17 13:06 JST（時刻はすべて日本時間）
+生成: 2026-09-17 13:26 JST／対象: 09/16 13:26 〜 09/17 13:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 410 | 09/16 13:07 | 09/17 13:05 | 45分（17:00→17:45） |
-| financialjuice | 283 | 09/16 14:36 | 09/17 13:04 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 411 | 09/16 13:31 | 09/17 13:25 | 45分（17:00→17:45） |
+| financialjuice | 292 | 09/16 14:36 | 09/17 13:24 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 730 行（統合前 749 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 740 行（統合前 759 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 13:07 [FirstSquawk] RBC raises Atalaya Mining target price to 1,350p from 1,100p
-- 09/16 13:10 [FirstSquawk] Databricks to invest more than $350 million in Singapore Databricks plans to invest more than US$350 million in Singapore, as demand for enterprise AI solutions accelerates. The investment highlights Singapore’s growing role as a regional h…
-- 09/16 13:10 [FirstSquawk] RBC raises Endeavour Mining target price to 4,900p from 4,600p
-- 09/16 13:11 [FirstSquawk] 2-year JGB yield falls 1 basis point to 1.845%
-- 09/16 13:12 [FirstSquawk] The European Union has pushed back against Canadian Prime Minister Mark Carney’s description of a “unique alliance” with the bloc, according to the Financial Times.
-- 09/16 13:16 [FirstSquawk] RBC raises Antofagasta target price to 3,400p from 2,700p
-- 09/16 13:17 [FirstSquawk] RBC raises Glencore target price to 660p from 610p
-- 09/16 13:21 [FirstSquawk] Iran condemns U.S. “suppression,” armed forces official says A deputy for Iran’s armed forces operations has condemned what he described as various forms of suppression by the United States at the Xiangshan Forum.
-- 09/16 13:21 [FirstSquawk] Iran official says external interference has torn apart regional unity A deputy for Iran’s armed forces operations said at the Xiangshan Forum that long-term interference by external forces in the Middle East has torn apart unity across the…
-- 09/16 13:22 [FirstSquawk] Iran calls for global condemnation of “unilateral hegemonism” A deputy for Iran’s armed forces operations called on countries around the world to condemn what he described as unilateral hegemonism and the “law of the jungle.”
 - 09/16 13:31 [FirstSquawk] Japan August imports jump as oil prices lift costs Japan’s imports rose sharply in August as higher oil prices pushed up import costs, while exports remained firm during the month.
 - 09/16 13:31 [FirstSquawk] Iran says it fears no war in defending sovereignty and security A deputy for Iran’s armed forces operations said at the Xiangshan Forum that Iran fears no war when it comes to safeguarding its sovereignty and national security. The remarks …
 - 09/16 13:37 [FirstSquawk] Two tankers hit by cyberattack while transiting Strait of Gibraltar An American official said two tankers were subjected to a cyberattack while passing through the Strait of Gibraltar in August.
@@ -754,3 +744,23 @@
 - 09/17 13:03 [FirstSquawk] EU urges China to voluntarily curb hybrid vehicle exports under a proposed deal aimed at preventing a trade war, FT reports.
 - 09/17 13:04 [financialjuice] Brussels urges Beijing to limit Chinese hybrid vehicle sales to about 15% of EU market - FT
 - 09/17 13:05 [FirstSquawk] Brussels proposes limiting Chinese hybrid vehicle sales to roughly 15% of the EU market, FT reports.
+- 09/17 13:10 [financialjuice] China's Xi issues key directives on advanced manufacturing development - Xinhua
+- 09/17 13:11 [financialjuice] China's President Xi: to boost advanced manufacturing - Xinhua
+- 09/17 13:11 [financialjuice] China's President Xi: coordinate high-quality growth and advanced security - Xinhua
+- 09/17 13:11 [financialjuice] China's president Xi: enhance self-reliance and control of industrial chains - Xinhua
+- 09/17 13:12 [FirstSquawk] Xinhua: Xi stresses the importance of advancing China’s advanced manufacturing development.
+- 09/17 13:12 [FirstSquawk] Xinhua: Xi calls for stronger development of China’s advanced manufacturing sector.
+- 09/17 13:13 [FirstSquawk] HSBC keeps its Hong Kong dollar savings deposit rate unchanged.
+- 09/17 13:13 [FirstSquawk] HSBC leaves its best lending rate in Hong Kong at 5.00%.
+- 09/17 13:13 [FirstSquawk] Xinhua: Xi urges efforts to make China’s industrial chains more independent and controllable.
+- 09/17 13:17 [financialjuice] Strait of Hormuz commodity vessel traffic declines to 3 on Wednesday, well below 10-day average of about 17, shipping data shows
+- 09/17 13:22 [FirstSquawk] India says it has noted the US Congress passage of legislation imposing sanctions on Russia and Iran.
+- 09/17 13:22 [financialjuice] India foreign ministry: India has noted passage of bill sanctioning Russia and Iran in U.S. Congress
+- 09/17 13:22 [financialjuice] India foreign ministry: India remains strongly committed to securing energy supplies for its people
+- 09/17 13:22 [FirstSquawk] India says it remains firmly focused on ensuring energy security for its people.
+- 09/17 13:23 [financialjuice] India foreign ministry: India will maintain approach via diversified sourcing and adapting to changing market dynamics
+- 09/17 13:23 [FirstSquawk] India says it will maintain diversified sourcing while responding to evolving market dynamics.
+- 09/17 13:24 [FirstSquawk] Asian currencies weaken as rising US rates and high oil prices weigh on the region, FT reports.
+- 09/17 13:24 [financialjuice] Japan finance minister Katayama to stay in post in cabinet reshuffle, government spokesperson:
+- 09/17 13:24 [FirstSquawk] Trump’s efforts to sway the Federal Reserve fall short - FT
+- 09/17 13:25 [FirstSquawk] FT: Brussels seeks voluntary limits on China’s car exports.
