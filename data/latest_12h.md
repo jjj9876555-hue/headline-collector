@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 17:51 JST／対象: 09/17 05:51 〜 09/17 17:51 JST（時刻はすべて日本時間）
+生成: 2026-09-17 18:03 JST／対象: 09/17 06:03 〜 09/17 18:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/17 05:51 | 09/17 16:07 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 206 | 09/17 05:56 | 09/17 17:32 | 29分（16:17→16:47） |
-| financialjuice | 81 | 09/17 05:57 | 09/17 17:32 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 7 | 09/17 07:41 | 09/17 16:07 | ⚠ 483分（08:04→16:07） |
+| FirstSquawk | 204 | 09/17 06:13 | 09/17 17:56 | 29分（16:17→16:47） |
+| financialjuice | 87 | 09/17 07:45 | 09/17 18:03 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 295 行（統合前 296 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 298 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 05:51 [DeItaone] TRUMP: LOWER INTEREST RATES FOR UNITED STATES OF AMERICA, AND FAST
-- 09/17 05:56 [FirstSquawk] SYNERGY CHC CORP. RECEIVES NASDAQ DELISTING NOTICE OVER BANKRUPTCY AND COMPLIANCE ISSUES
-- 09/17 05:56 [FirstSquawk] SYNERGY CHC CORP.: NASDAQ WILL SUSPEND TRADING IN SYNERGY CHC CORP.’S COMMON STOCK ON SEPTEMBER 18, 2026, FOLLOWING THE DELISTING NOTICE ISSUED BY THE EXCHANGE.
-- 09/17 05:57 [financialjuice] Exxon is close to signing a preliminary deal to re-enter Venezuela - WSJ citing sources. $XOM
-- 09/17 05:57 [financialjuice] Exxon and PDVSA near an MOU on fields with 50b barrels - WSJ. $XOM
-- 09/17 05:59 [FirstSquawk] EXXON NEARS PRELIMINARY DEAL TO INVEST IN VENEZUELA OIL FIELDS; MOU WITH PDVSA COULD BE SIGNED THIS MONTH — WSJ
 - 09/17 06:13 [FirstSquawk] NORTH KOREA’S KIM YO JONG DENOUNCES IAEA MEETING ON DENUCLEARIZATION
 - 09/17 06:28 [FirstSquawk] UK PM BURNHAM WELCOMES CANADA AS FIRST OBSERVER NATION IN GLOBAL COMBAT AIR PROGRAMME (GCAP) THIS SUMMER — DOWNING STREET
 - 09/17 06:28 [FirstSquawk] DOWNING STREET: LEADERS DISCUSS AI OPPORTUNITIES AND RISKS, BACK GOVERNMENT-TECH COOPERATION TO ADDRESS SHARED CONCERNS AND PROTECT ONLINE SAFETY
@@ -319,3 +313,12 @@
 - 09/17 17:18 [FirstSquawk] TURKEY'S MARKET REGULATOR WILL CLOSE FUNDS RUN BY SEVEN FIRMS.
 - 09/17 17:32 [FirstSquawk] HUAWEI EXECUTIVE SAYS THE SOFTWARE DIVIDE WITH NVIDIA IS NARROWING.
 - 09/17 17:32 [financialjuice] UK Office for National Statistics: New approach of measuring productivity leads to relatively small changes in long-run growth in output per job and output per worker.
+- 09/17 17:56 [FirstSquawk] US-MEXICO TRADE DISCUSSIONS DELAYED BY ONE WEEK.
+- 09/17 17:58 [financialjuice] FRENCH 3 YR OAT YIELD ACTUAL 3.59% (FORECAST -, PREVIOUS 3.17%) $MACRO
+- 09/17 17:58 [financialjuice] FRENCH 3 YR OAT BID-TO-COVER ACTUAL 2.926 (FORECAST -, PREVIOUS 3.66) $MACRO
+- 09/17 17:59 [financialjuice] FRENCH 4 YR OAT YIELD ACTUAL 3.78% (FORECAST -, PREVIOUS 2.99%) $MACRO
+- 09/17 17:59 [financialjuice] FRENCH 4 YR OAT BID-TO-COVER ACTUAL 2.73 (FORECAST -, PREVIOUS 3.03) $MACRO
+- 09/17 18:00 [financialjuice] EUROZONE CORE CPI YOY FINAL ACTUAL 2.4% (FORECAST 2.4%, PREVIOUS 2.4%) $MACRO
+- 09/17 18:00 [financialjuice] ❗ EUROZONE CPI MOM FINAL ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.2%) $MACRO
+- 09/17 18:00 [financialjuice] ❗ EUROZONE CPI YOY FINAL ACTUAL 3.2% (FORECAST 3.3%, PREVIOUS 3.3%) $MACRO
+- 09/17 18:03 [financialjuice] NEW ZEALAND ANNUAL TRADE BAL. ACTUAL -5.24B (FORECAST -, PREVIOUS -5.24B) $MACRO

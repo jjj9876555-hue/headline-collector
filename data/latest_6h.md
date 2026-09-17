@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 17:51 JST／対象: 09/17 11:51 〜 09/17 17:51 JST（時刻はすべて日本時間）
+生成: 2026-09-17 18:03 JST／対象: 09/17 12:03 〜 09/17 18:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/17 16:07 | 09/17 16:07 | - |
-| FirstSquawk | 86 | 09/17 12:03 | 09/17 17:32 | 29分（16:17→16:47） |
-| financialjuice | 45 | 09/17 12:10 | 09/17 17:32 | 38分（14:20→14:58） |
+| FirstSquawk | 86 | 09/17 12:04 | 09/17 17:56 | 29分（16:17→16:47） |
+| financialjuice | 53 | 09/17 12:10 | 09/17 18:03 | 38分（14:20→14:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 132 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 140 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 12:03 [FirstSquawk] Malaysia’s Anwar Ibrahim expresses grave concern over a reported drone interception near Mecca, calling any threat to the city “wholly unacceptable.”
 - 09/17 12:04 [FirstSquawk] More than 20 international experts say human-driven climate change worsened several factors behind the catastrophic August flooding on the Nepal-China border, CNN reports.
 - 09/17 12:10 [FirstSquawk] Dollar Index stays above 100.00 after the Fed signals more monetary tightening.
 - 09/17 12:10 [financialjuice] Japan chief cabinet secretary Kihara: continue close communication with US Treasury to maintain orderly forex market
@@ -156,3 +155,12 @@
 - 09/17 17:18 [FirstSquawk] TURKEY'S MARKET REGULATOR WILL CLOSE FUNDS RUN BY SEVEN FIRMS.
 - 09/17 17:32 [FirstSquawk] HUAWEI EXECUTIVE SAYS THE SOFTWARE DIVIDE WITH NVIDIA IS NARROWING.
 - 09/17 17:32 [financialjuice] UK Office for National Statistics: New approach of measuring productivity leads to relatively small changes in long-run growth in output per job and output per worker.
+- 09/17 17:56 [FirstSquawk] US-MEXICO TRADE DISCUSSIONS DELAYED BY ONE WEEK.
+- 09/17 17:58 [financialjuice] FRENCH 3 YR OAT YIELD ACTUAL 3.59% (FORECAST -, PREVIOUS 3.17%) $MACRO
+- 09/17 17:58 [financialjuice] FRENCH 3 YR OAT BID-TO-COVER ACTUAL 2.926 (FORECAST -, PREVIOUS 3.66) $MACRO
+- 09/17 17:59 [financialjuice] FRENCH 4 YR OAT YIELD ACTUAL 3.78% (FORECAST -, PREVIOUS 2.99%) $MACRO
+- 09/17 17:59 [financialjuice] FRENCH 4 YR OAT BID-TO-COVER ACTUAL 2.73 (FORECAST -, PREVIOUS 3.03) $MACRO
+- 09/17 18:00 [financialjuice] EUROZONE CORE CPI YOY FINAL ACTUAL 2.4% (FORECAST 2.4%, PREVIOUS 2.4%) $MACRO
+- 09/17 18:00 [financialjuice] ❗ EUROZONE CPI MOM FINAL ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.2%) $MACRO
+- 09/17 18:00 [financialjuice] ❗ EUROZONE CPI YOY FINAL ACTUAL 3.2% (FORECAST 3.3%, PREVIOUS 3.3%) $MACRO
+- 09/17 18:03 [financialjuice] NEW ZEALAND ANNUAL TRADE BAL. ACTUAL -5.24B (FORECAST -, PREVIOUS -5.24B) $MACRO

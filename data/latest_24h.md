@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 17:51 JST／対象: 09/16 17:51 〜 09/17 17:51 JST（時刻はすべて日本時間）
+生成: 2026-09-17 18:03 JST／対象: 09/16 18:03 〜 09/17 18:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 52 | 09/16 19:06 | 09/17 16:07 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 384 | 09/16 18:12 | 09/17 17:32 | 32分（05:10→05:42） |
-| financialjuice | 284 | 09/16 18:00 | 09/17 17:32 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 385 | 09/16 18:12 | 09/17 17:56 | 32分（05:10→05:42） |
+| financialjuice | 289 | 09/16 18:23 | 09/17 18:03 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 706 行（統合前 725 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 712 行（統合前 731 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 18:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION MOM ACTUAL -0.1% (FORECAST -0.2%, PREVIOUS 0.0%) $MACRO
-- 09/16 18:00 [financialjuice] EUROZONE INDUSTRIAL PRODUCTION YOY ACTUAL 0.0% (FORECAST -0.1%, PREVIOUS 0.1%) $MACRO
-- 09/16 18:00 [financialjuice] EUROZONE LABOUR COSTS YOY ACTUAL 3.1% (FORECAST -, PREVIOUS 3.2%) $MACRO
 - 09/16 18:12 [FirstSquawk] AMAZON PLANS TO ESTABLISH OVER 1,000 SAME-DAY DELIVERY HUBS BY 2031, AS REPORTED BY INSIDER.
 - 09/16 18:23 [financialjuice] Amazon to build over 1k same-day delivery hubs by 2031. Budgets $6.8B for US same day hubs in 2026-27. $AMZN - Insider
 - 09/16 18:33 [financialjuice] GERMAN 30 YR BUND YIELD ACTUAL 3.9% (FORECAST -, PREVIOUS 3.64%) $MACRO
@@ -730,3 +727,12 @@
 - 09/17 17:18 [FirstSquawk] TURKEY'S MARKET REGULATOR WILL CLOSE FUNDS RUN BY SEVEN FIRMS.
 - 09/17 17:32 [FirstSquawk] HUAWEI EXECUTIVE SAYS THE SOFTWARE DIVIDE WITH NVIDIA IS NARROWING.
 - 09/17 17:32 [financialjuice] UK Office for National Statistics: New approach of measuring productivity leads to relatively small changes in long-run growth in output per job and output per worker.
+- 09/17 17:56 [FirstSquawk] US-MEXICO TRADE DISCUSSIONS DELAYED BY ONE WEEK.
+- 09/17 17:58 [financialjuice] FRENCH 3 YR OAT YIELD ACTUAL 3.59% (FORECAST -, PREVIOUS 3.17%) $MACRO
+- 09/17 17:58 [financialjuice] FRENCH 3 YR OAT BID-TO-COVER ACTUAL 2.926 (FORECAST -, PREVIOUS 3.66) $MACRO
+- 09/17 17:59 [financialjuice] FRENCH 4 YR OAT YIELD ACTUAL 3.78% (FORECAST -, PREVIOUS 2.99%) $MACRO
+- 09/17 17:59 [financialjuice] FRENCH 4 YR OAT BID-TO-COVER ACTUAL 2.73 (FORECAST -, PREVIOUS 3.03) $MACRO
+- 09/17 18:00 [financialjuice] EUROZONE CORE CPI YOY FINAL ACTUAL 2.4% (FORECAST 2.4%, PREVIOUS 2.4%) $MACRO
+- 09/17 18:00 [financialjuice] ❗ EUROZONE CPI MOM FINAL ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.2%) $MACRO
+- 09/17 18:00 [financialjuice] ❗ EUROZONE CPI YOY FINAL ACTUAL 3.2% (FORECAST 3.3%, PREVIOUS 3.3%) $MACRO
+- 09/17 18:03 [financialjuice] NEW ZEALAND ANNUAL TRADE BAL. ACTUAL -5.24B (FORECAST -, PREVIOUS -5.24B) $MACRO
