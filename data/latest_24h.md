@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 20:24 JST／対象: 09/16 20:24 〜 09/17 20:24 JST（時刻はすべて日本時間）
+生成: 2026-09-17 20:43 JST／対象: 09/16 20:43 〜 09/17 20:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 09/16 20:35 | 09/17 18:43 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 403 | 09/16 20:32 | 09/17 20:24 | 32分（05:10→05:42） |
-| financialjuice | 335 | 09/16 20:34 | 09/17 20:07 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 48 | 09/16 20:44 | 09/17 18:43 | ⚠ 483分（08:04→16:07） |
+| FirstSquawk | 406 | 09/16 20:49 | 09/17 20:29 | 32分（05:10→05:42） |
+| financialjuice | 335 | 09/16 20:55 | 09/17 20:29 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 773 行（統合前 793 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 774 行（統合前 794 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 20:32 [FirstSquawk] HOUTHIS TOLD U.S. OFFICIALS THEY WILL AVOID ATTACKING ISRAELI VESSELS.
-- 09/16 20:34 [financialjuice] House democrats press to stay in session for AI - Politico
-- 09/16 20:35 [DeItaone] MICHAEL BURRY JOINS NEW SHORT-FOCUSED FUND “Big Short” investor Michael Burry is joining Minerva Investment Management as senior adviser to help launch a new short-biased fund expected within a month. Burry has recently targeted AI hypersca…
-- 09/16 20:36 [DeItaone] *HOUSE DEMOCRATS SEEK BIPARTISAN AI SAFEGUARDS: POLITICO
-- 09/16 20:41 [financialjuice] Yemen's Houthis say they attacked an air base in Khamis Mashit
-- 09/16 20:41 [financialjuice] Houthis claim they are targeting Aramco site in Yanbu.
 - 09/16 20:44 [DeItaone] U.S. MORTGAGE PAIN DEEPENS AS RATES NEAR 7% U.S. mortgage applications fell 4.1% last week to their lowest since May 2025, with refinancing applications plunging 8.8%. The 30-year conforming mortgage rate climbed to 6.97%, while jumbo rates…
 - 09/16 20:49 [FirstSquawk] HOUTHI SPOKESPERSON: CLAIMS ATTACK ON ARAMCO FACILITY IN YANBU
 - 09/16 20:55 [financialjuice] German Government spokesperson: We're open to discussing new partnership models between the EU and Canada, but the term 'associate member' needs to be rethought
@@ -797,3 +791,10 @@
 - 09/17 20:07 [financialjuice] BoE Monetary Policy Summary September 2026
 - 09/17 20:15 [FirstSquawk] BOE: ITS APF GILT AUCTIONS WILL BE PAUSED UNTIL APRIL 2027 WHILE BOE CONSIDERS SELLING GILTS TO GOVERNMENT RATHER THAN MARKET
 - 09/17 20:24 [FirstSquawk] NOVO SIGNS DRUG PARTNERSHIP WITH ORBIS WORTH UP TO $1.4 BILLION - BBG
+- 09/17 20:26 [FirstSquawk] ECB'S REHN: CAN SAY WE WERE IN A GOOD PLACE ON INFLATION GIVEN LATEST SHOCKS, SIGNALS SITUATION NOT THE SAME NOW
+- 09/17 20:26 [financialjuice] ECB's Rehn: Can say we were in a good place on inflation given the latest shocks, signals situation not the same now
+- 09/17 20:26 [FirstSquawk] COREWEAVE PROPOSES $3B CONVERTIBLE SENIOR NOTES OFFERING
+- 09/17 20:28 [FirstSquawk] NETANYAHU STATES THAT THE IRANIAN REGIME WILL BE OVERTHROWN AND IS BOUND TO FALL.
+- 09/17 20:28 [financialjuice] Israel's Prime Minister Netanyahu: We will topple the Iranian regime; it will fall
+- 09/17 20:29 [FirstSquawk] NETANYAHU: WE WILL ELIMINATE HAMAS; HEZBOLLAH WILL FALL TOO
+- 09/17 20:29 [financialjuice] Israel's Prime Minister Netanyahu: We will eliminate Hamas; Hezbollah will fall too

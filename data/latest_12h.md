@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 20:24 JST／対象: 09/17 08:24 〜 09/17 20:24 JST（時刻はすべて日本時間）
+生成: 2026-09-17 20:43 JST／対象: 09/17 08:43 〜 09/17 20:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/17 16:07 | 09/17 18:43 | ⚠ 156分（16:07→18:43） |
-| FirstSquawk | 202 | 09/17 08:41 | 09/17 20:24 | 29分（16:17→16:47） |
-| financialjuice | 143 | 09/17 08:40 | 09/17 20:07 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 202 | 09/17 08:45 | 09/17 20:29 | 29分（16:17→16:47） |
+| financialjuice | 144 | 09/17 08:50 | 09/17 20:29 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 345 行（統合前 347 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 346 行（統合前 348 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 08:40 [financialjuice] Snap: collaborating with Salesforce, AWS, Nvidia, Trifork, Hololight, and others to integrate AR specs into workplace settings
-- 09/17 08:41 [FirstSquawk] SNAP HAS ANNOUNCED NEW EXPERIENCES, SERVICES AND PARTNERSHIPS FOR SPECS, INTRODUCING SPECS INTELLIGENCE, A NEW ANTICIPATORY AI SERVICE DESIGNED TO WORK ACROSS IPHONE, MAC AND SPECS AR GLASSES, AND WORKING WITH SALESFORCE, AWS, NVIDIA, TRIFO…
-- 09/17 08:41 [FirstSquawk] SNAP SAYS THAT FROM TODAY IN THE U.S., ANYONE 18+ CAN DOWNLOAD THE SPECS APP FOR IOS AND TRY THE SPECS INTELLIGENCE PREVIEW, WITH CONSUMERS ABLE TO TRY SPECS AR GLASSES IN-PERSON FROM OCT. 1 AT SPECS FIRST LOOK AT WESTFIELD CENTURY CITY IN …
-- 09/17 08:41 [financialjuice] Trump to hold Iran discussions with Gulf leaders next week: Axios
-- 09/17 08:41 [FirstSquawk] SNAP SAYS IT IS PARTNERING WITH VERIZON TO OFFER CUSTOM DATA PLANS, FLEXIBLE FINANCING AND DIGITAL SETUP AT SELECT VERIZON STORES FOR THE SPECS CHARGING CASE, ALONGSIDE GLOBAL CARRIERS INCLUDING ORANGE IN FRANCE AND EE IN THE UK.
-- 09/17 08:42 [FirstSquawk] TRUMP IS TO HOLD IRAN TALKS WITH GULF LEADERS NEXT WEEK - AXIOS
 - 09/17 08:45 [FirstSquawk] US STOCK FUTURES REBOUND: S&P 500 FUTURES +0.3%, NASDAQ FUTURES +0.5%
 - 09/17 08:46 [FirstSquawk] JAPAN MARKETS: NIKKEI FUTURES RISE 1% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.08 POINT
 - 09/17 08:50 [financialjuice] State Dept: US imposing sanctions on Palestinian Authority officials and Palestine Liberation Organization members
@@ -369,3 +363,10 @@
 - 09/17 20:07 [financialjuice] BoE Monetary Policy Summary September 2026
 - 09/17 20:15 [FirstSquawk] BOE: ITS APF GILT AUCTIONS WILL BE PAUSED UNTIL APRIL 2027 WHILE BOE CONSIDERS SELLING GILTS TO GOVERNMENT RATHER THAN MARKET
 - 09/17 20:24 [FirstSquawk] NOVO SIGNS DRUG PARTNERSHIP WITH ORBIS WORTH UP TO $1.4 BILLION - BBG
+- 09/17 20:26 [FirstSquawk] ECB'S REHN: CAN SAY WE WERE IN A GOOD PLACE ON INFLATION GIVEN LATEST SHOCKS, SIGNALS SITUATION NOT THE SAME NOW
+- 09/17 20:26 [financialjuice] ECB's Rehn: Can say we were in a good place on inflation given the latest shocks, signals situation not the same now
+- 09/17 20:26 [FirstSquawk] COREWEAVE PROPOSES $3B CONVERTIBLE SENIOR NOTES OFFERING
+- 09/17 20:28 [FirstSquawk] NETANYAHU STATES THAT THE IRANIAN REGIME WILL BE OVERTHROWN AND IS BOUND TO FALL.
+- 09/17 20:28 [financialjuice] Israel's Prime Minister Netanyahu: We will topple the Iranian regime; it will fall
+- 09/17 20:29 [FirstSquawk] NETANYAHU: WE WILL ELIMINATE HAMAS; HEZBOLLAH WILL FALL TOO
+- 09/17 20:29 [financialjuice] Israel's Prime Minister Netanyahu: We will eliminate Hamas; Hezbollah will fall too
