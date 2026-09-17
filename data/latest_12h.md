@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 04:44 JST／対象: 09/17 16:44 〜 09/18 04:44 JST（時刻はすべて日本時間）
+生成: 2026-09-18 04:58 JST／対象: 09/17 16:58 〜 09/18 04:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/17 18:43 | 09/18 02:59 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 148 | 09/17 16:47 | 09/18 04:41 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 170 | 09/17 16:47 | 09/18 04:33 | 45分（18:03→18:48） |
+| FirstSquawk | 141 | 09/17 17:03 | 09/18 04:58 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 169 | 09/17 17:06 | 09/18 04:51 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 321 行（統合前 333 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 312 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 16:47 [FirstSquawk] ECB'S MAKHLOUF SAYS THERE ARE NO SIGNS OF WORRYING SECOND-ROUND EFFECTS.
-- 09/17 16:47 [FirstSquawk] ECB'S MAKHLOUF SAYS FUTURE PROSPECTS ARE UNCERTAIN.
-- 09/17 16:47 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE ATTACKED RUSSIA'S YAROSLAVL REFINERY.
-- 09/17 16:47 [financialjuice] ECB's Makhlouf: Not seeing sign of concerning 2nd-round effects.
-- 09/17 16:47 [financialjuice] ECB's Makhlouf: Risks to inflation remain on upside.
-- 09/17 16:48 [financialjuice] ECB's Makhlouf: Can't rule out anything at future meetings.
-- 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF SAYS INFLATION RISKS STILL FAVOR HIGHER LEVELS.
-- 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF STATED THAT EVERY MEETING IS CONSIDERED A LIVE MEETING DUE TO UNCERTAINTIES.
-- 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF SAYS NOTHING IS OFF THE TABLE FOR FUTURE MEETINGS.
-- 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF SAYS MARKETS RECOGNIZE OUR FOCUS ON 2% INFLATION TARGET.
-- 09/17 16:54 [FirstSquawk] MAKHLOUF SAYS ECB SHOULD STICK TO 2% MEDIUM-TERM GOAL.
 - 09/17 17:03 [FirstSquawk] INDIA’S US TREASURY PURCHASES HIT RECORD $15.2 BILLION AS RBI DOLLAR INFLOWS SURGE
 - 09/17 17:06 [financialjuice] Russian drone strike on Tanzania-flagged ship headed to Ukrainian port kills one, injures three crew: Ukraine's infrastructure ministry
 - 09/17 17:08 [FirstSquawk] RUSSIAN DRONE ATTACK ON A TANZANIA-FLAGGED VESSEL BOUND FOR UKRAINE LEFT ONE DEAD AND THREE INJURED, ACCORDING TO UKRAINE'S INFRASTRUCTURE MINISTRY.
@@ -345,3 +334,5 @@
 - 09/18 04:30 [financialjuice/FirstSquawk] UKMTO has received a report of a security incident in the Strait of Hormuz 16NM northeast of Khasab, Oman.
 - 09/18 04:33 [financialjuice] US money-market fund assets fall to $7.92 trillion at ICI.
 - 09/18 04:41 [FirstSquawk] US MONEY-MARKET FUND ASSETS FALL TO $7.92 TRILLION — ICI
+- 09/18 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 3057.3 MLN NASDAQ 100: 1454.0 MLN DOW 30: 1387.4 MLN MAG 7: 928.8 MLN $MACRO
+- 09/18 04:51 [financialjuice/FirstSquawk] Israel's Prime Minister Netanyahu at campaign launch: We must complete the mission to the very end, and topple the Iranian regime - N12 News.

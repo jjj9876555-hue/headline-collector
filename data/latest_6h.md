@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 04:44 JST／対象: 09/17 22:44 〜 09/18 04:44 JST（時刻はすべて日本時間）
+生成: 2026-09-18 04:58 JST／対象: 09/17 22:58 〜 09/18 04:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/17 23:42 | 09/18 02:59 | ⚠ 87分（00:42→02:10） |
-| FirstSquawk | 63 | 09/17 22:50 | 09/18 04:41 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 65 | 09/17 22:57 | 09/18 04:33 | 38分（03:45→04:24） |
+| FirstSquawk | 63 | 09/17 23:00 | 09/18 04:58 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 66 | 09/17 23:00 | 09/18 04:51 | 38分（03:45→04:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 131 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 131 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 22:50 [FirstSquawk] DEBRIS FROM AN INTERCEPTED HOUTHI DRONE KILLED ONE PERSON, THE FIRST DEATH SINCE FIGHTING HAS ESCALATED, SAUDI CIVIL DEFENSE SAYS.
-- 09/17 22:57 [financialjuice] Dutch chipmaker Nexperia: Will make chips with TATA electronics in India
 - 09/17 23:00 [financialjuice] US PENDING HOME SALES CHANGE MOM ACTUAL 0.3% (FORECAST -0.1%, PREVIOUS -2.3%) $MACRO
 - 09/17 23:00 [financialjuice] US PENDING HOMES INDEX ACTUAL 71.2 (FORECAST -, PREVIOUS 71.2 ,REVISION 71.0) $MACRO
 - 09/17 23:00 [FirstSquawk] US AUG. PENDING HOME SALES ROSE 0.3% M/M; EST. -0.1%
@@ -155,3 +153,5 @@
 - 09/18 04:30 [financialjuice/FirstSquawk] UKMTO has received a report of a security incident in the Strait of Hormuz 16NM northeast of Khasab, Oman.
 - 09/18 04:33 [financialjuice] US money-market fund assets fall to $7.92 trillion at ICI.
 - 09/18 04:41 [FirstSquawk] US MONEY-MARKET FUND ASSETS FALL TO $7.92 TRILLION — ICI
+- 09/18 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 3057.3 MLN NASDAQ 100: 1454.0 MLN DOW 30: 1387.4 MLN MAG 7: 928.8 MLN $MACRO
+- 09/18 04:51 [financialjuice/FirstSquawk] Israel's Prime Minister Netanyahu at campaign launch: We must complete the mission to the very end, and topple the Iranian regime - N12 News.
