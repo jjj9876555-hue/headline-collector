@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 08:04 JST／対象: 09/18 02:04 〜 09/18 08:04 JST（時刻はすべて日本時間）
+生成: 2026-09-18 08:20 JST／対象: 09/18 02:20 〜 09/18 08:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/18 02:10 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 54 | 09/18 02:24 | 09/18 08:01 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 43 | 09/18 02:07 | 09/18 08:00 | ⚠ 60分（06:44→07:45） |
+| DeItaone | 4 | 09/18 02:53 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
+| FirstSquawk | 55 | 09/18 02:24 | 09/18 08:06 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 39 | 09/18 02:20 | 09/18 08:10 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 96 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 92 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 02:07 [financialjuice] Iran downed at least 2 unmanned American aircraft recently - CBS
-- 09/18 02:09 [financialjuice] Fitch Ratings: Low August US defaults reflect seasonal slowdown as market concern loans build
-- 09/18 02:10 [DeItaone] IRAN DOWNED AT LEAST 2 UNMANNED AMERICAN AIRCRAFT IN RECENT DAYS, U.S. OFFICIALS SAY- CBS NEWS
-- 09/18 02:10 [financialjuice] FAA to launch AI-powered air-traffic tool - WSJ.
-- 09/18 02:13 [financialjuice] SpaceX: Targeting to launch Starship flight 14 as early as Sep 28. $SPCX
-- 09/18 02:13 [DeItaone] TRUMP WEIGHS “BIG DECISION” ON IRAN President Trump says he faces a “big decision” over the next phase of the Iran conflict, including whether to pursue further military action against Tehran. Trump told Axios he plans to use an upcoming UN…
-- 09/18 02:20 [financialjuice/FirstSquawk] Iraqi Prime Minister to visit US and meet with Trump next week - Mehr News
 - 09/18 02:20 [financialjuice] Iraqi Prime Minister's to visit US and meet with Trump next week to discuss bilateral relations and regional developments - Mehr News
 - 09/18 02:21 [financialjuice] Iraqi Prime Minister to visit US and meet with Trump next week to discuss bilateral relations and regional developments - Mehr News
 - 09/18 02:24 [FirstSquawk] SPACEX: NOW TARGETING TO LAUNCH STARSHIP FLIGHT 14 AS EARLY AS MONDAY, SEPTEMBER 28, PENDING REGULATORY APPROVAL
@@ -42,6 +35,7 @@
 - 09/18 02:31 [FirstSquawk] TRUMP SAYS 'GREAT NEWS' THAT, THANKS TO THE 'BOLD LEADERSHIP' OF HIS FRIEND KAROL NAWROCKI, PRESIDENT OF POLAND, 'MAJOR PROGRESS IS BEING MADE TOWARD ESTABLISHING A U.S. ARMY BASE IN POLAND', ADDING THAT IF IT HAPPENS THE LOCATION WILL BE A…
 - 09/18 02:31 [FirstSquawk] FAA SEES $100M TARIFF IMPACT ON AIR TRAFFIC CONTROL MODERNIZATION COSTS — ADMINISTRATOR BEDFORD
 - 09/18 02:32 [FirstSquawk] PFIZER & BIONTECH’S UPDATED OMICRON XFG COVID-19 VACCINE AUTHORIZED BY HEALTH CANADA; DISTRIBUTION TO BEGIN IN COMING DAYS AND WEEKS
+- 09/18 02:34 [FirstSquawk] IRAQI PRIME MINISTER TO VISIT US AND MEET WITH TRUMP NEXT WEEK - MEHR NEWS
 - 09/18 02:34 [FirstSquawk] IRAQI PRIME MINISTER AND TRUMP TO DISCUSS BILATERAL RELATIONS AND REGIONAL DEVELOPMENTS - MEHR NEWS
 - 09/18 02:34 [financialjuice] OpenA and Nvidia CEOs to attend Trump-Xi state dinner - ABC. $NVDA
 - 09/18 02:34 [financialjuice] OpenAI and Nvidia CEOs to attend Trump-Xi state dinner - ABC. citing soruces $NVDA
@@ -120,3 +114,5 @@
 - 09/18 08:00 [financialjuice] South Korea prolongs fuel-tax reductions by two months until end of November: finance ministry
 - 09/18 08:01 [FirstSquawk] WHITE HOUSE WITHDRAWS NOMINATION OF FORMER DELTA PILOT JEFFREY ANDERSON FOR KEY INTERNATIONAL AVIATION POST
 - 09/18 08:01 [FirstSquawk] JANA PARTNERS PUSHES COOPER COS. TO REPLACE CEO AND CONSIDER SALE OF CORE BUSINESSES — WSJ
+- 09/18 08:06 [FirstSquawk] WORLD BANK BOARD DISCUSSES NEW COUNTRY PARTNERSHIP FRAMEWORK FOR THAILAND, COVERING FY2027–FY2032
+- 09/18 08:10 [financialjuice] Asus and Poesis collaborate on self-driving trading agents powered by Nvidia technology
