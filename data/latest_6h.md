@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 02:58 JST／対象: 09/17 20:58 〜 09/18 02:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 03:21 JST／対象: 09/17 21:21 〜 09/18 03:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/17 21:58 | 09/18 02:55 | ⚠ 87分（00:42→02:10） |
-| FirstSquawk | 80 | 09/17 20:59 | 09/18 02:53 | 25分（01:59→02:24） |
-| financialjuice | 80 | 09/17 21:00 | 09/18 02:34 | 29分（22:01→22:31） |
+| DeItaone | 9 | 09/17 21:58 | 09/18 02:59 | ⚠ 87分（00:42→02:10） |
+| FirstSquawk | 75 | 09/17 21:21 | 09/18 03:05 | 25分（01:59→02:24） |
+| financialjuice | 78 | 09/17 21:30 | 09/18 03:13 | 29分（22:01→22:31） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 164 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 158 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 20:59 [FirstSquawk] SPOT GOLD EXTENDS GAINS, UP NEARLY 2% TO $4,346.40/OZ
-- 09/17 21:00 [financialjuice] Secured overnight financing rate 3.62% September 16th vs 3.64% September 15th
-- 09/17 21:00 [FirstSquawk] US CRUDE FUTURES EXTEND DROP TO FALL BACK BELOW $100/BBL
-- 09/17 21:00 [financialjuice] ❗ China has privately asked Iran to use its influence to help rein in Yemen's Houthis after Saudi appeal to Beijing, three Iranian - Sources.
-- 09/17 21:01 [FirstSquawk] SPOT SILVER RISES 3% TO $64.85/OZ
-- 09/17 21:06 [financialjuice] Morning Juice – US Session Prep (17th September)
-- 09/17 21:06 [FirstSquawk] SAUDI ARABIA REQUESTS OMAN TO MEDIATE WITH ANSAR ALLAH FOR A TWO-WEEK TRUCE DURING WHICH ALL HUMANITARIAN DEMANDS WILL BE DISCUSSED, ENDING WITH THE ANNOUNCEMENT OF AN AGREEMENT BY THE END OF THE WEEK
-- 09/17 21:08 [financialjuice] Pentagon and Lockheed agree to speed up new missile production.
-- 09/17 21:11 [FirstSquawk] S&P 500 INDEX FUTURES EXTEND GAIN TO 1%
-- 09/17 21:20 [FirstSquawk] LOCKHEED MARTIN REVEALS NEW SECRET MISSILE, FAST TRACKS PRODUCTION
 - 09/17 21:21 [FirstSquawk] BRENT CRUDE FUTURES FALL OVER 3% TO LOWEST LEVEL SINCE SEPTEMBER 10 AS MIDDLE EAST SUPPLY DISRUPTION FEARS EASE
 - 09/17 21:26 [FirstSquawk] US TREASURY YIELDS EXTEND SLIDE AS UK YIELDS AND OIL PRICES FALL
 - 09/17 21:28 [FirstSquawk] NASDAQ 100 FUTURES EXTEND CLIMB TO 1.5%
@@ -188,3 +178,7 @@
 - 09/18 02:53 [FirstSquawk] SENEGAL PLANS TO USE DOMESTIC NATURAL GAS TO LOWER ELECTRICITY COSTS, THE ENERGY MINISTER TELLS REUTERS, ADDING THAT IT WILL MAKE ENERGY SUBSIDIES MORE TARGETED WITH A FOCUS ON THE MOST VULNERABLE HOUSEHOLDS.
 - 09/18 02:53 [FirstSquawk] SENEGAL IS OPEN TO WORKING WITH NEW INTERNATIONAL PARTNERS TO HELP DEVELOP ITS ENERGY RESOURCES AND WILL EXPORT GAS WHILE SUPPORTING DOMESTIC NEEDS, THE MINISTER SAYS.
 - 09/18 02:55 [DeItaone] BITCOIN COULD GET MORE SUPPORT THAN GOLD JPMorgan says Bitcoin could benefit more than gold if ETF hedging demand eases. Short interest in IBIT remains near yearly highs, while its put-to-call ratio is also higher than GLD’s — signaling hea…
+- 09/18 02:59 [DeItaone] ALTMAN AND HUANG SET TO JOIN XI AT WHITE HOUSE DINNER OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang are planning to attend a White House state dinner next week with Chinese President Xi Jinping. The gathering puts two of the biggest nam…
+- 09/18 03:04 [financialjuice] OpenAI and Microsoft knew of AI threats to news industry. $MSFT
+- 09/18 03:05 [FirstSquawk] OPENAI AND MICROSOFT KNEW OF AI THREATS TO NEWS INDUSTRY.
+- 09/18 03:13 [financialjuice] Trump and Mexico's President Sheinbaum are close to a trade agreement - Politico.

@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 02:58 JST／対象: 09/17 14:58 〜 09/18 02:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 03:21 JST／対象: 09/17 15:21 〜 09/18 03:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/17 16:07 | 09/18 02:55 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 156 | 09/17 15:03 | 09/18 02:53 | 29分（16:17→16:47） |
-| financialjuice | 171 | 09/17 14:58 | 09/18 02:34 | 45分（18:03→18:48） |
+| DeItaone | 11 | 09/17 16:07 | 09/18 02:59 | ⚠ 194分（18:43→21:58） |
+| FirstSquawk | 151 | 09/17 15:22 | 09/18 03:05 | 29分（16:17→16:47） |
+| financialjuice | 168 | 09/17 15:42 | 09/18 03:13 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 331 行（統合前 342 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 324 行（統合前 335 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 14:58 [financialjuice] SWISS TRADE BALANCE ACTUAL 3,786M (FORECAST -, PREVIOUS 8,730M ,REVISION 5,742M) $MACRO
-- 09/17 15:03 [FirstSquawk] Switzerland Exports Real (M/M) Aug: -8.6% (prev 10.7%; prevR 11.2%)
-- 09/17 15:03 [FirstSquawk] Switzerland Swiss Watch Exports (Y/Y): 9.1% (prev 9.6%)
-- 09/17 15:03 [FirstSquawk] Switzerland Imports Real (M/M): -3.1% (prev -2.8%; prevR -1.5%)
-- 09/17 15:05 [financialjuice] Japan and the US are in talks on chip plant under investment plan - Nikkei
-- 09/17 15:05 [FirstSquawk] Japan and US are discussing chip factory construction under their $550 billion investment framework, Nikkei reports.
-- 09/17 15:05 [financialjuice] Japan and the US discussing chip factory construction as part of $550 bln investment talks - Nikkei
-- 09/17 15:07 [financialjuice] Scope of Japan chip factory construction investment in the US likely to amount to several trillion Yen - Nikkei
-- 09/17 15:08 [financialjuice] Japan Banking Lobby Head: JGB yields likely to rise further
-- 09/17 15:10 [FirstSquawk] France’s Europe Minister Haddad: No outside country has the power to block EU-Canada ties.
-- 09/17 15:10 [FirstSquawk] Haddad, on Trump’s comments: The US does not determine the EU’s geopolitical direction.
 - 09/17 15:22 [FirstSquawk] Etihad: New agreement aims to strengthen tourism promotion and trade between the UAE and Uzbekistan.
 - 09/17 15:26 [FirstSquawk] Zelenskiy: Russian forces targeted energy infrastructure in the Sumy and Odesa regions overnight.
 - 09/17 15:33 [FirstSquawk] US allies remain wary of how Trump might address Taiwan in his engagement with Xi.
@@ -355,3 +344,7 @@
 - 09/18 02:53 [FirstSquawk] SENEGAL PLANS TO USE DOMESTIC NATURAL GAS TO LOWER ELECTRICITY COSTS, THE ENERGY MINISTER TELLS REUTERS, ADDING THAT IT WILL MAKE ENERGY SUBSIDIES MORE TARGETED WITH A FOCUS ON THE MOST VULNERABLE HOUSEHOLDS.
 - 09/18 02:53 [FirstSquawk] SENEGAL IS OPEN TO WORKING WITH NEW INTERNATIONAL PARTNERS TO HELP DEVELOP ITS ENERGY RESOURCES AND WILL EXPORT GAS WHILE SUPPORTING DOMESTIC NEEDS, THE MINISTER SAYS.
 - 09/18 02:55 [DeItaone] BITCOIN COULD GET MORE SUPPORT THAN GOLD JPMorgan says Bitcoin could benefit more than gold if ETF hedging demand eases. Short interest in IBIT remains near yearly highs, while its put-to-call ratio is also higher than GLD’s — signaling hea…
+- 09/18 02:59 [DeItaone] ALTMAN AND HUANG SET TO JOIN XI AT WHITE HOUSE DINNER OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang are planning to attend a White House state dinner next week with Chinese President Xi Jinping. The gathering puts two of the biggest nam…
+- 09/18 03:04 [financialjuice] OpenAI and Microsoft knew of AI threats to news industry. $MSFT
+- 09/18 03:05 [FirstSquawk] OPENAI AND MICROSOFT KNEW OF AI THREATS TO NEWS INDUSTRY.
+- 09/18 03:13 [financialjuice] Trump and Mexico's President Sheinbaum are close to a trade agreement - Politico.
