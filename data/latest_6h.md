@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 02:15 JST／対象: 09/17 20:15 〜 09/18 02:15 JST（時刻はすべて日本時間）
+生成: 2026-09-18 02:31 JST／対象: 09/17 20:31 〜 09/18 02:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/17 21:58 | 09/18 02:13 | ⚠ 87分（00:42→02:10） |
-| FirstSquawk | 72 | 09/17 20:15 | 09/18 01:59 | 17分（20:29→20:46） |
-| financialjuice | 76 | 09/17 20:26 | 09/18 02:13 | 30分（20:29→21:00） |
+| FirstSquawk | 71 | 09/17 20:46 | 09/18 02:31 | 25分（01:59→02:24） |
+| financialjuice | 78 | 09/17 21:00 | 09/18 02:30 | 29分（22:01→22:31） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 152 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 153 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 20:15 [FirstSquawk] BOE: ITS APF GILT AUCTIONS WILL BE PAUSED UNTIL APRIL 2027 WHILE BOE CONSIDERS SELLING GILTS TO GOVERNMENT RATHER THAN MARKET
-- 09/17 20:24 [FirstSquawk] NOVO SIGNS DRUG PARTNERSHIP WITH ORBIS WORTH UP TO $1.4 BILLION - BBG
-- 09/17 20:26 [FirstSquawk] ECB'S REHN: CAN SAY WE WERE IN A GOOD PLACE ON INFLATION GIVEN LATEST SHOCKS, SIGNALS SITUATION NOT THE SAME NOW
-- 09/17 20:26 [financialjuice] ECB's Rehn: Can say we were in a good place on inflation given the latest shocks, signals situation not the same now
-- 09/17 20:26 [FirstSquawk] COREWEAVE PROPOSES $3B CONVERTIBLE SENIOR NOTES OFFERING
-- 09/17 20:28 [FirstSquawk] NETANYAHU STATES THAT THE IRANIAN REGIME WILL BE OVERTHROWN AND IS BOUND TO FALL.
-- 09/17 20:28 [financialjuice] Israel's Prime Minister Netanyahu: We will topple the Iranian regime; it will fall
-- 09/17 20:29 [FirstSquawk] NETANYAHU: WE WILL ELIMINATE HAMAS; HEZBOLLAH WILL FALL TOO
-- 09/17 20:29 [financialjuice] Israel's Prime Minister Netanyahu: We will eliminate Hamas; Hezbollah will fall too
 - 09/17 20:46 [FirstSquawk] COREWEAVE SHARES TURN NEGATIVE, HIT SESSION LOW OF 1.4%
 - 09/17 20:56 [FirstSquawk] SINGAPORE'S ELECTRONICS EXPORTS INCREASED RAPIDLY IN AUGUST DUE TO CONTINUING ADVANCEMENTS IN AI.
 - 09/17 20:58 [FirstSquawk] UK 30-YEAR YIELD FALLS BY 10 BASIS POINTS TO 5.76%, THE BIGGEST DROP SINCE MAY.
@@ -176,3 +167,13 @@
 - 09/18 02:10 [financialjuice] FAA to launch AI-powered air-traffic tool - WSJ.
 - 09/18 02:13 [financialjuice] SpaceX: Targeting to launch Starship flight 14 as early as Sep 28. $SPCX
 - 09/18 02:13 [DeItaone] TRUMP WEIGHS “BIG DECISION” ON IRAN President Trump says he faces a “big decision” over the next phase of the Iran conflict, including whether to pursue further military action against Tehran. Trump told Axios he plans to use an upcoming UN…
+- 09/18 02:20 [financialjuice] Iraqi Prime Minister to visit US and meet with Trump next week - Mehr News
+- 09/18 02:20 [financialjuice] Iraqi Prime Minister's to visit US and meet with Trump next week to discuss bilateral relations and regional developments - Mehr News
+- 09/18 02:21 [financialjuice] Iraqi Prime Minister to visit US and meet with Trump next week to discuss bilateral relations and regional developments - Mehr News
+- 09/18 02:24 [FirstSquawk] SPACEX: NOW TARGETING TO LAUNCH STARSHIP FLIGHT 14 AS EARLY AS MONDAY, SEPTEMBER 28, PENDING REGULATORY APPROVAL
+- 09/18 02:26 [financialjuice] Trump: Progress made toward US army base in Poland.
+- 09/18 02:28 [FirstSquawk] OIL PRICES FLUCTUATED AS SAUDI ARABIA MOVED TO RESTORE ABOUT HALF OF ITS EAST-WEST PIPELINE CAPACITY WITHIN DAYS AFTER LAST WEEK'S DRONE ATTACK SHUTDOWN, EASING SOME IMMEDIATE SUPPLY CONCERNS. BRENT TRADED NEAR $105 AND WTI AROUND $102, WHI…
+- 09/18 02:28 [FirstSquawk] DESPITE EASING DISRUPTIONS, MIDDLE EAST SUPPLY RISKS REMAIN ELEVATED DUE TO THE U.S.-IRAN WAR, HOUTHI THREATS TO KEY SHIPPING ROUTES, AND THE RUSSIA-UKRAINE CONFLICT, KEEPING MARKETS TIGHT. ANALYSTS SAY UNCERTAINTY OVER THE CONFLICT'S ENDGA…
+- 09/18 02:28 [FirstSquawk] OIL HAS SURGED MORE THAN 70% THIS YEAR, ADDING TO GLOBAL INFLATION PRESSURES AND REINFORCING EXPECTATIONS FOR TIGHTER MONETARY POLICY. NEW U.S. TARIFF POWERS TARGETING BUYERS OF RUSSIAN PETROLEUM PRODUCTS AND CONTINUED ATTACKS ON RUSSIAN RE…
+- 09/18 02:30 [financialjuice] US imposes sanctions on BitBank cryptocurrency exchange, accusing it of enabling Iranian government - Statement
+- 09/18 02:31 [FirstSquawk] TRUMP SAYS 'GREAT NEWS' THAT, THANKS TO THE 'BOLD LEADERSHIP' OF HIS FRIEND KAROL NAWROCKI, PRESIDENT OF POLAND, 'MAJOR PROGRESS IS BEING MADE TOWARD ESTABLISHING A U.S. ARMY BASE IN POLAND', ADDING THAT IF IT HAPPENS THE LOCATION WILL BE A…

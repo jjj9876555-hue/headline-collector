@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 02:15 JST／対象: 09/17 14:15 〜 09/18 02:15 JST（時刻はすべて日本時間）
+生成: 2026-09-18 02:31 JST／対象: 09/17 14:31 〜 09/18 02:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/17 16:07 | 09/18 02:13 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 146 | 09/17 14:20 | 09/18 01:59 | 29分（16:17→16:47） |
-| financialjuice | 165 | 09/17 14:20 | 09/18 02:13 | 45分（18:03→18:48） |
+| FirstSquawk | 149 | 09/17 14:33 | 09/18 02:31 | 29分（16:17→16:47） |
+| financialjuice | 169 | 09/17 14:58 | 09/18 02:30 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 315 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 322 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 14:20 [financialjuice] Micron CEO: Micron to test and assemble hundreds of MLN chips in India next year
-- 09/17 14:20 [FirstSquawk] India’s market regulator is reviewing broker concerns regarding fees charged on UPI transactions.
-- 09/17 14:29 [FirstSquawk] Japanese Prime Minister Takaichi makes limited changes in her first Cabinet reshuffle.
 - 09/17 14:33 [FirstSquawk] HSBC ends a $38,000 education subsidy for some Hong Kong bankers, FT reports.
 - 09/17 14:39 [FirstSquawk] Iran war and El Niño threaten food supplies in Asia, raising concerns over potential unrest, SCMP reports.
 - 09/17 14:49 [FirstSquawk] WSJ: Dollar gains from Fed tightening may not develop into a lasting strengthening trend.
@@ -339,3 +336,13 @@
 - 09/18 02:10 [financialjuice] FAA to launch AI-powered air-traffic tool - WSJ.
 - 09/18 02:13 [financialjuice] SpaceX: Targeting to launch Starship flight 14 as early as Sep 28. $SPCX
 - 09/18 02:13 [DeItaone] TRUMP WEIGHS “BIG DECISION” ON IRAN President Trump says he faces a “big decision” over the next phase of the Iran conflict, including whether to pursue further military action against Tehran. Trump told Axios he plans to use an upcoming UN…
+- 09/18 02:20 [financialjuice] Iraqi Prime Minister to visit US and meet with Trump next week - Mehr News
+- 09/18 02:20 [financialjuice] Iraqi Prime Minister's to visit US and meet with Trump next week to discuss bilateral relations and regional developments - Mehr News
+- 09/18 02:21 [financialjuice] Iraqi Prime Minister to visit US and meet with Trump next week to discuss bilateral relations and regional developments - Mehr News
+- 09/18 02:24 [FirstSquawk] SPACEX: NOW TARGETING TO LAUNCH STARSHIP FLIGHT 14 AS EARLY AS MONDAY, SEPTEMBER 28, PENDING REGULATORY APPROVAL
+- 09/18 02:26 [financialjuice] Trump: Progress made toward US army base in Poland.
+- 09/18 02:28 [FirstSquawk] OIL PRICES FLUCTUATED AS SAUDI ARABIA MOVED TO RESTORE ABOUT HALF OF ITS EAST-WEST PIPELINE CAPACITY WITHIN DAYS AFTER LAST WEEK'S DRONE ATTACK SHUTDOWN, EASING SOME IMMEDIATE SUPPLY CONCERNS. BRENT TRADED NEAR $105 AND WTI AROUND $102, WHI…
+- 09/18 02:28 [FirstSquawk] DESPITE EASING DISRUPTIONS, MIDDLE EAST SUPPLY RISKS REMAIN ELEVATED DUE TO THE U.S.-IRAN WAR, HOUTHI THREATS TO KEY SHIPPING ROUTES, AND THE RUSSIA-UKRAINE CONFLICT, KEEPING MARKETS TIGHT. ANALYSTS SAY UNCERTAINTY OVER THE CONFLICT'S ENDGA…
+- 09/18 02:28 [FirstSquawk] OIL HAS SURGED MORE THAN 70% THIS YEAR, ADDING TO GLOBAL INFLATION PRESSURES AND REINFORCING EXPECTATIONS FOR TIGHTER MONETARY POLICY. NEW U.S. TARIFF POWERS TARGETING BUYERS OF RUSSIAN PETROLEUM PRODUCTS AND CONTINUED ATTACKS ON RUSSIAN RE…
+- 09/18 02:30 [financialjuice] US imposes sanctions on BitBank cryptocurrency exchange, accusing it of enabling Iranian government - Statement
+- 09/18 02:31 [FirstSquawk] TRUMP SAYS 'GREAT NEWS' THAT, THANKS TO THE 'BOLD LEADERSHIP' OF HIS FRIEND KAROL NAWROCKI, PRESIDENT OF POLAND, 'MAJOR PROGRESS IS BEING MADE TOWARD ESTABLISHING A U.S. ARMY BASE IN POLAND', ADDING THAT IF IT HAPPENS THE LOCATION WILL BE A…
