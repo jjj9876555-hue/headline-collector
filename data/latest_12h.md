@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 13:45 JST／対象: 09/17 01:45 〜 09/17 13:45 JST（時刻はすべて日本時間）
+生成: 2026-09-17 13:59 JST／対象: 09/17 01:59 〜 09/17 13:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 30 | 09/17 02:22 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 254 | 09/17 01:48 | 09/17 13:36 | 32分（05:10→05:42） |
-| financialjuice | 172 | 09/17 01:54 | 09/17 13:35 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 257 | 09/17 02:02 | 09/17 13:59 | 32分（05:10→05:42） |
+| financialjuice | 171 | 09/17 02:02 | 09/17 13:35 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 444 行（統合前 461 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 446 行（統合前 463 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 01:48 [FirstSquawk] HYPERSCALER DEBT SIGNALS WARNING SIGN, APOLLO CAUTIONS - CNBC
-- 09/17 01:54 [financialjuice] Pakistan Foreign Ministry: While Pakistan navy was undertaking biennial exercise, Indian vessel carried out aggressive maneuvers in close proximity.
 - 09/17 02:02 [financialjuice] Iran's Rezai: We do not trust the US in any way.
 - 09/17 02:02 [FirstSquawk] FRENCH PM LECORNU REPORTEDLY SEEKING BUDGET ALIGNMENT WITH RN - LES ECHOS
 - 09/17 02:22 [financialjuice] Google, DeepMind launch institute to explore AGI - Axios. $GOOGL
@@ -468,3 +466,7 @@
 - 09/17 13:35 [FirstSquawk] Kiuchi says he will not comment on interest-rate policy.
 - 09/17 13:35 [financialjuice] Japan economy minister Kiuchi: won’t pursue reckless fiscal expansion
 - 09/17 13:36 [FirstSquawk] Flood-hit Nepal sees India and China engage in disaster diplomacy.
+- 09/17 13:50 [FirstSquawk] NZD/USD maintains gains above 0.5700 after the GDP-led recovery, with the bearish bias still in place, FXStreet says.
+- 09/17 13:57 [FirstSquawk] Barclays comes under pressure from employees over return-to-office requirements - FT
+- 09/17 13:58 [FirstSquawk] Berenberg increases its SSE target price to 2,980p, up from 2,800p.
+- 09/17 13:59 [FirstSquawk] Yen slides past ¥156 per dollar as recent US-Japan efforts to support the currency lose ground, putting added pressure on the BOJ ahead of Friday’s rate decision, FT reports.

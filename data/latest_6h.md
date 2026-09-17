@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 13:45 JST／対象: 09/17 07:45 〜 09/17 13:45 JST（時刻はすべて日本時間）
+生成: 2026-09-17 13:59 JST／対象: 09/17 07:59 〜 09/17 13:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/17 07:47 | 09/17 08:04 | 16分（07:47→08:04） |
-| FirstSquawk | 131 | 09/17 07:47 | 09/17 13:36 | 25分（08:16→08:41） |
-| financialjuice | 59 | 09/17 07:45 | 09/17 13:35 | ⚠ 78分（10:31→11:49） |
+| DeItaone | 1 | 09/17 08:04 | 09/17 08:04 | - |
+| FirstSquawk | 132 | 09/17 08:02 | 09/17 13:59 | 25分（08:16→08:41） |
+| financialjuice | 56 | 09/17 08:10 | 09/17 13:35 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 192 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 189 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 07:45 [financialjuice] NEW ZEALAND GDP YOY ACTUAL 2.6% (FORECAST 2.2%, PREVIOUS 1.5%) $MACRO
-- 09/17 07:45 [financialjuice] ‼ BREAKING: NEW ZEALAND GDP QOQ ACTUAL 0.2% (FORECAST 0.1%, PREVIOUS 0.8%) $MACRO
-- 09/17 07:45 [financialjuice] ❗ NEW ZEALAND EXPENDITURE GDP QOQ ACTUAL 0.4% (FORECAST -, PREVIOUS 1.0%) $MACRO
-- 09/17 07:47 [FirstSquawk] NEW ZEALAND DOLLAR FIRMS TO $0.5724 AFTER GDP GROWTH TOPS FORECASTS
-- 09/17 07:47 [DeItaone] *TRUMP, ASKED WHETHER HE STILL HAS CONFIDENCE IN WARSH: I DO
-- 09/17 07:52 [FirstSquawk] US HOUSE HAS ENOUGH VOTES TO PASS DATA CENTER COST BILL; VOTING CONTINUES
-- 09/17 07:53 [FirstSquawk] US HOUSE PASSES BILL TO SHIFT ELECTRICAL GRID UPGRADE COSTS TO DATA CENTERS
 - 09/17 08:02 [FirstSquawk] APPLE'S COOK: TO ATTEND TRUMP DINNER FOR CHINA'S XI NEXT WEEK
 - 09/17 08:02 [FirstSquawk] SALESFORCE: FORECASTS FY2030 SALES OF $63B (EST $61.4B)
 - 09/17 08:02 [FirstSquawk] IMF SAYS ON AUSTRALIA THAT IT SEES GDP GROWTH AT 1.9% IN 2026 AND 1.6% IN 2027, ADDING THAT MAJOR TAX REFORM COULD BOOST GROWTH AND STRENGTHEN PUBLIC FINANCES AND CALLING FOR A MORE AMBITIOUS PRODUCTIVITY REFORM PROGRAMME.
@@ -216,3 +209,7 @@
 - 09/17 13:35 [FirstSquawk] Kiuchi says he will not comment on interest-rate policy.
 - 09/17 13:35 [financialjuice] Japan economy minister Kiuchi: won’t pursue reckless fiscal expansion
 - 09/17 13:36 [FirstSquawk] Flood-hit Nepal sees India and China engage in disaster diplomacy.
+- 09/17 13:50 [FirstSquawk] NZD/USD maintains gains above 0.5700 after the GDP-led recovery, with the bearish bias still in place, FXStreet says.
+- 09/17 13:57 [FirstSquawk] Barclays comes under pressure from employees over return-to-office requirements - FT
+- 09/17 13:58 [FirstSquawk] Berenberg increases its SSE target price to 2,980p, up from 2,800p.
+- 09/17 13:59 [FirstSquawk] Yen slides past ¥156 per dollar as recent US-Japan efforts to support the currency lose ground, putting added pressure on the BOJ ahead of Friday’s rate decision, FT reports.

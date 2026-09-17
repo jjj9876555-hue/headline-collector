@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 13:45 JST／対象: 09/16 13:45 〜 09/17 13:45 JST（時刻はすべて日本時間）
+生成: 2026-09-17 13:59 JST／対象: 09/16 13:59 〜 09/17 13:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 416 | 09/16 13:45 | 09/17 13:36 | 45分（17:00→17:45） |
+| FirstSquawk | 416 | 09/16 14:03 | 09/17 13:59 | 45分（17:00→17:45） |
 | financialjuice | 299 | 09/16 14:36 | 09/17 13:35 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 13:45 [FirstSquawk] Asian stocks edge higher as markets await Fed decision Asian equities traded with modest gains on Wednesday, as investors remained cautious ahead of the Federal Reserve’s upcoming policy decision. Markets are closely watching the Fed outcom…
-- 09/16 13:49 [FirstSquawk] Amazon, Netflix and YouTube join forces to expand streaming choices: CNBC Amazon, Netflix and YouTube are joining hands in an effort to give viewers more choices across online streaming, according to CNBC.
-- 09/16 13:56 [FirstSquawk] NTT Docomo gave user data to Amazon Japan without consent: Kyodo Japan’s NTT Docomo provided user data to Amazon Japan’s local arm without obtaining users’ consent, according to Kyodo News.
-- 09/16 13:58 [FirstSquawk] Explosions reported in Kyiv, Ukrainian media says Ukrainian media reported sounds of explosions in Kyiv, without providing further details on the cause or location. The reports come amid continued security tensions in Ukraine, with authorit…
 - 09/16 14:03 [FirstSquawk] Equinor expects EU gas inventories to reach around 75% by November Equinor expects European Union gas storage inventories to reach around 75% of capacity by November, highlighting its outlook for regional gas supplies.
 - 09/16 14:10 [FirstSquawk] Polish airports in Lublin and Rzeszów closed amid military aviation operations Airports in Lublin and Rzeszów have been closed due to military aviation operations, Poland’s air navigation services agency PANSA said. The closures affect air …
 - 09/16 14:14 [FirstSquawk] Berenberg raises BioNTech target price to $140 from $132
@@ -776,3 +772,7 @@
 - 09/17 13:35 [FirstSquawk] Kiuchi says he will not comment on interest-rate policy.
 - 09/17 13:35 [financialjuice] Japan economy minister Kiuchi: won’t pursue reckless fiscal expansion
 - 09/17 13:36 [FirstSquawk] Flood-hit Nepal sees India and China engage in disaster diplomacy.
+- 09/17 13:50 [FirstSquawk] NZD/USD maintains gains above 0.5700 after the GDP-led recovery, with the bearish bias still in place, FXStreet says.
+- 09/17 13:57 [FirstSquawk] Barclays comes under pressure from employees over return-to-office requirements - FT
+- 09/17 13:58 [FirstSquawk] Berenberg increases its SSE target price to 2,980p, up from 2,800p.
+- 09/17 13:59 [FirstSquawk] Yen slides past ¥156 per dollar as recent US-Japan efforts to support the currency lose ground, putting added pressure on the BOJ ahead of Friday’s rate decision, FT reports.
