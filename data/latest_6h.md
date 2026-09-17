@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 02:45 JST／対象: 09/17 20:45 〜 09/18 02:45 JST（時刻はすべて日本時間）
+生成: 2026-09-18 02:58 JST／対象: 09/17 20:58 〜 09/18 02:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/17 21:58 | 09/18 02:13 | ⚠ 87分（00:42→02:10） |
-| FirstSquawk | 80 | 09/17 20:46 | 09/18 02:43 | 25分（01:59→02:24） |
+| DeItaone | 8 | 09/17 21:58 | 09/18 02:55 | ⚠ 87分（00:42→02:10） |
+| FirstSquawk | 80 | 09/17 20:59 | 09/18 02:53 | 25分（01:59→02:24） |
 | financialjuice | 80 | 09/17 21:00 | 09/18 02:34 | 29分（22:01→22:31） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 171 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 164 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 20:46 [FirstSquawk] COREWEAVE SHARES TURN NEGATIVE, HIT SESSION LOW OF 1.4%
-- 09/17 20:56 [FirstSquawk] SINGAPORE'S ELECTRONICS EXPORTS INCREASED RAPIDLY IN AUGUST DUE TO CONTINUING ADVANCEMENTS IN AI.
-- 09/17 20:58 [FirstSquawk] UK 30-YEAR YIELD FALLS BY 10 BASIS POINTS TO 5.76%, THE BIGGEST DROP SINCE MAY.
 - 09/17 20:59 [FirstSquawk] SPOT GOLD EXTENDS GAINS, UP NEARLY 2% TO $4,346.40/OZ
 - 09/17 21:00 [financialjuice] Secured overnight financing rate 3.62% September 16th vs 3.64% September 15th
 - 09/17 21:00 [FirstSquawk] US CRUDE FUTURES EXTEND DROP TO FALL BACK BELOW $100/BBL
@@ -186,3 +183,8 @@
 - 09/18 02:39 [FirstSquawk] OPENAI & NVIDIA CEOS TO ATTEND TRUMP-XI STATE DINNER — ABC
 - 09/18 02:43 [FirstSquawk] RUSSIA EXPECTS ITS 2027 FEDERAL BUDGET DEFICIT TO BE AROUND 2% OF GDP, WITH PROJECTIONS BASED ON A CONSERVATIVE OIL PRICE ASSUMPTION OF ABOUT $50 PER BARREL, PRESIDENT VLADIMIR PUTIN SAID. HE ADDED THAT OIL AND GAS REVENUES ARE EXPECTED TO …
 - 09/18 02:43 [FirstSquawk] PUTIN ALSO SAID RUSSIA’S ECONOMY IS EXPECTED TO GROW ABOUT 1% IN 2026, INFLATION IS GRADUALLY SLOWING, AND THE FEDERAL BUDGET POSTED A RUB 606 BILLION SURPLUS IN AUGUST.
+- 09/18 02:51 [FirstSquawk] U.S. SHALE PRODUCER HIGHPEAK ENERGY IS EXPLORING A SALE AFTER RECEIVING TAKEOVER INTEREST, SOURCES SAY
+- 09/18 02:53 [DeItaone] FED’S NEXT MOVE: OCTOBER HIKE IN PLAY Goldman Sachs now expects another 25bp Fed hike in October, joining ANZ, BofA, RBC and TD Securities after September’s hawkish meeting. Markets remain split: Kalshi prices a 53% chance of a hold vs. 48%…
+- 09/18 02:53 [FirstSquawk] SENEGAL PLANS TO USE DOMESTIC NATURAL GAS TO LOWER ELECTRICITY COSTS, THE ENERGY MINISTER TELLS REUTERS, ADDING THAT IT WILL MAKE ENERGY SUBSIDIES MORE TARGETED WITH A FOCUS ON THE MOST VULNERABLE HOUSEHOLDS.
+- 09/18 02:53 [FirstSquawk] SENEGAL IS OPEN TO WORKING WITH NEW INTERNATIONAL PARTNERS TO HELP DEVELOP ITS ENERGY RESOURCES AND WILL EXPORT GAS WHILE SUPPORTING DOMESTIC NEEDS, THE MINISTER SAYS.
+- 09/18 02:55 [DeItaone] BITCOIN COULD GET MORE SUPPORT THAN GOLD JPMorgan says Bitcoin could benefit more than gold if ETF hedging demand eases. Short interest in IBIT remains near yearly highs, while its put-to-call ratio is also higher than GLD’s — signaling hea…

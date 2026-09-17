@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 02:45 JST／対象: 09/17 14:45 〜 09/18 02:45 JST（時刻はすべて日本時間）
+生成: 2026-09-18 02:58 JST／対象: 09/17 14:58 〜 09/18 02:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/17 16:07 | 09/18 02:13 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 156 | 09/17 14:49 | 09/18 02:43 | 29分（16:17→16:47） |
+| DeItaone | 10 | 09/17 16:07 | 09/18 02:55 | ⚠ 194分（18:43→21:58） |
+| FirstSquawk | 156 | 09/17 15:03 | 09/18 02:53 | 29分（16:17→16:47） |
 | financialjuice | 171 | 09/17 14:58 | 09/18 02:34 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 329 行（統合前 340 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 331 行（統合前 342 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 14:49 [FirstSquawk] WSJ: Dollar gains from Fed tightening may not develop into a lasting strengthening trend.
-- 09/17 14:55 [FirstSquawk] Ferrari and Rakuten sign a partnership agreement effective from January 1, 2027.
-- 09/17 14:56 [FirstSquawk] Morgan Stanley forecasts 25 bps of additional Fed tightening in March 2027, while maintaining its call for a December rate hike.
 - 09/17 14:58 [financialjuice] SWISS TRADE BALANCE ACTUAL 3,786M (FORECAST -, PREVIOUS 8,730M ,REVISION 5,742M) $MACRO
 - 09/17 15:03 [FirstSquawk] Switzerland Exports Real (M/M) Aug: -8.6% (prev 10.7%; prevR 11.2%)
 - 09/17 15:03 [FirstSquawk] Switzerland Swiss Watch Exports (Y/Y): 9.1% (prev 9.6%)
@@ -353,3 +350,8 @@
 - 09/18 02:39 [FirstSquawk] OPENAI & NVIDIA CEOS TO ATTEND TRUMP-XI STATE DINNER — ABC
 - 09/18 02:43 [FirstSquawk] RUSSIA EXPECTS ITS 2027 FEDERAL BUDGET DEFICIT TO BE AROUND 2% OF GDP, WITH PROJECTIONS BASED ON A CONSERVATIVE OIL PRICE ASSUMPTION OF ABOUT $50 PER BARREL, PRESIDENT VLADIMIR PUTIN SAID. HE ADDED THAT OIL AND GAS REVENUES ARE EXPECTED TO …
 - 09/18 02:43 [FirstSquawk] PUTIN ALSO SAID RUSSIA’S ECONOMY IS EXPECTED TO GROW ABOUT 1% IN 2026, INFLATION IS GRADUALLY SLOWING, AND THE FEDERAL BUDGET POSTED A RUB 606 BILLION SURPLUS IN AUGUST.
+- 09/18 02:51 [FirstSquawk] U.S. SHALE PRODUCER HIGHPEAK ENERGY IS EXPLORING A SALE AFTER RECEIVING TAKEOVER INTEREST, SOURCES SAY
+- 09/18 02:53 [DeItaone] FED’S NEXT MOVE: OCTOBER HIKE IN PLAY Goldman Sachs now expects another 25bp Fed hike in October, joining ANZ, BofA, RBC and TD Securities after September’s hawkish meeting. Markets remain split: Kalshi prices a 53% chance of a hold vs. 48%…
+- 09/18 02:53 [FirstSquawk] SENEGAL PLANS TO USE DOMESTIC NATURAL GAS TO LOWER ELECTRICITY COSTS, THE ENERGY MINISTER TELLS REUTERS, ADDING THAT IT WILL MAKE ENERGY SUBSIDIES MORE TARGETED WITH A FOCUS ON THE MOST VULNERABLE HOUSEHOLDS.
+- 09/18 02:53 [FirstSquawk] SENEGAL IS OPEN TO WORKING WITH NEW INTERNATIONAL PARTNERS TO HELP DEVELOP ITS ENERGY RESOURCES AND WILL EXPORT GAS WHILE SUPPORTING DOMESTIC NEEDS, THE MINISTER SAYS.
+- 09/18 02:55 [DeItaone] BITCOIN COULD GET MORE SUPPORT THAN GOLD JPMorgan says Bitcoin could benefit more than gold if ETF hedging demand eases. Short interest in IBIT remains near yearly highs, while its put-to-call ratio is also higher than GLD’s — signaling hea…
