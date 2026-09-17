@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 11:25 JST／対象: 09/16 23:25 〜 09/17 11:25 JST（時刻はすべて日本時間）
+生成: 2026-09-17 11:44 JST／対象: 09/16 23:44 〜 09/17 11:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 39 | 09/16 23:46 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 227 | 09/16 23:26 | 09/17 11:25 | 32分（05:10→05:42） |
-| financialjuice | 171 | 09/16 23:27 | 09/17 10:31 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 225 | 09/16 23:51 | 09/17 11:42 | 32分（05:10→05:42） |
+| financialjuice | 161 | 09/16 23:51 | 09/17 10:31 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 425 行（統合前 442 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 413 行（統合前 430 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 23:26 [FirstSquawk] BURNHAM'S BREXIT BRITAIN FEELS PAIN FROM EU-CANADA RELATIONSHIP.
-- 09/16 23:27 [financialjuice] Pentagon's Michael on CNBC: AI firms not investing enough in safety.
-- 09/16 23:28 [financialjuice] ECB's Pereira: So far inflation not broadening in the economy as widely as in the past, but something we will be watching in coming months
-- 09/16 23:30 [FirstSquawk] US CRUDE OIL INVENTORIES ACTUAL: -640K VS -391K PREVIOUS; EST -1550K
-- 09/16 23:30 [FirstSquawk] US CUSHING CRUDE OIL INVENTORIES ACTUAL: -342K VS -684K PREVIOUS
-- 09/16 23:30 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL 1.585M (FORECAST 0.65M, PREVIOUS 2.087M) $MACRO
-- 09/16 23:30 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL -0.64M (FORECAST -1.5M, PREVIOUS -0.391M) $MACRO
-- 09/16 23:30 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 0.794M (FORECAST -1.1M, PREVIOUS 1.269M) $MACRO
-- 09/16 23:30 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL -0.342M (FORECAST -, PREVIOUS -0.684M) $MACRO
-- 09/16 23:30 [financialjuice] EIA Weekly Inventories Report
-- 09/16 23:31 [financialjuice] Pentagon's Michael: AI firms should be doing independent auditing
-- 09/16 23:32 [FirstSquawk] CELH INSIDER BUYING SURGES: DIRECTOR DAMON DESANTIS BUYS $1M OF SHARES $CELH
-- 09/16 23:35 [financialjuice] CNBC interview with Pentagon's Emil Michael ends
-- 09/16 23:38 [FirstSquawk] SANOFI OPENS C$925 MLN FLU VACCINE PLANT IN TORONTO, OUTPUT TO START EARLY NEXT YEAR
-- 09/16 23:39 [financialjuice] ECB's Pereira: A lot of risks have certainly risen in last few months.
-- 09/16 23:44 [FirstSquawk] ECB'S PEREIRA: CERTAINLY SEEN A LOT OF RISKS RISE IN LAST FEW MONTHS
 - 09/16 23:46 [DeItaone] FED DOT PLOT COULD SIGNAL ANOTHER 2026 HIKE The Fed’s updated Dot Plot is expected to show rates ending 2026 near 4.1%, implying another hike after today’s anticipated 25bp increase. The bigger question is 2027: projections may still signal…
 - 09/16 23:51 [FirstSquawk] AMERICAN AIRLINES FEELING 'REALLY GOOD' ABOUT GUIDANCE: CEO
 - 09/16 23:51 [financialjuice] Senator Thune: I'd like to see the CLARITY crypto bill revived
@@ -449,3 +433,7 @@
 - 09/17 11:20 [FirstSquawk] Rising temperatures and melting glaciers likely contributed to the Nepal glacier collapse, scientists say.
 - 09/17 11:24 [FirstSquawk] Yen ticks higher as markets price a more hawkish BoJ stance, despite continued strength in the US dollar.
 - 09/17 11:25 [FirstSquawk] South Korean won drops to 1,384.40 per US dollar, marking its weakest level since August 27.
+- 09/17 11:33 [FirstSquawk] South Korea’s automobile exports fell 29.8% from a year earlier in August, with fewer working days and strikes disrupting production, data showed.
+- 09/17 11:37 [FirstSquawk] House report alleges ActBlue accepted illegal foreign political donations, citing findings from a congressional investigation.
+- 09/17 11:40 [FirstSquawk] BBC reports that multiple world leaders, including South Africa’s Cyril Ramaphosa, have reportedly fallen ill following the BRICS summit in India, while reports involving China’s Xi Jinping remain unconfirmed.
+- 09/17 11:42 [FirstSquawk] Huawei rolls out new AI technology designed to strengthen computing capabilities and reduce reliance on Nvidia in China.

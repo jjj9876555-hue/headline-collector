@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 11:25 JST／対象: 09/17 05:25 〜 09/17 11:25 JST（時刻はすべて日本時間）
+生成: 2026-09-17 11:44 JST／対象: 09/17 05:44 〜 09/17 11:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/17 05:50 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 119 | 09/17 05:42 | 09/17 11:25 | 25分（08:16→08:41） |
-| financialjuice | 38 | 09/17 05:30 | 09/17 10:31 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 121 | 09/17 05:44 | 09/17 11:42 | 25分（08:16→08:41） |
+| financialjuice | 35 | 09/17 05:57 | 09/17 10:31 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 164 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 165 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 05:30 [financialjuice/FirstSquawk] The White House seeks to remove Canadian items from US procurement.
-- 09/17 05:36 [financialjuice/FirstSquawk] US-Mexico trade talks have been pushed back one week - WSJ.
-- 09/17 05:40 [financialjuice] Trump: Interest rates in the US should be 1%, or less. Lower the interest rates, and fast - Truth Social
 - 09/17 05:44 [FirstSquawk] TRUMP SAYS U.S. INTEREST RATES SHOULD BE 1% OR LOWER, ARGUING THE COUNTRY IS THE “BEST CREDIT IN THE WORLD” AND IS BOOMING WITH NEW INVESTMENT. - TRUTH SOCIAL
 - 09/17 05:45 [FirstSquawk] TRUMP SAYS ENDING TRADE WITH COUNTRIES THE U.S. RUNS DEFICITS WITH COULD GENERATE AT LEAST $1.5 TRILLION A YEAR, ADDING THAT LOWER RATES ARE NEEDED FOR THE UNITED STATES. - TRUTH SOCIAL
 - 09/17 05:50 [DeItaone] TRUMP DEMANDS U.S. INTEREST RATES AT 1% OR LOWER President Trump is calling for U.S. interest rates to be cut to 1% or below, arguing America’s credit strength and booming investment justify dramatically cheaper borrowing. He also criticize…
@@ -188,3 +185,7 @@
 - 09/17 11:20 [FirstSquawk] Rising temperatures and melting glaciers likely contributed to the Nepal glacier collapse, scientists say.
 - 09/17 11:24 [FirstSquawk] Yen ticks higher as markets price a more hawkish BoJ stance, despite continued strength in the US dollar.
 - 09/17 11:25 [FirstSquawk] South Korean won drops to 1,384.40 per US dollar, marking its weakest level since August 27.
+- 09/17 11:33 [FirstSquawk] South Korea’s automobile exports fell 29.8% from a year earlier in August, with fewer working days and strikes disrupting production, data showed.
+- 09/17 11:37 [FirstSquawk] House report alleges ActBlue accepted illegal foreign political donations, citing findings from a congressional investigation.
+- 09/17 11:40 [FirstSquawk] BBC reports that multiple world leaders, including South Africa’s Cyril Ramaphosa, have reportedly fallen ill following the BRICS summit in India, while reports involving China’s Xi Jinping remain unconfirmed.
+- 09/17 11:42 [FirstSquawk] Huawei rolls out new AI technology designed to strengthen computing capabilities and reduce reliance on Nvidia in China.

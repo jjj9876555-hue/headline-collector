@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 11:25 JST／対象: 09/16 11:25 〜 09/17 11:25 JST（時刻はすべて日本時間）
+生成: 2026-09-17 11:44 JST／対象: 09/16 11:44 〜 09/17 11:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 406 | 09/16 11:28 | 09/17 11:25 | 45分（17:00→17:45） |
+| FirstSquawk | 407 | 09/16 11:49 | 09/17 11:42 | 45分（17:00→17:45） |
 | financialjuice | 273 | 09/16 14:36 | 09/17 10:31 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 716 行（統合前 736 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 717 行（統合前 737 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 11:28 [FirstSquawk] The Palestinian Civil Defense says people were killed and injured after a cracked residential building collapsed in Gaza, according to Al Arabiya.
-- 09/16 11:39 [FirstSquawk] South Korea has cancelled a plan to report details of its U.S. investment plans to parliament on Thursday, according to a report. The decision comes as Seoul’s planned U.S. investment commitments remain in focus, with further details on the…
-- 09/16 11:40 [FirstSquawk] China has launched the Pinglu Canal, a major waterway project aimed at cutting transit times for cargo moving toward Southeast Asia. The canal is expected to strengthen regional connectivity and provide a more direct trade route, potentiall…
 - 09/16 11:49 [FirstSquawk] Seaport has initiated coverage of Domino’s Pizza (DPZ) with a Neutral rating. The new analyst coverage puts the restaurant chain under fresh scrutiny as investors assess its growth outlook, valuation and operating performance. Seaport ratin…
 - 09/16 11:57 [FirstSquawk] Indonesia’s benchmark stock index climbed as much as 1.2% to 6,535.46 points. The advance lifts the index to its highest intraday level in the latest session as investors assess broader regional market sentiment.
 - 09/16 12:05 [FirstSquawk] Commodity vessel crossings through the Strait of Hormuz remain in single digits, according to ship-tracking data. The subdued traffic highlights continued disruption to commercial shipping through the key energy corridor, with markets close…
@@ -740,3 +737,7 @@
 - 09/17 11:20 [FirstSquawk] Rising temperatures and melting glaciers likely contributed to the Nepal glacier collapse, scientists say.
 - 09/17 11:24 [FirstSquawk] Yen ticks higher as markets price a more hawkish BoJ stance, despite continued strength in the US dollar.
 - 09/17 11:25 [FirstSquawk] South Korean won drops to 1,384.40 per US dollar, marking its weakest level since August 27.
+- 09/17 11:33 [FirstSquawk] South Korea’s automobile exports fell 29.8% from a year earlier in August, with fewer working days and strikes disrupting production, data showed.
+- 09/17 11:37 [FirstSquawk] House report alleges ActBlue accepted illegal foreign political donations, citing findings from a congressional investigation.
+- 09/17 11:40 [FirstSquawk] BBC reports that multiple world leaders, including South Africa’s Cyril Ramaphosa, have reportedly fallen ill following the BRICS summit in India, while reports involving China’s Xi Jinping remain unconfirmed.
+- 09/17 11:42 [FirstSquawk] Huawei rolls out new AI technology designed to strengthen computing capabilities and reduce reliance on Nvidia in China.
