@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 20:58 JST／対象: 09/17 14:58 〜 09/17 20:58 JST（時刻はすべて日本時間）
+生成: 2026-09-17 21:23 JST／対象: 09/17 15:23 〜 09/17 21:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/17 16:07 | 09/17 18:43 | ⚠ 156分（16:07→18:43） |
-| FirstSquawk | 76 | 09/17 15:03 | 09/17 20:58 | 29分（16:17→16:47） |
-| financialjuice | 91 | 09/17 14:58 | 09/17 20:29 | 45分（18:03→18:48） |
+| FirstSquawk | 76 | 09/17 15:26 | 09/17 21:21 | 29分（16:17→16:47） |
+| financialjuice | 90 | 09/17 15:42 | 09/17 21:08 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 167 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 166 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 14:58 [financialjuice] SWISS TRADE BALANCE ACTUAL 3,786M (FORECAST -, PREVIOUS 8,730M ,REVISION 5,742M) $MACRO
-- 09/17 15:03 [FirstSquawk] Switzerland Exports Real (M/M) Aug: -8.6% (prev 10.7%; prevR 11.2%)
-- 09/17 15:03 [FirstSquawk] Switzerland Swiss Watch Exports (Y/Y): 9.1% (prev 9.6%)
-- 09/17 15:03 [FirstSquawk] Switzerland Imports Real (M/M): -3.1% (prev -2.8%; prevR -1.5%)
-- 09/17 15:05 [financialjuice] Japan and the US are in talks on chip plant under investment plan - Nikkei
-- 09/17 15:05 [FirstSquawk] Japan and US are discussing chip factory construction under their $550 billion investment framework, Nikkei reports.
-- 09/17 15:05 [financialjuice] Japan and the US discussing chip factory construction as part of $550 bln investment talks - Nikkei
-- 09/17 15:07 [financialjuice] Scope of Japan chip factory construction investment in the US likely to amount to several trillion Yen - Nikkei
-- 09/17 15:08 [financialjuice] Japan Banking Lobby Head: JGB yields likely to rise further
-- 09/17 15:10 [FirstSquawk] France’s Europe Minister Haddad: No outside country has the power to block EU-Canada ties.
-- 09/17 15:10 [FirstSquawk] Haddad, on Trump’s comments: The US does not determine the EU’s geopolitical direction.
-- 09/17 15:22 [FirstSquawk] Etihad: New agreement aims to strengthen tourism promotion and trade between the UAE and Uzbekistan.
 - 09/17 15:26 [FirstSquawk] Zelenskiy: Russian forces targeted energy infrastructure in the Sumy and Odesa regions overnight.
 - 09/17 15:33 [FirstSquawk] US allies remain wary of how Trump might address Taiwan in his engagement with Xi.
 - 09/17 15:39 [FirstSquawk] Brent crude drops over $2 to $103.80 per barrel, trading around its lowest level in a week.
@@ -191,3 +179,14 @@
 - 09/17 20:46 [FirstSquawk] COREWEAVE SHARES TURN NEGATIVE, HIT SESSION LOW OF 1.4%
 - 09/17 20:56 [FirstSquawk] SINGAPORE'S ELECTRONICS EXPORTS INCREASED RAPIDLY IN AUGUST DUE TO CONTINUING ADVANCEMENTS IN AI.
 - 09/17 20:58 [FirstSquawk] UK 30-YEAR YIELD FALLS BY 10 BASIS POINTS TO 5.76%, THE BIGGEST DROP SINCE MAY.
+- 09/17 20:59 [FirstSquawk] SPOT GOLD EXTENDS GAINS, UP NEARLY 2% TO $4,346.40/OZ
+- 09/17 21:00 [financialjuice] Secured overnight financing rate 3.62% September 16th vs 3.64% September 15th
+- 09/17 21:00 [FirstSquawk] US CRUDE FUTURES EXTEND DROP TO FALL BACK BELOW $100/BBL
+- 09/17 21:00 [financialjuice] ❗ China has privately asked Iran to use its influence to help rein in Yemen's Houthis after Saudi appeal to Beijing, three Iranian - Sources.
+- 09/17 21:01 [FirstSquawk] SPOT SILVER RISES 3% TO $64.85/OZ
+- 09/17 21:06 [financialjuice] Morning Juice – US Session Prep (17th September)
+- 09/17 21:06 [FirstSquawk] SAUDI ARABIA REQUESTS OMAN TO MEDIATE WITH ANSAR ALLAH FOR A TWO-WEEK TRUCE DURING WHICH ALL HUMANITARIAN DEMANDS WILL BE DISCUSSED, ENDING WITH THE ANNOUNCEMENT OF AN AGREEMENT BY THE END OF THE WEEK
+- 09/17 21:08 [financialjuice] Pentagon and Lockheed agree to speed up new missile production.
+- 09/17 21:11 [FirstSquawk] S&P 500 INDEX FUTURES EXTEND GAIN TO 1%
+- 09/17 21:20 [FirstSquawk] LOCKHEED MARTIN REVEALS NEW SECRET MISSILE, FAST TRACKS PRODUCTION
+- 09/17 21:21 [FirstSquawk] BRENT CRUDE FUTURES FALL OVER 3% TO LOWEST LEVEL SINCE SEPTEMBER 10 AS MIDDLE EAST SUPPLY DISRUPTION FEARS EASE

@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 20:58 JST／対象: 09/17 08:58 〜 09/17 20:58 JST（時刻はすべて日本時間）
+生成: 2026-09-17 21:23 JST／対象: 09/17 09:23 〜 09/17 21:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/17 16:07 | 09/17 18:43 | ⚠ 156分（16:07→18:43） |
-| FirstSquawk | 201 | 09/17 09:04 | 09/17 20:58 | 29分（16:17→16:47） |
-| financialjuice | 138 | 09/17 09:04 | 09/17 20:29 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 196 | 09/17 09:23 | 09/17 21:21 | 29分（16:17→16:47） |
+| financialjuice | 140 | 09/17 09:24 | 09/17 21:08 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 339 行（統合前 341 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 336 行（統合前 338 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 09:04 [FirstSquawk] DOLLAR/YEN FALLS 0.21% TO 155.95 IN LATEST TRADE
-- 09/17 09:04 [financialjuice] Dollar/yen slides 0.21% to 155.95
-- 09/17 09:07 [FirstSquawk] TRUMP SAYS IRAN IS NOT READY FOR A DEAL, BUT WAR WITH IRAN WILL END “VERY SOON”
-- 09/17 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.2% TO 8,714 IN EARLY TRADE
-- 09/17 09:08 [financialjuice] Trump: we're very close to an agreement with Mexico
-- 09/17 09:08 [FirstSquawk] TRUMP SAYS US IS “VERY CLOSE” TO A DEAL WITH MEXICO
-- 09/17 09:08 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN $1 TO $101.36/BBL
-- 09/17 09:13 [FirstSquawk] Trump on Iran: Predicts the war will “end very soon” and says his administration has transformed the US from a “dark age” into a “golden age.”
-- 09/17 09:15 [FirstSquawk] Trump expected to meet Gulf leaders in New York next week as Washington weighs its next steps on Iran. The talks, expected on the sidelines of the UN General Assembly, are set to focus on US proposals for a postwar strategy and the broader …
-- 09/17 09:16 [FirstSquawk] European stocks look poised to open modestly higher, as futures for the Euro Stoxx 50, DAX and FTSE each trade about 0.2% higher.
-- 09/17 09:18 [FirstSquawk] 10-year JGB yield moves below 3%, down 0.5bp at 2.99%.
-- 09/17 09:19 [FirstSquawk] The renewed prospect of higher US interest rates is reshaping market positioning, as investors weigh potential beneficiaries of elevated yields and continued inflation pressure - Benzinga
-- 09/17 09:20 [FirstSquawk] Trump: Says Washington and Mexico are nearing a new agreement, calling it a “great deal.”
-- 09/17 09:21 [FirstSquawk] Apple's Cook: To Attend Trump Dinner For China's Xi Next Week
 - 09/17 09:23 [FirstSquawk] Axios reports the meeting may include a wider group of leaders from Arab and Islamic countries.
 - 09/17 09:24 [FirstSquawk] US Fed delivers its first rate hike since July 2023, lifting the federal funds target range by 25bp to 3.75%-4% amid ongoing inflation pressure.
 - 09/17 09:24 [financialjuice] China PBOC seen setting yuan midpoint at 6.7241 per dollar: estimate
@@ -363,3 +349,14 @@
 - 09/17 20:46 [FirstSquawk] COREWEAVE SHARES TURN NEGATIVE, HIT SESSION LOW OF 1.4%
 - 09/17 20:56 [FirstSquawk] SINGAPORE'S ELECTRONICS EXPORTS INCREASED RAPIDLY IN AUGUST DUE TO CONTINUING ADVANCEMENTS IN AI.
 - 09/17 20:58 [FirstSquawk] UK 30-YEAR YIELD FALLS BY 10 BASIS POINTS TO 5.76%, THE BIGGEST DROP SINCE MAY.
+- 09/17 20:59 [FirstSquawk] SPOT GOLD EXTENDS GAINS, UP NEARLY 2% TO $4,346.40/OZ
+- 09/17 21:00 [financialjuice] Secured overnight financing rate 3.62% September 16th vs 3.64% September 15th
+- 09/17 21:00 [FirstSquawk] US CRUDE FUTURES EXTEND DROP TO FALL BACK BELOW $100/BBL
+- 09/17 21:00 [financialjuice] ❗ China has privately asked Iran to use its influence to help rein in Yemen's Houthis after Saudi appeal to Beijing, three Iranian - Sources.
+- 09/17 21:01 [FirstSquawk] SPOT SILVER RISES 3% TO $64.85/OZ
+- 09/17 21:06 [financialjuice] Morning Juice – US Session Prep (17th September)
+- 09/17 21:06 [FirstSquawk] SAUDI ARABIA REQUESTS OMAN TO MEDIATE WITH ANSAR ALLAH FOR A TWO-WEEK TRUCE DURING WHICH ALL HUMANITARIAN DEMANDS WILL BE DISCUSSED, ENDING WITH THE ANNOUNCEMENT OF AN AGREEMENT BY THE END OF THE WEEK
+- 09/17 21:08 [financialjuice] Pentagon and Lockheed agree to speed up new missile production.
+- 09/17 21:11 [FirstSquawk] S&P 500 INDEX FUTURES EXTEND GAIN TO 1%
+- 09/17 21:20 [FirstSquawk] LOCKHEED MARTIN REVEALS NEW SECRET MISSILE, FAST TRACKS PRODUCTION
+- 09/17 21:21 [FirstSquawk] BRENT CRUDE FUTURES FALL OVER 3% TO LOWEST LEVEL SINCE SEPTEMBER 10 AS MIDDLE EAST SUPPLY DISRUPTION FEARS EASE

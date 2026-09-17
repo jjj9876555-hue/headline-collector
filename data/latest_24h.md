@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 20:58 JST／対象: 09/16 20:58 〜 09/17 20:58 JST（時刻はすべて日本時間）
+生成: 2026-09-17 21:23 JST／対象: 09/16 21:23 〜 09/17 21:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 47 | 09/16 21:33 | 09/17 18:43 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 408 | 09/16 21:03 | 09/17 20:58 | 32分（05:10→05:42） |
-| financialjuice | 334 | 09/16 21:00 | 09/17 20:29 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 409 | 09/16 21:24 | 09/17 21:21 | 32分（05:10→05:42） |
+| financialjuice | 332 | 09/16 21:25 | 09/17 21:08 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 774 行（統合前 794 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 773 行（統合前 793 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 21:00 [financialjuice] Secured overnight financing rate 3.64% September 15th vs 3.62% on September 14th
-- 09/16 21:03 [financialjuice] Coreweave brings up a multi-rack NVIDIA Vera Rubin NVL72 cluster $NVDA
-- 09/16 21:03 [FirstSquawk] JAPAN'S DEFENSE MINISTRY INTENDS TO PURCHASE 52,000 DRONES.
-- 09/16 21:03 [FirstSquawk] NOVO AND ANTHROPIC PARTNER TO DEVELOP MEDICATION USING CLAUDE AI TECHNOLOGY.
-- 09/16 21:04 [FirstSquawk] COREWEAVE LAUNCHES MULTI-RACK NVIDIA VERA RUBIN NVL72 CLUSTER.
-- 09/16 21:06 [FirstSquawk] SAUDIS SAY HAVE LEGITIMATE RIGHT TO DEFEND HOLY CITIES
-- 09/16 21:07 [FirstSquawk] SAUDIS CALL ON INTL COMMUNITY FOR FIRM STANCE AGAINST HOUTHIS
-- 09/16 21:07 [financialjuice] Traders no longer fully price in four quarter-point BoE rate hikes
-- 09/16 21:07 [financialjuice] Morning Juice – US Session Prep (16th September)
-- 09/16 21:07 [FirstSquawk] TRADERS NO LONGER FULLY PRICE FOUR QUARTER-POINT BANK OF ENGLAND RATE HIKES
-- 09/16 21:15 [financialjuice] CANADIAN HOUSE STARTS, ANNUALIZED ACTUAL 229.0K (FORECAST 240K, PREVIOUS 229.1K ,REVISION 229.4K) $MACRO
-- 09/16 21:16 [financialjuice] Canadian Housing Starts August Report
 - 09/16 21:24 [FirstSquawk] US WRIGHT: 18M BBL OF OIL WENT THROUGH HORMUZ YESTERDAY
 - 09/16 21:25 [financialjuice] US Energy Secretary Wright: We are looking at using DPA to increase refining capacity.
 - 09/16 21:26 [financialjuice] US Energy Secretary Wright: US oil company to talk Venezuela investment today.
@@ -798,3 +786,14 @@
 - 09/17 20:46 [FirstSquawk] COREWEAVE SHARES TURN NEGATIVE, HIT SESSION LOW OF 1.4%
 - 09/17 20:56 [FirstSquawk] SINGAPORE'S ELECTRONICS EXPORTS INCREASED RAPIDLY IN AUGUST DUE TO CONTINUING ADVANCEMENTS IN AI.
 - 09/17 20:58 [FirstSquawk] UK 30-YEAR YIELD FALLS BY 10 BASIS POINTS TO 5.76%, THE BIGGEST DROP SINCE MAY.
+- 09/17 20:59 [FirstSquawk] SPOT GOLD EXTENDS GAINS, UP NEARLY 2% TO $4,346.40/OZ
+- 09/17 21:00 [financialjuice] Secured overnight financing rate 3.62% September 16th vs 3.64% September 15th
+- 09/17 21:00 [FirstSquawk] US CRUDE FUTURES EXTEND DROP TO FALL BACK BELOW $100/BBL
+- 09/17 21:00 [financialjuice] ❗ China has privately asked Iran to use its influence to help rein in Yemen's Houthis after Saudi appeal to Beijing, three Iranian - Sources.
+- 09/17 21:01 [FirstSquawk] SPOT SILVER RISES 3% TO $64.85/OZ
+- 09/17 21:06 [financialjuice] Morning Juice – US Session Prep (17th September)
+- 09/17 21:06 [FirstSquawk] SAUDI ARABIA REQUESTS OMAN TO MEDIATE WITH ANSAR ALLAH FOR A TWO-WEEK TRUCE DURING WHICH ALL HUMANITARIAN DEMANDS WILL BE DISCUSSED, ENDING WITH THE ANNOUNCEMENT OF AN AGREEMENT BY THE END OF THE WEEK
+- 09/17 21:08 [financialjuice] Pentagon and Lockheed agree to speed up new missile production.
+- 09/17 21:11 [FirstSquawk] S&P 500 INDEX FUTURES EXTEND GAIN TO 1%
+- 09/17 21:20 [FirstSquawk] LOCKHEED MARTIN REVEALS NEW SECRET MISSILE, FAST TRACKS PRODUCTION
+- 09/17 21:21 [FirstSquawk] BRENT CRUDE FUTURES FALL OVER 3% TO LOWEST LEVEL SINCE SEPTEMBER 10 AS MIDDLE EAST SUPPLY DISRUPTION FEARS EASE
