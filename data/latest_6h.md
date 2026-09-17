@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 06:31 JST／対象: 09/18 00:31 〜 09/18 06:31 JST（時刻はすべて日本時間）
+生成: 2026-09-18 06:42 JST／対象: 09/18 00:42 〜 09/18 06:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/18 00:42 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 61 | 09/18 00:31 | 09/18 06:24 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 60 | 09/18 00:32 | 09/18 06:20 | 41分（05:13→05:55） |
+| DeItaone | 6 | 09/18 02:10 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
+| FirstSquawk | 60 | 09/18 00:43 | 09/18 06:39 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 57 | 09/18 00:50 | 09/18 06:20 | 41分（05:13→05:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 121 行（統合前 133 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 116 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 00:31 [FirstSquawk] LOCKHEED MARTIN CFO: Q3 MAY HAVE LOWER PROGRAM RISK RETIREMENTS THAN Q2, "MAY SEE SOME LUMPINESS AS WE GET TO OUR GUIDED MARGINS"
-- 09/18 00:31 [FirstSquawk] TURKEY DETAINS DESTEK CHAIRMAN, TERA CHAIRMAN GETS TRAVEL BAN
-- 09/18 00:32 [FirstSquawk] FRANCE'S CAC 40 UP 0.58%; SPAIN'S IBEX UP 1.13%
-- 09/18 00:32 [FirstSquawk] BRITAIN'S FTSE 100 UP 1.2%; GERMANY'S DAX UP 0.77%
-- 09/18 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.820% (FORECAST -, PREVIOUS 3.775%) $MACRO
-- 09/18 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 3.020 (FORECAST -, PREVIOUS 2.810) $MACRO
-- 09/18 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.820% Bid-to-cover 3.02 US sells $90 bln Awards 69.59% of bids at high
-- 09/18 00:42 [DeItaone] WALL STREET RETHINKS “ONE-AND-DONE” FED HIKE The Fed’s hawkish September meeting is pushing several banks to add another hike or reduce expected rate cuts, including Goldman Sachs, Morgan Stanley, NatWest, Rabobank, Swedbank and Commerzbank…
 - 09/18 00:43 [FirstSquawk] SPACEX PLANS TO ACQUIRE DATA FOR AI MODELS FROM FAILED STARTUPS.
 - 09/18 00:48 [FirstSquawk] LUFTHANSA EXPANDS BOEING 737 MAX FLEET
 - 09/18 00:50 [financialjuice] Three pumping stations along Saudi Arabia's east-west oil pipeline were damaged in an attack last week - Sources.
@@ -145,3 +137,6 @@
 - 09/18 06:22 [FirstSquawk] IRAN’S IRGC NAVY SAYS IT TARGETED TOGO-FLAGGED OIL TANKER AFTER ALLEGED “ILLEGAL” HORMUZ TRANSIT; TANKER CAUGHT FIRE — FARS
 - 09/18 06:23 [FirstSquawk] US ENERGY DEPARTMENT AUTHORIZES PJM TO DIRECT BACKUP GENERATION RESOURCES AMID HEAT-DRIVEN BLACKOUT RISKS, SECURING MID-ATLANTIC GRID SEPT. 17-18
 - 09/18 06:24 [FirstSquawk] DISNEY URGES US JUDGE TO BLOCK FCC EARLY LICENSE REVIEWS, CITING PRESIDENT TRUMP’S “ONGOING THREATS” — FILING
+- 09/18 06:35 [FirstSquawk] BRAZIL CENTRAL BANK TO OFFER UP TO $1 BILLION IN DOLLAR AUCTION WITH REPURCHASE AGREEMENT ON SEPTEMBER 18
+- 09/18 06:38 [FirstSquawk] F-16 FIGHTER JET CRASHES DURING ROUTINE TRAINING EXERCISE IN GRAND TRAVERSE COUNTY, MICHIGAN; PILOT EJECTS SAFELY AND REMAINS IN STABLE CONDITION, WITH NO OTHER INJURIES REPORTED. - CBS NEWS.
+- 09/18 06:39 [FirstSquawk] IRAN’S IRGC NAVY SAYS TOGO-FLAGGED TANKER TREND WAS HIT AND STOPPED AFTER CATCHING FIRE WHILE ATTEMPTING TO CROSS THE STRAIT OF HORMUZ, WARNING THAT UNAUTHORIZED VESSELS WILL FACE “DESTRUCTION.”
