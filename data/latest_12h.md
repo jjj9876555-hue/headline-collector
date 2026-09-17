@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 23:06 JST／対象: 09/17 11:06 〜 09/17 23:06 JST（時刻はすべて日本時間）
+生成: 2026-09-17 23:27 JST／対象: 09/17 11:27 〜 09/17 23:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/17 16:07 | 09/17 22:31 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 174 | 09/17 11:10 | 09/17 23:05 | 29分（16:17→16:47） |
-| financialjuice | 156 | 09/17 11:49 | 09/17 23:06 | 45分（18:03→18:48） |
+| FirstSquawk | 172 | 09/17 11:33 | 09/17 23:17 | 29分（16:17→16:47） |
+| financialjuice | 158 | 09/17 11:49 | 09/17 23:17 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 331 行（統合前 334 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 11:10 [FirstSquawk] Takaichi to unveil a reshuffled Cabinet, with major ministers expected to keep their positions.
-- 09/17 11:20 [FirstSquawk] Rising temperatures and melting glaciers likely contributed to the Nepal glacier collapse, scientists say.
-- 09/17 11:24 [FirstSquawk] Yen ticks higher as markets price a more hawkish BoJ stance, despite continued strength in the US dollar.
-- 09/17 11:25 [FirstSquawk] South Korean won drops to 1,384.40 per US dollar, marking its weakest level since August 27.
 - 09/17 11:33 [FirstSquawk] South Korea’s automobile exports fell 29.8% from a year earlier in August, with fewer working days and strikes disrupting production, data showed.
 - 09/17 11:37 [FirstSquawk] House report alleges ActBlue accepted illegal foreign political donations, citing findings from a congressional investigation.
 - 09/17 11:40 [FirstSquawk] BBC reports that multiple world leaders, including South Africa’s Cyril Ramaphosa, have reportedly fallen ill following the BRICS summit in India, while reports involving China’s Xi Jinping remain unconfirmed.
@@ -355,3 +351,7 @@
 - 09/17 23:05 [financialjuice] OpenAI Is Close To Solving Another Millennium Prize Math Problem - The Information
 - 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi: China-US relations overall moving along constructive, strategically stable track set by two leaders - Xinhua
 - 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi: Two sides should strengthen communication, advance cooperation, manage differences, respect each other's core interests.
+- 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi US Secretary of State Rubio exchanged views on Middle East situation in phone call - Xinhua
+- 09/17 23:14 [FirstSquawk] SPOT SILVER EXTENDED GAINS, LAST UP 5% AT $66.13/OZ
+- 09/17 23:17 [FirstSquawk] NOVO: CHMP RECOMMENDS EU APPROVAL OF FREHEMGO ® (DENECIMIG), THE FIRST FACTOR VIIIA MIMETIC OFFERING MONTHLY, ONCE EVERY TWO WEEKS AND WEEKLY DOSING IN A PRE-FILLED PEN, FOR THE TREATMENT OF HAEMOPHILIA A
+- 09/17 23:17 [financialjuice] Crypto Fear & Greed Index: 50/100 - Neutral

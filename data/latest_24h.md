@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 23:06 JST／対象: 09/16 23:06 〜 09/17 23:06 JST（時刻はすべて日本時間）
+生成: 2026-09-17 23:27 JST／対象: 09/16 23:27 〜 09/17 23:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 43 | 09/16 23:46 | 09/17 22:31 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 401 | 09/16 23:06 | 09/17 23:05 | 32分（05:10→05:42） |
-| financialjuice | 332 | 09/16 23:07 | 09/17 23:06 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 398 | 09/16 23:30 | 09/17 23:17 | 32分（05:10→05:42） |
+| financialjuice | 329 | 09/16 23:27 | 09/17 23:17 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 761 行（統合前 781 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 755 行（統合前 775 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 23:06 [FirstSquawk] US SAYS BRAZIL FAILED TO CONFRONT PCC AND CV GROUPS
-- 09/16 23:06 [FirstSquawk] COINBASE EYES $70T US STOCK MARKET WITH FULLY BACKED TOKENIZED EQUITIES PUSH $COIN
-- 09/16 23:07 [financialjuice] US issues amended Venezuela-related general license authorizing certain deals related to Petroleos de Venezuela, S.A. 2020 8.5% bond on or after November 5th - Treasury website
-- 09/16 23:12 [FirstSquawk] US TREASURY: RUSSIA-RELATED DESIGNATIONS REMOVALS; COUNTER NARCOTICS DESIGNATION REMOVAL; ISSUANCE OF AMENDED VENEZUELA GENERAL LICENSE - OFAC
-- 09/16 23:12 [FirstSquawk] VENEZUELA REPORTEDLY READIES ALUMINIUM SHIPMENT FOR THE US MARKET
-- 09/16 23:18 [financialjuice] Crypto Fear & Greed Index: 51/100 - Neutral
-- 09/16 23:18 [financialjuice] Fear & Greed Index: 30/100 - Fear
-- 09/16 23:19 [financialjuice] ECB's Pereira: One area I'm watching closely is natural gas prices, especially if we have a cold winter.
-- 09/16 23:24 [financialjuice] UK's PM Burnham's Brexit Britain smarts from EU-Canada love-in.
-- 09/16 23:26 [FirstSquawk] BURNHAM'S BREXIT BRITAIN FEELS PAIN FROM EU-CANADA RELATIONSHIP.
 - 09/16 23:27 [financialjuice] Pentagon's Michael on CNBC: AI firms not investing enough in safety.
 - 09/16 23:28 [financialjuice] ECB's Pereira: So far inflation not broadening in the economy as widely as in the past, but something we will be watching in coming months
 - 09/16 23:30 [FirstSquawk] US CRUDE OIL INVENTORIES ACTUAL: -640K VS -391K PREVIOUS; EST -1550K
@@ -785,3 +775,7 @@
 - 09/17 23:05 [financialjuice] OpenAI Is Close To Solving Another Millennium Prize Math Problem - The Information
 - 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi: China-US relations overall moving along constructive, strategically stable track set by two leaders - Xinhua
 - 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi: Two sides should strengthen communication, advance cooperation, manage differences, respect each other's core interests.
+- 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi US Secretary of State Rubio exchanged views on Middle East situation in phone call - Xinhua
+- 09/17 23:14 [FirstSquawk] SPOT SILVER EXTENDED GAINS, LAST UP 5% AT $66.13/OZ
+- 09/17 23:17 [FirstSquawk] NOVO: CHMP RECOMMENDS EU APPROVAL OF FREHEMGO ® (DENECIMIG), THE FIRST FACTOR VIIIA MIMETIC OFFERING MONTHLY, ONCE EVERY TWO WEEKS AND WEEKLY DOSING IN A PRE-FILLED PEN, FOR THE TREATMENT OF HAEMOPHILIA A
+- 09/17 23:17 [financialjuice] Crypto Fear & Greed Index: 50/100 - Neutral
