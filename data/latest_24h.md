@@ -7,31 +7,28 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 04:31 JST／対象: 09/17 04:31 〜 09/18 04:31 JST（時刻はすべて日本時間）
+生成: 2026-09-18 04:44 JST／対象: 09/17 04:44 〜 09/18 04:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/17 04:35 | 09/18 02:59 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 354 | 09/17 04:47 | 09/18 03:49 | 32分（05:10→05:42） |
-| financialjuice | 257 | 09/17 04:38 | 09/18 04:30 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 22 | 09/17 05:01 | 09/18 02:59 | ⚠ 483分（08:04→16:07） |
+| FirstSquawk | 356 | 09/17 04:47 | 09/18 04:41 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 255 | 09/17 04:50 | 09/18 04:33 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 624 行（統合前 642 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 623 行（統合前 640 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 04:35 [DeItaone] White House says Fed rate hike 'unfortunate'
-- 09/17 04:38 [financialjuice] ❗ Banks line up a $22b chip loan tied to Blackstone and Alphabet. $BLK $GOOGL
-- 09/17 04:38 [financialjuice] Banks line up a $22b chip loan tied to Blackstone and Alphabet. $BX $GOOGL
-- 09/17 04:41 [financialjuice/FirstSquawk] Trump Officials ARE considering an AI executive meeting on the sidelines of China’s President Xi visit next week - CNN.
 - 09/17 04:47 [FirstSquawk] SOUTHWEST AIRLINES CFO SAYS TRAVEL DEMAND REMAINS “VERY, VERY STRONG”, WITH SEPTEMBER DEMAND EXCEEDING EXPECTATIONS AND FURTHER ROOM FOR PRICING GAINS.
 - 09/17 04:50 [financialjuice/FirstSquawk] American diplomats met over the weekend with Houthi representatives at the U.S. embassy in Oman and discussed tensions in the Red Sea - Axios citing a regional source familiar with the issue confirmed.
 - 09/17 04:50 [FirstSquawk] BANKS LINE UP A $22B CHIP LOAN TIED TO BLACKSTONE AND ALPHABET.
 - 09/17 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -967.4 MLN NASDAQ 100: -174.5 MLN DOW 30: 33.1 MLN MAG 7: -68.5 MLN $MACRO
+- 09/17 04:51 [FirstSquawk] TRUMP OFFICIALS ARE CONSIDERING AN AI EXECUTIVE MEETING ON THE SIDELINES OF CHINA’S PRESIDENT XI VISIT NEXT WEEK - CNN.
 - 09/17 05:00 [financialjuice] US TIC LONG-TERM TRANSACTIONS ACTUAL -27.9B (FORECAST -, PREVIOUS 172.7B ,REVISION 174.4B) $MACRO
 - 09/17 05:01 [DeItaone] US TSY TICS NET FLOWS IN JUL +$83.7B US TSY TICS NET L-T FLOWS IN JUL -$27.9B
 - 09/17 05:02 [financialjuice] United Kingdom's US Treasury holdings 998 bln dlrs in July vs 940 bln in June.
@@ -647,4 +644,6 @@
 - 09/18 03:49 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.95% LOWER AT $104.82/BBL, DOWN $1.01
 - 09/18 03:49 [FirstSquawk] BARCLAYS NOW EXPECTS BOE TO HIKE RATES 25BP IN NOVEMBER & FEBRUARY 2027, CITING PERSISTENT INFLATION RISKS AND MIDDLE EAST CONFLICT
 - 09/18 04:24 [financialjuice] Friday FX Option Expiries
-- 09/18 04:30 [financialjuice] UKMTO has received a report of a security incident in the Strait of Hormuz 16NM northeast of Khasab, Oman.
+- 09/18 04:30 [financialjuice/FirstSquawk] UKMTO has received a report of a security incident in the Strait of Hormuz 16NM northeast of Khasab, Oman.
+- 09/18 04:33 [financialjuice] US money-market fund assets fall to $7.92 trillion at ICI.
+- 09/18 04:41 [FirstSquawk] US MONEY-MARKET FUND ASSETS FALL TO $7.92 TRILLION — ICI
