@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 11:05 JST／対象: 09/16 23:05 〜 09/17 11:05 JST（時刻はすべて日本時間）
+生成: 2026-09-17 11:25 JST／対象: 09/16 23:25 〜 09/17 11:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 39 | 09/16 23:46 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 227 | 09/16 23:06 | 09/17 11:02 | 32分（05:10→05:42） |
-| financialjuice | 176 | 09/16 23:07 | 09/17 10:31 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 227 | 09/16 23:26 | 09/17 11:25 | 32分（05:10→05:42） |
+| financialjuice | 171 | 09/16 23:27 | 09/17 10:31 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 430 行（統合前 447 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 425 行（統合前 442 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 23:06 [FirstSquawk] US SAYS BRAZIL FAILED TO CONFRONT PCC AND CV GROUPS
-- 09/16 23:06 [FirstSquawk] COINBASE EYES $70T US STOCK MARKET WITH FULLY BACKED TOKENIZED EQUITIES PUSH $COIN
-- 09/16 23:07 [financialjuice] US issues amended Venezuela-related general license authorizing certain deals related to Petroleos de Venezuela, S.A. 2020 8.5% bond on or after November 5th - Treasury website
-- 09/16 23:12 [FirstSquawk] US TREASURY: RUSSIA-RELATED DESIGNATIONS REMOVALS; COUNTER NARCOTICS DESIGNATION REMOVAL; ISSUANCE OF AMENDED VENEZUELA GENERAL LICENSE - OFAC
-- 09/16 23:12 [FirstSquawk] VENEZUELA REPORTEDLY READIES ALUMINIUM SHIPMENT FOR THE US MARKET
-- 09/16 23:18 [financialjuice] Crypto Fear & Greed Index: 51/100 - Neutral
-- 09/16 23:18 [financialjuice] Fear & Greed Index: 30/100 - Fear
-- 09/16 23:19 [financialjuice] ECB's Pereira: One area I'm watching closely is natural gas prices, especially if we have a cold winter.
-- 09/16 23:24 [financialjuice] UK's PM Burnham's Brexit Britain smarts from EU-Canada love-in.
 - 09/16 23:26 [FirstSquawk] BURNHAM'S BREXIT BRITAIN FEELS PAIN FROM EU-CANADA RELATIONSHIP.
 - 09/16 23:27 [financialjuice] Pentagon's Michael on CNBC: AI firms not investing enough in safety.
 - 09/16 23:28 [financialjuice] ECB's Pereira: So far inflation not broadening in the economy as widely as in the past, but something we will be watching in coming months
@@ -454,3 +445,7 @@
 - 09/17 10:47 [FirstSquawk] WSJ: Oil declines amid expectations that efforts to contain the Middle East supply disruption could ease pressure on crude markets.
 - 09/17 10:56 [FirstSquawk] WSJ: States are waiting for Covid vaccines for children, with the CDC yet to begin the ordering process, raising concerns over rollout delays.
 - 09/17 11:02 [FirstSquawk] China’s gold industry stocks slide 5%.
+- 09/17 11:10 [FirstSquawk] Takaichi to unveil a reshuffled Cabinet, with major ministers expected to keep their positions.
+- 09/17 11:20 [FirstSquawk] Rising temperatures and melting glaciers likely contributed to the Nepal glacier collapse, scientists say.
+- 09/17 11:24 [FirstSquawk] Yen ticks higher as markets price a more hawkish BoJ stance, despite continued strength in the US dollar.
+- 09/17 11:25 [FirstSquawk] South Korean won drops to 1,384.40 per US dollar, marking its weakest level since August 27.

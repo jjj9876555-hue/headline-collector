@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 11:05 JST／対象: 09/17 05:05 〜 09/17 11:05 JST（時刻はすべて日本時間）
+生成: 2026-09-17 11:25 JST／対象: 09/17 05:25 〜 09/17 11:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/17 05:50 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 118 | 09/17 05:10 | 09/17 11:02 | 32分（05:10→05:42） |
-| financialjuice | 39 | 09/17 05:05 | 09/17 10:31 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 119 | 09/17 05:42 | 09/17 11:25 | 25分（08:16→08:41） |
+| financialjuice | 38 | 09/17 05:30 | 09/17 10:31 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 164 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 05:05 [financialjuice] Stocks Sink to Lowest Since July as Fed Signals Further Tightening – US Market Wrap
-- 09/17 05:10 [FirstSquawk] WALL STREET STOCKS FELL AFTER THE FEDERAL RESERVE RAISED ITS BENCHMARK RATE BY 25 BASIS POINTS TO 3.75%–4%, MARKING ITS FIRST HIKE IN THREE YEARS. THE S&P 500 DROPPED 0.45%, WHILE THE DOW FELL 1.2%, AS TRADERS INCREASED BETS THAT THE FED CO…
-- 09/17 05:10 [FirstSquawk] FED CHAIR KEVIN WARSH EMPHASIZED THAT INFLATION REMAINS TOO HIGH, WITH MULTIPLE CATEGORIES OF GOODS AND SERVICES RECORDING PRICE INCREASES ABOVE 3% OVER SIX- AND 12-MONTH PERIODS. THE DOT PLOT POINTED TO ONE MORE HIKE THIS YEAR, WHILE STRON…
-- 09/17 05:10 [FirstSquawk] MARKETS REACTED WITH HIGHER SHORT-TERM TREASURY YIELDS AND A STRONGER DOLLAR. THE 2-YEAR TREASURY YIELD ROSE 7 BASIS POINTS TO 4.74%, WHILE THE DOLLAR INDEX GAINED 0.5%. OIL FELL 3.6% TO $102.05, GOLD SLIPPED 0.5% TO $4,269.95, WHILE BITCOI…
 - 09/17 05:30 [financialjuice/FirstSquawk] The White House seeks to remove Canadian items from US procurement.
 - 09/17 05:36 [financialjuice/FirstSquawk] US-Mexico trade talks have been pushed back one week - WSJ.
 - 09/17 05:40 [financialjuice] Trump: Interest rates in the US should be 1%, or less. Lower the interest rates, and fast - Truth Social
@@ -188,3 +184,7 @@
 - 09/17 10:47 [FirstSquawk] WSJ: Oil declines amid expectations that efforts to contain the Middle East supply disruption could ease pressure on crude markets.
 - 09/17 10:56 [FirstSquawk] WSJ: States are waiting for Covid vaccines for children, with the CDC yet to begin the ordering process, raising concerns over rollout delays.
 - 09/17 11:02 [FirstSquawk] China’s gold industry stocks slide 5%.
+- 09/17 11:10 [FirstSquawk] Takaichi to unveil a reshuffled Cabinet, with major ministers expected to keep their positions.
+- 09/17 11:20 [FirstSquawk] Rising temperatures and melting glaciers likely contributed to the Nepal glacier collapse, scientists say.
+- 09/17 11:24 [FirstSquawk] Yen ticks higher as markets price a more hawkish BoJ stance, despite continued strength in the US dollar.
+- 09/17 11:25 [FirstSquawk] South Korean won drops to 1,384.40 per US dollar, marking its weakest level since August 27.
