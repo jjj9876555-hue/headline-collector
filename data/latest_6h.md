@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 10:01 JST／対象: 09/17 04:01 〜 09/17 10:01 JST（時刻はすべて日本時間）
+生成: 2026-09-17 10:19 JST／対象: 09/17 04:19 〜 09/17 10:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/17 04:12 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 106 | 09/17 04:01 | 09/17 09:59 | 32分（05:10→05:42） |
-| financialjuice | 43 | 09/17 04:02 | 09/17 10:01 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 12 | 09/17 04:35 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
+| FirstSquawk | 115 | 09/17 04:23 | 09/17 10:19 | 32分（05:10→05:42） |
+| financialjuice | 44 | 09/17 04:22 | 09/17 10:19 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 155 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 167 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 04:01 [FirstSquawk] BOEING CEO WARNS SPEEA STRIKE WOULD SHUT DOWN 777X CERTIFICATION PROGRAM UNTIL ENGINEERS RETURN
-- 09/17 04:02 [financialjuice/FirstSquawk] ❗ Traders price in about a 50% chance of a Fed rate hike in October.
-- 09/17 04:08 [financialjuice/FirstSquawk] White House's Desai: The Fed rate hike is rather unfortunate - Fox News.
-- 09/17 04:08 [financialjuice/FirstSquawk] White House's Desai: Higher interest rates do not change oil prices.
-- 09/17 04:09 [financialjuice] White House's Desai: Trump still believes in Fed independence.
-- 09/17 04:12 [DeItaone] DOUBLELINE CEO GUNDLACH: I SEE VIRTUALLY NO CHANCE THAT THIS IS THE PEAK OF THE FED FUNDS RATE- CNBC
-- 09/17 04:14 [FirstSquawk] BOEING CEO SAYS 737 MAX 10 CERTIFICATION IS COMING “VERY SHORTLY”, BUT PRODUCTION IS TAKING LONGER THAN EXPECTED TO STABILIZE AT 47 JETS A MONTH, WITH WING PRODUCTION THE KEY SUPPLY-CHAIN CONSTRAINT.
-- 09/17 04:14 [FirstSquawk] BOEING SAYS 777X ENGINE DELAYS COULD PUSH SOME TESTING INTO 2027 WHILE STILL TARGETING 2027 DELIVERIES, AS SLOWER 737 AND 787 RATE RAMP-UPS REDUCE THE CHANCE OF REACHING THE UPPER END OF ITS 2026 FREE-CASH-FLOW FORECAST.
 - 09/17 04:22 [financialjuice] Thursday FX Option Expiries
 - 09/17 04:23 [FirstSquawk] US DOLLAR INDEX JUMPS 0.61% TO 100.28, ON TRACK FOR BIGGEST DAILY GAIN SINCE JUNE 17
 - 09/17 04:35 [DeItaone] White House says Fed rate hike 'unfortunate'
@@ -179,3 +171,23 @@
 - 09/17 09:59 [FirstSquawk] South Korea says it has yet to decide whether to deploy military forces to the Strait of Hormuz, the foreign minister says.
 - 09/17 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% matching previous session open
 - 09/17 10:01 [financialjuice] South Korea foreign minister: US investment pact announcement delayed to clarify procedural matters
+- 09/17 10:01 [financialjuice] South Korea foreign minister: US investment pact also on agenda in US-Korea foreign ministers meeting
+- 09/17 10:01 [FirstSquawk] Taiwan overnight interbank rate starts at 0.805%, flat versus the previous session’s opening level.
+- 09/17 10:02 [FirstSquawk] FT reports that the EU plans to bar children under 15 from accessing social media, selected gaming platforms and AI chatbots without parental oversight.
+- 09/17 10:02 [FirstSquawk] South Korea foreign minister: Announcement of the US investment deal is delayed as procedural issues are being clarified.
+- 09/17 10:02 [financialjuice] South Korea foreign minister: will uphold firm position on matters opposing national interest
+- 09/17 10:03 [FirstSquawk] South Korea says its US investment deal will also be addressed at the upcoming bilateral foreign ministers’ meeting.
+- 09/17 10:04 [FirstSquawk] South Korea foreign minister: Seoul will uphold its position on issues considered contrary to the national interest.
+- 09/17 10:08 [FirstSquawk] Gold prices climb 1% to $4,303.35/oz in spot trading.
+- 09/17 10:10 [financialjuice] Hong Kong Monetary Authority chief executive: widening interest rate gap with US could trigger carry trade, pushing HK dollar exchange rate toward weaker side of band
+- 09/17 10:10 [FirstSquawk] HKMA chief executive: A widening interest rate gap between Hong Kong and the US could spur carry trades, putting the HK dollar under pressure toward the weak end of its band.
+- 09/17 10:13 [financialjuice] Russian air strike wounds 10 in Ukraine's Kyiv, city authorities say
+- 09/17 10:14 [FirstSquawk] Goldman Sachs shifts its outlook, now expecting a Fed rate increase in October.
+- 09/17 10:15 [FirstSquawk] Goldman Sachs revises its outlook, forecasting another Fed rate increase in October.
+- 09/17 10:16 [FirstSquawk] Yuan midpoint set by PBOC at 6.7580 per dollar.
+- 09/17 10:16 [FirstSquawk] Taiwan dollar drops to 31.958 per US dollar, reaching its weakest level since August 20.
+- 09/17 10:18 [FirstSquawk] Trump’s proposed $2.8 billion weapons sale to Israel faces a block from a top House Democrat.
+- 09/17 10:18 [FirstSquawk] Malaysia’s ringgit drops to 4.098 per US dollar, marking its weakest level since June 26.
+- 09/17 10:19 [FirstSquawk] Gold rises slightly as markets evaluate the Fed’s next moves, WSJ reports.
+- 09/17 10:19 [FirstSquawk] Yuan midpoint set by China at its strongest level since February 3, 2023.
+- 09/17 10:19 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023, according to PBOC

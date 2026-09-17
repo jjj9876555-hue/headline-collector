@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 10:01 JST／対象: 09/16 10:01 〜 09/17 10:01 JST（時刻はすべて日本時間）
+生成: 2026-09-17 10:19 JST／対象: 09/16 10:19 〜 09/17 10:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 393 | 09/16 10:01 | 09/17 09:59 | 45分（17:00→17:45） |
-| financialjuice | 267 | 09/16 10:11 | 09/17 10:01 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 403 | 09/16 10:20 | 09/17 10:19 | 45分（17:00→17:45） |
+| financialjuice | 270 | 09/16 10:21 | 09/17 10:19 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 697 行（統合前 717 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 710 行（統合前 730 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 10:01 [FirstSquawk] Japan’s 10-year government bond yield edged lower, falling 1.0 basis point to 3.020%.
-- 09/16 10:09 [FirstSquawk] Hong Kong’s upcoming policy address is set to unveil new initiatives focused on youth housing and mediation - SCMP The measures are expected to highlight government efforts around housing support for younger residents, alongside initiatives…
-- 09/16 10:11 [financialjuice] Meta: Threads rolls out parental controls for teens in APAC - blog
-- 09/16 10:12 [FirstSquawk] Meta’s Threads is introducing parental supervision features for teenagers across Asia-Pacific. The rollout gives parents additional tools to oversee how teens use the platform, expanding Meta’s focus on safety and supervision features for y…
-- 09/16 10:16 [FirstSquawk] The PBOC has set the yuan’s daily midpoint at 6.7628 per U.S. dollar.
-- 09/16 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023
-- 09/16 10:18 [FirstSquawk] China has set the yuan’s daily midpoint at its strongest level since February 3, 2023. The stronger fixing puts the yuan at a key level against the U.S. dollar as markets continue to monitor China’s currency policy and broader dollar moveme…
 - 09/16 10:20 [FirstSquawk] Japan is offering ¥2.5 trillion in Treasury discount bills, adding to the latest government debt issuance. The auction will be closely watched by investors for demand and pricing as markets assess Japan’s short-term funding conditions and b…
 - 09/16 10:21 [financialjuice] China injects 110 bln yuan via 7-day reverse repos at 1.40%: statement
 - 09/16 10:21 [financialjuice] China central bank injects 600 billion yuan via overnight reverse repos: statement
@@ -721,3 +714,23 @@
 - 09/17 09:59 [FirstSquawk] South Korea says it has yet to decide whether to deploy military forces to the Strait of Hormuz, the foreign minister says.
 - 09/17 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% matching previous session open
 - 09/17 10:01 [financialjuice] South Korea foreign minister: US investment pact announcement delayed to clarify procedural matters
+- 09/17 10:01 [financialjuice] South Korea foreign minister: US investment pact also on agenda in US-Korea foreign ministers meeting
+- 09/17 10:01 [FirstSquawk] Taiwan overnight interbank rate starts at 0.805%, flat versus the previous session’s opening level.
+- 09/17 10:02 [FirstSquawk] FT reports that the EU plans to bar children under 15 from accessing social media, selected gaming platforms and AI chatbots without parental oversight.
+- 09/17 10:02 [FirstSquawk] South Korea foreign minister: Announcement of the US investment deal is delayed as procedural issues are being clarified.
+- 09/17 10:02 [financialjuice] South Korea foreign minister: will uphold firm position on matters opposing national interest
+- 09/17 10:03 [FirstSquawk] South Korea says its US investment deal will also be addressed at the upcoming bilateral foreign ministers’ meeting.
+- 09/17 10:04 [FirstSquawk] South Korea foreign minister: Seoul will uphold its position on issues considered contrary to the national interest.
+- 09/17 10:08 [FirstSquawk] Gold prices climb 1% to $4,303.35/oz in spot trading.
+- 09/17 10:10 [financialjuice] Hong Kong Monetary Authority chief executive: widening interest rate gap with US could trigger carry trade, pushing HK dollar exchange rate toward weaker side of band
+- 09/17 10:10 [FirstSquawk] HKMA chief executive: A widening interest rate gap between Hong Kong and the US could spur carry trades, putting the HK dollar under pressure toward the weak end of its band.
+- 09/17 10:13 [financialjuice] Russian air strike wounds 10 in Ukraine's Kyiv, city authorities say
+- 09/17 10:14 [FirstSquawk] Goldman Sachs shifts its outlook, now expecting a Fed rate increase in October.
+- 09/17 10:15 [FirstSquawk] Goldman Sachs revises its outlook, forecasting another Fed rate increase in October.
+- 09/17 10:16 [FirstSquawk] Yuan midpoint set by PBOC at 6.7580 per dollar.
+- 09/17 10:16 [FirstSquawk] Taiwan dollar drops to 31.958 per US dollar, reaching its weakest level since August 20.
+- 09/17 10:18 [FirstSquawk] Trump’s proposed $2.8 billion weapons sale to Israel faces a block from a top House Democrat.
+- 09/17 10:18 [FirstSquawk] Malaysia’s ringgit drops to 4.098 per US dollar, marking its weakest level since June 26.
+- 09/17 10:19 [FirstSquawk] Gold rises slightly as markets evaluate the Fed’s next moves, WSJ reports.
+- 09/17 10:19 [FirstSquawk] Yuan midpoint set by China at its strongest level since February 3, 2023.
+- 09/17 10:19 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023, according to PBOC

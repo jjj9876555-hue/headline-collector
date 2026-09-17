@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 10:01 JST／対象: 09/16 22:01 〜 09/17 10:01 JST（時刻はすべて日本時間）
+生成: 2026-09-17 10:19 JST／対象: 09/16 22:19 〜 09/17 10:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 09/16 22:01 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 219 | 09/16 22:04 | 09/17 09:59 | 32分（05:10→05:42） |
-| financialjuice | 179 | 09/16 22:03 | 09/17 10:01 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 41 | 09/16 22:20 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
+| FirstSquawk | 227 | 09/16 22:21 | 09/17 10:19 | 32分（05:10→05:42） |
+| financialjuice | 181 | 09/16 22:30 | 09/17 10:19 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 427 行（統合前 445 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 437 行（統合前 454 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 22:01 [DeItaone] IRANIAN ATTACK HITS U.S.-CONTRACTED VESSEL NEAR HORMUZ An Iranian drone and missile attack struck a U.S.-contracted vessel near the Strait of Hormuz this week, sources told Fox News. The reported strike comes amid persistent threats to comm…
-- 09/16 22:03 [financialjuice] Apple has been developing enterprise server - The Information. $AAPL
-- 09/16 22:04 [FirstSquawk/financialjuice] APPLE HAS TALKED WITH NVIDIA TO USE NETWORK TECH: INFORMATION
-- 09/16 22:05 [FirstSquawk] APPLE CONSIDERS RETURN TO SERVER MARKET, HAS TALKED WITH NVIDIA TO USE NETWORK TECH - INFORMATION
-- 09/16 22:06 [FirstSquawk] TURKISH STOCKS FALL 6%, TRIGGERING MARKET-WIDE CIRCUIT BREAKER
-- 09/16 22:08 [FirstSquawk] INFINEON TO SELL NOR FLASH, F-RAM OPS TO WINBOND FOR $1.12B
-- 09/16 22:09 [financialjuice] Nvidia: Emerald AI, Google & Nvidia launch alliance and are to advance flexible AI data centers $NVDA
-- 09/16 22:11 [FirstSquawk] APPLE IS WORKING ON AN ENTERPRISE SERVER USING ITS OWN CHIPS, SOURCES REVEAL.
-- 09/16 22:12 [FirstSquawk] EMERALD AI, GOOGLE AND NVIDIA LAUNCH ALLIANCE TO ADVANCE FLEXIBLE AI DATA CENTRES
-- 09/16 22:15 [FirstSquawk] AMAZON RAISES MINIMUM STARTING PAY FOR FULL-TIME CORE OPERATIONS EMPLOYEES TO $20/HOUR, WITH AVERAGE PAY REACHING NEARLY $24/HOUR, AND LAUNCHES GROCERY DISCOUNT AND ACCESS TO NEW LIFETIME BANKING BENEFITS TO MAKE EVERYDAY LIFE MORE AFFORDAB…
 - 09/16 22:20 [DeItaone] FED DECISION DAY: MARKETS BRACE FOR A HIKE The Federal Reserve delivers its September rate decision, with prediction markets putting an 88% probability on a 25bp hike. What Wall Street expects Bank of America: September hike, with Waller ex…
 - 09/16 22:21 [FirstSquawk] ED YARDENI SLASHES S&P 500 TARGET, SAYS ‘PROCEED WITH CAUTION’ IN STOCKS AS RATES RISE – CNBC
 - 09/16 22:30 [financialjuice] EU's Economy Commissioner Dombrovskis: Italy exit from EU deficit plan still possible.
@@ -451,3 +441,23 @@
 - 09/17 09:59 [FirstSquawk] South Korea says it has yet to decide whether to deploy military forces to the Strait of Hormuz, the foreign minister says.
 - 09/17 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% matching previous session open
 - 09/17 10:01 [financialjuice] South Korea foreign minister: US investment pact announcement delayed to clarify procedural matters
+- 09/17 10:01 [financialjuice] South Korea foreign minister: US investment pact also on agenda in US-Korea foreign ministers meeting
+- 09/17 10:01 [FirstSquawk] Taiwan overnight interbank rate starts at 0.805%, flat versus the previous session’s opening level.
+- 09/17 10:02 [FirstSquawk] FT reports that the EU plans to bar children under 15 from accessing social media, selected gaming platforms and AI chatbots without parental oversight.
+- 09/17 10:02 [FirstSquawk] South Korea foreign minister: Announcement of the US investment deal is delayed as procedural issues are being clarified.
+- 09/17 10:02 [financialjuice] South Korea foreign minister: will uphold firm position on matters opposing national interest
+- 09/17 10:03 [FirstSquawk] South Korea says its US investment deal will also be addressed at the upcoming bilateral foreign ministers’ meeting.
+- 09/17 10:04 [FirstSquawk] South Korea foreign minister: Seoul will uphold its position on issues considered contrary to the national interest.
+- 09/17 10:08 [FirstSquawk] Gold prices climb 1% to $4,303.35/oz in spot trading.
+- 09/17 10:10 [financialjuice] Hong Kong Monetary Authority chief executive: widening interest rate gap with US could trigger carry trade, pushing HK dollar exchange rate toward weaker side of band
+- 09/17 10:10 [FirstSquawk] HKMA chief executive: A widening interest rate gap between Hong Kong and the US could spur carry trades, putting the HK dollar under pressure toward the weak end of its band.
+- 09/17 10:13 [financialjuice] Russian air strike wounds 10 in Ukraine's Kyiv, city authorities say
+- 09/17 10:14 [FirstSquawk] Goldman Sachs shifts its outlook, now expecting a Fed rate increase in October.
+- 09/17 10:15 [FirstSquawk] Goldman Sachs revises its outlook, forecasting another Fed rate increase in October.
+- 09/17 10:16 [FirstSquawk] Yuan midpoint set by PBOC at 6.7580 per dollar.
+- 09/17 10:16 [FirstSquawk] Taiwan dollar drops to 31.958 per US dollar, reaching its weakest level since August 20.
+- 09/17 10:18 [FirstSquawk] Trump’s proposed $2.8 billion weapons sale to Israel faces a block from a top House Democrat.
+- 09/17 10:18 [FirstSquawk] Malaysia’s ringgit drops to 4.098 per US dollar, marking its weakest level since June 26.
+- 09/17 10:19 [FirstSquawk] Gold rises slightly as markets evaluate the Fed’s next moves, WSJ reports.
+- 09/17 10:19 [FirstSquawk] Yuan midpoint set by China at its strongest level since February 3, 2023.
+- 09/17 10:19 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023, according to PBOC
