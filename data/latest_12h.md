@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 14:18 JST／対象: 09/17 02:18 〜 09/17 14:18 JST（時刻はすべて日本時間）
+生成: 2026-09-17 14:33 JST／対象: 09/17 02:33 〜 09/17 14:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/17 02:22 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 259 | 09/17 02:22 | 09/17 14:10 | 32分（05:10→05:42） |
-| financialjuice | 171 | 09/17 02:22 | 09/17 14:08 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 29 | 09/17 03:00 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
+| FirstSquawk | 257 | 09/17 02:35 | 09/17 14:29 | 32分（05:10→05:42） |
+| financialjuice | 166 | 09/17 02:33 | 09/17 14:20 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 448 行（統合前 465 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 440 行（統合前 457 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 02:22 [financialjuice] Google, DeepMind launch institute to explore AGI - Axios. $GOOGL
-- 09/17 02:22 [FirstSquawk] GOOGLE, DEEPMIND LAUNCH INSTITUTE TO EXPLORE AGI - AXIOS.
-- 09/17 02:22 [FirstSquawk] ADIDAS SAYS ON INDIA TECH JOB CUTS THAT THE IMPACT OF THE CHANGES IS LESS THAN 20% OF ITS INDIA TECHNOLOGY ORGANIZATION
-- 09/17 02:22 [DeItaone] ATLANTA FED GDPNOW SURGES ABOVE 5% The Atlanta Fed’s GDPNow estimate for Q3 growth jumped to 5.1% from 4.42%, driven largely by stronger consumer spending after today’s retail sales data. Real consumption is now expected to contribute 2.83 …
-- 09/17 02:31 [FirstSquawk] AHEAD OF THE BANK OF CANADA'S SEPT. 2 RATE ANNOUNCEMENT, THE GOVERNING COUNCIL AGREED NEAR-TERM INFLATION WAS LIKELY TO REMAIN ELEVATED, CITING THE PERSISTENTLY HIGH PRICE OF GASOLINE AND SAYING THE IRAN CONFLICT HAD RAISED MARKET EXPECTATI…
-- 09/17 02:31 [FirstSquawk] MEMBERS AGREED TO REITERATE THAT THE MONETARY POLICY STANCE WOULD BE GUIDED BY THE BOC'S INFLATION FORECAST AND RISKS AROUND IT, FEELING THAT THE MAIN RISKS TO THE JULY ECONOMIC FORECASTS HAD BECOME MORE ACUTE AND THAT GENERAL TRADE UNCERTA…
-- 09/17 02:31 [financialjuice] BoC Meeting Minutes: Members cited persistently high price of gasoline, said Iran conflict had raised market expectations for oil prices.
-- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members saw a higher risk of inflation spreading to non-energy goods and services in Canada.
-- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members agreed to reiterate that monetary policy stance would be guided by BoC's inflation forecast and risks around it.
-- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members felt that the main risks to July economic forecasts had become more acute.
-- 09/17 02:32 [financialjuice] BoC Meeting Minutes: Members felt general trade uncertainty had made growth prospects more uncertain.
 - 09/17 02:33 [financialjuice] BoC Meeting Minutes
 - 09/17 02:35 [FirstSquawk] THE TEL AVIV STOCK EXCHANGE HAS PRESENTED A 2027-2031 STRATEGIC PLAN TO ACCELERATE REVENUE GROWTH, EXPAND INTERNATIONAL ACTIVITY AND CREATE LONG-TERM SHAREHOLDER VALUE, TARGETING A 15%-18% REVENUE CAGR.
 - 09/17 02:35 [FirstSquawk] THE TEL AVIV STOCK EXCHANGE SAYS IT WILL EVALUATE EXTENDED TRADING HOURS AND AN AFTER-MARKET SESSION, AND WILL PURSUE STRATEGIC INVESTMENTS AND PARTNERSHIPS FOR VALUE CREATION.
@@ -472,3 +461,6 @@
 - 09/17 14:03 [FirstSquawk] Volvo Car: Spending on its technology stack and manufacturing is set to fall from current levels.
 - 09/17 14:08 [financialjuice] Iranian foreign minister, Pakistan army chief discuss recent regional developments in phone call during Aragchi's Beijing visit on Wednesday: Iranian MI
 - 09/17 14:10 [FirstSquawk] RIA: Russia’s Defence Ministry says its forces targeted vessels used by the Ukrainian military.
+- 09/17 14:20 [financialjuice] Micron CEO: Micron to test and assemble hundreds of MLN chips in India next year
+- 09/17 14:20 [FirstSquawk] India’s market regulator is reviewing broker concerns regarding fees charged on UPI transactions.
+- 09/17 14:29 [FirstSquawk] Japanese Prime Minister Takaichi makes limited changes in her first Cabinet reshuffle.
