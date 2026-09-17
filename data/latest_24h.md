@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 05:49 JST／対象: 09/17 05:49 〜 09/18 05:49 JST（時刻はすべて日本時間）
+生成: 2026-09-18 05:59 JST／対象: 09/17 05:59 〜 09/18 05:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/17 05:50 | 09/18 02:59 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 348 | 09/17 05:56 | 09/18 05:40 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 249 | 09/17 05:57 | 09/18 05:13 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 17 | 09/17 07:41 | 09/18 02:59 | ⚠ 483分（08:04→16:07） |
+| FirstSquawk | 345 | 09/17 06:13 | 09/18 05:40 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 248 | 09/17 07:45 | 09/18 05:55 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 609 行（統合前 623 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 602 行（統合前 616 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 05:50 [DeItaone] TRUMP DEMANDS U.S. INTEREST RATES AT 1% OR LOWER President Trump is calling for U.S. interest rates to be cut to 1% or below, arguing America’s credit strength and booming investment justify dramatically cheaper borrowing. He also criticize…
-- 09/17 05:51 [DeItaone] *TRUMP: LOWER THE INTEREST RATES FOR THE US FAST
-- 09/17 05:51 [DeItaone] TRUMP: LOWER INTEREST RATES FOR UNITED STATES OF AMERICA, AND FAST
-- 09/17 05:56 [FirstSquawk] SYNERGY CHC CORP. RECEIVES NASDAQ DELISTING NOTICE OVER BANKRUPTCY AND COMPLIANCE ISSUES
-- 09/17 05:56 [FirstSquawk] SYNERGY CHC CORP.: NASDAQ WILL SUSPEND TRADING IN SYNERGY CHC CORP.’S COMMON STOCK ON SEPTEMBER 18, 2026, FOLLOWING THE DELISTING NOTICE ISSUED BY THE EXCHANGE.
-- 09/17 05:57 [financialjuice] Exxon is close to signing a preliminary deal to re-enter Venezuela - WSJ citing sources. $XOM
-- 09/17 05:57 [financialjuice] Exxon and PDVSA near an MOU on fields with 50b barrels - WSJ. $XOM
-- 09/17 05:59 [FirstSquawk] EXXON NEARS PRELIMINARY DEAL TO INVEST IN VENEZUELA OIL FIELDS; MOU WITH PDVSA COULD BE SIGNED THIS MONTH — WSJ
 - 09/17 06:13 [FirstSquawk] NORTH KOREA’S KIM YO JONG DENOUNCES IAEA MEETING ON DENUCLEARIZATION
 - 09/17 06:28 [FirstSquawk] UK PM BURNHAM WELCOMES CANADA AS FIRST OBSERVER NATION IN GLOBAL COMBAT AIR PROGRAMME (GCAP) THIS SUMMER — DOWNING STREET
 - 09/17 06:28 [FirstSquawk] DOWNING STREET: LEADERS DISCUSS AI OPPORTUNITIES AND RISKS, BACK GOVERNMENT-TECH COOPERATION TO ADDRESS SHARED CONCERNS AND PROTECT ONLINE SAFETY
@@ -633,3 +625,4 @@
 - 09/18 05:13 [financialjuice] Stocks and Bonds Rally as Falling Oil Eases Inflation Concerns – US Market Wrap
 - 09/18 05:16 [FirstSquawk] US STOCKS AND BONDS RALLIED AS FALLING OIL PRICES EASED INFLATION CONCERNS, HELPING MARKETS ABSORB THE FEDERAL RESERVE’S FIRST RATE HIKE SINCE 2023. THE S&P 500 GAINED 1.1%, ITS STRONGEST ADVANCE IN SIX WEEKS, WHILE THE NASDAQ 100 CLIMBED 1…
 - 09/18 05:40 [FirstSquawk] ANTHROPIC SAID ITS MEASUREMENTS WILL FOCUS ON HOW AI MODELS ARE BUILT AND DEVELOPED, WITH THE DATA SHARED TO HELP TRACK PROGRESS; CLAUDE ACCOUNTED FOR 26% OF AI R&D USE AS OF AUGUST 2026.
+- 09/18 05:55 [financialjuice] Qualcomm's CEO will attend Trump's state dinner with China’s President Xi. $QCOM
