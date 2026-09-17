@@ -7,48 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 09:49 JST／対象: 09/17 03:49 〜 09/17 09:49 JST（時刻はすべて日本時間）
+生成: 2026-09-17 10:01 JST／対象: 09/17 04:01 〜 09/17 10:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 13 | 09/17 04:12 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 119 | 09/17 03:49 | 09/17 09:48 | 32分（05:10→05:42） |
-| financialjuice | 49 | 09/17 03:49 | 09/17 09:42 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 106 | 09/17 04:01 | 09/17 09:59 | 32分（05:10→05:42） |
+| financialjuice | 43 | 09/17 04:02 | 09/17 10:01 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 174 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 155 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 03:49 [financialjuice] Brent CRUDe futures settle at $105.83/bbl, down $2.92, 2.69%.
-- 09/17 03:49 [FirstSquawk] BOEING CEO: NO CHANGE TO INITIAL 777X UNIT PLANS; CONTRACT TALKS UNDERWAY WITH CUSTOMERS
-- 09/17 03:49 [FirstSquawk] BRENT CRUDE SETTLES 2.69% LOWER AT $105.83/BBL, DOWN $2.92
-- 09/17 03:50 [financialjuice] Fed's Chair Warsh: In aggregate, we're more or less at full employment.
-- 09/17 03:51 [financialjuice] Fed's Chair Warsh: Other advanced economies are suffering from price pressures, too.
-- 09/17 03:51 [FirstSquawk] FED’S WARSH SAYS THE ECONOMY IS MORE OR LESS AT FULL EMPLOYMENT AND THE FED TOOK A STEP TOWARD RESTORING PRICE STABILITY, WHILE DECLINING TO COMMENT ON DISCUSSIONS WITH THE PRESIDENT.
-- 09/17 03:51 [financialjuice] Fed's Chair Warsh declines to comment on ECB and other central banks' policy.
-- 09/17 03:51 [FirstSquawk] FED'S WARSH SAYS STABLE PRICES CAN HELP WORKERS GAIN REAL TAKE-HOME PAY, ADDING THAT OTHER ADVANCED ECONOMIES ARE ALSO FACING PRICE PRESSURES.
-- 09/17 03:54 [financialjuice] Fed's Chair Warsh: I see 3 reasons bond yields have risen: the first is economic strength, the second is competition for capital, the surge in CAPEX is real, and the third is geopolitics.
-- 09/17 03:55 [FirstSquawk] FED’S WARSH SAYS THE ECONOMY HAS STRENGTHENED, BUT INFLATION REMAINS THE KEY PROBLEM.
-- 09/17 03:55 [FirstSquawk] FED'S WARSH SAYS PRICE STABILITY IS FOUNDATIONAL TO ECONOMIC GROWTH, ADDING THAT TODAY’S POLICY STEP MOVES THE FED TOWARD DELIVERING IT.
-- 09/17 03:55 [FirstSquawk] FED’S WARSH SAYS BOND YIELDS HAVE RISEN FOR THREE REASONS: ECONOMIC STRENGTH, COMPETITION FOR CAPITAL AND GEOPOLITICAL DEVELOPMENTS.
-- 09/17 03:55 [FirstSquawk] FED'S WARSH SAYS A SURGE IN CAPEX IS REAL, WHILE GLOBAL HOT SPOTS ARE ALSO DRIVING ECONOMIC AND FINANCIAL ACTIVITY.
-- 09/17 03:55 [FirstSquawk] SPACEXAI INTRODUCES GROK MEMORY FEATURE TO BOOST SESSION CONTINUITY
-- 09/17 03:57 [FirstSquawk] US STOCKS MIXED AS WARSH SPEAKS: S&P 500 -0.3%, NASDAQ +0.1%
-- 09/17 03:57 [financialjuice] Fed's Chair Warsh: We care very much about what's happening in AI.
-- 09/17 03:57 [FirstSquawk] BOEING CEO DOWNSIZES EXPECTATIONS FOR CHINA JET ORDER AT UPCOMING TRUMP-XI SUMMIT
-- 09/17 03:58 [financialjuice] Fed's Chair Warsh: The taskforce should report to us about AI by the year-end.
-- 09/17 03:59 [financialjuice] Fed's Chair Warsh: I don't believe we need to do harm to the job market to achieve our objective.
-- 09/17 03:59 [FirstSquawk] US 10-YEAR TREASURY YIELD RISES TO 5.002% AS WARSH SPEAKS, SIGNALING HIGHER RATE PRESSURE
-- 09/17 04:00 [financialjuice] Fed's Chair Warsh ends press conference.
-- 09/17 04:00 [FirstSquawk] FED’S WARSH SAYS TODAY’S ACTION SHOWS THE FED IS SERIOUS ABOUT PRICE STABILITY, ADDING THAT THE FED DOES NOT NEED TO HARM THE JOB MARKET TO ACHIEVE ITS OBJECTIVES.
-- 09/17 04:00 [FirstSquawk] FED'S WARSH SAYS THE FED’S ROLE IS TO ENSURE PRICE STABILITY SO DURABLE ECONOMIC GROWTH CAN CONTINUE, WHILE DECISIONS ON AI RISKS AND REWARDS BELONG TO OTHER POLICYMAKERS.
-- 09/17 04:00 [FirstSquawk] FED’S WARSH ENDS PRESS CONFERENCE — MARKETS NOW ASSESS RATE PATH & POLICY SIGNALS
-- 09/17 04:01 [FirstSquawk] US STOCKS EXTEND SELLOFF; DOW JONES FALLS 1.0%
 - 09/17 04:01 [FirstSquawk] BOEING CEO WARNS SPEEA STRIKE WOULD SHUT DOWN 777X CERTIFICATION PROGRAM UNTIL ENGINEERS RETURN
 - 09/17 04:02 [financialjuice/FirstSquawk] ❗ Traders price in about a 50% chance of a Fed rate hike in October.
 - 09/17 04:08 [financialjuice/FirstSquawk] White House's Desai: The Fed rate hike is rather unfortunate - Fox News.
@@ -198,3 +173,9 @@
 - 09/17 09:43 [FirstSquawk] Trump: “If we win, we are going to get you $5,000,” adding that it is “very simple.”
 - 09/17 09:48 [FirstSquawk] Saudi Arabia has asked France, Britain, Pakistan and Egypt for air-defense assistance as it faces sustained Houthi attacks and dwindling missile-interceptor stocks, AP reports.
 - 09/17 09:48 [FirstSquawk] AP: A sweeping Russia sanctions bill has cleared the House and is now awaiting President Trump’s signature to become law.
+- 09/17 09:51 [FirstSquawk] 5-year JGB yield ticks higher by 0.5bp to 2.285% in the latest trading.
+- 09/17 09:54 [FirstSquawk] China will promote cooperation on SMR technology, strengthen joint training of professionals and use multilateral platforms to broaden international collaboration, CAEA Director Shan Zhongde said.
+- 09/17 09:58 [financialjuice] South Korea foreign minister: military deployment to Hormuz Strait remains undecided
+- 09/17 09:59 [FirstSquawk] South Korea says it has yet to decide whether to deploy military forces to the Strait of Hormuz, the foreign minister says.
+- 09/17 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% matching previous session open
+- 09/17 10:01 [financialjuice] South Korea foreign minister: US investment pact announcement delayed to clarify procedural matters

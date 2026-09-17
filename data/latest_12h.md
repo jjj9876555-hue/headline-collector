@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 09:49 JST／対象: 09/16 21:49 〜 09/17 09:49 JST（時刻はすべて日本時間）
+生成: 2026-09-17 10:01 JST／対象: 09/16 22:01 〜 09/17 10:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 09/16 21:53 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 219 | 09/16 21:57 | 09/17 09:48 | 32分（05:10→05:42） |
-| financialjuice | 182 | 09/16 21:49 | 09/17 09:42 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 42 | 09/16 22:01 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
+| FirstSquawk | 219 | 09/16 22:04 | 09/17 09:59 | 32分（05:10→05:42） |
+| financialjuice | 179 | 09/16 22:03 | 09/17 10:01 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 432 行（統合前 450 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 427 行（統合前 445 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 21:49 [financialjuice] Iran, China foreign ministers discuss war, diplomatic solutions.
-- 09/16 21:51 [financialjuice] NYC council speaker asks Altman, Amodei to attend hearing - NYT.
-- 09/16 21:51 [financialjuice] NYC City Council plans public hearing on AI, October 5th - NYT
-- 09/16 21:53 [DeItaone] MARKETS MAY BE PRICING TOO MANY RATE HIKES Markets now expect four 25bp Fed hikes over the next year, taking rates to roughly 4.6%, as surging energy prices revive inflation fears. Traders also see the ECB reaching 3.25% and BoE 4.75%. Reut…
-- 09/16 21:57 [DeItaone] YARDENI SLASHES S&P 500 TARGET Wall Street bull Ed Yardeni cut his year-end S&P 500 target to 7,900 from 8,400, citing rising bond yields and increased downturn risks over the next 3–6 months. He lowered his expected forward P/E multiple to…
-- 09/16 21:57 [FirstSquawk] US STRATEGIC PETROLEUM RESERVE CRUDE OIL STOCKS DECLINE TO LOWEST LEVEL SINCE 1982.
-- 09/16 21:58 [financialjuice] US-contracted vessel hit in Iranian attack this week - Fox News
-- 09/16 21:58 [FirstSquawk] US-CONTRACTED VESSEL HIT IN IRANIAN ATTACK THIS WEEK
-- 09/16 22:00 [FirstSquawk] VESSEL STRUCK AROUND THE HORMUZ STRAIT: FOX
-- 09/16 22:00 [financialjuice] Effective Fed Funds Rate 3.63% September 15 vs 3.63% September 14.
-- 09/16 22:00 [financialjuice] While Iran is prepared to defend against aggressors, it welcomes diplomatic solutions, Iranian foreign minister tells Chinese counterpart - Iranian state media
 - 09/16 22:01 [DeItaone] IRANIAN ATTACK HITS U.S.-CONTRACTED VESSEL NEAR HORMUZ An Iranian drone and missile attack struck a U.S.-contracted vessel near the Strait of Hormuz this week, sources told Fox News. The reported strike comes amid persistent threats to comm…
 - 09/16 22:03 [financialjuice] Apple has been developing enterprise server - The Information. $AAPL
 - 09/16 22:04 [FirstSquawk/financialjuice] APPLE HAS TALKED WITH NVIDIA TO USE NETWORK TECH: INFORMATION
@@ -456,3 +445,9 @@
 - 09/17 09:43 [FirstSquawk] Trump: “If we win, we are going to get you $5,000,” adding that it is “very simple.”
 - 09/17 09:48 [FirstSquawk] Saudi Arabia has asked France, Britain, Pakistan and Egypt for air-defense assistance as it faces sustained Houthi attacks and dwindling missile-interceptor stocks, AP reports.
 - 09/17 09:48 [FirstSquawk] AP: A sweeping Russia sanctions bill has cleared the House and is now awaiting President Trump’s signature to become law.
+- 09/17 09:51 [FirstSquawk] 5-year JGB yield ticks higher by 0.5bp to 2.285% in the latest trading.
+- 09/17 09:54 [FirstSquawk] China will promote cooperation on SMR technology, strengthen joint training of professionals and use multilateral platforms to broaden international collaboration, CAEA Director Shan Zhongde said.
+- 09/17 09:58 [financialjuice] South Korea foreign minister: military deployment to Hormuz Strait remains undecided
+- 09/17 09:59 [FirstSquawk] South Korea says it has yet to decide whether to deploy military forces to the Strait of Hormuz, the foreign minister says.
+- 09/17 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% matching previous session open
+- 09/17 10:01 [financialjuice] South Korea foreign minister: US investment pact announcement delayed to clarify procedural matters

@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 09:49 JST／対象: 09/16 09:49 〜 09/17 09:49 JST（時刻はすべて日本時間）
+生成: 2026-09-17 10:01 JST／対象: 09/16 10:01 〜 09/17 10:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 396 | 09/16 09:49 | 09/17 09:48 | 45分（17:00→17:45） |
-| financialjuice | 270 | 09/16 09:49 | 09/17 09:42 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 393 | 09/16 10:01 | 09/17 09:59 | 45分（17:00→17:45） |
+| financialjuice | 267 | 09/16 10:11 | 09/17 10:01 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 703 行（統合前 723 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 697 行（統合前 717 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 09:49 [financialjuice] China defence minister: international community must respect sovereignty and wishes of involved parties
-- 09/16 09:49 [FirstSquawk] China’s defence minister says the international community should respect the sovereignty and will of the parties concerned, stressing the importance of allowing those directly involved to determine their own course.
-- 09/16 09:50 [financialjuice] China defence minister: Chinese military ready to cooperate with all sides to maintain regional stability
-- 09/16 09:50 [FirstSquawk] China’s defence minister says the Chinese military is ready to work with all parties to safeguard regional stability, signaling Beijing’s stated focus on cooperation in addressing security challenges. Cooperation for regional stability
-- 09/16 09:50 [financialjuice] China defense minister: greater collaboration means enhanced security
-- 09/16 09:52 [FirstSquawk] China’s defence minister says greater cooperation will make countries safer, emphasizing collaboration as a way to address shared security challenges.
-- 09/16 09:53 [FirstSquawk] China’s defence minister says the Chinese military will share its experience and provide appropriate assistance to other militaries in need.
-- 09/16 09:53 [financialjuice] China defence minister: Chinese military to share experience and offer support to other armed forces in need
-- 09/16 09:54 [FirstSquawk] China plans to expand international defence cooperation across joint military exercises, personnel training, equipment and technology, according to its defence minister.
-- 09/16 09:54 [financialjuice] China defence minister: we will broaden global cooperation on joint drills, personnel training, gear and technology
-- 09/16 09:55 [FirstSquawk] China’s defence minister called for joint action to address risks linked to the abusive military use of emerging technologies. The remarks highlight growing attention on how new technologies could be used in military applications and the ri…
-- 09/16 09:55 [financialjuice] China defence minister: all parties must cooperate to address risks of misuse of emerging military technology
 - 09/16 10:01 [FirstSquawk] Japan’s 10-year government bond yield edged lower, falling 1.0 basis point to 3.020%.
 - 09/16 10:09 [FirstSquawk] Hong Kong’s upcoming policy address is set to unveil new initiatives focused on youth housing and mediation - SCMP The measures are expected to highlight government efforts around housing support for younger residents, alongside initiatives…
 - 09/16 10:11 [financialjuice] Meta: Threads rolls out parental controls for teens in APAC - blog
@@ -727,3 +715,9 @@
 - 09/17 09:43 [FirstSquawk] Trump: “If we win, we are going to get you $5,000,” adding that it is “very simple.”
 - 09/17 09:48 [FirstSquawk] Saudi Arabia has asked France, Britain, Pakistan and Egypt for air-defense assistance as it faces sustained Houthi attacks and dwindling missile-interceptor stocks, AP reports.
 - 09/17 09:48 [FirstSquawk] AP: A sweeping Russia sanctions bill has cleared the House and is now awaiting President Trump’s signature to become law.
+- 09/17 09:51 [FirstSquawk] 5-year JGB yield ticks higher by 0.5bp to 2.285% in the latest trading.
+- 09/17 09:54 [FirstSquawk] China will promote cooperation on SMR technology, strengthen joint training of professionals and use multilateral platforms to broaden international collaboration, CAEA Director Shan Zhongde said.
+- 09/17 09:58 [financialjuice] South Korea foreign minister: military deployment to Hormuz Strait remains undecided
+- 09/17 09:59 [FirstSquawk] South Korea says it has yet to decide whether to deploy military forces to the Strait of Hormuz, the foreign minister says.
+- 09/17 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% matching previous session open
+- 09/17 10:01 [financialjuice] South Korea foreign minister: US investment pact announcement delayed to clarify procedural matters
