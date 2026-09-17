@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 12:18 JST／対象: 09/16 12:18 〜 09/17 12:18 JST（時刻はすべて日本時間）
+生成: 2026-09-17 12:34 JST／対象: 09/16 12:34 〜 09/17 12:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 409 | 09/16 12:26 | 09/17 12:17 | 45分（17:00→17:45） |
+| FirstSquawk | 409 | 09/16 12:38 | 09/17 12:32 | 45分（17:00→17:45） |
 | financialjuice | 275 | 09/16 14:36 | 09/17 12:10 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 12:26 [FirstSquawk] China has warned against militarism and historical revisionism at a regional security forum, according to Kyodo News. The remarks come amid ongoing discussions over regional security and historical issues, keeping China’s position on milita…
-- 09/16 12:26 [FirstSquawk] Australia’s Speaker of the House of Representatives will lead a delegation to China from September 18 to 22, Xinhua reports. The visit will bring Australian parliamentary representatives to China as bilateral ties and parliamentary engageme…
-- 09/16 12:30 [FirstSquawk] Japan’s 12-month Treasury discount bill auction recorded a lowest price of 98.4490 and an average price of 98.4620. Bids were accepted at the lowest price at a 4.5263% rate, providing a fresh read on demand and pricing in Japan’s short-term…
 - 09/16 12:38 [FirstSquawk] The RBI may raise its policy rate by 25 basis points each in October and December, with inflation potentially moving above 6%, according to the latest outlook. If realized, the two hikes would amount to 50 basis points of tightening, puttin…
 - 09/16 12:38 [FirstSquawk] Japan is tightening enforcement against bicycle traffic violations, but the country still trails many global peers in developing dedicated cycling infrastructure. The gap highlights a key challenge: stricter enforcement is being introduced …
 - 09/16 12:49 [FirstSquawk] Families of Chinese people subjected to wartime forced labor have filed lawsuits against six Japanese companies, Kyodo News reports. The legal action brings longstanding wartime labor issues back into focus and involves claims by relatives …
@@ -745,3 +742,6 @@
 - 09/17 12:10 [FirstSquawk] Kihara: Japan will continue close talks with the US Treasury to support orderly foreign exchange markets.
 - 09/17 12:15 [FirstSquawk] China’s US Treasury holdings decline to an 18-year low amid broad-based selling across global bond markets, according to SCMP.
 - 09/17 12:17 [FirstSquawk] JPMorgan lifts its target price for Sandvik AB to SEK 415 from SEK 400.
+- 09/17 12:20 [FirstSquawk] JPMorgan lowers its target price for TransDigm Group to $1,415 from $1,450.
+- 09/17 12:30 [FirstSquawk] Japan’s 3-month Treasury bill auction records a lowest price of 99.7045 and an average price of 99.7099, with 49.5183% of bids accepted at the lowest price.
+- 09/17 12:32 [FirstSquawk] China’s property reforms may weigh more heavily on the cement sector than steel, Fitch Ratings says.

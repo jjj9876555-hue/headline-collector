@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 12:18 JST／対象: 09/17 00:18 〜 09/17 12:18 JST（時刻はすべて日本時間）
+生成: 2026-09-17 12:34 JST／対象: 09/17 00:34 〜 09/17 12:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/17 00:38 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 227 | 09/17 00:20 | 09/17 12:17 | 32分（05:10→05:42） |
+| FirstSquawk | 228 | 09/17 00:43 | 09/17 12:32 | 32分（05:10→05:42） |
 | financialjuice | 155 | 09/17 00:47 | 09/17 12:10 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 408 行（統合前 425 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 409 行（統合前 426 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 00:20 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time
-- 09/17 00:24 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time - Conditions ‘Currently Normal’, Do Not Anticipate Further Shutdowns
 - 09/17 00:38 [DeItaone] JPMORGAN MAPS FED DAY: STOCKS COULD SWING 2% JPMorgan says Fed communication could determine whether stocks rally or sell off after today’s widely expected 25bp hike. A standard hike with limited guidance could lift the S&P 500 0.25%–0.75%,…
 - 09/17 00:43 [FirstSquawk] ANDY BURNHAM HAS BEEN FORCED TO SCALE BACK HOPES FOR A MAJOR EU RESET AFTER BRUSSELS SIGNALED GREATER INTEREST IN CLOSER TIES WITH CANADA.
 - 09/17 00:43 [DeItaone] STOCKS RISE AS YIELDS RETREAT AHEAD OF FED Global stocks moved higher ahead of today’s Fed rate decision, with markets pricing more than a 90% chance of a 25bp hike. The S&P 500 gained 0.26% and Nasdaq 0.60%, while the 10-year Treasury yiel…
@@ -432,3 +430,6 @@
 - 09/17 12:10 [FirstSquawk] Kihara: Japan will continue close talks with the US Treasury to support orderly foreign exchange markets.
 - 09/17 12:15 [FirstSquawk] China’s US Treasury holdings decline to an 18-year low amid broad-based selling across global bond markets, according to SCMP.
 - 09/17 12:17 [FirstSquawk] JPMorgan lifts its target price for Sandvik AB to SEK 415 from SEK 400.
+- 09/17 12:20 [FirstSquawk] JPMorgan lowers its target price for TransDigm Group to $1,415 from $1,450.
+- 09/17 12:30 [FirstSquawk] Japan’s 3-month Treasury bill auction records a lowest price of 99.7045 and an average price of 99.7099, with 49.5183% of bids accepted at the lowest price.
+- 09/17 12:32 [FirstSquawk] China’s property reforms may weigh more heavily on the cement sector than steel, Fitch Ratings says.

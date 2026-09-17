@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 12:18 JST／対象: 09/17 06:18 〜 09/17 12:18 JST（時刻はすべて日本時間）
+生成: 2026-09-17 12:34 JST／対象: 09/17 06:34 〜 09/17 12:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/17 07:41 | 09/17 08:04 | 16分（07:47→08:04） |
-| FirstSquawk | 122 | 09/17 06:28 | 09/17 12:17 | 25分（08:16→08:41） |
+| FirstSquawk | 122 | 09/17 06:36 | 09/17 12:32 | 25分（08:16→08:41） |
 | financialjuice | 35 | 09/17 07:45 | 09/17 12:10 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 06:28 [FirstSquawk] UK PM BURNHAM WELCOMES CANADA AS FIRST OBSERVER NATION IN GLOBAL COMBAT AIR PROGRAMME (GCAP) THIS SUMMER — DOWNING STREET
-- 09/17 06:28 [FirstSquawk] DOWNING STREET: LEADERS DISCUSS AI OPPORTUNITIES AND RISKS, BACK GOVERNMENT-TECH COOPERATION TO ADDRESS SHARED CONCERNS AND PROTECT ONLINE SAFETY
-- 09/17 06:29 [FirstSquawk] DOWNING STREET: LEADERS DISCUSS STRENGTHENING DEFENCE COOPERATION, INCLUDING MULTILATERAL DEFENCE MECHANISM AND DSRB
 - 09/17 06:36 [FirstSquawk] BRAZIL’S CENTRAL BANK CUT ITS BENCHMARK INTEREST RATE BY 25 BASIS POINTS TO 13.75%, WITH THE DECISION UNANIMOUS AND IN LINE WITH THE REUTERS POLL.
 - 09/17 06:36 [FirstSquawk] BRAZIL'S CENTRAL BANK SAID INFLATION RISKS REMAIN HIGHER THAN USUAL WITH AN UPWARD BIAS, WHILE IT CONTINUES TO MONITOR LONGER-TERM INFLATION EXPECTATIONS AND MAINTAIN APPROPRIATELY RESTRICTIVE MONETARY POLICY.
 - 09/17 06:36 [FirstSquawk] BRAZIL’S CENTRAL BANK SAYS ECONOMIC ACTIVITY IS SHOWING A GRADUAL MODERATION, PARTICULARLY IN CYCLICAL SECTORS, ALTHOUGH ACTIVITY REMAINS RESILIENT AND THE LABOR MARKET REMAINS TIGHT.
@@ -187,3 +184,6 @@
 - 09/17 12:10 [FirstSquawk] Kihara: Japan will continue close talks with the US Treasury to support orderly foreign exchange markets.
 - 09/17 12:15 [FirstSquawk] China’s US Treasury holdings decline to an 18-year low amid broad-based selling across global bond markets, according to SCMP.
 - 09/17 12:17 [FirstSquawk] JPMorgan lifts its target price for Sandvik AB to SEK 415 from SEK 400.
+- 09/17 12:20 [FirstSquawk] JPMorgan lowers its target price for TransDigm Group to $1,415 from $1,450.
+- 09/17 12:30 [FirstSquawk] Japan’s 3-month Treasury bill auction records a lowest price of 99.7045 and an average price of 99.7099, with 49.5183% of bids accepted at the lowest price.
+- 09/17 12:32 [FirstSquawk] China’s property reforms may weigh more heavily on the cement sector than steel, Fitch Ratings says.
