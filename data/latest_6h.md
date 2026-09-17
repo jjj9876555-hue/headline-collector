@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 16:59 JST／対象: 09/17 10:59 〜 09/17 16:59 JST（時刻はすべて日本時間）
+生成: 2026-09-17 17:20 JST／対象: 09/17 11:20 〜 09/17 17:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/17 16:07 | 09/17 16:07 | - |
-| FirstSquawk | 92 | 09/17 11:02 | 09/17 16:54 | 29分（16:17→16:47） |
-| financialjuice | 43 | 09/17 11:49 | 09/17 16:48 | 38分（14:20→14:58） |
+| FirstSquawk | 92 | 09/17 11:24 | 09/17 17:18 | 29分（16:17→16:47） |
+| financialjuice | 45 | 09/17 11:49 | 09/17 17:10 | 38分（14:20→14:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 138 行（統合前 138 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 11:02 [FirstSquawk] China’s gold industry stocks slide 5%.
-- 09/17 11:10 [FirstSquawk] Takaichi to unveil a reshuffled Cabinet, with major ministers expected to keep their positions.
-- 09/17 11:20 [FirstSquawk] Rising temperatures and melting glaciers likely contributed to the Nepal glacier collapse, scientists say.
 - 09/17 11:24 [FirstSquawk] Yen ticks higher as markets price a more hawkish BoJ stance, despite continued strength in the US dollar.
 - 09/17 11:25 [FirstSquawk] South Korean won drops to 1,384.40 per US dollar, marking its weakest level since August 27.
 - 09/17 11:33 [FirstSquawk] South Korea’s automobile exports fell 29.8% from a year earlier in August, with fewer working days and strikes disrupting production, data showed.
@@ -160,3 +157,8 @@
 - 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF SAYS NOTHING IS OFF THE TABLE FOR FUTURE MEETINGS.
 - 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF SAYS MARKETS RECOGNIZE OUR FOCUS ON 2% INFLATION TARGET.
 - 09/17 16:54 [FirstSquawk] MAKHLOUF SAYS ECB SHOULD STICK TO 2% MEDIUM-TERM GOAL.
+- 09/17 17:03 [FirstSquawk] INDIA’S US TREASURY PURCHASES HIT RECORD $15.2 BILLION AS RBI DOLLAR INFLOWS SURGE
+- 09/17 17:06 [financialjuice] Russian drone strike on Tanzania-flagged ship headed to Ukrainian port kills one, injures three crew: Ukraine's infrastructure ministry
+- 09/17 17:08 [FirstSquawk] RUSSIAN DRONE ATTACK ON A TANZANIA-FLAGGED VESSEL BOUND FOR UKRAINE LEFT ONE DEAD AND THREE INJURED, ACCORDING TO UKRAINE'S INFRASTRUCTURE MINISTRY.
+- 09/17 17:10 [financialjuice] Kazakhstan oil output estimated at 96 million tons in 2027, rising to 99-100 million tons in following years – IFX
+- 09/17 17:18 [FirstSquawk] TURKEY'S MARKET REGULATOR WILL CLOSE FUNDS RUN BY SEVEN FIRMS.

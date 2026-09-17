@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 16:59 JST／対象: 09/16 16:59 〜 09/17 16:59 JST（時刻はすべて日本時間）
+生成: 2026-09-17 17:20 JST／対象: 09/16 17:20 〜 09/17 17:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 52 | 09/16 19:06 | 09/17 16:07 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 386 | 09/16 16:59 | 09/17 16:54 | 45分（17:00→17:45） |
-| financialjuice | 288 | 09/16 17:00 | 09/17 16:48 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 387 | 09/16 17:45 | 09/17 17:18 | 32分（05:10→05:42） |
+| financialjuice | 288 | 09/16 17:21 | 09/17 17:10 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 712 行（統合前 731 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 713 行（統合前 732 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 16:59 [FirstSquawk] EU PRESIDENT VON DER LEYEN INTRODUCES A NEW TOOL FOR MILITARY STRATEGIC SUPPORT.
-- 09/16 17:00 [FirstSquawk] EU'S VON DER LEYEN PROMISES STRONGEST SUPPORT FOR UKRAINE DURING HARDEST WINTER OF THE WAR.
-- 09/16 17:00 [financialjuice] ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth.
-- 09/16 17:01 [financialjuice] ECB sees wage growth at 2.7% in 1q 2027, 2.8% in 2q 2027.
 - 09/16 17:21 [financialjuice] China's Wang Yi: We encourages Iran and US to exercise rationality.
 - 09/16 17:22 [financialjuice] China Foreign Minister, to Iran counterpart: Urge all parties to take effective measures to reopen Strait of Hormuz.
 - 09/16 17:32 [financialjuice] UK house prices rose by 1.4% in year to July (1.5% in year to June) - ONS.
@@ -736,3 +732,8 @@
 - 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF SAYS NOTHING IS OFF THE TABLE FOR FUTURE MEETINGS.
 - 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF SAYS MARKETS RECOGNIZE OUR FOCUS ON 2% INFLATION TARGET.
 - 09/17 16:54 [FirstSquawk] MAKHLOUF SAYS ECB SHOULD STICK TO 2% MEDIUM-TERM GOAL.
+- 09/17 17:03 [FirstSquawk] INDIA’S US TREASURY PURCHASES HIT RECORD $15.2 BILLION AS RBI DOLLAR INFLOWS SURGE
+- 09/17 17:06 [financialjuice] Russian drone strike on Tanzania-flagged ship headed to Ukrainian port kills one, injures three crew: Ukraine's infrastructure ministry
+- 09/17 17:08 [FirstSquawk] RUSSIAN DRONE ATTACK ON A TANZANIA-FLAGGED VESSEL BOUND FOR UKRAINE LEFT ONE DEAD AND THREE INJURED, ACCORDING TO UKRAINE'S INFRASTRUCTURE MINISTRY.
+- 09/17 17:10 [financialjuice] Kazakhstan oil output estimated at 96 million tons in 2027, rising to 99-100 million tons in following years – IFX
+- 09/17 17:18 [FirstSquawk] TURKEY'S MARKET REGULATOR WILL CLOSE FUNDS RUN BY SEVEN FIRMS.
