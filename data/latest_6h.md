@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 00:19 JST／対象: 09/17 18:19 〜 09/18 00:19 JST（時刻はすべて日本時間）
+生成: 2026-09-18 00:33 JST／対象: 09/17 18:33 〜 09/18 00:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/17 18:43 | 09/17 23:42 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 87 | 09/17 18:38 | 09/18 00:18 | 17分（20:29→20:46） |
-| financialjuice | 109 | 09/17 18:48 | 09/17 23:52 | 30分（20:29→21:00） |
+| FirstSquawk | 91 | 09/17 18:38 | 09/18 00:32 | 17分（20:29→20:46） |
+| financialjuice | 113 | 09/17 18:48 | 09/18 00:33 | 30分（20:29→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 197 行（統合前 200 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 204 行（統合前 208 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -220,4 +220,11 @@
 - 09/18 00:08 [FirstSquawk] STELLANTIS SAYS THERE IS NO LONG-TERM BUSINESS CASE FOR ITS BRAMPTON PLANT
 - 09/18 00:15 [FirstSquawk] WORKERS AT DIAGEO’S LARGEST DISTILLERY TO GO ON STRIKE AS DEMAND SLUMPS - FT
 - 09/18 00:16 [FirstSquawk] CENTCOM: AS OF SEPT. 17, CENTCOM FORCES HAVE REDIRECTED 104 COMMERCIAL VESSELS TO ENSURE STRICT COMPLIANCE.
-- 09/18 00:18 [FirstSquawk] JP MORGAN EXPECTS BOE TO HIKE INTEREST RATES BY 25 BP IN FEBRUARY 2027 VS PRIOR FORECAST OF TWO RATE CUTS IN 2027
+- 09/18 00:18 [FirstSquawk/financialjuice] JP MORGAN EXPECTS BOE TO HIKE INTEREST RATES BY 25 BP IN FEBRUARY 2027 VS PRIOR FORECAST OF TWO RATE CUTS IN 2027
+- 09/18 00:31 [FirstSquawk] LOCKHEED MARTIN CFO: Q3 MAY HAVE LOWER PROGRAM RISK RETIREMENTS THAN Q2, "MAY SEE SOME LUMPINESS AS WE GET TO OUR GUIDED MARGINS"
+- 09/18 00:31 [FirstSquawk] TURKEY DETAINS DESTEK CHAIRMAN, TERA CHAIRMAN GETS TRAVEL BAN
+- 09/18 00:32 [FirstSquawk] FRANCE'S CAC 40 UP 0.58%; SPAIN'S IBEX UP 1.13%
+- 09/18 00:32 [FirstSquawk] BRITAIN'S FTSE 100 UP 1.2%; GERMANY'S DAX UP 0.77%
+- 09/18 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.820% (FORECAST -, PREVIOUS 3.775%) $MACRO
+- 09/18 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 3.020 (FORECAST -, PREVIOUS 2.810) $MACRO
+- 09/18 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.820% Bid-to-cover 3.02 US sells $90 bln Awards 69.59% of bids at high

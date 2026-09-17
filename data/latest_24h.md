@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 00:19 JST／対象: 09/17 00:19 〜 09/18 00:19 JST（時刻はすべて日本時間）
+生成: 2026-09-18 00:33 JST／対象: 09/17 00:33 〜 09/18 00:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 43 | 09/17 00:38 | 09/17 23:42 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 398 | 09/17 00:20 | 09/18 00:18 | 32分（05:10→05:42） |
-| financialjuice | 316 | 09/17 00:47 | 09/17 23:52 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 400 | 09/17 00:43 | 09/18 00:32 | 32分（05:10→05:42） |
+| financialjuice | 320 | 09/17 00:47 | 09/18 00:33 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 742 行（統合前 762 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 747 行（統合前 768 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 00:20 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time
-- 09/17 00:24 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time - Conditions ‘Currently Normal’, Do Not Anticipate Further Shutdowns
 - 09/17 00:38 [DeItaone] JPMORGAN MAPS FED DAY: STOCKS COULD SWING 2% JPMorgan says Fed communication could determine whether stocks rally or sell off after today’s widely expected 25bp hike. A standard hike with limited guidance could lift the S&P 500 0.25%–0.75%,…
 - 09/17 00:43 [FirstSquawk] ANDY BURNHAM HAS BEEN FORCED TO SCALE BACK HOPES FOR A MAJOR EU RESET AFTER BRUSSELS SIGNALED GREATER INTEREST IN CLOSER TIES WITH CANADA.
 - 09/17 00:43 [DeItaone] STOCKS RISE AS YIELDS RETREAT AHEAD OF FED Global stocks moved higher ahead of today’s Fed rate decision, with markets pricing more than a 90% chance of a 25bp hike. The S&P 500 gained 0.26% and Nasdaq 0.60%, while the 10-year Treasury yiel…
@@ -765,4 +763,11 @@
 - 09/18 00:08 [FirstSquawk] STELLANTIS SAYS THERE IS NO LONG-TERM BUSINESS CASE FOR ITS BRAMPTON PLANT
 - 09/18 00:15 [FirstSquawk] WORKERS AT DIAGEO’S LARGEST DISTILLERY TO GO ON STRIKE AS DEMAND SLUMPS - FT
 - 09/18 00:16 [FirstSquawk] CENTCOM: AS OF SEPT. 17, CENTCOM FORCES HAVE REDIRECTED 104 COMMERCIAL VESSELS TO ENSURE STRICT COMPLIANCE.
-- 09/18 00:18 [FirstSquawk] JP MORGAN EXPECTS BOE TO HIKE INTEREST RATES BY 25 BP IN FEBRUARY 2027 VS PRIOR FORECAST OF TWO RATE CUTS IN 2027
+- 09/18 00:18 [FirstSquawk/financialjuice] JP MORGAN EXPECTS BOE TO HIKE INTEREST RATES BY 25 BP IN FEBRUARY 2027 VS PRIOR FORECAST OF TWO RATE CUTS IN 2027
+- 09/18 00:31 [FirstSquawk] LOCKHEED MARTIN CFO: Q3 MAY HAVE LOWER PROGRAM RISK RETIREMENTS THAN Q2, "MAY SEE SOME LUMPINESS AS WE GET TO OUR GUIDED MARGINS"
+- 09/18 00:31 [FirstSquawk] TURKEY DETAINS DESTEK CHAIRMAN, TERA CHAIRMAN GETS TRAVEL BAN
+- 09/18 00:32 [FirstSquawk] FRANCE'S CAC 40 UP 0.58%; SPAIN'S IBEX UP 1.13%
+- 09/18 00:32 [FirstSquawk] BRITAIN'S FTSE 100 UP 1.2%; GERMANY'S DAX UP 0.77%
+- 09/18 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.820% (FORECAST -, PREVIOUS 3.775%) $MACRO
+- 09/18 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 3.020 (FORECAST -, PREVIOUS 2.810) $MACRO
+- 09/18 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.820% Bid-to-cover 3.02 US sells $90 bln Awards 69.59% of bids at high
