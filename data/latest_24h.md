@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 16:26 JST／対象: 09/16 16:26 〜 09/17 16:26 JST（時刻はすべて日本時間）
+生成: 2026-09-17 16:45 JST／対象: 09/16 16:45 〜 09/17 16:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 52 | 09/16 19:06 | 09/17 16:07 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 400 | 09/16 16:31 | 09/17 16:17 | 45分（17:00→17:45） |
-| financialjuice | 292 | 09/16 16:40 | 09/17 16:26 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 387 | 09/16 16:49 | 09/17 16:17 | 45分（17:00→17:45） |
+| financialjuice | 290 | 09/16 16:53 | 09/17 16:35 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 730 行（統合前 749 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 715 行（統合前 734 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 16:31 [FirstSquawk] VON DER LEYEN ANNOUNCED THAT THE EU WILL PRESENT A PLAN FOR CLIMATE RESILIENCE IN OCTOBER.
-- 09/16 16:31 [FirstSquawk] VON DER LEYEN ANNOUNCED IDENTIFICATION OF THE 100 MOST CLIMATE-AT-RISK AREAS IN EUROPE AND PLANS TO MANAGE THEIR RISKS.
-- 09/16 16:33 [FirstSquawk] RIKSBANK REVEALS INITIAL CONCERNS BEFORE SUMMER, BUT CONDITIONS IMPROVED AFTERWARDS.
-- 09/16 16:33 [FirstSquawk] RIKSBANK SURVEY SHOWS COMPANIES HAVE A MORE OPTIMISTIC VIEW ON THE FUTURE.
-- 09/16 16:33 [FirstSquawk] RIKSBANK SURVEY SHOWS COMPANIES REPORT INCREASED DEMAND.
-- 09/16 16:34 [FirstSquawk] RIKSBANK REPORTS THAT COMPANIES FIND COST RISES DUE TO THE IRAN WAR TO BE MANAGEABLE.
-- 09/16 16:34 [FirstSquawk] VON DER LEYEN PLANS TO UNVEIL A WATER SCARCITY INITIATIVE.
-- 09/16 16:35 [FirstSquawk] RIKSBANK SURVEY SHOWS COMPANIES REPORT STRONGER HOUSEHOLD DEMAND NOW.
-- 09/16 16:39 [FirstSquawk] VON DER LEYEN SAYS AI MODELS COULD ENABLE UNTHINKABLE HACKING METHODS.
-- 09/16 16:39 [FirstSquawk] SEFE HAS NOT RECEIVED ANY COMMUNICATION FROM THE ECONOMY MINISTRY ABOUT FILLING GAS STORAGE FACILITIES, STATING THAT SECURITY OF SUPPLY IS A SHARED RESPONSIBILITY AMONG ALL ENERGY COMPANIES.
-- 09/16 16:39 [FirstSquawk] VON DER LEYEN URGES STRONGER AI COLLABORATION WITH CANADA AND THE UK.
-- 09/16 16:40 [financialjuice] EC Pres. von der Leyen: EU to step up efforts with like-minded partners like Canada, Britain, others on issues of AI.
-- 09/16 16:40 [financialjuice] EC Pres. von der Leyen: I will invite main frontier labs to discuss industry efforts to pace the frontier.
-- 09/16 16:41 [FirstSquawk] VON DER LEYEN PLANS TO INVITE AI FRONTIER LABS FOR DISCUSSIONS ON PACE SETTING.
-- 09/16 16:44 [FirstSquawk] EU WILL REVEAL NEW INITIATIVES IN NOVEMBER FOR INDUSTRIAL AI IN HEALTHCARE, TRANSPORTATION, AGRICULTURE, ADVANCED MANUFACTURING, DEFENSE, AND SPACE.
-- 09/16 16:44 [financialjuice] EU to announce initiatives in November for industrial AI in health, transport, agri-food, advanced manufacturing, defence and space.
 - 09/16 16:49 [FirstSquawk] VON DER LEYEN TARGETS €12B INVESTMENT FOR CONNECTIVITY CORRIDOR.
 - 09/16 16:49 [FirstSquawk] VON DER LEYEN ANNOUNCED A NEW CORRIDOR TO CONNECT THE EU WITH THE SOUTH CAUCASUS AND CENTRAL ASIA.
 - 09/16 16:53 [financialjuice] EC Pres. von der Leyen: We want to open the door for Canada to the first associate member of the EU.
@@ -754,3 +738,4 @@
 - 09/17 16:17 [FirstSquawk] HUAWEI HOLDS A LARGER SHARE OF CHINA'S AI CHIP MARKET THAN NVIDIA, SAYS XU.
 - 09/17 16:19 [financialjuice] Kazakhstan's oil output seen at 96 mln tons in 2028, 99 million tons in 2029 - IFX
 - 09/17 16:26 [financialjuice] Azerbaijan oil output falls 8.3% y/y to 2.2m tons in August - IFX
+- 09/17 16:35 [financialjuice] Huawei faces constraints in expanding production for AI chips.

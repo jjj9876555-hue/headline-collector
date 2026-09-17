@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 16:26 JST／対象: 09/17 10:26 〜 09/17 16:26 JST（時刻はすべて日本時間）
+生成: 2026-09-17 16:45 JST／対象: 09/17 10:45 〜 09/17 16:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/17 16:07 | 09/17 16:07 | - |
-| FirstSquawk | 91 | 09/17 10:29 | 09/17 16:17 | 19分（15:58→16:17） |
-| financialjuice | 40 | 09/17 10:31 | 09/17 16:26 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 86 | 09/17 10:47 | 09/17 16:17 | 19分（15:58→16:17） |
+| financialjuice | 40 | 09/17 11:49 | 09/17 16:35 | 38分（14:20→14:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 132 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 127 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 10:29 [FirstSquawk] CSI SSH Gold Equity Index is poised to open 1.5% lower in China.
-- 09/17 10:30 [FirstSquawk] Global rate hikes could constrain the dollar’s support from the Federal Reserve, WSJ reports.
-- 09/17 10:31 [financialjuice] Taiwan stocks advance more than 2%
-- 09/17 10:32 [FirstSquawk] Taiwan’s stock market gains more than 2%.
-- 09/17 10:33 [FirstSquawk] South Korean sales of Samsung’s Galaxy Z Fold 8 increased roughly 10% following Apple’s unveiling of its first foldable iPhone, the telecommunications industry said.
-- 09/17 10:39 [FirstSquawk] Shares of SoftBank Group gain 3%.
 - 09/17 10:47 [FirstSquawk] WSJ: Oil declines amid expectations that efforts to contain the Middle East supply disruption could ease pressure on crude markets.
 - 09/17 10:56 [FirstSquawk] WSJ: States are waiting for Covid vaccines for children, with the CDC yet to begin the ordering process, raising concerns over rollout delays.
 - 09/17 11:02 [FirstSquawk] China’s gold industry stocks slide 5%.
@@ -156,3 +150,4 @@
 - 09/17 16:17 [FirstSquawk] HUAWEI HOLDS A LARGER SHARE OF CHINA'S AI CHIP MARKET THAN NVIDIA, SAYS XU.
 - 09/17 16:19 [financialjuice] Kazakhstan's oil output seen at 96 mln tons in 2028, 99 million tons in 2029 - IFX
 - 09/17 16:26 [financialjuice] Azerbaijan oil output falls 8.3% y/y to 2.2m tons in August - IFX
+- 09/17 16:35 [financialjuice] Huawei faces constraints in expanding production for AI chips.

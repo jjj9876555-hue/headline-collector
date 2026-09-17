@@ -7,31 +7,28 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 16:26 JST／対象: 09/17 04:26 〜 09/17 16:26 JST（時刻はすべて日本時間）
+生成: 2026-09-17 16:45 JST／対象: 09/17 04:45 〜 09/17 16:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/17 04:35 | 09/17 16:07 | ⚠ 483分（08:04→16:07） |
+| DeItaone | 12 | 09/17 05:01 | 09/17 16:07 | ⚠ 483分（08:04→16:07） |
 | FirstSquawk | 208 | 09/17 04:47 | 09/17 16:17 | 32分（05:10→05:42） |
-| financialjuice | 87 | 09/17 04:38 | 09/17 16:26 | ⚠ 107分（05:57→07:45） |
+| financialjuice | 85 | 09/17 04:50 | 09/17 16:35 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 304 行（統合前 311 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 302 行（統合前 307 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 04:35 [DeItaone] White House says Fed rate hike 'unfortunate'
-- 09/17 04:38 [financialjuice] ❗ Banks line up a $22b chip loan tied to Blackstone and Alphabet. $BLK $GOOGL
-- 09/17 04:38 [financialjuice] Banks line up a $22b chip loan tied to Blackstone and Alphabet. $BX $GOOGL
-- 09/17 04:41 [financialjuice/FirstSquawk] Trump Officials ARE considering an AI executive meeting on the sidelines of China’s President Xi visit next week - CNN.
 - 09/17 04:47 [FirstSquawk] SOUTHWEST AIRLINES CFO SAYS TRAVEL DEMAND REMAINS “VERY, VERY STRONG”, WITH SEPTEMBER DEMAND EXCEEDING EXPECTATIONS AND FURTHER ROOM FOR PRICING GAINS.
 - 09/17 04:50 [financialjuice/FirstSquawk] American diplomats met over the weekend with Houthi representatives at the U.S. embassy in Oman and discussed tensions in the Red Sea - Axios citing a regional source familiar with the issue confirmed.
 - 09/17 04:50 [FirstSquawk] BANKS LINE UP A $22B CHIP LOAN TIED TO BLACKSTONE AND ALPHABET.
 - 09/17 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -967.4 MLN NASDAQ 100: -174.5 MLN DOW 30: 33.1 MLN MAG 7: -68.5 MLN $MACRO
+- 09/17 04:51 [FirstSquawk] TRUMP OFFICIALS ARE CONSIDERING AN AI EXECUTIVE MEETING ON THE SIDELINES OF CHINA’S PRESIDENT XI VISIT NEXT WEEK - CNN.
 - 09/17 05:00 [financialjuice] US TIC LONG-TERM TRANSACTIONS ACTUAL -27.9B (FORECAST -, PREVIOUS 172.7B ,REVISION 174.4B) $MACRO
 - 09/17 05:01 [DeItaone] US TSY TICS NET FLOWS IN JUL +$83.7B US TSY TICS NET L-T FLOWS IN JUL -$27.9B
 - 09/17 05:02 [financialjuice] United Kingdom's US Treasury holdings 998 bln dlrs in July vs 940 bln in June.
@@ -328,3 +325,4 @@
 - 09/17 16:17 [FirstSquawk] HUAWEI HOLDS A LARGER SHARE OF CHINA'S AI CHIP MARKET THAN NVIDIA, SAYS XU.
 - 09/17 16:19 [financialjuice] Kazakhstan's oil output seen at 96 mln tons in 2028, 99 million tons in 2029 - IFX
 - 09/17 16:26 [financialjuice] Azerbaijan oil output falls 8.3% y/y to 2.2m tons in August - IFX
+- 09/17 16:35 [financialjuice] Huawei faces constraints in expanding production for AI chips.
