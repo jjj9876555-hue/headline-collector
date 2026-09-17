@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 15:31 JST／対象: 09/16 15:31 〜 09/17 15:31 JST（時刻はすべて日本時間）
+生成: 2026-09-17 15:51 JST／対象: 09/16 15:51 〜 09/17 15:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 406 | 09/16 15:32 | 09/17 15:26 | 45分（17:00→17:45） |
-| financialjuice | 290 | 09/16 15:53 | 09/17 15:08 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 406 | 09/16 15:53 | 09/17 15:47 | 45分（17:00→17:45） |
+| financialjuice | 291 | 09/16 15:53 | 09/17 15:42 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 733 行（統合前 752 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 734 行（統合前 753 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 15:32 [FirstSquawk] Investors brace for ‘super-central-bank week’ as US rate increase seen as near certain Global investors are preparing for a busy week of central-bank decisions, with markets broadly expecting a U.S. rate increase, according to SCMP. Attenti…
-- 09/16 15:36 [FirstSquawk] China’s most-active Dalian soymeal futures rise 2.8% China’s most-active Dalian soymeal futures contract rose 2.8% in trading. The sharp gain highlights stronger movement in China’s agricultural commodities market, with soymeal prices attra…
-- 09/16 15:43 [FirstSquawk] Kepler Cheuvreux cuts AB Foods to Hold, lowers target price to 1,900p
 - 09/16 15:53 [FirstSquawk] Gold bulls appear hesitant to push prices above the $4,350 level, with traders remaining cautious ahead of the Federal Reserve’s upcoming rate decision. The Fed decision and guidance on the rate path remain key near-term catalysts for gold,…
 - 09/16 15:53 [financialjuice] The EU are to call for a European Security Council in new defense plan
 - 09/16 16:01 [financialjuice] Currency Strength Chart: Strongest: GBP, EUR, CHF, GBP, AUD, USD, EUR, CAD - Weakest
@@ -757,3 +754,7 @@
 - 09/17 15:10 [FirstSquawk] Haddad, on Trump’s comments: The US does not determine the EU’s geopolitical direction.
 - 09/17 15:22 [FirstSquawk] Etihad: New agreement aims to strengthen tourism promotion and trade between the UAE and Uzbekistan.
 - 09/17 15:26 [FirstSquawk] Zelenskiy: Russian forces targeted energy infrastructure in the Sumy and Odesa regions overnight.
+- 09/17 15:33 [FirstSquawk] US allies remain wary of how Trump might address Taiwan in his engagement with Xi.
+- 09/17 15:39 [FirstSquawk] Brent crude drops over $2 to $103.80 per barrel, trading around its lowest level in a week.
+- 09/17 15:42 [financialjuice] JBA's Kato: Rate still accommodative, expect more hikes
+- 09/17 15:47 [FirstSquawk] UOB: Sterling remains vulnerable to further weakness against the US dollar despite oversold conditions.

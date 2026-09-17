@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 15:31 JST／対象: 09/17 09:31 〜 09/17 15:31 JST（時刻はすべて日本時間）
+生成: 2026-09-17 15:51 JST／対象: 09/17 09:51 〜 09/17 15:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 116 | 09/17 09:32 | 09/17 15:26 | 14分（11:48→12:03） |
-| financialjuice | 49 | 09/17 09:40 | 09/17 15:08 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 107 | 09/17 09:51 | 09/17 15:47 | 14分（11:48→12:03） |
+| financialjuice | 47 | 09/17 09:58 | 09/17 15:42 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 165 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 154 行（統合前 154 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 09:32 [FirstSquawk] 20-year JGB yield drops 2bp to 3.835%, marking a modest decline in Japan’s long-term bond market.
-- 09/17 09:35 [FirstSquawk] Treasury yields move modestly lower: US 10-year yield falls to 4.99%, while the 30-year yield declines to 5.33%.
-- 09/17 09:38 [FirstSquawk] Trump says the US could face an unprecedented economic downturn if Democrats return to power, arguing they “don’t know what the hell they’re doing.”
-- 09/17 09:39 [FirstSquawk] Trump describes himself as a “high IQ person.”
-- 09/17 09:40 [FirstSquawk] Brent oil futures slide over $1, trading at $104.81 per barrel.
-- 09/17 09:40 [financialjuice] South Korea finance minister: will introduce market stabilizing measures if needed
-- 09/17 09:40 [FirstSquawk] South Korea’s finance minister signals readiness to intervene with market-stabilizing measures when required.
-- 09/17 09:41 [FirstSquawk] 40-year JGB yield slips 7bp to 4.095% in the latest trading.
-- 09/17 09:41 [financialjuice] South Korea Finance Minister: overseeing local bond market, volatility expected to persist
-- 09/17 09:42 [financialjuice] United States denies Palestinian President Mahmoud Abbas entry visa for UN General Assembly in New York next week - AFP
-- 09/17 09:42 [FirstSquawk] South Korea finance minister: Local bond-market volatility is expected to persist, while authorities remain on watch.
-- 09/17 09:42 [FirstSquawk] AFP reports that Washington has denied Palestinian President Mahmoud Abbas a visa to travel to New York for the UN General Assembly next week.
-- 09/17 09:43 [FirstSquawk] Trump: “If we win, we are going to get you $5,000,” adding that it is “very simple.”
-- 09/17 09:48 [FirstSquawk] Saudi Arabia has asked France, Britain, Pakistan and Egypt for air-defense assistance as it faces sustained Houthi attacks and dwindling missile-interceptor stocks, AP reports.
-- 09/17 09:48 [FirstSquawk] AP: A sweeping Russia sanctions bill has cleared the House and is now awaiting President Trump’s signature to become law.
 - 09/17 09:51 [FirstSquawk] 5-year JGB yield ticks higher by 0.5bp to 2.285% in the latest trading.
 - 09/17 09:54 [FirstSquawk] China will promote cooperation on SMR technology, strengthen joint training of professionals and use multilateral platforms to broaden international collaboration, CAEA Director Shan Zhongde said.
 - 09/17 09:58 [financialjuice] South Korea foreign minister: military deployment to Hormuz Strait remains undecided
@@ -189,3 +174,7 @@
 - 09/17 15:10 [FirstSquawk] Haddad, on Trump’s comments: The US does not determine the EU’s geopolitical direction.
 - 09/17 15:22 [FirstSquawk] Etihad: New agreement aims to strengthen tourism promotion and trade between the UAE and Uzbekistan.
 - 09/17 15:26 [FirstSquawk] Zelenskiy: Russian forces targeted energy infrastructure in the Sumy and Odesa regions overnight.
+- 09/17 15:33 [FirstSquawk] US allies remain wary of how Trump might address Taiwan in his engagement with Xi.
+- 09/17 15:39 [FirstSquawk] Brent crude drops over $2 to $103.80 per barrel, trading around its lowest level in a week.
+- 09/17 15:42 [financialjuice] JBA's Kato: Rate still accommodative, expect more hikes
+- 09/17 15:47 [FirstSquawk] UOB: Sterling remains vulnerable to further weakness against the US dollar despite oversold conditions.
