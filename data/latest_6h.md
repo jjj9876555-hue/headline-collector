@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 23:27 JST／対象: 09/17 17:27 〜 09/17 23:27 JST（時刻はすべて日本時間）
+生成: 2026-09-17 23:44 JST／対象: 09/17 17:44 〜 09/17 23:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/17 18:43 | 09/17 22:31 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 82 | 09/17 17:32 | 09/17 23:17 | 23分（17:32→17:56） |
-| financialjuice | 113 | 09/17 17:32 | 09/17 23:17 | 45分（18:03→18:48） |
+| DeItaone | 4 | 09/17 18:43 | 09/17 23:42 | ⚠ 194分（18:43→21:58） |
+| FirstSquawk | 83 | 09/17 17:56 | 09/17 23:31 | 19分（18:18→18:38） |
+| financialjuice | 114 | 09/17 17:58 | 09/17 23:31 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 195 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 198 行（統合前 201 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 17:32 [FirstSquawk] HUAWEI EXECUTIVE SAYS THE SOFTWARE DIVIDE WITH NVIDIA IS NARROWING.
-- 09/17 17:32 [financialjuice] UK Office for National Statistics: New approach of measuring productivity leads to relatively small changes in long-run growth in output per job and output per worker.
 - 09/17 17:56 [FirstSquawk] US-MEXICO TRADE DISCUSSIONS DELAYED BY ONE WEEK.
 - 09/17 17:58 [financialjuice] FRENCH 3 YR OAT YIELD ACTUAL 3.59% (FORECAST -, PREVIOUS 3.17%) $MACRO
 - 09/17 17:58 [financialjuice] FRENCH 3 YR OAT BID-TO-COVER ACTUAL 2.926 (FORECAST -, PREVIOUS 3.66) $MACRO
@@ -219,3 +217,8 @@
 - 09/17 23:14 [FirstSquawk] SPOT SILVER EXTENDED GAINS, LAST UP 5% AT $66.13/OZ
 - 09/17 23:17 [FirstSquawk] NOVO: CHMP RECOMMENDS EU APPROVAL OF FREHEMGO ® (DENECIMIG), THE FIRST FACTOR VIIIA MIMETIC OFFERING MONTHLY, ONCE EVERY TWO WEEKS AND WEEKLY DOSING IN A PRE-FILLED PEN, FOR THE TREATMENT OF HAEMOPHILIA A
 - 09/17 23:17 [financialjuice] Crypto Fear & Greed Index: 50/100 - Neutral
+- 09/17 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 44B (FORECAST 48B, PREVIOUS 40B) $MACRO
+- 09/17 23:31 [FirstSquawk] EIA SAYS US NATURAL-GAS STOCKPILES ROSE 44 BCF LAST WEEK
+- 09/17 23:31 [financialjuice] EIA Weekly Natural Gas Report
+- 09/17 23:31 [FirstSquawk] EIA: US NATURAL-GAS STOCKPILES ROSE 44 BCF LAST WEEK
+- 09/17 23:42 [DeItaone] CHINA, U.S. PREPARE FOR XI-TRUMP SUMMIT Chinese Foreign Minister Wang Yi held talks with Marco Rubio ahead of the Xi-Trump summit scheduled for September 24, calling for stronger communication, cooperation and management of differences. The…

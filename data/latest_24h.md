@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 23:27 JST／対象: 09/16 23:27 〜 09/17 23:27 JST（時刻はすべて日本時間）
+生成: 2026-09-17 23:44 JST／対象: 09/16 23:44 〜 09/17 23:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 09/16 23:46 | 09/17 22:31 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 398 | 09/16 23:30 | 09/17 23:17 | 32分（05:10→05:42） |
-| financialjuice | 329 | 09/16 23:27 | 09/17 23:17 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 44 | 09/16 23:46 | 09/17 23:42 | ⚠ 483分（08:04→16:07） |
+| FirstSquawk | 395 | 09/16 23:51 | 09/17 23:31 | 32分（05:10→05:42） |
+| financialjuice | 321 | 09/16 23:51 | 09/17 23:31 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 755 行（統合前 775 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 745 行（統合前 765 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 23:27 [financialjuice] Pentagon's Michael on CNBC: AI firms not investing enough in safety.
-- 09/16 23:28 [financialjuice] ECB's Pereira: So far inflation not broadening in the economy as widely as in the past, but something we will be watching in coming months
-- 09/16 23:30 [FirstSquawk] US CRUDE OIL INVENTORIES ACTUAL: -640K VS -391K PREVIOUS; EST -1550K
-- 09/16 23:30 [FirstSquawk] US CUSHING CRUDE OIL INVENTORIES ACTUAL: -342K VS -684K PREVIOUS
-- 09/16 23:30 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL 1.585M (FORECAST 0.65M, PREVIOUS 2.087M) $MACRO
-- 09/16 23:30 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL -0.64M (FORECAST -1.5M, PREVIOUS -0.391M) $MACRO
-- 09/16 23:30 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL 0.794M (FORECAST -1.1M, PREVIOUS 1.269M) $MACRO
-- 09/16 23:30 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL -0.342M (FORECAST -, PREVIOUS -0.684M) $MACRO
-- 09/16 23:30 [financialjuice] EIA Weekly Inventories Report
-- 09/16 23:31 [financialjuice] Pentagon's Michael: AI firms should be doing independent auditing
-- 09/16 23:32 [FirstSquawk] CELH INSIDER BUYING SURGES: DIRECTOR DAMON DESANTIS BUYS $1M OF SHARES $CELH
-- 09/16 23:35 [financialjuice] CNBC interview with Pentagon's Emil Michael ends
-- 09/16 23:38 [FirstSquawk] SANOFI OPENS C$925 MLN FLU VACCINE PLANT IN TORONTO, OUTPUT TO START EARLY NEXT YEAR
-- 09/16 23:39 [financialjuice] ECB's Pereira: A lot of risks have certainly risen in last few months.
-- 09/16 23:44 [FirstSquawk] ECB'S PEREIRA: CERTAINLY SEEN A LOT OF RISKS RISE IN LAST FEW MONTHS
 - 09/16 23:46 [DeItaone] FED DOT PLOT COULD SIGNAL ANOTHER 2026 HIKE The Fed’s updated Dot Plot is expected to show rates ending 2026 near 4.1%, implying another hike after today’s anticipated 25bp increase. The bigger question is 2027: projections may still signal…
 - 09/16 23:51 [FirstSquawk] AMERICAN AIRLINES FEELING 'REALLY GOOD' ABOUT GUIDANCE: CEO
 - 09/16 23:51 [financialjuice] Senator Thune: I'd like to see the CLARITY crypto bill revived
@@ -779,3 +764,8 @@
 - 09/17 23:14 [FirstSquawk] SPOT SILVER EXTENDED GAINS, LAST UP 5% AT $66.13/OZ
 - 09/17 23:17 [FirstSquawk] NOVO: CHMP RECOMMENDS EU APPROVAL OF FREHEMGO ® (DENECIMIG), THE FIRST FACTOR VIIIA MIMETIC OFFERING MONTHLY, ONCE EVERY TWO WEEKS AND WEEKLY DOSING IN A PRE-FILLED PEN, FOR THE TREATMENT OF HAEMOPHILIA A
 - 09/17 23:17 [financialjuice] Crypto Fear & Greed Index: 50/100 - Neutral
+- 09/17 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 44B (FORECAST 48B, PREVIOUS 40B) $MACRO
+- 09/17 23:31 [FirstSquawk] EIA SAYS US NATURAL-GAS STOCKPILES ROSE 44 BCF LAST WEEK
+- 09/17 23:31 [financialjuice] EIA Weekly Natural Gas Report
+- 09/17 23:31 [FirstSquawk] EIA: US NATURAL-GAS STOCKPILES ROSE 44 BCF LAST WEEK
+- 09/17 23:42 [DeItaone] CHINA, U.S. PREPARE FOR XI-TRUMP SUMMIT Chinese Foreign Minister Wang Yi held talks with Marco Rubio ahead of the Xi-Trump summit scheduled for September 24, calling for stronger communication, cooperation and management of differences. The…

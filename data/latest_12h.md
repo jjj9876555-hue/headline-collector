@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 23:27 JST／対象: 09/17 11:27 〜 09/17 23:27 JST（時刻はすべて日本時間）
+生成: 2026-09-17 23:44 JST／対象: 09/17 11:44 〜 09/17 23:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/17 16:07 | 09/17 22:31 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 172 | 09/17 11:33 | 09/17 23:17 | 29分（16:17→16:47） |
-| financialjuice | 158 | 09/17 11:49 | 09/17 23:17 | 45分（18:03→18:48） |
+| DeItaone | 5 | 09/17 16:07 | 09/17 23:42 | ⚠ 194分（18:43→21:58） |
+| FirstSquawk | 170 | 09/17 11:48 | 09/17 23:31 | 29分（16:17→16:47） |
+| financialjuice | 160 | 09/17 11:49 | 09/17 23:31 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 331 行（統合前 334 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 332 行（統合前 335 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 11:33 [FirstSquawk] South Korea’s automobile exports fell 29.8% from a year earlier in August, with fewer working days and strikes disrupting production, data showed.
-- 09/17 11:37 [FirstSquawk] House report alleges ActBlue accepted illegal foreign political donations, citing findings from a congressional investigation.
-- 09/17 11:40 [FirstSquawk] BBC reports that multiple world leaders, including South Africa’s Cyril Ramaphosa, have reportedly fallen ill following the BRICS summit in India, while reports involving China’s Xi Jinping remain unconfirmed.
-- 09/17 11:42 [FirstSquawk] Huawei rolls out new AI technology designed to strengthen computing capabilities and reduce reliance on Nvidia in China.
 - 09/17 11:48 [FirstSquawk] Hong Kong stocks fall as the Fed raises rates and points to more increases ahead, SCMP reports.
 - 09/17 11:49 [financialjuice] China’s chief trade negotiator Li Chenggang met with business delegation to discuss China-US economic, trade ties: statement
 - 09/17 12:03 [FirstSquawk] Malaysia’s Anwar Ibrahim expresses grave concern over a reported drone interception near Mecca, calling any threat to the city “wholly unacceptable.”
@@ -355,3 +351,8 @@
 - 09/17 23:14 [FirstSquawk] SPOT SILVER EXTENDED GAINS, LAST UP 5% AT $66.13/OZ
 - 09/17 23:17 [FirstSquawk] NOVO: CHMP RECOMMENDS EU APPROVAL OF FREHEMGO ® (DENECIMIG), THE FIRST FACTOR VIIIA MIMETIC OFFERING MONTHLY, ONCE EVERY TWO WEEKS AND WEEKLY DOSING IN A PRE-FILLED PEN, FOR THE TREATMENT OF HAEMOPHILIA A
 - 09/17 23:17 [financialjuice] Crypto Fear & Greed Index: 50/100 - Neutral
+- 09/17 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 44B (FORECAST 48B, PREVIOUS 40B) $MACRO
+- 09/17 23:31 [FirstSquawk] EIA SAYS US NATURAL-GAS STOCKPILES ROSE 44 BCF LAST WEEK
+- 09/17 23:31 [financialjuice] EIA Weekly Natural Gas Report
+- 09/17 23:31 [FirstSquawk] EIA: US NATURAL-GAS STOCKPILES ROSE 44 BCF LAST WEEK
+- 09/17 23:42 [DeItaone] CHINA, U.S. PREPARE FOR XI-TRUMP SUMMIT Chinese Foreign Minister Wang Yi held talks with Marco Rubio ahead of the Xi-Trump summit scheduled for September 24, calling for stronger communication, cooperation and management of differences. The…
