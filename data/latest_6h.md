@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 12:34 JST／対象: 09/17 06:34 〜 09/17 12:34 JST（時刻はすべて日本時間）
+生成: 2026-09-17 12:52 JST／対象: 09/17 06:52 〜 09/17 12:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/17 07:41 | 09/17 08:04 | 16分（07:47→08:04） |
-| FirstSquawk | 122 | 09/17 06:36 | 09/17 12:32 | 25分（08:16→08:41） |
-| financialjuice | 35 | 09/17 07:45 | 09/17 12:10 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 127 | 09/17 07:00 | 09/17 12:48 | 25分（08:16→08:41） |
+| financialjuice | 40 | 09/17 07:45 | 09/17 12:47 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 163 行（統合前 164 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 173 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 06:36 [FirstSquawk] BRAZIL’S CENTRAL BANK CUT ITS BENCHMARK INTEREST RATE BY 25 BASIS POINTS TO 13.75%, WITH THE DECISION UNANIMOUS AND IN LINE WITH THE REUTERS POLL.
-- 09/17 06:36 [FirstSquawk] BRAZIL'S CENTRAL BANK SAID INFLATION RISKS REMAIN HIGHER THAN USUAL WITH AN UPWARD BIAS, WHILE IT CONTINUES TO MONITOR LONGER-TERM INFLATION EXPECTATIONS AND MAINTAIN APPROPRIATELY RESTRICTIVE MONETARY POLICY.
-- 09/17 06:36 [FirstSquawk] BRAZIL’S CENTRAL BANK SAYS ECONOMIC ACTIVITY IS SHOWING A GRADUAL MODERATION, PARTICULARLY IN CYCLICAL SECTORS, ALTHOUGH ACTIVITY REMAINS RESILIENT AND THE LABOR MARKET REMAINS TIGHT.
-- 09/17 06:43 [FirstSquawk] GOOGLE AVOIDS BREAKUP OF AD-TECH BUSINESS; JUDGE ORDERS GOOGLE & DOJ TO PROPOSE FINAL JUDGMENT, REQUIRES INTERNAL COMPLIANCE OFFICER DUE TO “GRAVITY” OF ANTITRUST VIOLATIONS
 - 09/17 07:00 [FirstSquawk] CEA CHAIR PHELAN SAID HIGHER OIL PRICES HAVE STARTED “BLEEDING THROUGH” INTO THE BROADER ECONOMY, WHILE NOTING THAT INFLATION IS CURRENTLY ELEVATED BUT CONTINUES TO COME DOWN.
 - 09/17 07:00 [FirstSquawk] CEA CHAIR PHELAN SAID TRUMP’S PROPOSED $5,000 CHECKS WOULD NOT NECESSARILY BE INFLATIONARY, AND WARNED THAT THE “FRENZY” AROUND FEDERAL RESERVE DECISIONS CAN OVERSHADOW OTHER ECONOMIC DATA.
 - 09/17 07:03 [FirstSquawk] OPENAI LAUNCHES NEW FRAMEWORK TO TRACK & DISCLOSE MODEL MISALIGNMENT, PUBLISHES SIX REPORTS ON UNEXPECTED MODEL BEHAVIOR OVER PAST SIX MONTHS
@@ -187,3 +183,17 @@
 - 09/17 12:20 [FirstSquawk] JPMorgan lowers its target price for TransDigm Group to $1,415 from $1,450.
 - 09/17 12:30 [FirstSquawk] Japan’s 3-month Treasury bill auction records a lowest price of 99.7045 and an average price of 99.7099, with 49.5183% of bids accepted at the lowest price.
 - 09/17 12:32 [FirstSquawk] China’s property reforms may weigh more heavily on the cement sector than steel, Fitch Ratings says.
+- 09/17 12:38 [financialjuice] Japan finance minister Katayama: will review budget requests, manage debt issuance to maintain market trust
+- 09/17 12:38 [FirstSquawk] Katayama: Japan will scrutinize budget requests and control debt issuance to preserve market confidence.
+- 09/17 12:38 [FirstSquawk] AstraZeneca plans a nearly 200 million yuan investment to modernize its Wuxi manufacturing base in China.
+- 09/17 12:39 [financialjuice] Japan finance minister Katayama: we are committed to tackling extreme volatility with launch of Japan-U.S. joint intervention
+- 09/17 12:39 [FirstSquawk] Katayama: Japan and the US made clear their resolve to tackle excessive currency-market volatility when they initiated joint intervention.
+- 09/17 12:39 [FirstSquawk] AstraZeneca: Upgraded Wuxi production base in China is scheduled to be operational by Q4 2029.
+- 09/17 12:41 [FirstSquawk] 2-year Japanese government bond yield climbs 2 bps to 1.865%.
+- 09/17 12:41 [financialjuice] Japan finance minister Katayama: no remarks on BoJ policy
+- 09/17 12:42 [FirstSquawk] Japan’s Finance Minister Katayama: Will not comment on BOJ policy.
+- 09/17 12:42 [financialjuice] Japan finance minister Katayama: expect BOJ to closely align with government, apply suitable monetary policy to meet 2% inflation goal
+- 09/17 12:42 [FirstSquawk] Katayama: BOJ expected to coordinate closely with the government and take appropriate monetary policy steps toward its 2% price target.
+- 09/17 12:45 [FirstSquawk] 2-year Japanese government bond yield climbs 2 bps to 1.865%, reaching its highest since April 1995.
+- 09/17 12:47 [financialjuice] Ukraine drone strike damages oil refinery in Russia's Yaroslavl, governor says
+- 09/17 12:48 [FirstSquawk] Yaroslavl oil refinery in Russia damaged after a Ukrainian drone strike, according to the governor.

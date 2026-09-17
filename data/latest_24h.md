@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 12:34 JST／対象: 09/16 12:34 〜 09/17 12:34 JST（時刻はすべて日本時間）
+生成: 2026-09-17 12:52 JST／対象: 09/16 12:52 〜 09/17 12:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 409 | 09/16 12:38 | 09/17 12:32 | 45分（17:00→17:45） |
-| financialjuice | 275 | 09/16 14:36 | 09/17 12:10 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 414 | 09/16 12:55 | 09/17 12:48 | 45分（17:00→17:45） |
+| financialjuice | 280 | 09/16 14:36 | 09/17 12:47 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 721 行（統合前 741 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 731 行（統合前 751 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 12:38 [FirstSquawk] The RBI may raise its policy rate by 25 basis points each in October and December, with inflation potentially moving above 6%, according to the latest outlook. If realized, the two hikes would amount to 50 basis points of tightening, puttin…
-- 09/16 12:38 [FirstSquawk] Japan is tightening enforcement against bicycle traffic violations, but the country still trails many global peers in developing dedicated cycling infrastructure. The gap highlights a key challenge: stricter enforcement is being introduced …
-- 09/16 12:49 [FirstSquawk] Families of Chinese people subjected to wartime forced labor have filed lawsuits against six Japanese companies, Kyodo News reports. The legal action brings longstanding wartime labor issues back into focus and involves claims by relatives …
-- 09/16 12:51 [FirstSquawk] China is tightening border controls with national security increasingly linked to entry and exit rules, as its technology rivalry with the U.S. intensifies. The policy shift brings cross-border movement further into the national-security fr…
 - 09/16 12:55 [FirstSquawk] The average U.S. diesel price has surged to a record $6.30 per gallon, while gasoline has climbed to $4.36. Kalshi expects the average diesel price to reach $7.20 per gallon this year, underscoring the growing pressure on transportation and…
 - 09/16 13:00 [FirstSquawk] Hong Kong leader to accelerate public housing expansion Hong Kong’s leader plans to push forward the development of public housing units as part of efforts to address the city’s housing situation.
 - 09/16 13:00 [FirstSquawk] Hong Kong to deliver 196,000 public housing units within five years Hong Kong’s leader says 196,000 public housing units are expected to be ready over the next five years, as the government steps up efforts to expand housing supply.
@@ -745,3 +741,17 @@
 - 09/17 12:20 [FirstSquawk] JPMorgan lowers its target price for TransDigm Group to $1,415 from $1,450.
 - 09/17 12:30 [FirstSquawk] Japan’s 3-month Treasury bill auction records a lowest price of 99.7045 and an average price of 99.7099, with 49.5183% of bids accepted at the lowest price.
 - 09/17 12:32 [FirstSquawk] China’s property reforms may weigh more heavily on the cement sector than steel, Fitch Ratings says.
+- 09/17 12:38 [financialjuice] Japan finance minister Katayama: will review budget requests, manage debt issuance to maintain market trust
+- 09/17 12:38 [FirstSquawk] Katayama: Japan will scrutinize budget requests and control debt issuance to preserve market confidence.
+- 09/17 12:38 [FirstSquawk] AstraZeneca plans a nearly 200 million yuan investment to modernize its Wuxi manufacturing base in China.
+- 09/17 12:39 [financialjuice] Japan finance minister Katayama: we are committed to tackling extreme volatility with launch of Japan-U.S. joint intervention
+- 09/17 12:39 [FirstSquawk] Katayama: Japan and the US made clear their resolve to tackle excessive currency-market volatility when they initiated joint intervention.
+- 09/17 12:39 [FirstSquawk] AstraZeneca: Upgraded Wuxi production base in China is scheduled to be operational by Q4 2029.
+- 09/17 12:41 [FirstSquawk] 2-year Japanese government bond yield climbs 2 bps to 1.865%.
+- 09/17 12:41 [financialjuice] Japan finance minister Katayama: no remarks on BoJ policy
+- 09/17 12:42 [FirstSquawk] Japan’s Finance Minister Katayama: Will not comment on BOJ policy.
+- 09/17 12:42 [financialjuice] Japan finance minister Katayama: expect BOJ to closely align with government, apply suitable monetary policy to meet 2% inflation goal
+- 09/17 12:42 [FirstSquawk] Katayama: BOJ expected to coordinate closely with the government and take appropriate monetary policy steps toward its 2% price target.
+- 09/17 12:45 [FirstSquawk] 2-year Japanese government bond yield climbs 2 bps to 1.865%, reaching its highest since April 1995.
+- 09/17 12:47 [financialjuice] Ukraine drone strike damages oil refinery in Russia's Yaroslavl, governor says
+- 09/17 12:48 [FirstSquawk] Yaroslavl oil refinery in Russia damaged after a Ukrainian drone strike, according to the governor.
