@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 07:16 JST／対象: 09/18 01:16 〜 09/18 07:16 JST（時刻はすべて日本時間）
+生成: 2026-09-18 07:30 JST／対象: 09/18 01:30 〜 09/18 07:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/18 02:10 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 57 | 09/18 01:16 | 09/18 07:10 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 51 | 09/18 01:29 | 09/18 06:44 | 41分（05:13→05:55） |
+| FirstSquawk | 57 | 09/18 01:32 | 09/18 07:23 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 49 | 09/18 01:30 | 09/18 06:44 | 41分（05:13→05:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 105 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 01:16 [FirstSquawk] FEDERAL AVIATION ADMINISTRATION APPROVES BOEING REQUEST TO SELL UP TO 35 ADDITIONAL 777F FREIGHTERS -- AGENCY
-- 09/18 01:29 [financialjuice] French PM Lecornu: Targeting 2027 deficit at 5% of GDP
-- 09/18 01:29 [FirstSquawk] RUSSIA CLAIMS TO HAVE STRUCK SHIP AT UKRAINE'S CHORNOMORSK PORT - IFX
-- 09/18 01:29 [financialjuice] French PM Lecornu aims to keep 2026 deficit below 5.5% GDP
 - 09/18 01:30 [financialjuice] French PM Lecornu: Aim to trim one-off tax on big firms to €5 billion
 - 09/18 01:31 [financialjuice] Oil refinery in Russia's Yaroslavl region halts crude processing after a drone attack - sources.
 - 09/18 01:32 [FirstSquawk] STRAIT OF HORMUZ THREAT LEVEL REMAINS SEVERE – UKMTO
@@ -131,3 +127,5 @@
 - 09/18 06:44 [financialjuice] President Trump outlines plans for first meeting with Venezuela's interim chief Delcy Rodriguez as early as next week - Axios
 - 09/18 06:44 [FirstSquawk] TRUMP PLANS FIRST-EVER MEETING WITH VENEZUELA’S INTERIM PRESIDENT DELCY RODRIGUEZ AS EARLY AS NEXT WEEK — AXIOS
 - 09/18 07:10 [FirstSquawk] PENTAGON REVIEWS POTENTIAL CUT OF UP TO 40,000 U.S. TROOPS IN EUROPE, WITH GERMANY, ITALY AND SPAIN AMONG THOSE THAT COULD BE AFFECTED; NO FINAL DECISION HAS BEEN MADE, WITH RECOMMENDATIONS EXPECTED IN NOVEMBER. - NBC NEWS.
+- 09/18 07:20 [FirstSquawk] ZENITH MINERALS’ TAKEOVER OFFER REMAINS OPEN FOR ACCEPTANCES, WITH THE TAKEOVERS PANEL ISSUING ORDERS REGARDING MATTERS INVOLVING FORRESTANIA RESOURCES. || THE ORDERS DO NOT PREVENT FORRESTANIA RESOURCES FROM PROCEEDING WITH ITS TAKEOVER OF…
+- 09/18 07:23 [FirstSquawk] JPMORGAN, CIBC WIN MANDATE TO ADVISE CARNEY GOVERNMENT ON SALE OF CANADA AIRPORT CONCESSIONS
