@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 08:31 JST／対象: 09/18 02:31 〜 09/18 08:31 JST（時刻はすべて日本時間）
+生成: 2026-09-18 08:41 JST／対象: 09/18 02:41 〜 09/18 08:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 02:53 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 52 | 09/18 02:31 | 09/18 08:26 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 40 | 09/18 02:34 | 09/18 08:30 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 45 | 09/18 02:43 | 09/18 08:31 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 47 | 09/18 03:04 | 09/18 08:38 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 91 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,16 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 02:31 [FirstSquawk] TRUMP SAYS 'GREAT NEWS' THAT, THANKS TO THE 'BOLD LEADERSHIP' OF HIS FRIEND KAROL NAWROCKI, PRESIDENT OF POLAND, 'MAJOR PROGRESS IS BEING MADE TOWARD ESTABLISHING A U.S. ARMY BASE IN POLAND', ADDING THAT IF IT HAPPENS THE LOCATION WILL BE A…
-- 09/18 02:31 [FirstSquawk] FAA SEES $100M TARIFF IMPACT ON AIR TRAFFIC CONTROL MODERNIZATION COSTS — ADMINISTRATOR BEDFORD
-- 09/18 02:32 [FirstSquawk] PFIZER & BIONTECH’S UPDATED OMICRON XFG COVID-19 VACCINE AUTHORIZED BY HEALTH CANADA; DISTRIBUTION TO BEGIN IN COMING DAYS AND WEEKS
-- 09/18 02:33 [FirstSquawk] US IMPOSES SANCTIONS ON BITBANK CRYPTOCURRENCY EXCHANGE, ACCUSING IT OF ENABLING IRANIAN GOVERNMENT - STATEMENT
-- 09/18 02:34 [FirstSquawk] IRAQI PRIME MINISTER TO VISIT US AND MEET WITH TRUMP NEXT WEEK - MEHR NEWS
-- 09/18 02:34 [FirstSquawk] IRAQI PRIME MINISTER AND TRUMP TO DISCUSS BILATERAL RELATIONS AND REGIONAL DEVELOPMENTS - MEHR NEWS
-- 09/18 02:34 [financialjuice] OpenA and Nvidia CEOs to attend Trump-Xi state dinner - ABC. $NVDA
-- 09/18 02:34 [financialjuice] OpenAI and Nvidia CEOs to attend Trump-Xi state dinner - ABC. citing soruces $NVDA
-- 09/18 02:37 [FirstSquawk] ANTHROPIC HAS LAUNCHED A LIFE SCIENCES VERIFICATION PROGRAM BETA FOR BIOLOGY-RELATED MODEL ACCESS FOR TEAMS AND INSTITUTIONS, WITH STANDARD USE GRANTS APPLYING TO ITS MYTHOS 5.1, OPUS 5 AND SONNET 5 MODELS
-- 09/18 02:39 [FirstSquawk] OPENAI & NVIDIA CEOS TO ATTEND TRUMP-XI STATE DINNER — ABC
 - 09/18 02:43 [FirstSquawk] RUSSIA EXPECTS ITS 2027 FEDERAL BUDGET DEFICIT TO BE AROUND 2% OF GDP, WITH PROJECTIONS BASED ON A CONSERVATIVE OIL PRICE ASSUMPTION OF ABOUT $50 PER BARREL, PRESIDENT VLADIMIR PUTIN SAID. HE ADDED THAT OIL AND GAS REVENUES ARE EXPECTED TO …
 - 09/18 02:43 [FirstSquawk] PUTIN ALSO SAID RUSSIA’S ECONOMY IS EXPECTED TO GROW ABOUT 1% IN 2026, INFLATION IS GRADUALLY SLOWING, AND THE FEDERAL BUDGET POSTED A RUB 606 BILLION SURPLUS IN AUGUST.
 - 09/18 02:51 [FirstSquawk] U.S. SHALE PRODUCER HIGHPEAK ENERGY IS EXPLORING A SALE AFTER RECEIVING TAKEOVER INTEREST, SOURCES SAY
@@ -115,3 +105,13 @@
 - 09/18 08:30 [financialjuice] Japan August nationwide core CPI rises 1.7% year on year, government says (Poll: +1.8%)
 - 09/18 08:30 [financialjuice] Japan August nationwide core-core CPI excluding fresh food and energy prices rises 1.9% yr/yr: govt
 - 09/18 08:30 [financialjuice] Japan August nationwide overall CPI rises 1.9% year on year: govt
+- 09/18 08:31 [FirstSquawk] JAPAN'S AUGUST NATIONWIDE CPI ROSE 1.9% YEAR-ON-YEAR, JUST BELOW THE 2.0% ESTIMATE, WITH CPI EX-FRESH FOOD UP 1.7% VERSUS 1.8% EXPECTED AND CPI EX-FRESH FOOD AND ENERGY UP 1.9%
+- 09/18 08:36 [financialjuice] RBA Governor Bullock: various indicators indicate labor market conditions stay near, but slightly tighter than, full employment
+- 09/18 08:36 [financialjuice] RBA Governor Bullock: at August board meeting, risks to outlook were skewed to the upside
+- 09/18 08:36 [financialjuice] RBA Governor Bullock: developments since then indicate that while growth in the Australian economy is slowing, some upside risks to inflation seem to be materializing
+- 09/18 08:37 [financialjuice] RBA Governor Bullock: liaison program shows many firms are passing on higher input costs
+- 09/18 08:37 [financialjuice] RBA Governor Bullock: recent figures broadly align with expectation of demand growth easing in H1 2026
+- 09/18 08:37 [financialjuice] RBA governor Bullock: housing market conditions have softened, larger-than-expected easing could weigh on economic activity
+- 09/18 08:38 [financialjuice] RBA Governor Bullock: key question is whether monetary tightening to date will be enough to return inflation to target in reasonable time
+- 09/18 08:38 [financialjuice] RBA Governor Bullock: monetary policy positioned to address developments with focus on price stability and full employment
+- 09/18 08:38 [financialjuice] RBA Governor Bullock: lowering inflation is crucial

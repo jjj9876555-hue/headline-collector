@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 08:31 JST／対象: 09/17 20:31 〜 09/18 08:31 JST（時刻はすべて日本時間）
+生成: 2026-09-18 08:41 JST／対象: 09/17 20:41 〜 09/18 08:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/17 21:58 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 122 | 09/17 20:46 | 09/18 08:26 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 118 | 09/17 21:00 | 09/18 08:30 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 123 | 09/17 20:46 | 09/18 08:31 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 127 | 09/17 21:00 | 09/18 08:38 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 241 行（統合前 256 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 251 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -265,3 +265,13 @@
 - 09/18 08:30 [financialjuice] Japan August nationwide core CPI rises 1.7% year on year, government says (Poll: +1.8%)
 - 09/18 08:30 [financialjuice] Japan August nationwide core-core CPI excluding fresh food and energy prices rises 1.9% yr/yr: govt
 - 09/18 08:30 [financialjuice] Japan August nationwide overall CPI rises 1.9% year on year: govt
+- 09/18 08:31 [FirstSquawk] JAPAN'S AUGUST NATIONWIDE CPI ROSE 1.9% YEAR-ON-YEAR, JUST BELOW THE 2.0% ESTIMATE, WITH CPI EX-FRESH FOOD UP 1.7% VERSUS 1.8% EXPECTED AND CPI EX-FRESH FOOD AND ENERGY UP 1.9%
+- 09/18 08:36 [financialjuice] RBA Governor Bullock: various indicators indicate labor market conditions stay near, but slightly tighter than, full employment
+- 09/18 08:36 [financialjuice] RBA Governor Bullock: at August board meeting, risks to outlook were skewed to the upside
+- 09/18 08:36 [financialjuice] RBA Governor Bullock: developments since then indicate that while growth in the Australian economy is slowing, some upside risks to inflation seem to be materializing
+- 09/18 08:37 [financialjuice] RBA Governor Bullock: liaison program shows many firms are passing on higher input costs
+- 09/18 08:37 [financialjuice] RBA Governor Bullock: recent figures broadly align with expectation of demand growth easing in H1 2026
+- 09/18 08:37 [financialjuice] RBA governor Bullock: housing market conditions have softened, larger-than-expected easing could weigh on economic activity
+- 09/18 08:38 [financialjuice] RBA Governor Bullock: key question is whether monetary tightening to date will be enough to return inflation to target in reasonable time
+- 09/18 08:38 [financialjuice] RBA Governor Bullock: monetary policy positioned to address developments with focus on price stability and full employment
+- 09/18 08:38 [financialjuice] RBA Governor Bullock: lowering inflation is crucial

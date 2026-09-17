@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 08:31 JST／対象: 09/17 08:31 〜 09/18 08:31 JST（時刻はすべて日本時間）
+生成: 2026-09-18 08:41 JST／対象: 09/17 08:41 〜 09/18 08:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 328 | 09/17 08:41 | 09/18 08:26 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 264 | 09/17 08:40 | 09/18 08:30 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 326 | 09/17 08:42 | 09/18 08:31 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 271 | 09/17 08:50 | 09/18 08:38 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 593 行（統合前 610 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 598 行（統合前 615 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 08:40 [financialjuice] Snap: collaborating with Salesforce, AWS, Nvidia, Trifork, Hololight, and others to integrate AR specs into workplace settings
-- 09/17 08:41 [FirstSquawk] SNAP HAS ANNOUNCED NEW EXPERIENCES, SERVICES AND PARTNERSHIPS FOR SPECS, INTRODUCING SPECS INTELLIGENCE, A NEW ANTICIPATORY AI SERVICE DESIGNED TO WORK ACROSS IPHONE, MAC AND SPECS AR GLASSES, AND WORKING WITH SALESFORCE, AWS, NVIDIA, TRIFO…
-- 09/17 08:41 [FirstSquawk] SNAP SAYS THAT FROM TODAY IN THE U.S., ANYONE 18+ CAN DOWNLOAD THE SPECS APP FOR IOS AND TRY THE SPECS INTELLIGENCE PREVIEW, WITH CONSUMERS ABLE TO TRY SPECS AR GLASSES IN-PERSON FROM OCT. 1 AT SPECS FIRST LOOK AT WESTFIELD CENTURY CITY IN …
-- 09/17 08:41 [financialjuice] Trump to hold Iran discussions with Gulf leaders next week: Axios
-- 09/17 08:41 [FirstSquawk] SNAP SAYS IT IS PARTNERING WITH VERIZON TO OFFER CUSTOM DATA PLANS, FLEXIBLE FINANCING AND DIGITAL SETUP AT SELECT VERIZON STORES FOR THE SPECS CHARGING CASE, ALONGSIDE GLOBAL CARRIERS INCLUDING ORANGE IN FRANCE AND EE IN THE UK.
 - 09/17 08:42 [FirstSquawk] TRUMP IS TO HOLD IRAN TALKS WITH GULF LEADERS NEXT WEEK - AXIOS
 - 09/17 08:45 [FirstSquawk] US STOCK FUTURES REBOUND: S&P 500 FUTURES +0.3%, NASDAQ FUTURES +0.5%
 - 09/17 08:46 [FirstSquawk] JAPAN MARKETS: NIKKEI FUTURES RISE 1% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.08 POINT
@@ -617,3 +612,13 @@
 - 09/18 08:30 [financialjuice] Japan August nationwide core CPI rises 1.7% year on year, government says (Poll: +1.8%)
 - 09/18 08:30 [financialjuice] Japan August nationwide core-core CPI excluding fresh food and energy prices rises 1.9% yr/yr: govt
 - 09/18 08:30 [financialjuice] Japan August nationwide overall CPI rises 1.9% year on year: govt
+- 09/18 08:31 [FirstSquawk] JAPAN'S AUGUST NATIONWIDE CPI ROSE 1.9% YEAR-ON-YEAR, JUST BELOW THE 2.0% ESTIMATE, WITH CPI EX-FRESH FOOD UP 1.7% VERSUS 1.8% EXPECTED AND CPI EX-FRESH FOOD AND ENERGY UP 1.9%
+- 09/18 08:36 [financialjuice] RBA Governor Bullock: various indicators indicate labor market conditions stay near, but slightly tighter than, full employment
+- 09/18 08:36 [financialjuice] RBA Governor Bullock: at August board meeting, risks to outlook were skewed to the upside
+- 09/18 08:36 [financialjuice] RBA Governor Bullock: developments since then indicate that while growth in the Australian economy is slowing, some upside risks to inflation seem to be materializing
+- 09/18 08:37 [financialjuice] RBA Governor Bullock: liaison program shows many firms are passing on higher input costs
+- 09/18 08:37 [financialjuice] RBA Governor Bullock: recent figures broadly align with expectation of demand growth easing in H1 2026
+- 09/18 08:37 [financialjuice] RBA governor Bullock: housing market conditions have softened, larger-than-expected easing could weigh on economic activity
+- 09/18 08:38 [financialjuice] RBA Governor Bullock: key question is whether monetary tightening to date will be enough to return inflation to target in reasonable time
+- 09/18 08:38 [financialjuice] RBA Governor Bullock: monetary policy positioned to address developments with focus on price stability and full employment
+- 09/18 08:38 [financialjuice] RBA Governor Bullock: lowering inflation is crucial
