@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 01:44 JST／対象: 09/17 19:44 〜 09/18 01:44 JST（時刻はすべて日本時間）
+生成: 2026-09-18 01:58 JST／対象: 09/17 19:58 〜 09/18 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/17 21:58 | 09/18 00:42 | ⚠ 70分（22:31→23:42） |
-| FirstSquawk | 75 | 09/17 19:45 | 09/18 01:32 | 17分（20:29→20:46） |
-| financialjuice | 87 | 09/17 19:45 | 09/18 01:41 | 30分（20:29→21:00） |
+| FirstSquawk | 78 | 09/17 20:00 | 09/18 01:57 | 17分（20:29→20:46） |
+| financialjuice | 88 | 09/17 20:00 | 09/18 01:57 | 30分（20:29→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 163 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 167 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 19:45 [financialjuice] Canada PM Carney in reaction to Trump comments: A strong, more resilient Canada would be a more effective partner to the US
-- 09/17 19:45 [FirstSquawk] TURKEY PROPOSES RUSSIA-UKRAINE DEAL TO END BLACK SEA SHIPPING ATTACKS – AFP CITES DIPLOMATIC SOURCE
-- 09/17 19:47 [financialjuice] Canada's PM Carney: Nobody will dictate who we strike agreements with
-- 09/17 19:54 [FirstSquawk] SWISS UPPER HOUSE POSTPONES VOTE ON UBS CAPITAL RULES, TO VOTE SEP 23RD
-- 09/17 19:57 [FirstSquawk] ECB REHN: CURRENTLY NO NEED FOR USE OF ECB INSTRUMENTS LIKE TPI
 - 09/17 20:00 [FirstSquawk] BOE INTEREST RATE DECISION (SEP) ACTUAL: 3.75% VS 3.75% PREVIOUS; EST 3.75%
 - 09/17 20:00 [financialjuice] ‼ BREAKING: BOE BANK RATE ACTUAL 3.75% (FORECAST 3.75%, PREVIOUS 3.75%) $MACRO
 - 09/17 20:00 [financialjuice] BOE MPC VOTE HIKE ACTUAL 3 (FORECAST 3, PREVIOUS 3) $MACRO
@@ -187,3 +182,12 @@
 - 09/18 01:31 [financialjuice] Oil refinery in Russia's Yaroslavl region halts crude processing after a drone attack - sources.
 - 09/18 01:32 [FirstSquawk] STRAIT OF HORMUZ THREAT LEVEL REMAINS SEVERE – UKMTO
 - 09/18 01:41 [financialjuice] French PM Lecornu: We will not raise taxes - Le Figaro
+- 09/18 01:45 [financialjuice] Fed bids for 10 Yr tips total $2.9 bln
+- 09/18 01:46 [FirstSquawk] BAE SYSTEMS ONEARC AWARDED OTHER TRANSACTION AGREEMENT CONTRACT BY US ARMY TO INTEGRATE ECT SOLUTION
+- 09/18 01:51 [FirstSquawk] RUBIO TAKES BEHIND-THE-SCENES ROLE ON IRAN WAR, WHILE KEEPING HIS OPTIONS OPEN FOR THE FUTURE – NBC
+- 09/18 01:54 [FirstSquawk] FRENCH FINANCE MINISTRY SEES 2026 DEFICIT AT 5.4% GDP
+- 09/18 01:54 [FirstSquawk] NORTHROP CEO SAYS CO PLANNING FIRST SENTINEL MISSILE TEST IN 2027, WHICH IS EARLIER THAN WAS ANTICIPATED
+- 09/18 01:55 [FirstSquawk] NVIDIA COMMITS $2 BILLION TO BROOKFIELD AI FUND
+- 09/18 01:55 [financialjuice] Nvidia commits $2 billion to Brookfield AI fund. $NVDA
+- 09/18 01:57 [FirstSquawk] TRUMP SAID IN AN INTERVIEW WITH AXIOS THAT HE IS AT A TURNING POINT IN THE IRAN WAR, DECIDING WHETHER TO RESUME LARGE-SCALE ATTACKS TO END THE CONFLICT.
+- 09/18 01:57 [financialjuice] ❗ Trump tells Axios he's approaching major crossroads in Iran war

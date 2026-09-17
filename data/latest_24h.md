@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 01:44 JST／対象: 09/17 01:44 〜 09/18 01:44 JST（時刻はすべて日本時間）
+生成: 2026-09-18 01:58 JST／対象: 09/17 01:58 〜 09/18 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 36 | 09/17 02:22 | 09/18 00:42 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 400 | 09/17 01:48 | 09/18 01:32 | 32分（05:10→05:42） |
-| financialjuice | 325 | 09/17 01:54 | 09/18 01:41 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 405 | 09/17 02:02 | 09/18 01:57 | 32分（05:10→05:42） |
+| financialjuice | 327 | 09/17 02:02 | 09/18 01:57 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 745 行（統合前 767 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 752 行（統合前 775 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 01:48 [FirstSquawk] HYPERSCALER DEBT SIGNALS WARNING SIGN, APOLLO CAUTIONS - CNBC
-- 09/17 01:54 [financialjuice] Pakistan Foreign Ministry: While Pakistan navy was undertaking biennial exercise, Indian vessel carried out aggressive maneuvers in close proximity.
 - 09/17 02:02 [financialjuice] Iran's Rezai: We do not trust the US in any way.
 - 09/17 02:02 [FirstSquawk] FRENCH PM LECORNU REPORTEDLY SEEKING BUDGET ALIGNMENT WITH RN - LES ECHOS
 - 09/17 02:22 [financialjuice] Google, DeepMind launch institute to explore AGI - Axios. $GOOGL
@@ -769,3 +767,12 @@
 - 09/18 01:31 [financialjuice] Oil refinery in Russia's Yaroslavl region halts crude processing after a drone attack - sources.
 - 09/18 01:32 [FirstSquawk] STRAIT OF HORMUZ THREAT LEVEL REMAINS SEVERE – UKMTO
 - 09/18 01:41 [financialjuice] French PM Lecornu: We will not raise taxes - Le Figaro
+- 09/18 01:45 [financialjuice] Fed bids for 10 Yr tips total $2.9 bln
+- 09/18 01:46 [FirstSquawk] BAE SYSTEMS ONEARC AWARDED OTHER TRANSACTION AGREEMENT CONTRACT BY US ARMY TO INTEGRATE ECT SOLUTION
+- 09/18 01:51 [FirstSquawk] RUBIO TAKES BEHIND-THE-SCENES ROLE ON IRAN WAR, WHILE KEEPING HIS OPTIONS OPEN FOR THE FUTURE – NBC
+- 09/18 01:54 [FirstSquawk] FRENCH FINANCE MINISTRY SEES 2026 DEFICIT AT 5.4% GDP
+- 09/18 01:54 [FirstSquawk] NORTHROP CEO SAYS CO PLANNING FIRST SENTINEL MISSILE TEST IN 2027, WHICH IS EARLIER THAN WAS ANTICIPATED
+- 09/18 01:55 [FirstSquawk] NVIDIA COMMITS $2 BILLION TO BROOKFIELD AI FUND
+- 09/18 01:55 [financialjuice] Nvidia commits $2 billion to Brookfield AI fund. $NVDA
+- 09/18 01:57 [FirstSquawk] TRUMP SAID IN AN INTERVIEW WITH AXIOS THAT HE IS AT A TURNING POINT IN THE IRAN WAR, DECIDING WHETHER TO RESUME LARGE-SCALE ATTACKS TO END THE CONFLICT.
+- 09/18 01:57 [financialjuice] ❗ Trump tells Axios he's approaching major crossroads in Iran war
