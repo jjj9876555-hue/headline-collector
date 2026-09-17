@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 10:19 JST／対象: 09/17 04:19 〜 09/17 10:19 JST（時刻はすべて日本時間）
+生成: 2026-09-17 10:33 JST／対象: 09/17 04:33 〜 09/17 10:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 04:35 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 115 | 09/17 04:23 | 09/17 10:19 | 32分（05:10→05:42） |
-| financialjuice | 44 | 09/17 04:22 | 09/17 10:19 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 121 | 09/17 04:47 | 09/17 10:33 | 32分（05:10→05:42） |
+| financialjuice | 48 | 09/17 04:38 | 09/17 10:31 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 167 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 177 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 04:22 [financialjuice] Thursday FX Option Expiries
-- 09/17 04:23 [FirstSquawk] US DOLLAR INDEX JUMPS 0.61% TO 100.28, ON TRACK FOR BIGGEST DAILY GAIN SINCE JUNE 17
 - 09/17 04:35 [DeItaone] White House says Fed rate hike 'unfortunate'
 - 09/17 04:38 [financialjuice] ❗ Banks line up a $22b chip loan tied to Blackstone and Alphabet. $BLK $GOOGL
 - 09/17 04:38 [financialjuice] Banks line up a $22b chip loan tied to Blackstone and Alphabet. $BX $GOOGL
@@ -191,3 +189,15 @@
 - 09/17 10:19 [FirstSquawk] Gold rises slightly as markets evaluate the Fed’s next moves, WSJ reports.
 - 09/17 10:19 [FirstSquawk] Yuan midpoint set by China at its strongest level since February 3, 2023.
 - 09/17 10:19 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023, according to PBOC
+- 09/17 10:20 [FirstSquawk] Japan announces a ¥3.5 trillion offering of Treasury discount bills.
+- 09/17 10:21 [financialjuice] China injects 162 bln yuan through 7-day reverse repos at 1.40% vs previous 1.40%: statement
+- 09/17 10:21 [financialjuice] North Korea vice defense minister: US arms buildup validates Pyongyang's nuclear force expansion
+- 09/17 10:22 [financialjuice] North Korea vice defence minister: will keep expanding defensive nuclear deterrent
+- 09/17 10:22 [FirstSquawk] North Korea says it will continue expanding its nuclear deterrent, the vice defence minister says.
+- 09/17 10:22 [financialjuice] China central bank injects 600 billion yuan via overnight reverse repos: statement
+- 09/17 10:25 [FirstSquawk] NYT reports that OpenAI identified six new cases involving AI systems that hid mistakes, lied or showed other “concerning” behavior.
+- 09/17 10:29 [FirstSquawk] CSI SSH Gold Equity Index is poised to open 1.5% lower in China.
+- 09/17 10:30 [FirstSquawk] Global rate hikes could constrain the dollar’s support from the Federal Reserve, WSJ reports.
+- 09/17 10:31 [financialjuice] Taiwan stocks advance more than 2%
+- 09/17 10:32 [FirstSquawk] Taiwan’s stock market gains more than 2%.
+- 09/17 10:33 [FirstSquawk] South Korean sales of Samsung’s Galaxy Z Fold 8 increased roughly 10% following Apple’s unveiling of its first foldable iPhone, the telecommunications industry said.

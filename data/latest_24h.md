@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 10:19 JST／対象: 09/16 10:19 〜 09/17 10:19 JST（時刻はすべて日本時間）
+生成: 2026-09-17 10:33 JST／対象: 09/16 10:33 〜 09/17 10:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 403 | 09/16 10:20 | 09/17 10:19 | 45分（17:00→17:45） |
-| financialjuice | 270 | 09/16 10:21 | 09/17 10:19 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 406 | 09/16 10:38 | 09/17 10:33 | 45分（17:00→17:45） |
+| financialjuice | 273 | 09/16 14:36 | 09/17 10:31 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 710 行（統合前 730 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 716 行（統合前 736 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 10:20 [FirstSquawk] Japan is offering ¥2.5 trillion in Treasury discount bills, adding to the latest government debt issuance. The auction will be closely watched by investors for demand and pricing as markets assess Japan’s short-term funding conditions and b…
-- 09/16 10:21 [financialjuice] China injects 110 bln yuan via 7-day reverse repos at 1.40%: statement
-- 09/16 10:21 [financialjuice] China central bank injects 600 billion yuan via overnight reverse repos: statement
-- 09/16 10:22 [FirstSquawk] China’s central bank injected 600 billion yuan into the financial system through overnight reverse repos, according to a statement. The operation adds short-term liquidity to the banking system as markets monitor funding conditions and the …
-- 09/16 10:28 [FirstSquawk] The Singapore dollar has weakened to 1.2738 per U.S. dollar, its lowest level since September 2. The move puts renewed focus on currency markets as traders track the strength of the U.S. dollar and shifting expectations around global intere…
-- 09/16 10:31 [FirstSquawk] Saudi Arabia and the Organisation of Islamic Cooperation have condemned what they described as a “heinous” Houthi attack targeting Mecca. A Houthi official, however, rejected Saudi Arabia’s account that its forces had shot down a drone head…
 - 09/16 10:38 [FirstSquawk] Multiple U.S. positions across the Middle East were affected by Iranian attacks, CBS reports. The reported strikes add to the latest escalation across the region, putting U.S. military positions and the broader security situation in focus.
 - 09/16 10:43 [FirstSquawk] Japan’s 40-year government bond yield climbed 1.0 basis point to 4.220%. The move keeps long-dated Japanese yields elevated as investors continue to assess the country’s interest-rate and bond-market outlook.
 - 09/16 10:53 [FirstSquawk] Japan’s Prime Minister Sanae Takaichi says she will reshuffle cabinet personnel on Thursday. The planned changes put Japan’s government lineup in focus as markets monitor the direction of economic and policy priorities under the Takaichi ad…
@@ -734,3 +728,15 @@
 - 09/17 10:19 [FirstSquawk] Gold rises slightly as markets evaluate the Fed’s next moves, WSJ reports.
 - 09/17 10:19 [FirstSquawk] Yuan midpoint set by China at its strongest level since February 3, 2023.
 - 09/17 10:19 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023, according to PBOC
+- 09/17 10:20 [FirstSquawk] Japan announces a ¥3.5 trillion offering of Treasury discount bills.
+- 09/17 10:21 [financialjuice] China injects 162 bln yuan through 7-day reverse repos at 1.40% vs previous 1.40%: statement
+- 09/17 10:21 [financialjuice] North Korea vice defense minister: US arms buildup validates Pyongyang's nuclear force expansion
+- 09/17 10:22 [financialjuice] North Korea vice defence minister: will keep expanding defensive nuclear deterrent
+- 09/17 10:22 [FirstSquawk] North Korea says it will continue expanding its nuclear deterrent, the vice defence minister says.
+- 09/17 10:22 [financialjuice] China central bank injects 600 billion yuan via overnight reverse repos: statement
+- 09/17 10:25 [FirstSquawk] NYT reports that OpenAI identified six new cases involving AI systems that hid mistakes, lied or showed other “concerning” behavior.
+- 09/17 10:29 [FirstSquawk] CSI SSH Gold Equity Index is poised to open 1.5% lower in China.
+- 09/17 10:30 [FirstSquawk] Global rate hikes could constrain the dollar’s support from the Federal Reserve, WSJ reports.
+- 09/17 10:31 [financialjuice] Taiwan stocks advance more than 2%
+- 09/17 10:32 [FirstSquawk] Taiwan’s stock market gains more than 2%.
+- 09/17 10:33 [FirstSquawk] South Korean sales of Samsung’s Galaxy Z Fold 8 increased roughly 10% following Apple’s unveiling of its first foldable iPhone, the telecommunications industry said.
