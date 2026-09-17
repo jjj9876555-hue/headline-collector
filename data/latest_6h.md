@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 18:58 JST／対象: 09/17 12:58 〜 09/17 18:58 JST（時刻はすべて日本時間）
+生成: 2026-09-17 19:18 JST／対象: 09/17 13:18 〜 09/17 19:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/17 16:07 | 09/17 18:43 | ⚠ 156分（16:07→18:43） |
-| FirstSquawk | 82 | 09/17 13:02 | 09/17 18:58 | 29分（16:17→16:47） |
-| financialjuice | 60 | 09/17 13:02 | 09/17 18:58 | 45分（18:03→18:48） |
+| FirstSquawk | 79 | 09/17 13:22 | 09/17 19:16 | 29分（16:17→16:47） |
+| financialjuice | 71 | 09/17 13:22 | 09/17 19:16 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 144 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 152 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 13:02 [financialjuice] EU asks China to voluntarily curb car exports - FT
-- 09/17 13:02 [financialjuice] EU urges China to voluntarily limit hybrid car exports to avoid trade war: FT
-- 09/17 13:02 [FirstSquawk] EU calls on China to voluntarily restrict automobile exports, FT reports.
-- 09/17 13:03 [FirstSquawk] EU urges China to voluntarily curb hybrid vehicle exports under a proposed deal aimed at preventing a trade war, FT reports.
-- 09/17 13:04 [financialjuice] Brussels urges Beijing to limit Chinese hybrid vehicle sales to about 15% of EU market - FT
-- 09/17 13:05 [FirstSquawk] Brussels proposes limiting Chinese hybrid vehicle sales to roughly 15% of the EU market, FT reports.
-- 09/17 13:10 [financialjuice] China's Xi issues key directives on advanced manufacturing development - Xinhua
-- 09/17 13:11 [financialjuice] China's President Xi: to boost advanced manufacturing - Xinhua
-- 09/17 13:11 [financialjuice] China's President Xi: coordinate high-quality growth and advanced security - Xinhua
-- 09/17 13:11 [financialjuice] China's president Xi: enhance self-reliance and control of industrial chains - Xinhua
-- 09/17 13:12 [FirstSquawk] Xinhua: Xi stresses the importance of advancing China’s advanced manufacturing development.
-- 09/17 13:12 [FirstSquawk] Xinhua: Xi calls for stronger development of China’s advanced manufacturing sector.
-- 09/17 13:13 [FirstSquawk] HSBC keeps its Hong Kong dollar savings deposit rate unchanged.
-- 09/17 13:13 [FirstSquawk] HSBC leaves its best lending rate in Hong Kong at 5.00%.
-- 09/17 13:13 [FirstSquawk] Xinhua: Xi urges efforts to make China’s industrial chains more independent and controllable.
-- 09/17 13:17 [financialjuice] Strait of Hormuz commodity vessel traffic declines to 3 on Wednesday, well below 10-day average of about 17, shipping data shows
 - 09/17 13:22 [FirstSquawk] India says it has noted the US Congress passage of legislation imposing sanctions on Russia and Iran.
 - 09/17 13:22 [financialjuice] India foreign ministry: India has noted passage of bill sanctioning Russia and Iran in U.S. Congress
 - 09/17 13:22 [financialjuice] India foreign ministry: India remains strongly committed to securing energy supplies for its people
@@ -168,3 +152,27 @@
 - 09/17 18:58 [FirstSquawk] CANADA'S CARNEY SUGGESTS FUNCTIONAL ALLIANCE WITH EU.
 - 09/17 18:58 [financialjuice] Canada's PM Carney: EU and Canada can ally 'by function’
 - 09/17 18:58 [FirstSquawk] CARNEY STATES THAT A MUTUAL BENEFIT IS FUNDAMENTAL TO THE CANADA-EU PARTNERSHIP.
+- 09/17 19:01 [financialjuice] Japan's PM Takaichi: Meeting with Trump has not yet been scheduled
+- 09/17 19:01 [financialjuice] Japan's PM Takaichi: Will continue to communicate with China
+- 09/17 19:02 [financialjuice] Canada's PM Carney: Canada welcomes ‘ambition’ for associate EU membership
+- 09/17 19:02 [financialjuice] Canada's PM Carney: We welcome Von der Leyen's ambition of becoming an associate member
+- 09/17 19:02 [financialjuice] Canada's PM Carney: Canada and Europe should secure our strategic autonomy through deep cooperation in the full range of strategic capabilities
+- 09/17 19:02 [financialjuice] Japan's PM Takaichi: Expect BoJ to conduct policy toward 2% target
+- 09/17 19:03 [financialjuice] Canada's PM Carney: Partnership to include critical minerals and defense
+- 09/17 19:03 [financialjuice] Canada's PM Carney: Partnership to include AI, compute, energy security
+- 09/17 19:03 [financialjuice] Carney floats Canada membership in the Erasmus+ university program
+- 09/17 19:03 [financialjuice] Canada's PM Carney: Our alliance can help fill Europe’s need for a reliable supply of critical minerals
+- 09/17 19:05 [FirstSquawk] CANADA PM CARNEY SUPPORTS VON DER LEYEN'S GOAL TO BECOME AN ASSOCIATE MEMBER.
+- 09/17 19:05 [FirstSquawk] CARNEY SAYS CANADA AND EUROPE NEED TO WORK TOGETHER TO ENSURE STRATEGIC INDEPENDENCE ACROSS ALL STRATEGIC ABILITIES.
+- 09/17 19:05 [FirstSquawk] CARNEY ANNOUNCED THAT A NEW PARTNERSHIP WILL FOCUS ON CRITICAL MINERALS AND DEFENSE.
+- 09/17 19:05 [financialjuice] Canada's PM Carney: Canada can provide LNG, and hydrogen at large scale to the EU
+- 09/17 19:05 [financialjuice] Canada's PM Carney: Canada and the EU can pool sovereign compute capacities
+- 09/17 19:06 [financialjuice] Canada's PM Carney: Canada and Europe should also explore creating an integrated market for financial services
+- 09/17 19:06 [FirstSquawk] CARNEY STATES NO PLAN FOR A THIRD BLOC TO BECOME A GREAT POWER OPPONENT.
+- 09/17 19:06 [financialjuice] Canada's PM Carney: I am not proposing a third bloc in order to become a great-power rival
+- 09/17 19:08 [financialjuice] ECB's Rehn: Liberal democracies are being tested in many EU economies
+- 09/17 19:09 [financialjuice] ECB's Rehn: Middle-east conflict looks like it will be protracted
+- 09/17 19:09 [financialjuice] Japan's PM Takaichi: Won't rely on deficit-financing bonds to fund food sales tax cut, we have prospects for funding resources
+- 09/17 19:09 [financialjuice] ECB's Rehn: No sign of second-round effects so far
+- 09/17 19:16 [FirstSquawk] EXPLOSIONS HEARD NEAR UKRAINE-POLAND BORDER DURING RUSSIAN DRONE STRIKE, SAYS UKRAINIAN OFFICIAL.
+- 09/17 19:16 [financialjuice] PBOC's Xuan discusses PayPal's China development with executive $PYPL

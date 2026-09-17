@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 18:58 JST／対象: 09/16 18:58 〜 09/17 18:58 JST（時刻はすべて日本時間）
+生成: 2026-09-17 19:18 JST／対象: 09/16 19:18 〜 09/17 19:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 09/16 19:06 | 09/17 18:43 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 396 | 09/16 19:03 | 09/17 18:58 | 32分（05:10→05:42） |
-| financialjuice | 299 | 09/16 19:00 | 09/17 18:58 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 52 | 09/16 19:25 | 09/17 18:43 | ⚠ 483分（08:04→16:07） |
+| FirstSquawk | 399 | 09/16 19:18 | 09/17 19:16 | 32分（05:10→05:42） |
+| financialjuice | 316 | 09/16 19:52 | 09/17 19:16 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 734 行（統合前 753 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 753 行（統合前 772 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 19:00 [financialjuice] Meta partner Nextera to hire 1,000 from its workforce academy $META
-- 09/16 19:01 [financialjuice] Blackrock to build customizable 401k funds for firms - WSJ
-- 09/16 19:03 [FirstSquawk] META AND NEXTERA WILL RECRUIT 1,000 PEOPLE FROM THEIR WORKFORCE ACADEMY.
-- 09/16 19:06 [DeItaone] SK HYNIX INC: NO PLANS HAVE BEEN CONFIRMED REGARDING THE REPORTED TALKS BETWEEN SK HYNIX AND INTEL ON MEMORY CHIP PRODUCTION IN THE U.S.
-- 09/16 19:15 [FirstSquawk] SK HYNIX: NO PLANS CONFIRMED REGARDING REPORTED TALKS WITH INTEL ON MEMORY CHIP PRODUCTION IN US
 - 09/16 19:18 [FirstSquawk] EUROPEAN COMMISSION PRESIDENT URSULA VON DER LEYEN AIMS FOR CANADA TO BE THE EU'S FIRST 'ASSOCIATE MEMBER.'
 - 09/16 19:25 [FirstSquawk] MORGAN STANLEY ASSUMES AIRBNB COVERAGE WITH ‘EQUAL WEIGHT’ RATING; PRICE TARGET $170
 - 09/16 19:25 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:30 AM ET — 🇺🇸 Retail Sales 8:30 AM ET — 🇺🇸 Import & Export Prices 10:30 AM ET — 🛢️ EIA Oil Inventories 1:00 PM ET — 🇺🇸 Treasury Auction 2:00 PM ET — 🏦 FOMC RATE DECISION + DOT PLOT 2:30 PM ET — 🎙️ Fed…
@@ -758,3 +753,27 @@
 - 09/17 18:58 [FirstSquawk] CANADA'S CARNEY SUGGESTS FUNCTIONAL ALLIANCE WITH EU.
 - 09/17 18:58 [financialjuice] Canada's PM Carney: EU and Canada can ally 'by function’
 - 09/17 18:58 [FirstSquawk] CARNEY STATES THAT A MUTUAL BENEFIT IS FUNDAMENTAL TO THE CANADA-EU PARTNERSHIP.
+- 09/17 19:01 [financialjuice] Japan's PM Takaichi: Meeting with Trump has not yet been scheduled
+- 09/17 19:01 [financialjuice] Japan's PM Takaichi: Will continue to communicate with China
+- 09/17 19:02 [financialjuice] Canada's PM Carney: Canada welcomes ‘ambition’ for associate EU membership
+- 09/17 19:02 [financialjuice] Canada's PM Carney: We welcome Von der Leyen's ambition of becoming an associate member
+- 09/17 19:02 [financialjuice] Canada's PM Carney: Canada and Europe should secure our strategic autonomy through deep cooperation in the full range of strategic capabilities
+- 09/17 19:02 [financialjuice] Japan's PM Takaichi: Expect BoJ to conduct policy toward 2% target
+- 09/17 19:03 [financialjuice] Canada's PM Carney: Partnership to include critical minerals and defense
+- 09/17 19:03 [financialjuice] Canada's PM Carney: Partnership to include AI, compute, energy security
+- 09/17 19:03 [financialjuice] Carney floats Canada membership in the Erasmus+ university program
+- 09/17 19:03 [financialjuice] Canada's PM Carney: Our alliance can help fill Europe’s need for a reliable supply of critical minerals
+- 09/17 19:05 [FirstSquawk] CANADA PM CARNEY SUPPORTS VON DER LEYEN'S GOAL TO BECOME AN ASSOCIATE MEMBER.
+- 09/17 19:05 [FirstSquawk] CARNEY SAYS CANADA AND EUROPE NEED TO WORK TOGETHER TO ENSURE STRATEGIC INDEPENDENCE ACROSS ALL STRATEGIC ABILITIES.
+- 09/17 19:05 [FirstSquawk] CARNEY ANNOUNCED THAT A NEW PARTNERSHIP WILL FOCUS ON CRITICAL MINERALS AND DEFENSE.
+- 09/17 19:05 [financialjuice] Canada's PM Carney: Canada can provide LNG, and hydrogen at large scale to the EU
+- 09/17 19:05 [financialjuice] Canada's PM Carney: Canada and the EU can pool sovereign compute capacities
+- 09/17 19:06 [financialjuice] Canada's PM Carney: Canada and Europe should also explore creating an integrated market for financial services
+- 09/17 19:06 [FirstSquawk] CARNEY STATES NO PLAN FOR A THIRD BLOC TO BECOME A GREAT POWER OPPONENT.
+- 09/17 19:06 [financialjuice] Canada's PM Carney: I am not proposing a third bloc in order to become a great-power rival
+- 09/17 19:08 [financialjuice] ECB's Rehn: Liberal democracies are being tested in many EU economies
+- 09/17 19:09 [financialjuice] ECB's Rehn: Middle-east conflict looks like it will be protracted
+- 09/17 19:09 [financialjuice] Japan's PM Takaichi: Won't rely on deficit-financing bonds to fund food sales tax cut, we have prospects for funding resources
+- 09/17 19:09 [financialjuice] ECB's Rehn: No sign of second-round effects so far
+- 09/17 19:16 [FirstSquawk] EXPLOSIONS HEARD NEAR UKRAINE-POLAND BORDER DURING RUSSIAN DRONE STRIKE, SAYS UKRAINIAN OFFICIAL.
+- 09/17 19:16 [financialjuice] PBOC's Xuan discusses PayPal's China development with executive $PYPL

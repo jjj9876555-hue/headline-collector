@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 18:58 JST／対象: 09/17 06:58 〜 09/17 18:58 JST（時刻はすべて日本時間）
+生成: 2026-09-17 19:18 JST／対象: 09/17 07:18 〜 09/17 19:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/17 07:41 | 09/17 18:43 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 210 | 09/17 07:00 | 09/17 18:58 | 29分（16:17→16:47） |
-| financialjuice | 100 | 09/17 07:45 | 09/17 18:58 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 205 | 09/17 07:24 | 09/17 19:16 | 29分（16:17→16:47） |
+| financialjuice | 119 | 09/17 07:45 | 09/17 19:16 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 318 行（統合前 319 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 332 行（統合前 333 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 07:00 [FirstSquawk] CEA CHAIR PHELAN SAID HIGHER OIL PRICES HAVE STARTED “BLEEDING THROUGH” INTO THE BROADER ECONOMY, WHILE NOTING THAT INFLATION IS CURRENTLY ELEVATED BUT CONTINUES TO COME DOWN.
-- 09/17 07:00 [FirstSquawk] CEA CHAIR PHELAN SAID TRUMP’S PROPOSED $5,000 CHECKS WOULD NOT NECESSARILY BE INFLATIONARY, AND WARNED THAT THE “FRENZY” AROUND FEDERAL RESERVE DECISIONS CAN OVERSHADOW OTHER ECONOMIC DATA.
-- 09/17 07:03 [FirstSquawk] OPENAI LAUNCHES NEW FRAMEWORK TO TRACK & DISCLOSE MODEL MISALIGNMENT, PUBLISHES SIX REPORTS ON UNEXPECTED MODEL BEHAVIOR OVER PAST SIX MONTHS
-- 09/17 07:03 [FirstSquawk] OPENAI DISCLOSES SIX NEW AI SAFETY INCIDENTS INVOLVING MODEL MISALIGNMENT — AXIOS
-- 09/17 07:05 [FirstSquawk] SWISS WATER DECAFFEINATED COFFEE ANNOUNCED A $6.2 MILLION INVESTMENT TO EXPAND ITS DELTA, B.C. PRODUCTION FACILITY, EXPECTED TO INCREASE PRODUCTION VOLUME BY 15% FROM CURRENT MAXIMUM CAPACITY.
-- 09/17 07:05 [FirstSquawk] SWISS WATER DECAFFEINATED COFFEE: CONSTRUCTION IS EXPECTED TO BEGIN IN Q1 2027 WITH NO DISRUPTION TO OPERATIONS, WITH THE MAJORITY OF THE INVESTMENT FUNDED THROUGH OPERATING CASH FLOW AND THE REMAINDER THROUGH CREDIT LINES.
-- 09/17 07:06 [FirstSquawk] OPENAI LAUNCHES NEW MODEL-MISALIGNMENT TRACKING FRAMEWORK, PUBLISHES SIX REPORTS ON UNEXPECTED BEHAVIOR OBSERVED DURING MODEL TRAINING & EVALUATION OVER PAST SIX MONTHS
-- 09/17 07:10 [FirstSquawk] OPENAI REPORTS SIX MODEL-MISALIGNMENT CASES, INCLUDING SELF-GENERATED INSTRUCTIONS AND ATTEMPTS TO CONCEAL MISTAKES IN TASK SUMMARIES
-- 09/17 07:10 [FirstSquawk] OPENAI REPORTS MODEL-MISALIGNMENT CASES INCLUDING UNSANCTIONED WRITES & INTERNAL REPOSITORY COMMUNICATION, PLUS UNAUTHORIZED FILE SHARING BETWEEN COLLABORATING AGENTS
-- 09/17 07:12 [FirstSquawk] OPENAI REPORTS MODEL-MISALIGNMENT CASES INCLUDING SEARCHING PUBLIC REPOSITORIES FOR EXPOSED API KEYS, FABRICATING INFORMATION & UPLOADING FILES ONLINE TO CREATE CITATIONS
 - 09/17 07:24 [FirstSquawk] JAPAN PM TAKAICHI TO RETAIN TRADE MINISTER RYOSEI AKAZAWA - YOMIURI
 - 09/17 07:27 [FirstSquawk] TRUMP SAYS HE STILL HAS CONFIDENCE IN FED CHAIR WARSH
 - 09/17 07:29 [FirstSquawk] TRUMP SAYS FED CHAIR WARSH 'HAS A HOSTILE BOARD', ADDING THAT HE WANTS WARSH TO BE INDEPENDENT
@@ -342,3 +332,27 @@
 - 09/17 18:58 [FirstSquawk] CANADA'S CARNEY SUGGESTS FUNCTIONAL ALLIANCE WITH EU.
 - 09/17 18:58 [financialjuice] Canada's PM Carney: EU and Canada can ally 'by function’
 - 09/17 18:58 [FirstSquawk] CARNEY STATES THAT A MUTUAL BENEFIT IS FUNDAMENTAL TO THE CANADA-EU PARTNERSHIP.
+- 09/17 19:01 [financialjuice] Japan's PM Takaichi: Meeting with Trump has not yet been scheduled
+- 09/17 19:01 [financialjuice] Japan's PM Takaichi: Will continue to communicate with China
+- 09/17 19:02 [financialjuice] Canada's PM Carney: Canada welcomes ‘ambition’ for associate EU membership
+- 09/17 19:02 [financialjuice] Canada's PM Carney: We welcome Von der Leyen's ambition of becoming an associate member
+- 09/17 19:02 [financialjuice] Canada's PM Carney: Canada and Europe should secure our strategic autonomy through deep cooperation in the full range of strategic capabilities
+- 09/17 19:02 [financialjuice] Japan's PM Takaichi: Expect BoJ to conduct policy toward 2% target
+- 09/17 19:03 [financialjuice] Canada's PM Carney: Partnership to include critical minerals and defense
+- 09/17 19:03 [financialjuice] Canada's PM Carney: Partnership to include AI, compute, energy security
+- 09/17 19:03 [financialjuice] Carney floats Canada membership in the Erasmus+ university program
+- 09/17 19:03 [financialjuice] Canada's PM Carney: Our alliance can help fill Europe’s need for a reliable supply of critical minerals
+- 09/17 19:05 [FirstSquawk] CANADA PM CARNEY SUPPORTS VON DER LEYEN'S GOAL TO BECOME AN ASSOCIATE MEMBER.
+- 09/17 19:05 [FirstSquawk] CARNEY SAYS CANADA AND EUROPE NEED TO WORK TOGETHER TO ENSURE STRATEGIC INDEPENDENCE ACROSS ALL STRATEGIC ABILITIES.
+- 09/17 19:05 [FirstSquawk] CARNEY ANNOUNCED THAT A NEW PARTNERSHIP WILL FOCUS ON CRITICAL MINERALS AND DEFENSE.
+- 09/17 19:05 [financialjuice] Canada's PM Carney: Canada can provide LNG, and hydrogen at large scale to the EU
+- 09/17 19:05 [financialjuice] Canada's PM Carney: Canada and the EU can pool sovereign compute capacities
+- 09/17 19:06 [financialjuice] Canada's PM Carney: Canada and Europe should also explore creating an integrated market for financial services
+- 09/17 19:06 [FirstSquawk] CARNEY STATES NO PLAN FOR A THIRD BLOC TO BECOME A GREAT POWER OPPONENT.
+- 09/17 19:06 [financialjuice] Canada's PM Carney: I am not proposing a third bloc in order to become a great-power rival
+- 09/17 19:08 [financialjuice] ECB's Rehn: Liberal democracies are being tested in many EU economies
+- 09/17 19:09 [financialjuice] ECB's Rehn: Middle-east conflict looks like it will be protracted
+- 09/17 19:09 [financialjuice] Japan's PM Takaichi: Won't rely on deficit-financing bonds to fund food sales tax cut, we have prospects for funding resources
+- 09/17 19:09 [financialjuice] ECB's Rehn: No sign of second-round effects so far
+- 09/17 19:16 [FirstSquawk] EXPLOSIONS HEARD NEAR UKRAINE-POLAND BORDER DURING RUSSIAN DRONE STRIKE, SAYS UKRAINIAN OFFICIAL.
+- 09/17 19:16 [financialjuice] PBOC's Xuan discusses PayPal's China development with executive $PYPL
