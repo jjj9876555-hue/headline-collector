@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 07:52 JST／対象: 09/17 07:52 〜 09/18 07:52 JST（時刻はすべて日本時間）
+生成: 2026-09-18 08:04 JST／対象: 09/17 08:04 〜 09/18 08:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 13 | 09/17 08:04 | 09/18 06:19 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 335 | 09/17 07:52 | 09/18 07:46 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 260 | 09/17 08:10 | 09/18 07:45 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 332 | 09/17 08:04 | 09/18 08:01 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 261 | 09/17 08:10 | 09/18 08:00 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 597 行（統合前 615 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 595 行（統合前 612 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 07:52 [FirstSquawk] US HOUSE HAS ENOUGH VOTES TO PASS DATA CENTER COST BILL; VOTING CONTINUES
-- 09/17 07:53 [FirstSquawk] US HOUSE PASSES BILL TO SHIFT ELECTRICAL GRID UPGRADE COSTS TO DATA CENTERS
-- 09/17 08:02 [FirstSquawk] APPLE'S COOK: TO ATTEND TRUMP DINNER FOR CHINA'S XI NEXT WEEK
-- 09/17 08:02 [FirstSquawk] SALESFORCE: FORECASTS FY2030 SALES OF $63B (EST $61.4B)
-- 09/17 08:02 [FirstSquawk] IMF SAYS ON AUSTRALIA THAT IT SEES GDP GROWTH AT 1.9% IN 2026 AND 1.6% IN 2027, ADDING THAT MAJOR TAX REFORM COULD BOOST GROWTH AND STRENGTHEN PUBLIC FINANCES AND CALLING FOR A MORE AMBITIOUS PRODUCTIVITY REFORM PROGRAMME.
-- 09/17 08:03 [FirstSquawk] IMF SAYS THE RBA SHOULD MAINTAIN A TIGHTENING BIAS AND BE READY TO HIKE AS NEEDED, WITH INFLATION RISKS REMAINING TILTED TO THE UPSIDE AND UNCERTAINTY OVER WHETHER FINANCIAL CONDITIONS ARE RESTRICTIVE ENOUGH, ADDING THAT FISCAL CONSOLIDATIO…
 - 09/17 08:04 [DeItaone] TRUMP LASHES OUT AT FED AFTER WARSH BACKS RATE HIKE President Trump criticized the Fed after its unanimous 25bp hike to 3.75%–4.00%, demanding rates be cut to 1% or lower. Trump said he still has confidence in Fed Chair Kevin Warsh but call…
 - 09/17 08:04 [FirstSquawk] LENNAR POSTED Q3 REVENUE OF $8.05 BLN, BELOW THE $8.30 BLN ESTIMATE, WITH EPS OF $1.19 VERSUS $1.28 EXPECTED.
 - 09/17 08:04 [FirstSquawk] LENNAR SEES Q4 NEW ORDERS OF 19,500 TO 20,500 AND Q4 DELIVERIES OF 22,000 TO 23,000 VERSUS 24,080 EXPECTED.
@@ -69,6 +63,7 @@
 - 09/17 09:18 [FirstSquawk] 10-year JGB yield moves below 3%, down 0.5bp at 2.99%.
 - 09/17 09:19 [FirstSquawk] The renewed prospect of higher US interest rates is reshaping market positioning, as investors weigh potential beneficiaries of elevated yields and continued inflation pressure - Benzinga
 - 09/17 09:20 [FirstSquawk] Trump: Says Washington and Mexico are nearing a new agreement, calling it a “great deal.”
+- 09/17 09:21 [FirstSquawk] Apple's Cook: To Attend Trump Dinner For China's Xi Next Week
 - 09/17 09:23 [FirstSquawk] Axios reports the meeting may include a wider group of leaders from Arab and Islamic countries.
 - 09/17 09:24 [FirstSquawk] US Fed delivers its first rate hike since July 2023, lifting the federal funds target range by 25bp to 3.75%-4% amid ongoing inflation pressure.
 - 09/17 09:24 [financialjuice] China PBOC seen setting yuan midpoint at 6.7241 per dollar: estimate
@@ -621,3 +616,6 @@
 - 09/18 07:45 [financialjuice] NEW ZEALAND EXPORTS ACTUAL 6.66B (FORECAST -, PREVIOUS 7.39B ,REVISION 7.22B) $MACRO
 - 09/18 07:45 [financialjuice] NEW ZEALAND IMPORTS ACTUAL 8.00B (FORECAST -, PREVIOUS 9.34B ,REVISION 9.33B) $MACRO
 - 09/18 07:46 [FirstSquawk] NEW ZEALAND'S AUGUST TRADE BALANCE SHOWED A DEFICIT OF NZ$1,349 MLN, NARROWER THAN THE PRIOR NZ$1,949 MLN, WITH EXPORTS AT NZ$6.66 BLN AND IMPORTS AT NZ$8.00 BLN, WHILE THE FOOD PRICE INDEX ROSE 0.3% MONTH-ON-MONTH VERSUS A PRIOR 0.1%
+- 09/18 08:00 [financialjuice] South Korea prolongs fuel-tax reductions by two months until end of November: finance ministry
+- 09/18 08:01 [FirstSquawk] WHITE HOUSE WITHDRAWS NOMINATION OF FORMER DELTA PILOT JEFFREY ANDERSON FOR KEY INTERNATIONAL AVIATION POST
+- 09/18 08:01 [FirstSquawk] JANA PARTNERS PUSHES COOPER COS. TO REPLACE CEO AND CONSIDER SALE OF CORE BUSINESSES — WSJ

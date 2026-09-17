@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 07:52 JST／対象: 09/18 01:52 〜 09/18 07:52 JST（時刻はすべて日本時間）
+生成: 2026-09-18 08:04 JST／対象: 09/18 02:04 〜 09/18 08:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/18 02:10 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 57 | 09/18 01:54 | 09/18 07:46 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 50 | 09/18 01:55 | 09/18 07:45 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 54 | 09/18 02:24 | 09/18 08:01 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 43 | 09/18 02:07 | 09/18 08:00 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 106 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 96 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 01:54 [FirstSquawk] FRENCH FINANCE MINISTRY SEES 2026 DEFICIT AT 5.4% GDP
-- 09/18 01:54 [FirstSquawk] NORTHROP CEO SAYS CO PLANNING FIRST SENTINEL MISSILE TEST IN 2027, WHICH IS EARLIER THAN WAS ANTICIPATED
-- 09/18 01:55 [FirstSquawk] NVIDIA COMMITS $2 BILLION TO BROOKFIELD AI FUND
-- 09/18 01:55 [financialjuice] Nvidia commits $2 billion to Brookfield AI fund. $NVDA
-- 09/18 01:57 [FirstSquawk] TRUMP SAID IN AN INTERVIEW WITH AXIOS THAT HE IS AT A TURNING POINT IN THE IRAN WAR, DECIDING WHETHER TO RESUME LARGE-SCALE ATTACKS TO END THE CONFLICT.
-- 09/18 01:57 [financialjuice] ❗ Trump tells Axios he's approaching major crossroads in Iran war
-- 09/18 01:59 [financialjuice] Trump on Iran: I have a big decision coming up - Axios
-- 09/18 01:59 [FirstSquawk] TRUMP TO AXIOS: WANT TO TALK WITH ALLIES AT UN ABOUT IRAN STEPS
-- 09/18 01:59 [financialjuice] Senior US Official to Al Jazeera: Focused on ensuring navigation in the Red Sea and paving the way for our partners to manage security challenges.
-- 09/18 02:00 [financialjuice] WI 10 Yr TIPS yield about 2.634% before $19 billion auction
-- 09/18 02:02 [financialjuice] US 10-YEAR TIPS HIGH YIELD ACTUAL 2.653% (FORECAST -, PREVIOUS 2.438%) $MACRO
-- 09/18 02:02 [financialjuice] US 10-YEAR TIPS BID-TO-COVER ACTUAL 2.240 (FORECAST -, PREVIOUS 2.300) $MACRO
-- 09/18 02:04 [financialjuice] US 10 Yr TIPS Auction High yield 2.653% (Tail of 1.9 BPS) Bid-to-Cover 2.24 Sells $19 bln Awards 93.14% of bids at high Primary dealers take 12.18% Direct 28.7% Indirect 59.12%
 - 09/18 02:07 [financialjuice] Iran downed at least 2 unmanned American aircraft recently - CBS
 - 09/18 02:09 [financialjuice] Fitch Ratings: Low August US defaults reflect seasonal slowdown as market concern loans build
 - 09/18 02:10 [DeItaone] IRAN DOWNED AT LEAST 2 UNMANNED AMERICAN AIRCRAFT IN RECENT DAYS, U.S. OFFICIALS SAY- CBS NEWS
@@ -130,3 +117,6 @@
 - 09/18 07:45 [financialjuice] NEW ZEALAND EXPORTS ACTUAL 6.66B (FORECAST -, PREVIOUS 7.39B ,REVISION 7.22B) $MACRO
 - 09/18 07:45 [financialjuice] NEW ZEALAND IMPORTS ACTUAL 8.00B (FORECAST -, PREVIOUS 9.34B ,REVISION 9.33B) $MACRO
 - 09/18 07:46 [FirstSquawk] NEW ZEALAND'S AUGUST TRADE BALANCE SHOWED A DEFICIT OF NZ$1,349 MLN, NARROWER THAN THE PRIOR NZ$1,949 MLN, WITH EXPORTS AT NZ$6.66 BLN AND IMPORTS AT NZ$8.00 BLN, WHILE THE FOOD PRICE INDEX ROSE 0.3% MONTH-ON-MONTH VERSUS A PRIOR 0.1%
+- 09/18 08:00 [financialjuice] South Korea prolongs fuel-tax reductions by two months until end of November: finance ministry
+- 09/18 08:01 [FirstSquawk] WHITE HOUSE WITHDRAWS NOMINATION OF FORMER DELTA PILOT JEFFREY ANDERSON FOR KEY INTERNATIONAL AVIATION POST
+- 09/18 08:01 [FirstSquawk] JANA PARTNERS PUSHES COOPER COS. TO REPLACE CEO AND CONSIDER SALE OF CORE BUSINESSES — WSJ
