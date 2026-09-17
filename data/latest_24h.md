@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 22:36 JST／対象: 09/16 22:36 〜 09/17 22:36 JST（時刻はすべて日本時間）
+生成: 2026-09-17 22:52 JST／対象: 09/16 22:52 〜 09/17 22:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 09/16 22:37 | 09/17 22:31 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 404 | 09/16 22:37 | 09/17 22:35 | 32分（05:10→05:42） |
-| financialjuice | 326 | 09/16 22:38 | 09/17 22:31 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 43 | 09/16 23:46 | 09/17 22:31 | ⚠ 483分（08:04→16:07） |
+| FirstSquawk | 399 | 09/16 22:54 | 09/17 22:50 | 32分（05:10→05:42） |
+| financialjuice | 326 | 09/16 22:54 | 09/17 22:43 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 759 行（統合前 779 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 753 行（統合前 773 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 22:37 [FirstSquawk] U.S. ENERGY SECRETARY WRIGHT: GETTING MORE FLOW THROUGH BAB EL-MANDEB STRAIT WOULD BE HELPFUL -FOX NEWS
-- 09/16 22:37 [FirstSquawk] U.S. ENERGY SECRETARY WRIGHT: 18 MLN BARRELS FLOWED OUT OF PERSIAN GULF YESTERDAY -FOX NEWS
-- 09/16 22:37 [FirstSquawk] U.S. ENERGY SECRETARY: OIL AND GAS PRODUCER TO ANNOUNCE MAJOR INVESTMENT INTO VENEZUELA -FOX
-- 09/16 22:37 [DeItaone] WRIGHT: 18 MLN BARRELS FLOWED OUT OF PERSIAN GULF YESTERDAY
-- 09/16 22:38 [FirstSquawk] EU’S DOMBROVSKIS: ITALIAN EXIT FROM EU DEFICIT PLAN 'STILL POSSIBLE'
-- 09/16 22:38 [financialjuice] US Energy Secretary Wright: Oil and gas producer to announce major investment into Venezuela - Fox
-- 09/16 22:38 [financialjuice] China considers BYD for CEO delegation at Xi-Trump summit.
-- 09/16 22:42 [FirstSquawk] WHO OFFICIAL SAYS MORE THAN 3,000 HEALTHCARE, FRONTLINE WORKERS IN DRC HAVE RECEIVED EBOLA VACCINE
-- 09/16 22:46 [FirstSquawk] US ENERGY SEC. WRIGHT ON VENEZUELA ANNOUNCEMENT: “GOING TO HEAR ABOUT A SIGNIFICANT OIL AND GAS PRODUCER THAT PLAYED A BIG ROLE IN LAUNCHING THE SHALE REVOLUTION, THEY'RE GOING TO ANNOUNCE A MAJOR INVESTMENT INTO VENEZUELA”
-- 09/16 22:50 [financialjuice] Russian Urals oil prices jumped above $110 per barrel on Tuesday on strong demand and firm Brent - data shows
 - 09/16 22:54 [FirstSquawk] US IDENTIFIES MEXICO, CHINA AS MAJOR DRUG TRANSIT COUNTRIES
 - 09/16 22:54 [financialjuice] US identifies Mexico and China as major drug transit countries.
 - 09/16 22:56 [FirstSquawk] US: CANADA, MEXICO NEED TO MORE TO STOP DRUG FLOW
@@ -783,3 +773,7 @@
 - 09/17 22:31 [DeItaone] SOME CRYPTO STOCKS RISE AFTER US SECURITIES REGULATOR ROLLS OUT FIVE-YEAR EXEMPTION FOR TOKENIZED STOCK TRADING
 - 09/17 22:35 [FirstSquawk] US TO INVEST HUNDREDS OF MILLIONS OF DOLLARS IN NIGER'S URANIUM MINING SECTOR, YEARS AFTER TROOPS WERE EXPELLED, COMPANY STATEMENT AND SOURCES SAY
 - 09/17 22:35 [FirstSquawk] US OFFICIALS LOBBIED TO PREVENT URANIUM, A CRITICAL MINERAL, FROM FALLING INTO RIVAL HANDS, SOURCES SAY
+- 09/17 22:37 [financialjuice] Nebius to raise GPU rates for Nvidia H100, H200, B200 and B300. $NVDA
+- 09/17 22:39 [financialjuice] EU Commission team to travel to Beijing later in September.
+- 09/17 22:43 [financialjuice] EU's Sefcovic to meet Chinese counterpart Wang on October 8-9 - EU Commission
+- 09/17 22:50 [FirstSquawk] DEBRIS FROM AN INTERCEPTED HOUTHI DRONE KILLED ONE PERSON, THE FIRST DEATH SINCE FIGHTING HAS ESCALATED, SAUDI CIVIL DEFENSE SAYS.

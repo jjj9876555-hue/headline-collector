@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 22:36 JST／対象: 09/17 10:36 〜 09/17 22:36 JST（時刻はすべて日本時間）
+生成: 2026-09-17 22:52 JST／対象: 09/17 10:52 〜 09/17 22:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/17 16:07 | 09/17 22:31 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 172 | 09/17 10:39 | 09/17 22:35 | 29分（16:17→16:47） |
-| financialjuice | 142 | 09/17 11:49 | 09/17 22:31 | 45分（18:03→18:48） |
+| FirstSquawk | 171 | 09/17 10:56 | 09/17 22:50 | 29分（16:17→16:47） |
+| financialjuice | 145 | 09/17 11:49 | 09/17 22:43 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 315 行（統合前 318 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 317 行（統合前 320 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 10:39 [FirstSquawk] Shares of SoftBank Group gain 3%.
-- 09/17 10:47 [FirstSquawk] WSJ: Oil declines amid expectations that efforts to contain the Middle East supply disruption could ease pressure on crude markets.
 - 09/17 10:56 [FirstSquawk] WSJ: States are waiting for Covid vaccines for children, with the CDC yet to begin the ordering process, raising concerns over rollout delays.
 - 09/17 11:02 [FirstSquawk] China’s gold industry stocks slide 5%.
 - 09/17 11:10 [FirstSquawk] Takaichi to unveil a reshuffled Cabinet, with major ministers expected to keep their positions.
@@ -339,3 +337,7 @@
 - 09/17 22:31 [DeItaone] SOME CRYPTO STOCKS RISE AFTER US SECURITIES REGULATOR ROLLS OUT FIVE-YEAR EXEMPTION FOR TOKENIZED STOCK TRADING
 - 09/17 22:35 [FirstSquawk] US TO INVEST HUNDREDS OF MILLIONS OF DOLLARS IN NIGER'S URANIUM MINING SECTOR, YEARS AFTER TROOPS WERE EXPELLED, COMPANY STATEMENT AND SOURCES SAY
 - 09/17 22:35 [FirstSquawk] US OFFICIALS LOBBIED TO PREVENT URANIUM, A CRITICAL MINERAL, FROM FALLING INTO RIVAL HANDS, SOURCES SAY
+- 09/17 22:37 [financialjuice] Nebius to raise GPU rates for Nvidia H100, H200, B200 and B300. $NVDA
+- 09/17 22:39 [financialjuice] EU Commission team to travel to Beijing later in September.
+- 09/17 22:43 [financialjuice] EU's Sefcovic to meet Chinese counterpart Wang on October 8-9 - EU Commission
+- 09/17 22:50 [FirstSquawk] DEBRIS FROM AN INTERCEPTED HOUTHI DRONE KILLED ONE PERSON, THE FIRST DEATH SINCE FIGHTING HAS ESCALATED, SAUDI CIVIL DEFENSE SAYS.

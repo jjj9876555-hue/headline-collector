@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 22:36 JST／対象: 09/17 16:36 〜 09/17 22:36 JST（時刻はすべて日本時間）
+生成: 2026-09-17 22:52 JST／対象: 09/17 16:52 〜 09/17 22:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/17 18:43 | 09/17 22:31 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 85 | 09/17 16:47 | 09/17 22:35 | 23分（17:32→17:56） |
-| financialjuice | 102 | 09/17 16:47 | 09/17 22:31 | 45分（18:03→18:48） |
+| FirstSquawk | 79 | 09/17 16:54 | 09/17 22:50 | 23分（17:32→17:56） |
+| financialjuice | 102 | 09/17 17:06 | 09/17 22:43 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 181 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 16:47 [FirstSquawk] ECB'S MAKHLOUF SAYS THERE ARE NO SIGNS OF WORRYING SECOND-ROUND EFFECTS.
-- 09/17 16:47 [FirstSquawk] ECB'S MAKHLOUF SAYS FUTURE PROSPECTS ARE UNCERTAIN.
-- 09/17 16:47 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE ATTACKED RUSSIA'S YAROSLAVL REFINERY.
-- 09/17 16:47 [financialjuice] ECB's Makhlouf: Not seeing sign of concerning 2nd-round effects.
-- 09/17 16:47 [financialjuice] ECB's Makhlouf: Risks to inflation remain on upside.
-- 09/17 16:48 [financialjuice] ECB's Makhlouf: Can't rule out anything at future meetings.
-- 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF SAYS INFLATION RISKS STILL FAVOR HIGHER LEVELS.
-- 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF STATED THAT EVERY MEETING IS CONSIDERED A LIVE MEETING DUE TO UNCERTAINTIES.
-- 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF SAYS NOTHING IS OFF THE TABLE FOR FUTURE MEETINGS.
-- 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF SAYS MARKETS RECOGNIZE OUR FOCUS ON 2% INFLATION TARGET.
 - 09/17 16:54 [FirstSquawk] MAKHLOUF SAYS ECB SHOULD STICK TO 2% MEDIUM-TERM GOAL.
 - 09/17 17:03 [FirstSquawk] INDIA’S US TREASURY PURCHASES HIT RECORD $15.2 BILLION AS RBI DOLLAR INFLOWS SURGE
 - 09/17 17:06 [financialjuice] Russian drone strike on Tanzania-flagged ship headed to Ukrainian port kills one, injures three crew: Ukraine's infrastructure ministry
@@ -211,3 +201,7 @@
 - 09/17 22:31 [DeItaone] SOME CRYPTO STOCKS RISE AFTER US SECURITIES REGULATOR ROLLS OUT FIVE-YEAR EXEMPTION FOR TOKENIZED STOCK TRADING
 - 09/17 22:35 [FirstSquawk] US TO INVEST HUNDREDS OF MILLIONS OF DOLLARS IN NIGER'S URANIUM MINING SECTOR, YEARS AFTER TROOPS WERE EXPELLED, COMPANY STATEMENT AND SOURCES SAY
 - 09/17 22:35 [FirstSquawk] US OFFICIALS LOBBIED TO PREVENT URANIUM, A CRITICAL MINERAL, FROM FALLING INTO RIVAL HANDS, SOURCES SAY
+- 09/17 22:37 [financialjuice] Nebius to raise GPU rates for Nvidia H100, H200, B200 and B300. $NVDA
+- 09/17 22:39 [financialjuice] EU Commission team to travel to Beijing later in September.
+- 09/17 22:43 [financialjuice] EU's Sefcovic to meet Chinese counterpart Wang on October 8-9 - EU Commission
+- 09/17 22:50 [FirstSquawk] DEBRIS FROM AN INTERCEPTED HOUTHI DRONE KILLED ONE PERSON, THE FIRST DEATH SINCE FIGHTING HAS ESCALATED, SAUDI CIVIL DEFENSE SAYS.
