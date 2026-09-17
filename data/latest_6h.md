@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 04:15 JST／対象: 09/17 22:15 〜 09/18 04:15 JST（時刻はすべて日本時間）
+生成: 2026-09-18 04:31 JST／対象: 09/17 22:31 〜 09/18 04:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/17 22:31 | 09/18 02:59 | ⚠ 87分（00:42→02:10） |
-| FirstSquawk | 65 | 09/17 22:24 | 09/18 03:49 | 25分（01:59→02:24） |
-| financialjuice | 66 | 09/17 22:31 | 09/18 03:45 | 29分（02:34→03:04） |
+| DeItaone | 7 | 09/17 23:42 | 09/18 02:59 | ⚠ 87分（00:42→02:10） |
+| FirstSquawk | 63 | 09/17 22:35 | 09/18 03:49 | 25分（01:59→02:24） |
+| financialjuice | 67 | 09/17 22:37 | 09/18 04:30 | 38分（03:45→04:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 134 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 22:24 [FirstSquawk] MICROSOFT, MARVELL, AND UTIMACO ARE COLLABORATING TO INTRODUCE A FIRST-OF-ITS-KIND SECURE PAYMENTS SOLUTION THAT CAN SCALE WITH CLOUD TECHNOLOGY.
-- 09/17 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -26.3 MLN NASDAQ 100: 1.8 MLN DOW 30: -10.4 MLN MAG 7: 9.3 MLN $MACRO
-- 09/17 22:31 [FirstSquawk] NASDAQ UP 397.63 POINTS, OR 1.53 PERCENT, AT 26,376.05 AFTER MARKET OPEN S&P 500 UP 88.67 POINTS, OR 1.17 %, AT 7,640.48 AFTER MARKET OPEN DOW JONES UP 413.71 POINTS, OR 0.80 PERCENT, AT 51,875.61 AFTER MARKET OPEN
-- 09/17 22:31 [DeItaone] SOME CRYPTO STOCKS RISE AFTER US SECURITIES REGULATOR ROLLS OUT FIVE-YEAR EXEMPTION FOR TOKENIZED STOCK TRADING
 - 09/17 22:35 [FirstSquawk] US TO INVEST HUNDREDS OF MILLIONS OF DOLLARS IN NIGER'S URANIUM MINING SECTOR, YEARS AFTER TROOPS WERE EXPELLED, COMPANY STATEMENT AND SOURCES SAY
 - 09/17 22:35 [FirstSquawk] US OFFICIALS LOBBIED TO PREVENT URANIUM, A CRITICAL MINERAL, FROM FALLING INTO RIVAL HANDS, SOURCES SAY
 - 09/17 22:37 [financialjuice] Nebius to raise GPU rates for Nvidia H100, H200, B200 and B300. $NVDA
@@ -160,3 +156,5 @@
 - 09/18 03:49 [FirstSquawk] IRANIAN DELEGATION GRANTED VISAS FOR UN GENERAL ASSEMBLY - ABC
 - 09/18 03:49 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.95% LOWER AT $104.82/BBL, DOWN $1.01
 - 09/18 03:49 [FirstSquawk] BARCLAYS NOW EXPECTS BOE TO HIKE RATES 25BP IN NOVEMBER & FEBRUARY 2027, CITING PERSISTENT INFLATION RISKS AND MIDDLE EAST CONFLICT
+- 09/18 04:24 [financialjuice] Friday FX Option Expiries
+- 09/18 04:30 [financialjuice] UKMTO has received a report of a security incident in the Strait of Hormuz 16NM northeast of Khasab, Oman.

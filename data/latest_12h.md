@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 04:15 JST／対象: 09/17 16:15 〜 09/18 04:15 JST（時刻はすべて日本時間）
+生成: 2026-09-18 04:31 JST／対象: 09/17 16:31 〜 09/18 04:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/17 18:43 | 09/18 02:59 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 150 | 09/17 16:17 | 09/18 03:49 | 29分（16:17→16:47） |
-| financialjuice | 171 | 09/17 16:17 | 09/18 03:45 | 45分（18:03→18:48） |
+| FirstSquawk | 146 | 09/17 16:47 | 09/18 03:49 | 25分（01:59→02:24） |
+| financialjuice | 170 | 09/17 16:35 | 09/18 04:30 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 325 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 320 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 16:17 [FirstSquawk] EU SPOKESPERSON SAID CANADA PARTNERSHIP ENHANCEMENT IS NOT AIMED AT OTHERS, BUT TO BOOST COMMON STRENGTH AMID TRUMP'S TARIFF THREATS.
-- 09/17 16:17 [financialjuice] Xu: Huawei has a bigger China AI chip market share than Nvidia $NVDA
-- 09/17 16:17 [FirstSquawk] HUAWEI IS TRIALING ITS AI CHIPS IN SELECT OVERSEAS MARKETS.
-- 09/17 16:17 [FirstSquawk] CHINA AND US ECONOMIC TEAMS ARE DISCUSSING TARIFFS, SAYS MOFCOM.
-- 09/17 16:17 [FirstSquawk] HUAWEI HOLDS A LARGER SHARE OF CHINA'S AI CHIP MARKET THAN NVIDIA, SAYS XU.
-- 09/17 16:19 [financialjuice] Kazakhstan's oil output seen at 96 mln tons in 2028, 99 million tons in 2029 - IFX
-- 09/17 16:26 [financialjuice] Azerbaijan oil output falls 8.3% y/y to 2.2m tons in August - IFX
 - 09/17 16:35 [financialjuice] Huawei faces constraints in expanding production for AI chips.
 - 09/17 16:47 [FirstSquawk] ECB'S MAKHLOUF SAYS THERE ARE NO SIGNS OF WORRYING SECOND-ROUND EFFECTS.
 - 09/17 16:47 [FirstSquawk] ECB'S MAKHLOUF SAYS FUTURE PROSPECTS ARE UNCERTAIN.
@@ -349,3 +342,5 @@
 - 09/18 03:49 [FirstSquawk] IRANIAN DELEGATION GRANTED VISAS FOR UN GENERAL ASSEMBLY - ABC
 - 09/18 03:49 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.95% LOWER AT $104.82/BBL, DOWN $1.01
 - 09/18 03:49 [FirstSquawk] BARCLAYS NOW EXPECTS BOE TO HIKE RATES 25BP IN NOVEMBER & FEBRUARY 2027, CITING PERSISTENT INFLATION RISKS AND MIDDLE EAST CONFLICT
+- 09/18 04:24 [financialjuice] Friday FX Option Expiries
+- 09/18 04:30 [financialjuice] UKMTO has received a report of a security incident in the Strait of Hormuz 16NM northeast of Khasab, Oman.

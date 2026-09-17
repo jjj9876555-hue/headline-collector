@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 04:15 JST／対象: 09/17 04:15 〜 09/18 04:15 JST（時刻はすべて日本時間）
+生成: 2026-09-18 04:31 JST／対象: 09/17 04:31 〜 09/18 04:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/17 04:35 | 09/18 02:59 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 355 | 09/17 04:23 | 09/18 03:49 | 32分（05:10→05:42） |
-| financialjuice | 256 | 09/17 04:22 | 09/18 03:45 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 354 | 09/17 04:47 | 09/18 03:49 | 32分（05:10→05:42） |
+| financialjuice | 257 | 09/17 04:38 | 09/18 04:30 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 624 行（統合前 642 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 04:22 [financialjuice] Thursday FX Option Expiries
-- 09/17 04:23 [FirstSquawk] US DOLLAR INDEX JUMPS 0.61% TO 100.28, ON TRACK FOR BIGGEST DAILY GAIN SINCE JUNE 17
 - 09/17 04:35 [DeItaone] White House says Fed rate hike 'unfortunate'
 - 09/17 04:38 [financialjuice] ❗ Banks line up a $22b chip loan tied to Blackstone and Alphabet. $BLK $GOOGL
 - 09/17 04:38 [financialjuice] Banks line up a $22b chip loan tied to Blackstone and Alphabet. $BX $GOOGL
@@ -648,3 +646,5 @@
 - 09/18 03:49 [FirstSquawk] IRANIAN DELEGATION GRANTED VISAS FOR UN GENERAL ASSEMBLY - ABC
 - 09/18 03:49 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.95% LOWER AT $104.82/BBL, DOWN $1.01
 - 09/18 03:49 [FirstSquawk] BARCLAYS NOW EXPECTS BOE TO HIKE RATES 25BP IN NOVEMBER & FEBRUARY 2027, CITING PERSISTENT INFLATION RISKS AND MIDDLE EAST CONFLICT
+- 09/18 04:24 [financialjuice] Friday FX Option Expiries
+- 09/18 04:30 [financialjuice] UKMTO has received a report of a security incident in the Strait of Hormuz 16NM northeast of Khasab, Oman.
