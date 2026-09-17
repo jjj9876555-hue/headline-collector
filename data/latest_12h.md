@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 21:48 JST／対象: 09/17 09:48 〜 09/17 21:48 JST（時刻はすべて日本時間）
+生成: 2026-09-17 22:01 JST／対象: 09/17 10:01 〜 09/17 22:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/17 16:07 | 09/17 18:43 | ⚠ 156分（16:07→18:43） |
-| FirstSquawk | 188 | 09/17 09:48 | 09/17 21:44 | 29分（16:17→16:47） |
-| financialjuice | 151 | 09/17 09:58 | 09/17 21:44 | ⚠ 78分（10:31→11:49） |
+| DeItaone | 3 | 09/17 16:07 | 09/17 21:58 | ⚠ 194分（18:43→21:58） |
+| FirstSquawk | 187 | 09/17 10:01 | 09/17 22:00 | 29分（16:17→16:47） |
+| financialjuice | 151 | 09/17 10:01 | 09/17 22:01 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 339 行（統合前 341 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 338 行（統合前 341 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 09:48 [FirstSquawk] AP: A sweeping Russia sanctions bill has cleared the House and is now awaiting President Trump’s signature to become law.
-- 09/17 09:51 [FirstSquawk] 5-year JGB yield ticks higher by 0.5bp to 2.285% in the latest trading.
-- 09/17 09:54 [FirstSquawk] China will promote cooperation on SMR technology, strengthen joint training of professionals and use multilateral platforms to broaden international collaboration, CAEA Director Shan Zhongde said.
-- 09/17 09:58 [financialjuice] South Korea foreign minister: military deployment to Hormuz Strait remains undecided
-- 09/17 09:59 [FirstSquawk] South Korea says it has yet to decide whether to deploy military forces to the Strait of Hormuz, the foreign minister says.
-- 09/17 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% matching previous session open
-- 09/17 10:01 [financialjuice] South Korea foreign minister: US investment pact announcement delayed to clarify procedural matters
 - 09/17 10:01 [financialjuice] South Korea foreign minister: US investment pact also on agenda in US-Korea foreign ministers meeting
 - 09/17 10:01 [FirstSquawk] Taiwan overnight interbank rate starts at 0.805%, flat versus the previous session’s opening level.
 - 09/17 10:02 [FirstSquawk] FT reports that the EU plans to bar children under 15 from accessing social media, selected gaming platforms and AI chatbots without parental oversight.
@@ -363,3 +356,9 @@
 - 09/17 21:35 [financialjuice] CANADIAN RMPI MOM ACTUAL 3.1% (FORECAST 0.8%, PREVIOUS -2.2%) $MACRO
 - 09/17 21:44 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS IRAN-BACKED YEMEN'S HOUTHIS LAUNCHED DRONE AT SAUDI TAIF - STATE TV
 - 09/17 21:44 [financialjuice] Saudi Civil Defense: Iran-backed Yemen's Houthis launched drone at Saudi Taif - State TV
+- 09/17 21:52 [FirstSquawk] UK 30-YEAR GILT YIELDS DROP 11 BPS ON DAY, ON COURSE FOR BIGGEST ONE-DAY FALL SINCE MAY 20 AFTER BOE HALTS LONG-DATED GILT SALES
+- 09/17 21:57 [FirstSquawk] CHRYSLER (FCA US, LLC) IS RECALLING 97,349 U.S. VEHICLES - NHTSA
+- 09/17 21:58 [financialjuice] Standard Chartered expects US Fed to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of no policy change this year
+- 09/17 21:58 [DeItaone/FirstSquawk] STANDARD CHARTERED EXPECTS US FED TO DELIVER A 25 BP RATE HIKE IN DECEMBER 2026 VS PRIOR FORECAST OF NO POLICY CHANGE THIS YEAR
+- 09/17 22:00 [financialjuice] Effective Fed Funds Rate 3.63% September 16 vs 3.63% September 15.
+- 09/17 22:01 [financialjuice] Microsoft, Marvell and UTIMACO to deliver industry-first secure, cloud-scale payments solution. $MSFT

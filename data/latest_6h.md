@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 21:48 JST／対象: 09/17 15:48 〜 09/17 21:48 JST（時刻はすべて日本時間）
+生成: 2026-09-17 22:01 JST／対象: 09/17 16:01 〜 09/17 22:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/17 16:07 | 09/17 18:43 | ⚠ 156分（16:07→18:43） |
-| FirstSquawk | 80 | 09/17 15:58 | 09/17 21:44 | 29分（16:17→16:47） |
-| financialjuice | 104 | 09/17 16:01 | 09/17 21:44 | 45分（18:03→18:48） |
+| DeItaone | 3 | 09/17 16:07 | 09/17 21:58 | ⚠ 194分（18:43→21:58） |
+| FirstSquawk | 82 | 09/17 16:17 | 09/17 22:00 | 29分（16:17→16:47） |
+| financialjuice | 107 | 09/17 16:01 | 09/17 22:01 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 184 行（統合前 186 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 189 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 15:58 [FirstSquawk] Russia uses North Korean workers in drone production for its war effort in Ukraine, SCMP reports.
 - 09/17 16:01 [financialjuice] EU: Canada deal is 'for our common strength’ - Spokesman
 - 09/17 16:07 [DeItaone] *EU SAYS CANADA DEAL IS ‘NOT AGAINST ANYONE ELSE’: SPOKESMAN *EU SAYS CANADA DEAL IS ‘FOR OUR COMMON STRENGTH’: SPOKESMAN Comes after US President Trump’s response to the proposal yesterday: “If they do that, if I think it’s at all a hostil…
 - 09/17 16:13 [financialjuice] Huawei is testing its AI chips in limited foreign markets
@@ -208,3 +207,9 @@
 - 09/17 21:35 [financialjuice] CANADIAN RMPI MOM ACTUAL 3.1% (FORECAST 0.8%, PREVIOUS -2.2%) $MACRO
 - 09/17 21:44 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS IRAN-BACKED YEMEN'S HOUTHIS LAUNCHED DRONE AT SAUDI TAIF - STATE TV
 - 09/17 21:44 [financialjuice] Saudi Civil Defense: Iran-backed Yemen's Houthis launched drone at Saudi Taif - State TV
+- 09/17 21:52 [FirstSquawk] UK 30-YEAR GILT YIELDS DROP 11 BPS ON DAY, ON COURSE FOR BIGGEST ONE-DAY FALL SINCE MAY 20 AFTER BOE HALTS LONG-DATED GILT SALES
+- 09/17 21:57 [FirstSquawk] CHRYSLER (FCA US, LLC) IS RECALLING 97,349 U.S. VEHICLES - NHTSA
+- 09/17 21:58 [financialjuice] Standard Chartered expects US Fed to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of no policy change this year
+- 09/17 21:58 [DeItaone/FirstSquawk] STANDARD CHARTERED EXPECTS US FED TO DELIVER A 25 BP RATE HIKE IN DECEMBER 2026 VS PRIOR FORECAST OF NO POLICY CHANGE THIS YEAR
+- 09/17 22:00 [financialjuice] Effective Fed Funds Rate 3.63% September 16 vs 3.63% September 15.
+- 09/17 22:01 [financialjuice] Microsoft, Marvell and UTIMACO to deliver industry-first secure, cloud-scale payments solution. $MSFT
