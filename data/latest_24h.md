@@ -7,55 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 09:24 JST／対象: 09/16 09:24 〜 09/17 09:24 JST（時刻はすべて日本時間）
+生成: 2026-09-17 09:49 JST／対象: 09/16 09:49 〜 09/17 09:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 400 | 09/16 09:27 | 09/17 09:23 | 45分（17:00→17:45） |
-| financialjuice | 278 | 09/16 09:38 | 09/17 09:08 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 396 | 09/16 09:49 | 09/17 09:48 | 45分（17:00→17:45） |
+| financialjuice | 270 | 09/16 09:49 | 09/17 09:42 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 715 行（統合前 735 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 703 行（統合前 723 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 09:27 [FirstSquawk] Asia-Pacific stocks open mixed as investors digest Wall Street’s weak handover and position cautiously ahead of the Fed’s rate decision
-- 09/16 09:30 [FirstSquawk] AI is moving from the tech sector into China’s restaurant industry, as major chains explore ways to bring artificial intelligence into everyday dining. From smarter operations to AI-enabled customer experiences, restaurants are testing how …
-- 09/16 09:31 [FirstSquawk] Japan’s 5-year government bond yield edged lower, falling 0.5 basis points to 2.305%. The move marks a modest pullback in one of Japan’s key government bond yields as investors continue to assess the country’s rates and monetary-policy outl…
-- 09/16 09:32 [FirstSquawk] Australia’s Westpac Leading Index slipped into negative territory in August, falling 0.04% month-on-month, compared with a 0.03% rise previously. The reading points to a modest change in the near-term economic outlook, with the index moving…
-- 09/16 09:32 [FirstSquawk] Boeing has secured a major aircraft order from Korean Air, with the airline finalizing a deal for 103 jets across Boeing’s widebody and single-aisle families. The agreement adds to the pipeline for Boeing’s commercial aircraft business and …
-- 09/16 09:35 [FirstSquawk] A notable link between Britain’s financial and technology worlds: George Osborne, during his time as UK chancellor, appointed Mark Carney to lead the Bank of England. Separately, OpenAI paused a planned UK data centre project five months ag…
-- 09/16 09:37 [FirstSquawk] Beijing is hosting the Xiangshan Forum, marking the 20th anniversary of China’s major international defence conference. The gathering brings defence and security officials together as China continues to use the forum as a platform for discu…
-- 09/16 09:38 [financialjuice] China defence minister: global security management must be reinforced
-- 09/16 09:38 [financialjuice] China Defence Minister: we must establish a balanced and organized multipolar world
-- 09/16 09:38 [financialjuice] Japan Aug trade deficit 1.106 trillion yen: Ministry of Finance (poll:
-- 09/16 09:38 [FirstSquawk] China’s defence minister says global security governance must be strengthened, calling for greater attention to international security cooperation. The remarks come as Beijing hosts the Xiangshan Forum, where defence and security officials …
-- 09/16 09:38 [financialjuice] China defence minister: must seek new security approach focused on cooperation over conflict
-- 09/16 09:38 [FirstSquawk] China’s defence minister says the country must work toward building an “equal and orderly” multipolar world, emphasizing a broader vision for the global security landscape. The remarks come as Beijing hosts the Xiangshan Forum, bringing def…
-- 09/16 09:39 [FirstSquawk] China’s defence minister says the world must pursue a new approach to security built on collaboration rather than confrontation. The remarks come at the Xiangshan Forum in Beijing, where defence and security officials are discussing regiona…
-- 09/16 09:42 [financialjuice] China defence minister: we must support multilateralism
-- 09/16 09:43 [FirstSquawk] China’s defence minister says the country should uphold multilateralism, stressing the importance of cooperation in addressing global security challenges. The remarks come as Beijing hosts the Xiangshan Forum, where defence officials are di…
-- 09/16 09:43 [financialjuice] China defence minister: must consider legitimate security concerns of all relevant nations
-- 09/16 09:43 [FirstSquawk] China’s defence minister says the international security system must take into account the legitimate security concerns of all relevant countries.
-- 09/16 09:43 [financialjuice] China defence minister: support regional nations choosing their own future free from outside interference
-- 09/16 09:43 [FirstSquawk] China’s defence minister says regional countries should be supported in deciding their own future without external interference.
-- 09/16 09:45 [FirstSquawk] Gold is facing renewed pressure as expectations for higher interest rates and rising bond yields make the non-yielding metal less attractive - WSJ The rate outlook has become a key driver for precious metals, with investors watching the Fed…
-- 09/16 09:45 [financialjuice] China defence minister: must curb revival of regressive historical trends
-- 09/16 09:45 [financialjuice] China defence minister: provocative actions must not be tolerated
-- 09/16 09:46 [financialjuice] China defence minister: risk must be foreseen and eased early to stop minor friction becoming major dispute
-- 09/16 09:46 [FirstSquawk] Revolut is facing an escalating data-security crisis. The digital bank inadvertently provided sensitive information on roughly 680 customers to a scammer who posed as a government official and submitted fraudulent law-enforcement requests, …
-- 09/16 09:47 [FirstSquawk] China’s defence minister says the country must prevent the resurgence of regressive historical trends, as Beijing outlines its approach to the evolving global security environment.
-- 09/16 09:47 [financialjuice] China defence minister: military might can’t solve core issues, coercion will only widen rifts
-- 09/16 09:47 [FirstSquawk] China’s defence minister says provocative acts must not be allowed, calling for greater restraint as countries navigate an increasingly complex security environment.
-- 09/16 09:48 [FirstSquawk] China’s defence minister says security risks should be identified and defused early, warning that small areas of friction should not be allowed to escalate into major disputes.
-- 09/16 09:48 [FirstSquawk] China’s defence minister says military force cannot address the root causes of problems, arguing that coercion would only deepen divisions.
-- 09/16 09:48 [financialjuice] China defence minister: Beijing remains stabilizing force in ending hostilities
-- 09/16 09:49 [FirstSquawk] China’s defence minister says China remains a stabilising force in efforts to end hostilities, highlighting Beijing’s stated role in promoting security and reducing tensions. China positions itself as a stabilising force
 - 09/16 09:49 [financialjuice] China defence minister: international community must respect sovereignty and wishes of involved parties
 - 09/16 09:49 [FirstSquawk] China’s defence minister says the international community should respect the sovereignty and will of the parties concerned, stressing the importance of allowing those directly involved to determine their own course.
 - 09/16 09:50 [financialjuice] China defence minister: Chinese military ready to cooperate with all sides to maintain regional stability
@@ -739,3 +707,23 @@
 - 09/17 09:19 [FirstSquawk] The renewed prospect of higher US interest rates is reshaping market positioning, as investors weigh potential beneficiaries of elevated yields and continued inflation pressure - Benzinga
 - 09/17 09:20 [FirstSquawk] Trump: Says Washington and Mexico are nearing a new agreement, calling it a “great deal.”
 - 09/17 09:23 [FirstSquawk] Axios reports the meeting may include a wider group of leaders from Arab and Islamic countries.
+- 09/17 09:24 [FirstSquawk] US Fed delivers its first rate hike since July 2023, lifting the federal funds target range by 25bp to 3.75%-4% amid ongoing inflation pressure.
+- 09/17 09:24 [financialjuice] China PBOC seen setting yuan midpoint at 6.7241 per dollar: estimate
+- 09/17 09:28 [FirstSquawk] Trump on Iran: Says Americans are paying a higher gas price, but described it as “a very inexpensive price to pay” for what the US has achieved.
+- 09/17 09:30 [FirstSquawk] Trump says Iran has suffered major destruction, adding that the country “cannot go on.”
+- 09/17 09:31 [FirstSquawk] According to the New York Times, the Trump administration is taking steps that could remove a core protection provided by the Endangered Species Act.
+- 09/17 09:32 [FirstSquawk] 20-year JGB yield drops 2bp to 3.835%, marking a modest decline in Japan’s long-term bond market.
+- 09/17 09:35 [FirstSquawk] Treasury yields move modestly lower: US 10-year yield falls to 4.99%, while the 30-year yield declines to 5.33%.
+- 09/17 09:38 [FirstSquawk] Trump says the US could face an unprecedented economic downturn if Democrats return to power, arguing they “don’t know what the hell they’re doing.”
+- 09/17 09:39 [FirstSquawk] Trump describes himself as a “high IQ person.”
+- 09/17 09:40 [FirstSquawk] Brent oil futures slide over $1, trading at $104.81 per barrel.
+- 09/17 09:40 [financialjuice] South Korea finance minister: will introduce market stabilizing measures if needed
+- 09/17 09:40 [FirstSquawk] South Korea’s finance minister signals readiness to intervene with market-stabilizing measures when required.
+- 09/17 09:41 [FirstSquawk] 40-year JGB yield slips 7bp to 4.095% in the latest trading.
+- 09/17 09:41 [financialjuice] South Korea Finance Minister: overseeing local bond market, volatility expected to persist
+- 09/17 09:42 [financialjuice] United States denies Palestinian President Mahmoud Abbas entry visa for UN General Assembly in New York next week - AFP
+- 09/17 09:42 [FirstSquawk] South Korea finance minister: Local bond-market volatility is expected to persist, while authorities remain on watch.
+- 09/17 09:42 [FirstSquawk] AFP reports that Washington has denied Palestinian President Mahmoud Abbas a visa to travel to New York for the UN General Assembly next week.
+- 09/17 09:43 [FirstSquawk] Trump: “If we win, we are going to get you $5,000,” adding that it is “very simple.”
+- 09/17 09:48 [FirstSquawk] Saudi Arabia has asked France, Britain, Pakistan and Egypt for air-defense assistance as it faces sustained Houthi attacks and dwindling missile-interceptor stocks, AP reports.
+- 09/17 09:48 [FirstSquawk] AP: A sweeping Russia sanctions bill has cleared the House and is now awaiting President Trump’s signature to become law.

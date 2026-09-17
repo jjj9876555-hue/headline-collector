@@ -7,49 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 09:24 JST／対象: 09/16 21:24 〜 09/17 09:24 JST（時刻はすべて日本時間）
+生成: 2026-09-17 09:49 JST／対象: 09/16 21:49 〜 09/17 09:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 45 | 09/16 21:33 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 214 | 09/16 21:24 | 09/17 09:23 | 32分（05:10→05:42） |
-| financialjuice | 192 | 09/16 21:25 | 09/17 09:08 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 44 | 09/16 21:53 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
+| FirstSquawk | 219 | 09/16 21:57 | 09/17 09:48 | 32分（05:10→05:42） |
+| financialjuice | 182 | 09/16 21:49 | 09/17 09:42 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 438 行（統合前 456 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 432 行（統合前 450 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 21:24 [FirstSquawk] US WRIGHT: 18M BBL OF OIL WENT THROUGH HORMUZ YESTERDAY
-- 09/16 21:25 [financialjuice] US Energy Secretary Wright: We are looking at using DPA to increase refining capacity.
-- 09/16 21:26 [financialjuice] US Energy Secretary Wright: US oil company to talk Venezuela investment today.
-- 09/16 21:26 [FirstSquawk] WRIGHT SAYS US OIL COMPANY TO TALK VENEZUELA INVESTMENT TODAY
-- 09/16 21:26 [FirstSquawk] WRIGHT: LOOKING AT USING DPA TO INCREASE REFINING CAPACITY
-- 09/16 21:26 [FirstSquawk] WRIGHT REFERS TO DEFENSE PRODUCTION ACT
-- 09/16 21:27 [financialjuice] US Energy Secretary Wright: East-West pipeline damage assessments are ongoing
-- 09/16 21:27 [FirstSquawk] WRIGHT: EAST-WEST PIPELINE DAMAGE ASSESSMENTS ARE ONGOING || WRIGHT REITERATES SAUDI PIPELINE WILL BE RUNNING SOON
-- 09/16 21:28 [financialjuice] US Energy Secretary Wright on East-West pipeline: 3 pumping stations were hit.
-- 09/16 21:28 [financialjuice] US Energy Secretary Wright: The US will help escort refined product, not just crude
-- 09/16 21:29 [financialjuice] US Energy Secretary Wright: Daily bbl figures I give are refined plus crude
-- 09/16 21:30 [financialjuice] US Energy Secretary Wright, on Hormuz flow: 7-day average is 11m bbl/day
-- 09/16 21:30 [FirstSquawk] US RETAIL SALES (MOM) (AUG) ACTUAL: 1.2% VS -0.6% PREVIOUS; EST 0.8%
-- 09/16 21:30 [financialjuice] ‼ BREAKING: US RETAIL SALES MOM ACTUAL 1.2% (FORECAST 0.8%, PREVIOUS -0.6%) $MACRO
-- 09/16 21:30 [FirstSquawk] US CORE RETAIL SALES (MOM) (AUG) ACTUAL: 1.4% VS -0.3% PREVIOUS; EST 0.6%
-- 09/16 21:30 [financialjuice] US CORE RETAIL SALES MOM ACTUAL 1.4% (FORECAST 0.6%, PREVIOUS -0.3%) $MACRO
-- 09/16 21:30 [financialjuice] US EXPORT PRICES MOM ACTUAL 0.6% (FORECAST 0.6%, PREVIOUS -1.3%) $MACRO
-- 09/16 21:30 [financialjuice] US IMPORT PRICES MOM ACTUAL 0.7% (FORECAST 0.5%, PREVIOUS -0.4%) $MACRO
-- 09/16 21:30 [financialjuice] CANADIAN BUILDING PERMITS MOM ACTUAL -17.3% (FORECAST -4.8%, PREVIOUS 18.5% ,REVISION 18.3%) $MACRO
-- 09/16 21:31 [FirstSquawk] US ENERGY SEC. WRIGHT ON HORMUZ FLOW’S 7-DAY AVERAGE IS 11M BBL/DAY
-- 09/16 21:32 [financialjuice] US Retail Sales August Report
-- 09/16 21:33 [DeItaone] *US AUG. RETAIL SALES RISE 1.2% M/M; EST. +0.8% *US AUG. RETAIL 'CONTROL GROUP' SALES RISE 1.4% M/M; EST. +0.5%
-- 09/16 21:33 [financialjuice] US RETAIL SALES YOY ACTUAL 6.01% (FORECAST -, PREVIOUS 5.01%) $MACRO
-- 09/16 21:37 [FirstSquawk] SALESFORCE PLANNING TO BRING OPENAI MODELS TO GOVT ENVIRONMENTS
-- 09/16 21:44 [FirstSquawk] US MIDTERM ELECTIONS COULD IMPACT AI STOCKS AS MORE LAWMAKERS CALL FOR AI SAFETY REGULATIONS, RAISING CONCERNS.
-- 09/16 21:45 [FirstSquawk] US SAID TO ACCUSE N.KOREA OF 'SYSTEMIC EVASION' OF UN SANCTIONS
 - 09/16 21:49 [financialjuice] Iran, China foreign ministers discuss war, diplomatic solutions.
 - 09/16 21:51 [financialjuice] NYC council speaker asks Altman, Amodei to attend hearing - NYT.
 - 09/16 21:51 [financialjuice] NYC City Council plans public hearing on AI, October 5th - NYT
@@ -462,3 +436,23 @@
 - 09/17 09:19 [FirstSquawk] The renewed prospect of higher US interest rates is reshaping market positioning, as investors weigh potential beneficiaries of elevated yields and continued inflation pressure - Benzinga
 - 09/17 09:20 [FirstSquawk] Trump: Says Washington and Mexico are nearing a new agreement, calling it a “great deal.”
 - 09/17 09:23 [FirstSquawk] Axios reports the meeting may include a wider group of leaders from Arab and Islamic countries.
+- 09/17 09:24 [FirstSquawk] US Fed delivers its first rate hike since July 2023, lifting the federal funds target range by 25bp to 3.75%-4% amid ongoing inflation pressure.
+- 09/17 09:24 [financialjuice] China PBOC seen setting yuan midpoint at 6.7241 per dollar: estimate
+- 09/17 09:28 [FirstSquawk] Trump on Iran: Says Americans are paying a higher gas price, but described it as “a very inexpensive price to pay” for what the US has achieved.
+- 09/17 09:30 [FirstSquawk] Trump says Iran has suffered major destruction, adding that the country “cannot go on.”
+- 09/17 09:31 [FirstSquawk] According to the New York Times, the Trump administration is taking steps that could remove a core protection provided by the Endangered Species Act.
+- 09/17 09:32 [FirstSquawk] 20-year JGB yield drops 2bp to 3.835%, marking a modest decline in Japan’s long-term bond market.
+- 09/17 09:35 [FirstSquawk] Treasury yields move modestly lower: US 10-year yield falls to 4.99%, while the 30-year yield declines to 5.33%.
+- 09/17 09:38 [FirstSquawk] Trump says the US could face an unprecedented economic downturn if Democrats return to power, arguing they “don’t know what the hell they’re doing.”
+- 09/17 09:39 [FirstSquawk] Trump describes himself as a “high IQ person.”
+- 09/17 09:40 [FirstSquawk] Brent oil futures slide over $1, trading at $104.81 per barrel.
+- 09/17 09:40 [financialjuice] South Korea finance minister: will introduce market stabilizing measures if needed
+- 09/17 09:40 [FirstSquawk] South Korea’s finance minister signals readiness to intervene with market-stabilizing measures when required.
+- 09/17 09:41 [FirstSquawk] 40-year JGB yield slips 7bp to 4.095% in the latest trading.
+- 09/17 09:41 [financialjuice] South Korea Finance Minister: overseeing local bond market, volatility expected to persist
+- 09/17 09:42 [financialjuice] United States denies Palestinian President Mahmoud Abbas entry visa for UN General Assembly in New York next week - AFP
+- 09/17 09:42 [FirstSquawk] South Korea finance minister: Local bond-market volatility is expected to persist, while authorities remain on watch.
+- 09/17 09:42 [FirstSquawk] AFP reports that Washington has denied Palestinian President Mahmoud Abbas a visa to travel to New York for the UN General Assembly next week.
+- 09/17 09:43 [FirstSquawk] Trump: “If we win, we are going to get you $5,000,” adding that it is “very simple.”
+- 09/17 09:48 [FirstSquawk] Saudi Arabia has asked France, Britain, Pakistan and Egypt for air-defense assistance as it faces sustained Houthi attacks and dwindling missile-interceptor stocks, AP reports.
+- 09/17 09:48 [FirstSquawk] AP: A sweeping Russia sanctions bill has cleared the House and is now awaiting President Trump’s signature to become law.

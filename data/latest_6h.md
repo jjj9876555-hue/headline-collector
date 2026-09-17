@@ -7,91 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 09:24 JST／対象: 09/17 03:24 〜 09/17 09:24 JST（時刻はすべて日本時間）
+生成: 2026-09-17 09:49 JST／対象: 09/17 03:49 〜 09/17 09:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/17 03:27 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 129 | 09/17 03:24 | 09/17 09:23 | 32分（05:10→05:42） |
-| financialjuice | 81 | 09/17 03:24 | 09/17 09:08 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 13 | 09/17 04:12 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
+| FirstSquawk | 119 | 09/17 03:49 | 09/17 09:48 | 32分（05:10→05:42） |
+| financialjuice | 49 | 09/17 03:49 | 09/17 09:42 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 222 行（統合前 235 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 174 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 03:24 [FirstSquawk] BITCOIN TRADES AROUND $76,000, WHILE HIGHER RATES, TIGHTER LIQUIDITY AND WEAKENING RETAIL DEMAND ADD PRESSURE TO THE CRYPTO MARKET.
-- 09/17 03:24 [financialjuice/FirstSquawk] Deutsche Bank Chief US Economist Luzzetti: The US has a very strong growth backrop, supply shocks.
-- 09/17 03:24 [FirstSquawk] DEUTSCHE BANK CHIEF US ECONOMIST LUZZETTI: THE DOT PLOT WAS A BIT MORE HAWKISH THAN ANTICIPATED. THE VIEW THAT THE FED HAS STARTED A MILD TIGHTENING CYCLE.
-- 09/17 03:25 [FirstSquawk] US HOUSE FOREIGN AFFAIRS RANKING MEMBER MEEKS SAYS HE WILL BLOCK PROPOSED $2.8B ISRAEL BOMB SALE - SOURCES
-- 09/17 03:26 [financialjuice] Deutsche Bank Chief US Economist Luzzetti on the rate statement: I think the word 'timelier' is doing a lot of work. Rate Statement: "Action will support a timelier return to 2% inflation goal"
-- 09/17 03:27 [FirstSquawk] DEUTSCHE BANK ECONOMIST: FED’S “TIMELIER” RETURN TO 2% INFLATION TARGET SIGNALS HEIGHTENED POLICY FOCUS
-- 09/17 03:27 [financialjuice/FirstSquawk] Deutsche Bank Chief US Economist Luzzetti: We see the Fed's patience has run out, and that it is time to act.
-- 09/17 03:27 [DeItaone] FED RAISES INFLATION OUTLOOK AS LABOR MARKET STAYS STRONG The Fed’s latest projections show a more persistent inflation outlook, with 2026 core PCE raised to 3.4% from 3.3%, despite methodology changes expected to mechanically lower the mea…
-- 09/17 03:28 [financialjuice] Goldman Sachs CEO Solomon: FICC has been a little softer on a relative basis, but the equities business continues to be very strong. $GS
-- 09/17 03:30 [FirstSquawk] FED’S WARSH BEGINS PRESS CONFERENCE — MARKETS AWAIT RATE PATH & POLICY SIGNALS
-- 09/17 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.4850 a gallon.
-- 09/17 03:32 [financialjuice] Fed's Warsh: Inflation remains elevated.
-- 09/17 03:32 [financialjuice] NYMEX Diesel October futures settle at $5.2465 a gallon.
-- 09/17 03:32 [FirstSquawk] US CRUDE SETTLES 3.2% LOWER AT $102.43/BBL, DOWN $3.40
-- 09/17 03:32 [financialjuice] Fed's Warsh: This decision comes when the economy appears to be strengthening.
-- 09/17 03:32 [financialjuice] Fed's Warsh: Key markers have improved in the recent months.
-- 09/17 03:32 [financialjuice] Fed's Chair Warsh: Credit flows have been robust.
-- 09/17 03:33 [financialjuice] ❗ Fed's Chair Warsh: I am hard-pressed to call financial conditions restrictive. The view that conditions are not restrictive was widely shared by the FOMC.
-- 09/17 03:33 [FirstSquawk] FED’S WARSH SAYS THE FOMC RAISED RATES BY 25 BASIS POINTS, AS INFLATION REMAINS ELEVATED AND THE ECONOMY APPEARS TO BE STRENGTHENING.
-- 09/17 03:33 [financialjuice] Fed's Warsh: The economy is resilient.
-- 09/17 03:33 [FirstSquawk] FED'S WARSH SAYS KEY ECONOMIC MARKERS HAVE IMPROVED, WITH THE VIEW THAT MONETARY CONDITIONS ARE NOT RESTRICTIVE WIDELY SHARED BY THE FOMC, ADDING THAT THE ECONOMY IS RESILIENT.
-- 09/17 03:33 [financialjuice] Fed's Warsh: The jobless rate remains low, openings and hours are increasing.
-- 09/17 03:34 [financialjuice] ❗ Fed's Chair Warsh: The FOMC removed a dose of accomodation.
-- 09/17 03:34 [financialjuice] Fed's Chair Warsh: The labor side of the Fed's remit is in good shape.
-- 09/17 03:34 [financialjuice] Fed's Chair Warsh: The predominant focus of the Fed is on price stability.
-- 09/17 03:34 [financialjuice] Fed's Chair Warsh: Inflation is too high, and has been for too long.
-- 09/17 03:34 [DeItaone] *WARSH: INFLATION IS TOO HIGH AND HAS BEEN FOR TOO LONG
-- 09/17 03:35 [financialjuice] ❗ Fed's Chair Warsh: The summer data does not tell me that the inflation situation has improved.
-- 09/17 03:35 [FirstSquawk] FED’S WARSH SAYS THE JOBLESS RATE REMAINS LOW, JOB OPENINGS AND WORKING HOURS ARE RISING, AND THE LABOR MARKET SIDE OF THE FED’S MANDATE IS IN GOOD SHAPE.
-- 09/17 03:35 [FirstSquawk] FED'S WARSH SAYS INFLATION IS TOO HIGH AND HAS BEEN FOR TOO LONG, WITH SUMMER DATA SHOWING LITTLE IMPROVEMENT AND TOO MANY CATEGORIES RISING ABOVE 3%.
-- 09/17 03:35 [financialjuice] ❗ Fed's Chair Warsh: There are too many categories that are posting increases above 3% on both 6 and 12 month basis.
-- 09/17 03:35 [financialjuice] Fed's Chair Warsh: In July, we expressed a joint readiness to act.
-- 09/17 03:36 [DeItaone] *WARSH: TOO MANY INF. CATEGORIES ARE STILL RISING MORE THAN 3% *WARSH: PREDOMINANT FOCUS OF FED IS ON PRICE STABILITY
-- 09/17 03:36 [financialjuice] ❗ Fed's Chair Warsh: We must be confident that underlying inflation must be moving to 2% on a timely basis, and the FOMC decided this has not been met.
-- 09/17 03:36 [financialjuice] Fed's Chair Warsh: I did not submit a dot.
-- 09/17 03:37 [FirstSquawk] US 2-YEAR YIELD SURGES TO 4.712%, HIGHEST SINCE JULY 2024
-- 09/17 03:37 [FirstSquawk] S&P 500 TURNS NEGATIVE, NASDAQ CUTS GAINS TO 0.3% AS US STOCKS LOSE MOMENTUM
-- 09/17 03:37 [financialjuice] Fed's Chair Warsh: Inflation risks are to the upside, labor risks are balanced.
-- 09/17 03:38 [FirstSquawk] FED’S WARSH SAYS THE FOMC DECIDED INFLATION HAS NOT MET THE TEST OF MOVING TOWARD 2% ON A TIMELY BASIS, DESPITE EXPRESSING READINESS TO ACT IN JULY.
-- 09/17 03:38 [FirstSquawk] FED'S WARSH SAYS THE FED HAS A ROLE IN SUSTAINING CURRENT ECONOMIC PROGRESS, ADDING THAT LOWER-INCOME AMERICANS HAVE THE MOST TO GAIN FROM THAT PROGRESS.
-- 09/17 03:38 [financialjuice/FirstSquawk] ❗ Traders add to bets on two more Fed rate hikes by the year-end.
-- 09/17 03:39 [financialjuice] Fed's Chair Warsh: We will ensure any changes in prices won't broaden out.
-- 09/17 03:39 [FirstSquawk] U.S. DOLLAR INDEX RISES 0.53% TO 100.19, ITS HIGHEST LEVEL SINCE JULY 31, AFTER THE FED’S RATE DECISION.
-- 09/17 03:39 [FirstSquawk] STERLING FALLS 0.66% TO $1.3387, THE EURO DROPS 0.58% TO $1.1474, AND DOLLAR/YEN RISES 0.51% TO 155.88.
-- 09/17 03:39 [financialjuice] Fed's Chair Warsh: I am not in the forward guidance business.
-- 09/17 03:40 [financialjuice] Fed's Chair Warsh: The decision we made today was a sober decision.
-- 09/17 03:40 [financialjuice] Fed's Chair Warsh: I am not going to prejudge any future decision we may make.
-- 09/17 03:41 [FirstSquawk] BOEING CEO SAYS 737 MAX 10 CERTIFICATION IS COMING “VERY SHORTLY”, ACCORDING TO MORGAN STANLEY, AS THE COMPANY CONTINUES WORKING TO STABILIZE PRODUCTION.
-- 09/17 03:41 [FirstSquawk] BOEING SAYS IT IS TAKING LONGER THAN EXPECTED TO REACH 47 JETS PER MONTH, WITH WING PRODUCTION CURRENTLY THE MAIN SUPPLY-CHAIN CONSTRAINT.
-- 09/17 03:41 [DeItaone] *WARSH: NOT IN THE FORWARD GUIDANCE BUSINESS
-- 09/17 03:42 [financialjuice] Fed's Chair Warsh: I have nothing for you about a discussion with the President.
-- 09/17 03:42 [financialjuice] Fed's Chair Warsh: Because of the underlying strength of the economy, we can afford to focus on price stability.
-- 09/17 03:42 [FirstSquawk] FED’S WARSH SAYS THE FED’S RATE DECISION WAS A “SOBER DECISION” AND THE RIGHT ONE, WHILE DECLINING TO PREJUDGE FUTURE POLICY MOVES.
-- 09/17 03:42 [FirstSquawk] FED'S WARSH SAYS THE UNDERLYING STRENGTH OF THE ECONOMY ALLOWS THE FED TO FOCUS ON PRICE STABILITY, ADDING THAT HE HAS NO COMMENT ON ANY DISCUSSION WITH THE PRESIDENT.
-- 09/17 03:43 [DeItaone] *TRADERS ADD TO BETS ON TWO MORE FED RATE HIKES BY YEAR-END
-- 09/17 03:43 [DeItaone] *WARSH: NOT GOING TO PREJUDGE ANY FUTURE DECISIONS
-- 09/17 03:43 [DeItaone] *WARSH DECLINES TO COMMENT ON ANY DISCUSSION WITH PRESIDENT
-- 09/17 03:44 [financialjuice] Fed's Chair Warsh: What happened in 7 weeks since we last met, data has shown that the economy has strenghtened.
-- 09/17 03:44 [financialjuice] Fed's Chair Warsh: Inflation trends were not passing the test, and I have seen little to change that.
-- 09/17 03:45 [financialjuice] Fed's Chair Warsh: My colleagues are hard-pressed to describe financial conditions as restrictive, so we decided to remove a dose of accommodation.
-- 09/17 03:45 [FirstSquawk] BOEING CEO SEES 737 MAX 10 CERTIFICATION “VERY SHORTLY”; PRODUCTION STABILIZATION TAKING LONGER THAN EXPECTED
-- 09/17 03:45 [DeItaone] *WARSH: SEEN LITTLE INFO TO SUGGEST INFL TRENDS PASSING THE TEST
-- 09/17 03:46 [financialjuice] Fed's Chair Warsh: I have always been interested in a neutral rate academically, but I don't see it having an operational effect on decisions today.
-- 09/17 03:47 [financialjuice] ❗ Fed's Chair Warsh: I was not waiting breathlessly on any one data point, including CPI.
-- 09/17 03:48 [FirstSquawk] FED’S WARSH SAYS DATA OVER THE PAST SEVEN WEEKS SHOWED THE ECONOMY HAS STRENGTHENED, WHILE INFLATION TRENDS FAILED TO IMPROVE ENOUGH TO MEET THE FED’S TEST.
-- 09/17 03:48 [financialjuice] Fed's Chair Warsh: Trends matter, data points are noisy.
-- 09/17 03:48 [FirstSquawk] FED'S WARSH SAYS THE FOMC REMOVED A DOSE OF ACCOMMODATION, ADDING THAT FINANCIAL CONDITIONS ARE NOT CLEARLY RESTRICTIVE AND THAT POLICY SHOULD FOCUS ON BROADER TRENDS RATHER THAN INDIVIDUAL DATA POINTS.
-- 09/17 03:48 [DeItaone] WARSH EXPLAINS WHY THE FED TURNED TO A RATE HIKE Fed Chair Kevin Warsh says three major developments changed the Fed’s outlook since July: a stronger economy and labor market, inflation failing to improve sufficiently, and a changed assessm…
 - 09/17 03:49 [financialjuice] Brent CRUDe futures settle at $105.83/bbl, down $2.92, 2.69%.
 - 09/17 03:49 [FirstSquawk] BOEING CEO: NO CHANGE TO INITIAL 777X UNIT PLANS; CONTRACT TALKS UNDERWAY WITH CUSTOMERS
 - 09/17 03:49 [FirstSquawk] BRENT CRUDE SETTLES 2.69% LOWER AT $105.83/BBL, DOWN $2.92
@@ -246,3 +178,23 @@
 - 09/17 09:19 [FirstSquawk] The renewed prospect of higher US interest rates is reshaping market positioning, as investors weigh potential beneficiaries of elevated yields and continued inflation pressure - Benzinga
 - 09/17 09:20 [FirstSquawk] Trump: Says Washington and Mexico are nearing a new agreement, calling it a “great deal.”
 - 09/17 09:23 [FirstSquawk] Axios reports the meeting may include a wider group of leaders from Arab and Islamic countries.
+- 09/17 09:24 [FirstSquawk] US Fed delivers its first rate hike since July 2023, lifting the federal funds target range by 25bp to 3.75%-4% amid ongoing inflation pressure.
+- 09/17 09:24 [financialjuice] China PBOC seen setting yuan midpoint at 6.7241 per dollar: estimate
+- 09/17 09:28 [FirstSquawk] Trump on Iran: Says Americans are paying a higher gas price, but described it as “a very inexpensive price to pay” for what the US has achieved.
+- 09/17 09:30 [FirstSquawk] Trump says Iran has suffered major destruction, adding that the country “cannot go on.”
+- 09/17 09:31 [FirstSquawk] According to the New York Times, the Trump administration is taking steps that could remove a core protection provided by the Endangered Species Act.
+- 09/17 09:32 [FirstSquawk] 20-year JGB yield drops 2bp to 3.835%, marking a modest decline in Japan’s long-term bond market.
+- 09/17 09:35 [FirstSquawk] Treasury yields move modestly lower: US 10-year yield falls to 4.99%, while the 30-year yield declines to 5.33%.
+- 09/17 09:38 [FirstSquawk] Trump says the US could face an unprecedented economic downturn if Democrats return to power, arguing they “don’t know what the hell they’re doing.”
+- 09/17 09:39 [FirstSquawk] Trump describes himself as a “high IQ person.”
+- 09/17 09:40 [FirstSquawk] Brent oil futures slide over $1, trading at $104.81 per barrel.
+- 09/17 09:40 [financialjuice] South Korea finance minister: will introduce market stabilizing measures if needed
+- 09/17 09:40 [FirstSquawk] South Korea’s finance minister signals readiness to intervene with market-stabilizing measures when required.
+- 09/17 09:41 [FirstSquawk] 40-year JGB yield slips 7bp to 4.095% in the latest trading.
+- 09/17 09:41 [financialjuice] South Korea Finance Minister: overseeing local bond market, volatility expected to persist
+- 09/17 09:42 [financialjuice] United States denies Palestinian President Mahmoud Abbas entry visa for UN General Assembly in New York next week - AFP
+- 09/17 09:42 [FirstSquawk] South Korea finance minister: Local bond-market volatility is expected to persist, while authorities remain on watch.
+- 09/17 09:42 [FirstSquawk] AFP reports that Washington has denied Palestinian President Mahmoud Abbas a visa to travel to New York for the UN General Assembly next week.
+- 09/17 09:43 [FirstSquawk] Trump: “If we win, we are going to get you $5,000,” adding that it is “very simple.”
+- 09/17 09:48 [FirstSquawk] Saudi Arabia has asked France, Britain, Pakistan and Egypt for air-defense assistance as it faces sustained Houthi attacks and dwindling missile-interceptor stocks, AP reports.
+- 09/17 09:48 [FirstSquawk] AP: A sweeping Russia sanctions bill has cleared the House and is now awaiting President Trump’s signature to become law.
