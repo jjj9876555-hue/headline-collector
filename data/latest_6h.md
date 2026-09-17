@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 18:44 JST／対象: 09/17 12:44 〜 09/17 18:44 JST（時刻はすべて日本時間）
+生成: 2026-09-17 18:58 JST／対象: 09/17 12:58 〜 09/17 18:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/17 16:07 | 09/17 18:43 | ⚠ 156分（16:07→18:43） |
-| FirstSquawk | 79 | 09/17 12:45 | 09/17 18:38 | 29分（16:17→16:47） |
-| financialjuice | 48 | 09/17 12:47 | 09/17 18:03 | 38分（14:20→14:58） |
+| FirstSquawk | 82 | 09/17 13:02 | 09/17 18:58 | 29分（16:17→16:47） |
+| financialjuice | 60 | 09/17 13:02 | 09/17 18:58 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 129 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 144 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 12:45 [FirstSquawk] 2-year Japanese government bond yield climbs 2 bps to 1.865%, reaching its highest since April 1995.
-- 09/17 12:47 [financialjuice] Ukraine drone strike damages oil refinery in Russia's Yaroslavl, governor says
-- 09/17 12:48 [FirstSquawk] Yaroslavl oil refinery in Russia damaged after a Ukrainian drone strike, according to the governor.
-- 09/17 12:53 [FirstSquawk] Macquarie sees two more 25-bps Fed rate hikes, one in December and another in Q1 2027.
 - 09/17 13:02 [financialjuice] EU asks China to voluntarily curb car exports - FT
 - 09/17 13:02 [financialjuice] EU urges China to voluntarily limit hybrid car exports to avoid trade war: FT
 - 09/17 13:02 [FirstSquawk] EU calls on China to voluntarily restrict automobile exports, FT reports.
@@ -153,3 +149,22 @@
 - 09/17 18:38 [FirstSquawk] TAKAICHI PLANS TO PROMOTE A POSITIVE CYCLE THROUGH INCREASED TAX REVENUE AND ECONOMIC GROWTH.
 - 09/17 18:38 [FirstSquawk] TAKAICHI ANNOUNCES PLANS FOR A CAREFUL GROWTH-ORIENTED FISCAL POLICY.
 - 09/17 18:43 [DeItaone] GOLDMAN SACHS NOW EXPECTS ANOTHER FED HIKE IN OCTOBER Goldman Sachs has shifted its Fed call, now expecting another 25bp hike in October after Wednesday’s meeting proved more hawkish than anticipated. GS joins ANZ, BofA, RBC and TD Securiti…
+- 09/17 18:46 [FirstSquawk] KREMLIN STATES THEY ARE MONITORING THE U.S. SANCTIONS BILL AND CALL IT AN UNFRIENDLY ACT.
+- 09/17 18:46 [FirstSquawk] KREMLIN SAYS NEW U.S. SANCTIONS WILL HAMPER PEACE EFFORTS IN UKRAINE.
+- 09/17 18:47 [FirstSquawk] POLAND'S MILITARY DEPLOYS AIRCRAFT IN RESPONSE TO RUSSIAN ATTACKS ON UKRAINE.
+- 09/17 18:48 [financialjuice] Japan's PM Takaichi: This is a cabinet of decision, challenge, and action
+- 09/17 18:48 [financialjuice] Japan's PM Takaichi: To implement responsible expansionary fiscal policy
+- 09/17 18:48 [financialjuice] Japan's PM Takaichi: This is the first year for proactive fiscal policy
+- 09/17 18:48 [financialjuice] Japan PM Takaichi: aim to achieve a positive economic cycle by boosting wages, employment, consumer sentiment, and tax revenue
+- 09/17 18:49 [financialjuice] Japan's PM Takaichi: Aim for virtual cycle with rising tax revenue and growth
+- 09/17 18:49 [financialjuice] Kremlin: US sanctions bill makes peace settlement harder - Tass
+- 09/17 18:49 [financialjuice] Japan's PM Takaichi: To enhance defense capabilities proactively
+- 09/17 18:52 [FirstSquawk] CANADA'S PRIME MINISTER CARNEY STATES THE COUNTRY IS A RELIABLE ALLY AND DOES NOT ENGAGE IN ZERO-SUM DEALS.
+- 09/17 18:55 [financialjuice] Canada's PM Carney: Canada and the EU hold common values as base of partnership
+- 09/17 18:55 [financialjuice] Canada's PM Carney: We are not fair-weather allies, we do not pursue zero-sum deals
+- 09/17 18:57 [financialjuice] Canada's PM Carney: Sovereignty requires secure access to AI, semiconductors, critical minerals, payment systems, clean energy, vaccines, space communications
+- 09/17 18:58 [financialjuice] Canada's PM Carney: Europe and Canada are strong, even stronger together
+- 09/17 18:58 [financialjuice] Japan's PM Takaichi: Nothing decided on summit with US
+- 09/17 18:58 [FirstSquawk] CANADA'S CARNEY SUGGESTS FUNCTIONAL ALLIANCE WITH EU.
+- 09/17 18:58 [financialjuice] Canada's PM Carney: EU and Canada can ally 'by function’
+- 09/17 18:58 [FirstSquawk] CARNEY STATES THAT A MUTUAL BENEFIT IS FUNDAMENTAL TO THE CANADA-EU PARTNERSHIP.
