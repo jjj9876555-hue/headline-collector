@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 12:52 JST／対象: 09/17 06:52 〜 09/17 12:52 JST（時刻はすべて日本時間）
+生成: 2026-09-17 13:06 JST／対象: 09/17 07:06 〜 09/17 13:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/17 07:41 | 09/17 08:04 | 16分（07:47→08:04） |
-| FirstSquawk | 127 | 09/17 07:00 | 09/17 12:48 | 25分（08:16→08:41） |
-| financialjuice | 40 | 09/17 07:45 | 09/17 12:47 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 125 | 09/17 07:06 | 09/17 13:05 | 25分（08:16→08:41） |
+| financialjuice | 43 | 09/17 07:45 | 09/17 13:04 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 173 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 174 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 07:00 [FirstSquawk] CEA CHAIR PHELAN SAID HIGHER OIL PRICES HAVE STARTED “BLEEDING THROUGH” INTO THE BROADER ECONOMY, WHILE NOTING THAT INFLATION IS CURRENTLY ELEVATED BUT CONTINUES TO COME DOWN.
-- 09/17 07:00 [FirstSquawk] CEA CHAIR PHELAN SAID TRUMP’S PROPOSED $5,000 CHECKS WOULD NOT NECESSARILY BE INFLATIONARY, AND WARNED THAT THE “FRENZY” AROUND FEDERAL RESERVE DECISIONS CAN OVERSHADOW OTHER ECONOMIC DATA.
-- 09/17 07:03 [FirstSquawk] OPENAI LAUNCHES NEW FRAMEWORK TO TRACK & DISCLOSE MODEL MISALIGNMENT, PUBLISHES SIX REPORTS ON UNEXPECTED MODEL BEHAVIOR OVER PAST SIX MONTHS
-- 09/17 07:03 [FirstSquawk] OPENAI DISCLOSES SIX NEW AI SAFETY INCIDENTS INVOLVING MODEL MISALIGNMENT — AXIOS
-- 09/17 07:05 [FirstSquawk] SWISS WATER DECAFFEINATED COFFEE ANNOUNCED A $6.2 MILLION INVESTMENT TO EXPAND ITS DELTA, B.C. PRODUCTION FACILITY, EXPECTED TO INCREASE PRODUCTION VOLUME BY 15% FROM CURRENT MAXIMUM CAPACITY.
-- 09/17 07:05 [FirstSquawk] SWISS WATER DECAFFEINATED COFFEE: CONSTRUCTION IS EXPECTED TO BEGIN IN Q1 2027 WITH NO DISRUPTION TO OPERATIONS, WITH THE MAJORITY OF THE INVESTMENT FUNDED THROUGH OPERATING CASH FLOW AND THE REMAINDER THROUGH CREDIT LINES.
 - 09/17 07:06 [FirstSquawk] OPENAI LAUNCHES NEW MODEL-MISALIGNMENT TRACKING FRAMEWORK, PUBLISHES SIX REPORTS ON UNEXPECTED BEHAVIOR OBSERVED DURING MODEL TRAINING & EVALUATION OVER PAST SIX MONTHS
 - 09/17 07:10 [FirstSquawk] OPENAI REPORTS SIX MODEL-MISALIGNMENT CASES, INCLUDING SELF-GENERATED INSTRUCTIONS AND ATTEMPTS TO CONCEAL MISTAKES IN TASK SUMMARIES
 - 09/17 07:10 [FirstSquawk] OPENAI REPORTS MODEL-MISALIGNMENT CASES INCLUDING UNSANCTIONED WRITES & INTERNAL REPOSITORY COMMUNICATION, PLUS UNAUTHORIZED FILE SHARING BETWEEN COLLABORATING AGENTS
@@ -197,3 +191,10 @@
 - 09/17 12:45 [FirstSquawk] 2-year Japanese government bond yield climbs 2 bps to 1.865%, reaching its highest since April 1995.
 - 09/17 12:47 [financialjuice] Ukraine drone strike damages oil refinery in Russia's Yaroslavl, governor says
 - 09/17 12:48 [FirstSquawk] Yaroslavl oil refinery in Russia damaged after a Ukrainian drone strike, according to the governor.
+- 09/17 12:53 [FirstSquawk] Macquarie sees two more 25-bps Fed rate hikes, one in December and another in Q1 2027.
+- 09/17 13:02 [financialjuice] EU asks China to voluntarily curb car exports - FT
+- 09/17 13:02 [financialjuice] EU urges China to voluntarily limit hybrid car exports to avoid trade war: FT
+- 09/17 13:02 [FirstSquawk] EU calls on China to voluntarily restrict automobile exports, FT reports.
+- 09/17 13:03 [FirstSquawk] EU urges China to voluntarily curb hybrid vehicle exports under a proposed deal aimed at preventing a trade war, FT reports.
+- 09/17 13:04 [financialjuice] Brussels urges Beijing to limit Chinese hybrid vehicle sales to about 15% of EU market - FT
+- 09/17 13:05 [FirstSquawk] Brussels proposes limiting Chinese hybrid vehicle sales to roughly 15% of the EU market, FT reports.
