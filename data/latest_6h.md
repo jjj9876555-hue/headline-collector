@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 19:33 JST／対象: 09/17 13:33 〜 09/17 19:33 JST（時刻はすべて日本時間）
+生成: 2026-09-17 19:52 JST／対象: 09/17 13:52 〜 09/17 19:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/17 16:07 | 09/17 18:43 | ⚠ 156分（16:07→18:43） |
-| FirstSquawk | 68 | 09/17 13:35 | 09/17 19:26 | 29分（16:17→16:47） |
-| financialjuice | 65 | 09/17 13:34 | 09/17 19:29 | 45分（18:03→18:48） |
+| FirstSquawk | 71 | 09/17 13:57 | 09/17 19:45 | 29分（16:17→16:47） |
+| financialjuice | 68 | 09/17 14:08 | 09/17 19:47 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 134 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 140 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 13:34 [financialjuice] Japan economy minister Kiuchi: no comment on interest rates
-- 09/17 13:35 [FirstSquawk] Kiuchi says he will not comment on interest-rate policy.
-- 09/17 13:35 [financialjuice] Japan economy minister Kiuchi: won’t pursue reckless fiscal expansion
-- 09/17 13:36 [FirstSquawk] Flood-hit Nepal sees India and China engage in disaster diplomacy.
-- 09/17 13:50 [FirstSquawk] NZD/USD maintains gains above 0.5700 after the GDP-led recovery, with the bearish bias still in place, FXStreet says.
 - 09/17 13:57 [FirstSquawk] Barclays comes under pressure from employees over return-to-office requirements - FT
 - 09/17 13:58 [FirstSquawk] Berenberg increases its SSE target price to 2,980p, up from 2,800p.
 - 09/17 13:59 [FirstSquawk] Yen slides past ¥156 per dollar as recent US-Japan efforts to support the currency lose ground, putting added pressure on the BOJ ahead of Friday’s rate decision, FT reports.
@@ -158,3 +153,14 @@
 - 09/17 19:25 [FirstSquawk] BARCLAYS REINSTATES WARNER BROS. DISCOVERY COVERAGE WITH EQUAL WEIGHT RATING; TARGET PRICE $29
 - 09/17 19:26 [FirstSquawk] REHN: ECB RATE HIKE LAST WEEK WAS WARRANTED
 - 09/17 19:29 [financialjuice] ECB's Rehn: ECB rate hike last week was warranted
+- 09/17 19:35 [FirstSquawk] SENIOR IRANIAN MILITARY OFFICIAL CLAIMED THAT US PRESENCE IN THE MIDDLE EAST HINDERS PEACE AND STABILITY, URGING REGIONAL COUNTRIES TO ENSURE THEIR OWN SECURITY, ACCORDING TO MEHR NEWS AGENCY.
+- 09/17 19:35 [FirstSquawk] MOHAMMAD-TAGHI OSANLOO, DEPUTY OPERATIONS CHIEF OF IRAN'S ARMED FORCES, STATED AT THE XIANGSHAN SECURITY FORUM IN BEIJING THAT REGIONAL COUNTRIES NEED TO ENSURE THEIR OWN SECURITY WITHOUT INTERFERENCE FROM OUTSIDE POWERS.
+- 09/17 19:35 [FirstSquawk] SECURITY CANNOT BE PURCHASED OR IMPORTED, HE STATED, URGING FOR A REGIONAL SECURITY SYSTEM FOCUSED ON NON-AGGRESSION, RESPECT FOR SOVEREIGNTY, AND BUILDING MILITARY CONFIDENCE.
+- 09/17 19:37 [financialjuice] Canada's PM Carney: Of course there will be debate in the Canadian parliament on EU associate membership
+- 09/17 19:39 [financialjuice] Canada's PM Carney: There will be a vote in the Canadian Parliament on the future relationship with the EU
+- 09/17 19:39 [FirstSquawk] CANADA PM CARNEY: THERE WILL BE A VOTE IN CANADIAN PARLIAMENT ON FUTURE RELATIONSHIP WITH EU
+- 09/17 19:41 [financialjuice] Canada's PM Carney: What matters is substance rather than the term used for the relationship with EU
+- 09/17 19:42 [FirstSquawk] CANADA PM CARNEY: OF COURSE THERE WILL BE DEBATE IN CANADIAN PARLIAMENT ON EU ASSOCIATE MEMBERSHIP
+- 09/17 19:45 [financialjuice] Canada PM Carney in reaction to Trump comments: A strong, more resilient Canada would be a more effective partner to the US
+- 09/17 19:45 [FirstSquawk] TURKEY PROPOSES RUSSIA-UKRAINE DEAL TO END BLACK SEA SHIPPING ATTACKS – AFP CITES DIPLOMATIC SOURCE
+- 09/17 19:47 [financialjuice] Canada's PM Carney: Nobody will dictate who we strike agreements with

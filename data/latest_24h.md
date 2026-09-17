@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 19:33 JST／対象: 09/16 19:33 〜 09/17 19:33 JST（時刻はすべて日本時間）
+生成: 2026-09-17 19:52 JST／対象: 09/16 19:52 〜 09/17 19:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 20:00 | 09/17 18:43 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 399 | 09/16 19:34 | 09/17 19:26 | 32分（05:10→05:42） |
-| financialjuice | 319 | 09/16 19:52 | 09/17 19:29 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 398 | 09/16 19:52 | 09/17 19:45 | 32分（05:10→05:42） |
+| financialjuice | 323 | 09/16 19:52 | 09/17 19:47 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 754 行（統合前 774 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 757 行（統合前 777 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 19:34 [FirstSquawk] CENTENE STILL SEES FY ADJ EPS ABOVE $4.80 (EST $4.88)
-- 09/16 19:36 [FirstSquawk] CHINESE FM WANG YI DISCUSSED WITH IRAN'S FM ARAGHCHI IN BEIJING.
-- 09/16 19:37 [FirstSquawk] LME TO ROLL OUT ELECTRONIC OPTIONS FROM MARCH 30 2027, MARKET TEST ENVIRONMENT AVAILABLE FROM OCTOBER 19 2026
-- 09/16 19:41 [FirstSquawk] RUSSIAN DEFENCE MINISTRY: RUSSIAN WARSHIP FIRED TWO RED SIGNAL FLARES TOWARD A DANISH HELICOPTER TO PREVENT 'PROVOCATION' - TASS
-- 09/16 19:41 [FirstSquawk] EU PLANS TO PROHIBIT SOCIAL MEDIA FOR KIDS UNDER 13 AND LIMIT TECHNOLOGY AND AI SERVICES FOR OLDER CHILDREN.
-- 09/16 19:47 [FirstSquawk] YEMEN'S HOUTHI REBELS, SUPPORTED BY IRAN, HAVE INCREASED THEIR THREAT TO SAUDI SHIPPING BY TAKING CONTROL OF THE IMPORTANT GREATER AND LESSER HANISH ISLANDS, ACCORDING TO GOVERNMENT AND HOUTHI SOURCES ON MONDAY.
-- 09/16 19:51 [FirstSquawk] GOLD MINE COLLAPSE IN SUDAN RESULTS IN AT LEAST 67 DEATHS, REPORTS FROM A MEDICAL ORGANIZATION AND SURVIVORS CONFIRM.
-- 09/16 19:52 [financialjuice] UK PM Burnham: Inflation is a concern, but the UK economy is showing resilience
 - 09/16 19:52 [financialjuice] UK PM Burnham: Chancellor and I will take these issues into account at the budget
 - 09/16 19:52 [financialjuice/FirstSquawk] UK PM Burnham: We are not a traditional tax and spend socialist government.
 - 09/16 19:52 [financialjuice] UK PM Burnham: We will take difficult decisions to keep the economy on track
@@ -778,3 +770,14 @@
 - 09/17 19:25 [FirstSquawk] BARCLAYS REINSTATES WARNER BROS. DISCOVERY COVERAGE WITH EQUAL WEIGHT RATING; TARGET PRICE $29
 - 09/17 19:26 [FirstSquawk] REHN: ECB RATE HIKE LAST WEEK WAS WARRANTED
 - 09/17 19:29 [financialjuice] ECB's Rehn: ECB rate hike last week was warranted
+- 09/17 19:35 [FirstSquawk] SENIOR IRANIAN MILITARY OFFICIAL CLAIMED THAT US PRESENCE IN THE MIDDLE EAST HINDERS PEACE AND STABILITY, URGING REGIONAL COUNTRIES TO ENSURE THEIR OWN SECURITY, ACCORDING TO MEHR NEWS AGENCY.
+- 09/17 19:35 [FirstSquawk] MOHAMMAD-TAGHI OSANLOO, DEPUTY OPERATIONS CHIEF OF IRAN'S ARMED FORCES, STATED AT THE XIANGSHAN SECURITY FORUM IN BEIJING THAT REGIONAL COUNTRIES NEED TO ENSURE THEIR OWN SECURITY WITHOUT INTERFERENCE FROM OUTSIDE POWERS.
+- 09/17 19:35 [FirstSquawk] SECURITY CANNOT BE PURCHASED OR IMPORTED, HE STATED, URGING FOR A REGIONAL SECURITY SYSTEM FOCUSED ON NON-AGGRESSION, RESPECT FOR SOVEREIGNTY, AND BUILDING MILITARY CONFIDENCE.
+- 09/17 19:37 [financialjuice] Canada's PM Carney: Of course there will be debate in the Canadian parliament on EU associate membership
+- 09/17 19:39 [financialjuice] Canada's PM Carney: There will be a vote in the Canadian Parliament on the future relationship with the EU
+- 09/17 19:39 [FirstSquawk] CANADA PM CARNEY: THERE WILL BE A VOTE IN CANADIAN PARLIAMENT ON FUTURE RELATIONSHIP WITH EU
+- 09/17 19:41 [financialjuice] Canada's PM Carney: What matters is substance rather than the term used for the relationship with EU
+- 09/17 19:42 [FirstSquawk] CANADA PM CARNEY: OF COURSE THERE WILL BE DEBATE IN CANADIAN PARLIAMENT ON EU ASSOCIATE MEMBERSHIP
+- 09/17 19:45 [financialjuice] Canada PM Carney in reaction to Trump comments: A strong, more resilient Canada would be a more effective partner to the US
+- 09/17 19:45 [FirstSquawk] TURKEY PROPOSES RUSSIA-UKRAINE DEAL TO END BLACK SEA SHIPPING ATTACKS – AFP CITES DIPLOMATIC SOURCE
+- 09/17 19:47 [financialjuice] Canada's PM Carney: Nobody will dictate who we strike agreements with
