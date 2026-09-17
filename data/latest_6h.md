@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 00:52 JST／対象: 09/17 18:52 〜 09/18 00:52 JST（時刻はすべて日本時間）
+生成: 2026-09-18 01:05 JST／対象: 09/17 19:05 〜 09/18 01:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/17 21:58 | 09/18 00:42 | ⚠ 70分（22:31→23:42） |
-| FirstSquawk | 86 | 09/17 18:52 | 09/18 00:50 | 17分（20:29→20:46） |
-| financialjuice | 111 | 09/17 18:55 | 09/18 00:51 | 30分（20:29→21:00） |
+| FirstSquawk | 81 | 09/17 19:06 | 09/18 01:02 | 17分（20:29→20:46） |
+| financialjuice | 96 | 09/17 19:05 | 09/18 01:00 | 30分（20:29→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 197 行（統合前 201 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 177 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 18:52 [FirstSquawk] CANADA'S PRIME MINISTER CARNEY STATES THE COUNTRY IS A RELIABLE ALLY AND DOES NOT ENGAGE IN ZERO-SUM DEALS.
-- 09/17 18:55 [financialjuice] Canada's PM Carney: Canada and the EU hold common values as base of partnership
-- 09/17 18:55 [financialjuice] Canada's PM Carney: We are not fair-weather allies, we do not pursue zero-sum deals
-- 09/17 18:57 [financialjuice] Canada's PM Carney: Sovereignty requires secure access to AI, semiconductors, critical minerals, payment systems, clean energy, vaccines, space communications
-- 09/17 18:58 [financialjuice] Canada's PM Carney: Europe and Canada are strong, even stronger together
-- 09/17 18:58 [financialjuice] Japan's PM Takaichi: Nothing decided on summit with US
-- 09/17 18:58 [FirstSquawk] CANADA'S CARNEY SUGGESTS FUNCTIONAL ALLIANCE WITH EU.
-- 09/17 18:58 [financialjuice] Canada's PM Carney: EU and Canada can ally 'by function’
-- 09/17 18:58 [FirstSquawk] CARNEY STATES THAT A MUTUAL BENEFIT IS FUNDAMENTAL TO THE CANADA-EU PARTNERSHIP.
-- 09/17 19:01 [financialjuice] Japan's PM Takaichi: Meeting with Trump has not yet been scheduled
-- 09/17 19:01 [financialjuice] Japan's PM Takaichi: Will continue to communicate with China
-- 09/17 19:02 [financialjuice] Canada's PM Carney: Canada welcomes ‘ambition’ for associate EU membership
-- 09/17 19:02 [financialjuice] Canada's PM Carney: We welcome Von der Leyen's ambition of becoming an associate member
-- 09/17 19:02 [financialjuice] Canada's PM Carney: Canada and Europe should secure our strategic autonomy through deep cooperation in the full range of strategic capabilities
-- 09/17 19:02 [financialjuice] Japan's PM Takaichi: Expect BoJ to conduct policy toward 2% target
-- 09/17 19:03 [financialjuice] Canada's PM Carney: Partnership to include critical minerals and defense
-- 09/17 19:03 [financialjuice] Canada's PM Carney: Partnership to include AI, compute, energy security
-- 09/17 19:03 [financialjuice] Carney floats Canada membership in the Erasmus+ university program
-- 09/17 19:03 [financialjuice] Canada's PM Carney: Our alliance can help fill Europe’s need for a reliable supply of critical minerals
-- 09/17 19:05 [FirstSquawk] CANADA PM CARNEY SUPPORTS VON DER LEYEN'S GOAL TO BECOME AN ASSOCIATE MEMBER.
-- 09/17 19:05 [FirstSquawk] CARNEY SAYS CANADA AND EUROPE NEED TO WORK TOGETHER TO ENSURE STRATEGIC INDEPENDENCE ACROSS ALL STRATEGIC ABILITIES.
-- 09/17 19:05 [FirstSquawk] CARNEY ANNOUNCED THAT A NEW PARTNERSHIP WILL FOCUS ON CRITICAL MINERALS AND DEFENSE.
-- 09/17 19:05 [financialjuice] Canada's PM Carney: Canada can provide LNG, and hydrogen at large scale to the EU
 - 09/17 19:05 [financialjuice] Canada's PM Carney: Canada and the EU can pool sovereign compute capacities
 - 09/17 19:06 [financialjuice] Canada's PM Carney: Canada and Europe should also explore creating an integrated market for financial services
 - 09/17 19:06 [FirstSquawk] CARNEY STATES NO PLAN FOR A THIRD BLOC TO BECOME A GREAT POWER OPPONENT.
@@ -221,3 +198,6 @@
 - 09/18 00:51 [financialjuice] ECB's Zigman: We don’t see any major second-round effects.
 - 09/18 00:51 [financialjuice] ECB's Zigman: There’s a lot of optimism for growth.
 - 09/18 00:51 [financialjuice] ECB's Zigman: Market bets don't determine the ECB’s next steps.
+- 09/18 00:53 [financialjuice] US weighs antitrust guidance on AI safety - DoJ Official.
+- 09/18 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 6.95% in Sept 17 week, highest since Jan 30, 2025 week, vs 6.76% prior week - Freddie Mac
+- 09/18 01:02 [FirstSquawk] GLENCORE'S IRON ORE PROJECT AT HEAD HILL IS PUT ON HOLD DURING A WORLDWIDE REVIEW.

@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 00:52 JST／対象: 09/17 00:52 〜 09/18 00:52 JST（時刻はすべて日本時間）
+生成: 2026-09-18 01:05 JST／対象: 09/17 01:05 〜 09/18 01:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 40 | 09/17 00:56 | 09/18 00:42 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 401 | 09/17 00:57 | 09/18 00:50 | 32分（05:10→05:42） |
-| financialjuice | 324 | 09/17 00:53 | 09/18 00:51 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 38 | 09/17 01:06 | 09/18 00:42 | ⚠ 483分（08:04→16:07） |
+| FirstSquawk | 399 | 09/17 01:15 | 09/18 01:02 | 32分（05:10→05:42） |
+| financialjuice | 324 | 09/17 01:14 | 09/18 01:00 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 749 行（統合前 770 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 745 行（統合前 766 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 00:53 [financialjuice] German Economy Minister Reiche: It would be sensible to temporarily reduce VAT on fuel from 19% to 7%.
-- 09/17 00:53 [financialjuice] German Economy Minister Reiche: Cap on fuel prices is the wrong approach
-- 09/17 00:56 [DeItaone] SAUDI PIPELINE COULD RESTORE HALF ITS CAPACITY WITHIN DAYS Saudi Arabia is working to restore roughly half the capacity of its East-West oil pipeline within days by bypassing a section damaged in last week’s drone attacks. Saudi Aramco is r…
-- 09/17 00:57 [FirstSquawk] SAUDIS ARE SEEKING TO RETURN ROUGHLY HALF THE CAPACITY OF THE EAST-WEST PIPELINE WITHIN DAYS, BYPASSING RECENTLY DAMAGED SECTION
-- 09/17 00:57 [FirstSquawk] LOOKING AT ABOUT SIX WEEKS CURRENTLY TO RETURN TO REGULAR LEVELS
-- 09/17 00:58 [DeItaone] Saudi Aramco is reportedly targeting a full return to capacity in around six weeks.
-- 09/17 01:01 [FirstSquawk] ITALIAN PM MELONI: ITALY EXTENDS TAX CUT ON DIESEL TO OCT 5
 - 09/17 01:06 [DeItaone] FED: WHAT WALL STREET EXPECTS FROM WARSH TODAY Major banks are focused on how Kevin Warsh frames the path ahead if the Fed hikes today: Barclays: Expects Warsh to stress solid growth, near-full employment and inflation still too high, broad…
 - 09/17 01:09 [DeItaone] OPENAI ROGUE AGENTS PROBED HUGGING FACE BEFORE MAJOR HACK Researchers say rogue OpenAI agents hijacked two Hugging Face accounts and probed its network for vulnerabilities in May, nearly two months before the major July cyber incident. No e…
 - 09/17 01:14 [financialjuice] SEC's Atkins: Will act to give investors certainty on crypto - Post on X
@@ -773,3 +766,6 @@
 - 09/18 00:51 [financialjuice] ECB's Zigman: We don’t see any major second-round effects.
 - 09/18 00:51 [financialjuice] ECB's Zigman: There’s a lot of optimism for growth.
 - 09/18 00:51 [financialjuice] ECB's Zigman: Market bets don't determine the ECB’s next steps.
+- 09/18 00:53 [financialjuice] US weighs antitrust guidance on AI safety - DoJ Official.
+- 09/18 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 6.95% in Sept 17 week, highest since Jan 30, 2025 week, vs 6.76% prior week - Freddie Mac
+- 09/18 01:02 [FirstSquawk] GLENCORE'S IRON ORE PROJECT AT HEAD HILL IS PUT ON HOLD DURING A WORLDWIDE REVIEW.

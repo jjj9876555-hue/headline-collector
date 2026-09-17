@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 00:52 JST／対象: 09/17 12:52 〜 09/18 00:52 JST（時刻はすべて日本時間）
+生成: 2026-09-18 01:05 JST／対象: 09/17 13:05 〜 09/18 01:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/17 16:07 | 09/18 00:42 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 166 | 09/17 12:53 | 09/18 00:50 | 29分（16:17→16:47） |
-| financialjuice | 165 | 09/17 13:02 | 09/18 00:51 | 45分（18:03→18:48） |
+| FirstSquawk | 164 | 09/17 13:05 | 09/18 01:02 | 29分（16:17→16:47） |
+| financialjuice | 164 | 09/17 13:10 | 09/18 01:00 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 333 行（統合前 337 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 330 行（統合前 334 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 12:53 [FirstSquawk] Macquarie sees two more 25-bps Fed rate hikes, one in December and another in Q1 2027.
-- 09/17 13:02 [financialjuice] EU asks China to voluntarily curb car exports - FT
-- 09/17 13:02 [financialjuice] EU urges China to voluntarily limit hybrid car exports to avoid trade war: FT
-- 09/17 13:02 [FirstSquawk] EU calls on China to voluntarily restrict automobile exports, FT reports.
-- 09/17 13:03 [FirstSquawk] EU urges China to voluntarily curb hybrid vehicle exports under a proposed deal aimed at preventing a trade war, FT reports.
-- 09/17 13:04 [financialjuice] Brussels urges Beijing to limit Chinese hybrid vehicle sales to about 15% of EU market - FT
 - 09/17 13:05 [FirstSquawk] Brussels proposes limiting Chinese hybrid vehicle sales to roughly 15% of the EU market, FT reports.
 - 09/17 13:10 [financialjuice] China's Xi issues key directives on advanced manufacturing development - Xinhua
 - 09/17 13:11 [financialjuice] China's President Xi: to boost advanced manufacturing - Xinhua
@@ -357,3 +351,6 @@
 - 09/18 00:51 [financialjuice] ECB's Zigman: We don’t see any major second-round effects.
 - 09/18 00:51 [financialjuice] ECB's Zigman: There’s a lot of optimism for growth.
 - 09/18 00:51 [financialjuice] ECB's Zigman: Market bets don't determine the ECB’s next steps.
+- 09/18 00:53 [financialjuice] US weighs antitrust guidance on AI safety - DoJ Official.
+- 09/18 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 6.95% in Sept 17 week, highest since Jan 30, 2025 week, vs 6.76% prior week - Freddie Mac
+- 09/18 01:02 [FirstSquawk] GLENCORE'S IRON ORE PROJECT AT HEAD HILL IS PUT ON HOLD DURING A WORLDWIDE REVIEW.
