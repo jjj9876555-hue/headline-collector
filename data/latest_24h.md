@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 00:33 JST／対象: 09/17 00:33 〜 09/18 00:33 JST（時刻はすべて日本時間）
+生成: 2026-09-18 00:52 JST／対象: 09/17 00:52 〜 09/18 00:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 43 | 09/17 00:38 | 09/17 23:42 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 400 | 09/17 00:43 | 09/18 00:32 | 32分（05:10→05:42） |
-| financialjuice | 320 | 09/17 00:47 | 09/18 00:33 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 40 | 09/17 00:56 | 09/18 00:42 | ⚠ 483分（08:04→16:07） |
+| FirstSquawk | 401 | 09/17 00:57 | 09/18 00:50 | 32分（05:10→05:42） |
+| financialjuice | 324 | 09/17 00:53 | 09/18 00:51 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 747 行（統合前 768 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 749 行（統合前 770 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 00:38 [DeItaone] JPMORGAN MAPS FED DAY: STOCKS COULD SWING 2% JPMorgan says Fed communication could determine whether stocks rally or sell off after today’s widely expected 25bp hike. A standard hike with limited guidance could lift the S&P 500 0.25%–0.75%,…
-- 09/17 00:43 [FirstSquawk] ANDY BURNHAM HAS BEEN FORCED TO SCALE BACK HOPES FOR A MAJOR EU RESET AFTER BRUSSELS SIGNALED GREATER INTEREST IN CLOSER TIES WITH CANADA.
-- 09/17 00:43 [DeItaone] STOCKS RISE AS YIELDS RETREAT AHEAD OF FED Global stocks moved higher ahead of today’s Fed rate decision, with markets pricing more than a 90% chance of a 25bp hike. The S&P 500 gained 0.26% and Nasdaq 0.60%, while the 10-year Treasury yiel…
-- 09/17 00:45 [FirstSquawk] IRAN PRESIDENT MEETS IRAQI KURDISH LEADER TALABANI: TASNIM
-- 09/17 00:47 [financialjuice] ‼ BREAKING: Saudis seek to resume half of key oil pipeline within days
-- 09/17 00:49 [DeItaone] *SAUDIS SEEK TO RESUME HALF OF KEY OIL PIPELINE WITHIN DAYS
-- 09/17 00:51 [DeItaone] OPENAI CHALLENGES SECRET APPLE-MUSK AGREEMENT A federal judge ordered X and SpaceXAI to disclose their agreement with Apple after OpenAI sought access to the terms in Musk’s antitrust case. X recently resolved its claims against Apple but i…
 - 09/17 00:53 [financialjuice] German Economy Minister Reiche: It would be sensible to temporarily reduce VAT on fuel from 19% to 7%.
 - 09/17 00:53 [financialjuice] German Economy Minister Reiche: Cap on fuel prices is the wrong approach
 - 09/17 00:56 [DeItaone] SAUDI PIPELINE COULD RESTORE HALF ITS CAPACITY WITHIN DAYS Saudi Arabia is working to restore roughly half the capacity of its East-West oil pipeline within days by bypassing a section damaged in last week’s drone attacks. Saudi Aramco is r…
@@ -771,3 +764,12 @@
 - 09/18 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.820% (FORECAST -, PREVIOUS 3.775%) $MACRO
 - 09/18 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 3.020 (FORECAST -, PREVIOUS 2.810) $MACRO
 - 09/18 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.820% Bid-to-cover 3.02 US sells $90 bln Awards 69.59% of bids at high
+- 09/18 00:42 [DeItaone] WALL STREET RETHINKS “ONE-AND-DONE” FED HIKE The Fed’s hawkish September meeting is pushing several banks to add another hike or reduce expected rate cuts, including Goldman Sachs, Morgan Stanley, NatWest, Rabobank, Swedbank and Commerzbank…
+- 09/18 00:43 [FirstSquawk] SPACEX PLANS TO ACQUIRE DATA FOR AI MODELS FROM FAILED STARTUPS.
+- 09/18 00:48 [FirstSquawk] LUFTHANSA EXPANDS BOEING 737 MAX FLEET
+- 09/18 00:50 [financialjuice] Three pumping stations along Saudi Arabia's east-west oil pipeline were damaged in an attack last week - Sources.
+- 09/18 00:50 [FirstSquawk] THREE OIL PUMP STATIONS ON SAUDI ARABIA'S EAST-WEST PIPELINE WERE HIT IN AN ATTACK LAST WEEK
+- 09/18 00:50 [financialjuice] ECB’s Zigman: Growth is at risk if inflation isn’t tackled.
+- 09/18 00:51 [financialjuice] ECB's Zigman: We don’t see any major second-round effects.
+- 09/18 00:51 [financialjuice] ECB's Zigman: There’s a lot of optimism for growth.
+- 09/18 00:51 [financialjuice] ECB's Zigman: Market bets don't determine the ECB’s next steps.

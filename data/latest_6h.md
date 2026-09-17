@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 00:33 JST／対象: 09/17 18:33 〜 09/18 00:33 JST（時刻はすべて日本時間）
+生成: 2026-09-18 00:52 JST／対象: 09/17 18:52 〜 09/18 00:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/17 18:43 | 09/17 23:42 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 91 | 09/17 18:38 | 09/18 00:32 | 17分（20:29→20:46） |
-| financialjuice | 113 | 09/17 18:48 | 09/18 00:33 | 30分（20:29→21:00） |
+| DeItaone | 4 | 09/17 21:58 | 09/18 00:42 | ⚠ 70分（22:31→23:42） |
+| FirstSquawk | 86 | 09/17 18:52 | 09/18 00:50 | 17分（20:29→20:46） |
+| financialjuice | 111 | 09/17 18:55 | 09/18 00:51 | 30分（20:29→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 204 行（統合前 208 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 197 行（統合前 201 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 18:38 [FirstSquawk] IRAN HAS ORDERED A SWEDISH DIPLOMAT TO LEAVE TEHRAN IN 48 HOURS, ACCORDING TO TASNIM NEWS.
-- 09/17 18:38 [FirstSquawk] TAKAICHI PLANS TO SPEED UP POLICIES FOR A ROBUST ECONOMY.
-- 09/17 18:38 [FirstSquawk] TAKAICHI PLANS TO CREATE A VIRTUAL CYCLE WITH INCREASING TAX REVENUE AND ECONOMIC GROWTH.
-- 09/17 18:38 [FirstSquawk] TAKAICHI PLANS TO PROMOTE A POSITIVE CYCLE THROUGH INCREASED TAX REVENUE AND ECONOMIC GROWTH.
-- 09/17 18:38 [FirstSquawk] TAKAICHI ANNOUNCES PLANS FOR A CAREFUL GROWTH-ORIENTED FISCAL POLICY.
-- 09/17 18:43 [DeItaone] GOLDMAN SACHS NOW EXPECTS ANOTHER FED HIKE IN OCTOBER Goldman Sachs has shifted its Fed call, now expecting another 25bp hike in October after Wednesday’s meeting proved more hawkish than anticipated. GS joins ANZ, BofA, RBC and TD Securiti…
-- 09/17 18:46 [FirstSquawk] KREMLIN STATES THEY ARE MONITORING THE U.S. SANCTIONS BILL AND CALL IT AN UNFRIENDLY ACT.
-- 09/17 18:46 [FirstSquawk] KREMLIN SAYS NEW U.S. SANCTIONS WILL HAMPER PEACE EFFORTS IN UKRAINE.
-- 09/17 18:47 [FirstSquawk] POLAND'S MILITARY DEPLOYS AIRCRAFT IN RESPONSE TO RUSSIAN ATTACKS ON UKRAINE.
-- 09/17 18:48 [financialjuice] Japan's PM Takaichi: This is a cabinet of decision, challenge, and action
-- 09/17 18:48 [financialjuice] Japan's PM Takaichi: To implement responsible expansionary fiscal policy
-- 09/17 18:48 [financialjuice] Japan's PM Takaichi: This is the first year for proactive fiscal policy
-- 09/17 18:48 [financialjuice] Japan PM Takaichi: aim to achieve a positive economic cycle by boosting wages, employment, consumer sentiment, and tax revenue
-- 09/17 18:49 [financialjuice] Japan's PM Takaichi: Aim for virtual cycle with rising tax revenue and growth
-- 09/17 18:49 [financialjuice] Kremlin: US sanctions bill makes peace settlement harder - Tass
-- 09/17 18:49 [financialjuice] Japan's PM Takaichi: To enhance defense capabilities proactively
 - 09/17 18:52 [FirstSquawk] CANADA'S PRIME MINISTER CARNEY STATES THE COUNTRY IS A RELIABLE ALLY AND DOES NOT ENGAGE IN ZERO-SUM DEALS.
 - 09/17 18:55 [financialjuice] Canada's PM Carney: Canada and the EU hold common values as base of partnership
 - 09/17 18:55 [financialjuice] Canada's PM Carney: We are not fair-weather allies, we do not pursue zero-sum deals
@@ -228,3 +212,12 @@
 - 09/18 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.820% (FORECAST -, PREVIOUS 3.775%) $MACRO
 - 09/18 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 3.020 (FORECAST -, PREVIOUS 2.810) $MACRO
 - 09/18 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.820% Bid-to-cover 3.02 US sells $90 bln Awards 69.59% of bids at high
+- 09/18 00:42 [DeItaone] WALL STREET RETHINKS “ONE-AND-DONE” FED HIKE The Fed’s hawkish September meeting is pushing several banks to add another hike or reduce expected rate cuts, including Goldman Sachs, Morgan Stanley, NatWest, Rabobank, Swedbank and Commerzbank…
+- 09/18 00:43 [FirstSquawk] SPACEX PLANS TO ACQUIRE DATA FOR AI MODELS FROM FAILED STARTUPS.
+- 09/18 00:48 [FirstSquawk] LUFTHANSA EXPANDS BOEING 737 MAX FLEET
+- 09/18 00:50 [financialjuice] Three pumping stations along Saudi Arabia's east-west oil pipeline were damaged in an attack last week - Sources.
+- 09/18 00:50 [FirstSquawk] THREE OIL PUMP STATIONS ON SAUDI ARABIA'S EAST-WEST PIPELINE WERE HIT IN AN ATTACK LAST WEEK
+- 09/18 00:50 [financialjuice] ECB’s Zigman: Growth is at risk if inflation isn’t tackled.
+- 09/18 00:51 [financialjuice] ECB's Zigman: We don’t see any major second-round effects.
+- 09/18 00:51 [financialjuice] ECB's Zigman: There’s a lot of optimism for growth.
+- 09/18 00:51 [financialjuice] ECB's Zigman: Market bets don't determine the ECB’s next steps.

@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 00:33 JST／対象: 09/17 12:33 〜 09/18 00:33 JST（時刻はすべて日本時間）
+生成: 2026-09-18 00:52 JST／対象: 09/17 12:52 〜 09/18 00:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/17 16:07 | 09/17 23:42 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 172 | 09/17 12:38 | 09/18 00:32 | 29分（16:17→16:47） |
-| financialjuice | 165 | 09/17 12:38 | 09/18 00:33 | 45分（18:03→18:48） |
+| DeItaone | 6 | 09/17 16:07 | 09/18 00:42 | ⚠ 194分（18:43→21:58） |
+| FirstSquawk | 166 | 09/17 12:53 | 09/18 00:50 | 29分（16:17→16:47） |
+| financialjuice | 165 | 09/17 13:02 | 09/18 00:51 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 338 行（統合前 342 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 333 行（統合前 337 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 12:38 [financialjuice] Japan finance minister Katayama: will review budget requests, manage debt issuance to maintain market trust
-- 09/17 12:38 [FirstSquawk] Katayama: Japan will scrutinize budget requests and control debt issuance to preserve market confidence.
-- 09/17 12:38 [FirstSquawk] AstraZeneca plans a nearly 200 million yuan investment to modernize its Wuxi manufacturing base in China.
-- 09/17 12:39 [financialjuice] Japan finance minister Katayama: we are committed to tackling extreme volatility with launch of Japan-U.S. joint intervention
-- 09/17 12:39 [FirstSquawk] Katayama: Japan and the US made clear their resolve to tackle excessive currency-market volatility when they initiated joint intervention.
-- 09/17 12:39 [FirstSquawk] AstraZeneca: Upgraded Wuxi production base in China is scheduled to be operational by Q4 2029.
-- 09/17 12:41 [FirstSquawk] 2-year Japanese government bond yield climbs 2 bps to 1.865%.
-- 09/17 12:41 [financialjuice] Japan finance minister Katayama: no remarks on BoJ policy
-- 09/17 12:42 [FirstSquawk] Japan’s Finance Minister Katayama: Will not comment on BOJ policy.
-- 09/17 12:42 [financialjuice] Japan finance minister Katayama: expect BOJ to closely align with government, apply suitable monetary policy to meet 2% inflation goal
-- 09/17 12:42 [FirstSquawk] Katayama: BOJ expected to coordinate closely with the government and take appropriate monetary policy steps toward its 2% price target.
-- 09/17 12:45 [FirstSquawk] 2-year Japanese government bond yield climbs 2 bps to 1.865%, reaching its highest since April 1995.
-- 09/17 12:47 [financialjuice] Ukraine drone strike damages oil refinery in Russia's Yaroslavl, governor says
-- 09/17 12:48 [FirstSquawk] Yaroslavl oil refinery in Russia damaged after a Ukrainian drone strike, according to the governor.
 - 09/17 12:53 [FirstSquawk] Macquarie sees two more 25-bps Fed rate hikes, one in December and another in Q1 2027.
 - 09/17 13:02 [financialjuice] EU asks China to voluntarily curb car exports - FT
 - 09/17 13:02 [financialjuice] EU urges China to voluntarily limit hybrid car exports to avoid trade war: FT
@@ -362,3 +348,12 @@
 - 09/18 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.820% (FORECAST -, PREVIOUS 3.775%) $MACRO
 - 09/18 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 3.020 (FORECAST -, PREVIOUS 2.810) $MACRO
 - 09/18 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.820% Bid-to-cover 3.02 US sells $90 bln Awards 69.59% of bids at high
+- 09/18 00:42 [DeItaone] WALL STREET RETHINKS “ONE-AND-DONE” FED HIKE The Fed’s hawkish September meeting is pushing several banks to add another hike or reduce expected rate cuts, including Goldman Sachs, Morgan Stanley, NatWest, Rabobank, Swedbank and Commerzbank…
+- 09/18 00:43 [FirstSquawk] SPACEX PLANS TO ACQUIRE DATA FOR AI MODELS FROM FAILED STARTUPS.
+- 09/18 00:48 [FirstSquawk] LUFTHANSA EXPANDS BOEING 737 MAX FLEET
+- 09/18 00:50 [financialjuice] Three pumping stations along Saudi Arabia's east-west oil pipeline were damaged in an attack last week - Sources.
+- 09/18 00:50 [FirstSquawk] THREE OIL PUMP STATIONS ON SAUDI ARABIA'S EAST-WEST PIPELINE WERE HIT IN AN ATTACK LAST WEEK
+- 09/18 00:50 [financialjuice] ECB’s Zigman: Growth is at risk if inflation isn’t tackled.
+- 09/18 00:51 [financialjuice] ECB's Zigman: We don’t see any major second-round effects.
+- 09/18 00:51 [financialjuice] ECB's Zigman: There’s a lot of optimism for growth.
+- 09/18 00:51 [financialjuice] ECB's Zigman: Market bets don't determine the ECB’s next steps.
