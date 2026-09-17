@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 19:18 JST／対象: 09/16 19:18 〜 09/17 19:18 JST（時刻はすべて日本時間）
+生成: 2026-09-17 19:33 JST／対象: 09/16 19:33 〜 09/17 19:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 52 | 09/16 19:25 | 09/17 18:43 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 399 | 09/16 19:18 | 09/17 19:16 | 32分（05:10→05:42） |
-| financialjuice | 316 | 09/16 19:52 | 09/17 19:16 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 51 | 09/16 20:00 | 09/17 18:43 | ⚠ 483分（08:04→16:07） |
+| FirstSquawk | 399 | 09/16 19:34 | 09/17 19:26 | 32分（05:10→05:42） |
+| financialjuice | 319 | 09/16 19:52 | 09/17 19:29 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 753 行（統合前 772 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 754 行（統合前 774 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 19:18 [FirstSquawk] EUROPEAN COMMISSION PRESIDENT URSULA VON DER LEYEN AIMS FOR CANADA TO BE THE EU'S FIRST 'ASSOCIATE MEMBER.'
-- 09/16 19:25 [FirstSquawk] MORGAN STANLEY ASSUMES AIRBNB COVERAGE WITH ‘EQUAL WEIGHT’ RATING; PRICE TARGET $170
-- 09/16 19:25 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 8:30 AM ET — 🇺🇸 Retail Sales 8:30 AM ET — 🇺🇸 Import & Export Prices 10:30 AM ET — 🛢️ EIA Oil Inventories 1:00 PM ET — 🇺🇸 Treasury Auction 2:00 PM ET — 🏦 FOMC RATE DECISION + DOT PLOT 2:30 PM ET — 🎙️ Fed…
-- 09/16 19:30 [FirstSquawk] SAUDI AIR DEFENSES DEFEATED A DRONE FROM YEMEN’S HOUTHIS BEFORE IT REACHED RESTRICTED AIRSPACE NEAR MECCA, ACCORDING TO THE SAUDI-LED COALITION.
-- 09/16 19:32 [FirstSquawk] FORMER ISRAELI PM NAFTALI BENNETT WARNS THAT IF IRAN OBTAINS NUCLEAR WEAPONS, NEIGHBORING COUNTRIES LIKE SAUDI ARABIA, TURKEY, AND EGYPT WILL SEEK THEIR OWN NUCLEAR CAPABILITIES AS WELL.
 - 09/16 19:34 [FirstSquawk] CENTENE STILL SEES FY ADJ EPS ABOVE $4.80 (EST $4.88)
 - 09/16 19:36 [FirstSquawk] CHINESE FM WANG YI DISCUSSED WITH IRAN'S FM ARAGHCHI IN BEIJING.
 - 09/16 19:37 [FirstSquawk] LME TO ROLL OUT ELECTRONIC OPTIONS FROM MARCH 30 2027, MARKET TEST ENVIRONMENT AVAILABLE FROM OCTOBER 19 2026
@@ -777,3 +772,9 @@
 - 09/17 19:09 [financialjuice] ECB's Rehn: No sign of second-round effects so far
 - 09/17 19:16 [FirstSquawk] EXPLOSIONS HEARD NEAR UKRAINE-POLAND BORDER DURING RUSSIAN DRONE STRIKE, SAYS UKRAINIAN OFFICIAL.
 - 09/17 19:16 [financialjuice] PBOC's Xuan discusses PayPal's China development with executive $PYPL
+- 09/17 19:18 [FirstSquawk] NO DAMAGE TO BORDER CROSSINGS AFTER RUSSIAN DRONE ATTACK IN WESTERN UKRAINE, UKRAINIAN BORDER SERVICE SAYS
+- 09/17 19:19 [financialjuice] ECB's Rehn: Euro-area economy has shown resilience
+- 09/17 19:23 [FirstSquawk/financialjuice] ECB’S REHN: INFLATION OUTLOOK IS SOMEWHAT MIXED
+- 09/17 19:25 [FirstSquawk] BARCLAYS REINSTATES WARNER BROS. DISCOVERY COVERAGE WITH EQUAL WEIGHT RATING; TARGET PRICE $29
+- 09/17 19:26 [FirstSquawk] REHN: ECB RATE HIKE LAST WEEK WAS WARRANTED
+- 09/17 19:29 [financialjuice] ECB's Rehn: ECB rate hike last week was warranted
