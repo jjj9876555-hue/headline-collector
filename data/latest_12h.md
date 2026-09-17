@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 16:05 JST／対象: 09/17 04:05 〜 09/17 16:05 JST（時刻はすべて日本時間）
+生成: 2026-09-17 16:26 JST／対象: 09/17 04:26 〜 09/17 16:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/17 04:12 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 209 | 09/17 04:08 | 09/17 15:58 | 32分（05:10→05:42） |
-| financialjuice | 87 | 09/17 04:08 | 09/17 16:01 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 13 | 09/17 04:35 | 09/17 16:07 | ⚠ 483分（08:04→16:07） |
+| FirstSquawk | 208 | 09/17 04:47 | 09/17 16:17 | 32分（05:10→05:42） |
+| financialjuice | 87 | 09/17 04:38 | 09/17 16:26 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 303 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 304 行（統合前 311 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 04:08 [financialjuice/FirstSquawk] White House's Desai: The Fed rate hike is rather unfortunate - Fox News.
-- 09/17 04:08 [financialjuice/FirstSquawk] White House's Desai: Higher interest rates do not change oil prices.
-- 09/17 04:09 [financialjuice] White House's Desai: Trump still believes in Fed independence.
-- 09/17 04:12 [DeItaone] DOUBLELINE CEO GUNDLACH: I SEE VIRTUALLY NO CHANCE THAT THIS IS THE PEAK OF THE FED FUNDS RATE- CNBC
-- 09/17 04:14 [FirstSquawk] BOEING CEO SAYS 737 MAX 10 CERTIFICATION IS COMING “VERY SHORTLY”, BUT PRODUCTION IS TAKING LONGER THAN EXPECTED TO STABILIZE AT 47 JETS A MONTH, WITH WING PRODUCTION THE KEY SUPPLY-CHAIN CONSTRAINT.
-- 09/17 04:14 [FirstSquawk] BOEING SAYS 777X ENGINE DELAYS COULD PUSH SOME TESTING INTO 2027 WHILE STILL TARGETING 2027 DELIVERIES, AS SLOWER 737 AND 787 RATE RAMP-UPS REDUCE THE CHANCE OF REACHING THE UPPER END OF ITS 2026 FREE-CASH-FLOW FORECAST.
-- 09/17 04:22 [financialjuice] Thursday FX Option Expiries
-- 09/17 04:23 [FirstSquawk] US DOLLAR INDEX JUMPS 0.61% TO 100.28, ON TRACK FOR BIGGEST DAILY GAIN SINCE JUNE 17
 - 09/17 04:35 [DeItaone] White House says Fed rate hike 'unfortunate'
 - 09/17 04:38 [financialjuice] ❗ Banks line up a $22b chip loan tied to Blackstone and Alphabet. $BLK $GOOGL
 - 09/17 04:38 [financialjuice] Banks line up a $22b chip loan tied to Blackstone and Alphabet. $BX $GOOGL
@@ -327,3 +319,12 @@
 - 09/17 15:47 [FirstSquawk] UOB: Sterling remains vulnerable to further weakness against the US dollar despite oversold conditions.
 - 09/17 15:58 [FirstSquawk] Russia uses North Korean workers in drone production for its war effort in Ukraine, SCMP reports.
 - 09/17 16:01 [financialjuice] EU: Canada deal is 'for our common strength’ - Spokesman
+- 09/17 16:07 [DeItaone] *EU SAYS CANADA DEAL IS ‘NOT AGAINST ANYONE ELSE’: SPOKESMAN *EU SAYS CANADA DEAL IS ‘FOR OUR COMMON STRENGTH’: SPOKESMAN Comes after US President Trump’s response to the proposal yesterday: “If they do that, if I think it’s at all a hostil…
+- 09/17 16:13 [financialjuice] Huawei is testing its AI chips in limited foreign markets
+- 09/17 16:17 [FirstSquawk] EU SPOKESPERSON SAID CANADA PARTNERSHIP ENHANCEMENT IS NOT AIMED AT OTHERS, BUT TO BOOST COMMON STRENGTH AMID TRUMP'S TARIFF THREATS.
+- 09/17 16:17 [financialjuice] Xu: Huawei has a bigger China AI chip market share than Nvidia $NVDA
+- 09/17 16:17 [FirstSquawk] HUAWEI IS TRIALING ITS AI CHIPS IN SELECT OVERSEAS MARKETS.
+- 09/17 16:17 [FirstSquawk] CHINA AND US ECONOMIC TEAMS ARE DISCUSSING TARIFFS, SAYS MOFCOM.
+- 09/17 16:17 [FirstSquawk] HUAWEI HOLDS A LARGER SHARE OF CHINA'S AI CHIP MARKET THAN NVIDIA, SAYS XU.
+- 09/17 16:19 [financialjuice] Kazakhstan's oil output seen at 96 mln tons in 2028, 99 million tons in 2029 - IFX
+- 09/17 16:26 [financialjuice] Azerbaijan oil output falls 8.3% y/y to 2.2m tons in August - IFX

@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 16:05 JST／対象: 09/17 10:05 〜 09/17 16:05 JST（時刻はすべて日本時間）
+生成: 2026-09-17 16:26 JST／対象: 09/17 10:26 〜 09/17 16:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 100 | 09/17 10:08 | 09/17 15:58 | 14分（11:48→12:03） |
-| financialjuice | 43 | 09/17 10:10 | 09/17 16:01 | ⚠ 78分（10:31→11:49） |
+| DeItaone | 1 | 09/17 16:07 | 09/17 16:07 | - |
+| FirstSquawk | 91 | 09/17 10:29 | 09/17 16:17 | 19分（15:58→16:17） |
+| financialjuice | 40 | 09/17 10:31 | 09/17 16:26 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 143 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 132 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 10:08 [FirstSquawk] Gold prices climb 1% to $4,303.35/oz in spot trading.
-- 09/17 10:10 [financialjuice] Hong Kong Monetary Authority chief executive: widening interest rate gap with US could trigger carry trade, pushing HK dollar exchange rate toward weaker side of band
-- 09/17 10:10 [FirstSquawk] HKMA chief executive: A widening interest rate gap between Hong Kong and the US could spur carry trades, putting the HK dollar under pressure toward the weak end of its band.
-- 09/17 10:13 [financialjuice] Russian air strike wounds 10 in Ukraine's Kyiv, city authorities say
-- 09/17 10:14 [FirstSquawk] Goldman Sachs shifts its outlook, now expecting a Fed rate increase in October.
-- 09/17 10:15 [FirstSquawk] Goldman Sachs revises its outlook, forecasting another Fed rate increase in October.
-- 09/17 10:16 [FirstSquawk] Yuan midpoint set by PBOC at 6.7580 per dollar.
-- 09/17 10:16 [FirstSquawk] Taiwan dollar drops to 31.958 per US dollar, reaching its weakest level since August 20.
-- 09/17 10:18 [FirstSquawk] Trump’s proposed $2.8 billion weapons sale to Israel faces a block from a top House Democrat.
-- 09/17 10:18 [FirstSquawk] Malaysia’s ringgit drops to 4.098 per US dollar, marking its weakest level since June 26.
-- 09/17 10:19 [FirstSquawk] Gold rises slightly as markets evaluate the Fed’s next moves, WSJ reports.
-- 09/17 10:19 [FirstSquawk] Yuan midpoint set by China at its strongest level since February 3, 2023.
-- 09/17 10:19 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023, according to PBOC
-- 09/17 10:20 [FirstSquawk] Japan announces a ¥3.5 trillion offering of Treasury discount bills.
-- 09/17 10:21 [financialjuice] China injects 162 bln yuan through 7-day reverse repos at 1.40% vs previous 1.40%: statement
-- 09/17 10:21 [financialjuice] North Korea vice defense minister: US arms buildup validates Pyongyang's nuclear force expansion
-- 09/17 10:22 [financialjuice] North Korea vice defence minister: will keep expanding defensive nuclear deterrent
-- 09/17 10:22 [FirstSquawk] North Korea says it will continue expanding its nuclear deterrent, the vice defence minister says.
-- 09/17 10:22 [financialjuice] China central bank injects 600 billion yuan via overnight reverse repos: statement
-- 09/17 10:25 [FirstSquawk] NYT reports that OpenAI identified six new cases involving AI systems that hid mistakes, lied or showed other “concerning” behavior.
 - 09/17 10:29 [FirstSquawk] CSI SSH Gold Equity Index is poised to open 1.5% lower in China.
 - 09/17 10:30 [FirstSquawk] Global rate hikes could constrain the dollar’s support from the Federal Reserve, WSJ reports.
 - 09/17 10:31 [financialjuice] Taiwan stocks advance more than 2%
@@ -167,3 +147,12 @@
 - 09/17 15:47 [FirstSquawk] UOB: Sterling remains vulnerable to further weakness against the US dollar despite oversold conditions.
 - 09/17 15:58 [FirstSquawk] Russia uses North Korean workers in drone production for its war effort in Ukraine, SCMP reports.
 - 09/17 16:01 [financialjuice] EU: Canada deal is 'for our common strength’ - Spokesman
+- 09/17 16:07 [DeItaone] *EU SAYS CANADA DEAL IS ‘NOT AGAINST ANYONE ELSE’: SPOKESMAN *EU SAYS CANADA DEAL IS ‘FOR OUR COMMON STRENGTH’: SPOKESMAN Comes after US President Trump’s response to the proposal yesterday: “If they do that, if I think it’s at all a hostil…
+- 09/17 16:13 [financialjuice] Huawei is testing its AI chips in limited foreign markets
+- 09/17 16:17 [FirstSquawk] EU SPOKESPERSON SAID CANADA PARTNERSHIP ENHANCEMENT IS NOT AIMED AT OTHERS, BUT TO BOOST COMMON STRENGTH AMID TRUMP'S TARIFF THREATS.
+- 09/17 16:17 [financialjuice] Xu: Huawei has a bigger China AI chip market share than Nvidia $NVDA
+- 09/17 16:17 [FirstSquawk] HUAWEI IS TRIALING ITS AI CHIPS IN SELECT OVERSEAS MARKETS.
+- 09/17 16:17 [FirstSquawk] CHINA AND US ECONOMIC TEAMS ARE DISCUSSING TARIFFS, SAYS MOFCOM.
+- 09/17 16:17 [FirstSquawk] HUAWEI HOLDS A LARGER SHARE OF CHINA'S AI CHIP MARKET THAN NVIDIA, SAYS XU.
+- 09/17 16:19 [financialjuice] Kazakhstan's oil output seen at 96 mln tons in 2028, 99 million tons in 2029 - IFX
+- 09/17 16:26 [financialjuice] Azerbaijan oil output falls 8.3% y/y to 2.2m tons in August - IFX
