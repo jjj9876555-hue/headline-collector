@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 14:52 JST／対象: 09/17 08:52 〜 09/17 14:52 JST（時刻はすべて日本時間）
+生成: 2026-09-17 15:06 JST／対象: 09/17 09:06 〜 09/17 15:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 123 | 09/17 09:04 | 09/17 14:49 | 14分（11:48→12:03） |
-| financialjuice | 47 | 09/17 09:04 | 09/17 14:20 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 128 | 09/17 09:07 | 09/17 15:05 | 14分（11:48→12:03） |
+| financialjuice | 49 | 09/17 09:08 | 09/17 15:05 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 170 行（統合前 170 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 177 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 09:04 [FirstSquawk] DOLLAR/YEN FALLS 0.21% TO 155.95 IN LATEST TRADE
-- 09/17 09:04 [financialjuice] Dollar/yen slides 0.21% to 155.95
 - 09/17 09:07 [FirstSquawk] TRUMP SAYS IRAN IS NOT READY FOR A DEAL, BUT WAR WITH IRAN WILL END “VERY SOON”
 - 09/17 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.2% TO 8,714 IN EARLY TRADE
 - 09/17 09:08 [financialjuice] Trump: we're very close to an agreement with Mexico
@@ -194,3 +192,12 @@
 - 09/17 14:33 [FirstSquawk] HSBC ends a $38,000 education subsidy for some Hong Kong bankers, FT reports.
 - 09/17 14:39 [FirstSquawk] Iran war and El Niño threaten food supplies in Asia, raising concerns over potential unrest, SCMP reports.
 - 09/17 14:49 [FirstSquawk] WSJ: Dollar gains from Fed tightening may not develop into a lasting strengthening trend.
+- 09/17 14:55 [FirstSquawk] Ferrari and Rakuten sign a partnership agreement effective from January 1, 2027.
+- 09/17 14:56 [FirstSquawk] Morgan Stanley forecasts 25 bps of additional Fed tightening in March 2027, while maintaining its call for a December rate hike.
+- 09/17 14:58 [financialjuice] SWISS TRADE BALANCE ACTUAL 3,786M (FORECAST -, PREVIOUS 8,730M ,REVISION 5,742M) $MACRO
+- 09/17 15:03 [FirstSquawk] Switzerland Exports Real (M/M) Aug: -8.6% (prev 10.7%; prevR 11.2%)
+- 09/17 15:03 [FirstSquawk] Switzerland Swiss Watch Exports (Y/Y): 9.1% (prev 9.6%)
+- 09/17 15:03 [FirstSquawk] Switzerland Imports Real (M/M): -3.1% (prev -2.8%; prevR -1.5%)
+- 09/17 15:05 [financialjuice] Japan and the US are in talks on chip plant under investment plan - Nikkei
+- 09/17 15:05 [FirstSquawk] Japan and US are discussing chip factory construction under their $550 billion investment framework, Nikkei reports.
+- 09/17 15:05 [financialjuice] Japan and the US discussing chip factory construction as part of $550 bln investment talks - Nikkei

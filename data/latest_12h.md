@@ -7,59 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 14:52 JST／対象: 09/17 02:52 〜 09/17 14:52 JST（時刻はすべて日本時間）
+生成: 2026-09-17 15:06 JST／対象: 09/17 03:06 〜 09/17 15:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/17 03:00 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 256 | 09/17 03:00 | 09/17 14:49 | 32分（05:10→05:42） |
-| financialjuice | 154 | 09/17 02:56 | 09/17 14:20 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 24 | 09/17 03:09 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
+| FirstSquawk | 254 | 09/17 03:06 | 09/17 15:05 | 32分（05:10→05:42） |
+| financialjuice | 134 | 09/17 03:08 | 09/17 15:05 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 427 行（統合前 443 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 401 行（統合前 415 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 02:56 [financialjuice] JPMorgan's Michele: Funded long-end purchases with cash.
-- 09/17 02:58 [financialjuice] The US probes Iran link to cyberattacks on Texas-bound tankers - WSJ.
-- 09/17 02:59 [financialjuice] SocGen's Rajappa: I feel like Warsh will keep the Jackson Hole messaging.
-- 09/17 03:00 [DeItaone] FED RAISES RATES 25 BPS TO 3.75%-4.00% TARGET RANGE
-- 09/17 03:00 [financialjuice] ‼ BREAKING: US INTEREST RATE DECISION ACTUAL 4% (FORECAST 4%, PREVIOUS 3.75%) $MACRO
-- 09/17 03:00 [financialjuice] Fed: Job gains have kept pace with the workforce, unemployment rate has changed little.
-- 09/17 03:00 [DeItaone] *FOMC MEDIAN FORECAST SHOWS ONE ADDITIONAL 25 BPS HIKE IN 2026
-- 09/17 03:00 [FirstSquawk] U.S. (SEP) FED INTEREST RATE DECISION ACTUAL: 4.00% VS 3.75% PREVIOUS; EST 4.00%
-- 09/17 03:00 [financialjuice] ❗ Fed: Vote in favor of policy was unanimous.
-- 09/17 03:00 [DeItaone] *FED UNANIMOUSLY RAISES BENCHMARK RATE 25 BPS TO 3.75%-4% RANGE
-- 09/17 03:00 [DeItaone] *FED: RATE HIKE WILL SUPPORT `TIMELIER' RETURN TO 2% INFLATION
-- 09/17 03:01 [financialjuice] ❗ Fed Policymakers see 4.1% unemployment rate at end of 2026 versus 4.3% in June projections.
-- 09/17 03:01 [financialjuice] FED MEDIAN RATE FORECAST (LONG RUN) ACTUAL 3.25% (FORECAST 3.125%, PREVIOUS 3.063%) $MACRO
-- 09/17 03:01 [financialjuice] FED MEDIAN RATE FORECAST (NEXT YR) ACTUAL 4.125% (FORECAST 3.875%, PREVIOUS 3.625%) $MACRO
-- 09/17 03:01 [financialjuice] FED MEDIAN RATE FORECAST (NEXT 2 YRS) ACTUAL 3.875% (FORECAST 3.625%, PREVIOUS 3.375%) $MACRO
-- 09/17 03:01 [financialjuice] FED MEDIAN RATE FORECAST (NEXT 3 YRS) ACTUAL 3.625% (FORECAST 3.375%, PREVIOUS -) $MACRO
-- 09/17 03:01 [financialjuice] ❗ FED MEDIAN RATE FORECAST (CURRENT) ACTUAL 4.125% (FORECAST 4.125%, PREVIOUS 3.75%) $MACRO
-- 09/17 03:01 [financialjuice] ❗ Fed Policymakers see end-2026 PCE inflation at 3.7% versus 3.6% in June; core seen at 3.4% versus 3.3%.
-- 09/17 03:01 [financialjuice] ❗ Fed Policymakers see 2.3% GDP growth in 2026 versus 2.2% in June, see longer-run growth at 2.0% vs 2.0% in June.
-- 09/17 03:01 [financialjuice] Fed: Inflation remains elevated, drops earlier description of that owing in part to supply shocks.
-- 09/17 03:01 [financialjuice] Fed: Domestic spending has been resilient despite elevated uncertainty.
-- 09/17 03:02 [financialjuice] Fed: Productivity growth is strong, capital investment is robust.
-- 09/17 03:02 [financialjuice] ❗ Fed: 16 officials project at least one more rate hike in 2026.
-- 09/17 03:02 [financialjuice] ❗ Fed Officials' median view of the Fed funds rate at end-2029 3.6%.
-- 09/17 03:03 [FirstSquawk] FEDERAL RESERVE HAS RAISED ITS KEY OVERNIGHT INTEREST RATE BY 25 BASIS POINTS TO A 3.75%-4.00% RANGE, SAYING THE ACTION WILL SUPPORT A TIMELIER RETURN TO ITS 2% INFLATION GOAL, WITH THE VOTE UNANIMOUS.
-- 09/17 03:03 [FirstSquawk] FED SAYS ECONOMIC ACTIVITY IS EXPANDING AT A SOLID PACE, DOMESTIC SPENDING HAS BEEN RESILIENT DESPITE ELEVATED UNCERTAINTY, JOB GAINS HAVE KEPT PACE WITH THE WORKFORCE, AND INFLATION REMAINS ELEVATED — DROPPING ITS EARLIER DESCRIPTION OF TH…
-- 09/17 03:03 [FirstSquawk] FED SAYS PRODUCTIVITY GROWTH IS STRONG AND CAPITAL INVESTMENT IS ROBUST, ADDING THAT THE COMMITTEE 'WILL DELIVER PRICE STABILITY'.
-- 09/17 03:03 [financialjuice] Fed Rate Statement
-- 09/17 03:04 [financialjuice] FOMC September SEP
-- 09/17 03:04 [financialjuice] ❗ Fed Projections show 12 of 18 officials see one more 25-basis-point rate hike this year; four see two hikes; two see no more hikes.
-- 09/17 03:05 [FirstSquawk] U.S. DOLLAR INDEX RISES 0.15% TO 99.83 AFTER THE FED DECISION, WHILE STERLING FALLS 0.33% TO $1.3432 AND THE EURO DROPS 0.21% TO $1.1517.
-- 09/17 03:05 [FirstSquawk] DOLLAR/YEN GAINS 0.1% TO 155.24 AS THE DOLLAR STRENGTHENS ACROSS MAJOR CURRENCIES FOLLOWING THE FED’S DECISION.
-- 09/17 03:05 [DeItaone] FOMC RAISES RATES 25 BPS TO 3.75%-4%; VOTE 12-0 12 FOMC MEMBERS SEE RATES AT 4.1% BY END-2026 FED: HIKE WILL SUPPORT TIMELIER RETURN TO 2% INFLATION 4 MEMBERS SEE RATES AT 4.4% BY DEC, 2 SEE RATES AT 3.9% MEDIAN FED FUNDS RATE PROJECTION 4.…
-- 09/17 03:06 [FirstSquawk] FED MEDIAN RATE FORECAST RISES TO 4.125% FOR NEXT YEAR, 3.875% FOR TWO YEARS AND 3.625% FOR THREE YEARS, ALL ABOVE PREVIOUS FORECASTS.
-- 09/17 03:06 [FirstSquawk] FED’S LONG-RUN RATE FORECAST ALSO RISES TO 3.25% FROM 3.063%, SIGNALING HIGHER EXPECTED RATES OVER THE LONGER TERM.
-- 09/17 03:06 [financialjuice/FirstSquawk] ❗ Traders maintain bets on another Fed rate hike this year
+- 09/17 03:06 [FirstSquawk] TRADERS MAINTAIN BETS ON ANOTHER FED RATE HIKE THIS YEAR
 - 09/17 03:07 [FirstSquawk] FED PROJECTIONS SHOW 12 OF 18 OFFICIALS SEE ONE MORE 25-BASIS-POINT RATE HIKE THIS YEAR, FOUR SEE TWO HIKES, AND TWO SEE NO MORE HIKES.
 - 09/17 03:07 [FirstSquawk] 16 FED OFFICIALS PROJECT AT LEAST ONE MORE RATE HIKE IN 2026, WHILE THE MEDIAN FED FUNDS RATE FORECAST FOR END-2029 IS 3.6%.
 - 09/17 03:08 [financialjuice] Pimco's Clarida: I think it is important it was a unanimous decision
@@ -451,3 +416,12 @@
 - 09/17 14:33 [FirstSquawk] HSBC ends a $38,000 education subsidy for some Hong Kong bankers, FT reports.
 - 09/17 14:39 [FirstSquawk] Iran war and El Niño threaten food supplies in Asia, raising concerns over potential unrest, SCMP reports.
 - 09/17 14:49 [FirstSquawk] WSJ: Dollar gains from Fed tightening may not develop into a lasting strengthening trend.
+- 09/17 14:55 [FirstSquawk] Ferrari and Rakuten sign a partnership agreement effective from January 1, 2027.
+- 09/17 14:56 [FirstSquawk] Morgan Stanley forecasts 25 bps of additional Fed tightening in March 2027, while maintaining its call for a December rate hike.
+- 09/17 14:58 [financialjuice] SWISS TRADE BALANCE ACTUAL 3,786M (FORECAST -, PREVIOUS 8,730M ,REVISION 5,742M) $MACRO
+- 09/17 15:03 [FirstSquawk] Switzerland Exports Real (M/M) Aug: -8.6% (prev 10.7%; prevR 11.2%)
+- 09/17 15:03 [FirstSquawk] Switzerland Swiss Watch Exports (Y/Y): 9.1% (prev 9.6%)
+- 09/17 15:03 [FirstSquawk] Switzerland Imports Real (M/M): -3.1% (prev -2.8%; prevR -1.5%)
+- 09/17 15:05 [financialjuice] Japan and the US are in talks on chip plant under investment plan - Nikkei
+- 09/17 15:05 [FirstSquawk] Japan and US are discussing chip factory construction under their $550 billion investment framework, Nikkei reports.
+- 09/17 15:05 [financialjuice] Japan and the US discussing chip factory construction as part of $550 bln investment talks - Nikkei
