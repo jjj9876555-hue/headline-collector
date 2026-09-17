@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 05:33 JST／対象: 09/17 17:33 〜 09/18 05:33 JST（時刻はすべて日本時間）
+生成: 2026-09-18 05:49 JST／対象: 09/17 17:49 〜 09/18 05:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/17 18:43 | 09/18 02:59 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 141 | 09/17 17:56 | 09/18 05:16 | ⚠ 51分（03:49→04:40） |
+| FirstSquawk | 142 | 09/17 17:56 | 09/18 05:40 | ⚠ 51分（03:49→04:40） |
 | financialjuice | 168 | 09/17 17:58 | 09/18 05:13 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 311 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 312 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -335,3 +335,4 @@
 - 09/18 05:02 [FirstSquawk] KROGER DECLARES QUARTERLY DIVIDEND OF $0.39/SHARE, PAYABLE DECEMBER 1, 2026
 - 09/18 05:13 [financialjuice] Stocks and Bonds Rally as Falling Oil Eases Inflation Concerns – US Market Wrap
 - 09/18 05:16 [FirstSquawk] US STOCKS AND BONDS RALLIED AS FALLING OIL PRICES EASED INFLATION CONCERNS, HELPING MARKETS ABSORB THE FEDERAL RESERVE’S FIRST RATE HIKE SINCE 2023. THE S&P 500 GAINED 1.1%, ITS STRONGEST ADVANCE IN SIX WEEKS, WHILE THE NASDAQ 100 CLIMBED 1…
+- 09/18 05:40 [FirstSquawk] ANTHROPIC SAID ITS MEASUREMENTS WILL FOCUS ON HOW AI MODELS ARE BUILT AND DEVELOPED, WITH THE DATA SHARED TO HELP TRACK PROGRESS; CLAUDE ACCOUNTED FOR 26% OF AI R&D USE AS OF AUGUST 2026.

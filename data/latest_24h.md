@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 05:33 JST／対象: 09/17 05:33 〜 09/18 05:33 JST（時刻はすべて日本時間）
+生成: 2026-09-18 05:49 JST／対象: 09/17 05:49 〜 09/18 05:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 20 | 09/17 05:50 | 09/18 02:59 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 351 | 09/17 05:42 | 09/18 05:16 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 251 | 09/17 05:36 | 09/18 05:13 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 348 | 09/17 05:56 | 09/18 05:40 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 249 | 09/17 05:57 | 09/18 05:13 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 613 行（統合前 628 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 609 行（統合前 623 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 05:36 [financialjuice/FirstSquawk] US-Mexico trade talks have been pushed back one week - WSJ.
-- 09/17 05:40 [financialjuice] Trump: Interest rates in the US should be 1%, or less. Lower the interest rates, and fast - Truth Social
-- 09/17 05:42 [FirstSquawk] THE WHITE HOUSE SEEKS TO REMOVE CANADIAN ITEMS FROM US PROCUREMENT.
-- 09/17 05:44 [FirstSquawk] TRUMP SAYS U.S. INTEREST RATES SHOULD BE 1% OR LOWER, ARGUING THE COUNTRY IS THE “BEST CREDIT IN THE WORLD” AND IS BOOMING WITH NEW INVESTMENT. - TRUTH SOCIAL
-- 09/17 05:45 [FirstSquawk] TRUMP SAYS ENDING TRADE WITH COUNTRIES THE U.S. RUNS DEFICITS WITH COULD GENERATE AT LEAST $1.5 TRILLION A YEAR, ADDING THAT LOWER RATES ARE NEEDED FOR THE UNITED STATES. - TRUTH SOCIAL
 - 09/17 05:50 [DeItaone] TRUMP DEMANDS U.S. INTEREST RATES AT 1% OR LOWER President Trump is calling for U.S. interest rates to be cut to 1% or below, arguing America’s credit strength and booming investment justify dramatically cheaper borrowing. He also criticize…
 - 09/17 05:51 [DeItaone] *TRUMP: LOWER THE INTEREST RATES FOR THE US FAST
 - 09/17 05:51 [DeItaone] TRUMP: LOWER INTEREST RATES FOR UNITED STATES OF AMERICA, AND FAST
@@ -637,3 +632,4 @@
 - 09/18 05:02 [FirstSquawk] KROGER DECLARES QUARTERLY DIVIDEND OF $0.39/SHARE, PAYABLE DECEMBER 1, 2026
 - 09/18 05:13 [financialjuice] Stocks and Bonds Rally as Falling Oil Eases Inflation Concerns – US Market Wrap
 - 09/18 05:16 [FirstSquawk] US STOCKS AND BONDS RALLIED AS FALLING OIL PRICES EASED INFLATION CONCERNS, HELPING MARKETS ABSORB THE FEDERAL RESERVE’S FIRST RATE HIKE SINCE 2023. THE S&P 500 GAINED 1.1%, ITS STRONGEST ADVANCE IN SIX WEEKS, WHILE THE NASDAQ 100 CLIMBED 1…
+- 09/18 05:40 [FirstSquawk] ANTHROPIC SAID ITS MEASUREMENTS WILL FOCUS ON HOW AI MODELS ARE BUILT AND DEVELOPED, WITH THE DATA SHARED TO HELP TRACK PROGRESS; CLAUDE ACCOUNTED FOR 26% OF AI R&D USE AS OF AUGUST 2026.
