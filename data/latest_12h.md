@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 02:31 JST／対象: 09/17 14:31 〜 09/18 02:31 JST（時刻はすべて日本時間）
+生成: 2026-09-18 02:45 JST／対象: 09/17 14:45 〜 09/18 02:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/17 16:07 | 09/18 02:13 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 149 | 09/17 14:33 | 09/18 02:31 | 29分（16:17→16:47） |
-| financialjuice | 169 | 09/17 14:58 | 09/18 02:30 | 45分（18:03→18:48） |
+| FirstSquawk | 156 | 09/17 14:49 | 09/18 02:43 | 29分（16:17→16:47） |
+| financialjuice | 171 | 09/17 14:58 | 09/18 02:34 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 322 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 329 行（統合前 340 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 14:33 [FirstSquawk] HSBC ends a $38,000 education subsidy for some Hong Kong bankers, FT reports.
-- 09/17 14:39 [FirstSquawk] Iran war and El Niño threaten food supplies in Asia, raising concerns over potential unrest, SCMP reports.
 - 09/17 14:49 [FirstSquawk] WSJ: Dollar gains from Fed tightening may not develop into a lasting strengthening trend.
 - 09/17 14:55 [FirstSquawk] Ferrari and Rakuten sign a partnership agreement effective from January 1, 2027.
 - 09/17 14:56 [FirstSquawk] Morgan Stanley forecasts 25 bps of additional Fed tightening in March 2027, while maintaining its call for a December rate hike.
@@ -336,7 +334,7 @@
 - 09/18 02:10 [financialjuice] FAA to launch AI-powered air-traffic tool - WSJ.
 - 09/18 02:13 [financialjuice] SpaceX: Targeting to launch Starship flight 14 as early as Sep 28. $SPCX
 - 09/18 02:13 [DeItaone] TRUMP WEIGHS “BIG DECISION” ON IRAN President Trump says he faces a “big decision” over the next phase of the Iran conflict, including whether to pursue further military action against Tehran. Trump told Axios he plans to use an upcoming UN…
-- 09/18 02:20 [financialjuice] Iraqi Prime Minister to visit US and meet with Trump next week - Mehr News
+- 09/18 02:20 [financialjuice/FirstSquawk] Iraqi Prime Minister to visit US and meet with Trump next week - Mehr News
 - 09/18 02:20 [financialjuice] Iraqi Prime Minister's to visit US and meet with Trump next week to discuss bilateral relations and regional developments - Mehr News
 - 09/18 02:21 [financialjuice] Iraqi Prime Minister to visit US and meet with Trump next week to discuss bilateral relations and regional developments - Mehr News
 - 09/18 02:24 [FirstSquawk] SPACEX: NOW TARGETING TO LAUNCH STARSHIP FLIGHT 14 AS EARLY AS MONDAY, SEPTEMBER 28, PENDING REGULATORY APPROVAL
@@ -344,5 +342,14 @@
 - 09/18 02:28 [FirstSquawk] OIL PRICES FLUCTUATED AS SAUDI ARABIA MOVED TO RESTORE ABOUT HALF OF ITS EAST-WEST PIPELINE CAPACITY WITHIN DAYS AFTER LAST WEEK'S DRONE ATTACK SHUTDOWN, EASING SOME IMMEDIATE SUPPLY CONCERNS. BRENT TRADED NEAR $105 AND WTI AROUND $102, WHI…
 - 09/18 02:28 [FirstSquawk] DESPITE EASING DISRUPTIONS, MIDDLE EAST SUPPLY RISKS REMAIN ELEVATED DUE TO THE U.S.-IRAN WAR, HOUTHI THREATS TO KEY SHIPPING ROUTES, AND THE RUSSIA-UKRAINE CONFLICT, KEEPING MARKETS TIGHT. ANALYSTS SAY UNCERTAINTY OVER THE CONFLICT'S ENDGA…
 - 09/18 02:28 [FirstSquawk] OIL HAS SURGED MORE THAN 70% THIS YEAR, ADDING TO GLOBAL INFLATION PRESSURES AND REINFORCING EXPECTATIONS FOR TIGHTER MONETARY POLICY. NEW U.S. TARIFF POWERS TARGETING BUYERS OF RUSSIAN PETROLEUM PRODUCTS AND CONTINUED ATTACKS ON RUSSIAN RE…
-- 09/18 02:30 [financialjuice] US imposes sanctions on BitBank cryptocurrency exchange, accusing it of enabling Iranian government - Statement
+- 09/18 02:30 [financialjuice/FirstSquawk] US imposes sanctions on BitBank cryptocurrency exchange, accusing it of enabling Iranian government - Statement
 - 09/18 02:31 [FirstSquawk] TRUMP SAYS 'GREAT NEWS' THAT, THANKS TO THE 'BOLD LEADERSHIP' OF HIS FRIEND KAROL NAWROCKI, PRESIDENT OF POLAND, 'MAJOR PROGRESS IS BEING MADE TOWARD ESTABLISHING A U.S. ARMY BASE IN POLAND', ADDING THAT IF IT HAPPENS THE LOCATION WILL BE A…
+- 09/18 02:31 [FirstSquawk] FAA SEES $100M TARIFF IMPACT ON AIR TRAFFIC CONTROL MODERNIZATION COSTS — ADMINISTRATOR BEDFORD
+- 09/18 02:32 [FirstSquawk] PFIZER & BIONTECH’S UPDATED OMICRON XFG COVID-19 VACCINE AUTHORIZED BY HEALTH CANADA; DISTRIBUTION TO BEGIN IN COMING DAYS AND WEEKS
+- 09/18 02:34 [FirstSquawk] IRAQI PRIME MINISTER AND TRUMP TO DISCUSS BILATERAL RELATIONS AND REGIONAL DEVELOPMENTS - MEHR NEWS
+- 09/18 02:34 [financialjuice] OpenA and Nvidia CEOs to attend Trump-Xi state dinner - ABC. $NVDA
+- 09/18 02:34 [financialjuice] OpenAI and Nvidia CEOs to attend Trump-Xi state dinner - ABC. citing soruces $NVDA
+- 09/18 02:37 [FirstSquawk] ANTHROPIC HAS LAUNCHED A LIFE SCIENCES VERIFICATION PROGRAM BETA FOR BIOLOGY-RELATED MODEL ACCESS FOR TEAMS AND INSTITUTIONS, WITH STANDARD USE GRANTS APPLYING TO ITS MYTHOS 5.1, OPUS 5 AND SONNET 5 MODELS
+- 09/18 02:39 [FirstSquawk] OPENAI & NVIDIA CEOS TO ATTEND TRUMP-XI STATE DINNER — ABC
+- 09/18 02:43 [FirstSquawk] RUSSIA EXPECTS ITS 2027 FEDERAL BUDGET DEFICIT TO BE AROUND 2% OF GDP, WITH PROJECTIONS BASED ON A CONSERVATIVE OIL PRICE ASSUMPTION OF ABOUT $50 PER BARREL, PRESIDENT VLADIMIR PUTIN SAID. HE ADDED THAT OIL AND GAS REVENUES ARE EXPECTED TO …
+- 09/18 02:43 [FirstSquawk] PUTIN ALSO SAID RUSSIA’S ECONOMY IS EXPECTED TO GROW ABOUT 1% IN 2026, INFLATION IS GRADUALLY SLOWING, AND THE FEDERAL BUDGET POSTED A RUB 606 BILLION SURPLUS IN AUGUST.

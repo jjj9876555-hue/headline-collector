@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 02:31 JST／対象: 09/17 20:31 〜 09/18 02:31 JST（時刻はすべて日本時間）
+生成: 2026-09-18 02:45 JST／対象: 09/17 20:45 〜 09/18 02:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/17 21:58 | 09/18 02:13 | ⚠ 87分（00:42→02:10） |
-| FirstSquawk | 71 | 09/17 20:46 | 09/18 02:31 | 25分（01:59→02:24） |
-| financialjuice | 78 | 09/17 21:00 | 09/18 02:30 | 29分（22:01→22:31） |
+| FirstSquawk | 80 | 09/17 20:46 | 09/18 02:43 | 25分（01:59→02:24） |
+| financialjuice | 80 | 09/17 21:00 | 09/18 02:34 | 29分（22:01→22:31） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 153 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 171 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -167,7 +167,7 @@
 - 09/18 02:10 [financialjuice] FAA to launch AI-powered air-traffic tool - WSJ.
 - 09/18 02:13 [financialjuice] SpaceX: Targeting to launch Starship flight 14 as early as Sep 28. $SPCX
 - 09/18 02:13 [DeItaone] TRUMP WEIGHS “BIG DECISION” ON IRAN President Trump says he faces a “big decision” over the next phase of the Iran conflict, including whether to pursue further military action against Tehran. Trump told Axios he plans to use an upcoming UN…
-- 09/18 02:20 [financialjuice] Iraqi Prime Minister to visit US and meet with Trump next week - Mehr News
+- 09/18 02:20 [financialjuice/FirstSquawk] Iraqi Prime Minister to visit US and meet with Trump next week - Mehr News
 - 09/18 02:20 [financialjuice] Iraqi Prime Minister's to visit US and meet with Trump next week to discuss bilateral relations and regional developments - Mehr News
 - 09/18 02:21 [financialjuice] Iraqi Prime Minister to visit US and meet with Trump next week to discuss bilateral relations and regional developments - Mehr News
 - 09/18 02:24 [FirstSquawk] SPACEX: NOW TARGETING TO LAUNCH STARSHIP FLIGHT 14 AS EARLY AS MONDAY, SEPTEMBER 28, PENDING REGULATORY APPROVAL
@@ -175,5 +175,14 @@
 - 09/18 02:28 [FirstSquawk] OIL PRICES FLUCTUATED AS SAUDI ARABIA MOVED TO RESTORE ABOUT HALF OF ITS EAST-WEST PIPELINE CAPACITY WITHIN DAYS AFTER LAST WEEK'S DRONE ATTACK SHUTDOWN, EASING SOME IMMEDIATE SUPPLY CONCERNS. BRENT TRADED NEAR $105 AND WTI AROUND $102, WHI…
 - 09/18 02:28 [FirstSquawk] DESPITE EASING DISRUPTIONS, MIDDLE EAST SUPPLY RISKS REMAIN ELEVATED DUE TO THE U.S.-IRAN WAR, HOUTHI THREATS TO KEY SHIPPING ROUTES, AND THE RUSSIA-UKRAINE CONFLICT, KEEPING MARKETS TIGHT. ANALYSTS SAY UNCERTAINTY OVER THE CONFLICT'S ENDGA…
 - 09/18 02:28 [FirstSquawk] OIL HAS SURGED MORE THAN 70% THIS YEAR, ADDING TO GLOBAL INFLATION PRESSURES AND REINFORCING EXPECTATIONS FOR TIGHTER MONETARY POLICY. NEW U.S. TARIFF POWERS TARGETING BUYERS OF RUSSIAN PETROLEUM PRODUCTS AND CONTINUED ATTACKS ON RUSSIAN RE…
-- 09/18 02:30 [financialjuice] US imposes sanctions on BitBank cryptocurrency exchange, accusing it of enabling Iranian government - Statement
+- 09/18 02:30 [financialjuice/FirstSquawk] US imposes sanctions on BitBank cryptocurrency exchange, accusing it of enabling Iranian government - Statement
 - 09/18 02:31 [FirstSquawk] TRUMP SAYS 'GREAT NEWS' THAT, THANKS TO THE 'BOLD LEADERSHIP' OF HIS FRIEND KAROL NAWROCKI, PRESIDENT OF POLAND, 'MAJOR PROGRESS IS BEING MADE TOWARD ESTABLISHING A U.S. ARMY BASE IN POLAND', ADDING THAT IF IT HAPPENS THE LOCATION WILL BE A…
+- 09/18 02:31 [FirstSquawk] FAA SEES $100M TARIFF IMPACT ON AIR TRAFFIC CONTROL MODERNIZATION COSTS — ADMINISTRATOR BEDFORD
+- 09/18 02:32 [FirstSquawk] PFIZER & BIONTECH’S UPDATED OMICRON XFG COVID-19 VACCINE AUTHORIZED BY HEALTH CANADA; DISTRIBUTION TO BEGIN IN COMING DAYS AND WEEKS
+- 09/18 02:34 [FirstSquawk] IRAQI PRIME MINISTER AND TRUMP TO DISCUSS BILATERAL RELATIONS AND REGIONAL DEVELOPMENTS - MEHR NEWS
+- 09/18 02:34 [financialjuice] OpenA and Nvidia CEOs to attend Trump-Xi state dinner - ABC. $NVDA
+- 09/18 02:34 [financialjuice] OpenAI and Nvidia CEOs to attend Trump-Xi state dinner - ABC. citing soruces $NVDA
+- 09/18 02:37 [FirstSquawk] ANTHROPIC HAS LAUNCHED A LIFE SCIENCES VERIFICATION PROGRAM BETA FOR BIOLOGY-RELATED MODEL ACCESS FOR TEAMS AND INSTITUTIONS, WITH STANDARD USE GRANTS APPLYING TO ITS MYTHOS 5.1, OPUS 5 AND SONNET 5 MODELS
+- 09/18 02:39 [FirstSquawk] OPENAI & NVIDIA CEOS TO ATTEND TRUMP-XI STATE DINNER — ABC
+- 09/18 02:43 [FirstSquawk] RUSSIA EXPECTS ITS 2027 FEDERAL BUDGET DEFICIT TO BE AROUND 2% OF GDP, WITH PROJECTIONS BASED ON A CONSERVATIVE OIL PRICE ASSUMPTION OF ABOUT $50 PER BARREL, PRESIDENT VLADIMIR PUTIN SAID. HE ADDED THAT OIL AND GAS REVENUES ARE EXPECTED TO …
+- 09/18 02:43 [FirstSquawk] PUTIN ALSO SAID RUSSIA’S ECONOMY IS EXPECTED TO GROW ABOUT 1% IN 2026, INFLATION IS GRADUALLY SLOWING, AND THE FEDERAL BUDGET POSTED A RUB 606 BILLION SURPLUS IN AUGUST.
