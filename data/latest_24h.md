@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 17:20 JST／対象: 09/16 17:20 〜 09/17 17:20 JST（時刻はすべて日本時間）
+生成: 2026-09-17 17:34 JST／対象: 09/16 17:34 〜 09/17 17:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 52 | 09/16 19:06 | 09/17 16:07 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 387 | 09/16 17:45 | 09/17 17:18 | 32分（05:10→05:42） |
-| financialjuice | 288 | 09/16 17:21 | 09/17 17:10 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 388 | 09/16 17:45 | 09/17 17:32 | 32分（05:10→05:42） |
+| financialjuice | 285 | 09/16 17:45 | 09/17 17:32 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 713 行（統合前 732 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 711 行（統合前 730 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 17:21 [financialjuice] China's Wang Yi: We encourages Iran and US to exercise rationality.
-- 09/16 17:22 [financialjuice] China Foreign Minister, to Iran counterpart: Urge all parties to take effective measures to reopen Strait of Hormuz.
-- 09/16 17:32 [financialjuice] UK house prices rose by 1.4% in year to July (1.5% in year to June) - ONS.
-- 09/16 17:32 [financialjuice] UK average private rents increased by 3.8% in year to August (3.7% in year to July) - ONS
 - 09/16 17:45 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS CONTINUOUSLY ASSESS THE SITUATION AND MAINTAIN AN ONGOING DIALOGUE WITH ALL MARKET PARTICIPANTS IN THE GAS SECTOR
 - 09/16 17:45 [financialjuice] Germany Economy Ministry: Continuously assess the situation and maintain an ongoing dialogue with all market participants in the gas sector.
 - 09/16 17:45 [FirstSquawk] GERMANY ECONOMY MINISTRY SAYS GUIDING PRINCIPLE REMAINS UNCHANGED: WINTER PREPAREDNESS IS THE RESPONSIBILITY OF THE MARKET, AND ENERGY SUPPLY COMPANIES MUST FULFILL THEIR OBLIGATIONS
@@ -737,3 +733,5 @@
 - 09/17 17:08 [FirstSquawk] RUSSIAN DRONE ATTACK ON A TANZANIA-FLAGGED VESSEL BOUND FOR UKRAINE LEFT ONE DEAD AND THREE INJURED, ACCORDING TO UKRAINE'S INFRASTRUCTURE MINISTRY.
 - 09/17 17:10 [financialjuice] Kazakhstan oil output estimated at 96 million tons in 2027, rising to 99-100 million tons in following years – IFX
 - 09/17 17:18 [FirstSquawk] TURKEY'S MARKET REGULATOR WILL CLOSE FUNDS RUN BY SEVEN FIRMS.
+- 09/17 17:32 [FirstSquawk] HUAWEI EXECUTIVE SAYS THE SOFTWARE DIVIDE WITH NVIDIA IS NARROWING.
+- 09/17 17:32 [financialjuice] UK Office for National Statistics: New approach of measuring productivity leads to relatively small changes in long-run growth in output per job and output per worker.

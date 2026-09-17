@@ -7,26 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 17:20 JST／対象: 09/17 05:20 〜 09/17 17:20 JST（時刻はすべて日本時間）
+生成: 2026-09-17 17:34 JST／対象: 09/17 05:34 〜 09/17 17:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/17 05:50 | 09/17 16:07 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 209 | 09/17 05:42 | 09/17 17:18 | 29分（16:17→16:47） |
-| financialjuice | 83 | 09/17 05:30 | 09/17 17:10 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 210 | 09/17 05:42 | 09/17 17:32 | 29分（16:17→16:47） |
+| financialjuice | 83 | 09/17 05:36 | 09/17 17:32 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 300 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 302 行（統合前 304 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 05:30 [financialjuice/FirstSquawk] The White House seeks to remove Canadian items from US procurement.
 - 09/17 05:36 [financialjuice/FirstSquawk] US-Mexico trade talks have been pushed back one week - WSJ.
 - 09/17 05:40 [financialjuice] Trump: Interest rates in the US should be 1%, or less. Lower the interest rates, and fast - Truth Social
+- 09/17 05:42 [FirstSquawk] THE WHITE HOUSE SEEKS TO REMOVE CANADIAN ITEMS FROM US PROCUREMENT.
 - 09/17 05:44 [FirstSquawk] TRUMP SAYS U.S. INTEREST RATES SHOULD BE 1% OR LOWER, ARGUING THE COUNTRY IS THE “BEST CREDIT IN THE WORLD” AND IS BOOMING WITH NEW INVESTMENT. - TRUTH SOCIAL
 - 09/17 05:45 [FirstSquawk] TRUMP SAYS ENDING TRADE WITH COUNTRIES THE U.S. RUNS DEFICITS WITH COULD GENERATE AT LEAST $1.5 TRILLION A YEAR, ADDING THAT LOWER RATES ARE NEEDED FOR THE UNITED STATES. - TRUTH SOCIAL
 - 09/17 05:50 [DeItaone] TRUMP DEMANDS U.S. INTEREST RATES AT 1% OR LOWER President Trump is calling for U.S. interest rates to be cut to 1% or below, arguing America’s credit strength and booming investment justify dramatically cheaper borrowing. He also criticize…
@@ -324,3 +324,5 @@
 - 09/17 17:08 [FirstSquawk] RUSSIAN DRONE ATTACK ON A TANZANIA-FLAGGED VESSEL BOUND FOR UKRAINE LEFT ONE DEAD AND THREE INJURED, ACCORDING TO UKRAINE'S INFRASTRUCTURE MINISTRY.
 - 09/17 17:10 [financialjuice] Kazakhstan oil output estimated at 96 million tons in 2027, rising to 99-100 million tons in following years – IFX
 - 09/17 17:18 [FirstSquawk] TURKEY'S MARKET REGULATOR WILL CLOSE FUNDS RUN BY SEVEN FIRMS.
+- 09/17 17:32 [FirstSquawk] HUAWEI EXECUTIVE SAYS THE SOFTWARE DIVIDE WITH NVIDIA IS NARROWING.
+- 09/17 17:32 [financialjuice] UK Office for National Statistics: New approach of measuring productivity leads to relatively small changes in long-run growth in output per job and output per worker.
