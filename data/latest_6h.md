@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 06:42 JST／対象: 09/18 00:42 〜 09/18 06:42 JST（時刻はすべて日本時間）
+生成: 2026-09-18 06:53 JST／対象: 09/18 00:53 〜 09/18 06:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/18 02:10 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 60 | 09/18 00:43 | 09/18 06:39 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 57 | 09/18 00:50 | 09/18 06:20 | 41分（05:13→05:55） |
+| FirstSquawk | 59 | 09/18 01:02 | 09/18 06:44 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 53 | 09/18 00:53 | 09/18 06:44 | 41分（05:13→05:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 116 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 111 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 00:43 [FirstSquawk] SPACEX PLANS TO ACQUIRE DATA FOR AI MODELS FROM FAILED STARTUPS.
-- 09/18 00:48 [FirstSquawk] LUFTHANSA EXPANDS BOEING 737 MAX FLEET
-- 09/18 00:50 [financialjuice] Three pumping stations along Saudi Arabia's east-west oil pipeline were damaged in an attack last week - Sources.
-- 09/18 00:50 [FirstSquawk] THREE OIL PUMP STATIONS ON SAUDI ARABIA'S EAST-WEST PIPELINE WERE HIT IN AN ATTACK LAST WEEK
-- 09/18 00:50 [financialjuice] ECB’s Zigman: Growth is at risk if inflation isn’t tackled.
-- 09/18 00:51 [financialjuice] ECB's Zigman: We don’t see any major second-round effects.
-- 09/18 00:51 [financialjuice] ECB's Zigman: There’s a lot of optimism for growth.
-- 09/18 00:51 [financialjuice] ECB's Zigman: Market bets don't determine the ECB’s next steps.
 - 09/18 00:53 [financialjuice] US weighs antitrust guidance on AI safety - DoJ Official.
 - 09/18 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 6.95% in Sept 17 week, highest since Jan 30, 2025 week, vs 6.76% prior week - Freddie Mac
 - 09/18 01:02 [FirstSquawk] GLENCORE'S IRON ORE PROJECT AT HEAD HILL IS PUT ON HOLD DURING A WORLDWIDE REVIEW.
@@ -140,3 +132,6 @@
 - 09/18 06:35 [FirstSquawk] BRAZIL CENTRAL BANK TO OFFER UP TO $1 BILLION IN DOLLAR AUCTION WITH REPURCHASE AGREEMENT ON SEPTEMBER 18
 - 09/18 06:38 [FirstSquawk] F-16 FIGHTER JET CRASHES DURING ROUTINE TRAINING EXERCISE IN GRAND TRAVERSE COUNTY, MICHIGAN; PILOT EJECTS SAFELY AND REMAINS IN STABLE CONDITION, WITH NO OTHER INJURIES REPORTED. - CBS NEWS.
 - 09/18 06:39 [FirstSquawk] IRAN’S IRGC NAVY SAYS TOGO-FLAGGED TANKER TREND WAS HIT AND STOPPED AFTER CATCHING FIRE WHILE ATTEMPTING TO CROSS THE STRAIT OF HORMUZ, WARNING THAT UNAUTHORIZED VESSELS WILL FACE “DESTRUCTION.”
+- 09/18 06:44 [FirstSquawk] U.S. STATE DEPARTMENT SAYS THE U.S. WILL CONTINUE TO BAR IRANIAN UN MISSION OFFICIALS, VISITING OFFICIALS AND THEIR DEPENDENTS FROM PURCHASING WHOLESALE CLUB MEMBERSHIPS OR LUXURY GOODS, URGING NEW YORK-AREA RETAILERS TO AVOID COMPLICITY IN…
+- 09/18 06:44 [financialjuice] President Trump outlines plans for first meeting with Venezuela's interim chief Delcy Rodriguez as early as next week - Axios
+- 09/18 06:44 [FirstSquawk] TRUMP PLANS FIRST-EVER MEETING WITH VENEZUELA’S INTERIM PRESIDENT DELCY RODRIGUEZ AS EARLY AS NEXT WEEK — AXIOS

@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 06:42 JST／対象: 09/17 18:42 〜 09/18 06:42 JST（時刻はすべて日本時間）
+生成: 2026-09-18 06:53 JST／対象: 09/17 18:53 〜 09/18 06:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/17 18:43 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 146 | 09/17 18:46 | 09/18 06:39 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 170 | 09/17 18:48 | 09/18 06:20 | 41分（05:13→05:55） |
+| DeItaone | 10 | 09/17 21:58 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
+| FirstSquawk | 144 | 09/17 18:58 | 09/18 06:44 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 164 | 09/17 18:55 | 09/18 06:44 | 41分（05:13→05:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 316 行（統合前 332 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 307 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 18:43 [DeItaone] GOLDMAN SACHS NOW EXPECTS ANOTHER FED HIKE IN OCTOBER Goldman Sachs has shifted its Fed call, now expecting another 25bp hike in October after Wednesday’s meeting proved more hawkish than anticipated. GS joins ANZ, BofA, RBC and TD Securiti…
-- 09/17 18:46 [FirstSquawk] KREMLIN STATES THEY ARE MONITORING THE U.S. SANCTIONS BILL AND CALL IT AN UNFRIENDLY ACT.
-- 09/17 18:46 [FirstSquawk] KREMLIN SAYS NEW U.S. SANCTIONS WILL HAMPER PEACE EFFORTS IN UKRAINE.
-- 09/17 18:47 [FirstSquawk] POLAND'S MILITARY DEPLOYS AIRCRAFT IN RESPONSE TO RUSSIAN ATTACKS ON UKRAINE.
-- 09/17 18:48 [financialjuice] Japan's PM Takaichi: This is a cabinet of decision, challenge, and action
-- 09/17 18:48 [financialjuice] Japan's PM Takaichi: To implement responsible expansionary fiscal policy
-- 09/17 18:48 [financialjuice] Japan's PM Takaichi: This is the first year for proactive fiscal policy
-- 09/17 18:48 [financialjuice] Japan PM Takaichi: aim to achieve a positive economic cycle by boosting wages, employment, consumer sentiment, and tax revenue
-- 09/17 18:49 [financialjuice] Japan's PM Takaichi: Aim for virtual cycle with rising tax revenue and growth
-- 09/17 18:49 [financialjuice] Kremlin: US sanctions bill makes peace settlement harder - Tass
-- 09/17 18:49 [financialjuice] Japan's PM Takaichi: To enhance defense capabilities proactively
-- 09/17 18:52 [FirstSquawk] CANADA'S PRIME MINISTER CARNEY STATES THE COUNTRY IS A RELIABLE ALLY AND DOES NOT ENGAGE IN ZERO-SUM DEALS.
 - 09/17 18:55 [financialjuice] Canada's PM Carney: Canada and the EU hold common values as base of partnership
 - 09/17 18:55 [financialjuice] Canada's PM Carney: We are not fair-weather allies, we do not pursue zero-sum deals
 - 09/17 18:57 [financialjuice] Canada's PM Carney: Sovereignty requires secure access to AI, semiconductors, critical minerals, payment systems, clean energy, vaccines, space communications
@@ -340,3 +328,6 @@
 - 09/18 06:35 [FirstSquawk] BRAZIL CENTRAL BANK TO OFFER UP TO $1 BILLION IN DOLLAR AUCTION WITH REPURCHASE AGREEMENT ON SEPTEMBER 18
 - 09/18 06:38 [FirstSquawk] F-16 FIGHTER JET CRASHES DURING ROUTINE TRAINING EXERCISE IN GRAND TRAVERSE COUNTY, MICHIGAN; PILOT EJECTS SAFELY AND REMAINS IN STABLE CONDITION, WITH NO OTHER INJURIES REPORTED. - CBS NEWS.
 - 09/18 06:39 [FirstSquawk] IRAN’S IRGC NAVY SAYS TOGO-FLAGGED TANKER TREND WAS HIT AND STOPPED AFTER CATCHING FIRE WHILE ATTEMPTING TO CROSS THE STRAIT OF HORMUZ, WARNING THAT UNAUTHORIZED VESSELS WILL FACE “DESTRUCTION.”
+- 09/18 06:44 [FirstSquawk] U.S. STATE DEPARTMENT SAYS THE U.S. WILL CONTINUE TO BAR IRANIAN UN MISSION OFFICIALS, VISITING OFFICIALS AND THEIR DEPENDENTS FROM PURCHASING WHOLESALE CLUB MEMBERSHIPS OR LUXURY GOODS, URGING NEW YORK-AREA RETAILERS TO AVOID COMPLICITY IN…
+- 09/18 06:44 [financialjuice] President Trump outlines plans for first meeting with Venezuela's interim chief Delcy Rodriguez as early as next week - Axios
+- 09/18 06:44 [FirstSquawk] TRUMP PLANS FIRST-EVER MEETING WITH VENEZUELA’S INTERIM PRESIDENT DELCY RODRIGUEZ AS EARLY AS NEXT WEEK — AXIOS
