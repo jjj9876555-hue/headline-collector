@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 03:21 JST／対象: 09/17 21:21 〜 09/18 03:21 JST（時刻はすべて日本時間）
+生成: 2026-09-18 03:38 JST／対象: 09/17 21:38 〜 09/18 03:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/17 21:58 | 09/18 02:59 | ⚠ 87分（00:42→02:10） |
-| FirstSquawk | 75 | 09/17 21:21 | 09/18 03:05 | 25分（01:59→02:24） |
-| financialjuice | 78 | 09/17 21:30 | 09/18 03:13 | 29分（22:01→22:31） |
+| FirstSquawk | 69 | 09/17 21:44 | 09/18 03:33 | 25分（01:59→02:24） |
+| financialjuice | 69 | 09/17 21:44 | 09/18 03:37 | 29分（22:01→22:31） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 158 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 21:21 [FirstSquawk] BRENT CRUDE FUTURES FALL OVER 3% TO LOWEST LEVEL SINCE SEPTEMBER 10 AS MIDDLE EAST SUPPLY DISRUPTION FEARS EASE
-- 09/17 21:26 [FirstSquawk] US TREASURY YIELDS EXTEND SLIDE AS UK YIELDS AND OIL PRICES FALL
-- 09/17 21:28 [FirstSquawk] NASDAQ 100 FUTURES EXTEND CLIMB TO 1.5%
-- 09/17 21:30 [financialjuice] US HOUSING STARTS CHANGE MOM ACTUAL -2.6% (FORECAST 6.7%, PREVIOUS -12.4%) $MACRO
-- 09/17 21:30 [financialjuice] US BUILDING PERMITS CHANGE MOM ACTUAL -2.7% (FORECAST -1.5%, PREVIOUS 4.3%) $MACRO
-- 09/17 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 196K VS 206K PREVIOUS; EST 207K
-- 09/17 21:30 [FirstSquawk] US PHILADELPHIA FED MANUFACTURING INDEX (SEP) ACTUAL: 37.8 VS 47.4 PREVIOUS; EST 32.1
-- 09/17 21:30 [financialjuice] US HOUSING STARTS ACTUAL 1.275M (FORECAST 1.32M, PREVIOUS 1.239M) $MACRO
-- 09/17 21:30 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1730K VS 1774K PREVIOUS; EST 1779K
-- 09/17 21:30 [financialjuice] CANADIAN PPI MOM ACTUAL 1.3% (FORECAST 0%, PREVIOUS 0.6%) $MACRO
-- 09/17 21:30 [financialjuice] CANADIAN PPI YOY ACTUAL 13.5% (FORECAST -, PREVIOUS 12.4%) $MACRO
-- 09/17 21:30 [financialjuice] US BUILDING PERMITS ACTUAL 1.394M (FORECAST 1.408M, PREVIOUS 1.433M) $MACRO
-- 09/17 21:31 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.73M (FORECAST 1.779M, PREVIOUS 1.774M) $MACRO
-- 09/17 21:31 [financialjuice] US PHILLY FED BUSINESS INDEX ACTUAL 37.8 (FORECAST 32.1, PREVIOUS 47.4) $MACRO
-- 09/17 21:31 [financialjuice] A high-ranking source told Al-Mayadeen that Riyadh has asked Oman to request a two-week truce from Ansar Allah (the Houthis) to allow for discussions on resolving the humanitarian crisis.
-- 09/17 21:31 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 196K (FORECAST 206.5K, PREVIOUS 206K) $MACRO
-- 09/17 21:31 [financialjuice] US Housing Starts August Report
-- 09/17 21:33 [FirstSquawk] HUANG: NVIDIA TO SELL TWICE AS MANY CHIPS NEXT YEAR AS THIS YEAR
-- 09/17 21:33 [financialjuice] Canadian PPI August 2026 Report
-- 09/17 21:33 [financialjuice] Nvidia's CEO Huang: Nvidia to sell twice as many chips next year as this year. $NVDA
-- 09/17 21:34 [FirstSquawk] NVIDIA'S CEO HUANG SAYS AI SAFETY IS PARAMOUNT
-- 09/17 21:35 [financialjuice] CANADIAN RMPI MOM ACTUAL 3.1% (FORECAST 0.8%, PREVIOUS -2.2%) $MACRO
 - 09/17 21:44 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS IRAN-BACKED YEMEN'S HOUTHIS LAUNCHED DRONE AT SAUDI TAIF - STATE TV
 - 09/17 21:44 [financialjuice] Saudi Civil Defense: Iran-backed Yemen's Houthis launched drone at Saudi Taif - State TV
 - 09/17 21:52 [FirstSquawk] UK 30-YEAR GILT YIELDS DROP 11 BPS ON DAY, ON COURSE FOR BIGGEST ONE-DAY FALL SINCE MAY 20 AFTER BOE HALTS LONG-DATED GILT SALES
@@ -182,3 +160,10 @@
 - 09/18 03:04 [financialjuice] OpenAI and Microsoft knew of AI threats to news industry. $MSFT
 - 09/18 03:05 [FirstSquawk] OPENAI AND MICROSOFT KNEW OF AI THREATS TO NEWS INDUSTRY.
 - 09/18 03:13 [financialjuice] Trump and Mexico's President Sheinbaum are close to a trade agreement - Politico.
+- 09/18 03:21 [FirstSquawk] EU’S VON DER LEYEN SAYS EU WILL DISBURSE ANOTHER €3.3B TO UKRAINE FOR MISSILE & DRONE PROCUREMENT TOMORROW
+- 09/18 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $101.91 a barrel, down 52 cents, 0.51%.
+- 09/18 03:31 [financialjuice] NYMEX Natural Gas October futures settle at $2.9010/MMBtu.
+- 09/18 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.5073 a gallon.
+- 09/18 03:32 [financialjuice] NYMEX Diesel October futures settle at $5.1139 a gallon.
+- 09/18 03:33 [FirstSquawk] US CRUDE FUTURES SETTLE 0.51% LOWER AT $101.91/BBL, DOWN 52 CENTS
+- 09/18 03:37 [financialjuice] State Department: Iran's core delegation is permitted to attend the UNGA.

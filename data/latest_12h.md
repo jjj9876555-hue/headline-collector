@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 03:21 JST／対象: 09/17 15:21 〜 09/18 03:21 JST（時刻はすべて日本時間）
+生成: 2026-09-18 03:38 JST／対象: 09/17 15:38 〜 09/18 03:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/17 16:07 | 09/18 02:59 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 151 | 09/17 15:22 | 09/18 03:05 | 29分（16:17→16:47） |
-| financialjuice | 168 | 09/17 15:42 | 09/18 03:13 | 45分（18:03→18:48） |
+| FirstSquawk | 150 | 09/17 15:39 | 09/18 03:33 | 29分（16:17→16:47） |
+| financialjuice | 173 | 09/17 15:42 | 09/18 03:37 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 324 行（統合前 335 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 328 行（統合前 339 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 15:22 [FirstSquawk] Etihad: New agreement aims to strengthen tourism promotion and trade between the UAE and Uzbekistan.
-- 09/17 15:26 [FirstSquawk] Zelenskiy: Russian forces targeted energy infrastructure in the Sumy and Odesa regions overnight.
-- 09/17 15:33 [FirstSquawk] US allies remain wary of how Trump might address Taiwan in his engagement with Xi.
 - 09/17 15:39 [FirstSquawk] Brent crude drops over $2 to $103.80 per barrel, trading around its lowest level in a week.
 - 09/17 15:42 [financialjuice] JBA's Kato: Rate still accommodative, expect more hikes
 - 09/17 15:47 [FirstSquawk] UOB: Sterling remains vulnerable to further weakness against the US dollar despite oversold conditions.
@@ -348,3 +345,10 @@
 - 09/18 03:04 [financialjuice] OpenAI and Microsoft knew of AI threats to news industry. $MSFT
 - 09/18 03:05 [FirstSquawk] OPENAI AND MICROSOFT KNEW OF AI THREATS TO NEWS INDUSTRY.
 - 09/18 03:13 [financialjuice] Trump and Mexico's President Sheinbaum are close to a trade agreement - Politico.
+- 09/18 03:21 [FirstSquawk] EU’S VON DER LEYEN SAYS EU WILL DISBURSE ANOTHER €3.3B TO UKRAINE FOR MISSILE & DRONE PROCUREMENT TOMORROW
+- 09/18 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $101.91 a barrel, down 52 cents, 0.51%.
+- 09/18 03:31 [financialjuice] NYMEX Natural Gas October futures settle at $2.9010/MMBtu.
+- 09/18 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.5073 a gallon.
+- 09/18 03:32 [financialjuice] NYMEX Diesel October futures settle at $5.1139 a gallon.
+- 09/18 03:33 [FirstSquawk] US CRUDE FUTURES SETTLE 0.51% LOWER AT $101.91/BBL, DOWN 52 CENTS
+- 09/18 03:37 [financialjuice] State Department: Iran's core delegation is permitted to attend the UNGA.
