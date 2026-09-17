@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 23:44 JST／対象: 09/16 23:44 〜 09/17 23:44 JST（時刻はすべて日本時間）
+生成: 2026-09-18 00:00 JST／対象: 09/17 00:00 〜 09/18 00:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 09/16 23:46 | 09/17 23:42 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 395 | 09/16 23:51 | 09/17 23:31 | 32分（05:10→05:42） |
-| financialjuice | 321 | 09/16 23:51 | 09/17 23:31 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 43 | 09/17 00:38 | 09/17 23:42 | ⚠ 483分（08:04→16:07） |
+| FirstSquawk | 395 | 09/17 00:03 | 09/17 23:56 | 32分（05:10→05:42） |
+| financialjuice | 322 | 09/17 00:03 | 09/17 23:52 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 745 行（統合前 765 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 23:46 [DeItaone] FED DOT PLOT COULD SIGNAL ANOTHER 2026 HIKE The Fed’s updated Dot Plot is expected to show rates ending 2026 near 4.1%, implying another hike after today’s anticipated 25bp increase. The bigger question is 2027: projections may still signal…
-- 09/16 23:51 [FirstSquawk] AMERICAN AIRLINES FEELING 'REALLY GOOD' ABOUT GUIDANCE: CEO
-- 09/16 23:51 [financialjuice] Senator Thune: I'd like to see the CLARITY crypto bill revived
-- 09/16 23:53 [FirstSquawk] HAROLD HAMM'S COMPANY, CONTINENTAL, WILL REVEAL DETAILS OF AN OIL DEAL IN VENEZUELA.
-- 09/16 23:55 [financialjuice] ECB's Pereira: We should not underestimate the impact on growth of fiscal spending in Germany and elsewhere.
-- 09/16 23:58 [FirstSquawk] AMERICAN AIRLINES: HIGH FUEL PRICES WILL NEED CAPACITY ADJUSTMENT
 - 09/17 00:03 [FirstSquawk] EU’S KALLAS TO EU PARL’T ON URGENT NEED FOR EU SUPPORT TO UKRAINE AGAINST RUSSIA’S ESCALATION OF ITS WAR OF AGGRESSION
 - 09/17 00:03 [financialjuice] French Finance Minister Lescure: I want France and Europe to accelerate on AI, so that we can control risks.
 - 09/17 00:06 [financialjuice] Iran's Mahan Air suspends Turkey flights from Sept. 21st. Suspends Tehran-Muscat flights from Sept. 17th.
@@ -769,3 +763,9 @@
 - 09/17 23:31 [financialjuice] EIA Weekly Natural Gas Report
 - 09/17 23:31 [FirstSquawk] EIA: US NATURAL-GAS STOCKPILES ROSE 44 BCF LAST WEEK
 - 09/17 23:42 [DeItaone] CHINA, U.S. PREPARE FOR XI-TRUMP SUMMIT Chinese Foreign Minister Wang Yi held talks with Marco Rubio ahead of the Xi-Trump summit scheduled for September 24, calling for stronger communication, cooperation and management of differences. The…
+- 09/17 23:44 [FirstSquawk] AN EXPLOSION HAS OCCURRED IN THE STRAIT OF HORMUZ JUST NOW.
+- 09/17 23:47 [financialjuice] French PM sees budgetary effort of around €54b for 2027 - Le Figaro
+- 09/17 23:51 [financialjuice] French PM Lecornu to Le Figaro: Increase in interest rates will cost additional €10 bln to finance debt servicing cost
+- 09/17 23:52 [financialjuice] French PM Lecornu: Without corrective measures the 2027 budget deficit would exceed 6.5% of GDP
+- 09/17 23:53 [FirstSquawk] FRENCH PM LECORNU: INCREASE IN INTEREST RATES SEEN COSTING ADDITIONAL EUR10 BLN TO FINANCE DEBT SERVICING COST - LE FIGARO
+- 09/17 23:56 [FirstSquawk] FRENCH PM LECORNU: 2027 BUDGET DEFICIT, WITHOUT CORRECTIVE MEASURES, SEEN EXCEEDING 6.5% OF GDP - LE FIGARO

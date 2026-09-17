@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 23:44 JST／対象: 09/17 17:44 〜 09/17 23:44 JST（時刻はすべて日本時間）
+生成: 2026-09-18 00:00 JST／対象: 09/17 18:00 〜 09/18 00:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/17 18:43 | 09/17 23:42 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 83 | 09/17 17:56 | 09/17 23:31 | 19分（18:18→18:38） |
-| financialjuice | 114 | 09/17 17:58 | 09/17 23:31 | 45分（18:03→18:48） |
+| FirstSquawk | 85 | 09/17 18:06 | 09/17 23:56 | 19分（18:18→18:38） |
+| financialjuice | 113 | 09/17 18:00 | 09/17 23:52 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 198 行（統合前 201 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 199 行（統合前 202 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 17:56 [FirstSquawk] US-MEXICO TRADE DISCUSSIONS DELAYED BY ONE WEEK.
-- 09/17 17:58 [financialjuice] FRENCH 3 YR OAT YIELD ACTUAL 3.59% (FORECAST -, PREVIOUS 3.17%) $MACRO
-- 09/17 17:58 [financialjuice] FRENCH 3 YR OAT BID-TO-COVER ACTUAL 2.926 (FORECAST -, PREVIOUS 3.66) $MACRO
-- 09/17 17:59 [financialjuice] FRENCH 4 YR OAT YIELD ACTUAL 3.78% (FORECAST -, PREVIOUS 2.99%) $MACRO
-- 09/17 17:59 [financialjuice] FRENCH 4 YR OAT BID-TO-COVER ACTUAL 2.73 (FORECAST -, PREVIOUS 3.03) $MACRO
 - 09/17 18:00 [financialjuice] EUROZONE CORE CPI YOY FINAL ACTUAL 2.4% (FORECAST 2.4%, PREVIOUS 2.4%) $MACRO
 - 09/17 18:00 [financialjuice] ❗ EUROZONE CPI MOM FINAL ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.2%) $MACRO
 - 09/17 18:00 [financialjuice] ❗ EUROZONE CPI YOY FINAL ACTUAL 3.2% (FORECAST 3.3%, PREVIOUS 3.3%) $MACRO
@@ -222,3 +217,9 @@
 - 09/17 23:31 [financialjuice] EIA Weekly Natural Gas Report
 - 09/17 23:31 [FirstSquawk] EIA: US NATURAL-GAS STOCKPILES ROSE 44 BCF LAST WEEK
 - 09/17 23:42 [DeItaone] CHINA, U.S. PREPARE FOR XI-TRUMP SUMMIT Chinese Foreign Minister Wang Yi held talks with Marco Rubio ahead of the Xi-Trump summit scheduled for September 24, calling for stronger communication, cooperation and management of differences. The…
+- 09/17 23:44 [FirstSquawk] AN EXPLOSION HAS OCCURRED IN THE STRAIT OF HORMUZ JUST NOW.
+- 09/17 23:47 [financialjuice] French PM sees budgetary effort of around €54b for 2027 - Le Figaro
+- 09/17 23:51 [financialjuice] French PM Lecornu to Le Figaro: Increase in interest rates will cost additional €10 bln to finance debt servicing cost
+- 09/17 23:52 [financialjuice] French PM Lecornu: Without corrective measures the 2027 budget deficit would exceed 6.5% of GDP
+- 09/17 23:53 [FirstSquawk] FRENCH PM LECORNU: INCREASE IN INTEREST RATES SEEN COSTING ADDITIONAL EUR10 BLN TO FINANCE DEBT SERVICING COST - LE FIGARO
+- 09/17 23:56 [FirstSquawk] FRENCH PM LECORNU: 2027 BUDGET DEFICIT, WITHOUT CORRECTIVE MEASURES, SEEN EXCEEDING 6.5% OF GDP - LE FIGARO
