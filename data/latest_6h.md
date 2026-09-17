@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 11:59 JST／対象: 09/17 05:59 〜 09/17 11:59 JST（時刻はすべて日本時間）
+生成: 2026-09-17 12:18 JST／対象: 09/17 06:18 〜 09/17 12:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/17 07:41 | 09/17 08:04 | 16分（07:47→08:04） |
-| FirstSquawk | 117 | 09/17 06:13 | 09/17 11:48 | 25分（08:16→08:41） |
-| financialjuice | 34 | 09/17 07:45 | 09/17 11:49 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 122 | 09/17 06:28 | 09/17 12:17 | 25分（08:16→08:41） |
+| financialjuice | 35 | 09/17 07:45 | 09/17 12:10 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 157 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 163 行（統合前 164 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 06:13 [FirstSquawk] NORTH KOREA’S KIM YO JONG DENOUNCES IAEA MEETING ON DENUCLEARIZATION
 - 09/17 06:28 [FirstSquawk] UK PM BURNHAM WELCOMES CANADA AS FIRST OBSERVER NATION IN GLOBAL COMBAT AIR PROGRAMME (GCAP) THIS SUMMER — DOWNING STREET
 - 09/17 06:28 [FirstSquawk] DOWNING STREET: LEADERS DISCUSS AI OPPORTUNITIES AND RISKS, BACK GOVERNMENT-TECH COOPERATION TO ADDRESS SHARED CONCERNS AND PROTECT ONLINE SAFETY
 - 09/17 06:29 [FirstSquawk] DOWNING STREET: LEADERS DISCUSS STRENGTHENING DEFENCE COOPERATION, INCLUDING MULTILATERAL DEFENCE MECHANISM AND DSRB
@@ -181,3 +180,10 @@
 - 09/17 11:42 [FirstSquawk] Huawei rolls out new AI technology designed to strengthen computing capabilities and reduce reliance on Nvidia in China.
 - 09/17 11:48 [FirstSquawk] Hong Kong stocks fall as the Fed raises rates and points to more increases ahead, SCMP reports.
 - 09/17 11:49 [financialjuice] China’s chief trade negotiator Li Chenggang met with business delegation to discuss China-US economic, trade ties: statement
+- 09/17 12:03 [FirstSquawk] Malaysia’s Anwar Ibrahim expresses grave concern over a reported drone interception near Mecca, calling any threat to the city “wholly unacceptable.”
+- 09/17 12:04 [FirstSquawk] More than 20 international experts say human-driven climate change worsened several factors behind the catastrophic August flooding on the Nepal-China border, CNN reports.
+- 09/17 12:10 [FirstSquawk] Dollar Index stays above 100.00 after the Fed signals more monetary tightening.
+- 09/17 12:10 [financialjuice] Japan chief cabinet secretary Kihara: continue close communication with US Treasury to maintain orderly forex market
+- 09/17 12:10 [FirstSquawk] Kihara: Japan will continue close talks with the US Treasury to support orderly foreign exchange markets.
+- 09/17 12:15 [FirstSquawk] China’s US Treasury holdings decline to an 18-year low amid broad-based selling across global bond markets, according to SCMP.
+- 09/17 12:17 [FirstSquawk] JPMorgan lifts its target price for Sandvik AB to SEK 415 from SEK 400.

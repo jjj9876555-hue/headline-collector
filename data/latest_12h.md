@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 11:59 JST／対象: 09/16 23:59 〜 09/17 11:59 JST（時刻はすべて日本時間）
+生成: 2026-09-17 12:18 JST／対象: 09/17 00:18 〜 09/17 12:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 38 | 09/17 00:38 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 223 | 09/17 00:03 | 09/17 11:48 | 32分（05:10→05:42） |
-| financialjuice | 160 | 09/17 00:03 | 09/17 11:49 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 227 | 09/17 00:20 | 09/17 12:17 | 32分（05:10→05:42） |
+| financialjuice | 155 | 09/17 00:47 | 09/17 12:10 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 409 行（統合前 426 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 408 行（統合前 425 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 00:03 [FirstSquawk] EU’S KALLAS TO EU PARL’T ON URGENT NEED FOR EU SUPPORT TO UKRAINE AGAINST RUSSIA’S ESCALATION OF ITS WAR OF AGGRESSION
-- 09/17 00:03 [financialjuice] French Finance Minister Lescure: I want France and Europe to accelerate on AI, so that we can control risks.
-- 09/17 00:06 [financialjuice] Iran's Mahan Air suspends Turkey flights from Sept. 21st. Suspends Tehran-Muscat flights from Sept. 17th.
-- 09/17 00:07 [FirstSquawk] IRAN'S MAHAN AIR FLIGHTS TO TURKEY SUSPENDED FROM 21ST SEPTEMBER - ISNA
-- 09/17 00:08 [financialjuice] ❗ 2 pumping stations along Saudi Arabia's east-west oil pipeline damaged in attack last week - sources
-- 09/17 00:08 [financialjuice] Repair timeline unclear for pumping stations 8 and 9 damaged along Saudi east-west oil pipeline - sources
-- 09/17 00:12 [financialjuice] Libya's NOC chief: Production has returned to normal levels after shutdown of three oil fields reduced it for a limited time.
-- 09/17 00:12 [financialjuice] Libya's NOC Chief: We do not anticipate further shutdowns.
 - 09/17 00:20 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time
 - 09/17 00:24 [FirstSquawk] Libya's NOC Chief: Production Has Returned To Normal Levels Following Shutdown Of Three Oil Fields Reduced For A Limited Time - Conditions ‘Currently Normal’, Do Not Anticipate Further Shutdowns
 - 09/17 00:38 [DeItaone] JPMORGAN MAPS FED DAY: STOCKS COULD SWING 2% JPMorgan says Fed communication could determine whether stocks rally or sell off after today’s widely expected 25bp hike. A standard hike with limited guidance could lift the S&P 500 0.25%–0.75%,…
@@ -433,3 +425,10 @@
 - 09/17 11:42 [FirstSquawk] Huawei rolls out new AI technology designed to strengthen computing capabilities and reduce reliance on Nvidia in China.
 - 09/17 11:48 [FirstSquawk] Hong Kong stocks fall as the Fed raises rates and points to more increases ahead, SCMP reports.
 - 09/17 11:49 [financialjuice] China’s chief trade negotiator Li Chenggang met with business delegation to discuss China-US economic, trade ties: statement
+- 09/17 12:03 [FirstSquawk] Malaysia’s Anwar Ibrahim expresses grave concern over a reported drone interception near Mecca, calling any threat to the city “wholly unacceptable.”
+- 09/17 12:04 [FirstSquawk] More than 20 international experts say human-driven climate change worsened several factors behind the catastrophic August flooding on the Nepal-China border, CNN reports.
+- 09/17 12:10 [FirstSquawk] Dollar Index stays above 100.00 after the Fed signals more monetary tightening.
+- 09/17 12:10 [financialjuice] Japan chief cabinet secretary Kihara: continue close communication with US Treasury to maintain orderly forex market
+- 09/17 12:10 [FirstSquawk] Kihara: Japan will continue close talks with the US Treasury to support orderly foreign exchange markets.
+- 09/17 12:15 [FirstSquawk] China’s US Treasury holdings decline to an 18-year low amid broad-based selling across global bond markets, according to SCMP.
+- 09/17 12:17 [FirstSquawk] JPMorgan lifts its target price for Sandvik AB to SEK 415 from SEK 400.

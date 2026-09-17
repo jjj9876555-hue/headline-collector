@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 11:59 JST／対象: 09/16 11:59 〜 09/17 11:59 JST（時刻はすべて日本時間）
+生成: 2026-09-17 12:18 JST／対象: 09/16 12:18 〜 09/17 12:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 406 | 09/16 12:05 | 09/17 11:48 | 45分（17:00→17:45） |
-| financialjuice | 274 | 09/16 14:36 | 09/17 11:49 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 409 | 09/16 12:26 | 09/17 12:17 | 45分（17:00→17:45） |
+| financialjuice | 275 | 09/16 14:36 | 09/17 12:10 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 717 行（統合前 737 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 721 行（統合前 741 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 12:05 [FirstSquawk] Commodity vessel crossings through the Strait of Hormuz remain in single digits, according to ship-tracking data. The subdued traffic highlights continued disruption to commercial shipping through the key energy corridor, with markets close…
-- 09/16 12:06 [FirstSquawk] New Zealand Non-Resident Bond Holdings Aug: 58.9% (prev 58.9%)
-- 09/16 12:16 [FirstSquawk] Spot gold climbed 1% to $4,333.64 an ounce, extending gains in the precious-metal market. The move puts gold back above the $4,300/oz level as traders continue to monitor global markets and shifting expectations around interest rates.
 - 09/16 12:26 [FirstSquawk] China has warned against militarism and historical revisionism at a regional security forum, according to Kyodo News. The remarks come amid ongoing discussions over regional security and historical issues, keeping China’s position on milita…
 - 09/16 12:26 [FirstSquawk] Australia’s Speaker of the House of Representatives will lead a delegation to China from September 18 to 22, Xinhua reports. The visit will bring Australian parliamentary representatives to China as bilateral ties and parliamentary engageme…
 - 09/16 12:30 [FirstSquawk] Japan’s 12-month Treasury discount bill auction recorded a lowest price of 98.4490 and an average price of 98.4620. Bids were accepted at the lowest price at a 4.5263% rate, providing a fresh read on demand and pricing in Japan’s short-term…
@@ -741,3 +738,10 @@
 - 09/17 11:42 [FirstSquawk] Huawei rolls out new AI technology designed to strengthen computing capabilities and reduce reliance on Nvidia in China.
 - 09/17 11:48 [FirstSquawk] Hong Kong stocks fall as the Fed raises rates and points to more increases ahead, SCMP reports.
 - 09/17 11:49 [financialjuice] China’s chief trade negotiator Li Chenggang met with business delegation to discuss China-US economic, trade ties: statement
+- 09/17 12:03 [FirstSquawk] Malaysia’s Anwar Ibrahim expresses grave concern over a reported drone interception near Mecca, calling any threat to the city “wholly unacceptable.”
+- 09/17 12:04 [FirstSquawk] More than 20 international experts say human-driven climate change worsened several factors behind the catastrophic August flooding on the Nepal-China border, CNN reports.
+- 09/17 12:10 [FirstSquawk] Dollar Index stays above 100.00 after the Fed signals more monetary tightening.
+- 09/17 12:10 [financialjuice] Japan chief cabinet secretary Kihara: continue close communication with US Treasury to maintain orderly forex market
+- 09/17 12:10 [FirstSquawk] Kihara: Japan will continue close talks with the US Treasury to support orderly foreign exchange markets.
+- 09/17 12:15 [FirstSquawk] China’s US Treasury holdings decline to an 18-year low amid broad-based selling across global bond markets, according to SCMP.
+- 09/17 12:17 [FirstSquawk] JPMorgan lifts its target price for Sandvik AB to SEK 415 from SEK 400.
