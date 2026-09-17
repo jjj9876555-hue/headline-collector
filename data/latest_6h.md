@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 18:26 JST／対象: 09/17 12:26 〜 09/17 18:26 JST（時刻はすべて日本時間）
+生成: 2026-09-17 18:44 JST／対象: 09/17 12:44 〜 09/17 18:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/17 16:07 | 09/17 16:07 | - |
-| FirstSquawk | 83 | 09/17 12:30 | 09/17 18:18 | 29分（16:17→16:47） |
-| financialjuice | 52 | 09/17 12:38 | 09/17 18:03 | 38分（14:20→14:58） |
+| DeItaone | 2 | 09/17 16:07 | 09/17 18:43 | ⚠ 156分（16:07→18:43） |
+| FirstSquawk | 79 | 09/17 12:45 | 09/17 18:38 | 29分（16:17→16:47） |
+| financialjuice | 48 | 09/17 12:47 | 09/17 18:03 | 38分（14:20→14:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 129 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 12:30 [FirstSquawk] Japan’s 3-month Treasury bill auction records a lowest price of 99.7045 and an average price of 99.7099, with 49.5183% of bids accepted at the lowest price.
-- 09/17 12:32 [FirstSquawk] China’s property reforms may weigh more heavily on the cement sector than steel, Fitch Ratings says.
-- 09/17 12:38 [financialjuice] Japan finance minister Katayama: will review budget requests, manage debt issuance to maintain market trust
-- 09/17 12:38 [FirstSquawk] Katayama: Japan will scrutinize budget requests and control debt issuance to preserve market confidence.
-- 09/17 12:38 [FirstSquawk] AstraZeneca plans a nearly 200 million yuan investment to modernize its Wuxi manufacturing base in China.
-- 09/17 12:39 [financialjuice] Japan finance minister Katayama: we are committed to tackling extreme volatility with launch of Japan-U.S. joint intervention
-- 09/17 12:39 [FirstSquawk] Katayama: Japan and the US made clear their resolve to tackle excessive currency-market volatility when they initiated joint intervention.
-- 09/17 12:39 [FirstSquawk] AstraZeneca: Upgraded Wuxi production base in China is scheduled to be operational by Q4 2029.
-- 09/17 12:41 [FirstSquawk] 2-year Japanese government bond yield climbs 2 bps to 1.865%.
-- 09/17 12:41 [financialjuice] Japan finance minister Katayama: no remarks on BoJ policy
-- 09/17 12:42 [FirstSquawk] Japan’s Finance Minister Katayama: Will not comment on BOJ policy.
-- 09/17 12:42 [financialjuice] Japan finance minister Katayama: expect BOJ to closely align with government, apply suitable monetary policy to meet 2% inflation goal
-- 09/17 12:42 [FirstSquawk] Katayama: BOJ expected to coordinate closely with the government and take appropriate monetary policy steps toward its 2% price target.
 - 09/17 12:45 [FirstSquawk] 2-year Japanese government bond yield climbs 2 bps to 1.865%, reaching its highest since April 1995.
 - 09/17 12:47 [financialjuice] Ukraine drone strike damages oil refinery in Russia's Yaroslavl, governor says
 - 09/17 12:48 [FirstSquawk] Yaroslavl oil refinery in Russia damaged after a Ukrainian drone strike, according to the governor.
@@ -160,3 +147,9 @@
 - 09/17 18:06 [FirstSquawk] EUROZONE CPI CORE (Y/Y) JUL F: 2.4% (EST 2.4%; PREV 2.4%) || CPI (M/M): 0.4% (EST 0.4%; PREV 0.4%) || CPI (Y/Y): 3.2% (EST 3.3%; PREV 3.3%)
 - 09/17 18:18 [FirstSquawk] GERMAN VICE CHANCELLOR KLINGBEIL IS GRATEFUL FOR VW'S RESTRUCTURING DEAL BUT RECOGNIZES IT IS ONLY THE START.
 - 09/17 18:18 [FirstSquawk] GERMAN VICE CHANCELLOR KLINGBEIL DISCUSSED VW LABOR TALKS, STRESSED A STRONGER STRATEGY TOWARD CHINA AND OTHER COUNTRIES THAT POSE RISKS TO OUR INDUSTRY.
+- 09/17 18:38 [FirstSquawk] IRAN HAS ORDERED A SWEDISH DIPLOMAT TO LEAVE TEHRAN IN 48 HOURS, ACCORDING TO TASNIM NEWS.
+- 09/17 18:38 [FirstSquawk] TAKAICHI PLANS TO SPEED UP POLICIES FOR A ROBUST ECONOMY.
+- 09/17 18:38 [FirstSquawk] TAKAICHI PLANS TO CREATE A VIRTUAL CYCLE WITH INCREASING TAX REVENUE AND ECONOMIC GROWTH.
+- 09/17 18:38 [FirstSquawk] TAKAICHI PLANS TO PROMOTE A POSITIVE CYCLE THROUGH INCREASED TAX REVENUE AND ECONOMIC GROWTH.
+- 09/17 18:38 [FirstSquawk] TAKAICHI ANNOUNCES PLANS FOR A CAREFUL GROWTH-ORIENTED FISCAL POLICY.
+- 09/17 18:43 [DeItaone] GOLDMAN SACHS NOW EXPECTS ANOTHER FED HIKE IN OCTOBER Goldman Sachs has shifted its Fed call, now expecting another 25bp hike in October after Wednesday’s meeting proved more hawkish than anticipated. GS joins ANZ, BofA, RBC and TD Securiti…
