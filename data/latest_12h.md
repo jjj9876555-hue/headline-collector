@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 13:26 JST／対象: 09/17 01:26 〜 09/17 13:26 JST（時刻はすべて日本時間）
+生成: 2026-09-17 13:45 JST／対象: 09/17 01:45 〜 09/17 13:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 30 | 09/17 02:22 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 245 | 09/17 01:31 | 09/17 13:25 | 32分（05:10→05:42） |
-| financialjuice | 166 | 09/17 01:35 | 09/17 13:24 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 254 | 09/17 01:48 | 09/17 13:36 | 32分（05:10→05:42） |
+| financialjuice | 172 | 09/17 01:54 | 09/17 13:35 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 429 行（統合前 446 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 444 行（統合前 461 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 01:31 [FirstSquawk] UNION PACIFIC CFO: DIESEL COSTS HAVE RISEN TO ABOUT $5.25-$5.30 A GALLON FROM AN EXPECTED Q3 AVERAGE OF ROUGHLY $4.25 - MORGAN STANLEY CONF
-- 09/17 01:35 [financialjuice] AWS' Desantis: Next Tranium chip to be very differentiated. $AMZN
-- 09/17 01:37 [FirstSquawk] SWEDISH CENTER-LEFT COALITION EXPECTED TO VICTORY IN ELECTIONS, SAYS SVT.
 - 09/17 01:48 [FirstSquawk] HYPERSCALER DEBT SIGNALS WARNING SIGN, APOLLO CAUTIONS - CNBC
 - 09/17 01:54 [financialjuice] Pakistan Foreign Ministry: While Pakistan navy was undertaking biennial exercise, Indian vessel carried out aggressive maneuvers in close proximity.
 - 09/17 02:02 [financialjuice] Iran's Rezai: We do not trust the US in any way.
@@ -453,3 +450,21 @@
 - 09/17 13:24 [financialjuice] Japan finance minister Katayama to stay in post in cabinet reshuffle, government spokesperson:
 - 09/17 13:24 [FirstSquawk] Trump’s efforts to sway the Federal Reserve fall short - FT
 - 09/17 13:25 [FirstSquawk] FT: Brussels seeks voluntary limits on China’s car exports.
+- 09/17 13:26 [FirstSquawk] FT: Extreme heat fuels potato shortages across Europe.
+- 09/17 13:26 [FirstSquawk] FT: DeepMind spin-off approaches a $4 billion valuation barely a month after its creation.
+- 09/17 13:27 [FirstSquawk] Huawei launches 11 new AI-related chips to compete with Nvidia, Intel and AMD.
+- 09/17 13:28 [financialjuice] Japan economy minister Kiuchi to stay in role in cabinet reshuffle, government spokesperson says
+- 09/17 13:29 [FirstSquawk] Japan’s Kiuchi set to stay on as economy minister following the Cabinet reshuffle, government spokesperson says.
+- 09/17 13:30 [FirstSquawk] Katayama to stay on as Japan’s finance minister following the Cabinet reshuffle, government spokesperson says.
+- 09/17 13:30 [financialjuice] DUTCH UNEMPLOYMENT RATE SA ACTUAL 4% (FORECAST -, PREVIOUS 4.0%) $MACRO
+- 09/17 13:30 [financialjuice] Japanese Prime Minister Takaichi to host press briefing at 0930 GMT
+- 09/17 13:30 [FirstSquawk] Japan’s Takaichi set to hold a press conference at 0930 GMT.
+- 09/17 13:31 [FirstSquawk] HSBC lifts its US dollar savings rate by 12.4 bps to 0.125%.
+- 09/17 13:32 [financialjuice] Japan economy minister Kiuchi: aim to balance robust economy with fiscal sustainability
+- 09/17 13:32 [FirstSquawk] Kiuchi: Japan will pursue economic strength while maintaining fiscal sustainability.
+- 09/17 13:33 [financialjuice] Japan economy minister Kiuchi: aims to reassure and completely alleviate market concerns
+- 09/17 13:33 [FirstSquawk] Japan’s Economy Minister Kiuchi: Will communicate to ease concerns in the market.
+- 09/17 13:34 [financialjuice] Japan economy minister Kiuchi: no comment on interest rates
+- 09/17 13:35 [FirstSquawk] Kiuchi says he will not comment on interest-rate policy.
+- 09/17 13:35 [financialjuice] Japan economy minister Kiuchi: won’t pursue reckless fiscal expansion
+- 09/17 13:36 [FirstSquawk] Flood-hit Nepal sees India and China engage in disaster diplomacy.

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 13:26 JST／対象: 09/16 13:26 〜 09/17 13:26 JST（時刻はすべて日本時間）
+生成: 2026-09-17 13:45 JST／対象: 09/16 13:45 〜 09/17 13:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 411 | 09/16 13:31 | 09/17 13:25 | 45分（17:00→17:45） |
-| financialjuice | 292 | 09/16 14:36 | 09/17 13:24 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 416 | 09/16 13:45 | 09/17 13:36 | 45分（17:00→17:45） |
+| financialjuice | 299 | 09/16 14:36 | 09/17 13:35 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 740 行（統合前 759 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 752 行（統合前 771 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 13:31 [FirstSquawk] Japan August imports jump as oil prices lift costs Japan’s imports rose sharply in August as higher oil prices pushed up import costs, while exports remained firm during the month.
-- 09/16 13:31 [FirstSquawk] Iran says it fears no war in defending sovereignty and security A deputy for Iran’s armed forces operations said at the Xiangshan Forum that Iran fears no war when it comes to safeguarding its sovereignty and national security. The remarks …
-- 09/16 13:37 [FirstSquawk] Two tankers hit by cyberattack while transiting Strait of Gibraltar An American official said two tankers were subjected to a cyberattack while passing through the Strait of Gibraltar in August.
-- 09/16 13:37 [FirstSquawk] Oil and gas cargoes raised explosion and collision risks: WSJ The two tankers targeted in the cyberattack were carrying oil and gas cargoes, according to the Wall Street Journal.
-- 09/16 13:38 [FirstSquawk] Two foreign tankers bound for U.S. shores hit by cyberattack American officials said two foreign tankers en route to U.S. shores were subjected to a cyberattack in August.
-- 09/16 13:38 [FirstSquawk] Federal investigation launched into cyberattack targeting two tankers: WSJ U.S. authorities are investigating what is believed to be a cyberattack targeting two tankers before their arrival in the United States, according to the Wall Street…
 - 09/16 13:45 [FirstSquawk] Asian stocks edge higher as markets await Fed decision Asian equities traded with modest gains on Wednesday, as investors remained cautious ahead of the Federal Reserve’s upcoming policy decision. Markets are closely watching the Fed outcom…
 - 09/16 13:49 [FirstSquawk] Amazon, Netflix and YouTube join forces to expand streaming choices: CNBC Amazon, Netflix and YouTube are joining hands in an effort to give viewers more choices across online streaming, according to CNBC.
 - 09/16 13:56 [FirstSquawk] NTT Docomo gave user data to Amazon Japan without consent: Kyodo Japan’s NTT Docomo provided user data to Amazon Japan’s local arm without obtaining users’ consent, according to Kyodo News.
@@ -764,3 +758,21 @@
 - 09/17 13:24 [financialjuice] Japan finance minister Katayama to stay in post in cabinet reshuffle, government spokesperson:
 - 09/17 13:24 [FirstSquawk] Trump’s efforts to sway the Federal Reserve fall short - FT
 - 09/17 13:25 [FirstSquawk] FT: Brussels seeks voluntary limits on China’s car exports.
+- 09/17 13:26 [FirstSquawk] FT: Extreme heat fuels potato shortages across Europe.
+- 09/17 13:26 [FirstSquawk] FT: DeepMind spin-off approaches a $4 billion valuation barely a month after its creation.
+- 09/17 13:27 [FirstSquawk] Huawei launches 11 new AI-related chips to compete with Nvidia, Intel and AMD.
+- 09/17 13:28 [financialjuice] Japan economy minister Kiuchi to stay in role in cabinet reshuffle, government spokesperson says
+- 09/17 13:29 [FirstSquawk] Japan’s Kiuchi set to stay on as economy minister following the Cabinet reshuffle, government spokesperson says.
+- 09/17 13:30 [FirstSquawk] Katayama to stay on as Japan’s finance minister following the Cabinet reshuffle, government spokesperson says.
+- 09/17 13:30 [financialjuice] DUTCH UNEMPLOYMENT RATE SA ACTUAL 4% (FORECAST -, PREVIOUS 4.0%) $MACRO
+- 09/17 13:30 [financialjuice] Japanese Prime Minister Takaichi to host press briefing at 0930 GMT
+- 09/17 13:30 [FirstSquawk] Japan’s Takaichi set to hold a press conference at 0930 GMT.
+- 09/17 13:31 [FirstSquawk] HSBC lifts its US dollar savings rate by 12.4 bps to 0.125%.
+- 09/17 13:32 [financialjuice] Japan economy minister Kiuchi: aim to balance robust economy with fiscal sustainability
+- 09/17 13:32 [FirstSquawk] Kiuchi: Japan will pursue economic strength while maintaining fiscal sustainability.
+- 09/17 13:33 [financialjuice] Japan economy minister Kiuchi: aims to reassure and completely alleviate market concerns
+- 09/17 13:33 [FirstSquawk] Japan’s Economy Minister Kiuchi: Will communicate to ease concerns in the market.
+- 09/17 13:34 [financialjuice] Japan economy minister Kiuchi: no comment on interest rates
+- 09/17 13:35 [FirstSquawk] Kiuchi says he will not comment on interest-rate policy.
+- 09/17 13:35 [financialjuice] Japan economy minister Kiuchi: won’t pursue reckless fiscal expansion
+- 09/17 13:36 [FirstSquawk] Flood-hit Nepal sees India and China engage in disaster diplomacy.

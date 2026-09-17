@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 13:26 JST／対象: 09/17 07:26 〜 09/17 13:26 JST（時刻はすべて日本時間）
+生成: 2026-09-17 13:45 JST／対象: 09/17 07:45 〜 09/17 13:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/17 07:41 | 09/17 08:04 | 16分（07:47→08:04） |
-| FirstSquawk | 131 | 09/17 07:27 | 09/17 13:25 | 25分（08:16→08:41） |
-| financialjuice | 52 | 09/17 07:45 | 09/17 13:24 | ⚠ 78分（10:31→11:49） |
+| DeItaone | 2 | 09/17 07:47 | 09/17 08:04 | 16分（07:47→08:04） |
+| FirstSquawk | 131 | 09/17 07:47 | 09/17 13:36 | 25分（08:16→08:41） |
+| financialjuice | 59 | 09/17 07:45 | 09/17 13:35 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 189 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 192 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 07:27 [FirstSquawk] TRUMP SAYS HE STILL HAS CONFIDENCE IN FED CHAIR WARSH
-- 09/17 07:29 [FirstSquawk] TRUMP SAYS FED CHAIR WARSH 'HAS A HOSTILE BOARD', ADDING THAT HE WANTS WARSH TO BE INDEPENDENT
-- 09/17 07:29 [FirstSquawk] U.S. HOUSE HAS VOTED 262 TO 159 TO PASS A BILL TO IMPOSE SANCTIONS AND TARIFFS OVER RUSSIA'S INVASION OF UKRAINE, WITH TRUMP EXPECTED TO SIGN IT INTO LAW
-- 09/17 07:31 [FirstSquawk] TRUMP SAYS THE U.S. IS 'HOPEFULLY TOWARD THE END OF THE WAR IN IRAN'
-- 09/17 07:32 [FirstSquawk] THE HOUSE HAS VOTED TO HOLD BILLIONAIRE LEON BLACK IN CONTEMPT OF CONGRESS AFTER HE REFUSED TO COMPLY WITH SUBPOENAS IN THE COMMITTEE'S INVESTIGATION INTO JEFFREY EPSTEIN, WITH THE MATTER REFERRED TO THE JUSTICE DEPARTMENT FOR POSSIBLE CRIM…
-- 09/17 07:32 [FirstSquawk] BLACK'S LAWYERS CALLED THE MOVE 'POLITICALLY MOTIVATED' AND SAID HE HAD NO KNOWLEDGE OF EPSTEIN'S CRIMES - AP
-- 09/17 07:32 [FirstSquawk] ITALIAN PM MELONI SAYS ON SPAIN THAT 'IT HAS HAPPENED AT LEAST 400 TIMES IN EUROPE THAT SCHENGEN HAS BEEN SUSPENDED', INCLUDING 'SEVERAL TIMES AGAINST US AS WELL', ARGUING 'IT IS NOT DONE AGAINST SOMEONE, IT IS DONE TO CLEARLY DEFEND AND SE…
-- 09/17 07:33 [FirstSquawk] ITALIAN PM MELONI SAYS 'SOME STATEMENTS FROM THE SPANISH GOVERNMENT, FRANKLY, SEEM A LITTLE OUT OF PLACE', ADDING THAT 'USING OVERLY HEATED TONES WITH US, OR THREATS OF REPERCUSSIONS, IS NOT EXACTLY THE MOST CONVINCING ARGUMENT'.
-- 09/17 07:33 [FirstSquawk] AN EXPLOSIVE-LADEN DRONE HAS TARGETED A CAMP OF AN IRANIAN KURDISH OPPOSITION GROUP NORTHWEST OF IRAQ'S SULAYMANIYAH, WITH NO INJURIES REPORTED - SECURITY SOURCES
-- 09/17 07:40 [FirstSquawk] CHINA EVERGRANDE NEW ENERGY VEHICLE GROUP POSTED H1 NET INCOME ATTRIBUTABLE OF RMB185.7 MLN, RECOMMENDING NO INTERIM DIVIDEND FOR THE SIX MONTHS ENDED 30 JUNE 2026.
-- 09/17 07:40 [FirstSquawk] CHINA EVERGRANDE NEW ENERGY VEHICLE GROUP POSTED FY2025 REVENUE OF RMB13 MLN AND AN FY2025 NET LOSS OF RMB891 MLN, WITH THE GROUP'S UNPAID DEBTS DUE AMOUNTING TO RMB16,837.85 MLN AS AT 31 DEC 2025.
-- 09/17 07:41 [DeItaone] TRUMP: WARSH HAS A HOSTILE BOARD
-- 09/17 07:42 [DeItaone] TRUMP: I WANT WARSH TO BE INDEPENDENT
-- 09/17 07:42 [DeItaone] TRUMP: INFLATION IS TOO HIGH
-- 09/17 07:42 [DeItaone] TRUMP: STILL HAVE CONFIDENCE IN FED CHAIR WARSH
 - 09/17 07:45 [financialjuice] NEW ZEALAND GDP YOY ACTUAL 2.6% (FORECAST 2.2%, PREVIOUS 1.5%) $MACRO
 - 09/17 07:45 [financialjuice] ‼ BREAKING: NEW ZEALAND GDP QOQ ACTUAL 0.2% (FORECAST 0.1%, PREVIOUS 0.8%) $MACRO
 - 09/17 07:45 [financialjuice] ❗ NEW ZEALAND EXPENDITURE GDP QOQ ACTUAL 0.4% (FORECAST -, PREVIOUS 1.0%) $MACRO
@@ -213,3 +198,21 @@
 - 09/17 13:24 [financialjuice] Japan finance minister Katayama to stay in post in cabinet reshuffle, government spokesperson:
 - 09/17 13:24 [FirstSquawk] Trump’s efforts to sway the Federal Reserve fall short - FT
 - 09/17 13:25 [FirstSquawk] FT: Brussels seeks voluntary limits on China’s car exports.
+- 09/17 13:26 [FirstSquawk] FT: Extreme heat fuels potato shortages across Europe.
+- 09/17 13:26 [FirstSquawk] FT: DeepMind spin-off approaches a $4 billion valuation barely a month after its creation.
+- 09/17 13:27 [FirstSquawk] Huawei launches 11 new AI-related chips to compete with Nvidia, Intel and AMD.
+- 09/17 13:28 [financialjuice] Japan economy minister Kiuchi to stay in role in cabinet reshuffle, government spokesperson says
+- 09/17 13:29 [FirstSquawk] Japan’s Kiuchi set to stay on as economy minister following the Cabinet reshuffle, government spokesperson says.
+- 09/17 13:30 [FirstSquawk] Katayama to stay on as Japan’s finance minister following the Cabinet reshuffle, government spokesperson says.
+- 09/17 13:30 [financialjuice] DUTCH UNEMPLOYMENT RATE SA ACTUAL 4% (FORECAST -, PREVIOUS 4.0%) $MACRO
+- 09/17 13:30 [financialjuice] Japanese Prime Minister Takaichi to host press briefing at 0930 GMT
+- 09/17 13:30 [FirstSquawk] Japan’s Takaichi set to hold a press conference at 0930 GMT.
+- 09/17 13:31 [FirstSquawk] HSBC lifts its US dollar savings rate by 12.4 bps to 0.125%.
+- 09/17 13:32 [financialjuice] Japan economy minister Kiuchi: aim to balance robust economy with fiscal sustainability
+- 09/17 13:32 [FirstSquawk] Kiuchi: Japan will pursue economic strength while maintaining fiscal sustainability.
+- 09/17 13:33 [financialjuice] Japan economy minister Kiuchi: aims to reassure and completely alleviate market concerns
+- 09/17 13:33 [FirstSquawk] Japan’s Economy Minister Kiuchi: Will communicate to ease concerns in the market.
+- 09/17 13:34 [financialjuice] Japan economy minister Kiuchi: no comment on interest rates
+- 09/17 13:35 [FirstSquawk] Kiuchi says he will not comment on interest-rate policy.
+- 09/17 13:35 [financialjuice] Japan economy minister Kiuchi: won’t pursue reckless fiscal expansion
+- 09/17 13:36 [FirstSquawk] Flood-hit Nepal sees India and China engage in disaster diplomacy.
