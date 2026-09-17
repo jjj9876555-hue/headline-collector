@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 18:03 JST／対象: 09/16 18:03 〜 09/17 18:03 JST（時刻はすべて日本時間）
+生成: 2026-09-17 18:26 JST／対象: 09/16 18:26 〜 09/17 18:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 52 | 09/16 19:06 | 09/17 16:07 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 385 | 09/16 18:12 | 09/17 17:56 | 32分（05:10→05:42） |
-| financialjuice | 289 | 09/16 18:23 | 09/17 18:03 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 387 | 09/16 18:35 | 09/17 18:18 | 32分（05:10→05:42） |
+| financialjuice | 288 | 09/16 18:33 | 09/17 18:03 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 712 行（統合前 731 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 713 行（統合前 732 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 18:12 [FirstSquawk] AMAZON PLANS TO ESTABLISH OVER 1,000 SAME-DAY DELIVERY HUBS BY 2031, AS REPORTED BY INSIDER.
-- 09/16 18:23 [financialjuice] Amazon to build over 1k same-day delivery hubs by 2031. Budgets $6.8B for US same day hubs in 2026-27. $AMZN - Insider
 - 09/16 18:33 [financialjuice] GERMAN 30 YR BUND YIELD ACTUAL 3.9% (FORECAST -, PREVIOUS 3.64%) $MACRO
 - 09/16 18:33 [financialjuice] GERMAN 30 YR BUND BID-TO-COVER ACTUAL 2.425 (FORECAST -, PREVIOUS 2.9) $MACRO
 - 09/16 18:35 [FirstSquawk] GERMANY SOLD EUR864 MILLION IN BONDS WITH A 3.4% MATURITY IN 2047, BIDDING COVER RATIO OF 2.4X (DOWN FROM 3.6X), AND AVERAGE YIELD OF 3.88% (UP FROM 3.68%).
@@ -736,3 +734,6 @@
 - 09/17 18:00 [financialjuice] ❗ EUROZONE CPI MOM FINAL ACTUAL 0.4% (FORECAST 0.4%, PREVIOUS 0.2%) $MACRO
 - 09/17 18:00 [financialjuice] ❗ EUROZONE CPI YOY FINAL ACTUAL 3.2% (FORECAST 3.3%, PREVIOUS 3.3%) $MACRO
 - 09/17 18:03 [financialjuice] NEW ZEALAND ANNUAL TRADE BAL. ACTUAL -5.24B (FORECAST -, PREVIOUS -5.24B) $MACRO
+- 09/17 18:06 [FirstSquawk] EUROZONE CPI CORE (Y/Y) JUL F: 2.4% (EST 2.4%; PREV 2.4%) || CPI (M/M): 0.4% (EST 0.4%; PREV 0.4%) || CPI (Y/Y): 3.2% (EST 3.3%; PREV 3.3%)
+- 09/17 18:18 [FirstSquawk] GERMAN VICE CHANCELLOR KLINGBEIL IS GRATEFUL FOR VW'S RESTRUCTURING DEAL BUT RECOGNIZES IT IS ONLY THE START.
+- 09/17 18:18 [FirstSquawk] GERMAN VICE CHANCELLOR KLINGBEIL DISCUSSED VW LABOR TALKS, STRESSED A STRONGER STRATEGY TOWARD CHINA AND OTHER COUNTRIES THAT POSE RISKS TO OUR INDUSTRY.
