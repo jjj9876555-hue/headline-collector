@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 05:18 JST／対象: 09/17 23:18 〜 09/18 05:18 JST（時刻はすべて日本時間）
+生成: 2026-09-18 05:33 JST／対象: 09/17 23:33 〜 09/18 05:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/17 23:42 | 09/18 02:59 | ⚠ 87分（00:42→02:10） |
-| FirstSquawk | 60 | 09/17 23:31 | 09/18 05:16 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 56 | 09/17 23:30 | 09/18 05:13 | 38分（03:45→04:24） |
+| FirstSquawk | 58 | 09/17 23:44 | 09/18 05:16 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 54 | 09/17 23:47 | 09/18 05:13 | 38分（03:45→04:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 118 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 114 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 44B (FORECAST 48B, PREVIOUS 40B) $MACRO
-- 09/17 23:31 [FirstSquawk] EIA SAYS US NATURAL-GAS STOCKPILES ROSE 44 BCF LAST WEEK
-- 09/17 23:31 [financialjuice] EIA Weekly Natural Gas Report
-- 09/17 23:31 [FirstSquawk] EIA: US NATURAL-GAS STOCKPILES ROSE 44 BCF LAST WEEK
 - 09/17 23:42 [DeItaone] CHINA, U.S. PREPARE FOR XI-TRUMP SUMMIT Chinese Foreign Minister Wang Yi held talks with Marco Rubio ahead of the Xi-Trump summit scheduled for September 24, calling for stronger communication, cooperation and management of differences. The…
 - 09/17 23:44 [FirstSquawk] AN EXPLOSION HAS OCCURRED IN THE STRAIT OF HORMUZ JUST NOW.
 - 09/17 23:47 [financialjuice] French PM sees budgetary effort of around €54b for 2027 - Le Figaro

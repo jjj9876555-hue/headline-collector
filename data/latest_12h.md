@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 05:18 JST／対象: 09/17 17:18 〜 09/18 05:18 JST（時刻はすべて日本時間）
+生成: 2026-09-18 05:33 JST／対象: 09/17 17:33 〜 09/18 05:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/17 18:43 | 09/18 02:59 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 142 | 09/17 17:32 | 09/18 05:16 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 169 | 09/17 17:32 | 09/18 05:13 | 45分（18:03→18:48） |
+| FirstSquawk | 141 | 09/17 17:56 | 09/18 05:16 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 168 | 09/17 17:58 | 09/18 05:13 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 313 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 311 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 17:32 [FirstSquawk] HUAWEI EXECUTIVE SAYS THE SOFTWARE DIVIDE WITH NVIDIA IS NARROWING.
-- 09/17 17:32 [financialjuice] UK Office for National Statistics: New approach of measuring productivity leads to relatively small changes in long-run growth in output per job and output per worker.
 - 09/17 17:56 [FirstSquawk] US-MEXICO TRADE DISCUSSIONS DELAYED BY ONE WEEK.
 - 09/17 17:58 [financialjuice] FRENCH 3 YR OAT YIELD ACTUAL 3.59% (FORECAST -, PREVIOUS 3.17%) $MACRO
 - 09/17 17:58 [financialjuice] FRENCH 3 YR OAT BID-TO-COVER ACTUAL 2.926 (FORECAST -, PREVIOUS 3.66) $MACRO
