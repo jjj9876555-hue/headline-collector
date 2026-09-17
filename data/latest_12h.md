@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 19:52 JST／対象: 09/17 07:52 〜 09/17 19:52 JST（時刻はすべて日本時間）
+生成: 2026-09-17 20:04 JST／対象: 09/17 08:04 〜 09/17 20:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/17 08:04 | 09/17 18:43 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 202 | 09/17 07:52 | 09/17 19:45 | 29分（16:17→16:47） |
-| financialjuice | 124 | 09/17 08:10 | 09/17 19:47 | ⚠ 78分（10:31→11:49） |
+| DeItaone | 2 | 09/17 16:07 | 09/17 18:43 | ⚠ 156分（16:07→18:43） |
+| FirstSquawk | 202 | 09/17 08:13 | 09/17 20:02 | 29分（16:17→16:47） |
+| financialjuice | 145 | 09/17 08:10 | 09/17 20:03 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 328 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 347 行（統合前 349 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 07:52 [FirstSquawk] US HOUSE HAS ENOUGH VOTES TO PASS DATA CENTER COST BILL; VOTING CONTINUES
-- 09/17 07:53 [FirstSquawk] US HOUSE PASSES BILL TO SHIFT ELECTRICAL GRID UPGRADE COSTS TO DATA CENTERS
-- 09/17 08:02 [FirstSquawk] APPLE'S COOK: TO ATTEND TRUMP DINNER FOR CHINA'S XI NEXT WEEK
-- 09/17 08:02 [FirstSquawk] SALESFORCE: FORECASTS FY2030 SALES OF $63B (EST $61.4B)
-- 09/17 08:02 [FirstSquawk] IMF SAYS ON AUSTRALIA THAT IT SEES GDP GROWTH AT 1.9% IN 2026 AND 1.6% IN 2027, ADDING THAT MAJOR TAX REFORM COULD BOOST GROWTH AND STRENGTHEN PUBLIC FINANCES AND CALLING FOR A MORE AMBITIOUS PRODUCTIVITY REFORM PROGRAMME.
-- 09/17 08:03 [FirstSquawk] IMF SAYS THE RBA SHOULD MAINTAIN A TIGHTENING BIAS AND BE READY TO HIKE AS NEEDED, WITH INFLATION RISKS REMAINING TILTED TO THE UPSIDE AND UNCERTAINTY OVER WHETHER FINANCIAL CONDITIONS ARE RESTRICTIVE ENOUGH, ADDING THAT FISCAL CONSOLIDATIO…
-- 09/17 08:04 [DeItaone] TRUMP LASHES OUT AT FED AFTER WARSH BACKS RATE HIKE President Trump criticized the Fed after its unanimous 25bp hike to 3.75%–4.00%, demanding rates be cut to 1% or lower. Trump said he still has confidence in Fed Chair Kevin Warsh but call…
-- 09/17 08:04 [FirstSquawk] LENNAR POSTED Q3 REVENUE OF $8.05 BLN, BELOW THE $8.30 BLN ESTIMATE, WITH EPS OF $1.19 VERSUS $1.28 EXPECTED.
-- 09/17 08:04 [FirstSquawk] LENNAR SEES Q4 NEW ORDERS OF 19,500 TO 20,500 AND Q4 DELIVERIES OF 22,000 TO 23,000 VERSUS 24,080 EXPECTED.
 - 09/17 08:10 [financialjuice] Trump: retains confidence in Fed Chair Warsh
 - 09/17 08:11 [financialjuice] Trump: wants Warsh to be independent
 - 09/17 08:11 [financialjuice] Trump: Warsh has an antagonistic board
@@ -69,6 +60,7 @@
 - 09/17 09:18 [FirstSquawk] 10-year JGB yield moves below 3%, down 0.5bp at 2.99%.
 - 09/17 09:19 [FirstSquawk] The renewed prospect of higher US interest rates is reshaping market positioning, as investors weigh potential beneficiaries of elevated yields and continued inflation pressure - Benzinga
 - 09/17 09:20 [FirstSquawk] Trump: Says Washington and Mexico are nearing a new agreement, calling it a “great deal.”
+- 09/17 09:21 [FirstSquawk] Apple's Cook: To Attend Trump Dinner For China's Xi Next Week
 - 09/17 09:23 [FirstSquawk] Axios reports the meeting may include a wider group of leaders from Arab and Islamic countries.
 - 09/17 09:24 [FirstSquawk] US Fed delivers its first rate hike since July 2023, lifting the federal funds target range by 25bp to 3.75%-4% amid ongoing inflation pressure.
 - 09/17 09:24 [financialjuice] China PBOC seen setting yuan midpoint at 6.7241 per dollar: estimate
@@ -352,3 +344,30 @@
 - 09/17 19:45 [financialjuice] Canada PM Carney in reaction to Trump comments: A strong, more resilient Canada would be a more effective partner to the US
 - 09/17 19:45 [FirstSquawk] TURKEY PROPOSES RUSSIA-UKRAINE DEAL TO END BLACK SEA SHIPPING ATTACKS – AFP CITES DIPLOMATIC SOURCE
 - 09/17 19:47 [financialjuice] Canada's PM Carney: Nobody will dictate who we strike agreements with
+- 09/17 19:54 [FirstSquawk] SWISS UPPER HOUSE POSTPONES VOTE ON UBS CAPITAL RULES, TO VOTE SEP 23RD
+- 09/17 19:57 [FirstSquawk] ECB REHN: CURRENTLY NO NEED FOR USE OF ECB INSTRUMENTS LIKE TPI
+- 09/17 20:00 [FirstSquawk] BOE INTEREST RATE DECISION (SEP) ACTUAL: 3.75% VS 3.75% PREVIOUS; EST 3.75%
+- 09/17 20:00 [financialjuice] ‼ BREAKING: BOE BANK RATE ACTUAL 3.75% (FORECAST 3.75%, PREVIOUS 3.75%) $MACRO
+- 09/17 20:00 [financialjuice] BOE MPC VOTE HIKE ACTUAL 3 (FORECAST 3, PREVIOUS 3) $MACRO
+- 09/17 20:00 [financialjuice] BOE MPC VOTE UNCHANGED ACTUAL 6 (FORECAST 6, PREVIOUS 6) $MACRO
+- 09/17 20:00 [financialjuice] BOE MPC VOTE CUT ACTUAL 0 (FORECAST 0, PREVIOUS 0) $MACRO
+- 09/17 20:00 [financialjuice] BoE: £222B of notes maturing before 2035 to be held to maturity
+- 09/17 20:00 [financialjuice] BoE sees growth of 0.4% in Q3, vs 0.1% prior forecast
+- 09/17 20:01 [financialjuice] BoE’s Greene: Risk-management strategy is appropriate
+- 09/17 20:01 [financialjuice] BoE Gov. Bailey: Loss of urgency to find solutions to conflict
+- 09/17 20:01 [financialjuice] BoE's Ramsden: More risk of domestic pressures emerging
+- 09/17 20:01 [FirstSquawk] BOE GILT PLAN SEES ANNUAL £20B OF SALES TO GOVERNMENT
+- 09/17 20:01 [FirstSquawk] BOE PLANS TO CUT £368 BILLION OF GILT STOCK BY END OF 2034
+- 09/17 20:01 [financialjuice] BoE's Dhingra: My view of the outlook is largely unchanged since July
+- 09/17 20:01 [FirstSquawk] BOE SEES UK INFLATION SLIGHTLY ABOVE 4% IN 1Q 2027
+- 09/17 20:01 [financialjuice] BoE's Taylor: Monetary policy is already firmly restrictive
+- 09/17 20:01 [financialjuice] BoE revises up inflation outlook, sees 3.75% by end of 2026
+- 09/17 20:02 [financialjuice] BoE: £120B of longest-dated bonds held to back banknotes
+- 09/17 20:02 [financialjuice] BoE: Inflation risks are tilted to the upside relative to the July central forecast
+- 09/17 20:02 [financialjuice] ❗ BoE Gov. Bailey: Likely policy may have to tighten if conflict in MidEast persists for extended period, as appears likely, and if risk of second-round effects increases.
+- 09/17 20:02 [FirstSquawk/financialjuice] TRADERS TRIM BOE RATE BETS, PRICE 38BPS OF HIKES BY YEAR END
+- 09/17 20:02 [financialjuice] BoE monetary policy summary repeats the July statement that there is "little evidence so far" of material second-round inflation effects
+- 09/17 20:03 [financialjuice] BoE: Chief economist Pill and MPC's Greene and Mann voted to raise rates to 4%
+- 09/17 20:03 [financialjuice] BoE Gov. Bailey: Gilt plan to take place gradually, predictably
+- 09/17 20:03 [financialjuice] BoE: Adverse energy scenario as a proxy for the current situation
+- 09/17 20:03 [financialjuice] BoE's Dhingra: BoE's rate is materially higher than European peers

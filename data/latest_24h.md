@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 19:52 JST／対象: 09/16 19:52 〜 09/17 19:52 JST（時刻はすべて日本時間）
+生成: 2026-09-17 20:04 JST／対象: 09/16 20:04 〜 09/17 20:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 51 | 09/16 20:00 | 09/17 18:43 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 398 | 09/16 19:52 | 09/17 19:45 | 32分（05:10→05:42） |
-| financialjuice | 323 | 09/16 19:52 | 09/17 19:47 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 50 | 09/16 20:35 | 09/17 18:43 | ⚠ 483分（08:04→16:07） |
+| FirstSquawk | 402 | 09/16 20:08 | 09/17 20:02 | 32分（05:10→05:42） |
+| financialjuice | 337 | 09/16 20:04 | 09/17 20:03 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 757 行（統合前 777 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 774 行（統合前 794 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 19:52 [financialjuice] UK PM Burnham: Chancellor and I will take these issues into account at the budget
-- 09/16 19:52 [financialjuice/FirstSquawk] UK PM Burnham: We are not a traditional tax and spend socialist government.
-- 09/16 19:52 [financialjuice] UK PM Burnham: We will take difficult decisions to keep the economy on track
-- 09/16 19:56 [FirstSquawk] UK PM BURNHAM: INFLATION IS A CONCERN, UK ECONOMY SHOWING RESILIENCE
-- 09/16 20:00 [DeItaone] LAVROV WARNS EUROPE AGAINST ATTACKING RUSSIA Russian Foreign Minister Sergey Lavrov says Moscow has no intention of attacking Europe, but issued a stark warning against any European strike on Russia. “If Europe attacks Russia, the war will …
-- 09/16 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -4.1% (FORECAST -, PREVIOUS -2.7%) $MACRO
-- 09/16 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 6.97% (FORECAST -, PREVIOUS 6.85%) $MACRO
-- 09/16 20:00 [financialjuice] US officials met Houthis in Oman over the weekend after an Iran-backed group seized a strategic stretch of the Red Sea coast - Sources
-- 09/16 20:01 [FirstSquawk] US OFFICIALS HELD TALKS WITH HOUTHIS IN OMAN AFTER THE IRAN-SUPPORTED GROUP TOOK CONTROL OF A KEY PART OF THE RED SEA COAST
-- 09/16 20:02 [financialjuice] IBM's Anderon finalizes agreement with u.s. Department of Commerce for a $1 billion Chips Act award - IBM
 - 09/16 20:04 [financialjuice] OpenAI in talks for new funding at $1.2T valuation - The Information
 - 09/16 20:08 [FirstSquawk] ARDAGH SAYS COURT BARS SALE OF ARDAGH METAL PACKAGING STAKE
 - 09/16 20:10 [financialjuice] Houthis told the US they remain committed to 2025 ceasefire - Sources
@@ -781,3 +771,30 @@
 - 09/17 19:45 [financialjuice] Canada PM Carney in reaction to Trump comments: A strong, more resilient Canada would be a more effective partner to the US
 - 09/17 19:45 [FirstSquawk] TURKEY PROPOSES RUSSIA-UKRAINE DEAL TO END BLACK SEA SHIPPING ATTACKS – AFP CITES DIPLOMATIC SOURCE
 - 09/17 19:47 [financialjuice] Canada's PM Carney: Nobody will dictate who we strike agreements with
+- 09/17 19:54 [FirstSquawk] SWISS UPPER HOUSE POSTPONES VOTE ON UBS CAPITAL RULES, TO VOTE SEP 23RD
+- 09/17 19:57 [FirstSquawk] ECB REHN: CURRENTLY NO NEED FOR USE OF ECB INSTRUMENTS LIKE TPI
+- 09/17 20:00 [FirstSquawk] BOE INTEREST RATE DECISION (SEP) ACTUAL: 3.75% VS 3.75% PREVIOUS; EST 3.75%
+- 09/17 20:00 [financialjuice] ‼ BREAKING: BOE BANK RATE ACTUAL 3.75% (FORECAST 3.75%, PREVIOUS 3.75%) $MACRO
+- 09/17 20:00 [financialjuice] BOE MPC VOTE HIKE ACTUAL 3 (FORECAST 3, PREVIOUS 3) $MACRO
+- 09/17 20:00 [financialjuice] BOE MPC VOTE UNCHANGED ACTUAL 6 (FORECAST 6, PREVIOUS 6) $MACRO
+- 09/17 20:00 [financialjuice] BOE MPC VOTE CUT ACTUAL 0 (FORECAST 0, PREVIOUS 0) $MACRO
+- 09/17 20:00 [financialjuice] BoE: £222B of notes maturing before 2035 to be held to maturity
+- 09/17 20:00 [financialjuice] BoE sees growth of 0.4% in Q3, vs 0.1% prior forecast
+- 09/17 20:01 [financialjuice] BoE’s Greene: Risk-management strategy is appropriate
+- 09/17 20:01 [financialjuice] BoE Gov. Bailey: Loss of urgency to find solutions to conflict
+- 09/17 20:01 [financialjuice] BoE's Ramsden: More risk of domestic pressures emerging
+- 09/17 20:01 [FirstSquawk] BOE GILT PLAN SEES ANNUAL £20B OF SALES TO GOVERNMENT
+- 09/17 20:01 [FirstSquawk] BOE PLANS TO CUT £368 BILLION OF GILT STOCK BY END OF 2034
+- 09/17 20:01 [financialjuice] BoE's Dhingra: My view of the outlook is largely unchanged since July
+- 09/17 20:01 [FirstSquawk] BOE SEES UK INFLATION SLIGHTLY ABOVE 4% IN 1Q 2027
+- 09/17 20:01 [financialjuice] BoE's Taylor: Monetary policy is already firmly restrictive
+- 09/17 20:01 [financialjuice] BoE revises up inflation outlook, sees 3.75% by end of 2026
+- 09/17 20:02 [financialjuice] BoE: £120B of longest-dated bonds held to back banknotes
+- 09/17 20:02 [financialjuice] BoE: Inflation risks are tilted to the upside relative to the July central forecast
+- 09/17 20:02 [financialjuice] ❗ BoE Gov. Bailey: Likely policy may have to tighten if conflict in MidEast persists for extended period, as appears likely, and if risk of second-round effects increases.
+- 09/17 20:02 [FirstSquawk/financialjuice] TRADERS TRIM BOE RATE BETS, PRICE 38BPS OF HIKES BY YEAR END
+- 09/17 20:02 [financialjuice] BoE monetary policy summary repeats the July statement that there is "little evidence so far" of material second-round inflation effects
+- 09/17 20:03 [financialjuice] BoE: Chief economist Pill and MPC's Greene and Mann voted to raise rates to 4%
+- 09/17 20:03 [financialjuice] BoE Gov. Bailey: Gilt plan to take place gradually, predictably
+- 09/17 20:03 [financialjuice] BoE: Adverse energy scenario as a proxy for the current situation
+- 09/17 20:03 [financialjuice] BoE's Dhingra: BoE's rate is materially higher than European peers
