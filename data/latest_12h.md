@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 22:01 JST／対象: 09/17 10:01 〜 09/17 22:01 JST（時刻はすべて日本時間）
+生成: 2026-09-17 22:21 JST／対象: 09/17 10:21 〜 09/17 22:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/17 16:07 | 09/17 21:58 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 187 | 09/17 10:01 | 09/17 22:00 | 29分（16:17→16:47） |
-| financialjuice | 151 | 09/17 10:01 | 09/17 22:01 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 174 | 09/17 10:22 | 09/17 22:10 | 29分（16:17→16:47） |
+| financialjuice | 145 | 09/17 10:21 | 09/17 22:01 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 338 行（統合前 341 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 319 行（統合前 322 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 10:01 [financialjuice] South Korea foreign minister: US investment pact also on agenda in US-Korea foreign ministers meeting
-- 09/17 10:01 [FirstSquawk] Taiwan overnight interbank rate starts at 0.805%, flat versus the previous session’s opening level.
-- 09/17 10:02 [FirstSquawk] FT reports that the EU plans to bar children under 15 from accessing social media, selected gaming platforms and AI chatbots without parental oversight.
-- 09/17 10:02 [FirstSquawk] South Korea foreign minister: Announcement of the US investment deal is delayed as procedural issues are being clarified.
-- 09/17 10:02 [financialjuice] South Korea foreign minister: will uphold firm position on matters opposing national interest
-- 09/17 10:03 [FirstSquawk] South Korea says its US investment deal will also be addressed at the upcoming bilateral foreign ministers’ meeting.
-- 09/17 10:04 [FirstSquawk] South Korea foreign minister: Seoul will uphold its position on issues considered contrary to the national interest.
-- 09/17 10:08 [FirstSquawk] Gold prices climb 1% to $4,303.35/oz in spot trading.
-- 09/17 10:10 [financialjuice] Hong Kong Monetary Authority chief executive: widening interest rate gap with US could trigger carry trade, pushing HK dollar exchange rate toward weaker side of band
-- 09/17 10:10 [FirstSquawk] HKMA chief executive: A widening interest rate gap between Hong Kong and the US could spur carry trades, putting the HK dollar under pressure toward the weak end of its band.
-- 09/17 10:13 [financialjuice] Russian air strike wounds 10 in Ukraine's Kyiv, city authorities say
-- 09/17 10:14 [FirstSquawk] Goldman Sachs shifts its outlook, now expecting a Fed rate increase in October.
-- 09/17 10:15 [FirstSquawk] Goldman Sachs revises its outlook, forecasting another Fed rate increase in October.
-- 09/17 10:16 [FirstSquawk] Yuan midpoint set by PBOC at 6.7580 per dollar.
-- 09/17 10:16 [FirstSquawk] Taiwan dollar drops to 31.958 per US dollar, reaching its weakest level since August 20.
-- 09/17 10:18 [FirstSquawk] Trump’s proposed $2.8 billion weapons sale to Israel faces a block from a top House Democrat.
-- 09/17 10:18 [FirstSquawk] Malaysia’s ringgit drops to 4.098 per US dollar, marking its weakest level since June 26.
-- 09/17 10:19 [FirstSquawk] Gold rises slightly as markets evaluate the Fed’s next moves, WSJ reports.
-- 09/17 10:19 [FirstSquawk] Yuan midpoint set by China at its strongest level since February 3, 2023.
-- 09/17 10:19 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023, according to PBOC
-- 09/17 10:20 [FirstSquawk] Japan announces a ¥3.5 trillion offering of Treasury discount bills.
-- 09/17 10:21 [financialjuice] China injects 162 bln yuan through 7-day reverse repos at 1.40% vs previous 1.40%: statement
 - 09/17 10:21 [financialjuice] North Korea vice defense minister: US arms buildup validates Pyongyang's nuclear force expansion
 - 09/17 10:22 [financialjuice] North Korea vice defence minister: will keep expanding defensive nuclear deterrent
 - 09/17 10:22 [FirstSquawk] North Korea says it will continue expanding its nuclear deterrent, the vice defence minister says.
@@ -362,3 +340,6 @@
 - 09/17 21:58 [DeItaone/FirstSquawk] STANDARD CHARTERED EXPECTS US FED TO DELIVER A 25 BP RATE HIKE IN DECEMBER 2026 VS PRIOR FORECAST OF NO POLICY CHANGE THIS YEAR
 - 09/17 22:00 [financialjuice] Effective Fed Funds Rate 3.63% September 16 vs 3.63% September 15.
 - 09/17 22:01 [financialjuice] Microsoft, Marvell and UTIMACO to deliver industry-first secure, cloud-scale payments solution. $MSFT
+- 09/17 22:02 [FirstSquawk] SENATORS ASK FTC TO PROBE WALMART AND AMAZON OVER BOTS’ ‘MADE IN AMERICA’ DATA - WSJ
+- 09/17 22:10 [FirstSquawk] PAKISTAN ARMY CHIEF URGES IRAN TO PERSUADE HOUTHIS NOT TO TARGET SAUDI ENERGY FACILITIES – AA CITES SOURCES
+- 09/17 22:10 [FirstSquawk] GM TO PRODUCE PATRIOT MISSILE PARTS AS US FACES CRITICAL ARMS SHORTAGE - WSJ

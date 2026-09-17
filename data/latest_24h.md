@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 22:01 JST／対象: 09/16 22:01 〜 09/17 22:01 JST（時刻はすべて日本時間）
+生成: 2026-09-17 22:21 JST／対象: 09/16 22:21 〜 09/17 22:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 45 | 09/16 22:01 | 09/17 21:58 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 406 | 09/16 22:04 | 09/17 22:00 | 32分（05:10→05:42） |
-| financialjuice | 330 | 09/16 22:03 | 09/17 22:01 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 43 | 09/16 22:37 | 09/17 21:58 | ⚠ 483分（08:04→16:07） |
+| FirstSquawk | 402 | 09/16 22:21 | 09/17 22:10 | 32分（05:10→05:42） |
+| financialjuice | 327 | 09/16 22:30 | 09/17 22:01 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 765 行（統合前 786 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 757 行（統合前 777 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 22:01 [DeItaone] IRANIAN ATTACK HITS U.S.-CONTRACTED VESSEL NEAR HORMUZ An Iranian drone and missile attack struck a U.S.-contracted vessel near the Strait of Hormuz this week, sources told Fox News. The reported strike comes amid persistent threats to comm…
-- 09/16 22:03 [financialjuice] Apple has been developing enterprise server - The Information. $AAPL
-- 09/16 22:04 [FirstSquawk/financialjuice] APPLE HAS TALKED WITH NVIDIA TO USE NETWORK TECH: INFORMATION
-- 09/16 22:05 [FirstSquawk] APPLE CONSIDERS RETURN TO SERVER MARKET, HAS TALKED WITH NVIDIA TO USE NETWORK TECH - INFORMATION
-- 09/16 22:06 [FirstSquawk] TURKISH STOCKS FALL 6%, TRIGGERING MARKET-WIDE CIRCUIT BREAKER
-- 09/16 22:08 [FirstSquawk] INFINEON TO SELL NOR FLASH, F-RAM OPS TO WINBOND FOR $1.12B
-- 09/16 22:09 [financialjuice] Nvidia: Emerald AI, Google & Nvidia launch alliance and are to advance flexible AI data centers $NVDA
-- 09/16 22:11 [FirstSquawk] APPLE IS WORKING ON AN ENTERPRISE SERVER USING ITS OWN CHIPS, SOURCES REVEAL.
-- 09/16 22:12 [FirstSquawk] EMERALD AI, GOOGLE AND NVIDIA LAUNCH ALLIANCE TO ADVANCE FLEXIBLE AI DATA CENTRES
-- 09/16 22:15 [FirstSquawk] AMAZON RAISES MINIMUM STARTING PAY FOR FULL-TIME CORE OPERATIONS EMPLOYEES TO $20/HOUR, WITH AVERAGE PAY REACHING NEARLY $24/HOUR, AND LAUNCHES GROCERY DISCOUNT AND ACCESS TO NEW LIFETIME BANKING BENEFITS TO MAKE EVERYDAY LIFE MORE AFFORDAB…
-- 09/16 22:20 [DeItaone] FED DECISION DAY: MARKETS BRACE FOR A HIKE The Federal Reserve delivers its September rate decision, with prediction markets putting an 88% probability on a 25bp hike. What Wall Street expects Bank of America: September hike, with Waller ex…
 - 09/16 22:21 [FirstSquawk] ED YARDENI SLASHES S&P 500 TARGET, SAYS ‘PROCEED WITH CAUTION’ IN STOCKS AS RATES RISE – CNBC
 - 09/16 22:30 [financialjuice] EU's Economy Commissioner Dombrovskis: Italy exit from EU deficit plan still possible.
 - 09/16 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -92.9 MLN NASDAQ 100: -18.6 MLN DOW 30: -6.5 MLN MAG 7: -16.0 MLN $MACRO
@@ -789,3 +778,6 @@
 - 09/17 21:58 [DeItaone/FirstSquawk] STANDARD CHARTERED EXPECTS US FED TO DELIVER A 25 BP RATE HIKE IN DECEMBER 2026 VS PRIOR FORECAST OF NO POLICY CHANGE THIS YEAR
 - 09/17 22:00 [financialjuice] Effective Fed Funds Rate 3.63% September 16 vs 3.63% September 15.
 - 09/17 22:01 [financialjuice] Microsoft, Marvell and UTIMACO to deliver industry-first secure, cloud-scale payments solution. $MSFT
+- 09/17 22:02 [FirstSquawk] SENATORS ASK FTC TO PROBE WALMART AND AMAZON OVER BOTS’ ‘MADE IN AMERICA’ DATA - WSJ
+- 09/17 22:10 [FirstSquawk] PAKISTAN ARMY CHIEF URGES IRAN TO PERSUADE HOUTHIS NOT TO TARGET SAUDI ENERGY FACILITIES – AA CITES SOURCES
+- 09/17 22:10 [FirstSquawk] GM TO PRODUCE PATRIOT MISSILE PARTS AS US FACES CRITICAL ARMS SHORTAGE - WSJ
