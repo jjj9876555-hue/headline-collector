@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 05:59 JST／対象: 09/17 23:59 〜 09/18 05:59 JST（時刻はすべて日本時間）
+生成: 2026-09-18 06:17 JST／対象: 09/18 00:17 〜 09/18 06:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/18 00:42 | 09/18 02:59 | ⚠ 87分（00:42→02:10） |
-| FirstSquawk | 56 | 09/18 00:01 | 09/18 05:40 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 52 | 09/18 00:19 | 09/18 05:55 | 41分（05:13→05:55） |
+| FirstSquawk | 52 | 09/18 00:18 | 09/18 05:40 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 59 | 09/18 00:19 | 09/18 06:07 | 41分（05:13→05:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 109 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 112 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 00:01 [FirstSquawk] US TREASURY TO SELL $69 BLN IN 2-YEAR NOTES (EST $69 BLN)
-- 09/18 00:08 [FirstSquawk] STELLANTIS SAYS THERE IS NO LONG-TERM BUSINESS CASE FOR ITS BRAMPTON PLANT
-- 09/18 00:15 [FirstSquawk] WORKERS AT DIAGEO’S LARGEST DISTILLERY TO GO ON STRIKE AS DEMAND SLUMPS - FT
-- 09/18 00:16 [FirstSquawk] CENTCOM: AS OF SEPT. 17, CENTCOM FORCES HAVE REDIRECTED 104 COMMERCIAL VESSELS TO ENSURE STRICT COMPLIANCE.
 - 09/18 00:18 [FirstSquawk/financialjuice] JP MORGAN EXPECTS BOE TO HIKE INTEREST RATES BY 25 BP IN FEBRUARY 2027 VS PRIOR FORECAST OF TWO RATE CUTS IN 2027
 - 09/18 00:31 [FirstSquawk] LOCKHEED MARTIN CFO: Q3 MAY HAVE LOWER PROGRAM RISK RETIREMENTS THAN Q2, "MAY SEE SOME LUMPINESS AS WE GET TO OUR GUIDED MARGINS"
 - 09/18 00:31 [FirstSquawk] TURKEY DETAINS DESTEK CHAIRMAN, TERA CHAIRMAN GETS TRAVEL BAN
@@ -133,3 +129,10 @@
 - 09/18 05:16 [FirstSquawk] US STOCKS AND BONDS RALLIED AS FALLING OIL PRICES EASED INFLATION CONCERNS, HELPING MARKETS ABSORB THE FEDERAL RESERVE’S FIRST RATE HIKE SINCE 2023. THE S&P 500 GAINED 1.1%, ITS STRONGEST ADVANCE IN SIX WEEKS, WHILE THE NASDAQ 100 CLIMBED 1…
 - 09/18 05:40 [FirstSquawk] ANTHROPIC SAID ITS MEASUREMENTS WILL FOCUS ON HOW AI MODELS ARE BUILT AND DEVELOPED, WITH THE DATA SHARED TO HELP TRACK PROGRESS; CLAUDE ACCOUNTED FOR 26% OF AI R&D USE AS OF AUGUST 2026.
 - 09/18 05:55 [financialjuice] Qualcomm's CEO will attend Trump's state dinner with China’s President Xi. $QCOM
+- 09/18 06:00 [financialjuice] S. KOREAN PPI YOY ACTUAL 7.9% (FORECAST -, PREVIOUS 7.7%) $MACRO
+- 09/18 06:00 [financialjuice] S. KOREAN PPI MOM ACTUAL 0.2% (FORECAST -, PREVIOUS -0.4%) $MACRO
+- 09/18 06:02 [financialjuice] Healey to urge Brussels to include UK in 'made in Europe' policy: FT
+- 09/18 06:03 [financialjuice] British finance minister will on Friday signal to EU counterparts that London is open to negotiate a ‘reset’ deal - FT
+- 09/18 06:06 [financialjuice] North Korea's Kim Yo Jong: U.S.-led multinational exercises are primary cause of rising tensions on Korean peninsula
+- 09/18 06:07 [financialjuice] North Korea’s Kim Yo Jong: no shift in strategy to bolster nuclear war deterrence
+- 09/18 06:07 [financialjuice] North Korea's Kim Yo Jong: armed forces to deploy all options if military sovereignty and security interests are seriously threatened
