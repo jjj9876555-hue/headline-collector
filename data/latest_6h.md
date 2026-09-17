@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 03:38 JST／対象: 09/17 21:38 〜 09/18 03:38 JST（時刻はすべて日本時間）
+生成: 2026-09-18 03:54 JST／対象: 09/17 21:54 〜 09/18 03:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/17 21:58 | 09/18 02:59 | ⚠ 87分（00:42→02:10） |
-| FirstSquawk | 69 | 09/17 21:44 | 09/18 03:33 | 25分（01:59→02:24） |
-| financialjuice | 69 | 09/17 21:44 | 09/18 03:37 | 29分（22:01→22:31） |
+| FirstSquawk | 70 | 09/17 21:57 | 09/18 03:49 | 25分（01:59→02:24） |
+| financialjuice | 69 | 09/17 21:58 | 09/18 03:45 | 29分（22:01→22:31） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 143 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 144 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 21:44 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS IRAN-BACKED YEMEN'S HOUTHIS LAUNCHED DRONE AT SAUDI TAIF - STATE TV
-- 09/17 21:44 [financialjuice] Saudi Civil Defense: Iran-backed Yemen's Houthis launched drone at Saudi Taif - State TV
-- 09/17 21:52 [FirstSquawk] UK 30-YEAR GILT YIELDS DROP 11 BPS ON DAY, ON COURSE FOR BIGGEST ONE-DAY FALL SINCE MAY 20 AFTER BOE HALTS LONG-DATED GILT SALES
 - 09/17 21:57 [FirstSquawk] CHRYSLER (FCA US, LLC) IS RECALLING 97,349 U.S. VEHICLES - NHTSA
 - 09/17 21:58 [financialjuice] Standard Chartered expects US Fed to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of no policy change this year
 - 09/17 21:58 [DeItaone/FirstSquawk] STANDARD CHARTERED EXPECTS US FED TO DELIVER A 25 BP RATE HIKE IN DECEMBER 2026 VS PRIOR FORECAST OF NO POLICY CHANGE THIS YEAR
@@ -167,3 +164,7 @@
 - 09/18 03:32 [financialjuice] NYMEX Diesel October futures settle at $5.1139 a gallon.
 - 09/18 03:33 [FirstSquawk] US CRUDE FUTURES SETTLE 0.51% LOWER AT $101.91/BBL, DOWN 52 CENTS
 - 09/18 03:37 [financialjuice] State Department: Iran's core delegation is permitted to attend the UNGA.
+- 09/18 03:45 [financialjuice] Brent Crude futures settle at $104.82/bbl, down $1.01, 0.95%.
+- 09/18 03:49 [FirstSquawk] IRANIAN DELEGATION GRANTED VISAS FOR UN GENERAL ASSEMBLY - ABC
+- 09/18 03:49 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.95% LOWER AT $104.82/BBL, DOWN $1.01
+- 09/18 03:49 [FirstSquawk] BARCLAYS NOW EXPECTS BOE TO HIKE RATES 25BP IN NOVEMBER & FEBRUARY 2027, CITING PERSISTENT INFLATION RISKS AND MIDDLE EAST CONFLICT

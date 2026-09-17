@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 03:38 JST／対象: 09/17 15:38 〜 09/18 03:38 JST（時刻はすべて日本時間）
+生成: 2026-09-18 03:54 JST／対象: 09/17 15:54 〜 09/18 03:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/17 16:07 | 09/18 02:59 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 150 | 09/17 15:39 | 09/18 03:33 | 29分（16:17→16:47） |
-| financialjuice | 173 | 09/17 15:42 | 09/18 03:37 | 45分（18:03→18:48） |
+| FirstSquawk | 151 | 09/17 15:58 | 09/18 03:49 | 29分（16:17→16:47） |
+| financialjuice | 173 | 09/17 16:01 | 09/18 03:45 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 328 行（統合前 339 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 329 行（統合前 340 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 15:39 [FirstSquawk] Brent crude drops over $2 to $103.80 per barrel, trading around its lowest level in a week.
-- 09/17 15:42 [financialjuice] JBA's Kato: Rate still accommodative, expect more hikes
-- 09/17 15:47 [FirstSquawk] UOB: Sterling remains vulnerable to further weakness against the US dollar despite oversold conditions.
 - 09/17 15:58 [FirstSquawk] Russia uses North Korean workers in drone production for its war effort in Ukraine, SCMP reports.
 - 09/17 16:01 [financialjuice] EU: Canada deal is 'for our common strength’ - Spokesman
 - 09/17 16:07 [DeItaone] *EU SAYS CANADA DEAL IS ‘NOT AGAINST ANYONE ELSE’: SPOKESMAN *EU SAYS CANADA DEAL IS ‘FOR OUR COMMON STRENGTH’: SPOKESMAN Comes after US President Trump’s response to the proposal yesterday: “If they do that, if I think it’s at all a hostil…
@@ -352,3 +349,7 @@
 - 09/18 03:32 [financialjuice] NYMEX Diesel October futures settle at $5.1139 a gallon.
 - 09/18 03:33 [FirstSquawk] US CRUDE FUTURES SETTLE 0.51% LOWER AT $101.91/BBL, DOWN 52 CENTS
 - 09/18 03:37 [financialjuice] State Department: Iran's core delegation is permitted to attend the UNGA.
+- 09/18 03:45 [financialjuice] Brent Crude futures settle at $104.82/bbl, down $1.01, 0.95%.
+- 09/18 03:49 [FirstSquawk] IRANIAN DELEGATION GRANTED VISAS FOR UN GENERAL ASSEMBLY - ABC
+- 09/18 03:49 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.95% LOWER AT $104.82/BBL, DOWN $1.01
+- 09/18 03:49 [FirstSquawk] BARCLAYS NOW EXPECTS BOE TO HIKE RATES 25BP IN NOVEMBER & FEBRUARY 2027, CITING PERSISTENT INFLATION RISKS AND MIDDLE EAST CONFLICT
