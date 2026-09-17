@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 06:53 JST／対象: 09/18 00:53 〜 09/18 06:53 JST（時刻はすべて日本時間）
+生成: 2026-09-18 07:16 JST／対象: 09/18 01:16 〜 09/18 07:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/18 02:10 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 59 | 09/18 01:02 | 09/18 06:44 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 53 | 09/18 00:53 | 09/18 06:44 | 41分（05:13→05:55） |
+| FirstSquawk | 57 | 09/18 01:16 | 09/18 07:10 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 51 | 09/18 01:29 | 09/18 06:44 | 41分（05:13→05:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 107 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 00:53 [financialjuice] US weighs antitrust guidance on AI safety - DoJ Official.
-- 09/18 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 6.95% in Sept 17 week, highest since Jan 30, 2025 week, vs 6.76% prior week - Freddie Mac
-- 09/18 01:02 [FirstSquawk] GLENCORE'S IRON ORE PROJECT AT HEAD HILL IS PUT ON HOLD DURING A WORLDWIDE REVIEW.
-- 09/18 01:07 [FirstSquawk] US PUSHES FOR 50% STEEL TARIFFS AMONG G20 PARTNERS
-- 09/18 01:10 [FirstSquawk] TANKER REPORTS PURSUIT BY SKIFF 75NM EAST OF ADEN - UKMTO
 - 09/18 01:16 [FirstSquawk] FEDERAL AVIATION ADMINISTRATION APPROVES BOEING REQUEST TO SELL UP TO 35 ADDITIONAL 777F FREIGHTERS -- AGENCY
 - 09/18 01:29 [financialjuice] French PM Lecornu: Targeting 2027 deficit at 5% of GDP
 - 09/18 01:29 [FirstSquawk] RUSSIA CLAIMS TO HAVE STRUCK SHIP AT UKRAINE'S CHORNOMORSK PORT - IFX
@@ -135,3 +130,4 @@
 - 09/18 06:44 [FirstSquawk] U.S. STATE DEPARTMENT SAYS THE U.S. WILL CONTINUE TO BAR IRANIAN UN MISSION OFFICIALS, VISITING OFFICIALS AND THEIR DEPENDENTS FROM PURCHASING WHOLESALE CLUB MEMBERSHIPS OR LUXURY GOODS, URGING NEW YORK-AREA RETAILERS TO AVOID COMPLICITY IN…
 - 09/18 06:44 [financialjuice] President Trump outlines plans for first meeting with Venezuela's interim chief Delcy Rodriguez as early as next week - Axios
 - 09/18 06:44 [FirstSquawk] TRUMP PLANS FIRST-EVER MEETING WITH VENEZUELA’S INTERIM PRESIDENT DELCY RODRIGUEZ AS EARLY AS NEXT WEEK — AXIOS
+- 09/18 07:10 [FirstSquawk] PENTAGON REVIEWS POTENTIAL CUT OF UP TO 40,000 U.S. TROOPS IN EUROPE, WITH GERMANY, ITALY AND SPAIN AMONG THOSE THAT COULD BE AFFECTED; NO FINAL DECISION HAS BEEN MADE, WITH RECOMMENDATIONS EXPECTED IN NOVEMBER. - NBC NEWS.

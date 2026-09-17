@@ -7,55 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 06:53 JST／対象: 09/17 18:53 〜 09/18 06:53 JST（時刻はすべて日本時間）
+生成: 2026-09-18 07:16 JST／対象: 09/17 19:16 〜 09/18 07:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/17 21:58 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 144 | 09/17 18:58 | 09/18 06:44 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 164 | 09/17 18:55 | 09/18 06:44 | 41分（05:13→05:55） |
+| FirstSquawk | 138 | 09/17 19:18 | 09/18 07:10 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 139 | 09/17 19:19 | 09/18 06:44 | 41分（05:13→05:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 307 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 276 行（統合前 293 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 18:55 [financialjuice] Canada's PM Carney: Canada and the EU hold common values as base of partnership
-- 09/17 18:55 [financialjuice] Canada's PM Carney: We are not fair-weather allies, we do not pursue zero-sum deals
-- 09/17 18:57 [financialjuice] Canada's PM Carney: Sovereignty requires secure access to AI, semiconductors, critical minerals, payment systems, clean energy, vaccines, space communications
-- 09/17 18:58 [financialjuice] Canada's PM Carney: Europe and Canada are strong, even stronger together
-- 09/17 18:58 [financialjuice] Japan's PM Takaichi: Nothing decided on summit with US
-- 09/17 18:58 [FirstSquawk] CANADA'S CARNEY SUGGESTS FUNCTIONAL ALLIANCE WITH EU.
-- 09/17 18:58 [financialjuice] Canada's PM Carney: EU and Canada can ally 'by function’
-- 09/17 18:58 [FirstSquawk] CARNEY STATES THAT A MUTUAL BENEFIT IS FUNDAMENTAL TO THE CANADA-EU PARTNERSHIP.
-- 09/17 19:01 [financialjuice] Japan's PM Takaichi: Meeting with Trump has not yet been scheduled
-- 09/17 19:01 [financialjuice] Japan's PM Takaichi: Will continue to communicate with China
-- 09/17 19:02 [financialjuice] Canada's PM Carney: Canada welcomes ‘ambition’ for associate EU membership
-- 09/17 19:02 [financialjuice] Canada's PM Carney: We welcome Von der Leyen's ambition of becoming an associate member
-- 09/17 19:02 [financialjuice] Canada's PM Carney: Canada and Europe should secure our strategic autonomy through deep cooperation in the full range of strategic capabilities
-- 09/17 19:02 [financialjuice] Japan's PM Takaichi: Expect BoJ to conduct policy toward 2% target
-- 09/17 19:03 [financialjuice] Canada's PM Carney: Partnership to include critical minerals and defense
-- 09/17 19:03 [financialjuice] Canada's PM Carney: Partnership to include AI, compute, energy security
-- 09/17 19:03 [financialjuice] Carney floats Canada membership in the Erasmus+ university program
-- 09/17 19:03 [financialjuice] Canada's PM Carney: Our alliance can help fill Europe’s need for a reliable supply of critical minerals
-- 09/17 19:05 [FirstSquawk] CANADA PM CARNEY SUPPORTS VON DER LEYEN'S GOAL TO BECOME AN ASSOCIATE MEMBER.
-- 09/17 19:05 [FirstSquawk] CARNEY SAYS CANADA AND EUROPE NEED TO WORK TOGETHER TO ENSURE STRATEGIC INDEPENDENCE ACROSS ALL STRATEGIC ABILITIES.
-- 09/17 19:05 [FirstSquawk] CARNEY ANNOUNCED THAT A NEW PARTNERSHIP WILL FOCUS ON CRITICAL MINERALS AND DEFENSE.
-- 09/17 19:05 [financialjuice] Canada's PM Carney: Canada can provide LNG, and hydrogen at large scale to the EU
-- 09/17 19:05 [financialjuice] Canada's PM Carney: Canada and the EU can pool sovereign compute capacities
-- 09/17 19:06 [financialjuice] Canada's PM Carney: Canada and Europe should also explore creating an integrated market for financial services
-- 09/17 19:06 [FirstSquawk] CARNEY STATES NO PLAN FOR A THIRD BLOC TO BECOME A GREAT POWER OPPONENT.
-- 09/17 19:06 [financialjuice] Canada's PM Carney: I am not proposing a third bloc in order to become a great-power rival
-- 09/17 19:08 [financialjuice] ECB's Rehn: Liberal democracies are being tested in many EU economies
-- 09/17 19:09 [financialjuice] ECB's Rehn: Middle-east conflict looks like it will be protracted
-- 09/17 19:09 [financialjuice] Japan's PM Takaichi: Won't rely on deficit-financing bonds to fund food sales tax cut, we have prospects for funding resources
-- 09/17 19:09 [financialjuice] ECB's Rehn: No sign of second-round effects so far
-- 09/17 19:16 [FirstSquawk] EXPLOSIONS HEARD NEAR UKRAINE-POLAND BORDER DURING RUSSIAN DRONE STRIKE, SAYS UKRAINIAN OFFICIAL.
-- 09/17 19:16 [financialjuice] PBOC's Xuan discusses PayPal's China development with executive $PYPL
 - 09/17 19:18 [FirstSquawk] NO DAMAGE TO BORDER CROSSINGS AFTER RUSSIAN DRONE ATTACK IN WESTERN UKRAINE, UKRAINIAN BORDER SERVICE SAYS
 - 09/17 19:19 [financialjuice] ECB's Rehn: Euro-area economy has shown resilience
 - 09/17 19:23 [FirstSquawk/financialjuice] ECB’S REHN: INFLATION OUTLOOK IS SOMEWHAT MIXED
@@ -331,3 +299,4 @@
 - 09/18 06:44 [FirstSquawk] U.S. STATE DEPARTMENT SAYS THE U.S. WILL CONTINUE TO BAR IRANIAN UN MISSION OFFICIALS, VISITING OFFICIALS AND THEIR DEPENDENTS FROM PURCHASING WHOLESALE CLUB MEMBERSHIPS OR LUXURY GOODS, URGING NEW YORK-AREA RETAILERS TO AVOID COMPLICITY IN…
 - 09/18 06:44 [financialjuice] President Trump outlines plans for first meeting with Venezuela's interim chief Delcy Rodriguez as early as next week - Axios
 - 09/18 06:44 [FirstSquawk] TRUMP PLANS FIRST-EVER MEETING WITH VENEZUELA’S INTERIM PRESIDENT DELCY RODRIGUEZ AS EARLY AS NEXT WEEK — AXIOS
+- 09/18 07:10 [FirstSquawk] PENTAGON REVIEWS POTENTIAL CUT OF UP TO 40,000 U.S. TROOPS IN EUROPE, WITH GERMANY, ITALY AND SPAIN AMONG THOSE THAT COULD BE AFFECTED; NO FINAL DECISION HAS BEEN MADE, WITH RECOMMENDATIONS EXPECTED IN NOVEMBER. - NBC NEWS.
