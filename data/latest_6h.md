@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 20:04 JST／対象: 09/17 14:04 〜 09/17 20:04 JST（時刻はすべて日本時間）
+生成: 2026-09-17 20:24 JST／対象: 09/17 14:24 〜 09/17 20:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/17 16:07 | 09/17 18:43 | ⚠ 156分（16:07→18:43） |
-| FirstSquawk | 73 | 09/17 14:10 | 09/17 20:02 | 29分（16:17→16:47） |
-| financialjuice | 89 | 09/17 14:08 | 09/17 20:03 | 45分（18:03→18:48） |
+| FirstSquawk | 75 | 09/17 14:29 | 09/17 20:24 | 29分（16:17→16:47） |
+| financialjuice | 88 | 09/17 14:58 | 09/17 20:07 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 164 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 163 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 14:08 [financialjuice] Iranian foreign minister, Pakistan army chief discuss recent regional developments in phone call during Aragchi's Beijing visit on Wednesday: Iranian MI
-- 09/17 14:10 [FirstSquawk] RIA: Russia’s Defence Ministry says its forces targeted vessels used by the Ukrainian military.
-- 09/17 14:20 [financialjuice] Micron CEO: Micron to test and assemble hundreds of MLN chips in India next year
-- 09/17 14:20 [FirstSquawk] India’s market regulator is reviewing broker concerns regarding fees charged on UPI transactions.
 - 09/17 14:29 [FirstSquawk] Japanese Prime Minister Takaichi makes limited changes in her first Cabinet reshuffle.
 - 09/17 14:33 [FirstSquawk] HSBC ends a $38,000 education subsidy for some Hong Kong bankers, FT reports.
 - 09/17 14:39 [FirstSquawk] Iran war and El Niño threaten food supplies in Asia, raising concerns over potential unrest, SCMP reports.
@@ -186,3 +182,8 @@
 - 09/17 20:03 [financialjuice] BoE Gov. Bailey: Gilt plan to take place gradually, predictably
 - 09/17 20:03 [financialjuice] BoE: Adverse energy scenario as a proxy for the current situation
 - 09/17 20:03 [financialjuice] BoE's Dhingra: BoE's rate is materially higher than European peers
+- 09/17 20:05 [FirstSquawk] BOE: Q3 GDP GROWTH EXPECTED TO BE +0.4% (JULY FORECAST: Q3 +0.1%) || OF ENGLAND SAYS MPC VOTE 6-3 TO HOLD RATES AT 3.75% (REUTERS POLL: 6-3 VOTE FOR 3.75%)
+- 09/17 20:06 [FirstSquawk] BOE SAYS QT UNWIND PLAN WILL INVOLVE ANNUAL SALES OF £20 BLN A YEAR ALONGSIDE MATURING GILTS (BOE MARKET POLL: £19.5 BLN ACTIVE SALES FOR 2026/27) || SAYS £222 BLN OF GILTS MATURING EARLIER THAN 2035 AND £120 BLN OF GILTS MATURING 2049-2071…
+- 09/17 20:07 [financialjuice] BoE Monetary Policy Summary September 2026
+- 09/17 20:15 [FirstSquawk] BOE: ITS APF GILT AUCTIONS WILL BE PAUSED UNTIL APRIL 2027 WHILE BOE CONSIDERS SELLING GILTS TO GOVERNMENT RATHER THAN MARKET
+- 09/17 20:24 [FirstSquawk] NOVO SIGNS DRUG PARTNERSHIP WITH ORBIS WORTH UP TO $1.4 BILLION - BBG

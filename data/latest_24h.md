@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 20:04 JST／対象: 09/16 20:04 〜 09/17 20:04 JST（時刻はすべて日本時間）
+生成: 2026-09-17 20:24 JST／対象: 09/16 20:24 〜 09/17 20:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 50 | 09/16 20:35 | 09/17 18:43 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 402 | 09/16 20:08 | 09/17 20:02 | 32分（05:10→05:42） |
-| financialjuice | 337 | 09/16 20:04 | 09/17 20:03 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 403 | 09/16 20:32 | 09/17 20:24 | 32分（05:10→05:42） |
+| financialjuice | 335 | 09/16 20:34 | 09/17 20:07 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 774 行（統合前 794 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 773 行（統合前 793 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 20:04 [financialjuice] OpenAI in talks for new funding at $1.2T valuation - The Information
-- 09/16 20:08 [FirstSquawk] ARDAGH SAYS COURT BARS SALE OF ARDAGH METAL PACKAGING STAKE
-- 09/16 20:10 [financialjuice] Houthis told the US they remain committed to 2025 ceasefire - Sources
-- 09/16 20:12 [FirstSquawk] HOUTHIS CONFIRM COMMITMENT TO CEASEFIRE
-- 09/16 20:18 [financialjuice] UK's PM Burnham shelves plans for UK investment summit this year - Sky
-- 09/16 20:21 [FirstSquawk] BURNHAM TO DELAY FLAGSHIP INVESTMENT SUMMIT UNTIL NEXT YEAR – SKY
 - 09/16 20:32 [FirstSquawk] HOUTHIS TOLD U.S. OFFICIALS THEY WILL AVOID ATTACKING ISRAELI VESSELS.
 - 09/16 20:34 [financialjuice] House democrats press to stay in session for AI - Politico
 - 09/16 20:35 [DeItaone] MICHAEL BURRY JOINS NEW SHORT-FOCUSED FUND “Big Short” investor Michael Burry is joining Minerva Investment Management as senior adviser to help launch a new short-biased fund expected within a month. Burry has recently targeted AI hypersca…
@@ -798,3 +792,8 @@
 - 09/17 20:03 [financialjuice] BoE Gov. Bailey: Gilt plan to take place gradually, predictably
 - 09/17 20:03 [financialjuice] BoE: Adverse energy scenario as a proxy for the current situation
 - 09/17 20:03 [financialjuice] BoE's Dhingra: BoE's rate is materially higher than European peers
+- 09/17 20:05 [FirstSquawk] BOE: Q3 GDP GROWTH EXPECTED TO BE +0.4% (JULY FORECAST: Q3 +0.1%) || OF ENGLAND SAYS MPC VOTE 6-3 TO HOLD RATES AT 3.75% (REUTERS POLL: 6-3 VOTE FOR 3.75%)
+- 09/17 20:06 [FirstSquawk] BOE SAYS QT UNWIND PLAN WILL INVOLVE ANNUAL SALES OF £20 BLN A YEAR ALONGSIDE MATURING GILTS (BOE MARKET POLL: £19.5 BLN ACTIVE SALES FOR 2026/27) || SAYS £222 BLN OF GILTS MATURING EARLIER THAN 2035 AND £120 BLN OF GILTS MATURING 2049-2071…
+- 09/17 20:07 [financialjuice] BoE Monetary Policy Summary September 2026
+- 09/17 20:15 [FirstSquawk] BOE: ITS APF GILT AUCTIONS WILL BE PAUSED UNTIL APRIL 2027 WHILE BOE CONSIDERS SELLING GILTS TO GOVERNMENT RATHER THAN MARKET
+- 09/17 20:24 [FirstSquawk] NOVO SIGNS DRUG PARTNERSHIP WITH ORBIS WORTH UP TO $1.4 BILLION - BBG
