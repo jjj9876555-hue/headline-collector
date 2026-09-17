@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 15:51 JST／対象: 09/16 15:51 〜 09/17 15:51 JST（時刻はすべて日本時間）
+生成: 2026-09-17 16:05 JST／対象: 09/16 16:05 〜 09/17 16:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 406 | 09/16 15:53 | 09/17 15:47 | 45分（17:00→17:45） |
-| financialjuice | 291 | 09/16 15:53 | 09/17 15:42 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 406 | 09/16 16:07 | 09/17 15:58 | 45分（17:00→17:45） |
+| financialjuice | 290 | 09/16 16:25 | 09/17 16:01 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 734 行（統合前 753 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 733 行（統合前 752 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 15:53 [FirstSquawk] Gold bulls appear hesitant to push prices above the $4,350 level, with traders remaining cautious ahead of the Federal Reserve’s upcoming rate decision. The Fed decision and guidance on the rate path remain key near-term catalysts for gold,…
-- 09/16 15:53 [financialjuice] The EU are to call for a European Security Council in new defense plan
-- 09/16 16:01 [financialjuice] Currency Strength Chart: Strongest: GBP, EUR, CHF, GBP, AUD, USD, EUR, CAD - Weakest
 - 09/16 16:07 [FirstSquawk] RUSSIA WILL CONTINUE ITS DIESEL EXPORT BAN UNTIL OCTOBER, ACCORDING TO VEDOMOSTI.
 - 09/16 16:07 [FirstSquawk] NASDAQ 100 FUTURES RISE BY 0.5%, REACHING SESSION PEAK.
 - 09/16 16:13 [FirstSquawk] EU COMMISSION PRESIDENT URSULA VON DER LEYEN SAYS A MORE POWERFUL AND SELF-SUFFICIENT EUROPE IS FORMING - STATE OF THE UNION.
@@ -758,3 +755,5 @@
 - 09/17 15:39 [FirstSquawk] Brent crude drops over $2 to $103.80 per barrel, trading around its lowest level in a week.
 - 09/17 15:42 [financialjuice] JBA's Kato: Rate still accommodative, expect more hikes
 - 09/17 15:47 [FirstSquawk] UOB: Sterling remains vulnerable to further weakness against the US dollar despite oversold conditions.
+- 09/17 15:58 [FirstSquawk] Russia uses North Korean workers in drone production for its war effort in Ukraine, SCMP reports.
+- 09/17 16:01 [financialjuice] EU: Canada deal is 'for our common strength’ - Spokesman

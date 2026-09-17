@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 15:51 JST／対象: 09/17 09:51 〜 09/17 15:51 JST（時刻はすべて日本時間）
+生成: 2026-09-17 16:05 JST／対象: 09/17 10:05 〜 09/17 16:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 107 | 09/17 09:51 | 09/17 15:47 | 14分（11:48→12:03） |
-| financialjuice | 47 | 09/17 09:58 | 09/17 15:42 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 100 | 09/17 10:08 | 09/17 15:58 | 14分（11:48→12:03） |
+| financialjuice | 43 | 09/17 10:10 | 09/17 16:01 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 154 行（統合前 154 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 09:51 [FirstSquawk] 5-year JGB yield ticks higher by 0.5bp to 2.285% in the latest trading.
-- 09/17 09:54 [FirstSquawk] China will promote cooperation on SMR technology, strengthen joint training of professionals and use multilateral platforms to broaden international collaboration, CAEA Director Shan Zhongde said.
-- 09/17 09:58 [financialjuice] South Korea foreign minister: military deployment to Hormuz Strait remains undecided
-- 09/17 09:59 [FirstSquawk] South Korea says it has yet to decide whether to deploy military forces to the Strait of Hormuz, the foreign minister says.
-- 09/17 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% matching previous session open
-- 09/17 10:01 [financialjuice] South Korea foreign minister: US investment pact announcement delayed to clarify procedural matters
-- 09/17 10:01 [financialjuice] South Korea foreign minister: US investment pact also on agenda in US-Korea foreign ministers meeting
-- 09/17 10:01 [FirstSquawk] Taiwan overnight interbank rate starts at 0.805%, flat versus the previous session’s opening level.
-- 09/17 10:02 [FirstSquawk] FT reports that the EU plans to bar children under 15 from accessing social media, selected gaming platforms and AI chatbots without parental oversight.
-- 09/17 10:02 [FirstSquawk] South Korea foreign minister: Announcement of the US investment deal is delayed as procedural issues are being clarified.
-- 09/17 10:02 [financialjuice] South Korea foreign minister: will uphold firm position on matters opposing national interest
-- 09/17 10:03 [FirstSquawk] South Korea says its US investment deal will also be addressed at the upcoming bilateral foreign ministers’ meeting.
-- 09/17 10:04 [FirstSquawk] South Korea foreign minister: Seoul will uphold its position on issues considered contrary to the national interest.
 - 09/17 10:08 [FirstSquawk] Gold prices climb 1% to $4,303.35/oz in spot trading.
 - 09/17 10:10 [financialjuice] Hong Kong Monetary Authority chief executive: widening interest rate gap with US could trigger carry trade, pushing HK dollar exchange rate toward weaker side of band
 - 09/17 10:10 [FirstSquawk] HKMA chief executive: A widening interest rate gap between Hong Kong and the US could spur carry trades, putting the HK dollar under pressure toward the weak end of its band.
@@ -178,3 +165,5 @@
 - 09/17 15:39 [FirstSquawk] Brent crude drops over $2 to $103.80 per barrel, trading around its lowest level in a week.
 - 09/17 15:42 [financialjuice] JBA's Kato: Rate still accommodative, expect more hikes
 - 09/17 15:47 [FirstSquawk] UOB: Sterling remains vulnerable to further weakness against the US dollar despite oversold conditions.
+- 09/17 15:58 [FirstSquawk] Russia uses North Korean workers in drone production for its war effort in Ukraine, SCMP reports.
+- 09/17 16:01 [financialjuice] EU: Canada deal is 'for our common strength’ - Spokesman
