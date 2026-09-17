@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 03:54 JST／対象: 09/17 15:54 〜 09/18 03:54 JST（時刻はすべて日本時間）
+生成: 2026-09-18 04:15 JST／対象: 09/17 16:15 〜 09/18 04:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/17 16:07 | 09/18 02:59 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 151 | 09/17 15:58 | 09/18 03:49 | 29分（16:17→16:47） |
-| financialjuice | 173 | 09/17 16:01 | 09/18 03:45 | 45分（18:03→18:48） |
+| DeItaone | 10 | 09/17 18:43 | 09/18 02:59 | ⚠ 194分（18:43→21:58） |
+| FirstSquawk | 150 | 09/17 16:17 | 09/18 03:49 | 29分（16:17→16:47） |
+| financialjuice | 171 | 09/17 16:17 | 09/18 03:45 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 329 行（統合前 340 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 325 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 15:58 [FirstSquawk] Russia uses North Korean workers in drone production for its war effort in Ukraine, SCMP reports.
-- 09/17 16:01 [financialjuice] EU: Canada deal is 'for our common strength’ - Spokesman
-- 09/17 16:07 [DeItaone] *EU SAYS CANADA DEAL IS ‘NOT AGAINST ANYONE ELSE’: SPOKESMAN *EU SAYS CANADA DEAL IS ‘FOR OUR COMMON STRENGTH’: SPOKESMAN Comes after US President Trump’s response to the proposal yesterday: “If they do that, if I think it’s at all a hostil…
-- 09/17 16:13 [financialjuice] Huawei is testing its AI chips in limited foreign markets
 - 09/17 16:17 [FirstSquawk] EU SPOKESPERSON SAID CANADA PARTNERSHIP ENHANCEMENT IS NOT AIMED AT OTHERS, BUT TO BOOST COMMON STRENGTH AMID TRUMP'S TARIFF THREATS.
 - 09/17 16:17 [financialjuice] Xu: Huawei has a bigger China AI chip market share than Nvidia $NVDA
 - 09/17 16:17 [FirstSquawk] HUAWEI IS TRIALING ITS AI CHIPS IN SELECT OVERSEAS MARKETS.

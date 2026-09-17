@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 03:54 JST／対象: 09/17 21:54 〜 09/18 03:54 JST（時刻はすべて日本時間）
+生成: 2026-09-18 04:15 JST／対象: 09/17 22:15 〜 09/18 04:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/17 21:58 | 09/18 02:59 | ⚠ 87分（00:42→02:10） |
-| FirstSquawk | 70 | 09/17 21:57 | 09/18 03:49 | 25分（01:59→02:24） |
-| financialjuice | 69 | 09/17 21:58 | 09/18 03:45 | 29分（22:01→22:31） |
+| DeItaone | 8 | 09/17 22:31 | 09/18 02:59 | ⚠ 87分（00:42→02:10） |
+| FirstSquawk | 65 | 09/17 22:24 | 09/18 03:49 | 25分（01:59→02:24） |
+| financialjuice | 66 | 09/17 22:31 | 09/18 03:45 | 29分（02:34→03:04） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 144 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 136 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 21:57 [FirstSquawk] CHRYSLER (FCA US, LLC) IS RECALLING 97,349 U.S. VEHICLES - NHTSA
-- 09/17 21:58 [financialjuice] Standard Chartered expects US Fed to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of no policy change this year
-- 09/17 21:58 [DeItaone/FirstSquawk] STANDARD CHARTERED EXPECTS US FED TO DELIVER A 25 BP RATE HIKE IN DECEMBER 2026 VS PRIOR FORECAST OF NO POLICY CHANGE THIS YEAR
-- 09/17 22:00 [financialjuice] Effective Fed Funds Rate 3.63% September 16 vs 3.63% September 15.
-- 09/17 22:01 [financialjuice] Microsoft, Marvell and UTIMACO to deliver industry-first secure, cloud-scale payments solution. $MSFT
-- 09/17 22:02 [FirstSquawk] SENATORS ASK FTC TO PROBE WALMART AND AMAZON OVER BOTS’ ‘MADE IN AMERICA’ DATA - WSJ
-- 09/17 22:10 [FirstSquawk] PAKISTAN ARMY CHIEF URGES IRAN TO PERSUADE HOUTHIS NOT TO TARGET SAUDI ENERGY FACILITIES – AA CITES SOURCES
-- 09/17 22:10 [FirstSquawk] GM TO PRODUCE PATRIOT MISSILE PARTS AS US FACES CRITICAL ARMS SHORTAGE - WSJ
 - 09/17 22:24 [FirstSquawk] MICROSOFT, MARVELL, AND UTIMACO ARE COLLABORATING TO INTRODUCE A FIRST-OF-ITS-KIND SECURE PAYMENTS SOLUTION THAT CAN SCALE WITH CLOUD TECHNOLOGY.
 - 09/17 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -26.3 MLN NASDAQ 100: 1.8 MLN DOW 30: -10.4 MLN MAG 7: 9.3 MLN $MACRO
 - 09/17 22:31 [FirstSquawk] NASDAQ UP 397.63 POINTS, OR 1.53 PERCENT, AT 26,376.05 AFTER MARKET OPEN S&P 500 UP 88.67 POINTS, OR 1.17 %, AT 7,640.48 AFTER MARKET OPEN DOW JONES UP 413.71 POINTS, OR 0.80 PERCENT, AT 51,875.61 AFTER MARKET OPEN
