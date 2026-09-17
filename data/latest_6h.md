@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 04:58 JST／対象: 09/17 22:58 〜 09/18 04:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 05:18 JST／対象: 09/17 23:18 〜 09/18 05:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/17 23:42 | 09/18 02:59 | ⚠ 87分（00:42→02:10） |
-| FirstSquawk | 63 | 09/17 23:00 | 09/18 04:58 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 66 | 09/17 23:00 | 09/18 04:51 | 38分（03:45→04:24） |
+| FirstSquawk | 60 | 09/17 23:31 | 09/18 05:16 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 56 | 09/17 23:30 | 09/18 05:13 | 38分（03:45→04:24） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 131 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 118 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 23:00 [financialjuice] US PENDING HOME SALES CHANGE MOM ACTUAL 0.3% (FORECAST -0.1%, PREVIOUS -2.3%) $MACRO
-- 09/17 23:00 [financialjuice] US PENDING HOMES INDEX ACTUAL 71.2 (FORECAST -, PREVIOUS 71.2 ,REVISION 71.0) $MACRO
-- 09/17 23:00 [FirstSquawk] US AUG. PENDING HOME SALES ROSE 0.3% M/M; EST. -0.1%
-- 09/17 23:01 [financialjuice] US Pending Homes Sales August 2026 report
-- 09/17 23:03 [FirstSquawk] CHINA FOREIGN MINISTER HELD CALL WITH U.S. RUBIO - CHINESE STATE MEDIA
-- 09/17 23:03 [financialjuice] China Foreign Minister Wang Yi held call with US Secretary of State Rubio - Chinese State Media
-- 09/17 23:04 [FirstSquawk] WHITE HOUSE WEIGHS US INCUBATOR FOR CYBER RESEARCH, STARTUPS
-- 09/17 23:04 [FirstSquawk] OPENAI NEAR TO SOLVING ANOTHER MILLENNIUM PROBLEM: INFORMATION
-- 09/17 23:04 [financialjuice] OpenAI near to solving another millennium problem - The Information
-- 09/17 23:05 [financialjuice] China Foreign Minister: China, US should prepare well for next stage of high-level exchanges in spirit of equality, respect, reciprocity - Xinhua
-- 09/17 23:05 [FirstSquawk] CHINA FOREIGN MINISTER: CHINA-U.S. RELATIONS OVERALL MOVING ALONG CONSTRUCTIVE, STRATEGICALLY STABLE TRACK SET BY TWO LEADERS - XINHUA
-- 09/17 23:05 [financialjuice] China's Foreign Minister Wang Yi: Head-of-state diplomacy is the anchor of China-US relations.
-- 09/17 23:05 [financialjuice] OpenAI Is Close To Solving Another Millennium Prize Math Problem - The Information
-- 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi: China-US relations overall moving along constructive, strategically stable track set by two leaders - Xinhua
-- 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi: Two sides should strengthen communication, advance cooperation, manage differences, respect each other's core interests.
-- 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi US Secretary of State Rubio exchanged views on Middle East situation in phone call - Xinhua
-- 09/17 23:14 [FirstSquawk] SPOT SILVER EXTENDED GAINS, LAST UP 5% AT $66.13/OZ
-- 09/17 23:17 [FirstSquawk] NOVO: CHMP RECOMMENDS EU APPROVAL OF FREHEMGO ® (DENECIMIG), THE FIRST FACTOR VIIIA MIMETIC OFFERING MONTHLY, ONCE EVERY TWO WEEKS AND WEEKLY DOSING IN A PRE-FILLED PEN, FOR THE TREATMENT OF HAEMOPHILIA A
-- 09/17 23:17 [financialjuice] Crypto Fear & Greed Index: 50/100 - Neutral
 - 09/17 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 44B (FORECAST 48B, PREVIOUS 40B) $MACRO
 - 09/17 23:31 [FirstSquawk] EIA SAYS US NATURAL-GAS STOCKPILES ROSE 44 BCF LAST WEEK
 - 09/17 23:31 [financialjuice] EIA Weekly Natural Gas Report
@@ -155,3 +136,9 @@
 - 09/18 04:41 [FirstSquawk] US MONEY-MARKET FUND ASSETS FALL TO $7.92 TRILLION — ICI
 - 09/18 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 3057.3 MLN NASDAQ 100: 1454.0 MLN DOW 30: 1387.4 MLN MAG 7: 928.8 MLN $MACRO
 - 09/18 04:51 [financialjuice/FirstSquawk] Israel's Prime Minister Netanyahu at campaign launch: We must complete the mission to the very end, and topple the Iranian regime - N12 News.
+- 09/18 05:00 [FirstSquawk] DOW JONES CLOSES 0.66% HIGHER AT 51,801.54, UP 339.64 POINTS
+- 09/18 05:01 [financialjuice] There are no confirmed reports of an explosion in the vicinity of Kharg Island at the specified time - Irib news.
+- 09/18 05:02 [FirstSquawk] NASDAQ SURGES 1.76% TO 26,434.77, UP 456.34 POINTS S&P 500 CLOSES 1.16% HIGHER AT 7,639.31, UP 87.50 POINTS DOW JONES CLOSES 0.66% HIGHER AT 51,801.54, UP 339.64 POINTS
+- 09/18 05:02 [FirstSquawk] KROGER DECLARES QUARTERLY DIVIDEND OF $0.39/SHARE, PAYABLE DECEMBER 1, 2026
+- 09/18 05:13 [financialjuice] Stocks and Bonds Rally as Falling Oil Eases Inflation Concerns – US Market Wrap
+- 09/18 05:16 [FirstSquawk] US STOCKS AND BONDS RALLIED AS FALLING OIL PRICES EASED INFLATION CONCERNS, HELPING MARKETS ABSORB THE FEDERAL RESERVE’S FIRST RATE HIKE SINCE 2023. THE S&P 500 GAINED 1.1%, ITS STRONGEST ADVANCE IN SIX WEEKS, WHILE THE NASDAQ 100 CLIMBED 1…

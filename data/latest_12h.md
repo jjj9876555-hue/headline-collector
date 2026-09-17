@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 04:58 JST／対象: 09/17 16:58 〜 09/18 04:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 05:18 JST／対象: 09/17 17:18 〜 09/18 05:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/17 18:43 | 09/18 02:59 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 141 | 09/17 17:03 | 09/18 04:58 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 169 | 09/17 17:06 | 09/18 04:51 | 45分（18:03→18:48） |
+| FirstSquawk | 142 | 09/17 17:32 | 09/18 05:16 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 169 | 09/17 17:32 | 09/18 05:13 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 312 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 313 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 17:03 [FirstSquawk] INDIA’S US TREASURY PURCHASES HIT RECORD $15.2 BILLION AS RBI DOLLAR INFLOWS SURGE
-- 09/17 17:06 [financialjuice] Russian drone strike on Tanzania-flagged ship headed to Ukrainian port kills one, injures three crew: Ukraine's infrastructure ministry
-- 09/17 17:08 [FirstSquawk] RUSSIAN DRONE ATTACK ON A TANZANIA-FLAGGED VESSEL BOUND FOR UKRAINE LEFT ONE DEAD AND THREE INJURED, ACCORDING TO UKRAINE'S INFRASTRUCTURE MINISTRY.
-- 09/17 17:10 [financialjuice] Kazakhstan oil output estimated at 96 million tons in 2027, rising to 99-100 million tons in following years – IFX
-- 09/17 17:18 [FirstSquawk] TURKEY'S MARKET REGULATOR WILL CLOSE FUNDS RUN BY SEVEN FIRMS.
 - 09/17 17:32 [FirstSquawk] HUAWEI EXECUTIVE SAYS THE SOFTWARE DIVIDE WITH NVIDIA IS NARROWING.
 - 09/17 17:32 [financialjuice] UK Office for National Statistics: New approach of measuring productivity leads to relatively small changes in long-run growth in output per job and output per worker.
 - 09/17 17:56 [FirstSquawk] US-MEXICO TRADE DISCUSSIONS DELAYED BY ONE WEEK.
@@ -336,3 +331,9 @@
 - 09/18 04:41 [FirstSquawk] US MONEY-MARKET FUND ASSETS FALL TO $7.92 TRILLION — ICI
 - 09/18 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 3057.3 MLN NASDAQ 100: 1454.0 MLN DOW 30: 1387.4 MLN MAG 7: 928.8 MLN $MACRO
 - 09/18 04:51 [financialjuice/FirstSquawk] Israel's Prime Minister Netanyahu at campaign launch: We must complete the mission to the very end, and topple the Iranian regime - N12 News.
+- 09/18 05:00 [FirstSquawk] DOW JONES CLOSES 0.66% HIGHER AT 51,801.54, UP 339.64 POINTS
+- 09/18 05:01 [financialjuice] There are no confirmed reports of an explosion in the vicinity of Kharg Island at the specified time - Irib news.
+- 09/18 05:02 [FirstSquawk] NASDAQ SURGES 1.76% TO 26,434.77, UP 456.34 POINTS S&P 500 CLOSES 1.16% HIGHER AT 7,639.31, UP 87.50 POINTS DOW JONES CLOSES 0.66% HIGHER AT 51,801.54, UP 339.64 POINTS
+- 09/18 05:02 [FirstSquawk] KROGER DECLARES QUARTERLY DIVIDEND OF $0.39/SHARE, PAYABLE DECEMBER 1, 2026
+- 09/18 05:13 [financialjuice] Stocks and Bonds Rally as Falling Oil Eases Inflation Concerns – US Market Wrap
+- 09/18 05:16 [FirstSquawk] US STOCKS AND BONDS RALLIED AS FALLING OIL PRICES EASED INFLATION CONCERNS, HELPING MARKETS ABSORB THE FEDERAL RESERVE’S FIRST RATE HIKE SINCE 2023. THE S&P 500 GAINED 1.1%, ITS STRONGEST ADVANCE IN SIX WEEKS, WHILE THE NASDAQ 100 CLIMBED 1…
