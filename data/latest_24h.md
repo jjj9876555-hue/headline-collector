@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 10:52 JST／対象: 09/16 10:52 〜 09/17 10:52 JST（時刻はすべて日本時間）
+生成: 2026-09-17 11:05 JST／対象: 09/16 11:05 〜 09/17 11:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 406 | 09/16 10:53 | 09/17 10:47 | 45分（17:00→17:45） |
+| FirstSquawk | 406 | 09/16 11:08 | 09/17 11:02 | 45分（17:00→17:45） |
 | financialjuice | 273 | 09/16 14:36 | 09/17 10:31 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 10:53 [FirstSquawk] Japan’s Prime Minister Sanae Takaichi says she will reshuffle cabinet personnel on Thursday. The planned changes put Japan’s government lineup in focus as markets monitor the direction of economic and policy priorities under the Takaichi ad…
-- 09/16 10:59 [FirstSquawk] The Philippine benchmark stock index fell as much as 1.2% to 5,933.27, hitting its lowest level since June 11. The decline puts the index at a multi-month low as investors assess the latest developments across Philippine financial markets.
 - 09/16 11:08 [FirstSquawk] The Indonesian rupiah has weakened to 17,740 per U.S. dollar, its lowest level since September 2. The move puts the currency at a fresh September low as traders monitor broader dollar strength and developments in Asian foreign-exchange mark…
 - 09/16 11:17 [FirstSquawk] Japan’s Prime Minister says the government and ruling party will work to overcome the current difficult situation through an executive reshuffle. The comments come as Tokyo prepares changes to the government and ruling-party leadership, put…
 - 09/16 11:18 [FirstSquawk] Asia’s AI boom is running into a new bottleneck: talent. Chipmakers are racing to expand capacity and accelerate AI development, but the shortage of skilled engineers is becoming an increasingly important constraint. The AI race is no longe…
@@ -740,3 +738,5 @@
 - 09/17 10:33 [FirstSquawk] South Korean sales of Samsung’s Galaxy Z Fold 8 increased roughly 10% following Apple’s unveiling of its first foldable iPhone, the telecommunications industry said.
 - 09/17 10:39 [FirstSquawk] Shares of SoftBank Group gain 3%.
 - 09/17 10:47 [FirstSquawk] WSJ: Oil declines amid expectations that efforts to contain the Middle East supply disruption could ease pressure on crude markets.
+- 09/17 10:56 [FirstSquawk] WSJ: States are waiting for Covid vaccines for children, with the CDC yet to begin the ordering process, raising concerns over rollout delays.
+- 09/17 11:02 [FirstSquawk] China’s gold industry stocks slide 5%.

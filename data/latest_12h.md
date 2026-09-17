@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 10:52 JST／対象: 09/16 22:52 〜 09/17 10:52 JST（時刻はすべて日本時間）
+生成: 2026-09-17 11:05 JST／対象: 09/16 23:05 〜 09/17 11:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 39 | 09/16 23:46 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 228 | 09/16 22:54 | 09/17 10:47 | 32分（05:10→05:42） |
-| financialjuice | 181 | 09/16 22:54 | 09/17 10:31 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 227 | 09/16 23:06 | 09/17 11:02 | 32分（05:10→05:42） |
+| financialjuice | 176 | 09/16 23:07 | 09/17 10:31 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 436 行（統合前 453 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 430 行（統合前 447 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 22:54 [FirstSquawk] US IDENTIFIES MEXICO, CHINA AS MAJOR DRUG TRANSIT COUNTRIES
-- 09/16 22:54 [financialjuice] US identifies Mexico and China as major drug transit countries.
-- 09/16 22:56 [FirstSquawk] US: CANADA, MEXICO NEED TO MORE TO STOP DRUG FLOW
-- 09/16 23:00 [financialjuice] US NAHB HOUSING MARKET INDEX ACTUAL 32 (FORECAST 34, PREVIOUS 35) $MACRO
-- 09/16 23:00 [financialjuice] US BUSINESS INVENTORIES MOM ACTUAL 0.8% (FORECAST 0.8%, PREVIOUS 0.0%) $MACRO
-- 09/16 23:00 [FirstSquawk] US NAHB HOUSING MARKET INDEX SEP: 32 (EST 34; PREV 35)
-- 09/16 23:01 [financialjuice] US Business Inventories July 2026 Report
-- 09/16 23:01 [financialjuice] US NAHB Housing Market Index Sept. 2026 Report
 - 09/16 23:06 [FirstSquawk] US SAYS BRAZIL FAILED TO CONFRONT PCC AND CV GROUPS
 - 09/16 23:06 [FirstSquawk] COINBASE EYES $70T US STOCK MARKET WITH FULLY BACKED TOKENIZED EQUITIES PUSH $COIN
 - 09/16 23:07 [financialjuice] US issues amended Venezuela-related general license authorizing certain deals related to Petroleos de Venezuela, S.A. 2020 8.5% bond on or after November 5th - Treasury website
@@ -460,3 +452,5 @@
 - 09/17 10:33 [FirstSquawk] South Korean sales of Samsung’s Galaxy Z Fold 8 increased roughly 10% following Apple’s unveiling of its first foldable iPhone, the telecommunications industry said.
 - 09/17 10:39 [FirstSquawk] Shares of SoftBank Group gain 3%.
 - 09/17 10:47 [FirstSquawk] WSJ: Oil declines amid expectations that efforts to contain the Middle East supply disruption could ease pressure on crude markets.
+- 09/17 10:56 [FirstSquawk] WSJ: States are waiting for Covid vaccines for children, with the CDC yet to begin the ordering process, raising concerns over rollout delays.
+- 09/17 11:02 [FirstSquawk] China’s gold industry stocks slide 5%.

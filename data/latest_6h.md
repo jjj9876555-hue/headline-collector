@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 10:52 JST／対象: 09/17 04:52 〜 09/17 10:52 JST（時刻はすべて日本時間）
+生成: 2026-09-17 11:05 JST／対象: 09/17 05:05 〜 09/17 11:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/17 05:01 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 119 | 09/17 05:02 | 09/17 10:47 | 32分（05:10→05:42） |
-| financialjuice | 43 | 09/17 05:00 | 09/17 10:31 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 9 | 09/17 05:50 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
+| FirstSquawk | 118 | 09/17 05:10 | 09/17 11:02 | 32分（05:10→05:42） |
+| financialjuice | 39 | 09/17 05:05 | 09/17 10:31 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 171 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 164 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 05:00 [financialjuice] US TIC LONG-TERM TRANSACTIONS ACTUAL -27.9B (FORECAST -, PREVIOUS 172.7B ,REVISION 174.4B) $MACRO
-- 09/17 05:01 [DeItaone] US TSY TICS NET FLOWS IN JUL +$83.7B US TSY TICS NET L-T FLOWS IN JUL -$27.9B
-- 09/17 05:02 [financialjuice] United Kingdom's US Treasury holdings 998 bln dlrs in July vs 940 bln in June.
-- 09/17 05:02 [FirstSquawk] NASDAQ CLOSES 0.07% LOWER AT 25,964.31, DOWN 17.26 POINTS S&P 500 CLOSES 0.44% LOWER AT 7,552.34, DOWN 33.39 POINTS DOW JONES CLOSES 1.20% LOWER AT 51,470.50, DOWN 622.61 POINTS
-- 09/17 05:02 [financialjuice] China's US Treasury securities holdings $618 bln in July vs $633 bln in June.
-- 09/17 05:02 [FirstSquawk] U.S. JULY NET OVERALL CAPITAL INFLOW FELL TO $83.7 BILLION FROM $135.5 BILLION IN JUNE, WHILE NET LONG-TERM FLOWS TURNED NEGATIVE AT -$27.9 BILLION FROM +$174.4 BILLION.
-- 09/17 05:02 [FirstSquawk] JAPAN’S U.S. TREASURY HOLDINGS FELL TO $1.104 TRILLION, CHINA’S TO $618 BILLION, WHILE THE UK’S HOLDINGS ROSE TO $998 BILLION IN JULY.
-- 09/17 05:03 [financialjuice] Japan's US Treasury holdings $1.104 trln in July vs $1.117 trln in June.
-- 09/17 05:03 [DeItaone] STOCKS DROP AS FED HIKES AND SIGNALS MORE TIGHTENING U.S. stocks reversed earlier gains after the Fed delivered its first rate hike in more than three years and signaled further tightening is likely. The S&P 500 fell 0.43% and Dow dropped 1…
 - 09/17 05:05 [financialjuice] Stocks Sink to Lowest Since July as Fed Signals Further Tightening – US Market Wrap
 - 09/17 05:10 [FirstSquawk] WALL STREET STOCKS FELL AFTER THE FEDERAL RESERVE RAISED ITS BENCHMARK RATE BY 25 BASIS POINTS TO 3.75%–4%, MARKING ITS FIRST HIKE IN THREE YEARS. THE S&P 500 DROPPED 0.45%, WHILE THE DOW FELL 1.2%, AS TRADERS INCREASED BETS THAT THE FED CO…
 - 09/17 05:10 [FirstSquawk] FED CHAIR KEVIN WARSH EMPHASIZED THAT INFLATION REMAINS TOO HIGH, WITH MULTIPLE CATEGORIES OF GOODS AND SERVICES RECORDING PRICE INCREASES ABOVE 3% OVER SIX- AND 12-MONTH PERIODS. THE DOT PLOT POINTED TO ONE MORE HIKE THIS YEAR, WHILE STRON…
@@ -195,3 +186,5 @@
 - 09/17 10:33 [FirstSquawk] South Korean sales of Samsung’s Galaxy Z Fold 8 increased roughly 10% following Apple’s unveiling of its first foldable iPhone, the telecommunications industry said.
 - 09/17 10:39 [FirstSquawk] Shares of SoftBank Group gain 3%.
 - 09/17 10:47 [FirstSquawk] WSJ: Oil declines amid expectations that efforts to contain the Middle East supply disruption could ease pressure on crude markets.
+- 09/17 10:56 [FirstSquawk] WSJ: States are waiting for Covid vaccines for children, with the CDC yet to begin the ordering process, raising concerns over rollout delays.
+- 09/17 11:02 [FirstSquawk] China’s gold industry stocks slide 5%.
