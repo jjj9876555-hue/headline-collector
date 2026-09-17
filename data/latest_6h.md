@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 22:52 JST／対象: 09/17 16:52 〜 09/17 22:52 JST（時刻はすべて日本時間）
+生成: 2026-09-17 23:06 JST／対象: 09/17 17:06 〜 09/17 23:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/17 18:43 | 09/17 22:31 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 79 | 09/17 16:54 | 09/17 22:50 | 23分（17:32→17:56） |
-| financialjuice | 102 | 09/17 17:06 | 09/17 22:43 | 45分（18:03→18:48） |
+| FirstSquawk | 82 | 09/17 17:08 | 09/17 23:05 | 23分（17:32→17:56） |
+| financialjuice | 113 | 09/17 17:06 | 09/17 23:06 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 181 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 195 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 16:54 [FirstSquawk] MAKHLOUF SAYS ECB SHOULD STICK TO 2% MEDIUM-TERM GOAL.
-- 09/17 17:03 [FirstSquawk] INDIA’S US TREASURY PURCHASES HIT RECORD $15.2 BILLION AS RBI DOLLAR INFLOWS SURGE
 - 09/17 17:06 [financialjuice] Russian drone strike on Tanzania-flagged ship headed to Ukrainian port kills one, injures three crew: Ukraine's infrastructure ministry
 - 09/17 17:08 [FirstSquawk] RUSSIAN DRONE ATTACK ON A TANZANIA-FLAGGED VESSEL BOUND FOR UKRAINE LEFT ONE DEAD AND THREE INJURED, ACCORDING TO UKRAINE'S INFRASTRUCTURE MINISTRY.
 - 09/17 17:10 [financialjuice] Kazakhstan oil output estimated at 96 million tons in 2027, rising to 99-100 million tons in following years – IFX
@@ -205,3 +203,19 @@
 - 09/17 22:39 [financialjuice] EU Commission team to travel to Beijing later in September.
 - 09/17 22:43 [financialjuice] EU's Sefcovic to meet Chinese counterpart Wang on October 8-9 - EU Commission
 - 09/17 22:50 [FirstSquawk] DEBRIS FROM AN INTERCEPTED HOUTHI DRONE KILLED ONE PERSON, THE FIRST DEATH SINCE FIGHTING HAS ESCALATED, SAUDI CIVIL DEFENSE SAYS.
+- 09/17 22:57 [financialjuice] Dutch chipmaker Nexperia: Will make chips with TATA electronics in India
+- 09/17 23:00 [financialjuice] US PENDING HOME SALES CHANGE MOM ACTUAL 0.3% (FORECAST -0.1%, PREVIOUS -2.3%) $MACRO
+- 09/17 23:00 [financialjuice] US PENDING HOMES INDEX ACTUAL 71.2 (FORECAST -, PREVIOUS 71.2 ,REVISION 71.0) $MACRO
+- 09/17 23:00 [FirstSquawk] US AUG. PENDING HOME SALES ROSE 0.3% M/M; EST. -0.1%
+- 09/17 23:01 [financialjuice] US Pending Homes Sales August 2026 report
+- 09/17 23:03 [FirstSquawk] CHINA FOREIGN MINISTER HELD CALL WITH U.S. RUBIO - CHINESE STATE MEDIA
+- 09/17 23:03 [financialjuice] China Foreign Minister Wang Yi held call with US Secretary of State Rubio - Chinese State Media
+- 09/17 23:04 [FirstSquawk] WHITE HOUSE WEIGHS US INCUBATOR FOR CYBER RESEARCH, STARTUPS
+- 09/17 23:04 [FirstSquawk] OPENAI NEAR TO SOLVING ANOTHER MILLENNIUM PROBLEM: INFORMATION
+- 09/17 23:04 [financialjuice] OpenAI near to solving another millennium problem - The Information
+- 09/17 23:05 [financialjuice] China Foreign Minister: China, US should prepare well for next stage of high-level exchanges in spirit of equality, respect, reciprocity - Xinhua
+- 09/17 23:05 [FirstSquawk] CHINA FOREIGN MINISTER: CHINA-U.S. RELATIONS OVERALL MOVING ALONG CONSTRUCTIVE, STRATEGICALLY STABLE TRACK SET BY TWO LEADERS - XINHUA
+- 09/17 23:05 [financialjuice] China's Foreign Minister Wang Yi: Head-of-state diplomacy is the anchor of China-US relations.
+- 09/17 23:05 [financialjuice] OpenAI Is Close To Solving Another Millennium Prize Math Problem - The Information
+- 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi: China-US relations overall moving along constructive, strategically stable track set by two leaders - Xinhua
+- 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi: Two sides should strengthen communication, advance cooperation, manage differences, respect each other's core interests.

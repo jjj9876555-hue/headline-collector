@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 22:52 JST／対象: 09/16 22:52 〜 09/17 22:52 JST（時刻はすべて日本時間）
+生成: 2026-09-17 23:06 JST／対象: 09/16 23:06 〜 09/17 23:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 43 | 09/16 23:46 | 09/17 22:31 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 399 | 09/16 22:54 | 09/17 22:50 | 32分（05:10→05:42） |
-| financialjuice | 326 | 09/16 22:54 | 09/17 22:43 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 401 | 09/16 23:06 | 09/17 23:05 | 32分（05:10→05:42） |
+| financialjuice | 332 | 09/16 23:07 | 09/17 23:06 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 753 行（統合前 773 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 761 行（統合前 781 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 22:54 [FirstSquawk] US IDENTIFIES MEXICO, CHINA AS MAJOR DRUG TRANSIT COUNTRIES
-- 09/16 22:54 [financialjuice] US identifies Mexico and China as major drug transit countries.
-- 09/16 22:56 [FirstSquawk] US: CANADA, MEXICO NEED TO MORE TO STOP DRUG FLOW
-- 09/16 23:00 [financialjuice] US NAHB HOUSING MARKET INDEX ACTUAL 32 (FORECAST 34, PREVIOUS 35) $MACRO
-- 09/16 23:00 [financialjuice] US BUSINESS INVENTORIES MOM ACTUAL 0.8% (FORECAST 0.8%, PREVIOUS 0.0%) $MACRO
-- 09/16 23:00 [FirstSquawk] US NAHB HOUSING MARKET INDEX SEP: 32 (EST 34; PREV 35)
-- 09/16 23:01 [financialjuice] US Business Inventories July 2026 Report
-- 09/16 23:01 [financialjuice] US NAHB Housing Market Index Sept. 2026 Report
 - 09/16 23:06 [FirstSquawk] US SAYS BRAZIL FAILED TO CONFRONT PCC AND CV GROUPS
 - 09/16 23:06 [FirstSquawk] COINBASE EYES $70T US STOCK MARKET WITH FULLY BACKED TOKENIZED EQUITIES PUSH $COIN
 - 09/16 23:07 [financialjuice] US issues amended Venezuela-related general license authorizing certain deals related to Petroleos de Venezuela, S.A. 2020 8.5% bond on or after November 5th - Treasury website
@@ -777,3 +769,19 @@
 - 09/17 22:39 [financialjuice] EU Commission team to travel to Beijing later in September.
 - 09/17 22:43 [financialjuice] EU's Sefcovic to meet Chinese counterpart Wang on October 8-9 - EU Commission
 - 09/17 22:50 [FirstSquawk] DEBRIS FROM AN INTERCEPTED HOUTHI DRONE KILLED ONE PERSON, THE FIRST DEATH SINCE FIGHTING HAS ESCALATED, SAUDI CIVIL DEFENSE SAYS.
+- 09/17 22:57 [financialjuice] Dutch chipmaker Nexperia: Will make chips with TATA electronics in India
+- 09/17 23:00 [financialjuice] US PENDING HOME SALES CHANGE MOM ACTUAL 0.3% (FORECAST -0.1%, PREVIOUS -2.3%) $MACRO
+- 09/17 23:00 [financialjuice] US PENDING HOMES INDEX ACTUAL 71.2 (FORECAST -, PREVIOUS 71.2 ,REVISION 71.0) $MACRO
+- 09/17 23:00 [FirstSquawk] US AUG. PENDING HOME SALES ROSE 0.3% M/M; EST. -0.1%
+- 09/17 23:01 [financialjuice] US Pending Homes Sales August 2026 report
+- 09/17 23:03 [FirstSquawk] CHINA FOREIGN MINISTER HELD CALL WITH U.S. RUBIO - CHINESE STATE MEDIA
+- 09/17 23:03 [financialjuice] China Foreign Minister Wang Yi held call with US Secretary of State Rubio - Chinese State Media
+- 09/17 23:04 [FirstSquawk] WHITE HOUSE WEIGHS US INCUBATOR FOR CYBER RESEARCH, STARTUPS
+- 09/17 23:04 [FirstSquawk] OPENAI NEAR TO SOLVING ANOTHER MILLENNIUM PROBLEM: INFORMATION
+- 09/17 23:04 [financialjuice] OpenAI near to solving another millennium problem - The Information
+- 09/17 23:05 [financialjuice] China Foreign Minister: China, US should prepare well for next stage of high-level exchanges in spirit of equality, respect, reciprocity - Xinhua
+- 09/17 23:05 [FirstSquawk] CHINA FOREIGN MINISTER: CHINA-U.S. RELATIONS OVERALL MOVING ALONG CONSTRUCTIVE, STRATEGICALLY STABLE TRACK SET BY TWO LEADERS - XINHUA
+- 09/17 23:05 [financialjuice] China's Foreign Minister Wang Yi: Head-of-state diplomacy is the anchor of China-US relations.
+- 09/17 23:05 [financialjuice] OpenAI Is Close To Solving Another Millennium Prize Math Problem - The Information
+- 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi: China-US relations overall moving along constructive, strategically stable track set by two leaders - Xinhua
+- 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi: Two sides should strengthen communication, advance cooperation, manage differences, respect each other's core interests.
