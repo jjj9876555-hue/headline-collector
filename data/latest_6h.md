@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 21:23 JST／対象: 09/17 15:23 〜 09/17 21:23 JST（時刻はすべて日本時間）
+生成: 2026-09-17 21:48 JST／対象: 09/17 15:48 〜 09/17 21:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/17 16:07 | 09/17 18:43 | ⚠ 156分（16:07→18:43） |
-| FirstSquawk | 76 | 09/17 15:26 | 09/17 21:21 | 29分（16:17→16:47） |
-| financialjuice | 90 | 09/17 15:42 | 09/17 21:08 | 45分（18:03→18:48） |
+| FirstSquawk | 80 | 09/17 15:58 | 09/17 21:44 | 29分（16:17→16:47） |
+| financialjuice | 104 | 09/17 16:01 | 09/17 21:44 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 166 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 184 行（統合前 186 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 15:26 [FirstSquawk] Zelenskiy: Russian forces targeted energy infrastructure in the Sumy and Odesa regions overnight.
-- 09/17 15:33 [FirstSquawk] US allies remain wary of how Trump might address Taiwan in his engagement with Xi.
-- 09/17 15:39 [FirstSquawk] Brent crude drops over $2 to $103.80 per barrel, trading around its lowest level in a week.
-- 09/17 15:42 [financialjuice] JBA's Kato: Rate still accommodative, expect more hikes
-- 09/17 15:47 [FirstSquawk] UOB: Sterling remains vulnerable to further weakness against the US dollar despite oversold conditions.
 - 09/17 15:58 [FirstSquawk] Russia uses North Korean workers in drone production for its war effort in Ukraine, SCMP reports.
 - 09/17 16:01 [financialjuice] EU: Canada deal is 'for our common strength’ - Spokesman
 - 09/17 16:07 [DeItaone] *EU SAYS CANADA DEAL IS ‘NOT AGAINST ANYONE ELSE’: SPOKESMAN *EU SAYS CANADA DEAL IS ‘FOR OUR COMMON STRENGTH’: SPOKESMAN Comes after US President Trump’s response to the proposal yesterday: “If they do that, if I think it’s at all a hostil…
@@ -190,3 +185,26 @@
 - 09/17 21:11 [FirstSquawk] S&P 500 INDEX FUTURES EXTEND GAIN TO 1%
 - 09/17 21:20 [FirstSquawk] LOCKHEED MARTIN REVEALS NEW SECRET MISSILE, FAST TRACKS PRODUCTION
 - 09/17 21:21 [FirstSquawk] BRENT CRUDE FUTURES FALL OVER 3% TO LOWEST LEVEL SINCE SEPTEMBER 10 AS MIDDLE EAST SUPPLY DISRUPTION FEARS EASE
+- 09/17 21:26 [FirstSquawk] US TREASURY YIELDS EXTEND SLIDE AS UK YIELDS AND OIL PRICES FALL
+- 09/17 21:28 [FirstSquawk] NASDAQ 100 FUTURES EXTEND CLIMB TO 1.5%
+- 09/17 21:30 [financialjuice] US HOUSING STARTS CHANGE MOM ACTUAL -2.6% (FORECAST 6.7%, PREVIOUS -12.4%) $MACRO
+- 09/17 21:30 [financialjuice] US BUILDING PERMITS CHANGE MOM ACTUAL -2.7% (FORECAST -1.5%, PREVIOUS 4.3%) $MACRO
+- 09/17 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 196K VS 206K PREVIOUS; EST 207K
+- 09/17 21:30 [FirstSquawk] US PHILADELPHIA FED MANUFACTURING INDEX (SEP) ACTUAL: 37.8 VS 47.4 PREVIOUS; EST 32.1
+- 09/17 21:30 [financialjuice] US HOUSING STARTS ACTUAL 1.275M (FORECAST 1.32M, PREVIOUS 1.239M) $MACRO
+- 09/17 21:30 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1730K VS 1774K PREVIOUS; EST 1779K
+- 09/17 21:30 [financialjuice] CANADIAN PPI MOM ACTUAL 1.3% (FORECAST 0%, PREVIOUS 0.6%) $MACRO
+- 09/17 21:30 [financialjuice] CANADIAN PPI YOY ACTUAL 13.5% (FORECAST -, PREVIOUS 12.4%) $MACRO
+- 09/17 21:30 [financialjuice] US BUILDING PERMITS ACTUAL 1.394M (FORECAST 1.408M, PREVIOUS 1.433M) $MACRO
+- 09/17 21:31 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.73M (FORECAST 1.779M, PREVIOUS 1.774M) $MACRO
+- 09/17 21:31 [financialjuice] US PHILLY FED BUSINESS INDEX ACTUAL 37.8 (FORECAST 32.1, PREVIOUS 47.4) $MACRO
+- 09/17 21:31 [financialjuice] A high-ranking source told Al-Mayadeen that Riyadh has asked Oman to request a two-week truce from Ansar Allah (the Houthis) to allow for discussions on resolving the humanitarian crisis.
+- 09/17 21:31 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 196K (FORECAST 206.5K, PREVIOUS 206K) $MACRO
+- 09/17 21:31 [financialjuice] US Housing Starts August Report
+- 09/17 21:33 [FirstSquawk] HUANG: NVIDIA TO SELL TWICE AS MANY CHIPS NEXT YEAR AS THIS YEAR
+- 09/17 21:33 [financialjuice] Canadian PPI August 2026 Report
+- 09/17 21:33 [financialjuice] Nvidia's CEO Huang: Nvidia to sell twice as many chips next year as this year. $NVDA
+- 09/17 21:34 [FirstSquawk] NVIDIA'S CEO HUANG SAYS AI SAFETY IS PARAMOUNT
+- 09/17 21:35 [financialjuice] CANADIAN RMPI MOM ACTUAL 3.1% (FORECAST 0.8%, PREVIOUS -2.2%) $MACRO
+- 09/17 21:44 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS IRAN-BACKED YEMEN'S HOUTHIS LAUNCHED DRONE AT SAUDI TAIF - STATE TV
+- 09/17 21:44 [financialjuice] Saudi Civil Defense: Iran-backed Yemen's Houthis launched drone at Saudi Taif - State TV
