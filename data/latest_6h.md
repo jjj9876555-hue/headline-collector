@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 07:30 JST／対象: 09/18 01:30 〜 09/18 07:30 JST（時刻はすべて日本時間）
+生成: 2026-09-18 07:41 JST／対象: 09/18 01:41 〜 09/18 07:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/18 02:10 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 57 | 09/18 01:32 | 09/18 07:23 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 49 | 09/18 01:30 | 09/18 06:44 | 41分（05:13→05:55） |
+| FirstSquawk | 57 | 09/18 01:46 | 09/18 07:36 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 47 | 09/18 01:41 | 09/18 06:44 | 41分（05:13→05:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 105 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 01:30 [financialjuice] French PM Lecornu: Aim to trim one-off tax on big firms to €5 billion
-- 09/18 01:31 [financialjuice] Oil refinery in Russia's Yaroslavl region halts crude processing after a drone attack - sources.
-- 09/18 01:32 [FirstSquawk] STRAIT OF HORMUZ THREAT LEVEL REMAINS SEVERE – UKMTO
 - 09/18 01:41 [financialjuice] French PM Lecornu: We will not raise taxes - Le Figaro
 - 09/18 01:45 [financialjuice] Fed bids for 10 Yr tips total $2.9 bln
 - 09/18 01:46 [FirstSquawk] BAE SYSTEMS ONEARC AWARDED OTHER TRANSACTION AGREEMENT CONTRACT BY US ARMY TO INTEGRATE ECT SOLUTION
@@ -129,3 +126,4 @@
 - 09/18 07:10 [FirstSquawk] PENTAGON REVIEWS POTENTIAL CUT OF UP TO 40,000 U.S. TROOPS IN EUROPE, WITH GERMANY, ITALY AND SPAIN AMONG THOSE THAT COULD BE AFFECTED; NO FINAL DECISION HAS BEEN MADE, WITH RECOMMENDATIONS EXPECTED IN NOVEMBER. - NBC NEWS.
 - 09/18 07:20 [FirstSquawk] ZENITH MINERALS’ TAKEOVER OFFER REMAINS OPEN FOR ACCEPTANCES, WITH THE TAKEOVERS PANEL ISSUING ORDERS REGARDING MATTERS INVOLVING FORRESTANIA RESOURCES. || THE ORDERS DO NOT PREVENT FORRESTANIA RESOURCES FROM PROCEEDING WITH ITS TAKEOVER OF…
 - 09/18 07:23 [FirstSquawk] JPMORGAN, CIBC WIN MANDATE TO ADVISE CARNEY GOVERNMENT ON SALE OF CANADA AIRPORT CONCESSIONS
+- 09/18 07:36 [FirstSquawk] U.S. APPROVES VISAS FOR IRANIAN PRESIDENT MASOUD PEZESHKIAN, FOREIGN MINISTER ABBAS ARAGHCHI AND OTHER OFFICIALS TO ATTEND NEXT WEEK’S UN GENERAL ASSEMBLY IN NEW YORK, DESPITE THE ONGOING SIX-MONTH WAR, WITH THE DELEGATION FACING TRAVEL RES…
