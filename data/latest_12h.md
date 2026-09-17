@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 14:33 JST／対象: 09/17 02:33 〜 09/17 14:33 JST（時刻はすべて日本時間）
+生成: 2026-09-17 14:52 JST／対象: 09/17 02:52 〜 09/17 14:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 29 | 09/17 03:00 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 257 | 09/17 02:35 | 09/17 14:29 | 32分（05:10→05:42） |
-| financialjuice | 166 | 09/17 02:33 | 09/17 14:20 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 256 | 09/17 03:00 | 09/17 14:49 | 32分（05:10→05:42） |
+| financialjuice | 154 | 09/17 02:56 | 09/17 14:20 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 440 行（統合前 457 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 427 行（統合前 443 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 02:33 [financialjuice] BoC Meeting Minutes
-- 09/17 02:35 [FirstSquawk] THE TEL AVIV STOCK EXCHANGE HAS PRESENTED A 2027-2031 STRATEGIC PLAN TO ACCELERATE REVENUE GROWTH, EXPAND INTERNATIONAL ACTIVITY AND CREATE LONG-TERM SHAREHOLDER VALUE, TARGETING A 15%-18% REVENUE CAGR.
-- 09/17 02:35 [FirstSquawk] THE TEL AVIV STOCK EXCHANGE SAYS IT WILL EVALUATE EXTENDED TRADING HOURS AND AN AFTER-MARKET SESSION, AND WILL PURSUE STRATEGIC INVESTMENTS AND PARTNERSHIPS FOR VALUE CREATION.
-- 09/17 02:37 [financialjuice] JPMorgan's Michele: Should be a clean Fed meeting, should hike 25 BPS
-- 09/17 02:38 [financialjuice] JPMorgan's Michele: FOMC members probably taken aback by speed rates moved
-- 09/17 02:38 [financialjuice] Azerbaijan sets oil price at $65/bbl in 2027 budget draft - Finance Ministry
-- 09/17 02:38 [FirstSquawk] AZERBAIJAN HAS SET AN OIL PRICE OF $65/BBL IN ITS 2027 BUDGET DRAFT, FORECASTING 2.7% GDP GROWTH AND AVERAGE ANNUAL INFLATION OF 5.3% IN 2027 - FINANCE MINISTRY
-- 09/17 02:39 [financialjuice] US Treasury Secretary Bessent: US open to discuss AI "shared risks" with China - Axios
-- 09/17 02:39 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS THE U.S. IS OPEN TO DISCUSSING SHARED RISKS WITH CHINA IN UPCOMING AI TALKS THIS WEEKEND - AXIOS
-- 09/17 02:39 [financialjuice] JPMorgan's Michele: It's possible these are the last dots we ever get
-- 09/17 02:41 [financialjuice] US and China to talk AI, trade, rare earths this weekend - Axios cites sources familiar on us agenda for china talks
-- 09/17 02:42 [financialjuice] JPMorgan's Michele: We were buying the long end of US, Japan, Australia
-- 09/17 02:42 [financialjuice] JPMorgan's Michele: Bessent has done his best to stabilize the long end.
-- 09/17 02:49 [financialjuice] Societe Generale's Rajappa: Expecting another hike in December, maybe March.
-- 09/17 02:50 [financialjuice] Societe Generale's Rajappa: Long end has gotten a bit more volatile.
-- 09/17 02:50 [financialjuice] Societe Generale's Rajappa: If Warsh sounds dovish, could see long end sell off.
 - 09/17 02:56 [financialjuice] JPMorgan's Michele: Funded long-end purchases with cash.
 - 09/17 02:58 [financialjuice] The US probes Iran link to cyberattacks on Texas-bound tankers - WSJ.
 - 09/17 02:59 [financialjuice] SocGen's Rajappa: I feel like Warsh will keep the Jackson Hole messaging.
@@ -464,3 +448,6 @@
 - 09/17 14:20 [financialjuice] Micron CEO: Micron to test and assemble hundreds of MLN chips in India next year
 - 09/17 14:20 [FirstSquawk] India’s market regulator is reviewing broker concerns regarding fees charged on UPI transactions.
 - 09/17 14:29 [FirstSquawk] Japanese Prime Minister Takaichi makes limited changes in her first Cabinet reshuffle.
+- 09/17 14:33 [FirstSquawk] HSBC ends a $38,000 education subsidy for some Hong Kong bankers, FT reports.
+- 09/17 14:39 [FirstSquawk] Iran war and El Niño threaten food supplies in Asia, raising concerns over potential unrest, SCMP reports.
+- 09/17 14:49 [FirstSquawk] WSJ: Dollar gains from Fed tightening may not develop into a lasting strengthening trend.

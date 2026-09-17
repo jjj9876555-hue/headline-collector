@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 14:33 JST／対象: 09/16 14:33 〜 09/17 14:33 JST（時刻はすべて日本時間）
+生成: 2026-09-17 14:52 JST／対象: 09/16 14:52 〜 09/17 14:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 415 | 09/16 14:36 | 09/17 14:29 | 45分（17:00→17:45） |
-| financialjuice | 301 | 09/16 14:36 | 09/17 14:20 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 411 | 09/16 15:02 | 09/17 14:49 | 45分（17:00→17:45） |
+| financialjuice | 300 | 09/16 15:00 | 09/17 14:20 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 753 行（統合前 772 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 748 行（統合前 767 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 14:36 [financialjuice] SK Hynix and Intel are in talks to make memory chips in the US - Sources
-- 09/16 14:36 [FirstSquawk] Saudi Vitrified Clay Pipes has provided an update on its memorandum of understanding (MOU) with Laffan Pipes Factory Company in Qatar. The update relates to the company’s ongoing engagement with the Qatari pipe manufacturer under the previo…
-- 09/16 14:39 [FirstSquawk] Saudi Arabia said it shot down a Houthi drone near Mecca on Tuesday, prompting swift condemnation from several countries in the region. Houthi officials denied targeting Mecca, rejecting the Saudi account of the incident as tensions continu…
-- 09/16 14:43 [FirstSquawk] China’s defense minister urges vigilance against ‘hegemonism’ and militarism
-- 09/16 14:46 [FirstSquawk] Russia attacks energy infrastructure in Ukraine’s Poltava region Russia attacked energy infrastructure in Ukraine’s Poltava region overnight, the regional governor said. The reported strikes targeted energy facilities in the region, adding …
-- 09/16 14:46 [FirstSquawk] Russia hits cargo vessel at Ukraine’s Chornomorsk port: IFX Russia struck a cargo vessel at the port of Chornomorsk in Ukraine, Interfax reported, citing the Russian Defence Ministry. The reported incident adds to ongoing risks around Ukrai…
-- 09/16 14:48 [FirstSquawk] Polish airports in Lublin and Rzeszów resume operations: PANSA Air operations at Lublin and Rzeszów airports in Poland have resumed after a temporary closure linked to military aviation operations, according to PANSA. The airports were brie…
-- 09/16 14:51 [FirstSquawk] US ambassador to South Africa says visa restrictions are only the first step The U.S. ambassador to South Africa said the visa restriction policy is only the first step in a series of potential escalatory measures. The remarks signal that W…
 - 09/16 15:00 [financialjuice] UK RPI MOM ACTUAL 0.6% (FORECAST 0.7%, PREVIOUS 0.6%) $MACRO
 - 09/16 15:00 [financialjuice] ‼ BREAKING: UK CPI YOY ACTUAL 3.1% (FORECAST 3.1%, PREVIOUS 2.9%) $MACRO
 - 09/16 15:00 [financialjuice] UK CPI MOM ACTUAL 0.5% (FORECAST 0.5%, PREVIOUS 0.3%) $MACRO
@@ -777,3 +769,6 @@
 - 09/17 14:20 [financialjuice] Micron CEO: Micron to test and assemble hundreds of MLN chips in India next year
 - 09/17 14:20 [FirstSquawk] India’s market regulator is reviewing broker concerns regarding fees charged on UPI transactions.
 - 09/17 14:29 [FirstSquawk] Japanese Prime Minister Takaichi makes limited changes in her first Cabinet reshuffle.
+- 09/17 14:33 [FirstSquawk] HSBC ends a $38,000 education subsidy for some Hong Kong bankers, FT reports.
+- 09/17 14:39 [FirstSquawk] Iran war and El Niño threaten food supplies in Asia, raising concerns over potential unrest, SCMP reports.
+- 09/17 14:49 [FirstSquawk] WSJ: Dollar gains from Fed tightening may not develop into a lasting strengthening trend.

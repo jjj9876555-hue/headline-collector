@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 14:33 JST／対象: 09/17 08:33 〜 09/17 14:33 JST（時刻はすべて日本時間）
+生成: 2026-09-17 14:52 JST／対象: 09/17 08:52 〜 09/17 14:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 128 | 09/17 08:41 | 09/17 14:29 | 14分（11:48→12:03） |
-| financialjuice | 55 | 09/17 08:40 | 09/17 14:20 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 123 | 09/17 09:04 | 09/17 14:49 | 14分（11:48→12:03） |
+| financialjuice | 47 | 09/17 09:04 | 09/17 14:20 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 183 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 170 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 08:40 [financialjuice] Snap: collaborating with Salesforce, AWS, Nvidia, Trifork, Hololight, and others to integrate AR specs into workplace settings
-- 09/17 08:41 [FirstSquawk] SNAP HAS ANNOUNCED NEW EXPERIENCES, SERVICES AND PARTNERSHIPS FOR SPECS, INTRODUCING SPECS INTELLIGENCE, A NEW ANTICIPATORY AI SERVICE DESIGNED TO WORK ACROSS IPHONE, MAC AND SPECS AR GLASSES, AND WORKING WITH SALESFORCE, AWS, NVIDIA, TRIFO…
-- 09/17 08:41 [FirstSquawk] SNAP SAYS THAT FROM TODAY IN THE U.S., ANYONE 18+ CAN DOWNLOAD THE SPECS APP FOR IOS AND TRY THE SPECS INTELLIGENCE PREVIEW, WITH CONSUMERS ABLE TO TRY SPECS AR GLASSES IN-PERSON FROM OCT. 1 AT SPECS FIRST LOOK AT WESTFIELD CENTURY CITY IN …
-- 09/17 08:41 [financialjuice] Trump to hold Iran discussions with Gulf leaders next week: Axios
-- 09/17 08:41 [FirstSquawk] SNAP SAYS IT IS PARTNERING WITH VERIZON TO OFFER CUSTOM DATA PLANS, FLEXIBLE FINANCING AND DIGITAL SETUP AT SELECT VERIZON STORES FOR THE SPECS CHARGING CASE, ALONGSIDE GLOBAL CARRIERS INCLUDING ORANGE IN FRANCE AND EE IN THE UK.
-- 09/17 08:42 [FirstSquawk] TRUMP IS TO HOLD IRAN TALKS WITH GULF LEADERS NEXT WEEK - AXIOS
-- 09/17 08:45 [FirstSquawk] US STOCK FUTURES REBOUND: S&P 500 FUTURES +0.3%, NASDAQ FUTURES +0.5%
-- 09/17 08:46 [FirstSquawk] JAPAN MARKETS: NIKKEI FUTURES RISE 1% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.08 POINT
-- 09/17 08:50 [financialjuice] State Dept: US imposing sanctions on Palestinian Authority officials and Palestine Liberation Organization members
-- 09/17 08:50 [FirstSquawk] US SANCTIONS PALESTINIAN AUTHORITY OFFICIALS & PALESTINE LIBERATION ORGANIZATION MEMBERS — STATE DEPARTMENT
-- 09/17 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL 1,082.9B (FORECAST -, PREVIOUS 111.9B ,REVISION 111.4B) $MACRO
-- 09/17 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL -1,522.8B (FORECAST -, PREVIOUS 690.0B ,REVISION 689.6B) $MACRO
-- 09/17 08:50 [FirstSquawk] US TO EXTEND VISA-BAN SANCTIONS ON PLO MEMBERS & PA OFFICIALS — STATE DEPARTMENT
-- 09/17 08:50 [financialjuice] State Dept: US to extend visa sanctions on PLO members and PA officials
-- 09/17 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL 169.2B (FORECAST -, PREVIOUS -481.6B) $MACRO
-- 09/17 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 2236.2B (FORECAST -, PREVIOUS 449.6B) $MACRO
 - 09/17 09:04 [FirstSquawk] DOLLAR/YEN FALLS 0.21% TO 155.95 IN LATEST TRADE
 - 09/17 09:04 [financialjuice] Dollar/yen slides 0.21% to 155.95
 - 09/17 09:07 [FirstSquawk] TRUMP SAYS IRAN IS NOT READY FOR A DEAL, BUT WAR WITH IRAN WILL END “VERY SOON”
@@ -207,3 +191,6 @@
 - 09/17 14:20 [financialjuice] Micron CEO: Micron to test and assemble hundreds of MLN chips in India next year
 - 09/17 14:20 [FirstSquawk] India’s market regulator is reviewing broker concerns regarding fees charged on UPI transactions.
 - 09/17 14:29 [FirstSquawk] Japanese Prime Minister Takaichi makes limited changes in her first Cabinet reshuffle.
+- 09/17 14:33 [FirstSquawk] HSBC ends a $38,000 education subsidy for some Hong Kong bankers, FT reports.
+- 09/17 14:39 [FirstSquawk] Iran war and El Niño threaten food supplies in Asia, raising concerns over potential unrest, SCMP reports.
+- 09/17 14:49 [FirstSquawk] WSJ: Dollar gains from Fed tightening may not develop into a lasting strengthening trend.
