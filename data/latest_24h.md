@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 13:59 JST／対象: 09/16 13:59 〜 09/17 13:59 JST（時刻はすべて日本時間）
+生成: 2026-09-17 14:18 JST／対象: 09/16 14:18 〜 09/17 14:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 416 | 09/16 14:03 | 09/17 13:59 | 45分（17:00→17:45） |
-| financialjuice | 299 | 09/16 14:36 | 09/17 13:35 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 416 | 09/16 14:21 | 09/17 14:10 | 45分（17:00→17:45） |
+| financialjuice | 300 | 09/16 14:36 | 09/17 14:08 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 752 行（統合前 771 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 753 行（統合前 772 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 14:03 [FirstSquawk] Equinor expects EU gas inventories to reach around 75% by November Equinor expects European Union gas storage inventories to reach around 75% of capacity by November, highlighting its outlook for regional gas supplies.
-- 09/16 14:10 [FirstSquawk] Polish airports in Lublin and Rzeszów closed amid military aviation operations Airports in Lublin and Rzeszów have been closed due to military aviation operations, Poland’s air navigation services agency PANSA said. The closures affect air …
-- 09/16 14:14 [FirstSquawk] Berenberg raises BioNTech target price to $140 from $132
 - 09/16 14:21 [FirstSquawk] 20-year JGB yield falls 3 bps to 3.855%
 - 09/16 14:23 [FirstSquawk] French utility EDF will reduce output at its Bugey 2 nuclear reactor to 180 MW from 00:15 to 22:00 on September 17, 2026.
 - 09/16 14:31 [FirstSquawk] China’s slower pace of loan growth is becoming the “new normal,” the central bank governor said, signaling a shift in credit expansion dynamics.
@@ -776,3 +773,7 @@
 - 09/17 13:57 [FirstSquawk] Barclays comes under pressure from employees over return-to-office requirements - FT
 - 09/17 13:58 [FirstSquawk] Berenberg increases its SSE target price to 2,980p, up from 2,800p.
 - 09/17 13:59 [FirstSquawk] Yen slides past ¥156 per dollar as recent US-Japan efforts to support the currency lose ground, putting added pressure on the BOJ ahead of Friday’s rate decision, FT reports.
+- 09/17 14:01 [FirstSquawk] Iran’s Foreign Minister Araqchi speaks with Pakistan Army Chief by phone on latest regional developments during his Beijing visit, Iranian media says.
+- 09/17 14:03 [FirstSquawk] Volvo Car: Spending on its technology stack and manufacturing is set to fall from current levels.
+- 09/17 14:08 [financialjuice] Iranian foreign minister, Pakistan army chief discuss recent regional developments in phone call during Aragchi's Beijing visit on Wednesday: Iranian MI
+- 09/17 14:10 [FirstSquawk] RIA: Russia’s Defence Ministry says its forces targeted vessels used by the Ukrainian military.

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 13:59 JST／対象: 09/17 01:59 〜 09/17 13:59 JST（時刻はすべて日本時間）
+生成: 2026-09-17 14:18 JST／対象: 09/17 02:18 〜 09/17 14:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 30 | 09/17 02:22 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 257 | 09/17 02:02 | 09/17 13:59 | 32分（05:10→05:42） |
-| financialjuice | 171 | 09/17 02:02 | 09/17 13:35 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 259 | 09/17 02:22 | 09/17 14:10 | 32分（05:10→05:42） |
+| financialjuice | 171 | 09/17 02:22 | 09/17 14:08 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 446 行（統合前 463 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 448 行（統合前 465 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 02:02 [financialjuice] Iran's Rezai: We do not trust the US in any way.
-- 09/17 02:02 [FirstSquawk] FRENCH PM LECORNU REPORTEDLY SEEKING BUDGET ALIGNMENT WITH RN - LES ECHOS
 - 09/17 02:22 [financialjuice] Google, DeepMind launch institute to explore AGI - Axios. $GOOGL
 - 09/17 02:22 [FirstSquawk] GOOGLE, DEEPMIND LAUNCH INSTITUTE TO EXPLORE AGI - AXIOS.
 - 09/17 02:22 [FirstSquawk] ADIDAS SAYS ON INDIA TECH JOB CUTS THAT THE IMPACT OF THE CHANGES IS LESS THAN 20% OF ITS INDIA TECHNOLOGY ORGANIZATION
@@ -470,3 +468,7 @@
 - 09/17 13:57 [FirstSquawk] Barclays comes under pressure from employees over return-to-office requirements - FT
 - 09/17 13:58 [FirstSquawk] Berenberg increases its SSE target price to 2,980p, up from 2,800p.
 - 09/17 13:59 [FirstSquawk] Yen slides past ¥156 per dollar as recent US-Japan efforts to support the currency lose ground, putting added pressure on the BOJ ahead of Friday’s rate decision, FT reports.
+- 09/17 14:01 [FirstSquawk] Iran’s Foreign Minister Araqchi speaks with Pakistan Army Chief by phone on latest regional developments during his Beijing visit, Iranian media says.
+- 09/17 14:03 [FirstSquawk] Volvo Car: Spending on its technology stack and manufacturing is set to fall from current levels.
+- 09/17 14:08 [financialjuice] Iranian foreign minister, Pakistan army chief discuss recent regional developments in phone call during Aragchi's Beijing visit on Wednesday: Iranian MI
+- 09/17 14:10 [FirstSquawk] RIA: Russia’s Defence Ministry says its forces targeted vessels used by the Ukrainian military.

@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 13:59 JST／対象: 09/17 07:59 〜 09/17 13:59 JST（時刻はすべて日本時間）
+生成: 2026-09-17 14:18 JST／対象: 09/17 08:18 〜 09/17 14:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/17 08:04 | 09/17 08:04 | - |
-| FirstSquawk | 132 | 09/17 08:02 | 09/17 13:59 | 25分（08:16→08:41） |
-| financialjuice | 56 | 09/17 08:10 | 09/17 13:35 | ⚠ 78分（10:31→11:49） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 126 | 09/17 08:41 | 09/17 14:10 | 14分（11:48→12:03） |
+| financialjuice | 54 | 09/17 08:40 | 09/17 14:08 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 189 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 180 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 08:02 [FirstSquawk] APPLE'S COOK: TO ATTEND TRUMP DINNER FOR CHINA'S XI NEXT WEEK
-- 09/17 08:02 [FirstSquawk] SALESFORCE: FORECASTS FY2030 SALES OF $63B (EST $61.4B)
-- 09/17 08:02 [FirstSquawk] IMF SAYS ON AUSTRALIA THAT IT SEES GDP GROWTH AT 1.9% IN 2026 AND 1.6% IN 2027, ADDING THAT MAJOR TAX REFORM COULD BOOST GROWTH AND STRENGTHEN PUBLIC FINANCES AND CALLING FOR A MORE AMBITIOUS PRODUCTIVITY REFORM PROGRAMME.
-- 09/17 08:03 [FirstSquawk] IMF SAYS THE RBA SHOULD MAINTAIN A TIGHTENING BIAS AND BE READY TO HIKE AS NEEDED, WITH INFLATION RISKS REMAINING TILTED TO THE UPSIDE AND UNCERTAINTY OVER WHETHER FINANCIAL CONDITIONS ARE RESTRICTIVE ENOUGH, ADDING THAT FISCAL CONSOLIDATIO…
-- 09/17 08:04 [DeItaone] TRUMP LASHES OUT AT FED AFTER WARSH BACKS RATE HIKE President Trump criticized the Fed after its unanimous 25bp hike to 3.75%–4.00%, demanding rates be cut to 1% or lower. Trump said he still has confidence in Fed Chair Kevin Warsh but call…
-- 09/17 08:04 [FirstSquawk] LENNAR POSTED Q3 REVENUE OF $8.05 BLN, BELOW THE $8.30 BLN ESTIMATE, WITH EPS OF $1.19 VERSUS $1.28 EXPECTED.
-- 09/17 08:04 [FirstSquawk] LENNAR SEES Q4 NEW ORDERS OF 19,500 TO 20,500 AND Q4 DELIVERIES OF 22,000 TO 23,000 VERSUS 24,080 EXPECTED.
-- 09/17 08:10 [financialjuice] Trump: retains confidence in Fed Chair Warsh
-- 09/17 08:11 [financialjuice] Trump: wants Warsh to be independent
-- 09/17 08:11 [financialjuice] Trump: Warsh has an antagonistic board
-- 09/17 08:13 [FirstSquawk] EXXONMOBIL IS REPORTEDLY NEARING A PRELIMINARY AGREEMENT TO INVEST IN VENEZUELA'S OIL FIELDS, WITH A MEMORANDUM OF UNDERSTANDING WITH STATE-RUN PDVSA POTENTIALLY BEING SIGNED AS SOON AS THIS MONTH, ACCORDING TO THE WALL STREET JOURNAL.
-- 09/17 08:15 [FirstSquawk] A DEAL WITH EXXON WOULD MARK A NOTABLE DEVELOPMENT GIVEN THE COMPANY'S PREVIOUS HISTORY IN VENEZUELA AND COULD SIGNAL DEEPER INTERNATIONAL PARTICIPATION IN THE COUNTRY'S OIL SECTOR, THOUGH THE REPORTED AGREEMENT IS STILL PRELIMINARY AND THE…
-- 09/17 08:15 [FirstSquawk] THE POTENTIAL MOVE COMES AMID A BROADER PUSH BY U.S. ENERGY COMPANIES TO RE-ENTER AND EXPAND OPERATIONS IN VENEZUELA, WITH RECENT AGREEMENTS INVOLVING OTHER U.S. AND INTERNATIONAL FIRMS FOCUSED ON DEVELOPING THE COUNTRY'S LARGE BUT UNDERUTI…
-- 09/17 08:16 [FirstSquawk] TRUMP ADMINISTRATION TEMPORARILY RELAXES TRUCKER HOURS-OF-SERVICE RULES FOR GASOLINE & DIESEL SHIPMENTS — USDOT
 - 09/17 08:40 [financialjuice] Snap: collaborating with Salesforce, AWS, Nvidia, Trifork, Hololight, and others to integrate AR specs into workplace settings
 - 09/17 08:41 [FirstSquawk] SNAP HAS ANNOUNCED NEW EXPERIENCES, SERVICES AND PARTNERSHIPS FOR SPECS, INTRODUCING SPECS INTELLIGENCE, A NEW ANTICIPATORY AI SERVICE DESIGNED TO WORK ACROSS IPHONE, MAC AND SPECS AR GLASSES, AND WORKING WITH SALESFORCE, AWS, NVIDIA, TRIFO…
 - 09/17 08:41 [FirstSquawk] SNAP SAYS THAT FROM TODAY IN THE U.S., ANYONE 18+ CAN DOWNLOAD THE SPECS APP FOR IOS AND TRY THE SPECS INTELLIGENCE PREVIEW, WITH CONSUMERS ABLE TO TRY SPECS AR GLASSES IN-PERSON FROM OCT. 1 AT SPECS FIRST LOOK AT WESTFIELD CENTURY CITY IN …
@@ -67,6 +53,7 @@
 - 09/17 09:18 [FirstSquawk] 10-year JGB yield moves below 3%, down 0.5bp at 2.99%.
 - 09/17 09:19 [FirstSquawk] The renewed prospect of higher US interest rates is reshaping market positioning, as investors weigh potential beneficiaries of elevated yields and continued inflation pressure - Benzinga
 - 09/17 09:20 [FirstSquawk] Trump: Says Washington and Mexico are nearing a new agreement, calling it a “great deal.”
+- 09/17 09:21 [FirstSquawk] Apple's Cook: To Attend Trump Dinner For China's Xi Next Week
 - 09/17 09:23 [FirstSquawk] Axios reports the meeting may include a wider group of leaders from Arab and Islamic countries.
 - 09/17 09:24 [FirstSquawk] US Fed delivers its first rate hike since July 2023, lifting the federal funds target range by 25bp to 3.75%-4% amid ongoing inflation pressure.
 - 09/17 09:24 [financialjuice] China PBOC seen setting yuan midpoint at 6.7241 per dollar: estimate
@@ -213,3 +200,7 @@
 - 09/17 13:57 [FirstSquawk] Barclays comes under pressure from employees over return-to-office requirements - FT
 - 09/17 13:58 [FirstSquawk] Berenberg increases its SSE target price to 2,980p, up from 2,800p.
 - 09/17 13:59 [FirstSquawk] Yen slides past ¥156 per dollar as recent US-Japan efforts to support the currency lose ground, putting added pressure on the BOJ ahead of Friday’s rate decision, FT reports.
+- 09/17 14:01 [FirstSquawk] Iran’s Foreign Minister Araqchi speaks with Pakistan Army Chief by phone on latest regional developments during his Beijing visit, Iranian media says.
+- 09/17 14:03 [FirstSquawk] Volvo Car: Spending on its technology stack and manufacturing is set to fall from current levels.
+- 09/17 14:08 [financialjuice] Iranian foreign minister, Pakistan army chief discuss recent regional developments in phone call during Aragchi's Beijing visit on Wednesday: Iranian MI
+- 09/17 14:10 [FirstSquawk] RIA: Russia’s Defence Ministry says its forces targeted vessels used by the Ukrainian military.
