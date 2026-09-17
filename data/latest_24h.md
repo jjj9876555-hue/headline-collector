@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 08:58 JST／対象: 09/16 08:58 〜 09/17 08:58 JST（時刻はすべて日本時間）
+生成: 2026-09-17 09:24 JST／対象: 09/16 09:24 〜 09/17 09:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 51 | 09/16 19:06 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 392 | 09/16 09:05 | 09/17 08:50 | 45分（17:00→17:45） |
-| financialjuice | 278 | 09/16 09:13 | 09/17 08:51 | ⚠ 254分（10:21→14:36） |
+| FirstSquawk | 400 | 09/16 09:27 | 09/17 09:23 | 45分（17:00→17:45） |
+| financialjuice | 278 | 09/16 09:38 | 09/17 09:08 | ⚠ 254分（10:21→14:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 707 行（統合前 726 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 715 行（統合前 735 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 09:05 [FirstSquawk] PENGANA INTERNATIONAL EQUITIES HAS ANNOUNCED A SETTLEMENT WITH PCG AND PCL RESOLVING COURT PROCEEDINGS, INTENDED TO REMOVE LITIGATION UNCERTAINTY AND ALLOW PIA TO PROCEED WITH THE BUY-BACK COMPLETION.
-- 09/16 09:05 [FirstSquawk] PENGANA INTERNATIONAL EQUITIES SAYS FRANK GOOCH WILL BECOME INTERIM CHAIRMAN FOLLOWING COMPLETION OF THE BUY-BACK.
-- 09/16 09:13 [financialjuice] IMF Managing Director Georgieva: Senegal has made notable progress in boosting the economy and enhancing prospects for investments, jobs and growth
-- 09/16 09:14 [FirstSquawk] Georgieva says Senegal’s economic reforms are showing encouraging progress, with better prospects for investment, jobs and growth.
-- 09/16 09:17 [financialjuice] China PBOC predicted to set yuan reference rate at 6.7148 per dollar - Estimate
-- 09/16 09:19 [FirstSquawk] U.S. crude futures are pulling back, with prices down 1% at $104.77 a barrel. The move puts crude below the $105 level as traders monitor the latest developments affecting global oil markets.
 - 09/16 09:27 [FirstSquawk] Asia-Pacific stocks open mixed as investors digest Wall Street’s weak handover and position cautiously ahead of the Fed’s rate decision
 - 09/16 09:30 [FirstSquawk] AI is moving from the tech sector into China’s restaurant industry, as major chains explore ways to bring artificial intelligence into everyday dining. From smarter operations to AI-enabled customer experiences, restaurants are testing how …
 - 09/16 09:31 [FirstSquawk] Japan’s 5-year government bond yield edged lower, falling 0.5 basis points to 2.305%. The move marks a modest pullback in one of Japan’s key government bond yields as investors continue to assess the country’s rates and monetary-policy outl…
@@ -731,3 +725,17 @@
 - 09/17 08:50 [financialjuice] State Dept: US to extend visa sanctions on PLO members and PA officials
 - 09/17 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL 169.2B (FORECAST -, PREVIOUS -481.6B) $MACRO
 - 09/17 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 2236.2B (FORECAST -, PREVIOUS 449.6B) $MACRO
+- 09/17 09:04 [FirstSquawk] DOLLAR/YEN FALLS 0.21% TO 155.95 IN LATEST TRADE
+- 09/17 09:04 [financialjuice] Dollar/yen slides 0.21% to 155.95
+- 09/17 09:07 [FirstSquawk] TRUMP SAYS IRAN IS NOT READY FOR A DEAL, BUT WAR WITH IRAN WILL END “VERY SOON”
+- 09/17 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.2% TO 8,714 IN EARLY TRADE
+- 09/17 09:08 [financialjuice] Trump: we're very close to an agreement with Mexico
+- 09/17 09:08 [FirstSquawk] TRUMP SAYS US IS “VERY CLOSE” TO A DEAL WITH MEXICO
+- 09/17 09:08 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN $1 TO $101.36/BBL
+- 09/17 09:13 [FirstSquawk] Trump on Iran: Predicts the war will “end very soon” and says his administration has transformed the US from a “dark age” into a “golden age.”
+- 09/17 09:15 [FirstSquawk] Trump expected to meet Gulf leaders in New York next week as Washington weighs its next steps on Iran. The talks, expected on the sidelines of the UN General Assembly, are set to focus on US proposals for a postwar strategy and the broader …
+- 09/17 09:16 [FirstSquawk] European stocks look poised to open modestly higher, as futures for the Euro Stoxx 50, DAX and FTSE each trade about 0.2% higher.
+- 09/17 09:18 [FirstSquawk] 10-year JGB yield moves below 3%, down 0.5bp at 2.99%.
+- 09/17 09:19 [FirstSquawk] The renewed prospect of higher US interest rates is reshaping market positioning, as investors weigh potential beneficiaries of elevated yields and continued inflation pressure - Benzinga
+- 09/17 09:20 [FirstSquawk] Trump: Says Washington and Mexico are nearing a new agreement, calling it a “great deal.”
+- 09/17 09:23 [FirstSquawk] Axios reports the meeting may include a wider group of leaders from Arab and Islamic countries.

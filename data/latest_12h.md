@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 08:58 JST／対象: 09/16 20:58 〜 09/17 08:58 JST（時刻はすべて日本時間）
+生成: 2026-09-17 09:24 JST／対象: 09/16 21:24 〜 09/17 09:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 45 | 09/16 21:33 | 09/17 08:04 | ⚠ 110分（05:51→07:41） |
-| FirstSquawk | 208 | 09/16 21:03 | 09/17 08:50 | 32分（05:10→05:42） |
-| financialjuice | 196 | 09/16 21:00 | 09/17 08:51 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 214 | 09/16 21:24 | 09/17 09:23 | 32分（05:10→05:42） |
+| financialjuice | 192 | 09/16 21:25 | 09/17 09:08 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 436 行（統合前 453 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 438 行（統合前 456 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 21:00 [financialjuice] Secured overnight financing rate 3.64% September 15th vs 3.62% on September 14th
-- 09/16 21:03 [financialjuice] Coreweave brings up a multi-rack NVIDIA Vera Rubin NVL72 cluster $NVDA
-- 09/16 21:03 [FirstSquawk] JAPAN'S DEFENSE MINISTRY INTENDS TO PURCHASE 52,000 DRONES.
-- 09/16 21:03 [FirstSquawk] NOVO AND ANTHROPIC PARTNER TO DEVELOP MEDICATION USING CLAUDE AI TECHNOLOGY.
-- 09/16 21:04 [FirstSquawk] COREWEAVE LAUNCHES MULTI-RACK NVIDIA VERA RUBIN NVL72 CLUSTER.
-- 09/16 21:06 [FirstSquawk] SAUDIS SAY HAVE LEGITIMATE RIGHT TO DEFEND HOLY CITIES
-- 09/16 21:07 [FirstSquawk] SAUDIS CALL ON INTL COMMUNITY FOR FIRM STANCE AGAINST HOUTHIS
-- 09/16 21:07 [financialjuice] Traders no longer fully price in four quarter-point BoE rate hikes
-- 09/16 21:07 [financialjuice] Morning Juice – US Session Prep (16th September)
-- 09/16 21:07 [FirstSquawk] TRADERS NO LONGER FULLY PRICE FOUR QUARTER-POINT BANK OF ENGLAND RATE HIKES
-- 09/16 21:15 [financialjuice] CANADIAN HOUSE STARTS, ANNUALIZED ACTUAL 229.0K (FORECAST 240K, PREVIOUS 229.1K ,REVISION 229.4K) $MACRO
-- 09/16 21:16 [financialjuice] Canadian Housing Starts August Report
 - 09/16 21:24 [FirstSquawk] US WRIGHT: 18M BBL OF OIL WENT THROUGH HORMUZ YESTERDAY
 - 09/16 21:25 [financialjuice] US Energy Secretary Wright: We are looking at using DPA to increase refining capacity.
 - 09/16 21:26 [financialjuice] US Energy Secretary Wright: US oil company to talk Venezuela investment today.
@@ -460,3 +448,17 @@
 - 09/17 08:50 [financialjuice] State Dept: US to extend visa sanctions on PLO members and PA officials
 - 09/17 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL 169.2B (FORECAST -, PREVIOUS -481.6B) $MACRO
 - 09/17 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 2236.2B (FORECAST -, PREVIOUS 449.6B) $MACRO
+- 09/17 09:04 [FirstSquawk] DOLLAR/YEN FALLS 0.21% TO 155.95 IN LATEST TRADE
+- 09/17 09:04 [financialjuice] Dollar/yen slides 0.21% to 155.95
+- 09/17 09:07 [FirstSquawk] TRUMP SAYS IRAN IS NOT READY FOR A DEAL, BUT WAR WITH IRAN WILL END “VERY SOON”
+- 09/17 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.2% TO 8,714 IN EARLY TRADE
+- 09/17 09:08 [financialjuice] Trump: we're very close to an agreement with Mexico
+- 09/17 09:08 [FirstSquawk] TRUMP SAYS US IS “VERY CLOSE” TO A DEAL WITH MEXICO
+- 09/17 09:08 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN $1 TO $101.36/BBL
+- 09/17 09:13 [FirstSquawk] Trump on Iran: Predicts the war will “end very soon” and says his administration has transformed the US from a “dark age” into a “golden age.”
+- 09/17 09:15 [FirstSquawk] Trump expected to meet Gulf leaders in New York next week as Washington weighs its next steps on Iran. The talks, expected on the sidelines of the UN General Assembly, are set to focus on US proposals for a postwar strategy and the broader …
+- 09/17 09:16 [FirstSquawk] European stocks look poised to open modestly higher, as futures for the Euro Stoxx 50, DAX and FTSE each trade about 0.2% higher.
+- 09/17 09:18 [FirstSquawk] 10-year JGB yield moves below 3%, down 0.5bp at 2.99%.
+- 09/17 09:19 [FirstSquawk] The renewed prospect of higher US interest rates is reshaping market positioning, as investors weigh potential beneficiaries of elevated yields and continued inflation pressure - Benzinga
+- 09/17 09:20 [FirstSquawk] Trump: Says Washington and Mexico are nearing a new agreement, calling it a “great deal.”
+- 09/17 09:23 [FirstSquawk] Axios reports the meeting may include a wider group of leaders from Arab and Islamic countries.
