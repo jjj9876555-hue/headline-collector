@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 01:25 JST／対象: 09/17 13:25 〜 09/18 01:25 JST（時刻はすべて日本時間）
+生成: 2026-09-18 01:44 JST／対象: 09/17 13:44 〜 09/18 01:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/17 16:07 | 09/18 00:42 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 155 | 09/17 13:26 | 09/18 01:16 | 29分（16:17→16:47） |
-| financialjuice | 155 | 09/17 13:28 | 09/18 01:00 | 45分（18:03→18:48） |
+| FirstSquawk | 146 | 09/17 13:50 | 09/18 01:32 | 29分（16:17→16:47） |
+| financialjuice | 153 | 09/17 14:08 | 09/18 01:41 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 312 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 301 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 13:26 [FirstSquawk] FT: Extreme heat fuels potato shortages across Europe.
-- 09/17 13:26 [FirstSquawk] FT: DeepMind spin-off approaches a $4 billion valuation barely a month after its creation.
-- 09/17 13:27 [FirstSquawk] Huawei launches 11 new AI-related chips to compete with Nvidia, Intel and AMD.
-- 09/17 13:28 [financialjuice] Japan economy minister Kiuchi to stay in role in cabinet reshuffle, government spokesperson says
-- 09/17 13:29 [FirstSquawk] Japan’s Kiuchi set to stay on as economy minister following the Cabinet reshuffle, government spokesperson says.
-- 09/17 13:30 [FirstSquawk] Katayama to stay on as Japan’s finance minister following the Cabinet reshuffle, government spokesperson says.
-- 09/17 13:30 [financialjuice] DUTCH UNEMPLOYMENT RATE SA ACTUAL 4% (FORECAST -, PREVIOUS 4.0%) $MACRO
-- 09/17 13:30 [financialjuice] Japanese Prime Minister Takaichi to host press briefing at 0930 GMT
-- 09/17 13:30 [FirstSquawk] Japan’s Takaichi set to hold a press conference at 0930 GMT.
-- 09/17 13:31 [FirstSquawk] HSBC lifts its US dollar savings rate by 12.4 bps to 0.125%.
-- 09/17 13:32 [financialjuice] Japan economy minister Kiuchi: aim to balance robust economy with fiscal sustainability
-- 09/17 13:32 [FirstSquawk] Kiuchi: Japan will pursue economic strength while maintaining fiscal sustainability.
-- 09/17 13:33 [financialjuice] Japan economy minister Kiuchi: aims to reassure and completely alleviate market concerns
-- 09/17 13:33 [FirstSquawk] Japan’s Economy Minister Kiuchi: Will communicate to ease concerns in the market.
-- 09/17 13:34 [financialjuice] Japan economy minister Kiuchi: no comment on interest rates
-- 09/17 13:35 [FirstSquawk] Kiuchi says he will not comment on interest-rate policy.
-- 09/17 13:35 [financialjuice] Japan economy minister Kiuchi: won’t pursue reckless fiscal expansion
-- 09/17 13:36 [FirstSquawk] Flood-hit Nepal sees India and China engage in disaster diplomacy.
 - 09/17 13:50 [FirstSquawk] NZD/USD maintains gains above 0.5700 after the GDP-led recovery, with the bearish bias still in place, FXStreet says.
 - 09/17 13:57 [FirstSquawk] Barclays comes under pressure from employees over return-to-office requirements - FT
 - 09/17 13:58 [FirstSquawk] Berenberg increases its SSE target price to 2,980p, up from 2,800p.
@@ -336,3 +318,10 @@
 - 09/18 01:07 [FirstSquawk] US PUSHES FOR 50% STEEL TARIFFS AMONG G20 PARTNERS
 - 09/18 01:10 [FirstSquawk] TANKER REPORTS PURSUIT BY SKIFF 75NM EAST OF ADEN - UKMTO
 - 09/18 01:16 [FirstSquawk] FEDERAL AVIATION ADMINISTRATION APPROVES BOEING REQUEST TO SELL UP TO 35 ADDITIONAL 777F FREIGHTERS -- AGENCY
+- 09/18 01:29 [financialjuice] French PM Lecornu: Targeting 2027 deficit at 5% of GDP
+- 09/18 01:29 [FirstSquawk] RUSSIA CLAIMS TO HAVE STRUCK SHIP AT UKRAINE'S CHORNOMORSK PORT - IFX
+- 09/18 01:29 [financialjuice] French PM Lecornu aims to keep 2026 deficit below 5.5% GDP
+- 09/18 01:30 [financialjuice] French PM Lecornu: Aim to trim one-off tax on big firms to €5 billion
+- 09/18 01:31 [financialjuice] Oil refinery in Russia's Yaroslavl region halts crude processing after a drone attack - sources.
+- 09/18 01:32 [FirstSquawk] STRAIT OF HORMUZ THREAT LEVEL REMAINS SEVERE – UKMTO
+- 09/18 01:41 [financialjuice] French PM Lecornu: We will not raise taxes - Le Figaro

@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 01:25 JST／対象: 09/17 01:25 〜 09/18 01:25 JST（時刻はすべて日本時間）
+生成: 2026-09-18 01:44 JST／対象: 09/17 01:44 〜 09/18 01:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 36 | 09/17 02:22 | 09/18 00:42 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 400 | 09/17 01:31 | 09/18 01:16 | 32分（05:10→05:42） |
-| financialjuice | 321 | 09/17 01:35 | 09/18 01:00 | ⚠ 107分（05:57→07:45） |
+| FirstSquawk | 400 | 09/17 01:48 | 09/18 01:32 | 32分（05:10→05:42） |
+| financialjuice | 325 | 09/17 01:54 | 09/18 01:41 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 741 行（統合前 762 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 745 行（統合前 767 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 01:31 [FirstSquawk] UNION PACIFIC CFO: DIESEL COSTS HAVE RISEN TO ABOUT $5.25-$5.30 A GALLON FROM AN EXPECTED Q3 AVERAGE OF ROUGHLY $4.25 - MORGAN STANLEY CONF
-- 09/17 01:35 [financialjuice] AWS' Desantis: Next Tranium chip to be very differentiated. $AMZN
-- 09/17 01:37 [FirstSquawk] SWEDISH CENTER-LEFT COALITION EXPECTED TO VICTORY IN ELECTIONS, SAYS SVT.
 - 09/17 01:48 [FirstSquawk] HYPERSCALER DEBT SIGNALS WARNING SIGN, APOLLO CAUTIONS - CNBC
 - 09/17 01:54 [financialjuice] Pakistan Foreign Ministry: While Pakistan navy was undertaking biennial exercise, Indian vessel carried out aggressive maneuvers in close proximity.
 - 09/17 02:02 [financialjuice] Iran's Rezai: We do not trust the US in any way.
@@ -765,3 +762,10 @@
 - 09/18 01:07 [FirstSquawk] US PUSHES FOR 50% STEEL TARIFFS AMONG G20 PARTNERS
 - 09/18 01:10 [FirstSquawk] TANKER REPORTS PURSUIT BY SKIFF 75NM EAST OF ADEN - UKMTO
 - 09/18 01:16 [FirstSquawk] FEDERAL AVIATION ADMINISTRATION APPROVES BOEING REQUEST TO SELL UP TO 35 ADDITIONAL 777F FREIGHTERS -- AGENCY
+- 09/18 01:29 [financialjuice] French PM Lecornu: Targeting 2027 deficit at 5% of GDP
+- 09/18 01:29 [FirstSquawk] RUSSIA CLAIMS TO HAVE STRUCK SHIP AT UKRAINE'S CHORNOMORSK PORT - IFX
+- 09/18 01:29 [financialjuice] French PM Lecornu aims to keep 2026 deficit below 5.5% GDP
+- 09/18 01:30 [financialjuice] French PM Lecornu: Aim to trim one-off tax on big firms to €5 billion
+- 09/18 01:31 [financialjuice] Oil refinery in Russia's Yaroslavl region halts crude processing after a drone attack - sources.
+- 09/18 01:32 [FirstSquawk] STRAIT OF HORMUZ THREAT LEVEL REMAINS SEVERE – UKMTO
+- 09/18 01:41 [financialjuice] French PM Lecornu: We will not raise taxes - Le Figaro

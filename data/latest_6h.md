@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 01:25 JST／対象: 09/17 19:25 〜 09/18 01:25 JST（時刻はすべて日本時間）
+生成: 2026-09-18 01:44 JST／対象: 09/17 19:44 〜 09/18 01:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/17 21:58 | 09/18 00:42 | ⚠ 70分（22:31→23:42） |
-| FirstSquawk | 79 | 09/17 19:26 | 09/18 01:16 | 17分（20:29→20:46） |
-| financialjuice | 87 | 09/17 19:29 | 09/18 01:00 | 30分（20:29→21:00） |
+| FirstSquawk | 75 | 09/17 19:45 | 09/18 01:32 | 17分（20:29→20:46） |
+| financialjuice | 87 | 09/17 19:45 | 09/18 01:41 | 30分（20:29→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 167 行（統合前 170 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 163 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 19:26 [FirstSquawk] REHN: ECB RATE HIKE LAST WEEK WAS WARRANTED
-- 09/17 19:29 [financialjuice] ECB's Rehn: ECB rate hike last week was warranted
-- 09/17 19:29 [financialjuice] ECB's Rehn: Inflation outlook is somewhat mixed
-- 09/17 19:35 [FirstSquawk] SENIOR IRANIAN MILITARY OFFICIAL CLAIMED THAT US PRESENCE IN THE MIDDLE EAST HINDERS PEACE AND STABILITY, URGING REGIONAL COUNTRIES TO ENSURE THEIR OWN SECURITY, ACCORDING TO MEHR NEWS AGENCY.
-- 09/17 19:35 [FirstSquawk] MOHAMMAD-TAGHI OSANLOO, DEPUTY OPERATIONS CHIEF OF IRAN'S ARMED FORCES, STATED AT THE XIANGSHAN SECURITY FORUM IN BEIJING THAT REGIONAL COUNTRIES NEED TO ENSURE THEIR OWN SECURITY WITHOUT INTERFERENCE FROM OUTSIDE POWERS.
-- 09/17 19:35 [FirstSquawk] SECURITY CANNOT BE PURCHASED OR IMPORTED, HE STATED, URGING FOR A REGIONAL SECURITY SYSTEM FOCUSED ON NON-AGGRESSION, RESPECT FOR SOVEREIGNTY, AND BUILDING MILITARY CONFIDENCE.
-- 09/17 19:37 [financialjuice] Canada's PM Carney: Of course there will be debate in the Canadian parliament on EU associate membership
-- 09/17 19:39 [financialjuice] Canada's PM Carney: There will be a vote in the Canadian Parliament on the future relationship with the EU
-- 09/17 19:39 [FirstSquawk] CANADA PM CARNEY: THERE WILL BE A VOTE IN CANADIAN PARLIAMENT ON FUTURE RELATIONSHIP WITH EU
-- 09/17 19:41 [financialjuice] Canada's PM Carney: What matters is substance rather than the term used for the relationship with EU
-- 09/17 19:42 [FirstSquawk] CANADA PM CARNEY: OF COURSE THERE WILL BE DEBATE IN CANADIAN PARLIAMENT ON EU ASSOCIATE MEMBERSHIP
 - 09/17 19:45 [financialjuice] Canada PM Carney in reaction to Trump comments: A strong, more resilient Canada would be a more effective partner to the US
 - 09/17 19:45 [FirstSquawk] TURKEY PROPOSES RUSSIA-UKRAINE DEAL TO END BLACK SEA SHIPPING ATTACKS – AFP CITES DIPLOMATIC SOURCE
 - 09/17 19:47 [financialjuice] Canada's PM Carney: Nobody will dictate who we strike agreements with
@@ -191,3 +180,10 @@
 - 09/18 01:07 [FirstSquawk] US PUSHES FOR 50% STEEL TARIFFS AMONG G20 PARTNERS
 - 09/18 01:10 [FirstSquawk] TANKER REPORTS PURSUIT BY SKIFF 75NM EAST OF ADEN - UKMTO
 - 09/18 01:16 [FirstSquawk] FEDERAL AVIATION ADMINISTRATION APPROVES BOEING REQUEST TO SELL UP TO 35 ADDITIONAL 777F FREIGHTERS -- AGENCY
+- 09/18 01:29 [financialjuice] French PM Lecornu: Targeting 2027 deficit at 5% of GDP
+- 09/18 01:29 [FirstSquawk] RUSSIA CLAIMS TO HAVE STRUCK SHIP AT UKRAINE'S CHORNOMORSK PORT - IFX
+- 09/18 01:29 [financialjuice] French PM Lecornu aims to keep 2026 deficit below 5.5% GDP
+- 09/18 01:30 [financialjuice] French PM Lecornu: Aim to trim one-off tax on big firms to €5 billion
+- 09/18 01:31 [financialjuice] Oil refinery in Russia's Yaroslavl region halts crude processing after a drone attack - sources.
+- 09/18 01:32 [FirstSquawk] STRAIT OF HORMUZ THREAT LEVEL REMAINS SEVERE – UKMTO
+- 09/18 01:41 [financialjuice] French PM Lecornu: We will not raise taxes - Le Figaro
