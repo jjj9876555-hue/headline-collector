@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 01:05 JST／対象: 09/17 13:05 〜 09/18 01:05 JST（時刻はすべて日本時間）
+生成: 2026-09-18 01:25 JST／対象: 09/17 13:25 〜 09/18 01:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/17 16:07 | 09/18 00:42 | ⚠ 194分（18:43→21:58） |
-| FirstSquawk | 164 | 09/17 13:05 | 09/18 01:02 | 29分（16:17→16:47） |
-| financialjuice | 164 | 09/17 13:10 | 09/18 01:00 | 45分（18:03→18:48） |
+| FirstSquawk | 155 | 09/17 13:26 | 09/18 01:16 | 29分（16:17→16:47） |
+| financialjuice | 155 | 09/17 13:28 | 09/18 01:00 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 330 行（統合前 334 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 312 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 13:05 [FirstSquawk] Brussels proposes limiting Chinese hybrid vehicle sales to roughly 15% of the EU market, FT reports.
-- 09/17 13:10 [financialjuice] China's Xi issues key directives on advanced manufacturing development - Xinhua
-- 09/17 13:11 [financialjuice] China's President Xi: to boost advanced manufacturing - Xinhua
-- 09/17 13:11 [financialjuice] China's President Xi: coordinate high-quality growth and advanced security - Xinhua
-- 09/17 13:11 [financialjuice] China's president Xi: enhance self-reliance and control of industrial chains - Xinhua
-- 09/17 13:12 [FirstSquawk] Xinhua: Xi stresses the importance of advancing China’s advanced manufacturing development.
-- 09/17 13:12 [FirstSquawk] Xinhua: Xi calls for stronger development of China’s advanced manufacturing sector.
-- 09/17 13:13 [FirstSquawk] HSBC keeps its Hong Kong dollar savings deposit rate unchanged.
-- 09/17 13:13 [FirstSquawk] HSBC leaves its best lending rate in Hong Kong at 5.00%.
-- 09/17 13:13 [FirstSquawk] Xinhua: Xi urges efforts to make China’s industrial chains more independent and controllable.
-- 09/17 13:17 [financialjuice] Strait of Hormuz commodity vessel traffic declines to 3 on Wednesday, well below 10-day average of about 17, shipping data shows
-- 09/17 13:22 [FirstSquawk] India says it has noted the US Congress passage of legislation imposing sanctions on Russia and Iran.
-- 09/17 13:22 [financialjuice] India foreign ministry: India has noted passage of bill sanctioning Russia and Iran in U.S. Congress
-- 09/17 13:22 [financialjuice] India foreign ministry: India remains strongly committed to securing energy supplies for its people
-- 09/17 13:22 [FirstSquawk] India says it remains firmly focused on ensuring energy security for its people.
-- 09/17 13:23 [financialjuice] India foreign ministry: India will maintain approach via diversified sourcing and adapting to changing market dynamics
-- 09/17 13:23 [FirstSquawk] India says it will maintain diversified sourcing while responding to evolving market dynamics.
-- 09/17 13:24 [FirstSquawk] Asian currencies weaken as rising US rates and high oil prices weigh on the region, FT reports.
-- 09/17 13:24 [financialjuice] Japan finance minister Katayama to stay in post in cabinet reshuffle, government spokesperson:
-- 09/17 13:24 [FirstSquawk] Trump’s efforts to sway the Federal Reserve fall short - FT
-- 09/17 13:25 [FirstSquawk] FT: Brussels seeks voluntary limits on China’s car exports.
 - 09/17 13:26 [FirstSquawk] FT: Extreme heat fuels potato shortages across Europe.
 - 09/17 13:26 [FirstSquawk] FT: DeepMind spin-off approaches a $4 billion valuation barely a month after its creation.
 - 09/17 13:27 [FirstSquawk] Huawei launches 11 new AI-related chips to compete with Nvidia, Intel and AMD.
@@ -354,3 +333,6 @@
 - 09/18 00:53 [financialjuice] US weighs antitrust guidance on AI safety - DoJ Official.
 - 09/18 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 6.95% in Sept 17 week, highest since Jan 30, 2025 week, vs 6.76% prior week - Freddie Mac
 - 09/18 01:02 [FirstSquawk] GLENCORE'S IRON ORE PROJECT AT HEAD HILL IS PUT ON HOLD DURING A WORLDWIDE REVIEW.
+- 09/18 01:07 [FirstSquawk] US PUSHES FOR 50% STEEL TARIFFS AMONG G20 PARTNERS
+- 09/18 01:10 [FirstSquawk] TANKER REPORTS PURSUIT BY SKIFF 75NM EAST OF ADEN - UKMTO
+- 09/18 01:16 [FirstSquawk] FEDERAL AVIATION ADMINISTRATION APPROVES BOEING REQUEST TO SELL UP TO 35 ADDITIONAL 777F FREIGHTERS -- AGENCY

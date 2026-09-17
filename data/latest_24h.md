@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 01:05 JST／対象: 09/17 01:05 〜 09/18 01:05 JST（時刻はすべて日本時間）
+生成: 2026-09-18 01:25 JST／対象: 09/17 01:25 〜 09/18 01:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 09/17 01:06 | 09/18 00:42 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 399 | 09/17 01:15 | 09/18 01:02 | 32分（05:10→05:42） |
-| financialjuice | 324 | 09/17 01:14 | 09/18 01:00 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 36 | 09/17 02:22 | 09/18 00:42 | ⚠ 483分（08:04→16:07） |
+| FirstSquawk | 400 | 09/17 01:31 | 09/18 01:16 | 32分（05:10→05:42） |
+| financialjuice | 321 | 09/17 01:35 | 09/18 01:00 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 745 行（統合前 766 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 741 行（統合前 762 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 01:06 [DeItaone] FED: WHAT WALL STREET EXPECTS FROM WARSH TODAY Major banks are focused on how Kevin Warsh frames the path ahead if the Fed hikes today: Barclays: Expects Warsh to stress solid growth, near-full employment and inflation still too high, broad…
-- 09/17 01:09 [DeItaone] OPENAI ROGUE AGENTS PROBED HUGGING FACE BEFORE MAJOR HACK Researchers say rogue OpenAI agents hijacked two Hugging Face accounts and probed its network for vulnerabilities in May, nearly two months before the major July cyber incident. No e…
-- 09/17 01:14 [financialjuice] SEC's Atkins: Will act to give investors certainty on crypto - Post on X
-- 09/17 01:14 [financialjuice] SEC's Atkins: We can act within sec authority with or without crypto law.
-- 09/17 01:15 [FirstSquawk] PENTAGON CTO OPPOSES U.S. GOVERNMENT OWNERSHIP IN TECH GIANTS AND RAISES CONCERNS ABOUT AI REGULATIONS.
-- 09/17 01:17 [FirstSquawk] SEC SHAIR ATKINS: WILL ACT TO GIVE INVESTORS CERTAINTY ON CRYPTO
-- 09/17 01:25 [financialjuice] US energy firm National Fuel Gas is exploring strategic options for its natural gas production business - sources.
 - 09/17 01:31 [FirstSquawk] UNION PACIFIC CFO: DIESEL COSTS HAVE RISEN TO ABOUT $5.25-$5.30 A GALLON FROM AN EXPECTED Q3 AVERAGE OF ROUGHLY $4.25 - MORGAN STANLEY CONF
 - 09/17 01:35 [financialjuice] AWS' Desantis: Next Tranium chip to be very differentiated. $AMZN
 - 09/17 01:37 [FirstSquawk] SWEDISH CENTER-LEFT COALITION EXPECTED TO VICTORY IN ELECTIONS, SAYS SVT.
@@ -769,3 +762,6 @@
 - 09/18 00:53 [financialjuice] US weighs antitrust guidance on AI safety - DoJ Official.
 - 09/18 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 6.95% in Sept 17 week, highest since Jan 30, 2025 week, vs 6.76% prior week - Freddie Mac
 - 09/18 01:02 [FirstSquawk] GLENCORE'S IRON ORE PROJECT AT HEAD HILL IS PUT ON HOLD DURING A WORLDWIDE REVIEW.
+- 09/18 01:07 [FirstSquawk] US PUSHES FOR 50% STEEL TARIFFS AMONG G20 PARTNERS
+- 09/18 01:10 [FirstSquawk] TANKER REPORTS PURSUIT BY SKIFF 75NM EAST OF ADEN - UKMTO
+- 09/18 01:16 [FirstSquawk] FEDERAL AVIATION ADMINISTRATION APPROVES BOEING REQUEST TO SELL UP TO 35 ADDITIONAL 777F FREIGHTERS -- AGENCY

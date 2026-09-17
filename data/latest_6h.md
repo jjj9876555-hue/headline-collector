@@ -7,39 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 01:05 JST／対象: 09/17 19:05 〜 09/18 01:05 JST（時刻はすべて日本時間）
+生成: 2026-09-18 01:25 JST／対象: 09/17 19:25 〜 09/18 01:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/17 21:58 | 09/18 00:42 | ⚠ 70分（22:31→23:42） |
-| FirstSquawk | 81 | 09/17 19:06 | 09/18 01:02 | 17分（20:29→20:46） |
-| financialjuice | 96 | 09/17 19:05 | 09/18 01:00 | 30分（20:29→21:00） |
+| FirstSquawk | 79 | 09/17 19:26 | 09/18 01:16 | 17分（20:29→20:46） |
+| financialjuice | 87 | 09/17 19:29 | 09/18 01:00 | 30分（20:29→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 177 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 167 行（統合前 170 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 19:05 [financialjuice] Canada's PM Carney: Canada and the EU can pool sovereign compute capacities
-- 09/17 19:06 [financialjuice] Canada's PM Carney: Canada and Europe should also explore creating an integrated market for financial services
-- 09/17 19:06 [FirstSquawk] CARNEY STATES NO PLAN FOR A THIRD BLOC TO BECOME A GREAT POWER OPPONENT.
-- 09/17 19:06 [financialjuice] Canada's PM Carney: I am not proposing a third bloc in order to become a great-power rival
-- 09/17 19:08 [financialjuice] ECB's Rehn: Liberal democracies are being tested in many EU economies
-- 09/17 19:09 [financialjuice] ECB's Rehn: Middle-east conflict looks like it will be protracted
-- 09/17 19:09 [financialjuice] Japan's PM Takaichi: Won't rely on deficit-financing bonds to fund food sales tax cut, we have prospects for funding resources
-- 09/17 19:09 [financialjuice] ECB's Rehn: No sign of second-round effects so far
-- 09/17 19:16 [FirstSquawk] EXPLOSIONS HEARD NEAR UKRAINE-POLAND BORDER DURING RUSSIAN DRONE STRIKE, SAYS UKRAINIAN OFFICIAL.
-- 09/17 19:16 [financialjuice] PBOC's Xuan discusses PayPal's China development with executive $PYPL
-- 09/17 19:18 [FirstSquawk] NO DAMAGE TO BORDER CROSSINGS AFTER RUSSIAN DRONE ATTACK IN WESTERN UKRAINE, UKRAINIAN BORDER SERVICE SAYS
-- 09/17 19:19 [financialjuice] ECB's Rehn: Euro-area economy has shown resilience
-- 09/17 19:23 [FirstSquawk/financialjuice] ECB’S REHN: INFLATION OUTLOOK IS SOMEWHAT MIXED
-- 09/17 19:25 [FirstSquawk] BARCLAYS REINSTATES WARNER BROS. DISCOVERY COVERAGE WITH EQUAL WEIGHT RATING; TARGET PRICE $29
 - 09/17 19:26 [FirstSquawk] REHN: ECB RATE HIKE LAST WEEK WAS WARRANTED
 - 09/17 19:29 [financialjuice] ECB's Rehn: ECB rate hike last week was warranted
+- 09/17 19:29 [financialjuice] ECB's Rehn: Inflation outlook is somewhat mixed
 - 09/17 19:35 [FirstSquawk] SENIOR IRANIAN MILITARY OFFICIAL CLAIMED THAT US PRESENCE IN THE MIDDLE EAST HINDERS PEACE AND STABILITY, URGING REGIONAL COUNTRIES TO ENSURE THEIR OWN SECURITY, ACCORDING TO MEHR NEWS AGENCY.
 - 09/17 19:35 [FirstSquawk] MOHAMMAD-TAGHI OSANLOO, DEPUTY OPERATIONS CHIEF OF IRAN'S ARMED FORCES, STATED AT THE XIANGSHAN SECURITY FORUM IN BEIJING THAT REGIONAL COUNTRIES NEED TO ENSURE THEIR OWN SECURITY WITHOUT INTERFERENCE FROM OUTSIDE POWERS.
 - 09/17 19:35 [FirstSquawk] SECURITY CANNOT BE PURCHASED OR IMPORTED, HE STATED, URGING FOR A REGIONAL SECURITY SYSTEM FOCUSED ON NON-AGGRESSION, RESPECT FOR SOVEREIGNTY, AND BUILDING MILITARY CONFIDENCE.
@@ -201,3 +188,6 @@
 - 09/18 00:53 [financialjuice] US weighs antitrust guidance on AI safety - DoJ Official.
 - 09/18 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 6.95% in Sept 17 week, highest since Jan 30, 2025 week, vs 6.76% prior week - Freddie Mac
 - 09/18 01:02 [FirstSquawk] GLENCORE'S IRON ORE PROJECT AT HEAD HILL IS PUT ON HOLD DURING A WORLDWIDE REVIEW.
+- 09/18 01:07 [FirstSquawk] US PUSHES FOR 50% STEEL TARIFFS AMONG G20 PARTNERS
+- 09/18 01:10 [FirstSquawk] TANKER REPORTS PURSUIT BY SKIFF 75NM EAST OF ADEN - UKMTO
+- 09/18 01:16 [FirstSquawk] FEDERAL AVIATION ADMINISTRATION APPROVES BOEING REQUEST TO SELL UP TO 35 ADDITIONAL 777F FREIGHTERS -- AGENCY
