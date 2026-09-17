@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 20:43 JST／対象: 09/17 14:43 〜 09/17 20:43 JST（時刻はすべて日本時間）
+生成: 2026-09-17 20:58 JST／対象: 09/17 14:58 〜 09/17 20:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/17 16:07 | 09/17 18:43 | ⚠ 156分（16:07→18:43） |
-| FirstSquawk | 76 | 09/17 14:49 | 09/17 20:29 | 29分（16:17→16:47） |
+| FirstSquawk | 76 | 09/17 15:03 | 09/17 20:58 | 29分（16:17→16:47） |
 | financialjuice | 91 | 09/17 14:58 | 09/17 20:29 | 45分（18:03→18:48） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 14:49 [FirstSquawk] WSJ: Dollar gains from Fed tightening may not develop into a lasting strengthening trend.
-- 09/17 14:55 [FirstSquawk] Ferrari and Rakuten sign a partnership agreement effective from January 1, 2027.
-- 09/17 14:56 [FirstSquawk] Morgan Stanley forecasts 25 bps of additional Fed tightening in March 2027, while maintaining its call for a December rate hike.
 - 09/17 14:58 [financialjuice] SWISS TRADE BALANCE ACTUAL 3,786M (FORECAST -, PREVIOUS 8,730M ,REVISION 5,742M) $MACRO
 - 09/17 15:03 [FirstSquawk] Switzerland Exports Real (M/M) Aug: -8.6% (prev 10.7%; prevR 11.2%)
 - 09/17 15:03 [FirstSquawk] Switzerland Swiss Watch Exports (Y/Y): 9.1% (prev 9.6%)
@@ -191,3 +188,6 @@
 - 09/17 20:28 [financialjuice] Israel's Prime Minister Netanyahu: We will topple the Iranian regime; it will fall
 - 09/17 20:29 [FirstSquawk] NETANYAHU: WE WILL ELIMINATE HAMAS; HEZBOLLAH WILL FALL TOO
 - 09/17 20:29 [financialjuice] Israel's Prime Minister Netanyahu: We will eliminate Hamas; Hezbollah will fall too
+- 09/17 20:46 [FirstSquawk] COREWEAVE SHARES TURN NEGATIVE, HIT SESSION LOW OF 1.4%
+- 09/17 20:56 [FirstSquawk] SINGAPORE'S ELECTRONICS EXPORTS INCREASED RAPIDLY IN AUGUST DUE TO CONTINUING ADVANCEMENTS IN AI.
+- 09/17 20:58 [FirstSquawk] UK 30-YEAR YIELD FALLS BY 10 BASIS POINTS TO 5.76%, THE BIGGEST DROP SINCE MAY.

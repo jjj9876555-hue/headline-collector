@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-17 20:43 JST／対象: 09/17 08:43 〜 09/17 20:43 JST（時刻はすべて日本時間）
+生成: 2026-09-17 20:58 JST／対象: 09/17 08:58 〜 09/17 20:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/17 16:07 | 09/17 18:43 | ⚠ 156分（16:07→18:43） |
-| FirstSquawk | 202 | 09/17 08:45 | 09/17 20:29 | 29分（16:17→16:47） |
-| financialjuice | 144 | 09/17 08:50 | 09/17 20:29 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 201 | 09/17 09:04 | 09/17 20:58 | 29分（16:17→16:47） |
+| financialjuice | 138 | 09/17 09:04 | 09/17 20:29 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 346 行（統合前 348 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 339 行（統合前 341 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 08:45 [FirstSquawk] US STOCK FUTURES REBOUND: S&P 500 FUTURES +0.3%, NASDAQ FUTURES +0.5%
-- 09/17 08:46 [FirstSquawk] JAPAN MARKETS: NIKKEI FUTURES RISE 1% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.08 POINT
-- 09/17 08:50 [financialjuice] State Dept: US imposing sanctions on Palestinian Authority officials and Palestine Liberation Organization members
-- 09/17 08:50 [FirstSquawk] US SANCTIONS PALESTINIAN AUTHORITY OFFICIALS & PALESTINE LIBERATION ORGANIZATION MEMBERS — STATE DEPARTMENT
-- 09/17 08:50 [financialjuice] JAPANESE FOREIGN BOND INVESTMENT ACTUAL 1,082.9B (FORECAST -, PREVIOUS 111.9B ,REVISION 111.4B) $MACRO
-- 09/17 08:50 [financialjuice] FOREIGN INVESTMENT JAPANESE STOCKS ACTUAL -1,522.8B (FORECAST -, PREVIOUS 690.0B ,REVISION 689.6B) $MACRO
-- 09/17 08:50 [FirstSquawk] US TO EXTEND VISA-BAN SANCTIONS ON PLO MEMBERS & PA OFFICIALS — STATE DEPARTMENT
-- 09/17 08:50 [financialjuice] State Dept: US to extend visa sanctions on PLO members and PA officials
-- 09/17 08:51 [financialjuice] JAPANESE FOREIGN STOCK INVESTMENT ACTUAL 169.2B (FORECAST -, PREVIOUS -481.6B) $MACRO
-- 09/17 08:51 [financialjuice] FOREIGN INVESTMENT JAPANESE BONDS ACTUAL 2236.2B (FORECAST -, PREVIOUS 449.6B) $MACRO
 - 09/17 09:04 [FirstSquawk] DOLLAR/YEN FALLS 0.21% TO 155.95 IN LATEST TRADE
 - 09/17 09:04 [financialjuice] Dollar/yen slides 0.21% to 155.95
 - 09/17 09:07 [FirstSquawk] TRUMP SAYS IRAN IS NOT READY FOR A DEAL, BUT WAR WITH IRAN WILL END “VERY SOON”
@@ -370,3 +360,6 @@
 - 09/17 20:28 [financialjuice] Israel's Prime Minister Netanyahu: We will topple the Iranian regime; it will fall
 - 09/17 20:29 [FirstSquawk] NETANYAHU: WE WILL ELIMINATE HAMAS; HEZBOLLAH WILL FALL TOO
 - 09/17 20:29 [financialjuice] Israel's Prime Minister Netanyahu: We will eliminate Hamas; Hezbollah will fall too
+- 09/17 20:46 [FirstSquawk] COREWEAVE SHARES TURN NEGATIVE, HIT SESSION LOW OF 1.4%
+- 09/17 20:56 [FirstSquawk] SINGAPORE'S ELECTRONICS EXPORTS INCREASED RAPIDLY IN AUGUST DUE TO CONTINUING ADVANCEMENTS IN AI.
+- 09/17 20:58 [FirstSquawk] UK 30-YEAR YIELD FALLS BY 10 BASIS POINTS TO 5.76%, THE BIGGEST DROP SINCE MAY.

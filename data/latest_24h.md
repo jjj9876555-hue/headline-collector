@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-17 20:43 JST／対象: 09/16 20:43 〜 09/17 20:43 JST（時刻はすべて日本時間）
+生成: 2026-09-17 20:58 JST／対象: 09/16 20:58 〜 09/17 20:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 09/16 20:44 | 09/17 18:43 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 406 | 09/16 20:49 | 09/17 20:29 | 32分（05:10→05:42） |
-| financialjuice | 335 | 09/16 20:55 | 09/17 20:29 | ⚠ 107分（05:57→07:45） |
+| DeItaone | 47 | 09/16 21:33 | 09/17 18:43 | ⚠ 483分（08:04→16:07） |
+| FirstSquawk | 408 | 09/16 21:03 | 09/17 20:58 | 32分（05:10→05:42） |
+| financialjuice | 334 | 09/16 21:00 | 09/17 20:29 | ⚠ 107分（05:57→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 774 行（統合前 794 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/16 20:44 [DeItaone] U.S. MORTGAGE PAIN DEEPENS AS RATES NEAR 7% U.S. mortgage applications fell 4.1% last week to their lowest since May 2025, with refinancing applications plunging 8.8%. The 30-year conforming mortgage rate climbed to 6.97%, while jumbo rates…
-- 09/16 20:49 [FirstSquawk] HOUTHI SPOKESPERSON: CLAIMS ATTACK ON ARAMCO FACILITY IN YANBU
-- 09/16 20:55 [financialjuice] German Government spokesperson: We're open to discussing new partnership models between the EU and Canada, but the term 'associate member' needs to be rethought
 - 09/16 21:00 [financialjuice] Secured overnight financing rate 3.64% September 15th vs 3.62% on September 14th
 - 09/16 21:03 [financialjuice] Coreweave brings up a multi-rack NVIDIA Vera Rubin NVL72 cluster $NVDA
 - 09/16 21:03 [FirstSquawk] JAPAN'S DEFENSE MINISTRY INTENDS TO PURCHASE 52,000 DRONES.
@@ -798,3 +795,6 @@
 - 09/17 20:28 [financialjuice] Israel's Prime Minister Netanyahu: We will topple the Iranian regime; it will fall
 - 09/17 20:29 [FirstSquawk] NETANYAHU: WE WILL ELIMINATE HAMAS; HEZBOLLAH WILL FALL TOO
 - 09/17 20:29 [financialjuice] Israel's Prime Minister Netanyahu: We will eliminate Hamas; Hezbollah will fall too
+- 09/17 20:46 [FirstSquawk] COREWEAVE SHARES TURN NEGATIVE, HIT SESSION LOW OF 1.4%
+- 09/17 20:56 [FirstSquawk] SINGAPORE'S ELECTRONICS EXPORTS INCREASED RAPIDLY IN AUGUST DUE TO CONTINUING ADVANCEMENTS IN AI.
+- 09/17 20:58 [FirstSquawk] UK 30-YEAR YIELD FALLS BY 10 BASIS POINTS TO 5.76%, THE BIGGEST DROP SINCE MAY.
