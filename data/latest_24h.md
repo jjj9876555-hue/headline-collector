@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 06:17 JST／対象: 09/17 06:17 〜 09/18 06:17 JST（時刻はすべて日本時間）
+生成: 2026-09-18 06:31 JST／対象: 09/17 06:31 〜 09/18 06:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/17 07:41 | 09/18 02:59 | ⚠ 483分（08:04→16:07） |
-| FirstSquawk | 344 | 09/17 06:28 | 09/18 05:40 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 255 | 09/17 07:45 | 09/18 06:07 | ⚠ 78分（10:31→11:49） |
+| DeItaone | 18 | 09/17 07:41 | 09/18 06:19 | ⚠ 483分（08:04→16:07） |
+| FirstSquawk | 351 | 09/17 06:36 | 09/18 06:24 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 257 | 09/17 07:45 | 09/18 06:20 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 608 行（統合前 622 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 615 行（統合前 632 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 06:28 [FirstSquawk] UK PM BURNHAM WELCOMES CANADA AS FIRST OBSERVER NATION IN GLOBAL COMBAT AIR PROGRAMME (GCAP) THIS SUMMER — DOWNING STREET
-- 09/17 06:28 [FirstSquawk] DOWNING STREET: LEADERS DISCUSS AI OPPORTUNITIES AND RISKS, BACK GOVERNMENT-TECH COOPERATION TO ADDRESS SHARED CONCERNS AND PROTECT ONLINE SAFETY
-- 09/17 06:29 [FirstSquawk] DOWNING STREET: LEADERS DISCUSS STRENGTHENING DEFENCE COOPERATION, INCLUDING MULTILATERAL DEFENCE MECHANISM AND DSRB
 - 09/17 06:36 [FirstSquawk] BRAZIL’S CENTRAL BANK CUT ITS BENCHMARK INTEREST RATE BY 25 BASIS POINTS TO 13.75%, WITH THE DECISION UNANIMOUS AND IN LINE WITH THE REUTERS POLL.
 - 09/17 06:36 [FirstSquawk] BRAZIL'S CENTRAL BANK SAID INFLATION RISKS REMAIN HIGHER THAN USUAL WITH AN UPWARD BIAS, WHILE IT CONTINUES TO MONITOR LONGER-TERM INFLATION EXPECTATIONS AND MAINTAIN APPROPRIATELY RESTRICTIVE MONETARY POLICY.
 - 09/17 06:36 [FirstSquawk] BRAZIL’S CENTRAL BANK SAYS ECONOMIC ACTIVITY IS SHOWING A GRADUAL MODERATION, PARTICULARLY IN CYCLICAL SECTORS, ALTHOUGH ACTIVITY REMAINS RESILIENT AND THE LABOR MARKET REMAINS TIGHT.
@@ -627,8 +624,18 @@
 - 09/18 05:55 [financialjuice] Qualcomm's CEO will attend Trump's state dinner with China’s President Xi. $QCOM
 - 09/18 06:00 [financialjuice] S. KOREAN PPI YOY ACTUAL 7.9% (FORECAST -, PREVIOUS 7.7%) $MACRO
 - 09/18 06:00 [financialjuice] S. KOREAN PPI MOM ACTUAL 0.2% (FORECAST -, PREVIOUS -0.4%) $MACRO
-- 09/18 06:02 [financialjuice] Healey to urge Brussels to include UK in 'made in Europe' policy: FT
-- 09/18 06:03 [financialjuice] British finance minister will on Friday signal to EU counterparts that London is open to negotiate a ‘reset’ deal - FT
-- 09/18 06:06 [financialjuice] North Korea's Kim Yo Jong: U.S.-led multinational exercises are primary cause of rising tensions on Korean peninsula
+- 09/18 06:02 [financialjuice/FirstSquawk] Healey to urge Brussels to include UK in 'made in Europe' policy: FT
+- 09/18 06:03 [financialjuice/FirstSquawk] British finance minister will on Friday signal to EU counterparts that London is open to negotiate a ‘reset’ deal - FT
+- 09/18 06:06 [financialjuice/FirstSquawk] North Korea's Kim Yo Jong: U.S.-led multinational exercises are primary cause of rising tensions on Korean peninsula
 - 09/18 06:07 [financialjuice] North Korea’s Kim Yo Jong: no shift in strategy to bolster nuclear war deterrence
 - 09/18 06:07 [financialjuice] North Korea's Kim Yo Jong: armed forces to deploy all options if military sovereignty and security interests are seriously threatened
+- 09/18 06:19 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 6:30 PM ET Thu. — 🇯🇵 Japan CPI ~10:30–11:30 PM ET Thu. — 🇯🇵 BOJ Rate Decision 2:00 AM ET — 🇬🇧 UK Retail Sales 2:30 AM ET — 🎙️ BOJ Governor Ueda 9:15 AM ET — 🇺🇸 Industrial Production 9:30 AM ET — 🏦 Fed V…
+- 09/18 06:19 [financialjuice] Iran's IRGC navy: targeted Togo-flagged oil tanker after it attempted illegal passage through Hormuz Strait - Iran's Fars
+- 09/18 06:20 [FirstSquawk] QUALCOMM CEO TO ATTEND TRUMP-XI STATE DINNER, SIGNALING HIGH-LEVEL US-CHINA TECH ENGAGEMENT
+- 09/18 06:20 [financialjuice] Iran's IRGC navy reports oil tanker fire - Fars
+- 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG SAYS US-LED MULTINATIONAL MILITARY EXERCISES ARE THE PRIMARY CAUSE OF RISING KOREAN PENINSULA TENSIONS
+- 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG SAYS NO SHIFT IN STRATEGY TO STRENGTHEN NUCLEAR WAR DETERRENCE
+- 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG WARNS ARMED FORCES WILL USE “ALL OPTIONS” IF MILITARY SOVEREIGNTY OR SECURITY INTERESTS ARE SERIOUSLY THREATENED
+- 09/18 06:22 [FirstSquawk] IRAN’S IRGC NAVY SAYS IT TARGETED TOGO-FLAGGED OIL TANKER AFTER ALLEGED “ILLEGAL” HORMUZ TRANSIT; TANKER CAUGHT FIRE — FARS
+- 09/18 06:23 [FirstSquawk] US ENERGY DEPARTMENT AUTHORIZES PJM TO DIRECT BACKUP GENERATION RESOURCES AMID HEAT-DRIVEN BLACKOUT RISKS, SECURING MID-ATLANTIC GRID SEPT. 17-18
+- 09/18 06:24 [FirstSquawk] DISNEY URGES US JUDGE TO BLOCK FCC EARLY LICENSE REVIEWS, CITING PRESIDENT TRUMP’S “ONGOING THREATS” — FILING
