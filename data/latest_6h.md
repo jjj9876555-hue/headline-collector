@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-17 16:45 JST／対象: 09/17 10:45 〜 09/17 16:45 JST（時刻はすべて日本時間）
+生成: 2026-09-17 16:59 JST／対象: 09/17 10:59 〜 09/17 16:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/17 16:07 | 09/17 16:07 | - |
-| FirstSquawk | 86 | 09/17 10:47 | 09/17 16:17 | 19分（15:58→16:17） |
-| financialjuice | 40 | 09/17 11:49 | 09/17 16:35 | 38分（14:20→14:58） |
+| FirstSquawk | 92 | 09/17 11:02 | 09/17 16:54 | 29分（16:17→16:47） |
+| financialjuice | 43 | 09/17 11:49 | 09/17 16:48 | 38分（14:20→14:58） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 127 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 136 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 10:47 [FirstSquawk] WSJ: Oil declines amid expectations that efforts to contain the Middle East supply disruption could ease pressure on crude markets.
-- 09/17 10:56 [FirstSquawk] WSJ: States are waiting for Covid vaccines for children, with the CDC yet to begin the ordering process, raising concerns over rollout delays.
 - 09/17 11:02 [FirstSquawk] China’s gold industry stocks slide 5%.
 - 09/17 11:10 [FirstSquawk] Takaichi to unveil a reshuffled Cabinet, with major ministers expected to keep their positions.
 - 09/17 11:20 [FirstSquawk] Rising temperatures and melting glaciers likely contributed to the Nepal glacier collapse, scientists say.
@@ -151,3 +149,14 @@
 - 09/17 16:19 [financialjuice] Kazakhstan's oil output seen at 96 mln tons in 2028, 99 million tons in 2029 - IFX
 - 09/17 16:26 [financialjuice] Azerbaijan oil output falls 8.3% y/y to 2.2m tons in August - IFX
 - 09/17 16:35 [financialjuice] Huawei faces constraints in expanding production for AI chips.
+- 09/17 16:47 [FirstSquawk] ECB'S MAKHLOUF SAYS THERE ARE NO SIGNS OF WORRYING SECOND-ROUND EFFECTS.
+- 09/17 16:47 [FirstSquawk] ECB'S MAKHLOUF SAYS FUTURE PROSPECTS ARE UNCERTAIN.
+- 09/17 16:47 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE ATTACKED RUSSIA'S YAROSLAVL REFINERY.
+- 09/17 16:47 [financialjuice] ECB's Makhlouf: Not seeing sign of concerning 2nd-round effects.
+- 09/17 16:47 [financialjuice] ECB's Makhlouf: Risks to inflation remain on upside.
+- 09/17 16:48 [financialjuice] ECB's Makhlouf: Can't rule out anything at future meetings.
+- 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF SAYS INFLATION RISKS STILL FAVOR HIGHER LEVELS.
+- 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF STATED THAT EVERY MEETING IS CONSIDERED A LIVE MEETING DUE TO UNCERTAINTIES.
+- 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF SAYS NOTHING IS OFF THE TABLE FOR FUTURE MEETINGS.
+- 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF SAYS MARKETS RECOGNIZE OUR FOCUS ON 2% INFLATION TARGET.
+- 09/17 16:54 [FirstSquawk] MAKHLOUF SAYS ECB SHOULD STICK TO 2% MEDIUM-TERM GOAL.
