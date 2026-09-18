@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 21:39 JST／対象: 09/18 09:39 〜 09/18 21:39 JST（時刻はすべて日本時間）
+生成: 2026-09-18 21:54 JST／対象: 09/18 09:54 〜 09/18 21:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 205 | 09/18 09:40 | 09/18 21:15 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 158 | 09/18 09:40 | 09/18 21:31 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 202 | 09/18 09:58 | 09/18 21:41 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 155 | 09/18 10:00 | 09/18 21:31 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 366 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 360 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 09:40 [financialjuice] RBA Governor Bullock: decline in housing prices isn't that significant overall
-- 09/18 09:40 [FirstSquawk] RBA Governor Bullock says housing price decline is not significant overall
-- 09/18 09:45 [financialjuice] RBA Governor Bullock: considering if policy is tight enough
-- 09/18 09:45 [FirstSquawk] Bullock: RBA is thinking about whether policy settings are tight enough
-- 09/18 09:49 [FirstSquawk] Oil declines amid easing concerns over Middle East supply disruptions - WSJ
-- 09/18 09:52 [FirstSquawk] Lebanon’s army commander discusses priorities and requirements for roadmap implementation
-- 09/18 09:53 [FirstSquawk] RBA’s Bullock: Consensus is that the neutral interest rate is now higher
-- 09/18 09:53 [financialjuice] RBA Governor Bullock: broad agreement that neutral interest rate has increased
 - 09/18 09:58 [FirstSquawk] Asia-Pacific markets start firmer, taking cues from Wall Street and easing oil prices
 - 09/18 10:00 [financialjuice] Taiwan overnight interbank rate begins at 0.805% versus previous session open at 0.805%
 - 09/18 10:01 [FirstSquawk] Taiwan overnight rate opens steady at 0.805%
@@ -390,3 +382,5 @@
 - 09/18 21:26 [financialjuice] Putin envoy and far-right AfD prepare talks to get Russian gas back for Germany - Sources.
 - 09/18 21:27 [financialjuice] Putin adviser Kirill Dmitriev and AfD leaders Alice Weidel and Tino Chrupalla are reportedly preparing for a meeting as early as March next year to discuss restarting Russian gas supplies to Germany. The talks would only go ahead if a Russi…
 - 09/18 21:31 [financialjuice] Anthropic plans to have 5GW worth of compute by year end - NYT.
+- 09/18 21:41 [FirstSquawk] EU'S KALLAS DISCUSSED WITH SAUDI FOREIGN MINISTER ON EFFORTS TO STOP FIGHTING IN YEMEN AND ENSURE SAFE NAVIGATION IN THE STRAIT OF HORMUZ.
+- 09/18 21:41 [FirstSquawk] KALLAS HAS INCREASED THE ALERT STATUS OF ITS VESSELS DUE TO OPERATION ASPIDES.
