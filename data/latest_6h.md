@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 10:44 JST／対象: 09/18 04:44 〜 09/18 10:44 JST（時刻はすべて日本時間）
+生成: 2026-09-18 10:58 JST／対象: 09/18 04:58 〜 09/18 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/18 06:19 | 09/18 06:19 | - |
-| FirstSquawk | 82 | 09/18 04:58 | 09/18 10:44 | 39分（05:40→06:20） |
-| financialjuice | 53 | 09/18 04:51 | 09/18 10:28 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 85 | 09/18 05:00 | 09/18 10:55 | 39分（05:40→06:20） |
+| financialjuice | 53 | 09/18 05:01 | 09/18 10:50 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 132 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 136 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 3057.3 MLN NASDAQ 100: 1454.0 MLN DOW 30: 1387.4 MLN MAG 7: 928.8 MLN $MACRO
-- 09/18 04:51 [financialjuice/FirstSquawk] Israel's Prime Minister Netanyahu at campaign launch: We must complete the mission to the very end, and topple the Iranian regime - N12 News.
 - 09/18 05:00 [FirstSquawk] DOW JONES CLOSES 0.66% HIGHER AT 51,801.54, UP 339.64 POINTS
 - 09/18 05:01 [financialjuice] There are no confirmed reports of an explosion in the vicinity of Kharg Island at the specified time - Irib news.
 - 09/18 05:02 [FirstSquawk] NASDAQ SURGES 1.76% TO 26,434.77, UP 456.34 POINTS S&P 500 CLOSES 1.16% HIGHER AT 7,639.31, UP 87.50 POINTS DOW JONES CLOSES 0.66% HIGHER AT 51,801.54, UP 339.64 POINTS
@@ -156,3 +154,9 @@
 - 09/18 10:36 [FirstSquawk] Alibaba’s Hong Kong-listed shares climb 3%
 - 09/18 10:39 [FirstSquawk] China’s most-active coking coal contract drops 6.02% to 1,515.5 yuan/metric ton
 - 09/18 10:44 [FirstSquawk] Thailand should boost investment in front-end chip manufacturing, industry body says
+- 09/18 10:48 [financialjuice] S. Korea President Lee: to establish distinct economic and political capitals
+- 09/18 10:49 [FirstSquawk] South Korea’s President Lee: Government aims to establish separate economic and political capitals
+- 09/18 10:50 [FirstSquawk] South Korea’s President Lee: Says he has no plans to seek another term
+- 09/18 10:50 [financialjuice] S.Korea President Lee: never contemplated pursuing another term
+- 09/18 10:51 [FirstSquawk] 20-year JGB yield slips to 3.79%, down 4.5 bps
+- 09/18 10:55 [FirstSquawk] BOJ set for rate hike at two-day meeting amid rising inflation risks

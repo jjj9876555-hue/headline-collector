@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 10:44 JST／対象: 09/17 10:44 〜 09/18 10:44 JST（時刻はすべて日本時間）
+生成: 2026-09-18 10:58 JST／対象: 09/17 10:58 〜 09/18 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 316 | 09/17 10:47 | 09/18 10:44 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 263 | 09/17 11:49 | 09/18 10:28 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 318 | 09/17 11:02 | 09/18 10:55 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 265 | 09/17 11:49 | 09/18 10:50 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 580 行（統合前 597 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 584 行（統合前 601 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 10:47 [FirstSquawk] WSJ: Oil declines amid expectations that efforts to contain the Middle East supply disruption could ease pressure on crude markets.
-- 09/17 10:56 [FirstSquawk] WSJ: States are waiting for Covid vaccines for children, with the CDC yet to begin the ordering process, raising concerns over rollout delays.
 - 09/17 11:02 [FirstSquawk] China’s gold industry stocks slide 5%.
 - 09/17 11:10 [FirstSquawk] Takaichi to unveil a reshuffled Cabinet, with major ministers expected to keep their positions.
 - 09/17 11:20 [FirstSquawk] Rising temperatures and melting glaciers likely contributed to the Nepal glacier collapse, scientists say.
@@ -604,3 +602,9 @@
 - 09/18 10:36 [FirstSquawk] Alibaba’s Hong Kong-listed shares climb 3%
 - 09/18 10:39 [FirstSquawk] China’s most-active coking coal contract drops 6.02% to 1,515.5 yuan/metric ton
 - 09/18 10:44 [FirstSquawk] Thailand should boost investment in front-end chip manufacturing, industry body says
+- 09/18 10:48 [financialjuice] S. Korea President Lee: to establish distinct economic and political capitals
+- 09/18 10:49 [FirstSquawk] South Korea’s President Lee: Government aims to establish separate economic and political capitals
+- 09/18 10:50 [FirstSquawk] South Korea’s President Lee: Says he has no plans to seek another term
+- 09/18 10:50 [financialjuice] S.Korea President Lee: never contemplated pursuing another term
+- 09/18 10:51 [FirstSquawk] 20-year JGB yield slips to 3.79%, down 4.5 bps
+- 09/18 10:55 [FirstSquawk] BOJ set for rate hike at two-day meeting amid rising inflation risks
