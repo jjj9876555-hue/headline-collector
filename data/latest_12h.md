@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 11:17 JST／対象: 09/17 23:17 〜 09/18 11:17 JST（時刻はすべて日本時間）
+生成: 2026-09-18 11:34 JST／対象: 09/17 23:34 〜 09/18 11:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/17 23:42 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 146 | 09/17 23:31 | 09/18 11:13 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 118 | 09/17 23:17 | 09/18 11:16 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 152 | 09/17 23:44 | 09/18 11:32 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 116 | 09/17 23:47 | 09/18 11:18 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 264 行（統合前 278 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 268 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 23:17 [financialjuice] Crypto Fear & Greed Index: 50/100 - Neutral
-- 09/17 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 44B (FORECAST 48B, PREVIOUS 40B) $MACRO
-- 09/17 23:31 [FirstSquawk] EIA SAYS US NATURAL-GAS STOCKPILES ROSE 44 BCF LAST WEEK
-- 09/17 23:31 [financialjuice] EIA Weekly Natural Gas Report
-- 09/17 23:31 [FirstSquawk] EIA: US NATURAL-GAS STOCKPILES ROSE 44 BCF LAST WEEK
 - 09/17 23:42 [DeItaone] CHINA, U.S. PREPARE FOR XI-TRUMP SUMMIT Chinese Foreign Minister Wang Yi held talks with Marco Rubio ahead of the Xi-Trump summit scheduled for September 24, calling for stronger communication, cooperation and management of differences. The…
 - 09/17 23:44 [FirstSquawk] AN EXPLOSION HAS OCCURRED IN THE STRAIT OF HORMUZ JUST NOW.
 - 09/17 23:47 [financialjuice] French PM sees budgetary effort of around €54b for 2027 - Le Figaro
@@ -288,3 +283,12 @@
 - 09/18 11:15 [financialjuice] S.Korea president Lee: Trump seeks talks with N.Korea
 - 09/18 11:16 [financialjuice] S.Korea President Lee: Trump-Kim talks tough but not impossible
 - 09/18 11:16 [financialjuice] S.Korea President Lee: S.Korea has role in any US-N.Korea negotiations
+- 09/18 11:18 [financialjuice] China's offshore yuan hits strongest level since July 2022
+- 09/18 11:24 [FirstSquawk] South Korea President Lee: US-North Korea talks would be important for the Korean Peninsula
+- 09/18 11:24 [FirstSquawk] President Lee: Cannot confirm whether Trump-Kim talks will take place
+- 09/18 11:24 [FirstSquawk] South Korea’s President Lee: Trump is seeking talks with North Korea
+- 09/18 11:25 [FirstSquawk] South Korea President Lee: Trump-Kim talks may be difficult, but cannot be ruled out
+- 09/18 11:25 [FirstSquawk] South Korea President Lee: South Korea will have a role in any US-North Korea talks
+- 09/18 11:25 [FirstSquawk] Offshore yuan reaches strongest level since July 2022
+- 09/18 11:29 [FirstSquawk] Waymo to begin robotaxi operations in Singapore in 2028
+- 09/18 11:32 [FirstSquawk] Tokyo weighs ordinance banning littering as downtown waste concerns grow

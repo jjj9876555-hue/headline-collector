@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 11:17 JST／対象: 09/18 05:17 〜 09/18 11:17 JST（時刻はすべて日本時間）
+生成: 2026-09-18 11:34 JST／対象: 09/18 05:34 〜 09/18 11:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/18 06:19 | 09/18 06:19 | - |
-| FirstSquawk | 86 | 09/18 05:40 | 09/18 11:13 | 39分（05:40→06:20） |
-| financialjuice | 61 | 09/18 05:55 | 09/18 11:16 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 94 | 09/18 05:40 | 09/18 11:32 | 39分（05:40→06:20） |
+| financialjuice | 62 | 09/18 05:55 | 09/18 11:18 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 145 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 154 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -169,3 +169,12 @@
 - 09/18 11:15 [financialjuice] S.Korea president Lee: Trump seeks talks with N.Korea
 - 09/18 11:16 [financialjuice] S.Korea President Lee: Trump-Kim talks tough but not impossible
 - 09/18 11:16 [financialjuice] S.Korea President Lee: S.Korea has role in any US-N.Korea negotiations
+- 09/18 11:18 [financialjuice] China's offshore yuan hits strongest level since July 2022
+- 09/18 11:24 [FirstSquawk] South Korea President Lee: US-North Korea talks would be important for the Korean Peninsula
+- 09/18 11:24 [FirstSquawk] President Lee: Cannot confirm whether Trump-Kim talks will take place
+- 09/18 11:24 [FirstSquawk] South Korea’s President Lee: Trump is seeking talks with North Korea
+- 09/18 11:25 [FirstSquawk] South Korea President Lee: Trump-Kim talks may be difficult, but cannot be ruled out
+- 09/18 11:25 [FirstSquawk] South Korea President Lee: South Korea will have a role in any US-North Korea talks
+- 09/18 11:25 [FirstSquawk] Offshore yuan reaches strongest level since July 2022
+- 09/18 11:29 [FirstSquawk] Waymo to begin robotaxi operations in Singapore in 2028
+- 09/18 11:32 [FirstSquawk] Tokyo weighs ordinance banning littering as downtown waste concerns grow
