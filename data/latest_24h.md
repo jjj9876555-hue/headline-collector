@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 14:01 JST／対象: 09/17 14:01 〜 09/18 14:01 JST（時刻はすべて日本時間）
+生成: 2026-09-18 14:18 JST／対象: 09/17 14:18 〜 09/18 14:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 332 | 09/17 14:03 | 09/18 14:01 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 310 | 09/17 14:08 | 09/18 14:01 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 332 | 09/17 14:20 | 09/18 14:16 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 309 | 09/17 14:20 | 09/18 14:01 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 643 行（統合前 660 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 642 行（統合前 659 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 14:03 [FirstSquawk] Volvo Car: Spending on its technology stack and manufacturing is set to fall from current levels.
-- 09/17 14:08 [financialjuice] Iranian foreign minister, Pakistan army chief discuss recent regional developments in phone call during Aragchi's Beijing visit on Wednesday: Iranian MI
-- 09/17 14:10 [FirstSquawk] RIA: Russia’s Defence Ministry says its forces targeted vessels used by the Ukrainian military.
 - 09/17 14:20 [financialjuice] Micron CEO: Micron to test and assemble hundreds of MLN chips in India next year
 - 09/17 14:20 [FirstSquawk] India’s market regulator is reviewing broker concerns regarding fees charged on UPI transactions.
 - 09/17 14:29 [FirstSquawk] Japanese Prime Minister Takaichi makes limited changes in her first Cabinet reshuffle.
@@ -667,3 +664,5 @@
 - 09/18 14:00 [financialjuice] Sterling/yen gbpjpy rises 0.82% to 209.93 yen
 - 09/18 14:01 [financialjuice] Russia also strikes postal logistics hub near Ukraine's Odesa: Russian news agencies cite defense ministry
 - 09/18 14:01 [FirstSquawk] Russian forces target a postal logistics centre around Odesa in Ukraine, Russian agencies say, citing the Defence Ministry.
+- 09/18 14:09 [FirstSquawk] North Korean leader Kim Jong Un’s sister condemns U.S. military exercises in the Pacific, threatening a “more offensive” retaliation, BFM reports.
+- 09/18 14:16 [FirstSquawk] Japan’s central bank pushes interest rates to their highest point in three decades, CNBC reports.

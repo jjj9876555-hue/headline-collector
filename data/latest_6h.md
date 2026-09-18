@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 14:01 JST／対象: 09/18 08:01 〜 09/18 14:01 JST（時刻はすべて日本時間）
+生成: 2026-09-18 14:18 JST／対象: 09/18 08:18 〜 09/18 14:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 131 | 09/18 08:01 | 09/18 14:01 | 20分（08:06→08:26） |
-| financialjuice | 105 | 09/18 08:10 | 09/18 14:01 | ⚠ 52分（13:07→14:00） |
+| FirstSquawk | 131 | 09/18 08:26 | 09/18 14:16 | 17分（08:31→08:49） |
+| financialjuice | 104 | 09/18 08:30 | 09/18 14:01 | ⚠ 52分（13:07→14:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 236 行（統合前 236 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 235 行（統合前 235 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 08:01 [FirstSquawk] JANA PARTNERS PUSHES COOPER COS. TO REPLACE CEO AND CONSIDER SALE OF CORE BUSINESSES — WSJ
-- 09/18 08:06 [FirstSquawk] WORLD BANK BOARD DISCUSSES NEW COUNTRY PARTNERSHIP FRAMEWORK FOR THAILAND, COVERING FY2027–FY2032
-- 09/18 08:10 [financialjuice] Asus and Poesis collaborate on self-driving trading agents powered by Nvidia technology
 - 09/18 08:26 [FirstSquawk] ASUS, POESIS PARTNER ON AUTONOMOUS TRADING AGENTS POWERED BY NVIDIA TECHNOLOGIES
 - 09/18 08:30 [financialjuice] ❗ JAPANESE CORE CPI NATIONWIDE YOY ACTUAL 1.7% (FORECAST 1.8%, PREVIOUS 1.8%) $MACRO
 - 09/18 08:30 [financialjuice] ‼ BREAKING: JAPANESE CPI OVERALL NATIONWIDE ACTUAL 1.9% (FORECAST 2%, PREVIOUS 1.9%) $MACRO
@@ -260,3 +257,5 @@
 - 09/18 14:00 [financialjuice] Sterling/yen gbpjpy rises 0.82% to 209.93 yen
 - 09/18 14:01 [financialjuice] Russia also strikes postal logistics hub near Ukraine's Odesa: Russian news agencies cite defense ministry
 - 09/18 14:01 [FirstSquawk] Russian forces target a postal logistics centre around Odesa in Ukraine, Russian agencies say, citing the Defence Ministry.
+- 09/18 14:09 [FirstSquawk] North Korean leader Kim Jong Un’s sister condemns U.S. military exercises in the Pacific, threatening a “more offensive” retaliation, BFM reports.
+- 09/18 14:16 [FirstSquawk] Japan’s central bank pushes interest rates to their highest point in three decades, CNBC reports.
