@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 20:16 JST／対象: 09/18 08:16 〜 09/18 20:16 JST（時刻はすべて日本時間）
+生成: 2026-09-18 20:32 JST／対象: 09/18 08:32 〜 09/18 20:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/18 18:11 | 09/18 19:08 | 43分（18:11→18:54） |
-| FirstSquawk | 233 | 09/18 08:26 | 09/18 20:07 | 42分（17:10→17:53） |
-| financialjuice | 167 | 09/18 08:30 | 09/18 20:06 | ⚠ 52分（13:07→14:00） |
+| DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
+| FirstSquawk | 231 | 09/18 08:49 | 09/18 20:07 | 42分（17:10→17:53） |
+| financialjuice | 162 | 09/18 08:36 | 09/18 20:06 | ⚠ 52分（13:07→14:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 402 行（統合前 403 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 396 行（統合前 397 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 08:26 [FirstSquawk] ASUS, POESIS PARTNER ON AUTONOMOUS TRADING AGENTS POWERED BY NVIDIA TECHNOLOGIES
-- 09/18 08:30 [financialjuice] ❗ JAPANESE CORE CPI NATIONWIDE YOY ACTUAL 1.7% (FORECAST 1.8%, PREVIOUS 1.8%) $MACRO
-- 09/18 08:30 [financialjuice] ‼ BREAKING: JAPANESE CPI OVERALL NATIONWIDE ACTUAL 1.9% (FORECAST 2%, PREVIOUS 1.9%) $MACRO
-- 09/18 08:30 [financialjuice] Japan August nationwide core CPI rises 1.7% year on year, government says (Poll: +1.8%)
-- 09/18 08:30 [financialjuice] Japan August nationwide core-core CPI excluding fresh food and energy prices rises 1.9% yr/yr: govt
-- 09/18 08:30 [financialjuice] Japan August nationwide overall CPI rises 1.9% year on year: govt
-- 09/18 08:31 [FirstSquawk] JAPAN'S AUGUST NATIONWIDE CPI ROSE 1.9% YEAR-ON-YEAR, JUST BELOW THE 2.0% ESTIMATE, WITH CPI EX-FRESH FOOD UP 1.7% VERSUS 1.8% EXPECTED AND CPI EX-FRESH FOOD AND ENERGY UP 1.9%
 - 09/18 08:36 [financialjuice] RBA Governor Bullock: various indicators indicate labor market conditions stay near, but slightly tighter than, full employment
 - 09/18 08:36 [financialjuice] RBA Governor Bullock: at August board meeting, risks to outlook were skewed to the upside
 - 09/18 08:36 [financialjuice] RBA Governor Bullock: developments since then indicate that while growth in the Australian economy is slowing, some upside risks to inflation seem to be materializing
@@ -426,3 +419,4 @@
 - 09/18 20:03 [financialjuice] ECB's President Lagarde: Nothing to report on possible departure from ECB.
 - 09/18 20:06 [financialjuice] ❗ Saudis tell Europe oil refiners they’ll get no crude next month.
 - 09/18 20:07 [FirstSquawk] SAUDI ARABIA INFORMS EUROPEAN OIL REFINERS THEY WILL NOT RECEIVE ANY CRUDE OIL NEXT MONTH.
+- 09/18 20:26 [DeItaone] SAUDI ARAMCO CUTS EUROPEAN OIL ALLOCATIONS Saudi Aramco has reportedly told European customers they will receive no crude allocations next month, extending supply disruptions caused by the attack on the East-West pipeline. The halt has alre…

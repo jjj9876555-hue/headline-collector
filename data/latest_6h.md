@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 20:16 JST／対象: 09/18 14:16 〜 09/18 20:16 JST（時刻はすべて日本時間）
+生成: 2026-09-18 20:32 JST／対象: 09/18 14:32 〜 09/18 20:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/18 18:11 | 09/18 19:08 | 43分（18:11→18:54） |
-| FirstSquawk | 102 | 09/18 14:24 | 09/18 20:07 | 42分（17:10→17:53） |
-| financialjuice | 63 | 09/18 14:22 | 09/18 20:06 | 42分（17:18→18:00） |
+| DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
+| FirstSquawk | 100 | 09/18 14:40 | 09/18 20:07 | 42分（17:10→17:53） |
+| financialjuice | 58 | 09/18 14:44 | 09/18 20:06 | 42分（17:18→18:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 167 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 161 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 14:22 [financialjuice] Japan on track to secure enough oil for November - Refiners
-- 09/18 14:24 [FirstSquawk] FT reports that Europe may boost equity trading by creating fewer but more effective markets.
-- 09/18 14:31 [financialjuice] ECB's Vujcic: Market pricing of rate path is mainly consequence of rising energy prices.
-- 09/18 14:31 [financialjuice] ECB's Vujcic: If inflation remains high through autumn and affects consumers, that will dampen GDP.
-- 09/18 14:31 [financialjuice] ECB's Vujcic: We do not look solely at energy prices, but at much broader set of data.
-- 09/18 14:31 [financialjuice] ECB's Vujcic: Reserve requirements allow ECB to sterilise some excess liquidity in simple, inexpensive way.
-- 09/18 14:31 [FirstSquawk] The benchmark China coking coal contract slides 6.9% to CNY 1,500.5 per metric ton, falling to a level not seen since August 18.
 - 09/18 14:40 [FirstSquawk] Anew Labs, spun out of ByteDance, raises $290 million amid a surge in funding for AI-focused drug developers, according to SCMP.
 - 09/18 14:43 [FirstSquawk] Flight operations at Lublin and Rzeszow airports have been temporarily suspended by Poland’s air traffic authority.
 - 09/18 14:44 [financialjuice] SK Hynix's Solidigm weighs first US NAND flash plant - Yonhap
@@ -191,3 +184,4 @@
 - 09/18 20:03 [financialjuice] ECB's President Lagarde: Nothing to report on possible departure from ECB.
 - 09/18 20:06 [financialjuice] ❗ Saudis tell Europe oil refiners they’ll get no crude next month.
 - 09/18 20:07 [FirstSquawk] SAUDI ARABIA INFORMS EUROPEAN OIL REFINERS THEY WILL NOT RECEIVE ANY CRUDE OIL NEXT MONTH.
+- 09/18 20:26 [DeItaone] SAUDI ARAMCO CUTS EUROPEAN OIL ALLOCATIONS Saudi Aramco has reportedly told European customers they will receive no crude allocations next month, extending supply disruptions caused by the attack on the East-West pipeline. The halt has alre…

@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 20:16 JST／対象: 09/17 20:16 〜 09/18 20:16 JST（時刻はすべて日本時間）
+生成: 2026-09-18 20:32 JST／対象: 09/17 20:32 〜 09/18 20:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/17 21:58 | 09/18 19:08 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 359 | 09/17 20:24 | 09/18 20:07 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 283 | 09/17 20:26 | 09/18 20:06 | ⚠ 60分（06:44→07:45） |
+| DeItaone | 14 | 09/17 21:58 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
+| FirstSquawk | 354 | 09/17 20:46 | 09/18 20:07 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 280 | 09/17 21:00 | 09/18 20:06 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 645 行（統合前 661 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 638 行（統合前 654 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 20:24 [FirstSquawk] NOVO SIGNS DRUG PARTNERSHIP WITH ORBIS WORTH UP TO $1.4 BILLION - BBG
-- 09/17 20:26 [FirstSquawk] ECB'S REHN: CAN SAY WE WERE IN A GOOD PLACE ON INFLATION GIVEN LATEST SHOCKS, SIGNALS SITUATION NOT THE SAME NOW
-- 09/17 20:26 [financialjuice] ECB's Rehn: Can say we were in a good place on inflation given the latest shocks, signals situation not the same now
-- 09/17 20:26 [FirstSquawk] COREWEAVE PROPOSES $3B CONVERTIBLE SENIOR NOTES OFFERING
-- 09/17 20:28 [FirstSquawk] NETANYAHU STATES THAT THE IRANIAN REGIME WILL BE OVERTHROWN AND IS BOUND TO FALL.
-- 09/17 20:28 [financialjuice] Israel's Prime Minister Netanyahu: We will topple the Iranian regime; it will fall
-- 09/17 20:29 [FirstSquawk] NETANYAHU: WE WILL ELIMINATE HAMAS; HEZBOLLAH WILL FALL TOO
-- 09/17 20:29 [financialjuice] Israel's Prime Minister Netanyahu: We will eliminate Hamas; Hezbollah will fall too
 - 09/17 20:46 [FirstSquawk] COREWEAVE SHARES TURN NEGATIVE, HIT SESSION LOW OF 1.4%
 - 09/17 20:56 [FirstSquawk] SINGAPORE'S ELECTRONICS EXPORTS INCREASED RAPIDLY IN AUGUST DUE TO CONTINUING ADVANCEMENTS IN AI.
 - 09/17 20:58 [FirstSquawk] UK 30-YEAR YIELD FALLS BY 10 BASIS POINTS TO 5.76%, THE BIGGEST DROP SINCE MAY.
@@ -669,3 +661,4 @@
 - 09/18 20:03 [financialjuice] ECB's President Lagarde: Nothing to report on possible departure from ECB.
 - 09/18 20:06 [financialjuice] ❗ Saudis tell Europe oil refiners they’ll get no crude next month.
 - 09/18 20:07 [FirstSquawk] SAUDI ARABIA INFORMS EUROPEAN OIL REFINERS THEY WILL NOT RECEIVE ANY CRUDE OIL NEXT MONTH.
+- 09/18 20:26 [DeItaone] SAUDI ARAMCO CUTS EUROPEAN OIL ALLOCATIONS Saudi Aramco has reportedly told European customers they will receive no crude allocations next month, extending supply disruptions caused by the attack on the East-West pipeline. The halt has alre…
