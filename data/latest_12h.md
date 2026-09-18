@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 14:46 JST／対象: 09/18 02:46 〜 09/18 14:46 JST（時刻はすべて日本時間）
+生成: 2026-09-18 14:58 JST／対象: 09/18 02:58 〜 09/18 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/18 02:53 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 176 | 09/18 02:51 | 09/18 14:43 | ⚠ 51分（03:49→04:40） |
+| DeItaone | 2 | 09/18 02:59 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
+| FirstSquawk | 174 | 09/18 03:05 | 09/18 14:47 | ⚠ 51分（03:49→04:40） |
 | financialjuice | 143 | 09/18 03:04 | 09/18 14:44 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 318 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 314 行（統合前 320 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 02:51 [FirstSquawk] U.S. SHALE PRODUCER HIGHPEAK ENERGY IS EXPLORING A SALE AFTER RECEIVING TAKEOVER INTEREST, SOURCES SAY
-- 09/18 02:53 [DeItaone] FED’S NEXT MOVE: OCTOBER HIKE IN PLAY Goldman Sachs now expects another 25bp Fed hike in October, joining ANZ, BofA, RBC and TD Securities after September’s hawkish meeting. Markets remain split: Kalshi prices a 53% chance of a hold vs. 48%…
-- 09/18 02:53 [FirstSquawk] SENEGAL PLANS TO USE DOMESTIC NATURAL GAS TO LOWER ELECTRICITY COSTS, THE ENERGY MINISTER TELLS REUTERS, ADDING THAT IT WILL MAKE ENERGY SUBSIDIES MORE TARGETED WITH A FOCUS ON THE MOST VULNERABLE HOUSEHOLDS.
-- 09/18 02:53 [FirstSquawk] SENEGAL IS OPEN TO WORKING WITH NEW INTERNATIONAL PARTNERS TO HELP DEVELOP ITS ENERGY RESOURCES AND WILL EXPORT GAS WHILE SUPPORTING DOMESTIC NEEDS, THE MINISTER SAYS.
-- 09/18 02:55 [DeItaone] BITCOIN COULD GET MORE SUPPORT THAN GOLD JPMorgan says Bitcoin could benefit more than gold if ETF hedging demand eases. Short interest in IBIT remains near yearly highs, while its put-to-call ratio is also higher than GLD’s — signaling hea…
 - 09/18 02:59 [DeItaone] ALTMAN AND HUANG SET TO JOIN XI AT WHITE HOUSE DINNER OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang are planning to attend a White House state dinner next week with Chinese President Xi Jinping. The gathering puts two of the biggest nam…
 - 09/18 03:04 [financialjuice] OpenAI and Microsoft knew of AI threats to news industry. $MSFT
 - 09/18 03:05 [FirstSquawk] OPENAI AND MICROSOFT KNEW OF AI THREATS TO NEWS INDUSTRY.
@@ -342,3 +337,4 @@
 - 09/18 14:40 [FirstSquawk] Anew Labs, spun out of ByteDance, raises $290 million amid a surge in funding for AI-focused drug developers, according to SCMP.
 - 09/18 14:43 [FirstSquawk] Flight operations at Lublin and Rzeszow airports have been temporarily suspended by Poland’s air traffic authority.
 - 09/18 14:44 [financialjuice] SK Hynix's Solidigm weighs first US NAND flash plant - Yonhap
+- 09/18 14:47 [FirstSquawk] Morgan Stanley raises its target for Next PLC to 17,000p, up from 16,800p.

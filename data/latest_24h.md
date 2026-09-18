@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 14:46 JST／対象: 09/17 14:46 〜 09/18 14:46 JST（時刻はすべて日本時間）
+生成: 2026-09-18 14:58 JST／対象: 09/17 14:58 〜 09/18 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 332 | 09/17 14:49 | 09/18 14:43 | ⚠ 51分（03:49→04:40） |
+| FirstSquawk | 330 | 09/17 15:03 | 09/18 14:47 | ⚠ 51分（03:49→04:40） |
 | financialjuice | 314 | 09/17 14:58 | 09/18 14:44 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 647 行（統合前 664 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 645 行（統合前 662 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 14:49 [FirstSquawk] WSJ: Dollar gains from Fed tightening may not develop into a lasting strengthening trend.
-- 09/17 14:55 [FirstSquawk] Ferrari and Rakuten sign a partnership agreement effective from January 1, 2027.
-- 09/17 14:56 [FirstSquawk] Morgan Stanley forecasts 25 bps of additional Fed tightening in March 2027, while maintaining its call for a December rate hike.
 - 09/17 14:58 [financialjuice] SWISS TRADE BALANCE ACTUAL 3,786M (FORECAST -, PREVIOUS 8,730M ,REVISION 5,742M) $MACRO
 - 09/17 15:03 [FirstSquawk] Switzerland Exports Real (M/M) Aug: -8.6% (prev 10.7%; prevR 11.2%)
 - 09/17 15:03 [FirstSquawk] Switzerland Swiss Watch Exports (Y/Y): 9.1% (prev 9.6%)
@@ -671,3 +668,4 @@
 - 09/18 14:40 [FirstSquawk] Anew Labs, spun out of ByteDance, raises $290 million amid a surge in funding for AI-focused drug developers, according to SCMP.
 - 09/18 14:43 [FirstSquawk] Flight operations at Lublin and Rzeszow airports have been temporarily suspended by Poland’s air traffic authority.
 - 09/18 14:44 [financialjuice] SK Hynix's Solidigm weighs first US NAND flash plant - Yonhap
+- 09/18 14:47 [FirstSquawk] Morgan Stanley raises its target for Next PLC to 17,000p, up from 16,800p.
