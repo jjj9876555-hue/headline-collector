@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 12:51 JST／対象: 09/18 00:51 〜 09/18 12:51 JST（時刻はすべて日本時間）
+生成: 2026-09-18 13:03 JST／対象: 09/18 01:03 〜 09/18 13:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/18 02:10 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 183 | 09/18 01:02 | 09/18 12:49 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 153 | 09/18 00:51 | 09/18 12:12 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 184 | 09/18 01:07 | 09/18 13:01 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 151 | 09/18 01:29 | 09/18 13:02 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 335 行（統合前 348 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 334 行（統合前 347 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 00:51 [financialjuice] ECB's Zigman: There’s a lot of optimism for growth.
-- 09/18 00:51 [financialjuice] ECB's Zigman: Market bets don't determine the ECB’s next steps.
-- 09/18 00:53 [financialjuice] US weighs antitrust guidance on AI safety - DoJ Official.
-- 09/18 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 6.95% in Sept 17 week, highest since Jan 30, 2025 week, vs 6.76% prior week - Freddie Mac
-- 09/18 01:02 [FirstSquawk] GLENCORE'S IRON ORE PROJECT AT HEAD HILL IS PUT ON HOLD DURING A WORLDWIDE REVIEW.
 - 09/18 01:07 [FirstSquawk] US PUSHES FOR 50% STEEL TARIFFS AMONG G20 PARTNERS
 - 09/18 01:10 [FirstSquawk] TANKER REPORTS PURSUIT BY SKIFF 75NM EAST OF ADEN - UKMTO
 - 09/18 01:16 [FirstSquawk] FEDERAL AVIATION ADMINISTRATION APPROVES BOEING REQUEST TO SELL UP TO 35 ADDITIONAL 777F FREIGHTERS -- AGENCY
@@ -359,3 +354,7 @@
 - 09/18 12:29 [FirstSquawk] Nikkei 225 futures strengthen further, trading 1.67% higher.
 - 09/18 12:40 [FirstSquawk] Indonesia Deputy FinMin: The government plans to retain its 200 trillion rupiah cash placement at state lenders until July 2027.
 - 09/18 12:49 [FirstSquawk] Japan’s 10-year JGB yield narrows its decline to 1.5bp, last standing at 2.975%.
+- 09/18 12:53 [FirstSquawk] Indonesia Finance Ministry official: Authorities will closely manage the supply impact of bond issuance to preserve current yield levels.
+- 09/18 13:01 [FirstSquawk] Benchmark 20-year Japanese government bond yield rises 1.5bp to 3.850%.
+- 09/18 13:02 [financialjuice] Pakistan army chief urges Iran to rein in Houthis: FT
+- 09/18 13:02 [financialjuice] Venezuela nears deal to transfer $4bn gold reserve to New York: FT

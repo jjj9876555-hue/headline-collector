@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 12:51 JST／対象: 09/17 12:51 〜 09/18 12:51 JST（時刻はすべて日本時間）
+生成: 2026-09-18 13:03 JST／対象: 09/17 13:03 〜 09/18 13:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 349 | 09/17 12:53 | 09/18 12:49 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 316 | 09/17 13:02 | 09/18 12:12 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 349 | 09/17 13:03 | 09/18 13:01 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 316 | 09/17 13:04 | 09/18 13:02 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 666 行（統合前 683 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 12:53 [FirstSquawk] Macquarie sees two more 25-bps Fed rate hikes, one in December and another in Q1 2027.
-- 09/17 13:02 [financialjuice] EU asks China to voluntarily curb car exports - FT
-- 09/17 13:02 [financialjuice] EU urges China to voluntarily limit hybrid car exports to avoid trade war: FT
-- 09/17 13:02 [FirstSquawk] EU calls on China to voluntarily restrict automobile exports, FT reports.
 - 09/17 13:03 [FirstSquawk] EU urges China to voluntarily curb hybrid vehicle exports under a proposed deal aimed at preventing a trade war, FT reports.
 - 09/17 13:04 [financialjuice] Brussels urges Beijing to limit Chinese hybrid vehicle sales to about 15% of EU market - FT
 - 09/17 13:05 [FirstSquawk] Brussels proposes limiting Chinese hybrid vehicle sales to roughly 15% of the EU market, FT reports.
@@ -690,3 +686,7 @@
 - 09/18 12:29 [FirstSquawk] Nikkei 225 futures strengthen further, trading 1.67% higher.
 - 09/18 12:40 [FirstSquawk] Indonesia Deputy FinMin: The government plans to retain its 200 trillion rupiah cash placement at state lenders until July 2027.
 - 09/18 12:49 [FirstSquawk] Japan’s 10-year JGB yield narrows its decline to 1.5bp, last standing at 2.975%.
+- 09/18 12:53 [FirstSquawk] Indonesia Finance Ministry official: Authorities will closely manage the supply impact of bond issuance to preserve current yield levels.
+- 09/18 13:01 [FirstSquawk] Benchmark 20-year Japanese government bond yield rises 1.5bp to 3.850%.
+- 09/18 13:02 [financialjuice] Pakistan army chief urges Iran to rein in Houthis: FT
+- 09/18 13:02 [financialjuice] Venezuela nears deal to transfer $4bn gold reserve to New York: FT
