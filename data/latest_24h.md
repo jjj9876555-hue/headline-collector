@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 02:52 JST／対象: 09/18 02:52 〜 09/19 02:52 JST（時刻はすべて日本時間）
+生成: 2026-09-19 03:05 JST／対象: 09/18 03:05 〜 09/19 03:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/18 02:53 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 344 | 09/18 02:53 | 09/19 02:46 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 260 | 09/18 03:04 | 09/19 02:40 | ⚠ 60分（06:44→07:45） |
+| DeItaone | 5 | 09/18 06:19 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
+| FirstSquawk | 345 | 09/18 03:21 | 09/19 02:58 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 261 | 09/18 03:13 | 09/19 02:52 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 603 行（統合前 616 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 602 行（統合前 615 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 02:53 [DeItaone] FED’S NEXT MOVE: OCTOBER HIKE IN PLAY Goldman Sachs now expects another 25bp Fed hike in October, joining ANZ, BofA, RBC and TD Securities after September’s hawkish meeting. Markets remain split: Kalshi prices a 53% chance of a hold vs. 48%…
-- 09/18 02:53 [FirstSquawk] SENEGAL PLANS TO USE DOMESTIC NATURAL GAS TO LOWER ELECTRICITY COSTS, THE ENERGY MINISTER TELLS REUTERS, ADDING THAT IT WILL MAKE ENERGY SUBSIDIES MORE TARGETED WITH A FOCUS ON THE MOST VULNERABLE HOUSEHOLDS.
-- 09/18 02:53 [FirstSquawk] SENEGAL IS OPEN TO WORKING WITH NEW INTERNATIONAL PARTNERS TO HELP DEVELOP ITS ENERGY RESOURCES AND WILL EXPORT GAS WHILE SUPPORTING DOMESTIC NEEDS, THE MINISTER SAYS.
-- 09/18 02:55 [DeItaone] BITCOIN COULD GET MORE SUPPORT THAN GOLD JPMorgan says Bitcoin could benefit more than gold if ETF hedging demand eases. Short interest in IBIT remains near yearly highs, while its put-to-call ratio is also higher than GLD’s — signaling hea…
-- 09/18 02:59 [DeItaone] ALTMAN AND HUANG SET TO JOIN XI AT WHITE HOUSE DINNER OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang are planning to attend a White House state dinner next week with Chinese President Xi Jinping. The gathering puts two of the biggest nam…
-- 09/18 03:04 [financialjuice] OpenAI and Microsoft knew of AI threats to news industry. $MSFT
-- 09/18 03:05 [FirstSquawk] OPENAI AND MICROSOFT KNEW OF AI THREATS TO NEWS INDUSTRY.
 - 09/18 03:13 [financialjuice] Trump and Mexico's President Sheinbaum are close to a trade agreement - Politico.
 - 09/18 03:21 [FirstSquawk] EU’S VON DER LEYEN SAYS EU WILL DISBURSE ANOTHER €3.3B TO UKRAINE FOR MISSILE & DRONE PROCUREMENT TOMORROW
 - 09/18 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $101.91 a barrel, down 52 cents, 0.51%.
@@ -627,3 +620,9 @@
 - 09/19 02:41 [FirstSquawk] IRAN'S GHALIBAF: US MILITARY 'NIGHTMARE' OF BEING HUNTED IS REALITY
 - 09/19 02:46 [FirstSquawk] SAUDI EXPORTS THROUGH THE BAB EL-MANDEB STRAIT CONTINUE TO SUFFER, WITH WEEKLY TRAFFIC SINCE THE START OF AUGUST AT UNDER A THIRD OF THIS YEAR'S SEVEN-DAY AVERAGE, DATA SHOWS.
 - 09/19 02:46 [FirstSquawk] TRAFFIC THROUGH BAB BAB EL-MANDEB HAS BEEN DISRUPTED FOLLOWING RECENT HOUTHI GAINS ON THE RED SEA COAST, HITTING SAUDI EXPORTS PARTICULARLY HARD.
+- 09/19 02:52 [financialjuice] Pakistan Interior Minister Mohsen Naqvi could visit Tehran this week - Mehr News citing reliable source
+- 09/19 02:52 [financialjuice] Trump expected to sign the Russia sanctions bill today - CNN
+- 09/19 02:55 [FirstSquawk] TRUMP’S AI WHISPERER DAVID SACKS TO ATTEND THE STATE DINNER WITH XI JINPING - NBC
+- 09/19 02:56 [FirstSquawk] LILLY'S COMBO DOUBLES PFS VS INLURIYO ALONE IN ESR1+ MBC || LILLY'S INLURIYO GETS SECOND FDA OK IN UNDER A YEAR
+- 09/19 02:56 [FirstSquawk] NVIDIA’S JENSEN HUANG, APPLE’S TIM COOK AND OPENAI’S SAM ALTMAN TO ATTEND TRUMP CHINA XI STATE DINNER
+- 09/19 02:58 [FirstSquawk] PAKISTAN'S INTERIOR MINISTER IS EXPECTED TO VISIT IRAN THIS WEEK, ACCORDING TO MEHR.

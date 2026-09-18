@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 02:52 JST／対象: 09/18 20:52 〜 09/19 02:52 JST（時刻はすべて日本時間）
+生成: 2026-09-19 03:05 JST／対象: 09/18 21:05 〜 09/19 03:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 71 | 09/18 21:09 | 09/19 02:46 | 31分（22:36→23:07） |
-| financialjuice | 60 | 09/18 21:00 | 09/19 02:40 | 38分（02:01→02:40） |
+| FirstSquawk | 75 | 09/18 21:09 | 09/19 02:58 | 31分（22:36→23:07） |
+| financialjuice | 58 | 09/18 21:16 | 09/19 02:52 | 38分（02:01→02:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 128 行（統合前 134 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 130 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 21:00 [financialjuice] Secured Overnight Financing Rate 3.85% September 17 vs 3.62% September 16.
-- 09/18 21:00 [financialjuice] Morning Juice – US Session Prep (17th September)
-- 09/18 21:01 [financialjuice] France's Pres. Macron: France was targeted by Russian hybrid attacks in the past few weeks.
-- 09/18 21:01 [financialjuice] Morning Juice – US Session Prep (18th September)
 - 09/18 21:09 [FirstSquawk] S&P 500 FUTURES CANCEL EARLIER PROFITS AND TRADE EVEN.
 - 09/18 21:15 [FirstSquawk] FRANCE'S PRESIDENT MACRON REVEALED THAT RUSSIA CARRIED OUT HYBRID ATTACKS ON FRANCE IN RECENT WEEKS.
 - 09/18 21:16 [financialjuice] France's Pres. Macron: We will convene a G7 meeting on energy.
@@ -152,3 +148,9 @@
 - 09/19 02:41 [FirstSquawk] IRAN'S GHALIBAF: US MILITARY 'NIGHTMARE' OF BEING HUNTED IS REALITY
 - 09/19 02:46 [FirstSquawk] SAUDI EXPORTS THROUGH THE BAB EL-MANDEB STRAIT CONTINUE TO SUFFER, WITH WEEKLY TRAFFIC SINCE THE START OF AUGUST AT UNDER A THIRD OF THIS YEAR'S SEVEN-DAY AVERAGE, DATA SHOWS.
 - 09/19 02:46 [FirstSquawk] TRAFFIC THROUGH BAB BAB EL-MANDEB HAS BEEN DISRUPTED FOLLOWING RECENT HOUTHI GAINS ON THE RED SEA COAST, HITTING SAUDI EXPORTS PARTICULARLY HARD.
+- 09/19 02:52 [financialjuice] Pakistan Interior Minister Mohsen Naqvi could visit Tehran this week - Mehr News citing reliable source
+- 09/19 02:52 [financialjuice] Trump expected to sign the Russia sanctions bill today - CNN
+- 09/19 02:55 [FirstSquawk] TRUMP’S AI WHISPERER DAVID SACKS TO ATTEND THE STATE DINNER WITH XI JINPING - NBC
+- 09/19 02:56 [FirstSquawk] LILLY'S COMBO DOUBLES PFS VS INLURIYO ALONE IN ESR1+ MBC || LILLY'S INLURIYO GETS SECOND FDA OK IN UNDER A YEAR
+- 09/19 02:56 [FirstSquawk] NVIDIA’S JENSEN HUANG, APPLE’S TIM COOK AND OPENAI’S SAM ALTMAN TO ATTEND TRUMP CHINA XI STATE DINNER
+- 09/19 02:58 [FirstSquawk] PAKISTAN'S INTERIOR MINISTER IS EXPECTED TO VISIT IRAN THIS WEEK, ACCORDING TO MEHR.

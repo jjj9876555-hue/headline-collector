@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 02:52 JST／対象: 09/18 14:52 〜 09/19 02:52 JST（時刻はすべて日本時間）
+生成: 2026-09-19 03:05 JST／対象: 09/18 15:05 〜 09/19 03:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 168 | 09/18 15:01 | 09/19 02:46 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 117 | 09/18 15:00 | 09/19 02:40 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 163 | 09/18 15:15 | 09/19 02:58 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 112 | 09/18 15:15 | 09/19 02:52 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 285 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 275 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 15:00 [financialjuice] UK CORE RETAIL SALES YOY ACTUAL 2.7% (FORECAST 1.9%, PREVIOUS 2.3%) $MACRO
-- 09/18 15:00 [financialjuice] ‼ BREAKING: UK RETAIL SALES MOM ACTUAL 0.5% (FORECAST -0.2%, PREVIOUS -0.5%) $MACRO
-- 09/18 15:00 [financialjuice] ❗ UK RETAIL SALES YOY ACTUAL 2.4% (FORECAST 1.9%, PREVIOUS 1.6%) $MACRO
-- 09/18 15:00 [financialjuice] ❗ UK CORE RETAIL SALES MOM ACTUAL 0.6% (FORECAST -0.2%, PREVIOUS -0.9%) $MACRO
-- 09/18 15:00 [financialjuice] GERMAN PPI MOM ACTUAL 1.1% (FORECAST 0.6%, PREVIOUS 1.1%) $MACRO
-- 09/18 15:00 [financialjuice] GERMAN PPI YOY ACTUAL 4.6% (FORECAST 3.9%, PREVIOUS 3.0%) $MACRO
-- 09/18 15:01 [FirstSquawk] GERMANY (AUG) PPI MOM ACTUAL: 1.1% VS 1.1% PREVIOUS;EST 0.6%
-- 09/18 15:01 [FirstSquawk] GERMANY (AUG) PPI YOY ACTUAL: 4.6% vs 3% previous;est 3.9%
-- 09/18 15:01 [FirstSquawk] UK (AUG) Retail Sales Inc Auto Fuel MoM actual: 0.5% vs -0.5% previous;est -0.2%
-- 09/18 15:01 [FirstSquawk] UK (AUG) Retail Sales Inc Auto Fuel yoy actual: 2.4% VS 1.6% PREVIOUS;EST 1.9%
-- 09/18 15:01 [FirstSquawk] UK (AUG) Retail Sales Ex Auto Fuel MoM ACTUAL: 0.6% vs 0.9% previous;est 0.2%
-- 09/18 15:01 [FirstSquawk] UK (AUG) Retail Sales Ex Auto Fuel YOY actual: 2.7% vs 2.3% previous;est 1.9%
-- 09/18 15:02 [FirstSquawk] SK Hynix establishes “SK Hynix Ventures” in Silicon Valley to broaden its investment in the global AI ecosystem.
-- 09/18 15:02 [financialjuice] Westpac brings forward RBA rate-hike call to September from November.
-- 09/18 15:03 [FirstSquawk] TotalEnergies reaches a deal with GIP on its African energy infrastructure portfolio.
-- 09/18 15:05 [FirstSquawk] China’s Coast Guard says enforcement activities were legally carried out around Sabina Shoal to protect its rights.
 - 09/18 15:15 [FirstSquawk] Kiuchi says the BOJ is expected to maintain suitable monetary policy aimed at achieving its inflation target in a stable and sustainable manner, in close cooperation with the government.
 - 09/18 15:15 [financialjuice] Japan Economy Minister Kiuchi: Expect BoJ to conduct appropriate monetary policy to sustainably, stably hit its price target, while working closely with government.
 - 09/18 15:16 [FirstSquawk] Japan’s Economy Minister Kiuchi says the BOJ has the authority to decide how monetary policy is implemented.
@@ -309,3 +293,9 @@
 - 09/19 02:41 [FirstSquawk] IRAN'S GHALIBAF: US MILITARY 'NIGHTMARE' OF BEING HUNTED IS REALITY
 - 09/19 02:46 [FirstSquawk] SAUDI EXPORTS THROUGH THE BAB EL-MANDEB STRAIT CONTINUE TO SUFFER, WITH WEEKLY TRAFFIC SINCE THE START OF AUGUST AT UNDER A THIRD OF THIS YEAR'S SEVEN-DAY AVERAGE, DATA SHOWS.
 - 09/19 02:46 [FirstSquawk] TRAFFIC THROUGH BAB BAB EL-MANDEB HAS BEEN DISRUPTED FOLLOWING RECENT HOUTHI GAINS ON THE RED SEA COAST, HITTING SAUDI EXPORTS PARTICULARLY HARD.
+- 09/19 02:52 [financialjuice] Pakistan Interior Minister Mohsen Naqvi could visit Tehran this week - Mehr News citing reliable source
+- 09/19 02:52 [financialjuice] Trump expected to sign the Russia sanctions bill today - CNN
+- 09/19 02:55 [FirstSquawk] TRUMP’S AI WHISPERER DAVID SACKS TO ATTEND THE STATE DINNER WITH XI JINPING - NBC
+- 09/19 02:56 [FirstSquawk] LILLY'S COMBO DOUBLES PFS VS INLURIYO ALONE IN ESR1+ MBC || LILLY'S INLURIYO GETS SECOND FDA OK IN UNDER A YEAR
+- 09/19 02:56 [FirstSquawk] NVIDIA’S JENSEN HUANG, APPLE’S TIM COOK AND OPENAI’S SAM ALTMAN TO ATTEND TRUMP CHINA XI STATE DINNER
+- 09/19 02:58 [FirstSquawk] PAKISTAN'S INTERIOR MINISTER IS EXPECTED TO VISIT IRAN THIS WEEK, ACCORDING TO MEHR.
