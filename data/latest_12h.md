@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 19:17 JST／対象: 09/18 07:17 〜 09/18 19:17 JST（時刻はすべて日本時間）
+生成: 2026-09-18 19:33 JST／対象: 09/18 07:33 〜 09/18 19:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/18 18:11 | 09/18 19:08 | 43分（18:11→18:54） |
-| FirstSquawk | 219 | 09/18 07:20 | 09/18 19:14 | 42分（17:10→17:53） |
-| financialjuice | 165 | 09/18 07:45 | 09/18 18:46 | ⚠ 52分（13:07→14:00） |
+| FirstSquawk | 218 | 09/18 07:36 | 09/18 19:17 | 42分（17:10→17:53） |
+| financialjuice | 166 | 09/18 07:45 | 09/18 19:18 | ⚠ 52分（13:07→14:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 386 行（統合前 387 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 07:20 [FirstSquawk] ZENITH MINERALS’ TAKEOVER OFFER REMAINS OPEN FOR ACCEPTANCES, WITH THE TAKEOVERS PANEL ISSUING ORDERS REGARDING MATTERS INVOLVING FORRESTANIA RESOURCES. || THE ORDERS DO NOT PREVENT FORRESTANIA RESOURCES FROM PROCEEDING WITH ITS TAKEOVER OF…
-- 09/18 07:23 [FirstSquawk] JPMORGAN, CIBC WIN MANDATE TO ADVISE CARNEY GOVERNMENT ON SALE OF CANADA AIRPORT CONCESSIONS
 - 09/18 07:36 [FirstSquawk] U.S. APPROVES VISAS FOR IRANIAN PRESIDENT MASOUD PEZESHKIAN, FOREIGN MINISTER ABBAS ARAGHCHI AND OTHER OFFICIALS TO ATTEND NEXT WEEK’S UN GENERAL ASSEMBLY IN NEW YORK, DESPITE THE ONGOING SIX-MONTH WAR, WITH THE DELEGATION FACING TRAVEL RES…
 - 09/18 07:44 [FirstSquawk] JEDDAH WARNING SIRENS SOUND; FLIGHTS AT JEDDAH AIRPORT HALTED AS PROJECTILE REPORTEDLY FIRED AT JEDDAH — TASNIMNEWS
 - 09/18 07:45 [financialjuice] NEW ZEALAND TRADE BALANCE ACTUAL -1349M (FORECAST -, PREVIOUS -1,949.0M) $MACRO
@@ -410,3 +408,5 @@
 - 09/18 19:01 [FirstSquawk] BERKSHIRE HAS APPOINTED WARREN BUFFETT AS CHAIRMAN EMERITUS.
 - 09/18 19:08 [DeItaone] ANTHROPIC BUILDS BIOLOGY LAB TO PUSH AI INTO DRUG DEVELOPMENT Anthropic has quietly established a Bay Area wet lab, moving its life-sciences ambitions beyond computer simulations and into physical biological experiments. The company wants C…
 - 09/18 19:14 [FirstSquawk] RUSSIAN MILITARY STRIKES CARGO SHIP IN ODESA, ACCORDING TO DEFENSE MINISTRY.
+- 09/18 19:17 [FirstSquawk] EU SPOKESPERSON ANNOUNCED AN EU-CANADA SUMMIT AT THE END OF OCTOBER TO DISCUSS IMPROVING RELATIONS.
+- 09/18 19:18 [financialjuice] EU Spokesperson: At end of October EU-Canada summit will take place where we explore parameters for enhancing relationship.

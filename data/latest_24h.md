@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 19:17 JST／対象: 09/17 19:17 〜 09/18 19:17 JST（時刻はすべて日本時間）
+生成: 2026-09-18 19:33 JST／対象: 09/17 19:33 〜 09/18 19:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 13 | 09/17 21:58 | 09/18 19:08 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 357 | 09/17 19:18 | 09/18 19:14 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 304 | 09/17 19:19 | 09/18 18:46 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 354 | 09/17 19:35 | 09/18 19:17 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 302 | 09/17 19:37 | 09/18 19:18 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 662 行（統合前 680 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 658 行（統合前 675 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 19:18 [FirstSquawk] NO DAMAGE TO BORDER CROSSINGS AFTER RUSSIAN DRONE ATTACK IN WESTERN UKRAINE, UKRAINIAN BORDER SERVICE SAYS
-- 09/17 19:19 [financialjuice] ECB's Rehn: Euro-area economy has shown resilience
-- 09/17 19:23 [FirstSquawk/financialjuice] ECB’S REHN: INFLATION OUTLOOK IS SOMEWHAT MIXED
-- 09/17 19:25 [FirstSquawk] BARCLAYS REINSTATES WARNER BROS. DISCOVERY COVERAGE WITH EQUAL WEIGHT RATING; TARGET PRICE $29
-- 09/17 19:26 [FirstSquawk] REHN: ECB RATE HIKE LAST WEEK WAS WARRANTED
-- 09/17 19:29 [financialjuice] ECB's Rehn: ECB rate hike last week was warranted
 - 09/17 19:35 [FirstSquawk] SENIOR IRANIAN MILITARY OFFICIAL CLAIMED THAT US PRESENCE IN THE MIDDLE EAST HINDERS PEACE AND STABILITY, URGING REGIONAL COUNTRIES TO ENSURE THEIR OWN SECURITY, ACCORDING TO MEHR NEWS AGENCY.
 - 09/17 19:35 [FirstSquawk] MOHAMMAD-TAGHI OSANLOO, DEPUTY OPERATIONS CHIEF OF IRAN'S ARMED FORCES, STATED AT THE XIANGSHAN SECURITY FORUM IN BEIJING THAT REGIONAL COUNTRIES NEED TO ENSURE THEIR OWN SECURITY WITHOUT INTERFERENCE FROM OUTSIDE POWERS.
 - 09/17 19:35 [FirstSquawk] SECURITY CANNOT BE PURCHASED OR IMPORTED, HE STATED, URGING FOR A REGIONAL SECURITY SYSTEM FOCUSED ON NON-AGGRESSION, RESPECT FOR SOVEREIGNTY, AND BUILDING MILITARY CONFIDENCE.
@@ -686,3 +680,5 @@
 - 09/18 19:01 [FirstSquawk] BERKSHIRE HAS APPOINTED WARREN BUFFETT AS CHAIRMAN EMERITUS.
 - 09/18 19:08 [DeItaone] ANTHROPIC BUILDS BIOLOGY LAB TO PUSH AI INTO DRUG DEVELOPMENT Anthropic has quietly established a Bay Area wet lab, moving its life-sciences ambitions beyond computer simulations and into physical biological experiments. The company wants C…
 - 09/18 19:14 [FirstSquawk] RUSSIAN MILITARY STRIKES CARGO SHIP IN ODESA, ACCORDING TO DEFENSE MINISTRY.
+- 09/18 19:17 [FirstSquawk] EU SPOKESPERSON ANNOUNCED AN EU-CANADA SUMMIT AT THE END OF OCTOBER TO DISCUSS IMPROVING RELATIONS.
+- 09/18 19:18 [financialjuice] EU Spokesperson: At end of October EU-Canada summit will take place where we explore parameters for enhancing relationship.
