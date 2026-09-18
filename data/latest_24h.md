@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 10:31 JST／対象: 09/17 10:31 〜 09/18 10:31 JST（時刻はすべて日本時間）
+生成: 2026-09-18 10:44 JST／対象: 09/17 10:44 〜 09/18 10:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 316 | 09/17 10:32 | 09/18 10:28 | ⚠ 51分（03:49→04:40） |
+| FirstSquawk | 316 | 09/17 10:47 | 09/18 10:44 | ⚠ 51分（03:49→04:40） |
 | financialjuice | 263 | 09/17 11:49 | 09/18 10:28 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 10:32 [FirstSquawk] Taiwan’s stock market gains more than 2%.
-- 09/17 10:33 [FirstSquawk] South Korean sales of Samsung’s Galaxy Z Fold 8 increased roughly 10% following Apple’s unveiling of its first foldable iPhone, the telecommunications industry said.
-- 09/17 10:39 [FirstSquawk] Shares of SoftBank Group gain 3%.
 - 09/17 10:47 [FirstSquawk] WSJ: Oil declines amid expectations that efforts to contain the Middle East supply disruption could ease pressure on crude markets.
 - 09/17 10:56 [FirstSquawk] WSJ: States are waiting for Covid vaccines for children, with the CDC yet to begin the ordering process, raising concerns over rollout delays.
 - 09/17 11:02 [FirstSquawk] China’s gold industry stocks slide 5%.
@@ -604,3 +601,6 @@
 - 09/18 10:26 [FirstSquawk] China’s CSI SH-SZ-HK Gold Equity Index poised to rise 2% at the open
 - 09/18 10:28 [FirstSquawk] RBA Governor Bullock: Forward-looking indicators suggest the labour market is stable
 - 09/18 10:28 [financialjuice] RBA Governor Bullock: forward-looking labor market gauges remain steady
+- 09/18 10:36 [FirstSquawk] Alibaba’s Hong Kong-listed shares climb 3%
+- 09/18 10:39 [FirstSquawk] China’s most-active coking coal contract drops 6.02% to 1,515.5 yuan/metric ton
+- 09/18 10:44 [FirstSquawk] Thailand should boost investment in front-end chip manufacturing, industry body says

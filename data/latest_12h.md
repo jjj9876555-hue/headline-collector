@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 10:31 JST／対象: 09/17 22:31 〜 09/18 10:31 JST（時刻はすべて日本時間）
+生成: 2026-09-18 10:44 JST／対象: 09/17 22:44 〜 09/18 10:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/17 22:31 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 144 | 09/17 22:35 | 09/18 10:28 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 121 | 09/17 22:37 | 09/18 10:28 | ⚠ 60分（06:44→07:45） |
+| DeItaone | 8 | 09/17 23:42 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
+| FirstSquawk | 145 | 09/17 22:50 | 09/18 10:44 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 118 | 09/17 22:57 | 09/18 10:28 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 266 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 263 行（統合前 277 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 22:31 [DeItaone] SOME CRYPTO STOCKS RISE AFTER US SECURITIES REGULATOR ROLLS OUT FIVE-YEAR EXEMPTION FOR TOKENIZED STOCK TRADING
-- 09/17 22:35 [FirstSquawk] US TO INVEST HUNDREDS OF MILLIONS OF DOLLARS IN NIGER'S URANIUM MINING SECTOR, YEARS AFTER TROOPS WERE EXPELLED, COMPANY STATEMENT AND SOURCES SAY
-- 09/17 22:35 [FirstSquawk] US OFFICIALS LOBBIED TO PREVENT URANIUM, A CRITICAL MINERAL, FROM FALLING INTO RIVAL HANDS, SOURCES SAY
-- 09/17 22:37 [financialjuice] Nebius to raise GPU rates for Nvidia H100, H200, B200 and B300. $NVDA
-- 09/17 22:39 [financialjuice] EU Commission team to travel to Beijing later in September.
-- 09/17 22:43 [financialjuice] EU's Sefcovic to meet Chinese counterpart Wang on October 8-9 - EU Commission
 - 09/17 22:50 [FirstSquawk] DEBRIS FROM AN INTERCEPTED HOUTHI DRONE KILLED ONE PERSON, THE FIRST DEATH SINCE FIGHTING HAS ESCALATED, SAUDI CIVIL DEFENSE SAYS.
 - 09/17 22:57 [financialjuice] Dutch chipmaker Nexperia: Will make chips with TATA electronics in India
 - 09/17 23:00 [financialjuice] US PENDING HOME SALES CHANGE MOM ACTUAL 0.3% (FORECAST -0.1%, PREVIOUS -2.3%) $MACRO
@@ -290,3 +284,6 @@
 - 09/18 10:26 [FirstSquawk] China’s CSI SH-SZ-HK Gold Equity Index poised to rise 2% at the open
 - 09/18 10:28 [FirstSquawk] RBA Governor Bullock: Forward-looking indicators suggest the labour market is stable
 - 09/18 10:28 [financialjuice] RBA Governor Bullock: forward-looking labor market gauges remain steady
+- 09/18 10:36 [FirstSquawk] Alibaba’s Hong Kong-listed shares climb 3%
+- 09/18 10:39 [FirstSquawk] China’s most-active coking coal contract drops 6.02% to 1,515.5 yuan/metric ton
+- 09/18 10:44 [FirstSquawk] Thailand should boost investment in front-end chip manufacturing, industry body says
