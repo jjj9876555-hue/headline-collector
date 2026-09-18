@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 11:34 JST／対象: 09/17 11:34 〜 09/18 11:34 JST（時刻はすべて日本時間）
+生成: 2026-09-18 11:50 JST／対象: 09/17 11:50 〜 09/18 11:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 325 | 09/17 11:37 | 09/18 11:32 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 276 | 09/17 11:49 | 09/18 11:18 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 327 | 09/17 12:03 | 09/18 11:47 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 276 | 09/17 12:10 | 09/18 11:50 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 602 行（統合前 619 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 604 行（統合前 621 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 11:37 [FirstSquawk] House report alleges ActBlue accepted illegal foreign political donations, citing findings from a congressional investigation.
-- 09/17 11:40 [FirstSquawk] BBC reports that multiple world leaders, including South Africa’s Cyril Ramaphosa, have reportedly fallen ill following the BRICS summit in India, while reports involving China’s Xi Jinping remain unconfirmed.
-- 09/17 11:42 [FirstSquawk] Huawei rolls out new AI technology designed to strengthen computing capabilities and reduce reliance on Nvidia in China.
-- 09/17 11:48 [FirstSquawk] Hong Kong stocks fall as the Fed raises rates and points to more increases ahead, SCMP reports.
-- 09/17 11:49 [financialjuice] China’s chief trade negotiator Li Chenggang met with business delegation to discuss China-US economic, trade ties: statement
 - 09/17 12:03 [FirstSquawk] Malaysia’s Anwar Ibrahim expresses grave concern over a reported drone interception near Mecca, calling any threat to the city “wholly unacceptable.”
 - 09/17 12:04 [FirstSquawk] More than 20 international experts say human-driven climate change worsened several factors behind the catastrophic August flooding on the Nepal-China border, CNN reports.
 - 09/17 12:10 [FirstSquawk] Dollar Index stays above 100.00 after the Fed signals more monetary tightening.
@@ -626,3 +621,10 @@
 - 09/18 11:25 [FirstSquawk] Offshore yuan reaches strongest level since July 2022
 - 09/18 11:29 [FirstSquawk] Waymo to begin robotaxi operations in Singapore in 2028
 - 09/18 11:32 [FirstSquawk] Tokyo weighs ordinance banning littering as downtown waste concerns grow
+- 09/18 11:35 [FirstSquawk] Pound steadies above 1.3350 ahead of UK retail sales data - FX
+- 09/18 11:37 [FirstSquawk] SpaceX’s Starship Flight 14 set to target launch from Sept. 28
+- 09/18 11:39 [FirstSquawk] Indonesia Finance Minister: Budget deficit stood at 0.93% of GDP in January-August
+- 09/18 11:42 [FirstSquawk] Japan’s JGB yields fall as concerns over energy-driven inflation ease - WSJ
+- 09/18 11:43 [FirstSquawk] Indonesia’s Finance Minister: Economic data shows the economy remains resilient
+- 09/18 11:47 [FirstSquawk] The U.S. and China agree AI needs guardrails, but their priorities differ sharply -WSJ Washington focuses on autonomous systems, cyber risks and human control, while Beijing emphasizes political, ideological and cybersecurity concerns. The …
+- 09/18 11:50 [financialjuice] S.Korea president Lee: single-stock leveraged ETFs came in near final phase of stock rally

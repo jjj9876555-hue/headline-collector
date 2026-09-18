@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 11:34 JST／対象: 09/17 23:34 〜 09/18 11:34 JST（時刻はすべて日本時間）
+生成: 2026-09-18 11:50 JST／対象: 09/17 23:50 〜 09/18 11:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/17 23:42 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 152 | 09/17 23:44 | 09/18 11:32 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 116 | 09/17 23:47 | 09/18 11:18 | ⚠ 60分（06:44→07:45） |
+| DeItaone | 7 | 09/18 00:42 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
+| FirstSquawk | 157 | 09/17 23:53 | 09/18 11:47 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 116 | 09/17 23:51 | 09/18 11:50 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 268 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 272 行（統合前 286 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 23:42 [DeItaone] CHINA, U.S. PREPARE FOR XI-TRUMP SUMMIT Chinese Foreign Minister Wang Yi held talks with Marco Rubio ahead of the Xi-Trump summit scheduled for September 24, calling for stronger communication, cooperation and management of differences. The…
-- 09/17 23:44 [FirstSquawk] AN EXPLOSION HAS OCCURRED IN THE STRAIT OF HORMUZ JUST NOW.
-- 09/17 23:47 [financialjuice] French PM sees budgetary effort of around €54b for 2027 - Le Figaro
 - 09/17 23:51 [financialjuice] French PM Lecornu to Le Figaro: Increase in interest rates will cost additional €10 bln to finance debt servicing cost
 - 09/17 23:52 [financialjuice] French PM Lecornu: Without corrective measures the 2027 budget deficit would exceed 6.5% of GDP
 - 09/17 23:53 [FirstSquawk] FRENCH PM LECORNU: INCREASE IN INTEREST RATES SEEN COSTING ADDITIONAL EUR10 BLN TO FINANCE DEBT SERVICING COST - LE FIGARO
@@ -292,3 +289,10 @@
 - 09/18 11:25 [FirstSquawk] Offshore yuan reaches strongest level since July 2022
 - 09/18 11:29 [FirstSquawk] Waymo to begin robotaxi operations in Singapore in 2028
 - 09/18 11:32 [FirstSquawk] Tokyo weighs ordinance banning littering as downtown waste concerns grow
+- 09/18 11:35 [FirstSquawk] Pound steadies above 1.3350 ahead of UK retail sales data - FX
+- 09/18 11:37 [FirstSquawk] SpaceX’s Starship Flight 14 set to target launch from Sept. 28
+- 09/18 11:39 [FirstSquawk] Indonesia Finance Minister: Budget deficit stood at 0.93% of GDP in January-August
+- 09/18 11:42 [FirstSquawk] Japan’s JGB yields fall as concerns over energy-driven inflation ease - WSJ
+- 09/18 11:43 [FirstSquawk] Indonesia’s Finance Minister: Economic data shows the economy remains resilient
+- 09/18 11:47 [FirstSquawk] The U.S. and China agree AI needs guardrails, but their priorities differ sharply -WSJ Washington focuses on autonomous systems, cyber risks and human control, while Beijing emphasizes political, ideological and cybersecurity concerns. The …
+- 09/18 11:50 [financialjuice] S.Korea president Lee: single-stock leveraged ETFs came in near final phase of stock rally

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 11:34 JST／対象: 09/18 05:34 〜 09/18 11:34 JST（時刻はすべて日本時間）
+生成: 2026-09-18 11:50 JST／対象: 09/18 05:50 〜 09/18 11:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/18 06:19 | 09/18 06:19 | - |
-| FirstSquawk | 94 | 09/18 05:40 | 09/18 11:32 | 39分（05:40→06:20） |
-| financialjuice | 62 | 09/18 05:55 | 09/18 11:18 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 99 | 09/18 06:20 | 09/18 11:47 | 25分（06:44→07:10） |
+| financialjuice | 63 | 09/18 05:55 | 09/18 11:50 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 154 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 160 行（統合前 164 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 05:40 [FirstSquawk] ANTHROPIC SAID ITS MEASUREMENTS WILL FOCUS ON HOW AI MODELS ARE BUILT AND DEVELOPED, WITH THE DATA SHARED TO HELP TRACK PROGRESS; CLAUDE ACCOUNTED FOR 26% OF AI R&D USE AS OF AUGUST 2026.
 - 09/18 05:55 [financialjuice] Qualcomm's CEO will attend Trump's state dinner with China’s President Xi. $QCOM
 - 09/18 06:00 [financialjuice] S. KOREAN PPI YOY ACTUAL 7.9% (FORECAST -, PREVIOUS 7.7%) $MACRO
 - 09/18 06:00 [financialjuice] S. KOREAN PPI MOM ACTUAL 0.2% (FORECAST -, PREVIOUS -0.4%) $MACRO
@@ -178,3 +177,10 @@
 - 09/18 11:25 [FirstSquawk] Offshore yuan reaches strongest level since July 2022
 - 09/18 11:29 [FirstSquawk] Waymo to begin robotaxi operations in Singapore in 2028
 - 09/18 11:32 [FirstSquawk] Tokyo weighs ordinance banning littering as downtown waste concerns grow
+- 09/18 11:35 [FirstSquawk] Pound steadies above 1.3350 ahead of UK retail sales data - FX
+- 09/18 11:37 [FirstSquawk] SpaceX’s Starship Flight 14 set to target launch from Sept. 28
+- 09/18 11:39 [FirstSquawk] Indonesia Finance Minister: Budget deficit stood at 0.93% of GDP in January-August
+- 09/18 11:42 [FirstSquawk] Japan’s JGB yields fall as concerns over energy-driven inflation ease - WSJ
+- 09/18 11:43 [FirstSquawk] Indonesia’s Finance Minister: Economic data shows the economy remains resilient
+- 09/18 11:47 [FirstSquawk] The U.S. and China agree AI needs guardrails, but their priorities differ sharply -WSJ Washington focuses on autonomous systems, cyber risks and human control, while Beijing emphasizes political, ideological and cybersecurity concerns. The …
+- 09/18 11:50 [financialjuice] S.Korea president Lee: single-stock leveraged ETFs came in near final phase of stock rally
