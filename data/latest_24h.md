@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 01:58 JST／対象: 09/18 01:58 〜 09/19 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 02:14 JST／対象: 09/18 02:14 〜 09/19 02:14 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/18 02:10 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 349 | 09/18 01:59 | 09/19 01:57 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 274 | 09/18 01:59 | 09/19 01:54 | ⚠ 60分（06:44→07:45） |
+| DeItaone | 8 | 09/18 02:53 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
+| FirstSquawk | 352 | 09/18 02:24 | 09/19 02:05 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 266 | 09/18 02:20 | 09/19 02:01 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 622 行（統合前 640 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 615 行（統合前 630 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 01:59 [financialjuice] Trump on Iran: I have a big decision coming up - Axios
-- 09/18 01:59 [FirstSquawk] TRUMP TO AXIOS: WANT TO TALK WITH ALLIES AT UN ABOUT IRAN STEPS
-- 09/18 01:59 [financialjuice] Senior US Official to Al Jazeera: Focused on ensuring navigation in the Red Sea and paving the way for our partners to manage security challenges.
-- 09/18 02:00 [financialjuice] WI 10 Yr TIPS yield about 2.634% before $19 billion auction
-- 09/18 02:02 [financialjuice] US 10-YEAR TIPS HIGH YIELD ACTUAL 2.653% (FORECAST -, PREVIOUS 2.438%) $MACRO
-- 09/18 02:02 [financialjuice] US 10-YEAR TIPS BID-TO-COVER ACTUAL 2.240 (FORECAST -, PREVIOUS 2.300) $MACRO
-- 09/18 02:04 [financialjuice] US 10 Yr TIPS Auction High yield 2.653% (Tail of 1.9 BPS) Bid-to-Cover 2.24 Sells $19 bln Awards 93.14% of bids at high Primary dealers take 12.18% Direct 28.7% Indirect 59.12%
-- 09/18 02:07 [financialjuice] Iran downed at least 2 unmanned American aircraft recently - CBS
-- 09/18 02:09 [financialjuice] Fitch Ratings: Low August US defaults reflect seasonal slowdown as market concern loans build
-- 09/18 02:10 [DeItaone] IRAN DOWNED AT LEAST 2 UNMANNED AMERICAN AIRCRAFT IN RECENT DAYS, U.S. OFFICIALS SAY- CBS NEWS
-- 09/18 02:10 [financialjuice] FAA to launch AI-powered air-traffic tool - WSJ.
-- 09/18 02:13 [financialjuice] SpaceX: Targeting to launch Starship flight 14 as early as Sep 28. $SPCX
-- 09/18 02:13 [DeItaone] TRUMP WEIGHS “BIG DECISION” ON IRAN President Trump says he faces a “big decision” over the next phase of the Iran conflict, including whether to pursue further military action against Tehran. Trump told Axios he plans to use an upcoming UN…
 - 09/18 02:20 [financialjuice/FirstSquawk] Iraqi Prime Minister to visit US and meet with Trump next week - Mehr News
 - 09/18 02:20 [financialjuice] Iraqi Prime Minister's to visit US and meet with Trump next week to discuss bilateral relations and regional developments - Mehr News
 - 09/18 02:21 [financialjuice] Iraqi Prime Minister to visit US and meet with Trump next week to discuss bilateral relations and regional developments - Mehr News
@@ -646,3 +633,9 @@
 - 09/19 01:54 [financialjuice] Top US NATO Commander Grynkewich participated in today's virtual briefing for Pentagon policy Chief Colby on potential approaches to US force posture review in Europe - Spokesperson
 - 09/19 01:54 [FirstSquawk] AS OF SEPTEMBER 18, CENTCOM FORCES HAVE DIRECTED 105 COMMERCIAL SHIPS TO ENSURE COMPLIANCE.
 - 09/19 01:57 [FirstSquawk] US MILITARY EXPERIENCED A NEAR MISS DUE TO AI-BASED FALSE INTELLIGENCE REPORT, SOURCES REVEAL.
+- 09/19 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 595 (FORECAST -, PREVIOUS 591) $MACRO
+- 09/19 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 452 (FORECAST -, PREVIOUS 450) $MACRO
+- 09/19 02:01 [FirstSquawk] US TOTAL RIG COUNT 595 , BAKER HUGHES SAYS
+- 09/19 02:01 [FirstSquawk] US OIL RIG COUNT UP 2 TO 452 , BAKER HUGHES SAYS
+- 09/19 02:04 [FirstSquawk] CANADA INDUSTRY MINISTER: STELLANTIS MUST REOPEN ONTARIO PLANT OR RETURN GOVT MONEY
+- 09/19 02:05 [FirstSquawk] WHITE HOUSE OFFICIAL: TRUMP PLANS TO SIGN THE RUSSIA SANCTIONS BILL TODAY - CBS
