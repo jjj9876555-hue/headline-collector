@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 02:41 JST／対象: 09/18 14:41 〜 09/19 02:41 JST（時刻はすべて日本時間）
+生成: 2026-09-19 02:52 JST／対象: 09/18 14:52 〜 09/19 02:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 167 | 09/18 14:43 | 09/19 02:40 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 118 | 09/18 14:44 | 09/19 02:40 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 168 | 09/18 15:01 | 09/19 02:46 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 117 | 09/18 15:00 | 09/19 02:40 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 285 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 14:43 [FirstSquawk] Flight operations at Lublin and Rzeszow airports have been temporarily suspended by Poland’s air traffic authority.
-- 09/18 14:44 [financialjuice] SK Hynix's Solidigm weighs first US NAND flash plant - Yonhap
-- 09/18 14:47 [FirstSquawk] Morgan Stanley raises its target for Next PLC to 17,000p, up from 16,800p.
 - 09/18 15:00 [financialjuice] UK CORE RETAIL SALES YOY ACTUAL 2.7% (FORECAST 1.9%, PREVIOUS 2.3%) $MACRO
 - 09/18 15:00 [financialjuice] ‼ BREAKING: UK RETAIL SALES MOM ACTUAL 0.5% (FORECAST -0.2%, PREVIOUS -0.5%) $MACRO
 - 09/18 15:00 [financialjuice] ❗ UK RETAIL SALES YOY ACTUAL 2.4% (FORECAST 1.9%, PREVIOUS 1.6%) $MACRO
@@ -309,3 +306,6 @@
 - 09/19 02:32 [FirstSquawk] WESTINGHOUSE PLANS TO SEEK A VALUATION EXCEEDING $50 BILLION FOR ITS U.S. INITIAL PUBLIC OFFERING.
 - 09/19 02:40 [FirstSquawk] US TREASURY SEC. TO TALK AI, RARE EARTHS THIS WEEKEND WITH CHINESE VICE PREMIER
 - 09/19 02:40 [financialjuice] US Treasury Secretary to talk AI, rare earths this weekend with Chinese Vice Premier - AP
+- 09/19 02:41 [FirstSquawk] IRAN'S GHALIBAF: US MILITARY 'NIGHTMARE' OF BEING HUNTED IS REALITY
+- 09/19 02:46 [FirstSquawk] SAUDI EXPORTS THROUGH THE BAB EL-MANDEB STRAIT CONTINUE TO SUFFER, WITH WEEKLY TRAFFIC SINCE THE START OF AUGUST AT UNDER A THIRD OF THIS YEAR'S SEVEN-DAY AVERAGE, DATA SHOWS.
+- 09/19 02:46 [FirstSquawk] TRAFFIC THROUGH BAB BAB EL-MANDEB HAS BEEN DISRUPTED FOLLOWING RECENT HOUTHI GAINS ON THE RED SEA COAST, HITTING SAUDI EXPORTS PARTICULARLY HARD.
