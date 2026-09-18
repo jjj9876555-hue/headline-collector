@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 23:17 JST／対象: 09/18 11:17 〜 09/18 23:17 JST（時刻はすべて日本時間）
+生成: 2026-09-18 23:33 JST／対象: 09/18 11:33 〜 09/18 23:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 195 | 09/18 11:24 | 09/18 23:09 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 153 | 09/18 11:18 | 09/18 23:16 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 193 | 09/18 11:35 | 09/18 23:29 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 155 | 09/18 11:50 | 09/18 23:23 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 351 行（統合前 352 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,15 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 11:18 [financialjuice] China's offshore yuan hits strongest level since July 2022
-- 09/18 11:24 [FirstSquawk] South Korea President Lee: US-North Korea talks would be important for the Korean Peninsula
-- 09/18 11:24 [FirstSquawk] President Lee: Cannot confirm whether Trump-Kim talks will take place
-- 09/18 11:24 [FirstSquawk] South Korea’s President Lee: Trump is seeking talks with North Korea
-- 09/18 11:25 [FirstSquawk] South Korea President Lee: Trump-Kim talks may be difficult, but cannot be ruled out
-- 09/18 11:25 [FirstSquawk] South Korea President Lee: South Korea will have a role in any US-North Korea talks
-- 09/18 11:25 [FirstSquawk] Offshore yuan reaches strongest level since July 2022
-- 09/18 11:29 [FirstSquawk] Waymo to begin robotaxi operations in Singapore in 2028
-- 09/18 11:32 [FirstSquawk] Tokyo weighs ordinance banning littering as downtown waste concerns grow
 - 09/18 11:35 [FirstSquawk] Pound steadies above 1.3350 ahead of UK retail sales data - FX
 - 09/18 11:37 [FirstSquawk] SpaceX’s Starship Flight 14 set to target launch from Sept. 28
 - 09/18 11:39 [FirstSquawk] Indonesia Finance Minister: Budget deficit stood at 0.93% of GDP in January-August
@@ -375,3 +366,12 @@
 - 09/18 23:12 [financialjuice] The Treasury allows some Lukoil International GMBH actions.
 - 09/18 23:13 [financialjuice] German Government agrees on fuel price cap - Spiegel.
 - 09/18 23:16 [financialjuice] Mexico's President Sheinbaum: I spoke with Trump on Wednesday. The call was very good, we reached some agreements.
+- 09/18 23:18 [financialjuice] Fear and Greed Index: 29/100 = Fear
+- 09/18 23:19 [financialjuice] Crypto Fear and Greed Index: 56/100 = Greed
+- 09/18 23:21 [FirstSquawk] WALT DISNEY CO. NAMES KARANDEEP ANAND TO ROLE OF CHIEF TECHNOLOGY OFFICER
+- 09/18 23:21 [FirstSquawk] ALLSPRING GLOBAL IS CONSIDERING A SALE WITH A VALUATION OF AROUND $4 BILLION, ACCORDING TO THE FINANCIAL TIMES.
+- 09/18 23:22 [FirstSquawk] IRAQI PM SECURITY ADVISOR SAYS NO DEADLINE FOR STATE CONTROL OF ARMS.
+- 09/18 23:22 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: MAKING GOOD PROGRESS TOWARD US-TRADE DEAL
+- 09/18 23:23 [financialjuice] Mexico's President Sheinbaum: Details to be given once a final US deal is reached.
+- 09/18 23:24 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: IN ‘CONSTANT COMMUNICATION’ WITH TRUMP
+- 09/18 23:29 [FirstSquawk] IRGC-NAVY FIRES AT LEAST 5 CRUISE MISSILES AT SHIPS IN THE STRAIT OF HORMOZ.

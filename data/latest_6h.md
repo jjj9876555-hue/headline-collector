@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 23:17 JST／対象: 09/18 17:17 〜 09/18 23:17 JST（時刻はすべて日本時間）
+生成: 2026-09-18 23:33 JST／対象: 09/18 17:33 〜 09/18 23:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 60 | 09/18 17:53 | 09/18 23:09 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 43 | 09/18 17:18 | 09/18 23:16 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 66 | 09/18 17:53 | 09/18 23:29 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 45 | 09/18 18:00 | 09/18 23:23 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 106 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 114 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 17:18 [financialjuice] EUROZONE CURRENT ACCOUNT NSA ACTUAL 36.50B (FORECAST -, PREVIOUS 46.90B) $MACRO
 - 09/18 17:53 [FirstSquawk] US ADMINISTRATION TO ANNOUNCE THAT ALL 50 STATES WILL IMPLEMENT MOST-FAVORED-NATION PRICING FOR SPECIFIC DRUGS IN MEDICAID PROGRAMS.
 - 09/18 17:54 [FirstSquawk] SPOT SILVER INCREASES MORE THAN 3% TO $67.19 PER OUNCE.
 - 09/18 18:00 [financialjuice] EUROZONE CONSTRUCTION OUTPUT MOM ACTUAL 0% (FORECAST -, PREVIOUS -1.34%) $MACRO
@@ -130,3 +129,12 @@
 - 09/18 23:12 [financialjuice] The Treasury allows some Lukoil International GMBH actions.
 - 09/18 23:13 [financialjuice] German Government agrees on fuel price cap - Spiegel.
 - 09/18 23:16 [financialjuice] Mexico's President Sheinbaum: I spoke with Trump on Wednesday. The call was very good, we reached some agreements.
+- 09/18 23:18 [financialjuice] Fear and Greed Index: 29/100 = Fear
+- 09/18 23:19 [financialjuice] Crypto Fear and Greed Index: 56/100 = Greed
+- 09/18 23:21 [FirstSquawk] WALT DISNEY CO. NAMES KARANDEEP ANAND TO ROLE OF CHIEF TECHNOLOGY OFFICER
+- 09/18 23:21 [FirstSquawk] ALLSPRING GLOBAL IS CONSIDERING A SALE WITH A VALUATION OF AROUND $4 BILLION, ACCORDING TO THE FINANCIAL TIMES.
+- 09/18 23:22 [FirstSquawk] IRAQI PM SECURITY ADVISOR SAYS NO DEADLINE FOR STATE CONTROL OF ARMS.
+- 09/18 23:22 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: MAKING GOOD PROGRESS TOWARD US-TRADE DEAL
+- 09/18 23:23 [financialjuice] Mexico's President Sheinbaum: Details to be given once a final US deal is reached.
+- 09/18 23:24 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: IN ‘CONSTANT COMMUNICATION’ WITH TRUMP
+- 09/18 23:29 [FirstSquawk] IRGC-NAVY FIRES AT LEAST 5 CRUISE MISSILES AT SHIPS IN THE STRAIT OF HORMOZ.
