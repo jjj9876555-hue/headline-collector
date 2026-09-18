@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 08:40 JST／対象: 09/19 02:40 〜 09/19 08:40 JST（時刻はすべて日本時間）
+生成: 2026-09-19 08:51 JST／対象: 09/19 02:51 〜 09/19 08:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 27 | 09/19 02:41 | 09/19 05:07 | 19分（04:21→04:40） |
-| financialjuice | 74 | 09/19 02:40 | 09/19 07:38 | 28分（03:42→04:11） |
+| FirstSquawk | 24 | 09/19 02:55 | 09/19 05:07 | 19分（04:21→04:40） |
+| financialjuice | 74 | 09/19 02:52 | 09/19 08:43 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 106 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 02:40 [financialjuice] US Treasury Secretary to talk AI, rare earths this weekend with Chinese Vice Premier - AP
-- 09/19 02:41 [FirstSquawk] IRAN'S GHALIBAF: US MILITARY 'NIGHTMARE' OF BEING HUNTED IS REALITY
-- 09/19 02:46 [FirstSquawk] SAUDI EXPORTS THROUGH THE BAB EL-MANDEB STRAIT CONTINUE TO SUFFER, WITH WEEKLY TRAFFIC SINCE THE START OF AUGUST AT UNDER A THIRD OF THIS YEAR'S SEVEN-DAY AVERAGE, DATA SHOWS.
-- 09/19 02:46 [FirstSquawk] TRAFFIC THROUGH BAB BAB EL-MANDEB HAS BEEN DISRUPTED FOLLOWING RECENT HOUTHI GAINS ON THE RED SEA COAST, HITTING SAUDI EXPORTS PARTICULARLY HARD.
 - 09/19 02:52 [financialjuice] Pakistan Interior Minister Mohsen Naqvi could visit Tehran this week - Mehr News citing reliable source
 - 09/19 02:52 [financialjuice] Trump expected to sign the Russia sanctions bill today - CNN
 - 09/19 02:55 [FirstSquawk] TRUMP’S AI WHISPERER DAVID SACKS TO ATTEND THE STATE DINNER WITH XI JINPING - NBC
@@ -130,3 +126,4 @@
 - 09/19 07:35 [financialjuice] OpenAI forecasts $280 billion spend by 2030: FT
 - 09/19 07:37 [financialjuice] OpenAI expects costs to greatly exceed revenues: sales projected to rise from $36bn this year to $350bn in 2030 - FT
 - 09/19 07:38 [financialjuice] OpenAI projects $840 billion in revenue through 2030 - FT
+- 09/19 08:43 [financialjuice] Nvidia CEO Jensen Huang: agrees with Trump on AI, doesn’t think it will end world by 2030 - CBS News
