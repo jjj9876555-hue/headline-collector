@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 16:58 JST／対象: 09/17 16:58 〜 09/18 16:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 17:18 JST／対象: 09/17 17:18 〜 09/18 17:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/17 18:43 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 363 | 09/17 17:03 | 09/18 16:57 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 337 | 09/17 17:06 | 09/18 16:57 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 363 | 09/17 17:32 | 09/18 17:10 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 341 | 09/17 17:32 | 09/18 17:18 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 700 行（統合前 717 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 704 行（統合前 721 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 17:03 [FirstSquawk] INDIA’S US TREASURY PURCHASES HIT RECORD $15.2 BILLION AS RBI DOLLAR INFLOWS SURGE
-- 09/17 17:06 [financialjuice] Russian drone strike on Tanzania-flagged ship headed to Ukrainian port kills one, injures three crew: Ukraine's infrastructure ministry
-- 09/17 17:08 [FirstSquawk] RUSSIAN DRONE ATTACK ON A TANZANIA-FLAGGED VESSEL BOUND FOR UKRAINE LEFT ONE DEAD AND THREE INJURED, ACCORDING TO UKRAINE'S INFRASTRUCTURE MINISTRY.
-- 09/17 17:10 [financialjuice] Kazakhstan oil output estimated at 96 million tons in 2027, rising to 99-100 million tons in following years – IFX
-- 09/17 17:18 [FirstSquawk] TURKEY'S MARKET REGULATOR WILL CLOSE FUNDS RUN BY SEVEN FIRMS.
 - 09/17 17:32 [FirstSquawk] HUAWEI EXECUTIVE SAYS THE SOFTWARE DIVIDE WITH NVIDIA IS NARROWING.
 - 09/17 17:32 [financialjuice] UK Office for National Statistics: New approach of measuring productivity leads to relatively small changes in long-run growth in output per job and output per worker.
 - 09/17 17:56 [FirstSquawk] US-MEXICO TRADE DISCUSSIONS DELAYED BY ONE WEEK.
@@ -724,3 +719,12 @@
 - 09/18 16:57 [FirstSquawk] ECB'S KAASIK STRESSES THE IMPORTANCE OF AVOIDING SECOND-ROUND EFFECTS.
 - 09/18 16:57 [financialjuice] ECB's Kaasik: We must prevent second-round effects.
 - 09/18 16:57 [FirstSquawk] ECB'S KAASIK STATES THAT THE PRECISE NEUTRAL INTEREST RATE IS NOT A MAJOR ISSUE AT THE MOMENT.
+- 09/18 17:00 [financialjuice] EUROZONE CURRENT ACCOUNT ACTUAL 27.628B (FORECAST -, PREVIOUS 35.100B) $MACRO
+- 09/18 17:01 [FirstSquawk] EUROZONE ECB ONE-YEAR CPI EXPECTATIONS IN AUGUST AT 3.0% (ESTIMATED 3.1%; PREVIOUS 2.9%), AND THREE-YEAR CPI EXPECTATIONS AT 2.9% (ESTIMATED 2.8%; PREVIOUS 2.7%).
+- 09/18 17:01 [financialjuice] Euro Area August 1-year CPI expectations rise to 3%; 3-year rises to 2.9%.
+- 09/18 17:01 [FirstSquawk] EU CURRENT ACCOUNT SA FOR JULY SHOWED A SURPLUS OF 27.6 BILLION EUROS, DOWN FROM 35.1 BILLION EUROS LAST MONTH.
+- 09/18 17:08 [financialjuice] ECB's President Lagarde: We'll decide on rates meeting by meeting.
+- 09/18 17:09 [financialjuice] ECB's President Lagarde: Growth is a bit more promising than we thought.
+- 09/18 17:10 [financialjuice] ECB's President Lagarde: Not seeing second-round effects yet.
+- 09/18 17:10 [FirstSquawk] ECB PRESIDENT LAGARDE STATES NO SIGNS OF SECOND ROUND EFFECTS SO FAR - RTE RADIO.
+- 09/18 17:18 [financialjuice] EUROZONE CURRENT ACCOUNT NSA ACTUAL 36.50B (FORECAST -, PREVIOUS 46.90B) $MACRO

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 16:58 JST／対象: 09/18 04:58 〜 09/18 16:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 17:18 JST／対象: 09/18 05:18 〜 09/18 17:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/18 06:19 | 09/18 06:19 | - |
-| FirstSquawk | 222 | 09/18 05:00 | 09/18 16:57 | 39分（05:40→06:20） |
-| financialjuice | 168 | 09/18 05:01 | 09/18 16:57 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 221 | 09/18 05:40 | 09/18 17:10 | 39分（05:40→06:20） |
+| financialjuice | 172 | 09/18 05:55 | 09/18 17:18 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 388 行（統合前 392 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 391 行（統合前 395 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 05:00 [FirstSquawk] DOW JONES CLOSES 0.66% HIGHER AT 51,801.54, UP 339.64 POINTS
-- 09/18 05:01 [financialjuice] There are no confirmed reports of an explosion in the vicinity of Kharg Island at the specified time - Irib news.
-- 09/18 05:02 [FirstSquawk] NASDAQ SURGES 1.76% TO 26,434.77, UP 456.34 POINTS S&P 500 CLOSES 1.16% HIGHER AT 7,639.31, UP 87.50 POINTS DOW JONES CLOSES 0.66% HIGHER AT 51,801.54, UP 339.64 POINTS
-- 09/18 05:02 [FirstSquawk] KROGER DECLARES QUARTERLY DIVIDEND OF $0.39/SHARE, PAYABLE DECEMBER 1, 2026
-- 09/18 05:13 [financialjuice] Stocks and Bonds Rally as Falling Oil Eases Inflation Concerns – US Market Wrap
-- 09/18 05:16 [FirstSquawk] US STOCKS AND BONDS RALLIED AS FALLING OIL PRICES EASED INFLATION CONCERNS, HELPING MARKETS ABSORB THE FEDERAL RESERVE’S FIRST RATE HIKE SINCE 2023. THE S&P 500 GAINED 1.1%, ITS STRONGEST ADVANCE IN SIX WEEKS, WHILE THE NASDAQ 100 CLIMBED 1…
 - 09/18 05:40 [FirstSquawk] ANTHROPIC SAID ITS MEASUREMENTS WILL FOCUS ON HOW AI MODELS ARE BUILT AND DEVELOPED, WITH THE DATA SHARED TO HELP TRACK PROGRESS; CLAUDE ACCOUNTED FOR 26% OF AI R&D USE AS OF AUGUST 2026.
 - 09/18 05:55 [financialjuice] Qualcomm's CEO will attend Trump's state dinner with China’s President Xi. $QCOM
 - 09/18 06:00 [financialjuice] S. KOREAN PPI YOY ACTUAL 7.9% (FORECAST -, PREVIOUS 7.7%) $MACRO
@@ -412,3 +406,12 @@
 - 09/18 16:57 [FirstSquawk] ECB'S KAASIK STRESSES THE IMPORTANCE OF AVOIDING SECOND-ROUND EFFECTS.
 - 09/18 16:57 [financialjuice] ECB's Kaasik: We must prevent second-round effects.
 - 09/18 16:57 [FirstSquawk] ECB'S KAASIK STATES THAT THE PRECISE NEUTRAL INTEREST RATE IS NOT A MAJOR ISSUE AT THE MOMENT.
+- 09/18 17:00 [financialjuice] EUROZONE CURRENT ACCOUNT ACTUAL 27.628B (FORECAST -, PREVIOUS 35.100B) $MACRO
+- 09/18 17:01 [FirstSquawk] EUROZONE ECB ONE-YEAR CPI EXPECTATIONS IN AUGUST AT 3.0% (ESTIMATED 3.1%; PREVIOUS 2.9%), AND THREE-YEAR CPI EXPECTATIONS AT 2.9% (ESTIMATED 2.8%; PREVIOUS 2.7%).
+- 09/18 17:01 [financialjuice] Euro Area August 1-year CPI expectations rise to 3%; 3-year rises to 2.9%.
+- 09/18 17:01 [FirstSquawk] EU CURRENT ACCOUNT SA FOR JULY SHOWED A SURPLUS OF 27.6 BILLION EUROS, DOWN FROM 35.1 BILLION EUROS LAST MONTH.
+- 09/18 17:08 [financialjuice] ECB's President Lagarde: We'll decide on rates meeting by meeting.
+- 09/18 17:09 [financialjuice] ECB's President Lagarde: Growth is a bit more promising than we thought.
+- 09/18 17:10 [financialjuice] ECB's President Lagarde: Not seeing second-round effects yet.
+- 09/18 17:10 [FirstSquawk] ECB PRESIDENT LAGARDE STATES NO SIGNS OF SECOND ROUND EFFECTS SO FAR - RTE RADIO.
+- 09/18 17:18 [financialjuice] EUROZONE CURRENT ACCOUNT NSA ACTUAL 36.50B (FORECAST -, PREVIOUS 46.90B) $MACRO

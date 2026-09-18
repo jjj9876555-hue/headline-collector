@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 16:58 JST／対象: 09/18 10:58 〜 09/18 16:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 17:18 JST／対象: 09/18 11:18 〜 09/18 17:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 137 | 09/18 11:00 | 09/18 16:57 | 13分（14:47→15:01） |
-| financialjuice | 115 | 09/18 11:00 | 09/18 16:57 | ⚠ 52分（13:07→14:00） |
+| FirstSquawk | 135 | 09/18 11:24 | 09/18 17:10 | 13分（14:47→15:01） |
+| financialjuice | 110 | 09/18 11:50 | 09/18 17:18 | ⚠ 52分（13:07→14:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 252 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 245 行（統合前 245 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 11:00 [FirstSquawk] Commodity vessel traffic through the Strait of Hormuz drops to four on Thursday, versus a 10-day average of about 16
-- 09/18 11:00 [financialjuice] Four commodity ships pass Strait of Hormuz on Thursday vs 10-day average near 16, data shows:
-- 09/18 11:05 [financialjuice] S. Korea president: Several nations moving military forces near Hormuz Strait
-- 09/18 11:05 [FirstSquawk] South Korea President Lee: Several countries are deploying military assets near the Strait of Hormuz
-- 09/18 11:10 [financialjuice] S. Korea President Lee: Won't deploy troops to join conflict, concerns over Hormuz
-- 09/18 11:11 [financialjuice] S.Korea President Lee: limited actions to safeguard South Korean economic interests, citizens possible
-- 09/18 11:12 [financialjuice] South Korea president Lee: reviewing whether to boost involvement beyond current level over Hormuz issue
-- 09/18 11:12 [FirstSquawk] President Lee: South Korea will not deploy forces to join the war amid Hormuz concerns
-- 09/18 11:12 [FirstSquawk] President Lee: South Korea may take limited action to protect its economic interests and people
-- 09/18 11:13 [FirstSquawk] South Korea’s President Lee: Considering greater involvement amid concerns over the Strait of Hormuz
-- 09/18 11:14 [financialjuice] S.Korea President Lee: Any US-N.Korea Talks Will Be Crucial to Korean Peninsula
-- 09/18 11:15 [financialjuice] S.Korea President Lee: Uncertainty remains over Trump-Kim talks
-- 09/18 11:15 [financialjuice] S.Korea president Lee: Trump seeks talks with N.Korea
-- 09/18 11:16 [financialjuice] S.Korea President Lee: Trump-Kim talks tough but not impossible
-- 09/18 11:16 [financialjuice] S.Korea President Lee: S.Korea has role in any US-N.Korea negotiations
-- 09/18 11:18 [financialjuice] China's offshore yuan hits strongest level since July 2022
 - 09/18 11:24 [FirstSquawk] South Korea President Lee: US-North Korea talks would be important for the Korean Peninsula
 - 09/18 11:24 [FirstSquawk] President Lee: Cannot confirm whether Trump-Kim talks will take place
 - 09/18 11:24 [FirstSquawk] South Korea’s President Lee: Trump is seeking talks with North Korea
@@ -276,3 +260,12 @@
 - 09/18 16:57 [FirstSquawk] ECB'S KAASIK STRESSES THE IMPORTANCE OF AVOIDING SECOND-ROUND EFFECTS.
 - 09/18 16:57 [financialjuice] ECB's Kaasik: We must prevent second-round effects.
 - 09/18 16:57 [FirstSquawk] ECB'S KAASIK STATES THAT THE PRECISE NEUTRAL INTEREST RATE IS NOT A MAJOR ISSUE AT THE MOMENT.
+- 09/18 17:00 [financialjuice] EUROZONE CURRENT ACCOUNT ACTUAL 27.628B (FORECAST -, PREVIOUS 35.100B) $MACRO
+- 09/18 17:01 [FirstSquawk] EUROZONE ECB ONE-YEAR CPI EXPECTATIONS IN AUGUST AT 3.0% (ESTIMATED 3.1%; PREVIOUS 2.9%), AND THREE-YEAR CPI EXPECTATIONS AT 2.9% (ESTIMATED 2.8%; PREVIOUS 2.7%).
+- 09/18 17:01 [financialjuice] Euro Area August 1-year CPI expectations rise to 3%; 3-year rises to 2.9%.
+- 09/18 17:01 [FirstSquawk] EU CURRENT ACCOUNT SA FOR JULY SHOWED A SURPLUS OF 27.6 BILLION EUROS, DOWN FROM 35.1 BILLION EUROS LAST MONTH.
+- 09/18 17:08 [financialjuice] ECB's President Lagarde: We'll decide on rates meeting by meeting.
+- 09/18 17:09 [financialjuice] ECB's President Lagarde: Growth is a bit more promising than we thought.
+- 09/18 17:10 [financialjuice] ECB's President Lagarde: Not seeing second-round effects yet.
+- 09/18 17:10 [FirstSquawk] ECB PRESIDENT LAGARDE STATES NO SIGNS OF SECOND ROUND EFFECTS SO FAR - RTE RADIO.
+- 09/18 17:18 [financialjuice] EUROZONE CURRENT ACCOUNT NSA ACTUAL 36.50B (FORECAST -, PREVIOUS 46.90B) $MACRO
