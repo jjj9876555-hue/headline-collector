@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 20:32 JST／対象: 09/18 08:32 〜 09/18 20:32 JST（時刻はすべて日本時間）
+生成: 2026-09-18 20:45 JST／対象: 09/18 08:45 〜 09/18 20:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
 | FirstSquawk | 231 | 09/18 08:49 | 09/18 20:07 | 42分（17:10→17:53） |
-| financialjuice | 162 | 09/18 08:36 | 09/18 20:06 | ⚠ 52分（13:07→14:00） |
+| financialjuice | 153 | 09/18 08:53 | 09/18 20:06 | ⚠ 52分（13:07→14:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 396 行（統合前 397 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 387 行（統合前 388 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 08:36 [financialjuice] RBA Governor Bullock: various indicators indicate labor market conditions stay near, but slightly tighter than, full employment
-- 09/18 08:36 [financialjuice] RBA Governor Bullock: at August board meeting, risks to outlook were skewed to the upside
-- 09/18 08:36 [financialjuice] RBA Governor Bullock: developments since then indicate that while growth in the Australian economy is slowing, some upside risks to inflation seem to be materializing
-- 09/18 08:37 [financialjuice] RBA Governor Bullock: liaison program shows many firms are passing on higher input costs
-- 09/18 08:37 [financialjuice] RBA Governor Bullock: recent figures broadly align with expectation of demand growth easing in H1 2026
-- 09/18 08:37 [financialjuice] RBA governor Bullock: housing market conditions have softened, larger-than-expected easing could weigh on economic activity
-- 09/18 08:38 [financialjuice] RBA Governor Bullock: key question is whether monetary tightening to date will be enough to return inflation to target in reasonable time
-- 09/18 08:38 [financialjuice] RBA Governor Bullock: monetary policy positioned to address developments with focus on price stability and full employment
-- 09/18 08:38 [financialjuice] RBA Governor Bullock: lowering inflation is crucial
 - 09/18 08:49 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 1.0% IN EARLY TRADE; 10-YEAR JGB FUTURES UP 0.1 POINT
 - 09/18 08:49 [FirstSquawk] RBA GOVERNOR BULLOCK SAYS VARIOUS INDICATORS CONTINUE TO SUGGEST THAT LABOUR MARKET CONDITIONS REMAIN CLOSE TO, BUT A LITTLE TIGHTER THAN, FULL EMPLOYMENT, AND THAT WHILE GROWTH IN THE AUSTRALIAN ECONOMY IS SLOWING, SOME OF THE UPSIDE RISKS…
 - 09/18 08:49 [FirstSquawk] RBA BULLOCK SAYS CONDITIONS IN THE HOUSING MARKET HAVE SOFTENED, WITH A LARGER-THAN-EXPECTED EASING A POTENTIAL DOWNSIDE RISK TO ACTIVITY, AND THAT A KEY QUESTION IS WHETHER THE TIGHTENING IN MONETARY POLICY TO DATE WILL BE SUFFICIENT TO BR…
