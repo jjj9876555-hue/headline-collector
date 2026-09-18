@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 07:04 JST／対象: 09/19 01:04 〜 09/19 07:04 JST（時刻はすべて日本時間）
+生成: 2026-09-19 07:23 JST／対象: 09/19 01:23 〜 09/19 07:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 47 | 09/19 01:08 | 09/19 05:07 | 19分（04:21→04:40） |
-| financialjuice | 64 | 09/19 01:06 | 09/19 07:02 | 38分（02:01→02:40） |
+| FirstSquawk | 44 | 09/19 01:29 | 09/19 05:07 | 19分（04:21→04:40） |
+| financialjuice | 74 | 09/19 01:25 | 09/19 07:22 | 38分（02:01→02:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 114 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 121 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 01:06 [financialjuice] A shipment of F-35 parts diverted to HK this summer - Politico. $LMT
-- 09/19 01:08 [FirstSquawk] FED'S SCHMID: AGREES WITH WARSH ON ECONOMIC GROWTH, DEMAND FOR CAPITAL FROM AI INVESTMENT, GEOPOLITICAL CHALLENGES CAUSING BOND YIELDS TO RISE
-- 09/19 01:16 [FirstSquawk] NASA AWARDS SPACEX THREE CREW FLIGHTS TO SPACE STATION
-- 09/19 01:19 [financialjuice] Moolenaar to Trump: PRC not a long-term market for American AI. urges tighter AI chip export controls on China
-- 09/19 01:21 [FirstSquawk] HOUSE CHINA PANEL CHAIR MOOLENAAR URGES TRUMP TO TIGHTEN AI CHIP EXPORT CONTROLS ON CHINA
 - 09/19 01:25 [financialjuice] Fed's Schmid: US Treasury's buybacks don't make Fed's job harder or easier.
 - 09/19 01:28 [financialjuice/FirstSquawk] Trump to NewsNation: US is talking to the Houthis.
 - 09/19 01:28 [financialjuice/FirstSquawk] ❗ Trump to NewsNation: Houthis would also like to make a deal.
@@ -138,3 +133,15 @@
 - 09/19 06:47 [financialjuice] White House: 2025 proclamation on H-1B visas extended by 12 months
 - 09/19 06:54 [financialjuice] Saudi civil defense issues warning over potential threat in Farasan
 - 09/19 07:02 [financialjuice] Saudi civil defense: danger has subsided in Farasan
+- 09/19 07:08 [financialjuice] Ukraine's Zelenskiy thanks Trump for signing Russia sanctions bill and Congress members for backing it
+- 09/19 07:08 [financialjuice] Zelenskiy: Best way to honor Senator Lindsey Graham's memory is to enact provisions of bill he backed
+- 09/19 07:12 [financialjuice] Gemini breached protected systems by guessing passwords and locating credentials in public repository during irregular test run - WSJ
+- 09/19 07:13 [financialjuice] US ambassador to UN: Trump to meet Japanese premier
+- 09/19 07:13 [financialjuice] US ambassador to UN: Trump will meet Venezuela's Rodriguez
+- 09/19 07:16 [financialjuice] US deputy national security adviser on Xi visit: Trump and Xi to give remarks at state dinner
+- 09/19 07:16 [financialjuice] White House spokeswoman Kelly: Trump to welcome Xi at Joint Base Andrews on arrival
+- 09/19 07:21 [financialjuice] Trump administration to host UN event on AI next week: CNN
+- 09/19 07:21 [financialjuice] Senior US administration official on Xi meeting: AI is on the agenda
+- 09/19 07:21 [financialjuice] Senior US administration official: Busan ceasefire also on agenda for Trump-Xi meeting
+- 09/19 07:22 [financialjuice] Senior US administration official: Bezos, Musk, Dell, Altman among attendees at state dinner
+- 09/19 07:22 [financialjuice] Senior US administration official: We need China to step up on fentanyl efforts

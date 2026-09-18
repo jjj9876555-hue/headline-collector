@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 07:04 JST／対象: 09/18 07:04 〜 09/19 07:04 JST（時刻はすべて日本時間）
+生成: 2026-09-19 07:23 JST／対象: 09/18 07:23 〜 09/19 07:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 337 | 09/18 07:10 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 285 | 09/18 07:45 | 09/19 07:02 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 335 | 09/18 07:23 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 297 | 09/18 07:45 | 09/19 07:22 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 627 行（統合前 636 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 637 行（統合前 646 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 07:10 [FirstSquawk] PENTAGON REVIEWS POTENTIAL CUT OF UP TO 40,000 U.S. TROOPS IN EUROPE, WITH GERMANY, ITALY AND SPAIN AMONG THOSE THAT COULD BE AFFECTED; NO FINAL DECISION HAS BEEN MADE, WITH RECOMMENDATIONS EXPECTED IN NOVEMBER. - NBC NEWS.
-- 09/18 07:20 [FirstSquawk] ZENITH MINERALS’ TAKEOVER OFFER REMAINS OPEN FOR ACCEPTANCES, WITH THE TAKEOVERS PANEL ISSUING ORDERS REGARDING MATTERS INVOLVING FORRESTANIA RESOURCES. || THE ORDERS DO NOT PREVENT FORRESTANIA RESOURCES FROM PROCEEDING WITH ITS TAKEOVER OF…
 - 09/18 07:23 [FirstSquawk] JPMORGAN, CIBC WIN MANDATE TO ADVISE CARNEY GOVERNMENT ON SALE OF CANADA AIRPORT CONCESSIONS
 - 09/18 07:36 [FirstSquawk] U.S. APPROVES VISAS FOR IRANIAN PRESIDENT MASOUD PEZESHKIAN, FOREIGN MINISTER ABBAS ARAGHCHI AND OTHER OFFICIALS TO ATTEND NEXT WEEK’S UN GENERAL ASSEMBLY IN NEW YORK, DESPITE THE ONGOING SIX-MONTH WAR, WITH THE DELEGATION FACING TRAVEL RES…
 - 09/18 07:44 [FirstSquawk] JEDDAH WARNING SIRENS SOUND; FLIGHTS AT JEDDAH AIRPORT HALTED AS PROJECTILE REPORTEDLY FIRED AT JEDDAH — TASNIMNEWS
@@ -651,3 +649,15 @@
 - 09/19 06:47 [financialjuice] White House: 2025 proclamation on H-1B visas extended by 12 months
 - 09/19 06:54 [financialjuice] Saudi civil defense issues warning over potential threat in Farasan
 - 09/19 07:02 [financialjuice] Saudi civil defense: danger has subsided in Farasan
+- 09/19 07:08 [financialjuice] Ukraine's Zelenskiy thanks Trump for signing Russia sanctions bill and Congress members for backing it
+- 09/19 07:08 [financialjuice] Zelenskiy: Best way to honor Senator Lindsey Graham's memory is to enact provisions of bill he backed
+- 09/19 07:12 [financialjuice] Gemini breached protected systems by guessing passwords and locating credentials in public repository during irregular test run - WSJ
+- 09/19 07:13 [financialjuice] US ambassador to UN: Trump to meet Japanese premier
+- 09/19 07:13 [financialjuice] US ambassador to UN: Trump will meet Venezuela's Rodriguez
+- 09/19 07:16 [financialjuice] US deputy national security adviser on Xi visit: Trump and Xi to give remarks at state dinner
+- 09/19 07:16 [financialjuice] White House spokeswoman Kelly: Trump to welcome Xi at Joint Base Andrews on arrival
+- 09/19 07:21 [financialjuice] Trump administration to host UN event on AI next week: CNN
+- 09/19 07:21 [financialjuice] Senior US administration official on Xi meeting: AI is on the agenda
+- 09/19 07:21 [financialjuice] Senior US administration official: Busan ceasefire also on agenda for Trump-Xi meeting
+- 09/19 07:22 [financialjuice] Senior US administration official: Bezos, Musk, Dell, Altman among attendees at state dinner
+- 09/19 07:22 [financialjuice] Senior US administration official: We need China to step up on fentanyl efforts

@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 07:04 JST／対象: 09/18 19:04 〜 09/19 07:04 JST（時刻はすべて日本時間）
+生成: 2026-09-19 07:23 JST／対象: 09/18 19:23 〜 09/19 07:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/18 19:08 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 118 | 09/18 19:14 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 120 | 09/18 19:18 | 09/19 07:02 | ⚠ 53分（20:06→21:00） |
+| DeItaone | 8 | 09/18 20:26 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
+| FirstSquawk | 116 | 09/18 19:39 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 131 | 09/18 19:36 | 09/19 07:22 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 242 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 250 行（統合前 258 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 19:08 [DeItaone] ANTHROPIC BUILDS BIOLOGY LAB TO PUSH AI INTO DRUG DEVELOPMENT Anthropic has quietly established a Bay Area wet lab, moving its life-sciences ambitions beyond computer simulations and into physical biological experiments. The company wants C…
-- 09/18 19:14 [FirstSquawk] RUSSIAN MILITARY STRIKES CARGO SHIP IN ODESA, ACCORDING TO DEFENSE MINISTRY.
-- 09/18 19:17 [FirstSquawk] EU SPOKESPERSON ANNOUNCED AN EU-CANADA SUMMIT AT THE END OF OCTOBER TO DISCUSS IMPROVING RELATIONS.
-- 09/18 19:18 [financialjuice] EU Spokesperson: At end of October EU-Canada summit will take place where we explore parameters for enhancing relationship.
 - 09/18 19:36 [financialjuice] Italy's Economy Minister: Debt burden has begun to rise at an alarming rate.
 - 09/18 19:38 [financialjuice] EuroGroup Head: Economic growth momentum in Euro Zone should continue to the end of the year.
 - 09/18 19:39 [FirstSquawk] EUROGROUP LEADER CONSIDERS EMERGENCY MEETING DUE TO RISING ENERGY PRICES.
@@ -266,3 +262,15 @@
 - 09/19 06:47 [financialjuice] White House: 2025 proclamation on H-1B visas extended by 12 months
 - 09/19 06:54 [financialjuice] Saudi civil defense issues warning over potential threat in Farasan
 - 09/19 07:02 [financialjuice] Saudi civil defense: danger has subsided in Farasan
+- 09/19 07:08 [financialjuice] Ukraine's Zelenskiy thanks Trump for signing Russia sanctions bill and Congress members for backing it
+- 09/19 07:08 [financialjuice] Zelenskiy: Best way to honor Senator Lindsey Graham's memory is to enact provisions of bill he backed
+- 09/19 07:12 [financialjuice] Gemini breached protected systems by guessing passwords and locating credentials in public repository during irregular test run - WSJ
+- 09/19 07:13 [financialjuice] US ambassador to UN: Trump to meet Japanese premier
+- 09/19 07:13 [financialjuice] US ambassador to UN: Trump will meet Venezuela's Rodriguez
+- 09/19 07:16 [financialjuice] US deputy national security adviser on Xi visit: Trump and Xi to give remarks at state dinner
+- 09/19 07:16 [financialjuice] White House spokeswoman Kelly: Trump to welcome Xi at Joint Base Andrews on arrival
+- 09/19 07:21 [financialjuice] Trump administration to host UN event on AI next week: CNN
+- 09/19 07:21 [financialjuice] Senior US administration official on Xi meeting: AI is on the agenda
+- 09/19 07:21 [financialjuice] Senior US administration official: Busan ceasefire also on agenda for Trump-Xi meeting
+- 09/19 07:22 [financialjuice] Senior US administration official: Bezos, Musk, Dell, Altman among attendees at state dinner
+- 09/19 07:22 [financialjuice] Senior US administration official: We need China to step up on fentanyl efforts
