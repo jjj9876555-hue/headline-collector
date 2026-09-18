@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 23:33 JST／対象: 09/17 23:33 〜 09/18 23:33 JST（時刻はすべて日本時間）
+生成: 2026-09-18 23:47 JST／対象: 09/17 23:47 〜 09/18 23:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 09/17 23:42 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 345 | 09/17 23:44 | 09/18 23:29 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 271 | 09/17 23:47 | 09/18 23:23 | ⚠ 60分（06:44→07:45） |
+| DeItaone | 11 | 09/18 00:42 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
+| FirstSquawk | 348 | 09/17 23:53 | 09/18 23:45 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 272 | 09/17 23:47 | 09/18 23:40 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 619 行（統合前 634 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 622 行（統合前 637 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 23:42 [DeItaone] CHINA, U.S. PREPARE FOR XI-TRUMP SUMMIT Chinese Foreign Minister Wang Yi held talks with Marco Rubio ahead of the Xi-Trump summit scheduled for September 24, calling for stronger communication, cooperation and management of differences. The…
-- 09/17 23:44 [FirstSquawk] AN EXPLOSION HAS OCCURRED IN THE STRAIT OF HORMUZ JUST NOW.
 - 09/17 23:47 [financialjuice] French PM sees budgetary effort of around €54b for 2027 - Le Figaro
 - 09/17 23:51 [financialjuice] French PM Lecornu to Le Figaro: Increase in interest rates will cost additional €10 bln to finance debt servicing cost
 - 09/17 23:52 [financialjuice] French PM Lecornu: Without corrective measures the 2027 budget deficit would exceed 6.5% of GDP
@@ -643,3 +641,8 @@
 - 09/18 23:23 [financialjuice] Mexico's President Sheinbaum: Details to be given once a final US deal is reached.
 - 09/18 23:24 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: IN ‘CONSTANT COMMUNICATION’ WITH TRUMP
 - 09/18 23:29 [FirstSquawk] IRGC-NAVY FIRES AT LEAST 5 CRUISE MISSILES AT SHIPS IN THE STRAIT OF HORMOZ.
+- 09/18 23:36 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: WE RESPECT CANADA'S DECISION TO APPROACH EU
+- 09/18 23:40 [FirstSquawk] SAUDI ARABIA'S EAST-WEST PIPELINE SUPPORTS THE GLOBAL OIL MARKET AMIDST DISRUPTIONS IN THE STRAIT OF HORMUZ.
+- 09/18 23:40 [financialjuice] Al Arabiya Sources: Pakistan's Interior Minister is heading to Iran in the coming hours.
+- 09/18 23:44 [FirstSquawk] PAKISTAN'S INTERIOR MINISTER HEADS TO IRAN IN THE COMING HOURS
+- 09/18 23:45 [FirstSquawk] PAKISTANI INTERIOR MINISTER DISCUSSES HOUTHI ESCALATION IN YEMEN DURING TEHRAN VISIT

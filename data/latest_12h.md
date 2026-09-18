@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 23:33 JST／対象: 09/18 11:33 〜 09/18 23:33 JST（時刻はすべて日本時間）
+生成: 2026-09-18 23:47 JST／対象: 09/18 11:47 〜 09/18 23:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 193 | 09/18 11:35 | 09/18 23:29 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 155 | 09/18 11:50 | 09/18 23:23 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 192 | 09/18 11:47 | 09/18 23:45 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 156 | 09/18 11:50 | 09/18 23:40 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 351 行（統合前 352 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 11:35 [FirstSquawk] Pound steadies above 1.3350 ahead of UK retail sales data - FX
-- 09/18 11:37 [FirstSquawk] SpaceX’s Starship Flight 14 set to target launch from Sept. 28
-- 09/18 11:39 [FirstSquawk] Indonesia Finance Minister: Budget deficit stood at 0.93% of GDP in January-August
-- 09/18 11:42 [FirstSquawk] Japan’s JGB yields fall as concerns over energy-driven inflation ease - WSJ
-- 09/18 11:43 [FirstSquawk] Indonesia’s Finance Minister: Economic data shows the economy remains resilient
 - 09/18 11:47 [FirstSquawk] The U.S. and China agree AI needs guardrails, but their priorities differ sharply -WSJ Washington focuses on autonomous systems, cyber risks and human control, while Beijing emphasizes political, ideological and cybersecurity concerns. The …
 - 09/18 11:50 [financialjuice] S.Korea president Lee: single-stock leveraged ETFs came in near final phase of stock rally
 - 09/18 11:51 [FirstSquawk] Indonesia expects an impact from a potential U.S. interest rate hike. Higher U.S. rates could affect Indonesia through capital flows, the rupiah and broader financial conditions. The policy gap between the U.S. and Indonesia remains a key m…
@@ -375,3 +370,8 @@
 - 09/18 23:23 [financialjuice] Mexico's President Sheinbaum: Details to be given once a final US deal is reached.
 - 09/18 23:24 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: IN ‘CONSTANT COMMUNICATION’ WITH TRUMP
 - 09/18 23:29 [FirstSquawk] IRGC-NAVY FIRES AT LEAST 5 CRUISE MISSILES AT SHIPS IN THE STRAIT OF HORMOZ.
+- 09/18 23:36 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: WE RESPECT CANADA'S DECISION TO APPROACH EU
+- 09/18 23:40 [FirstSquawk] SAUDI ARABIA'S EAST-WEST PIPELINE SUPPORTS THE GLOBAL OIL MARKET AMIDST DISRUPTIONS IN THE STRAIT OF HORMUZ.
+- 09/18 23:40 [financialjuice] Al Arabiya Sources: Pakistan's Interior Minister is heading to Iran in the coming hours.
+- 09/18 23:44 [FirstSquawk] PAKISTAN'S INTERIOR MINISTER HEADS TO IRAN IN THE COMING HOURS
+- 09/18 23:45 [FirstSquawk] PAKISTANI INTERIOR MINISTER DISCUSSES HOUTHI ESCALATION IN YEMEN DURING TEHRAN VISIT

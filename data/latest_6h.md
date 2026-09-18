@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 23:33 JST／対象: 09/18 17:33 〜 09/18 23:33 JST（時刻はすべて日本時間）
+生成: 2026-09-18 23:47 JST／対象: 09/18 17:47 〜 09/18 23:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 66 | 09/18 17:53 | 09/18 23:29 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 45 | 09/18 18:00 | 09/18 23:23 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 70 | 09/18 17:53 | 09/18 23:45 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 46 | 09/18 18:00 | 09/18 23:40 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 114 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 119 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -138,3 +138,8 @@
 - 09/18 23:23 [financialjuice] Mexico's President Sheinbaum: Details to be given once a final US deal is reached.
 - 09/18 23:24 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: IN ‘CONSTANT COMMUNICATION’ WITH TRUMP
 - 09/18 23:29 [FirstSquawk] IRGC-NAVY FIRES AT LEAST 5 CRUISE MISSILES AT SHIPS IN THE STRAIT OF HORMOZ.
+- 09/18 23:36 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: WE RESPECT CANADA'S DECISION TO APPROACH EU
+- 09/18 23:40 [FirstSquawk] SAUDI ARABIA'S EAST-WEST PIPELINE SUPPORTS THE GLOBAL OIL MARKET AMIDST DISRUPTIONS IN THE STRAIT OF HORMUZ.
+- 09/18 23:40 [financialjuice] Al Arabiya Sources: Pakistan's Interior Minister is heading to Iran in the coming hours.
+- 09/18 23:44 [FirstSquawk] PAKISTAN'S INTERIOR MINISTER HEADS TO IRAN IN THE COMING HOURS
+- 09/18 23:45 [FirstSquawk] PAKISTANI INTERIOR MINISTER DISCUSSES HOUTHI ESCALATION IN YEMEN DURING TEHRAN VISIT
