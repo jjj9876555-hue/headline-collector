@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 08:23 JST／対象: 09/18 08:23 〜 09/19 08:23 JST（時刻はすべて日本時間）
+生成: 2026-09-19 08:40 JST／対象: 09/18 08:40 〜 09/19 08:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 328 | 09/18 08:26 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 300 | 09/18 08:30 | 09/19 07:38 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 326 | 09/18 08:49 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 286 | 09/18 08:53 | 09/19 07:38 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 633 行（統合前 642 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 617 行（統合前 626 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 08:26 [FirstSquawk] ASUS, POESIS PARTNER ON AUTONOMOUS TRADING AGENTS POWERED BY NVIDIA TECHNOLOGIES
-- 09/18 08:30 [financialjuice] ❗ JAPANESE CORE CPI NATIONWIDE YOY ACTUAL 1.7% (FORECAST 1.8%, PREVIOUS 1.8%) $MACRO
-- 09/18 08:30 [financialjuice] ‼ BREAKING: JAPANESE CPI OVERALL NATIONWIDE ACTUAL 1.9% (FORECAST 2%, PREVIOUS 1.9%) $MACRO
-- 09/18 08:30 [financialjuice] Japan August nationwide core CPI rises 1.7% year on year, government says (Poll: +1.8%)
-- 09/18 08:30 [financialjuice] Japan August nationwide core-core CPI excluding fresh food and energy prices rises 1.9% yr/yr: govt
-- 09/18 08:30 [financialjuice] Japan August nationwide overall CPI rises 1.9% year on year: govt
-- 09/18 08:31 [FirstSquawk] JAPAN'S AUGUST NATIONWIDE CPI ROSE 1.9% YEAR-ON-YEAR, JUST BELOW THE 2.0% ESTIMATE, WITH CPI EX-FRESH FOOD UP 1.7% VERSUS 1.8% EXPECTED AND CPI EX-FRESH FOOD AND ENERGY UP 1.9%
-- 09/18 08:36 [financialjuice] RBA Governor Bullock: various indicators indicate labor market conditions stay near, but slightly tighter than, full employment
-- 09/18 08:36 [financialjuice] RBA Governor Bullock: at August board meeting, risks to outlook were skewed to the upside
-- 09/18 08:36 [financialjuice] RBA Governor Bullock: developments since then indicate that while growth in the Australian economy is slowing, some upside risks to inflation seem to be materializing
-- 09/18 08:37 [financialjuice] RBA Governor Bullock: liaison program shows many firms are passing on higher input costs
-- 09/18 08:37 [financialjuice] RBA Governor Bullock: recent figures broadly align with expectation of demand growth easing in H1 2026
-- 09/18 08:37 [financialjuice] RBA governor Bullock: housing market conditions have softened, larger-than-expected easing could weigh on economic activity
-- 09/18 08:38 [financialjuice] RBA Governor Bullock: key question is whether monetary tightening to date will be enough to return inflation to target in reasonable time
-- 09/18 08:38 [financialjuice] RBA Governor Bullock: monetary policy positioned to address developments with focus on price stability and full employment
-- 09/18 08:38 [financialjuice] RBA Governor Bullock: lowering inflation is crucial
 - 09/18 08:49 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 1.0% IN EARLY TRADE; 10-YEAR JGB FUTURES UP 0.1 POINT
 - 09/18 08:49 [FirstSquawk] RBA GOVERNOR BULLOCK SAYS VARIOUS INDICATORS CONTINUE TO SUGGEST THAT LABOUR MARKET CONDITIONS REMAIN CLOSE TO, BUT A LITTLE TIGHTER THAN, FULL EMPLOYMENT, AND THAT WHILE GROWTH IN THE AUSTRALIAN ECONOMY IS SLOWING, SOME OF THE UPSIDE RISKS…
 - 09/18 08:49 [FirstSquawk] RBA BULLOCK SAYS CONDITIONS IN THE HOUSING MARKET HAVE SOFTENED, WITH A LARGER-THAN-EXPECTED EASING A POTENTIAL DOWNSIDE RISK TO ACTIVITY, AND THAT A KEY QUESTION IS WHETHER THE TIGHTENING IN MONETARY POLICY TO DATE WILL BE SUFFICIENT TO BR…
