@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 15:41 JST／対象: 09/17 15:41 〜 09/18 15:41 JST（時刻はすべて日本時間）
+生成: 2026-09-18 15:56 JST／対象: 09/17 15:56 〜 09/18 15:56 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 336 | 09/17 15:47 | 09/18 15:41 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 324 | 09/17 15:42 | 09/18 15:39 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 342 | 09/17 15:58 | 09/18 15:55 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 328 | 09/17 16:01 | 09/18 15:55 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 661 行（統合前 678 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 671 行（統合前 688 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 15:42 [financialjuice] JBA's Kato: Rate still accommodative, expect more hikes
-- 09/17 15:47 [FirstSquawk] UOB: Sterling remains vulnerable to further weakness against the US dollar despite oversold conditions.
 - 09/17 15:58 [FirstSquawk] Russia uses North Korean workers in drone production for its war effort in Ukraine, SCMP reports.
 - 09/17 16:01 [financialjuice] EU: Canada deal is 'for our common strength’ - Spokesman
 - 09/17 16:07 [DeItaone] *EU SAYS CANADA DEAL IS ‘NOT AGAINST ANYONE ELSE’: SPOKESMAN *EU SAYS CANADA DEAL IS ‘FOR OUR COMMON STRENGTH’: SPOKESMAN Comes after US President Trump’s response to the proposal yesterday: “If they do that, if I think it’s at all a hostil…
@@ -685,3 +683,15 @@
 - 09/18 15:38 [FirstSquawk] BOJ Governor Ueda says the policy adjustment was aimed at securing the 2% inflation target on a stable and sustainable basis.
 - 09/18 15:39 [financialjuice] BoJ Gov Ueda: Middle East situation continues to be uncertain.
 - 09/18 15:41 [FirstSquawk] Ueda warns that the BOJ needs to closely monitor potential upward pressure on inflation, particularly from developments in the Middle East.
+- 09/18 15:43 [financialjuice] BoJ's Gov Ueda: Stage for policy conduct has changed.
+- 09/18 15:45 [financialjuice] BoJ Gov Ueda: Short-term objective has changed significantly.
+- 09/18 15:46 [financialjuice] BoJ Gov Ueda: No comment about short-term market moves.
+- 09/18 15:46 [FirstSquawk] Ueda says the BOJ will conduct a fresh risk assessment at each monetary policy meeting.
+- 09/18 15:47 [FirstSquawk] USD/JPY pares some gains as Ueda speaks, last up 0.53% at 156.80.
+- 09/18 15:48 [FirstSquawk] BOJ Governor Ueda says the level of the terminal rate will become clear only after observing future economic and inflation trends.
+- 09/18 15:50 [FirstSquawk] BOJ Governor Ueda says policymakers want to assess whether underlying price growth will remain anchored around 2%.
+- 09/18 15:50 [financialjuice] BoJ Gov Ueda: We want to see whether trend inflation stays at 2% after reaching it around end of fy2026 into fy2027.
+- 09/18 15:50 [FirstSquawk] Ueda: The BOJ will assess whether inflation stays at 2% once it reaches the target around the end of FY2026 and during FY2027.
+- 09/18 15:54 [FirstSquawk] Katayama: Japan will take steps to preserve stability and orderly trading in the FX market.
+- 09/18 15:55 [financialjuice] BoJ Gov Ueda: Rate hikes have gradually tightened financial conditions.
+- 09/18 15:55 [FirstSquawk] Ueda: The BOJ must be mindful of the potential negative impact of aggressive rate hikes.
