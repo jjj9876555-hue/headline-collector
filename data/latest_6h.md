@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 17:18 JST／対象: 09/18 11:18 〜 09/18 17:18 JST（時刻はすべて日本時間）
+生成: 2026-09-18 17:34 JST／対象: 09/18 11:34 〜 09/18 17:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 135 | 09/18 11:24 | 09/18 17:10 | 13分（14:47→15:01） |
+| FirstSquawk | 127 | 09/18 11:35 | 09/18 17:10 | 13分（14:47→15:01） |
 | financialjuice | 110 | 09/18 11:50 | 09/18 17:18 | ⚠ 52分（13:07→14:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 245 行（統合前 245 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 237 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 11:24 [FirstSquawk] South Korea President Lee: US-North Korea talks would be important for the Korean Peninsula
-- 09/18 11:24 [FirstSquawk] President Lee: Cannot confirm whether Trump-Kim talks will take place
-- 09/18 11:24 [FirstSquawk] South Korea’s President Lee: Trump is seeking talks with North Korea
-- 09/18 11:25 [FirstSquawk] South Korea President Lee: Trump-Kim talks may be difficult, but cannot be ruled out
-- 09/18 11:25 [FirstSquawk] South Korea President Lee: South Korea will have a role in any US-North Korea talks
-- 09/18 11:25 [FirstSquawk] Offshore yuan reaches strongest level since July 2022
-- 09/18 11:29 [FirstSquawk] Waymo to begin robotaxi operations in Singapore in 2028
-- 09/18 11:32 [FirstSquawk] Tokyo weighs ordinance banning littering as downtown waste concerns grow
 - 09/18 11:35 [FirstSquawk] Pound steadies above 1.3350 ahead of UK retail sales data - FX
 - 09/18 11:37 [FirstSquawk] SpaceX’s Starship Flight 14 set to target launch from Sept. 28
 - 09/18 11:39 [FirstSquawk] Indonesia Finance Minister: Budget deficit stood at 0.93% of GDP in January-August
