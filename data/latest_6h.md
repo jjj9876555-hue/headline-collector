@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 04:51 JST／対象: 09/18 22:51 〜 09/19 04:51 JST（時刻はすべて日本時間）
+生成: 2026-09-19 05:04 JST／対象: 09/18 23:04 〜 09/19 05:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 67 | 09/18 23:07 | 09/19 04:50 | 19分（04:21→04:40） |
-| financialjuice | 54 | 09/18 22:59 | 09/19 04:51 | 38分（02:01→02:40） |
+| FirstSquawk | 73 | 09/18 23:07 | 09/19 05:02 | 19分（04:21→04:40） |
+| financialjuice | 54 | 09/18 23:12 | 09/19 05:02 | 38分（02:01→02:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 117 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 123 行（統合前 130 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 22:59 [financialjuice] Bild: The German Government plans to cut energy tax on gasoline by 14 cents per litre.
-- 09/18 23:01 [financialjuice] US LEADING INDEX CHANGE MOM ACTUAL -0.1% (FORECAST 0.1%, PREVIOUS 0.2%) $MACRO
 - 09/18 23:07 [FirstSquawk] US CDC: WORKING WITH COUNCIL OF STATE & TERRITORIAL EPIDEMIOLOGISTS TO DEVELOP STANDARDIZED CASE DEFINITION FOR DEATHS DUE TO MEASLES
 - 09/18 23:09 [FirstSquawk] TREASURY PERMITS CERTAIN TRANSACTIONS FOR LUKOIL INTERNATIONAL GMBH.
 - 09/18 23:12 [financialjuice] The Treasury allows some Lukoil International GMBH actions.
@@ -141,3 +139,11 @@
 - 09/19 04:50 [FirstSquawk] NSCALE HAS SUBMITTED ITS APPLICATION FOR AN IPO AND AIMS TO BE LISTED ON THE NYSE UNDER THE TICKER 'NSCL.'
 - 09/19 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -5524.6 MLN NASDAQ 100: 37.6 MLN DOW 30: -362.2 MLN MAG 7: -260.1 MLN $MACRO
 - 09/19 04:51 [financialjuice] Nscale targeting multi-billion-dollar listing and valuation around $30 billion - CNBC
+- 09/19 04:54 [FirstSquawk] TRUMP ANNOUNCES A NEW PROGRAM PROVIDING MFN DRUG DISCOUNTS DIRECTLY TO STATE MEDICAID PROGRAMS COVERING NEARLY 70 MLN AMERICANS - FOX
+- 09/19 04:54 [financialjuice] Nscale: Entered unsecured convertable loan notes pact with Nvidia. $NVDA
+- 09/19 04:59 [FirstSquawk] TRUMP: WE'LL BE RECOMMENDING DRUG FIRMS MAKE SMALL DOSE SHOTS
+- 09/19 05:00 [FirstSquawk] TRUMP: WILL RECOMMEND SHOTS IN 20% DOSES
+- 09/19 05:00 [FirstSquawk] TRUMP: WE'LL BREAK VACCINES INTO 20% DOSES
+- 09/19 05:02 [FirstSquawk] TRUMP: GOING TO RECOMMEND 5 VACCINE DOSES, GIVEN 6-MO INTERVALS
+- 09/19 05:02 [FirstSquawk] TRUMP: WILL BE DEMANDING THIS VACCINE CHANGE OF DRUG COMPANIES
+- 09/19 05:02 [financialjuice] Dow's 1.7% decline is the weekly loss since March

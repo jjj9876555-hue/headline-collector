@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 04:51 JST／対象: 09/18 16:51 〜 09/19 04:51 JST（時刻はすべて日本時間）
+生成: 2026-09-19 05:04 JST／対象: 09/18 17:04 〜 09/19 05:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 136 | 09/18 16:54 | 09/19 04:50 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 101 | 09/18 16:54 | 09/19 04:51 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 132 | 09/18 17:10 | 09/19 05:02 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 97 | 09/18 17:08 | 09/19 05:02 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 236 行（統合前 244 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 228 行（統合前 236 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 16:54 [financialjuice] EU Economy Commissioner Dombrovskis: Economy is proving resilient.
-- 09/18 16:54 [financialjuice] EU's Economy Commissioner Dombrovskis: Windfall tax will be touched upon.
-- 09/18 16:54 [FirstSquawk] DOMBROVSKIS STRESSES IMPORTANCE OF MONITORING BOND MARKET.
-- 09/18 16:54 [FirstSquawk] DOMBROVSKIS SAYS THE ECONOMY IS SHOWING STRENGTH.
-- 09/18 16:54 [FirstSquawk] DOMBROVSKIS ANNOUNCES THAT THE WINDFALL TAX WILL BE ADDRESSED.
-- 09/18 16:54 [FirstSquawk] DOMBROVSKIS IS PREPARED TO TALK ABOUT WINDFALL TAX.
-- 09/18 16:55 [FirstSquawk] DOMBROVSKIS STATES EU-WIDE WINDFALL TAX IS NOT BEING PROPOSED AT THIS TIME.
-- 09/18 16:57 [financialjuice] ECB's Kaasik: Exact level of neutral rate not a big concern now.
-- 09/18 16:57 [FirstSquawk] KAASIK SAYS MORE RESTRICTIONS REQUIRED IF INFLATION RISKS OCCUR.
-- 09/18 16:57 [FirstSquawk] ECB'S KAASIK STRESSES THE IMPORTANCE OF AVOIDING SECOND-ROUND EFFECTS.
-- 09/18 16:57 [financialjuice] ECB's Kaasik: We must prevent second-round effects.
-- 09/18 16:57 [FirstSquawk] ECB'S KAASIK STATES THAT THE PRECISE NEUTRAL INTEREST RATE IS NOT A MAJOR ISSUE AT THE MOMENT.
-- 09/18 17:00 [financialjuice] EUROZONE CURRENT ACCOUNT ACTUAL 27.628B (FORECAST -, PREVIOUS 35.100B) $MACRO
-- 09/18 17:01 [FirstSquawk] EUROZONE ECB ONE-YEAR CPI EXPECTATIONS IN AUGUST AT 3.0% (ESTIMATED 3.1%; PREVIOUS 2.9%), AND THREE-YEAR CPI EXPECTATIONS AT 2.9% (ESTIMATED 2.8%; PREVIOUS 2.7%).
-- 09/18 17:01 [financialjuice] Euro Area August 1-year CPI expectations rise to 3%; 3-year rises to 2.9%.
-- 09/18 17:01 [FirstSquawk] EU CURRENT ACCOUNT SA FOR JULY SHOWED A SURPLUS OF 27.6 BILLION EUROS, DOWN FROM 35.1 BILLION EUROS LAST MONTH.
 - 09/18 17:08 [financialjuice] ECB's President Lagarde: We'll decide on rates meeting by meeting.
 - 09/18 17:09 [financialjuice] ECB's President Lagarde: Growth is a bit more promising than we thought.
 - 09/18 17:10 [financialjuice] ECB's President Lagarde: Not seeing second-round effects yet.
@@ -260,3 +244,11 @@
 - 09/19 04:50 [FirstSquawk] NSCALE HAS SUBMITTED ITS APPLICATION FOR AN IPO AND AIMS TO BE LISTED ON THE NYSE UNDER THE TICKER 'NSCL.'
 - 09/19 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -5524.6 MLN NASDAQ 100: 37.6 MLN DOW 30: -362.2 MLN MAG 7: -260.1 MLN $MACRO
 - 09/19 04:51 [financialjuice] Nscale targeting multi-billion-dollar listing and valuation around $30 billion - CNBC
+- 09/19 04:54 [FirstSquawk] TRUMP ANNOUNCES A NEW PROGRAM PROVIDING MFN DRUG DISCOUNTS DIRECTLY TO STATE MEDICAID PROGRAMS COVERING NEARLY 70 MLN AMERICANS - FOX
+- 09/19 04:54 [financialjuice] Nscale: Entered unsecured convertable loan notes pact with Nvidia. $NVDA
+- 09/19 04:59 [FirstSquawk] TRUMP: WE'LL BE RECOMMENDING DRUG FIRMS MAKE SMALL DOSE SHOTS
+- 09/19 05:00 [FirstSquawk] TRUMP: WILL RECOMMEND SHOTS IN 20% DOSES
+- 09/19 05:00 [FirstSquawk] TRUMP: WE'LL BREAK VACCINES INTO 20% DOSES
+- 09/19 05:02 [FirstSquawk] TRUMP: GOING TO RECOMMEND 5 VACCINE DOSES, GIVEN 6-MO INTERVALS
+- 09/19 05:02 [FirstSquawk] TRUMP: WILL BE DEMANDING THIS VACCINE CHANGE OF DRUG COMPANIES
+- 09/19 05:02 [financialjuice] Dow's 1.7% decline is the weekly loss since March
