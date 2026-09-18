@@ -7,26 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 10:17 JST／対象: 09/18 04:17 〜 09/18 10:17 JST（時刻はすべて日本時間）
+生成: 2026-09-18 10:31 JST／対象: 09/18 04:31 〜 09/18 10:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/18 06:19 | 09/18 06:19 | - |
-| FirstSquawk | 77 | 09/18 04:40 | 09/18 10:15 | 39分（05:40→06:20） |
-| financialjuice | 53 | 09/18 04:24 | 09/18 10:17 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 81 | 09/18 04:40 | 09/18 10:28 | 39分（05:40→06:20） |
+| financialjuice | 54 | 09/18 04:33 | 09/18 10:28 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 126 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 132 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 04:24 [financialjuice] Friday FX Option Expiries
-- 09/18 04:30 [financialjuice/FirstSquawk] UKMTO has received a report of a security incident in the Strait of Hormuz 16NM northeast of Khasab, Oman.
 - 09/18 04:33 [financialjuice] US money-market fund assets fall to $7.92 trillion at ICI.
+- 09/18 04:40 [FirstSquawk] UKMTO HAS RECEIVED A REPORT OF A SECURITY INCIDENT IN THE STRAIT OF HORMUZ 16NM NORTHEAST OF KHASAB, OMAN.
 - 09/18 04:41 [FirstSquawk] US MONEY-MARKET FUND ASSETS FALL TO $7.92 TRILLION — ICI
 - 09/18 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 3057.3 MLN NASDAQ 100: 1454.0 MLN DOW 30: 1387.4 MLN MAG 7: 928.8 MLN $MACRO
 - 09/18 04:51 [financialjuice/FirstSquawk] Israel's Prime Minister Netanyahu at campaign launch: We must complete the mission to the very end, and topple the Iranian regime - N12 News.
@@ -150,3 +149,10 @@
 - 09/18 10:13 [financialjuice] Saudi embassy in US: Proposed F-35 sale signals strength and durability of Saudi-US strategic partnership
 - 09/18 10:15 [FirstSquawk] China’s central bank sets yuan midpoint at 6.7521 per dollar
 - 09/18 10:17 [financialjuice] PBOC sets yuan midpoint at strongest level since Feb. 3, 2023
+- 09/18 10:18 [FirstSquawk] Yuan midpoint fixed at strongest level since Feb. 3, 2023
+- 09/18 10:22 [financialjuice] China pumps 463.3 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/18 10:23 [financialjuice] China cbank pumps 100 bln yuan via 14 day reverse repos: statement
+- 09/18 10:25 [FirstSquawk] Japanese yen weakens toward a two-week low against USD after CPI data, ahead of BoJ
+- 09/18 10:26 [FirstSquawk] China’s CSI SH-SZ-HK Gold Equity Index poised to rise 2% at the open
+- 09/18 10:28 [FirstSquawk] RBA Governor Bullock: Forward-looking indicators suggest the labour market is stable
+- 09/18 10:28 [financialjuice] RBA Governor Bullock: forward-looking labor market gauges remain steady

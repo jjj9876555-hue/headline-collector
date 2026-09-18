@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 10:17 JST／対象: 09/17 22:17 〜 09/18 10:17 JST（時刻はすべて日本時間）
+生成: 2026-09-18 10:31 JST／対象: 09/17 22:31 〜 09/18 10:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/17 22:31 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 142 | 09/17 22:24 | 09/18 10:15 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 119 | 09/17 22:31 | 09/18 10:17 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 144 | 09/17 22:35 | 09/18 10:28 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 121 | 09/17 22:37 | 09/18 10:28 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 262 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 266 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 22:24 [FirstSquawk] MICROSOFT, MARVELL, AND UTIMACO ARE COLLABORATING TO INTRODUCE A FIRST-OF-ITS-KIND SECURE PAYMENTS SOLUTION THAT CAN SCALE WITH CLOUD TECHNOLOGY.
-- 09/17 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -26.3 MLN NASDAQ 100: 1.8 MLN DOW 30: -10.4 MLN MAG 7: 9.3 MLN $MACRO
-- 09/17 22:31 [FirstSquawk] NASDAQ UP 397.63 POINTS, OR 1.53 PERCENT, AT 26,376.05 AFTER MARKET OPEN S&P 500 UP 88.67 POINTS, OR 1.17 %, AT 7,640.48 AFTER MARKET OPEN DOW JONES UP 413.71 POINTS, OR 0.80 PERCENT, AT 51,875.61 AFTER MARKET OPEN
 - 09/17 22:31 [DeItaone] SOME CRYPTO STOCKS RISE AFTER US SECURITIES REGULATOR ROLLS OUT FIVE-YEAR EXEMPTION FOR TOKENIZED STOCK TRADING
 - 09/17 22:35 [FirstSquawk] US TO INVEST HUNDREDS OF MILLIONS OF DOLLARS IN NIGER'S URANIUM MINING SECTOR, YEARS AFTER TROOPS WERE EXPELLED, COMPANY STATEMENT AND SOURCES SAY
 - 09/17 22:35 [FirstSquawk] US OFFICIALS LOBBIED TO PREVENT URANIUM, A CRITICAL MINERAL, FROM FALLING INTO RIVAL HANDS, SOURCES SAY
@@ -286,3 +283,10 @@
 - 09/18 10:13 [financialjuice] Saudi embassy in US: Proposed F-35 sale signals strength and durability of Saudi-US strategic partnership
 - 09/18 10:15 [FirstSquawk] China’s central bank sets yuan midpoint at 6.7521 per dollar
 - 09/18 10:17 [financialjuice] PBOC sets yuan midpoint at strongest level since Feb. 3, 2023
+- 09/18 10:18 [FirstSquawk] Yuan midpoint fixed at strongest level since Feb. 3, 2023
+- 09/18 10:22 [financialjuice] China pumps 463.3 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/18 10:23 [financialjuice] China cbank pumps 100 bln yuan via 14 day reverse repos: statement
+- 09/18 10:25 [FirstSquawk] Japanese yen weakens toward a two-week low against USD after CPI data, ahead of BoJ
+- 09/18 10:26 [FirstSquawk] China’s CSI SH-SZ-HK Gold Equity Index poised to rise 2% at the open
+- 09/18 10:28 [FirstSquawk] RBA Governor Bullock: Forward-looking indicators suggest the labour market is stable
+- 09/18 10:28 [financialjuice] RBA Governor Bullock: forward-looking labor market gauges remain steady

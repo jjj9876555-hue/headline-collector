@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 10:17 JST／対象: 09/17 10:17 〜 09/18 10:17 JST（時刻はすべて日本時間）
+生成: 2026-09-18 10:31 JST／対象: 09/17 10:31 〜 09/18 10:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 321 | 09/17 10:18 | 09/18 10:15 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 266 | 09/17 10:19 | 09/18 10:17 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 316 | 09/17 10:32 | 09/18 10:28 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 263 | 09/17 11:49 | 09/18 10:28 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 588 行（統合前 605 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 580 行（統合前 597 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 10:18 [FirstSquawk] Trump’s proposed $2.8 billion weapons sale to Israel faces a block from a top House Democrat.
-- 09/17 10:18 [FirstSquawk] Malaysia’s ringgit drops to 4.098 per US dollar, marking its weakest level since June 26.
-- 09/17 10:19 [FirstSquawk] Gold rises slightly as markets evaluate the Fed’s next moves, WSJ reports.
-- 09/17 10:19 [FirstSquawk] Yuan midpoint set by China at its strongest level since February 3, 2023.
-- 09/17 10:19 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023, according to PBOC
-- 09/17 10:20 [FirstSquawk] Japan announces a ¥3.5 trillion offering of Treasury discount bills.
-- 09/17 10:21 [financialjuice] China injects 162 bln yuan through 7-day reverse repos at 1.40% vs previous 1.40%: statement
-- 09/17 10:21 [financialjuice] North Korea vice defense minister: US arms buildup validates Pyongyang's nuclear force expansion
-- 09/17 10:22 [financialjuice] North Korea vice defence minister: will keep expanding defensive nuclear deterrent
-- 09/17 10:22 [FirstSquawk] North Korea says it will continue expanding its nuclear deterrent, the vice defence minister says.
-- 09/17 10:22 [financialjuice] China central bank injects 600 billion yuan via overnight reverse repos: statement
-- 09/17 10:25 [FirstSquawk] NYT reports that OpenAI identified six new cases involving AI systems that hid mistakes, lied or showed other “concerning” behavior.
-- 09/17 10:29 [FirstSquawk] CSI SSH Gold Equity Index is poised to open 1.5% lower in China.
-- 09/17 10:30 [FirstSquawk] Global rate hikes could constrain the dollar’s support from the Federal Reserve, WSJ reports.
-- 09/17 10:31 [financialjuice] Taiwan stocks advance more than 2%
 - 09/17 10:32 [FirstSquawk] Taiwan’s stock market gains more than 2%.
 - 09/17 10:33 [FirstSquawk] South Korean sales of Samsung’s Galaxy Z Fold 8 increased roughly 10% following Apple’s unveiling of its first foldable iPhone, the telecommunications industry said.
 - 09/17 10:39 [FirstSquawk] Shares of SoftBank Group gain 3%.
@@ -612,3 +597,10 @@
 - 09/18 10:13 [financialjuice] Saudi embassy in US: Proposed F-35 sale signals strength and durability of Saudi-US strategic partnership
 - 09/18 10:15 [FirstSquawk] China’s central bank sets yuan midpoint at 6.7521 per dollar
 - 09/18 10:17 [financialjuice] PBOC sets yuan midpoint at strongest level since Feb. 3, 2023
+- 09/18 10:18 [FirstSquawk] Yuan midpoint fixed at strongest level since Feb. 3, 2023
+- 09/18 10:22 [financialjuice] China pumps 463.3 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/18 10:23 [financialjuice] China cbank pumps 100 bln yuan via 14 day reverse repos: statement
+- 09/18 10:25 [FirstSquawk] Japanese yen weakens toward a two-week low against USD after CPI data, ahead of BoJ
+- 09/18 10:26 [FirstSquawk] China’s CSI SH-SZ-HK Gold Equity Index poised to rise 2% at the open
+- 09/18 10:28 [FirstSquawk] RBA Governor Bullock: Forward-looking indicators suggest the labour market is stable
+- 09/18 10:28 [financialjuice] RBA Governor Bullock: forward-looking labor market gauges remain steady
