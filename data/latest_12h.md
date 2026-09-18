@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 13:03 JST／対象: 09/18 01:03 〜 09/18 13:03 JST（時刻はすべて日本時間）
+生成: 2026-09-18 13:21 JST／対象: 09/18 01:21 〜 09/18 13:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/18 02:10 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 184 | 09/18 01:07 | 09/18 13:01 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 151 | 09/18 01:29 | 09/18 13:02 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 186 | 09/18 01:29 | 09/18 13:20 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 159 | 09/18 01:29 | 09/18 13:07 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 334 行（統合前 347 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 344 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 01:07 [FirstSquawk] US PUSHES FOR 50% STEEL TARIFFS AMONG G20 PARTNERS
-- 09/18 01:10 [FirstSquawk] TANKER REPORTS PURSUIT BY SKIFF 75NM EAST OF ADEN - UKMTO
-- 09/18 01:16 [FirstSquawk] FEDERAL AVIATION ADMINISTRATION APPROVES BOEING REQUEST TO SELL UP TO 35 ADDITIONAL 777F FREIGHTERS -- AGENCY
 - 09/18 01:29 [financialjuice] French PM Lecornu: Targeting 2027 deficit at 5% of GDP
 - 09/18 01:29 [FirstSquawk] RUSSIA CLAIMS TO HAVE STRUCK SHIP AT UKRAINE'S CHORNOMORSK PORT - IFX
 - 09/18 01:29 [financialjuice] French PM Lecornu aims to keep 2026 deficit below 5.5% GDP
@@ -358,3 +355,16 @@
 - 09/18 13:01 [FirstSquawk] Benchmark 20-year Japanese government bond yield rises 1.5bp to 3.850%.
 - 09/18 13:02 [financialjuice] Pakistan army chief urges Iran to rein in Houthis: FT
 - 09/18 13:02 [financialjuice] Venezuela nears deal to transfer $4bn gold reserve to New York: FT
+- 09/18 13:03 [FirstSquawk] FT: Pakistan military chief asks Tehran to exercise restraint over the Houthis.
+- 09/18 13:04 [FirstSquawk] FT: Venezuela is nearing an arrangement to relocate $4 billion of its gold holdings to New York.
+- 09/18 13:04 [financialjuice] Hyundai Motor CEO: US could face spike in Chinese imports without tariffs, other protections
+- 09/18 13:04 [financialjuice] Hyundai Motor CEO: company needs time to collect data from millions of cars before debuting own self-driving tech
+- 09/18 13:04 [financialjuice] Hyundai Motor CEO: Chinese rivals' innovation, advancement and technology are unbelievable
+- 09/18 13:05 [financialjuice] Dollar/yen extends gains after BoJ decision, up 0.68% at 157 yen
+- 09/18 13:05 [financialjuice] Dollar/yen at highest level since Sept. 3
+- 09/18 13:05 [financialjuice] euro/yen rises 0.82% to 180.43 yen
+- 09/18 13:06 [financialjuice] Aussie/yen AUDJPY rises 1.04% to 112.02 yen
+- 09/18 13:07 [FirstSquawk] China Emergency Management Ministry: August disasters resulted in direct economic losses of 36.03 billion yuan.
+- 09/18 13:07 [financialjuice] ❗ BOJ RATE DECISION ACTUAL 1.25% (FORECAST 1.25%, PREVIOUS 1%) $MACRO
+- 09/18 13:12 [FirstSquawk] Benchmark 40-year Japanese government bond yield rises 2bp to 4.135%.
+- 09/18 13:20 [FirstSquawk] WSJ: Singapore dollar remains stable as markets weigh the risk of U.S. dollar debasement.

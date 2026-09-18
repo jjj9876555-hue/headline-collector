@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 13:03 JST／対象: 09/18 07:03 〜 09/18 13:03 JST（時刻はすべて日本時間）
+生成: 2026-09-18 13:21 JST／対象: 09/18 07:21 〜 09/18 13:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 126 | 09/18 07:10 | 09/18 13:01 | 20分（08:06→08:26） |
-| financialjuice | 100 | 09/18 07:45 | 09/18 13:02 | ⚠ 49分（12:12→13:02） |
+| FirstSquawk | 129 | 09/18 07:23 | 09/18 13:20 | 20分（08:06→08:26） |
+| financialjuice | 108 | 09/18 07:45 | 09/18 13:07 | ⚠ 49分（12:12→13:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 226 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 237 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 07:10 [FirstSquawk] PENTAGON REVIEWS POTENTIAL CUT OF UP TO 40,000 U.S. TROOPS IN EUROPE, WITH GERMANY, ITALY AND SPAIN AMONG THOSE THAT COULD BE AFFECTED; NO FINAL DECISION HAS BEEN MADE, WITH RECOMMENDATIONS EXPECTED IN NOVEMBER. - NBC NEWS.
-- 09/18 07:20 [FirstSquawk] ZENITH MINERALS’ TAKEOVER OFFER REMAINS OPEN FOR ACCEPTANCES, WITH THE TAKEOVERS PANEL ISSUING ORDERS REGARDING MATTERS INVOLVING FORRESTANIA RESOURCES. || THE ORDERS DO NOT PREVENT FORRESTANIA RESOURCES FROM PROCEEDING WITH ITS TAKEOVER OF…
 - 09/18 07:23 [FirstSquawk] JPMORGAN, CIBC WIN MANDATE TO ADVISE CARNEY GOVERNMENT ON SALE OF CANADA AIRPORT CONCESSIONS
 - 09/18 07:36 [FirstSquawk] U.S. APPROVES VISAS FOR IRANIAN PRESIDENT MASOUD PEZESHKIAN, FOREIGN MINISTER ABBAS ARAGHCHI AND OTHER OFFICIALS TO ATTEND NEXT WEEK’S UN GENERAL ASSEMBLY IN NEW YORK, DESPITE THE ONGOING SIX-MONTH WAR, WITH THE DELEGATION FACING TRAVEL RES…
 - 09/18 07:44 [FirstSquawk] JEDDAH WARNING SIRENS SOUND; FLIGHTS AT JEDDAH AIRPORT HALTED AS PROJECTILE REPORTEDLY FIRED AT JEDDAH — TASNIMNEWS
@@ -250,3 +248,16 @@
 - 09/18 13:01 [FirstSquawk] Benchmark 20-year Japanese government bond yield rises 1.5bp to 3.850%.
 - 09/18 13:02 [financialjuice] Pakistan army chief urges Iran to rein in Houthis: FT
 - 09/18 13:02 [financialjuice] Venezuela nears deal to transfer $4bn gold reserve to New York: FT
+- 09/18 13:03 [FirstSquawk] FT: Pakistan military chief asks Tehran to exercise restraint over the Houthis.
+- 09/18 13:04 [FirstSquawk] FT: Venezuela is nearing an arrangement to relocate $4 billion of its gold holdings to New York.
+- 09/18 13:04 [financialjuice] Hyundai Motor CEO: US could face spike in Chinese imports without tariffs, other protections
+- 09/18 13:04 [financialjuice] Hyundai Motor CEO: company needs time to collect data from millions of cars before debuting own self-driving tech
+- 09/18 13:04 [financialjuice] Hyundai Motor CEO: Chinese rivals' innovation, advancement and technology are unbelievable
+- 09/18 13:05 [financialjuice] Dollar/yen extends gains after BoJ decision, up 0.68% at 157 yen
+- 09/18 13:05 [financialjuice] Dollar/yen at highest level since Sept. 3
+- 09/18 13:05 [financialjuice] euro/yen rises 0.82% to 180.43 yen
+- 09/18 13:06 [financialjuice] Aussie/yen AUDJPY rises 1.04% to 112.02 yen
+- 09/18 13:07 [FirstSquawk] China Emergency Management Ministry: August disasters resulted in direct economic losses of 36.03 billion yuan.
+- 09/18 13:07 [financialjuice] ❗ BOJ RATE DECISION ACTUAL 1.25% (FORECAST 1.25%, PREVIOUS 1%) $MACRO
+- 09/18 13:12 [FirstSquawk] Benchmark 40-year Japanese government bond yield rises 2bp to 4.135%.
+- 09/18 13:20 [FirstSquawk] WSJ: Singapore dollar remains stable as markets weigh the risk of U.S. dollar debasement.

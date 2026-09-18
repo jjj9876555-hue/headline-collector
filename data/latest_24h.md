@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 13:03 JST／対象: 09/17 13:03 〜 09/18 13:03 JST（時刻はすべて日本時間）
+生成: 2026-09-18 13:21 JST／対象: 09/17 13:21 〜 09/18 13:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 349 | 09/17 13:03 | 09/18 13:01 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 316 | 09/17 13:04 | 09/18 13:02 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 347 | 09/17 13:22 | 09/18 13:20 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 318 | 09/17 13:22 | 09/18 13:07 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 666 行（統合前 683 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,19 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 13:03 [FirstSquawk] EU urges China to voluntarily curb hybrid vehicle exports under a proposed deal aimed at preventing a trade war, FT reports.
-- 09/17 13:04 [financialjuice] Brussels urges Beijing to limit Chinese hybrid vehicle sales to about 15% of EU market - FT
-- 09/17 13:05 [FirstSquawk] Brussels proposes limiting Chinese hybrid vehicle sales to roughly 15% of the EU market, FT reports.
-- 09/17 13:10 [financialjuice] China's Xi issues key directives on advanced manufacturing development - Xinhua
-- 09/17 13:11 [financialjuice] China's President Xi: to boost advanced manufacturing - Xinhua
-- 09/17 13:11 [financialjuice] China's President Xi: coordinate high-quality growth and advanced security - Xinhua
-- 09/17 13:11 [financialjuice] China's president Xi: enhance self-reliance and control of industrial chains - Xinhua
-- 09/17 13:12 [FirstSquawk] Xinhua: Xi stresses the importance of advancing China’s advanced manufacturing development.
-- 09/17 13:12 [FirstSquawk] Xinhua: Xi calls for stronger development of China’s advanced manufacturing sector.
-- 09/17 13:13 [FirstSquawk] HSBC keeps its Hong Kong dollar savings deposit rate unchanged.
-- 09/17 13:13 [FirstSquawk] HSBC leaves its best lending rate in Hong Kong at 5.00%.
-- 09/17 13:13 [FirstSquawk] Xinhua: Xi urges efforts to make China’s industrial chains more independent and controllable.
-- 09/17 13:17 [financialjuice] Strait of Hormuz commodity vessel traffic declines to 3 on Wednesday, well below 10-day average of about 17, shipping data shows
 - 09/17 13:22 [FirstSquawk] India says it has noted the US Congress passage of legislation imposing sanctions on Russia and Iran.
 - 09/17 13:22 [financialjuice] India foreign ministry: India has noted passage of bill sanctioning Russia and Iran in U.S. Congress
 - 09/17 13:22 [financialjuice] India foreign ministry: India remains strongly committed to securing energy supplies for its people
@@ -690,3 +677,16 @@
 - 09/18 13:01 [FirstSquawk] Benchmark 20-year Japanese government bond yield rises 1.5bp to 3.850%.
 - 09/18 13:02 [financialjuice] Pakistan army chief urges Iran to rein in Houthis: FT
 - 09/18 13:02 [financialjuice] Venezuela nears deal to transfer $4bn gold reserve to New York: FT
+- 09/18 13:03 [FirstSquawk] FT: Pakistan military chief asks Tehran to exercise restraint over the Houthis.
+- 09/18 13:04 [FirstSquawk] FT: Venezuela is nearing an arrangement to relocate $4 billion of its gold holdings to New York.
+- 09/18 13:04 [financialjuice] Hyundai Motor CEO: US could face spike in Chinese imports without tariffs, other protections
+- 09/18 13:04 [financialjuice] Hyundai Motor CEO: company needs time to collect data from millions of cars before debuting own self-driving tech
+- 09/18 13:04 [financialjuice] Hyundai Motor CEO: Chinese rivals' innovation, advancement and technology are unbelievable
+- 09/18 13:05 [financialjuice] Dollar/yen extends gains after BoJ decision, up 0.68% at 157 yen
+- 09/18 13:05 [financialjuice] Dollar/yen at highest level since Sept. 3
+- 09/18 13:05 [financialjuice] euro/yen rises 0.82% to 180.43 yen
+- 09/18 13:06 [financialjuice] Aussie/yen AUDJPY rises 1.04% to 112.02 yen
+- 09/18 13:07 [FirstSquawk] China Emergency Management Ministry: August disasters resulted in direct economic losses of 36.03 billion yuan.
+- 09/18 13:07 [financialjuice] ❗ BOJ RATE DECISION ACTUAL 1.25% (FORECAST 1.25%, PREVIOUS 1%) $MACRO
+- 09/18 13:12 [FirstSquawk] Benchmark 40-year Japanese government bond yield rises 2bp to 4.135%.
+- 09/18 13:20 [FirstSquawk] WSJ: Singapore dollar remains stable as markets weigh the risk of U.S. dollar debasement.
