@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 05:42 JST／対象: 09/18 17:42 〜 09/19 05:42 JST（時刻はすべて日本時間）
+生成: 2026-09-19 05:53 JST／対象: 09/18 17:53 〜 09/19 05:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/18 18:11 | 09/19 05:10 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 132 | 09/18 17:53 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 106 | 09/18 18:00 | 09/19 05:41 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 131 | 09/18 17:54 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 107 | 09/18 18:00 | 09/19 05:42 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 238 行（統合前 247 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 17:53 [FirstSquawk] US ADMINISTRATION TO ANNOUNCE THAT ALL 50 STATES WILL IMPLEMENT MOST-FAVORED-NATION PRICING FOR SPECIFIC DRUGS IN MEDICAID PROGRAMS.
 - 09/18 17:54 [FirstSquawk] SPOT SILVER INCREASES MORE THAN 3% TO $67.19 PER OUNCE.
 - 09/18 18:00 [financialjuice] EUROZONE CONSTRUCTION OUTPUT MOM ACTUAL 0% (FORECAST -, PREVIOUS -1.34%) $MACRO
 - 09/18 18:02 [FirstSquawk] NATO ALLIES HOLD "ARCTIC SHIELD" DRILL IN GREENLAND.
@@ -262,3 +261,4 @@
 - 09/19 05:31 [financialjuice] Arab sources report that an explosion was heard in Jazan and Abha, Saudi Arabia - Fars News.
 - 09/19 05:36 [financialjuice] Trump ends remarks to reporters at the White House.
 - 09/19 05:41 [financialjuice] Russia seeks to undermine the US elections - NYT, citing intelligence.
+- 09/19 05:42 [financialjuice] Russia Aims to Inject Chaos Into Elections, U.S. Intelligence Finds
