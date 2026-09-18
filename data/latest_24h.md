@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 20:45 JST／対象: 09/17 20:45 〜 09/18 20:45 JST（時刻はすべて日本時間）
+生成: 2026-09-18 20:58 JST／対象: 09/17 20:58 〜 09/18 20:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 14 | 09/17 21:58 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 354 | 09/17 20:46 | 09/18 20:07 | ⚠ 51分（03:49→04:40） |
+| FirstSquawk | 351 | 09/17 20:59 | 09/18 20:07 | ⚠ 51分（03:49→04:40） |
 | financialjuice | 280 | 09/17 21:00 | 09/18 20:06 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 638 行（統合前 654 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 635 行（統合前 651 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 20:46 [FirstSquawk] COREWEAVE SHARES TURN NEGATIVE, HIT SESSION LOW OF 1.4%
-- 09/17 20:56 [FirstSquawk] SINGAPORE'S ELECTRONICS EXPORTS INCREASED RAPIDLY IN AUGUST DUE TO CONTINUING ADVANCEMENTS IN AI.
-- 09/17 20:58 [FirstSquawk] UK 30-YEAR YIELD FALLS BY 10 BASIS POINTS TO 5.76%, THE BIGGEST DROP SINCE MAY.
 - 09/17 20:59 [FirstSquawk] SPOT GOLD EXTENDS GAINS, UP NEARLY 2% TO $4,346.40/OZ
 - 09/17 21:00 [financialjuice] Secured overnight financing rate 3.62% September 16th vs 3.64% September 15th
 - 09/17 21:00 [FirstSquawk] US CRUDE FUTURES EXTEND DROP TO FALL BACK BELOW $100/BBL

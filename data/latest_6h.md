@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 20:45 JST／対象: 09/18 14:45 〜 09/18 20:45 JST（時刻はすべて日本時間）
+生成: 2026-09-18 20:58 JST／対象: 09/18 14:58 〜 09/18 20:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 98 | 09/18 14:47 | 09/18 20:07 | 42分（17:10→17:53） |
+| FirstSquawk | 97 | 09/18 15:01 | 09/18 20:07 | 42分（17:10→17:53） |
 | financialjuice | 57 | 09/18 15:00 | 09/18 20:06 | 42分（17:18→18:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 158 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 157 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 14:47 [FirstSquawk] Morgan Stanley raises its target for Next PLC to 17,000p, up from 16,800p.
 - 09/18 15:00 [financialjuice] UK CORE RETAIL SALES YOY ACTUAL 2.7% (FORECAST 1.9%, PREVIOUS 2.3%) $MACRO
 - 09/18 15:00 [financialjuice] ‼ BREAKING: UK RETAIL SALES MOM ACTUAL 0.5% (FORECAST -0.2%, PREVIOUS -0.5%) $MACRO
 - 09/18 15:00 [financialjuice] ❗ UK RETAIL SALES YOY ACTUAL 2.4% (FORECAST 1.9%, PREVIOUS 1.6%) $MACRO
