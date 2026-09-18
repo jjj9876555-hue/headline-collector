@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 16:46 JST／対象: 09/17 16:46 〜 09/18 16:46 JST（時刻はすべて日本時間）
+生成: 2026-09-18 16:58 JST／対象: 09/17 16:58 〜 09/18 16:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/17 18:43 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 362 | 09/17 16:47 | 09/18 16:41 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 335 | 09/17 16:47 | 09/18 16:36 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 363 | 09/17 17:03 | 09/18 16:57 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 337 | 09/17 17:06 | 09/18 16:57 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 697 行（統合前 714 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 700 行（統合前 717 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 16:47 [FirstSquawk] ECB'S MAKHLOUF SAYS THERE ARE NO SIGNS OF WORRYING SECOND-ROUND EFFECTS.
-- 09/17 16:47 [FirstSquawk] ECB'S MAKHLOUF SAYS FUTURE PROSPECTS ARE UNCERTAIN.
-- 09/17 16:47 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE ATTACKED RUSSIA'S YAROSLAVL REFINERY.
-- 09/17 16:47 [financialjuice] ECB's Makhlouf: Not seeing sign of concerning 2nd-round effects.
-- 09/17 16:47 [financialjuice] ECB's Makhlouf: Risks to inflation remain on upside.
-- 09/17 16:48 [financialjuice] ECB's Makhlouf: Can't rule out anything at future meetings.
-- 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF SAYS INFLATION RISKS STILL FAVOR HIGHER LEVELS.
-- 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF STATED THAT EVERY MEETING IS CONSIDERED A LIVE MEETING DUE TO UNCERTAINTIES.
-- 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF SAYS NOTHING IS OFF THE TABLE FOR FUTURE MEETINGS.
-- 09/17 16:51 [FirstSquawk] ECB'S MAKHLOUF SAYS MARKETS RECOGNIZE OUR FOCUS ON 2% INFLATION TARGET.
-- 09/17 16:54 [FirstSquawk] MAKHLOUF SAYS ECB SHOULD STICK TO 2% MEDIUM-TERM GOAL.
 - 09/17 17:03 [FirstSquawk] INDIA’S US TREASURY PURCHASES HIT RECORD $15.2 BILLION AS RBI DOLLAR INFLOWS SURGE
 - 09/17 17:06 [financialjuice] Russian drone strike on Tanzania-flagged ship headed to Ukrainian port kills one, injures three crew: Ukraine's infrastructure ministry
 - 09/17 17:08 [FirstSquawk] RUSSIAN DRONE ATTACK ON A TANZANIA-FLAGGED VESSEL BOUND FOR UKRAINE LEFT ONE DEAD AND THREE INJURED, ACCORDING TO UKRAINE'S INFRASTRUCTURE MINISTRY.
@@ -721,3 +710,17 @@
 - 09/18 16:41 [FirstSquawk] BOJ GOVERNOR UEDA SAYS IT'S HARD TO DETERMINE IF FINANCIAL CONDITIONS ARE TOO EASY.
 - 09/18 16:41 [FirstSquawk] BOJ GOV UEDA WILL CONSIDER FINANCIAL CONDITIONS, INCLUDING THE EFFECTS OF PREVIOUS RATE INCREASES.
 - 09/18 16:41 [FirstSquawk] KLINGBEIL SAYS TRUMP HAD ALREADY THREATENED TARIFFS BEFORE THE CANADA-EU DEAL.
+- 09/18 16:46 [FirstSquawk] YEN FALLS BY 1% AGAINST DOLLAR AFTER UEDA'S COMMENTS.
+- 09/18 16:50 [financialjuice] SK Hynix: Nothing decided on building chip plant in Japan.
+- 09/18 16:54 [financialjuice] EU Economy Commissioner Dombrovskis: Economy is proving resilient.
+- 09/18 16:54 [financialjuice] EU's Economy Commissioner Dombrovskis: Windfall tax will be touched upon.
+- 09/18 16:54 [FirstSquawk] DOMBROVSKIS STRESSES IMPORTANCE OF MONITORING BOND MARKET.
+- 09/18 16:54 [FirstSquawk] DOMBROVSKIS SAYS THE ECONOMY IS SHOWING STRENGTH.
+- 09/18 16:54 [FirstSquawk] DOMBROVSKIS ANNOUNCES THAT THE WINDFALL TAX WILL BE ADDRESSED.
+- 09/18 16:54 [FirstSquawk] DOMBROVSKIS IS PREPARED TO TALK ABOUT WINDFALL TAX.
+- 09/18 16:55 [FirstSquawk] DOMBROVSKIS STATES EU-WIDE WINDFALL TAX IS NOT BEING PROPOSED AT THIS TIME.
+- 09/18 16:57 [financialjuice] ECB's Kaasik: Exact level of neutral rate not a big concern now.
+- 09/18 16:57 [FirstSquawk] KAASIK SAYS MORE RESTRICTIONS REQUIRED IF INFLATION RISKS OCCUR.
+- 09/18 16:57 [FirstSquawk] ECB'S KAASIK STRESSES THE IMPORTANCE OF AVOIDING SECOND-ROUND EFFECTS.
+- 09/18 16:57 [financialjuice] ECB's Kaasik: We must prevent second-round effects.
+- 09/18 16:57 [FirstSquawk] ECB'S KAASIK STATES THAT THE PRECISE NEUTRAL INTEREST RATE IS NOT A MAJOR ISSUE AT THE MOMENT.

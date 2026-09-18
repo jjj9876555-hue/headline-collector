@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 16:46 JST／対象: 09/18 04:46 〜 09/18 16:46 JST（時刻はすべて日本時間）
+生成: 2026-09-18 16:58 JST／対象: 09/18 04:58 〜 09/18 16:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/18 06:19 | 09/18 06:19 | - |
-| FirstSquawk | 214 | 09/18 04:58 | 09/18 16:41 | 39分（05:40→06:20） |
-| financialjuice | 165 | 09/18 04:51 | 09/18 16:36 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 222 | 09/18 05:00 | 09/18 16:57 | 39分（05:40→06:20） |
+| financialjuice | 168 | 09/18 05:01 | 09/18 16:57 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 376 行（統合前 381 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 388 行（統合前 392 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 3057.3 MLN NASDAQ 100: 1454.0 MLN DOW 30: 1387.4 MLN MAG 7: 928.8 MLN $MACRO
-- 09/18 04:51 [financialjuice/FirstSquawk] Israel's Prime Minister Netanyahu at campaign launch: We must complete the mission to the very end, and topple the Iranian regime - N12 News.
 - 09/18 05:00 [FirstSquawk] DOW JONES CLOSES 0.66% HIGHER AT 51,801.54, UP 339.64 POINTS
 - 09/18 05:01 [financialjuice] There are no confirmed reports of an explosion in the vicinity of Kharg Island at the specified time - Irib news.
 - 09/18 05:02 [FirstSquawk] NASDAQ SURGES 1.76% TO 26,434.77, UP 456.34 POINTS S&P 500 CLOSES 1.16% HIGHER AT 7,639.31, UP 87.50 POINTS DOW JONES CLOSES 0.66% HIGHER AT 51,801.54, UP 339.64 POINTS
@@ -400,3 +398,17 @@
 - 09/18 16:41 [FirstSquawk] BOJ GOVERNOR UEDA SAYS IT'S HARD TO DETERMINE IF FINANCIAL CONDITIONS ARE TOO EASY.
 - 09/18 16:41 [FirstSquawk] BOJ GOV UEDA WILL CONSIDER FINANCIAL CONDITIONS, INCLUDING THE EFFECTS OF PREVIOUS RATE INCREASES.
 - 09/18 16:41 [FirstSquawk] KLINGBEIL SAYS TRUMP HAD ALREADY THREATENED TARIFFS BEFORE THE CANADA-EU DEAL.
+- 09/18 16:46 [FirstSquawk] YEN FALLS BY 1% AGAINST DOLLAR AFTER UEDA'S COMMENTS.
+- 09/18 16:50 [financialjuice] SK Hynix: Nothing decided on building chip plant in Japan.
+- 09/18 16:54 [financialjuice] EU Economy Commissioner Dombrovskis: Economy is proving resilient.
+- 09/18 16:54 [financialjuice] EU's Economy Commissioner Dombrovskis: Windfall tax will be touched upon.
+- 09/18 16:54 [FirstSquawk] DOMBROVSKIS STRESSES IMPORTANCE OF MONITORING BOND MARKET.
+- 09/18 16:54 [FirstSquawk] DOMBROVSKIS SAYS THE ECONOMY IS SHOWING STRENGTH.
+- 09/18 16:54 [FirstSquawk] DOMBROVSKIS ANNOUNCES THAT THE WINDFALL TAX WILL BE ADDRESSED.
+- 09/18 16:54 [FirstSquawk] DOMBROVSKIS IS PREPARED TO TALK ABOUT WINDFALL TAX.
+- 09/18 16:55 [FirstSquawk] DOMBROVSKIS STATES EU-WIDE WINDFALL TAX IS NOT BEING PROPOSED AT THIS TIME.
+- 09/18 16:57 [financialjuice] ECB's Kaasik: Exact level of neutral rate not a big concern now.
+- 09/18 16:57 [FirstSquawk] KAASIK SAYS MORE RESTRICTIONS REQUIRED IF INFLATION RISKS OCCUR.
+- 09/18 16:57 [FirstSquawk] ECB'S KAASIK STRESSES THE IMPORTANCE OF AVOIDING SECOND-ROUND EFFECTS.
+- 09/18 16:57 [financialjuice] ECB's Kaasik: We must prevent second-round effects.
+- 09/18 16:57 [FirstSquawk] ECB'S KAASIK STATES THAT THE PRECISE NEUTRAL INTEREST RATE IS NOT A MAJOR ISSUE AT THE MOMENT.
