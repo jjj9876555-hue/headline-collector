@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 18:43 JST／対象: 09/18 12:43 〜 09/18 18:43 JST（時刻はすべて日本時間）
+生成: 2026-09-18 18:54 JST／対象: 09/18 12:54 〜 09/18 18:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/18 18:11 | 09/18 18:11 | - |
-| FirstSquawk | 95 | 09/18 12:49 | 09/18 18:40 | 42分（17:10→17:53） |
-| financialjuice | 65 | 09/18 13:02 | 09/18 18:31 | ⚠ 52分（13:07→14:00） |
+| FirstSquawk | 93 | 09/18 13:01 | 09/18 18:40 | 42分（17:10→17:53） |
+| financialjuice | 67 | 09/18 13:02 | 09/18 18:46 | ⚠ 52分（13:07→14:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 161 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 12:49 [FirstSquawk] Japan’s 10-year JGB yield narrows its decline to 1.5bp, last standing at 2.975%.
-- 09/18 12:53 [FirstSquawk] Indonesia Finance Ministry official: Authorities will closely manage the supply impact of bond issuance to preserve current yield levels.
 - 09/18 13:01 [FirstSquawk] Benchmark 20-year Japanese government bond yield rises 1.5bp to 3.850%.
 - 09/18 13:02 [financialjuice] Pakistan army chief urges Iran to rein in Houthis: FT
 - 09/18 13:02 [financialjuice] Venezuela nears deal to transfer $4bn gold reserve to New York: FT
@@ -185,3 +183,5 @@
 - 09/18 18:35 [FirstSquawk] KREMLIN SAYS TEMPORARY CONTROL OF NESTLE AND AUCHAN ASSETS IS DUE TO OWNERS BEING FROM UNFRIENDLY NATIONS LINKED TO ATTACKS IN KYIV.
 - 09/18 18:36 [FirstSquawk] KREMLIN STATES TEMPORARY ADMINISTRATION IN PLACE, NO FURTHER DECISIONS MADE.
 - 09/18 18:40 [FirstSquawk] ANTHROPIC AND OPENAI ARE SEEKING SMALLER DATA CENTER DEALS TO BOOST AI CAPACITY, ACCORDING TO CNBC SOURCES.
+- 09/18 18:44 [financialjuice] Anthropic, OpenAI mull small UK, Nordics data center deals - CNBC
+- 09/18 18:46 [financialjuice] JP Morgan expects ECB to deliver another 25 bp interest rate hike in March 2027 after a December hike vs prior forecast of rates on hold in 2027.

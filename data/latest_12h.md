@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 18:43 JST／対象: 09/18 06:43 〜 09/18 18:43 JST（時刻はすべて日本時間）
+生成: 2026-09-18 18:54 JST／対象: 09/18 06:54 〜 09/18 18:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/18 18:11 | 09/18 18:11 | - |
-| FirstSquawk | 220 | 09/18 06:44 | 09/18 18:40 | 42分（17:10→17:53） |
-| financialjuice | 164 | 09/18 06:44 | 09/18 18:31 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 218 | 09/18 07:10 | 09/18 18:40 | 42分（17:10→17:53） |
+| financialjuice | 165 | 09/18 07:45 | 09/18 18:46 | ⚠ 52分（13:07→14:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 385 行（統合前 386 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 384 行（統合前 384 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 06:44 [FirstSquawk] U.S. STATE DEPARTMENT SAYS THE U.S. WILL CONTINUE TO BAR IRANIAN UN MISSION OFFICIALS, VISITING OFFICIALS AND THEIR DEPENDENTS FROM PURCHASING WHOLESALE CLUB MEMBERSHIPS OR LUXURY GOODS, URGING NEW YORK-AREA RETAILERS TO AVOID COMPLICITY IN…
-- 09/18 06:44 [financialjuice] President Trump outlines plans for first meeting with Venezuela's interim chief Delcy Rodriguez as early as next week - Axios
-- 09/18 06:44 [FirstSquawk] TRUMP PLANS FIRST-EVER MEETING WITH VENEZUELA’S INTERIM PRESIDENT DELCY RODRIGUEZ AS EARLY AS NEXT WEEK — AXIOS
 - 09/18 07:10 [FirstSquawk] PENTAGON REVIEWS POTENTIAL CUT OF UP TO 40,000 U.S. TROOPS IN EUROPE, WITH GERMANY, ITALY AND SPAIN AMONG THOSE THAT COULD BE AFFECTED; NO FINAL DECISION HAS BEEN MADE, WITH RECOMMENDATIONS EXPECTED IN NOVEMBER. - NBC NEWS.
 - 09/18 07:20 [FirstSquawk] ZENITH MINERALS’ TAKEOVER OFFER REMAINS OPEN FOR ACCEPTANCES, WITH THE TAKEOVERS PANEL ISSUING ORDERS REGARDING MATTERS INVOLVING FORRESTANIA RESOURCES. || THE ORDERS DO NOT PREVENT FORRESTANIA RESOURCES FROM PROCEEDING WITH ITS TAKEOVER OF…
 - 09/18 07:23 [FirstSquawk] JPMORGAN, CIBC WIN MANDATE TO ADVISE CARNEY GOVERNMENT ON SALE OF CANADA AIRPORT CONCESSIONS
@@ -409,3 +406,5 @@
 - 09/18 18:35 [FirstSquawk] KREMLIN SAYS TEMPORARY CONTROL OF NESTLE AND AUCHAN ASSETS IS DUE TO OWNERS BEING FROM UNFRIENDLY NATIONS LINKED TO ATTACKS IN KYIV.
 - 09/18 18:36 [FirstSquawk] KREMLIN STATES TEMPORARY ADMINISTRATION IN PLACE, NO FURTHER DECISIONS MADE.
 - 09/18 18:40 [FirstSquawk] ANTHROPIC AND OPENAI ARE SEEKING SMALLER DATA CENTER DEALS TO BOOST AI CAPACITY, ACCORDING TO CNBC SOURCES.
+- 09/18 18:44 [financialjuice] Anthropic, OpenAI mull small UK, Nordics data center deals - CNBC
+- 09/18 18:46 [financialjuice] JP Morgan expects ECB to deliver another 25 bp interest rate hike in March 2027 after a December hike vs prior forecast of rates on hold in 2027.
