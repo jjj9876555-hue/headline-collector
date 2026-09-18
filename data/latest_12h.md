@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 17:51 JST／対象: 09/18 05:51 〜 09/18 17:51 JST（時刻はすべて日本時間）
+生成: 2026-09-18 18:03 JST／対象: 09/18 06:03 〜 09/18 18:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/18 06:19 | 09/18 06:19 | - |
-| FirstSquawk | 220 | 09/18 06:20 | 09/18 17:10 | 25分（06:44→07:10） |
-| financialjuice | 172 | 09/18 05:55 | 09/18 17:18 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 223 | 09/18 06:20 | 09/18 18:02 | 42分（17:10→17:53） |
+| financialjuice | 168 | 09/18 06:06 | 09/18 18:00 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 390 行（統合前 394 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 391 行（統合前 393 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 05:55 [financialjuice] Qualcomm's CEO will attend Trump's state dinner with China’s President Xi. $QCOM
-- 09/18 06:00 [financialjuice] S. KOREAN PPI YOY ACTUAL 7.9% (FORECAST -, PREVIOUS 7.7%) $MACRO
-- 09/18 06:00 [financialjuice] S. KOREAN PPI MOM ACTUAL 0.2% (FORECAST -, PREVIOUS -0.4%) $MACRO
-- 09/18 06:02 [financialjuice/FirstSquawk] Healey to urge Brussels to include UK in 'made in Europe' policy: FT
-- 09/18 06:03 [financialjuice/FirstSquawk] British finance minister will on Friday signal to EU counterparts that London is open to negotiate a ‘reset’ deal - FT
 - 09/18 06:06 [financialjuice/FirstSquawk] North Korea's Kim Yo Jong: U.S.-led multinational exercises are primary cause of rising tensions on Korean peninsula
 - 09/18 06:07 [financialjuice] North Korea’s Kim Yo Jong: no shift in strategy to bolster nuclear war deterrence
 - 09/18 06:07 [financialjuice] North Korea's Kim Yo Jong: armed forces to deploy all options if military sovereignty and security interests are seriously threatened
@@ -36,6 +31,8 @@
 - 09/18 06:19 [financialjuice] Iran's IRGC navy: targeted Togo-flagged oil tanker after it attempted illegal passage through Hormuz Strait - Iran's Fars
 - 09/18 06:20 [FirstSquawk] QUALCOMM CEO TO ATTEND TRUMP-XI STATE DINNER, SIGNALING HIGH-LEVEL US-CHINA TECH ENGAGEMENT
 - 09/18 06:20 [financialjuice] Iran's IRGC navy reports oil tanker fire - Fars
+- 09/18 06:20 [FirstSquawk] HEALEY TO URGE BRUSSELS TO INCLUDE UK IN 'MADE IN EUROPE' POLICY: FT
+- 09/18 06:21 [FirstSquawk] BRITISH FINANCE MINISTER WILL ON FRIDAY SIGNAL TO EU COUNTERPARTS THAT LONDON IS OPEN TO NEGOTIATE A ‘RESET’ DEAL - FT
 - 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG SAYS US-LED MULTINATIONAL MILITARY EXERCISES ARE THE PRIMARY CAUSE OF RISING KOREAN PENINSULA TENSIONS
 - 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG SAYS NO SHIFT IN STRATEGY TO STRENGTHEN NUCLEAR WAR DETERRENCE
 - 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG WARNS ARMED FORCES WILL USE “ALL OPTIONS” IF MILITARY SOVEREIGNTY OR SECURITY INTERESTS ARE SERIOUSLY THREATENED
@@ -414,3 +411,7 @@
 - 09/18 17:10 [financialjuice] ECB's President Lagarde: Not seeing second-round effects yet.
 - 09/18 17:10 [FirstSquawk] ECB PRESIDENT LAGARDE STATES NO SIGNS OF SECOND ROUND EFFECTS SO FAR - RTE RADIO.
 - 09/18 17:18 [financialjuice] EUROZONE CURRENT ACCOUNT NSA ACTUAL 36.50B (FORECAST -, PREVIOUS 46.90B) $MACRO
+- 09/18 17:53 [FirstSquawk] US ADMINISTRATION TO ANNOUNCE THAT ALL 50 STATES WILL IMPLEMENT MOST-FAVORED-NATION PRICING FOR SPECIFIC DRUGS IN MEDICAID PROGRAMS.
+- 09/18 17:54 [FirstSquawk] SPOT SILVER INCREASES MORE THAN 3% TO $67.19 PER OUNCE.
+- 09/18 18:00 [financialjuice] EUROZONE CONSTRUCTION OUTPUT MOM ACTUAL 0% (FORECAST -, PREVIOUS -1.34%) $MACRO
+- 09/18 18:02 [FirstSquawk] NATO ALLIES HOLD "ARCTIC SHIELD" DRILL IN GREENLAND.
