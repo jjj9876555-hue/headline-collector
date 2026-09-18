@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 04:16 JST／対象: 09/18 22:16 〜 09/19 04:16 JST（時刻はすべて日本時間）
+生成: 2026-09-19 04:30 JST／対象: 09/18 22:30 〜 09/19 04:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 79 | 09/18 22:16 | 09/19 04:06 | 31分（22:36→23:07） |
-| financialjuice | 54 | 09/18 22:16 | 09/19 04:11 | 38分（02:01→02:40） |
+| FirstSquawk | 76 | 09/18 22:31 | 09/19 04:21 | 31分（22:36→23:07） |
+| financialjuice | 53 | 09/18 22:31 | 09/19 04:24 | 38分（02:01→02:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 129 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 22:16 [financialjuice] US Industrial Production and Capacity Utilization August Report
-- 09/18 22:16 [FirstSquawk] U.S. INDUSTRIAL PRODUCTION FOR AUGUST REMAINED STABLE MONTH-OVER-MONTH; ESTIMATES WERE FOR A +0.3% INCREASE.
-- 09/18 22:17 [FirstSquawk] US FACTORY OUTPUT DROPPED BY 0.3% IN AUGUST, WHILE EXPECTATIONS WERE FOR A 0.3% INCREASE.
-- 09/18 22:20 [FirstSquawk] TRUMP WILL REVEAL A MODEL FOR MEDICAID DRUG PRICING COVERING ALL 50 STATES, D.C., AND PUERTO RICO, ACCORDING TO A WHITE HOUSE OFFICIAL.
-- 09/18 22:23 [FirstSquawk] US LAW FIRM WEIL EXAMINES MERGER POSSIBILITIES FOLLOWING THE EXIT OF KEY PARTNERS.
-- 09/18 22:25 [financialjuice] US INDUSTRIAL PRODUCTION YOY ACTUAL 1.42% (FORECAST -, PREVIOUS 1.08%) $MACRO
-- 09/18 22:27 [financialjuice] PBoC Vice Governor: AI brings new risks to finance.
 - 09/18 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 935.5 MLN NASDAQ 100: 1127.1 MLN DOW 30: 311.3 MLN MAG 7: 655.3 MLN $MACRO
 - 09/18 22:31 [financialjuice] Fed Vice Chair for Supervision Bowman does not comment on economic or monetary policy outlook in prepared remarks to event in London.
 - 09/18 22:31 [FirstSquawk] S&P 500 UP 9.60 POINTS, OR 0.13 PERCENT, AT 7,647.36 AFTER MARKET OPEN NASDAQ UP 110.73 POINTS, OR 0.42 PERCENT, AT 26,529.03 AFTER MARKET OPEN DOW JONES DOWN 85.24 POINTS, OR 0.16 PERCENT, AT 51,692.80 AFTER MARKET OPEN
@@ -153,3 +146,6 @@
 - 09/19 04:05 [FirstSquawk] TRUMP SAYS MORE MEDIA OUTLETS TO FACE WHITE HOUSE BAN
 - 09/19 04:06 [FirstSquawk] Trump on truth social I am proud to announce that, effective immediately, I am banning Fake News CNN, MSNOW (who recently changed their name from MSNBC due to lack of viewership and credibility!), and Politico (The recipients of an illegal …
 - 09/19 04:11 [financialjuice] Week Ahead: Economic Indicators 21st – 25th September (US)
+- 09/19 04:21 [FirstSquawk] NASA IN TALKS FOR BOEING'S STARLINER TO HANDLE NEW MISSIONS
+- 09/19 04:22 [financialjuice] Monday FX Option Expiries
+- 09/19 04:24 [financialjuice] Senior Houthi Member: Saudi Arabia Has Requested Iran's Mediation - Fars News.

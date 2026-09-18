@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 04:16 JST／対象: 09/18 16:16 〜 09/19 04:16 JST（時刻はすべて日本時間）
+生成: 2026-09-19 04:30 JST／対象: 09/18 16:30 〜 09/19 04:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 151 | 09/18 16:16 | 09/19 04:06 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 99 | 09/18 16:22 | 09/19 04:11 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 142 | 09/18 16:34 | 09/19 04:21 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 98 | 09/18 16:30 | 09/19 04:24 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 249 行（統合前 257 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 239 行（統合前 247 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 16:16 [FirstSquawk] BOJ GOVERNOR UEDA STATED THAT IT'S UNCERTAIN IF THE PIPELINE DISRUPTION IN SAUDI ARABIA WILL LAST LONGER AND MENTIONED THE NEED TO MONITOR THE SITUATION, NOT DISCOUNTING ANY SPECIFIC POLICY ACTIONS.
-- 09/18 16:17 [FirstSquawk] BOJ GOVERNOR UEDA DID NOT EXCLUDE ANY POLICY OPTIONS REGARDING POSSIBLE RATE INCREASES OR A 25 BPS HIKE. HE PLANS TO CONSULT WITH OTHER CENTRAL BANKS ABOUT THEIR RATE HIKE INTENTIONS. UEDA STATED THAT WHILE ANALYSIS IS ESSENTIAL, IT DOES NO…
-- 09/18 16:17 [FirstSquawk] CITIGROUP PREDICTS BANK OF JAPAN WILL INCREASE INTEREST RATES BY 25 BASIS POINTS IN DECEMBER 2026, MARCH AND JULY 2027, SHIFTING FROM AN EARLIER ESTIMATE OF INCREASES IN JANUARY, JUNE, AND DECEMBER 2027.
-- 09/18 16:19 [FirstSquawk] BOJ GOVERNOR UEDA SAYS A LARGE OR REPEATED RATE INCREASE COULD RISK OVERSHOOTING.
-- 09/18 16:19 [FirstSquawk] BOJ GOVERNOR UEDA SAYS THAT AFTER A RATE INCREASE TO 1.5%, THE CONTINUATION OF ACCOMMODATIVE CONDITIONS WILL DEPEND ON ECONOMIC AND FINANCIAL FACTORS AT THAT TIME.
-- 09/18 16:19 [FirstSquawk] BOJ GOVERNOR UEDA AIMS TO TAKE APPROPRIATE ACTIONS TO PREVENT SEVERE MEASURES.
-- 09/18 16:22 [financialjuice] UKMTO gets report of incident in the Strait of Hormuz. Tanker is reported to be hit by unknown projectile.
-- 09/18 16:22 [financialjuice] France Fin. Min. Lescure: Significant effort needed on budget.
-- 09/18 16:23 [financialjuice] France Fin. Min. Lescure: Hopefully we'll have a budget.
-- 09/18 16:23 [FirstSquawk] TANKER REPORTEDLY STRUCK BY UNKNOWN PROJECTILE, ACCORDING TO UKMTO.
-- 09/18 16:23 [FirstSquawk] UKMTO REPORTS INCIDENT IN THE STRAIT OF HORMUZ.
-- 09/18 16:23 [FirstSquawk] FRANCE'S LESCURE EXPRESSES OPTIMISM ABOUT ACHIEVING A BUDGET.
-- 09/18 16:23 [FirstSquawk] BOJ GOVERNOR UEDA STATED THAT DECISIONS ON RAISING INTEREST RATES WILL DEPEND ON ECONOMIC PROJECTIONS AND RISK ASSESSMENTS.
 - 09/18 16:30 [financialjuice] German Fin. Min. Klingbeil: We need instruments like fuel price cap, windfall tax.
 - 09/18 16:31 [financialjuice] German Fin. Min. Klingbeil: Europe and Canada are key partners strategically.
 - 09/18 16:33 [financialjuice] German Fin. Min. Klingbeil: Oil majors take advantage of this situation. We need to intervene in the energy market.
@@ -273,3 +260,6 @@
 - 09/19 04:05 [FirstSquawk] TRUMP SAYS MORE MEDIA OUTLETS TO FACE WHITE HOUSE BAN
 - 09/19 04:06 [FirstSquawk] Trump on truth social I am proud to announce that, effective immediately, I am banning Fake News CNN, MSNOW (who recently changed their name from MSNBC due to lack of viewership and credibility!), and Politico (The recipients of an illegal …
 - 09/19 04:11 [financialjuice] Week Ahead: Economic Indicators 21st – 25th September (US)
+- 09/19 04:21 [FirstSquawk] NASA IN TALKS FOR BOEING'S STARLINER TO HANDLE NEW MISSIONS
+- 09/19 04:22 [financialjuice] Monday FX Option Expiries
+- 09/19 04:24 [financialjuice] Senior Houthi Member: Saudi Arabia Has Requested Iran's Mediation - Fars News.
