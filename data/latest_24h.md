@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 10:58 JST／対象: 09/17 10:58 〜 09/18 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 11:17 JST／対象: 09/17 11:17 〜 09/18 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 318 | 09/17 11:02 | 09/18 10:55 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 265 | 09/17 11:49 | 09/18 10:50 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 321 | 09/17 11:20 | 09/18 11:13 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 275 | 09/17 11:49 | 09/18 11:16 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 584 行（統合前 601 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 597 行（統合前 614 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 11:02 [FirstSquawk] China’s gold industry stocks slide 5%.
-- 09/17 11:10 [FirstSquawk] Takaichi to unveil a reshuffled Cabinet, with major ministers expected to keep their positions.
 - 09/17 11:20 [FirstSquawk] Rising temperatures and melting glaciers likely contributed to the Nepal glacier collapse, scientists say.
 - 09/17 11:24 [FirstSquawk] Yen ticks higher as markets price a more hawkish BoJ stance, despite continued strength in the US dollar.
 - 09/17 11:25 [FirstSquawk] South Korean won drops to 1,384.40 per US dollar, marking its weakest level since August 27.
@@ -608,3 +606,18 @@
 - 09/18 10:50 [financialjuice] S.Korea President Lee: never contemplated pursuing another term
 - 09/18 10:51 [FirstSquawk] 20-year JGB yield slips to 3.79%, down 4.5 bps
 - 09/18 10:55 [FirstSquawk] BOJ set for rate hike at two-day meeting amid rising inflation risks
+- 09/18 11:00 [FirstSquawk] Commodity vessel traffic through the Strait of Hormuz drops to four on Thursday, versus a 10-day average of about 16
+- 09/18 11:00 [financialjuice] Four commodity ships pass Strait of Hormuz on Thursday vs 10-day average near 16, data shows:
+- 09/18 11:05 [financialjuice] S. Korea president: Several nations moving military forces near Hormuz Strait
+- 09/18 11:05 [FirstSquawk] South Korea President Lee: Several countries are deploying military assets near the Strait of Hormuz
+- 09/18 11:10 [financialjuice] S. Korea President Lee: Won't deploy troops to join conflict, concerns over Hormuz
+- 09/18 11:11 [financialjuice] S.Korea President Lee: limited actions to safeguard South Korean economic interests, citizens possible
+- 09/18 11:12 [financialjuice] South Korea president Lee: reviewing whether to boost involvement beyond current level over Hormuz issue
+- 09/18 11:12 [FirstSquawk] President Lee: South Korea will not deploy forces to join the war amid Hormuz concerns
+- 09/18 11:12 [FirstSquawk] President Lee: South Korea may take limited action to protect its economic interests and people
+- 09/18 11:13 [FirstSquawk] South Korea’s President Lee: Considering greater involvement amid concerns over the Strait of Hormuz
+- 09/18 11:14 [financialjuice] S.Korea President Lee: Any US-N.Korea Talks Will Be Crucial to Korean Peninsula
+- 09/18 11:15 [financialjuice] S.Korea President Lee: Uncertainty remains over Trump-Kim talks
+- 09/18 11:15 [financialjuice] S.Korea president Lee: Trump seeks talks with N.Korea
+- 09/18 11:16 [financialjuice] S.Korea President Lee: Trump-Kim talks tough but not impossible
+- 09/18 11:16 [financialjuice] S.Korea President Lee: S.Korea has role in any US-N.Korea negotiations

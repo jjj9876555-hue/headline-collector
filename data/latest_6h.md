@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 10:58 JST／対象: 09/18 04:58 〜 09/18 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 11:17 JST／対象: 09/18 05:17 〜 09/18 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/18 06:19 | 09/18 06:19 | - |
-| FirstSquawk | 85 | 09/18 05:00 | 09/18 10:55 | 39分（05:40→06:20） |
-| financialjuice | 53 | 09/18 05:01 | 09/18 10:50 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 86 | 09/18 05:40 | 09/18 11:13 | 39分（05:40→06:20） |
+| financialjuice | 61 | 09/18 05:55 | 09/18 11:16 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 140 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 145 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 05:00 [FirstSquawk] DOW JONES CLOSES 0.66% HIGHER AT 51,801.54, UP 339.64 POINTS
-- 09/18 05:01 [financialjuice] There are no confirmed reports of an explosion in the vicinity of Kharg Island at the specified time - Irib news.
-- 09/18 05:02 [FirstSquawk] NASDAQ SURGES 1.76% TO 26,434.77, UP 456.34 POINTS S&P 500 CLOSES 1.16% HIGHER AT 7,639.31, UP 87.50 POINTS DOW JONES CLOSES 0.66% HIGHER AT 51,801.54, UP 339.64 POINTS
-- 09/18 05:02 [FirstSquawk] KROGER DECLARES QUARTERLY DIVIDEND OF $0.39/SHARE, PAYABLE DECEMBER 1, 2026
-- 09/18 05:13 [financialjuice] Stocks and Bonds Rally as Falling Oil Eases Inflation Concerns – US Market Wrap
-- 09/18 05:16 [FirstSquawk] US STOCKS AND BONDS RALLIED AS FALLING OIL PRICES EASED INFLATION CONCERNS, HELPING MARKETS ABSORB THE FEDERAL RESERVE’S FIRST RATE HIKE SINCE 2023. THE S&P 500 GAINED 1.1%, ITS STRONGEST ADVANCE IN SIX WEEKS, WHILE THE NASDAQ 100 CLIMBED 1…
 - 09/18 05:40 [FirstSquawk] ANTHROPIC SAID ITS MEASUREMENTS WILL FOCUS ON HOW AI MODELS ARE BUILT AND DEVELOPED, WITH THE DATA SHARED TO HELP TRACK PROGRESS; CLAUDE ACCOUNTED FOR 26% OF AI R&D USE AS OF AUGUST 2026.
 - 09/18 05:55 [financialjuice] Qualcomm's CEO will attend Trump's state dinner with China’s President Xi. $QCOM
 - 09/18 06:00 [financialjuice] S. KOREAN PPI YOY ACTUAL 7.9% (FORECAST -, PREVIOUS 7.7%) $MACRO
@@ -160,3 +154,18 @@
 - 09/18 10:50 [financialjuice] S.Korea President Lee: never contemplated pursuing another term
 - 09/18 10:51 [FirstSquawk] 20-year JGB yield slips to 3.79%, down 4.5 bps
 - 09/18 10:55 [FirstSquawk] BOJ set for rate hike at two-day meeting amid rising inflation risks
+- 09/18 11:00 [FirstSquawk] Commodity vessel traffic through the Strait of Hormuz drops to four on Thursday, versus a 10-day average of about 16
+- 09/18 11:00 [financialjuice] Four commodity ships pass Strait of Hormuz on Thursday vs 10-day average near 16, data shows:
+- 09/18 11:05 [financialjuice] S. Korea president: Several nations moving military forces near Hormuz Strait
+- 09/18 11:05 [FirstSquawk] South Korea President Lee: Several countries are deploying military assets near the Strait of Hormuz
+- 09/18 11:10 [financialjuice] S. Korea President Lee: Won't deploy troops to join conflict, concerns over Hormuz
+- 09/18 11:11 [financialjuice] S.Korea President Lee: limited actions to safeguard South Korean economic interests, citizens possible
+- 09/18 11:12 [financialjuice] South Korea president Lee: reviewing whether to boost involvement beyond current level over Hormuz issue
+- 09/18 11:12 [FirstSquawk] President Lee: South Korea will not deploy forces to join the war amid Hormuz concerns
+- 09/18 11:12 [FirstSquawk] President Lee: South Korea may take limited action to protect its economic interests and people
+- 09/18 11:13 [FirstSquawk] South Korea’s President Lee: Considering greater involvement amid concerns over the Strait of Hormuz
+- 09/18 11:14 [financialjuice] S.Korea President Lee: Any US-N.Korea Talks Will Be Crucial to Korean Peninsula
+- 09/18 11:15 [financialjuice] S.Korea President Lee: Uncertainty remains over Trump-Kim talks
+- 09/18 11:15 [financialjuice] S.Korea president Lee: Trump seeks talks with N.Korea
+- 09/18 11:16 [financialjuice] S.Korea President Lee: Trump-Kim talks tough but not impossible
+- 09/18 11:16 [financialjuice] S.Korea President Lee: S.Korea has role in any US-N.Korea negotiations

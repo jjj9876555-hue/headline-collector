@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 10:58 JST／対象: 09/17 22:58 〜 09/18 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 11:17 JST／対象: 09/17 23:17 〜 09/18 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/17 23:42 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 148 | 09/17 23:00 | 09/18 10:55 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 119 | 09/17 23:00 | 09/18 10:50 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 146 | 09/17 23:31 | 09/18 11:13 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 118 | 09/17 23:17 | 09/18 11:16 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 267 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 264 行（統合前 278 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 23:00 [financialjuice] US PENDING HOME SALES CHANGE MOM ACTUAL 0.3% (FORECAST -0.1%, PREVIOUS -2.3%) $MACRO
-- 09/17 23:00 [financialjuice] US PENDING HOMES INDEX ACTUAL 71.2 (FORECAST -, PREVIOUS 71.2 ,REVISION 71.0) $MACRO
-- 09/17 23:00 [FirstSquawk] US AUG. PENDING HOME SALES ROSE 0.3% M/M; EST. -0.1%
-- 09/17 23:01 [financialjuice] US Pending Homes Sales August 2026 report
-- 09/17 23:03 [FirstSquawk] CHINA FOREIGN MINISTER HELD CALL WITH U.S. RUBIO - CHINESE STATE MEDIA
-- 09/17 23:03 [financialjuice] China Foreign Minister Wang Yi held call with US Secretary of State Rubio - Chinese State Media
-- 09/17 23:04 [FirstSquawk] WHITE HOUSE WEIGHS US INCUBATOR FOR CYBER RESEARCH, STARTUPS
-- 09/17 23:04 [FirstSquawk] OPENAI NEAR TO SOLVING ANOTHER MILLENNIUM PROBLEM: INFORMATION
-- 09/17 23:04 [financialjuice] OpenAI near to solving another millennium problem - The Information
-- 09/17 23:05 [financialjuice] China Foreign Minister: China, US should prepare well for next stage of high-level exchanges in spirit of equality, respect, reciprocity - Xinhua
-- 09/17 23:05 [FirstSquawk] CHINA FOREIGN MINISTER: CHINA-U.S. RELATIONS OVERALL MOVING ALONG CONSTRUCTIVE, STRATEGICALLY STABLE TRACK SET BY TWO LEADERS - XINHUA
-- 09/17 23:05 [financialjuice] China's Foreign Minister Wang Yi: Head-of-state diplomacy is the anchor of China-US relations.
-- 09/17 23:05 [financialjuice] OpenAI Is Close To Solving Another Millennium Prize Math Problem - The Information
-- 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi: China-US relations overall moving along constructive, strategically stable track set by two leaders - Xinhua
-- 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi: Two sides should strengthen communication, advance cooperation, manage differences, respect each other's core interests.
-- 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi US Secretary of State Rubio exchanged views on Middle East situation in phone call - Xinhua
-- 09/17 23:14 [FirstSquawk] SPOT SILVER EXTENDED GAINS, LAST UP 5% AT $66.13/OZ
-- 09/17 23:17 [FirstSquawk] NOVO: CHMP RECOMMENDS EU APPROVAL OF FREHEMGO ® (DENECIMIG), THE FIRST FACTOR VIIIA MIMETIC OFFERING MONTHLY, ONCE EVERY TWO WEEKS AND WEEKLY DOSING IN A PRE-FILLED PEN, FOR THE TREATMENT OF HAEMOPHILIA A
 - 09/17 23:17 [financialjuice] Crypto Fear & Greed Index: 50/100 - Neutral
 - 09/17 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 44B (FORECAST 48B, PREVIOUS 40B) $MACRO
 - 09/17 23:31 [FirstSquawk] EIA SAYS US NATURAL-GAS STOCKPILES ROSE 44 BCF LAST WEEK
@@ -291,3 +273,18 @@
 - 09/18 10:50 [financialjuice] S.Korea President Lee: never contemplated pursuing another term
 - 09/18 10:51 [FirstSquawk] 20-year JGB yield slips to 3.79%, down 4.5 bps
 - 09/18 10:55 [FirstSquawk] BOJ set for rate hike at two-day meeting amid rising inflation risks
+- 09/18 11:00 [FirstSquawk] Commodity vessel traffic through the Strait of Hormuz drops to four on Thursday, versus a 10-day average of about 16
+- 09/18 11:00 [financialjuice] Four commodity ships pass Strait of Hormuz on Thursday vs 10-day average near 16, data shows:
+- 09/18 11:05 [financialjuice] S. Korea president: Several nations moving military forces near Hormuz Strait
+- 09/18 11:05 [FirstSquawk] South Korea President Lee: Several countries are deploying military assets near the Strait of Hormuz
+- 09/18 11:10 [financialjuice] S. Korea President Lee: Won't deploy troops to join conflict, concerns over Hormuz
+- 09/18 11:11 [financialjuice] S.Korea President Lee: limited actions to safeguard South Korean economic interests, citizens possible
+- 09/18 11:12 [financialjuice] South Korea president Lee: reviewing whether to boost involvement beyond current level over Hormuz issue
+- 09/18 11:12 [FirstSquawk] President Lee: South Korea will not deploy forces to join the war amid Hormuz concerns
+- 09/18 11:12 [FirstSquawk] President Lee: South Korea may take limited action to protect its economic interests and people
+- 09/18 11:13 [FirstSquawk] South Korea’s President Lee: Considering greater involvement amid concerns over the Strait of Hormuz
+- 09/18 11:14 [financialjuice] S.Korea President Lee: Any US-N.Korea Talks Will Be Crucial to Korean Peninsula
+- 09/18 11:15 [financialjuice] S.Korea President Lee: Uncertainty remains over Trump-Kim talks
+- 09/18 11:15 [financialjuice] S.Korea president Lee: Trump seeks talks with N.Korea
+- 09/18 11:16 [financialjuice] S.Korea President Lee: Trump-Kim talks tough but not impossible
+- 09/18 11:16 [financialjuice] S.Korea President Lee: S.Korea has role in any US-N.Korea negotiations
