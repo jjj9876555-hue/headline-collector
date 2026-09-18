@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 12:02 JST／対象: 09/17 12:02 〜 09/18 12:02 JST（時刻はすべて日本時間）
+生成: 2026-09-18 12:20 JST／対象: 09/17 12:20 〜 09/18 12:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 336 | 09/17 12:03 | 09/18 12:01 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 318 | 09/17 12:10 | 09/18 12:00 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 355 | 09/17 12:20 | 09/18 12:16 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 321 | 09/17 12:38 | 09/18 12:12 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 655 行（統合前 672 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 677 行（統合前 694 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 12:03 [FirstSquawk] Malaysia’s Anwar Ibrahim expresses grave concern over a reported drone interception near Mecca, calling any threat to the city “wholly unacceptable.”
-- 09/17 12:04 [FirstSquawk] More than 20 international experts say human-driven climate change worsened several factors behind the catastrophic August flooding on the Nepal-China border, CNN reports.
-- 09/17 12:10 [FirstSquawk] Dollar Index stays above 100.00 after the Fed signals more monetary tightening.
-- 09/17 12:10 [financialjuice] Japan chief cabinet secretary Kihara: continue close communication with US Treasury to maintain orderly forex market
-- 09/17 12:10 [FirstSquawk] Kihara: Japan will continue close talks with the US Treasury to support orderly foreign exchange markets.
-- 09/17 12:15 [FirstSquawk] China’s US Treasury holdings decline to an 18-year low amid broad-based selling across global bond markets, according to SCMP.
-- 09/17 12:17 [FirstSquawk] JPMorgan lifts its target price for Sandvik AB to SEK 415 from SEK 400.
 - 09/17 12:20 [FirstSquawk] JPMorgan lowers its target price for TransDigm Group to $1,415 from $1,450.
 - 09/17 12:30 [FirstSquawk] Japan’s 3-month Treasury bill auction records a lowest price of 99.7045 and an average price of 99.7099, with 49.5183% of bids accepted at the lowest price.
 - 09/17 12:32 [FirstSquawk] China’s property reforms may weigh more heavily on the cement sector than steel, Fitch Ratings says.
@@ -679,3 +672,32 @@
 - 09/18 12:01 [FirstSquawk] Euro/yen rises 0.48% to 179.83 yen. The euro strengthens against the yen, with EUR/JPY moving higher to 179.83. EUR/JPY: +0.48%
 - 09/18 12:01 [FirstSquawk] GBP/JPY climbs 0.51% to 209.29 yen.
 - 09/18 12:01 [FirstSquawk] Swiss franc gains 0.66% against the yen, reaching 189.89.
+- 09/18 12:02 [FirstSquawk] Australian dollar advances 0.58% versus the yen to 111.51.
+- 09/18 12:02 [FirstSquawk] NZD/JPY climbs 0.20% to 89.55 yen.
+- 09/18 12:05 [FirstSquawk] BoJ raises short-term interest rate by 25bp to 1.25%, as expected. The move brings Japan’s policy rate to 1.25%, in line with market expectations. BoJ rate: 1.25% | +25bp
+- 09/18 12:08 [FirstSquawk] BOJ: Inflation excluding temporary factors is gradually nearing the central bank’s 2% objective, with monetary conditions still supportive.
+- 09/18 12:08 [FirstSquawk] BOJ: The BOJ will assess how Middle East developments, artificial-intelligence demand and foreign-exchange fluctuations could affect economic growth and prices.
+- 09/18 12:08 [FirstSquawk] BOJ: Financial conditions are likely to stay supportive even after the policy-rate change, helping underpin economic activity.
+- 09/18 12:08 [FirstSquawk] BOJ: Bringing underlying inflation to a stable level near 2% is becoming more important, while limiting the risk of a significant overshoot remains a key consideration.
+- 09/18 12:08 [FirstSquawk] BOJ: Policy settings will be modified when necessary to secure the 2% inflation objective on a sustainable and stable basis.
+- 09/18 12:08 [FirstSquawk] BOJ: Decisions on when and how quickly to raise rates will depend on the probability of the baseline outlook materialising and the risks surrounding it.
+- 09/18 12:08 [FirstSquawk] BOJ: The bank intends to keep tightening policy as economic activity and price trends evolve, while factoring in prevailing financial conditions.
+- 09/18 12:08 [FirstSquawk] BOJ: Wholesale price pressures remain strong amid elevated oil costs, currency movements and robust demand linked to artificial intelligence.
+- 09/18 12:08 [FirstSquawk] BOJ: Rising costs at the business-to-business level are increasingly filtering through to prices paid by consumers.
+- 09/18 12:08 [FirstSquawk] BOJ: Both economic conditions and price trends are generally progressing as anticipated under the central bank’s baseline forecast.
+- 09/18 12:08 [FirstSquawk] BOJ: Inflation expectations are moving higher as underlying price growth draws closer to the 2% objective.
+- 09/18 12:08 [FirstSquawk] BOJ: The BOJ will closely watch developments in the Middle East, artificial-intelligence demand and currency-market volatility for potential consequences for growth and inflation.
+- 09/18 12:08 [FirstSquawk] BOJ: Underlying inflation could potentially exceed the central bank’s 2% objective.
+- 09/18 12:08 [FirstSquawk] BOJ: Businesses are continuing to reflect higher wage-related labour expenses in the prices they charge customers.
+- 09/18 12:08 [FirstSquawk] BOJ: The BOJ concluded that a change in the level of monetary accommodation was required to secure its price-stability objective in a sustainable and consistent manner.
+- 09/18 12:09 [FirstSquawk] BOJ: Higher import costs are beginning to show up in domestic prices, while businesses continue to incorporate wage increases into their selling prices.
+- 09/18 12:09 [FirstSquawk] BOJ: Consumer inflation is projected to ease toward approximately 2% in the latter part of the period covered by the July 2026 economic outlook.
+- 09/18 12:09 [FirstSquawk] BOJ: Further weakness in the yen could put additional upward pressure on consumer prices.
+- 09/18 12:09 [FirstSquawk] BOJ: Consumer-price growth has remained moderate recently, with the pace largely contained between 1.5% and 2.0%.
+- 09/18 12:10 [financialjuice] Barclays expects BoE to raise bank rate by 25bp in November and again in February 2027
+- 09/18 12:10 [FirstSquawk] Barclays expects the BOE to deliver a 25bp rate increase in November, followed by another 25bp hike in February 2027.
+- 09/18 12:12 [financialjuice] China’s August jet fuel exports reach record 2.55 million metric tons - source records
+- 09/18 12:12 [financialjuice] China's August diesel exports reach highest since March 2024 at 1.33 million metric tons - source records
+- 09/18 12:12 [financialjuice] Japan PM Takaichi, Trump organizing summit meeting: NHK reports
+- 09/18 12:12 [FirstSquawk] NHK reports Takaichi and Trump are coordinating plans for a summit meeting.
+- 09/18 12:16 [FirstSquawk] Indonesia FinMin: The government will ensure the rest-of-year spending is used efficiently and generates maximum benefits for the public.
