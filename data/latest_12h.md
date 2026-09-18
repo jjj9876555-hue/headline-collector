@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 22:58 JST／対象: 09/18 10:58 〜 09/18 22:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 23:17 JST／対象: 09/18 11:17 〜 09/18 23:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 198 | 09/18 11:00 | 09/18 22:36 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 158 | 09/18 11:00 | 09/18 22:39 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 195 | 09/18 11:24 | 09/18 23:09 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 153 | 09/18 11:18 | 09/18 23:16 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 359 行（統合前 360 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 351 行（統合前 352 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 11:00 [FirstSquawk] Commodity vessel traffic through the Strait of Hormuz drops to four on Thursday, versus a 10-day average of about 16
-- 09/18 11:00 [financialjuice] Four commodity ships pass Strait of Hormuz on Thursday vs 10-day average near 16, data shows:
-- 09/18 11:05 [financialjuice] S. Korea president: Several nations moving military forces near Hormuz Strait
-- 09/18 11:05 [FirstSquawk] South Korea President Lee: Several countries are deploying military assets near the Strait of Hormuz
-- 09/18 11:10 [financialjuice] S. Korea President Lee: Won't deploy troops to join conflict, concerns over Hormuz
-- 09/18 11:11 [financialjuice] S.Korea President Lee: limited actions to safeguard South Korean economic interests, citizens possible
-- 09/18 11:12 [financialjuice] South Korea president Lee: reviewing whether to boost involvement beyond current level over Hormuz issue
-- 09/18 11:12 [FirstSquawk] President Lee: South Korea will not deploy forces to join the war amid Hormuz concerns
-- 09/18 11:12 [FirstSquawk] President Lee: South Korea may take limited action to protect its economic interests and people
-- 09/18 11:13 [FirstSquawk] South Korea’s President Lee: Considering greater involvement amid concerns over the Strait of Hormuz
-- 09/18 11:14 [financialjuice] S.Korea President Lee: Any US-N.Korea Talks Will Be Crucial to Korean Peninsula
-- 09/18 11:15 [financialjuice] S.Korea President Lee: Uncertainty remains over Trump-Kim talks
-- 09/18 11:15 [financialjuice] S.Korea president Lee: Trump seeks talks with N.Korea
-- 09/18 11:16 [financialjuice] S.Korea President Lee: Trump-Kim talks tough but not impossible
-- 09/18 11:16 [financialjuice] S.Korea President Lee: S.Korea has role in any US-N.Korea negotiations
 - 09/18 11:18 [financialjuice] China's offshore yuan hits strongest level since July 2022
 - 09/18 11:24 [FirstSquawk] South Korea President Lee: US-North Korea talks would be important for the Korean Peninsula
 - 09/18 11:24 [FirstSquawk] President Lee: Cannot confirm whether Trump-Kim talks will take place
@@ -383,3 +368,10 @@
 - 09/18 22:35 [FirstSquawk] BOWMAN ANTICIPATES THAT THE FED WILL COMPLETE 'BASEL' BANK CAPITAL REGULATIONS AND ADJUSTMENTS TO THE GSIB SURCHARGE BY YEAR-END.
 - 09/18 22:36 [FirstSquawk] BOWMAN ANNOUNCES FED WILL USE STRESS TESTS MORE EXTENSIVELY TO KEEP US CENTRAL BANK SUPERVISORS UPDATED ON BANK RISKS.
 - 09/18 22:39 [financialjuice] China opposes the EU's comments on restricting hybrid car exports.
+- 09/18 22:59 [financialjuice] Bild: The German Government plans to cut energy tax on gasoline by 14 cents per litre.
+- 09/18 23:01 [financialjuice] US LEADING INDEX CHANGE MOM ACTUAL -0.1% (FORECAST 0.1%, PREVIOUS 0.2%) $MACRO
+- 09/18 23:07 [FirstSquawk] US CDC: WORKING WITH COUNCIL OF STATE & TERRITORIAL EPIDEMIOLOGISTS TO DEVELOP STANDARDIZED CASE DEFINITION FOR DEATHS DUE TO MEASLES
+- 09/18 23:09 [FirstSquawk] TREASURY PERMITS CERTAIN TRANSACTIONS FOR LUKOIL INTERNATIONAL GMBH.
+- 09/18 23:12 [financialjuice] The Treasury allows some Lukoil International GMBH actions.
+- 09/18 23:13 [financialjuice] German Government agrees on fuel price cap - Spiegel.
+- 09/18 23:16 [financialjuice] Mexico's President Sheinbaum: I spoke with Trump on Wednesday. The call was very good, we reached some agreements.

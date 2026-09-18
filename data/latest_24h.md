@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 22:58 JST／対象: 09/17 22:58 〜 09/18 22:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 23:17 JST／対象: 09/17 23:17 〜 09/18 23:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 23:42 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 346 | 09/17 23:00 | 09/18 22:36 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 277 | 09/17 23:00 | 09/18 22:39 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 341 | 09/17 23:31 | 09/18 23:09 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 271 | 09/17 23:17 | 09/18 23:16 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 626 行（統合前 641 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 615 行（統合前 630 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 23:00 [financialjuice] US PENDING HOME SALES CHANGE MOM ACTUAL 0.3% (FORECAST -0.1%, PREVIOUS -2.3%) $MACRO
-- 09/17 23:00 [financialjuice] US PENDING HOMES INDEX ACTUAL 71.2 (FORECAST -, PREVIOUS 71.2 ,REVISION 71.0) $MACRO
-- 09/17 23:00 [FirstSquawk] US AUG. PENDING HOME SALES ROSE 0.3% M/M; EST. -0.1%
-- 09/17 23:01 [financialjuice] US Pending Homes Sales August 2026 report
-- 09/17 23:03 [FirstSquawk] CHINA FOREIGN MINISTER HELD CALL WITH U.S. RUBIO - CHINESE STATE MEDIA
-- 09/17 23:03 [financialjuice] China Foreign Minister Wang Yi held call with US Secretary of State Rubio - Chinese State Media
-- 09/17 23:04 [FirstSquawk] WHITE HOUSE WEIGHS US INCUBATOR FOR CYBER RESEARCH, STARTUPS
-- 09/17 23:04 [FirstSquawk] OPENAI NEAR TO SOLVING ANOTHER MILLENNIUM PROBLEM: INFORMATION
-- 09/17 23:04 [financialjuice] OpenAI near to solving another millennium problem - The Information
-- 09/17 23:05 [financialjuice] China Foreign Minister: China, US should prepare well for next stage of high-level exchanges in spirit of equality, respect, reciprocity - Xinhua
-- 09/17 23:05 [FirstSquawk] CHINA FOREIGN MINISTER: CHINA-U.S. RELATIONS OVERALL MOVING ALONG CONSTRUCTIVE, STRATEGICALLY STABLE TRACK SET BY TWO LEADERS - XINHUA
-- 09/17 23:05 [financialjuice] China's Foreign Minister Wang Yi: Head-of-state diplomacy is the anchor of China-US relations.
-- 09/17 23:05 [financialjuice] OpenAI Is Close To Solving Another Millennium Prize Math Problem - The Information
-- 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi: China-US relations overall moving along constructive, strategically stable track set by two leaders - Xinhua
-- 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi: Two sides should strengthen communication, advance cooperation, manage differences, respect each other's core interests.
-- 09/17 23:06 [financialjuice] China's Foreign Minister Wang Yi US Secretary of State Rubio exchanged views on Middle East situation in phone call - Xinhua
-- 09/17 23:14 [FirstSquawk] SPOT SILVER EXTENDED GAINS, LAST UP 5% AT $66.13/OZ
-- 09/17 23:17 [FirstSquawk] NOVO: CHMP RECOMMENDS EU APPROVAL OF FREHEMGO ® (DENECIMIG), THE FIRST FACTOR VIIIA MIMETIC OFFERING MONTHLY, ONCE EVERY TWO WEEKS AND WEEKLY DOSING IN A PRE-FILLED PEN, FOR THE TREATMENT OF HAEMOPHILIA A
 - 09/17 23:17 [financialjuice] Crypto Fear & Greed Index: 50/100 - Neutral
 - 09/17 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 44B (FORECAST 48B, PREVIOUS 40B) $MACRO
 - 09/17 23:31 [FirstSquawk] EIA SAYS US NATURAL-GAS STOCKPILES ROSE 44 BCF LAST WEEK
@@ -650,3 +632,10 @@
 - 09/18 22:35 [FirstSquawk] BOWMAN ANTICIPATES THAT THE FED WILL COMPLETE 'BASEL' BANK CAPITAL REGULATIONS AND ADJUSTMENTS TO THE GSIB SURCHARGE BY YEAR-END.
 - 09/18 22:36 [FirstSquawk] BOWMAN ANNOUNCES FED WILL USE STRESS TESTS MORE EXTENSIVELY TO KEEP US CENTRAL BANK SUPERVISORS UPDATED ON BANK RISKS.
 - 09/18 22:39 [financialjuice] China opposes the EU's comments on restricting hybrid car exports.
+- 09/18 22:59 [financialjuice] Bild: The German Government plans to cut energy tax on gasoline by 14 cents per litre.
+- 09/18 23:01 [financialjuice] US LEADING INDEX CHANGE MOM ACTUAL -0.1% (FORECAST 0.1%, PREVIOUS 0.2%) $MACRO
+- 09/18 23:07 [FirstSquawk] US CDC: WORKING WITH COUNCIL OF STATE & TERRITORIAL EPIDEMIOLOGISTS TO DEVELOP STANDARDIZED CASE DEFINITION FOR DEATHS DUE TO MEASLES
+- 09/18 23:09 [FirstSquawk] TREASURY PERMITS CERTAIN TRANSACTIONS FOR LUKOIL INTERNATIONAL GMBH.
+- 09/18 23:12 [financialjuice] The Treasury allows some Lukoil International GMBH actions.
+- 09/18 23:13 [financialjuice] German Government agrees on fuel price cap - Spiegel.
+- 09/18 23:16 [financialjuice] Mexico's President Sheinbaum: I spoke with Trump on Wednesday. The call was very good, we reached some agreements.

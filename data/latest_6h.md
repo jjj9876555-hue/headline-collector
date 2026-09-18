@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 22:58 JST／対象: 09/18 16:58 〜 09/18 22:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 23:17 JST／対象: 09/18 17:17 〜 09/18 23:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 61 | 09/18 17:01 | 09/18 22:36 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 43 | 09/18 17:00 | 09/18 22:39 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 60 | 09/18 17:53 | 09/18 23:09 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 43 | 09/18 17:18 | 09/18 23:16 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 106 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 17:00 [financialjuice] EUROZONE CURRENT ACCOUNT ACTUAL 27.628B (FORECAST -, PREVIOUS 35.100B) $MACRO
-- 09/18 17:01 [FirstSquawk] EUROZONE ECB ONE-YEAR CPI EXPECTATIONS IN AUGUST AT 3.0% (ESTIMATED 3.1%; PREVIOUS 2.9%), AND THREE-YEAR CPI EXPECTATIONS AT 2.9% (ESTIMATED 2.8%; PREVIOUS 2.7%).
-- 09/18 17:01 [financialjuice] Euro Area August 1-year CPI expectations rise to 3%; 3-year rises to 2.9%.
-- 09/18 17:01 [FirstSquawk] EU CURRENT ACCOUNT SA FOR JULY SHOWED A SURPLUS OF 27.6 BILLION EUROS, DOWN FROM 35.1 BILLION EUROS LAST MONTH.
-- 09/18 17:08 [financialjuice] ECB's President Lagarde: We'll decide on rates meeting by meeting.
-- 09/18 17:09 [financialjuice] ECB's President Lagarde: Growth is a bit more promising than we thought.
-- 09/18 17:10 [financialjuice] ECB's President Lagarde: Not seeing second-round effects yet.
-- 09/18 17:10 [FirstSquawk] ECB PRESIDENT LAGARDE STATES NO SIGNS OF SECOND ROUND EFFECTS SO FAR - RTE RADIO.
 - 09/18 17:18 [financialjuice] EUROZONE CURRENT ACCOUNT NSA ACTUAL 36.50B (FORECAST -, PREVIOUS 46.90B) $MACRO
 - 09/18 17:53 [FirstSquawk] US ADMINISTRATION TO ANNOUNCE THAT ALL 50 STATES WILL IMPLEMENT MOST-FAVORED-NATION PRICING FOR SPECIFIC DRUGS IN MEDICAID PROGRAMS.
 - 09/18 17:54 [FirstSquawk] SPOT SILVER INCREASES MORE THAN 3% TO $67.19 PER OUNCE.
@@ -131,3 +123,10 @@
 - 09/18 22:35 [FirstSquawk] BOWMAN ANTICIPATES THAT THE FED WILL COMPLETE 'BASEL' BANK CAPITAL REGULATIONS AND ADJUSTMENTS TO THE GSIB SURCHARGE BY YEAR-END.
 - 09/18 22:36 [FirstSquawk] BOWMAN ANNOUNCES FED WILL USE STRESS TESTS MORE EXTENSIVELY TO KEEP US CENTRAL BANK SUPERVISORS UPDATED ON BANK RISKS.
 - 09/18 22:39 [financialjuice] China opposes the EU's comments on restricting hybrid car exports.
+- 09/18 22:59 [financialjuice] Bild: The German Government plans to cut energy tax on gasoline by 14 cents per litre.
+- 09/18 23:01 [financialjuice] US LEADING INDEX CHANGE MOM ACTUAL -0.1% (FORECAST 0.1%, PREVIOUS 0.2%) $MACRO
+- 09/18 23:07 [FirstSquawk] US CDC: WORKING WITH COUNCIL OF STATE & TERRITORIAL EPIDEMIOLOGISTS TO DEVELOP STANDARDIZED CASE DEFINITION FOR DEATHS DUE TO MEASLES
+- 09/18 23:09 [FirstSquawk] TREASURY PERMITS CERTAIN TRANSACTIONS FOR LUKOIL INTERNATIONAL GMBH.
+- 09/18 23:12 [financialjuice] The Treasury allows some Lukoil International GMBH actions.
+- 09/18 23:13 [financialjuice] German Government agrees on fuel price cap - Spiegel.
+- 09/18 23:16 [financialjuice] Mexico's President Sheinbaum: I spoke with Trump on Wednesday. The call was very good, we reached some agreements.
