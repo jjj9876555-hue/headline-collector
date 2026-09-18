@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 09:49 JST／対象: 09/17 21:49 〜 09/18 09:49 JST（時刻はすべて日本時間）
+生成: 2026-09-18 10:00 JST／対象: 09/17 22:00 〜 09/18 10:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/17 21:58 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 135 | 09/17 21:52 | 09/18 09:45 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 115 | 09/17 21:58 | 09/18 09:45 | ⚠ 60分（06:44→07:45） |
+| DeItaone | 9 | 09/17 22:31 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
+| FirstSquawk | 136 | 09/17 22:02 | 09/18 09:58 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 115 | 09/17 22:00 | 09/18 09:53 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 251 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 252 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 21:52 [FirstSquawk] UK 30-YEAR GILT YIELDS DROP 11 BPS ON DAY, ON COURSE FOR BIGGEST ONE-DAY FALL SINCE MAY 20 AFTER BOE HALTS LONG-DATED GILT SALES
-- 09/17 21:57 [FirstSquawk] CHRYSLER (FCA US, LLC) IS RECALLING 97,349 U.S. VEHICLES - NHTSA
-- 09/17 21:58 [financialjuice] Standard Chartered expects US Fed to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of no policy change this year
-- 09/17 21:58 [DeItaone/FirstSquawk] STANDARD CHARTERED EXPECTS US FED TO DELIVER A 25 BP RATE HIKE IN DECEMBER 2026 VS PRIOR FORECAST OF NO POLICY CHANGE THIS YEAR
 - 09/17 22:00 [financialjuice] Effective Fed Funds Rate 3.63% September 16 vs 3.63% September 15.
 - 09/17 22:01 [financialjuice] Microsoft, Marvell and UTIMACO to deliver industry-first secure, cloud-scale payments solution. $MSFT
 - 09/17 22:02 [FirstSquawk] SENATORS ASK FTC TO PROBE WALMART AND AMAZON OVER BOTS’ ‘MADE IN AMERICA’ DATA - WSJ
@@ -275,3 +271,8 @@
 - 09/18 09:40 [FirstSquawk] RBA Governor Bullock says housing price decline is not significant overall
 - 09/18 09:45 [financialjuice] RBA Governor Bullock: considering if policy is tight enough
 - 09/18 09:45 [FirstSquawk] Bullock: RBA is thinking about whether policy settings are tight enough
+- 09/18 09:49 [FirstSquawk] Oil declines amid easing concerns over Middle East supply disruptions - WSJ
+- 09/18 09:52 [FirstSquawk] Lebanon’s army commander discusses priorities and requirements for roadmap implementation
+- 09/18 09:53 [FirstSquawk] RBA’s Bullock: Consensus is that the neutral interest rate is now higher
+- 09/18 09:53 [financialjuice] RBA Governor Bullock: broad agreement that neutral interest rate has increased
+- 09/18 09:58 [FirstSquawk] Asia-Pacific markets start firmer, taking cues from Wall Street and easing oil prices

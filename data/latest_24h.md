@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 09:49 JST／対象: 09/17 09:49 〜 09/18 09:49 JST（時刻はすべて日本時間）
+生成: 2026-09-18 10:00 JST／対象: 09/17 10:00 〜 09/18 10:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 322 | 09/17 09:51 | 09/18 09:45 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 266 | 09/17 09:58 | 09/18 09:45 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 323 | 09/17 10:01 | 09/18 09:58 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 266 | 09/17 10:00 | 09/18 09:53 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 589 行（統合前 606 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 590 行（統合前 607 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 09:51 [FirstSquawk] 5-year JGB yield ticks higher by 0.5bp to 2.285% in the latest trading.
-- 09/17 09:54 [FirstSquawk] China will promote cooperation on SMR technology, strengthen joint training of professionals and use multilateral platforms to broaden international collaboration, CAEA Director Shan Zhongde said.
-- 09/17 09:58 [financialjuice] South Korea foreign minister: military deployment to Hormuz Strait remains undecided
-- 09/17 09:59 [FirstSquawk] South Korea says it has yet to decide whether to deploy military forces to the Strait of Hormuz, the foreign minister says.
 - 09/17 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% matching previous session open
 - 09/17 10:01 [financialjuice] South Korea foreign minister: US investment pact announcement delayed to clarify procedural matters
 - 09/17 10:01 [financialjuice] South Korea foreign minister: US investment pact also on agenda in US-Korea foreign ministers meeting
@@ -613,3 +609,8 @@
 - 09/18 09:40 [FirstSquawk] RBA Governor Bullock says housing price decline is not significant overall
 - 09/18 09:45 [financialjuice] RBA Governor Bullock: considering if policy is tight enough
 - 09/18 09:45 [FirstSquawk] Bullock: RBA is thinking about whether policy settings are tight enough
+- 09/18 09:49 [FirstSquawk] Oil declines amid easing concerns over Middle East supply disruptions - WSJ
+- 09/18 09:52 [FirstSquawk] Lebanon’s army commander discusses priorities and requirements for roadmap implementation
+- 09/18 09:53 [FirstSquawk] RBA’s Bullock: Consensus is that the neutral interest rate is now higher
+- 09/18 09:53 [financialjuice] RBA Governor Bullock: broad agreement that neutral interest rate has increased
+- 09/18 09:58 [FirstSquawk] Asia-Pacific markets start firmer, taking cues from Wall Street and easing oil prices
