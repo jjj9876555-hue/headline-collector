@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 23:58 JST／対象: 09/18 17:58 〜 09/18 23:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 00:16 JST／対象: 09/18 18:16 〜 09/19 00:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 70 | 09/18 18:02 | 09/18 23:57 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 48 | 09/18 18:00 | 09/18 23:58 | ⚠ 53分（20:06→21:00） |
+| DeItaone | 3 | 09/18 18:54 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
+| FirstSquawk | 71 | 09/18 18:17 | 09/19 00:12 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 50 | 09/18 18:31 | 09/19 00:06 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 121 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 123 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 18:00 [financialjuice] EUROZONE CONSTRUCTION OUTPUT MOM ACTUAL 0% (FORECAST -, PREVIOUS -1.34%) $MACRO
-- 09/18 18:02 [FirstSquawk] NATO ALLIES HOLD "ARCTIC SHIELD" DRILL IN GREENLAND.
-- 09/18 18:11 [DeItaone] U.S. COULD RELEASE MORE OIL FROM SPR Energy Secretary Chris Wright says another round of crude loans from the Strategic Petroleum Reserve is a “very real possibility” as higher oil prices and steep futures backwardation boost demand for bar…
-- 09/18 18:12 [FirstSquawk] UKRAINE'S PRESIDENT ZELENSKYY UNVEILS THE NEW CARPATHIAN EIGHT COOPERATION GROUP.
-- 09/18 18:12 [FirstSquawk] SOFTBANK INCREASES CREDIT LINE TO $6.5 BILLION FROM $6.05 BILLION DUE TO RISING AI DEBTS.
 - 09/18 18:17 [FirstSquawk] EU WILL PROVIDE €3.3 BILLION TO UKRAINE ON SEPTEMBER 18, ACCORDING TO VON DER LEYEN.
 - 09/18 18:17 [FirstSquawk] VON DER LEYEN STATES THEY ARE PREPARED FOR COLLABORATIVE DEFENSE INITIATIVES BETWEEN THE EU AND UKRAINE.
 - 09/18 18:17 [FirstSquawk] VON DER LEYEN STATED THAT NECESSARY RADA REFORMS WERE TALKED ABOUT.
@@ -145,3 +140,10 @@
 - 09/18 23:56 [financialjuice] AWS signs a 5-year strategic collaboration pact with SAP to expand SAP Business AI platform to 7 new AWS regions. $AMZN $SAP
 - 09/18 23:57 [FirstSquawk] COOLING TOWER AT KURSK NUCLEAR PLANT DAMAGED BY DRONE ATTACK, SAYS IAEA.
 - 09/18 23:58 [financialjuice] IAEA: The cooling tower of the reactor unit in the Russia Kursk plant has been hit by a drone.
+- 09/18 23:59 [FirstSquawk] EU SET TO IMPOSE PROVISIONAL SAFEGUARD MEASURES ON IMPORTS OF ELECTRICAL STEEL, EU OFFICIAL JOURNAL SAYS
+- 09/18 23:59 [financialjuice] IAEA: There is no fire in the Kursk plant, and the unit's operating mode is unchanged.
+- 09/19 00:00 [financialjuice] Amazon is in the EU's crosshairs over suspected price curbs on sellers. $AMZN
+- 09/19 00:02 [FirstSquawk] US CARMAKERS, DEALERS, SUPPLIERS SEEK CHINA BAN IN LETTER TO PRESIDENT TRUMP
+- 09/19 00:03 [FirstSquawk] AMAZON REPORTEDLY IN EU CROSSHAIRS OVER SUSPECTED PRICE CURBS ON SELLERS
+- 09/19 00:06 [financialjuice] California Gov. Newsom issues an executive order on the creation of an AI 'kill switch".
+- 09/19 00:12 [FirstSquawk] NORTHROP GRUMMAN TO DELIVER NEW SPACE DOMAIN AWARENESS PROTOTYPE SATELLITE

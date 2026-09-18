@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 23:58 JST／対象: 09/17 23:58 〜 09/18 23:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 00:16 JST／対象: 09/18 00:16 〜 09/19 00:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 00:42 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 348 | 09/18 00:01 | 09/18 23:57 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 271 | 09/18 00:19 | 09/18 23:58 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 348 | 09/18 00:18 | 09/19 00:12 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 274 | 09/18 00:19 | 09/19 00:06 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 621 行（統合前 636 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 624 行（統合前 639 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 00:01 [FirstSquawk] US TREASURY TO SELL $69 BLN IN 2-YEAR NOTES (EST $69 BLN)
-- 09/18 00:08 [FirstSquawk] STELLANTIS SAYS THERE IS NO LONG-TERM BUSINESS CASE FOR ITS BRAMPTON PLANT
-- 09/18 00:15 [FirstSquawk] WORKERS AT DIAGEO’S LARGEST DISTILLERY TO GO ON STRIKE AS DEMAND SLUMPS - FT
-- 09/18 00:16 [FirstSquawk] CENTCOM: AS OF SEPT. 17, CENTCOM FORCES HAVE REDIRECTED 104 COMMERCIAL VESSELS TO ENSURE STRICT COMPLIANCE.
 - 09/18 00:18 [FirstSquawk/financialjuice] JP MORGAN EXPECTS BOE TO HIKE INTEREST RATES BY 25 BP IN FEBRUARY 2027 VS PRIOR FORECAST OF TWO RATE CUTS IN 2027
 - 09/18 00:31 [FirstSquawk] LOCKHEED MARTIN CFO: Q3 MAY HAVE LOWER PROGRAM RISK RETIREMENTS THAN Q2, "MAY SEE SOME LUMPINESS AS WE GET TO OUR GUIDED MARGINS"
 - 09/18 00:31 [FirstSquawk] TURKEY DETAINS DESTEK CHAIRMAN, TERA CHAIRMAN GETS TRAVEL BAN
@@ -645,3 +641,10 @@
 - 09/18 23:56 [financialjuice] AWS signs a 5-year strategic collaboration pact with SAP to expand SAP Business AI platform to 7 new AWS regions. $AMZN $SAP
 - 09/18 23:57 [FirstSquawk] COOLING TOWER AT KURSK NUCLEAR PLANT DAMAGED BY DRONE ATTACK, SAYS IAEA.
 - 09/18 23:58 [financialjuice] IAEA: The cooling tower of the reactor unit in the Russia Kursk plant has been hit by a drone.
+- 09/18 23:59 [FirstSquawk] EU SET TO IMPOSE PROVISIONAL SAFEGUARD MEASURES ON IMPORTS OF ELECTRICAL STEEL, EU OFFICIAL JOURNAL SAYS
+- 09/18 23:59 [financialjuice] IAEA: There is no fire in the Kursk plant, and the unit's operating mode is unchanged.
+- 09/19 00:00 [financialjuice] Amazon is in the EU's crosshairs over suspected price curbs on sellers. $AMZN
+- 09/19 00:02 [FirstSquawk] US CARMAKERS, DEALERS, SUPPLIERS SEEK CHINA BAN IN LETTER TO PRESIDENT TRUMP
+- 09/19 00:03 [FirstSquawk] AMAZON REPORTEDLY IN EU CROSSHAIRS OVER SUSPECTED PRICE CURBS ON SELLERS
+- 09/19 00:06 [financialjuice] California Gov. Newsom issues an executive order on the creation of an AI 'kill switch".
+- 09/19 00:12 [FirstSquawk] NORTHROP GRUMMAN TO DELIVER NEW SPACE DOMAIN AWARENESS PROTOTYPE SATELLITE

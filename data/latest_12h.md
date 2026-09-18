@@ -7,60 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 23:58 JST／対象: 09/18 11:58 〜 09/18 23:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 00:16 JST／対象: 09/18 12:16 〜 09/19 00:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 187 | 09/18 12:01 | 09/18 23:57 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 120 | 09/18 11:58 | 09/18 23:58 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 163 | 09/18 12:22 | 09/19 00:12 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 114 | 09/18 13:02 | 09/19 00:06 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 310 行（統合前 311 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 280 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 11:58 [financialjuice] BoJ: risk that underlying inflation may exceed 2% target
-- 09/18 11:58 [financialjuice] BOJ: recent yen depreciation likely to push prices higher
-- 09/18 11:59 [financialjuice] BOJ: decided to modify level of monetary support to sustainably and stably achieve price target
-- 09/18 12:00 [financialjuice] S.Korea president Lee: Additional investments by South Korean firms in US chip projects hinge on company decisions
-- 09/18 12:00 [financialjuice] BOJ: CPI growth rate likely to ease toward about 2% in second half of July 2026 outlook projection period
-- 09/18 12:01 [FirstSquawk] Euro/yen rises 0.48% to 179.83 yen. The euro strengthens against the yen, with EUR/JPY moving higher to 179.83. EUR/JPY: +0.48%
-- 09/18 12:01 [FirstSquawk] GBP/JPY climbs 0.51% to 209.29 yen.
-- 09/18 12:01 [FirstSquawk] Swiss franc gains 0.66% against the yen, reaching 189.89.
-- 09/18 12:02 [FirstSquawk] Australian dollar advances 0.58% versus the yen to 111.51.
-- 09/18 12:02 [FirstSquawk] NZD/JPY climbs 0.20% to 89.55 yen.
-- 09/18 12:05 [FirstSquawk] BoJ raises short-term interest rate by 25bp to 1.25%, as expected. The move brings Japan’s policy rate to 1.25%, in line with market expectations. BoJ rate: 1.25% | +25bp
-- 09/18 12:08 [FirstSquawk] BOJ: Inflation excluding temporary factors is gradually nearing the central bank’s 2% objective, with monetary conditions still supportive.
-- 09/18 12:08 [FirstSquawk] BOJ: The BOJ will assess how Middle East developments, artificial-intelligence demand and foreign-exchange fluctuations could affect economic growth and prices.
-- 09/18 12:08 [FirstSquawk] BOJ: Financial conditions are likely to stay supportive even after the policy-rate change, helping underpin economic activity.
-- 09/18 12:08 [FirstSquawk] BOJ: Bringing underlying inflation to a stable level near 2% is becoming more important, while limiting the risk of a significant overshoot remains a key consideration.
-- 09/18 12:08 [FirstSquawk] BOJ: Policy settings will be modified when necessary to secure the 2% inflation objective on a sustainable and stable basis.
-- 09/18 12:08 [FirstSquawk] BOJ: Decisions on when and how quickly to raise rates will depend on the probability of the baseline outlook materialising and the risks surrounding it.
-- 09/18 12:08 [FirstSquawk] BOJ: The bank intends to keep tightening policy as economic activity and price trends evolve, while factoring in prevailing financial conditions.
-- 09/18 12:08 [FirstSquawk] BOJ: Wholesale price pressures remain strong amid elevated oil costs, currency movements and robust demand linked to artificial intelligence.
-- 09/18 12:08 [FirstSquawk] BOJ: Rising costs at the business-to-business level are increasingly filtering through to prices paid by consumers.
-- 09/18 12:08 [FirstSquawk] BOJ: Both economic conditions and price trends are generally progressing as anticipated under the central bank’s baseline forecast.
-- 09/18 12:08 [FirstSquawk] BOJ: Inflation expectations are moving higher as underlying price growth draws closer to the 2% objective.
-- 09/18 12:08 [FirstSquawk] BOJ: The BOJ will closely watch developments in the Middle East, artificial-intelligence demand and currency-market volatility for potential consequences for growth and inflation.
-- 09/18 12:08 [FirstSquawk] BOJ: Underlying inflation could potentially exceed the central bank’s 2% objective.
-- 09/18 12:08 [FirstSquawk] BOJ: Businesses are continuing to reflect higher wage-related labour expenses in the prices they charge customers.
-- 09/18 12:08 [FirstSquawk] BOJ: The BOJ concluded that a change in the level of monetary accommodation was required to secure its price-stability objective in a sustainable and consistent manner.
-- 09/18 12:09 [FirstSquawk] BOJ: Higher import costs are beginning to show up in domestic prices, while businesses continue to incorporate wage increases into their selling prices.
-- 09/18 12:09 [FirstSquawk] BOJ: Consumer inflation is projected to ease toward approximately 2% in the latter part of the period covered by the July 2026 economic outlook.
-- 09/18 12:09 [FirstSquawk] BOJ: Further weakness in the yen could put additional upward pressure on consumer prices.
-- 09/18 12:09 [FirstSquawk] BOJ: Consumer-price growth has remained moderate recently, with the pace largely contained between 1.5% and 2.0%.
-- 09/18 12:10 [financialjuice] Barclays expects BoE to raise bank rate by 25bp in November and again in February 2027
-- 09/18 12:10 [FirstSquawk] Barclays expects the BOE to deliver a 25bp rate increase in November, followed by another 25bp hike in February 2027.
-- 09/18 12:12 [financialjuice] China’s August jet fuel exports reach record 2.55 million metric tons - source records
-- 09/18 12:12 [financialjuice] China's August diesel exports reach highest since March 2024 at 1.33 million metric tons - source records
-- 09/18 12:12 [financialjuice] Japan PM Takaichi, Trump organizing summit meeting: NHK reports
-- 09/18 12:12 [FirstSquawk] NHK reports Takaichi and Trump are coordinating plans for a summit meeting.
-- 09/18 12:16 [FirstSquawk] Indonesia FinMin: The government will ensure the rest-of-year spending is used efficiently and generates maximum benefits for the public.
 - 09/18 12:22 [FirstSquawk] North Korea’s vice defense minister defends the country’s nuclear arsenal at a Chinese defense forum -YONHAP The remarks underscore Pyongyang’s continued justification of its nuclear weapons program in regional security discussions.
 - 09/18 12:24 [FirstSquawk] Indonesia FinMin: Indonesia’s bond market continues to show strength despite an uncertain global environment.
 - 09/18 12:25 [FirstSquawk] Indonesia FinMin: Indonesia has kept the 10-year bond spread over U.S. Treasuries at around 120bp so far this year.
@@ -334,3 +297,10 @@
 - 09/18 23:56 [financialjuice] AWS signs a 5-year strategic collaboration pact with SAP to expand SAP Business AI platform to 7 new AWS regions. $AMZN $SAP
 - 09/18 23:57 [FirstSquawk] COOLING TOWER AT KURSK NUCLEAR PLANT DAMAGED BY DRONE ATTACK, SAYS IAEA.
 - 09/18 23:58 [financialjuice] IAEA: The cooling tower of the reactor unit in the Russia Kursk plant has been hit by a drone.
+- 09/18 23:59 [FirstSquawk] EU SET TO IMPOSE PROVISIONAL SAFEGUARD MEASURES ON IMPORTS OF ELECTRICAL STEEL, EU OFFICIAL JOURNAL SAYS
+- 09/18 23:59 [financialjuice] IAEA: There is no fire in the Kursk plant, and the unit's operating mode is unchanged.
+- 09/19 00:00 [financialjuice] Amazon is in the EU's crosshairs over suspected price curbs on sellers. $AMZN
+- 09/19 00:02 [FirstSquawk] US CARMAKERS, DEALERS, SUPPLIERS SEEK CHINA BAN IN LETTER TO PRESIDENT TRUMP
+- 09/19 00:03 [FirstSquawk] AMAZON REPORTEDLY IN EU CROSSHAIRS OVER SUSPECTED PRICE CURBS ON SELLERS
+- 09/19 00:06 [financialjuice] California Gov. Newsom issues an executive order on the creation of an AI 'kill switch".
+- 09/19 00:12 [FirstSquawk] NORTHROP GRUMMAN TO DELIVER NEW SPACE DOMAIN AWARENESS PROTOTYPE SATELLITE
