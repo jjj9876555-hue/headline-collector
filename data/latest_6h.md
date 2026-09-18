@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 05:53 JST／対象: 09/18 23:53 〜 09/19 05:53 JST（時刻はすべて日本時間）
+生成: 2026-09-19 06:06 JST／対象: 09/19 00:06 〜 09/19 06:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/19 05:09 | 09/19 05:10 | 0分（05:09→05:10） |
-| FirstSquawk | 61 | 09/18 23:57 | 09/19 05:07 | 19分（04:21→04:40） |
-| financialjuice | 61 | 09/18 23:56 | 09/19 05:42 | 38分（02:01→02:40） |
+| FirstSquawk | 57 | 09/19 00:12 | 09/19 05:07 | 19分（04:21→04:40） |
+| financialjuice | 57 | 09/19 00:24 | 09/19 06:04 | 38分（02:01→02:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 119 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 111 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 23:56 [financialjuice] AWS signs a 5-year strategic collaboration pact with SAP to expand SAP Business AI platform to 7 new AWS regions. $AMZN $SAP
-- 09/18 23:57 [FirstSquawk] COOLING TOWER AT KURSK NUCLEAR PLANT DAMAGED BY DRONE ATTACK, SAYS IAEA.
-- 09/18 23:58 [financialjuice] IAEA: The cooling tower of the reactor unit in the Russia Kursk plant has been hit by a drone.
-- 09/18 23:59 [FirstSquawk] EU SET TO IMPOSE PROVISIONAL SAFEGUARD MEASURES ON IMPORTS OF ELECTRICAL STEEL, EU OFFICIAL JOURNAL SAYS
-- 09/18 23:59 [financialjuice] IAEA: There is no fire in the Kursk plant, and the unit's operating mode is unchanged.
-- 09/19 00:00 [financialjuice] Amazon is in the EU's crosshairs over suspected price curbs on sellers. $AMZN
-- 09/19 00:02 [FirstSquawk] US CARMAKERS, DEALERS, SUPPLIERS SEEK CHINA BAN IN LETTER TO PRESIDENT TRUMP
-- 09/19 00:03 [FirstSquawk] AMAZON REPORTEDLY IN EU CROSSHAIRS OVER SUSPECTED PRICE CURBS ON SELLERS
-- 09/19 00:06 [financialjuice] California Gov. Newsom issues an executive order on the creation of an AI 'kill switch".
 - 09/19 00:12 [FirstSquawk] NORTHROP GRUMMAN TO DELIVER NEW SPACE DOMAIN AWARENESS PROTOTYPE SATELLITE
 - 09/19 00:19 [FirstSquawk] FRANCE'S CNP ASSURANCES IS CONSIDERING A TAKEOVER OFFER FOR COFACE.
 - 09/19 00:19 [FirstSquawk] VW EXPECTS FY OPERATING RETURN ON SALES TO INCREASE TO 1%, UP FROM 4% TO 5.5%, ESTIMATED AT 4.29%.
@@ -143,3 +134,4 @@
 - 09/19 05:36 [financialjuice] Trump ends remarks to reporters at the White House.
 - 09/19 05:41 [financialjuice] Russia seeks to undermine the US elections - NYT, citing intelligence.
 - 09/19 05:42 [financialjuice] Russia Aims to Inject Chaos Into Elections, U.S. Intelligence Finds
+- 09/19 06:04 [financialjuice] South Korean foreign minister reaffirms to Rubio Sequil intent to contribute significantly to restoring free passage through Hormuz Strait - Yonhap

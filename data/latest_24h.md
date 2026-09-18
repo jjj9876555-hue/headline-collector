@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 05:53 JST／対象: 09/18 05:53 〜 09/19 05:53 JST（時刻はすべて日本時間）
+生成: 2026-09-19 06:06 JST／対象: 09/18 06:06 〜 09/19 06:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/18 06:19 | 09/19 05:10 | ⚠ 711分（06:19→18:11） |
 | FirstSquawk | 352 | 09/18 06:20 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 279 | 09/18 05:55 | 09/19 05:42 | ⚠ 60分（06:44→07:45） |
+| financialjuice | 275 | 09/18 06:06 | 09/19 06:04 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 629 行（統合前 642 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 627 行（統合前 638 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 05:55 [financialjuice] Qualcomm's CEO will attend Trump's state dinner with China’s President Xi. $QCOM
-- 09/18 06:00 [financialjuice] S. KOREAN PPI YOY ACTUAL 7.9% (FORECAST -, PREVIOUS 7.7%) $MACRO
-- 09/18 06:00 [financialjuice] S. KOREAN PPI MOM ACTUAL 0.2% (FORECAST -, PREVIOUS -0.4%) $MACRO
-- 09/18 06:02 [financialjuice/FirstSquawk] Healey to urge Brussels to include UK in 'made in Europe' policy: FT
-- 09/18 06:03 [financialjuice/FirstSquawk] British finance minister will on Friday signal to EU counterparts that London is open to negotiate a ‘reset’ deal - FT
 - 09/18 06:06 [financialjuice/FirstSquawk] North Korea's Kim Yo Jong: U.S.-led multinational exercises are primary cause of rising tensions on Korean peninsula
 - 09/18 06:07 [financialjuice] North Korea’s Kim Yo Jong: no shift in strategy to bolster nuclear war deterrence
 - 09/18 06:07 [financialjuice] North Korea's Kim Yo Jong: armed forces to deploy all options if military sovereignty and security interests are seriously threatened
@@ -36,6 +31,8 @@
 - 09/18 06:19 [financialjuice] Iran's IRGC navy: targeted Togo-flagged oil tanker after it attempted illegal passage through Hormuz Strait - Iran's Fars
 - 09/18 06:20 [FirstSquawk] QUALCOMM CEO TO ATTEND TRUMP-XI STATE DINNER, SIGNALING HIGH-LEVEL US-CHINA TECH ENGAGEMENT
 - 09/18 06:20 [financialjuice] Iran's IRGC navy reports oil tanker fire - Fars
+- 09/18 06:20 [FirstSquawk] HEALEY TO URGE BRUSSELS TO INCLUDE UK IN 'MADE IN EUROPE' POLICY: FT
+- 09/18 06:21 [FirstSquawk] BRITISH FINANCE MINISTER WILL ON FRIDAY SIGNAL TO EU COUNTERPARTS THAT LONDON IS OPEN TO NEGOTIATE A ‘RESET’ DEAL - FT
 - 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG SAYS US-LED MULTINATIONAL MILITARY EXERCISES ARE THE PRIMARY CAUSE OF RISING KOREAN PENINSULA TENSIONS
 - 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG SAYS NO SHIFT IN STRATEGY TO STRENGTHEN NUCLEAR WAR DETERRENCE
 - 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG WARNS ARMED FORCES WILL USE “ALL OPTIONS” IF MILITARY SOVEREIGNTY OR SECURITY INTERESTS ARE SERIOUSLY THREATENED
@@ -653,3 +650,4 @@
 - 09/19 05:36 [financialjuice] Trump ends remarks to reporters at the White House.
 - 09/19 05:41 [financialjuice] Russia seeks to undermine the US elections - NYT, citing intelligence.
 - 09/19 05:42 [financialjuice] Russia Aims to Inject Chaos Into Elections, U.S. Intelligence Finds
+- 09/19 06:04 [financialjuice] South Korean foreign minister reaffirms to Rubio Sequil intent to contribute significantly to restoring free passage through Hormuz Strait - Yonhap

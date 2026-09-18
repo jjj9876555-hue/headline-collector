@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 05:53 JST／対象: 09/18 17:53 〜 09/19 05:53 JST（時刻はすべて日本時間）
+生成: 2026-09-19 06:06 JST／対象: 09/18 18:06 〜 09/19 06:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/18 18:11 | 09/19 05:10 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 131 | 09/18 17:54 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 107 | 09/18 18:00 | 09/19 05:42 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 129 | 09/18 18:12 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 107 | 09/18 18:31 | 09/19 06:04 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 238 行（統合前 247 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 236 行（統合前 245 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 17:54 [FirstSquawk] SPOT SILVER INCREASES MORE THAN 3% TO $67.19 PER OUNCE.
-- 09/18 18:00 [financialjuice] EUROZONE CONSTRUCTION OUTPUT MOM ACTUAL 0% (FORECAST -, PREVIOUS -1.34%) $MACRO
-- 09/18 18:02 [FirstSquawk] NATO ALLIES HOLD "ARCTIC SHIELD" DRILL IN GREENLAND.
 - 09/18 18:11 [DeItaone] U.S. COULD RELEASE MORE OIL FROM SPR Energy Secretary Chris Wright says another round of crude loans from the Strategic Petroleum Reserve is a “very real possibility” as higher oil prices and steep futures backwardation boost demand for bar…
 - 09/18 18:12 [FirstSquawk] UKRAINE'S PRESIDENT ZELENSKYY UNVEILS THE NEW CARPATHIAN EIGHT COOPERATION GROUP.
 - 09/18 18:12 [FirstSquawk] SOFTBANK INCREASES CREDIT LINE TO $6.5 BILLION FROM $6.05 BILLION DUE TO RISING AI DEBTS.
@@ -262,3 +259,4 @@
 - 09/19 05:36 [financialjuice] Trump ends remarks to reporters at the White House.
 - 09/19 05:41 [financialjuice] Russia seeks to undermine the US elections - NYT, citing intelligence.
 - 09/19 05:42 [financialjuice] Russia Aims to Inject Chaos Into Elections, U.S. Intelligence Finds
+- 09/19 06:04 [financialjuice] South Korean foreign minister reaffirms to Rubio Sequil intent to contribute significantly to restoring free passage through Hormuz Strait - Yonhap
