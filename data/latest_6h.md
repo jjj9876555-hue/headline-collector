@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 00:47 JST／対象: 09/18 18:47 〜 09/19 00:47 JST（時刻はすべて日本時間）
+生成: 2026-09-19 00:58 JST／対象: 09/18 18:58 〜 09/19 00:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/18 18:54 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 70 | 09/18 19:01 | 09/19 00:41 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 54 | 09/18 19:18 | 09/19 00:33 | ⚠ 53分（20:06→21:00） |
+| DeItaone | 2 | 09/18 19:08 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
+| FirstSquawk | 71 | 09/18 19:01 | 09/19 00:49 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 56 | 09/18 19:18 | 09/19 00:51 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 127 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 128 行（統合前 130 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 18:54 [DeItaone] JP MORGAN EXPECTS ECB TO DELIVER ANOTHER 25 BP INTEREST RATE HIKE IN MARCH 2027 AFTER A DECEMBER HIKE VS PRIOR FORECAST OF RATES ON HOLD IN 2027
 - 09/18 19:01 [FirstSquawk] BERKSHIRE HAS APPOINTED WARREN BUFFETT AS CHAIRMAN EMERITUS.
 - 09/18 19:08 [DeItaone] ANTHROPIC BUILDS BIOLOGY LAB TO PUSH AI INTO DRUG DEVELOPMENT Anthropic has quietly established a Bay Area wet lab, moving its life-sciences ambitions beyond computer simulations and into physical biological experiments. The company wants C…
 - 09/18 19:14 [FirstSquawk] RUSSIAN MILITARY STRIKES CARGO SHIP IN ODESA, ACCORDING TO DEFENSE MINISTRY.
@@ -151,3 +150,5 @@
 - 09/19 00:40 [FirstSquawk] FED'S SCHMID SUPPORTED HIKE; SAYS RECENT DATA SUGGEST INFLATION TRENDING ABOVE 3%
 - 09/19 00:40 [FirstSquawk] FED’S SCHMID: LABOUR MARKET APPEARS TO BE IN BALANCE
 - 09/19 00:41 [FirstSquawk] RUSSIAN FORCES HIT DRY CARGO SHIP IN ODESA – IFX CITING RUSSIAN DEFENCE MINISTRY
+- 09/19 00:48 [financialjuice/FirstSquawk] BoJ likely conducted rate checks in currency market - Nikkei
+- 09/19 00:51 [financialjuice] Fed's Schmid: I agree with Chairman Warsh's framework on why bond yields have gone up. Economic growth, demand for capital from al investment, geopolitical challenges.

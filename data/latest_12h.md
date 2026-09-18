@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 00:47 JST／対象: 09/18 12:47 〜 09/19 00:47 JST（時刻はすべて日本時間）
+生成: 2026-09-19 00:58 JST／対象: 09/18 12:58 〜 09/19 00:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 165 | 09/18 12:49 | 09/19 00:41 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 121 | 09/18 13:02 | 09/19 00:33 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 164 | 09/18 13:01 | 09/19 00:49 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 123 | 09/18 13:02 | 09/19 00:51 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 289 行（統合前 290 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 289 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 12:49 [FirstSquawk] Japan’s 10-year JGB yield narrows its decline to 1.5bp, last standing at 2.975%.
-- 09/18 12:53 [FirstSquawk] Indonesia Finance Ministry official: Authorities will closely manage the supply impact of bond issuance to preserve current yield levels.
 - 09/18 13:01 [FirstSquawk] Benchmark 20-year Japanese government bond yield rises 1.5bp to 3.850%.
 - 09/18 13:02 [financialjuice] Pakistan army chief urges Iran to rein in Houthis: FT
 - 09/18 13:02 [financialjuice] Venezuela nears deal to transfer $4bn gold reserve to New York: FT
@@ -313,3 +311,5 @@
 - 09/19 00:40 [FirstSquawk] FED'S SCHMID SUPPORTED HIKE; SAYS RECENT DATA SUGGEST INFLATION TRENDING ABOVE 3%
 - 09/19 00:40 [FirstSquawk] FED’S SCHMID: LABOUR MARKET APPEARS TO BE IN BALANCE
 - 09/19 00:41 [FirstSquawk] RUSSIAN FORCES HIT DRY CARGO SHIP IN ODESA – IFX CITING RUSSIAN DEFENCE MINISTRY
+- 09/19 00:48 [financialjuice/FirstSquawk] BoJ likely conducted rate checks in currency market - Nikkei
+- 09/19 00:51 [financialjuice] Fed's Schmid: I agree with Chairman Warsh's framework on why bond yields have gone up. Economic growth, demand for capital from al investment, geopolitical challenges.

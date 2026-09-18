@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 00:47 JST／対象: 09/18 00:47 〜 09/19 00:47 JST（時刻はすべて日本時間）
+生成: 2026-09-19 00:58 JST／対象: 09/18 00:58 〜 09/19 00:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/18 02:10 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 349 | 09/18 00:48 | 09/19 00:41 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 277 | 09/18 00:50 | 09/19 00:33 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 348 | 09/18 01:02 | 09/19 00:49 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 273 | 09/18 01:00 | 09/19 00:51 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 628 行（統合前 642 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 622 行（統合前 638 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 00:48 [FirstSquawk] LUFTHANSA EXPANDS BOEING 737 MAX FLEET
-- 09/18 00:50 [financialjuice] Three pumping stations along Saudi Arabia's east-west oil pipeline were damaged in an attack last week - Sources.
-- 09/18 00:50 [FirstSquawk] THREE OIL PUMP STATIONS ON SAUDI ARABIA'S EAST-WEST PIPELINE WERE HIT IN AN ATTACK LAST WEEK
-- 09/18 00:50 [financialjuice] ECB’s Zigman: Growth is at risk if inflation isn’t tackled.
-- 09/18 00:51 [financialjuice] ECB's Zigman: We don’t see any major second-round effects.
-- 09/18 00:51 [financialjuice] ECB's Zigman: There’s a lot of optimism for growth.
-- 09/18 00:51 [financialjuice] ECB's Zigman: Market bets don't determine the ECB’s next steps.
-- 09/18 00:53 [financialjuice] US weighs antitrust guidance on AI safety - DoJ Official.
 - 09/18 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 6.95% in Sept 17 week, highest since Jan 30, 2025 week, vs 6.76% prior week - Freddie Mac
 - 09/18 01:02 [FirstSquawk] GLENCORE'S IRON ORE PROJECT AT HEAD HILL IS PUT ON HOLD DURING A WORLDWIDE REVIEW.
 - 09/18 01:07 [FirstSquawk] US PUSHES FOR 50% STEEL TARIFFS AMONG G20 PARTNERS
@@ -652,3 +644,5 @@
 - 09/19 00:40 [FirstSquawk] FED'S SCHMID SUPPORTED HIKE; SAYS RECENT DATA SUGGEST INFLATION TRENDING ABOVE 3%
 - 09/19 00:40 [FirstSquawk] FED’S SCHMID: LABOUR MARKET APPEARS TO BE IN BALANCE
 - 09/19 00:41 [FirstSquawk] RUSSIAN FORCES HIT DRY CARGO SHIP IN ODESA – IFX CITING RUSSIAN DEFENCE MINISTRY
+- 09/19 00:48 [financialjuice/FirstSquawk] BoJ likely conducted rate checks in currency market - Nikkei
+- 09/19 00:51 [financialjuice] Fed's Schmid: I agree with Chairman Warsh's framework on why bond yields have gone up. Economic growth, demand for capital from al investment, geopolitical challenges.
