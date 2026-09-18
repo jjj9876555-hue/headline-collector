@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 01:33 JST／対象: 09/18 01:33 〜 09/19 01:33 JST（時刻はすべて日本時間）
+生成: 2026-09-19 01:45 JST／対象: 09/18 01:45 〜 09/19 01:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/18 02:10 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 348 | 09/18 01:46 | 09/19 01:29 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 274 | 09/18 01:41 | 09/19 01:32 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 352 | 09/18 01:46 | 09/19 01:44 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 275 | 09/18 01:45 | 09/19 01:44 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 621 行（統合前 640 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 626 行（統合前 645 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 01:41 [financialjuice] French PM Lecornu: We will not raise taxes - Le Figaro
 - 09/18 01:45 [financialjuice] Fed bids for 10 Yr tips total $2.9 bln
 - 09/18 01:46 [FirstSquawk] BAE SYSTEMS ONEARC AWARDED OTHER TRANSACTION AGREEMENT CONTRACT BY US ARMY TO INTEGRATE ECT SOLUTION
 - 09/18 01:51 [FirstSquawk] RUBIO TAKES BEHIND-THE-SCENES ROLE ON IRAN WAR, WHILE KEEPING HIS OPTIONS OPEN FOR THE FUTURE – NBC
@@ -645,3 +644,9 @@
 - 09/19 01:28 [financialjuice/FirstSquawk] Trump to NewsNation: US is talking to the Houthis.
 - 09/19 01:28 [financialjuice/FirstSquawk] ❗ Trump to NewsNation: Houthis would also like to make a deal.
 - 09/19 01:32 [financialjuice] Trump: We’ll see’ on whether to annihilate Iran - NewsNation
+- 09/19 01:35 [FirstSquawk] TRUMP TELLS NEWSNATION ‘WE’LL SEE’ ON WHETHER TO ‘ANNIHILATE’ IRAN
+- 09/19 01:38 [financialjuice] Fed's Schmid: We are in a fairly normalized place.
+- 09/19 01:39 [FirstSquawk] FED'S SCHMID: ECONOMY STRONG, GROWING
+- 09/19 01:42 [FirstSquawk] FED'S SCHMID: US ECONOMY IS STRONG, GROWING; WE’RE IN A FAIRLY NORMALIZED PLACE
+- 09/19 01:44 [financialjuice] Senior Saudi security, military delegation met Mossad and Israeli military intelligence leaders to seek support against Houthi operations under US CENTCOM supervision - Palestinian source via ISNA
+- 09/19 01:44 [FirstSquawk] A RELIABLE AMERICAN OFFICIAL REVEALED THAT 60 MILLION BARRELS OF OIL, BELIEVED TO BE FROM IRAN, ARE TRAPPED ON SHIPS FACING SANCTIONS.

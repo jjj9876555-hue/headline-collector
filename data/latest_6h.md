@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 01:33 JST／対象: 09/18 19:33 〜 09/19 01:33 JST（時刻はすべて日本時間）
+生成: 2026-09-19 01:45 JST／対象: 09/18 19:45 〜 09/19 01:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/18 20:26 | 09/18 20:26 | - |
-| FirstSquawk | 74 | 09/18 19:39 | 09/19 01:29 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 61 | 09/18 19:36 | 09/19 01:32 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 75 | 09/18 19:47 | 09/19 01:44 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 60 | 09/18 19:50 | 09/19 01:44 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 133 行（統合前 139 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 19:36 [financialjuice] Italy's Economy Minister: Debt burden has begun to rise at an alarming rate.
-- 09/18 19:38 [financialjuice] EuroGroup Head: Economic growth momentum in Euro Zone should continue to the end of the year.
-- 09/18 19:39 [FirstSquawk] EUROGROUP LEADER CONSIDERS EMERGENCY MEETING DUE TO RISING ENERGY PRICES.
-- 09/18 19:39 [FirstSquawk] RUSSIA ATTACKED FOUR SHIPS IN THE BLACK SEA NEAR UKRAINIAN PORTS, REPORTS IFX.
-- 09/18 19:39 [FirstSquawk] ITALY'S ECONOMY MINISTER SAYS DEBT LEVELS ARE INCREASING QUICKLY.
-- 09/18 19:40 [financialjuice] France Fin. Min. Lescure: 3% deficit is “a target we should all have in mind".
 - 09/18 19:47 [FirstSquawk] LESCURE SAYS EU'S CLOSER RELATIONSHIP WITH CANADA IS A FANTASTIC IDEA.
 - 09/18 19:47 [FirstSquawk] EU ECONOMIC COMMISSIONER DOMBROVSKI SAYS RISING BOND YIELDS WILL AFFECT ALL OF EUROPE, CALLS FOR STRONG FISCAL POLICIES.
 - 09/18 19:48 [FirstSquawk] LESCURE SAYS ECB IS PERFORMING ITS DUTIES.
@@ -157,3 +151,9 @@
 - 09/19 01:28 [financialjuice/FirstSquawk] Trump to NewsNation: US is talking to the Houthis.
 - 09/19 01:28 [financialjuice/FirstSquawk] ❗ Trump to NewsNation: Houthis would also like to make a deal.
 - 09/19 01:32 [financialjuice] Trump: We’ll see’ on whether to annihilate Iran - NewsNation
+- 09/19 01:35 [FirstSquawk] TRUMP TELLS NEWSNATION ‘WE’LL SEE’ ON WHETHER TO ‘ANNIHILATE’ IRAN
+- 09/19 01:38 [financialjuice] Fed's Schmid: We are in a fairly normalized place.
+- 09/19 01:39 [FirstSquawk] FED'S SCHMID: ECONOMY STRONG, GROWING
+- 09/19 01:42 [FirstSquawk] FED'S SCHMID: US ECONOMY IS STRONG, GROWING; WE’RE IN A FAIRLY NORMALIZED PLACE
+- 09/19 01:44 [financialjuice] Senior Saudi security, military delegation met Mossad and Israeli military intelligence leaders to seek support against Houthi operations under US CENTCOM supervision - Palestinian source via ISNA
+- 09/19 01:44 [FirstSquawk] A RELIABLE AMERICAN OFFICIAL REVEALED THAT 60 MILLION BARRELS OF OIL, BELIEVED TO BE FROM IRAN, ARE TRAPPED ON SHIPS FACING SANCTIONS.

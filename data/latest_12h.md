@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 01:33 JST／対象: 09/18 13:33 〜 09/19 01:33 JST（時刻はすべて日本時間）
+生成: 2026-09-19 01:45 JST／対象: 09/18 13:45 〜 09/19 01:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 162 | 09/18 13:35 | 09/19 01:29 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 119 | 09/18 14:00 | 09/19 01:32 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 164 | 09/18 13:52 | 09/19 01:44 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 121 | 09/18 14:00 | 09/19 01:44 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 281 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 285 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 13:35 [FirstSquawk] Kansai Electric finishes decommissioning work on problematic Mihama nuclear reactor.
-- 09/18 13:44 [FirstSquawk] Yonhap: North Korea’s nuclear test may have triggered more than 1,300 earthquakes, report says.
 - 09/18 13:52 [FirstSquawk] FXStreet: WTI crude consolidates below $96.50 as Middle East tensions continue to support bullish sentiment.
 - 09/18 14:00 [FirstSquawk] A cargo vessel in Ukraine’s Chornomorsk was hit by Russia, according to Russian news agencies citing the Defence Ministry.
 - 09/18 14:00 [financialjuice] Russia strikes cargo ship in Ukraine's Chornomorsk: Russian news agencies cite defense ministry
@@ -305,3 +303,9 @@
 - 09/19 01:28 [financialjuice/FirstSquawk] Trump to NewsNation: US is talking to the Houthis.
 - 09/19 01:28 [financialjuice/FirstSquawk] ❗ Trump to NewsNation: Houthis would also like to make a deal.
 - 09/19 01:32 [financialjuice] Trump: We’ll see’ on whether to annihilate Iran - NewsNation
+- 09/19 01:35 [FirstSquawk] TRUMP TELLS NEWSNATION ‘WE’LL SEE’ ON WHETHER TO ‘ANNIHILATE’ IRAN
+- 09/19 01:38 [financialjuice] Fed's Schmid: We are in a fairly normalized place.
+- 09/19 01:39 [FirstSquawk] FED'S SCHMID: ECONOMY STRONG, GROWING
+- 09/19 01:42 [FirstSquawk] FED'S SCHMID: US ECONOMY IS STRONG, GROWING; WE’RE IN A FAIRLY NORMALIZED PLACE
+- 09/19 01:44 [financialjuice] Senior Saudi security, military delegation met Mossad and Israeli military intelligence leaders to seek support against Houthi operations under US CENTCOM supervision - Palestinian source via ISNA
+- 09/19 01:44 [FirstSquawk] A RELIABLE AMERICAN OFFICIAL REVEALED THAT 60 MILLION BARRELS OF OIL, BELIEVED TO BE FROM IRAN, ARE TRAPPED ON SHIPS FACING SANCTIONS.
