@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 03:58 JST／対象: 09/18 15:58 〜 09/19 03:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 04:16 JST／対象: 09/18 16:16 〜 09/19 04:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 155 | 09/18 16:03 | 09/19 03:58 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 102 | 09/18 16:03 | 09/19 03:42 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 151 | 09/18 16:16 | 09/19 04:06 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 99 | 09/18 16:22 | 09/19 04:11 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 256 行（統合前 264 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 249 行（統合前 257 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 16:03 [financialjuice] Japan's Fin. Min. Katayama: Bessent regards highly of "Takaichinomics".
-- 09/18 16:03 [FirstSquawk] BOJ GOVERNOR UEDA SAYS THE BANK WILL KEEP CONDUCTING MONETARY POLICY ACCORDING TO THE LAW.
-- 09/18 16:04 [FirstSquawk] BOJ GOVERNOR UEDA STATES THEY WILL MAINTAIN SUITABLE MONETARY POLICY AS PER BOJ LAWS.
-- 09/18 16:04 [FirstSquawk] BRITAIN'S FTSE 100 DROPS 0.2%; FRANCE'S CAC 40 FALLS 0.39%; SPAIN'S IBEX DECLINES 0.14%.
-- 09/18 16:04 [FirstSquawk] JAPAN'S FINANCE MINISTER KATAYAMA PRAISES "TAKAICHINOMICS".
-- 09/18 16:07 [financialjuice] BoJ Gov Ueda when asked about possibly about raising rates consecutively or rate hike over 25 bps: Not ruling out any particular policy measures.
-- 09/18 16:08 [financialjuice] BoJ Gov Ueda: Overseas rate hikes could impact Japan through various channels including Forex.
-- 09/18 16:10 [FirstSquawk] VOLKSWAGEN GROUP OF AMERICA IS RECALLING 208,724 VEHICLES IN THE U.S. ACCORDING TO NHTSA.
-- 09/18 16:10 [FirstSquawk] VOLKSWAGEN IS RECALLING CERTAIN U.S. CARS DUE TO A FLAWED STEERING RACK HOUSING THAT MAY CAUSE A LOSS OF STEERING CONTROL, RAISING CRASH RISKS. - NHTSA
-- 09/18 16:10 [FirstSquawk] BOJ GOVERNOR UEDA SAYS NO POLICY OPTIONS ARE OFF THE TABLE, CONSIDERING DIFFERENT SCENARIOS BASED ON INFLATION WHEN QUESTIONED ABOUT A 50 BASIS POINT OR CONTINUOUS RATE INCREASE.
-- 09/18 16:15 [financialjuice] Citigroup expects Bank of Japan to hike interest rates by 25 bp in December 2026, March and july 2027 vs prior forecast of January, June and December 2027
 - 09/18 16:16 [FirstSquawk] BOJ GOVERNOR UEDA STATED THAT IT'S UNCERTAIN IF THE PIPELINE DISRUPTION IN SAUDI ARABIA WILL LAST LONGER AND MENTIONED THE NEED TO MONITOR THE SITUATION, NOT DISCOUNTING ANY SPECIFIC POLICY ACTIONS.
 - 09/18 16:17 [FirstSquawk] BOJ GOVERNOR UEDA DID NOT EXCLUDE ANY POLICY OPTIONS REGARDING POSSIBLE RATE INCREASES OR A 25 BPS HIKE. HE PLANS TO CONSULT WITH OTHER CENTRAL BANKS ABOUT THEIR RATE HIKE INTENTIONS. UEDA STATED THAT WHILE ANALYSIS IS ESSENTIAL, IT DOES NO…
 - 09/18 16:17 [FirstSquawk] CITIGROUP PREDICTS BANK OF JAPAN WILL INCREASE INTEREST RATES BY 25 BASIS POINTS IN DECEMBER 2026, MARCH AND JULY 2027, SHIFTING FROM AN EARLIER ESTIMATE OF INCREASES IN JANUARY, JUNE, AND DECEMBER 2027.
@@ -280,3 +269,7 @@
 - 09/19 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $100.30/BBL, DOWN $1.61, 1.58%
 - 09/19 03:42 [financialjuice/FirstSquawk] Brent Crude futures settle at $103.87/bbl, down 95 cents, 0.91%.
 - 09/19 03:58 [FirstSquawk] FHFA’S PULTE ON MBS: ”WE ARE BEGINNING TO BUY EVEN MORE, LARGE QUANTITIES, AS WE SPEAK.”
+- 09/19 04:05 [FirstSquawk] TRUMP BANS CNN, MSNBC, POLITICO FROM WHITE HOUSE
+- 09/19 04:05 [FirstSquawk] TRUMP SAYS MORE MEDIA OUTLETS TO FACE WHITE HOUSE BAN
+- 09/19 04:06 [FirstSquawk] Trump on truth social I am proud to announce that, effective immediately, I am banning Fake News CNN, MSNOW (who recently changed their name from MSNBC due to lack of viewership and credibility!), and Politico (The recipients of an illegal …
+- 09/19 04:11 [financialjuice] Week Ahead: Economic Indicators 21st – 25th September (US)

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 03:58 JST／対象: 09/18 21:58 〜 09/19 03:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 04:16 JST／対象: 09/18 22:16 〜 09/19 04:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 78 | 09/18 22:04 | 09/19 03:58 | 31分（22:36→23:07） |
-| financialjuice | 57 | 09/18 22:00 | 09/19 03:42 | 38分（02:01→02:40） |
+| FirstSquawk | 79 | 09/18 22:16 | 09/19 04:06 | 31分（22:36→23:07） |
+| financialjuice | 54 | 09/18 22:16 | 09/19 04:11 | 38分（02:01→02:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 131 行（統合前 138 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 129 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 22:00 [financialjuice] Effective Fed funds rate 3.88% September 17th vs 3.63% September 16th.
-- 09/18 22:04 [FirstSquawk] US EXPORTERS SHIP 111,000 TONS OF SOYBEANS TO CHINA.
-- 09/18 22:05 [FirstSquawk] 6.5 MAGNITUDE EARTHQUAKE OCCURS 169 KM WEST OF NIKOLSKI, ALASKA, ACCORDING TO USGS.
-- 09/18 22:15 [financialjuice] US CAPACITY UTILIZATION ACTUAL 76.3% (FORECAST 76.4%, PREVIOUS 76.3%) $MACRO
-- 09/18 22:15 [financialjuice] ❗ US INDUSTRIAL PRODUCTION MOM ACTUAL 0% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
-- 09/18 22:15 [financialjuice] US MANUFACTURING OUTPUT MOM ACTUAL -0.3% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
 - 09/18 22:16 [financialjuice] US Industrial Production and Capacity Utilization August Report
 - 09/18 22:16 [FirstSquawk] U.S. INDUSTRIAL PRODUCTION FOR AUGUST REMAINED STABLE MONTH-OVER-MONTH; ESTIMATES WERE FOR A +0.3% INCREASE.
 - 09/18 22:17 [FirstSquawk] US FACTORY OUTPUT DROPPED BY 0.3% IN AUGUST, WHILE EXPECTATIONS WERE FOR A 0.3% INCREASE.
@@ -155,3 +149,7 @@
 - 09/19 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $100.30/BBL, DOWN $1.61, 1.58%
 - 09/19 03:42 [financialjuice/FirstSquawk] Brent Crude futures settle at $103.87/bbl, down 95 cents, 0.91%.
 - 09/19 03:58 [FirstSquawk] FHFA’S PULTE ON MBS: ”WE ARE BEGINNING TO BUY EVEN MORE, LARGE QUANTITIES, AS WE SPEAK.”
+- 09/19 04:05 [FirstSquawk] TRUMP BANS CNN, MSNBC, POLITICO FROM WHITE HOUSE
+- 09/19 04:05 [FirstSquawk] TRUMP SAYS MORE MEDIA OUTLETS TO FACE WHITE HOUSE BAN
+- 09/19 04:06 [FirstSquawk] Trump on truth social I am proud to announce that, effective immediately, I am banning Fake News CNN, MSNOW (who recently changed their name from MSNBC due to lack of viewership and credibility!), and Politico (The recipients of an illegal …
+- 09/19 04:11 [financialjuice] Week Ahead: Economic Indicators 21st – 25th September (US)

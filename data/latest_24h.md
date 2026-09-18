@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 03:58 JST／対象: 09/18 03:58 〜 09/19 03:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 04:16 JST／対象: 09/18 04:16 〜 09/19 04:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/18 06:19 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 347 | 09/18 04:40 | 09/19 03:58 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 259 | 09/18 04:24 | 09/19 03:42 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 350 | 09/18 04:40 | 09/19 04:06 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 260 | 09/18 04:24 | 09/19 04:11 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 601 行（統合前 615 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 605 行（統合前 619 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -625,3 +625,7 @@
 - 09/19 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $100.30/BBL, DOWN $1.61, 1.58%
 - 09/19 03:42 [financialjuice/FirstSquawk] Brent Crude futures settle at $103.87/bbl, down 95 cents, 0.91%.
 - 09/19 03:58 [FirstSquawk] FHFA’S PULTE ON MBS: ”WE ARE BEGINNING TO BUY EVEN MORE, LARGE QUANTITIES, AS WE SPEAK.”
+- 09/19 04:05 [FirstSquawk] TRUMP BANS CNN, MSNBC, POLITICO FROM WHITE HOUSE
+- 09/19 04:05 [FirstSquawk] TRUMP SAYS MORE MEDIA OUTLETS TO FACE WHITE HOUSE BAN
+- 09/19 04:06 [FirstSquawk] Trump on truth social I am proud to announce that, effective immediately, I am banning Fake News CNN, MSNOW (who recently changed their name from MSNBC due to lack of viewership and credibility!), and Politico (The recipients of an illegal …
+- 09/19 04:11 [financialjuice] Week Ahead: Economic Indicators 21st – 25th September (US)
