@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 22:16 JST／対象: 09/18 10:16 〜 09/18 22:16 JST（時刻はすべて日本時間）
+生成: 2026-09-18 22:32 JST／対象: 09/18 10:32 〜 09/18 22:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 194 | 09/18 10:18 | 09/18 22:05 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 154 | 09/18 10:17 | 09/18 22:15 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 195 | 09/18 10:36 | 09/18 22:31 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 158 | 09/18 10:48 | 09/18 22:32 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 351 行（統合前 352 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 356 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 10:17 [financialjuice] PBOC sets yuan midpoint at strongest level since Feb. 3, 2023
-- 09/18 10:18 [FirstSquawk] Yuan midpoint fixed at strongest level since Feb. 3, 2023
-- 09/18 10:22 [financialjuice] China pumps 463.3 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/18 10:23 [financialjuice] China cbank pumps 100 bln yuan via 14 day reverse repos: statement
-- 09/18 10:25 [FirstSquawk] Japanese yen weakens toward a two-week low against USD after CPI data, ahead of BoJ
-- 09/18 10:26 [FirstSquawk] China’s CSI SH-SZ-HK Gold Equity Index poised to rise 2% at the open
-- 09/18 10:28 [FirstSquawk] RBA Governor Bullock: Forward-looking indicators suggest the labour market is stable
-- 09/18 10:28 [financialjuice] RBA Governor Bullock: forward-looking labor market gauges remain steady
 - 09/18 10:36 [FirstSquawk] Alibaba’s Hong Kong-listed shares climb 3%
 - 09/18 10:39 [FirstSquawk] China’s most-active coking coal contract drops 6.02% to 1,515.5 yuan/metric ton
 - 09/18 10:44 [FirstSquawk] Thailand should boost investment in front-end chip manufacturing, industry body says
@@ -375,3 +367,16 @@
 - 09/18 22:15 [financialjuice] US CAPACITY UTILIZATION ACTUAL 76.3% (FORECAST 76.4%, PREVIOUS 76.3%) $MACRO
 - 09/18 22:15 [financialjuice] ❗ US INDUSTRIAL PRODUCTION MOM ACTUAL 0% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
 - 09/18 22:15 [financialjuice] US MANUFACTURING OUTPUT MOM ACTUAL -0.3% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
+- 09/18 22:16 [financialjuice] US Industrial Production and Capacity Utilization August Report
+- 09/18 22:16 [FirstSquawk] U.S. INDUSTRIAL PRODUCTION FOR AUGUST REMAINED STABLE MONTH-OVER-MONTH; ESTIMATES WERE FOR A +0.3% INCREASE.
+- 09/18 22:17 [FirstSquawk] US FACTORY OUTPUT DROPPED BY 0.3% IN AUGUST, WHILE EXPECTATIONS WERE FOR A 0.3% INCREASE.
+- 09/18 22:20 [FirstSquawk] TRUMP WILL REVEAL A MODEL FOR MEDICAID DRUG PRICING COVERING ALL 50 STATES, D.C., AND PUERTO RICO, ACCORDING TO A WHITE HOUSE OFFICIAL.
+- 09/18 22:23 [FirstSquawk] US LAW FIRM WEIL EXAMINES MERGER POSSIBILITIES FOLLOWING THE EXIT OF KEY PARTNERS.
+- 09/18 22:25 [financialjuice] US INDUSTRIAL PRODUCTION YOY ACTUAL 1.42% (FORECAST -, PREVIOUS 1.08%) $MACRO
+- 09/18 22:27 [financialjuice] PBoC Vice Governor: AI brings new risks to finance.
+- 09/18 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 935.5 MLN NASDAQ 100: 1127.1 MLN DOW 30: 311.3 MLN MAG 7: 655.3 MLN $MACRO
+- 09/18 22:31 [financialjuice] Fed Vice Chair for Supervision Bowman does not comment on economic or monetary policy outlook in prepared remarks to event in London.
+- 09/18 22:31 [FirstSquawk] S&P 500 UP 9.60 POINTS, OR 0.13 PERCENT, AT 7,647.36 AFTER MARKET OPEN NASDAQ UP 110.73 POINTS, OR 0.42 PERCENT, AT 26,529.03 AFTER MARKET OPEN DOW JONES DOWN 85.24 POINTS, OR 0.16 PERCENT, AT 51,692.80 AFTER MARKET OPEN
+- 09/18 22:31 [financialjuice] Fed's Bowman: Supervisory delays were not due to deregulatory efforts pursued earlier by the Fed.
+- 09/18 22:32 [financialjuice] Fed's Bowman: Changes will make tests more reliable and reduce volatility in bank capital requirements.
+- 09/18 22:32 [financialjuice] Fed's Bowman: The Fed will finalize reforms to make bank stress tests more transparent and accountable in the coming weeks.

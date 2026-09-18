@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 22:16 JST／対象: 09/18 16:16 〜 09/18 22:16 JST（時刻はすべて日本時間）
+生成: 2026-09-18 22:32 JST／対象: 09/18 16:32 〜 09/18 22:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 72 | 09/18 16:16 | 09/18 22:05 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 45 | 09/18 16:22 | 09/18 22:15 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 67 | 09/18 16:34 | 09/18 22:31 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 48 | 09/18 16:33 | 09/18 22:32 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 118 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 16:16 [FirstSquawk] BOJ GOVERNOR UEDA STATED THAT IT'S UNCERTAIN IF THE PIPELINE DISRUPTION IN SAUDI ARABIA WILL LAST LONGER AND MENTIONED THE NEED TO MONITOR THE SITUATION, NOT DISCOUNTING ANY SPECIFIC POLICY ACTIONS.
-- 09/18 16:17 [FirstSquawk] BOJ GOVERNOR UEDA DID NOT EXCLUDE ANY POLICY OPTIONS REGARDING POSSIBLE RATE INCREASES OR A 25 BPS HIKE. HE PLANS TO CONSULT WITH OTHER CENTRAL BANKS ABOUT THEIR RATE HIKE INTENTIONS. UEDA STATED THAT WHILE ANALYSIS IS ESSENTIAL, IT DOES NO…
-- 09/18 16:17 [FirstSquawk] CITIGROUP PREDICTS BANK OF JAPAN WILL INCREASE INTEREST RATES BY 25 BASIS POINTS IN DECEMBER 2026, MARCH AND JULY 2027, SHIFTING FROM AN EARLIER ESTIMATE OF INCREASES IN JANUARY, JUNE, AND DECEMBER 2027.
-- 09/18 16:19 [FirstSquawk] BOJ GOVERNOR UEDA SAYS A LARGE OR REPEATED RATE INCREASE COULD RISK OVERSHOOTING.
-- 09/18 16:19 [FirstSquawk] BOJ GOVERNOR UEDA SAYS THAT AFTER A RATE INCREASE TO 1.5%, THE CONTINUATION OF ACCOMMODATIVE CONDITIONS WILL DEPEND ON ECONOMIC AND FINANCIAL FACTORS AT THAT TIME.
-- 09/18 16:19 [FirstSquawk] BOJ GOVERNOR UEDA AIMS TO TAKE APPROPRIATE ACTIONS TO PREVENT SEVERE MEASURES.
-- 09/18 16:22 [financialjuice] UKMTO gets report of incident in the Strait of Hormuz. Tanker is reported to be hit by unknown projectile.
-- 09/18 16:22 [financialjuice] France Fin. Min. Lescure: Significant effort needed on budget.
-- 09/18 16:23 [financialjuice] France Fin. Min. Lescure: Hopefully we'll have a budget.
-- 09/18 16:23 [FirstSquawk] TANKER REPORTEDLY STRUCK BY UNKNOWN PROJECTILE, ACCORDING TO UKMTO.
-- 09/18 16:23 [FirstSquawk] UKMTO REPORTS INCIDENT IN THE STRAIT OF HORMUZ.
-- 09/18 16:23 [FirstSquawk] FRANCE'S LESCURE EXPRESSES OPTIMISM ABOUT ACHIEVING A BUDGET.
-- 09/18 16:23 [FirstSquawk] BOJ GOVERNOR UEDA STATED THAT DECISIONS ON RAISING INTEREST RATES WILL DEPEND ON ECONOMIC PROJECTIONS AND RISK ASSESSMENTS.
-- 09/18 16:30 [financialjuice] German Fin. Min. Klingbeil: We need instruments like fuel price cap, windfall tax.
-- 09/18 16:31 [financialjuice] German Fin. Min. Klingbeil: Europe and Canada are key partners strategically.
 - 09/18 16:33 [financialjuice] German Fin. Min. Klingbeil: Oil majors take advantage of this situation. We need to intervene in the energy market.
 - 09/18 16:34 [FirstSquawk] UEDA SAYS YIELD LEVELS MUST BE EVALUATED IN RELATION TO INFLATION AND THE ECONOMY.
 - 09/18 16:35 [FirstSquawk] BOJ GOVERNOR UEDA SAYS 'CHANGE IN POLICY PHASE' FOCUSES ON STABILIZING INFLATION AT ABOUT 2%.
@@ -144,3 +129,16 @@
 - 09/18 22:15 [financialjuice] US CAPACITY UTILIZATION ACTUAL 76.3% (FORECAST 76.4%, PREVIOUS 76.3%) $MACRO
 - 09/18 22:15 [financialjuice] ❗ US INDUSTRIAL PRODUCTION MOM ACTUAL 0% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
 - 09/18 22:15 [financialjuice] US MANUFACTURING OUTPUT MOM ACTUAL -0.3% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
+- 09/18 22:16 [financialjuice] US Industrial Production and Capacity Utilization August Report
+- 09/18 22:16 [FirstSquawk] U.S. INDUSTRIAL PRODUCTION FOR AUGUST REMAINED STABLE MONTH-OVER-MONTH; ESTIMATES WERE FOR A +0.3% INCREASE.
+- 09/18 22:17 [FirstSquawk] US FACTORY OUTPUT DROPPED BY 0.3% IN AUGUST, WHILE EXPECTATIONS WERE FOR A 0.3% INCREASE.
+- 09/18 22:20 [FirstSquawk] TRUMP WILL REVEAL A MODEL FOR MEDICAID DRUG PRICING COVERING ALL 50 STATES, D.C., AND PUERTO RICO, ACCORDING TO A WHITE HOUSE OFFICIAL.
+- 09/18 22:23 [FirstSquawk] US LAW FIRM WEIL EXAMINES MERGER POSSIBILITIES FOLLOWING THE EXIT OF KEY PARTNERS.
+- 09/18 22:25 [financialjuice] US INDUSTRIAL PRODUCTION YOY ACTUAL 1.42% (FORECAST -, PREVIOUS 1.08%) $MACRO
+- 09/18 22:27 [financialjuice] PBoC Vice Governor: AI brings new risks to finance.
+- 09/18 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 935.5 MLN NASDAQ 100: 1127.1 MLN DOW 30: 311.3 MLN MAG 7: 655.3 MLN $MACRO
+- 09/18 22:31 [financialjuice] Fed Vice Chair for Supervision Bowman does not comment on economic or monetary policy outlook in prepared remarks to event in London.
+- 09/18 22:31 [FirstSquawk] S&P 500 UP 9.60 POINTS, OR 0.13 PERCENT, AT 7,647.36 AFTER MARKET OPEN NASDAQ UP 110.73 POINTS, OR 0.42 PERCENT, AT 26,529.03 AFTER MARKET OPEN DOW JONES DOWN 85.24 POINTS, OR 0.16 PERCENT, AT 51,692.80 AFTER MARKET OPEN
+- 09/18 22:31 [financialjuice] Fed's Bowman: Supervisory delays were not due to deregulatory efforts pursued earlier by the Fed.
+- 09/18 22:32 [financialjuice] Fed's Bowman: Changes will make tests more reliable and reduce volatility in bank capital requirements.
+- 09/18 22:32 [financialjuice] Fed's Bowman: The Fed will finalize reforms to make bank stress tests more transparent and accountable in the coming weeks.

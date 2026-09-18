@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 22:16 JST／対象: 09/17 22:16 〜 09/18 22:16 JST（時刻はすべて日本時間）
+生成: 2026-09-18 22:32 JST／対象: 09/17 22:32 〜 09/18 22:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/17 22:31 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 336 | 09/17 22:24 | 09/18 22:05 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 272 | 09/17 22:31 | 09/18 22:15 | ⚠ 60分（06:44→07:45） |
+| DeItaone | 12 | 09/17 23:42 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
+| FirstSquawk | 339 | 09/17 22:35 | 09/18 22:31 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 279 | 09/17 22:37 | 09/18 22:32 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 612 行（統合前 627 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 621 行（統合前 636 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 22:24 [FirstSquawk] MICROSOFT, MARVELL, AND UTIMACO ARE COLLABORATING TO INTRODUCE A FIRST-OF-ITS-KIND SECURE PAYMENTS SOLUTION THAT CAN SCALE WITH CLOUD TECHNOLOGY.
-- 09/17 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -26.3 MLN NASDAQ 100: 1.8 MLN DOW 30: -10.4 MLN MAG 7: 9.3 MLN $MACRO
-- 09/17 22:31 [FirstSquawk] NASDAQ UP 397.63 POINTS, OR 1.53 PERCENT, AT 26,376.05 AFTER MARKET OPEN S&P 500 UP 88.67 POINTS, OR 1.17 %, AT 7,640.48 AFTER MARKET OPEN DOW JONES UP 413.71 POINTS, OR 0.80 PERCENT, AT 51,875.61 AFTER MARKET OPEN
-- 09/17 22:31 [DeItaone] SOME CRYPTO STOCKS RISE AFTER US SECURITIES REGULATOR ROLLS OUT FIVE-YEAR EXEMPTION FOR TOKENIZED STOCK TRADING
 - 09/17 22:35 [FirstSquawk] US TO INVEST HUNDREDS OF MILLIONS OF DOLLARS IN NIGER'S URANIUM MINING SECTOR, YEARS AFTER TROOPS WERE EXPELLED, COMPANY STATEMENT AND SOURCES SAY
 - 09/17 22:35 [FirstSquawk] US OFFICIALS LOBBIED TO PREVENT URANIUM, A CRITICAL MINERAL, FROM FALLING INTO RIVAL HANDS, SOURCES SAY
 - 09/17 22:37 [financialjuice] Nebius to raise GPU rates for Nvidia H100, H200, B200 and B300. $NVDA
@@ -636,3 +632,16 @@
 - 09/18 22:15 [financialjuice] US CAPACITY UTILIZATION ACTUAL 76.3% (FORECAST 76.4%, PREVIOUS 76.3%) $MACRO
 - 09/18 22:15 [financialjuice] ❗ US INDUSTRIAL PRODUCTION MOM ACTUAL 0% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
 - 09/18 22:15 [financialjuice] US MANUFACTURING OUTPUT MOM ACTUAL -0.3% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
+- 09/18 22:16 [financialjuice] US Industrial Production and Capacity Utilization August Report
+- 09/18 22:16 [FirstSquawk] U.S. INDUSTRIAL PRODUCTION FOR AUGUST REMAINED STABLE MONTH-OVER-MONTH; ESTIMATES WERE FOR A +0.3% INCREASE.
+- 09/18 22:17 [FirstSquawk] US FACTORY OUTPUT DROPPED BY 0.3% IN AUGUST, WHILE EXPECTATIONS WERE FOR A 0.3% INCREASE.
+- 09/18 22:20 [FirstSquawk] TRUMP WILL REVEAL A MODEL FOR MEDICAID DRUG PRICING COVERING ALL 50 STATES, D.C., AND PUERTO RICO, ACCORDING TO A WHITE HOUSE OFFICIAL.
+- 09/18 22:23 [FirstSquawk] US LAW FIRM WEIL EXAMINES MERGER POSSIBILITIES FOLLOWING THE EXIT OF KEY PARTNERS.
+- 09/18 22:25 [financialjuice] US INDUSTRIAL PRODUCTION YOY ACTUAL 1.42% (FORECAST -, PREVIOUS 1.08%) $MACRO
+- 09/18 22:27 [financialjuice] PBoC Vice Governor: AI brings new risks to finance.
+- 09/18 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 935.5 MLN NASDAQ 100: 1127.1 MLN DOW 30: 311.3 MLN MAG 7: 655.3 MLN $MACRO
+- 09/18 22:31 [financialjuice] Fed Vice Chair for Supervision Bowman does not comment on economic or monetary policy outlook in prepared remarks to event in London.
+- 09/18 22:31 [FirstSquawk] S&P 500 UP 9.60 POINTS, OR 0.13 PERCENT, AT 7,647.36 AFTER MARKET OPEN NASDAQ UP 110.73 POINTS, OR 0.42 PERCENT, AT 26,529.03 AFTER MARKET OPEN DOW JONES DOWN 85.24 POINTS, OR 0.16 PERCENT, AT 51,692.80 AFTER MARKET OPEN
+- 09/18 22:31 [financialjuice] Fed's Bowman: Supervisory delays were not due to deregulatory efforts pursued earlier by the Fed.
+- 09/18 22:32 [financialjuice] Fed's Bowman: Changes will make tests more reliable and reduce volatility in bank capital requirements.
+- 09/18 22:32 [financialjuice] Fed's Bowman: The Fed will finalize reforms to make bank stress tests more transparent and accountable in the coming weeks.
