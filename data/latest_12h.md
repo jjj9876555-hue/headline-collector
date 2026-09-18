@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 00:16 JST／対象: 09/18 12:16 〜 09/19 00:16 JST（時刻はすべて日本時間）
+生成: 2026-09-19 00:34 JST／対象: 09/18 12:34 〜 09/19 00:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 163 | 09/18 12:22 | 09/19 00:12 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 114 | 09/18 13:02 | 09/19 00:06 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 163 | 09/18 12:40 | 09/19 00:27 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 121 | 09/18 13:02 | 09/19 00:33 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 280 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 287 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 12:22 [FirstSquawk] North Korea’s vice defense minister defends the country’s nuclear arsenal at a Chinese defense forum -YONHAP The remarks underscore Pyongyang’s continued justification of its nuclear weapons program in regional security discussions.
-- 09/18 12:24 [FirstSquawk] Indonesia FinMin: Indonesia’s bond market continues to show strength despite an uncertain global environment.
-- 09/18 12:25 [FirstSquawk] Indonesia FinMin: Indonesia has kept the 10-year bond spread over U.S. Treasuries at around 120bp so far this year.
-- 09/18 12:29 [FirstSquawk] Nikkei 225 futures strengthen further, trading 1.67% higher.
 - 09/18 12:40 [FirstSquawk] Indonesia Deputy FinMin: The government plans to retain its 200 trillion rupiah cash placement at state lenders until July 2027.
 - 09/18 12:49 [FirstSquawk] Japan’s 10-year JGB yield narrows its decline to 1.5bp, last standing at 2.975%.
 - 09/18 12:53 [FirstSquawk] Indonesia Finance Ministry official: Authorities will closely manage the supply impact of bond issuance to preserve current yield levels.
@@ -304,3 +300,14 @@
 - 09/19 00:03 [FirstSquawk] AMAZON REPORTEDLY IN EU CROSSHAIRS OVER SUSPECTED PRICE CURBS ON SELLERS
 - 09/19 00:06 [financialjuice] California Gov. Newsom issues an executive order on the creation of an AI 'kill switch".
 - 09/19 00:12 [FirstSquawk] NORTHROP GRUMMAN TO DELIVER NEW SPACE DOMAIN AWARENESS PROTOTYPE SATELLITE
+- 09/19 00:19 [FirstSquawk] FRANCE'S CNP ASSURANCES IS CONSIDERING A TAKEOVER OFFER FOR COFACE.
+- 09/19 00:19 [FirstSquawk] VW EXPECTS FY OPERATING RETURN ON SALES TO INCREASE TO 1%, UP FROM 4% TO 5.5%, ESTIMATED AT 4.29%.
+- 09/19 00:24 [financialjuice] Auto industry urges Trump administration to keep Chinese vehicles out of US ahead of Xi visit - letter
+- 09/19 00:26 [FirstSquawk] VOLKSWAGEN STOCK DROPS 7.5% FOLLOWING A CUT IN COMPANY GUIDANCE.
+- 09/19 00:27 [FirstSquawk] GROUP TIED TO RFK JR. GAVE ACCESS TO U.S. OFFICIALS AT AN EVENT.
+- 09/19 00:32 [financialjuice] Fed's Schmid: I supported rate hike, recent data suggest inflation trending above 3%.
+- 09/19 00:32 [financialjuice] Fed's Schmid: Rate hike was a step towards returning to the 2% target.
+- 09/19 00:33 [financialjuice] ❗ Fed's Schmid: Current inflation problem not just about energy. Price growth has been 'hot' across a broad set of goods and services.
+- 09/19 00:33 [financialjuice] Fed's Schmid: High inflation a sign supply and demand are out of balance.
+- 09/19 00:33 [financialjuice] Fed's Schmid: Outside of inflation, the economy is performing well.
+- 09/19 00:33 [financialjuice] Fed's Schmid: Labor market appears in balance and economic growth solid.

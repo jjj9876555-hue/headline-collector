@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 00:16 JST／対象: 09/18 00:16 〜 09/19 00:16 JST（時刻はすべて日本時間）
+生成: 2026-09-19 00:34 JST／対象: 09/18 00:34 〜 09/19 00:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 00:42 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 348 | 09/18 00:18 | 09/19 00:12 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 274 | 09/18 00:19 | 09/19 00:06 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 347 | 09/18 00:43 | 09/19 00:27 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 277 | 09/18 00:50 | 09/19 00:33 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 624 行（統合前 639 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 627 行（統合前 641 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 00:18 [FirstSquawk/financialjuice] JP MORGAN EXPECTS BOE TO HIKE INTEREST RATES BY 25 BP IN FEBRUARY 2027 VS PRIOR FORECAST OF TWO RATE CUTS IN 2027
-- 09/18 00:31 [FirstSquawk] LOCKHEED MARTIN CFO: Q3 MAY HAVE LOWER PROGRAM RISK RETIREMENTS THAN Q2, "MAY SEE SOME LUMPINESS AS WE GET TO OUR GUIDED MARGINS"
-- 09/18 00:31 [FirstSquawk] TURKEY DETAINS DESTEK CHAIRMAN, TERA CHAIRMAN GETS TRAVEL BAN
-- 09/18 00:32 [FirstSquawk] FRANCE'S CAC 40 UP 0.58%; SPAIN'S IBEX UP 1.13%
-- 09/18 00:32 [FirstSquawk] BRITAIN'S FTSE 100 UP 1.2%; GERMANY'S DAX UP 0.77%
-- 09/18 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.820% (FORECAST -, PREVIOUS 3.775%) $MACRO
-- 09/18 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 3.020 (FORECAST -, PREVIOUS 2.810) $MACRO
-- 09/18 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.820% Bid-to-cover 3.02 US sells $90 bln Awards 69.59% of bids at high
 - 09/18 00:42 [DeItaone] WALL STREET RETHINKS “ONE-AND-DONE” FED HIKE The Fed’s hawkish September meeting is pushing several banks to add another hike or reduce expected rate cuts, including Goldman Sachs, Morgan Stanley, NatWest, Rabobank, Swedbank and Commerzbank…
 - 09/18 00:43 [FirstSquawk] SPACEX PLANS TO ACQUIRE DATA FOR AI MODELS FROM FAILED STARTUPS.
 - 09/18 00:48 [FirstSquawk] LUFTHANSA EXPANDS BOEING 737 MAX FLEET
@@ -648,3 +640,14 @@
 - 09/19 00:03 [FirstSquawk] AMAZON REPORTEDLY IN EU CROSSHAIRS OVER SUSPECTED PRICE CURBS ON SELLERS
 - 09/19 00:06 [financialjuice] California Gov. Newsom issues an executive order on the creation of an AI 'kill switch".
 - 09/19 00:12 [FirstSquawk] NORTHROP GRUMMAN TO DELIVER NEW SPACE DOMAIN AWARENESS PROTOTYPE SATELLITE
+- 09/19 00:19 [FirstSquawk] FRANCE'S CNP ASSURANCES IS CONSIDERING A TAKEOVER OFFER FOR COFACE.
+- 09/19 00:19 [FirstSquawk] VW EXPECTS FY OPERATING RETURN ON SALES TO INCREASE TO 1%, UP FROM 4% TO 5.5%, ESTIMATED AT 4.29%.
+- 09/19 00:24 [financialjuice] Auto industry urges Trump administration to keep Chinese vehicles out of US ahead of Xi visit - letter
+- 09/19 00:26 [FirstSquawk] VOLKSWAGEN STOCK DROPS 7.5% FOLLOWING A CUT IN COMPANY GUIDANCE.
+- 09/19 00:27 [FirstSquawk] GROUP TIED TO RFK JR. GAVE ACCESS TO U.S. OFFICIALS AT AN EVENT.
+- 09/19 00:32 [financialjuice] Fed's Schmid: I supported rate hike, recent data suggest inflation trending above 3%.
+- 09/19 00:32 [financialjuice] Fed's Schmid: Rate hike was a step towards returning to the 2% target.
+- 09/19 00:33 [financialjuice] ❗ Fed's Schmid: Current inflation problem not just about energy. Price growth has been 'hot' across a broad set of goods and services.
+- 09/19 00:33 [financialjuice] Fed's Schmid: High inflation a sign supply and demand are out of balance.
+- 09/19 00:33 [financialjuice] Fed's Schmid: Outside of inflation, the economy is performing well.
+- 09/19 00:33 [financialjuice] Fed's Schmid: Labor market appears in balance and economic growth solid.
