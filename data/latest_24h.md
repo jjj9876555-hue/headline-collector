@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 09:31 JST／対象: 09/17 09:31 〜 09/18 09:31 JST（時刻はすべて日本時間）
+生成: 2026-09-18 09:49 JST／対象: 09/17 09:49 〜 09/18 09:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 331 | 09/17 09:31 | 09/18 09:31 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 266 | 09/17 09:40 | 09/18 09:26 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 322 | 09/17 09:51 | 09/18 09:45 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 266 | 09/17 09:58 | 09/18 09:45 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 598 行（統合前 615 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 589 行（統合前 606 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 09:31 [FirstSquawk] According to the New York Times, the Trump administration is taking steps that could remove a core protection provided by the Endangered Species Act.
-- 09/17 09:32 [FirstSquawk] 20-year JGB yield drops 2bp to 3.835%, marking a modest decline in Japan’s long-term bond market.
-- 09/17 09:35 [FirstSquawk] Treasury yields move modestly lower: US 10-year yield falls to 4.99%, while the 30-year yield declines to 5.33%.
-- 09/17 09:38 [FirstSquawk] Trump says the US could face an unprecedented economic downturn if Democrats return to power, arguing they “don’t know what the hell they’re doing.”
-- 09/17 09:39 [FirstSquawk] Trump describes himself as a “high IQ person.”
-- 09/17 09:40 [FirstSquawk] Brent oil futures slide over $1, trading at $104.81 per barrel.
-- 09/17 09:40 [financialjuice] South Korea finance minister: will introduce market stabilizing measures if needed
-- 09/17 09:40 [FirstSquawk] South Korea’s finance minister signals readiness to intervene with market-stabilizing measures when required.
-- 09/17 09:41 [FirstSquawk] 40-year JGB yield slips 7bp to 4.095% in the latest trading.
-- 09/17 09:41 [financialjuice] South Korea Finance Minister: overseeing local bond market, volatility expected to persist
-- 09/17 09:42 [financialjuice] United States denies Palestinian President Mahmoud Abbas entry visa for UN General Assembly in New York next week - AFP
-- 09/17 09:42 [FirstSquawk] South Korea finance minister: Local bond-market volatility is expected to persist, while authorities remain on watch.
-- 09/17 09:42 [FirstSquawk] AFP reports that Washington has denied Palestinian President Mahmoud Abbas a visa to travel to New York for the UN General Assembly next week.
-- 09/17 09:43 [FirstSquawk] Trump: “If we win, we are going to get you $5,000,” adding that it is “very simple.”
-- 09/17 09:48 [FirstSquawk] Saudi Arabia has asked France, Britain, Pakistan and Egypt for air-defense assistance as it faces sustained Houthi attacks and dwindling missile-interceptor stocks, AP reports.
-- 09/17 09:48 [FirstSquawk] AP: A sweeping Russia sanctions bill has cleared the House and is now awaiting President Trump’s signature to become law.
 - 09/17 09:51 [FirstSquawk] 5-year JGB yield ticks higher by 0.5bp to 2.285% in the latest trading.
 - 09/17 09:54 [FirstSquawk] China will promote cooperation on SMR technology, strengthen joint training of professionals and use multilateral platforms to broaden international collaboration, CAEA Director Shan Zhongde said.
 - 09/17 09:58 [financialjuice] South Korea foreign minister: military deployment to Hormuz Strait remains undecided
@@ -622,3 +606,10 @@
 - 09/18 09:26 [financialjuice] RBA Governor Bullock: companies now more likely to transfer cost hikes
 - 09/18 09:26 [FirstSquawk] Petronas, Woodside tout alternatives to Mideast LNG for Asian buyers
 - 09/18 09:31 [FirstSquawk] Gold prices climb, likely aided by lower oil prices - wsj
+- 09/18 09:31 [FirstSquawk] Nikkei advances 0.8% with chip stocks leading the gains - WSJ
+- 09/18 09:36 [FirstSquawk] Luna says foreign influence networks are working to promote communist ideology in America
+- 09/18 09:36 [financialjuice] New Zealand foreign minister spokesperson: no talks with EU on New Zealand joining as associate member
+- 09/18 09:40 [financialjuice] RBA Governor Bullock: decline in housing prices isn't that significant overall
+- 09/18 09:40 [FirstSquawk] RBA Governor Bullock says housing price decline is not significant overall
+- 09/18 09:45 [financialjuice] RBA Governor Bullock: considering if policy is tight enough
+- 09/18 09:45 [FirstSquawk] Bullock: RBA is thinking about whether policy settings are tight enough

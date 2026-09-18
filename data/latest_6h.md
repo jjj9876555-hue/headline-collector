@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 09:31 JST／対象: 09/18 03:31 〜 09/18 09:31 JST（時刻はすべて日本時間）
+生成: 2026-09-18 09:49 JST／対象: 09/18 03:49 〜 09/18 09:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/18 06:19 | 09/18 06:19 | - |
-| FirstSquawk | 64 | 09/18 03:33 | 09/18 09:31 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 49 | 09/18 03:31 | 09/18 09:26 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 66 | 09/18 03:49 | 09/18 09:45 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 46 | 09/18 04:24 | 09/18 09:45 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 109 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 108 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $101.91 a barrel, down 52 cents, 0.51%.
-- 09/18 03:31 [financialjuice] NYMEX Natural Gas October futures settle at $2.9010/MMBtu.
-- 09/18 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.5073 a gallon.
-- 09/18 03:32 [financialjuice] NYMEX Diesel October futures settle at $5.1139 a gallon.
-- 09/18 03:33 [FirstSquawk] US CRUDE FUTURES SETTLE 0.51% LOWER AT $101.91/BBL, DOWN 52 CENTS
-- 09/18 03:37 [financialjuice] State Department: Iran's core delegation is permitted to attend the UNGA.
-- 09/18 03:45 [financialjuice] Brent Crude futures settle at $104.82/bbl, down $1.01, 0.95%.
-- 09/18 03:49 [FirstSquawk] IRANIAN DELEGATION GRANTED VISAS FOR UN GENERAL ASSEMBLY - ABC
 - 09/18 03:49 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.95% LOWER AT $104.82/BBL, DOWN $1.01
 - 09/18 03:49 [FirstSquawk] BARCLAYS NOW EXPECTS BOE TO HIKE RATES 25BP IN NOVEMBER & FEBRUARY 2027, CITING PERSISTENT INFLATION RISKS AND MIDDLE EAST CONFLICT
 - 09/18 04:24 [financialjuice] Friday FX Option Expiries
@@ -133,3 +125,10 @@
 - 09/18 09:26 [financialjuice] RBA Governor Bullock: companies now more likely to transfer cost hikes
 - 09/18 09:26 [FirstSquawk] Petronas, Woodside tout alternatives to Mideast LNG for Asian buyers
 - 09/18 09:31 [FirstSquawk] Gold prices climb, likely aided by lower oil prices - wsj
+- 09/18 09:31 [FirstSquawk] Nikkei advances 0.8% with chip stocks leading the gains - WSJ
+- 09/18 09:36 [FirstSquawk] Luna says foreign influence networks are working to promote communist ideology in America
+- 09/18 09:36 [financialjuice] New Zealand foreign minister spokesperson: no talks with EU on New Zealand joining as associate member
+- 09/18 09:40 [financialjuice] RBA Governor Bullock: decline in housing prices isn't that significant overall
+- 09/18 09:40 [FirstSquawk] RBA Governor Bullock says housing price decline is not significant overall
+- 09/18 09:45 [financialjuice] RBA Governor Bullock: considering if policy is tight enough
+- 09/18 09:45 [FirstSquawk] Bullock: RBA is thinking about whether policy settings are tight enough

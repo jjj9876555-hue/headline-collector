@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 09:31 JST／対象: 09/17 21:31 〜 09/18 09:31 JST（時刻はすべて日本時間）
+生成: 2026-09-18 09:49 JST／対象: 09/17 21:49 〜 09/18 09:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/17 21:58 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 134 | 09/17 21:33 | 09/18 09:31 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 117 | 09/17 21:31 | 09/18 09:26 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 135 | 09/17 21:52 | 09/18 09:45 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 115 | 09/17 21:58 | 09/18 09:45 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 252 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 251 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 21:31 [financialjuice] US Housing Starts August Report
-- 09/17 21:33 [FirstSquawk] HUANG: NVIDIA TO SELL TWICE AS MANY CHIPS NEXT YEAR AS THIS YEAR
-- 09/17 21:33 [financialjuice] Canadian PPI August 2026 Report
-- 09/17 21:33 [financialjuice] Nvidia's CEO Huang: Nvidia to sell twice as many chips next year as this year. $NVDA
-- 09/17 21:34 [FirstSquawk] NVIDIA'S CEO HUANG SAYS AI SAFETY IS PARAMOUNT
-- 09/17 21:35 [financialjuice] CANADIAN RMPI MOM ACTUAL 3.1% (FORECAST 0.8%, PREVIOUS -2.2%) $MACRO
-- 09/17 21:44 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS IRAN-BACKED YEMEN'S HOUTHIS LAUNCHED DRONE AT SAUDI TAIF - STATE TV
-- 09/17 21:44 [financialjuice] Saudi Civil Defense: Iran-backed Yemen's Houthis launched drone at Saudi Taif - State TV
 - 09/17 21:52 [FirstSquawk] UK 30-YEAR GILT YIELDS DROP 11 BPS ON DAY, ON COURSE FOR BIGGEST ONE-DAY FALL SINCE MAY 20 AFTER BOE HALTS LONG-DATED GILT SALES
 - 09/17 21:57 [FirstSquawk] CHRYSLER (FCA US, LLC) IS RECALLING 97,349 U.S. VEHICLES - NHTSA
 - 09/17 21:58 [financialjuice] Standard Chartered expects US Fed to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of no policy change this year
@@ -276,3 +268,10 @@
 - 09/18 09:26 [financialjuice] RBA Governor Bullock: companies now more likely to transfer cost hikes
 - 09/18 09:26 [FirstSquawk] Petronas, Woodside tout alternatives to Mideast LNG for Asian buyers
 - 09/18 09:31 [FirstSquawk] Gold prices climb, likely aided by lower oil prices - wsj
+- 09/18 09:31 [FirstSquawk] Nikkei advances 0.8% with chip stocks leading the gains - WSJ
+- 09/18 09:36 [FirstSquawk] Luna says foreign influence networks are working to promote communist ideology in America
+- 09/18 09:36 [financialjuice] New Zealand foreign minister spokesperson: no talks with EU on New Zealand joining as associate member
+- 09/18 09:40 [financialjuice] RBA Governor Bullock: decline in housing prices isn't that significant overall
+- 09/18 09:40 [FirstSquawk] RBA Governor Bullock says housing price decline is not significant overall
+- 09/18 09:45 [financialjuice] RBA Governor Bullock: considering if policy is tight enough
+- 09/18 09:45 [FirstSquawk] Bullock: RBA is thinking about whether policy settings are tight enough
