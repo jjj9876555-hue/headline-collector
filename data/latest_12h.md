@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 22:46 JST／対象: 09/18 10:46 〜 09/18 22:46 JST（時刻はすべて日本時間）
+生成: 2026-09-18 22:58 JST／対象: 09/18 10:58 〜 09/18 22:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 202 | 09/18 10:49 | 09/18 22:36 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 160 | 09/18 10:48 | 09/18 22:39 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 198 | 09/18 11:00 | 09/18 22:36 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 158 | 09/18 11:00 | 09/18 22:39 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 365 行（統合前 366 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 359 行（統合前 360 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 10:48 [financialjuice] S. Korea President Lee: to establish distinct economic and political capitals
-- 09/18 10:49 [FirstSquawk] South Korea’s President Lee: Government aims to establish separate economic and political capitals
-- 09/18 10:50 [FirstSquawk] South Korea’s President Lee: Says he has no plans to seek another term
-- 09/18 10:50 [financialjuice] S.Korea President Lee: never contemplated pursuing another term
-- 09/18 10:51 [FirstSquawk] 20-year JGB yield slips to 3.79%, down 4.5 bps
-- 09/18 10:55 [FirstSquawk] BOJ set for rate hike at two-day meeting amid rising inflation risks
 - 09/18 11:00 [FirstSquawk] Commodity vessel traffic through the Strait of Hormuz drops to four on Thursday, versus a 10-day average of about 16
 - 09/18 11:00 [financialjuice] Four commodity ships pass Strait of Hormuz on Thursday vs 10-day average near 16, data shows:
 - 09/18 11:05 [financialjuice] S. Korea president: Several nations moving military forces near Hormuz Strait

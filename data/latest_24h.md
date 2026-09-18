@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 22:46 JST／対象: 09/17 22:46 〜 09/18 22:46 JST（時刻はすべて日本時間）
+生成: 2026-09-18 22:58 JST／対象: 09/17 22:58 〜 09/18 22:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 23:42 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 347 | 09/17 22:50 | 09/18 22:36 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 278 | 09/17 22:57 | 09/18 22:39 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 346 | 09/17 23:00 | 09/18 22:36 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 277 | 09/17 23:00 | 09/18 22:39 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 628 行（統合前 643 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 626 行（統合前 641 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 22:50 [FirstSquawk] DEBRIS FROM AN INTERCEPTED HOUTHI DRONE KILLED ONE PERSON, THE FIRST DEATH SINCE FIGHTING HAS ESCALATED, SAUDI CIVIL DEFENSE SAYS.
-- 09/17 22:57 [financialjuice] Dutch chipmaker Nexperia: Will make chips with TATA electronics in India
 - 09/17 23:00 [financialjuice] US PENDING HOME SALES CHANGE MOM ACTUAL 0.3% (FORECAST -0.1%, PREVIOUS -2.3%) $MACRO
 - 09/17 23:00 [financialjuice] US PENDING HOMES INDEX ACTUAL 71.2 (FORECAST -, PREVIOUS 71.2 ,REVISION 71.0) $MACRO
 - 09/17 23:00 [FirstSquawk] US AUG. PENDING HOME SALES ROSE 0.3% M/M; EST. -0.1%

@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 22:46 JST／対象: 09/18 16:46 〜 09/18 22:46 JST（時刻はすべて日本時間）
+生成: 2026-09-18 22:58 JST／対象: 09/18 16:58 〜 09/18 22:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 69 | 09/18 16:54 | 09/18 22:36 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 48 | 09/18 16:50 | 09/18 22:39 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 61 | 09/18 17:01 | 09/18 22:36 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 43 | 09/18 17:00 | 09/18 22:39 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 107 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 16:50 [financialjuice] SK Hynix: Nothing decided on building chip plant in Japan.
-- 09/18 16:54 [financialjuice] EU Economy Commissioner Dombrovskis: Economy is proving resilient.
-- 09/18 16:54 [financialjuice] EU's Economy Commissioner Dombrovskis: Windfall tax will be touched upon.
-- 09/18 16:54 [FirstSquawk] DOMBROVSKIS STRESSES IMPORTANCE OF MONITORING BOND MARKET.
-- 09/18 16:54 [FirstSquawk] DOMBROVSKIS SAYS THE ECONOMY IS SHOWING STRENGTH.
-- 09/18 16:54 [FirstSquawk] DOMBROVSKIS ANNOUNCES THAT THE WINDFALL TAX WILL BE ADDRESSED.
-- 09/18 16:54 [FirstSquawk] DOMBROVSKIS IS PREPARED TO TALK ABOUT WINDFALL TAX.
-- 09/18 16:55 [FirstSquawk] DOMBROVSKIS STATES EU-WIDE WINDFALL TAX IS NOT BEING PROPOSED AT THIS TIME.
-- 09/18 16:57 [financialjuice] ECB's Kaasik: Exact level of neutral rate not a big concern now.
-- 09/18 16:57 [FirstSquawk] KAASIK SAYS MORE RESTRICTIONS REQUIRED IF INFLATION RISKS OCCUR.
-- 09/18 16:57 [FirstSquawk] ECB'S KAASIK STRESSES THE IMPORTANCE OF AVOIDING SECOND-ROUND EFFECTS.
-- 09/18 16:57 [financialjuice] ECB's Kaasik: We must prevent second-round effects.
-- 09/18 16:57 [FirstSquawk] ECB'S KAASIK STATES THAT THE PRECISE NEUTRAL INTEREST RATE IS NOT A MAJOR ISSUE AT THE MOMENT.
 - 09/18 17:00 [financialjuice] EUROZONE CURRENT ACCOUNT ACTUAL 27.628B (FORECAST -, PREVIOUS 35.100B) $MACRO
 - 09/18 17:01 [FirstSquawk] EUROZONE ECB ONE-YEAR CPI EXPECTATIONS IN AUGUST AT 3.0% (ESTIMATED 3.1%; PREVIOUS 2.9%), AND THREE-YEAR CPI EXPECTATIONS AT 2.9% (ESTIMATED 2.8%; PREVIOUS 2.7%).
 - 09/18 17:01 [financialjuice] Euro Area August 1-year CPI expectations rise to 3%; 3-year rises to 2.9%.
