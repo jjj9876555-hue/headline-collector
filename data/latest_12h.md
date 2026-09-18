@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 06:23 JST／対象: 09/18 18:23 〜 09/19 06:23 JST（時刻はすべて日本時間）
+生成: 2026-09-19 06:41 JST／対象: 09/18 18:41 〜 09/19 06:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/18 18:54 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 124 | 09/18 18:30 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 115 | 09/18 18:31 | 09/19 06:20 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 119 | 09/18 19:01 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 115 | 09/18 18:44 | 09/19 06:25 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 243 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 238 行（統合前 247 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 18:30 [FirstSquawk] NATO SECRETARY GENERAL PLANS A VISIT TO THE UNITED STATES.
-- 09/18 18:31 [FirstSquawk] JAPAN'S CABINET APPROVAL INCREASES BY 3.2 POINTS TO 33.4%, ACCORDING TO KYODO POLL.
-- 09/18 18:31 [financialjuice] Japan Cabinet approval rises 3.2 ppts to 53.4% -Kyodo Poll
-- 09/18 18:35 [FirstSquawk] KREMLIN SAYS TEMPORARY CONTROL OF NESTLE AND AUCHAN ASSETS IS DUE TO OWNERS BEING FROM UNFRIENDLY NATIONS LINKED TO ATTACKS IN KYIV.
-- 09/18 18:36 [FirstSquawk] KREMLIN STATES TEMPORARY ADMINISTRATION IN PLACE, NO FURTHER DECISIONS MADE.
-- 09/18 18:40 [FirstSquawk] ANTHROPIC AND OPENAI ARE SEEKING SMALLER DATA CENTER DEALS TO BOOST AI CAPACITY, ACCORDING TO CNBC SOURCES.
 - 09/18 18:44 [financialjuice] Anthropic, OpenAI mull small UK, Nordics data center deals - CNBC
 - 09/18 18:46 [financialjuice/DeItaone] JP Morgan expects ECB to deliver another 25 bp interest rate hike in March 2027 after a December hike vs prior forecast of rates on hold in 2027.
 - 09/18 19:01 [FirstSquawk] BERKSHIRE HAS APPOINTED WARREN BUFFETT AS CHAIRMAN EMERITUS.
@@ -267,3 +261,4 @@
 - 09/19 06:21 [DeItaone] TRUMP: I AM PLEASED TO ANNOUNCE THAT UNITED STATES OF AMERICA HAS ENTERED INTO AN AGREEMENT WITH KINGDOM OF DENMARK, AND GREENLAND,
 - 09/19 06:22 [DeItaone] TRUMP: UNITED STATES WILL FOREVER HAVE COMPLETE ABILITY TO DO WHAT IS NECESSARY IN GREENLAND IN ORDER TO SECURE AND DEFEND SECURITY OF GREENLAND
 - 09/19 06:23 [DeItaone] TRUMP: UNITED STATES PERMANENT CONTROL OVER SECURITY, AND ALL OTHER NEEDS, IN GREENLAND
+- 09/19 06:25 [financialjuice] US Secretary of State Rubio: strengthened vital role of U.S.-Japan-ROK trilateral cooperation in protecting regional security

@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 06:23 JST／対象: 09/19 00:23 〜 09/19 06:23 JST（時刻はすべて日本時間）
+生成: 2026-09-19 06:41 JST／対象: 09/19 00:41 〜 09/19 06:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 54 | 09/19 00:26 | 09/19 05:07 | 19分（04:21→04:40） |
-| financialjuice | 65 | 09/19 00:24 | 09/19 06:20 | 38分（02:01→02:40） |
+| FirstSquawk | 49 | 09/19 00:49 | 09/19 05:07 | 19分（04:21→04:40） |
+| financialjuice | 59 | 09/19 00:48 | 09/19 06:25 | 38分（02:01→02:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 121 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 110 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 00:24 [financialjuice] Auto industry urges Trump administration to keep Chinese vehicles out of US ahead of Xi visit - letter
-- 09/19 00:26 [FirstSquawk] VOLKSWAGEN STOCK DROPS 7.5% FOLLOWING A CUT IN COMPANY GUIDANCE.
-- 09/19 00:27 [FirstSquawk] GROUP TIED TO RFK JR. GAVE ACCESS TO U.S. OFFICIALS AT AN EVENT.
-- 09/19 00:32 [financialjuice] Fed's Schmid: I supported rate hike, recent data suggest inflation trending above 3%.
-- 09/19 00:32 [financialjuice] Fed's Schmid: Rate hike was a step towards returning to the 2% target.
-- 09/19 00:33 [financialjuice] ❗ Fed's Schmid: Current inflation problem not just about energy. Price growth has been 'hot' across a broad set of goods and services.
-- 09/19 00:33 [financialjuice] Fed's Schmid: High inflation a sign supply and demand are out of balance.
-- 09/19 00:33 [financialjuice] Fed's Schmid: Outside of inflation, the economy is performing well.
-- 09/19 00:33 [financialjuice] Fed's Schmid: Labor market appears in balance and economic growth solid.
-- 09/19 00:40 [FirstSquawk] FED'S SCHMID SUPPORTED HIKE; SAYS RECENT DATA SUGGEST INFLATION TRENDING ABOVE 3%
-- 09/19 00:40 [FirstSquawk] FED’S SCHMID: LABOUR MARKET APPEARS TO BE IN BALANCE
-- 09/19 00:41 [FirstSquawk] RUSSIAN FORCES HIT DRY CARGO SHIP IN ODESA – IFX CITING RUSSIAN DEFENCE MINISTRY
 - 09/19 00:48 [financialjuice/FirstSquawk] BoJ likely conducted rate checks in currency market - Nikkei
 - 09/19 00:51 [financialjuice] Fed's Schmid: I agree with Chairman Warsh's framework on why bond yields have gone up. Economic growth, demand for capital from al investment, geopolitical challenges.
 - 09/19 01:01 [FirstSquawk] CITIGROUP’S FRASER EXPECTED TO ATTEND TRUMP'S STATE DINNER FOR CHINESE PRESIDENT XI
@@ -145,3 +133,4 @@
 - 09/19 06:21 [DeItaone] TRUMP: I AM PLEASED TO ANNOUNCE THAT UNITED STATES OF AMERICA HAS ENTERED INTO AN AGREEMENT WITH KINGDOM OF DENMARK, AND GREENLAND,
 - 09/19 06:22 [DeItaone] TRUMP: UNITED STATES WILL FOREVER HAVE COMPLETE ABILITY TO DO WHAT IS NECESSARY IN GREENLAND IN ORDER TO SECURE AND DEFEND SECURITY OF GREENLAND
 - 09/19 06:23 [DeItaone] TRUMP: UNITED STATES PERMANENT CONTROL OVER SECURITY, AND ALL OTHER NEEDS, IN GREENLAND
+- 09/19 06:25 [financialjuice] US Secretary of State Rubio: strengthened vital role of U.S.-Japan-ROK trilateral cooperation in protecting regional security
