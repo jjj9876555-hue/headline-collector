@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 07:41 JST／対象: 09/19 01:41 〜 09/19 07:41 JST（時刻はすべて日本時間）
+生成: 2026-09-19 07:52 JST／対象: 09/19 01:52 〜 09/19 07:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 40 | 09/19 01:42 | 09/19 05:07 | 19分（04:21→04:40） |
-| financialjuice | 79 | 09/19 01:44 | 09/19 07:38 | 38分（02:01→02:40） |
+| FirstSquawk | 37 | 09/19 01:54 | 09/19 05:07 | 19分（04:21→04:40） |
+| financialjuice | 77 | 09/19 01:54 | 09/19 07:38 | 38分（02:01→02:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 124 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 119 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 01:42 [FirstSquawk] FED'S SCHMID: US ECONOMY IS STRONG, GROWING; WE’RE IN A FAIRLY NORMALIZED PLACE
-- 09/19 01:44 [financialjuice] Senior Saudi security, military delegation met Mossad and Israeli military intelligence leaders to seek support against Houthi operations under US CENTCOM supervision - Palestinian source via ISNA
-- 09/19 01:44 [FirstSquawk] A RELIABLE AMERICAN OFFICIAL REVEALED THAT 60 MILLION BARRELS OF OIL, BELIEVED TO BE FROM IRAN, ARE TRAPPED ON SHIPS FACING SANCTIONS.
-- 09/19 01:48 [financialjuice] Reports of an explosion near the Strait of Hormuz - al Hadath
-- 09/19 01:49 [FirstSquawk] REPORTS OF AN EXPLOSION OCCURRING IN THE VICINITY OF THE STRAIT OF HORMUZ
 - 09/19 01:54 [financialjuice] Top US NATO Commander Grynkewich participated in today's virtual briefing for Pentagon policy Chief Colby on potential approaches to US force posture review in Europe - Spokesperson
 - 09/19 01:54 [FirstSquawk] AS OF SEPTEMBER 18, CENTCOM FORCES HAVE DIRECTED 105 COMMERCIAL SHIPS TO ENSURE COMPLIANCE.
 - 09/19 01:57 [FirstSquawk] US MILITARY EXPERIENCED A NEAR MISS DUE TO AI-BASED FALSE INTELLIGENCE REPORT, SOURCES REVEAL.

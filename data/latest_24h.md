@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 07:41 JST／対象: 09/18 07:41 〜 09/19 07:41 JST（時刻はすべて日本時間）
+生成: 2026-09-19 07:52 JST／対象: 09/18 07:52 〜 09/19 07:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 333 | 09/18 07:44 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 307 | 09/18 07:45 | 09/19 07:38 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 331 | 09/18 08:01 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 302 | 09/18 08:00 | 09/19 07:38 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 645 行（統合前 654 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 638 行（統合前 647 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 07:44 [FirstSquawk] JEDDAH WARNING SIRENS SOUND; FLIGHTS AT JEDDAH AIRPORT HALTED AS PROJECTILE REPORTEDLY FIRED AT JEDDAH — TASNIMNEWS
-- 09/18 07:45 [financialjuice] NEW ZEALAND TRADE BALANCE ACTUAL -1349M (FORECAST -, PREVIOUS -1,949.0M) $MACRO
-- 09/18 07:45 [financialjuice] NEW ZEALAND FOOD PRICE INDEX ACTUAL 0.3% (FORECAST -, PREVIOUS 0.1%) $MACRO
-- 09/18 07:45 [financialjuice] New Zealand food price inflation index +0.3% in August on previous month: Stats NZ
-- 09/18 07:45 [financialjuice] NEW ZEALAND EXPORTS ACTUAL 6.66B (FORECAST -, PREVIOUS 7.39B ,REVISION 7.22B) $MACRO
-- 09/18 07:45 [financialjuice] NEW ZEALAND IMPORTS ACTUAL 8.00B (FORECAST -, PREVIOUS 9.34B ,REVISION 9.33B) $MACRO
-- 09/18 07:46 [FirstSquawk] NEW ZEALAND'S AUGUST TRADE BALANCE SHOWED A DEFICIT OF NZ$1,349 MLN, NARROWER THAN THE PRIOR NZ$1,949 MLN, WITH EXPORTS AT NZ$6.66 BLN AND IMPORTS AT NZ$8.00 BLN, WHILE THE FOOD PRICE INDEX ROSE 0.3% MONTH-ON-MONTH VERSUS A PRIOR 0.1%
 - 09/18 08:00 [financialjuice] South Korea prolongs fuel-tax reductions by two months until end of November: finance ministry
 - 09/18 08:01 [FirstSquawk] WHITE HOUSE WITHDRAWS NOMINATION OF FORMER DELTA PILOT JEFFREY ANDERSON FOR KEY INTERNATIONAL AVIATION POST
 - 09/18 08:01 [FirstSquawk] JANA PARTNERS PUSHES COOPER COS. TO REPLACE CEO AND CONSIDER SALE OF CORE BUSINESSES — WSJ

@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 07:41 JST／対象: 09/18 19:41 〜 09/19 07:41 JST（時刻はすべて日本時間）
+生成: 2026-09-19 07:52 JST／対象: 09/18 19:52 〜 09/19 07:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/18 20:26 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 113 | 09/18 19:47 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 138 | 09/18 19:50 | 09/19 07:38 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 105 | 09/18 19:55 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 137 | 09/18 19:55 | 09/19 07:38 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 254 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 245 行（統合前 253 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 19:47 [FirstSquawk] LESCURE SAYS EU'S CLOSER RELATIONSHIP WITH CANADA IS A FANTASTIC IDEA.
-- 09/18 19:47 [FirstSquawk] EU ECONOMIC COMMISSIONER DOMBROVSKI SAYS RISING BOND YIELDS WILL AFFECT ALL OF EUROPE, CALLS FOR STRONG FISCAL POLICIES.
-- 09/18 19:48 [FirstSquawk] LESCURE SAYS ECB IS PERFORMING ITS DUTIES.
-- 09/18 19:48 [FirstSquawk] FRENCH 10-YEAR BOND YIELD PREMIUM OVER GERMAN BUNDS INCREASES TO 100 BASIS POINTS.
-- 09/18 19:49 [FirstSquawk] ECB'S LAGARDE EXPECTS DIGITAL EURO LAWS TO BE FINISHED THIS YEAR.
-- 09/18 19:49 [FirstSquawk] ECB'S LAGARDE SAYS ECONOMIC FUTURE IS UNCERTAIN.
-- 09/18 19:50 [financialjuice] ECB's President Lagarde: Rates do not move in lockstep with price of energy, other factors, growth and consumption, also play a role.
-- 09/18 19:50 [FirstSquawk] ECB'S LAGARDE SAYS INTEREST RATES DO NOT RISE OR FALL TOGETHER WITH ENERGY PRICES.
-- 09/18 19:50 [FirstSquawk] ECB'S LAGARDE STATES THAT GROWTH AND CONSUMPTION ARE IMPORTANT FACTORS TOO.
 - 09/18 19:55 [FirstSquawk] EU ECONOMIC COMMISSIONER STATED MARKETS HAVE REPRICED, HIGHLIGHTING THE NEED FOR CAREFUL FISCAL POLICIES.
 - 09/18 19:55 [financialjuice] EU Economic Commissioner: There is repricing done by markets, but that is why we need prudent fiscal policies.
 - 09/18 19:56 [financialjuice] ECB's President Lagarde: Clear that energy is a significant variable. We are well positioned to respond.
