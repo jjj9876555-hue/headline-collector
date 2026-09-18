@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 08:52 JST／対象: 09/17 08:52 〜 09/18 08:52 JST（時刻はすべて日本時間）
+生成: 2026-09-18 09:07 JST／対象: 09/17 09:07 〜 09/18 09:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 330 | 09/17 09:04 | 09/18 08:51 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 265 | 09/17 09:04 | 09/18 08:38 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 334 | 09/17 09:07 | 09/18 09:03 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 266 | 09/17 09:08 | 09/18 08:55 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 596 行（統合前 613 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 601 行（統合前 618 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 09:04 [FirstSquawk] DOLLAR/YEN FALLS 0.21% TO 155.95 IN LATEST TRADE
-- 09/17 09:04 [financialjuice] Dollar/yen slides 0.21% to 155.95
 - 09/17 09:07 [FirstSquawk] TRUMP SAYS IRAN IS NOT READY FOR A DEAL, BUT WAR WITH IRAN WILL END “VERY SOON”
 - 09/17 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.2% TO 8,714 IN EARLY TRADE
 - 09/17 09:08 [financialjuice] Trump: we're very close to an agreement with Mexico
@@ -620,3 +618,10 @@
 - 09/18 08:51 [FirstSquawk] ISRAEL'S FOREIGN MINISTER GIDEON SA'AR SAYS ISRAEL WANTS 'SUBSTANTIVE, OPEN AND CANDID DIALOGUE' TO ESTABLISH TIES WITH AUSTRIA'S FREEDOM PARTY (FPÖ), A PARTY FOUNDED BY FORMER NAZIS AND HISTORICALLY ASSOCIATED WITH ANTISEMITIC FIGURES, IN …
 - 09/18 08:51 [FirstSquawk] LIKUD MINISTERS WELCOMED THE DEVELOPMENT, WITH DIASPORA AFFAIRS MINISTER AMICHAI CHIKLI CALLING IT A 'HISTORIC TURNING POINT' IN RELATIONS BETWEEN THE FPÖ AND ISRAEL, WHICH HAD PREVIOUSLY MAINTAINED A FORMAL BOYCOTT OF THE FPÖ DUE TO ITS NA…
 - 09/18 08:51 [FirstSquawk] FRENCH PRESIDENT MACRON WILL HOST LEADERS OF PARLIAMENTARY PARTIES AT THE ÉLYSÉE PALACE ON SEPTEMBER 18 TO DISCUSS INTERNATIONAL CONFLICTS AND THEIR DOMESTIC CONSEQUENCES, WITH ATTENDEES INCLUDING JORDAN BARDELLA, BRUNO RETAILLEAU, GABRIEL …
+- 09/18 08:53 [financialjuice] RBA Governor Bullock: navigating a world with prolonged elevated oil prices
+- 09/18 08:55 [financialjuice] Businesses now more likely to transfer cost hikes
+- 09/18 08:58 [FirstSquawk] SLOVAK PRIME MINISTER ROBERT FICO SAYS 'THE SITUATION HAS NEVER BEEN AS SERIOUS AND TENSE REGARDING THE POSSIBILITY OF A PAN-EUROPEAN MILITARY CONFLICT AS IT IS NOW'.
+- 09/18 08:59 [FirstSquawk] SLOVAK PRIME MINISTER ROBERT FICO SAYS ON NATO THAT 'I DO NOT WANT SLOVAKIA TO BECOME PART OF SOME MILITARY CONFLICT BECAUSE OF ARTICLE 5', ADDING THAT WHILE 'WE ARE IN NATO, WE RESPECT THAT' AND CARE ABOUT FULFILLING ITS COMMITMENTS, AS PR…
+- 09/18 09:02 [FirstSquawk] KOSPI gains more than 2% in Seoul trading
+- 09/18 09:03 [FirstSquawk] Trump: Iranian radar destroyed, leaving ships with no night-time visibility
+- 09/18 09:03 [FirstSquawk] Toyota targets deployment of 400,000 humanoid robots in manufacturing operations

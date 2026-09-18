@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 08:52 JST／対象: 09/18 02:52 〜 09/18 08:52 JST（時刻はすべて日本時間）
+生成: 2026-09-18 09:07 JST／対象: 09/18 03:07 〜 09/18 09:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/18 02:53 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 51 | 09/18 02:53 | 09/18 08:51 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 47 | 09/18 03:04 | 09/18 08:38 | ⚠ 60分（06:44→07:45） |
+| DeItaone | 1 | 09/18 06:19 | 09/18 06:19 | - |
+| FirstSquawk | 53 | 09/18 03:21 | 09/18 09:03 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 48 | 09/18 03:13 | 09/18 08:55 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 97 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,13 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 02:53 [DeItaone] FED’S NEXT MOVE: OCTOBER HIKE IN PLAY Goldman Sachs now expects another 25bp Fed hike in October, joining ANZ, BofA, RBC and TD Securities after September’s hawkish meeting. Markets remain split: Kalshi prices a 53% chance of a hold vs. 48%…
-- 09/18 02:53 [FirstSquawk] SENEGAL PLANS TO USE DOMESTIC NATURAL GAS TO LOWER ELECTRICITY COSTS, THE ENERGY MINISTER TELLS REUTERS, ADDING THAT IT WILL MAKE ENERGY SUBSIDIES MORE TARGETED WITH A FOCUS ON THE MOST VULNERABLE HOUSEHOLDS.
-- 09/18 02:53 [FirstSquawk] SENEGAL IS OPEN TO WORKING WITH NEW INTERNATIONAL PARTNERS TO HELP DEVELOP ITS ENERGY RESOURCES AND WILL EXPORT GAS WHILE SUPPORTING DOMESTIC NEEDS, THE MINISTER SAYS.
-- 09/18 02:55 [DeItaone] BITCOIN COULD GET MORE SUPPORT THAN GOLD JPMorgan says Bitcoin could benefit more than gold if ETF hedging demand eases. Short interest in IBIT remains near yearly highs, while its put-to-call ratio is also higher than GLD’s — signaling hea…
-- 09/18 02:59 [DeItaone] ALTMAN AND HUANG SET TO JOIN XI AT WHITE HOUSE DINNER OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang are planning to attend a White House state dinner next week with Chinese President Xi Jinping. The gathering puts two of the biggest nam…
-- 09/18 03:04 [financialjuice] OpenAI and Microsoft knew of AI threats to news industry. $MSFT
-- 09/18 03:05 [FirstSquawk] OPENAI AND MICROSOFT KNEW OF AI THREATS TO NEWS INDUSTRY.
 - 09/18 03:13 [financialjuice] Trump and Mexico's President Sheinbaum are close to a trade agreement - Politico.
 - 09/18 03:21 [FirstSquawk] EU’S VON DER LEYEN SAYS EU WILL DISBURSE ANOTHER €3.3B TO UKRAINE FOR MISSILE & DRONE PROCUREMENT TOMORROW
 - 09/18 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $101.91 a barrel, down 52 cents, 0.51%.
@@ -121,3 +114,10 @@
 - 09/18 08:51 [FirstSquawk] ISRAEL'S FOREIGN MINISTER GIDEON SA'AR SAYS ISRAEL WANTS 'SUBSTANTIVE, OPEN AND CANDID DIALOGUE' TO ESTABLISH TIES WITH AUSTRIA'S FREEDOM PARTY (FPÖ), A PARTY FOUNDED BY FORMER NAZIS AND HISTORICALLY ASSOCIATED WITH ANTISEMITIC FIGURES, IN …
 - 09/18 08:51 [FirstSquawk] LIKUD MINISTERS WELCOMED THE DEVELOPMENT, WITH DIASPORA AFFAIRS MINISTER AMICHAI CHIKLI CALLING IT A 'HISTORIC TURNING POINT' IN RELATIONS BETWEEN THE FPÖ AND ISRAEL, WHICH HAD PREVIOUSLY MAINTAINED A FORMAL BOYCOTT OF THE FPÖ DUE TO ITS NA…
 - 09/18 08:51 [FirstSquawk] FRENCH PRESIDENT MACRON WILL HOST LEADERS OF PARLIAMENTARY PARTIES AT THE ÉLYSÉE PALACE ON SEPTEMBER 18 TO DISCUSS INTERNATIONAL CONFLICTS AND THEIR DOMESTIC CONSEQUENCES, WITH ATTENDEES INCLUDING JORDAN BARDELLA, BRUNO RETAILLEAU, GABRIEL …
+- 09/18 08:53 [financialjuice] RBA Governor Bullock: navigating a world with prolonged elevated oil prices
+- 09/18 08:55 [financialjuice] Businesses now more likely to transfer cost hikes
+- 09/18 08:58 [FirstSquawk] SLOVAK PRIME MINISTER ROBERT FICO SAYS 'THE SITUATION HAS NEVER BEEN AS SERIOUS AND TENSE REGARDING THE POSSIBILITY OF A PAN-EUROPEAN MILITARY CONFLICT AS IT IS NOW'.
+- 09/18 08:59 [FirstSquawk] SLOVAK PRIME MINISTER ROBERT FICO SAYS ON NATO THAT 'I DO NOT WANT SLOVAKIA TO BECOME PART OF SOME MILITARY CONFLICT BECAUSE OF ARTICLE 5', ADDING THAT WHILE 'WE ARE IN NATO, WE RESPECT THAT' AND CARE ABOUT FULFILLING ITS COMMITMENTS, AS PR…
+- 09/18 09:02 [FirstSquawk] KOSPI gains more than 2% in Seoul trading
+- 09/18 09:03 [FirstSquawk] Trump: Iranian radar destroyed, leaving ships with no night-time visibility
+- 09/18 09:03 [FirstSquawk] Toyota targets deployment of 400,000 humanoid robots in manufacturing operations

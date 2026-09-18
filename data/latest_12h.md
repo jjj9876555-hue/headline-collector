@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 08:52 JST／対象: 09/17 20:52 〜 09/18 08:52 JST（時刻はすべて日本時間）
+生成: 2026-09-18 09:07 JST／対象: 09/17 21:07 〜 09/18 09:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/17 21:58 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 131 | 09/17 20:56 | 09/18 08:51 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 127 | 09/17 21:00 | 09/18 08:38 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 130 | 09/17 21:11 | 09/18 09:03 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 126 | 09/17 21:08 | 09/18 08:55 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 259 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 257 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 20:56 [FirstSquawk] SINGAPORE'S ELECTRONICS EXPORTS INCREASED RAPIDLY IN AUGUST DUE TO CONTINUING ADVANCEMENTS IN AI.
-- 09/17 20:58 [FirstSquawk] UK 30-YEAR YIELD FALLS BY 10 BASIS POINTS TO 5.76%, THE BIGGEST DROP SINCE MAY.
-- 09/17 20:59 [FirstSquawk] SPOT GOLD EXTENDS GAINS, UP NEARLY 2% TO $4,346.40/OZ
-- 09/17 21:00 [financialjuice] Secured overnight financing rate 3.62% September 16th vs 3.64% September 15th
-- 09/17 21:00 [FirstSquawk] US CRUDE FUTURES EXTEND DROP TO FALL BACK BELOW $100/BBL
-- 09/17 21:00 [financialjuice] ❗ China has privately asked Iran to use its influence to help rein in Yemen's Houthis after Saudi appeal to Beijing, three Iranian - Sources.
-- 09/17 21:01 [FirstSquawk] SPOT SILVER RISES 3% TO $64.85/OZ
-- 09/17 21:06 [financialjuice] Morning Juice – US Session Prep (17th September)
-- 09/17 21:06 [FirstSquawk] SAUDI ARABIA REQUESTS OMAN TO MEDIATE WITH ANSAR ALLAH FOR A TWO-WEEK TRUCE DURING WHICH ALL HUMANITARIAN DEMANDS WILL BE DISCUSSED, ENDING WITH THE ANNOUNCEMENT OF AN AGREEMENT BY THE END OF THE WEEK
 - 09/17 21:08 [financialjuice] Pentagon and Lockheed agree to speed up new missile production.
 - 09/17 21:11 [FirstSquawk] S&P 500 INDEX FUTURES EXTEND GAIN TO 1%
 - 09/17 21:20 [FirstSquawk] LOCKHEED MARTIN REVEALS NEW SECRET MISSILE, FAST TRACKS PRODUCTION
@@ -283,3 +274,10 @@
 - 09/18 08:51 [FirstSquawk] ISRAEL'S FOREIGN MINISTER GIDEON SA'AR SAYS ISRAEL WANTS 'SUBSTANTIVE, OPEN AND CANDID DIALOGUE' TO ESTABLISH TIES WITH AUSTRIA'S FREEDOM PARTY (FPÖ), A PARTY FOUNDED BY FORMER NAZIS AND HISTORICALLY ASSOCIATED WITH ANTISEMITIC FIGURES, IN …
 - 09/18 08:51 [FirstSquawk] LIKUD MINISTERS WELCOMED THE DEVELOPMENT, WITH DIASPORA AFFAIRS MINISTER AMICHAI CHIKLI CALLING IT A 'HISTORIC TURNING POINT' IN RELATIONS BETWEEN THE FPÖ AND ISRAEL, WHICH HAD PREVIOUSLY MAINTAINED A FORMAL BOYCOTT OF THE FPÖ DUE TO ITS NA…
 - 09/18 08:51 [FirstSquawk] FRENCH PRESIDENT MACRON WILL HOST LEADERS OF PARLIAMENTARY PARTIES AT THE ÉLYSÉE PALACE ON SEPTEMBER 18 TO DISCUSS INTERNATIONAL CONFLICTS AND THEIR DOMESTIC CONSEQUENCES, WITH ATTENDEES INCLUDING JORDAN BARDELLA, BRUNO RETAILLEAU, GABRIEL …
+- 09/18 08:53 [financialjuice] RBA Governor Bullock: navigating a world with prolonged elevated oil prices
+- 09/18 08:55 [financialjuice] Businesses now more likely to transfer cost hikes
+- 09/18 08:58 [FirstSquawk] SLOVAK PRIME MINISTER ROBERT FICO SAYS 'THE SITUATION HAS NEVER BEEN AS SERIOUS AND TENSE REGARDING THE POSSIBILITY OF A PAN-EUROPEAN MILITARY CONFLICT AS IT IS NOW'.
+- 09/18 08:59 [FirstSquawk] SLOVAK PRIME MINISTER ROBERT FICO SAYS ON NATO THAT 'I DO NOT WANT SLOVAKIA TO BECOME PART OF SOME MILITARY CONFLICT BECAUSE OF ARTICLE 5', ADDING THAT WHILE 'WE ARE IN NATO, WE RESPECT THAT' AND CARE ABOUT FULFILLING ITS COMMITMENTS, AS PR…
+- 09/18 09:02 [FirstSquawk] KOSPI gains more than 2% in Seoul trading
+- 09/18 09:03 [FirstSquawk] Trump: Iranian radar destroyed, leaving ships with no night-time visibility
+- 09/18 09:03 [FirstSquawk] Toyota targets deployment of 400,000 humanoid robots in manufacturing operations
