@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 13:50 JST／対象: 09/17 13:50 〜 09/18 13:50 JST（時刻はすべて日本時間）
+生成: 2026-09-18 14:01 JST／対象: 09/17 14:01 〜 09/18 14:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 333 | 09/17 13:57 | 09/18 13:44 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 307 | 09/17 14:08 | 09/18 13:07 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 332 | 09/17 14:03 | 09/18 14:01 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 310 | 09/17 14:08 | 09/18 14:01 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 641 行（統合前 658 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 643 行（統合前 660 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 13:57 [FirstSquawk] Barclays comes under pressure from employees over return-to-office requirements - FT
-- 09/17 13:58 [FirstSquawk] Berenberg increases its SSE target price to 2,980p, up from 2,800p.
-- 09/17 13:59 [FirstSquawk] Yen slides past ¥156 per dollar as recent US-Japan efforts to support the currency lose ground, putting added pressure on the BOJ ahead of Friday’s rate decision, FT reports.
-- 09/17 14:01 [FirstSquawk] Iran’s Foreign Minister Araqchi speaks with Pakistan Army Chief by phone on latest regional developments during his Beijing visit, Iranian media says.
 - 09/17 14:03 [FirstSquawk] Volvo Car: Spending on its technology stack and manufacturing is set to fall from current levels.
 - 09/17 14:08 [financialjuice] Iranian foreign minister, Pakistan army chief discuss recent regional developments in phone call during Aragchi's Beijing visit on Wednesday: Iranian MI
 - 09/17 14:10 [FirstSquawk] RIA: Russia’s Defence Ministry says its forces targeted vessels used by the Ukrainian military.
@@ -665,3 +661,9 @@
 - 09/18 13:32 [FirstSquawk] PAKISTAN IN CRISIS MODE: MARKETS TO SHUT BY 9 PM, FUEL USE SLASHED 50%, FOREIGN TRAVEL RESTRICTED
 - 09/18 13:35 [FirstSquawk] Kansai Electric finishes decommissioning work on problematic Mihama nuclear reactor.
 - 09/18 13:44 [FirstSquawk] Yonhap: North Korea’s nuclear test may have triggered more than 1,300 earthquakes, report says.
+- 09/18 13:52 [FirstSquawk] FXStreet: WTI crude consolidates below $96.50 as Middle East tensions continue to support bullish sentiment.
+- 09/18 14:00 [FirstSquawk] A cargo vessel in Ukraine’s Chornomorsk was hit by Russia, according to Russian news agencies citing the Defence Ministry.
+- 09/18 14:00 [financialjuice] Russia strikes cargo ship in Ukraine's Chornomorsk: Russian news agencies cite defense ministry
+- 09/18 14:00 [financialjuice] Sterling/yen gbpjpy rises 0.82% to 209.93 yen
+- 09/18 14:01 [financialjuice] Russia also strikes postal logistics hub near Ukraine's Odesa: Russian news agencies cite defense ministry
+- 09/18 14:01 [FirstSquawk] Russian forces target a postal logistics centre around Odesa in Ukraine, Russian agencies say, citing the Defence Ministry.

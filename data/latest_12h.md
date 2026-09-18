@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 13:50 JST／対象: 09/18 01:50 〜 09/18 13:50 JST（時刻はすべて日本時間）
+生成: 2026-09-18 14:01 JST／対象: 09/18 02:01 〜 09/18 14:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/18 02:10 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 187 | 09/18 01:51 | 09/18 13:44 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 153 | 09/18 01:55 | 09/18 13:07 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 184 | 09/18 02:24 | 09/18 14:01 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 151 | 09/18 02:02 | 09/18 14:01 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 339 行（統合前 351 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 334 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 01:51 [FirstSquawk] RUBIO TAKES BEHIND-THE-SCENES ROLE ON IRAN WAR, WHILE KEEPING HIS OPTIONS OPEN FOR THE FUTURE – NBC
-- 09/18 01:54 [FirstSquawk] FRENCH FINANCE MINISTRY SEES 2026 DEFICIT AT 5.4% GDP
-- 09/18 01:54 [FirstSquawk] NORTHROP CEO SAYS CO PLANNING FIRST SENTINEL MISSILE TEST IN 2027, WHICH IS EARLIER THAN WAS ANTICIPATED
-- 09/18 01:55 [FirstSquawk] NVIDIA COMMITS $2 BILLION TO BROOKFIELD AI FUND
-- 09/18 01:55 [financialjuice] Nvidia commits $2 billion to Brookfield AI fund. $NVDA
-- 09/18 01:57 [FirstSquawk] TRUMP SAID IN AN INTERVIEW WITH AXIOS THAT HE IS AT A TURNING POINT IN THE IRAN WAR, DECIDING WHETHER TO RESUME LARGE-SCALE ATTACKS TO END THE CONFLICT.
-- 09/18 01:57 [financialjuice] ❗ Trump tells Axios he's approaching major crossroads in Iran war
-- 09/18 01:59 [financialjuice] Trump on Iran: I have a big decision coming up - Axios
-- 09/18 01:59 [FirstSquawk] TRUMP TO AXIOS: WANT TO TALK WITH ALLIES AT UN ABOUT IRAN STEPS
-- 09/18 01:59 [financialjuice] Senior US Official to Al Jazeera: Focused on ensuring navigation in the Red Sea and paving the way for our partners to manage security challenges.
-- 09/18 02:00 [financialjuice] WI 10 Yr TIPS yield about 2.634% before $19 billion auction
 - 09/18 02:02 [financialjuice] US 10-YEAR TIPS HIGH YIELD ACTUAL 2.653% (FORECAST -, PREVIOUS 2.438%) $MACRO
 - 09/18 02:02 [financialjuice] US 10-YEAR TIPS BID-TO-COVER ACTUAL 2.240 (FORECAST -, PREVIOUS 2.300) $MACRO
 - 09/18 02:04 [financialjuice] US 10 Yr TIPS Auction High yield 2.653% (Tail of 1.9 BPS) Bid-to-Cover 2.24 Sells $19 bln Awards 93.14% of bids at high Primary dealers take 12.18% Direct 28.7% Indirect 59.12%
@@ -363,3 +352,9 @@
 - 09/18 13:32 [FirstSquawk] PAKISTAN IN CRISIS MODE: MARKETS TO SHUT BY 9 PM, FUEL USE SLASHED 50%, FOREIGN TRAVEL RESTRICTED
 - 09/18 13:35 [FirstSquawk] Kansai Electric finishes decommissioning work on problematic Mihama nuclear reactor.
 - 09/18 13:44 [FirstSquawk] Yonhap: North Korea’s nuclear test may have triggered more than 1,300 earthquakes, report says.
+- 09/18 13:52 [FirstSquawk] FXStreet: WTI crude consolidates below $96.50 as Middle East tensions continue to support bullish sentiment.
+- 09/18 14:00 [FirstSquawk] A cargo vessel in Ukraine’s Chornomorsk was hit by Russia, according to Russian news agencies citing the Defence Ministry.
+- 09/18 14:00 [financialjuice] Russia strikes cargo ship in Ukraine's Chornomorsk: Russian news agencies cite defense ministry
+- 09/18 14:00 [financialjuice] Sterling/yen gbpjpy rises 0.82% to 209.93 yen
+- 09/18 14:01 [financialjuice] Russia also strikes postal logistics hub near Ukraine's Odesa: Russian news agencies cite defense ministry
+- 09/18 14:01 [FirstSquawk] Russian forces target a postal logistics centre around Odesa in Ukraine, Russian agencies say, citing the Defence Ministry.
