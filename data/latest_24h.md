@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 18:03 JST／対象: 09/17 18:03 〜 09/18 18:03 JST（時刻はすべて日本時間）
+生成: 2026-09-18 18:25 JST／対象: 09/17 18:25 〜 09/18 18:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/17 18:43 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 364 | 09/17 18:06 | 09/18 18:02 | ⚠ 51分（03:49→04:40） |
+| DeItaone | 12 | 09/17 18:43 | 09/18 18:11 | ⚠ 711分（06:19→18:11） |
+| FirstSquawk | 366 | 09/17 18:38 | 09/18 18:17 | ⚠ 51分（03:49→04:40） |
 | financialjuice | 333 | 09/17 18:48 | 09/18 18:00 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 697 行（統合前 714 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 700 行（統合前 717 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 18:06 [FirstSquawk] EUROZONE CPI CORE (Y/Y) JUL F: 2.4% (EST 2.4%; PREV 2.4%) || CPI (M/M): 0.4% (EST 0.4%; PREV 0.4%) || CPI (Y/Y): 3.2% (EST 3.3%; PREV 3.3%)
-- 09/17 18:18 [FirstSquawk] GERMAN VICE CHANCELLOR KLINGBEIL IS GRATEFUL FOR VW'S RESTRUCTURING DEAL BUT RECOGNIZES IT IS ONLY THE START.
-- 09/17 18:18 [FirstSquawk] GERMAN VICE CHANCELLOR KLINGBEIL DISCUSSED VW LABOR TALKS, STRESSED A STRONGER STRATEGY TOWARD CHINA AND OTHER COUNTRIES THAT POSE RISKS TO OUR INDUSTRY.
 - 09/17 18:38 [FirstSquawk] IRAN HAS ORDERED A SWEDISH DIPLOMAT TO LEAVE TEHRAN IN 48 HOURS, ACCORDING TO TASNIM NEWS.
 - 09/17 18:38 [FirstSquawk] TAKAICHI PLANS TO SPEED UP POLICIES FOR A ROBUST ECONOMY.
 - 09/17 18:38 [FirstSquawk] TAKAICHI PLANS TO CREATE A VIRTUAL CYCLE WITH INCREASING TAX REVENUE AND ECONOMIC GROWTH.
@@ -721,3 +718,9 @@
 - 09/18 17:54 [FirstSquawk] SPOT SILVER INCREASES MORE THAN 3% TO $67.19 PER OUNCE.
 - 09/18 18:00 [financialjuice] EUROZONE CONSTRUCTION OUTPUT MOM ACTUAL 0% (FORECAST -, PREVIOUS -1.34%) $MACRO
 - 09/18 18:02 [FirstSquawk] NATO ALLIES HOLD "ARCTIC SHIELD" DRILL IN GREENLAND.
+- 09/18 18:11 [DeItaone] U.S. COULD RELEASE MORE OIL FROM SPR Energy Secretary Chris Wright says another round of crude loans from the Strategic Petroleum Reserve is a “very real possibility” as higher oil prices and steep futures backwardation boost demand for bar…
+- 09/18 18:12 [FirstSquawk] UKRAINE'S PRESIDENT ZELENSKYY UNVEILS THE NEW CARPATHIAN EIGHT COOPERATION GROUP.
+- 09/18 18:12 [FirstSquawk] SOFTBANK INCREASES CREDIT LINE TO $6.5 BILLION FROM $6.05 BILLION DUE TO RISING AI DEBTS.
+- 09/18 18:17 [FirstSquawk] EU WILL PROVIDE €3.3 BILLION TO UKRAINE ON SEPTEMBER 18, ACCORDING TO VON DER LEYEN.
+- 09/18 18:17 [FirstSquawk] VON DER LEYEN STATES THEY ARE PREPARED FOR COLLABORATIVE DEFENSE INITIATIVES BETWEEN THE EU AND UKRAINE.
+- 09/18 18:17 [FirstSquawk] VON DER LEYEN STATED THAT NECESSARY RADA REFORMS WERE TALKED ABOUT.

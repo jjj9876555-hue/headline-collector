@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 18:03 JST／対象: 09/18 06:03 〜 09/18 18:03 JST（時刻はすべて日本時間）
+生成: 2026-09-18 18:25 JST／対象: 09/18 06:25 〜 09/18 18:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/18 06:19 | 09/18 06:19 | - |
-| FirstSquawk | 223 | 09/18 06:20 | 09/18 18:02 | 42分（17:10→17:53） |
-| financialjuice | 168 | 09/18 06:06 | 09/18 18:00 | ⚠ 60分（06:44→07:45） |
+| DeItaone | 1 | 09/18 18:11 | 09/18 18:11 | - |
+| FirstSquawk | 218 | 09/18 06:35 | 09/18 18:17 | 42分（17:10→17:53） |
+| financialjuice | 163 | 09/18 06:44 | 09/18 18:00 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 391 行（統合前 393 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 382 行（統合前 383 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 06:06 [financialjuice/FirstSquawk] North Korea's Kim Yo Jong: U.S.-led multinational exercises are primary cause of rising tensions on Korean peninsula
-- 09/18 06:07 [financialjuice] North Korea’s Kim Yo Jong: no shift in strategy to bolster nuclear war deterrence
-- 09/18 06:07 [financialjuice] North Korea's Kim Yo Jong: armed forces to deploy all options if military sovereignty and security interests are seriously threatened
-- 09/18 06:19 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 6:30 PM ET Thu. — 🇯🇵 Japan CPI ~10:30–11:30 PM ET Thu. — 🇯🇵 BOJ Rate Decision 2:00 AM ET — 🇬🇧 UK Retail Sales 2:30 AM ET — 🎙️ BOJ Governor Ueda 9:15 AM ET — 🇺🇸 Industrial Production 9:30 AM ET — 🏦 Fed V…
-- 09/18 06:19 [financialjuice] Iran's IRGC navy: targeted Togo-flagged oil tanker after it attempted illegal passage through Hormuz Strait - Iran's Fars
-- 09/18 06:20 [FirstSquawk] QUALCOMM CEO TO ATTEND TRUMP-XI STATE DINNER, SIGNALING HIGH-LEVEL US-CHINA TECH ENGAGEMENT
-- 09/18 06:20 [financialjuice] Iran's IRGC navy reports oil tanker fire - Fars
-- 09/18 06:20 [FirstSquawk] HEALEY TO URGE BRUSSELS TO INCLUDE UK IN 'MADE IN EUROPE' POLICY: FT
-- 09/18 06:21 [FirstSquawk] BRITISH FINANCE MINISTER WILL ON FRIDAY SIGNAL TO EU COUNTERPARTS THAT LONDON IS OPEN TO NEGOTIATE A ‘RESET’ DEAL - FT
-- 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG SAYS US-LED MULTINATIONAL MILITARY EXERCISES ARE THE PRIMARY CAUSE OF RISING KOREAN PENINSULA TENSIONS
-- 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG SAYS NO SHIFT IN STRATEGY TO STRENGTHEN NUCLEAR WAR DETERRENCE
-- 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG WARNS ARMED FORCES WILL USE “ALL OPTIONS” IF MILITARY SOVEREIGNTY OR SECURITY INTERESTS ARE SERIOUSLY THREATENED
-- 09/18 06:22 [FirstSquawk] IRAN’S IRGC NAVY SAYS IT TARGETED TOGO-FLAGGED OIL TANKER AFTER ALLEGED “ILLEGAL” HORMUZ TRANSIT; TANKER CAUGHT FIRE — FARS
-- 09/18 06:23 [FirstSquawk] US ENERGY DEPARTMENT AUTHORIZES PJM TO DIRECT BACKUP GENERATION RESOURCES AMID HEAT-DRIVEN BLACKOUT RISKS, SECURING MID-ATLANTIC GRID SEPT. 17-18
-- 09/18 06:24 [FirstSquawk] DISNEY URGES US JUDGE TO BLOCK FCC EARLY LICENSE REVIEWS, CITING PRESIDENT TRUMP’S “ONGOING THREATS” — FILING
 - 09/18 06:35 [FirstSquawk] BRAZIL CENTRAL BANK TO OFFER UP TO $1 BILLION IN DOLLAR AUCTION WITH REPURCHASE AGREEMENT ON SEPTEMBER 18
 - 09/18 06:38 [FirstSquawk] F-16 FIGHTER JET CRASHES DURING ROUTINE TRAINING EXERCISE IN GRAND TRAVERSE COUNTY, MICHIGAN; PILOT EJECTS SAFELY AND REMAINS IN STABLE CONDITION, WITH NO OTHER INJURIES REPORTED. - CBS NEWS.
 - 09/18 06:39 [FirstSquawk] IRAN’S IRGC NAVY SAYS TOGO-FLAGGED TANKER TREND WAS HIT AND STOPPED AFTER CATCHING FIRE WHILE ATTEMPTING TO CROSS THE STRAIT OF HORMUZ, WARNING THAT UNAUTHORIZED VESSELS WILL FACE “DESTRUCTION.”
@@ -415,3 +400,9 @@
 - 09/18 17:54 [FirstSquawk] SPOT SILVER INCREASES MORE THAN 3% TO $67.19 PER OUNCE.
 - 09/18 18:00 [financialjuice] EUROZONE CONSTRUCTION OUTPUT MOM ACTUAL 0% (FORECAST -, PREVIOUS -1.34%) $MACRO
 - 09/18 18:02 [FirstSquawk] NATO ALLIES HOLD "ARCTIC SHIELD" DRILL IN GREENLAND.
+- 09/18 18:11 [DeItaone] U.S. COULD RELEASE MORE OIL FROM SPR Energy Secretary Chris Wright says another round of crude loans from the Strategic Petroleum Reserve is a “very real possibility” as higher oil prices and steep futures backwardation boost demand for bar…
+- 09/18 18:12 [FirstSquawk] UKRAINE'S PRESIDENT ZELENSKYY UNVEILS THE NEW CARPATHIAN EIGHT COOPERATION GROUP.
+- 09/18 18:12 [FirstSquawk] SOFTBANK INCREASES CREDIT LINE TO $6.5 BILLION FROM $6.05 BILLION DUE TO RISING AI DEBTS.
+- 09/18 18:17 [FirstSquawk] EU WILL PROVIDE €3.3 BILLION TO UKRAINE ON SEPTEMBER 18, ACCORDING TO VON DER LEYEN.
+- 09/18 18:17 [FirstSquawk] VON DER LEYEN STATES THEY ARE PREPARED FOR COLLABORATIVE DEFENSE INITIATIVES BETWEEN THE EU AND UKRAINE.
+- 09/18 18:17 [FirstSquawk] VON DER LEYEN STATED THAT NECESSARY RADA REFORMS WERE TALKED ABOUT.
