@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 18:54 JST／対象: 09/18 12:54 〜 09/18 18:54 JST（時刻はすべて日本時間）
+生成: 2026-09-18 19:17 JST／対象: 09/18 13:17 〜 09/18 19:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/18 18:11 | 09/18 18:11 | - |
-| FirstSquawk | 93 | 09/18 13:01 | 09/18 18:40 | 42分（17:10→17:53） |
-| financialjuice | 67 | 09/18 13:02 | 09/18 18:46 | ⚠ 52分（13:07→14:00） |
+| DeItaone | 3 | 09/18 18:11 | 09/18 19:08 | 43分（18:11→18:54） |
+| FirstSquawk | 90 | 09/18 13:20 | 09/18 19:14 | 42分（17:10→17:53） |
+| financialjuice | 57 | 09/18 14:00 | 09/18 18:46 | 42分（17:18→18:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 161 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 149 行（統合前 150 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 13:01 [FirstSquawk] Benchmark 20-year Japanese government bond yield rises 1.5bp to 3.850%.
-- 09/18 13:02 [financialjuice] Pakistan army chief urges Iran to rein in Houthis: FT
-- 09/18 13:02 [financialjuice] Venezuela nears deal to transfer $4bn gold reserve to New York: FT
-- 09/18 13:03 [FirstSquawk] FT: Pakistan military chief asks Tehran to exercise restraint over the Houthis.
-- 09/18 13:04 [FirstSquawk] FT: Venezuela is nearing an arrangement to relocate $4 billion of its gold holdings to New York.
-- 09/18 13:04 [financialjuice] Hyundai Motor CEO: US could face spike in Chinese imports without tariffs, other protections
-- 09/18 13:04 [financialjuice] Hyundai Motor CEO: company needs time to collect data from millions of cars before debuting own self-driving tech
-- 09/18 13:04 [financialjuice] Hyundai Motor CEO: Chinese rivals' innovation, advancement and technology are unbelievable
-- 09/18 13:05 [financialjuice] Dollar/yen extends gains after BoJ decision, up 0.68% at 157 yen
-- 09/18 13:05 [financialjuice] Dollar/yen at highest level since Sept. 3
-- 09/18 13:05 [financialjuice] euro/yen rises 0.82% to 180.43 yen
-- 09/18 13:06 [financialjuice] Aussie/yen AUDJPY rises 1.04% to 112.02 yen
-- 09/18 13:07 [FirstSquawk] China Emergency Management Ministry: August disasters resulted in direct economic losses of 36.03 billion yuan.
-- 09/18 13:07 [financialjuice] ❗ BOJ RATE DECISION ACTUAL 1.25% (FORECAST 1.25%, PREVIOUS 1%) $MACRO
-- 09/18 13:12 [FirstSquawk] Benchmark 40-year Japanese government bond yield rises 2bp to 4.135%.
 - 09/18 13:20 [FirstSquawk] WSJ: Singapore dollar remains stable as markets weigh the risk of U.S. dollar debasement.
 - 09/18 13:30 [FirstSquawk] Washington set to allow Iranian leaders into New York for UN meeting despite wartime stand-off - SCMP
 - 09/18 13:32 [FirstSquawk] PAKISTAN IN CRISIS MODE: MARKETS TO SHUT BY 9 PM, FUEL USE SLASHED 50%, FOREIGN TRAVEL RESTRICTED
@@ -184,4 +169,7 @@
 - 09/18 18:36 [FirstSquawk] KREMLIN STATES TEMPORARY ADMINISTRATION IN PLACE, NO FURTHER DECISIONS MADE.
 - 09/18 18:40 [FirstSquawk] ANTHROPIC AND OPENAI ARE SEEKING SMALLER DATA CENTER DEALS TO BOOST AI CAPACITY, ACCORDING TO CNBC SOURCES.
 - 09/18 18:44 [financialjuice] Anthropic, OpenAI mull small UK, Nordics data center deals - CNBC
-- 09/18 18:46 [financialjuice] JP Morgan expects ECB to deliver another 25 bp interest rate hike in March 2027 after a December hike vs prior forecast of rates on hold in 2027.
+- 09/18 18:46 [financialjuice/DeItaone] JP Morgan expects ECB to deliver another 25 bp interest rate hike in March 2027 after a December hike vs prior forecast of rates on hold in 2027.
+- 09/18 19:01 [FirstSquawk] BERKSHIRE HAS APPOINTED WARREN BUFFETT AS CHAIRMAN EMERITUS.
+- 09/18 19:08 [DeItaone] ANTHROPIC BUILDS BIOLOGY LAB TO PUSH AI INTO DRUG DEVELOPMENT Anthropic has quietly established a Bay Area wet lab, moving its life-sciences ambitions beyond computer simulations and into physical biological experiments. The company wants C…
+- 09/18 19:14 [FirstSquawk] RUSSIAN MILITARY STRIKES CARGO SHIP IN ODESA, ACCORDING TO DEFENSE MINISTRY.
