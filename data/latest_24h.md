@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 16:17 JST／対象: 09/17 16:17 〜 09/18 16:17 JST（時刻はすべて日本時間）
+生成: 2026-09-18 16:32 JST／対象: 09/17 16:32 〜 09/18 16:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/17 18:43 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 351 | 09/17 16:17 | 09/18 16:17 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 331 | 09/17 16:19 | 09/18 16:15 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 355 | 09/17 16:47 | 09/18 16:23 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 334 | 09/17 16:35 | 09/18 16:31 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 682 行（統合前 699 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 689 行（統合前 706 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 16:17 [FirstSquawk] HUAWEI IS TRIALING ITS AI CHIPS IN SELECT OVERSEAS MARKETS.
-- 09/17 16:17 [FirstSquawk] CHINA AND US ECONOMIC TEAMS ARE DISCUSSING TARIFFS, SAYS MOFCOM.
-- 09/17 16:17 [FirstSquawk] HUAWEI HOLDS A LARGER SHARE OF CHINA'S AI CHIP MARKET THAN NVIDIA, SAYS XU.
-- 09/17 16:19 [financialjuice] Kazakhstan's oil output seen at 96 mln tons in 2028, 99 million tons in 2029 - IFX
-- 09/17 16:26 [financialjuice] Azerbaijan oil output falls 8.3% y/y to 2.2m tons in August - IFX
 - 09/17 16:35 [financialjuice] Huawei faces constraints in expanding production for AI chips.
 - 09/17 16:47 [FirstSquawk] ECB'S MAKHLOUF SAYS THERE ARE NO SIGNS OF WORRYING SECOND-ROUND EFFECTS.
 - 09/17 16:47 [FirstSquawk] ECB'S MAKHLOUF SAYS FUTURE PROSPECTS ARE UNCERTAIN.
@@ -706,3 +701,15 @@
 - 09/18 16:16 [FirstSquawk] BOJ GOVERNOR UEDA STATED THAT IT'S UNCERTAIN IF THE PIPELINE DISRUPTION IN SAUDI ARABIA WILL LAST LONGER AND MENTIONED THE NEED TO MONITOR THE SITUATION, NOT DISCOUNTING ANY SPECIFIC POLICY ACTIONS.
 - 09/18 16:17 [FirstSquawk] BOJ GOVERNOR UEDA DID NOT EXCLUDE ANY POLICY OPTIONS REGARDING POSSIBLE RATE INCREASES OR A 25 BPS HIKE. HE PLANS TO CONSULT WITH OTHER CENTRAL BANKS ABOUT THEIR RATE HIKE INTENTIONS. UEDA STATED THAT WHILE ANALYSIS IS ESSENTIAL, IT DOES NO…
 - 09/18 16:17 [FirstSquawk] CITIGROUP PREDICTS BANK OF JAPAN WILL INCREASE INTEREST RATES BY 25 BASIS POINTS IN DECEMBER 2026, MARCH AND JULY 2027, SHIFTING FROM AN EARLIER ESTIMATE OF INCREASES IN JANUARY, JUNE, AND DECEMBER 2027.
+- 09/18 16:19 [FirstSquawk] BOJ GOVERNOR UEDA SAYS A LARGE OR REPEATED RATE INCREASE COULD RISK OVERSHOOTING.
+- 09/18 16:19 [FirstSquawk] BOJ GOVERNOR UEDA SAYS THAT AFTER A RATE INCREASE TO 1.5%, THE CONTINUATION OF ACCOMMODATIVE CONDITIONS WILL DEPEND ON ECONOMIC AND FINANCIAL FACTORS AT THAT TIME.
+- 09/18 16:19 [FirstSquawk] BOJ GOVERNOR UEDA AIMS TO TAKE APPROPRIATE ACTIONS TO PREVENT SEVERE MEASURES.
+- 09/18 16:22 [financialjuice] UKMTO gets report of incident in the Strait of Hormuz. Tanker is reported to be hit by unknown projectile.
+- 09/18 16:22 [financialjuice] France Fin. Min. Lescure: Significant effort needed on budget.
+- 09/18 16:23 [financialjuice] France Fin. Min. Lescure: Hopefully we'll have a budget.
+- 09/18 16:23 [FirstSquawk] TANKER REPORTEDLY STRUCK BY UNKNOWN PROJECTILE, ACCORDING TO UKMTO.
+- 09/18 16:23 [FirstSquawk] UKMTO REPORTS INCIDENT IN THE STRAIT OF HORMUZ.
+- 09/18 16:23 [FirstSquawk] FRANCE'S LESCURE EXPRESSES OPTIMISM ABOUT ACHIEVING A BUDGET.
+- 09/18 16:23 [FirstSquawk] BOJ GOVERNOR UEDA STATED THAT DECISIONS ON RAISING INTEREST RATES WILL DEPEND ON ECONOMIC PROJECTIONS AND RISK ASSESSMENTS.
+- 09/18 16:30 [financialjuice] German Fin. Min. Klingbeil: We need instruments like fuel price cap, windfall tax.
+- 09/18 16:31 [financialjuice] German Fin. Min. Klingbeil: Europe and Canada are key partners strategically.
