@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 23:47 JST／対象: 09/18 17:47 〜 09/18 23:47 JST（時刻はすべて日本時間）
+生成: 2026-09-18 23:58 JST／対象: 09/18 17:58 〜 09/18 23:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 70 | 09/18 17:53 | 09/18 23:45 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 46 | 09/18 18:00 | 09/18 23:40 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 70 | 09/18 18:02 | 09/18 23:57 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 48 | 09/18 18:00 | 09/18 23:58 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 119 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 121 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 17:53 [FirstSquawk] US ADMINISTRATION TO ANNOUNCE THAT ALL 50 STATES WILL IMPLEMENT MOST-FAVORED-NATION PRICING FOR SPECIFIC DRUGS IN MEDICAID PROGRAMS.
-- 09/18 17:54 [FirstSquawk] SPOT SILVER INCREASES MORE THAN 3% TO $67.19 PER OUNCE.
 - 09/18 18:00 [financialjuice] EUROZONE CONSTRUCTION OUTPUT MOM ACTUAL 0% (FORECAST -, PREVIOUS -1.34%) $MACRO
 - 09/18 18:02 [FirstSquawk] NATO ALLIES HOLD "ARCTIC SHIELD" DRILL IN GREENLAND.
 - 09/18 18:11 [DeItaone] U.S. COULD RELEASE MORE OIL FROM SPR Energy Secretary Chris Wright says another round of crude loans from the Strategic Petroleum Reserve is a “very real possibility” as higher oil prices and steep futures backwardation boost demand for bar…
@@ -143,3 +141,7 @@
 - 09/18 23:40 [financialjuice] Al Arabiya Sources: Pakistan's Interior Minister is heading to Iran in the coming hours.
 - 09/18 23:44 [FirstSquawk] PAKISTAN'S INTERIOR MINISTER HEADS TO IRAN IN THE COMING HOURS
 - 09/18 23:45 [FirstSquawk] PAKISTANI INTERIOR MINISTER DISCUSSES HOUTHI ESCALATION IN YEMEN DURING TEHRAN VISIT
+- 09/18 23:52 [FirstSquawk] SAUDI PIPELINE BUFFERS GLOBAL OIL MARKETS FROM HORMUZ CHOKEPOINTS Saudi Arabia's East-West Pipeline functions as a critical economic safety valve, allowing millions of barrels of crude to bypass the volatile Strait of Hormuz and flow direct…
+- 09/18 23:56 [financialjuice] AWS signs a 5-year strategic collaboration pact with SAP to expand SAP Business AI platform to 7 new AWS regions. $AMZN $SAP
+- 09/18 23:57 [FirstSquawk] COOLING TOWER AT KURSK NUCLEAR PLANT DAMAGED BY DRONE ATTACK, SAYS IAEA.
+- 09/18 23:58 [financialjuice] IAEA: The cooling tower of the reactor unit in the Russia Kursk plant has been hit by a drone.

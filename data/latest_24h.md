@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 23:47 JST／対象: 09/17 23:47 〜 09/18 23:47 JST（時刻はすべて日本時間）
+生成: 2026-09-18 23:58 JST／対象: 09/17 23:58 〜 09/18 23:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 00:42 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 348 | 09/17 23:53 | 09/18 23:45 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 272 | 09/17 23:47 | 09/18 23:40 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 348 | 09/18 00:01 | 09/18 23:57 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 271 | 09/18 00:19 | 09/18 23:58 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 622 行（統合前 637 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 621 行（統合前 636 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 23:47 [financialjuice] French PM sees budgetary effort of around €54b for 2027 - Le Figaro
-- 09/17 23:51 [financialjuice] French PM Lecornu to Le Figaro: Increase in interest rates will cost additional €10 bln to finance debt servicing cost
-- 09/17 23:52 [financialjuice] French PM Lecornu: Without corrective measures the 2027 budget deficit would exceed 6.5% of GDP
-- 09/17 23:53 [FirstSquawk] FRENCH PM LECORNU: INCREASE IN INTEREST RATES SEEN COSTING ADDITIONAL EUR10 BLN TO FINANCE DEBT SERVICING COST - LE FIGARO
-- 09/17 23:56 [FirstSquawk] FRENCH PM LECORNU: 2027 BUDGET DEFICIT, WITHOUT CORRECTIVE MEASURES, SEEN EXCEEDING 6.5% OF GDP - LE FIGARO
 - 09/18 00:01 [FirstSquawk] US TREASURY TO SELL $69 BLN IN 2-YEAR NOTES (EST $69 BLN)
 - 09/18 00:08 [FirstSquawk] STELLANTIS SAYS THERE IS NO LONG-TERM BUSINESS CASE FOR ITS BRAMPTON PLANT
 - 09/18 00:15 [FirstSquawk] WORKERS AT DIAGEO’S LARGEST DISTILLERY TO GO ON STRIKE AS DEMAND SLUMPS - FT
@@ -646,3 +641,7 @@
 - 09/18 23:40 [financialjuice] Al Arabiya Sources: Pakistan's Interior Minister is heading to Iran in the coming hours.
 - 09/18 23:44 [FirstSquawk] PAKISTAN'S INTERIOR MINISTER HEADS TO IRAN IN THE COMING HOURS
 - 09/18 23:45 [FirstSquawk] PAKISTANI INTERIOR MINISTER DISCUSSES HOUTHI ESCALATION IN YEMEN DURING TEHRAN VISIT
+- 09/18 23:52 [FirstSquawk] SAUDI PIPELINE BUFFERS GLOBAL OIL MARKETS FROM HORMUZ CHOKEPOINTS Saudi Arabia's East-West Pipeline functions as a critical economic safety valve, allowing millions of barrels of crude to bypass the volatile Strait of Hormuz and flow direct…
+- 09/18 23:56 [financialjuice] AWS signs a 5-year strategic collaboration pact with SAP to expand SAP Business AI platform to 7 new AWS regions. $AMZN $SAP
+- 09/18 23:57 [FirstSquawk] COOLING TOWER AT KURSK NUCLEAR PLANT DAMAGED BY DRONE ATTACK, SAYS IAEA.
+- 09/18 23:58 [financialjuice] IAEA: The cooling tower of the reactor unit in the Russia Kursk plant has been hit by a drone.
