@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 15:22 JST／対象: 09/18 03:22 〜 09/18 15:22 JST（時刻はすべて日本時間）
+生成: 2026-09-18 15:41 JST／対象: 09/18 03:41 〜 09/18 15:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/18 06:19 | 09/18 06:19 | - |
-| FirstSquawk | 183 | 09/18 03:33 | 09/18 15:16 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 149 | 09/18 03:31 | 09/18 15:15 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 187 | 09/18 03:49 | 09/18 15:41 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 151 | 09/18 03:45 | 09/18 15:39 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 328 行（統合前 334 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 334 行（統合前 340 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $101.91 a barrel, down 52 cents, 0.51%.
-- 09/18 03:31 [financialjuice] NYMEX Natural Gas October futures settle at $2.9010/MMBtu.
-- 09/18 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.5073 a gallon.
-- 09/18 03:32 [financialjuice] NYMEX Diesel October futures settle at $5.1139 a gallon.
-- 09/18 03:33 [FirstSquawk] US CRUDE FUTURES SETTLE 0.51% LOWER AT $101.91/BBL, DOWN 52 CENTS
-- 09/18 03:37 [financialjuice] State Department: Iran's core delegation is permitted to attend the UNGA.
 - 09/18 03:45 [financialjuice] Brent Crude futures settle at $104.82/bbl, down $1.01, 0.95%.
 - 09/18 03:49 [FirstSquawk] IRANIAN DELEGATION GRANTED VISAS FOR UN GENERAL ASSEMBLY - ABC
 - 09/18 03:49 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.95% LOWER AT $104.82/BBL, DOWN $1.01
@@ -352,3 +346,15 @@
 - 09/18 15:15 [FirstSquawk] Kiuchi says the BOJ is expected to maintain suitable monetary policy aimed at achieving its inflation target in a stable and sustainable manner, in close cooperation with the government.
 - 09/18 15:15 [financialjuice] Japan Economy Minister Kiuchi: Expect BoJ to conduct appropriate monetary policy to sustainably, stably hit its price target, while working closely with government.
 - 09/18 15:16 [FirstSquawk] Japan’s Economy Minister Kiuchi says the BOJ has the authority to decide how monetary policy is implemented.
+- 09/18 15:23 [FirstSquawk] Australia’s benchmark S&P/ASX 200 finishes 0.01% lower at 8,731.20 points.
+- 09/18 15:33 [financialjuice] BoJ Gov Ueda: Japan's economy recovering moderately albeit with some weakness.
+- 09/18 15:33 [FirstSquawk] Hackers linked to North Korea are believed to have taken crypto assets worth at least ¥1.7 billion, according to Kyodo.
+- 09/18 15:33 [financialjuice] BoJ Gov Ueda: Japan's economy likely continue growing moderately.
+- 09/18 15:35 [financialjuice] BoJ Gov Ueda: Must pay attention to impact of Middle East situation, AI-related demand expansion and FX on Japan's economic activity, prices.
+- 09/18 15:35 [financialjuice] BoJ Gov Ueda: Japan's financial conditions have been accommodative.
+- 09/18 15:36 [financialjuice] BoJ Gov Ueda: There is risk of underlying inflation overshooting 2% price target given firms' wage, price setting behavior becoming more aggressive, mid- and long-term inflation expectations rising.
+- 09/18 15:36 [financialjuice] BoJ's Gov Ueda: To keep raising rate in response to economy, prices.
+- 09/18 15:37 [FirstSquawk] BOJ Governor Ueda says Japan’s financial conditions are still supportive.
+- 09/18 15:38 [FirstSquawk] BOJ Governor Ueda says the policy adjustment was aimed at securing the 2% inflation target on a stable and sustainable basis.
+- 09/18 15:39 [financialjuice] BoJ Gov Ueda: Middle East situation continues to be uncertain.
+- 09/18 15:41 [FirstSquawk] Ueda warns that the BOJ needs to closely monitor potential upward pressure on inflation, particularly from developments in the Middle East.

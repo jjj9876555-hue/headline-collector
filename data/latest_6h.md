@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 15:22 JST／対象: 09/18 09:22 〜 09/18 15:22 JST（時刻はすべて日本時間）
+生成: 2026-09-18 15:41 JST／対象: 09/18 09:41 〜 09/18 15:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 124 | 09/18 09:22 | 09/18 15:16 | 13分（14:47→15:01） |
-| financialjuice | 102 | 09/18 09:26 | 09/18 15:15 | ⚠ 52分（13:07→14:00） |
+| FirstSquawk | 121 | 09/18 09:45 | 09/18 15:41 | 13分（14:47→15:01） |
+| financialjuice | 105 | 09/18 09:45 | 09/18 15:39 | ⚠ 52分（13:07→14:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 226 行（統合前 226 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,18 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 09:22 [FirstSquawk] JAPAN 2-YEAR JGB YIELD FALLS 1 BP TO 1.85%
-- 09/18 09:24 [FirstSquawk] 2-year JGB yield declines 1 bp to 1.85%
-- 09/18 09:24 [FirstSquawk] 10-year JGB yield declines to 2.955%, down 3.5 bps
-- 09/18 09:26 [financialjuice] China PBOC seen setting yuan mid-point at 6.7065 per dollar: estimate
-- 09/18 09:26 [financialjuice] RBA Governor Bullock: companies now more likely to transfer cost hikes
-- 09/18 09:26 [FirstSquawk] Petronas, Woodside tout alternatives to Mideast LNG for Asian buyers
-- 09/18 09:31 [FirstSquawk] Gold prices climb, likely aided by lower oil prices - wsj
-- 09/18 09:31 [FirstSquawk] Nikkei advances 0.8% with chip stocks leading the gains - WSJ
-- 09/18 09:36 [FirstSquawk] Luna says foreign influence networks are working to promote communist ideology in America
-- 09/18 09:36 [financialjuice] New Zealand foreign minister spokesperson: no talks with EU on New Zealand joining as associate member
-- 09/18 09:40 [financialjuice] RBA Governor Bullock: decline in housing prices isn't that significant overall
-- 09/18 09:40 [FirstSquawk] RBA Governor Bullock says housing price decline is not significant overall
 - 09/18 09:45 [financialjuice] RBA Governor Bullock: considering if policy is tight enough
 - 09/18 09:45 [FirstSquawk] Bullock: RBA is thinking about whether policy settings are tight enough
 - 09/18 09:49 [FirstSquawk] Oil declines amid easing concerns over Middle East supply disruptions - WSJ
@@ -250,3 +238,15 @@
 - 09/18 15:15 [FirstSquawk] Kiuchi says the BOJ is expected to maintain suitable monetary policy aimed at achieving its inflation target in a stable and sustainable manner, in close cooperation with the government.
 - 09/18 15:15 [financialjuice] Japan Economy Minister Kiuchi: Expect BoJ to conduct appropriate monetary policy to sustainably, stably hit its price target, while working closely with government.
 - 09/18 15:16 [FirstSquawk] Japan’s Economy Minister Kiuchi says the BOJ has the authority to decide how monetary policy is implemented.
+- 09/18 15:23 [FirstSquawk] Australia’s benchmark S&P/ASX 200 finishes 0.01% lower at 8,731.20 points.
+- 09/18 15:33 [financialjuice] BoJ Gov Ueda: Japan's economy recovering moderately albeit with some weakness.
+- 09/18 15:33 [FirstSquawk] Hackers linked to North Korea are believed to have taken crypto assets worth at least ¥1.7 billion, according to Kyodo.
+- 09/18 15:33 [financialjuice] BoJ Gov Ueda: Japan's economy likely continue growing moderately.
+- 09/18 15:35 [financialjuice] BoJ Gov Ueda: Must pay attention to impact of Middle East situation, AI-related demand expansion and FX on Japan's economic activity, prices.
+- 09/18 15:35 [financialjuice] BoJ Gov Ueda: Japan's financial conditions have been accommodative.
+- 09/18 15:36 [financialjuice] BoJ Gov Ueda: There is risk of underlying inflation overshooting 2% price target given firms' wage, price setting behavior becoming more aggressive, mid- and long-term inflation expectations rising.
+- 09/18 15:36 [financialjuice] BoJ's Gov Ueda: To keep raising rate in response to economy, prices.
+- 09/18 15:37 [FirstSquawk] BOJ Governor Ueda says Japan’s financial conditions are still supportive.
+- 09/18 15:38 [FirstSquawk] BOJ Governor Ueda says the policy adjustment was aimed at securing the 2% inflation target on a stable and sustainable basis.
+- 09/18 15:39 [financialjuice] BoJ Gov Ueda: Middle East situation continues to be uncertain.
+- 09/18 15:41 [FirstSquawk] Ueda warns that the BOJ needs to closely monitor potential upward pressure on inflation, particularly from developments in the Middle East.
