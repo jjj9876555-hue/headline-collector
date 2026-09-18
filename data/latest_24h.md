@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 19:46 JST／対象: 09/17 19:46 〜 09/18 19:46 JST（時刻はすべて日本時間）
+生成: 2026-09-18 19:58 JST／対象: 09/17 19:58 〜 09/18 19:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 13 | 09/17 21:58 | 09/18 19:08 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 351 | 09/17 19:54 | 09/18 19:39 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 301 | 09/17 19:47 | 09/18 19:40 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 362 | 09/17 20:00 | 09/18 19:57 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 303 | 09/17 20:00 | 09/18 19:56 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 654 行（統合前 671 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 667 行（統合前 684 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 19:47 [financialjuice] Canada's PM Carney: Nobody will dictate who we strike agreements with
-- 09/17 19:54 [FirstSquawk] SWISS UPPER HOUSE POSTPONES VOTE ON UBS CAPITAL RULES, TO VOTE SEP 23RD
-- 09/17 19:57 [FirstSquawk] ECB REHN: CURRENTLY NO NEED FOR USE OF ECB INSTRUMENTS LIKE TPI
 - 09/17 20:00 [FirstSquawk] BOE INTEREST RATE DECISION (SEP) ACTUAL: 3.75% VS 3.75% PREVIOUS; EST 3.75%
 - 09/17 20:00 [financialjuice] ‼ BREAKING: BOE BANK RATE ACTUAL 3.75% (FORECAST 3.75%, PREVIOUS 3.75%) $MACRO
 - 09/17 20:00 [financialjuice] BOE MPC VOTE HIKE ACTUAL 3 (FORECAST 3, PREVIOUS 3) $MACRO
@@ -678,3 +675,19 @@
 - 09/18 19:39 [FirstSquawk] RUSSIA ATTACKED FOUR SHIPS IN THE BLACK SEA NEAR UKRAINIAN PORTS, REPORTS IFX.
 - 09/18 19:39 [FirstSquawk] ITALY'S ECONOMY MINISTER SAYS DEBT LEVELS ARE INCREASING QUICKLY.
 - 09/18 19:40 [financialjuice] France Fin. Min. Lescure: 3% deficit is “a target we should all have in mind".
+- 09/18 19:47 [FirstSquawk] LESCURE SAYS EU'S CLOSER RELATIONSHIP WITH CANADA IS A FANTASTIC IDEA.
+- 09/18 19:47 [FirstSquawk] EU ECONOMIC COMMISSIONER DOMBROVSKI SAYS RISING BOND YIELDS WILL AFFECT ALL OF EUROPE, CALLS FOR STRONG FISCAL POLICIES.
+- 09/18 19:48 [FirstSquawk] LESCURE SAYS ECB IS PERFORMING ITS DUTIES.
+- 09/18 19:48 [FirstSquawk] FRENCH 10-YEAR BOND YIELD PREMIUM OVER GERMAN BUNDS INCREASES TO 100 BASIS POINTS.
+- 09/18 19:49 [FirstSquawk] ECB'S LAGARDE EXPECTS DIGITAL EURO LAWS TO BE FINISHED THIS YEAR.
+- 09/18 19:49 [FirstSquawk] ECB'S LAGARDE SAYS ECONOMIC FUTURE IS UNCERTAIN.
+- 09/18 19:50 [financialjuice] ECB's President Lagarde: Rates do not move in lockstep with price of energy, other factors, growth and consumption, also play a role.
+- 09/18 19:50 [FirstSquawk] ECB'S LAGARDE SAYS INTEREST RATES DO NOT RISE OR FALL TOGETHER WITH ENERGY PRICES.
+- 09/18 19:50 [FirstSquawk] ECB'S LAGARDE STATES THAT GROWTH AND CONSUMPTION ARE IMPORTANT FACTORS TOO.
+- 09/18 19:55 [FirstSquawk] EU ECONOMIC COMMISSIONER STATED MARKETS HAVE REPRICED, HIGHLIGHTING THE NEED FOR CAREFUL FISCAL POLICIES.
+- 09/18 19:55 [financialjuice] EU Economic Commissioner: There is repricing done by markets, but that is why we need prudent fiscal policies.
+- 09/18 19:56 [financialjuice] ECB's President Lagarde: Clear that energy is a significant variable. We are well positioned to respond.
+- 09/18 19:56 [FirstSquawk] ECB'S LAGARDE ANNOUNCES CALM REACTION TO PRESENT CONDITIONS.
+- 09/18 19:57 [FirstSquawk] ECB'S LAGARDE SAYS ENERGY IS AN IMPORTANT FACTOR.
+- 09/18 19:57 [FirstSquawk] ECB'S LAGARDE SAYS THEY ARE READY TO TAKE ACTION.
+- 09/18 19:57 [FirstSquawk] ECB'S LAGARDE PROMISES TO HANDLE ISSUES ON A MEETING-BY-MEETING BASIS.

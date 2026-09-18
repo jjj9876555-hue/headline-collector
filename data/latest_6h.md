@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 19:46 JST／対象: 09/18 13:46 〜 09/18 19:46 JST（時刻はすべて日本時間）
+生成: 2026-09-18 19:58 JST／対象: 09/18 13:58 〜 09/18 19:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/18 18:11 | 09/18 19:08 | 43分（18:11→18:54） |
-| FirstSquawk | 89 | 09/18 13:52 | 09/18 19:39 | 42分（17:10→17:53） |
-| financialjuice | 61 | 09/18 14:00 | 09/18 19:40 | 42分（17:18→18:00） |
+| FirstSquawk | 101 | 09/18 14:00 | 09/18 19:57 | 42分（17:10→17:53） |
+| financialjuice | 64 | 09/18 14:00 | 09/18 19:56 | 42分（17:18→18:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 152 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 167 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 13:52 [FirstSquawk] FXStreet: WTI crude consolidates below $96.50 as Middle East tensions continue to support bullish sentiment.
 - 09/18 14:00 [FirstSquawk] A cargo vessel in Ukraine’s Chornomorsk was hit by Russia, according to Russian news agencies citing the Defence Ministry.
 - 09/18 14:00 [financialjuice] Russia strikes cargo ship in Ukraine's Chornomorsk: Russian news agencies cite defense ministry
 - 09/18 14:00 [financialjuice] Sterling/yen gbpjpy rises 0.82% to 209.93 yen
@@ -176,3 +175,19 @@
 - 09/18 19:39 [FirstSquawk] RUSSIA ATTACKED FOUR SHIPS IN THE BLACK SEA NEAR UKRAINIAN PORTS, REPORTS IFX.
 - 09/18 19:39 [FirstSquawk] ITALY'S ECONOMY MINISTER SAYS DEBT LEVELS ARE INCREASING QUICKLY.
 - 09/18 19:40 [financialjuice] France Fin. Min. Lescure: 3% deficit is “a target we should all have in mind".
+- 09/18 19:47 [FirstSquawk] LESCURE SAYS EU'S CLOSER RELATIONSHIP WITH CANADA IS A FANTASTIC IDEA.
+- 09/18 19:47 [FirstSquawk] EU ECONOMIC COMMISSIONER DOMBROVSKI SAYS RISING BOND YIELDS WILL AFFECT ALL OF EUROPE, CALLS FOR STRONG FISCAL POLICIES.
+- 09/18 19:48 [FirstSquawk] LESCURE SAYS ECB IS PERFORMING ITS DUTIES.
+- 09/18 19:48 [FirstSquawk] FRENCH 10-YEAR BOND YIELD PREMIUM OVER GERMAN BUNDS INCREASES TO 100 BASIS POINTS.
+- 09/18 19:49 [FirstSquawk] ECB'S LAGARDE EXPECTS DIGITAL EURO LAWS TO BE FINISHED THIS YEAR.
+- 09/18 19:49 [FirstSquawk] ECB'S LAGARDE SAYS ECONOMIC FUTURE IS UNCERTAIN.
+- 09/18 19:50 [financialjuice] ECB's President Lagarde: Rates do not move in lockstep with price of energy, other factors, growth and consumption, also play a role.
+- 09/18 19:50 [FirstSquawk] ECB'S LAGARDE SAYS INTEREST RATES DO NOT RISE OR FALL TOGETHER WITH ENERGY PRICES.
+- 09/18 19:50 [FirstSquawk] ECB'S LAGARDE STATES THAT GROWTH AND CONSUMPTION ARE IMPORTANT FACTORS TOO.
+- 09/18 19:55 [FirstSquawk] EU ECONOMIC COMMISSIONER STATED MARKETS HAVE REPRICED, HIGHLIGHTING THE NEED FOR CAREFUL FISCAL POLICIES.
+- 09/18 19:55 [financialjuice] EU Economic Commissioner: There is repricing done by markets, but that is why we need prudent fiscal policies.
+- 09/18 19:56 [financialjuice] ECB's President Lagarde: Clear that energy is a significant variable. We are well positioned to respond.
+- 09/18 19:56 [FirstSquawk] ECB'S LAGARDE ANNOUNCES CALM REACTION TO PRESENT CONDITIONS.
+- 09/18 19:57 [FirstSquawk] ECB'S LAGARDE SAYS ENERGY IS AN IMPORTANT FACTOR.
+- 09/18 19:57 [FirstSquawk] ECB'S LAGARDE SAYS THEY ARE READY TO TAKE ACTION.
+- 09/18 19:57 [FirstSquawk] ECB'S LAGARDE PROMISES TO HANDLE ISSUES ON A MEETING-BY-MEETING BASIS.
