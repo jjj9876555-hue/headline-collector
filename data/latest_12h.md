@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 02:14 JST／対象: 09/18 14:14 〜 09/19 02:14 JST（時刻はすべて日本時間）
+生成: 2026-09-19 02:30 JST／対象: 09/18 14:30 〜 09/19 02:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 167 | 09/18 14:16 | 09/19 02:05 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 122 | 09/18 14:22 | 09/19 02:01 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 166 | 09/18 14:31 | 09/19 02:22 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 121 | 09/18 14:31 | 09/19 02:01 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 289 行（統合前 296 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 287 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 14:16 [FirstSquawk] Japan’s central bank pushes interest rates to their highest point in three decades, CNBC reports.
-- 09/18 14:22 [financialjuice] Japan on track to secure enough oil for November - Refiners
-- 09/18 14:24 [FirstSquawk] FT reports that Europe may boost equity trading by creating fewer but more effective markets.
 - 09/18 14:31 [financialjuice] ECB's Vujcic: Market pricing of rate path is mainly consequence of rising energy prices.
 - 09/18 14:31 [financialjuice] ECB's Vujcic: If inflation remains high through autumn and affects consumers, that will dampen GDP.
 - 09/18 14:31 [financialjuice] ECB's Vujcic: We do not look solely at energy prices, but at much broader set of data.
@@ -313,3 +310,4 @@
 - 09/19 02:01 [FirstSquawk] US OIL RIG COUNT UP 2 TO 452 , BAKER HUGHES SAYS
 - 09/19 02:04 [FirstSquawk] CANADA INDUSTRY MINISTER: STELLANTIS MUST REOPEN ONTARIO PLANT OR RETURN GOVT MONEY
 - 09/19 02:05 [FirstSquawk] WHITE HOUSE OFFICIAL: TRUMP PLANS TO SIGN THE RUSSIA SANCTIONS BILL TODAY - CBS
+- 09/19 02:22 [FirstSquawk] 3 COUNTERPARTIES TAKE $576.000M AT FED REVERSE REPO OP.

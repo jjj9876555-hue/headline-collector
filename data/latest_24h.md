@@ -7,35 +7,28 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 02:14 JST／対象: 09/18 02:14 〜 09/19 02:14 JST（時刻はすべて日本時間）
+生成: 2026-09-19 02:30 JST／対象: 09/18 02:30 〜 09/19 02:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/18 02:53 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 352 | 09/18 02:24 | 09/19 02:05 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 266 | 09/18 02:20 | 09/19 02:01 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 349 | 09/18 02:31 | 09/19 02:22 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 262 | 09/18 02:30 | 09/19 02:01 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 615 行（統合前 630 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 609 行（統合前 623 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 02:20 [financialjuice/FirstSquawk] Iraqi Prime Minister to visit US and meet with Trump next week - Mehr News
-- 09/18 02:20 [financialjuice] Iraqi Prime Minister's to visit US and meet with Trump next week to discuss bilateral relations and regional developments - Mehr News
-- 09/18 02:21 [financialjuice] Iraqi Prime Minister to visit US and meet with Trump next week to discuss bilateral relations and regional developments - Mehr News
-- 09/18 02:24 [FirstSquawk] SPACEX: NOW TARGETING TO LAUNCH STARSHIP FLIGHT 14 AS EARLY AS MONDAY, SEPTEMBER 28, PENDING REGULATORY APPROVAL
-- 09/18 02:26 [financialjuice] Trump: Progress made toward US army base in Poland.
-- 09/18 02:28 [FirstSquawk] OIL PRICES FLUCTUATED AS SAUDI ARABIA MOVED TO RESTORE ABOUT HALF OF ITS EAST-WEST PIPELINE CAPACITY WITHIN DAYS AFTER LAST WEEK'S DRONE ATTACK SHUTDOWN, EASING SOME IMMEDIATE SUPPLY CONCERNS. BRENT TRADED NEAR $105 AND WTI AROUND $102, WHI…
-- 09/18 02:28 [FirstSquawk] DESPITE EASING DISRUPTIONS, MIDDLE EAST SUPPLY RISKS REMAIN ELEVATED DUE TO THE U.S.-IRAN WAR, HOUTHI THREATS TO KEY SHIPPING ROUTES, AND THE RUSSIA-UKRAINE CONFLICT, KEEPING MARKETS TIGHT. ANALYSTS SAY UNCERTAINTY OVER THE CONFLICT'S ENDGA…
-- 09/18 02:28 [FirstSquawk] OIL HAS SURGED MORE THAN 70% THIS YEAR, ADDING TO GLOBAL INFLATION PRESSURES AND REINFORCING EXPECTATIONS FOR TIGHTER MONETARY POLICY. NEW U.S. TARIFF POWERS TARGETING BUYERS OF RUSSIAN PETROLEUM PRODUCTS AND CONTINUED ATTACKS ON RUSSIAN RE…
 - 09/18 02:30 [financialjuice/FirstSquawk] US imposes sanctions on BitBank cryptocurrency exchange, accusing it of enabling Iranian government - Statement
 - 09/18 02:31 [FirstSquawk] TRUMP SAYS 'GREAT NEWS' THAT, THANKS TO THE 'BOLD LEADERSHIP' OF HIS FRIEND KAROL NAWROCKI, PRESIDENT OF POLAND, 'MAJOR PROGRESS IS BEING MADE TOWARD ESTABLISHING A U.S. ARMY BASE IN POLAND', ADDING THAT IF IT HAPPENS THE LOCATION WILL BE A…
 - 09/18 02:31 [FirstSquawk] FAA SEES $100M TARIFF IMPACT ON AIR TRAFFIC CONTROL MODERNIZATION COSTS — ADMINISTRATOR BEDFORD
 - 09/18 02:32 [FirstSquawk] PFIZER & BIONTECH’S UPDATED OMICRON XFG COVID-19 VACCINE AUTHORIZED BY HEALTH CANADA; DISTRIBUTION TO BEGIN IN COMING DAYS AND WEEKS
+- 09/18 02:34 [FirstSquawk] IRAQI PRIME MINISTER TO VISIT US AND MEET WITH TRUMP NEXT WEEK - MEHR NEWS
 - 09/18 02:34 [FirstSquawk] IRAQI PRIME MINISTER AND TRUMP TO DISCUSS BILATERAL RELATIONS AND REGIONAL DEVELOPMENTS - MEHR NEWS
 - 09/18 02:34 [financialjuice] OpenA and Nvidia CEOs to attend Trump-Xi state dinner - ABC. $NVDA
 - 09/18 02:34 [financialjuice] OpenAI and Nvidia CEOs to attend Trump-Xi state dinner - ABC. citing soruces $NVDA
@@ -639,3 +632,4 @@
 - 09/19 02:01 [FirstSquawk] US OIL RIG COUNT UP 2 TO 452 , BAKER HUGHES SAYS
 - 09/19 02:04 [FirstSquawk] CANADA INDUSTRY MINISTER: STELLANTIS MUST REOPEN ONTARIO PLANT OR RETURN GOVT MONEY
 - 09/19 02:05 [FirstSquawk] WHITE HOUSE OFFICIAL: TRUMP PLANS TO SIGN THE RUSSIA SANCTIONS BILL TODAY - CBS
+- 09/19 02:22 [FirstSquawk] 3 COUNTERPARTIES TAKE $576.000M AT FED REVERSE REPO OP.

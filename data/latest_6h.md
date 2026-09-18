@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 02:14 JST／対象: 09/18 20:14 〜 09/19 02:14 JST（時刻はすべて日本時間）
+生成: 2026-09-19 02:30 JST／対象: 09/18 20:30 〜 09/19 02:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/18 20:26 | 09/18 20:26 | - |
-| FirstSquawk | 64 | 09/18 21:09 | 09/19 02:05 | 31分（22:36→23:07） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 65 | 09/18 21:09 | 09/19 02:22 | 31分（22:36→23:07） |
 | financialjuice | 59 | 09/18 21:00 | 09/19 02:01 | 29分（21:31→22:00） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 20:26 [DeItaone] SAUDI ARAMCO CUTS EUROPEAN OIL ALLOCATIONS Saudi Aramco has reportedly told European customers they will receive no crude allocations next month, extending supply disruptions caused by the attack on the East-West pipeline. The halt has alre…
 - 09/18 21:00 [financialjuice] Secured Overnight Financing Rate 3.85% September 17 vs 3.62% September 16.
 - 09/18 21:00 [financialjuice] Morning Juice – US Session Prep (17th September)
 - 09/18 21:01 [financialjuice] France's Pres. Macron: France was targeted by Russian hybrid attacks in the past few weeks.
@@ -145,3 +144,4 @@
 - 09/19 02:01 [FirstSquawk] US OIL RIG COUNT UP 2 TO 452 , BAKER HUGHES SAYS
 - 09/19 02:04 [FirstSquawk] CANADA INDUSTRY MINISTER: STELLANTIS MUST REOPEN ONTARIO PLANT OR RETURN GOVT MONEY
 - 09/19 02:05 [FirstSquawk] WHITE HOUSE OFFICIAL: TRUMP PLANS TO SIGN THE RUSSIA SANCTIONS BILL TODAY - CBS
+- 09/19 02:22 [FirstSquawk] 3 COUNTERPARTIES TAKE $576.000M AT FED REVERSE REPO OP.
