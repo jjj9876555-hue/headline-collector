@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 06:51 JST／対象: 09/18 18:51 〜 09/19 06:51 JST（時刻はすべて日本時間）
+生成: 2026-09-19 07:04 JST／対象: 09/18 19:04 〜 09/19 07:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/18 18:54 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 119 | 09/18 19:01 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 118 | 09/18 19:18 | 09/19 06:47 | ⚠ 53分（20:06→21:00） |
+| DeItaone | 9 | 09/18 19:08 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
+| FirstSquawk | 118 | 09/18 19:14 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 120 | 09/18 19:18 | 09/19 07:02 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 242 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 18:54 [DeItaone] JP MORGAN EXPECTS ECB TO DELIVER ANOTHER 25 BP INTEREST RATE HIKE IN MARCH 2027 AFTER A DECEMBER HIKE VS PRIOR FORECAST OF RATES ON HOLD IN 2027
-- 09/18 19:01 [FirstSquawk] BERKSHIRE HAS APPOINTED WARREN BUFFETT AS CHAIRMAN EMERITUS.
 - 09/18 19:08 [DeItaone] ANTHROPIC BUILDS BIOLOGY LAB TO PUSH AI INTO DRUG DEVELOPMENT Anthropic has quietly established a Bay Area wet lab, moving its life-sciences ambitions beyond computer simulations and into physical biological experiments. The company wants C…
 - 09/18 19:14 [FirstSquawk] RUSSIAN MILITARY STRIKES CARGO SHIP IN ODESA, ACCORDING TO DEFENSE MINISTRY.
 - 09/18 19:17 [FirstSquawk] EU SPOKESPERSON ANNOUNCED AN EU-CANADA SUMMIT AT THE END OF OCTOBER TO DISCUSS IMPROVING RELATIONS.
@@ -266,3 +264,5 @@
 - 09/19 06:46 [financialjuice] Danish PM office: Greenland, Denmark, US to sign deal next week boosting security in Arctic and North Atlantic region
 - 09/19 06:46 [financialjuice] Flights at Luxembourg paused amid unauthorized drone activity, says Flightradar24
 - 09/19 06:47 [financialjuice] White House: 2025 proclamation on H-1B visas extended by 12 months
+- 09/19 06:54 [financialjuice] Saudi civil defense issues warning over potential threat in Farasan
+- 09/19 07:02 [financialjuice] Saudi civil defense: danger has subsided in Farasan

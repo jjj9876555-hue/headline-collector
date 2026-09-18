@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 06:51 JST／対象: 09/18 06:51 〜 09/19 06:51 JST（時刻はすべて日本時間）
+生成: 2026-09-19 07:04 JST／対象: 09/18 07:04 〜 09/19 07:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
 | FirstSquawk | 337 | 09/18 07:10 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 283 | 09/18 07:45 | 09/19 06:47 | ⚠ 53分（20:06→21:00） |
+| financialjuice | 285 | 09/18 07:45 | 09/19 07:02 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 625 行（統合前 634 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 627 行（統合前 636 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -649,3 +649,5 @@
 - 09/19 06:46 [financialjuice] Danish PM office: Greenland, Denmark, US to sign deal next week boosting security in Arctic and North Atlantic region
 - 09/19 06:46 [financialjuice] Flights at Luxembourg paused amid unauthorized drone activity, says Flightradar24
 - 09/19 06:47 [financialjuice] White House: 2025 proclamation on H-1B visas extended by 12 months
+- 09/19 06:54 [financialjuice] Saudi civil defense issues warning over potential threat in Farasan
+- 09/19 07:02 [financialjuice] Saudi civil defense: danger has subsided in Farasan
