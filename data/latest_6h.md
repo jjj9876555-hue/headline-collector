@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 09:07 JST／対象: 09/18 03:07 〜 09/18 09:07 JST（時刻はすべて日本時間）
+生成: 2026-09-18 09:31 JST／対象: 09/18 03:31 〜 09/18 09:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/18 06:19 | 09/18 06:19 | - |
-| FirstSquawk | 53 | 09/18 03:21 | 09/18 09:03 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 48 | 09/18 03:13 | 09/18 08:55 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 64 | 09/18 03:33 | 09/18 09:31 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 49 | 09/18 03:31 | 09/18 09:26 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 97 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 109 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 03:13 [financialjuice] Trump and Mexico's President Sheinbaum are close to a trade agreement - Politico.
-- 09/18 03:21 [FirstSquawk] EU’S VON DER LEYEN SAYS EU WILL DISBURSE ANOTHER €3.3B TO UKRAINE FOR MISSILE & DRONE PROCUREMENT TOMORROW
 - 09/18 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $101.91 a barrel, down 52 cents, 0.51%.
 - 09/18 03:31 [financialjuice] NYMEX Natural Gas October futures settle at $2.9010/MMBtu.
 - 09/18 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.5073 a gallon.
@@ -121,3 +119,17 @@
 - 09/18 09:02 [FirstSquawk] KOSPI gains more than 2% in Seoul trading
 - 09/18 09:03 [FirstSquawk] Trump: Iranian radar destroyed, leaving ships with no night-time visibility
 - 09/18 09:03 [FirstSquawk] Toyota targets deployment of 400,000 humanoid robots in manufacturing operations
+- 09/18 09:15 [FirstSquawk] NEW ZEALAND FOREIGN MINISTRY DENIES DISCUSSIONS WITH EU OVER NEW ZEALAND BECOMING AN ASSOCIATE MEMBER
+- 09/18 09:18 [FirstSquawk] EUROPEAN STOCK FUTURES SLIP: EUROSTOXX 50 -0.3%, DAX -0.5%, FTSE -0.2%
+- 09/18 09:18 [FirstSquawk] European stocks set for a weaker open as futures decline across the region
+- 09/18 09:18 [FirstSquawk] New Zealand foreign ministry spokesperson: No discussions with EU on associate membership
+- 09/18 09:19 [FirstSquawk] Nikkei climbs 1% in Tokyo trading
+- 09/18 09:19 [FirstSquawk] SoftBank Group shares gain 5% in Tokyo trading
+- 09/18 09:21 [FirstSquawk] China’s Wang Yi urges stronger communication and cooperation in call with US Secretary of State Rubio
+- 09/18 09:22 [FirstSquawk] JAPAN 2-YEAR JGB YIELD FALLS 1 BP TO 1.85%
+- 09/18 09:24 [FirstSquawk] 2-year JGB yield declines 1 bp to 1.85%
+- 09/18 09:24 [FirstSquawk] 10-year JGB yield declines to 2.955%, down 3.5 bps
+- 09/18 09:26 [financialjuice] China PBOC seen setting yuan mid-point at 6.7065 per dollar: estimate
+- 09/18 09:26 [financialjuice] RBA Governor Bullock: companies now more likely to transfer cost hikes
+- 09/18 09:26 [FirstSquawk] Petronas, Woodside tout alternatives to Mideast LNG for Asian buyers
+- 09/18 09:31 [FirstSquawk] Gold prices climb, likely aided by lower oil prices - wsj

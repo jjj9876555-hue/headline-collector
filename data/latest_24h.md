@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 09:07 JST／対象: 09/17 09:07 〜 09/18 09:07 JST（時刻はすべて日本時間）
+生成: 2026-09-18 09:31 JST／対象: 09/17 09:31 〜 09/18 09:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 334 | 09/17 09:07 | 09/18 09:03 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 266 | 09/17 09:08 | 09/18 08:55 | ⚠ 78分（10:31→11:49） |
+| FirstSquawk | 331 | 09/17 09:31 | 09/18 09:31 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 266 | 09/17 09:40 | 09/18 09:26 | ⚠ 78分（10:31→11:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 601 行（統合前 618 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 598 行（統合前 615 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 09:07 [FirstSquawk] TRUMP SAYS IRAN IS NOT READY FOR A DEAL, BUT WAR WITH IRAN WILL END “VERY SOON”
-- 09/17 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.2% TO 8,714 IN EARLY TRADE
-- 09/17 09:08 [financialjuice] Trump: we're very close to an agreement with Mexico
-- 09/17 09:08 [FirstSquawk] TRUMP SAYS US IS “VERY CLOSE” TO A DEAL WITH MEXICO
-- 09/17 09:08 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN $1 TO $101.36/BBL
-- 09/17 09:13 [FirstSquawk] Trump on Iran: Predicts the war will “end very soon” and says his administration has transformed the US from a “dark age” into a “golden age.”
-- 09/17 09:15 [FirstSquawk] Trump expected to meet Gulf leaders in New York next week as Washington weighs its next steps on Iran. The talks, expected on the sidelines of the UN General Assembly, are set to focus on US proposals for a postwar strategy and the broader …
-- 09/17 09:16 [FirstSquawk] European stocks look poised to open modestly higher, as futures for the Euro Stoxx 50, DAX and FTSE each trade about 0.2% higher.
-- 09/17 09:18 [FirstSquawk] 10-year JGB yield moves below 3%, down 0.5bp at 2.99%.
-- 09/17 09:19 [FirstSquawk] The renewed prospect of higher US interest rates is reshaping market positioning, as investors weigh potential beneficiaries of elevated yields and continued inflation pressure - Benzinga
-- 09/17 09:20 [FirstSquawk] Trump: Says Washington and Mexico are nearing a new agreement, calling it a “great deal.”
-- 09/17 09:21 [FirstSquawk] Apple's Cook: To Attend Trump Dinner For China's Xi Next Week
-- 09/17 09:23 [FirstSquawk] Axios reports the meeting may include a wider group of leaders from Arab and Islamic countries.
-- 09/17 09:24 [FirstSquawk] US Fed delivers its first rate hike since July 2023, lifting the federal funds target range by 25bp to 3.75%-4% amid ongoing inflation pressure.
-- 09/17 09:24 [financialjuice] China PBOC seen setting yuan midpoint at 6.7241 per dollar: estimate
-- 09/17 09:28 [FirstSquawk] Trump on Iran: Says Americans are paying a higher gas price, but described it as “a very inexpensive price to pay” for what the US has achieved.
-- 09/17 09:30 [FirstSquawk] Trump says Iran has suffered major destruction, adding that the country “cannot go on.”
 - 09/17 09:31 [FirstSquawk] According to the New York Times, the Trump administration is taking steps that could remove a core protection provided by the Endangered Species Act.
 - 09/17 09:32 [FirstSquawk] 20-year JGB yield drops 2bp to 3.835%, marking a modest decline in Japan’s long-term bond market.
 - 09/17 09:35 [FirstSquawk] Treasury yields move modestly lower: US 10-year yield falls to 4.99%, while the 30-year yield declines to 5.33%.
@@ -625,3 +608,17 @@
 - 09/18 09:02 [FirstSquawk] KOSPI gains more than 2% in Seoul trading
 - 09/18 09:03 [FirstSquawk] Trump: Iranian radar destroyed, leaving ships with no night-time visibility
 - 09/18 09:03 [FirstSquawk] Toyota targets deployment of 400,000 humanoid robots in manufacturing operations
+- 09/18 09:15 [FirstSquawk] NEW ZEALAND FOREIGN MINISTRY DENIES DISCUSSIONS WITH EU OVER NEW ZEALAND BECOMING AN ASSOCIATE MEMBER
+- 09/18 09:18 [FirstSquawk] EUROPEAN STOCK FUTURES SLIP: EUROSTOXX 50 -0.3%, DAX -0.5%, FTSE -0.2%
+- 09/18 09:18 [FirstSquawk] European stocks set for a weaker open as futures decline across the region
+- 09/18 09:18 [FirstSquawk] New Zealand foreign ministry spokesperson: No discussions with EU on associate membership
+- 09/18 09:19 [FirstSquawk] Nikkei climbs 1% in Tokyo trading
+- 09/18 09:19 [FirstSquawk] SoftBank Group shares gain 5% in Tokyo trading
+- 09/18 09:21 [FirstSquawk] China’s Wang Yi urges stronger communication and cooperation in call with US Secretary of State Rubio
+- 09/18 09:22 [FirstSquawk] JAPAN 2-YEAR JGB YIELD FALLS 1 BP TO 1.85%
+- 09/18 09:24 [FirstSquawk] 2-year JGB yield declines 1 bp to 1.85%
+- 09/18 09:24 [FirstSquawk] 10-year JGB yield declines to 2.955%, down 3.5 bps
+- 09/18 09:26 [financialjuice] China PBOC seen setting yuan mid-point at 6.7065 per dollar: estimate
+- 09/18 09:26 [financialjuice] RBA Governor Bullock: companies now more likely to transfer cost hikes
+- 09/18 09:26 [FirstSquawk] Petronas, Woodside tout alternatives to Mideast LNG for Asian buyers
+- 09/18 09:31 [FirstSquawk] Gold prices climb, likely aided by lower oil prices - wsj

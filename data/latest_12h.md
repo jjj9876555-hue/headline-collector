@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 09:07 JST／対象: 09/17 21:07 〜 09/18 09:07 JST（時刻はすべて日本時間）
+生成: 2026-09-18 09:31 JST／対象: 09/17 21:31 〜 09/18 09:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/17 21:58 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 130 | 09/17 21:11 | 09/18 09:03 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 126 | 09/17 21:08 | 09/18 08:55 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 134 | 09/17 21:33 | 09/18 09:31 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 117 | 09/17 21:31 | 09/18 09:26 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 257 行（統合前 272 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 252 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 21:08 [financialjuice] Pentagon and Lockheed agree to speed up new missile production.
-- 09/17 21:11 [FirstSquawk] S&P 500 INDEX FUTURES EXTEND GAIN TO 1%
-- 09/17 21:20 [FirstSquawk] LOCKHEED MARTIN REVEALS NEW SECRET MISSILE, FAST TRACKS PRODUCTION
-- 09/17 21:21 [FirstSquawk] BRENT CRUDE FUTURES FALL OVER 3% TO LOWEST LEVEL SINCE SEPTEMBER 10 AS MIDDLE EAST SUPPLY DISRUPTION FEARS EASE
-- 09/17 21:26 [FirstSquawk] US TREASURY YIELDS EXTEND SLIDE AS UK YIELDS AND OIL PRICES FALL
-- 09/17 21:28 [FirstSquawk] NASDAQ 100 FUTURES EXTEND CLIMB TO 1.5%
-- 09/17 21:30 [financialjuice] US HOUSING STARTS CHANGE MOM ACTUAL -2.6% (FORECAST 6.7%, PREVIOUS -12.4%) $MACRO
-- 09/17 21:30 [financialjuice] US BUILDING PERMITS CHANGE MOM ACTUAL -2.7% (FORECAST -1.5%, PREVIOUS 4.3%) $MACRO
-- 09/17 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 196K VS 206K PREVIOUS; EST 207K
-- 09/17 21:30 [FirstSquawk] US PHILADELPHIA FED MANUFACTURING INDEX (SEP) ACTUAL: 37.8 VS 47.4 PREVIOUS; EST 32.1
-- 09/17 21:30 [financialjuice] US HOUSING STARTS ACTUAL 1.275M (FORECAST 1.32M, PREVIOUS 1.239M) $MACRO
-- 09/17 21:30 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1730K VS 1774K PREVIOUS; EST 1779K
-- 09/17 21:30 [financialjuice] CANADIAN PPI MOM ACTUAL 1.3% (FORECAST 0%, PREVIOUS 0.6%) $MACRO
-- 09/17 21:30 [financialjuice] CANADIAN PPI YOY ACTUAL 13.5% (FORECAST -, PREVIOUS 12.4%) $MACRO
-- 09/17 21:30 [financialjuice] US BUILDING PERMITS ACTUAL 1.394M (FORECAST 1.408M, PREVIOUS 1.433M) $MACRO
-- 09/17 21:31 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.73M (FORECAST 1.779M, PREVIOUS 1.774M) $MACRO
-- 09/17 21:31 [financialjuice] US PHILLY FED BUSINESS INDEX ACTUAL 37.8 (FORECAST 32.1, PREVIOUS 47.4) $MACRO
-- 09/17 21:31 [financialjuice] A high-ranking source told Al-Mayadeen that Riyadh has asked Oman to request a two-week truce from Ansar Allah (the Houthis) to allow for discussions on resolving the humanitarian crisis.
-- 09/17 21:31 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 196K (FORECAST 206.5K, PREVIOUS 206K) $MACRO
 - 09/17 21:31 [financialjuice] US Housing Starts August Report
 - 09/17 21:33 [FirstSquawk] HUANG: NVIDIA TO SELL TWICE AS MANY CHIPS NEXT YEAR AS THIS YEAR
 - 09/17 21:33 [financialjuice] Canadian PPI August 2026 Report
@@ -281,3 +262,17 @@
 - 09/18 09:02 [FirstSquawk] KOSPI gains more than 2% in Seoul trading
 - 09/18 09:03 [FirstSquawk] Trump: Iranian radar destroyed, leaving ships with no night-time visibility
 - 09/18 09:03 [FirstSquawk] Toyota targets deployment of 400,000 humanoid robots in manufacturing operations
+- 09/18 09:15 [FirstSquawk] NEW ZEALAND FOREIGN MINISTRY DENIES DISCUSSIONS WITH EU OVER NEW ZEALAND BECOMING AN ASSOCIATE MEMBER
+- 09/18 09:18 [FirstSquawk] EUROPEAN STOCK FUTURES SLIP: EUROSTOXX 50 -0.3%, DAX -0.5%, FTSE -0.2%
+- 09/18 09:18 [FirstSquawk] European stocks set for a weaker open as futures decline across the region
+- 09/18 09:18 [FirstSquawk] New Zealand foreign ministry spokesperson: No discussions with EU on associate membership
+- 09/18 09:19 [FirstSquawk] Nikkei climbs 1% in Tokyo trading
+- 09/18 09:19 [FirstSquawk] SoftBank Group shares gain 5% in Tokyo trading
+- 09/18 09:21 [FirstSquawk] China’s Wang Yi urges stronger communication and cooperation in call with US Secretary of State Rubio
+- 09/18 09:22 [FirstSquawk] JAPAN 2-YEAR JGB YIELD FALLS 1 BP TO 1.85%
+- 09/18 09:24 [FirstSquawk] 2-year JGB yield declines 1 bp to 1.85%
+- 09/18 09:24 [FirstSquawk] 10-year JGB yield declines to 2.955%, down 3.5 bps
+- 09/18 09:26 [financialjuice] China PBOC seen setting yuan mid-point at 6.7065 per dollar: estimate
+- 09/18 09:26 [financialjuice] RBA Governor Bullock: companies now more likely to transfer cost hikes
+- 09/18 09:26 [FirstSquawk] Petronas, Woodside tout alternatives to Mideast LNG for Asian buyers
+- 09/18 09:31 [FirstSquawk] Gold prices climb, likely aided by lower oil prices - wsj
