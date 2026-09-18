@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 00:34 JST／対象: 09/18 12:34 〜 09/19 00:34 JST（時刻はすべて日本時間）
+生成: 2026-09-19 00:47 JST／対象: 09/18 12:47 〜 09/19 00:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 163 | 09/18 12:40 | 09/19 00:27 | ⚠ 61分（20:07→21:09） |
+| FirstSquawk | 165 | 09/18 12:49 | 09/19 00:41 | ⚠ 61分（20:07→21:09） |
 | financialjuice | 121 | 09/18 13:02 | 09/19 00:33 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 287 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 289 行（統合前 290 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 12:40 [FirstSquawk] Indonesia Deputy FinMin: The government plans to retain its 200 trillion rupiah cash placement at state lenders until July 2027.
 - 09/18 12:49 [FirstSquawk] Japan’s 10-year JGB yield narrows its decline to 1.5bp, last standing at 2.975%.
 - 09/18 12:53 [FirstSquawk] Indonesia Finance Ministry official: Authorities will closely manage the supply impact of bond issuance to preserve current yield levels.
 - 09/18 13:01 [FirstSquawk] Benchmark 20-year Japanese government bond yield rises 1.5bp to 3.850%.
@@ -311,3 +310,6 @@
 - 09/19 00:33 [financialjuice] Fed's Schmid: High inflation a sign supply and demand are out of balance.
 - 09/19 00:33 [financialjuice] Fed's Schmid: Outside of inflation, the economy is performing well.
 - 09/19 00:33 [financialjuice] Fed's Schmid: Labor market appears in balance and economic growth solid.
+- 09/19 00:40 [FirstSquawk] FED'S SCHMID SUPPORTED HIKE; SAYS RECENT DATA SUGGEST INFLATION TRENDING ABOVE 3%
+- 09/19 00:40 [FirstSquawk] FED’S SCHMID: LABOUR MARKET APPEARS TO BE IN BALANCE
+- 09/19 00:41 [FirstSquawk] RUSSIAN FORCES HIT DRY CARGO SHIP IN ODESA – IFX CITING RUSSIAN DEFENCE MINISTRY

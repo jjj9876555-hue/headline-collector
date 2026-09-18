@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 00:34 JST／対象: 09/18 00:34 〜 09/19 00:34 JST（時刻はすべて日本時間）
+生成: 2026-09-19 00:47 JST／対象: 09/18 00:47 〜 09/19 00:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/18 00:42 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 347 | 09/18 00:43 | 09/19 00:27 | ⚠ 61分（20:07→21:09） |
+| DeItaone | 10 | 09/18 02:10 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
+| FirstSquawk | 349 | 09/18 00:48 | 09/19 00:41 | ⚠ 61分（20:07→21:09） |
 | financialjuice | 277 | 09/18 00:50 | 09/19 00:33 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 627 行（統合前 641 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 628 行（統合前 642 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 00:42 [DeItaone] WALL STREET RETHINKS “ONE-AND-DONE” FED HIKE The Fed’s hawkish September meeting is pushing several banks to add another hike or reduce expected rate cuts, including Goldman Sachs, Morgan Stanley, NatWest, Rabobank, Swedbank and Commerzbank…
-- 09/18 00:43 [FirstSquawk] SPACEX PLANS TO ACQUIRE DATA FOR AI MODELS FROM FAILED STARTUPS.
 - 09/18 00:48 [FirstSquawk] LUFTHANSA EXPANDS BOEING 737 MAX FLEET
 - 09/18 00:50 [financialjuice] Three pumping stations along Saudi Arabia's east-west oil pipeline were damaged in an attack last week - Sources.
 - 09/18 00:50 [FirstSquawk] THREE OIL PUMP STATIONS ON SAUDI ARABIA'S EAST-WEST PIPELINE WERE HIT IN AN ATTACK LAST WEEK
@@ -651,3 +649,6 @@
 - 09/19 00:33 [financialjuice] Fed's Schmid: High inflation a sign supply and demand are out of balance.
 - 09/19 00:33 [financialjuice] Fed's Schmid: Outside of inflation, the economy is performing well.
 - 09/19 00:33 [financialjuice] Fed's Schmid: Labor market appears in balance and economic growth solid.
+- 09/19 00:40 [FirstSquawk] FED'S SCHMID SUPPORTED HIKE; SAYS RECENT DATA SUGGEST INFLATION TRENDING ABOVE 3%
+- 09/19 00:40 [FirstSquawk] FED’S SCHMID: LABOUR MARKET APPEARS TO BE IN BALANCE
+- 09/19 00:41 [FirstSquawk] RUSSIAN FORCES HIT DRY CARGO SHIP IN ODESA – IFX CITING RUSSIAN DEFENCE MINISTRY
