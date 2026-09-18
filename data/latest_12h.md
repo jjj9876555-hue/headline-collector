@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 21:54 JST／対象: 09/18 09:54 〜 09/18 21:54 JST（時刻はすべて日本時間）
+生成: 2026-09-18 22:16 JST／対象: 09/18 10:16 〜 09/18 22:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 202 | 09/18 09:58 | 09/18 21:41 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 155 | 09/18 10:00 | 09/18 21:31 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 194 | 09/18 10:18 | 09/18 22:05 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 154 | 09/18 10:17 | 09/18 22:15 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 360 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 351 行（統合前 352 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 09:58 [FirstSquawk] Asia-Pacific markets start firmer, taking cues from Wall Street and easing oil prices
-- 09/18 10:00 [financialjuice] Taiwan overnight interbank rate begins at 0.805% versus previous session open at 0.805%
-- 09/18 10:01 [FirstSquawk] Taiwan overnight rate opens steady at 0.805%
-- 09/18 10:05 [FirstSquawk] 40-year JGB yield declines 5 bps to 4.065%
-- 09/18 10:07 [FirstSquawk] EUR/USD nudges above 1.1450 amid declines in US yields and oil
-- 09/18 10:10 [financialjuice] RBA Governor Bullock: inflation risks tilted to the upside
-- 09/18 10:11 [FirstSquawk] RBA Governor Bullock: Risks to inflation are tilted higher
-- 09/18 10:11 [financialjuice] RBA Governor Bullock: difficult to see past ongoing inflation shocks
-- 09/18 10:12 [FirstSquawk] 30-year JGB yield declines 4.5 bps to 4.03%
-- 09/18 10:12 [financialjuice] RBA deputy governor Hauser: board fully committed to reaching inflation target
-- 09/18 10:12 [FirstSquawk] RBA Governor Bullock: Persistent inflationary shocks are hard to look through
-- 09/18 10:13 [FirstSquawk] RBA Deputy Governor Hauser: Board remains fully committed to hitting the inflation target
-- 09/18 10:13 [FirstSquawk] Saudi Embassy in US: Proposed F-35 deal underscores the strength of the Saudi-US strategic partnership
-- 09/18 10:13 [financialjuice] Saudi embassy in US: Proposed F-35 sale signals strength and durability of Saudi-US strategic partnership
-- 09/18 10:15 [FirstSquawk] China’s central bank sets yuan midpoint at 6.7521 per dollar
 - 09/18 10:17 [financialjuice] PBOC sets yuan midpoint at strongest level since Feb. 3, 2023
 - 09/18 10:18 [FirstSquawk] Yuan midpoint fixed at strongest level since Feb. 3, 2023
 - 09/18 10:22 [financialjuice] China pumps 463.3 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
@@ -384,3 +369,9 @@
 - 09/18 21:31 [financialjuice] Anthropic plans to have 5GW worth of compute by year end - NYT.
 - 09/18 21:41 [FirstSquawk] EU'S KALLAS DISCUSSED WITH SAUDI FOREIGN MINISTER ON EFFORTS TO STOP FIGHTING IN YEMEN AND ENSURE SAFE NAVIGATION IN THE STRAIT OF HORMUZ.
 - 09/18 21:41 [FirstSquawk] KALLAS HAS INCREASED THE ALERT STATUS OF ITS VESSELS DUE TO OPERATION ASPIDES.
+- 09/18 22:00 [financialjuice] Effective Fed funds rate 3.88% September 17th vs 3.63% September 16th.
+- 09/18 22:04 [FirstSquawk] US EXPORTERS SHIP 111,000 TONS OF SOYBEANS TO CHINA.
+- 09/18 22:05 [FirstSquawk] 6.5 MAGNITUDE EARTHQUAKE OCCURS 169 KM WEST OF NIKOLSKI, ALASKA, ACCORDING TO USGS.
+- 09/18 22:15 [financialjuice] US CAPACITY UTILIZATION ACTUAL 76.3% (FORECAST 76.4%, PREVIOUS 76.3%) $MACRO
+- 09/18 22:15 [financialjuice] ❗ US INDUSTRIAL PRODUCTION MOM ACTUAL 0% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
+- 09/18 22:15 [financialjuice] US MANUFACTURING OUTPUT MOM ACTUAL -0.3% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO

@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 21:54 JST／対象: 09/18 15:54 〜 09/18 21:54 JST（時刻はすべて日本時間）
+生成: 2026-09-18 22:16 JST／対象: 09/18 16:16 〜 09/18 22:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 79 | 09/18 15:55 | 09/18 21:41 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 48 | 09/18 15:55 | 09/18 21:31 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 72 | 09/18 16:16 | 09/18 22:05 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 45 | 09/18 16:22 | 09/18 22:15 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 130 行（統合前 131 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 120 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 15:55 [financialjuice] BoJ Gov Ueda: Rate hikes have gradually tightened financial conditions.
-- 09/18 15:55 [FirstSquawk] Ueda: The BOJ must be mindful of the potential negative impact of aggressive rate hikes.
-- 09/18 15:56 [FirstSquawk] Ueda: The BOJ must ensure that overly fast tightening does not put a negative strain on financial conditions.
-- 09/18 15:58 [financialjuice] BoJ Gov Ueda: Not mulling board member change next year for policy.
-- 09/18 15:58 [financialjuice] Japan's Fin. Min. Katayama: To maintin close communication with financial authorities of other nations on forex.
-- 09/18 16:03 [financialjuice] Japan's Fin. Min. Katayama: Bessent regards highly of "Takaichinomics".
-- 09/18 16:03 [FirstSquawk] BOJ GOVERNOR UEDA SAYS THE BANK WILL KEEP CONDUCTING MONETARY POLICY ACCORDING TO THE LAW.
-- 09/18 16:04 [FirstSquawk] BOJ GOVERNOR UEDA STATES THEY WILL MAINTAIN SUITABLE MONETARY POLICY AS PER BOJ LAWS.
-- 09/18 16:04 [FirstSquawk] BRITAIN'S FTSE 100 DROPS 0.2%; FRANCE'S CAC 40 FALLS 0.39%; SPAIN'S IBEX DECLINES 0.14%.
-- 09/18 16:04 [FirstSquawk] JAPAN'S FINANCE MINISTER KATAYAMA PRAISES "TAKAICHINOMICS".
-- 09/18 16:07 [financialjuice] BoJ Gov Ueda when asked about possibly about raising rates consecutively or rate hike over 25 bps: Not ruling out any particular policy measures.
-- 09/18 16:08 [financialjuice] BoJ Gov Ueda: Overseas rate hikes could impact Japan through various channels including Forex.
-- 09/18 16:10 [FirstSquawk] VOLKSWAGEN GROUP OF AMERICA IS RECALLING 208,724 VEHICLES IN THE U.S. ACCORDING TO NHTSA.
-- 09/18 16:10 [FirstSquawk] VOLKSWAGEN IS RECALLING CERTAIN U.S. CARS DUE TO A FLAWED STEERING RACK HOUSING THAT MAY CAUSE A LOSS OF STEERING CONTROL, RAISING CRASH RISKS. - NHTSA
-- 09/18 16:10 [FirstSquawk] BOJ GOVERNOR UEDA SAYS NO POLICY OPTIONS ARE OFF THE TABLE, CONSIDERING DIFFERENT SCENARIOS BASED ON INFLATION WHEN QUESTIONED ABOUT A 50 BASIS POINT OR CONTINUOUS RATE INCREASE.
-- 09/18 16:15 [financialjuice] Citigroup expects Bank of Japan to hike interest rates by 25 bp in December 2026, March and july 2027 vs prior forecast of January, June and December 2027
 - 09/18 16:16 [FirstSquawk] BOJ GOVERNOR UEDA STATED THAT IT'S UNCERTAIN IF THE PIPELINE DISRUPTION IN SAUDI ARABIA WILL LAST LONGER AND MENTIONED THE NEED TO MONITOR THE SITUATION, NOT DISCOUNTING ANY SPECIFIC POLICY ACTIONS.
 - 09/18 16:17 [FirstSquawk] BOJ GOVERNOR UEDA DID NOT EXCLUDE ANY POLICY OPTIONS REGARDING POSSIBLE RATE INCREASES OR A 25 BPS HIKE. HE PLANS TO CONSULT WITH OTHER CENTRAL BANKS ABOUT THEIR RATE HIKE INTENTIONS. UEDA STATED THAT WHILE ANALYSIS IS ESSENTIAL, IT DOES NO…
 - 09/18 16:17 [FirstSquawk] CITIGROUP PREDICTS BANK OF JAPAN WILL INCREASE INTEREST RATES BY 25 BASIS POINTS IN DECEMBER 2026, MARCH AND JULY 2027, SHIFTING FROM AN EARLIER ESTIMATE OF INCREASES IN JANUARY, JUNE, AND DECEMBER 2027.
@@ -154,3 +138,9 @@
 - 09/18 21:31 [financialjuice] Anthropic plans to have 5GW worth of compute by year end - NYT.
 - 09/18 21:41 [FirstSquawk] EU'S KALLAS DISCUSSED WITH SAUDI FOREIGN MINISTER ON EFFORTS TO STOP FIGHTING IN YEMEN AND ENSURE SAFE NAVIGATION IN THE STRAIT OF HORMUZ.
 - 09/18 21:41 [FirstSquawk] KALLAS HAS INCREASED THE ALERT STATUS OF ITS VESSELS DUE TO OPERATION ASPIDES.
+- 09/18 22:00 [financialjuice] Effective Fed funds rate 3.88% September 17th vs 3.63% September 16th.
+- 09/18 22:04 [FirstSquawk] US EXPORTERS SHIP 111,000 TONS OF SOYBEANS TO CHINA.
+- 09/18 22:05 [FirstSquawk] 6.5 MAGNITUDE EARTHQUAKE OCCURS 169 KM WEST OF NIKOLSKI, ALASKA, ACCORDING TO USGS.
+- 09/18 22:15 [financialjuice] US CAPACITY UTILIZATION ACTUAL 76.3% (FORECAST 76.4%, PREVIOUS 76.3%) $MACRO
+- 09/18 22:15 [financialjuice] ❗ US INDUSTRIAL PRODUCTION MOM ACTUAL 0% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
+- 09/18 22:15 [financialjuice] US MANUFACTURING OUTPUT MOM ACTUAL -0.3% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
