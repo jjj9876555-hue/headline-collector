@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 22:32 JST／対象: 09/18 10:32 〜 09/18 22:32 JST（時刻はすべて日本時間）
+生成: 2026-09-18 22:46 JST／対象: 09/18 10:46 〜 09/18 22:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 195 | 09/18 10:36 | 09/18 22:31 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 158 | 09/18 10:48 | 09/18 22:32 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 202 | 09/18 10:49 | 09/18 22:36 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 160 | 09/18 10:48 | 09/18 22:39 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 356 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 365 行（統合前 366 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 10:36 [FirstSquawk] Alibaba’s Hong Kong-listed shares climb 3%
-- 09/18 10:39 [FirstSquawk] China’s most-active coking coal contract drops 6.02% to 1,515.5 yuan/metric ton
-- 09/18 10:44 [FirstSquawk] Thailand should boost investment in front-end chip manufacturing, industry body says
 - 09/18 10:48 [financialjuice] S. Korea President Lee: to establish distinct economic and political capitals
 - 09/18 10:49 [FirstSquawk] South Korea’s President Lee: Government aims to establish separate economic and political capitals
 - 09/18 10:50 [FirstSquawk] South Korea’s President Lee: Says he has no plans to seek another term
@@ -380,3 +377,15 @@
 - 09/18 22:31 [financialjuice] Fed's Bowman: Supervisory delays were not due to deregulatory efforts pursued earlier by the Fed.
 - 09/18 22:32 [financialjuice] Fed's Bowman: Changes will make tests more reliable and reduce volatility in bank capital requirements.
 - 09/18 22:32 [financialjuice] Fed's Bowman: The Fed will finalize reforms to make bank stress tests more transparent and accountable in the coming weeks.
+- 09/18 22:33 [financialjuice] Fed's Bowman: The Fed, going forward, will average the bank's last two stress tests when assigning the lender's 'stress capital buffer’.
+- 09/18 22:34 [FirstSquawk] FED'S BOWMAN MAKES NO COMMENTS ON THE ECONOMY OR MONETARY POLICY IN HER PREPARED STATEMENT.
+- 09/18 22:34 [FirstSquawk] BOWMAN CLAIMS FEDERAL SUPERVISORS SHOULD HAVE IDENTIFIED SVB'S WEAKNESSES AS EARLY AS MARCH 2022, OVER A YEAR PRIOR TO THE BANK'S COLLAPSE.
+- 09/18 22:34 [FirstSquawk] BOWMAN REVEALS FIRST RESULTS OF INDEPENDENT EXAMINATION OF SILICON VALLEY BANK COLLAPSE.
+- 09/18 22:34 [FirstSquawk] BOWMAN STATED THAT THE DELAYS IN SUPERVISION WERE NOT A RESULT OF THE FED'S PREVIOUS DEREGULATORY ACTIONS.
+- 09/18 22:35 [FirstSquawk] BOWMAN CLAIMS A 'RISK AVERSION CULTURE' AMONG FED SUPERVISORS CAUSED INACTION DUE TO UNCLEAR DECISION-MAKING RIGHTS.
+- 09/18 22:35 [FirstSquawk] BOWMAN STATED THAT FEDERAL SUPERVISORS FAILED TO ACT QUICKLY AND DECISIVELY TO FORCE SVB TO LOWER RISKS.
+- 09/18 22:35 [FirstSquawk] BOWMAN STATES UPDATES WILL ENHANCE TEST RELIABILITY AND LOWER BANK CAPITAL REQUIREMENT VOLATILITY.
+- 09/18 22:35 [FirstSquawk] BOWMAN STATES UPDATED STRESS TESTS WILL OFFER THOROUGH INSIGHTS ON TESTING MODELS AND SCENARIOS.
+- 09/18 22:35 [FirstSquawk] BOWMAN ANTICIPATES THAT THE FED WILL COMPLETE 'BASEL' BANK CAPITAL REGULATIONS AND ADJUSTMENTS TO THE GSIB SURCHARGE BY YEAR-END.
+- 09/18 22:36 [FirstSquawk] BOWMAN ANNOUNCES FED WILL USE STRESS TESTS MORE EXTENSIVELY TO KEEP US CENTRAL BANK SUPERVISORS UPDATED ON BANK RISKS.
+- 09/18 22:39 [financialjuice] China opposes the EU's comments on restricting hybrid car exports.
