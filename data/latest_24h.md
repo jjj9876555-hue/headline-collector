@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 19:33 JST／対象: 09/17 19:33 〜 09/18 19:33 JST（時刻はすべて日本時間）
+生成: 2026-09-18 19:46 JST／対象: 09/17 19:46 〜 09/18 19:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 13 | 09/17 21:58 | 09/18 19:08 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 354 | 09/17 19:35 | 09/18 19:17 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 302 | 09/17 19:37 | 09/18 19:18 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 351 | 09/17 19:54 | 09/18 19:39 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 301 | 09/17 19:47 | 09/18 19:40 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 658 行（統合前 675 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 654 行（統合前 671 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 19:35 [FirstSquawk] SENIOR IRANIAN MILITARY OFFICIAL CLAIMED THAT US PRESENCE IN THE MIDDLE EAST HINDERS PEACE AND STABILITY, URGING REGIONAL COUNTRIES TO ENSURE THEIR OWN SECURITY, ACCORDING TO MEHR NEWS AGENCY.
-- 09/17 19:35 [FirstSquawk] MOHAMMAD-TAGHI OSANLOO, DEPUTY OPERATIONS CHIEF OF IRAN'S ARMED FORCES, STATED AT THE XIANGSHAN SECURITY FORUM IN BEIJING THAT REGIONAL COUNTRIES NEED TO ENSURE THEIR OWN SECURITY WITHOUT INTERFERENCE FROM OUTSIDE POWERS.
-- 09/17 19:35 [FirstSquawk] SECURITY CANNOT BE PURCHASED OR IMPORTED, HE STATED, URGING FOR A REGIONAL SECURITY SYSTEM FOCUSED ON NON-AGGRESSION, RESPECT FOR SOVEREIGNTY, AND BUILDING MILITARY CONFIDENCE.
-- 09/17 19:37 [financialjuice] Canada's PM Carney: Of course there will be debate in the Canadian parliament on EU associate membership
-- 09/17 19:39 [financialjuice] Canada's PM Carney: There will be a vote in the Canadian Parliament on the future relationship with the EU
-- 09/17 19:39 [FirstSquawk] CANADA PM CARNEY: THERE WILL BE A VOTE IN CANADIAN PARLIAMENT ON FUTURE RELATIONSHIP WITH EU
-- 09/17 19:41 [financialjuice] Canada's PM Carney: What matters is substance rather than the term used for the relationship with EU
-- 09/17 19:42 [FirstSquawk] CANADA PM CARNEY: OF COURSE THERE WILL BE DEBATE IN CANADIAN PARLIAMENT ON EU ASSOCIATE MEMBERSHIP
-- 09/17 19:45 [financialjuice] Canada PM Carney in reaction to Trump comments: A strong, more resilient Canada would be a more effective partner to the US
-- 09/17 19:45 [FirstSquawk] TURKEY PROPOSES RUSSIA-UKRAINE DEAL TO END BLACK SEA SHIPPING ATTACKS – AFP CITES DIPLOMATIC SOURCE
 - 09/17 19:47 [financialjuice] Canada's PM Carney: Nobody will dictate who we strike agreements with
 - 09/17 19:54 [FirstSquawk] SWISS UPPER HOUSE POSTPONES VOTE ON UBS CAPITAL RULES, TO VOTE SEP 23RD
 - 09/17 19:57 [FirstSquawk] ECB REHN: CURRENTLY NO NEED FOR USE OF ECB INSTRUMENTS LIKE TPI
@@ -682,3 +672,9 @@
 - 09/18 19:14 [FirstSquawk] RUSSIAN MILITARY STRIKES CARGO SHIP IN ODESA, ACCORDING TO DEFENSE MINISTRY.
 - 09/18 19:17 [FirstSquawk] EU SPOKESPERSON ANNOUNCED AN EU-CANADA SUMMIT AT THE END OF OCTOBER TO DISCUSS IMPROVING RELATIONS.
 - 09/18 19:18 [financialjuice] EU Spokesperson: At end of October EU-Canada summit will take place where we explore parameters for enhancing relationship.
+- 09/18 19:36 [financialjuice] Italy's Economy Minister: Debt burden has begun to rise at an alarming rate.
+- 09/18 19:38 [financialjuice] EuroGroup Head: Economic growth momentum in Euro Zone should continue to the end of the year.
+- 09/18 19:39 [FirstSquawk] EUROGROUP LEADER CONSIDERS EMERGENCY MEETING DUE TO RISING ENERGY PRICES.
+- 09/18 19:39 [FirstSquawk] RUSSIA ATTACKED FOUR SHIPS IN THE BLACK SEA NEAR UKRAINIAN PORTS, REPORTS IFX.
+- 09/18 19:39 [FirstSquawk] ITALY'S ECONOMY MINISTER SAYS DEBT LEVELS ARE INCREASING QUICKLY.
+- 09/18 19:40 [financialjuice] France Fin. Min. Lescure: 3% deficit is “a target we should all have in mind".

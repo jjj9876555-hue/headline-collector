@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 19:33 JST／対象: 09/18 07:33 〜 09/18 19:33 JST（時刻はすべて日本時間）
+生成: 2026-09-18 19:46 JST／対象: 09/18 07:46 〜 09/18 19:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/18 18:11 | 09/18 19:08 | 43分（18:11→18:54） |
-| FirstSquawk | 218 | 09/18 07:36 | 09/18 19:17 | 42分（17:10→17:53） |
-| financialjuice | 166 | 09/18 07:45 | 09/18 19:18 | ⚠ 52分（13:07→14:00） |
+| FirstSquawk | 218 | 09/18 08:01 | 09/18 19:39 | 42分（17:10→17:53） |
+| financialjuice | 164 | 09/18 08:00 | 09/18 19:40 | ⚠ 52分（13:07→14:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 386 行（統合前 387 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 384 行（統合前 385 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 07:36 [FirstSquawk] U.S. APPROVES VISAS FOR IRANIAN PRESIDENT MASOUD PEZESHKIAN, FOREIGN MINISTER ABBAS ARAGHCHI AND OTHER OFFICIALS TO ATTEND NEXT WEEK’S UN GENERAL ASSEMBLY IN NEW YORK, DESPITE THE ONGOING SIX-MONTH WAR, WITH THE DELEGATION FACING TRAVEL RES…
-- 09/18 07:44 [FirstSquawk] JEDDAH WARNING SIRENS SOUND; FLIGHTS AT JEDDAH AIRPORT HALTED AS PROJECTILE REPORTEDLY FIRED AT JEDDAH — TASNIMNEWS
-- 09/18 07:45 [financialjuice] NEW ZEALAND TRADE BALANCE ACTUAL -1349M (FORECAST -, PREVIOUS -1,949.0M) $MACRO
-- 09/18 07:45 [financialjuice] NEW ZEALAND FOOD PRICE INDEX ACTUAL 0.3% (FORECAST -, PREVIOUS 0.1%) $MACRO
-- 09/18 07:45 [financialjuice] New Zealand food price inflation index +0.3% in August on previous month: Stats NZ
-- 09/18 07:45 [financialjuice] NEW ZEALAND EXPORTS ACTUAL 6.66B (FORECAST -, PREVIOUS 7.39B ,REVISION 7.22B) $MACRO
-- 09/18 07:45 [financialjuice] NEW ZEALAND IMPORTS ACTUAL 8.00B (FORECAST -, PREVIOUS 9.34B ,REVISION 9.33B) $MACRO
-- 09/18 07:46 [FirstSquawk] NEW ZEALAND'S AUGUST TRADE BALANCE SHOWED A DEFICIT OF NZ$1,349 MLN, NARROWER THAN THE PRIOR NZ$1,949 MLN, WITH EXPORTS AT NZ$6.66 BLN AND IMPORTS AT NZ$8.00 BLN, WHILE THE FOOD PRICE INDEX ROSE 0.3% MONTH-ON-MONTH VERSUS A PRIOR 0.1%
 - 09/18 08:00 [financialjuice] South Korea prolongs fuel-tax reductions by two months until end of November: finance ministry
 - 09/18 08:01 [FirstSquawk] WHITE HOUSE WITHDRAWS NOMINATION OF FORMER DELTA PILOT JEFFREY ANDERSON FOR KEY INTERNATIONAL AVIATION POST
 - 09/18 08:01 [FirstSquawk] JANA PARTNERS PUSHES COOPER COS. TO REPLACE CEO AND CONSIDER SALE OF CORE BUSINESSES — WSJ
@@ -410,3 +402,9 @@
 - 09/18 19:14 [FirstSquawk] RUSSIAN MILITARY STRIKES CARGO SHIP IN ODESA, ACCORDING TO DEFENSE MINISTRY.
 - 09/18 19:17 [FirstSquawk] EU SPOKESPERSON ANNOUNCED AN EU-CANADA SUMMIT AT THE END OF OCTOBER TO DISCUSS IMPROVING RELATIONS.
 - 09/18 19:18 [financialjuice] EU Spokesperson: At end of October EU-Canada summit will take place where we explore parameters for enhancing relationship.
+- 09/18 19:36 [financialjuice] Italy's Economy Minister: Debt burden has begun to rise at an alarming rate.
+- 09/18 19:38 [financialjuice] EuroGroup Head: Economic growth momentum in Euro Zone should continue to the end of the year.
+- 09/18 19:39 [FirstSquawk] EUROGROUP LEADER CONSIDERS EMERGENCY MEETING DUE TO RISING ENERGY PRICES.
+- 09/18 19:39 [FirstSquawk] RUSSIA ATTACKED FOUR SHIPS IN THE BLACK SEA NEAR UKRAINIAN PORTS, REPORTS IFX.
+- 09/18 19:39 [FirstSquawk] ITALY'S ECONOMY MINISTER SAYS DEBT LEVELS ARE INCREASING QUICKLY.
+- 09/18 19:40 [financialjuice] France Fin. Min. Lescure: 3% deficit is “a target we should all have in mind".
