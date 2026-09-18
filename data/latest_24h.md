@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 15:56 JST／対象: 09/17 15:56 〜 09/18 15:56 JST（時刻はすべて日本時間）
+生成: 2026-09-18 16:17 JST／対象: 09/17 16:17 〜 09/18 16:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 342 | 09/17 15:58 | 09/18 15:55 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 328 | 09/17 16:01 | 09/18 15:55 | ⚠ 60分（06:44→07:45） |
+| DeItaone | 11 | 09/17 18:43 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
+| FirstSquawk | 351 | 09/17 16:17 | 09/18 16:17 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 331 | 09/17 16:19 | 09/18 16:15 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 671 行（統合前 688 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 682 行（統合前 699 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 15:58 [FirstSquawk] Russia uses North Korean workers in drone production for its war effort in Ukraine, SCMP reports.
-- 09/17 16:01 [financialjuice] EU: Canada deal is 'for our common strength’ - Spokesman
-- 09/17 16:07 [DeItaone] *EU SAYS CANADA DEAL IS ‘NOT AGAINST ANYONE ELSE’: SPOKESMAN *EU SAYS CANADA DEAL IS ‘FOR OUR COMMON STRENGTH’: SPOKESMAN Comes after US President Trump’s response to the proposal yesterday: “If they do that, if I think it’s at all a hostil…
-- 09/17 16:13 [financialjuice] Huawei is testing its AI chips in limited foreign markets
-- 09/17 16:17 [FirstSquawk] EU SPOKESPERSON SAID CANADA PARTNERSHIP ENHANCEMENT IS NOT AIMED AT OTHERS, BUT TO BOOST COMMON STRENGTH AMID TRUMP'S TARIFF THREATS.
-- 09/17 16:17 [financialjuice] Xu: Huawei has a bigger China AI chip market share than Nvidia $NVDA
 - 09/17 16:17 [FirstSquawk] HUAWEI IS TRIALING ITS AI CHIPS IN SELECT OVERSEAS MARKETS.
 - 09/17 16:17 [FirstSquawk] CHINA AND US ECONOMIC TEAMS ARE DISCUSSING TARIFFS, SAYS MOFCOM.
 - 09/17 16:17 [FirstSquawk] HUAWEI HOLDS A LARGER SHARE OF CHINA'S AI CHIP MARKET THAN NVIDIA, SAYS XU.
@@ -695,3 +689,20 @@
 - 09/18 15:54 [FirstSquawk] Katayama: Japan will take steps to preserve stability and orderly trading in the FX market.
 - 09/18 15:55 [financialjuice] BoJ Gov Ueda: Rate hikes have gradually tightened financial conditions.
 - 09/18 15:55 [FirstSquawk] Ueda: The BOJ must be mindful of the potential negative impact of aggressive rate hikes.
+- 09/18 15:56 [FirstSquawk] Ueda: The BOJ must ensure that overly fast tightening does not put a negative strain on financial conditions.
+- 09/18 15:58 [financialjuice] BoJ Gov Ueda: Not mulling board member change next year for policy.
+- 09/18 15:58 [financialjuice] Japan's Fin. Min. Katayama: To maintin close communication with financial authorities of other nations on forex.
+- 09/18 16:03 [financialjuice] Japan's Fin. Min. Katayama: Bessent regards highly of "Takaichinomics".
+- 09/18 16:03 [FirstSquawk] BOJ GOVERNOR UEDA SAYS THE BANK WILL KEEP CONDUCTING MONETARY POLICY ACCORDING TO THE LAW.
+- 09/18 16:04 [FirstSquawk] BOJ GOVERNOR UEDA STATES THEY WILL MAINTAIN SUITABLE MONETARY POLICY AS PER BOJ LAWS.
+- 09/18 16:04 [FirstSquawk] BRITAIN'S FTSE 100 DROPS 0.2%; FRANCE'S CAC 40 FALLS 0.39%; SPAIN'S IBEX DECLINES 0.14%.
+- 09/18 16:04 [FirstSquawk] JAPAN'S FINANCE MINISTER KATAYAMA PRAISES "TAKAICHINOMICS".
+- 09/18 16:07 [financialjuice] BoJ Gov Ueda when asked about possibly about raising rates consecutively or rate hike over 25 bps: Not ruling out any particular policy measures.
+- 09/18 16:08 [financialjuice] BoJ Gov Ueda: Overseas rate hikes could impact Japan through various channels including Forex.
+- 09/18 16:10 [FirstSquawk] VOLKSWAGEN GROUP OF AMERICA IS RECALLING 208,724 VEHICLES IN THE U.S. ACCORDING TO NHTSA.
+- 09/18 16:10 [FirstSquawk] VOLKSWAGEN IS RECALLING CERTAIN U.S. CARS DUE TO A FLAWED STEERING RACK HOUSING THAT MAY CAUSE A LOSS OF STEERING CONTROL, RAISING CRASH RISKS. - NHTSA
+- 09/18 16:10 [FirstSquawk] BOJ GOVERNOR UEDA SAYS NO POLICY OPTIONS ARE OFF THE TABLE, CONSIDERING DIFFERENT SCENARIOS BASED ON INFLATION WHEN QUESTIONED ABOUT A 50 BASIS POINT OR CONTINUOUS RATE INCREASE.
+- 09/18 16:15 [financialjuice] Citigroup expects Bank of Japan to hike interest rates by 25 bp in December 2026, March and july 2027 vs prior forecast of January, June and December 2027
+- 09/18 16:16 [FirstSquawk] BOJ GOVERNOR UEDA STATED THAT IT'S UNCERTAIN IF THE PIPELINE DISRUPTION IN SAUDI ARABIA WILL LAST LONGER AND MENTIONED THE NEED TO MONITOR THE SITUATION, NOT DISCOUNTING ANY SPECIFIC POLICY ACTIONS.
+- 09/18 16:17 [FirstSquawk] BOJ GOVERNOR UEDA DID NOT EXCLUDE ANY POLICY OPTIONS REGARDING POSSIBLE RATE INCREASES OR A 25 BPS HIKE. HE PLANS TO CONSULT WITH OTHER CENTRAL BANKS ABOUT THEIR RATE HIKE INTENTIONS. UEDA STATED THAT WHILE ANALYSIS IS ESSENTIAL, IT DOES NO…
+- 09/18 16:17 [FirstSquawk] CITIGROUP PREDICTS BANK OF JAPAN WILL INCREASE INTEREST RATES BY 25 BASIS POINTS IN DECEMBER 2026, MARCH AND JULY 2027, SHIFTING FROM AN EARLIER ESTIMATE OF INCREASES IN JANUARY, JUNE, AND DECEMBER 2027.

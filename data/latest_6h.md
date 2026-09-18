@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 15:56 JST／対象: 09/18 09:56 〜 09/18 15:56 JST（時刻はすべて日本時間）
+生成: 2026-09-18 16:17 JST／対象: 09/18 10:17 〜 09/18 16:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 124 | 09/18 09:58 | 09/18 15:55 | 13分（14:47→15:01） |
-| financialjuice | 108 | 09/18 10:00 | 09/18 15:55 | ⚠ 52分（13:07→14:00） |
+| FirstSquawk | 125 | 09/18 10:18 | 09/18 16:17 | 13分（14:47→15:01） |
+| financialjuice | 109 | 09/18 10:17 | 09/18 16:15 | ⚠ 52分（13:07→14:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 232 行（統合前 232 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 234 行（統合前 234 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 09:58 [FirstSquawk] Asia-Pacific markets start firmer, taking cues from Wall Street and easing oil prices
-- 09/18 10:00 [financialjuice] Taiwan overnight interbank rate begins at 0.805% versus previous session open at 0.805%
-- 09/18 10:01 [FirstSquawk] Taiwan overnight rate opens steady at 0.805%
-- 09/18 10:05 [FirstSquawk] 40-year JGB yield declines 5 bps to 4.065%
-- 09/18 10:07 [FirstSquawk] EUR/USD nudges above 1.1450 amid declines in US yields and oil
-- 09/18 10:10 [financialjuice] RBA Governor Bullock: inflation risks tilted to the upside
-- 09/18 10:11 [FirstSquawk] RBA Governor Bullock: Risks to inflation are tilted higher
-- 09/18 10:11 [financialjuice] RBA Governor Bullock: difficult to see past ongoing inflation shocks
-- 09/18 10:12 [FirstSquawk] 30-year JGB yield declines 4.5 bps to 4.03%
-- 09/18 10:12 [financialjuice] RBA deputy governor Hauser: board fully committed to reaching inflation target
-- 09/18 10:12 [FirstSquawk] RBA Governor Bullock: Persistent inflationary shocks are hard to look through
-- 09/18 10:13 [FirstSquawk] RBA Deputy Governor Hauser: Board remains fully committed to hitting the inflation target
-- 09/18 10:13 [FirstSquawk] Saudi Embassy in US: Proposed F-35 deal underscores the strength of the Saudi-US strategic partnership
-- 09/18 10:13 [financialjuice] Saudi embassy in US: Proposed F-35 sale signals strength and durability of Saudi-US strategic partnership
-- 09/18 10:15 [FirstSquawk] China’s central bank sets yuan midpoint at 6.7521 per dollar
 - 09/18 10:17 [financialjuice] PBOC sets yuan midpoint at strongest level since Feb. 3, 2023
 - 09/18 10:18 [FirstSquawk] Yuan midpoint fixed at strongest level since Feb. 3, 2023
 - 09/18 10:22 [financialjuice] China pumps 463.3 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
@@ -256,3 +241,20 @@
 - 09/18 15:54 [FirstSquawk] Katayama: Japan will take steps to preserve stability and orderly trading in the FX market.
 - 09/18 15:55 [financialjuice] BoJ Gov Ueda: Rate hikes have gradually tightened financial conditions.
 - 09/18 15:55 [FirstSquawk] Ueda: The BOJ must be mindful of the potential negative impact of aggressive rate hikes.
+- 09/18 15:56 [FirstSquawk] Ueda: The BOJ must ensure that overly fast tightening does not put a negative strain on financial conditions.
+- 09/18 15:58 [financialjuice] BoJ Gov Ueda: Not mulling board member change next year for policy.
+- 09/18 15:58 [financialjuice] Japan's Fin. Min. Katayama: To maintin close communication with financial authorities of other nations on forex.
+- 09/18 16:03 [financialjuice] Japan's Fin. Min. Katayama: Bessent regards highly of "Takaichinomics".
+- 09/18 16:03 [FirstSquawk] BOJ GOVERNOR UEDA SAYS THE BANK WILL KEEP CONDUCTING MONETARY POLICY ACCORDING TO THE LAW.
+- 09/18 16:04 [FirstSquawk] BOJ GOVERNOR UEDA STATES THEY WILL MAINTAIN SUITABLE MONETARY POLICY AS PER BOJ LAWS.
+- 09/18 16:04 [FirstSquawk] BRITAIN'S FTSE 100 DROPS 0.2%; FRANCE'S CAC 40 FALLS 0.39%; SPAIN'S IBEX DECLINES 0.14%.
+- 09/18 16:04 [FirstSquawk] JAPAN'S FINANCE MINISTER KATAYAMA PRAISES "TAKAICHINOMICS".
+- 09/18 16:07 [financialjuice] BoJ Gov Ueda when asked about possibly about raising rates consecutively or rate hike over 25 bps: Not ruling out any particular policy measures.
+- 09/18 16:08 [financialjuice] BoJ Gov Ueda: Overseas rate hikes could impact Japan through various channels including Forex.
+- 09/18 16:10 [FirstSquawk] VOLKSWAGEN GROUP OF AMERICA IS RECALLING 208,724 VEHICLES IN THE U.S. ACCORDING TO NHTSA.
+- 09/18 16:10 [FirstSquawk] VOLKSWAGEN IS RECALLING CERTAIN U.S. CARS DUE TO A FLAWED STEERING RACK HOUSING THAT MAY CAUSE A LOSS OF STEERING CONTROL, RAISING CRASH RISKS. - NHTSA
+- 09/18 16:10 [FirstSquawk] BOJ GOVERNOR UEDA SAYS NO POLICY OPTIONS ARE OFF THE TABLE, CONSIDERING DIFFERENT SCENARIOS BASED ON INFLATION WHEN QUESTIONED ABOUT A 50 BASIS POINT OR CONTINUOUS RATE INCREASE.
+- 09/18 16:15 [financialjuice] Citigroup expects Bank of Japan to hike interest rates by 25 bp in December 2026, March and july 2027 vs prior forecast of January, June and December 2027
+- 09/18 16:16 [FirstSquawk] BOJ GOVERNOR UEDA STATED THAT IT'S UNCERTAIN IF THE PIPELINE DISRUPTION IN SAUDI ARABIA WILL LAST LONGER AND MENTIONED THE NEED TO MONITOR THE SITUATION, NOT DISCOUNTING ANY SPECIFIC POLICY ACTIONS.
+- 09/18 16:17 [FirstSquawk] BOJ GOVERNOR UEDA DID NOT EXCLUDE ANY POLICY OPTIONS REGARDING POSSIBLE RATE INCREASES OR A 25 BPS HIKE. HE PLANS TO CONSULT WITH OTHER CENTRAL BANKS ABOUT THEIR RATE HIKE INTENTIONS. UEDA STATED THAT WHILE ANALYSIS IS ESSENTIAL, IT DOES NO…
+- 09/18 16:17 [FirstSquawk] CITIGROUP PREDICTS BANK OF JAPAN WILL INCREASE INTEREST RATES BY 25 BASIS POINTS IN DECEMBER 2026, MARCH AND JULY 2027, SHIFTING FROM AN EARLIER ESTIMATE OF INCREASES IN JANUARY, JUNE, AND DECEMBER 2027.
