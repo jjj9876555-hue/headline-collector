@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 03:26 JST／対象: 09/18 03:26 〜 09/19 03:26 JST（時刻はすべて日本時間）
+生成: 2026-09-19 03:43 JST／対象: 09/18 03:43 〜 09/19 03:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/18 06:19 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 347 | 09/18 03:33 | 09/19 03:14 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 261 | 09/18 03:31 | 09/19 03:08 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 348 | 09/18 03:49 | 09/19 03:32 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 260 | 09/18 03:45 | 09/19 03:42 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 604 行（統合前 617 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $101.91 a barrel, down 52 cents, 0.51%.
-- 09/18 03:31 [financialjuice] NYMEX Natural Gas October futures settle at $2.9010/MMBtu.
-- 09/18 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.5073 a gallon.
-- 09/18 03:32 [financialjuice] NYMEX Diesel October futures settle at $5.1139 a gallon.
-- 09/18 03:33 [FirstSquawk] US CRUDE FUTURES SETTLE 0.51% LOWER AT $101.91/BBL, DOWN 52 CENTS
-- 09/18 03:37 [financialjuice] State Department: Iran's core delegation is permitted to attend the UNGA.
 - 09/18 03:45 [financialjuice] Brent Crude futures settle at $104.82/bbl, down $1.01, 0.95%.
 - 09/18 03:49 [FirstSquawk] IRANIAN DELEGATION GRANTED VISAS FOR UN GENERAL ASSEMBLY - ABC
 - 09/18 03:49 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 0.95% LOWER AT $104.82/BBL, DOWN $1.01
@@ -628,3 +622,9 @@
 - 09/19 03:08 [financialjuice] The German government plans to cut taxes on gasoline by 17 euro cents per litre - Sources.
 - 09/19 03:09 [FirstSquawk] GERMANY WILL REDUCE GASOLINE TAXES BY 17 EURO CENTS PER LITRE
 - 09/19 03:14 [FirstSquawk] ANTHROPIC AIMING TO AMASS 5GW OF COMPUTE POWER BY YEAR END – FOX
+- 09/19 03:29 [FirstSquawk] MORE AMERICAN SERVICE MEMBERS HAVE DIED IN THE MIDDLE EAST DURING THE ONGOING IRAN WAR THAN THE PENTAGON HAS DISCLOSED PUBLICLY, ACCORDING TO SIX U.S. OFFICIALS FAMILIAR WITH THE DEFENSE DEPARTMENT’S INTERNAL CASUALTY ACCOUNTING DATA.
+- 09/19 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.5276 a gallon.
+- 09/19 03:31 [financialjuice] NYMEX Diesel October futures settle at $5.0578 a gallon.
+- 09/19 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $2.9120/MMBtu.
+- 09/19 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $100.30/BBL, DOWN $1.61, 1.58%
+- 09/19 03:42 [financialjuice] Brent Crude futures settle at $103.87/bbl, down 95 cents, 0.91%.

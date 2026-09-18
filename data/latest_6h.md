@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 03:26 JST／対象: 09/18 21:26 〜 09/19 03:26 JST（時刻はすべて日本時間）
+生成: 2026-09-19 03:43 JST／対象: 09/18 21:43 〜 09/19 03:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 76 | 09/18 21:41 | 09/19 03:14 | 31分（22:36→23:07） |
-| financialjuice | 55 | 09/18 21:27 | 09/19 03:08 | 38分（02:01→02:40） |
+| FirstSquawk | 76 | 09/18 22:04 | 09/19 03:32 | 31分（22:36→23:07） |
+| financialjuice | 57 | 09/18 22:00 | 09/19 03:42 | 38分（02:01→02:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 128 行（統合前 134 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 130 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 21:27 [financialjuice] Putin adviser Kirill Dmitriev and AfD leaders Alice Weidel and Tino Chrupalla are reportedly preparing for a meeting as early as March next year to discuss restarting Russian gas supplies to Germany. The talks would only go ahead if a Russi…
-- 09/18 21:31 [financialjuice] Anthropic plans to have 5GW worth of compute by year end - NYT.
-- 09/18 21:41 [FirstSquawk] EU'S KALLAS DISCUSSED WITH SAUDI FOREIGN MINISTER ON EFFORTS TO STOP FIGHTING IN YEMEN AND ENSURE SAFE NAVIGATION IN THE STRAIT OF HORMUZ.
-- 09/18 21:41 [FirstSquawk] KALLAS HAS INCREASED THE ALERT STATUS OF ITS VESSELS DUE TO OPERATION ASPIDES.
 - 09/18 22:00 [financialjuice] Effective Fed funds rate 3.88% September 17th vs 3.63% September 16th.
 - 09/18 22:04 [FirstSquawk] US EXPORTERS SHIP 111,000 TONS OF SOYBEANS TO CHINA.
 - 09/18 22:05 [FirstSquawk] 6.5 MAGNITUDE EARTHQUAKE OCCURS 169 KM WEST OF NIKOLSKI, ALASKA, ACCORDING TO USGS.
@@ -152,3 +148,9 @@
 - 09/19 03:08 [financialjuice] The German government plans to cut taxes on gasoline by 17 euro cents per litre - Sources.
 - 09/19 03:09 [FirstSquawk] GERMANY WILL REDUCE GASOLINE TAXES BY 17 EURO CENTS PER LITRE
 - 09/19 03:14 [FirstSquawk] ANTHROPIC AIMING TO AMASS 5GW OF COMPUTE POWER BY YEAR END – FOX
+- 09/19 03:29 [FirstSquawk] MORE AMERICAN SERVICE MEMBERS HAVE DIED IN THE MIDDLE EAST DURING THE ONGOING IRAN WAR THAN THE PENTAGON HAS DISCLOSED PUBLICLY, ACCORDING TO SIX U.S. OFFICIALS FAMILIAR WITH THE DEFENSE DEPARTMENT’S INTERNAL CASUALTY ACCOUNTING DATA.
+- 09/19 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.5276 a gallon.
+- 09/19 03:31 [financialjuice] NYMEX Diesel October futures settle at $5.0578 a gallon.
+- 09/19 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $2.9120/MMBtu.
+- 09/19 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $100.30/BBL, DOWN $1.61, 1.58%
+- 09/19 03:42 [financialjuice] Brent Crude futures settle at $103.87/bbl, down 95 cents, 0.91%.
