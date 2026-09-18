@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 01:16 JST／対象: 09/18 01:16 〜 09/19 01:16 JST（時刻はすべて日本時間）
+生成: 2026-09-19 01:33 JST／対象: 09/18 01:33 〜 09/19 01:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/18 02:10 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 348 | 09/18 01:16 | 09/19 01:16 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 273 | 09/18 01:29 | 09/19 01:06 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 348 | 09/18 01:46 | 09/19 01:29 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 274 | 09/18 01:41 | 09/19 01:32 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 622 行（統合前 639 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 621 行（統合前 640 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 01:16 [FirstSquawk] FEDERAL AVIATION ADMINISTRATION APPROVES BOEING REQUEST TO SELL UP TO 35 ADDITIONAL 777F FREIGHTERS -- AGENCY
-- 09/18 01:29 [financialjuice] French PM Lecornu: Targeting 2027 deficit at 5% of GDP
-- 09/18 01:29 [FirstSquawk] RUSSIA CLAIMS TO HAVE STRUCK SHIP AT UKRAINE'S CHORNOMORSK PORT - IFX
-- 09/18 01:29 [financialjuice] French PM Lecornu aims to keep 2026 deficit below 5.5% GDP
-- 09/18 01:30 [financialjuice] French PM Lecornu: Aim to trim one-off tax on big firms to €5 billion
-- 09/18 01:31 [financialjuice] Oil refinery in Russia's Yaroslavl region halts crude processing after a drone attack - sources.
-- 09/18 01:32 [FirstSquawk] STRAIT OF HORMUZ THREAT LEVEL REMAINS SEVERE – UKMTO
 - 09/18 01:41 [financialjuice] French PM Lecornu: We will not raise taxes - Le Figaro
 - 09/18 01:45 [financialjuice] Fed bids for 10 Yr tips total $2.9 bln
 - 09/18 01:46 [FirstSquawk] BAE SYSTEMS ONEARC AWARDED OTHER TRANSACTION AGREEMENT CONTRACT BY US ARMY TO INTEGRATE ECT SOLUTION
@@ -646,3 +639,9 @@
 - 09/19 01:06 [financialjuice] A shipment of F-35 parts diverted to HK this summer - Politico. $LMT
 - 09/19 01:08 [FirstSquawk] FED'S SCHMID: AGREES WITH WARSH ON ECONOMIC GROWTH, DEMAND FOR CAPITAL FROM AI INVESTMENT, GEOPOLITICAL CHALLENGES CAUSING BOND YIELDS TO RISE
 - 09/19 01:16 [FirstSquawk] NASA AWARDS SPACEX THREE CREW FLIGHTS TO SPACE STATION
+- 09/19 01:19 [financialjuice] Moolenaar to Trump: PRC not a long-term market for American AI. urges tighter AI chip export controls on China
+- 09/19 01:21 [FirstSquawk] HOUSE CHINA PANEL CHAIR MOOLENAAR URGES TRUMP TO TIGHTEN AI CHIP EXPORT CONTROLS ON CHINA
+- 09/19 01:25 [financialjuice] Fed's Schmid: US Treasury's buybacks don't make Fed's job harder or easier.
+- 09/19 01:28 [financialjuice/FirstSquawk] Trump to NewsNation: US is talking to the Houthis.
+- 09/19 01:28 [financialjuice/FirstSquawk] ❗ Trump to NewsNation: Houthis would also like to make a deal.
+- 09/19 01:32 [financialjuice] Trump: We’ll see’ on whether to annihilate Iran - NewsNation

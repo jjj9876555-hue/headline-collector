@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 01:16 JST／対象: 09/18 13:16 〜 09/19 01:16 JST（時刻はすべて日本時間）
+生成: 2026-09-19 01:33 JST／対象: 09/18 13:33 〜 09/19 01:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 162 | 09/18 13:20 | 09/19 01:16 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 114 | 09/18 14:00 | 09/19 01:06 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 162 | 09/18 13:35 | 09/19 01:29 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 119 | 09/18 14:00 | 09/19 01:32 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 278 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 281 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 13:20 [FirstSquawk] WSJ: Singapore dollar remains stable as markets weigh the risk of U.S. dollar debasement.
-- 09/18 13:30 [FirstSquawk] Washington set to allow Iranian leaders into New York for UN meeting despite wartime stand-off - SCMP
-- 09/18 13:32 [FirstSquawk] PAKISTAN IN CRISIS MODE: MARKETS TO SHUT BY 9 PM, FUEL USE SLASHED 50%, FOREIGN TRAVEL RESTRICTED
 - 09/18 13:35 [FirstSquawk] Kansai Electric finishes decommissioning work on problematic Mihama nuclear reactor.
 - 09/18 13:44 [FirstSquawk] Yonhap: North Korea’s nuclear test may have triggered more than 1,300 earthquakes, report says.
 - 09/18 13:52 [FirstSquawk] FXStreet: WTI crude consolidates below $96.50 as Middle East tensions continue to support bullish sentiment.
@@ -302,3 +299,9 @@
 - 09/19 01:06 [financialjuice] A shipment of F-35 parts diverted to HK this summer - Politico. $LMT
 - 09/19 01:08 [FirstSquawk] FED'S SCHMID: AGREES WITH WARSH ON ECONOMIC GROWTH, DEMAND FOR CAPITAL FROM AI INVESTMENT, GEOPOLITICAL CHALLENGES CAUSING BOND YIELDS TO RISE
 - 09/19 01:16 [FirstSquawk] NASA AWARDS SPACEX THREE CREW FLIGHTS TO SPACE STATION
+- 09/19 01:19 [financialjuice] Moolenaar to Trump: PRC not a long-term market for American AI. urges tighter AI chip export controls on China
+- 09/19 01:21 [FirstSquawk] HOUSE CHINA PANEL CHAIR MOOLENAAR URGES TRUMP TO TIGHTEN AI CHIP EXPORT CONTROLS ON CHINA
+- 09/19 01:25 [financialjuice] Fed's Schmid: US Treasury's buybacks don't make Fed's job harder or easier.
+- 09/19 01:28 [financialjuice/FirstSquawk] Trump to NewsNation: US is talking to the Houthis.
+- 09/19 01:28 [financialjuice/FirstSquawk] ❗ Trump to NewsNation: Houthis would also like to make a deal.
+- 09/19 01:32 [financialjuice] Trump: We’ll see’ on whether to annihilate Iran - NewsNation
