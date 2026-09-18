@@ -7,25 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 06:41 JST／対象: 09/18 18:41 〜 09/19 06:41 JST（時刻はすべて日本時間）
+生成: 2026-09-19 06:51 JST／対象: 09/18 18:51 〜 09/19 06:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/18 18:54 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
 | FirstSquawk | 119 | 09/18 19:01 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 115 | 09/18 18:44 | 09/19 06:25 | ⚠ 53分（20:06→21:00） |
+| financialjuice | 118 | 09/18 19:18 | 09/19 06:47 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 238 行（統合前 247 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 242 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 18:44 [financialjuice] Anthropic, OpenAI mull small UK, Nordics data center deals - CNBC
-- 09/18 18:46 [financialjuice/DeItaone] JP Morgan expects ECB to deliver another 25 bp interest rate hike in March 2027 after a December hike vs prior forecast of rates on hold in 2027.
+- 09/18 18:54 [DeItaone] JP MORGAN EXPECTS ECB TO DELIVER ANOTHER 25 BP INTEREST RATE HIKE IN MARCH 2027 AFTER A DECEMBER HIKE VS PRIOR FORECAST OF RATES ON HOLD IN 2027
 - 09/18 19:01 [FirstSquawk] BERKSHIRE HAS APPOINTED WARREN BUFFETT AS CHAIRMAN EMERITUS.
 - 09/18 19:08 [DeItaone] ANTHROPIC BUILDS BIOLOGY LAB TO PUSH AI INTO DRUG DEVELOPMENT Anthropic has quietly established a Bay Area wet lab, moving its life-sciences ambitions beyond computer simulations and into physical biological experiments. The company wants C…
 - 09/18 19:14 [FirstSquawk] RUSSIAN MILITARY STRIKES CARGO SHIP IN ODESA, ACCORDING TO DEFENSE MINISTRY.
@@ -262,3 +261,8 @@
 - 09/19 06:22 [DeItaone] TRUMP: UNITED STATES WILL FOREVER HAVE COMPLETE ABILITY TO DO WHAT IS NECESSARY IN GREENLAND IN ORDER TO SECURE AND DEFEND SECURITY OF GREENLAND
 - 09/19 06:23 [DeItaone] TRUMP: UNITED STATES PERMANENT CONTROL OVER SECURITY, AND ALL OTHER NEEDS, IN GREENLAND
 - 09/19 06:25 [financialjuice] US Secretary of State Rubio: strengthened vital role of U.S.-Japan-ROK trilateral cooperation in protecting regional security
+- 09/19 06:45 [financialjuice] Trump signs Russia sanctions bill into law: White House
+- 09/19 06:45 [financialjuice] White House proclamation: limits on entry of specific nonimmigrant workers
+- 09/19 06:46 [financialjuice] Danish PM office: Greenland, Denmark, US to sign deal next week boosting security in Arctic and North Atlantic region
+- 09/19 06:46 [financialjuice] Flights at Luxembourg paused amid unauthorized drone activity, says Flightradar24
+- 09/19 06:47 [financialjuice] White House: 2025 proclamation on H-1B visas extended by 12 months

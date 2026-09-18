@@ -7,25 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 06:41 JST／対象: 09/19 00:41 〜 09/19 06:41 JST（時刻はすべて日本時間）
+生成: 2026-09-19 06:51 JST／対象: 09/19 00:51 〜 09/19 06:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 49 | 09/19 00:49 | 09/19 05:07 | 19分（04:21→04:40） |
-| financialjuice | 59 | 09/19 00:48 | 09/19 06:25 | 38分（02:01→02:40） |
+| FirstSquawk | 48 | 09/19 01:01 | 09/19 05:07 | 19分（04:21→04:40） |
+| financialjuice | 63 | 09/19 00:52 | 09/19 06:47 | 38分（02:01→02:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 110 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 114 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 00:48 [financialjuice/FirstSquawk] BoJ likely conducted rate checks in currency market - Nikkei
-- 09/19 00:51 [financialjuice] Fed's Schmid: I agree with Chairman Warsh's framework on why bond yields have gone up. Economic growth, demand for capital from al investment, geopolitical challenges.
+- 09/19 00:52 [financialjuice] BoJ likely conducted rate checks in currency market - Nikkei
 - 09/19 01:01 [FirstSquawk] CITIGROUP’S FRASER EXPECTED TO ATTEND TRUMP'S STATE DINNER FOR CHINESE PRESIDENT XI
 - 09/19 01:06 [financialjuice] A shipment of F-35 parts diverted to HK this summer - Politico. $LMT
 - 09/19 01:08 [FirstSquawk] FED'S SCHMID: AGREES WITH WARSH ON ECONOMIC GROWTH, DEMAND FOR CAPITAL FROM AI INVESTMENT, GEOPOLITICAL CHALLENGES CAUSING BOND YIELDS TO RISE
@@ -134,3 +133,8 @@
 - 09/19 06:22 [DeItaone] TRUMP: UNITED STATES WILL FOREVER HAVE COMPLETE ABILITY TO DO WHAT IS NECESSARY IN GREENLAND IN ORDER TO SECURE AND DEFEND SECURITY OF GREENLAND
 - 09/19 06:23 [DeItaone] TRUMP: UNITED STATES PERMANENT CONTROL OVER SECURITY, AND ALL OTHER NEEDS, IN GREENLAND
 - 09/19 06:25 [financialjuice] US Secretary of State Rubio: strengthened vital role of U.S.-Japan-ROK trilateral cooperation in protecting regional security
+- 09/19 06:45 [financialjuice] Trump signs Russia sanctions bill into law: White House
+- 09/19 06:45 [financialjuice] White House proclamation: limits on entry of specific nonimmigrant workers
+- 09/19 06:46 [financialjuice] Danish PM office: Greenland, Denmark, US to sign deal next week boosting security in Arctic and North Atlantic region
+- 09/19 06:46 [financialjuice] Flights at Luxembourg paused amid unauthorized drone activity, says Flightradar24
+- 09/19 06:47 [financialjuice] White House: 2025 proclamation on H-1B visas extended by 12 months

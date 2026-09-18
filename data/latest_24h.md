@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 06:41 JST／対象: 09/18 06:41 〜 09/19 06:41 JST（時刻はすべて日本時間）
+生成: 2026-09-19 06:51 JST／対象: 09/18 06:51 〜 09/19 06:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 339 | 09/18 06:44 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 279 | 09/18 06:44 | 09/19 06:25 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 337 | 09/18 07:10 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 283 | 09/18 07:45 | 09/19 06:47 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 623 行（統合前 633 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 625 行（統合前 634 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 06:44 [FirstSquawk] U.S. STATE DEPARTMENT SAYS THE U.S. WILL CONTINUE TO BAR IRANIAN UN MISSION OFFICIALS, VISITING OFFICIALS AND THEIR DEPENDENTS FROM PURCHASING WHOLESALE CLUB MEMBERSHIPS OR LUXURY GOODS, URGING NEW YORK-AREA RETAILERS TO AVOID COMPLICITY IN…
-- 09/18 06:44 [financialjuice] President Trump outlines plans for first meeting with Venezuela's interim chief Delcy Rodriguez as early as next week - Axios
-- 09/18 06:44 [FirstSquawk] TRUMP PLANS FIRST-EVER MEETING WITH VENEZUELA’S INTERIM PRESIDENT DELCY RODRIGUEZ AS EARLY AS NEXT WEEK — AXIOS
 - 09/18 07:10 [FirstSquawk] PENTAGON REVIEWS POTENTIAL CUT OF UP TO 40,000 U.S. TROOPS IN EUROPE, WITH GERMANY, ITALY AND SPAIN AMONG THOSE THAT COULD BE AFFECTED; NO FINAL DECISION HAS BEEN MADE, WITH RECOMMENDATIONS EXPECTED IN NOVEMBER. - NBC NEWS.
 - 09/18 07:20 [FirstSquawk] ZENITH MINERALS’ TAKEOVER OFFER REMAINS OPEN FOR ACCEPTANCES, WITH THE TAKEOVERS PANEL ISSUING ORDERS REGARDING MATTERS INVOLVING FORRESTANIA RESOURCES. || THE ORDERS DO NOT PREVENT FORRESTANIA RESOURCES FROM PROCEEDING WITH ITS TAKEOVER OF…
 - 09/18 07:23 [FirstSquawk] JPMORGAN, CIBC WIN MANDATE TO ADVISE CARNEY GOVERNMENT ON SALE OF CANADA AIRPORT CONCESSIONS
@@ -647,3 +644,8 @@
 - 09/19 06:22 [DeItaone] TRUMP: UNITED STATES WILL FOREVER HAVE COMPLETE ABILITY TO DO WHAT IS NECESSARY IN GREENLAND IN ORDER TO SECURE AND DEFEND SECURITY OF GREENLAND
 - 09/19 06:23 [DeItaone] TRUMP: UNITED STATES PERMANENT CONTROL OVER SECURITY, AND ALL OTHER NEEDS, IN GREENLAND
 - 09/19 06:25 [financialjuice] US Secretary of State Rubio: strengthened vital role of U.S.-Japan-ROK trilateral cooperation in protecting regional security
+- 09/19 06:45 [financialjuice] Trump signs Russia sanctions bill into law: White House
+- 09/19 06:45 [financialjuice] White House proclamation: limits on entry of specific nonimmigrant workers
+- 09/19 06:46 [financialjuice] Danish PM office: Greenland, Denmark, US to sign deal next week boosting security in Arctic and North Atlantic region
+- 09/19 06:46 [financialjuice] Flights at Luxembourg paused amid unauthorized drone activity, says Flightradar24
+- 09/19 06:47 [financialjuice] White House: 2025 proclamation on H-1B visas extended by 12 months
