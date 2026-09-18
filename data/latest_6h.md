@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 06:06 JST／対象: 09/19 00:06 〜 09/19 06:06 JST（時刻はすべて日本時間）
+生成: 2026-09-19 06:23 JST／対象: 09/19 00:23 〜 09/19 06:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/19 05:09 | 09/19 05:10 | 0分（05:09→05:10） |
-| FirstSquawk | 57 | 09/19 00:12 | 09/19 05:07 | 19分（04:21→04:40） |
-| financialjuice | 57 | 09/19 00:24 | 09/19 06:04 | 38分（02:01→02:40） |
+| DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
+| FirstSquawk | 54 | 09/19 00:26 | 09/19 05:07 | 19分（04:21→04:40） |
+| financialjuice | 65 | 09/19 00:24 | 09/19 06:20 | 38分（02:01→02:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 121 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 00:12 [FirstSquawk] NORTHROP GRUMMAN TO DELIVER NEW SPACE DOMAIN AWARENESS PROTOTYPE SATELLITE
-- 09/19 00:19 [FirstSquawk] FRANCE'S CNP ASSURANCES IS CONSIDERING A TAKEOVER OFFER FOR COFACE.
-- 09/19 00:19 [FirstSquawk] VW EXPECTS FY OPERATING RETURN ON SALES TO INCREASE TO 1%, UP FROM 4% TO 5.5%, ESTIMATED AT 4.29%.
 - 09/19 00:24 [financialjuice] Auto industry urges Trump administration to keep Chinese vehicles out of US ahead of Xi visit - letter
 - 09/19 00:26 [FirstSquawk] VOLKSWAGEN STOCK DROPS 7.5% FOLLOWING A CUT IN COMPANY GUIDANCE.
 - 09/19 00:27 [FirstSquawk] GROUP TIED TO RFK JR. GAVE ACCESS TO U.S. OFFICIALS AT AN EVENT.
@@ -135,3 +132,16 @@
 - 09/19 05:41 [financialjuice] Russia seeks to undermine the US elections - NYT, citing intelligence.
 - 09/19 05:42 [financialjuice] Russia Aims to Inject Chaos Into Elections, U.S. Intelligence Finds
 - 09/19 06:04 [financialjuice] South Korean foreign minister reaffirms to Rubio Sequil intent to contribute significantly to restoring free passage through Hormuz Strait - Yonhap
+- 09/19 06:11 [financialjuice] US, Denmark nearing agreement on Greenland, sources say
+- 09/19 06:11 [financialjuice] Deal will boost military presence in Greenland without impacting sovereignty, sources say
+- 09/19 06:15 [DeItaone] U.S. AND DENMARK CLOSE IN ON GREENLAND DEAL The U.S. and Denmark are nearing a potential agreement that could expand the American military presence in Greenland, Reuters reports. The proposed deal would stop short of Trump’s stated ambition…
+- 09/19 06:17 [financialjuice] North Korea's Kim Jong Un: Modernisation across military signals major shift in war response 계획 - KCNA
+- 09/19 06:18 [financialjuice] North Korea: IAEA resolution does not affect country’s status as nuclear state -KCNA
+- 09/19 06:19 [financialjuice] Trump: united States has reached agreement with Kingdom of Denmark and Greenland
+- 09/19 06:20 [financialjuice] Trump: United States to maintain permanent oversight of security and other requirements in Greenland
+- 09/19 06:20 [financialjuice] Trump: no expense to United States
+- 09/19 06:20 [DeItaone] TRUMP MOVES TO BAN MAJOR MEDIA OUTLETS President Trump says CNN, MS NOW and Politico will be banned from the White House, accusing them of publishing “fake news” and warning other outlets could follow. The scope remains unclear, while First…
+- 09/19 06:20 [financialjuice] Trump: US will always have full authority to act in Greenland to protect and defend its security
+- 09/19 06:21 [DeItaone] TRUMP: I AM PLEASED TO ANNOUNCE THAT UNITED STATES OF AMERICA HAS ENTERED INTO AN AGREEMENT WITH KINGDOM OF DENMARK, AND GREENLAND,
+- 09/19 06:22 [DeItaone] TRUMP: UNITED STATES WILL FOREVER HAVE COMPLETE ABILITY TO DO WHAT IS NECESSARY IN GREENLAND IN ORDER TO SECURE AND DEFEND SECURITY OF GREENLAND
+- 09/19 06:23 [DeItaone] TRUMP: UNITED STATES PERMANENT CONTROL OVER SECURITY, AND ALL OTHER NEEDS, IN GREENLAND

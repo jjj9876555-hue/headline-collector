@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 06:06 JST／対象: 09/18 06:06 〜 09/19 06:06 JST（時刻はすべて日本時間）
+生成: 2026-09-19 06:23 JST／対象: 09/18 06:23 〜 09/19 06:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/18 06:19 | 09/19 05:10 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 352 | 09/18 06:20 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 275 | 09/18 06:06 | 09/19 06:04 | ⚠ 60分（06:44→07:45） |
+| DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
+| FirstSquawk | 343 | 09/18 06:24 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 278 | 09/18 06:44 | 09/19 06:20 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 627 行（統合前 638 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 626 行（統合前 636 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 06:06 [financialjuice/FirstSquawk] North Korea's Kim Yo Jong: U.S.-led multinational exercises are primary cause of rising tensions on Korean peninsula
-- 09/18 06:07 [financialjuice] North Korea’s Kim Yo Jong: no shift in strategy to bolster nuclear war deterrence
-- 09/18 06:07 [financialjuice] North Korea's Kim Yo Jong: armed forces to deploy all options if military sovereignty and security interests are seriously threatened
-- 09/18 06:19 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 6:30 PM ET Thu. — 🇯🇵 Japan CPI ~10:30–11:30 PM ET Thu. — 🇯🇵 BOJ Rate Decision 2:00 AM ET — 🇬🇧 UK Retail Sales 2:30 AM ET — 🎙️ BOJ Governor Ueda 9:15 AM ET — 🇺🇸 Industrial Production 9:30 AM ET — 🏦 Fed V…
-- 09/18 06:19 [financialjuice] Iran's IRGC navy: targeted Togo-flagged oil tanker after it attempted illegal passage through Hormuz Strait - Iran's Fars
-- 09/18 06:20 [FirstSquawk] QUALCOMM CEO TO ATTEND TRUMP-XI STATE DINNER, SIGNALING HIGH-LEVEL US-CHINA TECH ENGAGEMENT
-- 09/18 06:20 [financialjuice] Iran's IRGC navy reports oil tanker fire - Fars
-- 09/18 06:20 [FirstSquawk] HEALEY TO URGE BRUSSELS TO INCLUDE UK IN 'MADE IN EUROPE' POLICY: FT
-- 09/18 06:21 [FirstSquawk] BRITISH FINANCE MINISTER WILL ON FRIDAY SIGNAL TO EU COUNTERPARTS THAT LONDON IS OPEN TO NEGOTIATE A ‘RESET’ DEAL - FT
-- 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG SAYS US-LED MULTINATIONAL MILITARY EXERCISES ARE THE PRIMARY CAUSE OF RISING KOREAN PENINSULA TENSIONS
-- 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG SAYS NO SHIFT IN STRATEGY TO STRENGTHEN NUCLEAR WAR DETERRENCE
-- 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG WARNS ARMED FORCES WILL USE “ALL OPTIONS” IF MILITARY SOVEREIGNTY OR SECURITY INTERESTS ARE SERIOUSLY THREATENED
-- 09/18 06:22 [FirstSquawk] IRAN’S IRGC NAVY SAYS IT TARGETED TOGO-FLAGGED OIL TANKER AFTER ALLEGED “ILLEGAL” HORMUZ TRANSIT; TANKER CAUGHT FIRE — FARS
-- 09/18 06:23 [FirstSquawk] US ENERGY DEPARTMENT AUTHORIZES PJM TO DIRECT BACKUP GENERATION RESOURCES AMID HEAT-DRIVEN BLACKOUT RISKS, SECURING MID-ATLANTIC GRID SEPT. 17-18
 - 09/18 06:24 [FirstSquawk] DISNEY URGES US JUDGE TO BLOCK FCC EARLY LICENSE REVIEWS, CITING PRESIDENT TRUMP’S “ONGOING THREATS” — FILING
 - 09/18 06:35 [FirstSquawk] BRAZIL CENTRAL BANK TO OFFER UP TO $1 BILLION IN DOLLAR AUCTION WITH REPURCHASE AGREEMENT ON SEPTEMBER 18
 - 09/18 06:38 [FirstSquawk] F-16 FIGHTER JET CRASHES DURING ROUTINE TRAINING EXERCISE IN GRAND TRAVERSE COUNTY, MICHIGAN; PILOT EJECTS SAFELY AND REMAINS IN STABLE CONDITION, WITH NO OTHER INJURIES REPORTED. - CBS NEWS.
@@ -651,3 +637,16 @@
 - 09/19 05:41 [financialjuice] Russia seeks to undermine the US elections - NYT, citing intelligence.
 - 09/19 05:42 [financialjuice] Russia Aims to Inject Chaos Into Elections, U.S. Intelligence Finds
 - 09/19 06:04 [financialjuice] South Korean foreign minister reaffirms to Rubio Sequil intent to contribute significantly to restoring free passage through Hormuz Strait - Yonhap
+- 09/19 06:11 [financialjuice] US, Denmark nearing agreement on Greenland, sources say
+- 09/19 06:11 [financialjuice] Deal will boost military presence in Greenland without impacting sovereignty, sources say
+- 09/19 06:15 [DeItaone] U.S. AND DENMARK CLOSE IN ON GREENLAND DEAL The U.S. and Denmark are nearing a potential agreement that could expand the American military presence in Greenland, Reuters reports. The proposed deal would stop short of Trump’s stated ambition…
+- 09/19 06:17 [financialjuice] North Korea's Kim Jong Un: Modernisation across military signals major shift in war response 계획 - KCNA
+- 09/19 06:18 [financialjuice] North Korea: IAEA resolution does not affect country’s status as nuclear state -KCNA
+- 09/19 06:19 [financialjuice] Trump: united States has reached agreement with Kingdom of Denmark and Greenland
+- 09/19 06:20 [financialjuice] Trump: United States to maintain permanent oversight of security and other requirements in Greenland
+- 09/19 06:20 [financialjuice] Trump: no expense to United States
+- 09/19 06:20 [DeItaone] TRUMP MOVES TO BAN MAJOR MEDIA OUTLETS President Trump says CNN, MS NOW and Politico will be banned from the White House, accusing them of publishing “fake news” and warning other outlets could follow. The scope remains unclear, while First…
+- 09/19 06:20 [financialjuice] Trump: US will always have full authority to act in Greenland to protect and defend its security
+- 09/19 06:21 [DeItaone] TRUMP: I AM PLEASED TO ANNOUNCE THAT UNITED STATES OF AMERICA HAS ENTERED INTO AN AGREEMENT WITH KINGDOM OF DENMARK, AND GREENLAND,
+- 09/19 06:22 [DeItaone] TRUMP: UNITED STATES WILL FOREVER HAVE COMPLETE ABILITY TO DO WHAT IS NECESSARY IN GREENLAND IN ORDER TO SECURE AND DEFEND SECURITY OF GREENLAND
+- 09/19 06:23 [DeItaone] TRUMP: UNITED STATES PERMANENT CONTROL OVER SECURITY, AND ALL OTHER NEEDS, IN GREENLAND
