@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 05:23 JST／対象: 09/18 05:23 〜 09/19 05:23 JST（時刻はすべて日本時間）
+生成: 2026-09-19 05:42 JST／対象: 09/18 05:42 〜 09/19 05:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/18 06:19 | 09/19 05:10 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 353 | 09/18 05:40 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 273 | 09/18 05:55 | 09/19 05:22 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 352 | 09/18 06:20 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 278 | 09/18 05:55 | 09/19 05:41 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 624 行（統合前 637 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 628 行（統合前 641 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 05:40 [FirstSquawk] ANTHROPIC SAID ITS MEASUREMENTS WILL FOCUS ON HOW AI MODELS ARE BUILT AND DEVELOPED, WITH THE DATA SHARED TO HELP TRACK PROGRESS; CLAUDE ACCOUNTED FOR 26% OF AI R&D USE AS OF AUGUST 2026.
 - 09/18 05:55 [financialjuice] Qualcomm's CEO will attend Trump's state dinner with China’s President Xi. $QCOM
 - 09/18 06:00 [financialjuice] S. KOREAN PPI YOY ACTUAL 7.9% (FORECAST -, PREVIOUS 7.7%) $MACRO
 - 09/18 06:00 [financialjuice] S. KOREAN PPI MOM ACTUAL 0.2% (FORECAST -, PREVIOUS -0.4%) $MACRO
@@ -648,3 +647,8 @@
 - 09/19 05:20 [financialjuice] Trump on Xi visit: We get along very well.
 - 09/19 05:21 [financialjuice] Trump asked on Xi visit: We'll have a lot of different deals
 - 09/19 05:22 [financialjuice] OpenAI's Altman is going to brief the UN Security Council next week.
+- 09/19 05:26 [financialjuice] US and China are discussing cutting or eliminating China’s 15% tariff on U.S. LNG as part of a broader energy and agriculture package that could be announced when Xi Jinping visits Washington next week - Two People Familiar With Discussions…
+- 09/19 05:28 [financialjuice] The framework could also see each side cut tariffs on about $30B of goods. The move could reopen China’s market to U.S. LNG producers as a wave of new Gulf Coast export capacity comes online - Two people familiar with discussions.
+- 09/19 05:31 [financialjuice] Arab sources report that an explosion was heard in Jazan and Abha, Saudi Arabia - Fars News.
+- 09/19 05:36 [financialjuice] Trump ends remarks to reporters at the White House.
+- 09/19 05:41 [financialjuice] Russia seeks to undermine the US elections - NYT, citing intelligence.

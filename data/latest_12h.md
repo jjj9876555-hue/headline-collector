@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 05:23 JST／対象: 09/18 17:23 〜 09/19 05:23 JST（時刻はすべて日本時間）
+生成: 2026-09-19 05:42 JST／対象: 09/18 17:42 〜 09/19 05:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/18 18:11 | 09/19 05:10 | ⚠ 523分（20:26→05:09） |
 | FirstSquawk | 132 | 09/18 17:53 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 101 | 09/18 18:00 | 09/19 05:22 | ⚠ 53分（20:06→21:00） |
+| financialjuice | 106 | 09/18 18:00 | 09/19 05:41 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 233 行（統合前 242 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 238 行（統合前 247 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -257,3 +257,8 @@
 - 09/19 05:20 [financialjuice] Trump on Xi visit: We get along very well.
 - 09/19 05:21 [financialjuice] Trump asked on Xi visit: We'll have a lot of different deals
 - 09/19 05:22 [financialjuice] OpenAI's Altman is going to brief the UN Security Council next week.
+- 09/19 05:26 [financialjuice] US and China are discussing cutting or eliminating China’s 15% tariff on U.S. LNG as part of a broader energy and agriculture package that could be announced when Xi Jinping visits Washington next week - Two People Familiar With Discussions…
+- 09/19 05:28 [financialjuice] The framework could also see each side cut tariffs on about $30B of goods. The move could reopen China’s market to U.S. LNG producers as a wave of new Gulf Coast export capacity comes online - Two people familiar with discussions.
+- 09/19 05:31 [financialjuice] Arab sources report that an explosion was heard in Jazan and Abha, Saudi Arabia - Fars News.
+- 09/19 05:36 [financialjuice] Trump ends remarks to reporters at the White House.
+- 09/19 05:41 [financialjuice] Russia seeks to undermine the US elections - NYT, citing intelligence.

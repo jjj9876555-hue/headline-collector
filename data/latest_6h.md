@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 05:23 JST／対象: 09/18 23:23 〜 09/19 05:23 JST（時刻はすべて日本時間）
+生成: 2026-09-19 05:42 JST／対象: 09/18 23:42 〜 09/19 05:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/19 05:09 | 09/19 05:10 | 0分（05:09→05:10） |
-| FirstSquawk | 68 | 09/18 23:24 | 09/19 05:07 | 19分（04:21→04:40） |
-| financialjuice | 56 | 09/18 23:40 | 09/19 05:22 | 38分（02:01→02:40） |
+| FirstSquawk | 64 | 09/18 23:44 | 09/19 05:07 | 19分（04:21→04:40） |
+| financialjuice | 60 | 09/18 23:56 | 09/19 05:41 | 38分（02:01→02:40） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 121 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 23:24 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: IN ‘CONSTANT COMMUNICATION’ WITH TRUMP
-- 09/18 23:29 [FirstSquawk] IRGC-NAVY FIRES AT LEAST 5 CRUISE MISSILES AT SHIPS IN THE STRAIT OF HORMOZ.
-- 09/18 23:36 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: WE RESPECT CANADA'S DECISION TO APPROACH EU
-- 09/18 23:40 [FirstSquawk] SAUDI ARABIA'S EAST-WEST PIPELINE SUPPORTS THE GLOBAL OIL MARKET AMIDST DISRUPTIONS IN THE STRAIT OF HORMUZ.
-- 09/18 23:40 [financialjuice] Al Arabiya Sources: Pakistan's Interior Minister is heading to Iran in the coming hours.
 - 09/18 23:44 [FirstSquawk] PAKISTAN'S INTERIOR MINISTER HEADS TO IRAN IN THE COMING HOURS
 - 09/18 23:45 [FirstSquawk] PAKISTANI INTERIOR MINISTER DISCUSSES HOUTHI ESCALATION IN YEMEN DURING TEHRAN VISIT
 - 09/18 23:52 [FirstSquawk] SAUDI PIPELINE BUFFERS GLOBAL OIL MARKETS FROM HORMUZ CHOKEPOINTS Saudi Arabia's East-West Pipeline functions as a critical economic safety valve, allowing millions of barrels of crude to bypass the volatile Strait of Hormuz and flow direct…
@@ -145,3 +140,8 @@
 - 09/19 05:20 [financialjuice] Trump on Xi visit: We get along very well.
 - 09/19 05:21 [financialjuice] Trump asked on Xi visit: We'll have a lot of different deals
 - 09/19 05:22 [financialjuice] OpenAI's Altman is going to brief the UN Security Council next week.
+- 09/19 05:26 [financialjuice] US and China are discussing cutting or eliminating China’s 15% tariff on U.S. LNG as part of a broader energy and agriculture package that could be announced when Xi Jinping visits Washington next week - Two People Familiar With Discussions…
+- 09/19 05:28 [financialjuice] The framework could also see each side cut tariffs on about $30B of goods. The move could reopen China’s market to U.S. LNG producers as a wave of new Gulf Coast export capacity comes online - Two people familiar with discussions.
+- 09/19 05:31 [financialjuice] Arab sources report that an explosion was heard in Jazan and Abha, Saudi Arabia - Fars News.
+- 09/19 05:36 [financialjuice] Trump ends remarks to reporters at the White House.
+- 09/19 05:41 [financialjuice] Russia seeks to undermine the US elections - NYT, citing intelligence.
