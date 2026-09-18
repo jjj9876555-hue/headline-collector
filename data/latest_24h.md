@@ -7,50 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 13:21 JST／対象: 09/17 13:21 〜 09/18 13:21 JST（時刻はすべて日本時間）
+生成: 2026-09-18 13:35 JST／対象: 09/17 13:35 〜 09/18 13:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 347 | 09/17 13:22 | 09/18 13:20 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 318 | 09/17 13:22 | 09/18 13:07 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 334 | 09/17 13:36 | 09/18 13:35 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 307 | 09/17 14:08 | 09/18 13:07 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 666 行（統合前 683 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 642 行（統合前 659 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 13:22 [FirstSquawk] India says it has noted the US Congress passage of legislation imposing sanctions on Russia and Iran.
-- 09/17 13:22 [financialjuice] India foreign ministry: India has noted passage of bill sanctioning Russia and Iran in U.S. Congress
-- 09/17 13:22 [financialjuice] India foreign ministry: India remains strongly committed to securing energy supplies for its people
-- 09/17 13:22 [FirstSquawk] India says it remains firmly focused on ensuring energy security for its people.
-- 09/17 13:23 [financialjuice] India foreign ministry: India will maintain approach via diversified sourcing and adapting to changing market dynamics
-- 09/17 13:23 [FirstSquawk] India says it will maintain diversified sourcing while responding to evolving market dynamics.
-- 09/17 13:24 [FirstSquawk] Asian currencies weaken as rising US rates and high oil prices weigh on the region, FT reports.
-- 09/17 13:24 [financialjuice] Japan finance minister Katayama to stay in post in cabinet reshuffle, government spokesperson:
-- 09/17 13:24 [FirstSquawk] Trump’s efforts to sway the Federal Reserve fall short - FT
-- 09/17 13:25 [FirstSquawk] FT: Brussels seeks voluntary limits on China’s car exports.
-- 09/17 13:26 [FirstSquawk] FT: Extreme heat fuels potato shortages across Europe.
-- 09/17 13:26 [FirstSquawk] FT: DeepMind spin-off approaches a $4 billion valuation barely a month after its creation.
-- 09/17 13:27 [FirstSquawk] Huawei launches 11 new AI-related chips to compete with Nvidia, Intel and AMD.
-- 09/17 13:28 [financialjuice] Japan economy minister Kiuchi to stay in role in cabinet reshuffle, government spokesperson says
-- 09/17 13:29 [FirstSquawk] Japan’s Kiuchi set to stay on as economy minister following the Cabinet reshuffle, government spokesperson says.
-- 09/17 13:30 [FirstSquawk] Katayama to stay on as Japan’s finance minister following the Cabinet reshuffle, government spokesperson says.
-- 09/17 13:30 [financialjuice] DUTCH UNEMPLOYMENT RATE SA ACTUAL 4% (FORECAST -, PREVIOUS 4.0%) $MACRO
-- 09/17 13:30 [financialjuice] Japanese Prime Minister Takaichi to host press briefing at 0930 GMT
-- 09/17 13:30 [FirstSquawk] Japan’s Takaichi set to hold a press conference at 0930 GMT.
-- 09/17 13:31 [FirstSquawk] HSBC lifts its US dollar savings rate by 12.4 bps to 0.125%.
-- 09/17 13:32 [financialjuice] Japan economy minister Kiuchi: aim to balance robust economy with fiscal sustainability
-- 09/17 13:32 [FirstSquawk] Kiuchi: Japan will pursue economic strength while maintaining fiscal sustainability.
-- 09/17 13:33 [financialjuice] Japan economy minister Kiuchi: aims to reassure and completely alleviate market concerns
-- 09/17 13:33 [FirstSquawk] Japan’s Economy Minister Kiuchi: Will communicate to ease concerns in the market.
-- 09/17 13:34 [financialjuice] Japan economy minister Kiuchi: no comment on interest rates
-- 09/17 13:35 [FirstSquawk] Kiuchi says he will not comment on interest-rate policy.
-- 09/17 13:35 [financialjuice] Japan economy minister Kiuchi: won’t pursue reckless fiscal expansion
 - 09/17 13:36 [FirstSquawk] Flood-hit Nepal sees India and China engage in disaster diplomacy.
 - 09/17 13:50 [FirstSquawk] NZD/USD maintains gains above 0.5700 after the GDP-led recovery, with the bearish bias still in place, FXStreet says.
 - 09/17 13:57 [FirstSquawk] Barclays comes under pressure from employees over return-to-office requirements - FT
@@ -690,3 +663,6 @@
 - 09/18 13:07 [financialjuice] ❗ BOJ RATE DECISION ACTUAL 1.25% (FORECAST 1.25%, PREVIOUS 1%) $MACRO
 - 09/18 13:12 [FirstSquawk] Benchmark 40-year Japanese government bond yield rises 2bp to 4.135%.
 - 09/18 13:20 [FirstSquawk] WSJ: Singapore dollar remains stable as markets weigh the risk of U.S. dollar debasement.
+- 09/18 13:30 [FirstSquawk] Washington set to allow Iranian leaders into New York for UN meeting despite wartime stand-off - SCMP
+- 09/18 13:32 [FirstSquawk] PAKISTAN IN CRISIS MODE: MARKETS TO SHUT BY 9 PM, FUEL USE SLASHED 50%, FOREIGN TRAVEL RESTRICTED
+- 09/18 13:35 [FirstSquawk] Kansai Electric finishes decommissioning work on problematic Mihama nuclear reactor.

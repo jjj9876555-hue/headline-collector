@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 13:21 JST／対象: 09/18 01:21 〜 09/18 13:21 JST（時刻はすべて日本時間）
+生成: 2026-09-18 13:35 JST／対象: 09/18 01:35 〜 09/18 13:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 6 | 09/18 02:10 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 186 | 09/18 01:29 | 09/18 13:20 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 159 | 09/18 01:29 | 09/18 13:07 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 187 | 09/18 01:46 | 09/18 13:35 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 155 | 09/18 01:41 | 09/18 13:07 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 344 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 341 行（統合前 353 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 01:29 [financialjuice] French PM Lecornu: Targeting 2027 deficit at 5% of GDP
-- 09/18 01:29 [FirstSquawk] RUSSIA CLAIMS TO HAVE STRUCK SHIP AT UKRAINE'S CHORNOMORSK PORT - IFX
-- 09/18 01:29 [financialjuice] French PM Lecornu aims to keep 2026 deficit below 5.5% GDP
-- 09/18 01:30 [financialjuice] French PM Lecornu: Aim to trim one-off tax on big firms to €5 billion
-- 09/18 01:31 [financialjuice] Oil refinery in Russia's Yaroslavl region halts crude processing after a drone attack - sources.
-- 09/18 01:32 [FirstSquawk] STRAIT OF HORMUZ THREAT LEVEL REMAINS SEVERE – UKMTO
 - 09/18 01:41 [financialjuice] French PM Lecornu: We will not raise taxes - Le Figaro
 - 09/18 01:45 [financialjuice] Fed bids for 10 Yr tips total $2.9 bln
 - 09/18 01:46 [FirstSquawk] BAE SYSTEMS ONEARC AWARDED OTHER TRANSACTION AGREEMENT CONTRACT BY US ARMY TO INTEGRATE ECT SOLUTION
@@ -368,3 +362,6 @@
 - 09/18 13:07 [financialjuice] ❗ BOJ RATE DECISION ACTUAL 1.25% (FORECAST 1.25%, PREVIOUS 1%) $MACRO
 - 09/18 13:12 [FirstSquawk] Benchmark 40-year Japanese government bond yield rises 2bp to 4.135%.
 - 09/18 13:20 [FirstSquawk] WSJ: Singapore dollar remains stable as markets weigh the risk of U.S. dollar debasement.
+- 09/18 13:30 [FirstSquawk] Washington set to allow Iranian leaders into New York for UN meeting despite wartime stand-off - SCMP
+- 09/18 13:32 [FirstSquawk] PAKISTAN IN CRISIS MODE: MARKETS TO SHUT BY 9 PM, FUEL USE SLASHED 50%, FOREIGN TRAVEL RESTRICTED
+- 09/18 13:35 [FirstSquawk] Kansai Electric finishes decommissioning work on problematic Mihama nuclear reactor.
