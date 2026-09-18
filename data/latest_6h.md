@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 18:25 JST／対象: 09/18 12:25 〜 09/18 18:25 JST（時刻はすべて日本時間）
+生成: 2026-09-18 18:43 JST／対象: 09/18 12:43 〜 09/18 18:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/18 18:11 | 09/18 18:11 | - |
-| FirstSquawk | 93 | 09/18 12:25 | 09/18 18:17 | 42分（17:10→17:53） |
-| financialjuice | 64 | 09/18 13:02 | 09/18 18:00 | ⚠ 52分（13:07→14:00） |
+| FirstSquawk | 95 | 09/18 12:49 | 09/18 18:40 | 42分（17:10→17:53） |
+| financialjuice | 65 | 09/18 13:02 | 09/18 18:31 | ⚠ 52分（13:07→14:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 158 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 161 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 12:25 [FirstSquawk] Indonesia FinMin: Indonesia has kept the 10-year bond spread over U.S. Treasuries at around 120bp so far this year.
-- 09/18 12:29 [FirstSquawk] Nikkei 225 futures strengthen further, trading 1.67% higher.
-- 09/18 12:40 [FirstSquawk] Indonesia Deputy FinMin: The government plans to retain its 200 trillion rupiah cash placement at state lenders until July 2027.
 - 09/18 12:49 [FirstSquawk] Japan’s 10-year JGB yield narrows its decline to 1.5bp, last standing at 2.975%.
 - 09/18 12:53 [FirstSquawk] Indonesia Finance Ministry official: Authorities will closely manage the supply impact of bond issuance to preserve current yield levels.
 - 09/18 13:01 [FirstSquawk] Benchmark 20-year Japanese government bond yield rises 1.5bp to 3.850%.
@@ -182,3 +179,9 @@
 - 09/18 18:17 [FirstSquawk] EU WILL PROVIDE €3.3 BILLION TO UKRAINE ON SEPTEMBER 18, ACCORDING TO VON DER LEYEN.
 - 09/18 18:17 [FirstSquawk] VON DER LEYEN STATES THEY ARE PREPARED FOR COLLABORATIVE DEFENSE INITIATIVES BETWEEN THE EU AND UKRAINE.
 - 09/18 18:17 [FirstSquawk] VON DER LEYEN STATED THAT NECESSARY RADA REFORMS WERE TALKED ABOUT.
+- 09/18 18:30 [FirstSquawk] NATO SECRETARY GENERAL PLANS A VISIT TO THE UNITED STATES.
+- 09/18 18:31 [FirstSquawk] JAPAN'S CABINET APPROVAL INCREASES BY 3.2 POINTS TO 33.4%, ACCORDING TO KYODO POLL.
+- 09/18 18:31 [financialjuice] Japan Cabinet approval rises 3.2 ppts to 53.4% -Kyodo Poll
+- 09/18 18:35 [FirstSquawk] KREMLIN SAYS TEMPORARY CONTROL OF NESTLE AND AUCHAN ASSETS IS DUE TO OWNERS BEING FROM UNFRIENDLY NATIONS LINKED TO ATTACKS IN KYIV.
+- 09/18 18:36 [FirstSquawk] KREMLIN STATES TEMPORARY ADMINISTRATION IN PLACE, NO FURTHER DECISIONS MADE.
+- 09/18 18:40 [FirstSquawk] ANTHROPIC AND OPENAI ARE SEEKING SMALLER DATA CENTER DEALS TO BOOST AI CAPACITY, ACCORDING TO CNBC SOURCES.
