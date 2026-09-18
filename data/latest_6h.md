@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 12:20 JST／対象: 09/18 06:20 〜 09/18 12:20 JST（時刻はすべて日本時間）
+生成: 2026-09-18 12:34 JST／対象: 09/18 06:34 〜 09/18 12:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 133 | 09/18 06:20 | 09/18 12:16 | 25分（06:44→07:10） |
-| financialjuice | 100 | 09/18 06:20 | 09/18 12:12 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 127 | 09/18 06:35 | 09/18 12:29 | 25分（06:44→07:10） |
+| financialjuice | 99 | 09/18 06:44 | 09/18 12:12 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 233 行（統合前 234 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 226 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 06:20 [FirstSquawk] QUALCOMM CEO TO ATTEND TRUMP-XI STATE DINNER, SIGNALING HIGH-LEVEL US-CHINA TECH ENGAGEMENT
-- 09/18 06:20 [financialjuice] Iran's IRGC navy reports oil tanker fire - Fars
-- 09/18 06:20 [FirstSquawk] HEALEY TO URGE BRUSSELS TO INCLUDE UK IN 'MADE IN EUROPE' POLICY: FT
-- 09/18 06:21 [FirstSquawk] BRITISH FINANCE MINISTER WILL ON FRIDAY SIGNAL TO EU COUNTERPARTS THAT LONDON IS OPEN TO NEGOTIATE A ‘RESET’ DEAL - FT
-- 09/18 06:21 [FirstSquawk] North Korea's Kim Yo Jong: U.S.-led multinational exercises are primary cause of rising tensions on Korean peninsula
-- 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG SAYS US-LED MULTINATIONAL MILITARY EXERCISES ARE THE PRIMARY CAUSE OF RISING KOREAN PENINSULA TENSIONS
-- 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG SAYS NO SHIFT IN STRATEGY TO STRENGTHEN NUCLEAR WAR DETERRENCE
-- 09/18 06:21 [FirstSquawk] NORTH KOREA’S KIM YO JONG WARNS ARMED FORCES WILL USE “ALL OPTIONS” IF MILITARY SOVEREIGNTY OR SECURITY INTERESTS ARE SERIOUSLY THREATENED
-- 09/18 06:22 [FirstSquawk] IRAN’S IRGC NAVY SAYS IT TARGETED TOGO-FLAGGED OIL TANKER AFTER ALLEGED “ILLEGAL” HORMUZ TRANSIT; TANKER CAUGHT FIRE — FARS
-- 09/18 06:23 [FirstSquawk] US ENERGY DEPARTMENT AUTHORIZES PJM TO DIRECT BACKUP GENERATION RESOURCES AMID HEAT-DRIVEN BLACKOUT RISKS, SECURING MID-ATLANTIC GRID SEPT. 17-18
-- 09/18 06:24 [FirstSquawk] DISNEY URGES US JUDGE TO BLOCK FCC EARLY LICENSE REVIEWS, CITING PRESIDENT TRUMP’S “ONGOING THREATS” — FILING
 - 09/18 06:35 [FirstSquawk] BRAZIL CENTRAL BANK TO OFFER UP TO $1 BILLION IN DOLLAR AUCTION WITH REPURCHASE AGREEMENT ON SEPTEMBER 18
 - 09/18 06:38 [FirstSquawk] F-16 FIGHTER JET CRASHES DURING ROUTINE TRAINING EXERCISE IN GRAND TRAVERSE COUNTY, MICHIGAN; PILOT EJECTS SAFELY AND REMAINS IN STABLE CONDITION, WITH NO OTHER INJURIES REPORTED. - CBS NEWS.
 - 09/18 06:39 [FirstSquawk] IRAN’S IRGC NAVY SAYS TOGO-FLAGGED TANKER TREND WAS HIT AND STOPPED AFTER CATCHING FIRE WHILE ATTEMPTING TO CROSS THE STRAIT OF HORMUZ, WARNING THAT UNAUTHORIZED VESSELS WILL FACE “DESTRUCTION.”
@@ -257,3 +246,7 @@
 - 09/18 12:12 [financialjuice] Japan PM Takaichi, Trump organizing summit meeting: NHK reports
 - 09/18 12:12 [FirstSquawk] NHK reports Takaichi and Trump are coordinating plans for a summit meeting.
 - 09/18 12:16 [FirstSquawk] Indonesia FinMin: The government will ensure the rest-of-year spending is used efficiently and generates maximum benefits for the public.
+- 09/18 12:22 [FirstSquawk] North Korea’s vice defense minister defends the country’s nuclear arsenal at a Chinese defense forum -YONHAP The remarks underscore Pyongyang’s continued justification of its nuclear weapons program in regional security discussions.
+- 09/18 12:24 [FirstSquawk] Indonesia FinMin: Indonesia’s bond market continues to show strength despite an uncertain global environment.
+- 09/18 12:25 [FirstSquawk] Indonesia FinMin: Indonesia has kept the 10-year bond spread over U.S. Treasuries at around 120bp so far this year.
+- 09/18 12:29 [FirstSquawk] Nikkei 225 futures strengthen further, trading 1.67% higher.

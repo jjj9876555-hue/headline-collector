@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 12:20 JST／対象: 09/17 12:20 〜 09/18 12:20 JST（時刻はすべて日本時間）
+生成: 2026-09-18 12:34 JST／対象: 09/17 12:34 〜 09/18 12:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 355 | 09/17 12:20 | 09/18 12:16 | ⚠ 51分（03:49→04:40） |
+| FirstSquawk | 356 | 09/17 12:38 | 09/18 12:29 | ⚠ 51分（03:49→04:40） |
 | financialjuice | 321 | 09/17 12:38 | 09/18 12:12 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 677 行（統合前 694 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 678 行（統合前 695 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 12:20 [FirstSquawk] JPMorgan lowers its target price for TransDigm Group to $1,415 from $1,450.
-- 09/17 12:30 [FirstSquawk] Japan’s 3-month Treasury bill auction records a lowest price of 99.7045 and an average price of 99.7099, with 49.5183% of bids accepted at the lowest price.
-- 09/17 12:32 [FirstSquawk] China’s property reforms may weigh more heavily on the cement sector than steel, Fitch Ratings says.
 - 09/17 12:38 [financialjuice] Japan finance minister Katayama: will review budget requests, manage debt issuance to maintain market trust
 - 09/17 12:38 [FirstSquawk] Katayama: Japan will scrutinize budget requests and control debt issuance to preserve market confidence.
 - 09/17 12:38 [FirstSquawk] AstraZeneca plans a nearly 200 million yuan investment to modernize its Wuxi manufacturing base in China.
@@ -701,3 +698,7 @@
 - 09/18 12:12 [financialjuice] Japan PM Takaichi, Trump organizing summit meeting: NHK reports
 - 09/18 12:12 [FirstSquawk] NHK reports Takaichi and Trump are coordinating plans for a summit meeting.
 - 09/18 12:16 [FirstSquawk] Indonesia FinMin: The government will ensure the rest-of-year spending is used efficiently and generates maximum benefits for the public.
+- 09/18 12:22 [FirstSquawk] North Korea’s vice defense minister defends the country’s nuclear arsenal at a Chinese defense forum -YONHAP The remarks underscore Pyongyang’s continued justification of its nuclear weapons program in regional security discussions.
+- 09/18 12:24 [FirstSquawk] Indonesia FinMin: Indonesia’s bond market continues to show strength despite an uncertain global environment.
+- 09/18 12:25 [FirstSquawk] Indonesia FinMin: Indonesia has kept the 10-year bond spread over U.S. Treasuries at around 120bp so far this year.
+- 09/18 12:29 [FirstSquawk] Nikkei 225 futures strengthen further, trading 1.67% higher.
