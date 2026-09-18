@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 10:00 JST／対象: 09/18 04:00 〜 09/18 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-18 10:17 JST／対象: 09/18 04:17 〜 09/18 10:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/18 06:19 | 09/18 06:19 | - |
-| FirstSquawk | 68 | 09/18 04:40 | 09/18 09:58 | 39分（05:40→06:20） |
-| financialjuice | 47 | 09/18 04:24 | 09/18 09:53 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 77 | 09/18 04:40 | 09/18 10:15 | 39分（05:40→06:20） |
+| financialjuice | 53 | 09/18 04:24 | 09/18 10:17 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 126 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -135,3 +135,18 @@
 - 09/18 09:53 [FirstSquawk] RBA’s Bullock: Consensus is that the neutral interest rate is now higher
 - 09/18 09:53 [financialjuice] RBA Governor Bullock: broad agreement that neutral interest rate has increased
 - 09/18 09:58 [FirstSquawk] Asia-Pacific markets start firmer, taking cues from Wall Street and easing oil prices
+- 09/18 10:00 [financialjuice] Taiwan overnight interbank rate begins at 0.805% versus previous session open at 0.805%
+- 09/18 10:01 [FirstSquawk] Taiwan overnight rate opens steady at 0.805%
+- 09/18 10:05 [FirstSquawk] 40-year JGB yield declines 5 bps to 4.065%
+- 09/18 10:07 [FirstSquawk] EUR/USD nudges above 1.1450 amid declines in US yields and oil
+- 09/18 10:10 [financialjuice] RBA Governor Bullock: inflation risks tilted to the upside
+- 09/18 10:11 [FirstSquawk] RBA Governor Bullock: Risks to inflation are tilted higher
+- 09/18 10:11 [financialjuice] RBA Governor Bullock: difficult to see past ongoing inflation shocks
+- 09/18 10:12 [FirstSquawk] 30-year JGB yield declines 4.5 bps to 4.03%
+- 09/18 10:12 [financialjuice] RBA deputy governor Hauser: board fully committed to reaching inflation target
+- 09/18 10:12 [FirstSquawk] RBA Governor Bullock: Persistent inflationary shocks are hard to look through
+- 09/18 10:13 [FirstSquawk] RBA Deputy Governor Hauser: Board remains fully committed to hitting the inflation target
+- 09/18 10:13 [FirstSquawk] Saudi Embassy in US: Proposed F-35 deal underscores the strength of the Saudi-US strategic partnership
+- 09/18 10:13 [financialjuice] Saudi embassy in US: Proposed F-35 sale signals strength and durability of Saudi-US strategic partnership
+- 09/18 10:15 [FirstSquawk] China’s central bank sets yuan midpoint at 6.7521 per dollar
+- 09/18 10:17 [financialjuice] PBOC sets yuan midpoint at strongest level since Feb. 3, 2023

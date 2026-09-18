@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 10:00 JST／対象: 09/17 22:00 〜 09/18 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-18 10:17 JST／対象: 09/17 22:17 〜 09/18 10:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/17 22:31 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 136 | 09/17 22:02 | 09/18 09:58 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 115 | 09/17 22:00 | 09/18 09:53 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 142 | 09/17 22:24 | 09/18 10:15 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 119 | 09/17 22:31 | 09/18 10:17 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 252 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 262 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 22:00 [financialjuice] Effective Fed Funds Rate 3.63% September 16 vs 3.63% September 15.
-- 09/17 22:01 [financialjuice] Microsoft, Marvell and UTIMACO to deliver industry-first secure, cloud-scale payments solution. $MSFT
-- 09/17 22:02 [FirstSquawk] SENATORS ASK FTC TO PROBE WALMART AND AMAZON OVER BOTS’ ‘MADE IN AMERICA’ DATA - WSJ
-- 09/17 22:10 [FirstSquawk] PAKISTAN ARMY CHIEF URGES IRAN TO PERSUADE HOUTHIS NOT TO TARGET SAUDI ENERGY FACILITIES – AA CITES SOURCES
-- 09/17 22:10 [FirstSquawk] GM TO PRODUCE PATRIOT MISSILE PARTS AS US FACES CRITICAL ARMS SHORTAGE - WSJ
 - 09/17 22:24 [FirstSquawk] MICROSOFT, MARVELL, AND UTIMACO ARE COLLABORATING TO INTRODUCE A FIRST-OF-ITS-KIND SECURE PAYMENTS SOLUTION THAT CAN SCALE WITH CLOUD TECHNOLOGY.
 - 09/17 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -26.3 MLN NASDAQ 100: 1.8 MLN DOW 30: -10.4 MLN MAG 7: 9.3 MLN $MACRO
 - 09/17 22:31 [FirstSquawk] NASDAQ UP 397.63 POINTS, OR 1.53 PERCENT, AT 26,376.05 AFTER MARKET OPEN S&P 500 UP 88.67 POINTS, OR 1.17 %, AT 7,640.48 AFTER MARKET OPEN DOW JONES UP 413.71 POINTS, OR 0.80 PERCENT, AT 51,875.61 AFTER MARKET OPEN
@@ -276,3 +271,18 @@
 - 09/18 09:53 [FirstSquawk] RBA’s Bullock: Consensus is that the neutral interest rate is now higher
 - 09/18 09:53 [financialjuice] RBA Governor Bullock: broad agreement that neutral interest rate has increased
 - 09/18 09:58 [FirstSquawk] Asia-Pacific markets start firmer, taking cues from Wall Street and easing oil prices
+- 09/18 10:00 [financialjuice] Taiwan overnight interbank rate begins at 0.805% versus previous session open at 0.805%
+- 09/18 10:01 [FirstSquawk] Taiwan overnight rate opens steady at 0.805%
+- 09/18 10:05 [FirstSquawk] 40-year JGB yield declines 5 bps to 4.065%
+- 09/18 10:07 [FirstSquawk] EUR/USD nudges above 1.1450 amid declines in US yields and oil
+- 09/18 10:10 [financialjuice] RBA Governor Bullock: inflation risks tilted to the upside
+- 09/18 10:11 [FirstSquawk] RBA Governor Bullock: Risks to inflation are tilted higher
+- 09/18 10:11 [financialjuice] RBA Governor Bullock: difficult to see past ongoing inflation shocks
+- 09/18 10:12 [FirstSquawk] 30-year JGB yield declines 4.5 bps to 4.03%
+- 09/18 10:12 [financialjuice] RBA deputy governor Hauser: board fully committed to reaching inflation target
+- 09/18 10:12 [FirstSquawk] RBA Governor Bullock: Persistent inflationary shocks are hard to look through
+- 09/18 10:13 [FirstSquawk] RBA Deputy Governor Hauser: Board remains fully committed to hitting the inflation target
+- 09/18 10:13 [FirstSquawk] Saudi Embassy in US: Proposed F-35 deal underscores the strength of the Saudi-US strategic partnership
+- 09/18 10:13 [financialjuice] Saudi embassy in US: Proposed F-35 sale signals strength and durability of Saudi-US strategic partnership
+- 09/18 10:15 [FirstSquawk] China’s central bank sets yuan midpoint at 6.7521 per dollar
+- 09/18 10:17 [financialjuice] PBOC sets yuan midpoint at strongest level since Feb. 3, 2023
