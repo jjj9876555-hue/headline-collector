@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 14:32 JST／対象: 09/18 02:32 〜 09/18 14:32 JST（時刻はすべて日本時間）
+生成: 2026-09-18 14:46 JST／対象: 09/18 02:46 〜 09/18 14:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 02:53 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 181 | 09/18 02:33 | 09/18 14:31 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 144 | 09/18 02:34 | 09/18 14:31 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 176 | 09/18 02:51 | 09/18 14:43 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 143 | 09/18 03:04 | 09/18 14:44 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 324 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 318 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 02:33 [FirstSquawk] US IMPOSES SANCTIONS ON BITBANK CRYPTOCURRENCY EXCHANGE, ACCUSING IT OF ENABLING IRANIAN GOVERNMENT - STATEMENT
-- 09/18 02:34 [FirstSquawk] IRAQI PRIME MINISTER TO VISIT US AND MEET WITH TRUMP NEXT WEEK - MEHR NEWS
-- 09/18 02:34 [FirstSquawk] IRAQI PRIME MINISTER AND TRUMP TO DISCUSS BILATERAL RELATIONS AND REGIONAL DEVELOPMENTS - MEHR NEWS
-- 09/18 02:34 [financialjuice] OpenA and Nvidia CEOs to attend Trump-Xi state dinner - ABC. $NVDA
-- 09/18 02:34 [financialjuice] OpenAI and Nvidia CEOs to attend Trump-Xi state dinner - ABC. citing soruces $NVDA
-- 09/18 02:37 [FirstSquawk] ANTHROPIC HAS LAUNCHED A LIFE SCIENCES VERIFICATION PROGRAM BETA FOR BIOLOGY-RELATED MODEL ACCESS FOR TEAMS AND INSTITUTIONS, WITH STANDARD USE GRANTS APPLYING TO ITS MYTHOS 5.1, OPUS 5 AND SONNET 5 MODELS
-- 09/18 02:39 [FirstSquawk] OPENAI & NVIDIA CEOS TO ATTEND TRUMP-XI STATE DINNER — ABC
-- 09/18 02:43 [FirstSquawk] RUSSIA EXPECTS ITS 2027 FEDERAL BUDGET DEFICIT TO BE AROUND 2% OF GDP, WITH PROJECTIONS BASED ON A CONSERVATIVE OIL PRICE ASSUMPTION OF ABOUT $50 PER BARREL, PRESIDENT VLADIMIR PUTIN SAID. HE ADDED THAT OIL AND GAS REVENUES ARE EXPECTED TO …
-- 09/18 02:43 [FirstSquawk] PUTIN ALSO SAID RUSSIA’S ECONOMY IS EXPECTED TO GROW ABOUT 1% IN 2026, INFLATION IS GRADUALLY SLOWING, AND THE FEDERAL BUDGET POSTED A RUB 606 BILLION SURPLUS IN AUGUST.
 - 09/18 02:51 [FirstSquawk] U.S. SHALE PRODUCER HIGHPEAK ENERGY IS EXPLORING A SALE AFTER RECEIVING TAKEOVER INTEREST, SOURCES SAY
 - 09/18 02:53 [DeItaone] FED’S NEXT MOVE: OCTOBER HIKE IN PLAY Goldman Sachs now expects another 25bp Fed hike in October, joining ANZ, BofA, RBC and TD Securities after September’s hawkish meeting. Markets remain split: Kalshi prices a 53% chance of a hold vs. 48%…
 - 09/18 02:53 [FirstSquawk] SENEGAL PLANS TO USE DOMESTIC NATURAL GAS TO LOWER ELECTRICITY COSTS, THE ENERGY MINISTER TELLS REUTERS, ADDING THAT IT WILL MAKE ENERGY SUBSIDIES MORE TARGETED WITH A FOCUS ON THE MOST VULNERABLE HOUSEHOLDS.
@@ -348,3 +339,6 @@
 - 09/18 14:31 [financialjuice] ECB's Vujcic: We do not look solely at energy prices, but at much broader set of data.
 - 09/18 14:31 [financialjuice] ECB's Vujcic: Reserve requirements allow ECB to sterilise some excess liquidity in simple, inexpensive way.
 - 09/18 14:31 [FirstSquawk] The benchmark China coking coal contract slides 6.9% to CNY 1,500.5 per metric ton, falling to a level not seen since August 18.
+- 09/18 14:40 [FirstSquawk] Anew Labs, spun out of ByteDance, raises $290 million amid a surge in funding for AI-focused drug developers, according to SCMP.
+- 09/18 14:43 [FirstSquawk] Flight operations at Lublin and Rzeszow airports have been temporarily suspended by Poland’s air traffic authority.
+- 09/18 14:44 [financialjuice] SK Hynix's Solidigm weighs first US NAND flash plant - Yonhap

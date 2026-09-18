@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 14:32 JST／対象: 09/17 14:32 〜 09/18 14:32 JST（時刻はすべて日本時間）
+生成: 2026-09-18 14:46 JST／対象: 09/17 14:46 〜 09/18 14:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 332 | 09/17 14:33 | 09/18 14:31 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 313 | 09/17 14:58 | 09/18 14:31 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 332 | 09/17 14:49 | 09/18 14:43 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 314 | 09/17 14:58 | 09/18 14:44 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 646 行（統合前 663 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 647 行（統合前 664 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 14:33 [FirstSquawk] HSBC ends a $38,000 education subsidy for some Hong Kong bankers, FT reports.
-- 09/17 14:39 [FirstSquawk] Iran war and El Niño threaten food supplies in Asia, raising concerns over potential unrest, SCMP reports.
 - 09/17 14:49 [FirstSquawk] WSJ: Dollar gains from Fed tightening may not develop into a lasting strengthening trend.
 - 09/17 14:55 [FirstSquawk] Ferrari and Rakuten sign a partnership agreement effective from January 1, 2027.
 - 09/17 14:56 [FirstSquawk] Morgan Stanley forecasts 25 bps of additional Fed tightening in March 2027, while maintaining its call for a December rate hike.
@@ -670,3 +668,6 @@
 - 09/18 14:31 [financialjuice] ECB's Vujcic: We do not look solely at energy prices, but at much broader set of data.
 - 09/18 14:31 [financialjuice] ECB's Vujcic: Reserve requirements allow ECB to sterilise some excess liquidity in simple, inexpensive way.
 - 09/18 14:31 [FirstSquawk] The benchmark China coking coal contract slides 6.9% to CNY 1,500.5 per metric ton, falling to a level not seen since August 18.
+- 09/18 14:40 [FirstSquawk] Anew Labs, spun out of ByteDance, raises $290 million amid a surge in funding for AI-focused drug developers, according to SCMP.
+- 09/18 14:43 [FirstSquawk] Flight operations at Lublin and Rzeszow airports have been temporarily suspended by Poland’s air traffic authority.
+- 09/18 14:44 [financialjuice] SK Hynix's Solidigm weighs first US NAND flash plant - Yonhap
