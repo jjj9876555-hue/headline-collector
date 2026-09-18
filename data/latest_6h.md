@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 03:05 JST／対象: 09/18 21:05 〜 09/19 03:05 JST（時刻はすべて日本時間）
+生成: 2026-09-19 03:26 JST／対象: 09/18 21:26 〜 09/19 03:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 75 | 09/18 21:09 | 09/19 02:58 | 31分（22:36→23:07） |
-| financialjuice | 58 | 09/18 21:16 | 09/19 02:52 | 38分（02:01→02:40） |
+| FirstSquawk | 76 | 09/18 21:41 | 09/19 03:14 | 31分（22:36→23:07） |
+| financialjuice | 55 | 09/18 21:27 | 09/19 03:08 | 38分（02:01→02:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 130 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 128 行（統合前 134 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 21:09 [FirstSquawk] S&P 500 FUTURES CANCEL EARLIER PROFITS AND TRADE EVEN.
-- 09/18 21:15 [FirstSquawk] FRANCE'S PRESIDENT MACRON REVEALED THAT RUSSIA CARRIED OUT HYBRID ATTACKS ON FRANCE IN RECENT WEEKS.
-- 09/18 21:16 [financialjuice] France's Pres. Macron: We will convene a G7 meeting on energy.
-- 09/18 21:19 [financialjuice] France's Pres. Macron: We are mulling options to release strategic energy reserves.
-- 09/18 21:22 [financialjuice] Poll: UK home prices to rise 1.3% in 2026, 2.0% in 2027 and 3.3% in 2028 (1.8%, 3.0%, 3.0% in Q2 poll).
-- 09/18 21:26 [financialjuice] Putin envoy and far-right AfD prepare talks to get Russian gas back for Germany - Sources.
 - 09/18 21:27 [financialjuice] Putin adviser Kirill Dmitriev and AfD leaders Alice Weidel and Tino Chrupalla are reportedly preparing for a meeting as early as March next year to discuss restarting Russian gas supplies to Germany. The talks would only go ahead if a Russi…
 - 09/18 21:31 [financialjuice] Anthropic plans to have 5GW worth of compute by year end - NYT.
 - 09/18 21:41 [FirstSquawk] EU'S KALLAS DISCUSSED WITH SAUDI FOREIGN MINISTER ON EFFORTS TO STOP FIGHTING IN YEMEN AND ENSURE SAFE NAVIGATION IN THE STRAIT OF HORMUZ.
@@ -154,3 +148,7 @@
 - 09/19 02:56 [FirstSquawk] LILLY'S COMBO DOUBLES PFS VS INLURIYO ALONE IN ESR1+ MBC || LILLY'S INLURIYO GETS SECOND FDA OK IN UNDER A YEAR
 - 09/19 02:56 [FirstSquawk] NVIDIA’S JENSEN HUANG, APPLE’S TIM COOK AND OPENAI’S SAM ALTMAN TO ATTEND TRUMP CHINA XI STATE DINNER
 - 09/19 02:58 [FirstSquawk] PAKISTAN'S INTERIOR MINISTER IS EXPECTED TO VISIT IRAN THIS WEEK, ACCORDING TO MEHR.
+- 09/19 03:06 [FirstSquawk] ADVENT AND A FEDEX-LED GROUP HAVE PASSED AN 80% THRESHOLD TO ACQUIRE INPOST.
+- 09/19 03:08 [financialjuice] The German government plans to cut taxes on gasoline by 17 euro cents per litre - Sources.
+- 09/19 03:09 [FirstSquawk] GERMANY WILL REDUCE GASOLINE TAXES BY 17 EURO CENTS PER LITRE
+- 09/19 03:14 [FirstSquawk] ANTHROPIC AIMING TO AMASS 5GW OF COMPUTE POWER BY YEAR END – FOX
