@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 02:30 JST／対象: 09/18 14:30 〜 09/19 02:30 JST（時刻はすべて日本時間）
+生成: 2026-09-19 02:41 JST／対象: 09/18 14:41 〜 09/19 02:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 166 | 09/18 14:31 | 09/19 02:22 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 121 | 09/18 14:31 | 09/19 02:01 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 167 | 09/18 14:43 | 09/19 02:40 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 118 | 09/18 14:44 | 09/19 02:40 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 287 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 285 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 14:31 [financialjuice] ECB's Vujcic: Market pricing of rate path is mainly consequence of rising energy prices.
-- 09/18 14:31 [financialjuice] ECB's Vujcic: If inflation remains high through autumn and affects consumers, that will dampen GDP.
-- 09/18 14:31 [financialjuice] ECB's Vujcic: We do not look solely at energy prices, but at much broader set of data.
-- 09/18 14:31 [financialjuice] ECB's Vujcic: Reserve requirements allow ECB to sterilise some excess liquidity in simple, inexpensive way.
-- 09/18 14:31 [FirstSquawk] The benchmark China coking coal contract slides 6.9% to CNY 1,500.5 per metric ton, falling to a level not seen since August 18.
-- 09/18 14:40 [FirstSquawk] Anew Labs, spun out of ByteDance, raises $290 million amid a surge in funding for AI-focused drug developers, according to SCMP.
 - 09/18 14:43 [FirstSquawk] Flight operations at Lublin and Rzeszow airports have been temporarily suspended by Poland’s air traffic authority.
 - 09/18 14:44 [financialjuice] SK Hynix's Solidigm weighs first US NAND flash plant - Yonhap
 - 09/18 14:47 [FirstSquawk] Morgan Stanley raises its target for Next PLC to 17,000p, up from 16,800p.
@@ -311,3 +305,7 @@
 - 09/19 02:04 [FirstSquawk] CANADA INDUSTRY MINISTER: STELLANTIS MUST REOPEN ONTARIO PLANT OR RETURN GOVT MONEY
 - 09/19 02:05 [FirstSquawk] WHITE HOUSE OFFICIAL: TRUMP PLANS TO SIGN THE RUSSIA SANCTIONS BILL TODAY - CBS
 - 09/19 02:22 [FirstSquawk] 3 COUNTERPARTIES TAKE $576.000M AT FED REVERSE REPO OP.
+- 09/19 02:30 [FirstSquawk] DUKE ENERGY ASKS CAROLINAS CUSTOMERS TO REDUCE POWER USE
+- 09/19 02:32 [FirstSquawk] WESTINGHOUSE PLANS TO SEEK A VALUATION EXCEEDING $50 BILLION FOR ITS U.S. INITIAL PUBLIC OFFERING.
+- 09/19 02:40 [FirstSquawk] US TREASURY SEC. TO TALK AI, RARE EARTHS THIS WEEKEND WITH CHINESE VICE PREMIER
+- 09/19 02:40 [financialjuice] US Treasury Secretary to talk AI, rare earths this weekend with Chinese Vice Premier - AP
