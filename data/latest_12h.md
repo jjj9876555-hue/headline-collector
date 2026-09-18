@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 05:04 JST／対象: 09/18 17:04 〜 09/19 05:04 JST（時刻はすべて日本時間）
+生成: 2026-09-19 05:23 JST／対象: 09/18 17:23 〜 09/19 05:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 132 | 09/18 17:10 | 09/19 05:02 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 97 | 09/18 17:08 | 09/19 05:02 | ⚠ 53分（20:06→21:00） |
+| DeItaone | 6 | 09/18 18:11 | 09/19 05:10 | ⚠ 523分（20:26→05:09） |
+| FirstSquawk | 132 | 09/18 17:53 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 101 | 09/18 18:00 | 09/19 05:22 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 228 行（統合前 236 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 233 行（統合前 242 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 17:08 [financialjuice] ECB's President Lagarde: We'll decide on rates meeting by meeting.
-- 09/18 17:09 [financialjuice] ECB's President Lagarde: Growth is a bit more promising than we thought.
-- 09/18 17:10 [financialjuice] ECB's President Lagarde: Not seeing second-round effects yet.
-- 09/18 17:10 [FirstSquawk] ECB PRESIDENT LAGARDE STATES NO SIGNS OF SECOND ROUND EFFECTS SO FAR - RTE RADIO.
-- 09/18 17:18 [financialjuice] EUROZONE CURRENT ACCOUNT NSA ACTUAL 36.50B (FORECAST -, PREVIOUS 46.90B) $MACRO
 - 09/18 17:53 [FirstSquawk] US ADMINISTRATION TO ANNOUNCE THAT ALL 50 STATES WILL IMPLEMENT MOST-FAVORED-NATION PRICING FOR SPECIFIC DRUGS IN MEDICAID PROGRAMS.
 - 09/18 17:54 [FirstSquawk] SPOT SILVER INCREASES MORE THAN 3% TO $67.19 PER OUNCE.
 - 09/18 18:00 [financialjuice] EUROZONE CONSTRUCTION OUTPUT MOM ACTUAL 0% (FORECAST -, PREVIOUS -1.34%) $MACRO
@@ -252,3 +247,13 @@
 - 09/19 05:02 [FirstSquawk] TRUMP: GOING TO RECOMMEND 5 VACCINE DOSES, GIVEN 6-MO INTERVALS
 - 09/19 05:02 [FirstSquawk] TRUMP: WILL BE DEMANDING THIS VACCINE CHANGE OF DRUG COMPANIES
 - 09/19 05:02 [financialjuice] Dow's 1.7% decline is the weekly loss since March
+- 09/19 05:06 [financialjuice] Anthropic expects over $100 bln in annualized revenue this year - NYT
+- 09/19 05:07 [FirstSquawk] ANTHROPIC ANNOUNCES ACCENTURE WILL ASSESS ITS FRONTIER AI TECHNOLOGY.
+- 09/19 05:08 [financialjuice/DeItaone] Trump on Iran: War will end soon.
+- 09/19 05:10 [DeItaone] TRUMP ON BANNING CNN, MSNOW, POLITICO FROM WHITE HOUSE: THERE MAY BE OTHERS TO JOIN THEM
+- 09/19 05:11 [financialjuice] ❗ France's credit rating downgraded to A+ from AA- at Scope
+- 09/19 05:13 [financialjuice] Trump, asked on Russia attack fear: Poland has it under control.
+- 09/19 05:16 [financialjuice] US bank deposits rose to $19.657 tln from $19.566 tln in prior week.
+- 09/19 05:20 [financialjuice] Trump on Xi visit: We get along very well.
+- 09/19 05:21 [financialjuice] Trump asked on Xi visit: We'll have a lot of different deals
+- 09/19 05:22 [financialjuice] OpenAI's Altman is going to brief the UN Security Council next week.

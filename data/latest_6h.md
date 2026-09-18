@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 05:04 JST／対象: 09/18 23:04 〜 09/19 05:04 JST（時刻はすべて日本時間）
+生成: 2026-09-19 05:23 JST／対象: 09/18 23:23 〜 09/19 05:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 73 | 09/18 23:07 | 09/19 05:02 | 19分（04:21→04:40） |
-| financialjuice | 54 | 09/18 23:12 | 09/19 05:02 | 38分（02:01→02:40） |
+| DeItaone | 2 | 09/19 05:09 | 09/19 05:10 | 0分（05:09→05:10） |
+| FirstSquawk | 68 | 09/18 23:24 | 09/19 05:07 | 19分（04:21→04:40） |
+| financialjuice | 56 | 09/18 23:40 | 09/19 05:22 | 38分（02:01→02:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 123 行（統合前 130 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 121 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 23:07 [FirstSquawk] US CDC: WORKING WITH COUNCIL OF STATE & TERRITORIAL EPIDEMIOLOGISTS TO DEVELOP STANDARDIZED CASE DEFINITION FOR DEATHS DUE TO MEASLES
-- 09/18 23:09 [FirstSquawk] TREASURY PERMITS CERTAIN TRANSACTIONS FOR LUKOIL INTERNATIONAL GMBH.
-- 09/18 23:12 [financialjuice] The Treasury allows some Lukoil International GMBH actions.
-- 09/18 23:13 [financialjuice] German Government agrees on fuel price cap - Spiegel.
-- 09/18 23:16 [financialjuice] Mexico's President Sheinbaum: I spoke with Trump on Wednesday. The call was very good, we reached some agreements.
-- 09/18 23:18 [financialjuice] Fear and Greed Index: 29/100 = Fear
-- 09/18 23:19 [financialjuice] Crypto Fear and Greed Index: 56/100 = Greed
-- 09/18 23:21 [FirstSquawk] WALT DISNEY CO. NAMES KARANDEEP ANAND TO ROLE OF CHIEF TECHNOLOGY OFFICER
-- 09/18 23:21 [FirstSquawk] ALLSPRING GLOBAL IS CONSIDERING A SALE WITH A VALUATION OF AROUND $4 BILLION, ACCORDING TO THE FINANCIAL TIMES.
-- 09/18 23:22 [FirstSquawk] IRAQI PM SECURITY ADVISOR SAYS NO DEADLINE FOR STATE CONTROL OF ARMS.
-- 09/18 23:22 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: MAKING GOOD PROGRESS TOWARD US-TRADE DEAL
-- 09/18 23:23 [financialjuice] Mexico's President Sheinbaum: Details to be given once a final US deal is reached.
 - 09/18 23:24 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: IN ‘CONSTANT COMMUNICATION’ WITH TRUMP
 - 09/18 23:29 [FirstSquawk] IRGC-NAVY FIRES AT LEAST 5 CRUISE MISSILES AT SHIPS IN THE STRAIT OF HORMOZ.
 - 09/18 23:36 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: WE RESPECT CANADA'S DECISION TO APPROACH EU
@@ -147,3 +135,13 @@
 - 09/19 05:02 [FirstSquawk] TRUMP: GOING TO RECOMMEND 5 VACCINE DOSES, GIVEN 6-MO INTERVALS
 - 09/19 05:02 [FirstSquawk] TRUMP: WILL BE DEMANDING THIS VACCINE CHANGE OF DRUG COMPANIES
 - 09/19 05:02 [financialjuice] Dow's 1.7% decline is the weekly loss since March
+- 09/19 05:06 [financialjuice] Anthropic expects over $100 bln in annualized revenue this year - NYT
+- 09/19 05:07 [FirstSquawk] ANTHROPIC ANNOUNCES ACCENTURE WILL ASSESS ITS FRONTIER AI TECHNOLOGY.
+- 09/19 05:08 [financialjuice/DeItaone] Trump on Iran: War will end soon.
+- 09/19 05:10 [DeItaone] TRUMP ON BANNING CNN, MSNOW, POLITICO FROM WHITE HOUSE: THERE MAY BE OTHERS TO JOIN THEM
+- 09/19 05:11 [financialjuice] ❗ France's credit rating downgraded to A+ from AA- at Scope
+- 09/19 05:13 [financialjuice] Trump, asked on Russia attack fear: Poland has it under control.
+- 09/19 05:16 [financialjuice] US bank deposits rose to $19.657 tln from $19.566 tln in prior week.
+- 09/19 05:20 [financialjuice] Trump on Xi visit: We get along very well.
+- 09/19 05:21 [financialjuice] Trump asked on Xi visit: We'll have a lot of different deals
+- 09/19 05:22 [financialjuice] OpenAI's Altman is going to brief the UN Security Council next week.

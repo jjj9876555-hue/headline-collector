@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 05:04 JST／対象: 09/18 05:04 〜 09/19 05:04 JST（時刻はすべて日本時間）
+生成: 2026-09-19 05:23 JST／対象: 09/18 05:23 〜 09/19 05:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/18 06:19 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 353 | 09/18 05:16 | 09/19 05:02 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 266 | 09/18 05:13 | 09/19 05:02 | ⚠ 60分（06:44→07:45） |
+| DeItaone | 7 | 09/18 06:19 | 09/19 05:10 | ⚠ 711分（06:19→18:11） |
+| FirstSquawk | 353 | 09/18 05:40 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 273 | 09/18 05:55 | 09/19 05:22 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 616 行（統合前 628 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 624 行（統合前 637 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 05:13 [financialjuice] Stocks and Bonds Rally as Falling Oil Eases Inflation Concerns – US Market Wrap
-- 09/18 05:16 [FirstSquawk] US STOCKS AND BONDS RALLIED AS FALLING OIL PRICES EASED INFLATION CONCERNS, HELPING MARKETS ABSORB THE FEDERAL RESERVE’S FIRST RATE HIKE SINCE 2023. THE S&P 500 GAINED 1.1%, ITS STRONGEST ADVANCE IN SIX WEEKS, WHILE THE NASDAQ 100 CLIMBED 1…
 - 09/18 05:40 [FirstSquawk] ANTHROPIC SAID ITS MEASUREMENTS WILL FOCUS ON HOW AI MODELS ARE BUILT AND DEVELOPED, WITH THE DATA SHARED TO HELP TRACK PROGRESS; CLAUDE ACCOUNTED FOR 26% OF AI R&D USE AS OF AUGUST 2026.
 - 09/18 05:55 [financialjuice] Qualcomm's CEO will attend Trump's state dinner with China’s President Xi. $QCOM
 - 09/18 06:00 [financialjuice] S. KOREAN PPI YOY ACTUAL 7.9% (FORECAST -, PREVIOUS 7.7%) $MACRO
@@ -640,3 +638,13 @@
 - 09/19 05:02 [FirstSquawk] TRUMP: GOING TO RECOMMEND 5 VACCINE DOSES, GIVEN 6-MO INTERVALS
 - 09/19 05:02 [FirstSquawk] TRUMP: WILL BE DEMANDING THIS VACCINE CHANGE OF DRUG COMPANIES
 - 09/19 05:02 [financialjuice] Dow's 1.7% decline is the weekly loss since March
+- 09/19 05:06 [financialjuice] Anthropic expects over $100 bln in annualized revenue this year - NYT
+- 09/19 05:07 [FirstSquawk] ANTHROPIC ANNOUNCES ACCENTURE WILL ASSESS ITS FRONTIER AI TECHNOLOGY.
+- 09/19 05:08 [financialjuice/DeItaone] Trump on Iran: War will end soon.
+- 09/19 05:10 [DeItaone] TRUMP ON BANNING CNN, MSNOW, POLITICO FROM WHITE HOUSE: THERE MAY BE OTHERS TO JOIN THEM
+- 09/19 05:11 [financialjuice] ❗ France's credit rating downgraded to A+ from AA- at Scope
+- 09/19 05:13 [financialjuice] Trump, asked on Russia attack fear: Poland has it under control.
+- 09/19 05:16 [financialjuice] US bank deposits rose to $19.657 tln from $19.566 tln in prior week.
+- 09/19 05:20 [financialjuice] Trump on Xi visit: We get along very well.
+- 09/19 05:21 [financialjuice] Trump asked on Xi visit: We'll have a lot of different deals
+- 09/19 05:22 [financialjuice] OpenAI's Altman is going to brief the UN Security Council next week.
