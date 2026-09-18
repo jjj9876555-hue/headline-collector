@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 14:18 JST／対象: 09/17 14:18 〜 09/18 14:18 JST（時刻はすべて日本時間）
+生成: 2026-09-18 14:32 JST／対象: 09/17 14:32 〜 09/18 14:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 332 | 09/17 14:20 | 09/18 14:16 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 309 | 09/17 14:20 | 09/18 14:01 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 332 | 09/17 14:33 | 09/18 14:31 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 313 | 09/17 14:58 | 09/18 14:31 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 642 行（統合前 659 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 646 行（統合前 663 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 14:20 [financialjuice] Micron CEO: Micron to test and assemble hundreds of MLN chips in India next year
-- 09/17 14:20 [FirstSquawk] India’s market regulator is reviewing broker concerns regarding fees charged on UPI transactions.
-- 09/17 14:29 [FirstSquawk] Japanese Prime Minister Takaichi makes limited changes in her first Cabinet reshuffle.
 - 09/17 14:33 [FirstSquawk] HSBC ends a $38,000 education subsidy for some Hong Kong bankers, FT reports.
 - 09/17 14:39 [FirstSquawk] Iran war and El Niño threaten food supplies in Asia, raising concerns over potential unrest, SCMP reports.
 - 09/17 14:49 [FirstSquawk] WSJ: Dollar gains from Fed tightening may not develop into a lasting strengthening trend.
@@ -666,3 +663,10 @@
 - 09/18 14:01 [FirstSquawk] Russian forces target a postal logistics centre around Odesa in Ukraine, Russian agencies say, citing the Defence Ministry.
 - 09/18 14:09 [FirstSquawk] North Korean leader Kim Jong Un’s sister condemns U.S. military exercises in the Pacific, threatening a “more offensive” retaliation, BFM reports.
 - 09/18 14:16 [FirstSquawk] Japan’s central bank pushes interest rates to their highest point in three decades, CNBC reports.
+- 09/18 14:22 [financialjuice] Japan on track to secure enough oil for November - Refiners
+- 09/18 14:24 [FirstSquawk] FT reports that Europe may boost equity trading by creating fewer but more effective markets.
+- 09/18 14:31 [financialjuice] ECB's Vujcic: Market pricing of rate path is mainly consequence of rising energy prices.
+- 09/18 14:31 [financialjuice] ECB's Vujcic: If inflation remains high through autumn and affects consumers, that will dampen GDP.
+- 09/18 14:31 [financialjuice] ECB's Vujcic: We do not look solely at energy prices, but at much broader set of data.
+- 09/18 14:31 [financialjuice] ECB's Vujcic: Reserve requirements allow ECB to sterilise some excess liquidity in simple, inexpensive way.
+- 09/18 14:31 [FirstSquawk] The benchmark China coking coal contract slides 6.9% to CNY 1,500.5 per metric ton, falling to a level not seen since August 18.

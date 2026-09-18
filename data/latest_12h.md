@@ -7,35 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 14:18 JST／対象: 09/18 02:18 〜 09/18 14:18 JST（時刻はすべて日本時間）
+生成: 2026-09-18 14:32 JST／対象: 09/18 02:32 〜 09/18 14:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 02:53 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 186 | 09/18 02:24 | 09/18 14:16 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 144 | 09/18 02:20 | 09/18 14:01 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 181 | 09/18 02:33 | 09/18 14:31 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 144 | 09/18 02:34 | 09/18 14:31 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 327 行（統合前 335 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 324 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 02:20 [financialjuice/FirstSquawk] Iraqi Prime Minister to visit US and meet with Trump next week - Mehr News
-- 09/18 02:20 [financialjuice] Iraqi Prime Minister's to visit US and meet with Trump next week to discuss bilateral relations and regional developments - Mehr News
-- 09/18 02:21 [financialjuice] Iraqi Prime Minister to visit US and meet with Trump next week to discuss bilateral relations and regional developments - Mehr News
-- 09/18 02:24 [FirstSquawk] SPACEX: NOW TARGETING TO LAUNCH STARSHIP FLIGHT 14 AS EARLY AS MONDAY, SEPTEMBER 28, PENDING REGULATORY APPROVAL
-- 09/18 02:26 [financialjuice] Trump: Progress made toward US army base in Poland.
-- 09/18 02:28 [FirstSquawk] OIL PRICES FLUCTUATED AS SAUDI ARABIA MOVED TO RESTORE ABOUT HALF OF ITS EAST-WEST PIPELINE CAPACITY WITHIN DAYS AFTER LAST WEEK'S DRONE ATTACK SHUTDOWN, EASING SOME IMMEDIATE SUPPLY CONCERNS. BRENT TRADED NEAR $105 AND WTI AROUND $102, WHI…
-- 09/18 02:28 [FirstSquawk] DESPITE EASING DISRUPTIONS, MIDDLE EAST SUPPLY RISKS REMAIN ELEVATED DUE TO THE U.S.-IRAN WAR, HOUTHI THREATS TO KEY SHIPPING ROUTES, AND THE RUSSIA-UKRAINE CONFLICT, KEEPING MARKETS TIGHT. ANALYSTS SAY UNCERTAINTY OVER THE CONFLICT'S ENDGA…
-- 09/18 02:28 [FirstSquawk] OIL HAS SURGED MORE THAN 70% THIS YEAR, ADDING TO GLOBAL INFLATION PRESSURES AND REINFORCING EXPECTATIONS FOR TIGHTER MONETARY POLICY. NEW U.S. TARIFF POWERS TARGETING BUYERS OF RUSSIAN PETROLEUM PRODUCTS AND CONTINUED ATTACKS ON RUSSIAN RE…
-- 09/18 02:30 [financialjuice/FirstSquawk] US imposes sanctions on BitBank cryptocurrency exchange, accusing it of enabling Iranian government - Statement
-- 09/18 02:31 [FirstSquawk] TRUMP SAYS 'GREAT NEWS' THAT, THANKS TO THE 'BOLD LEADERSHIP' OF HIS FRIEND KAROL NAWROCKI, PRESIDENT OF POLAND, 'MAJOR PROGRESS IS BEING MADE TOWARD ESTABLISHING A U.S. ARMY BASE IN POLAND', ADDING THAT IF IT HAPPENS THE LOCATION WILL BE A…
-- 09/18 02:31 [FirstSquawk] FAA SEES $100M TARIFF IMPACT ON AIR TRAFFIC CONTROL MODERNIZATION COSTS — ADMINISTRATOR BEDFORD
-- 09/18 02:32 [FirstSquawk] PFIZER & BIONTECH’S UPDATED OMICRON XFG COVID-19 VACCINE AUTHORIZED BY HEALTH CANADA; DISTRIBUTION TO BEGIN IN COMING DAYS AND WEEKS
+- 09/18 02:33 [FirstSquawk] US IMPOSES SANCTIONS ON BITBANK CRYPTOCURRENCY EXCHANGE, ACCUSING IT OF ENABLING IRANIAN GOVERNMENT - STATEMENT
+- 09/18 02:34 [FirstSquawk] IRAQI PRIME MINISTER TO VISIT US AND MEET WITH TRUMP NEXT WEEK - MEHR NEWS
 - 09/18 02:34 [FirstSquawk] IRAQI PRIME MINISTER AND TRUMP TO DISCUSS BILATERAL RELATIONS AND REGIONAL DEVELOPMENTS - MEHR NEWS
 - 09/18 02:34 [financialjuice] OpenA and Nvidia CEOs to attend Trump-Xi state dinner - ABC. $NVDA
 - 09/18 02:34 [financialjuice] OpenAI and Nvidia CEOs to attend Trump-Xi state dinner - ABC. citing soruces $NVDA
@@ -351,3 +341,10 @@
 - 09/18 14:01 [FirstSquawk] Russian forces target a postal logistics centre around Odesa in Ukraine, Russian agencies say, citing the Defence Ministry.
 - 09/18 14:09 [FirstSquawk] North Korean leader Kim Jong Un’s sister condemns U.S. military exercises in the Pacific, threatening a “more offensive” retaliation, BFM reports.
 - 09/18 14:16 [FirstSquawk] Japan’s central bank pushes interest rates to their highest point in three decades, CNBC reports.
+- 09/18 14:22 [financialjuice] Japan on track to secure enough oil for November - Refiners
+- 09/18 14:24 [FirstSquawk] FT reports that Europe may boost equity trading by creating fewer but more effective markets.
+- 09/18 14:31 [financialjuice] ECB's Vujcic: Market pricing of rate path is mainly consequence of rising energy prices.
+- 09/18 14:31 [financialjuice] ECB's Vujcic: If inflation remains high through autumn and affects consumers, that will dampen GDP.
+- 09/18 14:31 [financialjuice] ECB's Vujcic: We do not look solely at energy prices, but at much broader set of data.
+- 09/18 14:31 [financialjuice] ECB's Vujcic: Reserve requirements allow ECB to sterilise some excess liquidity in simple, inexpensive way.
+- 09/18 14:31 [FirstSquawk] The benchmark China coking coal contract slides 6.9% to CNY 1,500.5 per metric ton, falling to a level not seen since August 18.

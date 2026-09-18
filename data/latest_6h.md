@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 14:18 JST／対象: 09/18 08:18 〜 09/18 14:18 JST（時刻はすべて日本時間）
+生成: 2026-09-18 14:32 JST／対象: 09/18 08:32 〜 09/18 14:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 131 | 09/18 08:26 | 09/18 14:16 | 17分（08:31→08:49） |
-| financialjuice | 104 | 09/18 08:30 | 09/18 14:01 | ⚠ 52分（13:07→14:00） |
+| FirstSquawk | 131 | 09/18 08:49 | 09/18 14:31 | 12分（09:03→09:15） |
+| financialjuice | 104 | 09/18 08:36 | 09/18 14:31 | ⚠ 52分（13:07→14:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 235 行（統合前 235 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,13 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 08:26 [FirstSquawk] ASUS, POESIS PARTNER ON AUTONOMOUS TRADING AGENTS POWERED BY NVIDIA TECHNOLOGIES
-- 09/18 08:30 [financialjuice] ❗ JAPANESE CORE CPI NATIONWIDE YOY ACTUAL 1.7% (FORECAST 1.8%, PREVIOUS 1.8%) $MACRO
-- 09/18 08:30 [financialjuice] ‼ BREAKING: JAPANESE CPI OVERALL NATIONWIDE ACTUAL 1.9% (FORECAST 2%, PREVIOUS 1.9%) $MACRO
-- 09/18 08:30 [financialjuice] Japan August nationwide core CPI rises 1.7% year on year, government says (Poll: +1.8%)
-- 09/18 08:30 [financialjuice] Japan August nationwide core-core CPI excluding fresh food and energy prices rises 1.9% yr/yr: govt
-- 09/18 08:30 [financialjuice] Japan August nationwide overall CPI rises 1.9% year on year: govt
-- 09/18 08:31 [FirstSquawk] JAPAN'S AUGUST NATIONWIDE CPI ROSE 1.9% YEAR-ON-YEAR, JUST BELOW THE 2.0% ESTIMATE, WITH CPI EX-FRESH FOOD UP 1.7% VERSUS 1.8% EXPECTED AND CPI EX-FRESH FOOD AND ENERGY UP 1.9%
 - 09/18 08:36 [financialjuice] RBA Governor Bullock: various indicators indicate labor market conditions stay near, but slightly tighter than, full employment
 - 09/18 08:36 [financialjuice] RBA Governor Bullock: at August board meeting, risks to outlook were skewed to the upside
 - 09/18 08:36 [financialjuice] RBA Governor Bullock: developments since then indicate that while growth in the Australian economy is slowing, some upside risks to inflation seem to be materializing
@@ -259,3 +252,10 @@
 - 09/18 14:01 [FirstSquawk] Russian forces target a postal logistics centre around Odesa in Ukraine, Russian agencies say, citing the Defence Ministry.
 - 09/18 14:09 [FirstSquawk] North Korean leader Kim Jong Un’s sister condemns U.S. military exercises in the Pacific, threatening a “more offensive” retaliation, BFM reports.
 - 09/18 14:16 [FirstSquawk] Japan’s central bank pushes interest rates to their highest point in three decades, CNBC reports.
+- 09/18 14:22 [financialjuice] Japan on track to secure enough oil for November - Refiners
+- 09/18 14:24 [FirstSquawk] FT reports that Europe may boost equity trading by creating fewer but more effective markets.
+- 09/18 14:31 [financialjuice] ECB's Vujcic: Market pricing of rate path is mainly consequence of rising energy prices.
+- 09/18 14:31 [financialjuice] ECB's Vujcic: If inflation remains high through autumn and affects consumers, that will dampen GDP.
+- 09/18 14:31 [financialjuice] ECB's Vujcic: We do not look solely at energy prices, but at much broader set of data.
+- 09/18 14:31 [financialjuice] ECB's Vujcic: Reserve requirements allow ECB to sterilise some excess liquidity in simple, inexpensive way.
+- 09/18 14:31 [FirstSquawk] The benchmark China coking coal contract slides 6.9% to CNY 1,500.5 per metric ton, falling to a level not seen since August 18.
