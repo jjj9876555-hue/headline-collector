@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 21:21 JST／対象: 09/18 09:21 〜 09/18 21:21 JST（時刻はすべて日本時間）
+生成: 2026-09-18 21:39 JST／対象: 09/18 09:39 〜 09/18 21:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 212 | 09/18 09:22 | 09/18 21:15 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 157 | 09/18 09:26 | 09/18 21:19 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 205 | 09/18 09:40 | 09/18 21:15 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 158 | 09/18 09:40 | 09/18 21:31 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 372 行（統合前 373 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 366 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 09:22 [FirstSquawk] JAPAN 2-YEAR JGB YIELD FALLS 1 BP TO 1.85%
-- 09/18 09:24 [FirstSquawk] 2-year JGB yield declines 1 bp to 1.85%
-- 09/18 09:24 [FirstSquawk] 10-year JGB yield declines to 2.955%, down 3.5 bps
-- 09/18 09:26 [financialjuice] China PBOC seen setting yuan mid-point at 6.7065 per dollar: estimate
-- 09/18 09:26 [financialjuice] RBA Governor Bullock: companies now more likely to transfer cost hikes
-- 09/18 09:26 [FirstSquawk] Petronas, Woodside tout alternatives to Mideast LNG for Asian buyers
-- 09/18 09:31 [FirstSquawk] Gold prices climb, likely aided by lower oil prices - wsj
-- 09/18 09:31 [FirstSquawk] Nikkei advances 0.8% with chip stocks leading the gains - WSJ
-- 09/18 09:36 [FirstSquawk] Luna says foreign influence networks are working to promote communist ideology in America
-- 09/18 09:36 [financialjuice] New Zealand foreign minister spokesperson: no talks with EU on New Zealand joining as associate member
 - 09/18 09:40 [financialjuice] RBA Governor Bullock: decline in housing prices isn't that significant overall
 - 09/18 09:40 [FirstSquawk] RBA Governor Bullock says housing price decline is not significant overall
 - 09/18 09:45 [financialjuice] RBA Governor Bullock: considering if policy is tight enough
@@ -396,3 +386,7 @@
 - 09/18 21:15 [FirstSquawk] FRANCE'S PRESIDENT MACRON REVEALED THAT RUSSIA CARRIED OUT HYBRID ATTACKS ON FRANCE IN RECENT WEEKS.
 - 09/18 21:16 [financialjuice] France's Pres. Macron: We will convene a G7 meeting on energy.
 - 09/18 21:19 [financialjuice] France's Pres. Macron: We are mulling options to release strategic energy reserves.
+- 09/18 21:22 [financialjuice] Poll: UK home prices to rise 1.3% in 2026, 2.0% in 2027 and 3.3% in 2028 (1.8%, 3.0%, 3.0% in Q2 poll).
+- 09/18 21:26 [financialjuice] Putin envoy and far-right AfD prepare talks to get Russian gas back for Germany - Sources.
+- 09/18 21:27 [financialjuice] Putin adviser Kirill Dmitriev and AfD leaders Alice Weidel and Tino Chrupalla are reportedly preparing for a meeting as early as March next year to discuss restarting Russian gas supplies to Germany. The talks would only go ahead if a Russi…
+- 09/18 21:31 [financialjuice] Anthropic plans to have 5GW worth of compute by year end - NYT.

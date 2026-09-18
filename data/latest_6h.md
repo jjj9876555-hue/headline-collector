@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 21:21 JST／対象: 09/18 15:21 〜 09/18 21:21 JST（時刻はすべて日本時間）
+生成: 2026-09-18 21:39 JST／対象: 09/18 15:39 〜 09/18 21:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 88 | 09/18 15:23 | 09/18 21:15 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 55 | 09/18 15:33 | 09/18 21:19 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 84 | 09/18 15:41 | 09/18 21:15 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 53 | 09/18 15:39 | 09/18 21:31 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 146 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 140 行（統合前 141 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 15:23 [FirstSquawk] Australia’s benchmark S&P/ASX 200 finishes 0.01% lower at 8,731.20 points.
-- 09/18 15:33 [financialjuice] BoJ Gov Ueda: Japan's economy recovering moderately albeit with some weakness.
-- 09/18 15:33 [FirstSquawk] Hackers linked to North Korea are believed to have taken crypto assets worth at least ¥1.7 billion, according to Kyodo.
-- 09/18 15:33 [financialjuice] BoJ Gov Ueda: Japan's economy likely continue growing moderately.
-- 09/18 15:35 [financialjuice] BoJ Gov Ueda: Must pay attention to impact of Middle East situation, AI-related demand expansion and FX on Japan's economic activity, prices.
-- 09/18 15:35 [financialjuice] BoJ Gov Ueda: Japan's financial conditions have been accommodative.
-- 09/18 15:36 [financialjuice] BoJ Gov Ueda: There is risk of underlying inflation overshooting 2% price target given firms' wage, price setting behavior becoming more aggressive, mid- and long-term inflation expectations rising.
-- 09/18 15:36 [financialjuice] BoJ's Gov Ueda: To keep raising rate in response to economy, prices.
-- 09/18 15:37 [FirstSquawk] BOJ Governor Ueda says Japan’s financial conditions are still supportive.
-- 09/18 15:38 [FirstSquawk] BOJ Governor Ueda says the policy adjustment was aimed at securing the 2% inflation target on a stable and sustainable basis.
 - 09/18 15:39 [financialjuice] BoJ Gov Ueda: Middle East situation continues to be uncertain.
 - 09/18 15:41 [FirstSquawk] Ueda warns that the BOJ needs to closely monitor potential upward pressure on inflation, particularly from developments in the Middle East.
 - 09/18 15:43 [financialjuice] BoJ's Gov Ueda: Stage for policy conduct has changed.
@@ -170,3 +160,7 @@
 - 09/18 21:15 [FirstSquawk] FRANCE'S PRESIDENT MACRON REVEALED THAT RUSSIA CARRIED OUT HYBRID ATTACKS ON FRANCE IN RECENT WEEKS.
 - 09/18 21:16 [financialjuice] France's Pres. Macron: We will convene a G7 meeting on energy.
 - 09/18 21:19 [financialjuice] France's Pres. Macron: We are mulling options to release strategic energy reserves.
+- 09/18 21:22 [financialjuice] Poll: UK home prices to rise 1.3% in 2026, 2.0% in 2027 and 3.3% in 2028 (1.8%, 3.0%, 3.0% in Q2 poll).
+- 09/18 21:26 [financialjuice] Putin envoy and far-right AfD prepare talks to get Russian gas back for Germany - Sources.
+- 09/18 21:27 [financialjuice] Putin adviser Kirill Dmitriev and AfD leaders Alice Weidel and Tino Chrupalla are reportedly preparing for a meeting as early as March next year to discuss restarting Russian gas supplies to Germany. The talks would only go ahead if a Russi…
+- 09/18 21:31 [financialjuice] Anthropic plans to have 5GW worth of compute by year end - NYT.
