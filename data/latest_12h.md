@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 03:43 JST／対象: 09/18 15:43 〜 09/19 03:43 JST（時刻はすべて日本時間）
+生成: 2026-09-19 03:58 JST／対象: 09/18 15:58 〜 09/19 03:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 161 | 09/18 15:46 | 09/19 03:32 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 108 | 09/18 15:45 | 09/19 03:42 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 155 | 09/18 16:03 | 09/19 03:58 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 102 | 09/18 16:03 | 09/19 03:42 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 269 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 256 行（統合前 264 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 15:45 [financialjuice] BoJ Gov Ueda: Short-term objective has changed significantly.
-- 09/18 15:46 [financialjuice] BoJ Gov Ueda: No comment about short-term market moves.
-- 09/18 15:46 [FirstSquawk] Ueda says the BOJ will conduct a fresh risk assessment at each monetary policy meeting.
-- 09/18 15:47 [FirstSquawk] USD/JPY pares some gains as Ueda speaks, last up 0.53% at 156.80.
-- 09/18 15:48 [FirstSquawk] BOJ Governor Ueda says the level of the terminal rate will become clear only after observing future economic and inflation trends.
-- 09/18 15:50 [FirstSquawk] BOJ Governor Ueda says policymakers want to assess whether underlying price growth will remain anchored around 2%.
-- 09/18 15:50 [financialjuice] BoJ Gov Ueda: We want to see whether trend inflation stays at 2% after reaching it around end of fy2026 into fy2027.
-- 09/18 15:50 [FirstSquawk] Ueda: The BOJ will assess whether inflation stays at 2% once it reaches the target around the end of FY2026 and during FY2027.
-- 09/18 15:54 [FirstSquawk] Katayama: Japan will take steps to preserve stability and orderly trading in the FX market.
-- 09/18 15:55 [financialjuice] BoJ Gov Ueda: Rate hikes have gradually tightened financial conditions.
-- 09/18 15:55 [FirstSquawk] Ueda: The BOJ must be mindful of the potential negative impact of aggressive rate hikes.
-- 09/18 15:56 [FirstSquawk] Ueda: The BOJ must ensure that overly fast tightening does not put a negative strain on financial conditions.
-- 09/18 15:58 [financialjuice] BoJ Gov Ueda: Not mulling board member change next year for policy.
-- 09/18 15:58 [financialjuice] Japan's Fin. Min. Katayama: To maintin close communication with financial authorities of other nations on forex.
 - 09/18 16:03 [financialjuice] Japan's Fin. Min. Katayama: Bessent regards highly of "Takaichinomics".
 - 09/18 16:03 [FirstSquawk] BOJ GOVERNOR UEDA SAYS THE BANK WILL KEEP CONDUCTING MONETARY POLICY ACCORDING TO THE LAW.
 - 09/18 16:04 [FirstSquawk] BOJ GOVERNOR UEDA STATES THEY WILL MAINTAIN SUITABLE MONETARY POLICY AS PER BOJ LAWS.
@@ -292,4 +278,5 @@
 - 09/19 03:31 [financialjuice] NYMEX Diesel October futures settle at $5.0578 a gallon.
 - 09/19 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $2.9120/MMBtu.
 - 09/19 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $100.30/BBL, DOWN $1.61, 1.58%
-- 09/19 03:42 [financialjuice] Brent Crude futures settle at $103.87/bbl, down 95 cents, 0.91%.
+- 09/19 03:42 [financialjuice/FirstSquawk] Brent Crude futures settle at $103.87/bbl, down 95 cents, 0.91%.
+- 09/19 03:58 [FirstSquawk] FHFA’S PULTE ON MBS: ”WE ARE BEGINNING TO BUY EVEN MORE, LARGE QUANTITIES, AS WE SPEAK.”

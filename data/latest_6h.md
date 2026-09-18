@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 03:43 JST／対象: 09/18 21:43 〜 09/19 03:43 JST（時刻はすべて日本時間）
+生成: 2026-09-19 03:58 JST／対象: 09/18 21:58 〜 09/19 03:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 76 | 09/18 22:04 | 09/19 03:32 | 31分（22:36→23:07） |
+| FirstSquawk | 78 | 09/18 22:04 | 09/19 03:58 | 31分（22:36→23:07） |
 | financialjuice | 57 | 09/18 22:00 | 09/19 03:42 | 38分（02:01→02:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 130 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 131 行（統合前 138 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -153,4 +153,5 @@
 - 09/19 03:31 [financialjuice] NYMEX Diesel October futures settle at $5.0578 a gallon.
 - 09/19 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $2.9120/MMBtu.
 - 09/19 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $100.30/BBL, DOWN $1.61, 1.58%
-- 09/19 03:42 [financialjuice] Brent Crude futures settle at $103.87/bbl, down 95 cents, 0.91%.
+- 09/19 03:42 [financialjuice/FirstSquawk] Brent Crude futures settle at $103.87/bbl, down 95 cents, 0.91%.
+- 09/19 03:58 [FirstSquawk] FHFA’S PULTE ON MBS: ”WE ARE BEGINNING TO BUY EVEN MORE, LARGE QUANTITIES, AS WE SPEAK.”
