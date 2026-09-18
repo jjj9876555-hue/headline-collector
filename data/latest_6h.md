@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 17:34 JST／対象: 09/18 11:34 〜 09/18 17:34 JST（時刻はすべて日本時間）
+生成: 2026-09-18 17:51 JST／対象: 09/18 11:51 〜 09/18 17:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 127 | 09/18 11:35 | 09/18 17:10 | 13分（14:47→15:01） |
-| financialjuice | 110 | 09/18 11:50 | 09/18 17:18 | ⚠ 52分（13:07→14:00） |
+| FirstSquawk | 120 | 09/18 11:52 | 09/18 17:10 | 13分（14:47→15:01） |
+| financialjuice | 108 | 09/18 11:52 | 09/18 17:18 | ⚠ 52分（13:07→14:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 237 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 228 行（統合前 228 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 11:35 [FirstSquawk] Pound steadies above 1.3350 ahead of UK retail sales data - FX
-- 09/18 11:37 [FirstSquawk] SpaceX’s Starship Flight 14 set to target launch from Sept. 28
-- 09/18 11:39 [FirstSquawk] Indonesia Finance Minister: Budget deficit stood at 0.93% of GDP in January-August
-- 09/18 11:42 [FirstSquawk] Japan’s JGB yields fall as concerns over energy-driven inflation ease - WSJ
-- 09/18 11:43 [FirstSquawk] Indonesia’s Finance Minister: Economic data shows the economy remains resilient
-- 09/18 11:47 [FirstSquawk] The U.S. and China agree AI needs guardrails, but their priorities differ sharply -WSJ Washington focuses on autonomous systems, cyber risks and human control, while Beijing emphasizes political, ideological and cybersecurity concerns. The …
-- 09/18 11:50 [financialjuice] S.Korea president Lee: single-stock leveraged ETFs came in near final phase of stock rally
-- 09/18 11:51 [FirstSquawk] Indonesia expects an impact from a potential U.S. interest rate hike. Higher U.S. rates could affect Indonesia through capital flows, the rupiah and broader financial conditions. The policy gap between the U.S. and Indonesia remains a key m…
-- 09/18 11:51 [financialjuice] S. Korea President Lee: shortfalls evident in single-stock leveraged ETFs
 - 09/18 11:52 [FirstSquawk] South Korea President Lee says single-stock leveraged ETFs were introduced during the late stage of the stock market rally. The timing highlights concerns around leveraged products emerging as the market was already in an advanced phase of …
 - 09/18 11:52 [financialjuice] S.Korea President Lee: US investment matter impacts bilateral ties in a complex way
 - 09/18 11:52 [FirstSquawk] Indonesia’s Finance Minister says the government is working to limit the adverse impact.
