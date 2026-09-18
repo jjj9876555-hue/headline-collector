@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 20:58 JST／対象: 09/18 14:58 〜 09/18 20:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 21:21 JST／対象: 09/18 15:21 〜 09/18 21:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 97 | 09/18 15:01 | 09/18 20:07 | 42分（17:10→17:53） |
-| financialjuice | 57 | 09/18 15:00 | 09/18 20:06 | 42分（17:18→18:00） |
+| FirstSquawk | 88 | 09/18 15:23 | 09/18 21:15 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 55 | 09/18 15:33 | 09/18 21:19 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 157 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 146 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 15:00 [financialjuice] UK CORE RETAIL SALES YOY ACTUAL 2.7% (FORECAST 1.9%, PREVIOUS 2.3%) $MACRO
-- 09/18 15:00 [financialjuice] ‼ BREAKING: UK RETAIL SALES MOM ACTUAL 0.5% (FORECAST -0.2%, PREVIOUS -0.5%) $MACRO
-- 09/18 15:00 [financialjuice] ❗ UK RETAIL SALES YOY ACTUAL 2.4% (FORECAST 1.9%, PREVIOUS 1.6%) $MACRO
-- 09/18 15:00 [financialjuice] ❗ UK CORE RETAIL SALES MOM ACTUAL 0.6% (FORECAST -0.2%, PREVIOUS -0.9%) $MACRO
-- 09/18 15:00 [financialjuice] GERMAN PPI MOM ACTUAL 1.1% (FORECAST 0.6%, PREVIOUS 1.1%) $MACRO
-- 09/18 15:00 [financialjuice] GERMAN PPI YOY ACTUAL 4.6% (FORECAST 3.9%, PREVIOUS 3.0%) $MACRO
-- 09/18 15:01 [FirstSquawk] GERMANY (AUG) PPI MOM ACTUAL: 1.1% VS 1.1% PREVIOUS;EST 0.6%
-- 09/18 15:01 [FirstSquawk] GERMANY (AUG) PPI YOY ACTUAL: 4.6% vs 3% previous;est 3.9%
-- 09/18 15:01 [FirstSquawk] UK (AUG) Retail Sales Inc Auto Fuel MoM actual: 0.5% vs -0.5% previous;est -0.2%
-- 09/18 15:01 [FirstSquawk] UK (AUG) Retail Sales Inc Auto Fuel yoy actual: 2.4% VS 1.6% PREVIOUS;EST 1.9%
-- 09/18 15:01 [FirstSquawk] UK (AUG) Retail Sales Ex Auto Fuel MoM ACTUAL: 0.6% vs 0.9% previous;est 0.2%
-- 09/18 15:01 [FirstSquawk] UK (AUG) Retail Sales Ex Auto Fuel YOY actual: 2.7% vs 2.3% previous;est 1.9%
-- 09/18 15:02 [FirstSquawk] SK Hynix establishes “SK Hynix Ventures” in Silicon Valley to broaden its investment in the global AI ecosystem.
-- 09/18 15:02 [financialjuice] Westpac brings forward RBA rate-hike call to September from November.
-- 09/18 15:03 [FirstSquawk] TotalEnergies reaches a deal with GIP on its African energy infrastructure portfolio.
-- 09/18 15:05 [FirstSquawk] China’s Coast Guard says enforcement activities were legally carried out around Sabina Shoal to protect its rights.
-- 09/18 15:15 [FirstSquawk] Kiuchi says the BOJ is expected to maintain suitable monetary policy aimed at achieving its inflation target in a stable and sustainable manner, in close cooperation with the government.
-- 09/18 15:15 [financialjuice] Japan Economy Minister Kiuchi: Expect BoJ to conduct appropriate monetary policy to sustainably, stably hit its price target, while working closely with government.
-- 09/18 15:16 [FirstSquawk] Japan’s Economy Minister Kiuchi says the BOJ has the authority to decide how monetary policy is implemented.
 - 09/18 15:23 [FirstSquawk] Australia’s benchmark S&P/ASX 200 finishes 0.01% lower at 8,731.20 points.
 - 09/18 15:33 [financialjuice] BoJ Gov Ueda: Japan's economy recovering moderately albeit with some weakness.
 - 09/18 15:33 [FirstSquawk] Hackers linked to North Korea are believed to have taken crypto assets worth at least ¥1.7 billion, according to Kyodo.
@@ -181,3 +162,11 @@
 - 09/18 20:06 [financialjuice] ❗ Saudis tell Europe oil refiners they’ll get no crude next month.
 - 09/18 20:07 [FirstSquawk] SAUDI ARABIA INFORMS EUROPEAN OIL REFINERS THEY WILL NOT RECEIVE ANY CRUDE OIL NEXT MONTH.
 - 09/18 20:26 [DeItaone] SAUDI ARAMCO CUTS EUROPEAN OIL ALLOCATIONS Saudi Aramco has reportedly told European customers they will receive no crude allocations next month, extending supply disruptions caused by the attack on the East-West pipeline. The halt has alre…
+- 09/18 21:00 [financialjuice] Secured Overnight Financing Rate 3.85% September 17 vs 3.62% September 16.
+- 09/18 21:00 [financialjuice] Morning Juice – US Session Prep (17th September)
+- 09/18 21:01 [financialjuice] France's Pres. Macron: France was targeted by Russian hybrid attacks in the past few weeks.
+- 09/18 21:01 [financialjuice] Morning Juice – US Session Prep (18th September)
+- 09/18 21:09 [FirstSquawk] S&P 500 FUTURES CANCEL EARLIER PROFITS AND TRADE EVEN.
+- 09/18 21:15 [FirstSquawk] FRANCE'S PRESIDENT MACRON REVEALED THAT RUSSIA CARRIED OUT HYBRID ATTACKS ON FRANCE IN RECENT WEEKS.
+- 09/18 21:16 [financialjuice] France's Pres. Macron: We will convene a G7 meeting on energy.
+- 09/18 21:19 [financialjuice] France's Pres. Macron: We are mulling options to release strategic energy reserves.

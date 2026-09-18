@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 20:58 JST／対象: 09/17 20:58 〜 09/18 20:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 21:21 JST／対象: 09/17 21:21 〜 09/18 21:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 14 | 09/17 21:58 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 351 | 09/17 20:59 | 09/18 20:07 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 280 | 09/17 21:00 | 09/18 20:06 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 347 | 09/17 21:21 | 09/18 21:15 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 282 | 09/17 21:30 | 09/18 21:19 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 635 行（統合前 651 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 633 行（統合前 649 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 20:59 [FirstSquawk] SPOT GOLD EXTENDS GAINS, UP NEARLY 2% TO $4,346.40/OZ
-- 09/17 21:00 [financialjuice] Secured overnight financing rate 3.62% September 16th vs 3.64% September 15th
-- 09/17 21:00 [FirstSquawk] US CRUDE FUTURES EXTEND DROP TO FALL BACK BELOW $100/BBL
-- 09/17 21:00 [financialjuice] ❗ China has privately asked Iran to use its influence to help rein in Yemen's Houthis after Saudi appeal to Beijing, three Iranian - Sources.
-- 09/17 21:01 [FirstSquawk] SPOT SILVER RISES 3% TO $64.85/OZ
-- 09/17 21:06 [financialjuice] Morning Juice – US Session Prep (17th September)
-- 09/17 21:06 [FirstSquawk] SAUDI ARABIA REQUESTS OMAN TO MEDIATE WITH ANSAR ALLAH FOR A TWO-WEEK TRUCE DURING WHICH ALL HUMANITARIAN DEMANDS WILL BE DISCUSSED, ENDING WITH THE ANNOUNCEMENT OF AN AGREEMENT BY THE END OF THE WEEK
-- 09/17 21:08 [financialjuice] Pentagon and Lockheed agree to speed up new missile production.
-- 09/17 21:11 [FirstSquawk] S&P 500 INDEX FUTURES EXTEND GAIN TO 1%
-- 09/17 21:20 [FirstSquawk] LOCKHEED MARTIN REVEALS NEW SECRET MISSILE, FAST TRACKS PRODUCTION
 - 09/17 21:21 [FirstSquawk] BRENT CRUDE FUTURES FALL OVER 3% TO LOWEST LEVEL SINCE SEPTEMBER 10 AS MIDDLE EAST SUPPLY DISRUPTION FEARS EASE
 - 09/17 21:26 [FirstSquawk] US TREASURY YIELDS EXTEND SLIDE AS UK YIELDS AND OIL PRICES FALL
 - 09/17 21:28 [FirstSquawk] NASDAQ 100 FUTURES EXTEND CLIMB TO 1.5%
@@ -659,3 +649,11 @@
 - 09/18 20:06 [financialjuice] ❗ Saudis tell Europe oil refiners they’ll get no crude next month.
 - 09/18 20:07 [FirstSquawk] SAUDI ARABIA INFORMS EUROPEAN OIL REFINERS THEY WILL NOT RECEIVE ANY CRUDE OIL NEXT MONTH.
 - 09/18 20:26 [DeItaone] SAUDI ARAMCO CUTS EUROPEAN OIL ALLOCATIONS Saudi Aramco has reportedly told European customers they will receive no crude allocations next month, extending supply disruptions caused by the attack on the East-West pipeline. The halt has alre…
+- 09/18 21:00 [financialjuice] Secured Overnight Financing Rate 3.85% September 17 vs 3.62% September 16.
+- 09/18 21:00 [financialjuice] Morning Juice – US Session Prep (17th September)
+- 09/18 21:01 [financialjuice] France's Pres. Macron: France was targeted by Russian hybrid attacks in the past few weeks.
+- 09/18 21:01 [financialjuice] Morning Juice – US Session Prep (18th September)
+- 09/18 21:09 [FirstSquawk] S&P 500 FUTURES CANCEL EARLIER PROFITS AND TRADE EVEN.
+- 09/18 21:15 [FirstSquawk] FRANCE'S PRESIDENT MACRON REVEALED THAT RUSSIA CARRIED OUT HYBRID ATTACKS ON FRANCE IN RECENT WEEKS.
+- 09/18 21:16 [financialjuice] France's Pres. Macron: We will convene a G7 meeting on energy.
+- 09/18 21:19 [financialjuice] France's Pres. Macron: We are mulling options to release strategic energy reserves.

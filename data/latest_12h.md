@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 20:58 JST／対象: 09/18 08:58 〜 09/18 20:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 21:21 JST／対象: 09/18 09:21 〜 09/18 21:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 222 | 09/18 08:58 | 09/18 20:07 | 42分（17:10→17:53） |
-| financialjuice | 151 | 09/18 09:26 | 09/18 20:06 | ⚠ 52分（13:07→14:00） |
+| FirstSquawk | 212 | 09/18 09:22 | 09/18 21:15 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 157 | 09/18 09:26 | 09/18 21:19 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 376 行（統合前 377 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 372 行（統合前 373 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 08:58 [FirstSquawk] SLOVAK PRIME MINISTER ROBERT FICO SAYS 'THE SITUATION HAS NEVER BEEN AS SERIOUS AND TENSE REGARDING THE POSSIBILITY OF A PAN-EUROPEAN MILITARY CONFLICT AS IT IS NOW'.
-- 09/18 08:59 [FirstSquawk] SLOVAK PRIME MINISTER ROBERT FICO SAYS ON NATO THAT 'I DO NOT WANT SLOVAKIA TO BECOME PART OF SOME MILITARY CONFLICT BECAUSE OF ARTICLE 5', ADDING THAT WHILE 'WE ARE IN NATO, WE RESPECT THAT' AND CARE ABOUT FULFILLING ITS COMMITMENTS, AS PR…
-- 09/18 09:02 [FirstSquawk] KOSPI gains more than 2% in Seoul trading
-- 09/18 09:03 [FirstSquawk] Trump: Iranian radar destroyed, leaving ships with no night-time visibility
-- 09/18 09:03 [FirstSquawk] Toyota targets deployment of 400,000 humanoid robots in manufacturing operations
-- 09/18 09:15 [FirstSquawk] NEW ZEALAND FOREIGN MINISTRY DENIES DISCUSSIONS WITH EU OVER NEW ZEALAND BECOMING AN ASSOCIATE MEMBER
-- 09/18 09:18 [FirstSquawk] EUROPEAN STOCK FUTURES SLIP: EUROSTOXX 50 -0.3%, DAX -0.5%, FTSE -0.2%
-- 09/18 09:18 [FirstSquawk] European stocks set for a weaker open as futures decline across the region
-- 09/18 09:18 [FirstSquawk] New Zealand foreign ministry spokesperson: No discussions with EU on associate membership
-- 09/18 09:19 [FirstSquawk] Nikkei climbs 1% in Tokyo trading
-- 09/18 09:19 [FirstSquawk] SoftBank Group shares gain 5% in Tokyo trading
-- 09/18 09:21 [FirstSquawk] China’s Wang Yi urges stronger communication and cooperation in call with US Secretary of State Rubio
 - 09/18 09:22 [FirstSquawk] JAPAN 2-YEAR JGB YIELD FALLS 1 BP TO 1.85%
 - 09/18 09:24 [FirstSquawk] 2-year JGB yield declines 1 bp to 1.85%
 - 09/18 09:24 [FirstSquawk] 10-year JGB yield declines to 2.955%, down 3.5 bps
@@ -400,3 +388,11 @@
 - 09/18 20:06 [financialjuice] ❗ Saudis tell Europe oil refiners they’ll get no crude next month.
 - 09/18 20:07 [FirstSquawk] SAUDI ARABIA INFORMS EUROPEAN OIL REFINERS THEY WILL NOT RECEIVE ANY CRUDE OIL NEXT MONTH.
 - 09/18 20:26 [DeItaone] SAUDI ARAMCO CUTS EUROPEAN OIL ALLOCATIONS Saudi Aramco has reportedly told European customers they will receive no crude allocations next month, extending supply disruptions caused by the attack on the East-West pipeline. The halt has alre…
+- 09/18 21:00 [financialjuice] Secured Overnight Financing Rate 3.85% September 17 vs 3.62% September 16.
+- 09/18 21:00 [financialjuice] Morning Juice – US Session Prep (17th September)
+- 09/18 21:01 [financialjuice] France's Pres. Macron: France was targeted by Russian hybrid attacks in the past few weeks.
+- 09/18 21:01 [financialjuice] Morning Juice – US Session Prep (18th September)
+- 09/18 21:09 [FirstSquawk] S&P 500 FUTURES CANCEL EARLIER PROFITS AND TRADE EVEN.
+- 09/18 21:15 [FirstSquawk] FRANCE'S PRESIDENT MACRON REVEALED THAT RUSSIA CARRIED OUT HYBRID ATTACKS ON FRANCE IN RECENT WEEKS.
+- 09/18 21:16 [financialjuice] France's Pres. Macron: We will convene a G7 meeting on energy.
+- 09/18 21:19 [financialjuice] France's Pres. Macron: We are mulling options to release strategic energy reserves.
