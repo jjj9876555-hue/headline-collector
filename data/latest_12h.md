@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 14:58 JST／対象: 09/18 02:58 〜 09/18 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 15:22 JST／対象: 09/18 03:22 〜 09/18 15:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/18 02:59 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 174 | 09/18 03:05 | 09/18 14:47 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 143 | 09/18 03:04 | 09/18 14:44 | ⚠ 60分（06:44→07:45） |
+| DeItaone | 1 | 09/18 06:19 | 09/18 06:19 | - |
+| FirstSquawk | 183 | 09/18 03:33 | 09/18 15:16 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 149 | 09/18 03:31 | 09/18 15:15 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 314 行（統合前 320 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 328 行（統合前 334 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 02:59 [DeItaone] ALTMAN AND HUANG SET TO JOIN XI AT WHITE HOUSE DINNER OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang are planning to attend a White House state dinner next week with Chinese President Xi Jinping. The gathering puts two of the biggest nam…
-- 09/18 03:04 [financialjuice] OpenAI and Microsoft knew of AI threats to news industry. $MSFT
-- 09/18 03:05 [FirstSquawk] OPENAI AND MICROSOFT KNEW OF AI THREATS TO NEWS INDUSTRY.
-- 09/18 03:13 [financialjuice] Trump and Mexico's President Sheinbaum are close to a trade agreement - Politico.
-- 09/18 03:21 [FirstSquawk] EU’S VON DER LEYEN SAYS EU WILL DISBURSE ANOTHER €3.3B TO UKRAINE FOR MISSILE & DRONE PROCUREMENT TOMORROW
 - 09/18 03:31 [financialjuice] NYMEX WTI Crude October futures settle at $101.91 a barrel, down 52 cents, 0.51%.
 - 09/18 03:31 [financialjuice] NYMEX Natural Gas October futures settle at $2.9010/MMBtu.
 - 09/18 03:32 [financialjuice] NYMEX Gasoline October futures settle at $3.5073 a gallon.
@@ -338,3 +333,22 @@
 - 09/18 14:43 [FirstSquawk] Flight operations at Lublin and Rzeszow airports have been temporarily suspended by Poland’s air traffic authority.
 - 09/18 14:44 [financialjuice] SK Hynix's Solidigm weighs first US NAND flash plant - Yonhap
 - 09/18 14:47 [FirstSquawk] Morgan Stanley raises its target for Next PLC to 17,000p, up from 16,800p.
+- 09/18 15:00 [financialjuice] UK CORE RETAIL SALES YOY ACTUAL 2.7% (FORECAST 1.9%, PREVIOUS 2.3%) $MACRO
+- 09/18 15:00 [financialjuice] ‼ BREAKING: UK RETAIL SALES MOM ACTUAL 0.5% (FORECAST -0.2%, PREVIOUS -0.5%) $MACRO
+- 09/18 15:00 [financialjuice] ❗ UK RETAIL SALES YOY ACTUAL 2.4% (FORECAST 1.9%, PREVIOUS 1.6%) $MACRO
+- 09/18 15:00 [financialjuice] ❗ UK CORE RETAIL SALES MOM ACTUAL 0.6% (FORECAST -0.2%, PREVIOUS -0.9%) $MACRO
+- 09/18 15:00 [financialjuice] GERMAN PPI MOM ACTUAL 1.1% (FORECAST 0.6%, PREVIOUS 1.1%) $MACRO
+- 09/18 15:00 [financialjuice] GERMAN PPI YOY ACTUAL 4.6% (FORECAST 3.9%, PREVIOUS 3.0%) $MACRO
+- 09/18 15:01 [FirstSquawk] GERMANY (AUG) PPI MOM ACTUAL: 1.1% VS 1.1% PREVIOUS;EST 0.6%
+- 09/18 15:01 [FirstSquawk] GERMANY (AUG) PPI YOY ACTUAL: 4.6% vs 3% previous;est 3.9%
+- 09/18 15:01 [FirstSquawk] UK (AUG) Retail Sales Inc Auto Fuel MoM actual: 0.5% vs -0.5% previous;est -0.2%
+- 09/18 15:01 [FirstSquawk] UK (AUG) Retail Sales Inc Auto Fuel yoy actual: 2.4% VS 1.6% PREVIOUS;EST 1.9%
+- 09/18 15:01 [FirstSquawk] UK (AUG) Retail Sales Ex Auto Fuel MoM ACTUAL: 0.6% vs 0.9% previous;est 0.2%
+- 09/18 15:01 [FirstSquawk] UK (AUG) Retail Sales Ex Auto Fuel YOY actual: 2.7% vs 2.3% previous;est 1.9%
+- 09/18 15:02 [FirstSquawk] SK Hynix establishes “SK Hynix Ventures” in Silicon Valley to broaden its investment in the global AI ecosystem.
+- 09/18 15:02 [financialjuice] Westpac brings forward RBA rate-hike call to September from November.
+- 09/18 15:03 [FirstSquawk] TotalEnergies reaches a deal with GIP on its African energy infrastructure portfolio.
+- 09/18 15:05 [FirstSquawk] China’s Coast Guard says enforcement activities were legally carried out around Sabina Shoal to protect its rights.
+- 09/18 15:15 [FirstSquawk] Kiuchi says the BOJ is expected to maintain suitable monetary policy aimed at achieving its inflation target in a stable and sustainable manner, in close cooperation with the government.
+- 09/18 15:15 [financialjuice] Japan Economy Minister Kiuchi: Expect BoJ to conduct appropriate monetary policy to sustainably, stably hit its price target, while working closely with government.
+- 09/18 15:16 [FirstSquawk] Japan’s Economy Minister Kiuchi says the BOJ has the authority to decide how monetary policy is implemented.
