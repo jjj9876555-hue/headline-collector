@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 19:58 JST／対象: 09/18 13:58 〜 09/18 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 20:16 JST／対象: 09/18 14:16 〜 09/18 20:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/18 18:11 | 09/18 19:08 | 43分（18:11→18:54） |
-| FirstSquawk | 101 | 09/18 14:00 | 09/18 19:57 | 42分（17:10→17:53） |
-| financialjuice | 64 | 09/18 14:00 | 09/18 19:56 | 42分（17:18→18:00） |
+| FirstSquawk | 102 | 09/18 14:24 | 09/18 20:07 | 42分（17:10→17:53） |
+| financialjuice | 63 | 09/18 14:22 | 09/18 20:06 | 42分（17:18→18:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 167 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,13 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 14:00 [FirstSquawk] A cargo vessel in Ukraine’s Chornomorsk was hit by Russia, according to Russian news agencies citing the Defence Ministry.
-- 09/18 14:00 [financialjuice] Russia strikes cargo ship in Ukraine's Chornomorsk: Russian news agencies cite defense ministry
-- 09/18 14:00 [financialjuice] Sterling/yen gbpjpy rises 0.82% to 209.93 yen
-- 09/18 14:01 [financialjuice] Russia also strikes postal logistics hub near Ukraine's Odesa: Russian news agencies cite defense ministry
-- 09/18 14:01 [FirstSquawk] Russian forces target a postal logistics centre around Odesa in Ukraine, Russian agencies say, citing the Defence Ministry.
-- 09/18 14:09 [FirstSquawk] North Korean leader Kim Jong Un’s sister condemns U.S. military exercises in the Pacific, threatening a “more offensive” retaliation, BFM reports.
-- 09/18 14:16 [FirstSquawk] Japan’s central bank pushes interest rates to their highest point in three decades, CNBC reports.
 - 09/18 14:22 [financialjuice] Japan on track to secure enough oil for November - Refiners
 - 09/18 14:24 [FirstSquawk] FT reports that Europe may boost equity trading by creating fewer but more effective markets.
 - 09/18 14:31 [financialjuice] ECB's Vujcic: Market pricing of rate path is mainly consequence of rising energy prices.
@@ -191,3 +184,10 @@
 - 09/18 19:57 [FirstSquawk] ECB'S LAGARDE SAYS ENERGY IS AN IMPORTANT FACTOR.
 - 09/18 19:57 [FirstSquawk] ECB'S LAGARDE SAYS THEY ARE READY TO TAKE ACTION.
 - 09/18 19:57 [FirstSquawk] ECB'S LAGARDE PROMISES TO HANDLE ISSUES ON A MEETING-BY-MEETING BASIS.
+- 09/18 20:00 [FirstSquawk] ECB'S LAGARDE URGES MARKET MONITORING, NOTES NO CHAOTIC MOVEMENTS.
+- 09/18 20:00 [FirstSquawk] ECB'S LAGARDE SAYS YIELD INCREASE IS A GLOBAL TREND.
+- 09/18 20:01 [FirstSquawk] RUSSIAN AGRICULTURE MINISTRY REPORTS WHEAT HARVEST IN RUSSIA REACHES 90 MILLION TONS.
+- 09/18 20:01 [FirstSquawk] COREWEAVE INCREASES PRICE OF CONVERTIBLE SENIOR NOTES OFFERING TO $3.7 BILLION FROM $3.0 BILLION.
+- 09/18 20:03 [financialjuice] ECB's President Lagarde: Nothing to report on possible departure from ECB.
+- 09/18 20:06 [financialjuice] ❗ Saudis tell Europe oil refiners they’ll get no crude next month.
+- 09/18 20:07 [FirstSquawk] SAUDI ARABIA INFORMS EUROPEAN OIL REFINERS THEY WILL NOT RECEIVE ANY CRUDE OIL NEXT MONTH.

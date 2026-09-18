@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 19:58 JST／対象: 09/18 07:58 〜 09/18 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 20:16 JST／対象: 09/18 08:16 〜 09/18 20:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 3 | 09/18 18:11 | 09/18 19:08 | 43分（18:11→18:54） |
-| FirstSquawk | 231 | 09/18 08:01 | 09/18 19:57 | 42分（17:10→17:53） |
-| financialjuice | 167 | 09/18 08:00 | 09/18 19:56 | ⚠ 52分（13:07→14:00） |
+| FirstSquawk | 233 | 09/18 08:26 | 09/18 20:07 | 42分（17:10→17:53） |
+| financialjuice | 167 | 09/18 08:30 | 09/18 20:06 | ⚠ 52分（13:07→14:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 400 行（統合前 401 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 402 行（統合前 403 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 08:00 [financialjuice] South Korea prolongs fuel-tax reductions by two months until end of November: finance ministry
-- 09/18 08:01 [FirstSquawk] WHITE HOUSE WITHDRAWS NOMINATION OF FORMER DELTA PILOT JEFFREY ANDERSON FOR KEY INTERNATIONAL AVIATION POST
-- 09/18 08:01 [FirstSquawk] JANA PARTNERS PUSHES COOPER COS. TO REPLACE CEO AND CONSIDER SALE OF CORE BUSINESSES — WSJ
-- 09/18 08:06 [FirstSquawk] WORLD BANK BOARD DISCUSSES NEW COUNTRY PARTNERSHIP FRAMEWORK FOR THAILAND, COVERING FY2027–FY2032
-- 09/18 08:10 [financialjuice] Asus and Poesis collaborate on self-driving trading agents powered by Nvidia technology
 - 09/18 08:26 [FirstSquawk] ASUS, POESIS PARTNER ON AUTONOMOUS TRADING AGENTS POWERED BY NVIDIA TECHNOLOGIES
 - 09/18 08:30 [financialjuice] ❗ JAPANESE CORE CPI NATIONWIDE YOY ACTUAL 1.7% (FORECAST 1.8%, PREVIOUS 1.8%) $MACRO
 - 09/18 08:30 [financialjuice] ‼ BREAKING: JAPANESE CPI OVERALL NATIONWIDE ACTUAL 1.9% (FORECAST 2%, PREVIOUS 1.9%) $MACRO
@@ -424,3 +419,10 @@
 - 09/18 19:57 [FirstSquawk] ECB'S LAGARDE SAYS ENERGY IS AN IMPORTANT FACTOR.
 - 09/18 19:57 [FirstSquawk] ECB'S LAGARDE SAYS THEY ARE READY TO TAKE ACTION.
 - 09/18 19:57 [FirstSquawk] ECB'S LAGARDE PROMISES TO HANDLE ISSUES ON A MEETING-BY-MEETING BASIS.
+- 09/18 20:00 [FirstSquawk] ECB'S LAGARDE URGES MARKET MONITORING, NOTES NO CHAOTIC MOVEMENTS.
+- 09/18 20:00 [FirstSquawk] ECB'S LAGARDE SAYS YIELD INCREASE IS A GLOBAL TREND.
+- 09/18 20:01 [FirstSquawk] RUSSIAN AGRICULTURE MINISTRY REPORTS WHEAT HARVEST IN RUSSIA REACHES 90 MILLION TONS.
+- 09/18 20:01 [FirstSquawk] COREWEAVE INCREASES PRICE OF CONVERTIBLE SENIOR NOTES OFFERING TO $3.7 BILLION FROM $3.0 BILLION.
+- 09/18 20:03 [financialjuice] ECB's President Lagarde: Nothing to report on possible departure from ECB.
+- 09/18 20:06 [financialjuice] ❗ Saudis tell Europe oil refiners they’ll get no crude next month.
+- 09/18 20:07 [FirstSquawk] SAUDI ARABIA INFORMS EUROPEAN OIL REFINERS THEY WILL NOT RECEIVE ANY CRUDE OIL NEXT MONTH.

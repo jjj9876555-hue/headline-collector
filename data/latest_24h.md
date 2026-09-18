@@ -7,52 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 19:58 JST／対象: 09/17 19:58 〜 09/18 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-18 20:16 JST／対象: 09/17 20:16 〜 09/18 20:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 13 | 09/17 21:58 | 09/18 19:08 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 362 | 09/17 20:00 | 09/18 19:57 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 303 | 09/17 20:00 | 09/18 19:56 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 359 | 09/17 20:24 | 09/18 20:07 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 283 | 09/17 20:26 | 09/18 20:06 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 667 行（統合前 684 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 645 行（統合前 661 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 20:00 [FirstSquawk] BOE INTEREST RATE DECISION (SEP) ACTUAL: 3.75% VS 3.75% PREVIOUS; EST 3.75%
-- 09/17 20:00 [financialjuice] ‼ BREAKING: BOE BANK RATE ACTUAL 3.75% (FORECAST 3.75%, PREVIOUS 3.75%) $MACRO
-- 09/17 20:00 [financialjuice] BOE MPC VOTE HIKE ACTUAL 3 (FORECAST 3, PREVIOUS 3) $MACRO
-- 09/17 20:00 [financialjuice] BOE MPC VOTE UNCHANGED ACTUAL 6 (FORECAST 6, PREVIOUS 6) $MACRO
-- 09/17 20:00 [financialjuice] BOE MPC VOTE CUT ACTUAL 0 (FORECAST 0, PREVIOUS 0) $MACRO
-- 09/17 20:00 [financialjuice] BoE: £222B of notes maturing before 2035 to be held to maturity
-- 09/17 20:00 [financialjuice] BoE sees growth of 0.4% in Q3, vs 0.1% prior forecast
-- 09/17 20:01 [financialjuice] BoE’s Greene: Risk-management strategy is appropriate
-- 09/17 20:01 [financialjuice] BoE Gov. Bailey: Loss of urgency to find solutions to conflict
-- 09/17 20:01 [financialjuice] BoE's Ramsden: More risk of domestic pressures emerging
-- 09/17 20:01 [FirstSquawk] BOE GILT PLAN SEES ANNUAL £20B OF SALES TO GOVERNMENT
-- 09/17 20:01 [FirstSquawk] BOE PLANS TO CUT £368 BILLION OF GILT STOCK BY END OF 2034
-- 09/17 20:01 [financialjuice] BoE's Dhingra: My view of the outlook is largely unchanged since July
-- 09/17 20:01 [FirstSquawk] BOE SEES UK INFLATION SLIGHTLY ABOVE 4% IN 1Q 2027
-- 09/17 20:01 [financialjuice] BoE's Taylor: Monetary policy is already firmly restrictive
-- 09/17 20:01 [financialjuice] BoE revises up inflation outlook, sees 3.75% by end of 2026
-- 09/17 20:02 [financialjuice] BoE: £120B of longest-dated bonds held to back banknotes
-- 09/17 20:02 [financialjuice] BoE: Inflation risks are tilted to the upside relative to the July central forecast
-- 09/17 20:02 [financialjuice] ❗ BoE Gov. Bailey: Likely policy may have to tighten if conflict in MidEast persists for extended period, as appears likely, and if risk of second-round effects increases.
-- 09/17 20:02 [FirstSquawk/financialjuice] TRADERS TRIM BOE RATE BETS, PRICE 38BPS OF HIKES BY YEAR END
-- 09/17 20:02 [financialjuice] BoE monetary policy summary repeats the July statement that there is "little evidence so far" of material second-round inflation effects
-- 09/17 20:03 [financialjuice] BoE: Chief economist Pill and MPC's Greene and Mann voted to raise rates to 4%
-- 09/17 20:03 [financialjuice] BoE Gov. Bailey: Gilt plan to take place gradually, predictably
-- 09/17 20:03 [financialjuice] BoE: Adverse energy scenario as a proxy for the current situation
-- 09/17 20:03 [financialjuice] BoE's Dhingra: BoE's rate is materially higher than European peers
-- 09/17 20:05 [FirstSquawk] BOE: Q3 GDP GROWTH EXPECTED TO BE +0.4% (JULY FORECAST: Q3 +0.1%) || OF ENGLAND SAYS MPC VOTE 6-3 TO HOLD RATES AT 3.75% (REUTERS POLL: 6-3 VOTE FOR 3.75%)
-- 09/17 20:06 [FirstSquawk] BOE SAYS QT UNWIND PLAN WILL INVOLVE ANNUAL SALES OF £20 BLN A YEAR ALONGSIDE MATURING GILTS (BOE MARKET POLL: £19.5 BLN ACTIVE SALES FOR 2026/27) || SAYS £222 BLN OF GILTS MATURING EARLIER THAN 2035 AND £120 BLN OF GILTS MATURING 2049-2071…
-- 09/17 20:07 [financialjuice] BoE Monetary Policy Summary September 2026
-- 09/17 20:15 [FirstSquawk] BOE: ITS APF GILT AUCTIONS WILL BE PAUSED UNTIL APRIL 2027 WHILE BOE CONSIDERS SELLING GILTS TO GOVERNMENT RATHER THAN MARKET
 - 09/17 20:24 [FirstSquawk] NOVO SIGNS DRUG PARTNERSHIP WITH ORBIS WORTH UP TO $1.4 BILLION - BBG
 - 09/17 20:26 [FirstSquawk] ECB'S REHN: CAN SAY WE WERE IN A GOOD PLACE ON INFLATION GIVEN LATEST SHOCKS, SIGNALS SITUATION NOT THE SAME NOW
 - 09/17 20:26 [financialjuice] ECB's Rehn: Can say we were in a good place on inflation given the latest shocks, signals situation not the same now
@@ -691,3 +662,10 @@
 - 09/18 19:57 [FirstSquawk] ECB'S LAGARDE SAYS ENERGY IS AN IMPORTANT FACTOR.
 - 09/18 19:57 [FirstSquawk] ECB'S LAGARDE SAYS THEY ARE READY TO TAKE ACTION.
 - 09/18 19:57 [FirstSquawk] ECB'S LAGARDE PROMISES TO HANDLE ISSUES ON A MEETING-BY-MEETING BASIS.
+- 09/18 20:00 [FirstSquawk] ECB'S LAGARDE URGES MARKET MONITORING, NOTES NO CHAOTIC MOVEMENTS.
+- 09/18 20:00 [FirstSquawk] ECB'S LAGARDE SAYS YIELD INCREASE IS A GLOBAL TREND.
+- 09/18 20:01 [FirstSquawk] RUSSIAN AGRICULTURE MINISTRY REPORTS WHEAT HARVEST IN RUSSIA REACHES 90 MILLION TONS.
+- 09/18 20:01 [FirstSquawk] COREWEAVE INCREASES PRICE OF CONVERTIBLE SENIOR NOTES OFFERING TO $3.7 BILLION FROM $3.0 BILLION.
+- 09/18 20:03 [financialjuice] ECB's President Lagarde: Nothing to report on possible departure from ECB.
+- 09/18 20:06 [financialjuice] ❗ Saudis tell Europe oil refiners they’ll get no crude next month.
+- 09/18 20:07 [FirstSquawk] SAUDI ARABIA INFORMS EUROPEAN OIL REFINERS THEY WILL NOT RECEIVE ANY CRUDE OIL NEXT MONTH.
