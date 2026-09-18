@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 04:41 JST／対象: 09/18 22:41 〜 09/19 04:41 JST（時刻はすべて日本時間）
+生成: 2026-09-19 04:51 JST／対象: 09/18 22:51 〜 09/19 04:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 66 | 09/18 23:07 | 09/19 04:40 | 19分（04:21→04:40） |
-| financialjuice | 49 | 09/18 22:59 | 09/19 04:41 | 38分（02:01→02:40） |
+| FirstSquawk | 67 | 09/18 23:07 | 09/19 04:50 | 19分（04:21→04:40） |
+| financialjuice | 54 | 09/18 22:59 | 09/19 04:51 | 38分（02:01→02:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 117 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -135,3 +135,9 @@
 - 09/19 04:39 [financialjuice] CFTC Positions in the Week of September 15th 2026
 - 09/19 04:40 [FirstSquawk] LABOUR CONSIDERS LOWERING MANSION TAX THRESHOLD TO GBP1.5 MLN – TIMES
 - 09/19 04:41 [financialjuice] Trump makes an announcement on healthcare - WATCH LIVE
+- 09/19 04:47 [financialjuice] Goldman Sachs, JPMorgan, Morgan Stanley lead bookrunners for NScale IPO - SEC filing.
+- 09/19 04:49 [financialjuice] Nscale: Anthropic services agreements provide for aggregate payments to us of up to about $44.6 billion
+- 09/19 04:50 [financialjuice] Nscale: On August 25, 2026 we entered into a series of GPU services agreements with Anthropic.
+- 09/19 04:50 [FirstSquawk] NSCALE HAS SUBMITTED ITS APPLICATION FOR AN IPO AND AIMS TO BE LISTED ON THE NYSE UNDER THE TICKER 'NSCL.'
+- 09/19 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -5524.6 MLN NASDAQ 100: 37.6 MLN DOW 30: -362.2 MLN MAG 7: -260.1 MLN $MACRO
+- 09/19 04:51 [financialjuice] Nscale targeting multi-billion-dollar listing and valuation around $30 billion - CNBC

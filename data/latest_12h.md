@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 04:41 JST／対象: 09/18 16:41 〜 09/19 04:41 JST（時刻はすべて日本時間）
+生成: 2026-09-19 04:51 JST／対象: 09/18 16:51 〜 09/19 04:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 139 | 09/18 16:41 | 09/19 04:40 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 97 | 09/18 16:50 | 09/19 04:41 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 136 | 09/18 16:54 | 09/19 04:50 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 101 | 09/18 16:54 | 09/19 04:51 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 235 行（統合前 243 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 236 行（統合前 244 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 16:41 [FirstSquawk] BOJ GOVERNOR UEDA SAYS IT'S HARD TO DETERMINE IF FINANCIAL CONDITIONS ARE TOO EASY.
-- 09/18 16:41 [FirstSquawk] BOJ GOV UEDA WILL CONSIDER FINANCIAL CONDITIONS, INCLUDING THE EFFECTS OF PREVIOUS RATE INCREASES.
-- 09/18 16:41 [FirstSquawk] KLINGBEIL SAYS TRUMP HAD ALREADY THREATENED TARIFFS BEFORE THE CANADA-EU DEAL.
-- 09/18 16:46 [FirstSquawk] YEN FALLS BY 1% AGAINST DOLLAR AFTER UEDA'S COMMENTS.
-- 09/18 16:50 [financialjuice] SK Hynix: Nothing decided on building chip plant in Japan.
 - 09/18 16:54 [financialjuice] EU Economy Commissioner Dombrovskis: Economy is proving resilient.
 - 09/18 16:54 [financialjuice] EU's Economy Commissioner Dombrovskis: Windfall tax will be touched upon.
 - 09/18 16:54 [FirstSquawk] DOMBROVSKIS STRESSES IMPORTANCE OF MONITORING BOND MARKET.
@@ -259,3 +254,9 @@
 - 09/19 04:39 [financialjuice] CFTC Positions in the Week of September 15th 2026
 - 09/19 04:40 [FirstSquawk] LABOUR CONSIDERS LOWERING MANSION TAX THRESHOLD TO GBP1.5 MLN – TIMES
 - 09/19 04:41 [financialjuice] Trump makes an announcement on healthcare - WATCH LIVE
+- 09/19 04:47 [financialjuice] Goldman Sachs, JPMorgan, Morgan Stanley lead bookrunners for NScale IPO - SEC filing.
+- 09/19 04:49 [financialjuice] Nscale: Anthropic services agreements provide for aggregate payments to us of up to about $44.6 billion
+- 09/19 04:50 [financialjuice] Nscale: On August 25, 2026 we entered into a series of GPU services agreements with Anthropic.
+- 09/19 04:50 [FirstSquawk] NSCALE HAS SUBMITTED ITS APPLICATION FOR AN IPO AND AIMS TO BE LISTED ON THE NYSE UNDER THE TICKER 'NSCL.'
+- 09/19 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -5524.6 MLN NASDAQ 100: 37.6 MLN DOW 30: -362.2 MLN MAG 7: -260.1 MLN $MACRO
+- 09/19 04:51 [financialjuice] Nscale targeting multi-billion-dollar listing and valuation around $30 billion - CNBC
