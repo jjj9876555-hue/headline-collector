@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 01:45 JST／対象: 09/18 01:45 〜 09/19 01:45 JST（時刻はすべて日本時間）
+生成: 2026-09-19 01:58 JST／対象: 09/18 01:58 〜 09/19 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/18 02:10 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 352 | 09/18 01:46 | 09/19 01:44 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 275 | 09/18 01:45 | 09/19 01:44 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 349 | 09/18 01:59 | 09/19 01:57 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 274 | 09/18 01:59 | 09/19 01:54 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 626 行（統合前 645 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 622 行（統合前 640 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 01:45 [financialjuice] Fed bids for 10 Yr tips total $2.9 bln
-- 09/18 01:46 [FirstSquawk] BAE SYSTEMS ONEARC AWARDED OTHER TRANSACTION AGREEMENT CONTRACT BY US ARMY TO INTEGRATE ECT SOLUTION
-- 09/18 01:51 [FirstSquawk] RUBIO TAKES BEHIND-THE-SCENES ROLE ON IRAN WAR, WHILE KEEPING HIS OPTIONS OPEN FOR THE FUTURE – NBC
-- 09/18 01:54 [FirstSquawk] FRENCH FINANCE MINISTRY SEES 2026 DEFICIT AT 5.4% GDP
-- 09/18 01:54 [FirstSquawk] NORTHROP CEO SAYS CO PLANNING FIRST SENTINEL MISSILE TEST IN 2027, WHICH IS EARLIER THAN WAS ANTICIPATED
-- 09/18 01:55 [FirstSquawk] NVIDIA COMMITS $2 BILLION TO BROOKFIELD AI FUND
-- 09/18 01:55 [financialjuice] Nvidia commits $2 billion to Brookfield AI fund. $NVDA
-- 09/18 01:57 [FirstSquawk] TRUMP SAID IN AN INTERVIEW WITH AXIOS THAT HE IS AT A TURNING POINT IN THE IRAN WAR, DECIDING WHETHER TO RESUME LARGE-SCALE ATTACKS TO END THE CONFLICT.
-- 09/18 01:57 [financialjuice] ❗ Trump tells Axios he's approaching major crossroads in Iran war
 - 09/18 01:59 [financialjuice] Trump on Iran: I have a big decision coming up - Axios
 - 09/18 01:59 [FirstSquawk] TRUMP TO AXIOS: WANT TO TALK WITH ALLIES AT UN ABOUT IRAN STEPS
 - 09/18 01:59 [financialjuice] Senior US Official to Al Jazeera: Focused on ensuring navigation in the Red Sea and paving the way for our partners to manage security challenges.
@@ -650,3 +641,8 @@
 - 09/19 01:42 [FirstSquawk] FED'S SCHMID: US ECONOMY IS STRONG, GROWING; WE’RE IN A FAIRLY NORMALIZED PLACE
 - 09/19 01:44 [financialjuice] Senior Saudi security, military delegation met Mossad and Israeli military intelligence leaders to seek support against Houthi operations under US CENTCOM supervision - Palestinian source via ISNA
 - 09/19 01:44 [FirstSquawk] A RELIABLE AMERICAN OFFICIAL REVEALED THAT 60 MILLION BARRELS OF OIL, BELIEVED TO BE FROM IRAN, ARE TRAPPED ON SHIPS FACING SANCTIONS.
+- 09/19 01:48 [financialjuice] Reports of an explosion near the Strait of Hormuz - al Hadath
+- 09/19 01:49 [FirstSquawk] REPORTS OF AN EXPLOSION OCCURRING IN THE VICINITY OF THE STRAIT OF HORMUZ
+- 09/19 01:54 [financialjuice] Top US NATO Commander Grynkewich participated in today's virtual briefing for Pentagon policy Chief Colby on potential approaches to US force posture review in Europe - Spokesperson
+- 09/19 01:54 [FirstSquawk] AS OF SEPTEMBER 18, CENTCOM FORCES HAVE DIRECTED 105 COMMERCIAL SHIPS TO ENSURE COMPLIANCE.
+- 09/19 01:57 [FirstSquawk] US MILITARY EXPERIENCED A NEAR MISS DUE TO AI-BASED FALSE INTELLIGENCE REPORT, SOURCES REVEAL.

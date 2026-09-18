@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 01:45 JST／対象: 09/18 19:45 〜 09/19 01:45 JST（時刻はすべて日本時間）
+生成: 2026-09-19 01:58 JST／対象: 09/18 19:58 〜 09/19 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/18 20:26 | 09/18 20:26 | - |
-| FirstSquawk | 75 | 09/18 19:47 | 09/19 01:44 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 60 | 09/18 19:50 | 09/19 01:44 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 65 | 09/18 20:00 | 09/19 01:57 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 59 | 09/18 20:03 | 09/19 01:54 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 133 行（統合前 139 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 122 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 19:47 [FirstSquawk] LESCURE SAYS EU'S CLOSER RELATIONSHIP WITH CANADA IS A FANTASTIC IDEA.
-- 09/18 19:47 [FirstSquawk] EU ECONOMIC COMMISSIONER DOMBROVSKI SAYS RISING BOND YIELDS WILL AFFECT ALL OF EUROPE, CALLS FOR STRONG FISCAL POLICIES.
-- 09/18 19:48 [FirstSquawk] LESCURE SAYS ECB IS PERFORMING ITS DUTIES.
-- 09/18 19:48 [FirstSquawk] FRENCH 10-YEAR BOND YIELD PREMIUM OVER GERMAN BUNDS INCREASES TO 100 BASIS POINTS.
-- 09/18 19:49 [FirstSquawk] ECB'S LAGARDE EXPECTS DIGITAL EURO LAWS TO BE FINISHED THIS YEAR.
-- 09/18 19:49 [FirstSquawk] ECB'S LAGARDE SAYS ECONOMIC FUTURE IS UNCERTAIN.
-- 09/18 19:50 [financialjuice] ECB's President Lagarde: Rates do not move in lockstep with price of energy, other factors, growth and consumption, also play a role.
-- 09/18 19:50 [FirstSquawk] ECB'S LAGARDE SAYS INTEREST RATES DO NOT RISE OR FALL TOGETHER WITH ENERGY PRICES.
-- 09/18 19:50 [FirstSquawk] ECB'S LAGARDE STATES THAT GROWTH AND CONSUMPTION ARE IMPORTANT FACTORS TOO.
-- 09/18 19:55 [FirstSquawk] EU ECONOMIC COMMISSIONER STATED MARKETS HAVE REPRICED, HIGHLIGHTING THE NEED FOR CAREFUL FISCAL POLICIES.
-- 09/18 19:55 [financialjuice] EU Economic Commissioner: There is repricing done by markets, but that is why we need prudent fiscal policies.
-- 09/18 19:56 [financialjuice] ECB's President Lagarde: Clear that energy is a significant variable. We are well positioned to respond.
-- 09/18 19:56 [FirstSquawk] ECB'S LAGARDE ANNOUNCES CALM REACTION TO PRESENT CONDITIONS.
-- 09/18 19:57 [FirstSquawk] ECB'S LAGARDE SAYS ENERGY IS AN IMPORTANT FACTOR.
-- 09/18 19:57 [FirstSquawk] ECB'S LAGARDE SAYS THEY ARE READY TO TAKE ACTION.
-- 09/18 19:57 [FirstSquawk] ECB'S LAGARDE PROMISES TO HANDLE ISSUES ON A MEETING-BY-MEETING BASIS.
 - 09/18 20:00 [FirstSquawk] ECB'S LAGARDE URGES MARKET MONITORING, NOTES NO CHAOTIC MOVEMENTS.
 - 09/18 20:00 [FirstSquawk] ECB'S LAGARDE SAYS YIELD INCREASE IS A GLOBAL TREND.
 - 09/18 20:01 [FirstSquawk] RUSSIAN AGRICULTURE MINISTRY REPORTS WHEAT HARVEST IN RUSSIA REACHES 90 MILLION TONS.
@@ -157,3 +141,8 @@
 - 09/19 01:42 [FirstSquawk] FED'S SCHMID: US ECONOMY IS STRONG, GROWING; WE’RE IN A FAIRLY NORMALIZED PLACE
 - 09/19 01:44 [financialjuice] Senior Saudi security, military delegation met Mossad and Israeli military intelligence leaders to seek support against Houthi operations under US CENTCOM supervision - Palestinian source via ISNA
 - 09/19 01:44 [FirstSquawk] A RELIABLE AMERICAN OFFICIAL REVEALED THAT 60 MILLION BARRELS OF OIL, BELIEVED TO BE FROM IRAN, ARE TRAPPED ON SHIPS FACING SANCTIONS.
+- 09/19 01:48 [financialjuice] Reports of an explosion near the Strait of Hormuz - al Hadath
+- 09/19 01:49 [FirstSquawk] REPORTS OF AN EXPLOSION OCCURRING IN THE VICINITY OF THE STRAIT OF HORMUZ
+- 09/19 01:54 [financialjuice] Top US NATO Commander Grynkewich participated in today's virtual briefing for Pentagon policy Chief Colby on potential approaches to US force posture review in Europe - Spokesperson
+- 09/19 01:54 [FirstSquawk] AS OF SEPTEMBER 18, CENTCOM FORCES HAVE DIRECTED 105 COMMERCIAL SHIPS TO ENSURE COMPLIANCE.
+- 09/19 01:57 [FirstSquawk] US MILITARY EXPERIENCED A NEAR MISS DUE TO AI-BASED FALSE INTELLIGENCE REPORT, SOURCES REVEAL.
