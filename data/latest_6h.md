@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 13:35 JST／対象: 09/18 07:35 〜 09/18 13:35 JST（時刻はすべて日本時間）
+生成: 2026-09-18 13:50 JST／対象: 09/18 07:50 〜 09/18 13:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 131 | 09/18 07:36 | 09/18 13:35 | 20分（08:06→08:26） |
-| financialjuice | 108 | 09/18 07:45 | 09/18 13:07 | ⚠ 49分（12:12→13:02） |
+| FirstSquawk | 129 | 09/18 08:01 | 09/18 13:44 | 20分（08:06→08:26） |
+| financialjuice | 103 | 09/18 08:00 | 09/18 13:07 | ⚠ 49分（12:12→13:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 239 行（統合前 239 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 232 行（統合前 232 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 07:36 [FirstSquawk] U.S. APPROVES VISAS FOR IRANIAN PRESIDENT MASOUD PEZESHKIAN, FOREIGN MINISTER ABBAS ARAGHCHI AND OTHER OFFICIALS TO ATTEND NEXT WEEK’S UN GENERAL ASSEMBLY IN NEW YORK, DESPITE THE ONGOING SIX-MONTH WAR, WITH THE DELEGATION FACING TRAVEL RES…
-- 09/18 07:44 [FirstSquawk] JEDDAH WARNING SIRENS SOUND; FLIGHTS AT JEDDAH AIRPORT HALTED AS PROJECTILE REPORTEDLY FIRED AT JEDDAH — TASNIMNEWS
-- 09/18 07:45 [financialjuice] NEW ZEALAND TRADE BALANCE ACTUAL -1349M (FORECAST -, PREVIOUS -1,949.0M) $MACRO
-- 09/18 07:45 [financialjuice] NEW ZEALAND FOOD PRICE INDEX ACTUAL 0.3% (FORECAST -, PREVIOUS 0.1%) $MACRO
-- 09/18 07:45 [financialjuice] New Zealand food price inflation index +0.3% in August on previous month: Stats NZ
-- 09/18 07:45 [financialjuice] NEW ZEALAND EXPORTS ACTUAL 6.66B (FORECAST -, PREVIOUS 7.39B ,REVISION 7.22B) $MACRO
-- 09/18 07:45 [financialjuice] NEW ZEALAND IMPORTS ACTUAL 8.00B (FORECAST -, PREVIOUS 9.34B ,REVISION 9.33B) $MACRO
-- 09/18 07:46 [FirstSquawk] NEW ZEALAND'S AUGUST TRADE BALANCE SHOWED A DEFICIT OF NZ$1,349 MLN, NARROWER THAN THE PRIOR NZ$1,949 MLN, WITH EXPORTS AT NZ$6.66 BLN AND IMPORTS AT NZ$8.00 BLN, WHILE THE FOOD PRICE INDEX ROSE 0.3% MONTH-ON-MONTH VERSUS A PRIOR 0.1%
 - 09/18 08:00 [financialjuice] South Korea prolongs fuel-tax reductions by two months until end of November: finance ministry
 - 09/18 08:01 [FirstSquawk] WHITE HOUSE WITHDRAWS NOMINATION OF FORMER DELTA PILOT JEFFREY ANDERSON FOR KEY INTERNATIONAL AVIATION POST
 - 09/18 08:01 [FirstSquawk] JANA PARTNERS PUSHES COOPER COS. TO REPLACE CEO AND CONSIDER SALE OF CORE BUSINESSES — WSJ
@@ -263,3 +255,4 @@
 - 09/18 13:30 [FirstSquawk] Washington set to allow Iranian leaders into New York for UN meeting despite wartime stand-off - SCMP
 - 09/18 13:32 [FirstSquawk] PAKISTAN IN CRISIS MODE: MARKETS TO SHUT BY 9 PM, FUEL USE SLASHED 50%, FOREIGN TRAVEL RESTRICTED
 - 09/18 13:35 [FirstSquawk] Kansai Electric finishes decommissioning work on problematic Mihama nuclear reactor.
+- 09/18 13:44 [FirstSquawk] Yonhap: North Korea’s nuclear test may have triggered more than 1,300 earthquakes, report says.
