@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 04:30 JST／対象: 09/18 22:30 〜 09/19 04:30 JST（時刻はすべて日本時間）
+生成: 2026-09-19 04:41 JST／対象: 09/18 22:41 〜 09/19 04:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 76 | 09/18 22:31 | 09/19 04:21 | 31分（22:36→23:07） |
-| financialjuice | 53 | 09/18 22:31 | 09/19 04:24 | 38分（02:01→02:40） |
+| FirstSquawk | 66 | 09/18 23:07 | 09/19 04:40 | 19分（04:21→04:40） |
+| financialjuice | 49 | 09/18 22:59 | 09/19 04:41 | 38分（02:01→02:40） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 125 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 111 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 935.5 MLN NASDAQ 100: 1127.1 MLN DOW 30: 311.3 MLN MAG 7: 655.3 MLN $MACRO
-- 09/18 22:31 [financialjuice] Fed Vice Chair for Supervision Bowman does not comment on economic or monetary policy outlook in prepared remarks to event in London.
-- 09/18 22:31 [FirstSquawk] S&P 500 UP 9.60 POINTS, OR 0.13 PERCENT, AT 7,647.36 AFTER MARKET OPEN NASDAQ UP 110.73 POINTS, OR 0.42 PERCENT, AT 26,529.03 AFTER MARKET OPEN DOW JONES DOWN 85.24 POINTS, OR 0.16 PERCENT, AT 51,692.80 AFTER MARKET OPEN
-- 09/18 22:31 [financialjuice] Fed's Bowman: Supervisory delays were not due to deregulatory efforts pursued earlier by the Fed.
-- 09/18 22:32 [financialjuice] Fed's Bowman: Changes will make tests more reliable and reduce volatility in bank capital requirements.
-- 09/18 22:32 [financialjuice] Fed's Bowman: The Fed will finalize reforms to make bank stress tests more transparent and accountable in the coming weeks.
-- 09/18 22:33 [financialjuice] Fed's Bowman: The Fed, going forward, will average the bank's last two stress tests when assigning the lender's 'stress capital buffer’.
-- 09/18 22:34 [FirstSquawk] FED'S BOWMAN MAKES NO COMMENTS ON THE ECONOMY OR MONETARY POLICY IN HER PREPARED STATEMENT.
-- 09/18 22:34 [FirstSquawk] BOWMAN CLAIMS FEDERAL SUPERVISORS SHOULD HAVE IDENTIFIED SVB'S WEAKNESSES AS EARLY AS MARCH 2022, OVER A YEAR PRIOR TO THE BANK'S COLLAPSE.
-- 09/18 22:34 [FirstSquawk] BOWMAN REVEALS FIRST RESULTS OF INDEPENDENT EXAMINATION OF SILICON VALLEY BANK COLLAPSE.
-- 09/18 22:34 [FirstSquawk] BOWMAN STATED THAT THE DELAYS IN SUPERVISION WERE NOT A RESULT OF THE FED'S PREVIOUS DEREGULATORY ACTIONS.
-- 09/18 22:35 [FirstSquawk] BOWMAN CLAIMS A 'RISK AVERSION CULTURE' AMONG FED SUPERVISORS CAUSED INACTION DUE TO UNCLEAR DECISION-MAKING RIGHTS.
-- 09/18 22:35 [FirstSquawk] BOWMAN STATED THAT FEDERAL SUPERVISORS FAILED TO ACT QUICKLY AND DECISIVELY TO FORCE SVB TO LOWER RISKS.
-- 09/18 22:35 [FirstSquawk] BOWMAN STATES UPDATES WILL ENHANCE TEST RELIABILITY AND LOWER BANK CAPITAL REQUIREMENT VOLATILITY.
-- 09/18 22:35 [FirstSquawk] BOWMAN STATES UPDATED STRESS TESTS WILL OFFER THOROUGH INSIGHTS ON TESTING MODELS AND SCENARIOS.
-- 09/18 22:35 [FirstSquawk] BOWMAN ANTICIPATES THAT THE FED WILL COMPLETE 'BASEL' BANK CAPITAL REGULATIONS AND ADJUSTMENTS TO THE GSIB SURCHARGE BY YEAR-END.
-- 09/18 22:36 [FirstSquawk] BOWMAN ANNOUNCES FED WILL USE STRESS TESTS MORE EXTENSIVELY TO KEEP US CENTRAL BANK SUPERVISORS UPDATED ON BANK RISKS.
-- 09/18 22:39 [financialjuice] China opposes the EU's comments on restricting hybrid car exports.
 - 09/18 22:59 [financialjuice] Bild: The German Government plans to cut energy tax on gasoline by 14 cents per litre.
 - 09/18 23:01 [financialjuice] US LEADING INDEX CHANGE MOM ACTUAL -0.1% (FORECAST 0.1%, PREVIOUS 0.2%) $MACRO
 - 09/18 23:07 [FirstSquawk] US CDC: WORKING WITH COUNCIL OF STATE & TERRITORIAL EPIDEMIOLOGISTS TO DEVELOP STANDARDIZED CASE DEFINITION FOR DEATHS DUE TO MEASLES
@@ -149,3 +131,7 @@
 - 09/19 04:21 [FirstSquawk] NASA IN TALKS FOR BOEING'S STARLINER TO HANDLE NEW MISSIONS
 - 09/19 04:22 [financialjuice] Monday FX Option Expiries
 - 09/19 04:24 [financialjuice] Senior Houthi Member: Saudi Arabia Has Requested Iran's Mediation - Fars News.
+- 09/19 04:39 [financialjuice] Speculators took a bullish JPY stance as of September 15th - CFTC.
+- 09/19 04:39 [financialjuice] CFTC Positions in the Week of September 15th 2026
+- 09/19 04:40 [FirstSquawk] LABOUR CONSIDERS LOWERING MANSION TAX THRESHOLD TO GBP1.5 MLN – TIMES
+- 09/19 04:41 [financialjuice] Trump makes an announcement on healthcare - WATCH LIVE

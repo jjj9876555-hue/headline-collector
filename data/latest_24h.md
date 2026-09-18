@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 04:30 JST／対象: 09/18 04:30 〜 09/19 04:30 JST（時刻はすべて日本時間）
+生成: 2026-09-19 04:41 JST／対象: 09/18 04:41 〜 09/19 04:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/18 06:19 | 09/18 20:26 | ⚠ 711分（06:19→18:11） |
-| FirstSquawk | 351 | 09/18 04:40 | 09/19 04:21 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 260 | 09/18 04:33 | 09/19 04:24 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 350 | 09/18 04:58 | 09/19 04:40 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 262 | 09/18 04:51 | 09/19 04:41 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 607 行（統合前 620 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 608 行（統合前 621 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 04:33 [financialjuice] US money-market fund assets fall to $7.92 trillion at ICI.
-- 09/18 04:40 [FirstSquawk] UKMTO HAS RECEIVED A REPORT OF A SECURITY INCIDENT IN THE STRAIT OF HORMUZ 16NM NORTHEAST OF KHASAB, OMAN.
-- 09/18 04:41 [FirstSquawk] US MONEY-MARKET FUND ASSETS FALL TO $7.92 TRILLION — ICI
 - 09/18 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 3057.3 MLN NASDAQ 100: 1454.0 MLN DOW 30: 1387.4 MLN MAG 7: 928.8 MLN $MACRO
 - 09/18 04:51 [financialjuice/FirstSquawk] Israel's Prime Minister Netanyahu at campaign launch: We must complete the mission to the very end, and topple the Iranian regime - N12 News.
 - 09/18 05:00 [FirstSquawk] DOW JONES CLOSES 0.66% HIGHER AT 51,801.54, UP 339.64 POINTS
@@ -631,3 +628,7 @@
 - 09/19 04:21 [FirstSquawk] NASA IN TALKS FOR BOEING'S STARLINER TO HANDLE NEW MISSIONS
 - 09/19 04:22 [financialjuice] Monday FX Option Expiries
 - 09/19 04:24 [financialjuice] Senior Houthi Member: Saudi Arabia Has Requested Iran's Mediation - Fars News.
+- 09/19 04:39 [financialjuice] Speculators took a bullish JPY stance as of September 15th - CFTC.
+- 09/19 04:39 [financialjuice] CFTC Positions in the Week of September 15th 2026
+- 09/19 04:40 [FirstSquawk] LABOUR CONSIDERS LOWERING MANSION TAX THRESHOLD TO GBP1.5 MLN – TIMES
+- 09/19 04:41 [financialjuice] Trump makes an announcement on healthcare - WATCH LIVE

@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 04:30 JST／対象: 09/18 16:30 〜 09/19 04:30 JST（時刻はすべて日本時間）
+生成: 2026-09-19 04:41 JST／対象: 09/18 16:41 〜 09/19 04:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/18 18:11 | 09/18 20:26 | ⚠ 77分（19:08→20:26） |
-| FirstSquawk | 142 | 09/18 16:34 | 09/19 04:21 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 98 | 09/18 16:30 | 09/19 04:24 | ⚠ 53分（20:06→21:00） |
+| FirstSquawk | 139 | 09/18 16:41 | 09/19 04:40 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 97 | 09/18 16:50 | 09/19 04:41 | ⚠ 53分（20:06→21:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 239 行（統合前 247 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 235 行（統合前 243 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 16:30 [financialjuice] German Fin. Min. Klingbeil: We need instruments like fuel price cap, windfall tax.
-- 09/18 16:31 [financialjuice] German Fin. Min. Klingbeil: Europe and Canada are key partners strategically.
-- 09/18 16:33 [financialjuice] German Fin. Min. Klingbeil: Oil majors take advantage of this situation. We need to intervene in the energy market.
-- 09/18 16:34 [FirstSquawk] UEDA SAYS YIELD LEVELS MUST BE EVALUATED IN RELATION TO INFLATION AND THE ECONOMY.
-- 09/18 16:35 [FirstSquawk] BOJ GOVERNOR UEDA SAYS 'CHANGE IN POLICY PHASE' FOCUSES ON STABILIZING INFLATION AT ABOUT 2%.
-- 09/18 16:35 [FirstSquawk] BOJ GOVERNOR UEDA SAYS IT WILL TAKE TIME TO DETERMINE IF 2% INFLATION IS SUSTAINABLE.
-- 09/18 16:36 [financialjuice] German Fin. Min. Klingbeil: We support Canada being an associated EU member.
-- 09/18 16:41 [FirstSquawk] BOJ GOVERNOR UEDA STATED THAT THE CENTRAL BANK CAN TAKE FURTHER POLICY ACTIONS WITHOUT A LONG OBSERVATION PERIOD.
 - 09/18 16:41 [FirstSquawk] BOJ GOVERNOR UEDA SAYS IT'S HARD TO DETERMINE IF FINANCIAL CONDITIONS ARE TOO EASY.
 - 09/18 16:41 [FirstSquawk] BOJ GOV UEDA WILL CONSIDER FINANCIAL CONDITIONS, INCLUDING THE EFFECTS OF PREVIOUS RATE INCREASES.
 - 09/18 16:41 [FirstSquawk] KLINGBEIL SAYS TRUMP HAD ALREADY THREATENED TARIFFS BEFORE THE CANADA-EU DEAL.
@@ -263,3 +255,7 @@
 - 09/19 04:21 [FirstSquawk] NASA IN TALKS FOR BOEING'S STARLINER TO HANDLE NEW MISSIONS
 - 09/19 04:22 [financialjuice] Monday FX Option Expiries
 - 09/19 04:24 [financialjuice] Senior Houthi Member: Saudi Arabia Has Requested Iran's Mediation - Fars News.
+- 09/19 04:39 [financialjuice] Speculators took a bullish JPY stance as of September 15th - CFTC.
+- 09/19 04:39 [financialjuice] CFTC Positions in the Week of September 15th 2026
+- 09/19 04:40 [FirstSquawk] LABOUR CONSIDERS LOWERING MANSION TAX THRESHOLD TO GBP1.5 MLN – TIMES
+- 09/19 04:41 [financialjuice] Trump makes an announcement on healthcare - WATCH LIVE
