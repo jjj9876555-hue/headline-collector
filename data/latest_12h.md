@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-18 12:34 JST／対象: 09/18 00:34 〜 09/18 12:34 JST（時刻はすべて日本時間）
+生成: 2026-09-18 12:51 JST／対象: 09/18 00:51 〜 09/18 12:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/18 00:42 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 184 | 09/18 00:43 | 09/18 12:29 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 156 | 09/18 00:50 | 09/18 12:12 | ⚠ 60分（06:44→07:45） |
+| DeItaone | 6 | 09/18 02:10 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
+| FirstSquawk | 183 | 09/18 01:02 | 09/18 12:49 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 153 | 09/18 00:51 | 09/18 12:12 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 340 行（統合前 353 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 335 行（統合前 348 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 00:42 [DeItaone] WALL STREET RETHINKS “ONE-AND-DONE” FED HIKE The Fed’s hawkish September meeting is pushing several banks to add another hike or reduce expected rate cuts, including Goldman Sachs, Morgan Stanley, NatWest, Rabobank, Swedbank and Commerzbank…
-- 09/18 00:43 [FirstSquawk] SPACEX PLANS TO ACQUIRE DATA FOR AI MODELS FROM FAILED STARTUPS.
-- 09/18 00:48 [FirstSquawk] LUFTHANSA EXPANDS BOEING 737 MAX FLEET
-- 09/18 00:50 [financialjuice] Three pumping stations along Saudi Arabia's east-west oil pipeline were damaged in an attack last week - Sources.
-- 09/18 00:50 [FirstSquawk] THREE OIL PUMP STATIONS ON SAUDI ARABIA'S EAST-WEST PIPELINE WERE HIT IN AN ATTACK LAST WEEK
-- 09/18 00:50 [financialjuice] ECB’s Zigman: Growth is at risk if inflation isn’t tackled.
-- 09/18 00:51 [financialjuice] ECB's Zigman: We don’t see any major second-round effects.
 - 09/18 00:51 [financialjuice] ECB's Zigman: There’s a lot of optimism for growth.
 - 09/18 00:51 [financialjuice] ECB's Zigman: Market bets don't determine the ECB’s next steps.
 - 09/18 00:53 [financialjuice] US weighs antitrust guidance on AI safety - DoJ Official.
@@ -364,3 +357,5 @@
 - 09/18 12:24 [FirstSquawk] Indonesia FinMin: Indonesia’s bond market continues to show strength despite an uncertain global environment.
 - 09/18 12:25 [FirstSquawk] Indonesia FinMin: Indonesia has kept the 10-year bond spread over U.S. Treasuries at around 120bp so far this year.
 - 09/18 12:29 [FirstSquawk] Nikkei 225 futures strengthen further, trading 1.67% higher.
+- 09/18 12:40 [FirstSquawk] Indonesia Deputy FinMin: The government plans to retain its 200 trillion rupiah cash placement at state lenders until July 2027.
+- 09/18 12:49 [FirstSquawk] Japan’s 10-year JGB yield narrows its decline to 1.5bp, last standing at 2.975%.

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-18 12:34 JST／対象: 09/18 06:34 〜 09/18 12:34 JST（時刻はすべて日本時間）
+生成: 2026-09-18 12:51 JST／対象: 09/18 06:51 〜 09/18 12:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 127 | 09/18 06:35 | 09/18 12:29 | 25分（06:44→07:10） |
-| financialjuice | 99 | 09/18 06:44 | 09/18 12:12 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 124 | 09/18 07:10 | 09/18 12:49 | 20分（08:06→08:26） |
+| financialjuice | 98 | 09/18 07:45 | 09/18 12:12 | 32分（11:18→11:50） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 226 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 222 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 06:35 [FirstSquawk] BRAZIL CENTRAL BANK TO OFFER UP TO $1 BILLION IN DOLLAR AUCTION WITH REPURCHASE AGREEMENT ON SEPTEMBER 18
-- 09/18 06:38 [FirstSquawk] F-16 FIGHTER JET CRASHES DURING ROUTINE TRAINING EXERCISE IN GRAND TRAVERSE COUNTY, MICHIGAN; PILOT EJECTS SAFELY AND REMAINS IN STABLE CONDITION, WITH NO OTHER INJURIES REPORTED. - CBS NEWS.
-- 09/18 06:39 [FirstSquawk] IRAN’S IRGC NAVY SAYS TOGO-FLAGGED TANKER TREND WAS HIT AND STOPPED AFTER CATCHING FIRE WHILE ATTEMPTING TO CROSS THE STRAIT OF HORMUZ, WARNING THAT UNAUTHORIZED VESSELS WILL FACE “DESTRUCTION.”
-- 09/18 06:44 [FirstSquawk] U.S. STATE DEPARTMENT SAYS THE U.S. WILL CONTINUE TO BAR IRANIAN UN MISSION OFFICIALS, VISITING OFFICIALS AND THEIR DEPENDENTS FROM PURCHASING WHOLESALE CLUB MEMBERSHIPS OR LUXURY GOODS, URGING NEW YORK-AREA RETAILERS TO AVOID COMPLICITY IN…
-- 09/18 06:44 [financialjuice] President Trump outlines plans for first meeting with Venezuela's interim chief Delcy Rodriguez as early as next week - Axios
-- 09/18 06:44 [FirstSquawk] TRUMP PLANS FIRST-EVER MEETING WITH VENEZUELA’S INTERIM PRESIDENT DELCY RODRIGUEZ AS EARLY AS NEXT WEEK — AXIOS
 - 09/18 07:10 [FirstSquawk] PENTAGON REVIEWS POTENTIAL CUT OF UP TO 40,000 U.S. TROOPS IN EUROPE, WITH GERMANY, ITALY AND SPAIN AMONG THOSE THAT COULD BE AFFECTED; NO FINAL DECISION HAS BEEN MADE, WITH RECOMMENDATIONS EXPECTED IN NOVEMBER. - NBC NEWS.
 - 09/18 07:20 [FirstSquawk] ZENITH MINERALS’ TAKEOVER OFFER REMAINS OPEN FOR ACCEPTANCES, WITH THE TAKEOVERS PANEL ISSUING ORDERS REGARDING MATTERS INVOLVING FORRESTANIA RESOURCES. || THE ORDERS DO NOT PREVENT FORRESTANIA RESOURCES FROM PROCEEDING WITH ITS TAKEOVER OF…
 - 09/18 07:23 [FirstSquawk] JPMORGAN, CIBC WIN MANDATE TO ADVISE CARNEY GOVERNMENT ON SALE OF CANADA AIRPORT CONCESSIONS
@@ -250,3 +244,5 @@
 - 09/18 12:24 [FirstSquawk] Indonesia FinMin: Indonesia’s bond market continues to show strength despite an uncertain global environment.
 - 09/18 12:25 [FirstSquawk] Indonesia FinMin: Indonesia has kept the 10-year bond spread over U.S. Treasuries at around 120bp so far this year.
 - 09/18 12:29 [FirstSquawk] Nikkei 225 futures strengthen further, trading 1.67% higher.
+- 09/18 12:40 [FirstSquawk] Indonesia Deputy FinMin: The government plans to retain its 200 trillion rupiah cash placement at state lenders until July 2027.
+- 09/18 12:49 [FirstSquawk] Japan’s 10-year JGB yield narrows its decline to 1.5bp, last standing at 2.975%.

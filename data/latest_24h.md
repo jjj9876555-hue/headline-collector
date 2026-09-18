@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 12:34 JST／対象: 09/17 12:34 〜 09/18 12:34 JST（時刻はすべて日本時間）
+生成: 2026-09-18 12:51 JST／対象: 09/17 12:51 〜 09/18 12:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/17 16:07 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 356 | 09/17 12:38 | 09/18 12:29 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 321 | 09/17 12:38 | 09/18 12:12 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 349 | 09/17 12:53 | 09/18 12:49 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 316 | 09/17 13:02 | 09/18 12:12 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 678 行（統合前 695 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 666 行（統合前 683 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 12:38 [financialjuice] Japan finance minister Katayama: will review budget requests, manage debt issuance to maintain market trust
-- 09/17 12:38 [FirstSquawk] Katayama: Japan will scrutinize budget requests and control debt issuance to preserve market confidence.
-- 09/17 12:38 [FirstSquawk] AstraZeneca plans a nearly 200 million yuan investment to modernize its Wuxi manufacturing base in China.
-- 09/17 12:39 [financialjuice] Japan finance minister Katayama: we are committed to tackling extreme volatility with launch of Japan-U.S. joint intervention
-- 09/17 12:39 [FirstSquawk] Katayama: Japan and the US made clear their resolve to tackle excessive currency-market volatility when they initiated joint intervention.
-- 09/17 12:39 [FirstSquawk] AstraZeneca: Upgraded Wuxi production base in China is scheduled to be operational by Q4 2029.
-- 09/17 12:41 [FirstSquawk] 2-year Japanese government bond yield climbs 2 bps to 1.865%.
-- 09/17 12:41 [financialjuice] Japan finance minister Katayama: no remarks on BoJ policy
-- 09/17 12:42 [FirstSquawk] Japan’s Finance Minister Katayama: Will not comment on BOJ policy.
-- 09/17 12:42 [financialjuice] Japan finance minister Katayama: expect BOJ to closely align with government, apply suitable monetary policy to meet 2% inflation goal
-- 09/17 12:42 [FirstSquawk] Katayama: BOJ expected to coordinate closely with the government and take appropriate monetary policy steps toward its 2% price target.
-- 09/17 12:45 [FirstSquawk] 2-year Japanese government bond yield climbs 2 bps to 1.865%, reaching its highest since April 1995.
-- 09/17 12:47 [financialjuice] Ukraine drone strike damages oil refinery in Russia's Yaroslavl, governor says
-- 09/17 12:48 [FirstSquawk] Yaroslavl oil refinery in Russia damaged after a Ukrainian drone strike, according to the governor.
 - 09/17 12:53 [FirstSquawk] Macquarie sees two more 25-bps Fed rate hikes, one in December and another in Q1 2027.
 - 09/17 13:02 [financialjuice] EU asks China to voluntarily curb car exports - FT
 - 09/17 13:02 [financialjuice] EU urges China to voluntarily limit hybrid car exports to avoid trade war: FT
@@ -702,3 +688,5 @@
 - 09/18 12:24 [FirstSquawk] Indonesia FinMin: Indonesia’s bond market continues to show strength despite an uncertain global environment.
 - 09/18 12:25 [FirstSquawk] Indonesia FinMin: Indonesia has kept the 10-year bond spread over U.S. Treasuries at around 120bp so far this year.
 - 09/18 12:29 [FirstSquawk] Nikkei 225 futures strengthen further, trading 1.67% higher.
+- 09/18 12:40 [FirstSquawk] Indonesia Deputy FinMin: The government plans to retain its 200 trillion rupiah cash placement at state lenders until July 2027.
+- 09/18 12:49 [FirstSquawk] Japan’s 10-year JGB yield narrows its decline to 1.5bp, last standing at 2.975%.
