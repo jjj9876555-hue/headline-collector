@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-18 16:32 JST／対象: 09/17 16:32 〜 09/18 16:32 JST（時刻はすべて日本時間）
+生成: 2026-09-18 16:46 JST／対象: 09/17 16:46 〜 09/18 16:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/17 18:43 | 09/18 06:19 | ⚠ 200分（02:59→06:19） |
-| FirstSquawk | 355 | 09/17 16:47 | 09/18 16:23 | ⚠ 51分（03:49→04:40） |
-| financialjuice | 334 | 09/17 16:35 | 09/18 16:31 | ⚠ 60分（06:44→07:45） |
+| FirstSquawk | 362 | 09/17 16:47 | 09/18 16:41 | ⚠ 51分（03:49→04:40） |
+| financialjuice | 335 | 09/17 16:47 | 09/18 16:36 | ⚠ 60分（06:44→07:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 689 行（統合前 706 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 697 行（統合前 714 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/17 16:35 [financialjuice] Huawei faces constraints in expanding production for AI chips.
 - 09/17 16:47 [FirstSquawk] ECB'S MAKHLOUF SAYS THERE ARE NO SIGNS OF WORRYING SECOND-ROUND EFFECTS.
 - 09/17 16:47 [FirstSquawk] ECB'S MAKHLOUF SAYS FUTURE PROSPECTS ARE UNCERTAIN.
 - 09/17 16:47 [FirstSquawk] ZELENSKYY ANNOUNCES UKRAINE ATTACKED RUSSIA'S YAROSLAVL REFINERY.
@@ -713,3 +712,12 @@
 - 09/18 16:23 [FirstSquawk] BOJ GOVERNOR UEDA STATED THAT DECISIONS ON RAISING INTEREST RATES WILL DEPEND ON ECONOMIC PROJECTIONS AND RISK ASSESSMENTS.
 - 09/18 16:30 [financialjuice] German Fin. Min. Klingbeil: We need instruments like fuel price cap, windfall tax.
 - 09/18 16:31 [financialjuice] German Fin. Min. Klingbeil: Europe and Canada are key partners strategically.
+- 09/18 16:33 [financialjuice] German Fin. Min. Klingbeil: Oil majors take advantage of this situation. We need to intervene in the energy market.
+- 09/18 16:34 [FirstSquawk] UEDA SAYS YIELD LEVELS MUST BE EVALUATED IN RELATION TO INFLATION AND THE ECONOMY.
+- 09/18 16:35 [FirstSquawk] BOJ GOVERNOR UEDA SAYS 'CHANGE IN POLICY PHASE' FOCUSES ON STABILIZING INFLATION AT ABOUT 2%.
+- 09/18 16:35 [FirstSquawk] BOJ GOVERNOR UEDA SAYS IT WILL TAKE TIME TO DETERMINE IF 2% INFLATION IS SUSTAINABLE.
+- 09/18 16:36 [financialjuice] German Fin. Min. Klingbeil: We support Canada being an associated EU member.
+- 09/18 16:41 [FirstSquawk] BOJ GOVERNOR UEDA STATED THAT THE CENTRAL BANK CAN TAKE FURTHER POLICY ACTIONS WITHOUT A LONG OBSERVATION PERIOD.
+- 09/18 16:41 [FirstSquawk] BOJ GOVERNOR UEDA SAYS IT'S HARD TO DETERMINE IF FINANCIAL CONDITIONS ARE TOO EASY.
+- 09/18 16:41 [FirstSquawk] BOJ GOV UEDA WILL CONSIDER FINANCIAL CONDITIONS, INCLUDING THE EFFECTS OF PREVIOUS RATE INCREASES.
+- 09/18 16:41 [FirstSquawk] KLINGBEIL SAYS TRUMP HAD ALREADY THREATENED TARIFFS BEFORE THE CANADA-EU DEAL.
