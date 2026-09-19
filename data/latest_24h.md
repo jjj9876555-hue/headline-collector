@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 14:43 JST／対象: 09/18 14:43 〜 09/19 14:43 JST（時刻はすべて日本時間）
+生成: 2026-09-19 14:58 JST／対象: 09/18 14:58 〜 09/19 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 295 | 09/18 14:43 | 09/19 14:43 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 203 | 09/18 14:44 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 296 | 09/18 15:01 | 09/19 14:55 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 202 | 09/18 15:00 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 503 行（統合前 512 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 14:43 [FirstSquawk] Flight operations at Lublin and Rzeszow airports have been temporarily suspended by Poland’s air traffic authority.
-- 09/18 14:44 [financialjuice] SK Hynix's Solidigm weighs first US NAND flash plant - Yonhap
-- 09/18 14:47 [FirstSquawk] Morgan Stanley raises its target for Next PLC to 17,000p, up from 16,800p.
 - 09/18 15:00 [financialjuice] UK CORE RETAIL SALES YOY ACTUAL 2.7% (FORECAST 1.9%, PREVIOUS 2.3%) $MACRO
 - 09/18 15:00 [financialjuice] ‼ BREAKING: UK RETAIL SALES MOM ACTUAL 0.5% (FORECAST -0.2%, PREVIOUS -0.5%) $MACRO
 - 09/18 15:00 [financialjuice] ❗ UK RETAIL SALES YOY ACTUAL 2.4% (FORECAST 1.9%, PREVIOUS 1.6%) $MACRO
@@ -527,3 +524,6 @@
 - 09/19 14:42 [FirstSquawk] Australia’s visa cuts put backpackers’ working holiday plans at risk – SCMP
 - 09/19 14:43 [FirstSquawk] Toyota restores physical buttons in Lexus ES, reflecting mixed views on touchscreen controls – NA
 - 09/19 14:43 [FirstSquawk] Turkey takes steps to steady markets following fund crisis-driven selloff – NA
+- 09/19 14:51 [FirstSquawk] FBI reportedly warns of women posing as tradwives to seduce and expose ICE officers – The Guardian
+- 09/19 14:54 [FirstSquawk] Alibaba releases open-source AI model for detecting cancer and nearly 150 medical conditions - SCMP
+- 09/19 14:55 [FirstSquawk] Pay for foreign elderly carers to be 10%–20% above current helper wages - SCMP

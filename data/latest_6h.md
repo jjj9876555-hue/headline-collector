@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 14:43 JST／対象: 09/19 08:43 〜 09/19 14:43 JST（時刻はすべて日本時間）
+生成: 2026-09-19 14:58 JST／対象: 09/19 08:58 〜 09/19 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 101 | 09/19 09:09 | 09/19 14:43 | 26分（09:24→09:50） |
-| financialjuice | 12 | 09/19 08:43 | 09/19 11:03 | ⚠ 49分（09:13→10:03） |
+| FirstSquawk | 104 | 09/19 09:09 | 09/19 14:55 | 26分（09:24→09:50） |
+| financialjuice | 10 | 09/19 09:00 | 09/19 11:03 | ⚠ 49分（09:13→10:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 113 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 114 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 08:43 [financialjuice] Nvidia CEO Jensen Huang: agrees with Trump on AI, doesn’t think it will end world by 2030 - CBS News
-- 09/19 08:55 [financialjuice] Ustr Jamieson Greer to join Treasury Secretary Bessent in meeting with Chinese Vice Premier He Lifeng: statement
 - 09/19 09:00 [financialjuice] Saudi civil defense issues warning over potential hazard in Riyadh
 - 09/19 09:00 [financialjuice] Saudi civil defense issues warning about potential risk in Al Kharj
 - 09/19 09:03 [financialjuice] Anthropic mulls debut of new AI model before IPO, sources say
@@ -137,3 +135,6 @@
 - 09/19 14:42 [FirstSquawk] Australia’s visa cuts put backpackers’ working holiday plans at risk – SCMP
 - 09/19 14:43 [FirstSquawk] Toyota restores physical buttons in Lexus ES, reflecting mixed views on touchscreen controls – NA
 - 09/19 14:43 [FirstSquawk] Turkey takes steps to steady markets following fund crisis-driven selloff – NA
+- 09/19 14:51 [FirstSquawk] FBI reportedly warns of women posing as tradwives to seduce and expose ICE officers – The Guardian
+- 09/19 14:54 [FirstSquawk] Alibaba releases open-source AI model for detecting cancer and nearly 150 medical conditions - SCMP
+- 09/19 14:55 [FirstSquawk] Pay for foreign elderly carers to be 10%–20% above current helper wages - SCMP
