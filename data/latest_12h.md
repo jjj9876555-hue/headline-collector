@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 13:17 JST／対象: 09/19 01:17 〜 09/19 13:17 JST（時刻はすべて日本時間）
+生成: 2026-09-19 13:32 JST／対象: 09/19 01:32 〜 09/19 13:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 132 | 09/19 01:21 | 09/19 13:13 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 97 | 09/19 01:19 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 132 | 09/19 01:35 | 09/19 13:31 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 93 | 09/19 01:32 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 232 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 230 行（統合前 233 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 01:19 [financialjuice] Moolenaar to Trump: PRC not a long-term market for American AI. urges tighter AI chip export controls on China
-- 09/19 01:21 [FirstSquawk] HOUSE CHINA PANEL CHAIR MOOLENAAR URGES TRUMP TO TIGHTEN AI CHIP EXPORT CONTROLS ON CHINA
-- 09/19 01:25 [financialjuice] Fed's Schmid: US Treasury's buybacks don't make Fed's job harder or easier.
-- 09/19 01:28 [financialjuice/FirstSquawk] Trump to NewsNation: US is talking to the Houthis.
-- 09/19 01:28 [financialjuice/FirstSquawk] ❗ Trump to NewsNation: Houthis would also like to make a deal.
 - 09/19 01:32 [financialjuice] Trump: We’ll see’ on whether to annihilate Iran - NewsNation
 - 09/19 01:35 [FirstSquawk] TRUMP TELLS NEWSNATION ‘WE’LL SEE’ ON WHETHER TO ‘ANNIHILATE’ IRAN
 - 09/19 01:38 [financialjuice] Fed's Schmid: We are in a fairly normalized place.
@@ -256,3 +251,6 @@
 - 09/19 12:55 [FirstSquawk] Xi to visit Washington for three-day state visit through Sept. 25 – Kyodo
 - 09/19 13:05 [FirstSquawk] Yen under pressure as dovish BoJ hike dampens currency – Scotiabank - FX
 - 09/19 13:13 [FirstSquawk] Germany’s military rebuild fuels unease across neighboring countries – WSJ
+- 09/19 13:19 [FirstSquawk] Gemini AI model breached real-world systems in security test, Google says – SCMP
+- 09/19 13:24 [FirstSquawk] British farmers see potential for homegrown chickpeas as summers turn drier – FT
+- 09/19 13:31 [FirstSquawk] Anthropic’s post-IPO growth prospects come under investor scrutiny – FT
