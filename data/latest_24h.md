@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 16:22 JST／対象: 09/18 16:22 〜 09/19 16:22 JST（時刻はすべて日本時間）
+生成: 2026-09-19 16:36 JST／対象: 09/18 16:36 〜 09/19 16:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 259 | 09/18 16:23 | 09/19 14:55 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 175 | 09/18 16:23 | 09/19 15:14 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 252 | 09/18 16:41 | 09/19 14:55 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 171 | 09/18 16:36 | 09/19 15:14 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 439 行（統合前 448 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 428 行（統合前 437 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 16:23 [financialjuice] France Fin. Min. Lescure: Hopefully we'll have a budget.
-- 09/18 16:23 [FirstSquawk] TANKER REPORTEDLY STRUCK BY UNKNOWN PROJECTILE, ACCORDING TO UKMTO.
-- 09/18 16:23 [FirstSquawk] UKMTO REPORTS INCIDENT IN THE STRAIT OF HORMUZ.
-- 09/18 16:23 [FirstSquawk] FRANCE'S LESCURE EXPRESSES OPTIMISM ABOUT ACHIEVING A BUDGET.
-- 09/18 16:23 [FirstSquawk] BOJ GOVERNOR UEDA STATED THAT DECISIONS ON RAISING INTEREST RATES WILL DEPEND ON ECONOMIC PROJECTIONS AND RISK ASSESSMENTS.
-- 09/18 16:30 [financialjuice] German Fin. Min. Klingbeil: We need instruments like fuel price cap, windfall tax.
-- 09/18 16:31 [financialjuice] German Fin. Min. Klingbeil: Europe and Canada are key partners strategically.
-- 09/18 16:33 [financialjuice] German Fin. Min. Klingbeil: Oil majors take advantage of this situation. We need to intervene in the energy market.
-- 09/18 16:34 [FirstSquawk] UEDA SAYS YIELD LEVELS MUST BE EVALUATED IN RELATION TO INFLATION AND THE ECONOMY.
-- 09/18 16:35 [FirstSquawk] BOJ GOVERNOR UEDA SAYS 'CHANGE IN POLICY PHASE' FOCUSES ON STABILIZING INFLATION AT ABOUT 2%.
-- 09/18 16:35 [FirstSquawk] BOJ GOVERNOR UEDA SAYS IT WILL TAKE TIME TO DETERMINE IF 2% INFLATION IS SUSTAINABLE.
 - 09/18 16:36 [financialjuice] German Fin. Min. Klingbeil: We support Canada being an associated EU member.
 - 09/18 16:41 [FirstSquawk] BOJ GOVERNOR UEDA STATED THAT THE CENTRAL BANK CAN TAKE FURTHER POLICY ACTIONS WITHOUT A LONG OBSERVATION PERIOD.
 - 09/18 16:41 [FirstSquawk] BOJ GOVERNOR UEDA SAYS IT'S HARD TO DETERMINE IF FINANCIAL CONDITIONS ARE TOO EASY.
