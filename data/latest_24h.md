@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 05:59 JST／対象: 09/19 05:59 〜 09/20 05:59 JST（時刻はすべて日本時間）
+生成: 2026-09-20 06:16 JST／対象: 09/19 06:16 〜 09/20 06:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/19 06:15 | 09/20 03:47 | ⚠ 1016分（06:23→23:19） |
+| DeItaone | 16 | 09/19 06:20 | 09/20 03:47 | ⚠ 1016分（06:23→23:19） |
 | FirstSquawk | 220 | 09/19 09:09 | 09/20 03:10 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 94 | 09/19 06:04 | 09/20 04:39 | ⚠ 251分（11:03→15:14） |
+| financialjuice | 91 | 09/19 06:17 | 09/20 04:39 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 325 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 321 行（統合前 327 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 06:04 [financialjuice] South Korean foreign minister reaffirms to Rubio Sequil intent to contribute significantly to restoring free passage through Hormuz Strait - Yonhap
-- 09/19 06:11 [financialjuice] US, Denmark nearing agreement on Greenland, sources say
-- 09/19 06:11 [financialjuice] Deal will boost military presence in Greenland without impacting sovereignty, sources say
-- 09/19 06:15 [DeItaone] U.S. AND DENMARK CLOSE IN ON GREENLAND DEAL The U.S. and Denmark are nearing a potential agreement that could expand the American military presence in Greenland, Reuters reports. The proposed deal would stop short of Trump’s stated ambition…
 - 09/19 06:17 [financialjuice] North Korea's Kim Jong Un: Modernisation across military signals major shift in war response 계획 - KCNA
 - 09/19 06:18 [financialjuice] North Korea: IAEA resolution does not affect country’s status as nuclear state -KCNA
 - 09/19 06:19 [financialjuice] Trump: united States has reached agreement with Kingdom of Denmark and Greenland
