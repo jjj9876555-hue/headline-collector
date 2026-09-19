@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 23:16 JST／対象: 09/19 17:16 〜 09/19 23:16 JST（時刻はすべて日本時間）
+生成: 2026-09-19 23:31 JST／対象: 09/19 17:31 〜 09/19 23:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
+| DeItaone | 1 | 09/19 23:19 | 09/19 23:19 | - |
 | FirstSquawk | 86 | 09/19 18:35 | 09/19 23:13 | 38分（20:41→21:20） |
-| financialjuice | 16 | 09/19 17:30 | 09/19 20:23 | ⚠ 46分（19:35→20:21） |
+| financialjuice | 15 | 09/19 17:38 | 09/19 20:23 | ⚠ 46分（19:35→20:21） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 17:30 [financialjuice] Moscow electoral system hit by severe attack overnight during voting period: situation under control, IFX cites central election commission head
 - 09/19 17:38 [financialjuice] EU: regrets extension of entry visa denial for Palestinian delegation members at UN General Assembly in NY
 - 09/19 17:39 [financialjuice] EU urges US to reconsider decision
 - 09/19 17:42 [financialjuice] Russia unaware of hints from US on possible deal signing before Ukraine conflict ends: RIA
@@ -126,3 +125,4 @@
 - 09/19 23:13 [FirstSquawk] Lebanese News Agency: Two Israeli bombings in the towns of Compound and Taloussa in southern Lebanon
 - 09/19 23:13 [FirstSquawk] Lebanese News Agency: Artillery shelling targets Wadi Zabqin in southern Lebanon
 - 09/19 23:13 [FirstSquawk] Lebanese News Agency: The Israeli army burns more houses in the town of Mansouri in southern Lebanon
+- 09/19 23:19 [DeItaone] CNN JOURNALISTS WERE DENIED ACCESS TO THE WHITE HOUSE GROUNDS

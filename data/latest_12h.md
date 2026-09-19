@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 23:16 JST／対象: 09/19 11:16 〜 09/19 23:16 JST（時刻はすべて日本時間）
+生成: 2026-09-19 23:31 JST／対象: 09/19 11:31 〜 09/19 23:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 138 | 09/19 11:20 | 09/19 23:13 | ⚠ 114分（16:40→18:35） |
+| DeItaone | 1 | 09/19 23:19 | 09/19 23:19 | - |
+| FirstSquawk | 129 | 09/19 11:33 | 09/19 23:13 | ⚠ 114分（16:40→18:35） |
 | financialjuice | 21 | 09/19 15:14 | 09/19 20:23 | ⚠ 91分（15:14→16:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 159 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 151 行（統合前 151 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 11:20 [FirstSquawk] Rubio, South Korean counterpart stress US-Japan-ROK cooperation for regional security – State Department
-- 09/19 11:21 [FirstSquawk] Riyadh placed on alert over potential danger, Saudi Civil Defense says
-- 09/19 11:23 [FirstSquawk] Trump says US will permanently retain ability to take necessary steps to defend Greenland
-- 09/19 11:25 [FirstSquawk] Trump: US will incur no cost under agreement with Denmark and Greenland
-- 09/19 11:25 [FirstSquawk] Meituan subsidiary under investigation in China over alleged unfair competition violations
-- 09/19 11:28 [FirstSquawk] Kim Yo Jong: North Korea will reject IAEA resolution – KCNA
-- 09/19 11:28 [FirstSquawk] IAEA resolution has no impact on North Korea’s nuclear-state status, KCNA says
-- 09/19 11:29 [FirstSquawk] Kim Jong Un says military modernization signals significant change in North Korea’s war plans – KCNA
-- 09/19 11:31 [FirstSquawk] Saudi Civil Defense: Danger in Riyadh has passed
 - 09/19 11:33 [FirstSquawk] Danger in Al Kharj has passed, Saudi Civil Defense says
 - 09/19 11:40 [FirstSquawk] Lebanon faces sharp economic contraction in 2026 as inflation stays in double digits – IMF
 - 09/19 11:40 [FirstSquawk] IMF staff concludes mission to Lebanon
@@ -183,3 +174,4 @@
 - 09/19 23:13 [FirstSquawk] Lebanese News Agency: Two Israeli bombings in the towns of Compound and Taloussa in southern Lebanon
 - 09/19 23:13 [FirstSquawk] Lebanese News Agency: Artillery shelling targets Wadi Zabqin in southern Lebanon
 - 09/19 23:13 [FirstSquawk] Lebanese News Agency: The Israeli army burns more houses in the town of Mansouri in southern Lebanon
+- 09/19 23:19 [DeItaone] CNN JOURNALISTS WERE DENIED ACCESS TO THE WHITE HOUSE GROUNDS
