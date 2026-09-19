@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 00:16 JST／対象: 09/19 12:16 〜 09/20 00:16 JST（時刻はすべて日本時間）
+生成: 2026-09-20 00:31 JST／対象: 09/19 12:31 〜 09/20 00:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/19 23:19 | 09/19 23:19 | - |
-| FirstSquawk | 119 | 09/19 12:18 | 09/19 23:54 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 22 | 09/19 15:14 | 09/20 00:14 | ⚠ 230分（20:23→00:14） |
+| FirstSquawk | 120 | 09/19 12:31 | 09/20 00:26 | ⚠ 114分（16:40→18:35） |
+| financialjuice | 24 | 09/19 15:14 | 09/20 00:28 | ⚠ 230分（20:23→00:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 142 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 145 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 12:18 [FirstSquawk] Cyprus upgraded to A/A-1 by S&P on ongoing fiscal and external deleveraging; outlook positive
-- 09/19 12:18 [FirstSquawk] Cyprus sees limited effects from Middle East war, though disruptions likely to last into 2027 – S&P
-- 09/19 12:20 [FirstSquawk] S&P sees potential for Cyprus’ external position to strengthen further, supporting positive outlook
-- 09/19 12:27 [FirstSquawk] US OCC grants conditional banking license approval to stablecoin issuer Bastion – WSJ
 - 09/19 12:31 [FirstSquawk] UK Labour government weighs mansion tax extension for properties valued above £1.5 million – The Times
 - 09/19 12:31 [FirstSquawk] UK Labour weighs cutting mansion tax threshold to £1.5 million – The Times
 - 09/19 12:34 [FirstSquawk] Kennedy names NICHD Director John Gaitanis chair of Interagency Autism Coordinating Committee – RTRS
@@ -166,3 +162,10 @@
 - 09/19 23:35 [FirstSquawk] SPACEX’S NASDAQ 100 WEIGHTING CONFIRMED AT 2.82 PCT IN REBALANCE
 - 09/19 23:54 [FirstSquawk] Lebanese media: Israeli artillery shelling targets the outskirts of the towns of Yahmor al-Shaqif and Zawtar al-Sharqiyah in southern Lebanon
 - 09/20 00:14 [financialjuice] German General Breuer chosen to lead NATO's top military committee: current chair says
+- 09/20 00:20 [FirstSquawk] GERMAN GENERAL BREUER HAS BEEN CHOSEN TO LEAD NATO'S LEADING MILITARY BODY, CURRENT CHAIR ANNOUNCES.
+- 09/20 00:20 [FirstSquawk] TOTALENERGIES' GRANMORGU OFFSHORE PROJECT IN SURINAME IS SET TO START PRODUCING IN MID-2028, ACCORDING TO THE HEAD OF STAATSOLIE.
+- 09/20 00:24 [FirstSquawk] Hormuz Oil Shipments Reach Six-Month High Amid US Naval Security Efforts Oil and liquefied natural gas shipments through the Strait of Hormuz have reached their highest level in six months over the past two weeks, according to regional US c…
+- 09/20 00:25 [FirstSquawk] SpaceX Nasdaq 100 Weight Confirmed at 2.82% in Quarterly Rebalance SpaceX’s weighting in the Nasdaq 100 will more than double to 2.82% when the index’s quarterly rebalance takes effect Monday, up from its previous weighting of about 1.28%. …
+- 09/20 00:26 [FirstSquawk] US Tariffs and Trade Tensions Threaten Great Lakes Shipping and Canada-US Supply Chains US tariffs and a growing political rift between Washington and Ottawa are threatening the deeply integrated $6 trillion regional economy of the Great La…
+- 09/20 00:27 [financialjuice] Iran’s top security official: Qatar has relayed Tehran’s terms to Washington to end war, awaiting Trump’s response – Al Jazeera interview
+- 09/20 00:28 [financialjuice] Iran's top security official: talks continue with mediators Qatar and Pakistan, conditions for negotiations conveyed - Al Jazeera interview

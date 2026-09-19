@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 00:16 JST／対象: 09/19 00:16 〜 09/20 00:16 JST（時刻はすべて日本時間）
+生成: 2026-09-20 00:31 JST／対象: 09/19 00:31 〜 09/20 00:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/19 05:09 | 09/19 23:19 | ⚠ 1016分（06:23→23:19） |
-| FirstSquawk | 249 | 09/19 00:19 | 09/19 23:54 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 129 | 09/19 00:24 | 09/20 00:14 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 250 | 09/19 00:40 | 09/20 00:26 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 130 | 09/19 00:32 | 09/20 00:28 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 381 行（統合前 389 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 383 行（統合前 391 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 00:19 [FirstSquawk] FRANCE'S CNP ASSURANCES IS CONSIDERING A TAKEOVER OFFER FOR COFACE.
-- 09/19 00:19 [FirstSquawk] VW EXPECTS FY OPERATING RETURN ON SALES TO INCREASE TO 1%, UP FROM 4% TO 5.5%, ESTIMATED AT 4.29%.
-- 09/19 00:24 [financialjuice] Auto industry urges Trump administration to keep Chinese vehicles out of US ahead of Xi visit - letter
-- 09/19 00:26 [FirstSquawk] VOLKSWAGEN STOCK DROPS 7.5% FOLLOWING A CUT IN COMPANY GUIDANCE.
-- 09/19 00:27 [FirstSquawk] GROUP TIED TO RFK JR. GAVE ACCESS TO U.S. OFFICIALS AT AN EVENT.
 - 09/19 00:32 [financialjuice] Fed's Schmid: I supported rate hike, recent data suggest inflation trending above 3%.
 - 09/19 00:32 [financialjuice] Fed's Schmid: Rate hike was a step towards returning to the 2% target.
 - 09/19 00:33 [financialjuice] ❗ Fed's Schmid: Current inflation problem not just about energy. Price growth has been 'hot' across a broad set of goods and services.
@@ -405,3 +400,10 @@
 - 09/19 23:35 [FirstSquawk] SPACEX’S NASDAQ 100 WEIGHTING CONFIRMED AT 2.82 PCT IN REBALANCE
 - 09/19 23:54 [FirstSquawk] Lebanese media: Israeli artillery shelling targets the outskirts of the towns of Yahmor al-Shaqif and Zawtar al-Sharqiyah in southern Lebanon
 - 09/20 00:14 [financialjuice] German General Breuer chosen to lead NATO's top military committee: current chair says
+- 09/20 00:20 [FirstSquawk] GERMAN GENERAL BREUER HAS BEEN CHOSEN TO LEAD NATO'S LEADING MILITARY BODY, CURRENT CHAIR ANNOUNCES.
+- 09/20 00:20 [FirstSquawk] TOTALENERGIES' GRANMORGU OFFSHORE PROJECT IN SURINAME IS SET TO START PRODUCING IN MID-2028, ACCORDING TO THE HEAD OF STAATSOLIE.
+- 09/20 00:24 [FirstSquawk] Hormuz Oil Shipments Reach Six-Month High Amid US Naval Security Efforts Oil and liquefied natural gas shipments through the Strait of Hormuz have reached their highest level in six months over the past two weeks, according to regional US c…
+- 09/20 00:25 [FirstSquawk] SpaceX Nasdaq 100 Weight Confirmed at 2.82% in Quarterly Rebalance SpaceX’s weighting in the Nasdaq 100 will more than double to 2.82% when the index’s quarterly rebalance takes effect Monday, up from its previous weighting of about 1.28%. …
+- 09/20 00:26 [FirstSquawk] US Tariffs and Trade Tensions Threaten Great Lakes Shipping and Canada-US Supply Chains US tariffs and a growing political rift between Washington and Ottawa are threatening the deeply integrated $6 trillion regional economy of the Great La…
+- 09/20 00:27 [financialjuice] Iran’s top security official: Qatar has relayed Tehran’s terms to Washington to end war, awaiting Trump’s response – Al Jazeera interview
+- 09/20 00:28 [financialjuice] Iran's top security official: talks continue with mediators Qatar and Pakistan, conditions for negotiations conveyed - Al Jazeera interview
