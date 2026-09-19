@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 12:45 JST／対象: 09/18 12:45 〜 09/19 12:45 JST（時刻はすべて日本時間）
+生成: 2026-09-19 12:58 JST／対象: 09/18 12:58 〜 09/19 12:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 297 | 09/18 12:49 | 09/19 12:44 | ⚠ 241分（05:07→09:09） |
+| FirstSquawk | 297 | 09/18 13:01 | 09/19 12:55 | ⚠ 241分（05:07→09:09） |
 | financialjuice | 221 | 09/18 13:02 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 12:49 [FirstSquawk] Japan’s 10-year JGB yield narrows its decline to 1.5bp, last standing at 2.975%.
-- 09/18 12:53 [FirstSquawk] Indonesia Finance Ministry official: Authorities will closely manage the supply impact of bond issuance to preserve current yield levels.
 - 09/18 13:01 [FirstSquawk] Benchmark 20-year Japanese government bond yield rises 1.5bp to 3.850%.
 - 09/18 13:02 [financialjuice] Pakistan army chief urges Iran to rein in Houthis: FT
 - 09/18 13:02 [financialjuice] Venezuela nears deal to transfer $4bn gold reserve to New York: FT
@@ -547,3 +545,5 @@
 - 09/19 12:34 [FirstSquawk] Kennedy names NICHD Director John Gaitanis chair of Interagency Autism Coordinating Committee – RTRS
 - 09/19 12:40 [FirstSquawk] NASA and Boeing have discussed plans for Starliner to conduct 10 or more new flights – WSJ
 - 09/19 12:44 [FirstSquawk] Chinese mining firms join forces to develop gold, copper resources in Tibet – SCMP
+- 09/19 12:48 [FirstSquawk] Death toll from attack on police headquarters in Pakistan rises to 31 – AFP citing police official
+- 09/19 12:55 [FirstSquawk] Xi to visit Washington for three-day state visit through Sept. 25 – Kyodo
