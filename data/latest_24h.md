@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 05:36 JST／対象: 09/19 05:36 〜 09/20 05:36 JST（時刻はすべて日本時間）
+生成: 2026-09-20 05:48 JST／対象: 09/19 05:48 〜 09/20 05:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/19 06:15 | 09/20 03:47 | ⚠ 1016分（06:23→23:19） |
 | FirstSquawk | 220 | 09/19 09:09 | 09/20 03:10 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 96 | 09/19 05:41 | 09/20 04:39 | ⚠ 251分（11:03→15:14） |
+| financialjuice | 94 | 09/19 06:04 | 09/20 04:39 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 327 行（統合前 333 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 325 行（統合前 331 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 05:41 [financialjuice] Russia seeks to undermine the US elections - NYT, citing intelligence.
-- 09/19 05:42 [financialjuice] Russia Aims to Inject Chaos Into Elections, U.S. Intelligence Finds
 - 09/19 06:04 [financialjuice] South Korean foreign minister reaffirms to Rubio Sequil intent to contribute significantly to restoring free passage through Hormuz Strait - Yonhap
 - 09/19 06:11 [financialjuice] US, Denmark nearing agreement on Greenland, sources say
 - 09/19 06:11 [financialjuice] Deal will boost military presence in Greenland without impacting sovereignty, sources say
