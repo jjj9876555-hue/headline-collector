@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 00:53 JST／対象: 09/19 18:53 〜 09/20 00:53 JST（時刻はすべて日本時間）
+生成: 2026-09-20 01:16 JST／対象: 09/19 19:16 〜 09/20 01:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/19 23:19 | 09/20 00:34 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 67 | 09/19 19:16 | 09/20 00:26 | 38分（20:41→21:20） |
+| DeItaone | 5 | 09/19 23:19 | 09/20 01:16 | ⚠ 74分（23:19→00:34） |
+| FirstSquawk | 77 | 09/19 19:16 | 09/20 01:01 | 38分（20:41→21:20） |
 | financialjuice | 11 | 09/19 19:22 | 09/20 00:33 | ⚠ 230分（20:23→00:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 81 行（統合前 81 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 93 行（統合前 93 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -105,3 +105,15 @@
 - 09/20 00:33 [financialjuice] Iran’s top security official: Tehran wants war between Saudi Arabia and Yemen to end - Al Jazeera interview
 - 09/20 00:34 [DeItaone] IRAN'S TOP SECURITY OFFICIAL SAYS TEHRAN WANTS WAR BETWEEN SAUDI ARABIA AND YEMEN TO END - AL JAZEERA INTERVIEW
 - 09/20 00:34 [DeItaone] IRAN'S TOP SECURITY OFFICIAL SAYS QATAR HAS CONVEYED TEHRAN'S CONDITIONS TO WASHINGTON TO END WAR, AWAITING TRUMP RESPONSE - AL JAZEERA INTERVIEW
+- 09/20 00:58 [FirstSquawk] Iranian National Security Council Secretary: We know the weaknesses of the US military and are more prepared than ever to counter its air attacks.
+- 09/20 00:58 [FirstSquawk] Secretary of Iran's Supreme National Security Council: We have reached the conclusion that we must change our strategy towards Washington after its withdrawal from the Memorandum of Understanding
+- 09/20 00:58 [FirstSquawk] Iranian National Security Council Secretary: We recently tested an anti-ship missile near a US aircraft carrier
+- 09/20 00:59 [FirstSquawk] Iranian National Security Council Secretary: We are serious about defense and will strike US bases and Washington's interests in the region with even greater force if we are attacked.
+- 09/20 00:59 [FirstSquawk] Secretary of Iran's Supreme National Security Council: Consultations are ongoing with the Qatari and Pakistani mediators, and we have informed them of our conditions for negotiation.
+- 09/20 00:59 [FirstSquawk] Mohsen Rezaei: We are in contact with the Qatari mediator who conveyed our conditions to Washington with the aim of stopping the war, and we are waiting for a response from President Trump.
+- 09/20 01:00 [FirstSquawk] Iranian National Security Council Secretary: Our conditions are ending the war on all fronts, releasing our frozen funds, and ending the naval blockade.
+- 09/20 01:00 [FirstSquawk] Secretary of Iran's Supreme National Security Council: US and Israeli actions allow us to withdraw from the Nuclear Non-Proliferation Treaty
+- 09/20 01:00 [FirstSquawk] Secretary of Iran's Supreme National Security Council: We have not yet made a decision to withdraw from the Non-Proliferation Treaty, and the matter depends on Washington's behavior.
+- 09/20 01:01 [FirstSquawk] Secretary of Iran's Supreme National Security Council: We remain committed to the fatwa of the late Supreme Leader and have not changed our nuclear doctrine, but we do not know what will happen in the future.
+- 09/20 01:10 [DeItaone] $NVDA - NVIDIA’S HUANG REJECTS CALLS TO SLOW AI Nvidia CEO Jensen Huang says AI development should move “as fast as we can,” rejecting calls for the industry to slow down. Huang stressed that speed should not come at the expense of safety, …
+- 09/20 01:16 [DeItaone] HORMUZ OIL FLOWS HIT SIX-MONTH HIGH Oil and LNG shipments through the Strait of Hormuz have reached their highest level in six months, as U.S. mine-clearing and naval protection efforts boost tanker traffic. CENTCOM says Gulf allies have mo…

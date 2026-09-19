@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 00:53 JST／対象: 09/19 12:53 〜 09/20 00:53 JST（時刻はすべて日本時間）
+生成: 2026-09-20 01:16 JST／対象: 09/19 13:16 〜 09/20 01:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/19 23:19 | 09/20 00:34 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 114 | 09/19 12:55 | 09/20 00:26 | ⚠ 114分（16:40→18:35） |
+| DeItaone | 5 | 09/19 23:19 | 09/20 01:16 | ⚠ 74分（23:19→00:34） |
+| FirstSquawk | 121 | 09/19 13:19 | 09/20 01:01 | ⚠ 114分（16:40→18:35） |
 | financialjuice | 26 | 09/19 15:14 | 09/20 00:33 | ⚠ 230分（20:23→00:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 143 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 152 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 12:55 [FirstSquawk] Xi to visit Washington for three-day state visit through Sept. 25 – Kyodo
-- 09/19 13:05 [FirstSquawk] Yen under pressure as dovish BoJ hike dampens currency – Scotiabank - FX
-- 09/19 13:13 [FirstSquawk] Germany’s military rebuild fuels unease across neighboring countries – WSJ
 - 09/19 13:19 [FirstSquawk] Gemini AI model breached real-world systems in security test, Google says – SCMP
 - 09/19 13:24 [FirstSquawk] British farmers see potential for homegrown chickpeas as summers turn drier – FT
 - 09/19 13:31 [FirstSquawk] Anthropic’s post-IPO growth prospects come under investor scrutiny – FT
@@ -167,3 +164,15 @@
 - 09/20 00:33 [financialjuice] Iran’s top security official: Tehran wants war between Saudi Arabia and Yemen to end - Al Jazeera interview
 - 09/20 00:34 [DeItaone] IRAN'S TOP SECURITY OFFICIAL SAYS TEHRAN WANTS WAR BETWEEN SAUDI ARABIA AND YEMEN TO END - AL JAZEERA INTERVIEW
 - 09/20 00:34 [DeItaone] IRAN'S TOP SECURITY OFFICIAL SAYS QATAR HAS CONVEYED TEHRAN'S CONDITIONS TO WASHINGTON TO END WAR, AWAITING TRUMP RESPONSE - AL JAZEERA INTERVIEW
+- 09/20 00:58 [FirstSquawk] Iranian National Security Council Secretary: We know the weaknesses of the US military and are more prepared than ever to counter its air attacks.
+- 09/20 00:58 [FirstSquawk] Secretary of Iran's Supreme National Security Council: We have reached the conclusion that we must change our strategy towards Washington after its withdrawal from the Memorandum of Understanding
+- 09/20 00:58 [FirstSquawk] Iranian National Security Council Secretary: We recently tested an anti-ship missile near a US aircraft carrier
+- 09/20 00:59 [FirstSquawk] Iranian National Security Council Secretary: We are serious about defense and will strike US bases and Washington's interests in the region with even greater force if we are attacked.
+- 09/20 00:59 [FirstSquawk] Secretary of Iran's Supreme National Security Council: Consultations are ongoing with the Qatari and Pakistani mediators, and we have informed them of our conditions for negotiation.
+- 09/20 00:59 [FirstSquawk] Mohsen Rezaei: We are in contact with the Qatari mediator who conveyed our conditions to Washington with the aim of stopping the war, and we are waiting for a response from President Trump.
+- 09/20 01:00 [FirstSquawk] Iranian National Security Council Secretary: Our conditions are ending the war on all fronts, releasing our frozen funds, and ending the naval blockade.
+- 09/20 01:00 [FirstSquawk] Secretary of Iran's Supreme National Security Council: US and Israeli actions allow us to withdraw from the Nuclear Non-Proliferation Treaty
+- 09/20 01:00 [FirstSquawk] Secretary of Iran's Supreme National Security Council: We have not yet made a decision to withdraw from the Non-Proliferation Treaty, and the matter depends on Washington's behavior.
+- 09/20 01:01 [FirstSquawk] Secretary of Iran's Supreme National Security Council: We remain committed to the fatwa of the late Supreme Leader and have not changed our nuclear doctrine, but we do not know what will happen in the future.
+- 09/20 01:10 [DeItaone] $NVDA - NVIDIA’S HUANG REJECTS CALLS TO SLOW AI Nvidia CEO Jensen Huang says AI development should move “as fast as we can,” rejecting calls for the industry to slow down. Huang stressed that speed should not come at the expense of safety, …
+- 09/20 01:16 [DeItaone] HORMUZ OIL FLOWS HIT SIX-MONTH HIGH Oil and LNG shipments through the Strait of Hormuz have reached their highest level in six months, as U.S. mine-clearing and naval protection efforts boost tanker traffic. CENTCOM says Gulf allies have mo…
