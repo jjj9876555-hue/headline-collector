@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 14:31 JST／対象: 09/19 02:31 〜 09/19 14:31 JST（時刻はすべて日本時間）
+生成: 2026-09-19 14:43 JST／対象: 09/19 02:43 〜 09/19 14:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 126 | 09/19 02:32 | 09/19 14:31 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 86 | 09/19 02:40 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 127 | 09/19 02:46 | 09/19 14:43 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 85 | 09/19 02:52 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 217 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 02:32 [FirstSquawk] WESTINGHOUSE PLANS TO SEEK A VALUATION EXCEEDING $50 BILLION FOR ITS U.S. INITIAL PUBLIC OFFERING.
-- 09/19 02:40 [FirstSquawk] US TREASURY SEC. TO TALK AI, RARE EARTHS THIS WEEKEND WITH CHINESE VICE PREMIER
-- 09/19 02:40 [financialjuice] US Treasury Secretary to talk AI, rare earths this weekend with Chinese Vice Premier - AP
-- 09/19 02:41 [FirstSquawk] IRAN'S GHALIBAF: US MILITARY 'NIGHTMARE' OF BEING HUNTED IS REALITY
 - 09/19 02:46 [FirstSquawk] SAUDI EXPORTS THROUGH THE BAB EL-MANDEB STRAIT CONTINUE TO SUFFER, WITH WEEKLY TRAFFIC SINCE THE START OF AUGUST AT UNDER A THIRD OF THIS YEAR'S SEVEN-DAY AVERAGE, DATA SHOWS.
 - 09/19 02:46 [FirstSquawk] TRAFFIC THROUGH BAB BAB EL-MANDEB HAS BEEN DISRUPTED FOLLOWING RECENT HOUTHI GAINS ON THE RED SEA COAST, HITTING SAUDI EXPORTS PARTICULARLY HARD.
 - 09/19 02:52 [financialjuice] Pakistan Interior Minister Mohsen Naqvi could visit Tehran this week - Mehr News citing reliable source
@@ -241,3 +237,7 @@
 - 09/19 14:16 [FirstSquawk] North Korea rejects IAEA resolution, pledges to maintain nuclear arsenal amid US threats – Yonhap
 - 09/19 14:23 [FirstSquawk] Suspected Chinese marine research vessel leaves Japan’s EEZ – Kyodo
 - 09/19 14:31 [FirstSquawk] Trump and Senate’s Thune discuss legislation to lower data-center electricity costs – Reuters
+- 09/19 14:41 [FirstSquawk] Trump to greet Xi at air base as Chinese president arrives, officials say – NA
+- 09/19 14:42 [FirstSquawk] Australia’s visa cuts put backpackers’ working holiday plans at risk – SCMP
+- 09/19 14:43 [FirstSquawk] Toyota restores physical buttons in Lexus ES, reflecting mixed views on touchscreen controls – NA
+- 09/19 14:43 [FirstSquawk] Turkey takes steps to steady markets following fund crisis-driven selloff – NA

@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 14:31 JST／対象: 09/18 14:31 〜 09/19 14:31 JST（時刻はすべて日本時間）
+生成: 2026-09-19 14:43 JST／対象: 09/18 14:43 〜 09/19 14:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 293 | 09/18 14:31 | 09/19 14:31 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 204 | 09/18 14:31 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 295 | 09/18 14:43 | 09/19 14:43 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 203 | 09/18 14:44 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 502 行（統合前 511 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 503 行（統合前 512 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 14:31 [financialjuice] ECB's Vujcic: Reserve requirements allow ECB to sterilise some excess liquidity in simple, inexpensive way.
-- 09/18 14:31 [FirstSquawk] The benchmark China coking coal contract slides 6.9% to CNY 1,500.5 per metric ton, falling to a level not seen since August 18.
-- 09/18 14:40 [FirstSquawk] Anew Labs, spun out of ByteDance, raises $290 million amid a surge in funding for AI-focused drug developers, according to SCMP.
 - 09/18 14:43 [FirstSquawk] Flight operations at Lublin and Rzeszow airports have been temporarily suspended by Poland’s air traffic authority.
 - 09/18 14:44 [financialjuice] SK Hynix's Solidigm weighs first US NAND flash plant - Yonhap
 - 09/18 14:47 [FirstSquawk] Morgan Stanley raises its target for Next PLC to 17,000p, up from 16,800p.
@@ -526,3 +523,7 @@
 - 09/19 14:16 [FirstSquawk] North Korea rejects IAEA resolution, pledges to maintain nuclear arsenal amid US threats – Yonhap
 - 09/19 14:23 [FirstSquawk] Suspected Chinese marine research vessel leaves Japan’s EEZ – Kyodo
 - 09/19 14:31 [FirstSquawk] Trump and Senate’s Thune discuss legislation to lower data-center electricity costs – Reuters
+- 09/19 14:41 [FirstSquawk] Trump to greet Xi at air base as Chinese president arrives, officials say – NA
+- 09/19 14:42 [FirstSquawk] Australia’s visa cuts put backpackers’ working holiday plans at risk – SCMP
+- 09/19 14:43 [FirstSquawk] Toyota restores physical buttons in Lexus ES, reflecting mixed views on touchscreen controls – NA
+- 09/19 14:43 [FirstSquawk] Turkey takes steps to steady markets following fund crisis-driven selloff – NA

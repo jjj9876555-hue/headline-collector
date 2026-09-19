@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 14:31 JST／対象: 09/19 08:31 〜 09/19 14:31 JST（時刻はすべて日本時間）
+生成: 2026-09-19 14:43 JST／対象: 09/19 08:43 〜 09/19 14:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 97 | 09/19 09:09 | 09/19 14:31 | 26分（09:24→09:50） |
+| FirstSquawk | 101 | 09/19 09:09 | 09/19 14:43 | 26分（09:24→09:50） |
 | financialjuice | 12 | 09/19 08:43 | 09/19 11:03 | ⚠ 49分（09:13→10:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 109 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -133,3 +133,7 @@
 - 09/19 14:16 [FirstSquawk] North Korea rejects IAEA resolution, pledges to maintain nuclear arsenal amid US threats – Yonhap
 - 09/19 14:23 [FirstSquawk] Suspected Chinese marine research vessel leaves Japan’s EEZ – Kyodo
 - 09/19 14:31 [FirstSquawk] Trump and Senate’s Thune discuss legislation to lower data-center electricity costs – Reuters
+- 09/19 14:41 [FirstSquawk] Trump to greet Xi at air base as Chinese president arrives, officials say – NA
+- 09/19 14:42 [FirstSquawk] Australia’s visa cuts put backpackers’ working holiday plans at risk – SCMP
+- 09/19 14:43 [FirstSquawk] Toyota restores physical buttons in Lexus ES, reflecting mixed views on touchscreen controls – NA
+- 09/19 14:43 [FirstSquawk] Turkey takes steps to steady markets following fund crisis-driven selloff – NA
