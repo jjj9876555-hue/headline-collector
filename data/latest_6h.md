@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 06:53 JST／対象: 09/20 00:53 〜 09/20 06:53 JST（時刻はすべて日本時間）
+生成: 2026-09-20 07:06 JST／対象: 09/20 01:06 〜 09/20 07:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 9 | 09/20 01:10 | 09/20 03:47 | ⚠ 74分（02:18→03:32） |
-| FirstSquawk | 22 | 09/20 00:58 | 09/20 03:10 | 44分（01:33→02:17） |
+| FirstSquawk | 12 | 09/20 01:32 | 09/20 03:10 | 44分（01:33→02:17） |
 | financialjuice | 17 | 09/20 02:01 | 09/20 04:39 | ⚠ 58分（02:15→03:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 42 行（統合前 48 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 32 行（統合前 38 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 00:58 [FirstSquawk] Iranian National Security Council Secretary: We know the weaknesses of the US military and are more prepared than ever to counter its air attacks.
-- 09/20 00:58 [FirstSquawk] Secretary of Iran's Supreme National Security Council: We have reached the conclusion that we must change our strategy towards Washington after its withdrawal from the Memorandum of Understanding
-- 09/20 00:58 [FirstSquawk] Iranian National Security Council Secretary: We recently tested an anti-ship missile near a US aircraft carrier
-- 09/20 00:59 [FirstSquawk] Iranian National Security Council Secretary: We are serious about defense and will strike US bases and Washington's interests in the region with even greater force if we are attacked.
-- 09/20 00:59 [FirstSquawk] Secretary of Iran's Supreme National Security Council: Consultations are ongoing with the Qatari and Pakistani mediators, and we have informed them of our conditions for negotiation.
-- 09/20 00:59 [FirstSquawk] Mohsen Rezaei: We are in contact with the Qatari mediator who conveyed our conditions to Washington with the aim of stopping the war, and we are waiting for a response from President Trump.
-- 09/20 01:00 [FirstSquawk] Iranian National Security Council Secretary: Our conditions are ending the war on all fronts, releasing our frozen funds, and ending the naval blockade.
-- 09/20 01:00 [FirstSquawk] Secretary of Iran's Supreme National Security Council: US and Israeli actions allow us to withdraw from the Nuclear Non-Proliferation Treaty
-- 09/20 01:00 [FirstSquawk] Secretary of Iran's Supreme National Security Council: We have not yet made a decision to withdraw from the Non-Proliferation Treaty, and the matter depends on Washington's behavior.
-- 09/20 01:01 [FirstSquawk] Secretary of Iran's Supreme National Security Council: We remain committed to the fatwa of the late Supreme Leader and have not changed our nuclear doctrine, but we do not know what will happen in the future.
 - 09/20 01:10 [DeItaone] $NVDA - NVIDIA’S HUANG REJECTS CALLS TO SLOW AI Nvidia CEO Jensen Huang says AI development should move “as fast as we can,” rejecting calls for the industry to slow down. Huang stressed that speed should not come at the expense of safety, …
 - 09/20 01:16 [DeItaone] HORMUZ OIL FLOWS HIT SIX-MONTH HIGH Oil and LNG shipments through the Strait of Hormuz have reached their highest level in six months, as U.S. mine-clearing and naval protection efforts boost tanker traffic. CENTCOM says Gulf allies have mo…
 - 09/20 01:17 [DeItaone] U.S., DENMARK AND GREENLAND REACH SECURITY DEAL The U.S., Denmark and Greenland have agreed to expand America’s military presence in Greenland, with signing expected next week at the UN General Assembly. Denmark and Greenland insist the agr…

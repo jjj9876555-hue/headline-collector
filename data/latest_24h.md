@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 06:53 JST／対象: 09/19 06:53 〜 09/20 06:53 JST（時刻はすべて日本時間）
+生成: 2026-09-20 07:06 JST／対象: 09/19 07:06 〜 09/20 07:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
 | FirstSquawk | 220 | 09/19 09:09 | 09/20 03:10 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 79 | 09/19 06:54 | 09/20 04:39 | ⚠ 251分（11:03→15:14） |
+| financialjuice | 77 | 09/19 07:08 | 09/20 04:39 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 305 行（統合前 311 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 303 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 06:54 [financialjuice] Saudi civil defense issues warning over potential threat in Farasan
-- 09/19 07:02 [financialjuice] Saudi civil defense: danger has subsided in Farasan
 - 09/19 07:08 [financialjuice] Ukraine's Zelenskiy thanks Trump for signing Russia sanctions bill and Congress members for backing it
 - 09/19 07:08 [financialjuice] Zelenskiy: Best way to honor Senator Lindsey Graham's memory is to enact provisions of bill he backed
 - 09/19 07:12 [financialjuice] Gemini breached protected systems by guessing passwords and locating credentials in public repository during irregular test run - WSJ
