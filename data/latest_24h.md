@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 06:16 JST／対象: 09/19 06:16 〜 09/20 06:16 JST（時刻はすべて日本時間）
+生成: 2026-09-20 06:31 JST／対象: 09/19 06:31 〜 09/20 06:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 09/19 06:20 | 09/20 03:47 | ⚠ 1016分（06:23→23:19） |
+| DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
 | FirstSquawk | 220 | 09/19 09:09 | 09/20 03:10 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 91 | 09/19 06:17 | 09/20 04:39 | ⚠ 251分（11:03→15:14） |
+| financialjuice | 84 | 09/19 06:45 | 09/20 04:39 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 321 行（統合前 327 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 310 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 06:17 [financialjuice] North Korea's Kim Jong Un: Modernisation across military signals major shift in war response 계획 - KCNA
-- 09/19 06:18 [financialjuice] North Korea: IAEA resolution does not affect country’s status as nuclear state -KCNA
-- 09/19 06:19 [financialjuice] Trump: united States has reached agreement with Kingdom of Denmark and Greenland
-- 09/19 06:20 [financialjuice] Trump: United States to maintain permanent oversight of security and other requirements in Greenland
-- 09/19 06:20 [financialjuice] Trump: no expense to United States
-- 09/19 06:20 [DeItaone] TRUMP MOVES TO BAN MAJOR MEDIA OUTLETS President Trump says CNN, MS NOW and Politico will be banned from the White House, accusing them of publishing “fake news” and warning other outlets could follow. The scope remains unclear, while First…
-- 09/19 06:20 [financialjuice] Trump: US will always have full authority to act in Greenland to protect and defend its security
-- 09/19 06:21 [DeItaone] TRUMP: I AM PLEASED TO ANNOUNCE THAT UNITED STATES OF AMERICA HAS ENTERED INTO AN AGREEMENT WITH KINGDOM OF DENMARK, AND GREENLAND,
-- 09/19 06:22 [DeItaone] TRUMP: UNITED STATES WILL FOREVER HAVE COMPLETE ABILITY TO DO WHAT IS NECESSARY IN GREENLAND IN ORDER TO SECURE AND DEFEND SECURITY OF GREENLAND
-- 09/19 06:23 [DeItaone] TRUMP: UNITED STATES PERMANENT CONTROL OVER SECURITY, AND ALL OTHER NEEDS, IN GREENLAND
-- 09/19 06:25 [financialjuice] US Secretary of State Rubio: strengthened vital role of U.S.-Japan-ROK trilateral cooperation in protecting regional security
 - 09/19 06:45 [financialjuice] Trump signs Russia sanctions bill into law: White House
 - 09/19 06:45 [financialjuice] White House proclamation: limits on entry of specific nonimmigrant workers
 - 09/19 06:46 [financialjuice] Danish PM office: Greenland, Denmark, US to sign deal next week boosting security in Arctic and North Atlantic region

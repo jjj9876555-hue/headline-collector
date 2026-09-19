@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 06:16 JST／対象: 09/20 00:16 〜 09/20 06:16 JST（時刻はすべて日本時間）
+生成: 2026-09-20 06:31 JST／対象: 09/20 00:31 〜 09/20 06:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/20 00:34 | 09/20 03:47 | ⚠ 74分（02:18→03:32） |
-| FirstSquawk | 27 | 09/20 00:20 | 09/20 03:10 | 44分（01:33→02:17） |
-| financialjuice | 21 | 09/20 00:27 | 09/20 04:39 | ⚠ 88分（00:33→02:01） |
+| FirstSquawk | 22 | 09/20 00:58 | 09/20 03:10 | 44分（01:33→02:17） |
+| financialjuice | 19 | 09/20 00:31 | 09/20 04:39 | ⚠ 88分（00:33→02:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 53 行（統合前 59 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 46 行（統合前 52 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 00:20 [FirstSquawk] GERMAN GENERAL BREUER HAS BEEN CHOSEN TO LEAD NATO'S LEADING MILITARY BODY, CURRENT CHAIR ANNOUNCES.
-- 09/20 00:20 [FirstSquawk] TOTALENERGIES' GRANMORGU OFFSHORE PROJECT IN SURINAME IS SET TO START PRODUCING IN MID-2028, ACCORDING TO THE HEAD OF STAATSOLIE.
-- 09/20 00:24 [FirstSquawk] Hormuz Oil Shipments Reach Six-Month High Amid US Naval Security Efforts Oil and liquefied natural gas shipments through the Strait of Hormuz have reached their highest level in six months over the past two weeks, according to regional US c…
-- 09/20 00:25 [FirstSquawk] SpaceX Nasdaq 100 Weight Confirmed at 2.82% in Quarterly Rebalance SpaceX’s weighting in the Nasdaq 100 will more than double to 2.82% when the index’s quarterly rebalance takes effect Monday, up from its previous weighting of about 1.28%. …
-- 09/20 00:26 [FirstSquawk] US Tariffs and Trade Tensions Threaten Great Lakes Shipping and Canada-US Supply Chains US tariffs and a growing political rift between Washington and Ottawa are threatening the deeply integrated $6 trillion regional economy of the Great La…
-- 09/20 00:27 [financialjuice] Iran’s top security official: Qatar has relayed Tehran’s terms to Washington to end war, awaiting Trump’s response – Al Jazeera interview
-- 09/20 00:28 [financialjuice] Iran's top security official: talks continue with mediators Qatar and Pakistan, conditions for negotiations conveyed - Al Jazeera interview
 - 09/20 00:31 [financialjuice] Iran's top security official outlines conditions: end war on all fronts, unfreeze Iranian funds, lift naval blockade - Al Jazeera interview
 - 09/20 00:33 [financialjuice] Iran’s top security official: Tehran wants war between Saudi Arabia and Yemen to end - Al Jazeera interview
 - 09/20 00:34 [DeItaone] IRAN'S TOP SECURITY OFFICIAL SAYS TEHRAN WANTS WAR BETWEEN SAUDI ARABIA AND YEMEN TO END - AL JAZEERA INTERVIEW

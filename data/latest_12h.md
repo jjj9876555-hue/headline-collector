@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 06:16 JST／対象: 09/19 18:16 〜 09/20 06:16 JST（時刻はすべて日本時間）
+生成: 2026-09-20 06:31 JST／対象: 09/19 18:31 〜 09/20 06:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
 | FirstSquawk | 115 | 09/19 18:35 | 09/20 03:10 | 44分（01:33→02:17） |
-| financialjuice | 34 | 09/19 18:27 | 09/20 04:39 | ⚠ 230分（20:23→00:14） |
+| financialjuice | 29 | 09/19 18:40 | 09/20 04:39 | ⚠ 230分（20:23→00:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 155 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 150 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 18:27 [financialjuice] Anthropic, OpenAI, Spacexai, Google sued over call to ‘pace’ AI development - Politico
-- 09/19 18:28 [financialjuice] NATO spokesperson: agreement to boost security, stability, and cooperation in vital region
-- 09/19 18:28 [financialjuice] Nato spokesperson: Arctic and North Atlantic vital to collective security
-- 09/19 18:28 [financialjuice] NATO spokesperson: we welcome announcement of imminent agreement between the US, Denmark, and Greenland
-- 09/19 18:28 [financialjuice] Nato Spokesperson: Alliance will keep strengthening security in the Arctic
 - 09/19 18:35 [FirstSquawk] Goldman's chief US stock strategist says AI capex as a force propping up S&P 500 earnings will wane next year.
 - 09/19 18:35 [FirstSquawk] Heard on the Street: The last time the Fed was hiking rates, corporate bonds got slammed. They might fare much better this time around.
 - 09/19 18:35 [FirstSquawk] US share in India’s software service exports rises to 54% amid trade war
