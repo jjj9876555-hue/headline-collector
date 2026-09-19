@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 21:06 JST／対象: 09/18 21:06 〜 09/19 21:06 JST（時刻はすべて日本時間）
+生成: 2026-09-19 21:28 JST／対象: 09/18 21:28 〜 09/19 21:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 247 | 09/18 21:09 | 09/19 20:41 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 162 | 09/18 21:16 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 251 | 09/18 21:41 | 09/19 21:20 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 157 | 09/18 21:31 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 411 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 410 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 21:09 [FirstSquawk] S&P 500 FUTURES CANCEL EARLIER PROFITS AND TRADE EVEN.
-- 09/18 21:15 [FirstSquawk] FRANCE'S PRESIDENT MACRON REVEALED THAT RUSSIA CARRIED OUT HYBRID ATTACKS ON FRANCE IN RECENT WEEKS.
-- 09/18 21:16 [financialjuice] France's Pres. Macron: We will convene a G7 meeting on energy.
-- 09/18 21:19 [financialjuice] France's Pres. Macron: We are mulling options to release strategic energy reserves.
-- 09/18 21:22 [financialjuice] Poll: UK home prices to rise 1.3% in 2026, 2.0% in 2027 and 3.3% in 2028 (1.8%, 3.0%, 3.0% in Q2 poll).
-- 09/18 21:26 [financialjuice] Putin envoy and far-right AfD prepare talks to get Russian gas back for Germany - Sources.
-- 09/18 21:27 [financialjuice] Putin adviser Kirill Dmitriev and AfD leaders Alice Weidel and Tino Chrupalla are reportedly preparing for a meeting as early as March next year to discuss restarting Russian gas supplies to Germany. The talks would only go ahead if a Russi…
 - 09/18 21:31 [financialjuice] Anthropic plans to have 5GW worth of compute by year end - NYT.
 - 09/18 21:41 [FirstSquawk] EU'S KALLAS DISCUSSED WITH SAUDI FOREIGN MINISTER ON EFFORTS TO STOP FIGHTING IN YEMEN AND ENSURE SAFE NAVIGATION IN THE STRAIT OF HORMUZ.
 - 09/18 21:41 [FirstSquawk] KALLAS HAS INCREASED THE ALERT STATUS OF ITS VESSELS DUE TO OPERATION ASPIDES.
@@ -435,3 +428,9 @@
 - 09/19 20:21 [financialjuice] French finance ministry: public-debt-to-GDP ratio projected to hit 119.3% in 2026, 121.7% in 2027
 - 09/19 20:23 [financialjuice] French finance ministry targets budget deficit of 5.0% of GDP in 2027, 5.4% in 2026
 - 09/19 20:41 [FirstSquawk] AFP: Disruptions at Riyadh airport include flight cancellations and delays
+- 09/19 21:20 [FirstSquawk] IDF: We targeted Hezbollah infrastructure in southern Lebanon
+- 09/19 21:20 [FirstSquawk] IDF: Our targeting of Hezbollah infrastructure in southern Lebanon came in response to the detonation of an explosive device in the security zone
+- 09/19 21:20 [FirstSquawk] IDF: Explosive device detonated in security zone in southern Lebanon wounds two soldiers
+- 09/19 21:20 [FirstSquawk] IDF: We continue our deployment in the security zone in southern Lebanon
+- 09/19 21:20 [FirstSquawk] IDF: We will continue to work to neutralize threats facing Israel
+- 09/19 21:20 [FirstSquawk] IDF: We will continue to work vigorously against Hezbollah's repeated attempts to harm our forces

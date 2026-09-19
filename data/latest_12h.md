@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 21:06 JST／対象: 09/19 09:06 〜 09/19 21:06 JST（時刻はすべて日本時間）
+生成: 2026-09-19 21:28 JST／対象: 09/19 09:28 〜 09/19 21:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 152 | 09/19 09:09 | 09/19 20:41 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 27 | 09/19 09:11 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 148 | 09/19 09:50 | 09/19 21:20 | ⚠ 114分（16:40→18:35） |
+| financialjuice | 25 | 09/19 10:03 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 179 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 173 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 09:09 [FirstSquawk] Jamieson Greer set to accompany Treasury Secretary Bessent in meeting with China’s Vice Premier He Lifeng
-- 09/19 09:09 [FirstSquawk] Civil Defense alerts Riyadh residents to potential danger
-- 09/19 09:10 [FirstSquawk] Civil Defense alerts Al Kharj residents to potential danger
-- 09/19 09:10 [FirstSquawk] Jensen Huang agrees with Trump on AI, sees no chance of it ending the world by 2030
-- 09/19 09:11 [FirstSquawk] OpenAI sees revenue reaching $840 billion through 2030, FT reports
-- 09/19 09:11 [financialjuice] Saudi civil defense: danger has passed in Riyadh
-- 09/19 09:13 [financialjuice] Saudi civil defense: danger over in al Kharj
-- 09/19 09:22 [FirstSquawk] U.S. sees no exchange of export-control easing for existing rare-earth commitments
-- 09/19 09:22 [FirstSquawk] Trump open to talks with Kim Jong Un, North Korea now has the ball — U.S. official
-- 09/19 09:23 [FirstSquawk] Trump willing to hold talks with Kim Jong Un, North Korea must make next move — U.S. official
-- 09/19 09:23 [FirstSquawk] U.S. official stresses importance of diplomacy with Gulf allies during UNGA
-- 09/19 09:24 [FirstSquawk] UN Security Council to convene meeting on artificial intelligence and governance — U.S. official
 - 09/19 09:50 [FirstSquawk] Vingroup founder Pham Nhat Vuong transfers VinFast, GSM leadership to sons
 - 09/19 09:51 [FirstSquawk] China tightens entry and exit regulations, raising compliance concerns for businesses
 - 09/19 09:52 [FirstSquawk] Resonac, Nitto Denko join TSMC, ASML in U.S. investment focused on AI production bottlenecks
@@ -203,3 +191,9 @@
 - 09/19 20:21 [financialjuice] French finance ministry: public-debt-to-GDP ratio projected to hit 119.3% in 2026, 121.7% in 2027
 - 09/19 20:23 [financialjuice] French finance ministry targets budget deficit of 5.0% of GDP in 2027, 5.4% in 2026
 - 09/19 20:41 [FirstSquawk] AFP: Disruptions at Riyadh airport include flight cancellations and delays
+- 09/19 21:20 [FirstSquawk] IDF: We targeted Hezbollah infrastructure in southern Lebanon
+- 09/19 21:20 [FirstSquawk] IDF: Our targeting of Hezbollah infrastructure in southern Lebanon came in response to the detonation of an explosive device in the security zone
+- 09/19 21:20 [FirstSquawk] IDF: Explosive device detonated in security zone in southern Lebanon wounds two soldiers
+- 09/19 21:20 [FirstSquawk] IDF: We continue our deployment in the security zone in southern Lebanon
+- 09/19 21:20 [FirstSquawk] IDF: We will continue to work to neutralize threats facing Israel
+- 09/19 21:20 [FirstSquawk] IDF: We will continue to work vigorously against Hezbollah's repeated attempts to harm our forces
