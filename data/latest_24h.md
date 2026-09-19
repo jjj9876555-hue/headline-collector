@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 17:00 JST／対象: 09/18 17:00 〜 09/19 17:00 JST（時刻はすべて日本時間）
+生成: 2026-09-19 17:19 JST／対象: 09/18 17:19 〜 09/19 17:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 240 | 09/18 17:01 | 09/19 16:40 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 169 | 09/18 17:00 | 09/19 16:50 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 237 | 09/18 17:53 | 09/19 16:40 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 163 | 09/18 18:00 | 09/19 16:50 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 414 行（統合前 423 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 405 行（統合前 414 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 17:00 [financialjuice] EUROZONE CURRENT ACCOUNT ACTUAL 27.628B (FORECAST -, PREVIOUS 35.100B) $MACRO
-- 09/18 17:01 [FirstSquawk] EUROZONE ECB ONE-YEAR CPI EXPECTATIONS IN AUGUST AT 3.0% (ESTIMATED 3.1%; PREVIOUS 2.9%), AND THREE-YEAR CPI EXPECTATIONS AT 2.9% (ESTIMATED 2.8%; PREVIOUS 2.7%).
-- 09/18 17:01 [financialjuice] Euro Area August 1-year CPI expectations rise to 3%; 3-year rises to 2.9%.
-- 09/18 17:01 [FirstSquawk] EU CURRENT ACCOUNT SA FOR JULY SHOWED A SURPLUS OF 27.6 BILLION EUROS, DOWN FROM 35.1 BILLION EUROS LAST MONTH.
-- 09/18 17:08 [financialjuice] ECB's President Lagarde: We'll decide on rates meeting by meeting.
-- 09/18 17:09 [financialjuice] ECB's President Lagarde: Growth is a bit more promising than we thought.
-- 09/18 17:10 [financialjuice] ECB's President Lagarde: Not seeing second-round effects yet.
-- 09/18 17:10 [FirstSquawk] ECB PRESIDENT LAGARDE STATES NO SIGNS OF SECOND ROUND EFFECTS SO FAR - RTE RADIO.
-- 09/18 17:18 [financialjuice] EUROZONE CURRENT ACCOUNT NSA ACTUAL 36.50B (FORECAST -, PREVIOUS 46.90B) $MACRO
 - 09/18 17:53 [FirstSquawk] US ADMINISTRATION TO ANNOUNCE THAT ALL 50 STATES WILL IMPLEMENT MOST-FAVORED-NATION PRICING FOR SPECIFIC DRUGS IN MEDICAID PROGRAMS.
 - 09/18 17:54 [FirstSquawk] SPOT SILVER INCREASES MORE THAN 3% TO $67.19 PER OUNCE.
 - 09/18 18:00 [financialjuice] EUROZONE CONSTRUCTION OUTPUT MOM ACTUAL 0% (FORECAST -, PREVIOUS -1.34%) $MACRO

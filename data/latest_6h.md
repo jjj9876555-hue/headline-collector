@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 17:00 JST／対象: 09/19 11:00 〜 09/19 17:00 JST（時刻はすべて日本時間）
+生成: 2026-09-19 17:19 JST／対象: 09/19 11:19 〜 09/19 17:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 57 | 09/19 11:02 | 09/19 16:40 | ⚠ 105分（14:55→16:40） |
-| financialjuice | 6 | 09/19 11:03 | 09/19 16:50 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 52 | 09/19 11:20 | 09/19 16:40 | ⚠ 105分（14:55→16:40） |
+| financialjuice | 5 | 09/19 15:14 | 09/19 16:50 | ⚠ 91分（15:14→16:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 63 行（統合前 63 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 57 行（統合前 57 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 11:02 [FirstSquawk] White House imposes entry restrictions on certain nonimmigrant workers
-- 09/19 11:02 [FirstSquawk] 2025 H-1B visa proclamation extended for 12 more months, White House says
-- 09/19 11:03 [FirstSquawk] US may postpone major Taiwan arms sales announcement until after November APEC summit – SCMP
-- 09/19 11:03 [financialjuice] US considers delaying major arms sales announcement to Taiwan until after November’s APEC summit in Shenzhen: SCMP
-- 09/19 11:10 [FirstSquawk] Trump enacts Russia sanctions legislation into law, White House says
-- 09/19 11:13 [FirstSquawk] Ex-Vitol oil trader gets four-year US prison sentence in Ecuador, Mexico bribery case - RTRS
 - 09/19 11:20 [FirstSquawk] Rubio, South Korean counterpart stress US-Japan-ROK cooperation for regional security – State Department
 - 09/19 11:21 [FirstSquawk] Riyadh placed on alert over potential danger, Saudi Civil Defense says
 - 09/19 11:23 [FirstSquawk] Trump says US will permanently retain ability to take necessary steps to defend Greenland

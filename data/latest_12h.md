@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 17:00 JST／対象: 09/19 05:00 〜 09/19 17:00 JST（時刻はすべて日本時間）
+生成: 2026-09-19 17:19 JST／対象: 09/19 05:19 〜 09/19 17:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 108 | 09/19 05:02 | 09/19 16:40 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 71 | 09/19 05:02 | 09/19 16:50 | ⚠ 251分（11:03→15:14） |
+| DeItaone | 5 | 09/19 06:15 | 09/19 06:23 | 4分（06:15→06:20） |
+| FirstSquawk | 105 | 09/19 09:09 | 09/19 16:40 | ⚠ 105分（14:55→16:40） |
+| financialjuice | 65 | 09/19 05:20 | 09/19 16:50 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 185 行（統合前 186 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 175 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 05:02 [FirstSquawk] TRUMP: GOING TO RECOMMEND 5 VACCINE DOSES, GIVEN 6-MO INTERVALS
-- 09/19 05:02 [FirstSquawk] TRUMP: WILL BE DEMANDING THIS VACCINE CHANGE OF DRUG COMPANIES
-- 09/19 05:02 [financialjuice] Dow's 1.7% decline is the weekly loss since March
-- 09/19 05:06 [financialjuice] Anthropic expects over $100 bln in annualized revenue this year - NYT
-- 09/19 05:07 [FirstSquawk] ANTHROPIC ANNOUNCES ACCENTURE WILL ASSESS ITS FRONTIER AI TECHNOLOGY.
-- 09/19 05:08 [financialjuice/DeItaone] Trump on Iran: War will end soon.
-- 09/19 05:10 [DeItaone] TRUMP ON BANNING CNN, MSNOW, POLITICO FROM WHITE HOUSE: THERE MAY BE OTHERS TO JOIN THEM
-- 09/19 05:11 [financialjuice] ❗ France's credit rating downgraded to A+ from AA- at Scope
-- 09/19 05:13 [financialjuice] Trump, asked on Russia attack fear: Poland has it under control.
-- 09/19 05:16 [financialjuice] US bank deposits rose to $19.657 tln from $19.566 tln in prior week.
 - 09/19 05:20 [financialjuice] Trump on Xi visit: We get along very well.
 - 09/19 05:21 [financialjuice] Trump asked on Xi visit: We'll have a lot of different deals
 - 09/19 05:22 [financialjuice] OpenAI's Altman is going to brief the UN Security Council next week.
