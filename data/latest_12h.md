@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 14:58 JST／対象: 09/19 02:58 〜 09/19 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 15:21 JST／対象: 09/19 03:21 〜 09/19 15:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 124 | 09/19 03:06 | 09/19 14:55 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 83 | 09/19 03:08 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 121 | 09/19 03:29 | 09/19 14:55 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 83 | 09/19 03:31 | 09/19 15:14 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 212 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 209 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 03:06 [FirstSquawk] ADVENT AND A FEDEX-LED GROUP HAVE PASSED AN 80% THRESHOLD TO ACQUIRE INPOST.
-- 09/19 03:08 [financialjuice] The German government plans to cut taxes on gasoline by 17 euro cents per litre - Sources.
-- 09/19 03:09 [FirstSquawk] GERMANY WILL REDUCE GASOLINE TAXES BY 17 EURO CENTS PER LITRE
-- 09/19 03:14 [FirstSquawk] ANTHROPIC AIMING TO AMASS 5GW OF COMPUTE POWER BY YEAR END – FOX
 - 09/19 03:29 [FirstSquawk] MORE AMERICAN SERVICE MEMBERS HAVE DIED IN THE MIDDLE EAST DURING THE ONGOING IRAN WAR THAN THE PENTAGON HAS DISCLOSED PUBLICLY, ACCORDING TO SIX U.S. OFFICIALS FAMILIAR WITH THE DEFENSE DEPARTMENT’S INTERNAL CASUALTY ACCOUNTING DATA.
 - 09/19 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.5276 a gallon.
 - 09/19 03:31 [financialjuice] NYMEX Diesel October futures settle at $5.0578 a gallon.
@@ -236,3 +232,4 @@
 - 09/19 14:51 [FirstSquawk] FBI reportedly warns of women posing as tradwives to seduce and expose ICE officers – The Guardian
 - 09/19 14:54 [FirstSquawk] Alibaba releases open-source AI model for detecting cancer and nearly 150 medical conditions - SCMP
 - 09/19 14:55 [FirstSquawk] Pay for foreign elderly carers to be 10%–20% above current helper wages - SCMP
+- 09/19 15:14 [financialjuice] Iran executes man convicted of sharing missile site details with Israel during war: judiciary site
