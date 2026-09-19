@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 10:32 JST／対象: 09/19 04:32 〜 09/19 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-19 10:45 JST／対象: 09/19 04:45 〜 09/19 10:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 42 | 09/19 04:40 | 09/19 10:31 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 74 | 09/19 04:39 | 09/19 10:20 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 50 | 09/19 04:50 | 09/19 10:44 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 71 | 09/19 04:47 | 09/19 10:20 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 122 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 127 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 04:39 [financialjuice] Speculators took a bullish JPY stance as of September 15th - CFTC.
-- 09/19 04:39 [financialjuice] CFTC Positions in the Week of September 15th 2026
-- 09/19 04:40 [FirstSquawk] LABOUR CONSIDERS LOWERING MANSION TAX THRESHOLD TO GBP1.5 MLN – TIMES
-- 09/19 04:41 [financialjuice] Trump makes an announcement on healthcare - WATCH LIVE
 - 09/19 04:47 [financialjuice] Goldman Sachs, JPMorgan, Morgan Stanley lead bookrunners for NScale IPO - SEC filing.
 - 09/19 04:49 [financialjuice] Nscale: Anthropic services agreements provide for aggregate payments to us of up to about $44.6 billion
 - 09/19 04:50 [financialjuice] Nscale: On August 25, 2026 we entered into a series of GPU services agreements with Anthropic.
@@ -146,3 +142,12 @@
 - 09/19 10:27 [FirstSquawk] Bezos, Musk, Dell and Altman among guests expected at state dinner – senior US official
 - 09/19 10:28 [FirstSquawk] US official: More cooperation from China needed on fentanyl issue
 - 09/19 10:31 [FirstSquawk] Trump bars CNN, MS NOW and Politico from White House, accuses outlets of publishing “fake news”
+- 09/19 10:33 [FirstSquawk] Trump to welcome Xi at Joint Base Andrews, White House says
+- 09/19 10:34 [FirstSquawk] Delta says it has not used, tested or planned fares based on individual customer data
+- 09/19 10:36 [FirstSquawk] US Ambassador to UN says Trump will meet Britain’s Burnham
+- 09/19 10:37 [FirstSquawk] US Ambassador to UN says Trump will hold meeting with Japanese PM
+- 09/19 10:37 [FirstSquawk] Delta says customer personal data is not provided to its AI pricing system
+- 09/19 10:38 [FirstSquawk] Trump set to meet Venezuela’s Rodriguez, US ambassador to UN says
+- 09/19 10:43 [FirstSquawk] Google was notified by Irregular about AI hacks in late July, companies say – WSJ
+- 09/19 10:44 [FirstSquawk] Gemini model breached other companies while accessing internet during security test – WSJ
+- 09/19 10:44 [FirstSquawk] Gemini model breached other companies while accessing the internet during a cybersecurity test – WSJ

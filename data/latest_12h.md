@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 10:32 JST／対象: 09/18 22:32 〜 09/19 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-19 10:45 JST／対象: 09/18 22:45 〜 09/19 10:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 117 | 09/18 22:34 | 09/19 10:31 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 122 | 09/18 22:33 | 09/19 10:20 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 116 | 09/18 23:07 | 09/19 10:44 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 120 | 09/18 22:59 | 09/19 10:20 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 241 行（統合前 249 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 238 行（統合前 246 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 22:33 [financialjuice] Fed's Bowman: The Fed, going forward, will average the bank's last two stress tests when assigning the lender's 'stress capital buffer’.
-- 09/18 22:34 [FirstSquawk] FED'S BOWMAN MAKES NO COMMENTS ON THE ECONOMY OR MONETARY POLICY IN HER PREPARED STATEMENT.
-- 09/18 22:34 [FirstSquawk] BOWMAN CLAIMS FEDERAL SUPERVISORS SHOULD HAVE IDENTIFIED SVB'S WEAKNESSES AS EARLY AS MARCH 2022, OVER A YEAR PRIOR TO THE BANK'S COLLAPSE.
-- 09/18 22:34 [FirstSquawk] BOWMAN REVEALS FIRST RESULTS OF INDEPENDENT EXAMINATION OF SILICON VALLEY BANK COLLAPSE.
-- 09/18 22:34 [FirstSquawk] BOWMAN STATED THAT THE DELAYS IN SUPERVISION WERE NOT A RESULT OF THE FED'S PREVIOUS DEREGULATORY ACTIONS.
-- 09/18 22:35 [FirstSquawk] BOWMAN CLAIMS A 'RISK AVERSION CULTURE' AMONG FED SUPERVISORS CAUSED INACTION DUE TO UNCLEAR DECISION-MAKING RIGHTS.
-- 09/18 22:35 [FirstSquawk] BOWMAN STATED THAT FEDERAL SUPERVISORS FAILED TO ACT QUICKLY AND DECISIVELY TO FORCE SVB TO LOWER RISKS.
-- 09/18 22:35 [FirstSquawk] BOWMAN STATES UPDATES WILL ENHANCE TEST RELIABILITY AND LOWER BANK CAPITAL REQUIREMENT VOLATILITY.
-- 09/18 22:35 [FirstSquawk] BOWMAN STATES UPDATED STRESS TESTS WILL OFFER THOROUGH INSIGHTS ON TESTING MODELS AND SCENARIOS.
-- 09/18 22:35 [FirstSquawk] BOWMAN ANTICIPATES THAT THE FED WILL COMPLETE 'BASEL' BANK CAPITAL REGULATIONS AND ADJUSTMENTS TO THE GSIB SURCHARGE BY YEAR-END.
-- 09/18 22:36 [FirstSquawk] BOWMAN ANNOUNCES FED WILL USE STRESS TESTS MORE EXTENSIVELY TO KEEP US CENTRAL BANK SUPERVISORS UPDATED ON BANK RISKS.
-- 09/18 22:39 [financialjuice] China opposes the EU's comments on restricting hybrid car exports.
 - 09/18 22:59 [financialjuice] Bild: The German Government plans to cut energy tax on gasoline by 14 cents per litre.
 - 09/18 23:01 [financialjuice] US LEADING INDEX CHANGE MOM ACTUAL -0.1% (FORECAST 0.1%, PREVIOUS 0.2%) $MACRO
 - 09/18 23:07 [FirstSquawk] US CDC: WORKING WITH COUNCIL OF STATE & TERRITORIAL EPIDEMIOLOGISTS TO DEVELOP STANDARDIZED CASE DEFINITION FOR DEATHS DUE TO MEASLES
@@ -265,3 +253,12 @@
 - 09/19 10:27 [FirstSquawk] Bezos, Musk, Dell and Altman among guests expected at state dinner – senior US official
 - 09/19 10:28 [FirstSquawk] US official: More cooperation from China needed on fentanyl issue
 - 09/19 10:31 [FirstSquawk] Trump bars CNN, MS NOW and Politico from White House, accuses outlets of publishing “fake news”
+- 09/19 10:33 [FirstSquawk] Trump to welcome Xi at Joint Base Andrews, White House says
+- 09/19 10:34 [FirstSquawk] Delta says it has not used, tested or planned fares based on individual customer data
+- 09/19 10:36 [FirstSquawk] US Ambassador to UN says Trump will meet Britain’s Burnham
+- 09/19 10:37 [FirstSquawk] US Ambassador to UN says Trump will hold meeting with Japanese PM
+- 09/19 10:37 [FirstSquawk] Delta says customer personal data is not provided to its AI pricing system
+- 09/19 10:38 [FirstSquawk] Trump set to meet Venezuela’s Rodriguez, US ambassador to UN says
+- 09/19 10:43 [FirstSquawk] Google was notified by Irregular about AI hacks in late July, companies say – WSJ
+- 09/19 10:44 [FirstSquawk] Gemini model breached other companies while accessing internet during security test – WSJ
+- 09/19 10:44 [FirstSquawk] Gemini model breached other companies while accessing the internet during a cybersecurity test – WSJ

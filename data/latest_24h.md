@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 10:32 JST／対象: 09/18 10:32 〜 09/19 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-19 10:45 JST／対象: 09/18 10:45 〜 09/19 10:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 312 | 09/18 10:36 | 09/19 10:31 | ⚠ 241分（05:07→09:09） |
+| FirstSquawk | 318 | 09/18 10:49 | 09/19 10:44 | ⚠ 241分（05:07→09:09） |
 | financialjuice | 280 | 09/18 10:48 | 09/19 10:20 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 597 行（統合前 606 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 603 行（統合前 612 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 10:36 [FirstSquawk] Alibaba’s Hong Kong-listed shares climb 3%
-- 09/18 10:39 [FirstSquawk] China’s most-active coking coal contract drops 6.02% to 1,515.5 yuan/metric ton
-- 09/18 10:44 [FirstSquawk] Thailand should boost investment in front-end chip manufacturing, industry body says
 - 09/18 10:48 [financialjuice] S. Korea President Lee: to establish distinct economic and political capitals
 - 09/18 10:49 [FirstSquawk] South Korea’s President Lee: Government aims to establish separate economic and political capitals
 - 09/18 10:50 [FirstSquawk] South Korea’s President Lee: Says he has no plans to seek another term
@@ -621,3 +618,12 @@
 - 09/19 10:27 [FirstSquawk] Bezos, Musk, Dell and Altman among guests expected at state dinner – senior US official
 - 09/19 10:28 [FirstSquawk] US official: More cooperation from China needed on fentanyl issue
 - 09/19 10:31 [FirstSquawk] Trump bars CNN, MS NOW and Politico from White House, accuses outlets of publishing “fake news”
+- 09/19 10:33 [FirstSquawk] Trump to welcome Xi at Joint Base Andrews, White House says
+- 09/19 10:34 [FirstSquawk] Delta says it has not used, tested or planned fares based on individual customer data
+- 09/19 10:36 [FirstSquawk] US Ambassador to UN says Trump will meet Britain’s Burnham
+- 09/19 10:37 [FirstSquawk] US Ambassador to UN says Trump will hold meeting with Japanese PM
+- 09/19 10:37 [FirstSquawk] Delta says customer personal data is not provided to its AI pricing system
+- 09/19 10:38 [FirstSquawk] Trump set to meet Venezuela’s Rodriguez, US ambassador to UN says
+- 09/19 10:43 [FirstSquawk] Google was notified by Irregular about AI hacks in late July, companies say – WSJ
+- 09/19 10:44 [FirstSquawk] Gemini model breached other companies while accessing internet during security test – WSJ
+- 09/19 10:44 [FirstSquawk] Gemini model breached other companies while accessing the internet during a cybersecurity test – WSJ
