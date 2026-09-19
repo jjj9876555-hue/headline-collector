@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 01:44 JST／対象: 09/19 01:44 〜 09/20 01:44 JST（時刻はすべて日本時間）
+生成: 2026-09-20 01:58 JST／対象: 09/19 01:58 〜 09/20 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 14 | 09/19 05:09 | 09/20 01:17 | ⚠ 1016分（06:23→23:19） |
-| FirstSquawk | 250 | 09/19 01:44 | 09/20 01:33 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 117 | 09/19 01:44 | 09/20 00:33 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 246 | 09/19 02:01 | 09/20 01:33 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 114 | 09/19 02:01 | 09/20 00:33 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 379 行（統合前 381 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 372 行（統合前 374 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 01:44 [financialjuice] Senior Saudi security, military delegation met Mossad and Israeli military intelligence leaders to seek support against Houthi operations under US CENTCOM supervision - Palestinian source via ISNA
-- 09/19 01:44 [FirstSquawk] A RELIABLE AMERICAN OFFICIAL REVEALED THAT 60 MILLION BARRELS OF OIL, BELIEVED TO BE FROM IRAN, ARE TRAPPED ON SHIPS FACING SANCTIONS.
-- 09/19 01:48 [financialjuice] Reports of an explosion near the Strait of Hormuz - al Hadath
-- 09/19 01:49 [FirstSquawk] REPORTS OF AN EXPLOSION OCCURRING IN THE VICINITY OF THE STRAIT OF HORMUZ
-- 09/19 01:54 [financialjuice] Top US NATO Commander Grynkewich participated in today's virtual briefing for Pentagon policy Chief Colby on potential approaches to US force posture review in Europe - Spokesperson
-- 09/19 01:54 [FirstSquawk] AS OF SEPTEMBER 18, CENTCOM FORCES HAVE DIRECTED 105 COMMERCIAL SHIPS TO ENSURE COMPLIANCE.
-- 09/19 01:57 [FirstSquawk] US MILITARY EXPERIENCED A NEAR MISS DUE TO AI-BASED FALSE INTELLIGENCE REPORT, SOURCES REVEAL.
 - 09/19 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 595 (FORECAST -, PREVIOUS 591) $MACRO
 - 09/19 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 452 (FORECAST -, PREVIOUS 450) $MACRO
 - 09/19 02:01 [FirstSquawk] US TOTAL RIG COUNT 595 , BAKER HUGHES SAYS
