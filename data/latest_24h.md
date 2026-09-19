@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 15:52 JST／対象: 09/18 15:52 〜 09/19 15:52 JST（時刻はすべて日本時間）
+生成: 2026-09-19 16:05 JST／対象: 09/18 16:05 〜 09/19 16:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 275 | 09/18 15:54 | 09/19 14:55 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 184 | 09/18 15:55 | 09/19 15:14 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 268 | 09/18 16:10 | 09/19 14:55 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 180 | 09/18 16:07 | 09/19 15:14 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 464 行（統合前 473 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 453 行（統合前 462 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 15:54 [FirstSquawk] Katayama: Japan will take steps to preserve stability and orderly trading in the FX market.
-- 09/18 15:55 [financialjuice] BoJ Gov Ueda: Rate hikes have gradually tightened financial conditions.
-- 09/18 15:55 [FirstSquawk] Ueda: The BOJ must be mindful of the potential negative impact of aggressive rate hikes.
-- 09/18 15:56 [FirstSquawk] Ueda: The BOJ must ensure that overly fast tightening does not put a negative strain on financial conditions.
-- 09/18 15:58 [financialjuice] BoJ Gov Ueda: Not mulling board member change next year for policy.
-- 09/18 15:58 [financialjuice] Japan's Fin. Min. Katayama: To maintin close communication with financial authorities of other nations on forex.
-- 09/18 16:03 [financialjuice] Japan's Fin. Min. Katayama: Bessent regards highly of "Takaichinomics".
-- 09/18 16:03 [FirstSquawk] BOJ GOVERNOR UEDA SAYS THE BANK WILL KEEP CONDUCTING MONETARY POLICY ACCORDING TO THE LAW.
-- 09/18 16:04 [FirstSquawk] BOJ GOVERNOR UEDA STATES THEY WILL MAINTAIN SUITABLE MONETARY POLICY AS PER BOJ LAWS.
-- 09/18 16:04 [FirstSquawk] BRITAIN'S FTSE 100 DROPS 0.2%; FRANCE'S CAC 40 FALLS 0.39%; SPAIN'S IBEX DECLINES 0.14%.
-- 09/18 16:04 [FirstSquawk] JAPAN'S FINANCE MINISTER KATAYAMA PRAISES "TAKAICHINOMICS".
 - 09/18 16:07 [financialjuice] BoJ Gov Ueda when asked about possibly about raising rates consecutively or rate hike over 25 bps: Not ruling out any particular policy measures.
 - 09/18 16:08 [financialjuice] BoJ Gov Ueda: Overseas rate hikes could impact Japan through various channels including Forex.
 - 09/18 16:10 [FirstSquawk] VOLKSWAGEN GROUP OF AMERICA IS RECALLING 208,724 VEHICLES IN THE U.S. ACCORDING TO NHTSA.

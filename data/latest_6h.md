@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 15:52 JST／対象: 09/19 09:52 〜 09/19 15:52 JST（時刻はすべて日本時間）
+生成: 2026-09-19 16:05 JST／対象: 09/19 10:05 〜 09/19 16:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 91 | 09/19 09:53 | 09/19 14:55 | 15分（13:43→13:59） |
-| financialjuice | 5 | 09/19 10:03 | 09/19 15:14 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 87 | 09/19 10:06 | 09/19 14:55 | 15分（13:43→13:59） |
+| financialjuice | 4 | 09/19 10:15 | 09/19 15:14 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 96 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 91 行（統合前 91 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 09:53 [FirstSquawk] Trump says son will repay Russian businessman who funded wedding festivities — SCMP
-- 09/19 09:59 [FirstSquawk] US stocks finish choppy week on muted note as 5% Treasury yield and $100 oil fuel inflation fears - RTRS
-- 09/19 10:01 [FirstSquawk] Trump arch gets FAA approval, with ‘eternal flame’ mandated as pilot warning - RTRS
-- 09/19 10:03 [financialjuice] State Dept: approves possible $2.68 billion foreign military sale to Ukraine for air defense upgrade development
-- 09/19 10:05 [FirstSquawk] State Department clears possible $2.68B military sale to Ukraine for air defense upgrades
 - 09/19 10:06 [FirstSquawk] “Hands off”: Protesters surround Kennedy Center in opposition to Trump’s control of the arts institution - CBC
 - 09/19 10:06 [FirstSquawk] Flights resume at Luxembourg Airport following temporary disruption linked to UAS detection
 - 09/19 10:07 [FirstSquawk] System southwest of Azores has 80% chance of cyclone formation within 48 hours, NHC says
