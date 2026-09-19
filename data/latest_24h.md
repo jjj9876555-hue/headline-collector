@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 09:30 JST／対象: 09/18 09:30 〜 09/19 09:30 JST（時刻はすべて日本時間）
+生成: 2026-09-19 09:48 JST／対象: 09/18 09:48 〜 09/19 09:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 311 | 09/18 09:31 | 09/19 09:24 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 290 | 09/18 09:36 | 09/19 09:13 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 306 | 09/18 09:49 | 09/19 09:24 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 287 | 09/18 09:53 | 09/19 09:13 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 606 行（統合前 615 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 598 行（統合前 607 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 09:31 [FirstSquawk] Gold prices climb, likely aided by lower oil prices - wsj
-- 09/18 09:31 [FirstSquawk] Nikkei advances 0.8% with chip stocks leading the gains - WSJ
-- 09/18 09:36 [FirstSquawk] Luna says foreign influence networks are working to promote communist ideology in America
-- 09/18 09:36 [financialjuice] New Zealand foreign minister spokesperson: no talks with EU on New Zealand joining as associate member
-- 09/18 09:40 [financialjuice] RBA Governor Bullock: decline in housing prices isn't that significant overall
-- 09/18 09:40 [FirstSquawk] RBA Governor Bullock says housing price decline is not significant overall
-- 09/18 09:45 [financialjuice] RBA Governor Bullock: considering if policy is tight enough
-- 09/18 09:45 [FirstSquawk] Bullock: RBA is thinking about whether policy settings are tight enough
 - 09/18 09:49 [FirstSquawk] Oil declines amid easing concerns over Middle East supply disruptions - WSJ
 - 09/18 09:52 [FirstSquawk] Lebanon’s army commander discusses priorities and requirements for roadmap implementation
 - 09/18 09:53 [FirstSquawk] RBA’s Bullock: Consensus is that the neutral interest rate is now higher

@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 09:30 JST／対象: 09/19 03:30 〜 09/19 09:30 JST（時刻はすべて日本時間）
+生成: 2026-09-19 09:48 JST／対象: 09/19 03:48 〜 09/19 09:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 26 | 09/19 03:32 | 09/19 09:24 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 78 | 09/19 03:31 | 09/19 09:13 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 24 | 09/19 03:58 | 09/19 09:24 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 74 | 09/19 04:11 | 09/19 09:13 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 109 行（統合前 111 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 104 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.5276 a gallon.
-- 09/19 03:31 [financialjuice] NYMEX Diesel October futures settle at $5.0578 a gallon.
-- 09/19 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $2.9120/MMBtu.
-- 09/19 03:32 [FirstSquawk] US CRUDE OIL FUTURES SETTLE AT $100.30/BBL, DOWN $1.61, 1.58%
-- 09/19 03:42 [financialjuice/FirstSquawk] Brent Crude futures settle at $103.87/bbl, down 95 cents, 0.91%.
 - 09/19 03:58 [FirstSquawk] FHFA’S PULTE ON MBS: ”WE ARE BEGINNING TO BUY EVEN MORE, LARGE QUANTITIES, AS WE SPEAK.”
 - 09/19 04:05 [FirstSquawk] TRUMP BANS CNN, MSNBC, POLITICO FROM WHITE HOUSE
 - 09/19 04:05 [FirstSquawk] TRUMP SAYS MORE MEDIA OUTLETS TO FACE WHITE HOUSE BAN
