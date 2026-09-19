@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 15:38 JST／対象: 09/19 09:38 〜 09/19 15:38 JST（時刻はすべて日本時間）
+生成: 2026-09-19 15:52 JST／対象: 09/19 09:52 〜 09/19 15:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 94 | 09/19 09:50 | 09/19 14:55 | 15分（13:43→13:59） |
+| FirstSquawk | 91 | 09/19 09:53 | 09/19 14:55 | 15分（13:43→13:59） |
 | financialjuice | 5 | 09/19 10:03 | 09/19 15:14 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 99 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 96 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 09:50 [FirstSquawk] Vingroup founder Pham Nhat Vuong transfers VinFast, GSM leadership to sons
-- 09/19 09:51 [FirstSquawk] China tightens entry and exit regulations, raising compliance concerns for businesses
-- 09/19 09:52 [FirstSquawk] Resonac, Nitto Denko join TSMC, ASML in U.S. investment focused on AI production bottlenecks
 - 09/19 09:53 [FirstSquawk] Trump says son will repay Russian businessman who funded wedding festivities — SCMP
 - 09/19 09:59 [FirstSquawk] US stocks finish choppy week on muted note as 5% Treasury yield and $100 oil fuel inflation fears - RTRS
 - 09/19 10:01 [FirstSquawk] Trump arch gets FAA approval, with ‘eternal flame’ mandated as pilot warning - RTRS
