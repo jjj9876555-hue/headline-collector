@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 09:05 JST／対象: 09/18 21:05 〜 09/19 09:05 JST（時刻はすべて日本時間）
+生成: 2026-09-19 09:30 JST／対象: 09/18 21:30 〜 09/19 09:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 95 | 09/18 21:09 | 09/19 05:07 | 31分（22:36→23:07） |
-| financialjuice | 135 | 09/18 21:16 | 09/19 09:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 103 | 09/18 21:41 | 09/19 09:24 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 132 | 09/18 21:31 | 09/19 09:13 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 232 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 237 行（統合前 245 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 21:09 [FirstSquawk] S&P 500 FUTURES CANCEL EARLIER PROFITS AND TRADE EVEN.
-- 09/18 21:15 [FirstSquawk] FRANCE'S PRESIDENT MACRON REVEALED THAT RUSSIA CARRIED OUT HYBRID ATTACKS ON FRANCE IN RECENT WEEKS.
-- 09/18 21:16 [financialjuice] France's Pres. Macron: We will convene a G7 meeting on energy.
-- 09/18 21:19 [financialjuice] France's Pres. Macron: We are mulling options to release strategic energy reserves.
-- 09/18 21:22 [financialjuice] Poll: UK home prices to rise 1.3% in 2026, 2.0% in 2027 and 3.3% in 2028 (1.8%, 3.0%, 3.0% in Q2 poll).
-- 09/18 21:26 [financialjuice] Putin envoy and far-right AfD prepare talks to get Russian gas back for Germany - Sources.
-- 09/18 21:27 [financialjuice] Putin adviser Kirill Dmitriev and AfD leaders Alice Weidel and Tino Chrupalla are reportedly preparing for a meeting as early as March next year to discuss restarting Russian gas supplies to Germany. The talks would only go ahead if a Russi…
 - 09/18 21:31 [financialjuice] Anthropic plans to have 5GW worth of compute by year end - NYT.
 - 09/18 21:41 [FirstSquawk] EU'S KALLAS DISCUSSED WITH SAUDI FOREIGN MINISTER ON EFFORTS TO STOP FIGHTING IN YEMEN AND ENSURE SAFE NAVIGATION IN THE STRAIT OF HORMUZ.
 - 09/18 21:41 [FirstSquawk] KALLAS HAS INCREASED THE ALERT STATUS OF ITS VESSELS DUE TO OPERATION ASPIDES.
@@ -256,3 +249,15 @@
 - 09/19 09:00 [financialjuice] Saudi civil defense issues warning about potential risk in Al Kharj
 - 09/19 09:03 [financialjuice] Anthropic mulls debut of new AI model before IPO, sources say
 - 09/19 09:03 [financialjuice] Anthropic IPO may be delayed until after US midterm elections, sources say
+- 09/19 09:09 [FirstSquawk] Jamieson Greer set to accompany Treasury Secretary Bessent in meeting with China’s Vice Premier He Lifeng
+- 09/19 09:09 [FirstSquawk] Civil Defense alerts Riyadh residents to potential danger
+- 09/19 09:10 [FirstSquawk] Civil Defense alerts Al Kharj residents to potential danger
+- 09/19 09:10 [FirstSquawk] Jensen Huang agrees with Trump on AI, sees no chance of it ending the world by 2030
+- 09/19 09:11 [FirstSquawk] OpenAI sees revenue reaching $840 billion through 2030, FT reports
+- 09/19 09:11 [financialjuice] Saudi civil defense: danger has passed in Riyadh
+- 09/19 09:13 [financialjuice] Saudi civil defense: danger over in al Kharj
+- 09/19 09:22 [FirstSquawk] U.S. sees no exchange of export-control easing for existing rare-earth commitments
+- 09/19 09:22 [FirstSquawk] Trump open to talks with Kim Jong Un, North Korea now has the ball — U.S. official
+- 09/19 09:23 [FirstSquawk] Trump willing to hold talks with Kim Jong Un, North Korea must make next move — U.S. official
+- 09/19 09:23 [FirstSquawk] U.S. official stresses importance of diplomacy with Gulf allies during UNGA
+- 09/19 09:24 [FirstSquawk] UN Security Council to convene meeting on artificial intelligence and governance — U.S. official

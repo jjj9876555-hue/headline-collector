@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 09:05 JST／対象: 09/19 03:05 〜 09/19 09:05 JST（時刻はすべて日本時間）
+生成: 2026-09-19 09:30 JST／対象: 09/19 03:30 〜 09/19 09:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 20 | 09/19 03:06 | 09/19 05:07 | 19分（04:21→04:40） |
-| financialjuice | 77 | 09/19 03:08 | 09/19 09:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 26 | 09/19 03:32 | 09/19 09:24 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 78 | 09/19 03:31 | 09/19 09:13 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 109 行（統合前 111 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 03:06 [FirstSquawk] ADVENT AND A FEDEX-LED GROUP HAVE PASSED AN 80% THRESHOLD TO ACQUIRE INPOST.
-- 09/19 03:08 [financialjuice] The German government plans to cut taxes on gasoline by 17 euro cents per litre - Sources.
-- 09/19 03:09 [FirstSquawk] GERMANY WILL REDUCE GASOLINE TAXES BY 17 EURO CENTS PER LITRE
-- 09/19 03:14 [FirstSquawk] ANTHROPIC AIMING TO AMASS 5GW OF COMPUTE POWER BY YEAR END – FOX
-- 09/19 03:29 [FirstSquawk] MORE AMERICAN SERVICE MEMBERS HAVE DIED IN THE MIDDLE EAST DURING THE ONGOING IRAN WAR THAN THE PENTAGON HAS DISCLOSED PUBLICLY, ACCORDING TO SIX U.S. OFFICIALS FAMILIAR WITH THE DEFENSE DEPARTMENT’S INTERNAL CASUALTY ACCOUNTING DATA.
 - 09/19 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.5276 a gallon.
 - 09/19 03:31 [financialjuice] NYMEX Diesel October futures settle at $5.0578 a gallon.
 - 09/19 03:32 [financialjuice] NYMEX Natural Gas October futures settle at $2.9120/MMBtu.
@@ -126,3 +121,15 @@
 - 09/19 09:00 [financialjuice] Saudi civil defense issues warning about potential risk in Al Kharj
 - 09/19 09:03 [financialjuice] Anthropic mulls debut of new AI model before IPO, sources say
 - 09/19 09:03 [financialjuice] Anthropic IPO may be delayed until after US midterm elections, sources say
+- 09/19 09:09 [FirstSquawk] Jamieson Greer set to accompany Treasury Secretary Bessent in meeting with China’s Vice Premier He Lifeng
+- 09/19 09:09 [FirstSquawk] Civil Defense alerts Riyadh residents to potential danger
+- 09/19 09:10 [FirstSquawk] Civil Defense alerts Al Kharj residents to potential danger
+- 09/19 09:10 [FirstSquawk] Jensen Huang agrees with Trump on AI, sees no chance of it ending the world by 2030
+- 09/19 09:11 [FirstSquawk] OpenAI sees revenue reaching $840 billion through 2030, FT reports
+- 09/19 09:11 [financialjuice] Saudi civil defense: danger has passed in Riyadh
+- 09/19 09:13 [financialjuice] Saudi civil defense: danger over in al Kharj
+- 09/19 09:22 [FirstSquawk] U.S. sees no exchange of export-control easing for existing rare-earth commitments
+- 09/19 09:22 [FirstSquawk] Trump open to talks with Kim Jong Un, North Korea now has the ball — U.S. official
+- 09/19 09:23 [FirstSquawk] Trump willing to hold talks with Kim Jong Un, North Korea must make next move — U.S. official
+- 09/19 09:23 [FirstSquawk] U.S. official stresses importance of diplomacy with Gulf allies during UNGA
+- 09/19 09:24 [FirstSquawk] UN Security Council to convene meeting on artificial intelligence and governance — U.S. official
