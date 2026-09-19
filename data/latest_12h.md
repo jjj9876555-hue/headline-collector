@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 07:22 JST／対象: 09/19 19:22 〜 09/20 07:22 JST（時刻はすべて日本時間）
+生成: 2026-09-20 07:35 JST／対象: 09/19 19:35 〜 09/20 07:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 83 | 09/19 19:30 | 09/20 03:10 | 44分（01:33→02:17） |
-| financialjuice | 27 | 09/19 19:23 | 09/20 04:39 | ⚠ 230分（20:23→00:14） |
+| FirstSquawk | 80 | 09/19 19:46 | 09/20 03:10 | 44分（01:33→02:17） |
+| financialjuice | 24 | 09/19 20:21 | 09/20 04:39 | ⚠ 230分（20:23→00:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 116 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 110 行（統合前 116 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 19:23 [financialjuice] Pakistan foreign affairs ministry: the two discussed recent regional developments
-- 09/19 19:23 [financialjuice] Pakistan foreign affairs ministry: the two agreed to meet in New York alongside 81st UN General Assembly
-- 09/19 19:30 [FirstSquawk] PAKISTAN FOREIGN AFFAIRS MINISTRY - FOREIGN MINISTER ISHAQ DAR SPOKE WITH IRANIAN FOREIGN MINISTER ABBAS ARAGHCHI TODAY
-- 09/19 19:31 [FirstSquawk] PAKISTAN FOREIGN AFFAIRS MINISTRY - THE TWO DISCUSSED THE LATEST REGIONAL DEVELOPMENTS
-- 09/19 19:31 [FirstSquawk] PAKISTAN FOREIGN AFFAIRS MINISTRY: THE TWO AGREED TO MEET IN NEW YORK ON THE SIDELINES OF THE 81ST UN GENERAL ASSEMBLY
-- 09/19 19:35 [financialjuice] Flames and thick black smoke rise near Riyadh airport: witness
 - 09/19 19:46 [FirstSquawk] Flames and a large plume of black smoke were seen rising near Riyadh airport on Saturday
 - 09/19 19:47 [FirstSquawk] Paramount could settle with states over Warner Bros. as soon as this weekend, sources say
 - 09/19 20:01 [FirstSquawk] China's tech rivalry with the U.S. intensifies, border controls are becoming another oversight tool for Beijing. New rules tie entry and exit more closely to national security concerns.
