@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 08:15 JST／対象: 09/19 20:15 〜 09/20 08:15 JST（時刻はすべて日本時間）
+生成: 2026-09-20 08:29 JST／対象: 09/19 20:29 〜 09/20 08:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 72 | 09/19 20:17 | 09/20 03:10 | 44分（01:33→02:17） |
-| financialjuice | 24 | 09/19 20:21 | 09/20 04:39 | ⚠ 230分（20:23→00:14） |
+| FirstSquawk | 69 | 09/19 20:41 | 09/20 03:10 | 44分（01:33→02:17） |
+| financialjuice | 22 | 09/20 00:14 | 09/20 04:39 | ⚠ 88分（00:33→02:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 97 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 20:17 [FirstSquawk] CARNEY TAKES HIS INVESTMENT PITCH FROM ‘MAPLE DAVOS’ TO STRASBOURG - FT
-- 09/19 20:17 [FirstSquawk] AI CHATBOTS GIVE WRONG ANSWERS TO FINANCIAL QUERIES ‘MOST OF THE TIME’ - FT
-- 09/19 20:18 [FirstSquawk] JAPAN SUPERMARKET BEGINS TRAINING FOR 100-STORE VIETNAM PUSH - NIKKEI
-- 09/19 20:21 [financialjuice] French finance ministry: public-debt-to-GDP ratio projected to hit 119.3% in 2026, 121.7% in 2027
-- 09/19 20:23 [financialjuice] French finance ministry targets budget deficit of 5.0% of GDP in 2027, 5.4% in 2026
 - 09/19 20:41 [FirstSquawk] AFP: Disruptions at Riyadh airport include flight cancellations and delays
 - 09/19 21:20 [FirstSquawk] IDF: We targeted Hezbollah infrastructure in southern Lebanon
 - 09/19 21:20 [FirstSquawk] IDF: Our targeting of Hezbollah infrastructure in southern Lebanon came in response to the detonation of an explosive device in the security zone
