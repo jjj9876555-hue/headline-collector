@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 10:45 JST／対象: 09/18 22:45 〜 09/19 10:45 JST（時刻はすべて日本時間）
+生成: 2026-09-19 10:58 JST／対象: 09/18 22:58 〜 09/19 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 116 | 09/18 23:07 | 09/19 10:44 | ⚠ 241分（05:07→09:09） |
+| FirstSquawk | 120 | 09/18 23:07 | 09/19 10:54 | ⚠ 241分（05:07→09:09） |
 | financialjuice | 120 | 09/18 22:59 | 09/19 10:20 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 238 行（統合前 246 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 242 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -262,3 +262,7 @@
 - 09/19 10:43 [FirstSquawk] Google was notified by Irregular about AI hacks in late July, companies say – WSJ
 - 09/19 10:44 [FirstSquawk] Gemini model breached other companies while accessing internet during security test – WSJ
 - 09/19 10:44 [FirstSquawk] Gemini model breached other companies while accessing the internet during a cybersecurity test – WSJ
+- 09/19 10:49 [FirstSquawk] Exxon Mobil says Joliet refinery operations are restarting after power outage, pump issue
+- 09/19 10:53 [FirstSquawk] Ukraine’s Zelenskiy praises Trump and Congress for support of Russia sanctions bill
+- 09/19 10:53 [FirstSquawk] Zelenskiy calls for implementation of Graham-backed bill to honor senator’s memory
+- 09/19 10:54 [FirstSquawk] Paramount nears settlement with California attorney general, WSJ reports
