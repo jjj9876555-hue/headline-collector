@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 01:58 JST／対象: 09/19 13:58 〜 09/20 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-20 02:14 JST／対象: 09/19 14:14 〜 09/20 02:14 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/19 23:19 | 09/20 01:17 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 119 | 09/19 13:59 | 09/20 01:33 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 26 | 09/19 15:14 | 09/20 00:33 | ⚠ 230分（20:23→00:14） |
+| DeItaone | 8 | 09/19 23:19 | 09/20 02:11 | ⚠ 74分（23:19→00:34） |
+| FirstSquawk | 117 | 09/19 14:16 | 09/20 01:33 | ⚠ 114分（16:40→18:35） |
+| financialjuice | 31 | 09/19 15:14 | 09/20 02:14 | ⚠ 230分（20:23→00:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 152 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 156 行（統合前 156 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 13:59 [FirstSquawk] Malaysia’s Solarvest broadens energy business into batteries and power trading - NA
-- 09/19 14:04 [FirstSquawk] South Korea’s Cheong Wa Dae says Lee’s remarks do not amount to rejecting Trump’s Hormuz request – Yonhap
 - 09/19 14:16 [FirstSquawk] North Korea rejects IAEA resolution, pledges to maintain nuclear arsenal amid US threats – Yonhap
 - 09/19 14:23 [FirstSquawk] Suspected Chinese marine research vessel leaves Japan’s EEZ – Kyodo
 - 09/19 14:31 [FirstSquawk] Trump and Senate’s Thune discuss legislation to lower data-center electricity costs – Reuters
@@ -176,3 +174,9 @@
 - 09/20 01:32 [FirstSquawk] Israeli airstrikes on Wadi al-Hujair, the vicinity of Haris, Sarbin, Nabatieh city, and Nabatieh al-Fawqa in southern Lebanon
 - 09/20 01:32 [FirstSquawk] Russian Ministry of Defense: We targeted a ship that was transporting fuel to Ukrainian forces in Odessa, southwestern Ukraine
 - 09/20 01:33 [FirstSquawk] Israeli Home Front Command: Sirens sound in the West Bank settlement of Yitzhar to warn of an infiltration by armed men.
+- 09/20 02:01 [financialjuice] Yemen's Houthis: Attack on Aramco facility in Yanbu
+- 09/20 02:02 [financialjuice] Yemen's Houthis: 'sensitive' sites in Riyadh targeted with ballistic missiles, drones
+- 09/20 02:04 [financialjuice] No immediate Saudi confirmation of Houthi statement
+- 09/20 02:11 [DeItaone] YEMEN'S HOUTHIS SAY THEY ATTACKED ARAMCO FACILITY IN YANBU YEMEN'S HOUTHIS SAY THEY WILL CONTINUE TARGETING SAUDI MILITARY BUILD-UPS UNTIL BLOCKADE END
+- 09/20 02:14 [financialjuice] Pakistani interior minister visits Iran on bilateral ties: Iran foreign ministry spokesperson to Iranian state TV, unaware of any US message
+- 09/20 02:14 [financialjuice] Trump on AI: I am creating AI force, similar to space force

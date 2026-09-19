@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 01:58 JST／対象: 09/19 19:58 〜 09/20 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-20 02:14 JST／対象: 09/19 20:14 〜 09/20 02:14 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/19 23:19 | 09/20 01:17 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 69 | 09/19 20:01 | 09/20 01:33 | 38分（20:41→21:20） |
-| financialjuice | 7 | 09/19 20:21 | 09/20 00:33 | ⚠ 230分（20:23→00:14） |
+| DeItaone | 8 | 09/19 23:19 | 09/20 02:11 | ⚠ 74分（23:19→00:34） |
+| FirstSquawk | 63 | 09/19 20:17 | 09/20 01:33 | 38分（20:41→21:20） |
+| financialjuice | 12 | 09/19 20:21 | 09/20 02:14 | ⚠ 230分（20:23→00:14） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 83 行（統合前 83 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 20:01 [FirstSquawk] China's tech rivalry with the U.S. intensifies, border controls are becoming another oversight tool for Beijing. New rules tie entry and exit more closely to national security concerns.
-- 09/19 20:02 [FirstSquawk] U.S. companies and Washington have accused Chinese labs of using distillation to gain ground, denouncing their efforts as theft
-- 09/19 20:02 [FirstSquawk] But a growing chorus of voices is casting doubt on how important distillation is to Chinese AI model development.
-- 09/19 20:03 [FirstSquawk] US, Denmark and Greenland strike a security deal that expands Washington’s role on the Arctic island, ending for now a long-running diplomatic spat without ceding land to the US
-- 09/19 20:14 [FirstSquawk] Iraqi Army: Withdrawal of coalition forces by September 30 will eliminate any justification for moving outside the framework of the state
-- 09/19 20:14 [FirstSquawk] Syrian Ministry of Defense: 11 killed as result of explosion at military post in eastern part of the country
 - 09/19 20:17 [FirstSquawk] CARNEY TAKES HIS INVESTMENT PITCH FROM ‘MAPLE DAVOS’ TO STRASBOURG - FT
 - 09/19 20:17 [FirstSquawk] AI CHATBOTS GIVE WRONG ANSWERS TO FINANCIAL QUERIES ‘MOST OF THE TIME’ - FT
 - 09/19 20:18 [FirstSquawk] JAPAN SUPERMARKET BEGINS TRAINING FOR 100-STORE VIETNAM PUSH - NIKKEI
@@ -107,3 +101,9 @@
 - 09/20 01:32 [FirstSquawk] Israeli airstrikes on Wadi al-Hujair, the vicinity of Haris, Sarbin, Nabatieh city, and Nabatieh al-Fawqa in southern Lebanon
 - 09/20 01:32 [FirstSquawk] Russian Ministry of Defense: We targeted a ship that was transporting fuel to Ukrainian forces in Odessa, southwestern Ukraine
 - 09/20 01:33 [FirstSquawk] Israeli Home Front Command: Sirens sound in the West Bank settlement of Yitzhar to warn of an infiltration by armed men.
+- 09/20 02:01 [financialjuice] Yemen's Houthis: Attack on Aramco facility in Yanbu
+- 09/20 02:02 [financialjuice] Yemen's Houthis: 'sensitive' sites in Riyadh targeted with ballistic missiles, drones
+- 09/20 02:04 [financialjuice] No immediate Saudi confirmation of Houthi statement
+- 09/20 02:11 [DeItaone] YEMEN'S HOUTHIS SAY THEY ATTACKED ARAMCO FACILITY IN YANBU YEMEN'S HOUTHIS SAY THEY WILL CONTINUE TARGETING SAUDI MILITARY BUILD-UPS UNTIL BLOCKADE END
+- 09/20 02:14 [financialjuice] Pakistani interior minister visits Iran on bilateral ties: Iran foreign ministry spokesperson to Iranian state TV, unaware of any US message
+- 09/20 02:14 [financialjuice] Trump on AI: I am creating AI force, similar to space force

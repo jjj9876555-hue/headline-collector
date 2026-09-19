@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 01:58 JST／対象: 09/19 01:58 〜 09/20 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-20 02:14 JST／対象: 09/19 02:14 〜 09/20 02:14 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/19 05:09 | 09/20 01:17 | ⚠ 1016分（06:23→23:19） |
-| FirstSquawk | 246 | 09/19 02:01 | 09/20 01:33 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 114 | 09/19 02:01 | 09/20 00:33 | ⚠ 251分（11:03→15:14） |
+| DeItaone | 15 | 09/19 05:09 | 09/20 02:11 | ⚠ 1016分（06:23→23:19） |
+| FirstSquawk | 242 | 09/19 02:22 | 09/20 01:33 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 117 | 09/19 02:40 | 09/20 02:14 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 372 行（統合前 374 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 595 (FORECAST -, PREVIOUS 591) $MACRO
-- 09/19 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 452 (FORECAST -, PREVIOUS 450) $MACRO
-- 09/19 02:01 [FirstSquawk] US TOTAL RIG COUNT 595 , BAKER HUGHES SAYS
-- 09/19 02:01 [FirstSquawk] US OIL RIG COUNT UP 2 TO 452 , BAKER HUGHES SAYS
-- 09/19 02:04 [FirstSquawk] CANADA INDUSTRY MINISTER: STELLANTIS MUST REOPEN ONTARIO PLANT OR RETURN GOVT MONEY
-- 09/19 02:05 [FirstSquawk] WHITE HOUSE OFFICIAL: TRUMP PLANS TO SIGN THE RUSSIA SANCTIONS BILL TODAY - CBS
 - 09/19 02:22 [FirstSquawk] 3 COUNTERPARTIES TAKE $576.000M AT FED REVERSE REPO OP.
 - 09/19 02:30 [FirstSquawk] DUKE ENERGY ASKS CAROLINAS CUSTOMERS TO REDUCE POWER USE
 - 09/19 02:32 [FirstSquawk] WESTINGHOUSE PLANS TO SEEK A VALUATION EXCEEDING $50 BILLION FOR ITS U.S. INITIAL PUBLIC OFFERING.
@@ -396,3 +390,9 @@
 - 09/20 01:32 [FirstSquawk] Israeli airstrikes on Wadi al-Hujair, the vicinity of Haris, Sarbin, Nabatieh city, and Nabatieh al-Fawqa in southern Lebanon
 - 09/20 01:32 [FirstSquawk] Russian Ministry of Defense: We targeted a ship that was transporting fuel to Ukrainian forces in Odessa, southwestern Ukraine
 - 09/20 01:33 [FirstSquawk] Israeli Home Front Command: Sirens sound in the West Bank settlement of Yitzhar to warn of an infiltration by armed men.
+- 09/20 02:01 [financialjuice] Yemen's Houthis: Attack on Aramco facility in Yanbu
+- 09/20 02:02 [financialjuice] Yemen's Houthis: 'sensitive' sites in Riyadh targeted with ballistic missiles, drones
+- 09/20 02:04 [financialjuice] No immediate Saudi confirmation of Houthi statement
+- 09/20 02:11 [DeItaone] YEMEN'S HOUTHIS SAY THEY ATTACKED ARAMCO FACILITY IN YANBU YEMEN'S HOUTHIS SAY THEY WILL CONTINUE TARGETING SAUDI MILITARY BUILD-UPS UNTIL BLOCKADE END
+- 09/20 02:14 [financialjuice] Pakistani interior minister visits Iran on bilateral ties: Iran foreign ministry spokesperson to Iranian state TV, unaware of any US message
+- 09/20 02:14 [financialjuice] Trump on AI: I am creating AI force, similar to space force
