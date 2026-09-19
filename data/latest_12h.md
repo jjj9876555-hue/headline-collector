@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 13:45 JST／対象: 09/19 01:45 〜 09/19 13:45 JST（時刻はすべて日本時間）
+生成: 2026-09-19 13:58 JST／対象: 09/19 01:58 〜 09/19 13:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 130 | 09/19 01:49 | 09/19 13:43 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 90 | 09/19 01:48 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 127 | 09/19 02:01 | 09/19 13:43 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 88 | 09/19 02:01 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 225 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 220 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 01:48 [financialjuice] Reports of an explosion near the Strait of Hormuz - al Hadath
-- 09/19 01:49 [FirstSquawk] REPORTS OF AN EXPLOSION OCCURRING IN THE VICINITY OF THE STRAIT OF HORMUZ
-- 09/19 01:54 [financialjuice] Top US NATO Commander Grynkewich participated in today's virtual briefing for Pentagon policy Chief Colby on potential approaches to US force posture review in Europe - Spokesperson
-- 09/19 01:54 [FirstSquawk] AS OF SEPTEMBER 18, CENTCOM FORCES HAVE DIRECTED 105 COMMERCIAL SHIPS TO ENSURE COMPLIANCE.
-- 09/19 01:57 [FirstSquawk] US MILITARY EXPERIENCED A NEAR MISS DUE TO AI-BASED FALSE INTELLIGENCE REPORT, SOURCES REVEAL.
 - 09/19 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 595 (FORECAST -, PREVIOUS 591) $MACRO
 - 09/19 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 452 (FORECAST -, PREVIOUS 450) $MACRO
 - 09/19 02:01 [FirstSquawk] US TOTAL RIG COUNT 595 , BAKER HUGHES SAYS
