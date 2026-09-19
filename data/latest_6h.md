@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 13:58 JST／対象: 09/19 07:58 〜 09/19 13:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 14:15 JST／対象: 09/19 08:15 〜 09/19 14:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 92 | 09/19 09:09 | 09/19 13:43 | 26分（09:24→09:50） |
+| FirstSquawk | 94 | 09/19 09:09 | 09/19 14:04 | 26分（09:24→09:50） |
 | financialjuice | 12 | 09/19 08:43 | 09/19 11:03 | ⚠ 49分（09:13→10:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 104 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 106 行（統合前 106 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -128,3 +128,5 @@
 - 09/19 13:31 [FirstSquawk] Anthropic’s post-IPO growth prospects come under investor scrutiny – FT
 - 09/19 13:34 [FirstSquawk] Pressure mounts on US State Department to reveal Venezuelan oil takings – FT
 - 09/19 13:43 [FirstSquawk] EU rejects push for bloc-wide digital services tax – FT
+- 09/19 13:59 [FirstSquawk] Malaysia’s Solarvest broadens energy business into batteries and power trading - NA
+- 09/19 14:04 [FirstSquawk] South Korea’s Cheong Wa Dae says Lee’s remarks do not amount to rejecting Trump’s Hormuz request – Yonhap

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 13:58 JST／対象: 09/19 01:58 〜 09/19 13:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 14:15 JST／対象: 09/19 02:15 〜 09/19 14:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 127 | 09/19 02:01 | 09/19 13:43 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 88 | 09/19 02:01 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 125 | 09/19 02:22 | 09/19 14:04 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 86 | 09/19 02:40 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 220 行（統合前 222 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 216 行（統合前 218 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 02:01 [financialjuice] US BAKER HUGHES TOTAL RIG COUNT ACTUAL 595 (FORECAST -, PREVIOUS 591) $MACRO
-- 09/19 02:01 [financialjuice] US BAKER HUGHES OIL RIG COUNT ACTUAL 452 (FORECAST -, PREVIOUS 450) $MACRO
-- 09/19 02:01 [FirstSquawk] US TOTAL RIG COUNT 595 , BAKER HUGHES SAYS
-- 09/19 02:01 [FirstSquawk] US OIL RIG COUNT UP 2 TO 452 , BAKER HUGHES SAYS
-- 09/19 02:04 [FirstSquawk] CANADA INDUSTRY MINISTER: STELLANTIS MUST REOPEN ONTARIO PLANT OR RETURN GOVT MONEY
-- 09/19 02:05 [FirstSquawk] WHITE HOUSE OFFICIAL: TRUMP PLANS TO SIGN THE RUSSIA SANCTIONS BILL TODAY - CBS
 - 09/19 02:22 [FirstSquawk] 3 COUNTERPARTIES TAKE $576.000M AT FED REVERSE REPO OP.
 - 09/19 02:30 [FirstSquawk] DUKE ENERGY ASKS CAROLINAS CUSTOMERS TO REDUCE POWER USE
 - 09/19 02:32 [FirstSquawk] WESTINGHOUSE PLANS TO SEEK A VALUATION EXCEEDING $50 BILLION FOR ITS U.S. INITIAL PUBLIC OFFERING.
@@ -244,3 +238,5 @@
 - 09/19 13:31 [FirstSquawk] Anthropic’s post-IPO growth prospects come under investor scrutiny – FT
 - 09/19 13:34 [FirstSquawk] Pressure mounts on US State Department to reveal Venezuelan oil takings – FT
 - 09/19 13:43 [FirstSquawk] EU rejects push for bloc-wide digital services tax – FT
+- 09/19 13:59 [FirstSquawk] Malaysia’s Solarvest broadens energy business into batteries and power trading - NA
+- 09/19 14:04 [FirstSquawk] South Korea’s Cheong Wa Dae says Lee’s remarks do not amount to rejecting Trump’s Hormuz request – Yonhap
