@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 06:31 JST／対象: 09/20 00:31 〜 09/20 06:31 JST（時刻はすべて日本時間）
+生成: 2026-09-20 06:42 JST／対象: 09/20 00:42 〜 09/20 06:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/20 00:34 | 09/20 03:47 | ⚠ 74分（02:18→03:32） |
+| DeItaone | 9 | 09/20 01:10 | 09/20 03:47 | ⚠ 74分（02:18→03:32） |
 | FirstSquawk | 22 | 09/20 00:58 | 09/20 03:10 | 44分（01:33→02:17） |
-| financialjuice | 19 | 09/20 00:31 | 09/20 04:39 | ⚠ 88分（00:33→02:01） |
+| financialjuice | 17 | 09/20 02:01 | 09/20 04:39 | ⚠ 58分（02:15→03:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 46 行（統合前 52 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 42 行（統合前 48 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 00:31 [financialjuice] Iran's top security official outlines conditions: end war on all fronts, unfreeze Iranian funds, lift naval blockade - Al Jazeera interview
-- 09/20 00:33 [financialjuice] Iran’s top security official: Tehran wants war between Saudi Arabia and Yemen to end - Al Jazeera interview
-- 09/20 00:34 [DeItaone] IRAN'S TOP SECURITY OFFICIAL SAYS TEHRAN WANTS WAR BETWEEN SAUDI ARABIA AND YEMEN TO END - AL JAZEERA INTERVIEW
-- 09/20 00:34 [DeItaone] IRAN'S TOP SECURITY OFFICIAL SAYS QATAR HAS CONVEYED TEHRAN'S CONDITIONS TO WASHINGTON TO END WAR, AWAITING TRUMP RESPONSE - AL JAZEERA INTERVIEW
 - 09/20 00:58 [FirstSquawk] Iranian National Security Council Secretary: We know the weaknesses of the US military and are more prepared than ever to counter its air attacks.
 - 09/20 00:58 [FirstSquawk] Secretary of Iran's Supreme National Security Council: We have reached the conclusion that we must change our strategy towards Washington after its withdrawal from the Memorandum of Understanding
 - 09/20 00:58 [FirstSquawk] Iranian National Security Council Secretary: We recently tested an anti-ship missile near a US aircraft carrier
