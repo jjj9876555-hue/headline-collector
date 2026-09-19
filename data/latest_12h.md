@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 10:15 JST／対象: 09/18 22:15 〜 09/19 10:15 JST（時刻はすべて日本時間）
+生成: 2026-09-19 10:32 JST／対象: 09/18 22:32 〜 09/19 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 110 | 09/18 22:16 | 09/19 10:08 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 129 | 09/18 22:16 | 09/19 10:15 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 117 | 09/18 22:34 | 09/19 10:31 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 122 | 09/18 22:33 | 09/19 10:20 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 241 行（統合前 249 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,19 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 22:16 [financialjuice] US Industrial Production and Capacity Utilization August Report
-- 09/18 22:16 [FirstSquawk] U.S. INDUSTRIAL PRODUCTION FOR AUGUST REMAINED STABLE MONTH-OVER-MONTH; ESTIMATES WERE FOR A +0.3% INCREASE.
-- 09/18 22:17 [FirstSquawk] US FACTORY OUTPUT DROPPED BY 0.3% IN AUGUST, WHILE EXPECTATIONS WERE FOR A 0.3% INCREASE.
-- 09/18 22:20 [FirstSquawk] TRUMP WILL REVEAL A MODEL FOR MEDICAID DRUG PRICING COVERING ALL 50 STATES, D.C., AND PUERTO RICO, ACCORDING TO A WHITE HOUSE OFFICIAL.
-- 09/18 22:23 [FirstSquawk] US LAW FIRM WEIL EXAMINES MERGER POSSIBILITIES FOLLOWING THE EXIT OF KEY PARTNERS.
-- 09/18 22:25 [financialjuice] US INDUSTRIAL PRODUCTION YOY ACTUAL 1.42% (FORECAST -, PREVIOUS 1.08%) $MACRO
-- 09/18 22:27 [financialjuice] PBoC Vice Governor: AI brings new risks to finance.
-- 09/18 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 935.5 MLN NASDAQ 100: 1127.1 MLN DOW 30: 311.3 MLN MAG 7: 655.3 MLN $MACRO
-- 09/18 22:31 [financialjuice] Fed Vice Chair for Supervision Bowman does not comment on economic or monetary policy outlook in prepared remarks to event in London.
-- 09/18 22:31 [FirstSquawk] S&P 500 UP 9.60 POINTS, OR 0.13 PERCENT, AT 7,647.36 AFTER MARKET OPEN NASDAQ UP 110.73 POINTS, OR 0.42 PERCENT, AT 26,529.03 AFTER MARKET OPEN DOW JONES DOWN 85.24 POINTS, OR 0.16 PERCENT, AT 51,692.80 AFTER MARKET OPEN
-- 09/18 22:31 [financialjuice] Fed's Bowman: Supervisory delays were not due to deregulatory efforts pursued earlier by the Fed.
-- 09/18 22:32 [financialjuice] Fed's Bowman: Changes will make tests more reliable and reduce volatility in bank capital requirements.
-- 09/18 22:32 [financialjuice] Fed's Bowman: The Fed will finalize reforms to make bank stress tests more transparent and accountable in the coming weeks.
 - 09/18 22:33 [financialjuice] Fed's Bowman: The Fed, going forward, will average the bank's last two stress tests when assigning the lender's 'stress capital buffer’.
 - 09/18 22:34 [FirstSquawk] FED'S BOWMAN MAKES NO COMMENTS ON THE ECONOMY OR MONETARY POLICY IN HER PREPARED STATEMENT.
 - 09/18 22:34 [FirstSquawk] BOWMAN CLAIMS FEDERAL SUPERVISORS SHOULD HAVE IDENTIFIED SVB'S WEAKNESSES AS EARLY AS MARCH 2022, OVER A YEAR PRIOR TO THE BANK'S COLLAPSE.
@@ -265,3 +252,16 @@
 - 09/19 10:07 [FirstSquawk] System southwest of Azores has 80% chance of cyclone formation within 48 hours, NHC says
 - 09/19 10:08 [FirstSquawk] Jensen Huang says he agrees with Trump on AI, sees no risk of it ending the world by 2030
 - 09/19 10:15 [financialjuice] Over call for accelerated AI development: Politico
+- 09/19 10:16 [FirstSquawk] Adobe’s Shantanu Narayen reports sale of 125,000 shares at $249.53–$253.74 each
+- 09/19 10:17 [FirstSquawk] OPENAI sees revenue climbing from $36B to $350B by 2030, with expenses far exceeding revenues – FT
+- 09/19 10:17 [FirstSquawk] OpenAI faces projected $280B cash burn through 2030, FT reports
+- 09/19 10:19 [FirstSquawk] Trump and Xi set to deliver remarks at state dinner, White House spokeswoman says
+- 09/19 10:20 [FirstSquawk] Lawsuit targets Anthropic, OpenAI, xAI and Google over efforts to accelerate AI development – Politico
+- 09/19 10:20 [financialjuice] China vice premier He Lifeng to lead trade delegation to US Sept. 19-23: MOFCOM
+- 09/19 10:21 [FirstSquawk] He Lifeng to head Chinese trade delegation for US visit from Sept. 19–23 – MOFCOM
+- 09/19 10:25 [FirstSquawk] AI diplomacy takes center stage; A senior US official confirms that artificial intelligence risks and safeguards are formally set for discussion in the upcoming bilateral meeting with Xi Jinping. The focus will likely center on autonomous w…
+- 09/19 10:26 [FirstSquawk] Keeping the trade détente intact is officially up for negotiation. The Busan truce has been added to the Trump–Xi summit agenda, signaling that both sides want to avoid a fresh wave of retaliatory tariffs and export bans before current agre…
+- 09/19 10:27 [FirstSquawk] Institutional demand builds in Brazilian homebuilding: Invesco has expanded its equity footprint in Cyrela Brazil Realty, crossing the 5% common share ownership threshold according to a regulatory disclosure.
+- 09/19 10:27 [FirstSquawk] Bezos, Musk, Dell and Altman among guests expected at state dinner – senior US official
+- 09/19 10:28 [FirstSquawk] US official: More cooperation from China needed on fentanyl issue
+- 09/19 10:31 [FirstSquawk] Trump bars CNN, MS NOW and Politico from White House, accuses outlets of publishing “fake news”
