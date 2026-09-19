@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 08:42 JST／対象: 09/20 02:42 〜 09/20 08:42 JST（時刻はすべて日本時間）
+生成: 2026-09-20 08:52 JST／対象: 09/20 02:52 〜 09/20 08:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 03:32 | 09/20 03:47 | 15分（03:32→03:47） |
-| FirstSquawk | 2 | 09/20 02:50 | 09/20 03:10 | 20分（02:50→03:10） |
+| FirstSquawk | 1 | 09/20 03:10 | 09/20 03:10 | - |
 | financialjuice | 11 | 09/20 03:13 | 09/20 04:39 | 36分（04:01→04:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 15 行（統合前 15 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 14 行（統合前 14 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 02:50 [FirstSquawk] Israeli Army: We killed a commander in the military wing of the Hamas movement in the Khan Younis area of the Gaza Strip last Thursday
 - 09/20 03:10 [FirstSquawk] Israeli army announces the killing of a Hamas leader who entered Israel during the events of October 7.
 - 09/20 03:13 [financialjuice] US Treasury's Bessent, USTR Greer to meet Chinese Vice Premier He Lifeng on Sunday at JPMorgan headquarters in New York - source
 - 09/20 03:22 [financialjuice] Turkish foreign minister: current middle east crisis no longer economically bearable
