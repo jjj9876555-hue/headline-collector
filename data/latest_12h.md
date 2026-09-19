@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 13:32 JST／対象: 09/19 01:32 〜 09/19 13:32 JST（時刻はすべて日本時間）
+生成: 2026-09-19 13:45 JST／対象: 09/19 01:45 〜 09/19 13:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 132 | 09/19 01:35 | 09/19 13:31 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 93 | 09/19 01:32 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 130 | 09/19 01:49 | 09/19 13:43 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 90 | 09/19 01:48 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 230 行（統合前 233 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 225 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 01:32 [financialjuice] Trump: We’ll see’ on whether to annihilate Iran - NewsNation
-- 09/19 01:35 [FirstSquawk] TRUMP TELLS NEWSNATION ‘WE’LL SEE’ ON WHETHER TO ‘ANNIHILATE’ IRAN
-- 09/19 01:38 [financialjuice] Fed's Schmid: We are in a fairly normalized place.
-- 09/19 01:39 [FirstSquawk] FED'S SCHMID: ECONOMY STRONG, GROWING
-- 09/19 01:42 [FirstSquawk] FED'S SCHMID: US ECONOMY IS STRONG, GROWING; WE’RE IN A FAIRLY NORMALIZED PLACE
-- 09/19 01:44 [financialjuice] Senior Saudi security, military delegation met Mossad and Israeli military intelligence leaders to seek support against Houthi operations under US CENTCOM supervision - Palestinian source via ISNA
-- 09/19 01:44 [FirstSquawk] A RELIABLE AMERICAN OFFICIAL REVEALED THAT 60 MILLION BARRELS OF OIL, BELIEVED TO BE FROM IRAN, ARE TRAPPED ON SHIPS FACING SANCTIONS.
 - 09/19 01:48 [financialjuice] Reports of an explosion near the Strait of Hormuz - al Hadath
 - 09/19 01:49 [FirstSquawk] REPORTS OF AN EXPLOSION OCCURRING IN THE VICINITY OF THE STRAIT OF HORMUZ
 - 09/19 01:54 [financialjuice] Top US NATO Commander Grynkewich participated in today's virtual briefing for Pentagon policy Chief Colby on potential approaches to US force posture review in Europe - Spokesperson
@@ -254,3 +247,5 @@
 - 09/19 13:19 [FirstSquawk] Gemini AI model breached real-world systems in security test, Google says – SCMP
 - 09/19 13:24 [FirstSquawk] British farmers see potential for homegrown chickpeas as summers turn drier – FT
 - 09/19 13:31 [FirstSquawk] Anthropic’s post-IPO growth prospects come under investor scrutiny – FT
+- 09/19 13:34 [FirstSquawk] Pressure mounts on US State Department to reveal Venezuelan oil takings – FT
+- 09/19 13:43 [FirstSquawk] EU rejects push for bloc-wide digital services tax – FT

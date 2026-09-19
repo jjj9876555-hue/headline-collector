@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 13:32 JST／対象: 09/18 13:32 〜 09/19 13:32 JST（時刻はすべて日本時間）
+生成: 2026-09-19 13:45 JST／対象: 09/18 13:45 〜 09/19 13:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 295 | 09/18 13:32 | 09/19 13:31 | ⚠ 241分（05:07→09:09） |
+| FirstSquawk | 294 | 09/18 13:52 | 09/19 13:43 | ⚠ 241分（05:07→09:09） |
 | financialjuice | 211 | 09/18 14:00 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 511 行（統合前 520 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 510 行（統合前 519 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 13:32 [FirstSquawk] PAKISTAN IN CRISIS MODE: MARKETS TO SHUT BY 9 PM, FUEL USE SLASHED 50%, FOREIGN TRAVEL RESTRICTED
-- 09/18 13:35 [FirstSquawk] Kansai Electric finishes decommissioning work on problematic Mihama nuclear reactor.
-- 09/18 13:44 [FirstSquawk] Yonhap: North Korea’s nuclear test may have triggered more than 1,300 earthquakes, report says.
 - 09/18 13:52 [FirstSquawk] FXStreet: WTI crude consolidates below $96.50 as Middle East tensions continue to support bullish sentiment.
 - 09/18 14:00 [FirstSquawk] A cargo vessel in Ukraine’s Chornomorsk was hit by Russia, according to Russian news agencies citing the Defence Ministry.
 - 09/18 14:00 [financialjuice] Russia strikes cargo ship in Ukraine's Chornomorsk: Russian news agencies cite defense ministry
@@ -535,3 +532,5 @@
 - 09/19 13:19 [FirstSquawk] Gemini AI model breached real-world systems in security test, Google says – SCMP
 - 09/19 13:24 [FirstSquawk] British farmers see potential for homegrown chickpeas as summers turn drier – FT
 - 09/19 13:31 [FirstSquawk] Anthropic’s post-IPO growth prospects come under investor scrutiny – FT
+- 09/19 13:34 [FirstSquawk] Pressure mounts on US State Department to reveal Venezuelan oil takings – FT
+- 09/19 13:43 [FirstSquawk] EU rejects push for bloc-wide digital services tax – FT

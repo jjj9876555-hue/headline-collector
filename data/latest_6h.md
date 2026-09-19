@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 13:32 JST／対象: 09/19 07:32 〜 09/19 13:32 JST（時刻はすべて日本時間）
+生成: 2026-09-19 13:45 JST／対象: 09/19 07:45 〜 09/19 13:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 90 | 09/19 09:09 | 09/19 13:31 | 26分（09:24→09:50） |
-| financialjuice | 16 | 09/19 07:34 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 92 | 09/19 09:09 | 09/19 13:43 | 26分（09:24→09:50） |
+| financialjuice | 12 | 09/19 08:43 | 09/19 11:03 | ⚠ 49分（09:13→10:03） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 106 行（統合前 106 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 104 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 07:34 [financialjuice] Senior US administration official: Security council to hold meeting on AI and governance
-- 09/19 07:35 [financialjuice] OpenAI forecasts $280 billion spend by 2030: FT
-- 09/19 07:37 [financialjuice] OpenAI expects costs to greatly exceed revenues: sales projected to rise from $36bn this year to $350bn in 2030 - FT
-- 09/19 07:38 [financialjuice] OpenAI projects $840 billion in revenue through 2030 - FT
 - 09/19 08:43 [financialjuice] Nvidia CEO Jensen Huang: agrees with Trump on AI, doesn’t think it will end world by 2030 - CBS News
 - 09/19 08:55 [financialjuice] Ustr Jamieson Greer to join Treasury Secretary Bessent in meeting with Chinese Vice Premier He Lifeng: statement
 - 09/19 09:00 [financialjuice] Saudi civil defense issues warning over potential hazard in Riyadh
@@ -130,3 +126,5 @@
 - 09/19 13:19 [FirstSquawk] Gemini AI model breached real-world systems in security test, Google says – SCMP
 - 09/19 13:24 [FirstSquawk] British farmers see potential for homegrown chickpeas as summers turn drier – FT
 - 09/19 13:31 [FirstSquawk] Anthropic’s post-IPO growth prospects come under investor scrutiny – FT
+- 09/19 13:34 [FirstSquawk] Pressure mounts on US State Department to reveal Venezuelan oil takings – FT
+- 09/19 13:43 [FirstSquawk] EU rejects push for bloc-wide digital services tax – FT
