@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 09:48 JST／対象: 09/18 09:48 〜 09/19 09:48 JST（時刻はすべて日本時間）
+生成: 2026-09-19 09:59 JST／対象: 09/18 09:59 〜 09/19 09:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 306 | 09/18 09:49 | 09/19 09:24 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 287 | 09/18 09:53 | 09/19 09:13 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 306 | 09/18 10:01 | 09/19 09:53 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 286 | 09/18 10:00 | 09/19 09:13 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 598 行（統合前 607 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 597 行（統合前 606 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 09:49 [FirstSquawk] Oil declines amid easing concerns over Middle East supply disruptions - WSJ
-- 09/18 09:52 [FirstSquawk] Lebanon’s army commander discusses priorities and requirements for roadmap implementation
-- 09/18 09:53 [FirstSquawk] RBA’s Bullock: Consensus is that the neutral interest rate is now higher
-- 09/18 09:53 [financialjuice] RBA Governor Bullock: broad agreement that neutral interest rate has increased
-- 09/18 09:58 [FirstSquawk] Asia-Pacific markets start firmer, taking cues from Wall Street and easing oil prices
 - 09/18 10:00 [financialjuice] Taiwan overnight interbank rate begins at 0.805% versus previous session open at 0.805%
 - 09/18 10:01 [FirstSquawk] Taiwan overnight rate opens steady at 0.805%
 - 09/18 10:05 [FirstSquawk] 40-year JGB yield declines 5 bps to 4.065%
@@ -622,3 +617,7 @@
 - 09/19 09:23 [FirstSquawk] Trump willing to hold talks with Kim Jong Un, North Korea must make next move — U.S. official
 - 09/19 09:23 [FirstSquawk] U.S. official stresses importance of diplomacy with Gulf allies during UNGA
 - 09/19 09:24 [FirstSquawk] UN Security Council to convene meeting on artificial intelligence and governance — U.S. official
+- 09/19 09:50 [FirstSquawk] Vingroup founder Pham Nhat Vuong transfers VinFast, GSM leadership to sons
+- 09/19 09:51 [FirstSquawk] China tightens entry and exit regulations, raising compliance concerns for businesses
+- 09/19 09:52 [FirstSquawk] Resonac, Nitto Denko join TSMC, ASML in U.S. investment focused on AI production bottlenecks
+- 09/19 09:53 [FirstSquawk] Trump says son will repay Russian businessman who funded wedding festivities — SCMP
