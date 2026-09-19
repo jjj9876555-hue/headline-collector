@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 11:32 JST／対象: 09/19 05:32 〜 09/19 11:32 JST（時刻はすべて日本時間）
+生成: 2026-09-19 11:45 JST／対象: 09/19 05:45 〜 09/19 11:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/19 06:15 | 09/19 06:23 | 4分（06:15→06:20） |
-| FirstSquawk | 62 | 09/19 09:09 | 09/19 11:31 | 26分（09:24→09:50） |
-| financialjuice | 54 | 09/19 05:36 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 67 | 09/19 09:09 | 09/19 11:43 | 26分（09:24→09:50） |
+| financialjuice | 51 | 09/19 06:04 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 121 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 123 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 05:36 [financialjuice] Trump ends remarks to reporters at the White House.
-- 09/19 05:41 [financialjuice] Russia seeks to undermine the US elections - NYT, citing intelligence.
-- 09/19 05:42 [financialjuice] Russia Aims to Inject Chaos Into Elections, U.S. Intelligence Finds
 - 09/19 06:04 [financialjuice] South Korean foreign minister reaffirms to Rubio Sequil intent to contribute significantly to restoring free passage through Hormuz Strait - Yonhap
 - 09/19 06:11 [financialjuice] US, Denmark nearing agreement on Greenland, sources say
 - 09/19 06:11 [financialjuice] Deal will boost military presence in Greenland without impacting sovereignty, sources say
@@ -145,3 +142,8 @@
 - 09/19 11:28 [FirstSquawk] IAEA resolution has no impact on North Korea’s nuclear-state status, KCNA says
 - 09/19 11:29 [FirstSquawk] Kim Jong Un says military modernization signals significant change in North Korea’s war plans – KCNA
 - 09/19 11:31 [FirstSquawk] Saudi Civil Defense: Danger in Riyadh has passed
+- 09/19 11:33 [FirstSquawk] Danger in Al Kharj has passed, Saudi Civil Defense says
+- 09/19 11:40 [FirstSquawk] Lebanon faces sharp economic contraction in 2026 as inflation stays in double digits – IMF
+- 09/19 11:40 [FirstSquawk] IMF staff concludes mission to Lebanon
+- 09/19 11:41 [FirstSquawk] IMF says Lebanon has advanced on budget management since its previous staff mission
+- 09/19 11:43 [FirstSquawk] Paramount considers selling some cable channels, including Comedy Central, amid Warner Bros. merger talks – NYT

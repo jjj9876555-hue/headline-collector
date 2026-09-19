@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 11:32 JST／対象: 09/18 23:32 〜 09/19 11:32 JST（時刻はすべて日本時間）
+生成: 2026-09-19 11:45 JST／対象: 09/18 23:45 〜 09/19 11:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 128 | 09/18 23:36 | 09/19 11:31 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 113 | 09/18 23:40 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 129 | 09/18 23:52 | 09/19 11:43 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 112 | 09/18 23:56 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 243 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 23:36 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: WE RESPECT CANADA'S DECISION TO APPROACH EU
-- 09/18 23:40 [FirstSquawk] SAUDI ARABIA'S EAST-WEST PIPELINE SUPPORTS THE GLOBAL OIL MARKET AMIDST DISRUPTIONS IN THE STRAIT OF HORMUZ.
-- 09/18 23:40 [financialjuice] Al Arabiya Sources: Pakistan's Interior Minister is heading to Iran in the coming hours.
-- 09/18 23:44 [FirstSquawk] PAKISTAN'S INTERIOR MINISTER HEADS TO IRAN IN THE COMING HOURS
-- 09/18 23:45 [FirstSquawk] PAKISTANI INTERIOR MINISTER DISCUSSES HOUTHI ESCALATION IN YEMEN DURING TEHRAN VISIT
 - 09/18 23:52 [FirstSquawk] SAUDI PIPELINE BUFFERS GLOBAL OIL MARKETS FROM HORMUZ CHOKEPOINTS Saudi Arabia's East-West Pipeline functions as a critical economic safety valve, allowing millions of barrels of crude to bypass the volatile Strait of Hormuz and flow direct…
 - 09/18 23:56 [financialjuice] AWS signs a 5-year strategic collaboration pact with SAP to expand SAP Business AI platform to 7 new AWS regions. $AMZN $SAP
 - 09/18 23:57 [FirstSquawk] COOLING TOWER AT KURSK NUCLEAR PLANT DAMAGED BY DRONE ATTACK, SAYS IAEA.
@@ -267,3 +262,8 @@
 - 09/19 11:28 [FirstSquawk] IAEA resolution has no impact on North Korea’s nuclear-state status, KCNA says
 - 09/19 11:29 [FirstSquawk] Kim Jong Un says military modernization signals significant change in North Korea’s war plans – KCNA
 - 09/19 11:31 [FirstSquawk] Saudi Civil Defense: Danger in Riyadh has passed
+- 09/19 11:33 [FirstSquawk] Danger in Al Kharj has passed, Saudi Civil Defense says
+- 09/19 11:40 [FirstSquawk] Lebanon faces sharp economic contraction in 2026 as inflation stays in double digits – IMF
+- 09/19 11:40 [FirstSquawk] IMF staff concludes mission to Lebanon
+- 09/19 11:41 [FirstSquawk] IMF says Lebanon has advanced on budget management since its previous staff mission
+- 09/19 11:43 [FirstSquawk] Paramount considers selling some cable channels, including Comedy Central, amid Warner Bros. merger talks – NYT

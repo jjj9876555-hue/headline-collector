@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 11:32 JST／対象: 09/18 11:32 〜 09/19 11:32 JST（時刻はすべて日本時間）
+生成: 2026-09-19 11:45 JST／対象: 09/18 11:45 〜 09/19 11:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 322 | 09/18 11:32 | 09/19 11:31 | ⚠ 241分（05:07→09:09） |
+| FirstSquawk | 321 | 09/18 11:47 | 09/19 11:43 | ⚠ 241分（05:07→09:09） |
 | financialjuice | 268 | 09/18 11:50 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 595 行（統合前 604 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 594 行（統合前 603 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 11:32 [FirstSquawk] Tokyo weighs ordinance banning littering as downtown waste concerns grow
-- 09/18 11:35 [FirstSquawk] Pound steadies above 1.3350 ahead of UK retail sales data - FX
-- 09/18 11:37 [FirstSquawk] SpaceX’s Starship Flight 14 set to target launch from Sept. 28
-- 09/18 11:39 [FirstSquawk] Indonesia Finance Minister: Budget deficit stood at 0.93% of GDP in January-August
-- 09/18 11:42 [FirstSquawk] Japan’s JGB yields fall as concerns over energy-driven inflation ease - WSJ
-- 09/18 11:43 [FirstSquawk] Indonesia’s Finance Minister: Economic data shows the economy remains resilient
 - 09/18 11:47 [FirstSquawk] The U.S. and China agree AI needs guardrails, but their priorities differ sharply -WSJ Washington focuses on autonomous systems, cyber risks and human control, while Beijing emphasizes political, ideological and cybersecurity concerns. The …
 - 09/18 11:50 [financialjuice] S.Korea president Lee: single-stock leveraged ETFs came in near final phase of stock rally
 - 09/18 11:51 [FirstSquawk] Indonesia expects an impact from a potential U.S. interest rate hike. Higher U.S. rates could affect Indonesia through capital flows, the rupiah and broader financial conditions. The policy gap between the U.S. and Indonesia remains a key m…
@@ -619,3 +613,8 @@
 - 09/19 11:28 [FirstSquawk] IAEA resolution has no impact on North Korea’s nuclear-state status, KCNA says
 - 09/19 11:29 [FirstSquawk] Kim Jong Un says military modernization signals significant change in North Korea’s war plans – KCNA
 - 09/19 11:31 [FirstSquawk] Saudi Civil Defense: Danger in Riyadh has passed
+- 09/19 11:33 [FirstSquawk] Danger in Al Kharj has passed, Saudi Civil Defense says
+- 09/19 11:40 [FirstSquawk] Lebanon faces sharp economic contraction in 2026 as inflation stays in double digits – IMF
+- 09/19 11:40 [FirstSquawk] IMF staff concludes mission to Lebanon
+- 09/19 11:41 [FirstSquawk] IMF says Lebanon has advanced on budget management since its previous staff mission
+- 09/19 11:43 [FirstSquawk] Paramount considers selling some cable channels, including Comedy Central, amid Warner Bros. merger talks – NYT
