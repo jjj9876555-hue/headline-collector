@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 18:58 JST／対象: 09/18 18:58 〜 09/19 18:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 19:16 JST／対象: 09/18 19:16 〜 09/19 19:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/18 19:08 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 250 | 09/18 19:01 | 09/19 18:41 | ⚠ 241分（05:07→09:09） |
+| DeItaone | 8 | 09/18 20:26 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
+| FirstSquawk | 248 | 09/18 19:17 | 09/19 18:41 | ⚠ 241分（05:07→09:09） |
 | financialjuice | 169 | 09/18 19:18 | 09/19 18:40 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 423 行（統合前 431 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 420 行（統合前 428 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 19:01 [FirstSquawk] BERKSHIRE HAS APPOINTED WARREN BUFFETT AS CHAIRMAN EMERITUS.
-- 09/18 19:08 [DeItaone] ANTHROPIC BUILDS BIOLOGY LAB TO PUSH AI INTO DRUG DEVELOPMENT Anthropic has quietly established a Bay Area wet lab, moving its life-sciences ambitions beyond computer simulations and into physical biological experiments. The company wants C…
-- 09/18 19:14 [FirstSquawk] RUSSIAN MILITARY STRIKES CARGO SHIP IN ODESA, ACCORDING TO DEFENSE MINISTRY.
 - 09/18 19:17 [FirstSquawk] EU SPOKESPERSON ANNOUNCED AN EU-CANADA SUMMIT AT THE END OF OCTOBER TO DISCUSS IMPROVING RELATIONS.
 - 09/18 19:18 [financialjuice] EU Spokesperson: At end of October EU-Canada summit will take place where we explore parameters for enhancing relationship.
 - 09/18 19:36 [financialjuice] Italy's Economy Minister: Debt burden has begun to rise at an alarming rate.
