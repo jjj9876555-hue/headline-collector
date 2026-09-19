@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 00:43 JST／対象: 09/19 00:43 〜 09/20 00:43 JST（時刻はすべて日本時間）
+生成: 2026-09-20 00:53 JST／対象: 09/19 00:53 〜 09/20 00:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/19 05:09 | 09/20 00:34 | ⚠ 1016分（06:23→23:19） |
-| FirstSquawk | 247 | 09/19 00:49 | 09/20 00:26 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 126 | 09/19 00:48 | 09/20 00:33 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 246 | 09/19 01:01 | 09/20 00:26 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 124 | 09/19 01:06 | 09/20 00:33 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 378 行（統合前 386 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 376 行（統合前 382 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 00:48 [financialjuice/FirstSquawk] BoJ likely conducted rate checks in currency market - Nikkei
-- 09/19 00:51 [financialjuice] Fed's Schmid: I agree with Chairman Warsh's framework on why bond yields have gone up. Economic growth, demand for capital from al investment, geopolitical challenges.
 - 09/19 01:01 [FirstSquawk] CITIGROUP’S FRASER EXPECTED TO ATTEND TRUMP'S STATE DINNER FOR CHINESE PRESIDENT XI
 - 09/19 01:06 [financialjuice] A shipment of F-35 parts diverted to HK this summer - Politico. $LMT
 - 09/19 01:08 [FirstSquawk] FED'S SCHMID: AGREES WITH WARSH ON ECONOMIC GROWTH, DEMAND FOR CAPITAL FROM AI INVESTMENT, GEOPOLITICAL CHALLENGES CAUSING BOND YIELDS TO RISE
