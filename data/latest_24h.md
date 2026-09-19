@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 18:01 JST／対象: 09/18 18:01 〜 09/19 18:01 JST（時刻はすべて日本時間）
+生成: 2026-09-19 18:18 JST／対象: 09/18 18:18 〜 09/19 18:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 235 | 09/18 18:02 | 09/19 16:40 | ⚠ 241分（05:07→09:09） |
+| DeItaone | 10 | 09/18 18:54 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
+| FirstSquawk | 229 | 09/18 18:30 | 09/19 16:40 | ⚠ 241分（05:07→09:09） |
 | financialjuice | 166 | 09/18 18:31 | 09/19 17:42 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 406 行（統合前 415 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 399 行（統合前 408 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 18:02 [FirstSquawk] NATO ALLIES HOLD "ARCTIC SHIELD" DRILL IN GREENLAND.
-- 09/18 18:11 [DeItaone] U.S. COULD RELEASE MORE OIL FROM SPR Energy Secretary Chris Wright says another round of crude loans from the Strategic Petroleum Reserve is a “very real possibility” as higher oil prices and steep futures backwardation boost demand for bar…
-- 09/18 18:12 [FirstSquawk] UKRAINE'S PRESIDENT ZELENSKYY UNVEILS THE NEW CARPATHIAN EIGHT COOPERATION GROUP.
-- 09/18 18:12 [FirstSquawk] SOFTBANK INCREASES CREDIT LINE TO $6.5 BILLION FROM $6.05 BILLION DUE TO RISING AI DEBTS.
-- 09/18 18:17 [FirstSquawk] EU WILL PROVIDE €3.3 BILLION TO UKRAINE ON SEPTEMBER 18, ACCORDING TO VON DER LEYEN.
-- 09/18 18:17 [FirstSquawk] VON DER LEYEN STATES THEY ARE PREPARED FOR COLLABORATIVE DEFENSE INITIATIVES BETWEEN THE EU AND UKRAINE.
-- 09/18 18:17 [FirstSquawk] VON DER LEYEN STATED THAT NECESSARY RADA REFORMS WERE TALKED ABOUT.
 - 09/18 18:30 [FirstSquawk] NATO SECRETARY GENERAL PLANS A VISIT TO THE UNITED STATES.
 - 09/18 18:31 [FirstSquawk] JAPAN'S CABINET APPROVAL INCREASES BY 3.2 POINTS TO 33.4%, ACCORDING TO KYODO POLL.
 - 09/18 18:31 [financialjuice] Japan Cabinet approval rises 3.2 ppts to 53.4% -Kyodo Poll
