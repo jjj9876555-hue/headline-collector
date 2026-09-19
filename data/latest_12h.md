@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 16:36 JST／対象: 09/19 04:36 〜 09/19 16:36 JST（時刻はすべて日本時間）
+生成: 2026-09-19 16:49 JST／対象: 09/19 04:49 〜 09/19 16:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 113 | 09/19 04:40 | 09/19 14:55 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 76 | 09/19 04:39 | 09/19 15:14 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 113 | 09/19 04:50 | 09/19 16:40 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 74 | 09/19 04:50 | 09/19 16:48 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 195 行（統合前 196 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 193 行（統合前 194 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 04:39 [financialjuice] Speculators took a bullish JPY stance as of September 15th - CFTC.
-- 09/19 04:39 [financialjuice] CFTC Positions in the Week of September 15th 2026
-- 09/19 04:40 [FirstSquawk] LABOUR CONSIDERS LOWERING MANSION TAX THRESHOLD TO GBP1.5 MLN – TIMES
-- 09/19 04:41 [financialjuice] Trump makes an announcement on healthcare - WATCH LIVE
-- 09/19 04:47 [financialjuice] Goldman Sachs, JPMorgan, Morgan Stanley lead bookrunners for NScale IPO - SEC filing.
-- 09/19 04:49 [financialjuice] Nscale: Anthropic services agreements provide for aggregate payments to us of up to about $44.6 billion
 - 09/19 04:50 [financialjuice] Nscale: On August 25, 2026 we entered into a series of GPU services agreements with Anthropic.
 - 09/19 04:50 [FirstSquawk] NSCALE HAS SUBMITTED ITS APPLICATION FOR AN IPO AND AIMS TO BE LISTED ON THE NYSE UNDER THE TICKER 'NSCL.'
 - 09/19 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -5524.6 MLN NASDAQ 100: 37.6 MLN DOW 30: -362.2 MLN MAG 7: -260.1 MLN $MACRO
@@ -219,3 +213,7 @@
 - 09/19 14:54 [FirstSquawk] Alibaba releases open-source AI model for detecting cancer and nearly 150 medical conditions - SCMP
 - 09/19 14:55 [FirstSquawk] Pay for foreign elderly carers to be 10%–20% above current helper wages - SCMP
 - 09/19 15:14 [financialjuice] Iran executes man convicted of sharing missile site details with Israel during war: judiciary site
+- 09/19 16:40 [FirstSquawk] POLAND ARMY: PREEMPTIVE OPERATIONS BEGUN TO PROTECT POLISH AIRSPACE AMID RUSSIAN STRIKES ON UKRAINE
+- 09/19 16:46 [financialjuice] Russian forces strike Ukrainian cargo ship and tanker in Black Sea and Ukraine port: IFX
+- 09/19 16:46 [financialjuice] China's central bank advisor: AI may exacerbate strong supply, weak demand in economy
+- 09/19 16:48 [financialjuice] China's central bank advisor: China has rebalanced its economy, but progress is insufficient

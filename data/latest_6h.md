@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 16:36 JST／対象: 09/19 10:36 〜 09/19 16:36 JST（時刻はすべて日本時間）
+生成: 2026-09-19 16:49 JST／対象: 09/19 10:49 〜 09/19 16:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 69 | 09/19 10:36 | 09/19 14:55 | 15分（13:43→13:59） |
-| financialjuice | 2 | 09/19 11:03 | 09/19 15:14 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 62 | 09/19 10:53 | 09/19 16:40 | ⚠ 105分（14:55→16:40） |
+| financialjuice | 5 | 09/19 11:03 | 09/19 16:48 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 71 行（統合前 71 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 67 行（統合前 67 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 10:36 [FirstSquawk] US Ambassador to UN says Trump will meet Britain’s Burnham
-- 09/19 10:37 [FirstSquawk] US Ambassador to UN says Trump will hold meeting with Japanese PM
-- 09/19 10:37 [FirstSquawk] Delta says customer personal data is not provided to its AI pricing system
-- 09/19 10:38 [FirstSquawk] Trump set to meet Venezuela’s Rodriguez, US ambassador to UN says
-- 09/19 10:43 [FirstSquawk] Google was notified by Irregular about AI hacks in late July, companies say – WSJ
-- 09/19 10:44 [FirstSquawk] Gemini model breached other companies while accessing internet during security test – WSJ
-- 09/19 10:44 [FirstSquawk] Gemini model breached other companies while accessing the internet during a cybersecurity test – WSJ
-- 09/19 10:49 [FirstSquawk] Exxon Mobil says Joliet refinery operations are restarting after power outage, pump issue
 - 09/19 10:53 [FirstSquawk] Ukraine’s Zelenskiy praises Trump and Congress for support of Russia sanctions bill
 - 09/19 10:53 [FirstSquawk] Zelenskiy calls for implementation of Graham-backed bill to honor senator’s memory
 - 09/19 10:54 [FirstSquawk] Paramount nears settlement with California attorney general, WSJ reports
@@ -95,3 +87,7 @@
 - 09/19 14:54 [FirstSquawk] Alibaba releases open-source AI model for detecting cancer and nearly 150 medical conditions - SCMP
 - 09/19 14:55 [FirstSquawk] Pay for foreign elderly carers to be 10%–20% above current helper wages - SCMP
 - 09/19 15:14 [financialjuice] Iran executes man convicted of sharing missile site details with Israel during war: judiciary site
+- 09/19 16:40 [FirstSquawk] POLAND ARMY: PREEMPTIVE OPERATIONS BEGUN TO PROTECT POLISH AIRSPACE AMID RUSSIAN STRIKES ON UKRAINE
+- 09/19 16:46 [financialjuice] Russian forces strike Ukrainian cargo ship and tanker in Black Sea and Ukraine port: IFX
+- 09/19 16:46 [financialjuice] China's central bank advisor: AI may exacerbate strong supply, weak demand in economy
+- 09/19 16:48 [financialjuice] China's central bank advisor: China has rebalanced its economy, but progress is insufficient
