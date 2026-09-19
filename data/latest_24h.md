@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 00:31 JST／対象: 09/19 00:31 〜 09/20 00:31 JST（時刻はすべて日本時間）
+生成: 2026-09-20 00:43 JST／対象: 09/19 00:43 〜 09/20 00:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/19 05:09 | 09/19 23:19 | ⚠ 1016分（06:23→23:19） |
-| FirstSquawk | 250 | 09/19 00:40 | 09/20 00:26 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 130 | 09/19 00:32 | 09/20 00:28 | ⚠ 251分（11:03→15:14） |
+| DeItaone | 10 | 09/19 05:09 | 09/20 00:34 | ⚠ 1016分（06:23→23:19） |
+| FirstSquawk | 247 | 09/19 00:49 | 09/20 00:26 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 126 | 09/19 00:48 | 09/20 00:33 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 383 行（統合前 391 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 378 行（統合前 386 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 00:32 [financialjuice] Fed's Schmid: I supported rate hike, recent data suggest inflation trending above 3%.
-- 09/19 00:32 [financialjuice] Fed's Schmid: Rate hike was a step towards returning to the 2% target.
-- 09/19 00:33 [financialjuice] ❗ Fed's Schmid: Current inflation problem not just about energy. Price growth has been 'hot' across a broad set of goods and services.
-- 09/19 00:33 [financialjuice] Fed's Schmid: High inflation a sign supply and demand are out of balance.
-- 09/19 00:33 [financialjuice] Fed's Schmid: Outside of inflation, the economy is performing well.
-- 09/19 00:33 [financialjuice] Fed's Schmid: Labor market appears in balance and economic growth solid.
-- 09/19 00:40 [FirstSquawk] FED'S SCHMID SUPPORTED HIKE; SAYS RECENT DATA SUGGEST INFLATION TRENDING ABOVE 3%
-- 09/19 00:40 [FirstSquawk] FED’S SCHMID: LABOUR MARKET APPEARS TO BE IN BALANCE
-- 09/19 00:41 [FirstSquawk] RUSSIAN FORCES HIT DRY CARGO SHIP IN ODESA – IFX CITING RUSSIAN DEFENCE MINISTRY
 - 09/19 00:48 [financialjuice/FirstSquawk] BoJ likely conducted rate checks in currency market - Nikkei
 - 09/19 00:51 [financialjuice] Fed's Schmid: I agree with Chairman Warsh's framework on why bond yields have gone up. Economic growth, demand for capital from al investment, geopolitical challenges.
 - 09/19 01:01 [FirstSquawk] CITIGROUP’S FRASER EXPECTED TO ATTEND TRUMP'S STATE DINNER FOR CHINESE PRESIDENT XI
@@ -407,3 +398,7 @@
 - 09/20 00:26 [FirstSquawk] US Tariffs and Trade Tensions Threaten Great Lakes Shipping and Canada-US Supply Chains US tariffs and a growing political rift between Washington and Ottawa are threatening the deeply integrated $6 trillion regional economy of the Great La…
 - 09/20 00:27 [financialjuice] Iran’s top security official: Qatar has relayed Tehran’s terms to Washington to end war, awaiting Trump’s response – Al Jazeera interview
 - 09/20 00:28 [financialjuice] Iran's top security official: talks continue with mediators Qatar and Pakistan, conditions for negotiations conveyed - Al Jazeera interview
+- 09/20 00:31 [financialjuice] Iran's top security official outlines conditions: end war on all fronts, unfreeze Iranian funds, lift naval blockade - Al Jazeera interview
+- 09/20 00:33 [financialjuice] Iran’s top security official: Tehran wants war between Saudi Arabia and Yemen to end - Al Jazeera interview
+- 09/20 00:34 [DeItaone] IRAN'S TOP SECURITY OFFICIAL SAYS TEHRAN WANTS WAR BETWEEN SAUDI ARABIA AND YEMEN TO END - AL JAZEERA INTERVIEW
+- 09/20 00:34 [DeItaone] IRAN'S TOP SECURITY OFFICIAL SAYS QATAR HAS CONVEYED TEHRAN'S CONDITIONS TO WASHINGTON TO END WAR, AWAITING TRUMP RESPONSE - AL JAZEERA INTERVIEW

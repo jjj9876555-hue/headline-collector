@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 00:31 JST／対象: 09/19 12:31 〜 09/20 00:31 JST（時刻はすべて日本時間）
+生成: 2026-09-20 00:43 JST／対象: 09/19 12:43 〜 09/20 00:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/19 23:19 | 09/19 23:19 | - |
-| FirstSquawk | 120 | 09/19 12:31 | 09/20 00:26 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 24 | 09/19 15:14 | 09/20 00:28 | ⚠ 230分（20:23→00:14） |
+| DeItaone | 3 | 09/19 23:19 | 09/20 00:34 | ⚠ 74分（23:19→00:34） |
+| FirstSquawk | 116 | 09/19 12:44 | 09/20 00:26 | ⚠ 114分（16:40→18:35） |
+| financialjuice | 26 | 09/19 15:14 | 09/20 00:33 | ⚠ 230分（20:23→00:14） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 145 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 12:31 [FirstSquawk] UK Labour government weighs mansion tax extension for properties valued above £1.5 million – The Times
-- 09/19 12:31 [FirstSquawk] UK Labour weighs cutting mansion tax threshold to £1.5 million – The Times
-- 09/19 12:34 [FirstSquawk] Kennedy names NICHD Director John Gaitanis chair of Interagency Autism Coordinating Committee – RTRS
-- 09/19 12:40 [FirstSquawk] NASA and Boeing have discussed plans for Starliner to conduct 10 or more new flights – WSJ
 - 09/19 12:44 [FirstSquawk] Chinese mining firms join forces to develop gold, copper resources in Tibet – SCMP
 - 09/19 12:48 [FirstSquawk] Death toll from attack on police headquarters in Pakistan rises to 31 – AFP citing police official
 - 09/19 12:55 [FirstSquawk] Xi to visit Washington for three-day state visit through Sept. 25 – Kyodo
@@ -169,3 +165,7 @@
 - 09/20 00:26 [FirstSquawk] US Tariffs and Trade Tensions Threaten Great Lakes Shipping and Canada-US Supply Chains US tariffs and a growing political rift between Washington and Ottawa are threatening the deeply integrated $6 trillion regional economy of the Great La…
 - 09/20 00:27 [financialjuice] Iran’s top security official: Qatar has relayed Tehran’s terms to Washington to end war, awaiting Trump’s response – Al Jazeera interview
 - 09/20 00:28 [financialjuice] Iran's top security official: talks continue with mediators Qatar and Pakistan, conditions for negotiations conveyed - Al Jazeera interview
+- 09/20 00:31 [financialjuice] Iran's top security official outlines conditions: end war on all fronts, unfreeze Iranian funds, lift naval blockade - Al Jazeera interview
+- 09/20 00:33 [financialjuice] Iran’s top security official: Tehran wants war between Saudi Arabia and Yemen to end - Al Jazeera interview
+- 09/20 00:34 [DeItaone] IRAN'S TOP SECURITY OFFICIAL SAYS TEHRAN WANTS WAR BETWEEN SAUDI ARABIA AND YEMEN TO END - AL JAZEERA INTERVIEW
+- 09/20 00:34 [DeItaone] IRAN'S TOP SECURITY OFFICIAL SAYS QATAR HAS CONVEYED TEHRAN'S CONDITIONS TO WASHINGTON TO END WAR, AWAITING TRUMP RESPONSE - AL JAZEERA INTERVIEW
