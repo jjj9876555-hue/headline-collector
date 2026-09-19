@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 22:58 JST／対象: 09/19 10:58 〜 09/19 22:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 23:16 JST／対象: 09/19 11:16 〜 09/19 23:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 141 | 09/19 10:58 | 09/19 22:50 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 22 | 09/19 11:03 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 138 | 09/19 11:20 | 09/19 23:13 | ⚠ 114分（16:40→18:35） |
+| financialjuice | 21 | 09/19 15:14 | 09/19 20:23 | ⚠ 91分（15:14→16:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 163 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 159 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 10:58 [FirstSquawk] US, Denmark and Greenland expected to sign agreement to strengthen Arctic and North Atlantic security
-- 09/19 11:00 [FirstSquawk] UAS activity prompts temporary halt to flights at Luxembourg Airport – Flightradar24
-- 09/19 11:02 [FirstSquawk] White House imposes entry restrictions on certain nonimmigrant workers
-- 09/19 11:02 [FirstSquawk] 2025 H-1B visa proclamation extended for 12 more months, White House says
-- 09/19 11:03 [FirstSquawk] US may postpone major Taiwan arms sales announcement until after November APEC summit – SCMP
-- 09/19 11:03 [financialjuice] US considers delaying major arms sales announcement to Taiwan until after November’s APEC summit in Shenzhen: SCMP
-- 09/19 11:10 [FirstSquawk] Trump enacts Russia sanctions legislation into law, White House says
-- 09/19 11:13 [FirstSquawk] Ex-Vitol oil trader gets four-year US prison sentence in Ecuador, Mexico bribery case - RTRS
 - 09/19 11:20 [FirstSquawk] Rubio, South Korean counterpart stress US-Japan-ROK cooperation for regional security – State Department
 - 09/19 11:21 [FirstSquawk] Riyadh placed on alert over potential danger, Saudi Civil Defense says
 - 09/19 11:23 [FirstSquawk] Trump says US will permanently retain ability to take necessary steps to defend Greenland
@@ -187,3 +179,7 @@
 - 09/19 22:50 [FirstSquawk] France is running out of fuel. 11% of France's stations nationwide are now out of petrol or diesel, one in nine, with 16% of stations short in Grand Est, 15% in Pays de la Loire, 14% in Occitanie, and 13% in Centre-Val de Loire, per governm…
 - 09/19 22:50 [FirstSquawk] official count only registers a station as short if it has no petrol at all or no diesel at all, so a station out of one grade but holding another is not counted, meaning the real shortage is much larger. French diesel averages €2.406 a lit…
 - 09/19 22:50 [FirstSquawk] Europe is facing its worst energy crisis in history.
+- 09/19 23:13 [FirstSquawk] Lebanese News Agency: Artillery shelling targets Wadi Zabqin and the Israeli army burns more houses in the town of Mansouri in southern Lebanon
+- 09/19 23:13 [FirstSquawk] Lebanese News Agency: Two Israeli bombings in the towns of Compound and Taloussa in southern Lebanon
+- 09/19 23:13 [FirstSquawk] Lebanese News Agency: Artillery shelling targets Wadi Zabqin in southern Lebanon
+- 09/19 23:13 [FirstSquawk] Lebanese News Agency: The Israeli army burns more houses in the town of Mansouri in southern Lebanon

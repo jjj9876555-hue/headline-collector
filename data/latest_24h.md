@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 22:58 JST／対象: 09/18 22:58 〜 09/19 22:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 23:16 JST／対象: 09/18 23:16 〜 09/19 23:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 261 | 09/18 23:07 | 09/19 22:50 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 142 | 09/18 22:59 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 263 | 09/18 23:21 | 09/19 23:13 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 138 | 09/18 23:16 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 405 行（統合前 413 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 403 行（統合前 411 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 22:59 [financialjuice] Bild: The German Government plans to cut energy tax on gasoline by 14 cents per litre.
-- 09/18 23:01 [financialjuice] US LEADING INDEX CHANGE MOM ACTUAL -0.1% (FORECAST 0.1%, PREVIOUS 0.2%) $MACRO
-- 09/18 23:07 [FirstSquawk] US CDC: WORKING WITH COUNCIL OF STATE & TERRITORIAL EPIDEMIOLOGISTS TO DEVELOP STANDARDIZED CASE DEFINITION FOR DEATHS DUE TO MEASLES
-- 09/18 23:09 [FirstSquawk] TREASURY PERMITS CERTAIN TRANSACTIONS FOR LUKOIL INTERNATIONAL GMBH.
-- 09/18 23:12 [financialjuice] The Treasury allows some Lukoil International GMBH actions.
-- 09/18 23:13 [financialjuice] German Government agrees on fuel price cap - Spiegel.
 - 09/18 23:16 [financialjuice] Mexico's President Sheinbaum: I spoke with Trump on Wednesday. The call was very good, we reached some agreements.
 - 09/18 23:18 [financialjuice] Fear and Greed Index: 29/100 = Fear
 - 09/18 23:19 [financialjuice] Crypto Fear and Greed Index: 56/100 = Greed
@@ -429,3 +423,7 @@
 - 09/19 22:50 [FirstSquawk] France is running out of fuel. 11% of France's stations nationwide are now out of petrol or diesel, one in nine, with 16% of stations short in Grand Est, 15% in Pays de la Loire, 14% in Occitanie, and 13% in Centre-Val de Loire, per governm…
 - 09/19 22:50 [FirstSquawk] official count only registers a station as short if it has no petrol at all or no diesel at all, so a station out of one grade but holding another is not counted, meaning the real shortage is much larger. French diesel averages €2.406 a lit…
 - 09/19 22:50 [FirstSquawk] Europe is facing its worst energy crisis in history.
+- 09/19 23:13 [FirstSquawk] Lebanese News Agency: Artillery shelling targets Wadi Zabqin and the Israeli army burns more houses in the town of Mansouri in southern Lebanon
+- 09/19 23:13 [FirstSquawk] Lebanese News Agency: Two Israeli bombings in the towns of Compound and Taloussa in southern Lebanon
+- 09/19 23:13 [FirstSquawk] Lebanese News Agency: Artillery shelling targets Wadi Zabqin in southern Lebanon
+- 09/19 23:13 [FirstSquawk] Lebanese News Agency: The Israeli army burns more houses in the town of Mansouri in southern Lebanon

@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 22:58 JST／対象: 09/19 16:58 〜 09/19 22:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 23:16 JST／対象: 09/19 17:16 〜 09/19 23:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 82 | 09/19 18:35 | 09/19 22:50 | 38分（20:41→21:20） |
+| FirstSquawk | 86 | 09/19 18:35 | 09/19 23:13 | 38分（20:41→21:20） |
 | financialjuice | 16 | 09/19 17:30 | 09/19 20:23 | ⚠ 46分（19:35→20:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 98 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -122,3 +122,7 @@
 - 09/19 22:50 [FirstSquawk] France is running out of fuel. 11% of France's stations nationwide are now out of petrol or diesel, one in nine, with 16% of stations short in Grand Est, 15% in Pays de la Loire, 14% in Occitanie, and 13% in Centre-Val de Loire, per governm…
 - 09/19 22:50 [FirstSquawk] official count only registers a station as short if it has no petrol at all or no diesel at all, so a station out of one grade but holding another is not counted, meaning the real shortage is much larger. French diesel averages €2.406 a lit…
 - 09/19 22:50 [FirstSquawk] Europe is facing its worst energy crisis in history.
+- 09/19 23:13 [FirstSquawk] Lebanese News Agency: Artillery shelling targets Wadi Zabqin and the Israeli army burns more houses in the town of Mansouri in southern Lebanon
+- 09/19 23:13 [FirstSquawk] Lebanese News Agency: Two Israeli bombings in the towns of Compound and Taloussa in southern Lebanon
+- 09/19 23:13 [FirstSquawk] Lebanese News Agency: Artillery shelling targets Wadi Zabqin in southern Lebanon
+- 09/19 23:13 [FirstSquawk] Lebanese News Agency: The Israeli army burns more houses in the town of Mansouri in southern Lebanon
