@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 19:16 JST／対象: 09/18 19:16 〜 09/19 19:16 JST（時刻はすべて日本時間）
+生成: 2026-09-19 19:32 JST／対象: 09/18 19:32 〜 09/19 19:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/18 20:26 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 248 | 09/18 19:17 | 09/19 18:41 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 169 | 09/18 19:18 | 09/19 18:40 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 256 | 09/18 19:39 | 09/19 19:31 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 171 | 09/18 19:36 | 09/19 19:23 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 420 行（統合前 428 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 430 行（統合前 438 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 19:17 [FirstSquawk] EU SPOKESPERSON ANNOUNCED AN EU-CANADA SUMMIT AT THE END OF OCTOBER TO DISCUSS IMPROVING RELATIONS.
-- 09/18 19:18 [financialjuice] EU Spokesperson: At end of October EU-Canada summit will take place where we explore parameters for enhancing relationship.
 - 09/18 19:36 [financialjuice] Italy's Economy Minister: Debt burden has begun to rise at an alarming rate.
 - 09/18 19:38 [financialjuice] EuroGroup Head: Economic growth momentum in Euro Zone should continue to the end of the year.
 - 09/18 19:39 [FirstSquawk] EUROGROUP LEADER CONSIDERS EMERGENCY MEETING DUE TO RISING ENERGY PRICES.
@@ -444,3 +442,15 @@
 - 09/19 18:40 [FirstSquawk] Russian Central Election Commission: Voter turnout in the State Duma elections has so far reached 31.09% nationwide
 - 09/19 18:40 [financialjuice] Russia’s digital ministry reports attempt to sabotage communication lines in far east to disrupt election
 - 09/19 18:41 [FirstSquawk] RUSSIA'S DIGITAL MINISTRY: REPORTS ATTEMPT TO SABOTAGE COMMUNICATION LINES IN COUNTRY'S FAR EAST TO DISRUPT HOLDING OF ELECTIONS - IFX
+- 09/19 19:16 [FirstSquawk] Former CIA Director David Petraeus: There are some countries in the Middle East, for example, that have bought interceptors for years. Yes, they’re under pressure from Iran.
+- 09/19 19:18 [FirstSquawk] Denmark hopes a breakthrough with Washington will end uncertainty over Greenland
+- 09/19 19:20 [FirstSquawk] Pakistan's Foreign Ministry: The Foreign Minister emphasized the necessity of protecting energy supplies and ensuring safe passage for ship
+- 09/19 19:20 [FirstSquawk] Boris Johnson: We constantly think that if Putin stops, he will immediately be removed.
+- 09/19 19:22 [FirstSquawk] Boris Johnson: The British and the Russians are two great peoples, two great countries. We fought side by side in the Second World War, and we understand that we can have common interests.
+- 09/19 19:22 [FirstSquawk] FCC grants Paramount's indirect ownership request for Gulf funds in Warner Bros. Discovery buyout
+- 09/19 19:22 [financialjuice] Pakistan foreign affairs ministry: Foreign Minister Ishaq Dar discusses with Iranian counterpart Abbas Araghchi today
+- 09/19 19:23 [financialjuice] Pakistan foreign affairs ministry: the two discussed recent regional developments
+- 09/19 19:23 [financialjuice] Pakistan foreign affairs ministry: the two agreed to meet in New York alongside 81st UN General Assembly
+- 09/19 19:30 [FirstSquawk] PAKISTAN FOREIGN AFFAIRS MINISTRY - FOREIGN MINISTER ISHAQ DAR SPOKE WITH IRANIAN FOREIGN MINISTER ABBAS ARAGHCHI TODAY
+- 09/19 19:31 [FirstSquawk] PAKISTAN FOREIGN AFFAIRS MINISTRY - THE TWO DISCUSSED THE LATEST REGIONAL DEVELOPMENTS
+- 09/19 19:31 [FirstSquawk] PAKISTAN FOREIGN AFFAIRS MINISTRY: THE TWO AGREED TO MEET IN NEW YORK ON THE SIDELINES OF THE 81ST UN GENERAL ASSEMBLY
