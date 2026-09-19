@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 01:16 JST／対象: 09/19 13:16 〜 09/20 01:16 JST（時刻はすべて日本時間）
+生成: 2026-09-20 01:32 JST／対象: 09/19 13:32 〜 09/20 01:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/19 23:19 | 09/20 01:16 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 121 | 09/19 13:19 | 09/20 01:01 | ⚠ 114分（16:40→18:35） |
+| DeItaone | 7 | 09/19 23:19 | 09/20 01:17 | ⚠ 74分（23:19→00:34） |
+| FirstSquawk | 118 | 09/19 13:34 | 09/20 01:01 | ⚠ 114分（16:40→18:35） |
 | financialjuice | 26 | 09/19 15:14 | 09/20 00:33 | ⚠ 230分（20:23→00:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 152 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 151 行（統合前 151 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 13:19 [FirstSquawk] Gemini AI model breached real-world systems in security test, Google says – SCMP
-- 09/19 13:24 [FirstSquawk] British farmers see potential for homegrown chickpeas as summers turn drier – FT
-- 09/19 13:31 [FirstSquawk] Anthropic’s post-IPO growth prospects come under investor scrutiny – FT
 - 09/19 13:34 [FirstSquawk] Pressure mounts on US State Department to reveal Venezuelan oil takings – FT
 - 09/19 13:43 [FirstSquawk] EU rejects push for bloc-wide digital services tax – FT
 - 09/19 13:59 [FirstSquawk] Malaysia’s Solarvest broadens energy business into batteries and power trading - NA
@@ -176,3 +173,5 @@
 - 09/20 01:01 [FirstSquawk] Secretary of Iran's Supreme National Security Council: We remain committed to the fatwa of the late Supreme Leader and have not changed our nuclear doctrine, but we do not know what will happen in the future.
 - 09/20 01:10 [DeItaone] $NVDA - NVIDIA’S HUANG REJECTS CALLS TO SLOW AI Nvidia CEO Jensen Huang says AI development should move “as fast as we can,” rejecting calls for the industry to slow down. Huang stressed that speed should not come at the expense of safety, …
 - 09/20 01:16 [DeItaone] HORMUZ OIL FLOWS HIT SIX-MONTH HIGH Oil and LNG shipments through the Strait of Hormuz have reached their highest level in six months, as U.S. mine-clearing and naval protection efforts boost tanker traffic. CENTCOM says Gulf allies have mo…
+- 09/20 01:17 [DeItaone] U.S., DENMARK AND GREENLAND REACH SECURITY DEAL The U.S., Denmark and Greenland have agreed to expand America’s military presence in Greenland, with signing expected next week at the UN General Assembly. Denmark and Greenland insist the agr…
+- 09/20 01:17 [DeItaone] WHITE HOUSE ENFORCES BAN ON CNN, MS NOW AND POLITICO The White House confiscated press passes and denied access to journalists from CNN, MS NOW and Politico, following through on Trump’s announced ban. All three outlets say they will defend…

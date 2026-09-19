@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 01:16 JST／対象: 09/19 19:16 〜 09/20 01:16 JST（時刻はすべて日本時間）
+生成: 2026-09-20 01:32 JST／対象: 09/19 19:32 〜 09/20 01:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/19 23:19 | 09/20 01:16 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 77 | 09/19 19:16 | 09/20 01:01 | 38分（20:41→21:20） |
-| financialjuice | 11 | 09/19 19:22 | 09/20 00:33 | ⚠ 230分（20:23→00:14） |
+| DeItaone | 7 | 09/19 23:19 | 09/20 01:17 | ⚠ 74分（23:19→00:34） |
+| FirstSquawk | 68 | 09/19 19:46 | 09/20 01:01 | 38分（20:41→21:20） |
+| financialjuice | 8 | 09/19 19:35 | 09/20 00:33 | ⚠ 230分（20:23→00:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 93 行（統合前 93 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 83 行（統合前 83 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 19:16 [FirstSquawk] Former CIA Director David Petraeus: There are some countries in the Middle East, for example, that have bought interceptors for years. Yes, they’re under pressure from Iran.
-- 09/19 19:18 [FirstSquawk] Denmark hopes a breakthrough with Washington will end uncertainty over Greenland
-- 09/19 19:20 [FirstSquawk] Pakistan's Foreign Ministry: The Foreign Minister emphasized the necessity of protecting energy supplies and ensuring safe passage for ship
-- 09/19 19:20 [FirstSquawk] Boris Johnson: We constantly think that if Putin stops, he will immediately be removed.
-- 09/19 19:22 [FirstSquawk] Boris Johnson: The British and the Russians are two great peoples, two great countries. We fought side by side in the Second World War, and we understand that we can have common interests.
-- 09/19 19:22 [FirstSquawk] FCC grants Paramount's indirect ownership request for Gulf funds in Warner Bros. Discovery buyout
-- 09/19 19:22 [financialjuice] Pakistan foreign affairs ministry: Foreign Minister Ishaq Dar discusses with Iranian counterpart Abbas Araghchi today
-- 09/19 19:23 [financialjuice] Pakistan foreign affairs ministry: the two discussed recent regional developments
-- 09/19 19:23 [financialjuice] Pakistan foreign affairs ministry: the two agreed to meet in New York alongside 81st UN General Assembly
-- 09/19 19:30 [FirstSquawk] PAKISTAN FOREIGN AFFAIRS MINISTRY - FOREIGN MINISTER ISHAQ DAR SPOKE WITH IRANIAN FOREIGN MINISTER ABBAS ARAGHCHI TODAY
-- 09/19 19:31 [FirstSquawk] PAKISTAN FOREIGN AFFAIRS MINISTRY - THE TWO DISCUSSED THE LATEST REGIONAL DEVELOPMENTS
-- 09/19 19:31 [FirstSquawk] PAKISTAN FOREIGN AFFAIRS MINISTRY: THE TWO AGREED TO MEET IN NEW YORK ON THE SIDELINES OF THE 81ST UN GENERAL ASSEMBLY
 - 09/19 19:35 [financialjuice] Flames and thick black smoke rise near Riyadh airport: witness
 - 09/19 19:46 [FirstSquawk] Flames and a large plume of black smoke were seen rising near Riyadh airport on Saturday
 - 09/19 19:47 [FirstSquawk] Paramount could settle with states over Warner Bros. as soon as this weekend, sources say
@@ -117,3 +105,5 @@
 - 09/20 01:01 [FirstSquawk] Secretary of Iran's Supreme National Security Council: We remain committed to the fatwa of the late Supreme Leader and have not changed our nuclear doctrine, but we do not know what will happen in the future.
 - 09/20 01:10 [DeItaone] $NVDA - NVIDIA’S HUANG REJECTS CALLS TO SLOW AI Nvidia CEO Jensen Huang says AI development should move “as fast as we can,” rejecting calls for the industry to slow down. Huang stressed that speed should not come at the expense of safety, …
 - 09/20 01:16 [DeItaone] HORMUZ OIL FLOWS HIT SIX-MONTH HIGH Oil and LNG shipments through the Strait of Hormuz have reached their highest level in six months, as U.S. mine-clearing and naval protection efforts boost tanker traffic. CENTCOM says Gulf allies have mo…
+- 09/20 01:17 [DeItaone] U.S., DENMARK AND GREENLAND REACH SECURITY DEAL The U.S., Denmark and Greenland have agreed to expand America’s military presence in Greenland, with signing expected next week at the UN General Assembly. Denmark and Greenland insist the agr…
+- 09/20 01:17 [DeItaone] WHITE HOUSE ENFORCES BAN ON CNN, MS NOW AND POLITICO The White House confiscated press passes and denied access to journalists from CNN, MS NOW and Politico, following through on Trump’s announced ban. All three outlets say they will defend…
