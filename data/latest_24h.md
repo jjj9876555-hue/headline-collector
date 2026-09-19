@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 12:58 JST／対象: 09/18 12:58 〜 09/19 12:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 13:17 JST／対象: 09/18 13:17 〜 09/19 13:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 297 | 09/18 13:01 | 09/19 12:55 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 221 | 09/18 13:02 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 294 | 09/18 13:20 | 09/19 13:13 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 211 | 09/18 14:00 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 523 行（統合前 532 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 510 行（統合前 519 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 13:01 [FirstSquawk] Benchmark 20-year Japanese government bond yield rises 1.5bp to 3.850%.
-- 09/18 13:02 [financialjuice] Pakistan army chief urges Iran to rein in Houthis: FT
-- 09/18 13:02 [financialjuice] Venezuela nears deal to transfer $4bn gold reserve to New York: FT
-- 09/18 13:03 [FirstSquawk] FT: Pakistan military chief asks Tehran to exercise restraint over the Houthis.
-- 09/18 13:04 [FirstSquawk] FT: Venezuela is nearing an arrangement to relocate $4 billion of its gold holdings to New York.
-- 09/18 13:04 [financialjuice] Hyundai Motor CEO: US could face spike in Chinese imports without tariffs, other protections
-- 09/18 13:04 [financialjuice] Hyundai Motor CEO: company needs time to collect data from millions of cars before debuting own self-driving tech
-- 09/18 13:04 [financialjuice] Hyundai Motor CEO: Chinese rivals' innovation, advancement and technology are unbelievable
-- 09/18 13:05 [financialjuice] Dollar/yen extends gains after BoJ decision, up 0.68% at 157 yen
-- 09/18 13:05 [financialjuice] Dollar/yen at highest level since Sept. 3
-- 09/18 13:05 [financialjuice] euro/yen rises 0.82% to 180.43 yen
-- 09/18 13:06 [financialjuice] Aussie/yen AUDJPY rises 1.04% to 112.02 yen
-- 09/18 13:07 [FirstSquawk] China Emergency Management Ministry: August disasters resulted in direct economic losses of 36.03 billion yuan.
-- 09/18 13:07 [financialjuice] ❗ BOJ RATE DECISION ACTUAL 1.25% (FORECAST 1.25%, PREVIOUS 1%) $MACRO
-- 09/18 13:12 [FirstSquawk] Benchmark 40-year Japanese government bond yield rises 2bp to 4.135%.
 - 09/18 13:20 [FirstSquawk] WSJ: Singapore dollar remains stable as markets weigh the risk of U.S. dollar debasement.
 - 09/18 13:30 [FirstSquawk] Washington set to allow Iranian leaders into New York for UN meeting despite wartime stand-off - SCMP
 - 09/18 13:32 [FirstSquawk] PAKISTAN IN CRISIS MODE: MARKETS TO SHUT BY 9 PM, FUEL USE SLASHED 50%, FOREIGN TRAVEL RESTRICTED
@@ -547,3 +532,5 @@
 - 09/19 12:44 [FirstSquawk] Chinese mining firms join forces to develop gold, copper resources in Tibet – SCMP
 - 09/19 12:48 [FirstSquawk] Death toll from attack on police headquarters in Pakistan rises to 31 – AFP citing police official
 - 09/19 12:55 [FirstSquawk] Xi to visit Washington for three-day state visit through Sept. 25 – Kyodo
+- 09/19 13:05 [FirstSquawk] Yen under pressure as dovish BoJ hike dampens currency – Scotiabank - FX
+- 09/19 13:13 [FirstSquawk] Germany’s military rebuild fuels unease across neighboring countries – WSJ

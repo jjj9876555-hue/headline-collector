@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 12:58 JST／対象: 09/19 06:58 〜 09/19 12:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 13:17 JST／対象: 09/19 07:17 〜 09/19 13:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 85 | 09/19 09:09 | 09/19 12:55 | 26分（09:24→09:50） |
-| financialjuice | 35 | 09/19 07:02 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 87 | 09/19 09:09 | 09/19 13:13 | 26分（09:24→09:50） |
+| financialjuice | 27 | 09/19 07:21 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 114 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 07:02 [financialjuice] Saudi civil defense: danger has subsided in Farasan
-- 09/19 07:08 [financialjuice] Ukraine's Zelenskiy thanks Trump for signing Russia sanctions bill and Congress members for backing it
-- 09/19 07:08 [financialjuice] Zelenskiy: Best way to honor Senator Lindsey Graham's memory is to enact provisions of bill he backed
-- 09/19 07:12 [financialjuice] Gemini breached protected systems by guessing passwords and locating credentials in public repository during irregular test run - WSJ
-- 09/19 07:13 [financialjuice] US ambassador to UN: Trump to meet Japanese premier
-- 09/19 07:13 [financialjuice] US ambassador to UN: Trump will meet Venezuela's Rodriguez
-- 09/19 07:16 [financialjuice] US deputy national security adviser on Xi visit: Trump and Xi to give remarks at state dinner
-- 09/19 07:16 [financialjuice] White House spokeswoman Kelly: Trump to welcome Xi at Joint Base Andrews on arrival
 - 09/19 07:21 [financialjuice] Trump administration to host UN event on AI next week: CNN
 - 09/19 07:21 [financialjuice] Senior US administration official on Xi meeting: AI is on the agenda
 - 09/19 07:21 [financialjuice] Senior US administration official: Busan ceasefire also on agenda for Trump-Xi meeting
@@ -144,3 +136,5 @@
 - 09/19 12:44 [FirstSquawk] Chinese mining firms join forces to develop gold, copper resources in Tibet – SCMP
 - 09/19 12:48 [FirstSquawk] Death toll from attack on police headquarters in Pakistan rises to 31 – AFP citing police official
 - 09/19 12:55 [FirstSquawk] Xi to visit Washington for three-day state visit through Sept. 25 – Kyodo
+- 09/19 13:05 [FirstSquawk] Yen under pressure as dovish BoJ hike dampens currency – Scotiabank - FX
+- 09/19 13:13 [FirstSquawk] Germany’s military rebuild fuels unease across neighboring countries – WSJ
