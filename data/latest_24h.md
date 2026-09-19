@@ -7,69 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 11:45 JST／対象: 09/18 11:45 〜 09/19 11:45 JST（時刻はすべて日本時間）
+生成: 2026-09-19 11:58 JST／対象: 09/18 11:58 〜 09/19 11:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 321 | 09/18 11:47 | 09/19 11:43 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 268 | 09/18 11:50 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 319 | 09/18 12:01 | 09/19 11:57 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 229 | 09/18 11:58 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 594 行（統合前 603 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 553 行（統合前 562 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 11:47 [FirstSquawk] The U.S. and China agree AI needs guardrails, but their priorities differ sharply -WSJ Washington focuses on autonomous systems, cyber risks and human control, while Beijing emphasizes political, ideological and cybersecurity concerns. The …
-- 09/18 11:50 [financialjuice] S.Korea president Lee: single-stock leveraged ETFs came in near final phase of stock rally
-- 09/18 11:51 [FirstSquawk] Indonesia expects an impact from a potential U.S. interest rate hike. Higher U.S. rates could affect Indonesia through capital flows, the rupiah and broader financial conditions. The policy gap between the U.S. and Indonesia remains a key m…
-- 09/18 11:51 [financialjuice] S. Korea President Lee: shortfalls evident in single-stock leveraged ETFs
-- 09/18 11:52 [FirstSquawk] South Korea President Lee says single-stock leveraged ETFs were introduced during the late stage of the stock market rally. The timing highlights concerns around leveraged products emerging as the market was already in an advanced phase of …
-- 09/18 11:52 [financialjuice] S.Korea President Lee: US investment matter impacts bilateral ties in a complex way
-- 09/18 11:52 [FirstSquawk] Indonesia’s Finance Minister says the government is working to limit the adverse impact.
-- 09/18 11:53 [FirstSquawk] South Korea President Lee: Single-stock leveraged ETFs showed certain deficiencies.
-- 09/18 11:53 [FirstSquawk] Indonesia FinMin: Rupiah weakness persists, but government is taking steps to boost credibility.
-- 09/18 11:54 [FirstSquawk] South Korea President Lee: US investment matter complicates relations between Seoul and Washington.
-- 09/18 11:54 [financialjuice] BOJ increases short-term interest rate target to 1.25% from 1%
-- 09/18 11:54 [financialjuice] BoJ sets rate policy by 7-2 vote
-- 09/18 11:54 [financialjuice] S.Korea President Lee: issue of commercial logic turned sticking point in talks
-- 09/18 11:54 [financialjuice] BOJ board members Asada, Sato opposed rate decision
-- 09/18 11:55 [financialjuice] BoJ: inflation expectations are rising moderately
-- 09/18 11:55 [financialjuice] S. Korea President Lee: There were aspects that were hard to agree on
-- 09/18 11:55 [financialjuice] BOJ: will keep raising interest rates amid economic, price trends and financial conditions
-- 09/18 11:55 [financialjuice] BOJ: Japan's economy to expand moderately
-- 09/18 11:55 [financialjuice] BOJ: will weigh timing, speed of rate hikes while assessing chances of achieving baseline outlook and risks
-- 09/18 11:55 [financialjuice] S.Korea President Lee: close to deal on US investment
-- 09/18 11:55 [financialjuice] BOJ: will examine impact of Middle East events, oil demand and currency on economy, prices, in policy decisions
-- 09/18 11:55 [financialjuice] BOJ: will carry out monetary policy as suitable from viewpoint of sustainably, steadily reaching inflation target
-- 09/18 11:55 [financialjuice] BOJ: accommodative monetary setting will continue after policy rate adjustment, supporting economic activity
-- 09/18 11:55 [financialjuice] BOJ: Core inflation likely to steadily increase, hit level aligned with 2% goal from latter half of fiscal 2026 through fiscal 2027
-- 09/18 11:55 [financialjuice] BOJ's Asada said: recent CPI rise below 2% means economic conditions aren't necessarily robust
-- 09/18 11:56 [financialjuice] BOJ: stabilising core inflation near 2% is becoming crucial
-- 09/18 11:56 [financialjuice] S. Korea president Lee: will discuss measures to protect South Korea's interests, aid both US-S. Korea relations
-- 09/18 11:56 [financialjuice] BoJ's Asada says desirable for bank to maintain money market operations guideline
-- 09/18 11:56 [financialjuice] BOJ: must prevent underlying inflation from exceeding 2% target
-- 09/18 11:56 [financialjuice] Dollar/yen rises 0.4% to 156.56 yen after BoJ raises rates 25 basis points
-- 09/18 11:56 [financialjuice] BOJ's Sato: current economic and price trends have not significantly accelerated, so raising rates is not suitable
-- 09/18 11:56 [financialjuice] BoJ: Wholesale inflation stays high on oil, forex, and all-demand impact
-- 09/18 11:57 [financialjuice] BOJ: price pressures in business-to-business trade spreading to consumer prices
-- 09/18 11:57 [financialjuice] BoJ: CPI has been moderately increasing recently, staying between 1.5% and 2.0%
-- 09/18 11:57 [financialjuice] BoJ: companies keep transferring expenses from higher wages
-- 09/18 11:57 [financialjuice] BOJ: inflation expectations keep rising, core inflation nears 2%
-- 09/18 11:57 [financialjuice] BOJ: impact of higher import costs surfacing as wage hikes pass through to selling prices
-- 09/18 11:57 [financialjuice] BOJ: Economy, prices tracking baseline projection in outlook report
-- 09/18 11:58 [financialjuice] Aussie/yen AUD/JPY rises 0.58% to 111.51 yen
-- 09/18 11:58 [financialjuice] Euro/yen rises 0.48% to 179.83 yen
-- 09/18 11:58 [financialjuice] Korean won/yen up 0.18% at 0.11 yen
-- 09/18 11:58 [financialjuice] Kiwvyen NZDJPY rises 0.20% to 89.55 yen
-- 09/18 11:58 [financialjuice] Sterling/yen gbpjpy rises 0.51% to 209.29 yen
-- 09/18 11:58 [financialjuice] Swiss franc/yen CHFJPY rises 0.66% to 189.89 yen
-- 09/18 11:58 [financialjuice] BOJ: must stay alert to risks, especially Middle East developments, oil demand, FX volatility and their effects on economy, prices
-- 09/18 11:58 [financialjuice] BoJ: risk that underlying inflation may exceed 2% target
 - 09/18 11:58 [financialjuice] BOJ: recent yen depreciation likely to push prices higher
 - 09/18 11:59 [financialjuice] BOJ: decided to modify level of monetary support to sustainably and stably achieve price target
 - 09/18 12:00 [financialjuice] S.Korea president Lee: Additional investments by South Korean firms in US chip projects hinge on company decisions
@@ -618,3 +572,8 @@
 - 09/19 11:40 [FirstSquawk] IMF staff concludes mission to Lebanon
 - 09/19 11:41 [FirstSquawk] IMF says Lebanon has advanced on budget management since its previous staff mission
 - 09/19 11:43 [FirstSquawk] Paramount considers selling some cable channels, including Comedy Central, amid Warner Bros. merger talks – NYT
+- 09/19 11:49 [FirstSquawk] Greece outlook raised to positive from stable by Moody’s, Baa3 rating affirmed
+- 09/19 11:50 [FirstSquawk] Greece’s positive outlook reflects upside risks to credit profile, Moody’s says
+- 09/19 11:52 [FirstSquawk] Moody’s says Greece’s Baa3 rating reflects solid reforms and structurally favorable debt affordability
+- 09/19 11:52 [FirstSquawk] Greece’s debt levels expected to remain among highest in Moody’s rated universe through 2030
+- 09/19 11:57 [FirstSquawk] Trump: Relations with Xi are very good ahead of Chinese leader’s visit

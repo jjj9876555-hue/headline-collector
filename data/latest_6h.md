@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 11:45 JST／対象: 09/19 05:45 〜 09/19 11:45 JST（時刻はすべて日本時間）
+生成: 2026-09-19 11:58 JST／対象: 09/19 05:58 〜 09/19 11:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/19 06:15 | 09/19 06:23 | 4分（06:15→06:20） |
-| FirstSquawk | 67 | 09/19 09:09 | 09/19 11:43 | 26分（09:24→09:50） |
+| FirstSquawk | 72 | 09/19 09:09 | 09/19 11:57 | 26分（09:24→09:50） |
 | financialjuice | 51 | 09/19 06:04 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 123 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 128 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -147,3 +147,8 @@
 - 09/19 11:40 [FirstSquawk] IMF staff concludes mission to Lebanon
 - 09/19 11:41 [FirstSquawk] IMF says Lebanon has advanced on budget management since its previous staff mission
 - 09/19 11:43 [FirstSquawk] Paramount considers selling some cable channels, including Comedy Central, amid Warner Bros. merger talks – NYT
+- 09/19 11:49 [FirstSquawk] Greece outlook raised to positive from stable by Moody’s, Baa3 rating affirmed
+- 09/19 11:50 [FirstSquawk] Greece’s positive outlook reflects upside risks to credit profile, Moody’s says
+- 09/19 11:52 [FirstSquawk] Moody’s says Greece’s Baa3 rating reflects solid reforms and structurally favorable debt affordability
+- 09/19 11:52 [FirstSquawk] Greece’s debt levels expected to remain among highest in Moody’s rated universe through 2030
+- 09/19 11:57 [FirstSquawk] Trump: Relations with Xi are very good ahead of Chinese leader’s visit

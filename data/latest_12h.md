@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 11:45 JST／対象: 09/18 23:45 〜 09/19 11:45 JST（時刻はすべて日本時間）
+生成: 2026-09-19 11:58 JST／対象: 09/18 23:58 〜 09/19 11:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 129 | 09/18 23:52 | 09/19 11:43 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 112 | 09/18 23:56 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 132 | 09/18 23:59 | 09/19 11:57 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 110 | 09/18 23:59 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 243 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 244 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 23:52 [FirstSquawk] SAUDI PIPELINE BUFFERS GLOBAL OIL MARKETS FROM HORMUZ CHOKEPOINTS Saudi Arabia's East-West Pipeline functions as a critical economic safety valve, allowing millions of barrels of crude to bypass the volatile Strait of Hormuz and flow direct…
-- 09/18 23:56 [financialjuice] AWS signs a 5-year strategic collaboration pact with SAP to expand SAP Business AI platform to 7 new AWS regions. $AMZN $SAP
-- 09/18 23:57 [FirstSquawk] COOLING TOWER AT KURSK NUCLEAR PLANT DAMAGED BY DRONE ATTACK, SAYS IAEA.
-- 09/18 23:58 [financialjuice] IAEA: The cooling tower of the reactor unit in the Russia Kursk plant has been hit by a drone.
 - 09/18 23:59 [FirstSquawk] EU SET TO IMPOSE PROVISIONAL SAFEGUARD MEASURES ON IMPORTS OF ELECTRICAL STEEL, EU OFFICIAL JOURNAL SAYS
 - 09/18 23:59 [financialjuice] IAEA: There is no fire in the Kursk plant, and the unit's operating mode is unchanged.
 - 09/19 00:00 [financialjuice] Amazon is in the EU's crosshairs over suspected price curbs on sellers. $AMZN
@@ -267,3 +263,8 @@
 - 09/19 11:40 [FirstSquawk] IMF staff concludes mission to Lebanon
 - 09/19 11:41 [FirstSquawk] IMF says Lebanon has advanced on budget management since its previous staff mission
 - 09/19 11:43 [FirstSquawk] Paramount considers selling some cable channels, including Comedy Central, amid Warner Bros. merger talks – NYT
+- 09/19 11:49 [FirstSquawk] Greece outlook raised to positive from stable by Moody’s, Baa3 rating affirmed
+- 09/19 11:50 [FirstSquawk] Greece’s positive outlook reflects upside risks to credit profile, Moody’s says
+- 09/19 11:52 [FirstSquawk] Moody’s says Greece’s Baa3 rating reflects solid reforms and structurally favorable debt affordability
+- 09/19 11:52 [FirstSquawk] Greece’s debt levels expected to remain among highest in Moody’s rated universe through 2030
+- 09/19 11:57 [FirstSquawk] Trump: Relations with Xi are very good ahead of Chinese leader’s visit
