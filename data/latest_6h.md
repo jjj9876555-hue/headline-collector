@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 19:32 JST／対象: 09/19 13:32 〜 09/19 19:32 JST（時刻はすべて日本時間）
+生成: 2026-09-19 19:44 JST／対象: 09/19 13:44 〜 09/19 19:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 50 | 09/19 13:34 | 09/19 19:31 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 18 | 09/19 15:14 | 09/19 19:23 | ⚠ 91分（15:14→16:46） |
+| FirstSquawk | 48 | 09/19 13:59 | 09/19 19:31 | ⚠ 114分（16:40→18:35） |
+| financialjuice | 19 | 09/19 15:14 | 09/19 19:35 | ⚠ 91分（15:14→16:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 68 行（統合前 68 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 67 行（統合前 67 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 13:34 [FirstSquawk] Pressure mounts on US State Department to reveal Venezuelan oil takings – FT
-- 09/19 13:43 [FirstSquawk] EU rejects push for bloc-wide digital services tax – FT
 - 09/19 13:59 [FirstSquawk] Malaysia’s Solarvest broadens energy business into batteries and power trading - NA
 - 09/19 14:04 [FirstSquawk] South Korea’s Cheong Wa Dae says Lee’s remarks do not amount to rejecting Trump’s Hormuz request – Yonhap
 - 09/19 14:16 [FirstSquawk] North Korea rejects IAEA resolution, pledges to maintain nuclear arsenal amid US threats – Yonhap
@@ -92,3 +90,4 @@
 - 09/19 19:30 [FirstSquawk] PAKISTAN FOREIGN AFFAIRS MINISTRY - FOREIGN MINISTER ISHAQ DAR SPOKE WITH IRANIAN FOREIGN MINISTER ABBAS ARAGHCHI TODAY
 - 09/19 19:31 [FirstSquawk] PAKISTAN FOREIGN AFFAIRS MINISTRY - THE TWO DISCUSSED THE LATEST REGIONAL DEVELOPMENTS
 - 09/19 19:31 [FirstSquawk] PAKISTAN FOREIGN AFFAIRS MINISTRY: THE TWO AGREED TO MEET IN NEW YORK ON THE SIDELINES OF THE 81ST UN GENERAL ASSEMBLY
+- 09/19 19:35 [financialjuice] Flames and thick black smoke rise near Riyadh airport: witness
