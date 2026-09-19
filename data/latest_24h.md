@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 04:41 JST／対象: 09/19 04:41 〜 09/20 04:41 JST（時刻はすべて日本時間）
+生成: 2026-09-20 04:51 JST／対象: 09/19 04:51 〜 09/20 04:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 19 | 09/19 05:09 | 09/20 03:47 | ⚠ 1016分（06:23→23:19） |
-| FirstSquawk | 228 | 09/19 04:50 | 09/20 03:10 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 116 | 09/19 04:41 | 09/20 04:39 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 227 | 09/19 04:54 | 09/20 03:10 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 110 | 09/19 04:54 | 09/20 04:39 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 356 行（統合前 363 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 349 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 04:41 [financialjuice] Trump makes an announcement on healthcare - WATCH LIVE
-- 09/19 04:47 [financialjuice] Goldman Sachs, JPMorgan, Morgan Stanley lead bookrunners for NScale IPO - SEC filing.
-- 09/19 04:49 [financialjuice] Nscale: Anthropic services agreements provide for aggregate payments to us of up to about $44.6 billion
-- 09/19 04:50 [financialjuice] Nscale: On August 25, 2026 we entered into a series of GPU services agreements with Anthropic.
-- 09/19 04:50 [FirstSquawk] NSCALE HAS SUBMITTED ITS APPLICATION FOR AN IPO AND AIMS TO BE LISTED ON THE NYSE UNDER THE TICKER 'NSCL.'
-- 09/19 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -5524.6 MLN NASDAQ 100: 37.6 MLN DOW 30: -362.2 MLN MAG 7: -260.1 MLN $MACRO
-- 09/19 04:51 [financialjuice] Nscale targeting multi-billion-dollar listing and valuation around $30 billion - CNBC
 - 09/19 04:54 [FirstSquawk] TRUMP ANNOUNCES A NEW PROGRAM PROVIDING MFN DRUG DISCOUNTS DIRECTLY TO STATE MEDICAID PROGRAMS COVERING NEARLY 70 MLN AMERICANS - FOX
 - 09/19 04:54 [financialjuice] Nscale: Entered unsecured convertable loan notes pact with Nvidia. $NVDA
 - 09/19 04:59 [FirstSquawk] TRUMP: WE'LL BE RECOMMENDING DRUG FIRMS MAKE SMALL DOSE SHOTS
