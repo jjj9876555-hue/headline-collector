@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 08:51 JST／対象: 09/18 08:51 〜 09/19 08:51 JST（時刻はすべて日本時間）
+生成: 2026-09-19 09:05 JST／対象: 09/18 09:05 〜 09/19 09:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 317 | 09/18 08:58 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
-| financialjuice | 287 | 09/18 08:53 | 09/19 08:43 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 312 | 09/18 09:15 | 09/19 05:07 | ⚠ 61分（20:07→21:09） |
+| financialjuice | 290 | 09/18 09:26 | 09/19 09:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 609 行（統合前 618 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 607 行（統合前 616 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 08:53 [financialjuice] RBA Governor Bullock: navigating a world with prolonged elevated oil prices
-- 09/18 08:55 [financialjuice] Businesses now more likely to transfer cost hikes
-- 09/18 08:58 [FirstSquawk] SLOVAK PRIME MINISTER ROBERT FICO SAYS 'THE SITUATION HAS NEVER BEEN AS SERIOUS AND TENSE REGARDING THE POSSIBILITY OF A PAN-EUROPEAN MILITARY CONFLICT AS IT IS NOW'.
-- 09/18 08:59 [FirstSquawk] SLOVAK PRIME MINISTER ROBERT FICO SAYS ON NATO THAT 'I DO NOT WANT SLOVAKIA TO BECOME PART OF SOME MILITARY CONFLICT BECAUSE OF ARTICLE 5', ADDING THAT WHILE 'WE ARE IN NATO, WE RESPECT THAT' AND CARE ABOUT FULFILLING ITS COMMITMENTS, AS PR…
-- 09/18 09:02 [FirstSquawk] KOSPI gains more than 2% in Seoul trading
-- 09/18 09:03 [FirstSquawk] Trump: Iranian radar destroyed, leaving ships with no night-time visibility
-- 09/18 09:03 [FirstSquawk] Toyota targets deployment of 400,000 humanoid robots in manufacturing operations
 - 09/18 09:15 [FirstSquawk] NEW ZEALAND FOREIGN MINISTRY DENIES DISCUSSIONS WITH EU OVER NEW ZEALAND BECOMING AN ASSOCIATE MEMBER
 - 09/18 09:18 [FirstSquawk] EUROPEAN STOCK FUTURES SLIP: EUROSTOXX 50 -0.3%, DAX -0.5%, FTSE -0.2%
 - 09/18 09:18 [FirstSquawk] European stocks set for a weaker open as futures decline across the region
@@ -633,3 +626,8 @@
 - 09/19 07:37 [financialjuice] OpenAI expects costs to greatly exceed revenues: sales projected to rise from $36bn this year to $350bn in 2030 - FT
 - 09/19 07:38 [financialjuice] OpenAI projects $840 billion in revenue through 2030 - FT
 - 09/19 08:43 [financialjuice] Nvidia CEO Jensen Huang: agrees with Trump on AI, doesn’t think it will end world by 2030 - CBS News
+- 09/19 08:55 [financialjuice] Ustr Jamieson Greer to join Treasury Secretary Bessent in meeting with Chinese Vice Premier He Lifeng: statement
+- 09/19 09:00 [financialjuice] Saudi civil defense issues warning over potential hazard in Riyadh
+- 09/19 09:00 [financialjuice] Saudi civil defense issues warning about potential risk in Al Kharj
+- 09/19 09:03 [financialjuice] Anthropic mulls debut of new AI model before IPO, sources say
+- 09/19 09:03 [financialjuice] Anthropic IPO may be delayed until after US midterm elections, sources say

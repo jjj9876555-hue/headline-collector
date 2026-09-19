@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 08:51 JST／対象: 09/19 02:51 〜 09/19 08:51 JST（時刻はすべて日本時間）
+生成: 2026-09-19 09:05 JST／対象: 09/19 03:05 〜 09/19 09:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 24 | 09/19 02:55 | 09/19 05:07 | 19分（04:21→04:40） |
-| financialjuice | 74 | 09/19 02:52 | 09/19 08:43 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 20 | 09/19 03:06 | 09/19 05:07 | 19分（04:21→04:40） |
+| financialjuice | 77 | 09/19 03:08 | 09/19 09:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 103 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 102 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 02:52 [financialjuice] Pakistan Interior Minister Mohsen Naqvi could visit Tehran this week - Mehr News citing reliable source
-- 09/19 02:52 [financialjuice] Trump expected to sign the Russia sanctions bill today - CNN
-- 09/19 02:55 [FirstSquawk] TRUMP’S AI WHISPERER DAVID SACKS TO ATTEND THE STATE DINNER WITH XI JINPING - NBC
-- 09/19 02:56 [FirstSquawk] LILLY'S COMBO DOUBLES PFS VS INLURIYO ALONE IN ESR1+ MBC || LILLY'S INLURIYO GETS SECOND FDA OK IN UNDER A YEAR
-- 09/19 02:56 [FirstSquawk] NVIDIA’S JENSEN HUANG, APPLE’S TIM COOK AND OPENAI’S SAM ALTMAN TO ATTEND TRUMP CHINA XI STATE DINNER
-- 09/19 02:58 [FirstSquawk] PAKISTAN'S INTERIOR MINISTER IS EXPECTED TO VISIT IRAN THIS WEEK, ACCORDING TO MEHR.
 - 09/19 03:06 [FirstSquawk] ADVENT AND A FEDEX-LED GROUP HAVE PASSED AN 80% THRESHOLD TO ACQUIRE INPOST.
 - 09/19 03:08 [financialjuice] The German government plans to cut taxes on gasoline by 17 euro cents per litre - Sources.
 - 09/19 03:09 [FirstSquawk] GERMANY WILL REDUCE GASOLINE TAXES BY 17 EURO CENTS PER LITRE
@@ -127,3 +121,8 @@
 - 09/19 07:37 [financialjuice] OpenAI expects costs to greatly exceed revenues: sales projected to rise from $36bn this year to $350bn in 2030 - FT
 - 09/19 07:38 [financialjuice] OpenAI projects $840 billion in revenue through 2030 - FT
 - 09/19 08:43 [financialjuice] Nvidia CEO Jensen Huang: agrees with Trump on AI, doesn’t think it will end world by 2030 - CBS News
+- 09/19 08:55 [financialjuice] Ustr Jamieson Greer to join Treasury Secretary Bessent in meeting with Chinese Vice Premier He Lifeng: statement
+- 09/19 09:00 [financialjuice] Saudi civil defense issues warning over potential hazard in Riyadh
+- 09/19 09:00 [financialjuice] Saudi civil defense issues warning about potential risk in Al Kharj
+- 09/19 09:03 [financialjuice] Anthropic mulls debut of new AI model before IPO, sources say
+- 09/19 09:03 [financialjuice] Anthropic IPO may be delayed until after US midterm elections, sources say

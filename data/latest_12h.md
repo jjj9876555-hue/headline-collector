@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 08:51 JST／対象: 09/18 20:51 〜 09/19 08:51 JST（時刻はすべて日本時間）
+生成: 2026-09-19 09:05 JST／対象: 09/18 21:05 〜 09/19 09:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
 | FirstSquawk | 95 | 09/18 21:09 | 09/19 05:07 | 31分（22:36→23:07） |
-| financialjuice | 134 | 09/18 21:00 | 09/19 08:43 | ⚠ 65分（07:38→08:43） |
+| financialjuice | 135 | 09/18 21:16 | 09/19 09:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 231 行（統合前 239 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 232 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 21:00 [financialjuice] Secured Overnight Financing Rate 3.85% September 17 vs 3.62% September 16.
-- 09/18 21:00 [financialjuice] Morning Juice – US Session Prep (17th September)
-- 09/18 21:01 [financialjuice] France's Pres. Macron: France was targeted by Russian hybrid attacks in the past few weeks.
-- 09/18 21:01 [financialjuice] Morning Juice – US Session Prep (18th September)
 - 09/18 21:09 [FirstSquawk] S&P 500 FUTURES CANCEL EARLIER PROFITS AND TRADE EVEN.
 - 09/18 21:15 [FirstSquawk] FRANCE'S PRESIDENT MACRON REVEALED THAT RUSSIA CARRIED OUT HYBRID ATTACKS ON FRANCE IN RECENT WEEKS.
 - 09/18 21:16 [financialjuice] France's Pres. Macron: We will convene a G7 meeting on energy.
@@ -255,3 +251,8 @@
 - 09/19 07:37 [financialjuice] OpenAI expects costs to greatly exceed revenues: sales projected to rise from $36bn this year to $350bn in 2030 - FT
 - 09/19 07:38 [financialjuice] OpenAI projects $840 billion in revenue through 2030 - FT
 - 09/19 08:43 [financialjuice] Nvidia CEO Jensen Huang: agrees with Trump on AI, doesn’t think it will end world by 2030 - CBS News
+- 09/19 08:55 [financialjuice] Ustr Jamieson Greer to join Treasury Secretary Bessent in meeting with Chinese Vice Premier He Lifeng: statement
+- 09/19 09:00 [financialjuice] Saudi civil defense issues warning over potential hazard in Riyadh
+- 09/19 09:00 [financialjuice] Saudi civil defense issues warning about potential risk in Al Kharj
+- 09/19 09:03 [financialjuice] Anthropic mulls debut of new AI model before IPO, sources say
+- 09/19 09:03 [financialjuice] Anthropic IPO may be delayed until after US midterm elections, sources say
