@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 16:05 JST／対象: 09/18 16:05 〜 09/19 16:05 JST（時刻はすべて日本時間）
+生成: 2026-09-19 16:22 JST／対象: 09/18 16:22 〜 09/19 16:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 268 | 09/18 16:10 | 09/19 14:55 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 180 | 09/18 16:07 | 09/19 15:14 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 259 | 09/18 16:23 | 09/19 14:55 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 175 | 09/18 16:23 | 09/19 15:14 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 453 行（統合前 462 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 439 行（統合前 448 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 16:07 [financialjuice] BoJ Gov Ueda when asked about possibly about raising rates consecutively or rate hike over 25 bps: Not ruling out any particular policy measures.
-- 09/18 16:08 [financialjuice] BoJ Gov Ueda: Overseas rate hikes could impact Japan through various channels including Forex.
-- 09/18 16:10 [FirstSquawk] VOLKSWAGEN GROUP OF AMERICA IS RECALLING 208,724 VEHICLES IN THE U.S. ACCORDING TO NHTSA.
-- 09/18 16:10 [FirstSquawk] VOLKSWAGEN IS RECALLING CERTAIN U.S. CARS DUE TO A FLAWED STEERING RACK HOUSING THAT MAY CAUSE A LOSS OF STEERING CONTROL, RAISING CRASH RISKS. - NHTSA
-- 09/18 16:10 [FirstSquawk] BOJ GOVERNOR UEDA SAYS NO POLICY OPTIONS ARE OFF THE TABLE, CONSIDERING DIFFERENT SCENARIOS BASED ON INFLATION WHEN QUESTIONED ABOUT A 50 BASIS POINT OR CONTINUOUS RATE INCREASE.
-- 09/18 16:15 [financialjuice] Citigroup expects Bank of Japan to hike interest rates by 25 bp in December 2026, March and july 2027 vs prior forecast of January, June and December 2027
-- 09/18 16:16 [FirstSquawk] BOJ GOVERNOR UEDA STATED THAT IT'S UNCERTAIN IF THE PIPELINE DISRUPTION IN SAUDI ARABIA WILL LAST LONGER AND MENTIONED THE NEED TO MONITOR THE SITUATION, NOT DISCOUNTING ANY SPECIFIC POLICY ACTIONS.
-- 09/18 16:17 [FirstSquawk] BOJ GOVERNOR UEDA DID NOT EXCLUDE ANY POLICY OPTIONS REGARDING POSSIBLE RATE INCREASES OR A 25 BPS HIKE. HE PLANS TO CONSULT WITH OTHER CENTRAL BANKS ABOUT THEIR RATE HIKE INTENTIONS. UEDA STATED THAT WHILE ANALYSIS IS ESSENTIAL, IT DOES NO…
-- 09/18 16:17 [FirstSquawk] CITIGROUP PREDICTS BANK OF JAPAN WILL INCREASE INTEREST RATES BY 25 BASIS POINTS IN DECEMBER 2026, MARCH AND JULY 2027, SHIFTING FROM AN EARLIER ESTIMATE OF INCREASES IN JANUARY, JUNE, AND DECEMBER 2027.
-- 09/18 16:19 [FirstSquawk] BOJ GOVERNOR UEDA SAYS A LARGE OR REPEATED RATE INCREASE COULD RISK OVERSHOOTING.
-- 09/18 16:19 [FirstSquawk] BOJ GOVERNOR UEDA SAYS THAT AFTER A RATE INCREASE TO 1.5%, THE CONTINUATION OF ACCOMMODATIVE CONDITIONS WILL DEPEND ON ECONOMIC AND FINANCIAL FACTORS AT THAT TIME.
-- 09/18 16:19 [FirstSquawk] BOJ GOVERNOR UEDA AIMS TO TAKE APPROPRIATE ACTIONS TO PREVENT SEVERE MEASURES.
-- 09/18 16:22 [financialjuice] UKMTO gets report of incident in the Strait of Hormuz. Tanker is reported to be hit by unknown projectile.
-- 09/18 16:22 [financialjuice] France Fin. Min. Lescure: Significant effort needed on budget.
 - 09/18 16:23 [financialjuice] France Fin. Min. Lescure: Hopefully we'll have a budget.
 - 09/18 16:23 [FirstSquawk] TANKER REPORTEDLY STRUCK BY UNKNOWN PROJECTILE, ACCORDING TO UKMTO.
 - 09/18 16:23 [FirstSquawk] UKMTO REPORTS INCIDENT IN THE STRAIT OF HORMUZ.
