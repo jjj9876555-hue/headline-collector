@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 15:21 JST／対象: 09/18 15:21 〜 09/19 15:21 JST（時刻はすべて日本時間）
+生成: 2026-09-19 15:38 JST／対象: 09/18 15:38 〜 09/19 15:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 285 | 09/18 15:23 | 09/19 14:55 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 195 | 09/18 15:33 | 09/19 15:14 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 281 | 09/18 15:41 | 09/19 14:55 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 189 | 09/18 15:39 | 09/19 15:14 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 485 行（統合前 494 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 475 行（統合前 484 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 15:23 [FirstSquawk] Australia’s benchmark S&P/ASX 200 finishes 0.01% lower at 8,731.20 points.
-- 09/18 15:33 [financialjuice] BoJ Gov Ueda: Japan's economy recovering moderately albeit with some weakness.
-- 09/18 15:33 [FirstSquawk] Hackers linked to North Korea are believed to have taken crypto assets worth at least ¥1.7 billion, according to Kyodo.
-- 09/18 15:33 [financialjuice] BoJ Gov Ueda: Japan's economy likely continue growing moderately.
-- 09/18 15:35 [financialjuice] BoJ Gov Ueda: Must pay attention to impact of Middle East situation, AI-related demand expansion and FX on Japan's economic activity, prices.
-- 09/18 15:35 [financialjuice] BoJ Gov Ueda: Japan's financial conditions have been accommodative.
-- 09/18 15:36 [financialjuice] BoJ Gov Ueda: There is risk of underlying inflation overshooting 2% price target given firms' wage, price setting behavior becoming more aggressive, mid- and long-term inflation expectations rising.
-- 09/18 15:36 [financialjuice] BoJ's Gov Ueda: To keep raising rate in response to economy, prices.
-- 09/18 15:37 [FirstSquawk] BOJ Governor Ueda says Japan’s financial conditions are still supportive.
-- 09/18 15:38 [FirstSquawk] BOJ Governor Ueda says the policy adjustment was aimed at securing the 2% inflation target on a stable and sustainable basis.
 - 09/18 15:39 [financialjuice] BoJ Gov Ueda: Middle East situation continues to be uncertain.
 - 09/18 15:41 [FirstSquawk] Ueda warns that the BOJ needs to closely monitor potential upward pressure on inflation, particularly from developments in the Middle East.
 - 09/18 15:43 [financialjuice] BoJ's Gov Ueda: Stage for policy conduct has changed.
