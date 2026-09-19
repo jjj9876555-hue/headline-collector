@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 11:16 JST／対象: 09/18 11:16 〜 09/19 11:16 JST（時刻はすべて日本時間）
+生成: 2026-09-19 11:32 JST／対象: 09/18 11:32 〜 09/19 11:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 320 | 09/18 11:24 | 09/19 11:13 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 270 | 09/18 11:16 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 322 | 09/18 11:32 | 09/19 11:31 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 268 | 09/18 11:50 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 595 行（統合前 604 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,15 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 11:16 [financialjuice] S.Korea President Lee: S.Korea has role in any US-N.Korea negotiations
-- 09/18 11:18 [financialjuice] China's offshore yuan hits strongest level since July 2022
-- 09/18 11:24 [FirstSquawk] South Korea President Lee: US-North Korea talks would be important for the Korean Peninsula
-- 09/18 11:24 [FirstSquawk] President Lee: Cannot confirm whether Trump-Kim talks will take place
-- 09/18 11:24 [FirstSquawk] South Korea’s President Lee: Trump is seeking talks with North Korea
-- 09/18 11:25 [FirstSquawk] South Korea President Lee: Trump-Kim talks may be difficult, but cannot be ruled out
-- 09/18 11:25 [FirstSquawk] South Korea President Lee: South Korea will have a role in any US-North Korea talks
-- 09/18 11:25 [FirstSquawk] Offshore yuan reaches strongest level since July 2022
-- 09/18 11:29 [FirstSquawk] Waymo to begin robotaxi operations in Singapore in 2028
 - 09/18 11:32 [FirstSquawk] Tokyo weighs ordinance banning littering as downtown waste concerns grow
 - 09/18 11:35 [FirstSquawk] Pound steadies above 1.3350 ahead of UK retail sales data - FX
 - 09/18 11:37 [FirstSquawk] SpaceX’s Starship Flight 14 set to target launch from Sept. 28
@@ -619,3 +610,12 @@
 - 09/19 11:03 [financialjuice] US considers delaying major arms sales announcement to Taiwan until after November’s APEC summit in Shenzhen: SCMP
 - 09/19 11:10 [FirstSquawk] Trump enacts Russia sanctions legislation into law, White House says
 - 09/19 11:13 [FirstSquawk] Ex-Vitol oil trader gets four-year US prison sentence in Ecuador, Mexico bribery case - RTRS
+- 09/19 11:20 [FirstSquawk] Rubio, South Korean counterpart stress US-Japan-ROK cooperation for regional security – State Department
+- 09/19 11:21 [FirstSquawk] Riyadh placed on alert over potential danger, Saudi Civil Defense says
+- 09/19 11:23 [FirstSquawk] Trump says US will permanently retain ability to take necessary steps to defend Greenland
+- 09/19 11:25 [FirstSquawk] Trump: US will incur no cost under agreement with Denmark and Greenland
+- 09/19 11:25 [FirstSquawk] Meituan subsidiary under investigation in China over alleged unfair competition violations
+- 09/19 11:28 [FirstSquawk] Kim Yo Jong: North Korea will reject IAEA resolution – KCNA
+- 09/19 11:28 [FirstSquawk] IAEA resolution has no impact on North Korea’s nuclear-state status, KCNA says
+- 09/19 11:29 [FirstSquawk] Kim Jong Un says military modernization signals significant change in North Korea’s war plans – KCNA
+- 09/19 11:31 [FirstSquawk] Saudi Civil Defense: Danger in Riyadh has passed

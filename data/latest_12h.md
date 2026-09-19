@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 11:16 JST／対象: 09/18 23:16 〜 09/19 11:16 JST（時刻はすべて日本時間）
+生成: 2026-09-19 11:32 JST／対象: 09/18 23:32 〜 09/19 11:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 125 | 09/18 23:21 | 09/19 11:13 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 116 | 09/18 23:18 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 128 | 09/18 23:36 | 09/19 11:31 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 113 | 09/18 23:40 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 243 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,15 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 23:18 [financialjuice] Fear and Greed Index: 29/100 = Fear
-- 09/18 23:19 [financialjuice] Crypto Fear and Greed Index: 56/100 = Greed
-- 09/18 23:21 [FirstSquawk] WALT DISNEY CO. NAMES KARANDEEP ANAND TO ROLE OF CHIEF TECHNOLOGY OFFICER
-- 09/18 23:21 [FirstSquawk] ALLSPRING GLOBAL IS CONSIDERING A SALE WITH A VALUATION OF AROUND $4 BILLION, ACCORDING TO THE FINANCIAL TIMES.
-- 09/18 23:22 [FirstSquawk] IRAQI PM SECURITY ADVISOR SAYS NO DEADLINE FOR STATE CONTROL OF ARMS.
-- 09/18 23:22 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: MAKING GOOD PROGRESS TOWARD US-TRADE DEAL
-- 09/18 23:23 [financialjuice] Mexico's President Sheinbaum: Details to be given once a final US deal is reached.
-- 09/18 23:24 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: IN ‘CONSTANT COMMUNICATION’ WITH TRUMP
-- 09/18 23:29 [FirstSquawk] IRGC-NAVY FIRES AT LEAST 5 CRUISE MISSILES AT SHIPS IN THE STRAIT OF HORMOZ.
 - 09/18 23:36 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: WE RESPECT CANADA'S DECISION TO APPROACH EU
 - 09/18 23:40 [FirstSquawk] SAUDI ARABIA'S EAST-WEST PIPELINE SUPPORTS THE GLOBAL OIL MARKET AMIDST DISRUPTIONS IN THE STRAIT OF HORMUZ.
 - 09/18 23:40 [financialjuice] Al Arabiya Sources: Pakistan's Interior Minister is heading to Iran in the coming hours.
@@ -267,3 +258,12 @@
 - 09/19 11:03 [financialjuice] US considers delaying major arms sales announcement to Taiwan until after November’s APEC summit in Shenzhen: SCMP
 - 09/19 11:10 [FirstSquawk] Trump enacts Russia sanctions legislation into law, White House says
 - 09/19 11:13 [FirstSquawk] Ex-Vitol oil trader gets four-year US prison sentence in Ecuador, Mexico bribery case - RTRS
+- 09/19 11:20 [FirstSquawk] Rubio, South Korean counterpart stress US-Japan-ROK cooperation for regional security – State Department
+- 09/19 11:21 [FirstSquawk] Riyadh placed on alert over potential danger, Saudi Civil Defense says
+- 09/19 11:23 [FirstSquawk] Trump says US will permanently retain ability to take necessary steps to defend Greenland
+- 09/19 11:25 [FirstSquawk] Trump: US will incur no cost under agreement with Denmark and Greenland
+- 09/19 11:25 [FirstSquawk] Meituan subsidiary under investigation in China over alleged unfair competition violations
+- 09/19 11:28 [FirstSquawk] Kim Yo Jong: North Korea will reject IAEA resolution – KCNA
+- 09/19 11:28 [FirstSquawk] IAEA resolution has no impact on North Korea’s nuclear-state status, KCNA says
+- 09/19 11:29 [FirstSquawk] Kim Jong Un says military modernization signals significant change in North Korea’s war plans – KCNA
+- 09/19 11:31 [FirstSquawk] Saudi Civil Defense: Danger in Riyadh has passed

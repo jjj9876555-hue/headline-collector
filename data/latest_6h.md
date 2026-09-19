@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 11:16 JST／対象: 09/19 05:16 〜 09/19 11:16 JST（時刻はすべて日本時間）
+生成: 2026-09-19 11:32 JST／対象: 09/19 05:32 〜 09/19 11:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/19 06:15 | 09/19 06:23 | 4分（06:15→06:20） |
-| FirstSquawk | 53 | 09/19 09:09 | 09/19 11:13 | 26分（09:24→09:50） |
-| financialjuice | 60 | 09/19 05:20 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 62 | 09/19 09:09 | 09/19 11:31 | 26分（09:24→09:50） |
+| financialjuice | 54 | 09/19 05:36 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 118 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 121 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 05:20 [financialjuice] Trump on Xi visit: We get along very well.
-- 09/19 05:21 [financialjuice] Trump asked on Xi visit: We'll have a lot of different deals
-- 09/19 05:22 [financialjuice] OpenAI's Altman is going to brief the UN Security Council next week.
-- 09/19 05:26 [financialjuice] US and China are discussing cutting or eliminating China’s 15% tariff on U.S. LNG as part of a broader energy and agriculture package that could be announced when Xi Jinping visits Washington next week - Two People Familiar With Discussions…
-- 09/19 05:28 [financialjuice] The framework could also see each side cut tariffs on about $30B of goods. The move could reopen China’s market to U.S. LNG producers as a wave of new Gulf Coast export capacity comes online - Two people familiar with discussions.
-- 09/19 05:31 [financialjuice] Arab sources report that an explosion was heard in Jazan and Abha, Saudi Arabia - Fars News.
 - 09/19 05:36 [financialjuice] Trump ends remarks to reporters at the White House.
 - 09/19 05:41 [financialjuice] Russia seeks to undermine the US elections - NYT, citing intelligence.
 - 09/19 05:42 [financialjuice] Russia Aims to Inject Chaos Into Elections, U.S. Intelligence Finds
@@ -142,3 +136,12 @@
 - 09/19 11:03 [financialjuice] US considers delaying major arms sales announcement to Taiwan until after November’s APEC summit in Shenzhen: SCMP
 - 09/19 11:10 [FirstSquawk] Trump enacts Russia sanctions legislation into law, White House says
 - 09/19 11:13 [FirstSquawk] Ex-Vitol oil trader gets four-year US prison sentence in Ecuador, Mexico bribery case - RTRS
+- 09/19 11:20 [FirstSquawk] Rubio, South Korean counterpart stress US-Japan-ROK cooperation for regional security – State Department
+- 09/19 11:21 [FirstSquawk] Riyadh placed on alert over potential danger, Saudi Civil Defense says
+- 09/19 11:23 [FirstSquawk] Trump says US will permanently retain ability to take necessary steps to defend Greenland
+- 09/19 11:25 [FirstSquawk] Trump: US will incur no cost under agreement with Denmark and Greenland
+- 09/19 11:25 [FirstSquawk] Meituan subsidiary under investigation in China over alleged unfair competition violations
+- 09/19 11:28 [FirstSquawk] Kim Yo Jong: North Korea will reject IAEA resolution – KCNA
+- 09/19 11:28 [FirstSquawk] IAEA resolution has no impact on North Korea’s nuclear-state status, KCNA says
+- 09/19 11:29 [FirstSquawk] Kim Jong Un says military modernization signals significant change in North Korea’s war plans – KCNA
+- 09/19 11:31 [FirstSquawk] Saudi Civil Defense: Danger in Riyadh has passed
