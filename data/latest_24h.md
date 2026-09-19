@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 10:58 JST／対象: 09/18 10:58 〜 09/19 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 11:16 JST／対象: 09/18 11:16 〜 09/19 11:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 318 | 09/18 11:00 | 09/19 10:54 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 278 | 09/18 11:00 | 09/19 10:20 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 320 | 09/18 11:24 | 09/19 11:13 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 270 | 09/18 11:16 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 601 行（統合前 610 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 595 行（統合前 604 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 11:00 [FirstSquawk] Commodity vessel traffic through the Strait of Hormuz drops to four on Thursday, versus a 10-day average of about 16
-- 09/18 11:00 [financialjuice] Four commodity ships pass Strait of Hormuz on Thursday vs 10-day average near 16, data shows:
-- 09/18 11:05 [financialjuice] S. Korea president: Several nations moving military forces near Hormuz Strait
-- 09/18 11:05 [FirstSquawk] South Korea President Lee: Several countries are deploying military assets near the Strait of Hormuz
-- 09/18 11:10 [financialjuice] S. Korea President Lee: Won't deploy troops to join conflict, concerns over Hormuz
-- 09/18 11:11 [financialjuice] S.Korea President Lee: limited actions to safeguard South Korean economic interests, citizens possible
-- 09/18 11:12 [financialjuice] South Korea president Lee: reviewing whether to boost involvement beyond current level over Hormuz issue
-- 09/18 11:12 [FirstSquawk] President Lee: South Korea will not deploy forces to join the war amid Hormuz concerns
-- 09/18 11:12 [FirstSquawk] President Lee: South Korea may take limited action to protect its economic interests and people
-- 09/18 11:13 [FirstSquawk] South Korea’s President Lee: Considering greater involvement amid concerns over the Strait of Hormuz
-- 09/18 11:14 [financialjuice] S.Korea President Lee: Any US-N.Korea Talks Will Be Crucial to Korean Peninsula
-- 09/18 11:15 [financialjuice] S.Korea President Lee: Uncertainty remains over Trump-Kim talks
-- 09/18 11:15 [financialjuice] S.Korea president Lee: Trump seeks talks with N.Korea
-- 09/18 11:16 [financialjuice] S.Korea President Lee: Trump-Kim talks tough but not impossible
 - 09/18 11:16 [financialjuice] S.Korea President Lee: S.Korea has role in any US-N.Korea negotiations
 - 09/18 11:18 [financialjuice] China's offshore yuan hits strongest level since July 2022
 - 09/18 11:24 [FirstSquawk] South Korea President Lee: US-North Korea talks would be important for the Korean Peninsula
@@ -625,3 +611,11 @@
 - 09/19 10:53 [FirstSquawk] Ukraine’s Zelenskiy praises Trump and Congress for support of Russia sanctions bill
 - 09/19 10:53 [FirstSquawk] Zelenskiy calls for implementation of Graham-backed bill to honor senator’s memory
 - 09/19 10:54 [FirstSquawk] Paramount nears settlement with California attorney general, WSJ reports
+- 09/19 10:58 [FirstSquawk] US, Denmark and Greenland expected to sign agreement to strengthen Arctic and North Atlantic security
+- 09/19 11:00 [FirstSquawk] UAS activity prompts temporary halt to flights at Luxembourg Airport – Flightradar24
+- 09/19 11:02 [FirstSquawk] White House imposes entry restrictions on certain nonimmigrant workers
+- 09/19 11:02 [FirstSquawk] 2025 H-1B visa proclamation extended for 12 more months, White House says
+- 09/19 11:03 [FirstSquawk] US may postpone major Taiwan arms sales announcement until after November APEC summit – SCMP
+- 09/19 11:03 [financialjuice] US considers delaying major arms sales announcement to Taiwan until after November’s APEC summit in Shenzhen: SCMP
+- 09/19 11:10 [FirstSquawk] Trump enacts Russia sanctions legislation into law, White House says
+- 09/19 11:13 [FirstSquawk] Ex-Vitol oil trader gets four-year US prison sentence in Ecuador, Mexico bribery case - RTRS

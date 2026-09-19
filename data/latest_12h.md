@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 10:58 JST／対象: 09/18 22:58 〜 09/19 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 11:16 JST／対象: 09/18 23:16 〜 09/19 11:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 120 | 09/18 23:07 | 09/19 10:54 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 120 | 09/18 22:59 | 09/19 10:20 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 125 | 09/18 23:21 | 09/19 11:13 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 116 | 09/18 23:18 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 242 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 243 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 22:59 [financialjuice] Bild: The German Government plans to cut energy tax on gasoline by 14 cents per litre.
-- 09/18 23:01 [financialjuice] US LEADING INDEX CHANGE MOM ACTUAL -0.1% (FORECAST 0.1%, PREVIOUS 0.2%) $MACRO
-- 09/18 23:07 [FirstSquawk] US CDC: WORKING WITH COUNCIL OF STATE & TERRITORIAL EPIDEMIOLOGISTS TO DEVELOP STANDARDIZED CASE DEFINITION FOR DEATHS DUE TO MEASLES
-- 09/18 23:09 [FirstSquawk] TREASURY PERMITS CERTAIN TRANSACTIONS FOR LUKOIL INTERNATIONAL GMBH.
-- 09/18 23:12 [financialjuice] The Treasury allows some Lukoil International GMBH actions.
-- 09/18 23:13 [financialjuice] German Government agrees on fuel price cap - Spiegel.
-- 09/18 23:16 [financialjuice] Mexico's President Sheinbaum: I spoke with Trump on Wednesday. The call was very good, we reached some agreements.
 - 09/18 23:18 [financialjuice] Fear and Greed Index: 29/100 = Fear
 - 09/18 23:19 [financialjuice] Crypto Fear and Greed Index: 56/100 = Greed
 - 09/18 23:21 [FirstSquawk] WALT DISNEY CO. NAMES KARANDEEP ANAND TO ROLE OF CHIEF TECHNOLOGY OFFICER
@@ -266,3 +259,11 @@
 - 09/19 10:53 [FirstSquawk] Ukraine’s Zelenskiy praises Trump and Congress for support of Russia sanctions bill
 - 09/19 10:53 [FirstSquawk] Zelenskiy calls for implementation of Graham-backed bill to honor senator’s memory
 - 09/19 10:54 [FirstSquawk] Paramount nears settlement with California attorney general, WSJ reports
+- 09/19 10:58 [FirstSquawk] US, Denmark and Greenland expected to sign agreement to strengthen Arctic and North Atlantic security
+- 09/19 11:00 [FirstSquawk] UAS activity prompts temporary halt to flights at Luxembourg Airport – Flightradar24
+- 09/19 11:02 [FirstSquawk] White House imposes entry restrictions on certain nonimmigrant workers
+- 09/19 11:02 [FirstSquawk] 2025 H-1B visa proclamation extended for 12 more months, White House says
+- 09/19 11:03 [FirstSquawk] US may postpone major Taiwan arms sales announcement until after November APEC summit – SCMP
+- 09/19 11:03 [financialjuice] US considers delaying major arms sales announcement to Taiwan until after November’s APEC summit in Shenzhen: SCMP
+- 09/19 11:10 [FirstSquawk] Trump enacts Russia sanctions legislation into law, White House says
+- 09/19 11:13 [FirstSquawk] Ex-Vitol oil trader gets four-year US prison sentence in Ecuador, Mexico bribery case - RTRS

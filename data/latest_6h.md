@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 10:58 JST／対象: 09/19 04:58 〜 09/19 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 11:16 JST／対象: 09/19 05:16 〜 09/19 11:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 52 | 09/19 04:59 | 09/19 10:54 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 65 | 09/19 05:02 | 09/19 10:20 | ⚠ 65分（07:38→08:43） |
+| DeItaone | 5 | 09/19 06:15 | 09/19 06:23 | 4分（06:15→06:20） |
+| FirstSquawk | 53 | 09/19 09:09 | 09/19 11:13 | 26分（09:24→09:50） |
+| financialjuice | 60 | 09/19 05:20 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 123 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 118 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 04:59 [FirstSquawk] TRUMP: WE'LL BE RECOMMENDING DRUG FIRMS MAKE SMALL DOSE SHOTS
-- 09/19 05:00 [FirstSquawk] TRUMP: WILL RECOMMEND SHOTS IN 20% DOSES
-- 09/19 05:00 [FirstSquawk] TRUMP: WE'LL BREAK VACCINES INTO 20% DOSES
-- 09/19 05:02 [FirstSquawk] TRUMP: GOING TO RECOMMEND 5 VACCINE DOSES, GIVEN 6-MO INTERVALS
-- 09/19 05:02 [FirstSquawk] TRUMP: WILL BE DEMANDING THIS VACCINE CHANGE OF DRUG COMPANIES
-- 09/19 05:02 [financialjuice] Dow's 1.7% decline is the weekly loss since March
-- 09/19 05:06 [financialjuice] Anthropic expects over $100 bln in annualized revenue this year - NYT
-- 09/19 05:07 [FirstSquawk] ANTHROPIC ANNOUNCES ACCENTURE WILL ASSESS ITS FRONTIER AI TECHNOLOGY.
-- 09/19 05:08 [financialjuice/DeItaone] Trump on Iran: War will end soon.
-- 09/19 05:10 [DeItaone] TRUMP ON BANNING CNN, MSNOW, POLITICO FROM WHITE HOUSE: THERE MAY BE OTHERS TO JOIN THEM
-- 09/19 05:11 [financialjuice] ❗ France's credit rating downgraded to A+ from AA- at Scope
-- 09/19 05:13 [financialjuice] Trump, asked on Russia attack fear: Poland has it under control.
-- 09/19 05:16 [financialjuice] US bank deposits rose to $19.657 tln from $19.566 tln in prior week.
 - 09/19 05:20 [financialjuice] Trump on Xi visit: We get along very well.
 - 09/19 05:21 [financialjuice] Trump asked on Xi visit: We'll have a lot of different deals
 - 09/19 05:22 [financialjuice] OpenAI's Altman is going to brief the UN Security Council next week.
@@ -147,3 +134,11 @@
 - 09/19 10:53 [FirstSquawk] Ukraine’s Zelenskiy praises Trump and Congress for support of Russia sanctions bill
 - 09/19 10:53 [FirstSquawk] Zelenskiy calls for implementation of Graham-backed bill to honor senator’s memory
 - 09/19 10:54 [FirstSquawk] Paramount nears settlement with California attorney general, WSJ reports
+- 09/19 10:58 [FirstSquawk] US, Denmark and Greenland expected to sign agreement to strengthen Arctic and North Atlantic security
+- 09/19 11:00 [FirstSquawk] UAS activity prompts temporary halt to flights at Luxembourg Airport – Flightradar24
+- 09/19 11:02 [FirstSquawk] White House imposes entry restrictions on certain nonimmigrant workers
+- 09/19 11:02 [FirstSquawk] 2025 H-1B visa proclamation extended for 12 more months, White House says
+- 09/19 11:03 [FirstSquawk] US may postpone major Taiwan arms sales announcement until after November APEC summit – SCMP
+- 09/19 11:03 [financialjuice] US considers delaying major arms sales announcement to Taiwan until after November’s APEC summit in Shenzhen: SCMP
+- 09/19 11:10 [FirstSquawk] Trump enacts Russia sanctions legislation into law, White House says
+- 09/19 11:13 [FirstSquawk] Ex-Vitol oil trader gets four-year US prison sentence in Ecuador, Mexico bribery case - RTRS
