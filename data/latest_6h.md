@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 17:33 JST／対象: 09/19 11:33 〜 09/19 17:33 JST（時刻はすべて日本時間）
+生成: 2026-09-19 17:50 JST／対象: 09/19 11:50 〜 09/19 17:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 42 | 09/19 11:40 | 09/19 16:40 | ⚠ 105分（14:55→16:40） |
-| financialjuice | 6 | 09/19 15:14 | 09/19 17:30 | ⚠ 91分（15:14→16:46） |
+| FirstSquawk | 36 | 09/19 11:52 | 09/19 16:40 | ⚠ 105分（14:55→16:40） |
+| financialjuice | 9 | 09/19 15:14 | 09/19 17:42 | ⚠ 91分（15:14→16:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 48 行（統合前 48 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 45 行（統合前 45 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 11:40 [FirstSquawk] Lebanon faces sharp economic contraction in 2026 as inflation stays in double digits – IMF
-- 09/19 11:40 [FirstSquawk] IMF staff concludes mission to Lebanon
-- 09/19 11:41 [FirstSquawk] IMF says Lebanon has advanced on budget management since its previous staff mission
-- 09/19 11:43 [FirstSquawk] Paramount considers selling some cable channels, including Comedy Central, amid Warner Bros. merger talks – NYT
-- 09/19 11:49 [FirstSquawk] Greece outlook raised to positive from stable by Moody’s, Baa3 rating affirmed
-- 09/19 11:50 [FirstSquawk] Greece’s positive outlook reflects upside risks to credit profile, Moody’s says
 - 09/19 11:52 [FirstSquawk] Moody’s says Greece’s Baa3 rating reflects solid reforms and structurally favorable debt affordability
 - 09/19 11:52 [FirstSquawk] Greece’s debt levels expected to remain among highest in Moody’s rated universe through 2030
 - 09/19 11:57 [FirstSquawk] Trump: Relations with Xi are very good ahead of Chinese leader’s visit
@@ -72,3 +66,6 @@
 - 09/19 16:48 [financialjuice] China's central bank advisor: China has rebalanced its economy, but progress is insufficient
 - 09/19 16:50 [financialjuice] China's central bank advisor: stimulating demand is key to rebalancing economy
 - 09/19 17:30 [financialjuice] Moscow electoral system hit by severe attack overnight during voting period: situation under control, IFX cites central election commission head
+- 09/19 17:38 [financialjuice] EU: regrets extension of entry visa denial for Palestinian delegation members at UN General Assembly in NY
+- 09/19 17:39 [financialjuice] EU urges US to reconsider decision
+- 09/19 17:42 [financialjuice] Russia unaware of hints from US on possible deal signing before Ukraine conflict ends: RIA

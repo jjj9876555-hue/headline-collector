@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 17:33 JST／対象: 09/19 05:33 〜 09/19 17:33 JST（時刻はすべて日本時間）
+生成: 2026-09-19 17:50 JST／対象: 09/19 05:50 〜 09/19 17:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/19 06:15 | 09/19 06:23 | 4分（06:15→06:20） |
 | FirstSquawk | 105 | 09/19 09:09 | 09/19 16:40 | ⚠ 105分（14:55→16:40） |
-| financialjuice | 60 | 09/19 05:36 | 09/19 17:30 | ⚠ 251分（11:03→15:14） |
+| financialjuice | 60 | 09/19 06:04 | 09/19 17:42 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 170 行（統合前 170 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 05:36 [financialjuice] Trump ends remarks to reporters at the White House.
-- 09/19 05:41 [financialjuice] Russia seeks to undermine the US elections - NYT, citing intelligence.
-- 09/19 05:42 [financialjuice] Russia Aims to Inject Chaos Into Elections, U.S. Intelligence Finds
 - 09/19 06:04 [financialjuice] South Korean foreign minister reaffirms to Rubio Sequil intent to contribute significantly to restoring free passage through Hormuz Strait - Yonhap
 - 09/19 06:11 [financialjuice] US, Denmark nearing agreement on Greenland, sources say
 - 09/19 06:11 [financialjuice] Deal will boost military presence in Greenland without impacting sovereignty, sources say
@@ -194,3 +191,6 @@
 - 09/19 16:48 [financialjuice] China's central bank advisor: China has rebalanced its economy, but progress is insufficient
 - 09/19 16:50 [financialjuice] China's central bank advisor: stimulating demand is key to rebalancing economy
 - 09/19 17:30 [financialjuice] Moscow electoral system hit by severe attack overnight during voting period: situation under control, IFX cites central election commission head
+- 09/19 17:38 [financialjuice] EU: regrets extension of entry visa denial for Palestinian delegation members at UN General Assembly in NY
+- 09/19 17:39 [financialjuice] EU urges US to reconsider decision
+- 09/19 17:42 [financialjuice] Russia unaware of hints from US on possible deal signing before Ukraine conflict ends: RIA
