@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 02:14 JST／対象: 09/19 20:14 〜 09/20 02:14 JST（時刻はすべて日本時間）
+生成: 2026-09-20 02:29 JST／対象: 09/19 20:29 〜 09/20 02:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/19 23:19 | 09/20 02:11 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 63 | 09/19 20:17 | 09/20 01:33 | 38分（20:41→21:20） |
-| financialjuice | 12 | 09/19 20:21 | 09/20 02:14 | ⚠ 230分（20:23→00:14） |
+| DeItaone | 10 | 09/19 23:19 | 09/20 02:18 | ⚠ 74分（23:19→00:34） |
+| FirstSquawk | 67 | 09/19 20:41 | 09/20 02:22 | 44分（01:33→02:17） |
+| financialjuice | 11 | 09/20 00:14 | 09/20 02:15 | ⚠ 88分（00:33→02:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 83 行（統合前 83 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 82 行（統合前 88 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 20:17 [FirstSquawk] CARNEY TAKES HIS INVESTMENT PITCH FROM ‘MAPLE DAVOS’ TO STRASBOURG - FT
-- 09/19 20:17 [FirstSquawk] AI CHATBOTS GIVE WRONG ANSWERS TO FINANCIAL QUERIES ‘MOST OF THE TIME’ - FT
-- 09/19 20:18 [FirstSquawk] JAPAN SUPERMARKET BEGINS TRAINING FOR 100-STORE VIETNAM PUSH - NIKKEI
-- 09/19 20:21 [financialjuice] French finance ministry: public-debt-to-GDP ratio projected to hit 119.3% in 2026, 121.7% in 2027
-- 09/19 20:23 [financialjuice] French finance ministry targets budget deficit of 5.0% of GDP in 2027, 5.4% in 2026
 - 09/19 20:41 [FirstSquawk] AFP: Disruptions at Riyadh airport include flight cancellations and delays
 - 09/19 21:20 [FirstSquawk] IDF: We targeted Hezbollah infrastructure in southern Lebanon
 - 09/19 21:20 [FirstSquawk] IDF: Our targeting of Hezbollah infrastructure in southern Lebanon came in response to the detonation of an explosive device in the security zone
@@ -101,9 +96,13 @@
 - 09/20 01:32 [FirstSquawk] Israeli airstrikes on Wadi al-Hujair, the vicinity of Haris, Sarbin, Nabatieh city, and Nabatieh al-Fawqa in southern Lebanon
 - 09/20 01:32 [FirstSquawk] Russian Ministry of Defense: We targeted a ship that was transporting fuel to Ukrainian forces in Odessa, southwestern Ukraine
 - 09/20 01:33 [FirstSquawk] Israeli Home Front Command: Sirens sound in the West Bank settlement of Yitzhar to warn of an infiltration by armed men.
-- 09/20 02:01 [financialjuice] Yemen's Houthis: Attack on Aramco facility in Yanbu
-- 09/20 02:02 [financialjuice] Yemen's Houthis: 'sensitive' sites in Riyadh targeted with ballistic missiles, drones
-- 09/20 02:04 [financialjuice] No immediate Saudi confirmation of Houthi statement
+- 09/20 02:01 [financialjuice/FirstSquawk] Yemen's Houthis: Attack on Aramco facility in Yanbu
+- 09/20 02:02 [financialjuice/FirstSquawk] Yemen's Houthis: 'sensitive' sites in Riyadh targeted with ballistic missiles, drones
+- 09/20 02:04 [financialjuice/FirstSquawk] No immediate Saudi confirmation of Houthi statement
 - 09/20 02:11 [DeItaone] YEMEN'S HOUTHIS SAY THEY ATTACKED ARAMCO FACILITY IN YANBU YEMEN'S HOUTHIS SAY THEY WILL CONTINUE TARGETING SAUDI MILITARY BUILD-UPS UNTIL BLOCKADE END
-- 09/20 02:14 [financialjuice] Pakistani interior minister visits Iran on bilateral ties: Iran foreign ministry spokesperson to Iranian state TV, unaware of any US message
-- 09/20 02:14 [financialjuice] Trump on AI: I am creating AI force, similar to space force
+- 09/20 02:14 [financialjuice/FirstSquawk] Pakistani interior minister visits Iran on bilateral ties: Iran foreign ministry spokesperson to Iranian state TV, unaware of any US message
+- 09/20 02:14 [financialjuice/FirstSquawk] Trump on AI: I am creating AI force, similar to space force
+- 09/20 02:15 [financialjuice/FirstSquawk] Trump on Al: will announce new "czar" soon
+- 09/20 02:18 [DeItaone] TRUMP ON AI: I AM FORMING AI FORCE, MUCH LIKE I DID SPACE FORCE
+- 09/20 02:18 [FirstSquawk] Yemen's Houthis say they will keep targeting Saudi military build-ups until blockade ends
+- 09/20 02:18 [DeItaone] *TRUMP SAYS AI COULD REACH 25% OF US GDP
