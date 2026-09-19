@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 20:42 JST／対象: 09/19 14:42 〜 09/19 20:42 JST（時刻はすべて日本時間）
+生成: 2026-09-19 20:52 JST／対象: 09/19 14:52 〜 09/19 20:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 54 | 09/19 14:42 | 09/19 20:41 | ⚠ 114分（16:40→18:35） |
+| FirstSquawk | 50 | 09/19 14:54 | 09/19 20:41 | ⚠ 114分（16:40→18:35） |
 | financialjuice | 21 | 09/19 15:14 | 09/19 20:23 | ⚠ 91分（15:14→16:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 75 行（統合前 75 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 71 行（統合前 71 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 14:42 [FirstSquawk] Australia’s visa cuts put backpackers’ working holiday plans at risk – SCMP
-- 09/19 14:43 [FirstSquawk] Toyota restores physical buttons in Lexus ES, reflecting mixed views on touchscreen controls – NA
-- 09/19 14:43 [FirstSquawk] Turkey takes steps to steady markets following fund crisis-driven selloff – NA
-- 09/19 14:51 [FirstSquawk] FBI reportedly warns of women posing as tradwives to seduce and expose ICE officers – The Guardian
 - 09/19 14:54 [FirstSquawk] Alibaba releases open-source AI model for detecting cancer and nearly 150 medical conditions - SCMP
 - 09/19 14:55 [FirstSquawk] Pay for foreign elderly carers to be 10%–20% above current helper wages - SCMP
 - 09/19 15:14 [financialjuice] Iran executes man convicted of sharing missile site details with Israel during war: judiciary site
