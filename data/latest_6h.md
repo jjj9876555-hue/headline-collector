@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 18:18 JST／対象: 09/19 12:18 〜 09/19 18:18 JST（時刻はすべて日本時間）
+生成: 2026-09-19 18:32 JST／対象: 09/19 12:32 〜 09/19 18:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 30 | 09/19 12:18 | 09/19 16:40 | ⚠ 105分（14:55→16:40） |
-| financialjuice | 9 | 09/19 15:14 | 09/19 17:42 | ⚠ 91分（15:14→16:46） |
+| FirstSquawk | 25 | 09/19 12:34 | 09/19 16:40 | ⚠ 105分（14:55→16:40） |
+| financialjuice | 14 | 09/19 15:14 | 09/19 18:28 | ⚠ 91分（15:14→16:46） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 39 行（統合前 39 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 12:18 [FirstSquawk] Cyprus sees limited effects from Middle East war, though disruptions likely to last into 2027 – S&P
-- 09/19 12:20 [FirstSquawk] S&P sees potential for Cyprus’ external position to strengthen further, supporting positive outlook
-- 09/19 12:27 [FirstSquawk] US OCC grants conditional banking license approval to stablecoin issuer Bastion – WSJ
-- 09/19 12:31 [FirstSquawk] UK Labour government weighs mansion tax extension for properties valued above £1.5 million – The Times
-- 09/19 12:31 [FirstSquawk] UK Labour weighs cutting mansion tax threshold to £1.5 million – The Times
 - 09/19 12:34 [FirstSquawk] Kennedy names NICHD Director John Gaitanis chair of Interagency Autism Coordinating Committee – RTRS
 - 09/19 12:40 [FirstSquawk] NASA and Boeing have discussed plans for Starliner to conduct 10 or more new flights – WSJ
 - 09/19 12:44 [FirstSquawk] Chinese mining firms join forces to develop gold, copper resources in Tibet – SCMP
@@ -63,3 +58,8 @@
 - 09/19 17:38 [financialjuice] EU: regrets extension of entry visa denial for Palestinian delegation members at UN General Assembly in NY
 - 09/19 17:39 [financialjuice] EU urges US to reconsider decision
 - 09/19 17:42 [financialjuice] Russia unaware of hints from US on possible deal signing before Ukraine conflict ends: RIA
+- 09/19 18:27 [financialjuice] Anthropic, OpenAI, Spacexai, Google sued over call to ‘pace’ AI development - Politico
+- 09/19 18:28 [financialjuice] NATO spokesperson: agreement to boost security, stability, and cooperation in vital region
+- 09/19 18:28 [financialjuice] Nato spokesperson: Arctic and North Atlantic vital to collective security
+- 09/19 18:28 [financialjuice] NATO spokesperson: we welcome announcement of imminent agreement between the US, Denmark, and Greenland
+- 09/19 18:28 [financialjuice] Nato Spokesperson: Alliance will keep strengthening security in the Arctic

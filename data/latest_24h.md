@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 18:18 JST／対象: 09/18 18:18 〜 09/19 18:18 JST（時刻はすべて日本時間）
+生成: 2026-09-19 18:32 JST／対象: 09/18 18:32 〜 09/19 18:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/18 18:54 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 229 | 09/18 18:30 | 09/19 16:40 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 166 | 09/18 18:31 | 09/19 17:42 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 227 | 09/18 18:35 | 09/19 16:40 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 170 | 09/18 18:44 | 09/19 18:28 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 399 行（統合前 408 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 401 行（統合前 410 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 18:30 [FirstSquawk] NATO SECRETARY GENERAL PLANS A VISIT TO THE UNITED STATES.
-- 09/18 18:31 [FirstSquawk] JAPAN'S CABINET APPROVAL INCREASES BY 3.2 POINTS TO 33.4%, ACCORDING TO KYODO POLL.
-- 09/18 18:31 [financialjuice] Japan Cabinet approval rises 3.2 ppts to 53.4% -Kyodo Poll
 - 09/18 18:35 [FirstSquawk] KREMLIN SAYS TEMPORARY CONTROL OF NESTLE AND AUCHAN ASSETS IS DUE TO OWNERS BEING FROM UNFRIENDLY NATIONS LINKED TO ATTACKS IN KYIV.
 - 09/18 18:36 [FirstSquawk] KREMLIN STATES TEMPORARY ADMINISTRATION IN PLACE, NO FURTHER DECISIONS MADE.
 - 09/18 18:40 [FirstSquawk] ANTHROPIC AND OPENAI ARE SEEKING SMALLER DATA CENTER DEALS TO BOOST AI CAPACITY, ACCORDING TO CNBC SOURCES.
@@ -423,3 +420,8 @@
 - 09/19 17:38 [financialjuice] EU: regrets extension of entry visa denial for Palestinian delegation members at UN General Assembly in NY
 - 09/19 17:39 [financialjuice] EU urges US to reconsider decision
 - 09/19 17:42 [financialjuice] Russia unaware of hints from US on possible deal signing before Ukraine conflict ends: RIA
+- 09/19 18:27 [financialjuice] Anthropic, OpenAI, Spacexai, Google sued over call to ‘pace’ AI development - Politico
+- 09/19 18:28 [financialjuice] NATO spokesperson: agreement to boost security, stability, and cooperation in vital region
+- 09/19 18:28 [financialjuice] Nato spokesperson: Arctic and North Atlantic vital to collective security
+- 09/19 18:28 [financialjuice] NATO spokesperson: we welcome announcement of imminent agreement between the US, Denmark, and Greenland
+- 09/19 18:28 [financialjuice] Nato Spokesperson: Alliance will keep strengthening security in the Arctic
