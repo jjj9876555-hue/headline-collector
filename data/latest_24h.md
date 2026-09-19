@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 23:31 JST／対象: 09/18 23:31 〜 09/19 23:31 JST（時刻はすべて日本時間）
+生成: 2026-09-19 23:43 JST／対象: 09/18 23:43 〜 09/19 23:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/19 05:09 | 09/19 23:19 | ⚠ 1016分（06:23→23:19） |
-| FirstSquawk | 257 | 09/18 23:36 | 09/19 23:13 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 134 | 09/18 23:40 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 256 | 09/18 23:44 | 09/19 23:35 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 133 | 09/18 23:56 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 394 行（統合前 402 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 392 行（統合前 400 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 23:36 [FirstSquawk] MEXICO PRESIDENT SHEINBAUM: WE RESPECT CANADA'S DECISION TO APPROACH EU
-- 09/18 23:40 [FirstSquawk] SAUDI ARABIA'S EAST-WEST PIPELINE SUPPORTS THE GLOBAL OIL MARKET AMIDST DISRUPTIONS IN THE STRAIT OF HORMUZ.
-- 09/18 23:40 [financialjuice] Al Arabiya Sources: Pakistan's Interior Minister is heading to Iran in the coming hours.
 - 09/18 23:44 [FirstSquawk] PAKISTAN'S INTERIOR MINISTER HEADS TO IRAN IN THE COMING HOURS
 - 09/18 23:45 [FirstSquawk] PAKISTANI INTERIOR MINISTER DISCUSSES HOUTHI ESCALATION IN YEMEN DURING TEHRAN VISIT
 - 09/18 23:52 [FirstSquawk] SAUDI PIPELINE BUFFERS GLOBAL OIL MARKETS FROM HORMUZ CHOKEPOINTS Saudi Arabia's East-West Pipeline functions as a critical economic safety valve, allowing millions of barrels of crude to bypass the volatile Strait of Hormuz and flow direct…
@@ -418,3 +415,4 @@
 - 09/19 23:13 [FirstSquawk] Lebanese News Agency: Artillery shelling targets Wadi Zabqin in southern Lebanon
 - 09/19 23:13 [FirstSquawk] Lebanese News Agency: The Israeli army burns more houses in the town of Mansouri in southern Lebanon
 - 09/19 23:19 [DeItaone] CNN JOURNALISTS WERE DENIED ACCESS TO THE WHITE HOUSE GROUNDS
+- 09/19 23:35 [FirstSquawk] SPACEX’S NASDAQ 100 WEIGHTING CONFIRMED AT 2.82 PCT IN REBALANCE
