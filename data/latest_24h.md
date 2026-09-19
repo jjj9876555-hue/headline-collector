@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 17:19 JST／対象: 09/18 17:19 〜 09/19 17:19 JST（時刻はすべて日本時間）
+生成: 2026-09-19 17:33 JST／対象: 09/18 17:33 〜 09/19 17:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
 | FirstSquawk | 237 | 09/18 17:53 | 09/19 16:40 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 163 | 09/18 18:00 | 09/19 16:50 | ⚠ 251分（11:03→15:14） |
+| financialjuice | 164 | 09/18 18:00 | 09/19 17:30 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 405 行（統合前 414 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 406 行（統合前 415 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -429,3 +429,4 @@
 - 09/19 16:46 [financialjuice] China's central bank advisor: AI may exacerbate strong supply, weak demand in economy
 - 09/19 16:48 [financialjuice] China's central bank advisor: China has rebalanced its economy, but progress is insufficient
 - 09/19 16:50 [financialjuice] China's central bank advisor: stimulating demand is key to rebalancing economy
+- 09/19 17:30 [financialjuice] Moscow electoral system hit by severe attack overnight during voting period: situation under control, IFX cites central election commission head

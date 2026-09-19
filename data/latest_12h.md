@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 17:19 JST／対象: 09/19 05:19 〜 09/19 17:19 JST（時刻はすべて日本時間）
+生成: 2026-09-19 17:33 JST／対象: 09/19 05:33 〜 09/19 17:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/19 06:15 | 09/19 06:23 | 4分（06:15→06:20） |
 | FirstSquawk | 105 | 09/19 09:09 | 09/19 16:40 | ⚠ 105分（14:55→16:40） |
-| financialjuice | 65 | 09/19 05:20 | 09/19 16:50 | ⚠ 251分（11:03→15:14） |
+| financialjuice | 60 | 09/19 05:36 | 09/19 17:30 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 175 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 170 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 05:20 [financialjuice] Trump on Xi visit: We get along very well.
-- 09/19 05:21 [financialjuice] Trump asked on Xi visit: We'll have a lot of different deals
-- 09/19 05:22 [financialjuice] OpenAI's Altman is going to brief the UN Security Council next week.
-- 09/19 05:26 [financialjuice] US and China are discussing cutting or eliminating China’s 15% tariff on U.S. LNG as part of a broader energy and agriculture package that could be announced when Xi Jinping visits Washington next week - Two People Familiar With Discussions…
-- 09/19 05:28 [financialjuice] The framework could also see each side cut tariffs on about $30B of goods. The move could reopen China’s market to U.S. LNG producers as a wave of new Gulf Coast export capacity comes online - Two people familiar with discussions.
-- 09/19 05:31 [financialjuice] Arab sources report that an explosion was heard in Jazan and Abha, Saudi Arabia - Fars News.
 - 09/19 05:36 [financialjuice] Trump ends remarks to reporters at the White House.
 - 09/19 05:41 [financialjuice] Russia seeks to undermine the US elections - NYT, citing intelligence.
 - 09/19 05:42 [financialjuice] Russia Aims to Inject Chaos Into Elections, U.S. Intelligence Finds
@@ -199,3 +193,4 @@
 - 09/19 16:46 [financialjuice] China's central bank advisor: AI may exacerbate strong supply, weak demand in economy
 - 09/19 16:48 [financialjuice] China's central bank advisor: China has rebalanced its economy, but progress is insufficient
 - 09/19 16:50 [financialjuice] China's central bank advisor: stimulating demand is key to rebalancing economy
+- 09/19 17:30 [financialjuice] Moscow electoral system hit by severe attack overnight during voting period: situation under control, IFX cites central election commission head
