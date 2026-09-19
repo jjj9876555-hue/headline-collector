@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 23:43 JST／対象: 09/18 23:43 〜 09/19 23:43 JST（時刻はすべて日本時間）
+生成: 2026-09-19 23:58 JST／対象: 09/18 23:58 〜 09/19 23:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/19 05:09 | 09/19 23:19 | ⚠ 1016分（06:23→23:19） |
-| FirstSquawk | 256 | 09/18 23:44 | 09/19 23:35 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 133 | 09/18 23:56 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 253 | 09/18 23:59 | 09/19 23:54 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 131 | 09/18 23:59 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 392 行（統合前 400 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 387 行（統合前 395 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 23:44 [FirstSquawk] PAKISTAN'S INTERIOR MINISTER HEADS TO IRAN IN THE COMING HOURS
-- 09/18 23:45 [FirstSquawk] PAKISTANI INTERIOR MINISTER DISCUSSES HOUTHI ESCALATION IN YEMEN DURING TEHRAN VISIT
-- 09/18 23:52 [FirstSquawk] SAUDI PIPELINE BUFFERS GLOBAL OIL MARKETS FROM HORMUZ CHOKEPOINTS Saudi Arabia's East-West Pipeline functions as a critical economic safety valve, allowing millions of barrels of crude to bypass the volatile Strait of Hormuz and flow direct…
-- 09/18 23:56 [financialjuice] AWS signs a 5-year strategic collaboration pact with SAP to expand SAP Business AI platform to 7 new AWS regions. $AMZN $SAP
-- 09/18 23:57 [FirstSquawk] COOLING TOWER AT KURSK NUCLEAR PLANT DAMAGED BY DRONE ATTACK, SAYS IAEA.
-- 09/18 23:58 [financialjuice] IAEA: The cooling tower of the reactor unit in the Russia Kursk plant has been hit by a drone.
 - 09/18 23:59 [FirstSquawk] EU SET TO IMPOSE PROVISIONAL SAFEGUARD MEASURES ON IMPORTS OF ELECTRICAL STEEL, EU OFFICIAL JOURNAL SAYS
 - 09/18 23:59 [financialjuice] IAEA: There is no fire in the Kursk plant, and the unit's operating mode is unchanged.
 - 09/19 00:00 [financialjuice] Amazon is in the EU's crosshairs over suspected price curbs on sellers. $AMZN
@@ -416,3 +410,4 @@
 - 09/19 23:13 [FirstSquawk] Lebanese News Agency: The Israeli army burns more houses in the town of Mansouri in southern Lebanon
 - 09/19 23:19 [DeItaone] CNN JOURNALISTS WERE DENIED ACCESS TO THE WHITE HOUSE GROUNDS
 - 09/19 23:35 [FirstSquawk] SPACEX’S NASDAQ 100 WEIGHTING CONFIRMED AT 2.82 PCT IN REBALANCE
+- 09/19 23:54 [FirstSquawk] Lebanese media: Israeli artillery shelling targets the outskirts of the towns of Yahmor al-Shaqif and Zawtar al-Sharqiyah in southern Lebanon

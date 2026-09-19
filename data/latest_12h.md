@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 23:43 JST／対象: 09/19 11:43 〜 09/19 23:43 JST（時刻はすべて日本時間）
+生成: 2026-09-19 23:58 JST／対象: 09/19 11:58 〜 09/19 23:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/19 23:19 | 09/19 23:19 | - |
-| FirstSquawk | 125 | 09/19 11:49 | 09/19 23:35 | ⚠ 114分（16:40→18:35） |
+| FirstSquawk | 121 | 09/19 12:01 | 09/19 23:54 | ⚠ 114分（16:40→18:35） |
 | financialjuice | 21 | 09/19 15:14 | 09/19 20:23 | ⚠ 91分（15:14→16:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 147 行（統合前 147 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 11:49 [FirstSquawk] Greece outlook raised to positive from stable by Moody’s, Baa3 rating affirmed
-- 09/19 11:50 [FirstSquawk] Greece’s positive outlook reflects upside risks to credit profile, Moody’s says
-- 09/19 11:52 [FirstSquawk] Moody’s says Greece’s Baa3 rating reflects solid reforms and structurally favorable debt affordability
-- 09/19 11:52 [FirstSquawk] Greece’s debt levels expected to remain among highest in Moody’s rated universe through 2030
-- 09/19 11:57 [FirstSquawk] Trump: Relations with Xi are very good ahead of Chinese leader’s visit
 - 09/19 12:01 [FirstSquawk] Kennedy calls on people to get vaccinated against measles
 - 09/19 12:12 [FirstSquawk] Trump says Iran war will end soon
 - 09/19 12:18 [FirstSquawk] Cyprus upgraded to A/A-1 by S&P on ongoing fiscal and external deleveraging; outlook positive
@@ -171,3 +166,4 @@
 - 09/19 23:13 [FirstSquawk] Lebanese News Agency: The Israeli army burns more houses in the town of Mansouri in southern Lebanon
 - 09/19 23:19 [DeItaone] CNN JOURNALISTS WERE DENIED ACCESS TO THE WHITE HOUSE GROUNDS
 - 09/19 23:35 [FirstSquawk] SPACEX’S NASDAQ 100 WEIGHTING CONFIRMED AT 2.82 PCT IN REBALANCE
+- 09/19 23:54 [FirstSquawk] Lebanese media: Israeli artillery shelling targets the outskirts of the towns of Yahmor al-Shaqif and Zawtar al-Sharqiyah in southern Lebanon
