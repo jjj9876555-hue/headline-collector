@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 02:40 JST／対象: 09/19 14:40 〜 09/20 02:40 JST（時刻はすべて日本時間）
+生成: 2026-09-20 02:51 JST／対象: 09/19 14:51 〜 09/20 02:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/19 23:19 | 09/20 02:18 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 121 | 09/19 14:41 | 09/20 02:22 | ⚠ 114分（16:40→18:35） |
+| FirstSquawk | 117 | 09/19 14:54 | 09/20 02:50 | ⚠ 114分（16:40→18:35） |
 | financialjuice | 32 | 09/19 15:14 | 09/20 02:15 | ⚠ 230分（20:23→00:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 157 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 153 行（統合前 159 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 14:41 [FirstSquawk] Trump to greet Xi at air base as Chinese president arrives, officials say – NA
-- 09/19 14:42 [FirstSquawk] Australia’s visa cuts put backpackers’ working holiday plans at risk – SCMP
-- 09/19 14:43 [FirstSquawk] Toyota restores physical buttons in Lexus ES, reflecting mixed views on touchscreen controls – NA
-- 09/19 14:43 [FirstSquawk] Turkey takes steps to steady markets following fund crisis-driven selloff – NA
-- 09/19 14:51 [FirstSquawk] FBI reportedly warns of women posing as tradwives to seduce and expose ICE officers – The Guardian
 - 09/19 14:54 [FirstSquawk] Alibaba releases open-source AI model for detecting cancer and nearly 150 medical conditions - SCMP
 - 09/19 14:55 [FirstSquawk] Pay for foreign elderly carers to be 10%–20% above current helper wages - SCMP
 - 09/19 15:14 [financialjuice] Iran executes man convicted of sharing missile site details with Israel during war: judiciary site
@@ -181,3 +176,4 @@
 - 09/20 02:18 [DeItaone] TRUMP ON AI: I AM FORMING AI FORCE, MUCH LIKE I DID SPACE FORCE
 - 09/20 02:18 [FirstSquawk] Yemen's Houthis say they will keep targeting Saudi military build-ups until blockade ends
 - 09/20 02:18 [DeItaone] *TRUMP SAYS AI COULD REACH 25% OF US GDP
+- 09/20 02:50 [FirstSquawk] Israeli Army: We killed a commander in the military wing of the Hamas movement in the Khan Younis area of the Gaza Strip last Thursday
