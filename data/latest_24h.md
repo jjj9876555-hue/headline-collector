@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 12:17 JST／対象: 09/18 12:17 〜 09/19 12:17 JST（時刻はすべて日本時間）
+生成: 2026-09-19 12:32 JST／対象: 09/18 12:32 〜 09/19 12:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 293 | 09/18 12:22 | 09/19 12:12 | ⚠ 241分（05:07→09:09） |
+| FirstSquawk | 295 | 09/18 12:40 | 09/19 12:31 | ⚠ 241分（05:07→09:09） |
 | financialjuice | 221 | 09/18 13:02 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 519 行（統合前 528 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 521 行（統合前 530 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 12:22 [FirstSquawk] North Korea’s vice defense minister defends the country’s nuclear arsenal at a Chinese defense forum -YONHAP The remarks underscore Pyongyang’s continued justification of its nuclear weapons program in regional security discussions.
-- 09/18 12:24 [FirstSquawk] Indonesia FinMin: Indonesia’s bond market continues to show strength despite an uncertain global environment.
-- 09/18 12:25 [FirstSquawk] Indonesia FinMin: Indonesia has kept the 10-year bond spread over U.S. Treasuries at around 120bp so far this year.
-- 09/18 12:29 [FirstSquawk] Nikkei 225 futures strengthen further, trading 1.67% higher.
 - 09/18 12:40 [FirstSquawk] Indonesia Deputy FinMin: The government plans to retain its 200 trillion rupiah cash placement at state lenders until July 2027.
 - 09/18 12:49 [FirstSquawk] Japan’s 10-year JGB yield narrows its decline to 1.5bp, last standing at 2.975%.
 - 09/18 12:53 [FirstSquawk] Indonesia Finance Ministry official: Authorities will closely manage the supply impact of bond issuance to preserve current yield levels.
@@ -543,3 +539,9 @@
 - 09/19 11:57 [FirstSquawk] Trump: Relations with Xi are very good ahead of Chinese leader’s visit
 - 09/19 12:01 [FirstSquawk] Kennedy calls on people to get vaccinated against measles
 - 09/19 12:12 [FirstSquawk] Trump says Iran war will end soon
+- 09/19 12:18 [FirstSquawk] Cyprus upgraded to A/A-1 by S&P on ongoing fiscal and external deleveraging; outlook positive
+- 09/19 12:18 [FirstSquawk] Cyprus sees limited effects from Middle East war, though disruptions likely to last into 2027 – S&P
+- 09/19 12:20 [FirstSquawk] S&P sees potential for Cyprus’ external position to strengthen further, supporting positive outlook
+- 09/19 12:27 [FirstSquawk] US OCC grants conditional banking license approval to stablecoin issuer Bastion – WSJ
+- 09/19 12:31 [FirstSquawk] UK Labour government weighs mansion tax extension for properties valued above £1.5 million – The Times
+- 09/19 12:31 [FirstSquawk] UK Labour weighs cutting mansion tax threshold to £1.5 million – The Times

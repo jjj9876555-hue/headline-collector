@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 12:17 JST／対象: 09/19 06:17 〜 09/19 12:17 JST（時刻はすべて日本時間）
+生成: 2026-09-19 12:32 JST／対象: 09/19 06:32 〜 09/19 12:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/19 06:20 | 09/19 06:23 | 1分（06:20→06:21） |
-| FirstSquawk | 74 | 09/19 09:09 | 09/19 12:12 | 26分（09:24→09:50） |
-| financialjuice | 47 | 09/19 06:18 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 80 | 09/19 09:09 | 09/19 12:31 | 26分（09:24→09:50） |
+| financialjuice | 41 | 09/19 06:45 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 125 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 121 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 06:18 [financialjuice] North Korea: IAEA resolution does not affect country’s status as nuclear state -KCNA
-- 09/19 06:19 [financialjuice] Trump: united States has reached agreement with Kingdom of Denmark and Greenland
-- 09/19 06:20 [financialjuice] Trump: United States to maintain permanent oversight of security and other requirements in Greenland
-- 09/19 06:20 [financialjuice] Trump: no expense to United States
-- 09/19 06:20 [DeItaone] TRUMP MOVES TO BAN MAJOR MEDIA OUTLETS President Trump says CNN, MS NOW and Politico will be banned from the White House, accusing them of publishing “fake news” and warning other outlets could follow. The scope remains unclear, while First…
-- 09/19 06:20 [financialjuice] Trump: US will always have full authority to act in Greenland to protect and defend its security
-- 09/19 06:21 [DeItaone] TRUMP: I AM PLEASED TO ANNOUNCE THAT UNITED STATES OF AMERICA HAS ENTERED INTO AN AGREEMENT WITH KINGDOM OF DENMARK, AND GREENLAND,
-- 09/19 06:22 [DeItaone] TRUMP: UNITED STATES WILL FOREVER HAVE COMPLETE ABILITY TO DO WHAT IS NECESSARY IN GREENLAND IN ORDER TO SECURE AND DEFEND SECURITY OF GREENLAND
-- 09/19 06:23 [DeItaone] TRUMP: UNITED STATES PERMANENT CONTROL OVER SECURITY, AND ALL OTHER NEEDS, IN GREENLAND
-- 09/19 06:25 [financialjuice] US Secretary of State Rubio: strengthened vital role of U.S.-Japan-ROK trilateral cooperation in protecting regional security
 - 09/19 06:45 [financialjuice] Trump signs Russia sanctions bill into law: White House
 - 09/19 06:45 [financialjuice] White House proclamation: limits on entry of specific nonimmigrant workers
 - 09/19 06:46 [financialjuice] Danish PM office: Greenland, Denmark, US to sign deal next week boosting security in Arctic and North Atlantic region
@@ -149,3 +139,9 @@
 - 09/19 11:57 [FirstSquawk] Trump: Relations with Xi are very good ahead of Chinese leader’s visit
 - 09/19 12:01 [FirstSquawk] Kennedy calls on people to get vaccinated against measles
 - 09/19 12:12 [FirstSquawk] Trump says Iran war will end soon
+- 09/19 12:18 [FirstSquawk] Cyprus upgraded to A/A-1 by S&P on ongoing fiscal and external deleveraging; outlook positive
+- 09/19 12:18 [FirstSquawk] Cyprus sees limited effects from Middle East war, though disruptions likely to last into 2027 – S&P
+- 09/19 12:20 [FirstSquawk] S&P sees potential for Cyprus’ external position to strengthen further, supporting positive outlook
+- 09/19 12:27 [FirstSquawk] US OCC grants conditional banking license approval to stablecoin issuer Bastion – WSJ
+- 09/19 12:31 [FirstSquawk] UK Labour government weighs mansion tax extension for properties valued above £1.5 million – The Times
+- 09/19 12:31 [FirstSquawk] UK Labour weighs cutting mansion tax threshold to £1.5 million – The Times
