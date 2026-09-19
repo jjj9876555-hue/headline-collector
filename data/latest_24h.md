@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 09:59 JST／対象: 09/18 09:59 〜 09/19 09:59 JST（時刻はすべて日本時間）
+生成: 2026-09-19 10:15 JST／対象: 09/18 10:15 〜 09/19 10:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 306 | 09/18 10:01 | 09/19 09:53 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 286 | 09/18 10:00 | 09/19 09:13 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 305 | 09/18 10:15 | 09/19 10:08 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 283 | 09/18 10:17 | 09/19 10:15 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 597 行（統合前 606 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 593 行（統合前 602 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 10:00 [financialjuice] Taiwan overnight interbank rate begins at 0.805% versus previous session open at 0.805%
-- 09/18 10:01 [FirstSquawk] Taiwan overnight rate opens steady at 0.805%
-- 09/18 10:05 [FirstSquawk] 40-year JGB yield declines 5 bps to 4.065%
-- 09/18 10:07 [FirstSquawk] EUR/USD nudges above 1.1450 amid declines in US yields and oil
-- 09/18 10:10 [financialjuice] RBA Governor Bullock: inflation risks tilted to the upside
-- 09/18 10:11 [FirstSquawk] RBA Governor Bullock: Risks to inflation are tilted higher
-- 09/18 10:11 [financialjuice] RBA Governor Bullock: difficult to see past ongoing inflation shocks
-- 09/18 10:12 [FirstSquawk] 30-year JGB yield declines 4.5 bps to 4.03%
-- 09/18 10:12 [financialjuice] RBA deputy governor Hauser: board fully committed to reaching inflation target
-- 09/18 10:12 [FirstSquawk] RBA Governor Bullock: Persistent inflationary shocks are hard to look through
-- 09/18 10:13 [FirstSquawk] RBA Deputy Governor Hauser: Board remains fully committed to hitting the inflation target
-- 09/18 10:13 [FirstSquawk] Saudi Embassy in US: Proposed F-35 deal underscores the strength of the Saudi-US strategic partnership
-- 09/18 10:13 [financialjuice] Saudi embassy in US: Proposed F-35 sale signals strength and durability of Saudi-US strategic partnership
 - 09/18 10:15 [FirstSquawk] China’s central bank sets yuan midpoint at 6.7521 per dollar
 - 09/18 10:17 [financialjuice] PBOC sets yuan midpoint at strongest level since Feb. 3, 2023
 - 09/18 10:18 [FirstSquawk] Yuan midpoint fixed at strongest level since Feb. 3, 2023
@@ -621,3 +608,12 @@
 - 09/19 09:51 [FirstSquawk] China tightens entry and exit regulations, raising compliance concerns for businesses
 - 09/19 09:52 [FirstSquawk] Resonac, Nitto Denko join TSMC, ASML in U.S. investment focused on AI production bottlenecks
 - 09/19 09:53 [FirstSquawk] Trump says son will repay Russian businessman who funded wedding festivities — SCMP
+- 09/19 09:59 [FirstSquawk] US stocks finish choppy week on muted note as 5% Treasury yield and $100 oil fuel inflation fears - RTRS
+- 09/19 10:01 [FirstSquawk] Trump arch gets FAA approval, with ‘eternal flame’ mandated as pilot warning - RTRS
+- 09/19 10:03 [financialjuice] State Dept: approves possible $2.68 billion foreign military sale to Ukraine for air defense upgrade development
+- 09/19 10:05 [FirstSquawk] State Department clears possible $2.68B military sale to Ukraine for air defense upgrades
+- 09/19 10:06 [FirstSquawk] “Hands off”: Protesters surround Kennedy Center in opposition to Trump’s control of the arts institution - CBC
+- 09/19 10:06 [FirstSquawk] Flights resume at Luxembourg Airport following temporary disruption linked to UAS detection
+- 09/19 10:07 [FirstSquawk] System southwest of Azores has 80% chance of cyclone formation within 48 hours, NHC says
+- 09/19 10:08 [FirstSquawk] Jensen Huang says he agrees with Trump on AI, sees no risk of it ending the world by 2030
+- 09/19 10:15 [financialjuice] Over call for accelerated AI development: Politico

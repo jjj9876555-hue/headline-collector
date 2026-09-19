@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 09:59 JST／対象: 09/18 21:59 〜 09/19 09:59 JST（時刻はすべて日本時間）
+生成: 2026-09-19 10:15 JST／対象: 09/18 22:15 〜 09/19 10:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 105 | 09/18 22:04 | 09/19 09:53 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 131 | 09/18 22:00 | 09/19 09:13 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 110 | 09/18 22:16 | 09/19 10:08 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 129 | 09/18 22:16 | 09/19 10:15 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 238 行（統合前 246 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 241 行（統合前 249 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 22:00 [financialjuice] Effective Fed funds rate 3.88% September 17th vs 3.63% September 16th.
-- 09/18 22:04 [FirstSquawk] US EXPORTERS SHIP 111,000 TONS OF SOYBEANS TO CHINA.
-- 09/18 22:05 [FirstSquawk] 6.5 MAGNITUDE EARTHQUAKE OCCURS 169 KM WEST OF NIKOLSKI, ALASKA, ACCORDING TO USGS.
-- 09/18 22:15 [financialjuice] US CAPACITY UTILIZATION ACTUAL 76.3% (FORECAST 76.4%, PREVIOUS 76.3%) $MACRO
-- 09/18 22:15 [financialjuice] ❗ US INDUSTRIAL PRODUCTION MOM ACTUAL 0% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
-- 09/18 22:15 [financialjuice] US MANUFACTURING OUTPUT MOM ACTUAL -0.3% (FORECAST 0.3%, PREVIOUS 0.2%) $MACRO
 - 09/18 22:16 [financialjuice] US Industrial Production and Capacity Utilization August Report
 - 09/18 22:16 [FirstSquawk] U.S. INDUSTRIAL PRODUCTION FOR AUGUST REMAINED STABLE MONTH-OVER-MONTH; ESTIMATES WERE FOR A +0.3% INCREASE.
 - 09/18 22:17 [FirstSquawk] US FACTORY OUTPUT DROPPED BY 0.3% IN AUGUST, WHILE EXPECTATIONS WERE FOR A 0.3% INCREASE.
@@ -262,3 +256,12 @@
 - 09/19 09:51 [FirstSquawk] China tightens entry and exit regulations, raising compliance concerns for businesses
 - 09/19 09:52 [FirstSquawk] Resonac, Nitto Denko join TSMC, ASML in U.S. investment focused on AI production bottlenecks
 - 09/19 09:53 [FirstSquawk] Trump says son will repay Russian businessman who funded wedding festivities — SCMP
+- 09/19 09:59 [FirstSquawk] US stocks finish choppy week on muted note as 5% Treasury yield and $100 oil fuel inflation fears - RTRS
+- 09/19 10:01 [FirstSquawk] Trump arch gets FAA approval, with ‘eternal flame’ mandated as pilot warning - RTRS
+- 09/19 10:03 [financialjuice] State Dept: approves possible $2.68 billion foreign military sale to Ukraine for air defense upgrade development
+- 09/19 10:05 [FirstSquawk] State Department clears possible $2.68B military sale to Ukraine for air defense upgrades
+- 09/19 10:06 [FirstSquawk] “Hands off”: Protesters surround Kennedy Center in opposition to Trump’s control of the arts institution - CBC
+- 09/19 10:06 [FirstSquawk] Flights resume at Luxembourg Airport following temporary disruption linked to UAS detection
+- 09/19 10:07 [FirstSquawk] System southwest of Azores has 80% chance of cyclone formation within 48 hours, NHC says
+- 09/19 10:08 [FirstSquawk] Jensen Huang says he agrees with Trump on AI, sees no risk of it ending the world by 2030
+- 09/19 10:15 [financialjuice] Over call for accelerated AI development: Politico

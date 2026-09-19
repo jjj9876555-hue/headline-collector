@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 09:59 JST／対象: 09/19 03:59 〜 09/19 09:59 JST（時刻はすべて日本時間）
+生成: 2026-09-19 10:15 JST／対象: 09/19 04:15 〜 09/19 10:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 27 | 09/19 04:05 | 09/19 09:53 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 74 | 09/19 04:11 | 09/19 09:13 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 31 | 09/19 04:21 | 09/19 10:08 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 75 | 09/19 04:22 | 09/19 10:15 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 112 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 04:05 [FirstSquawk] TRUMP BANS CNN, MSNBC, POLITICO FROM WHITE HOUSE
-- 09/19 04:05 [FirstSquawk] TRUMP SAYS MORE MEDIA OUTLETS TO FACE WHITE HOUSE BAN
-- 09/19 04:06 [FirstSquawk] Trump on truth social I am proud to announce that, effective immediately, I am banning Fake News CNN, MSNOW (who recently changed their name from MSNBC due to lack of viewership and credibility!), and Politico (The recipients of an illegal …
-- 09/19 04:11 [financialjuice] Week Ahead: Economic Indicators 21st – 25th September (US)
 - 09/19 04:21 [FirstSquawk] NASA IN TALKS FOR BOEING'S STARLINER TO HANDLE NEW MISSIONS
 - 09/19 04:22 [financialjuice] Monday FX Option Expiries
 - 09/19 04:24 [financialjuice] Senior Houthi Member: Saudi Arabia Has Requested Iran's Mediation - Fars News.
@@ -131,3 +127,12 @@
 - 09/19 09:51 [FirstSquawk] China tightens entry and exit regulations, raising compliance concerns for businesses
 - 09/19 09:52 [FirstSquawk] Resonac, Nitto Denko join TSMC, ASML in U.S. investment focused on AI production bottlenecks
 - 09/19 09:53 [FirstSquawk] Trump says son will repay Russian businessman who funded wedding festivities — SCMP
+- 09/19 09:59 [FirstSquawk] US stocks finish choppy week on muted note as 5% Treasury yield and $100 oil fuel inflation fears - RTRS
+- 09/19 10:01 [FirstSquawk] Trump arch gets FAA approval, with ‘eternal flame’ mandated as pilot warning - RTRS
+- 09/19 10:03 [financialjuice] State Dept: approves possible $2.68 billion foreign military sale to Ukraine for air defense upgrade development
+- 09/19 10:05 [FirstSquawk] State Department clears possible $2.68B military sale to Ukraine for air defense upgrades
+- 09/19 10:06 [FirstSquawk] “Hands off”: Protesters surround Kennedy Center in opposition to Trump’s control of the arts institution - CBC
+- 09/19 10:06 [FirstSquawk] Flights resume at Luxembourg Airport following temporary disruption linked to UAS detection
+- 09/19 10:07 [FirstSquawk] System southwest of Azores has 80% chance of cyclone formation within 48 hours, NHC says
+- 09/19 10:08 [FirstSquawk] Jensen Huang says he agrees with Trump on AI, sees no risk of it ending the world by 2030
+- 09/19 10:15 [financialjuice] Over call for accelerated AI development: Politico
