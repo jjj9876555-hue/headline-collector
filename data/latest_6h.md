@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 01:32 JST／対象: 09/19 19:32 〜 09/20 01:32 JST（時刻はすべて日本時間）
+生成: 2026-09-20 01:44 JST／対象: 09/19 19:44 〜 09/20 01:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 23:19 | 09/20 01:17 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 68 | 09/19 19:46 | 09/20 01:01 | 38分（20:41→21:20） |
-| financialjuice | 8 | 09/19 19:35 | 09/20 00:33 | ⚠ 230分（20:23→00:14） |
+| FirstSquawk | 71 | 09/19 19:46 | 09/20 01:33 | 38分（20:41→21:20） |
+| financialjuice | 7 | 09/19 20:21 | 09/20 00:33 | ⚠ 230分（20:23→00:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 83 行（統合前 83 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 85 行（統合前 85 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 19:35 [financialjuice] Flames and thick black smoke rise near Riyadh airport: witness
 - 09/19 19:46 [FirstSquawk] Flames and a large plume of black smoke were seen rising near Riyadh airport on Saturday
 - 09/19 19:47 [FirstSquawk] Paramount could settle with states over Warner Bros. as soon as this weekend, sources say
 - 09/19 20:01 [FirstSquawk] China's tech rivalry with the U.S. intensifies, border controls are becoming another oversight tool for Beijing. New rules tie entry and exit more closely to national security concerns.
@@ -107,3 +106,6 @@
 - 09/20 01:16 [DeItaone] HORMUZ OIL FLOWS HIT SIX-MONTH HIGH Oil and LNG shipments through the Strait of Hormuz have reached their highest level in six months, as U.S. mine-clearing and naval protection efforts boost tanker traffic. CENTCOM says Gulf allies have mo…
 - 09/20 01:17 [DeItaone] U.S., DENMARK AND GREENLAND REACH SECURITY DEAL The U.S., Denmark and Greenland have agreed to expand America’s military presence in Greenland, with signing expected next week at the UN General Assembly. Denmark and Greenland insist the agr…
 - 09/20 01:17 [DeItaone] WHITE HOUSE ENFORCES BAN ON CNN, MS NOW AND POLITICO The White House confiscated press passes and denied access to journalists from CNN, MS NOW and Politico, following through on Trump’s announced ban. All three outlets say they will defend…
+- 09/20 01:32 [FirstSquawk] Israeli airstrikes on Wadi al-Hujair, the vicinity of Haris, Sarbin, Nabatieh city, and Nabatieh al-Fawqa in southern Lebanon
+- 09/20 01:32 [FirstSquawk] Russian Ministry of Defense: We targeted a ship that was transporting fuel to Ukrainian forces in Odessa, southwestern Ukraine
+- 09/20 01:33 [FirstSquawk] Israeli Home Front Command: Sirens sound in the West Bank settlement of Yitzhar to warn of an infiltration by armed men.

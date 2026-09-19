@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 01:32 JST／対象: 09/19 01:32 〜 09/20 01:32 JST（時刻はすべて日本時間）
+生成: 2026-09-20 01:44 JST／対象: 09/19 01:44 〜 09/20 01:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 14 | 09/19 05:09 | 09/20 01:17 | ⚠ 1016分（06:23→23:19） |
-| FirstSquawk | 250 | 09/19 01:35 | 09/20 01:01 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 119 | 09/19 01:32 | 09/20 00:33 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 250 | 09/19 01:44 | 09/20 01:33 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 117 | 09/19 01:44 | 09/20 00:33 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 381 行（統合前 384 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 379 行（統合前 381 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 01:32 [financialjuice] Trump: We’ll see’ on whether to annihilate Iran - NewsNation
-- 09/19 01:35 [FirstSquawk] TRUMP TELLS NEWSNATION ‘WE’LL SEE’ ON WHETHER TO ‘ANNIHILATE’ IRAN
-- 09/19 01:38 [financialjuice] Fed's Schmid: We are in a fairly normalized place.
-- 09/19 01:39 [FirstSquawk] FED'S SCHMID: ECONOMY STRONG, GROWING
-- 09/19 01:42 [FirstSquawk] FED'S SCHMID: US ECONOMY IS STRONG, GROWING; WE’RE IN A FAIRLY NORMALIZED PLACE
 - 09/19 01:44 [financialjuice] Senior Saudi security, military delegation met Mossad and Israeli military intelligence leaders to seek support against Houthi operations under US CENTCOM supervision - Palestinian source via ISNA
 - 09/19 01:44 [FirstSquawk] A RELIABLE AMERICAN OFFICIAL REVEALED THAT 60 MILLION BARRELS OF OIL, BELIEVED TO BE FROM IRAN, ARE TRAPPED ON SHIPS FACING SANCTIONS.
 - 09/19 01:48 [financialjuice] Reports of an explosion near the Strait of Hormuz - al Hadath
@@ -405,3 +400,6 @@
 - 09/20 01:16 [DeItaone] HORMUZ OIL FLOWS HIT SIX-MONTH HIGH Oil and LNG shipments through the Strait of Hormuz have reached their highest level in six months, as U.S. mine-clearing and naval protection efforts boost tanker traffic. CENTCOM says Gulf allies have mo…
 - 09/20 01:17 [DeItaone] U.S., DENMARK AND GREENLAND REACH SECURITY DEAL The U.S., Denmark and Greenland have agreed to expand America’s military presence in Greenland, with signing expected next week at the UN General Assembly. Denmark and Greenland insist the agr…
 - 09/20 01:17 [DeItaone] WHITE HOUSE ENFORCES BAN ON CNN, MS NOW AND POLITICO The White House confiscated press passes and denied access to journalists from CNN, MS NOW and Politico, following through on Trump’s announced ban. All three outlets say they will defend…
+- 09/20 01:32 [FirstSquawk] Israeli airstrikes on Wadi al-Hujair, the vicinity of Haris, Sarbin, Nabatieh city, and Nabatieh al-Fawqa in southern Lebanon
+- 09/20 01:32 [FirstSquawk] Russian Ministry of Defense: We targeted a ship that was transporting fuel to Ukrainian forces in Odessa, southwestern Ukraine
+- 09/20 01:33 [FirstSquawk] Israeli Home Front Command: Sirens sound in the West Bank settlement of Yitzhar to warn of an infiltration by armed men.
