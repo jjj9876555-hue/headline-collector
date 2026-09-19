@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 23:58 JST／対象: 09/19 17:58 〜 09/19 23:58 JST（時刻はすべて日本時間）
+生成: 2026-09-20 00:16 JST／対象: 09/19 18:16 〜 09/20 00:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/19 23:19 | 09/19 23:19 | - |
 | FirstSquawk | 88 | 09/19 18:35 | 09/19 23:54 | 38分（20:41→21:20） |
-| financialjuice | 12 | 09/19 18:27 | 09/19 20:23 | ⚠ 46分（19:35→20:21） |
+| financialjuice | 13 | 09/19 18:27 | 09/20 00:14 | ⚠ 230分（20:23→00:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 101 行（統合前 101 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -125,3 +125,4 @@
 - 09/19 23:19 [DeItaone] CNN JOURNALISTS WERE DENIED ACCESS TO THE WHITE HOUSE GROUNDS
 - 09/19 23:35 [FirstSquawk] SPACEX’S NASDAQ 100 WEIGHTING CONFIRMED AT 2.82 PCT IN REBALANCE
 - 09/19 23:54 [FirstSquawk] Lebanese media: Israeli artillery shelling targets the outskirts of the towns of Yahmor al-Shaqif and Zawtar al-Sharqiyah in southern Lebanon
+- 09/20 00:14 [financialjuice] German General Breuer chosen to lead NATO's top military committee: current chair says

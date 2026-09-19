@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 23:58 JST／対象: 09/19 11:58 〜 09/19 23:58 JST（時刻はすべて日本時間）
+生成: 2026-09-20 00:16 JST／対象: 09/19 12:16 〜 09/20 00:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/19 23:19 | 09/19 23:19 | - |
-| FirstSquawk | 121 | 09/19 12:01 | 09/19 23:54 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 21 | 09/19 15:14 | 09/19 20:23 | ⚠ 91分（15:14→16:46） |
+| FirstSquawk | 119 | 09/19 12:18 | 09/19 23:54 | ⚠ 114分（16:40→18:35） |
+| financialjuice | 22 | 09/19 15:14 | 09/20 00:14 | ⚠ 230分（20:23→00:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 143 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 142 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 12:01 [FirstSquawk] Kennedy calls on people to get vaccinated against measles
-- 09/19 12:12 [FirstSquawk] Trump says Iran war will end soon
 - 09/19 12:18 [FirstSquawk] Cyprus upgraded to A/A-1 by S&P on ongoing fiscal and external deleveraging; outlook positive
 - 09/19 12:18 [FirstSquawk] Cyprus sees limited effects from Middle East war, though disruptions likely to last into 2027 – S&P
 - 09/19 12:20 [FirstSquawk] S&P sees potential for Cyprus’ external position to strengthen further, supporting positive outlook
@@ -167,3 +165,4 @@
 - 09/19 23:19 [DeItaone] CNN JOURNALISTS WERE DENIED ACCESS TO THE WHITE HOUSE GROUNDS
 - 09/19 23:35 [FirstSquawk] SPACEX’S NASDAQ 100 WEIGHTING CONFIRMED AT 2.82 PCT IN REBALANCE
 - 09/19 23:54 [FirstSquawk] Lebanese media: Israeli artillery shelling targets the outskirts of the towns of Yahmor al-Shaqif and Zawtar al-Sharqiyah in southern Lebanon
+- 09/20 00:14 [financialjuice] German General Breuer chosen to lead NATO's top military committee: current chair says
