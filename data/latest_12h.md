@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 12:32 JST／対象: 09/19 00:32 〜 09/19 12:32 JST（時刻はすべて日本時間）
+生成: 2026-09-19 12:45 JST／対象: 09/19 00:45 〜 09/19 12:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 132 | 09/19 00:40 | 09/19 12:31 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 106 | 09/19 00:32 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| FirstSquawk | 132 | 09/19 00:49 | 09/19 12:44 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 100 | 09/19 00:48 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 240 行（統合前 248 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 234 行（統合前 242 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 00:32 [financialjuice] Fed's Schmid: I supported rate hike, recent data suggest inflation trending above 3%.
-- 09/19 00:32 [financialjuice] Fed's Schmid: Rate hike was a step towards returning to the 2% target.
-- 09/19 00:33 [financialjuice] ❗ Fed's Schmid: Current inflation problem not just about energy. Price growth has been 'hot' across a broad set of goods and services.
-- 09/19 00:33 [financialjuice] Fed's Schmid: High inflation a sign supply and demand are out of balance.
-- 09/19 00:33 [financialjuice] Fed's Schmid: Outside of inflation, the economy is performing well.
-- 09/19 00:33 [financialjuice] Fed's Schmid: Labor market appears in balance and economic growth solid.
-- 09/19 00:40 [FirstSquawk] FED'S SCHMID SUPPORTED HIKE; SAYS RECENT DATA SUGGEST INFLATION TRENDING ABOVE 3%
-- 09/19 00:40 [FirstSquawk] FED’S SCHMID: LABOUR MARKET APPEARS TO BE IN BALANCE
-- 09/19 00:41 [FirstSquawk] RUSSIAN FORCES HIT DRY CARGO SHIP IN ODESA – IFX CITING RUSSIAN DEFENCE MINISTRY
 - 09/19 00:48 [financialjuice/FirstSquawk] BoJ likely conducted rate checks in currency market - Nikkei
 - 09/19 00:51 [financialjuice] Fed's Schmid: I agree with Chairman Warsh's framework on why bond yields have gone up. Economic growth, demand for capital from al investment, geopolitical challenges.
 - 09/19 01:01 [FirstSquawk] CITIGROUP’S FRASER EXPECTED TO ATTEND TRUMP'S STATE DINNER FOR CHINESE PRESIDENT XI
@@ -264,3 +255,6 @@
 - 09/19 12:27 [FirstSquawk] US OCC grants conditional banking license approval to stablecoin issuer Bastion – WSJ
 - 09/19 12:31 [FirstSquawk] UK Labour government weighs mansion tax extension for properties valued above £1.5 million – The Times
 - 09/19 12:31 [FirstSquawk] UK Labour weighs cutting mansion tax threshold to £1.5 million – The Times
+- 09/19 12:34 [FirstSquawk] Kennedy names NICHD Director John Gaitanis chair of Interagency Autism Coordinating Committee – RTRS
+- 09/19 12:40 [FirstSquawk] NASA and Boeing have discussed plans for Starliner to conduct 10 or more new flights – WSJ
+- 09/19 12:44 [FirstSquawk] Chinese mining firms join forces to develop gold, copper resources in Tibet – SCMP
