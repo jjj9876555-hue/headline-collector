@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 03:25 JST／対象: 09/19 21:25 〜 09/20 03:25 JST（時刻はすべて日本時間）
+生成: 2026-09-20 03:43 JST／対象: 09/19 21:43 〜 09/20 03:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/19 23:19 | 09/20 02:18 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 62 | 09/19 21:39 | 09/20 03:10 | 44分（01:33→02:17） |
-| financialjuice | 15 | 09/20 00:14 | 09/20 03:24 | ⚠ 88分（00:33→02:01） |
+| DeItaone | 11 | 09/19 23:19 | 09/20 03:32 | ⚠ 74分（23:19→00:34） |
+| FirstSquawk | 61 | 09/19 22:00 | 09/20 03:10 | 44分（01:33→02:17） |
+| financialjuice | 18 | 09/20 00:14 | 09/20 03:38 | ⚠ 88分（00:33→02:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 81 行（統合前 87 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 84 行（統合前 90 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 21:39 [FirstSquawk] AFP: Aramco fuel tank catches fire near Riyadh airport
 - 09/19 22:00 [FirstSquawk] U.S. Central Command Commander: Main Crossing Corridors in the Strait of Hormuz Are Mine-Free
 - 09/19 22:01 [FirstSquawk] US Central Command Commander: Iran has not exported a single barrel of oil thanks to our tight blockade
 - 09/19 22:01 [FirstSquawk] Commander of US Central Command: Thousands of ships cross the Strait of Hormuz
@@ -105,3 +104,7 @@
 - 09/20 03:22 [financialjuice] Turkish foreign minister: current middle east crisis no longer economically bearable
 - 09/20 03:23 [financialjuice] Turkish foreign minister: proposals conveyed to all sides to end Saudi-Houthi fighting
 - 09/20 03:24 [financialjuice] Turkish foreign minister: unacceptable for Saudi Arabia to become involved in US-Iran war, no wish to join conflict
+- 09/20 03:25 [financialjuice] Turkish foreign minister: Saudi Arabia could have military requirements, to be reviewed in trilateral defense pact with Pakistan
+- 09/20 03:32 [DeItaone] U.S.-CHINA TALKS SET AHEAD OF TRUMP-XI SUMMIT Treasury Secretary Scott Bessent will meet Chinese Vice Premier He Lifeng on Sunday in New York to discuss AI security, trade and broader economic issues. The talks come just days before Trump h…
+- 09/20 03:32 [financialjuice] Turkish foreign minister: initiatives exist to end Ukraine-Russia war, but hard for lasting solution
+- 09/20 03:38 [financialjuice] Turkish foreign minister: sent proposal to Ukraine, Russia to halt fighting in Black Sea, awaiting replies
