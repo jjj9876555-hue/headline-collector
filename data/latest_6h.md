@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 05:03 JST／対象: 09/19 23:03 〜 09/20 05:03 JST（時刻はすべて日本時間）
+生成: 2026-09-20 05:23 JST／対象: 09/19 23:23 〜 09/20 05:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 33 | 09/19 23:13 | 09/20 03:10 | 44分（01:33→02:17） |
+| DeItaone | 11 | 09/20 00:34 | 09/20 03:47 | ⚠ 74分（02:18→03:32） |
+| FirstSquawk | 29 | 09/19 23:35 | 09/20 03:10 | 44分（01:33→02:17） |
 | financialjuice | 22 | 09/20 00:14 | 09/20 04:39 | ⚠ 88分（00:33→02:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 61 行（統合前 67 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 56 行（統合前 62 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 23:13 [FirstSquawk] Lebanese News Agency: Artillery shelling targets Wadi Zabqin and the Israeli army burns more houses in the town of Mansouri in southern Lebanon
-- 09/19 23:13 [FirstSquawk] Lebanese News Agency: Two Israeli bombings in the towns of Compound and Taloussa in southern Lebanon
-- 09/19 23:13 [FirstSquawk] Lebanese News Agency: Artillery shelling targets Wadi Zabqin in southern Lebanon
-- 09/19 23:13 [FirstSquawk] Lebanese News Agency: The Israeli army burns more houses in the town of Mansouri in southern Lebanon
-- 09/19 23:19 [DeItaone] CNN JOURNALISTS WERE DENIED ACCESS TO THE WHITE HOUSE GROUNDS
 - 09/19 23:35 [FirstSquawk] SPACEX’S NASDAQ 100 WEIGHTING CONFIRMED AT 2.82 PCT IN REBALANCE
 - 09/19 23:54 [FirstSquawk] Lebanese media: Israeli artillery shelling targets the outskirts of the towns of Yahmor al-Shaqif and Zawtar al-Sharqiyah in southern Lebanon
 - 09/20 00:14 [financialjuice] German General Breuer chosen to lead NATO's top military committee: current chair says
