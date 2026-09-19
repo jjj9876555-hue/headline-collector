@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 18:44 JST／対象: 09/19 06:44 〜 09/19 18:44 JST（時刻はすべて日本時間）
+生成: 2026-09-19 18:58 JST／対象: 09/19 06:58 〜 09/19 18:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 131 | 09/19 09:09 | 09/19 18:41 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 56 | 09/19 06:45 | 09/19 18:40 | ⚠ 251分（11:03→15:14） |
+| financialjuice | 50 | 09/19 07:02 | 09/19 18:40 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 187 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 181 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 06:45 [financialjuice] Trump signs Russia sanctions bill into law: White House
-- 09/19 06:45 [financialjuice] White House proclamation: limits on entry of specific nonimmigrant workers
-- 09/19 06:46 [financialjuice] Danish PM office: Greenland, Denmark, US to sign deal next week boosting security in Arctic and North Atlantic region
-- 09/19 06:46 [financialjuice] Flights at Luxembourg paused amid unauthorized drone activity, says Flightradar24
-- 09/19 06:47 [financialjuice] White House: 2025 proclamation on H-1B visas extended by 12 months
-- 09/19 06:54 [financialjuice] Saudi civil defense issues warning over potential threat in Farasan
 - 09/19 07:02 [financialjuice] Saudi civil defense: danger has subsided in Farasan
 - 09/19 07:08 [financialjuice] Ukraine's Zelenskiy thanks Trump for signing Russia sanctions bill and Congress members for backing it
 - 09/19 07:08 [financialjuice] Zelenskiy: Best way to honor Senator Lindsey Graham's memory is to enact provisions of bill he backed
