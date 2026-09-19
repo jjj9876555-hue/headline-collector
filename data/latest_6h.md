@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 11:58 JST／対象: 09/19 05:58 〜 09/19 11:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 12:17 JST／対象: 09/19 06:17 〜 09/19 12:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/19 06:15 | 09/19 06:23 | 4分（06:15→06:20） |
-| FirstSquawk | 72 | 09/19 09:09 | 09/19 11:57 | 26分（09:24→09:50） |
-| financialjuice | 51 | 09/19 06:04 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
+| DeItaone | 4 | 09/19 06:20 | 09/19 06:23 | 1分（06:20→06:21） |
+| FirstSquawk | 74 | 09/19 09:09 | 09/19 12:12 | 26分（09:24→09:50） |
+| financialjuice | 47 | 09/19 06:18 | 09/19 11:03 | ⚠ 65分（07:38→08:43） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 128 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 06:04 [financialjuice] South Korean foreign minister reaffirms to Rubio Sequil intent to contribute significantly to restoring free passage through Hormuz Strait - Yonhap
-- 09/19 06:11 [financialjuice] US, Denmark nearing agreement on Greenland, sources say
-- 09/19 06:11 [financialjuice] Deal will boost military presence in Greenland without impacting sovereignty, sources say
-- 09/19 06:15 [DeItaone] U.S. AND DENMARK CLOSE IN ON GREENLAND DEAL The U.S. and Denmark are nearing a potential agreement that could expand the American military presence in Greenland, Reuters reports. The proposed deal would stop short of Trump’s stated ambition…
-- 09/19 06:17 [financialjuice] North Korea's Kim Jong Un: Modernisation across military signals major shift in war response 계획 - KCNA
 - 09/19 06:18 [financialjuice] North Korea: IAEA resolution does not affect country’s status as nuclear state -KCNA
 - 09/19 06:19 [financialjuice] Trump: united States has reached agreement with Kingdom of Denmark and Greenland
 - 09/19 06:20 [financialjuice] Trump: United States to maintain permanent oversight of security and other requirements in Greenland
@@ -152,3 +147,5 @@
 - 09/19 11:52 [FirstSquawk] Moody’s says Greece’s Baa3 rating reflects solid reforms and structurally favorable debt affordability
 - 09/19 11:52 [FirstSquawk] Greece’s debt levels expected to remain among highest in Moody’s rated universe through 2030
 - 09/19 11:57 [FirstSquawk] Trump: Relations with Xi are very good ahead of Chinese leader’s visit
+- 09/19 12:01 [FirstSquawk] Kennedy calls on people to get vaccinated against measles
+- 09/19 12:12 [FirstSquawk] Trump says Iran war will end soon
