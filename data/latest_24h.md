@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 02:51 JST／対象: 09/19 02:51 〜 09/20 02:51 JST（時刻はすべて日本時間）
+生成: 2026-09-20 03:03 JST／対象: 09/19 03:03 〜 09/20 03:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/19 05:09 | 09/20 02:18 | ⚠ 1016分（06:23→23:19） |
-| FirstSquawk | 243 | 09/19 02:55 | 09/20 02:50 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 117 | 09/19 02:52 | 09/20 02:15 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 239 | 09/19 03:06 | 09/20 02:50 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 115 | 09/19 03:08 | 09/20 02:15 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 369 行（統合前 377 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 363 行（統合前 371 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 02:52 [financialjuice] Pakistan Interior Minister Mohsen Naqvi could visit Tehran this week - Mehr News citing reliable source
-- 09/19 02:52 [financialjuice] Trump expected to sign the Russia sanctions bill today - CNN
-- 09/19 02:55 [FirstSquawk] TRUMP’S AI WHISPERER DAVID SACKS TO ATTEND THE STATE DINNER WITH XI JINPING - NBC
-- 09/19 02:56 [FirstSquawk] LILLY'S COMBO DOUBLES PFS VS INLURIYO ALONE IN ESR1+ MBC || LILLY'S INLURIYO GETS SECOND FDA OK IN UNDER A YEAR
-- 09/19 02:56 [FirstSquawk] NVIDIA’S JENSEN HUANG, APPLE’S TIM COOK AND OPENAI’S SAM ALTMAN TO ATTEND TRUMP CHINA XI STATE DINNER
-- 09/19 02:58 [FirstSquawk] PAKISTAN'S INTERIOR MINISTER IS EXPECTED TO VISIT IRAN THIS WEEK, ACCORDING TO MEHR.
 - 09/19 03:06 [FirstSquawk] ADVENT AND A FEDEX-LED GROUP HAVE PASSED AN 80% THRESHOLD TO ACQUIRE INPOST.
 - 09/19 03:08 [financialjuice] The German government plans to cut taxes on gasoline by 17 euro cents per litre - Sources.
 - 09/19 03:09 [FirstSquawk] GERMANY WILL REDUCE GASOLINE TAXES BY 17 EURO CENTS PER LITRE
