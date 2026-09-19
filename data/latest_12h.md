@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 22:16 JST／対象: 09/19 10:16 〜 09/19 22:16 JST（時刻はすべて日本時間）
+生成: 2026-09-19 22:31 JST／対象: 09/19 10:31 〜 09/19 22:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 160 | 09/19 10:17 | 09/19 22:13 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 23 | 09/19 10:20 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 150 | 09/19 10:31 | 09/19 22:13 | ⚠ 114分（16:40→18:35） |
+| financialjuice | 22 | 09/19 11:03 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 183 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 172 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 10:17 [FirstSquawk] OPENAI sees revenue climbing from $36B to $350B by 2030, with expenses far exceeding revenues – FT
-- 09/19 10:17 [FirstSquawk] OpenAI faces projected $280B cash burn through 2030, FT reports
-- 09/19 10:19 [FirstSquawk] Trump and Xi set to deliver remarks at state dinner, White House spokeswoman says
-- 09/19 10:20 [FirstSquawk] Lawsuit targets Anthropic, OpenAI, xAI and Google over efforts to accelerate AI development – Politico
-- 09/19 10:20 [financialjuice] China vice premier He Lifeng to lead trade delegation to US Sept. 19-23: MOFCOM
-- 09/19 10:21 [FirstSquawk] He Lifeng to head Chinese trade delegation for US visit from Sept. 19–23 – MOFCOM
-- 09/19 10:25 [FirstSquawk] AI diplomacy takes center stage; A senior US official confirms that artificial intelligence risks and safeguards are formally set for discussion in the upcoming bilateral meeting with Xi Jinping. The focus will likely center on autonomous w…
-- 09/19 10:26 [FirstSquawk] Keeping the trade détente intact is officially up for negotiation. The Busan truce has been added to the Trump–Xi summit agenda, signaling that both sides want to avoid a fresh wave of retaliatory tariffs and export bans before current agre…
-- 09/19 10:27 [FirstSquawk] Institutional demand builds in Brazilian homebuilding: Invesco has expanded its equity footprint in Cyrela Brazil Realty, crossing the 5% common share ownership threshold according to a regulatory disclosure.
-- 09/19 10:27 [FirstSquawk] Bezos, Musk, Dell and Altman among guests expected at state dinner – senior US official
-- 09/19 10:28 [FirstSquawk] US official: More cooperation from China needed on fentanyl issue
 - 09/19 10:31 [FirstSquawk] Trump bars CNN, MS NOW and Politico from White House, accuses outlets of publishing “fake news”
 - 09/19 10:33 [FirstSquawk] Trump to welcome Xi at Joint Base Andrews, White House says
 - 09/19 10:34 [FirstSquawk] Delta says it has not used, tested or planned fares based on individual customer data

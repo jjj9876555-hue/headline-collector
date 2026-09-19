@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 22:16 JST／対象: 09/18 22:16 〜 09/19 22:16 JST（時刻はすべて日本時間）
+生成: 2026-09-19 22:31 JST／対象: 09/18 22:31 〜 09/19 22:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 271 | 09/18 22:16 | 09/19 22:13 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 151 | 09/18 22:25 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 267 | 09/18 22:31 | 09/19 22:13 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 148 | 09/18 22:31 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 424 行（統合前 432 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 417 行（統合前 425 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 22:16 [FirstSquawk] U.S. INDUSTRIAL PRODUCTION FOR AUGUST REMAINED STABLE MONTH-OVER-MONTH; ESTIMATES WERE FOR A +0.3% INCREASE.
-- 09/18 22:17 [FirstSquawk] US FACTORY OUTPUT DROPPED BY 0.3% IN AUGUST, WHILE EXPECTATIONS WERE FOR A 0.3% INCREASE.
-- 09/18 22:20 [FirstSquawk] TRUMP WILL REVEAL A MODEL FOR MEDICAID DRUG PRICING COVERING ALL 50 STATES, D.C., AND PUERTO RICO, ACCORDING TO A WHITE HOUSE OFFICIAL.
-- 09/18 22:23 [FirstSquawk] US LAW FIRM WEIL EXAMINES MERGER POSSIBILITIES FOLLOWING THE EXIT OF KEY PARTNERS.
-- 09/18 22:25 [financialjuice] US INDUSTRIAL PRODUCTION YOY ACTUAL 1.42% (FORECAST -, PREVIOUS 1.08%) $MACRO
-- 09/18 22:27 [financialjuice] PBoC Vice Governor: AI brings new risks to finance.
-- 09/18 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: 935.5 MLN NASDAQ 100: 1127.1 MLN DOW 30: 311.3 MLN MAG 7: 655.3 MLN $MACRO
 - 09/18 22:31 [financialjuice] Fed Vice Chair for Supervision Bowman does not comment on economic or monetary policy outlook in prepared remarks to event in London.
 - 09/18 22:31 [FirstSquawk] S&P 500 UP 9.60 POINTS, OR 0.13 PERCENT, AT 7,647.36 AFTER MARKET OPEN NASDAQ UP 110.73 POINTS, OR 0.42 PERCENT, AT 26,529.03 AFTER MARKET OPEN DOW JONES DOWN 85.24 POINTS, OR 0.16 PERCENT, AT 51,692.80 AFTER MARKET OPEN
 - 09/18 22:31 [financialjuice] Fed's Bowman: Supervisory delays were not due to deregulatory efforts pursued earlier by the Fed.
