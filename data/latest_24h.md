@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 04:51 JST／対象: 09/19 04:51 〜 09/20 04:51 JST（時刻はすべて日本時間）
+生成: 2026-09-20 05:03 JST／対象: 09/19 05:03 〜 09/20 05:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 19 | 09/19 05:09 | 09/20 03:47 | ⚠ 1016分（06:23→23:19） |
-| FirstSquawk | 227 | 09/19 04:54 | 09/20 03:10 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 110 | 09/19 04:54 | 09/20 04:39 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 221 | 09/19 05:07 | 09/20 03:10 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 108 | 09/19 05:06 | 09/20 04:39 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 349 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 341 行（統合前 348 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 04:54 [FirstSquawk] TRUMP ANNOUNCES A NEW PROGRAM PROVIDING MFN DRUG DISCOUNTS DIRECTLY TO STATE MEDICAID PROGRAMS COVERING NEARLY 70 MLN AMERICANS - FOX
-- 09/19 04:54 [financialjuice] Nscale: Entered unsecured convertable loan notes pact with Nvidia. $NVDA
-- 09/19 04:59 [FirstSquawk] TRUMP: WE'LL BE RECOMMENDING DRUG FIRMS MAKE SMALL DOSE SHOTS
-- 09/19 05:00 [FirstSquawk] TRUMP: WILL RECOMMEND SHOTS IN 20% DOSES
-- 09/19 05:00 [FirstSquawk] TRUMP: WE'LL BREAK VACCINES INTO 20% DOSES
-- 09/19 05:02 [FirstSquawk] TRUMP: GOING TO RECOMMEND 5 VACCINE DOSES, GIVEN 6-MO INTERVALS
-- 09/19 05:02 [FirstSquawk] TRUMP: WILL BE DEMANDING THIS VACCINE CHANGE OF DRUG COMPANIES
-- 09/19 05:02 [financialjuice] Dow's 1.7% decline is the weekly loss since March
 - 09/19 05:06 [financialjuice] Anthropic expects over $100 bln in annualized revenue this year - NYT
 - 09/19 05:07 [FirstSquawk] ANTHROPIC ANNOUNCES ACCENTURE WILL ASSESS ITS FRONTIER AI TECHNOLOGY.
 - 09/19 05:08 [financialjuice/DeItaone] Trump on Iran: War will end soon.
