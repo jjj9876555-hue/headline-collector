@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 07:06 JST／対象: 09/19 07:06 〜 09/20 07:06 JST（時刻はすべて日本時間）
+生成: 2026-09-20 07:22 JST／対象: 09/19 07:22 〜 09/20 07:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
 | FirstSquawk | 220 | 09/19 09:09 | 09/20 03:10 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 77 | 09/19 07:08 | 09/20 04:39 | ⚠ 251分（11:03→15:14） |
+| financialjuice | 65 | 09/19 07:24 | 09/20 04:39 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 303 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 291 行（統合前 297 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 07:08 [financialjuice] Ukraine's Zelenskiy thanks Trump for signing Russia sanctions bill and Congress members for backing it
-- 09/19 07:08 [financialjuice] Zelenskiy: Best way to honor Senator Lindsey Graham's memory is to enact provisions of bill he backed
-- 09/19 07:12 [financialjuice] Gemini breached protected systems by guessing passwords and locating credentials in public repository during irregular test run - WSJ
-- 09/19 07:13 [financialjuice] US ambassador to UN: Trump to meet Japanese premier
-- 09/19 07:13 [financialjuice] US ambassador to UN: Trump will meet Venezuela's Rodriguez
-- 09/19 07:16 [financialjuice] US deputy national security adviser on Xi visit: Trump and Xi to give remarks at state dinner
-- 09/19 07:16 [financialjuice] White House spokeswoman Kelly: Trump to welcome Xi at Joint Base Andrews on arrival
-- 09/19 07:21 [financialjuice] Trump administration to host UN event on AI next week: CNN
-- 09/19 07:21 [financialjuice] Senior US administration official on Xi meeting: AI is on the agenda
-- 09/19 07:21 [financialjuice] Senior US administration official: Busan ceasefire also on agenda for Trump-Xi meeting
-- 09/19 07:22 [financialjuice] Senior US administration official: Bezos, Musk, Dell, Altman among attendees at state dinner
-- 09/19 07:22 [financialjuice] Senior US administration official: We need China to step up on fentanyl efforts
 - 09/19 07:24 [financialjuice] White House spokeswoman Kelly on Xi visit: Trump and Xi to give remarks at state dinner (corrects source to White House spokeswoman, not US deputy national security adviser)
 - 09/19 07:24 [financialjuice] Senior US administration official on Xi meeting: no swap of export controls for already negotiated rare earths flow
 - 09/19 07:25 [financialjuice] Senior US administration official: on autos, Trump unwilling to compromise national security

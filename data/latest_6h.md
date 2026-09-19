@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 07:06 JST／対象: 09/20 01:06 〜 09/20 07:06 JST（時刻はすべて日本時間）
+生成: 2026-09-20 07:22 JST／対象: 09/20 01:22 〜 09/20 07:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/20 01:10 | 09/20 03:47 | ⚠ 74分（02:18→03:32） |
+| DeItaone | 5 | 09/20 02:11 | 09/20 03:47 | ⚠ 74分（02:18→03:32） |
 | FirstSquawk | 12 | 09/20 01:32 | 09/20 03:10 | 44分（01:33→02:17） |
 | financialjuice | 17 | 09/20 02:01 | 09/20 04:39 | ⚠ 58分（02:15→03:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 32 行（統合前 38 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 28 行（統合前 34 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 01:10 [DeItaone] $NVDA - NVIDIA’S HUANG REJECTS CALLS TO SLOW AI Nvidia CEO Jensen Huang says AI development should move “as fast as we can,” rejecting calls for the industry to slow down. Huang stressed that speed should not come at the expense of safety, …
-- 09/20 01:16 [DeItaone] HORMUZ OIL FLOWS HIT SIX-MONTH HIGH Oil and LNG shipments through the Strait of Hormuz have reached their highest level in six months, as U.S. mine-clearing and naval protection efforts boost tanker traffic. CENTCOM says Gulf allies have mo…
-- 09/20 01:17 [DeItaone] U.S., DENMARK AND GREENLAND REACH SECURITY DEAL The U.S., Denmark and Greenland have agreed to expand America’s military presence in Greenland, with signing expected next week at the UN General Assembly. Denmark and Greenland insist the agr…
-- 09/20 01:17 [DeItaone] WHITE HOUSE ENFORCES BAN ON CNN, MS NOW AND POLITICO The White House confiscated press passes and denied access to journalists from CNN, MS NOW and Politico, following through on Trump’s announced ban. All three outlets say they will defend…
 - 09/20 01:32 [FirstSquawk] Israeli airstrikes on Wadi al-Hujair, the vicinity of Haris, Sarbin, Nabatieh city, and Nabatieh al-Fawqa in southern Lebanon
 - 09/20 01:32 [FirstSquawk] Russian Ministry of Defense: We targeted a ship that was transporting fuel to Ukrainian forces in Odessa, southwestern Ukraine
 - 09/20 01:33 [FirstSquawk] Israeli Home Front Command: Sirens sound in the West Bank settlement of Yitzhar to warn of an infiltration by armed men.
