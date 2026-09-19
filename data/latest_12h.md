@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 22:31 JST／対象: 09/19 10:31 〜 09/19 22:31 JST（時刻はすべて日本時間）
+生成: 2026-09-19 22:43 JST／対象: 09/19 10:43 〜 09/19 22:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 150 | 09/19 10:31 | 09/19 22:13 | ⚠ 114分（16:40→18:35） |
+| FirstSquawk | 143 | 09/19 10:43 | 09/19 22:13 | ⚠ 114分（16:40→18:35） |
 | financialjuice | 22 | 09/19 11:03 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 172 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 165 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 10:31 [FirstSquawk] Trump bars CNN, MS NOW and Politico from White House, accuses outlets of publishing “fake news”
-- 09/19 10:33 [FirstSquawk] Trump to welcome Xi at Joint Base Andrews, White House says
-- 09/19 10:34 [FirstSquawk] Delta says it has not used, tested or planned fares based on individual customer data
-- 09/19 10:36 [FirstSquawk] US Ambassador to UN says Trump will meet Britain’s Burnham
-- 09/19 10:37 [FirstSquawk] US Ambassador to UN says Trump will hold meeting with Japanese PM
-- 09/19 10:37 [FirstSquawk] Delta says customer personal data is not provided to its AI pricing system
-- 09/19 10:38 [FirstSquawk] Trump set to meet Venezuela’s Rodriguez, US ambassador to UN says
 - 09/19 10:43 [FirstSquawk] Google was notified by Irregular about AI hacks in late July, companies say – WSJ
 - 09/19 10:44 [FirstSquawk] Gemini model breached other companies while accessing internet during security test – WSJ
 - 09/19 10:44 [FirstSquawk] Gemini model breached other companies while accessing the internet during a cybersecurity test – WSJ
