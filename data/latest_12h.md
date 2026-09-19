@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 03:58 JST／対象: 09/19 15:58 〜 09/20 03:58 JST（時刻はすべて日本時間）
+生成: 2026-09-20 04:14 JST／対象: 09/19 16:14 〜 09/20 04:14 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
 | FirstSquawk | 116 | 09/19 16:40 | 09/20 03:10 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 38 | 09/19 16:46 | 09/20 03:38 | ⚠ 230分（20:23→00:14） |
+| financialjuice | 40 | 09/19 16:46 | 09/20 04:01 | ⚠ 230分（20:23→00:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 160 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 162 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -184,3 +184,5 @@
 - 09/20 03:32 [financialjuice] Turkish foreign minister: initiatives exist to end Ukraine-Russia war, but hard for lasting solution
 - 09/20 03:38 [financialjuice] Turkish foreign minister: sent proposal to Ukraine, Russia to halt fighting in Black Sea, awaiting replies
 - 09/20 03:47 [DeItaone] TURKISH FOREIGN MINISTER: WE HAVE SENT OFFER TO UKRAINE, RUSSIA TO END FIGHTING IN THE BLACK SEA, AWAITING THEIR RESPONSES
+- 09/20 03:58 [financialjuice] Turkish foreign minister: Creative ideas exist on resolving S-400 issue with US, collaborating to achieve solutions and anticipating positive progress
+- 09/20 04:01 [financialjuice] Creative ideas emerge on resolving S-400 issue with US, collaboration aims for positive progress
