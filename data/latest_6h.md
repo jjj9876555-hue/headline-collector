@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 22:43 JST／対象: 09/19 16:43 〜 09/19 22:43 JST（時刻はすべて日本時間）
+生成: 2026-09-19 22:58 JST／対象: 09/19 16:58 〜 09/19 22:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 77 | 09/19 18:35 | 09/19 22:13 | 38分（20:41→21:20） |
-| financialjuice | 20 | 09/19 16:46 | 09/19 20:23 | ⚠ 46分（19:35→20:21） |
+| FirstSquawk | 82 | 09/19 18:35 | 09/19 22:50 | 38分（20:41→21:20） |
+| financialjuice | 16 | 09/19 17:30 | 09/19 20:23 | ⚠ 46分（19:35→20:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 97 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 98 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 16:46 [financialjuice] Russian forces strike Ukrainian cargo ship and tanker in Black Sea and Ukraine port: IFX
-- 09/19 16:46 [financialjuice] China's central bank advisor: AI may exacerbate strong supply, weak demand in economy
-- 09/19 16:48 [financialjuice] China's central bank advisor: China has rebalanced its economy, but progress is insufficient
-- 09/19 16:50 [financialjuice] China's central bank advisor: stimulating demand is key to rebalancing economy
 - 09/19 17:30 [financialjuice] Moscow electoral system hit by severe attack overnight during voting period: situation under control, IFX cites central election commission head
 - 09/19 17:38 [financialjuice] EU: regrets extension of entry visa denial for Palestinian delegation members at UN General Assembly in NY
 - 09/19 17:39 [financialjuice] EU urges US to reconsider decision
@@ -121,3 +117,8 @@
 - 09/19 22:13 [FirstSquawk] DOMBROVSKIS STATED THAT MEMBER STATES WITH HIGH DEBT NEED TO ACHIEVE FISCAL GOALS.
 - 09/19 22:13 [FirstSquawk] DOMBROVSKIS STATES UKRAINE REQUIRES MORE FINANCIAL SUPPORT.
 - 09/19 22:13 [FirstSquawk] DOMBROVSKIS SAYS UKRAINE MUST MEET REFORM REQUIREMENTS TO SECURE FUNDING.
+- 09/19 22:48 [FirstSquawk] Saudi Arabia activated the air alert in Riyadh following explosions and fires near King Khalid Airport. The attack, attributed to Houthi rebels after their advance in Yemen, disrupted air traffic in the capital.
+- 09/19 22:49 [FirstSquawk] U.S. Dollar has lost 30% of its purchasing power over the last six years
+- 09/19 22:50 [FirstSquawk] France is running out of fuel. 11% of France's stations nationwide are now out of petrol or diesel, one in nine, with 16% of stations short in Grand Est, 15% in Pays de la Loire, 14% in Occitanie, and 13% in Centre-Val de Loire, per governm…
+- 09/19 22:50 [FirstSquawk] official count only registers a station as short if it has no petrol at all or no diesel at all, so a station out of one grade but holding another is not counted, meaning the real shortage is much larger. French diesel averages €2.406 a lit…
+- 09/19 22:50 [FirstSquawk] Europe is facing its worst energy crisis in history.

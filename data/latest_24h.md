@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 22:43 JST／対象: 09/18 22:43 〜 09/19 22:43 JST（時刻はすべて日本時間）
+生成: 2026-09-19 22:58 JST／対象: 09/18 22:58 〜 09/19 22:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 256 | 09/18 23:07 | 09/19 22:13 | ⚠ 241分（05:07→09:09） |
+| FirstSquawk | 261 | 09/18 23:07 | 09/19 22:50 | ⚠ 241分（05:07→09:09） |
 | financialjuice | 142 | 09/18 22:59 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 400 行（統合前 408 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 405 行（統合前 413 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -424,3 +424,8 @@
 - 09/19 22:13 [FirstSquawk] DOMBROVSKIS STATED THAT MEMBER STATES WITH HIGH DEBT NEED TO ACHIEVE FISCAL GOALS.
 - 09/19 22:13 [FirstSquawk] DOMBROVSKIS STATES UKRAINE REQUIRES MORE FINANCIAL SUPPORT.
 - 09/19 22:13 [FirstSquawk] DOMBROVSKIS SAYS UKRAINE MUST MEET REFORM REQUIREMENTS TO SECURE FUNDING.
+- 09/19 22:48 [FirstSquawk] Saudi Arabia activated the air alert in Riyadh following explosions and fires near King Khalid Airport. The attack, attributed to Houthi rebels after their advance in Yemen, disrupted air traffic in the capital.
+- 09/19 22:49 [FirstSquawk] U.S. Dollar has lost 30% of its purchasing power over the last six years
+- 09/19 22:50 [FirstSquawk] France is running out of fuel. 11% of France's stations nationwide are now out of petrol or diesel, one in nine, with 16% of stations short in Grand Est, 15% in Pays de la Loire, 14% in Occitanie, and 13% in Centre-Val de Loire, per governm…
+- 09/19 22:50 [FirstSquawk] official count only registers a station as short if it has no petrol at all or no diesel at all, so a station out of one grade but holding another is not counted, meaning the real shortage is much larger. French diesel averages €2.406 a lit…
+- 09/19 22:50 [FirstSquawk] Europe is facing its worst energy crisis in history.

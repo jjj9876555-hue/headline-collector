@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 22:43 JST／対象: 09/19 10:43 〜 09/19 22:43 JST（時刻はすべて日本時間）
+生成: 2026-09-19 22:58 JST／対象: 09/19 10:58 〜 09/19 22:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 143 | 09/19 10:43 | 09/19 22:13 | ⚠ 114分（16:40→18:35） |
+| FirstSquawk | 141 | 09/19 10:58 | 09/19 22:50 | ⚠ 114分（16:40→18:35） |
 | financialjuice | 22 | 09/19 11:03 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 165 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 163 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 10:43 [FirstSquawk] Google was notified by Irregular about AI hacks in late July, companies say – WSJ
-- 09/19 10:44 [FirstSquawk] Gemini model breached other companies while accessing internet during security test – WSJ
-- 09/19 10:44 [FirstSquawk] Gemini model breached other companies while accessing the internet during a cybersecurity test – WSJ
-- 09/19 10:49 [FirstSquawk] Exxon Mobil says Joliet refinery operations are restarting after power outage, pump issue
-- 09/19 10:53 [FirstSquawk] Ukraine’s Zelenskiy praises Trump and Congress for support of Russia sanctions bill
-- 09/19 10:53 [FirstSquawk] Zelenskiy calls for implementation of Graham-backed bill to honor senator’s memory
-- 09/19 10:54 [FirstSquawk] Paramount nears settlement with California attorney general, WSJ reports
 - 09/19 10:58 [FirstSquawk] US, Denmark and Greenland expected to sign agreement to strengthen Arctic and North Atlantic security
 - 09/19 11:00 [FirstSquawk] UAS activity prompts temporary halt to flights at Luxembourg Airport – Flightradar24
 - 09/19 11:02 [FirstSquawk] White House imposes entry restrictions on certain nonimmigrant workers
@@ -189,3 +182,8 @@
 - 09/19 22:13 [FirstSquawk] DOMBROVSKIS STATED THAT MEMBER STATES WITH HIGH DEBT NEED TO ACHIEVE FISCAL GOALS.
 - 09/19 22:13 [FirstSquawk] DOMBROVSKIS STATES UKRAINE REQUIRES MORE FINANCIAL SUPPORT.
 - 09/19 22:13 [FirstSquawk] DOMBROVSKIS SAYS UKRAINE MUST MEET REFORM REQUIREMENTS TO SECURE FUNDING.
+- 09/19 22:48 [FirstSquawk] Saudi Arabia activated the air alert in Riyadh following explosions and fires near King Khalid Airport. The attack, attributed to Houthi rebels after their advance in Yemen, disrupted air traffic in the capital.
+- 09/19 22:49 [FirstSquawk] U.S. Dollar has lost 30% of its purchasing power over the last six years
+- 09/19 22:50 [FirstSquawk] France is running out of fuel. 11% of France's stations nationwide are now out of petrol or diesel, one in nine, with 16% of stations short in Grand Est, 15% in Pays de la Loire, 14% in Occitanie, and 13% in Centre-Val de Loire, per governm…
+- 09/19 22:50 [FirstSquawk] official count only registers a station as short if it has no petrol at all or no diesel at all, so a station out of one grade but holding another is not counted, meaning the real shortage is much larger. French diesel averages €2.406 a lit…
+- 09/19 22:50 [FirstSquawk] Europe is facing its worst energy crisis in history.
