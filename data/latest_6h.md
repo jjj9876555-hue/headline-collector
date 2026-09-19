@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 16:49 JST／対象: 09/19 10:49 〜 09/19 16:49 JST（時刻はすべて日本時間）
+生成: 2026-09-19 17:00 JST／対象: 09/19 11:00 〜 09/19 17:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 62 | 09/19 10:53 | 09/19 16:40 | ⚠ 105分（14:55→16:40） |
-| financialjuice | 5 | 09/19 11:03 | 09/19 16:48 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 57 | 09/19 11:02 | 09/19 16:40 | ⚠ 105分（14:55→16:40） |
+| financialjuice | 6 | 09/19 11:03 | 09/19 16:50 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 67 行（統合前 67 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 63 行（統合前 63 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 10:53 [FirstSquawk] Ukraine’s Zelenskiy praises Trump and Congress for support of Russia sanctions bill
-- 09/19 10:53 [FirstSquawk] Zelenskiy calls for implementation of Graham-backed bill to honor senator’s memory
-- 09/19 10:54 [FirstSquawk] Paramount nears settlement with California attorney general, WSJ reports
-- 09/19 10:58 [FirstSquawk] US, Denmark and Greenland expected to sign agreement to strengthen Arctic and North Atlantic security
-- 09/19 11:00 [FirstSquawk] UAS activity prompts temporary halt to flights at Luxembourg Airport – Flightradar24
 - 09/19 11:02 [FirstSquawk] White House imposes entry restrictions on certain nonimmigrant workers
 - 09/19 11:02 [FirstSquawk] 2025 H-1B visa proclamation extended for 12 more months, White House says
 - 09/19 11:03 [FirstSquawk] US may postpone major Taiwan arms sales announcement until after November APEC summit – SCMP
@@ -91,3 +86,4 @@
 - 09/19 16:46 [financialjuice] Russian forces strike Ukrainian cargo ship and tanker in Black Sea and Ukraine port: IFX
 - 09/19 16:46 [financialjuice] China's central bank advisor: AI may exacerbate strong supply, weak demand in economy
 - 09/19 16:48 [financialjuice] China's central bank advisor: China has rebalanced its economy, but progress is insufficient
+- 09/19 16:50 [financialjuice] China's central bank advisor: stimulating demand is key to rebalancing economy
