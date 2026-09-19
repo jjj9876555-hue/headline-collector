@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-19 19:58 JST／対象: 09/19 13:58 〜 09/19 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 20:15 JST／対象: 09/19 14:15 〜 09/19 20:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 50 | 09/19 13:59 | 09/19 19:47 | ⚠ 114分（16:40→18:35） |
+| FirstSquawk | 54 | 09/19 14:16 | 09/19 20:14 | ⚠ 114分（16:40→18:35） |
 | financialjuice | 19 | 09/19 15:14 | 09/19 19:35 | ⚠ 91分（15:14→16:46） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 69 行（統合前 69 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 73 行（統合前 73 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 13:59 [FirstSquawk] Malaysia’s Solarvest broadens energy business into batteries and power trading - NA
-- 09/19 14:04 [FirstSquawk] South Korea’s Cheong Wa Dae says Lee’s remarks do not amount to rejecting Trump’s Hormuz request – Yonhap
 - 09/19 14:16 [FirstSquawk] North Korea rejects IAEA resolution, pledges to maintain nuclear arsenal amid US threats – Yonhap
 - 09/19 14:23 [FirstSquawk] Suspected Chinese marine research vessel leaves Japan’s EEZ – Kyodo
 - 09/19 14:31 [FirstSquawk] Trump and Senate’s Thune discuss legislation to lower data-center electricity costs – Reuters
@@ -93,3 +91,9 @@
 - 09/19 19:35 [financialjuice] Flames and thick black smoke rise near Riyadh airport: witness
 - 09/19 19:46 [FirstSquawk] Flames and a large plume of black smoke were seen rising near Riyadh airport on Saturday
 - 09/19 19:47 [FirstSquawk] Paramount could settle with states over Warner Bros. as soon as this weekend, sources say
+- 09/19 20:01 [FirstSquawk] China's tech rivalry with the U.S. intensifies, border controls are becoming another oversight tool for Beijing. New rules tie entry and exit more closely to national security concerns.
+- 09/19 20:02 [FirstSquawk] U.S. companies and Washington have accused Chinese labs of using distillation to gain ground, denouncing their efforts as theft
+- 09/19 20:02 [FirstSquawk] But a growing chorus of voices is casting doubt on how important distillation is to Chinese AI model development.
+- 09/19 20:03 [FirstSquawk] US, Denmark and Greenland strike a security deal that expands Washington’s role on the Arctic island, ending for now a long-running diplomatic spat without ceding land to the US
+- 09/19 20:14 [FirstSquawk] Iraqi Army: Withdrawal of coalition forces by September 30 will eliminate any justification for moving outside the framework of the state
+- 09/19 20:14 [FirstSquawk] Syrian Ministry of Defense: 11 killed as result of explosion at military post in eastern part of the country

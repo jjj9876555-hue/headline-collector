@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 19:58 JST／対象: 09/19 07:58 〜 09/19 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 20:15 JST／対象: 09/19 08:15 〜 09/19 20:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 142 | 09/19 09:09 | 09/19 19:47 | ⚠ 114分（16:40→18:35） |
+| FirstSquawk | 148 | 09/19 09:09 | 09/19 20:14 | ⚠ 114分（16:40→18:35） |
 | financialjuice | 31 | 09/19 08:43 | 09/19 19:35 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 173 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 179 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -197,3 +197,9 @@
 - 09/19 19:35 [financialjuice] Flames and thick black smoke rise near Riyadh airport: witness
 - 09/19 19:46 [FirstSquawk] Flames and a large plume of black smoke were seen rising near Riyadh airport on Saturday
 - 09/19 19:47 [FirstSquawk] Paramount could settle with states over Warner Bros. as soon as this weekend, sources say
+- 09/19 20:01 [FirstSquawk] China's tech rivalry with the U.S. intensifies, border controls are becoming another oversight tool for Beijing. New rules tie entry and exit more closely to national security concerns.
+- 09/19 20:02 [FirstSquawk] U.S. companies and Washington have accused Chinese labs of using distillation to gain ground, denouncing their efforts as theft
+- 09/19 20:02 [FirstSquawk] But a growing chorus of voices is casting doubt on how important distillation is to Chinese AI model development.
+- 09/19 20:03 [FirstSquawk] US, Denmark and Greenland strike a security deal that expands Washington’s role on the Arctic island, ending for now a long-running diplomatic spat without ceding land to the US
+- 09/19 20:14 [FirstSquawk] Iraqi Army: Withdrawal of coalition forces by September 30 will eliminate any justification for moving outside the framework of the state
+- 09/19 20:14 [FirstSquawk] Syrian Ministry of Defense: 11 killed as result of explosion at military post in eastern part of the country

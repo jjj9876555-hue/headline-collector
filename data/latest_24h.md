@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 19:58 JST／対象: 09/18 19:58 〜 09/19 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-19 20:15 JST／対象: 09/18 20:15 〜 09/19 20:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/18 20:26 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 242 | 09/18 20:00 | 09/19 19:47 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 166 | 09/18 20:03 | 09/19 19:35 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 243 | 09/18 21:09 | 09/19 20:14 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 164 | 09/18 21:00 | 09/19 19:35 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 411 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 410 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 20:00 [FirstSquawk] ECB'S LAGARDE URGES MARKET MONITORING, NOTES NO CHAOTIC MOVEMENTS.
-- 09/18 20:00 [FirstSquawk] ECB'S LAGARDE SAYS YIELD INCREASE IS A GLOBAL TREND.
-- 09/18 20:01 [FirstSquawk] RUSSIAN AGRICULTURE MINISTRY REPORTS WHEAT HARVEST IN RUSSIA REACHES 90 MILLION TONS.
-- 09/18 20:01 [FirstSquawk] COREWEAVE INCREASES PRICE OF CONVERTIBLE SENIOR NOTES OFFERING TO $3.7 BILLION FROM $3.0 BILLION.
-- 09/18 20:03 [financialjuice] ECB's President Lagarde: Nothing to report on possible departure from ECB.
-- 09/18 20:06 [financialjuice] ❗ Saudis tell Europe oil refiners they’ll get no crude next month.
-- 09/18 20:07 [FirstSquawk] SAUDI ARABIA INFORMS EUROPEAN OIL REFINERS THEY WILL NOT RECEIVE ANY CRUDE OIL NEXT MONTH.
 - 09/18 20:26 [DeItaone] SAUDI ARAMCO CUTS EUROPEAN OIL ALLOCATIONS Saudi Aramco has reportedly told European customers they will receive no crude allocations next month, extending supply disruptions caused by the attack on the East-West pipeline. The halt has alre…
 - 09/18 21:00 [financialjuice] Secured Overnight Financing Rate 3.85% September 17 vs 3.62% September 16.
 - 09/18 21:00 [financialjuice] Morning Juice – US Session Prep (17th September)
@@ -435,3 +428,9 @@
 - 09/19 19:35 [financialjuice] Flames and thick black smoke rise near Riyadh airport: witness
 - 09/19 19:46 [FirstSquawk] Flames and a large plume of black smoke were seen rising near Riyadh airport on Saturday
 - 09/19 19:47 [FirstSquawk] Paramount could settle with states over Warner Bros. as soon as this weekend, sources say
+- 09/19 20:01 [FirstSquawk] China's tech rivalry with the U.S. intensifies, border controls are becoming another oversight tool for Beijing. New rules tie entry and exit more closely to national security concerns.
+- 09/19 20:02 [FirstSquawk] U.S. companies and Washington have accused Chinese labs of using distillation to gain ground, denouncing their efforts as theft
+- 09/19 20:02 [FirstSquawk] But a growing chorus of voices is casting doubt on how important distillation is to Chinese AI model development.
+- 09/19 20:03 [FirstSquawk] US, Denmark and Greenland strike a security deal that expands Washington’s role on the Arctic island, ending for now a long-running diplomatic spat without ceding land to the US
+- 09/19 20:14 [FirstSquawk] Iraqi Army: Withdrawal of coalition forces by September 30 will eliminate any justification for moving outside the framework of the state
+- 09/19 20:14 [FirstSquawk] Syrian Ministry of Defense: 11 killed as result of explosion at military post in eastern part of the country
