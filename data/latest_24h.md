@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 03:03 JST／対象: 09/19 03:03 〜 09/20 03:03 JST（時刻はすべて日本時間）
+生成: 2026-09-20 03:25 JST／対象: 09/19 03:25 〜 09/20 03:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 17 | 09/19 05:09 | 09/20 02:18 | ⚠ 1016分（06:23→23:19） |
-| FirstSquawk | 239 | 09/19 03:06 | 09/20 02:50 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 115 | 09/19 03:08 | 09/20 02:15 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 237 | 09/19 03:29 | 09/20 03:10 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 118 | 09/19 03:31 | 09/20 03:24 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 363 行（統合前 371 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 364 行（統合前 372 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 03:06 [FirstSquawk] ADVENT AND A FEDEX-LED GROUP HAVE PASSED AN 80% THRESHOLD TO ACQUIRE INPOST.
-- 09/19 03:08 [financialjuice] The German government plans to cut taxes on gasoline by 17 euro cents per litre - Sources.
-- 09/19 03:09 [FirstSquawk] GERMANY WILL REDUCE GASOLINE TAXES BY 17 EURO CENTS PER LITRE
-- 09/19 03:14 [FirstSquawk] ANTHROPIC AIMING TO AMASS 5GW OF COMPUTE POWER BY YEAR END – FOX
 - 09/19 03:29 [FirstSquawk] MORE AMERICAN SERVICE MEMBERS HAVE DIED IN THE MIDDLE EAST DURING THE ONGOING IRAN WAR THAN THE PENTAGON HAS DISCLOSED PUBLICLY, ACCORDING TO SIX U.S. OFFICIALS FAMILIAR WITH THE DEFENSE DEPARTMENT’S INTERNAL CASUALTY ACCOUNTING DATA.
 - 09/19 03:31 [financialjuice] NYMEX Gasoline October futures settle at $3.5276 a gallon.
 - 09/19 03:31 [financialjuice] NYMEX Diesel October futures settle at $5.0578 a gallon.
@@ -387,3 +383,8 @@
 - 09/20 02:18 [FirstSquawk] Yemen's Houthis say they will keep targeting Saudi military build-ups until blockade ends
 - 09/20 02:18 [DeItaone] *TRUMP SAYS AI COULD REACH 25% OF US GDP
 - 09/20 02:50 [FirstSquawk] Israeli Army: We killed a commander in the military wing of the Hamas movement in the Khan Younis area of the Gaza Strip last Thursday
+- 09/20 03:10 [FirstSquawk] Israeli army announces the killing of a Hamas leader who entered Israel during the events of October 7.
+- 09/20 03:13 [financialjuice] US Treasury's Bessent, USTR Greer to meet Chinese Vice Premier He Lifeng on Sunday at JPMorgan headquarters in New York - source
+- 09/20 03:22 [financialjuice] Turkish foreign minister: current middle east crisis no longer economically bearable
+- 09/20 03:23 [financialjuice] Turkish foreign minister: proposals conveyed to all sides to end Saudi-Houthi fighting
+- 09/20 03:24 [financialjuice] Turkish foreign minister: unacceptable for Saudi Arabia to become involved in US-Iran war, no wish to join conflict

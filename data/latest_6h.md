@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 03:03 JST／対象: 09/19 21:03 〜 09/20 03:03 JST（時刻はすべて日本時間）
+生成: 2026-09-20 03:25 JST／対象: 09/19 21:25 〜 09/20 03:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 10 | 09/19 23:19 | 09/20 02:18 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 67 | 09/19 21:20 | 09/20 02:50 | 44分（01:33→02:17） |
-| financialjuice | 11 | 09/20 00:14 | 09/20 02:15 | ⚠ 88分（00:33→02:01） |
+| FirstSquawk | 62 | 09/19 21:39 | 09/20 03:10 | 44分（01:33→02:17） |
+| financialjuice | 15 | 09/20 00:14 | 09/20 03:24 | ⚠ 88分（00:33→02:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 82 行（統合前 88 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 81 行（統合前 87 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 21:20 [FirstSquawk] IDF: We targeted Hezbollah infrastructure in southern Lebanon
-- 09/19 21:20 [FirstSquawk] IDF: Our targeting of Hezbollah infrastructure in southern Lebanon came in response to the detonation of an explosive device in the security zone
-- 09/19 21:20 [FirstSquawk] IDF: Explosive device detonated in security zone in southern Lebanon wounds two soldiers
-- 09/19 21:20 [FirstSquawk] IDF: We continue our deployment in the security zone in southern Lebanon
-- 09/19 21:20 [FirstSquawk] IDF: We will continue to work to neutralize threats facing Israel
-- 09/19 21:20 [FirstSquawk] IDF: We will continue to work vigorously against Hezbollah's repeated attempts to harm our forces
 - 09/19 21:39 [FirstSquawk] AFP: Aramco fuel tank catches fire near Riyadh airport
 - 09/19 22:00 [FirstSquawk] U.S. Central Command Commander: Main Crossing Corridors in the Strait of Hormuz Are Mine-Free
 - 09/19 22:01 [FirstSquawk] US Central Command Commander: Iran has not exported a single barrel of oil thanks to our tight blockade
@@ -106,3 +100,8 @@
 - 09/20 02:18 [FirstSquawk] Yemen's Houthis say they will keep targeting Saudi military build-ups until blockade ends
 - 09/20 02:18 [DeItaone] *TRUMP SAYS AI COULD REACH 25% OF US GDP
 - 09/20 02:50 [FirstSquawk] Israeli Army: We killed a commander in the military wing of the Hamas movement in the Khan Younis area of the Gaza Strip last Thursday
+- 09/20 03:10 [FirstSquawk] Israeli army announces the killing of a Hamas leader who entered Israel during the events of October 7.
+- 09/20 03:13 [financialjuice] US Treasury's Bessent, USTR Greer to meet Chinese Vice Premier He Lifeng on Sunday at JPMorgan headquarters in New York - source
+- 09/20 03:22 [financialjuice] Turkish foreign minister: current middle east crisis no longer economically bearable
+- 09/20 03:23 [financialjuice] Turkish foreign minister: proposals conveyed to all sides to end Saudi-Houthi fighting
+- 09/20 03:24 [financialjuice] Turkish foreign minister: unacceptable for Saudi Arabia to become involved in US-Iran war, no wish to join conflict
