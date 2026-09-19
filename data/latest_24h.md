@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 21:28 JST／対象: 09/18 21:28 〜 09/19 21:28 JST（時刻はすべて日本時間）
+生成: 2026-09-19 21:45 JST／対象: 09/18 21:45 〜 09/19 21:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 251 | 09/18 21:41 | 09/19 21:20 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 157 | 09/18 21:31 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 250 | 09/18 22:04 | 09/19 21:39 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 156 | 09/18 22:00 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 410 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 408 行（統合前 416 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 21:31 [financialjuice] Anthropic plans to have 5GW worth of compute by year end - NYT.
-- 09/18 21:41 [FirstSquawk] EU'S KALLAS DISCUSSED WITH SAUDI FOREIGN MINISTER ON EFFORTS TO STOP FIGHTING IN YEMEN AND ENSURE SAFE NAVIGATION IN THE STRAIT OF HORMUZ.
-- 09/18 21:41 [FirstSquawk] KALLAS HAS INCREASED THE ALERT STATUS OF ITS VESSELS DUE TO OPERATION ASPIDES.
 - 09/18 22:00 [financialjuice] Effective Fed funds rate 3.88% September 17th vs 3.63% September 16th.
 - 09/18 22:04 [FirstSquawk] US EXPORTERS SHIP 111,000 TONS OF SOYBEANS TO CHINA.
 - 09/18 22:05 [FirstSquawk] 6.5 MAGNITUDE EARTHQUAKE OCCURS 169 KM WEST OF NIKOLSKI, ALASKA, ACCORDING TO USGS.
@@ -434,3 +431,4 @@
 - 09/19 21:20 [FirstSquawk] IDF: We continue our deployment in the security zone in southern Lebanon
 - 09/19 21:20 [FirstSquawk] IDF: We will continue to work to neutralize threats facing Israel
 - 09/19 21:20 [FirstSquawk] IDF: We will continue to work vigorously against Hezbollah's repeated attempts to harm our forces
+- 09/19 21:39 [FirstSquawk] AFP: Aramco fuel tank catches fire near Riyadh airport

@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-19 21:28 JST／対象: 09/19 09:28 〜 09/19 21:28 JST（時刻はすべて日本時間）
+生成: 2026-09-19 21:45 JST／対象: 09/19 09:45 〜 09/19 21:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 148 | 09/19 09:50 | 09/19 21:20 | ⚠ 114分（16:40→18:35） |
+| FirstSquawk | 149 | 09/19 09:50 | 09/19 21:39 | ⚠ 114分（16:40→18:35） |
 | financialjuice | 25 | 09/19 10:03 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 173 行（統合前 173 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 174 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -197,3 +197,4 @@
 - 09/19 21:20 [FirstSquawk] IDF: We continue our deployment in the security zone in southern Lebanon
 - 09/19 21:20 [FirstSquawk] IDF: We will continue to work to neutralize threats facing Israel
 - 09/19 21:20 [FirstSquawk] IDF: We will continue to work vigorously against Hezbollah's repeated attempts to harm our forces
+- 09/19 21:39 [FirstSquawk] AFP: Aramco fuel tank catches fire near Riyadh airport
