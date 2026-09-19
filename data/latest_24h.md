@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 20:30 JST／対象: 09/18 20:30 〜 09/19 20:30 JST（時刻はすべて日本時間）
+生成: 2026-09-19 20:42 JST／対象: 09/18 20:42 〜 09/19 20:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/19 05:09 | 09/19 06:23 | ⚠ 65分（05:10→06:15） |
-| FirstSquawk | 246 | 09/18 21:09 | 09/19 20:18 | ⚠ 241分（05:07→09:09） |
+| FirstSquawk | 247 | 09/18 21:09 | 09/19 20:41 | ⚠ 241分（05:07→09:09） |
 | financialjuice | 166 | 09/18 21:00 | 09/19 20:23 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 414 行（統合前 422 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 415 行（統合前 423 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -438,3 +438,4 @@
 - 09/19 20:18 [FirstSquawk] JAPAN SUPERMARKET BEGINS TRAINING FOR 100-STORE VIETNAM PUSH - NIKKEI
 - 09/19 20:21 [financialjuice] French finance ministry: public-debt-to-GDP ratio projected to hit 119.3% in 2026, 121.7% in 2027
 - 09/19 20:23 [financialjuice] French finance ministry targets budget deficit of 5.0% of GDP in 2027, 5.4% in 2026
+- 09/19 20:41 [FirstSquawk] AFP: Disruptions at Riyadh airport include flight cancellations and delays
