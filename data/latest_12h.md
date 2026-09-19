@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 04:29 JST／対象: 09/19 16:29 〜 09/20 04:29 JST（時刻はすべて日本時間）
+生成: 2026-09-20 04:41 JST／対象: 09/19 16:41 〜 09/20 04:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 116 | 09/19 16:40 | 09/20 03:10 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 40 | 09/19 16:46 | 09/20 04:01 | ⚠ 230分（20:23→00:14） |
+| FirstSquawk | 115 | 09/19 18:35 | 09/20 03:10 | 44分（01:33→02:17） |
+| financialjuice | 42 | 09/19 16:46 | 09/20 04:39 | ⚠ 230分（20:23→00:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 163 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 16:40 [FirstSquawk] POLAND ARMY: PREEMPTIVE OPERATIONS BEGUN TO PROTECT POLISH AIRSPACE AMID RUSSIAN STRIKES ON UKRAINE
 - 09/19 16:46 [financialjuice] Russian forces strike Ukrainian cargo ship and tanker in Black Sea and Ukraine port: IFX
 - 09/19 16:46 [financialjuice] China's central bank advisor: AI may exacerbate strong supply, weak demand in economy
 - 09/19 16:48 [financialjuice] China's central bank advisor: China has rebalanced its economy, but progress is insufficient
@@ -186,3 +185,5 @@
 - 09/20 03:47 [DeItaone] TURKISH FOREIGN MINISTER: WE HAVE SENT OFFER TO UKRAINE, RUSSIA TO END FIGHTING IN THE BLACK SEA, AWAITING THEIR RESPONSES
 - 09/20 03:58 [financialjuice] Turkish foreign minister: Creative ideas exist on resolving S-400 issue with US, collaborating to achieve solutions and anticipating positive progress
 - 09/20 04:01 [financialjuice] Creative ideas emerge on resolving S-400 issue with US, collaboration aims for positive progress
+- 09/20 04:37 [financialjuice] Saudi-led coalition: ballistic missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed on Saturday
+- 09/20 04:39 [financialjuice] Saudi-led coalition: foils Houthi attacks on civilians in Saudi cities Bish, Taif, Farasan, Yanbu

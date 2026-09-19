@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 04:29 JST／対象: 09/19 04:29 〜 09/20 04:29 JST（時刻はすべて日本時間）
+生成: 2026-09-20 04:41 JST／対象: 09/19 04:41 〜 09/20 04:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 19 | 09/19 05:09 | 09/20 03:47 | ⚠ 1016分（06:23→23:19） |
-| FirstSquawk | 229 | 09/19 04:40 | 09/20 03:10 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 116 | 09/19 04:39 | 09/20 04:01 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 228 | 09/19 04:50 | 09/20 03:10 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 116 | 09/19 04:41 | 09/20 04:39 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 357 行（統合前 364 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 356 行（統合前 363 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 04:39 [financialjuice] Speculators took a bullish JPY stance as of September 15th - CFTC.
-- 09/19 04:39 [financialjuice] CFTC Positions in the Week of September 15th 2026
-- 09/19 04:40 [FirstSquawk] LABOUR CONSIDERS LOWERING MANSION TAX THRESHOLD TO GBP1.5 MLN – TIMES
 - 09/19 04:41 [financialjuice] Trump makes an announcement on healthcare - WATCH LIVE
 - 09/19 04:47 [financialjuice] Goldman Sachs, JPMorgan, Morgan Stanley lead bookrunners for NScale IPO - SEC filing.
 - 09/19 04:49 [financialjuice] Nscale: Anthropic services agreements provide for aggregate payments to us of up to about $44.6 billion
@@ -381,3 +378,5 @@
 - 09/20 03:47 [DeItaone] TURKISH FOREIGN MINISTER: WE HAVE SENT OFFER TO UKRAINE, RUSSIA TO END FIGHTING IN THE BLACK SEA, AWAITING THEIR RESPONSES
 - 09/20 03:58 [financialjuice] Turkish foreign minister: Creative ideas exist on resolving S-400 issue with US, collaborating to achieve solutions and anticipating positive progress
 - 09/20 04:01 [financialjuice] Creative ideas emerge on resolving S-400 issue with US, collaboration aims for positive progress
+- 09/20 04:37 [financialjuice] Saudi-led coalition: ballistic missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed on Saturday
+- 09/20 04:39 [financialjuice] Saudi-led coalition: foils Houthi attacks on civilians in Saudi cities Bish, Taif, Farasan, Yanbu
