@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-19 17:50 JST／対象: 09/18 17:50 〜 09/19 17:50 JST（時刻はすべて日本時間）
+生成: 2026-09-19 18:01 JST／対象: 09/18 18:01 〜 09/19 18:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/18 18:11 | 09/19 06:23 | ⚠ 523分（20:26→05:09） |
-| FirstSquawk | 237 | 09/18 17:53 | 09/19 16:40 | ⚠ 241分（05:07→09:09） |
-| financialjuice | 167 | 09/18 18:00 | 09/19 17:42 | ⚠ 251分（11:03→15:14） |
+| FirstSquawk | 235 | 09/18 18:02 | 09/19 16:40 | ⚠ 241分（05:07→09:09） |
+| financialjuice | 166 | 09/18 18:31 | 09/19 17:42 | ⚠ 251分（11:03→15:14） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 409 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 406 行（統合前 415 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/18 17:53 [FirstSquawk] US ADMINISTRATION TO ANNOUNCE THAT ALL 50 STATES WILL IMPLEMENT MOST-FAVORED-NATION PRICING FOR SPECIFIC DRUGS IN MEDICAID PROGRAMS.
-- 09/18 17:54 [FirstSquawk] SPOT SILVER INCREASES MORE THAN 3% TO $67.19 PER OUNCE.
-- 09/18 18:00 [financialjuice] EUROZONE CONSTRUCTION OUTPUT MOM ACTUAL 0% (FORECAST -, PREVIOUS -1.34%) $MACRO
 - 09/18 18:02 [FirstSquawk] NATO ALLIES HOLD "ARCTIC SHIELD" DRILL IN GREENLAND.
 - 09/18 18:11 [DeItaone] U.S. COULD RELEASE MORE OIL FROM SPR Energy Secretary Chris Wright says another round of crude loans from the Strategic Petroleum Reserve is a “very real possibility” as higher oil prices and steep futures backwardation boost demand for bar…
 - 09/18 18:12 [FirstSquawk] UKRAINE'S PRESIDENT ZELENSKYY UNVEILS THE NEW CARPATHIAN EIGHT COOPERATION GROUP.
