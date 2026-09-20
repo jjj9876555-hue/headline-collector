@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 00:44 JST／対象: 09/20 00:44 〜 09/21 00:44 JST（時刻はすべて日本時間）
+生成: 2026-09-21 00:58 JST／対象: 09/20 00:58 〜 09/21 00:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/20 01:10 | 09/20 23:43 | ⚠ 1181分（03:47→23:29） |
-| FirstSquawk | 221 | 09/20 00:58 | 09/21 00:40 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 55 | 09/20 02:01 | 09/21 00:07 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 222 | 09/20 00:58 | 09/21 00:49 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 56 | 09/20 02:01 | 09/21 00:51 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 276 行（統合前 287 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 278 行（統合前 289 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -300,3 +300,5 @@
 - 09/21 00:40 [FirstSquawk] Iraqi media outlets, quoting a security source, reported that what happened near Erbil airport was a controlled explosion and not an attack.
 - 09/21 00:40 [FirstSquawk] US Central Command: We rerouted 109 commercial vessels to ensure full compliance since the start of the embargo on Iran.
 - 09/21 00:40 [FirstSquawk] Israeli Chief of Staff: The army is on high alert, deployed and ready with reinforced forces on all fronts.
+- 09/21 00:49 [FirstSquawk] Iranian President: We will welcome any talks that lead to lasting security and peace, and we need unity of purpose in this endeavor.
+- 09/21 00:51 [financialjuice] US Pacific Command on North Korea missile launches: aware of recent launches, consulting closely with allies and partners
