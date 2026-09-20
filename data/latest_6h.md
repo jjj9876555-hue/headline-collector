@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 10:00 JST／対象: 09/20 04:00 〜 09/20 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-20 10:17 JST／対象: 09/20 04:17 〜 09/20 10:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 8 | 09/20 09:16 | 09/20 09:53 | 10分（09:17→09:28） |
-| financialjuice | 4 | 09/20 04:01 | 09/20 08:55 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 13 | 09/20 09:16 | 09/20 10:07 | 12分（09:53→10:05） |
+| financialjuice | 4 | 09/20 04:37 | 09/20 10:00 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 12 行（統合前 12 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 17 行（統合前 17 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 04:01 [financialjuice] Creative ideas emerge on resolving S-400 issue with US, collaboration aims for positive progress
 - 09/20 04:37 [financialjuice] Saudi-led coalition: ballistic missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed on Saturday
 - 09/20 04:39 [financialjuice] Saudi-led coalition: foils Houthi attacks on civilians in Saudi cities Bish, Taif, Farasan, Yanbu
 - 09/20 08:55 [financialjuice] U.S. military: strike on Caribbean vessel over alleged drug trafficking kills four on Saturday
@@ -36,3 +35,9 @@
 - 09/20 09:42 [FirstSquawk] FBI reportedly warns of fake dating profiles targeting ICE agents
 - 09/20 09:43 [FirstSquawk] American dream’ continues to produce millionaires, WSJ reports
 - 09/20 09:53 [FirstSquawk] Trump says historic deal grants US permanent security control over Greenland
+- 09/20 10:00 [financialjuice] China sets five-year loan prime rate at 3.50%, unchanged from a month earlier
+- 09/20 10:05 [FirstSquawk] China sees record 3.32 billion rail passenger trips through August, up 3.9%
+- 09/20 10:06 [FirstSquawk] China leaves five-year loan prime rate unchanged at 3.50%
+- 09/20 10:06 [FirstSquawk] Coalition says Houthi attacks targeting civilians in Bish, Taif, Farasan and Yanbu foiled
+- 09/20 10:07 [FirstSquawk] Houthi ballistic missile launched toward Riyadh intercepted, Saudi coalition says
+- 09/20 10:07 [FirstSquawk] Stanley Druckenmiller says AI boom could be creating an ‘earnings bubble’

@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 10:00 JST／対象: 09/19 22:00 〜 09/20 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-20 10:17 JST／対象: 09/19 22:17 〜 09/20 10:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 69 | 09/19 22:00 | 09/20 09:53 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 23 | 09/20 00:14 | 09/20 08:55 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 51 | 09/19 22:48 | 09/20 10:07 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 24 | 09/20 00:14 | 09/20 10:00 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 98 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 81 行（統合前 87 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 22:00 [FirstSquawk] U.S. Central Command Commander: Main Crossing Corridors in the Strait of Hormuz Are Mine-Free
-- 09/19 22:01 [FirstSquawk] US Central Command Commander: Iran has not exported a single barrel of oil thanks to our tight blockade
-- 09/19 22:01 [FirstSquawk] Commander of US Central Command: Thousands of ships cross the Strait of Hormuz
-- 09/19 22:01 [FirstSquawk] U.S. Central Command Commander: More than 2,000 merchant ships transit through Hormuz by providing coordinated protection
-- 09/19 22:12 [FirstSquawk] COOPER REPORTS IRAN HAS SHIPPED NO CRUDE OIL BARRELS DUE TO BLOCKADE.
-- 09/19 22:12 [FirstSquawk] COOPER REPORTS THAT MORE THAN 1 BILLION BARRELS HAVE PASSED THROUGH THE HORMUZ STRAIT IN RECENT MONTHS.
-- 09/19 22:12 [FirstSquawk] FRANCE'S PUBLIC SPENDING REACHED 57.1% OF GDP IN 2026.
-- 09/19 22:12 [FirstSquawk] FRENCH DRAFT BUDGET PLANS FOR PUBLIC SPENDING TO REACH 56.9% OF GDP BY 2027.
-- 09/19 22:12 [FirstSquawk] FRENCH DRAFT BUDGET PROJECTS 2027 TAX REVENUE AT 44.2% OF GDP.
-- 09/19 22:12 [FirstSquawk] FRENCH DRAFT BUDGET PREDICTS DEBT-TO-GDP RATIO OF 121.7% BY 2027.
-- 09/19 22:12 [FirstSquawk] FRANCE'S DEBT-TO-GDP RATIO IS EXPECTED TO REACH 119.3% BY 2026.
-- 09/19 22:12 [FirstSquawk] FRENCH GOVERNMENT EXPECTS NET PRIMARY SPENDING TO INCREASE BY 0.7% IN 2027.
-- 09/19 22:12 [FirstSquawk] FRENCH GOVERNMENT'S SPENDING RISE IS LOWER THAN EU ADVISORY.
-- 09/19 22:12 [FirstSquawk] STOURNARAS STATED THAT THE ECB CANNOT IGNORE ONGOING SUPPLY SHOCKS.
-- 09/19 22:12 [FirstSquawk] ECB'S STOURNARAS SAYS NO SIGN OF SECOND-ROUND EFFECTS YET.
-- 09/19 22:12 [FirstSquawk] STOURNARAS SAYS OCTOBER RATE INCREASE IS POSSIBLE IF INFLATION RISES.
-- 09/19 22:12 [FirstSquawk] STOURNARAS STATED THAT THE ECB SHOULD STAY ALERT TO INFLATION TRENDS.
-- 09/19 22:12 [FirstSquawk] ECB'S STOURNARAS SAYS IT'S WISER TO WAIT UNTIL DECEMBER IF THERE ARE QUESTIONS.
-- 09/19 22:12 [FirstSquawk] ECB MEMBER STOURNARAS SAYS SLOWER GROWTH DATA MAY JUSTIFY A HIATUS.
-- 09/19 22:13 [FirstSquawk] ECB'S STOURNARAS SAYS INFLATION IS ALSO INFLUENCED BY FISCAL POLICIES AND THE AI BOOM.
-- 09/19 22:13 [FirstSquawk] DOMBROVSKIS STATED THAT MEMBER STATES WITH HIGH DEBT NEED TO ACHIEVE FISCAL GOALS.
-- 09/19 22:13 [FirstSquawk] DOMBROVSKIS STATES UKRAINE REQUIRES MORE FINANCIAL SUPPORT.
-- 09/19 22:13 [FirstSquawk] DOMBROVSKIS SAYS UKRAINE MUST MEET REFORM REQUIREMENTS TO SECURE FUNDING.
 - 09/19 22:48 [FirstSquawk] Saudi Arabia activated the air alert in Riyadh following explosions and fires near King Khalid Airport. The attack, attributed to Houthi rebels after their advance in Yemen, disrupted air traffic in the capital.
 - 09/19 22:49 [FirstSquawk] U.S. Dollar has lost 30% of its purchasing power over the last six years
 - 09/19 22:50 [FirstSquawk] France is running out of fuel. 11% of France's stations nationwide are now out of petrol or diesel, one in nine, with 16% of stations short in Grand Est, 15% in Pays de la Loire, 14% in Occitanie, and 13% in Centre-Val de Loire, per governm…
@@ -122,3 +99,9 @@
 - 09/20 09:42 [FirstSquawk] FBI reportedly warns of fake dating profiles targeting ICE agents
 - 09/20 09:43 [FirstSquawk] American dream’ continues to produce millionaires, WSJ reports
 - 09/20 09:53 [FirstSquawk] Trump says historic deal grants US permanent security control over Greenland
+- 09/20 10:00 [financialjuice] China sets five-year loan prime rate at 3.50%, unchanged from a month earlier
+- 09/20 10:05 [FirstSquawk] China sees record 3.32 billion rail passenger trips through August, up 3.9%
+- 09/20 10:06 [FirstSquawk] China leaves five-year loan prime rate unchanged at 3.50%
+- 09/20 10:06 [FirstSquawk] Coalition says Houthi attacks targeting civilians in Bish, Taif, Farasan and Yanbu foiled
+- 09/20 10:07 [FirstSquawk] Houthi ballistic missile launched toward Riyadh intercepted, Saudi coalition says
+- 09/20 10:07 [FirstSquawk] Stanley Druckenmiller says AI boom could be creating an ‘earnings bubble’

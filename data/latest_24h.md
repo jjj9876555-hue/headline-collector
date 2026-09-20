@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 10:00 JST／対象: 09/19 10:00 〜 09/20 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-20 10:17 JST／対象: 09/19 10:17 〜 09/20 10:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 213 | 09/19 10:01 | 09/20 09:53 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 48 | 09/19 10:03 | 09/20 08:55 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 211 | 09/19 10:17 | 09/20 10:07 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 47 | 09/19 10:20 | 09/20 10:00 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 267 行（統合前 273 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 264 行（統合前 270 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 10:01 [FirstSquawk] Trump arch gets FAA approval, with ‘eternal flame’ mandated as pilot warning - RTRS
-- 09/19 10:03 [financialjuice] State Dept: approves possible $2.68 billion foreign military sale to Ukraine for air defense upgrade development
-- 09/19 10:05 [FirstSquawk] State Department clears possible $2.68B military sale to Ukraine for air defense upgrades
-- 09/19 10:06 [FirstSquawk] “Hands off”: Protesters surround Kennedy Center in opposition to Trump’s control of the arts institution - CBC
-- 09/19 10:06 [FirstSquawk] Flights resume at Luxembourg Airport following temporary disruption linked to UAS detection
-- 09/19 10:07 [FirstSquawk] System southwest of Azores has 80% chance of cyclone formation within 48 hours, NHC says
-- 09/19 10:08 [FirstSquawk] Jensen Huang says he agrees with Trump on AI, sees no risk of it ending the world by 2030
-- 09/19 10:15 [financialjuice] Over call for accelerated AI development: Politico
-- 09/19 10:16 [FirstSquawk] Adobe’s Shantanu Narayen reports sale of 125,000 shares at $249.53–$253.74 each
 - 09/19 10:17 [FirstSquawk] OPENAI sees revenue climbing from $36B to $350B by 2030, with expenses far exceeding revenues – FT
 - 09/19 10:17 [FirstSquawk] OpenAI faces projected $280B cash burn through 2030, FT reports
 - 09/19 10:19 [FirstSquawk] Trump and Xi set to deliver remarks at state dinner, White House spokeswoman says
@@ -291,3 +282,9 @@
 - 09/20 09:42 [FirstSquawk] FBI reportedly warns of fake dating profiles targeting ICE agents
 - 09/20 09:43 [FirstSquawk] American dream’ continues to produce millionaires, WSJ reports
 - 09/20 09:53 [FirstSquawk] Trump says historic deal grants US permanent security control over Greenland
+- 09/20 10:00 [financialjuice] China sets five-year loan prime rate at 3.50%, unchanged from a month earlier
+- 09/20 10:05 [FirstSquawk] China sees record 3.32 billion rail passenger trips through August, up 3.9%
+- 09/20 10:06 [FirstSquawk] China leaves five-year loan prime rate unchanged at 3.50%
+- 09/20 10:06 [FirstSquawk] Coalition says Houthi attacks targeting civilians in Bish, Taif, Farasan and Yanbu foiled
+- 09/20 10:07 [FirstSquawk] Houthi ballistic missile launched toward Riyadh intercepted, Saudi coalition says
+- 09/20 10:07 [FirstSquawk] Stanley Druckenmiller says AI boom could be creating an ‘earnings bubble’
