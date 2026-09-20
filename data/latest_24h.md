@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 09:07 JST／対象: 09/19 09:07 〜 09/20 09:07 JST（時刻はすべて日本時間）
+生成: 2026-09-20 09:32 JST／対象: 09/19 09:32 〜 09/20 09:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 220 | 09/19 09:09 | 09/20 03:10 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 50 | 09/19 09:11 | 09/20 08:55 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 214 | 09/19 09:50 | 09/20 09:31 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 48 | 09/19 10:03 | 09/20 08:55 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 276 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 268 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 09:09 [FirstSquawk] Jamieson Greer set to accompany Treasury Secretary Bessent in meeting with China’s Vice Premier He Lifeng
-- 09/19 09:09 [FirstSquawk] Civil Defense alerts Riyadh residents to potential danger
-- 09/19 09:10 [FirstSquawk] Civil Defense alerts Al Kharj residents to potential danger
-- 09/19 09:10 [FirstSquawk] Jensen Huang agrees with Trump on AI, sees no chance of it ending the world by 2030
-- 09/19 09:11 [FirstSquawk] OpenAI sees revenue reaching $840 billion through 2030, FT reports
-- 09/19 09:11 [financialjuice] Saudi civil defense: danger has passed in Riyadh
-- 09/19 09:13 [financialjuice] Saudi civil defense: danger over in al Kharj
-- 09/19 09:22 [FirstSquawk] U.S. sees no exchange of export-control easing for existing rare-earth commitments
-- 09/19 09:22 [FirstSquawk] Trump open to talks with Kim Jong Un, North Korea now has the ball — U.S. official
-- 09/19 09:23 [FirstSquawk] Trump willing to hold talks with Kim Jong Un, North Korea must make next move — U.S. official
-- 09/19 09:23 [FirstSquawk] U.S. official stresses importance of diplomacy with Gulf allies during UNGA
-- 09/19 09:24 [FirstSquawk] UN Security Council to convene meeting on artificial intelligence and governance — U.S. official
 - 09/19 09:50 [FirstSquawk] Vingroup founder Pham Nhat Vuong transfers VinFast, GSM leadership to sons
 - 09/19 09:51 [FirstSquawk] China tightens entry and exit regulations, raising compliance concerns for businesses
 - 09/19 09:52 [FirstSquawk] Resonac, Nitto Denko join TSMC, ASML in U.S. investment focused on AI production bottlenecks
@@ -300,3 +288,7 @@
 - 09/20 04:37 [financialjuice] Saudi-led coalition: ballistic missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed on Saturday
 - 09/20 04:39 [financialjuice] Saudi-led coalition: foils Houthi attacks on civilians in Saudi cities Bish, Taif, Farasan, Yanbu
 - 09/20 08:55 [financialjuice] U.S. military: strike on Caribbean vessel over alleged drug trafficking kills four on Saturday
+- 09/20 09:16 [FirstSquawk] Toyota steps into extended-range EV segment with new China-built model
+- 09/20 09:17 [FirstSquawk] Leapmotor outpaces Subaru, Mitsubishi Motors in global vehicle sales - NA
+- 09/20 09:28 [FirstSquawk] U.S. STATE DEPARTMENT ISSUES COMPREHENSIVE SECURITY ALERT FOR MIDDLE EAST The U.S. Department of State’s Consular Affairs has urged American citizens in the Middle East to exercise heightened vigilance, citing complex security conditions an…
+- 09/20 09:31 [FirstSquawk] More than 34,000 users without power across Buenos Aires area

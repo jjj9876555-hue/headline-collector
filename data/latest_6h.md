@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 09:07 JST／対象: 09/20 03:07 〜 09/20 09:07 JST（時刻はすべて日本時間）
+生成: 2026-09-20 09:32 JST／対象: 09/20 03:32 〜 09/20 09:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 03:32 | 09/20 03:47 | 15分（03:32→03:47） |
-| FirstSquawk | 1 | 09/20 03:10 | 09/20 03:10 | - |
-| financialjuice | 12 | 09/20 03:13 | 09/20 08:55 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 4 | 09/20 09:16 | 09/20 09:31 | 10分（09:17→09:28） |
+| financialjuice | 7 | 09/20 03:32 | 09/20 08:55 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 15 行（統合前 15 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 13 行（統合前 13 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 03:10 [FirstSquawk] Israeli army announces the killing of a Hamas leader who entered Israel during the events of October 7.
-- 09/20 03:13 [financialjuice] US Treasury's Bessent, USTR Greer to meet Chinese Vice Premier He Lifeng on Sunday at JPMorgan headquarters in New York - source
-- 09/20 03:22 [financialjuice] Turkish foreign minister: current middle east crisis no longer economically bearable
-- 09/20 03:23 [financialjuice] Turkish foreign minister: proposals conveyed to all sides to end Saudi-Houthi fighting
-- 09/20 03:24 [financialjuice] Turkish foreign minister: unacceptable for Saudi Arabia to become involved in US-Iran war, no wish to join conflict
-- 09/20 03:25 [financialjuice] Turkish foreign minister: Saudi Arabia could have military requirements, to be reviewed in trilateral defense pact with Pakistan
 - 09/20 03:32 [DeItaone] U.S.-CHINA TALKS SET AHEAD OF TRUMP-XI SUMMIT Treasury Secretary Scott Bessent will meet Chinese Vice Premier He Lifeng on Sunday in New York to discuss AI security, trade and broader economic issues. The talks come just days before Trump h…
 - 09/20 03:32 [financialjuice] Turkish foreign minister: initiatives exist to end Ukraine-Russia war, but hard for lasting solution
 - 09/20 03:38 [financialjuice] Turkish foreign minister: sent proposal to Ukraine, Russia to halt fighting in Black Sea, awaiting replies
@@ -39,3 +33,7 @@
 - 09/20 04:37 [financialjuice] Saudi-led coalition: ballistic missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed on Saturday
 - 09/20 04:39 [financialjuice] Saudi-led coalition: foils Houthi attacks on civilians in Saudi cities Bish, Taif, Farasan, Yanbu
 - 09/20 08:55 [financialjuice] U.S. military: strike on Caribbean vessel over alleged drug trafficking kills four on Saturday
+- 09/20 09:16 [FirstSquawk] Toyota steps into extended-range EV segment with new China-built model
+- 09/20 09:17 [FirstSquawk] Leapmotor outpaces Subaru, Mitsubishi Motors in global vehicle sales - NA
+- 09/20 09:28 [FirstSquawk] U.S. STATE DEPARTMENT ISSUES COMPREHENSIVE SECURITY ALERT FOR MIDDLE EAST The U.S. Department of State’s Consular Affairs has urged American citizens in the Middle East to exercise heightened vigilance, citing complex security conditions an…
+- 09/20 09:31 [FirstSquawk] More than 34,000 users without power across Buenos Aires area
