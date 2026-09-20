@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 00:58 JST／対象: 09/20 00:58 〜 09/21 00:58 JST（時刻はすべて日本時間）
+生成: 2026-09-21 01:17 JST／対象: 09/20 01:17 〜 09/21 01:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/20 01:10 | 09/20 23:43 | ⚠ 1181分（03:47→23:29） |
-| FirstSquawk | 222 | 09/20 00:58 | 09/21 00:49 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 56 | 09/20 02:01 | 09/21 00:51 | ⚠ 256分（04:39→08:55） |
+| DeItaone | 9 | 09/20 01:17 | 09/20 23:43 | ⚠ 1181分（03:47→23:29） |
+| FirstSquawk | 212 | 09/20 01:32 | 09/21 00:49 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 67 | 09/20 02:01 | 09/21 01:16 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 278 行（統合前 289 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 277 行（統合前 288 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 00:58 [FirstSquawk] Iranian National Security Council Secretary: We know the weaknesses of the US military and are more prepared than ever to counter its air attacks.
-- 09/20 00:58 [FirstSquawk] Secretary of Iran's Supreme National Security Council: We have reached the conclusion that we must change our strategy towards Washington after its withdrawal from the Memorandum of Understanding
-- 09/20 00:58 [FirstSquawk] Iranian National Security Council Secretary: We recently tested an anti-ship missile near a US aircraft carrier
-- 09/20 00:59 [FirstSquawk] Iranian National Security Council Secretary: We are serious about defense and will strike US bases and Washington's interests in the region with even greater force if we are attacked.
-- 09/20 00:59 [FirstSquawk] Secretary of Iran's Supreme National Security Council: Consultations are ongoing with the Qatari and Pakistani mediators, and we have informed them of our conditions for negotiation.
-- 09/20 00:59 [FirstSquawk] Mohsen Rezaei: We are in contact with the Qatari mediator who conveyed our conditions to Washington with the aim of stopping the war, and we are waiting for a response from President Trump.
-- 09/20 01:00 [FirstSquawk] Iranian National Security Council Secretary: Our conditions are ending the war on all fronts, releasing our frozen funds, and ending the naval blockade.
-- 09/20 01:00 [FirstSquawk] Secretary of Iran's Supreme National Security Council: US and Israeli actions allow us to withdraw from the Nuclear Non-Proliferation Treaty
-- 09/20 01:00 [FirstSquawk] Secretary of Iran's Supreme National Security Council: We have not yet made a decision to withdraw from the Non-Proliferation Treaty, and the matter depends on Washington's behavior.
-- 09/20 01:01 [FirstSquawk] Secretary of Iran's Supreme National Security Council: We remain committed to the fatwa of the late Supreme Leader and have not changed our nuclear doctrine, but we do not know what will happen in the future.
-- 09/20 01:10 [DeItaone] $NVDA - NVIDIA’S HUANG REJECTS CALLS TO SLOW AI Nvidia CEO Jensen Huang says AI development should move “as fast as we can,” rejecting calls for the industry to slow down. Huang stressed that speed should not come at the expense of safety, …
-- 09/20 01:16 [DeItaone] HORMUZ OIL FLOWS HIT SIX-MONTH HIGH Oil and LNG shipments through the Strait of Hormuz have reached their highest level in six months, as U.S. mine-clearing and naval protection efforts boost tanker traffic. CENTCOM says Gulf allies have mo…
 - 09/20 01:17 [DeItaone] U.S., DENMARK AND GREENLAND REACH SECURITY DEAL The U.S., Denmark and Greenland have agreed to expand America’s military presence in Greenland, with signing expected next week at the UN General Assembly. Denmark and Greenland insist the agr…
 - 09/20 01:17 [DeItaone] WHITE HOUSE ENFORCES BAN ON CNN, MS NOW AND POLITICO The White House confiscated press passes and denied access to journalists from CNN, MS NOW and Politico, following through on Trump’s announced ban. All three outlets say they will defend…
 - 09/20 01:32 [FirstSquawk] Israeli airstrikes on Wadi al-Hujair, the vicinity of Haris, Sarbin, Nabatieh city, and Nabatieh al-Fawqa in southern Lebanon
@@ -302,3 +290,14 @@
 - 09/21 00:40 [FirstSquawk] Israeli Chief of Staff: The army is on high alert, deployed and ready with reinforced forces on all fronts.
 - 09/21 00:49 [FirstSquawk] Iranian President: We will welcome any talks that lead to lasting security and peace, and we need unity of purpose in this endeavor.
 - 09/21 00:51 [financialjuice] US Pacific Command on North Korea missile launches: aware of recent launches, consulting closely with allies and partners
+- 09/21 01:00 [financialjuice] Germany's centre-left SPD forecast at 35.5% in Mecklenburg-Western Pomerania state vote: exit poll
+- 09/21 01:00 [financialjuice] Germany's far-right AfD set to secure 37.0% in Mecklenburg-Western Pomerania state election - exit poll
+- 09/21 01:01 [financialjuice] German Chancellor Merz's CDU projected to secure 5.5% in Mecklenburg-Western Pomerania state vote: exit poll
+- 09/21 01:01 [financialjuice] Merz’s conservatives at 20% in Berlin state election: exit poll
+- 09/21 01:01 [financialjuice] Centre-left SPD polls at 12% in Berlin state election: exit poll
+- 09/21 01:01 [financialjuice] Greens at 15% in Berlin state election: exit poll
+- 09/21 01:01 [financialjuice] Left party at 24.5% in Berlin state election: exit poll
+- 09/21 01:01 [financialjuice] Germany's Left party forecast to secure 7.5% in Mecklenburg-Western Pomerania state vote: exit poll
+- 09/21 01:01 [financialjuice] Far-right AfD polling at 16% in Berlin state election: exit poll
+- 09/21 01:16 [financialjuice] Germany's Chancellor Merz: two state ballots today with vastly different results
+- 09/21 01:16 [financialjuice] Germany's Chancellor Merz: election outcome in Mecklenburg-Western Pomerania is catastrophe

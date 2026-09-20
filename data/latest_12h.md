@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 00:58 JST／対象: 09/20 12:58 〜 09/21 00:58 JST（時刻はすべて日本時間）
+生成: 2026-09-21 01:17 JST／対象: 09/20 13:17 〜 09/21 01:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 139 | 09/20 13:10 | 09/21 00:49 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 36 | 09/20 12:59 | 09/21 00:51 | ⚠ 220分（12:59→16:39） |
+| FirstSquawk | 136 | 09/20 13:21 | 09/21 00:49 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 46 | 09/20 16:39 | 09/21 01:16 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 172 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 179 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 12:59 [financialjuice] Facility at Moscow oil refinery damaged in ongoing drone assault: TASS citing Mayor Sergey Sobyanin
-- 09/20 13:10 [FirstSquawk] CXMT’s new platform achieves at least 50% higher gross dies per wafer, executive says
-- 09/20 13:13 [FirstSquawk] CXMT says joint R&D with domestic equipment makers drove process advances
-- 09/20 13:14 [FirstSquawk] Moscow mayor: Ukrainian drones damage oil refinery in attack
 - 09/20 13:21 [FirstSquawk] China struggles to attract sovereign wealth funds amid ongoing property woes
 - 09/20 13:40 [FirstSquawk] Samsung executives share long-term AI strategy and discuss latest technology trends at U.S. forum - YONHAP
 - 09/20 13:47 [FirstSquawk] Luxembourg’s oldest bank heads for €2.5bn sale under Chinese ownership – FT
@@ -196,3 +192,14 @@
 - 09/21 00:40 [FirstSquawk] Israeli Chief of Staff: The army is on high alert, deployed and ready with reinforced forces on all fronts.
 - 09/21 00:49 [FirstSquawk] Iranian President: We will welcome any talks that lead to lasting security and peace, and we need unity of purpose in this endeavor.
 - 09/21 00:51 [financialjuice] US Pacific Command on North Korea missile launches: aware of recent launches, consulting closely with allies and partners
+- 09/21 01:00 [financialjuice] Germany's centre-left SPD forecast at 35.5% in Mecklenburg-Western Pomerania state vote: exit poll
+- 09/21 01:00 [financialjuice] Germany's far-right AfD set to secure 37.0% in Mecklenburg-Western Pomerania state election - exit poll
+- 09/21 01:01 [financialjuice] German Chancellor Merz's CDU projected to secure 5.5% in Mecklenburg-Western Pomerania state vote: exit poll
+- 09/21 01:01 [financialjuice] Merz’s conservatives at 20% in Berlin state election: exit poll
+- 09/21 01:01 [financialjuice] Centre-left SPD polls at 12% in Berlin state election: exit poll
+- 09/21 01:01 [financialjuice] Greens at 15% in Berlin state election: exit poll
+- 09/21 01:01 [financialjuice] Left party at 24.5% in Berlin state election: exit poll
+- 09/21 01:01 [financialjuice] Germany's Left party forecast to secure 7.5% in Mecklenburg-Western Pomerania state vote: exit poll
+- 09/21 01:01 [financialjuice] Far-right AfD polling at 16% in Berlin state election: exit poll
+- 09/21 01:16 [financialjuice] Germany's Chancellor Merz: two state ballots today with vastly different results
+- 09/21 01:16 [financialjuice] Germany's Chancellor Merz: election outcome in Mecklenburg-Western Pomerania is catastrophe
