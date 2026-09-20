@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 20:15 JST／対象: 09/19 20:15 〜 09/20 20:15 JST（時刻はすべて日本時間）
+生成: 2026-09-20 20:31 JST／対象: 09/19 20:31 〜 09/20 20:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 208 | 09/19 20:17 | 09/20 20:15 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 35 | 09/19 20:21 | 09/20 19:32 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 211 | 09/19 20:41 | 09/20 20:16 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 33 | 09/20 00:14 | 09/20 19:32 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 249 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 250 行（統合前 256 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 20:17 [FirstSquawk] CARNEY TAKES HIS INVESTMENT PITCH FROM ‘MAPLE DAVOS’ TO STRASBOURG - FT
-- 09/19 20:17 [FirstSquawk] AI CHATBOTS GIVE WRONG ANSWERS TO FINANCIAL QUERIES ‘MOST OF THE TIME’ - FT
-- 09/19 20:18 [FirstSquawk] JAPAN SUPERMARKET BEGINS TRAINING FOR 100-STORE VIETNAM PUSH - NIKKEI
-- 09/19 20:21 [financialjuice] French finance ministry: public-debt-to-GDP ratio projected to hit 119.3% in 2026, 121.7% in 2027
-- 09/19 20:23 [financialjuice] French finance ministry targets budget deficit of 5.0% of GDP in 2027, 5.4% in 2026
 - 09/19 20:41 [FirstSquawk] AFP: Disruptions at Riyadh airport include flight cancellations and delays
 - 09/19 21:20 [FirstSquawk] IDF: We targeted Hezbollah infrastructure in southern Lebanon
 - 09/19 21:20 [FirstSquawk] IDF: Our targeting of Hezbollah infrastructure in southern Lebanon came in response to the detonation of an explosive device in the security zone
@@ -273,3 +268,9 @@
 - 09/20 19:32 [financialjuice] Iran’s central military command: any US strike will prompt unlimited Iranian retaliation on US bases and interests - state media
 - 09/20 20:15 [FirstSquawk] Israeli army: A person who attempted a car-ramming attack targeting soldiers in the West Bank was neutralized.
 - 09/20 20:15 [FirstSquawk] Israeli settler wounded in the shooting attack in Neve Tzuf, in the central West Bank, has died.
+- 09/20 20:15 [FirstSquawk] Iranian media: Army leadership warns of US plans to attack Iran
+- 09/20 20:16 [FirstSquawk] Lebanese News Agency: Israeli shelling targets the town of Mansouri in southern Lebanon
+- 09/20 20:16 [FirstSquawk] Lebanese News Agency: Olive groves and citrus orchards in the vicinity of Majdal Zoun and Beit Siyad towns were set ablaze with phosphorus bombs in the south of the country.
+- 09/20 20:16 [FirstSquawk] Russian Central Election Commission: Voter turnout in Duma elections exceeded 50%
+- 09/20 20:16 [FirstSquawk] Netanyahu, commenting on the shooting attacks in the West Bank: No one is immune from punishment, whether in Gaza, Lebanon, or the West Bank.
+- 09/20 20:16 [FirstSquawk] Netanyahu orders increased military presence in the West Bank, imposing closures, carrying out arrest campaigns, and demolishing the home of the perpetrator.
