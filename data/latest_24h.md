@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 11:58 JST／対象: 09/19 11:58 〜 09/20 11:58 JST（時刻はすべて日本時間）
+生成: 2026-09-20 12:17 JST／対象: 09/19 12:17 〜 09/20 12:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 204 | 09/19 12:01 | 09/20 11:56 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 203 | 09/19 12:18 | 09/20 12:09 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 46 | 09/19 15:14 | 09/20 10:21 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 256 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 255 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 12:01 [FirstSquawk] Kennedy calls on people to get vaccinated against measles
-- 09/19 12:12 [FirstSquawk] Trump says Iran war will end soon
 - 09/19 12:18 [FirstSquawk] Cyprus upgraded to A/A-1 by S&P on ongoing fiscal and external deleveraging; outlook positive
 - 09/19 12:18 [FirstSquawk] Cyprus sees limited effects from Middle East war, though disruptions likely to last into 2027 – S&P
 - 09/19 12:20 [FirstSquawk] S&P sees potential for Cyprus’ external position to strengthen further, supporting positive outlook
@@ -280,3 +278,4 @@
 - 09/20 11:46 [FirstSquawk] Malaysia’s DAP sec-gen says his offer to resign from cabinet reflects the party’s stance
 - 09/20 11:49 [FirstSquawk] WSJ: Polymarket’s expansion exposed gaps that enabled fraudulent activity
 - 09/20 11:56 [FirstSquawk] China’s booming cosmetics market sees rise of homegrown brands – Kyodo
+- 09/20 12:09 [FirstSquawk] BOJ steps up rate hikes, while path for further tightening remains unclear - KYODO
