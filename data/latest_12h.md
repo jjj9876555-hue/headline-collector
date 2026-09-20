@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 07:31 JST／対象: 09/20 19:31 〜 09/21 07:31 JST（時刻はすべて日本時間）
+生成: 2026-09-21 07:43 JST／対象: 09/20 19:43 〜 09/21 07:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
 | FirstSquawk | 101 | 09/20 20:15 | 09/21 07:13 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 80 | 09/20 19:31 | 09/21 07:12 | ⚠ 127分（21:07→23:15） |
+| financialjuice | 78 | 09/20 20:37 | 09/21 07:12 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 177 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 175 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 19:31 [financialjuice] Iran's military central command: regional countries involved in any US attack on Iran shouldn’t expect restraint from Iran’s armed forces - state media
-- 09/20 19:32 [financialjuice] Iran’s central military command: any US strike will prompt unlimited Iranian retaliation on US bases and interests - state media
 - 09/20 20:15 [FirstSquawk] Israeli army: A person who attempted a car-ramming attack targeting soldiers in the West Bank was neutralized.
 - 09/20 20:15 [FirstSquawk] Israeli settler wounded in the shooting attack in Neve Tzuf, in the central West Bank, has died.
 - 09/20 20:15 [FirstSquawk] Iranian media: Army leadership warns of US plans to attack Iran
