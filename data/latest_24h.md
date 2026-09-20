@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 21:37 JST／対象: 09/19 21:37 〜 09/20 21:37 JST（時刻はすべて日本時間）
+生成: 2026-09-20 21:52 JST／対象: 09/19 21:52 〜 09/20 21:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 215 | 09/19 21:39 | 09/20 21:14 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 218 | 09/19 22:00 | 09/20 21:49 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 38 | 09/20 00:14 | 09/20 21:07 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 259 行（統合前 265 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 262 行（統合前 268 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 21:39 [FirstSquawk] AFP: Aramco fuel tank catches fire near Riyadh airport
 - 09/19 22:00 [FirstSquawk] U.S. Central Command Commander: Main Crossing Corridors in the Strait of Hormuz Are Mine-Free
 - 09/19 22:01 [FirstSquawk] US Central Command Commander: Iran has not exported a single barrel of oil thanks to our tight blockade
 - 09/19 22:01 [FirstSquawk] Commander of US Central Command: Thousands of ships cross the Strait of Hormuz
@@ -283,3 +282,7 @@
 - 09/20 21:13 [FirstSquawk] Biodiesel for shipping now cheaper than conventional fuels after price fall- FT
 - 09/20 21:13 [FirstSquawk] US retailer rations motor oil as prices quadruple and supplies run dry- FT
 - 09/20 21:14 [FirstSquawk] Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets - FT
+- 09/20 21:48 [FirstSquawk] National Security Minister Itamar Ben-Gvir: We demand the execution of the perpetrator of the Neve Tzuf attack in the central West Bank, so that he will be the first to face the law.
+- 09/20 21:48 [FirstSquawk] Ben-Gvir: We demand the execution of the perpetrator of the Neve Tzuf attack in the central West Bank, so that he may be the first to face the law.
+- 09/20 21:48 [FirstSquawk] Iran's Khatam al-Anbiya Central Headquarters: We have received information about Washington's efforts to reinstate certain measures against our country.
+- 09/20 21:49 [FirstSquawk] Iranian Quds Force Headquarters: We warn Washington that committing any mistake will make its bases and interests in the region a target for our attacks.

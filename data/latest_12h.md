@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 21:37 JST／対象: 09/20 09:37 〜 09/20 21:37 JST（時刻はすべて日本時間）
+生成: 2026-09-20 21:52 JST／対象: 09/20 09:52 〜 09/20 21:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 148 | 09/20 09:42 | 09/20 21:14 | ⚠ 60分（19:15→20:15） |
+| FirstSquawk | 150 | 09/20 09:53 | 09/20 21:49 | ⚠ 60分（19:15→20:15） |
 | financialjuice | 15 | 09/20 10:00 | 09/20 21:07 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 163 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 165 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 09:42 [FirstSquawk] FBI reportedly warns of fake dating profiles targeting ICE agents
-- 09/20 09:43 [FirstSquawk] American dream’ continues to produce millionaires, WSJ reports
 - 09/20 09:53 [FirstSquawk] Trump says historic deal grants US permanent security control over Greenland
 - 09/20 10:00 [financialjuice] China sets five-year loan prime rate at 3.50%, unchanged from a month earlier
 - 09/20 10:05 [FirstSquawk] China sees record 3.32 billion rail passenger trips through August, up 3.9%
@@ -187,3 +185,7 @@
 - 09/20 21:13 [FirstSquawk] Biodiesel for shipping now cheaper than conventional fuels after price fall- FT
 - 09/20 21:13 [FirstSquawk] US retailer rations motor oil as prices quadruple and supplies run dry- FT
 - 09/20 21:14 [FirstSquawk] Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets - FT
+- 09/20 21:48 [FirstSquawk] National Security Minister Itamar Ben-Gvir: We demand the execution of the perpetrator of the Neve Tzuf attack in the central West Bank, so that he will be the first to face the law.
+- 09/20 21:48 [FirstSquawk] Ben-Gvir: We demand the execution of the perpetrator of the Neve Tzuf attack in the central West Bank, so that he may be the first to face the law.
+- 09/20 21:48 [FirstSquawk] Iran's Khatam al-Anbiya Central Headquarters: We have received information about Washington's efforts to reinstate certain measures against our country.
+- 09/20 21:49 [FirstSquawk] Iranian Quds Force Headquarters: We warn Washington that committing any mistake will make its bases and interests in the region a target for our attacks.
