@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 18:44 JST／対象: 09/20 12:44 〜 09/20 18:44 JST（時刻はすべて日本時間）
+生成: 2026-09-20 18:58 JST／対象: 09/20 12:58 〜 09/20 18:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 70 | 09/20 12:47 | 09/20 18:43 | 41分（16:53→17:35） |
+| FirstSquawk | 68 | 09/20 13:10 | 09/20 18:43 | 41分（16:53→17:35） |
 | financialjuice | 5 | 09/20 12:59 | 09/20 18:32 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 75 行（統合前 75 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 73 行（統合前 73 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 12:47 [FirstSquawk] South Korea’s internet-only banks see small-business lending rise more than 50% in H1 as household lending rules tighten - YONHAP
-- 09/20 12:53 [FirstSquawk] CXMT unveils 24-Gbit LPDDR5X products using new platform, executive says
 - 09/20 12:59 [financialjuice] Facility at Moscow oil refinery damaged in ongoing drone assault: TASS citing Mayor Sergey Sobyanin
 - 09/20 13:10 [FirstSquawk] CXMT’s new platform achieves at least 50% higher gross dies per wafer, executive says
 - 09/20 13:13 [FirstSquawk] CXMT says joint R&D with domestic equipment makers drove process advances
