@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 13:02 JST／対象: 09/20 01:02 〜 09/20 13:02 JST（時刻はすべて日本時間）
+生成: 2026-09-20 13:20 JST／対象: 09/20 01:20 〜 09/20 13:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/20 01:10 | 09/20 03:47 | ⚠ 74分（02:18→03:32） |
-| FirstSquawk | 73 | 09/20 01:32 | 09/20 12:53 | ⚠ 366分（03:10→09:16） |
+| DeItaone | 5 | 09/20 02:11 | 09/20 03:47 | ⚠ 74分（02:18→03:32） |
+| FirstSquawk | 76 | 09/20 01:32 | 09/20 13:14 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 21 | 09/20 02:01 | 09/20 12:59 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 97 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 96 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 01:10 [DeItaone] $NVDA - NVIDIA’S HUANG REJECTS CALLS TO SLOW AI Nvidia CEO Jensen Huang says AI development should move “as fast as we can,” rejecting calls for the industry to slow down. Huang stressed that speed should not come at the expense of safety, …
-- 09/20 01:16 [DeItaone] HORMUZ OIL FLOWS HIT SIX-MONTH HIGH Oil and LNG shipments through the Strait of Hormuz have reached their highest level in six months, as U.S. mine-clearing and naval protection efforts boost tanker traffic. CENTCOM says Gulf allies have mo…
-- 09/20 01:17 [DeItaone] U.S., DENMARK AND GREENLAND REACH SECURITY DEAL The U.S., Denmark and Greenland have agreed to expand America’s military presence in Greenland, with signing expected next week at the UN General Assembly. Denmark and Greenland insist the agr…
-- 09/20 01:17 [DeItaone] WHITE HOUSE ENFORCES BAN ON CNN, MS NOW AND POLITICO The White House confiscated press passes and denied access to journalists from CNN, MS NOW and Politico, following through on Trump’s announced ban. All three outlets say they will defend…
 - 09/20 01:32 [FirstSquawk] Israeli airstrikes on Wadi al-Hujair, the vicinity of Haris, Sarbin, Nabatieh city, and Nabatieh al-Fawqa in southern Lebanon
 - 09/20 01:32 [FirstSquawk] Russian Ministry of Defense: We targeted a ship that was transporting fuel to Ukrainian forces in Odessa, southwestern Ukraine
 - 09/20 01:33 [FirstSquawk] Israeli Home Front Command: Sirens sound in the West Bank settlement of Yitzhar to warn of an infiltration by armed men.
@@ -121,3 +117,6 @@
 - 09/20 12:47 [FirstSquawk] South Korea’s internet-only banks see small-business lending rise more than 50% in H1 as household lending rules tighten - YONHAP
 - 09/20 12:53 [FirstSquawk] CXMT unveils 24-Gbit LPDDR5X products using new platform, executive says
 - 09/20 12:59 [financialjuice] Facility at Moscow oil refinery damaged in ongoing drone assault: TASS citing Mayor Sergey Sobyanin
+- 09/20 13:10 [FirstSquawk] CXMT’s new platform achieves at least 50% higher gross dies per wafer, executive says
+- 09/20 13:13 [FirstSquawk] CXMT says joint R&D with domestic equipment makers drove process advances
+- 09/20 13:14 [FirstSquawk] Moscow mayor: Ukrainian drones damage oil refinery in attack
