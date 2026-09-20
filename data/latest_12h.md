@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 14:32 JST／対象: 09/20 02:32 〜 09/20 14:32 JST（時刻はすべて日本時間）
+生成: 2026-09-20 14:44 JST／対象: 09/20 02:44 〜 09/20 14:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 03:32 | 09/20 03:47 | 15分（03:32→03:47） |
-| FirstSquawk | 78 | 09/20 02:50 | 09/20 14:23 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 79 | 09/20 02:50 | 09/20 14:36 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 15 | 09/20 03:13 | 09/20 12:59 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 95 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 96 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -119,3 +119,4 @@
 - 09/20 14:17 [FirstSquawk] Price fall makes biodiesel a cheaper fuel option for shipping than conventional alternatives – FT
 - 09/20 14:18 [FirstSquawk] Google executive says Asia is adopting AI faster than perceived
 - 09/20 14:23 [FirstSquawk] Saudi Arabia pulls out of China-led cross-border currency system – FT
+- 09/20 14:36 [FirstSquawk] TotalEnergies comes under renewed scrutiny over handling of Mozambique attack – FT

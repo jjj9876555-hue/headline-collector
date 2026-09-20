@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 14:32 JST／対象: 09/19 14:32 〜 09/20 14:32 JST（時刻はすべて日本時間）
+生成: 2026-09-20 14:44 JST／対象: 09/19 14:44 〜 09/20 14:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 199 | 09/19 14:41 | 09/20 14:23 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 196 | 09/19 14:51 | 09/20 14:36 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 47 | 09/19 15:14 | 09/20 12:59 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 252 行（統合前 258 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 249 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 14:41 [FirstSquawk] Trump to greet Xi at air base as Chinese president arrives, officials say – NA
-- 09/19 14:42 [FirstSquawk] Australia’s visa cuts put backpackers’ working holiday plans at risk – SCMP
-- 09/19 14:43 [FirstSquawk] Toyota restores physical buttons in Lexus ES, reflecting mixed views on touchscreen controls – NA
-- 09/19 14:43 [FirstSquawk] Turkey takes steps to steady markets following fund crisis-driven selloff – NA
 - 09/19 14:51 [FirstSquawk] FBI reportedly warns of women posing as tradwives to seduce and expose ICE officers – The Guardian
 - 09/19 14:54 [FirstSquawk] Alibaba releases open-source AI model for detecting cancer and nearly 150 medical conditions - SCMP
 - 09/19 14:55 [FirstSquawk] Pay for foreign elderly carers to be 10%–20% above current helper wages - SCMP
@@ -276,3 +272,4 @@
 - 09/20 14:17 [FirstSquawk] Price fall makes biodiesel a cheaper fuel option for shipping than conventional alternatives – FT
 - 09/20 14:18 [FirstSquawk] Google executive says Asia is adopting AI faster than perceived
 - 09/20 14:23 [FirstSquawk] Saudi Arabia pulls out of China-led cross-border currency system – FT
+- 09/20 14:36 [FirstSquawk] TotalEnergies comes under renewed scrutiny over handling of Mozambique attack – FT
