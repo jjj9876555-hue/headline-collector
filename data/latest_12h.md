@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 21:52 JST／対象: 09/20 09:52 〜 09/20 21:52 JST（時刻はすべて日本時間）
+生成: 2026-09-20 22:04 JST／対象: 09/20 10:04 〜 09/20 22:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 150 | 09/20 09:53 | 09/20 21:49 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 15 | 09/20 10:00 | 09/20 21:07 | ⚠ 220分（12:59→16:39） |
+| FirstSquawk | 151 | 09/20 10:05 | 09/20 21:58 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 14 | 09/20 10:21 | 09/20 21:07 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 165 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 09:53 [FirstSquawk] Trump says historic deal grants US permanent security control over Greenland
-- 09/20 10:00 [financialjuice] China sets five-year loan prime rate at 3.50%, unchanged from a month earlier
 - 09/20 10:05 [FirstSquawk] China sees record 3.32 billion rail passenger trips through August, up 3.9%
 - 09/20 10:06 [FirstSquawk] China leaves five-year loan prime rate unchanged at 3.50%
 - 09/20 10:06 [FirstSquawk] Coalition says Houthi attacks targeting civilians in Bish, Taif, Farasan and Yanbu foiled
@@ -189,3 +187,5 @@
 - 09/20 21:48 [FirstSquawk] Ben-Gvir: We demand the execution of the perpetrator of the Neve Tzuf attack in the central West Bank, so that he may be the first to face the law.
 - 09/20 21:48 [FirstSquawk] Iran's Khatam al-Anbiya Central Headquarters: We have received information about Washington's efforts to reinstate certain measures against our country.
 - 09/20 21:49 [FirstSquawk] Iranian Quds Force Headquarters: We warn Washington that committing any mistake will make its bases and interests in the region a target for our attacks.
+- 09/20 21:58 [FirstSquawk] Jerusalem Governorate: Israeli National Security Minister Ben Gvir storms the blessed Al-Aqsa Mosque under tight security protection
+- 09/20 21:58 [FirstSquawk] Israeli Army Chief of Staff: Our forces are on high alert, deployed and ready on all fronts
