@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 01:58 JST／対象: 09/20 13:58 〜 09/21 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-21 02:15 JST／対象: 09/20 14:15 〜 09/21 02:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 133 | 09/20 13:58 | 09/21 01:47 | ⚠ 60分（19:15→20:15） |
+| FirstSquawk | 133 | 09/20 14:17 | 09/21 02:13 | ⚠ 60分（19:15→20:15） |
 | financialjuice | 55 | 09/20 16:39 | 09/21 01:29 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 13:58 [FirstSquawk] Israel’s settler economy faces growing risk of European sanctions – FT
-- 09/20 13:59 [FirstSquawk] Novo investors urge company to pursue deals and expand its drug pipeline – FT
-- 09/20 14:03 [FirstSquawk] Israeli airstrike hits outskirts of Sarbine in southern Lebanon, Lebanese News Agency reports
-- 09/20 14:04 [FirstSquawk] U.S. warns Americans of potential flight cancellations, airspace closures and travel disruptions in Middle East
 - 09/20 14:17 [FirstSquawk] Price fall makes biodiesel a cheaper fuel option for shipping than conventional alternatives – FT
 - 09/20 14:18 [FirstSquawk] Google executive says Asia is adopting AI faster than perceived
 - 09/20 14:23 [FirstSquawk] Saudi Arabia pulls out of China-led cross-border currency system – FT
@@ -209,3 +205,7 @@
 - 09/21 01:29 [financialjuice] Germany's conservative CDU party polls at 5.1% in Mecklenburg-Western Pomerania election, ZDF reports citing partial results
 - 09/21 01:41 [FirstSquawk] German Chancellor acknowledges a "disaster" for his party following the far-right's gains in local elections.
 - 09/21 01:47 [FirstSquawk] Combined Maritime Information Center: The US Navy facilitated 97 transits through the Strait of Hormuz in the past 72 hours.
+- 09/21 02:12 [FirstSquawk] TRUMP TO VISIT MAMDANI IN NEW YORK CITY ON MONDAY — NYT
+- 09/21 02:12 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS THE ELECTION OUTCOME IN MECKLENBURG-WESTERN POMERANIA IS A 'CATASTROPHE', WITH TWO STATE BALLOTS TODAY PRODUCING VASTLY DIFFERENT RESULTS, AS THE CONSERVATIVE CDU POLLS AT 5.1% IN MECKLENBURG-WESTERN POMERANIA…
+- 09/21 02:12 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS 'CHANGE IS NECESSARY' AND THAT 'GERMANY MUST BECOME A LAND OF FRESH STARTS', WARNING THAT CONFIDENCE IN THE COUNTRY'S INSTITUTIONS IS WANING, THAT THE STATE HAS GROWN 'OVERLY COMPLEX' AND THAT 'WE CAN'T RETURN…
+- 09/21 02:13 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS HE TAKES RESPONSIBILITY 'AS I WANT TO ADVANCE THE COUNTRY', ADDING THAT SHIFTS POSE CHALLENGES AND FRESH UNCERTAINTIES AND THAT HE IS PREPARED TO LEAD AS PARTY HEAD AND CHANCELLOR WITH 'DETERMINATION, PERSEVER…
