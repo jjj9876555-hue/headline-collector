@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 02:52 JST／対象: 09/20 02:52 〜 09/21 02:52 JST（時刻はすべて日本時間）
+生成: 2026-09-21 03:07 JST／対象: 09/20 03:07 〜 09/21 03:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/20 03:32 | 09/20 23:43 | ⚠ 1181分（03:47→23:29） |
-| FirstSquawk | 211 | 09/20 03:10 | 09/21 02:38 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 75 | 09/20 03:13 | 09/21 02:32 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 214 | 09/20 03:10 | 09/21 03:03 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 80 | 09/20 03:13 | 09/21 03:04 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 285 行（統合前 290 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 293 行（統合前 298 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -309,3 +309,11 @@
 - 09/21 02:32 [financialjuice] France, Canada task space agencies, defense ministries to jointly develop space launch systems, ground reception facilities: Carney
 - 09/21 02:38 [FirstSquawk] FRANCE'S PRESIDENT MACRON SAYS FRANCE BACKS CLOSER TIES BETWEEN THE EU AND CANADA AND ASSOCIATE MEMBERSHIP FOR CANADA, HAVING AGREED WITH CANADA'S CARNEY TO STRENGTHEN TIES IN THE ENERGY, SPACE AND CLIMATE SECTORS.
 - 09/21 02:38 [FirstSquawk] FRANCE'S PRESIDENT MACRON SAYS MACRON SAYS CANADIAN LNG CAN BE KEY FOR EUROPEAN ENERGY, INITIATING BILATERAL TALKS ON THE MATTER. FRANCE'S PRESIDENT MACRON SAYS
+- 09/21 03:01 [financialjuice] Ruling United Russia projected to take 49.4% in Russia's parliamentary election: IFX cites exit poll
+- 09/21 03:01 [financialjuice] Communist Party projected to secure 14.2% in Russia parliamentary election: Ifx cites exit poll
+- 09/21 03:01 [financialjuice] Liberal Democratic party of Russia projected to take 10.7% in parliamentary election: ifx cites exit poll
+- 09/21 03:01 [financialjuice] New People party projected to secure 9.7% in Russia's parliamentary election: IFX cites exit poll
+- 09/21 03:02 [FirstSquawk] RUSSIA’S COMMUNIST PARTY PROJECTED TO WIN 14.2% OF VOTE IN PARLIAMENTARY ELECTION — IFX, CITING EXIT POLL
+- 09/21 03:03 [FirstSquawk] RUSSIA’S LIBERAL DEMOCRATIC PARTY PROJECTED TO WIN 10.7% OF VOTE IN PARLIAMENTARY ELECTION — IFX, CITING EXIT POLL
+- 09/21 03:03 [FirstSquawk] RUSSIA’S NEW PEOPLE PARTY PROJECTED TO WIN 9.7% OF VOTE IN PARLIAMENTARY ELECTION — IFX, CITING EXIT POLL
+- 09/21 03:04 [financialjuice] Ruling United Russia party leads with 57.54% in Russian election: preliminary results from central election commission

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 02:52 JST／対象: 09/20 20:52 〜 09/21 02:52 JST（時刻はすべて日本時間）
+生成: 2026-09-21 03:07 JST／対象: 09/20 21:07 〜 09/21 03:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 61 | 09/20 21:13 | 09/21 02:38 | ⚠ 51分（00:49→01:41） |
-| financialjuice | 50 | 09/20 21:00 | 09/21 02:32 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 64 | 09/20 21:13 | 09/21 03:03 | ⚠ 51分（00:49→01:41） |
+| financialjuice | 54 | 09/20 21:07 | 09/21 03:04 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 119 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 21:00 [financialjuice/FirstSquawk] Iran shuts down unauthorized center linked to French embassy: Tasnim
 - 09/20 21:07 [financialjuice/FirstSquawk] Moscow’s remote voting system and voter list face large-scale hacking attacks: voting services operating normally, city election official says
 - 09/20 21:13 [FirstSquawk] Ukraine hits Moscow with ‘largest ever’ drone attack - FT
 - 09/20 21:13 [FirstSquawk] Biodiesel for shipping now cheaper than conventional fuels after price fall- FT
@@ -44,6 +43,7 @@
 - 09/20 22:42 [FirstSquawk] Trump: at strong request of US military and for national security, agrees to transform triumphal arch into a high-level military complex
 - 09/20 22:42 [FirstSquawk] Trump: Military complex to accommodate, store, deploy numerous drones, snipers on roof and plaza, and store large sniper ammo supplies
 - 09/20 22:42 [FirstSquawk] Trump: I have agreed to transform triumphal arch into a top military complex
+- 09/20 22:42 [FirstSquawk] Iran shuts down unauthorized center linked to French embassy - Tasnim
 - 09/20 23:15 [financialjuice] Qatar’s prime minister: QIA launches Doha Investment, new unit for domestic investments
 - 09/20 23:15 [financialjuice] Air defences intercept drone near Erbil airport in Iraqi Kurdistan: security sources
 - 09/20 23:17 [financialjuice] Qatar’s prime minister: Qatar anticipates awarding about $38.5 billion in new infrastructure projects over next five years
@@ -135,3 +135,11 @@
 - 09/21 02:32 [financialjuice] France, Canada task space agencies, defense ministries to jointly develop space launch systems, ground reception facilities: Carney
 - 09/21 02:38 [FirstSquawk] FRANCE'S PRESIDENT MACRON SAYS FRANCE BACKS CLOSER TIES BETWEEN THE EU AND CANADA AND ASSOCIATE MEMBERSHIP FOR CANADA, HAVING AGREED WITH CANADA'S CARNEY TO STRENGTHEN TIES IN THE ENERGY, SPACE AND CLIMATE SECTORS.
 - 09/21 02:38 [FirstSquawk] FRANCE'S PRESIDENT MACRON SAYS MACRON SAYS CANADIAN LNG CAN BE KEY FOR EUROPEAN ENERGY, INITIATING BILATERAL TALKS ON THE MATTER. FRANCE'S PRESIDENT MACRON SAYS
+- 09/21 03:01 [financialjuice] Ruling United Russia projected to take 49.4% in Russia's parliamentary election: IFX cites exit poll
+- 09/21 03:01 [financialjuice] Communist Party projected to secure 14.2% in Russia parliamentary election: Ifx cites exit poll
+- 09/21 03:01 [financialjuice] Liberal Democratic party of Russia projected to take 10.7% in parliamentary election: ifx cites exit poll
+- 09/21 03:01 [financialjuice] New People party projected to secure 9.7% in Russia's parliamentary election: IFX cites exit poll
+- 09/21 03:02 [FirstSquawk] RUSSIA’S COMMUNIST PARTY PROJECTED TO WIN 14.2% OF VOTE IN PARLIAMENTARY ELECTION — IFX, CITING EXIT POLL
+- 09/21 03:03 [FirstSquawk] RUSSIA’S LIBERAL DEMOCRATIC PARTY PROJECTED TO WIN 10.7% OF VOTE IN PARLIAMENTARY ELECTION — IFX, CITING EXIT POLL
+- 09/21 03:03 [FirstSquawk] RUSSIA’S NEW PEOPLE PARTY PROJECTED TO WIN 9.7% OF VOTE IN PARLIAMENTARY ELECTION — IFX, CITING EXIT POLL
+- 09/21 03:04 [financialjuice] Ruling United Russia party leads with 57.54% in Russian election: preliminary results from central election commission
