@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 23:44 JST／対象: 09/20 17:44 〜 09/20 23:44 JST（時刻はすべて日本時間）
+生成: 2026-09-20 23:58 JST／対象: 09/20 17:58 〜 09/20 23:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 61 | 09/20 18:15 | 09/20 23:23 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 19 | 09/20 18:18 | 09/20 23:43 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 80 | 09/20 18:15 | 09/20 23:56 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 26 | 09/20 18:18 | 09/20 23:58 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 77 行（統合前 82 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -101,3 +101,29 @@
 - 09/20 23:42 [financialjuice] Kashkari: Hopefully we'll get support from other parts of government, the real economy
 - 09/20 23:43 [DeItaone] 🟠 TIER 2 IRAN WARNS NEW U.S. ATTACK MAY BE COMING, THREATENS SUSTAINED RETALIATION Iran says it has information that the U.S. and allies are preparing a major new attack, Reuters reported. Tehran’s military command warned any strike would t…
 - 09/20 23:43 [financialjuice] Kashkari: strong investment demand tends to boost interest rates
+- 09/20 23:44 [financialjuice] Kashkari: growth has been fairly robust
+- 09/20 23:44 [financialjuice] Kashkari: American economy remains very resilient despite wars
+- 09/20 23:44 [financialjuice] Kashkari: productivity showing some signs of improvement
+- 09/20 23:44 [financialjuice] Kashkari: hopeful growth can prevail and reduce inflation
+- 09/20 23:45 [financialjuice] Kashkari: Bond market is responsibility of Treasury
+- 09/20 23:45 [financialjuice] Kashkari: Labor market remains robust
+- 09/20 23:52 [FirstSquawk] Qatari Prime Minister and Foreign Minister: We must eliminate the sources of discord, and no country can impose a threat on the rest.
+- 09/20 23:52 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Energy is our strength and technology is our future
+- 09/20 23:52 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Our region has witnessed what I can only describe as an earthquake
+- 09/20 23:52 [FirstSquawk] Qatari Prime Minister and Foreign Minister: The repercussions of what our region has witnessed have extended far beyond our borders.
+- 09/20 23:52 [FirstSquawk] Qatari Prime Minister and Foreign Minister: What our region has witnessed has put assumptions of security and stability to a real test
+- 09/20 23:53 [FirstSquawk] Qatari Prime Minister and Foreign Minister: All talks during the crisis began with security, then moved on to energy supplies and shipping
+- 09/20 23:53 [FirstSquawk] Qatari Prime Minister and Foreign Minister: We do not underestimate the uncertainty, but we will not allow short-term disruptions to dictate our course.
+- 09/20 23:53 [FirstSquawk] Qatari Prime Minister and Foreign Minister: We are working through diplomacy for the stability of the region
+- 09/20 23:53 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Through investment, we are moving forward with reform, strengthening our resilience, and creating opportunities for growth.
+- 09/20 23:53 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Qatar will remain a committed mediator, a reliable energy supplier, and an investment partner.
+- 09/20 23:54 [FirstSquawk] Qatari Prime Minister and Foreign Minister: From the perspective of the State of Qatar , diplomacy and economic stability are closely linked.
+- 09/20 23:54 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Diplomacy protects the conditions that allow people to trade, invest, and plan
+- 09/20 23:54 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Lasting security cannot be built through repeated cycles of escalation and retaliation.
+- 09/20 23:54 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Lasting security cannot be built through arrangements that leave any country vulnerable to insecurity.
+- 09/20 23:54 [FirstSquawk] Qatari Prime Minister and Foreign Minister: We must build trust and address the sources of tension
+- 09/20 23:55 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Our region needs a framework that respects sovereignty and in which no country poses a threat to another.
+- 09/20 23:55 [FirstSquawk] Qatari Prime Minister and Foreign Minister: We have worked with our regional and international partners to keep communication channels open and to reduce tensions.
+- 09/20 23:55 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Our financial system continued to function and our companies continued their operations despite what happened.
+- 09/20 23:56 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Energy is the source of our strength, diversification is the source of our resilience, and technology is our future
+- 09/20 23:58 [financialjuice] QatarEnergy CEO: QatarEnergy is producing a very small amount of LNG
