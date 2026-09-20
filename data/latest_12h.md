@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 00:31 JST／対象: 09/20 12:31 〜 09/21 00:31 JST（時刻はすべて日本時間）
+生成: 2026-09-21 00:44 JST／対象: 09/20 12:44 〜 09/21 00:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 138 | 09/20 12:34 | 09/21 00:00 | ⚠ 60分（19:15→20:15） |
+| FirstSquawk | 140 | 09/20 12:47 | 09/21 00:40 | ⚠ 60分（19:15→20:15） |
 | financialjuice | 35 | 09/20 12:59 | 09/21 00:07 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 170 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 172 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 12:34 [FirstSquawk] South Korea records 0.9% decline in greenhouse gas emissions last year – Yonhap
 - 09/20 12:47 [FirstSquawk] South Korea’s internet-only banks see small-business lending rise more than 50% in H1 as household lending rules tighten - YONHAP
 - 09/20 12:53 [FirstSquawk] CXMT unveils 24-Gbit LPDDR5X products using new platform, executive says
 - 09/20 12:59 [financialjuice] Facility at Moscow oil refinery damaged in ongoing drone assault: TASS citing Mayor Sergey Sobyanin
@@ -194,3 +193,6 @@
 - 09/21 00:03 [financialjuice] QatarEnergy CEO: company seriously considering entry into Venezuela market with partners
 - 09/21 00:06 [financialjuice] QatarEnergy CEO: Qatari LNG volumes are so large buyers will find QatarEnergy hard to overlook once Hormuz crisis ends
 - 09/21 00:07 [financialjuice] QatarEnergy: key equipment blocked by Hormuz crisis could postpone some expansion projects
+- 09/21 00:40 [FirstSquawk] Iraqi media outlets, quoting a security source, reported that what happened near Erbil airport was a controlled explosion and not an attack.
+- 09/21 00:40 [FirstSquawk] US Central Command: We rerouted 109 commercial vessels to ensure full compliance since the start of the embargo on Iran.
+- 09/21 00:40 [FirstSquawk] Israeli Chief of Staff: The army is on high alert, deployed and ready with reinforced forces on all fronts.

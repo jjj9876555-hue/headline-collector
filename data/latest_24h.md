@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 00:31 JST／対象: 09/20 00:31 〜 09/21 00:31 JST（時刻はすべて日本時間）
+生成: 2026-09-21 00:44 JST／対象: 09/20 00:44 〜 09/21 00:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/20 00:34 | 09/20 23:43 | ⚠ 1181分（03:47→23:29） |
-| FirstSquawk | 218 | 09/20 00:58 | 09/21 00:00 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 56 | 09/20 00:33 | 09/21 00:07 | ⚠ 256分（04:39→08:55） |
+| DeItaone | 11 | 09/20 01:10 | 09/20 23:43 | ⚠ 1181分（03:47→23:29） |
+| FirstSquawk | 221 | 09/20 00:58 | 09/21 00:40 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 55 | 09/20 02:01 | 09/21 00:07 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 276 行（統合前 287 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 00:33 [financialjuice] Iran’s top security official: Tehran wants war between Saudi Arabia and Yemen to end - Al Jazeera interview
-- 09/20 00:34 [DeItaone] IRAN'S TOP SECURITY OFFICIAL SAYS TEHRAN WANTS WAR BETWEEN SAUDI ARABIA AND YEMEN TO END - AL JAZEERA INTERVIEW
-- 09/20 00:34 [DeItaone] IRAN'S TOP SECURITY OFFICIAL SAYS QATAR HAS CONVEYED TEHRAN'S CONDITIONS TO WASHINGTON TO END WAR, AWAITING TRUMP RESPONSE - AL JAZEERA INTERVIEW
 - 09/20 00:58 [FirstSquawk] Iranian National Security Council Secretary: We know the weaknesses of the US military and are more prepared than ever to counter its air attacks.
 - 09/20 00:58 [FirstSquawk] Secretary of Iran's Supreme National Security Council: We have reached the conclusion that we must change our strategy towards Washington after its withdrawal from the Memorandum of Understanding
 - 09/20 00:58 [FirstSquawk] Iranian National Security Council Secretary: We recently tested an anti-ship missile near a US aircraft carrier
@@ -300,3 +297,6 @@
 - 09/21 00:03 [financialjuice] QatarEnergy CEO: company seriously considering entry into Venezuela market with partners
 - 09/21 00:06 [financialjuice] QatarEnergy CEO: Qatari LNG volumes are so large buyers will find QatarEnergy hard to overlook once Hormuz crisis ends
 - 09/21 00:07 [financialjuice] QatarEnergy: key equipment blocked by Hormuz crisis could postpone some expansion projects
+- 09/21 00:40 [FirstSquawk] Iraqi media outlets, quoting a security source, reported that what happened near Erbil airport was a controlled explosion and not an attack.
+- 09/21 00:40 [FirstSquawk] US Central Command: We rerouted 109 commercial vessels to ensure full compliance since the start of the embargo on Iran.
+- 09/21 00:40 [FirstSquawk] Israeli Chief of Staff: The army is on high alert, deployed and ready with reinforced forces on all fronts.
