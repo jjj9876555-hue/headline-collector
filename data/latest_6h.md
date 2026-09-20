@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 23:16 JST／対象: 09/20 17:16 〜 09/20 23:16 JST（時刻はすべて日本時間）
+生成: 2026-09-20 23:32 JST／対象: 09/20 17:32 〜 09/20 23:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 63 | 09/20 17:35 | 09/20 22:42 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 12 | 09/20 18:18 | 09/20 23:15 | ⚠ 127分（21:07→23:15） |
+| DeItaone | 1 | 09/20 23:29 | 09/20 23:29 | - |
+| FirstSquawk | 67 | 09/20 17:35 | 09/20 23:23 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 13 | 09/20 18:18 | 09/20 23:17 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 70 行（統合前 75 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 76 行（統合前 81 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -94,3 +94,9 @@
 - 09/20 22:41 [FirstSquawk] Trump to Fox News: I'm in a decision-making position and very big things will happen in the near future.
 - 09/20 23:15 [financialjuice] Qatar’s prime minister: QIA launches Doha Investment, new unit for domestic investments
 - 09/20 23:15 [financialjuice] Air defences intercept drone near Erbil airport in Iraqi Kurdistan: security sources
+- 09/20 23:17 [financialjuice] Qatar’s prime minister: Qatar anticipates awarding about $38.5 billion in new infrastructure projects over next five years
+- 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We are ready to cooperate with the Nile Basin countries
+- 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We are not against building dams at all, but we are against unilateralism.
+- 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We have some concerns regarding the Nile Basin Cooperative Framework Agreement.
+- 09/20 23:23 [FirstSquawk] Air defenses in Iraqi Kurdistan shoot down a drone near Erbil airport
+- 09/20 23:29 [DeItaone] TRUMP: “VERY BIG THINGS” COMING ON IRAN President Trump says he is in “a deciding mode” on Iran, warning that “very big things” could happen in the not-so-distant future. Trump said the options range from further military action to economic…

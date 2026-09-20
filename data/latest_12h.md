@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 23:16 JST／対象: 09/20 11:16 〜 09/20 23:16 JST（時刻はすべて日本時間）
+生成: 2026-09-20 23:32 JST／対象: 09/20 11:32 〜 09/20 23:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 129 | 09/20 11:18 | 09/20 22:42 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 15 | 09/20 12:59 | 09/20 23:15 | ⚠ 220分（12:59→16:39） |
+| DeItaone | 1 | 09/20 23:29 | 09/20 23:29 | - |
+| FirstSquawk | 126 | 09/20 11:34 | 09/20 23:23 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 16 | 09/20 12:59 | 09/20 23:17 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 139 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 138 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 11:18 [FirstSquawk] Iran’s top security official outlines conditions including end to war, unfreezing Iranian funds, lifting naval blockade
-- 09/20 11:19 [FirstSquawk] Leading Report says trump reportedly considering military strike options against Yemen
-- 09/20 11:22 [FirstSquawk] Iran security chief says Tehran seeks an end to fighting between Saudi Arabia and Yemen
-- 09/20 11:25 [FirstSquawk] Iran’s top security official says Tehran’s conditions were conveyed to Washington via Qatar - AL JAZEERA INTERVIEW
-- 09/20 11:27 [FirstSquawk] Iran security chief: Talks ongoing with Qatar and Pakistan as mediators, negotiation conditions conveyed - AL JAZEERA INTERVIEW
-- 09/20 11:31 [FirstSquawk] GranMorgu project sees at least 50% of planned $12 billion investment spent, TotalEnergies says
-- 09/20 11:31 [FirstSquawk] U.S. officials say Kremlin seeks to undermine confidence in American democracy with online influence campaigns – NYT
 - 09/20 11:34 [FirstSquawk] General Breuer elected as head of NATO’s top military body, current chair says
 - 09/20 11:35 [FirstSquawk] TotalEnergies’ GranMorgu offshore project in Suriname on track for first output in mid-2028, Staatsolie head says
 - 09/20 11:39 [FirstSquawk] France’s public debt-to-GDP ratio projected to reach 119.3% in 2026 and 121.7% in 2027
@@ -163,3 +156,9 @@
 - 09/20 22:41 [FirstSquawk] Trump to Fox News: I'm in a decision-making position and very big things will happen in the near future.
 - 09/20 23:15 [financialjuice] Qatar’s prime minister: QIA launches Doha Investment, new unit for domestic investments
 - 09/20 23:15 [financialjuice] Air defences intercept drone near Erbil airport in Iraqi Kurdistan: security sources
+- 09/20 23:17 [financialjuice] Qatar’s prime minister: Qatar anticipates awarding about $38.5 billion in new infrastructure projects over next five years
+- 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We are ready to cooperate with the Nile Basin countries
+- 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We are not against building dams at all, but we are against unilateralism.
+- 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We have some concerns regarding the Nile Basin Cooperative Framework Agreement.
+- 09/20 23:23 [FirstSquawk] Air defenses in Iraqi Kurdistan shoot down a drone near Erbil airport
+- 09/20 23:29 [DeItaone] TRUMP: “VERY BIG THINGS” COMING ON IRAN President Trump says he is in “a deciding mode” on Iran, warning that “very big things” could happen in the not-so-distant future. Trump said the options range from further military action to economic…

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 23:16 JST／対象: 09/19 23:16 〜 09/20 23:16 JST（時刻はすべて日本時間）
+生成: 2026-09-20 23:32 JST／対象: 09/19 23:32 〜 09/20 23:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 198 | 09/19 23:35 | 09/20 22:42 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 40 | 09/20 00:14 | 09/20 23:15 | ⚠ 256分（04:39→08:55） |
+| DeItaone | 12 | 09/20 00:34 | 09/20 23:29 | ⚠ 1181分（03:47→23:29） |
+| FirstSquawk | 202 | 09/19 23:35 | 09/20 23:23 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 41 | 09/20 00:14 | 09/20 23:17 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 239 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 244 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 23:19 [DeItaone] CNN JOURNALISTS WERE DENIED ACCESS TO THE WHITE HOUSE GROUNDS
 - 09/19 23:35 [FirstSquawk] SPACEX’S NASDAQ 100 WEIGHTING CONFIRMED AT 2.82 PCT IN REBALANCE
 - 09/19 23:54 [FirstSquawk] Lebanese media: Israeli artillery shelling targets the outskirts of the towns of Yahmor al-Shaqif and Zawtar al-Sharqiyah in southern Lebanon
 - 09/20 00:14 [financialjuice] German General Breuer chosen to lead NATO's top military committee: current chair says
@@ -263,3 +262,9 @@
 - 09/20 22:41 [FirstSquawk] Trump to Fox News: I'm in a decision-making position and very big things will happen in the near future.
 - 09/20 23:15 [financialjuice] Qatar’s prime minister: QIA launches Doha Investment, new unit for domestic investments
 - 09/20 23:15 [financialjuice] Air defences intercept drone near Erbil airport in Iraqi Kurdistan: security sources
+- 09/20 23:17 [financialjuice] Qatar’s prime minister: Qatar anticipates awarding about $38.5 billion in new infrastructure projects over next five years
+- 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We are ready to cooperate with the Nile Basin countries
+- 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We are not against building dams at all, but we are against unilateralism.
+- 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We have some concerns regarding the Nile Basin Cooperative Framework Agreement.
+- 09/20 23:23 [FirstSquawk] Air defenses in Iraqi Kurdistan shoot down a drone near Erbil airport
+- 09/20 23:29 [DeItaone] TRUMP: “VERY BIG THINGS” COMING ON IRAN President Trump says he is in “a deciding mode” on Iran, warning that “very big things” could happen in the not-so-distant future. Trump said the options range from further military action to economic…
