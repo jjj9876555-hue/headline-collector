@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 07:43 JST／対象: 09/20 19:43 〜 09/21 07:43 JST（時刻はすべて日本時間）
+生成: 2026-09-21 07:58 JST／対象: 09/20 19:58 〜 09/21 07:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 101 | 09/20 20:15 | 09/21 07:13 | ⚠ 95分（03:25→05:00） |
+| FirstSquawk | 102 | 09/20 20:15 | 09/21 07:56 | ⚠ 95分（03:25→05:00） |
 | financialjuice | 78 | 09/20 20:37 | 09/21 07:12 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 175 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 176 行（統合前 182 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -199,3 +199,4 @@
 - 09/21 07:12 [financialjuice] Direct Drive Tech: number of shares offered in global placement 50 million H shares
 - 09/21 07:12 [financialjuice] Direct drive tech: offer price hk$21.60 per H share for international offering
 - 09/21 07:13 [FirstSquawk] DIRECT DRIVE TECH HAS SET AN OFFER PRICE OF HK$21.60 PER H SHARE FOR ITS GLOBAL OFFERING OF 50 MLN H SHARES, WITH THE NUMBER OF INTERNATIONAL OFFER SHARES AT 47.5 MLN
+- 09/21 07:56 [FirstSquawk] YEMENI FORCES ADVANCING IN TAIZ, REPORTEDLY ENCIRCLING AREA - IRNA

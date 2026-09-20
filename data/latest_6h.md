@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 07:43 JST／対象: 09/21 01:43 〜 09/21 07:43 JST（時刻はすべて日本時間）
+生成: 2026-09-21 07:58 JST／対象: 09/21 01:58 〜 09/21 07:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 34 | 09/21 01:47 | 09/21 07:13 | ⚠ 95分（03:25→05:00） |
+| FirstSquawk | 34 | 09/21 02:12 | 09/21 07:56 | ⚠ 95分（03:25→05:00） |
 | financialjuice | 30 | 09/21 02:22 | 09/21 07:12 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 01:47 [FirstSquawk] Combined Maritime Information Center: The US Navy facilitated 97 transits through the Strait of Hormuz in the past 72 hours.
 - 09/21 02:12 [FirstSquawk] TRUMP TO VISIT MAMDANI IN NEW YORK CITY ON MONDAY — NYT
 - 09/21 02:12 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS THE ELECTION OUTCOME IN MECKLENBURG-WESTERN POMERANIA IS A 'CATASTROPHE', WITH TWO STATE BALLOTS TODAY PRODUCING VASTLY DIFFERENT RESULTS, AS THE CONSERVATIVE CDU POLLS AT 5.1% IN MECKLENBURG-WESTERN POMERANIA…
 - 09/21 02:12 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS 'CHANGE IS NECESSARY' AND THAT 'GERMANY MUST BECOME A LAND OF FRESH STARTS', WARNING THAT CONFIDENCE IN THE COUNTRY'S INSTITUTIONS IS WANING, THAT THE STATE HAS GROWN 'OVERLY COMPLEX' AND THAT 'WE CAN'T RETURN…
@@ -87,3 +86,4 @@
 - 09/21 07:12 [financialjuice] Direct Drive Tech: number of shares offered in global placement 50 million H shares
 - 09/21 07:12 [financialjuice] Direct drive tech: offer price hk$21.60 per H share for international offering
 - 09/21 07:13 [FirstSquawk] DIRECT DRIVE TECH HAS SET AN OFFER PRICE OF HK$21.60 PER H SHARE FOR ITS GLOBAL OFFERING OF 50 MLN H SHARES, WITH THE NUMBER OF INTERNATIONAL OFFER SHARES AT 47.5 MLN
+- 09/21 07:56 [FirstSquawk] YEMENI FORCES ADVANCING IN TAIZ, REPORTEDLY ENCIRCLING AREA - IRNA
