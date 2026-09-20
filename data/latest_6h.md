@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 05:02 JST／対象: 09/20 23:02 〜 09/21 05:02 JST（時刻はすべて日本時間）
+生成: 2026-09-21 05:18 JST／対象: 09/20 23:18 〜 09/21 05:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
 | FirstSquawk | 49 | 09/20 23:23 | 09/21 05:00 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 64 | 09/20 23:15 | 09/21 04:52 | ⚠ 69分（03:38→04:48） |
+| financialjuice | 62 | 09/20 23:39 | 09/21 05:13 | ⚠ 69分（03:38→04:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 115 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 23:15 [financialjuice] Qatar’s prime minister: QIA launches Doha Investment, new unit for domestic investments
-- 09/20 23:15 [financialjuice] Air defences intercept drone near Erbil airport in Iraqi Kurdistan: security sources
-- 09/20 23:17 [financialjuice] Qatar’s prime minister: Qatar anticipates awarding about $38.5 billion in new infrastructure projects over next five years
 - 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We are ready to cooperate with the Nile Basin countries
 - 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We are not against building dams at all, but we are against unilateralism.
 - 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We have some concerns regarding the Nile Basin Cooperative Framework Agreement.
@@ -139,3 +136,4 @@
 - 09/21 04:52 [financialjuice] France to initially summon Iranian ambassador: foreign ministry
 - 09/21 05:00 [FirstSquawk] FRANCE HAS CONDEMNED A DECISION BY IRANIAN AUTHORITIES TO CLOSE ITS LANGUAGE CENTRE IN TEHRAN, CALLING IT 'UNJUSTIFIED AND UNACCEPTABLE', ITS FOREIGN MINISTRY SAYS.
 - 09/21 05:00 [FirstSquawk] FRANCE SAYS IT WILL TAKE APPROPRIATE MEASURES IN RESPONSE, INITIALLY SUMMONING THE IRANIAN AMBASSADOR - FOREIGN MINISTRY
+- 09/21 05:13 [financialjuice] Japan to use industrial machinery for gathering physical AI data: Nikkei
