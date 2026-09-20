@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 06:15 JST／対象: 09/20 18:15 〜 09/21 06:15 JST（時刻はすべて日本時間）
+生成: 2026-09-21 06:31 JST／対象: 09/20 18:31 〜 09/21 06:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 111 | 09/20 18:15 | 09/21 05:41 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 75 | 09/20 18:18 | 09/21 05:13 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 104 | 09/20 18:41 | 09/21 06:21 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 74 | 09/20 18:32 | 09/21 05:13 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 182 行（統合前 188 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 174 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 18:15 [FirstSquawk] AFP": North Korea launches a second unspecified projectile into the Sea of Japan
-- 09/20 18:16 [FirstSquawk] Russians headed to the polls on Sunday for a third and final day of tightly controlled parliamentary elections set to strengthen the Kremlin's grip on power, as the Ukraine war grinds through its fifth year.
-- 09/20 18:16 [FirstSquawk] Iran’s dams were 47% full as of September 19, leaving 53% of their total reservoir capacity empty, state media reported on Sunday.
-- 09/20 18:16 [FirstSquawk] Iran's Security Council Secretary Rezaei: The Israelis blew up the empty tunnels in Lebanon for propaganda and for an election spectacle. They took photographs and videos and said, "Look how strong Netanyahu is."
-- 09/20 18:17 [FirstSquawk] Iran's Security Council Secretary Rezaei: Now Yemeni forces have gone to Bab el-Mandeb, taken control of it and deployed there, and they say this happened at Iran’s instigation.
-- 09/20 18:17 [FirstSquawk] Trump vows to form "AI Force," says he won't allow slowdown of AI development
-- 09/20 18:18 [FirstSquawk] Iran cannot fully control every domestic or international media outlet and should instead strengthen its own narratives to counter “enemy psychological operations,” the interior ministry spokesman said on Sunday.
-- 09/20 18:18 [financialjuice] PTI Punjab spokesman: Aleema Khan, sister of jailed former Pakistan Prime Minister Imran Khan, detained ahead of PTI long march on September 27
-- 09/20 18:18 [FirstSquawk] Iran's Security Council Secretary Rezaei: America and Trump will leave. Everyone knows that the American economy is, in reality, on a path toward collapse. Within the next 10 years, America will not be as it is today.
 - 09/20 18:32 [financialjuice] Japan defense ministry: no confirmation if second missile landed inside Japan's EEZ
 - 09/20 18:41 [FirstSquawk] Zelensky: We targeted facilities in Russia worth billions of dollars that fuel the Russian war machine
 - 09/20 18:41 [FirstSquawk] Qalibaf: We do not want an endless war and to keep Iran hostage to a permanent crisis.
@@ -206,3 +197,4 @@
 - 09/21 05:24 [FirstSquawk] FRIEDRICH MERZ CALLED THE RESULT 'A DISASTER', WITH THE FALLOUT — AFTER A DEFEAT TO THE AFD TWO WEEKS AGO IN SAXONY-ANHALT — PROMPTING CALLS TO PUSH HIM OUT AFTER JUST 16 MONTHS, AS HIS CDU WAS ALSO DEFEATED IN BERLIN BY THE ANTI-CAPITALIST…
 - 09/21 05:27 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI LEFT TEHRAN FOR UN GENERAL ASSEMBLY IN NEW YORK, WITH BRIEF STOP PLANNED IN QATAR - STATE MEDIA
 - 09/21 05:41 [FirstSquawk] ZELENSKY-TRUMP MEETING EXPECTED TUESDAY - AXIOS
+- 09/21 06:21 [FirstSquawk] RUSSIA MOVES TO EXPAND DRONE FACTORY IN TATARSTAN - POLITICO

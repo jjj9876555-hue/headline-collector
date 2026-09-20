@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 06:15 JST／対象: 09/20 06:15 〜 09/21 06:15 JST（時刻はすべて日本時間）
+生成: 2026-09-21 06:31 JST／対象: 09/20 06:31 〜 09/21 06:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 223 | 09/20 09:16 | 09/21 05:41 | ⚠ 95分（03:25→05:00） |
+| FirstSquawk | 224 | 09/20 09:16 | 09/21 06:21 | ⚠ 95分（03:25→05:00） |
 | financialjuice | 81 | 09/20 08:55 | 09/21 05:13 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 300 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 301 行（統合前 307 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -324,3 +324,4 @@
 - 09/21 05:24 [FirstSquawk] FRIEDRICH MERZ CALLED THE RESULT 'A DISASTER', WITH THE FALLOUT — AFTER A DEFEAT TO THE AFD TWO WEEKS AGO IN SAXONY-ANHALT — PROMPTING CALLS TO PUSH HIM OUT AFTER JUST 16 MONTHS, AS HIS CDU WAS ALSO DEFEATED IN BERLIN BY THE ANTI-CAPITALIST…
 - 09/21 05:27 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI LEFT TEHRAN FOR UN GENERAL ASSEMBLY IN NEW YORK, WITH BRIEF STOP PLANNED IN QATAR - STATE MEDIA
 - 09/21 05:41 [FirstSquawk] ZELENSKY-TRUMP MEETING EXPECTED TUESDAY - AXIOS
+- 09/21 06:21 [FirstSquawk] RUSSIA MOVES TO EXPAND DRONE FACTORY IN TATARSTAN - POLITICO
