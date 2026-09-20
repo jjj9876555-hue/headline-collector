@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 15:54 JST／対象: 09/20 09:54 〜 09/20 15:54 JST（時刻はすべて日本時間）
+生成: 2026-09-20 16:15 JST／対象: 09/20 10:15 〜 09/20 16:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 84 | 09/20 10:05 | 09/20 15:34 | 28分（15:04→15:32） |
-| financialjuice | 3 | 09/20 10:00 | 09/20 12:59 | ⚠ 157分（10:21→12:59） |
+| FirstSquawk | 86 | 09/20 10:21 | 09/20 16:14 | 38分（15:34→16:13） |
+| financialjuice | 2 | 09/20 10:21 | 09/20 12:59 | ⚠ 157分（10:21→12:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 87 行（統合前 87 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 88 行（統合前 88 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 10:00 [financialjuice] China sets five-year loan prime rate at 3.50%, unchanged from a month earlier
-- 09/20 10:05 [FirstSquawk] China sees record 3.32 billion rail passenger trips through August, up 3.9%
-- 09/20 10:06 [FirstSquawk] China leaves five-year loan prime rate unchanged at 3.50%
-- 09/20 10:06 [FirstSquawk] Coalition says Houthi attacks targeting civilians in Bish, Taif, Farasan and Yanbu foiled
-- 09/20 10:07 [FirstSquawk] Houthi ballistic missile launched toward Riyadh intercepted, Saudi coalition says
-- 09/20 10:07 [FirstSquawk] Stanley Druckenmiller says AI boom could be creating an ‘earnings bubble’
 - 09/20 10:21 [FirstSquawk] WSJ: Polymarket employees raised concerns as fraudsters exploited the platform
 - 09/20 10:21 [financialjuice] China central bank injects 32 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement
 - 09/20 10:21 [FirstSquawk] Diesel exports plunge as wars disrupt supplies from Persian Gulf, Russia
@@ -111,3 +105,10 @@
 - 09/20 15:33 [FirstSquawk] Iran should fight while also pursuing negotiations rather than treating the two as alternatives, parliament speaker Mohammad-Bagher Ghalibaf said on Sunday.
 - 09/20 15:33 [FirstSquawk] Ghalibaf said Iran had shown over the past seven months that it was not defenseless, describing its approach as a “smart advance” aimed at imposing the Iranian people’s will.
 - 09/20 15:34 [FirstSquawk] Foreign envoys in Taiwan warn rules of game at sea are being challenged
+- 09/20 16:13 [FirstSquawk] Russian election enters final day after major Ukrainian drone attack on Moscow
+- 09/20 16:13 [FirstSquawk] Trump's meeting at Camp David was to deliberate and review Yemen strike options.
+- 09/20 16:13 [FirstSquawk] Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets
+- 09/20 16:13 [FirstSquawk] Record donations secured by Nigel Farage’s insurgent Reform party are under threat from a looming election rules review by the UK watchdog that may cut spending limits
+- 09/20 16:13 [FirstSquawk] Iran is two weeks away from Nuclear Weapon - Bibi Netanyahu at UNGA
+- 09/20 16:14 [FirstSquawk] North Korea fires ballistic missile into sea off east coast
+- 09/20 16:14 [FirstSquawk] South Korean universities offer company-linked degrees that provide financial support and pathways to jobs at Samsung Electronics and SK Hynix years before students graduate.

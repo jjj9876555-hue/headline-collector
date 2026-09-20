@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 15:54 JST／対象: 09/19 15:54 〜 09/20 15:54 JST（時刻はすべて日本時間）
+生成: 2026-09-20 16:15 JST／対象: 09/19 16:15 〜 09/20 16:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 208 | 09/19 16:40 | 09/20 15:34 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 215 | 09/19 16:40 | 09/20 16:14 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 46 | 09/19 16:46 | 09/20 12:59 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 260 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 267 行（統合前 273 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -284,3 +284,10 @@
 - 09/20 15:33 [FirstSquawk] Iran should fight while also pursuing negotiations rather than treating the two as alternatives, parliament speaker Mohammad-Bagher Ghalibaf said on Sunday.
 - 09/20 15:33 [FirstSquawk] Ghalibaf said Iran had shown over the past seven months that it was not defenseless, describing its approach as a “smart advance” aimed at imposing the Iranian people’s will.
 - 09/20 15:34 [FirstSquawk] Foreign envoys in Taiwan warn rules of game at sea are being challenged
+- 09/20 16:13 [FirstSquawk] Russian election enters final day after major Ukrainian drone attack on Moscow
+- 09/20 16:13 [FirstSquawk] Trump's meeting at Camp David was to deliberate and review Yemen strike options.
+- 09/20 16:13 [FirstSquawk] Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets
+- 09/20 16:13 [FirstSquawk] Record donations secured by Nigel Farage’s insurgent Reform party are under threat from a looming election rules review by the UK watchdog that may cut spending limits
+- 09/20 16:13 [FirstSquawk] Iran is two weeks away from Nuclear Weapon - Bibi Netanyahu at UNGA
+- 09/20 16:14 [FirstSquawk] North Korea fires ballistic missile into sea off east coast
+- 09/20 16:14 [FirstSquawk] South Korean universities offer company-linked degrees that provide financial support and pathways to jobs at Samsung Electronics and SK Hynix years before students graduate.
