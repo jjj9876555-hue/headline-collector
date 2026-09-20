@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 09:49 JST／対象: 09/19 09:49 〜 09/20 09:49 JST（時刻はすべて日本時間）
+生成: 2026-09-20 10:00 JST／対象: 09/19 10:00 〜 09/20 10:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 217 | 09/19 09:50 | 09/20 09:43 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 213 | 09/19 10:01 | 09/20 09:53 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 48 | 09/19 10:03 | 09/20 08:55 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 271 行（統合前 277 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 267 行（統合前 273 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 09:50 [FirstSquawk] Vingroup founder Pham Nhat Vuong transfers VinFast, GSM leadership to sons
-- 09/19 09:51 [FirstSquawk] China tightens entry and exit regulations, raising compliance concerns for businesses
-- 09/19 09:52 [FirstSquawk] Resonac, Nitto Denko join TSMC, ASML in U.S. investment focused on AI production bottlenecks
-- 09/19 09:53 [FirstSquawk] Trump says son will repay Russian businessman who funded wedding festivities — SCMP
-- 09/19 09:59 [FirstSquawk] US stocks finish choppy week on muted note as 5% Treasury yield and $100 oil fuel inflation fears - RTRS
 - 09/19 10:01 [FirstSquawk] Trump arch gets FAA approval, with ‘eternal flame’ mandated as pilot warning - RTRS
 - 09/19 10:03 [financialjuice] State Dept: approves possible $2.68 billion foreign military sale to Ukraine for air defense upgrade development
 - 09/19 10:05 [FirstSquawk] State Department clears possible $2.68B military sale to Ukraine for air defense upgrades
@@ -295,3 +290,4 @@
 - 09/20 09:32 [FirstSquawk] Pentagon weighs plan to withdraw tens of thousands of US troops from Europe - RTRS
 - 09/20 09:42 [FirstSquawk] FBI reportedly warns of fake dating profiles targeting ICE agents
 - 09/20 09:43 [FirstSquawk] American dream’ continues to produce millionaires, WSJ reports
+- 09/20 09:53 [FirstSquawk] Trump says historic deal grants US permanent security control over Greenland

@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 09:49 JST／対象: 09/19 21:49 〜 09/20 09:49 JST（時刻はすべて日本時間）
+生成: 2026-09-20 10:00 JST／対象: 09/19 22:00 〜 09/20 10:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 68 | 09/19 22:00 | 09/20 09:43 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 69 | 09/19 22:00 | 09/20 09:53 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 23 | 09/20 00:14 | 09/20 08:55 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 97 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 98 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -121,3 +121,4 @@
 - 09/20 09:32 [FirstSquawk] Pentagon weighs plan to withdraw tens of thousands of US troops from Europe - RTRS
 - 09/20 09:42 [FirstSquawk] FBI reportedly warns of fake dating profiles targeting ICE agents
 - 09/20 09:43 [FirstSquawk] American dream’ continues to produce millionaires, WSJ reports
+- 09/20 09:53 [FirstSquawk] Trump says historic deal grants US permanent security control over Greenland
