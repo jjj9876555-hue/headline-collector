@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 04:50 JST／対象: 09/20 16:50 〜 09/21 04:50 JST（時刻はすべて日本時間）
+生成: 2026-09-21 05:02 JST／対象: 09/20 17:02 〜 09/21 05:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 117 | 09/20 16:51 | 09/21 03:25 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 72 | 09/20 18:18 | 09/21 04:50 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 112 | 09/20 17:35 | 09/21 05:00 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 74 | 09/20 18:18 | 09/21 04:52 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 186 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 183 行（統合前 188 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 16:51 [FirstSquawk] Obama on AI: There’s the big science-fiction risk — these models get smarter than us, and they decide humans are fine, but not necessary. They start setting their own goals and the killer robots, you know, kill us, or we bow down to them.
-- 09/20 16:52 [FirstSquawk] Obama on AI: If we are thinking about AI just in terms of how do we cure cancer or get better energy, you can do that without having agentic AI and having it just roaming free in the internet.
-- 09/20 16:52 [FirstSquawk] Authorities in northern Iran said on Sunday they were investigating an event featuring music and women without mandatory headscarves at a hotel in Nowshahr.
-- 09/20 16:52 [FirstSquawk] Galibaf: strait of Hormuz will stay closed until Tehran's conditions are met
-- 09/20 16:53 [FirstSquawk] State of the Union address, Ursula von der Leyen suggested she wants to see Canada as an associate EU member.
-- 09/20 16:53 [FirstSquawk] Japan prefecture offers free bullet train rides to overseas tourists Kagoshima pilot program seeks to boost local economy by welcoming visitors
-- 09/20 16:53 [FirstSquawk] Obama on Trump's press ban: My imagination could not foresee some of the stuff that’s going on right now. I’m trying to think what would have happened if I had said, "You know what, Fox News, get out of here." It’s unimaginable!
 - 09/20 17:35 [FirstSquawk] NO Strait of Hormuz reopening until all Iran’s conditions are met — Parliament Speaker Ghalibaf 'Our stance is completely clear, rational, and non-negotiable'
 - 09/20 17:35 [FirstSquawk] Japanese supermarket operator Saeki Selva Holdings plans to enter the Vietnamese market, training workers in both countries on everything from the basics to running entire stores.
 - 09/20 17:36 [FirstSquawk] Iranian Judiciary Chief Gholam-Hossein Mohseni-Ejei was unanimously reelected to chair the Expediency Council’s legal and judicial committee for a fifth consecutive year, state media reported on Sunday.
@@ -210,3 +203,7 @@
 - 09/21 03:38 [financialjuice] Sanctions would ban most dealings with ICC after six to seven months grace period: WSJ
 - 09/21 04:48 [financialjuice] France condemns iranian authorities' choice to shut language centre in Tehran: foreign ministry
 - 09/21 04:50 [financialjuice] France's foreign ministry: shutting Tehran language centre is unjustified and unacceptable
+- 09/21 04:51 [financialjuice] France will take appropriate steps after closure of language centre in Tehran: foreign ministry
+- 09/21 04:52 [financialjuice] France to initially summon Iranian ambassador: foreign ministry
+- 09/21 05:00 [FirstSquawk] FRANCE HAS CONDEMNED A DECISION BY IRANIAN AUTHORITIES TO CLOSE ITS LANGUAGE CENTRE IN TEHRAN, CALLING IT 'UNJUSTIFIED AND UNACCEPTABLE', ITS FOREIGN MINISTRY SAYS.
+- 09/21 05:00 [FirstSquawk] FRANCE SAYS IT WILL TAKE APPROPRIATE MEASURES IN RESPONSE, INITIALLY SUMMONING THE IRANIAN AMBASSADOR - FOREIGN MINISTRY

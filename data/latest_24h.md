@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 04:50 JST／対象: 09/20 04:50 〜 09/21 04:50 JST（時刻はすべて日本時間）
+生成: 2026-09-21 05:02 JST／対象: 09/20 05:02 〜 09/21 05:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 216 | 09/20 09:16 | 09/21 03:25 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 78 | 09/20 08:55 | 09/21 04:50 | ⚠ 220分（12:59→16:39） |
+| FirstSquawk | 218 | 09/20 09:16 | 09/21 05:00 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 80 | 09/20 08:55 | 09/21 04:52 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 291 行（統合前 296 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 295 行（統合前 300 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -315,3 +315,7 @@
 - 09/21 03:38 [financialjuice] Sanctions would ban most dealings with ICC after six to seven months grace period: WSJ
 - 09/21 04:48 [financialjuice] France condemns iranian authorities' choice to shut language centre in Tehran: foreign ministry
 - 09/21 04:50 [financialjuice] France's foreign ministry: shutting Tehran language centre is unjustified and unacceptable
+- 09/21 04:51 [financialjuice] France will take appropriate steps after closure of language centre in Tehran: foreign ministry
+- 09/21 04:52 [financialjuice] France to initially summon Iranian ambassador: foreign ministry
+- 09/21 05:00 [FirstSquawk] FRANCE HAS CONDEMNED A DECISION BY IRANIAN AUTHORITIES TO CLOSE ITS LANGUAGE CENTRE IN TEHRAN, CALLING IT 'UNJUSTIFIED AND UNACCEPTABLE', ITS FOREIGN MINISTRY SAYS.
+- 09/21 05:00 [FirstSquawk] FRANCE SAYS IT WILL TAKE APPROPRIATE MEASURES IN RESPONSE, INITIALLY SUMMONING THE IRANIAN AMBASSADOR - FOREIGN MINISTRY
