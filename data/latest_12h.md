@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 20:31 JST／対象: 09/20 08:31 〜 09/20 20:31 JST（時刻はすべて日本時間）
+生成: 2026-09-20 20:42 JST／対象: 09/20 08:42 〜 09/20 20:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 142 | 09/20 09:16 | 09/20 20:16 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 11 | 09/20 08:55 | 09/20 19:32 | ⚠ 220分（12:59→16:39） |
+| FirstSquawk | 149 | 09/20 09:16 | 09/20 20:39 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 14 | 09/20 08:55 | 09/20 20:42 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 153 行（統合前 153 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 163 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -177,3 +177,13 @@
 - 09/20 20:16 [FirstSquawk] Russian Central Election Commission: Voter turnout in Duma elections exceeded 50%
 - 09/20 20:16 [FirstSquawk] Netanyahu, commenting on the shooting attacks in the West Bank: No one is immune from punishment, whether in Gaza, Lebanon, or the West Bank.
 - 09/20 20:16 [FirstSquawk] Netanyahu orders increased military presence in the West Bank, imposing closures, carrying out arrest campaigns, and demolishing the home of the perpetrator.
+- 09/20 20:37 [financialjuice] Trump: at strong request of US military and for national security, agrees to transform triumphal arch into a high-level military complex
+- 09/20 20:38 [FirstSquawk] Israeli Army Radio: The number of battalions deployed in the West Bank and Central Command is 27, the highest since the beginning of the war.
+- 09/20 20:38 [FirstSquawk] Israeli Defense Minister: The army and security forces are on high alert to protect the borders and Israelis everywhere
+- 09/20 20:38 [FirstSquawk] Israeli Channel 14: Reports of an attempted car-ramming attack targeting two Israelis near Silwad, east of Ramallah; driver arrested.
+- 09/20 20:38 [FirstSquawk] Israeli occupation forces stormed a hospital in the Al-Irsal neighborhood of Ramallah after receiving information that a wounded man was inside, believed to be the perpetrator of the Neve Tzuf attack.
+- 09/20 20:38 [FirstSquawk] Yedioth Ahronoth: The perpetrator of the attack in Neve Tzuf, in the central West Bank, has been arrested.
+- 09/20 20:38 [financialjuice] Trump: Military complex to accommodate, store, deploy numerous drones, snipers on roof and plaza, and store large sniper ammo supplies
+- 09/20 20:39 [FirstSquawk] Israeli Channel 12: A force from the Duvdevan unit arrested the perpetrator of the attack in Neve Tzuf in the central West Bank.
+- 09/20 20:39 [FirstSquawk] Israeli occupation forces arrest a wounded young man from a hospital in Ramallah on charges of opening fire in Neve Tzuf, which resulted in the death of a settler.
+- 09/20 20:42 [financialjuice] Trump: I have agreed to transform triumphal arch into a top military complex
