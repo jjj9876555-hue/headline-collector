@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 08:30 JST／対象: 09/20 20:30 〜 09/21 08:30 JST（時刻はすべて日本時間）
+生成: 2026-09-21 08:42 JST／対象: 09/20 20:42 〜 09/21 08:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 94 | 09/20 20:38 | 09/21 07:56 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 78 | 09/20 20:37 | 09/21 07:12 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 89 | 09/20 21:13 | 09/21 08:41 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 75 | 09/20 21:00 | 09/21 07:12 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 168 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 163 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 20:37 [financialjuice/FirstSquawk] Trump: at strong request of US military and for national security, agrees to transform triumphal arch into a high-level military complex
-- 09/20 20:38 [FirstSquawk] Israeli Army Radio: The number of battalions deployed in the West Bank and Central Command is 27, the highest since the beginning of the war.
-- 09/20 20:38 [FirstSquawk] Israeli Defense Minister: The army and security forces are on high alert to protect the borders and Israelis everywhere
-- 09/20 20:38 [FirstSquawk] Israeli Channel 14: Reports of an attempted car-ramming attack targeting two Israelis near Silwad, east of Ramallah; driver arrested.
-- 09/20 20:38 [FirstSquawk] Israeli occupation forces stormed a hospital in the Al-Irsal neighborhood of Ramallah after receiving information that a wounded man was inside, believed to be the perpetrator of the Neve Tzuf attack.
-- 09/20 20:38 [FirstSquawk] Yedioth Ahronoth: The perpetrator of the attack in Neve Tzuf, in the central West Bank, has been arrested.
-- 09/20 20:38 [financialjuice/FirstSquawk] Trump: Military complex to accommodate, store, deploy numerous drones, snipers on roof and plaza, and store large sniper ammo supplies
-- 09/20 20:39 [FirstSquawk] Israeli Channel 12: A force from the Duvdevan unit arrested the perpetrator of the attack in Neve Tzuf in the central West Bank.
-- 09/20 20:39 [FirstSquawk] Israeli occupation forces arrest a wounded young man from a hospital in Ramallah on charges of opening fire in Neve Tzuf, which resulted in the death of a settler.
-- 09/20 20:42 [financialjuice/FirstSquawk] Trump: I have agreed to transform triumphal arch into a top military complex
 - 09/20 21:00 [financialjuice/FirstSquawk] Iran shuts down unauthorized center linked to French embassy: Tasnim
 - 09/20 21:07 [financialjuice/FirstSquawk] Moscow’s remote voting system and voter list face large-scale hacking attacks: voting services operating normally, city election official says
 - 09/20 21:13 [FirstSquawk] Ukraine hits Moscow with ‘largest ever’ drone attack - FT
@@ -51,6 +41,9 @@
 - 09/20 22:31 [FirstSquawk] Fox News, citing a Russian document: The document outlines plans for nuclear cooperation and Iranian manufacturing of components for Russian aircraft.
 - 09/20 22:41 [FirstSquawk] Syrian TV: Israeli occupation forces are shelling the southeastern part of the town of Al-Rafid in the southern Quneitra countryside.
 - 09/20 22:41 [FirstSquawk] Trump to Fox News: I'm in a decision-making position and very big things will happen in the near future.
+- 09/20 22:42 [FirstSquawk] Trump: at strong request of US military and for national security, agrees to transform triumphal arch into a high-level military complex
+- 09/20 22:42 [FirstSquawk] Trump: Military complex to accommodate, store, deploy numerous drones, snipers on roof and plaza, and store large sniper ammo supplies
+- 09/20 22:42 [FirstSquawk] Trump: I have agreed to transform triumphal arch into a top military complex
 - 09/20 23:15 [financialjuice] Qatar’s prime minister: QIA launches Doha Investment, new unit for domestic investments
 - 09/20 23:15 [financialjuice] Air defences intercept drone near Erbil airport in Iraqi Kurdistan: security sources
 - 09/20 23:17 [financialjuice] Qatar’s prime minister: Qatar anticipates awarding about $38.5 billion in new infrastructure projects over next five years
@@ -192,3 +185,5 @@
 - 09/21 07:12 [financialjuice] Direct drive tech: offer price hk$21.60 per H share for international offering
 - 09/21 07:13 [FirstSquawk] DIRECT DRIVE TECH HAS SET AN OFFER PRICE OF HK$21.60 PER H SHARE FOR ITS GLOBAL OFFERING OF 50 MLN H SHARES, WITH THE NUMBER OF INTERNATIONAL OFFER SHARES AT 47.5 MLN
 - 09/21 07:56 [FirstSquawk] YEMENI FORCES ADVANCING IN TAIZ, REPORTEDLY ENCIRCLING AREA - IRNA
+- 09/21 08:41 [FirstSquawk] JAPAN PM TAKAICHI CABINET APPROVAL UNCHANGED AT 62% - NIKKEI POLL
+- 09/21 08:41 [FirstSquawk] CHINA TRADE ENVOY LI CHENGGANG SAYS US-CHINA TRADE TALKS WERE “NOT BAD”; BOTH SIDES DISCUSSED TRADE, INVESTMENT & AI

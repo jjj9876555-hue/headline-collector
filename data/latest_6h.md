@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 08:30 JST／対象: 09/21 02:30 〜 09/21 08:30 JST（時刻はすべて日本時間）
+生成: 2026-09-21 08:42 JST／対象: 09/21 02:42 〜 09/21 08:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 28 | 09/21 02:38 | 09/21 07:56 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 27 | 09/21 02:31 | 09/21 07:12 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 28 | 09/21 03:02 | 09/21 08:41 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 25 | 09/21 03:01 | 09/21 07:12 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 54 行（統合前 55 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 52 行（統合前 53 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 02:31 [financialjuice] Canadian Prime Minister Carney urges stronger ties with France amid rising global threats
-- 09/21 02:32 [financialjuice] France, Canada task space agencies, defense ministries to jointly develop space launch systems, ground reception facilities: Carney
-- 09/21 02:38 [FirstSquawk] FRANCE'S PRESIDENT MACRON SAYS FRANCE BACKS CLOSER TIES BETWEEN THE EU AND CANADA AND ASSOCIATE MEMBERSHIP FOR CANADA, HAVING AGREED WITH CANADA'S CARNEY TO STRENGTHEN TIES IN THE ENERGY, SPACE AND CLIMATE SECTORS.
-- 09/21 02:38 [FirstSquawk] FRANCE'S PRESIDENT MACRON SAYS MACRON SAYS CANADIAN LNG CAN BE KEY FOR EUROPEAN ENERGY, INITIATING BILATERAL TALKS ON THE MATTER. FRANCE'S PRESIDENT MACRON SAYS
 - 09/21 03:01 [financialjuice] Ruling United Russia projected to take 49.4% in Russia's parliamentary election: IFX cites exit poll
 - 09/21 03:01 [financialjuice] Communist Party projected to secure 14.2% in Russia parliamentary election: Ifx cites exit poll
 - 09/21 03:01 [financialjuice] Liberal Democratic party of Russia projected to take 10.7% in parliamentary election: ifx cites exit poll
@@ -78,3 +74,5 @@
 - 09/21 07:12 [financialjuice] Direct drive tech: offer price hk$21.60 per H share for international offering
 - 09/21 07:13 [FirstSquawk] DIRECT DRIVE TECH HAS SET AN OFFER PRICE OF HK$21.60 PER H SHARE FOR ITS GLOBAL OFFERING OF 50 MLN H SHARES, WITH THE NUMBER OF INTERNATIONAL OFFER SHARES AT 47.5 MLN
 - 09/21 07:56 [FirstSquawk] YEMENI FORCES ADVANCING IN TAIZ, REPORTEDLY ENCIRCLING AREA - IRNA
+- 09/21 08:41 [FirstSquawk] JAPAN PM TAKAICHI CABINET APPROVAL UNCHANGED AT 62% - NIKKEI POLL
+- 09/21 08:41 [FirstSquawk] CHINA TRADE ENVOY LI CHENGGANG SAYS US-CHINA TRADE TALKS WERE “NOT BAD”; BOTH SIDES DISCUSSED TRADE, INVESTMENT & AI
