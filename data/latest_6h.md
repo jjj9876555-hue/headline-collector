@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 07:16 JST／対象: 09/21 01:16 〜 09/21 07:16 JST（時刻はすべて日本時間）
+生成: 2026-09-21 07:31 JST／対象: 09/21 01:31 〜 09/21 07:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 35 | 09/21 01:41 | 09/21 07:13 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 41 | 09/21 01:16 | 09/21 07:12 | ⚠ 114分（05:13→07:07） |
+| financialjuice | 30 | 09/21 02:22 | 09/21 07:12 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 75 行（統合前 76 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 64 行（統合前 65 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 01:16 [financialjuice] Germany's Chancellor Merz: two state ballots today with vastly different results
-- 09/21 01:16 [financialjuice] Germany's Chancellor Merz: election outcome in Mecklenburg-Western Pomerania is catastrophe
-- 09/21 01:17 [financialjuice] Germany's Chancellor Merz: state has grown overly complex
-- 09/21 01:17 [financialjuice] Germany’s Chancellor Merz: confidence in country’s institutions is waning
-- 09/21 01:18 [financialjuice] Germany’s Chancellor Merz: we can’t return to the “good old times”
-- 09/21 01:18 [financialjuice] Germany's Chancellor Merz: Germany must become a land of fresh starts
-- 09/21 01:18 [financialjuice] Germany's Chancellor Merz: change is necessary
-- 09/21 01:19 [financialjuice] Germany's Chancellor Merz: shifts pose challenges and fresh uncertainties
-- 09/21 01:19 [financialjuice] Germany's Chancellor Merz: I take responsibility as I want to advance the country
-- 09/21 01:20 [financialjuice] Germany's Chancellor Merz: need determination, perseverance and patience; prepared to lead as party head, chancellor
-- 09/21 01:29 [financialjuice] Germany's conservative CDU party polls at 5.1% in Mecklenburg-Western Pomerania election, ZDF reports citing partial results
 - 09/21 01:41 [FirstSquawk] German Chancellor acknowledges a "disaster" for his party following the far-right's gains in local elections.
 - 09/21 01:47 [FirstSquawk] Combined Maritime Information Center: The US Navy facilitated 97 transits through the Strait of Hormuz in the past 72 hours.
 - 09/21 02:12 [FirstSquawk] TRUMP TO VISIT MAMDANI IN NEW YORK CITY ON MONDAY — NYT
