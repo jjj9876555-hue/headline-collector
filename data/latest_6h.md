@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 10:44 JST／対象: 09/20 04:44 〜 09/20 10:44 JST（時刻はすべて日本時間）
+生成: 2026-09-20 10:58 JST／対象: 09/20 04:58 〜 09/20 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 19 | 09/20 09:16 | 09/20 10:37 | 13分（10:07→10:21） |
+| FirstSquawk | 28 | 09/20 09:16 | 09/20 10:58 | 13分（10:07→10:21） |
 | financialjuice | 3 | 09/20 08:55 | 09/20 10:21 | ⚠ 65分（08:55→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 22 行（統合前 22 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 31 行（統合前 31 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -46,3 +46,12 @@
 - 09/20 10:35 [FirstSquawk] Trump announces ‘AI Force,’ plans to name AI czar soon
 - 09/20 10:36 [FirstSquawk] Venezuela, TotalEnergies sign memorandum as oil sector seeks revival - RTRS
 - 09/20 10:37 [FirstSquawk] China central bank keeps 7-day reverse repo rate at 1.40%, injects 32 billion yuan
+- 09/20 10:49 [FirstSquawk] Bessent, Greer to meet China’s He Lifeng at JPMorgan HQ in New York
+- 09/20 10:54 [FirstSquawk] China holds 1-year LPR steady at 3.00%, no change from August
+- 09/20 10:55 [FirstSquawk] U.S. military strikes vessel in Caribbean over alleged narco-trafficking; four killed
+- 09/20 10:56 [FirstSquawk] Turkish foreign minister: “Creative ideas” being explored with U.S. to resolve S-400 issue
+- 09/20 10:57 [FirstSquawk] Turkish foreign minister: Turkey has offered Ukraine, Russia a plan to end Black Sea fighting
+- 09/20 10:57 [FirstSquawk] Turkish foreign minister: There are initiatives to end Ukraine-Russia war, but durable solution remains difficult
+- 09/20 10:58 [FirstSquawk] Turkish foreign minister: Middle East crisis has become economically unsustainable
+- 09/20 10:58 [FirstSquawk] Turkish foreign minister: Proposals sent to all sides seeking to end Saudi-Houthi conflict
+- 09/20 10:58 [FirstSquawk] Turkish foreign minister: Saudi Arabia does not want to be drawn into U.S.-Iran conflict

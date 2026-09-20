@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 10:44 JST／対象: 09/19 22:44 〜 09/20 10:44 JST（時刻はすべて日本時間）
+生成: 2026-09-20 10:58 JST／対象: 09/19 22:58 〜 09/20 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 57 | 09/19 22:48 | 09/20 10:37 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 61 | 09/19 23:13 | 09/20 10:58 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 25 | 09/20 00:14 | 09/20 10:21 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 88 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 92 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 22:48 [FirstSquawk] Saudi Arabia activated the air alert in Riyadh following explosions and fires near King Khalid Airport. The attack, attributed to Houthi rebels after their advance in Yemen, disrupted air traffic in the capital.
-- 09/19 22:49 [FirstSquawk] U.S. Dollar has lost 30% of its purchasing power over the last six years
-- 09/19 22:50 [FirstSquawk] France is running out of fuel. 11% of France's stations nationwide are now out of petrol or diesel, one in nine, with 16% of stations short in Grand Est, 15% in Pays de la Loire, 14% in Occitanie, and 13% in Centre-Val de Loire, per governm…
-- 09/19 22:50 [FirstSquawk] official count only registers a station as short if it has no petrol at all or no diesel at all, so a station out of one grade but holding another is not counted, meaning the real shortage is much larger. French diesel averages €2.406 a lit…
-- 09/19 22:50 [FirstSquawk] Europe is facing its worst energy crisis in history.
 - 09/19 23:13 [FirstSquawk] Lebanese News Agency: Artillery shelling targets Wadi Zabqin and the Israeli army burns more houses in the town of Mansouri in southern Lebanon
 - 09/19 23:13 [FirstSquawk] Lebanese News Agency: Two Israeli bombings in the towns of Compound and Taloussa in southern Lebanon
 - 09/19 23:13 [FirstSquawk] Lebanese News Agency: Artillery shelling targets Wadi Zabqin in southern Lebanon
@@ -112,3 +107,12 @@
 - 09/20 10:35 [FirstSquawk] Trump announces ‘AI Force,’ plans to name AI czar soon
 - 09/20 10:36 [FirstSquawk] Venezuela, TotalEnergies sign memorandum as oil sector seeks revival - RTRS
 - 09/20 10:37 [FirstSquawk] China central bank keeps 7-day reverse repo rate at 1.40%, injects 32 billion yuan
+- 09/20 10:49 [FirstSquawk] Bessent, Greer to meet China’s He Lifeng at JPMorgan HQ in New York
+- 09/20 10:54 [FirstSquawk] China holds 1-year LPR steady at 3.00%, no change from August
+- 09/20 10:55 [FirstSquawk] U.S. military strikes vessel in Caribbean over alleged narco-trafficking; four killed
+- 09/20 10:56 [FirstSquawk] Turkish foreign minister: “Creative ideas” being explored with U.S. to resolve S-400 issue
+- 09/20 10:57 [FirstSquawk] Turkish foreign minister: Turkey has offered Ukraine, Russia a plan to end Black Sea fighting
+- 09/20 10:57 [FirstSquawk] Turkish foreign minister: There are initiatives to end Ukraine-Russia war, but durable solution remains difficult
+- 09/20 10:58 [FirstSquawk] Turkish foreign minister: Middle East crisis has become economically unsustainable
+- 09/20 10:58 [FirstSquawk] Turkish foreign minister: Proposals sent to all sides seeking to end Saudi-Houthi conflict
+- 09/20 10:58 [FirstSquawk] Turkish foreign minister: Saudi Arabia does not want to be drawn into U.S.-Iran conflict
