@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 23:58 JST／対象: 09/19 23:58 〜 09/20 23:58 JST（時刻はすべて日本時間）
+生成: 2026-09-21 00:16 JST／対象: 09/20 00:16 〜 09/21 00:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 13 | 09/20 00:34 | 09/20 23:43 | ⚠ 1181分（03:47→23:29） |
-| FirstSquawk | 219 | 09/20 00:20 | 09/20 23:56 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 54 | 09/20 00:14 | 09/20 23:58 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 223 | 09/20 00:20 | 09/21 00:00 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 59 | 09/20 00:27 | 09/21 00:07 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 275 行（統合前 286 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 284 行（統合前 295 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 00:14 [financialjuice] German General Breuer chosen to lead NATO's top military committee: current chair says
 - 09/20 00:20 [FirstSquawk] GERMAN GENERAL BREUER HAS BEEN CHOSEN TO LEAD NATO'S LEADING MILITARY BODY, CURRENT CHAIR ANNOUNCES.
 - 09/20 00:20 [FirstSquawk] TOTALENERGIES' GRANMORGU OFFSHORE PROJECT IN SURINAME IS SET TO START PRODUCING IN MID-2028, ACCORDING TO THE HEAD OF STAATSOLIE.
 - 09/20 00:24 [FirstSquawk] Hormuz Oil Shipments Reach Six-Month High Amid US Naval Security Efforts Oil and liquefied natural gas shipments through the Strait of Hormuz have reached their highest level in six months over the past two weeks, according to regional US c…
@@ -299,3 +298,13 @@
 - 09/20 23:55 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Our financial system continued to function and our companies continued their operations despite what happened.
 - 09/20 23:56 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Energy is the source of our strength, diversification is the source of our resilience, and technology is our future
 - 09/20 23:58 [financialjuice] QatarEnergy CEO: QatarEnergy is producing a very small amount of LNG
+- 09/20 23:59 [financialjuice] QatarEnergy CEO: Qatar can restart regular gas operations within weeks once Hormuz reopens
+- 09/20 23:59 [FirstSquawk] Qatari Prime Minister and Foreign Minister: We call on the Israeli government to fulfill its obligations regarding Gaza.
+- 09/21 00:00 [FirstSquawk] Qatari Prime Minister and Foreign Minister: What Qatar is doing and seeking is to facilitate peace talks and mediate between the parties.
+- 09/21 00:00 [FirstSquawk] Qatari Prime Minister and Foreign Minister: What we are doing and also striving for is to keep communication channels open, an approach that has proven effective.
+- 09/21 00:00 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Israel is acting recklessly and is not abiding by its commitments; it is very clear that the commitments have not been fulfilled.
+- 09/21 00:00 [financialjuice] QatarEnergy CEO: Second and third units of Golden Pass LNG project to start operations in 2027
+- 09/21 00:03 [financialjuice] QatarEnergy CEO: Some LNG trains of NFE expansion to begin in 2027, NFS expansion to start production in 2028
+- 09/21 00:03 [financialjuice] QatarEnergy CEO: company seriously considering entry into Venezuela market with partners
+- 09/21 00:06 [financialjuice] QatarEnergy CEO: Qatari LNG volumes are so large buyers will find QatarEnergy hard to overlook once Hormuz crisis ends
+- 09/21 00:07 [financialjuice] QatarEnergy: key equipment blocked by Hormuz crisis could postpone some expansion projects

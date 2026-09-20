@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 23:58 JST／対象: 09/20 17:58 〜 09/20 23:58 JST（時刻はすべて日本時間）
+生成: 2026-09-21 00:16 JST／対象: 09/20 18:16 〜 09/21 00:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 80 | 09/20 18:15 | 09/20 23:56 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 26 | 09/20 18:18 | 09/20 23:58 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 82 | 09/20 18:16 | 09/21 00:00 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 32 | 09/20 18:18 | 09/21 00:07 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 103 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 111 行（統合前 116 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 18:15 [FirstSquawk] AFP": North Korea launches a second unspecified projectile into the Sea of Japan
-- 09/20 18:16 [FirstSquawk] Russians headed to the polls on Sunday for a third and final day of tightly controlled parliamentary elections set to strengthen the Kremlin's grip on power, as the Ukraine war grinds through its fifth year.
 - 09/20 18:16 [FirstSquawk] Iran’s dams were 47% full as of September 19, leaving 53% of their total reservoir capacity empty, state media reported on Sunday.
 - 09/20 18:16 [FirstSquawk] Iran's Security Council Secretary Rezaei: The Israelis blew up the empty tunnels in Lebanon for propaganda and for an election spectacle. They took photographs and videos and said, "Look how strong Netanyahu is."
 - 09/20 18:17 [FirstSquawk] Iran's Security Council Secretary Rezaei: Now Yemeni forces have gone to Bab el-Mandeb, taken control of it and deployed there, and they say this happened at Iran’s instigation.
@@ -127,3 +125,13 @@
 - 09/20 23:55 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Our financial system continued to function and our companies continued their operations despite what happened.
 - 09/20 23:56 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Energy is the source of our strength, diversification is the source of our resilience, and technology is our future
 - 09/20 23:58 [financialjuice] QatarEnergy CEO: QatarEnergy is producing a very small amount of LNG
+- 09/20 23:59 [financialjuice] QatarEnergy CEO: Qatar can restart regular gas operations within weeks once Hormuz reopens
+- 09/20 23:59 [FirstSquawk] Qatari Prime Minister and Foreign Minister: We call on the Israeli government to fulfill its obligations regarding Gaza.
+- 09/21 00:00 [FirstSquawk] Qatari Prime Minister and Foreign Minister: What Qatar is doing and seeking is to facilitate peace talks and mediate between the parties.
+- 09/21 00:00 [FirstSquawk] Qatari Prime Minister and Foreign Minister: What we are doing and also striving for is to keep communication channels open, an approach that has proven effective.
+- 09/21 00:00 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Israel is acting recklessly and is not abiding by its commitments; it is very clear that the commitments have not been fulfilled.
+- 09/21 00:00 [financialjuice] QatarEnergy CEO: Second and third units of Golden Pass LNG project to start operations in 2027
+- 09/21 00:03 [financialjuice] QatarEnergy CEO: Some LNG trains of NFE expansion to begin in 2027, NFS expansion to start production in 2028
+- 09/21 00:03 [financialjuice] QatarEnergy CEO: company seriously considering entry into Venezuela market with partners
+- 09/21 00:06 [financialjuice] QatarEnergy CEO: Qatari LNG volumes are so large buyers will find QatarEnergy hard to overlook once Hormuz crisis ends
+- 09/21 00:07 [financialjuice] QatarEnergy: key equipment blocked by Hormuz crisis could postpone some expansion projects

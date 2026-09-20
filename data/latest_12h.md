@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 23:58 JST／対象: 09/20 11:58 〜 09/20 23:58 JST（時刻はすべて日本時間）
+生成: 2026-09-21 00:16 JST／対象: 09/20 12:16 〜 09/21 00:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 136 | 09/20 12:09 | 09/20 23:56 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 29 | 09/20 12:59 | 09/20 23:58 | ⚠ 220分（12:59→16:39） |
+| FirstSquawk | 139 | 09/20 12:23 | 09/21 00:00 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 35 | 09/20 12:59 | 09/21 00:07 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 162 行（統合前 167 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 171 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 12:09 [FirstSquawk] BOJ steps up rate hikes, while path for further tightening remains unclear - KYODO
 - 09/20 12:23 [FirstSquawk] Iran faces deeper medicine shortages as war disrupts shipping
 - 09/20 12:34 [FirstSquawk] South Korea records 0.9% decline in greenhouse gas emissions last year – Yonhap
 - 09/20 12:47 [FirstSquawk] South Korea’s internet-only banks see small-business lending rise more than 50% in H1 as household lending rules tighten - YONHAP
@@ -186,3 +185,13 @@
 - 09/20 23:55 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Our financial system continued to function and our companies continued their operations despite what happened.
 - 09/20 23:56 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Energy is the source of our strength, diversification is the source of our resilience, and technology is our future
 - 09/20 23:58 [financialjuice] QatarEnergy CEO: QatarEnergy is producing a very small amount of LNG
+- 09/20 23:59 [financialjuice] QatarEnergy CEO: Qatar can restart regular gas operations within weeks once Hormuz reopens
+- 09/20 23:59 [FirstSquawk] Qatari Prime Minister and Foreign Minister: We call on the Israeli government to fulfill its obligations regarding Gaza.
+- 09/21 00:00 [FirstSquawk] Qatari Prime Minister and Foreign Minister: What Qatar is doing and seeking is to facilitate peace talks and mediate between the parties.
+- 09/21 00:00 [FirstSquawk] Qatari Prime Minister and Foreign Minister: What we are doing and also striving for is to keep communication channels open, an approach that has proven effective.
+- 09/21 00:00 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Israel is acting recklessly and is not abiding by its commitments; it is very clear that the commitments have not been fulfilled.
+- 09/21 00:00 [financialjuice] QatarEnergy CEO: Second and third units of Golden Pass LNG project to start operations in 2027
+- 09/21 00:03 [financialjuice] QatarEnergy CEO: Some LNG trains of NFE expansion to begin in 2027, NFS expansion to start production in 2028
+- 09/21 00:03 [financialjuice] QatarEnergy CEO: company seriously considering entry into Venezuela market with partners
+- 09/21 00:06 [financialjuice] QatarEnergy CEO: Qatari LNG volumes are so large buyers will find QatarEnergy hard to overlook once Hormuz crisis ends
+- 09/21 00:07 [financialjuice] QatarEnergy: key equipment blocked by Hormuz crisis could postpone some expansion projects
