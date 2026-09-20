@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 06:59 JST／対象: 09/20 18:59 〜 09/21 06:59 JST（時刻はすべて日本時間）
+生成: 2026-09-21 07:16 JST／対象: 09/20 19:16 〜 09/21 07:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 97 | 09/20 19:14 | 09/21 06:32 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 73 | 09/20 19:31 | 09/21 05:13 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 101 | 09/20 20:15 | 09/21 07:13 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 81 | 09/20 19:31 | 09/21 07:12 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 166 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 178 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 19:14 [FirstSquawk] Israeli army: Chief of Staff holds security assessment meeting following shooting attack in Neve Tzuf, central West Bank
-- 09/20 19:14 [FirstSquawk] Israeli army: Chief of Staff orders troop reinforcement after shooting attack in Neve Tzuf, central West Bank
-- 09/20 19:14 [FirstSquawk] Israeli Broadcasting Authority: An Israeli was killed in a shooting attack near the settlement of Neve Tzuf in the central West Bank.
-- 09/20 19:15 [FirstSquawk] Israeli Army Radio: The manhunt continues for the perpetrator of the shooting attack near the settlement of Neve Tzuf in the West Bank.
-- 09/20 19:15 [FirstSquawk] Israeli Army Radio: One person killed and another arrested in a car attack near the settlement of Ganim.
 - 09/20 19:31 [financialjuice] Iran's military central command warns of US plans to attack Iran with approval from regional countries: state media
 - 09/20 19:31 [financialjuice] Iran's military central command: regional countries involved in any US attack on Iran shouldn’t expect restraint from Iran’s armed forces - state media
 - 09/20 19:32 [financialjuice] Iran’s central military command: any US strike will prompt unlimited Iranian retaliation on US bases and interests - state media
@@ -190,3 +185,20 @@
 - 09/21 06:21 [FirstSquawk] RUSSIA MOVES TO EXPAND DRONE FACTORY IN TATARSTAN - POLITICO
 - 09/21 06:32 [FirstSquawk] TRUMP IS INCREASINGLY FRUSTRATED BY POLITICAL AND LEGAL SETBACKS AND BELIEVES TOO FEW ALLIES ARE PUBLICLY DEFENDING HIS SECOND-TERM RECORD, HAVING ALSO COMPLAINED THAT PROMINENT FIGURES HAVE NOT THANKED HIM FOR HIS ATTEMPTED OVERHAUL OF THE…
 - 09/21 06:32 [FirstSquawk] TRUMP IS ALSO FACING FALLING APPROVAL RATINGS, CONCERNS ABOUT REPUBLICAN PERFORMANCE IN THE MIDTERMS AND VOTER FRUSTRATION OVER THE IRAN WAR AND HIGHER ENERGY PRICES, WITH HIS ADMINISTRATION SEARCHING FOR FOREIGN-POLICY WINS TO TOUT AHEAD O…
+- 09/21 07:00 [FirstSquawk] PARAMOUNT SETTLEMENT FACES RESISTANCE FROM CONNECTICUT & AT LEAST TWO OTHER STATES; NY AG JAMES SEEKS ADDITIONAL WORKER PROTECTIONS — CNN
+- 09/21 07:00 [FirstSquawk] AUSTRALIAN TREASURER JIM CHALMERS WARNS THAT AN AGING AND SLOWER-GROWING POPULATION POSES “SERIOUS RISKS” TO THE ECONOMY AND WILL INCREASE PRESSURE ON GOVERNMENT FINANCES.
+- 09/21 07:00 [FirstSquawk] CHALMERS SAYS DEMOGRAPHIC CHANGES WILL CREATE LONG-TERM FISCAL CHALLENGES FOR AUSTRALIA AS POPULATION GROWTH SLOWS AND THE SHARE OF OLDER PEOPLE RISES. SOURCE
+- 09/21 07:03 [FirstSquawk] BRENT CRUDE FUTURES RISE 1% AFTER HOUTHI ATTACK ON SAUDI CAPITAL, FUELING SUPPLY DISRUPTION CONCERNS
+- 09/21 07:04 [FirstSquawk] FRANCE'S FOREIGN MINISTRY SAYS IT CONDEMNS IRAN'S DECISION TO CLOSE THE FRENCH LANGUAGE CENTRE IN TEHRAN, CALLING THE CLOSURE 'UNJUSTIFIED AND UNACCEPTABLE' AND SAYING FRANCE WILL TAKE APPROPRIATE MEASURES IN RESPONSE, INITIALLY SUMMONING T…
+- 09/21 07:07 [financialjuice] Red Avenue New Materials Group: highest bid price in global offering HK$44.00 per H share
+- 09/21 07:07 [financialjuice] Red Avenue New Materials Group: global offering includes 61.3 million H shares in international sale
+- 09/21 07:08 [financialjuice] Robotechnik intelligent technology sets maximum offer price at HK$436 per H share under global offering
+- 09/21 07:08 [financialjuice] Robotechnik intelligent technology: 10.7 mln H shares in international portion of global offering
+- 09/21 07:09 [financialjuice] Shenzhen Kinwong Electronic: maximum bid price HK$69.88 per H share for global offering
+- 09/21 07:10 [FirstSquawk] SHENZHEN KINWONG ELECTRONIC HAS SET A MAXIMUM OFFER PRICE OF HK$69.88 PER H SHARE FOR ITS GLOBAL OFFERING OF 72.9 MLN H SHARES, WITH THE NUMBER OF INTERNATIONAL OFFER SHARES AT 65.6 MLN
+- 09/21 07:10 [financialjuice] Shenzhen Kinwong Electronic announces 65.6 million international H-share offer
+- 09/21 07:10 [FirstSquawk] ROBOTECHNIK INTELLIGENT TECHNOLOGY HAS SET A MAXIMUM OFFER PRICE OF HK$436.00 PER H SHARE FOR ITS GLOBAL OFFERING OF 11.9 MLN H SHARES, WITH THE NUMBER OF INTERNATIONAL OFFER SHARES AT 10.7 MLN
+- 09/21 07:10 [FirstSquawk] RED AVENUE NEW MATERIALS GROUP HAS SET A MAXIMUM OFFER PRICE OF HK$44.00 PER H SHARE FOR ITS GLOBAL OFFERING OF 68.1 MLN H SHARES, WITH THE NUMBER OF INTERNATIONAL OFFER SHARES AT 61.3 MLN
+- 09/21 07:12 [financialjuice] Direct Drive Tech: number of shares offered in global placement 50 million H shares
+- 09/21 07:12 [financialjuice] Direct drive tech: offer price hk$21.60 per H share for international offering
+- 09/21 07:13 [FirstSquawk] DIRECT DRIVE TECH HAS SET AN OFFER PRICE OF HK$21.60 PER H SHARE FOR ITS GLOBAL OFFERING OF 50 MLN H SHARES, WITH THE NUMBER OF INTERNATIONAL OFFER SHARES AT 47.5 MLN
