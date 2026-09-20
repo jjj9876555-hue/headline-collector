@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 11:46 JST／対象: 09/20 05:46 〜 09/20 11:46 JST（時刻はすべて日本時間）
+生成: 2026-09-20 11:58 JST／対象: 09/20 05:58 〜 09/20 11:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 53 | 09/20 09:16 | 09/20 11:41 | 13分（10:07→10:21） |
+| FirstSquawk | 56 | 09/20 09:16 | 09/20 11:56 | 13分（10:07→10:21） |
 | financialjuice | 3 | 09/20 08:55 | 09/20 10:21 | ⚠ 65分（08:55→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 56 行（統合前 56 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 59 行（統合前 59 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -80,3 +80,6 @@
 - 09/20 11:39 [FirstSquawk] 4. France targets narrower budget deficit of 5.0% of GDP in 2027, down from 5.4% in 2026
 - 09/20 11:39 [FirstSquawk] France targets narrower budget deficit of 5.0% of GDP in 2027, down from 5.4% in 2026
 - 09/20 11:41 [FirstSquawk] Kapotnya Oil Refinery in Moscow reportedly targeted in Ukrainian strike - WSN
+- 09/20 11:46 [FirstSquawk] Malaysia’s DAP sec-gen says his offer to resign from cabinet reflects the party’s stance
+- 09/20 11:49 [FirstSquawk] WSJ: Polymarket’s expansion exposed gaps that enabled fraudulent activity
+- 09/20 11:56 [FirstSquawk] China’s booming cosmetics market sees rise of homegrown brands – Kyodo

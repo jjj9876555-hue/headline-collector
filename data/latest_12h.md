@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 11:46 JST／対象: 09/19 23:46 〜 09/20 11:46 JST（時刻はすべて日本時間）
+生成: 2026-09-20 11:58 JST／対象: 09/19 23:58 〜 09/20 11:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 11 | 09/20 00:34 | 09/20 03:47 | ⚠ 74分（02:18→03:32） |
-| FirstSquawk | 81 | 09/19 23:54 | 09/20 11:41 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 83 | 09/20 00:20 | 09/20 11:56 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 25 | 09/20 00:14 | 09/20 10:21 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 23:54 [FirstSquawk] Lebanese media: Israeli artillery shelling targets the outskirts of the towns of Yahmor al-Shaqif and Zawtar al-Sharqiyah in southern Lebanon
 - 09/20 00:14 [financialjuice] German General Breuer chosen to lead NATO's top military committee: current chair says
 - 09/20 00:20 [FirstSquawk] GERMAN GENERAL BREUER HAS BEEN CHOSEN TO LEAD NATO'S LEADING MILITARY BODY, CURRENT CHAIR ANNOUNCES.
 - 09/20 00:20 [FirstSquawk] TOTALENERGIES' GRANMORGU OFFSHORE PROJECT IN SURINAME IS SET TO START PRODUCING IN MID-2028, ACCORDING TO THE HEAD OF STAATSOLIE.
@@ -135,3 +134,6 @@
 - 09/20 11:39 [FirstSquawk] 4. France targets narrower budget deficit of 5.0% of GDP in 2027, down from 5.4% in 2026
 - 09/20 11:39 [FirstSquawk] France targets narrower budget deficit of 5.0% of GDP in 2027, down from 5.4% in 2026
 - 09/20 11:41 [FirstSquawk] Kapotnya Oil Refinery in Moscow reportedly targeted in Ukrainian strike - WSN
+- 09/20 11:46 [FirstSquawk] Malaysia’s DAP sec-gen says his offer to resign from cabinet reflects the party’s stance
+- 09/20 11:49 [FirstSquawk] WSJ: Polymarket’s expansion exposed gaps that enabled fraudulent activity
+- 09/20 11:56 [FirstSquawk] China’s booming cosmetics market sees rise of homegrown brands – Kyodo
