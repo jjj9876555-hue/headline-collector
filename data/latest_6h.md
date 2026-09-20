@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 19:32 JST／対象: 09/20 13:32 〜 09/20 19:32 JST（時刻はすべて日本時間）
+生成: 2026-09-20 19:44 JST／対象: 09/20 13:44 〜 09/20 19:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 69 | 09/20 13:40 | 09/20 19:15 | 41分（16:53→17:35） |
-| financialjuice | 6 | 09/20 16:39 | 09/20 19:31 | ⚠ 98分（16:39→18:18） |
+| FirstSquawk | 68 | 09/20 13:47 | 09/20 19:15 | 41分（16:53→17:35） |
+| financialjuice | 7 | 09/20 16:39 | 09/20 19:32 | ⚠ 98分（16:39→18:18） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 75 行（統合前 75 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 13:40 [FirstSquawk] Samsung executives share long-term AI strategy and discuss latest technology trends at U.S. forum - YONHAP
 - 09/20 13:47 [FirstSquawk] Luxembourg’s oldest bank heads for €2.5bn sale under Chinese ownership – FT
 - 09/20 13:51 [FirstSquawk] Malaysia’s Solarvest targets growth in batteries and power trading beyond solar – Nikkei Asia
 - 09/20 13:58 [FirstSquawk] Meta mounts another legal challenge to UK’s Online Safety Act – FT
@@ -99,3 +98,4 @@
 - 09/20 19:15 [FirstSquawk] Israeli Army Radio: One person killed and another arrested in a car attack near the settlement of Ganim.
 - 09/20 19:31 [financialjuice] Iran's military central command warns of US plans to attack Iran with approval from regional countries: state media
 - 09/20 19:31 [financialjuice] Iran's military central command: regional countries involved in any US attack on Iran shouldn’t expect restraint from Iran’s armed forces - state media
+- 09/20 19:32 [financialjuice] Iran’s central military command: any US strike will prompt unlimited Iranian retaliation on US bases and interests - state media
