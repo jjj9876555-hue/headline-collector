@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 06:31 JST／対象: 09/21 00:31 〜 09/21 06:31 JST（時刻はすべて日本時間）
+生成: 2026-09-21 06:43 JST／対象: 09/21 00:43 〜 09/21 06:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 28 | 09/21 00:40 | 09/21 06:21 | ⚠ 95分（03:25→05:00） |
+| FirstSquawk | 27 | 09/21 00:49 | 09/21 06:32 | ⚠ 95分（03:25→05:00） |
 | financialjuice | 43 | 09/21 00:51 | 09/21 05:13 | ⚠ 69分（03:38→04:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 70 行（統合前 71 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 69 行（統合前 70 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 00:40 [FirstSquawk] Iraqi media outlets, quoting a security source, reported that what happened near Erbil airport was a controlled explosion and not an attack.
-- 09/21 00:40 [FirstSquawk] US Central Command: We rerouted 109 commercial vessels to ensure full compliance since the start of the embargo on Iran.
-- 09/21 00:40 [FirstSquawk] Israeli Chief of Staff: The army is on high alert, deployed and ready with reinforced forces on all fronts.
 - 09/21 00:49 [FirstSquawk] Iranian President: We will welcome any talks that lead to lasting security and peace, and we need unity of purpose in this endeavor.
 - 09/21 00:51 [financialjuice] US Pacific Command on North Korea missile launches: aware of recent launches, consulting closely with allies and partners
 - 09/21 01:00 [financialjuice] Germany's centre-left SPD forecast at 35.5% in Mecklenburg-Western Pomerania state vote: exit poll
@@ -94,3 +91,5 @@
 - 09/21 05:27 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI LEFT TEHRAN FOR UN GENERAL ASSEMBLY IN NEW YORK, WITH BRIEF STOP PLANNED IN QATAR - STATE MEDIA
 - 09/21 05:41 [FirstSquawk] ZELENSKY-TRUMP MEETING EXPECTED TUESDAY - AXIOS
 - 09/21 06:21 [FirstSquawk] RUSSIA MOVES TO EXPAND DRONE FACTORY IN TATARSTAN - POLITICO
+- 09/21 06:32 [FirstSquawk] TRUMP IS INCREASINGLY FRUSTRATED BY POLITICAL AND LEGAL SETBACKS AND BELIEVES TOO FEW ALLIES ARE PUBLICLY DEFENDING HIS SECOND-TERM RECORD, HAVING ALSO COMPLAINED THAT PROMINENT FIGURES HAVE NOT THANKED HIM FOR HIS ATTEMPTED OVERHAUL OF THE…
+- 09/21 06:32 [FirstSquawk] TRUMP IS ALSO FACING FALLING APPROVAL RATINGS, CONCERNS ABOUT REPUBLICAN PERFORMANCE IN THE MIDTERMS AND VOTER FRUSTRATION OVER THE IRAN WAR AND HIGHER ENERGY PRICES, WITH HIS ADMINISTRATION SEARCHING FOR FOREIGN-POLICY WINS TO TOUT AHEAD O…

@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 06:31 JST／対象: 09/20 18:31 〜 09/21 06:31 JST（時刻はすべて日本時間）
+生成: 2026-09-21 06:43 JST／対象: 09/20 18:43 〜 09/21 06:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 104 | 09/20 18:41 | 09/21 06:21 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 74 | 09/20 18:32 | 09/21 05:13 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 97 | 09/20 19:14 | 09/21 06:32 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 73 | 09/20 19:31 | 09/21 05:13 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 174 行（統合前 180 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 166 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 18:32 [financialjuice] Japan defense ministry: no confirmation if second missile landed inside Japan's EEZ
-- 09/20 18:41 [FirstSquawk] Zelensky: We targeted facilities in Russia worth billions of dollars that fuel the Russian war machine
-- 09/20 18:41 [FirstSquawk] Qalibaf: We do not want an endless war and to keep Iran hostage to a permanent crisis.
-- 09/20 18:42 [FirstSquawk] Qalibaf: The internal vision that embraces war and rejects diplomacy is pushing Iran toward attrition.
-- 09/20 18:42 [FirstSquawk] During his meeting with the Director of the US Central Intelligence Agency, the Egyptian President called for a comprehensive agreement to end the Iranian crisis.
-- 09/20 18:42 [FirstSquawk] Sisi affirms his rejection of any aggression against Arab countries and the necessity of resolving crises through political and diplomatic channels.
-- 09/20 18:42 [FirstSquawk] Japanese government says North Korea launched what is believed to be a ballistic missile.
-- 09/20 18:42 [FirstSquawk] AFP: North Korea fires second unidentified projectile into the Sea of ​​Japan
-- 09/20 18:43 [FirstSquawk] Israeli police announce a shooting incident and the injury of a settler in the vicinity of the "Neve Tzuf" settlement, west of Ramallah in the West Bank.
-- 09/20 18:43 [FirstSquawk] Israeli police: Search underway around the settlement of "Neve Tzuf" west of Ramallah and closures imposed after the shooting incident
 - 09/20 19:14 [FirstSquawk] Israeli army: Chief of Staff holds security assessment meeting following shooting attack in Neve Tzuf, central West Bank
 - 09/20 19:14 [FirstSquawk] Israeli army: Chief of Staff orders troop reinforcement after shooting attack in Neve Tzuf, central West Bank
 - 09/20 19:14 [FirstSquawk] Israeli Broadcasting Authority: An Israeli was killed in a shooting attack near the settlement of Neve Tzuf in the central West Bank.
@@ -198,3 +188,5 @@
 - 09/21 05:27 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI LEFT TEHRAN FOR UN GENERAL ASSEMBLY IN NEW YORK, WITH BRIEF STOP PLANNED IN QATAR - STATE MEDIA
 - 09/21 05:41 [FirstSquawk] ZELENSKY-TRUMP MEETING EXPECTED TUESDAY - AXIOS
 - 09/21 06:21 [FirstSquawk] RUSSIA MOVES TO EXPAND DRONE FACTORY IN TATARSTAN - POLITICO
+- 09/21 06:32 [FirstSquawk] TRUMP IS INCREASINGLY FRUSTRATED BY POLITICAL AND LEGAL SETBACKS AND BELIEVES TOO FEW ALLIES ARE PUBLICLY DEFENDING HIS SECOND-TERM RECORD, HAVING ALSO COMPLAINED THAT PROMINENT FIGURES HAVE NOT THANKED HIM FOR HIS ATTEMPTED OVERHAUL OF THE…
+- 09/21 06:32 [FirstSquawk] TRUMP IS ALSO FACING FALLING APPROVAL RATINGS, CONCERNS ABOUT REPUBLICAN PERFORMANCE IN THE MIDTERMS AND VOTER FRUSTRATION OVER THE IRAN WAR AND HIGHER ENERGY PRICES, WITH HIS ADMINISTRATION SEARCHING FOR FOREIGN-POLICY WINS TO TOUT AHEAD O…
