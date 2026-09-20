@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 22:53 JST／対象: 09/20 10:53 〜 09/20 22:53 JST（時刻はすべて日本時間）
+生成: 2026-09-20 23:16 JST／対象: 09/20 11:16 〜 09/20 23:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 149 | 09/20 10:54 | 09/20 22:42 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 13 | 09/20 12:59 | 09/20 21:07 | ⚠ 220分（12:59→16:39） |
+| FirstSquawk | 129 | 09/20 11:18 | 09/20 22:42 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 15 | 09/20 12:59 | 09/20 23:15 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 157 行（統合前 162 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 139 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 10:54 [FirstSquawk] China holds 1-year LPR steady at 3.00%, no change from August
-- 09/20 10:55 [FirstSquawk] U.S. military strikes vessel in Caribbean over alleged narco-trafficking; four killed
-- 09/20 10:56 [FirstSquawk] Turkish foreign minister: “Creative ideas” being explored with U.S. to resolve S-400 issue
-- 09/20 10:57 [FirstSquawk] Turkish foreign minister: Turkey has offered Ukraine, Russia a plan to end Black Sea fighting
-- 09/20 10:57 [FirstSquawk] Turkish foreign minister: There are initiatives to end Ukraine-Russia war, but durable solution remains difficult
-- 09/20 10:58 [FirstSquawk] Turkish foreign minister: Middle East crisis has become economically unsustainable
-- 09/20 10:58 [FirstSquawk] Turkish foreign minister: Proposals sent to all sides seeking to end Saudi-Houthi conflict
-- 09/20 10:58 [FirstSquawk] Turkish foreign minister: Saudi Arabia does not want to be drawn into U.S.-Iran conflict
-- 09/20 10:58 [FirstSquawk] Turkish foreign minister: Turkey to look into Saudi Arabia’s military needs under trilateral defence pact with Pakistan
-- 09/20 10:59 [FirstSquawk] Turkish foreign minister: Ukraine-Russia peace efforts face difficulties in achieving lasting solution
-- 09/20 11:00 [FirstSquawk] China says scientists must adhere to high standards of integrity - SCMP
-- 09/20 11:00 [FirstSquawk] Moscow Mayor says air defenses intercepted 76 Ukrainian drones approaching capital
-- 09/20 11:01 [FirstSquawk] Ed Sheeran says Gaza situation is “unjustifiable” after criticism over pro-Palestinian comments - AFP
-- 09/20 11:01 [FirstSquawk] WHO: Child-friendly cancer medicines needed to improve safety and dosing for children
-- 09/20 11:05 [FirstSquawk] Nippon Life targets $13 billion in data center financing, with focus on U.S. – Nikkei Asia
-- 09/20 11:07 [FirstSquawk] Trump announces plans to form AI force similar to Space Force
-- 09/20 11:08 [FirstSquawk] Iran foreign ministry spokesperson: Pakistan minister’s Iran visit focused on bilateral ties, no knowledge of U.S. message
-- 09/20 11:11 [FirstSquawk] Yemen’s Houthis claim attack was on Aramco facility in Yanbu
-- 09/20 11:12 [FirstSquawk] Yemen’s Houthis claim attacks on “sensitive” sites in Riyadh using missiles and drones
-- 09/20 11:13 [FirstSquawk] Saudi Arabia has not immediately confirmed Houthi claims
 - 09/20 11:18 [FirstSquawk] Iran’s top security official outlines conditions including end to war, unfreezing Iranian funds, lifting naval blockade
 - 09/20 11:19 [FirstSquawk] Leading Report says trump reportedly considering military strike options against Yemen
 - 09/20 11:22 [FirstSquawk] Iran security chief says Tehran seeks an end to fighting between Saudi Arabia and Yemen
@@ -181,3 +161,5 @@
 - 09/20 22:31 [FirstSquawk] Fox News, citing a Russian document: The document outlines plans for nuclear cooperation and Iranian manufacturing of components for Russian aircraft.
 - 09/20 22:41 [FirstSquawk] Syrian TV: Israeli occupation forces are shelling the southeastern part of the town of Al-Rafid in the southern Quneitra countryside.
 - 09/20 22:41 [FirstSquawk] Trump to Fox News: I'm in a decision-making position and very big things will happen in the near future.
+- 09/20 23:15 [financialjuice] Qatar’s prime minister: QIA launches Doha Investment, new unit for domestic investments
+- 09/20 23:15 [financialjuice] Air defences intercept drone near Erbil airport in Iraqi Kurdistan: security sources

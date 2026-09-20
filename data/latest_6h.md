@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 22:53 JST／対象: 09/20 16:53 〜 09/20 22:53 JST（時刻はすべて日本時間）
+生成: 2026-09-20 23:16 JST／対象: 09/20 17:16 〜 09/20 23:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 65 | 09/20 16:53 | 09/20 22:42 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 10 | 09/20 18:18 | 09/20 21:07 | ⚠ 64分（19:32→20:37） |
+| FirstSquawk | 63 | 09/20 17:35 | 09/20 22:42 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 12 | 09/20 18:18 | 09/20 23:15 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 70 行（統合前 75 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 16:53 [FirstSquawk] Japan prefecture offers free bullet train rides to overseas tourists Kagoshima pilot program seeks to boost local economy by welcoming visitors
-- 09/20 16:53 [FirstSquawk] Obama on Trump's press ban: My imagination could not foresee some of the stuff that’s going on right now. I’m trying to think what would have happened if I had said, "You know what, Fox News, get out of here." It’s unimaginable!
 - 09/20 17:35 [FirstSquawk] NO Strait of Hormuz reopening until all Iran’s conditions are met — Parliament Speaker Ghalibaf 'Our stance is completely clear, rational, and non-negotiable'
 - 09/20 17:35 [FirstSquawk] Japanese supermarket operator Saeki Selva Holdings plans to enter the Vietnamese market, training workers in both countries on everything from the basics to running entire stores.
 - 09/20 17:36 [FirstSquawk] Iranian Judiciary Chief Gholam-Hossein Mohseni-Ejei was unanimously reelected to chair the Expediency Council’s legal and judicial committee for a fifth consecutive year, state media reported on Sunday.
@@ -94,3 +92,5 @@
 - 09/20 22:31 [FirstSquawk] Fox News, citing a Russian document: The document outlines plans for nuclear cooperation and Iranian manufacturing of components for Russian aircraft.
 - 09/20 22:41 [FirstSquawk] Syrian TV: Israeli occupation forces are shelling the southeastern part of the town of Al-Rafid in the southern Quneitra countryside.
 - 09/20 22:41 [FirstSquawk] Trump to Fox News: I'm in a decision-making position and very big things will happen in the near future.
+- 09/20 23:15 [financialjuice] Qatar’s prime minister: QIA launches Doha Investment, new unit for domestic investments
+- 09/20 23:15 [financialjuice] Air defences intercept drone near Erbil airport in Iraqi Kurdistan: security sources
