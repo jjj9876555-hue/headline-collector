@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 05:58 JST／対象: 09/20 23:58 〜 09/21 05:58 JST（時刻はすべて日本時間）
+生成: 2026-09-21 06:15 JST／対象: 09/21 00:15 〜 09/21 06:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 31 | 09/20 23:59 | 09/21 05:41 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 49 | 09/20 23:59 | 09/21 05:13 | ⚠ 69分（03:38→04:48） |
+| FirstSquawk | 27 | 09/21 00:40 | 09/21 05:41 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 43 | 09/21 00:51 | 09/21 05:13 | ⚠ 69分（03:38→04:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 79 行（統合前 80 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 69 行（統合前 70 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 23:59 [financialjuice] QatarEnergy CEO: Qatar can restart regular gas operations within weeks once Hormuz reopens
-- 09/20 23:59 [FirstSquawk] Qatari Prime Minister and Foreign Minister: We call on the Israeli government to fulfill its obligations regarding Gaza.
-- 09/21 00:00 [FirstSquawk] Qatari Prime Minister and Foreign Minister: What Qatar is doing and seeking is to facilitate peace talks and mediate between the parties.
-- 09/21 00:00 [FirstSquawk] Qatari Prime Minister and Foreign Minister: What we are doing and also striving for is to keep communication channels open, an approach that has proven effective.
-- 09/21 00:00 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Israel is acting recklessly and is not abiding by its commitments; it is very clear that the commitments have not been fulfilled.
-- 09/21 00:00 [financialjuice] QatarEnergy CEO: Second and third units of Golden Pass LNG project to start operations in 2027
-- 09/21 00:03 [financialjuice] QatarEnergy CEO: Some LNG trains of NFE expansion to begin in 2027, NFS expansion to start production in 2028
-- 09/21 00:03 [financialjuice] QatarEnergy CEO: company seriously considering entry into Venezuela market with partners
-- 09/21 00:06 [financialjuice] QatarEnergy CEO: Qatari LNG volumes are so large buyers will find QatarEnergy hard to overlook once Hormuz crisis ends
-- 09/21 00:07 [financialjuice] QatarEnergy: key equipment blocked by Hormuz crisis could postpone some expansion projects
 - 09/21 00:40 [FirstSquawk] Iraqi media outlets, quoting a security source, reported that what happened near Erbil airport was a controlled explosion and not an attack.
 - 09/21 00:40 [FirstSquawk] US Central Command: We rerouted 109 commercial vessels to ensure full compliance since the start of the embargo on Iran.
 - 09/21 00:40 [FirstSquawk] Israeli Chief of Staff: The army is on high alert, deployed and ready with reinforced forces on all fronts.
