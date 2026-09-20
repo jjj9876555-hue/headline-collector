@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 19:44 JST／対象: 09/19 19:44 〜 09/20 19:44 JST（時刻はすべて日本時間）
+生成: 2026-09-20 19:58 JST／対象: 09/19 19:58 〜 09/20 19:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 214 | 09/19 19:46 | 09/20 19:15 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 212 | 09/19 20:01 | 09/20 19:15 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 35 | 09/19 20:21 | 09/20 19:32 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 255 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 253 行（統合前 259 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 19:46 [FirstSquawk] Flames and a large plume of black smoke were seen rising near Riyadh airport on Saturday
-- 09/19 19:47 [FirstSquawk] Paramount could settle with states over Warner Bros. as soon as this weekend, sources say
 - 09/19 20:01 [FirstSquawk] China's tech rivalry with the U.S. intensifies, border controls are becoming another oversight tool for Beijing. New rules tie entry and exit more closely to national security concerns.
 - 09/19 20:02 [FirstSquawk] U.S. companies and Washington have accused Chinese labs of using distillation to gain ground, denouncing their efforts as theft
 - 09/19 20:02 [FirstSquawk] But a growing chorus of voices is casting doubt on how important distillation is to Chinese AI model development.

@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 19:44 JST／対象: 09/20 13:44 〜 09/20 19:44 JST（時刻はすべて日本時間）
+生成: 2026-09-20 19:58 JST／対象: 09/20 13:58 〜 09/20 19:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 68 | 09/20 13:47 | 09/20 19:15 | 41分（16:53→17:35） |
+| FirstSquawk | 64 | 09/20 13:59 | 09/20 19:15 | 41分（16:53→17:35） |
 | financialjuice | 7 | 09/20 16:39 | 09/20 19:32 | ⚠ 98分（16:39→18:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 75 行（統合前 75 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 71 行（統合前 71 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 13:47 [FirstSquawk] Luxembourg’s oldest bank heads for €2.5bn sale under Chinese ownership – FT
-- 09/20 13:51 [FirstSquawk] Malaysia’s Solarvest targets growth in batteries and power trading beyond solar – Nikkei Asia
-- 09/20 13:58 [FirstSquawk] Meta mounts another legal challenge to UK’s Online Safety Act – FT
-- 09/20 13:58 [FirstSquawk] Israel’s settler economy faces growing risk of European sanctions – FT
 - 09/20 13:59 [FirstSquawk] Novo investors urge company to pursue deals and expand its drug pipeline – FT
 - 09/20 14:03 [FirstSquawk] Israeli airstrike hits outskirts of Sarbine in southern Lebanon, Lebanese News Agency reports
 - 09/20 14:04 [FirstSquawk] U.S. warns Americans of potential flight cancellations, airspace closures and travel disruptions in Middle East
