@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 15:21 JST／対象: 09/20 09:21 〜 09/20 15:21 JST（時刻はすべて日本時間）
+生成: 2026-09-20 15:39 JST／対象: 09/20 09:39 〜 09/20 15:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 85 | 09/20 09:28 | 09/20 15:04 | 25分（14:36→15:01） |
+| FirstSquawk | 87 | 09/20 09:42 | 09/20 15:34 | 28分（15:04→15:32） |
 | financialjuice | 3 | 09/20 10:00 | 09/20 12:59 | ⚠ 157分（10:21→12:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 88 行（統合前 88 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 90 行（統合前 90 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 09:28 [FirstSquawk] U.S. STATE DEPARTMENT ISSUES COMPREHENSIVE SECURITY ALERT FOR MIDDLE EAST The U.S. Department of State’s Consular Affairs has urged American citizens in the Middle East to exercise heightened vigilance, citing complex security conditions an…
-- 09/20 09:31 [FirstSquawk] More than 34,000 users without power across Buenos Aires area
-- 09/20 09:32 [FirstSquawk] Pentagon weighs plan to withdraw tens of thousands of US troops from Europe - RTRS
 - 09/20 09:42 [FirstSquawk] FBI reportedly warns of fake dating profiles targeting ICE agents
 - 09/20 09:43 [FirstSquawk] American dream’ continues to produce millionaires, WSJ reports
 - 09/20 09:53 [FirstSquawk] Trump says historic deal grants US permanent security control over Greenland
@@ -112,3 +109,8 @@
 - 09/20 15:04 [FirstSquawk] Rising AI activity weighs on Singapore office rents – FT
 - 09/20 15:04 [FirstSquawk] US issues security alert for Americans in West Asia, says Iran war has potential to escalate rapidly
 - 09/20 15:04 [FirstSquawk] Najib remains behind bars as US$12.3 million fine over house arrest remains unresolved – SCMP
+- 09/20 15:32 [FirstSquawk] North Korea fires missile off east coast
+- 09/20 15:33 [FirstSquawk] North Korea fired an unidentified projectile off its east coast on Sunday, South Korea's military says
+- 09/20 15:33 [FirstSquawk] Iran should fight while also pursuing negotiations rather than treating the two as alternatives, parliament speaker Mohammad-Bagher Ghalibaf said on Sunday.
+- 09/20 15:33 [FirstSquawk] Ghalibaf said Iran had shown over the past seven months that it was not defenseless, describing its approach as a “smart advance” aimed at imposing the Iranian people’s will.
+- 09/20 15:34 [FirstSquawk] Foreign envoys in Taiwan warn rules of game at sea are being challenged
