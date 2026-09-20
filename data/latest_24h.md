@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 13:50 JST／対象: 09/19 13:50 〜 09/20 13:50 JST（時刻はすべて日本時間）
+生成: 2026-09-20 14:01 JST／対象: 09/19 14:01 〜 09/20 14:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 195 | 09/19 13:59 | 09/20 13:47 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 198 | 09/19 14:04 | 09/20 13:59 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 47 | 09/19 15:14 | 09/20 12:59 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 248 行（統合前 254 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 251 行（統合前 257 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 13:59 [FirstSquawk] Malaysia’s Solarvest broadens energy business into batteries and power trading - NA
 - 09/19 14:04 [FirstSquawk] South Korea’s Cheong Wa Dae says Lee’s remarks do not amount to rejecting Trump’s Hormuz request – Yonhap
 - 09/19 14:16 [FirstSquawk] North Korea rejects IAEA resolution, pledges to maintain nuclear arsenal amid US threats – Yonhap
 - 09/19 14:23 [FirstSquawk] Suspected Chinese marine research vessel leaves Japan’s EEZ – Kyodo
@@ -272,3 +271,7 @@
 - 09/20 13:21 [FirstSquawk] China struggles to attract sovereign wealth funds amid ongoing property woes
 - 09/20 13:40 [FirstSquawk] Samsung executives share long-term AI strategy and discuss latest technology trends at U.S. forum - YONHAP
 - 09/20 13:47 [FirstSquawk] Luxembourg’s oldest bank heads for €2.5bn sale under Chinese ownership – FT
+- 09/20 13:51 [FirstSquawk] Malaysia’s Solarvest targets growth in batteries and power trading beyond solar – Nikkei Asia
+- 09/20 13:58 [FirstSquawk] Meta mounts another legal challenge to UK’s Online Safety Act – FT
+- 09/20 13:58 [FirstSquawk] Israel’s settler economy faces growing risk of European sanctions – FT
+- 09/20 13:59 [FirstSquawk] Novo investors urge company to pursue deals and expand its drug pipeline – FT
