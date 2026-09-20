@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 02:15 JST／対象: 09/20 14:15 〜 09/21 02:15 JST（時刻はすべて日本時間）
+生成: 2026-09-21 02:30 JST／対象: 09/20 14:30 〜 09/21 02:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 133 | 09/20 14:17 | 09/21 02:13 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 55 | 09/20 16:39 | 09/21 01:29 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 132 | 09/20 14:36 | 09/21 02:19 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 58 | 09/20 16:39 | 09/21 02:28 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 185 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 187 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 14:17 [FirstSquawk] Price fall makes biodiesel a cheaper fuel option for shipping than conventional alternatives – FT
-- 09/20 14:18 [FirstSquawk] Google executive says Asia is adopting AI faster than perceived
-- 09/20 14:23 [FirstSquawk] Saudi Arabia pulls out of China-led cross-border currency system – FT
 - 09/20 14:36 [FirstSquawk] TotalEnergies comes under renewed scrutiny over handling of Mozambique attack – FT
 - 09/20 15:01 [FirstSquawk] Festive Hiring Boom: New-age operational roles set to grow 15-20%; tier-II, III cities to account for 45% of festive hiring demand
 - 09/20 15:02 [FirstSquawk] Australian, Canadian and U.S. partners are teaming up to revive American tungsten production as China tightens supply.
@@ -209,3 +206,8 @@
 - 09/21 02:12 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS THE ELECTION OUTCOME IN MECKLENBURG-WESTERN POMERANIA IS A 'CATASTROPHE', WITH TWO STATE BALLOTS TODAY PRODUCING VASTLY DIFFERENT RESULTS, AS THE CONSERVATIVE CDU POLLS AT 5.1% IN MECKLENBURG-WESTERN POMERANIA…
 - 09/21 02:12 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS 'CHANGE IS NECESSARY' AND THAT 'GERMANY MUST BECOME A LAND OF FRESH STARTS', WARNING THAT CONFIDENCE IN THE COUNTRY'S INSTITUTIONS IS WANING, THAT THE STATE HAS GROWN 'OVERLY COMPLEX' AND THAT 'WE CAN'T RETURN…
 - 09/21 02:13 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS HE TAKES RESPONSIBILITY 'AS I WANT TO ADVANCE THE COUNTRY', ADDING THAT SHIFTS POSE CHALLENGES AND FRESH UNCERTAINTIES AND THAT HE IS PREPARED TO LEAD AS PARTY HEAD AND CHANCELLOR WITH 'DETERMINATION, PERSEVER…
+- 09/21 02:19 [FirstSquawk] U.S. MISSION IN SAUDI ARABIA SAYS GOVERNMENT EMPLOYEES NOW REQUIRE SPECIAL AUTHORIZATION FOR OFFICIAL OR PERSONAL TRAVEL TO TAIF AND YANBU AMID ONGOING HOUTHI ATTACKS
+- 09/21 02:19 [FirstSquawk] U.S. ATTORNEY FOR THE SOUTHERN DISTRICT OF FLORIDA SAYS 18 SUSPECTS IN THE 2021 ASSASSINATION OF HAITIAN PRESIDENT JOVENEL MOÏSE HAVE BEEN FLOWN TO THE U.S. ON A MILITARY PLANE, WITH 30 SUSPECTS HAVING BEEN INDICTED IN THE U.S. FOR THEIR IN…
+- 09/21 02:22 [financialjuice] France's President Macron: France backs closer ties between EU, Canada and associate membership for Canada
+- 09/21 02:26 [financialjuice] France's Macron: agreed with Canada's Carney to strengthen ties in energy, space, climate sectors
+- 09/21 02:28 [financialjuice] France's President Macron: Canadian LNG can be key for European energy, initiates bilateral talks on the matter
