@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 12:17 JST／対象: 09/20 06:17 〜 09/20 12:17 JST（時刻はすべて日本時間）
+生成: 2026-09-20 12:33 JST／対象: 09/20 06:33 〜 09/20 12:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 57 | 09/20 09:16 | 09/20 12:09 | 13分（10:07→10:21） |
+| FirstSquawk | 58 | 09/20 09:16 | 09/20 12:23 | 13分（12:09→12:23） |
 | financialjuice | 3 | 09/20 08:55 | 09/20 10:21 | ⚠ 65分（08:55→10:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 60 行（統合前 60 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 61 行（統合前 61 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -84,3 +84,4 @@
 - 09/20 11:49 [FirstSquawk] WSJ: Polymarket’s expansion exposed gaps that enabled fraudulent activity
 - 09/20 11:56 [FirstSquawk] China’s booming cosmetics market sees rise of homegrown brands – Kyodo
 - 09/20 12:09 [FirstSquawk] BOJ steps up rate hikes, while path for further tightening remains unclear - KYODO
+- 09/20 12:23 [FirstSquawk] Iran faces deeper medicine shortages as war disrupts shipping
