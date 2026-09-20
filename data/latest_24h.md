@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 10:17 JST／対象: 09/19 10:17 〜 09/20 10:17 JST（時刻はすべて日本時間）
+生成: 2026-09-20 10:32 JST／対象: 09/19 10:32 〜 09/20 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 211 | 09/19 10:17 | 09/20 10:07 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 47 | 09/19 10:20 | 09/20 10:00 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 203 | 09/19 10:33 | 09/20 10:22 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 47 | 09/19 11:03 | 09/20 10:21 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 264 行（統合前 270 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 256 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 10:17 [FirstSquawk] OPENAI sees revenue climbing from $36B to $350B by 2030, with expenses far exceeding revenues – FT
-- 09/19 10:17 [FirstSquawk] OpenAI faces projected $280B cash burn through 2030, FT reports
-- 09/19 10:19 [FirstSquawk] Trump and Xi set to deliver remarks at state dinner, White House spokeswoman says
-- 09/19 10:20 [FirstSquawk] Lawsuit targets Anthropic, OpenAI, xAI and Google over efforts to accelerate AI development – Politico
-- 09/19 10:20 [financialjuice] China vice premier He Lifeng to lead trade delegation to US Sept. 19-23: MOFCOM
-- 09/19 10:21 [FirstSquawk] He Lifeng to head Chinese trade delegation for US visit from Sept. 19–23 – MOFCOM
-- 09/19 10:25 [FirstSquawk] AI diplomacy takes center stage; A senior US official confirms that artificial intelligence risks and safeguards are formally set for discussion in the upcoming bilateral meeting with Xi Jinping. The focus will likely center on autonomous w…
-- 09/19 10:26 [FirstSquawk] Keeping the trade détente intact is officially up for negotiation. The Busan truce has been added to the Trump–Xi summit agenda, signaling that both sides want to avoid a fresh wave of retaliatory tariffs and export bans before current agre…
-- 09/19 10:27 [FirstSquawk] Institutional demand builds in Brazilian homebuilding: Invesco has expanded its equity footprint in Cyrela Brazil Realty, crossing the 5% common share ownership threshold according to a regulatory disclosure.
-- 09/19 10:27 [FirstSquawk] Bezos, Musk, Dell and Altman among guests expected at state dinner – senior US official
-- 09/19 10:28 [FirstSquawk] US official: More cooperation from China needed on fentanyl issue
-- 09/19 10:31 [FirstSquawk] Trump bars CNN, MS NOW and Politico from White House, accuses outlets of publishing “fake news”
 - 09/19 10:33 [FirstSquawk] Trump to welcome Xi at Joint Base Andrews, White House says
 - 09/19 10:34 [FirstSquawk] Delta says it has not used, tested or planned fares based on individual customer data
 - 09/19 10:36 [FirstSquawk] US Ambassador to UN says Trump will meet Britain’s Burnham
@@ -288,3 +276,7 @@
 - 09/20 10:06 [FirstSquawk] Coalition says Houthi attacks targeting civilians in Bish, Taif, Farasan and Yanbu foiled
 - 09/20 10:07 [FirstSquawk] Houthi ballistic missile launched toward Riyadh intercepted, Saudi coalition says
 - 09/20 10:07 [FirstSquawk] Stanley Druckenmiller says AI boom could be creating an ‘earnings bubble’
+- 09/20 10:21 [FirstSquawk] WSJ: Polymarket employees raised concerns as fraudsters exploited the platform
+- 09/20 10:21 [financialjuice] China central bank injects 32 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/20 10:21 [FirstSquawk] Diesel exports plunge as wars disrupt supplies from Persian Gulf, Russia
+- 09/20 10:22 [FirstSquawk] Diesel exports plunge as wars disrupt supplies from Persian Gulf, Russia - WSJ
