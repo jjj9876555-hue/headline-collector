@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 04:29 JST／対象: 09/20 22:29 〜 09/21 04:29 JST（時刻はすべて日本時間）
+生成: 2026-09-21 04:40 JST／対象: 09/20 22:40 〜 09/21 04:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 56 | 09/20 22:31 | 09/21 03:25 | ⚠ 51分（00:49→01:41） |
+| FirstSquawk | 54 | 09/20 22:41 | 09/21 03:25 | ⚠ 51分（00:49→01:41） |
 | financialjuice | 60 | 09/20 23:15 | 09/21 03:38 | ⚠ 53分（01:29→02:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 118 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 116 行（統合前 116 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 22:31 [FirstSquawk] Fox News, citing an undisclosed Russian document: A Russian-Iranian plan provides an "alternative mechanism" to counter Western pressure.
-- 09/20 22:31 [FirstSquawk] Fox News, citing a Russian document: The document outlines plans for nuclear cooperation and Iranian manufacturing of components for Russian aircraft.
 - 09/20 22:41 [FirstSquawk] Syrian TV: Israeli occupation forces are shelling the southeastern part of the town of Al-Rafid in the southern Quneitra countryside.
 - 09/20 22:41 [FirstSquawk] Trump to Fox News: I'm in a decision-making position and very big things will happen in the near future.
 - 09/20 22:42 [FirstSquawk] Trump: at strong request of US military and for national security, agrees to transform triumphal arch into a high-level military complex

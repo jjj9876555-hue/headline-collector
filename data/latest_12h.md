@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 04:29 JST／対象: 09/20 16:29 〜 09/21 04:29 JST（時刻はすべて日本時間）
+生成: 2026-09-21 04:40 JST／対象: 09/20 16:40 〜 09/21 04:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
 | FirstSquawk | 117 | 09/20 16:51 | 09/21 03:25 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 72 | 09/20 16:39 | 09/21 03:38 | ⚠ 127分（21:07→23:15） |
+| financialjuice | 70 | 09/20 18:18 | 09/21 03:38 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 186 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 184 行（統合前 189 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 16:39 [financialjuice] Ukraine's military hit an oil refinery in Russia's Moscow region: Zelenskiy
-- 09/20 16:39 [financialjuice] Iran's parliament speaker Galibaf: strait of Hormuz will stay closed until Tehran's conditions are met - Fars
 - 09/20 16:51 [FirstSquawk] Obama on AI: There’s the big science-fiction risk — these models get smarter than us, and they decide humans are fine, but not necessary. They start setting their own goals and the killer robots, you know, kill us, or we bow down to them.
 - 09/20 16:52 [FirstSquawk] Obama on AI: If we are thinking about AI just in terms of how do we cure cancer or get better energy, you can do that without having agentic AI and having it just roaming free in the internet.
 - 09/20 16:52 [FirstSquawk] Authorities in northern Iran said on Sunday they were investigating an event featuring music and women without mandatory headscarves at a hotel in Nowshahr.
