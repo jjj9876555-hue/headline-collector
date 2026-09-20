@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 03:25 JST／対象: 09/20 21:25 〜 09/21 03:25 JST（時刻はすべて日本時間）
+生成: 2026-09-21 03:43 JST／対象: 09/20 21:43 〜 09/21 03:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
 | FirstSquawk | 63 | 09/20 21:48 | 09/21 03:25 | ⚠ 51分（00:49→01:41） |
-| financialjuice | 58 | 09/20 23:15 | 09/21 03:20 | ⚠ 53分（01:29→02:22） |
+| financialjuice | 60 | 09/20 23:15 | 09/21 03:38 | ⚠ 53分（01:29→02:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 123 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -147,3 +147,5 @@
 - 09/21 03:19 [financialjuice] Ukraine President Zelenskiy: we agreed to meet in New York
 - 09/21 03:20 [financialjuice] Ukraine president Zelenskiy: thanked American president for enacting Lindsey Graham bill into law
 - 09/21 03:25 [FirstSquawk] UKRAINE PRESIDENT ZELENSKIY SAYS HE JUST SPOKE WITH U.S. PRESIDENT TRUMP AND THAT THEY AGREED TO MEET IN NEW YORK, THANKING TRUMP FOR ENACTING THE LINDSEY GRAHAM BILL INTO LAW
+- 09/21 03:37 [financialjuice] Trump administration ready to impose sanctions on International Criminal Court: WSJ
+- 09/21 03:38 [financialjuice] Sanctions would ban most dealings with ICC after six to seven months grace period: WSJ

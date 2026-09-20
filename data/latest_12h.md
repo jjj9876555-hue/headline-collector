@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 03:25 JST／対象: 09/20 15:25 〜 09/21 03:25 JST（時刻はすべて日本時間）
+生成: 2026-09-21 03:43 JST／対象: 09/20 15:43 〜 09/21 03:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 129 | 09/20 15:32 | 09/21 03:25 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 70 | 09/20 16:39 | 09/21 03:20 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 124 | 09/20 16:13 | 09/21 03:25 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 72 | 09/20 16:39 | 09/21 03:38 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 196 行（統合前 201 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 193 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 15:32 [FirstSquawk] North Korea fires missile off east coast
-- 09/20 15:33 [FirstSquawk] North Korea fired an unidentified projectile off its east coast on Sunday, South Korea's military says
-- 09/20 15:33 [FirstSquawk] Iran should fight while also pursuing negotiations rather than treating the two as alternatives, parliament speaker Mohammad-Bagher Ghalibaf said on Sunday.
-- 09/20 15:33 [FirstSquawk] Ghalibaf said Iran had shown over the past seven months that it was not defenseless, describing its approach as a “smart advance” aimed at imposing the Iranian people’s will.
-- 09/20 15:34 [FirstSquawk] Foreign envoys in Taiwan warn rules of game at sea are being challenged
 - 09/20 16:13 [FirstSquawk] Russian election enters final day after major Ukrainian drone attack on Moscow
 - 09/20 16:13 [FirstSquawk] Trump's meeting at Camp David was to deliberate and review Yemen strike options.
 - 09/20 16:13 [FirstSquawk] Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets
@@ -220,3 +215,5 @@
 - 09/21 03:19 [financialjuice] Ukraine President Zelenskiy: we agreed to meet in New York
 - 09/21 03:20 [financialjuice] Ukraine president Zelenskiy: thanked American president for enacting Lindsey Graham bill into law
 - 09/21 03:25 [FirstSquawk] UKRAINE PRESIDENT ZELENSKIY SAYS HE JUST SPOKE WITH U.S. PRESIDENT TRUMP AND THAT THEY AGREED TO MEET IN NEW YORK, THANKING TRUMP FOR ENACTING THE LINDSEY GRAHAM BILL INTO LAW
+- 09/21 03:37 [financialjuice] Trump administration ready to impose sanctions on International Criminal Court: WSJ
+- 09/21 03:38 [financialjuice] Sanctions would ban most dealings with ICC after six to seven months grace period: WSJ

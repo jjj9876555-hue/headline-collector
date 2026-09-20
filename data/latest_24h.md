@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 03:25 JST／対象: 09/20 03:25 〜 09/21 03:25 JST（時刻はすべて日本時間）
+生成: 2026-09-21 03:43 JST／対象: 09/20 03:43 〜 09/21 03:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/20 03:32 | 09/20 23:43 | ⚠ 1181分（03:47→23:29） |
+| DeItaone | 3 | 09/20 03:47 | 09/20 23:43 | ⚠ 1181分（03:47→23:29） |
 | FirstSquawk | 216 | 09/20 09:16 | 09/21 03:25 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 81 | 09/20 03:25 | 09/21 03:20 | ⚠ 256分（04:39→08:55） |
+| financialjuice | 80 | 09/20 03:58 | 09/21 03:38 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 296 行（統合前 301 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 294 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 03:25 [financialjuice] Turkish foreign minister: Saudi Arabia could have military requirements, to be reviewed in trilateral defense pact with Pakistan
-- 09/20 03:32 [DeItaone] U.S.-CHINA TALKS SET AHEAD OF TRUMP-XI SUMMIT Treasury Secretary Scott Bessent will meet Chinese Vice Premier He Lifeng on Sunday in New York to discuss AI security, trade and broader economic issues. The talks come just days before Trump h…
-- 09/20 03:32 [financialjuice] Turkish foreign minister: initiatives exist to end Ukraine-Russia war, but hard for lasting solution
-- 09/20 03:38 [financialjuice] Turkish foreign minister: sent proposal to Ukraine, Russia to halt fighting in Black Sea, awaiting replies
 - 09/20 03:47 [DeItaone] TURKISH FOREIGN MINISTER: WE HAVE SENT OFFER TO UKRAINE, RUSSIA TO END FIGHTING IN THE BLACK SEA, AWAITING THEIR RESPONSES
 - 09/20 03:58 [financialjuice] Turkish foreign minister: Creative ideas exist on resolving S-400 issue with US, collaborating to achieve solutions and anticipating positive progress
 - 09/20 04:01 [financialjuice] Creative ideas emerge on resolving S-400 issue with US, collaboration aims for positive progress
@@ -320,3 +316,5 @@
 - 09/21 03:19 [financialjuice] Ukraine President Zelenskiy: we agreed to meet in New York
 - 09/21 03:20 [financialjuice] Ukraine president Zelenskiy: thanked American president for enacting Lindsey Graham bill into law
 - 09/21 03:25 [FirstSquawk] UKRAINE PRESIDENT ZELENSKIY SAYS HE JUST SPOKE WITH U.S. PRESIDENT TRUMP AND THAT THEY AGREED TO MEET IN NEW YORK, THANKING TRUMP FOR ENACTING THE LINDSEY GRAHAM BILL INTO LAW
+- 09/21 03:37 [financialjuice] Trump administration ready to impose sanctions on International Criminal Court: WSJ
+- 09/21 03:38 [financialjuice] Sanctions would ban most dealings with ICC after six to seven months grace period: WSJ
