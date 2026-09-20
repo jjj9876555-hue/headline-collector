@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 01:32 JST／対象: 09/20 19:32 〜 09/21 01:32 JST（時刻はすべて日本時間）
+生成: 2026-09-21 01:45 JST／対象: 09/20 19:45 〜 09/21 01:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 66 | 09/20 20:15 | 09/21 00:49 | 40分（22:42→23:23） |
-| financialjuice | 49 | 09/20 19:32 | 09/21 01:29 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 67 | 09/20 20:15 | 09/21 01:41 | ⚠ 51分（00:49→01:41） |
+| financialjuice | 48 | 09/20 20:37 | 09/21 01:29 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 112 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 19:32 [financialjuice] Iran’s central military command: any US strike will prompt unlimited Iranian retaliation on US bases and interests - state media
 - 09/20 20:15 [FirstSquawk] Israeli army: A person who attempted a car-ramming attack targeting soldiers in the West Bank was neutralized.
 - 09/20 20:15 [FirstSquawk] Israeli settler wounded in the shooting attack in Neve Tzuf, in the central West Bank, has died.
 - 09/20 20:15 [FirstSquawk] Iranian media: Army leadership warns of US plans to attack Iran
@@ -136,3 +135,4 @@
 - 09/21 01:19 [financialjuice] Germany's Chancellor Merz: I take responsibility as I want to advance the country
 - 09/21 01:20 [financialjuice] Germany's Chancellor Merz: need determination, perseverance and patience; prepared to lead as party head, chancellor
 - 09/21 01:29 [financialjuice] Germany's conservative CDU party polls at 5.1% in Mecklenburg-Western Pomerania election, ZDF reports citing partial results
+- 09/21 01:41 [FirstSquawk] German Chancellor acknowledges a "disaster" for his party following the far-right's gains in local elections.
