@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 08:16 JST／対象: 09/21 02:16 〜 09/21 08:16 JST（時刻はすべて日本時間）
+生成: 2026-09-21 08:30 JST／対象: 09/21 02:30 〜 09/21 08:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 30 | 09/21 02:19 | 09/21 07:56 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 30 | 09/21 02:22 | 09/21 07:12 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 28 | 09/21 02:38 | 09/21 07:56 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 27 | 09/21 02:31 | 09/21 07:12 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 59 行（統合前 60 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 54 行（統合前 55 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 02:19 [FirstSquawk] U.S. MISSION IN SAUDI ARABIA SAYS GOVERNMENT EMPLOYEES NOW REQUIRE SPECIAL AUTHORIZATION FOR OFFICIAL OR PERSONAL TRAVEL TO TAIF AND YANBU AMID ONGOING HOUTHI ATTACKS
-- 09/21 02:19 [FirstSquawk] U.S. ATTORNEY FOR THE SOUTHERN DISTRICT OF FLORIDA SAYS 18 SUSPECTS IN THE 2021 ASSASSINATION OF HAITIAN PRESIDENT JOVENEL MOÏSE HAVE BEEN FLOWN TO THE U.S. ON A MILITARY PLANE, WITH 30 SUSPECTS HAVING BEEN INDICTED IN THE U.S. FOR THEIR IN…
-- 09/21 02:22 [financialjuice] France's President Macron: France backs closer ties between EU, Canada and associate membership for Canada
-- 09/21 02:26 [financialjuice] France's Macron: agreed with Canada's Carney to strengthen ties in energy, space, climate sectors
-- 09/21 02:28 [financialjuice] France's President Macron: Canadian LNG can be key for European energy, initiates bilateral talks on the matter
 - 09/21 02:31 [financialjuice] Canadian Prime Minister Carney urges stronger ties with France amid rising global threats
 - 09/21 02:32 [financialjuice] France, Canada task space agencies, defense ministries to jointly develop space launch systems, ground reception facilities: Carney
 - 09/21 02:38 [FirstSquawk] FRANCE'S PRESIDENT MACRON SAYS FRANCE BACKS CLOSER TIES BETWEEN THE EU AND CANADA AND ASSOCIATE MEMBERSHIP FOR CANADA, HAVING AGREED WITH CANADA'S CARNEY TO STRENGTHEN TIES IN THE ENERGY, SPACE AND CLIMATE SECTORS.

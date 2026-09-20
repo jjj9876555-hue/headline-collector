@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 08:16 JST／対象: 09/20 20:16 〜 09/21 08:16 JST（時刻はすべて日本時間）
+生成: 2026-09-21 08:30 JST／対象: 09/20 20:30 〜 09/21 08:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 99 | 09/20 20:16 | 09/21 07:56 | ⚠ 95分（03:25→05:00） |
+| FirstSquawk | 94 | 09/20 20:38 | 09/21 07:56 | ⚠ 95分（03:25→05:00） |
 | financialjuice | 78 | 09/20 20:37 | 09/21 07:12 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 173 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 168 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 20:16 [FirstSquawk] Lebanese News Agency: Israeli shelling targets the town of Mansouri in southern Lebanon
-- 09/20 20:16 [FirstSquawk] Lebanese News Agency: Olive groves and citrus orchards in the vicinity of Majdal Zoun and Beit Siyad towns were set ablaze with phosphorus bombs in the south of the country.
-- 09/20 20:16 [FirstSquawk] Russian Central Election Commission: Voter turnout in Duma elections exceeded 50%
-- 09/20 20:16 [FirstSquawk] Netanyahu, commenting on the shooting attacks in the West Bank: No one is immune from punishment, whether in Gaza, Lebanon, or the West Bank.
-- 09/20 20:16 [FirstSquawk] Netanyahu orders increased military presence in the West Bank, imposing closures, carrying out arrest campaigns, and demolishing the home of the perpetrator.
 - 09/20 20:37 [financialjuice/FirstSquawk] Trump: at strong request of US military and for national security, agrees to transform triumphal arch into a high-level military complex
 - 09/20 20:38 [FirstSquawk] Israeli Army Radio: The number of battalions deployed in the West Bank and Central Command is 27, the highest since the beginning of the war.
 - 09/20 20:38 [FirstSquawk] Israeli Defense Minister: The army and security forces are on high alert to protect the borders and Israelis everywhere
