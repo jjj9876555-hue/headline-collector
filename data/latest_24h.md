@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 20:53 JST／対象: 09/19 20:53 〜 09/20 20:53 JST（時刻はすべて日本時間）
+生成: 2026-09-20 21:20 JST／対象: 09/19 21:20 〜 09/20 21:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 217 | 09/19 21:20 | 09/20 20:39 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 36 | 09/20 00:14 | 09/20 20:42 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 220 | 09/19 21:20 | 09/20 21:14 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 38 | 09/20 00:14 | 09/20 21:07 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 259 行（統合前 265 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 264 行（統合前 270 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 21:20 [FirstSquawk] IDF: We targeted Hezbollah infrastructure in southern Lebanon
 - 09/19 21:20 [FirstSquawk] IDF: Our targeting of Hezbollah infrastructure in southern Lebanon came in response to the detonation of an explosive device in the security zone
 - 09/19 21:20 [FirstSquawk] IDF: Explosive device detonated in security zone in southern Lebanon wounds two soldiers
 - 09/19 21:20 [FirstSquawk] IDF: We continue our deployment in the security zone in southern Lebanon
@@ -283,3 +282,9 @@
 - 09/20 20:39 [FirstSquawk] Israeli Channel 12: A force from the Duvdevan unit arrested the perpetrator of the attack in Neve Tzuf in the central West Bank.
 - 09/20 20:39 [FirstSquawk] Israeli occupation forces arrest a wounded young man from a hospital in Ramallah on charges of opening fire in Neve Tzuf, which resulted in the death of a settler.
 - 09/20 20:42 [financialjuice] Trump: I have agreed to transform triumphal arch into a top military complex
+- 09/20 21:00 [financialjuice] Iran shuts down unauthorized center linked to French embassy: Tasnim
+- 09/20 21:07 [financialjuice] Moscow’s remote voting system and voter list face large-scale hacking attacks: voting services operating normally, city election official says
+- 09/20 21:13 [FirstSquawk] Ukraine hits Moscow with ‘largest ever’ drone attack - FT
+- 09/20 21:13 [FirstSquawk] Biodiesel for shipping now cheaper than conventional fuels after price fall- FT
+- 09/20 21:13 [FirstSquawk] US retailer rations motor oil as prices quadruple and supplies run dry- FT
+- 09/20 21:14 [FirstSquawk] Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets - FT

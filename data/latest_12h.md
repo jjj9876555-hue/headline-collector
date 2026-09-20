@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 20:53 JST／対象: 09/20 08:53 〜 09/20 20:53 JST（時刻はすべて日本時間）
+生成: 2026-09-20 21:20 JST／対象: 09/20 09:20 〜 09/20 21:20 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 149 | 09/20 09:16 | 09/20 20:39 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 14 | 09/20 08:55 | 09/20 20:42 | ⚠ 220分（12:59→16:39） |
+| FirstSquawk | 151 | 09/20 09:28 | 09/20 21:14 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 15 | 09/20 10:00 | 09/20 21:07 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 163 行（統合前 163 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 166 行（統合前 166 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 08:55 [financialjuice] U.S. military: strike on Caribbean vessel over alleged drug trafficking kills four on Saturday
-- 09/20 09:16 [FirstSquawk] Toyota steps into extended-range EV segment with new China-built model
-- 09/20 09:17 [FirstSquawk] Leapmotor outpaces Subaru, Mitsubishi Motors in global vehicle sales - NA
 - 09/20 09:28 [FirstSquawk] U.S. STATE DEPARTMENT ISSUES COMPREHENSIVE SECURITY ALERT FOR MIDDLE EAST The U.S. Department of State’s Consular Affairs has urged American citizens in the Middle East to exercise heightened vigilance, citing complex security conditions an…
 - 09/20 09:31 [FirstSquawk] More than 34,000 users without power across Buenos Aires area
 - 09/20 09:32 [FirstSquawk] Pentagon weighs plan to withdraw tens of thousands of US troops from Europe - RTRS
@@ -187,3 +184,9 @@
 - 09/20 20:39 [FirstSquawk] Israeli Channel 12: A force from the Duvdevan unit arrested the perpetrator of the attack in Neve Tzuf in the central West Bank.
 - 09/20 20:39 [FirstSquawk] Israeli occupation forces arrest a wounded young man from a hospital in Ramallah on charges of opening fire in Neve Tzuf, which resulted in the death of a settler.
 - 09/20 20:42 [financialjuice] Trump: I have agreed to transform triumphal arch into a top military complex
+- 09/20 21:00 [financialjuice] Iran shuts down unauthorized center linked to French embassy: Tasnim
+- 09/20 21:07 [financialjuice] Moscow’s remote voting system and voter list face large-scale hacking attacks: voting services operating normally, city election official says
+- 09/20 21:13 [FirstSquawk] Ukraine hits Moscow with ‘largest ever’ drone attack - FT
+- 09/20 21:13 [FirstSquawk] Biodiesel for shipping now cheaper than conventional fuels after price fall- FT
+- 09/20 21:13 [FirstSquawk] US retailer rations motor oil as prices quadruple and supplies run dry- FT
+- 09/20 21:14 [FirstSquawk] Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets - FT
