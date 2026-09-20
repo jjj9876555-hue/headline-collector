@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 19:58 JST／対象: 09/19 19:58 〜 09/20 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-20 20:15 JST／対象: 09/19 20:15 〜 09/20 20:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 212 | 09/19 20:01 | 09/20 19:15 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 208 | 09/19 20:17 | 09/20 20:15 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 35 | 09/19 20:21 | 09/20 19:32 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 253 行（統合前 259 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 249 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 20:01 [FirstSquawk] China's tech rivalry with the U.S. intensifies, border controls are becoming another oversight tool for Beijing. New rules tie entry and exit more closely to national security concerns.
-- 09/19 20:02 [FirstSquawk] U.S. companies and Washington have accused Chinese labs of using distillation to gain ground, denouncing their efforts as theft
-- 09/19 20:02 [FirstSquawk] But a growing chorus of voices is casting doubt on how important distillation is to Chinese AI model development.
-- 09/19 20:03 [FirstSquawk] US, Denmark and Greenland strike a security deal that expands Washington’s role on the Arctic island, ending for now a long-running diplomatic spat without ceding land to the US
-- 09/19 20:14 [FirstSquawk] Iraqi Army: Withdrawal of coalition forces by September 30 will eliminate any justification for moving outside the framework of the state
-- 09/19 20:14 [FirstSquawk] Syrian Ministry of Defense: 11 killed as result of explosion at military post in eastern part of the country
 - 09/19 20:17 [FirstSquawk] CARNEY TAKES HIS INVESTMENT PITCH FROM ‘MAPLE DAVOS’ TO STRASBOURG - FT
 - 09/19 20:17 [FirstSquawk] AI CHATBOTS GIVE WRONG ANSWERS TO FINANCIAL QUERIES ‘MOST OF THE TIME’ - FT
 - 09/19 20:18 [FirstSquawk] JAPAN SUPERMARKET BEGINS TRAINING FOR 100-STORE VIETNAM PUSH - NIKKEI
@@ -277,3 +271,5 @@
 - 09/20 19:31 [financialjuice] Iran's military central command warns of US plans to attack Iran with approval from regional countries: state media
 - 09/20 19:31 [financialjuice] Iran's military central command: regional countries involved in any US attack on Iran shouldn’t expect restraint from Iran’s armed forces - state media
 - 09/20 19:32 [financialjuice] Iran’s central military command: any US strike will prompt unlimited Iranian retaliation on US bases and interests - state media
+- 09/20 20:15 [FirstSquawk] Israeli army: A person who attempted a car-ramming attack targeting soldiers in the West Bank was neutralized.
+- 09/20 20:15 [FirstSquawk] Israeli settler wounded in the shooting attack in Neve Tzuf, in the central West Bank, has died.
