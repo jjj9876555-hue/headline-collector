@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 16:44 JST／対象: 09/20 04:44 〜 09/20 16:44 JST（時刻はすべて日本時間）
+生成: 2026-09-20 16:58 JST／対象: 09/20 04:58 〜 09/20 16:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 99 | 09/20 09:16 | 09/20 16:14 | 38分（15:34→16:13） |
+| FirstSquawk | 106 | 09/20 09:16 | 09/20 16:53 | 38分（15:34→16:13） |
 | financialjuice | 6 | 09/20 08:55 | 09/20 16:39 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 105 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 112 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -129,3 +129,10 @@
 - 09/20 16:14 [FirstSquawk] South Korean universities offer company-linked degrees that provide financial support and pathways to jobs at Samsung Electronics and SK Hynix years before students graduate.
 - 09/20 16:39 [financialjuice] Ukraine's military hit an oil refinery in Russia's Moscow region: Zelenskiy
 - 09/20 16:39 [financialjuice] Iran's parliament speaker Galibaf: strait of Hormuz will stay closed until Tehran's conditions are met - Fars
+- 09/20 16:51 [FirstSquawk] Obama on AI: There’s the big science-fiction risk — these models get smarter than us, and they decide humans are fine, but not necessary. They start setting their own goals and the killer robots, you know, kill us, or we bow down to them.
+- 09/20 16:52 [FirstSquawk] Obama on AI: If we are thinking about AI just in terms of how do we cure cancer or get better energy, you can do that without having agentic AI and having it just roaming free in the internet.
+- 09/20 16:52 [FirstSquawk] Authorities in northern Iran said on Sunday they were investigating an event featuring music and women without mandatory headscarves at a hotel in Nowshahr.
+- 09/20 16:52 [FirstSquawk] Galibaf: strait of Hormuz will stay closed until Tehran's conditions are met
+- 09/20 16:53 [FirstSquawk] State of the Union address, Ursula von der Leyen suggested she wants to see Canada as an associate EU member.
+- 09/20 16:53 [FirstSquawk] Japan prefecture offers free bullet train rides to overseas tourists Kagoshima pilot program seeks to boost local economy by welcoming visitors
+- 09/20 16:53 [FirstSquawk] Obama on Trump's press ban: My imagination could not foresee some of the stuff that’s going on right now. I’m trying to think what would have happened if I had said, "You know what, Fox News, get out of here." It’s unimaginable!

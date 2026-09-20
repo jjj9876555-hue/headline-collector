@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 16:44 JST／対象: 09/19 16:44 〜 09/20 16:44 JST（時刻はすべて日本時間）
+生成: 2026-09-20 16:58 JST／対象: 09/19 16:58 〜 09/20 16:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 214 | 09/19 18:35 | 09/20 16:14 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 48 | 09/19 16:46 | 09/20 16:39 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 221 | 09/19 18:35 | 09/20 16:53 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 44 | 09/19 17:30 | 09/20 16:39 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 268 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 271 行（統合前 277 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 16:46 [financialjuice] Russian forces strike Ukrainian cargo ship and tanker in Black Sea and Ukraine port: IFX
-- 09/19 16:46 [financialjuice] China's central bank advisor: AI may exacerbate strong supply, weak demand in economy
-- 09/19 16:48 [financialjuice] China's central bank advisor: China has rebalanced its economy, but progress is insufficient
-- 09/19 16:50 [financialjuice] China's central bank advisor: stimulating demand is key to rebalancing economy
 - 09/19 17:30 [financialjuice] Moscow electoral system hit by severe attack overnight during voting period: situation under control, IFX cites central election commission head
 - 09/19 17:38 [financialjuice] EU: regrets extension of entry visa denial for Palestinian delegation members at UN General Assembly in NY
 - 09/19 17:39 [financialjuice] EU urges US to reconsider decision
@@ -292,3 +288,10 @@
 - 09/20 16:14 [FirstSquawk] South Korean universities offer company-linked degrees that provide financial support and pathways to jobs at Samsung Electronics and SK Hynix years before students graduate.
 - 09/20 16:39 [financialjuice] Ukraine's military hit an oil refinery in Russia's Moscow region: Zelenskiy
 - 09/20 16:39 [financialjuice] Iran's parliament speaker Galibaf: strait of Hormuz will stay closed until Tehran's conditions are met - Fars
+- 09/20 16:51 [FirstSquawk] Obama on AI: There’s the big science-fiction risk — these models get smarter than us, and they decide humans are fine, but not necessary. They start setting their own goals and the killer robots, you know, kill us, or we bow down to them.
+- 09/20 16:52 [FirstSquawk] Obama on AI: If we are thinking about AI just in terms of how do we cure cancer or get better energy, you can do that without having agentic AI and having it just roaming free in the internet.
+- 09/20 16:52 [FirstSquawk] Authorities in northern Iran said on Sunday they were investigating an event featuring music and women without mandatory headscarves at a hotel in Nowshahr.
+- 09/20 16:52 [FirstSquawk] Galibaf: strait of Hormuz will stay closed until Tehran's conditions are met
+- 09/20 16:53 [FirstSquawk] State of the Union address, Ursula von der Leyen suggested she wants to see Canada as an associate EU member.
+- 09/20 16:53 [FirstSquawk] Japan prefecture offers free bullet train rides to overseas tourists Kagoshima pilot program seeks to boost local economy by welcoming visitors
+- 09/20 16:53 [FirstSquawk] Obama on Trump's press ban: My imagination could not foresee some of the stuff that’s going on right now. I’m trying to think what would have happened if I had said, "You know what, Fox News, get out of here." It’s unimaginable!
