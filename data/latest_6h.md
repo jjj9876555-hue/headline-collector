@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 05:32 JST／対象: 09/20 23:32 〜 09/21 05:32 JST（時刻はすべて日本時間）
+生成: 2026-09-21 05:44 JST／対象: 09/20 23:44 〜 09/21 05:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/20 23:43 | 09/20 23:43 | - |
-| FirstSquawk | 49 | 09/20 23:52 | 09/21 05:27 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 62 | 09/20 23:39 | 09/21 05:13 | ⚠ 69分（03:38→04:48） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 50 | 09/20 23:52 | 09/21 05:41 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 56 | 09/20 23:44 | 09/21 05:13 | ⚠ 69分（03:38→04:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 105 行（統合前 106 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 23:39 [financialjuice] Qatar's prime minister: crisis in Qatar's economy an opportunity to trim government spending and focus investments on priorities
-- 09/20 23:41 [financialjuice] Minneapolis Federal Reserve president Neel Kashkari: Fed’s job is to bring inflation back to 2% target - Fox News interview
-- 09/20 23:41 [financialjuice] Kashkari: Inflation remains too high in Fox News interview
-- 09/20 23:42 [financialjuice] Kashkari: Inflation extends beyond oil prices
-- 09/20 23:42 [financialjuice] Kashkari: Hopefully we'll get support from other parts of government, the real economy
-- 09/20 23:43 [DeItaone] 🟠 TIER 2 IRAN WARNS NEW U.S. ATTACK MAY BE COMING, THREATENS SUSTAINED RETALIATION Iran says it has information that the U.S. and allies are preparing a major new attack, Reuters reported. Tehran’s military command warned any strike would t…
-- 09/20 23:43 [financialjuice] Kashkari: strong investment demand tends to boost interest rates
 - 09/20 23:44 [financialjuice] Kashkari: growth has been fairly robust
 - 09/20 23:44 [financialjuice] Kashkari: American economy remains very resilient despite wars
 - 09/20 23:44 [financialjuice] Kashkari: productivity showing some signs of improvement
@@ -135,3 +128,4 @@
 - 09/21 05:23 [FirstSquawk] FRIEDRICH MERZ SAID HE WOULD STAY AS GERMAN CHANCELLOR DESPITE HIS PARTY'S WORST-EVER STATE ELECTION RESULT, WITH THE CDU WINNING 4.9% IN MECKLENBURG-WESTERN POMERANIA — JUST MISSING THE 5% THRESHOLD TO ENTER PARLIAMENT FOR THE FIRST TIME I…
 - 09/21 05:24 [FirstSquawk] FRIEDRICH MERZ CALLED THE RESULT 'A DISASTER', WITH THE FALLOUT — AFTER A DEFEAT TO THE AFD TWO WEEKS AGO IN SAXONY-ANHALT — PROMPTING CALLS TO PUSH HIM OUT AFTER JUST 16 MONTHS, AS HIS CDU WAS ALSO DEFEATED IN BERLIN BY THE ANTI-CAPITALIST…
 - 09/21 05:27 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI LEFT TEHRAN FOR UN GENERAL ASSEMBLY IN NEW YORK, WITH BRIEF STOP PLANNED IN QATAR - STATE MEDIA
+- 09/21 05:41 [FirstSquawk] ZELENSKY-TRUMP MEETING EXPECTED TUESDAY - AXIOS
