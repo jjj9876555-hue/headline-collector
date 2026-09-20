@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 17:32 JST／対象: 09/19 17:32 〜 09/20 17:32 JST（時刻はすべて日本時間）
+生成: 2026-09-20 17:45 JST／対象: 09/19 17:45 〜 09/20 17:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 221 | 09/19 18:35 | 09/20 16:53 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 43 | 09/19 17:38 | 09/20 16:39 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 227 | 09/19 18:35 | 09/20 17:41 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 40 | 09/19 18:27 | 09/20 16:39 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 270 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 273 行（統合前 279 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 17:38 [financialjuice] EU: regrets extension of entry visa denial for Palestinian delegation members at UN General Assembly in NY
-- 09/19 17:39 [financialjuice] EU urges US to reconsider decision
-- 09/19 17:42 [financialjuice] Russia unaware of hints from US on possible deal signing before Ukraine conflict ends: RIA
 - 09/19 18:27 [financialjuice] Anthropic, OpenAI, Spacexai, Google sued over call to ‘pace’ AI development - Politico
 - 09/19 18:28 [financialjuice] NATO spokesperson: agreement to boost security, stability, and cooperation in vital region
 - 09/19 18:28 [financialjuice] Nato spokesperson: Arctic and North Atlantic vital to collective security
@@ -294,3 +291,9 @@
 - 09/20 16:53 [FirstSquawk] State of the Union address, Ursula von der Leyen suggested she wants to see Canada as an associate EU member.
 - 09/20 16:53 [FirstSquawk] Japan prefecture offers free bullet train rides to overseas tourists Kagoshima pilot program seeks to boost local economy by welcoming visitors
 - 09/20 16:53 [FirstSquawk] Obama on Trump's press ban: My imagination could not foresee some of the stuff that’s going on right now. I’m trying to think what would have happened if I had said, "You know what, Fox News, get out of here." It’s unimaginable!
+- 09/20 17:35 [FirstSquawk] NO Strait of Hormuz reopening until all Iran’s conditions are met — Parliament Speaker Ghalibaf 'Our stance is completely clear, rational, and non-negotiable'
+- 09/20 17:35 [FirstSquawk] Japanese supermarket operator Saeki Selva Holdings plans to enter the Vietnamese market, training workers in both countries on everything from the basics to running entire stores.
+- 09/20 17:36 [FirstSquawk] Iranian Judiciary Chief Gholam-Hossein Mohseni-Ejei was unanimously reelected to chair the Expediency Council’s legal and judicial committee for a fifth consecutive year, state media reported on Sunday.
+- 09/20 17:37 [FirstSquawk] Italy's Defense Minister Guido Crosetto: There must be a reason why TikTok is banned in China even though it is Chinese. And there must be a reason why the messages shown on Chinese TikTok are completely different from those shown on Wester…
+- 09/20 17:38 [FirstSquawk] yen is vulnerable to sharp moves and further declines, with a three-day holiday in Japan set to reduce trading liquidity and investors disappointed that the central bank didn’t offer stronger guidance on the pace of future rate hikes.
+- 09/20 17:41 [FirstSquawk] Iran's Security Council Secretary Rezaei: Trump greatly underestimated Iran. Today, nobody considers America’s war with Iran to be a rational or logical war. Everyone describes it as a stupid war, and I want to add another word to that: ign…
