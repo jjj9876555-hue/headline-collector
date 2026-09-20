@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 17:58 JST／対象: 09/19 17:58 〜 09/20 17:58 JST（時刻はすべて日本時間）
+生成: 2026-09-20 18:16 JST／対象: 09/19 18:16 〜 09/20 18:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 227 | 09/19 18:35 | 09/20 17:41 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 230 | 09/19 18:35 | 09/20 18:16 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 40 | 09/19 18:27 | 09/20 16:39 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 273 行（統合前 279 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 276 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -297,3 +297,6 @@
 - 09/20 17:37 [FirstSquawk] Italy's Defense Minister Guido Crosetto: There must be a reason why TikTok is banned in China even though it is Chinese. And there must be a reason why the messages shown on Chinese TikTok are completely different from those shown on Wester…
 - 09/20 17:38 [FirstSquawk] yen is vulnerable to sharp moves and further declines, with a three-day holiday in Japan set to reduce trading liquidity and investors disappointed that the central bank didn’t offer stronger guidance on the pace of future rate hikes.
 - 09/20 17:41 [FirstSquawk] Iran's Security Council Secretary Rezaei: Trump greatly underestimated Iran. Today, nobody considers America’s war with Iran to be a rational or logical war. Everyone describes it as a stupid war, and I want to add another word to that: ign…
+- 09/20 18:15 [FirstSquawk] AFP": North Korea launches a second unspecified projectile into the Sea of Japan
+- 09/20 18:16 [FirstSquawk] Russians headed to the polls on Sunday for a third and final day of tightly controlled parliamentary elections set to strengthen the Kremlin's grip on power, as the Ukraine war grinds through its fifth year.
+- 09/20 18:16 [FirstSquawk] Iran’s dams were 47% full as of September 19, leaving 53% of their total reservoir capacity empty, state media reported on Sunday.
