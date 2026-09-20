@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 18:58 JST／対象: 09/20 06:58 〜 09/20 18:58 JST（時刻はすべて日本時間）
+生成: 2026-09-20 19:16 JST／対象: 09/20 07:16 〜 09/20 19:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 129 | 09/20 09:16 | 09/20 18:43 | 41分（16:53→17:35） |
+| FirstSquawk | 134 | 09/20 09:16 | 09/20 19:15 | 41分（16:53→17:35） |
 | financialjuice | 8 | 09/20 08:55 | 09/20 18:32 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 137 行（統合前 137 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 142 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -161,3 +161,8 @@
 - 09/20 18:42 [FirstSquawk] AFP: North Korea fires second unidentified projectile into the Sea of ​​Japan
 - 09/20 18:43 [FirstSquawk] Israeli police announce a shooting incident and the injury of a settler in the vicinity of the "Neve Tzuf" settlement, west of Ramallah in the West Bank.
 - 09/20 18:43 [FirstSquawk] Israeli police: Search underway around the settlement of "Neve Tzuf" west of Ramallah and closures imposed after the shooting incident
+- 09/20 19:14 [FirstSquawk] Israeli army: Chief of Staff holds security assessment meeting following shooting attack in Neve Tzuf, central West Bank
+- 09/20 19:14 [FirstSquawk] Israeli army: Chief of Staff orders troop reinforcement after shooting attack in Neve Tzuf, central West Bank
+- 09/20 19:14 [FirstSquawk] Israeli Broadcasting Authority: An Israeli was killed in a shooting attack near the settlement of Neve Tzuf in the central West Bank.
+- 09/20 19:15 [FirstSquawk] Israeli Army Radio: The manhunt continues for the perpetrator of the shooting attack near the settlement of Neve Tzuf in the West Bank.
+- 09/20 19:15 [FirstSquawk] Israeli Army Radio: One person killed and another arrested in a car attack near the settlement of Ganim.
