@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 14:58 JST／対象: 09/20 08:58 〜 09/20 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-20 15:21 JST／対象: 09/20 09:21 〜 09/20 15:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 77 | 09/20 09:16 | 09/20 14:36 | 19分（13:21→13:40） |
+| FirstSquawk | 85 | 09/20 09:28 | 09/20 15:04 | 25分（14:36→15:01） |
 | financialjuice | 3 | 09/20 10:00 | 09/20 12:59 | ⚠ 157分（10:21→12:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 80 行（統合前 80 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 88 行（統合前 88 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 09:16 [FirstSquawk] Toyota steps into extended-range EV segment with new China-built model
-- 09/20 09:17 [FirstSquawk] Leapmotor outpaces Subaru, Mitsubishi Motors in global vehicle sales - NA
 - 09/20 09:28 [FirstSquawk] U.S. STATE DEPARTMENT ISSUES COMPREHENSIVE SECURITY ALERT FOR MIDDLE EAST The U.S. Department of State’s Consular Affairs has urged American citizens in the Middle East to exercise heightened vigilance, citing complex security conditions an…
 - 09/20 09:31 [FirstSquawk] More than 34,000 users without power across Buenos Aires area
 - 09/20 09:32 [FirstSquawk] Pentagon weighs plan to withdraw tens of thousands of US troops from Europe - RTRS
@@ -104,3 +102,13 @@
 - 09/20 14:18 [FirstSquawk] Google executive says Asia is adopting AI faster than perceived
 - 09/20 14:23 [FirstSquawk] Saudi Arabia pulls out of China-led cross-border currency system – FT
 - 09/20 14:36 [FirstSquawk] TotalEnergies comes under renewed scrutiny over handling of Mozambique attack – FT
+- 09/20 15:01 [FirstSquawk] Festive Hiring Boom: New-age operational roles set to grow 15-20%; tier-II, III cities to account for 45% of festive hiring demand
+- 09/20 15:02 [FirstSquawk] Australian, Canadian and U.S. partners are teaming up to revive American tungsten production as China tightens supply.
+- 09/20 15:02 [FirstSquawk] Ukrainian attack on Moscow oil refinery
+- 09/20 15:02 [FirstSquawk] Andrew Yang warns of AI bubble as companies pull back spending over "low ROI"
+- 09/20 15:03 [FirstSquawk] Turkish FM says Saudi Arabia may invoke the trilateral defense agreement to receive military support from Turkey and Pakistan as Houthi attacks continue.
+- 09/20 15:03 [FirstSquawk] Russia claims cyberattacks on voting systems during parliamentary election. It is Russia's first parliamentary election since Moscow launched its full-scale invasion of Ukraine in February 2022.
+- 09/20 15:03 [FirstSquawk] New Russian air campaign focuses on weakening Ukraine’s economy – FT
+- 09/20 15:04 [FirstSquawk] Rising AI activity weighs on Singapore office rents – FT
+- 09/20 15:04 [FirstSquawk] US issues security alert for Americans in West Asia, says Iran war has potential to escalate rapidly
+- 09/20 15:04 [FirstSquawk] Najib remains behind bars as US$12.3 million fine over house arrest remains unresolved – SCMP

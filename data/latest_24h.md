@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 14:58 JST／対象: 09/19 14:58 〜 09/20 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-20 15:21 JST／対象: 09/19 15:21 〜 09/20 15:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 193 | 09/19 16:40 | 09/20 14:36 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 47 | 09/19 15:14 | 09/20 12:59 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 203 | 09/19 16:40 | 09/20 15:04 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 46 | 09/19 16:46 | 09/20 12:59 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 246 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 255 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 15:14 [financialjuice] Iran executes man convicted of sharing missile site details with Israel during war: judiciary site
 - 09/19 16:40 [FirstSquawk] POLAND ARMY: PREEMPTIVE OPERATIONS BEGUN TO PROTECT POLISH AIRSPACE AMID RUSSIAN STRIKES ON UKRAINE
 - 09/19 16:46 [financialjuice] Russian forces strike Ukrainian cargo ship and tanker in Black Sea and Ukraine port: IFX
 - 09/19 16:46 [financialjuice] China's central bank advisor: AI may exacerbate strong supply, weak demand in economy
@@ -270,3 +269,13 @@
 - 09/20 14:18 [FirstSquawk] Google executive says Asia is adopting AI faster than perceived
 - 09/20 14:23 [FirstSquawk] Saudi Arabia pulls out of China-led cross-border currency system – FT
 - 09/20 14:36 [FirstSquawk] TotalEnergies comes under renewed scrutiny over handling of Mozambique attack – FT
+- 09/20 15:01 [FirstSquawk] Festive Hiring Boom: New-age operational roles set to grow 15-20%; tier-II, III cities to account for 45% of festive hiring demand
+- 09/20 15:02 [FirstSquawk] Australian, Canadian and U.S. partners are teaming up to revive American tungsten production as China tightens supply.
+- 09/20 15:02 [FirstSquawk] Ukrainian attack on Moscow oil refinery
+- 09/20 15:02 [FirstSquawk] Andrew Yang warns of AI bubble as companies pull back spending over "low ROI"
+- 09/20 15:03 [FirstSquawk] Turkish FM says Saudi Arabia may invoke the trilateral defense agreement to receive military support from Turkey and Pakistan as Houthi attacks continue.
+- 09/20 15:03 [FirstSquawk] Russia claims cyberattacks on voting systems during parliamentary election. It is Russia's first parliamentary election since Moscow launched its full-scale invasion of Ukraine in February 2022.
+- 09/20 15:03 [FirstSquawk] New Russian air campaign focuses on weakening Ukraine’s economy – FT
+- 09/20 15:04 [FirstSquawk] Rising AI activity weighs on Singapore office rents – FT
+- 09/20 15:04 [FirstSquawk] US issues security alert for Americans in West Asia, says Iran war has potential to escalate rapidly
+- 09/20 15:04 [FirstSquawk] Najib remains behind bars as US$12.3 million fine over house arrest remains unresolved – SCMP
