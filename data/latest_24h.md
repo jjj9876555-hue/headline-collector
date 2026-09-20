@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 08:52 JST／対象: 09/19 08:52 〜 09/20 08:52 JST（時刻はすべて日本時間）
+生成: 2026-09-20 09:07 JST／対象: 09/19 09:07 〜 09/20 09:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
 | FirstSquawk | 220 | 09/19 09:09 | 09/20 03:10 | ⚠ 114分（16:40→18:35） |
-| financialjuice | 54 | 09/19 08:55 | 09/20 04:39 | ⚠ 251分（11:03→15:14） |
+| financialjuice | 50 | 09/19 09:11 | 09/20 08:55 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 280 行（統合前 286 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 276 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 08:55 [financialjuice] Ustr Jamieson Greer to join Treasury Secretary Bessent in meeting with Chinese Vice Premier He Lifeng: statement
-- 09/19 09:00 [financialjuice] Saudi civil defense issues warning over potential hazard in Riyadh
-- 09/19 09:00 [financialjuice] Saudi civil defense issues warning about potential risk in Al Kharj
-- 09/19 09:03 [financialjuice] Anthropic mulls debut of new AI model before IPO, sources say
-- 09/19 09:03 [financialjuice] Anthropic IPO may be delayed until after US midterm elections, sources say
 - 09/19 09:09 [FirstSquawk] Jamieson Greer set to accompany Treasury Secretary Bessent in meeting with China’s Vice Premier He Lifeng
 - 09/19 09:09 [FirstSquawk] Civil Defense alerts Riyadh residents to potential danger
 - 09/19 09:10 [FirstSquawk] Civil Defense alerts Al Kharj residents to potential danger
@@ -304,3 +299,4 @@
 - 09/20 04:01 [financialjuice] Creative ideas emerge on resolving S-400 issue with US, collaboration aims for positive progress
 - 09/20 04:37 [financialjuice] Saudi-led coalition: ballistic missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed on Saturday
 - 09/20 04:39 [financialjuice] Saudi-led coalition: foils Houthi attacks on civilians in Saudi cities Bish, Taif, Farasan, Yanbu
+- 09/20 08:55 [financialjuice] U.S. military: strike on Caribbean vessel over alleged drug trafficking kills four on Saturday

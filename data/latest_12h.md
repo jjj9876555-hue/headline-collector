@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 08:52 JST／対象: 09/19 20:52 〜 09/20 08:52 JST（時刻はすべて日本時間）
+生成: 2026-09-20 09:07 JST／対象: 09/19 21:07 〜 09/20 09:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
 | FirstSquawk | 68 | 09/19 21:20 | 09/20 03:10 | 44分（01:33→02:17） |
-| financialjuice | 22 | 09/20 00:14 | 09/20 04:39 | ⚠ 88分（00:33→02:01） |
+| financialjuice | 23 | 09/20 00:14 | 09/20 08:55 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 96 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 97 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -120,3 +120,4 @@
 - 09/20 04:01 [financialjuice] Creative ideas emerge on resolving S-400 issue with US, collaboration aims for positive progress
 - 09/20 04:37 [financialjuice] Saudi-led coalition: ballistic missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed on Saturday
 - 09/20 04:39 [financialjuice] Saudi-led coalition: foils Houthi attacks on civilians in Saudi cities Bish, Taif, Farasan, Yanbu
+- 09/20 08:55 [financialjuice] U.S. military: strike on Caribbean vessel over alleged drug trafficking kills four on Saturday
