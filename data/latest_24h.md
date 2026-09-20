@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 22:04 JST／対象: 09/19 22:04 〜 09/20 22:04 JST（時刻はすべて日本時間）
+生成: 2026-09-20 22:23 JST／対象: 09/19 22:23 〜 09/20 22:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 216 | 09/19 22:12 | 09/20 21:58 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 198 | 09/19 22:48 | 09/20 22:21 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 38 | 09/20 00:14 | 09/20 21:07 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 260 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 242 行（統合前 248 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 22:12 [FirstSquawk] COOPER REPORTS IRAN HAS SHIPPED NO CRUDE OIL BARRELS DUE TO BLOCKADE.
-- 09/19 22:12 [FirstSquawk] COOPER REPORTS THAT MORE THAN 1 BILLION BARRELS HAVE PASSED THROUGH THE HORMUZ STRAIT IN RECENT MONTHS.
-- 09/19 22:12 [FirstSquawk] FRANCE'S PUBLIC SPENDING REACHED 57.1% OF GDP IN 2026.
-- 09/19 22:12 [FirstSquawk] FRENCH DRAFT BUDGET PLANS FOR PUBLIC SPENDING TO REACH 56.9% OF GDP BY 2027.
-- 09/19 22:12 [FirstSquawk] FRENCH DRAFT BUDGET PROJECTS 2027 TAX REVENUE AT 44.2% OF GDP.
-- 09/19 22:12 [FirstSquawk] FRENCH DRAFT BUDGET PREDICTS DEBT-TO-GDP RATIO OF 121.7% BY 2027.
-- 09/19 22:12 [FirstSquawk] FRANCE'S DEBT-TO-GDP RATIO IS EXPECTED TO REACH 119.3% BY 2026.
-- 09/19 22:12 [FirstSquawk] FRENCH GOVERNMENT EXPECTS NET PRIMARY SPENDING TO INCREASE BY 0.7% IN 2027.
-- 09/19 22:12 [FirstSquawk] FRENCH GOVERNMENT'S SPENDING RISE IS LOWER THAN EU ADVISORY.
-- 09/19 22:12 [FirstSquawk] STOURNARAS STATED THAT THE ECB CANNOT IGNORE ONGOING SUPPLY SHOCKS.
-- 09/19 22:12 [FirstSquawk] ECB'S STOURNARAS SAYS NO SIGN OF SECOND-ROUND EFFECTS YET.
-- 09/19 22:12 [FirstSquawk] STOURNARAS SAYS OCTOBER RATE INCREASE IS POSSIBLE IF INFLATION RISES.
-- 09/19 22:12 [FirstSquawk] STOURNARAS STATED THAT THE ECB SHOULD STAY ALERT TO INFLATION TRENDS.
-- 09/19 22:12 [FirstSquawk] ECB'S STOURNARAS SAYS IT'S WISER TO WAIT UNTIL DECEMBER IF THERE ARE QUESTIONS.
-- 09/19 22:12 [FirstSquawk] ECB MEMBER STOURNARAS SAYS SLOWER GROWTH DATA MAY JUSTIFY A HIATUS.
-- 09/19 22:13 [FirstSquawk] ECB'S STOURNARAS SAYS INFLATION IS ALSO INFLUENCED BY FISCAL POLICIES AND THE AI BOOM.
-- 09/19 22:13 [FirstSquawk] DOMBROVSKIS STATED THAT MEMBER STATES WITH HIGH DEBT NEED TO ACHIEVE FISCAL GOALS.
-- 09/19 22:13 [FirstSquawk] DOMBROVSKIS STATES UKRAINE REQUIRES MORE FINANCIAL SUPPORT.
-- 09/19 22:13 [FirstSquawk] DOMBROVSKIS SAYS UKRAINE MUST MEET REFORM REQUIREMENTS TO SECURE FUNDING.
 - 09/19 22:48 [FirstSquawk] Saudi Arabia activated the air alert in Riyadh following explosions and fires near King Khalid Airport. The attack, attributed to Houthi rebels after their advance in Yemen, disrupted air traffic in the capital.
 - 09/19 22:49 [FirstSquawk] U.S. Dollar has lost 30% of its purchasing power over the last six years
 - 09/19 22:50 [FirstSquawk] France is running out of fuel. 11% of France's stations nationwide are now out of petrol or diesel, one in nine, with 16% of stations short in Grand Est, 15% in Pays de la Loire, 14% in Occitanie, and 13% in Centre-Val de Loire, per governm…
@@ -284,3 +265,4 @@
 - 09/20 21:49 [FirstSquawk] Iranian Quds Force Headquarters: We warn Washington that committing any mistake will make its bases and interests in the region a target for our attacks.
 - 09/20 21:58 [FirstSquawk] Jerusalem Governorate: Israeli National Security Minister Ben Gvir storms the blessed Al-Aqsa Mosque under tight security protection
 - 09/20 21:58 [FirstSquawk] Israeli Army Chief of Staff: Our forces are on high alert, deployed and ready on all fronts
+- 09/20 22:21 [FirstSquawk] Yemeni government forces: Warplanes target Houthi militia elements and equipment in Al-Bayda Governorate

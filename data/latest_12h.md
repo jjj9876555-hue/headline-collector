@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 22:04 JST／対象: 09/20 10:04 〜 09/20 22:04 JST（時刻はすべて日本時間）
+生成: 2026-09-20 22:23 JST／対象: 09/20 10:23 〜 09/20 22:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 151 | 09/20 10:05 | 09/20 21:58 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 14 | 09/20 10:21 | 09/20 21:07 | ⚠ 220分（12:59→16:39） |
+| FirstSquawk | 144 | 09/20 10:35 | 09/20 22:21 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 13 | 09/20 12:59 | 09/20 21:07 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 165 行（統合前 165 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 157 行（統合前 157 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 10:05 [FirstSquawk] China sees record 3.32 billion rail passenger trips through August, up 3.9%
-- 09/20 10:06 [FirstSquawk] China leaves five-year loan prime rate unchanged at 3.50%
-- 09/20 10:06 [FirstSquawk] Coalition says Houthi attacks targeting civilians in Bish, Taif, Farasan and Yanbu foiled
-- 09/20 10:07 [FirstSquawk] Houthi ballistic missile launched toward Riyadh intercepted, Saudi coalition says
-- 09/20 10:07 [FirstSquawk] Stanley Druckenmiller says AI boom could be creating an ‘earnings bubble’
-- 09/20 10:21 [FirstSquawk] WSJ: Polymarket employees raised concerns as fraudsters exploited the platform
-- 09/20 10:21 [financialjuice] China central bank injects 32 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/20 10:21 [FirstSquawk] Diesel exports plunge as wars disrupt supplies from Persian Gulf, Russia
-- 09/20 10:22 [FirstSquawk] Diesel exports plunge as wars disrupt supplies from Persian Gulf, Russia - WSJ
 - 09/20 10:35 [FirstSquawk] Trump announces ‘AI Force,’ plans to name AI czar soon
 - 09/20 10:36 [FirstSquawk] Venezuela, TotalEnergies sign memorandum as oil sector seeks revival - RTRS
 - 09/20 10:37 [FirstSquawk] China central bank keeps 7-day reverse repo rate at 1.40%, injects 32 billion yuan
@@ -189,3 +180,4 @@
 - 09/20 21:49 [FirstSquawk] Iranian Quds Force Headquarters: We warn Washington that committing any mistake will make its bases and interests in the region a target for our attacks.
 - 09/20 21:58 [FirstSquawk] Jerusalem Governorate: Israeli National Security Minister Ben Gvir storms the blessed Al-Aqsa Mosque under tight security protection
 - 09/20 21:58 [FirstSquawk] Israeli Army Chief of Staff: Our forces are on high alert, deployed and ready on all fronts
+- 09/20 22:21 [FirstSquawk] Yemeni government forces: Warplanes target Houthi militia elements and equipment in Al-Bayda Governorate
