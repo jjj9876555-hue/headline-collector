@@ -7,50 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 18:31 JST／対象: 09/19 18:31 〜 09/20 18:31 JST（時刻はすべて日本時間）
+生成: 2026-09-20 18:44 JST／対象: 09/19 18:44 〜 09/20 18:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 235 | 09/19 18:35 | 09/20 18:18 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 36 | 09/19 18:40 | 09/20 18:18 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 218 | 09/19 19:16 | 09/20 18:43 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 36 | 09/19 19:22 | 09/20 18:32 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 277 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 260 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 18:35 [FirstSquawk] Goldman's chief US stock strategist says AI capex as a force propping up S&P 500 earnings will wane next year.
-- 09/19 18:35 [FirstSquawk] Heard on the Street: The last time the Fed was hiking rates, corporate bonds got slammed. They might fare much better this time around.
-- 09/19 18:35 [FirstSquawk] US share in India’s software service exports rises to 54% amid trade war
-- 09/19 18:35 [FirstSquawk] Russia unveils plasma thruster for next generation nanosatellite swarms Engineers from the Moscow Aviation Institute and Samara National Research University have developed a compact propulsion system that could let tiny spacecraft maneuver …
-- 09/19 18:36 [FirstSquawk] NATO: The Alliance will continue to fulfill its role in enhancing security in the Arctic
-- 09/19 18:36 [FirstSquawk] NATO: The Arctic and the North Atlantic are two essential regions for our collective security
-- 09/19 18:36 [FirstSquawk] No relief in sight for U.S. drivers as gas and diesel prices surge.
-- 09/19 18:36 [FirstSquawk] US approves possible $2.7 billion sale to support Ukraine's air defense. The package includes S-300 Clone and GAM-67 missiles, radar systems for countering drones, range-extended laser-guided air defense systems, counter-drone radars, mobil…
-- 09/19 18:36 [FirstSquawk] Iranian Foreign Minister Abbas Araghchi spoke by phone with his Pakistani counterpart
-- 09/19 18:38 [FirstSquawk] Vladimir Putin claimed Moscow has no aggressive intentions and is ready to restore relations with European neighbors. He also accused European leaders of warning of war to distract from domestic crises.
-- 09/19 18:38 [FirstSquawk] Interfax: Moscow's voting system is under a strong cyberattack during parliamentary elections
-- 09/19 18:38 [FirstSquawk] OpenAI Will Not Make a Profit Before 2030, Projects $278B Cash Burn Fundraising remains central to OpenAI's survival, as the company's capital could be exhausted in 2028, and it forecasts $278 billion in negative free cash flow from 2026 th…
-- 09/19 18:38 [FirstSquawk] Yemeni sources: Experts from the Iranian Revolutionary Guards visited the port and airport of Mokha and the Bab al-Mandab area
-- 09/19 18:38 [FirstSquawk] Yemeni sources: The Houthis have begun to install radars on the hills overlooking the southern Red Sea
-- 09/19 18:38 [FirstSquawk] Pentagon probe found that the Feb. 28 US missile strike on an Iranian elementary school in Minab — killing 123 children — resulted from a cascade of failures.
-- 09/19 18:38 [FirstSquawk] European Union: We urge Washington to reconsider the decision to ban the entry of entry visas for members of the Palestinian delegation to the UN General Assembly
-- 09/19 18:38 [FirstSquawk] Russia denies knowledge of possible US desire to sign agreements before war in Ukraine ends
-- 09/19 18:38 [FirstSquawk] DOJ: Man pleads guilty to stolen valor and defrauding VA out of $124K in benefits
-- 09/19 18:38 [FirstSquawk] Lebanese media: 4 Israeli raids target the town of Nabatieh al-Fawqa in southern Lebanon
-- 09/19 18:39 [FirstSquawk] Yemeni sources: Iranian equipment has arrived in Houthi-controlled areas on the west coast
-- 09/19 18:39 [FirstSquawk] Yemeni sources: The unloading of the shipments took place secretly after they came from the coast of Somalia
-- 09/19 18:39 [FirstSquawk] NATO: We welcome the announcement of the imminent signing of an agreement between the United States, Denmark and Greenland
-- 09/19 18:39 [FirstSquawk] NATO: The Arctic and the North Atlantic are key areas for our collective security
-- 09/19 18:39 [FirstSquawk] NATO: NATO will continue to play its role in enhancing Arctic security
-- 09/19 18:40 [FirstSquawk] Russian Central Election Commission: Voter turnout in the State Duma elections has so far reached 31.09% nationwide
-- 09/19 18:40 [financialjuice] Russia’s digital ministry reports attempt to sabotage communication lines in far east to disrupt election
-- 09/19 18:41 [FirstSquawk] RUSSIA'S DIGITAL MINISTRY: REPORTS ATTEMPT TO SABOTAGE COMMUNICATION LINES IN COUNTRY'S FAR EAST TO DISRUPT HOLDING OF ELECTIONS - IFX
 - 09/19 19:16 [FirstSquawk] Former CIA Director David Petraeus: There are some countries in the Middle East, for example, that have bought interceptors for years. Yes, they’re under pressure from Iran.
 - 09/19 19:18 [FirstSquawk] Denmark hopes a breakthrough with Washington will end uncertainty over Greenland
 - 09/19 19:20 [FirstSquawk] Pakistan's Foreign Ministry: The Foreign Minister emphasized the necessity of protecting energy supplies and ensuring safe passage for ship
@@ -301,3 +274,13 @@
 - 09/20 18:18 [FirstSquawk] Iran cannot fully control every domestic or international media outlet and should instead strengthen its own narratives to counter “enemy psychological operations,” the interior ministry spokesman said on Sunday.
 - 09/20 18:18 [financialjuice] PTI Punjab spokesman: Aleema Khan, sister of jailed former Pakistan Prime Minister Imran Khan, detained ahead of PTI long march on September 27
 - 09/20 18:18 [FirstSquawk] Iran's Security Council Secretary Rezaei: America and Trump will leave. Everyone knows that the American economy is, in reality, on a path toward collapse. Within the next 10 years, America will not be as it is today.
+- 09/20 18:32 [financialjuice] Japan defense ministry: no confirmation if second missile landed inside Japan's EEZ
+- 09/20 18:41 [FirstSquawk] Zelensky: We targeted facilities in Russia worth billions of dollars that fuel the Russian war machine
+- 09/20 18:41 [FirstSquawk] Qalibaf: We do not want an endless war and to keep Iran hostage to a permanent crisis.
+- 09/20 18:42 [FirstSquawk] Qalibaf: The internal vision that embraces war and rejects diplomacy is pushing Iran toward attrition.
+- 09/20 18:42 [FirstSquawk] During his meeting with the Director of the US Central Intelligence Agency, the Egyptian President called for a comprehensive agreement to end the Iranian crisis.
+- 09/20 18:42 [FirstSquawk] Sisi affirms his rejection of any aggression against Arab countries and the necessity of resolving crises through political and diplomatic channels.
+- 09/20 18:42 [FirstSquawk] Japanese government says North Korea launched what is believed to be a ballistic missile.
+- 09/20 18:42 [FirstSquawk] AFP: North Korea fires second unidentified projectile into the Sea of ​​Japan
+- 09/20 18:43 [FirstSquawk] Israeli police announce a shooting incident and the injury of a settler in the vicinity of the "Neve Tzuf" settlement, west of Ramallah in the West Bank.
+- 09/20 18:43 [FirstSquawk] Israeli police: Search underway around the settlement of "Neve Tzuf" west of Ramallah and closures imposed after the shooting incident

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 18:31 JST／対象: 09/20 12:31 〜 09/20 18:31 JST（時刻はすべて日本時間）
+生成: 2026-09-20 18:44 JST／対象: 09/20 12:44 〜 09/20 18:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 62 | 09/20 12:34 | 09/20 18:18 | 41分（16:53→17:35） |
-| financialjuice | 4 | 09/20 12:59 | 09/20 18:18 | ⚠ 220分（12:59→16:39） |
+| FirstSquawk | 70 | 09/20 12:47 | 09/20 18:43 | 41分（16:53→17:35） |
+| financialjuice | 5 | 09/20 12:59 | 09/20 18:32 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 66 行（統合前 66 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 75 行（統合前 75 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 12:34 [FirstSquawk] South Korea records 0.9% decline in greenhouse gas emissions last year – Yonhap
 - 09/20 12:47 [FirstSquawk] South Korea’s internet-only banks see small-business lending rise more than 50% in H1 as household lending rules tighten - YONHAP
 - 09/20 12:53 [FirstSquawk] CXMT unveils 24-Gbit LPDDR5X products using new platform, executive says
 - 09/20 12:59 [financialjuice] Facility at Moscow oil refinery damaged in ongoing drone assault: TASS citing Mayor Sergey Sobyanin
@@ -90,3 +89,13 @@
 - 09/20 18:18 [FirstSquawk] Iran cannot fully control every domestic or international media outlet and should instead strengthen its own narratives to counter “enemy psychological operations,” the interior ministry spokesman said on Sunday.
 - 09/20 18:18 [financialjuice] PTI Punjab spokesman: Aleema Khan, sister of jailed former Pakistan Prime Minister Imran Khan, detained ahead of PTI long march on September 27
 - 09/20 18:18 [FirstSquawk] Iran's Security Council Secretary Rezaei: America and Trump will leave. Everyone knows that the American economy is, in reality, on a path toward collapse. Within the next 10 years, America will not be as it is today.
+- 09/20 18:32 [financialjuice] Japan defense ministry: no confirmation if second missile landed inside Japan's EEZ
+- 09/20 18:41 [FirstSquawk] Zelensky: We targeted facilities in Russia worth billions of dollars that fuel the Russian war machine
+- 09/20 18:41 [FirstSquawk] Qalibaf: We do not want an endless war and to keep Iran hostage to a permanent crisis.
+- 09/20 18:42 [FirstSquawk] Qalibaf: The internal vision that embraces war and rejects diplomacy is pushing Iran toward attrition.
+- 09/20 18:42 [FirstSquawk] During his meeting with the Director of the US Central Intelligence Agency, the Egyptian President called for a comprehensive agreement to end the Iranian crisis.
+- 09/20 18:42 [FirstSquawk] Sisi affirms his rejection of any aggression against Arab countries and the necessity of resolving crises through political and diplomatic channels.
+- 09/20 18:42 [FirstSquawk] Japanese government says North Korea launched what is believed to be a ballistic missile.
+- 09/20 18:42 [FirstSquawk] AFP: North Korea fires second unidentified projectile into the Sea of ​​Japan
+- 09/20 18:43 [FirstSquawk] Israeli police announce a shooting incident and the injury of a settler in the vicinity of the "Neve Tzuf" settlement, west of Ramallah in the West Bank.
+- 09/20 18:43 [FirstSquawk] Israeli police: Search underway around the settlement of "Neve Tzuf" west of Ramallah and closures imposed after the shooting incident
