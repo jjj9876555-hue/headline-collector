@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 09:32 JST／対象: 09/20 03:32 〜 09/20 09:32 JST（時刻はすべて日本時間）
+生成: 2026-09-20 09:49 JST／対象: 09/20 03:49 〜 09/20 09:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/20 03:32 | 09/20 03:47 | 15分（03:32→03:47） |
-| FirstSquawk | 4 | 09/20 09:16 | 09/20 09:31 | 10分（09:17→09:28） |
-| financialjuice | 7 | 09/20 03:32 | 09/20 08:55 | ⚠ 256分（04:39→08:55） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 7 | 09/20 09:16 | 09/20 09:43 | 10分（09:17→09:28） |
+| financialjuice | 5 | 09/20 03:58 | 09/20 08:55 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 13 行（統合前 13 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 12 行（統合前 12 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 03:32 [DeItaone] U.S.-CHINA TALKS SET AHEAD OF TRUMP-XI SUMMIT Treasury Secretary Scott Bessent will meet Chinese Vice Premier He Lifeng on Sunday in New York to discuss AI security, trade and broader economic issues. The talks come just days before Trump h…
-- 09/20 03:32 [financialjuice] Turkish foreign minister: initiatives exist to end Ukraine-Russia war, but hard for lasting solution
-- 09/20 03:38 [financialjuice] Turkish foreign minister: sent proposal to Ukraine, Russia to halt fighting in Black Sea, awaiting replies
-- 09/20 03:47 [DeItaone] TURKISH FOREIGN MINISTER: WE HAVE SENT OFFER TO UKRAINE, RUSSIA TO END FIGHTING IN THE BLACK SEA, AWAITING THEIR RESPONSES
 - 09/20 03:58 [financialjuice] Turkish foreign minister: Creative ideas exist on resolving S-400 issue with US, collaborating to achieve solutions and anticipating positive progress
 - 09/20 04:01 [financialjuice] Creative ideas emerge on resolving S-400 issue with US, collaboration aims for positive progress
 - 09/20 04:37 [financialjuice] Saudi-led coalition: ballistic missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed on Saturday
@@ -37,3 +33,6 @@
 - 09/20 09:17 [FirstSquawk] Leapmotor outpaces Subaru, Mitsubishi Motors in global vehicle sales - NA
 - 09/20 09:28 [FirstSquawk] U.S. STATE DEPARTMENT ISSUES COMPREHENSIVE SECURITY ALERT FOR MIDDLE EAST The U.S. Department of State’s Consular Affairs has urged American citizens in the Middle East to exercise heightened vigilance, citing complex security conditions an…
 - 09/20 09:31 [FirstSquawk] More than 34,000 users without power across Buenos Aires area
+- 09/20 09:32 [FirstSquawk] Pentagon weighs plan to withdraw tens of thousands of US troops from Europe - RTRS
+- 09/20 09:42 [FirstSquawk] FBI reportedly warns of fake dating profiles targeting ICE agents
+- 09/20 09:43 [FirstSquawk] American dream’ continues to produce millionaires, WSJ reports

@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 09:32 JST／対象: 09/19 09:32 〜 09/20 09:32 JST（時刻はすべて日本時間）
+生成: 2026-09-20 09:49 JST／対象: 09/19 09:49 〜 09/20 09:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 214 | 09/19 09:50 | 09/20 09:31 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 217 | 09/19 09:50 | 09/20 09:43 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 48 | 09/19 10:03 | 09/20 08:55 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 268 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 271 行（統合前 277 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -292,3 +292,6 @@
 - 09/20 09:17 [FirstSquawk] Leapmotor outpaces Subaru, Mitsubishi Motors in global vehicle sales - NA
 - 09/20 09:28 [FirstSquawk] U.S. STATE DEPARTMENT ISSUES COMPREHENSIVE SECURITY ALERT FOR MIDDLE EAST The U.S. Department of State’s Consular Affairs has urged American citizens in the Middle East to exercise heightened vigilance, citing complex security conditions an…
 - 09/20 09:31 [FirstSquawk] More than 34,000 users without power across Buenos Aires area
+- 09/20 09:32 [FirstSquawk] Pentagon weighs plan to withdraw tens of thousands of US troops from Europe - RTRS
+- 09/20 09:42 [FirstSquawk] FBI reportedly warns of fake dating profiles targeting ICE agents
+- 09/20 09:43 [FirstSquawk] American dream’ continues to produce millionaires, WSJ reports
