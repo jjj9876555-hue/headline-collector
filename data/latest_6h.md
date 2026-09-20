@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 19:16 JST／対象: 09/20 13:16 〜 09/20 19:16 JST（時刻はすべて日本時間）
+生成: 2026-09-20 19:32 JST／対象: 09/20 13:32 〜 09/20 19:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 70 | 09/20 13:21 | 09/20 19:15 | 41分（16:53→17:35） |
-| financialjuice | 4 | 09/20 16:39 | 09/20 18:32 | ⚠ 98分（16:39→18:18） |
+| FirstSquawk | 69 | 09/20 13:40 | 09/20 19:15 | 41分（16:53→17:35） |
+| financialjuice | 6 | 09/20 16:39 | 09/20 19:31 | ⚠ 98分（16:39→18:18） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 74 行（統合前 74 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 75 行（統合前 75 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 13:21 [FirstSquawk] China struggles to attract sovereign wealth funds amid ongoing property woes
 - 09/20 13:40 [FirstSquawk] Samsung executives share long-term AI strategy and discuss latest technology trends at U.S. forum - YONHAP
 - 09/20 13:47 [FirstSquawk] Luxembourg’s oldest bank heads for €2.5bn sale under Chinese ownership – FT
 - 09/20 13:51 [FirstSquawk] Malaysia’s Solarvest targets growth in batteries and power trading beyond solar – Nikkei Asia
@@ -98,3 +97,5 @@
 - 09/20 19:14 [FirstSquawk] Israeli Broadcasting Authority: An Israeli was killed in a shooting attack near the settlement of Neve Tzuf in the central West Bank.
 - 09/20 19:15 [FirstSquawk] Israeli Army Radio: The manhunt continues for the perpetrator of the shooting attack near the settlement of Neve Tzuf in the West Bank.
 - 09/20 19:15 [FirstSquawk] Israeli Army Radio: One person killed and another arrested in a car attack near the settlement of Ganim.
+- 09/20 19:31 [financialjuice] Iran's military central command warns of US plans to attack Iran with approval from regional countries: state media
+- 09/20 19:31 [financialjuice] Iran's military central command: regional countries involved in any US attack on Iran shouldn’t expect restraint from Iran’s armed forces - state media
