@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 14:01 JST／対象: 09/19 14:01 〜 09/20 14:01 JST（時刻はすべて日本時間）
+生成: 2026-09-20 14:18 JST／対象: 09/19 14:18 〜 09/20 14:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 198 | 09/19 14:04 | 09/20 13:59 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 200 | 09/19 14:23 | 09/20 14:18 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 47 | 09/19 15:14 | 09/20 12:59 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 251 行（統合前 257 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 253 行（統合前 259 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 14:04 [FirstSquawk] South Korea’s Cheong Wa Dae says Lee’s remarks do not amount to rejecting Trump’s Hormuz request – Yonhap
-- 09/19 14:16 [FirstSquawk] North Korea rejects IAEA resolution, pledges to maintain nuclear arsenal amid US threats – Yonhap
 - 09/19 14:23 [FirstSquawk] Suspected Chinese marine research vessel leaves Japan’s EEZ – Kyodo
 - 09/19 14:31 [FirstSquawk] Trump and Senate’s Thune discuss legislation to lower data-center electricity costs – Reuters
 - 09/19 14:41 [FirstSquawk] Trump to greet Xi at air base as Chinese president arrives, officials say – NA
@@ -275,3 +273,7 @@
 - 09/20 13:58 [FirstSquawk] Meta mounts another legal challenge to UK’s Online Safety Act – FT
 - 09/20 13:58 [FirstSquawk] Israel’s settler economy faces growing risk of European sanctions – FT
 - 09/20 13:59 [FirstSquawk] Novo investors urge company to pursue deals and expand its drug pipeline – FT
+- 09/20 14:03 [FirstSquawk] Israeli airstrike hits outskirts of Sarbine in southern Lebanon, Lebanese News Agency reports
+- 09/20 14:04 [FirstSquawk] U.S. warns Americans of potential flight cancellations, airspace closures and travel disruptions in Middle East
+- 09/20 14:17 [FirstSquawk] Price fall makes biodiesel a cheaper fuel option for shipping than conventional alternatives – FT
+- 09/20 14:18 [FirstSquawk] Google executive says Asia is adopting AI faster than perceived

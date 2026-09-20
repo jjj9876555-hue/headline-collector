@@ -7,33 +7,26 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 14:01 JST／対象: 09/20 02:01 〜 09/20 14:01 JST（時刻はすべて日本時間）
+生成: 2026-09-20 14:18 JST／対象: 09/20 02:18 〜 09/20 14:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/20 02:11 | 09/20 03:47 | ⚠ 74分（02:18→03:32） |
-| FirstSquawk | 80 | 09/20 02:17 | 09/20 13:59 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 21 | 09/20 02:01 | 09/20 12:59 | ⚠ 256分（04:39→08:55） |
+| DeItaone | 2 | 09/20 03:32 | 09/20 03:47 | 15分（03:32→03:47） |
+| FirstSquawk | 80 | 09/20 02:21 | 09/20 14:18 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 15 | 09/20 03:13 | 09/20 12:59 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 100 行（統合前 106 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 97 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 02:01 [financialjuice/FirstSquawk] Yemen's Houthis: Attack on Aramco facility in Yanbu
-- 09/20 02:02 [financialjuice/FirstSquawk] Yemen's Houthis: 'sensitive' sites in Riyadh targeted with ballistic missiles, drones
-- 09/20 02:04 [financialjuice/FirstSquawk] No immediate Saudi confirmation of Houthi statement
-- 09/20 02:11 [DeItaone] YEMEN'S HOUTHIS SAY THEY ATTACKED ARAMCO FACILITY IN YANBU YEMEN'S HOUTHIS SAY THEY WILL CONTINUE TARGETING SAUDI MILITARY BUILD-UPS UNTIL BLOCKADE END
-- 09/20 02:14 [financialjuice/FirstSquawk] Pakistani interior minister visits Iran on bilateral ties: Iran foreign ministry spokesperson to Iranian state TV, unaware of any US message
-- 09/20 02:14 [financialjuice/FirstSquawk] Trump on AI: I am creating AI force, similar to space force
-- 09/20 02:15 [financialjuice/FirstSquawk] Trump on Al: will announce new "czar" soon
-- 09/20 02:18 [DeItaone] TRUMP ON AI: I AM FORMING AI FORCE, MUCH LIKE I DID SPACE FORCE
-- 09/20 02:18 [FirstSquawk] Yemen's Houthis say they will keep targeting Saudi military build-ups until blockade ends
-- 09/20 02:18 [DeItaone] *TRUMP SAYS AI COULD REACH 25% OF US GDP
+- 09/20 02:21 [FirstSquawk] Pakistani interior minister visits Iran on bilateral ties: Iran foreign ministry spokesperson to Iranian state TV, unaware of any US message
+- 09/20 02:22 [FirstSquawk] Trump on AI: I am creating AI force, similar to space force
+- 09/20 02:22 [FirstSquawk] Trump on Al: will announce new "czar" soon
 - 09/20 02:50 [FirstSquawk] Israeli Army: We killed a commander in the military wing of the Hamas movement in the Khan Younis area of the Gaza Strip last Thursday
 - 09/20 03:10 [FirstSquawk] Israeli army announces the killing of a Hamas leader who entered Israel during the events of October 7.
 - 09/20 03:13 [financialjuice] US Treasury's Bessent, USTR Greer to meet Chinese Vice Premier He Lifeng on Sunday at JPMorgan headquarters in New York - source
@@ -124,3 +117,7 @@
 - 09/20 13:58 [FirstSquawk] Meta mounts another legal challenge to UK’s Online Safety Act – FT
 - 09/20 13:58 [FirstSquawk] Israel’s settler economy faces growing risk of European sanctions – FT
 - 09/20 13:59 [FirstSquawk] Novo investors urge company to pursue deals and expand its drug pipeline – FT
+- 09/20 14:03 [FirstSquawk] Israeli airstrike hits outskirts of Sarbine in southern Lebanon, Lebanese News Agency reports
+- 09/20 14:04 [FirstSquawk] U.S. warns Americans of potential flight cancellations, airspace closures and travel disruptions in Middle East
+- 09/20 14:17 [FirstSquawk] Price fall makes biodiesel a cheaper fuel option for shipping than conventional alternatives – FT
+- 09/20 14:18 [FirstSquawk] Google executive says Asia is adopting AI faster than perceived
