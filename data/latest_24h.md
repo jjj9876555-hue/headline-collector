@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 22:41 JST／対象: 09/19 22:41 〜 09/20 22:41 JST（時刻はすべて日本時間）
+生成: 2026-09-20 22:53 JST／対象: 09/19 22:53 〜 09/20 22:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 202 | 09/19 22:48 | 09/20 22:41 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 202 | 09/19 23:13 | 09/20 22:42 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 38 | 09/20 00:14 | 09/20 21:07 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 246 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 241 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 22:48 [FirstSquawk] Saudi Arabia activated the air alert in Riyadh following explosions and fires near King Khalid Airport. The attack, attributed to Houthi rebels after their advance in Yemen, disrupted air traffic in the capital.
-- 09/19 22:49 [FirstSquawk] U.S. Dollar has lost 30% of its purchasing power over the last six years
-- 09/19 22:50 [FirstSquawk] France is running out of fuel. 11% of France's stations nationwide are now out of petrol or diesel, one in nine, with 16% of stations short in Grand Est, 15% in Pays de la Loire, 14% in Occitanie, and 13% in Centre-Val de Loire, per governm…
-- 09/19 22:50 [FirstSquawk] official count only registers a station as short if it has no petrol at all or no diesel at all, so a station out of one grade but holding another is not counted, meaning the real shortage is much larger. French diesel averages €2.406 a lit…
-- 09/19 22:50 [FirstSquawk] Europe is facing its worst energy crisis in history.
 - 09/19 23:13 [FirstSquawk] Lebanese News Agency: Artillery shelling targets Wadi Zabqin and the Israeli army burns more houses in the town of Mansouri in southern Lebanon
 - 09/19 23:13 [FirstSquawk] Lebanese News Agency: Two Israeli bombings in the towns of Compound and Taloussa in southern Lebanon
 - 09/19 23:13 [FirstSquawk] Lebanese News Agency: Artillery shelling targets Wadi Zabqin in southern Lebanon
@@ -243,18 +238,18 @@
 - 09/20 20:16 [FirstSquawk] Russian Central Election Commission: Voter turnout in Duma elections exceeded 50%
 - 09/20 20:16 [FirstSquawk] Netanyahu, commenting on the shooting attacks in the West Bank: No one is immune from punishment, whether in Gaza, Lebanon, or the West Bank.
 - 09/20 20:16 [FirstSquawk] Netanyahu orders increased military presence in the West Bank, imposing closures, carrying out arrest campaigns, and demolishing the home of the perpetrator.
-- 09/20 20:37 [financialjuice] Trump: at strong request of US military and for national security, agrees to transform triumphal arch into a high-level military complex
+- 09/20 20:37 [financialjuice/FirstSquawk] Trump: at strong request of US military and for national security, agrees to transform triumphal arch into a high-level military complex
 - 09/20 20:38 [FirstSquawk] Israeli Army Radio: The number of battalions deployed in the West Bank and Central Command is 27, the highest since the beginning of the war.
 - 09/20 20:38 [FirstSquawk] Israeli Defense Minister: The army and security forces are on high alert to protect the borders and Israelis everywhere
 - 09/20 20:38 [FirstSquawk] Israeli Channel 14: Reports of an attempted car-ramming attack targeting two Israelis near Silwad, east of Ramallah; driver arrested.
 - 09/20 20:38 [FirstSquawk] Israeli occupation forces stormed a hospital in the Al-Irsal neighborhood of Ramallah after receiving information that a wounded man was inside, believed to be the perpetrator of the Neve Tzuf attack.
 - 09/20 20:38 [FirstSquawk] Yedioth Ahronoth: The perpetrator of the attack in Neve Tzuf, in the central West Bank, has been arrested.
-- 09/20 20:38 [financialjuice] Trump: Military complex to accommodate, store, deploy numerous drones, snipers on roof and plaza, and store large sniper ammo supplies
+- 09/20 20:38 [financialjuice/FirstSquawk] Trump: Military complex to accommodate, store, deploy numerous drones, snipers on roof and plaza, and store large sniper ammo supplies
 - 09/20 20:39 [FirstSquawk] Israeli Channel 12: A force from the Duvdevan unit arrested the perpetrator of the attack in Neve Tzuf in the central West Bank.
 - 09/20 20:39 [FirstSquawk] Israeli occupation forces arrest a wounded young man from a hospital in Ramallah on charges of opening fire in Neve Tzuf, which resulted in the death of a settler.
-- 09/20 20:42 [financialjuice] Trump: I have agreed to transform triumphal arch into a top military complex
-- 09/20 21:00 [financialjuice] Iran shuts down unauthorized center linked to French embassy: Tasnim
-- 09/20 21:07 [financialjuice] Moscow’s remote voting system and voter list face large-scale hacking attacks: voting services operating normally, city election official says
+- 09/20 20:42 [financialjuice/FirstSquawk] Trump: I have agreed to transform triumphal arch into a top military complex
+- 09/20 21:00 [financialjuice/FirstSquawk] Iran shuts down unauthorized center linked to French embassy: Tasnim
+- 09/20 21:07 [financialjuice/FirstSquawk] Moscow’s remote voting system and voter list face large-scale hacking attacks: voting services operating normally, city election official says
 - 09/20 21:13 [FirstSquawk] Ukraine hits Moscow with ‘largest ever’ drone attack - FT
 - 09/20 21:13 [FirstSquawk] Biodiesel for shipping now cheaper than conventional fuels after price fall- FT
 - 09/20 21:13 [FirstSquawk] US retailer rations motor oil as prices quadruple and supplies run dry- FT
