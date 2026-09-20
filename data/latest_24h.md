@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 18:16 JST／対象: 09/19 18:16 〜 09/20 18:16 JST（時刻はすべて日本時間）
+生成: 2026-09-20 18:31 JST／対象: 09/19 18:31 〜 09/20 18:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 230 | 09/19 18:35 | 09/20 18:16 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 40 | 09/19 18:27 | 09/20 16:39 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 235 | 09/19 18:35 | 09/20 18:18 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 36 | 09/19 18:40 | 09/20 18:18 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 276 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 277 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 18:27 [financialjuice] Anthropic, OpenAI, Spacexai, Google sued over call to ‘pace’ AI development - Politico
-- 09/19 18:28 [financialjuice] NATO spokesperson: agreement to boost security, stability, and cooperation in vital region
-- 09/19 18:28 [financialjuice] Nato spokesperson: Arctic and North Atlantic vital to collective security
-- 09/19 18:28 [financialjuice] NATO spokesperson: we welcome announcement of imminent agreement between the US, Denmark, and Greenland
-- 09/19 18:28 [financialjuice] Nato Spokesperson: Alliance will keep strengthening security in the Arctic
 - 09/19 18:35 [FirstSquawk] Goldman's chief US stock strategist says AI capex as a force propping up S&P 500 earnings will wane next year.
 - 09/19 18:35 [FirstSquawk] Heard on the Street: The last time the Fed was hiking rates, corporate bonds got slammed. They might fare much better this time around.
 - 09/19 18:35 [FirstSquawk] US share in India’s software service exports rises to 54% amid trade war
@@ -300,3 +295,9 @@
 - 09/20 18:15 [FirstSquawk] AFP": North Korea launches a second unspecified projectile into the Sea of Japan
 - 09/20 18:16 [FirstSquawk] Russians headed to the polls on Sunday for a third and final day of tightly controlled parliamentary elections set to strengthen the Kremlin's grip on power, as the Ukraine war grinds through its fifth year.
 - 09/20 18:16 [FirstSquawk] Iran’s dams were 47% full as of September 19, leaving 53% of their total reservoir capacity empty, state media reported on Sunday.
+- 09/20 18:16 [FirstSquawk] Iran's Security Council Secretary Rezaei: The Israelis blew up the empty tunnels in Lebanon for propaganda and for an election spectacle. They took photographs and videos and said, "Look how strong Netanyahu is."
+- 09/20 18:17 [FirstSquawk] Iran's Security Council Secretary Rezaei: Now Yemeni forces have gone to Bab el-Mandeb, taken control of it and deployed there, and they say this happened at Iran’s instigation.
+- 09/20 18:17 [FirstSquawk] Trump vows to form "AI Force," says he won't allow slowdown of AI development
+- 09/20 18:18 [FirstSquawk] Iran cannot fully control every domestic or international media outlet and should instead strengthen its own narratives to counter “enemy psychological operations,” the interior ministry spokesman said on Sunday.
+- 09/20 18:18 [financialjuice] PTI Punjab spokesman: Aleema Khan, sister of jailed former Pakistan Prime Minister Imran Khan, detained ahead of PTI long march on September 27
+- 09/20 18:18 [FirstSquawk] Iran's Security Council Secretary Rezaei: America and Trump will leave. Everyone knows that the American economy is, in reality, on a path toward collapse. Within the next 10 years, America will not be as it is today.

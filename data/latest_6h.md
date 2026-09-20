@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 18:16 JST／対象: 09/20 12:16 〜 09/20 18:16 JST（時刻はすべて日本時間）
+生成: 2026-09-20 18:31 JST／対象: 09/20 12:31 〜 09/20 18:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 58 | 09/20 12:23 | 09/20 18:16 | 41分（16:53→17:35） |
-| financialjuice | 3 | 09/20 12:59 | 09/20 16:39 | ⚠ 220分（12:59→16:39） |
+| FirstSquawk | 62 | 09/20 12:34 | 09/20 18:18 | 41分（16:53→17:35） |
+| financialjuice | 4 | 09/20 12:59 | 09/20 18:18 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 61 行（統合前 61 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 66 行（統合前 66 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 12:23 [FirstSquawk] Iran faces deeper medicine shortages as war disrupts shipping
 - 09/20 12:34 [FirstSquawk] South Korea records 0.9% decline in greenhouse gas emissions last year – Yonhap
 - 09/20 12:47 [FirstSquawk] South Korea’s internet-only banks see small-business lending rise more than 50% in H1 as household lending rules tighten - YONHAP
 - 09/20 12:53 [FirstSquawk] CXMT unveils 24-Gbit LPDDR5X products using new platform, executive says
@@ -85,3 +84,9 @@
 - 09/20 18:15 [FirstSquawk] AFP": North Korea launches a second unspecified projectile into the Sea of Japan
 - 09/20 18:16 [FirstSquawk] Russians headed to the polls on Sunday for a third and final day of tightly controlled parliamentary elections set to strengthen the Kremlin's grip on power, as the Ukraine war grinds through its fifth year.
 - 09/20 18:16 [FirstSquawk] Iran’s dams were 47% full as of September 19, leaving 53% of their total reservoir capacity empty, state media reported on Sunday.
+- 09/20 18:16 [FirstSquawk] Iran's Security Council Secretary Rezaei: The Israelis blew up the empty tunnels in Lebanon for propaganda and for an election spectacle. They took photographs and videos and said, "Look how strong Netanyahu is."
+- 09/20 18:17 [FirstSquawk] Iran's Security Council Secretary Rezaei: Now Yemeni forces have gone to Bab el-Mandeb, taken control of it and deployed there, and they say this happened at Iran’s instigation.
+- 09/20 18:17 [FirstSquawk] Trump vows to form "AI Force," says he won't allow slowdown of AI development
+- 09/20 18:18 [FirstSquawk] Iran cannot fully control every domestic or international media outlet and should instead strengthen its own narratives to counter “enemy psychological operations,” the interior ministry spokesman said on Sunday.
+- 09/20 18:18 [financialjuice] PTI Punjab spokesman: Aleema Khan, sister of jailed former Pakistan Prime Minister Imran Khan, detained ahead of PTI long march on September 27
+- 09/20 18:18 [FirstSquawk] Iran's Security Council Secretary Rezaei: America and Trump will leave. Everyone knows that the American economy is, in reality, on a path toward collapse. Within the next 10 years, America will not be as it is today.
