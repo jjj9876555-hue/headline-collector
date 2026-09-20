@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 03:58 JST／対象: 09/20 15:58 〜 09/21 03:58 JST（時刻はすべて日本時間）
+生成: 2026-09-21 04:14 JST／対象: 09/20 16:14 〜 09/21 04:14 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 124 | 09/20 16:13 | 09/21 03:25 | ⚠ 60分（19:15→20:15） |
+| FirstSquawk | 119 | 09/20 16:14 | 09/21 03:25 | ⚠ 60分（19:15→20:15） |
 | financialjuice | 72 | 09/20 16:39 | 09/21 03:38 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 193 行（統合前 198 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 188 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 16:13 [FirstSquawk] Russian election enters final day after major Ukrainian drone attack on Moscow
-- 09/20 16:13 [FirstSquawk] Trump's meeting at Camp David was to deliberate and review Yemen strike options.
-- 09/20 16:13 [FirstSquawk] Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets
-- 09/20 16:13 [FirstSquawk] Record donations secured by Nigel Farage’s insurgent Reform party are under threat from a looming election rules review by the UK watchdog that may cut spending limits
-- 09/20 16:13 [FirstSquawk] Iran is two weeks away from Nuclear Weapon - Bibi Netanyahu at UNGA
 - 09/20 16:14 [FirstSquawk] North Korea fires ballistic missile into sea off east coast
 - 09/20 16:14 [FirstSquawk] South Korean universities offer company-linked degrees that provide financial support and pathways to jobs at Samsung Electronics and SK Hynix years before students graduate.
 - 09/20 16:39 [financialjuice] Ukraine's military hit an oil refinery in Russia's Moscow region: Zelenskiy
