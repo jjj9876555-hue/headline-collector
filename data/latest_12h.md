@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 10:32 JST／対象: 09/19 22:32 〜 09/20 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-20 10:44 JST／対象: 09/19 22:44 〜 09/20 10:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 54 | 09/19 22:48 | 09/20 10:22 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 57 | 09/19 22:48 | 09/20 10:37 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 25 | 09/20 00:14 | 09/20 10:21 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 85 行（統合前 91 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 88 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -109,3 +109,6 @@
 - 09/20 10:21 [financialjuice] China central bank injects 32 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement
 - 09/20 10:21 [FirstSquawk] Diesel exports plunge as wars disrupt supplies from Persian Gulf, Russia
 - 09/20 10:22 [FirstSquawk] Diesel exports plunge as wars disrupt supplies from Persian Gulf, Russia - WSJ
+- 09/20 10:35 [FirstSquawk] Trump announces ‘AI Force,’ plans to name AI czar soon
+- 09/20 10:36 [FirstSquawk] Venezuela, TotalEnergies sign memorandum as oil sector seeks revival - RTRS
+- 09/20 10:37 [FirstSquawk] China central bank keeps 7-day reverse repo rate at 1.40%, injects 32 billion yuan

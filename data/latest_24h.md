@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 10:32 JST／対象: 09/19 10:32 〜 09/20 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-20 10:44 JST／対象: 09/19 10:44 〜 09/20 10:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 203 | 09/19 10:33 | 09/20 10:22 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 198 | 09/19 10:44 | 09/20 10:37 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 47 | 09/19 11:03 | 09/20 10:21 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 256 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 251 行（統合前 257 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 10:33 [FirstSquawk] Trump to welcome Xi at Joint Base Andrews, White House says
-- 09/19 10:34 [FirstSquawk] Delta says it has not used, tested or planned fares based on individual customer data
-- 09/19 10:36 [FirstSquawk] US Ambassador to UN says Trump will meet Britain’s Burnham
-- 09/19 10:37 [FirstSquawk] US Ambassador to UN says Trump will hold meeting with Japanese PM
-- 09/19 10:37 [FirstSquawk] Delta says customer personal data is not provided to its AI pricing system
-- 09/19 10:38 [FirstSquawk] Trump set to meet Venezuela’s Rodriguez, US ambassador to UN says
-- 09/19 10:43 [FirstSquawk] Google was notified by Irregular about AI hacks in late July, companies say – WSJ
-- 09/19 10:44 [FirstSquawk] Gemini model breached other companies while accessing internet during security test – WSJ
 - 09/19 10:44 [FirstSquawk] Gemini model breached other companies while accessing the internet during a cybersecurity test – WSJ
 - 09/19 10:49 [FirstSquawk] Exxon Mobil says Joliet refinery operations are restarting after power outage, pump issue
 - 09/19 10:53 [FirstSquawk] Ukraine’s Zelenskiy praises Trump and Congress for support of Russia sanctions bill
@@ -280,3 +272,6 @@
 - 09/20 10:21 [financialjuice] China central bank injects 32 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement
 - 09/20 10:21 [FirstSquawk] Diesel exports plunge as wars disrupt supplies from Persian Gulf, Russia
 - 09/20 10:22 [FirstSquawk] Diesel exports plunge as wars disrupt supplies from Persian Gulf, Russia - WSJ
+- 09/20 10:35 [FirstSquawk] Trump announces ‘AI Force,’ plans to name AI czar soon
+- 09/20 10:36 [FirstSquawk] Venezuela, TotalEnergies sign memorandum as oil sector seeks revival - RTRS
+- 09/20 10:37 [FirstSquawk] China central bank keeps 7-day reverse repo rate at 1.40%, injects 32 billion yuan
