@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 03:07 JST／対象: 09/20 15:07 〜 09/21 03:07 JST（時刻はすべて日本時間）
+生成: 2026-09-21 03:25 JST／対象: 09/20 15:25 〜 09/21 03:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 126 | 09/20 15:32 | 09/21 03:03 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 65 | 09/20 16:39 | 09/21 03:04 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 129 | 09/20 15:32 | 09/21 03:25 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 70 | 09/20 16:39 | 09/21 03:20 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 188 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 196 行（統合前 201 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -212,3 +212,11 @@
 - 09/21 03:03 [FirstSquawk] RUSSIA’S LIBERAL DEMOCRATIC PARTY PROJECTED TO WIN 10.7% OF VOTE IN PARLIAMENTARY ELECTION — IFX, CITING EXIT POLL
 - 09/21 03:03 [FirstSquawk] RUSSIA’S NEW PEOPLE PARTY PROJECTED TO WIN 9.7% OF VOTE IN PARLIAMENTARY ELECTION — IFX, CITING EXIT POLL
 - 09/21 03:04 [financialjuice] Ruling United Russia party leads with 57.54% in Russian election: preliminary results from central election commission
+- 09/21 03:07 [financialjuice] Iran foreign minister Aragchi departs Tehran for New York, to stop briefly in Qatar: state media
+- 09/21 03:07 [financialjuice] Voter turnout in Russia parliamentary election above 56%: central election commission
+- 09/21 03:15 [FirstSquawk] RUSSIA’S RULING UNITED RUSSIA LEADS WITH 57.54% IN PARLIAMENTARY ELECTION — PRELIMINARY CENTRAL ELECTION COMMISSION RESULTS
+- 09/21 03:15 [FirstSquawk] IRAN FOREIGN MINISTER ARAGCHI DEPARTS TEHRAN FOR NEW YORK, WITH BRIEF STOP IN QATAR — STATE MEDIA
+- 09/21 03:18 [financialjuice] Ukraine president Zelenskiy: just spoke with US president Trump
+- 09/21 03:19 [financialjuice] Ukraine President Zelenskiy: we agreed to meet in New York
+- 09/21 03:20 [financialjuice] Ukraine president Zelenskiy: thanked American president for enacting Lindsey Graham bill into law
+- 09/21 03:25 [FirstSquawk] UKRAINE PRESIDENT ZELENSKIY SAYS HE JUST SPOKE WITH U.S. PRESIDENT TRUMP AND THAT THEY AGREED TO MEET IN NEW YORK, THANKING TRUMP FOR ENACTING THE LINDSEY GRAHAM BILL INTO LAW

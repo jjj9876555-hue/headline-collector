@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 03:07 JST／対象: 09/20 21:07 〜 09/21 03:07 JST（時刻はすべて日本時間）
+生成: 2026-09-21 03:25 JST／対象: 09/20 21:25 〜 09/21 03:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 64 | 09/20 21:13 | 09/21 03:03 | ⚠ 51分（00:49→01:41） |
-| financialjuice | 54 | 09/20 21:07 | 09/21 03:04 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 63 | 09/20 21:48 | 09/21 03:25 | ⚠ 51分（00:49→01:41） |
+| financialjuice | 58 | 09/20 23:15 | 09/21 03:20 | ⚠ 53分（01:29→02:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 119 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 123 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 21:07 [financialjuice/FirstSquawk] Moscow’s remote voting system and voter list face large-scale hacking attacks: voting services operating normally, city election official says
-- 09/20 21:13 [FirstSquawk] Ukraine hits Moscow with ‘largest ever’ drone attack - FT
-- 09/20 21:13 [FirstSquawk] Biodiesel for shipping now cheaper than conventional fuels after price fall- FT
-- 09/20 21:13 [FirstSquawk] US retailer rations motor oil as prices quadruple and supplies run dry- FT
-- 09/20 21:14 [FirstSquawk] Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets - FT
 - 09/20 21:48 [FirstSquawk] National Security Minister Itamar Ben-Gvir: We demand the execution of the perpetrator of the Neve Tzuf attack in the central West Bank, so that he will be the first to face the law.
 - 09/20 21:48 [FirstSquawk] Ben-Gvir: We demand the execution of the perpetrator of the Neve Tzuf attack in the central West Bank, so that he may be the first to face the law.
 - 09/20 21:48 [FirstSquawk] Iran's Khatam al-Anbiya Central Headquarters: We have received information about Washington's efforts to reinstate certain measures against our country.
@@ -44,6 +39,7 @@
 - 09/20 22:42 [FirstSquawk] Trump: Military complex to accommodate, store, deploy numerous drones, snipers on roof and plaza, and store large sniper ammo supplies
 - 09/20 22:42 [FirstSquawk] Trump: I have agreed to transform triumphal arch into a top military complex
 - 09/20 22:42 [FirstSquawk] Iran shuts down unauthorized center linked to French embassy - Tasnim
+- 09/20 22:42 [FirstSquawk] Moscow’s remote voting system and voter list face large-scale hacking attacks: voting services operating normally, city election official says
 - 09/20 23:15 [financialjuice] Qatar’s prime minister: QIA launches Doha Investment, new unit for domestic investments
 - 09/20 23:15 [financialjuice] Air defences intercept drone near Erbil airport in Iraqi Kurdistan: security sources
 - 09/20 23:17 [financialjuice] Qatar’s prime minister: Qatar anticipates awarding about $38.5 billion in new infrastructure projects over next five years
@@ -143,3 +139,11 @@
 - 09/21 03:03 [FirstSquawk] RUSSIA’S LIBERAL DEMOCRATIC PARTY PROJECTED TO WIN 10.7% OF VOTE IN PARLIAMENTARY ELECTION — IFX, CITING EXIT POLL
 - 09/21 03:03 [FirstSquawk] RUSSIA’S NEW PEOPLE PARTY PROJECTED TO WIN 9.7% OF VOTE IN PARLIAMENTARY ELECTION — IFX, CITING EXIT POLL
 - 09/21 03:04 [financialjuice] Ruling United Russia party leads with 57.54% in Russian election: preliminary results from central election commission
+- 09/21 03:07 [financialjuice] Iran foreign minister Aragchi departs Tehran for New York, to stop briefly in Qatar: state media
+- 09/21 03:07 [financialjuice] Voter turnout in Russia parliamentary election above 56%: central election commission
+- 09/21 03:15 [FirstSquawk] RUSSIA’S RULING UNITED RUSSIA LEADS WITH 57.54% IN PARLIAMENTARY ELECTION — PRELIMINARY CENTRAL ELECTION COMMISSION RESULTS
+- 09/21 03:15 [FirstSquawk] IRAN FOREIGN MINISTER ARAGCHI DEPARTS TEHRAN FOR NEW YORK, WITH BRIEF STOP IN QATAR — STATE MEDIA
+- 09/21 03:18 [financialjuice] Ukraine president Zelenskiy: just spoke with US president Trump
+- 09/21 03:19 [financialjuice] Ukraine President Zelenskiy: we agreed to meet in New York
+- 09/21 03:20 [financialjuice] Ukraine president Zelenskiy: thanked American president for enacting Lindsey Graham bill into law
+- 09/21 03:25 [FirstSquawk] UKRAINE PRESIDENT ZELENSKIY SAYS HE JUST SPOKE WITH U.S. PRESIDENT TRUMP AND THAT THEY AGREED TO MEET IN NEW YORK, THANKING TRUMP FOR ENACTING THE LINDSEY GRAHAM BILL INTO LAW
