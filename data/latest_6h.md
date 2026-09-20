@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 15:39 JST／対象: 09/20 09:39 〜 09/20 15:39 JST（時刻はすべて日本時間）
+生成: 2026-09-20 15:54 JST／対象: 09/20 09:54 〜 09/20 15:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 87 | 09/20 09:42 | 09/20 15:34 | 28分（15:04→15:32） |
+| FirstSquawk | 84 | 09/20 10:05 | 09/20 15:34 | 28分（15:04→15:32） |
 | financialjuice | 3 | 09/20 10:00 | 09/20 12:59 | ⚠ 157分（10:21→12:59） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 90 行（統合前 90 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 87 行（統合前 87 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 09:42 [FirstSquawk] FBI reportedly warns of fake dating profiles targeting ICE agents
-- 09/20 09:43 [FirstSquawk] American dream’ continues to produce millionaires, WSJ reports
-- 09/20 09:53 [FirstSquawk] Trump says historic deal grants US permanent security control over Greenland
 - 09/20 10:00 [financialjuice] China sets five-year loan prime rate at 3.50%, unchanged from a month earlier
 - 09/20 10:05 [FirstSquawk] China sees record 3.32 billion rail passenger trips through August, up 3.9%
 - 09/20 10:06 [FirstSquawk] China leaves five-year loan prime rate unchanged at 3.50%
