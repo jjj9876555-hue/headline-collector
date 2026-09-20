@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 11:32 JST／対象: 09/19 11:32 〜 09/20 11:32 JST（時刻はすべて日本時間）
+生成: 2026-09-20 11:46 JST／対象: 09/19 11:46 〜 09/20 11:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 205 | 09/19 11:33 | 09/20 11:31 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 206 | 09/19 11:49 | 09/20 11:41 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 46 | 09/19 15:14 | 09/20 10:21 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 257 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 258 行（統合前 264 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 11:33 [FirstSquawk] Danger in Al Kharj has passed, Saudi Civil Defense says
-- 09/19 11:40 [FirstSquawk] Lebanon faces sharp economic contraction in 2026 as inflation stays in double digits – IMF
-- 09/19 11:40 [FirstSquawk] IMF staff concludes mission to Lebanon
-- 09/19 11:41 [FirstSquawk] IMF says Lebanon has advanced on budget management since its previous staff mission
-- 09/19 11:43 [FirstSquawk] Paramount considers selling some cable channels, including Comedy Central, amid Warner Bros. merger talks – NYT
 - 09/19 11:49 [FirstSquawk] Greece outlook raised to positive from stable by Moody’s, Baa3 rating affirmed
 - 09/19 11:50 [FirstSquawk] Greece’s positive outlook reflects upside risks to credit profile, Moody’s says
 - 09/19 11:52 [FirstSquawk] Moody’s says Greece’s Baa3 rating reflects solid reforms and structurally favorable debt affordability
@@ -281,3 +276,9 @@
 - 09/20 11:27 [FirstSquawk] Iran security chief: Talks ongoing with Qatar and Pakistan as mediators, negotiation conditions conveyed - AL JAZEERA INTERVIEW
 - 09/20 11:31 [FirstSquawk] GranMorgu project sees at least 50% of planned $12 billion investment spent, TotalEnergies says
 - 09/20 11:31 [FirstSquawk] U.S. officials say Kremlin seeks to undermine confidence in American democracy with online influence campaigns – NYT
+- 09/20 11:34 [FirstSquawk] General Breuer elected as head of NATO’s top military body, current chair says
+- 09/20 11:35 [FirstSquawk] TotalEnergies’ GranMorgu offshore project in Suriname on track for first output in mid-2028, Staatsolie head says
+- 09/20 11:39 [FirstSquawk] France’s public debt-to-GDP ratio projected to reach 119.3% in 2026 and 121.7% in 2027
+- 09/20 11:39 [FirstSquawk] 4. France targets narrower budget deficit of 5.0% of GDP in 2027, down from 5.4% in 2026
+- 09/20 11:39 [FirstSquawk] France targets narrower budget deficit of 5.0% of GDP in 2027, down from 5.4% in 2026
+- 09/20 11:41 [FirstSquawk] Kapotnya Oil Refinery in Moscow reportedly targeted in Ukrainian strike - WSN
