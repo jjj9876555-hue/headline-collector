@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 13:35 JST／対象: 09/20 01:35 〜 09/20 13:35 JST（時刻はすべて日本時間）
+生成: 2026-09-20 13:50 JST／対象: 09/20 01:50 〜 09/20 13:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 5 | 09/20 02:11 | 09/20 03:47 | ⚠ 74分（02:18→03:32） |
-| FirstSquawk | 74 | 09/20 02:17 | 09/20 13:21 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 76 | 09/20 02:17 | 09/20 13:47 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 21 | 09/20 02:01 | 09/20 12:59 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 94 行（統合前 100 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 96 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -118,3 +118,5 @@
 - 09/20 13:13 [FirstSquawk] CXMT says joint R&D with domestic equipment makers drove process advances
 - 09/20 13:14 [FirstSquawk] Moscow mayor: Ukrainian drones damage oil refinery in attack
 - 09/20 13:21 [FirstSquawk] China struggles to attract sovereign wealth funds amid ongoing property woes
+- 09/20 13:40 [FirstSquawk] Samsung executives share long-term AI strategy and discuss latest technology trends at U.S. forum - YONHAP
+- 09/20 13:47 [FirstSquawk] Luxembourg’s oldest bank heads for €2.5bn sale under Chinese ownership – FT
