@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 12:33 JST／対象: 09/20 00:33 〜 09/20 12:33 JST（時刻はすべて日本時間）
+生成: 2026-09-20 12:51 JST／対象: 09/20 00:51 〜 09/20 12:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/20 00:34 | 09/20 03:47 | ⚠ 74分（02:18→03:32） |
-| FirstSquawk | 80 | 09/20 00:58 | 09/20 12:23 | ⚠ 366分（03:10→09:16） |
+| DeItaone | 9 | 09/20 01:10 | 09/20 03:47 | ⚠ 74分（02:18→03:32） |
+| FirstSquawk | 82 | 09/20 00:58 | 09/20 12:47 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 20 | 09/20 02:01 | 09/20 10:21 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 00:34 [DeItaone] IRAN'S TOP SECURITY OFFICIAL SAYS TEHRAN WANTS WAR BETWEEN SAUDI ARABIA AND YEMEN TO END - AL JAZEERA INTERVIEW
-- 09/20 00:34 [DeItaone] IRAN'S TOP SECURITY OFFICIAL SAYS QATAR HAS CONVEYED TEHRAN'S CONDITIONS TO WASHINGTON TO END WAR, AWAITING TRUMP RESPONSE - AL JAZEERA INTERVIEW
 - 09/20 00:58 [FirstSquawk] Iranian National Security Council Secretary: We know the weaknesses of the US military and are more prepared than ever to counter its air attacks.
 - 09/20 00:58 [FirstSquawk] Secretary of Iran's Supreme National Security Council: We have reached the conclusion that we must change our strategy towards Washington after its withdrawal from the Memorandum of Understanding
 - 09/20 00:58 [FirstSquawk] Iranian National Security Council Secretary: We recently tested an anti-ship missile near a US aircraft carrier
@@ -129,3 +127,5 @@
 - 09/20 11:56 [FirstSquawk] China’s booming cosmetics market sees rise of homegrown brands – Kyodo
 - 09/20 12:09 [FirstSquawk] BOJ steps up rate hikes, while path for further tightening remains unclear - KYODO
 - 09/20 12:23 [FirstSquawk] Iran faces deeper medicine shortages as war disrupts shipping
+- 09/20 12:34 [FirstSquawk] South Korea records 0.9% decline in greenhouse gas emissions last year – Yonhap
+- 09/20 12:47 [FirstSquawk] South Korea’s internet-only banks see small-business lending rise more than 50% in H1 as household lending rules tighten - YONHAP

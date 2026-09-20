@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 12:33 JST／対象: 09/19 12:33 〜 09/20 12:33 JST（時刻はすべて日本時間）
+生成: 2026-09-20 12:51 JST／対象: 09/19 12:51 〜 09/20 12:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 198 | 09/19 12:34 | 09/20 12:23 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 196 | 09/19 12:55 | 09/20 12:47 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 46 | 09/19 15:14 | 09/20 10:21 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 250 行（統合前 256 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 248 行（統合前 254 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 12:34 [FirstSquawk] Kennedy names NICHD Director John Gaitanis chair of Interagency Autism Coordinating Committee – RTRS
-- 09/19 12:40 [FirstSquawk] NASA and Boeing have discussed plans for Starliner to conduct 10 or more new flights – WSJ
-- 09/19 12:44 [FirstSquawk] Chinese mining firms join forces to develop gold, copper resources in Tibet – SCMP
-- 09/19 12:48 [FirstSquawk] Death toll from attack on police headquarters in Pakistan rises to 31 – AFP citing police official
 - 09/19 12:55 [FirstSquawk] Xi to visit Washington for three-day state visit through Sept. 25 – Kyodo
 - 09/19 13:05 [FirstSquawk] Yen under pressure as dovish BoJ hike dampens currency – Scotiabank - FX
 - 09/19 13:13 [FirstSquawk] Germany’s military rebuild fuels unease across neighboring countries – WSJ
@@ -274,3 +270,5 @@
 - 09/20 11:56 [FirstSquawk] China’s booming cosmetics market sees rise of homegrown brands – Kyodo
 - 09/20 12:09 [FirstSquawk] BOJ steps up rate hikes, while path for further tightening remains unclear - KYODO
 - 09/20 12:23 [FirstSquawk] Iran faces deeper medicine shortages as war disrupts shipping
+- 09/20 12:34 [FirstSquawk] South Korea records 0.9% decline in greenhouse gas emissions last year – Yonhap
+- 09/20 12:47 [FirstSquawk] South Korea’s internet-only banks see small-business lending rise more than 50% in H1 as household lending rules tighten - YONHAP
