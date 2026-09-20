@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 02:30 JST／対象: 09/20 02:30 〜 09/21 02:30 JST（時刻はすべて日本時間）
+生成: 2026-09-21 02:42 JST／対象: 09/20 02:42 〜 09/21 02:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 4 | 09/20 03:32 | 09/20 23:43 | ⚠ 1181分（03:47→23:29） |
-| FirstSquawk | 210 | 09/20 02:50 | 09/21 02:19 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 73 | 09/20 03:13 | 09/21 02:28 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 212 | 09/20 02:50 | 09/21 02:38 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 75 | 09/20 03:13 | 09/21 02:32 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 282 行（統合前 287 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 286 行（統合前 291 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -306,3 +306,7 @@
 - 09/21 02:22 [financialjuice] France's President Macron: France backs closer ties between EU, Canada and associate membership for Canada
 - 09/21 02:26 [financialjuice] France's Macron: agreed with Canada's Carney to strengthen ties in energy, space, climate sectors
 - 09/21 02:28 [financialjuice] France's President Macron: Canadian LNG can be key for European energy, initiates bilateral talks on the matter
+- 09/21 02:31 [financialjuice] Canadian Prime Minister Carney urges stronger ties with France amid rising global threats
+- 09/21 02:32 [financialjuice] France, Canada task space agencies, defense ministries to jointly develop space launch systems, ground reception facilities: Carney
+- 09/21 02:38 [FirstSquawk] FRANCE'S PRESIDENT MACRON SAYS FRANCE BACKS CLOSER TIES BETWEEN THE EU AND CANADA AND ASSOCIATE MEMBERSHIP FOR CANADA, HAVING AGREED WITH CANADA'S CARNEY TO STRENGTHEN TIES IN THE ENERGY, SPACE AND CLIMATE SECTORS.
+- 09/21 02:38 [FirstSquawk] FRANCE'S PRESIDENT MACRON SAYS MACRON SAYS CANADIAN LNG CAN BE KEY FOR EUROPEAN ENERGY, INITIATING BILATERAL TALKS ON THE MATTER. FRANCE'S PRESIDENT MACRON SAYS

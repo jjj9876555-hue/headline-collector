@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 02:30 JST／対象: 09/20 14:30 〜 09/21 02:30 JST（時刻はすべて日本時間）
+生成: 2026-09-21 02:42 JST／対象: 09/20 14:42 〜 09/21 02:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 132 | 09/20 14:36 | 09/21 02:19 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 58 | 09/20 16:39 | 09/21 02:28 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 133 | 09/20 15:01 | 09/21 02:38 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 60 | 09/20 16:39 | 09/21 02:32 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 190 行（統合前 195 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 14:36 [FirstSquawk] TotalEnergies comes under renewed scrutiny over handling of Mozambique attack – FT
 - 09/20 15:01 [FirstSquawk] Festive Hiring Boom: New-age operational roles set to grow 15-20%; tier-II, III cities to account for 45% of festive hiring demand
 - 09/20 15:02 [FirstSquawk] Australian, Canadian and U.S. partners are teaming up to revive American tungsten production as China tightens supply.
 - 09/20 15:02 [FirstSquawk] Ukrainian attack on Moscow oil refinery
@@ -211,3 +210,7 @@
 - 09/21 02:22 [financialjuice] France's President Macron: France backs closer ties between EU, Canada and associate membership for Canada
 - 09/21 02:26 [financialjuice] France's Macron: agreed with Canada's Carney to strengthen ties in energy, space, climate sectors
 - 09/21 02:28 [financialjuice] France's President Macron: Canadian LNG can be key for European energy, initiates bilateral talks on the matter
+- 09/21 02:31 [financialjuice] Canadian Prime Minister Carney urges stronger ties with France amid rising global threats
+- 09/21 02:32 [financialjuice] France, Canada task space agencies, defense ministries to jointly develop space launch systems, ground reception facilities: Carney
+- 09/21 02:38 [FirstSquawk] FRANCE'S PRESIDENT MACRON SAYS FRANCE BACKS CLOSER TIES BETWEEN THE EU AND CANADA AND ASSOCIATE MEMBERSHIP FOR CANADA, HAVING AGREED WITH CANADA'S CARNEY TO STRENGTHEN TIES IN THE ENERGY, SPACE AND CLIMATE SECTORS.
+- 09/21 02:38 [FirstSquawk] FRANCE'S PRESIDENT MACRON SAYS MACRON SAYS CANADIAN LNG CAN BE KEY FOR EUROPEAN ENERGY, INITIATING BILATERAL TALKS ON THE MATTER. FRANCE'S PRESIDENT MACRON SAYS
