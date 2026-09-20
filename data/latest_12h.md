@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 23:32 JST／対象: 09/20 11:32 〜 09/20 23:32 JST（時刻はすべて日本時間）
+生成: 2026-09-20 23:44 JST／対象: 09/20 11:44 〜 09/20 23:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/20 23:29 | 09/20 23:29 | - |
-| FirstSquawk | 126 | 09/20 11:34 | 09/20 23:23 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 16 | 09/20 12:59 | 09/20 23:17 | ⚠ 220分（12:59→16:39） |
+| DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
+| FirstSquawk | 120 | 09/20 11:46 | 09/20 23:23 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 22 | 09/20 12:59 | 09/20 23:43 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 138 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 139 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 11:34 [FirstSquawk] General Breuer elected as head of NATO’s top military body, current chair says
-- 09/20 11:35 [FirstSquawk] TotalEnergies’ GranMorgu offshore project in Suriname on track for first output in mid-2028, Staatsolie head says
-- 09/20 11:39 [FirstSquawk] France’s public debt-to-GDP ratio projected to reach 119.3% in 2026 and 121.7% in 2027
-- 09/20 11:39 [FirstSquawk] 4. France targets narrower budget deficit of 5.0% of GDP in 2027, down from 5.4% in 2026
-- 09/20 11:39 [FirstSquawk] France targets narrower budget deficit of 5.0% of GDP in 2027, down from 5.4% in 2026
-- 09/20 11:41 [FirstSquawk] Kapotnya Oil Refinery in Moscow reportedly targeted in Ukrainian strike - WSN
 - 09/20 11:46 [FirstSquawk] Malaysia’s DAP sec-gen says his offer to resign from cabinet reflects the party’s stance
 - 09/20 11:49 [FirstSquawk] WSJ: Polymarket’s expansion exposed gaps that enabled fraudulent activity
 - 09/20 11:56 [FirstSquawk] China’s booming cosmetics market sees rise of homegrown brands – Kyodo
@@ -162,3 +156,10 @@
 - 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We have some concerns regarding the Nile Basin Cooperative Framework Agreement.
 - 09/20 23:23 [FirstSquawk] Air defenses in Iraqi Kurdistan shoot down a drone near Erbil airport
 - 09/20 23:29 [DeItaone] TRUMP: “VERY BIG THINGS” COMING ON IRAN President Trump says he is in “a deciding mode” on Iran, warning that “very big things” could happen in the not-so-distant future. Trump said the options range from further military action to economic…
+- 09/20 23:39 [financialjuice] Qatar's prime minister: crisis in Qatar's economy an opportunity to trim government spending and focus investments on priorities
+- 09/20 23:41 [financialjuice] Minneapolis Federal Reserve president Neel Kashkari: Fed’s job is to bring inflation back to 2% target - Fox News interview
+- 09/20 23:41 [financialjuice] Kashkari: Inflation remains too high in Fox News interview
+- 09/20 23:42 [financialjuice] Kashkari: Inflation extends beyond oil prices
+- 09/20 23:42 [financialjuice] Kashkari: Hopefully we'll get support from other parts of government, the real economy
+- 09/20 23:43 [DeItaone] 🟠 TIER 2 IRAN WARNS NEW U.S. ATTACK MAY BE COMING, THREATENS SUSTAINED RETALIATION Iran says it has information that the U.S. and allies are preparing a major new attack, Reuters reported. Tehran’s military command warned any strike would t…
+- 09/20 23:43 [financialjuice] Kashkari: strong investment demand tends to boost interest rates

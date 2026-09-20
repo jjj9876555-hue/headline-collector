@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 23:32 JST／対象: 09/20 17:32 〜 09/20 23:32 JST（時刻はすべて日本時間）
+生成: 2026-09-20 23:44 JST／対象: 09/20 17:44 〜 09/20 23:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/20 23:29 | 09/20 23:29 | - |
-| FirstSquawk | 67 | 09/20 17:35 | 09/20 23:23 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 13 | 09/20 18:18 | 09/20 23:17 | ⚠ 127分（21:07→23:15） |
+| DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
+| FirstSquawk | 61 | 09/20 18:15 | 09/20 23:23 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 19 | 09/20 18:18 | 09/20 23:43 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 76 行（統合前 81 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 77 行（統合前 82 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 17:35 [FirstSquawk] NO Strait of Hormuz reopening until all Iran’s conditions are met — Parliament Speaker Ghalibaf 'Our stance is completely clear, rational, and non-negotiable'
-- 09/20 17:35 [FirstSquawk] Japanese supermarket operator Saeki Selva Holdings plans to enter the Vietnamese market, training workers in both countries on everything from the basics to running entire stores.
-- 09/20 17:36 [FirstSquawk] Iranian Judiciary Chief Gholam-Hossein Mohseni-Ejei was unanimously reelected to chair the Expediency Council’s legal and judicial committee for a fifth consecutive year, state media reported on Sunday.
-- 09/20 17:37 [FirstSquawk] Italy's Defense Minister Guido Crosetto: There must be a reason why TikTok is banned in China even though it is Chinese. And there must be a reason why the messages shown on Chinese TikTok are completely different from those shown on Wester…
-- 09/20 17:38 [FirstSquawk] yen is vulnerable to sharp moves and further declines, with a three-day holiday in Japan set to reduce trading liquidity and investors disappointed that the central bank didn’t offer stronger guidance on the pace of future rate hikes.
-- 09/20 17:41 [FirstSquawk] Iran's Security Council Secretary Rezaei: Trump greatly underestimated Iran. Today, nobody considers America’s war with Iran to be a rational or logical war. Everyone describes it as a stupid war, and I want to add another word to that: ign…
 - 09/20 18:15 [FirstSquawk] AFP": North Korea launches a second unspecified projectile into the Sea of Japan
 - 09/20 18:16 [FirstSquawk] Russians headed to the polls on Sunday for a third and final day of tightly controlled parliamentary elections set to strengthen the Kremlin's grip on power, as the Ukraine war grinds through its fifth year.
 - 09/20 18:16 [FirstSquawk] Iran’s dams were 47% full as of September 19, leaving 53% of their total reservoir capacity empty, state media reported on Sunday.
@@ -100,3 +94,10 @@
 - 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We have some concerns regarding the Nile Basin Cooperative Framework Agreement.
 - 09/20 23:23 [FirstSquawk] Air defenses in Iraqi Kurdistan shoot down a drone near Erbil airport
 - 09/20 23:29 [DeItaone] TRUMP: “VERY BIG THINGS” COMING ON IRAN President Trump says he is in “a deciding mode” on Iran, warning that “very big things” could happen in the not-so-distant future. Trump said the options range from further military action to economic…
+- 09/20 23:39 [financialjuice] Qatar's prime minister: crisis in Qatar's economy an opportunity to trim government spending and focus investments on priorities
+- 09/20 23:41 [financialjuice] Minneapolis Federal Reserve president Neel Kashkari: Fed’s job is to bring inflation back to 2% target - Fox News interview
+- 09/20 23:41 [financialjuice] Kashkari: Inflation remains too high in Fox News interview
+- 09/20 23:42 [financialjuice] Kashkari: Inflation extends beyond oil prices
+- 09/20 23:42 [financialjuice] Kashkari: Hopefully we'll get support from other parts of government, the real economy
+- 09/20 23:43 [DeItaone] 🟠 TIER 2 IRAN WARNS NEW U.S. ATTACK MAY BE COMING, THREATENS SUSTAINED RETALIATION Iran says it has information that the U.S. and allies are preparing a major new attack, Reuters reported. Tehran’s military command warned any strike would t…
+- 09/20 23:43 [financialjuice] Kashkari: strong investment demand tends to boost interest rates
