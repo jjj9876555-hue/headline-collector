@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 16:31 JST／対象: 09/19 16:31 〜 09/20 16:31 JST（時刻はすべて日本時間）
+生成: 2026-09-20 16:44 JST／対象: 09/19 16:44 〜 09/20 16:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 215 | 09/19 16:40 | 09/20 16:14 | ⚠ 366分（03:10→09:16） |
-| financialjuice | 46 | 09/19 16:46 | 09/20 12:59 | ⚠ 256分（04:39→08:55） |
+| FirstSquawk | 214 | 09/19 18:35 | 09/20 16:14 | ⚠ 366分（03:10→09:16） |
+| financialjuice | 48 | 09/19 16:46 | 09/20 16:39 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 267 行（統合前 273 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 268 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 16:40 [FirstSquawk] POLAND ARMY: PREEMPTIVE OPERATIONS BEGUN TO PROTECT POLISH AIRSPACE AMID RUSSIAN STRIKES ON UKRAINE
 - 09/19 16:46 [financialjuice] Russian forces strike Ukrainian cargo ship and tanker in Black Sea and Ukraine port: IFX
 - 09/19 16:46 [financialjuice] China's central bank advisor: AI may exacerbate strong supply, weak demand in economy
 - 09/19 16:48 [financialjuice] China's central bank advisor: China has rebalanced its economy, but progress is insufficient
@@ -291,3 +290,5 @@
 - 09/20 16:13 [FirstSquawk] Iran is two weeks away from Nuclear Weapon - Bibi Netanyahu at UNGA
 - 09/20 16:14 [FirstSquawk] North Korea fires ballistic missile into sea off east coast
 - 09/20 16:14 [FirstSquawk] South Korean universities offer company-linked degrees that provide financial support and pathways to jobs at Samsung Electronics and SK Hynix years before students graduate.
+- 09/20 16:39 [financialjuice] Ukraine's military hit an oil refinery in Russia's Moscow region: Zelenskiy
+- 09/20 16:39 [financialjuice] Iran's parliament speaker Galibaf: strait of Hormuz will stay closed until Tehran's conditions are met - Fars

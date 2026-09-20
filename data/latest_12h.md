@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 16:31 JST／対象: 09/20 04:31 〜 09/20 16:31 JST（時刻はすべて日本時間）
+生成: 2026-09-20 16:44 JST／対象: 09/20 04:44 〜 09/20 16:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 99 | 09/20 09:16 | 09/20 16:14 | 38分（15:34→16:13） |
-| financialjuice | 6 | 09/20 04:37 | 09/20 12:59 | ⚠ 256分（04:39→08:55） |
+| financialjuice | 6 | 09/20 08:55 | 09/20 16:39 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 105 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 04:37 [financialjuice] Saudi-led coalition: ballistic missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed on Saturday
-- 09/20 04:39 [financialjuice] Saudi-led coalition: foils Houthi attacks on civilians in Saudi cities Bish, Taif, Farasan, Yanbu
 - 09/20 08:55 [financialjuice] U.S. military: strike on Caribbean vessel over alleged drug trafficking kills four on Saturday
 - 09/20 09:16 [FirstSquawk] Toyota steps into extended-range EV segment with new China-built model
 - 09/20 09:17 [FirstSquawk] Leapmotor outpaces Subaru, Mitsubishi Motors in global vehicle sales - NA
@@ -129,3 +127,5 @@
 - 09/20 16:13 [FirstSquawk] Iran is two weeks away from Nuclear Weapon - Bibi Netanyahu at UNGA
 - 09/20 16:14 [FirstSquawk] North Korea fires ballistic missile into sea off east coast
 - 09/20 16:14 [FirstSquawk] South Korean universities offer company-linked degrees that provide financial support and pathways to jobs at Samsung Electronics and SK Hynix years before students graduate.
+- 09/20 16:39 [financialjuice] Ukraine's military hit an oil refinery in Russia's Moscow region: Zelenskiy
+- 09/20 16:39 [financialjuice] Iran's parliament speaker Galibaf: strait of Hormuz will stay closed until Tehran's conditions are met - Fars

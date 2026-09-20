@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 16:31 JST／対象: 09/20 10:31 〜 09/20 16:31 JST（時刻はすべて日本時間）
+生成: 2026-09-20 16:44 JST／対象: 09/20 10:44 〜 09/20 16:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 83 | 09/20 10:35 | 09/20 16:14 | 38分（15:34→16:13） |
-| financialjuice | 1 | 09/20 12:59 | 09/20 12:59 | - |
+| FirstSquawk | 80 | 09/20 10:49 | 09/20 16:14 | 38分（15:34→16:13） |
+| financialjuice | 3 | 09/20 12:59 | 09/20 16:39 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 84 行（統合前 84 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 83 行（統合前 83 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 10:35 [FirstSquawk] Trump announces ‘AI Force,’ plans to name AI czar soon
-- 09/20 10:36 [FirstSquawk] Venezuela, TotalEnergies sign memorandum as oil sector seeks revival - RTRS
-- 09/20 10:37 [FirstSquawk] China central bank keeps 7-day reverse repo rate at 1.40%, injects 32 billion yuan
 - 09/20 10:49 [FirstSquawk] Bessent, Greer to meet China’s He Lifeng at JPMorgan HQ in New York
 - 09/20 10:54 [FirstSquawk] China holds 1-year LPR steady at 3.00%, no change from August
 - 09/20 10:55 [FirstSquawk] U.S. military strikes vessel in Caribbean over alleged narco-trafficking; four killed
@@ -108,3 +105,5 @@
 - 09/20 16:13 [FirstSquawk] Iran is two weeks away from Nuclear Weapon - Bibi Netanyahu at UNGA
 - 09/20 16:14 [FirstSquawk] North Korea fires ballistic missile into sea off east coast
 - 09/20 16:14 [FirstSquawk] South Korean universities offer company-linked degrees that provide financial support and pathways to jobs at Samsung Electronics and SK Hynix years before students graduate.
+- 09/20 16:39 [financialjuice] Ukraine's military hit an oil refinery in Russia's Moscow region: Zelenskiy
+- 09/20 16:39 [financialjuice] Iran's parliament speaker Galibaf: strait of Hormuz will stay closed until Tehran's conditions are met - Fars
