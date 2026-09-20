@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 01:45 JST／対象: 09/20 13:45 〜 09/21 01:45 JST（時刻はすべて日本時間）
+生成: 2026-09-21 01:58 JST／対象: 09/20 13:58 〜 09/21 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 135 | 09/20 13:47 | 09/21 01:41 | ⚠ 60分（19:15→20:15） |
+| FirstSquawk | 133 | 09/20 13:58 | 09/21 01:47 | ⚠ 60分（19:15→20:15） |
 | financialjuice | 55 | 09/20 16:39 | 09/21 01:29 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 185 行（統合前 190 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 13:47 [FirstSquawk] Luxembourg’s oldest bank heads for €2.5bn sale under Chinese ownership – FT
-- 09/20 13:51 [FirstSquawk] Malaysia’s Solarvest targets growth in batteries and power trading beyond solar – Nikkei Asia
-- 09/20 13:58 [FirstSquawk] Meta mounts another legal challenge to UK’s Online Safety Act – FT
 - 09/20 13:58 [FirstSquawk] Israel’s settler economy faces growing risk of European sanctions – FT
 - 09/20 13:59 [FirstSquawk] Novo investors urge company to pursue deals and expand its drug pipeline – FT
 - 09/20 14:03 [FirstSquawk] Israeli airstrike hits outskirts of Sarbine in southern Lebanon, Lebanese News Agency reports
@@ -211,3 +208,4 @@
 - 09/21 01:20 [financialjuice] Germany's Chancellor Merz: need determination, perseverance and patience; prepared to lead as party head, chancellor
 - 09/21 01:29 [financialjuice] Germany's conservative CDU party polls at 5.1% in Mecklenburg-Western Pomerania election, ZDF reports citing partial results
 - 09/21 01:41 [FirstSquawk] German Chancellor acknowledges a "disaster" for his party following the far-right's gains in local elections.
+- 09/21 01:47 [FirstSquawk] Combined Maritime Information Center: The US Navy facilitated 97 transits through the Strait of Hormuz in the past 72 hours.

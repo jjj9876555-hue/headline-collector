@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 01:45 JST／対象: 09/20 01:45 〜 09/21 01:45 JST（時刻はすべて日本時間）
+生成: 2026-09-21 01:58 JST／対象: 09/20 01:58 〜 09/21 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 7 | 09/20 02:11 | 09/20 23:43 | ⚠ 1181分（03:47→23:29） |
-| FirstSquawk | 210 | 09/20 02:17 | 09/21 01:41 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 211 | 09/20 02:17 | 09/21 01:47 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 76 | 09/20 02:01 | 09/21 01:29 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 282 行（統合前 293 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 283 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -306,3 +306,4 @@
 - 09/21 01:20 [financialjuice] Germany's Chancellor Merz: need determination, perseverance and patience; prepared to lead as party head, chancellor
 - 09/21 01:29 [financialjuice] Germany's conservative CDU party polls at 5.1% in Mecklenburg-Western Pomerania election, ZDF reports citing partial results
 - 09/21 01:41 [FirstSquawk] German Chancellor acknowledges a "disaster" for his party following the far-right's gains in local elections.
+- 09/21 01:47 [FirstSquawk] Combined Maritime Information Center: The US Navy facilitated 97 transits through the Strait of Hormuz in the past 72 hours.
