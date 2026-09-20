@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 16:58 JST／対象: 09/20 10:58 〜 09/20 16:58 JST（時刻はすべて日本時間）
+生成: 2026-09-20 17:17 JST／対象: 09/20 11:17 〜 09/20 17:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 78 | 09/20 10:58 | 09/20 16:53 | 38分（15:34→16:13） |
+| FirstSquawk | 66 | 09/20 11:18 | 09/20 16:53 | 38分（15:34→16:13） |
 | financialjuice | 3 | 09/20 12:59 | 09/20 16:39 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 81 行（統合前 81 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 69 行（統合前 69 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 10:58 [FirstSquawk] Turkish foreign minister: Turkey to look into Saudi Arabia’s military needs under trilateral defence pact with Pakistan
-- 09/20 10:59 [FirstSquawk] Turkish foreign minister: Ukraine-Russia peace efforts face difficulties in achieving lasting solution
-- 09/20 11:00 [FirstSquawk] China says scientists must adhere to high standards of integrity - SCMP
-- 09/20 11:00 [FirstSquawk] Moscow Mayor says air defenses intercepted 76 Ukrainian drones approaching capital
-- 09/20 11:01 [FirstSquawk] Ed Sheeran says Gaza situation is “unjustifiable” after criticism over pro-Palestinian comments - AFP
-- 09/20 11:01 [FirstSquawk] WHO: Child-friendly cancer medicines needed to improve safety and dosing for children
-- 09/20 11:05 [FirstSquawk] Nippon Life targets $13 billion in data center financing, with focus on U.S. – Nikkei Asia
-- 09/20 11:07 [FirstSquawk] Trump announces plans to form AI force similar to Space Force
-- 09/20 11:08 [FirstSquawk] Iran foreign ministry spokesperson: Pakistan minister’s Iran visit focused on bilateral ties, no knowledge of U.S. message
-- 09/20 11:11 [FirstSquawk] Yemen’s Houthis claim attack was on Aramco facility in Yanbu
-- 09/20 11:12 [FirstSquawk] Yemen’s Houthis claim attacks on “sensitive” sites in Riyadh using missiles and drones
-- 09/20 11:13 [FirstSquawk] Saudi Arabia has not immediately confirmed Houthi claims
 - 09/20 11:18 [FirstSquawk] Iran’s top security official outlines conditions including end to war, unfreezing Iranian funds, lifting naval blockade
 - 09/20 11:19 [FirstSquawk] Leading Report says trump reportedly considering military strike options against Yemen
 - 09/20 11:22 [FirstSquawk] Iran security chief says Tehran seeks an end to fighting between Saudi Arabia and Yemen
