@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-20 22:23 JST／対象: 09/20 10:23 〜 09/20 22:23 JST（時刻はすべて日本時間）
+生成: 2026-09-20 22:41 JST／対象: 09/20 10:41 〜 09/20 22:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 144 | 09/20 10:35 | 09/20 22:21 | ⚠ 60分（19:15→20:15） |
+| FirstSquawk | 145 | 09/20 10:49 | 09/20 22:41 | ⚠ 60分（19:15→20:15） |
 | financialjuice | 13 | 09/20 12:59 | 09/20 21:07 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 157 行（統合前 157 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 158 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 10:35 [FirstSquawk] Trump announces ‘AI Force,’ plans to name AI czar soon
-- 09/20 10:36 [FirstSquawk] Venezuela, TotalEnergies sign memorandum as oil sector seeks revival - RTRS
-- 09/20 10:37 [FirstSquawk] China central bank keeps 7-day reverse repo rate at 1.40%, injects 32 billion yuan
 - 09/20 10:49 [FirstSquawk] Bessent, Greer to meet China’s He Lifeng at JPMorgan HQ in New York
 - 09/20 10:54 [FirstSquawk] China holds 1-year LPR steady at 3.00%, no change from August
 - 09/20 10:55 [FirstSquawk] U.S. military strikes vessel in Caribbean over alleged narco-trafficking; four killed
@@ -181,3 +178,7 @@
 - 09/20 21:58 [FirstSquawk] Jerusalem Governorate: Israeli National Security Minister Ben Gvir storms the blessed Al-Aqsa Mosque under tight security protection
 - 09/20 21:58 [FirstSquawk] Israeli Army Chief of Staff: Our forces are on high alert, deployed and ready on all fronts
 - 09/20 22:21 [FirstSquawk] Yemeni government forces: Warplanes target Houthi militia elements and equipment in Al-Bayda Governorate
+- 09/20 22:31 [FirstSquawk] Fox News, citing an undisclosed Russian document: A Russian-Iranian plan provides an "alternative mechanism" to counter Western pressure.
+- 09/20 22:31 [FirstSquawk] Fox News, citing a Russian document: The document outlines plans for nuclear cooperation and Iranian manufacturing of components for Russian aircraft.
+- 09/20 22:41 [FirstSquawk] Syrian TV: Israeli occupation forces are shelling the southeastern part of the town of Al-Rafid in the southern Quneitra countryside.
+- 09/20 22:41 [FirstSquawk] Trump to Fox News: I'm in a decision-making position and very big things will happen in the near future.

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-20 22:23 JST／対象: 09/20 16:23 〜 09/20 22:23 JST（時刻はすべて日本時間）
+生成: 2026-09-20 22:41 JST／対象: 09/20 16:41 〜 09/20 22:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 61 | 09/20 16:51 | 09/20 22:21 | ⚠ 60分（19:15→20:15） |
-| financialjuice | 12 | 09/20 16:39 | 09/20 21:07 | ⚠ 98分（16:39→18:18） |
+| FirstSquawk | 65 | 09/20 16:51 | 09/20 22:41 | ⚠ 60分（19:15→20:15） |
+| financialjuice | 10 | 09/20 18:18 | 09/20 21:07 | ⚠ 64分（19:32→20:37） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 73 行（統合前 73 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 75 行（統合前 75 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 16:39 [financialjuice] Ukraine's military hit an oil refinery in Russia's Moscow region: Zelenskiy
-- 09/20 16:39 [financialjuice] Iran's parliament speaker Galibaf: strait of Hormuz will stay closed until Tehran's conditions are met - Fars
 - 09/20 16:51 [FirstSquawk] Obama on AI: There’s the big science-fiction risk — these models get smarter than us, and they decide humans are fine, but not necessary. They start setting their own goals and the killer robots, you know, kill us, or we bow down to them.
 - 09/20 16:52 [FirstSquawk] Obama on AI: If we are thinking about AI just in terms of how do we cure cancer or get better energy, you can do that without having agentic AI and having it just roaming free in the internet.
 - 09/20 16:52 [FirstSquawk] Authorities in northern Iran said on Sunday they were investigating an event featuring music and women without mandatory headscarves at a hotel in Nowshahr.
@@ -97,3 +95,7 @@
 - 09/20 21:58 [FirstSquawk] Jerusalem Governorate: Israeli National Security Minister Ben Gvir storms the blessed Al-Aqsa Mosque under tight security protection
 - 09/20 21:58 [FirstSquawk] Israeli Army Chief of Staff: Our forces are on high alert, deployed and ready on all fronts
 - 09/20 22:21 [FirstSquawk] Yemeni government forces: Warplanes target Houthi militia elements and equipment in Al-Bayda Governorate
+- 09/20 22:31 [FirstSquawk] Fox News, citing an undisclosed Russian document: A Russian-Iranian plan provides an "alternative mechanism" to counter Western pressure.
+- 09/20 22:31 [FirstSquawk] Fox News, citing a Russian document: The document outlines plans for nuclear cooperation and Iranian manufacturing of components for Russian aircraft.
+- 09/20 22:41 [FirstSquawk] Syrian TV: Israeli occupation forces are shelling the southeastern part of the town of Al-Rafid in the southern Quneitra countryside.
+- 09/20 22:41 [FirstSquawk] Trump to Fox News: I'm in a decision-making position and very big things will happen in the near future.
