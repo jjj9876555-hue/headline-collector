@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-20 11:17 JST／対象: 09/19 11:17 〜 09/20 11:17 JST（時刻はすべて日本時間）
+生成: 2026-09-20 11:32 JST／対象: 09/19 11:32 〜 09/20 11:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 12 | 09/19 23:19 | 09/20 03:47 | ⚠ 74分（23:19→00:34） |
-| FirstSquawk | 207 | 09/19 11:20 | 09/20 11:13 | ⚠ 366分（03:10→09:16） |
+| FirstSquawk | 205 | 09/19 11:33 | 09/20 11:31 | ⚠ 366分（03:10→09:16） |
 | financialjuice | 46 | 09/19 15:14 | 09/20 10:21 | ⚠ 256分（04:39→08:55） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 259 行（統合前 265 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 257 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/19 11:20 [FirstSquawk] Rubio, South Korean counterpart stress US-Japan-ROK cooperation for regional security – State Department
-- 09/19 11:21 [FirstSquawk] Riyadh placed on alert over potential danger, Saudi Civil Defense says
-- 09/19 11:23 [FirstSquawk] Trump says US will permanently retain ability to take necessary steps to defend Greenland
-- 09/19 11:25 [FirstSquawk] Trump: US will incur no cost under agreement with Denmark and Greenland
-- 09/19 11:25 [FirstSquawk] Meituan subsidiary under investigation in China over alleged unfair competition violations
-- 09/19 11:28 [FirstSquawk] Kim Yo Jong: North Korea will reject IAEA resolution – KCNA
-- 09/19 11:28 [FirstSquawk] IAEA resolution has no impact on North Korea’s nuclear-state status, KCNA says
-- 09/19 11:29 [FirstSquawk] Kim Jong Un says military modernization signals significant change in North Korea’s war plans – KCNA
-- 09/19 11:31 [FirstSquawk] Saudi Civil Defense: Danger in Riyadh has passed
 - 09/19 11:33 [FirstSquawk] Danger in Al Kharj has passed, Saudi Civil Defense says
 - 09/19 11:40 [FirstSquawk] Lebanon faces sharp economic contraction in 2026 as inflation stays in double digits – IMF
 - 09/19 11:40 [FirstSquawk] IMF staff concludes mission to Lebanon
@@ -283,3 +274,10 @@
 - 09/20 11:11 [FirstSquawk] Yemen’s Houthis claim attack was on Aramco facility in Yanbu
 - 09/20 11:12 [FirstSquawk] Yemen’s Houthis claim attacks on “sensitive” sites in Riyadh using missiles and drones
 - 09/20 11:13 [FirstSquawk] Saudi Arabia has not immediately confirmed Houthi claims
+- 09/20 11:18 [FirstSquawk] Iran’s top security official outlines conditions including end to war, unfreezing Iranian funds, lifting naval blockade
+- 09/20 11:19 [FirstSquawk] Leading Report says trump reportedly considering military strike options against Yemen
+- 09/20 11:22 [FirstSquawk] Iran security chief says Tehran seeks an end to fighting between Saudi Arabia and Yemen
+- 09/20 11:25 [FirstSquawk] Iran’s top security official says Tehran’s conditions were conveyed to Washington via Qatar - AL JAZEERA INTERVIEW
+- 09/20 11:27 [FirstSquawk] Iran security chief: Talks ongoing with Qatar and Pakistan as mediators, negotiation conditions conveyed - AL JAZEERA INTERVIEW
+- 09/20 11:31 [FirstSquawk] GranMorgu project sees at least 50% of planned $12 billion investment spent, TotalEnergies says
+- 09/20 11:31 [FirstSquawk] U.S. officials say Kremlin seeks to undermine confidence in American democracy with online influence campaigns – NYT
