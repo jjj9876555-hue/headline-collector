@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 17:27 JST／対象: 09/20 17:27 〜 09/21 17:27 JST（時刻はすべて日本時間）
+生成: 2026-09-21 17:44 JST／対象: 09/20 17:44 〜 09/21 17:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 248 | 09/20 17:35 | 09/21 17:20 | ⚠ 95分（03:25→05:00） |
+| FirstSquawk | 244 | 09/20 18:15 | 09/21 17:43 | ⚠ 95分（03:25→05:00） |
 | financialjuice | 129 | 09/20 18:18 | 09/21 17:11 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 372 行（統合前 380 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 368 行（統合前 376 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 17:35 [FirstSquawk] NO Strait of Hormuz reopening until all Iran’s conditions are met — Parliament Speaker Ghalibaf 'Our stance is completely clear, rational, and non-negotiable'
-- 09/20 17:35 [FirstSquawk] Japanese supermarket operator Saeki Selva Holdings plans to enter the Vietnamese market, training workers in both countries on everything from the basics to running entire stores.
-- 09/20 17:36 [FirstSquawk] Iranian Judiciary Chief Gholam-Hossein Mohseni-Ejei was unanimously reelected to chair the Expediency Council’s legal and judicial committee for a fifth consecutive year, state media reported on Sunday.
-- 09/20 17:37 [FirstSquawk] Italy's Defense Minister Guido Crosetto: There must be a reason why TikTok is banned in China even though it is Chinese. And there must be a reason why the messages shown on Chinese TikTok are completely different from those shown on Wester…
-- 09/20 17:38 [FirstSquawk] yen is vulnerable to sharp moves and further declines, with a three-day holiday in Japan set to reduce trading liquidity and investors disappointed that the central bank didn’t offer stronger guidance on the pace of future rate hikes.
-- 09/20 17:41 [FirstSquawk] Iran's Security Council Secretary Rezaei: Trump greatly underestimated Iran. Today, nobody considers America’s war with Iran to be a rational or logical war. Everyone describes it as a stupid war, and I want to add another word to that: ign…
 - 09/20 18:15 [FirstSquawk] AFP": North Korea launches a second unspecified projectile into the Sea of Japan
 - 09/20 18:16 [FirstSquawk] Russians headed to the polls on Sunday for a third and final day of tightly controlled parliamentary elections set to strengthen the Kremlin's grip on power, as the Ukraine war grinds through its fifth year.
 - 09/20 18:16 [FirstSquawk] Iran’s dams were 47% full as of September 19, leaving 53% of their total reservoir capacity empty, state media reported on Sunday.
@@ -396,3 +390,5 @@
 - 09/21 17:20 [FirstSquawk] NOVO NORDISK CEO: THE DISCLOSURE OF AN ADDITIONAL 4,000 PERSONNEL LEAVING THE COMPANY BRINGS TOTAL CORPORATE DOWNSIZING RELATED TO THE OPERATIONAL UNIFICATION TO 13,000 INDIVIDUALS || IT IS TIME TO FURTHER DIVERSIFY THE COMPANY || WE'RE CRE…
 - 09/21 17:20 [FirstSquawk] NOVO NORDISK CEO: LIVER DISEASE IS ALSO AN OBVIOUS PLACE FOR US TO GO || CARDIOVASCULAR IS ANOTHER OBVIOUS PLACE FOR US TO GO, DESPITE RECENT SETBACKS
 - 09/21 17:20 [FirstSquawk] SOCIETE GENERALE CEO: LOWERING COSTS "HAS BEEN AND WILL REMAIN AT THE HEART OF OUR STRATEGY" || BY 2029 BANK WILL HAVE REDUCED IT COSTS BY 30% SINCE 2022
+- 09/21 17:42 [FirstSquawk] INDIA-EU FTA TO COME INTO EFFECT WITHIN 6-7 MONTH - GOYAL
+- 09/21 17:43 [FirstSquawk] INDIA TRADE MINISTER SAYS INDIA, CANADA TO HOLD NEXT ROUND OF TRADE TALKS FROM OCT 5
