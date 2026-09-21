@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 11:36 JST／対象: 09/20 11:36 〜 09/21 11:36 JST（時刻はすべて日本時間）
+生成: 2026-09-21 11:51 JST／対象: 09/20 11:51 〜 09/21 11:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 245 | 09/20 11:39 | 09/21 11:35 | ⚠ 95分（03:25→05:00） |
+| FirstSquawk | 241 | 09/20 11:56 | 09/21 11:46 | ⚠ 95分（03:25→05:00） |
 | financialjuice | 110 | 09/20 12:59 | 09/21 11:08 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 351 行（統合前 357 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 347 行（統合前 353 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 11:39 [FirstSquawk] France’s public debt-to-GDP ratio projected to reach 119.3% in 2026 and 121.7% in 2027
-- 09/20 11:39 [FirstSquawk] 4. France targets narrower budget deficit of 5.0% of GDP in 2027, down from 5.4% in 2026
-- 09/20 11:39 [FirstSquawk] France targets narrower budget deficit of 5.0% of GDP in 2027, down from 5.4% in 2026
-- 09/20 11:41 [FirstSquawk] Kapotnya Oil Refinery in Moscow reportedly targeted in Ukrainian strike - WSN
-- 09/20 11:46 [FirstSquawk] Malaysia’s DAP sec-gen says his offer to resign from cabinet reflects the party’s stance
-- 09/20 11:49 [FirstSquawk] WSJ: Polymarket’s expansion exposed gaps that enabled fraudulent activity
 - 09/20 11:56 [FirstSquawk] China’s booming cosmetics market sees rise of homegrown brands – Kyodo
 - 09/20 12:09 [FirstSquawk] BOJ steps up rate hikes, while path for further tightening remains unclear - KYODO
 - 09/20 12:23 [FirstSquawk] Iran faces deeper medicine shortages as war disrupts shipping
@@ -375,3 +369,5 @@
 - 09/21 11:29 [FirstSquawk] China’s mainland bourses ramp up outreach amid Hong Kong’s IPO surge — SCMP
 - 09/21 11:32 [FirstSquawk] South Korea issues 5-year government bonds at 4.275% yield — Finance Ministry
 - 09/21 11:35 [FirstSquawk] Hang Seng Biotech Index climbs 5% in Hong Kong trading
+- 09/21 11:44 [FirstSquawk] China cuts rare-earth magnet exports to US ahead of Xi-Trump talks - CNBC
+- 09/21 11:46 [FirstSquawk] Tropical Depression becomes Tropical Storm Polo, with major hurricane forecast — NHC

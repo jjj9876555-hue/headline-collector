@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 11:36 JST／対象: 09/20 23:36 〜 09/21 11:36 JST（時刻はすべて日本時間）
+生成: 2026-09-21 11:51 JST／対象: 09/20 23:51 〜 09/21 11:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/20 23:43 | 09/20 23:43 | - |
-| FirstSquawk | 121 | 09/20 23:52 | 09/21 11:35 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 94 | 09/20 23:39 | 09/21 11:08 | ⚠ 114分（05:13→07:07） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 123 | 09/20 23:52 | 09/21 11:46 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 82 | 09/20 23:58 | 09/21 11:08 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 215 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 204 行（統合前 205 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 23:39 [financialjuice] Qatar's prime minister: crisis in Qatar's economy an opportunity to trim government spending and focus investments on priorities
-- 09/20 23:41 [financialjuice] Minneapolis Federal Reserve president Neel Kashkari: Fed’s job is to bring inflation back to 2% target - Fox News interview
-- 09/20 23:41 [financialjuice] Kashkari: Inflation remains too high in Fox News interview
-- 09/20 23:42 [financialjuice] Kashkari: Inflation extends beyond oil prices
-- 09/20 23:42 [financialjuice] Kashkari: Hopefully we'll get support from other parts of government, the real economy
-- 09/20 23:43 [DeItaone] 🟠 TIER 2 IRAN WARNS NEW U.S. ATTACK MAY BE COMING, THREATENS SUSTAINED RETALIATION Iran says it has information that the U.S. and allies are preparing a major new attack, Reuters reported. Tehran’s military command warned any strike would t…
-- 09/20 23:43 [financialjuice] Kashkari: strong investment demand tends to boost interest rates
-- 09/20 23:44 [financialjuice] Kashkari: growth has been fairly robust
-- 09/20 23:44 [financialjuice] Kashkari: American economy remains very resilient despite wars
-- 09/20 23:44 [financialjuice] Kashkari: productivity showing some signs of improvement
-- 09/20 23:44 [financialjuice] Kashkari: hopeful growth can prevail and reduce inflation
-- 09/20 23:45 [financialjuice] Kashkari: Bond market is responsibility of Treasury
-- 09/20 23:45 [financialjuice] Kashkari: Labor market remains robust
 - 09/20 23:52 [FirstSquawk] Qatari Prime Minister and Foreign Minister: We must eliminate the sources of discord, and no country can impose a threat on the rest.
 - 09/20 23:52 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Energy is our strength and technology is our future
 - 09/20 23:52 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Our region has witnessed what I can only describe as an earthquake
@@ -239,3 +226,5 @@
 - 09/21 11:29 [FirstSquawk] China’s mainland bourses ramp up outreach amid Hong Kong’s IPO surge — SCMP
 - 09/21 11:32 [FirstSquawk] South Korea issues 5-year government bonds at 4.275% yield — Finance Ministry
 - 09/21 11:35 [FirstSquawk] Hang Seng Biotech Index climbs 5% in Hong Kong trading
+- 09/21 11:44 [FirstSquawk] China cuts rare-earth magnet exports to US ahead of Xi-Trump talks - CNBC
+- 09/21 11:46 [FirstSquawk] Tropical Depression becomes Tropical Storm Polo, with major hurricane forecast — NHC
