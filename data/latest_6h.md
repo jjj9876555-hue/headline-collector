@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 16:22 JST／対象: 09/21 10:22 〜 09/21 16:22 JST（時刻はすべて日本時間）
+生成: 2026-09-21 16:38 JST／対象: 09/21 10:38 〜 09/21 16:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 71 | 09/21 10:23 | 09/21 16:20 | 21分（11:46→12:07） |
-| financialjuice | 27 | 09/21 10:22 | 09/21 16:18 | ⚠ 57分（11:08→12:05） |
+| FirstSquawk | 64 | 09/21 10:41 | 09/21 16:20 | 21分（11:46→12:07） |
+| financialjuice | 22 | 09/21 10:40 | 09/21 16:22 | ⚠ 57分（11:08→12:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 97 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 85 行（統合前 87 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 10:22 [financialjuice] User reports indicate issues with Facebook in the U.S.: Downdetector
-- 09/21 10:23 [FirstSquawk] Facebook users report issues across the U.S. — Downdetector
-- 09/21 10:24 [financialjuice] User reports show issues with Facebook for 15,602 users in U.S. as of 9:05 pm ET - Downdetector
-- 09/21 10:24 [financialjuice] South Korea President Lee to journey to US, Mexico September 21-27: Blue House
-- 09/21 10:24 [financialjuice] South Korea President Lee intends to meet US, Australia and other leaders at UN - Blue House
-- 09/21 10:24 [financialjuice] South Korea's Lee to attend UN General Assembly, hold summit with Mexico's Sheinbaum - Blue House
-- 09/21 10:26 [FirstSquawk] South Korea’s Lee to meet US, Australian and other leaders at UN — Blue House
-- 09/21 10:26 [FirstSquawk] Lee to attend UNGA and meet Mexico’s Sheinbaum for summit talks — Blue House
-- 09/21 10:27 [FirstSquawk] President Lee to travel to US and Mexico on Sept. 21-27 — Blue House
-- 09/21 10:28 [FirstSquawk] SoftBank Group’s proposed dollar, euro notes rated ‘BB+’ by Fitch
-- 09/21 10:36 [FirstSquawk] Japan plans ¥6.7 bln spending boost to combat invasive beetles — Kyodo
-- 09/21 10:36 [financialjuice] China central bank plans to sell 60 billion yuan 182-day bills in Hong Kong on Sept. 23
-- 09/21 10:37 [FirstSquawk] PBOC plans 60 bln yuan 182-day bill sale in Hong Kong on Sept. 23
 - 09/21 10:40 [financialjuice] S.Korea central bank sells 91-day monetary stabilisation bonds at 3.080% yield
 - 09/21 10:41 [FirstSquawk] Bank of Korea sells 91-day monetary stabilisation bonds at 3.080%
 - 09/21 10:48 [FirstSquawk] North Korea fires multiple short-range ballistic missiles toward Sea of Japan — Kyodo
@@ -121,3 +108,4 @@
 - 09/21 16:18 [FirstSquawk] XI AND TRUMP TO HAVE IN-DEPTH EXCHANGE OF VIEWS DURING VISIT: GUO
 - 09/21 16:20 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN TO FLY TO NEW YORK FOR UN GENERAL ASSEMBLY ON TUESDAY ACCORDING TO IRNA
 - 09/21 16:20 [FirstSquawk] PORSCHE CEO IN MEMO TO STAFF: PORSCHE DOES NOT PLAN ADDITIONAL 4,000 JOB CUTS || THERE IS NO CHANGE TO PORSCHE OUTLOOK
+- 09/21 16:22 [financialjuice] Iran's president Pezeshkian to fly to New York for the UN General Assembly on Tuesday - IRNA
