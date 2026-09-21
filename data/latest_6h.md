@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 05:17 JST／対象: 09/21 23:17 〜 09/22 05:17 JST（時刻はすべて日本時間）
+生成: 2026-09-22 05:31 JST／対象: 09/21 23:31 〜 09/22 05:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/21 23:17 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 97 | 09/21 23:20 | 09/22 05:08 | 38分（01:55→02:34） |
-| financialjuice | 96 | 09/21 23:18 | 09/22 05:15 | 34分（01:57→02:32） |
+| DeItaone | 19 | 09/21 23:45 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 92 | 09/21 23:38 | 09/22 05:28 | 38分（01:55→02:34） |
+| financialjuice | 91 | 09/21 23:34 | 09/22 05:18 | 34分（01:57→02:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 207 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 193 行（統合前 204 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 23:17 [DeItaone] $AMD - ADVANCED MICRO DEVICES HITS $1 TRILLION IN MARKET CAPITALIZATION FOR THE FIRST TIME
-- 09/21 23:18 [financialjuice] Fear and Greed Index: 33/100 = Fear
-- 09/21 23:18 [financialjuice] Crypto Fear and Greed Index: 70/100 = Greed
-- 09/21 23:19 [DeItaone] OIL SLIDES AS SAUDI FLOWS DEFY DISRUPTION Brent fell 2.6% to $101.18, while WTI dropped below $98 as diplomacy hopes and resilient supply eased fears of a deeper shortage. Saudi shipments through Hormuz have averaged 2.9 million bpd, versus…
-- 09/21 23:20 [FirstSquawk] BRENT CRUDE FUTURES DROP BELOW $100/BBL FOR THE FIRST TIME SINCE SEPTEMBER 9
-- 09/21 23:20 [FirstSquawk] UKMTO: LPG TANKER HIT BY UNKNOWN PROJECTILE DEBRIS IN HORMUZ
-- 09/21 23:21 [FirstSquawk] AMD’S MARKET CAP HITS $1 TLN MARKET CAP FOR THE FIRST TIME
-- 09/21 23:24 [DeItaone] CNN, MS NOW, POLITICO SUE DONALD TRUMP, COURT RECORDS SHOW
-- 09/21 23:24 [financialjuice] UKMTO: We received a time-late report of an incident involving lpg tanker transiting outbound of the Strait of Hormuz.
-- 09/21 23:25 [financialjuice] UKMTO: A master has reported that an LPG tanker has been hit by debris from unknown projectiles.
-- 09/21 23:25 [financialjuice/FirstSquawk] ❗ US proposed extending China trade truce by six months - NYT.
-- 09/21 23:27 [FirstSquawk] CHINA HAS PUSHED FOR A LONGER TRADE TRUCE EXTENSION: NYT
-- 09/21 23:28 [financialjuice] Stocks of crude oil in the US strategic petroleum reserve fell to 284.6 million barrels last week, the lowest since 1982.
-- 09/21 23:28 [FirstSquawk] US STRATEGIC PETROLEUM RESERVE CRUDE OIL STOCKS DROPPED TO 284.6 MILLION BARRELS LAST WEEK, THE LOWEST LEVEL SINCE 1982.
-- 09/21 23:29 [DeItaone] *US PROPOSED EXTENDING CHINA TRADE TRUCE BY SIX MONTHS: NYT *CHINA HAS PUSHED FOR A LONGER TRADE TRUCE EXTENSION: NYT
-- 09/21 23:29 [DeItaone] STOCKS OF CRUDE OIL IN US STRATEGIC PETROLEUM RESERVE FELL TO 284.6 MLN BARRELS LAST WEEK, LOWEST SINCE 1982
 - 09/21 23:34 [financialjuice] OpenAI develops features to counter Grok bot, and mulls a response to Meta's Muse - The Information.
 - 09/21 23:38 [FirstSquawk] NASDAQ 100 EXTENDS GAIN TO 2%
 - 09/21 23:40 [financialjuice] US VP Vance on Iran: Oil is still flowing - Pool Report
@@ -231,3 +215,5 @@
 - 09/22 05:08 [FirstSquawk] US STOCKS JUMPED AS AI OPTIMISM DROVE A TECHNOLOGY RALLY, WITH THE S&P 500 RISING 1.5% AND NASDAQ 100 2.8%, WHILE AMD SURPASSED A $1 TRILLION VALUATION AND META SURGED 11%. OIL PRICES FELL ON HOPES FOR DIPLOMATIC PROGRESS IN THE IRAN CONFLI…
 - 09/22 05:08 [FirstSquawk] TREASURY YIELDS ALSO FELL, WITH THE 10-YEAR AT 4.95%, WHILE BITCOIN CLIMBED 6.7% ABOVE $86,000. MARKETS ARE ALSO WATCHING THE UPCOMING TRUMP-XI SUMMIT FOR POTENTIAL PROGRESS ON TARIFFS, TRADE AND CRITICAL MINERALS, WHILE HIGHER ENERGY PRICE…
 - 09/22 05:15 [financialjuice] Iran’s Foreign Minister Araghchi arrives in New York to attend UN General Assembly - IRNA
+- 09/22 05:18 [financialjuice] WATCH LIVE: Trump Meets With Mayor Zohran Mamdani In New York City
+- 09/22 05:28 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI ARRIVES IN NEW YORK TO ATTEND UN GENERAL ASSEMBLY - IRANIAN MEDIA
