@@ -7,24 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 11:03 JST／対象: 09/21 05:03 〜 09/21 11:03 JST（時刻はすべて日本時間）
+生成: 2026-09-21 11:21 JST／対象: 09/21 05:21 〜 09/21 11:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 66 | 09/21 05:22 | 09/21 10:57 | 45分（07:56→08:41） |
-| financialjuice | 32 | 09/21 05:13 | 09/21 11:03 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 70 | 09/21 05:22 | 09/21 11:19 | 45分（07:56→08:41） |
+| financialjuice | 32 | 09/21 07:07 | 09/21 11:08 | ⚠ 97分（07:12→08:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 97 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 05:13 [financialjuice/FirstSquawk] Japan to use industrial machinery for gathering physical AI data: Nikkei
+- 09/21 05:22 [FirstSquawk] JAPAN TO USE INDUSTRIAL MACHINERY FOR GATHERING PHYSICAL AI DATA: NIKKEI
 - 09/21 05:23 [FirstSquawk] FRIEDRICH MERZ SAID HE WOULD STAY AS GERMAN CHANCELLOR DESPITE HIS PARTY'S WORST-EVER STATE ELECTION RESULT, WITH THE CDU WINNING 4.9% IN MECKLENBURG-WESTERN POMERANIA — JUST MISSING THE 5% THRESHOLD TO ENTER PARLIAMENT FOR THE FIRST TIME I…
 - 09/21 05:24 [FirstSquawk] FRIEDRICH MERZ CALLED THE RESULT 'A DISASTER', WITH THE FALLOUT — AFTER A DEFEAT TO THE AFD TWO WEEKS AGO IN SAXONY-ANHALT — PROMPTING CALLS TO PUSH HIM OUT AFTER JUST 16 MONTHS, AS HIS CDU WAS ALSO DEFEATED IN BERLIN BY THE ANTI-CAPITALIST…
 - 09/21 05:27 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI LEFT TEHRAN FOR UN GENERAL ASSEMBLY IN NEW YORK, WITH BRIEF STOP PLANNED IN QATAR - STATE MEDIA
@@ -121,3 +121,8 @@
 - 09/21 10:57 [FirstSquawk] NZ dollar languishes near two-month low as bears target 0.5700 - FX
 - 09/21 11:02 [financialjuice] China, US held candid, detailed, and constructive talks on key economic, trade issues: state media
 - 09/21 11:03 [financialjuice] China, US hold talks on artificial intelligence issues: state media
+- 09/21 11:04 [FirstSquawk] China and US discuss issues related to artificial intelligence — State Media
+- 09/21 11:05 [FirstSquawk] China and US engage in candid, in-depth exchanges on major economic and trade matters — State Media
+- 09/21 11:08 [financialjuice] 12 vessels passed through Strait of Hormuz over weekend, down from 35 week before - shipping data
+- 09/21 11:09 [FirstSquawk] Strait of Hormuz traffic falls to 12 vessels over weekend vs 35 last week — Shipping Data
+- 09/21 11:19 [FirstSquawk] Vietnam stock market opens up 0.54% following FTSE Russell upgrade

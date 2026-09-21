@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 11:03 JST／対象: 09/20 23:03 〜 09/21 11:03 JST（時刻はすべて日本時間）
+生成: 2026-09-21 11:21 JST／対象: 09/20 23:21 〜 09/21 11:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 115 | 09/20 23:23 | 09/21 10:57 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 96 | 09/20 23:15 | 09/21 11:03 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 119 | 09/20 23:23 | 09/21 11:19 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 94 | 09/20 23:39 | 09/21 11:08 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 212 行（統合前 213 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 214 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 23:15 [financialjuice] Qatar’s prime minister: QIA launches Doha Investment, new unit for domestic investments
-- 09/20 23:15 [financialjuice] Air defences intercept drone near Erbil airport in Iraqi Kurdistan: security sources
-- 09/20 23:17 [financialjuice] Qatar’s prime minister: Qatar anticipates awarding about $38.5 billion in new infrastructure projects over next five years
 - 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We are ready to cooperate with the Nile Basin countries
 - 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We are not against building dams at all, but we are against unilateralism.
 - 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We have some concerns regarding the Nile Basin Cooperative Framework Agreement.
@@ -236,3 +233,8 @@
 - 09/21 10:57 [FirstSquawk] NZ dollar languishes near two-month low as bears target 0.5700 - FX
 - 09/21 11:02 [financialjuice] China, US held candid, detailed, and constructive talks on key economic, trade issues: state media
 - 09/21 11:03 [financialjuice] China, US hold talks on artificial intelligence issues: state media
+- 09/21 11:04 [FirstSquawk] China and US discuss issues related to artificial intelligence — State Media
+- 09/21 11:05 [FirstSquawk] China and US engage in candid, in-depth exchanges on major economic and trade matters — State Media
+- 09/21 11:08 [financialjuice] 12 vessels passed through Strait of Hormuz over weekend, down from 35 week before - shipping data
+- 09/21 11:09 [FirstSquawk] Strait of Hormuz traffic falls to 12 vessels over weekend vs 35 last week — Shipping Data
+- 09/21 11:19 [FirstSquawk] Vietnam stock market opens up 0.54% following FTSE Russell upgrade

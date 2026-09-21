@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 11:03 JST／対象: 09/20 11:03 〜 09/21 11:03 JST（時刻はすべて日本時間）
+生成: 2026-09-21 11:21 JST／対象: 09/20 11:21 〜 09/21 11:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 250 | 09/20 11:05 | 09/21 10:57 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 109 | 09/20 12:59 | 09/21 11:03 | ⚠ 220分（12:59→16:39） |
+| FirstSquawk | 246 | 09/20 11:22 | 09/21 11:19 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 110 | 09/20 12:59 | 09/21 11:08 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 355 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 352 行（統合前 358 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 11:05 [FirstSquawk] Nippon Life targets $13 billion in data center financing, with focus on U.S. – Nikkei Asia
-- 09/20 11:07 [FirstSquawk] Trump announces plans to form AI force similar to Space Force
-- 09/20 11:08 [FirstSquawk] Iran foreign ministry spokesperson: Pakistan minister’s Iran visit focused on bilateral ties, no knowledge of U.S. message
-- 09/20 11:11 [FirstSquawk] Yemen’s Houthis claim attack was on Aramco facility in Yanbu
-- 09/20 11:12 [FirstSquawk] Yemen’s Houthis claim attacks on “sensitive” sites in Riyadh using missiles and drones
-- 09/20 11:13 [FirstSquawk] Saudi Arabia has not immediately confirmed Houthi claims
-- 09/20 11:18 [FirstSquawk] Iran’s top security official outlines conditions including end to war, unfreezing Iranian funds, lifting naval blockade
-- 09/20 11:19 [FirstSquawk] Leading Report says trump reportedly considering military strike options against Yemen
 - 09/20 11:22 [FirstSquawk] Iran security chief says Tehran seeks an end to fighting between Saudi Arabia and Yemen
 - 09/20 11:25 [FirstSquawk] Iran’s top security official says Tehran’s conditions were conveyed to Washington via Qatar - AL JAZEERA INTERVIEW
 - 09/20 11:27 [FirstSquawk] Iran security chief: Talks ongoing with Qatar and Pakistan as mediators, negotiation conditions conveyed - AL JAZEERA INTERVIEW
@@ -379,3 +371,8 @@
 - 09/21 10:57 [FirstSquawk] NZ dollar languishes near two-month low as bears target 0.5700 - FX
 - 09/21 11:02 [financialjuice] China, US held candid, detailed, and constructive talks on key economic, trade issues: state media
 - 09/21 11:03 [financialjuice] China, US hold talks on artificial intelligence issues: state media
+- 09/21 11:04 [FirstSquawk] China and US discuss issues related to artificial intelligence — State Media
+- 09/21 11:05 [FirstSquawk] China and US engage in candid, in-depth exchanges on major economic and trade matters — State Media
+- 09/21 11:08 [financialjuice] 12 vessels passed through Strait of Hormuz over weekend, down from 35 week before - shipping data
+- 09/21 11:09 [FirstSquawk] Strait of Hormuz traffic falls to 12 vessels over weekend vs 35 last week — Shipping Data
+- 09/21 11:19 [FirstSquawk] Vietnam stock market opens up 0.54% following FTSE Russell upgrade
