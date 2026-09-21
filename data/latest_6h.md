@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 20:34 JST／対象: 09/21 14:34 〜 09/21 20:34 JST（時刻はすべて日本時間）
+生成: 2026-09-21 20:51 JST／対象: 09/21 14:51 〜 09/21 20:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/21 20:05 | 09/21 20:25 | 20分（20:05→20:25） |
-| FirstSquawk | 63 | 09/21 14:43 | 09/21 20:30 | 37分（16:20→16:58） |
+| DeItaone | 4 | 09/21 20:05 | 09/21 20:50 | 20分（20:05→20:25） |
+| FirstSquawk | 64 | 09/21 15:08 | 09/21 20:50 | 37分（16:20→16:58） |
 | financialjuice | 23 | 09/21 15:05 | 09/21 20:02 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 87 行（統合前 90 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 90 行（統合前 93 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 14:43 [FirstSquawk] South Korea’s central bank launches pilot for 24-hour offshore won settlement — Yonhap
-- 09/21 14:48 [FirstSquawk] Kazakhstan oil exports through Ust-Luga drop 30% month-on-month to 200,000 tonnes in August — IFX
 - 09/21 15:05 [financialjuice] Kazakhstan Oil to UST-Luga at 200k metric tons in August - IFX
 - 09/21 15:08 [FirstSquawk] North Korea condemns multilateral sanctions monitoring team as illegal US political instrument — KCNA
 - 09/21 15:08 [FirstSquawk] North Korea says new sanctions will not impede development or defence of key interests — KCNA
@@ -111,3 +109,8 @@
 - 09/21 20:24 [FirstSquawk] FED’S GOOLSBEE: THE 2% INFLATION TARGET IS STILL REALISTIC EVEN IN A WORLD OF REPEATED SUPPLY SHOCKS, MARKET EXPECTATIONS REFLECT FAITH IT WILL BE MET
 - 09/21 20:25 [DeItaone] FED’S GOOLSBEE: RATE CUTS POSSIBLE IF INFLATION HEADS TO 2% Fed’s Goolsbee remains optimistic inflation can return to the 2% target, provided demand does not overheat. He says the Fed currently has an inflation problem, not an employment pr…
 - 09/21 20:30 [FirstSquawk] CHINA PLANS TO DROP A 15% TARIFF ON US LNG THIS WEEK, POTENTIALLY REOPENING TRADE BETWEEN THE TWO NATIONS. NEW DEALS COULD FOLLOW.
+- 09/21 20:39 [FirstSquawk] YEMENI HOUTHI OFFICIAL SAYS EGYPT, TURKEY, AND PAKISTAN MAY BE TARGETS IN FUTURE ACTIONS.
+- 09/21 20:40 [FirstSquawk] US AMBASSADOR TO UN WALTZ SAYS TRUMP IS ALWAYS OPEN TO TALK, IRAN HAS TO COME TO TABLE
+- 09/21 20:43 [DeItaone] *WALTZ: TRUMP IS ALWAYS OPEN TO TALK, IRAN HAS TO COME TO TABLE
+- 09/21 20:50 [DeItaone] “STREAMFLATION” DRIVES MASS STREAMING CANCELLATIONS 39% of Americans canceled at least one streaming subscription over the past six months, up sharply from 29% in March, according to Ipsos. Repeated price hikes and broader cost-of-living pr…
+- 09/21 20:50 [FirstSquawk] MERZ SAYS REGIONAL ELECTION WAS 'DRAMATIC INCIDENT'

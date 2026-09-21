@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 20:34 JST／対象: 09/21 08:34 〜 09/21 20:34 JST（時刻はすべて日本時間）
+生成: 2026-09-21 20:51 JST／対象: 09/21 08:51 〜 09/21 20:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/21 20:05 | 09/21 20:25 | 20分（20:05→20:25） |
-| FirstSquawk | 152 | 09/21 08:41 | 09/21 20:30 | 37分（16:20→16:58） |
-| financialjuice | 56 | 09/21 08:49 | 09/21 20:02 | ⚠ 81分（17:11→18:32） |
+| DeItaone | 4 | 09/21 20:05 | 09/21 20:50 | 20分（20:05→20:25） |
+| FirstSquawk | 153 | 09/21 08:54 | 09/21 20:50 | 37分（16:20→16:58） |
+| financialjuice | 53 | 09/21 08:52 | 09/21 20:02 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 209 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 08:41 [FirstSquawk] JAPAN PM TAKAICHI CABINET APPROVAL UNCHANGED AT 62% - NIKKEI POLL
-- 09/21 08:41 [FirstSquawk] CHINA TRADE ENVOY LI CHENGGANG SAYS US-CHINA TRADE TALKS WERE “NOT BAD”; BOTH SIDES DISCUSSED TRADE, INVESTMENT & AI
-- 09/21 08:49 [financialjuice] US Treasury Secretary Bessent: had a very successful engagement with Chinese on trade and AI
-- 09/21 08:50 [financialjuice] US Treasury Secretary Bessent: US, China agreed to hold another meeting on al dialogue
-- 09/21 08:50 [financialjuice] US Treasury Secretary Bessent: US suggests notification system between two countries
 - 09/21 08:52 [financialjuice] USTR Greer: implemented board of trade
 - 09/21 08:52 [financialjuice] Greer says US, Chinese teams continue working on board of trade agreement
 - 09/21 08:53 [financialjuice] Greer: board of trade from Chinese side likely to include consumer goods and low-tech items
@@ -233,3 +228,8 @@
 - 09/21 20:24 [FirstSquawk] FED’S GOOLSBEE: THE 2% INFLATION TARGET IS STILL REALISTIC EVEN IN A WORLD OF REPEATED SUPPLY SHOCKS, MARKET EXPECTATIONS REFLECT FAITH IT WILL BE MET
 - 09/21 20:25 [DeItaone] FED’S GOOLSBEE: RATE CUTS POSSIBLE IF INFLATION HEADS TO 2% Fed’s Goolsbee remains optimistic inflation can return to the 2% target, provided demand does not overheat. He says the Fed currently has an inflation problem, not an employment pr…
 - 09/21 20:30 [FirstSquawk] CHINA PLANS TO DROP A 15% TARIFF ON US LNG THIS WEEK, POTENTIALLY REOPENING TRADE BETWEEN THE TWO NATIONS. NEW DEALS COULD FOLLOW.
+- 09/21 20:39 [FirstSquawk] YEMENI HOUTHI OFFICIAL SAYS EGYPT, TURKEY, AND PAKISTAN MAY BE TARGETS IN FUTURE ACTIONS.
+- 09/21 20:40 [FirstSquawk] US AMBASSADOR TO UN WALTZ SAYS TRUMP IS ALWAYS OPEN TO TALK, IRAN HAS TO COME TO TABLE
+- 09/21 20:43 [DeItaone] *WALTZ: TRUMP IS ALWAYS OPEN TO TALK, IRAN HAS TO COME TO TABLE
+- 09/21 20:50 [DeItaone] “STREAMFLATION” DRIVES MASS STREAMING CANCELLATIONS 39% of Americans canceled at least one streaming subscription over the past six months, up sharply from 29% in March, according to Ipsos. Repeated price hikes and broader cost-of-living pr…
+- 09/21 20:50 [FirstSquawk] MERZ SAYS REGIONAL ELECTION WAS 'DRAMATIC INCIDENT'
