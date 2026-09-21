@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 22:18 JST／対象: 09/21 10:18 〜 09/21 22:18 JST（時刻はすべて日本時間）
+生成: 2026-09-21 22:33 JST／対象: 09/21 10:33 〜 09/21 22:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/21 20:05 | 09/21 21:22 | 20分（20:05→20:25） |
-| FirstSquawk | 149 | 09/21 10:18 | 09/21 22:15 | 37分（16:20→16:58） |
-| financialjuice | 111 | 09/21 10:21 | 09/21 22:03 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 142 | 09/21 10:36 | 09/21 22:27 | 37分（16:20→16:58） |
+| financialjuice | 108 | 09/21 10:36 | 09/21 22:27 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 285 行（統合前 291 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 275 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 10:18 [FirstSquawk] Yuan mid-point hits strongest level since Feb. 3, 2023 after China fix
-- 09/21 10:19 [FirstSquawk] Washington and Beijing agree on AI dialogue before Trump-Xi meeting — FT
-- 09/21 10:21 [financialjuice] China injects 165 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/21 10:21 [FirstSquawk] PBOC injects 165 bln yuan through 7-day reverse repos at 1.40%
-- 09/21 10:22 [financialjuice] User reports indicate issues with Facebook in the U.S.: Downdetector
-- 09/21 10:23 [FirstSquawk] Facebook users report issues across the U.S. — Downdetector
-- 09/21 10:24 [financialjuice] User reports show issues with Facebook for 15,602 users in U.S. as of 9:05 pm ET - Downdetector
-- 09/21 10:24 [financialjuice] South Korea President Lee to journey to US, Mexico September 21-27: Blue House
-- 09/21 10:24 [financialjuice] South Korea President Lee intends to meet US, Australia and other leaders at UN - Blue House
-- 09/21 10:24 [financialjuice] South Korea's Lee to attend UN General Assembly, hold summit with Mexico's Sheinbaum - Blue House
-- 09/21 10:26 [FirstSquawk] South Korea’s Lee to meet US, Australian and other leaders at UN — Blue House
-- 09/21 10:26 [FirstSquawk] Lee to attend UNGA and meet Mexico’s Sheinbaum for summit talks — Blue House
-- 09/21 10:27 [FirstSquawk] President Lee to travel to US and Mexico on Sept. 21-27 — Blue House
-- 09/21 10:28 [FirstSquawk] SoftBank Group’s proposed dollar, euro notes rated ‘BB+’ by Fitch
 - 09/21 10:36 [FirstSquawk] Japan plans ¥6.7 bln spending boost to combat invasive beetles — Kyodo
 - 09/21 10:36 [financialjuice] China central bank plans to sell 60 billion yuan 182-day bills in Hong Kong on Sept. 23
 - 09/21 10:37 [FirstSquawk] PBOC plans 60 bln yuan 182-day bill sale in Hong Kong on Sept. 23
@@ -309,3 +295,7 @@
 - 09/21 22:03 [financialjuice] Googlebook ships October 4th in the US via Google Store and Best Buy $GOOGL
 - 09/21 22:04 [FirstSquawk] GOOGLE LAUNCHES GOOGLEBOOK LAPTOP LINE STARTING AT $899
 - 09/21 22:15 [FirstSquawk] COINBASE TO OFFER IPO ALLOCATIONS TO US RETAIL TRADERS
+- 09/21 22:26 [financialjuice] Société Générale CEO Krupa: France has significant macroeconomic challenges, but also strengths in energy, education, and start-ups.
+- 09/21 22:26 [financialjuice] Trump spoke via phone with Yemeni President Rashad Al-alimi on Sunday - Four Sources.
+- 09/21 22:27 [FirstSquawk] WHITE HOUSE TV POOL WON'T COVER TRUMP IN NYC: CNBC
+- 09/21 22:27 [financialjuice] Yemen's President requested US support for the government against the Houthis, but Trump made no pledge of military support - Two Sources

@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 22:18 JST／対象: 09/21 16:18 〜 09/21 22:18 JST（時刻はすべて日本時間）
+生成: 2026-09-21 22:33 JST／対象: 09/21 16:33 〜 09/21 22:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/21 20:05 | 09/21 21:22 | 20分（20:05→20:25） |
-| FirstSquawk | 79 | 09/21 16:18 | 09/21 22:15 | 37分（16:20→16:58） |
-| financialjuice | 83 | 09/21 16:22 | 09/21 22:03 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 76 | 09/21 16:58 | 09/21 22:27 | 29分（17:43→18:13） |
+| financialjuice | 85 | 09/21 16:45 | 09/21 22:27 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 188 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 187 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 16:18 [FirstSquawk] CHINA: WILL WORK WITH US TO MANAGE DIFFERENCES
-- 09/21 16:18 [FirstSquawk] XI AND TRUMP TO HAVE IN-DEPTH EXCHANGE OF VIEWS DURING VISIT: GUO
-- 09/21 16:20 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN TO FLY TO NEW YORK FOR UN GENERAL ASSEMBLY ON TUESDAY ACCORDING TO IRNA
-- 09/21 16:20 [FirstSquawk] PORSCHE CEO IN MEMO TO STAFF: PORSCHE DOES NOT PLAN ADDITIONAL 4,000 JOB CUTS || THERE IS NO CHANGE TO PORSCHE OUTLOOK
-- 09/21 16:22 [financialjuice] Iran's president Pezeshkian to fly to New York for the UN General Assembly on Tuesday - IRNA
 - 09/21 16:45 [financialjuice] Swiss Government: Supply of petrol and diesel has resumed through the usual supply channels
 - 09/21 16:46 [financialjuice] Swiss Government: Supply situation for petroleum products remains tight
 - 09/21 16:58 [FirstSquawk] PAKISTAN MINISTER'S VISIT UNRELATED TO US-IRAN MEDIATION - TASNIM
@@ -212,3 +207,7 @@
 - 09/21 22:03 [financialjuice] Googlebook ships October 4th in the US via Google Store and Best Buy $GOOGL
 - 09/21 22:04 [FirstSquawk] GOOGLE LAUNCHES GOOGLEBOOK LAPTOP LINE STARTING AT $899
 - 09/21 22:15 [FirstSquawk] COINBASE TO OFFER IPO ALLOCATIONS TO US RETAIL TRADERS
+- 09/21 22:26 [financialjuice] Société Générale CEO Krupa: France has significant macroeconomic challenges, but also strengths in energy, education, and start-ups.
+- 09/21 22:26 [financialjuice] Trump spoke via phone with Yemeni President Rashad Al-alimi on Sunday - Four Sources.
+- 09/21 22:27 [FirstSquawk] WHITE HOUSE TV POOL WON'T COVER TRUMP IN NYC: CNBC
+- 09/21 22:27 [financialjuice] Yemen's President requested US support for the government against the Houthis, but Trump made no pledge of military support - Two Sources
