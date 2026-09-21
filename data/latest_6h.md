@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 04:59 JST／対象: 09/21 22:59 〜 09/22 04:59 JST（時刻はすべて日本時間）
+生成: 2026-09-22 05:17 JST／対象: 09/21 23:17 〜 09/22 05:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 26 | 09/21 23:03 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 94 | 09/21 22:59 | 09/22 04:52 | 38分（01:55→02:34） |
-| financialjuice | 107 | 09/21 23:00 | 09/22 04:56 | 34分（01:57→02:32） |
+| DeItaone | 24 | 09/21 23:17 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 97 | 09/21 23:20 | 09/22 05:08 | 38分（01:55→02:34） |
+| financialjuice | 96 | 09/21 23:18 | 09/22 05:15 | 34分（01:57→02:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 216 行（統合前 230 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 207 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 22:59 [FirstSquawk] PARAMOUNT IS MOVING TO RESOLVE LAWSUITS, CLEARING THE PATH FOR A DEAL WITH WARNER BROS.
-- 09/21 23:00 [FirstSquawk] FED GOOLSBEE: NOT VIEWING RATE HIKE AS TAKING BACK 2025 CUTS
-- 09/21 23:00 [financialjuice] Fed's Goolsbee: I am not viewing rate hike as taking back 2025 cuts.
-- 09/21 23:00 [financialjuice] Fed's Goolsbee: I am worried services inflation may not go away.
-- 09/21 23:01 [financialjuice] Fed's Goolsbee: I sense some inflation coming from overheating demand.
-- 09/21 23:01 [FirstSquawk] GOOLSBEE: FED PROJECTIONS NOT ENOUGH IF INFL. IS DEMAND DRIVEN
-- 09/21 23:01 [financialjuice] Fed's Goolsbee: Fed projections are not enough if inflation is demand-driven.
-- 09/21 23:03 [DeItaone] OPENAI AND ANTHROPIC NEARED AI SAFETY TESTING DEAL OpenAI and Anthropic reportedly neared an agreement to stress-test each other’s AI models, searching for vulnerabilities and hidden risks. It’s unclear whether the deal was finalized before…
-- 09/21 23:04 [FirstSquawk] NOVO NORDISK ADRS EXTEND DROP TO SESSION-LOW 7.4%
-- 09/21 23:04 [DeItaone/FirstSquawk] SPOT GOLD FALLS OVER 1% TO $4,325.49/OZ
-- 09/21 23:10 [FirstSquawk] NOVO CFO: AIM TO MAINTAIN ‘BROADLY STABLE’ OP. MARGIN UNTIL 2030 COMPARED TO TODAY
-- 09/21 23:10 [financialjuice] USTR Greer: China is doing what they promised on soybeans - Fox News.
-- 09/21 23:11 [financialjuice] USTR Greer: Rare earths are coming in, but we'd like higher quantities.
-- 09/21 23:12 [financialjuice] USTR Greer: China is making progress on it's Boeing commitment from May. $BA
-- 09/21 23:12 [financialjuice] USTR Greer: There is no grand bargain to be had with China.
-- 09/21 23:13 [financialjuice] USTR Greer ends remarks on Fox News.
-- 09/21 23:14 [FirstSquawk] TAKAICHI TO STRESS JAPANESE INVESTMENT IN US IN TALKS WITH TRUMP - NIKKEI
-- 09/21 23:14 [financialjuice] Japan's PM Takaichi is going to stress Japanese investment in the US in talks with Trump - Nikkei.
-- 09/21 23:16 [financialjuice] Takaichi to stress Japanese investment in US in talks with Trump
-- 09/21 23:17 [financialjuice] Advanced Micro Devices hits $1 trillion in market capitalization for the first time. $AMD
 - 09/21 23:17 [DeItaone] $AMD - ADVANCED MICRO DEVICES HITS $1 TRILLION IN MARKET CAPITALIZATION FOR THE FIRST TIME
 - 09/21 23:18 [financialjuice] Fear and Greed Index: 33/100 = Fear
 - 09/21 23:18 [financialjuice] Crypto Fear and Greed Index: 70/100 = Greed
@@ -240,3 +220,14 @@
 - 09/22 04:46 [financialjuice] Canada unveils draft legislation to speed up approvals of major projects. Introduces bill to speed project reviews to one year. To formally designate ‘strategic trade corridors.
 - 09/22 04:52 [FirstSquawk] IRAN’S MISSILE, DRONE & AIR DEFENCE CAPABILITIES CONTINUE TO GROW — NOURNEWS
 - 09/22 04:56 [financialjuice] Downing Street: UK PM underlined commitment to working with Mauritius and US on future of military base on Diego Garcia.
+- 09/22 05:00 [FirstSquawk] CANADA DRAFT LAW REQUIRES CONTRACT BARGAINING TO BEGIN 6 MONTHS BEFORE EXPIRY IF COLLECTIVE AGREEMENT IS 5+ YEARS OLD
+- 09/22 05:00 [FirstSquawk] CANADA DRAFT LAW TO APPOINT SPECIAL MEDIATOR FOR ENTRENCHED DISPUTES WITH SIGNIFICANT NATIONAL IMPACT
+- 09/22 05:00 [FirstSquawk] CANADA DRAFT LAW WOULD LIMIT LABOR MINISTER’S POWER TO ORDER END TO MAJOR WORK STOPPAGES
+- 09/22 05:01 [FirstSquawk] NASDAQ CLOSES 2.30% HIGHER AT 27,132.87, UP 610.33 POINTS S&P 500 CLOSES 1.52% HIGHER AT 7,766.76, UP 116.26 POINTS DOW JONES CLOSES 0.79% HIGHER AT 52,090.00, UP 407.36 POINTS
+- 09/22 05:05 [FirstSquawk] US STEEL CAPACITY UTILIZATION AT 77.9% FOR WEEK ENDED SEPTEMBER 19 — AISI
+- 09/22 05:06 [FirstSquawk] TRUMP SAYS 'AS EXPECTED', CNN, POLITICO AND MSNOW 'HAVE BROUGHT SUIT TO GAIN ACCESS TO THE WHITE HOUSE, AND YOUR PRESIDENT, ME', CLAIMING THEY DREW A JUDGE — TIM KELLY, WHOM HE NOTES WAS APPOINTED BY HIM — WHO PREVIOUSLY 'RULED IN FAVOR OF …
+- 09/22 05:06 [FirstSquawk] TRUMP SAYS THE OVAL OFFICE SHOULD BE TREATED WITH 'DECORUM, RESPECT, AND DIGNITY, NOT DEFILED BY THIRD RATE CLOWNS', ARGUING THAT VIRTUALLY EVERY STORY ABOUT HIM IS 'NEGATIVE, WRONG AND, IN MANY CASES, DANGEROUS', AND CITING HIS 2024 ELECTI…
+- 09/22 05:07 [FirstSquawk] TRUMP SAYS 'FAKE NEWS IS A THREAT TO DEMOCRACY' AND THAT HE 'WILL DO WHATEVER IS NECESSARY TO MAKE SURE THAT THE U.S.A. THRIVES', QUESTIONING WHY HE SHOULD HAVE TO GIVE 'ACCESS' TO SUCH OUTLETS AND SUGGESTING JUDGE KELLY 'COULD EXPLAIN THAT…
+- 09/22 05:08 [FirstSquawk] US STOCKS JUMPED AS AI OPTIMISM DROVE A TECHNOLOGY RALLY, WITH THE S&P 500 RISING 1.5% AND NASDAQ 100 2.8%, WHILE AMD SURPASSED A $1 TRILLION VALUATION AND META SURGED 11%. OIL PRICES FELL ON HOPES FOR DIPLOMATIC PROGRESS IN THE IRAN CONFLI…
+- 09/22 05:08 [FirstSquawk] TREASURY YIELDS ALSO FELL, WITH THE 10-YEAR AT 4.95%, WHILE BITCOIN CLIMBED 6.7% ABOVE $86,000. MARKETS ARE ALSO WATCHING THE UPCOMING TRUMP-XI SUMMIT FOR POTENTIAL PROGRESS ON TARIFFS, TRADE AND CRITICAL MINERALS, WHILE HIGHER ENERGY PRICE…
+- 09/22 05:15 [financialjuice] Iran’s Foreign Minister Araghchi arrives in New York to attend UN General Assembly - IRNA
