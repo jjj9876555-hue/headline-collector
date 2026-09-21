@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 08:52 JST／対象: 09/21 02:52 〜 09/21 08:52 JST（時刻はすべて日本時間）
+生成: 2026-09-21 09:08 JST／対象: 09/21 03:08 〜 09/21 09:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 28 | 09/21 03:02 | 09/21 08:41 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 30 | 09/21 03:01 | 09/21 08:52 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 35 | 09/21 03:15 | 09/21 09:07 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 27 | 09/21 03:18 | 09/21 09:00 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 57 行（統合前 58 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 61 行（統合前 62 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 03:01 [financialjuice] Ruling United Russia projected to take 49.4% in Russia's parliamentary election: IFX cites exit poll
-- 09/21 03:01 [financialjuice] Communist Party projected to secure 14.2% in Russia parliamentary election: Ifx cites exit poll
-- 09/21 03:01 [financialjuice] Liberal Democratic party of Russia projected to take 10.7% in parliamentary election: ifx cites exit poll
-- 09/21 03:01 [financialjuice] New People party projected to secure 9.7% in Russia's parliamentary election: IFX cites exit poll
-- 09/21 03:02 [FirstSquawk] RUSSIA’S COMMUNIST PARTY PROJECTED TO WIN 14.2% OF VOTE IN PARLIAMENTARY ELECTION — IFX, CITING EXIT POLL
-- 09/21 03:03 [FirstSquawk] RUSSIA’S LIBERAL DEMOCRATIC PARTY PROJECTED TO WIN 10.7% OF VOTE IN PARLIAMENTARY ELECTION — IFX, CITING EXIT POLL
-- 09/21 03:03 [FirstSquawk] RUSSIA’S NEW PEOPLE PARTY PROJECTED TO WIN 9.7% OF VOTE IN PARLIAMENTARY ELECTION — IFX, CITING EXIT POLL
-- 09/21 03:04 [financialjuice] Ruling United Russia party leads with 57.54% in Russian election: preliminary results from central election commission
-- 09/21 03:07 [financialjuice] Iran foreign minister Aragchi departs Tehran for New York, to stop briefly in Qatar: state media
-- 09/21 03:07 [financialjuice] Voter turnout in Russia parliamentary election above 56%: central election commission
 - 09/21 03:15 [FirstSquawk] RUSSIA’S RULING UNITED RUSSIA LEADS WITH 57.54% IN PARLIAMENTARY ELECTION — PRELIMINARY CENTRAL ELECTION COMMISSION RESULTS
 - 09/21 03:15 [FirstSquawk] IRAN FOREIGN MINISTER ARAGCHI DEPARTS TEHRAN FOR NEW YORK, WITH BRIEF STOP IN QATAR — STATE MEDIA
 - 09/21 03:18 [financialjuice] Ukraine president Zelenskiy: just spoke with US president Trump
@@ -81,3 +71,17 @@
 - 09/21 08:50 [financialjuice] US Treasury Secretary Bessent: US suggests notification system between two countries
 - 09/21 08:52 [financialjuice] USTR Greer: implemented board of trade
 - 09/21 08:52 [financialjuice] Greer says US, Chinese teams continue working on board of trade agreement
+- 09/21 08:53 [financialjuice] Greer: board of trade from Chinese side likely to include consumer goods and low-tech items
+- 09/21 08:54 [FirstSquawk] USTR GREER SAYS THE U.S. AND CHINESE TEAMS CONTINUE WORKING ON A BOARD-OF-TRADE AGREEMENT, WITH THE BOARD OF TRADE FROM THE CHINESE SIDE LIKELY TO INCLUDE CONSUMER GOODS AND LOW-TECH ITEMS
+- 09/21 08:54 [financialjuice] Greer: US may include energy, agricultural goods, potentially medical devices
+- 09/21 08:54 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS HE HAD A VERY SUCCESSFUL ENGAGEMENT WITH THE CHINESE ON TRADE AND AI, WITH THE TWO SIDES AGREEING TO HOLD ANOTHER MEETING ON AI DIALOGUE, AND THE U.S. SUGGESTING A NOTIFICATION SYSTEM BETWEEN THE TWO COU…
+- 09/21 08:55 [FirstSquawk] CANADA’S MARK CARNEY AND FRANCE’S EMMANUEL MACRON AGREE TO DEEPEN COOPERATION IN DEFENSE, SPACE, ENERGY, CRITICAL MINERALS AND ADVANCED TECHNOLOGIES. CARNEY SIGNALS A SHIFT TOWARD DEEPER EUROPEAN TIES AS CANADA SEEKS TO REDUCE ITS ECONOMIC …
+- 09/21 08:56 [FirstSquawk] US-CHINA TRADE & AI TALKS — KEY POINTS • BESSENT: US HAD A “VERY SUCCESSFUL” ENGAGEMENT WITH CHINA ON TRADE AND AI • US AND CHINA AGREED TO MEET AGAIN FOR FURTHER AI DIALOGUE • US PROPOSED A NOTIFICATION MECHANISM BETWEEN THE TWO COUNTRIES …
+- 09/21 09:00 [financialjuice] S.Korea Sept 1-20 exports rise 78.3% y/y: customs agency
+- 09/21 09:00 [financialjuice] S.Korea Sept 1-20 trade surplus provisional at $22.97 billion: customs agency
+- 09/21 09:00 [FirstSquawk] U.S. SANCTIONS, SOARING INFLATION AND WAR DAMAGE ARE WORSENING IRAN'S MEDICINE SHORTAGES, FORCING SOME PATIENTS TO CUT DOSES, DELAY TREATMENT OR SWITCH TO CHEAPER, LESS EFFECTIVE DRUGS, WITH NEARLY 800 MEDICATIONS REPORTEDLY AFFECTED AND PH…
+- 09/21 09:00 [FirstSquawk] IRAN PRODUCES MORE THAN 97% OF ITS MEDICINES BY VOLUME, BUT MANY DRUGS AND PHARMACEUTICAL INGREDIENTS STILL DEPEND ON IMPORTS AND FOREIGN CURRENCY, WITH EXPERTS SAYING U.S. SANCTIONS COMPLICATE PAYMENTS AND DISCOURAGE FOREIGN BANKS AND SUPP…
+- 09/21 09:01 [FirstSquawk] THE CRISIS WAS FURTHER AGGRAVATED BY U.S. AND ISRAELI AIRSTRIKES EARLIER THIS YEAR, WHICH IRANIAN OFFICIALS SAID DAMAGED MORE THAN 40 PHARMACEUTICAL COMPANIES, SUPPLIERS AND DISTRIBUTORS - CNN
+- 09/21 09:01 [FirstSquawk] OSINTDEFENDER REPORTS EARLY REPORTS OF AN EXPLOSION IN SANAA, YEMEN, THE SEAT OF HOUTHI POWER, SAYING IT COULD BE A SAUDI STRIKE IN RETALIATION FOR THE HOUTHI TARGETING OF RIYADH IN THE PAST COUPLE OF DAYS, AND THAT AT THE TIME OF WRITING I…
+- 09/21 09:02 [FirstSquawk] SOUTH KOREA'S SEPT. 1-20 TRADE SURPLUS WAS A PROVISIONAL $22.97 BLN, WITH EXPORTS UP 78.3% YEAR-ON-YEAR - CUSTOMS AGENCY
+- 09/21 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 FALLS 0.5% TO 8,688.70 POINTS IN EARLY TRADE

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 08:52 JST／対象: 09/20 08:52 〜 09/21 08:52 JST（時刻はすべて日本時間）
+生成: 2026-09-21 09:08 JST／対象: 09/20 09:08 〜 09/21 09:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 238 | 09/20 09:16 | 09/21 08:41 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 94 | 09/20 08:55 | 09/21 08:52 | ⚠ 220分（12:59→16:39） |
+| FirstSquawk | 248 | 09/20 09:16 | 09/21 09:07 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 97 | 09/20 10:00 | 09/21 09:00 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 328 行（統合前 334 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 341 行（統合前 347 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 08:55 [financialjuice] U.S. military: strike on Caribbean vessel over alleged drug trafficking kills four on Saturday
 - 09/20 09:16 [FirstSquawk] Toyota steps into extended-range EV segment with new China-built model
 - 09/20 09:17 [FirstSquawk] Leapmotor outpaces Subaru, Mitsubishi Motors in global vehicle sales - NA
 - 09/20 09:28 [FirstSquawk] U.S. STATE DEPARTMENT ISSUES COMPREHENSIVE SECURITY ALERT FOR MIDDLE EAST The U.S. Department of State’s Consular Affairs has urged American citizens in the Middle East to exercise heightened vigilance, citing complex security conditions an…
@@ -352,3 +351,17 @@
 - 09/21 08:50 [financialjuice] US Treasury Secretary Bessent: US suggests notification system between two countries
 - 09/21 08:52 [financialjuice] USTR Greer: implemented board of trade
 - 09/21 08:52 [financialjuice] Greer says US, Chinese teams continue working on board of trade agreement
+- 09/21 08:53 [financialjuice] Greer: board of trade from Chinese side likely to include consumer goods and low-tech items
+- 09/21 08:54 [FirstSquawk] USTR GREER SAYS THE U.S. AND CHINESE TEAMS CONTINUE WORKING ON A BOARD-OF-TRADE AGREEMENT, WITH THE BOARD OF TRADE FROM THE CHINESE SIDE LIKELY TO INCLUDE CONSUMER GOODS AND LOW-TECH ITEMS
+- 09/21 08:54 [financialjuice] Greer: US may include energy, agricultural goods, potentially medical devices
+- 09/21 08:54 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS HE HAD A VERY SUCCESSFUL ENGAGEMENT WITH THE CHINESE ON TRADE AND AI, WITH THE TWO SIDES AGREEING TO HOLD ANOTHER MEETING ON AI DIALOGUE, AND THE U.S. SUGGESTING A NOTIFICATION SYSTEM BETWEEN THE TWO COU…
+- 09/21 08:55 [FirstSquawk] CANADA’S MARK CARNEY AND FRANCE’S EMMANUEL MACRON AGREE TO DEEPEN COOPERATION IN DEFENSE, SPACE, ENERGY, CRITICAL MINERALS AND ADVANCED TECHNOLOGIES. CARNEY SIGNALS A SHIFT TOWARD DEEPER EUROPEAN TIES AS CANADA SEEKS TO REDUCE ITS ECONOMIC …
+- 09/21 08:56 [FirstSquawk] US-CHINA TRADE & AI TALKS — KEY POINTS • BESSENT: US HAD A “VERY SUCCESSFUL” ENGAGEMENT WITH CHINA ON TRADE AND AI • US AND CHINA AGREED TO MEET AGAIN FOR FURTHER AI DIALOGUE • US PROPOSED A NOTIFICATION MECHANISM BETWEEN THE TWO COUNTRIES …
+- 09/21 09:00 [financialjuice] S.Korea Sept 1-20 exports rise 78.3% y/y: customs agency
+- 09/21 09:00 [financialjuice] S.Korea Sept 1-20 trade surplus provisional at $22.97 billion: customs agency
+- 09/21 09:00 [FirstSquawk] U.S. SANCTIONS, SOARING INFLATION AND WAR DAMAGE ARE WORSENING IRAN'S MEDICINE SHORTAGES, FORCING SOME PATIENTS TO CUT DOSES, DELAY TREATMENT OR SWITCH TO CHEAPER, LESS EFFECTIVE DRUGS, WITH NEARLY 800 MEDICATIONS REPORTEDLY AFFECTED AND PH…
+- 09/21 09:00 [FirstSquawk] IRAN PRODUCES MORE THAN 97% OF ITS MEDICINES BY VOLUME, BUT MANY DRUGS AND PHARMACEUTICAL INGREDIENTS STILL DEPEND ON IMPORTS AND FOREIGN CURRENCY, WITH EXPERTS SAYING U.S. SANCTIONS COMPLICATE PAYMENTS AND DISCOURAGE FOREIGN BANKS AND SUPP…
+- 09/21 09:01 [FirstSquawk] THE CRISIS WAS FURTHER AGGRAVATED BY U.S. AND ISRAELI AIRSTRIKES EARLIER THIS YEAR, WHICH IRANIAN OFFICIALS SAID DAMAGED MORE THAN 40 PHARMACEUTICAL COMPANIES, SUPPLIERS AND DISTRIBUTORS - CNN
+- 09/21 09:01 [FirstSquawk] OSINTDEFENDER REPORTS EARLY REPORTS OF AN EXPLOSION IN SANAA, YEMEN, THE SEAT OF HOUTHI POWER, SAYING IT COULD BE A SAUDI STRIKE IN RETALIATION FOR THE HOUTHI TARGETING OF RIYADH IN THE PAST COUPLE OF DAYS, AND THAT AT THE TIME OF WRITING I…
+- 09/21 09:02 [FirstSquawk] SOUTH KOREA'S SEPT. 1-20 TRADE SURPLUS WAS A PROVISIONAL $22.97 BLN, WITH EXPORTS UP 78.3% YEAR-ON-YEAR - CUSTOMS AGENCY
+- 09/21 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 FALLS 0.5% TO 8,688.70 POINTS IN EARLY TRADE

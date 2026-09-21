@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 08:52 JST／対象: 09/20 20:52 〜 09/21 08:52 JST（時刻はすべて日本時間）
+生成: 2026-09-21 09:08 JST／対象: 09/20 21:08 〜 09/21 09:08 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 89 | 09/20 21:13 | 09/21 08:41 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 80 | 09/20 21:00 | 09/21 08:52 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 99 | 09/20 21:13 | 09/21 09:07 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 82 | 09/20 23:15 | 09/21 09:00 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 168 行（統合前 171 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 182 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 21:00 [financialjuice/FirstSquawk] Iran shuts down unauthorized center linked to French embassy: Tasnim
-- 09/20 21:07 [financialjuice/FirstSquawk] Moscow’s remote voting system and voter list face large-scale hacking attacks: voting services operating normally, city election official says
 - 09/20 21:13 [FirstSquawk] Ukraine hits Moscow with ‘largest ever’ drone attack - FT
 - 09/20 21:13 [FirstSquawk] Biodiesel for shipping now cheaper than conventional fuels after price fall- FT
 - 09/20 21:13 [FirstSquawk] US retailer rations motor oil as prices quadruple and supplies run dry- FT
@@ -44,6 +42,8 @@
 - 09/20 22:42 [FirstSquawk] Trump: at strong request of US military and for national security, agrees to transform triumphal arch into a high-level military complex
 - 09/20 22:42 [FirstSquawk] Trump: Military complex to accommodate, store, deploy numerous drones, snipers on roof and plaza, and store large sniper ammo supplies
 - 09/20 22:42 [FirstSquawk] Trump: I have agreed to transform triumphal arch into a top military complex
+- 09/20 22:42 [FirstSquawk] Iran shuts down unauthorized center linked to French embassy - Tasnim
+- 09/20 22:42 [FirstSquawk] Moscow’s remote voting system and voter list face large-scale hacking attacks: voting services operating normally, city election official says
 - 09/20 23:15 [financialjuice] Qatar’s prime minister: QIA launches Doha Investment, new unit for domestic investments
 - 09/20 23:15 [financialjuice] Air defences intercept drone near Erbil airport in Iraqi Kurdistan: security sources
 - 09/20 23:17 [financialjuice] Qatar’s prime minister: Qatar anticipates awarding about $38.5 billion in new infrastructure projects over next five years
@@ -192,3 +192,17 @@
 - 09/21 08:50 [financialjuice] US Treasury Secretary Bessent: US suggests notification system between two countries
 - 09/21 08:52 [financialjuice] USTR Greer: implemented board of trade
 - 09/21 08:52 [financialjuice] Greer says US, Chinese teams continue working on board of trade agreement
+- 09/21 08:53 [financialjuice] Greer: board of trade from Chinese side likely to include consumer goods and low-tech items
+- 09/21 08:54 [FirstSquawk] USTR GREER SAYS THE U.S. AND CHINESE TEAMS CONTINUE WORKING ON A BOARD-OF-TRADE AGREEMENT, WITH THE BOARD OF TRADE FROM THE CHINESE SIDE LIKELY TO INCLUDE CONSUMER GOODS AND LOW-TECH ITEMS
+- 09/21 08:54 [financialjuice] Greer: US may include energy, agricultural goods, potentially medical devices
+- 09/21 08:54 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS HE HAD A VERY SUCCESSFUL ENGAGEMENT WITH THE CHINESE ON TRADE AND AI, WITH THE TWO SIDES AGREEING TO HOLD ANOTHER MEETING ON AI DIALOGUE, AND THE U.S. SUGGESTING A NOTIFICATION SYSTEM BETWEEN THE TWO COU…
+- 09/21 08:55 [FirstSquawk] CANADA’S MARK CARNEY AND FRANCE’S EMMANUEL MACRON AGREE TO DEEPEN COOPERATION IN DEFENSE, SPACE, ENERGY, CRITICAL MINERALS AND ADVANCED TECHNOLOGIES. CARNEY SIGNALS A SHIFT TOWARD DEEPER EUROPEAN TIES AS CANADA SEEKS TO REDUCE ITS ECONOMIC …
+- 09/21 08:56 [FirstSquawk] US-CHINA TRADE & AI TALKS — KEY POINTS • BESSENT: US HAD A “VERY SUCCESSFUL” ENGAGEMENT WITH CHINA ON TRADE AND AI • US AND CHINA AGREED TO MEET AGAIN FOR FURTHER AI DIALOGUE • US PROPOSED A NOTIFICATION MECHANISM BETWEEN THE TWO COUNTRIES …
+- 09/21 09:00 [financialjuice] S.Korea Sept 1-20 exports rise 78.3% y/y: customs agency
+- 09/21 09:00 [financialjuice] S.Korea Sept 1-20 trade surplus provisional at $22.97 billion: customs agency
+- 09/21 09:00 [FirstSquawk] U.S. SANCTIONS, SOARING INFLATION AND WAR DAMAGE ARE WORSENING IRAN'S MEDICINE SHORTAGES, FORCING SOME PATIENTS TO CUT DOSES, DELAY TREATMENT OR SWITCH TO CHEAPER, LESS EFFECTIVE DRUGS, WITH NEARLY 800 MEDICATIONS REPORTEDLY AFFECTED AND PH…
+- 09/21 09:00 [FirstSquawk] IRAN PRODUCES MORE THAN 97% OF ITS MEDICINES BY VOLUME, BUT MANY DRUGS AND PHARMACEUTICAL INGREDIENTS STILL DEPEND ON IMPORTS AND FOREIGN CURRENCY, WITH EXPERTS SAYING U.S. SANCTIONS COMPLICATE PAYMENTS AND DISCOURAGE FOREIGN BANKS AND SUPP…
+- 09/21 09:01 [FirstSquawk] THE CRISIS WAS FURTHER AGGRAVATED BY U.S. AND ISRAELI AIRSTRIKES EARLIER THIS YEAR, WHICH IRANIAN OFFICIALS SAID DAMAGED MORE THAN 40 PHARMACEUTICAL COMPANIES, SUPPLIERS AND DISTRIBUTORS - CNN
+- 09/21 09:01 [FirstSquawk] OSINTDEFENDER REPORTS EARLY REPORTS OF AN EXPLOSION IN SANAA, YEMEN, THE SEAT OF HOUTHI POWER, SAYING IT COULD BE A SAUDI STRIKE IN RETALIATION FOR THE HOUTHI TARGETING OF RIYADH IN THE PAST COUPLE OF DAYS, AND THAT AT THE TIME OF WRITING I…
+- 09/21 09:02 [FirstSquawk] SOUTH KOREA'S SEPT. 1-20 TRADE SURPLUS WAS A PROVISIONAL $22.97 BLN, WITH EXPORTS UP 78.3% YEAR-ON-YEAR - CUSTOMS AGENCY
+- 09/21 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 FALLS 0.5% TO 8,688.70 POINTS IN EARLY TRADE
