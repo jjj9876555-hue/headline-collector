@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 06:44 JST／対象: 09/21 18:44 〜 09/22 06:44 JST（時刻はすべて日本時間）
+生成: 2026-09-22 06:58 JST／対象: 09/21 18:58 〜 09/22 06:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 185 | 09/21 18:54 | 09/22 06:24 | 38分（01:55→02:34） |
-| financialjuice | 201 | 09/21 18:55 | 09/22 06:36 | ⚠ 67分（20:02→21:10） |
+| FirstSquawk | 182 | 09/21 19:09 | 09/22 06:24 | 38分（01:55→02:34） |
+| financialjuice | 199 | 09/21 19:26 | 09/22 06:36 | ⚠ 67分（20:02→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 429 行（統合前 448 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 424 行（統合前 443 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 18:54 [FirstSquawk] GERMAN FIN MIN: GERMANY NEEDS PENSION REFORM
-- 09/21 18:54 [FirstSquawk] GERMAN GOVERNMENT SPOX: EU COMMISSION IS EXPECTED TO PRESENT PROPOSAL ON WINDFALL PROFIT TAX
-- 09/21 18:54 [FirstSquawk] GERMAN ECONOMY MINISTRY SPOX: DETAILS OF FUEL PRICE CAP ARE STILL BEING WORKED OUT
-- 09/21 18:55 [financialjuice] German economy ministry spokesperson: There will be no fuel price cap at any cost
-- 09/21 18:55 [financialjuice] German Economy Ministry spokesperson: Details of fuel price cap are still being worked out
 - 09/21 19:09 [FirstSquawk] KREMLIN COMMENTS ON FAR RIGHT PARTY WIN IN GERMAN ELECTIONS, NOTING LOW APPROVAL RATINGS FOR CURRENT LEADERS. THEY ATTRIBUTE THIS TO GERMANY'S DECISION TO ABANDON CHEAP RUSSIAN GAS IN FAVOR OF EXPENSIVE GAS FROM THE U.S.
 - 09/21 19:09 [FirstSquawk] KREMLIN REPORTS FOOD AND MEDICINE SUPPLY ISSUES IN OLESHKY TOWN, LOCATED IN RUSSIAN-CONTROLLED KHERSON REGION OF UKRAINE.
 - 09/21 19:10 [FirstSquawk] KREMLIN DENIES CLAIMS THAT RUSSIA POSES A THREAT TO EUROPE, CALLING THEM FALSE AND UNACCEPTABLE.
