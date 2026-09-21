@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 13:35 JST／対象: 09/20 13:35 〜 09/21 13:35 JST（時刻はすべて日本時間）
+生成: 2026-09-21 13:52 JST／対象: 09/20 13:52 〜 09/21 13:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 250 | 09/20 13:40 | 09/21 13:35 | ⚠ 95分（03:25→05:00） |
+| FirstSquawk | 250 | 09/20 13:58 | 09/21 13:49 | ⚠ 95分（03:25→05:00） |
 | financialjuice | 115 | 09/20 16:39 | 09/21 13:26 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 13:40 [FirstSquawk] Samsung executives share long-term AI strategy and discuss latest technology trends at U.S. forum - YONHAP
-- 09/20 13:47 [FirstSquawk] Luxembourg’s oldest bank heads for €2.5bn sale under Chinese ownership – FT
-- 09/20 13:51 [FirstSquawk] Malaysia’s Solarvest targets growth in batteries and power trading beyond solar – Nikkei Asia
 - 09/20 13:58 [FirstSquawk] Meta mounts another legal challenge to UK’s Online Safety Act – FT
 - 09/20 13:58 [FirstSquawk] Israel’s settler economy faces growing risk of European sanctions – FT
 - 09/20 13:59 [FirstSquawk] Novo investors urge company to pursue deals and expand its drug pipeline – FT
@@ -385,3 +382,6 @@
 - 09/21 13:27 [FirstSquawk] Three South Korean soldiers injured in explosion south of Military Demarcation Line — Military
 - 09/21 13:29 [FirstSquawk] China pulls ahead of Western companies in sodium-ion battery development — FT
 - 09/21 13:35 [FirstSquawk] Samsung Electronics shares rise 5.2%, adding to earlier gains
+- 09/21 13:43 [FirstSquawk] AI trading frenzy pushes China’s stock-sale stamp duty up over 80% — SCMP
+- 09/21 13:48 [FirstSquawk] Peel Hunt hikes Beauty Tech Group price target to 590p from 470p
+- 09/21 13:49 [FirstSquawk] Job market for Americans without college degrees reaches one of its best levels in years — WSJ

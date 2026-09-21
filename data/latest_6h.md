@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 13:35 JST／対象: 09/21 07:35 〜 09/21 13:35 JST（時刻はすべて日本時間）
+生成: 2026-09-21 13:52 JST／対象: 09/21 07:52 〜 09/21 13:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 80 | 09/21 07:56 | 09/21 13:35 | 45分（07:56→08:41） |
+| FirstSquawk | 83 | 09/21 07:56 | 09/21 13:49 | 45分（07:56→08:41） |
 | financialjuice | 30 | 09/21 08:49 | 09/21 13:26 | ⚠ 57分（11:08→12:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 110 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -134,3 +134,6 @@
 - 09/21 13:27 [FirstSquawk] Three South Korean soldiers injured in explosion south of Military Demarcation Line — Military
 - 09/21 13:29 [FirstSquawk] China pulls ahead of Western companies in sodium-ion battery development — FT
 - 09/21 13:35 [FirstSquawk] Samsung Electronics shares rise 5.2%, adding to earlier gains
+- 09/21 13:43 [FirstSquawk] AI trading frenzy pushes China’s stock-sale stamp duty up over 80% — SCMP
+- 09/21 13:48 [FirstSquawk] Peel Hunt hikes Beauty Tech Group price target to 590p from 470p
+- 09/21 13:49 [FirstSquawk] Job market for Americans without college degrees reaches one of its best levels in years — WSJ

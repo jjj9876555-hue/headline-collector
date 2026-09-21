@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 13:35 JST／対象: 09/21 01:35 〜 09/21 13:35 JST（時刻はすべて日本時間）
+生成: 2026-09-21 13:52 JST／対象: 09/21 01:52 〜 09/21 13:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 115 | 09/21 01:41 | 09/21 13:35 | ⚠ 95分（03:25→05:00） |
+| FirstSquawk | 116 | 09/21 02:12 | 09/21 13:49 | ⚠ 95分（03:25→05:00） |
 | financialjuice | 60 | 09/21 02:22 | 09/21 13:26 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 174 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 175 行（統合前 176 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 01:41 [FirstSquawk] German Chancellor acknowledges a "disaster" for his party following the far-right's gains in local elections.
-- 09/21 01:47 [FirstSquawk] Combined Maritime Information Center: The US Navy facilitated 97 transits through the Strait of Hormuz in the past 72 hours.
 - 09/21 02:12 [FirstSquawk] TRUMP TO VISIT MAMDANI IN NEW YORK CITY ON MONDAY — NYT
 - 09/21 02:12 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS THE ELECTION OUTCOME IN MECKLENBURG-WESTERN POMERANIA IS A 'CATASTROPHE', WITH TWO STATE BALLOTS TODAY PRODUCING VASTLY DIFFERENT RESULTS, AS THE CONSERVATIVE CDU POLLS AT 5.1% IN MECKLENBURG-WESTERN POMERANIA…
 - 09/21 02:12 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS 'CHANGE IS NECESSARY' AND THAT 'GERMANY MUST BECOME A LAND OF FRESH STARTS', WARNING THAT CONFIDENCE IN THE COUNTRY'S INSTITUTIONS IS WANING, THAT THE STATE HAS GROWN 'OVERLY COMPLEX' AND THAT 'WE CAN'T RETURN…
@@ -198,3 +196,6 @@
 - 09/21 13:27 [FirstSquawk] Three South Korean soldiers injured in explosion south of Military Demarcation Line — Military
 - 09/21 13:29 [FirstSquawk] China pulls ahead of Western companies in sodium-ion battery development — FT
 - 09/21 13:35 [FirstSquawk] Samsung Electronics shares rise 5.2%, adding to earlier gains
+- 09/21 13:43 [FirstSquawk] AI trading frenzy pushes China’s stock-sale stamp duty up over 80% — SCMP
+- 09/21 13:48 [FirstSquawk] Peel Hunt hikes Beauty Tech Group price target to 590p from 470p
+- 09/21 13:49 [FirstSquawk] Job market for Americans without college degrees reaches one of its best levels in years — WSJ
