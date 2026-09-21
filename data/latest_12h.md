@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 14:24 JST／対象: 09/21 02:24 〜 09/21 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-21 14:43 JST／対象: 09/21 02:43 〜 09/21 14:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 115 | 09/21 02:38 | 09/21 14:15 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 62 | 09/21 02:26 | 09/21 14:15 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 116 | 09/21 03:02 | 09/21 14:43 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 58 | 09/21 03:01 | 09/21 14:15 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 176 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 173 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 02:26 [financialjuice] France's Macron: agreed with Canada's Carney to strengthen ties in energy, space, climate sectors
-- 09/21 02:28 [financialjuice] France's President Macron: Canadian LNG can be key for European energy, initiates bilateral talks on the matter
-- 09/21 02:31 [financialjuice] Canadian Prime Minister Carney urges stronger ties with France amid rising global threats
-- 09/21 02:32 [financialjuice] France, Canada task space agencies, defense ministries to jointly develop space launch systems, ground reception facilities: Carney
-- 09/21 02:38 [FirstSquawk] FRANCE'S PRESIDENT MACRON SAYS FRANCE BACKS CLOSER TIES BETWEEN THE EU AND CANADA AND ASSOCIATE MEMBERSHIP FOR CANADA, HAVING AGREED WITH CANADA'S CARNEY TO STRENGTHEN TIES IN THE ENERGY, SPACE AND CLIMATE SECTORS.
-- 09/21 02:38 [FirstSquawk] FRANCE'S PRESIDENT MACRON SAYS MACRON SAYS CANADIAN LNG CAN BE KEY FOR EUROPEAN ENERGY, INITIATING BILATERAL TALKS ON THE MATTER. FRANCE'S PRESIDENT MACRON SAYS
 - 09/21 03:01 [financialjuice] Ruling United Russia projected to take 49.4% in Russia's parliamentary election: IFX cites exit poll
 - 09/21 03:01 [financialjuice] Communist Party projected to secure 14.2% in Russia parliamentary election: Ifx cites exit poll
 - 09/21 03:01 [financialjuice] Liberal Democratic party of Russia projected to take 10.7% in parliamentary election: ifx cites exit poll
@@ -200,3 +194,6 @@
 - 09/21 14:15 [financialjuice] Iran’s Revolutionary Guards spokesperson: any new strike will prompt Tehran to alter war geography and armaments - Fars News
 - 09/21 14:15 [FirstSquawk] IRGC warns Iran would alter war geography and weaponry in response to any new attack — Fars News
 - 09/21 14:15 [financialjuice] Russian defence ministry: Russian forces also target logistics centres, warehouses and Ukrainian ports - TASS
+- 09/21 14:25 [FirstSquawk] Berenberg hikes Softcat price target to 2,400p from 1,950p
+- 09/21 14:34 [FirstSquawk] Strong chip recovery drives greater trade dependence in South Korea in 2024 — Yonhap
+- 09/21 14:43 [FirstSquawk] South Korea’s central bank launches pilot for 24-hour offshore won settlement — Yonhap

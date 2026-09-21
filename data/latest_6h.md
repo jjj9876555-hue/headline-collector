@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 14:24 JST／対象: 09/21 08:24 〜 09/21 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-21 14:43 JST／対象: 09/21 08:43 〜 09/21 14:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 87 | 09/21 08:41 | 09/21 14:15 | 21分（11:46→12:07） |
+| FirstSquawk | 88 | 09/21 08:54 | 09/21 14:43 | 21分（11:46→12:07） |
 | financialjuice | 33 | 09/21 08:49 | 09/21 14:15 | ⚠ 57分（11:08→12:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 121 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 08:41 [FirstSquawk] JAPAN PM TAKAICHI CABINET APPROVAL UNCHANGED AT 62% - NIKKEI POLL
-- 09/21 08:41 [FirstSquawk] CHINA TRADE ENVOY LI CHENGGANG SAYS US-CHINA TRADE TALKS WERE “NOT BAD”; BOTH SIDES DISCUSSED TRADE, INVESTMENT & AI
 - 09/21 08:49 [financialjuice] US Treasury Secretary Bessent: had a very successful engagement with Chinese on trade and AI
 - 09/21 08:50 [financialjuice] US Treasury Secretary Bessent: US, China agreed to hold another meeting on al dialogue
 - 09/21 08:50 [financialjuice] US Treasury Secretary Bessent: US suggests notification system between two countries
@@ -144,3 +142,6 @@
 - 09/21 14:15 [financialjuice] Iran’s Revolutionary Guards spokesperson: any new strike will prompt Tehran to alter war geography and armaments - Fars News
 - 09/21 14:15 [FirstSquawk] IRGC warns Iran would alter war geography and weaponry in response to any new attack — Fars News
 - 09/21 14:15 [financialjuice] Russian defence ministry: Russian forces also target logistics centres, warehouses and Ukrainian ports - TASS
+- 09/21 14:25 [FirstSquawk] Berenberg hikes Softcat price target to 2,400p from 1,950p
+- 09/21 14:34 [FirstSquawk] Strong chip recovery drives greater trade dependence in South Korea in 2024 — Yonhap
+- 09/21 14:43 [FirstSquawk] South Korea’s central bank launches pilot for 24-hour offshore won settlement — Yonhap
