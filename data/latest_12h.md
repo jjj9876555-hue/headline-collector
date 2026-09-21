@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 23:18 JST／対象: 09/21 11:18 〜 09/21 23:18 JST（時刻はすべて日本時間）
+生成: 2026-09-21 23:34 JST／対象: 09/21 11:34 〜 09/21 23:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 09/21 20:05 | 09/21 23:17 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 148 | 09/21 11:19 | 09/21 23:14 | 37分（16:20→16:58） |
-| financialjuice | 124 | 09/21 12:05 | 09/21 23:18 | ⚠ 81分（17:11→18:32） |
+| DeItaone | 38 | 09/21 20:05 | 09/21 23:29 | ⚠ 81分（21:22→22:44） |
+| FirstSquawk | 148 | 09/21 11:35 | 09/21 23:28 | 37分（16:20→16:58） |
+| financialjuice | 128 | 09/21 12:05 | 09/21 23:28 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 302 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 309 行（統合前 318 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 11:19 [FirstSquawk] Vietnam stock market opens up 0.54% following FTSE Russell upgrade
-- 09/21 11:27 [FirstSquawk] Paramount considers $1.5 billion California investment amid merger approval push — WSJ
-- 09/21 11:27 [FirstSquawk] Crude prices slip as supply disruption concerns ease - WSJ
-- 09/21 11:28 [FirstSquawk] Asian currencies stabilize with focus on upcoming Trump-Xi meeting — WSJ
-- 09/21 11:29 [FirstSquawk] China’s mainland bourses ramp up outreach amid Hong Kong’s IPO surge — SCMP
-- 09/21 11:32 [FirstSquawk] South Korea issues 5-year government bonds at 4.275% yield — Finance Ministry
 - 09/21 11:35 [FirstSquawk] Hang Seng Biotech Index climbs 5% in Hong Kong trading
 - 09/21 11:44 [FirstSquawk] China cuts rare-earth magnet exports to US ahead of Xi-Trump talks - CNBC
 - 09/21 11:46 [FirstSquawk] Tropical Depression becomes Tropical Storm Polo, with major hurricane forecast — NHC
@@ -326,3 +320,16 @@
 - 09/21 23:17 [DeItaone] $AMD - ADVANCED MICRO DEVICES HITS $1 TRILLION IN MARKET CAPITALIZATION FOR THE FIRST TIME
 - 09/21 23:18 [financialjuice] Fear and Greed Index: 33/100 = Fear
 - 09/21 23:18 [financialjuice] Crypto Fear and Greed Index: 70/100 = Greed
+- 09/21 23:19 [DeItaone] OIL SLIDES AS SAUDI FLOWS DEFY DISRUPTION Brent fell 2.6% to $101.18, while WTI dropped below $98 as diplomacy hopes and resilient supply eased fears of a deeper shortage. Saudi shipments through Hormuz have averaged 2.9 million bpd, versus…
+- 09/21 23:20 [FirstSquawk] BRENT CRUDE FUTURES DROP BELOW $100/BBL FOR THE FIRST TIME SINCE SEPTEMBER 9
+- 09/21 23:20 [FirstSquawk] UKMTO: LPG TANKER HIT BY UNKNOWN PROJECTILE DEBRIS IN HORMUZ
+- 09/21 23:21 [FirstSquawk] AMD’S MARKET CAP HITS $1 TLN MARKET CAP FOR THE FIRST TIME
+- 09/21 23:24 [DeItaone] CNN, MS NOW, POLITICO SUE DONALD TRUMP, COURT RECORDS SHOW
+- 09/21 23:24 [financialjuice] UKMTO: We received a time-late report of an incident involving lpg tanker transiting outbound of the Strait of Hormuz.
+- 09/21 23:25 [financialjuice] UKMTO: A master has reported that an LPG tanker has been hit by debris from unknown projectiles.
+- 09/21 23:25 [financialjuice/FirstSquawk] ❗ US proposed extending China trade truce by six months - NYT.
+- 09/21 23:27 [FirstSquawk] CHINA HAS PUSHED FOR A LONGER TRADE TRUCE EXTENSION: NYT
+- 09/21 23:28 [financialjuice] Stocks of crude oil in the US strategic petroleum reserve fell to 284.6 million barrels last week, the lowest since 1982.
+- 09/21 23:28 [FirstSquawk] US STRATEGIC PETROLEUM RESERVE CRUDE OIL STOCKS DROPPED TO 284.6 MILLION BARRELS LAST WEEK, THE LOWEST LEVEL SINCE 1982.
+- 09/21 23:29 [DeItaone] *US PROPOSED EXTENDING CHINA TRADE TRUCE BY SIX MONTHS: NYT *CHINA HAS PUSHED FOR A LONGER TRADE TRUCE EXTENSION: NYT
+- 09/21 23:29 [DeItaone] STOCKS OF CRUDE OIL IN US STRATEGIC PETROLEUM RESERVE FELL TO 284.6 MLN BARRELS LAST WEEK, LOWEST SINCE 1982
