@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 07:32 JST／対象: 09/21 07:32 〜 09/22 07:32 JST（時刻はすべて日本時間）
+生成: 2026-09-22 07:45 JST／対象: 09/21 07:45 〜 09/22 07:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 315 | 09/21 07:56 | 09/22 07:24 | 45分（07:56→08:41） |
+| FirstSquawk | 322 | 09/21 07:56 | 09/22 07:40 | 45分（07:56→08:41） |
 | financialjuice | 256 | 09/21 08:49 | 09/22 07:30 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 613 行（統合前 634 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 620 行（統合前 641 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -637,3 +637,10 @@
 - 09/22 07:24 [financialjuice] ECB's Lane: European economy to expand at steady, moderate pace if energy shock eases - Le Temps
 - 09/22 07:25 [financialjuice] ECB's Lane: second surge in energy costs will boost inflation before easing toward goal from mid-2027 onward - Le Temps
 - 09/22 07:30 [financialjuice] US to reopen military base in southern Greenland, establish presence at second site in eastern Greenland: three people familiar with the matter
+- 09/22 07:36 [FirstSquawk] US TO REOPEN MILITARY BASE IN SOUTHERN GREENLAND & ESTABLISH PRESENCE AT SECOND SITE IN EASTERN GREENLAND — SOURCES
+- 09/22 07:37 [FirstSquawk] ZELENSKY MEETS CIA DIRECTOR JOHN RATCLIFFE AT SHANNON AIRPORT IN IRELAND DURING REFUELING STOP
+- 09/22 07:39 [FirstSquawk] TRUMP SAYS TO ZOHRAN MAMDANI THAT HE HAS 'SEEN IT WITH NUMEROUS DIFFERENT MAYORS — SOME GREAT ONES AND SOME NOT SO GREAT ONES — SO HOPEFULLY YOU WILL BE A GREAT ONE', ADDING THAT MAMDANI IS 'OFF TO A START' AND HAS 'POTENTIAL', SAYING 'I WA…
+- 09/22 07:39 [FirstSquawk] TRUMP SAYS 'I KNOW A LOT ABOUT AFFORDABILITY', AND ON THE PRESS SAYS 'THEY SAID THEY WERE GOING TO BOYCOTT ME, BUT THEY NEVER BOYCOTT ME', ARGUING OUTLETS 'HAVE AN OBLIGATION TO BE FAIR' AND THAT IF THEY ARE 'FAKE NEWS' HE HAS 'AN OBLIGATIO…
+- 09/22 07:39 [FirstSquawk] TRUMP SAYS ON IRAN THAT 'THEY'RE NOT DOING WELL', ADDING THAT HE HAS 'MEETINGS ON IT TODAY' AND THAT IRAN IS 'DOING VERY POORLY'.
+- 09/22 07:40 [FirstSquawk] WTI CRUDE FELL BELOW $100 A BARREL, BUT REFINED FUEL SHORTAGES ARE EMERGING AS A BIGGER INFLATION RISK, WITH U.S. DIESEL PRICES CLIMBING ABOVE $6.50 A GALLON FOR THE FIRST TIME AS REFINING MARGINS WIDEN AND SUPPLIES TIGHTEN.
+- 09/22 07:40 [FirstSquawk] MOTOR OIL PRICES HAVE ALSO SURGED, WITH SOME RETAILERS LIMITING PURCHASES DUE TO LOW INVENTORIES, RAISING THE RISK THAT DIESEL AND OTHER FUEL PRODUCTS COULD KEEP INFLATION ELEVATED EVEN IF CRUDE PRICES CONTINUE TO FALL.
