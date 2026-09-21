@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 02:03 JST／対象: 09/21 14:03 〜 09/22 02:03 JST（時刻はすべて日本時間）
+生成: 2026-09-22 02:21 JST／対象: 09/21 14:21 〜 09/22 02:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 55 | 09/21 20:05 | 09/22 00:54 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 158 | 09/21 14:04 | 09/22 01:55 | 37分（16:20→16:58） |
-| financialjuice | 183 | 09/21 14:14 | 09/22 01:57 | ⚠ 81分（17:11→18:32） |
+| DeItaone | 56 | 09/21 20:05 | 09/22 02:18 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 154 | 09/21 14:25 | 09/22 01:55 | 37分（16:20→16:58） |
+| financialjuice | 180 | 09/21 15:05 | 09/22 01:57 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 384 行（統合前 401 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 378 行（統合前 395 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 14:04 [FirstSquawk] South Korea takes bronze in men’s rifle team competition, falls short in individual events — Yonhap
-- 09/21 14:05 [FirstSquawk] Microsoft expands India cloud footprint with launch of fourth region in South Central India — Conference
-- 09/21 14:10 [FirstSquawk] Thai finance minister plans to seek Tuesday approval to extend consumer subsidy scheme
-- 09/21 14:14 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Ukraine's Odesa port
-- 09/21 14:15 [financialjuice] Iran’s Revolutionary Guards spokesperson: any new strike will prompt Tehran to alter war geography and armaments - Fars News
-- 09/21 14:15 [FirstSquawk] IRGC warns Iran would alter war geography and weaponry in response to any new attack — Fars News
-- 09/21 14:15 [financialjuice] Russian defence ministry: Russian forces also target logistics centres, warehouses and Ukrainian ports - TASS
 - 09/21 14:25 [FirstSquawk] Berenberg hikes Softcat price target to 2,400p from 1,950p
 - 09/21 14:34 [FirstSquawk] Strong chip recovery drives greater trade dependence in South Korea in 2024 — Yonhap
 - 09/21 14:43 [FirstSquawk] South Korea’s central bank launches pilot for 24-hour offshore won settlement — Yonhap
@@ -408,3 +401,4 @@
 - 09/22 01:54 [FirstSquawk] UKRAINE READY FOR UNCONDITIONAL CEASEFIRE AND DIPLOMACY - ZELENSKYY TO CBC
 - 09/22 01:55 [FirstSquawk] BOC'S MACKLEM: MOVING TOO SLOW ON HIKES MEANS WE'D HAVE TO RAISE RATES VERY QUICKLY, AND MORE THAN HAD WE MOVED EARLIER
 - 09/22 01:57 [financialjuice] Press conference by BoC's Gov. Macklem ends.
+- 09/22 02:18 [DeItaone] $META - META SHARES EXTEND GAINS, LAST UP 10.4%
