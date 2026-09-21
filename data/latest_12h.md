@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 18:51 JST／対象: 09/21 06:51 〜 09/21 18:51 JST（時刻はすべて日本時間）
+生成: 2026-09-21 19:03 JST／対象: 09/21 07:03 〜 09/21 19:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 137 | 09/21 07:00 | 09/21 18:38 | 45分（07:56→08:41） |
-| financialjuice | 57 | 09/21 07:07 | 09/21 18:36 | ⚠ 97分（07:12→08:49） |
+| FirstSquawk | 136 | 09/21 07:04 | 09/21 18:54 | 45分（07:56→08:41） |
+| financialjuice | 59 | 09/21 07:07 | 09/21 18:55 | ⚠ 97分（07:12→08:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 193 行（統合前 195 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 194 行（統合前 196 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 07:00 [FirstSquawk] PARAMOUNT SETTLEMENT FACES RESISTANCE FROM CONNECTICUT & AT LEAST TWO OTHER STATES; NY AG JAMES SEEKS ADDITIONAL WORKER PROTECTIONS — CNN
-- 09/21 07:00 [FirstSquawk] AUSTRALIAN TREASURER JIM CHALMERS WARNS THAT AN AGING AND SLOWER-GROWING POPULATION POSES “SERIOUS RISKS” TO THE ECONOMY AND WILL INCREASE PRESSURE ON GOVERNMENT FINANCES.
-- 09/21 07:00 [FirstSquawk] CHALMERS SAYS DEMOGRAPHIC CHANGES WILL CREATE LONG-TERM FISCAL CHALLENGES FOR AUSTRALIA AS POPULATION GROWTH SLOWS AND THE SHARE OF OLDER PEOPLE RISES. SOURCE
-- 09/21 07:03 [FirstSquawk] BRENT CRUDE FUTURES RISE 1% AFTER HOUTHI ATTACK ON SAUDI CAPITAL, FUELING SUPPLY DISRUPTION CONCERNS
 - 09/21 07:04 [FirstSquawk] FRANCE'S FOREIGN MINISTRY SAYS IT CONDEMNS IRAN'S DECISION TO CLOSE THE FRENCH LANGUAGE CENTRE IN TEHRAN, CALLING THE CLOSURE 'UNJUSTIFIED AND UNACCEPTABLE' AND SAYING FRANCE WILL TAKE APPROPRIATE MEASURES IN RESPONSE, INITIALLY SUMMONING T…
 - 09/21 07:07 [financialjuice] Red Avenue New Materials Group: highest bid price in global offering HK$44.00 per H share
 - 09/21 07:07 [financialjuice] Red Avenue New Materials Group: global offering includes 61.3 million H shares in international sale
@@ -217,3 +213,8 @@
 - 09/21 18:36 [financialjuice] German Government spokesperson: fuel price relief planned from October 1st
 - 09/21 18:38 [FirstSquawk] GERMAN LABOR MINISTER SAYS GOVERNMENT NEEDS TO REVISIT REFORM PLANS
 - 09/21 18:38 [FirstSquawk] GERMANY GOV’T SPOX SAYS FUEL PRICE RELIEF PLANNED FROM OCTOBER 1
+- 09/21 18:54 [FirstSquawk] GERMAN FIN MIN: GERMANY NEEDS PENSION REFORM
+- 09/21 18:54 [FirstSquawk] GERMAN GOVERNMENT SPOX: EU COMMISSION IS EXPECTED TO PRESENT PROPOSAL ON WINDFALL PROFIT TAX
+- 09/21 18:54 [FirstSquawk] GERMAN ECONOMY MINISTRY SPOX: DETAILS OF FUEL PRICE CAP ARE STILL BEING WORKED OUT
+- 09/21 18:55 [financialjuice] German economy ministry spokesperson: There will be no fuel price cap at any cost
+- 09/21 18:55 [financialjuice] German Economy Ministry spokesperson: Details of fuel price cap are still being worked out

@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 18:51 JST／対象: 09/21 12:51 〜 09/21 18:51 JST（時刻はすべて日本時間）
+生成: 2026-09-21 19:03 JST／対象: 09/21 13:03 〜 09/21 19:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 58 | 09/21 13:00 | 09/21 18:38 | 37分（16:20→16:58） |
-| financialjuice | 22 | 09/21 13:01 | 09/21 18:36 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 59 | 09/21 13:03 | 09/21 18:54 | 37分（16:20→16:58） |
+| financialjuice | 23 | 09/21 13:05 | 09/21 18:55 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 79 行（統合前 81 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 81 行（統合前 83 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 13:00 [FirstSquawk] Jefferies initiates Lotus Bakeries coverage with Buy rating, sets €15,000 target
-- 09/21 13:01 [financialjuice] South Korea presidential chief of staff Kang Hoon-sik tenders resignation: Blue House
-- 09/21 13:01 [FirstSquawk] South Korea presidential chief of staff Kang Hoon-sik offers resignation — Blue House
 - 09/21 13:03 [FirstSquawk] Fed, BOE step up review of banks’ trading-firm exposure following Jane Street loss — FT
 - 09/21 13:05 [financialjuice] Fed and BoE intensify review of bank risk from trading firms after Jane Street loss: FT
 - 09/21 13:16 [FirstSquawk] Rising fuel subsidies weigh on public finances amid deepening energy crisis — FT
@@ -103,3 +100,8 @@
 - 09/21 18:36 [financialjuice] German Government spokesperson: fuel price relief planned from October 1st
 - 09/21 18:38 [FirstSquawk] GERMAN LABOR MINISTER SAYS GOVERNMENT NEEDS TO REVISIT REFORM PLANS
 - 09/21 18:38 [FirstSquawk] GERMANY GOV’T SPOX SAYS FUEL PRICE RELIEF PLANNED FROM OCTOBER 1
+- 09/21 18:54 [FirstSquawk] GERMAN FIN MIN: GERMANY NEEDS PENSION REFORM
+- 09/21 18:54 [FirstSquawk] GERMAN GOVERNMENT SPOX: EU COMMISSION IS EXPECTED TO PRESENT PROPOSAL ON WINDFALL PROFIT TAX
+- 09/21 18:54 [FirstSquawk] GERMAN ECONOMY MINISTRY SPOX: DETAILS OF FUEL PRICE CAP ARE STILL BEING WORKED OUT
+- 09/21 18:55 [financialjuice] German economy ministry spokesperson: There will be no fuel price cap at any cost
+- 09/21 18:55 [financialjuice] German Economy Ministry spokesperson: Details of fuel price cap are still being worked out
