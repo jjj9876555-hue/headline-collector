@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 07:45 JST／対象: 09/21 19:45 〜 09/22 07:45 JST（時刻はすべて日本時間）
+生成: 2026-09-22 07:58 JST／対象: 09/21 19:58 〜 09/22 07:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 175 | 09/21 20:08 | 09/22 07:40 | 44分（06:24→07:08） |
-| financialjuice | 202 | 09/21 19:53 | 09/22 07:30 | ⚠ 67分（20:02→21:10） |
+| FirstSquawk | 176 | 09/21 20:08 | 09/22 07:55 | 44分（06:24→07:08） |
+| financialjuice | 201 | 09/21 20:02 | 09/22 07:30 | ⚠ 67分（20:02→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 420 行（統合前 438 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 19:53 [financialjuice] Fed's Goolsbee: The Fed must have fortitude to confront inflation
 - 09/21 20:02 [financialjuice] Fed's Goolsbee: Optimistic that the Fed could get back on a path of 2% as long as there is no more evidence of demand overheating.
 - 09/21 20:05 [DeItaone] U.S. DIESEL HITS RECORD $6.51 A GALLON U.S. diesel prices have surged to a record $6.51 a gallon, according to AAA. Prices are being driven higher by prolonged disruptions to Middle East energy flows and Russian refineries, tightening globa…
 - 09/21 20:08 [FirstSquawk] NISSAN EYES INCREASING US PRODUCTION AS NEW ROGUE HYBRID LAUNCHES – CNBC
@@ -444,3 +443,4 @@
 - 09/22 07:39 [FirstSquawk] TRUMP SAYS ON IRAN THAT 'THEY'RE NOT DOING WELL', ADDING THAT HE HAS 'MEETINGS ON IT TODAY' AND THAT IRAN IS 'DOING VERY POORLY'.
 - 09/22 07:40 [FirstSquawk] WTI CRUDE FELL BELOW $100 A BARREL, BUT REFINED FUEL SHORTAGES ARE EMERGING AS A BIGGER INFLATION RISK, WITH U.S. DIESEL PRICES CLIMBING ABOVE $6.50 A GALLON FOR THE FIRST TIME AS REFINING MARGINS WIDEN AND SUPPLIES TIGHTEN.
 - 09/22 07:40 [FirstSquawk] MOTOR OIL PRICES HAVE ALSO SURGED, WITH SOME RETAILERS LIMITING PURCHASES DUE TO LOW INVENTORIES, RAISING THE RISK THAT DIESEL AND OTHER FUEL PRODUCTS COULD KEEP INFLATION ELEVATED EVEN IF CRUDE PRICES CONTINUE TO FALL.
+- 09/22 07:55 [FirstSquawk] BRAZIL SAYS URUGUAY HAS AUTHORIZED IT TO USE URUGUAY’S SURPLUS BEEF EXPORT QUOTA TO CHINA, POTENTIALLY GIVING BRAZILIAN EXPORTERS AN ALTERNATIVE AS THEY APPROACH THEIR OWN CHINA QUOTA LIMITS IN 2027. THE BEEF EXPORTERS’ GROUP ABIEC SAYS THE…
