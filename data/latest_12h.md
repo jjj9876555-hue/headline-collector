@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 00:54 JST／対象: 09/21 12:54 〜 09/22 00:54 JST（時刻はすべて日本時間）
+生成: 2026-09-22 01:18 JST／対象: 09/21 13:18 〜 09/22 01:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 09/21 20:05 | 09/22 00:54 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 157 | 09/21 13:00 | 09/22 00:53 | 37分（16:20→16:58） |
-| financialjuice | 167 | 09/21 13:01 | 09/22 00:54 | ⚠ 81分（17:11→18:32） |
+| DeItaone | 55 | 09/21 20:05 | 09/22 00:54 | ⚠ 81分（21:22→22:44） |
+| FirstSquawk | 159 | 09/21 13:20 | 09/22 01:15 | 37分（16:20→16:58） |
+| financialjuice | 173 | 09/21 13:26 | 09/22 01:16 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 368 行（統合前 383 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 375 行（統合前 392 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 13:00 [FirstSquawk] Jefferies initiates Lotus Bakeries coverage with Buy rating, sets €15,000 target
-- 09/21 13:01 [financialjuice] South Korea presidential chief of staff Kang Hoon-sik tenders resignation: Blue House
-- 09/21 13:01 [FirstSquawk] South Korea presidential chief of staff Kang Hoon-sik offers resignation — Blue House
-- 09/21 13:03 [FirstSquawk] Fed, BOE step up review of banks’ trading-firm exposure following Jane Street loss — FT
-- 09/21 13:05 [financialjuice] Fed and BoE intensify review of bank risk from trading firms after Jane Street loss: FT
-- 09/21 13:16 [FirstSquawk] Rising fuel subsidies weigh on public finances amid deepening energy crisis — FT
 - 09/21 13:20 [FirstSquawk] Firmus set to start trading on ASX on October 22 — term sheet
 - 09/21 13:21 [FirstSquawk] Australian data center operator Firmus set to launch $5 billion IPO on October 6 — term sheet
 - 09/21 13:26 [FirstSquawk] China’s biopharma stocks rally as US weighs keeping door open to drug deals — CNBC
@@ -388,7 +382,20 @@
 - 09/22 00:51 [financialjuice] Trump on AI: I will only encourage AI; we will be careful and rein in if we have to - Truth Social.
 - 09/22 00:52 [financialjuice] ❗ Saudi Aramco Loads 14 Million Barrels of Crude on Seven VLCCs from Gulf Terminals, Ramping Up Exports Through Strait of Hormuz - Shipping Data
 - 09/22 00:52 [financialjuice] Seven tankers in the vicinity of ras tanura port on sunday - Satellite images seen by Sources Show
-- 09/22 00:53 [DeItaone] SAUDI ARAMCO LOADED 14 MILLION BARRELS OF CRUDE ON SEVEN VLCCS FROM GULF TERMINALS ON SUNDAY AS IT RAMPS UP EXPORTS THROUGH STRAIT OF HORMUZ, SHIPPING DATA SHOWS SATELLITE IMAGES SEEN BY REUTERS APPEAR TO SHOW SEVEN TANKERS IN VICINITY OF R…
+- 09/22 00:53 [DeItaone/FirstSquawk] SAUDI ARAMCO LOADED 14 MILLION BARRELS OF CRUDE ON SEVEN VLCCS FROM GULF TERMINALS ON SUNDAY AS IT RAMPS UP EXPORTS THROUGH STRAIT OF HORMUZ, SHIPPING DATA SHOWS SATELLITE IMAGES SEEN BY REUTERS APPEAR TO SHOW SEVEN TANKERS IN VICINITY OF R…
 - 09/22 00:53 [FirstSquawk] Trump on truth social The same people that said, “We’ll all be dead in twelve years because of Global Warming,” a name since “reborn” to Climate Change, because the Planet was cooling, not warming, and nobody was dead, are the people that a…
 - 09/22 00:54 [financialjuice] US Treasury Secretary Bessent is going to present Trump with US-China AI pact - Fox Business.
 - 09/22 00:54 [DeItaone] TRUMP ON TRUTH SOCIAL: 'I'M NOT GOING TO STIFLE GROWTH, OF SOMETHING THAT WILL BE BIGGER THAN THE INDUSTRIAL REVOLUTION, OR THE INTERNET, ITSELF'
+- 09/22 00:54 [DeItaone] TRUMP: “WHOEVER WINS AI, WINS” President Trump says the U.S. must avoid stifling AI growth, arguing the technology could become bigger than the Industrial Revolution or the internet. Trump said the U.S. is currently leading China and other …
+- 09/22 00:57 [FirstSquawk/financialjuice] TRUMP TO DECIDE ON US-CHINA AI DEAL THIS WEEK: FOX BUSINESS
+- 09/22 01:03 [FirstSquawk] ITALIAN TREASURY TO SELL UP TO EUR2.50 BLN OF 3% 2028 BONDS 24TH SEPTEMBER
+- 09/22 01:09 [FirstSquawk] ISRAEL CONDUCTED TWO RAIDS IN SOUTHERN LEBANON TARGETING "ZUOTAR AL-SHARQIYA" AND "KAFR TIBNIT."
+- 09/22 01:09 [financialjuice] Pakistani Interior Minister consults with their Iranian counterpart on efforts to advance the peace process - ISNA.
+- 09/22 01:10 [financialjuice] The US releases a joint statement with Japan and South Korea, affirming 'free and open Indo-Pacific".
+- 09/22 01:11 [FirstSquawk] HOUTHI LEADER SAYS READY FOR FAIR DEAL TO END SAUDI CONFLICT
+- 09/22 01:11 [financialjuice] The US, Japan, and South Korea are committed to denuclearization of North Korea.
+- 09/22 01:12 [financialjuice] Germany's economic institutes forecast 1.1% growth in 2027 vs 0.9% previously - Handelsblatt.
+- 09/22 01:13 [financialjuice] Germany's Leading Economic Institutes forecast German growth of 1.3% in 2026 vs 0.6% previously forecast - Handelsblatt.
+- 09/22 01:15 [FirstSquawk] IRAN, PAKISTAN INTERIOR MINISTERS DISCUSS PEACE PROCESS: ISNA
+- 09/22 01:16 [financialjuice] Trump considered ordering an attack against Houthi rebels in Yemen over the weekend, but decided to refrain for now - two senior US officials to Barak Ravid, News 12.
+- 09/22 01:16 [financialjuice] Trump found himself torn between his desire to help his friend and ally, Saudi Crown Prince Mohammed bin Salman, and his desire to avoid getting involved in a war in a new front in the Middle East - Barak Ravid, News 12.

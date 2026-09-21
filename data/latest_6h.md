@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 00:54 JST／対象: 09/21 18:54 〜 09/22 00:54 JST（時刻はすべて日本時間）
+生成: 2026-09-22 01:18 JST／対象: 09/21 19:18 〜 09/22 01:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 09/21 20:05 | 09/22 00:54 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 96 | 09/21 19:09 | 09/22 00:53 | 26分（19:42→20:08） |
-| financialjuice | 145 | 09/21 18:55 | 09/22 00:54 | ⚠ 67分（20:02→21:10） |
+| DeItaone | 55 | 09/21 20:05 | 09/22 00:54 | ⚠ 81分（21:22→22:44） |
+| FirstSquawk | 97 | 09/21 19:23 | 09/22 01:15 | 26分（19:42→20:08） |
+| financialjuice | 151 | 09/21 19:26 | 09/22 01:16 | ⚠ 67分（20:02→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 286 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 292 行（統合前 307 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 18:55 [financialjuice] German economy ministry spokesperson: There will be no fuel price cap at any cost
-- 09/21 18:55 [financialjuice] German Economy Ministry spokesperson: Details of fuel price cap are still being worked out
-- 09/21 19:09 [FirstSquawk] KREMLIN COMMENTS ON FAR RIGHT PARTY WIN IN GERMAN ELECTIONS, NOTING LOW APPROVAL RATINGS FOR CURRENT LEADERS. THEY ATTRIBUTE THIS TO GERMANY'S DECISION TO ABANDON CHEAP RUSSIAN GAS IN FAVOR OF EXPENSIVE GAS FROM THE U.S.
-- 09/21 19:09 [FirstSquawk] KREMLIN REPORTS FOOD AND MEDICINE SUPPLY ISSUES IN OLESHKY TOWN, LOCATED IN RUSSIAN-CONTROLLED KHERSON REGION OF UKRAINE.
-- 09/21 19:10 [FirstSquawk] KREMLIN DENIES CLAIMS THAT RUSSIA POSES A THREAT TO EUROPE, CALLING THEM FALSE AND UNACCEPTABLE.
-- 09/21 19:10 [FirstSquawk] KREMLIN STATES THEY ARE IN REGULAR DISCUSSIONS WITH TRADE PARTNERS WHO REJECT US SANCTIONS.
-- 09/21 19:10 [FirstSquawk] KREMLIN STATES TRUMP'S SANCTIONS BILL AGAINST RUSSIA WILL NOT IMPROVE US-RUSSIA RELATIONS OR PROMOTE PEACE IN UKRAINE.
 - 09/21 19:23 [FirstSquawk] TRUMP SAID HE WAS VERY WORRIED ABOUT RISING DIESEL PRICES - FT
 - 09/21 19:26 [FirstSquawk] DEEPSEEK BETS ON HUAWEI CHIPS - INFORMATION
 - 09/21 19:26 [FirstSquawk] DEEPSEEK EXPECTS HUAWEI CHIPS DELIVERY EARLY AS 4Q - INFORMATION
@@ -306,7 +299,20 @@
 - 09/22 00:51 [financialjuice] Trump on AI: I will only encourage AI; we will be careful and rein in if we have to - Truth Social.
 - 09/22 00:52 [financialjuice] ❗ Saudi Aramco Loads 14 Million Barrels of Crude on Seven VLCCs from Gulf Terminals, Ramping Up Exports Through Strait of Hormuz - Shipping Data
 - 09/22 00:52 [financialjuice] Seven tankers in the vicinity of ras tanura port on sunday - Satellite images seen by Sources Show
-- 09/22 00:53 [DeItaone] SAUDI ARAMCO LOADED 14 MILLION BARRELS OF CRUDE ON SEVEN VLCCS FROM GULF TERMINALS ON SUNDAY AS IT RAMPS UP EXPORTS THROUGH STRAIT OF HORMUZ, SHIPPING DATA SHOWS SATELLITE IMAGES SEEN BY REUTERS APPEAR TO SHOW SEVEN TANKERS IN VICINITY OF R…
+- 09/22 00:53 [DeItaone/FirstSquawk] SAUDI ARAMCO LOADED 14 MILLION BARRELS OF CRUDE ON SEVEN VLCCS FROM GULF TERMINALS ON SUNDAY AS IT RAMPS UP EXPORTS THROUGH STRAIT OF HORMUZ, SHIPPING DATA SHOWS SATELLITE IMAGES SEEN BY REUTERS APPEAR TO SHOW SEVEN TANKERS IN VICINITY OF R…
 - 09/22 00:53 [FirstSquawk] Trump on truth social The same people that said, “We’ll all be dead in twelve years because of Global Warming,” a name since “reborn” to Climate Change, because the Planet was cooling, not warming, and nobody was dead, are the people that a…
 - 09/22 00:54 [financialjuice] US Treasury Secretary Bessent is going to present Trump with US-China AI pact - Fox Business.
 - 09/22 00:54 [DeItaone] TRUMP ON TRUTH SOCIAL: 'I'M NOT GOING TO STIFLE GROWTH, OF SOMETHING THAT WILL BE BIGGER THAN THE INDUSTRIAL REVOLUTION, OR THE INTERNET, ITSELF'
+- 09/22 00:54 [DeItaone] TRUMP: “WHOEVER WINS AI, WINS” President Trump says the U.S. must avoid stifling AI growth, arguing the technology could become bigger than the Industrial Revolution or the internet. Trump said the U.S. is currently leading China and other …
+- 09/22 00:57 [FirstSquawk/financialjuice] TRUMP TO DECIDE ON US-CHINA AI DEAL THIS WEEK: FOX BUSINESS
+- 09/22 01:03 [FirstSquawk] ITALIAN TREASURY TO SELL UP TO EUR2.50 BLN OF 3% 2028 BONDS 24TH SEPTEMBER
+- 09/22 01:09 [FirstSquawk] ISRAEL CONDUCTED TWO RAIDS IN SOUTHERN LEBANON TARGETING "ZUOTAR AL-SHARQIYA" AND "KAFR TIBNIT."
+- 09/22 01:09 [financialjuice] Pakistani Interior Minister consults with their Iranian counterpart on efforts to advance the peace process - ISNA.
+- 09/22 01:10 [financialjuice] The US releases a joint statement with Japan and South Korea, affirming 'free and open Indo-Pacific".
+- 09/22 01:11 [FirstSquawk] HOUTHI LEADER SAYS READY FOR FAIR DEAL TO END SAUDI CONFLICT
+- 09/22 01:11 [financialjuice] The US, Japan, and South Korea are committed to denuclearization of North Korea.
+- 09/22 01:12 [financialjuice] Germany's economic institutes forecast 1.1% growth in 2027 vs 0.9% previously - Handelsblatt.
+- 09/22 01:13 [financialjuice] Germany's Leading Economic Institutes forecast German growth of 1.3% in 2026 vs 0.6% previously forecast - Handelsblatt.
+- 09/22 01:15 [FirstSquawk] IRAN, PAKISTAN INTERIOR MINISTERS DISCUSS PEACE PROCESS: ISNA
+- 09/22 01:16 [financialjuice] Trump considered ordering an attack against Houthi rebels in Yemen over the weekend, but decided to refrain for now - two senior US officials to Barak Ravid, News 12.
+- 09/22 01:16 [financialjuice] Trump found himself torn between his desire to help his friend and ally, Saudi Crown Prince Mohammed bin Salman, and his desire to avoid getting involved in a war in a new front in the Middle East - Barak Ravid, News 12.
