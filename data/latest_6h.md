@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 21:46 JST／対象: 09/21 15:46 〜 09/21 21:46 JST（時刻はすべて日本時間）
+生成: 2026-09-21 21:59 JST／対象: 09/21 15:59 〜 09/21 21:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/21 20:05 | 09/21 21:22 | 20分（20:05→20:25） |
-| FirstSquawk | 82 | 09/21 16:01 | 09/21 21:44 | 37分（16:20→16:58） |
-| financialjuice | 66 | 09/21 16:01 | 09/21 21:42 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 83 | 09/21 16:01 | 09/21 21:56 | 37分（16:20→16:58） |
+| financialjuice | 70 | 09/21 16:01 | 09/21 21:51 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 173 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 178 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -197,3 +197,8 @@
 - 09/21 21:42 [financialjuice] USTR Greer: Nothing off the table regarding Iran-related sanctions.
 - 09/21 21:44 [FirstSquawk] GREER SAYS NOTHING OFF TABLE REGARDING IRAN-RELATED SANCTIONS
 - 09/21 21:44 [FirstSquawk] GARDEN REACH SHIPBUILDERS: CO BOARD APPROVES ₹2,896 CRORE CAPEX FOR GREENFIELD SHIPYARD AT RAICHAK
+- 09/21 21:46 [financialjuice] The Gulf states urge a reset with Iran as conflict drags on - FT
+- 09/21 21:48 [financialjuice] USTR Greer contrasts positive Mexico talks with Canada differences.
+- 09/21 21:50 [financialjuice] USTR Greer: Canada has slow growth, and I like our model better.
+- 09/21 21:51 [financialjuice] USTR Greer interview with Bloomberg TV concludes.
+- 09/21 21:56 [FirstSquawk] RUSSIA FINANCE MINISTER SEES 2026 BUDGET GAP WITHIN 3%/GDP: IFX
