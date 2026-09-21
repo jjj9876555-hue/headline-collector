@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 23:53 JST／対象: 09/21 17:53 〜 09/21 23:53 JST（時刻はすべて日本時間）
+生成: 2026-09-22 00:04 JST／対象: 09/21 18:04 〜 09/22 00:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 09/21 20:05 | 09/21 23:50 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 92 | 09/21 18:13 | 09/21 23:48 | 26分（19:42→20:08） |
-| financialjuice | 113 | 09/21 18:32 | 09/21 23:48 | ⚠ 67分（20:02→21:10） |
+| DeItaone | 47 | 09/21 20:05 | 09/22 00:02 | ⚠ 81分（21:22→22:44） |
+| FirstSquawk | 93 | 09/21 18:13 | 09/21 23:56 | 26分（19:42→20:08） |
+| financialjuice | 115 | 09/21 18:32 | 09/22 00:00 | ⚠ 67分（20:02→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 242 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 247 行（統合前 258 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -266,3 +266,8 @@
 - 09/21 23:48 [financialjuice] Trump: Belarus Potash to cost less than canada supply - Truth Social
 - 09/21 23:48 [DeItaone] TRUMP: PRICING WOULD BE FOR SUBSTANTIALLY LESS THAN WE ARE CURRENTLY PAYING TO CANADA
 - 09/21 23:50 [DeItaone] TRUMP EYES MAJOR BELARUS POTASH DEAL President Trump says the U.S. is working on a large-scale agreement to buy potash from Belarus. Trump says the fertilizer would be purchased at substantially lower prices than current Canadian supplies, …
+- 09/21 23:54 [DeItaone] SURGING FUEL PRICES COULD HIT U.S. INFLATION EXPECTATIONS U.S. diesel prices have surged to nearly $6.50, roughly 18% above August’s average, while gasoline has climbed to $4.48. Consumer surveys have yet to fully capture the latest spike, …
+- 09/21 23:56 [FirstSquawk] USTR AMBASSADOR GREER SAYS BOEING IS MAKING PROGRESS ON FINALIZING 200 CHINESE AIRPLANE ORDERS ANNOUNCED EARLIER THIS YEAR -- FOX INTERVIEW
+- 09/21 23:57 [financialjuice/DeItaone] Total CEO: Too much refining is offline ahead of winter.
+- 09/21 23:57 [DeItaone] - FRENCH 5-YEAR CDS TOP 45 BPS TO HIT HIGHEST SINCE MARCH 2020, LSEG DATA SHOWS
+- 09/22 00:00 [financialjuice] Mexico's President Sheinbaum: The government is looking for ways to reduce imports from other nations and buy more goods from the US.

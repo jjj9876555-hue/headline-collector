@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 23:53 JST／対象: 09/20 23:53 〜 09/21 23:53 JST（時刻はすべて日本時間）
+生成: 2026-09-22 00:04 JST／対象: 09/21 00:04 〜 09/22 00:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 44 | 09/21 20:05 | 09/21 23:50 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 267 | 09/20 23:53 | 09/21 23:48 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 217 | 09/20 23:58 | 09/21 23:48 | ⚠ 114分（05:13→07:07） |
+| DeItaone | 47 | 09/21 20:05 | 09/22 00:02 | ⚠ 81分（21:22→22:44） |
+| FirstSquawk | 253 | 09/21 00:40 | 09/21 23:56 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 214 | 09/21 00:06 | 09/22 00:00 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 519 行（統合前 532 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 504 行（統合前 518 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 23:53 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Through investment, we are moving forward with reform, strengthening our resilience, and creating opportunities for growth.
-- 09/20 23:53 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Qatar will remain a committed mediator, a reliable energy supplier, and an investment partner.
-- 09/20 23:54 [FirstSquawk] Qatari Prime Minister and Foreign Minister: From the perspective of the State of Qatar , diplomacy and economic stability are closely linked.
-- 09/20 23:54 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Diplomacy protects the conditions that allow people to trade, invest, and plan
-- 09/20 23:54 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Lasting security cannot be built through repeated cycles of escalation and retaliation.
-- 09/20 23:54 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Lasting security cannot be built through arrangements that leave any country vulnerable to insecurity.
-- 09/20 23:54 [FirstSquawk] Qatari Prime Minister and Foreign Minister: We must build trust and address the sources of tension
-- 09/20 23:55 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Our region needs a framework that respects sovereignty and in which no country poses a threat to another.
-- 09/20 23:55 [FirstSquawk] Qatari Prime Minister and Foreign Minister: We have worked with our regional and international partners to keep communication channels open and to reduce tensions.
-- 09/20 23:55 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Our financial system continued to function and our companies continued their operations despite what happened.
-- 09/20 23:56 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Energy is the source of our strength, diversification is the source of our resilience, and technology is our future
-- 09/20 23:58 [financialjuice] QatarEnergy CEO: QatarEnergy is producing a very small amount of LNG
-- 09/20 23:59 [financialjuice] QatarEnergy CEO: Qatar can restart regular gas operations within weeks once Hormuz reopens
-- 09/20 23:59 [FirstSquawk] Qatari Prime Minister and Foreign Minister: We call on the Israeli government to fulfill its obligations regarding Gaza.
-- 09/21 00:00 [FirstSquawk] Qatari Prime Minister and Foreign Minister: What Qatar is doing and seeking is to facilitate peace talks and mediate between the parties.
-- 09/21 00:00 [FirstSquawk] Qatari Prime Minister and Foreign Minister: What we are doing and also striving for is to keep communication channels open, an approach that has proven effective.
-- 09/21 00:00 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Israel is acting recklessly and is not abiding by its commitments; it is very clear that the commitments have not been fulfilled.
-- 09/21 00:00 [financialjuice] QatarEnergy CEO: Second and third units of Golden Pass LNG project to start operations in 2027
-- 09/21 00:03 [financialjuice] QatarEnergy CEO: Some LNG trains of NFE expansion to begin in 2027, NFS expansion to start production in 2028
-- 09/21 00:03 [financialjuice] QatarEnergy CEO: company seriously considering entry into Venezuela market with partners
 - 09/21 00:06 [financialjuice] QatarEnergy CEO: Qatari LNG volumes are so large buyers will find QatarEnergy hard to overlook once Hormuz crisis ends
 - 09/21 00:07 [financialjuice] QatarEnergy: key equipment blocked by Hormuz crisis could postpone some expansion projects
 - 09/21 00:40 [FirstSquawk] Iraqi media outlets, quoting a security source, reported that what happened near Erbil airport was a controlled explosion and not an attack.
@@ -543,3 +523,8 @@
 - 09/21 23:48 [financialjuice] Trump: Belarus Potash to cost less than canada supply - Truth Social
 - 09/21 23:48 [DeItaone] TRUMP: PRICING WOULD BE FOR SUBSTANTIALLY LESS THAN WE ARE CURRENTLY PAYING TO CANADA
 - 09/21 23:50 [DeItaone] TRUMP EYES MAJOR BELARUS POTASH DEAL President Trump says the U.S. is working on a large-scale agreement to buy potash from Belarus. Trump says the fertilizer would be purchased at substantially lower prices than current Canadian supplies, …
+- 09/21 23:54 [DeItaone] SURGING FUEL PRICES COULD HIT U.S. INFLATION EXPECTATIONS U.S. diesel prices have surged to nearly $6.50, roughly 18% above August’s average, while gasoline has climbed to $4.48. Consumer surveys have yet to fully capture the latest spike, …
+- 09/21 23:56 [FirstSquawk] USTR AMBASSADOR GREER SAYS BOEING IS MAKING PROGRESS ON FINALIZING 200 CHINESE AIRPLANE ORDERS ANNOUNCED EARLIER THIS YEAR -- FOX INTERVIEW
+- 09/21 23:57 [financialjuice/DeItaone] Total CEO: Too much refining is offline ahead of winter.
+- 09/21 23:57 [DeItaone] - FRENCH 5-YEAR CDS TOP 45 BPS TO HIT HIGHEST SINCE MARCH 2020, LSEG DATA SHOWS
+- 09/22 00:00 [financialjuice] Mexico's President Sheinbaum: The government is looking for ways to reduce imports from other nations and buy more goods from the US.
