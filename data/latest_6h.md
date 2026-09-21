@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 00:04 JST／対象: 09/21 18:04 〜 09/22 00:04 JST（時刻はすべて日本時間）
+生成: 2026-09-22 00:23 JST／対象: 09/21 18:23 〜 09/22 00:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 47 | 09/21 20:05 | 09/22 00:02 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 93 | 09/21 18:13 | 09/21 23:56 | 26分（19:42→20:08） |
-| financialjuice | 115 | 09/21 18:32 | 09/22 00:00 | ⚠ 67分（20:02→21:10） |
+| DeItaone | 48 | 09/21 20:05 | 09/22 00:21 | ⚠ 81分（21:22→22:44） |
+| FirstSquawk | 93 | 09/21 18:23 | 09/22 00:15 | 26分（19:42→20:08） |
+| financialjuice | 129 | 09/21 18:32 | 09/22 00:18 | ⚠ 67分（20:02→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 247 行（統合前 258 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 262 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 18:13 [FirstSquawk] NOVO IS EXPANDING INTO WOMEN'S AND MEN'S HEALTH IN NEW MARKETS, SAYS LANGE.
-- 09/21 18:13 [FirstSquawk] IRISH DATA PROTECTION AUTHORITY FINES GOOGLE €403 MILLION OVER LOCATION DATA HANDLING.
-- 09/21 18:14 [FirstSquawk] UKRAINE'S EXPORT LOSSES FROM RUSSIAN ATTACKS ON PORTS, OTHER INFRASTRUCTURE COULD REACH $4.8 BLN BY END-YEAR SAYS FINANCE MINISTRY
 - 09/21 18:23 [FirstSquawk] India’s Oil Buyers May Weigh Cutting Russian Cargoes Amid New US Sanctions Indian refiners are considering reducing their purchases of Russian crude for November delivery following a sweeping US sanctions law signed last week. The legislati…
 - 09/21 18:32 [financialjuice] UKMTO: Received report of incident involving vessel transiting through the Strait of Hormuz
 - 09/21 18:33 [FirstSquawk] UKMTO: MILITARY AUTHORITIES REPORT VESSEL STRUCK BY UNKNOWN PROJECTILE IN HORMUZ || RECEIVES REPORT OF INCIDENT 07:30 UTC 21 SEP, INVOLVING VESSEL TRANSITING HORMUZ || TWO CREW SUSTAINED MINOR INJURIES, VESSEL CONTINUING TO NEXT PORT OF CAL…
@@ -271,3 +268,21 @@
 - 09/21 23:57 [financialjuice/DeItaone] Total CEO: Too much refining is offline ahead of winter.
 - 09/21 23:57 [DeItaone] - FRENCH 5-YEAR CDS TOP 45 BPS TO HIT HIGHEST SINCE MARCH 2020, LSEG DATA SHOWS
 - 09/22 00:00 [financialjuice] Mexico's President Sheinbaum: The government is looking for ways to reduce imports from other nations and buy more goods from the US.
+- 09/22 00:05 [financialjuice] BoC's Gov. Macklem: If oil prices stay near $100 a barrel, we'd expect inflation to edge up in the coming months.
+- 09/22 00:05 [financialjuice] BoC's Gov. Macklem: Fuel prices have risen more than we'd normally expect, reflecting damage to global refining capacity.
+- 09/22 00:05 [financialjuice] BoC's Gov. Macklem: If new US tariffs remain in place, Q4 growth could be roughly halved to below 1%.
+- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: Recent gas prices have been more consistent with an oil price almost $40 higher than where it has been.
+- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: We don't want to raise rates and restrain growth if inflationary pressures are contained.
+- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: so far we haven't seen evidence that higher oil prices are spreading to other goods and services.
+- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: When it comes to rate decisions, we need to look beyond the initial shock of higher oil prices.
+- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: Nor do we want to be too slow to respond if inflationary pressures are becoming more persistent.
+- 09/22 00:07 [financialjuice] BoC's Gov. Macklem: There is growing evidence that many Canadian businesses have started to adapt to US tariffs.
+- 09/22 00:08 [FirstSquawk] SPEECH BY BOC’S MACKLEM ON ‘NAVIGATING UNCERTAINTY AND ADAPTING TO CHANGE’
+- 09/22 00:10 [FirstSquawk] BOC’S MACKLEM: Q4 GROWTH COULD BE ROUGHLY HALVED IF NEW US TARIFFS REMAIN IN PLACE
+- 09/22 00:11 [financialjuice] BoE Breeden: It is a question whether regulation is set up for AI.
+- 09/22 00:15 [financialjuice] BoE Breeden: We need to move quickly on financial stability response.
+- 09/22 00:15 [FirstSquawk] BOE’S BREEDEN: ‘QUESTION’ ON IF REGULATION IS SET UP FOR AI
+- 09/22 00:15 [financialjuice] Fed bids for 3-month bills total $6.2 bln.
+- 09/22 00:15 [financialjuice] Fed bids for 6-month bills total $5.3 bln.
+- 09/22 00:18 [financialjuice] Moscow Oil Refinery has halted operations after a Ukrainian drone attack on September 20th - Sources.
+- 09/22 00:21 [DeItaone] UKRAINIAN DRONE STRIKE SHUTS MAJOR MOSCOW REFINERY Gazprom Neft’s Moscow refinery has halted crude processing after a Ukrainian drone attack sparked fires at both primary distillation units. Repairs could take several weeks, according to Re…
