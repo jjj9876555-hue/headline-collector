@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 14:43 JST／対象: 09/21 02:43 〜 09/21 14:43 JST（時刻はすべて日本時間）
+生成: 2026-09-21 14:59 JST／対象: 09/21 02:59 〜 09/21 14:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 116 | 09/21 03:02 | 09/21 14:43 | ⚠ 95分（03:25→05:00） |
+| FirstSquawk | 117 | 09/21 03:02 | 09/21 14:48 | ⚠ 95分（03:25→05:00） |
 | financialjuice | 58 | 09/21 03:01 | 09/21 14:15 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 173 行（統合前 174 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 174 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -197,3 +197,4 @@
 - 09/21 14:25 [FirstSquawk] Berenberg hikes Softcat price target to 2,400p from 1,950p
 - 09/21 14:34 [FirstSquawk] Strong chip recovery drives greater trade dependence in South Korea in 2024 — Yonhap
 - 09/21 14:43 [FirstSquawk] South Korea’s central bank launches pilot for 24-hour offshore won settlement — Yonhap
+- 09/21 14:48 [FirstSquawk] Kazakhstan oil exports through Ust-Luga drop 30% month-on-month to 200,000 tonnes in August — IFX
