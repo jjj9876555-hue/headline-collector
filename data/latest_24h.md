@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 02:21 JST／対象: 09/21 02:21 〜 09/22 02:21 JST（時刻はすべて日本時間）
+生成: 2026-09-22 02:34 JST／対象: 09/21 02:34 〜 09/22 02:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 56 | 09/21 20:05 | 09/22 02:18 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 269 | 09/21 02:38 | 09/22 01:55 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 243 | 09/21 02:22 | 09/22 01:57 | ⚠ 114分（05:13→07:07） |
+| DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 273 | 09/21 02:38 | 09/22 02:34 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 239 | 09/21 03:01 | 09/22 02:32 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 555 行（統合前 573 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 555 行（統合前 574 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 02:22 [financialjuice] France's President Macron: France backs closer ties between EU, Canada and associate membership for Canada
-- 09/21 02:26 [financialjuice] France's Macron: agreed with Canada's Carney to strengthen ties in energy, space, climate sectors
-- 09/21 02:28 [financialjuice] France's President Macron: Canadian LNG can be key for European energy, initiates bilateral talks on the matter
-- 09/21 02:31 [financialjuice] Canadian Prime Minister Carney urges stronger ties with France amid rising global threats
-- 09/21 02:32 [financialjuice] France, Canada task space agencies, defense ministries to jointly develop space launch systems, ground reception facilities: Carney
 - 09/21 02:38 [FirstSquawk] FRANCE'S PRESIDENT MACRON SAYS FRANCE BACKS CLOSER TIES BETWEEN THE EU AND CANADA AND ASSOCIATE MEMBERSHIP FOR CANADA, HAVING AGREED WITH CANADA'S CARNEY TO STRENGTHEN TIES IN THE ENERGY, SPACE AND CLIMATE SECTORS.
 - 09/21 02:38 [FirstSquawk] FRANCE'S PRESIDENT MACRON SAYS MACRON SAYS CANADIAN LNG CAN BE KEY FOR EUROPEAN ENERGY, INITIATING BILATERAL TALKS ON THE MATTER. FRANCE'S PRESIDENT MACRON SAYS
 - 09/21 03:01 [financialjuice] Ruling United Russia projected to take 49.4% in Russia's parliamentary election: IFX cites exit poll
@@ -573,9 +568,14 @@
 - 09/22 01:47 [financialjuice] BoC's Gov. Macklem: The question is, is the current rate the right one, or do we need to raise it?
 - 09/22 01:50 [FirstSquawk] BOC'S MACKLEM: INFLATION FORECAST IS KEY THING BOC WILL BE LOOKING AT
 - 09/22 01:51 [FirstSquawk] LILLY CAPTURING 70% OF SENIORS STARTING GLP-1S: CEO DAVE RICKS
-- 09/22 01:52 [financialjuice] More than two dozen US lawmakers urge Trump to maintain ban on Chinese automakers - Letter.
+- 09/22 01:52 [financialjuice/FirstSquawk] More than two dozen US lawmakers urge Trump to maintain ban on Chinese automakers - Letter.
 - 09/22 01:53 [financialjuice] BoC's Gov. Macklem: If we were too slow to raise rates, we'd have to raise them very quickly, and raise them more than had we moved earlier.
 - 09/22 01:54 [FirstSquawk] UKRAINE READY FOR UNCONDITIONAL CEASEFIRE AND DIPLOMACY - ZELENSKYY TO CBC
 - 09/22 01:55 [FirstSquawk] BOC'S MACKLEM: MOVING TOO SLOW ON HIKES MEANS WE'D HAVE TO RAISE RATES VERY QUICKLY, AND MORE THAN HAD WE MOVED EARLIER
 - 09/22 01:57 [financialjuice] Press conference by BoC's Gov. Macklem ends.
 - 09/22 02:18 [DeItaone] $META - META SHARES EXTEND GAINS, LAST UP 10.4%
+- 09/22 02:22 [DeItaone] TRUMP DEMANDS GOP END THE FILIBUSTER President Trump is urging Senate Republicans to eliminate the filibuster, warning Democrats could otherwise do so themselves. Trump claims Democrats would then pursue statehood for Puerto Rico and Washin…
+- 09/22 02:32 [financialjuice] ❗ The UK is close to agreeing to help the Saudi military counter the Houthis.
+- 09/22 02:34 [FirstSquawk] PARAMOUNT HAS SETTLED THE ANTITRUST LAWSUIT BY U.S. STATES THAT DELAYED ITS WARNER BROS. DISCOVERY ACQUISITION, COURT RECORDS SHOW, WITH THE CALIFORNIA ATTORNEY GENERAL SAYING THE SETTLEMENT RESOLVES ANTITRUST CONCERNS BUT IS 'NOT A VOTE OF…
+- 09/22 02:34 [FirstSquawk] THE CONSENT DECREE REQUIRES THEATRICAL FILM COMMITMENTS — INCLUDING MINIMUM ANNUAL FILM RELEASES AND SPENDING AT LEAST $300 MLN MORE ANNUALLY ON U.S. FILM PRODUCTION THAN IN 2025 — ALONG WITH SEPARATE NEGOTIATIONS FOR THE DISTRIBUTION OF PA…
+- 09/22 02:34 [FirstSquawk] THE CONSENT DECREE ALSO REQUIRES AN INTERNAL COMPLIANCE MONITOR AND A COMMITTEE OF FIVE STATES TO OVERSEE ENFORCEMENT, WITH REMEDIES INCLUDING POSSIBLE DIVESTITURES IF THE COMPANIES BREACH THEIR OBLIGATIONS, WHILE THE NEW JERSEY ATTORNEY GE…

@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 02:21 JST／対象: 09/21 20:21 〜 09/22 02:21 JST（時刻はすべて日本時間）
+生成: 2026-09-22 02:34 JST／対象: 09/21 20:34 〜 09/22 02:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 55 | 09/21 20:25 | 09/22 02:18 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 91 | 09/21 20:24 | 09/22 01:55 | 16分（00:15→00:31） |
-| financialjuice | 157 | 09/21 21:10 | 09/22 01:57 | 25分（22:27→22:52） |
+| DeItaone | 55 | 09/21 20:43 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 93 | 09/21 20:39 | 09/22 02:34 | 38分（01:55→02:34） |
+| financialjuice | 158 | 09/21 21:10 | 09/22 02:32 | 34分（01:57→02:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 292 行（統合前 306 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 294 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 20:24 [FirstSquawk] FED’S GOOLSBEE: THE 2% INFLATION TARGET IS STILL REALISTIC EVEN IN A WORLD OF REPEATED SUPPLY SHOCKS, MARKET EXPECTATIONS REFLECT FAITH IT WILL BE MET
-- 09/21 20:25 [DeItaone] FED’S GOOLSBEE: RATE CUTS POSSIBLE IF INFLATION HEADS TO 2% Fed’s Goolsbee remains optimistic inflation can return to the 2% target, provided demand does not overheat. He says the Fed currently has an inflation problem, not an employment pr…
-- 09/21 20:30 [FirstSquawk] CHINA PLANS TO DROP A 15% TARIFF ON US LNG THIS WEEK, POTENTIALLY REOPENING TRADE BETWEEN THE TWO NATIONS. NEW DEALS COULD FOLLOW.
 - 09/21 20:39 [FirstSquawk] YEMENI HOUTHI OFFICIAL SAYS EGYPT, TURKEY, AND PAKISTAN MAY BE TARGETS IN FUTURE ACTIONS.
 - 09/21 20:40 [FirstSquawk] US AMBASSADOR TO UN WALTZ SAYS TRUMP IS ALWAYS OPEN TO TALK, IRAN HAS TO COME TO TABLE
 - 09/21 20:43 [DeItaone] *WALTZ: TRUMP IS ALWAYS OPEN TO TALK, IRAN HAS TO COME TO TABLE
@@ -310,9 +307,14 @@
 - 09/22 01:47 [financialjuice] BoC's Gov. Macklem: The question is, is the current rate the right one, or do we need to raise it?
 - 09/22 01:50 [FirstSquawk] BOC'S MACKLEM: INFLATION FORECAST IS KEY THING BOC WILL BE LOOKING AT
 - 09/22 01:51 [FirstSquawk] LILLY CAPTURING 70% OF SENIORS STARTING GLP-1S: CEO DAVE RICKS
-- 09/22 01:52 [financialjuice] More than two dozen US lawmakers urge Trump to maintain ban on Chinese automakers - Letter.
+- 09/22 01:52 [financialjuice/FirstSquawk] More than two dozen US lawmakers urge Trump to maintain ban on Chinese automakers - Letter.
 - 09/22 01:53 [financialjuice] BoC's Gov. Macklem: If we were too slow to raise rates, we'd have to raise them very quickly, and raise them more than had we moved earlier.
 - 09/22 01:54 [FirstSquawk] UKRAINE READY FOR UNCONDITIONAL CEASEFIRE AND DIPLOMACY - ZELENSKYY TO CBC
 - 09/22 01:55 [FirstSquawk] BOC'S MACKLEM: MOVING TOO SLOW ON HIKES MEANS WE'D HAVE TO RAISE RATES VERY QUICKLY, AND MORE THAN HAD WE MOVED EARLIER
 - 09/22 01:57 [financialjuice] Press conference by BoC's Gov. Macklem ends.
 - 09/22 02:18 [DeItaone] $META - META SHARES EXTEND GAINS, LAST UP 10.4%
+- 09/22 02:22 [DeItaone] TRUMP DEMANDS GOP END THE FILIBUSTER President Trump is urging Senate Republicans to eliminate the filibuster, warning Democrats could otherwise do so themselves. Trump claims Democrats would then pursue statehood for Puerto Rico and Washin…
+- 09/22 02:32 [financialjuice] ❗ The UK is close to agreeing to help the Saudi military counter the Houthis.
+- 09/22 02:34 [FirstSquawk] PARAMOUNT HAS SETTLED THE ANTITRUST LAWSUIT BY U.S. STATES THAT DELAYED ITS WARNER BROS. DISCOVERY ACQUISITION, COURT RECORDS SHOW, WITH THE CALIFORNIA ATTORNEY GENERAL SAYING THE SETTLEMENT RESOLVES ANTITRUST CONCERNS BUT IS 'NOT A VOTE OF…
+- 09/22 02:34 [FirstSquawk] THE CONSENT DECREE REQUIRES THEATRICAL FILM COMMITMENTS — INCLUDING MINIMUM ANNUAL FILM RELEASES AND SPENDING AT LEAST $300 MLN MORE ANNUALLY ON U.S. FILM PRODUCTION THAN IN 2025 — ALONG WITH SEPARATE NEGOTIATIONS FOR THE DISTRIBUTION OF PA…
+- 09/22 02:34 [FirstSquawk] THE CONSENT DECREE ALSO REQUIRES AN INTERNAL COMPLIANCE MONITOR AND A COMMITTEE OF FIVE STATES TO OVERSEE ENFORCEMENT, WITH REMEDIES INCLUDING POSSIBLE DIVESTITURES IF THE COMPANIES BREACH THEIR OBLIGATIONS, WHILE THE NEW JERSEY ATTORNEY GE…
