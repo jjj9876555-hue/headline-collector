@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 19:03 JST／対象: 09/20 19:03 〜 09/21 19:03 JST（時刻はすべて日本時間）
+生成: 2026-09-21 19:25 JST／対象: 09/20 19:25 〜 09/21 19:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 237 | 09/20 19:14 | 09/21 18:54 | ⚠ 95分（03:25→05:00） |
+| FirstSquawk | 238 | 09/20 20:15 | 09/21 19:23 | ⚠ 95分（03:25→05:00） |
 | financialjuice | 132 | 09/20 19:31 | 09/21 18:55 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 364 行（統合前 372 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 365 行（統合前 373 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 19:14 [FirstSquawk] Israeli army: Chief of Staff holds security assessment meeting following shooting attack in Neve Tzuf, central West Bank
-- 09/20 19:14 [FirstSquawk] Israeli army: Chief of Staff orders troop reinforcement after shooting attack in Neve Tzuf, central West Bank
-- 09/20 19:14 [FirstSquawk] Israeli Broadcasting Authority: An Israeli was killed in a shooting attack near the settlement of Neve Tzuf in the central West Bank.
-- 09/20 19:15 [FirstSquawk] Israeli Army Radio: The manhunt continues for the perpetrator of the shooting attack near the settlement of Neve Tzuf in the West Bank.
-- 09/20 19:15 [FirstSquawk] Israeli Army Radio: One person killed and another arrested in a car attack near the settlement of Ganim.
 - 09/20 19:31 [financialjuice] Iran's military central command warns of US plans to attack Iran with approval from regional countries: state media
 - 09/20 19:31 [financialjuice] Iran's military central command: regional countries involved in any US attack on Iran shouldn’t expect restraint from Iran’s armed forces - state media
 - 09/20 19:32 [financialjuice] Iran’s central military command: any US strike will prompt unlimited Iranian retaliation on US bases and interests - state media
@@ -388,3 +383,9 @@
 - 09/21 18:54 [FirstSquawk] GERMAN ECONOMY MINISTRY SPOX: DETAILS OF FUEL PRICE CAP ARE STILL BEING WORKED OUT
 - 09/21 18:55 [financialjuice] German economy ministry spokesperson: There will be no fuel price cap at any cost
 - 09/21 18:55 [financialjuice] German Economy Ministry spokesperson: Details of fuel price cap are still being worked out
+- 09/21 19:09 [FirstSquawk] KREMLIN COMMENTS ON FAR RIGHT PARTY WIN IN GERMAN ELECTIONS, NOTING LOW APPROVAL RATINGS FOR CURRENT LEADERS. THEY ATTRIBUTE THIS TO GERMANY'S DECISION TO ABANDON CHEAP RUSSIAN GAS IN FAVOR OF EXPENSIVE GAS FROM THE U.S.
+- 09/21 19:09 [FirstSquawk] KREMLIN REPORTS FOOD AND MEDICINE SUPPLY ISSUES IN OLESHKY TOWN, LOCATED IN RUSSIAN-CONTROLLED KHERSON REGION OF UKRAINE.
+- 09/21 19:10 [FirstSquawk] KREMLIN DENIES CLAIMS THAT RUSSIA POSES A THREAT TO EUROPE, CALLING THEM FALSE AND UNACCEPTABLE.
+- 09/21 19:10 [FirstSquawk] KREMLIN STATES THEY ARE IN REGULAR DISCUSSIONS WITH TRADE PARTNERS WHO REJECT US SANCTIONS.
+- 09/21 19:10 [FirstSquawk] KREMLIN STATES TRUMP'S SANCTIONS BILL AGAINST RUSSIA WILL NOT IMPROVE US-RUSSIA RELATIONS OR PROMOTE PEACE IN UKRAINE.
+- 09/21 19:23 [FirstSquawk] TRUMP SAID HE WAS VERY WORRIED ABOUT RISING DIESEL PRICES - FT

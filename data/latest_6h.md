@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 19:03 JST／対象: 09/21 13:03 〜 09/21 19:03 JST（時刻はすべて日本時間）
+生成: 2026-09-21 19:25 JST／対象: 09/21 13:25 〜 09/21 19:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 59 | 09/21 13:03 | 09/21 18:54 | 37分（16:20→16:58） |
-| financialjuice | 23 | 09/21 13:05 | 09/21 18:55 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 61 | 09/21 13:26 | 09/21 19:23 | 37分（16:20→16:58） |
+| financialjuice | 22 | 09/21 13:26 | 09/21 18:55 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 81 行（統合前 83 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 82 行（統合前 84 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 13:03 [FirstSquawk] Fed, BOE step up review of banks’ trading-firm exposure following Jane Street loss — FT
-- 09/21 13:05 [financialjuice] Fed and BoE intensify review of bank risk from trading firms after Jane Street loss: FT
-- 09/21 13:16 [FirstSquawk] Rising fuel subsidies weigh on public finances amid deepening energy crisis — FT
-- 09/21 13:20 [FirstSquawk] Firmus set to start trading on ASX on October 22 — term sheet
-- 09/21 13:21 [FirstSquawk] Australian data center operator Firmus set to launch $5 billion IPO on October 6 — term sheet
 - 09/21 13:26 [FirstSquawk] China’s biopharma stocks rally as US weighs keeping door open to drug deals — CNBC
 - 09/21 13:26 [financialjuice] South Korea military: 3 soldiers hurt in blast south of military demarcation line
 - 09/21 13:27 [FirstSquawk] Three South Korean soldiers injured in explosion south of Military Demarcation Line — Military
@@ -105,3 +100,9 @@
 - 09/21 18:54 [FirstSquawk] GERMAN ECONOMY MINISTRY SPOX: DETAILS OF FUEL PRICE CAP ARE STILL BEING WORKED OUT
 - 09/21 18:55 [financialjuice] German economy ministry spokesperson: There will be no fuel price cap at any cost
 - 09/21 18:55 [financialjuice] German Economy Ministry spokesperson: Details of fuel price cap are still being worked out
+- 09/21 19:09 [FirstSquawk] KREMLIN COMMENTS ON FAR RIGHT PARTY WIN IN GERMAN ELECTIONS, NOTING LOW APPROVAL RATINGS FOR CURRENT LEADERS. THEY ATTRIBUTE THIS TO GERMANY'S DECISION TO ABANDON CHEAP RUSSIAN GAS IN FAVOR OF EXPENSIVE GAS FROM THE U.S.
+- 09/21 19:09 [FirstSquawk] KREMLIN REPORTS FOOD AND MEDICINE SUPPLY ISSUES IN OLESHKY TOWN, LOCATED IN RUSSIAN-CONTROLLED KHERSON REGION OF UKRAINE.
+- 09/21 19:10 [FirstSquawk] KREMLIN DENIES CLAIMS THAT RUSSIA POSES A THREAT TO EUROPE, CALLING THEM FALSE AND UNACCEPTABLE.
+- 09/21 19:10 [FirstSquawk] KREMLIN STATES THEY ARE IN REGULAR DISCUSSIONS WITH TRADE PARTNERS WHO REJECT US SANCTIONS.
+- 09/21 19:10 [FirstSquawk] KREMLIN STATES TRUMP'S SANCTIONS BILL AGAINST RUSSIA WILL NOT IMPROVE US-RUSSIA RELATIONS OR PROMOTE PEACE IN UKRAINE.
+- 09/21 19:23 [FirstSquawk] TRUMP SAID HE WAS VERY WORRIED ABOUT RISING DIESEL PRICES - FT
