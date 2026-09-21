@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 20:51 JST／対象: 09/20 20:51 〜 09/21 20:51 JST（時刻はすべて日本時間）
+生成: 2026-09-21 21:03 JST／対象: 09/20 21:03 〜 09/21 21:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/20 23:29 | 09/21 20:50 | ⚠ 1222分（23:43→20:05） |
-| FirstSquawk | 242 | 09/20 21:13 | 09/21 20:50 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 131 | 09/20 21:00 | 09/21 20:02 | ⚠ 127分（21:07→23:15） |
+| DeItaone | 15 | 09/20 23:29 | 09/21 21:03 | ⚠ 1222分（23:43→20:05） |
+| FirstSquawk | 250 | 09/20 21:13 | 09/21 21:02 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 130 | 09/20 21:07 | 09/21 20:02 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 375 行（統合前 381 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 392 行（統合前 397 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 21:00 [financialjuice/FirstSquawk] Iran shuts down unauthorized center linked to French embassy: Tasnim
 - 09/20 21:07 [financialjuice/FirstSquawk] Moscow’s remote voting system and voter list face large-scale hacking attacks: voting services operating normally, city election official says
 - 09/20 21:13 [FirstSquawk] Ukraine hits Moscow with ‘largest ever’ drone attack - FT
 - 09/20 21:13 [FirstSquawk] Biodiesel for shipping now cheaper than conventional fuels after price fall- FT
@@ -44,6 +43,7 @@
 - 09/20 22:42 [FirstSquawk] Trump: at strong request of US military and for national security, agrees to transform triumphal arch into a high-level military complex
 - 09/20 22:42 [FirstSquawk] Trump: Military complex to accommodate, store, deploy numerous drones, snipers on roof and plaza, and store large sniper ammo supplies
 - 09/20 22:42 [FirstSquawk] Trump: I have agreed to transform triumphal arch into a top military complex
+- 09/20 22:42 [FirstSquawk] Iran shuts down unauthorized center linked to French embassy - Tasnim
 - 09/20 23:15 [financialjuice] Qatar’s prime minister: QIA launches Doha Investment, new unit for domestic investments
 - 09/20 23:15 [financialjuice] Air defences intercept drone near Erbil airport in Iraqi Kurdistan: security sources
 - 09/20 23:17 [financialjuice] Qatar’s prime minister: Qatar anticipates awarding about $38.5 billion in new infrastructure projects over next five years
@@ -399,3 +399,20 @@
 - 09/21 20:43 [DeItaone] *WALTZ: TRUMP IS ALWAYS OPEN TO TALK, IRAN HAS TO COME TO TABLE
 - 09/21 20:50 [DeItaone] “STREAMFLATION” DRIVES MASS STREAMING CANCELLATIONS 39% of Americans canceled at least one streaming subscription over the past six months, up sharply from 29% in March, according to Ipsos. Repeated price hikes and broader cost-of-living pr…
 - 09/21 20:50 [FirstSquawk] MERZ SAYS REGIONAL ELECTION WAS 'DRAMATIC INCIDENT'
+- 09/21 20:51 [DeItaone] HORMUZ CRISIS SENDS TANKER RATES ABOVE $1 MILLION A DAY Supertanker rates on the Persian Gulf-to-China route have surged to $1.035 million per day, nearly 5x pre-war levels, as traffic through the Strait of Hormuz collapses. Only 17 commodi…
+- 09/21 20:51 [FirstSquawk] MORGAN STANLEY RAISES MARVELL TARGET PRICE TO $268.00 FROM $246.00
+- 09/21 20:52 [DeItaone] CNN, MS NOW AND POLITICO SUE TRUMP OVER WHITE HOUSE BAN CNN, MS NOW and Politico have sued the Trump administration after being barred from White House grounds. The outlets argue the ban violates their First Amendment rights and filed the c…
+- 09/21 20:55 [DeItaone] TRUMP DEFENDS WHITE HOUSE MEDIA CRACKDOWN President Trump says the White House is “not instituting an assault on the Free Press,” arguing instead that it is targeting what he calls “fake news.” Trump described such coverage as a “threat to …
+- 09/21 20:55 [FirstSquawk] TRUMP: WHITE HOUSE IS NOT INSTITUTING AN ASSAULT ON FREE PRESS
+- 09/21 20:55 [FirstSquawk] TRUMP: I CHERISH FREE PRESS
+- 09/21 20:55 [DeItaone] 🇺🇸 TRUMP’S MONDAY CALENDAR 8:00 AM — Executive Time 10:30 AM — Policy Meeting 11:30 AM — Policy Meeting 1:00 PM — Signing Time 1:45 PM — Ribbon Cutting Ceremony 4:10 PM — Meeting with NYC Mayor Zohran Mamdani 5:35 PM — Meeting with French P…
+- 09/21 20:55 [FirstSquawk] TRUMP CLAIMS WHITE HOUSE TARGETS 'FAKE NEWS', NOT FREE PRESS
+- 09/21 21:00 [FirstSquawk] HALLIBURTON SIGNS AGREEMENTS TO SUPPORT ENERGY DEVELOPMENT OPPORTUNITIES IN VENEZUELA
+- 09/21 21:00 [DeItaone] $TSLA - OPPENHEIMER: TESLA’S AI PIVOT PROGRESSING, OPTIMUS DELAYS LIKELY Oppenheimer reiterated its Perform rating on Tesla, highlighting progress as the company transforms into a vertically integrated “Physical AI” platform. The firm sees …
+- 09/21 21:01 [DeItaone] BESSENT: DISCUSSED ECONOMICS, AI WITH CHINA
+- 09/21 21:01 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT: DISCUSSED ECONOMICS, AI WITH CHINA
+- 09/21 21:01 [FirstSquawk] BESSENT: US-CHINA TALKS INCLUDED SOME 'DELIVERABLES'
+- 09/21 21:01 [DeItaone] BESSENT ON CHINA TALKS: CHANCE TRUMP, XI COULD SEE EACH OTHER TWO MORE TIMES AFTER THIS WEEK -CNBC
+- 09/21 21:02 [DeItaone] $MSTR - STRATEGY BUYS ANOTHER 950 BITCOIN Strategy purchased 950 BTC for $75.7 million last week at an average price of $79,670 per Bitcoin. The company now holds 846,000 BTC, acquired for $63.8 billion at an average $75,416 per coin. Strat…
+- 09/21 21:02 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT ON CHINA TALKS: CHANCE TRUMP, XI COULD SEE EACH OTHER TWO MORE TIMES AFTER THIS WEEK -CNBC
+- 09/21 21:03 [DeItaone] BESSENT: WILL OPEN UP AN INCIDENT LINE ON AI WITH CHINA

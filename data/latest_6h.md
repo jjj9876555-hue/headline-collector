@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 20:51 JST／対象: 09/21 14:51 〜 09/21 20:51 JST（時刻はすべて日本時間）
+生成: 2026-09-21 21:03 JST／対象: 09/21 15:03 〜 09/21 21:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/21 20:05 | 09/21 20:50 | 20分（20:05→20:25） |
-| FirstSquawk | 64 | 09/21 15:08 | 09/21 20:50 | 37分（16:20→16:58） |
+| DeItaone | 13 | 09/21 20:05 | 09/21 21:03 | 20分（20:05→20:25） |
+| FirstSquawk | 72 | 09/21 15:08 | 09/21 21:02 | 37分（16:20→16:58） |
 | financialjuice | 23 | 09/21 15:05 | 09/21 20:02 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 90 行（統合前 93 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 107 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -114,3 +114,20 @@
 - 09/21 20:43 [DeItaone] *WALTZ: TRUMP IS ALWAYS OPEN TO TALK, IRAN HAS TO COME TO TABLE
 - 09/21 20:50 [DeItaone] “STREAMFLATION” DRIVES MASS STREAMING CANCELLATIONS 39% of Americans canceled at least one streaming subscription over the past six months, up sharply from 29% in March, according to Ipsos. Repeated price hikes and broader cost-of-living pr…
 - 09/21 20:50 [FirstSquawk] MERZ SAYS REGIONAL ELECTION WAS 'DRAMATIC INCIDENT'
+- 09/21 20:51 [DeItaone] HORMUZ CRISIS SENDS TANKER RATES ABOVE $1 MILLION A DAY Supertanker rates on the Persian Gulf-to-China route have surged to $1.035 million per day, nearly 5x pre-war levels, as traffic through the Strait of Hormuz collapses. Only 17 commodi…
+- 09/21 20:51 [FirstSquawk] MORGAN STANLEY RAISES MARVELL TARGET PRICE TO $268.00 FROM $246.00
+- 09/21 20:52 [DeItaone] CNN, MS NOW AND POLITICO SUE TRUMP OVER WHITE HOUSE BAN CNN, MS NOW and Politico have sued the Trump administration after being barred from White House grounds. The outlets argue the ban violates their First Amendment rights and filed the c…
+- 09/21 20:55 [DeItaone] TRUMP DEFENDS WHITE HOUSE MEDIA CRACKDOWN President Trump says the White House is “not instituting an assault on the Free Press,” arguing instead that it is targeting what he calls “fake news.” Trump described such coverage as a “threat to …
+- 09/21 20:55 [FirstSquawk] TRUMP: WHITE HOUSE IS NOT INSTITUTING AN ASSAULT ON FREE PRESS
+- 09/21 20:55 [FirstSquawk] TRUMP: I CHERISH FREE PRESS
+- 09/21 20:55 [DeItaone] 🇺🇸 TRUMP’S MONDAY CALENDAR 8:00 AM — Executive Time 10:30 AM — Policy Meeting 11:30 AM — Policy Meeting 1:00 PM — Signing Time 1:45 PM — Ribbon Cutting Ceremony 4:10 PM — Meeting with NYC Mayor Zohran Mamdani 5:35 PM — Meeting with French P…
+- 09/21 20:55 [FirstSquawk] TRUMP CLAIMS WHITE HOUSE TARGETS 'FAKE NEWS', NOT FREE PRESS
+- 09/21 21:00 [FirstSquawk] HALLIBURTON SIGNS AGREEMENTS TO SUPPORT ENERGY DEVELOPMENT OPPORTUNITIES IN VENEZUELA
+- 09/21 21:00 [DeItaone] $TSLA - OPPENHEIMER: TESLA’S AI PIVOT PROGRESSING, OPTIMUS DELAYS LIKELY Oppenheimer reiterated its Perform rating on Tesla, highlighting progress as the company transforms into a vertically integrated “Physical AI” platform. The firm sees …
+- 09/21 21:01 [DeItaone] BESSENT: DISCUSSED ECONOMICS, AI WITH CHINA
+- 09/21 21:01 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT: DISCUSSED ECONOMICS, AI WITH CHINA
+- 09/21 21:01 [FirstSquawk] BESSENT: US-CHINA TALKS INCLUDED SOME 'DELIVERABLES'
+- 09/21 21:01 [DeItaone] BESSENT ON CHINA TALKS: CHANCE TRUMP, XI COULD SEE EACH OTHER TWO MORE TIMES AFTER THIS WEEK -CNBC
+- 09/21 21:02 [DeItaone] $MSTR - STRATEGY BUYS ANOTHER 950 BITCOIN Strategy purchased 950 BTC for $75.7 million last week at an average price of $79,670 per Bitcoin. The company now holds 846,000 BTC, acquired for $63.8 billion at an average $75,416 per coin. Strat…
+- 09/21 21:02 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT ON CHINA TALKS: CHANCE TRUMP, XI COULD SEE EACH OTHER TWO MORE TIMES AFTER THIS WEEK -CNBC
+- 09/21 21:03 [DeItaone] BESSENT: WILL OPEN UP AN INCIDENT LINE ON AI WITH CHINA

@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 20:51 JST／対象: 09/21 08:51 〜 09/21 20:51 JST（時刻はすべて日本時間）
+生成: 2026-09-21 21:03 JST／対象: 09/21 09:03 〜 09/21 21:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/21 20:05 | 09/21 20:50 | 20分（20:05→20:25） |
-| FirstSquawk | 153 | 09/21 08:54 | 09/21 20:50 | 37分（16:20→16:58） |
-| financialjuice | 53 | 09/21 08:52 | 09/21 20:02 | ⚠ 81分（17:11→18:32） |
+| DeItaone | 13 | 09/21 20:05 | 09/21 21:03 | 20分（20:05→20:25） |
+| FirstSquawk | 152 | 09/21 09:07 | 09/21 21:02 | 37分（16:20→16:58） |
+| financialjuice | 47 | 09/21 09:16 | 09/21 20:02 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 209 行（統合前 212 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 211 行（統合前 214 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 08:52 [financialjuice] USTR Greer: implemented board of trade
-- 09/21 08:52 [financialjuice] Greer says US, Chinese teams continue working on board of trade agreement
-- 09/21 08:53 [financialjuice] Greer: board of trade from Chinese side likely to include consumer goods and low-tech items
-- 09/21 08:54 [FirstSquawk] USTR GREER SAYS THE U.S. AND CHINESE TEAMS CONTINUE WORKING ON A BOARD-OF-TRADE AGREEMENT, WITH THE BOARD OF TRADE FROM THE CHINESE SIDE LIKELY TO INCLUDE CONSUMER GOODS AND LOW-TECH ITEMS
-- 09/21 08:54 [financialjuice] Greer: US may include energy, agricultural goods, potentially medical devices
-- 09/21 08:54 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS HE HAD A VERY SUCCESSFUL ENGAGEMENT WITH THE CHINESE ON TRADE AND AI, WITH THE TWO SIDES AGREEING TO HOLD ANOTHER MEETING ON AI DIALOGUE, AND THE U.S. SUGGESTING A NOTIFICATION SYSTEM BETWEEN THE TWO COU…
-- 09/21 08:55 [FirstSquawk] CANADA’S MARK CARNEY AND FRANCE’S EMMANUEL MACRON AGREE TO DEEPEN COOPERATION IN DEFENSE, SPACE, ENERGY, CRITICAL MINERALS AND ADVANCED TECHNOLOGIES. CARNEY SIGNALS A SHIFT TOWARD DEEPER EUROPEAN TIES AS CANADA SEEKS TO REDUCE ITS ECONOMIC …
-- 09/21 08:56 [FirstSquawk] US-CHINA TRADE & AI TALKS — KEY POINTS • BESSENT: US HAD A “VERY SUCCESSFUL” ENGAGEMENT WITH CHINA ON TRADE AND AI • US AND CHINA AGREED TO MEET AGAIN FOR FURTHER AI DIALOGUE • US PROPOSED A NOTIFICATION MECHANISM BETWEEN THE TWO COUNTRIES …
-- 09/21 09:00 [financialjuice] S.Korea Sept 1-20 exports rise 78.3% y/y: customs agency
-- 09/21 09:00 [financialjuice] S.Korea Sept 1-20 trade surplus provisional at $22.97 billion: customs agency
-- 09/21 09:00 [FirstSquawk] U.S. SANCTIONS, SOARING INFLATION AND WAR DAMAGE ARE WORSENING IRAN'S MEDICINE SHORTAGES, FORCING SOME PATIENTS TO CUT DOSES, DELAY TREATMENT OR SWITCH TO CHEAPER, LESS EFFECTIVE DRUGS, WITH NEARLY 800 MEDICATIONS REPORTEDLY AFFECTED AND PH…
-- 09/21 09:00 [FirstSquawk] IRAN PRODUCES MORE THAN 97% OF ITS MEDICINES BY VOLUME, BUT MANY DRUGS AND PHARMACEUTICAL INGREDIENTS STILL DEPEND ON IMPORTS AND FOREIGN CURRENCY, WITH EXPERTS SAYING U.S. SANCTIONS COMPLICATE PAYMENTS AND DISCOURAGE FOREIGN BANKS AND SUPP…
-- 09/21 09:01 [FirstSquawk] THE CRISIS WAS FURTHER AGGRAVATED BY U.S. AND ISRAELI AIRSTRIKES EARLIER THIS YEAR, WHICH IRANIAN OFFICIALS SAID DAMAGED MORE THAN 40 PHARMACEUTICAL COMPANIES, SUPPLIERS AND DISTRIBUTORS - CNN
-- 09/21 09:01 [FirstSquawk] OSINTDEFENDER REPORTS EARLY REPORTS OF AN EXPLOSION IN SANAA, YEMEN, THE SEAT OF HOUTHI POWER, SAYING IT COULD BE A SAUDI STRIKE IN RETALIATION FOR THE HOUTHI TARGETING OF RIYADH IN THE PAST COUPLE OF DAYS, AND THAT AT THE TIME OF WRITING I…
-- 09/21 09:02 [FirstSquawk] SOUTH KOREA'S SEPT. 1-20 TRADE SURPLUS WAS A PROVISIONAL $22.97 BLN, WITH EXPORTS UP 78.3% YEAR-ON-YEAR - CUSTOMS AGENCY
 - 09/21 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 FALLS 0.5% TO 8,688.70 POINTS IN EARLY TRADE
 - 09/21 09:13 [FirstSquawk] Samsung Electronics shares climb 3%
 - 09/21 09:14 [FirstSquawk] U.S. SECRETARY OF STATE RUBIO IS TO MEET THE IRAQI PRIME MINISTER AT 4:30 PM ET, AND WILL MEET HIS JAPANESE AND SOUTH KOREAN COUNTERPARTS AT 11:15 AM ET
@@ -233,3 +218,20 @@
 - 09/21 20:43 [DeItaone] *WALTZ: TRUMP IS ALWAYS OPEN TO TALK, IRAN HAS TO COME TO TABLE
 - 09/21 20:50 [DeItaone] “STREAMFLATION” DRIVES MASS STREAMING CANCELLATIONS 39% of Americans canceled at least one streaming subscription over the past six months, up sharply from 29% in March, according to Ipsos. Repeated price hikes and broader cost-of-living pr…
 - 09/21 20:50 [FirstSquawk] MERZ SAYS REGIONAL ELECTION WAS 'DRAMATIC INCIDENT'
+- 09/21 20:51 [DeItaone] HORMUZ CRISIS SENDS TANKER RATES ABOVE $1 MILLION A DAY Supertanker rates on the Persian Gulf-to-China route have surged to $1.035 million per day, nearly 5x pre-war levels, as traffic through the Strait of Hormuz collapses. Only 17 commodi…
+- 09/21 20:51 [FirstSquawk] MORGAN STANLEY RAISES MARVELL TARGET PRICE TO $268.00 FROM $246.00
+- 09/21 20:52 [DeItaone] CNN, MS NOW AND POLITICO SUE TRUMP OVER WHITE HOUSE BAN CNN, MS NOW and Politico have sued the Trump administration after being barred from White House grounds. The outlets argue the ban violates their First Amendment rights and filed the c…
+- 09/21 20:55 [DeItaone] TRUMP DEFENDS WHITE HOUSE MEDIA CRACKDOWN President Trump says the White House is “not instituting an assault on the Free Press,” arguing instead that it is targeting what he calls “fake news.” Trump described such coverage as a “threat to …
+- 09/21 20:55 [FirstSquawk] TRUMP: WHITE HOUSE IS NOT INSTITUTING AN ASSAULT ON FREE PRESS
+- 09/21 20:55 [FirstSquawk] TRUMP: I CHERISH FREE PRESS
+- 09/21 20:55 [DeItaone] 🇺🇸 TRUMP’S MONDAY CALENDAR 8:00 AM — Executive Time 10:30 AM — Policy Meeting 11:30 AM — Policy Meeting 1:00 PM — Signing Time 1:45 PM — Ribbon Cutting Ceremony 4:10 PM — Meeting with NYC Mayor Zohran Mamdani 5:35 PM — Meeting with French P…
+- 09/21 20:55 [FirstSquawk] TRUMP CLAIMS WHITE HOUSE TARGETS 'FAKE NEWS', NOT FREE PRESS
+- 09/21 21:00 [FirstSquawk] HALLIBURTON SIGNS AGREEMENTS TO SUPPORT ENERGY DEVELOPMENT OPPORTUNITIES IN VENEZUELA
+- 09/21 21:00 [DeItaone] $TSLA - OPPENHEIMER: TESLA’S AI PIVOT PROGRESSING, OPTIMUS DELAYS LIKELY Oppenheimer reiterated its Perform rating on Tesla, highlighting progress as the company transforms into a vertically integrated “Physical AI” platform. The firm sees …
+- 09/21 21:01 [DeItaone] BESSENT: DISCUSSED ECONOMICS, AI WITH CHINA
+- 09/21 21:01 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT: DISCUSSED ECONOMICS, AI WITH CHINA
+- 09/21 21:01 [FirstSquawk] BESSENT: US-CHINA TALKS INCLUDED SOME 'DELIVERABLES'
+- 09/21 21:01 [DeItaone] BESSENT ON CHINA TALKS: CHANCE TRUMP, XI COULD SEE EACH OTHER TWO MORE TIMES AFTER THIS WEEK -CNBC
+- 09/21 21:02 [DeItaone] $MSTR - STRATEGY BUYS ANOTHER 950 BITCOIN Strategy purchased 950 BTC for $75.7 million last week at an average price of $79,670 per Bitcoin. The company now holds 846,000 BTC, acquired for $63.8 billion at an average $75,416 per coin. Strat…
+- 09/21 21:02 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT ON CHINA TALKS: CHANCE TRUMP, XI COULD SEE EACH OTHER TWO MORE TIMES AFTER THIS WEEK -CNBC
+- 09/21 21:03 [DeItaone] BESSENT: WILL OPEN UP AN INCIDENT LINE ON AI WITH CHINA
