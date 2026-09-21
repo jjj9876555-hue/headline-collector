@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 15:25 JST／対象: 09/20 15:25 〜 09/21 15:25 JST（時刻はすべて日本時間）
+生成: 2026-09-21 15:50 JST／対象: 09/20 15:50 〜 09/21 15:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 243 | 09/20 15:32 | 09/21 15:24 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 119 | 09/20 16:39 | 09/21 15:05 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 242 | 09/20 16:13 | 09/21 15:45 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 123 | 09/20 16:39 | 09/21 15:34 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 358 行（統合前 364 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 361 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 15:32 [FirstSquawk] North Korea fires missile off east coast
-- 09/20 15:33 [FirstSquawk] North Korea fired an unidentified projectile off its east coast on Sunday, South Korea's military says
-- 09/20 15:33 [FirstSquawk] Iran should fight while also pursuing negotiations rather than treating the two as alternatives, parliament speaker Mohammad-Bagher Ghalibaf said on Sunday.
-- 09/20 15:33 [FirstSquawk] Ghalibaf said Iran had shown over the past seven months that it was not defenseless, describing its approach as a “smart advance” aimed at imposing the Iranian people’s will.
-- 09/20 15:34 [FirstSquawk] Foreign envoys in Taiwan warn rules of game at sea are being challenged
 - 09/20 16:13 [FirstSquawk] Russian election enters final day after major Ukrainian drone attack on Moscow
 - 09/20 16:13 [FirstSquawk] Trump's meeting at Camp David was to deliberate and review Yemen strike options.
 - 09/20 16:13 [FirstSquawk] Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets
@@ -382,3 +377,11 @@
 - 09/21 15:08 [FirstSquawk] North Korea condemns multilateral sanctions monitoring team as illegal US political instrument — KCNA
 - 09/21 15:08 [FirstSquawk] North Korea says new sanctions will not impede development or defence of key interests — KCNA
 - 09/21 15:24 [FirstSquawk] Australia’s benchmark ASX 200 finishes flat at 8,731.90
+- 09/21 15:29 [FirstSquawk] One reported dead after Ukrainian drone attack in Russia’s Bryansk region — Acting Governor
+- 09/21 15:29 [financialjuice] Iran's IRGC: Still room for geographical expansion of war
+- 09/21 15:29 [financialjuice] France Fin. Min. Lescure: France's strategic oil stocks are full
+- 09/21 15:31 [FirstSquawk] Germany’s 10-year bond yield declines to 3.48% as state election results and falling oil prices weigh
+- 09/21 15:34 [financialjuice] France Fin. Min. Lescure: Likely to provide extra fuel aid from October 1st
+- 09/21 15:34 [financialjuice] France Fin. Min. Lescure: Fuel aid won't involve a generalized tax cut
+- 09/21 15:43 [FirstSquawk] China’s Communist Party schedules key October plenum just days before Xi-Trump summit — SCMP
+- 09/21 15:45 [FirstSquawk] Japan’s JGB market stabilises as BOJ efforts show results — WSJ
