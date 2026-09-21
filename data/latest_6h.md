@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 12:26 JST／対象: 09/21 06:26 〜 09/21 12:26 JST（時刻はすべて日本時間）
+生成: 2026-09-21 12:45 JST／対象: 09/21 06:45 〜 09/21 12:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 76 | 09/21 06:32 | 09/21 12:21 | 45分（07:56→08:41） |
-| financialjuice | 34 | 09/21 07:07 | 09/21 12:13 | ⚠ 97分（07:12→08:49） |
+| FirstSquawk | 78 | 09/21 07:00 | 09/21 12:37 | 45分（07:56→08:41） |
+| financialjuice | 35 | 09/21 07:07 | 09/21 12:39 | ⚠ 97分（07:12→08:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 110 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 113 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 06:32 [FirstSquawk] TRUMP IS INCREASINGLY FRUSTRATED BY POLITICAL AND LEGAL SETBACKS AND BELIEVES TOO FEW ALLIES ARE PUBLICLY DEFENDING HIS SECOND-TERM RECORD, HAVING ALSO COMPLAINED THAT PROMINENT FIGURES HAVE NOT THANKED HIM FOR HIS ATTEMPTED OVERHAUL OF THE…
-- 09/21 06:32 [FirstSquawk] TRUMP IS ALSO FACING FALLING APPROVAL RATINGS, CONCERNS ABOUT REPUBLICAN PERFORMANCE IN THE MIDTERMS AND VOTER FRUSTRATION OVER THE IRAN WAR AND HIGHER ENERGY PRICES, WITH HIS ADMINISTRATION SEARCHING FOR FOREIGN-POLICY WINS TO TOUT AHEAD O…
 - 09/21 07:00 [FirstSquawk] PARAMOUNT SETTLEMENT FACES RESISTANCE FROM CONNECTICUT & AT LEAST TWO OTHER STATES; NY AG JAMES SEEKS ADDITIONAL WORKER PROTECTIONS — CNN
 - 09/21 07:00 [FirstSquawk] AUSTRALIAN TREASURER JIM CHALMERS WARNS THAT AN AGING AND SLOWER-GROWING POPULATION POSES “SERIOUS RISKS” TO THE ECONOMY AND WILL INCREASE PRESSURE ON GOVERNMENT FINANCES.
 - 09/21 07:00 [FirstSquawk] CHALMERS SAYS DEMOGRAPHIC CHANGES WILL CREATE LONG-TERM FISCAL CHALLENGES FOR AUSTRALIA AS POPULATION GROWTH SLOWS AND THE SHARE OF OLDER PEOPLE RISES. SOURCE
@@ -134,3 +132,8 @@
 - 09/21 12:14 [FirstSquawk] Pakistani airstrikes in Afghanistan’s Kunar province kill at least three — TOLO News
 - 09/21 12:14 [FirstSquawk] Eight killed after fire breaks out at textile factory in Foshan, China — Xinhua
 - 09/21 12:21 [FirstSquawk] BlossomHill Therapeutics target raised to $40 from $30 by Guggenheim
+- 09/21 12:29 [FirstSquawk] AUD/USD consolidates above 0.7100 as markets await Trump-Xi talks - FX
+- 09/21 12:33 [FirstSquawk] VinFast-linked taxi firm launches motorbike service in Jakarta, its first overseas — NA
+- 09/21 12:37 [FirstSquawk] BHP Group says agreement will prioritize progress on modified blast furnace technologies
+- 09/21 12:37 [FirstSquawk] BHP, China Baowu extend partnership on steel decarbonisation
+- 09/21 12:39 [financialjuice] China finance ministry auctions 10-year bonds at 1.6626% yield: traders

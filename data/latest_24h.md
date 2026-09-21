@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 12:26 JST／対象: 09/20 12:26 〜 09/21 12:26 JST（時刻はすべて日本時間）
+生成: 2026-09-21 12:45 JST／対象: 09/20 12:45 〜 09/21 12:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 242 | 09/20 12:34 | 09/21 12:21 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 112 | 09/20 12:59 | 09/21 12:13 | ⚠ 220分（12:59→16:39） |
+| FirstSquawk | 245 | 09/20 12:47 | 09/21 12:37 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 113 | 09/20 12:59 | 09/21 12:39 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 350 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 354 行（統合前 360 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 12:34 [FirstSquawk] South Korea records 0.9% decline in greenhouse gas emissions last year – Yonhap
 - 09/20 12:47 [FirstSquawk] South Korea’s internet-only banks see small-business lending rise more than 50% in H1 as household lending rules tighten - YONHAP
 - 09/20 12:53 [FirstSquawk] CXMT unveils 24-Gbit LPDDR5X products using new platform, executive says
 - 09/20 12:59 [financialjuice] Facility at Moscow oil refinery damaged in ongoing drone assault: TASS citing Mayor Sergey Sobyanin
@@ -374,3 +373,8 @@
 - 09/21 12:14 [FirstSquawk] Pakistani airstrikes in Afghanistan’s Kunar province kill at least three — TOLO News
 - 09/21 12:14 [FirstSquawk] Eight killed after fire breaks out at textile factory in Foshan, China — Xinhua
 - 09/21 12:21 [FirstSquawk] BlossomHill Therapeutics target raised to $40 from $30 by Guggenheim
+- 09/21 12:29 [FirstSquawk] AUD/USD consolidates above 0.7100 as markets await Trump-Xi talks - FX
+- 09/21 12:33 [FirstSquawk] VinFast-linked taxi firm launches motorbike service in Jakarta, its first overseas — NA
+- 09/21 12:37 [FirstSquawk] BHP Group says agreement will prioritize progress on modified blast furnace technologies
+- 09/21 12:37 [FirstSquawk] BHP, China Baowu extend partnership on steel decarbonisation
+- 09/21 12:39 [financialjuice] China finance ministry auctions 10-year bonds at 1.6626% yield: traders
