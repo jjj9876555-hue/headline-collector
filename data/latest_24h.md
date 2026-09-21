@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 05:31 JST／対象: 09/21 05:31 〜 09/22 05:31 JST（時刻はすべて日本時間）
+生成: 2026-09-22 05:44 JST／対象: 09/21 05:44 〜 09/22 05:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 311 | 09/21 05:41 | 09/22 05:28 | 45分（07:56→08:41） |
+| FirstSquawk | 310 | 09/21 06:21 | 09/22 05:28 | 45分（07:56→08:41） |
 | financialjuice | 251 | 09/21 07:07 | 09/22 05:18 | ⚠ 97分（07:12→08:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 605 行（統合前 625 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 604 行（統合前 624 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 05:41 [FirstSquawk] ZELENSKY-TRUMP MEETING EXPECTED TUESDAY - AXIOS
 - 09/21 06:21 [FirstSquawk] RUSSIA MOVES TO EXPAND DRONE FACTORY IN TATARSTAN - POLITICO
 - 09/21 06:32 [FirstSquawk] TRUMP IS INCREASINGLY FRUSTRATED BY POLITICAL AND LEGAL SETBACKS AND BELIEVES TOO FEW ALLIES ARE PUBLICLY DEFENDING HIS SECOND-TERM RECORD, HAVING ALSO COMPLAINED THAT PROMINENT FIGURES HAVE NOT THANKED HIM FOR HIS ATTEMPTED OVERHAUL OF THE…
 - 09/21 06:32 [FirstSquawk] TRUMP IS ALSO FACING FALLING APPROVAL RATINGS, CONCERNS ABOUT REPUBLICAN PERFORMANCE IN THE MIDTERMS AND VOTER FRUSTRATION OVER THE IRAN WAR AND HIGHER ENERGY PRICES, WITH HIS ADMINISTRATION SEARCHING FOR FOREIGN-POLICY WINS TO TOUT AHEAD O…
