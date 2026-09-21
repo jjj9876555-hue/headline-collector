@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 14:59 JST／対象: 09/20 14:59 〜 09/21 14:59 JST（時刻はすべて日本時間）
+生成: 2026-09-21 15:25 JST／対象: 09/20 15:25 〜 09/21 15:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 250 | 09/20 15:01 | 09/21 14:48 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 118 | 09/20 16:39 | 09/21 14:15 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 243 | 09/20 15:32 | 09/21 15:24 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 119 | 09/20 16:39 | 09/21 15:05 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 364 行（統合前 370 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 358 行（統合前 364 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 15:01 [FirstSquawk] Festive Hiring Boom: New-age operational roles set to grow 15-20%; tier-II, III cities to account for 45% of festive hiring demand
-- 09/20 15:02 [FirstSquawk] Australian, Canadian and U.S. partners are teaming up to revive American tungsten production as China tightens supply.
-- 09/20 15:02 [FirstSquawk] Ukrainian attack on Moscow oil refinery
-- 09/20 15:02 [FirstSquawk] Andrew Yang warns of AI bubble as companies pull back spending over "low ROI"
-- 09/20 15:03 [FirstSquawk] Turkish FM says Saudi Arabia may invoke the trilateral defense agreement to receive military support from Turkey and Pakistan as Houthi attacks continue.
-- 09/20 15:03 [FirstSquawk] Russia claims cyberattacks on voting systems during parliamentary election. It is Russia's first parliamentary election since Moscow launched its full-scale invasion of Ukraine in February 2022.
-- 09/20 15:03 [FirstSquawk] New Russian air campaign focuses on weakening Ukraine’s economy – FT
-- 09/20 15:04 [FirstSquawk] Rising AI activity weighs on Singapore office rents – FT
-- 09/20 15:04 [FirstSquawk] US issues security alert for Americans in West Asia, says Iran war has potential to escalate rapidly
-- 09/20 15:04 [FirstSquawk] Najib remains behind bars as US$12.3 million fine over house arrest remains unresolved – SCMP
 - 09/20 15:32 [FirstSquawk] North Korea fires missile off east coast
 - 09/20 15:33 [FirstSquawk] North Korea fired an unidentified projectile off its east coast on Sunday, South Korea's military says
 - 09/20 15:33 [FirstSquawk] Iran should fight while also pursuing negotiations rather than treating the two as alternatives, parliament speaker Mohammad-Bagher Ghalibaf said on Sunday.
@@ -388,3 +378,7 @@
 - 09/21 14:34 [FirstSquawk] Strong chip recovery drives greater trade dependence in South Korea in 2024 — Yonhap
 - 09/21 14:43 [FirstSquawk] South Korea’s central bank launches pilot for 24-hour offshore won settlement — Yonhap
 - 09/21 14:48 [FirstSquawk] Kazakhstan oil exports through Ust-Luga drop 30% month-on-month to 200,000 tonnes in August — IFX
+- 09/21 15:05 [financialjuice] Kazakhstan Oil to UST-Luga at 200k metric tons in August - IFX
+- 09/21 15:08 [FirstSquawk] North Korea condemns multilateral sanctions monitoring team as illegal US political instrument — KCNA
+- 09/21 15:08 [FirstSquawk] North Korea says new sanctions will not impede development or defence of key interests — KCNA
+- 09/21 15:24 [FirstSquawk] Australia’s benchmark ASX 200 finishes flat at 8,731.90

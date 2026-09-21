@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 14:59 JST／対象: 09/21 02:59 〜 09/21 14:59 JST（時刻はすべて日本時間）
+生成: 2026-09-21 15:25 JST／対象: 09/21 03:25 〜 09/21 15:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 117 | 09/21 03:02 | 09/21 14:48 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 58 | 09/21 03:01 | 09/21 14:15 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 115 | 09/21 03:25 | 09/21 15:24 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 49 | 09/21 03:37 | 09/21 15:05 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 174 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 163 行（統合前 164 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 03:01 [financialjuice] Ruling United Russia projected to take 49.4% in Russia's parliamentary election: IFX cites exit poll
-- 09/21 03:01 [financialjuice] Communist Party projected to secure 14.2% in Russia parliamentary election: Ifx cites exit poll
-- 09/21 03:01 [financialjuice] Liberal Democratic party of Russia projected to take 10.7% in parliamentary election: ifx cites exit poll
-- 09/21 03:01 [financialjuice] New People party projected to secure 9.7% in Russia's parliamentary election: IFX cites exit poll
-- 09/21 03:02 [FirstSquawk] RUSSIA’S COMMUNIST PARTY PROJECTED TO WIN 14.2% OF VOTE IN PARLIAMENTARY ELECTION — IFX, CITING EXIT POLL
-- 09/21 03:03 [FirstSquawk] RUSSIA’S LIBERAL DEMOCRATIC PARTY PROJECTED TO WIN 10.7% OF VOTE IN PARLIAMENTARY ELECTION — IFX, CITING EXIT POLL
-- 09/21 03:03 [FirstSquawk] RUSSIA’S NEW PEOPLE PARTY PROJECTED TO WIN 9.7% OF VOTE IN PARLIAMENTARY ELECTION — IFX, CITING EXIT POLL
-- 09/21 03:04 [financialjuice] Ruling United Russia party leads with 57.54% in Russian election: preliminary results from central election commission
-- 09/21 03:07 [financialjuice] Iran foreign minister Aragchi departs Tehran for New York, to stop briefly in Qatar: state media
-- 09/21 03:07 [financialjuice] Voter turnout in Russia parliamentary election above 56%: central election commission
-- 09/21 03:15 [FirstSquawk] RUSSIA’S RULING UNITED RUSSIA LEADS WITH 57.54% IN PARLIAMENTARY ELECTION — PRELIMINARY CENTRAL ELECTION COMMISSION RESULTS
-- 09/21 03:15 [FirstSquawk] IRAN FOREIGN MINISTER ARAGCHI DEPARTS TEHRAN FOR NEW YORK, WITH BRIEF STOP IN QATAR — STATE MEDIA
-- 09/21 03:18 [financialjuice] Ukraine president Zelenskiy: just spoke with US president Trump
-- 09/21 03:19 [financialjuice] Ukraine President Zelenskiy: we agreed to meet in New York
-- 09/21 03:20 [financialjuice] Ukraine president Zelenskiy: thanked American president for enacting Lindsey Graham bill into law
 - 09/21 03:25 [FirstSquawk] UKRAINE PRESIDENT ZELENSKIY SAYS HE JUST SPOKE WITH U.S. PRESIDENT TRUMP AND THAT THEY AGREED TO MEET IN NEW YORK, THANKING TRUMP FOR ENACTING THE LINDSEY GRAHAM BILL INTO LAW
 - 09/21 03:37 [financialjuice] Trump administration ready to impose sanctions on International Criminal Court: WSJ
 - 09/21 03:38 [financialjuice] Sanctions would ban most dealings with ICC after six to seven months grace period: WSJ
@@ -198,3 +183,7 @@
 - 09/21 14:34 [FirstSquawk] Strong chip recovery drives greater trade dependence in South Korea in 2024 — Yonhap
 - 09/21 14:43 [FirstSquawk] South Korea’s central bank launches pilot for 24-hour offshore won settlement — Yonhap
 - 09/21 14:48 [FirstSquawk] Kazakhstan oil exports through Ust-Luga drop 30% month-on-month to 200,000 tonnes in August — IFX
+- 09/21 15:05 [financialjuice] Kazakhstan Oil to UST-Luga at 200k metric tons in August - IFX
+- 09/21 15:08 [FirstSquawk] North Korea condemns multilateral sanctions monitoring team as illegal US political instrument — KCNA
+- 09/21 15:08 [FirstSquawk] North Korea says new sanctions will not impede development or defence of key interests — KCNA
+- 09/21 15:24 [FirstSquawk] Australia’s benchmark ASX 200 finishes flat at 8,731.90

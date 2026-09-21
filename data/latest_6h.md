@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 14:59 JST／対象: 09/21 08:59 〜 09/21 14:59 JST（時刻はすべて日本時間）
+生成: 2026-09-21 15:25 JST／対象: 09/21 09:25 〜 09/21 15:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 85 | 09/21 09:00 | 09/21 14:48 | 21分（11:46→12:07） |
-| financialjuice | 26 | 09/21 09:00 | 09/21 14:15 | ⚠ 57分（11:08→12:05） |
+| FirstSquawk | 72 | 09/21 09:26 | 09/21 15:24 | 21分（11:46→12:07） |
+| financialjuice | 24 | 09/21 10:00 | 09/21 15:05 | ⚠ 57分（11:08→12:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 111 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 96 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 09:00 [financialjuice] S.Korea Sept 1-20 exports rise 78.3% y/y: customs agency
-- 09/21 09:00 [financialjuice] S.Korea Sept 1-20 trade surplus provisional at $22.97 billion: customs agency
-- 09/21 09:00 [FirstSquawk] U.S. SANCTIONS, SOARING INFLATION AND WAR DAMAGE ARE WORSENING IRAN'S MEDICINE SHORTAGES, FORCING SOME PATIENTS TO CUT DOSES, DELAY TREATMENT OR SWITCH TO CHEAPER, LESS EFFECTIVE DRUGS, WITH NEARLY 800 MEDICATIONS REPORTEDLY AFFECTED AND PH…
-- 09/21 09:00 [FirstSquawk] IRAN PRODUCES MORE THAN 97% OF ITS MEDICINES BY VOLUME, BUT MANY DRUGS AND PHARMACEUTICAL INGREDIENTS STILL DEPEND ON IMPORTS AND FOREIGN CURRENCY, WITH EXPERTS SAYING U.S. SANCTIONS COMPLICATE PAYMENTS AND DISCOURAGE FOREIGN BANKS AND SUPP…
-- 09/21 09:01 [FirstSquawk] THE CRISIS WAS FURTHER AGGRAVATED BY U.S. AND ISRAELI AIRSTRIKES EARLIER THIS YEAR, WHICH IRANIAN OFFICIALS SAID DAMAGED MORE THAN 40 PHARMACEUTICAL COMPANIES, SUPPLIERS AND DISTRIBUTORS - CNN
-- 09/21 09:01 [FirstSquawk] OSINTDEFENDER REPORTS EARLY REPORTS OF AN EXPLOSION IN SANAA, YEMEN, THE SEAT OF HOUTHI POWER, SAYING IT COULD BE A SAUDI STRIKE IN RETALIATION FOR THE HOUTHI TARGETING OF RIYADH IN THE PAST COUPLE OF DAYS, AND THAT AT THE TIME OF WRITING I…
-- 09/21 09:02 [FirstSquawk] SOUTH KOREA'S SEPT. 1-20 TRADE SURPLUS WAS A PROVISIONAL $22.97 BLN, WITH EXPORTS UP 78.3% YEAR-ON-YEAR - CUSTOMS AGENCY
-- 09/21 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 FALLS 0.5% TO 8,688.70 POINTS IN EARLY TRADE
-- 09/21 09:13 [FirstSquawk] Samsung Electronics shares climb 3%
-- 09/21 09:14 [FirstSquawk] U.S. SECRETARY OF STATE RUBIO IS TO MEET THE IRAQI PRIME MINISTER AT 4:30 PM ET, AND WILL MEET HIS JAPANESE AND SOUTH KOREAN COUNTERPARTS AT 11:15 AM ET
-- 09/21 09:14 [FirstSquawk] Aleppo explosion site entered by civil defense teams, four injured evacuated — SANA
-- 09/21 09:16 [financialjuice] China PBOC forecast to set yuan midpoint at 6.6951 per dollar: estimate
-- 09/21 09:16 [FirstSquawk] EUROPEAN STOCK FUTURES EDGE HIGHER: EUROSTOXX 50 +0.2%, DAX +0.2%, FTSE FLAT
-- 09/21 09:17 [FirstSquawk] Asia-Pac markets trade cautiously ahead of key US meetings this week, including the Trump-Xi summit, while Japanese market closures through Wednesday keep regional trading conditions thinner
-- 09/21 09:18 [FirstSquawk] China-U.S. delegations begin economic and trade discussions in New York
-- 09/21 09:19 [FirstSquawk] JPMORGAN SEES UPSIDE RISK TO SOUTH KOREA’S INTEREST-RATE OUTLOOK, EXPECTING THE BANK OF KOREA TO RAISE RATES IN NOVEMBER, FEBRUARY AND MAY TO 3.75%, ABOVE THE 3.5% ECONOMIST MEDIAN FORECAST. THE BANK FORECASTS SOUTH KOREA’S ECONOMY TO GROW …
-- 09/21 09:20 [FirstSquawk] OIL EXTENDED ITS DECLINE, WITH BRENT AROUND $103.50 A BARREL AND WTI NEAR $99.79, AS MARKETS MONITORED SIGNS OF IMPROVING ENERGY FLOWS THROUGH THE STRAIT OF HORMUZ, WITH RECENT EFFORTS TO RESTORE SAUDI EXPORT CAPACITY AND INCREASED TANKER M…
-- 09/21 09:21 [FirstSquawk] MARKETS REMAIN FOCUSED ON INFLATION AND INTEREST-RATE RISKS AFTER THE FED RAISED RATES LAST WEEK AND SIGNALED FURTHER TIGHTENING COULD BE NEEDED, WITH THE U.S. 10-YEAR TREASURY YIELD CLOSING JUST BELOW 5%, GOLD TRADING NEAR $4,370 AN OUNCE …
-- 09/21 09:23 [FirstSquawk] Women account for 40% of Fujifilm’s high-end X camera buyers, lifting its market position
 - 09/21 09:26 [FirstSquawk] YEMENI FORCES IN TAIZ, REPORTEDLY ENCIRCLING AREA - IRNA
 - 09/21 09:26 [FirstSquawk] GOLD HOLDS AROUND $4,375 AN OUNCE AS TRADERS ASSESS PERSISTENT INFLATION RISKS AND THE FEDERAL RESERVE’S PATH FOR FURTHER RATE HIKES AFTER ITS FIRST RATE INCREASE SINCE 2023. HIGHER ENERGY PRICES AND EXPECTATIONS FOR RATES TO REMAIN ELEVATE…
 - 09/21 09:28 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN $1 TO $99.22/BBL
@@ -135,3 +116,7 @@
 - 09/21 14:34 [FirstSquawk] Strong chip recovery drives greater trade dependence in South Korea in 2024 — Yonhap
 - 09/21 14:43 [FirstSquawk] South Korea’s central bank launches pilot for 24-hour offshore won settlement — Yonhap
 - 09/21 14:48 [FirstSquawk] Kazakhstan oil exports through Ust-Luga drop 30% month-on-month to 200,000 tonnes in August — IFX
+- 09/21 15:05 [financialjuice] Kazakhstan Oil to UST-Luga at 200k metric tons in August - IFX
+- 09/21 15:08 [FirstSquawk] North Korea condemns multilateral sanctions monitoring team as illegal US political instrument — KCNA
+- 09/21 15:08 [FirstSquawk] North Korea says new sanctions will not impede development or defence of key interests — KCNA
+- 09/21 15:24 [FirstSquawk] Australia’s benchmark ASX 200 finishes flat at 8,731.90
