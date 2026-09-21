@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 03:01 JST／対象: 09/21 15:01 〜 09/22 03:01 JST（時刻はすべて日本時間）
+生成: 2026-09-22 03:22 JST／対象: 09/21 15:22 〜 09/22 03:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 164 | 09/21 15:08 | 09/22 02:53 | 38分（01:55→02:34） |
-| financialjuice | 184 | 09/21 15:05 | 09/22 02:36 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 165 | 09/21 15:24 | 09/22 03:15 | 38分（01:55→02:34） |
+| financialjuice | 192 | 09/21 15:29 | 09/22 03:21 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 391 行（統合前 410 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 400 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 15:05 [financialjuice] Kazakhstan Oil to UST-Luga at 200k metric tons in August - IFX
-- 09/21 15:08 [FirstSquawk] North Korea condemns multilateral sanctions monitoring team as illegal US political instrument — KCNA
-- 09/21 15:08 [FirstSquawk] North Korea says new sanctions will not impede development or defence of key interests — KCNA
 - 09/21 15:24 [FirstSquawk] Australia’s benchmark ASX 200 finishes flat at 8,731.90
 - 09/21 15:29 [FirstSquawk] One reported dead after Ukrainian drone attack in Russia’s Bryansk region — Acting Governor
 - 09/21 15:29 [financialjuice] Iran's IRGC: Still room for geographical expansion of war
@@ -415,3 +412,15 @@
 - 09/22 02:44 [FirstSquawk] THE FAA ADMINISTRATOR SAYS THE LOSS-OF-COMMUNICATIONS ISSUE AT THE PHILADELPHIA FACILITY PROMPTED SIGNIFICANT FLIGHT CUTS, WITH A NEW CIRCUIT READY TO INSTALL AND EXPECTED TO BE OPERATIONAL BY 1:30 P.M. LOCAL TIME, THOUGH IT IS NOT CLEAR WH…
 - 09/22 02:44 [FirstSquawk] FAA ADMINISTRATOR BEDFORD APOLOGIZED FOR THE FLIGHT DISRUPTIONS, SAYING THE SYSTEM WILL NOT RESTART FOR INCOMING FLIGHTS AT SOME EAST COAST AIRPORTS 'UNTIL WE MAKE SURE THE AIRSPACE IS SAFE'.
 - 09/22 02:53 [FirstSquawk] TRUMP TO MEET DENMARK PM FREDERIKSEN & GREENLAND PM NIELSEN ON TUESDAY FOR TRILATERAL SIGNING CEREMONY — CNN
+- 09/22 03:02 [financialjuice] China's Vice Finance Minister Liao: Talked about trade, investment, AI with US today.
+- 09/22 03:05 [FirstSquawk] CHINA VICE FINANCE MINISTER LIAO SAYS US-CHINA TALKS COVERED TRADE, INVESTMENT & AI TODAY
+- 09/22 03:09 [financialjuice] Trump praises Lockheed Martin - Truth Social. $LMT
+- 09/22 03:15 [FirstSquawk] TRUMP SAYS HE IS 'JUST LEAVING THE WHITE HOUSE LAWN ON THE MAIDEN VOYAGE FROM THE NEWLY BUILT, AND VERY BEAUTIFUL, HELIPORT', THANKING LOCKHEED MARTIN CEO JIM TAICLET FOR WHAT HE CALLS A 'VALUABLE CONTRIBUTION TO OUR COUNTRY', SAYING THE GO…
+- 09/22 03:15 [FirstSquawk] TRUMP THANKS THE 'GREAT CONSTRUCTION WORKERS AND STONE MASONS' OF THE WASHINGTON, D.C. AREA AND CLARK CONSTRUCTION FOR ITS 'WONDERFUL SUPERVISORY WORK', ADDING 'GOD BLESS AMERICA'. - TRUTH SOCIAL
+- 09/22 03:19 [financialjuice] Feds' Musalem: Without further policy restraint it is more likely inflation will remain substantially above 2% target 18 months from now.
+- 09/22 03:20 [financialjuice] Feds' Musalem: Interest rates likely need to rise further to tame inflation that is both demand and supply-driven.
+- 09/22 03:20 [financialjuice] Feds' Musalem: Labor market stable around full employment and not a source of inflation pressure.
+- 09/22 03:20 [financialjuice] Feds' Musalem: Commodity shock is more than just oil, includes base metals like copper.
+- 09/22 03:20 [financialjuice] Fed's Musalem: Better for rate hikes to be 'earlier and incremental rather than later and larger.
+- 09/22 03:20 [financialjuice] Fed's Musalem: Even when stripping out supply-related factors, inflation is still 'too high' at up to 3%.
+- 09/22 03:21 [financialjuice] Fed's Musalem: Business contacts say they are planning on price increases closer to 3%.
