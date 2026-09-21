@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 15:50 JST／対象: 09/21 03:50 〜 09/21 15:50 JST（時刻はすべて日本時間）
+生成: 2026-09-21 16:02 JST／対象: 09/21 04:02 〜 09/21 16:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 118 | 09/21 05:00 | 09/21 15:45 | 45分（07:56→08:41） |
-| financialjuice | 51 | 09/21 04:48 | 09/21 15:34 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 119 | 09/21 05:00 | 09/21 16:01 | 45分（07:56→08:41） |
+| financialjuice | 52 | 09/21 04:48 | 09/21 16:01 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 168 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 170 行（統合前 171 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -192,3 +192,5 @@
 - 09/21 15:34 [financialjuice] France Fin. Min. Lescure: Fuel aid won't involve a generalized tax cut
 - 09/21 15:43 [FirstSquawk] China’s Communist Party schedules key October plenum just days before Xi-Trump summit — SCMP
 - 09/21 15:45 [FirstSquawk] Japan’s JGB market stabilises as BOJ efforts show results — WSJ
+- 09/21 16:01 [FirstSquawk] SWITZERLAND M3 MONEY SUPPLY (YOY) AUG: 3.5% (PREV 3.3%; PREV R 3.4%)
+- 09/21 16:01 [financialjuice] Currency Strength Chart: Strongest: AUD, USD, NZD, EUR, JPY, GBP, CHF, CAD - Weakest
