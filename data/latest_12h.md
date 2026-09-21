@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 06:16 JST／対象: 09/21 18:16 〜 09/22 06:16 JST（時刻はすべて日本時間）
+生成: 2026-09-22 06:32 JST／対象: 09/21 18:32 〜 09/22 06:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 183 | 09/21 18:23 | 09/22 06:11 | 38分（01:55→02:34） |
-| financialjuice | 198 | 09/21 18:32 | 09/22 06:00 | ⚠ 67分（20:02→21:10） |
+| FirstSquawk | 188 | 09/21 18:33 | 09/22 06:24 | 38分（01:55→02:34） |
+| financialjuice | 200 | 09/21 18:32 | 09/22 06:30 | ⚠ 67分（20:02→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 424 行（統合前 443 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 431 行（統合前 450 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 18:23 [FirstSquawk] India’s Oil Buyers May Weigh Cutting Russian Cargoes Amid New US Sanctions Indian refiners are considering reducing their purchases of Russian crude for November delivery following a sweeping US sanctions law signed last week. The legislati…
 - 09/21 18:32 [financialjuice] UKMTO: Received report of incident involving vessel transiting through the Strait of Hormuz
 - 09/21 18:33 [FirstSquawk] UKMTO: MILITARY AUTHORITIES REPORT VESSEL STRUCK BY UNKNOWN PROJECTILE IN HORMUZ || RECEIVES REPORT OF INCIDENT 07:30 UTC 21 SEP, INVOLVING VESSEL TRANSITING HORMUZ || TWO CREW SUSTAINED MINOR INJURIES, VESSEL CONTINUING TO NEXT PORT OF CAL…
 - 09/21 18:34 [financialjuice] UKMTO: Military authorities informed that a tanker inbound was struck by a projectile. Two crew members sustained minor injuries; the vessel is reported to be continuing to its next port of call
@@ -448,3 +447,11 @@
 - 09/22 06:10 [FirstSquawk] ELEMENTAL ROYALTY SAYS THAT AS A RESULT OF THE DIVESTMENT IT WILL REDUCE HEADCOUNT BY OVER 50%, ANTICIPATING A REDUCTION IN ANNUAL CASH EXPENSES OF ABOUT $6 MLN, AND SEES 2026 GEO SALES GUIDANCE OF 19,500-22,000 GEOS AND REVENUE GUIDANCE OF…
 - 09/22 06:10 [FirstSquawk] ELEMENTAL ROYALTY SAYS CEO DAVID COLE HAS RESIGNED TO TAKE A LEADERSHIP ROLE AT CARLIN EAST, WITH FREDERICK BELL APPOINTED CEO - SEC FILING
 - 09/22 06:11 [FirstSquawk] NORTH KOREA SAYS IT TESTED NEW COMBAT WEAPON SYSTEM — KCNA
+- 09/22 06:18 [FirstSquawk] WOODWARD PLANS TO TRANSITION ITS SANTA CLARITA, CALIFORNIA AEROSPACE CONTROLS PRODUCTION TO SPARTANBURG, SOUTH CAROLINA, CEASING OPERATIONS AT SANTA CLARITA BY DECEMBER 2027 IN A DECISION EXPECTED TO AFFECT ABOUT 400 ROLES, AND AGREEING TO …
+- 09/22 06:18 [FirstSquawk] WOODWARD SAYS IT WILL MOVE MILITARY FLIGHT CONTROL ACTUATION PRODUCTION TO SPARTANBURG, WITH THE FACILITY EXPECTED TO GO ONLINE IN SUMMER 2027 TO PRODUCE AIRBUS A350 SPOILER ACTUATION SYSTEMS, AND ESTIMATES CUMULATIVE PRE-TAX CHARGES OF $34…
+- 09/22 06:22 [FirstSquawk] COPPER RISES 1% TO $14,661/TON ON THE LME, MOVING BACK TOWARD ITS RECORD HIGH OF $14,875 SET ON SEPT. 10, AS STOCK MARKETS RALLY AND SUPPLY TIGHTNESS EMERGES IN CHINA.
+- 09/22 06:22 [FirstSquawk] SEVERAL CHINESE COPPER REFINERIES ARE SET FOR PLANNED MAINTENANCE IN OCTOBER-NOVEMBER, LIMITING SUPPLY GROWTH, WHILE PORT CONGESTION IN SHANGHAI CONTINUES TO CREATE UNCERTAINTY AROUND IMPORTS.
+- 09/22 06:22 [financialjuice] USTR to hold public hearing on Sept. 22, 2026, on Section 301 probe into Germany's pharmaceutical policies: statement
+- 09/22 06:23 [FirstSquawk] USTR TO HOLD SEPTEMBER 22 HEARING ON SECTION 301 INVESTIGATION INTO GERMANY’S PHARMACEUTICAL POLICIES — STATEMENT
+- 09/22 06:24 [FirstSquawk] TRUMP TO HOLD IRAN-FOCUSED MEETINGS TODAY, SIGNALING FRESH DISCUSSIONS ON THE CONFLICT
+- 09/22 06:30 [financialjuice] North Korea's culture minister visits Russia: KCNA
