@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 17:07 JST／対象: 09/21 11:07 〜 09/21 17:07 JST（時刻はすべて日本時間）
+生成: 2026-09-21 17:27 JST／対象: 09/21 11:27 〜 09/21 17:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 63 | 09/21 11:09 | 09/21 17:01 | 37分（16:20→16:58） |
-| financialjuice | 22 | 09/21 11:08 | 09/21 17:06 | ⚠ 57分（11:08→12:05） |
+| FirstSquawk | 66 | 09/21 11:27 | 09/21 17:20 | 37分（16:20→16:58） |
+| financialjuice | 22 | 09/21 12:05 | 09/21 17:11 | ⚠ 49分（14:15→15:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 84 行（統合前 86 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 87 行（統合前 89 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 11:08 [financialjuice] 12 vessels passed through Strait of Hormuz over weekend, down from 35 week before - shipping data
-- 09/21 11:09 [FirstSquawk] Strait of Hormuz traffic falls to 12 vessels over weekend vs 35 last week — Shipping Data
-- 09/21 11:19 [FirstSquawk] Vietnam stock market opens up 0.54% following FTSE Russell upgrade
 - 09/21 11:27 [FirstSquawk] Paramount considers $1.5 billion California investment amid merger approval push — WSJ
 - 09/21 11:27 [FirstSquawk] Crude prices slip as supply disruption concerns ease - WSJ
 - 09/21 11:28 [FirstSquawk] Asian currencies stabilize with focus on upcoming Trump-Xi meeting — WSJ
@@ -108,3 +105,9 @@
 - 09/21 17:01 [FirstSquawk] NOVO TARGETS OVER 150 BILLION DKK IN PIPELINE SALES BY 2035.
 - 09/21 17:01 [FirstSquawk] NOVO PLANS 25 PHASE 3 PROGRAMS IN OBESITY AND DIABETES BY 2030.
 - 09/21 17:06 [financialjuice] ECB’s Panetta: Current market prices on AI are optimistic
+- 09/21 17:09 [FirstSquawk] JAPAN TO EASE CURBS ON REGIONAL BANK LOANS ON AI, ENERGY - NIKKEI
+- 09/21 17:11 [financialjuice] Japan to ease curbs on regional bank loans on AI and energy - Nikkei
+- 09/21 17:20 [FirstSquawk] NOVO NORDISK CEO: 7 MILLION PRESCRIPTION SO FAR ON WEGOVY PILL IN THE US || "WE'VE GAINED MARKET SHARE QUITE A BIT" OVER THE LAST FEW MONTHS || WE WILL STRENGTHEN OUR DIABETES CARE
+- 09/21 17:20 [FirstSquawk] NOVO NORDISK CEO: THE DISCLOSURE OF AN ADDITIONAL 4,000 PERSONNEL LEAVING THE COMPANY BRINGS TOTAL CORPORATE DOWNSIZING RELATED TO THE OPERATIONAL UNIFICATION TO 13,000 INDIVIDUALS || IT IS TIME TO FURTHER DIVERSIFY THE COMPANY || WE'RE CRE…
+- 09/21 17:20 [FirstSquawk] NOVO NORDISK CEO: LIVER DISEASE IS ALSO AN OBVIOUS PLACE FOR US TO GO || CARDIOVASCULAR IS ANOTHER OBVIOUS PLACE FOR US TO GO, DESPITE RECENT SETBACKS
+- 09/21 17:20 [FirstSquawk] SOCIETE GENERALE CEO: LOWERING COSTS "HAS BEEN AND WILL REMAIN AT THE HEART OF OUR STRATEGY" || BY 2029 BANK WILL HAVE REDUCED IT COSTS BY 30% SINCE 2022
