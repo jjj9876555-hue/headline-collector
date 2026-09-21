@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 20:17 JST／対象: 09/20 20:17 〜 09/21 20:17 JST（時刻はすべて日本時間）
+生成: 2026-09-21 20:34 JST／対象: 09/20 20:34 〜 09/21 20:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/20 23:29 | 09/21 20:05 | ⚠ 1222分（23:43→20:05） |
-| FirstSquawk | 243 | 09/20 20:38 | 09/21 20:13 | ⚠ 95分（03:25→05:00） |
+| DeItaone | 4 | 09/20 23:29 | 09/21 20:25 | ⚠ 1222分（23:43→20:05） |
+| FirstSquawk | 246 | 09/20 20:38 | 09/21 20:30 | ⚠ 95分（03:25→05:00） |
 | financialjuice | 134 | 09/20 20:37 | 09/21 20:02 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 373 行（統合前 382 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 377 行（統合前 386 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -397,3 +397,7 @@
 - 09/21 20:08 [FirstSquawk] NISSAN EYES INCREASING US PRODUCTION AS NEW ROGUE HYBRID LAUNCHES – CNBC
 - 09/21 20:12 [FirstSquawk] FED GOOLSBEE: ARGUMENTS THE FED SHOULD CHEAPEN FEDERAL BORROWING COSTS ARE ONE OF THE REASONS FED INDEPENDENCE IS IMPORTANT
 - 09/21 20:13 [FirstSquawk] FED GOOLSBEE: IF FISCAL POLICY IS DRVING UP INFLATION THE FED HAS TO TAKE IT INTO ACCOUNT
+- 09/21 20:20 [FirstSquawk] PAKISTANI INTERIOR MINISTER VISITS TEHRAN, IRAN.
+- 09/21 20:24 [FirstSquawk] FED’S GOOLSBEE: THE 2% INFLATION TARGET IS STILL REALISTIC EVEN IN A WORLD OF REPEATED SUPPLY SHOCKS, MARKET EXPECTATIONS REFLECT FAITH IT WILL BE MET
+- 09/21 20:25 [DeItaone] FED’S GOOLSBEE: RATE CUTS POSSIBLE IF INFLATION HEADS TO 2% Fed’s Goolsbee remains optimistic inflation can return to the 2% target, provided demand does not overheat. He says the Fed currently has an inflation problem, not an employment pr…
+- 09/21 20:30 [FirstSquawk] CHINA PLANS TO DROP A 15% TARIFF ON US LNG THIS WEEK, POTENTIALLY REOPENING TRADE BETWEEN THE TWO NATIONS. NEW DEALS COULD FOLLOW.
