@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 10:01 JST／対象: 09/20 10:01 〜 09/21 10:01 JST（時刻はすべて日本時間）
+生成: 2026-09-21 10:19 JST／対象: 09/20 10:19 〜 09/21 10:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 259 | 09/20 10:05 | 09/21 09:57 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 98 | 09/20 10:21 | 09/21 10:00 | ⚠ 220分（12:59→16:39） |
+| FirstSquawk | 259 | 09/20 10:21 | 09/21 10:18 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 100 | 09/20 10:21 | 09/21 10:17 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 353 行（統合前 359 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 355 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 10:05 [FirstSquawk] China sees record 3.32 billion rail passenger trips through August, up 3.9%
-- 09/20 10:06 [FirstSquawk] China leaves five-year loan prime rate unchanged at 3.50%
-- 09/20 10:06 [FirstSquawk] Coalition says Houthi attacks targeting civilians in Bish, Taif, Farasan and Yanbu foiled
-- 09/20 10:07 [FirstSquawk] Houthi ballistic missile launched toward Riyadh intercepted, Saudi coalition says
-- 09/20 10:07 [FirstSquawk] Stanley Druckenmiller says AI boom could be creating an ‘earnings bubble’
 - 09/20 10:21 [FirstSquawk] WSJ: Polymarket employees raised concerns as fraudsters exploited the platform
 - 09/20 10:21 [financialjuice] China central bank injects 32 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement
 - 09/20 10:21 [FirstSquawk] Diesel exports plunge as wars disrupt supplies from Persian Gulf, Russia
@@ -377,3 +372,10 @@
 - 09/21 09:51 [FirstSquawk] Drug seizures by Hong Kong customs rise nearly 50% in H1 — SCMP
 - 09/21 09:57 [FirstSquawk] Warehouse complex near Kyiv catches fire after Russian drone strike — CBS
 - 09/21 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
+- 09/21 10:02 [FirstSquawk] Taiwan overnight interbank rate opens steady at 0.805%
+- 09/21 10:06 [FirstSquawk] Europe’s jet fuel shortage draws more supply from South Korea — SCMP
+- 09/21 10:10 [FirstSquawk] Brent, WTI fall $2 as investors assess potential recovery in Saudi oil exports
+- 09/21 10:15 [FirstSquawk] China’s PBOC fixes yuan mid-point at 6.7487/USD
+- 09/21 10:17 [financialjuice] Microsoft's Nadella to join OpenAI and Nvidia CEOs at Trump-Xi dinner
+- 09/21 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023, according to PBOC
+- 09/21 10:18 [FirstSquawk] Yuan mid-point hits strongest level since Feb. 3, 2023 after China fix
