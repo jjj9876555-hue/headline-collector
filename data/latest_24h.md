@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 01:51 JST／対象: 09/21 01:51 〜 09/22 01:51 JST（時刻はすべて日本時間）
+生成: 2026-09-22 02:03 JST／対象: 09/21 02:03 〜 09/22 02:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/21 20:05 | 09/22 00:54 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 273 | 09/21 02:12 | 09/22 01:51 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 240 | 09/21 02:22 | 09/22 01:47 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 275 | 09/21 02:12 | 09/22 01:55 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 243 | 09/21 02:22 | 09/22 01:57 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 555 行（統合前 573 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 560 行（統合前 578 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -579,3 +579,8 @@
 - 09/22 01:47 [financialjuice] BoC's Gov. Macklem: The question is, is the current rate the right one, or do we need to raise it?
 - 09/22 01:50 [FirstSquawk] BOC'S MACKLEM: INFLATION FORECAST IS KEY THING BOC WILL BE LOOKING AT
 - 09/22 01:51 [FirstSquawk] LILLY CAPTURING 70% OF SENIORS STARTING GLP-1S: CEO DAVE RICKS
+- 09/22 01:52 [financialjuice] More than two dozen US lawmakers urge Trump to maintain ban on Chinese automakers - Letter.
+- 09/22 01:53 [financialjuice] BoC's Gov. Macklem: If we were too slow to raise rates, we'd have to raise them very quickly, and raise them more than had we moved earlier.
+- 09/22 01:54 [FirstSquawk] UKRAINE READY FOR UNCONDITIONAL CEASEFIRE AND DIPLOMACY - ZELENSKYY TO CBC
+- 09/22 01:55 [FirstSquawk] BOC'S MACKLEM: MOVING TOO SLOW ON HIKES MEANS WE'D HAVE TO RAISE RATES VERY QUICKLY, AND MORE THAN HAD WE MOVED EARLIER
+- 09/22 01:57 [financialjuice] Press conference by BoC's Gov. Macklem ends.

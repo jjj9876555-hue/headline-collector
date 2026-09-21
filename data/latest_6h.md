@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 01:51 JST／対象: 09/21 19:51 〜 09/22 01:51 JST（時刻はすべて日本時間）
+生成: 2026-09-22 02:03 JST／対象: 09/21 20:03 〜 09/22 02:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/21 20:05 | 09/22 00:54 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 93 | 09/21 20:08 | 09/22 01:51 | 16分（00:15→00:31） |
-| financialjuice | 156 | 09/21 19:53 | 09/22 01:47 | ⚠ 67分（20:02→21:10） |
+| FirstSquawk | 95 | 09/21 20:08 | 09/22 01:55 | 16分（00:15→00:31） |
+| financialjuice | 157 | 09/21 21:10 | 09/22 01:57 | 25分（22:27→22:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 293 行（統合前 307 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 296 行（統合前 310 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 19:53 [financialjuice] Fed's Goolsbee: The Fed must have fortitude to confront inflation
-- 09/21 20:02 [financialjuice] Fed's Goolsbee: Optimistic that the Fed could get back on a path of 2% as long as there is no more evidence of demand overheating.
 - 09/21 20:05 [DeItaone] U.S. DIESEL HITS RECORD $6.51 A GALLON U.S. diesel prices have surged to a record $6.51 a gallon, according to AAA. Prices are being driven higher by prolonged disruptions to Middle East energy flows and Russian refineries, tightening globa…
 - 09/21 20:08 [FirstSquawk] NISSAN EYES INCREASING US PRODUCTION AS NEW ROGUE HYBRID LAUNCHES – CNBC
 - 09/21 20:12 [FirstSquawk] FED GOOLSBEE: ARGUMENTS THE FED SHOULD CHEAPEN FEDERAL BORROWING COSTS ARE ONE OF THE REASONS FED INDEPENDENCE IS IMPORTANT
@@ -317,3 +315,8 @@
 - 09/22 01:47 [financialjuice] BoC's Gov. Macklem: The question is, is the current rate the right one, or do we need to raise it?
 - 09/22 01:50 [FirstSquawk] BOC'S MACKLEM: INFLATION FORECAST IS KEY THING BOC WILL BE LOOKING AT
 - 09/22 01:51 [FirstSquawk] LILLY CAPTURING 70% OF SENIORS STARTING GLP-1S: CEO DAVE RICKS
+- 09/22 01:52 [financialjuice] More than two dozen US lawmakers urge Trump to maintain ban on Chinese automakers - Letter.
+- 09/22 01:53 [financialjuice] BoC's Gov. Macklem: If we were too slow to raise rates, we'd have to raise them very quickly, and raise them more than had we moved earlier.
+- 09/22 01:54 [FirstSquawk] UKRAINE READY FOR UNCONDITIONAL CEASEFIRE AND DIPLOMACY - ZELENSKYY TO CBC
+- 09/22 01:55 [FirstSquawk] BOC'S MACKLEM: MOVING TOO SLOW ON HIKES MEANS WE'D HAVE TO RAISE RATES VERY QUICKLY, AND MORE THAN HAD WE MOVED EARLIER
+- 09/22 01:57 [financialjuice] Press conference by BoC's Gov. Macklem ends.
