@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 03:22 JST／対象: 09/21 21:22 〜 09/22 03:22 JST（時刻はすべて日本時間）
+生成: 2026-09-22 03:39 JST／対象: 09/21 21:39 〜 09/22 03:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/21 21:22 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 83 | 09/21 21:23 | 09/22 03:15 | 38分（01:55→02:34） |
-| financialjuice | 139 | 09/21 21:22 | 09/22 03:21 | 34分（01:57→02:32） |
+| DeItaone | 29 | 09/21 22:44 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 81 | 09/21 21:40 | 09/22 03:15 | 38分（01:55→02:34） |
+| financialjuice | 130 | 09/21 21:40 | 09/22 03:36 | 34分（01:57→02:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 240 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 229 行（統合前 244 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 21:22 [financialjuice] US Treasury Secretary Bessent: Since the buyback expansion, 30-year yields are not up by much.
-- 09/21 21:22 [DeItaone] BESSENT ON FED RAISE: TRUMP ALSO CONFIDENT IN WARSH
-- 09/21 21:22 [financialjuice] US Treasury Secretary Bessent: Will see if this is a supply shock on the energy side.
-- 09/21 21:23 [financialjuice] US Treasury Secretary Bessent: Haven't seen an uptick in core inflation, all headline.
-- 09/21 21:23 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT: WILL SEE IF THIS IS SUPPLY SHOCK ON ENERGY SIDE -CNBC
-- 09/21 21:26 [financialjuice/FirstSquawk] Iraqi Oil Minister: Most of the oil tankers passing through the Strait of Hormuz belong to Iraq - Tasnim News
-- 09/21 21:28 [financialjuice] Iraqi Oil Minister Khadir: Iraq has been able to increase oil exports to 4 million barrels in a single day - Tasnim News
-- 09/21 21:30 [financialjuice] CHICAGO NATIONAL ACTIVITY INDEX ACTUAL -0.04 (FORECAST -0.035, PREVIOUS -0.08) $MACRO
-- 09/21 21:31 [financialjuice] Chicago National Activity Index August Report
-- 09/21 21:35 [financialjuice] Bloomberg Business tv
-- 09/21 21:35 [financialjuice] USTR Greer: US-China talks were positive and constructive.
-- 09/21 21:36 [financialjuice] USTR Greer: Focus with China is on stability in trade ties.
-- 09/21 21:36 [financialjuice] USTR Greer: We're just going to have managed trade with China.
-- 09/21 21:36 [financialjuice] USTR Greer: The US is focused on outcomes rather than changing China.
-- 09/21 21:37 [financialjuice] USTR Greer repeats excess capacity probe is ongoing
-- 09/21 21:38 [financialjuice] USTR Greer: The US is developing rules of origin with Mexico.
-- 09/21 21:39 [financialjuice] USTR Greer: Talks continue on details of extending the China trade truce.
 - 09/21 21:40 [FirstSquawk] GREER INDICATES 3-6 MONTH TRUCE EXTENSION COULD BE POSSIBLE
 - 09/21 21:40 [financialjuice] USTR Greer: indicates a 3-6 month truce extension could be possible.
 - 09/21 21:42 [financialjuice] USTR Greer: Nothing off the table regarding Iran-related sanctions.
@@ -264,3 +247,9 @@
 - 09/22 03:20 [financialjuice] Fed's Musalem: Better for rate hikes to be 'earlier and incremental rather than later and larger.
 - 09/22 03:20 [financialjuice] Fed's Musalem: Even when stripping out supply-related factors, inflation is still 'too high' at up to 3%.
 - 09/22 03:21 [financialjuice] Fed's Musalem: Business contacts say they are planning on price increases closer to 3%.
+- 09/22 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $95.78 a barrel down $4.52, 4.51%
+- 09/22 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.8895 a gallon
+- 09/22 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.4699 a gallon
+- 09/22 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8360/MMBTU
+- 09/22 03:32 [financialjuice] SoftBank-backed SB Energy delays its IPO - NYT
+- 09/22 03:36 [financialjuice] AWS: xAI's Grok 4.6 now available in Amazon Bedrock - Blog. $AMZN $SPCX

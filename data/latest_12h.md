@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 03:22 JST／対象: 09/21 15:22 〜 09/22 03:22 JST（時刻はすべて日本時間）
+生成: 2026-09-22 03:39 JST／対象: 09/21 15:39 〜 09/22 03:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 165 | 09/21 15:24 | 09/22 03:15 | 38分（01:55→02:34） |
-| financialjuice | 192 | 09/21 15:29 | 09/22 03:21 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 162 | 09/21 15:43 | 09/22 03:15 | 38分（01:55→02:34） |
+| financialjuice | 194 | 09/21 16:01 | 09/22 03:36 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 400 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 399 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 15:24 [FirstSquawk] Australia’s benchmark ASX 200 finishes flat at 8,731.90
-- 09/21 15:29 [FirstSquawk] One reported dead after Ukrainian drone attack in Russia’s Bryansk region — Acting Governor
-- 09/21 15:29 [financialjuice] Iran's IRGC: Still room for geographical expansion of war
-- 09/21 15:29 [financialjuice] France Fin. Min. Lescure: France's strategic oil stocks are full
-- 09/21 15:31 [FirstSquawk] Germany’s 10-year bond yield declines to 3.48% as state election results and falling oil prices weigh
-- 09/21 15:34 [financialjuice] France Fin. Min. Lescure: Likely to provide extra fuel aid from October 1st
-- 09/21 15:34 [financialjuice] France Fin. Min. Lescure: Fuel aid won't involve a generalized tax cut
 - 09/21 15:43 [FirstSquawk] China’s Communist Party schedules key October plenum just days before Xi-Trump summit — SCMP
 - 09/21 15:45 [FirstSquawk] Japan’s JGB market stabilises as BOJ efforts show results — WSJ
 - 09/21 16:01 [FirstSquawk] SWITZERLAND M3 MONEY SUPPLY (YOY) AUG: 3.5% (PREV 3.3%; PREV R 3.4%)
@@ -424,3 +417,9 @@
 - 09/22 03:20 [financialjuice] Fed's Musalem: Better for rate hikes to be 'earlier and incremental rather than later and larger.
 - 09/22 03:20 [financialjuice] Fed's Musalem: Even when stripping out supply-related factors, inflation is still 'too high' at up to 3%.
 - 09/22 03:21 [financialjuice] Fed's Musalem: Business contacts say they are planning on price increases closer to 3%.
+- 09/22 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $95.78 a barrel down $4.52, 4.51%
+- 09/22 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.8895 a gallon
+- 09/22 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.4699 a gallon
+- 09/22 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8360/MMBTU
+- 09/22 03:32 [financialjuice] SoftBank-backed SB Energy delays its IPO - NYT
+- 09/22 03:36 [financialjuice] AWS: xAI's Grok 4.6 now available in Amazon Bedrock - Blog. $AMZN $SPCX

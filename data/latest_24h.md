@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 03:22 JST／対象: 09/21 03:22 〜 09/22 03:22 JST（時刻はすべて日本時間）
+生成: 2026-09-22 03:39 JST／対象: 09/21 03:39 〜 09/22 03:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 279 | 09/21 03:25 | 09/22 03:15 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 241 | 09/21 03:37 | 09/22 03:21 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 278 | 09/21 05:00 | 09/22 03:15 | 45分（07:56→08:41） |
+| financialjuice | 245 | 09/21 04:48 | 09/22 03:36 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 562 行（統合前 582 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 565 行（統合前 586 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 03:25 [FirstSquawk] UKRAINE PRESIDENT ZELENSKIY SAYS HE JUST SPOKE WITH U.S. PRESIDENT TRUMP AND THAT THEY AGREED TO MEET IN NEW YORK, THANKING TRUMP FOR ENACTING THE LINDSEY GRAHAM BILL INTO LAW
-- 09/21 03:37 [financialjuice] Trump administration ready to impose sanctions on International Criminal Court: WSJ
-- 09/21 03:38 [financialjuice] Sanctions would ban most dealings with ICC after six to seven months grace period: WSJ
 - 09/21 04:48 [financialjuice] France condemns iranian authorities' choice to shut language centre in Tehran: foreign ministry
 - 09/21 04:50 [financialjuice] France's foreign ministry: shutting Tehran language centre is unjustified and unacceptable
 - 09/21 04:51 [financialjuice] France will take appropriate steps after closure of language centre in Tehran: foreign ministry
@@ -586,3 +583,9 @@
 - 09/22 03:20 [financialjuice] Fed's Musalem: Better for rate hikes to be 'earlier and incremental rather than later and larger.
 - 09/22 03:20 [financialjuice] Fed's Musalem: Even when stripping out supply-related factors, inflation is still 'too high' at up to 3%.
 - 09/22 03:21 [financialjuice] Fed's Musalem: Business contacts say they are planning on price increases closer to 3%.
+- 09/22 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $95.78 a barrel down $4.52, 4.51%
+- 09/22 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.8895 a gallon
+- 09/22 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.4699 a gallon
+- 09/22 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8360/MMBTU
+- 09/22 03:32 [financialjuice] SoftBank-backed SB Energy delays its IPO - NYT
+- 09/22 03:36 [financialjuice] AWS: xAI's Grok 4.6 now available in Amazon Bedrock - Blog. $AMZN $SPCX
