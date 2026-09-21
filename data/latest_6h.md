@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 09:08 JST／対象: 09/21 03:08 〜 09/21 09:08 JST（時刻はすべて日本時間）
+生成: 2026-09-21 09:32 JST／対象: 09/21 03:32 〜 09/21 09:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 35 | 09/21 03:15 | 09/21 09:07 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 27 | 09/21 03:18 | 09/21 09:00 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 47 | 09/21 05:00 | 09/21 09:30 | 45分（07:56→08:41） |
+| financialjuice | 25 | 09/21 03:37 | 09/21 09:16 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 61 行（統合前 62 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 71 行（統合前 72 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 03:15 [FirstSquawk] RUSSIA’S RULING UNITED RUSSIA LEADS WITH 57.54% IN PARLIAMENTARY ELECTION — PRELIMINARY CENTRAL ELECTION COMMISSION RESULTS
-- 09/21 03:15 [FirstSquawk] IRAN FOREIGN MINISTER ARAGCHI DEPARTS TEHRAN FOR NEW YORK, WITH BRIEF STOP IN QATAR — STATE MEDIA
-- 09/21 03:18 [financialjuice] Ukraine president Zelenskiy: just spoke with US president Trump
-- 09/21 03:19 [financialjuice] Ukraine President Zelenskiy: we agreed to meet in New York
-- 09/21 03:20 [financialjuice] Ukraine president Zelenskiy: thanked American president for enacting Lindsey Graham bill into law
-- 09/21 03:25 [FirstSquawk] UKRAINE PRESIDENT ZELENSKIY SAYS HE JUST SPOKE WITH U.S. PRESIDENT TRUMP AND THAT THEY AGREED TO MEET IN NEW YORK, THANKING TRUMP FOR ENACTING THE LINDSEY GRAHAM BILL INTO LAW
 - 09/21 03:37 [financialjuice] Trump administration ready to impose sanctions on International Criminal Court: WSJ
 - 09/21 03:38 [financialjuice] Sanctions would ban most dealings with ICC after six to seven months grace period: WSJ
 - 09/21 04:48 [financialjuice] France condemns iranian authorities' choice to shut language centre in Tehran: foreign ministry
@@ -85,3 +79,19 @@
 - 09/21 09:01 [FirstSquawk] OSINTDEFENDER REPORTS EARLY REPORTS OF AN EXPLOSION IN SANAA, YEMEN, THE SEAT OF HOUTHI POWER, SAYING IT COULD BE A SAUDI STRIKE IN RETALIATION FOR THE HOUTHI TARGETING OF RIYADH IN THE PAST COUPLE OF DAYS, AND THAT AT THE TIME OF WRITING I…
 - 09/21 09:02 [FirstSquawk] SOUTH KOREA'S SEPT. 1-20 TRADE SURPLUS WAS A PROVISIONAL $22.97 BLN, WITH EXPORTS UP 78.3% YEAR-ON-YEAR - CUSTOMS AGENCY
 - 09/21 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 FALLS 0.5% TO 8,688.70 POINTS IN EARLY TRADE
+- 09/21 09:13 [FirstSquawk] Samsung Electronics shares climb 3%
+- 09/21 09:14 [FirstSquawk] U.S. SECRETARY OF STATE RUBIO IS TO MEET THE IRAQI PRIME MINISTER AT 4:30 PM ET, AND WILL MEET HIS JAPANESE AND SOUTH KOREAN COUNTERPARTS AT 11:15 AM ET
+- 09/21 09:14 [FirstSquawk] Aleppo explosion site entered by civil defense teams, four injured evacuated — SANA
+- 09/21 09:16 [financialjuice] China PBOC forecast to set yuan midpoint at 6.6951 per dollar: estimate
+- 09/21 09:16 [FirstSquawk] EUROPEAN STOCK FUTURES EDGE HIGHER: EUROSTOXX 50 +0.2%, DAX +0.2%, FTSE FLAT
+- 09/21 09:17 [FirstSquawk] Asia-Pac markets trade cautiously ahead of key US meetings this week, including the Trump-Xi summit, while Japanese market closures through Wednesday keep regional trading conditions thinner
+- 09/21 09:18 [FirstSquawk] China-U.S. delegations begin economic and trade discussions in New York
+- 09/21 09:19 [FirstSquawk] JPMORGAN SEES UPSIDE RISK TO SOUTH KOREA’S INTEREST-RATE OUTLOOK, EXPECTING THE BANK OF KOREA TO RAISE RATES IN NOVEMBER, FEBRUARY AND MAY TO 3.75%, ABOVE THE 3.5% ECONOMIST MEDIAN FORECAST. THE BANK FORECASTS SOUTH KOREA’S ECONOMY TO GROW …
+- 09/21 09:20 [FirstSquawk] OIL EXTENDED ITS DECLINE, WITH BRENT AROUND $103.50 A BARREL AND WTI NEAR $99.79, AS MARKETS MONITORED SIGNS OF IMPROVING ENERGY FLOWS THROUGH THE STRAIT OF HORMUZ, WITH RECENT EFFORTS TO RESTORE SAUDI EXPORT CAPACITY AND INCREASED TANKER M…
+- 09/21 09:21 [FirstSquawk] MARKETS REMAIN FOCUSED ON INFLATION AND INTEREST-RATE RISKS AFTER THE FED RAISED RATES LAST WEEK AND SIGNALED FURTHER TIGHTENING COULD BE NEEDED, WITH THE U.S. 10-YEAR TREASURY YIELD CLOSING JUST BELOW 5%, GOLD TRADING NEAR $4,370 AN OUNCE …
+- 09/21 09:23 [FirstSquawk] Women account for 40% of Fujifilm’s high-end X camera buyers, lifting its market position
+- 09/21 09:26 [FirstSquawk] YEMENI FORCES IN TAIZ, REPORTEDLY ENCIRCLING AREA - IRNA
+- 09/21 09:26 [FirstSquawk] GOLD HOLDS AROUND $4,375 AN OUNCE AS TRADERS ASSESS PERSISTENT INFLATION RISKS AND THE FEDERAL RESERVE’S PATH FOR FURTHER RATE HIKES AFTER ITS FIRST RATE INCREASE SINCE 2023. HIGHER ENERGY PRICES AND EXPECTATIONS FOR RATES TO REMAIN ELEVATE…
+- 09/21 09:28 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN $1 TO $99.22/BBL
+- 09/21 09:29 [FirstSquawk] Gulf LNG constraints could push TTF to €105 and JKM to $35, Goldman warns
+- 09/21 09:30 [FirstSquawk] Trump administration prepares sweeping sanctions against ICC, WSJ reports

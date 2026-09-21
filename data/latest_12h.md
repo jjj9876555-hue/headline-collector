@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 09:08 JST／対象: 09/20 21:08 〜 09/21 09:08 JST（時刻はすべて日本時間）
+生成: 2026-09-21 09:32 JST／対象: 09/20 21:32 〜 09/21 09:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 99 | 09/20 21:13 | 09/21 09:07 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 82 | 09/20 23:15 | 09/21 09:00 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 110 | 09/20 21:48 | 09/21 09:30 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 83 | 09/20 23:15 | 09/21 09:16 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 182 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 194 行（統合前 195 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 21:13 [FirstSquawk] Ukraine hits Moscow with ‘largest ever’ drone attack - FT
-- 09/20 21:13 [FirstSquawk] Biodiesel for shipping now cheaper than conventional fuels after price fall- FT
-- 09/20 21:13 [FirstSquawk] US retailer rations motor oil as prices quadruple and supplies run dry- FT
-- 09/20 21:14 [FirstSquawk] Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets - FT
 - 09/20 21:48 [FirstSquawk] National Security Minister Itamar Ben-Gvir: We demand the execution of the perpetrator of the Neve Tzuf attack in the central West Bank, so that he will be the first to face the law.
 - 09/20 21:48 [FirstSquawk] Ben-Gvir: We demand the execution of the perpetrator of the Neve Tzuf attack in the central West Bank, so that he may be the first to face the law.
 - 09/20 21:48 [FirstSquawk] Iran's Khatam al-Anbiya Central Headquarters: We have received information about Washington's efforts to reinstate certain measures against our country.
@@ -206,3 +202,19 @@
 - 09/21 09:01 [FirstSquawk] OSINTDEFENDER REPORTS EARLY REPORTS OF AN EXPLOSION IN SANAA, YEMEN, THE SEAT OF HOUTHI POWER, SAYING IT COULD BE A SAUDI STRIKE IN RETALIATION FOR THE HOUTHI TARGETING OF RIYADH IN THE PAST COUPLE OF DAYS, AND THAT AT THE TIME OF WRITING I…
 - 09/21 09:02 [FirstSquawk] SOUTH KOREA'S SEPT. 1-20 TRADE SURPLUS WAS A PROVISIONAL $22.97 BLN, WITH EXPORTS UP 78.3% YEAR-ON-YEAR - CUSTOMS AGENCY
 - 09/21 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 FALLS 0.5% TO 8,688.70 POINTS IN EARLY TRADE
+- 09/21 09:13 [FirstSquawk] Samsung Electronics shares climb 3%
+- 09/21 09:14 [FirstSquawk] U.S. SECRETARY OF STATE RUBIO IS TO MEET THE IRAQI PRIME MINISTER AT 4:30 PM ET, AND WILL MEET HIS JAPANESE AND SOUTH KOREAN COUNTERPARTS AT 11:15 AM ET
+- 09/21 09:14 [FirstSquawk] Aleppo explosion site entered by civil defense teams, four injured evacuated — SANA
+- 09/21 09:16 [financialjuice] China PBOC forecast to set yuan midpoint at 6.6951 per dollar: estimate
+- 09/21 09:16 [FirstSquawk] EUROPEAN STOCK FUTURES EDGE HIGHER: EUROSTOXX 50 +0.2%, DAX +0.2%, FTSE FLAT
+- 09/21 09:17 [FirstSquawk] Asia-Pac markets trade cautiously ahead of key US meetings this week, including the Trump-Xi summit, while Japanese market closures through Wednesday keep regional trading conditions thinner
+- 09/21 09:18 [FirstSquawk] China-U.S. delegations begin economic and trade discussions in New York
+- 09/21 09:19 [FirstSquawk] JPMORGAN SEES UPSIDE RISK TO SOUTH KOREA’S INTEREST-RATE OUTLOOK, EXPECTING THE BANK OF KOREA TO RAISE RATES IN NOVEMBER, FEBRUARY AND MAY TO 3.75%, ABOVE THE 3.5% ECONOMIST MEDIAN FORECAST. THE BANK FORECASTS SOUTH KOREA’S ECONOMY TO GROW …
+- 09/21 09:20 [FirstSquawk] OIL EXTENDED ITS DECLINE, WITH BRENT AROUND $103.50 A BARREL AND WTI NEAR $99.79, AS MARKETS MONITORED SIGNS OF IMPROVING ENERGY FLOWS THROUGH THE STRAIT OF HORMUZ, WITH RECENT EFFORTS TO RESTORE SAUDI EXPORT CAPACITY AND INCREASED TANKER M…
+- 09/21 09:21 [FirstSquawk] MARKETS REMAIN FOCUSED ON INFLATION AND INTEREST-RATE RISKS AFTER THE FED RAISED RATES LAST WEEK AND SIGNALED FURTHER TIGHTENING COULD BE NEEDED, WITH THE U.S. 10-YEAR TREASURY YIELD CLOSING JUST BELOW 5%, GOLD TRADING NEAR $4,370 AN OUNCE …
+- 09/21 09:23 [FirstSquawk] Women account for 40% of Fujifilm’s high-end X camera buyers, lifting its market position
+- 09/21 09:26 [FirstSquawk] YEMENI FORCES IN TAIZ, REPORTEDLY ENCIRCLING AREA - IRNA
+- 09/21 09:26 [FirstSquawk] GOLD HOLDS AROUND $4,375 AN OUNCE AS TRADERS ASSESS PERSISTENT INFLATION RISKS AND THE FEDERAL RESERVE’S PATH FOR FURTHER RATE HIKES AFTER ITS FIRST RATE INCREASE SINCE 2023. HIGHER ENERGY PRICES AND EXPECTATIONS FOR RATES TO REMAIN ELEVATE…
+- 09/21 09:28 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN $1 TO $99.22/BBL
+- 09/21 09:29 [FirstSquawk] Gulf LNG constraints could push TTF to €105 and JKM to $35, Goldman warns
+- 09/21 09:30 [FirstSquawk] Trump administration prepares sweeping sanctions against ICC, WSJ reports
