@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 03:39 JST／対象: 09/21 21:39 〜 09/22 03:39 JST（時刻はすべて日本時間）
+生成: 2026-09-22 03:54 JST／対象: 09/21 21:54 〜 09/22 03:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 29 | 09/21 22:44 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 81 | 09/21 21:40 | 09/22 03:15 | 38分（01:55→02:34） |
-| financialjuice | 130 | 09/21 21:40 | 09/22 03:36 | 34分（01:57→02:32） |
+| FirstSquawk | 88 | 09/21 21:56 | 09/22 03:53 | 38分（01:55→02:34） |
+| financialjuice | 126 | 09/21 22:00 | 09/22 03:51 | 34分（01:57→02:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 229 行（統合前 244 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 232 行（統合前 246 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 21:40 [FirstSquawk] GREER INDICATES 3-6 MONTH TRUCE EXTENSION COULD BE POSSIBLE
-- 09/21 21:40 [financialjuice] USTR Greer: indicates a 3-6 month truce extension could be possible.
-- 09/21 21:42 [financialjuice] USTR Greer: Nothing off the table regarding Iran-related sanctions.
-- 09/21 21:44 [FirstSquawk] GREER SAYS NOTHING OFF TABLE REGARDING IRAN-RELATED SANCTIONS
-- 09/21 21:44 [FirstSquawk] GARDEN REACH SHIPBUILDERS: CO BOARD APPROVES ₹2,896 CRORE CAPEX FOR GREENFIELD SHIPYARD AT RAICHAK
-- 09/21 21:46 [financialjuice] The Gulf states urge a reset with Iran as conflict drags on - FT
-- 09/21 21:48 [financialjuice] USTR Greer contrasts positive Mexico talks with Canada differences.
-- 09/21 21:50 [financialjuice] USTR Greer: Canada has slow growth, and I like our model better.
-- 09/21 21:51 [financialjuice] USTR Greer interview with Bloomberg TV concludes.
 - 09/21 21:56 [FirstSquawk] RUSSIA FINANCE MINISTER SEES 2026 BUDGET GAP WITHIN 3%/GDP: IFX
 - 09/21 22:00 [FirstSquawk] MCLAREN PLANS £500 MILLION INVESTMENT IN A NEW PLANT, A RARE BOOST FOR THE UK MANUFACTURING SECTOR AND PM ANDY BURNHAM.
 - 09/21 22:00 [financialjuice] Effective Fed Funds rate: 3.88% September 18th vs 3.88% September 17th.
@@ -253,3 +244,15 @@
 - 09/22 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8360/MMBTU
 - 09/22 03:32 [financialjuice] SoftBank-backed SB Energy delays its IPO - NYT
 - 09/22 03:36 [financialjuice] AWS: xAI's Grok 4.6 now available in Amazon Bedrock - Blog. $AMZN $SPCX
+- 09/22 03:40 [financialjuice] Fed's Musalem: Core inflation may be running 1 percentage point above Fed's target.
+- 09/22 03:43 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 4.51% LOWER AT $95.78/BBL, DOWN $4.52
+- 09/22 03:44 [FirstSquawk] FED'S MUSALEM SAYS THAT WITHOUT FURTHER POLICY RESTRAINT, IT IS MORE LIKELY INFLATION WILL REMAIN SUBSTANTIALLY ABOVE THE 2% TARGET 18 MONTHS FROM NOW, ADDING THAT FURTHER HIKES ARE LIKELY NEEDED TO TAME INFLATION THAT IS BOTH DEMAND- AND S…
+- 09/22 03:44 [FirstSquawk] FED'S MUSALEM SAYS THE COMMODITY SHOCK IS MORE THAN JUST OIL AND INCLUDES BASE METALS LIKE COPPER, AND THAT EVEN WHEN STRIPPING OUT SUPPLY-RELATED FACTORS, INFLATION REMAINS 'TOO HIGH', WITH BUSINESS CONTACTS PLANNING ON PRICE INCREASES 'CL…
+- 09/22 03:44 [FirstSquawk] SOFTBANK UNIT SB ENERGY DELAYS IPO OVER VALUATION CONCERNS — NYT
+- 09/22 03:45 [FirstSquawk] AWS MAKES XAI’S GROK 4.6 AVAILABLE ON AMAZON BEDROCK
+- 09/22 03:50 [FirstSquawk] TRUMP’S APPROVAL RATING HAS FALLEN TO 32%, ACCORDING TO A NEW REUTERS/IPSOS POLL, DOWN FROM 35% A WEEK EARLIER AND NEAR THE LOWEST LEVEL RECORDED IN HIS SECOND TERM. APPROVAL AMONG REPUBLICANS ALSO FELL TO 73% FROM 82% A WEEK EARLIER, WHILE…
+- 09/22 03:51 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 3.4% LOWER AT $100.34/BBL, DOWN $3.53BRENT CRUDE FUTURES SETTLE 3.4% LOWER AT $100.34/BBL, DOWN $3.53
+- 09/22 03:51 [financialjuice] Brent Crude futures settle at $100.34/bbl, down $3.53, 3.4%
+- 09/22 03:51 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 3.4% LOWER AT $100.34/BBL, DOWN $3.53
+- 09/22 03:53 [FirstSquawk] FIFA PRESIDENT GIANNI INFANTINO SAYS AN INVESTMENT PROPOSAL HAS BEEN WITHDRAWN AND WILL NOT PROCEED, WHILE PROPOSING AN INDEPENDENT EXTERNAL REVIEW OF FIFA’S GOVERNANCE FRAMEWORK FOR MAJOR STRATEGIC INITIATIVES.
+- 09/22 03:53 [FirstSquawk] FIFA PRESIDENT GIANNI INFANTINO ALSO PLANS A DIRECT, TIME-LIMITED CONSULTATION WITH CONFEDERATIONS, MEMBER ASSOCIATIONS AND OTHER STAKEHOLDERS, AND SAYS NO ASSOCIATION’S TREATMENT WILL DEPEND ON ITS POSITION ON ANY PROPOSAL OR INSTITUTIONAL…
