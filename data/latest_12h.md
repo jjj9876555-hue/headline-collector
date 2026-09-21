@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 12:45 JST／対象: 09/21 00:45 〜 09/21 12:45 JST（時刻はすべて日本時間）
+生成: 2026-09-21 12:59 JST／対象: 09/21 00:59 〜 09/21 12:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 105 | 09/21 00:49 | 09/21 12:37 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 78 | 09/21 00:51 | 09/21 12:39 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 105 | 09/21 01:41 | 09/21 12:50 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 77 | 09/21 01:00 | 09/21 12:39 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 182 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 181 行（統合前 182 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 00:49 [FirstSquawk] Iranian President: We will welcome any talks that lead to lasting security and peace, and we need unity of purpose in this endeavor.
-- 09/21 00:51 [financialjuice] US Pacific Command on North Korea missile launches: aware of recent launches, consulting closely with allies and partners
 - 09/21 01:00 [financialjuice] Germany's centre-left SPD forecast at 35.5% in Mecklenburg-Western Pomerania state vote: exit poll
 - 09/21 01:00 [financialjuice] Germany's far-right AfD set to secure 37.0% in Mecklenburg-Western Pomerania state election - exit poll
 - 09/21 01:01 [financialjuice] German Chancellor Merz's CDU projected to secure 5.5% in Mecklenburg-Western Pomerania state vote: exit poll
@@ -206,3 +204,4 @@
 - 09/21 12:37 [FirstSquawk] BHP Group says agreement will prioritize progress on modified blast furnace technologies
 - 09/21 12:37 [FirstSquawk] BHP, China Baowu extend partnership on steel decarbonisation
 - 09/21 12:39 [financialjuice] China finance ministry auctions 10-year bonds at 1.6626% yield: traders
+- 09/21 12:50 [FirstSquawk] China maps out five-year plan to advance pharmaceuticals and biomedicine — SCMP

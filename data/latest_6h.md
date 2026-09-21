@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 12:45 JST／対象: 09/21 06:45 〜 09/21 12:45 JST（時刻はすべて日本時間）
+生成: 2026-09-21 12:59 JST／対象: 09/21 06:59 〜 09/21 12:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 78 | 09/21 07:00 | 09/21 12:37 | 45分（07:56→08:41） |
+| FirstSquawk | 79 | 09/21 07:00 | 09/21 12:50 | 45分（07:56→08:41） |
 | financialjuice | 35 | 09/21 07:07 | 09/21 12:39 | ⚠ 97分（07:12→08:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 113 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 114 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -137,3 +137,4 @@
 - 09/21 12:37 [FirstSquawk] BHP Group says agreement will prioritize progress on modified blast furnace technologies
 - 09/21 12:37 [FirstSquawk] BHP, China Baowu extend partnership on steel decarbonisation
 - 09/21 12:39 [financialjuice] China finance ministry auctions 10-year bonds at 1.6626% yield: traders
+- 09/21 12:50 [FirstSquawk] China maps out five-year plan to advance pharmaceuticals and biomedicine — SCMP
