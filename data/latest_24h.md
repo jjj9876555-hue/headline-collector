@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 18:19 JST／対象: 09/20 18:19 〜 09/21 18:19 JST（時刻はすべて日本時間）
+生成: 2026-09-21 18:34 JST／対象: 09/20 18:34 〜 09/21 18:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 239 | 09/20 18:41 | 09/21 18:14 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 128 | 09/20 18:32 | 09/21 17:11 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 241 | 09/20 18:41 | 09/21 18:33 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 129 | 09/20 19:31 | 09/21 18:34 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 362 行（統合前 370 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 365 行（統合前 373 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 18:32 [financialjuice] Japan defense ministry: no confirmation if second missile landed inside Japan's EEZ
 - 09/20 18:41 [FirstSquawk] Zelensky: We targeted facilities in Russia worth billions of dollars that fuel the Russian war machine
 - 09/20 18:41 [FirstSquawk] Qalibaf: We do not want an endless war and to keep Iran hostage to a permanent crisis.
 - 09/20 18:42 [FirstSquawk] Qalibaf: The internal vision that embraces war and rejects diplomacy is pushing Iran toward attrition.
@@ -386,3 +385,7 @@
 - 09/21 18:13 [FirstSquawk] NOVO IS EXPANDING INTO WOMEN'S AND MEN'S HEALTH IN NEW MARKETS, SAYS LANGE.
 - 09/21 18:13 [FirstSquawk] IRISH DATA PROTECTION AUTHORITY FINES GOOGLE €403 MILLION OVER LOCATION DATA HANDLING.
 - 09/21 18:14 [FirstSquawk] UKRAINE'S EXPORT LOSSES FROM RUSSIAN ATTACKS ON PORTS, OTHER INFRASTRUCTURE COULD REACH $4.8 BLN BY END-YEAR SAYS FINANCE MINISTRY
+- 09/21 18:23 [FirstSquawk] India’s Oil Buyers May Weigh Cutting Russian Cargoes Amid New US Sanctions Indian refiners are considering reducing their purchases of Russian crude for November delivery following a sweeping US sanctions law signed last week. The legislati…
+- 09/21 18:32 [financialjuice] UKMTO: Received report of incident involving vessel transiting through the Strait of Hormuz
+- 09/21 18:33 [FirstSquawk] UKMTO: MILITARY AUTHORITIES REPORT VESSEL STRUCK BY UNKNOWN PROJECTILE IN HORMUZ || RECEIVES REPORT OF INCIDENT 07:30 UTC 21 SEP, INVOLVING VESSEL TRANSITING HORMUZ || TWO CREW SUSTAINED MINOR INJURIES, VESSEL CONTINUING TO NEXT PORT OF CAL…
+- 09/21 18:34 [financialjuice] UKMTO: Military authorities informed that a tanker inbound was struck by a projectile. Two crew members sustained minor injuries; the vessel is reported to be continuing to its next port of call

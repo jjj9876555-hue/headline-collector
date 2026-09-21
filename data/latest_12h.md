@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 18:19 JST／対象: 09/21 06:19 〜 09/21 18:19 JST（時刻はすべて日本時間）
+生成: 2026-09-21 18:34 JST／対象: 09/21 06:34 〜 09/21 18:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 136 | 09/21 06:21 | 09/21 18:14 | 45分（07:56→08:41） |
-| financialjuice | 54 | 09/21 07:07 | 09/21 17:11 | ⚠ 97分（07:12→08:49） |
+| FirstSquawk | 135 | 09/21 07:00 | 09/21 18:33 | 45分（07:56→08:41） |
+| financialjuice | 56 | 09/21 07:07 | 09/21 18:34 | ⚠ 97分（07:12→08:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 189 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 190 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 06:21 [FirstSquawk] RUSSIA MOVES TO EXPAND DRONE FACTORY IN TATARSTAN - POLITICO
-- 09/21 06:32 [FirstSquawk] TRUMP IS INCREASINGLY FRUSTRATED BY POLITICAL AND LEGAL SETBACKS AND BELIEVES TOO FEW ALLIES ARE PUBLICLY DEFENDING HIS SECOND-TERM RECORD, HAVING ALSO COMPLAINED THAT PROMINENT FIGURES HAVE NOT THANKED HIM FOR HIS ATTEMPTED OVERHAUL OF THE…
-- 09/21 06:32 [FirstSquawk] TRUMP IS ALSO FACING FALLING APPROVAL RATINGS, CONCERNS ABOUT REPUBLICAN PERFORMANCE IN THE MIDTERMS AND VOTER FRUSTRATION OVER THE IRAN WAR AND HIGHER ENERGY PRICES, WITH HIS ADMINISTRATION SEARCHING FOR FOREIGN-POLICY WINS TO TOUT AHEAD O…
 - 09/21 07:00 [FirstSquawk] PARAMOUNT SETTLEMENT FACES RESISTANCE FROM CONNECTICUT & AT LEAST TWO OTHER STATES; NY AG JAMES SEEKS ADDITIONAL WORKER PROTECTIONS — CNN
 - 09/21 07:00 [FirstSquawk] AUSTRALIAN TREASURER JIM CHALMERS WARNS THAT AN AGING AND SLOWER-GROWING POPULATION POSES “SERIOUS RISKS” TO THE ECONOMY AND WILL INCREASE PRESSURE ON GOVERNMENT FINANCES.
 - 09/21 07:00 [FirstSquawk] CHALMERS SAYS DEMOGRAPHIC CHANGES WILL CREATE LONG-TERM FISCAL CHALLENGES FOR AUSTRALIA AS POPULATION GROWTH SLOWS AND THE SHARE OF OLDER PEOPLE RISES. SOURCE
@@ -213,3 +210,7 @@
 - 09/21 18:13 [FirstSquawk] NOVO IS EXPANDING INTO WOMEN'S AND MEN'S HEALTH IN NEW MARKETS, SAYS LANGE.
 - 09/21 18:13 [FirstSquawk] IRISH DATA PROTECTION AUTHORITY FINES GOOGLE €403 MILLION OVER LOCATION DATA HANDLING.
 - 09/21 18:14 [FirstSquawk] UKRAINE'S EXPORT LOSSES FROM RUSSIAN ATTACKS ON PORTS, OTHER INFRASTRUCTURE COULD REACH $4.8 BLN BY END-YEAR SAYS FINANCE MINISTRY
+- 09/21 18:23 [FirstSquawk] India’s Oil Buyers May Weigh Cutting Russian Cargoes Amid New US Sanctions Indian refiners are considering reducing their purchases of Russian crude for November delivery following a sweeping US sanctions law signed last week. The legislati…
+- 09/21 18:32 [financialjuice] UKMTO: Received report of incident involving vessel transiting through the Strait of Hormuz
+- 09/21 18:33 [FirstSquawk] UKMTO: MILITARY AUTHORITIES REPORT VESSEL STRUCK BY UNKNOWN PROJECTILE IN HORMUZ || RECEIVES REPORT OF INCIDENT 07:30 UTC 21 SEP, INVOLVING VESSEL TRANSITING HORMUZ || TWO CREW SUSTAINED MINOR INJURIES, VESSEL CONTINUING TO NEXT PORT OF CAL…
+- 09/21 18:34 [financialjuice] UKMTO: Military authorities informed that a tanker inbound was struck by a projectile. Two crew members sustained minor injuries; the vessel is reported to be continuing to its next port of call
