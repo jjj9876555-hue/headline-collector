@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 16:02 JST／対象: 09/20 16:02 〜 09/21 16:02 JST（時刻はすべて日本時間）
+生成: 2026-09-21 16:22 JST／対象: 09/20 16:22 〜 09/21 16:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 243 | 09/20 16:13 | 09/21 16:01 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 124 | 09/20 16:39 | 09/21 16:01 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 246 | 09/20 16:51 | 09/21 16:20 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 126 | 09/20 16:39 | 09/21 16:18 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 363 行（統合前 369 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 367 行（統合前 374 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 16:13 [FirstSquawk] Russian election enters final day after major Ukrainian drone attack on Moscow
-- 09/20 16:13 [FirstSquawk] Trump's meeting at Camp David was to deliberate and review Yemen strike options.
-- 09/20 16:13 [FirstSquawk] Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets
-- 09/20 16:13 [FirstSquawk] Record donations secured by Nigel Farage’s insurgent Reform party are under threat from a looming election rules review by the UK watchdog that may cut spending limits
-- 09/20 16:13 [FirstSquawk] Iran is two weeks away from Nuclear Weapon - Bibi Netanyahu at UNGA
-- 09/20 16:14 [FirstSquawk] North Korea fires ballistic missile into sea off east coast
-- 09/20 16:14 [FirstSquawk] South Korean universities offer company-linked degrees that provide financial support and pathways to jobs at Samsung Electronics and SK Hynix years before students graduate.
 - 09/20 16:39 [financialjuice] Ukraine's military hit an oil refinery in Russia's Moscow region: Zelenskiy
 - 09/20 16:39 [financialjuice] Iran's parliament speaker Galibaf: strait of Hormuz will stay closed until Tehran's conditions are met - Fars
 - 09/20 16:51 [FirstSquawk] Obama on AI: There’s the big science-fiction risk — these models get smarter than us, and they decide humans are fine, but not necessary. They start setting their own goals and the killer robots, you know, kill us, or we bow down to them.
@@ -387,3 +380,14 @@
 - 09/21 15:45 [FirstSquawk] Japan’s JGB market stabilises as BOJ efforts show results — WSJ
 - 09/21 16:01 [FirstSquawk] SWITZERLAND M3 MONEY SUPPLY (YOY) AUG: 3.5% (PREV 3.3%; PREV R 3.4%)
 - 09/21 16:01 [financialjuice] Currency Strength Chart: Strongest: AUD, USD, NZD, EUR, JPY, GBP, CHF, CAD - Weakest
+- 09/21 16:04 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.16%
+- 09/21 16:04 [FirstSquawk] FRANCE'S CAC 40 UP 0.52%; SPAIN'S IBEX UP 0.47%
+- 09/21 16:04 [FirstSquawk] GERMANY'S DAX UP 0.68%
+- 09/21 16:15 [financialjuice/FirstSquawk] Pakistan's interior minister to visit Iran on Monday - IRNA
+- 09/21 16:17 [FirstSquawk] XI, TRUMP TO HAVE IN-DEPTH EXCHANGE OF VIEWS DURING VISIT - GUO
+- 09/21 16:18 [FirstSquawk] SOUTH KOREA, JAPAN, US FOREIGN MINISTERS TO HOLD TRILATERAL MEETING SEPT 21 - YNA
+- 09/21 16:18 [financialjuice] China Banking and Insurance Regulatory Commission's Guo: Xi and Trump to have an in-depth exchange of views during visit
+- 09/21 16:18 [FirstSquawk] CHINA: WILL WORK WITH US TO MANAGE DIFFERENCES
+- 09/21 16:18 [FirstSquawk] XI AND TRUMP TO HAVE IN-DEPTH EXCHANGE OF VIEWS DURING VISIT: GUO
+- 09/21 16:20 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN TO FLY TO NEW YORK FOR UN GENERAL ASSEMBLY ON TUESDAY ACCORDING TO IRNA
+- 09/21 16:20 [FirstSquawk] PORSCHE CEO IN MEMO TO STAFF: PORSCHE DOES NOT PLAN ADDITIONAL 4,000 JOB CUTS || THERE IS NO CHANGE TO PORSCHE OUTLOOK

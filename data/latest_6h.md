@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 16:02 JST／対象: 09/21 10:02 〜 09/21 16:02 JST（時刻はすべて日本時間）
+生成: 2026-09-21 16:22 JST／対象: 09/21 10:22 〜 09/21 16:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 67 | 09/21 10:06 | 09/21 16:01 | 21分（11:46→12:07） |
-| financialjuice | 28 | 09/21 10:17 | 09/21 16:01 | ⚠ 57分（11:08→12:05） |
+| FirstSquawk | 71 | 09/21 10:23 | 09/21 16:20 | 21分（11:46→12:07） |
+| financialjuice | 27 | 09/21 10:22 | 09/21 16:18 | ⚠ 57分（11:08→12:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 95 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 97 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 10:06 [FirstSquawk] Europe’s jet fuel shortage draws more supply from South Korea — SCMP
-- 09/21 10:10 [FirstSquawk] Brent, WTI fall $2 as investors assess potential recovery in Saudi oil exports
-- 09/21 10:15 [FirstSquawk] China’s PBOC fixes yuan mid-point at 6.7487/USD
-- 09/21 10:17 [financialjuice] Microsoft's Nadella to join OpenAI and Nvidia CEOs at Trump-Xi dinner
-- 09/21 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023, according to PBOC
-- 09/21 10:18 [FirstSquawk] Yuan mid-point hits strongest level since Feb. 3, 2023 after China fix
-- 09/21 10:19 [FirstSquawk] Washington and Beijing agree on AI dialogue before Trump-Xi meeting — FT
-- 09/21 10:21 [financialjuice] China injects 165 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/21 10:21 [FirstSquawk] PBOC injects 165 bln yuan through 7-day reverse repos at 1.40%
 - 09/21 10:22 [financialjuice] User reports indicate issues with Facebook in the U.S.: Downdetector
 - 09/21 10:23 [FirstSquawk] Facebook users report issues across the U.S. — Downdetector
 - 09/21 10:24 [financialjuice] User reports show issues with Facebook for 15,602 users in U.S. as of 9:05 pm ET - Downdetector
@@ -119,3 +110,14 @@
 - 09/21 15:45 [FirstSquawk] Japan’s JGB market stabilises as BOJ efforts show results — WSJ
 - 09/21 16:01 [FirstSquawk] SWITZERLAND M3 MONEY SUPPLY (YOY) AUG: 3.5% (PREV 3.3%; PREV R 3.4%)
 - 09/21 16:01 [financialjuice] Currency Strength Chart: Strongest: AUD, USD, NZD, EUR, JPY, GBP, CHF, CAD - Weakest
+- 09/21 16:04 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.16%
+- 09/21 16:04 [FirstSquawk] FRANCE'S CAC 40 UP 0.52%; SPAIN'S IBEX UP 0.47%
+- 09/21 16:04 [FirstSquawk] GERMANY'S DAX UP 0.68%
+- 09/21 16:15 [financialjuice/FirstSquawk] Pakistan's interior minister to visit Iran on Monday - IRNA
+- 09/21 16:17 [FirstSquawk] XI, TRUMP TO HAVE IN-DEPTH EXCHANGE OF VIEWS DURING VISIT - GUO
+- 09/21 16:18 [FirstSquawk] SOUTH KOREA, JAPAN, US FOREIGN MINISTERS TO HOLD TRILATERAL MEETING SEPT 21 - YNA
+- 09/21 16:18 [financialjuice] China Banking and Insurance Regulatory Commission's Guo: Xi and Trump to have an in-depth exchange of views during visit
+- 09/21 16:18 [FirstSquawk] CHINA: WILL WORK WITH US TO MANAGE DIFFERENCES
+- 09/21 16:18 [FirstSquawk] XI AND TRUMP TO HAVE IN-DEPTH EXCHANGE OF VIEWS DURING VISIT: GUO
+- 09/21 16:20 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN TO FLY TO NEW YORK FOR UN GENERAL ASSEMBLY ON TUESDAY ACCORDING TO IRNA
+- 09/21 16:20 [FirstSquawk] PORSCHE CEO IN MEMO TO STAFF: PORSCHE DOES NOT PLAN ADDITIONAL 4,000 JOB CUTS || THERE IS NO CHANGE TO PORSCHE OUTLOOK

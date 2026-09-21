@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 16:02 JST／対象: 09/21 04:02 〜 09/21 16:02 JST（時刻はすべて日本時間）
+生成: 2026-09-21 16:22 JST／対象: 09/21 04:22 〜 09/21 16:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 119 | 09/21 05:00 | 09/21 16:01 | 45分（07:56→08:41） |
-| financialjuice | 52 | 09/21 04:48 | 09/21 16:01 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 129 | 09/21 05:00 | 09/21 16:20 | 45分（07:56→08:41） |
+| financialjuice | 54 | 09/21 04:48 | 09/21 16:18 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 170 行（統合前 171 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 181 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -194,3 +194,14 @@
 - 09/21 15:45 [FirstSquawk] Japan’s JGB market stabilises as BOJ efforts show results — WSJ
 - 09/21 16:01 [FirstSquawk] SWITZERLAND M3 MONEY SUPPLY (YOY) AUG: 3.5% (PREV 3.3%; PREV R 3.4%)
 - 09/21 16:01 [financialjuice] Currency Strength Chart: Strongest: AUD, USD, NZD, EUR, JPY, GBP, CHF, CAD - Weakest
+- 09/21 16:04 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.16%
+- 09/21 16:04 [FirstSquawk] FRANCE'S CAC 40 UP 0.52%; SPAIN'S IBEX UP 0.47%
+- 09/21 16:04 [FirstSquawk] GERMANY'S DAX UP 0.68%
+- 09/21 16:15 [financialjuice/FirstSquawk] Pakistan's interior minister to visit Iran on Monday - IRNA
+- 09/21 16:17 [FirstSquawk] XI, TRUMP TO HAVE IN-DEPTH EXCHANGE OF VIEWS DURING VISIT - GUO
+- 09/21 16:18 [FirstSquawk] SOUTH KOREA, JAPAN, US FOREIGN MINISTERS TO HOLD TRILATERAL MEETING SEPT 21 - YNA
+- 09/21 16:18 [financialjuice] China Banking and Insurance Regulatory Commission's Guo: Xi and Trump to have an in-depth exchange of views during visit
+- 09/21 16:18 [FirstSquawk] CHINA: WILL WORK WITH US TO MANAGE DIFFERENCES
+- 09/21 16:18 [FirstSquawk] XI AND TRUMP TO HAVE IN-DEPTH EXCHANGE OF VIEWS DURING VISIT: GUO
+- 09/21 16:20 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN TO FLY TO NEW YORK FOR UN GENERAL ASSEMBLY ON TUESDAY ACCORDING TO IRNA
+- 09/21 16:20 [FirstSquawk] PORSCHE CEO IN MEMO TO STAFF: PORSCHE DOES NOT PLAN ADDITIONAL 4,000 JOB CUTS || THERE IS NO CHANGE TO PORSCHE OUTLOOK
