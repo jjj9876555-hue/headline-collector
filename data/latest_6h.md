@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 05:58 JST／対象: 09/21 23:58 〜 09/22 05:58 JST（時刻はすべて日本時間）
+生成: 2026-09-22 06:16 JST／対象: 09/22 00:16 〜 09/22 06:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/22 00:02 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 87 | 09/22 00:08 | 09/22 05:53 | 38分（01:55→02:34） |
-| financialjuice | 83 | 09/22 00:00 | 09/22 05:18 | 34分（01:57→02:32） |
+| DeItaone | 10 | 09/22 00:21 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 90 | 09/22 00:31 | 09/22 06:11 | 38分（01:55→02:34） |
+| financialjuice | 70 | 09/22 00:18 | 09/22 06:00 | 42分（05:18→06:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 176 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 164 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 00:00 [financialjuice] Mexico's President Sheinbaum: The government is looking for ways to reduce imports from other nations and buy more goods from the US.
-- 09/22 00:02 [DeItaone] TOTAL CEO: TOO MUCH REFINING IS OFFLINE AHEAD OF WINTER
-- 09/22 00:05 [financialjuice] BoC's Gov. Macklem: If oil prices stay near $100 a barrel, we'd expect inflation to edge up in the coming months.
-- 09/22 00:05 [financialjuice] BoC's Gov. Macklem: Fuel prices have risen more than we'd normally expect, reflecting damage to global refining capacity.
-- 09/22 00:05 [financialjuice] BoC's Gov. Macklem: If new US tariffs remain in place, Q4 growth could be roughly halved to below 1%.
-- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: Recent gas prices have been more consistent with an oil price almost $40 higher than where it has been.
-- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: We don't want to raise rates and restrain growth if inflationary pressures are contained.
-- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: so far we haven't seen evidence that higher oil prices are spreading to other goods and services.
-- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: When it comes to rate decisions, we need to look beyond the initial shock of higher oil prices.
-- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: Nor do we want to be too slow to respond if inflationary pressures are becoming more persistent.
-- 09/22 00:07 [financialjuice] BoC's Gov. Macklem: There is growing evidence that many Canadian businesses have started to adapt to US tariffs.
-- 09/22 00:08 [FirstSquawk] SPEECH BY BOC’S MACKLEM ON ‘NAVIGATING UNCERTAINTY AND ADAPTING TO CHANGE’
-- 09/22 00:10 [FirstSquawk] BOC’S MACKLEM: Q4 GROWTH COULD BE ROUGHLY HALVED IF NEW US TARIFFS REMAIN IN PLACE
-- 09/22 00:11 [financialjuice] BoE Breeden: It is a question whether regulation is set up for AI.
-- 09/22 00:15 [financialjuice] BoE Breeden: We need to move quickly on financial stability response.
-- 09/22 00:15 [FirstSquawk] BOE’S BREEDEN: ‘QUESTION’ ON IF REGULATION IS SET UP FOR AI
-- 09/22 00:15 [financialjuice] Fed bids for 3-month bills total $6.2 bln.
-- 09/22 00:15 [financialjuice] Fed bids for 6-month bills total $5.3 bln.
 - 09/22 00:18 [financialjuice] Moscow Oil Refinery has halted operations after a Ukrainian drone attack on September 20th - Sources.
 - 09/22 00:21 [DeItaone] UKRAINIAN DRONE STRIKE SHUTS MAJOR MOSCOW REFINERY Gazprom Neft’s Moscow refinery has halted crude processing after a Ukrainian drone attack sparked fires at both primary distillation units. Repairs could take several weeks, according to Re…
 - 09/22 00:31 [FirstSquawk] RUSSIAN PRESIDENT PUTIN PLANS TO ATTEND XI’S APEC SUMMIT, SKIP G20 WITH TRUMP
@@ -200,3 +182,9 @@
 - 09/22 05:52 [FirstSquawk] THE ROYAL CANADIAN MINT HAS ANNOUNCED A FOLLOW-ON OFFERING OF GOLD EXCHANGE-TRADED RECEIPTS, WITH NET PROCEEDS TO BE USED TO PURCHASE GOLD BULLION.
 - 09/22 05:52 [FirstSquawk] THE ROYAL CANADIAN MINT SAYS ETR HOLDERS ARE ENTITLED TO REDEEM FOR GOLD BULLION WITH A MINIMUM PURITY OF 99.99% OR FOR CASH.
 - 09/22 05:53 [FirstSquawk] US SECRETARY OF STATE RUBIO, KENYA PRESIDENT RUTO: DISCUSS CRITICAL MINERALS IN MEETING - SOURCES
+- 09/22 06:00 [FirstSquawk] CMS HAS ANNOUNCED NEW PRELIMINARY MEDICARE PAYMENT RATES FOR LABORATORY SERVICES, SAVING TAXPAYERS AN ESTIMATED $1 BLN ANNUALLY, AND ANTICIPATES FINALIZING CY 2027 PAYMENT RATES FOR CLINICAL DIAGNOSTIC LABORATORY TESTS UNDER THE CLINICAL LA…
+- 09/22 06:00 [FirstSquawk/financialjuice] UK PM BURNHAM: AGREED TO SAUDI ARABIA REQUEST FOR TIME-LIMITED DEFENSIVE AIR-TO-AIR REFUELLING TO STABILIZE REGION
+- 09/22 06:10 [FirstSquawk] ELEMENTAL ROYALTY CORP HAS ACQUIRED A STREAMS AND ROYALTIES PORTFOLIO FROM ORION FOR $290.0 MLN, WHILE DIVESTING ITS GENERATION BUSINESS TO CARLIN EAST IN A NON-BINDING DEAL, RECEIVING $8.5 MLN IN CARLIN EAST SHARES — ABOUT A 19.9% STAKE ON…
+- 09/22 06:10 [FirstSquawk] ELEMENTAL ROYALTY SAYS THAT AS A RESULT OF THE DIVESTMENT IT WILL REDUCE HEADCOUNT BY OVER 50%, ANTICIPATING A REDUCTION IN ANNUAL CASH EXPENSES OF ABOUT $6 MLN, AND SEES 2026 GEO SALES GUIDANCE OF 19,500-22,000 GEOS AND REVENUE GUIDANCE OF…
+- 09/22 06:10 [FirstSquawk] ELEMENTAL ROYALTY SAYS CEO DAVID COLE HAS RESIGNED TO TAKE A LEADERSHIP ROLE AT CARLIN EAST, WITH FREDERICK BELL APPOINTED CEO - SEC FILING
+- 09/22 06:11 [FirstSquawk] NORTH KOREA SAYS IT TESTED NEW COMBAT WEAPON SYSTEM — KCNA
