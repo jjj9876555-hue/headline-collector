@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 06:32 JST／対象: 09/21 06:32 〜 09/22 06:32 JST（時刻はすべて日本時間）
+生成: 2026-09-22 06:44 JST／対象: 09/21 06:44 〜 09/22 06:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 324 | 09/21 06:32 | 09/22 06:24 | 45分（07:56→08:41） |
-| financialjuice | 254 | 09/21 07:07 | 09/22 06:30 | ⚠ 97分（07:12→08:49） |
+| FirstSquawk | 322 | 09/21 07:00 | 09/22 06:24 | 45分（07:56→08:41） |
+| financialjuice | 258 | 09/21 07:07 | 09/22 06:36 | ⚠ 97分（07:12→08:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 620 行（統合前 641 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 622 行（統合前 643 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 06:32 [FirstSquawk] TRUMP IS INCREASINGLY FRUSTRATED BY POLITICAL AND LEGAL SETBACKS AND BELIEVES TOO FEW ALLIES ARE PUBLICLY DEFENDING HIS SECOND-TERM RECORD, HAVING ALSO COMPLAINED THAT PROMINENT FIGURES HAVE NOT THANKED HIM FOR HIS ATTEMPTED OVERHAUL OF THE…
-- 09/21 06:32 [FirstSquawk] TRUMP IS ALSO FACING FALLING APPROVAL RATINGS, CONCERNS ABOUT REPUBLICAN PERFORMANCE IN THE MIDTERMS AND VOTER FRUSTRATION OVER THE IRAN WAR AND HIGHER ENERGY PRICES, WITH HIS ADMINISTRATION SEARCHING FOR FOREIGN-POLICY WINS TO TOUT AHEAD O…
 - 09/21 07:00 [FirstSquawk] PARAMOUNT SETTLEMENT FACES RESISTANCE FROM CONNECTICUT & AT LEAST TWO OTHER STATES; NY AG JAMES SEEKS ADDITIONAL WORKER PROTECTIONS — CNN
 - 09/21 07:00 [FirstSquawk] AUSTRALIAN TREASURER JIM CHALMERS WARNS THAT AN AGING AND SLOWER-GROWING POPULATION POSES “SERIOUS RISKS” TO THE ECONOMY AND WILL INCREASE PRESSURE ON GOVERNMENT FINANCES.
 - 09/21 07:00 [FirstSquawk] CHALMERS SAYS DEMOGRAPHIC CHANGES WILL CREATE LONG-TERM FISCAL CHALLENGES FOR AUSTRALIA AS POPULATION GROWTH SLOWS AND THE SHARE OF OLDER PEOPLE RISES. SOURCE
@@ -644,3 +642,7 @@
 - 09/22 06:23 [FirstSquawk] USTR TO HOLD SEPTEMBER 22 HEARING ON SECTION 301 INVESTIGATION INTO GERMANY’S PHARMACEUTICAL POLICIES — STATEMENT
 - 09/22 06:24 [FirstSquawk] TRUMP TO HOLD IRAN-FOCUSED MEETINGS TODAY, SIGNALING FRESH DISCUSSIONS ON THE CONFLICT
 - 09/22 06:30 [financialjuice] North Korea's culture minister visits Russia: KCNA
+- 09/22 06:34 [financialjuice] United Nations-EU’s Kallas: as Russia escalates risks, we must enforce higher costs
+- 09/22 06:35 [financialjuice] EU's Kallas: We aim for swift rollover of EU sanctions
+- 09/22 06:36 [financialjuice] EU's Kallas: EU naval mission in Red Sea requires additional naval, air resources
+- 09/22 06:36 [financialjuice] EU's Kallas: more than 10 vessels needed in Red Sea
