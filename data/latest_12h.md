@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 12:59 JST／対象: 09/21 00:59 〜 09/21 12:59 JST（時刻はすべて日本時間）
+生成: 2026-09-21 13:19 JST／対象: 09/21 01:19 〜 09/21 13:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 105 | 09/21 01:41 | 09/21 12:50 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 77 | 09/21 01:00 | 09/21 12:39 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 109 | 09/21 01:41 | 09/21 13:16 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 63 | 09/21 01:19 | 09/21 13:05 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 181 行（統合前 182 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 171 行（統合前 172 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 01:00 [financialjuice] Germany's centre-left SPD forecast at 35.5% in Mecklenburg-Western Pomerania state vote: exit poll
-- 09/21 01:00 [financialjuice] Germany's far-right AfD set to secure 37.0% in Mecklenburg-Western Pomerania state election - exit poll
-- 09/21 01:01 [financialjuice] German Chancellor Merz's CDU projected to secure 5.5% in Mecklenburg-Western Pomerania state vote: exit poll
-- 09/21 01:01 [financialjuice] Merz’s conservatives at 20% in Berlin state election: exit poll
-- 09/21 01:01 [financialjuice] Centre-left SPD polls at 12% in Berlin state election: exit poll
-- 09/21 01:01 [financialjuice] Greens at 15% in Berlin state election: exit poll
-- 09/21 01:01 [financialjuice] Left party at 24.5% in Berlin state election: exit poll
-- 09/21 01:01 [financialjuice] Germany's Left party forecast to secure 7.5% in Mecklenburg-Western Pomerania state vote: exit poll
-- 09/21 01:01 [financialjuice] Far-right AfD polling at 16% in Berlin state election: exit poll
-- 09/21 01:16 [financialjuice] Germany's Chancellor Merz: two state ballots today with vastly different results
-- 09/21 01:16 [financialjuice] Germany's Chancellor Merz: election outcome in Mecklenburg-Western Pomerania is catastrophe
-- 09/21 01:17 [financialjuice] Germany's Chancellor Merz: state has grown overly complex
-- 09/21 01:17 [financialjuice] Germany’s Chancellor Merz: confidence in country’s institutions is waning
-- 09/21 01:18 [financialjuice] Germany’s Chancellor Merz: we can’t return to the “good old times”
-- 09/21 01:18 [financialjuice] Germany's Chancellor Merz: Germany must become a land of fresh starts
-- 09/21 01:18 [financialjuice] Germany's Chancellor Merz: change is necessary
 - 09/21 01:19 [financialjuice] Germany's Chancellor Merz: shifts pose challenges and fresh uncertainties
 - 09/21 01:19 [financialjuice] Germany's Chancellor Merz: I take responsibility as I want to advance the country
 - 09/21 01:20 [financialjuice] Germany's Chancellor Merz: need determination, perseverance and patience; prepared to lead as party head, chancellor
@@ -205,3 +189,9 @@
 - 09/21 12:37 [FirstSquawk] BHP, China Baowu extend partnership on steel decarbonisation
 - 09/21 12:39 [financialjuice] China finance ministry auctions 10-year bonds at 1.6626% yield: traders
 - 09/21 12:50 [FirstSquawk] China maps out five-year plan to advance pharmaceuticals and biomedicine — SCMP
+- 09/21 13:00 [FirstSquawk] Jefferies initiates Lotus Bakeries coverage with Buy rating, sets €15,000 target
+- 09/21 13:01 [financialjuice] South Korea presidential chief of staff Kang Hoon-sik tenders resignation: Blue House
+- 09/21 13:01 [FirstSquawk] South Korea presidential chief of staff Kang Hoon-sik offers resignation — Blue House
+- 09/21 13:03 [FirstSquawk] Fed, BOE step up review of banks’ trading-firm exposure following Jane Street loss — FT
+- 09/21 13:05 [financialjuice] Fed and BoE intensify review of bank risk from trading firms after Jane Street loss: FT
+- 09/21 13:16 [FirstSquawk] Rising fuel subsidies weigh on public finances amid deepening energy crisis — FT

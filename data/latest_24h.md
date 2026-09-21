@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 12:59 JST／対象: 09/20 12:59 〜 09/21 12:59 JST（時刻はすべて日本時間）
+生成: 2026-09-21 13:19 JST／対象: 09/20 13:19 〜 09/21 13:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 244 | 09/20 13:10 | 09/21 12:50 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 112 | 09/20 16:39 | 09/21 12:39 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 245 | 09/20 13:21 | 09/21 13:16 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 114 | 09/20 16:39 | 09/21 13:05 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 352 行（統合前 358 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 355 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 13:10 [FirstSquawk] CXMT’s new platform achieves at least 50% higher gross dies per wafer, executive says
-- 09/20 13:13 [FirstSquawk] CXMT says joint R&D with domestic equipment makers drove process advances
-- 09/20 13:14 [FirstSquawk] Moscow mayor: Ukrainian drones damage oil refinery in attack
 - 09/20 13:21 [FirstSquawk] China struggles to attract sovereign wealth funds amid ongoing property woes
 - 09/20 13:40 [FirstSquawk] Samsung executives share long-term AI strategy and discuss latest technology trends at U.S. forum - YONHAP
 - 09/20 13:47 [FirstSquawk] Luxembourg’s oldest bank heads for €2.5bn sale under Chinese ownership – FT
@@ -376,3 +373,9 @@
 - 09/21 12:37 [FirstSquawk] BHP, China Baowu extend partnership on steel decarbonisation
 - 09/21 12:39 [financialjuice] China finance ministry auctions 10-year bonds at 1.6626% yield: traders
 - 09/21 12:50 [FirstSquawk] China maps out five-year plan to advance pharmaceuticals and biomedicine — SCMP
+- 09/21 13:00 [FirstSquawk] Jefferies initiates Lotus Bakeries coverage with Buy rating, sets €15,000 target
+- 09/21 13:01 [financialjuice] South Korea presidential chief of staff Kang Hoon-sik tenders resignation: Blue House
+- 09/21 13:01 [FirstSquawk] South Korea presidential chief of staff Kang Hoon-sik offers resignation — Blue House
+- 09/21 13:03 [FirstSquawk] Fed, BOE step up review of banks’ trading-firm exposure following Jane Street loss — FT
+- 09/21 13:05 [financialjuice] Fed and BoE intensify review of bank risk from trading firms after Jane Street loss: FT
+- 09/21 13:16 [FirstSquawk] Rising fuel subsidies weigh on public finances amid deepening energy crisis — FT
