@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 02:50 JST／対象: 09/21 20:50 〜 09/22 02:50 JST（時刻はすべて日本時間）
+生成: 2026-09-22 03:01 JST／対象: 09/21 21:01 〜 09/22 03:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 53 | 09/21 20:51 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 100 | 09/21 20:50 | 09/22 02:44 | 38分（01:55→02:34） |
+| DeItaone | 48 | 09/21 21:01 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 95 | 09/21 21:01 | 09/22 02:53 | 38分（01:55→02:34） |
 | financialjuice | 161 | 09/21 21:10 | 09/22 02:36 | 34分（01:57→02:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 301 行（統合前 317 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 291 行（統合前 307 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 20:50 [FirstSquawk] MERZ SAYS REGIONAL ELECTION WAS 'DRAMATIC INCIDENT'
-- 09/21 20:51 [DeItaone] HORMUZ CRISIS SENDS TANKER RATES ABOVE $1 MILLION A DAY Supertanker rates on the Persian Gulf-to-China route have surged to $1.035 million per day, nearly 5x pre-war levels, as traffic through the Strait of Hormuz collapses. Only 17 commodi…
-- 09/21 20:51 [FirstSquawk] MORGAN STANLEY RAISES MARVELL TARGET PRICE TO $268.00 FROM $246.00
-- 09/21 20:52 [DeItaone] CNN, MS NOW AND POLITICO SUE TRUMP OVER WHITE HOUSE BAN CNN, MS NOW and Politico have sued the Trump administration after being barred from White House grounds. The outlets argue the ban violates their First Amendment rights and filed the c…
-- 09/21 20:55 [DeItaone] TRUMP DEFENDS WHITE HOUSE MEDIA CRACKDOWN President Trump says the White House is “not instituting an assault on the Free Press,” arguing instead that it is targeting what he calls “fake news.” Trump described such coverage as a “threat to …
-- 09/21 20:55 [FirstSquawk] TRUMP: WHITE HOUSE IS NOT INSTITUTING AN ASSAULT ON FREE PRESS
-- 09/21 20:55 [FirstSquawk] TRUMP: I CHERISH FREE PRESS
-- 09/21 20:55 [DeItaone] 🇺🇸 TRUMP’S MONDAY CALENDAR 8:00 AM — Executive Time 10:30 AM — Policy Meeting 11:30 AM — Policy Meeting 1:00 PM — Signing Time 1:45 PM — Ribbon Cutting Ceremony 4:10 PM — Meeting with NYC Mayor Zohran Mamdani 5:35 PM — Meeting with French P…
-- 09/21 20:55 [FirstSquawk] TRUMP CLAIMS WHITE HOUSE TARGETS 'FAKE NEWS', NOT FREE PRESS
-- 09/21 21:00 [FirstSquawk] HALLIBURTON SIGNS AGREEMENTS TO SUPPORT ENERGY DEVELOPMENT OPPORTUNITIES IN VENEZUELA
-- 09/21 21:00 [DeItaone] $TSLA - OPPENHEIMER: TESLA’S AI PIVOT PROGRESSING, OPTIMUS DELAYS LIKELY Oppenheimer reiterated its Perform rating on Tesla, highlighting progress as the company transforms into a vertically integrated “Physical AI” platform. The firm sees …
 - 09/21 21:01 [DeItaone] BESSENT: DISCUSSED ECONOMICS, AI WITH CHINA
 - 09/21 21:01 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT: DISCUSSED ECONOMICS, AI WITH CHINA
 - 09/21 21:01 [FirstSquawk] BESSENT: US-CHINA TALKS INCLUDED SOME 'DELIVERABLES'
@@ -325,3 +314,4 @@
 - 09/22 02:44 [FirstSquawk] THE U.S. FEDERAL AVIATION ADMINISTRATION TEMPORARILY HALTED FLIGHTS INTO NEWARK AND PHILADELPHIA AIRPORTS DUE TO COMMUNICATIONS ISSUES WITH SOME FREQUENCIES AT AN AIR TRAFFIC CONTROL FACILITY, ISSUING GROUND STOPS AT NEW YORK JFK, LAGUARDIA…
 - 09/22 02:44 [FirstSquawk] THE FAA ADMINISTRATOR SAYS THE LOSS-OF-COMMUNICATIONS ISSUE AT THE PHILADELPHIA FACILITY PROMPTED SIGNIFICANT FLIGHT CUTS, WITH A NEW CIRCUIT READY TO INSTALL AND EXPECTED TO BE OPERATIONAL BY 1:30 P.M. LOCAL TIME, THOUGH IT IS NOT CLEAR WH…
 - 09/22 02:44 [FirstSquawk] FAA ADMINISTRATOR BEDFORD APOLOGIZED FOR THE FLIGHT DISRUPTIONS, SAYING THE SYSTEM WILL NOT RESTART FOR INCOMING FLIGHTS AT SOME EAST COAST AIRPORTS 'UNTIL WE MAKE SURE THE AIRSPACE IS SAFE'.
+- 09/22 02:53 [FirstSquawk] TRUMP TO MEET DENMARK PM FREDERIKSEN & GREENLAND PM NIELSEN ON TUESDAY FOR TRILATERAL SIGNING CEREMONY — CNN

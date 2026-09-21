@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 02:50 JST／対象: 09/21 02:50 〜 09/22 02:50 JST（時刻はすべて日本時間）
+生成: 2026-09-22 03:01 JST／対象: 09/21 03:01 〜 09/22 03:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 280 | 09/21 03:02 | 09/22 02:44 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 242 | 09/21 03:01 | 09/22 02:36 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 281 | 09/21 03:02 | 09/22 02:53 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 240 | 09/21 03:01 | 09/22 02:36 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 564 行（統合前 584 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 563 行（統合前 583 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 03:01 [financialjuice] Ruling United Russia projected to take 49.4% in Russia's parliamentary election: IFX cites exit poll
-- 09/21 03:01 [financialjuice] Communist Party projected to secure 14.2% in Russia parliamentary election: Ifx cites exit poll
 - 09/21 03:01 [financialjuice] Liberal Democratic party of Russia projected to take 10.7% in parliamentary election: ifx cites exit poll
 - 09/21 03:01 [financialjuice] New People party projected to secure 9.7% in Russia's parliamentary election: IFX cites exit poll
 - 09/21 03:02 [FirstSquawk] RUSSIA’S COMMUNIST PARTY PROJECTED TO WIN 14.2% OF VOTE IN PARLIAMENTARY ELECTION — IFX, CITING EXIT POLL
@@ -588,3 +586,4 @@
 - 09/22 02:44 [FirstSquawk] THE U.S. FEDERAL AVIATION ADMINISTRATION TEMPORARILY HALTED FLIGHTS INTO NEWARK AND PHILADELPHIA AIRPORTS DUE TO COMMUNICATIONS ISSUES WITH SOME FREQUENCIES AT AN AIR TRAFFIC CONTROL FACILITY, ISSUING GROUND STOPS AT NEW YORK JFK, LAGUARDIA…
 - 09/22 02:44 [FirstSquawk] THE FAA ADMINISTRATOR SAYS THE LOSS-OF-COMMUNICATIONS ISSUE AT THE PHILADELPHIA FACILITY PROMPTED SIGNIFICANT FLIGHT CUTS, WITH A NEW CIRCUIT READY TO INSTALL AND EXPECTED TO BE OPERATIONAL BY 1:30 P.M. LOCAL TIME, THOUGH IT IS NOT CLEAR WH…
 - 09/22 02:44 [FirstSquawk] FAA ADMINISTRATOR BEDFORD APOLOGIZED FOR THE FLIGHT DISRUPTIONS, SAYING THE SYSTEM WILL NOT RESTART FOR INCOMING FLIGHTS AT SOME EAST COAST AIRPORTS 'UNTIL WE MAKE SURE THE AIRSPACE IS SAFE'.
+- 09/22 02:53 [FirstSquawk] TRUMP TO MEET DENMARK PM FREDERIKSEN & GREENLAND PM NIELSEN ON TUESDAY FOR TRILATERAL SIGNING CEREMONY — CNN
