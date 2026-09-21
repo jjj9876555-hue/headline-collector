@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 21:59 JST／対象: 09/21 15:59 〜 09/21 21:59 JST（時刻はすべて日本時間）
+生成: 2026-09-21 22:18 JST／対象: 09/21 16:18 〜 09/21 22:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/21 20:05 | 09/21 21:22 | 20分（20:05→20:25） |
-| FirstSquawk | 83 | 09/21 16:01 | 09/21 21:56 | 37分（16:20→16:58） |
-| financialjuice | 70 | 09/21 16:01 | 09/21 21:51 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 79 | 09/21 16:18 | 09/21 22:15 | 37分（16:20→16:58） |
+| financialjuice | 83 | 09/21 16:22 | 09/21 22:03 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 178 行（統合前 184 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 188 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 16:01 [FirstSquawk] SWITZERLAND M3 MONEY SUPPLY (YOY) AUG: 3.5% (PREV 3.3%; PREV R 3.4%)
-- 09/21 16:01 [financialjuice] Currency Strength Chart: Strongest: AUD, USD, NZD, EUR, JPY, GBP, CHF, CAD - Weakest
-- 09/21 16:04 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.16%
-- 09/21 16:04 [FirstSquawk] FRANCE'S CAC 40 UP 0.52%; SPAIN'S IBEX UP 0.47%
-- 09/21 16:04 [FirstSquawk] GERMANY'S DAX UP 0.68%
-- 09/21 16:15 [financialjuice/FirstSquawk] Pakistan's interior minister to visit Iran on Monday - IRNA
-- 09/21 16:17 [FirstSquawk] XI, TRUMP TO HAVE IN-DEPTH EXCHANGE OF VIEWS DURING VISIT - GUO
-- 09/21 16:18 [FirstSquawk] SOUTH KOREA, JAPAN, US FOREIGN MINISTERS TO HOLD TRILATERAL MEETING SEPT 21 - YNA
-- 09/21 16:18 [financialjuice] China Banking and Insurance Regulatory Commission's Guo: Xi and Trump to have an in-depth exchange of views during visit
 - 09/21 16:18 [FirstSquawk] CHINA: WILL WORK WITH US TO MANAGE DIFFERENCES
 - 09/21 16:18 [FirstSquawk] XI AND TRUMP TO HAVE IN-DEPTH EXCHANGE OF VIEWS DURING VISIT: GUO
 - 09/21 16:20 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN TO FLY TO NEW YORK FOR UN GENERAL ASSEMBLY ON TUESDAY ACCORDING TO IRNA
@@ -202,3 +193,22 @@
 - 09/21 21:50 [financialjuice] USTR Greer: Canada has slow growth, and I like our model better.
 - 09/21 21:51 [financialjuice] USTR Greer interview with Bloomberg TV concludes.
 - 09/21 21:56 [FirstSquawk] RUSSIA FINANCE MINISTER SEES 2026 BUDGET GAP WITHIN 3%/GDP: IFX
+- 09/21 22:00 [FirstSquawk] MCLAREN PLANS £500 MILLION INVESTMENT IN A NEW PLANT, A RARE BOOST FOR THE UK MANUFACTURING SECTOR AND PM ANDY BURNHAM.
+- 09/21 22:00 [financialjuice] Effective Fed Funds rate: 3.88% September 18th vs 3.88% September 17th.
+- 09/21 22:00 [financialjuice] Fed's Goolsbee: Inflation data earlier this year seemed to show supply shocks waning; now some of it is coming from demand.
+- 09/21 22:00 [financialjuice] Fed's Goolsbee: District contacts are relaying concerns that sound like traditional demand overheating.
+- 09/21 22:01 [financialjuice] Fed's Goolsbee: The Fed is now more in the action scenario given the mix of inflation pressures.
+- 09/21 22:01 [financialjuice] Fed's Goolsbee: I am not thinking about any coming hikes as reversing last year's cuts.
+- 09/21 22:01 [financialjuice] Fed's Goolsbee: The only choice the Fed has if supply shock inflation proves persistent is to reduce aggregate demand.
+- 09/21 22:01 [financialjuice] Fed's Goolsbee: Current unemployment rate is pretty close to full employment.
+- 09/21 22:01 [financialjuice] Fed's Goolsbee: Month-to-month job growth is not a good measure of health for the labor market when there is doubt about population growth due to immigration policies.
+- 09/21 22:01 [financialjuice] Fed's Goolsbee: Business contacts say labor market is getting tighter, alternate measures tell the same story.
+- 09/21 22:01 [financialjuice] Fed's Goolsbee: The Fed remains very credible, everyone takes the job extremely seriously.
+- 09/21 22:01 [financialjuice] Fed's Goolsbee: Components of inflation will matter to the Fed's analysis, with services inflation not seen as tied to oil price shock but as a product of strong demand.
+- 09/21 22:02 [financialjuice] Fed's Goolsbee: The job of a central banker is not to respond to markets or the president, but to economic conditions.
+- 09/21 22:02 [financialjuice] Fed's Goolsbee: Without a summary of economic projections, the world will still be looking to understand officials' reaction functions.
+- 09/21 22:02 [financialjuice] Fed's Goolsbee: Historically, US long rates are not particularly high; I don't think it reflects a loss of confidence in us.
+- 09/21 22:02 [financialjuice] Google unveils $899-plus Googlebook AI laptops. $GOOGL
+- 09/21 22:03 [financialjuice] Googlebook ships October 4th in the US via Google Store and Best Buy $GOOGL
+- 09/21 22:04 [FirstSquawk] GOOGLE LAUNCHES GOOGLEBOOK LAPTOP LINE STARTING AT $899
+- 09/21 22:15 [FirstSquawk] COINBASE TO OFFER IPO ALLOCATIONS TO US RETAIL TRADERS
