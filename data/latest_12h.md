@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 21:24 JST／対象: 09/21 09:24 〜 09/21 21:24 JST（時刻はすべて日本時間）
+生成: 2026-09-21 21:46 JST／対象: 09/21 09:46 〜 09/21 21:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/21 20:05 | 09/21 21:22 | 20分（20:05→20:25） |
-| FirstSquawk | 154 | 09/21 09:26 | 09/21 21:23 | 37分（16:20→16:58） |
-| financialjuice | 80 | 09/21 10:00 | 09/21 21:23 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 152 | 09/21 09:46 | 09/21 21:44 | 37分（16:20→16:58） |
+| financialjuice | 94 | 09/21 10:00 | 09/21 21:42 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 260 行（統合前 264 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 271 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 09:26 [FirstSquawk] YEMENI FORCES IN TAIZ, REPORTEDLY ENCIRCLING AREA - IRNA
-- 09/21 09:26 [FirstSquawk] GOLD HOLDS AROUND $4,375 AN OUNCE AS TRADERS ASSESS PERSISTENT INFLATION RISKS AND THE FEDERAL RESERVE’S PATH FOR FURTHER RATE HIKES AFTER ITS FIRST RATE INCREASE SINCE 2023. HIGHER ENERGY PRICES AND EXPECTATIONS FOR RATES TO REMAIN ELEVATE…
-- 09/21 09:28 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN $1 TO $99.22/BBL
-- 09/21 09:29 [FirstSquawk] Gulf LNG constraints could push TTF to €105 and JKM to $35, Goldman warns
-- 09/21 09:30 [FirstSquawk] Trump administration prepares sweeping sanctions against ICC, WSJ reports
-- 09/21 09:35 [FirstSquawk] Oil tanker crunch risks keeping gas prices higher for longer — WSJ
 - 09/21 09:46 [FirstSquawk] Kashkari says US inflation is still elevated across all aspects of the economy — FXStreet
 - 09/21 09:51 [FirstSquawk] Drug seizures by Hong Kong customs rise nearly 50% in H1 — SCMP
 - 09/21 09:57 [FirstSquawk] Warehouse complex near Kyiv catches fire after Russian drone strike — CBS
@@ -284,3 +278,20 @@
 - 09/21 21:22 [financialjuice] US Treasury Secretary Bessent: Will see if this is a supply shock on the energy side.
 - 09/21 21:23 [financialjuice] US Treasury Secretary Bessent: Haven't seen an uptick in core inflation, all headline.
 - 09/21 21:23 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT: WILL SEE IF THIS IS SUPPLY SHOCK ON ENERGY SIDE -CNBC
+- 09/21 21:26 [financialjuice/FirstSquawk] Iraqi Oil Minister: Most of the oil tankers passing through the Strait of Hormuz belong to Iraq - Tasnim News
+- 09/21 21:28 [financialjuice] Iraqi Oil Minister Khadir: Iraq has been able to increase oil exports to 4 million barrels in a single day - Tasnim News
+- 09/21 21:30 [financialjuice] CHICAGO NATIONAL ACTIVITY INDEX ACTUAL -0.04 (FORECAST -0.035, PREVIOUS -0.08) $MACRO
+- 09/21 21:31 [financialjuice] Chicago National Activity Index August Report
+- 09/21 21:35 [financialjuice] Bloomberg Business tv
+- 09/21 21:35 [financialjuice] USTR Greer: US-China talks were positive and constructive.
+- 09/21 21:36 [financialjuice] USTR Greer: Focus with China is on stability in trade ties.
+- 09/21 21:36 [financialjuice] USTR Greer: We're just going to have managed trade with China.
+- 09/21 21:36 [financialjuice] USTR Greer: The US is focused on outcomes rather than changing China.
+- 09/21 21:37 [financialjuice] USTR Greer repeats excess capacity probe is ongoing
+- 09/21 21:38 [financialjuice] USTR Greer: The US is developing rules of origin with Mexico.
+- 09/21 21:39 [financialjuice] USTR Greer: Talks continue on details of extending the China trade truce.
+- 09/21 21:40 [FirstSquawk] GREER INDICATES 3-6 MONTH TRUCE EXTENSION COULD BE POSSIBLE
+- 09/21 21:40 [financialjuice] USTR Greer: indicates a 3-6 month truce extension could be possible.
+- 09/21 21:42 [financialjuice] USTR Greer: Nothing off the table regarding Iran-related sanctions.
+- 09/21 21:44 [FirstSquawk] GREER SAYS NOTHING OFF TABLE REGARDING IRAN-RELATED SANCTIONS
+- 09/21 21:44 [FirstSquawk] GARDEN REACH SHIPBUILDERS: CO BOARD APPROVES ₹2,896 CRORE CAPEX FOR GREENFIELD SHIPYARD AT RAICHAK

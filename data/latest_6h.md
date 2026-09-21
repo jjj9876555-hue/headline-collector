@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 21:24 JST／対象: 09/21 15:24 〜 09/21 21:24 JST（時刻はすべて日本時間）
+生成: 2026-09-21 21:46 JST／対象: 09/21 15:46 〜 09/21 21:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 28 | 09/21 20:05 | 09/21 21:22 | 20分（20:05→20:25） |
-| FirstSquawk | 82 | 09/21 15:29 | 09/21 21:23 | 37分（16:20→16:58） |
-| financialjuice | 56 | 09/21 15:29 | 09/21 21:23 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 82 | 09/21 16:01 | 09/21 21:44 | 37分（16:20→16:58） |
+| financialjuice | 66 | 09/21 16:01 | 09/21 21:42 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 164 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 173 行（統合前 178 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 15:29 [FirstSquawk] One reported dead after Ukrainian drone attack in Russia’s Bryansk region — Acting Governor
-- 09/21 15:29 [financialjuice] Iran's IRGC: Still room for geographical expansion of war
-- 09/21 15:29 [financialjuice] France Fin. Min. Lescure: France's strategic oil stocks are full
-- 09/21 15:31 [FirstSquawk] Germany’s 10-year bond yield declines to 3.48% as state election results and falling oil prices weigh
-- 09/21 15:34 [financialjuice] France Fin. Min. Lescure: Likely to provide extra fuel aid from October 1st
-- 09/21 15:34 [financialjuice] France Fin. Min. Lescure: Fuel aid won't involve a generalized tax cut
-- 09/21 15:43 [FirstSquawk] China’s Communist Party schedules key October plenum just days before Xi-Trump summit — SCMP
-- 09/21 15:45 [FirstSquawk] Japan’s JGB market stabilises as BOJ efforts show results — WSJ
 - 09/21 16:01 [FirstSquawk] SWITZERLAND M3 MONEY SUPPLY (YOY) AUG: 3.5% (PREV 3.3%; PREV R 3.4%)
 - 09/21 16:01 [financialjuice] Currency Strength Chart: Strongest: AUD, USD, NZD, EUR, JPY, GBP, CHF, CAD - Weakest
 - 09/21 16:04 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.16%
@@ -188,3 +180,20 @@
 - 09/21 21:22 [financialjuice] US Treasury Secretary Bessent: Will see if this is a supply shock on the energy side.
 - 09/21 21:23 [financialjuice] US Treasury Secretary Bessent: Haven't seen an uptick in core inflation, all headline.
 - 09/21 21:23 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT: WILL SEE IF THIS IS SUPPLY SHOCK ON ENERGY SIDE -CNBC
+- 09/21 21:26 [financialjuice/FirstSquawk] Iraqi Oil Minister: Most of the oil tankers passing through the Strait of Hormuz belong to Iraq - Tasnim News
+- 09/21 21:28 [financialjuice] Iraqi Oil Minister Khadir: Iraq has been able to increase oil exports to 4 million barrels in a single day - Tasnim News
+- 09/21 21:30 [financialjuice] CHICAGO NATIONAL ACTIVITY INDEX ACTUAL -0.04 (FORECAST -0.035, PREVIOUS -0.08) $MACRO
+- 09/21 21:31 [financialjuice] Chicago National Activity Index August Report
+- 09/21 21:35 [financialjuice] Bloomberg Business tv
+- 09/21 21:35 [financialjuice] USTR Greer: US-China talks were positive and constructive.
+- 09/21 21:36 [financialjuice] USTR Greer: Focus with China is on stability in trade ties.
+- 09/21 21:36 [financialjuice] USTR Greer: We're just going to have managed trade with China.
+- 09/21 21:36 [financialjuice] USTR Greer: The US is focused on outcomes rather than changing China.
+- 09/21 21:37 [financialjuice] USTR Greer repeats excess capacity probe is ongoing
+- 09/21 21:38 [financialjuice] USTR Greer: The US is developing rules of origin with Mexico.
+- 09/21 21:39 [financialjuice] USTR Greer: Talks continue on details of extending the China trade truce.
+- 09/21 21:40 [FirstSquawk] GREER INDICATES 3-6 MONTH TRUCE EXTENSION COULD BE POSSIBLE
+- 09/21 21:40 [financialjuice] USTR Greer: indicates a 3-6 month truce extension could be possible.
+- 09/21 21:42 [financialjuice] USTR Greer: Nothing off the table regarding Iran-related sanctions.
+- 09/21 21:44 [FirstSquawk] GREER SAYS NOTHING OFF TABLE REGARDING IRAN-RELATED SANCTIONS
+- 09/21 21:44 [FirstSquawk] GARDEN REACH SHIPBUILDERS: CO BOARD APPROVES ₹2,896 CRORE CAPEX FOR GREENFIELD SHIPYARD AT RAICHAK
