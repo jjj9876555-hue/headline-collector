@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 16:53 JST／対象: 09/20 16:53 〜 09/21 16:53 JST（時刻はすべて日本時間）
+生成: 2026-09-21 17:07 JST／対象: 09/20 17:07 〜 09/21 17:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 242 | 09/20 16:53 | 09/21 16:20 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 127 | 09/20 18:18 | 09/21 16:46 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 243 | 09/20 17:35 | 09/21 17:01 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 128 | 09/20 18:18 | 09/21 17:06 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 364 行（統合前 372 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 366 行（統合前 374 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 16:53 [FirstSquawk] State of the Union address, Ursula von der Leyen suggested she wants to see Canada as an associate EU member.
-- 09/20 16:53 [FirstSquawk] Japan prefecture offers free bullet train rides to overseas tourists Kagoshima pilot program seeks to boost local economy by welcoming visitors
-- 09/20 16:53 [FirstSquawk] Obama on Trump's press ban: My imagination could not foresee some of the stuff that’s going on right now. I’m trying to think what would have happened if I had said, "You know what, Fox News, get out of here." It’s unimaginable!
 - 09/20 17:35 [FirstSquawk] NO Strait of Hormuz reopening until all Iran’s conditions are met — Parliament Speaker Ghalibaf 'Our stance is completely clear, rational, and non-negotiable'
 - 09/20 17:35 [FirstSquawk] Japanese supermarket operator Saeki Selva Holdings plans to enter the Vietnamese market, training workers in both countries on everything from the basics to running entire stores.
 - 09/20 17:36 [FirstSquawk] Iranian Judiciary Chief Gholam-Hossein Mohseni-Ejei was unanimously reelected to chair the Expediency Council’s legal and judicial committee for a fifth consecutive year, state media reported on Sunday.
@@ -388,3 +385,8 @@
 - 09/21 16:22 [financialjuice] Iran's president Pezeshkian to fly to New York for the UN General Assembly on Tuesday - IRNA
 - 09/21 16:45 [financialjuice] Swiss Government: Supply of petrol and diesel has resumed through the usual supply channels
 - 09/21 16:46 [financialjuice] Swiss Government: Supply situation for petroleum products remains tight
+- 09/21 16:58 [FirstSquawk] PAKISTAN MINISTER'S VISIT UNRELATED TO US-IRAN MEDIATION - TASNIM
+- 09/21 17:01 [FirstSquawk] NOVO PLANS TO RELEASE MORE THAN FIVE MULTI-BLOCKBUSTERS BY 2030.
+- 09/21 17:01 [FirstSquawk] NOVO TARGETS OVER 150 BILLION DKK IN PIPELINE SALES BY 2035.
+- 09/21 17:01 [FirstSquawk] NOVO PLANS 25 PHASE 3 PROGRAMS IN OBESITY AND DIABETES BY 2030.
+- 09/21 17:06 [financialjuice] ECB’s Panetta: Current market prices on AI are optimistic

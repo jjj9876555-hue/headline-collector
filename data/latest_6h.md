@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 16:53 JST／対象: 09/21 10:53 〜 09/21 16:53 JST（時刻はすべて日本時間）
+生成: 2026-09-21 17:07 JST／対象: 09/21 11:07 〜 09/21 17:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 62 | 09/21 10:57 | 09/21 16:20 | 21分（11:46→12:07） |
-| financialjuice | 23 | 09/21 11:02 | 09/21 16:46 | ⚠ 57分（11:08→12:05） |
+| FirstSquawk | 63 | 09/21 11:09 | 09/21 17:01 | 37分（16:20→16:58） |
+| financialjuice | 22 | 09/21 11:08 | 09/21 17:06 | ⚠ 57分（11:08→12:05） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 84 行（統合前 86 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 10:57 [FirstSquawk] NZ dollar languishes near two-month low as bears target 0.5700 - FX
-- 09/21 11:02 [financialjuice] China, US held candid, detailed, and constructive talks on key economic, trade issues: state media
-- 09/21 11:03 [financialjuice] China, US hold talks on artificial intelligence issues: state media
-- 09/21 11:04 [FirstSquawk] China and US discuss issues related to artificial intelligence — State Media
-- 09/21 11:05 [FirstSquawk] China and US engage in candid, in-depth exchanges on major economic and trade matters — State Media
 - 09/21 11:08 [financialjuice] 12 vessels passed through Strait of Hormuz over weekend, down from 35 week before - shipping data
 - 09/21 11:09 [FirstSquawk] Strait of Hormuz traffic falls to 12 vessels over weekend vs 35 last week — Shipping Data
 - 09/21 11:19 [FirstSquawk] Vietnam stock market opens up 0.54% following FTSE Russell upgrade
@@ -108,3 +103,8 @@
 - 09/21 16:22 [financialjuice] Iran's president Pezeshkian to fly to New York for the UN General Assembly on Tuesday - IRNA
 - 09/21 16:45 [financialjuice] Swiss Government: Supply of petrol and diesel has resumed through the usual supply channels
 - 09/21 16:46 [financialjuice] Swiss Government: Supply situation for petroleum products remains tight
+- 09/21 16:58 [FirstSquawk] PAKISTAN MINISTER'S VISIT UNRELATED TO US-IRAN MEDIATION - TASNIM
+- 09/21 17:01 [FirstSquawk] NOVO PLANS TO RELEASE MORE THAN FIVE MULTI-BLOCKBUSTERS BY 2030.
+- 09/21 17:01 [FirstSquawk] NOVO TARGETS OVER 150 BILLION DKK IN PIPELINE SALES BY 2035.
+- 09/21 17:01 [FirstSquawk] NOVO PLANS 25 PHASE 3 PROGRAMS IN OBESITY AND DIABETES BY 2030.
+- 09/21 17:06 [financialjuice] ECB’s Panetta: Current market prices on AI are optimistic
