@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 07:17 JST／対象: 09/22 01:17 〜 09/22 07:17 JST（時刻はすべて日本時間）
+生成: 2026-09-22 07:32 JST／対象: 09/22 01:32 〜 09/22 07:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/22 02:18 | 09/22 02:22 | 4分（02:18→02:22） |
-| FirstSquawk | 81 | 09/22 01:19 | 09/22 07:08 | 44分（06:24→07:08） |
-| financialjuice | 51 | 09/22 01:23 | 09/22 07:08 | 42分（05:18→06:00） |
+| FirstSquawk | 79 | 09/22 01:35 | 09/22 07:24 | 44分（06:24→07:08） |
+| financialjuice | 53 | 09/22 01:35 | 09/22 07:30 | 42分（05:18→06:00） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 131 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 01:19 [FirstSquawk] TRUMP IS CAUGHT BETWEEN SUPPORTING SAUDI CROWN PRINCE MOHAMMED BIN SALMAN AND AVOIDING A NEW WAR IN THE MIDDLE EAST.
-- 09/22 01:23 [financialjuice] American diplomats met with senior Houthi officials and received assurances from them that the armed rebel organization had no intention of closing the Bab al-Mandab Strait - Israel's N12 News
-- 09/22 01:29 [FirstSquawk] L3HARRIS TECHNOLOGIES: SIGNS MULTI-YEAR AGREEMENT WITH NAVAL AIR WARFARE CENTER TO INCREASE TOMAHAWK MISSILE PRODUCTION
-- 09/22 01:29 [FirstSquawk] NASDAQ 100 INDEX EXTENDS GAIN 2.5%
 - 09/22 01:35 [FirstSquawk] BANK OF CANADA GOVERNOR MACKLEM SAYS NEW ERA OF UNCERTAINTY IS NOT GOING AWAY ANY TIME SOON
 - 09/22 01:35 [financialjuice] BoC's Gov. Macklem: A new era of uncertainty is not going away any time soon.
 - 09/22 01:38 [financialjuice] BoC's Gov. Macklem Speaks - WATCH LIVE
@@ -155,3 +151,7 @@
 - 09/22 07:08 [financialjuice] Shenzhen Camsense Technologies sets offer price at HK$58.85 per H share under global offering
 - 09/22 07:08 [financialjuice] Shenzhen Camsense Technologies plans 10.4 million H-shares in global international offer
 - 09/22 07:08 [FirstSquawk] BP’S 440,000-BPD WHITING REFINERY RETURNS TO NORMAL OPERATIONS AFTER PLANNED MAINTENANCE
+- 09/22 07:24 [FirstSquawk] LOCKHEED MARTIN SECURES A $1.2 BILLION CONTRACT FOR PRECISION STRIKE MISSILE (PRSM) INCREMENT 2 AFTER ITS SECOND MARITIME TEST, WITH ADDITIONAL FLIGHT TESTS SCHEDULED FOR 2027. PRSM INCREMENT 2 WILL ADD A MULTIMODE SEEKER TO TARGET MOVING L…
+- 09/22 07:24 [financialjuice] ECB's Lane: European economy to expand at steady, moderate pace if energy shock eases - Le Temps
+- 09/22 07:25 [financialjuice] ECB's Lane: second surge in energy costs will boost inflation before easing toward goal from mid-2027 onward - Le Temps
+- 09/22 07:30 [financialjuice] US to reopen military base in southern Greenland, establish presence at second site in eastern Greenland: three people familiar with the matter

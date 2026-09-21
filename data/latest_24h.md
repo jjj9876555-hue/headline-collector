@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 07:17 JST／対象: 09/21 07:17 〜 09/22 07:17 JST（時刻はすべて日本時間）
+生成: 2026-09-22 07:32 JST／対象: 09/21 07:32 〜 09/22 07:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 314 | 09/21 07:56 | 09/22 07:08 | 45分（07:56→08:41） |
-| financialjuice | 253 | 09/21 08:49 | 09/22 07:08 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 315 | 09/21 07:56 | 09/22 07:24 | 45分（07:56→08:41） |
+| financialjuice | 256 | 09/21 08:49 | 09/22 07:30 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 609 行（統合前 630 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 613 行（統合前 634 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -633,3 +633,7 @@
 - 09/22 07:08 [financialjuice] Shenzhen Camsense Technologies sets offer price at HK$58.85 per H share under global offering
 - 09/22 07:08 [financialjuice] Shenzhen Camsense Technologies plans 10.4 million H-shares in global international offer
 - 09/22 07:08 [FirstSquawk] BP’S 440,000-BPD WHITING REFINERY RETURNS TO NORMAL OPERATIONS AFTER PLANNED MAINTENANCE
+- 09/22 07:24 [FirstSquawk] LOCKHEED MARTIN SECURES A $1.2 BILLION CONTRACT FOR PRECISION STRIKE MISSILE (PRSM) INCREMENT 2 AFTER ITS SECOND MARITIME TEST, WITH ADDITIONAL FLIGHT TESTS SCHEDULED FOR 2027. PRSM INCREMENT 2 WILL ADD A MULTIMODE SEEKER TO TARGET MOVING L…
+- 09/22 07:24 [financialjuice] ECB's Lane: European economy to expand at steady, moderate pace if energy shock eases - Le Temps
+- 09/22 07:25 [financialjuice] ECB's Lane: second surge in energy costs will boost inflation before easing toward goal from mid-2027 onward - Le Temps
+- 09/22 07:30 [financialjuice] US to reopen military base in southern Greenland, establish presence at second site in eastern Greenland: three people familiar with the matter
