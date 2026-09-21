@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 03:54 JST／対象: 09/21 21:54 〜 09/22 03:54 JST（時刻はすべて日本時間）
+生成: 2026-09-22 04:15 JST／対象: 09/21 22:15 〜 09/22 04:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 29 | 09/21 22:44 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 88 | 09/21 21:56 | 09/22 03:53 | 38分（01:55→02:34） |
-| financialjuice | 126 | 09/21 22:00 | 09/22 03:51 | 34分（01:57→02:32） |
+| FirstSquawk | 89 | 09/21 22:27 | 09/22 04:13 | 38分（01:55→02:34） |
+| financialjuice | 113 | 09/21 22:26 | 09/22 04:12 | 34分（01:57→02:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 232 行（統合前 246 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 220 行（統合前 234 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 21:56 [FirstSquawk] RUSSIA FINANCE MINISTER SEES 2026 BUDGET GAP WITHIN 3%/GDP: IFX
-- 09/21 22:00 [FirstSquawk] MCLAREN PLANS £500 MILLION INVESTMENT IN A NEW PLANT, A RARE BOOST FOR THE UK MANUFACTURING SECTOR AND PM ANDY BURNHAM.
-- 09/21 22:00 [financialjuice] Effective Fed Funds rate: 3.88% September 18th vs 3.88% September 17th.
-- 09/21 22:00 [financialjuice] Fed's Goolsbee: Inflation data earlier this year seemed to show supply shocks waning; now some of it is coming from demand.
-- 09/21 22:00 [financialjuice] Fed's Goolsbee: District contacts are relaying concerns that sound like traditional demand overheating.
-- 09/21 22:01 [financialjuice] Fed's Goolsbee: The Fed is now more in the action scenario given the mix of inflation pressures.
-- 09/21 22:01 [financialjuice] Fed's Goolsbee: I am not thinking about any coming hikes as reversing last year's cuts.
-- 09/21 22:01 [financialjuice] Fed's Goolsbee: The only choice the Fed has if supply shock inflation proves persistent is to reduce aggregate demand.
-- 09/21 22:01 [financialjuice] Fed's Goolsbee: Current unemployment rate is pretty close to full employment.
-- 09/21 22:01 [financialjuice] Fed's Goolsbee: Month-to-month job growth is not a good measure of health for the labor market when there is doubt about population growth due to immigration policies.
-- 09/21 22:01 [financialjuice] Fed's Goolsbee: Business contacts say labor market is getting tighter, alternate measures tell the same story.
-- 09/21 22:01 [financialjuice] Fed's Goolsbee: The Fed remains very credible, everyone takes the job extremely seriously.
-- 09/21 22:01 [financialjuice] Fed's Goolsbee: Components of inflation will matter to the Fed's analysis, with services inflation not seen as tied to oil price shock but as a product of strong demand.
-- 09/21 22:02 [financialjuice] Fed's Goolsbee: The job of a central banker is not to respond to markets or the president, but to economic conditions.
-- 09/21 22:02 [financialjuice] Fed's Goolsbee: Without a summary of economic projections, the world will still be looking to understand officials' reaction functions.
-- 09/21 22:02 [financialjuice] Fed's Goolsbee: Historically, US long rates are not particularly high; I don't think it reflects a loss of confidence in us.
-- 09/21 22:02 [financialjuice] Google unveils $899-plus Googlebook AI laptops. $GOOGL
-- 09/21 22:03 [financialjuice] Googlebook ships October 4th in the US via Google Store and Best Buy $GOOGL
-- 09/21 22:04 [FirstSquawk] GOOGLE LAUNCHES GOOGLEBOOK LAPTOP LINE STARTING AT $899
-- 09/21 22:15 [FirstSquawk] COINBASE TO OFFER IPO ALLOCATIONS TO US RETAIL TRADERS
 - 09/21 22:26 [financialjuice] Société Générale CEO Krupa: France has significant macroeconomic challenges, but also strengths in energy, education, and start-ups.
 - 09/21 22:26 [financialjuice] Trump spoke via phone with Yemeni President Rashad Al-alimi on Sunday - Four Sources.
 - 09/21 22:27 [FirstSquawk] WHITE HOUSE TV POOL WON'T COVER TRUMP IN NYC: CNBC
@@ -256,3 +236,11 @@
 - 09/22 03:51 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 3.4% LOWER AT $100.34/BBL, DOWN $3.53
 - 09/22 03:53 [FirstSquawk] FIFA PRESIDENT GIANNI INFANTINO SAYS AN INVESTMENT PROPOSAL HAS BEEN WITHDRAWN AND WILL NOT PROCEED, WHILE PROPOSING AN INDEPENDENT EXTERNAL REVIEW OF FIFA’S GOVERNANCE FRAMEWORK FOR MAJOR STRATEGIC INITIATIVES.
 - 09/22 03:53 [FirstSquawk] FIFA PRESIDENT GIANNI INFANTINO ALSO PLANS A DIRECT, TIME-LIMITED CONSULTATION WITH CONFEDERATIONS, MEMBER ASSOCIATIONS AND OTHER STAKEHOLDERS, AND SAYS NO ASSOCIATION’S TREATMENT WILL DEPEND ON ITS POSITION ON ANY PROPOSAL OR INSTITUTIONAL…
+- 09/22 04:00 [FirstSquawk] RUSSIA TO SCRAP GRAIN EXPORT DUTIES UNTIL END-2026, SUPPORTING UNINTERRUPTED GRAIN SHIPMENTS
+- 09/22 04:01 [FirstSquawk] US STATE DEPARTMENT IMPOSES VISA RESTRICTIONS ON 32 INDIVIDUALS LINKED TO PRINCE GROUP TCO
+- 09/22 04:03 [financialjuice] Qatar: We are working to facilitate an agreement between Iran and US - Tasnim News
+- 09/22 04:09 [FirstSquawk] QATAR SAYS IT IS WORKING TO FACILITATE A US-IRAN AGREEMENT, INCLUDING A POSSIBLE SHORT-TERM DEAL — TASNIM NEWS
+- 09/22 04:11 [financialjuice] Trump administration proposes $5 bln to kickstart investment fund to rebuild Gulf energy sites, according to sources and documents.
+- 09/22 04:11 [FirstSquawk] TRUMP ADMINISTRATION PROPOSES $5 BILLION FUND TO REBUILD GULF ENERGY SITES, AIMING TO KICKSTART INVESTMENT — WSJ, CITING SOURCES & DOCUMENTS
+- 09/22 04:12 [financialjuice] Trump administration proposes $5 bln to kickstart investment fund to rebuild Gulf energy sites, according to sources and documents - WSJ
+- 09/22 04:13 [FirstSquawk] US PROPOSES $5B FUND TO REBUILD GULF ENERGY INFRASTRUCTURE • TRUMP ADMINISTRATION PROPOSES $5 BILLION TO KICKSTART A NEW MIDDLE EAST ENERGY REBUILDING FUND, WSJ REPORTS • US SEEKS MATCHING $5 BILLION FROM 8 REGIONAL PARTNERS, TARGETING A $1…

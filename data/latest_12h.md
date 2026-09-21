@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 03:54 JST／対象: 09/21 15:54 〜 09/22 03:54 JST（時刻はすべて日本時間）
+生成: 2026-09-22 04:15 JST／対象: 09/21 16:15 〜 09/22 04:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 170 | 09/21 16:01 | 09/22 03:53 | 38分（01:55→02:34） |
-| financialjuice | 196 | 09/21 16:01 | 09/22 03:51 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 171 | 09/21 16:17 | 09/22 04:13 | 38分（01:55→02:34） |
+| financialjuice | 198 | 09/21 16:15 | 09/22 04:12 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 409 行（統合前 429 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 412 行（統合前 432 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 16:01 [FirstSquawk] SWITZERLAND M3 MONEY SUPPLY (YOY) AUG: 3.5% (PREV 3.3%; PREV R 3.4%)
-- 09/21 16:01 [financialjuice] Currency Strength Chart: Strongest: AUD, USD, NZD, EUR, JPY, GBP, CHF, CAD - Weakest
-- 09/21 16:04 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.16%
-- 09/21 16:04 [FirstSquawk] FRANCE'S CAC 40 UP 0.52%; SPAIN'S IBEX UP 0.47%
-- 09/21 16:04 [FirstSquawk] GERMANY'S DAX UP 0.68%
 - 09/21 16:15 [financialjuice/FirstSquawk] Pakistan's interior minister to visit Iran on Monday - IRNA
 - 09/21 16:17 [FirstSquawk] XI, TRUMP TO HAVE IN-DEPTH EXCHANGE OF VIEWS DURING VISIT - GUO
 - 09/21 16:18 [FirstSquawk] SOUTH KOREA, JAPAN, US FOREIGN MINISTERS TO HOLD TRILATERAL MEETING SEPT 21 - YNA
@@ -433,3 +428,11 @@
 - 09/22 03:51 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 3.4% LOWER AT $100.34/BBL, DOWN $3.53
 - 09/22 03:53 [FirstSquawk] FIFA PRESIDENT GIANNI INFANTINO SAYS AN INVESTMENT PROPOSAL HAS BEEN WITHDRAWN AND WILL NOT PROCEED, WHILE PROPOSING AN INDEPENDENT EXTERNAL REVIEW OF FIFA’S GOVERNANCE FRAMEWORK FOR MAJOR STRATEGIC INITIATIVES.
 - 09/22 03:53 [FirstSquawk] FIFA PRESIDENT GIANNI INFANTINO ALSO PLANS A DIRECT, TIME-LIMITED CONSULTATION WITH CONFEDERATIONS, MEMBER ASSOCIATIONS AND OTHER STAKEHOLDERS, AND SAYS NO ASSOCIATION’S TREATMENT WILL DEPEND ON ITS POSITION ON ANY PROPOSAL OR INSTITUTIONAL…
+- 09/22 04:00 [FirstSquawk] RUSSIA TO SCRAP GRAIN EXPORT DUTIES UNTIL END-2026, SUPPORTING UNINTERRUPTED GRAIN SHIPMENTS
+- 09/22 04:01 [FirstSquawk] US STATE DEPARTMENT IMPOSES VISA RESTRICTIONS ON 32 INDIVIDUALS LINKED TO PRINCE GROUP TCO
+- 09/22 04:03 [financialjuice] Qatar: We are working to facilitate an agreement between Iran and US - Tasnim News
+- 09/22 04:09 [FirstSquawk] QATAR SAYS IT IS WORKING TO FACILITATE A US-IRAN AGREEMENT, INCLUDING A POSSIBLE SHORT-TERM DEAL — TASNIM NEWS
+- 09/22 04:11 [financialjuice] Trump administration proposes $5 bln to kickstart investment fund to rebuild Gulf energy sites, according to sources and documents.
+- 09/22 04:11 [FirstSquawk] TRUMP ADMINISTRATION PROPOSES $5 BILLION FUND TO REBUILD GULF ENERGY SITES, AIMING TO KICKSTART INVESTMENT — WSJ, CITING SOURCES & DOCUMENTS
+- 09/22 04:12 [financialjuice] Trump administration proposes $5 bln to kickstart investment fund to rebuild Gulf energy sites, according to sources and documents - WSJ
+- 09/22 04:13 [FirstSquawk] US PROPOSES $5B FUND TO REBUILD GULF ENERGY INFRASTRUCTURE • TRUMP ADMINISTRATION PROPOSES $5 BILLION TO KICKSTART A NEW MIDDLE EAST ENERGY REBUILDING FUND, WSJ REPORTS • US SEEKS MATCHING $5 BILLION FROM 8 REGIONAL PARTNERS, TARGETING A $1…
