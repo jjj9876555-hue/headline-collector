@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 10:19 JST／対象: 09/20 22:19 〜 09/21 10:19 JST（時刻はすべて日本時間）
+生成: 2026-09-21 10:33 JST／対象: 09/20 22:33 〜 09/21 10:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 113 | 09/20 22:21 | 09/21 10:18 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 86 | 09/20 23:15 | 09/21 10:17 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 117 | 09/20 22:41 | 09/21 10:28 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 92 | 09/20 23:15 | 09/21 10:24 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 200 行（統合前 201 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 210 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 22:21 [FirstSquawk] Yemeni government forces: Warplanes target Houthi militia elements and equipment in Al-Bayda Governorate
-- 09/20 22:31 [FirstSquawk] Fox News, citing an undisclosed Russian document: A Russian-Iranian plan provides an "alternative mechanism" to counter Western pressure.
-- 09/20 22:31 [FirstSquawk] Fox News, citing a Russian document: The document outlines plans for nuclear cooperation and Iranian manufacturing of components for Russian aircraft.
 - 09/20 22:41 [FirstSquawk] Syrian TV: Israeli occupation forces are shelling the southeastern part of the town of Al-Rafid in the southern Quneitra countryside.
 - 09/20 22:41 [FirstSquawk] Trump to Fox News: I'm in a decision-making position and very big things will happen in the near future.
 - 09/20 22:42 [FirstSquawk] Trump: at strong request of US military and for national security, agrees to transform triumphal arch into a high-level military complex
@@ -224,3 +221,16 @@
 - 09/21 10:17 [financialjuice] Microsoft's Nadella to join OpenAI and Nvidia CEOs at Trump-Xi dinner
 - 09/21 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023, according to PBOC
 - 09/21 10:18 [FirstSquawk] Yuan mid-point hits strongest level since Feb. 3, 2023 after China fix
+- 09/21 10:19 [FirstSquawk] Washington and Beijing agree on AI dialogue before Trump-Xi meeting — FT
+- 09/21 10:21 [financialjuice] China injects 165 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/21 10:21 [FirstSquawk] PBOC injects 165 bln yuan through 7-day reverse repos at 1.40%
+- 09/21 10:22 [financialjuice] User reports indicate issues with Facebook in the U.S.: Downdetector
+- 09/21 10:23 [FirstSquawk] Facebook users report issues across the U.S. — Downdetector
+- 09/21 10:24 [financialjuice] User reports show issues with Facebook for 15,602 users in U.S. as of 9:05 pm ET - Downdetector
+- 09/21 10:24 [financialjuice] South Korea President Lee to journey to US, Mexico September 21-27: Blue House
+- 09/21 10:24 [financialjuice] South Korea President Lee intends to meet US, Australia and other leaders at UN - Blue House
+- 09/21 10:24 [financialjuice] South Korea's Lee to attend UN General Assembly, hold summit with Mexico's Sheinbaum - Blue House
+- 09/21 10:26 [FirstSquawk] South Korea’s Lee to meet US, Australian and other leaders at UN — Blue House
+- 09/21 10:26 [FirstSquawk] Lee to attend UNGA and meet Mexico’s Sheinbaum for summit talks — Blue House
+- 09/21 10:27 [FirstSquawk] President Lee to travel to US and Mexico on Sept. 21-27 — Blue House
+- 09/21 10:28 [FirstSquawk] SoftBank Group’s proposed dollar, euro notes rated ‘BB+’ by Fitch

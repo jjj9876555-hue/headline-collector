@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 10:19 JST／対象: 09/20 10:19 〜 09/21 10:19 JST（時刻はすべて日本時間）
+生成: 2026-09-21 10:33 JST／対象: 09/20 10:33 〜 09/21 10:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 259 | 09/20 10:21 | 09/21 10:18 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 100 | 09/20 10:21 | 09/21 10:17 | ⚠ 220分（12:59→16:39） |
+| FirstSquawk | 263 | 09/20 10:35 | 09/21 10:28 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 105 | 09/20 12:59 | 09/21 10:24 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 355 行（統合前 361 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 364 行（統合前 370 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 10:21 [FirstSquawk] WSJ: Polymarket employees raised concerns as fraudsters exploited the platform
-- 09/20 10:21 [financialjuice] China central bank injects 32 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/20 10:21 [FirstSquawk] Diesel exports plunge as wars disrupt supplies from Persian Gulf, Russia
-- 09/20 10:22 [FirstSquawk] Diesel exports plunge as wars disrupt supplies from Persian Gulf, Russia - WSJ
 - 09/20 10:35 [FirstSquawk] Trump announces ‘AI Force,’ plans to name AI czar soon
 - 09/20 10:36 [FirstSquawk] Venezuela, TotalEnergies sign memorandum as oil sector seeks revival - RTRS
 - 09/20 10:37 [FirstSquawk] China central bank keeps 7-day reverse repo rate at 1.40%, injects 32 billion yuan
@@ -379,3 +375,16 @@
 - 09/21 10:17 [financialjuice] Microsoft's Nadella to join OpenAI and Nvidia CEOs at Trump-Xi dinner
 - 09/21 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023, according to PBOC
 - 09/21 10:18 [FirstSquawk] Yuan mid-point hits strongest level since Feb. 3, 2023 after China fix
+- 09/21 10:19 [FirstSquawk] Washington and Beijing agree on AI dialogue before Trump-Xi meeting — FT
+- 09/21 10:21 [financialjuice] China injects 165 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/21 10:21 [FirstSquawk] PBOC injects 165 bln yuan through 7-day reverse repos at 1.40%
+- 09/21 10:22 [financialjuice] User reports indicate issues with Facebook in the U.S.: Downdetector
+- 09/21 10:23 [FirstSquawk] Facebook users report issues across the U.S. — Downdetector
+- 09/21 10:24 [financialjuice] User reports show issues with Facebook for 15,602 users in U.S. as of 9:05 pm ET - Downdetector
+- 09/21 10:24 [financialjuice] South Korea President Lee to journey to US, Mexico September 21-27: Blue House
+- 09/21 10:24 [financialjuice] South Korea President Lee intends to meet US, Australia and other leaders at UN - Blue House
+- 09/21 10:24 [financialjuice] South Korea's Lee to attend UN General Assembly, hold summit with Mexico's Sheinbaum - Blue House
+- 09/21 10:26 [FirstSquawk] South Korea’s Lee to meet US, Australian and other leaders at UN — Blue House
+- 09/21 10:26 [FirstSquawk] Lee to attend UNGA and meet Mexico’s Sheinbaum for summit talks — Blue House
+- 09/21 10:27 [FirstSquawk] President Lee to travel to US and Mexico on Sept. 21-27 — Blue House
+- 09/21 10:28 [FirstSquawk] SoftBank Group’s proposed dollar, euro notes rated ‘BB+’ by Fitch
