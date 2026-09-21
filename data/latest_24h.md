@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 22:59 JST／対象: 09/20 22:59 〜 09/21 22:59 JST（時刻はすべて日本時間）
+生成: 2026-09-21 23:18 JST／対象: 09/20 23:18 〜 09/21 23:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 33 | 09/20 23:29 | 09/21 22:57 | ⚠ 1222分（23:43→20:05） |
-| FirstSquawk | 259 | 09/20 23:23 | 09/21 22:57 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 207 | 09/20 23:15 | 09/21 22:58 | ⚠ 114分（05:13→07:07） |
+| DeItaone | 36 | 09/20 23:29 | 09/21 23:17 | ⚠ 1222分（23:43→20:05） |
+| FirstSquawk | 266 | 09/20 23:23 | 09/21 23:14 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 218 | 09/20 23:39 | 09/21 23:18 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 495 行（統合前 502 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 515 行（統合前 523 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 23:15 [financialjuice] Qatar’s prime minister: QIA launches Doha Investment, new unit for domestic investments
-- 09/20 23:15 [financialjuice] Air defences intercept drone near Erbil airport in Iraqi Kurdistan: security sources
-- 09/20 23:17 [financialjuice] Qatar’s prime minister: Qatar anticipates awarding about $38.5 billion in new infrastructure projects over next five years
 - 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We are ready to cooperate with the Nile Basin countries
 - 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We are not against building dams at all, but we are against unilateralism.
 - 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We have some concerns regarding the Nile Basin Cooperative Framework Agreement.
@@ -519,3 +516,26 @@
 - 09/21 22:57 [DeItaone] OPENAI AND ANTHROPIC NEARED DEAL TO STRESS-TEST EACH OTHER’S AI - THE INFORMATION
 - 09/21 22:57 [financialjuice] OpenAI and Anthropic in talks to stress test each other - The Information
 - 09/21 22:58 [financialjuice] OpenAI and Anthropic discussed stress tests this year - The Information
+- 09/21 22:59 [FirstSquawk] PARAMOUNT IS MOVING TO RESOLVE LAWSUITS, CLEARING THE PATH FOR A DEAL WITH WARNER BROS.
+- 09/21 23:00 [FirstSquawk] FED GOOLSBEE: NOT VIEWING RATE HIKE AS TAKING BACK 2025 CUTS
+- 09/21 23:00 [financialjuice] Fed's Goolsbee: I am not viewing rate hike as taking back 2025 cuts.
+- 09/21 23:00 [financialjuice] Fed's Goolsbee: I am worried services inflation may not go away.
+- 09/21 23:01 [financialjuice] Fed's Goolsbee: I sense some inflation coming from overheating demand.
+- 09/21 23:01 [FirstSquawk] GOOLSBEE: FED PROJECTIONS NOT ENOUGH IF INFL. IS DEMAND DRIVEN
+- 09/21 23:01 [financialjuice] Fed's Goolsbee: Fed projections are not enough if inflation is demand-driven.
+- 09/21 23:03 [DeItaone] OPENAI AND ANTHROPIC NEARED AI SAFETY TESTING DEAL OpenAI and Anthropic reportedly neared an agreement to stress-test each other’s AI models, searching for vulnerabilities and hidden risks. It’s unclear whether the deal was finalized before…
+- 09/21 23:04 [FirstSquawk] NOVO NORDISK ADRS EXTEND DROP TO SESSION-LOW 7.4%
+- 09/21 23:04 [DeItaone/FirstSquawk] SPOT GOLD FALLS OVER 1% TO $4,325.49/OZ
+- 09/21 23:10 [FirstSquawk] NOVO CFO: AIM TO MAINTAIN ‘BROADLY STABLE’ OP. MARGIN UNTIL 2030 COMPARED TO TODAY
+- 09/21 23:10 [financialjuice] USTR Greer: China is doing what they promised on soybeans - Fox News.
+- 09/21 23:11 [financialjuice] USTR Greer: Rare earths are coming in, but we'd like higher quantities.
+- 09/21 23:12 [financialjuice] USTR Greer: China is making progress on it's Boeing commitment from May. $BA
+- 09/21 23:12 [financialjuice] USTR Greer: There is no grand bargain to be had with China.
+- 09/21 23:13 [financialjuice] USTR Greer ends remarks on Fox News.
+- 09/21 23:14 [FirstSquawk] TAKAICHI TO STRESS JAPANESE INVESTMENT IN US IN TALKS WITH TRUMP - NIKKEI
+- 09/21 23:14 [financialjuice] Japan's PM Takaichi is going to stress Japanese investment in the US in talks with Trump - Nikkei.
+- 09/21 23:16 [financialjuice] Takaichi to stress Japanese investment in US in talks with Trump
+- 09/21 23:17 [financialjuice] Advanced Micro Devices hits $1 trillion in market capitalization for the first time. $AMD
+- 09/21 23:17 [DeItaone] $AMD - ADVANCED MICRO DEVICES HITS $1 TRILLION IN MARKET CAPITALIZATION FOR THE FIRST TIME
+- 09/21 23:18 [financialjuice] Fear and Greed Index: 33/100 = Fear
+- 09/21 23:18 [financialjuice] Crypto Fear and Greed Index: 70/100 = Greed
