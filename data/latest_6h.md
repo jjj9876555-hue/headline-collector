@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 21:03 JST／対象: 09/21 15:03 〜 09/21 21:03 JST（時刻はすべて日本時間）
+生成: 2026-09-21 21:24 JST／対象: 09/21 15:24 〜 09/21 21:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/21 20:05 | 09/21 21:03 | 20分（20:05→20:25） |
-| FirstSquawk | 72 | 09/21 15:08 | 09/21 21:02 | 37分（16:20→16:58） |
-| financialjuice | 23 | 09/21 15:05 | 09/21 20:02 | ⚠ 81分（17:11→18:32） |
+| DeItaone | 28 | 09/21 20:05 | 09/21 21:22 | 20分（20:05→20:25） |
+| FirstSquawk | 82 | 09/21 15:29 | 09/21 21:23 | 37分（16:20→16:58） |
+| financialjuice | 56 | 09/21 15:29 | 09/21 21:23 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 107 行（統合前 110 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 164 行（統合前 168 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 15:05 [financialjuice] Kazakhstan Oil to UST-Luga at 200k metric tons in August - IFX
-- 09/21 15:08 [FirstSquawk] North Korea condemns multilateral sanctions monitoring team as illegal US political instrument — KCNA
-- 09/21 15:08 [FirstSquawk] North Korea says new sanctions will not impede development or defence of key interests — KCNA
-- 09/21 15:24 [FirstSquawk] Australia’s benchmark ASX 200 finishes flat at 8,731.90
 - 09/21 15:29 [FirstSquawk] One reported dead after Ukrainian drone attack in Russia’s Bryansk region — Acting Governor
 - 09/21 15:29 [financialjuice] Iran's IRGC: Still room for geographical expansion of war
 - 09/21 15:29 [financialjuice] France Fin. Min. Lescure: France's strategic oil stocks are full
@@ -131,3 +127,64 @@
 - 09/21 21:02 [DeItaone] $MSTR - STRATEGY BUYS ANOTHER 950 BITCOIN Strategy purchased 950 BTC for $75.7 million last week at an average price of $79,670 per Bitcoin. The company now holds 846,000 BTC, acquired for $63.8 billion at an average $75,416 per coin. Strat…
 - 09/21 21:02 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT ON CHINA TALKS: CHANCE TRUMP, XI COULD SEE EACH OTHER TWO MORE TIMES AFTER THIS WEEK -CNBC
 - 09/21 21:03 [DeItaone] BESSENT: WILL OPEN UP AN INCIDENT LINE ON AI WITH CHINA
+- 09/21 21:03 [DeItaone] BESSENT: US-CHINA TO MEET IN TWO MONTHS ON AI IN SHENZHEN
+- 09/21 21:03 [FirstSquawk] LIBYA’S SHARARA OIL OUTPUT DROPS MORE THAN HALF AFTER PIPE SHUT
+- 09/21 21:03 [DeItaone] IRGC WARNS OF NEW WEAPONS AND TARGETS Iran’s IRGC spokesperson reportedly says the world has “not yet seen the power and precision” of Iran’s new weapons. The spokesperson also claimed Iran has additional enemy targets it has not yet attack…
+- 09/21 21:04 [DeItaone/FirstSquawk] BESSENT: DISCUSSED TARIFFS WITH CHINA
+- 09/21 21:04 [DeItaone] RUSSIA HAS UNFORTUNATELY LOST CONTROL OF ITS DIESEL OIL INDUSTRY DUE TO ITS WAR WITH UKRAINE - TRUMP SAYS
+- 09/21 21:05 [DeItaone] TRUMP: THIS RIDICULOUS AND NEVER ENDING WAR WITH UKRAINE MUST BE ENDED
+- 09/21 21:05 [FirstSquawk] Trump on truth social Russia has unfortunately lost control of its Diesel Oil Industry due to its War with Ukraine. A large number of their Diesel refineries have been blown up and are, at least temporarily, out of commission. This ridiculo…
+- 09/21 21:06 [FirstSquawk] BESSENT: US LOOKING TO SELL MORE AGRICULTURE, ENERGY
+- 09/21 21:06 [FirstSquawk] BESSENT SAYS MEDICAL DEVICE SECTOR IN CHINA MAY BE AFFECTED BY GOVERNMENT CUTS.
+- 09/21 21:07 [FirstSquawk] PRES TRUMP: RUSSIA HAS UNFORTUNATELY LOST CONTROL OF ITS DIESEL OIL INDUSTRY DUE TO ITS WAR WITH UKRAINE
+- 09/21 21:10 [financialjuice] Secured overnight financing rate: 3.85% in September. 18th vs. 3.85% on September 17th.
+- 09/21 21:10 [financialjuice] US Treasury Secretary Bessent: Discussed economics and AI with China.
+- 09/21 21:10 [financialjuice] US Treasury Secretary Bessent on China talks: Chance Trump and Xi could see each other two more times after this week - CNBC.
+- 09/21 21:10 [financialjuice] US Treasury Secretary Bessent: Have formalized an AI dialogue.
+- 09/21 21:10 [financialjuice] US Treasury Secretary Bessent: Will open up an incident line on AI with China.
+- 09/21 21:10 [financialjuice] Libya’s Sharara oil output drops by more than half after the pipe was shut.
+- 09/21 21:10 [financialjuice] US Treasury Secretary Bessent: US-China to meet in two months on AI in Shenzhen.
+- 09/21 21:10 [financialjuice] US Treasury Secretary Bessent: Discussed tariffs with China.
+- 09/21 21:10 [financialjuice] strategy acquires 950 bitcoin at average price of $79,670 sept. 14 to sept. 20
+- 09/21 21:10 [financialjuice] US Treasury Secretary Bessent: some deliverables expected
+- 09/21 21:10 [financialjuice] Strategy purchases 950 bitcoin for total $75.7 million
+- 09/21 21:10 [financialjuice] Trump: This ridiculous and never-ending war with ukraine must be ended - Truth Social
+- 09/21 21:10 [financialjuice] Trump: Russia lost control of its diesel industry due to war - Truth Social
+- 09/21 21:10 [financialjuice] US Treasury Secretary Bessent: Discussing US-China items that could go to MFN tariffs.
+- 09/21 21:10 [financialjuice] US Treasury Secretary Bessent: On the US side, energy items could be eligible for tariff cuts.
+- 09/21 21:10 [financialjuice] US Treasury Secretary Bessent: Labs need to take responsibility for themselves on AI.
+- 09/21 21:11 [financialjuice] US Treasury Secretary Bessent: OpenAI managers responsible for Hugging Face incident.
+- 09/21 21:11 [financialjuice] US Treasury Secretary Bessent: AI Czar would put contours around AI incidents.
+- 09/21 21:11 [financialjuice] US Treasury Secretary Bessent: Chinese AI models are very powerful though the US is in the lead.
+- 09/21 21:11 [financialjuice] US Treasury Secretary Bessent: China wouldn't tell us if they've had AI incidents.
+- 09/21 21:12 [DeItaone] BESSENT ON IRAN: CAN'T TELL YOU HOW LONG CONFLICT WILL LAST -CNBC
+- 09/21 21:12 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT ON IRAN: CAN'T TELL YOU HOW LONG CONFLICT WILL LAST -CNBC
+- 09/21 21:12 [financialjuice] US Treasury Secretary Bessent on Iran: Can't tell you how long the conflict will last - CNBC
+- 09/21 21:13 [FirstSquawk] BESSENT ON IRAN: ON SEPT 23 ALL IRANIAN AIRLINES WILL BE SHUTDOWN WORLDWIDE
+- 09/21 21:13 [financialjuice] US Treasury Secretary Bessent on iran: On September 23rd, all Iranian airlines will be shut down worldwide.
+- 09/21 21:13 [DeItaone] BESSENT ON IRAN: DISCUSSED WITH CHINA -CNBC
+- 09/21 21:14 [financialjuice] US Treasury Secretary Bessent: on iran: Discussed with China.
+- 09/21 21:14 [FirstSquawk] BESSENT: PUTTING A STOP TO ENABLERS OF IRAN
+- 09/21 21:14 [financialjuice] US Treasury Secretary Bessent on Iran: Chinese authorities are very engaged in the process.
+- 09/21 21:14 [financialjuice] US Treasury Secretary Bessent: PBOC Governor Pan is very engaged in Iran talks.
+- 09/21 21:15 [financialjuice] US Treasury Secretary Bessent repeats that bonds are unusually correlated with energy.
+- 09/21 21:15 [DeItaone] BESSENT ON INTEREST RATES: SHOULD COME DOWN AFTER CONFLICT -CNBC
+- 09/21 21:15 [financialjuice] US Treasury Secretary Bessent on interest rates: should come down after conflict.
+- 09/21 21:16 [financialjuice] US Treasury Secretary Bessent: Just raised buyback size as we're in illiquid period.
+- 09/21 21:16 [DeItaone] BERNSTEIN SEES GOLD AT $5,600 BY 2030 Bernstein cut its 2030 gold target to $5,600/oz from $6,100, reflecting expectations for higher interest rates, but remains firmly bullish. The firm says gold can continue rising despite higher real yie…
+- 09/21 21:17 [FirstSquawk] BESSENT: DON'T KNOW MUCH ABOUT WHITE HOUSE BAN ON SOME MEDIA
+- 09/21 21:17 [financialjuice] US Treasury Secretary Bessent: Thought yields were moving away from equilibrium.
+- 09/21 21:18 [financialjuice] Poll: Swiss National Bank to keep policy rate on hold at 0% on September 24, say all 35 economists.
+- 09/21 21:18 [financialjuice] Poll: Swiss National Bank to keep policy rate on hold at 0% through 2027, say 16 of 24 economists.
+- 09/21 21:20 [DeItaone] *BESSENT: HAD BEHIND-THE-SCENES TALKS WITH CHINA ON IRAN
+- 09/21 21:21 [DeItaone] *BESSENT REPEATS THAT BONDS ARE UNUSUALLY CORRELATED WITH ENERGY
+- 09/21 21:21 [DeItaone] *BESSENT: ONCE OTHER SIDE OF IRAN CONFLICT, RATES SHOULD DROP
+- 09/21 21:21 [DeItaone] *BESSENT: JUST RAISED BUYBACK SIZE AS WERE IN ILLIQUID PERIOD
+- 09/21 21:21 [FirstSquawk] BESSENT: SINCE BUYBACK EXPANSION, 30YR YIELDS NOT UP BY MUCH
+- 09/21 21:21 [DeItaone] BESSENT ON FED RAISE: CONFIDENT IN WARSH -CNBC
+- 09/21 21:22 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT ON FED RAISE: TRUMP ALSO CONFIDENT IN WARSH
+- 09/21 21:22 [financialjuice] US Treasury Secretary Bessent: Since the buyback expansion, 30-year yields are not up by much.
+- 09/21 21:22 [DeItaone] BESSENT ON FED RAISE: TRUMP ALSO CONFIDENT IN WARSH
+- 09/21 21:22 [financialjuice] US Treasury Secretary Bessent: Will see if this is a supply shock on the energy side.
+- 09/21 21:23 [financialjuice] US Treasury Secretary Bessent: Haven't seen an uptick in core inflation, all headline.
+- 09/21 21:23 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT: WILL SEE IF THIS IS SUPPLY SHOCK ON ENERGY SIDE -CNBC
