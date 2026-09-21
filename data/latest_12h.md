@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 06:58 JST／対象: 09/21 18:58 〜 09/22 06:58 JST（時刻はすべて日本時間）
+生成: 2026-09-22 07:17 JST／対象: 09/21 19:17 〜 09/22 07:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 182 | 09/21 19:09 | 09/22 06:24 | 38分（01:55→02:34） |
-| financialjuice | 199 | 09/21 19:26 | 09/22 06:36 | ⚠ 67分（20:02→21:10） |
+| FirstSquawk | 178 | 09/21 19:23 | 09/22 07:08 | 44分（06:24→07:08） |
+| financialjuice | 202 | 09/21 19:26 | 09/22 07:08 | ⚠ 67分（20:02→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 424 行（統合前 443 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 423 行（統合前 442 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 19:09 [FirstSquawk] KREMLIN COMMENTS ON FAR RIGHT PARTY WIN IN GERMAN ELECTIONS, NOTING LOW APPROVAL RATINGS FOR CURRENT LEADERS. THEY ATTRIBUTE THIS TO GERMANY'S DECISION TO ABANDON CHEAP RUSSIAN GAS IN FAVOR OF EXPENSIVE GAS FROM THE U.S.
-- 09/21 19:09 [FirstSquawk] KREMLIN REPORTS FOOD AND MEDICINE SUPPLY ISSUES IN OLESHKY TOWN, LOCATED IN RUSSIAN-CONTROLLED KHERSON REGION OF UKRAINE.
-- 09/21 19:10 [FirstSquawk] KREMLIN DENIES CLAIMS THAT RUSSIA POSES A THREAT TO EUROPE, CALLING THEM FALSE AND UNACCEPTABLE.
-- 09/21 19:10 [FirstSquawk] KREMLIN STATES THEY ARE IN REGULAR DISCUSSIONS WITH TRADE PARTNERS WHO REJECT US SANCTIONS.
-- 09/21 19:10 [FirstSquawk] KREMLIN STATES TRUMP'S SANCTIONS BILL AGAINST RUSSIA WILL NOT IMPROVE US-RUSSIA RELATIONS OR PROMOTE PEACE IN UKRAINE.
 - 09/21 19:23 [FirstSquawk] TRUMP SAID HE WAS VERY WORRIED ABOUT RISING DIESEL PRICES - FT
 - 09/21 19:26 [FirstSquawk] DEEPSEEK BETS ON HUAWEI CHIPS - INFORMATION
 - 09/21 19:26 [FirstSquawk] DEEPSEEK EXPECTS HUAWEI CHIPS DELIVERY EARLY AS 4Q - INFORMATION
@@ -448,3 +443,7 @@
 - 09/22 06:35 [financialjuice] EU's Kallas: We aim for swift rollover of EU sanctions
 - 09/22 06:36 [financialjuice] EU's Kallas: EU naval mission in Red Sea requires additional naval, air resources
 - 09/22 06:36 [financialjuice] EU's Kallas: more than 10 vessels needed in Red Sea
+- 09/22 07:07 [financialjuice] Transportation Secretary Duffy: telecom lines fixed, all northeast airport operations restarting
+- 09/22 07:08 [financialjuice] Shenzhen Camsense Technologies sets offer price at HK$58.85 per H share under global offering
+- 09/22 07:08 [financialjuice] Shenzhen Camsense Technologies plans 10.4 million H-shares in global international offer
+- 09/22 07:08 [FirstSquawk] BP’S 440,000-BPD WHITING REFINERY RETURNS TO NORMAL OPERATIONS AFTER PLANNED MAINTENANCE

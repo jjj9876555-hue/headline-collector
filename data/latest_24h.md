@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 06:58 JST／対象: 09/21 06:58 〜 09/22 06:58 JST（時刻はすべて日本時間）
+生成: 2026-09-22 07:17 JST／対象: 09/21 07:17 〜 09/22 07:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 322 | 09/21 07:00 | 09/22 06:24 | 45分（07:56→08:41） |
-| financialjuice | 258 | 09/21 07:07 | 09/22 06:36 | ⚠ 97分（07:12→08:49） |
+| FirstSquawk | 314 | 09/21 07:56 | 09/22 07:08 | 45分（07:56→08:41） |
+| financialjuice | 253 | 09/21 08:49 | 09/22 07:08 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 622 行（統合前 643 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 609 行（統合前 630 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 07:00 [FirstSquawk] PARAMOUNT SETTLEMENT FACES RESISTANCE FROM CONNECTICUT & AT LEAST TWO OTHER STATES; NY AG JAMES SEEKS ADDITIONAL WORKER PROTECTIONS — CNN
-- 09/21 07:00 [FirstSquawk] AUSTRALIAN TREASURER JIM CHALMERS WARNS THAT AN AGING AND SLOWER-GROWING POPULATION POSES “SERIOUS RISKS” TO THE ECONOMY AND WILL INCREASE PRESSURE ON GOVERNMENT FINANCES.
-- 09/21 07:00 [FirstSquawk] CHALMERS SAYS DEMOGRAPHIC CHANGES WILL CREATE LONG-TERM FISCAL CHALLENGES FOR AUSTRALIA AS POPULATION GROWTH SLOWS AND THE SHARE OF OLDER PEOPLE RISES. SOURCE
-- 09/21 07:03 [FirstSquawk] BRENT CRUDE FUTURES RISE 1% AFTER HOUTHI ATTACK ON SAUDI CAPITAL, FUELING SUPPLY DISRUPTION CONCERNS
-- 09/21 07:04 [FirstSquawk] FRANCE'S FOREIGN MINISTRY SAYS IT CONDEMNS IRAN'S DECISION TO CLOSE THE FRENCH LANGUAGE CENTRE IN TEHRAN, CALLING THE CLOSURE 'UNJUSTIFIED AND UNACCEPTABLE' AND SAYING FRANCE WILL TAKE APPROPRIATE MEASURES IN RESPONSE, INITIALLY SUMMONING T…
-- 09/21 07:07 [financialjuice] Red Avenue New Materials Group: highest bid price in global offering HK$44.00 per H share
-- 09/21 07:07 [financialjuice] Red Avenue New Materials Group: global offering includes 61.3 million H shares in international sale
-- 09/21 07:08 [financialjuice] Robotechnik intelligent technology sets maximum offer price at HK$436 per H share under global offering
-- 09/21 07:08 [financialjuice] Robotechnik intelligent technology: 10.7 mln H shares in international portion of global offering
-- 09/21 07:09 [financialjuice] Shenzhen Kinwong Electronic: maximum bid price HK$69.88 per H share for global offering
-- 09/21 07:10 [FirstSquawk] SHENZHEN KINWONG ELECTRONIC HAS SET A MAXIMUM OFFER PRICE OF HK$69.88 PER H SHARE FOR ITS GLOBAL OFFERING OF 72.9 MLN H SHARES, WITH THE NUMBER OF INTERNATIONAL OFFER SHARES AT 65.6 MLN
-- 09/21 07:10 [financialjuice] Shenzhen Kinwong Electronic announces 65.6 million international H-share offer
-- 09/21 07:10 [FirstSquawk] ROBOTECHNIK INTELLIGENT TECHNOLOGY HAS SET A MAXIMUM OFFER PRICE OF HK$436.00 PER H SHARE FOR ITS GLOBAL OFFERING OF 11.9 MLN H SHARES, WITH THE NUMBER OF INTERNATIONAL OFFER SHARES AT 10.7 MLN
-- 09/21 07:10 [FirstSquawk] RED AVENUE NEW MATERIALS GROUP HAS SET A MAXIMUM OFFER PRICE OF HK$44.00 PER H SHARE FOR ITS GLOBAL OFFERING OF 68.1 MLN H SHARES, WITH THE NUMBER OF INTERNATIONAL OFFER SHARES AT 61.3 MLN
-- 09/21 07:12 [financialjuice] Direct Drive Tech: number of shares offered in global placement 50 million H shares
-- 09/21 07:12 [financialjuice] Direct drive tech: offer price hk$21.60 per H share for international offering
-- 09/21 07:13 [FirstSquawk] DIRECT DRIVE TECH HAS SET AN OFFER PRICE OF HK$21.60 PER H SHARE FOR ITS GLOBAL OFFERING OF 50 MLN H SHARES, WITH THE NUMBER OF INTERNATIONAL OFFER SHARES AT 47.5 MLN
 - 09/21 07:56 [FirstSquawk] YEMENI FORCES ADVANCING IN TAIZ, REPORTEDLY ENCIRCLING AREA - IRNA
 - 09/21 08:41 [FirstSquawk] JAPAN PM TAKAICHI CABINET APPROVAL UNCHANGED AT 62% - NIKKEI POLL
 - 09/21 08:41 [FirstSquawk] CHINA TRADE ENVOY LI CHENGGANG SAYS US-CHINA TRADE TALKS WERE “NOT BAD”; BOTH SIDES DISCUSSED TRADE, INVESTMENT & AI
@@ -646,3 +629,7 @@
 - 09/22 06:35 [financialjuice] EU's Kallas: We aim for swift rollover of EU sanctions
 - 09/22 06:36 [financialjuice] EU's Kallas: EU naval mission in Red Sea requires additional naval, air resources
 - 09/22 06:36 [financialjuice] EU's Kallas: more than 10 vessels needed in Red Sea
+- 09/22 07:07 [financialjuice] Transportation Secretary Duffy: telecom lines fixed, all northeast airport operations restarting
+- 09/22 07:08 [financialjuice] Shenzhen Camsense Technologies sets offer price at HK$58.85 per H share under global offering
+- 09/22 07:08 [financialjuice] Shenzhen Camsense Technologies plans 10.4 million H-shares in global international offer
+- 09/22 07:08 [FirstSquawk] BP’S 440,000-BPD WHITING REFINERY RETURNS TO NORMAL OPERATIONS AFTER PLANNED MAINTENANCE
