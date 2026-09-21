@@ -7,38 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 05:44 JST／対象: 09/21 23:44 〜 09/22 05:44 JST（時刻はすべて日本時間）
+生成: 2026-09-22 05:58 JST／対象: 09/21 23:58 〜 09/22 05:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/21 23:45 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 88 | 09/21 23:46 | 09/22 05:28 | 38分（01:55→02:34） |
-| financialjuice | 86 | 09/21 23:46 | 09/22 05:18 | 34分（01:57→02:32） |
+| DeItaone | 11 | 09/22 00:02 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 87 | 09/22 00:08 | 09/22 05:53 | 38分（01:55→02:34） |
+| financialjuice | 83 | 09/22 00:00 | 09/22 05:18 | 34分（01:57→02:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 186 行（統合前 195 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 176 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 23:45 [DeItaone] *VANCE ON IRAN: WILL BE FURTHER DISCUSSION AT UN: POOL REPORT
-- 09/21 23:45 [DeItaone] *VANCE ON IRAN: OIL IS STILL FLOWING: POOL REPORT
-- 09/21 23:45 [DeItaone] *VANCE ON IRAN: GOING TO TRY TO PROTECT US NAVY: POOL REPORT
-- 09/21 23:46 [FirstSquawk] VANCE: ENERGY PRICES ARE ELEVATED BECAUSE OF IRAN: POOL REPORT
-- 09/21 23:46 [financialjuice] US VP Vance: Energy prices are elevated because of iran.
-- 09/21 23:47 [DeItaone/FirstSquawk] - TRUMP: UNITED STATES IS WORKING ON A MASSIVE DEAL WITH RESPECT TO PURCHASE OF POTASH FROM BELARUS
-- 09/21 23:48 [FirstSquawk] Trump on truth social United States is working on a massive Deal with respect to the purchase of Potash from Belarus. The pricing would be for substantially less than we are currently paying to Canada, very good news for our Farmers and Ran…
-- 09/21 23:48 [financialjuice] Trump: Belarus Potash to cost less than canada supply - Truth Social
-- 09/21 23:48 [DeItaone] TRUMP: PRICING WOULD BE FOR SUBSTANTIALLY LESS THAN WE ARE CURRENTLY PAYING TO CANADA
-- 09/21 23:50 [DeItaone] TRUMP EYES MAJOR BELARUS POTASH DEAL President Trump says the U.S. is working on a large-scale agreement to buy potash from Belarus. Trump says the fertilizer would be purchased at substantially lower prices than current Canadian supplies, …
-- 09/21 23:54 [DeItaone] SURGING FUEL PRICES COULD HIT U.S. INFLATION EXPECTATIONS U.S. diesel prices have surged to nearly $6.50, roughly 18% above August’s average, while gasoline has climbed to $4.48. Consumer surveys have yet to fully capture the latest spike, …
-- 09/21 23:56 [FirstSquawk] USTR AMBASSADOR GREER SAYS BOEING IS MAKING PROGRESS ON FINALIZING 200 CHINESE AIRPLANE ORDERS ANNOUNCED EARLIER THIS YEAR -- FOX INTERVIEW
-- 09/21 23:57 [financialjuice/DeItaone] Total CEO: Too much refining is offline ahead of winter.
-- 09/21 23:57 [DeItaone] - FRENCH 5-YEAR CDS TOP 45 BPS TO HIT HIGHEST SINCE MARCH 2020, LSEG DATA SHOWS
 - 09/22 00:00 [financialjuice] Mexico's President Sheinbaum: The government is looking for ways to reduce imports from other nations and buy more goods from the US.
+- 09/22 00:02 [DeItaone] TOTAL CEO: TOO MUCH REFINING IS OFFLINE AHEAD OF WINTER
 - 09/22 00:05 [financialjuice] BoC's Gov. Macklem: If oil prices stay near $100 a barrel, we'd expect inflation to edge up in the coming months.
 - 09/22 00:05 [financialjuice] BoC's Gov. Macklem: Fuel prices have risen more than we'd normally expect, reflecting damage to global refining capacity.
 - 09/22 00:05 [financialjuice] BoC's Gov. Macklem: If new US tariffs remain in place, Q4 growth could be roughly halved to below 1%.
@@ -210,3 +197,6 @@
 - 09/22 05:15 [financialjuice] Iran’s Foreign Minister Araghchi arrives in New York to attend UN General Assembly - IRNA
 - 09/22 05:18 [financialjuice] WATCH LIVE: Trump Meets With Mayor Zohran Mamdani In New York City
 - 09/22 05:28 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI ARRIVES IN NEW YORK TO ATTEND UN GENERAL ASSEMBLY - IRANIAN MEDIA
+- 09/22 05:52 [FirstSquawk] THE ROYAL CANADIAN MINT HAS ANNOUNCED A FOLLOW-ON OFFERING OF GOLD EXCHANGE-TRADED RECEIPTS, WITH NET PROCEEDS TO BE USED TO PURCHASE GOLD BULLION.
+- 09/22 05:52 [FirstSquawk] THE ROYAL CANADIAN MINT SAYS ETR HOLDERS ARE ENTITLED TO REDEEM FOR GOLD BULLION WITH A MINIMUM PURITY OF 99.99% OR FOR CASH.
+- 09/22 05:53 [FirstSquawk] US SECRETARY OF STATE RUBIO, KENYA PRESIDENT RUTO: DISCUSS CRITICAL MINERALS IN MEETING - SOURCES
