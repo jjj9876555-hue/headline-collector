@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 19:54 JST／対象: 09/20 19:54 〜 09/21 19:54 JST（時刻はすべて日本時間）
+生成: 2026-09-21 20:17 JST／対象: 09/20 20:17 〜 09/21 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 248 | 09/20 20:15 | 09/21 19:42 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 133 | 09/20 20:37 | 09/21 19:53 | ⚠ 127分（21:07→23:15） |
+| DeItaone | 3 | 09/20 23:29 | 09/21 20:05 | ⚠ 1222分（23:43→20:05） |
+| FirstSquawk | 243 | 09/20 20:38 | 09/21 20:13 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 134 | 09/20 20:37 | 09/21 20:02 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 376 行（統合前 385 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 373 行（統合前 382 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 20:15 [FirstSquawk] Israeli army: A person who attempted a car-ramming attack targeting soldiers in the West Bank was neutralized.
-- 09/20 20:15 [FirstSquawk] Israeli settler wounded in the shooting attack in Neve Tzuf, in the central West Bank, has died.
-- 09/20 20:15 [FirstSquawk] Iranian media: Army leadership warns of US plans to attack Iran
-- 09/20 20:16 [FirstSquawk] Lebanese News Agency: Israeli shelling targets the town of Mansouri in southern Lebanon
-- 09/20 20:16 [FirstSquawk] Lebanese News Agency: Olive groves and citrus orchards in the vicinity of Majdal Zoun and Beit Siyad towns were set ablaze with phosphorus bombs in the south of the country.
-- 09/20 20:16 [FirstSquawk] Russian Central Election Commission: Voter turnout in Duma elections exceeded 50%
-- 09/20 20:16 [FirstSquawk] Netanyahu, commenting on the shooting attacks in the West Bank: No one is immune from punishment, whether in Gaza, Lebanon, or the West Bank.
-- 09/20 20:16 [FirstSquawk] Netanyahu orders increased military presence in the West Bank, imposing closures, carrying out arrest campaigns, and demolishing the home of the perpetrator.
 - 09/20 20:37 [financialjuice/FirstSquawk] Trump: at strong request of US military and for national security, agrees to transform triumphal arch into a high-level military complex
 - 09/20 20:38 [FirstSquawk] Israeli Army Radio: The number of battalions deployed in the West Bank and Central Command is 27, the highest since the beginning of the war.
 - 09/20 20:38 [FirstSquawk] Israeli Defense Minister: The army and security forces are on high alert to protect the borders and Israelis everywhere
@@ -400,3 +392,8 @@
 - 09/21 19:36 [FirstSquawk] Chicago Fed’s Goolsbee Restoring Price Stability Won’t Be Painless Chicago Federal Reserve President Austan Goolsbee warned that returning inflation to the central bank's 2% target will be a challenging process, driven by persistent supply …
 - 09/21 19:42 [FirstSquawk] BITCOIN HITS HIGHEST SINCE JANUARY 29, AT $85,117.89, LAST UP 4% PCT
 - 09/21 19:53 [financialjuice] Fed's Goolsbee: The Fed must have fortitude to confront inflation
+- 09/21 20:02 [financialjuice] Fed's Goolsbee: Optimistic that the Fed could get back on a path of 2% as long as there is no more evidence of demand overheating.
+- 09/21 20:05 [DeItaone] U.S. DIESEL HITS RECORD $6.51 A GALLON U.S. diesel prices have surged to a record $6.51 a gallon, according to AAA. Prices are being driven higher by prolonged disruptions to Middle East energy flows and Russian refineries, tightening globa…
+- 09/21 20:08 [FirstSquawk] NISSAN EYES INCREASING US PRODUCTION AS NEW ROGUE HYBRID LAUNCHES – CNBC
+- 09/21 20:12 [FirstSquawk] FED GOOLSBEE: ARGUMENTS THE FED SHOULD CHEAPEN FEDERAL BORROWING COSTS ARE ONE OF THE REASONS FED INDEPENDENCE IS IMPORTANT
+- 09/21 20:13 [FirstSquawk] FED GOOLSBEE: IF FISCAL POLICY IS DRVING UP INFLATION THE FED HAS TO TAKE IT INTO ACCOUNT

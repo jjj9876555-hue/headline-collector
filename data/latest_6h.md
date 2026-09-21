@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 19:54 JST／対象: 09/21 13:54 〜 09/21 19:54 JST（時刻はすべて日本時間）
+生成: 2026-09-21 20:17 JST／対象: 09/21 14:17 〜 09/21 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 64 | 09/21 13:55 | 09/21 19:42 | 37分（16:20→16:58） |
-| financialjuice | 25 | 09/21 14:14 | 09/21 19:53 | ⚠ 81分（17:11→18:32） |
+| DeItaone | 1 | 09/21 20:05 | 09/21 20:05 | - |
+| FirstSquawk | 62 | 09/21 14:25 | 09/21 20:13 | 37分（16:20→16:58） |
+| financialjuice | 23 | 09/21 15:05 | 09/21 20:02 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 88 行（統合前 91 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 85 行（統合前 88 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 13:55 [FirstSquawk] Typhoon nears Japan’s eastern coast, bringing threat of heavy rain and strong winds — Kyodo
-- 09/21 14:04 [FirstSquawk] South Korea takes bronze in men’s rifle team competition, falls short in individual events — Yonhap
-- 09/21 14:05 [FirstSquawk] Microsoft expands India cloud footprint with launch of fourth region in South Central India — Conference
-- 09/21 14:10 [FirstSquawk] Thai finance minister plans to seek Tuesday approval to extend consumer subsidy scheme
-- 09/21 14:14 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Ukraine's Odesa port
-- 09/21 14:15 [financialjuice] Iran’s Revolutionary Guards spokesperson: any new strike will prompt Tehran to alter war geography and armaments - Fars News
-- 09/21 14:15 [FirstSquawk] IRGC warns Iran would alter war geography and weaponry in response to any new attack — Fars News
-- 09/21 14:15 [financialjuice] Russian defence ministry: Russian forces also target logistics centres, warehouses and Ukrainian ports - TASS
 - 09/21 14:25 [FirstSquawk] Berenberg hikes Softcat price target to 2,400p from 1,950p
 - 09/21 14:34 [FirstSquawk] Strong chip recovery drives greater trade dependence in South Korea in 2024 — Yonhap
 - 09/21 14:43 [FirstSquawk] South Korea’s central bank launches pilot for 24-hour offshore won settlement — Yonhap
@@ -112,3 +104,8 @@
 - 09/21 19:36 [FirstSquawk] Chicago Fed’s Goolsbee Restoring Price Stability Won’t Be Painless Chicago Federal Reserve President Austan Goolsbee warned that returning inflation to the central bank's 2% target will be a challenging process, driven by persistent supply …
 - 09/21 19:42 [FirstSquawk] BITCOIN HITS HIGHEST SINCE JANUARY 29, AT $85,117.89, LAST UP 4% PCT
 - 09/21 19:53 [financialjuice] Fed's Goolsbee: The Fed must have fortitude to confront inflation
+- 09/21 20:02 [financialjuice] Fed's Goolsbee: Optimistic that the Fed could get back on a path of 2% as long as there is no more evidence of demand overheating.
+- 09/21 20:05 [DeItaone] U.S. DIESEL HITS RECORD $6.51 A GALLON U.S. diesel prices have surged to a record $6.51 a gallon, according to AAA. Prices are being driven higher by prolonged disruptions to Middle East energy flows and Russian refineries, tightening globa…
+- 09/21 20:08 [FirstSquawk] NISSAN EYES INCREASING US PRODUCTION AS NEW ROGUE HYBRID LAUNCHES – CNBC
+- 09/21 20:12 [FirstSquawk] FED GOOLSBEE: ARGUMENTS THE FED SHOULD CHEAPEN FEDERAL BORROWING COSTS ARE ONE OF THE REASONS FED INDEPENDENCE IS IMPORTANT
+- 09/21 20:13 [FirstSquawk] FED GOOLSBEE: IF FISCAL POLICY IS DRVING UP INFLATION THE FED HAS TO TAKE IT INTO ACCOUNT

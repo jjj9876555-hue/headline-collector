@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 19:54 JST／対象: 09/21 07:54 〜 09/21 19:54 JST（時刻はすべて日本時間）
+生成: 2026-09-21 20:17 JST／対象: 09/21 08:17 〜 09/21 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 147 | 09/21 07:56 | 09/21 19:42 | 45分（07:56→08:41） |
-| financialjuice | 55 | 09/21 08:49 | 09/21 19:53 | ⚠ 81分（17:11→18:32） |
+| DeItaone | 1 | 09/21 20:05 | 09/21 20:05 | - |
+| FirstSquawk | 149 | 09/21 08:41 | 09/21 20:13 | 37分（16:20→16:58） |
+| financialjuice | 56 | 09/21 08:49 | 09/21 20:02 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 201 行（統合前 204 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 205 行（統合前 208 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 07:56 [FirstSquawk] YEMENI FORCES ADVANCING IN TAIZ, REPORTEDLY ENCIRCLING AREA - IRNA
 - 09/21 08:41 [FirstSquawk] JAPAN PM TAKAICHI CABINET APPROVAL UNCHANGED AT 62% - NIKKEI POLL
 - 09/21 08:41 [FirstSquawk] CHINA TRADE ENVOY LI CHENGGANG SAYS US-CHINA TRADE TALKS WERE “NOT BAD”; BOTH SIDES DISCUSSED TRADE, INVESTMENT & AI
 - 09/21 08:49 [financialjuice] US Treasury Secretary Bessent: had a very successful engagement with Chinese on trade and AI
@@ -225,3 +224,8 @@
 - 09/21 19:36 [FirstSquawk] Chicago Fed’s Goolsbee Restoring Price Stability Won’t Be Painless Chicago Federal Reserve President Austan Goolsbee warned that returning inflation to the central bank's 2% target will be a challenging process, driven by persistent supply …
 - 09/21 19:42 [FirstSquawk] BITCOIN HITS HIGHEST SINCE JANUARY 29, AT $85,117.89, LAST UP 4% PCT
 - 09/21 19:53 [financialjuice] Fed's Goolsbee: The Fed must have fortitude to confront inflation
+- 09/21 20:02 [financialjuice] Fed's Goolsbee: Optimistic that the Fed could get back on a path of 2% as long as there is no more evidence of demand overheating.
+- 09/21 20:05 [DeItaone] U.S. DIESEL HITS RECORD $6.51 A GALLON U.S. diesel prices have surged to a record $6.51 a gallon, according to AAA. Prices are being driven higher by prolonged disruptions to Middle East energy flows and Russian refineries, tightening globa…
+- 09/21 20:08 [FirstSquawk] NISSAN EYES INCREASING US PRODUCTION AS NEW ROGUE HYBRID LAUNCHES – CNBC
+- 09/21 20:12 [FirstSquawk] FED GOOLSBEE: ARGUMENTS THE FED SHOULD CHEAPEN FEDERAL BORROWING COSTS ARE ONE OF THE REASONS FED INDEPENDENCE IS IMPORTANT
+- 09/21 20:13 [FirstSquawk] FED GOOLSBEE: IF FISCAL POLICY IS DRVING UP INFLATION THE FED HAS TO TAKE IT INTO ACCOUNT
