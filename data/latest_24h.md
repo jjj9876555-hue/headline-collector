@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 00:23 JST／対象: 09/21 00:23 〜 09/22 00:23 JST（時刻はすべて日本時間）
+生成: 2026-09-22 00:42 JST／対象: 09/21 00:42 〜 09/22 00:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 09/21 20:05 | 09/22 00:21 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 256 | 09/21 00:40 | 09/22 00:15 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 226 | 09/21 00:51 | 09/22 00:18 | ⚠ 114分（05:13→07:07） |
+| DeItaone | 50 | 09/21 20:05 | 09/22 00:38 | ⚠ 81分（21:22→22:44） |
+| FirstSquawk | 257 | 09/21 00:49 | 09/22 00:38 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 235 | 09/21 00:51 | 09/22 00:40 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 520 行（統合前 535 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 532 行（統合前 547 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 00:40 [FirstSquawk] Iraqi media outlets, quoting a security source, reported that what happened near Erbil airport was a controlled explosion and not an attack.
-- 09/21 00:40 [FirstSquawk] US Central Command: We rerouted 109 commercial vessels to ensure full compliance since the start of the embargo on Iran.
-- 09/21 00:40 [FirstSquawk] Israeli Chief of Staff: The army is on high alert, deployed and ready with reinforced forces on all fronts.
 - 09/21 00:49 [FirstSquawk] Iranian President: We will welcome any talks that lead to lasting security and peace, and we need unity of purpose in this endeavor.
 - 09/21 00:51 [financialjuice] US Pacific Command on North Korea missile launches: aware of recent launches, consulting closely with allies and partners
 - 09/21 01:00 [financialjuice] Germany's centre-left SPD forecast at 35.5% in Mecklenburg-Western Pomerania state vote: exit poll
@@ -544,3 +541,18 @@
 - 09/22 00:15 [financialjuice] Fed bids for 6-month bills total $5.3 bln.
 - 09/22 00:18 [financialjuice] Moscow Oil Refinery has halted operations after a Ukrainian drone attack on September 20th - Sources.
 - 09/22 00:21 [DeItaone] UKRAINIAN DRONE STRIKE SHUTS MAJOR MOSCOW REFINERY Gazprom Neft’s Moscow refinery has halted crude processing after a Ukrainian drone attack sparked fires at both primary distillation units. Repairs could take several weeks, according to Re…
+- 09/22 00:31 [FirstSquawk] RUSSIAN PRESIDENT PUTIN PLANS TO ATTEND XI’S APEC SUMMIT, SKIP G20 WITH TRUMP
+- 09/22 00:32 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.77 (FORECAST -, PREVIOUS 2.640) $MACRO
+- 09/22 00:32 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 4.015% (FORECAST -, PREVIOUS 3.970%) $MACRO
+- 09/22 00:32 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 4.155% (FORECAST -, PREVIOUS 4.060%) $MACRO
+- 09/22 00:32 [financialjuice] US 6-MONTH BILL BID-TO-COVER ACTUAL 2.62 (FORECAST -, PREVIOUS 2.740) $MACRO
+- 09/22 00:32 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 48.010% (FORECAST -, PREVIOUS 82.500%) $MACRO
+- 09/22 00:32 [FirstSquawk] FRANCE'S CAC 40 UP 0.96%; SPAIN'S IBEX UP 1.16%
+- 09/22 00:32 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 36.660% (FORECAST -, PREVIOUS 13.860%) $MACRO
+- 09/22 00:32 [financialjuice] US 3-Month Bill Auction High Yield 4.015% Bid-to-cover 2.77 US sells $92 bln Awards 36.66% of bids at high
+- 09/22 00:33 [financialjuice] US 6-Month Bill Auction High Yield 4.155% Bid-to-cover 2.62 Sells $79 bln Awards 48.01% of bids at high
+- 09/22 00:33 [DeItaone] VENEZUELAN DELEGATION LED BY INTERIM PRESIDENT RODRIGUEZ TO DISCUSS ENERGY, DEBT AND MINING WITH COUNTERPARTIES IN US, AGREEMENTS COULD BE SIGNED, SOURCES SAY
+- 09/22 00:33 [FirstSquawk] US: REDIRECTED 110 COMMERCIAL VESSELS IN HORMUZ AS OF SEPT.21
+- 09/22 00:38 [FirstSquawk] U.S. DIESEL PRICES HAVE REACHED A RECORD HIGH OVER $6.50, ACCORDING TO AAA.
+- 09/22 00:38 [DeItaone] GOP SCRAMBLES AS DIESEL HITS RECORD $6.51 Republicans are weighing a diesel export ban and gas-tax holiday as surging fuel costs pressure consumers and farmers ahead of the midterms. (The Wall Street Journal) But Congress has little time to…
+- 09/22 00:40 [financialjuice] Advisor to Iraq's Najaf Governor: Initial oil production from the Al-Qarnayn field, in partnership with China's Xinhua, to begin at the start of 2027 - IRNA

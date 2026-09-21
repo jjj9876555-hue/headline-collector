@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 00:23 JST／対象: 09/21 18:23 〜 09/22 00:23 JST（時刻はすべて日本時間）
+生成: 2026-09-22 00:42 JST／対象: 09/21 18:42 〜 09/22 00:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 09/21 20:05 | 09/22 00:21 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 93 | 09/21 18:23 | 09/22 00:15 | 26分（19:42→20:08） |
-| financialjuice | 129 | 09/21 18:32 | 09/22 00:18 | ⚠ 67分（20:02→21:10） |
+| DeItaone | 50 | 09/21 20:05 | 09/22 00:38 | ⚠ 81分（21:22→22:44） |
+| FirstSquawk | 93 | 09/21 18:54 | 09/22 00:38 | 26分（19:42→20:08） |
+| financialjuice | 135 | 09/21 18:55 | 09/22 00:40 | ⚠ 67分（20:02→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 262 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 270 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 18:23 [FirstSquawk] India’s Oil Buyers May Weigh Cutting Russian Cargoes Amid New US Sanctions Indian refiners are considering reducing their purchases of Russian crude for November delivery following a sweeping US sanctions law signed last week. The legislati…
-- 09/21 18:32 [financialjuice] UKMTO: Received report of incident involving vessel transiting through the Strait of Hormuz
-- 09/21 18:33 [FirstSquawk] UKMTO: MILITARY AUTHORITIES REPORT VESSEL STRUCK BY UNKNOWN PROJECTILE IN HORMUZ || RECEIVES REPORT OF INCIDENT 07:30 UTC 21 SEP, INVOLVING VESSEL TRANSITING HORMUZ || TWO CREW SUSTAINED MINOR INJURIES, VESSEL CONTINUING TO NEXT PORT OF CAL…
-- 09/21 18:34 [financialjuice] UKMTO: Military authorities informed that a tanker inbound was struck by a projectile. Two crew members sustained minor injuries; the vessel is reported to be continuing to its next port of call
-- 09/21 18:36 [financialjuice] German Government spokesperson: fuel price relief planned from October 1st
-- 09/21 18:38 [FirstSquawk] GERMAN LABOR MINISTER SAYS GOVERNMENT NEEDS TO REVISIT REFORM PLANS
-- 09/21 18:38 [FirstSquawk] GERMANY GOV’T SPOX SAYS FUEL PRICE RELIEF PLANNED FROM OCTOBER 1
 - 09/21 18:54 [FirstSquawk] GERMAN FIN MIN: GERMANY NEEDS PENSION REFORM
 - 09/21 18:54 [FirstSquawk] GERMAN GOVERNMENT SPOX: EU COMMISSION IS EXPECTED TO PRESENT PROPOSAL ON WINDFALL PROFIT TAX
 - 09/21 18:54 [FirstSquawk] GERMAN ECONOMY MINISTRY SPOX: DETAILS OF FUEL PRICE CAP ARE STILL BEING WORKED OUT
@@ -286,3 +279,18 @@
 - 09/22 00:15 [financialjuice] Fed bids for 6-month bills total $5.3 bln.
 - 09/22 00:18 [financialjuice] Moscow Oil Refinery has halted operations after a Ukrainian drone attack on September 20th - Sources.
 - 09/22 00:21 [DeItaone] UKRAINIAN DRONE STRIKE SHUTS MAJOR MOSCOW REFINERY Gazprom Neft’s Moscow refinery has halted crude processing after a Ukrainian drone attack sparked fires at both primary distillation units. Repairs could take several weeks, according to Re…
+- 09/22 00:31 [FirstSquawk] RUSSIAN PRESIDENT PUTIN PLANS TO ATTEND XI’S APEC SUMMIT, SKIP G20 WITH TRUMP
+- 09/22 00:32 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.77 (FORECAST -, PREVIOUS 2.640) $MACRO
+- 09/22 00:32 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 4.015% (FORECAST -, PREVIOUS 3.970%) $MACRO
+- 09/22 00:32 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 4.155% (FORECAST -, PREVIOUS 4.060%) $MACRO
+- 09/22 00:32 [financialjuice] US 6-MONTH BILL BID-TO-COVER ACTUAL 2.62 (FORECAST -, PREVIOUS 2.740) $MACRO
+- 09/22 00:32 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 48.010% (FORECAST -, PREVIOUS 82.500%) $MACRO
+- 09/22 00:32 [FirstSquawk] FRANCE'S CAC 40 UP 0.96%; SPAIN'S IBEX UP 1.16%
+- 09/22 00:32 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 36.660% (FORECAST -, PREVIOUS 13.860%) $MACRO
+- 09/22 00:32 [financialjuice] US 3-Month Bill Auction High Yield 4.015% Bid-to-cover 2.77 US sells $92 bln Awards 36.66% of bids at high
+- 09/22 00:33 [financialjuice] US 6-Month Bill Auction High Yield 4.155% Bid-to-cover 2.62 Sells $79 bln Awards 48.01% of bids at high
+- 09/22 00:33 [DeItaone] VENEZUELAN DELEGATION LED BY INTERIM PRESIDENT RODRIGUEZ TO DISCUSS ENERGY, DEBT AND MINING WITH COUNTERPARTIES IN US, AGREEMENTS COULD BE SIGNED, SOURCES SAY
+- 09/22 00:33 [FirstSquawk] US: REDIRECTED 110 COMMERCIAL VESSELS IN HORMUZ AS OF SEPT.21
+- 09/22 00:38 [FirstSquawk] U.S. DIESEL PRICES HAVE REACHED A RECORD HIGH OVER $6.50, ACCORDING TO AAA.
+- 09/22 00:38 [DeItaone] GOP SCRAMBLES AS DIESEL HITS RECORD $6.51 Republicans are weighing a diesel export ban and gas-tax holiday as surging fuel costs pressure consumers and farmers ahead of the midterms. (The Wall Street Journal) But Congress has little time to…
+- 09/22 00:40 [financialjuice] Advisor to Iraq's Najaf Governor: Initial oil production from the Al-Qarnayn field, in partnership with China's Xinhua, to begin at the start of 2027 - IRNA
