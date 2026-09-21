@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 09:50 JST／対象: 09/21 03:50 〜 09/21 09:50 JST（時刻はすべて日本時間）
+生成: 2026-09-21 10:01 JST／対象: 09/21 04:01 〜 09/21 10:01 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 49 | 09/21 05:00 | 09/21 09:46 | 45分（07:56→08:41） |
-| financialjuice | 23 | 09/21 04:48 | 09/21 09:16 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 51 | 09/21 05:00 | 09/21 09:57 | 45分（07:56→08:41） |
+| financialjuice | 24 | 09/21 04:48 | 09/21 10:00 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 71 行（統合前 72 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 74 行（統合前 75 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -95,3 +95,6 @@
 - 09/21 09:30 [FirstSquawk] Trump administration prepares sweeping sanctions against ICC, WSJ reports
 - 09/21 09:35 [FirstSquawk] Oil tanker crunch risks keeping gas prices higher for longer — WSJ
 - 09/21 09:46 [FirstSquawk] Kashkari says US inflation is still elevated across all aspects of the economy — FXStreet
+- 09/21 09:51 [FirstSquawk] Drug seizures by Hong Kong customs rise nearly 50% in H1 — SCMP
+- 09/21 09:57 [FirstSquawk] Warehouse complex near Kyiv catches fire after Russian drone strike — CBS
+- 09/21 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
