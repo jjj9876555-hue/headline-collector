@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 01:33 JST／対象: 09/21 01:33 〜 09/22 01:33 JST（時刻はすべて日本時間）
+生成: 2026-09-22 01:51 JST／対象: 09/21 01:51 〜 09/22 01:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/21 20:05 | 09/22 00:54 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 271 | 09/21 01:41 | 09/22 01:29 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 233 | 09/21 02:22 | 09/22 01:23 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 273 | 09/21 02:12 | 09/22 01:51 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 240 | 09/21 02:22 | 09/22 01:47 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 546 行（統合前 564 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 555 行（統合前 573 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 01:41 [FirstSquawk] German Chancellor acknowledges a "disaster" for his party following the far-right's gains in local elections.
-- 09/21 01:47 [FirstSquawk] Combined Maritime Information Center: The US Navy facilitated 97 transits through the Strait of Hormuz in the past 72 hours.
 - 09/21 02:12 [FirstSquawk] TRUMP TO VISIT MAMDANI IN NEW YORK CITY ON MONDAY — NYT
 - 09/21 02:12 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS THE ELECTION OUTCOME IN MECKLENBURG-WESTERN POMERANIA IS A 'CATASTROPHE', WITH TWO STATE BALLOTS TODAY PRODUCING VASTLY DIFFERENT RESULTS, AS THE CONSERVATIVE CDU POLLS AT 5.1% IN MECKLENBURG-WESTERN POMERANIA…
 - 09/21 02:12 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS 'CHANGE IS NECESSARY' AND THAT 'GERMANY MUST BECOME A LAND OF FRESH STARTS', WARNING THAT CONFIDENCE IN THE COUNTRY'S INSTITUTIONS IS WANING, THAT THE STATE HAS GROWN 'OVERLY COMPLEX' AND THAT 'WE CAN'T RETURN…
@@ -570,3 +568,14 @@
 - 09/22 01:23 [financialjuice] American diplomats met with senior Houthi officials and received assurances from them that the armed rebel organization had no intention of closing the Bab al-Mandab Strait - Israel's N12 News
 - 09/22 01:29 [FirstSquawk] L3HARRIS TECHNOLOGIES: SIGNS MULTI-YEAR AGREEMENT WITH NAVAL AIR WARFARE CENTER TO INCREASE TOMAHAWK MISSILE PRODUCTION
 - 09/22 01:29 [FirstSquawk] NASDAQ 100 INDEX EXTENDS GAIN 2.5%
+- 09/22 01:35 [FirstSquawk] BANK OF CANADA GOVERNOR MACKLEM SAYS NEW ERA OF UNCERTAINTY IS NOT GOING AWAY ANY TIME SOON
+- 09/22 01:35 [financialjuice] BoC's Gov. Macklem: A new era of uncertainty is not going away any time soon.
+- 09/22 01:38 [financialjuice] BoC's Gov. Macklem Speaks - WATCH LIVE
+- 09/22 01:43 [financialjuice] BoC's Gov. Macklem: It could take some time for higher fuel margins to normalise, that is a worry.
+- 09/22 01:44 [FirstSquawk] BOC'S MACKLEM: THAT IS A WORRY BECAUSE THAT WILL ADD PERSISTENCE TO HEADLINE INFLATION
+- 09/22 01:45 [financialjuice] BoC's Gov. Macklem: We have cut Q4 annualized growth forecast to 0.75%.
+- 09/22 01:46 [financialjuice] BoC's Gov. Macklem: I expect inflation to drift up a little higher in the coming months.
+- 09/22 01:47 [financialjuice] BoC's Gov. Macklem: The key thing we're going to be looking at is our inflation forecast.
+- 09/22 01:47 [financialjuice] BoC's Gov. Macklem: The question is, is the current rate the right one, or do we need to raise it?
+- 09/22 01:50 [FirstSquawk] BOC'S MACKLEM: INFLATION FORECAST IS KEY THING BOC WILL BE LOOKING AT
+- 09/22 01:51 [FirstSquawk] LILLY CAPTURING 70% OF SENIORS STARTING GLP-1S: CEO DAVE RICKS

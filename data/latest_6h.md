@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 01:33 JST／対象: 09/21 19:33 〜 09/22 01:33 JST（時刻はすべて日本時間）
+生成: 2026-09-22 01:51 JST／対象: 09/21 19:51 〜 09/22 01:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/21 20:05 | 09/22 00:54 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 91 | 09/21 19:36 | 09/22 01:29 | 26分（19:42→20:08） |
-| financialjuice | 149 | 09/21 19:53 | 09/22 01:23 | ⚠ 67分（20:02→21:10） |
+| FirstSquawk | 93 | 09/21 20:08 | 09/22 01:51 | 16分（00:15→00:31） |
+| financialjuice | 156 | 09/21 19:53 | 09/22 01:47 | ⚠ 67分（20:02→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 284 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 293 行（統合前 307 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 19:36 [FirstSquawk] Chicago Fed’s Goolsbee Restoring Price Stability Won’t Be Painless Chicago Federal Reserve President Austan Goolsbee warned that returning inflation to the central bank's 2% target will be a challenging process, driven by persistent supply …
-- 09/21 19:42 [FirstSquawk] BITCOIN HITS HIGHEST SINCE JANUARY 29, AT $85,117.89, LAST UP 4% PCT
 - 09/21 19:53 [financialjuice] Fed's Goolsbee: The Fed must have fortitude to confront inflation
 - 09/21 20:02 [financialjuice] Fed's Goolsbee: Optimistic that the Fed could get back on a path of 2% as long as there is no more evidence of demand overheating.
 - 09/21 20:05 [DeItaone] U.S. DIESEL HITS RECORD $6.51 A GALLON U.S. diesel prices have surged to a record $6.51 a gallon, according to AAA. Prices are being driven higher by prolonged disruptions to Middle East energy flows and Russian refineries, tightening globa…
@@ -308,3 +306,14 @@
 - 09/22 01:23 [financialjuice] American diplomats met with senior Houthi officials and received assurances from them that the armed rebel organization had no intention of closing the Bab al-Mandab Strait - Israel's N12 News
 - 09/22 01:29 [FirstSquawk] L3HARRIS TECHNOLOGIES: SIGNS MULTI-YEAR AGREEMENT WITH NAVAL AIR WARFARE CENTER TO INCREASE TOMAHAWK MISSILE PRODUCTION
 - 09/22 01:29 [FirstSquawk] NASDAQ 100 INDEX EXTENDS GAIN 2.5%
+- 09/22 01:35 [FirstSquawk] BANK OF CANADA GOVERNOR MACKLEM SAYS NEW ERA OF UNCERTAINTY IS NOT GOING AWAY ANY TIME SOON
+- 09/22 01:35 [financialjuice] BoC's Gov. Macklem: A new era of uncertainty is not going away any time soon.
+- 09/22 01:38 [financialjuice] BoC's Gov. Macklem Speaks - WATCH LIVE
+- 09/22 01:43 [financialjuice] BoC's Gov. Macklem: It could take some time for higher fuel margins to normalise, that is a worry.
+- 09/22 01:44 [FirstSquawk] BOC'S MACKLEM: THAT IS A WORRY BECAUSE THAT WILL ADD PERSISTENCE TO HEADLINE INFLATION
+- 09/22 01:45 [financialjuice] BoC's Gov. Macklem: We have cut Q4 annualized growth forecast to 0.75%.
+- 09/22 01:46 [financialjuice] BoC's Gov. Macklem: I expect inflation to drift up a little higher in the coming months.
+- 09/22 01:47 [financialjuice] BoC's Gov. Macklem: The key thing we're going to be looking at is our inflation forecast.
+- 09/22 01:47 [financialjuice] BoC's Gov. Macklem: The question is, is the current rate the right one, or do we need to raise it?
+- 09/22 01:50 [FirstSquawk] BOC'S MACKLEM: INFLATION FORECAST IS KEY THING BOC WILL BE LOOKING AT
+- 09/22 01:51 [FirstSquawk] LILLY CAPTURING 70% OF SENIORS STARTING GLP-1S: CEO DAVE RICKS
