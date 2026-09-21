@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 08:44 JST／対象: 09/21 20:44 〜 09/22 08:44 JST（時刻はすべて日本時間）
+生成: 2026-09-22 08:59 JST／対象: 09/21 20:59 〜 09/22 08:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 09/21 20:50 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 185 | 09/21 20:50 | 09/22 08:42 | 44分（06:24→07:08） |
+| DeItaone | 49 | 09/21 21:00 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 183 | 09/21 21:00 | 09/22 08:55 | 44分（06:24→07:08） |
 | financialjuice | 201 | 09/21 21:10 | 09/22 08:13 | 42分（07:30→08:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 426 行（統合前 444 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 419 行（統合前 437 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 20:50 [DeItaone] “STREAMFLATION” DRIVES MASS STREAMING CANCELLATIONS 39% of Americans canceled at least one streaming subscription over the past six months, up sharply from 29% in March, according to Ipsos. Repeated price hikes and broader cost-of-living pr…
-- 09/21 20:50 [FirstSquawk] MERZ SAYS REGIONAL ELECTION WAS 'DRAMATIC INCIDENT'
-- 09/21 20:51 [DeItaone] HORMUZ CRISIS SENDS TANKER RATES ABOVE $1 MILLION A DAY Supertanker rates on the Persian Gulf-to-China route have surged to $1.035 million per day, nearly 5x pre-war levels, as traffic through the Strait of Hormuz collapses. Only 17 commodi…
-- 09/21 20:51 [FirstSquawk] MORGAN STANLEY RAISES MARVELL TARGET PRICE TO $268.00 FROM $246.00
-- 09/21 20:52 [DeItaone] CNN, MS NOW AND POLITICO SUE TRUMP OVER WHITE HOUSE BAN CNN, MS NOW and Politico have sued the Trump administration after being barred from White House grounds. The outlets argue the ban violates their First Amendment rights and filed the c…
-- 09/21 20:55 [DeItaone] TRUMP DEFENDS WHITE HOUSE MEDIA CRACKDOWN President Trump says the White House is “not instituting an assault on the Free Press,” arguing instead that it is targeting what he calls “fake news.” Trump described such coverage as a “threat to …
-- 09/21 20:55 [FirstSquawk] TRUMP: WHITE HOUSE IS NOT INSTITUTING AN ASSAULT ON FREE PRESS
-- 09/21 20:55 [FirstSquawk] TRUMP: I CHERISH FREE PRESS
-- 09/21 20:55 [DeItaone] 🇺🇸 TRUMP’S MONDAY CALENDAR 8:00 AM — Executive Time 10:30 AM — Policy Meeting 11:30 AM — Policy Meeting 1:00 PM — Signing Time 1:45 PM — Ribbon Cutting Ceremony 4:10 PM — Meeting with NYC Mayor Zohran Mamdani 5:35 PM — Meeting with French P…
-- 09/21 20:55 [FirstSquawk] TRUMP CLAIMS WHITE HOUSE TARGETS 'FAKE NEWS', NOT FREE PRESS
 - 09/21 21:00 [FirstSquawk] HALLIBURTON SIGNS AGREEMENTS TO SUPPORT ENERGY DEVELOPMENT OPPORTUNITIES IN VENEZUELA
 - 09/21 21:00 [DeItaone] $TSLA - OPPENHEIMER: TESLA’S AI PIVOT PROGRESSING, OPTIMUS DELAYS LIKELY Oppenheimer reiterated its Perform rating on Tesla, highlighting progress as the company transforms into a vertically integrated “Physical AI” platform. The firm sees …
 - 09/21 21:01 [DeItaone] BESSENT: DISCUSSED ECONOMICS, AI WITH CHINA
@@ -450,3 +440,6 @@
 - 09/22 08:39 [FirstSquawk] CHINA IS FURTHER STRENGTHENING ITS DOMINANCE OF THE RARE-EARTH MAGNET SUPPLY CHAIN, WITH JL MAG RARE EARTH PLANNING UP TO 20,000 TONS OF ADDITIONAL ANNUAL CAPACITY BY 2028 AS ITS MAGNET PRODUCTION CONTINUES TO EXPAND.
 - 09/22 08:39 [FirstSquawk] CHINA ACCOUNTED FOR ABOUT 94% OF GLOBAL RARE-EARTH PERMANENT MAGNET MANUFACTURING IN 2024, WHILE U.S. EFFORTS TO BUILD DOMESTIC CAPACITY FACE SCALE AND COST CHALLENGES, KEEPING RARE-EARTH SUPPLIES CENTRAL TO U.S.-CHINA TRADE TALKS.
 - 09/22 08:42 [FirstSquawk] IRAN’S REVOLUTIONARY GUARD WARNS IT COULD EXPAND THE CONFLICT IF THE U.S. ESCALATES, SAYING IT IS PREPARED TO CHANGE ITS WEAPONS, TACTICS AND TARGETS FOR A PROLONGED CONFRONTATION. TENSIONS ALSO RISE AROUND THE STRAIT OF HORMUZ AFTER A TANK…
+- 09/22 08:47 [FirstSquawk] BOUNTY OIL AND GAS NL HAS ANNOUNCED A STRATEGIC ENTRY INTO DEEPWATER LIBERIA, ENTERING AN AGREEMENT TO BUY 100% OF PETROQUEST LIBERIA DEEP WATER FOR A$1.5 MLN, AND HAS RECEIVED FIRM COMMITMENTS TO RAISE A$3.5 MLN VIA A PLACEMENT
+- 09/22 08:55 [FirstSquawk] ASIAN MARKETS FOCUS ON TAIWAN’S AUGUST EXPORT ORDERS AND UNEMPLOYMENT DATA, WHILE OPTIMISM AROUND THE UPCOMING TRUMP-XI SUMMIT AND EXPECTATIONS FOR STRONG AI DEMAND SUPPORT RISK SENTIMENT.
+- 09/22 08:55 [FirstSquawk] U.S. STOCKS POSTED THEIR STRONGEST GAINS SINCE EARLY AUGUST, LED BY TECHNOLOGY SHARES, WITH THE S&P 500 UP 1.5% AND NASDAQ 2.3%, WHILE WTI FELL 5.1% TO $95.16 AND THE 10-YEAR TREASURY YIELD DECLINED TO 4.95%.
