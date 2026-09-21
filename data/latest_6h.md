@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 00:42 JST／対象: 09/21 18:42 〜 09/22 00:42 JST（時刻はすべて日本時間）
+生成: 2026-09-22 00:54 JST／対象: 09/21 18:54 〜 09/22 00:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 09/21 20:05 | 09/22 00:38 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 93 | 09/21 18:54 | 09/22 00:38 | 26分（19:42→20:08） |
-| financialjuice | 135 | 09/21 18:55 | 09/22 00:40 | ⚠ 67分（20:02→21:10） |
+| DeItaone | 54 | 09/21 20:05 | 09/22 00:54 | ⚠ 81分（21:22→22:44） |
+| FirstSquawk | 96 | 09/21 19:09 | 09/22 00:53 | 26分（19:42→20:08） |
+| financialjuice | 145 | 09/21 18:55 | 09/22 00:54 | ⚠ 67分（20:02→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 270 行（統合前 282 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 286 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 18:54 [FirstSquawk] GERMAN FIN MIN: GERMANY NEEDS PENSION REFORM
-- 09/21 18:54 [FirstSquawk] GERMAN GOVERNMENT SPOX: EU COMMISSION IS EXPECTED TO PRESENT PROPOSAL ON WINDFALL PROFIT TAX
-- 09/21 18:54 [FirstSquawk] GERMAN ECONOMY MINISTRY SPOX: DETAILS OF FUEL PRICE CAP ARE STILL BEING WORKED OUT
 - 09/21 18:55 [financialjuice] German economy ministry spokesperson: There will be no fuel price cap at any cost
 - 09/21 18:55 [financialjuice] German Economy Ministry spokesperson: Details of fuel price cap are still being worked out
 - 09/21 19:09 [FirstSquawk] KREMLIN COMMENTS ON FAR RIGHT PARTY WIN IN GERMAN ELECTIONS, NOTING LOW APPROVAL RATINGS FOR CURRENT LEADERS. THEY ATTRIBUTE THIS TO GERMANY'S DECISION TO ABANDON CHEAP RUSSIAN GAS IN FAVOR OF EXPENSIVE GAS FROM THE U.S.
@@ -294,3 +291,22 @@
 - 09/22 00:38 [FirstSquawk] U.S. DIESEL PRICES HAVE REACHED A RECORD HIGH OVER $6.50, ACCORDING TO AAA.
 - 09/22 00:38 [DeItaone] GOP SCRAMBLES AS DIESEL HITS RECORD $6.51 Republicans are weighing a diesel export ban and gas-tax holiday as surging fuel costs pressure consumers and farmers ahead of the midterms. (The Wall Street Journal) But Congress has little time to…
 - 09/22 00:40 [financialjuice] Advisor to Iraq's Najaf Governor: Initial oil production from the Al-Qarnayn field, in partnership with China's Xinhua, to begin at the start of 2027 - IRNA
+- 09/22 00:42 [FirstSquawk] MICHAEL SAYLOR BOUGHT BITCOIN WORTH $75.7 MILLION AFTER A THREE-WEEK BREAK TO REBUILD INVESTOR CONFIDENCE.
+- 09/22 00:43 [financialjuice] China's Foreign Minister Wang Yi speaks to Germany's Foreign Minister Wadephul - Xinhua
+- 09/22 00:44 [financialjuice] China's Foreign Minister Wang Yi calls for enhancing strategic communications with Germany.
+- 09/22 00:45 [financialjuice] China's Foreign Minister Wang Yi: China and the EU shouldn't be in a trade war.
+- 09/22 00:46 [FirstSquawk] EUROPEAN COMMISSION APPROVES ROCHE’S SUSVIMO ® FOR THE TREATMENT OF NEOVASCULAR AGE-RELATED MACULAR DEGENERATION (NAMD)
+- 09/22 00:47 [DeItaone] $SPCX - SPACEXAI - SPACEXAI LAUNCHES GROK 4.7, TWICE AS FAST AT HALF THE PRICE OF COMPARABLE MODELS
+- 09/22 00:47 [FirstSquawk/financialjuice] SPACEXAI - GROK 4.7 PRICED AT $2 PER MILLION INPUT TOKENS AND $6 PER MILLION OUTPUT TOKENS
+- 09/22 00:48 [DeItaone] RUSSIA REROUTES GRAIN AS BLACK SEA EXPORTS STALL Russian firms are converting fertilizer and coal terminals at Baltic and Arctic ports to handle grain exports as Black Sea shipments stall. Rail applications to Ultramar’s Baltic terminal rea…
+- 09/22 00:50 [financialjuice] Russian Railways accepts first grain shipment from southern Russia to Murmansk port, aiming for October export; grain-by-rail applications to Ultramar Baltic terminal reach ~260,000 tons in September - industry sources
+- 09/22 00:50 [financialjuice] SpaceXAI - SpaceX AI launches grok 4.7, twice as fast at half the price of comparable models.
+- 09/22 00:51 [FirstSquawk] TRUMP ON AI: WE WILL BE CAREFUL, REIN IN IF WE HAVE TO
+- 09/22 00:51 [FirstSquawk] TRUMP: I WILL ONLY ENCOURAGE AI
+- 09/22 00:51 [financialjuice] Trump on AI: I will only encourage AI; we will be careful and rein in if we have to - Truth Social.
+- 09/22 00:52 [financialjuice] ❗ Saudi Aramco Loads 14 Million Barrels of Crude on Seven VLCCs from Gulf Terminals, Ramping Up Exports Through Strait of Hormuz - Shipping Data
+- 09/22 00:52 [financialjuice] Seven tankers in the vicinity of ras tanura port on sunday - Satellite images seen by Sources Show
+- 09/22 00:53 [DeItaone] SAUDI ARAMCO LOADED 14 MILLION BARRELS OF CRUDE ON SEVEN VLCCS FROM GULF TERMINALS ON SUNDAY AS IT RAMPS UP EXPORTS THROUGH STRAIT OF HORMUZ, SHIPPING DATA SHOWS SATELLITE IMAGES SEEN BY REUTERS APPEAR TO SHOW SEVEN TANKERS IN VICINITY OF R…
+- 09/22 00:53 [FirstSquawk] Trump on truth social The same people that said, “We’ll all be dead in twelve years because of Global Warming,” a name since “reborn” to Climate Change, because the Planet was cooling, not warming, and nobody was dead, are the people that a…
+- 09/22 00:54 [financialjuice] US Treasury Secretary Bessent is going to present Trump with US-China AI pact - Fox Business.
+- 09/22 00:54 [DeItaone] TRUMP ON TRUTH SOCIAL: 'I'M NOT GOING TO STIFLE GROWTH, OF SOMETHING THAT WILL BE BIGGER THAN THE INDUSTRIAL REVOLUTION, OR THE INTERNET, ITSELF'
