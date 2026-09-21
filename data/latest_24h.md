@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 22:33 JST／対象: 09/20 22:33 〜 09/21 22:33 JST（時刻はすべて日本時間）
+生成: 2026-09-21 22:47 JST／対象: 09/20 22:47 〜 09/21 22:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/20 23:29 | 09/21 21:22 | ⚠ 1222分（23:43→20:05） |
-| FirstSquawk | 259 | 09/20 22:41 | 09/21 22:27 | ⚠ 95分（03:25→05:00） |
+| DeItaone | 31 | 09/20 23:29 | 09/21 22:44 | ⚠ 1222分（23:43→20:05） |
+| FirstSquawk | 255 | 09/20 23:23 | 09/21 22:42 | ⚠ 95分（03:25→05:00） |
 | financialjuice | 200 | 09/20 23:15 | 09/21 22:27 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 485 行（統合前 492 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 482 行（統合前 489 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 22:41 [FirstSquawk] Syrian TV: Israeli occupation forces are shelling the southeastern part of the town of Al-Rafid in the southern Quneitra countryside.
-- 09/20 22:41 [FirstSquawk] Trump to Fox News: I'm in a decision-making position and very big things will happen in the near future.
-- 09/20 22:42 [FirstSquawk] Trump: at strong request of US military and for national security, agrees to transform triumphal arch into a high-level military complex
-- 09/20 22:42 [FirstSquawk] Trump: Military complex to accommodate, store, deploy numerous drones, snipers on roof and plaza, and store large sniper ammo supplies
-- 09/20 22:42 [FirstSquawk] Trump: I have agreed to transform triumphal arch into a top military complex
-- 09/20 22:42 [FirstSquawk] Iran shuts down unauthorized center linked to French embassy - Tasnim
-- 09/20 22:42 [FirstSquawk] Moscow’s remote voting system and voter list face large-scale hacking attacks: voting services operating normally, city election official says
 - 09/20 23:15 [financialjuice] Qatar’s prime minister: QIA launches Doha Investment, new unit for domestic investments
 - 09/20 23:15 [financialjuice] Air defences intercept drone near Erbil airport in Iraqi Kurdistan: security sources
 - 09/20 23:17 [financialjuice] Qatar’s prime minister: Qatar anticipates awarding about $38.5 billion in new infrastructure projects over next five years
@@ -509,3 +502,7 @@
 - 09/21 22:26 [financialjuice] Trump spoke via phone with Yemeni President Rashad Al-alimi on Sunday - Four Sources.
 - 09/21 22:27 [FirstSquawk] WHITE HOUSE TV POOL WON'T COVER TRUMP IN NYC: CNBC
 - 09/21 22:27 [financialjuice] Yemen's President requested US support for the government against the Houthis, but Trump made no pledge of military support - Two Sources
+- 09/21 22:37 [FirstSquawk] UKRAINE’S ZELENSKIY: RUSSIA MUST STOP TARGETING UKRAINE'S ENERGY SECTOR; WILL FOLLOW WITH DE-ESCALATION ONCE RUSSIA STOPS
+- 09/21 22:39 [FirstSquawk] META EXTENDS GAINS TO 5%
+- 09/21 22:42 [FirstSquawk] EU SET TO LIFT RUSSIA SANCTIONS ON ALISHER USMANOV AND MIKHAIL FRIDMAN, BARRING ANY LATE OBJECTIONS FROM EU GOVERNMENTS, DIPLOMATS SAY
+- 09/21 22:44 [DeItaone] RUSSIA SET TO EXTEND DIESEL EXPORT BAN BEYOND END OF SEPTEMBER

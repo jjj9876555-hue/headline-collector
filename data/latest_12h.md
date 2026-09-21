@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 22:33 JST／対象: 09/21 10:33 〜 09/21 22:33 JST（時刻はすべて日本時間）
+生成: 2026-09-21 22:47 JST／対象: 09/21 10:47 〜 09/21 22:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/21 20:05 | 09/21 21:22 | 20分（20:05→20:25） |
-| FirstSquawk | 142 | 09/21 10:36 | 09/21 22:27 | 37分（16:20→16:58） |
-| financialjuice | 108 | 09/21 10:36 | 09/21 22:27 | ⚠ 81分（17:11→18:32） |
+| DeItaone | 29 | 09/21 20:05 | 09/21 22:44 | ⚠ 81分（21:22→22:44） |
+| FirstSquawk | 142 | 09/21 10:48 | 09/21 22:42 | 37分（16:20→16:58） |
+| financialjuice | 106 | 09/21 11:02 | 09/21 22:27 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 275 行（統合前 281 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 274 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 10:36 [FirstSquawk] Japan plans ¥6.7 bln spending boost to combat invasive beetles — Kyodo
-- 09/21 10:36 [financialjuice] China central bank plans to sell 60 billion yuan 182-day bills in Hong Kong on Sept. 23
-- 09/21 10:37 [FirstSquawk] PBOC plans 60 bln yuan 182-day bill sale in Hong Kong on Sept. 23
-- 09/21 10:40 [financialjuice] S.Korea central bank sells 91-day monetary stabilisation bonds at 3.080% yield
-- 09/21 10:41 [FirstSquawk] Bank of Korea sells 91-day monetary stabilisation bonds at 3.080%
 - 09/21 10:48 [FirstSquawk] North Korea fires multiple short-range ballistic missiles toward Sea of Japan — Kyodo
 - 09/21 10:57 [FirstSquawk] NZ dollar languishes near two-month low as bears target 0.5700 - FX
 - 09/21 11:02 [financialjuice] China, US held candid, detailed, and constructive talks on key economic, trade issues: state media
@@ -299,3 +294,7 @@
 - 09/21 22:26 [financialjuice] Trump spoke via phone with Yemeni President Rashad Al-alimi on Sunday - Four Sources.
 - 09/21 22:27 [FirstSquawk] WHITE HOUSE TV POOL WON'T COVER TRUMP IN NYC: CNBC
 - 09/21 22:27 [financialjuice] Yemen's President requested US support for the government against the Houthis, but Trump made no pledge of military support - Two Sources
+- 09/21 22:37 [FirstSquawk] UKRAINE’S ZELENSKIY: RUSSIA MUST STOP TARGETING UKRAINE'S ENERGY SECTOR; WILL FOLLOW WITH DE-ESCALATION ONCE RUSSIA STOPS
+- 09/21 22:39 [FirstSquawk] META EXTENDS GAINS TO 5%
+- 09/21 22:42 [FirstSquawk] EU SET TO LIFT RUSSIA SANCTIONS ON ALISHER USMANOV AND MIKHAIL FRIDMAN, BARRING ANY LATE OBJECTIONS FROM EU GOVERNMENTS, DIPLOMATS SAY
+- 09/21 22:44 [DeItaone] RUSSIA SET TO EXTEND DIESEL EXPORT BAN BEYOND END OF SEPTEMBER
