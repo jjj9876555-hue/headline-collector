@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 19:25 JST／対象: 09/21 07:25 〜 09/21 19:25 JST（時刻はすべて日本時間）
+生成: 2026-09-21 19:43 JST／対象: 09/21 07:43 〜 09/21 19:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 137 | 09/21 07:56 | 09/21 19:23 | 45分（07:56→08:41） |
-| financialjuice | 51 | 09/21 08:49 | 09/21 18:55 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 147 | 09/21 07:56 | 09/21 19:42 | 45分（07:56→08:41） |
+| financialjuice | 54 | 09/21 08:49 | 09/21 19:26 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 187 行（統合前 189 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 200 行（統合前 203 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -211,3 +211,16 @@
 - 09/21 19:10 [FirstSquawk] KREMLIN STATES THEY ARE IN REGULAR DISCUSSIONS WITH TRADE PARTNERS WHO REJECT US SANCTIONS.
 - 09/21 19:10 [FirstSquawk] KREMLIN STATES TRUMP'S SANCTIONS BILL AGAINST RUSSIA WILL NOT IMPROVE US-RUSSIA RELATIONS OR PROMOTE PEACE IN UKRAINE.
 - 09/21 19:23 [FirstSquawk] TRUMP SAID HE WAS VERY WORRIED ABOUT RISING DIESEL PRICES - FT
+- 09/21 19:26 [FirstSquawk] DEEPSEEK BETS ON HUAWEI CHIPS - INFORMATION
+- 09/21 19:26 [FirstSquawk] DEEPSEEK EXPECTS HUAWEI CHIPS DELIVERY EARLY AS 4Q - INFORMATION
+- 09/21 19:26 [FirstSquawk] DEEPSEEK PRIORITY IS TO USE MORE DOMESTIC CHIPS INFORMATION
+- 09/21 19:26 [financialjuice] Trump presses Zelenskiy to stop hitting Russian refineries - FT
+- 09/21 19:26 [financialjuice] Deepseek seeks more domestic chips to train models -Information
+- 09/21 19:26 [financialjuice] Deepseek bets big on Huawei chips to bypass US export controls - The information
+- 09/21 19:31 [FirstSquawk] FED'S GOOLSBEE: STRONG DEMAND MAY BE ADDING TO INFLATION ALONG WITH ENERGY, TARIFF, OTHER SUPPLY SHOCKS
+- 09/21 19:31 [FirstSquawk] GOOLSBEE SAYS 'NO AMBIGUITY' WHAT THE FED WOULD DO IF DEMAND IS OVERHEATING
+- 09/21 19:31 [FirstSquawk] GOOLSBEE SAYS SUPPLY SHOCKS ARE PROVING TO HAVE PERSISTENT IMPACT ON INFLATION, MUST BE ACCOUNTED FOR IN SETTING MONETARY POLICY
+- 09/21 19:31 [FirstSquawk] GOOLSBEE SAYS NEED EVIDENCE THAT INFLATION FROM SUPPLY IS FADING OR HARD TO SEE A 'CREDIBLE PATH' BACK TO 2% INFLATION
+- 09/21 19:31 [FirstSquawk] GOOLSBEE: RESTORING PRICE STABILITY ’WON’T BE PAINLESS’
+- 09/21 19:36 [FirstSquawk] Chicago Fed’s Goolsbee Restoring Price Stability Won’t Be Painless Chicago Federal Reserve President Austan Goolsbee warned that returning inflation to the central bank's 2% target will be a challenging process, driven by persistent supply …
+- 09/21 19:42 [FirstSquawk] BITCOIN HITS HIGHEST SINCE JANUARY 29, AT $85,117.89, LAST UP 4% PCT

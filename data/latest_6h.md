@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 19:25 JST／対象: 09/21 13:25 〜 09/21 19:25 JST（時刻はすべて日本時間）
+生成: 2026-09-21 19:43 JST／対象: 09/21 13:43 〜 09/21 19:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 61 | 09/21 13:26 | 09/21 19:23 | 37分（16:20→16:58） |
-| financialjuice | 22 | 09/21 13:26 | 09/21 18:55 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 67 | 09/21 13:43 | 09/21 19:42 | 37分（16:20→16:58） |
+| financialjuice | 24 | 09/21 14:14 | 09/21 19:26 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 82 行（統合前 84 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 90 行（統合前 93 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 13:26 [FirstSquawk] China’s biopharma stocks rally as US weighs keeping door open to drug deals — CNBC
-- 09/21 13:26 [financialjuice] South Korea military: 3 soldiers hurt in blast south of military demarcation line
-- 09/21 13:27 [FirstSquawk] Three South Korean soldiers injured in explosion south of Military Demarcation Line — Military
-- 09/21 13:29 [FirstSquawk] China pulls ahead of Western companies in sodium-ion battery development — FT
-- 09/21 13:35 [FirstSquawk] Samsung Electronics shares rise 5.2%, adding to earlier gains
 - 09/21 13:43 [FirstSquawk] AI trading frenzy pushes China’s stock-sale stamp duty up over 80% — SCMP
 - 09/21 13:48 [FirstSquawk] Peel Hunt hikes Beauty Tech Group price target to 590p from 470p
 - 09/21 13:49 [FirstSquawk] Job market for Americans without college degrees reaches one of its best levels in years — WSJ
@@ -106,3 +101,16 @@
 - 09/21 19:10 [FirstSquawk] KREMLIN STATES THEY ARE IN REGULAR DISCUSSIONS WITH TRADE PARTNERS WHO REJECT US SANCTIONS.
 - 09/21 19:10 [FirstSquawk] KREMLIN STATES TRUMP'S SANCTIONS BILL AGAINST RUSSIA WILL NOT IMPROVE US-RUSSIA RELATIONS OR PROMOTE PEACE IN UKRAINE.
 - 09/21 19:23 [FirstSquawk] TRUMP SAID HE WAS VERY WORRIED ABOUT RISING DIESEL PRICES - FT
+- 09/21 19:26 [FirstSquawk] DEEPSEEK BETS ON HUAWEI CHIPS - INFORMATION
+- 09/21 19:26 [FirstSquawk] DEEPSEEK EXPECTS HUAWEI CHIPS DELIVERY EARLY AS 4Q - INFORMATION
+- 09/21 19:26 [FirstSquawk] DEEPSEEK PRIORITY IS TO USE MORE DOMESTIC CHIPS INFORMATION
+- 09/21 19:26 [financialjuice] Trump presses Zelenskiy to stop hitting Russian refineries - FT
+- 09/21 19:26 [financialjuice] Deepseek seeks more domestic chips to train models -Information
+- 09/21 19:26 [financialjuice] Deepseek bets big on Huawei chips to bypass US export controls - The information
+- 09/21 19:31 [FirstSquawk] FED'S GOOLSBEE: STRONG DEMAND MAY BE ADDING TO INFLATION ALONG WITH ENERGY, TARIFF, OTHER SUPPLY SHOCKS
+- 09/21 19:31 [FirstSquawk] GOOLSBEE SAYS 'NO AMBIGUITY' WHAT THE FED WOULD DO IF DEMAND IS OVERHEATING
+- 09/21 19:31 [FirstSquawk] GOOLSBEE SAYS SUPPLY SHOCKS ARE PROVING TO HAVE PERSISTENT IMPACT ON INFLATION, MUST BE ACCOUNTED FOR IN SETTING MONETARY POLICY
+- 09/21 19:31 [FirstSquawk] GOOLSBEE SAYS NEED EVIDENCE THAT INFLATION FROM SUPPLY IS FADING OR HARD TO SEE A 'CREDIBLE PATH' BACK TO 2% INFLATION
+- 09/21 19:31 [FirstSquawk] GOOLSBEE: RESTORING PRICE STABILITY ’WON’T BE PAINLESS’
+- 09/21 19:36 [FirstSquawk] Chicago Fed’s Goolsbee Restoring Price Stability Won’t Be Painless Chicago Federal Reserve President Austan Goolsbee warned that returning inflation to the central bank's 2% target will be a challenging process, driven by persistent supply …
+- 09/21 19:42 [FirstSquawk] BITCOIN HITS HIGHEST SINCE JANUARY 29, AT $85,117.89, LAST UP 4% PCT
