@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 10:33 JST／対象: 09/20 22:33 〜 09/21 10:33 JST（時刻はすべて日本時間）
+生成: 2026-09-21 10:51 JST／対象: 09/20 22:51 〜 09/21 10:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 117 | 09/20 22:41 | 09/21 10:28 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 92 | 09/20 23:15 | 09/21 10:24 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 114 | 09/20 23:23 | 09/21 10:48 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 94 | 09/20 23:15 | 09/21 10:40 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 210 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 209 行（統合前 210 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 22:41 [FirstSquawk] Syrian TV: Israeli occupation forces are shelling the southeastern part of the town of Al-Rafid in the southern Quneitra countryside.
-- 09/20 22:41 [FirstSquawk] Trump to Fox News: I'm in a decision-making position and very big things will happen in the near future.
-- 09/20 22:42 [FirstSquawk] Trump: at strong request of US military and for national security, agrees to transform triumphal arch into a high-level military complex
-- 09/20 22:42 [FirstSquawk] Trump: Military complex to accommodate, store, deploy numerous drones, snipers on roof and plaza, and store large sniper ammo supplies
-- 09/20 22:42 [FirstSquawk] Trump: I have agreed to transform triumphal arch into a top military complex
-- 09/20 22:42 [FirstSquawk] Iran shuts down unauthorized center linked to French embassy - Tasnim
-- 09/20 22:42 [FirstSquawk] Moscow’s remote voting system and voter list face large-scale hacking attacks: voting services operating normally, city election official says
 - 09/20 23:15 [financialjuice] Qatar’s prime minister: QIA launches Doha Investment, new unit for domestic investments
 - 09/20 23:15 [financialjuice] Air defences intercept drone near Erbil airport in Iraqi Kurdistan: security sources
 - 09/20 23:17 [financialjuice] Qatar’s prime minister: Qatar anticipates awarding about $38.5 billion in new infrastructure projects over next five years
@@ -234,3 +227,9 @@
 - 09/21 10:26 [FirstSquawk] Lee to attend UNGA and meet Mexico’s Sheinbaum for summit talks — Blue House
 - 09/21 10:27 [FirstSquawk] President Lee to travel to US and Mexico on Sept. 21-27 — Blue House
 - 09/21 10:28 [FirstSquawk] SoftBank Group’s proposed dollar, euro notes rated ‘BB+’ by Fitch
+- 09/21 10:36 [FirstSquawk] Japan plans ¥6.7 bln spending boost to combat invasive beetles — Kyodo
+- 09/21 10:36 [financialjuice] China central bank plans to sell 60 billion yuan 182-day bills in Hong Kong on Sept. 23
+- 09/21 10:37 [FirstSquawk] PBOC plans 60 bln yuan 182-day bill sale in Hong Kong on Sept. 23
+- 09/21 10:40 [financialjuice] S.Korea central bank sells 91-day monetary stabilisation bonds at 3.080% yield
+- 09/21 10:41 [FirstSquawk] Bank of Korea sells 91-day monetary stabilisation bonds at 3.080%
+- 09/21 10:48 [FirstSquawk] North Korea fires multiple short-range ballistic missiles toward Sea of Japan — Kyodo

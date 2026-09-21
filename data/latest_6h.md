@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 10:33 JST／対象: 09/21 04:33 〜 09/21 10:33 JST（時刻はすべて日本時間）
+生成: 2026-09-21 10:51 JST／対象: 09/21 04:51 〜 09/21 10:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 63 | 09/21 05:00 | 09/21 10:28 | 45分（07:56→08:41） |
-| financialjuice | 32 | 09/21 04:48 | 09/21 10:24 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 67 | 09/21 05:00 | 09/21 10:48 | 45分（07:56→08:41） |
+| financialjuice | 31 | 09/21 04:52 | 09/21 10:40 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 94 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 97 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 04:48 [financialjuice] France condemns iranian authorities' choice to shut language centre in Tehran: foreign ministry
-- 09/21 04:50 [financialjuice] France's foreign ministry: shutting Tehran language centre is unjustified and unacceptable
-- 09/21 04:51 [financialjuice] France will take appropriate steps after closure of language centre in Tehran: foreign ministry
 - 09/21 04:52 [financialjuice] France to initially summon Iranian ambassador: foreign ministry
 - 09/21 05:00 [FirstSquawk] FRANCE HAS CONDEMNED A DECISION BY IRANIAN AUTHORITIES TO CLOSE ITS LANGUAGE CENTRE IN TEHRAN, CALLING IT 'UNJUSTIFIED AND UNACCEPTABLE', ITS FOREIGN MINISTRY SAYS.
 - 09/21 05:00 [FirstSquawk] FRANCE SAYS IT WILL TAKE APPROPRIATE MEASURES IN RESPONSE, INITIALLY SUMMONING THE IRANIAN AMBASSADOR - FOREIGN MINISTRY
@@ -118,3 +115,9 @@
 - 09/21 10:26 [FirstSquawk] Lee to attend UNGA and meet Mexico’s Sheinbaum for summit talks — Blue House
 - 09/21 10:27 [FirstSquawk] President Lee to travel to US and Mexico on Sept. 21-27 — Blue House
 - 09/21 10:28 [FirstSquawk] SoftBank Group’s proposed dollar, euro notes rated ‘BB+’ by Fitch
+- 09/21 10:36 [FirstSquawk] Japan plans ¥6.7 bln spending boost to combat invasive beetles — Kyodo
+- 09/21 10:36 [financialjuice] China central bank plans to sell 60 billion yuan 182-day bills in Hong Kong on Sept. 23
+- 09/21 10:37 [FirstSquawk] PBOC plans 60 bln yuan 182-day bill sale in Hong Kong on Sept. 23
+- 09/21 10:40 [financialjuice] S.Korea central bank sells 91-day monetary stabilisation bonds at 3.080% yield
+- 09/21 10:41 [FirstSquawk] Bank of Korea sells 91-day monetary stabilisation bonds at 3.080%
+- 09/21 10:48 [FirstSquawk] North Korea fires multiple short-range ballistic missiles toward Sea of Japan — Kyodo
