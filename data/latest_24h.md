@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 13:52 JST／対象: 09/20 13:52 〜 09/21 13:52 JST（時刻はすべて日本時間）
+生成: 2026-09-21 14:06 JST／対象: 09/20 14:06 〜 09/21 14:06 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 250 | 09/20 13:58 | 09/21 13:49 | ⚠ 95分（03:25→05:00） |
+| FirstSquawk | 248 | 09/20 14:17 | 09/21 14:05 | ⚠ 95分（03:25→05:00） |
 | financialjuice | 115 | 09/20 16:39 | 09/21 13:26 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 361 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 359 行（統合前 365 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 13:58 [FirstSquawk] Meta mounts another legal challenge to UK’s Online Safety Act – FT
-- 09/20 13:58 [FirstSquawk] Israel’s settler economy faces growing risk of European sanctions – FT
-- 09/20 13:59 [FirstSquawk] Novo investors urge company to pursue deals and expand its drug pipeline – FT
-- 09/20 14:03 [FirstSquawk] Israeli airstrike hits outskirts of Sarbine in southern Lebanon, Lebanese News Agency reports
-- 09/20 14:04 [FirstSquawk] U.S. warns Americans of potential flight cancellations, airspace closures and travel disruptions in Middle East
 - 09/20 14:17 [FirstSquawk] Price fall makes biodiesel a cheaper fuel option for shipping than conventional alternatives – FT
 - 09/20 14:18 [FirstSquawk] Google executive says Asia is adopting AI faster than perceived
 - 09/20 14:23 [FirstSquawk] Saudi Arabia pulls out of China-led cross-border currency system – FT
@@ -385,3 +380,6 @@
 - 09/21 13:43 [FirstSquawk] AI trading frenzy pushes China’s stock-sale stamp duty up over 80% — SCMP
 - 09/21 13:48 [FirstSquawk] Peel Hunt hikes Beauty Tech Group price target to 590p from 470p
 - 09/21 13:49 [FirstSquawk] Job market for Americans without college degrees reaches one of its best levels in years — WSJ
+- 09/21 13:55 [FirstSquawk] Typhoon nears Japan’s eastern coast, bringing threat of heavy rain and strong winds — Kyodo
+- 09/21 14:04 [FirstSquawk] South Korea takes bronze in men’s rifle team competition, falls short in individual events — Yonhap
+- 09/21 14:05 [FirstSquawk] Microsoft expands India cloud footprint with launch of fourth region in South Central India — Conference
