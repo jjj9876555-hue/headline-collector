@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 04:15 JST／対象: 09/21 22:15 〜 09/22 04:15 JST（時刻はすべて日本時間）
+生成: 2026-09-22 04:33 JST／対象: 09/21 22:33 〜 09/22 04:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 29 | 09/21 22:44 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 89 | 09/21 22:27 | 09/22 04:13 | 38分（01:55→02:34） |
-| financialjuice | 113 | 09/21 22:26 | 09/22 04:12 | 34分（01:57→02:32） |
+| FirstSquawk | 93 | 09/21 22:37 | 09/22 04:26 | 38分（01:55→02:34） |
+| financialjuice | 112 | 09/21 22:52 | 09/22 04:31 | 34分（01:57→02:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 220 行（統合前 234 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 223 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 22:26 [financialjuice] Société Générale CEO Krupa: France has significant macroeconomic challenges, but also strengths in energy, education, and start-ups.
-- 09/21 22:26 [financialjuice] Trump spoke via phone with Yemeni President Rashad Al-alimi on Sunday - Four Sources.
-- 09/21 22:27 [FirstSquawk] WHITE HOUSE TV POOL WON'T COVER TRUMP IN NYC: CNBC
-- 09/21 22:27 [financialjuice] Yemen's President requested US support for the government against the Houthis, but Trump made no pledge of military support - Two Sources
 - 09/21 22:37 [FirstSquawk] UKRAINE’S ZELENSKIY: RUSSIA MUST STOP TARGETING UKRAINE'S ENERGY SECTOR; WILL FOLLOW WITH DE-ESCALATION ONCE RUSSIA STOPS
 - 09/21 22:39 [FirstSquawk] META EXTENDS GAINS TO 5%
 - 09/21 22:42 [FirstSquawk] EU SET TO LIFT RUSSIA SANCTIONS ON ALISHER USMANOV AND MIKHAIL FRIDMAN, BARRING ANY LATE OBJECTIONS FROM EU GOVERNMENTS, DIPLOMATS SAY
@@ -244,3 +240,10 @@
 - 09/22 04:11 [FirstSquawk] TRUMP ADMINISTRATION PROPOSES $5 BILLION FUND TO REBUILD GULF ENERGY SITES, AIMING TO KICKSTART INVESTMENT — WSJ, CITING SOURCES & DOCUMENTS
 - 09/22 04:12 [financialjuice] Trump administration proposes $5 bln to kickstart investment fund to rebuild Gulf energy sites, according to sources and documents - WSJ
 - 09/22 04:13 [FirstSquawk] US PROPOSES $5B FUND TO REBUILD GULF ENERGY INFRASTRUCTURE • TRUMP ADMINISTRATION PROPOSES $5 BILLION TO KICKSTART A NEW MIDDLE EAST ENERGY REBUILDING FUND, WSJ REPORTS • US SEEKS MATCHING $5 BILLION FROM 8 REGIONAL PARTNERS, TARGETING A $1…
+- 09/22 04:20 [FirstSquawk] UK PM BURNHAM TO MEET EU COMMISSION PRESIDENT VON DER LEYEN ON TUESDAY TO RESOLVE EU CAR RULE DISPUTE — TIMES
+- 09/22 04:21 [financialjuice] Tuesday FX Options Expiries
+- 09/22 04:22 [FirstSquawk] RUSSIA HAS SET EXPORT DUTIES ON WHEAT, BARLEY AND CORN AT ZERO FROM SEPT. 1 THROUGH DEC. 31, 2026, AS THE GOVERNMENT SEEKS TO SUPPORT THE EXPORT POTENTIAL OF THE AGRICULTURAL SECTOR.
+- 09/22 04:22 [FirstSquawk] RUSSIA WILL ALSO CAP SUNFLOWER OIL EXPORT DUTIES AT 7,748 RUBLES PER TON AND SUNFLOWER MEAL DUTIES AT 312 RUBLES PER TON THROUGH YEAR-END.
+- 09/22 04:26 [FirstSquawk] U.S. DIESEL PRICES HAVE RISEN ABOVE $6.50 A GALLON FOR THE FIRST TIME, WITH WIDENING REFINING MARGINS AND TIGHT PRODUCT SUPPLIES DRIVING INFLATION PRESSURES EVEN AS WTI FALLS BELOW $100 A BARREL.
+- 09/22 04:26 [FirstSquawk] THE DROP IN CRUDE PRICES COULD HELP EASE DIESEL COSTS, BUT SHORTAGES OF REFINED PRODUCTS AND MOTOR OIL REMAIN A KEY RISK, WITH SOME RETAILERS LIMITING PURCHASES AMID LOW INVENTORIES.
+- 09/22 04:31 [financialjuice] Libya's NOC: Armed group closed valve 7 on the Sharara crude pipeline to Zawiya port on Monday, causing a sharp drop in output at the Sharara oilfield

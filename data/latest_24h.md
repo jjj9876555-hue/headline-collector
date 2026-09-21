@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 04:15 JST／対象: 09/21 04:15 〜 09/22 04:15 JST（時刻はすべて日本時間）
+生成: 2026-09-22 04:33 JST／対象: 09/21 04:33 〜 09/22 04:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 293 | 09/21 05:00 | 09/22 04:13 | 45分（07:56→08:41） |
-| financialjuice | 250 | 09/21 04:48 | 09/22 04:12 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 298 | 09/21 05:00 | 09/22 04:26 | 45分（07:56→08:41） |
+| financialjuice | 252 | 09/21 04:48 | 09/22 04:31 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 585 行（統合前 606 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 592 行（統合前 613 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -609,3 +609,10 @@
 - 09/22 04:11 [FirstSquawk] TRUMP ADMINISTRATION PROPOSES $5 BILLION FUND TO REBUILD GULF ENERGY SITES, AIMING TO KICKSTART INVESTMENT — WSJ, CITING SOURCES & DOCUMENTS
 - 09/22 04:12 [financialjuice] Trump administration proposes $5 bln to kickstart investment fund to rebuild Gulf energy sites, according to sources and documents - WSJ
 - 09/22 04:13 [FirstSquawk] US PROPOSES $5B FUND TO REBUILD GULF ENERGY INFRASTRUCTURE • TRUMP ADMINISTRATION PROPOSES $5 BILLION TO KICKSTART A NEW MIDDLE EAST ENERGY REBUILDING FUND, WSJ REPORTS • US SEEKS MATCHING $5 BILLION FROM 8 REGIONAL PARTNERS, TARGETING A $1…
+- 09/22 04:20 [FirstSquawk] UK PM BURNHAM TO MEET EU COMMISSION PRESIDENT VON DER LEYEN ON TUESDAY TO RESOLVE EU CAR RULE DISPUTE — TIMES
+- 09/22 04:21 [financialjuice] Tuesday FX Options Expiries
+- 09/22 04:22 [FirstSquawk] RUSSIA HAS SET EXPORT DUTIES ON WHEAT, BARLEY AND CORN AT ZERO FROM SEPT. 1 THROUGH DEC. 31, 2026, AS THE GOVERNMENT SEEKS TO SUPPORT THE EXPORT POTENTIAL OF THE AGRICULTURAL SECTOR.
+- 09/22 04:22 [FirstSquawk] RUSSIA WILL ALSO CAP SUNFLOWER OIL EXPORT DUTIES AT 7,748 RUBLES PER TON AND SUNFLOWER MEAL DUTIES AT 312 RUBLES PER TON THROUGH YEAR-END.
+- 09/22 04:26 [FirstSquawk] U.S. DIESEL PRICES HAVE RISEN ABOVE $6.50 A GALLON FOR THE FIRST TIME, WITH WIDENING REFINING MARGINS AND TIGHT PRODUCT SUPPLIES DRIVING INFLATION PRESSURES EVEN AS WTI FALLS BELOW $100 A BARREL.
+- 09/22 04:26 [FirstSquawk] THE DROP IN CRUDE PRICES COULD HELP EASE DIESEL COSTS, BUT SHORTAGES OF REFINED PRODUCTS AND MOTOR OIL REMAIN A KEY RISK, WITH SOME RETAILERS LIMITING PURCHASES AMID LOW INVENTORIES.
+- 09/22 04:31 [financialjuice] Libya's NOC: Armed group closed valve 7 on the Sharara crude pipeline to Zawiya port on Monday, causing a sharp drop in output at the Sharara oilfield
