@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 17:59 JST／対象: 09/21 05:59 〜 09/21 17:59 JST（時刻はすべて日本時間）
+生成: 2026-09-21 18:19 JST／対象: 09/21 06:19 〜 09/21 18:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 133 | 09/21 06:21 | 09/21 17:43 | 45分（07:56→08:41） |
+| FirstSquawk | 136 | 09/21 06:21 | 09/21 18:14 | 45分（07:56→08:41） |
 | financialjuice | 54 | 09/21 07:07 | 09/21 17:11 | ⚠ 97分（07:12→08:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 186 行（統合前 188 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 189 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -210,3 +210,6 @@
 - 09/21 17:20 [FirstSquawk] SOCIETE GENERALE CEO: LOWERING COSTS "HAS BEEN AND WILL REMAIN AT THE HEART OF OUR STRATEGY" || BY 2029 BANK WILL HAVE REDUCED IT COSTS BY 30% SINCE 2022
 - 09/21 17:42 [FirstSquawk] INDIA-EU FTA TO COME INTO EFFECT WITHIN 6-7 MONTH - GOYAL
 - 09/21 17:43 [FirstSquawk] INDIA TRADE MINISTER SAYS INDIA, CANADA TO HOLD NEXT ROUND OF TRADE TALKS FROM OCT 5
+- 09/21 18:13 [FirstSquawk] NOVO IS EXPANDING INTO WOMEN'S AND MEN'S HEALTH IN NEW MARKETS, SAYS LANGE.
+- 09/21 18:13 [FirstSquawk] IRISH DATA PROTECTION AUTHORITY FINES GOOGLE €403 MILLION OVER LOCATION DATA HANDLING.
+- 09/21 18:14 [FirstSquawk] UKRAINE'S EXPORT LOSSES FROM RUSSIAN ATTACKS ON PORTS, OTHER INFRASTRUCTURE COULD REACH $4.8 BLN BY END-YEAR SAYS FINANCE MINISTRY

@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 17:59 JST／対象: 09/21 11:59 〜 09/21 17:59 JST（時刻はすべて日本時間）
+生成: 2026-09-21 18:19 JST／対象: 09/21 12:19 〜 09/21 18:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 60 | 09/21 12:07 | 09/21 17:43 | 37分（16:20→16:58） |
-| financialjuice | 22 | 09/21 12:05 | 09/21 17:11 | ⚠ 49分（14:15→15:05） |
+| FirstSquawk | 60 | 09/21 12:21 | 09/21 18:14 | 37分（16:20→16:58） |
+| financialjuice | 20 | 09/21 12:39 | 09/21 17:11 | ⚠ 49分（14:15→15:05） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 81 行（統合前 83 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 79 行（統合前 81 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 12:05 [financialjuice] New Zealand defence forces: two naval vessels crossed Taiwan Strait
-- 09/21 12:07 [FirstSquawk] Two New Zealand Navy vessels pass through Taiwan Strait — Defence Forces
-- 09/21 12:13 [financialjuice] At least three killed in Pakistani air raids on Afghanistan's Kunar province: Tolo News citing provincial official
-- 09/21 12:14 [FirstSquawk] Pakistani airstrikes in Afghanistan’s Kunar province kill at least three — TOLO News
-- 09/21 12:14 [FirstSquawk] Eight killed after fire breaks out at textile factory in Foshan, China — Xinhua
 - 09/21 12:21 [FirstSquawk] BlossomHill Therapeutics target raised to $40 from $30 by Guggenheim
 - 09/21 12:29 [FirstSquawk] AUD/USD consolidates above 0.7100 as markets await Trump-Xi talks - FX
 - 09/21 12:33 [FirstSquawk] VinFast-linked taxi firm launches motorbike service in Jakarta, its first overseas — NA
@@ -105,3 +100,6 @@
 - 09/21 17:20 [FirstSquawk] SOCIETE GENERALE CEO: LOWERING COSTS "HAS BEEN AND WILL REMAIN AT THE HEART OF OUR STRATEGY" || BY 2029 BANK WILL HAVE REDUCED IT COSTS BY 30% SINCE 2022
 - 09/21 17:42 [FirstSquawk] INDIA-EU FTA TO COME INTO EFFECT WITHIN 6-7 MONTH - GOYAL
 - 09/21 17:43 [FirstSquawk] INDIA TRADE MINISTER SAYS INDIA, CANADA TO HOLD NEXT ROUND OF TRADE TALKS FROM OCT 5
+- 09/21 18:13 [FirstSquawk] NOVO IS EXPANDING INTO WOMEN'S AND MEN'S HEALTH IN NEW MARKETS, SAYS LANGE.
+- 09/21 18:13 [FirstSquawk] IRISH DATA PROTECTION AUTHORITY FINES GOOGLE €403 MILLION OVER LOCATION DATA HANDLING.
+- 09/21 18:14 [FirstSquawk] UKRAINE'S EXPORT LOSSES FROM RUSSIAN ATTACKS ON PORTS, OTHER INFRASTRUCTURE COULD REACH $4.8 BLN BY END-YEAR SAYS FINANCE MINISTRY
