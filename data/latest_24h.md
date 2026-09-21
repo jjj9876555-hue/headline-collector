@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 23:34 JST／対象: 09/20 23:34 〜 09/21 23:34 JST（時刻はすべて日本時間）
+生成: 2026-09-21 23:53 JST／対象: 09/20 23:53 〜 09/21 23:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 39 | 09/20 23:43 | 09/21 23:29 | ⚠ 1222分（23:43→20:05） |
-| FirstSquawk | 268 | 09/20 23:52 | 09/21 23:28 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 222 | 09/20 23:39 | 09/21 23:28 | ⚠ 114分（05:13→07:07） |
+| DeItaone | 44 | 09/21 20:05 | 09/21 23:50 | ⚠ 81分（21:22→22:44） |
+| FirstSquawk | 267 | 09/20 23:53 | 09/21 23:48 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 217 | 09/20 23:58 | 09/21 23:48 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 523 行（統合前 533 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 519 行（統合前 532 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 23:39 [financialjuice] Qatar's prime minister: crisis in Qatar's economy an opportunity to trim government spending and focus investments on priorities
-- 09/20 23:41 [financialjuice] Minneapolis Federal Reserve president Neel Kashkari: Fed’s job is to bring inflation back to 2% target - Fox News interview
-- 09/20 23:41 [financialjuice] Kashkari: Inflation remains too high in Fox News interview
-- 09/20 23:42 [financialjuice] Kashkari: Inflation extends beyond oil prices
-- 09/20 23:42 [financialjuice] Kashkari: Hopefully we'll get support from other parts of government, the real economy
-- 09/20 23:43 [DeItaone] 🟠 TIER 2 IRAN WARNS NEW U.S. ATTACK MAY BE COMING, THREATENS SUSTAINED RETALIATION Iran says it has information that the U.S. and allies are preparing a major new attack, Reuters reported. Tehran’s military command warned any strike would t…
-- 09/20 23:43 [financialjuice] Kashkari: strong investment demand tends to boost interest rates
-- 09/20 23:44 [financialjuice] Kashkari: growth has been fairly robust
-- 09/20 23:44 [financialjuice] Kashkari: American economy remains very resilient despite wars
-- 09/20 23:44 [financialjuice] Kashkari: productivity showing some signs of improvement
-- 09/20 23:44 [financialjuice] Kashkari: hopeful growth can prevail and reduce inflation
-- 09/20 23:45 [financialjuice] Kashkari: Bond market is responsibility of Treasury
-- 09/20 23:45 [financialjuice] Kashkari: Labor market remains robust
-- 09/20 23:52 [FirstSquawk] Qatari Prime Minister and Foreign Minister: We must eliminate the sources of discord, and no country can impose a threat on the rest.
-- 09/20 23:52 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Energy is our strength and technology is our future
-- 09/20 23:52 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Our region has witnessed what I can only describe as an earthquake
-- 09/20 23:52 [FirstSquawk] Qatari Prime Minister and Foreign Minister: The repercussions of what our region has witnessed have extended far beyond our borders.
-- 09/20 23:52 [FirstSquawk] Qatari Prime Minister and Foreign Minister: What our region has witnessed has put assumptions of security and stability to a real test
-- 09/20 23:53 [FirstSquawk] Qatari Prime Minister and Foreign Minister: All talks during the crisis began with security, then moved on to energy supplies and shipping
-- 09/20 23:53 [FirstSquawk] Qatari Prime Minister and Foreign Minister: We do not underestimate the uncertainty, but we will not allow short-term disruptions to dictate our course.
-- 09/20 23:53 [FirstSquawk] Qatari Prime Minister and Foreign Minister: We are working through diplomacy for the stability of the region
 - 09/20 23:53 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Through investment, we are moving forward with reform, strengthening our resilience, and creating opportunities for growth.
 - 09/20 23:53 [FirstSquawk] Qatari Prime Minister and Foreign Minister: Qatar will remain a committed mediator, a reliable energy supplier, and an investment partner.
 - 09/20 23:54 [FirstSquawk] Qatari Prime Minister and Foreign Minister: From the perspective of the State of Qatar , diplomacy and economic stability are closely linked.
@@ -547,3 +526,20 @@
 - 09/21 23:28 [FirstSquawk] US STRATEGIC PETROLEUM RESERVE CRUDE OIL STOCKS DROPPED TO 284.6 MILLION BARRELS LAST WEEK, THE LOWEST LEVEL SINCE 1982.
 - 09/21 23:29 [DeItaone] *US PROPOSED EXTENDING CHINA TRADE TRUCE BY SIX MONTHS: NYT *CHINA HAS PUSHED FOR A LONGER TRADE TRUCE EXTENSION: NYT
 - 09/21 23:29 [DeItaone] STOCKS OF CRUDE OIL IN US STRATEGIC PETROLEUM RESERVE FELL TO 284.6 MLN BARRELS LAST WEEK, LOWEST SINCE 1982
+- 09/21 23:34 [financialjuice] OpenAI develops features to counter Grok bot, and mulls a response to Meta's Muse - The Information.
+- 09/21 23:38 [FirstSquawk] NASDAQ 100 EXTENDS GAIN TO 2%
+- 09/21 23:40 [financialjuice] US VP Vance on Iran: Oil is still flowing - Pool Report
+- 09/21 23:41 [financialjuice] US VP Vance on Iran: We're going to try to protect the US Navy - Pool Report.
+- 09/21 23:41 [FirstSquawk] VANCE ON IRAN: OIL IS STILL FLOWING
+- 09/21 23:41 [financialjuice] US VP Vance on Iran: Will be further discussion at the UN.
+- 09/21 23:42 [FirstSquawk/DeItaone] VANCE ON IRAN: GOING TO TRY TO PROTECT US NAVY: POOL REPORT
+- 09/21 23:42 [FirstSquawk/DeItaone] VANCE ON IRAN: WILL BE FURTHER DISCUSSION AT UN: POOL REPORT
+- 09/21 23:42 [financialjuice] US VP Vance on gasoline prices: We're doing what we can to give relief - Pool.
+- 09/21 23:45 [DeItaone] *VANCE ON IRAN: OIL IS STILL FLOWING: POOL REPORT
+- 09/21 23:46 [FirstSquawk] VANCE: ENERGY PRICES ARE ELEVATED BECAUSE OF IRAN: POOL REPORT
+- 09/21 23:46 [financialjuice] US VP Vance: Energy prices are elevated because of iran.
+- 09/21 23:47 [DeItaone/FirstSquawk] - TRUMP: UNITED STATES IS WORKING ON A MASSIVE DEAL WITH RESPECT TO PURCHASE OF POTASH FROM BELARUS
+- 09/21 23:48 [FirstSquawk] Trump on truth social United States is working on a massive Deal with respect to the purchase of Potash from Belarus. The pricing would be for substantially less than we are currently paying to Canada, very good news for our Farmers and Ran…
+- 09/21 23:48 [financialjuice] Trump: Belarus Potash to cost less than canada supply - Truth Social
+- 09/21 23:48 [DeItaone] TRUMP: PRICING WOULD BE FOR SUBSTANTIALLY LESS THAN WE ARE CURRENTLY PAYING TO CANADA
+- 09/21 23:50 [DeItaone] TRUMP EYES MAJOR BELARUS POTASH DEAL President Trump says the U.S. is working on a large-scale agreement to buy potash from Belarus. Trump says the fertilizer would be purchased at substantially lower prices than current Canadian supplies, …

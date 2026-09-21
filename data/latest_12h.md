@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 23:34 JST／対象: 09/21 11:34 〜 09/21 23:34 JST（時刻はすべて日本時間）
+生成: 2026-09-21 23:53 JST／対象: 09/21 11:53 〜 09/21 23:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 09/21 20:05 | 09/21 23:29 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 148 | 09/21 11:35 | 09/21 23:28 | 37分（16:20→16:58） |
-| financialjuice | 128 | 09/21 12:05 | 09/21 23:28 | ⚠ 81分（17:11→18:32） |
+| DeItaone | 44 | 09/21 20:05 | 09/21 23:50 | ⚠ 81分（21:22→22:44） |
+| FirstSquawk | 152 | 09/21 12:07 | 09/21 23:48 | 37分（16:20→16:58） |
+| financialjuice | 135 | 09/21 12:05 | 09/21 23:48 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 309 行（統合前 318 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 323 行（統合前 335 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 11:35 [FirstSquawk] Hang Seng Biotech Index climbs 5% in Hong Kong trading
-- 09/21 11:44 [FirstSquawk] China cuts rare-earth magnet exports to US ahead of Xi-Trump talks - CNBC
-- 09/21 11:46 [FirstSquawk] Tropical Depression becomes Tropical Storm Polo, with major hurricane forecast — NHC
 - 09/21 12:05 [financialjuice] New Zealand defence forces: two naval vessels crossed Taiwan Strait
 - 09/21 12:07 [FirstSquawk] Two New Zealand Navy vessels pass through Taiwan Strait — Defence Forces
 - 09/21 12:13 [financialjuice] At least three killed in Pakistani air raids on Afghanistan's Kunar province: Tolo News citing provincial official
@@ -333,3 +330,20 @@
 - 09/21 23:28 [FirstSquawk] US STRATEGIC PETROLEUM RESERVE CRUDE OIL STOCKS DROPPED TO 284.6 MILLION BARRELS LAST WEEK, THE LOWEST LEVEL SINCE 1982.
 - 09/21 23:29 [DeItaone] *US PROPOSED EXTENDING CHINA TRADE TRUCE BY SIX MONTHS: NYT *CHINA HAS PUSHED FOR A LONGER TRADE TRUCE EXTENSION: NYT
 - 09/21 23:29 [DeItaone] STOCKS OF CRUDE OIL IN US STRATEGIC PETROLEUM RESERVE FELL TO 284.6 MLN BARRELS LAST WEEK, LOWEST SINCE 1982
+- 09/21 23:34 [financialjuice] OpenAI develops features to counter Grok bot, and mulls a response to Meta's Muse - The Information.
+- 09/21 23:38 [FirstSquawk] NASDAQ 100 EXTENDS GAIN TO 2%
+- 09/21 23:40 [financialjuice] US VP Vance on Iran: Oil is still flowing - Pool Report
+- 09/21 23:41 [financialjuice] US VP Vance on Iran: We're going to try to protect the US Navy - Pool Report.
+- 09/21 23:41 [FirstSquawk] VANCE ON IRAN: OIL IS STILL FLOWING
+- 09/21 23:41 [financialjuice] US VP Vance on Iran: Will be further discussion at the UN.
+- 09/21 23:42 [FirstSquawk/DeItaone] VANCE ON IRAN: GOING TO TRY TO PROTECT US NAVY: POOL REPORT
+- 09/21 23:42 [FirstSquawk/DeItaone] VANCE ON IRAN: WILL BE FURTHER DISCUSSION AT UN: POOL REPORT
+- 09/21 23:42 [financialjuice] US VP Vance on gasoline prices: We're doing what we can to give relief - Pool.
+- 09/21 23:45 [DeItaone] *VANCE ON IRAN: OIL IS STILL FLOWING: POOL REPORT
+- 09/21 23:46 [FirstSquawk] VANCE: ENERGY PRICES ARE ELEVATED BECAUSE OF IRAN: POOL REPORT
+- 09/21 23:46 [financialjuice] US VP Vance: Energy prices are elevated because of iran.
+- 09/21 23:47 [DeItaone/FirstSquawk] - TRUMP: UNITED STATES IS WORKING ON A MASSIVE DEAL WITH RESPECT TO PURCHASE OF POTASH FROM BELARUS
+- 09/21 23:48 [FirstSquawk] Trump on truth social United States is working on a massive Deal with respect to the purchase of Potash from Belarus. The pricing would be for substantially less than we are currently paying to Canada, very good news for our Farmers and Ran…
+- 09/21 23:48 [financialjuice] Trump: Belarus Potash to cost less than canada supply - Truth Social
+- 09/21 23:48 [DeItaone] TRUMP: PRICING WOULD BE FOR SUBSTANTIALLY LESS THAN WE ARE CURRENTLY PAYING TO CANADA
+- 09/21 23:50 [DeItaone] TRUMP EYES MAJOR BELARUS POTASH DEAL President Trump says the U.S. is working on a large-scale agreement to buy potash from Belarus. Trump says the fertilizer would be purchased at substantially lower prices than current Canadian supplies, …
