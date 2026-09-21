@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 14:06 JST／対象: 09/20 14:06 〜 09/21 14:06 JST（時刻はすべて日本時間）
+生成: 2026-09-21 14:24 JST／対象: 09/20 14:24 〜 09/21 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 248 | 09/20 14:17 | 09/21 14:05 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 115 | 09/20 16:39 | 09/21 13:26 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 247 | 09/20 14:36 | 09/21 14:15 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 118 | 09/20 16:39 | 09/21 14:15 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 359 行（統合前 365 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 361 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 14:17 [FirstSquawk] Price fall makes biodiesel a cheaper fuel option for shipping than conventional alternatives – FT
-- 09/20 14:18 [FirstSquawk] Google executive says Asia is adopting AI faster than perceived
-- 09/20 14:23 [FirstSquawk] Saudi Arabia pulls out of China-led cross-border currency system – FT
 - 09/20 14:36 [FirstSquawk] TotalEnergies comes under renewed scrutiny over handling of Mozambique attack – FT
 - 09/20 15:01 [FirstSquawk] Festive Hiring Boom: New-age operational roles set to grow 15-20%; tier-II, III cities to account for 45% of festive hiring demand
 - 09/20 15:02 [FirstSquawk] Australian, Canadian and U.S. partners are teaming up to revive American tungsten production as China tightens supply.
@@ -383,3 +380,8 @@
 - 09/21 13:55 [FirstSquawk] Typhoon nears Japan’s eastern coast, bringing threat of heavy rain and strong winds — Kyodo
 - 09/21 14:04 [FirstSquawk] South Korea takes bronze in men’s rifle team competition, falls short in individual events — Yonhap
 - 09/21 14:05 [FirstSquawk] Microsoft expands India cloud footprint with launch of fourth region in South Central India — Conference
+- 09/21 14:10 [FirstSquawk] Thai finance minister plans to seek Tuesday approval to extend consumer subsidy scheme
+- 09/21 14:14 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Ukraine's Odesa port
+- 09/21 14:15 [financialjuice] Iran’s Revolutionary Guards spokesperson: any new strike will prompt Tehran to alter war geography and armaments - Fars News
+- 09/21 14:15 [FirstSquawk] IRGC warns Iran would alter war geography and weaponry in response to any new attack — Fars News
+- 09/21 14:15 [financialjuice] Russian defence ministry: Russian forces also target logistics centres, warehouses and Ukrainian ports - TASS

@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 14:06 JST／対象: 09/21 02:06 〜 09/21 14:06 JST（時刻はすべて日本時間）
+生成: 2026-09-21 14:24 JST／対象: 09/21 02:24 〜 09/21 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 119 | 09/21 02:12 | 09/21 14:05 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 60 | 09/21 02:22 | 09/21 13:26 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 115 | 09/21 02:38 | 09/21 14:15 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 62 | 09/21 02:26 | 09/21 14:15 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 178 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 176 行（統合前 177 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 02:12 [FirstSquawk] TRUMP TO VISIT MAMDANI IN NEW YORK CITY ON MONDAY — NYT
-- 09/21 02:12 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS THE ELECTION OUTCOME IN MECKLENBURG-WESTERN POMERANIA IS A 'CATASTROPHE', WITH TWO STATE BALLOTS TODAY PRODUCING VASTLY DIFFERENT RESULTS, AS THE CONSERVATIVE CDU POLLS AT 5.1% IN MECKLENBURG-WESTERN POMERANIA…
-- 09/21 02:12 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS 'CHANGE IS NECESSARY' AND THAT 'GERMANY MUST BECOME A LAND OF FRESH STARTS', WARNING THAT CONFIDENCE IN THE COUNTRY'S INSTITUTIONS IS WANING, THAT THE STATE HAS GROWN 'OVERLY COMPLEX' AND THAT 'WE CAN'T RETURN…
-- 09/21 02:13 [FirstSquawk] GERMANY'S CHANCELLOR MERZ SAYS HE TAKES RESPONSIBILITY 'AS I WANT TO ADVANCE THE COUNTRY', ADDING THAT SHIFTS POSE CHALLENGES AND FRESH UNCERTAINTIES AND THAT HE IS PREPARED TO LEAD AS PARTY HEAD AND CHANCELLOR WITH 'DETERMINATION, PERSEVER…
-- 09/21 02:19 [FirstSquawk] U.S. MISSION IN SAUDI ARABIA SAYS GOVERNMENT EMPLOYEES NOW REQUIRE SPECIAL AUTHORIZATION FOR OFFICIAL OR PERSONAL TRAVEL TO TAIF AND YANBU AMID ONGOING HOUTHI ATTACKS
-- 09/21 02:19 [FirstSquawk] U.S. ATTORNEY FOR THE SOUTHERN DISTRICT OF FLORIDA SAYS 18 SUSPECTS IN THE 2021 ASSASSINATION OF HAITIAN PRESIDENT JOVENEL MOÏSE HAVE BEEN FLOWN TO THE U.S. ON A MILITARY PLANE, WITH 30 SUSPECTS HAVING BEEN INDICTED IN THE U.S. FOR THEIR IN…
-- 09/21 02:22 [financialjuice] France's President Macron: France backs closer ties between EU, Canada and associate membership for Canada
 - 09/21 02:26 [financialjuice] France's Macron: agreed with Canada's Carney to strengthen ties in energy, space, climate sectors
 - 09/21 02:28 [financialjuice] France's President Macron: Canadian LNG can be key for European energy, initiates bilateral talks on the matter
 - 09/21 02:31 [financialjuice] Canadian Prime Minister Carney urges stronger ties with France amid rising global threats
@@ -202,3 +195,8 @@
 - 09/21 13:55 [FirstSquawk] Typhoon nears Japan’s eastern coast, bringing threat of heavy rain and strong winds — Kyodo
 - 09/21 14:04 [FirstSquawk] South Korea takes bronze in men’s rifle team competition, falls short in individual events — Yonhap
 - 09/21 14:05 [FirstSquawk] Microsoft expands India cloud footprint with launch of fourth region in South Central India — Conference
+- 09/21 14:10 [FirstSquawk] Thai finance minister plans to seek Tuesday approval to extend consumer subsidy scheme
+- 09/21 14:14 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Ukraine's Odesa port
+- 09/21 14:15 [financialjuice] Iran’s Revolutionary Guards spokesperson: any new strike will prompt Tehran to alter war geography and armaments - Fars News
+- 09/21 14:15 [FirstSquawk] IRGC warns Iran would alter war geography and weaponry in response to any new attack — Fars News
+- 09/21 14:15 [financialjuice] Russian defence ministry: Russian forces also target logistics centres, warehouses and Ukrainian ports - TASS
