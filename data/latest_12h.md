@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 16:38 JST／対象: 09/21 04:38 〜 09/21 16:38 JST（時刻はすべて日本時間）
+生成: 2026-09-21 16:53 JST／対象: 09/21 04:53 〜 09/21 16:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 129 | 09/21 05:00 | 09/21 16:20 | 45分（07:56→08:41） |
-| financialjuice | 55 | 09/21 04:48 | 09/21 16:22 | ⚠ 114分（05:13→07:07） |
+| financialjuice | 53 | 09/21 05:13 | 09/21 16:46 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 182 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 180 行（統合前 183 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 04:48 [financialjuice] France condemns iranian authorities' choice to shut language centre in Tehran: foreign ministry
-- 09/21 04:50 [financialjuice] France's foreign ministry: shutting Tehran language centre is unjustified and unacceptable
-- 09/21 04:51 [financialjuice] France will take appropriate steps after closure of language centre in Tehran: foreign ministry
-- 09/21 04:52 [financialjuice] France to initially summon Iranian ambassador: foreign ministry
 - 09/21 05:00 [FirstSquawk] FRANCE HAS CONDEMNED A DECISION BY IRANIAN AUTHORITIES TO CLOSE ITS LANGUAGE CENTRE IN TEHRAN, CALLING IT 'UNJUSTIFIED AND UNACCEPTABLE', ITS FOREIGN MINISTRY SAYS.
 - 09/21 05:00 [FirstSquawk] FRANCE SAYS IT WILL TAKE APPROPRIATE MEASURES IN RESPONSE, INITIALLY SUMMONING THE IRANIAN AMBASSADOR - FOREIGN MINISTRY
 - 09/21 05:13 [financialjuice/FirstSquawk] Japan to use industrial machinery for gathering physical AI data: Nikkei
@@ -206,3 +202,5 @@
 - 09/21 16:20 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN TO FLY TO NEW YORK FOR UN GENERAL ASSEMBLY ON TUESDAY ACCORDING TO IRNA
 - 09/21 16:20 [FirstSquawk] PORSCHE CEO IN MEMO TO STAFF: PORSCHE DOES NOT PLAN ADDITIONAL 4,000 JOB CUTS || THERE IS NO CHANGE TO PORSCHE OUTLOOK
 - 09/21 16:22 [financialjuice] Iran's president Pezeshkian to fly to New York for the UN General Assembly on Tuesday - IRNA
+- 09/21 16:45 [financialjuice] Swiss Government: Supply of petrol and diesel has resumed through the usual supply channels
+- 09/21 16:46 [financialjuice] Swiss Government: Supply situation for petroleum products remains tight
