@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 04:44 JST／対象: 09/21 04:44 〜 09/22 04:44 JST（時刻はすべて日本時間）
+生成: 2026-09-22 04:59 JST／対象: 09/21 04:59 〜 09/22 04:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 304 | 09/21 05:00 | 09/22 04:43 | 45分（07:56→08:41） |
-| financialjuice | 252 | 09/21 04:48 | 09/22 04:31 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 306 | 09/21 05:00 | 09/22 04:52 | 45分（07:56→08:41） |
+| financialjuice | 250 | 09/21 05:13 | 09/22 04:56 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 598 行（統合前 619 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 04:48 [financialjuice] France condemns iranian authorities' choice to shut language centre in Tehran: foreign ministry
-- 09/21 04:50 [financialjuice] France's foreign ministry: shutting Tehran language centre is unjustified and unacceptable
-- 09/21 04:51 [financialjuice] France will take appropriate steps after closure of language centre in Tehran: foreign ministry
-- 09/21 04:52 [financialjuice] France to initially summon Iranian ambassador: foreign ministry
 - 09/21 05:00 [FirstSquawk] FRANCE HAS CONDEMNED A DECISION BY IRANIAN AUTHORITIES TO CLOSE ITS LANGUAGE CENTRE IN TEHRAN, CALLING IT 'UNJUSTIFIED AND UNACCEPTABLE', ITS FOREIGN MINISTRY SAYS.
 - 09/21 05:00 [FirstSquawk] FRANCE SAYS IT WILL TAKE APPROPRIATE MEASURES IN RESPONSE, INITIALLY SUMMONING THE IRANIAN AMBASSADOR - FOREIGN MINISTRY
 - 09/21 05:13 [financialjuice/FirstSquawk] Japan to use industrial machinery for gathering physical AI data: Nikkei
@@ -622,3 +618,7 @@
 - 09/22 04:40 [FirstSquawk] ZELENSKIY MEETS CIA CHIEF RATCLIFFE IN IRELAND, SOURCES SAY
 - 09/22 04:41 [FirstSquawk] CANADA UNVEILS DRAFT LEGISLATION TO FAST-TRACK APPROVALS FOR MAJOR PROJECTS
 - 09/22 04:43 [FirstSquawk] CANADA DRAFT LAW AIMS TO COMPLETE FEDERAL REVIEWS & DECISIONS WITHIN ONE YEAR OF COMPREHENSIVE APPLICATION SUBMISSION
+- 09/22 04:45 [FirstSquawk] EU DISCUSSIONS CONTINUE ON RENEWING RUSSIA SANCTIONS; AMBASSADORS TO RECONVENE TUESDAY MORNING — EU DIPLOMAT
+- 09/22 04:46 [financialjuice] Canada unveils draft legislation to speed up approvals of major projects. Introduces bill to speed project reviews to one year. To formally designate ‘strategic trade corridors.
+- 09/22 04:52 [FirstSquawk] IRAN’S MISSILE, DRONE & AIR DEFENCE CAPABILITIES CONTINUE TO GROW — NOURNEWS
+- 09/22 04:56 [financialjuice] Downing Street: UK PM underlined commitment to working with Mauritius and US on future of military base on Diego Garcia.

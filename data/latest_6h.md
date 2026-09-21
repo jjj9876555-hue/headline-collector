@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 04:44 JST／対象: 09/21 22:44 〜 09/22 04:44 JST（時刻はすべて日本時間）
+生成: 2026-09-22 04:59 JST／対象: 09/21 22:59 〜 09/22 04:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/21 22:44 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 96 | 09/21 22:48 | 09/22 04:43 | 38分（01:55→02:34） |
-| financialjuice | 112 | 09/21 22:52 | 09/22 04:31 | 34分（01:57→02:32） |
+| DeItaone | 26 | 09/21 23:03 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 94 | 09/21 22:59 | 09/22 04:52 | 38分（01:55→02:34） |
+| financialjuice | 107 | 09/21 23:00 | 09/22 04:56 | 34分（01:57→02:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 226 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 216 行（統合前 230 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 22:44 [DeItaone] RUSSIA SET TO EXTEND DIESEL EXPORT BAN BEYOND END OF SEPTEMBER
-- 09/21 22:48 [FirstSquawk] TRUMP WEIGHED STRIKES ON YEMEN HOUTHIS OVER WEEKEND BEFORE HOLDING OFF - AXIOS
-- 09/21 22:49 [DeItaone] TRUMP WEIGHED HOUTHI STRIKES — THEN HELD OFF President Trump considered U.S. airstrikes against the Houthis in Yemen over the weekend after renewed Saudi requests for military help. CENTCOM reportedly prepared strike options, but Trump ulti…
-- 09/21 22:52 [financialjuice] ❗ MOO IMBALANCE S&P 500: -57.2 MLN NASDAQ 100: -22.5 MLN DOW 30: -11.8 MLN MAG 7: -7.3 MLN $MACRO
-- 09/21 22:52 [financialjuice] New York to require large AI developers to register with the state in November.
-- 09/21 22:52 [financialjuice] New York to require AI developers to report safety incidents in 72 hours.
-- 09/21 22:52 [FirstSquawk] RUSSIA SET TO EXTEND DIESEL EXPORT BAN BEYOND END-SEPTEMBER
-- 09/21 22:54 [financialjuice] Yemen Houthi Spokesman: The Saudi regime provided its airports and bases to the Zionists, allowing Israeli spy planes to fly towards Yemeni territory - Tasnim News.
-- 09/21 22:54 [FirstSquawk] NASDAQ 100 EXTENDS GAIN TO 1.5%, A SESSION HIGH
-- 09/21 22:56 [financialjuice] Russia set to extend Diesel export ban beyond the end of September.
-- 09/21 22:57 [FirstSquawk] OPENAI, ANTHROPIC NEARED DEAL EARLIER THIS YEAR TO STRESS-TEST EACH OTHER'S AI - INFORMATION
-- 09/21 22:57 [DeItaone] OPENAI AND ANTHROPIC NEARED DEAL TO STRESS-TEST EACH OTHER’S AI - THE INFORMATION
-- 09/21 22:57 [financialjuice] OpenAI and Anthropic in talks to stress test each other - The Information
-- 09/21 22:58 [financialjuice] OpenAI and Anthropic discussed stress tests this year - The Information
 - 09/21 22:59 [FirstSquawk] PARAMOUNT IS MOVING TO RESOLVE LAWSUITS, CLEARING THE PATH FOR A DEAL WITH WARNER BROS.
 - 09/21 23:00 [FirstSquawk] FED GOOLSBEE: NOT VIEWING RATE HIKE AS TAKING BACK 2025 CUTS
 - 09/21 23:00 [financialjuice] Fed's Goolsbee: I am not viewing rate hike as taking back 2025 cuts.
@@ -250,3 +236,7 @@
 - 09/22 04:40 [FirstSquawk] ZELENSKIY MEETS CIA CHIEF RATCLIFFE IN IRELAND, SOURCES SAY
 - 09/22 04:41 [FirstSquawk] CANADA UNVEILS DRAFT LEGISLATION TO FAST-TRACK APPROVALS FOR MAJOR PROJECTS
 - 09/22 04:43 [FirstSquawk] CANADA DRAFT LAW AIMS TO COMPLETE FEDERAL REVIEWS & DECISIONS WITHIN ONE YEAR OF COMPREHENSIVE APPLICATION SUBMISSION
+- 09/22 04:45 [FirstSquawk] EU DISCUSSIONS CONTINUE ON RENEWING RUSSIA SANCTIONS; AMBASSADORS TO RECONVENE TUESDAY MORNING — EU DIPLOMAT
+- 09/22 04:46 [financialjuice] Canada unveils draft legislation to speed up approvals of major projects. Introduces bill to speed project reviews to one year. To formally designate ‘strategic trade corridors.
+- 09/22 04:52 [FirstSquawk] IRAN’S MISSILE, DRONE & AIR DEFENCE CAPABILITIES CONTINUE TO GROW — NOURNEWS
+- 09/22 04:56 [financialjuice] Downing Street: UK PM underlined commitment to working with Mauritius and US on future of military base on Diego Garcia.

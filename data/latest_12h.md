@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 04:44 JST／対象: 09/21 16:44 〜 09/22 04:44 JST（時刻はすべて日本時間）
+生成: 2026-09-22 04:59 JST／対象: 09/21 16:59 〜 09/22 04:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 175 | 09/21 16:58 | 09/22 04:43 | 38分（01:55→02:34） |
-| financialjuice | 197 | 09/21 16:45 | 09/22 04:31 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 176 | 09/21 17:01 | 09/22 04:52 | 38分（01:55→02:34） |
+| financialjuice | 197 | 09/21 17:06 | 09/22 04:56 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 416 行（統合前 434 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 417 行（統合前 435 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 16:45 [financialjuice] Swiss Government: Supply of petrol and diesel has resumed through the usual supply channels
-- 09/21 16:46 [financialjuice] Swiss Government: Supply situation for petroleum products remains tight
-- 09/21 16:58 [FirstSquawk] PAKISTAN MINISTER'S VISIT UNRELATED TO US-IRAN MEDIATION - TASNIM
 - 09/21 17:01 [FirstSquawk] NOVO PLANS TO RELEASE MORE THAN FIVE MULTI-BLOCKBUSTERS BY 2030.
 - 09/21 17:01 [FirstSquawk] NOVO TARGETS OVER 150 BILLION DKK IN PIPELINE SALES BY 2035.
 - 09/21 17:01 [FirstSquawk] NOVO PLANS 25 PHASE 3 PROGRAMS IN OBESITY AND DIABETES BY 2030.
@@ -440,3 +437,7 @@
 - 09/22 04:40 [FirstSquawk] ZELENSKIY MEETS CIA CHIEF RATCLIFFE IN IRELAND, SOURCES SAY
 - 09/22 04:41 [FirstSquawk] CANADA UNVEILS DRAFT LEGISLATION TO FAST-TRACK APPROVALS FOR MAJOR PROJECTS
 - 09/22 04:43 [FirstSquawk] CANADA DRAFT LAW AIMS TO COMPLETE FEDERAL REVIEWS & DECISIONS WITHIN ONE YEAR OF COMPREHENSIVE APPLICATION SUBMISSION
+- 09/22 04:45 [FirstSquawk] EU DISCUSSIONS CONTINUE ON RENEWING RUSSIA SANCTIONS; AMBASSADORS TO RECONVENE TUESDAY MORNING — EU DIPLOMAT
+- 09/22 04:46 [financialjuice] Canada unveils draft legislation to speed up approvals of major projects. Introduces bill to speed project reviews to one year. To formally designate ‘strategic trade corridors.
+- 09/22 04:52 [FirstSquawk] IRAN’S MISSILE, DRONE & AIR DEFENCE CAPABILITIES CONTINUE TO GROW — NOURNEWS
+- 09/22 04:56 [financialjuice] Downing Street: UK PM underlined commitment to working with Mauritius and US on future of military base on Diego Garcia.
