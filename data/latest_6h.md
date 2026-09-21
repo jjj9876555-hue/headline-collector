@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 18:34 JST／対象: 09/21 12:34 〜 09/21 18:34 JST（時刻はすべて日本時間）
+生成: 2026-09-21 18:51 JST／対象: 09/21 12:51 〜 09/21 18:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 59 | 09/21 12:37 | 09/21 18:33 | 37分（16:20→16:58） |
-| financialjuice | 22 | 09/21 12:39 | 09/21 18:34 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 58 | 09/21 13:00 | 09/21 18:38 | 37分（16:20→16:58） |
+| financialjuice | 22 | 09/21 13:01 | 09/21 18:36 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 80 行（統合前 82 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 79 行（統合前 81 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 12:37 [FirstSquawk] BHP Group says agreement will prioritize progress on modified blast furnace technologies
-- 09/21 12:37 [FirstSquawk] BHP, China Baowu extend partnership on steel decarbonisation
-- 09/21 12:39 [financialjuice] China finance ministry auctions 10-year bonds at 1.6626% yield: traders
-- 09/21 12:50 [FirstSquawk] China maps out five-year plan to advance pharmaceuticals and biomedicine — SCMP
 - 09/21 13:00 [FirstSquawk] Jefferies initiates Lotus Bakeries coverage with Buy rating, sets €15,000 target
 - 09/21 13:01 [financialjuice] South Korea presidential chief of staff Kang Hoon-sik tenders resignation: Blue House
 - 09/21 13:01 [FirstSquawk] South Korea presidential chief of staff Kang Hoon-sik offers resignation — Blue House
@@ -104,3 +100,6 @@
 - 09/21 18:32 [financialjuice] UKMTO: Received report of incident involving vessel transiting through the Strait of Hormuz
 - 09/21 18:33 [FirstSquawk] UKMTO: MILITARY AUTHORITIES REPORT VESSEL STRUCK BY UNKNOWN PROJECTILE IN HORMUZ || RECEIVES REPORT OF INCIDENT 07:30 UTC 21 SEP, INVOLVING VESSEL TRANSITING HORMUZ || TWO CREW SUSTAINED MINOR INJURIES, VESSEL CONTINUING TO NEXT PORT OF CAL…
 - 09/21 18:34 [financialjuice] UKMTO: Military authorities informed that a tanker inbound was struck by a projectile. Two crew members sustained minor injuries; the vessel is reported to be continuing to its next port of call
+- 09/21 18:36 [financialjuice] German Government spokesperson: fuel price relief planned from October 1st
+- 09/21 18:38 [FirstSquawk] GERMAN LABOR MINISTER SAYS GOVERNMENT NEEDS TO REVISIT REFORM PLANS
+- 09/21 18:38 [FirstSquawk] GERMANY GOV’T SPOX SAYS FUEL PRICE RELIEF PLANNED FROM OCTOBER 1

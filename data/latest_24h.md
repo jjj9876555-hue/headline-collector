@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 18:34 JST／対象: 09/20 18:34 〜 09/21 18:34 JST（時刻はすべて日本時間）
+生成: 2026-09-21 18:51 JST／対象: 09/20 18:51 〜 09/21 18:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 241 | 09/20 18:41 | 09/21 18:33 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 129 | 09/20 19:31 | 09/21 18:34 | ⚠ 127分（21:07→23:15） |
+| FirstSquawk | 234 | 09/20 19:14 | 09/21 18:38 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 130 | 09/20 19:31 | 09/21 18:36 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 365 行（統合前 373 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 359 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 18:41 [FirstSquawk] Zelensky: We targeted facilities in Russia worth billions of dollars that fuel the Russian war machine
-- 09/20 18:41 [FirstSquawk] Qalibaf: We do not want an endless war and to keep Iran hostage to a permanent crisis.
-- 09/20 18:42 [FirstSquawk] Qalibaf: The internal vision that embraces war and rejects diplomacy is pushing Iran toward attrition.
-- 09/20 18:42 [FirstSquawk] During his meeting with the Director of the US Central Intelligence Agency, the Egyptian President called for a comprehensive agreement to end the Iranian crisis.
-- 09/20 18:42 [FirstSquawk] Sisi affirms his rejection of any aggression against Arab countries and the necessity of resolving crises through political and diplomatic channels.
-- 09/20 18:42 [FirstSquawk] Japanese government says North Korea launched what is believed to be a ballistic missile.
-- 09/20 18:42 [FirstSquawk] AFP: North Korea fires second unidentified projectile into the Sea of ​​Japan
-- 09/20 18:43 [FirstSquawk] Israeli police announce a shooting incident and the injury of a settler in the vicinity of the "Neve Tzuf" settlement, west of Ramallah in the West Bank.
-- 09/20 18:43 [FirstSquawk] Israeli police: Search underway around the settlement of "Neve Tzuf" west of Ramallah and closures imposed after the shooting incident
 - 09/20 19:14 [FirstSquawk] Israeli army: Chief of Staff holds security assessment meeting following shooting attack in Neve Tzuf, central West Bank
 - 09/20 19:14 [FirstSquawk] Israeli army: Chief of Staff orders troop reinforcement after shooting attack in Neve Tzuf, central West Bank
 - 09/20 19:14 [FirstSquawk] Israeli Broadcasting Authority: An Israeli was killed in a shooting attack near the settlement of Neve Tzuf in the central West Bank.
@@ -389,3 +380,6 @@
 - 09/21 18:32 [financialjuice] UKMTO: Received report of incident involving vessel transiting through the Strait of Hormuz
 - 09/21 18:33 [FirstSquawk] UKMTO: MILITARY AUTHORITIES REPORT VESSEL STRUCK BY UNKNOWN PROJECTILE IN HORMUZ || RECEIVES REPORT OF INCIDENT 07:30 UTC 21 SEP, INVOLVING VESSEL TRANSITING HORMUZ || TWO CREW SUSTAINED MINOR INJURIES, VESSEL CONTINUING TO NEXT PORT OF CAL…
 - 09/21 18:34 [financialjuice] UKMTO: Military authorities informed that a tanker inbound was struck by a projectile. Two crew members sustained minor injuries; the vessel is reported to be continuing to its next port of call
+- 09/21 18:36 [financialjuice] German Government spokesperson: fuel price relief planned from October 1st
+- 09/21 18:38 [FirstSquawk] GERMAN LABOR MINISTER SAYS GOVERNMENT NEEDS TO REVISIT REFORM PLANS
+- 09/21 18:38 [FirstSquawk] GERMANY GOV’T SPOX SAYS FUEL PRICE RELIEF PLANNED FROM OCTOBER 1

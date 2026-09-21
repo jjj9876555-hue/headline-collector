@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 18:34 JST／対象: 09/21 06:34 〜 09/21 18:34 JST（時刻はすべて日本時間）
+生成: 2026-09-21 18:51 JST／対象: 09/21 06:51 〜 09/21 18:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 135 | 09/21 07:00 | 09/21 18:33 | 45分（07:56→08:41） |
-| financialjuice | 56 | 09/21 07:07 | 09/21 18:34 | ⚠ 97分（07:12→08:49） |
+| FirstSquawk | 137 | 09/21 07:00 | 09/21 18:38 | 45分（07:56→08:41） |
+| financialjuice | 57 | 09/21 07:07 | 09/21 18:36 | ⚠ 97分（07:12→08:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 190 行（統合前 192 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 193 行（統合前 195 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -214,3 +214,6 @@
 - 09/21 18:32 [financialjuice] UKMTO: Received report of incident involving vessel transiting through the Strait of Hormuz
 - 09/21 18:33 [FirstSquawk] UKMTO: MILITARY AUTHORITIES REPORT VESSEL STRUCK BY UNKNOWN PROJECTILE IN HORMUZ || RECEIVES REPORT OF INCIDENT 07:30 UTC 21 SEP, INVOLVING VESSEL TRANSITING HORMUZ || TWO CREW SUSTAINED MINOR INJURIES, VESSEL CONTINUING TO NEXT PORT OF CAL…
 - 09/21 18:34 [financialjuice] UKMTO: Military authorities informed that a tanker inbound was struck by a projectile. Two crew members sustained minor injuries; the vessel is reported to be continuing to its next port of call
+- 09/21 18:36 [financialjuice] German Government spokesperson: fuel price relief planned from October 1st
+- 09/21 18:38 [FirstSquawk] GERMAN LABOR MINISTER SAYS GOVERNMENT NEEDS TO REVISIT REFORM PLANS
+- 09/21 18:38 [FirstSquawk] GERMANY GOV’T SPOX SAYS FUEL PRICE RELIEF PLANNED FROM OCTOBER 1
