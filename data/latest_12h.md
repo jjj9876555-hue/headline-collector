@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 01:18 JST／対象: 09/21 13:18 〜 09/22 01:18 JST（時刻はすべて日本時間）
+生成: 2026-09-22 01:33 JST／対象: 09/21 13:33 〜 09/22 01:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/21 20:05 | 09/22 00:54 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 159 | 09/21 13:20 | 09/22 01:15 | 37分（16:20→16:58） |
-| financialjuice | 173 | 09/21 13:26 | 09/22 01:16 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 157 | 09/21 13:35 | 09/22 01:29 | 37分（16:20→16:58） |
+| financialjuice | 173 | 09/21 14:14 | 09/22 01:23 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 375 行（統合前 392 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 373 行（統合前 390 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 13:20 [FirstSquawk] Firmus set to start trading on ASX on October 22 — term sheet
-- 09/21 13:21 [FirstSquawk] Australian data center operator Firmus set to launch $5 billion IPO on October 6 — term sheet
-- 09/21 13:26 [FirstSquawk] China’s biopharma stocks rally as US weighs keeping door open to drug deals — CNBC
-- 09/21 13:26 [financialjuice] South Korea military: 3 soldiers hurt in blast south of military demarcation line
-- 09/21 13:27 [FirstSquawk] Three South Korean soldiers injured in explosion south of Military Demarcation Line — Military
-- 09/21 13:29 [FirstSquawk] China pulls ahead of Western companies in sodium-ion battery development — FT
 - 09/21 13:35 [FirstSquawk] Samsung Electronics shares rise 5.2%, adding to earlier gains
 - 09/21 13:43 [FirstSquawk] AI trading frenzy pushes China’s stock-sale stamp duty up over 80% — SCMP
 - 09/21 13:48 [FirstSquawk] Peel Hunt hikes Beauty Tech Group price target to 590p from 470p
@@ -399,3 +393,7 @@
 - 09/22 01:15 [FirstSquawk] IRAN, PAKISTAN INTERIOR MINISTERS DISCUSS PEACE PROCESS: ISNA
 - 09/22 01:16 [financialjuice] Trump considered ordering an attack against Houthi rebels in Yemen over the weekend, but decided to refrain for now - two senior US officials to Barak Ravid, News 12.
 - 09/22 01:16 [financialjuice] Trump found himself torn between his desire to help his friend and ally, Saudi Crown Prince Mohammed bin Salman, and his desire to avoid getting involved in a war in a new front in the Middle East - Barak Ravid, News 12.
+- 09/22 01:19 [FirstSquawk] TRUMP IS CAUGHT BETWEEN SUPPORTING SAUDI CROWN PRINCE MOHAMMED BIN SALMAN AND AVOIDING A NEW WAR IN THE MIDDLE EAST.
+- 09/22 01:23 [financialjuice] American diplomats met with senior Houthi officials and received assurances from them that the armed rebel organization had no intention of closing the Bab al-Mandab Strait - Israel's N12 News
+- 09/22 01:29 [FirstSquawk] L3HARRIS TECHNOLOGIES: SIGNS MULTI-YEAR AGREEMENT WITH NAVAL AIR WARFARE CENTER TO INCREASE TOMAHAWK MISSILE PRODUCTION
+- 09/22 01:29 [FirstSquawk] NASDAQ 100 INDEX EXTENDS GAIN 2.5%

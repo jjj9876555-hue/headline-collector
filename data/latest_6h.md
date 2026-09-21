@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 01:18 JST／対象: 09/21 19:18 〜 09/22 01:18 JST（時刻はすべて日本時間）
+生成: 2026-09-22 01:33 JST／対象: 09/21 19:33 〜 09/22 01:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/21 20:05 | 09/22 00:54 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 97 | 09/21 19:23 | 09/22 01:15 | 26分（19:42→20:08） |
-| financialjuice | 151 | 09/21 19:26 | 09/22 01:16 | ⚠ 67分（20:02→21:10） |
+| FirstSquawk | 91 | 09/21 19:36 | 09/22 01:29 | 26分（19:42→20:08） |
+| financialjuice | 149 | 09/21 19:53 | 09/22 01:23 | ⚠ 67分（20:02→21:10） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 292 行（統合前 307 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 284 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 19:23 [FirstSquawk] TRUMP SAID HE WAS VERY WORRIED ABOUT RISING DIESEL PRICES - FT
-- 09/21 19:26 [FirstSquawk] DEEPSEEK BETS ON HUAWEI CHIPS - INFORMATION
-- 09/21 19:26 [FirstSquawk] DEEPSEEK EXPECTS HUAWEI CHIPS DELIVERY EARLY AS 4Q - INFORMATION
-- 09/21 19:26 [FirstSquawk] DEEPSEEK PRIORITY IS TO USE MORE DOMESTIC CHIPS INFORMATION
-- 09/21 19:26 [financialjuice] Trump presses Zelenskiy to stop hitting Russian refineries - FT
-- 09/21 19:26 [financialjuice] Deepseek seeks more domestic chips to train models -Information
-- 09/21 19:26 [financialjuice] Deepseek bets big on Huawei chips to bypass US export controls - The information
-- 09/21 19:31 [FirstSquawk] FED'S GOOLSBEE: STRONG DEMAND MAY BE ADDING TO INFLATION ALONG WITH ENERGY, TARIFF, OTHER SUPPLY SHOCKS
-- 09/21 19:31 [FirstSquawk] GOOLSBEE SAYS 'NO AMBIGUITY' WHAT THE FED WOULD DO IF DEMAND IS OVERHEATING
-- 09/21 19:31 [FirstSquawk] GOOLSBEE SAYS SUPPLY SHOCKS ARE PROVING TO HAVE PERSISTENT IMPACT ON INFLATION, MUST BE ACCOUNTED FOR IN SETTING MONETARY POLICY
-- 09/21 19:31 [FirstSquawk] GOOLSBEE SAYS NEED EVIDENCE THAT INFLATION FROM SUPPLY IS FADING OR HARD TO SEE A 'CREDIBLE PATH' BACK TO 2% INFLATION
-- 09/21 19:31 [FirstSquawk] GOOLSBEE: RESTORING PRICE STABILITY ’WON’T BE PAINLESS’
 - 09/21 19:36 [FirstSquawk] Chicago Fed’s Goolsbee Restoring Price Stability Won’t Be Painless Chicago Federal Reserve President Austan Goolsbee warned that returning inflation to the central bank's 2% target will be a challenging process, driven by persistent supply …
 - 09/21 19:42 [FirstSquawk] BITCOIN HITS HIGHEST SINCE JANUARY 29, AT $85,117.89, LAST UP 4% PCT
 - 09/21 19:53 [financialjuice] Fed's Goolsbee: The Fed must have fortitude to confront inflation
@@ -316,3 +304,7 @@
 - 09/22 01:15 [FirstSquawk] IRAN, PAKISTAN INTERIOR MINISTERS DISCUSS PEACE PROCESS: ISNA
 - 09/22 01:16 [financialjuice] Trump considered ordering an attack against Houthi rebels in Yemen over the weekend, but decided to refrain for now - two senior US officials to Barak Ravid, News 12.
 - 09/22 01:16 [financialjuice] Trump found himself torn between his desire to help his friend and ally, Saudi Crown Prince Mohammed bin Salman, and his desire to avoid getting involved in a war in a new front in the Middle East - Barak Ravid, News 12.
+- 09/22 01:19 [FirstSquawk] TRUMP IS CAUGHT BETWEEN SUPPORTING SAUDI CROWN PRINCE MOHAMMED BIN SALMAN AND AVOIDING A NEW WAR IN THE MIDDLE EAST.
+- 09/22 01:23 [financialjuice] American diplomats met with senior Houthi officials and received assurances from them that the armed rebel organization had no intention of closing the Bab al-Mandab Strait - Israel's N12 News
+- 09/22 01:29 [FirstSquawk] L3HARRIS TECHNOLOGIES: SIGNS MULTI-YEAR AGREEMENT WITH NAVAL AIR WARFARE CENTER TO INCREASE TOMAHAWK MISSILE PRODUCTION
+- 09/22 01:29 [FirstSquawk] NASDAQ 100 INDEX EXTENDS GAIN 2.5%

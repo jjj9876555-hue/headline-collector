@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 01:18 JST／対象: 09/21 01:18 〜 09/22 01:18 JST（時刻はすべて日本時間）
+生成: 2026-09-22 01:33 JST／対象: 09/21 01:33 〜 09/22 01:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 55 | 09/21 20:05 | 09/22 00:54 | ⚠ 81分（21:22→22:44） |
-| FirstSquawk | 268 | 09/21 01:41 | 09/22 01:15 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 239 | 09/21 01:18 | 09/22 01:16 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 271 | 09/21 01:41 | 09/22 01:29 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 233 | 09/21 02:22 | 09/22 01:23 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 549 行（統合前 567 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 546 行（統合前 564 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 01:18 [financialjuice] Germany’s Chancellor Merz: we can’t return to the “good old times”
-- 09/21 01:18 [financialjuice] Germany's Chancellor Merz: Germany must become a land of fresh starts
-- 09/21 01:18 [financialjuice] Germany's Chancellor Merz: change is necessary
-- 09/21 01:19 [financialjuice] Germany's Chancellor Merz: shifts pose challenges and fresh uncertainties
-- 09/21 01:19 [financialjuice] Germany's Chancellor Merz: I take responsibility as I want to advance the country
-- 09/21 01:20 [financialjuice] Germany's Chancellor Merz: need determination, perseverance and patience; prepared to lead as party head, chancellor
-- 09/21 01:29 [financialjuice] Germany's conservative CDU party polls at 5.1% in Mecklenburg-Western Pomerania election, ZDF reports citing partial results
 - 09/21 01:41 [FirstSquawk] German Chancellor acknowledges a "disaster" for his party following the far-right's gains in local elections.
 - 09/21 01:47 [FirstSquawk] Combined Maritime Information Center: The US Navy facilitated 97 transits through the Strait of Hormuz in the past 72 hours.
 - 09/21 02:12 [FirstSquawk] TRUMP TO VISIT MAMDANI IN NEW YORK CITY ON MONDAY — NYT
@@ -573,3 +566,7 @@
 - 09/22 01:15 [FirstSquawk] IRAN, PAKISTAN INTERIOR MINISTERS DISCUSS PEACE PROCESS: ISNA
 - 09/22 01:16 [financialjuice] Trump considered ordering an attack against Houthi rebels in Yemen over the weekend, but decided to refrain for now - two senior US officials to Barak Ravid, News 12.
 - 09/22 01:16 [financialjuice] Trump found himself torn between his desire to help his friend and ally, Saudi Crown Prince Mohammed bin Salman, and his desire to avoid getting involved in a war in a new front in the Middle East - Barak Ravid, News 12.
+- 09/22 01:19 [FirstSquawk] TRUMP IS CAUGHT BETWEEN SUPPORTING SAUDI CROWN PRINCE MOHAMMED BIN SALMAN AND AVOIDING A NEW WAR IN THE MIDDLE EAST.
+- 09/22 01:23 [financialjuice] American diplomats met with senior Houthi officials and received assurances from them that the armed rebel organization had no intention of closing the Bab al-Mandab Strait - Israel's N12 News
+- 09/22 01:29 [FirstSquawk] L3HARRIS TECHNOLOGIES: SIGNS MULTI-YEAR AGREEMENT WITH NAVAL AIR WARFARE CENTER TO INCREASE TOMAHAWK MISSILE PRODUCTION
+- 09/22 01:29 [FirstSquawk] NASDAQ 100 INDEX EXTENDS GAIN 2.5%
