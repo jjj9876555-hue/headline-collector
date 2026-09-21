@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 10:51 JST／対象: 09/20 22:51 〜 09/21 10:51 JST（時刻はすべて日本時間）
+生成: 2026-09-21 11:03 JST／対象: 09/20 23:03 〜 09/21 11:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 114 | 09/20 23:23 | 09/21 10:48 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 94 | 09/20 23:15 | 09/21 10:40 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 115 | 09/20 23:23 | 09/21 10:57 | ⚠ 95分（03:25→05:00） |
+| financialjuice | 96 | 09/20 23:15 | 09/21 11:03 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 209 行（統合前 210 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 212 行（統合前 213 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -233,3 +233,6 @@
 - 09/21 10:40 [financialjuice] S.Korea central bank sells 91-day monetary stabilisation bonds at 3.080% yield
 - 09/21 10:41 [FirstSquawk] Bank of Korea sells 91-day monetary stabilisation bonds at 3.080%
 - 09/21 10:48 [FirstSquawk] North Korea fires multiple short-range ballistic missiles toward Sea of Japan — Kyodo
+- 09/21 10:57 [FirstSquawk] NZ dollar languishes near two-month low as bears target 0.5700 - FX
+- 09/21 11:02 [financialjuice] China, US held candid, detailed, and constructive talks on key economic, trade issues: state media
+- 09/21 11:03 [financialjuice] China, US hold talks on artificial intelligence issues: state media
