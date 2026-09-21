@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 11:21 JST／対象: 09/20 23:21 〜 09/21 11:21 JST（時刻はすべて日本時間）
+生成: 2026-09-21 11:36 JST／対象: 09/20 23:36 〜 09/21 11:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 119 | 09/20 23:23 | 09/21 11:19 | ⚠ 95分（03:25→05:00） |
+| DeItaone | 1 | 09/20 23:43 | 09/20 23:43 | - |
+| FirstSquawk | 121 | 09/20 23:52 | 09/21 11:35 | ⚠ 95分（03:25→05:00） |
 | financialjuice | 94 | 09/20 23:39 | 09/21 11:08 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 214 行（統合前 215 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 215 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We are ready to cooperate with the Nile Basin countries
-- 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We are not against building dams at all, but we are against unilateralism.
-- 09/20 23:23 [FirstSquawk] Egyptian Minister of Water Resources and Irrigation: We have some concerns regarding the Nile Basin Cooperative Framework Agreement.
-- 09/20 23:23 [FirstSquawk] Air defenses in Iraqi Kurdistan shoot down a drone near Erbil airport
-- 09/20 23:29 [DeItaone] TRUMP: “VERY BIG THINGS” COMING ON IRAN President Trump says he is in “a deciding mode” on Iran, warning that “very big things” could happen in the not-so-distant future. Trump said the options range from further military action to economic…
 - 09/20 23:39 [financialjuice] Qatar's prime minister: crisis in Qatar's economy an opportunity to trim government spending and focus investments on priorities
 - 09/20 23:41 [financialjuice] Minneapolis Federal Reserve president Neel Kashkari: Fed’s job is to bring inflation back to 2% target - Fox News interview
 - 09/20 23:41 [financialjuice] Kashkari: Inflation remains too high in Fox News interview
@@ -238,3 +233,9 @@
 - 09/21 11:08 [financialjuice] 12 vessels passed through Strait of Hormuz over weekend, down from 35 week before - shipping data
 - 09/21 11:09 [FirstSquawk] Strait of Hormuz traffic falls to 12 vessels over weekend vs 35 last week — Shipping Data
 - 09/21 11:19 [FirstSquawk] Vietnam stock market opens up 0.54% following FTSE Russell upgrade
+- 09/21 11:27 [FirstSquawk] Paramount considers $1.5 billion California investment amid merger approval push — WSJ
+- 09/21 11:27 [FirstSquawk] Crude prices slip as supply disruption concerns ease - WSJ
+- 09/21 11:28 [FirstSquawk] Asian currencies stabilize with focus on upcoming Trump-Xi meeting — WSJ
+- 09/21 11:29 [FirstSquawk] China’s mainland bourses ramp up outreach amid Hong Kong’s IPO surge — SCMP
+- 09/21 11:32 [FirstSquawk] South Korea issues 5-year government bonds at 4.275% yield — Finance Ministry
+- 09/21 11:35 [FirstSquawk] Hang Seng Biotech Index climbs 5% in Hong Kong trading

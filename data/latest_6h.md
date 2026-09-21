@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 11:21 JST／対象: 09/21 05:21 〜 09/21 11:21 JST（時刻はすべて日本時間）
+生成: 2026-09-21 11:36 JST／対象: 09/21 05:36 〜 09/21 11:36 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 70 | 09/21 05:22 | 09/21 11:19 | 45分（07:56→08:41） |
+| FirstSquawk | 72 | 09/21 05:41 | 09/21 11:35 | 45分（07:56→08:41） |
 | financialjuice | 32 | 09/21 07:07 | 09/21 11:08 | ⚠ 97分（07:12→08:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 104 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 05:22 [FirstSquawk] JAPAN TO USE INDUSTRIAL MACHINERY FOR GATHERING PHYSICAL AI DATA: NIKKEI
-- 09/21 05:23 [FirstSquawk] FRIEDRICH MERZ SAID HE WOULD STAY AS GERMAN CHANCELLOR DESPITE HIS PARTY'S WORST-EVER STATE ELECTION RESULT, WITH THE CDU WINNING 4.9% IN MECKLENBURG-WESTERN POMERANIA — JUST MISSING THE 5% THRESHOLD TO ENTER PARLIAMENT FOR THE FIRST TIME I…
-- 09/21 05:24 [FirstSquawk] FRIEDRICH MERZ CALLED THE RESULT 'A DISASTER', WITH THE FALLOUT — AFTER A DEFEAT TO THE AFD TWO WEEKS AGO IN SAXONY-ANHALT — PROMPTING CALLS TO PUSH HIM OUT AFTER JUST 16 MONTHS, AS HIS CDU WAS ALSO DEFEATED IN BERLIN BY THE ANTI-CAPITALIST…
-- 09/21 05:27 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI LEFT TEHRAN FOR UN GENERAL ASSEMBLY IN NEW YORK, WITH BRIEF STOP PLANNED IN QATAR - STATE MEDIA
 - 09/21 05:41 [FirstSquawk] ZELENSKY-TRUMP MEETING EXPECTED TUESDAY - AXIOS
 - 09/21 06:21 [FirstSquawk] RUSSIA MOVES TO EXPAND DRONE FACTORY IN TATARSTAN - POLITICO
 - 09/21 06:32 [FirstSquawk] TRUMP IS INCREASINGLY FRUSTRATED BY POLITICAL AND LEGAL SETBACKS AND BELIEVES TOO FEW ALLIES ARE PUBLICLY DEFENDING HIS SECOND-TERM RECORD, HAVING ALSO COMPLAINED THAT PROMINENT FIGURES HAVE NOT THANKED HIM FOR HIS ATTEMPTED OVERHAUL OF THE…
@@ -126,3 +122,9 @@
 - 09/21 11:08 [financialjuice] 12 vessels passed through Strait of Hormuz over weekend, down from 35 week before - shipping data
 - 09/21 11:09 [FirstSquawk] Strait of Hormuz traffic falls to 12 vessels over weekend vs 35 last week — Shipping Data
 - 09/21 11:19 [FirstSquawk] Vietnam stock market opens up 0.54% following FTSE Russell upgrade
+- 09/21 11:27 [FirstSquawk] Paramount considers $1.5 billion California investment amid merger approval push — WSJ
+- 09/21 11:27 [FirstSquawk] Crude prices slip as supply disruption concerns ease - WSJ
+- 09/21 11:28 [FirstSquawk] Asian currencies stabilize with focus on upcoming Trump-Xi meeting — WSJ
+- 09/21 11:29 [FirstSquawk] China’s mainland bourses ramp up outreach amid Hong Kong’s IPO surge — SCMP
+- 09/21 11:32 [FirstSquawk] South Korea issues 5-year government bonds at 4.275% yield — Finance Ministry
+- 09/21 11:35 [FirstSquawk] Hang Seng Biotech Index climbs 5% in Hong Kong trading
