@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 19:43 JST／対象: 09/20 19:43 〜 09/21 19:43 JST（時刻はすべて日本時間）
+生成: 2026-09-21 19:54 JST／対象: 09/20 19:54 〜 09/21 19:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
 | FirstSquawk | 248 | 09/20 20:15 | 09/21 19:42 | ⚠ 95分（03:25→05:00） |
-| financialjuice | 132 | 09/20 20:37 | 09/21 19:26 | ⚠ 127分（21:07→23:15） |
+| financialjuice | 133 | 09/20 20:37 | 09/21 19:53 | ⚠ 127分（21:07→23:15） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 375 行（統合前 384 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 376 行（統合前 385 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -399,3 +399,4 @@
 - 09/21 19:31 [FirstSquawk] GOOLSBEE: RESTORING PRICE STABILITY ’WON’T BE PAINLESS’
 - 09/21 19:36 [FirstSquawk] Chicago Fed’s Goolsbee Restoring Price Stability Won’t Be Painless Chicago Federal Reserve President Austan Goolsbee warned that returning inflation to the central bank's 2% target will be a challenging process, driven by persistent supply …
 - 09/21 19:42 [FirstSquawk] BITCOIN HITS HIGHEST SINCE JANUARY 29, AT $85,117.89, LAST UP 4% PCT
+- 09/21 19:53 [financialjuice] Fed's Goolsbee: The Fed must have fortitude to confront inflation
