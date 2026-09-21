@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-21 09:32 JST／対象: 09/20 21:32 〜 09/21 09:32 JST（時刻はすべて日本時間）
+生成: 2026-09-21 09:50 JST／対象: 09/20 21:50 〜 09/21 09:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 110 | 09/20 21:48 | 09/21 09:30 | ⚠ 95分（03:25→05:00） |
+| FirstSquawk | 108 | 09/20 21:58 | 09/21 09:46 | ⚠ 95分（03:25→05:00） |
 | financialjuice | 83 | 09/20 23:15 | 09/21 09:16 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 194 行（統合前 195 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 192 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 21:48 [FirstSquawk] National Security Minister Itamar Ben-Gvir: We demand the execution of the perpetrator of the Neve Tzuf attack in the central West Bank, so that he will be the first to face the law.
-- 09/20 21:48 [FirstSquawk] Ben-Gvir: We demand the execution of the perpetrator of the Neve Tzuf attack in the central West Bank, so that he may be the first to face the law.
-- 09/20 21:48 [FirstSquawk] Iran's Khatam al-Anbiya Central Headquarters: We have received information about Washington's efforts to reinstate certain measures against our country.
-- 09/20 21:49 [FirstSquawk] Iranian Quds Force Headquarters: We warn Washington that committing any mistake will make its bases and interests in the region a target for our attacks.
 - 09/20 21:58 [FirstSquawk] Jerusalem Governorate: Israeli National Security Minister Ben Gvir storms the blessed Al-Aqsa Mosque under tight security protection
 - 09/20 21:58 [FirstSquawk] Israeli Army Chief of Staff: Our forces are on high alert, deployed and ready on all fronts
 - 09/20 22:21 [FirstSquawk] Yemeni government forces: Warplanes target Houthi militia elements and equipment in Al-Bayda Governorate
@@ -218,3 +214,5 @@
 - 09/21 09:28 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN $1 TO $99.22/BBL
 - 09/21 09:29 [FirstSquawk] Gulf LNG constraints could push TTF to €105 and JKM to $35, Goldman warns
 - 09/21 09:30 [FirstSquawk] Trump administration prepares sweeping sanctions against ICC, WSJ reports
+- 09/21 09:35 [FirstSquawk] Oil tanker crunch risks keeping gas prices higher for longer — WSJ
+- 09/21 09:46 [FirstSquawk] Kashkari says US inflation is still elevated across all aspects of the economy — FXStreet

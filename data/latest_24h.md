@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-21 09:32 JST／対象: 09/20 09:32 〜 09/21 09:32 JST（時刻はすべて日本時間）
+生成: 2026-09-21 09:50 JST／対象: 09/20 09:50 〜 09/21 09:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/20 23:29 | 09/20 23:43 | 13分（23:29→23:43） |
-| FirstSquawk | 258 | 09/20 09:42 | 09/21 09:30 | ⚠ 95分（03:25→05:00） |
+| FirstSquawk | 258 | 09/20 09:53 | 09/21 09:46 | ⚠ 95分（03:25→05:00） |
 | financialjuice | 98 | 09/20 10:00 | 09/21 09:16 | ⚠ 220分（12:59→16:39） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/20 09:42 [FirstSquawk] FBI reportedly warns of fake dating profiles targeting ICE agents
-- 09/20 09:43 [FirstSquawk] American dream’ continues to produce millionaires, WSJ reports
 - 09/20 09:53 [FirstSquawk] Trump says historic deal grants US permanent security control over Greenland
 - 09/20 10:00 [financialjuice] China sets five-year loan prime rate at 3.50%, unchanged from a month earlier
 - 09/20 10:05 [FirstSquawk] China sees record 3.32 billion rail passenger trips through August, up 3.9%
@@ -376,3 +374,5 @@
 - 09/21 09:28 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN $1 TO $99.22/BBL
 - 09/21 09:29 [FirstSquawk] Gulf LNG constraints could push TTF to €105 and JKM to $35, Goldman warns
 - 09/21 09:30 [FirstSquawk] Trump administration prepares sweeping sanctions against ICC, WSJ reports
+- 09/21 09:35 [FirstSquawk] Oil tanker crunch risks keeping gas prices higher for longer — WSJ
+- 09/21 09:46 [FirstSquawk] Kashkari says US inflation is still elevated across all aspects of the economy — FXStreet

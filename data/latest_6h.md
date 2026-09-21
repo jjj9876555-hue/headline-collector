@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-21 09:32 JST／対象: 09/21 03:32 〜 09/21 09:32 JST（時刻はすべて日本時間）
+生成: 2026-09-21 09:50 JST／対象: 09/21 03:50 〜 09/21 09:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 47 | 09/21 05:00 | 09/21 09:30 | 45分（07:56→08:41） |
-| financialjuice | 25 | 09/21 03:37 | 09/21 09:16 | ⚠ 114分（05:13→07:07） |
+| FirstSquawk | 49 | 09/21 05:00 | 09/21 09:46 | 45分（07:56→08:41） |
+| financialjuice | 23 | 09/21 04:48 | 09/21 09:16 | ⚠ 114分（05:13→07:07） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 71 行（統合前 72 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 03:37 [financialjuice] Trump administration ready to impose sanctions on International Criminal Court: WSJ
-- 09/21 03:38 [financialjuice] Sanctions would ban most dealings with ICC after six to seven months grace period: WSJ
 - 09/21 04:48 [financialjuice] France condemns iranian authorities' choice to shut language centre in Tehran: foreign ministry
 - 09/21 04:50 [financialjuice] France's foreign ministry: shutting Tehran language centre is unjustified and unacceptable
 - 09/21 04:51 [financialjuice] France will take appropriate steps after closure of language centre in Tehran: foreign ministry
@@ -95,3 +93,5 @@
 - 09/21 09:28 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN $1 TO $99.22/BBL
 - 09/21 09:29 [FirstSquawk] Gulf LNG constraints could push TTF to €105 and JKM to $35, Goldman warns
 - 09/21 09:30 [FirstSquawk] Trump administration prepares sweeping sanctions against ICC, WSJ reports
+- 09/21 09:35 [FirstSquawk] Oil tanker crunch risks keeping gas prices higher for longer — WSJ
+- 09/21 09:46 [FirstSquawk] Kashkari says US inflation is still elevated across all aspects of the economy — FXStreet
