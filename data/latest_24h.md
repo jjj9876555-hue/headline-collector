@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 20:24 JST／対象: 09/21 20:24 〜 09/22 20:24 JST（時刻はすべて日本時間）
+生成: 2026-09-22 20:43 JST／対象: 09/21 20:43 〜 09/22 20:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 70 | 09/21 20:25 | 09/22 20:20 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 344 | 09/21 20:24 | 09/22 20:23 | 44分（06:24→07:08） |
+| DeItaone | 69 | 09/21 20:50 | 09/22 20:41 | ⚠ 1015分（02:22→19:18） |
+| FirstSquawk | 343 | 09/21 20:50 | 09/22 20:43 | 44分（06:24→07:08） |
 | financialjuice | 266 | 09/21 21:10 | 09/22 18:57 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 666 行（統合前 684 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 664 行（統合前 682 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 20:24 [FirstSquawk] FED’S GOOLSBEE: THE 2% INFLATION TARGET IS STILL REALISTIC EVEN IN A WORLD OF REPEATED SUPPLY SHOCKS, MARKET EXPECTATIONS REFLECT FAITH IT WILL BE MET
-- 09/21 20:25 [DeItaone] FED’S GOOLSBEE: RATE CUTS POSSIBLE IF INFLATION HEADS TO 2% Fed’s Goolsbee remains optimistic inflation can return to the 2% target, provided demand does not overheat. He says the Fed currently has an inflation problem, not an employment pr…
-- 09/21 20:30 [FirstSquawk] CHINA PLANS TO DROP A 15% TARIFF ON US LNG THIS WEEK, POTENTIALLY REOPENING TRADE BETWEEN THE TWO NATIONS. NEW DEALS COULD FOLLOW.
-- 09/21 20:39 [FirstSquawk] YEMENI HOUTHI OFFICIAL SAYS EGYPT, TURKEY, AND PAKISTAN MAY BE TARGETS IN FUTURE ACTIONS.
-- 09/21 20:40 [FirstSquawk] US AMBASSADOR TO UN WALTZ SAYS TRUMP IS ALWAYS OPEN TO TALK, IRAN HAS TO COME TO TABLE
-- 09/21 20:43 [DeItaone] *WALTZ: TRUMP IS ALWAYS OPEN TO TALK, IRAN HAS TO COME TO TABLE
 - 09/21 20:50 [DeItaone] “STREAMFLATION” DRIVES MASS STREAMING CANCELLATIONS 39% of Americans canceled at least one streaming subscription over the past six months, up sharply from 29% in March, according to Ipsos. Repeated price hikes and broader cost-of-living pr…
 - 09/21 20:50 [FirstSquawk] MERZ SAYS REGIONAL ELECTION WAS 'DRAMATIC INCIDENT'
 - 09/21 20:51 [DeItaone] HORMUZ CRISIS SENDS TANKER RATES ABOVE $1 MILLION A DAY Supertanker rates on the Persian Gulf-to-China route have surged to $1.035 million per day, nearly 5x pre-war levels, as traffic through the Strait of Hormuz collapses. Only 17 commodi…
@@ -690,3 +684,7 @@
 - 09/22 20:20 [DeItaone] CHINA PROBES DEEPSEEK, MOONSHOT OVER POTENTIAL DATA LEAKS TO ANTHROPIC - THE INFORMATION ANTHROPIC ALLEGED DEEPSEEK, MOONSHOT ROUTED SENSITIVE DATA TO CLAUDE- THE INFORMATION
 - 09/22 20:20 [FirstSquawk] CHINA PROBES DEEPSEEK ON CLAUDE USER DATA ROUTING: INFORMATION
 - 09/22 20:23 [FirstSquawk] Rumors of Negotiations Pull Oil Prices Down The simultaneous publication of positive news regarding Iran-US negotiations and the potential reopening of the Strait of Hormuz once again impacted the oil market and drove prices down. Most rece…
+- 09/22 20:40 [FirstSquawk] RUBIO, ASKED ABOUT IRAN: NEVER CLOSE THE DOOR TO DIPLOMACY
+- 09/22 20:40 [FirstSquawk] RUBIO: IRAN'S ECONOMY IS BEING CRIPPLED BY SANCTIONS
+- 09/22 20:41 [DeItaone] RUBIO: INTEND TO LIVE UP TO COMMITMENTS WITH SAUDI ARABIA -FOX NEWS INTERVIEW
+- 09/22 20:43 [FirstSquawk] US SECRETARY OF STATE RUBIO ON UKRAINE WAR: CONCERNED ABOUT US-LINKED SHIPS BEING TARGETED -FOX NEWS INTERVIEW

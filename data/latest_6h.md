@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 20:24 JST／対象: 09/22 14:24 〜 09/22 20:24 JST（時刻はすべて日本時間）
+生成: 2026-09-22 20:43 JST／対象: 09/22 14:43 〜 09/22 20:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/22 19:18 | 09/22 20:20 | 16分（19:37→19:54） |
-| FirstSquawk | 53 | 09/22 14:24 | 09/22 20:23 | 33分（19:13→19:46） |
+| DeItaone | 15 | 09/22 19:18 | 09/22 20:41 | 20分（20:20→20:41） |
+| FirstSquawk | 53 | 09/22 14:54 | 09/22 20:43 | 33分（19:13→19:46） |
 | financialjuice | 32 | 09/22 15:00 | 09/22 18:57 | ⚠ 57分（17:02→18:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 99 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 100 行（統合前 100 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 14:24 [FirstSquawk] US Vice President Vance: US seeks to prevent Iran from rebuilding its nuclear programme
-- 09/22 14:30 [FirstSquawk] Boeing target price cut to $265 from $295 by Jefferies
-- 09/22 14:31 [FirstSquawk] Iranian President: Enemy aims to block all roads into Iran and force it to surrender — Al Jazeera
 - 09/22 14:54 [FirstSquawk] Morgan Stanley lowers Ericsson rating to Underweight from Equal Weight
 - 09/22 15:00 [financialjuice] UK PSNB EX BANKS ACTUAL 18.268B (FORECAST -, PREVIOUS 1.800B) $MACRO
 - 09/22 15:01 [FirstSquawk] UK ( AUG) PUBLIC FINANCES (PSNCR) ACTUAL: 10B VS -29B PREVIOUS
@@ -123,3 +120,7 @@
 - 09/22 20:20 [DeItaone] CHINA PROBES DEEPSEEK, MOONSHOT OVER POTENTIAL DATA LEAKS TO ANTHROPIC - THE INFORMATION ANTHROPIC ALLEGED DEEPSEEK, MOONSHOT ROUTED SENSITIVE DATA TO CLAUDE- THE INFORMATION
 - 09/22 20:20 [FirstSquawk] CHINA PROBES DEEPSEEK ON CLAUDE USER DATA ROUTING: INFORMATION
 - 09/22 20:23 [FirstSquawk] Rumors of Negotiations Pull Oil Prices Down The simultaneous publication of positive news regarding Iran-US negotiations and the potential reopening of the Strait of Hormuz once again impacted the oil market and drove prices down. Most rece…
+- 09/22 20:40 [FirstSquawk] RUBIO, ASKED ABOUT IRAN: NEVER CLOSE THE DOOR TO DIPLOMACY
+- 09/22 20:40 [FirstSquawk] RUBIO: IRAN'S ECONOMY IS BEING CRIPPLED BY SANCTIONS
+- 09/22 20:41 [DeItaone] RUBIO: INTEND TO LIVE UP TO COMMITMENTS WITH SAUDI ARABIA -FOX NEWS INTERVIEW
+- 09/22 20:43 [FirstSquawk] US SECRETARY OF STATE RUBIO ON UKRAINE WAR: CONCERNED ABOUT US-LINKED SHIPS BEING TARGETED -FOX NEWS INTERVIEW
