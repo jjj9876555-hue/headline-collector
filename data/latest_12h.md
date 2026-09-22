@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 05:16 JST／対象: 09/22 17:16 〜 09/23 05:16 JST（時刻はすべて日本時間）
+生成: 2026-09-23 05:32 JST／対象: 09/22 17:32 〜 09/23 05:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 195 | 09/22 17:40 | 09/23 05:03 | 35分（01:56→02:31） |
-| financialjuice | 234 | 09/22 18:00 | 09/23 05:15 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 200 | 09/22 17:40 | 09/23 05:26 | 35分（01:56→02:31） |
+| financialjuice | 240 | 09/22 18:00 | 09/23 05:31 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 439 行（統合前 460 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 450 行（統合前 471 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -463,3 +463,14 @@
 - 09/23 05:13 [financialjuice] ECB's Nagel: I do not see too much uncertainty in markets about what drives our decision making.
 - 09/23 05:14 [financialjuice] Iraqi Oil Minister: Volume of oil exported in August reached 70 mln barrels - State Media
 - 09/23 05:15 [financialjuice] Iraqi Oil Minister: Iraq is currently exporting more than 3 mln barrels of oil per day - State Media
+- 09/23 05:21 [FirstSquawk] IRAQ OIL EXPORTS TOP 3 MLN BPD; AUGUST EXPORT VOLUME REACHED 70 MLN BARRELS — STATE MEDIA
+- 09/23 05:22 [financialjuice] ECB's Nagel: ECB rates are still in neutral territory, cannot exclude that we will need to go into mild restrictive territory.
+- 09/23 05:22 [FirstSquawk] CHIPMAKERS LIFTED THE NASDAQ 100 0.8% TO ITS FIRST RECORD SINCE JUNE, WITH A SEMICONDUCTOR GAUGE INCLUDING NVIDIA AND MICRON RISING FOR A SIXTH STRAIGHT SESSION, OFFSETTING A SELLOFF IN BANK SHARES.
+- 09/23 05:22 [FirstSquawk] BRENT SETTLED AROUND $99 AS TRUMP SAID U.S.-IRAN TALKS WERE “VERY PRODUCTIVE” AND SHOWED “A LOT OF MOMENTUM” TOWARD A DEAL, WHILE WALL STREET ALSO LOOKS AHEAD TO THE TRUMP-XI SUMMIT ON TRADE, AI AND OTHER CONTENTIOUS ISSUES.
+- 09/23 05:26 [financialjuice] NY Fed's Perli: Fed's reserve management purchases are not on a pre-set course
+- 09/23 05:26 [financialjuice] NY Fed Perli: Monetary policy toolkit has been working very well.
+- 09/23 05:26 [financialjuice] NY Fed's Perli: Fed's reserve forecasting process is robust
+- 09/23 05:26 [FirstSquawk] NEW YORK FED OPEN MARKETS CHIEF JOHN WILLIAMS PERLI SAYS THE FED’S RESERVE MANAGEMENT PURCHASES ARE NOT ON A PRESET COURSE, WHILE SAYING THE CENTRAL BANK’S MONETARY POLICY TOOLKIT HAS BEEN WORKING VERY WELL.
+- 09/23 05:26 [financialjuice] NY Fed's Perli: Central clearing of Fed repo operations would have benefits
+- 09/23 05:26 [FirstSquawk] NEW YORK FED OPEN MARKETS CHIEF JOHN WILLIAMS PERL SAYS CENTRAL CLEARING OF FED REPO OPERATIONS COULD PROVIDE BENEFITS, WHILE DESCRIBING THE FED’S RESERVE FORECASTING PROCESS AS ROBUST.
+- 09/23 05:31 [financialjuice] Iraqi Oil Minister: Road transport of crude from southern oilfields to Kirkuk expected to increase exports via Turkey's Ceyhan port to more than 600,000 bpd

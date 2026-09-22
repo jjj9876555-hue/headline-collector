@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 05:16 JST／対象: 09/22 05:16 〜 09/23 05:16 JST（時刻はすべて日本時間）
+生成: 2026-09-23 05:32 JST／対象: 09/22 05:32 〜 09/23 05:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 364 | 09/22 05:28 | 09/23 05:03 | 44分（06:24→07:08） |
-| financialjuice | 296 | 09/22 05:18 | 09/23 05:15 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 368 | 09/22 05:52 | 09/23 05:26 | 44分（06:24→07:08） |
+| financialjuice | 301 | 09/22 06:00 | 09/23 05:31 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 669 行（統合前 691 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 678 行（統合前 700 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 05:18 [financialjuice] WATCH LIVE: Trump Meets With Mayor Zohran Mamdani In New York City
-- 09/22 05:28 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI ARRIVES IN NEW YORK TO ATTEND UN GENERAL ASSEMBLY - IRANIAN MEDIA
 - 09/22 05:52 [FirstSquawk] THE ROYAL CANADIAN MINT HAS ANNOUNCED A FOLLOW-ON OFFERING OF GOLD EXCHANGE-TRADED RECEIPTS, WITH NET PROCEEDS TO BE USED TO PURCHASE GOLD BULLION.
 - 09/22 05:52 [FirstSquawk] THE ROYAL CANADIAN MINT SAYS ETR HOLDERS ARE ENTITLED TO REDEEM FOR GOLD BULLION WITH A MINIMUM PURITY OF 99.99% OR FOR CASH.
 - 09/22 05:53 [FirstSquawk] US SECRETARY OF STATE RUBIO, KENYA PRESIDENT RUTO: DISCUSS CRITICAL MINERALS IN MEETING - SOURCES
@@ -693,3 +691,14 @@
 - 09/23 05:13 [financialjuice] ECB's Nagel: I do not see too much uncertainty in markets about what drives our decision making.
 - 09/23 05:14 [financialjuice] Iraqi Oil Minister: Volume of oil exported in August reached 70 mln barrels - State Media
 - 09/23 05:15 [financialjuice] Iraqi Oil Minister: Iraq is currently exporting more than 3 mln barrels of oil per day - State Media
+- 09/23 05:21 [FirstSquawk] IRAQ OIL EXPORTS TOP 3 MLN BPD; AUGUST EXPORT VOLUME REACHED 70 MLN BARRELS — STATE MEDIA
+- 09/23 05:22 [financialjuice] ECB's Nagel: ECB rates are still in neutral territory, cannot exclude that we will need to go into mild restrictive territory.
+- 09/23 05:22 [FirstSquawk] CHIPMAKERS LIFTED THE NASDAQ 100 0.8% TO ITS FIRST RECORD SINCE JUNE, WITH A SEMICONDUCTOR GAUGE INCLUDING NVIDIA AND MICRON RISING FOR A SIXTH STRAIGHT SESSION, OFFSETTING A SELLOFF IN BANK SHARES.
+- 09/23 05:22 [FirstSquawk] BRENT SETTLED AROUND $99 AS TRUMP SAID U.S.-IRAN TALKS WERE “VERY PRODUCTIVE” AND SHOWED “A LOT OF MOMENTUM” TOWARD A DEAL, WHILE WALL STREET ALSO LOOKS AHEAD TO THE TRUMP-XI SUMMIT ON TRADE, AI AND OTHER CONTENTIOUS ISSUES.
+- 09/23 05:26 [financialjuice] NY Fed's Perli: Fed's reserve management purchases are not on a pre-set course
+- 09/23 05:26 [financialjuice] NY Fed Perli: Monetary policy toolkit has been working very well.
+- 09/23 05:26 [financialjuice] NY Fed's Perli: Fed's reserve forecasting process is robust
+- 09/23 05:26 [FirstSquawk] NEW YORK FED OPEN MARKETS CHIEF JOHN WILLIAMS PERLI SAYS THE FED’S RESERVE MANAGEMENT PURCHASES ARE NOT ON A PRESET COURSE, WHILE SAYING THE CENTRAL BANK’S MONETARY POLICY TOOLKIT HAS BEEN WORKING VERY WELL.
+- 09/23 05:26 [financialjuice] NY Fed's Perli: Central clearing of Fed repo operations would have benefits
+- 09/23 05:26 [FirstSquawk] NEW YORK FED OPEN MARKETS CHIEF JOHN WILLIAMS PERL SAYS CENTRAL CLEARING OF FED REPO OPERATIONS COULD PROVIDE BENEFITS, WHILE DESCRIBING THE FED’S RESERVE FORECASTING PROCESS AS ROBUST.
+- 09/23 05:31 [financialjuice] Iraqi Oil Minister: Road transport of crude from southern oilfields to Kirkuk expected to increase exports via Turkey's Ceyhan port to more than 600,000 bpd

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 05:16 JST／対象: 09/22 23:16 〜 09/23 05:16 JST（時刻はすべて日本時間）
+生成: 2026-09-23 05:32 JST／対象: 09/22 23:32 〜 09/23 05:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 128 | 09/22 23:18 | 09/23 05:03 | 35分（01:56→02:31） |
-| financialjuice | 159 | 09/22 23:17 | 09/23 05:15 | 14分（03:02→03:16） |
+| FirstSquawk | 130 | 09/22 23:33 | 09/23 05:26 | 35分（01:56→02:31） |
+| financialjuice | 157 | 09/22 23:33 | 09/23 05:31 | 14分（03:02→03:16） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 280 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,17 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 23:17 [financialjuice] Fed's Jefferson does not comment on monetary policy, economy in prepared remarks.
-- 09/22 23:17 [financialjuice] Fed's Jefferson: Banks using fed's discount window report it's faster, easier, more efficient since self-service portal started.
-- 09/22 23:17 [financialjuice] Fed's Jefferson: The discount window is shock absorber during market stress, supports functioning of short-term funding markets, treasury liquidity.
-- 09/22 23:17 [financialjuice] Fed's Jefferson: Still important work to do to modernize the discount window.
-- 09/22 23:18 [financialjuice] Fear and Greed Index: 38/100 = Fear
-- 09/22 23:18 [FirstSquawk] MEDIATORS ARE WORKING TO SET UP A HIGH-LEVEL MEETING BETWEEN THE US AND IRAN.
-- 09/22 23:19 [financialjuice] Crypto Fear and Greed Index: 78/100 = Extreme Greed
-- 09/22 23:20 [FirstSquawk] FED’S JEFFERSON DOESN’T COMMENT ON MONPOL OR ECONOMY
-- 09/22 23:23 [financialjuice] Iran’s Foreign Minister Araghchi meets with the Qatari Foreign Minister - Iranian Media.
-- 09/22 23:28 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI AND QATARI FOREIGN MINISTER HOLD MEETING, SAYS IRANIAN MEDIA.
-- 09/22 23:31 [financialjuice] Trump expected to meet Tuesday with representatives from nine Arab countries on potential conflict with Iran; many likely to urge him to de-escalate and seek an agreement - Barak Ravid, News 12
 - 09/22 23:33 [FirstSquawk] US PRESIDENT TRUMP: US TECHNOLOGY IS SECOND TO NONE AND LEADING GLOBALLY
 - 09/22 23:33 [financialjuice] Trump: Invested $1.5 trillion in the US military in the past 12 months.
 - 09/22 23:35 [FirstSquawk/financialjuice] TRUMP: I URGE IRAN TO MAKE A DEAL
@@ -304,3 +293,14 @@
 - 09/23 05:13 [financialjuice] ECB's Nagel: I do not see too much uncertainty in markets about what drives our decision making.
 - 09/23 05:14 [financialjuice] Iraqi Oil Minister: Volume of oil exported in August reached 70 mln barrels - State Media
 - 09/23 05:15 [financialjuice] Iraqi Oil Minister: Iraq is currently exporting more than 3 mln barrels of oil per day - State Media
+- 09/23 05:21 [FirstSquawk] IRAQ OIL EXPORTS TOP 3 MLN BPD; AUGUST EXPORT VOLUME REACHED 70 MLN BARRELS — STATE MEDIA
+- 09/23 05:22 [financialjuice] ECB's Nagel: ECB rates are still in neutral territory, cannot exclude that we will need to go into mild restrictive territory.
+- 09/23 05:22 [FirstSquawk] CHIPMAKERS LIFTED THE NASDAQ 100 0.8% TO ITS FIRST RECORD SINCE JUNE, WITH A SEMICONDUCTOR GAUGE INCLUDING NVIDIA AND MICRON RISING FOR A SIXTH STRAIGHT SESSION, OFFSETTING A SELLOFF IN BANK SHARES.
+- 09/23 05:22 [FirstSquawk] BRENT SETTLED AROUND $99 AS TRUMP SAID U.S.-IRAN TALKS WERE “VERY PRODUCTIVE” AND SHOWED “A LOT OF MOMENTUM” TOWARD A DEAL, WHILE WALL STREET ALSO LOOKS AHEAD TO THE TRUMP-XI SUMMIT ON TRADE, AI AND OTHER CONTENTIOUS ISSUES.
+- 09/23 05:26 [financialjuice] NY Fed's Perli: Fed's reserve management purchases are not on a pre-set course
+- 09/23 05:26 [financialjuice] NY Fed Perli: Monetary policy toolkit has been working very well.
+- 09/23 05:26 [financialjuice] NY Fed's Perli: Fed's reserve forecasting process is robust
+- 09/23 05:26 [FirstSquawk] NEW YORK FED OPEN MARKETS CHIEF JOHN WILLIAMS PERLI SAYS THE FED’S RESERVE MANAGEMENT PURCHASES ARE NOT ON A PRESET COURSE, WHILE SAYING THE CENTRAL BANK’S MONETARY POLICY TOOLKIT HAS BEEN WORKING VERY WELL.
+- 09/23 05:26 [financialjuice] NY Fed's Perli: Central clearing of Fed repo operations would have benefits
+- 09/23 05:26 [FirstSquawk] NEW YORK FED OPEN MARKETS CHIEF JOHN WILLIAMS PERL SAYS CENTRAL CLEARING OF FED REPO OPERATIONS COULD PROVIDE BENEFITS, WHILE DESCRIBING THE FED’S RESERVE FORECASTING PROCESS AS ROBUST.
+- 09/23 05:31 [financialjuice] Iraqi Oil Minister: Road transport of crude from southern oilfields to Kirkuk expected to increase exports via Turkey's Ceyhan port to more than 600,000 bpd
