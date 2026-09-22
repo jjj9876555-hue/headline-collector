@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 23:05 JST／対象: 09/21 23:05 〜 09/22 23:05 JST（時刻はすべて日本時間）
+生成: 2026-09-22 23:25 JST／対象: 09/21 23:25 〜 09/22 23:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 45 | 09/21 23:17 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 334 | 09/21 23:10 | 09/22 23:02 | 44分（06:24→07:08） |
-| financialjuice | 231 | 09/21 23:10 | 09/22 23:03 | ⚠ 248分（08:13→12:21） |
+| DeItaone | 42 | 09/21 23:29 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
+| FirstSquawk | 332 | 09/21 23:27 | 09/22 23:20 | 44分（06:24→07:08） |
+| financialjuice | 236 | 09/21 23:27 | 09/22 23:23 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 595 行（統合前 615 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,27 +24,7 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 23:10 [FirstSquawk] NOVO CFO: AIM TO MAINTAIN ‘BROADLY STABLE’ OP. MARGIN UNTIL 2030 COMPARED TO TODAY
-- 09/21 23:10 [financialjuice] USTR Greer: China is doing what they promised on soybeans - Fox News.
-- 09/21 23:11 [financialjuice] USTR Greer: Rare earths are coming in, but we'd like higher quantities.
-- 09/21 23:12 [financialjuice] USTR Greer: China is making progress on it's Boeing commitment from May. $BA
-- 09/21 23:12 [financialjuice] USTR Greer: There is no grand bargain to be had with China.
-- 09/21 23:13 [financialjuice] USTR Greer ends remarks on Fox News.
-- 09/21 23:14 [FirstSquawk] TAKAICHI TO STRESS JAPANESE INVESTMENT IN US IN TALKS WITH TRUMP - NIKKEI
-- 09/21 23:14 [financialjuice] Japan's PM Takaichi is going to stress Japanese investment in the US in talks with Trump - Nikkei.
-- 09/21 23:16 [financialjuice] Takaichi to stress Japanese investment in US in talks with Trump
-- 09/21 23:17 [financialjuice] Advanced Micro Devices hits $1 trillion in market capitalization for the first time. $AMD
-- 09/21 23:17 [DeItaone] $AMD - ADVANCED MICRO DEVICES HITS $1 TRILLION IN MARKET CAPITALIZATION FOR THE FIRST TIME
-- 09/21 23:18 [financialjuice] Fear and Greed Index: 33/100 = Fear
-- 09/21 23:18 [financialjuice] Crypto Fear and Greed Index: 70/100 = Greed
-- 09/21 23:19 [DeItaone] OIL SLIDES AS SAUDI FLOWS DEFY DISRUPTION Brent fell 2.6% to $101.18, while WTI dropped below $98 as diplomacy hopes and resilient supply eased fears of a deeper shortage. Saudi shipments through Hormuz have averaged 2.9 million bpd, versus…
-- 09/21 23:20 [FirstSquawk] BRENT CRUDE FUTURES DROP BELOW $100/BBL FOR THE FIRST TIME SINCE SEPTEMBER 9
-- 09/21 23:20 [FirstSquawk] UKMTO: LPG TANKER HIT BY UNKNOWN PROJECTILE DEBRIS IN HORMUZ
-- 09/21 23:21 [FirstSquawk] AMD’S MARKET CAP HITS $1 TLN MARKET CAP FOR THE FIRST TIME
-- 09/21 23:24 [DeItaone] CNN, MS NOW, POLITICO SUE DONALD TRUMP, COURT RECORDS SHOW
-- 09/21 23:24 [financialjuice] UKMTO: We received a time-late report of an incident involving lpg tanker transiting outbound of the Strait of Hormuz.
-- 09/21 23:25 [financialjuice] UKMTO: A master has reported that an LPG tanker has been hit by debris from unknown projectiles.
-- 09/21 23:25 [financialjuice/FirstSquawk] ❗ US proposed extending China trade truce by six months - NYT.
+- 09/21 23:27 [FirstSquawk/financialjuice] US PROPOSED EXTENDING CHINA TRADE TRUCE BY SIX MONTHS: NYT
 - 09/21 23:27 [FirstSquawk] CHINA HAS PUSHED FOR A LONGER TRADE TRUCE EXTENSION: NYT
 - 09/21 23:28 [financialjuice] Stocks of crude oil in the US strategic petroleum reserve fell to 284.6 million barrels last week, the lowest since 1982.
 - 09/21 23:28 [FirstSquawk] US STRATEGIC PETROLEUM RESERVE CRUDE OIL STOCKS DROPPED TO 284.6 MILLION BARRELS LAST WEEK, THE LOWEST LEVEL SINCE 1982.
@@ -619,3 +599,23 @@
 - 09/22 23:02 [FirstSquawk] US RICHMOND FED MANUFACTURING INDEX SEP: 2 (EST 2; PREV 4)
 - 09/22 23:02 [FirstSquawk] EUROZONE CONSUMER CONFIDENCE SEP P: -16.5 (EST -16.0; PREV -15.5)
 - 09/22 23:03 [financialjuice] Trump: And if necessary, we will use our unmatched military might to secure the vital national interests of the United States - White House Press Pool
+- 09/22 23:05 [financialjuice] Fed's Williams does not comment on monetary policy or the economic outlook.
+- 09/22 23:05 [financialjuice] Fed's Williams: There should be no opportunity cost to holding reserves.
+- 09/22 23:05 [financialjuice] Fed's Williams: The Fed's rate control system has been very effective.
+- 09/22 23:05 [financialjuice] Fed's Williams: The Fed will adjust the supply of reserves depending on market conditions.
+- 09/22 23:05 [financialjuice] Fed's Williams: Monitoring rise of centrally cleared repo trading.
+- 09/22 23:06 [financialjuice] Fed's Williams: The Fed will adjust monetary policy implementation strategy as needed.
+- 09/22 23:06 [financialjuice] New York Fed's 2026 Treasury Market Conference with Fed's Williams & Jefferson - WATCH LIVE
+- 09/22 23:07 [financialjuice] Microsoft began a new round of layoffs affecting around 500 employees - Business Insider. $MSFT
+- 09/22 23:08 [financialjuice] Microsoft starts a new round of job cuts and the next phase of its Xbox 'reset.' - Business Insider $MSFT
+- 09/22 23:12 [FirstSquawk] BRAZILIAN PRESIDENT LULA: UN SPECIAL RAPPORTEUR FRANCESCA ALBANESE MUST NOT BE SILENCED FOR TELLING THE TRUTH.
+- 09/22 23:14 [financialjuice] Several mediating countries in contact with US and Iran to arrange a high-level meeting - Regional source involved in negotiations, via Barak Ravid, News 12
+- 09/22 23:17 [financialjuice] Fed's Jefferson does not comment on monetary policy, economy in prepared remarks.
+- 09/22 23:17 [financialjuice] Fed's Jefferson: Banks using fed's discount window report it's faster, easier, more efficient since self-service portal started.
+- 09/22 23:17 [financialjuice] Fed's Jefferson: The discount window is shock absorber during market stress, supports functioning of short-term funding markets, treasury liquidity.
+- 09/22 23:17 [financialjuice] Fed's Jefferson: Still important work to do to modernize the discount window.
+- 09/22 23:18 [financialjuice] Fear and Greed Index: 38/100 = Fear
+- 09/22 23:18 [FirstSquawk] MEDIATORS ARE WORKING TO SET UP A HIGH-LEVEL MEETING BETWEEN THE US AND IRAN.
+- 09/22 23:19 [financialjuice] Crypto Fear and Greed Index: 78/100 = Extreme Greed
+- 09/22 23:20 [FirstSquawk] FED’S JEFFERSON DOESN’T COMMENT ON MONPOL OR ECONOMY
+- 09/22 23:23 [financialjuice] Iran’s Foreign Minister Araghchi meets with the Qatari Foreign Minister - Iranian Media.
