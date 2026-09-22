@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 02:42 JST／対象: 09/22 20:42 〜 09/23 02:42 JST（時刻はすべて日本時間）
+生成: 2026-09-23 02:52 JST／対象: 09/22 20:52 〜 09/23 02:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/22 20:46 | 09/22 21:26 | 15分（21:11→21:26） |
-| FirstSquawk | 93 | 09/22 20:43 | 09/23 02:40 | 35分（01:56→02:31） |
-| financialjuice | 148 | 09/22 20:54 | 09/23 02:37 | 20分（21:15→21:36） |
+| DeItaone | 5 | 09/22 20:53 | 09/22 21:26 | 15分（21:11→21:26） |
+| FirstSquawk | 97 | 09/22 20:53 | 09/23 02:52 | 35分（01:56→02:31） |
+| financialjuice | 157 | 09/22 20:54 | 09/23 02:52 | 20分（21:15→21:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 239 行（統合前 253 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 252 行（統合前 265 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 20:43 [FirstSquawk] US SECRETARY OF STATE RUBIO ON UKRAINE WAR: CONCERNED ABOUT US-LINKED SHIPS BEING TARGETED -FOX NEWS INTERVIEW
-- 09/22 20:44 [FirstSquawk] RUBIO: IDEAL OUTCOME RUSSIA, UKRAINE NOT TARGETING ENERGY SITES
-- 09/22 20:46 [DeItaone] *MILEI'S US TRADE DEAL UNDER THREAT ON DEMAND FOR BETTER TERMS
-- 09/22 20:47 [FirstSquawk] GULF STATES PLAN TO TELL TRUMP TO STEER CLEAR OF ESCALATION WITH IRAN.
-- 09/22 20:49 [FirstSquawk/financialjuice] US SECRETARY OF STATE RUBIO ON AI: NOT SURE IF PLAN WILL BE READY BY THURSDAY -FOX NEWS INTERVIEW
 - 09/22 20:53 [DeItaone] MILEI’S U.S. TRADE DEAL HITS CONGRESSIONAL ROADBLOCK Argentina has reportedly told the Trump administration it lacks the votes to ratify its bilateral trade agreement with the U.S. Milei wants to renegotiate terms following the U.S. Supreme…
 - 09/22 20:53 [FirstSquawk/financialjuice] RUBIO: SEEN MORE COOPERATION FROM NATO COUNTRIES RECENTLY
 - 09/22 20:54 [FirstSquawk] US SEC OF STATE RUBIO ON GREENLAND: US CAN BUILD AS MANY MILITARY BASES AS WANT
@@ -37,6 +32,7 @@
 - 09/22 20:54 [financialjuice] US Secretary of State Rubio: Ideal outcome is Russia and Ukraine not targeting energy sites
 - 09/22 20:54 [financialjuice] Gulf states set to urge Trump to avoid any escalation with Iran
 - 09/22 20:54 [financialjuice] Six-member Gulf bloc expected to meet Trump in New York Tuesday
+- 09/22 20:54 [financialjuice] US Secretary of State Rubio, on AI: Not sure if plan will be ready by Thursday - Fox News interview
 - 09/22 20:54 [financialjuice] US Secretary of State Rubio, on Greenland: The US can build as many military bases as wanted
 - 09/22 21:01 [FirstSquawk] HUNGARY HOLDS BANK RATE AT 5.50%, AS EXPECTED
 - 09/22 21:01 [financialjuice] ASML Executives: Europe’s biggest firm has no sales in europe.
@@ -263,3 +259,20 @@
 - 09/23 02:37 [financialjuice] Fed's Barkin: Fed is highly attentive to financial conditions, but can't assume markets will keep rates at a level needed to cool inflation.
 - 09/23 02:40 [FirstSquawk] FED’S BARKIN: FED IS HIGHLY ATTENTIVE TO FINANCIAL CONDITIONS BUT CANNOT ASSUME MARKETS WILL KEEP RATES HIGH ENOUGH TO COOL INFLATION
 - 09/23 02:40 [FirstSquawk] FED’S BARKIN: HOPES CURRENT PERIOD RESEMBLES THE 1990S MID-CYCLE ADJUSTMENT
+- 09/23 02:44 [financialjuice] Fed's Barkin: I don't think current productivity improvements mostly reflect AI.
+- 09/23 02:46 [FirstSquawk] NEW YORK FED ACCEPTS $3M OF $3M SUBMITTED IN STANDING REPO OPERATION ON SEPTEMBER 22
+- 09/23 02:47 [financialjuice] Senior White House official to Al Jazeera: No meeting with the Iranians on President Trump's schedule, but he is open to it
+- 09/23 02:48 [financialjuice] Trump: Have a good relationship with Zelenskyy.
+- 09/23 02:48 [financialjuice] Trump: Zelenskiy and I are figuring out a solution to end the war
+- 09/23 02:48 [FirstSquawk] TRUMP SAYS HE AND ZELENSKIY ARE FIGURING OUT A SOLUTION TO END THE WAR
+- 09/23 02:49 [FirstSquawk] TRUMP SAYS US RELATIONSHIP WITH UKRAINE & EUROPE IS ‘VERY STRONG’
+- 09/23 02:49 [FirstSquawk] WHITE HOUSE OFFICIAL: NO MEETING WITH IRANIAN OFFICIALS ON TRUMP’S SCHEDULE, BUT HE IS OPEN TO ONE — AL JAZEERA
+- 09/23 02:50 [financialjuice] Trump: Zelenskiy and I Working on Solution to End War; Ukraine Will Make a Deal; Discuss It Often, Including With Putin
+- 09/23 02:50 [FirstSquawk] TRUMP SAYS HE AND ZELENSKIY ARE WORKING ON A SOLUTION TO END THE WAR AND THAT UKRAINE 'WILL MAKE A DEAL', ADDING THAT HE DISCUSSES IT OFTEN, INCLUDING WITH PUTIN
+- 09/23 02:50 [financialjuice] Trump: Strikes inside russia on refining capacity are a serious hit on the Russians and a serious hit on Diesel prices.
+- 09/23 02:51 [FirstSquawk] TRUMP SAYS US STRIKES ON RUSSIAN REFINING CAPACITY ARE A ‘SERIOUS HIT’ TO RUSSIA & DIESEL PRICES
+- 09/23 02:51 [financialjuice] Trump on ban on Diesel exports: I've called for that too.
+- 09/23 02:51 [FirstSquawk] TRUMP BACKS CALL FOR BAN ON US DIESEL EXPORTS, SAYING ‘I’VE CALLED FOR THAT TOO’
+- 09/23 02:51 [financialjuice] US Treasury Secretary Bessent: Examining Diesel export ban, whether it's feasible.
+- 09/23 02:52 [FirstSquawk] US TREASURY SECRETARY BESSENT: ADMINISTRATION EXAMINING DIESEL EXPORT BAN & WHETHER IT IS FEASIBLE
+- 09/23 02:52 [financialjuice] US Treasury Secretary Bessent on Diesel: Examining whether a full or partial ban would work.

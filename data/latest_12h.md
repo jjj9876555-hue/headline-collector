@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 02:42 JST／対象: 09/22 14:42 〜 09/23 02:42 JST（時刻はすべて日本時間）
+生成: 2026-09-23 02:52 JST／対象: 09/22 14:52 〜 09/23 02:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 145 | 09/22 14:54 | 09/23 02:40 | 35分（01:56→02:31） |
-| financialjuice | 180 | 09/22 15:00 | 09/23 02:37 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 153 | 09/22 14:54 | 09/23 02:52 | 35分（01:56→02:31） |
+| financialjuice | 189 | 09/22 15:00 | 09/23 02:52 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 338 行（統合前 352 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 355 行（統合前 369 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -362,3 +362,20 @@
 - 09/23 02:37 [financialjuice] Fed's Barkin: Fed is highly attentive to financial conditions, but can't assume markets will keep rates at a level needed to cool inflation.
 - 09/23 02:40 [FirstSquawk] FED’S BARKIN: FED IS HIGHLY ATTENTIVE TO FINANCIAL CONDITIONS BUT CANNOT ASSUME MARKETS WILL KEEP RATES HIGH ENOUGH TO COOL INFLATION
 - 09/23 02:40 [FirstSquawk] FED’S BARKIN: HOPES CURRENT PERIOD RESEMBLES THE 1990S MID-CYCLE ADJUSTMENT
+- 09/23 02:44 [financialjuice] Fed's Barkin: I don't think current productivity improvements mostly reflect AI.
+- 09/23 02:46 [FirstSquawk] NEW YORK FED ACCEPTS $3M OF $3M SUBMITTED IN STANDING REPO OPERATION ON SEPTEMBER 22
+- 09/23 02:47 [financialjuice] Senior White House official to Al Jazeera: No meeting with the Iranians on President Trump's schedule, but he is open to it
+- 09/23 02:48 [financialjuice] Trump: Have a good relationship with Zelenskyy.
+- 09/23 02:48 [financialjuice] Trump: Zelenskiy and I are figuring out a solution to end the war
+- 09/23 02:48 [FirstSquawk] TRUMP SAYS HE AND ZELENSKIY ARE FIGURING OUT A SOLUTION TO END THE WAR
+- 09/23 02:49 [FirstSquawk] TRUMP SAYS US RELATIONSHIP WITH UKRAINE & EUROPE IS ‘VERY STRONG’
+- 09/23 02:49 [FirstSquawk] WHITE HOUSE OFFICIAL: NO MEETING WITH IRANIAN OFFICIALS ON TRUMP’S SCHEDULE, BUT HE IS OPEN TO ONE — AL JAZEERA
+- 09/23 02:50 [financialjuice] Trump: Zelenskiy and I Working on Solution to End War; Ukraine Will Make a Deal; Discuss It Often, Including With Putin
+- 09/23 02:50 [FirstSquawk] TRUMP SAYS HE AND ZELENSKIY ARE WORKING ON A SOLUTION TO END THE WAR AND THAT UKRAINE 'WILL MAKE A DEAL', ADDING THAT HE DISCUSSES IT OFTEN, INCLUDING WITH PUTIN
+- 09/23 02:50 [financialjuice] Trump: Strikes inside russia on refining capacity are a serious hit on the Russians and a serious hit on Diesel prices.
+- 09/23 02:51 [FirstSquawk] TRUMP SAYS US STRIKES ON RUSSIAN REFINING CAPACITY ARE A ‘SERIOUS HIT’ TO RUSSIA & DIESEL PRICES
+- 09/23 02:51 [financialjuice] Trump on ban on Diesel exports: I've called for that too.
+- 09/23 02:51 [FirstSquawk] TRUMP BACKS CALL FOR BAN ON US DIESEL EXPORTS, SAYING ‘I’VE CALLED FOR THAT TOO’
+- 09/23 02:51 [financialjuice] US Treasury Secretary Bessent: Examining Diesel export ban, whether it's feasible.
+- 09/23 02:52 [FirstSquawk] US TREASURY SECRETARY BESSENT: ADMINISTRATION EXAMINING DIESEL EXPORT BAN & WHETHER IT IS FEASIBLE
+- 09/23 02:52 [financialjuice] US Treasury Secretary Bessent on Diesel: Examining whether a full or partial ban would work.
