@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 12:33 JST／対象: 09/21 12:33 〜 09/22 12:33 JST（時刻はすべて日本時間）
+生成: 2026-09-22 12:51 JST／対象: 09/21 12:51 〜 09/22 12:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 360 | 09/21 12:37 | 09/22 12:29 | 44分（06:24→07:08） |
-| financialjuice | 251 | 09/21 12:39 | 09/22 12:28 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 359 | 09/21 13:00 | 09/22 12:49 | 44分（06:24→07:08） |
+| financialjuice | 252 | 09/21 13:01 | 09/22 12:48 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 653 行（統合前 674 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 12:37 [FirstSquawk] BHP Group says agreement will prioritize progress on modified blast furnace technologies
-- 09/21 12:37 [FirstSquawk] BHP, China Baowu extend partnership on steel decarbonisation
-- 09/21 12:39 [financialjuice] China finance ministry auctions 10-year bonds at 1.6626% yield: traders
-- 09/21 12:50 [FirstSquawk] China maps out five-year plan to advance pharmaceuticals and biomedicine — SCMP
 - 09/21 13:00 [FirstSquawk] Jefferies initiates Lotus Bakeries coverage with Buy rating, sets €15,000 target
 - 09/21 13:01 [financialjuice] South Korea presidential chief of staff Kang Hoon-sik tenders resignation: Blue House
 - 09/21 13:01 [FirstSquawk] South Korea presidential chief of staff Kang Hoon-sik offers resignation — Blue House
@@ -677,3 +673,7 @@
 - 09/22 12:24 [financialjuice] South Korea gov't: to fully invest in Texas gas plant, ownership to be equally shared with US - Yonhap
 - 09/22 12:28 [financialjuice] RBA Governor Bullock: current dip in house prices aligns with past episodes
 - 09/22 12:29 [FirstSquawk] RBA Gov. Bullock: Current decline in house prices is consistent with past episodes
+- 09/22 12:34 [financialjuice] RBA Governor Bullock: unemployment at 4.5% to 5.0% likely to reduce inflation pressure
+- 09/22 12:35 [FirstSquawk] RBA Gov. Bullock: Higher unemployment at 4.5%-5.0% could ease pressure on inflation
+- 09/22 12:48 [financialjuice] RBA governor Bullock: Neutral rates rising globally, driving up real bond yields
+- 09/22 12:49 [FirstSquawk] RBA Gov. Bullock: Neutral interest rates rising worldwide are putting upward pressure on real bond yields

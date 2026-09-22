@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 12:33 JST／対象: 09/22 00:33 〜 09/22 12:33 JST（時刻はすべて日本時間）
+生成: 2026-09-22 12:51 JST／対象: 09/22 00:51 〜 09/22 12:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/22 00:33 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 208 | 09/22 00:33 | 09/22 12:29 | 44分（06:24→07:08） |
-| financialjuice | 94 | 09/22 00:40 | 09/22 12:28 | ⚠ 248分（08:13→12:21） |
+| DeItaone | 5 | 09/22 00:53 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 203 | 09/22 00:53 | 09/22 12:49 | 44分（06:24→07:08） |
+| financialjuice | 89 | 09/22 00:51 | 09/22 12:48 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 305 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 292 行（統合前 298 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 00:33 [DeItaone] VENEZUELAN DELEGATION LED BY INTERIM PRESIDENT RODRIGUEZ TO DISCUSS ENERGY, DEBT AND MINING WITH COUNTERPARTIES IN US, AGREEMENTS COULD BE SIGNED, SOURCES SAY
-- 09/22 00:33 [FirstSquawk] US: REDIRECTED 110 COMMERCIAL VESSELS IN HORMUZ AS OF SEPT.21
-- 09/22 00:38 [FirstSquawk] U.S. DIESEL PRICES HAVE REACHED A RECORD HIGH OVER $6.50, ACCORDING TO AAA.
-- 09/22 00:38 [DeItaone] GOP SCRAMBLES AS DIESEL HITS RECORD $6.51 Republicans are weighing a diesel export ban and gas-tax holiday as surging fuel costs pressure consumers and farmers ahead of the midterms. (The Wall Street Journal) But Congress has little time to…
-- 09/22 00:40 [financialjuice] Advisor to Iraq's Najaf Governor: Initial oil production from the Al-Qarnayn field, in partnership with China's Xinhua, to begin at the start of 2027 - IRNA
-- 09/22 00:42 [FirstSquawk] MICHAEL SAYLOR BOUGHT BITCOIN WORTH $75.7 MILLION AFTER A THREE-WEEK BREAK TO REBUILD INVESTOR CONFIDENCE.
-- 09/22 00:43 [financialjuice] China's Foreign Minister Wang Yi speaks to Germany's Foreign Minister Wadephul - Xinhua
-- 09/22 00:44 [financialjuice] China's Foreign Minister Wang Yi calls for enhancing strategic communications with Germany.
-- 09/22 00:45 [financialjuice] China's Foreign Minister Wang Yi: China and the EU shouldn't be in a trade war.
-- 09/22 00:46 [FirstSquawk] EUROPEAN COMMISSION APPROVES ROCHE’S SUSVIMO ® FOR THE TREATMENT OF NEOVASCULAR AGE-RELATED MACULAR DEGENERATION (NAMD)
-- 09/22 00:47 [DeItaone] $SPCX - SPACEXAI - SPACEXAI LAUNCHES GROK 4.7, TWICE AS FAST AT HALF THE PRICE OF COMPARABLE MODELS
-- 09/22 00:47 [FirstSquawk/financialjuice] SPACEXAI - GROK 4.7 PRICED AT $2 PER MILLION INPUT TOKENS AND $6 PER MILLION OUTPUT TOKENS
-- 09/22 00:48 [DeItaone] RUSSIA REROUTES GRAIN AS BLACK SEA EXPORTS STALL Russian firms are converting fertilizer and coal terminals at Baltic and Arctic ports to handle grain exports as Black Sea shipments stall. Rail applications to Ultramar’s Baltic terminal rea…
-- 09/22 00:50 [financialjuice] Russian Railways accepts first grain shipment from southern Russia to Murmansk port, aiming for October export; grain-by-rail applications to Ultramar Baltic terminal reach ~260,000 tons in September - industry sources
-- 09/22 00:50 [financialjuice] SpaceXAI - SpaceX AI launches grok 4.7, twice as fast at half the price of comparable models.
-- 09/22 00:51 [FirstSquawk] TRUMP ON AI: WE WILL BE CAREFUL, REIN IN IF WE HAVE TO
-- 09/22 00:51 [FirstSquawk] TRUMP: I WILL ONLY ENCOURAGE AI
 - 09/22 00:51 [financialjuice] Trump on AI: I will only encourage AI; we will be careful and rein in if we have to - Truth Social.
 - 09/22 00:52 [financialjuice] ❗ Saudi Aramco Loads 14 Million Barrels of Crude on Seven VLCCs from Gulf Terminals, Ramping Up Exports Through Strait of Hormuz - Shipping Data
 - 09/22 00:52 [financialjuice] Seven tankers in the vicinity of ras tanura port on sunday - Satellite images seen by Sources Show
@@ -329,3 +312,7 @@
 - 09/22 12:24 [financialjuice] South Korea gov't: to fully invest in Texas gas plant, ownership to be equally shared with US - Yonhap
 - 09/22 12:28 [financialjuice] RBA Governor Bullock: current dip in house prices aligns with past episodes
 - 09/22 12:29 [FirstSquawk] RBA Gov. Bullock: Current decline in house prices is consistent with past episodes
+- 09/22 12:34 [financialjuice] RBA Governor Bullock: unemployment at 4.5% to 5.0% likely to reduce inflation pressure
+- 09/22 12:35 [FirstSquawk] RBA Gov. Bullock: Higher unemployment at 4.5%-5.0% could ease pressure on inflation
+- 09/22 12:48 [financialjuice] RBA governor Bullock: Neutral rates rising globally, driving up real bond yields
+- 09/22 12:49 [FirstSquawk] RBA Gov. Bullock: Neutral interest rates rising worldwide are putting upward pressure on real bond yields

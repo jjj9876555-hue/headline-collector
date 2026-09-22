@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 12:33 JST／対象: 09/22 06:33 〜 09/22 12:33 JST（時刻はすべて日本時間）
+生成: 2026-09-22 12:51 JST／対象: 09/22 06:51 〜 09/22 12:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 114 | 09/22 07:08 | 09/22 12:29 | 15分（07:08→07:24） |
-| financialjuice | 31 | 09/22 06:34 | 09/22 12:28 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 116 | 09/22 07:08 | 09/22 12:49 | 15分（07:08→07:24） |
+| financialjuice | 29 | 09/22 07:07 | 09/22 12:48 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 145 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 06:34 [financialjuice] United Nations-EU’s Kallas: as Russia escalates risks, we must enforce higher costs
-- 09/22 06:35 [financialjuice] EU's Kallas: We aim for swift rollover of EU sanctions
-- 09/22 06:36 [financialjuice] EU's Kallas: EU naval mission in Red Sea requires additional naval, air resources
-- 09/22 06:36 [financialjuice] EU's Kallas: more than 10 vessels needed in Red Sea
 - 09/22 07:07 [financialjuice] Transportation Secretary Duffy: telecom lines fixed, all northeast airport operations restarting
 - 09/22 07:08 [financialjuice] Shenzhen Camsense Technologies sets offer price at HK$58.85 per H share under global offering
 - 09/22 07:08 [financialjuice] Shenzhen Camsense Technologies plans 10.4 million H-shares in global international offer
@@ -169,3 +165,7 @@
 - 09/22 12:24 [financialjuice] South Korea gov't: to fully invest in Texas gas plant, ownership to be equally shared with US - Yonhap
 - 09/22 12:28 [financialjuice] RBA Governor Bullock: current dip in house prices aligns with past episodes
 - 09/22 12:29 [FirstSquawk] RBA Gov. Bullock: Current decline in house prices is consistent with past episodes
+- 09/22 12:34 [financialjuice] RBA Governor Bullock: unemployment at 4.5% to 5.0% likely to reduce inflation pressure
+- 09/22 12:35 [FirstSquawk] RBA Gov. Bullock: Higher unemployment at 4.5%-5.0% could ease pressure on inflation
+- 09/22 12:48 [financialjuice] RBA governor Bullock: Neutral rates rising globally, driving up real bond yields
+- 09/22 12:49 [FirstSquawk] RBA Gov. Bullock: Neutral interest rates rising worldwide are putting upward pressure on real bond yields
