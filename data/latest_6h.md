@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 01:51 JST／対象: 09/22 19:51 〜 09/23 01:51 JST（時刻はすべて日本時間）
+生成: 2026-09-23 02:03 JST／対象: 09/22 20:03 〜 09/23 02:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/22 19:54 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 95 | 09/22 19:58 | 09/23 01:51 | 18分（00:59→01:17） |
-| financialjuice | 125 | 09/22 20:54 | 09/23 01:51 | 20分（21:15→21:36） |
+| DeItaone | 13 | 09/22 20:10 | 09/22 21:26 | 20分（20:20→20:41） |
+| FirstSquawk | 96 | 09/22 20:06 | 09/23 01:56 | 18分（00:59→01:17） |
+| financialjuice | 137 | 09/22 20:54 | 09/23 02:02 | 20分（21:15→21:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 228 行（統合前 239 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 238 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 19:54 [DeItaone] U.S. DIESEL HITS FRESH RECORD AT $6.53 U.S. diesel prices climbed to a record $6.527 per gallon, up sharply from $3.688 a year ago. Supply is tightening as Russian diesel exports remain restricted and disruptions continue to crude flows thr…
-- 09/22 19:57 [DeItaone] YARDENI: DON’T EXPECT A GRAND BARGAIN FROM TRUMP-XI Yardeni Research expects no major breakthrough when Trump and Xi meet Thursday, but sees scope for an extension of the trade truce and selective commercial deals. Potential progress includ…
-- 09/22 19:58 [FirstSquawk] AUTOZONE Q4 2026 EARNINGS - EPS $56.05 (EST $54.03) || NET SALES $6.6B (EST $6.7B) || COMP SALES +2.7% (EST +4.17%) || DOMESTIC COMP SALES +1.6% (EST +3.12%) || DOMESTIC COMMERCIAL SALES $1.91B (EST $1.92B) || INTERNATIONAL COMP SALES +10.7…
 - 09/22 20:06 [FirstSquawk] UK TAX AUTHORITY HAS ASSIGNED A PERSONAL COMPLIANCE MANAGER TO EACH BILLIONAIRE.
 - 09/22 20:10 [DeItaone] RUBIO: OPEN TO IRAN MEETING AT UN -NBC NEWS INTERVIEW
 - 09/22 20:11 [FirstSquawk] RUBIO:DON'T THINK ANYTHING IS SCHEDULED ON TRUMP-IRAN PRESIDENT
@@ -252,3 +249,16 @@
 - 09/23 01:51 [FirstSquawk] TRUMP SAYS IRAN RELATIONSHIP IS 'DEVELOPING'
 - 09/23 01:51 [financialjuice] Fed's Barkin: We raised rates last week because risks to inflation outweigh risks to maximum employment.
 - 09/23 01:51 [financialjuice] Fed's Barkin: Last week's rate hike will help restore price stability, we'll see if more hikes are needed.
+- 09/23 01:51 [financialjuice] Fed's Barkin: It is tempting to blame high inflation on a handful of categories exposed to energy costs or tariffs, but much of the personal consumption expenditures index is rising by more than 3%.
+- 09/23 01:52 [financialjuice] Fed's Barkin: Economic conditions are, if anything, firming.
+- 09/23 01:52 [financialjuice] Fed's Barkin: There is momentum outside data centers and AI, with consumer spending holding up and strength in defense and manufacturing.
+- 09/23 01:52 [financialjuice] Fed's Barkin: Passing shocks like tariffs and energy are not fading, there is a risk that high inflation today will impact future inflation.
+- 09/23 01:54 [financialjuice] Trump, asked on the Chagos deal: I don't support it.
+- 09/23 01:55 [FirstSquawk] FED'S BARKIN: HIKED LAST WEEK AS RISKS TO INFLATION OUTWEIGH RISKS TO MAXIMUM EMPLOYMENT
+- 09/23 01:56 [financialjuice/FirstSquawk] Trump on UK Trade: Now we're doing well.
+- 09/23 01:56 [financialjuice] Trump ends remarks at meeting with UK's Burnham.
+- 09/23 01:58 [financialjuice] Trump signed the commission making Rubio the National Security Advisor, per a White House official - The Hill Reporter on X
+- 09/23 02:00 [financialjuice] Treasury WI 2-year yield 4.785% before $69 billion auction.
+- 09/23 02:02 [financialjuice] US 2-YEAR NOTE HIGH YIELD ACTUAL 4.787% (FORECAST -, PREVIOUS 4.204%) $MACRO
+- 09/23 02:02 [financialjuice] US 2-YEAR NOTE BID-TO-COVER ACTUAL 2.630 (FORECAST -, PREVIOUS 2.600) $MACRO
+- 09/23 02:02 [financialjuice] US 2-Year Note Auction High Yield 4.787% (Tailed by 0.2 basis points) Bid-to-cover 2.63 Sells $69 bln Awards 33.42% of bids at high Primary Dealers take 13.19% Direct 29.02% Indirect 57.79%

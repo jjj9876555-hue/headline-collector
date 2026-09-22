@@ -7,31 +7,27 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 01:51 JST／対象: 09/22 01:51 〜 09/23 01:51 JST（時刻はすべて日本時間）
+生成: 2026-09-23 02:03 JST／対象: 09/22 02:03 〜 09/23 02:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 02:18 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 342 | 09/22 01:54 | 09/23 01:51 | 44分（06:24→07:08） |
-| financialjuice | 237 | 09/22 01:52 | 09/23 01:51 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 342 | 09/22 02:34 | 09/23 01:56 | 44分（06:24→07:08） |
+| financialjuice | 246 | 09/22 02:32 | 09/23 02:02 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 592 行（統合前 607 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 601 行（統合前 616 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 01:52 [financialjuice/FirstSquawk] More than two dozen US lawmakers urge Trump to maintain ban on Chinese automakers - Letter.
-- 09/22 01:53 [financialjuice] BoC's Gov. Macklem: If we were too slow to raise rates, we'd have to raise them very quickly, and raise them more than had we moved earlier.
-- 09/22 01:54 [FirstSquawk] UKRAINE READY FOR UNCONDITIONAL CEASEFIRE AND DIPLOMACY - ZELENSKYY TO CBC
-- 09/22 01:55 [FirstSquawk] BOC'S MACKLEM: MOVING TOO SLOW ON HIKES MEANS WE'D HAVE TO RAISE RATES VERY QUICKLY, AND MORE THAN HAD WE MOVED EARLIER
-- 09/22 01:57 [financialjuice] Press conference by BoC's Gov. Macklem ends.
 - 09/22 02:18 [DeItaone] $META - META SHARES EXTEND GAINS, LAST UP 10.4%
 - 09/22 02:22 [DeItaone] TRUMP DEMANDS GOP END THE FILIBUSTER President Trump is urging Senate Republicans to eliminate the filibuster, warning Democrats could otherwise do so themselves. Trump claims Democrats would then pursue statehood for Puerto Rico and Washin…
 - 09/22 02:32 [financialjuice] ❗ The UK is close to agreeing to help the Saudi military counter the Houthis.
+- 09/22 02:34 [FirstSquawk] MORE THAN TWO DOZEN US LAWMAKERS URGE TRUMP TO MAINTAIN BAN ON CHINESE AUTOMAKERS - LETTER.
 - 09/22 02:34 [FirstSquawk] PARAMOUNT HAS SETTLED THE ANTITRUST LAWSUIT BY U.S. STATES THAT DELAYED ITS WARNER BROS. DISCOVERY ACQUISITION, COURT RECORDS SHOW, WITH THE CALIFORNIA ATTORNEY GENERAL SAYING THE SETTLEMENT RESOLVES ANTITRUST CONCERNS BUT IS 'NOT A VOTE OF…
 - 09/22 02:34 [FirstSquawk] THE CONSENT DECREE REQUIRES THEATRICAL FILM COMMITMENTS — INCLUDING MINIMUM ANNUAL FILM RELEASES AND SPENDING AT LEAST $300 MLN MORE ANNUALLY ON U.S. FILM PRODUCTION THAN IN 2025 — ALONG WITH SEPARATE NEGOTIATIONS FOR THE DISTRIBUTION OF PA…
 - 09/22 02:34 [FirstSquawk] THE CONSENT DECREE ALSO REQUIRES AN INTERNAL COMPLIANCE MONITOR AND A COMMITTEE OF FIVE STATES TO OVERSEE ENFORCEMENT, WITH REMEDIES INCLUDING POSSIBLE DIVESTITURES IF THE COMPANIES BREACH THEIR OBLIGATIONS, WHILE THE NEW JERSEY ATTORNEY GE…
@@ -616,3 +612,16 @@
 - 09/23 01:51 [FirstSquawk] TRUMP SAYS IRAN RELATIONSHIP IS 'DEVELOPING'
 - 09/23 01:51 [financialjuice] Fed's Barkin: We raised rates last week because risks to inflation outweigh risks to maximum employment.
 - 09/23 01:51 [financialjuice] Fed's Barkin: Last week's rate hike will help restore price stability, we'll see if more hikes are needed.
+- 09/23 01:51 [financialjuice] Fed's Barkin: It is tempting to blame high inflation on a handful of categories exposed to energy costs or tariffs, but much of the personal consumption expenditures index is rising by more than 3%.
+- 09/23 01:52 [financialjuice] Fed's Barkin: Economic conditions are, if anything, firming.
+- 09/23 01:52 [financialjuice] Fed's Barkin: There is momentum outside data centers and AI, with consumer spending holding up and strength in defense and manufacturing.
+- 09/23 01:52 [financialjuice] Fed's Barkin: Passing shocks like tariffs and energy are not fading, there is a risk that high inflation today will impact future inflation.
+- 09/23 01:54 [financialjuice] Trump, asked on the Chagos deal: I don't support it.
+- 09/23 01:55 [FirstSquawk] FED'S BARKIN: HIKED LAST WEEK AS RISKS TO INFLATION OUTWEIGH RISKS TO MAXIMUM EMPLOYMENT
+- 09/23 01:56 [financialjuice/FirstSquawk] Trump on UK Trade: Now we're doing well.
+- 09/23 01:56 [financialjuice] Trump ends remarks at meeting with UK's Burnham.
+- 09/23 01:58 [financialjuice] Trump signed the commission making Rubio the National Security Advisor, per a White House official - The Hill Reporter on X
+- 09/23 02:00 [financialjuice] Treasury WI 2-year yield 4.785% before $69 billion auction.
+- 09/23 02:02 [financialjuice] US 2-YEAR NOTE HIGH YIELD ACTUAL 4.787% (FORECAST -, PREVIOUS 4.204%) $MACRO
+- 09/23 02:02 [financialjuice] US 2-YEAR NOTE BID-TO-COVER ACTUAL 2.630 (FORECAST -, PREVIOUS 2.600) $MACRO
+- 09/23 02:02 [financialjuice] US 2-Year Note Auction High Yield 4.787% (Tailed by 0.2 basis points) Bid-to-cover 2.63 Sells $69 bln Awards 33.42% of bids at high Primary Dealers take 13.19% Direct 29.02% Indirect 57.79%

@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 01:51 JST／対象: 09/22 13:51 〜 09/23 01:51 JST（時刻はすべて日本時間）
+生成: 2026-09-23 02:03 JST／対象: 09/22 14:03 〜 09/23 02:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 147 | 09/22 13:56 | 09/23 01:51 | 33分（19:13→19:46） |
-| financialjuice | 165 | 09/22 14:02 | 09/23 01:51 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 145 | 09/22 14:11 | 09/23 01:56 | 33分（19:13→19:46） |
+| financialjuice | 176 | 09/22 14:11 | 09/23 02:02 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 326 行（統合前 337 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 334 行（統合前 346 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 13:56 [FirstSquawk] RBC downgrades Burberry to Sector Perform from Outperform, cuts target to 1,200p from 1,400p
-- 09/22 13:58 [FirstSquawk] Novo Nordisk target price cut to DKK 275 from DKK 285 by Jefferies
-- 09/22 14:02 [FirstSquawk] Roche reports positive Phase II results for enicepatide in type 2 diabetes and overweight or obesity
-- 09/22 14:02 [financialjuice] ECB releases media interview with Le Temps
-- 09/22 14:03 [FirstSquawk] ECB releases an interview with Le Temps
 - 09/22 14:11 [financialjuice] Current decline in house prices aligns with previous trends
 - 09/22 14:11 [financialjuice] Boom is adding to surplus demand in Australian economy
 - 09/22 14:11 [financialjuice] Russia launches massive strike on targets in Ukraine: defence ministry
@@ -350,3 +345,16 @@
 - 09/23 01:51 [FirstSquawk] TRUMP SAYS IRAN RELATIONSHIP IS 'DEVELOPING'
 - 09/23 01:51 [financialjuice] Fed's Barkin: We raised rates last week because risks to inflation outweigh risks to maximum employment.
 - 09/23 01:51 [financialjuice] Fed's Barkin: Last week's rate hike will help restore price stability, we'll see if more hikes are needed.
+- 09/23 01:51 [financialjuice] Fed's Barkin: It is tempting to blame high inflation on a handful of categories exposed to energy costs or tariffs, but much of the personal consumption expenditures index is rising by more than 3%.
+- 09/23 01:52 [financialjuice] Fed's Barkin: Economic conditions are, if anything, firming.
+- 09/23 01:52 [financialjuice] Fed's Barkin: There is momentum outside data centers and AI, with consumer spending holding up and strength in defense and manufacturing.
+- 09/23 01:52 [financialjuice] Fed's Barkin: Passing shocks like tariffs and energy are not fading, there is a risk that high inflation today will impact future inflation.
+- 09/23 01:54 [financialjuice] Trump, asked on the Chagos deal: I don't support it.
+- 09/23 01:55 [FirstSquawk] FED'S BARKIN: HIKED LAST WEEK AS RISKS TO INFLATION OUTWEIGH RISKS TO MAXIMUM EMPLOYMENT
+- 09/23 01:56 [financialjuice/FirstSquawk] Trump on UK Trade: Now we're doing well.
+- 09/23 01:56 [financialjuice] Trump ends remarks at meeting with UK's Burnham.
+- 09/23 01:58 [financialjuice] Trump signed the commission making Rubio the National Security Advisor, per a White House official - The Hill Reporter on X
+- 09/23 02:00 [financialjuice] Treasury WI 2-year yield 4.785% before $69 billion auction.
+- 09/23 02:02 [financialjuice] US 2-YEAR NOTE HIGH YIELD ACTUAL 4.787% (FORECAST -, PREVIOUS 4.204%) $MACRO
+- 09/23 02:02 [financialjuice] US 2-YEAR NOTE BID-TO-COVER ACTUAL 2.630 (FORECAST -, PREVIOUS 2.600) $MACRO
+- 09/23 02:02 [financialjuice] US 2-Year Note Auction High Yield 4.787% (Tailed by 0.2 basis points) Bid-to-cover 2.63 Sells $69 bln Awards 33.42% of bids at high Primary Dealers take 13.19% Direct 29.02% Indirect 57.79%
