@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 12:51 JST／対象: 09/22 00:51 〜 09/22 12:51 JST（時刻はすべて日本時間）
+生成: 2026-09-22 13:02 JST／対象: 09/22 01:02 〜 09/22 13:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/22 00:53 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 203 | 09/22 00:53 | 09/22 12:49 | 44分（06:24→07:08） |
-| financialjuice | 89 | 09/22 00:51 | 09/22 12:48 | ⚠ 248分（08:13→12:21） |
+| DeItaone | 2 | 09/22 02:18 | 09/22 02:22 | 4分（02:18→02:22） |
+| FirstSquawk | 204 | 09/22 01:03 | 09/22 13:02 | 44分（06:24→07:08） |
+| financialjuice | 87 | 09/22 01:09 | 09/22 12:56 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 292 行（統合前 298 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 290 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 00:51 [financialjuice] Trump on AI: I will only encourage AI; we will be careful and rein in if we have to - Truth Social.
-- 09/22 00:52 [financialjuice] ❗ Saudi Aramco Loads 14 Million Barrels of Crude on Seven VLCCs from Gulf Terminals, Ramping Up Exports Through Strait of Hormuz - Shipping Data
-- 09/22 00:52 [financialjuice] Seven tankers in the vicinity of ras tanura port on sunday - Satellite images seen by Sources Show
-- 09/22 00:53 [DeItaone/FirstSquawk] SAUDI ARAMCO LOADED 14 MILLION BARRELS OF CRUDE ON SEVEN VLCCS FROM GULF TERMINALS ON SUNDAY AS IT RAMPS UP EXPORTS THROUGH STRAIT OF HORMUZ, SHIPPING DATA SHOWS SATELLITE IMAGES SEEN BY REUTERS APPEAR TO SHOW SEVEN TANKERS IN VICINITY OF R…
-- 09/22 00:53 [FirstSquawk] Trump on truth social The same people that said, “We’ll all be dead in twelve years because of Global Warming,” a name since “reborn” to Climate Change, because the Planet was cooling, not warming, and nobody was dead, are the people that a…
-- 09/22 00:54 [financialjuice] US Treasury Secretary Bessent is going to present Trump with US-China AI pact - Fox Business.
-- 09/22 00:54 [DeItaone] TRUMP ON TRUTH SOCIAL: 'I'M NOT GOING TO STIFLE GROWTH, OF SOMETHING THAT WILL BE BIGGER THAN THE INDUSTRIAL REVOLUTION, OR THE INTERNET, ITSELF'
-- 09/22 00:54 [DeItaone] TRUMP: “WHOEVER WINS AI, WINS” President Trump says the U.S. must avoid stifling AI growth, arguing the technology could become bigger than the Industrial Revolution or the internet. Trump said the U.S. is currently leading China and other …
-- 09/22 00:57 [FirstSquawk/financialjuice] TRUMP TO DECIDE ON US-CHINA AI DEAL THIS WEEK: FOX BUSINESS
 - 09/22 01:03 [FirstSquawk] ITALIAN TREASURY TO SELL UP TO EUR2.50 BLN OF 3% 2028 BONDS 24TH SEPTEMBER
 - 09/22 01:09 [FirstSquawk] ISRAEL CONDUCTED TWO RAIDS IN SOUTHERN LEBANON TARGETING "ZUOTAR AL-SHARQIYA" AND "KAFR TIBNIT."
 - 09/22 01:09 [financialjuice] Pakistani Interior Minister consults with their Iranian counterpart on efforts to advance the peace process - ISNA.
@@ -316,3 +307,10 @@
 - 09/22 12:35 [FirstSquawk] RBA Gov. Bullock: Higher unemployment at 4.5%-5.0% could ease pressure on inflation
 - 09/22 12:48 [financialjuice] RBA governor Bullock: Neutral rates rising globally, driving up real bond yields
 - 09/22 12:49 [FirstSquawk] RBA Gov. Bullock: Neutral interest rates rising worldwide are putting upward pressure on real bond yields
+- 09/22 12:52 [financialjuice] RBA Governor Bullock: Australian dollar mirrors commodities and interest rate gaps
+- 09/22 12:52 [FirstSquawk] RBA Gov. Bullock: Australian dollar reflects commodity prices and interest-rate differentials
+- 09/22 12:55 [financialjuice] RBA Governor Bullock: not indicating any policy shift, decision up to board
+- 09/22 12:56 [FirstSquawk] RBA Gov. Bullock: No policy guidance being given; the decision is up to the board
+- 09/22 12:56 [financialjuice] RBA Governor Bullock: inflation risks emerging from Middle East, strong domestic demand
+- 09/22 12:56 [FirstSquawk] RBA Gov. Bullock: Inflation risks are materialising from Middle East tensions and strong domestic demand
+- 09/22 13:02 [FirstSquawk] Deutsche Bank asset manager weighs tighter curbs on German property funds — FT
