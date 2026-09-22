@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 08:42 JST／対象: 09/22 20:42 〜 09/23 08:42 JST（時刻はすべて日本時間）
+生成: 2026-09-23 08:53 JST／対象: 09/22 20:53 〜 09/23 08:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/22 20:46 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 197 | 09/22 20:43 | 09/23 08:41 | ⚠ 77分（05:40→06:58） |
+| DeItaone | 7 | 09/22 20:53 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
+| FirstSquawk | 194 | 09/22 20:53 | 09/23 08:47 | ⚠ 77分（05:40→06:58） |
 | financialjuice | 248 | 09/22 20:54 | 09/23 08:41 | 44分（06:44→07:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 439 行（統合前 461 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 436 行（統合前 457 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 20:43 [FirstSquawk] US SECRETARY OF STATE RUBIO ON UKRAINE WAR: CONCERNED ABOUT US-LINKED SHIPS BEING TARGETED -FOX NEWS INTERVIEW
-- 09/22 20:44 [FirstSquawk] RUBIO: IDEAL OUTCOME RUSSIA, UKRAINE NOT TARGETING ENERGY SITES
-- 09/22 20:46 [DeItaone] *MILEI'S US TRADE DEAL UNDER THREAT ON DEMAND FOR BETTER TERMS
-- 09/22 20:47 [FirstSquawk] GULF STATES PLAN TO TELL TRUMP TO STEER CLEAR OF ESCALATION WITH IRAN.
-- 09/22 20:49 [FirstSquawk/financialjuice] US SECRETARY OF STATE RUBIO ON AI: NOT SURE IF PLAN WILL BE READY BY THURSDAY -FOX NEWS INTERVIEW
 - 09/22 20:53 [DeItaone] MILEI’S U.S. TRADE DEAL HITS CONGRESSIONAL ROADBLOCK Argentina has reportedly told the Trump administration it lacks the votes to ratify its bilateral trade agreement with the U.S. Milei wants to renegotiate terms following the U.S. Supreme…
 - 09/22 20:53 [FirstSquawk/financialjuice] RUBIO: SEEN MORE COOPERATION FROM NATO COUNTRIES RECENTLY
 - 09/22 20:54 [FirstSquawk] US SEC OF STATE RUBIO ON GREENLAND: US CAN BUILD AS MANY MILITARY BASES AS WANT
@@ -37,6 +32,7 @@
 - 09/22 20:54 [financialjuice] US Secretary of State Rubio: Ideal outcome is Russia and Ukraine not targeting energy sites
 - 09/22 20:54 [financialjuice] Gulf states set to urge Trump to avoid any escalation with Iran
 - 09/22 20:54 [financialjuice] Six-member Gulf bloc expected to meet Trump in New York Tuesday
+- 09/22 20:54 [financialjuice] US Secretary of State Rubio, on AI: Not sure if plan will be ready by Thursday - Fox News interview
 - 09/22 20:54 [financialjuice] US Secretary of State Rubio, on Greenland: The US can build as many military bases as wanted
 - 09/22 21:01 [FirstSquawk] HUNGARY HOLDS BANK RATE AT 5.50%, AS EXPECTED
 - 09/22 21:01 [financialjuice] ASML Executives: Europe’s biggest firm has no sales in europe.
@@ -463,3 +459,4 @@
 - 09/23 08:39 [FirstSquawk] U.K. PRIME MINISTER ANDY BURNHAM SAYS HE REAFFIRMED BRITAIN’S POSITION ON THE FALKLAND ISLANDS DURING TALKS WITH PRESIDENT DONALD TRUMP, SAYING THE U.K. WILL “STAND FIRM” AND DEFEND THE ISLANDERS’ RIGHT TO SELF-DETERMINATION AND TO REMAIN B…
 - 09/23 08:41 [financialjuice] Microsoft to increase Copilot discounts as it introduces AI ‘super app’ - The Information
 - 09/23 08:41 [FirstSquawk] MICROSOFT BOOSTS COPILOT DISCOUNTS AS IT LAUNCHES AI “SUPER APP” — THE INFORMATION
+- 09/23 08:47 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN 1% TO $89.60/BBL ON HOPES OF INCREASED GULF SUPPLIES

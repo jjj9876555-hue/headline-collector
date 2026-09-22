@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 08:42 JST／対象: 09/23 02:42 〜 09/23 08:42 JST（時刻はすべて日本時間）
+生成: 2026-09-23 08:53 JST／対象: 09/23 02:53 〜 09/23 08:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 104 | 09/23 02:46 | 09/23 08:41 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 101 | 09/23 02:44 | 09/23 08:41 | 44分（06:44→07:28） |
+| FirstSquawk | 97 | 09/23 02:54 | 09/23 08:47 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 91 | 09/23 02:53 | 09/23 08:41 | 44分（06:44→07:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 201 行（統合前 208 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 184 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 02:44 [financialjuice] Fed's Barkin: I don't think current productivity improvements mostly reflect AI.
-- 09/23 02:46 [FirstSquawk] NEW YORK FED ACCEPTS $3M OF $3M SUBMITTED IN STANDING REPO OPERATION ON SEPTEMBER 22
-- 09/23 02:47 [financialjuice] Senior White House official to Al Jazeera: No meeting with the Iranians on President Trump's schedule, but he is open to it
-- 09/23 02:48 [financialjuice] Trump: Have a good relationship with Zelenskyy.
-- 09/23 02:48 [financialjuice] Trump: Zelenskiy and I are figuring out a solution to end the war
-- 09/23 02:48 [FirstSquawk] TRUMP SAYS HE AND ZELENSKIY ARE FIGURING OUT A SOLUTION TO END THE WAR
-- 09/23 02:49 [FirstSquawk] TRUMP SAYS US RELATIONSHIP WITH UKRAINE & EUROPE IS ‘VERY STRONG’
-- 09/23 02:49 [FirstSquawk] WHITE HOUSE OFFICIAL: NO MEETING WITH IRANIAN OFFICIALS ON TRUMP’S SCHEDULE, BUT HE IS OPEN TO ONE — AL JAZEERA
-- 09/23 02:50 [financialjuice] Trump: Zelenskiy and I Working on Solution to End War; Ukraine Will Make a Deal; Discuss It Often, Including With Putin
-- 09/23 02:50 [FirstSquawk] TRUMP SAYS HE AND ZELENSKIY ARE WORKING ON A SOLUTION TO END THE WAR AND THAT UKRAINE 'WILL MAKE A DEAL', ADDING THAT HE DISCUSSES IT OFTEN, INCLUDING WITH PUTIN
-- 09/23 02:50 [financialjuice] Trump: Strikes inside russia on refining capacity are a serious hit on the Russians and a serious hit on Diesel prices.
-- 09/23 02:51 [FirstSquawk] TRUMP SAYS US STRIKES ON RUSSIAN REFINING CAPACITY ARE A ‘SERIOUS HIT’ TO RUSSIA & DIESEL PRICES
-- 09/23 02:51 [financialjuice] Trump on ban on Diesel exports: I've called for that too.
-- 09/23 02:51 [FirstSquawk] TRUMP BACKS CALL FOR BAN ON US DIESEL EXPORTS, SAYING ‘I’VE CALLED FOR THAT TOO’
-- 09/23 02:51 [financialjuice] US Treasury Secretary Bessent: Examining Diesel export ban, whether it's feasible.
-- 09/23 02:52 [FirstSquawk] US TREASURY SECRETARY BESSENT: ADMINISTRATION EXAMINING DIESEL EXPORT BAN & WHETHER IT IS FEASIBLE
-- 09/23 02:52 [financialjuice] US Treasury Secretary Bessent on Diesel: Examining whether a full or partial ban would work.
-- 09/23 02:52 [financialjuice] Trump: We'll continue to go with Canada on Potash.
 - 09/23 02:53 [financialjuice] ❗ Trump: US officials met with iranian delegation met earlier for three hours
 - 09/23 02:53 [financialjuice] ❗ Trump: The Iran meeting went very well
 - 09/23 02:54 [financialjuice] ❗ Trump: US officials met with an Iranian delegation earlier for three hours.
@@ -225,3 +207,4 @@
 - 09/23 08:39 [FirstSquawk] U.K. PRIME MINISTER ANDY BURNHAM SAYS HE REAFFIRMED BRITAIN’S POSITION ON THE FALKLAND ISLANDS DURING TALKS WITH PRESIDENT DONALD TRUMP, SAYING THE U.K. WILL “STAND FIRM” AND DEFEND THE ISLANDERS’ RIGHT TO SELF-DETERMINATION AND TO REMAIN B…
 - 09/23 08:41 [financialjuice] Microsoft to increase Copilot discounts as it introduces AI ‘super app’ - The Information
 - 09/23 08:41 [FirstSquawk] MICROSOFT BOOSTS COPILOT DISCOUNTS AS IT LAUNCHES AI “SUPER APP” — THE INFORMATION
+- 09/23 08:47 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN 1% TO $89.60/BBL ON HOPES OF INCREASED GULF SUPPLIES
