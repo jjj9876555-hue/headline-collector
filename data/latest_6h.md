@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 01:18 JST／対象: 09/22 19:18 〜 09/23 01:18 JST（時刻はすべて日本時間）
+生成: 2026-09-23 01:34 JST／対象: 09/22 19:34 〜 09/23 01:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 82 | 09/22 19:46 | 09/23 01:17 | 18分（00:59→01:17） |
-| financialjuice | 114 | 09/22 20:54 | 09/23 01:07 | 20分（21:15→21:36） |
+| DeItaone | 16 | 09/22 19:37 | 09/22 21:26 | 20分（20:20→20:41） |
+| FirstSquawk | 88 | 09/22 19:46 | 09/23 01:31 | 18分（00:59→01:17） |
+| financialjuice | 116 | 09/22 20:54 | 09/23 01:31 | 20分（21:15→21:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 211 行（統合前 221 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 214 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 19:18 [DeItaone] BOFA LIFTS BRENT OIL FORECAST TO $95 Bank of America raised its H2 2026 Brent forecast to $95 from $83, expecting Middle East tensions to persist through year-end. Hormuz disruptions are still running 4–8 million barrels per day below pre-w…
-- 09/22 19:21 [DeItaone] TRUMP’S UNGA SCHEDULE TODAY 9:55 AM ET — UN remarks 10:40 AM — Denmark & Greenland signing 11:45 AM — UK bilateral 12:30 PM — Japan bilateral 1:15 PM — Ukraine bilateral 2:15 PM — Shield of the Americas 2:45 PM — Gulf Cooperation Council 7:…
-- 09/22 19:26 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 8:15 AM ET — 🇺🇸 ADP Weekly Employment Estimate 🔸 10:00 AM ET — 🇺🇸 Richmond Fed Manufacturing & Services 🔸 10:00 AM ET — 🚗 AutoZone Earnings Call 🔸 10:05 AM ET — 🏦 Fed’s John Williams 🔸 10:20 AM ET — 🏦…
-- 09/22 19:28 [DeItaone] XI TO PRESS TRUMP ON TAIWAN ARMS SALES Xi Jinping is expected to urge President Trump to halt U.S. arms sales to Taiwan when the leaders meet in Washington this week, Reuters reports. Beijing is also seeking a stop to deliveries of weapons …
-- 09/22 19:31 [DeItaone] RADIATION MONITORING STATION AT ZAPORIZHZHIA NUCLEAR POWER PLANT DAMAGED IN UKRAINIAN DRONE ATTACK - RUSSIAN-INSTALLED OFFICIALS
 - 09/22 19:37 [DeItaone] U.S. DIESEL PRICES HIT FRESH RECORD AT $6.527 A GALLON
 - 09/22 19:46 [FirstSquawk] LITHUANIAN PRESIDENT: US TO SEND NEW ROTATION OF TROOPS
 - 09/22 19:54 [DeItaone] U.S. DIESEL HITS FRESH RECORD AT $6.53 U.S. diesel prices climbed to a record $6.527 per gallon, up sharply from $3.688 a year ago. Supply is tightening as Russian diesel exports remain restricted and disruptions continue to crude flows thr…
@@ -235,3 +230,11 @@
 - 09/23 00:59 [financialjuice] Meta is testing a 'human concierge' for its new personal agent Muse - Internal company posts
 - 09/23 01:03 [financialjuice/FirstSquawk] Fitch Ratings raises near-term oil and European gas price assumptions.
 - 09/23 01:07 [financialjuice] Pakistan Army conducts two-week exercise with Russian and Omani forces - Tasnim News cited Pakistan TV.
+- 09/23 01:18 [FirstSquawk] US F-16 FIGHTER JET CRASHED NEAR U.S BASE IN GERMANY
+- 09/23 01:19 [FirstSquawk] BNP PARIBAS SEES HIGHER EFFICIENCY TO SUPPORT EARNINGS GROWTH
+- 09/23 01:21 [FirstSquawk] APPLE IS WORKING ON A NEW FITNESS TRACKER TO COMPETE WITH WHOOP.
+- 09/23 01:21 [financialjuice] Apple Developing Screenless Fitness Tracker to Compete With Whoop, Oura and Garmin $AAPL
+- 09/23 01:25 [FirstSquawk] IRAN PARLIAMENT COMMITTEE PROPOSES 20% FINE FOR HORMUZ TRANSIT BREACHES - FARS
+- 09/23 01:31 [FirstSquawk] ANTHROPIC: CLAUDE OPUS 5.5 PERFORMS AT LEVEL OF CLAUDE FABLE 5.1 ON MOST WORK, COSTS AROUND 40% LESS TO RUN THAN OPUS 5
+- 09/23 01:31 [FirstSquawk] ANTHROPIC: OPUS 5.5 IS PRICED AT $4 PER MILLION INPUT TOKENS AND $20 PER MILLION OUTPUT TOKENS
+- 09/23 01:31 [financialjuice] Anthropic Launches Claude Opus 5.5, Sonnet and Haiku 5.5 to Follow

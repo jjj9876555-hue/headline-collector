@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 01:18 JST／対象: 09/22 01:18 〜 09/23 01:18 JST（時刻はすべて日本時間）
+生成: 2026-09-23 01:34 JST／対象: 09/22 01:34 〜 09/23 01:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 02:18 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 335 | 09/22 01:19 | 09/23 01:17 | 44分（06:24→07:08） |
-| financialjuice | 234 | 09/22 01:23 | 09/23 01:07 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 338 | 09/22 01:35 | 09/23 01:31 | 44分（06:24→07:08） |
+| financialjuice | 235 | 09/22 01:35 | 09/23 01:31 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 583 行（統合前 597 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 587 行（統合前 601 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 01:19 [FirstSquawk] TRUMP IS CAUGHT BETWEEN SUPPORTING SAUDI CROWN PRINCE MOHAMMED BIN SALMAN AND AVOIDING A NEW WAR IN THE MIDDLE EAST.
-- 09/22 01:23 [financialjuice] American diplomats met with senior Houthi officials and received assurances from them that the armed rebel organization had no intention of closing the Bab al-Mandab Strait - Israel's N12 News
-- 09/22 01:29 [FirstSquawk] L3HARRIS TECHNOLOGIES: SIGNS MULTI-YEAR AGREEMENT WITH NAVAL AIR WARFARE CENTER TO INCREASE TOMAHAWK MISSILE PRODUCTION
-- 09/22 01:29 [FirstSquawk] NASDAQ 100 INDEX EXTENDS GAIN 2.5%
 - 09/22 01:35 [FirstSquawk] BANK OF CANADA GOVERNOR MACKLEM SAYS NEW ERA OF UNCERTAINTY IS NOT GOING AWAY ANY TIME SOON
 - 09/22 01:35 [financialjuice] BoC's Gov. Macklem: A new era of uncertainty is not going away any time soon.
 - 09/22 01:38 [financialjuice] BoC's Gov. Macklem Speaks - WATCH LIVE
@@ -607,3 +603,11 @@
 - 09/23 00:59 [financialjuice] Meta is testing a 'human concierge' for its new personal agent Muse - Internal company posts
 - 09/23 01:03 [financialjuice/FirstSquawk] Fitch Ratings raises near-term oil and European gas price assumptions.
 - 09/23 01:07 [financialjuice] Pakistan Army conducts two-week exercise with Russian and Omani forces - Tasnim News cited Pakistan TV.
+- 09/23 01:18 [FirstSquawk] US F-16 FIGHTER JET CRASHED NEAR U.S BASE IN GERMANY
+- 09/23 01:19 [FirstSquawk] BNP PARIBAS SEES HIGHER EFFICIENCY TO SUPPORT EARNINGS GROWTH
+- 09/23 01:21 [FirstSquawk] APPLE IS WORKING ON A NEW FITNESS TRACKER TO COMPETE WITH WHOOP.
+- 09/23 01:21 [financialjuice] Apple Developing Screenless Fitness Tracker to Compete With Whoop, Oura and Garmin $AAPL
+- 09/23 01:25 [FirstSquawk] IRAN PARLIAMENT COMMITTEE PROPOSES 20% FINE FOR HORMUZ TRANSIT BREACHES - FARS
+- 09/23 01:31 [FirstSquawk] ANTHROPIC: CLAUDE OPUS 5.5 PERFORMS AT LEVEL OF CLAUDE FABLE 5.1 ON MOST WORK, COSTS AROUND 40% LESS TO RUN THAN OPUS 5
+- 09/23 01:31 [FirstSquawk] ANTHROPIC: OPUS 5.5 IS PRICED AT $4 PER MILLION INPUT TOKENS AND $20 PER MILLION OUTPUT TOKENS
+- 09/23 01:31 [financialjuice] Anthropic Launches Claude Opus 5.5, Sonnet and Haiku 5.5 to Follow
