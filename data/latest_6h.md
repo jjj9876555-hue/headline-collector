@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 10:58 JST／対象: 09/22 04:58 〜 09/22 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-22 11:17 JST／対象: 09/22 05:17 〜 09/22 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 101 | 09/22 05:00 | 09/22 10:53 | 44分（06:24→07:08） |
-| financialjuice | 16 | 09/22 05:15 | 09/22 08:13 | 42分（07:30→08:13） |
+| FirstSquawk | 101 | 09/22 05:28 | 09/22 11:14 | 44分（06:24→07:08） |
+| financialjuice | 15 | 09/22 05:18 | 09/22 08:13 | 42分（07:30→08:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 116 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 115 行（統合前 116 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 05:00 [FirstSquawk] CANADA DRAFT LAW REQUIRES CONTRACT BARGAINING TO BEGIN 6 MONTHS BEFORE EXPIRY IF COLLECTIVE AGREEMENT IS 5+ YEARS OLD
-- 09/22 05:00 [FirstSquawk] CANADA DRAFT LAW TO APPOINT SPECIAL MEDIATOR FOR ENTRENCHED DISPUTES WITH SIGNIFICANT NATIONAL IMPACT
-- 09/22 05:00 [FirstSquawk] CANADA DRAFT LAW WOULD LIMIT LABOR MINISTER’S POWER TO ORDER END TO MAJOR WORK STOPPAGES
-- 09/22 05:01 [FirstSquawk] NASDAQ CLOSES 2.30% HIGHER AT 27,132.87, UP 610.33 POINTS S&P 500 CLOSES 1.52% HIGHER AT 7,766.76, UP 116.26 POINTS DOW JONES CLOSES 0.79% HIGHER AT 52,090.00, UP 407.36 POINTS
-- 09/22 05:05 [FirstSquawk] US STEEL CAPACITY UTILIZATION AT 77.9% FOR WEEK ENDED SEPTEMBER 19 — AISI
-- 09/22 05:06 [FirstSquawk] TRUMP SAYS 'AS EXPECTED', CNN, POLITICO AND MSNOW 'HAVE BROUGHT SUIT TO GAIN ACCESS TO THE WHITE HOUSE, AND YOUR PRESIDENT, ME', CLAIMING THEY DREW A JUDGE — TIM KELLY, WHOM HE NOTES WAS APPOINTED BY HIM — WHO PREVIOUSLY 'RULED IN FAVOR OF …
-- 09/22 05:06 [FirstSquawk] TRUMP SAYS THE OVAL OFFICE SHOULD BE TREATED WITH 'DECORUM, RESPECT, AND DIGNITY, NOT DEFILED BY THIRD RATE CLOWNS', ARGUING THAT VIRTUALLY EVERY STORY ABOUT HIM IS 'NEGATIVE, WRONG AND, IN MANY CASES, DANGEROUS', AND CITING HIS 2024 ELECTI…
-- 09/22 05:07 [FirstSquawk] TRUMP SAYS 'FAKE NEWS IS A THREAT TO DEMOCRACY' AND THAT HE 'WILL DO WHATEVER IS NECESSARY TO MAKE SURE THAT THE U.S.A. THRIVES', QUESTIONING WHY HE SHOULD HAVE TO GIVE 'ACCESS' TO SUCH OUTLETS AND SUGGESTING JUDGE KELLY 'COULD EXPLAIN THAT…
-- 09/22 05:08 [FirstSquawk] US STOCKS JUMPED AS AI OPTIMISM DROVE A TECHNOLOGY RALLY, WITH THE S&P 500 RISING 1.5% AND NASDAQ 100 2.8%, WHILE AMD SURPASSED A $1 TRILLION VALUATION AND META SURGED 11%. OIL PRICES FELL ON HOPES FOR DIPLOMATIC PROGRESS IN THE IRAN CONFLI…
-- 09/22 05:08 [FirstSquawk] TREASURY YIELDS ALSO FELL, WITH THE 10-YEAR AT 4.95%, WHILE BITCOIN CLIMBED 6.7% ABOVE $86,000. MARKETS ARE ALSO WATCHING THE UPCOMING TRUMP-XI SUMMIT FOR POTENTIAL PROGRESS ON TARIFFS, TRADE AND CRITICAL MINERALS, WHILE HIGHER ENERGY PRICE…
-- 09/22 05:15 [financialjuice] Iran’s Foreign Minister Araghchi arrives in New York to attend UN General Assembly - IRNA
 - 09/22 05:18 [financialjuice] WATCH LIVE: Trump Meets With Mayor Zohran Mamdani In New York City
 - 09/22 05:28 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI ARRIVES IN NEW YORK TO ATTEND UN GENERAL ASSEMBLY - IRANIAN MEDIA
 - 09/22 05:52 [FirstSquawk] THE ROYAL CANADIAN MINT HAS ANNOUNCED A FOLLOW-ON OFFERING OF GOLD EXCHANGE-TRADED RECEIPTS, WITH NET PROCEEDS TO BE USED TO PURCHASE GOLD BULLION.
@@ -140,3 +129,13 @@
 - 09/22 10:43 [FirstSquawk] Canadian dollar falls to lowest level since Aug. 5 as US dollar strength weighs — FXStreet
 - 09/22 10:52 [FirstSquawk] Japan reiterates support for Nepal following flash floods at UN meeting — Kyodo
 - 09/22 10:53 [FirstSquawk] South Korea in talks with US over 5%-10% stake in Westinghouse — Yonhap
+- 09/22 10:58 [FirstSquawk] South Korea eyes nuclear power and Alaska LNG projects as part of US investment — Media
+- 09/22 11:01 [FirstSquawk] Rocket shortage intensifies as launch providers race to secure spaceflight capacity — WSJ
+- 09/22 11:07 [FirstSquawk] South Korean lawmaker: No final confirmation yet on Alaska LNG project in US investment package
+- 09/22 11:07 [FirstSquawk] South Korea looking to secure 5%-10% stake in Westinghouse — lawmaker
+- 09/22 11:08 [FirstSquawk] South Korea in discussions with US over two nuclear reactors based on Korean designs — lawmaker
+- 09/22 11:12 [FirstSquawk] RBNZ Gov. Breman: Near-term inflation expected to be somewhat higher if elevated oil prices persist
+- 09/22 11:12 [FirstSquawk] RBNZ Gov. Breman: Remains focused on inflation outlook ahead of October policy decision
+- 09/22 11:13 [FirstSquawk] RBNZ Gov. Breman: Economic outlook remains subject to significant risks
+- 09/22 11:14 [FirstSquawk] RBNZ Gov. Breman: Economic recovery expected to strengthen and broaden
+- 09/22 11:14 [FirstSquawk] RBNZ Gov. Breman: Current data point to continued economic recovery, though progress remains uneven

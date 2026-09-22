@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 10:58 JST／対象: 09/21 22:58 〜 09/22 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-22 11:17 JST／対象: 09/21 23:17 〜 09/22 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 26 | 09/21 23:03 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 195 | 09/21 22:59 | 09/22 10:53 | 44分（06:24→07:08） |
-| financialjuice | 124 | 09/21 22:58 | 09/22 08:13 | 42分（07:30→08:13） |
+| DeItaone | 24 | 09/21 23:17 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 198 | 09/21 23:20 | 09/22 11:14 | 44分（06:24→07:08） |
+| financialjuice | 112 | 09/21 23:17 | 09/22 08:13 | 42分（07:30→08:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 333 行（統合前 348 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 323 行（統合前 337 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 22:58 [financialjuice] OpenAI and Anthropic discussed stress tests this year - The Information
-- 09/21 22:59 [FirstSquawk] PARAMOUNT IS MOVING TO RESOLVE LAWSUITS, CLEARING THE PATH FOR A DEAL WITH WARNER BROS.
-- 09/21 23:00 [FirstSquawk] FED GOOLSBEE: NOT VIEWING RATE HIKE AS TAKING BACK 2025 CUTS
-- 09/21 23:00 [financialjuice] Fed's Goolsbee: I am not viewing rate hike as taking back 2025 cuts.
-- 09/21 23:00 [financialjuice] Fed's Goolsbee: I am worried services inflation may not go away.
-- 09/21 23:01 [financialjuice] Fed's Goolsbee: I sense some inflation coming from overheating demand.
-- 09/21 23:01 [FirstSquawk] GOOLSBEE: FED PROJECTIONS NOT ENOUGH IF INFL. IS DEMAND DRIVEN
-- 09/21 23:01 [financialjuice] Fed's Goolsbee: Fed projections are not enough if inflation is demand-driven.
-- 09/21 23:03 [DeItaone] OPENAI AND ANTHROPIC NEARED AI SAFETY TESTING DEAL OpenAI and Anthropic reportedly neared an agreement to stress-test each other’s AI models, searching for vulnerabilities and hidden risks. It’s unclear whether the deal was finalized before…
-- 09/21 23:04 [FirstSquawk] NOVO NORDISK ADRS EXTEND DROP TO SESSION-LOW 7.4%
-- 09/21 23:04 [DeItaone/FirstSquawk] SPOT GOLD FALLS OVER 1% TO $4,325.49/OZ
-- 09/21 23:10 [FirstSquawk] NOVO CFO: AIM TO MAINTAIN ‘BROADLY STABLE’ OP. MARGIN UNTIL 2030 COMPARED TO TODAY
-- 09/21 23:10 [financialjuice] USTR Greer: China is doing what they promised on soybeans - Fox News.
-- 09/21 23:11 [financialjuice] USTR Greer: Rare earths are coming in, but we'd like higher quantities.
-- 09/21 23:12 [financialjuice] USTR Greer: China is making progress on it's Boeing commitment from May. $BA
-- 09/21 23:12 [financialjuice] USTR Greer: There is no grand bargain to be had with China.
-- 09/21 23:13 [financialjuice] USTR Greer ends remarks on Fox News.
-- 09/21 23:14 [FirstSquawk] TAKAICHI TO STRESS JAPANESE INVESTMENT IN US IN TALKS WITH TRUMP - NIKKEI
-- 09/21 23:14 [financialjuice] Japan's PM Takaichi is going to stress Japanese investment in the US in talks with Trump - Nikkei.
-- 09/21 23:16 [financialjuice] Takaichi to stress Japanese investment in US in talks with Trump
 - 09/21 23:17 [financialjuice] Advanced Micro Devices hits $1 trillion in market capitalization for the first time. $AMD
 - 09/21 23:17 [DeItaone] $AMD - ADVANCED MICRO DEVICES HITS $1 TRILLION IN MARKET CAPITALIZATION FOR THE FIRST TIME
 - 09/21 23:18 [financialjuice] Fear and Greed Index: 33/100 = Fear
@@ -357,3 +337,13 @@
 - 09/22 10:43 [FirstSquawk] Canadian dollar falls to lowest level since Aug. 5 as US dollar strength weighs — FXStreet
 - 09/22 10:52 [FirstSquawk] Japan reiterates support for Nepal following flash floods at UN meeting — Kyodo
 - 09/22 10:53 [FirstSquawk] South Korea in talks with US over 5%-10% stake in Westinghouse — Yonhap
+- 09/22 10:58 [FirstSquawk] South Korea eyes nuclear power and Alaska LNG projects as part of US investment — Media
+- 09/22 11:01 [FirstSquawk] Rocket shortage intensifies as launch providers race to secure spaceflight capacity — WSJ
+- 09/22 11:07 [FirstSquawk] South Korean lawmaker: No final confirmation yet on Alaska LNG project in US investment package
+- 09/22 11:07 [FirstSquawk] South Korea looking to secure 5%-10% stake in Westinghouse — lawmaker
+- 09/22 11:08 [FirstSquawk] South Korea in discussions with US over two nuclear reactors based on Korean designs — lawmaker
+- 09/22 11:12 [FirstSquawk] RBNZ Gov. Breman: Near-term inflation expected to be somewhat higher if elevated oil prices persist
+- 09/22 11:12 [FirstSquawk] RBNZ Gov. Breman: Remains focused on inflation outlook ahead of October policy decision
+- 09/22 11:13 [FirstSquawk] RBNZ Gov. Breman: Economic outlook remains subject to significant risks
+- 09/22 11:14 [FirstSquawk] RBNZ Gov. Breman: Economic recovery expected to strengthen and broaden
+- 09/22 11:14 [FirstSquawk] RBNZ Gov. Breman: Current data point to continued economic recovery, though progress remains uneven
