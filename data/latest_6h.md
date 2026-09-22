@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 18:24 JST／対象: 09/22 12:24 〜 09/22 18:24 JST（時刻はすべて日本時間）
+生成: 2026-09-22 18:43 JST／対象: 09/22 12:43 〜 09/22 18:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 49 | 09/22 12:29 | 09/22 18:15 | 34分（13:22→13:56） |
-| financialjuice | 32 | 09/22 12:28 | 09/22 18:18 | ⚠ 66分（12:56→14:02） |
+| FirstSquawk | 47 | 09/22 12:49 | 09/22 18:15 | 34分（13:22→13:56） |
+| financialjuice | 37 | 09/22 12:48 | 09/22 18:41 | ⚠ 66分（12:56→14:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 81 行（統合前 81 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 84 行（統合前 84 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 12:28 [financialjuice] RBA Governor Bullock: current dip in house prices aligns with past episodes
-- 09/22 12:29 [FirstSquawk] RBA Gov. Bullock: Current decline in house prices is consistent with past episodes
-- 09/22 12:34 [financialjuice] RBA Governor Bullock: unemployment at 4.5% to 5.0% likely to reduce inflation pressure
-- 09/22 12:35 [FirstSquawk] RBA Gov. Bullock: Higher unemployment at 4.5%-5.0% could ease pressure on inflation
 - 09/22 12:48 [financialjuice] RBA governor Bullock: Neutral rates rising globally, driving up real bond yields
 - 09/22 12:49 [FirstSquawk] RBA Gov. Bullock: Neutral interest rates rising worldwide are putting upward pressure on real bond yields
 - 09/22 12:52 [financialjuice] RBA Governor Bullock: Australian dollar mirrors commodities and interest rate gaps
@@ -105,3 +101,10 @@
 - 09/22 18:12 [financialjuice] Iran's Parliament Speaker Ghalibaf: Iran won’t surrender, will stand up to the US - Fars
 - 09/22 18:15 [FirstSquawk] IRAN'S IRGC SAYS MUST NEGOTIATE IF NATIONAL INTERESTS REQUIRED
 - 09/22 18:18 [financialjuice] Iran's IRGC: Must negotiate if national interests required
+- 09/22 18:27 [financialjuice] Naftogaz: Facilities hit in Poltava region overnight
+- 09/22 18:32 [financialjuice] GERMAN 5 YR BOBL YIELD ACTUAL 3.28% (FORECAST -, PREVIOUS 3.09%) $MACRO
+- 09/22 18:32 [financialjuice] GERMAN 5 YR BOBL BID-TO-COVER ACTUAL 1.2 (FORECAST -, PREVIOUS 1.6) $MACRO
+- 09/22 18:38 [financialjuice] Russia's oil exports from black sea Novorossiysk port rose to 650,000 barrels per day in September, up 50% from August - Sources and data
+- 09/22 18:41 [financialjuice] Kremlin: Putin and Erdogan discussed black sea strike halt - IFX
+- 09/22 18:41 [financialjuice] Kremlin: Russia says U.N. Security Council membership should be increased, but veto powers should remain
+- 09/22 18:41 [financialjuice] Kremlin: Diplomatic talks ongoing on black sea strikes - IFX

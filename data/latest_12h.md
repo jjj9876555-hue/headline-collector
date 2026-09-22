@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 18:24 JST／対象: 09/22 06:24 〜 09/22 18:24 JST（時刻はすべて日本時間）
+生成: 2026-09-22 18:43 JST／対象: 09/22 06:43 〜 09/22 18:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
 | FirstSquawk | 162 | 09/22 07:08 | 09/22 18:15 | 34分（13:22→13:56） |
-| financialjuice | 63 | 09/22 06:30 | 09/22 18:18 | ⚠ 248分（08:13→12:21） |
+| financialjuice | 65 | 09/22 07:07 | 09/22 18:41 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 225 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 227 行（統合前 227 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 06:30 [financialjuice] North Korea's culture minister visits Russia: KCNA
-- 09/22 06:34 [financialjuice] United Nations-EU’s Kallas: as Russia escalates risks, we must enforce higher costs
-- 09/22 06:35 [financialjuice] EU's Kallas: We aim for swift rollover of EU sanctions
-- 09/22 06:36 [financialjuice] EU's Kallas: EU naval mission in Red Sea requires additional naval, air resources
-- 09/22 06:36 [financialjuice] EU's Kallas: more than 10 vessels needed in Red Sea
 - 09/22 07:07 [financialjuice] Transportation Secretary Duffy: telecom lines fixed, all northeast airport operations restarting
 - 09/22 07:08 [financialjuice] Shenzhen Camsense Technologies sets offer price at HK$58.85 per H share under global offering
 - 09/22 07:08 [financialjuice] Shenzhen Camsense Technologies plans 10.4 million H-shares in global international offer
@@ -249,3 +244,10 @@
 - 09/22 18:12 [financialjuice] Iran's Parliament Speaker Ghalibaf: Iran won’t surrender, will stand up to the US - Fars
 - 09/22 18:15 [FirstSquawk] IRAN'S IRGC SAYS MUST NEGOTIATE IF NATIONAL INTERESTS REQUIRED
 - 09/22 18:18 [financialjuice] Iran's IRGC: Must negotiate if national interests required
+- 09/22 18:27 [financialjuice] Naftogaz: Facilities hit in Poltava region overnight
+- 09/22 18:32 [financialjuice] GERMAN 5 YR BOBL YIELD ACTUAL 3.28% (FORECAST -, PREVIOUS 3.09%) $MACRO
+- 09/22 18:32 [financialjuice] GERMAN 5 YR BOBL BID-TO-COVER ACTUAL 1.2 (FORECAST -, PREVIOUS 1.6) $MACRO
+- 09/22 18:38 [financialjuice] Russia's oil exports from black sea Novorossiysk port rose to 650,000 barrels per day in September, up 50% from August - Sources and data
+- 09/22 18:41 [financialjuice] Kremlin: Putin and Erdogan discussed black sea strike halt - IFX
+- 09/22 18:41 [financialjuice] Kremlin: Russia says U.N. Security Council membership should be increased, but veto powers should remain
+- 09/22 18:41 [financialjuice] Kremlin: Diplomatic talks ongoing on black sea strikes - IFX
