@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 17:34 JST／対象: 09/22 11:34 〜 09/22 17:34 JST（時刻はすべて日本時間）
+生成: 2026-09-22 17:52 JST／対象: 09/22 11:52 〜 09/22 17:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 59 | 09/22 11:35 | 09/22 17:11 | 34分（13:22→13:56） |
+| FirstSquawk | 55 | 09/22 11:56 | 09/22 17:51 | 34分（13:22→13:56） |
 | financialjuice | 47 | 09/22 12:21 | 09/22 17:02 | ⚠ 66分（12:56→14:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 106 行（統合前 106 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 11:35 [FirstSquawk] G7 statement: Houthi strikes in Yemen and against Saudi Arabia are unacceptable and must stop
-- 09/22 11:35 [FirstSquawk] G7 demands Houthis end all military actions, threats and attacks against civilian vessels
-- 09/22 11:38 [FirstSquawk] South Korean lawmakers express concerns about commercial viability of US investment plan — lawmaker
-- 09/22 11:40 [FirstSquawk] South Korean government believes 20-year profit return scheme supports commercial viability of US investment plan — lawmaker
-- 09/22 11:40 [FirstSquawk] S. Korea lawmaker: Formal announcement to be followed by “significant” investment payment by end-September
-- 09/22 11:41 [FirstSquawk] South Korea lawmaker: Government briefed lawmakers on nuclear, Texas power plant and Alaska LNG projects, focusing on Texas energy project
-- 09/22 11:42 [FirstSquawk] South Korea to invest over $20 billion in Texas power plant project — lawmaker
-- 09/22 11:49 [FirstSquawk] Indonesia’s wet season set to start in most areas in early November, weather agency says
-- 09/22 11:52 [FirstSquawk] Indonesia weather agency expects shorter-than-normal wet season across most of the country in 2026-27
 - 09/22 11:56 [FirstSquawk] NHC: Odalys expected to slowly strengthen
 - 09/22 12:05 [FirstSquawk] Texas power plant selected as South Korea’s first US investment project — Yonhap
 - 09/22 12:08 [FirstSquawk] RBA Gov. Bullock: Supply shocks pose challenges for monetary policy
@@ -130,3 +121,8 @@
 - 09/22 17:11 [FirstSquawk] UK GOVERNMENT REQUESTS META AND GOOGLE TO PRESENT TO BUSINESS COMMITTEE.
 - 09/22 17:11 [FirstSquawk] VOLKSWAGEN'S CHINA HEAD SAYS CHINA'S PASSENGER CAR MARKET MAY FALL BY ABOUT 20% IN 2026.
 - 09/22 17:11 [FirstSquawk] UK BUSINESS COMMITTEE INVITES AI COMPANIES ANTHROPIC AND OPENAI FOR AI SAFETY TALKS.
+- 09/22 17:40 [FirstSquawk] IRAN SUGGESTS OPENING THE STRAIT SOON, 'WITHIN 7 DAYS' ONCE US BLOCKADE IS LIFTED – KYODO.
+- 09/22 17:50 [FirstSquawk] THE PLAN IS TO USE THIS PROPOSAL AS A BASIS FOR DISCUSSIONS WITH MEDIATING COUNTRIES AT THE UN GENERAL ASSEMBLY IN NEW YORK. ACCORDING TO AN IRANIAN GOVERNMENT OFFICIAL, IRAN WILL AGREE TO THE EARLY OPENING OF THE STRAIT IF THE US INDICATES…
+- 09/22 17:50 [FirstSquawk] ON THE 19TH OF THIS MONTH, REZAI, SECRETARY-GENERAL OF IRAN'S SUPREME SECURITY COUNCIL (SNSC), WHICH OVERSEES ITS FOREIGN POLICY AND SECURITY, STATED THAT IRAN WOULD NEED TO ACCEPT SEVEN CONDITIONS, INCLUDING LIFTING THE PORT BLOCKADE AND U…
+- 09/22 17:50 [FirstSquawk] IRAN'S ECONOMIC DIFFICULTIES ARE DEEPENING AS IT IS UNABLE TO EXPORT CRUDE OIL, A PILLAR OF ITS NATIONAL REVENUE, AND CONCERNS ARE SPREADING WITHIN THE LEADERSHIP. THERE ARE ALSO OPINIONS THAT NEGOTIATIONS WITH THE UNITED STATES SHOULD BE R…
+- 09/22 17:51 [FirstSquawk] IRAN HAS INFORMED THE TRUMP ADMINISTRATION THAT IT WILL OPEN THE BLOCKED STRAIT OF HORMUZ "WITHIN SEVEN DAYS" IF IT ACCEPTS DEMANDS SUCH AS LIFTING THE US MILITARY BLOCKADE OF IRANIAN PORTS, ACCORDING TO A SENIOR IRANIAN GOVERNMENT OFFICIAL…
