@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 01:34 JST／対象: 09/22 01:34 〜 09/23 01:34 JST（時刻はすべて日本時間）
+生成: 2026-09-23 01:51 JST／対象: 09/22 01:51 〜 09/23 01:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 02:18 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 338 | 09/22 01:35 | 09/23 01:31 | 44分（06:24→07:08） |
-| financialjuice | 235 | 09/22 01:35 | 09/23 01:31 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 342 | 09/22 01:54 | 09/23 01:51 | 44分（06:24→07:08） |
+| financialjuice | 237 | 09/22 01:52 | 09/23 01:51 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 587 行（統合前 601 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 592 行（統合前 607 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 01:35 [FirstSquawk] BANK OF CANADA GOVERNOR MACKLEM SAYS NEW ERA OF UNCERTAINTY IS NOT GOING AWAY ANY TIME SOON
-- 09/22 01:35 [financialjuice] BoC's Gov. Macklem: A new era of uncertainty is not going away any time soon.
-- 09/22 01:38 [financialjuice] BoC's Gov. Macklem Speaks - WATCH LIVE
-- 09/22 01:43 [financialjuice] BoC's Gov. Macklem: It could take some time for higher fuel margins to normalise, that is a worry.
-- 09/22 01:44 [FirstSquawk] BOC'S MACKLEM: THAT IS A WORRY BECAUSE THAT WILL ADD PERSISTENCE TO HEADLINE INFLATION
-- 09/22 01:45 [financialjuice] BoC's Gov. Macklem: We have cut Q4 annualized growth forecast to 0.75%.
-- 09/22 01:46 [financialjuice] BoC's Gov. Macklem: I expect inflation to drift up a little higher in the coming months.
-- 09/22 01:47 [financialjuice] BoC's Gov. Macklem: The key thing we're going to be looking at is our inflation forecast.
-- 09/22 01:47 [financialjuice] BoC's Gov. Macklem: The question is, is the current rate the right one, or do we need to raise it?
-- 09/22 01:50 [FirstSquawk] BOC'S MACKLEM: INFLATION FORECAST IS KEY THING BOC WILL BE LOOKING AT
-- 09/22 01:51 [FirstSquawk] LILLY CAPTURING 70% OF SENIORS STARTING GLP-1S: CEO DAVE RICKS
 - 09/22 01:52 [financialjuice/FirstSquawk] More than two dozen US lawmakers urge Trump to maintain ban on Chinese automakers - Letter.
 - 09/22 01:53 [financialjuice] BoC's Gov. Macklem: If we were too slow to raise rates, we'd have to raise them very quickly, and raise them more than had we moved earlier.
 - 09/22 01:54 [FirstSquawk] UKRAINE READY FOR UNCONDITIONAL CEASEFIRE AND DIPLOMACY - ZELENSKYY TO CBC
@@ -611,3 +600,19 @@
 - 09/23 01:31 [FirstSquawk] ANTHROPIC: CLAUDE OPUS 5.5 PERFORMS AT LEVEL OF CLAUDE FABLE 5.1 ON MOST WORK, COSTS AROUND 40% LESS TO RUN THAN OPUS 5
 - 09/23 01:31 [FirstSquawk] ANTHROPIC: OPUS 5.5 IS PRICED AT $4 PER MILLION INPUT TOKENS AND $20 PER MILLION OUTPUT TOKENS
 - 09/23 01:31 [financialjuice] Anthropic Launches Claude Opus 5.5, Sonnet and Haiku 5.5 to Follow
+- 09/23 01:43 [FirstSquawk] ALASKA SEN. SULLIVAN CALLS FOR MORATORIUM ON US DIESEL EXPORTS
+- 09/23 01:45 [FirstSquawk] TRUMP: BURNHAM IS GOING TO BE A GREAT PRIME MINISTER
+- 09/23 01:45 [FirstSquawk] EU AND CANADA TO UNVEIL NEW PARTNERSHIP, BUT IT MAY NOT BE ‘ASSOCIATE MEMBERSHIP,’ SAYS AMBASSADOR – POLITICO
+- 09/23 01:45 [FirstSquawk] TRUMP: DISCUSSED ENERGY, IMMIGRATION, ROLLS-ROYCE WITH BURNHAM
+- 09/23 01:46 [financialjuice] Fed bids for 2-year notes total $10.4 bln.
+- 09/23 01:46 [financialjuice] UK's PM Burnham Tells Trump: We are ready to play our part in the Middle East.
+- 09/23 01:46 [financialjuice] Trump: I think Burnham is a natural businessperson, he gets it.
+- 09/23 01:49 [financialjuice] ❗ Trump on Iran: I think a settlement will be reached.
+- 09/23 01:49 [financialjuice/FirstSquawk] Trump: Iran has been talking to us, even today.
+- 09/23 01:49 [financialjuice] Trump: Some US-Iran communication has happened even today.
+- 09/23 01:50 [FirstSquawk] TRUMP ON IRAN: THINK A SETTLEMENT WILL BE REACHED
+- 09/23 01:50 [financialjuice] Trump|: The Iran relationship is developing.
+- 09/23 01:51 [FirstSquawk] TRUMP SAYS SOME US-IRAN COMMUNICATION HAS HAPPENED EVEN TODAY
+- 09/23 01:51 [FirstSquawk] TRUMP SAYS IRAN RELATIONSHIP IS 'DEVELOPING'
+- 09/23 01:51 [financialjuice] Fed's Barkin: We raised rates last week because risks to inflation outweigh risks to maximum employment.
+- 09/23 01:51 [financialjuice] Fed's Barkin: Last week's rate hike will help restore price stability, we'll see if more hikes are needed.

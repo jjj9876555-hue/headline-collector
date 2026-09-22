@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 01:34 JST／対象: 09/22 13:34 〜 09/23 01:34 JST（時刻はすべて日本時間）
+生成: 2026-09-23 01:51 JST／対象: 09/22 13:51 〜 09/23 01:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 139 | 09/22 13:56 | 09/23 01:31 | 33分（19:13→19:46） |
-| financialjuice | 156 | 09/22 14:02 | 09/23 01:31 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 147 | 09/22 13:56 | 09/23 01:51 | 33分（19:13→19:46） |
+| financialjuice | 165 | 09/22 14:02 | 09/23 01:51 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 310 行（統合前 320 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 326 行（統合前 337 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -334,3 +334,19 @@
 - 09/23 01:31 [FirstSquawk] ANTHROPIC: CLAUDE OPUS 5.5 PERFORMS AT LEVEL OF CLAUDE FABLE 5.1 ON MOST WORK, COSTS AROUND 40% LESS TO RUN THAN OPUS 5
 - 09/23 01:31 [FirstSquawk] ANTHROPIC: OPUS 5.5 IS PRICED AT $4 PER MILLION INPUT TOKENS AND $20 PER MILLION OUTPUT TOKENS
 - 09/23 01:31 [financialjuice] Anthropic Launches Claude Opus 5.5, Sonnet and Haiku 5.5 to Follow
+- 09/23 01:43 [FirstSquawk] ALASKA SEN. SULLIVAN CALLS FOR MORATORIUM ON US DIESEL EXPORTS
+- 09/23 01:45 [FirstSquawk] TRUMP: BURNHAM IS GOING TO BE A GREAT PRIME MINISTER
+- 09/23 01:45 [FirstSquawk] EU AND CANADA TO UNVEIL NEW PARTNERSHIP, BUT IT MAY NOT BE ‘ASSOCIATE MEMBERSHIP,’ SAYS AMBASSADOR – POLITICO
+- 09/23 01:45 [FirstSquawk] TRUMP: DISCUSSED ENERGY, IMMIGRATION, ROLLS-ROYCE WITH BURNHAM
+- 09/23 01:46 [financialjuice] Fed bids for 2-year notes total $10.4 bln.
+- 09/23 01:46 [financialjuice] UK's PM Burnham Tells Trump: We are ready to play our part in the Middle East.
+- 09/23 01:46 [financialjuice] Trump: I think Burnham is a natural businessperson, he gets it.
+- 09/23 01:49 [financialjuice] ❗ Trump on Iran: I think a settlement will be reached.
+- 09/23 01:49 [financialjuice/FirstSquawk] Trump: Iran has been talking to us, even today.
+- 09/23 01:49 [financialjuice] Trump: Some US-Iran communication has happened even today.
+- 09/23 01:50 [FirstSquawk] TRUMP ON IRAN: THINK A SETTLEMENT WILL BE REACHED
+- 09/23 01:50 [financialjuice] Trump|: The Iran relationship is developing.
+- 09/23 01:51 [FirstSquawk] TRUMP SAYS SOME US-IRAN COMMUNICATION HAS HAPPENED EVEN TODAY
+- 09/23 01:51 [FirstSquawk] TRUMP SAYS IRAN RELATIONSHIP IS 'DEVELOPING'
+- 09/23 01:51 [financialjuice] Fed's Barkin: We raised rates last week because risks to inflation outweigh risks to maximum employment.
+- 09/23 01:51 [financialjuice] Fed's Barkin: Last week's rate hike will help restore price stability, we'll see if more hikes are needed.

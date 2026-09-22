@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 01:34 JST／対象: 09/22 19:34 〜 09/23 01:34 JST（時刻はすべて日本時間）
+生成: 2026-09-23 01:51 JST／対象: 09/22 19:51 〜 09/23 01:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 09/22 19:37 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 88 | 09/22 19:46 | 09/23 01:31 | 18分（00:59→01:17） |
-| financialjuice | 116 | 09/22 20:54 | 09/23 01:31 | 20分（21:15→21:36） |
+| DeItaone | 15 | 09/22 19:54 | 09/22 21:26 | 20分（20:20→20:41） |
+| FirstSquawk | 95 | 09/22 19:58 | 09/23 01:51 | 18分（00:59→01:17） |
+| financialjuice | 125 | 09/22 20:54 | 09/23 01:51 | 20分（21:15→21:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 214 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 228 行（統合前 239 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 19:37 [DeItaone] U.S. DIESEL PRICES HIT FRESH RECORD AT $6.527 A GALLON
-- 09/22 19:46 [FirstSquawk] LITHUANIAN PRESIDENT: US TO SEND NEW ROTATION OF TROOPS
 - 09/22 19:54 [DeItaone] U.S. DIESEL HITS FRESH RECORD AT $6.53 U.S. diesel prices climbed to a record $6.527 per gallon, up sharply from $3.688 a year ago. Supply is tightening as Russian diesel exports remain restricted and disruptions continue to crude flows thr…
 - 09/22 19:57 [DeItaone] YARDENI: DON’T EXPECT A GRAND BARGAIN FROM TRUMP-XI Yardeni Research expects no major breakthrough when Trump and Xi meet Thursday, but sees scope for an extension of the trade truce and selective commercial deals. Potential progress includ…
 - 09/22 19:58 [FirstSquawk] AUTOZONE Q4 2026 EARNINGS - EPS $56.05 (EST $54.03) || NET SALES $6.6B (EST $6.7B) || COMP SALES +2.7% (EST +4.17%) || DOMESTIC COMP SALES +1.6% (EST +3.12%) || DOMESTIC COMMERCIAL SALES $1.91B (EST $1.92B) || INTERNATIONAL COMP SALES +10.7…
@@ -238,3 +236,19 @@
 - 09/23 01:31 [FirstSquawk] ANTHROPIC: CLAUDE OPUS 5.5 PERFORMS AT LEVEL OF CLAUDE FABLE 5.1 ON MOST WORK, COSTS AROUND 40% LESS TO RUN THAN OPUS 5
 - 09/23 01:31 [FirstSquawk] ANTHROPIC: OPUS 5.5 IS PRICED AT $4 PER MILLION INPUT TOKENS AND $20 PER MILLION OUTPUT TOKENS
 - 09/23 01:31 [financialjuice] Anthropic Launches Claude Opus 5.5, Sonnet and Haiku 5.5 to Follow
+- 09/23 01:43 [FirstSquawk] ALASKA SEN. SULLIVAN CALLS FOR MORATORIUM ON US DIESEL EXPORTS
+- 09/23 01:45 [FirstSquawk] TRUMP: BURNHAM IS GOING TO BE A GREAT PRIME MINISTER
+- 09/23 01:45 [FirstSquawk] EU AND CANADA TO UNVEIL NEW PARTNERSHIP, BUT IT MAY NOT BE ‘ASSOCIATE MEMBERSHIP,’ SAYS AMBASSADOR – POLITICO
+- 09/23 01:45 [FirstSquawk] TRUMP: DISCUSSED ENERGY, IMMIGRATION, ROLLS-ROYCE WITH BURNHAM
+- 09/23 01:46 [financialjuice] Fed bids for 2-year notes total $10.4 bln.
+- 09/23 01:46 [financialjuice] UK's PM Burnham Tells Trump: We are ready to play our part in the Middle East.
+- 09/23 01:46 [financialjuice] Trump: I think Burnham is a natural businessperson, he gets it.
+- 09/23 01:49 [financialjuice] ❗ Trump on Iran: I think a settlement will be reached.
+- 09/23 01:49 [financialjuice/FirstSquawk] Trump: Iran has been talking to us, even today.
+- 09/23 01:49 [financialjuice] Trump: Some US-Iran communication has happened even today.
+- 09/23 01:50 [FirstSquawk] TRUMP ON IRAN: THINK A SETTLEMENT WILL BE REACHED
+- 09/23 01:50 [financialjuice] Trump|: The Iran relationship is developing.
+- 09/23 01:51 [FirstSquawk] TRUMP SAYS SOME US-IRAN COMMUNICATION HAS HAPPENED EVEN TODAY
+- 09/23 01:51 [FirstSquawk] TRUMP SAYS IRAN RELATIONSHIP IS 'DEVELOPING'
+- 09/23 01:51 [financialjuice] Fed's Barkin: We raised rates last week because risks to inflation outweigh risks to maximum employment.
+- 09/23 01:51 [financialjuice] Fed's Barkin: Last week's rate hike will help restore price stability, we'll see if more hikes are needed.
