@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 21:41 JST／対象: 09/22 09:41 〜 09/22 21:41 JST（時刻はすべて日本時間）
+生成: 2026-09-22 21:56 JST／対象: 09/22 09:56 〜 09/22 21:56 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 144 | 09/22 09:44 | 09/22 21:38 | 34分（13:22→13:56） |
-| financialjuice | 81 | 09/22 12:21 | 09/22 21:36 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 141 | 09/22 09:59 | 09/22 21:52 | 34分（13:22→13:56） |
+| financialjuice | 88 | 09/22 12:21 | 09/22 21:56 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 243 行（統合前 247 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 246 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 09:44 [FirstSquawk] Oil gains modestly as traders monitor signs of Mideast conflict diplomacy — WSJ
-- 09/22 09:49 [FirstSquawk] Nikkei seen poised for a potential rally as shorts pile up — WSJ
-- 09/22 09:51 [FirstSquawk] Google starts pre-orders for $899 laptops featuring Gemini AI — Reuters
-- 09/22 09:52 [FirstSquawk] Won strengthens 1% against the dollar in South Korea
 - 09/22 09:59 [FirstSquawk] South Korea’s Kim says US investment will provide greater market access for Korean businesses in US
 - 09/22 10:00 [FirstSquawk] Taiwan overnight rate edges lower to 0.804% at the open
 - 09/22 10:01 [FirstSquawk] South Korea’s Lee proposes sanctions relief for North Korea in exchange for nuclear program suspension — NYT
@@ -267,3 +263,10 @@
 - 09/22 21:36 [financialjuice] Trump's UN speech to make the case for how he uses America's power to confront Iran, cartel violence and other threats, reshaping the world to help the US - White House official tells Fox News
 - 09/22 21:38 [FirstSquawk] CME GROUP TO EXPAND CRYPTO DERIVATIVES SUITE WITH BITCOIN CASH AND UNISWAP FUTURES
 - 09/22 21:38 [FirstSquawk] WH OFFICIAL: TRUMP UN SPEECH TO PRESS CASE FOR CONFRONTING IRAN, CARTELS - FOX
+- 09/22 21:48 [financialjuice] The government will soon approve the mobilization of up to 200,000 reservists for another round - Israel's Hayom News
+- 09/22 21:51 [financialjuice] Deputy Speaker of Iran Parliament Nikzad: We will not back down on the Strait of Hormuz. - ISMN
+- 09/22 21:52 [financialjuice/FirstSquawk] German fuel rebate to be approved in parliament this week - CDU
+- 09/22 21:54 [financialjuice] IMF's Managing Director Georgieva Speaks at "The Next 3 Billion" Semafor Events - WATCH LIVE
+- 09/22 21:54 [financialjuice] Trump at the UN to highlight strategy to end foreign interference.
+- 09/22 21:55 [financialjuice] CDU'S Frei: Lawmakers are going to focus on stabilizing the German coalition.
+- 09/22 21:56 [financialjuice] US REDBOOK YOY ACTUAL 7.6% (FORECAST -, PREVIOUS 8.5%) $MACRO

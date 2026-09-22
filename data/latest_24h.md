@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 21:41 JST／対象: 09/21 21:41 〜 09/22 21:41 JST（時刻はすべて日本時間）
+生成: 2026-09-22 21:56 JST／対象: 09/21 21:56 〜 09/22 21:56 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 50 | 09/21 22:44 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 331 | 09/21 21:44 | 09/22 21:38 | 44分（06:24→07:08） |
-| financialjuice | 235 | 09/21 21:42 | 09/22 21:36 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 329 | 09/21 22:00 | 09/22 21:52 | 44分（06:24→07:08） |
+| financialjuice | 237 | 09/21 22:00 | 09/22 21:56 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 601 行（統合前 621 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 600 行（統合前 621 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 21:42 [financialjuice] USTR Greer: Nothing off the table regarding Iran-related sanctions.
-- 09/21 21:44 [FirstSquawk] GREER SAYS NOTHING OFF TABLE REGARDING IRAN-RELATED SANCTIONS
-- 09/21 21:44 [FirstSquawk] GARDEN REACH SHIPBUILDERS: CO BOARD APPROVES ₹2,896 CRORE CAPEX FOR GREENFIELD SHIPYARD AT RAICHAK
-- 09/21 21:46 [financialjuice] The Gulf states urge a reset with Iran as conflict drags on - FT
-- 09/21 21:48 [financialjuice] USTR Greer contrasts positive Mexico talks with Canada differences.
-- 09/21 21:50 [financialjuice] USTR Greer: Canada has slow growth, and I like our model better.
-- 09/21 21:51 [financialjuice] USTR Greer interview with Bloomberg TV concludes.
-- 09/21 21:56 [FirstSquawk] RUSSIA FINANCE MINISTER SEES 2026 BUDGET GAP WITHIN 3%/GDP: IFX
 - 09/21 22:00 [FirstSquawk] MCLAREN PLANS £500 MILLION INVESTMENT IN A NEW PLANT, A RARE BOOST FOR THE UK MANUFACTURING SECTOR AND PM ANDY BURNHAM.
 - 09/21 22:00 [financialjuice] Effective Fed Funds rate: 3.88% September 18th vs 3.88% September 17th.
 - 09/21 22:00 [financialjuice] Fed's Goolsbee: Inflation data earlier this year seemed to show supply shocks waning; now some of it is coming from demand.
@@ -625,3 +617,10 @@
 - 09/22 21:36 [financialjuice] Trump's UN speech to make the case for how he uses America's power to confront Iran, cartel violence and other threats, reshaping the world to help the US - White House official tells Fox News
 - 09/22 21:38 [FirstSquawk] CME GROUP TO EXPAND CRYPTO DERIVATIVES SUITE WITH BITCOIN CASH AND UNISWAP FUTURES
 - 09/22 21:38 [FirstSquawk] WH OFFICIAL: TRUMP UN SPEECH TO PRESS CASE FOR CONFRONTING IRAN, CARTELS - FOX
+- 09/22 21:48 [financialjuice] The government will soon approve the mobilization of up to 200,000 reservists for another round - Israel's Hayom News
+- 09/22 21:51 [financialjuice] Deputy Speaker of Iran Parliament Nikzad: We will not back down on the Strait of Hormuz. - ISMN
+- 09/22 21:52 [financialjuice/FirstSquawk] German fuel rebate to be approved in parliament this week - CDU
+- 09/22 21:54 [financialjuice] IMF's Managing Director Georgieva Speaks at "The Next 3 Billion" Semafor Events - WATCH LIVE
+- 09/22 21:54 [financialjuice] Trump at the UN to highlight strategy to end foreign interference.
+- 09/22 21:55 [financialjuice] CDU'S Frei: Lawmakers are going to focus on stabilizing the German coalition.
+- 09/22 21:56 [financialjuice] US REDBOOK YOY ACTUAL 7.6% (FORECAST -, PREVIOUS 8.5%) $MACRO
