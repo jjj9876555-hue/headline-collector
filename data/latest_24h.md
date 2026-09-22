@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 14:03 JST／対象: 09/21 14:03 〜 09/22 14:03 JST（時刻はすべて日本時間）
+生成: 2026-09-22 14:24 JST／対象: 09/21 14:24 〜 09/22 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 355 | 09/21 14:04 | 09/22 14:03 | 44分（06:24→07:08） |
-| financialjuice | 253 | 09/21 14:14 | 09/22 14:02 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 354 | 09/21 14:25 | 09/22 14:20 | 44分（06:24→07:08） |
+| financialjuice | 257 | 09/21 15:05 | 09/22 14:20 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 650 行（統合前 671 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 653 行（統合前 674 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 14:04 [FirstSquawk] South Korea takes bronze in men’s rifle team competition, falls short in individual events — Yonhap
-- 09/21 14:05 [FirstSquawk] Microsoft expands India cloud footprint with launch of fourth region in South Central India — Conference
-- 09/21 14:10 [FirstSquawk] Thai finance minister plans to seek Tuesday approval to extend consumer subsidy scheme
-- 09/21 14:14 [financialjuice] Russian defence ministry: Russian forces strike cargo ship in Ukraine's Odesa port
-- 09/21 14:15 [financialjuice] Iran’s Revolutionary Guards spokesperson: any new strike will prompt Tehran to alter war geography and armaments - Fars News
-- 09/21 14:15 [FirstSquawk] IRGC warns Iran would alter war geography and weaponry in response to any new attack — Fars News
-- 09/21 14:15 [financialjuice] Russian defence ministry: Russian forces also target logistics centres, warehouses and Ukrainian ports - TASS
 - 09/21 14:25 [FirstSquawk] Berenberg hikes Softcat price target to 2,400p from 1,950p
 - 09/21 14:34 [FirstSquawk] Strong chip recovery drives greater trade dependence in South Korea in 2024 — Yonhap
 - 09/21 14:43 [FirstSquawk] South Korea’s central bank launches pilot for 24-hour offshore won settlement — Yonhap
@@ -674,3 +667,13 @@
 - 09/22 14:02 [FirstSquawk] Roche reports positive Phase II results for enicepatide in type 2 diabetes and overweight or obesity
 - 09/22 14:02 [financialjuice] ECB releases media interview with Le Temps
 - 09/22 14:03 [FirstSquawk] ECB releases an interview with Le Temps
+- 09/22 14:11 [financialjuice] Current decline in house prices aligns with previous trends
+- 09/22 14:11 [financialjuice] Boom is adding to surplus demand in Australian economy
+- 09/22 14:11 [financialjuice] Russia launches massive strike on targets in Ukraine: defence ministry
+- 09/22 14:11 [financialjuice] Unemployment of 4.5% to 5.0% probably eases inflation pressure
+- 09/22 14:11 [financialjuice] Russia says it strikes sea vessels and port facilities in Ukraine
+- 09/22 14:11 [FirstSquawk] Russia conducts large-scale strike on targets across Ukraine, defence ministry says — IFX
+- 09/22 14:11 [FirstSquawk] Russia says it carried out strikes on vessels and port infrastructure in Ukraine
+- 09/22 14:19 [financialjuice] Economists believe neutral rates are increasing globally, driving up real bond yields
+- 09/22 14:20 [financialjuice] Russian overnight strike on Ukraine's city of Dnipro kills three: governor
+- 09/22 14:20 [FirstSquawk] Russian strike on Ukraine’s Dnipro kills three overnight, governor says
