@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 03:59 JST／対象: 09/22 15:59 〜 09/23 03:59 JST（時刻はすべて日本時間）
+生成: 2026-09-23 04:16 JST／対象: 09/22 16:16 〜 09/23 04:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 158 | 09/22 16:07 | 09/23 03:58 | 35分（01:56→02:31） |
-| financialjuice | 213 | 09/22 16:01 | 09/23 03:56 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 164 | 09/22 16:32 | 09/23 04:09 | 35分（01:56→02:31） |
+| financialjuice | 214 | 09/22 16:16 | 09/23 04:12 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 383 行（統合前 399 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 390 行（統合前 407 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 16:01 [financialjuice] Currency Strength Chart: Strongest: NZD, CAD, GBP, CHF, USD, EUR, AUD, GBP - Weakest
-- 09/22 16:07 [FirstSquawk] SAUDI: DANGER HAS PASSED IN NAJRAN PROVINCE
-- 09/22 16:07 [FirstSquawk] SAUDI CIVIL DEFENSE: ALERTS OF POTENTIAL DANGER IN NAJRAN AREA- STATEMENT
-- 09/22 16:11 [financialjuice] UBS CEO Ermotti: AT1 proposal still increases costs for us
-- 09/22 16:11 [financialjuice] UBS CEO: The fee pool is going to be down
 - 09/22 16:16 [financialjuice] Turkey and the US to cooperate on small modular reactors - Ministry
 - 09/22 16:25 [financialjuice] UBS CEO: I see 'great momentum’ in wealth creation in the US
 - 09/22 16:26 [financialjuice] UBS CEO: Attrition of financial advisers in the US is plateauing
@@ -407,3 +402,15 @@
 - 09/23 03:54 [financialjuice] US sources: Pre-planned US meeting with Araghchi's Iranian team, Qatar's PM present, discussed resuming talks and opening Hormuz Strait; no deal on contentious issues - Israel Hayom
 - 09/23 03:56 [financialjuice] Ukraine's President Zelenskiy: Trump and I discussed an energy ceasefire and how to end the war; Ukraine ready for any format of energy ceasefire
 - 09/23 03:58 [FirstSquawk] AN IRANIAN OFFICIAL, RESPONDING TO TRUMP'S CLAIMS, SAYS IRAN IS 'READY FOR ESCALATION IN CASE OF ENEMY AGGRESSION', ADDING THAT THE U.S. 'HAS NOT SET ANY RED LINES IN THE REGION' AND THAT IRAN IS PREPARED FOR ALL POSSIBLE SCENARIOS - FARS N…
+- 09/23 03:59 [FirstSquawk] U.S. SOURCES CITED BY ISRAEL HAYOM NEWS SAY A PRE-PLANNED MEETING BETWEEN U.S. REPRESENTATIVES AND ARAGHCHI'S IRANIAN TEAM — WITH QATAR'S PM PRESENT FOR MOST OF IT — DISCUSSED RESUMING TALKS AND OPENING THE STRAIT OF HORMUZ, BUT REACHED NO …
+- 09/23 04:00 [FirstSquawk] ZELENSKIY SAYS HE AND TRUMP DISCUSSED AN ENERGY CEASEFIRE AND WAYS TO END THE WAR, WITH UKRAINE READY FOR ANY FORMAT OF AN AGREEMENT AND HOPING THE U.S. CAN BRING RUSSIA INTO NEGOTIATIONS.
+- 09/23 04:00 [FirstSquawk] ZELENSKIY ALSO DISCUSSED WINTER PREPARATIONS AND REQUESTED A WINTER PACKAGE OF PATRIOT MISSILES, SAYING UKRAINE NEEDS LICENSES FOR PATRIOT PRODUCTION AND SECURITY GUARANTEES.
+- 09/23 04:02 [financialjuice] On Thursday, Israel's Prime Minister Netanyahu will be in New York for a few hours, no significant meetings - Israel's N12 News
+- 09/23 04:03 [FirstSquawk] ISRAEL PM NETANYAHU TO SPEND FEW HOURS IN NEW YORK ON THURSDAY, WITH NO SIGNIFICANT MEETINGS PLANNED — N12 NEWS
+- 09/23 04:03 [FirstSquawk] ZELENSKIY REITERATES READINESS FOR TRILATERAL MEETING WITH PUTIN & TRUMP
+- 09/23 04:06 [financialjuice] Senators: Trump must end China’s access to advanced chips.
+- 09/23 04:06 [FirstSquawk] ZELENSKIY SAYS TRUMP DID NOT ASK UKRAINE TO UNILATERALLY HALT ENERGY STRIKES
+- 09/23 04:08 [FirstSquawk] ZELENSKIY: PUTIN IS NOT WINNING ON THE BATTLEFIELD
+- 09/23 04:09 [financialjuice] WATCH LIVE: Trump Participates in a Shield of the Americas Event
+- 09/23 04:09 [FirstSquawk] US SENATORS CALL ON TRUMP TO END CHINA’S ACCESS TO ADVANCED CHIPS
+- 09/23 04:12 [financialjuice] Trump: Witkoff and Kushner met with Iran. Lots of good thoughts.

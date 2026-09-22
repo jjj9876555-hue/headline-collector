@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 03:59 JST／対象: 09/22 03:59 〜 09/23 03:59 JST（時刻はすべて日本時間）
+生成: 2026-09-23 04:16 JST／対象: 09/22 04:16 〜 09/23 04:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 344 | 09/22 04:00 | 09/23 03:58 | 44分（06:24→07:08） |
-| financialjuice | 271 | 09/22 04:03 | 09/23 03:56 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 347 | 09/22 04:20 | 09/23 04:09 | 44分（06:24→07:08） |
+| financialjuice | 272 | 09/22 04:21 | 09/23 04:12 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 626 行（統合前 643 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 630 行（統合前 648 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 04:00 [FirstSquawk] RUSSIA TO SCRAP GRAIN EXPORT DUTIES UNTIL END-2026, SUPPORTING UNINTERRUPTED GRAIN SHIPMENTS
-- 09/22 04:01 [FirstSquawk] US STATE DEPARTMENT IMPOSES VISA RESTRICTIONS ON 32 INDIVIDUALS LINKED TO PRINCE GROUP TCO
-- 09/22 04:03 [financialjuice] Qatar: We are working to facilitate an agreement between Iran and US - Tasnim News
-- 09/22 04:09 [FirstSquawk] QATAR SAYS IT IS WORKING TO FACILITATE A US-IRAN AGREEMENT, INCLUDING A POSSIBLE SHORT-TERM DEAL — TASNIM NEWS
-- 09/22 04:11 [financialjuice] Trump administration proposes $5 bln to kickstart investment fund to rebuild Gulf energy sites, according to sources and documents.
-- 09/22 04:11 [FirstSquawk] TRUMP ADMINISTRATION PROPOSES $5 BILLION FUND TO REBUILD GULF ENERGY SITES, AIMING TO KICKSTART INVESTMENT — WSJ, CITING SOURCES & DOCUMENTS
-- 09/22 04:12 [financialjuice] Trump administration proposes $5 bln to kickstart investment fund to rebuild Gulf energy sites, according to sources and documents - WSJ
-- 09/22 04:13 [FirstSquawk] US PROPOSES $5B FUND TO REBUILD GULF ENERGY INFRASTRUCTURE • TRUMP ADMINISTRATION PROPOSES $5 BILLION TO KICKSTART A NEW MIDDLE EAST ENERGY REBUILDING FUND, WSJ REPORTS • US SEEKS MATCHING $5 BILLION FROM 8 REGIONAL PARTNERS, TARGETING A $1…
 - 09/22 04:20 [FirstSquawk] UK PM BURNHAM TO MEET EU COMMISSION PRESIDENT VON DER LEYEN ON TUESDAY TO RESOLVE EU CAR RULE DISPUTE — TIMES
 - 09/22 04:21 [financialjuice] Tuesday FX Options Expiries
 - 09/22 04:22 [FirstSquawk] RUSSIA HAS SET EXPORT DUTIES ON WHEAT, BARLEY AND CORN AT ZERO FROM SEPT. 1 THROUGH DEC. 31, 2026, AS THE GOVERNMENT SEEKS TO SUPPORT THE EXPORT POTENTIAL OF THE AGRICULTURAL SECTOR.
@@ -650,3 +642,15 @@
 - 09/23 03:54 [financialjuice] US sources: Pre-planned US meeting with Araghchi's Iranian team, Qatar's PM present, discussed resuming talks and opening Hormuz Strait; no deal on contentious issues - Israel Hayom
 - 09/23 03:56 [financialjuice] Ukraine's President Zelenskiy: Trump and I discussed an energy ceasefire and how to end the war; Ukraine ready for any format of energy ceasefire
 - 09/23 03:58 [FirstSquawk] AN IRANIAN OFFICIAL, RESPONDING TO TRUMP'S CLAIMS, SAYS IRAN IS 'READY FOR ESCALATION IN CASE OF ENEMY AGGRESSION', ADDING THAT THE U.S. 'HAS NOT SET ANY RED LINES IN THE REGION' AND THAT IRAN IS PREPARED FOR ALL POSSIBLE SCENARIOS - FARS N…
+- 09/23 03:59 [FirstSquawk] U.S. SOURCES CITED BY ISRAEL HAYOM NEWS SAY A PRE-PLANNED MEETING BETWEEN U.S. REPRESENTATIVES AND ARAGHCHI'S IRANIAN TEAM — WITH QATAR'S PM PRESENT FOR MOST OF IT — DISCUSSED RESUMING TALKS AND OPENING THE STRAIT OF HORMUZ, BUT REACHED NO …
+- 09/23 04:00 [FirstSquawk] ZELENSKIY SAYS HE AND TRUMP DISCUSSED AN ENERGY CEASEFIRE AND WAYS TO END THE WAR, WITH UKRAINE READY FOR ANY FORMAT OF AN AGREEMENT AND HOPING THE U.S. CAN BRING RUSSIA INTO NEGOTIATIONS.
+- 09/23 04:00 [FirstSquawk] ZELENSKIY ALSO DISCUSSED WINTER PREPARATIONS AND REQUESTED A WINTER PACKAGE OF PATRIOT MISSILES, SAYING UKRAINE NEEDS LICENSES FOR PATRIOT PRODUCTION AND SECURITY GUARANTEES.
+- 09/23 04:02 [financialjuice] On Thursday, Israel's Prime Minister Netanyahu will be in New York for a few hours, no significant meetings - Israel's N12 News
+- 09/23 04:03 [FirstSquawk] ISRAEL PM NETANYAHU TO SPEND FEW HOURS IN NEW YORK ON THURSDAY, WITH NO SIGNIFICANT MEETINGS PLANNED — N12 NEWS
+- 09/23 04:03 [FirstSquawk] ZELENSKIY REITERATES READINESS FOR TRILATERAL MEETING WITH PUTIN & TRUMP
+- 09/23 04:06 [financialjuice] Senators: Trump must end China’s access to advanced chips.
+- 09/23 04:06 [FirstSquawk] ZELENSKIY SAYS TRUMP DID NOT ASK UKRAINE TO UNILATERALLY HALT ENERGY STRIKES
+- 09/23 04:08 [FirstSquawk] ZELENSKIY: PUTIN IS NOT WINNING ON THE BATTLEFIELD
+- 09/23 04:09 [financialjuice] WATCH LIVE: Trump Participates in a Shield of the Americas Event
+- 09/23 04:09 [FirstSquawk] US SENATORS CALL ON TRUMP TO END CHINA’S ACCESS TO ADVANCED CHIPS
+- 09/23 04:12 [financialjuice] Trump: Witkoff and Kushner met with Iran. Lots of good thoughts.
