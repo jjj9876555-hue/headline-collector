@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 11:58 JST／対象: 09/21 11:58 〜 09/22 11:58 JST（時刻はすべて日本時間）
+生成: 2026-09-22 12:17 JST／対象: 09/21 12:17 〜 09/22 12:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 356 | 09/21 12:07 | 09/22 11:56 | 44分（06:24→07:08） |
-| financialjuice | 233 | 09/21 12:05 | 09/22 08:13 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 359 | 09/21 12:21 | 09/22 12:14 | 44分（06:24→07:08） |
+| financialjuice | 231 | 09/21 12:39 | 09/22 08:13 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 631 行（統合前 652 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 632 行（統合前 653 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 12:05 [financialjuice] New Zealand defence forces: two naval vessels crossed Taiwan Strait
-- 09/21 12:07 [FirstSquawk] Two New Zealand Navy vessels pass through Taiwan Strait — Defence Forces
-- 09/21 12:13 [financialjuice] At least three killed in Pakistani air raids on Afghanistan's Kunar province: Tolo News citing provincial official
-- 09/21 12:14 [FirstSquawk] Pakistani airstrikes in Afghanistan’s Kunar province kill at least three — TOLO News
-- 09/21 12:14 [FirstSquawk] Eight killed after fire breaks out at textile factory in Foshan, China — Xinhua
 - 09/21 12:21 [FirstSquawk] BlossomHill Therapeutics target raised to $40 from $30 by Guggenheim
 - 09/21 12:29 [FirstSquawk] AUD/USD consolidates above 0.7100 as markets await Trump-Xi talks - FX
 - 09/21 12:33 [FirstSquawk] VinFast-linked taxi firm launches motorbike service in Jakarta, its first overseas — NA
@@ -655,3 +650,9 @@
 - 09/22 11:49 [FirstSquawk] Indonesia’s wet season set to start in most areas in early November, weather agency says
 - 09/22 11:52 [FirstSquawk] Indonesia weather agency expects shorter-than-normal wet season across most of the country in 2026-27
 - 09/22 11:56 [FirstSquawk] NHC: Odalys expected to slowly strengthen
+- 09/22 12:05 [FirstSquawk] Texas power plant selected as South Korea’s first US investment project — Yonhap
+- 09/22 12:08 [FirstSquawk] RBA Gov. Bullock: Supply shocks pose challenges for monetary policy
+- 09/22 12:09 [FirstSquawk] RBA Gov. Bullock: Monetary policy needs to tackle second-round inflation effects
+- 09/22 12:11 [FirstSquawk] South Korea govt: Even with 5%-10% stake in Westinghouse, South Korea would retain voting rights — Yonhap
+- 09/22 12:13 [FirstSquawk] South Korea Industry Ministry: Trump to announce final US investment plan; 45-day fund remittance period upon US request — Yonhap
+- 09/22 12:14 [FirstSquawk] South Korea to provide full investment for Texas gas plant, ownership to be split 50-50 with US — Yonhap

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 11:58 JST／対象: 09/22 05:58 〜 09/22 11:58 JST（時刻はすべて日本時間）
+生成: 2026-09-22 12:17 JST／対象: 09/22 06:17 〜 09/22 12:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 116 | 09/22 06:00 | 09/22 11:56 | 44分（06:24→07:08） |
-| financialjuice | 14 | 09/22 06:00 | 09/22 08:13 | 42分（07:30→08:13） |
+| FirstSquawk | 116 | 09/22 06:18 | 09/22 12:14 | 44分（06:24→07:08） |
+| financialjuice | 13 | 09/22 06:22 | 09/22 08:13 | 42分（07:30→08:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 129 行（統合前 130 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 129 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 06:00 [FirstSquawk] CMS HAS ANNOUNCED NEW PRELIMINARY MEDICARE PAYMENT RATES FOR LABORATORY SERVICES, SAVING TAXPAYERS AN ESTIMATED $1 BLN ANNUALLY, AND ANTICIPATES FINALIZING CY 2027 PAYMENT RATES FOR CLINICAL DIAGNOSTIC LABORATORY TESTS UNDER THE CLINICAL LA…
-- 09/22 06:00 [FirstSquawk/financialjuice] UK PM BURNHAM: AGREED TO SAUDI ARABIA REQUEST FOR TIME-LIMITED DEFENSIVE AIR-TO-AIR REFUELLING TO STABILIZE REGION
-- 09/22 06:10 [FirstSquawk] ELEMENTAL ROYALTY CORP HAS ACQUIRED A STREAMS AND ROYALTIES PORTFOLIO FROM ORION FOR $290.0 MLN, WHILE DIVESTING ITS GENERATION BUSINESS TO CARLIN EAST IN A NON-BINDING DEAL, RECEIVING $8.5 MLN IN CARLIN EAST SHARES — ABOUT A 19.9% STAKE ON…
-- 09/22 06:10 [FirstSquawk] ELEMENTAL ROYALTY SAYS THAT AS A RESULT OF THE DIVESTMENT IT WILL REDUCE HEADCOUNT BY OVER 50%, ANTICIPATING A REDUCTION IN ANNUAL CASH EXPENSES OF ABOUT $6 MLN, AND SEES 2026 GEO SALES GUIDANCE OF 19,500-22,000 GEOS AND REVENUE GUIDANCE OF…
-- 09/22 06:10 [FirstSquawk] ELEMENTAL ROYALTY SAYS CEO DAVID COLE HAS RESIGNED TO TAKE A LEADERSHIP ROLE AT CARLIN EAST, WITH FREDERICK BELL APPOINTED CEO - SEC FILING
-- 09/22 06:11 [FirstSquawk] NORTH KOREA SAYS IT TESTED NEW COMBAT WEAPON SYSTEM — KCNA
 - 09/22 06:18 [FirstSquawk] WOODWARD PLANS TO TRANSITION ITS SANTA CLARITA, CALIFORNIA AEROSPACE CONTROLS PRODUCTION TO SPARTANBURG, SOUTH CAROLINA, CEASING OPERATIONS AT SANTA CLARITA BY DECEMBER 2027 IN A DECISION EXPECTED TO AFFECT ABOUT 400 ROLES, AND AGREEING TO …
 - 09/22 06:18 [FirstSquawk] WOODWARD SAYS IT WILL MOVE MILITARY FLIGHT CONTROL ACTUATION PRODUCTION TO SPARTANBURG, WITH THE FACILITY EXPECTED TO GO ONLINE IN SUMMER 2027 TO PRODUCE AIRBUS A350 SPOILER ACTUATION SYSTEMS, AND ESTIMATES CUMULATIVE PRE-TAX CHARGES OF $34…
 - 09/22 06:22 [FirstSquawk] COPPER RISES 1% TO $14,661/TON ON THE LME, MOVING BACK TOWARD ITS RECORD HIGH OF $14,875 SET ON SEPT. 10, AS STOCK MARKETS RALLY AND SUPPLY TIGHTNESS EMERGES IN CHINA.
@@ -153,3 +147,9 @@
 - 09/22 11:49 [FirstSquawk] Indonesia’s wet season set to start in most areas in early November, weather agency says
 - 09/22 11:52 [FirstSquawk] Indonesia weather agency expects shorter-than-normal wet season across most of the country in 2026-27
 - 09/22 11:56 [FirstSquawk] NHC: Odalys expected to slowly strengthen
+- 09/22 12:05 [FirstSquawk] Texas power plant selected as South Korea’s first US investment project — Yonhap
+- 09/22 12:08 [FirstSquawk] RBA Gov. Bullock: Supply shocks pose challenges for monetary policy
+- 09/22 12:09 [FirstSquawk] RBA Gov. Bullock: Monetary policy needs to tackle second-round inflation effects
+- 09/22 12:11 [FirstSquawk] South Korea govt: Even with 5%-10% stake in Westinghouse, South Korea would retain voting rights — Yonhap
+- 09/22 12:13 [FirstSquawk] South Korea Industry Ministry: Trump to announce final US investment plan; 45-day fund remittance period upon US request — Yonhap
+- 09/22 12:14 [FirstSquawk] South Korea to provide full investment for Texas gas plant, ownership to be split 50-50 with US — Yonhap

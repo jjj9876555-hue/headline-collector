@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 11:58 JST／対象: 09/21 23:58 〜 09/22 11:58 JST（時刻はすべて日本時間）
+生成: 2026-09-22 12:17 JST／対象: 09/22 00:17 〜 09/22 12:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/22 00:02 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 203 | 09/22 00:08 | 09/22 11:56 | 44分（06:24→07:08） |
-| financialjuice | 97 | 09/22 00:00 | 09/22 08:13 | 42分（07:30→08:13） |
+| DeItaone | 10 | 09/22 00:21 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 206 | 09/22 00:31 | 09/22 12:14 | 44分（06:24→07:08） |
+| financialjuice | 83 | 09/22 00:18 | 09/22 08:13 | 42分（07:30→08:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 305 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 293 行（統合前 301 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 00:00 [financialjuice] Mexico's President Sheinbaum: The government is looking for ways to reduce imports from other nations and buy more goods from the US.
-- 09/22 00:02 [DeItaone] TOTAL CEO: TOO MUCH REFINING IS OFFLINE AHEAD OF WINTER
-- 09/22 00:05 [financialjuice] BoC's Gov. Macklem: If oil prices stay near $100 a barrel, we'd expect inflation to edge up in the coming months.
-- 09/22 00:05 [financialjuice] BoC's Gov. Macklem: Fuel prices have risen more than we'd normally expect, reflecting damage to global refining capacity.
-- 09/22 00:05 [financialjuice] BoC's Gov. Macklem: If new US tariffs remain in place, Q4 growth could be roughly halved to below 1%.
-- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: Recent gas prices have been more consistent with an oil price almost $40 higher than where it has been.
-- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: We don't want to raise rates and restrain growth if inflationary pressures are contained.
-- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: so far we haven't seen evidence that higher oil prices are spreading to other goods and services.
-- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: When it comes to rate decisions, we need to look beyond the initial shock of higher oil prices.
-- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: Nor do we want to be too slow to respond if inflationary pressures are becoming more persistent.
-- 09/22 00:07 [financialjuice] BoC's Gov. Macklem: There is growing evidence that many Canadian businesses have started to adapt to US tariffs.
-- 09/22 00:08 [FirstSquawk] SPEECH BY BOC’S MACKLEM ON ‘NAVIGATING UNCERTAINTY AND ADAPTING TO CHANGE’
-- 09/22 00:10 [FirstSquawk] BOC’S MACKLEM: Q4 GROWTH COULD BE ROUGHLY HALVED IF NEW US TARIFFS REMAIN IN PLACE
-- 09/22 00:11 [financialjuice] BoE Breeden: It is a question whether regulation is set up for AI.
-- 09/22 00:15 [financialjuice] BoE Breeden: We need to move quickly on financial stability response.
-- 09/22 00:15 [FirstSquawk] BOE’S BREEDEN: ‘QUESTION’ ON IF REGULATION IS SET UP FOR AI
-- 09/22 00:15 [financialjuice] Fed bids for 3-month bills total $6.2 bln.
-- 09/22 00:15 [financialjuice] Fed bids for 6-month bills total $5.3 bln.
 - 09/22 00:18 [financialjuice] Moscow Oil Refinery has halted operations after a Ukrainian drone attack on September 20th - Sources.
 - 09/22 00:21 [DeItaone] UKRAINIAN DRONE STRIKE SHUTS MAJOR MOSCOW REFINERY Gazprom Neft’s Moscow refinery has halted crude processing after a Ukrainian drone attack sparked fires at both primary distillation units. Repairs could take several weeks, according to Re…
 - 09/22 00:31 [FirstSquawk] RUSSIAN PRESIDENT PUTIN PLANS TO ATTEND XI’S APEC SUMMIT, SKIP G20 WITH TRUMP
@@ -329,3 +311,9 @@
 - 09/22 11:49 [FirstSquawk] Indonesia’s wet season set to start in most areas in early November, weather agency says
 - 09/22 11:52 [FirstSquawk] Indonesia weather agency expects shorter-than-normal wet season across most of the country in 2026-27
 - 09/22 11:56 [FirstSquawk] NHC: Odalys expected to slowly strengthen
+- 09/22 12:05 [FirstSquawk] Texas power plant selected as South Korea’s first US investment project — Yonhap
+- 09/22 12:08 [FirstSquawk] RBA Gov. Bullock: Supply shocks pose challenges for monetary policy
+- 09/22 12:09 [FirstSquawk] RBA Gov. Bullock: Monetary policy needs to tackle second-round inflation effects
+- 09/22 12:11 [FirstSquawk] South Korea govt: Even with 5%-10% stake in Westinghouse, South Korea would retain voting rights — Yonhap
+- 09/22 12:13 [FirstSquawk] South Korea Industry Ministry: Trump to announce final US investment plan; 45-day fund remittance period upon US request — Yonhap
+- 09/22 12:14 [FirstSquawk] South Korea to provide full investment for Texas gas plant, ownership to be split 50-50 with US — Yonhap
