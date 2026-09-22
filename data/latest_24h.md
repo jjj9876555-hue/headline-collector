@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 19:18 JST／対象: 09/21 19:18 〜 09/22 19:18 JST（時刻はすべて日本時間）
+生成: 2026-09-22 19:33 JST／対象: 09/21 19:33 〜 09/22 19:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 350 | 09/21 19:23 | 09/22 19:13 | 44分（06:24→07:08） |
-| financialjuice | 271 | 09/21 19:26 | 09/22 18:57 | ⚠ 248分（08:13→12:21） |
+| DeItaone | 62 | 09/21 20:05 | 09/22 19:31 | ⚠ 1015分（02:22→19:18） |
+| FirstSquawk | 341 | 09/21 19:36 | 09/22 19:13 | 44分（06:24→07:08） |
+| financialjuice | 268 | 09/21 19:53 | 09/22 18:57 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 664 行（統合前 683 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 657 行（統合前 676 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 19:23 [FirstSquawk] TRUMP SAID HE WAS VERY WORRIED ABOUT RISING DIESEL PRICES - FT
-- 09/21 19:26 [FirstSquawk] DEEPSEEK BETS ON HUAWEI CHIPS - INFORMATION
-- 09/21 19:26 [FirstSquawk] DEEPSEEK EXPECTS HUAWEI CHIPS DELIVERY EARLY AS 4Q - INFORMATION
-- 09/21 19:26 [FirstSquawk] DEEPSEEK PRIORITY IS TO USE MORE DOMESTIC CHIPS INFORMATION
-- 09/21 19:26 [financialjuice] Trump presses Zelenskiy to stop hitting Russian refineries - FT
-- 09/21 19:26 [financialjuice] Deepseek seeks more domestic chips to train models -Information
-- 09/21 19:26 [financialjuice] Deepseek bets big on Huawei chips to bypass US export controls - The information
-- 09/21 19:31 [FirstSquawk] FED'S GOOLSBEE: STRONG DEMAND MAY BE ADDING TO INFLATION ALONG WITH ENERGY, TARIFF, OTHER SUPPLY SHOCKS
-- 09/21 19:31 [FirstSquawk] GOOLSBEE SAYS 'NO AMBIGUITY' WHAT THE FED WOULD DO IF DEMAND IS OVERHEATING
-- 09/21 19:31 [FirstSquawk] GOOLSBEE SAYS SUPPLY SHOCKS ARE PROVING TO HAVE PERSISTENT IMPACT ON INFLATION, MUST BE ACCOUNTED FOR IN SETTING MONETARY POLICY
-- 09/21 19:31 [FirstSquawk] GOOLSBEE SAYS NEED EVIDENCE THAT INFLATION FROM SUPPLY IS FADING OR HARD TO SEE A 'CREDIBLE PATH' BACK TO 2% INFLATION
-- 09/21 19:31 [FirstSquawk] GOOLSBEE: RESTORING PRICE STABILITY ’WON’T BE PAINLESS’
 - 09/21 19:36 [FirstSquawk] Chicago Fed’s Goolsbee Restoring Price Stability Won’t Be Painless Chicago Federal Reserve President Austan Goolsbee warned that returning inflation to the central bank's 2% target will be a challenging process, driven by persistent supply …
 - 09/21 19:42 [FirstSquawk] BITCOIN HITS HIGHEST SINCE JANUARY 29, AT $85,117.89, LAST UP 4% PCT
 - 09/21 19:53 [financialjuice] Fed's Goolsbee: The Fed must have fortitude to confront inflation
@@ -688,3 +676,8 @@
 - 09/22 19:09 [FirstSquawk] BRENT, US CRUDE FUTURES EXTEND FALL TO ITS LOWEST LEVEL SINCE SEPTEMBER 8 ON HOPES OF INCREASED SUPPLIES FROM THE GULF
 - 09/22 19:10 [FirstSquawk] BOFA RAISES BRENT OIL PRICE FORECAST TO $95 FROM $83 ON PERSISTENT MIDDLE EAST TENSIONS
 - 09/22 19:13 [FirstSquawk] CHINA WELCOMES MERCEDES-BENZ, OTHER EUROPEAN CARMAKERS
+- 09/22 19:18 [DeItaone] BOFA LIFTS BRENT OIL FORECAST TO $95 Bank of America raised its H2 2026 Brent forecast to $95 from $83, expecting Middle East tensions to persist through year-end. Hormuz disruptions are still running 4–8 million barrels per day below pre-w…
+- 09/22 19:21 [DeItaone] TRUMP’S UNGA SCHEDULE TODAY 9:55 AM ET — UN remarks 10:40 AM — Denmark & Greenland signing 11:45 AM — UK bilateral 12:30 PM — Japan bilateral 1:15 PM — Ukraine bilateral 2:15 PM — Shield of the Americas 2:45 PM — Gulf Cooperation Council 7:…
+- 09/22 19:26 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 8:15 AM ET — 🇺🇸 ADP Weekly Employment Estimate 🔸 10:00 AM ET — 🇺🇸 Richmond Fed Manufacturing & Services 🔸 10:00 AM ET — 🚗 AutoZone Earnings Call 🔸 10:05 AM ET — 🏦 Fed’s John Williams 🔸 10:20 AM ET — 🏦…
+- 09/22 19:28 [DeItaone] XI TO PRESS TRUMP ON TAIWAN ARMS SALES Xi Jinping is expected to urge President Trump to halt U.S. arms sales to Taiwan when the leaders meet in Washington this week, Reuters reports. Beijing is also seeking a stop to deliveries of weapons …
+- 09/22 19:31 [DeItaone] RADIATION MONITORING STATION AT ZAPORIZHZHIA NUCLEAR POWER PLANT DAMAGED IN UKRAINIAN DRONE ATTACK - RUSSIAN-INSTALLED OFFICIALS
