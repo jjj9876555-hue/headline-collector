@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 06:15 JST／対象: 09/23 00:15 〜 09/23 06:15 JST（時刻はすべて日本時間）
+生成: 2026-09-23 06:32 JST／対象: 09/23 00:32 〜 09/23 06:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 110 | 09/23 00:16 | 09/23 05:40 | 35分（01:56→02:31） |
-| financialjuice | 140 | 09/23 00:16 | 09/23 06:09 | 14分（03:02→03:16） |
+| FirstSquawk | 107 | 09/23 00:32 | 09/23 05:40 | 35分（01:56→02:31） |
+| financialjuice | 137 | 09/23 00:34 | 09/23 06:20 | 14分（03:02→03:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 243 行（統合前 257 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 237 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 00:16 [FirstSquawk] US TREASURY SECRETARY BROOKE ANNOUNCES PLAN TO IMPROVE AND GROW BUYBACK PROGRAM.
-- 09/23 00:16 [financialjuice] US Treasury Deputy Secretary Brooke: We may see stablecoins grow demand for US Treasuries.
-- 09/23 00:17 [financialjuice] US Treasury Deputy Secretary Brooke: Markets absorbed bigger bill sales remarkably well.
-- 09/23 00:18 [financialjuice] Trump Participates in a Trilateral Signing Event - WATCH LIVE
-- 09/23 00:19 [financialjuice] SpaceXAI’s Grok Bot Agent users grew 24% from the prior week, tops 400,000 users after first month.
-- 09/23 00:20 [financialjuice] French Finance Minister Lescure: There are no fuel concerns for the next two months, but we must continue to monitor for a deterioration of the situation.
-- 09/23 00:21 [financialjuice] PayPal is partnering with Meta. The partnership will allow users to shop and check out using Muse agents. $META $PYPL
-- 09/23 00:27 [FirstSquawk] SPACEXAI'S GROK BOT AGENT SURPASSES 400K USERS AFTER FIRST MONTH; USERS GREW 24% FROM PRIOR WEEK
-- 09/23 00:29 [FirstSquawk] BESSENT, HE TO TALK IF AI NATIONAL SECURITY INCIDENT: POLITICO
-- 09/23 00:30 [financialjuice] The AI safety ‘mechanism’ is a channel between US Treasury Secretary Bessent and China's Vice Premier He Lifeng - Politico
 - 09/23 00:32 [FirstSquawk] NEW AI SAFETY ‘MECHANISM’ IS A CHANNEL BETWEEN BESSENT AND HIS CHINESE COUNTERPART – POLITICO
 - 09/23 00:34 [financialjuice] Danish Prime minister on Trump's Greenland deal: Today we are signing a deal that can last forever.
 - 09/23 00:34 [financialjuice] Saudi Aramco plans a reorganisation to create a new gas division, and considers possible new listings of units - Sources.
@@ -267,3 +257,7 @@
 - 09/23 05:57 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL -2.16M (FORECAST -, PREVIOUS 1.5M) $MACRO
 - 09/23 06:07 [financialjuice] North Korea's vice defense minister to visit Vietnam: KCNA
 - 09/23 06:09 [financialjuice] North Korea's vice foreign minister to participate in UN general assembly: KCNA
+- 09/23 06:18 [financialjuice] USPS refers mail dumping case involving election ballots to inspector general
+- 09/23 06:18 [financialjuice] USPS: mail dumping incident probably involved worker; case sent to oig for probe
+- 09/23 06:19 [financialjuice] EU's Kallas: met today with Serbian President Vucic and Kosovo Prime Minister Kurti
+- 09/23 06:20 [financialjuice] EU's Kallas: Urged advancing normalization of ties between Belgrade and Pristina

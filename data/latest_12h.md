@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 06:15 JST／対象: 09/22 18:15 〜 09/23 06:15 JST（時刻はすべて日本時間）
+生成: 2026-09-23 06:32 JST／対象: 09/22 18:32 〜 09/23 06:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
 | FirstSquawk | 192 | 09/22 18:43 | 09/23 05:40 | 35分（01:56→02:31） |
-| financialjuice | 248 | 09/22 18:18 | 09/23 06:09 | ⚠ 116分（18:57→20:54） |
+| financialjuice | 250 | 09/22 18:32 | 09/23 06:20 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 449 行（統合前 471 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 451 行（統合前 473 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 18:18 [financialjuice] Iran's IRGC: Must negotiate if national interests required
-- 09/22 18:27 [financialjuice] Naftogaz: Facilities hit in Poltava region overnight
 - 09/22 18:32 [financialjuice] GERMAN 5 YR BOBL YIELD ACTUAL 3.28% (FORECAST -, PREVIOUS 3.09%) $MACRO
 - 09/22 18:32 [financialjuice] GERMAN 5 YR BOBL BID-TO-COVER ACTUAL 1.2 (FORECAST -, PREVIOUS 1.6) $MACRO
 - 09/22 18:38 [financialjuice] Russia's oil exports from black sea Novorossiysk port rose to 650,000 barrels per day in September, up 50% from August - Sources and data
@@ -473,3 +471,7 @@
 - 09/23 05:57 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL -2.16M (FORECAST -, PREVIOUS 1.5M) $MACRO
 - 09/23 06:07 [financialjuice] North Korea's vice defense minister to visit Vietnam: KCNA
 - 09/23 06:09 [financialjuice] North Korea's vice foreign minister to participate in UN general assembly: KCNA
+- 09/23 06:18 [financialjuice] USPS refers mail dumping case involving election ballots to inspector general
+- 09/23 06:18 [financialjuice] USPS: mail dumping incident probably involved worker; case sent to oig for probe
+- 09/23 06:19 [financialjuice] EU's Kallas: met today with Serbian President Vucic and Kosovo Prime Minister Kurti
+- 09/23 06:20 [financialjuice] EU's Kallas: Urged advancing normalization of ties between Belgrade and Pristina

@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 06:15 JST／対象: 09/22 06:15 〜 09/23 06:15 JST（時刻はすべて日本時間）
+生成: 2026-09-23 06:32 JST／対象: 09/22 06:32 〜 09/23 06:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 360 | 09/22 06:18 | 09/23 05:40 | 44分（06:24→07:08） |
-| financialjuice | 311 | 09/22 06:22 | 09/23 06:09 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 354 | 09/22 07:08 | 09/23 05:40 | 35分（01:56→02:31） |
+| financialjuice | 313 | 09/22 06:34 | 09/23 06:20 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 680 行（統合前 702 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 676 行（統合前 698 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 06:18 [FirstSquawk] WOODWARD PLANS TO TRANSITION ITS SANTA CLARITA, CALIFORNIA AEROSPACE CONTROLS PRODUCTION TO SPARTANBURG, SOUTH CAROLINA, CEASING OPERATIONS AT SANTA CLARITA BY DECEMBER 2027 IN A DECISION EXPECTED TO AFFECT ABOUT 400 ROLES, AND AGREEING TO …
-- 09/22 06:18 [FirstSquawk] WOODWARD SAYS IT WILL MOVE MILITARY FLIGHT CONTROL ACTUATION PRODUCTION TO SPARTANBURG, WITH THE FACILITY EXPECTED TO GO ONLINE IN SUMMER 2027 TO PRODUCE AIRBUS A350 SPOILER ACTUATION SYSTEMS, AND ESTIMATES CUMULATIVE PRE-TAX CHARGES OF $34…
-- 09/22 06:22 [FirstSquawk] COPPER RISES 1% TO $14,661/TON ON THE LME, MOVING BACK TOWARD ITS RECORD HIGH OF $14,875 SET ON SEPT. 10, AS STOCK MARKETS RALLY AND SUPPLY TIGHTNESS EMERGES IN CHINA.
-- 09/22 06:22 [FirstSquawk] SEVERAL CHINESE COPPER REFINERIES ARE SET FOR PLANNED MAINTENANCE IN OCTOBER-NOVEMBER, LIMITING SUPPLY GROWTH, WHILE PORT CONGESTION IN SHANGHAI CONTINUES TO CREATE UNCERTAINTY AROUND IMPORTS.
-- 09/22 06:22 [financialjuice] USTR to hold public hearing on Sept. 22, 2026, on Section 301 probe into Germany's pharmaceutical policies: statement
-- 09/22 06:23 [FirstSquawk] USTR TO HOLD SEPTEMBER 22 HEARING ON SECTION 301 INVESTIGATION INTO GERMANY’S PHARMACEUTICAL POLICIES — STATEMENT
-- 09/22 06:24 [FirstSquawk] TRUMP TO HOLD IRAN-FOCUSED MEETINGS TODAY, SIGNALING FRESH DISCUSSIONS ON THE CONFLICT
-- 09/22 06:30 [financialjuice] North Korea's culture minister visits Russia: KCNA
 - 09/22 06:34 [financialjuice] United Nations-EU’s Kallas: as Russia escalates risks, we must enforce higher costs
 - 09/22 06:35 [financialjuice] EU's Kallas: We aim for swift rollover of EU sanctions
 - 09/22 06:36 [financialjuice] EU's Kallas: EU naval mission in Red Sea requires additional naval, air resources
@@ -704,3 +696,7 @@
 - 09/23 05:57 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL -2.16M (FORECAST -, PREVIOUS 1.5M) $MACRO
 - 09/23 06:07 [financialjuice] North Korea's vice defense minister to visit Vietnam: KCNA
 - 09/23 06:09 [financialjuice] North Korea's vice foreign minister to participate in UN general assembly: KCNA
+- 09/23 06:18 [financialjuice] USPS refers mail dumping case involving election ballots to inspector general
+- 09/23 06:18 [financialjuice] USPS: mail dumping incident probably involved worker; case sent to oig for probe
+- 09/23 06:19 [financialjuice] EU's Kallas: met today with Serbian President Vucic and Kosovo Prime Minister Kurti
+- 09/23 06:20 [financialjuice] EU's Kallas: Urged advancing normalization of ties between Belgrade and Pristina
