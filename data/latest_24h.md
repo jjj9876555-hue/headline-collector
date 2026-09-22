@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 19:51 JST／対象: 09/21 19:51 〜 09/22 19:51 JST（時刻はすべて日本時間）
+生成: 2026-09-22 20:03 JST／対象: 09/21 20:03 〜 09/22 20:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 63 | 09/21 20:05 | 09/22 19:37 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 340 | 09/21 20:08 | 09/22 19:46 | 44分（06:24→07:08） |
-| financialjuice | 268 | 09/21 19:53 | 09/22 18:57 | ⚠ 248分（08:13→12:21） |
+| DeItaone | 65 | 09/21 20:05 | 09/22 19:57 | ⚠ 1015分（02:22→19:18） |
+| FirstSquawk | 341 | 09/21 20:08 | 09/22 19:58 | 44分（06:24→07:08） |
+| financialjuice | 266 | 09/21 21:10 | 09/22 18:57 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 657 行（統合前 675 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 658 行（統合前 676 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 19:53 [financialjuice] Fed's Goolsbee: The Fed must have fortitude to confront inflation
-- 09/21 20:02 [financialjuice] Fed's Goolsbee: Optimistic that the Fed could get back on a path of 2% as long as there is no more evidence of demand overheating.
 - 09/21 20:05 [DeItaone] U.S. DIESEL HITS RECORD $6.51 A GALLON U.S. diesel prices have surged to a record $6.51 a gallon, according to AAA. Prices are being driven higher by prolonged disruptions to Middle East energy flows and Russian refineries, tightening globa…
 - 09/21 20:08 [FirstSquawk] NISSAN EYES INCREASING US PRODUCTION AS NEW ROGUE HYBRID LAUNCHES – CNBC
 - 09/21 20:12 [FirstSquawk] FED GOOLSBEE: ARGUMENTS THE FED SHOULD CHEAPEN FEDERAL BORROWING COSTS ARE ONE OF THE REASONS FED INDEPENDENCE IS IMPORTANT
@@ -681,3 +679,6 @@
 - 09/22 19:31 [DeItaone] RADIATION MONITORING STATION AT ZAPORIZHZHIA NUCLEAR POWER PLANT DAMAGED IN UKRAINIAN DRONE ATTACK - RUSSIAN-INSTALLED OFFICIALS
 - 09/22 19:37 [DeItaone] U.S. DIESEL PRICES HIT FRESH RECORD AT $6.527 A GALLON
 - 09/22 19:46 [FirstSquawk] LITHUANIAN PRESIDENT: US TO SEND NEW ROTATION OF TROOPS
+- 09/22 19:54 [DeItaone] U.S. DIESEL HITS FRESH RECORD AT $6.53 U.S. diesel prices climbed to a record $6.527 per gallon, up sharply from $3.688 a year ago. Supply is tightening as Russian diesel exports remain restricted and disruptions continue to crude flows thr…
+- 09/22 19:57 [DeItaone] YARDENI: DON’T EXPECT A GRAND BARGAIN FROM TRUMP-XI Yardeni Research expects no major breakthrough when Trump and Xi meet Thursday, but sees scope for an extension of the trade truce and selective commercial deals. Potential progress includ…
+- 09/22 19:58 [FirstSquawk] AUTOZONE Q4 2026 EARNINGS - EPS $56.05 (EST $54.03) || NET SALES $6.6B (EST $6.7B) || COMP SALES +2.7% (EST +4.17%) || DOMESTIC COMP SALES +1.6% (EST +3.12%) || DOMESTIC COMMERCIAL SALES $1.91B (EST $1.92B) || INTERNATIONAL COMP SALES +10.7…

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 19:51 JST／対象: 09/22 07:51 〜 09/22 19:51 JST（時刻はすべて日本時間）
+生成: 2026-09-22 20:03 JST／対象: 09/22 08:03 〜 09/22 20:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 6 | 09/22 19:18 | 09/22 19:37 | 6分（19:31→19:37） |
-| FirstSquawk | 165 | 09/22 07:55 | 09/22 19:46 | 34分（13:22→13:56） |
+| DeItaone | 8 | 09/22 19:18 | 09/22 19:57 | 16分（19:37→19:54） |
+| FirstSquawk | 165 | 09/22 08:05 | 09/22 19:58 | 34分（13:22→13:56） |
 | financialjuice | 66 | 09/22 08:13 | 09/22 18:57 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 237 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 239 行（統合前 239 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 07:55 [FirstSquawk] BRAZIL SAYS URUGUAY HAS AUTHORIZED IT TO USE URUGUAY’S SURPLUS BEEF EXPORT QUOTA TO CHINA, POTENTIALLY GIVING BRAZILIAN EXPORTERS AN ALTERNATIVE AS THEY APPROACH THEIR OWN CHINA QUOTA LIMITS IN 2027. THE BEEF EXPORTERS’ GROUP ABIEC SAYS THE…
 - 09/22 08:05 [FirstSquawk] LIBYA'S SHARARA OIL FIELD HAS SEEN PRODUCTION FALL MORE THAN HALF TO ABOUT 127,000 BARRELS PER DAY AFTER AN ARMED GROUP SHUT A PIPELINE TO THE ZAWIYA EXPORT TERMINAL, WITH MOST OUTPUT BEING REDIRECTED TO MELLITAH PORT. A PROLONGED SHUTDOWN …
 - 09/22 08:07 [FirstSquawk] SMMT: UK EXCLUSION FROM EU ‘MADE IN EUROPE’ PLAN RISKS BRITISH AUTO TRADE MACRO - URGES EU TO RECOGNISE UK-BUILT VEHICLES, PARTS AND MATERIALS AS EQUIVALENT TO EU PRODUCTS TO PROTECT COMPETITION, CONSUMER CHOICE AND SUPPLY CHAINS
 - 09/22 08:13 [financialjuice] IMF’s Georgieva: lender to open office in Caracas next year
@@ -261,3 +260,6 @@
 - 09/22 19:31 [DeItaone] RADIATION MONITORING STATION AT ZAPORIZHZHIA NUCLEAR POWER PLANT DAMAGED IN UKRAINIAN DRONE ATTACK - RUSSIAN-INSTALLED OFFICIALS
 - 09/22 19:37 [DeItaone] U.S. DIESEL PRICES HIT FRESH RECORD AT $6.527 A GALLON
 - 09/22 19:46 [FirstSquawk] LITHUANIAN PRESIDENT: US TO SEND NEW ROTATION OF TROOPS
+- 09/22 19:54 [DeItaone] U.S. DIESEL HITS FRESH RECORD AT $6.53 U.S. diesel prices climbed to a record $6.527 per gallon, up sharply from $3.688 a year ago. Supply is tightening as Russian diesel exports remain restricted and disruptions continue to crude flows thr…
+- 09/22 19:57 [DeItaone] YARDENI: DON’T EXPECT A GRAND BARGAIN FROM TRUMP-XI Yardeni Research expects no major breakthrough when Trump and Xi meet Thursday, but sees scope for an extension of the trade truce and selective commercial deals. Potential progress includ…
+- 09/22 19:58 [FirstSquawk] AUTOZONE Q4 2026 EARNINGS - EPS $56.05 (EST $54.03) || NET SALES $6.6B (EST $6.7B) || COMP SALES +2.7% (EST +4.17%) || DOMESTIC COMP SALES +1.6% (EST +3.12%) || DOMESTIC COMMERCIAL SALES $1.91B (EST $1.92B) || INTERNATIONAL COMP SALES +10.7…
