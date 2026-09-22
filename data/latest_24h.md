@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 18:05 JST／対象: 09/21 18:05 〜 09/22 18:05 JST（時刻はすべて日本時間）
+生成: 2026-09-22 18:24 JST／対象: 09/21 18:24 〜 09/22 18:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 351 | 09/21 18:13 | 09/22 17:52 | 44分（06:24→07:08） |
-| financialjuice | 259 | 09/21 18:32 | 09/22 18:00 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 350 | 09/21 18:33 | 09/22 18:15 | 44分（06:24→07:08） |
+| financialjuice | 262 | 09/21 18:32 | 09/22 18:18 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 653 行（統合前 672 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 655 行（統合前 674 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 18:13 [FirstSquawk] NOVO IS EXPANDING INTO WOMEN'S AND MEN'S HEALTH IN NEW MARKETS, SAYS LANGE.
-- 09/21 18:13 [FirstSquawk] IRISH DATA PROTECTION AUTHORITY FINES GOOGLE €403 MILLION OVER LOCATION DATA HANDLING.
-- 09/21 18:14 [FirstSquawk] UKRAINE'S EXPORT LOSSES FROM RUSSIAN ATTACKS ON PORTS, OTHER INFRASTRUCTURE COULD REACH $4.8 BLN BY END-YEAR SAYS FINANCE MINISTRY
-- 09/21 18:23 [FirstSquawk] India’s Oil Buyers May Weigh Cutting Russian Cargoes Amid New US Sanctions Indian refiners are considering reducing their purchases of Russian crude for November delivery following a sweeping US sanctions law signed last week. The legislati…
 - 09/21 18:32 [financialjuice] UKMTO: Received report of incident involving vessel transiting through the Strait of Hormuz
 - 09/21 18:33 [FirstSquawk] UKMTO: MILITARY AUTHORITIES REPORT VESSEL STRUCK BY UNKNOWN PROJECTILE IN HORMUZ || RECEIVES REPORT OF INCIDENT 07:30 UTC 21 SEP, INVOLVING VESSEL TRANSITING HORMUZ || TWO CREW SUSTAINED MINOR INJURIES, VESSEL CONTINUING TO NEXT PORT OF CAL…
 - 09/21 18:34 [financialjuice] UKMTO: Military authorities informed that a tanker inbound was struck by a projectile. Two crew members sustained minor injuries; the vessel is reported to be continuing to its next port of call
@@ -677,3 +673,9 @@
 - 09/22 17:51 [FirstSquawk] IRAN HAS INFORMED THE TRUMP ADMINISTRATION THAT IT WILL OPEN THE BLOCKED STRAIT OF HORMUZ "WITHIN SEVEN DAYS" IF IT ACCEPTS DEMANDS SUCH AS LIFTING THE US MILITARY BLOCKADE OF IRANIAN PORTS, ACCORDING TO A SENIOR IRANIAN GOVERNMENT OFFICIAL…
 - 09/22 17:52 [FirstSquawk] BRENT OIL FALLS TO SESSION-LOW NEAR $99 AFTER ERASING GAINS
 - 09/22 18:00 [financialjuice] Brent and US crude futures down over 1% after Kyodo reports that Iran offered to reopen the strait within 7 days
+- 09/22 18:10 [FirstSquawk] IRAN'S GHALIBAF SAYS TRUMP CANNOT IMPOSE HIS POWER ON IRAN
+- 09/22 18:12 [financialjuice] Iran's Ghalibaf: Trump cannot impose his power on Iran
+- 09/22 18:12 [FirstSquawk] GHALIBAF SAYS IRAN WON'T SURRENDER, WILL STAND UP TO US - FARS
+- 09/22 18:12 [financialjuice] Iran's Parliament Speaker Ghalibaf: Iran won’t surrender, will stand up to the US - Fars
+- 09/22 18:15 [FirstSquawk] IRAN'S IRGC SAYS MUST NEGOTIATE IF NATIONAL INTERESTS REQUIRED
+- 09/22 18:18 [financialjuice] Iran's IRGC: Must negotiate if national interests required

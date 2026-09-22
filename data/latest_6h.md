@@ -7,51 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 18:05 JST／対象: 09/22 12:05 〜 09/22 18:05 JST（時刻はすべて日本時間）
+生成: 2026-09-22 18:24 JST／対象: 09/22 12:24 〜 09/22 18:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 55 | 09/22 12:05 | 09/22 17:52 | 34分（13:22→13:56） |
-| financialjuice | 48 | 09/22 12:21 | 09/22 18:00 | ⚠ 66分（12:56→14:02） |
+| FirstSquawk | 49 | 09/22 12:29 | 09/22 18:15 | 34分（13:22→13:56） |
+| financialjuice | 32 | 09/22 12:28 | 09/22 18:18 | ⚠ 66分（12:56→14:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 103 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 81 行（統合前 81 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 12:05 [FirstSquawk] Texas power plant selected as South Korea’s first US investment project — Yonhap
-- 09/22 12:08 [FirstSquawk] RBA Gov. Bullock: Supply shocks pose challenges for monetary policy
-- 09/22 12:09 [FirstSquawk] RBA Gov. Bullock: Monetary policy needs to tackle second-round inflation effects
-- 09/22 12:11 [FirstSquawk] South Korea govt: Even with 5%-10% stake in Westinghouse, South Korea would retain voting rights — Yonhap
-- 09/22 12:13 [FirstSquawk] South Korea Industry Ministry: Trump to announce final US investment plan; 45-day fund remittance period upon US request — Yonhap
-- 09/22 12:14 [FirstSquawk] South Korea to provide full investment for Texas gas plant, ownership to be split 50-50 with US — Yonhap
-- 09/22 12:18 [FirstSquawk] Brent crude climbs over 1% to $101.49/bbl, gaining for the first time in five sessions
-- 09/22 12:21 [financialjuice] South Korea negotiating with US on 5-10% stake investment in Westinghouse: Yonhap
-- 09/22 12:21 [financialjuice] South Korea Pursues nuclear power plant, Alaska LNG project for US investment: media
-- 09/22 12:21 [financialjuice] RBA Governor Bullock: AI boom is increasing excess demand in Australian economy
-- 09/22 12:21 [financialjuice] South Korea lawmaker: Alaska LNG project not confirmed yet in US investment plan
-- 09/22 12:22 [FirstSquawk] RBA Gov. Bullock: AI-driven boom is adding to excess demand in Australian economy
-- 09/22 12:22 [financialjuice] South Korea aims to acquire 5-10% stake in Westinghouse: lawmaker
-- 09/22 12:22 [FirstSquawk] Death toll rises by two after heavy rain hits Tokyo region
-- 09/22 12:22 [financialjuice] South Korea in talks with US on two nuclear reactors featuring South Korean design: lawmaker
-- 09/22 12:22 [financialjuice] South Korea has no plan to suggest chip investment to US: lawmaker
-- 09/22 12:22 [financialjuice] Reserve Bank of NZ Gov Breman: persistent higher oil prices likely to push near-term inflation above September outlook
-- 09/22 12:22 [financialjuice] RBNZ Governor Breman: we will evaluate incoming data and global trends before next october decision, staying focused on inflation outlook
-- 09/22 12:22 [financialjuice] RBNZ Governor Breman: substantial risks persist for economic outlook
-- 09/22 12:23 [financialjuice] RBNZ Governor Breman: economic recovery likely to strengthen and widen
-- 09/22 12:23 [financialjuice] RBNZ Governor Breman: data indicate economic recovery continues this quarter but remains uneven
-- 09/22 12:23 [financialjuice] Alibaba CEO: Qwen team aims to train new model with 5 to 10 trillion parameters
-- 09/22 12:23 [financialjuice] Alibaba CEO: aims for Alibaba Cloud global data center capacity to exceed 20 GW by 2032
-- 09/22 12:23 [financialjuice] RBA governor Bullock: supply shocks pose a challenge for monetary policy
-- 09/22 12:23 [financialjuice] RBA Governor Bullock: policy must address second-round inflation effects
-- 09/22 12:23 [financialjuice] South Korea government: even with 5-10% Westinghouse stake, South Korea retains voting rights - Yonhap
-- 09/22 12:23 [financialjuice] South Korea Industry Ministry: Trump to make final call on US investment plan, funds to be transferred within 45 days if requested by US - Yonhap
-- 09/22 12:24 [financialjuice] South Korea gov't: to fully invest in Texas gas plant, ownership to be equally shared with US - Yonhap
 - 09/22 12:28 [financialjuice] RBA Governor Bullock: current dip in house prices aligns with past episodes
 - 09/22 12:29 [FirstSquawk] RBA Gov. Bullock: Current decline in house prices is consistent with past episodes
 - 09/22 12:34 [financialjuice] RBA Governor Bullock: unemployment at 4.5% to 5.0% likely to reduce inflation pressure
@@ -127,3 +99,9 @@
 - 09/22 17:51 [FirstSquawk] IRAN HAS INFORMED THE TRUMP ADMINISTRATION THAT IT WILL OPEN THE BLOCKED STRAIT OF HORMUZ "WITHIN SEVEN DAYS" IF IT ACCEPTS DEMANDS SUCH AS LIFTING THE US MILITARY BLOCKADE OF IRANIAN PORTS, ACCORDING TO A SENIOR IRANIAN GOVERNMENT OFFICIAL…
 - 09/22 17:52 [FirstSquawk] BRENT OIL FALLS TO SESSION-LOW NEAR $99 AFTER ERASING GAINS
 - 09/22 18:00 [financialjuice] Brent and US crude futures down over 1% after Kyodo reports that Iran offered to reopen the strait within 7 days
+- 09/22 18:10 [FirstSquawk] IRAN'S GHALIBAF SAYS TRUMP CANNOT IMPOSE HIS POWER ON IRAN
+- 09/22 18:12 [financialjuice] Iran's Ghalibaf: Trump cannot impose his power on Iran
+- 09/22 18:12 [FirstSquawk] GHALIBAF SAYS IRAN WON'T SURRENDER, WILL STAND UP TO US - FARS
+- 09/22 18:12 [financialjuice] Iran's Parliament Speaker Ghalibaf: Iran won’t surrender, will stand up to the US - Fars
+- 09/22 18:15 [FirstSquawk] IRAN'S IRGC SAYS MUST NEGOTIATE IF NATIONAL INTERESTS REQUIRED
+- 09/22 18:18 [financialjuice] Iran's IRGC: Must negotiate if national interests required
