@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 16:17 JST／対象: 09/22 10:17 〜 09/22 16:17 JST（時刻はすべて日本時間）
+生成: 2026-09-22 16:33 JST／対象: 09/22 10:33 〜 09/22 16:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 78 | 09/22 10:17 | 09/22 16:07 | 34分（13:22→13:56） |
-| financialjuice | 39 | 09/22 12:21 | 09/22 16:16 | ⚠ 66分（12:56→14:02） |
+| FirstSquawk | 75 | 09/22 10:34 | 09/22 16:32 | 34分（13:22→13:56） |
+| financialjuice | 42 | 09/22 12:21 | 09/22 16:26 | ⚠ 66分（12:56→14:02） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 117 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 10:17 [FirstSquawk] Yuan midpoint set at strongest level since February 2023 by China
-- 09/22 10:21 [FirstSquawk] PBOC injects 35 bln yuan through 7-day reverse repos, rate unchanged at 1.40%
-- 09/22 10:24 [FirstSquawk] EU’s von der Leyen says free trade agreement agreed with Philippines
-- 09/22 10:27 [FirstSquawk] China’s STAR 50 Index set for a 2.5% gain at the open
-- 09/22 10:30 [FirstSquawk] Hang Seng AI Index poised to jump nearly 3% at the open
 - 09/22 10:34 [FirstSquawk] Xbox plans hundreds of job cuts as it consolidates game studios — The Information
 - 09/22 10:43 [FirstSquawk] Canadian dollar falls to lowest level since Aug. 5 as US dollar strength weighs — FXStreet
 - 09/22 10:52 [FirstSquawk] Japan reiterates support for Nepal following flash floods at UN meeting — Kyodo
@@ -141,3 +136,8 @@
 - 09/22 16:11 [financialjuice] UBS CEO Ermotti: AT1 proposal still increases costs for us
 - 09/22 16:11 [financialjuice] UBS CEO: The fee pool is going to be down
 - 09/22 16:16 [financialjuice] Turkey and the US to cooperate on small modular reactors - Ministry
+- 09/22 16:25 [financialjuice] UBS CEO: I see 'great momentum’ in wealth creation in the US
+- 09/22 16:26 [financialjuice] UBS CEO: Attrition of financial advisers in the US is plateauing
+- 09/22 16:26 [financialjuice] UBS CEO: AI will be important for us to bring down costs
+- 09/22 16:32 [FirstSquawk] HUNGARY'S RULING PARTY DISAGREES WITH PRESIDENT'S CHOICE FOR TOP PROSECUTOR.
+- 09/22 16:32 [FirstSquawk] LAVROV AND RUBIO SET TO MEET ON SEPTEMBER 23, ACCORDING TO TASS.

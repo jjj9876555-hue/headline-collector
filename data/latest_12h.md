@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 16:17 JST／対象: 09/22 04:17 〜 09/22 16:17 JST（時刻はすべて日本時間）
+生成: 2026-09-22 16:33 JST／対象: 09/22 04:33 〜 09/22 16:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 183 | 09/22 04:20 | 09/22 16:07 | 44分（06:24→07:08） |
-| financialjuice | 59 | 09/22 04:21 | 09/22 16:16 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 180 | 09/22 04:38 | 09/22 16:32 | 44分（06:24→07:08） |
+| financialjuice | 60 | 09/22 04:46 | 09/22 16:26 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 241 行（統合前 242 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 239 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 04:20 [FirstSquawk] UK PM BURNHAM TO MEET EU COMMISSION PRESIDENT VON DER LEYEN ON TUESDAY TO RESOLVE EU CAR RULE DISPUTE — TIMES
-- 09/22 04:21 [financialjuice] Tuesday FX Options Expiries
-- 09/22 04:22 [FirstSquawk] RUSSIA HAS SET EXPORT DUTIES ON WHEAT, BARLEY AND CORN AT ZERO FROM SEPT. 1 THROUGH DEC. 31, 2026, AS THE GOVERNMENT SEEKS TO SUPPORT THE EXPORT POTENTIAL OF THE AGRICULTURAL SECTOR.
-- 09/22 04:22 [FirstSquawk] RUSSIA WILL ALSO CAP SUNFLOWER OIL EXPORT DUTIES AT 7,748 RUBLES PER TON AND SUNFLOWER MEAL DUTIES AT 312 RUBLES PER TON THROUGH YEAR-END.
-- 09/22 04:26 [FirstSquawk] U.S. DIESEL PRICES HAVE RISEN ABOVE $6.50 A GALLON FOR THE FIRST TIME, WITH WIDENING REFINING MARGINS AND TIGHT PRODUCT SUPPLIES DRIVING INFLATION PRESSURES EVEN AS WTI FALLS BELOW $100 A BARREL.
-- 09/22 04:26 [FirstSquawk] THE DROP IN CRUDE PRICES COULD HELP EASE DIESEL COSTS, BUT SHORTAGES OF REFINED PRODUCTS AND MOTOR OIL REMAIN A KEY RISK, WITH SOME RETAILERS LIMITING PURCHASES AMID LOW INVENTORIES.
-- 09/22 04:31 [financialjuice] Libya's NOC: Armed group closed valve 7 on the Sharara crude pipeline to Zawiya port on Monday, causing a sharp drop in output at the Sharara oilfield
 - 09/22 04:38 [FirstSquawk] LIBYA’S SHARARA OILFIELD OUTPUT PLUNGES AFTER ARMED GROUP SHUTS VALVE ON CRUDE PIPELINE TO ZAWIYA PORT — NOC
 - 09/22 04:39 [FirstSquawk] POLISH ARMY LAUNCHES PREVENTIVE MILITARY AVIATION OPERATIONS AFTER RUSSIAN AIR ATTACK ON UKRAINE; AIR DEFENSE & RADAR FORCES ON HIGH ALERT
 - 09/22 04:39 [FirstSquawk] NASDAQ 100 SURGES 3% AS S&P 500 RISES 1.6%
@@ -265,3 +258,8 @@
 - 09/22 16:11 [financialjuice] UBS CEO Ermotti: AT1 proposal still increases costs for us
 - 09/22 16:11 [financialjuice] UBS CEO: The fee pool is going to be down
 - 09/22 16:16 [financialjuice] Turkey and the US to cooperate on small modular reactors - Ministry
+- 09/22 16:25 [financialjuice] UBS CEO: I see 'great momentum’ in wealth creation in the US
+- 09/22 16:26 [financialjuice] UBS CEO: Attrition of financial advisers in the US is plateauing
+- 09/22 16:26 [financialjuice] UBS CEO: AI will be important for us to bring down costs
+- 09/22 16:32 [FirstSquawk] HUNGARY'S RULING PARTY DISAGREES WITH PRESIDENT'S CHOICE FOR TOP PROSECUTOR.
+- 09/22 16:32 [FirstSquawk] LAVROV AND RUBIO SET TO MEET ON SEPTEMBER 23, ACCORDING TO TASS.
