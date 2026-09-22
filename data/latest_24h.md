@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 18:43 JST／対象: 09/21 18:43 〜 09/22 18:43 JST（時刻はすべて日本時間）
+生成: 2026-09-22 18:54 JST／対象: 09/21 18:54 〜 09/22 18:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 347 | 09/21 18:54 | 09/22 18:15 | 44分（06:24→07:08） |
-| financialjuice | 266 | 09/21 18:55 | 09/22 18:41 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 349 | 09/21 19:09 | 09/22 18:44 | 44分（06:24→07:08） |
+| financialjuice | 270 | 09/21 18:55 | 09/22 18:54 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 656 行（統合前 675 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 662 行（統合前 681 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 18:54 [FirstSquawk] GERMAN FIN MIN: GERMANY NEEDS PENSION REFORM
-- 09/21 18:54 [FirstSquawk] GERMAN GOVERNMENT SPOX: EU COMMISSION IS EXPECTED TO PRESENT PROPOSAL ON WINDFALL PROFIT TAX
-- 09/21 18:54 [FirstSquawk] GERMAN ECONOMY MINISTRY SPOX: DETAILS OF FUEL PRICE CAP ARE STILL BEING WORKED OUT
 - 09/21 18:55 [financialjuice] German economy ministry spokesperson: There will be no fuel price cap at any cost
 - 09/21 18:55 [financialjuice] German Economy Ministry spokesperson: Details of fuel price cap are still being worked out
 - 09/21 19:09 [FirstSquawk] KREMLIN COMMENTS ON FAR RIGHT PARTY WIN IN GERMAN ELECTIONS, NOTING LOW APPROVAL RATINGS FOR CURRENT LEADERS. THEY ATTRIBUTE THIS TO GERMANY'S DECISION TO ABANDON CHEAP RUSSIAN GAS IN FAVOR OF EXPENSIVE GAS FROM THE U.S.
@@ -680,3 +677,12 @@
 - 09/22 18:41 [financialjuice] Kremlin: Putin and Erdogan discussed black sea strike halt - IFX
 - 09/22 18:41 [financialjuice] Kremlin: Russia says U.N. Security Council membership should be increased, but veto powers should remain
 - 09/22 18:41 [financialjuice] Kremlin: Diplomatic talks ongoing on black sea strikes - IFX
+- 09/22 18:43 [FirstSquawk] KREMLIN SAYS U.S. VISA DENIAL GOES AGAINST ITS DUTIES AS U.N. HOST AND PLANS TO DISCUSS IT WITH WASHINGTON.
+- 09/22 18:43 [FirstSquawk] KREMLIN REPORTS THAT U.S. DENIED A VISA TO DEPUTY FOREIGN MINISTER, CONSIDERING IT AN UNFRIENDLY MOVE.
+- 09/22 18:43 [FirstSquawk] KREMLIN STATED THAT THE SUBJECT OF U.S. MILITARY BASES IN GREENLAND IS A CONCERN FOR THE INVOLVED COUNTRIES. KREMLIN NOTES GERMANY'S AFD PARTY IS GAINING POPULARITY AND THEY SEEK CONVERSATIONS WITH MOSCOW, WHICH THEY FIND INTERESTING.
+- 09/22 18:44 [FirstSquawk] KREMLIN CALLS FOR LIFTING SANCTIONS ON ALL RUSSIAN CITIZENS, NOT JUST BUSINESSMEN FRIDMAN AND USMANOV. KREMLIN STATES U.S. AND ALLIES ARE NOT WORKING WITH RUSSIA IN THE ARCTIC.
+- 09/22 18:44 [FirstSquawk] KREMLIN REPORTS RUSSIA IS DISCOVERING NEW ROUTES FOR ITS GRAIN EXPORTS. KREMLIN CONFIRMS PUTIN AND ERDOGAN DISCUSSED TURKISH PLAN FOR BLACK SEA, WITH MORE DIPLOMATIC COMMUNICATION FOLLOWING. KREMLIN ACCUSES UKRAINE OF CAUSING PROBLEMS FOR G…
+- 09/22 18:52 [financialjuice] Senior Iranian official: Tehran welcomes revival of diplomacy if the US takes tangible steps
+- 09/22 18:53 [financialjuice] Senior Iranian Official: Iranian delegation is in New York with full authority to revive diplomacy with the US
+- 09/22 18:53 [financialjuice] Senior Iranian Official: Details of an agreement to end hostilities with us can be discussed in New York via mediators
+- 09/22 18:54 [financialjuice] ❗ Senior Iranian official: Iran can reopen Hormuz within seven days if the US eases military pressure and lifts the port blockade
