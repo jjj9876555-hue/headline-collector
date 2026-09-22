@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 11:17 JST／対象: 09/21 23:17 〜 09/22 11:17 JST（時刻はすべて日本時間）
+生成: 2026-09-22 11:33 JST／対象: 09/21 23:33 〜 09/22 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/21 23:17 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 198 | 09/21 23:20 | 09/22 11:14 | 44分（06:24→07:08） |
-| financialjuice | 112 | 09/21 23:17 | 09/22 08:13 | 42分（07:30→08:13） |
+| DeItaone | 19 | 09/21 23:45 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 196 | 09/21 23:38 | 09/22 11:23 | 44分（06:24→07:08） |
+| financialjuice | 105 | 09/21 23:34 | 09/22 08:13 | 42分（07:30→08:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 323 行（統合前 337 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 310 行（統合前 322 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 23:17 [financialjuice] Advanced Micro Devices hits $1 trillion in market capitalization for the first time. $AMD
-- 09/21 23:17 [DeItaone] $AMD - ADVANCED MICRO DEVICES HITS $1 TRILLION IN MARKET CAPITALIZATION FOR THE FIRST TIME
-- 09/21 23:18 [financialjuice] Fear and Greed Index: 33/100 = Fear
-- 09/21 23:18 [financialjuice] Crypto Fear and Greed Index: 70/100 = Greed
-- 09/21 23:19 [DeItaone] OIL SLIDES AS SAUDI FLOWS DEFY DISRUPTION Brent fell 2.6% to $101.18, while WTI dropped below $98 as diplomacy hopes and resilient supply eased fears of a deeper shortage. Saudi shipments through Hormuz have averaged 2.9 million bpd, versus…
-- 09/21 23:20 [FirstSquawk] BRENT CRUDE FUTURES DROP BELOW $100/BBL FOR THE FIRST TIME SINCE SEPTEMBER 9
-- 09/21 23:20 [FirstSquawk] UKMTO: LPG TANKER HIT BY UNKNOWN PROJECTILE DEBRIS IN HORMUZ
-- 09/21 23:21 [FirstSquawk] AMD’S MARKET CAP HITS $1 TLN MARKET CAP FOR THE FIRST TIME
-- 09/21 23:24 [DeItaone] CNN, MS NOW, POLITICO SUE DONALD TRUMP, COURT RECORDS SHOW
-- 09/21 23:24 [financialjuice] UKMTO: We received a time-late report of an incident involving lpg tanker transiting outbound of the Strait of Hormuz.
-- 09/21 23:25 [financialjuice] UKMTO: A master has reported that an LPG tanker has been hit by debris from unknown projectiles.
-- 09/21 23:25 [financialjuice/FirstSquawk] ❗ US proposed extending China trade truce by six months - NYT.
-- 09/21 23:27 [FirstSquawk] CHINA HAS PUSHED FOR A LONGER TRADE TRUCE EXTENSION: NYT
-- 09/21 23:28 [financialjuice] Stocks of crude oil in the US strategic petroleum reserve fell to 284.6 million barrels last week, the lowest since 1982.
-- 09/21 23:28 [FirstSquawk] US STRATEGIC PETROLEUM RESERVE CRUDE OIL STOCKS DROPPED TO 284.6 MILLION BARRELS LAST WEEK, THE LOWEST LEVEL SINCE 1982.
-- 09/21 23:29 [DeItaone] *US PROPOSED EXTENDING CHINA TRADE TRUCE BY SIX MONTHS: NYT *CHINA HAS PUSHED FOR A LONGER TRADE TRUCE EXTENSION: NYT
-- 09/21 23:29 [DeItaone] STOCKS OF CRUDE OIL IN US STRATEGIC PETROLEUM RESERVE FELL TO 284.6 MLN BARRELS LAST WEEK, LOWEST SINCE 1982
 - 09/21 23:34 [financialjuice] OpenAI develops features to counter Grok bot, and mulls a response to Meta's Muse - The Information.
 - 09/21 23:38 [FirstSquawk] NASDAQ 100 EXTENDS GAIN TO 2%
 - 09/21 23:40 [financialjuice] US VP Vance on Iran: Oil is still flowing - Pool Report
@@ -347,3 +330,7 @@
 - 09/22 11:13 [FirstSquawk] RBNZ Gov. Breman: Economic outlook remains subject to significant risks
 - 09/22 11:14 [FirstSquawk] RBNZ Gov. Breman: Economic recovery expected to strengthen and broaden
 - 09/22 11:14 [FirstSquawk] RBNZ Gov. Breman: Current data point to continued economic recovery, though progress remains uneven
+- 09/22 11:21 [FirstSquawk] New Zealand dollar slips as RBNZ signals gradual rate-hike outlook amid geopolitical tensions — FXStreet
+- 09/22 11:22 [FirstSquawk] Alibaba CEO says new Zhenwu V900 is China’s most powerful AI chip, with 3x predecessor performance
+- 09/22 11:22 [FirstSquawk] Alibaba CEO: Qwen team plans new AI model trained with 5-10 trillion parameters
+- 09/22 11:23 [FirstSquawk] Alibaba CEO: Alibaba Cloud aims to surpass 20 GW in global data-centre capacity by 2032

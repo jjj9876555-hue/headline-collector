@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 11:17 JST／対象: 09/21 11:17 〜 09/22 11:17 JST（時刻はすべて日本時間）
+生成: 2026-09-22 11:33 JST／対象: 09/21 11:33 〜 09/22 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 346 | 09/21 11:19 | 09/22 11:14 | 44分（06:24→07:08） |
+| FirstSquawk | 344 | 09/21 11:35 | 09/22 11:23 | 44分（06:24→07:08） |
 | financialjuice | 233 | 09/21 12:05 | 09/22 08:13 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 621 行（統合前 642 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 619 行（統合前 640 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 11:19 [FirstSquawk] Vietnam stock market opens up 0.54% following FTSE Russell upgrade
-- 09/21 11:27 [FirstSquawk] Paramount considers $1.5 billion California investment amid merger approval push — WSJ
-- 09/21 11:27 [FirstSquawk] Crude prices slip as supply disruption concerns ease - WSJ
-- 09/21 11:28 [FirstSquawk] Asian currencies stabilize with focus on upcoming Trump-Xi meeting — WSJ
-- 09/21 11:29 [FirstSquawk] China’s mainland bourses ramp up outreach amid Hong Kong’s IPO surge — SCMP
-- 09/21 11:32 [FirstSquawk] South Korea issues 5-year government bonds at 4.275% yield — Finance Ministry
 - 09/21 11:35 [FirstSquawk] Hang Seng Biotech Index climbs 5% in Hong Kong trading
 - 09/21 11:44 [FirstSquawk] China cuts rare-earth magnet exports to US ahead of Xi-Trump talks - CNBC
 - 09/21 11:46 [FirstSquawk] Tropical Depression becomes Tropical Storm Polo, with major hurricane forecast — NHC
@@ -645,3 +639,7 @@
 - 09/22 11:13 [FirstSquawk] RBNZ Gov. Breman: Economic outlook remains subject to significant risks
 - 09/22 11:14 [FirstSquawk] RBNZ Gov. Breman: Economic recovery expected to strengthen and broaden
 - 09/22 11:14 [FirstSquawk] RBNZ Gov. Breman: Current data point to continued economic recovery, though progress remains uneven
+- 09/22 11:21 [FirstSquawk] New Zealand dollar slips as RBNZ signals gradual rate-hike outlook amid geopolitical tensions — FXStreet
+- 09/22 11:22 [FirstSquawk] Alibaba CEO says new Zhenwu V900 is China’s most powerful AI chip, with 3x predecessor performance
+- 09/22 11:22 [FirstSquawk] Alibaba CEO: Qwen team plans new AI model trained with 5-10 trillion parameters
+- 09/22 11:23 [FirstSquawk] Alibaba CEO: Alibaba Cloud aims to surpass 20 GW in global data-centre capacity by 2032

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 11:17 JST／対象: 09/22 05:17 〜 09/22 11:17 JST（時刻はすべて日本時間）
+生成: 2026-09-22 11:33 JST／対象: 09/22 05:33 〜 09/22 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 101 | 09/22 05:28 | 09/22 11:14 | 44分（06:24→07:08） |
-| financialjuice | 15 | 09/22 05:18 | 09/22 08:13 | 42分（07:30→08:13） |
+| FirstSquawk | 104 | 09/22 05:52 | 09/22 11:23 | 44分（06:24→07:08） |
+| financialjuice | 14 | 09/22 06:00 | 09/22 08:13 | 42分（07:30→08:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 115 行（統合前 116 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 117 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 05:18 [financialjuice] WATCH LIVE: Trump Meets With Mayor Zohran Mamdani In New York City
-- 09/22 05:28 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI ARRIVES IN NEW YORK TO ATTEND UN GENERAL ASSEMBLY - IRANIAN MEDIA
 - 09/22 05:52 [FirstSquawk] THE ROYAL CANADIAN MINT HAS ANNOUNCED A FOLLOW-ON OFFERING OF GOLD EXCHANGE-TRADED RECEIPTS, WITH NET PROCEEDS TO BE USED TO PURCHASE GOLD BULLION.
 - 09/22 05:52 [FirstSquawk] THE ROYAL CANADIAN MINT SAYS ETR HOLDERS ARE ENTITLED TO REDEEM FOR GOLD BULLION WITH A MINIMUM PURITY OF 99.99% OR FOR CASH.
 - 09/22 05:53 [FirstSquawk] US SECRETARY OF STATE RUBIO, KENYA PRESIDENT RUTO: DISCUSS CRITICAL MINERALS IN MEETING - SOURCES
@@ -139,3 +137,7 @@
 - 09/22 11:13 [FirstSquawk] RBNZ Gov. Breman: Economic outlook remains subject to significant risks
 - 09/22 11:14 [FirstSquawk] RBNZ Gov. Breman: Economic recovery expected to strengthen and broaden
 - 09/22 11:14 [FirstSquawk] RBNZ Gov. Breman: Current data point to continued economic recovery, though progress remains uneven
+- 09/22 11:21 [FirstSquawk] New Zealand dollar slips as RBNZ signals gradual rate-hike outlook amid geopolitical tensions — FXStreet
+- 09/22 11:22 [FirstSquawk] Alibaba CEO says new Zhenwu V900 is China’s most powerful AI chip, with 3x predecessor performance
+- 09/22 11:22 [FirstSquawk] Alibaba CEO: Qwen team plans new AI model trained with 5-10 trillion parameters
+- 09/22 11:23 [FirstSquawk] Alibaba CEO: Alibaba Cloud aims to surpass 20 GW in global data-centre capacity by 2032
