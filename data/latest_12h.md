@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 22:34 JST／対象: 09/22 10:34 〜 09/22 22:34 JST（時刻はすべて日本時間）
+生成: 2026-09-22 22:52 JST／対象: 09/22 10:52 〜 09/22 22:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 138 | 09/22 10:43 | 09/22 22:33 | 34分（13:22→13:56） |
-| financialjuice | 100 | 09/22 12:21 | 09/22 22:33 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 142 | 09/22 10:53 | 09/22 22:47 | 34分（13:22→13:56） |
+| financialjuice | 106 | 09/22 12:21 | 09/22 22:52 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 255 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 265 行（統合前 271 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 10:43 [FirstSquawk] Canadian dollar falls to lowest level since Aug. 5 as US dollar strength weighs — FXStreet
-- 09/22 10:52 [FirstSquawk] Japan reiterates support for Nepal following flash floods at UN meeting — Kyodo
 - 09/22 10:53 [FirstSquawk] South Korea in talks with US over 5%-10% stake in Westinghouse — Yonhap
 - 09/22 10:58 [FirstSquawk] South Korea eyes nuclear power and Alaska LNG projects as part of US investment — Media
 - 09/22 11:01 [FirstSquawk] Rocket shortage intensifies as launch providers race to secure spaceflight capacity — WSJ
@@ -279,3 +277,15 @@
 - 09/22 22:31 [FirstSquawk] S&P 500 UP 7.39 POINTS, OR 0.10 PERCENT, AT 7,772.09 AFTER MARKET OPEN NASDAQ UP 50.36 POINTS, OR 0.19 PERCENT, AT 27,172.45 AFTER MARKET OPEN DOW JONES UP 187.16 POINTS, OR 0.36 %, AT 52,235.99 AFTER MARKET OPEN
 - 09/22 22:33 [financialjuice] Fed's Collins: I supported last week's rate hike.
 - 09/22 22:33 [FirstSquawk] FED'S COLLINS: SUPPORTED LAST WEEK'S RATE HIKE
+- 09/22 22:34 [FirstSquawk] FED'S COLLINS: NOW SEE AN INCREASED LIKELIHOOD OF FUTURE SCENARIOS IN WHICH INFLATION REMAINS NOTABLY ABOVE 2%
+- 09/22 22:34 [financialjuice] ❗ Fed's Collins: I now see an increased likelihood of future scenarios in which inflation remains notably above 2%.
+- 09/22 22:35 [financialjuice] Fed's Collins: While the upside risks to inflation have increased, labor market conditions seem a bit stronger overall.
+- 09/22 22:35 [financialjuice] Fed's Collins: With the labor market on a better footing, monetary policy can focus on a timely return to price stability, especially after five and a half years of too high inflation.
+- 09/22 22:35 [FirstSquawk] FED'S COLLINS: SOMEWHAT MORE RESTRICTIVE FEDERAL FUNDS RATE WILL HELP ENSURE THAT INFLATION DURABLY RETURNS TO TARGET
+- 09/22 22:37 [FirstSquawk] FED'S COLLINS: INCREASED LIKELIHOOD OF FUTURE SCENARIOS IN WHICH INFLATION STAYS NOTABLY ABOVE 2%
+- 09/22 22:41 [FirstSquawk] TRUMP TELLS CNN SHOULDN'T BE COVERING HIM
+- 09/22 22:42 [FirstSquawk] TRUMP SAYS HE WANTS TO SETTLE THE WAR
+- 09/22 22:47 [FirstSquawk] US PRESIDENT TRUMP’S ‘MESSAGE’ TO PUTIN: SETTLE THE WAR
+- 09/22 22:52 [financialjuice] Fed's Collins: A somewhat more restrictive federal funds rate will help ensure that inflation durably returns to target.
+- 09/22 22:52 [financialjuice] Trump speaks at the UN - WATCH LIVE
+- 09/22 22:52 [financialjuice] Iran's President Pezeshkian departs Algeria for New York - Iranian Media.

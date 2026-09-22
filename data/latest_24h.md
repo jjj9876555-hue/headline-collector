@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 22:34 JST／対象: 09/21 22:34 〜 09/22 22:34 JST（時刻はすべて日本時間）
+生成: 2026-09-22 22:52 JST／対象: 09/21 22:52 〜 09/22 22:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 09/21 22:44 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 337 | 09/21 22:37 | 09/22 22:33 | 44分（06:24→07:08） |
-| financialjuice | 230 | 09/21 22:52 | 09/22 22:33 | ⚠ 248分（08:13→12:21） |
+| DeItaone | 48 | 09/21 22:57 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
+| FirstSquawk | 339 | 09/21 22:52 | 09/22 22:47 | 44分（06:24→07:08） |
+| financialjuice | 235 | 09/21 22:52 | 09/22 22:52 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 601 行（統合前 622 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 606 行（統合前 627 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 22:37 [FirstSquawk] UKRAINE’S ZELENSKIY: RUSSIA MUST STOP TARGETING UKRAINE'S ENERGY SECTOR; WILL FOLLOW WITH DE-ESCALATION ONCE RUSSIA STOPS
-- 09/21 22:39 [FirstSquawk] META EXTENDS GAINS TO 5%
-- 09/21 22:42 [FirstSquawk] EU SET TO LIFT RUSSIA SANCTIONS ON ALISHER USMANOV AND MIKHAIL FRIDMAN, BARRING ANY LATE OBJECTIONS FROM EU GOVERNMENTS, DIPLOMATS SAY
-- 09/21 22:44 [DeItaone] RUSSIA SET TO EXTEND DIESEL EXPORT BAN BEYOND END OF SEPTEMBER
-- 09/21 22:48 [FirstSquawk] TRUMP WEIGHED STRIKES ON YEMEN HOUTHIS OVER WEEKEND BEFORE HOLDING OFF - AXIOS
-- 09/21 22:49 [DeItaone] TRUMP WEIGHED HOUTHI STRIKES — THEN HELD OFF President Trump considered U.S. airstrikes against the Houthis in Yemen over the weekend after renewed Saudi requests for military help. CENTCOM reportedly prepared strike options, but Trump ulti…
-- 09/21 22:52 [financialjuice] ❗ MOO IMBALANCE S&P 500: -57.2 MLN NASDAQ 100: -22.5 MLN DOW 30: -11.8 MLN MAG 7: -7.3 MLN $MACRO
 - 09/21 22:52 [financialjuice] New York to require large AI developers to register with the state in November.
 - 09/21 22:52 [financialjuice] New York to require AI developers to report safety incidents in 72 hours.
 - 09/21 22:52 [FirstSquawk] RUSSIA SET TO EXTEND DIESEL EXPORT BAN BEYOND END-SEPTEMBER
@@ -625,3 +618,15 @@
 - 09/22 22:31 [FirstSquawk] S&P 500 UP 7.39 POINTS, OR 0.10 PERCENT, AT 7,772.09 AFTER MARKET OPEN NASDAQ UP 50.36 POINTS, OR 0.19 PERCENT, AT 27,172.45 AFTER MARKET OPEN DOW JONES UP 187.16 POINTS, OR 0.36 %, AT 52,235.99 AFTER MARKET OPEN
 - 09/22 22:33 [financialjuice] Fed's Collins: I supported last week's rate hike.
 - 09/22 22:33 [FirstSquawk] FED'S COLLINS: SUPPORTED LAST WEEK'S RATE HIKE
+- 09/22 22:34 [FirstSquawk] FED'S COLLINS: NOW SEE AN INCREASED LIKELIHOOD OF FUTURE SCENARIOS IN WHICH INFLATION REMAINS NOTABLY ABOVE 2%
+- 09/22 22:34 [financialjuice] ❗ Fed's Collins: I now see an increased likelihood of future scenarios in which inflation remains notably above 2%.
+- 09/22 22:35 [financialjuice] Fed's Collins: While the upside risks to inflation have increased, labor market conditions seem a bit stronger overall.
+- 09/22 22:35 [financialjuice] Fed's Collins: With the labor market on a better footing, monetary policy can focus on a timely return to price stability, especially after five and a half years of too high inflation.
+- 09/22 22:35 [FirstSquawk] FED'S COLLINS: SOMEWHAT MORE RESTRICTIVE FEDERAL FUNDS RATE WILL HELP ENSURE THAT INFLATION DURABLY RETURNS TO TARGET
+- 09/22 22:37 [FirstSquawk] FED'S COLLINS: INCREASED LIKELIHOOD OF FUTURE SCENARIOS IN WHICH INFLATION STAYS NOTABLY ABOVE 2%
+- 09/22 22:41 [FirstSquawk] TRUMP TELLS CNN SHOULDN'T BE COVERING HIM
+- 09/22 22:42 [FirstSquawk] TRUMP SAYS HE WANTS TO SETTLE THE WAR
+- 09/22 22:47 [FirstSquawk] US PRESIDENT TRUMP’S ‘MESSAGE’ TO PUTIN: SETTLE THE WAR
+- 09/22 22:52 [financialjuice] Fed's Collins: A somewhat more restrictive federal funds rate will help ensure that inflation durably returns to target.
+- 09/22 22:52 [financialjuice] Trump speaks at the UN - WATCH LIVE
+- 09/22 22:52 [financialjuice] Iran's President Pezeshkian departs Algeria for New York - Iranian Media.

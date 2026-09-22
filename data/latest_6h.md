@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 22:34 JST／対象: 09/22 16:34 〜 09/22 22:34 JST（時刻はすべて日本時間）
+生成: 2026-09-22 22:52 JST／対象: 09/22 16:52 〜 09/22 22:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 64 | 09/22 16:35 | 09/22 22:33 | 33分（19:13→19:46） |
-| financialjuice | 58 | 09/22 16:39 | 09/22 22:33 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 69 | 09/22 16:53 | 09/22 22:47 | 33分（19:13→19:46） |
+| financialjuice | 60 | 09/22 17:02 | 09/22 22:52 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 139 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 146 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 16:35 [FirstSquawk] USD/JPY INCREASES FOR THIRD STRAIGHT DAY, UP 0.3% TO 157.75.
-- 09/22 16:39 [financialjuice] Russia's Lavrov and Rubio expected to meet September 23rd - Tass
-- 09/22 16:45 [financialjuice] EU's Trade Chief Sefcovic: Deal delivers stronger, more diversified supply chain
-- 09/22 16:50 [financialjuice] Ukraine: Hit Russia's Kuibyshev refinery
-- 09/22 16:52 [financialjuice] EU's Trade Chief Sefcovic: European access to the Chinese market is also being discussed; export controls on rare earths are also being discussed. Need a 'credible outcome' in trade talks with China
 - 09/22 16:53 [FirstSquawk] EU’S SEFCOVIC: 'CREDIBLE OUTCOME' IN TRADE TALKS WITH CHINA || EUROPEAN ACCESS TO CHINA MARKET ALSO BEING DISCUSSED || UNPARALLELED INTENSITY OF CONTACTS WITH CHINA || WILL VISIT CHINA OCT. 8-9 FOR TRADE TALKS || EXPORT CONTROLS ON RARE EAR…
 - 09/22 16:57 [FirstSquawk] UK WILL OFFER MORE DEFENSIVE MILITARY AID TO SAUDI ARABIA.
 - 09/22 16:58 [FirstSquawk] EU'S SEFCOVIC AIMS TO FINALIZE AGREEMENTS WITH INDIA AND INDONESIA BY YEAR'S END.
@@ -163,3 +158,15 @@
 - 09/22 22:31 [FirstSquawk] S&P 500 UP 7.39 POINTS, OR 0.10 PERCENT, AT 7,772.09 AFTER MARKET OPEN NASDAQ UP 50.36 POINTS, OR 0.19 PERCENT, AT 27,172.45 AFTER MARKET OPEN DOW JONES UP 187.16 POINTS, OR 0.36 %, AT 52,235.99 AFTER MARKET OPEN
 - 09/22 22:33 [financialjuice] Fed's Collins: I supported last week's rate hike.
 - 09/22 22:33 [FirstSquawk] FED'S COLLINS: SUPPORTED LAST WEEK'S RATE HIKE
+- 09/22 22:34 [FirstSquawk] FED'S COLLINS: NOW SEE AN INCREASED LIKELIHOOD OF FUTURE SCENARIOS IN WHICH INFLATION REMAINS NOTABLY ABOVE 2%
+- 09/22 22:34 [financialjuice] ❗ Fed's Collins: I now see an increased likelihood of future scenarios in which inflation remains notably above 2%.
+- 09/22 22:35 [financialjuice] Fed's Collins: While the upside risks to inflation have increased, labor market conditions seem a bit stronger overall.
+- 09/22 22:35 [financialjuice] Fed's Collins: With the labor market on a better footing, monetary policy can focus on a timely return to price stability, especially after five and a half years of too high inflation.
+- 09/22 22:35 [FirstSquawk] FED'S COLLINS: SOMEWHAT MORE RESTRICTIVE FEDERAL FUNDS RATE WILL HELP ENSURE THAT INFLATION DURABLY RETURNS TO TARGET
+- 09/22 22:37 [FirstSquawk] FED'S COLLINS: INCREASED LIKELIHOOD OF FUTURE SCENARIOS IN WHICH INFLATION STAYS NOTABLY ABOVE 2%
+- 09/22 22:41 [FirstSquawk] TRUMP TELLS CNN SHOULDN'T BE COVERING HIM
+- 09/22 22:42 [FirstSquawk] TRUMP SAYS HE WANTS TO SETTLE THE WAR
+- 09/22 22:47 [FirstSquawk] US PRESIDENT TRUMP’S ‘MESSAGE’ TO PUTIN: SETTLE THE WAR
+- 09/22 22:52 [financialjuice] Fed's Collins: A somewhat more restrictive federal funds rate will help ensure that inflation durably returns to target.
+- 09/22 22:52 [financialjuice] Trump speaks at the UN - WATCH LIVE
+- 09/22 22:52 [financialjuice] Iran's President Pezeshkian departs Algeria for New York - Iranian Media.
