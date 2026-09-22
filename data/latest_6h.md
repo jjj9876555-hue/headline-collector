@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 15:57 JST／対象: 09/22 09:57 〜 09/22 15:57 JST（時刻はすべて日本時間）
+生成: 2026-09-22 16:17 JST／対象: 09/22 10:17 〜 09/22 16:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 85 | 09/22 09:59 | 09/22 15:49 | 34分（13:22→13:56） |
-| financialjuice | 35 | 09/22 12:21 | 09/22 15:48 | ⚠ 66分（12:56→14:02） |
+| FirstSquawk | 78 | 09/22 10:17 | 09/22 16:07 | 34分（13:22→13:56） |
+| financialjuice | 39 | 09/22 12:21 | 09/22 16:16 | ⚠ 66分（12:56→14:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 117 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 09:59 [FirstSquawk] South Korea’s Kim says US investment will provide greater market access for Korean businesses in US
-- 09/22 10:00 [FirstSquawk] Taiwan overnight rate edges lower to 0.804% at the open
-- 09/22 10:01 [FirstSquawk] South Korea’s Lee proposes sanctions relief for North Korea in exchange for nuclear program suspension — NYT
-- 09/22 10:06 [FirstSquawk] AI demand recasts Japan’s data-centre growth, Fitch Ratings says
-- 09/22 10:10 [FirstSquawk] South Korea’s Kim to brief lawmakers on two investment projects aligned with both countries’ interests
-- 09/22 10:12 [FirstSquawk] South Korea’s Kim says no firm decision has been made on the two proposed projects
-- 09/22 10:15 [FirstSquawk] South Korea’s government to brief parliament on US investment project approved for pursuit, Kim says
-- 09/22 10:16 [FirstSquawk] China’s central bank sets yuan reference rate at 6.7459 per dollar
-- 09/22 10:17 [FirstSquawk] Lithuania PM says country ready to “fight back” but has evacuation plans amid Russia threats — BBC
 - 09/22 10:17 [FirstSquawk] Yuan midpoint set at strongest level since February 2023 by China
 - 09/22 10:21 [FirstSquawk] PBOC injects 35 bln yuan through 7-day reverse repos, rate unchanged at 1.40%
 - 09/22 10:24 [FirstSquawk] EU’s von der Leyen says free trade agreement agreed with Philippines
@@ -144,3 +135,9 @@
 - 09/22 15:48 [financialjuice] Russian defence ministry: Russian forces hit oil refinery in Ukraine's Kremenchuk - TASS
 - 09/22 15:49 [FirstSquawk] FRANCE (JUL) RETAIL SALES EX-AUTO MOM ACTUAL: 0.8% VS 0.4% PREVIOUS
 - 09/22 15:49 [FirstSquawk] Russian forces strike oil refinery in Ukraine’s Kremenchuk, Defence Ministry says — TASS
+- 09/22 16:01 [financialjuice] Currency Strength Chart: Strongest: NZD, CAD, GBP, CHF, USD, EUR, AUD, GBP - Weakest
+- 09/22 16:07 [FirstSquawk] SAUDI: DANGER HAS PASSED IN NAJRAN PROVINCE
+- 09/22 16:07 [FirstSquawk] SAUDI CIVIL DEFENSE: ALERTS OF POTENTIAL DANGER IN NAJRAN AREA- STATEMENT
+- 09/22 16:11 [financialjuice] UBS CEO Ermotti: AT1 proposal still increases costs for us
+- 09/22 16:11 [financialjuice] UBS CEO: The fee pool is going to be down
+- 09/22 16:16 [financialjuice] Turkey and the US to cooperate on small modular reactors - Ministry

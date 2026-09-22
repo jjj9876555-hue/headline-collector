@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 15:57 JST／対象: 09/21 15:57 〜 09/22 15:57 JST（時刻はすべて日本時間）
+生成: 2026-09-22 16:17 JST／対象: 09/21 16:17 〜 09/22 16:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 356 | 09/21 16:01 | 09/22 15:49 | 44分（06:24→07:08） |
-| financialjuice | 254 | 09/21 16:01 | 09/22 15:48 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 353 | 09/21 16:17 | 09/22 16:07 | 44分（06:24→07:08） |
+| financialjuice | 256 | 09/21 16:18 | 09/22 16:16 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 652 行（統合前 673 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 652 行（統合前 672 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 16:01 [FirstSquawk] SWITZERLAND M3 MONEY SUPPLY (YOY) AUG: 3.5% (PREV 3.3%; PREV R 3.4%)
-- 09/21 16:01 [financialjuice] Currency Strength Chart: Strongest: AUD, USD, NZD, EUR, JPY, GBP, CHF, CAD - Weakest
-- 09/21 16:04 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.16%
-- 09/21 16:04 [FirstSquawk] FRANCE'S CAC 40 UP 0.52%; SPAIN'S IBEX UP 0.47%
-- 09/21 16:04 [FirstSquawk] GERMANY'S DAX UP 0.68%
-- 09/21 16:15 [financialjuice/FirstSquawk] Pakistan's interior minister to visit Iran on Monday - IRNA
 - 09/21 16:17 [FirstSquawk] XI, TRUMP TO HAVE IN-DEPTH EXCHANGE OF VIEWS DURING VISIT - GUO
 - 09/21 16:18 [FirstSquawk] SOUTH KOREA, JAPAN, US FOREIGN MINISTERS TO HOLD TRILATERAL MEETING SEPT 21 - YNA
 - 09/21 16:18 [financialjuice] China Banking and Insurance Regulatory Commission's Guo: Xi and Trump to have an in-depth exchange of views during visit
@@ -676,3 +670,9 @@
 - 09/22 15:48 [financialjuice] Russian defence ministry: Russian forces hit oil refinery in Ukraine's Kremenchuk - TASS
 - 09/22 15:49 [FirstSquawk] FRANCE (JUL) RETAIL SALES EX-AUTO MOM ACTUAL: 0.8% VS 0.4% PREVIOUS
 - 09/22 15:49 [FirstSquawk] Russian forces strike oil refinery in Ukraine’s Kremenchuk, Defence Ministry says — TASS
+- 09/22 16:01 [financialjuice] Currency Strength Chart: Strongest: NZD, CAD, GBP, CHF, USD, EUR, AUD, GBP - Weakest
+- 09/22 16:07 [FirstSquawk] SAUDI: DANGER HAS PASSED IN NAJRAN PROVINCE
+- 09/22 16:07 [FirstSquawk] SAUDI CIVIL DEFENSE: ALERTS OF POTENTIAL DANGER IN NAJRAN AREA- STATEMENT
+- 09/22 16:11 [financialjuice] UBS CEO Ermotti: AT1 proposal still increases costs for us
+- 09/22 16:11 [financialjuice] UBS CEO: The fee pool is going to be down
+- 09/22 16:16 [financialjuice] Turkey and the US to cooperate on small modular reactors - Ministry
