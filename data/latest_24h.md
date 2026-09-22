@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 15:41 JST／対象: 09/21 15:41 〜 09/22 15:41 JST（時刻はすべて日本時間）
+生成: 2026-09-22 15:57 JST／対象: 09/21 15:57 〜 09/22 15:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 356 | 09/21 15:43 | 09/22 15:25 | 44分（06:24→07:08） |
-| financialjuice | 253 | 09/21 16:01 | 09/22 15:00 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 356 | 09/21 16:01 | 09/22 15:49 | 44分（06:24→07:08） |
+| financialjuice | 254 | 09/21 16:01 | 09/22 15:48 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 651 行（統合前 672 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 652 行（統合前 673 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 15:43 [FirstSquawk] China’s Communist Party schedules key October plenum just days before Xi-Trump summit — SCMP
-- 09/21 15:45 [FirstSquawk] Japan’s JGB market stabilises as BOJ efforts show results — WSJ
 - 09/21 16:01 [FirstSquawk] SWITZERLAND M3 MONEY SUPPLY (YOY) AUG: 3.5% (PREV 3.3%; PREV R 3.4%)
 - 09/21 16:01 [financialjuice] Currency Strength Chart: Strongest: AUD, USD, NZD, EUR, JPY, GBP, CHF, CAD - Weakest
 - 09/21 16:04 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.16%
@@ -675,3 +673,6 @@
 - 09/22 15:02 [FirstSquawk] South Korean appeals court reduces Kim Keon Hee’s prison sentence to five years from seven — Yonhap
 - 09/22 15:22 [FirstSquawk] Deutsche Bank lowers Novo Nordisk target to DKK 245 from DKK 265
 - 09/22 15:25 [FirstSquawk] Australia’s benchmark S&P/ASX 200 rises 0.3% to 8,757.80
+- 09/22 15:48 [financialjuice] Russian defence ministry: Russian forces hit oil refinery in Ukraine's Kremenchuk - TASS
+- 09/22 15:49 [FirstSquawk] FRANCE (JUL) RETAIL SALES EX-AUTO MOM ACTUAL: 0.8% VS 0.4% PREVIOUS
+- 09/22 15:49 [FirstSquawk] Russian forces strike oil refinery in Ukraine’s Kremenchuk, Defence Ministry says — TASS

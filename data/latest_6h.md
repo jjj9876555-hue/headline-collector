@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 15:41 JST／対象: 09/22 09:41 〜 09/22 15:41 JST（時刻はすべて日本時間）
+生成: 2026-09-22 15:57 JST／対象: 09/22 09:57 〜 09/22 15:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 87 | 09/22 09:44 | 09/22 15:25 | 34分（13:22→13:56） |
-| financialjuice | 34 | 09/22 12:21 | 09/22 15:00 | ⚠ 66分（12:56→14:02） |
+| FirstSquawk | 85 | 09/22 09:59 | 09/22 15:49 | 34分（13:22→13:56） |
+| financialjuice | 35 | 09/22 12:21 | 09/22 15:48 | ⚠ 66分（12:56→14:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 121 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 120 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 09:44 [FirstSquawk] Oil gains modestly as traders monitor signs of Mideast conflict diplomacy — WSJ
-- 09/22 09:49 [FirstSquawk] Nikkei seen poised for a potential rally as shorts pile up — WSJ
-- 09/22 09:51 [FirstSquawk] Google starts pre-orders for $899 laptops featuring Gemini AI — Reuters
-- 09/22 09:52 [FirstSquawk] Won strengthens 1% against the dollar in South Korea
 - 09/22 09:59 [FirstSquawk] South Korea’s Kim says US investment will provide greater market access for Korean businesses in US
 - 09/22 10:00 [FirstSquawk] Taiwan overnight rate edges lower to 0.804% at the open
 - 09/22 10:01 [FirstSquawk] South Korea’s Lee proposes sanctions relief for North Korea in exchange for nuclear program suspension — NYT
@@ -145,3 +141,6 @@
 - 09/22 15:02 [FirstSquawk] South Korean appeals court reduces Kim Keon Hee’s prison sentence to five years from seven — Yonhap
 - 09/22 15:22 [FirstSquawk] Deutsche Bank lowers Novo Nordisk target to DKK 245 from DKK 265
 - 09/22 15:25 [FirstSquawk] Australia’s benchmark S&P/ASX 200 rises 0.3% to 8,757.80
+- 09/22 15:48 [financialjuice] Russian defence ministry: Russian forces hit oil refinery in Ukraine's Kremenchuk - TASS
+- 09/22 15:49 [FirstSquawk] FRANCE (JUL) RETAIL SALES EX-AUTO MOM ACTUAL: 0.8% VS 0.4% PREVIOUS
+- 09/22 15:49 [FirstSquawk] Russian forces strike oil refinery in Ukraine’s Kremenchuk, Defence Ministry says — TASS
