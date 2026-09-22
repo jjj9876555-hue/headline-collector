@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 06:44 JST／対象: 09/22 06:44 〜 09/23 06:44 JST（時刻はすべて日本時間）
+生成: 2026-09-23 06:58 JST／対象: 09/22 06:58 〜 09/23 06:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 354 | 09/22 07:08 | 09/23 05:40 | 35分（01:56→02:31） |
+| FirstSquawk | 355 | 09/22 07:08 | 09/23 06:58 | ⚠ 77分（05:40→06:58） |
 | financialjuice | 313 | 09/22 07:07 | 09/23 06:44 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 676 行（統合前 698 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 677 行（統合前 699 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -700,3 +700,4 @@
 - 09/23 06:35 [financialjuice] Irna: sound seemed to originate from sea; no effects reported on Iran's Qeshm Island
 - 09/23 06:42 [financialjuice] Downing Street: UK PM Burnham met European Commission President Ursula von der Leyen at UN General Assembly today
 - 09/23 06:44 [financialjuice] Downing Street: Burnham and von der Leyen discussed initiatives underway to tackle AI safety
+- 09/23 06:58 [FirstSquawk] BLAST SOUND HEARD NEAR IRAN’S QESHM ISLAND — IRNA

@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 06:44 JST／対象: 09/23 00:44 〜 09/23 06:44 JST（時刻はすべて日本時間）
+生成: 2026-09-23 06:58 JST／対象: 09/23 00:58 〜 09/23 06:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 104 | 09/23 00:50 | 09/23 05:40 | 35分（01:56→02:31） |
-| financialjuice | 137 | 09/23 00:45 | 09/23 06:44 | 15分（06:20→06:35） |
+| FirstSquawk | 103 | 09/23 00:59 | 09/23 06:58 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 130 | 09/23 00:59 | 09/23 06:44 | 15分（06:20→06:35） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 234 行（統合前 248 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 226 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 00:45 [financialjuice] French Budget Minister Amiel: The cost of our new measures are estimated at €450 mln.
-- 09/23 00:50 [FirstSquawk] US WILL BE ALLOWED TO ESTABLISH MILITARY BASES AT NARSARSUAQ AND MESTERSVIG UNDER THE GREENLAND AGREEMENT
-- 09/23 00:52 [financialjuice] Iran National Security Committee Spokesperson: The Strait of Hormuz rule violations will carry a fine equal to 20% of the cargo value and temporary vessel seizure until the fine is paid - Fars News.
-- 09/23 00:54 [financialjuice] The US may establish more defense areas in Greenland - White House.
-- 09/23 00:54 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI, EU'S KALLAS MET ON UN GENERAL ASSEMBLY SIDELINES – SNN
-- 09/23 00:55 [financialjuice] AWS wins first NATO restricted cloud approval and has 15 regions in nato member nations $AMZN
-- 09/23 00:55 [financialjuice] Fitch Ratings: World growth holds up, but real interest rates rise.
-- 09/23 00:56 [financialjuice] World Growth Holds Up, but Real Interest Rates Rise - Fitch Ratings
-- 09/23 00:57 [financialjuice] President Trump Participates in a Bilateral Meeting with the Prime Minister of the United Kingdom
 - 09/23 00:59 [FirstSquawk] US, DENMARK MAY IDENTIFY NEW NEED FOR DEFENSE AREA: US
 - 09/23 00:59 [FirstSquawk] AWS WINS FIRST NATO RESTRICTED CLOUD APPROVAL; CLEARED FOR NR WORKLOADS ACROSS ALL NATO NATIONS
 - 09/23 00:59 [financialjuice] Meta is testing a 'human concierge' for its new personal agent Muse - Internal company posts
@@ -258,3 +249,4 @@
 - 09/23 06:35 [financialjuice] Irna: sound seemed to originate from sea; no effects reported on Iran's Qeshm Island
 - 09/23 06:42 [financialjuice] Downing Street: UK PM Burnham met European Commission President Ursula von der Leyen at UN General Assembly today
 - 09/23 06:44 [financialjuice] Downing Street: Burnham and von der Leyen discussed initiatives underway to tackle AI safety
+- 09/23 06:58 [FirstSquawk] BLAST SOUND HEARD NEAR IRAN’S QESHM ISLAND — IRNA
