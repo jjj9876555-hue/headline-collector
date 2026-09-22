@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 07:44 JST／対象: 09/22 19:44 〜 09/23 07:44 JST（時刻はすべて日本時間）
+生成: 2026-09-23 07:58 JST／対象: 09/22 19:58 〜 09/23 07:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/22 19:54 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 184 | 09/22 19:46 | 09/23 07:00 | ⚠ 77分（05:40→06:58） |
+| DeItaone | 15 | 09/22 20:10 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
+| FirstSquawk | 182 | 09/22 20:06 | 09/23 07:00 | ⚠ 77分（05:40→06:58） |
 | financialjuice | 243 | 09/22 20:54 | 09/23 07:28 | 44分（06:44→07:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 430 行（統合前 452 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 426 行（統合前 448 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 19:46 [FirstSquawk] LITHUANIAN PRESIDENT: US TO SEND NEW ROTATION OF TROOPS
-- 09/22 19:54 [DeItaone] U.S. DIESEL HITS FRESH RECORD AT $6.53 U.S. diesel prices climbed to a record $6.527 per gallon, up sharply from $3.688 a year ago. Supply is tightening as Russian diesel exports remain restricted and disruptions continue to crude flows thr…
-- 09/22 19:57 [DeItaone] YARDENI: DON’T EXPECT A GRAND BARGAIN FROM TRUMP-XI Yardeni Research expects no major breakthrough when Trump and Xi meet Thursday, but sees scope for an extension of the trade truce and selective commercial deals. Potential progress includ…
-- 09/22 19:58 [FirstSquawk] AUTOZONE Q4 2026 EARNINGS - EPS $56.05 (EST $54.03) || NET SALES $6.6B (EST $6.7B) || COMP SALES +2.7% (EST +4.17%) || DOMESTIC COMP SALES +1.6% (EST +3.12%) || DOMESTIC COMMERCIAL SALES $1.91B (EST $1.92B) || INTERNATIONAL COMP SALES +10.7…
 - 09/22 20:06 [FirstSquawk] UK TAX AUTHORITY HAS ASSIGNED A PERSONAL COMPLIANCE MANAGER TO EACH BILLIONAIRE.
 - 09/22 20:10 [DeItaone] RUBIO: OPEN TO IRAN MEETING AT UN -NBC NEWS INTERVIEW
 - 09/22 20:11 [FirstSquawk] RUBIO:DON'T THINK ANYTHING IS SCHEDULED ON TRUMP-IRAN PRESIDENT

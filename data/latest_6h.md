@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 07:44 JST／対象: 09/23 01:44 〜 09/23 07:44 JST（時刻はすべて日本時間）
+生成: 2026-09-23 07:58 JST／対象: 09/23 01:58 〜 09/23 07:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 95 | 09/23 01:45 | 09/23 07:00 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 127 | 09/23 01:46 | 09/23 07:28 | 44分（06:44→07:28） |
+| FirstSquawk | 86 | 09/23 02:31 | 09/23 07:00 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 111 | 09/23 01:58 | 09/23 07:28 | 44分（06:44→07:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 216 行（統合前 228 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 193 行（統合前 203 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 01:45 [FirstSquawk] TRUMP: BURNHAM IS GOING TO BE A GREAT PRIME MINISTER
-- 09/23 01:45 [FirstSquawk] EU AND CANADA TO UNVEIL NEW PARTNERSHIP, BUT IT MAY NOT BE ‘ASSOCIATE MEMBERSHIP,’ SAYS AMBASSADOR – POLITICO
-- 09/23 01:45 [FirstSquawk] TRUMP: DISCUSSED ENERGY, IMMIGRATION, ROLLS-ROYCE WITH BURNHAM
-- 09/23 01:46 [financialjuice] Fed bids for 2-year notes total $10.4 bln.
-- 09/23 01:46 [financialjuice] UK's PM Burnham Tells Trump: We are ready to play our part in the Middle East.
-- 09/23 01:46 [financialjuice] Trump: I think Burnham is a natural businessperson, he gets it.
-- 09/23 01:49 [financialjuice] ❗ Trump on Iran: I think a settlement will be reached.
-- 09/23 01:49 [financialjuice/FirstSquawk] Trump: Iran has been talking to us, even today.
-- 09/23 01:49 [financialjuice] Trump: Some US-Iran communication has happened even today.
-- 09/23 01:50 [FirstSquawk] TRUMP ON IRAN: THINK A SETTLEMENT WILL BE REACHED
-- 09/23 01:50 [financialjuice] Trump|: The Iran relationship is developing.
-- 09/23 01:51 [FirstSquawk] TRUMP SAYS SOME US-IRAN COMMUNICATION HAS HAPPENED EVEN TODAY
-- 09/23 01:51 [FirstSquawk] TRUMP SAYS IRAN RELATIONSHIP IS 'DEVELOPING'
-- 09/23 01:51 [financialjuice] Fed's Barkin: We raised rates last week because risks to inflation outweigh risks to maximum employment.
-- 09/23 01:51 [financialjuice] Fed's Barkin: Last week's rate hike will help restore price stability, we'll see if more hikes are needed.
-- 09/23 01:51 [financialjuice] Fed's Barkin: It is tempting to blame high inflation on a handful of categories exposed to energy costs or tariffs, but much of the personal consumption expenditures index is rising by more than 3%.
-- 09/23 01:52 [financialjuice] Fed's Barkin: Economic conditions are, if anything, firming.
-- 09/23 01:52 [financialjuice] Fed's Barkin: There is momentum outside data centers and AI, with consumer spending holding up and strength in defense and manufacturing.
-- 09/23 01:52 [financialjuice] Fed's Barkin: Passing shocks like tariffs and energy are not fading, there is a risk that high inflation today will impact future inflation.
-- 09/23 01:54 [financialjuice] Trump, asked on the Chagos deal: I don't support it.
-- 09/23 01:55 [FirstSquawk] FED'S BARKIN: HIKED LAST WEEK AS RISKS TO INFLATION OUTWEIGH RISKS TO MAXIMUM EMPLOYMENT
-- 09/23 01:56 [financialjuice/FirstSquawk] Trump on UK Trade: Now we're doing well.
-- 09/23 01:56 [financialjuice] Trump ends remarks at meeting with UK's Burnham.
 - 09/23 01:58 [financialjuice] Trump signed the commission making Rubio the National Security Advisor, per a White House official - The Hill Reporter on X
 - 09/23 02:00 [financialjuice] Treasury WI 2-year yield 4.785% before $69 billion auction.
 - 09/23 02:02 [financialjuice] US 2-YEAR NOTE HIGH YIELD ACTUAL 4.787% (FORECAST -, PREVIOUS 4.204%) $MACRO
