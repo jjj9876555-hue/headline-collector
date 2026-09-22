@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 07:16 JST／対象: 09/23 01:16 〜 09/23 07:16 JST（時刻はすべて日本時間）
+生成: 2026-09-23 07:31 JST／対象: 09/23 01:31 〜 09/23 07:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 103 | 09/23 01:17 | 09/23 07:00 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 127 | 09/23 01:21 | 09/23 06:44 | 15分（06:20→06:35） |
+| FirstSquawk | 96 | 09/23 01:43 | 09/23 07:00 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 127 | 09/23 01:46 | 09/23 07:28 | 44分（06:44→07:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 224 行（統合前 236 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 217 行（統合前 229 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 01:17 [FirstSquawk] FITCH RATINGS RAISES NEAR-TERM OIL AND EUROPEAN GAS PRICE ASSUMPTIONS
-- 09/23 01:18 [FirstSquawk] US F-16 FIGHTER JET CRASHED NEAR U.S BASE IN GERMANY
-- 09/23 01:19 [FirstSquawk] BNP PARIBAS SEES HIGHER EFFICIENCY TO SUPPORT EARNINGS GROWTH
-- 09/23 01:21 [FirstSquawk] APPLE IS WORKING ON A NEW FITNESS TRACKER TO COMPETE WITH WHOOP.
-- 09/23 01:21 [financialjuice] Apple Developing Screenless Fitness Tracker to Compete With Whoop, Oura and Garmin $AAPL
-- 09/23 01:25 [FirstSquawk] IRAN PARLIAMENT COMMITTEE PROPOSES 20% FINE FOR HORMUZ TRANSIT BREACHES - FARS
-- 09/23 01:31 [FirstSquawk] ANTHROPIC: CLAUDE OPUS 5.5 PERFORMS AT LEVEL OF CLAUDE FABLE 5.1 ON MOST WORK, COSTS AROUND 40% LESS TO RUN THAN OPUS 5
-- 09/23 01:31 [FirstSquawk] ANTHROPIC: OPUS 5.5 IS PRICED AT $4 PER MILLION INPUT TOKENS AND $20 PER MILLION OUTPUT TOKENS
-- 09/23 01:31 [financialjuice] Anthropic Launches Claude Opus 5.5, Sonnet and Haiku 5.5 to Follow
 - 09/23 01:43 [FirstSquawk] ALASKA SEN. SULLIVAN CALLS FOR MORATORIUM ON US DIESEL EXPORTS
 - 09/23 01:45 [FirstSquawk] TRUMP: BURNHAM IS GOING TO BE A GREAT PRIME MINISTER
 - 09/23 01:45 [FirstSquawk] EU AND CANADA TO UNVEIL NEW PARTNERSHIP, BUT IT MAY NOT BE ‘ASSOCIATE MEMBERSHIP,’ SAYS AMBASSADOR – POLITICO
@@ -248,3 +239,5 @@
 - 09/23 06:58 [FirstSquawk] BLAST SOUND HEARD NEAR IRAN’S QESHM ISLAND — IRNA
 - 09/23 06:58 [FirstSquawk] IRNA: BLAST SOUND SEEMED TO ORIGINATE FROM THE SEA; NO EFFECTS REPORTED ON IRAN’S QESHM ISLAND
 - 09/23 07:00 [FirstSquawk] NASA AND SPACEX: TARGETING 11:10AM EDT ON OCTOBER 1 AS EARLIEST LAUNCH OPPORTUNITY FOR CREW-13 MISSION TO INTERNATIONAL SPACE STATION
+- 09/23 07:28 [financialjuice] World Labs founder Fei-Fei Li calls for independent oversight of AI
+- 09/23 07:28 [financialjuice] AWS: Amazon CloudWatch Omni now widely available; IDE extension at no cost - blog

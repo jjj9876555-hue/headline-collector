@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 07:16 JST／対象: 09/22 19:16 〜 09/23 07:16 JST（時刻はすべて日本時間）
+生成: 2026-09-23 07:31 JST／対象: 09/22 19:31 〜 09/23 07:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
+| DeItaone | 18 | 09/22 19:37 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
 | FirstSquawk | 184 | 09/22 19:46 | 09/23 07:00 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 241 | 09/22 20:54 | 09/23 06:44 | 20分（21:15→21:36） |
+| financialjuice | 243 | 09/22 20:54 | 09/23 07:28 | 44分（06:44→07:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 434 行（統合前 456 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 431 行（統合前 453 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 19:18 [DeItaone] BOFA LIFTS BRENT OIL FORECAST TO $95 Bank of America raised its H2 2026 Brent forecast to $95 from $83, expecting Middle East tensions to persist through year-end. Hormuz disruptions are still running 4–8 million barrels per day below pre-w…
-- 09/22 19:21 [DeItaone] TRUMP’S UNGA SCHEDULE TODAY 9:55 AM ET — UN remarks 10:40 AM — Denmark & Greenland signing 11:45 AM — UK bilateral 12:30 PM — Japan bilateral 1:15 PM — Ukraine bilateral 2:15 PM — Shield of the Americas 2:45 PM — Gulf Cooperation Council 7:…
-- 09/22 19:26 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 8:15 AM ET — 🇺🇸 ADP Weekly Employment Estimate 🔸 10:00 AM ET — 🇺🇸 Richmond Fed Manufacturing & Services 🔸 10:00 AM ET — 🚗 AutoZone Earnings Call 🔸 10:05 AM ET — 🏦 Fed’s John Williams 🔸 10:20 AM ET — 🏦…
-- 09/22 19:28 [DeItaone] XI TO PRESS TRUMP ON TAIWAN ARMS SALES Xi Jinping is expected to urge President Trump to halt U.S. arms sales to Taiwan when the leaders meet in Washington this week, Reuters reports. Beijing is also seeking a stop to deliveries of weapons …
-- 09/22 19:31 [DeItaone] RADIATION MONITORING STATION AT ZAPORIZHZHIA NUCLEAR POWER PLANT DAMAGED IN UKRAINIAN DRONE ATTACK - RUSSIAN-INSTALLED OFFICIALS
 - 09/22 19:37 [DeItaone] U.S. DIESEL PRICES HIT FRESH RECORD AT $6.527 A GALLON
 - 09/22 19:46 [FirstSquawk] LITHUANIAN PRESIDENT: US TO SEND NEW ROTATION OF TROOPS
 - 09/22 19:54 [DeItaone] U.S. DIESEL HITS FRESH RECORD AT $6.53 U.S. diesel prices climbed to a record $6.527 per gallon, up sharply from $3.688 a year ago. Supply is tightening as Russian diesel exports remain restricted and disruptions continue to crude flows thr…
@@ -458,3 +453,5 @@
 - 09/23 06:58 [FirstSquawk] BLAST SOUND HEARD NEAR IRAN’S QESHM ISLAND — IRNA
 - 09/23 06:58 [FirstSquawk] IRNA: BLAST SOUND SEEMED TO ORIGINATE FROM THE SEA; NO EFFECTS REPORTED ON IRAN’S QESHM ISLAND
 - 09/23 07:00 [FirstSquawk] NASA AND SPACEX: TARGETING 11:10AM EDT ON OCTOBER 1 AS EARLIEST LAUNCH OPPORTUNITY FOR CREW-13 MISSION TO INTERNATIONAL SPACE STATION
+- 09/23 07:28 [financialjuice] World Labs founder Fei-Fei Li calls for independent oversight of AI
+- 09/23 07:28 [financialjuice] AWS: Amazon CloudWatch Omni now widely available; IDE extension at no cost - blog
