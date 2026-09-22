@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 23:25 JST／対象: 09/21 23:25 〜 09/22 23:25 JST（時刻はすべて日本時間）
+生成: 2026-09-22 23:46 JST／対象: 09/21 23:46 〜 09/22 23:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 42 | 09/21 23:29 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 332 | 09/21 23:27 | 09/22 23:20 | 44分（06:24→07:08） |
-| financialjuice | 236 | 09/21 23:27 | 09/22 23:23 | ⚠ 248分（08:13→12:21） |
+| DeItaone | 37 | 09/21 23:47 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
+| FirstSquawk | 337 | 09/21 23:46 | 09/22 23:44 | 44分（06:24→07:08） |
+| financialjuice | 242 | 09/21 23:46 | 09/22 23:42 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 595 行（統合前 615 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 603 行（統合前 621 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 23:27 [FirstSquawk/financialjuice] US PROPOSED EXTENDING CHINA TRADE TRUCE BY SIX MONTHS: NYT
-- 09/21 23:27 [FirstSquawk] CHINA HAS PUSHED FOR A LONGER TRADE TRUCE EXTENSION: NYT
-- 09/21 23:28 [financialjuice] Stocks of crude oil in the US strategic petroleum reserve fell to 284.6 million barrels last week, the lowest since 1982.
-- 09/21 23:28 [FirstSquawk] US STRATEGIC PETROLEUM RESERVE CRUDE OIL STOCKS DROPPED TO 284.6 MILLION BARRELS LAST WEEK, THE LOWEST LEVEL SINCE 1982.
-- 09/21 23:29 [DeItaone] *US PROPOSED EXTENDING CHINA TRADE TRUCE BY SIX MONTHS: NYT *CHINA HAS PUSHED FOR A LONGER TRADE TRUCE EXTENSION: NYT
-- 09/21 23:29 [DeItaone] STOCKS OF CRUDE OIL IN US STRATEGIC PETROLEUM RESERVE FELL TO 284.6 MLN BARRELS LAST WEEK, LOWEST SINCE 1982
-- 09/21 23:34 [financialjuice] OpenAI develops features to counter Grok bot, and mulls a response to Meta's Muse - The Information.
-- 09/21 23:38 [FirstSquawk] NASDAQ 100 EXTENDS GAIN TO 2%
-- 09/21 23:40 [financialjuice] US VP Vance on Iran: Oil is still flowing - Pool Report
-- 09/21 23:41 [financialjuice] US VP Vance on Iran: We're going to try to protect the US Navy - Pool Report.
-- 09/21 23:41 [FirstSquawk] VANCE ON IRAN: OIL IS STILL FLOWING
-- 09/21 23:41 [financialjuice] US VP Vance on Iran: Will be further discussion at the UN.
-- 09/21 23:42 [FirstSquawk/DeItaone] VANCE ON IRAN: GOING TO TRY TO PROTECT US NAVY: POOL REPORT
-- 09/21 23:42 [FirstSquawk/DeItaone] VANCE ON IRAN: WILL BE FURTHER DISCUSSION AT UN: POOL REPORT
-- 09/21 23:42 [financialjuice] US VP Vance on gasoline prices: We're doing what we can to give relief - Pool.
-- 09/21 23:45 [DeItaone] *VANCE ON IRAN: OIL IS STILL FLOWING: POOL REPORT
 - 09/21 23:46 [FirstSquawk] VANCE: ENERGY PRICES ARE ELEVATED BECAUSE OF IRAN: POOL REPORT
 - 09/21 23:46 [financialjuice] US VP Vance: Energy prices are elevated because of iran.
 - 09/21 23:47 [DeItaone/FirstSquawk] - TRUMP: UNITED STATES IS WORKING ON A MASSIVE DEAL WITH RESPECT TO PURCHASE OF POTASH FROM BELARUS
@@ -619,3 +603,27 @@
 - 09/22 23:19 [financialjuice] Crypto Fear and Greed Index: 78/100 = Extreme Greed
 - 09/22 23:20 [FirstSquawk] FED’S JEFFERSON DOESN’T COMMENT ON MONPOL OR ECONOMY
 - 09/22 23:23 [financialjuice] Iran’s Foreign Minister Araghchi meets with the Qatari Foreign Minister - Iranian Media.
+- 09/22 23:28 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI AND QATARI FOREIGN MINISTER HOLD MEETING, SAYS IRANIAN MEDIA.
+- 09/22 23:31 [financialjuice] Trump expected to meet Tuesday with representatives from nine Arab countries on potential conflict with Iran; many likely to urge him to de-escalate and seek an agreement - Barak Ravid, News 12
+- 09/22 23:33 [FirstSquawk] US PRESIDENT TRUMP: US TECHNOLOGY IS SECOND TO NONE AND LEADING GLOBALLY
+- 09/22 23:33 [financialjuice] Trump: Invested $1.5 trillion in the US military in the past 12 months.
+- 09/22 23:35 [FirstSquawk/financialjuice] TRUMP: I URGE IRAN TO MAKE A DEAL
+- 09/22 23:36 [financialjuice] EU Envoys agree to renew Russia sanctions on nearly 3,000 companies and individuals for 3 years, not the usual 6 months - EU Diplomats.
+- 09/22 23:36 [financialjuice] EU Envoys agree to lift sanctions on russian billionaires Usmanov and Fridman after push by france, luxembourg, - EU Diplomats
+- 09/22 23:37 [FirstSquawk] TRUMP SAYS HE URGED IRAN TO NEGOTIATE SEVERAL TIMES
+- 09/22 23:39 [financialjuice] Trump: More oil is flowing than at any point since the war started - UN.
+- 09/22 23:40 [financialjuice] Trump at UN: We must be united in maintaining pressure on Iran.
+- 09/22 23:40 [FirstSquawk] TRUMP: MORE OIL IS FLOWING THAN AT ANY POINT SINCE WAR STARTED
+- 09/22 23:40 [financialjuice] Trump: I believe we'll make a deal with iran right after our US election.
+- 09/22 23:40 [FirstSquawk] TRUMP: I BELIEVE WE'LL MAKE A DEAL WITH IRAN AFTER THE ELECTION
+- 09/22 23:40 [financialjuice] Trump: The United States Navy has recently escorted more than 1 billion barrels of oil out of the Strait of Hormuz.
+- 09/22 23:40 [FirstSquawk] UNITED NATIONS-TRUMP: IRAN WILL NEVER HAVE A NUCLEAR WEAPON
+- 09/22 23:41 [FirstSquawk] TRUMP: WON'T GIVE CREDENCE TO ELECTION WHEN IT COMES TO IRAN
+- 09/22 23:41 [financialjuice] Trump: I won't give credence to the election when it comes to Iran.
+- 09/22 23:41 [financialjuice] Trump: The US is adding weapons to our stockpiles fast.
+- 09/22 23:41 [financialjuice] Trump: calls on all nations to economically isolate Iran.
+- 09/22 23:42 [FirstSquawk] TRUMP: MASSIVE MUNITION PLANTS WILL BE OPENING
+- 09/22 23:42 [financialjuice] Trump: The US will be able to supply allies at a much faster rate.
+- 09/22 23:42 [FirstSquawk] UNITED NATIONS-TRUMP: CALLS ON ALL NATIONS TO ECONOMICALLY ISOLATE IRAN
+- 09/22 23:42 [FirstSquawk] TRUMP: US WILL BE ABLE TO SUPPLY ALLIES AT A MUCH FASTER RATE
+- 09/22 23:44 [FirstSquawk] TRUMP: OIL PRICES WILL PLUMMET AFTER IRAN CONFLICT IS OVER

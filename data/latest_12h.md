@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 23:25 JST／対象: 09/22 11:25 〜 09/22 23:25 JST（時刻はすべて日本時間）
+生成: 2026-09-22 23:46 JST／対象: 09/22 11:46 〜 09/22 23:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 133 | 09/22 11:33 | 09/22 23:20 | 34分（13:22→13:56） |
-| financialjuice | 129 | 09/22 12:21 | 09/22 23:23 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 133 | 09/22 11:49 | 09/22 23:44 | 34分（13:22→13:56） |
+| financialjuice | 142 | 09/22 12:21 | 09/22 23:42 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 279 行（統合前 286 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 291 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 11:33 [FirstSquawk] South Korea Industry Minister: Approval of South Korea investment plans requires review by US investment committee
-- 09/22 11:33 [FirstSquawk] G7: Situation in Yemen poses unacceptable risks to regional stability, security and global energy security
-- 09/22 11:34 [FirstSquawk] G7 statement calls on Iran to halt support and arms supplies to Houthis, citing UN Security Council resolutions
-- 09/22 11:34 [FirstSquawk] G7 statement: Iran’s actions seen as a dangerous escalation, risking further conflict
-- 09/22 11:34 [FirstSquawk] G7 statement: Iran’s actions threaten international trade and risk greater global economic instability
-- 09/22 11:35 [FirstSquawk] G7 statement: Houthi strikes in Yemen and against Saudi Arabia are unacceptable and must stop
-- 09/22 11:35 [FirstSquawk] G7 demands Houthis end all military actions, threats and attacks against civilian vessels
-- 09/22 11:38 [FirstSquawk] South Korean lawmakers express concerns about commercial viability of US investment plan — lawmaker
-- 09/22 11:40 [FirstSquawk] South Korean government believes 20-year profit return scheme supports commercial viability of US investment plan — lawmaker
-- 09/22 11:40 [FirstSquawk] S. Korea lawmaker: Formal announcement to be followed by “significant” investment payment by end-September
-- 09/22 11:41 [FirstSquawk] South Korea lawmaker: Government briefed lawmakers on nuclear, Texas power plant and Alaska LNG projects, focusing on Texas energy project
-- 09/22 11:42 [FirstSquawk] South Korea to invest over $20 billion in Texas power plant project — lawmaker
 - 09/22 11:49 [FirstSquawk] Indonesia’s wet season set to start in most areas in early November, weather agency says
 - 09/22 11:52 [FirstSquawk] Indonesia weather agency expects shorter-than-normal wet season across most of the country in 2026-27
 - 09/22 11:56 [FirstSquawk] NHC: Odalys expected to slowly strengthen
@@ -303,3 +291,27 @@
 - 09/22 23:19 [financialjuice] Crypto Fear and Greed Index: 78/100 = Extreme Greed
 - 09/22 23:20 [FirstSquawk] FED’S JEFFERSON DOESN’T COMMENT ON MONPOL OR ECONOMY
 - 09/22 23:23 [financialjuice] Iran’s Foreign Minister Araghchi meets with the Qatari Foreign Minister - Iranian Media.
+- 09/22 23:28 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI AND QATARI FOREIGN MINISTER HOLD MEETING, SAYS IRANIAN MEDIA.
+- 09/22 23:31 [financialjuice] Trump expected to meet Tuesday with representatives from nine Arab countries on potential conflict with Iran; many likely to urge him to de-escalate and seek an agreement - Barak Ravid, News 12
+- 09/22 23:33 [FirstSquawk] US PRESIDENT TRUMP: US TECHNOLOGY IS SECOND TO NONE AND LEADING GLOBALLY
+- 09/22 23:33 [financialjuice] Trump: Invested $1.5 trillion in the US military in the past 12 months.
+- 09/22 23:35 [FirstSquawk/financialjuice] TRUMP: I URGE IRAN TO MAKE A DEAL
+- 09/22 23:36 [financialjuice] EU Envoys agree to renew Russia sanctions on nearly 3,000 companies and individuals for 3 years, not the usual 6 months - EU Diplomats.
+- 09/22 23:36 [financialjuice] EU Envoys agree to lift sanctions on russian billionaires Usmanov and Fridman after push by france, luxembourg, - EU Diplomats
+- 09/22 23:37 [FirstSquawk] TRUMP SAYS HE URGED IRAN TO NEGOTIATE SEVERAL TIMES
+- 09/22 23:39 [financialjuice] Trump: More oil is flowing than at any point since the war started - UN.
+- 09/22 23:40 [financialjuice] Trump at UN: We must be united in maintaining pressure on Iran.
+- 09/22 23:40 [FirstSquawk] TRUMP: MORE OIL IS FLOWING THAN AT ANY POINT SINCE WAR STARTED
+- 09/22 23:40 [financialjuice] Trump: I believe we'll make a deal with iran right after our US election.
+- 09/22 23:40 [FirstSquawk] TRUMP: I BELIEVE WE'LL MAKE A DEAL WITH IRAN AFTER THE ELECTION
+- 09/22 23:40 [financialjuice] Trump: The United States Navy has recently escorted more than 1 billion barrels of oil out of the Strait of Hormuz.
+- 09/22 23:40 [FirstSquawk] UNITED NATIONS-TRUMP: IRAN WILL NEVER HAVE A NUCLEAR WEAPON
+- 09/22 23:41 [FirstSquawk] TRUMP: WON'T GIVE CREDENCE TO ELECTION WHEN IT COMES TO IRAN
+- 09/22 23:41 [financialjuice] Trump: I won't give credence to the election when it comes to Iran.
+- 09/22 23:41 [financialjuice] Trump: The US is adding weapons to our stockpiles fast.
+- 09/22 23:41 [financialjuice] Trump: calls on all nations to economically isolate Iran.
+- 09/22 23:42 [FirstSquawk] TRUMP: MASSIVE MUNITION PLANTS WILL BE OPENING
+- 09/22 23:42 [financialjuice] Trump: The US will be able to supply allies at a much faster rate.
+- 09/22 23:42 [FirstSquawk] UNITED NATIONS-TRUMP: CALLS ON ALL NATIONS TO ECONOMICALLY ISOLATE IRAN
+- 09/22 23:42 [FirstSquawk] TRUMP: US WILL BE ABLE TO SUPPLY ALLIES AT A MUCH FASTER RATE
+- 09/22 23:44 [FirstSquawk] TRUMP: OIL PRICES WILL PLUMMET AFTER IRAN CONFLICT IS OVER

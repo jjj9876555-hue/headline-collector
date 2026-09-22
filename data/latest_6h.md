@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 23:25 JST／対象: 09/22 17:25 〜 09/22 23:25 JST（時刻はすべて日本時間）
+生成: 2026-09-22 23:46 JST／対象: 09/22 17:46 〜 09/22 23:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 69 | 09/22 17:40 | 09/22 23:20 | 33分（19:13→19:46） |
-| financialjuice | 82 | 09/22 18:00 | 09/22 23:23 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 80 | 09/22 17:50 | 09/22 23:44 | 33分（19:13→19:46） |
+| financialjuice | 95 | 09/22 18:00 | 09/22 23:42 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 168 行（統合前 175 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 191 行（統合前 199 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 17:40 [FirstSquawk] IRAN SUGGESTS OPENING THE STRAIT SOON, 'WITHIN 7 DAYS' ONCE US BLOCKADE IS LIFTED – KYODO.
 - 09/22 17:50 [FirstSquawk] THE PLAN IS TO USE THIS PROPOSAL AS A BASIS FOR DISCUSSIONS WITH MEDIATING COUNTRIES AT THE UN GENERAL ASSEMBLY IN NEW YORK. ACCORDING TO AN IRANIAN GOVERNMENT OFFICIAL, IRAN WILL AGREE TO THE EARLY OPENING OF THE STRAIT IF THE US INDICATES…
 - 09/22 17:50 [FirstSquawk] ON THE 19TH OF THIS MONTH, REZAI, SECRETARY-GENERAL OF IRAN'S SUPREME SECURITY COUNCIL (SNSC), WHICH OVERSEES ITS FOREIGN POLICY AND SECURITY, STATED THAT IRAN WOULD NEED TO ACCEPT SEVEN CONDITIONS, INCLUDING LIFTING THE PORT BLOCKADE AND U…
 - 09/22 17:50 [FirstSquawk] IRAN'S ECONOMIC DIFFICULTIES ARE DEEPENING AS IT IS UNABLE TO EXPORT CRUDE OIL, A PILLAR OF ITS NATIONAL REVENUE, AND CONCERNS ARE SPREADING WITHIN THE LEADERSHIP. THERE ARE ALSO OPINIONS THAT NEGOTIATIONS WITH THE UNITED STATES SHOULD BE R…
@@ -192,3 +191,27 @@
 - 09/22 23:19 [financialjuice] Crypto Fear and Greed Index: 78/100 = Extreme Greed
 - 09/22 23:20 [FirstSquawk] FED’S JEFFERSON DOESN’T COMMENT ON MONPOL OR ECONOMY
 - 09/22 23:23 [financialjuice] Iran’s Foreign Minister Araghchi meets with the Qatari Foreign Minister - Iranian Media.
+- 09/22 23:28 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI AND QATARI FOREIGN MINISTER HOLD MEETING, SAYS IRANIAN MEDIA.
+- 09/22 23:31 [financialjuice] Trump expected to meet Tuesday with representatives from nine Arab countries on potential conflict with Iran; many likely to urge him to de-escalate and seek an agreement - Barak Ravid, News 12
+- 09/22 23:33 [FirstSquawk] US PRESIDENT TRUMP: US TECHNOLOGY IS SECOND TO NONE AND LEADING GLOBALLY
+- 09/22 23:33 [financialjuice] Trump: Invested $1.5 trillion in the US military in the past 12 months.
+- 09/22 23:35 [FirstSquawk/financialjuice] TRUMP: I URGE IRAN TO MAKE A DEAL
+- 09/22 23:36 [financialjuice] EU Envoys agree to renew Russia sanctions on nearly 3,000 companies and individuals for 3 years, not the usual 6 months - EU Diplomats.
+- 09/22 23:36 [financialjuice] EU Envoys agree to lift sanctions on russian billionaires Usmanov and Fridman after push by france, luxembourg, - EU Diplomats
+- 09/22 23:37 [FirstSquawk] TRUMP SAYS HE URGED IRAN TO NEGOTIATE SEVERAL TIMES
+- 09/22 23:39 [financialjuice] Trump: More oil is flowing than at any point since the war started - UN.
+- 09/22 23:40 [financialjuice] Trump at UN: We must be united in maintaining pressure on Iran.
+- 09/22 23:40 [FirstSquawk] TRUMP: MORE OIL IS FLOWING THAN AT ANY POINT SINCE WAR STARTED
+- 09/22 23:40 [financialjuice] Trump: I believe we'll make a deal with iran right after our US election.
+- 09/22 23:40 [FirstSquawk] TRUMP: I BELIEVE WE'LL MAKE A DEAL WITH IRAN AFTER THE ELECTION
+- 09/22 23:40 [financialjuice] Trump: The United States Navy has recently escorted more than 1 billion barrels of oil out of the Strait of Hormuz.
+- 09/22 23:40 [FirstSquawk] UNITED NATIONS-TRUMP: IRAN WILL NEVER HAVE A NUCLEAR WEAPON
+- 09/22 23:41 [FirstSquawk] TRUMP: WON'T GIVE CREDENCE TO ELECTION WHEN IT COMES TO IRAN
+- 09/22 23:41 [financialjuice] Trump: I won't give credence to the election when it comes to Iran.
+- 09/22 23:41 [financialjuice] Trump: The US is adding weapons to our stockpiles fast.
+- 09/22 23:41 [financialjuice] Trump: calls on all nations to economically isolate Iran.
+- 09/22 23:42 [FirstSquawk] TRUMP: MASSIVE MUNITION PLANTS WILL BE OPENING
+- 09/22 23:42 [financialjuice] Trump: The US will be able to supply allies at a much faster rate.
+- 09/22 23:42 [FirstSquawk] UNITED NATIONS-TRUMP: CALLS ON ALL NATIONS TO ECONOMICALLY ISOLATE IRAN
+- 09/22 23:42 [FirstSquawk] TRUMP: US WILL BE ABLE TO SUPPLY ALLIES AT A MUCH FASTER RATE
+- 09/22 23:44 [FirstSquawk] TRUMP: OIL PRICES WILL PLUMMET AFTER IRAN CONFLICT IS OVER
