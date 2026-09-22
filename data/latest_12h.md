@@ -7,33 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 11:47 JST／対象: 09/21 23:47 〜 09/22 11:47 JST（時刻はすべて日本時間）
+生成: 2026-09-22 11:58 JST／対象: 09/21 23:58 〜 09/22 11:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 09/21 23:47 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 203 | 09/21 23:48 | 09/22 11:42 | 44分（06:24→07:08） |
-| financialjuice | 99 | 09/21 23:48 | 09/22 08:13 | 42分（07:30→08:13） |
+| DeItaone | 11 | 09/22 00:02 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 203 | 09/22 00:08 | 09/22 11:56 | 44分（06:24→07:08） |
+| financialjuice | 97 | 09/22 00:00 | 09/22 08:13 | 42分（07:30→08:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 310 行（統合前 320 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 305 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 23:47 [DeItaone/FirstSquawk] - TRUMP: UNITED STATES IS WORKING ON A MASSIVE DEAL WITH RESPECT TO PURCHASE OF POTASH FROM BELARUS
-- 09/21 23:48 [FirstSquawk] Trump on truth social United States is working on a massive Deal with respect to the purchase of Potash from Belarus. The pricing would be for substantially less than we are currently paying to Canada, very good news for our Farmers and Ran…
-- 09/21 23:48 [financialjuice] Trump: Belarus Potash to cost less than canada supply - Truth Social
-- 09/21 23:48 [DeItaone] TRUMP: PRICING WOULD BE FOR SUBSTANTIALLY LESS THAN WE ARE CURRENTLY PAYING TO CANADA
-- 09/21 23:50 [DeItaone] TRUMP EYES MAJOR BELARUS POTASH DEAL President Trump says the U.S. is working on a large-scale agreement to buy potash from Belarus. Trump says the fertilizer would be purchased at substantially lower prices than current Canadian supplies, …
-- 09/21 23:54 [DeItaone] SURGING FUEL PRICES COULD HIT U.S. INFLATION EXPECTATIONS U.S. diesel prices have surged to nearly $6.50, roughly 18% above August’s average, while gasoline has climbed to $4.48. Consumer surveys have yet to fully capture the latest spike, …
-- 09/21 23:56 [FirstSquawk] USTR AMBASSADOR GREER SAYS BOEING IS MAKING PROGRESS ON FINALIZING 200 CHINESE AIRPLANE ORDERS ANNOUNCED EARLIER THIS YEAR -- FOX INTERVIEW
-- 09/21 23:57 [financialjuice/DeItaone] Total CEO: Too much refining is offline ahead of winter.
-- 09/21 23:57 [DeItaone] - FRENCH 5-YEAR CDS TOP 45 BPS TO HIT HIGHEST SINCE MARCH 2020, LSEG DATA SHOWS
 - 09/22 00:00 [financialjuice] Mexico's President Sheinbaum: The government is looking for ways to reduce imports from other nations and buy more goods from the US.
+- 09/22 00:02 [DeItaone] TOTAL CEO: TOO MUCH REFINING IS OFFLINE AHEAD OF WINTER
 - 09/22 00:05 [financialjuice] BoC's Gov. Macklem: If oil prices stay near $100 a barrel, we'd expect inflation to edge up in the coming months.
 - 09/22 00:05 [financialjuice] BoC's Gov. Macklem: Fuel prices have risen more than we'd normally expect, reflecting damage to global refining capacity.
 - 09/22 00:05 [financialjuice] BoC's Gov. Macklem: If new US tariffs remain in place, Q4 growth could be roughly halved to below 1%.
@@ -334,3 +326,6 @@
 - 09/22 11:40 [FirstSquawk] S. Korea lawmaker: Formal announcement to be followed by “significant” investment payment by end-September
 - 09/22 11:41 [FirstSquawk] South Korea lawmaker: Government briefed lawmakers on nuclear, Texas power plant and Alaska LNG projects, focusing on Texas energy project
 - 09/22 11:42 [FirstSquawk] South Korea to invest over $20 billion in Texas power plant project — lawmaker
+- 09/22 11:49 [FirstSquawk] Indonesia’s wet season set to start in most areas in early November, weather agency says
+- 09/22 11:52 [FirstSquawk] Indonesia weather agency expects shorter-than-normal wet season across most of the country in 2026-27
+- 09/22 11:56 [FirstSquawk] NHC: Odalys expected to slowly strengthen

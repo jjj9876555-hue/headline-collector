@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 11:47 JST／対象: 09/22 05:47 〜 09/22 11:47 JST（時刻はすべて日本時間）
+生成: 2026-09-22 11:58 JST／対象: 09/22 05:58 〜 09/22 11:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 116 | 09/22 05:52 | 09/22 11:42 | 44分（06:24→07:08） |
+| FirstSquawk | 116 | 09/22 06:00 | 09/22 11:56 | 44分（06:24→07:08） |
 | financialjuice | 14 | 09/22 06:00 | 09/22 08:13 | 42分（07:30→08:13） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 05:52 [FirstSquawk] THE ROYAL CANADIAN MINT HAS ANNOUNCED A FOLLOW-ON OFFERING OF GOLD EXCHANGE-TRADED RECEIPTS, WITH NET PROCEEDS TO BE USED TO PURCHASE GOLD BULLION.
-- 09/22 05:52 [FirstSquawk] THE ROYAL CANADIAN MINT SAYS ETR HOLDERS ARE ENTITLED TO REDEEM FOR GOLD BULLION WITH A MINIMUM PURITY OF 99.99% OR FOR CASH.
-- 09/22 05:53 [FirstSquawk] US SECRETARY OF STATE RUBIO, KENYA PRESIDENT RUTO: DISCUSS CRITICAL MINERALS IN MEETING - SOURCES
 - 09/22 06:00 [FirstSquawk] CMS HAS ANNOUNCED NEW PRELIMINARY MEDICARE PAYMENT RATES FOR LABORATORY SERVICES, SAVING TAXPAYERS AN ESTIMATED $1 BLN ANNUALLY, AND ANTICIPATES FINALIZING CY 2027 PAYMENT RATES FOR CLINICAL DIAGNOSTIC LABORATORY TESTS UNDER THE CLINICAL LA…
 - 09/22 06:00 [FirstSquawk/financialjuice] UK PM BURNHAM: AGREED TO SAUDI ARABIA REQUEST FOR TIME-LIMITED DEFENSIVE AIR-TO-AIR REFUELLING TO STABILIZE REGION
 - 09/22 06:10 [FirstSquawk] ELEMENTAL ROYALTY CORP HAS ACQUIRED A STREAMS AND ROYALTIES PORTFOLIO FROM ORION FOR $290.0 MLN, WHILE DIVESTING ITS GENERATION BUSINESS TO CARLIN EAST IN A NON-BINDING DEAL, RECEIVING $8.5 MLN IN CARLIN EAST SHARES — ABOUT A 19.9% STAKE ON…
@@ -153,3 +150,6 @@
 - 09/22 11:40 [FirstSquawk] S. Korea lawmaker: Formal announcement to be followed by “significant” investment payment by end-September
 - 09/22 11:41 [FirstSquawk] South Korea lawmaker: Government briefed lawmakers on nuclear, Texas power plant and Alaska LNG projects, focusing on Texas energy project
 - 09/22 11:42 [FirstSquawk] South Korea to invest over $20 billion in Texas power plant project — lawmaker
+- 09/22 11:49 [FirstSquawk] Indonesia’s wet season set to start in most areas in early November, weather agency says
+- 09/22 11:52 [FirstSquawk] Indonesia weather agency expects shorter-than-normal wet season across most of the country in 2026-27
+- 09/22 11:56 [FirstSquawk] NHC: Odalys expected to slowly strengthen
