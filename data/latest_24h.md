@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 16:33 JST／対象: 09/21 16:33 〜 09/22 16:33 JST（時刻はすべて日本時間）
+生成: 2026-09-22 16:47 JST／対象: 09/21 16:47 〜 09/22 16:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 349 | 09/21 16:58 | 09/22 16:32 | 44分（06:24→07:08） |
-| financialjuice | 257 | 09/21 16:45 | 09/22 16:26 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 350 | 09/21 16:58 | 09/22 16:35 | 44分（06:24→07:08） |
+| financialjuice | 257 | 09/21 17:06 | 09/22 16:45 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 649 行（統合前 668 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 650 行（統合前 669 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 16:45 [financialjuice] Swiss Government: Supply of petrol and diesel has resumed through the usual supply channels
-- 09/21 16:46 [financialjuice] Swiss Government: Supply situation for petroleum products remains tight
 - 09/21 16:58 [FirstSquawk] PAKISTAN MINISTER'S VISIT UNRELATED TO US-IRAN MEDIATION - TASNIM
 - 09/21 17:01 [FirstSquawk] NOVO PLANS TO RELEASE MORE THAN FIVE MULTI-BLOCKBUSTERS BY 2030.
 - 09/21 17:01 [FirstSquawk] NOVO TARGETS OVER 150 BILLION DKK IN PIPELINE SALES BY 2035.
@@ -673,3 +671,6 @@
 - 09/22 16:26 [financialjuice] UBS CEO: AI will be important for us to bring down costs
 - 09/22 16:32 [FirstSquawk] HUNGARY'S RULING PARTY DISAGREES WITH PRESIDENT'S CHOICE FOR TOP PROSECUTOR.
 - 09/22 16:32 [FirstSquawk] LAVROV AND RUBIO SET TO MEET ON SEPTEMBER 23, ACCORDING TO TASS.
+- 09/22 16:35 [FirstSquawk] USD/JPY INCREASES FOR THIRD STRAIGHT DAY, UP 0.3% TO 157.75.
+- 09/22 16:39 [financialjuice] Russia's Lavrov and Rubio expected to meet September 23rd - Tass
+- 09/22 16:45 [financialjuice] EU's Trade Chief Sefcovic: Deal delivers stronger, more diversified supply chain
