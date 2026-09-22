@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 03:46 JST／対象: 09/22 03:46 〜 09/23 03:46 JST（時刻はすべて日本時間）
+生成: 2026-09-23 03:59 JST／対象: 09/22 03:59 〜 09/23 03:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 348 | 09/22 03:50 | 09/23 03:45 | 44分（06:24→07:08） |
-| financialjuice | 267 | 09/22 03:51 | 09/23 03:45 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 344 | 09/22 04:00 | 09/23 03:58 | 44分（06:24→07:08） |
+| financialjuice | 271 | 09/22 04:03 | 09/23 03:56 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 626 行（統合前 643 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 03:50 [FirstSquawk] TRUMP’S APPROVAL RATING HAS FALLEN TO 32%, ACCORDING TO A NEW REUTERS/IPSOS POLL, DOWN FROM 35% A WEEK EARLIER AND NEAR THE LOWEST LEVEL RECORDED IN HIS SECOND TERM. APPROVAL AMONG REPUBLICANS ALSO FELL TO 73% FROM 82% A WEEK EARLIER, WHILE…
-- 09/22 03:51 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 3.4% LOWER AT $100.34/BBL, DOWN $3.53BRENT CRUDE FUTURES SETTLE 3.4% LOWER AT $100.34/BBL, DOWN $3.53
-- 09/22 03:51 [financialjuice] Brent Crude futures settle at $100.34/bbl, down $3.53, 3.4%
-- 09/22 03:51 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 3.4% LOWER AT $100.34/BBL, DOWN $3.53
-- 09/22 03:53 [FirstSquawk] FIFA PRESIDENT GIANNI INFANTINO SAYS AN INVESTMENT PROPOSAL HAS BEEN WITHDRAWN AND WILL NOT PROCEED, WHILE PROPOSING AN INDEPENDENT EXTERNAL REVIEW OF FIFA’S GOVERNANCE FRAMEWORK FOR MAJOR STRATEGIC INITIATIVES.
-- 09/22 03:53 [FirstSquawk] FIFA PRESIDENT GIANNI INFANTINO ALSO PLANS A DIRECT, TIME-LIMITED CONSULTATION WITH CONFEDERATIONS, MEMBER ASSOCIATIONS AND OTHER STAKEHOLDERS, AND SAYS NO ASSOCIATION’S TREATMENT WILL DEPEND ON ITS POSITION ON ANY PROPOSAL OR INSTITUTIONAL…
 - 09/22 04:00 [FirstSquawk] RUSSIA TO SCRAP GRAIN EXPORT DUTIES UNTIL END-2026, SUPPORTING UNINTERRUPTED GRAIN SHIPMENTS
 - 09/22 04:01 [FirstSquawk] US STATE DEPARTMENT IMPOSES VISA RESTRICTIONS ON 32 INDIVIDUALS LINKED TO PRINCE GROUP TCO
 - 09/22 04:03 [financialjuice] Qatar: We are working to facilitate an agreement between Iran and US - Tasnim News
@@ -650,3 +644,9 @@
 - 09/23 03:44 [financialjuice] Brent Crude futures settle at $99.25/bbl, down $1.09, 1.09%
 - 09/23 03:45 [FirstSquawk] INDIA’S PM MODI EXPECTED TO VISIT CANADA IN DECEMBER TO SIGN TRADE DEAL — GLOBE & MAIL
 - 09/23 03:45 [financialjuice] META's Zuckerberg plans to attend Trump-Xi state dinner. $META
+- 09/23 03:50 [financialjuice] Iranian Official responds to Trump's claims: We are ready for escalation in case of enemy aggression - Fars News
+- 09/23 03:51 [financialjuice] Iran: US has not set any red lines in the region, and Iran is prepared for all possible scenarios - Fars News
+- 09/23 03:53 [financialjuice] US sources: Meeting between US representatives and Araqi's Iranian team was planned in advance; Qatar's PM participated in most of it - Israel Hayom
+- 09/23 03:54 [financialjuice] US sources: Pre-planned US meeting with Araghchi's Iranian team, Qatar's PM present, discussed resuming talks and opening Hormuz Strait; no deal on contentious issues - Israel Hayom
+- 09/23 03:56 [financialjuice] Ukraine's President Zelenskiy: Trump and I discussed an energy ceasefire and how to end the war; Ukraine ready for any format of energy ceasefire
+- 09/23 03:58 [FirstSquawk] AN IRANIAN OFFICIAL, RESPONDING TO TRUMP'S CLAIMS, SAYS IRAN IS 'READY FOR ESCALATION IN CASE OF ENEMY AGGRESSION', ADDING THAT THE U.S. 'HAS NOT SET ANY RED LINES IN THE REGION' AND THAT IRAN IS PREPARED FOR ALL POSSIBLE SCENARIOS - FARS N…

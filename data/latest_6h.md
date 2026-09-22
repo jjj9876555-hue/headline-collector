@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 03:46 JST／対象: 09/22 21:46 〜 09/23 03:46 JST（時刻はすべて日本時間）
+生成: 2026-09-23 03:59 JST／対象: 09/22 21:59 〜 09/23 03:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 102 | 09/22 21:52 | 09/23 03:45 | 35分（01:56→02:31） |
-| financialjuice | 162 | 09/22 21:48 | 09/23 03:45 | 16分（22:12→22:29） |
+| FirstSquawk | 102 | 09/22 22:04 | 09/23 03:58 | 35分（01:56→02:31） |
+| financialjuice | 160 | 09/22 22:00 | 09/23 03:56 | 16分（22:12→22:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 258 行（統合前 270 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 257 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 21:48 [financialjuice] The government will soon approve the mobilization of up to 200,000 reservists for another round - Israel's Hayom News
-- 09/22 21:51 [financialjuice] Deputy Speaker of Iran Parliament Nikzad: We will not back down on the Strait of Hormuz. - ISMN
-- 09/22 21:52 [financialjuice/FirstSquawk] German fuel rebate to be approved in parliament this week - CDU
-- 09/22 21:54 [financialjuice] IMF's Managing Director Georgieva Speaks at "The Next 3 Billion" Semafor Events - WATCH LIVE
-- 09/22 21:54 [financialjuice] Trump at the UN to highlight strategy to end foreign interference.
-- 09/22 21:55 [financialjuice] CDU'S Frei: Lawmakers are going to focus on stabilizing the German coalition.
-- 09/22 21:56 [financialjuice] US REDBOOK YOY ACTUAL 7.6% (FORECAST -, PREVIOUS 8.5%) $MACRO
 - 09/22 22:00 [financialjuice] Effective Fed funds rate: 3.88% September 21st vs. 3.88% September 18th.
 - 09/22 22:00 [financialjuice] ECB settled €1,660.5 bln public-sector bond purchases.
 - 09/22 22:00 [financialjuice] ECB settled €214.7 bln corporate bond purchases.
@@ -282,3 +275,9 @@
 - 09/23 03:44 [financialjuice] Brent Crude futures settle at $99.25/bbl, down $1.09, 1.09%
 - 09/23 03:45 [FirstSquawk] INDIA’S PM MODI EXPECTED TO VISIT CANADA IN DECEMBER TO SIGN TRADE DEAL — GLOBE & MAIL
 - 09/23 03:45 [financialjuice] META's Zuckerberg plans to attend Trump-Xi state dinner. $META
+- 09/23 03:50 [financialjuice] Iranian Official responds to Trump's claims: We are ready for escalation in case of enemy aggression - Fars News
+- 09/23 03:51 [financialjuice] Iran: US has not set any red lines in the region, and Iran is prepared for all possible scenarios - Fars News
+- 09/23 03:53 [financialjuice] US sources: Meeting between US representatives and Araqi's Iranian team was planned in advance; Qatar's PM participated in most of it - Israel Hayom
+- 09/23 03:54 [financialjuice] US sources: Pre-planned US meeting with Araghchi's Iranian team, Qatar's PM present, discussed resuming talks and opening Hormuz Strait; no deal on contentious issues - Israel Hayom
+- 09/23 03:56 [financialjuice] Ukraine's President Zelenskiy: Trump and I discussed an energy ceasefire and how to end the war; Ukraine ready for any format of energy ceasefire
+- 09/23 03:58 [FirstSquawk] AN IRANIAN OFFICIAL, RESPONDING TO TRUMP'S CLAIMS, SAYS IRAN IS 'READY FOR ESCALATION IN CASE OF ENEMY AGGRESSION', ADDING THAT THE U.S. 'HAS NOT SET ANY RED LINES IN THE REGION' AND THAT IRAN IS PREPARED FOR ALL POSSIBLE SCENARIOS - FARS N…
