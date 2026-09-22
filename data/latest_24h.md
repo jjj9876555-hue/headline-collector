@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 10:15 JST／対象: 09/21 10:15 〜 09/22 10:15 JST（時刻はすべて日本時間）
+生成: 2026-09-22 10:32 JST／対象: 09/21 10:32 〜 09/22 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 340 | 09/21 10:18 | 09/22 10:12 | 44分（06:24→07:08） |
-| financialjuice | 246 | 09/21 10:17 | 09/22 08:13 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 340 | 09/21 10:36 | 09/22 10:30 | 44分（06:24→07:08） |
+| financialjuice | 238 | 09/21 10:36 | 09/22 08:13 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 628 行（統合前 649 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 620 行（統合前 641 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 10:17 [financialjuice] Microsoft's Nadella to join OpenAI and Nvidia CEOs at Trump-Xi dinner
-- 09/21 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023, according to PBOC
-- 09/21 10:18 [FirstSquawk] Yuan mid-point hits strongest level since Feb. 3, 2023 after China fix
-- 09/21 10:19 [FirstSquawk] Washington and Beijing agree on AI dialogue before Trump-Xi meeting — FT
-- 09/21 10:21 [financialjuice] China injects 165 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/21 10:21 [FirstSquawk] PBOC injects 165 bln yuan through 7-day reverse repos at 1.40%
-- 09/21 10:22 [financialjuice] User reports indicate issues with Facebook in the U.S.: Downdetector
-- 09/21 10:23 [FirstSquawk] Facebook users report issues across the U.S. — Downdetector
-- 09/21 10:24 [financialjuice] User reports show issues with Facebook for 15,602 users in U.S. as of 9:05 pm ET - Downdetector
-- 09/21 10:24 [financialjuice] South Korea President Lee to journey to US, Mexico September 21-27: Blue House
-- 09/21 10:24 [financialjuice] South Korea President Lee intends to meet US, Australia and other leaders at UN - Blue House
-- 09/21 10:24 [financialjuice] South Korea's Lee to attend UN General Assembly, hold summit with Mexico's Sheinbaum - Blue House
-- 09/21 10:26 [FirstSquawk] South Korea’s Lee to meet US, Australian and other leaders at UN — Blue House
-- 09/21 10:26 [FirstSquawk] Lee to attend UNGA and meet Mexico’s Sheinbaum for summit talks — Blue House
-- 09/21 10:27 [FirstSquawk] President Lee to travel to US and Mexico on Sept. 21-27 — Blue House
-- 09/21 10:28 [FirstSquawk] SoftBank Group’s proposed dollar, euro notes rated ‘BB+’ by Fitch
 - 09/21 10:36 [FirstSquawk] Japan plans ¥6.7 bln spending boost to combat invasive beetles — Kyodo
 - 09/21 10:36 [financialjuice] China central bank plans to sell 60 billion yuan 182-day bills in Hong Kong on Sept. 23
 - 09/21 10:37 [FirstSquawk] PBOC plans 60 bln yuan 182-day bill sale in Hong Kong on Sept. 23
@@ -652,3 +636,11 @@
 - 09/22 10:06 [FirstSquawk] AI demand recasts Japan’s data-centre growth, Fitch Ratings says
 - 09/22 10:10 [FirstSquawk] South Korea’s Kim to brief lawmakers on two investment projects aligned with both countries’ interests
 - 09/22 10:12 [FirstSquawk] South Korea’s Kim says no firm decision has been made on the two proposed projects
+- 09/22 10:15 [FirstSquawk] South Korea’s government to brief parliament on US investment project approved for pursuit, Kim says
+- 09/22 10:16 [FirstSquawk] China’s central bank sets yuan reference rate at 6.7459 per dollar
+- 09/22 10:17 [FirstSquawk] Lithuania PM says country ready to “fight back” but has evacuation plans amid Russia threats — BBC
+- 09/22 10:17 [FirstSquawk] Yuan midpoint set at strongest level since February 2023 by China
+- 09/22 10:21 [FirstSquawk] PBOC injects 35 bln yuan through 7-day reverse repos, rate unchanged at 1.40%
+- 09/22 10:24 [FirstSquawk] EU’s von der Leyen says free trade agreement agreed with Philippines
+- 09/22 10:27 [FirstSquawk] China’s STAR 50 Index set for a 2.5% gain at the open
+- 09/22 10:30 [FirstSquawk] Hang Seng AI Index poised to jump nearly 3% at the open

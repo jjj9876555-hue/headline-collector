@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 10:15 JST／対象: 09/21 22:15 〜 09/22 10:15 JST（時刻はすべて日本時間）
+生成: 2026-09-22 10:32 JST／対象: 09/21 22:32 〜 09/22 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 29 | 09/21 22:44 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 191 | 09/21 22:27 | 09/22 10:12 | 44分（06:24→07:08） |
-| financialjuice | 133 | 09/21 22:26 | 09/22 08:13 | 42分（07:30→08:13） |
+| FirstSquawk | 198 | 09/21 22:37 | 09/22 10:30 | 44分（06:24→07:08） |
+| financialjuice | 130 | 09/21 22:52 | 09/22 08:13 | 42分（07:30→08:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 341 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 345 行（統合前 360 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 22:26 [financialjuice] Société Générale CEO Krupa: France has significant macroeconomic challenges, but also strengths in energy, education, and start-ups.
-- 09/21 22:26 [financialjuice] Trump spoke via phone with Yemeni President Rashad Al-alimi on Sunday - Four Sources.
-- 09/21 22:27 [FirstSquawk] WHITE HOUSE TV POOL WON'T COVER TRUMP IN NYC: CNBC
-- 09/21 22:27 [financialjuice] Yemen's President requested US support for the government against the Houthis, but Trump made no pledge of military support - Two Sources
 - 09/21 22:37 [FirstSquawk] UKRAINE’S ZELENSKIY: RUSSIA MUST STOP TARGETING UKRAINE'S ENERGY SECTOR; WILL FOLLOW WITH DE-ESCALATION ONCE RUSSIA STOPS
 - 09/21 22:39 [FirstSquawk] META EXTENDS GAINS TO 5%
 - 09/21 22:42 [FirstSquawk] EU SET TO LIFT RUSSIA SANCTIONS ON ALISHER USMANOV AND MIKHAIL FRIDMAN, BARRING ANY LATE OBJECTIONS FROM EU GOVERNMENTS, DIPLOMATS SAY
@@ -365,3 +361,11 @@
 - 09/22 10:06 [FirstSquawk] AI demand recasts Japan’s data-centre growth, Fitch Ratings says
 - 09/22 10:10 [FirstSquawk] South Korea’s Kim to brief lawmakers on two investment projects aligned with both countries’ interests
 - 09/22 10:12 [FirstSquawk] South Korea’s Kim says no firm decision has been made on the two proposed projects
+- 09/22 10:15 [FirstSquawk] South Korea’s government to brief parliament on US investment project approved for pursuit, Kim says
+- 09/22 10:16 [FirstSquawk] China’s central bank sets yuan reference rate at 6.7459 per dollar
+- 09/22 10:17 [FirstSquawk] Lithuania PM says country ready to “fight back” but has evacuation plans amid Russia threats — BBC
+- 09/22 10:17 [FirstSquawk] Yuan midpoint set at strongest level since February 2023 by China
+- 09/22 10:21 [FirstSquawk] PBOC injects 35 bln yuan through 7-day reverse repos, rate unchanged at 1.40%
+- 09/22 10:24 [FirstSquawk] EU’s von der Leyen says free trade agreement agreed with Philippines
+- 09/22 10:27 [FirstSquawk] China’s STAR 50 Index set for a 2.5% gain at the open
+- 09/22 10:30 [FirstSquawk] Hang Seng AI Index poised to jump nearly 3% at the open
