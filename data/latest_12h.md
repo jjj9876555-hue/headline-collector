@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 04:16 JST／対象: 09/22 16:16 〜 09/23 04:16 JST（時刻はすべて日本時間）
+生成: 2026-09-23 04:30 JST／対象: 09/22 16:30 〜 09/23 04:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 164 | 09/22 16:32 | 09/23 04:09 | 35分（01:56→02:31） |
-| financialjuice | 214 | 09/22 16:16 | 09/23 04:12 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 169 | 09/22 16:32 | 09/23 04:29 | 35分（01:56→02:31） |
+| financialjuice | 217 | 09/22 16:39 | 09/23 04:28 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 390 行（統合前 407 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 397 行（統合前 415 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 16:16 [financialjuice] Turkey and the US to cooperate on small modular reactors - Ministry
-- 09/22 16:25 [financialjuice] UBS CEO: I see 'great momentum’ in wealth creation in the US
-- 09/22 16:26 [financialjuice] UBS CEO: Attrition of financial advisers in the US is plateauing
-- 09/22 16:26 [financialjuice] UBS CEO: AI will be important for us to bring down costs
 - 09/22 16:32 [FirstSquawk] HUNGARY'S RULING PARTY DISAGREES WITH PRESIDENT'S CHOICE FOR TOP PROSECUTOR.
 - 09/22 16:32 [FirstSquawk] LAVROV AND RUBIO SET TO MEET ON SEPTEMBER 23, ACCORDING TO TASS.
 - 09/22 16:35 [FirstSquawk] USD/JPY INCREASES FOR THIRD STRAIGHT DAY, UP 0.3% TO 157.75.
@@ -414,3 +410,14 @@
 - 09/23 04:09 [financialjuice] WATCH LIVE: Trump Participates in a Shield of the Americas Event
 - 09/23 04:09 [FirstSquawk] US SENATORS CALL ON TRUMP TO END CHINA’S ACCESS TO ADVANCED CHIPS
 - 09/23 04:12 [financialjuice] Trump: Witkoff and Kushner met with Iran. Lots of good thoughts.
+- 09/23 04:16 [financialjuice/FirstSquawk] Jordan's King joins Trump-hosted meeting with Arab and Islamic leaders on the sidelines of UNGA - Royal Court
+- 09/23 04:17 [financialjuice] Trump on Shield of The Americas: Must secure control of our own energy pipelines.
+- 09/23 04:21 [financialjuice] Wednesday FX Options Expiries
+- 09/23 04:23 [FirstSquawk] TRUMP: WITKOFF & KUSHNER MET WITH IRAN; ‘LOTS OF GOOD THOUGHTS’
+- 09/23 04:23 [FirstSquawk] TRUMP ON ‘SHIELD OF THE AMERICAS’: US MUST SECURE CONTROL OF ITS OWN ENERGY PIPELINES
+- 09/23 04:24 [financialjuice] ❗ Iran's conditions for reopening the Strait of Hormuz include immediate lifting of the maritime blockade, immediate payment of all frozen Iranian assets and an end to the war on all fronts - IRIB
+- 09/23 04:25 [financialjuice] Iran's foreign minister met with Witkoff on the sidelines of UN General Assembly - IRIB News
+- 09/23 04:25 [financialjuice] ❗ Iran's conditions to open the Strait of Hormuz were the reason to accept Witkoff's request for meeting - IRIB News
+- 09/23 04:28 [financialjuice] US official and a regional source said Trump's envoys Witkoff and Kushner attended meeting from US side and foreign minister Araghchi from the Iranian side - Axios
+- 09/23 04:29 [FirstSquawk] IRAN'S STATE MEDIA SAYS IRAN'S FOREIGN MINISTER MET WITH WITKOFF ON THE SIDELINES OF THE UN GENERAL ASSEMBLY, WITH IRAN'S CONDITIONS TO OPEN THE STRAIT OF HORMUZ THE REASON IT ACCEPTED WITKOFF'S REQUEST FOR THE MEETING, AND IRAN'S 'STRICT' …
+- 09/23 04:29 [FirstSquawk] IRAN'S STATE MEDIA SAYS IRAN'S CONDITIONS FOR REOPENING THE STRAIT OF HORMUZ INCLUDE THE IMMEDIATE LIFTING OF THE NAVAL BLOCKADE, THE IMMEDIATE RELEASE OF FROZEN IRANIAN ASSETS AND AN END OF WAR ACROSS ALL 'RESISTANCE' FRONTS.

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 04:16 JST／対象: 09/22 04:16 〜 09/23 04:16 JST（時刻はすべて日本時間）
+生成: 2026-09-23 04:30 JST／対象: 09/22 04:30 〜 09/23 04:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 347 | 09/22 04:20 | 09/23 04:09 | 44分（06:24→07:08） |
-| financialjuice | 272 | 09/22 04:21 | 09/23 04:12 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 347 | 09/22 04:38 | 09/23 04:29 | 44分（06:24→07:08） |
+| financialjuice | 278 | 09/22 04:31 | 09/23 04:28 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 630 行（統合前 648 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 635 行（統合前 654 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 04:20 [FirstSquawk] UK PM BURNHAM TO MEET EU COMMISSION PRESIDENT VON DER LEYEN ON TUESDAY TO RESOLVE EU CAR RULE DISPUTE — TIMES
-- 09/22 04:21 [financialjuice] Tuesday FX Options Expiries
-- 09/22 04:22 [FirstSquawk] RUSSIA HAS SET EXPORT DUTIES ON WHEAT, BARLEY AND CORN AT ZERO FROM SEPT. 1 THROUGH DEC. 31, 2026, AS THE GOVERNMENT SEEKS TO SUPPORT THE EXPORT POTENTIAL OF THE AGRICULTURAL SECTOR.
-- 09/22 04:22 [FirstSquawk] RUSSIA WILL ALSO CAP SUNFLOWER OIL EXPORT DUTIES AT 7,748 RUBLES PER TON AND SUNFLOWER MEAL DUTIES AT 312 RUBLES PER TON THROUGH YEAR-END.
-- 09/22 04:26 [FirstSquawk] U.S. DIESEL PRICES HAVE RISEN ABOVE $6.50 A GALLON FOR THE FIRST TIME, WITH WIDENING REFINING MARGINS AND TIGHT PRODUCT SUPPLIES DRIVING INFLATION PRESSURES EVEN AS WTI FALLS BELOW $100 A BARREL.
-- 09/22 04:26 [FirstSquawk] THE DROP IN CRUDE PRICES COULD HELP EASE DIESEL COSTS, BUT SHORTAGES OF REFINED PRODUCTS AND MOTOR OIL REMAIN A KEY RISK, WITH SOME RETAILERS LIMITING PURCHASES AMID LOW INVENTORIES.
 - 09/22 04:31 [financialjuice] Libya's NOC: Armed group closed valve 7 on the Sharara crude pipeline to Zawiya port on Monday, causing a sharp drop in output at the Sharara oilfield
 - 09/22 04:38 [FirstSquawk] LIBYA’S SHARARA OILFIELD OUTPUT PLUNGES AFTER ARMED GROUP SHUTS VALVE ON CRUDE PIPELINE TO ZAWIYA PORT — NOC
 - 09/22 04:39 [FirstSquawk] POLISH ARMY LAUNCHES PREVENTIVE MILITARY AVIATION OPERATIONS AFTER RUSSIAN AIR ATTACK ON UKRAINE; AIR DEFENSE & RADAR FORCES ON HIGH ALERT
@@ -654,3 +648,14 @@
 - 09/23 04:09 [financialjuice] WATCH LIVE: Trump Participates in a Shield of the Americas Event
 - 09/23 04:09 [FirstSquawk] US SENATORS CALL ON TRUMP TO END CHINA’S ACCESS TO ADVANCED CHIPS
 - 09/23 04:12 [financialjuice] Trump: Witkoff and Kushner met with Iran. Lots of good thoughts.
+- 09/23 04:16 [financialjuice/FirstSquawk] Jordan's King joins Trump-hosted meeting with Arab and Islamic leaders on the sidelines of UNGA - Royal Court
+- 09/23 04:17 [financialjuice] Trump on Shield of The Americas: Must secure control of our own energy pipelines.
+- 09/23 04:21 [financialjuice] Wednesday FX Options Expiries
+- 09/23 04:23 [FirstSquawk] TRUMP: WITKOFF & KUSHNER MET WITH IRAN; ‘LOTS OF GOOD THOUGHTS’
+- 09/23 04:23 [FirstSquawk] TRUMP ON ‘SHIELD OF THE AMERICAS’: US MUST SECURE CONTROL OF ITS OWN ENERGY PIPELINES
+- 09/23 04:24 [financialjuice] ❗ Iran's conditions for reopening the Strait of Hormuz include immediate lifting of the maritime blockade, immediate payment of all frozen Iranian assets and an end to the war on all fronts - IRIB
+- 09/23 04:25 [financialjuice] Iran's foreign minister met with Witkoff on the sidelines of UN General Assembly - IRIB News
+- 09/23 04:25 [financialjuice] ❗ Iran's conditions to open the Strait of Hormuz were the reason to accept Witkoff's request for meeting - IRIB News
+- 09/23 04:28 [financialjuice] US official and a regional source said Trump's envoys Witkoff and Kushner attended meeting from US side and foreign minister Araghchi from the Iranian side - Axios
+- 09/23 04:29 [FirstSquawk] IRAN'S STATE MEDIA SAYS IRAN'S FOREIGN MINISTER MET WITH WITKOFF ON THE SIDELINES OF THE UN GENERAL ASSEMBLY, WITH IRAN'S CONDITIONS TO OPEN THE STRAIT OF HORMUZ THE REASON IT ACCEPTED WITKOFF'S REQUEST FOR THE MEETING, AND IRAN'S 'STRICT' …
+- 09/23 04:29 [FirstSquawk] IRAN'S STATE MEDIA SAYS IRAN'S CONDITIONS FOR REOPENING THE STRAIT OF HORMUZ INCLUDE THE IMMEDIATE LIFTING OF THE NAVAL BLOCKADE, THE IMMEDIATE RELEASE OF FROZEN IRANIAN ASSETS AND AN END OF WAR ACROSS ALL 'RESISTANCE' FRONTS.

@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 04:16 JST／対象: 09/22 22:16 〜 09/23 04:16 JST（時刻はすべて日本時間）
+生成: 2026-09-23 04:30 JST／対象: 09/22 22:30 〜 09/23 04:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 102 | 09/22 22:18 | 09/23 04:09 | 35分（01:56→02:31） |
-| financialjuice | 156 | 09/22 22:29 | 09/23 04:12 | 16分（22:35→22:52） |
+| FirstSquawk | 105 | 09/22 22:31 | 09/23 04:29 | 35分（01:56→02:31） |
+| financialjuice | 160 | 09/22 22:33 | 09/23 04:28 | 16分（22:35→22:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 253 行（統合前 264 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 259 行（統合前 271 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 22:18 [FirstSquawk] EXPLOSIONS OCCURRED IN THE STRAIT OF HORMUZ AFTER IRGC ATTACKED SHIPS.
-- 09/22 22:27 [FirstSquawk] IRAN FM ARAGHCHI MET ITALIAN COUNTERPART TAJANI IN NEW YORK - TASNIM
-- 09/22 22:29 [financialjuice] Libya's NOC: The Sharara-Zawiya Crude loading pipeline closure leads to daily losses of around 130,000 bpd - Statement.
-- 09/22 22:30 [financialjuice] Libya's NOC: Expect losses to rise if the shutdown persists.
-- 09/22 22:30 [financialjuice] ❗ MOO IMBALANCE S&P 500: -64.9 MLN NASDAQ 100: -80.7 MLN DOW 30: -55.4 MLN MAG 7: -47.6 MLN $MACRO
 - 09/22 22:31 [FirstSquawk] S&P 500 UP 7.39 POINTS, OR 0.10 PERCENT, AT 7,772.09 AFTER MARKET OPEN NASDAQ UP 50.36 POINTS, OR 0.19 PERCENT, AT 27,172.45 AFTER MARKET OPEN DOW JONES UP 187.16 POINTS, OR 0.36 %, AT 52,235.99 AFTER MARKET OPEN
 - 09/22 22:33 [financialjuice] Fed's Collins: I supported last week's rate hike.
 - 09/22 22:33 [FirstSquawk] FED'S COLLINS: SUPPORTED LAST WEEK'S RATE HIKE
@@ -277,3 +272,14 @@
 - 09/23 04:09 [financialjuice] WATCH LIVE: Trump Participates in a Shield of the Americas Event
 - 09/23 04:09 [FirstSquawk] US SENATORS CALL ON TRUMP TO END CHINA’S ACCESS TO ADVANCED CHIPS
 - 09/23 04:12 [financialjuice] Trump: Witkoff and Kushner met with Iran. Lots of good thoughts.
+- 09/23 04:16 [financialjuice/FirstSquawk] Jordan's King joins Trump-hosted meeting with Arab and Islamic leaders on the sidelines of UNGA - Royal Court
+- 09/23 04:17 [financialjuice] Trump on Shield of The Americas: Must secure control of our own energy pipelines.
+- 09/23 04:21 [financialjuice] Wednesday FX Options Expiries
+- 09/23 04:23 [FirstSquawk] TRUMP: WITKOFF & KUSHNER MET WITH IRAN; ‘LOTS OF GOOD THOUGHTS’
+- 09/23 04:23 [FirstSquawk] TRUMP ON ‘SHIELD OF THE AMERICAS’: US MUST SECURE CONTROL OF ITS OWN ENERGY PIPELINES
+- 09/23 04:24 [financialjuice] ❗ Iran's conditions for reopening the Strait of Hormuz include immediate lifting of the maritime blockade, immediate payment of all frozen Iranian assets and an end to the war on all fronts - IRIB
+- 09/23 04:25 [financialjuice] Iran's foreign minister met with Witkoff on the sidelines of UN General Assembly - IRIB News
+- 09/23 04:25 [financialjuice] ❗ Iran's conditions to open the Strait of Hormuz were the reason to accept Witkoff's request for meeting - IRIB News
+- 09/23 04:28 [financialjuice] US official and a regional source said Trump's envoys Witkoff and Kushner attended meeting from US side and foreign minister Araghchi from the Iranian side - Axios
+- 09/23 04:29 [FirstSquawk] IRAN'S STATE MEDIA SAYS IRAN'S FOREIGN MINISTER MET WITH WITKOFF ON THE SIDELINES OF THE UN GENERAL ASSEMBLY, WITH IRAN'S CONDITIONS TO OPEN THE STRAIT OF HORMUZ THE REASON IT ACCEPTED WITKOFF'S REQUEST FOR THE MEETING, AND IRAN'S 'STRICT' …
+- 09/23 04:29 [FirstSquawk] IRAN'S STATE MEDIA SAYS IRAN'S CONDITIONS FOR REOPENING THE STRAIT OF HORMUZ INCLUDE THE IMMEDIATE LIFTING OF THE NAVAL BLOCKADE, THE IMMEDIATE RELEASE OF FROZEN IRANIAN ASSETS AND AN END OF WAR ACROSS ALL 'RESISTANCE' FRONTS.
