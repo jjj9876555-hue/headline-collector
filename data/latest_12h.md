@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 06:32 JST／対象: 09/22 18:32 〜 09/23 06:32 JST（時刻はすべて日本時間）
+生成: 2026-09-23 06:44 JST／対象: 09/22 18:44 〜 09/23 06:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 192 | 09/22 18:43 | 09/23 05:40 | 35分（01:56→02:31） |
-| financialjuice | 250 | 09/22 18:32 | 09/23 06:20 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 187 | 09/22 18:57 | 09/23 05:40 | 35分（01:56→02:31） |
+| financialjuice | 248 | 09/22 18:52 | 09/23 06:44 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 451 行（統合前 473 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 444 行（統合前 466 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 18:32 [financialjuice] GERMAN 5 YR BOBL YIELD ACTUAL 3.28% (FORECAST -, PREVIOUS 3.09%) $MACRO
-- 09/22 18:32 [financialjuice] GERMAN 5 YR BOBL BID-TO-COVER ACTUAL 1.2 (FORECAST -, PREVIOUS 1.6) $MACRO
-- 09/22 18:38 [financialjuice] Russia's oil exports from black sea Novorossiysk port rose to 650,000 barrels per day in September, up 50% from August - Sources and data
-- 09/22 18:41 [financialjuice] Kremlin: Putin and Erdogan discussed black sea strike halt - IFX
-- 09/22 18:41 [financialjuice] Kremlin: Russia says U.N. Security Council membership should be increased, but veto powers should remain
-- 09/22 18:41 [financialjuice] Kremlin: Diplomatic talks ongoing on black sea strikes - IFX
-- 09/22 18:43 [FirstSquawk] KREMLIN SAYS U.S. VISA DENIAL GOES AGAINST ITS DUTIES AS U.N. HOST AND PLANS TO DISCUSS IT WITH WASHINGTON.
-- 09/22 18:43 [FirstSquawk] KREMLIN REPORTS THAT U.S. DENIED A VISA TO DEPUTY FOREIGN MINISTER, CONSIDERING IT AN UNFRIENDLY MOVE.
-- 09/22 18:43 [FirstSquawk] KREMLIN STATED THAT THE SUBJECT OF U.S. MILITARY BASES IN GREENLAND IS A CONCERN FOR THE INVOLVED COUNTRIES. KREMLIN NOTES GERMANY'S AFD PARTY IS GAINING POPULARITY AND THEY SEEK CONVERSATIONS WITH MOSCOW, WHICH THEY FIND INTERESTING.
-- 09/22 18:44 [FirstSquawk] KREMLIN CALLS FOR LIFTING SANCTIONS ON ALL RUSSIAN CITIZENS, NOT JUST BUSINESSMEN FRIDMAN AND USMANOV. KREMLIN STATES U.S. AND ALLIES ARE NOT WORKING WITH RUSSIA IN THE ARCTIC.
-- 09/22 18:44 [FirstSquawk] KREMLIN REPORTS RUSSIA IS DISCOVERING NEW ROUTES FOR ITS GRAIN EXPORTS. KREMLIN CONFIRMS PUTIN AND ERDOGAN DISCUSSED TURKISH PLAN FOR BLACK SEA, WITH MORE DIPLOMATIC COMMUNICATION FOLLOWING. KREMLIN ACCUSES UKRAINE OF CAUSING PROBLEMS FOR G…
 - 09/22 18:52 [financialjuice] Senior Iranian official: Tehran welcomes revival of diplomacy if the US takes tangible steps
 - 09/22 18:53 [financialjuice] Senior Iranian Official: Iranian delegation is in New York with full authority to revive diplomacy with the US
 - 09/22 18:53 [financialjuice] Senior Iranian Official: Details of an agreement to end hostilities with us can be discussed in New York via mediators
@@ -475,3 +464,7 @@
 - 09/23 06:18 [financialjuice] USPS: mail dumping incident probably involved worker; case sent to oig for probe
 - 09/23 06:19 [financialjuice] EU's Kallas: met today with Serbian President Vucic and Kosovo Prime Minister Kurti
 - 09/23 06:20 [financialjuice] EU's Kallas: Urged advancing normalization of ties between Belgrade and Pristina
+- 09/23 06:35 [financialjuice] Sound of blast heard near Iran’s Qeshm Island: IRNA
+- 09/23 06:35 [financialjuice] Irna: sound seemed to originate from sea; no effects reported on Iran's Qeshm Island
+- 09/23 06:42 [financialjuice] Downing Street: UK PM Burnham met European Commission President Ursula von der Leyen at UN General Assembly today
+- 09/23 06:44 [financialjuice] Downing Street: Burnham and von der Leyen discussed initiatives underway to tackle AI safety

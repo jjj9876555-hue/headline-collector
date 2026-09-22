@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 06:32 JST／対象: 09/22 06:32 〜 09/23 06:32 JST（時刻はすべて日本時間）
+生成: 2026-09-23 06:44 JST／対象: 09/22 06:44 〜 09/23 06:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
 | FirstSquawk | 354 | 09/22 07:08 | 09/23 05:40 | 35分（01:56→02:31） |
-| financialjuice | 313 | 09/22 06:34 | 09/23 06:20 | ⚠ 248分（08:13→12:21） |
+| financialjuice | 313 | 09/22 07:07 | 09/23 06:44 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 676 行（統合前 698 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 06:34 [financialjuice] United Nations-EU’s Kallas: as Russia escalates risks, we must enforce higher costs
-- 09/22 06:35 [financialjuice] EU's Kallas: We aim for swift rollover of EU sanctions
-- 09/22 06:36 [financialjuice] EU's Kallas: EU naval mission in Red Sea requires additional naval, air resources
-- 09/22 06:36 [financialjuice] EU's Kallas: more than 10 vessels needed in Red Sea
 - 09/22 07:07 [financialjuice] Transportation Secretary Duffy: telecom lines fixed, all northeast airport operations restarting
 - 09/22 07:08 [financialjuice] Shenzhen Camsense Technologies sets offer price at HK$58.85 per H share under global offering
 - 09/22 07:08 [financialjuice] Shenzhen Camsense Technologies plans 10.4 million H-shares in global international offer
@@ -700,3 +696,7 @@
 - 09/23 06:18 [financialjuice] USPS: mail dumping incident probably involved worker; case sent to oig for probe
 - 09/23 06:19 [financialjuice] EU's Kallas: met today with Serbian President Vucic and Kosovo Prime Minister Kurti
 - 09/23 06:20 [financialjuice] EU's Kallas: Urged advancing normalization of ties between Belgrade and Pristina
+- 09/23 06:35 [financialjuice] Sound of blast heard near Iran’s Qeshm Island: IRNA
+- 09/23 06:35 [financialjuice] Irna: sound seemed to originate from sea; no effects reported on Iran's Qeshm Island
+- 09/23 06:42 [financialjuice] Downing Street: UK PM Burnham met European Commission President Ursula von der Leyen at UN General Assembly today
+- 09/23 06:44 [financialjuice] Downing Street: Burnham and von der Leyen discussed initiatives underway to tackle AI safety
