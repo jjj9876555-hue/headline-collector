@@ -7,28 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 06:58 JST／対象: 09/23 00:58 〜 09/23 06:58 JST（時刻はすべて日本時間）
+生成: 2026-09-23 07:16 JST／対象: 09/23 01:16 〜 09/23 07:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 103 | 09/23 00:59 | 09/23 06:58 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 130 | 09/23 00:59 | 09/23 06:44 | 15分（06:20→06:35） |
+| FirstSquawk | 103 | 09/23 01:17 | 09/23 07:00 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 127 | 09/23 01:21 | 09/23 06:44 | 15分（06:20→06:35） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 226 行（統合前 240 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 224 行（統合前 236 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 00:59 [FirstSquawk] US, DENMARK MAY IDENTIFY NEW NEED FOR DEFENSE AREA: US
-- 09/23 00:59 [FirstSquawk] AWS WINS FIRST NATO RESTRICTED CLOUD APPROVAL; CLEARED FOR NR WORKLOADS ACROSS ALL NATO NATIONS
-- 09/23 00:59 [financialjuice] Meta is testing a 'human concierge' for its new personal agent Muse - Internal company posts
-- 09/23 01:03 [financialjuice/FirstSquawk] Fitch Ratings raises near-term oil and European gas price assumptions.
-- 09/23 01:07 [financialjuice] Pakistan Army conducts two-week exercise with Russian and Omani forces - Tasnim News cited Pakistan TV.
+- 09/23 01:17 [FirstSquawk] FITCH RATINGS RAISES NEAR-TERM OIL AND EUROPEAN GAS PRICE ASSUMPTIONS
 - 09/23 01:18 [FirstSquawk] US F-16 FIGHTER JET CRASHED NEAR U.S BASE IN GERMANY
 - 09/23 01:19 [FirstSquawk] BNP PARIBAS SEES HIGHER EFFICIENCY TO SUPPORT EARNINGS GROWTH
 - 09/23 01:21 [FirstSquawk] APPLE IS WORKING ON A NEW FITNESS TRACKER TO COMPETE WITH WHOOP.
@@ -250,3 +246,5 @@
 - 09/23 06:42 [financialjuice] Downing Street: UK PM Burnham met European Commission President Ursula von der Leyen at UN General Assembly today
 - 09/23 06:44 [financialjuice] Downing Street: Burnham and von der Leyen discussed initiatives underway to tackle AI safety
 - 09/23 06:58 [FirstSquawk] BLAST SOUND HEARD NEAR IRAN’S QESHM ISLAND — IRNA
+- 09/23 06:58 [FirstSquawk] IRNA: BLAST SOUND SEEMED TO ORIGINATE FROM THE SEA; NO EFFECTS REPORTED ON IRAN’S QESHM ISLAND
+- 09/23 07:00 [FirstSquawk] NASA AND SPACEX: TARGETING 11:10AM EDT ON OCTOBER 1 AS EARLIEST LAUNCH OPPORTUNITY FOR CREW-13 MISSION TO INTERNATIONAL SPACE STATION
