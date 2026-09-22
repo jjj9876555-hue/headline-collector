@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 14:43 JST／対象: 09/22 08:43 〜 09/22 14:43 JST（時刻はすべて日本時間）
+生成: 2026-09-22 14:58 JST／対象: 09/22 08:58 〜 09/22 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 105 | 09/22 08:47 | 09/22 14:31 | 34分（13:22→13:56） |
+| FirstSquawk | 103 | 09/22 09:02 | 09/22 14:54 | 34分（13:22→13:56） |
 | financialjuice | 33 | 09/22 12:21 | 09/22 14:20 | ⚠ 66分（12:56→14:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 138 行（統合前 138 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 136 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 08:47 [FirstSquawk] BOUNTY OIL AND GAS NL HAS ANNOUNCED A STRATEGIC ENTRY INTO DEEPWATER LIBERIA, ENTERING AN AGREEMENT TO BUY 100% OF PETROQUEST LIBERIA DEEP WATER FOR A$1.5 MLN, AND HAS RECEIVED FIRM COMMITMENTS TO RAISE A$3.5 MLN VIA A PLACEMENT
-- 09/22 08:55 [FirstSquawk] ASIAN MARKETS FOCUS ON TAIWAN’S AUGUST EXPORT ORDERS AND UNEMPLOYMENT DATA, WHILE OPTIMISM AROUND THE UPCOMING TRUMP-XI SUMMIT AND EXPECTATIONS FOR STRONG AI DEMAND SUPPORT RISK SENTIMENT.
-- 09/22 08:55 [FirstSquawk] U.S. STOCKS POSTED THEIR STRONGEST GAINS SINCE EARLY AUGUST, LED BY TECHNOLOGY SHARES, WITH THE S&P 500 UP 1.5% AND NASDAQ 2.3%, WHILE WTI FELL 5.1% TO $95.16 AND THE 10-YEAR TREASURY YIELD DECLINED TO 4.95%.
 - 09/22 09:02 [FirstSquawk] KOSPI gains 2% as South Korean shares advance
 - 09/22 09:03 [FirstSquawk] Samsung Electronics shares surge 3% in trading
 - 09/22 09:03 [FirstSquawk] UK to support Saudi Arabia with military assistance in Houthi conflict — FT
@@ -162,3 +159,4 @@
 - 09/22 14:24 [FirstSquawk] US Vice President Vance: US seeks to prevent Iran from rebuilding its nuclear programme
 - 09/22 14:30 [FirstSquawk] Boeing target price cut to $265 from $295 by Jefferies
 - 09/22 14:31 [FirstSquawk] Iranian President: Enemy aims to block all roads into Iran and force it to surrender — Al Jazeera
+- 09/22 14:54 [FirstSquawk] Morgan Stanley lowers Ericsson rating to Underweight from Equal Weight

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 14:43 JST／対象: 09/21 14:43 〜 09/22 14:43 JST（時刻はすべて日本時間）
+生成: 2026-09-22 14:58 JST／対象: 09/21 14:58 〜 09/22 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 355 | 09/21 14:43 | 09/22 14:31 | 44分（06:24→07:08） |
+| FirstSquawk | 354 | 09/21 15:08 | 09/22 14:54 | 44分（06:24→07:08） |
 | financialjuice | 257 | 09/21 15:05 | 09/22 14:20 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 654 行（統合前 675 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 653 行（統合前 674 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 14:43 [FirstSquawk] South Korea’s central bank launches pilot for 24-hour offshore won settlement — Yonhap
-- 09/21 14:48 [FirstSquawk] Kazakhstan oil exports through Ust-Luga drop 30% month-on-month to 200,000 tonnes in August — IFX
 - 09/21 15:05 [financialjuice] Kazakhstan Oil to UST-Luga at 200k metric tons in August - IFX
 - 09/21 15:08 [FirstSquawk] North Korea condemns multilateral sanctions monitoring team as illegal US political instrument — KCNA
 - 09/21 15:08 [FirstSquawk] North Korea says new sanctions will not impede development or defence of key interests — KCNA
@@ -678,3 +676,4 @@
 - 09/22 14:24 [FirstSquawk] US Vice President Vance: US seeks to prevent Iran from rebuilding its nuclear programme
 - 09/22 14:30 [FirstSquawk] Boeing target price cut to $265 from $295 by Jefferies
 - 09/22 14:31 [FirstSquawk] Iranian President: Enemy aims to block all roads into Iran and force it to surrender — Al Jazeera
+- 09/22 14:54 [FirstSquawk] Morgan Stanley lowers Ericsson rating to Underweight from Equal Weight
