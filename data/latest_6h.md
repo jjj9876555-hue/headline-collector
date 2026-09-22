@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 09:48 JST／対象: 09/22 03:48 〜 09/22 09:48 JST（時刻はすべて日本時間）
+生成: 2026-09-22 09:59 JST／対象: 09/22 03:59 〜 09/22 09:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 103 | 09/22 03:50 | 09/22 09:44 | 44分（06:24→07:08） |
-| financialjuice | 24 | 09/22 03:51 | 09/22 08:13 | 42分（07:30→08:13） |
+| FirstSquawk | 101 | 09/22 04:00 | 09/22 09:52 | 44分（06:24→07:08） |
+| financialjuice | 23 | 09/22 04:03 | 09/22 08:13 | 42分（07:30→08:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 126 行（統合前 127 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 123 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 03:50 [FirstSquawk] TRUMP’S APPROVAL RATING HAS FALLEN TO 32%, ACCORDING TO A NEW REUTERS/IPSOS POLL, DOWN FROM 35% A WEEK EARLIER AND NEAR THE LOWEST LEVEL RECORDED IN HIS SECOND TERM. APPROVAL AMONG REPUBLICANS ALSO FELL TO 73% FROM 82% A WEEK EARLIER, WHILE…
-- 09/22 03:51 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 3.4% LOWER AT $100.34/BBL, DOWN $3.53BRENT CRUDE FUTURES SETTLE 3.4% LOWER AT $100.34/BBL, DOWN $3.53
-- 09/22 03:51 [financialjuice] Brent Crude futures settle at $100.34/bbl, down $3.53, 3.4%
-- 09/22 03:51 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 3.4% LOWER AT $100.34/BBL, DOWN $3.53
-- 09/22 03:53 [FirstSquawk] FIFA PRESIDENT GIANNI INFANTINO SAYS AN INVESTMENT PROPOSAL HAS BEEN WITHDRAWN AND WILL NOT PROCEED, WHILE PROPOSING AN INDEPENDENT EXTERNAL REVIEW OF FIFA’S GOVERNANCE FRAMEWORK FOR MAJOR STRATEGIC INITIATIVES.
-- 09/22 03:53 [FirstSquawk] FIFA PRESIDENT GIANNI INFANTINO ALSO PLANS A DIRECT, TIME-LIMITED CONSULTATION WITH CONFEDERATIONS, MEMBER ASSOCIATIONS AND OTHER STAKEHOLDERS, AND SAYS NO ASSOCIATION’S TREATMENT WILL DEPEND ON ITS POSITION ON ANY PROPOSAL OR INSTITUTIONAL…
 - 09/22 04:00 [FirstSquawk] RUSSIA TO SCRAP GRAIN EXPORT DUTIES UNTIL END-2026, SUPPORTING UNINTERRUPTED GRAIN SHIPMENTS
 - 09/22 04:01 [FirstSquawk] US STATE DEPARTMENT IMPOSES VISA RESTRICTIONS ON 32 INDIVIDUALS LINKED TO PRINCE GROUP TCO
 - 09/22 04:03 [financialjuice] Qatar: We are working to facilitate an agreement between Iran and US - Tasnim News
@@ -150,3 +144,6 @@
 - 09/22 09:33 [FirstSquawk] Vietnam’s leader To Lam says US trade deal could be signed soon
 - 09/22 09:40 [FirstSquawk] Bill Pulte’s mortgage scrutiny extended to Trump’s political rivals — WSJ
 - 09/22 09:44 [FirstSquawk] Oil gains modestly as traders monitor signs of Mideast conflict diplomacy — WSJ
+- 09/22 09:49 [FirstSquawk] Nikkei seen poised for a potential rally as shorts pile up — WSJ
+- 09/22 09:51 [FirstSquawk] Google starts pre-orders for $899 laptops featuring Gemini AI — Reuters
+- 09/22 09:52 [FirstSquawk] Won strengthens 1% against the dollar in South Korea
