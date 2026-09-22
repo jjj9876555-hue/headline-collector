@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 21:22 JST／対象: 09/22 15:22 〜 09/22 21:22 JST（時刻はすべて日本時間）
+生成: 2026-09-22 21:41 JST／対象: 09/22 15:41 〜 09/22 21:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/22 19:18 | 09/22 21:11 | 20分（20:20→20:41） |
-| FirstSquawk | 56 | 09/22 15:22 | 09/22 21:21 | 33分（19:13→19:46） |
-| financialjuice | 46 | 09/22 15:48 | 09/22 21:15 | ⚠ 116分（18:57→20:54） |
+| DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
+| FirstSquawk | 57 | 09/22 15:49 | 09/22 21:38 | 33分（19:13→19:46） |
+| financialjuice | 47 | 09/22 15:48 | 09/22 21:36 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 122 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 15:22 [FirstSquawk] Deutsche Bank lowers Novo Nordisk target to DKK 245 from DKK 265
-- 09/22 15:25 [FirstSquawk] Australia’s benchmark S&P/ASX 200 rises 0.3% to 8,757.80
 - 09/22 15:48 [financialjuice] Russian defence ministry: Russian forces hit oil refinery in Ukraine's Kremenchuk - TASS
 - 09/22 15:49 [FirstSquawk] FRANCE (JUL) RETAIL SALES EX-AUTO MOM ACTUAL: 0.8% VS 0.4% PREVIOUS
 - 09/22 15:49 [FirstSquawk] Russian forces strike oil refinery in Ukraine’s Kremenchuk, Defence Ministry says — TASS
@@ -144,3 +142,7 @@
 - 09/22 21:15 [FirstSquawk] US ADP EMPLOYMENT CHANGE WEEKLY ACTUAL: 20K VS 16.30K PREVIOUS
 - 09/22 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 20K (FORECAST -, PREVIOUS 16.25K) $MACRO
 - 09/22 21:21 [FirstSquawk] TRUMP SUMMIT WITH XI UNLIKELY TO INCLUDE CHINESE CEOS - WSJ
+- 09/22 21:26 [DeItaone/FirstSquawk] KALSHI ASKS CFTC TO ALLOW MARGIN TRADING ON ITS PLATFORM, LETTING USERS BUY WITH BORROWED FUNDS- CNBC
+- 09/22 21:36 [financialjuice] Trump's UN speech to make the case for how he uses America's power to confront Iran, cartel violence and other threats, reshaping the world to help the US - White House official tells Fox News
+- 09/22 21:38 [FirstSquawk] CME GROUP TO EXPAND CRYPTO DERIVATIVES SUITE WITH BITCOIN CASH AND UNISWAP FUTURES
+- 09/22 21:38 [FirstSquawk] WH OFFICIAL: TRUMP UN SPEECH TO PRESS CASE FOR CONFRONTING IRAN, CARTELS - FOX

@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 21:22 JST／対象: 09/22 09:22 〜 09/22 21:22 JST（時刻はすべて日本時間）
+生成: 2026-09-22 21:41 JST／対象: 09/22 09:41 〜 09/22 21:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/22 19:18 | 09/22 21:11 | 20分（20:20→20:41） |
-| FirstSquawk | 149 | 09/22 09:22 | 09/22 21:21 | 34分（13:22→13:56） |
-| financialjuice | 80 | 09/22 12:21 | 09/22 21:15 | ⚠ 116分（18:57→20:54） |
+| DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
+| FirstSquawk | 144 | 09/22 09:44 | 09/22 21:38 | 34分（13:22→13:56） |
+| financialjuice | 81 | 09/22 12:21 | 09/22 21:36 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 247 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 243 行（統合前 247 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 09:22 [FirstSquawk] ASIAN STOCKS RISE 0.5% AS TECHNOLOGY SHARES TRACK WALL STREET HIGHER, WITH SOUTH KOREA’S KOSPI JUMPING MORE THAN 2% AND SAMSUNG ELECTRONICS AND SK HYNIX LEADING GAINS; U.S. SEMICONDUCTOR STOCKS RALLIED MORE THAN 4%, WHILE META SURGED 11% AN…
-- 09/22 09:22 [FirstSquawk] MARKETS ALSO FOCUS ON THURSDAY’S TRUMP-XI SUMMIT, WITH AI, TRADE AND INVESTMENT EXPECTED TO DOMINATE TALKS, WHILE BRENT HOLDS AROUND $100 AS MIDDLE EAST SUPPLY CONCERNS EASE; SPOT GOLD ROSE 0.7% TO $4,373.50, WHILE BITCOIN FELL 0.7% TO $86,…
-- 09/22 09:25 [FirstSquawk] Asian shares start higher after a strong Wall Street session, with the Nasdaq outperforming on Meta’s 11% surge and AMD crossing the $1 trillion market-cap mark
-- 09/22 09:26 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTRY IS TO BRIEF LAWMAKERS ON A TEXAS GAS POWER PLANT AS THE FIRST POTENTIAL PROJECT IN A U.S. INVESTMENT PACKAGE, A SOURCE SAYS, ADDING THAT SOUTH KOREA AND THE U.S. HAVE NOT REACHED AGREEMENT ON A WESTINGHOUSE S…
-- 09/22 09:26 [FirstSquawk] Gold climbs as strong fundamentals continue to support prices — WSJ
-- 09/22 09:31 [FirstSquawk] Coinbase confirms reported issue is now resolved
-- 09/22 09:33 [FirstSquawk] Vietnam’s leader To Lam says US trade deal could be signed soon
-- 09/22 09:40 [FirstSquawk] Bill Pulte’s mortgage scrutiny extended to Trump’s political rivals — WSJ
 - 09/22 09:44 [FirstSquawk] Oil gains modestly as traders monitor signs of Mideast conflict diplomacy — WSJ
 - 09/22 09:49 [FirstSquawk] Nikkei seen poised for a potential rally as shorts pile up — WSJ
 - 09/22 09:51 [FirstSquawk] Google starts pre-orders for $899 laptops featuring Gemini AI — Reuters
@@ -271,3 +263,7 @@
 - 09/22 21:15 [FirstSquawk] US ADP EMPLOYMENT CHANGE WEEKLY ACTUAL: 20K VS 16.30K PREVIOUS
 - 09/22 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 20K (FORECAST -, PREVIOUS 16.25K) $MACRO
 - 09/22 21:21 [FirstSquawk] TRUMP SUMMIT WITH XI UNLIKELY TO INCLUDE CHINESE CEOS - WSJ
+- 09/22 21:26 [DeItaone/FirstSquawk] KALSHI ASKS CFTC TO ALLOW MARGIN TRADING ON ITS PLATFORM, LETTING USERS BUY WITH BORROWED FUNDS- CNBC
+- 09/22 21:36 [financialjuice] Trump's UN speech to make the case for how he uses America's power to confront Iran, cartel violence and other threats, reshaping the world to help the US - White House official tells Fox News
+- 09/22 21:38 [FirstSquawk] CME GROUP TO EXPAND CRYPTO DERIVATIVES SUITE WITH BITCOIN CASH AND UNISWAP FUTURES
+- 09/22 21:38 [FirstSquawk] WH OFFICIAL: TRUMP UN SPEECH TO PRESS CASE FOR CONFRONTING IRAN, CARTELS - FOX
