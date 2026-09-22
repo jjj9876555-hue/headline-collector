@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 09:24 JST／対象: 09/21 09:24 〜 09/22 09:24 JST（時刻はすべて日本時間）
+生成: 2026-09-22 09:48 JST／対象: 09/21 09:48 〜 09/22 09:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 337 | 09/21 09:26 | 09/22 09:22 | 44分（06:24→07:08） |
+| FirstSquawk | 337 | 09/21 09:51 | 09/22 09:44 | 44分（06:24→07:08） |
 | financialjuice | 247 | 09/21 10:00 | 09/22 08:13 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,13 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 09:26 [FirstSquawk] YEMENI FORCES IN TAIZ, REPORTEDLY ENCIRCLING AREA - IRNA
-- 09/21 09:26 [FirstSquawk] GOLD HOLDS AROUND $4,375 AN OUNCE AS TRADERS ASSESS PERSISTENT INFLATION RISKS AND THE FEDERAL RESERVE’S PATH FOR FURTHER RATE HIKES AFTER ITS FIRST RATE INCREASE SINCE 2023. HIGHER ENERGY PRICES AND EXPECTATIONS FOR RATES TO REMAIN ELEVATE…
-- 09/21 09:28 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN $1 TO $99.22/BBL
-- 09/21 09:29 [FirstSquawk] Gulf LNG constraints could push TTF to €105 and JKM to $35, Goldman warns
-- 09/21 09:30 [FirstSquawk] Trump administration prepares sweeping sanctions against ICC, WSJ reports
-- 09/21 09:35 [FirstSquawk] Oil tanker crunch risks keeping gas prices higher for longer — WSJ
-- 09/21 09:46 [FirstSquawk] Kashkari says US inflation is still elevated across all aspects of the economy — FXStreet
 - 09/21 09:51 [FirstSquawk] Drug seizures by Hong Kong customs rise nearly 50% in H1 — SCMP
 - 09/21 09:57 [FirstSquawk] Warehouse complex near Kyiv catches fire after Russian drone strike — CBS
 - 09/21 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
@@ -650,3 +643,10 @@
 - 09/22 09:19 [FirstSquawk] META’S MUSE AI PLATFORM IS BOOSTING OPTIMISM ACROSS TAIWANESE TECHNOLOGY STOCKS, WITH HYPERSCALERS, CPUS, MEMORY AND NEOCLOUDS RALLYING AS INVESTORS FOCUS ON THE POTENTIAL OF CONSUMER-FOCUSED AGENTIC AI. THE CPU THEME IS GAINING MOMENTUM AS…
 - 09/22 09:22 [FirstSquawk] ASIAN STOCKS RISE 0.5% AS TECHNOLOGY SHARES TRACK WALL STREET HIGHER, WITH SOUTH KOREA’S KOSPI JUMPING MORE THAN 2% AND SAMSUNG ELECTRONICS AND SK HYNIX LEADING GAINS; U.S. SEMICONDUCTOR STOCKS RALLIED MORE THAN 4%, WHILE META SURGED 11% AN…
 - 09/22 09:22 [FirstSquawk] MARKETS ALSO FOCUS ON THURSDAY’S TRUMP-XI SUMMIT, WITH AI, TRADE AND INVESTMENT EXPECTED TO DOMINATE TALKS, WHILE BRENT HOLDS AROUND $100 AS MIDDLE EAST SUPPLY CONCERNS EASE; SPOT GOLD ROSE 0.7% TO $4,373.50, WHILE BITCOIN FELL 0.7% TO $86,…
+- 09/22 09:25 [FirstSquawk] Asian shares start higher after a strong Wall Street session, with the Nasdaq outperforming on Meta’s 11% surge and AMD crossing the $1 trillion market-cap mark
+- 09/22 09:26 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTRY IS TO BRIEF LAWMAKERS ON A TEXAS GAS POWER PLANT AS THE FIRST POTENTIAL PROJECT IN A U.S. INVESTMENT PACKAGE, A SOURCE SAYS, ADDING THAT SOUTH KOREA AND THE U.S. HAVE NOT REACHED AGREEMENT ON A WESTINGHOUSE S…
+- 09/22 09:26 [FirstSquawk] Gold climbs as strong fundamentals continue to support prices — WSJ
+- 09/22 09:31 [FirstSquawk] Coinbase confirms reported issue is now resolved
+- 09/22 09:33 [FirstSquawk] Vietnam’s leader To Lam says US trade deal could be signed soon
+- 09/22 09:40 [FirstSquawk] Bill Pulte’s mortgage scrutiny extended to Trump’s political rivals — WSJ
+- 09/22 09:44 [FirstSquawk] Oil gains modestly as traders monitor signs of Mideast conflict diplomacy — WSJ

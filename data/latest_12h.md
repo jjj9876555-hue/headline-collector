@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 09:24 JST／対象: 09/21 21:24 〜 09/22 09:24 JST（時刻はすべて日本時間）
+生成: 2026-09-22 09:48 JST／対象: 09/21 21:48 〜 09/22 09:48 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 29 | 09/21 22:44 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 183 | 09/21 21:30 | 09/22 09:22 | 44分（06:24→07:08） |
-| financialjuice | 167 | 09/21 21:26 | 09/22 08:13 | 42分（07:30→08:13） |
+| FirstSquawk | 186 | 09/21 21:56 | 09/22 09:44 | 44分（06:24→07:08） |
+| financialjuice | 152 | 09/21 21:48 | 09/22 08:13 | 42分（07:30→08:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 366 行（統合前 383 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 355 行（統合前 370 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 21:26 [financialjuice/FirstSquawk] Iraqi Oil Minister: Most of the oil tankers passing through the Strait of Hormuz belong to Iraq - Tasnim News
-- 09/21 21:28 [financialjuice] Iraqi Oil Minister Khadir: Iraq has been able to increase oil exports to 4 million barrels in a single day - Tasnim News
-- 09/21 21:30 [financialjuice] CHICAGO NATIONAL ACTIVITY INDEX ACTUAL -0.04 (FORECAST -0.035, PREVIOUS -0.08) $MACRO
-- 09/21 21:31 [financialjuice] Chicago National Activity Index August Report
-- 09/21 21:35 [financialjuice] Bloomberg Business tv
-- 09/21 21:35 [financialjuice] USTR Greer: US-China talks were positive and constructive.
-- 09/21 21:36 [financialjuice] USTR Greer: Focus with China is on stability in trade ties.
-- 09/21 21:36 [financialjuice] USTR Greer: We're just going to have managed trade with China.
-- 09/21 21:36 [financialjuice] USTR Greer: The US is focused on outcomes rather than changing China.
-- 09/21 21:37 [financialjuice] USTR Greer repeats excess capacity probe is ongoing
-- 09/21 21:38 [financialjuice] USTR Greer: The US is developing rules of origin with Mexico.
-- 09/21 21:39 [financialjuice] USTR Greer: Talks continue on details of extending the China trade truce.
-- 09/21 21:40 [FirstSquawk] GREER INDICATES 3-6 MONTH TRUCE EXTENSION COULD BE POSSIBLE
-- 09/21 21:40 [financialjuice] USTR Greer: indicates a 3-6 month truce extension could be possible.
-- 09/21 21:42 [financialjuice] USTR Greer: Nothing off the table regarding Iran-related sanctions.
-- 09/21 21:44 [FirstSquawk] GREER SAYS NOTHING OFF TABLE REGARDING IRAN-RELATED SANCTIONS
-- 09/21 21:44 [FirstSquawk] GARDEN REACH SHIPBUILDERS: CO BOARD APPROVES ₹2,896 CRORE CAPEX FOR GREENFIELD SHIPYARD AT RAICHAK
-- 09/21 21:46 [financialjuice] The Gulf states urge a reset with Iran as conflict drags on - FT
 - 09/21 21:48 [financialjuice] USTR Greer contrasts positive Mexico talks with Canada differences.
 - 09/21 21:50 [financialjuice] USTR Greer: Canada has slow growth, and I like our model better.
 - 09/21 21:51 [financialjuice] USTR Greer interview with Bloomberg TV concludes.
@@ -390,3 +372,10 @@
 - 09/22 09:19 [FirstSquawk] META’S MUSE AI PLATFORM IS BOOSTING OPTIMISM ACROSS TAIWANESE TECHNOLOGY STOCKS, WITH HYPERSCALERS, CPUS, MEMORY AND NEOCLOUDS RALLYING AS INVESTORS FOCUS ON THE POTENTIAL OF CONSUMER-FOCUSED AGENTIC AI. THE CPU THEME IS GAINING MOMENTUM AS…
 - 09/22 09:22 [FirstSquawk] ASIAN STOCKS RISE 0.5% AS TECHNOLOGY SHARES TRACK WALL STREET HIGHER, WITH SOUTH KOREA’S KOSPI JUMPING MORE THAN 2% AND SAMSUNG ELECTRONICS AND SK HYNIX LEADING GAINS; U.S. SEMICONDUCTOR STOCKS RALLIED MORE THAN 4%, WHILE META SURGED 11% AN…
 - 09/22 09:22 [FirstSquawk] MARKETS ALSO FOCUS ON THURSDAY’S TRUMP-XI SUMMIT, WITH AI, TRADE AND INVESTMENT EXPECTED TO DOMINATE TALKS, WHILE BRENT HOLDS AROUND $100 AS MIDDLE EAST SUPPLY CONCERNS EASE; SPOT GOLD ROSE 0.7% TO $4,373.50, WHILE BITCOIN FELL 0.7% TO $86,…
+- 09/22 09:25 [FirstSquawk] Asian shares start higher after a strong Wall Street session, with the Nasdaq outperforming on Meta’s 11% surge and AMD crossing the $1 trillion market-cap mark
+- 09/22 09:26 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTRY IS TO BRIEF LAWMAKERS ON A TEXAS GAS POWER PLANT AS THE FIRST POTENTIAL PROJECT IN A U.S. INVESTMENT PACKAGE, A SOURCE SAYS, ADDING THAT SOUTH KOREA AND THE U.S. HAVE NOT REACHED AGREEMENT ON A WESTINGHOUSE S…
+- 09/22 09:26 [FirstSquawk] Gold climbs as strong fundamentals continue to support prices — WSJ
+- 09/22 09:31 [FirstSquawk] Coinbase confirms reported issue is now resolved
+- 09/22 09:33 [FirstSquawk] Vietnam’s leader To Lam says US trade deal could be signed soon
+- 09/22 09:40 [FirstSquawk] Bill Pulte’s mortgage scrutiny extended to Trump’s political rivals — WSJ
+- 09/22 09:44 [FirstSquawk] Oil gains modestly as traders monitor signs of Mideast conflict diplomacy — WSJ
