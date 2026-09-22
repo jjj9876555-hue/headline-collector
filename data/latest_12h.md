@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 03:07 JST／対象: 09/22 15:07 〜 09/23 03:07 JST（時刻はすべて日本時間）
+生成: 2026-09-23 03:28 JST／対象: 09/22 15:28 〜 09/23 03:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 155 | 09/22 15:22 | 09/23 03:01 | 35分（01:56→02:31） |
-| financialjuice | 197 | 09/22 15:48 | 09/23 03:02 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 155 | 09/22 15:49 | 09/23 03:11 | 35分（01:56→02:31） |
+| financialjuice | 203 | 09/22 15:48 | 09/23 03:20 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 364 行（統合前 380 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 370 行（統合前 386 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 15:22 [FirstSquawk] Deutsche Bank lowers Novo Nordisk target to DKK 245 from DKK 265
-- 09/22 15:25 [FirstSquawk] Australia’s benchmark S&P/ASX 200 rises 0.3% to 8,757.80
 - 09/22 15:48 [financialjuice] Russian defence ministry: Russian forces hit oil refinery in Ukraine's Kremenchuk - TASS
 - 09/22 15:49 [FirstSquawk] FRANCE (JUL) RETAIL SALES EX-AUTO MOM ACTUAL: 0.8% VS 0.4% PREVIOUS
 - 09/22 15:49 [FirstSquawk] Russian forces strike oil refinery in Ukraine’s Kremenchuk, Defence Ministry says — TASS
@@ -388,3 +386,11 @@
 - 09/23 02:59 [FirstSquawk] BESSENT EMERGES AS FRONTRUNNER FOR TRUMP’S NEW ‘AI CZAR’ ROLE — SEMAFOR
 - 09/23 03:01 [FirstSquawk] FLIGHTS FROM TEHRAN TO BAGHDAD AND MUSCAT HAVE BEEN CANCELLED STARTING WEDNESDAY MIDNIGHT LOCAL TIME, IRAN'S TASNIM NEWS AGENCY SAYS, ADDING THAT IRAN IS WORKING ON DIVERTING BAGHDAD FLIGHTS TO NAJAF, WITH REMAINING INTERNATIONAL FLIGHTS IN…
 - 09/23 03:02 [financialjuice] Flights from Tehran to Baghdad and Muscat cancelled starting Wednesday midnight local time; Iran is working on diverting Baghdad flights to Najaf, other international flights including Istanbul still ongoing - Tasnim News
+- 09/23 03:11 [FirstSquawk] IRAQ ORDERS SUSPENSION OF IRANIAN FLIGHTS TO BAGHDAD FROM WEDNESDAY MIDNIGHT — SOURCES
+- 09/23 03:11 [FirstSquawk] IRAQ DISCUSSING DIVERTING IRANIAN AIRWAYS FLIGHTS FROM BAGHDAD TO NAJAF AIRPORT — SOURCES
+- 09/23 03:16 [financialjuice] Fed's Barkin: Businesses and institutions are less reluctant to make investment and spending decisions after era of uncertainty
+- 09/23 03:16 [financialjuice] Fed's Barkin: Many businesses still feel they have pricing power
+- 09/23 03:16 [financialjuice] Fed's Barkin: Would not yet make an overheating case, but economy is firming and not weakening
+- 09/23 03:16 [financialjuice] Fed's Barkin: Tempering business expectations about inflation may help cool price pressures versus needing to rely on demand destruction
+- 09/23 03:17 [financialjuice] Fed's Barkin: Seeing more price pressures than I'm comfortable with
+- 09/23 03:20 [financialjuice] OpenAI introduces GPT-6 Sol & Luna, expanding the GPT-6 universe

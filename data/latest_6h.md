@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 03:07 JST／対象: 09/22 21:07 〜 09/23 03:07 JST（時刻はすべて日本時間）
+生成: 2026-09-23 03:28 JST／対象: 09/22 21:28 〜 09/23 03:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/22 21:08 | 09/22 21:26 | 15分（21:11→21:26） |
-| FirstSquawk | 102 | 09/22 21:07 | 09/23 03:01 | 35分（01:56→02:31） |
-| financialjuice | 154 | 09/22 21:10 | 09/23 03:02 | 20分（21:15→21:36） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 100 | 09/22 21:38 | 09/23 03:11 | 35分（01:56→02:31） |
+| financialjuice | 157 | 09/22 21:36 | 09/23 03:20 | 16分（22:12→22:29） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 252 行（統合前 266 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 251 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 21:07 [FirstSquawk] ASML EXEC: EUROPE’S BIGGEST FIRM HAS NO SALES IN EUROPE
-- 09/22 21:08 [DeItaone] PUTIN HOLDS PHONE CALL WITH SAUDI MBS - RIA
-- 09/22 21:10 [financialjuice] China's Xi unlikely to bring business delegation to meeting with trump - WSJ citing Sources
-- 09/22 21:11 [DeItaone] TRUMP-XI SUMMIT EXPECTED TO BE LIGHT ON MAJOR DEALS Xi Jinping is unlikely to bring a delegation of Chinese CEOs to Washington this week, according to the WSJ, lowering expectations for major business agreements. Trump and Xi are expected t…
-- 09/22 21:12 [financialjuice] Kremlin: Putin and Saudi Crown Prince discussed Yemen and the Middle East; putin and Saudi Crown Prince call for safe passage through Hormuz
-- 09/22 21:15 [FirstSquawk] US ADP EMPLOYMENT CHANGE WEEKLY ACTUAL: 20K VS 16.30K PREVIOUS
-- 09/22 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 20K (FORECAST -, PREVIOUS 16.25K) $MACRO
-- 09/22 21:21 [FirstSquawk] TRUMP SUMMIT WITH XI UNLIKELY TO INCLUDE CHINESE CEOS - WSJ
-- 09/22 21:26 [DeItaone/FirstSquawk] KALSHI ASKS CFTC TO ALLOW MARGIN TRADING ON ITS PLATFORM, LETTING USERS BUY WITH BORROWED FUNDS- CNBC
 - 09/22 21:36 [financialjuice] Trump's UN speech to make the case for how he uses America's power to confront Iran, cartel violence and other threats, reshaping the world to help the US - White House official tells Fox News
 - 09/22 21:38 [FirstSquawk] CME GROUP TO EXPAND CRYPTO DERIVATIVES SUITE WITH BITCOIN CASH AND UNISWAP FUTURES
 - 09/22 21:38 [FirstSquawk] WH OFFICIAL: TRUMP UN SPEECH TO PRESS CASE FOR CONFRONTING IRAN, CARTELS - FOX
@@ -276,3 +267,11 @@
 - 09/23 02:59 [FirstSquawk] BESSENT EMERGES AS FRONTRUNNER FOR TRUMP’S NEW ‘AI CZAR’ ROLE — SEMAFOR
 - 09/23 03:01 [FirstSquawk] FLIGHTS FROM TEHRAN TO BAGHDAD AND MUSCAT HAVE BEEN CANCELLED STARTING WEDNESDAY MIDNIGHT LOCAL TIME, IRAN'S TASNIM NEWS AGENCY SAYS, ADDING THAT IRAN IS WORKING ON DIVERTING BAGHDAD FLIGHTS TO NAJAF, WITH REMAINING INTERNATIONAL FLIGHTS IN…
 - 09/23 03:02 [financialjuice] Flights from Tehran to Baghdad and Muscat cancelled starting Wednesday midnight local time; Iran is working on diverting Baghdad flights to Najaf, other international flights including Istanbul still ongoing - Tasnim News
+- 09/23 03:11 [FirstSquawk] IRAQ ORDERS SUSPENSION OF IRANIAN FLIGHTS TO BAGHDAD FROM WEDNESDAY MIDNIGHT — SOURCES
+- 09/23 03:11 [FirstSquawk] IRAQ DISCUSSING DIVERTING IRANIAN AIRWAYS FLIGHTS FROM BAGHDAD TO NAJAF AIRPORT — SOURCES
+- 09/23 03:16 [financialjuice] Fed's Barkin: Businesses and institutions are less reluctant to make investment and spending decisions after era of uncertainty
+- 09/23 03:16 [financialjuice] Fed's Barkin: Many businesses still feel they have pricing power
+- 09/23 03:16 [financialjuice] Fed's Barkin: Would not yet make an overheating case, but economy is firming and not weakening
+- 09/23 03:16 [financialjuice] Fed's Barkin: Tempering business expectations about inflation may help cool price pressures versus needing to rely on demand destruction
+- 09/23 03:17 [financialjuice] Fed's Barkin: Seeing more price pressures than I'm comfortable with
+- 09/23 03:20 [financialjuice] OpenAI introduces GPT-6 Sol & Luna, expanding the GPT-6 universe

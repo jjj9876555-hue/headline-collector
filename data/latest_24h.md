@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 03:07 JST／対象: 09/22 03:07 〜 09/23 03:07 JST（時刻はすべて日本時間）
+生成: 2026-09-23 03:28 JST／対象: 09/22 03:28 〜 09/23 03:28 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 349 | 09/22 03:15 | 09/23 03:01 | 44分（06:24→07:08） |
-| financialjuice | 270 | 09/22 03:09 | 09/23 03:02 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 349 | 09/22 03:43 | 09/23 03:11 | 44分（06:24→07:08） |
+| financialjuice | 268 | 09/22 03:31 | 09/23 03:20 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 630 行（統合前 648 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 628 行（統合前 646 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 03:09 [financialjuice] Trump praises Lockheed Martin - Truth Social. $LMT
-- 09/22 03:15 [FirstSquawk] TRUMP SAYS HE IS 'JUST LEAVING THE WHITE HOUSE LAWN ON THE MAIDEN VOYAGE FROM THE NEWLY BUILT, AND VERY BEAUTIFUL, HELIPORT', THANKING LOCKHEED MARTIN CEO JIM TAICLET FOR WHAT HE CALLS A 'VALUABLE CONTRIBUTION TO OUR COUNTRY', SAYING THE GO…
-- 09/22 03:15 [FirstSquawk] TRUMP THANKS THE 'GREAT CONSTRUCTION WORKERS AND STONE MASONS' OF THE WASHINGTON, D.C. AREA AND CLARK CONSTRUCTION FOR ITS 'WONDERFUL SUPERVISORY WORK', ADDING 'GOD BLESS AMERICA'. - TRUTH SOCIAL
-- 09/22 03:19 [financialjuice] Feds' Musalem: Without further policy restraint it is more likely inflation will remain substantially above 2% target 18 months from now.
-- 09/22 03:20 [financialjuice] Feds' Musalem: Interest rates likely need to rise further to tame inflation that is both demand and supply-driven.
-- 09/22 03:20 [financialjuice] Feds' Musalem: Labor market stable around full employment and not a source of inflation pressure.
-- 09/22 03:20 [financialjuice] Feds' Musalem: Commodity shock is more than just oil, includes base metals like copper.
-- 09/22 03:20 [financialjuice] Fed's Musalem: Better for rate hikes to be 'earlier and incremental rather than later and larger.
-- 09/22 03:20 [financialjuice] Fed's Musalem: Even when stripping out supply-related factors, inflation is still 'too high' at up to 3%.
-- 09/22 03:21 [financialjuice] Fed's Musalem: Business contacts say they are planning on price increases closer to 3%.
 - 09/22 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $95.78 a barrel down $4.52, 4.51%
 - 09/22 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.8895 a gallon
 - 09/22 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.4699 a gallon
@@ -654,3 +644,11 @@
 - 09/23 02:59 [FirstSquawk] BESSENT EMERGES AS FRONTRUNNER FOR TRUMP’S NEW ‘AI CZAR’ ROLE — SEMAFOR
 - 09/23 03:01 [FirstSquawk] FLIGHTS FROM TEHRAN TO BAGHDAD AND MUSCAT HAVE BEEN CANCELLED STARTING WEDNESDAY MIDNIGHT LOCAL TIME, IRAN'S TASNIM NEWS AGENCY SAYS, ADDING THAT IRAN IS WORKING ON DIVERTING BAGHDAD FLIGHTS TO NAJAF, WITH REMAINING INTERNATIONAL FLIGHTS IN…
 - 09/23 03:02 [financialjuice] Flights from Tehran to Baghdad and Muscat cancelled starting Wednesday midnight local time; Iran is working on diverting Baghdad flights to Najaf, other international flights including Istanbul still ongoing - Tasnim News
+- 09/23 03:11 [FirstSquawk] IRAQ ORDERS SUSPENSION OF IRANIAN FLIGHTS TO BAGHDAD FROM WEDNESDAY MIDNIGHT — SOURCES
+- 09/23 03:11 [FirstSquawk] IRAQ DISCUSSING DIVERTING IRANIAN AIRWAYS FLIGHTS FROM BAGHDAD TO NAJAF AIRPORT — SOURCES
+- 09/23 03:16 [financialjuice] Fed's Barkin: Businesses and institutions are less reluctant to make investment and spending decisions after era of uncertainty
+- 09/23 03:16 [financialjuice] Fed's Barkin: Many businesses still feel they have pricing power
+- 09/23 03:16 [financialjuice] Fed's Barkin: Would not yet make an overheating case, but economy is firming and not weakening
+- 09/23 03:16 [financialjuice] Fed's Barkin: Tempering business expectations about inflation may help cool price pressures versus needing to rely on demand destruction
+- 09/23 03:17 [financialjuice] Fed's Barkin: Seeing more price pressures than I'm comfortable with
+- 09/23 03:20 [financialjuice] OpenAI introduces GPT-6 Sol & Luna, expanding the GPT-6 universe
