@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 10:45 JST／対象: 09/21 22:45 〜 09/22 10:45 JST（時刻はすべて日本時間）
+生成: 2026-09-22 10:58 JST／対象: 09/21 22:58 〜 09/22 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/21 22:49 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 197 | 09/21 22:48 | 09/22 10:43 | 44分（06:24→07:08） |
-| financialjuice | 130 | 09/21 22:52 | 09/22 08:13 | 42分（07:30→08:13） |
+| DeItaone | 26 | 09/21 23:03 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 195 | 09/21 22:59 | 09/22 10:53 | 44分（06:24→07:08） |
+| financialjuice | 124 | 09/21 22:58 | 09/22 08:13 | 42分（07:30→08:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 343 行（統合前 358 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 333 行（統合前 348 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 22:48 [FirstSquawk] TRUMP WEIGHED STRIKES ON YEMEN HOUTHIS OVER WEEKEND BEFORE HOLDING OFF - AXIOS
-- 09/21 22:49 [DeItaone] TRUMP WEIGHED HOUTHI STRIKES — THEN HELD OFF President Trump considered U.S. airstrikes against the Houthis in Yemen over the weekend after renewed Saudi requests for military help. CENTCOM reportedly prepared strike options, but Trump ulti…
-- 09/21 22:52 [financialjuice] ❗ MOO IMBALANCE S&P 500: -57.2 MLN NASDAQ 100: -22.5 MLN DOW 30: -11.8 MLN MAG 7: -7.3 MLN $MACRO
-- 09/21 22:52 [financialjuice] New York to require large AI developers to register with the state in November.
-- 09/21 22:52 [financialjuice] New York to require AI developers to report safety incidents in 72 hours.
-- 09/21 22:52 [FirstSquawk] RUSSIA SET TO EXTEND DIESEL EXPORT BAN BEYOND END-SEPTEMBER
-- 09/21 22:54 [financialjuice] Yemen Houthi Spokesman: The Saudi regime provided its airports and bases to the Zionists, allowing Israeli spy planes to fly towards Yemeni territory - Tasnim News.
-- 09/21 22:54 [FirstSquawk] NASDAQ 100 EXTENDS GAIN TO 1.5%, A SESSION HIGH
-- 09/21 22:56 [financialjuice] Russia set to extend Diesel export ban beyond the end of September.
-- 09/21 22:57 [FirstSquawk] OPENAI, ANTHROPIC NEARED DEAL EARLIER THIS YEAR TO STRESS-TEST EACH OTHER'S AI - INFORMATION
-- 09/21 22:57 [DeItaone] OPENAI AND ANTHROPIC NEARED DEAL TO STRESS-TEST EACH OTHER’S AI - THE INFORMATION
-- 09/21 22:57 [financialjuice] OpenAI and Anthropic in talks to stress test each other - The Information
 - 09/21 22:58 [financialjuice] OpenAI and Anthropic discussed stress tests this year - The Information
 - 09/21 22:59 [FirstSquawk] PARAMOUNT IS MOVING TO RESOLVE LAWSUITS, CLEARING THE PATH FOR A DEAL WITH WARNER BROS.
 - 09/21 23:00 [FirstSquawk] FED GOOLSBEE: NOT VIEWING RATE HIKE AS TAKING BACK 2025 CUTS
@@ -367,3 +355,5 @@
 - 09/22 10:30 [FirstSquawk] Hang Seng AI Index poised to jump nearly 3% at the open
 - 09/22 10:34 [FirstSquawk] Xbox plans hundreds of job cuts as it consolidates game studios — The Information
 - 09/22 10:43 [FirstSquawk] Canadian dollar falls to lowest level since Aug. 5 as US dollar strength weighs — FXStreet
+- 09/22 10:52 [FirstSquawk] Japan reiterates support for Nepal following flash floods at UN meeting — Kyodo
+- 09/22 10:53 [FirstSquawk] South Korea in talks with US over 5%-10% stake in Westinghouse — Yonhap

@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 10:45 JST／対象: 09/21 10:45 〜 09/22 10:45 JST（時刻はすべて日本時間）
+生成: 2026-09-22 10:58 JST／対象: 09/21 10:58 〜 09/22 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 339 | 09/21 10:48 | 09/22 10:43 | 44分（06:24→07:08） |
+| FirstSquawk | 339 | 09/21 11:04 | 09/22 10:53 | 44分（06:24→07:08） |
 | financialjuice | 236 | 09/21 11:02 | 09/22 08:13 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 10:48 [FirstSquawk] North Korea fires multiple short-range ballistic missiles toward Sea of Japan — Kyodo
-- 09/21 10:57 [FirstSquawk] NZ dollar languishes near two-month low as bears target 0.5700 - FX
 - 09/21 11:02 [financialjuice] China, US held candid, detailed, and constructive talks on key economic, trade issues: state media
 - 09/21 11:03 [financialjuice] China, US hold talks on artificial intelligence issues: state media
 - 09/21 11:04 [FirstSquawk] China and US discuss issues related to artificial intelligence — State Media
@@ -641,3 +639,5 @@
 - 09/22 10:30 [FirstSquawk] Hang Seng AI Index poised to jump nearly 3% at the open
 - 09/22 10:34 [FirstSquawk] Xbox plans hundreds of job cuts as it consolidates game studios — The Information
 - 09/22 10:43 [FirstSquawk] Canadian dollar falls to lowest level since Aug. 5 as US dollar strength weighs — FXStreet
+- 09/22 10:52 [FirstSquawk] Japan reiterates support for Nepal following flash floods at UN meeting — Kyodo
+- 09/22 10:53 [FirstSquawk] South Korea in talks with US over 5%-10% stake in Westinghouse — Yonhap
