@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 20:03 JST／対象: 09/21 20:03 〜 09/22 20:03 JST（時刻はすべて日本時間）
+生成: 2026-09-22 20:24 JST／対象: 09/21 20:24 〜 09/22 20:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 09/21 20:05 | 09/22 19:57 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 341 | 09/21 20:08 | 09/22 19:58 | 44分（06:24→07:08） |
+| DeItaone | 70 | 09/21 20:25 | 09/22 20:20 | ⚠ 1015分（02:22→19:18） |
+| FirstSquawk | 344 | 09/21 20:24 | 09/22 20:23 | 44分（06:24→07:08） |
 | financialjuice | 266 | 09/21 21:10 | 09/22 18:57 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 658 行（統合前 676 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 666 行（統合前 684 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 20:05 [DeItaone] U.S. DIESEL HITS RECORD $6.51 A GALLON U.S. diesel prices have surged to a record $6.51 a gallon, according to AAA. Prices are being driven higher by prolonged disruptions to Middle East energy flows and Russian refineries, tightening globa…
-- 09/21 20:08 [FirstSquawk] NISSAN EYES INCREASING US PRODUCTION AS NEW ROGUE HYBRID LAUNCHES – CNBC
-- 09/21 20:12 [FirstSquawk] FED GOOLSBEE: ARGUMENTS THE FED SHOULD CHEAPEN FEDERAL BORROWING COSTS ARE ONE OF THE REASONS FED INDEPENDENCE IS IMPORTANT
-- 09/21 20:13 [FirstSquawk] FED GOOLSBEE: IF FISCAL POLICY IS DRVING UP INFLATION THE FED HAS TO TAKE IT INTO ACCOUNT
-- 09/21 20:20 [FirstSquawk] PAKISTANI INTERIOR MINISTER VISITS TEHRAN, IRAN.
 - 09/21 20:24 [FirstSquawk] FED’S GOOLSBEE: THE 2% INFLATION TARGET IS STILL REALISTIC EVEN IN A WORLD OF REPEATED SUPPLY SHOCKS, MARKET EXPECTATIONS REFLECT FAITH IT WILL BE MET
 - 09/21 20:25 [DeItaone] FED’S GOOLSBEE: RATE CUTS POSSIBLE IF INFLATION HEADS TO 2% Fed’s Goolsbee remains optimistic inflation can return to the 2% target, provided demand does not overheat. He says the Fed currently has an inflation problem, not an employment pr…
 - 09/21 20:30 [FirstSquawk] CHINA PLANS TO DROP A 15% TARIFF ON US LNG THIS WEEK, POTENTIALLY REOPENING TRADE BETWEEN THE TWO NATIONS. NEW DEALS COULD FOLLOW.
@@ -682,3 +677,16 @@
 - 09/22 19:54 [DeItaone] U.S. DIESEL HITS FRESH RECORD AT $6.53 U.S. diesel prices climbed to a record $6.527 per gallon, up sharply from $3.688 a year ago. Supply is tightening as Russian diesel exports remain restricted and disruptions continue to crude flows thr…
 - 09/22 19:57 [DeItaone] YARDENI: DON’T EXPECT A GRAND BARGAIN FROM TRUMP-XI Yardeni Research expects no major breakthrough when Trump and Xi meet Thursday, but sees scope for an extension of the trade truce and selective commercial deals. Potential progress includ…
 - 09/22 19:58 [FirstSquawk] AUTOZONE Q4 2026 EARNINGS - EPS $56.05 (EST $54.03) || NET SALES $6.6B (EST $6.7B) || COMP SALES +2.7% (EST +4.17%) || DOMESTIC COMP SALES +1.6% (EST +3.12%) || DOMESTIC COMMERCIAL SALES $1.91B (EST $1.92B) || INTERNATIONAL COMP SALES +10.7…
+- 09/22 20:06 [FirstSquawk] UK TAX AUTHORITY HAS ASSIGNED A PERSONAL COMPLIANCE MANAGER TO EACH BILLIONAIRE.
+- 09/22 20:10 [DeItaone] RUBIO: OPEN TO IRAN MEETING AT UN -NBC NEWS INTERVIEW
+- 09/22 20:11 [FirstSquawk] RUBIO:DON'T THINK ANYTHING IS SCHEDULED ON TRUMP-IRAN PRESIDENT
+- 09/22 20:11 [FirstSquawk] RUBIO: TRUMP IS OPEN TO MEETING WITH ANYBODY
+- 09/22 20:12 [DeItaone] DIMON WARNS AGAINST PUNISHING INDIA OVER RUSSIAN OIL JPMorgan CEO Jamie Dimon says the U.S. should avoid punishing India and global oil markets while pressuring Russia over Ukraine. Dimon warned that Indian refiners cannot easily replace Ru…
+- 09/22 20:13 [DeItaone] HORMUZ TALKS RUMORS SEND OIL LOWER Oil prices fell after reports suggested Iran could reopen the Strait of Hormuz within seven days if U.S. military pressure eases and the blockade on Iranian ports is lifted. However, Iranian sources have d…
+- 09/22 20:13 [FirstSquawk] IRANIAN SOURCES DENY REPORTS OF HORMUZ REOPENING DEALS - FARS
+- 09/22 20:15 [FirstSquawk] RUBIO: 60%-70% OF OIL FLOWS ARE COMING OUT, AND IT'S CLIMBING
+- 09/22 20:16 [DeItaone] TRUMP: U.S. HAS “MORE MUNITIONS THAN WE COULD EVER USE” President Trump rejected claims that the U.S. is running low on munitions, calling them false. Trump said the country has more munitions than it could possibly use and is currently exp…
+- 09/22 20:19 [DeItaone] CATHIE WOOD SHRUGS OFF FED RATE-HIKE FEARS ARK Invest CEO Cathie Wood says higher interest rates won’t derail the technology boom, arguing rapid innovation will drive stronger economic growth. Wood expects the current tech revolution to red…
+- 09/22 20:20 [DeItaone] CHINA PROBES DEEPSEEK, MOONSHOT OVER POTENTIAL DATA LEAKS TO ANTHROPIC - THE INFORMATION ANTHROPIC ALLEGED DEEPSEEK, MOONSHOT ROUTED SENSITIVE DATA TO CLAUDE- THE INFORMATION
+- 09/22 20:20 [FirstSquawk] CHINA PROBES DEEPSEEK ON CLAUDE USER DATA ROUTING: INFORMATION
+- 09/22 20:23 [FirstSquawk] Rumors of Negotiations Pull Oil Prices Down The simultaneous publication of positive news regarding Iran-US negotiations and the potential reopening of the Strait of Hormuz once again impacted the oil market and drove prices down. Most rece…

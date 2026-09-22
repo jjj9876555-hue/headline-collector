@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 20:03 JST／対象: 09/22 14:03 〜 09/22 20:03 JST（時刻はすべて日本時間）
+生成: 2026-09-22 20:24 JST／対象: 09/22 14:24 〜 09/22 20:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/22 19:18 | 09/22 19:57 | 16分（19:37→19:54） |
-| FirstSquawk | 49 | 09/22 14:11 | 09/22 19:58 | 33分（19:13→19:46） |
-| financialjuice | 39 | 09/22 14:11 | 09/22 18:57 | ⚠ 57分（17:02→18:00） |
+| DeItaone | 14 | 09/22 19:18 | 09/22 20:20 | 16分（19:37→19:54） |
+| FirstSquawk | 53 | 09/22 14:24 | 09/22 20:23 | 33分（19:13→19:46） |
+| financialjuice | 32 | 09/22 15:00 | 09/22 18:57 | ⚠ 57分（17:02→18:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 96 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 99 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 14:11 [financialjuice] Current decline in house prices aligns with previous trends
-- 09/22 14:11 [financialjuice] Boom is adding to surplus demand in Australian economy
-- 09/22 14:11 [financialjuice] Russia launches massive strike on targets in Ukraine: defence ministry
-- 09/22 14:11 [financialjuice] Unemployment of 4.5% to 5.0% probably eases inflation pressure
-- 09/22 14:11 [financialjuice] Russia says it strikes sea vessels and port facilities in Ukraine
-- 09/22 14:11 [FirstSquawk] Russia conducts large-scale strike on targets across Ukraine, defence ministry says — IFX
-- 09/22 14:11 [FirstSquawk] Russia says it carried out strikes on vessels and port infrastructure in Ukraine
-- 09/22 14:19 [financialjuice] Economists believe neutral rates are increasing globally, driving up real bond yields
-- 09/22 14:20 [financialjuice] Russian overnight strike on Ukraine's city of Dnipro kills three: governor
-- 09/22 14:20 [FirstSquawk] Russian strike on Ukraine’s Dnipro kills three overnight, governor says
 - 09/22 14:24 [FirstSquawk] US Vice President Vance: US seeks to prevent Iran from rebuilding its nuclear programme
 - 09/22 14:30 [FirstSquawk] Boeing target price cut to $265 from $295 by Jefferies
 - 09/22 14:31 [FirstSquawk] Iranian President: Enemy aims to block all roads into Iran and force it to surrender — Al Jazeera
@@ -120,3 +110,16 @@
 - 09/22 19:54 [DeItaone] U.S. DIESEL HITS FRESH RECORD AT $6.53 U.S. diesel prices climbed to a record $6.527 per gallon, up sharply from $3.688 a year ago. Supply is tightening as Russian diesel exports remain restricted and disruptions continue to crude flows thr…
 - 09/22 19:57 [DeItaone] YARDENI: DON’T EXPECT A GRAND BARGAIN FROM TRUMP-XI Yardeni Research expects no major breakthrough when Trump and Xi meet Thursday, but sees scope for an extension of the trade truce and selective commercial deals. Potential progress includ…
 - 09/22 19:58 [FirstSquawk] AUTOZONE Q4 2026 EARNINGS - EPS $56.05 (EST $54.03) || NET SALES $6.6B (EST $6.7B) || COMP SALES +2.7% (EST +4.17%) || DOMESTIC COMP SALES +1.6% (EST +3.12%) || DOMESTIC COMMERCIAL SALES $1.91B (EST $1.92B) || INTERNATIONAL COMP SALES +10.7…
+- 09/22 20:06 [FirstSquawk] UK TAX AUTHORITY HAS ASSIGNED A PERSONAL COMPLIANCE MANAGER TO EACH BILLIONAIRE.
+- 09/22 20:10 [DeItaone] RUBIO: OPEN TO IRAN MEETING AT UN -NBC NEWS INTERVIEW
+- 09/22 20:11 [FirstSquawk] RUBIO:DON'T THINK ANYTHING IS SCHEDULED ON TRUMP-IRAN PRESIDENT
+- 09/22 20:11 [FirstSquawk] RUBIO: TRUMP IS OPEN TO MEETING WITH ANYBODY
+- 09/22 20:12 [DeItaone] DIMON WARNS AGAINST PUNISHING INDIA OVER RUSSIAN OIL JPMorgan CEO Jamie Dimon says the U.S. should avoid punishing India and global oil markets while pressuring Russia over Ukraine. Dimon warned that Indian refiners cannot easily replace Ru…
+- 09/22 20:13 [DeItaone] HORMUZ TALKS RUMORS SEND OIL LOWER Oil prices fell after reports suggested Iran could reopen the Strait of Hormuz within seven days if U.S. military pressure eases and the blockade on Iranian ports is lifted. However, Iranian sources have d…
+- 09/22 20:13 [FirstSquawk] IRANIAN SOURCES DENY REPORTS OF HORMUZ REOPENING DEALS - FARS
+- 09/22 20:15 [FirstSquawk] RUBIO: 60%-70% OF OIL FLOWS ARE COMING OUT, AND IT'S CLIMBING
+- 09/22 20:16 [DeItaone] TRUMP: U.S. HAS “MORE MUNITIONS THAN WE COULD EVER USE” President Trump rejected claims that the U.S. is running low on munitions, calling them false. Trump said the country has more munitions than it could possibly use and is currently exp…
+- 09/22 20:19 [DeItaone] CATHIE WOOD SHRUGS OFF FED RATE-HIKE FEARS ARK Invest CEO Cathie Wood says higher interest rates won’t derail the technology boom, arguing rapid innovation will drive stronger economic growth. Wood expects the current tech revolution to red…
+- 09/22 20:20 [DeItaone] CHINA PROBES DEEPSEEK, MOONSHOT OVER POTENTIAL DATA LEAKS TO ANTHROPIC - THE INFORMATION ANTHROPIC ALLEGED DEEPSEEK, MOONSHOT ROUTED SENSITIVE DATA TO CLAUDE- THE INFORMATION
+- 09/22 20:20 [FirstSquawk] CHINA PROBES DEEPSEEK ON CLAUDE USER DATA ROUTING: INFORMATION
+- 09/22 20:23 [FirstSquawk] Rumors of Negotiations Pull Oil Prices Down The simultaneous publication of positive news regarding Iran-US negotiations and the potential reopening of the Strait of Hormuz once again impacted the oil market and drove prices down. Most rece…

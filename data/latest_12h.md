@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 20:03 JST／対象: 09/22 08:03 〜 09/22 20:03 JST（時刻はすべて日本時間）
+生成: 2026-09-22 20:24 JST／対象: 09/22 08:24 〜 09/22 20:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/22 19:18 | 09/22 19:57 | 16分（19:37→19:54） |
-| FirstSquawk | 165 | 09/22 08:05 | 09/22 19:58 | 34分（13:22→13:56） |
-| financialjuice | 66 | 09/22 08:13 | 09/22 18:57 | ⚠ 248分（08:13→12:21） |
+| DeItaone | 14 | 09/22 19:18 | 09/22 20:20 | 16分（19:37→19:54） |
+| FirstSquawk | 168 | 09/22 08:24 | 09/22 20:23 | 34分（13:22→13:56） |
+| financialjuice | 65 | 09/22 12:21 | 09/22 18:57 | ⚠ 66分（12:56→14:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 239 行（統合前 239 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 247 行（統合前 247 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 08:05 [FirstSquawk] LIBYA'S SHARARA OIL FIELD HAS SEEN PRODUCTION FALL MORE THAN HALF TO ABOUT 127,000 BARRELS PER DAY AFTER AN ARMED GROUP SHUT A PIPELINE TO THE ZAWIYA EXPORT TERMINAL, WITH MOST OUTPUT BEING REDIRECTED TO MELLITAH PORT. A PROLONGED SHUTDOWN …
-- 09/22 08:07 [FirstSquawk] SMMT: UK EXCLUSION FROM EU ‘MADE IN EUROPE’ PLAN RISKS BRITISH AUTO TRADE MACRO - URGES EU TO RECOGNISE UK-BUILT VEHICLES, PARTS AND MATERIALS AS EQUIVALENT TO EU PRODUCTS TO PROTECT COMPETITION, CONSUMER CHOICE AND SUPPLY CHAINS
-- 09/22 08:13 [financialjuice] IMF’s Georgieva: lender to open office in Caracas next year
-- 09/22 08:19 [FirstSquawk] NIKKEI FUTURES TRADE 2.26% ABOVE CASH CLOSE AT 66,490 VS 65,018
-- 09/22 08:23 [FirstSquawk] EU FOREIGN POLICY CHIEF KAJA KALLAS SAYS THE EU NEEDS TO IMPOSE GREATER COSTS ON RUSSIA AS MOSCOW TAKES GREATER RISKS, WHILE SEEKING A SOONER ROLLOVER OF EXISTING SANCTIONS. KALLAS SAYS THE EU’S RED SEA NAVAL OPERATION NEEDS ADDITIONAL NAVA…
 - 09/22 08:24 [FirstSquawk] LOCKHEED MARTIN SECURES A $1.2 BILLION CONTRACT FOR PRECISION STRIKE MISSILE (PRSM) INCREMENT 2 AFTER ITS SECOND MARITIME TEST, STRENGTHENING ITS ROLE IN THE U.S. ARMY’S LONG-RANGE PRECISION STRIKE PROGRAM. PRSM INCREMENT 2 FEATURES A MULTI…
 - 09/22 08:28 [FirstSquawk] MICROSOFT CEO SATYA NADELLA IS SET TO JOIN TECH LEADERS INCLUDING APPLE’S TIM COOK, NVIDIA’S JENSEN HUANG, OPENAI’S SAM ALTMAN AND QUALCOMM’S CRISTIANO AMON AT THE WHITE HOUSE STATE DINNER FOR CHINESE PRESIDENT XI JINPING ON SEPT. 24. THE D…
 - 09/22 08:30 [FirstSquawk] FRENCH MACRON SAYS TALKS WITH TRUMP ON RED SEA & UKRAINE WERE CONSTRUCTIVE
@@ -263,3 +258,16 @@
 - 09/22 19:54 [DeItaone] U.S. DIESEL HITS FRESH RECORD AT $6.53 U.S. diesel prices climbed to a record $6.527 per gallon, up sharply from $3.688 a year ago. Supply is tightening as Russian diesel exports remain restricted and disruptions continue to crude flows thr…
 - 09/22 19:57 [DeItaone] YARDENI: DON’T EXPECT A GRAND BARGAIN FROM TRUMP-XI Yardeni Research expects no major breakthrough when Trump and Xi meet Thursday, but sees scope for an extension of the trade truce and selective commercial deals. Potential progress includ…
 - 09/22 19:58 [FirstSquawk] AUTOZONE Q4 2026 EARNINGS - EPS $56.05 (EST $54.03) || NET SALES $6.6B (EST $6.7B) || COMP SALES +2.7% (EST +4.17%) || DOMESTIC COMP SALES +1.6% (EST +3.12%) || DOMESTIC COMMERCIAL SALES $1.91B (EST $1.92B) || INTERNATIONAL COMP SALES +10.7…
+- 09/22 20:06 [FirstSquawk] UK TAX AUTHORITY HAS ASSIGNED A PERSONAL COMPLIANCE MANAGER TO EACH BILLIONAIRE.
+- 09/22 20:10 [DeItaone] RUBIO: OPEN TO IRAN MEETING AT UN -NBC NEWS INTERVIEW
+- 09/22 20:11 [FirstSquawk] RUBIO:DON'T THINK ANYTHING IS SCHEDULED ON TRUMP-IRAN PRESIDENT
+- 09/22 20:11 [FirstSquawk] RUBIO: TRUMP IS OPEN TO MEETING WITH ANYBODY
+- 09/22 20:12 [DeItaone] DIMON WARNS AGAINST PUNISHING INDIA OVER RUSSIAN OIL JPMorgan CEO Jamie Dimon says the U.S. should avoid punishing India and global oil markets while pressuring Russia over Ukraine. Dimon warned that Indian refiners cannot easily replace Ru…
+- 09/22 20:13 [DeItaone] HORMUZ TALKS RUMORS SEND OIL LOWER Oil prices fell after reports suggested Iran could reopen the Strait of Hormuz within seven days if U.S. military pressure eases and the blockade on Iranian ports is lifted. However, Iranian sources have d…
+- 09/22 20:13 [FirstSquawk] IRANIAN SOURCES DENY REPORTS OF HORMUZ REOPENING DEALS - FARS
+- 09/22 20:15 [FirstSquawk] RUBIO: 60%-70% OF OIL FLOWS ARE COMING OUT, AND IT'S CLIMBING
+- 09/22 20:16 [DeItaone] TRUMP: U.S. HAS “MORE MUNITIONS THAN WE COULD EVER USE” President Trump rejected claims that the U.S. is running low on munitions, calling them false. Trump said the country has more munitions than it could possibly use and is currently exp…
+- 09/22 20:19 [DeItaone] CATHIE WOOD SHRUGS OFF FED RATE-HIKE FEARS ARK Invest CEO Cathie Wood says higher interest rates won’t derail the technology boom, arguing rapid innovation will drive stronger economic growth. Wood expects the current tech revolution to red…
+- 09/22 20:20 [DeItaone] CHINA PROBES DEEPSEEK, MOONSHOT OVER POTENTIAL DATA LEAKS TO ANTHROPIC - THE INFORMATION ANTHROPIC ALLEGED DEEPSEEK, MOONSHOT ROUTED SENSITIVE DATA TO CLAUDE- THE INFORMATION
+- 09/22 20:20 [FirstSquawk] CHINA PROBES DEEPSEEK ON CLAUDE USER DATA ROUTING: INFORMATION
+- 09/22 20:23 [FirstSquawk] Rumors of Negotiations Pull Oil Prices Down The simultaneous publication of positive news regarding Iran-US negotiations and the potential reopening of the Strait of Hormuz once again impacted the oil market and drove prices down. Most rece…
