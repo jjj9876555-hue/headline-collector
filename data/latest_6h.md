@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 10:32 JST／対象: 09/22 04:32 〜 09/22 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-22 10:45 JST／対象: 09/22 04:45 〜 09/22 10:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 105 | 09/22 04:38 | 09/22 10:30 | 44分（06:24→07:08） |
+| FirstSquawk | 100 | 09/22 04:52 | 09/22 10:43 | 44分（06:24→07:08） |
 | financialjuice | 18 | 09/22 04:46 | 09/22 08:13 | 42分（07:30→08:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 122 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 117 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 04:38 [FirstSquawk] LIBYA’S SHARARA OILFIELD OUTPUT PLUNGES AFTER ARMED GROUP SHUTS VALVE ON CRUDE PIPELINE TO ZAWIYA PORT — NOC
-- 09/22 04:39 [FirstSquawk] POLISH ARMY LAUNCHES PREVENTIVE MILITARY AVIATION OPERATIONS AFTER RUSSIAN AIR ATTACK ON UKRAINE; AIR DEFENSE & RADAR FORCES ON HIGH ALERT
-- 09/22 04:39 [FirstSquawk] NASDAQ 100 SURGES 3% AS S&P 500 RISES 1.6%
-- 09/22 04:40 [FirstSquawk] ZELENSKIY MEETS CIA CHIEF RATCLIFFE IN IRELAND, SOURCES SAY
-- 09/22 04:41 [FirstSquawk] CANADA UNVEILS DRAFT LEGISLATION TO FAST-TRACK APPROVALS FOR MAJOR PROJECTS
-- 09/22 04:43 [FirstSquawk] CANADA DRAFT LAW AIMS TO COMPLETE FEDERAL REVIEWS & DECISIONS WITHIN ONE YEAR OF COMPREHENSIVE APPLICATION SUBMISSION
-- 09/22 04:45 [FirstSquawk] EU DISCUSSIONS CONTINUE ON RENEWING RUSSIA SANCTIONS; AMBASSADORS TO RECONVENE TUESDAY MORNING — EU DIPLOMAT
 - 09/22 04:46 [financialjuice] Canada unveils draft legislation to speed up approvals of major projects. Introduces bill to speed project reviews to one year. To formally designate ‘strategic trade corridors.
 - 09/22 04:52 [FirstSquawk] IRAN’S MISSILE, DRONE & AIR DEFENCE CAPABILITIES CONTINUE TO GROW — NOURNEWS
 - 09/22 04:56 [financialjuice] Downing Street: UK PM underlined commitment to working with Mauritius and US on future of military base on Diego Garcia.
@@ -146,3 +139,5 @@
 - 09/22 10:24 [FirstSquawk] EU’s von der Leyen says free trade agreement agreed with Philippines
 - 09/22 10:27 [FirstSquawk] China’s STAR 50 Index set for a 2.5% gain at the open
 - 09/22 10:30 [FirstSquawk] Hang Seng AI Index poised to jump nearly 3% at the open
+- 09/22 10:34 [FirstSquawk] Xbox plans hundreds of job cuts as it consolidates game studios — The Information
+- 09/22 10:43 [FirstSquawk] Canadian dollar falls to lowest level since Aug. 5 as US dollar strength weighs — FXStreet

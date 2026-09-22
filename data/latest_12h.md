@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 10:32 JST／対象: 09/21 22:32 〜 09/22 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-22 10:45 JST／対象: 09/21 22:45 〜 09/22 10:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/21 22:44 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 198 | 09/21 22:37 | 09/22 10:30 | 44分（06:24→07:08） |
+| DeItaone | 28 | 09/21 22:49 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 197 | 09/21 22:48 | 09/22 10:43 | 44分（06:24→07:08） |
 | financialjuice | 130 | 09/21 22:52 | 09/22 08:13 | 42分（07:30→08:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 345 行（統合前 360 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 343 行（統合前 358 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 22:37 [FirstSquawk] UKRAINE’S ZELENSKIY: RUSSIA MUST STOP TARGETING UKRAINE'S ENERGY SECTOR; WILL FOLLOW WITH DE-ESCALATION ONCE RUSSIA STOPS
-- 09/21 22:39 [FirstSquawk] META EXTENDS GAINS TO 5%
-- 09/21 22:42 [FirstSquawk] EU SET TO LIFT RUSSIA SANCTIONS ON ALISHER USMANOV AND MIKHAIL FRIDMAN, BARRING ANY LATE OBJECTIONS FROM EU GOVERNMENTS, DIPLOMATS SAY
-- 09/21 22:44 [DeItaone] RUSSIA SET TO EXTEND DIESEL EXPORT BAN BEYOND END OF SEPTEMBER
 - 09/21 22:48 [FirstSquawk] TRUMP WEIGHED STRIKES ON YEMEN HOUTHIS OVER WEEKEND BEFORE HOLDING OFF - AXIOS
 - 09/21 22:49 [DeItaone] TRUMP WEIGHED HOUTHI STRIKES — THEN HELD OFF President Trump considered U.S. airstrikes against the Houthis in Yemen over the weekend after renewed Saudi requests for military help. CENTCOM reportedly prepared strike options, but Trump ulti…
 - 09/21 22:52 [financialjuice] ❗ MOO IMBALANCE S&P 500: -57.2 MLN NASDAQ 100: -22.5 MLN DOW 30: -11.8 MLN MAG 7: -7.3 MLN $MACRO
@@ -369,3 +365,5 @@
 - 09/22 10:24 [FirstSquawk] EU’s von der Leyen says free trade agreement agreed with Philippines
 - 09/22 10:27 [FirstSquawk] China’s STAR 50 Index set for a 2.5% gain at the open
 - 09/22 10:30 [FirstSquawk] Hang Seng AI Index poised to jump nearly 3% at the open
+- 09/22 10:34 [FirstSquawk] Xbox plans hundreds of job cuts as it consolidates game studios — The Information
+- 09/22 10:43 [FirstSquawk] Canadian dollar falls to lowest level since Aug. 5 as US dollar strength weighs — FXStreet
