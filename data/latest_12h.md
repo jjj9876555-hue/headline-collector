@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 02:52 JST／対象: 09/22 14:52 〜 09/23 02:52 JST（時刻はすべて日本時間）
+生成: 2026-09-23 03:07 JST／対象: 09/22 15:07 〜 09/23 03:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 153 | 09/22 14:54 | 09/23 02:52 | 35分（01:56→02:31） |
-| financialjuice | 189 | 09/22 15:00 | 09/23 02:52 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 155 | 09/22 15:22 | 09/23 03:01 | 35分（01:56→02:31） |
+| financialjuice | 197 | 09/22 15:48 | 09/23 03:02 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 355 行（統合前 369 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 364 行（統合前 380 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 14:54 [FirstSquawk] Morgan Stanley lowers Ericsson rating to Underweight from Equal Weight
-- 09/22 15:00 [financialjuice] UK PSNB EX BANKS ACTUAL 18.268B (FORECAST -, PREVIOUS 1.800B) $MACRO
-- 09/22 15:01 [FirstSquawk] UK ( AUG) PUBLIC FINANCES (PSNCR) ACTUAL: 10B VS -29B PREVIOUS
-- 09/22 15:01 [FirstSquawk] UK ( AUG) CENTRAL GOVERNMENT NCR ACTUAL: 10B VS 2.8B PREVIOUS
-- 09/22 15:01 [FirstSquawk] UK ( AUG) PUBLIC SECTOR NET BORROWING ACTUAL: 18.3B VS 1.8B PREVIOUS;EST 15.5B
-- 09/22 15:01 [FirstSquawk] UK ( AUG) PSNB EX BANKING GROUPS ACTUAL: 18.3B VS 1.8B PREVIOUS
-- 09/22 15:02 [FirstSquawk] South Korean appeals court reduces Kim Keon Hee’s prison sentence to five years from seven — Yonhap
 - 09/22 15:22 [FirstSquawk] Deutsche Bank lowers Novo Nordisk target to DKK 245 from DKK 265
 - 09/22 15:25 [FirstSquawk] Australia’s benchmark S&P/ASX 200 rises 0.3% to 8,757.80
 - 09/22 15:48 [financialjuice] Russian defence ministry: Russian forces hit oil refinery in Ukraine's Kremenchuk - TASS
@@ -379,3 +372,19 @@
 - 09/23 02:51 [financialjuice] US Treasury Secretary Bessent: Examining Diesel export ban, whether it's feasible.
 - 09/23 02:52 [FirstSquawk] US TREASURY SECRETARY BESSENT: ADMINISTRATION EXAMINING DIESEL EXPORT BAN & WHETHER IT IS FEASIBLE
 - 09/23 02:52 [financialjuice] US Treasury Secretary Bessent on Diesel: Examining whether a full or partial ban would work.
+- 09/23 02:52 [financialjuice] Trump: We'll continue to go with Canada on Potash.
+- 09/23 02:53 [financialjuice] ❗ Trump: US officials met with iranian delegation met earlier for three hours
+- 09/23 02:53 [financialjuice] ❗ Trump: The Iran meeting went very well
+- 09/23 02:54 [financialjuice] ❗ Trump: US officials met with an Iranian delegation earlier for three hours.
+- 09/23 02:54 [FirstSquawk] TRUMP SAYS THE IRAN MEETING 'WENT VERY WELL', ADDING THAT U.S. OFFICIALS MET WITH AN IRANIAN DELEGATION EARLIER FOR THREE HOURS
+- 09/23 02:55 [financialjuice] Trump: The Iran meeting was very productive; another is scheduled in the near future.
+- 09/23 02:55 [financialjuice] US Envoy Witkoff on Iran meeting: Feel very good right now.
+- 09/23 02:55 [FirstSquawk] TRUMP SAYS IRAN MEETING WAS ‘VERY PRODUCTIVE’; ANOTHER MEETING SCHEDULED SOON
+- 09/23 02:56 [FirstSquawk] TRUMP SAYS HE WILL DISCUSS PATRIOT MISSILES WITH ZELENSKIY
+- 09/23 02:57 [FirstSquawk] TRUMP SAYS HE AND UKRAINIAN PRESIDENT VOLODYMYR ZELENSKIY ARE WORKING ON A SOLUTION TO END THE WAR, WHILE SAYING RUSSIAN REFINERY STRIKES ARE A SERIOUS BLOW TO MOSCOW AND ARE IMPACTING DIESEL PRICES.
+- 09/23 02:57 [FirstSquawk] TRUMP SAYS PUTIN IS WILLING TO MEET TO DISCUSS ENDING THE WAR, WHILE HE PLANS TO DISCUSS PATRIOT MISSILES WITH ZELENSKIY; TREASURY SECRETARY SCOTT BESSENT SAYS THE ADMINISTRATION IS EXAMINING A POSSIBLE BAN ON DIESEL EXPORTS.
+- 09/23 02:58 [financialjuice] US Treasury Secretary Bessent eyed for Trump’s ‘AI Czar’- Semafor
+- 09/23 02:58 [financialjuice/FirstSquawk] EU's Foreign Minister Kallas: Met with Iranian Foreign Minister Araghchi and addressed diplomatic prospects for ending the US-Iran war.
+- 09/23 02:59 [FirstSquawk] BESSENT EMERGES AS FRONTRUNNER FOR TRUMP’S NEW ‘AI CZAR’ ROLE — SEMAFOR
+- 09/23 03:01 [FirstSquawk] FLIGHTS FROM TEHRAN TO BAGHDAD AND MUSCAT HAVE BEEN CANCELLED STARTING WEDNESDAY MIDNIGHT LOCAL TIME, IRAN'S TASNIM NEWS AGENCY SAYS, ADDING THAT IRAN IS WORKING ON DIVERTING BAGHDAD FLIGHTS TO NAJAF, WITH REMAINING INTERNATIONAL FLIGHTS IN…
+- 09/23 03:02 [financialjuice] Flights from Tehran to Baghdad and Muscat cancelled starting Wednesday midnight local time; Iran is working on diverting Baghdad flights to Najaf, other international flights including Istanbul still ongoing - Tasnim News
