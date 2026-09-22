@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 00:45 JST／対象: 09/22 00:45 〜 09/23 00:45 JST（時刻はすべて日本時間）
+生成: 2026-09-23 00:59 JST／対象: 09/22 00:59 〜 09/23 00:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/22 00:47 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 341 | 09/22 00:46 | 09/23 00:41 | 44分（06:24→07:08） |
-| financialjuice | 239 | 09/22 00:50 | 09/23 00:42 | ⚠ 248分（08:13→12:21） |
+| DeItaone | 23 | 09/22 02:18 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
+| FirstSquawk | 336 | 09/22 01:03 | 09/23 00:54 | 44分（06:24→07:08） |
+| financialjuice | 238 | 09/22 01:09 | 09/23 00:57 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 597 行（統合前 612 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 589 行（統合前 601 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 00:46 [FirstSquawk] EUROPEAN COMMISSION APPROVES ROCHE’S SUSVIMO ® FOR THE TREATMENT OF NEOVASCULAR AGE-RELATED MACULAR DEGENERATION (NAMD)
-- 09/22 00:47 [DeItaone] $SPCX - SPACEXAI - SPACEXAI LAUNCHES GROK 4.7, TWICE AS FAST AT HALF THE PRICE OF COMPARABLE MODELS
-- 09/22 00:47 [FirstSquawk/financialjuice] SPACEXAI - GROK 4.7 PRICED AT $2 PER MILLION INPUT TOKENS AND $6 PER MILLION OUTPUT TOKENS
-- 09/22 00:48 [DeItaone] RUSSIA REROUTES GRAIN AS BLACK SEA EXPORTS STALL Russian firms are converting fertilizer and coal terminals at Baltic and Arctic ports to handle grain exports as Black Sea shipments stall. Rail applications to Ultramar’s Baltic terminal rea…
-- 09/22 00:50 [financialjuice] Russian Railways accepts first grain shipment from southern Russia to Murmansk port, aiming for October export; grain-by-rail applications to Ultramar Baltic terminal reach ~260,000 tons in September - industry sources
-- 09/22 00:50 [financialjuice] SpaceXAI - SpaceX AI launches grok 4.7, twice as fast at half the price of comparable models.
-- 09/22 00:51 [FirstSquawk] TRUMP ON AI: WE WILL BE CAREFUL, REIN IN IF WE HAVE TO
-- 09/22 00:51 [FirstSquawk] TRUMP: I WILL ONLY ENCOURAGE AI
-- 09/22 00:51 [financialjuice] Trump on AI: I will only encourage AI; we will be careful and rein in if we have to - Truth Social.
-- 09/22 00:52 [financialjuice] ❗ Saudi Aramco Loads 14 Million Barrels of Crude on Seven VLCCs from Gulf Terminals, Ramping Up Exports Through Strait of Hormuz - Shipping Data
-- 09/22 00:52 [financialjuice] Seven tankers in the vicinity of ras tanura port on sunday - Satellite images seen by Sources Show
-- 09/22 00:53 [DeItaone/FirstSquawk] SAUDI ARAMCO LOADED 14 MILLION BARRELS OF CRUDE ON SEVEN VLCCS FROM GULF TERMINALS ON SUNDAY AS IT RAMPS UP EXPORTS THROUGH STRAIT OF HORMUZ, SHIPPING DATA SHOWS SATELLITE IMAGES SEEN BY REUTERS APPEAR TO SHOW SEVEN TANKERS IN VICINITY OF R…
-- 09/22 00:53 [FirstSquawk] Trump on truth social The same people that said, “We’ll all be dead in twelve years because of Global Warming,” a name since “reborn” to Climate Change, because the Planet was cooling, not warming, and nobody was dead, are the people that a…
-- 09/22 00:54 [financialjuice] US Treasury Secretary Bessent is going to present Trump with US-China AI pact - Fox Business.
-- 09/22 00:54 [DeItaone] TRUMP ON TRUTH SOCIAL: 'I'M NOT GOING TO STIFLE GROWTH, OF SOMETHING THAT WILL BE BIGGER THAN THE INDUSTRIAL REVOLUTION, OR THE INTERNET, ITSELF'
-- 09/22 00:54 [DeItaone] TRUMP: “WHOEVER WINS AI, WINS” President Trump says the U.S. must avoid stifling AI growth, arguing the technology could become bigger than the Industrial Revolution or the internet. Trump said the U.S. is currently leading China and other …
-- 09/22 00:57 [FirstSquawk/financialjuice] TRUMP TO DECIDE ON US-CHINA AI DEAL THIS WEEK: FOX BUSINESS
 - 09/22 01:03 [FirstSquawk] ITALIAN TREASURY TO SELL UP TO EUR2.50 BLN OF 3% 2028 BONDS 24TH SEPTEMBER
 - 09/22 01:09 [FirstSquawk] ISRAEL CONDUCTED TWO RAIDS IN SOUTHERN LEBANON TARGETING "ZUOTAR AL-SHARQIYA" AND "KAFR TIBNIT."
 - 09/22 01:09 [financialjuice] Pakistani Interior Minister consults with their Iranian counterpart on efforts to advance the peace process - ISNA.
@@ -621,3 +604,12 @@
 - 09/23 00:39 [financialjuice] Trump signs the security agreement with Denmark and Greenland.
 - 09/23 00:41 [FirstSquawk] IRGC SPOX HOSSEIN MOHEBI: IRAN 'TOUGHENED' CONDITIONS FOR ENDING WAR AFTER US DEAL COLLAPSE - AFP
 - 09/23 00:42 [financialjuice] Trump concludes the Trilateral Signing Event.
+- 09/23 00:45 [financialjuice] French Budget Minister Amiel: The cost of our new measures are estimated at €450 mln.
+- 09/23 00:50 [FirstSquawk] US WILL BE ALLOWED TO ESTABLISH MILITARY BASES AT NARSARSUAQ AND MESTERSVIG UNDER THE GREENLAND AGREEMENT
+- 09/23 00:52 [financialjuice] Iran National Security Committee Spokesperson: The Strait of Hormuz rule violations will carry a fine equal to 20% of the cargo value and temporary vessel seizure until the fine is paid - Fars News.
+- 09/23 00:54 [financialjuice] The US may establish more defense areas in Greenland - White House.
+- 09/23 00:54 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI, EU'S KALLAS MET ON UN GENERAL ASSEMBLY SIDELINES – SNN
+- 09/23 00:55 [financialjuice] AWS wins first NATO restricted cloud approval and has 15 regions in nato member nations $AMZN
+- 09/23 00:55 [financialjuice] Fitch Ratings: World growth holds up, but real interest rates rise.
+- 09/23 00:56 [financialjuice] World Growth Holds Up, but Real Interest Rates Rise - Fitch Ratings
+- 09/23 00:57 [financialjuice] President Trump Participates in a Bilateral Meeting with the Prime Minister of the United Kingdom

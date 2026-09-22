@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 00:45 JST／対象: 09/22 12:45 〜 09/23 00:45 JST（時刻はすべて日本時間）
+生成: 2026-09-23 00:59 JST／対象: 09/22 12:59 〜 09/23 00:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 135 | 09/22 12:49 | 09/23 00:41 | 34分（13:22→13:56） |
-| financialjuice | 148 | 09/22 12:48 | 09/23 00:42 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 133 | 09/22 13:02 | 09/23 00:54 | 34分（13:22→13:56） |
+| financialjuice | 151 | 09/22 14:02 | 09/23 00:57 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 299 行（統合前 307 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 300 行（統合前 308 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 12:48 [financialjuice] RBA governor Bullock: Neutral rates rising globally, driving up real bond yields
-- 09/22 12:49 [FirstSquawk] RBA Gov. Bullock: Neutral interest rates rising worldwide are putting upward pressure on real bond yields
-- 09/22 12:52 [financialjuice] RBA Governor Bullock: Australian dollar mirrors commodities and interest rate gaps
-- 09/22 12:52 [FirstSquawk] RBA Gov. Bullock: Australian dollar reflects commodity prices and interest-rate differentials
-- 09/22 12:55 [financialjuice] RBA Governor Bullock: not indicating any policy shift, decision up to board
-- 09/22 12:56 [FirstSquawk] RBA Gov. Bullock: No policy guidance being given; the decision is up to the board
-- 09/22 12:56 [financialjuice] RBA Governor Bullock: inflation risks emerging from Middle East, strong domestic demand
-- 09/22 12:56 [FirstSquawk] RBA Gov. Bullock: Inflation risks are materialising from Middle East tensions and strong domestic demand
 - 09/22 13:02 [FirstSquawk] Deutsche Bank asset manager weighs tighter curbs on German property funds — FT
 - 09/22 13:18 [FirstSquawk] Russia’s parliament sees rise of Putin’s “war heroes” as a new political elite — FT
 - 09/22 13:22 [FirstSquawk] US oil futures gain more than 1% to $96.82/bbl ahead of possible US-Iran negotiations
@@ -323,3 +315,12 @@
 - 09/23 00:39 [financialjuice] Trump signs the security agreement with Denmark and Greenland.
 - 09/23 00:41 [FirstSquawk] IRGC SPOX HOSSEIN MOHEBI: IRAN 'TOUGHENED' CONDITIONS FOR ENDING WAR AFTER US DEAL COLLAPSE - AFP
 - 09/23 00:42 [financialjuice] Trump concludes the Trilateral Signing Event.
+- 09/23 00:45 [financialjuice] French Budget Minister Amiel: The cost of our new measures are estimated at €450 mln.
+- 09/23 00:50 [FirstSquawk] US WILL BE ALLOWED TO ESTABLISH MILITARY BASES AT NARSARSUAQ AND MESTERSVIG UNDER THE GREENLAND AGREEMENT
+- 09/23 00:52 [financialjuice] Iran National Security Committee Spokesperson: The Strait of Hormuz rule violations will carry a fine equal to 20% of the cargo value and temporary vessel seizure until the fine is paid - Fars News.
+- 09/23 00:54 [financialjuice] The US may establish more defense areas in Greenland - White House.
+- 09/23 00:54 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI, EU'S KALLAS MET ON UN GENERAL ASSEMBLY SIDELINES – SNN
+- 09/23 00:55 [financialjuice] AWS wins first NATO restricted cloud approval and has 15 regions in nato member nations $AMZN
+- 09/23 00:55 [financialjuice] Fitch Ratings: World growth holds up, but real interest rates rise.
+- 09/23 00:56 [financialjuice] World Growth Holds Up, but Real Interest Rates Rise - Fitch Ratings
+- 09/23 00:57 [financialjuice] President Trump Participates in a Bilateral Meeting with the Prime Minister of the United Kingdom
