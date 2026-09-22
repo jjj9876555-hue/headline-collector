@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 00:18 JST／対象: 09/22 18:18 〜 09/23 00:18 JST（時刻はすべて日本時間）
+生成: 2026-09-23 00:32 JST／対象: 09/22 18:32 〜 09/23 00:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 83 | 09/22 18:43 | 09/23 00:16 | 33分（19:13→19:46） |
-| financialjuice | 109 | 09/22 18:27 | 09/23 00:17 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 86 | 09/22 18:43 | 09/23 00:32 | 33分（19:13→19:46） |
+| financialjuice | 111 | 09/22 18:38 | 09/23 00:30 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 208 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 213 行（統合前 221 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 18:27 [financialjuice] Naftogaz: Facilities hit in Poltava region overnight
-- 09/22 18:32 [financialjuice] GERMAN 5 YR BOBL YIELD ACTUAL 3.28% (FORECAST -, PREVIOUS 3.09%) $MACRO
-- 09/22 18:32 [financialjuice] GERMAN 5 YR BOBL BID-TO-COVER ACTUAL 1.2 (FORECAST -, PREVIOUS 1.6) $MACRO
 - 09/22 18:38 [financialjuice] Russia's oil exports from black sea Novorossiysk port rose to 650,000 barrels per day in September, up 50% from August - Sources and data
 - 09/22 18:41 [financialjuice] Kremlin: Putin and Erdogan discussed black sea strike halt - IFX
 - 09/22 18:41 [financialjuice] Kremlin: Russia says U.N. Security Council membership should be increased, but veto powers should remain
@@ -232,3 +229,11 @@
 - 09/23 00:16 [FirstSquawk] US TREASURY SECRETARY BROOKE ANNOUNCES PLAN TO IMPROVE AND GROW BUYBACK PROGRAM.
 - 09/23 00:16 [financialjuice] US Treasury Deputy Secretary Brooke: We may see stablecoins grow demand for US Treasuries.
 - 09/23 00:17 [financialjuice] US Treasury Deputy Secretary Brooke: Markets absorbed bigger bill sales remarkably well.
+- 09/23 00:18 [financialjuice] Trump Participates in a Trilateral Signing Event - WATCH LIVE
+- 09/23 00:19 [financialjuice] SpaceXAI’s Grok Bot Agent users grew 24% from the prior week, tops 400,000 users after first month.
+- 09/23 00:20 [financialjuice] French Finance Minister Lescure: There are no fuel concerns for the next two months, but we must continue to monitor for a deterioration of the situation.
+- 09/23 00:21 [financialjuice] PayPal is partnering with Meta. The partnership will allow users to shop and check out using Muse agents. $META $PYPL
+- 09/23 00:27 [FirstSquawk] SPACEXAI'S GROK BOT AGENT SURPASSES 400K USERS AFTER FIRST MONTH; USERS GREW 24% FROM PRIOR WEEK
+- 09/23 00:29 [FirstSquawk] BESSENT, HE TO TALK IF AI NATIONAL SECURITY INCIDENT: POLITICO
+- 09/23 00:30 [financialjuice] The AI safety ‘mechanism’ is a channel between US Treasury Secretary Bessent and China's Vice Premier He Lifeng - Politico
+- 09/23 00:32 [FirstSquawk] NEW AI SAFETY ‘MECHANISM’ IS A CHANNEL BETWEEN BESSENT AND HIS CHINESE COUNTERPART – POLITICO

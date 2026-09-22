@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 00:18 JST／対象: 09/22 00:18 〜 09/23 00:18 JST（時刻はすべて日本時間）
+生成: 2026-09-23 00:32 JST／対象: 09/22 00:32 〜 09/23 00:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/22 00:21 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 341 | 09/22 00:31 | 09/23 00:16 | 44分（06:24→07:08） |
-| financialjuice | 243 | 09/22 00:18 | 09/23 00:17 | ⚠ 248分（08:13→12:21） |
+| DeItaone | 30 | 09/22 00:33 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
+| FirstSquawk | 343 | 09/22 00:32 | 09/23 00:32 | 44分（06:24→07:08） |
+| financialjuice | 243 | 09/22 00:32 | 09/23 00:30 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 604 行（統合前 620 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 605 行（統合前 620 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 00:18 [financialjuice] Moscow Oil Refinery has halted operations after a Ukrainian drone attack on September 20th - Sources.
-- 09/22 00:21 [DeItaone] UKRAINIAN DRONE STRIKE SHUTS MAJOR MOSCOW REFINERY Gazprom Neft’s Moscow refinery has halted crude processing after a Ukrainian drone attack sparked fires at both primary distillation units. Repairs could take several weeks, according to Re…
-- 09/22 00:31 [FirstSquawk] RUSSIAN PRESIDENT PUTIN PLANS TO ATTEND XI’S APEC SUMMIT, SKIP G20 WITH TRUMP
-- 09/22 00:32 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.77 (FORECAST -, PREVIOUS 2.640) $MACRO
-- 09/22 00:32 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 4.015% (FORECAST -, PREVIOUS 3.970%) $MACRO
-- 09/22 00:32 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 4.155% (FORECAST -, PREVIOUS 4.060%) $MACRO
-- 09/22 00:32 [financialjuice] US 6-MONTH BILL BID-TO-COVER ACTUAL 2.62 (FORECAST -, PREVIOUS 2.740) $MACRO
 - 09/22 00:32 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 48.010% (FORECAST -, PREVIOUS 82.500%) $MACRO
 - 09/22 00:32 [FirstSquawk] FRANCE'S CAC 40 UP 0.96%; SPAIN'S IBEX UP 1.16%
 - 09/22 00:32 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 36.660% (FORECAST -, PREVIOUS 13.860%) $MACRO
@@ -628,3 +621,11 @@
 - 09/23 00:16 [FirstSquawk] US TREASURY SECRETARY BROOKE ANNOUNCES PLAN TO IMPROVE AND GROW BUYBACK PROGRAM.
 - 09/23 00:16 [financialjuice] US Treasury Deputy Secretary Brooke: We may see stablecoins grow demand for US Treasuries.
 - 09/23 00:17 [financialjuice] US Treasury Deputy Secretary Brooke: Markets absorbed bigger bill sales remarkably well.
+- 09/23 00:18 [financialjuice] Trump Participates in a Trilateral Signing Event - WATCH LIVE
+- 09/23 00:19 [financialjuice] SpaceXAI’s Grok Bot Agent users grew 24% from the prior week, tops 400,000 users after first month.
+- 09/23 00:20 [financialjuice] French Finance Minister Lescure: There are no fuel concerns for the next two months, but we must continue to monitor for a deterioration of the situation.
+- 09/23 00:21 [financialjuice] PayPal is partnering with Meta. The partnership will allow users to shop and check out using Muse agents. $META $PYPL
+- 09/23 00:27 [FirstSquawk] SPACEXAI'S GROK BOT AGENT SURPASSES 400K USERS AFTER FIRST MONTH; USERS GREW 24% FROM PRIOR WEEK
+- 09/23 00:29 [FirstSquawk] BESSENT, HE TO TALK IF AI NATIONAL SECURITY INCIDENT: POLITICO
+- 09/23 00:30 [financialjuice] The AI safety ‘mechanism’ is a channel between US Treasury Secretary Bessent and China's Vice Premier He Lifeng - Politico
+- 09/23 00:32 [FirstSquawk] NEW AI SAFETY ‘MECHANISM’ IS A CHANNEL BETWEEN BESSENT AND HIS CHINESE COUNTERPART – POLITICO

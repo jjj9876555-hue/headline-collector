@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 00:18 JST／対象: 09/22 12:18 〜 09/23 00:18 JST（時刻はすべて日本時間）
+生成: 2026-09-23 00:32 JST／対象: 09/22 12:32 〜 09/23 00:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 134 | 09/22 12:22 | 09/23 00:16 | 34分（13:22→13:56） |
-| financialjuice | 160 | 09/22 12:21 | 09/23 00:17 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 134 | 09/22 12:35 | 09/23 00:32 | 34分（13:22→13:56） |
+| financialjuice | 145 | 09/22 12:34 | 09/23 00:30 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 310 行（統合前 318 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 295 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 12:21 [financialjuice] South Korea negotiating with US on 5-10% stake investment in Westinghouse: Yonhap
-- 09/22 12:21 [financialjuice] South Korea Pursues nuclear power plant, Alaska LNG project for US investment: media
-- 09/22 12:21 [financialjuice] RBA Governor Bullock: AI boom is increasing excess demand in Australian economy
-- 09/22 12:21 [financialjuice] South Korea lawmaker: Alaska LNG project not confirmed yet in US investment plan
-- 09/22 12:22 [FirstSquawk] RBA Gov. Bullock: AI-driven boom is adding to excess demand in Australian economy
-- 09/22 12:22 [financialjuice] South Korea aims to acquire 5-10% stake in Westinghouse: lawmaker
-- 09/22 12:22 [FirstSquawk] Death toll rises by two after heavy rain hits Tokyo region
-- 09/22 12:22 [financialjuice] South Korea in talks with US on two nuclear reactors featuring South Korean design: lawmaker
-- 09/22 12:22 [financialjuice] South Korea has no plan to suggest chip investment to US: lawmaker
-- 09/22 12:22 [financialjuice] Reserve Bank of NZ Gov Breman: persistent higher oil prices likely to push near-term inflation above September outlook
-- 09/22 12:22 [financialjuice] RBNZ Governor Breman: we will evaluate incoming data and global trends before next october decision, staying focused on inflation outlook
-- 09/22 12:22 [financialjuice] RBNZ Governor Breman: substantial risks persist for economic outlook
-- 09/22 12:23 [financialjuice] RBNZ Governor Breman: economic recovery likely to strengthen and widen
-- 09/22 12:23 [financialjuice] RBNZ Governor Breman: data indicate economic recovery continues this quarter but remains uneven
-- 09/22 12:23 [financialjuice] Alibaba CEO: Qwen team aims to train new model with 5 to 10 trillion parameters
-- 09/22 12:23 [financialjuice] Alibaba CEO: aims for Alibaba Cloud global data center capacity to exceed 20 GW by 2032
-- 09/22 12:23 [financialjuice] RBA governor Bullock: supply shocks pose a challenge for monetary policy
-- 09/22 12:23 [financialjuice] RBA Governor Bullock: policy must address second-round inflation effects
-- 09/22 12:23 [financialjuice] South Korea government: even with 5-10% Westinghouse stake, South Korea retains voting rights - Yonhap
-- 09/22 12:23 [financialjuice] South Korea Industry Ministry: Trump to make final call on US investment plan, funds to be transferred within 45 days if requested by US - Yonhap
-- 09/22 12:24 [financialjuice] South Korea gov't: to fully invest in Texas gas plant, ownership to be equally shared with US - Yonhap
-- 09/22 12:28 [financialjuice] RBA Governor Bullock: current dip in house prices aligns with past episodes
-- 09/22 12:29 [FirstSquawk] RBA Gov. Bullock: Current decline in house prices is consistent with past episodes
 - 09/22 12:34 [financialjuice] RBA Governor Bullock: unemployment at 4.5% to 5.0% likely to reduce inflation pressure
 - 09/22 12:35 [FirstSquawk] RBA Gov. Bullock: Higher unemployment at 4.5%-5.0% could ease pressure on inflation
 - 09/22 12:48 [financialjuice] RBA governor Bullock: Neutral rates rising globally, driving up real bond yields
@@ -334,3 +311,11 @@
 - 09/23 00:16 [FirstSquawk] US TREASURY SECRETARY BROOKE ANNOUNCES PLAN TO IMPROVE AND GROW BUYBACK PROGRAM.
 - 09/23 00:16 [financialjuice] US Treasury Deputy Secretary Brooke: We may see stablecoins grow demand for US Treasuries.
 - 09/23 00:17 [financialjuice] US Treasury Deputy Secretary Brooke: Markets absorbed bigger bill sales remarkably well.
+- 09/23 00:18 [financialjuice] Trump Participates in a Trilateral Signing Event - WATCH LIVE
+- 09/23 00:19 [financialjuice] SpaceXAI’s Grok Bot Agent users grew 24% from the prior week, tops 400,000 users after first month.
+- 09/23 00:20 [financialjuice] French Finance Minister Lescure: There are no fuel concerns for the next two months, but we must continue to monitor for a deterioration of the situation.
+- 09/23 00:21 [financialjuice] PayPal is partnering with Meta. The partnership will allow users to shop and check out using Muse agents. $META $PYPL
+- 09/23 00:27 [FirstSquawk] SPACEXAI'S GROK BOT AGENT SURPASSES 400K USERS AFTER FIRST MONTH; USERS GREW 24% FROM PRIOR WEEK
+- 09/23 00:29 [FirstSquawk] BESSENT, HE TO TALK IF AI NATIONAL SECURITY INCIDENT: POLITICO
+- 09/23 00:30 [financialjuice] The AI safety ‘mechanism’ is a channel between US Treasury Secretary Bessent and China's Vice Premier He Lifeng - Politico
+- 09/23 00:32 [FirstSquawk] NEW AI SAFETY ‘MECHANISM’ IS A CHANNEL BETWEEN BESSENT AND HIS CHINESE COUNTERPART – POLITICO
