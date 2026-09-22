@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 02:03 JST／対象: 09/22 02:03 〜 09/23 02:03 JST（時刻はすべて日本時間）
+生成: 2026-09-23 02:23 JST／対象: 09/22 02:23 〜 09/23 02:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/22 02:18 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
+| DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
 | FirstSquawk | 342 | 09/22 02:34 | 09/23 01:56 | 44分（06:24→07:08） |
-| financialjuice | 246 | 09/22 02:32 | 09/23 02:02 | ⚠ 248分（08:13→12:21） |
+| financialjuice | 253 | 09/22 02:32 | 09/23 02:14 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 601 行（統合前 616 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 606 行（統合前 622 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 02:18 [DeItaone] $META - META SHARES EXTEND GAINS, LAST UP 10.4%
-- 09/22 02:22 [DeItaone] TRUMP DEMANDS GOP END THE FILIBUSTER President Trump is urging Senate Republicans to eliminate the filibuster, warning Democrats could otherwise do so themselves. Trump claims Democrats would then pursue statehood for Puerto Rico and Washin…
 - 09/22 02:32 [financialjuice] ❗ The UK is close to agreeing to help the Saudi military counter the Houthis.
 - 09/22 02:34 [FirstSquawk] MORE THAN TWO DOZEN US LAWMAKERS URGE TRUMP TO MAINTAIN BAN ON CHINESE AUTOMAKERS - LETTER.
 - 09/22 02:34 [FirstSquawk] PARAMOUNT HAS SETTLED THE ANTITRUST LAWSUIT BY U.S. STATES THAT DELAYED ITS WARNER BROS. DISCOVERY ACQUISITION, COURT RECORDS SHOW, WITH THE CALIFORNIA ATTORNEY GENERAL SAYING THE SETTLEMENT RESOLVES ANTITRUST CONCERNS BUT IS 'NOT A VOTE OF…
@@ -625,3 +623,10 @@
 - 09/23 02:02 [financialjuice] US 2-YEAR NOTE HIGH YIELD ACTUAL 4.787% (FORECAST -, PREVIOUS 4.204%) $MACRO
 - 09/23 02:02 [financialjuice] US 2-YEAR NOTE BID-TO-COVER ACTUAL 2.630 (FORECAST -, PREVIOUS 2.600) $MACRO
 - 09/23 02:02 [financialjuice] US 2-Year Note Auction High Yield 4.787% (Tailed by 0.2 basis points) Bid-to-cover 2.63 Sells $69 bln Awards 33.42% of bids at high Primary Dealers take 13.19% Direct 29.02% Indirect 57.79%
+- 09/23 02:07 [financialjuice] Fed's Barkin: The labor market is not overheated or even particularly tight.
+- 09/23 02:09 [financialjuice] Trump: Japan's PM Takaichi has done a great job, Japan is doing well.
+- 09/23 02:09 [financialjuice] Trump Participates in a Bilateral Meeting with the Prime Minister of Japan - WATCH LIVE
+- 09/23 02:11 [financialjuice] Fed's Barkin: Don't see much evidence that consumer balance sheets are stretched.
+- 09/23 02:12 [financialjuice] Fed's Barkin: Consumers will spend as long as the job market remains healthy.
+- 09/23 02:13 [financialjuice] Trump ends remarks to reporters.
+- 09/23 02:14 [financialjuice] Trump: Will talk about China-Japan relations with Takaichi.

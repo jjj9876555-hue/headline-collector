@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 02:03 JST／対象: 09/22 20:03 〜 09/23 02:03 JST（時刻はすべて日本時間）
+生成: 2026-09-23 02:23 JST／対象: 09/22 20:23 〜 09/23 02:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/22 20:10 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 96 | 09/22 20:06 | 09/23 01:56 | 18分（00:59→01:17） |
-| financialjuice | 137 | 09/22 20:54 | 09/23 02:02 | 20分（21:15→21:36） |
+| DeItaone | 7 | 09/22 20:41 | 09/22 21:26 | 15分（21:11→21:26） |
+| FirstSquawk | 89 | 09/22 20:40 | 09/23 01:56 | 18分（00:59→01:17） |
+| financialjuice | 144 | 09/22 20:54 | 09/23 02:14 | 20分（21:15→21:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 238 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 232 行（統合前 245 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 20:06 [FirstSquawk] UK TAX AUTHORITY HAS ASSIGNED A PERSONAL COMPLIANCE MANAGER TO EACH BILLIONAIRE.
-- 09/22 20:10 [DeItaone] RUBIO: OPEN TO IRAN MEETING AT UN -NBC NEWS INTERVIEW
-- 09/22 20:11 [FirstSquawk] RUBIO:DON'T THINK ANYTHING IS SCHEDULED ON TRUMP-IRAN PRESIDENT
-- 09/22 20:11 [FirstSquawk] RUBIO: TRUMP IS OPEN TO MEETING WITH ANYBODY
-- 09/22 20:12 [DeItaone] DIMON WARNS AGAINST PUNISHING INDIA OVER RUSSIAN OIL JPMorgan CEO Jamie Dimon says the U.S. should avoid punishing India and global oil markets while pressuring Russia over Ukraine. Dimon warned that Indian refiners cannot easily replace Ru…
-- 09/22 20:13 [DeItaone] HORMUZ TALKS RUMORS SEND OIL LOWER Oil prices fell after reports suggested Iran could reopen the Strait of Hormuz within seven days if U.S. military pressure eases and the blockade on Iranian ports is lifted. However, Iranian sources have d…
-- 09/22 20:13 [FirstSquawk] IRANIAN SOURCES DENY REPORTS OF HORMUZ REOPENING DEALS - FARS
-- 09/22 20:15 [FirstSquawk] RUBIO: 60%-70% OF OIL FLOWS ARE COMING OUT, AND IT'S CLIMBING
-- 09/22 20:16 [DeItaone] TRUMP: U.S. HAS “MORE MUNITIONS THAN WE COULD EVER USE” President Trump rejected claims that the U.S. is running low on munitions, calling them false. Trump said the country has more munitions than it could possibly use and is currently exp…
-- 09/22 20:19 [DeItaone] CATHIE WOOD SHRUGS OFF FED RATE-HIKE FEARS ARK Invest CEO Cathie Wood says higher interest rates won’t derail the technology boom, arguing rapid innovation will drive stronger economic growth. Wood expects the current tech revolution to red…
-- 09/22 20:20 [DeItaone] CHINA PROBES DEEPSEEK, MOONSHOT OVER POTENTIAL DATA LEAKS TO ANTHROPIC - THE INFORMATION ANTHROPIC ALLEGED DEEPSEEK, MOONSHOT ROUTED SENSITIVE DATA TO CLAUDE- THE INFORMATION
-- 09/22 20:20 [FirstSquawk] CHINA PROBES DEEPSEEK ON CLAUDE USER DATA ROUTING: INFORMATION
-- 09/22 20:23 [FirstSquawk] Rumors of Negotiations Pull Oil Prices Down The simultaneous publication of positive news regarding Iran-US negotiations and the potential reopening of the Strait of Hormuz once again impacted the oil market and drove prices down. Most rece…
 - 09/22 20:40 [FirstSquawk] RUBIO, ASKED ABOUT IRAN: NEVER CLOSE THE DOOR TO DIPLOMACY
 - 09/22 20:40 [FirstSquawk] RUBIO: IRAN'S ECONOMY IS BEING CRIPPLED BY SANCTIONS
 - 09/22 20:41 [DeItaone] RUBIO: INTEND TO LIVE UP TO COMMITMENTS WITH SAUDI ARABIA -FOX NEWS INTERVIEW
@@ -262,3 +249,10 @@
 - 09/23 02:02 [financialjuice] US 2-YEAR NOTE HIGH YIELD ACTUAL 4.787% (FORECAST -, PREVIOUS 4.204%) $MACRO
 - 09/23 02:02 [financialjuice] US 2-YEAR NOTE BID-TO-COVER ACTUAL 2.630 (FORECAST -, PREVIOUS 2.600) $MACRO
 - 09/23 02:02 [financialjuice] US 2-Year Note Auction High Yield 4.787% (Tailed by 0.2 basis points) Bid-to-cover 2.63 Sells $69 bln Awards 33.42% of bids at high Primary Dealers take 13.19% Direct 29.02% Indirect 57.79%
+- 09/23 02:07 [financialjuice] Fed's Barkin: The labor market is not overheated or even particularly tight.
+- 09/23 02:09 [financialjuice] Trump: Japan's PM Takaichi has done a great job, Japan is doing well.
+- 09/23 02:09 [financialjuice] Trump Participates in a Bilateral Meeting with the Prime Minister of Japan - WATCH LIVE
+- 09/23 02:11 [financialjuice] Fed's Barkin: Don't see much evidence that consumer balance sheets are stretched.
+- 09/23 02:12 [financialjuice] Fed's Barkin: Consumers will spend as long as the job market remains healthy.
+- 09/23 02:13 [financialjuice] Trump ends remarks to reporters.
+- 09/23 02:14 [financialjuice] Trump: Will talk about China-Japan relations with Takaichi.
