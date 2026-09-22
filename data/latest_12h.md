@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 20:43 JST／対象: 09/22 08:43 〜 09/22 20:43 JST（時刻はすべて日本時間）
+生成: 2026-09-22 20:58 JST／対象: 09/22 08:58 〜 09/22 20:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/22 19:18 | 09/22 20:41 | 20分（20:20→20:41） |
-| FirstSquawk | 158 | 09/22 08:47 | 09/22 20:43 | 34分（13:22→13:56） |
-| financialjuice | 65 | 09/22 12:21 | 09/22 18:57 | ⚠ 66分（12:56→14:02） |
+| DeItaone | 17 | 09/22 19:18 | 09/22 20:53 | 20分（20:20→20:41） |
+| FirstSquawk | 160 | 09/22 09:02 | 09/22 20:54 | 34分（13:22→13:56） |
+| financialjuice | 73 | 09/22 12:21 | 09/22 20:54 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 238 行（統合前 238 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 248 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 08:47 [FirstSquawk] BOUNTY OIL AND GAS NL HAS ANNOUNCED A STRATEGIC ENTRY INTO DEEPWATER LIBERIA, ENTERING AN AGREEMENT TO BUY 100% OF PETROQUEST LIBERIA DEEP WATER FOR A$1.5 MLN, AND HAS RECEIVED FIRM COMMITMENTS TO RAISE A$3.5 MLN VIA A PLACEMENT
-- 09/22 08:55 [FirstSquawk] ASIAN MARKETS FOCUS ON TAIWAN’S AUGUST EXPORT ORDERS AND UNEMPLOYMENT DATA, WHILE OPTIMISM AROUND THE UPCOMING TRUMP-XI SUMMIT AND EXPECTATIONS FOR STRONG AI DEMAND SUPPORT RISK SENTIMENT.
-- 09/22 08:55 [FirstSquawk] U.S. STOCKS POSTED THEIR STRONGEST GAINS SINCE EARLY AUGUST, LED BY TECHNOLOGY SHARES, WITH THE S&P 500 UP 1.5% AND NASDAQ 2.3%, WHILE WTI FELL 5.1% TO $95.16 AND THE 10-YEAR TREASURY YIELD DECLINED TO 4.95%.
 - 09/22 09:02 [FirstSquawk] KOSPI gains 2% as South Korean shares advance
 - 09/22 09:03 [FirstSquawk] Samsung Electronics shares surge 3% in trading
 - 09/22 09:03 [FirstSquawk] UK to support Saudi Arabia with military assistance in Houthi conflict — FT
@@ -262,3 +259,16 @@
 - 09/22 20:40 [FirstSquawk] RUBIO: IRAN'S ECONOMY IS BEING CRIPPLED BY SANCTIONS
 - 09/22 20:41 [DeItaone] RUBIO: INTEND TO LIVE UP TO COMMITMENTS WITH SAUDI ARABIA -FOX NEWS INTERVIEW
 - 09/22 20:43 [FirstSquawk] US SECRETARY OF STATE RUBIO ON UKRAINE WAR: CONCERNED ABOUT US-LINKED SHIPS BEING TARGETED -FOX NEWS INTERVIEW
+- 09/22 20:44 [FirstSquawk] RUBIO: IDEAL OUTCOME RUSSIA, UKRAINE NOT TARGETING ENERGY SITES
+- 09/22 20:46 [DeItaone] *MILEI'S US TRADE DEAL UNDER THREAT ON DEMAND FOR BETTER TERMS
+- 09/22 20:47 [FirstSquawk] GULF STATES PLAN TO TELL TRUMP TO STEER CLEAR OF ESCALATION WITH IRAN.
+- 09/22 20:49 [FirstSquawk/financialjuice] US SECRETARY OF STATE RUBIO ON AI: NOT SURE IF PLAN WILL BE READY BY THURSDAY -FOX NEWS INTERVIEW
+- 09/22 20:53 [DeItaone] MILEI’S U.S. TRADE DEAL HITS CONGRESSIONAL ROADBLOCK Argentina has reportedly told the Trump administration it lacks the votes to ratify its bilateral trade agreement with the U.S. Milei wants to renegotiate terms following the U.S. Supreme…
+- 09/22 20:53 [FirstSquawk/financialjuice] RUBIO: SEEN MORE COOPERATION FROM NATO COUNTRIES RECENTLY
+- 09/22 20:54 [FirstSquawk] US SEC OF STATE RUBIO ON GREENLAND: US CAN BUILD AS MANY MILITARY BASES AS WANT
+- 09/22 20:54 [financialjuice] US Secretary of State Rubio: Need to address that US-linked ships targeted by Ukraine
+- 09/22 20:54 [financialjuice] US Secretary of State Rubio, energy infrastructure ceasefire would be a great idea - Fox News
+- 09/22 20:54 [financialjuice] US Secretary of State Rubio: Ideal outcome is Russia and Ukraine not targeting energy sites
+- 09/22 20:54 [financialjuice] Gulf states set to urge Trump to avoid any escalation with Iran
+- 09/22 20:54 [financialjuice] Six-member Gulf bloc expected to meet Trump in New York Tuesday
+- 09/22 20:54 [financialjuice] US Secretary of State Rubio, on Greenland: The US can build as many military bases as wanted

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 20:43 JST／対象: 09/22 14:43 〜 09/22 20:43 JST（時刻はすべて日本時間）
+生成: 2026-09-22 20:58 JST／対象: 09/22 14:58 〜 09/22 20:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/22 19:18 | 09/22 20:41 | 20分（20:20→20:41） |
-| FirstSquawk | 53 | 09/22 14:54 | 09/22 20:43 | 33分（19:13→19:46） |
-| financialjuice | 32 | 09/22 15:00 | 09/22 18:57 | ⚠ 57分（17:02→18:00） |
+| DeItaone | 17 | 09/22 19:18 | 09/22 20:53 | 20分（20:20→20:41） |
+| FirstSquawk | 57 | 09/22 15:01 | 09/22 20:54 | 33分（19:13→19:46） |
+| financialjuice | 40 | 09/22 15:00 | 09/22 20:54 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 100 行（統合前 100 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 112 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 14:54 [FirstSquawk] Morgan Stanley lowers Ericsson rating to Underweight from Equal Weight
 - 09/22 15:00 [financialjuice] UK PSNB EX BANKS ACTUAL 18.268B (FORECAST -, PREVIOUS 1.800B) $MACRO
 - 09/22 15:01 [FirstSquawk] UK ( AUG) PUBLIC FINANCES (PSNCR) ACTUAL: 10B VS -29B PREVIOUS
 - 09/22 15:01 [FirstSquawk] UK ( AUG) CENTRAL GOVERNMENT NCR ACTUAL: 10B VS 2.8B PREVIOUS
@@ -124,3 +123,16 @@
 - 09/22 20:40 [FirstSquawk] RUBIO: IRAN'S ECONOMY IS BEING CRIPPLED BY SANCTIONS
 - 09/22 20:41 [DeItaone] RUBIO: INTEND TO LIVE UP TO COMMITMENTS WITH SAUDI ARABIA -FOX NEWS INTERVIEW
 - 09/22 20:43 [FirstSquawk] US SECRETARY OF STATE RUBIO ON UKRAINE WAR: CONCERNED ABOUT US-LINKED SHIPS BEING TARGETED -FOX NEWS INTERVIEW
+- 09/22 20:44 [FirstSquawk] RUBIO: IDEAL OUTCOME RUSSIA, UKRAINE NOT TARGETING ENERGY SITES
+- 09/22 20:46 [DeItaone] *MILEI'S US TRADE DEAL UNDER THREAT ON DEMAND FOR BETTER TERMS
+- 09/22 20:47 [FirstSquawk] GULF STATES PLAN TO TELL TRUMP TO STEER CLEAR OF ESCALATION WITH IRAN.
+- 09/22 20:49 [FirstSquawk/financialjuice] US SECRETARY OF STATE RUBIO ON AI: NOT SURE IF PLAN WILL BE READY BY THURSDAY -FOX NEWS INTERVIEW
+- 09/22 20:53 [DeItaone] MILEI’S U.S. TRADE DEAL HITS CONGRESSIONAL ROADBLOCK Argentina has reportedly told the Trump administration it lacks the votes to ratify its bilateral trade agreement with the U.S. Milei wants to renegotiate terms following the U.S. Supreme…
+- 09/22 20:53 [FirstSquawk/financialjuice] RUBIO: SEEN MORE COOPERATION FROM NATO COUNTRIES RECENTLY
+- 09/22 20:54 [FirstSquawk] US SEC OF STATE RUBIO ON GREENLAND: US CAN BUILD AS MANY MILITARY BASES AS WANT
+- 09/22 20:54 [financialjuice] US Secretary of State Rubio: Need to address that US-linked ships targeted by Ukraine
+- 09/22 20:54 [financialjuice] US Secretary of State Rubio, energy infrastructure ceasefire would be a great idea - Fox News
+- 09/22 20:54 [financialjuice] US Secretary of State Rubio: Ideal outcome is Russia and Ukraine not targeting energy sites
+- 09/22 20:54 [financialjuice] Gulf states set to urge Trump to avoid any escalation with Iran
+- 09/22 20:54 [financialjuice] Six-member Gulf bloc expected to meet Trump in New York Tuesday
+- 09/22 20:54 [financialjuice] US Secretary of State Rubio, on Greenland: The US can build as many military bases as wanted

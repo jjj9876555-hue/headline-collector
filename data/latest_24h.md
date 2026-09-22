@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 20:43 JST／対象: 09/21 20:43 〜 09/22 20:43 JST（時刻はすべて日本時間）
+生成: 2026-09-22 20:58 JST／対象: 09/21 20:58 〜 09/22 20:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 69 | 09/21 20:50 | 09/22 20:41 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 343 | 09/21 20:50 | 09/22 20:43 | 44分（06:24→07:08） |
-| financialjuice | 266 | 09/21 21:10 | 09/22 18:57 | ⚠ 248分（08:13→12:21） |
+| DeItaone | 66 | 09/21 21:00 | 09/22 20:53 | ⚠ 1015分（02:22→19:18） |
+| FirstSquawk | 343 | 09/21 21:00 | 09/22 20:54 | 44分（06:24→07:08） |
+| financialjuice | 274 | 09/21 21:10 | 09/22 20:54 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 664 行（統合前 682 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 667 行（統合前 687 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 20:50 [DeItaone] “STREAMFLATION” DRIVES MASS STREAMING CANCELLATIONS 39% of Americans canceled at least one streaming subscription over the past six months, up sharply from 29% in March, according to Ipsos. Repeated price hikes and broader cost-of-living pr…
-- 09/21 20:50 [FirstSquawk] MERZ SAYS REGIONAL ELECTION WAS 'DRAMATIC INCIDENT'
-- 09/21 20:51 [DeItaone] HORMUZ CRISIS SENDS TANKER RATES ABOVE $1 MILLION A DAY Supertanker rates on the Persian Gulf-to-China route have surged to $1.035 million per day, nearly 5x pre-war levels, as traffic through the Strait of Hormuz collapses. Only 17 commodi…
-- 09/21 20:51 [FirstSquawk] MORGAN STANLEY RAISES MARVELL TARGET PRICE TO $268.00 FROM $246.00
-- 09/21 20:52 [DeItaone] CNN, MS NOW AND POLITICO SUE TRUMP OVER WHITE HOUSE BAN CNN, MS NOW and Politico have sued the Trump administration after being barred from White House grounds. The outlets argue the ban violates their First Amendment rights and filed the c…
-- 09/21 20:55 [DeItaone] TRUMP DEFENDS WHITE HOUSE MEDIA CRACKDOWN President Trump says the White House is “not instituting an assault on the Free Press,” arguing instead that it is targeting what he calls “fake news.” Trump described such coverage as a “threat to …
-- 09/21 20:55 [FirstSquawk] TRUMP: WHITE HOUSE IS NOT INSTITUTING AN ASSAULT ON FREE PRESS
-- 09/21 20:55 [FirstSquawk] TRUMP: I CHERISH FREE PRESS
-- 09/21 20:55 [DeItaone] 🇺🇸 TRUMP’S MONDAY CALENDAR 8:00 AM — Executive Time 10:30 AM — Policy Meeting 11:30 AM — Policy Meeting 1:00 PM — Signing Time 1:45 PM — Ribbon Cutting Ceremony 4:10 PM — Meeting with NYC Mayor Zohran Mamdani 5:35 PM — Meeting with French P…
-- 09/21 20:55 [FirstSquawk] TRUMP CLAIMS WHITE HOUSE TARGETS 'FAKE NEWS', NOT FREE PRESS
 - 09/21 21:00 [FirstSquawk] HALLIBURTON SIGNS AGREEMENTS TO SUPPORT ENERGY DEVELOPMENT OPPORTUNITIES IN VENEZUELA
 - 09/21 21:00 [DeItaone] $TSLA - OPPENHEIMER: TESLA’S AI PIVOT PROGRESSING, OPTIMUS DELAYS LIKELY Oppenheimer reiterated its Perform rating on Tesla, highlighting progress as the company transforms into a vertically integrated “Physical AI” platform. The firm sees …
 - 09/21 21:01 [DeItaone] BESSENT: DISCUSSED ECONOMICS, AI WITH CHINA
@@ -688,3 +678,16 @@
 - 09/22 20:40 [FirstSquawk] RUBIO: IRAN'S ECONOMY IS BEING CRIPPLED BY SANCTIONS
 - 09/22 20:41 [DeItaone] RUBIO: INTEND TO LIVE UP TO COMMITMENTS WITH SAUDI ARABIA -FOX NEWS INTERVIEW
 - 09/22 20:43 [FirstSquawk] US SECRETARY OF STATE RUBIO ON UKRAINE WAR: CONCERNED ABOUT US-LINKED SHIPS BEING TARGETED -FOX NEWS INTERVIEW
+- 09/22 20:44 [FirstSquawk] RUBIO: IDEAL OUTCOME RUSSIA, UKRAINE NOT TARGETING ENERGY SITES
+- 09/22 20:46 [DeItaone] *MILEI'S US TRADE DEAL UNDER THREAT ON DEMAND FOR BETTER TERMS
+- 09/22 20:47 [FirstSquawk] GULF STATES PLAN TO TELL TRUMP TO STEER CLEAR OF ESCALATION WITH IRAN.
+- 09/22 20:49 [FirstSquawk/financialjuice] US SECRETARY OF STATE RUBIO ON AI: NOT SURE IF PLAN WILL BE READY BY THURSDAY -FOX NEWS INTERVIEW
+- 09/22 20:53 [DeItaone] MILEI’S U.S. TRADE DEAL HITS CONGRESSIONAL ROADBLOCK Argentina has reportedly told the Trump administration it lacks the votes to ratify its bilateral trade agreement with the U.S. Milei wants to renegotiate terms following the U.S. Supreme…
+- 09/22 20:53 [FirstSquawk/financialjuice] RUBIO: SEEN MORE COOPERATION FROM NATO COUNTRIES RECENTLY
+- 09/22 20:54 [FirstSquawk] US SEC OF STATE RUBIO ON GREENLAND: US CAN BUILD AS MANY MILITARY BASES AS WANT
+- 09/22 20:54 [financialjuice] US Secretary of State Rubio: Need to address that US-linked ships targeted by Ukraine
+- 09/22 20:54 [financialjuice] US Secretary of State Rubio, energy infrastructure ceasefire would be a great idea - Fox News
+- 09/22 20:54 [financialjuice] US Secretary of State Rubio: Ideal outcome is Russia and Ukraine not targeting energy sites
+- 09/22 20:54 [financialjuice] Gulf states set to urge Trump to avoid any escalation with Iran
+- 09/22 20:54 [financialjuice] Six-member Gulf bloc expected to meet Trump in New York Tuesday
+- 09/22 20:54 [financialjuice] US Secretary of State Rubio, on Greenland: The US can build as many military bases as wanted
