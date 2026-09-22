@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 23:46 JST／対象: 09/22 11:46 〜 09/22 23:46 JST（時刻はすべて日本時間）
+生成: 2026-09-23 00:00 JST／対象: 09/22 12:00 〜 09/23 00:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 133 | 09/22 11:49 | 09/22 23:44 | 34分（13:22→13:56） |
-| financialjuice | 142 | 09/22 12:21 | 09/22 23:42 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 135 | 09/22 12:05 | 09/22 23:59 | 34分（13:22→13:56） |
+| financialjuice | 150 | 09/22 12:21 | 09/22 23:55 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 291 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 301 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 11:49 [FirstSquawk] Indonesia’s wet season set to start in most areas in early November, weather agency says
-- 09/22 11:52 [FirstSquawk] Indonesia weather agency expects shorter-than-normal wet season across most of the country in 2026-27
-- 09/22 11:56 [FirstSquawk] NHC: Odalys expected to slowly strengthen
 - 09/22 12:05 [FirstSquawk] Texas power plant selected as South Korea’s first US investment project — Yonhap
 - 09/22 12:08 [FirstSquawk] RBA Gov. Bullock: Supply shocks pose challenges for monetary policy
 - 09/22 12:09 [FirstSquawk] RBA Gov. Bullock: Monetary policy needs to tackle second-round inflation effects
@@ -315,3 +312,16 @@
 - 09/22 23:42 [FirstSquawk] UNITED NATIONS-TRUMP: CALLS ON ALL NATIONS TO ECONOMICALLY ISOLATE IRAN
 - 09/22 23:42 [FirstSquawk] TRUMP: US WILL BE ABLE TO SUPPLY ALLIES AT A MUCH FASTER RATE
 - 09/22 23:44 [FirstSquawk] TRUMP: OIL PRICES WILL PLUMMET AFTER IRAN CONFLICT IS OVER
+- 09/22 23:48 [financialjuice] Trump: We're working very closely with the leaders of Russia and Ukraine, and we will get that one done.
+- 09/22 23:49 [FirstSquawk] TRUMP: US-IRAN WILL GET DEAL DONE, ONE WAY OR THE OTHER
+- 09/22 23:49 [financialjuice] Trump: US-Iran will get a deal done, one way or the other.
+- 09/22 23:50 [financialjuice] Trump: United States and Venezuela together, we have more than 60% of the oil in the world. So it's perhaps the biggest deal.
+- 09/22 23:53 [financialjuice] Trump: Cuba will fall.
+- 09/22 23:54 [financialjuice] Trump: Cuba is a failed state, freedom will be coming to Cuba.
+- 09/22 23:54 [FirstSquawk] TRUMP: WILL BUILD TWO MAJOR MILITARY BASES IN GREENLAND
+- 09/22 23:54 [financialjuice] Trump: US Secretary of State Rubio is deep into negotiations with Cuba.
+- 09/22 23:54 [financialjuice] Trump: We will build two major military bases in Greenland.
+- 09/22 23:55 [FirstSquawk] TEHRAN WANTS CHINA'S ROLE TO BE MORE PROMINENT
+- 09/22 23:55 [financialjuice] Trump: Will sign Greenland agreement later today.
+- 09/22 23:59 [FirstSquawk] TRUMP: THERE WILL BE NO GLOBAL TAXES
+- 09/22 23:59 [FirstSquawk] TRUMP: UN MUST STOP IMPOSING LEFTIST AGENDA

@@ -7,35 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 23:46 JST／対象: 09/21 23:46 〜 09/22 23:46 JST（時刻はすべて日本時間）
+生成: 2026-09-23 00:00 JST／対象: 09/22 00:00 〜 09/23 00:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 37 | 09/21 23:47 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 337 | 09/21 23:46 | 09/22 23:44 | 44分（06:24→07:08） |
-| financialjuice | 242 | 09/21 23:46 | 09/22 23:42 | ⚠ 248分（08:13→12:21） |
+| DeItaone | 32 | 09/22 00:02 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
+| FirstSquawk | 338 | 09/22 00:08 | 09/22 23:59 | 44分（06:24→07:08） |
+| financialjuice | 247 | 09/22 00:00 | 09/22 23:55 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 603 行（統合前 621 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 606 行（統合前 622 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 23:46 [FirstSquawk] VANCE: ENERGY PRICES ARE ELEVATED BECAUSE OF IRAN: POOL REPORT
-- 09/21 23:46 [financialjuice] US VP Vance: Energy prices are elevated because of iran.
-- 09/21 23:47 [DeItaone/FirstSquawk] - TRUMP: UNITED STATES IS WORKING ON A MASSIVE DEAL WITH RESPECT TO PURCHASE OF POTASH FROM BELARUS
-- 09/21 23:48 [FirstSquawk] Trump on truth social United States is working on a massive Deal with respect to the purchase of Potash from Belarus. The pricing would be for substantially less than we are currently paying to Canada, very good news for our Farmers and Ran…
-- 09/21 23:48 [financialjuice] Trump: Belarus Potash to cost less than canada supply - Truth Social
-- 09/21 23:48 [DeItaone] TRUMP: PRICING WOULD BE FOR SUBSTANTIALLY LESS THAN WE ARE CURRENTLY PAYING TO CANADA
-- 09/21 23:50 [DeItaone] TRUMP EYES MAJOR BELARUS POTASH DEAL President Trump says the U.S. is working on a large-scale agreement to buy potash from Belarus. Trump says the fertilizer would be purchased at substantially lower prices than current Canadian supplies, …
-- 09/21 23:54 [DeItaone] SURGING FUEL PRICES COULD HIT U.S. INFLATION EXPECTATIONS U.S. diesel prices have surged to nearly $6.50, roughly 18% above August’s average, while gasoline has climbed to $4.48. Consumer surveys have yet to fully capture the latest spike, …
-- 09/21 23:56 [FirstSquawk] USTR AMBASSADOR GREER SAYS BOEING IS MAKING PROGRESS ON FINALIZING 200 CHINESE AIRPLANE ORDERS ANNOUNCED EARLIER THIS YEAR -- FOX INTERVIEW
-- 09/21 23:57 [financialjuice/DeItaone] Total CEO: Too much refining is offline ahead of winter.
-- 09/21 23:57 [DeItaone] - FRENCH 5-YEAR CDS TOP 45 BPS TO HIT HIGHEST SINCE MARCH 2020, LSEG DATA SHOWS
 - 09/22 00:00 [financialjuice] Mexico's President Sheinbaum: The government is looking for ways to reduce imports from other nations and buy more goods from the US.
+- 09/22 00:02 [DeItaone] TOTAL CEO: TOO MUCH REFINING IS OFFLINE AHEAD OF WINTER
 - 09/22 00:05 [financialjuice] BoC's Gov. Macklem: If oil prices stay near $100 a barrel, we'd expect inflation to edge up in the coming months.
 - 09/22 00:05 [financialjuice] BoC's Gov. Macklem: Fuel prices have risen more than we'd normally expect, reflecting damage to global refining capacity.
 - 09/22 00:05 [financialjuice] BoC's Gov. Macklem: If new US tariffs remain in place, Q4 growth could be roughly halved to below 1%.
@@ -627,3 +617,16 @@
 - 09/22 23:42 [FirstSquawk] UNITED NATIONS-TRUMP: CALLS ON ALL NATIONS TO ECONOMICALLY ISOLATE IRAN
 - 09/22 23:42 [FirstSquawk] TRUMP: US WILL BE ABLE TO SUPPLY ALLIES AT A MUCH FASTER RATE
 - 09/22 23:44 [FirstSquawk] TRUMP: OIL PRICES WILL PLUMMET AFTER IRAN CONFLICT IS OVER
+- 09/22 23:48 [financialjuice] Trump: We're working very closely with the leaders of Russia and Ukraine, and we will get that one done.
+- 09/22 23:49 [FirstSquawk] TRUMP: US-IRAN WILL GET DEAL DONE, ONE WAY OR THE OTHER
+- 09/22 23:49 [financialjuice] Trump: US-Iran will get a deal done, one way or the other.
+- 09/22 23:50 [financialjuice] Trump: United States and Venezuela together, we have more than 60% of the oil in the world. So it's perhaps the biggest deal.
+- 09/22 23:53 [financialjuice] Trump: Cuba will fall.
+- 09/22 23:54 [financialjuice] Trump: Cuba is a failed state, freedom will be coming to Cuba.
+- 09/22 23:54 [FirstSquawk] TRUMP: WILL BUILD TWO MAJOR MILITARY BASES IN GREENLAND
+- 09/22 23:54 [financialjuice] Trump: US Secretary of State Rubio is deep into negotiations with Cuba.
+- 09/22 23:54 [financialjuice] Trump: We will build two major military bases in Greenland.
+- 09/22 23:55 [FirstSquawk] TEHRAN WANTS CHINA'S ROLE TO BE MORE PROMINENT
+- 09/22 23:55 [financialjuice] Trump: Will sign Greenland agreement later today.
+- 09/22 23:59 [FirstSquawk] TRUMP: THERE WILL BE NO GLOBAL TAXES
+- 09/22 23:59 [FirstSquawk] TRUMP: UN MUST STOP IMPOSING LEFTIST AGENDA
