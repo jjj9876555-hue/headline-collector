@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 12:17 JST／対象: 09/21 12:17 〜 09/22 12:17 JST（時刻はすべて日本時間）
+生成: 2026-09-22 12:33 JST／対象: 09/21 12:33 〜 09/22 12:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 359 | 09/21 12:21 | 09/22 12:14 | 44分（06:24→07:08） |
-| financialjuice | 231 | 09/21 12:39 | 09/22 08:13 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 360 | 09/21 12:37 | 09/22 12:29 | 44分（06:24→07:08） |
+| financialjuice | 251 | 09/21 12:39 | 09/22 12:28 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 632 行（統合前 653 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 653 行（統合前 674 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 12:21 [FirstSquawk] BlossomHill Therapeutics target raised to $40 from $30 by Guggenheim
-- 09/21 12:29 [FirstSquawk] AUD/USD consolidates above 0.7100 as markets await Trump-Xi talks - FX
-- 09/21 12:33 [FirstSquawk] VinFast-linked taxi firm launches motorbike service in Jakarta, its first overseas — NA
 - 09/21 12:37 [FirstSquawk] BHP Group says agreement will prioritize progress on modified blast furnace technologies
 - 09/21 12:37 [FirstSquawk] BHP, China Baowu extend partnership on steel decarbonisation
 - 09/21 12:39 [financialjuice] China finance ministry auctions 10-year bonds at 1.6626% yield: traders
@@ -656,3 +653,27 @@
 - 09/22 12:11 [FirstSquawk] South Korea govt: Even with 5%-10% stake in Westinghouse, South Korea would retain voting rights — Yonhap
 - 09/22 12:13 [FirstSquawk] South Korea Industry Ministry: Trump to announce final US investment plan; 45-day fund remittance period upon US request — Yonhap
 - 09/22 12:14 [FirstSquawk] South Korea to provide full investment for Texas gas plant, ownership to be split 50-50 with US — Yonhap
+- 09/22 12:18 [FirstSquawk] Brent crude climbs over 1% to $101.49/bbl, gaining for the first time in five sessions
+- 09/22 12:21 [financialjuice] South Korea negotiating with US on 5-10% stake investment in Westinghouse: Yonhap
+- 09/22 12:21 [financialjuice] South Korea Pursues nuclear power plant, Alaska LNG project for US investment: media
+- 09/22 12:21 [financialjuice] RBA Governor Bullock: AI boom is increasing excess demand in Australian economy
+- 09/22 12:21 [financialjuice] South Korea lawmaker: Alaska LNG project not confirmed yet in US investment plan
+- 09/22 12:22 [FirstSquawk] RBA Gov. Bullock: AI-driven boom is adding to excess demand in Australian economy
+- 09/22 12:22 [financialjuice] South Korea aims to acquire 5-10% stake in Westinghouse: lawmaker
+- 09/22 12:22 [FirstSquawk] Death toll rises by two after heavy rain hits Tokyo region
+- 09/22 12:22 [financialjuice] South Korea in talks with US on two nuclear reactors featuring South Korean design: lawmaker
+- 09/22 12:22 [financialjuice] South Korea has no plan to suggest chip investment to US: lawmaker
+- 09/22 12:22 [financialjuice] Reserve Bank of NZ Gov Breman: persistent higher oil prices likely to push near-term inflation above September outlook
+- 09/22 12:22 [financialjuice] RBNZ Governor Breman: we will evaluate incoming data and global trends before next october decision, staying focused on inflation outlook
+- 09/22 12:22 [financialjuice] RBNZ Governor Breman: substantial risks persist for economic outlook
+- 09/22 12:23 [financialjuice] RBNZ Governor Breman: economic recovery likely to strengthen and widen
+- 09/22 12:23 [financialjuice] RBNZ Governor Breman: data indicate economic recovery continues this quarter but remains uneven
+- 09/22 12:23 [financialjuice] Alibaba CEO: Qwen team aims to train new model with 5 to 10 trillion parameters
+- 09/22 12:23 [financialjuice] Alibaba CEO: aims for Alibaba Cloud global data center capacity to exceed 20 GW by 2032
+- 09/22 12:23 [financialjuice] RBA governor Bullock: supply shocks pose a challenge for monetary policy
+- 09/22 12:23 [financialjuice] RBA Governor Bullock: policy must address second-round inflation effects
+- 09/22 12:23 [financialjuice] South Korea government: even with 5-10% Westinghouse stake, South Korea retains voting rights - Yonhap
+- 09/22 12:23 [financialjuice] South Korea Industry Ministry: Trump to make final call on US investment plan, funds to be transferred within 45 days if requested by US - Yonhap
+- 09/22 12:24 [financialjuice] South Korea gov't: to fully invest in Texas gas plant, ownership to be equally shared with US - Yonhap
+- 09/22 12:28 [financialjuice] RBA Governor Bullock: current dip in house prices aligns with past episodes
+- 09/22 12:29 [FirstSquawk] RBA Gov. Bullock: Current decline in house prices is consistent with past episodes

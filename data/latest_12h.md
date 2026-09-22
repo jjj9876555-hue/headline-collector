@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 12:17 JST／対象: 09/22 00:17 〜 09/22 12:17 JST（時刻はすべて日本時間）
+生成: 2026-09-22 12:33 JST／対象: 09/22 00:33 〜 09/22 12:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/22 00:21 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 206 | 09/22 00:31 | 09/22 12:14 | 44分（06:24→07:08） |
-| financialjuice | 83 | 09/22 00:18 | 09/22 08:13 | 42分（07:30→08:13） |
+| DeItaone | 9 | 09/22 00:33 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
+| FirstSquawk | 208 | 09/22 00:33 | 09/22 12:29 | 44分（06:24→07:08） |
+| financialjuice | 94 | 09/22 00:40 | 09/22 12:28 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 293 行（統合前 301 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 305 行（統合前 312 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 00:18 [financialjuice] Moscow Oil Refinery has halted operations after a Ukrainian drone attack on September 20th - Sources.
-- 09/22 00:21 [DeItaone] UKRAINIAN DRONE STRIKE SHUTS MAJOR MOSCOW REFINERY Gazprom Neft’s Moscow refinery has halted crude processing after a Ukrainian drone attack sparked fires at both primary distillation units. Repairs could take several weeks, according to Re…
-- 09/22 00:31 [FirstSquawk] RUSSIAN PRESIDENT PUTIN PLANS TO ATTEND XI’S APEC SUMMIT, SKIP G20 WITH TRUMP
-- 09/22 00:32 [financialjuice] US 3-MONTH BILL BID-TO-COVER ACTUAL 2.77 (FORECAST -, PREVIOUS 2.640) $MACRO
-- 09/22 00:32 [financialjuice] US 3-MONTH BILL HIGH YIELD ACTUAL 4.015% (FORECAST -, PREVIOUS 3.970%) $MACRO
-- 09/22 00:32 [financialjuice] US 6-MONTH BILL HIGH YIELD ACTUAL 4.155% (FORECAST -, PREVIOUS 4.060%) $MACRO
-- 09/22 00:32 [financialjuice] US 6-MONTH BILL BID-TO-COVER ACTUAL 2.62 (FORECAST -, PREVIOUS 2.740) $MACRO
-- 09/22 00:32 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 48.010% (FORECAST -, PREVIOUS 82.500%) $MACRO
-- 09/22 00:32 [FirstSquawk] FRANCE'S CAC 40 UP 0.96%; SPAIN'S IBEX UP 1.16%
-- 09/22 00:32 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 36.660% (FORECAST -, PREVIOUS 13.860%) $MACRO
-- 09/22 00:32 [financialjuice] US 3-Month Bill Auction High Yield 4.015% Bid-to-cover 2.77 US sells $92 bln Awards 36.66% of bids at high
-- 09/22 00:33 [financialjuice] US 6-Month Bill Auction High Yield 4.155% Bid-to-cover 2.62 Sells $79 bln Awards 48.01% of bids at high
 - 09/22 00:33 [DeItaone] VENEZUELAN DELEGATION LED BY INTERIM PRESIDENT RODRIGUEZ TO DISCUSS ENERGY, DEBT AND MINING WITH COUNTERPARTIES IN US, AGREEMENTS COULD BE SIGNED, SOURCES SAY
 - 09/22 00:33 [FirstSquawk] US: REDIRECTED 110 COMMERCIAL VESSELS IN HORMUZ AS OF SEPT.21
 - 09/22 00:38 [FirstSquawk] U.S. DIESEL PRICES HAVE REACHED A RECORD HIGH OVER $6.50, ACCORDING TO AAA.
@@ -317,3 +305,27 @@
 - 09/22 12:11 [FirstSquawk] South Korea govt: Even with 5%-10% stake in Westinghouse, South Korea would retain voting rights — Yonhap
 - 09/22 12:13 [FirstSquawk] South Korea Industry Ministry: Trump to announce final US investment plan; 45-day fund remittance period upon US request — Yonhap
 - 09/22 12:14 [FirstSquawk] South Korea to provide full investment for Texas gas plant, ownership to be split 50-50 with US — Yonhap
+- 09/22 12:18 [FirstSquawk] Brent crude climbs over 1% to $101.49/bbl, gaining for the first time in five sessions
+- 09/22 12:21 [financialjuice] South Korea negotiating with US on 5-10% stake investment in Westinghouse: Yonhap
+- 09/22 12:21 [financialjuice] South Korea Pursues nuclear power plant, Alaska LNG project for US investment: media
+- 09/22 12:21 [financialjuice] RBA Governor Bullock: AI boom is increasing excess demand in Australian economy
+- 09/22 12:21 [financialjuice] South Korea lawmaker: Alaska LNG project not confirmed yet in US investment plan
+- 09/22 12:22 [FirstSquawk] RBA Gov. Bullock: AI-driven boom is adding to excess demand in Australian economy
+- 09/22 12:22 [financialjuice] South Korea aims to acquire 5-10% stake in Westinghouse: lawmaker
+- 09/22 12:22 [FirstSquawk] Death toll rises by two after heavy rain hits Tokyo region
+- 09/22 12:22 [financialjuice] South Korea in talks with US on two nuclear reactors featuring South Korean design: lawmaker
+- 09/22 12:22 [financialjuice] South Korea has no plan to suggest chip investment to US: lawmaker
+- 09/22 12:22 [financialjuice] Reserve Bank of NZ Gov Breman: persistent higher oil prices likely to push near-term inflation above September outlook
+- 09/22 12:22 [financialjuice] RBNZ Governor Breman: we will evaluate incoming data and global trends before next october decision, staying focused on inflation outlook
+- 09/22 12:22 [financialjuice] RBNZ Governor Breman: substantial risks persist for economic outlook
+- 09/22 12:23 [financialjuice] RBNZ Governor Breman: economic recovery likely to strengthen and widen
+- 09/22 12:23 [financialjuice] RBNZ Governor Breman: data indicate economic recovery continues this quarter but remains uneven
+- 09/22 12:23 [financialjuice] Alibaba CEO: Qwen team aims to train new model with 5 to 10 trillion parameters
+- 09/22 12:23 [financialjuice] Alibaba CEO: aims for Alibaba Cloud global data center capacity to exceed 20 GW by 2032
+- 09/22 12:23 [financialjuice] RBA governor Bullock: supply shocks pose a challenge for monetary policy
+- 09/22 12:23 [financialjuice] RBA Governor Bullock: policy must address second-round inflation effects
+- 09/22 12:23 [financialjuice] South Korea government: even with 5-10% Westinghouse stake, South Korea retains voting rights - Yonhap
+- 09/22 12:23 [financialjuice] South Korea Industry Ministry: Trump to make final call on US investment plan, funds to be transferred within 45 days if requested by US - Yonhap
+- 09/22 12:24 [financialjuice] South Korea gov't: to fully invest in Texas gas plant, ownership to be equally shared with US - Yonhap
+- 09/22 12:28 [financialjuice] RBA Governor Bullock: current dip in house prices aligns with past episodes
+- 09/22 12:29 [FirstSquawk] RBA Gov. Bullock: Current decline in house prices is consistent with past episodes

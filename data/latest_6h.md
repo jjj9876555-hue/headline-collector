@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 12:17 JST／対象: 09/22 06:17 〜 09/22 12:17 JST（時刻はすべて日本時間）
+生成: 2026-09-22 12:33 JST／対象: 09/22 06:33 〜 09/22 12:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 116 | 09/22 06:18 | 09/22 12:14 | 44分（06:24→07:08） |
-| financialjuice | 13 | 09/22 06:22 | 09/22 08:13 | 42分（07:30→08:13） |
+| FirstSquawk | 114 | 09/22 07:08 | 09/22 12:29 | 15分（07:08→07:24） |
+| financialjuice | 31 | 09/22 06:34 | 09/22 12:28 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 129 行（統合前 129 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 145 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 06:18 [FirstSquawk] WOODWARD PLANS TO TRANSITION ITS SANTA CLARITA, CALIFORNIA AEROSPACE CONTROLS PRODUCTION TO SPARTANBURG, SOUTH CAROLINA, CEASING OPERATIONS AT SANTA CLARITA BY DECEMBER 2027 IN A DECISION EXPECTED TO AFFECT ABOUT 400 ROLES, AND AGREEING TO …
-- 09/22 06:18 [FirstSquawk] WOODWARD SAYS IT WILL MOVE MILITARY FLIGHT CONTROL ACTUATION PRODUCTION TO SPARTANBURG, WITH THE FACILITY EXPECTED TO GO ONLINE IN SUMMER 2027 TO PRODUCE AIRBUS A350 SPOILER ACTUATION SYSTEMS, AND ESTIMATES CUMULATIVE PRE-TAX CHARGES OF $34…
-- 09/22 06:22 [FirstSquawk] COPPER RISES 1% TO $14,661/TON ON THE LME, MOVING BACK TOWARD ITS RECORD HIGH OF $14,875 SET ON SEPT. 10, AS STOCK MARKETS RALLY AND SUPPLY TIGHTNESS EMERGES IN CHINA.
-- 09/22 06:22 [FirstSquawk] SEVERAL CHINESE COPPER REFINERIES ARE SET FOR PLANNED MAINTENANCE IN OCTOBER-NOVEMBER, LIMITING SUPPLY GROWTH, WHILE PORT CONGESTION IN SHANGHAI CONTINUES TO CREATE UNCERTAINTY AROUND IMPORTS.
-- 09/22 06:22 [financialjuice] USTR to hold public hearing on Sept. 22, 2026, on Section 301 probe into Germany's pharmaceutical policies: statement
-- 09/22 06:23 [FirstSquawk] USTR TO HOLD SEPTEMBER 22 HEARING ON SECTION 301 INVESTIGATION INTO GERMANY’S PHARMACEUTICAL POLICIES — STATEMENT
-- 09/22 06:24 [FirstSquawk] TRUMP TO HOLD IRAN-FOCUSED MEETINGS TODAY, SIGNALING FRESH DISCUSSIONS ON THE CONFLICT
-- 09/22 06:30 [financialjuice] North Korea's culture minister visits Russia: KCNA
 - 09/22 06:34 [financialjuice] United Nations-EU’s Kallas: as Russia escalates risks, we must enforce higher costs
 - 09/22 06:35 [financialjuice] EU's Kallas: We aim for swift rollover of EU sanctions
 - 09/22 06:36 [financialjuice] EU's Kallas: EU naval mission in Red Sea requires additional naval, air resources
@@ -153,3 +145,27 @@
 - 09/22 12:11 [FirstSquawk] South Korea govt: Even with 5%-10% stake in Westinghouse, South Korea would retain voting rights — Yonhap
 - 09/22 12:13 [FirstSquawk] South Korea Industry Ministry: Trump to announce final US investment plan; 45-day fund remittance period upon US request — Yonhap
 - 09/22 12:14 [FirstSquawk] South Korea to provide full investment for Texas gas plant, ownership to be split 50-50 with US — Yonhap
+- 09/22 12:18 [FirstSquawk] Brent crude climbs over 1% to $101.49/bbl, gaining for the first time in five sessions
+- 09/22 12:21 [financialjuice] South Korea negotiating with US on 5-10% stake investment in Westinghouse: Yonhap
+- 09/22 12:21 [financialjuice] South Korea Pursues nuclear power plant, Alaska LNG project for US investment: media
+- 09/22 12:21 [financialjuice] RBA Governor Bullock: AI boom is increasing excess demand in Australian economy
+- 09/22 12:21 [financialjuice] South Korea lawmaker: Alaska LNG project not confirmed yet in US investment plan
+- 09/22 12:22 [FirstSquawk] RBA Gov. Bullock: AI-driven boom is adding to excess demand in Australian economy
+- 09/22 12:22 [financialjuice] South Korea aims to acquire 5-10% stake in Westinghouse: lawmaker
+- 09/22 12:22 [FirstSquawk] Death toll rises by two after heavy rain hits Tokyo region
+- 09/22 12:22 [financialjuice] South Korea in talks with US on two nuclear reactors featuring South Korean design: lawmaker
+- 09/22 12:22 [financialjuice] South Korea has no plan to suggest chip investment to US: lawmaker
+- 09/22 12:22 [financialjuice] Reserve Bank of NZ Gov Breman: persistent higher oil prices likely to push near-term inflation above September outlook
+- 09/22 12:22 [financialjuice] RBNZ Governor Breman: we will evaluate incoming data and global trends before next october decision, staying focused on inflation outlook
+- 09/22 12:22 [financialjuice] RBNZ Governor Breman: substantial risks persist for economic outlook
+- 09/22 12:23 [financialjuice] RBNZ Governor Breman: economic recovery likely to strengthen and widen
+- 09/22 12:23 [financialjuice] RBNZ Governor Breman: data indicate economic recovery continues this quarter but remains uneven
+- 09/22 12:23 [financialjuice] Alibaba CEO: Qwen team aims to train new model with 5 to 10 trillion parameters
+- 09/22 12:23 [financialjuice] Alibaba CEO: aims for Alibaba Cloud global data center capacity to exceed 20 GW by 2032
+- 09/22 12:23 [financialjuice] RBA governor Bullock: supply shocks pose a challenge for monetary policy
+- 09/22 12:23 [financialjuice] RBA Governor Bullock: policy must address second-round inflation effects
+- 09/22 12:23 [financialjuice] South Korea government: even with 5-10% Westinghouse stake, South Korea retains voting rights - Yonhap
+- 09/22 12:23 [financialjuice] South Korea Industry Ministry: Trump to make final call on US investment plan, funds to be transferred within 45 days if requested by US - Yonhap
+- 09/22 12:24 [financialjuice] South Korea gov't: to fully invest in Texas gas plant, ownership to be equally shared with US - Yonhap
+- 09/22 12:28 [financialjuice] RBA Governor Bullock: current dip in house prices aligns with past episodes
+- 09/22 12:29 [FirstSquawk] RBA Gov. Bullock: Current decline in house prices is consistent with past episodes
