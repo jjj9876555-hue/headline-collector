@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 11:33 JST／対象: 09/21 11:33 〜 09/22 11:33 JST（時刻はすべて日本時間）
+生成: 2026-09-22 11:47 JST／対象: 09/21 11:47 〜 09/22 11:47 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 344 | 09/21 11:35 | 09/22 11:23 | 44分（06:24→07:08） |
+| FirstSquawk | 353 | 09/21 12:07 | 09/22 11:42 | 44分（06:24→07:08） |
 | financialjuice | 233 | 09/21 12:05 | 09/22 08:13 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 619 行（統合前 640 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 628 行（統合前 649 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 11:35 [FirstSquawk] Hang Seng Biotech Index climbs 5% in Hong Kong trading
-- 09/21 11:44 [FirstSquawk] China cuts rare-earth magnet exports to US ahead of Xi-Trump talks - CNBC
-- 09/21 11:46 [FirstSquawk] Tropical Depression becomes Tropical Storm Polo, with major hurricane forecast — NHC
 - 09/21 12:05 [financialjuice] New Zealand defence forces: two naval vessels crossed Taiwan Strait
 - 09/21 12:07 [FirstSquawk] Two New Zealand Navy vessels pass through Taiwan Strait — Defence Forces
 - 09/21 12:13 [financialjuice] At least three killed in Pakistani air raids on Afghanistan's Kunar province: Tolo News citing provincial official
@@ -643,3 +640,15 @@
 - 09/22 11:22 [FirstSquawk] Alibaba CEO says new Zhenwu V900 is China’s most powerful AI chip, with 3x predecessor performance
 - 09/22 11:22 [FirstSquawk] Alibaba CEO: Qwen team plans new AI model trained with 5-10 trillion parameters
 - 09/22 11:23 [FirstSquawk] Alibaba CEO: Alibaba Cloud aims to surpass 20 GW in global data-centre capacity by 2032
+- 09/22 11:33 [FirstSquawk] South Korea Industry Minister: Approval of South Korea investment plans requires review by US investment committee
+- 09/22 11:33 [FirstSquawk] G7: Situation in Yemen poses unacceptable risks to regional stability, security and global energy security
+- 09/22 11:34 [FirstSquawk] G7 statement calls on Iran to halt support and arms supplies to Houthis, citing UN Security Council resolutions
+- 09/22 11:34 [FirstSquawk] G7 statement: Iran’s actions seen as a dangerous escalation, risking further conflict
+- 09/22 11:34 [FirstSquawk] G7 statement: Iran’s actions threaten international trade and risk greater global economic instability
+- 09/22 11:35 [FirstSquawk] G7 statement: Houthi strikes in Yemen and against Saudi Arabia are unacceptable and must stop
+- 09/22 11:35 [FirstSquawk] G7 demands Houthis end all military actions, threats and attacks against civilian vessels
+- 09/22 11:38 [FirstSquawk] South Korean lawmakers express concerns about commercial viability of US investment plan — lawmaker
+- 09/22 11:40 [FirstSquawk] South Korean government believes 20-year profit return scheme supports commercial viability of US investment plan — lawmaker
+- 09/22 11:40 [FirstSquawk] S. Korea lawmaker: Formal announcement to be followed by “significant” investment payment by end-September
+- 09/22 11:41 [FirstSquawk] South Korea lawmaker: Government briefed lawmakers on nuclear, Texas power plant and Alaska LNG projects, focusing on Texas energy project
+- 09/22 11:42 [FirstSquawk] South Korea to invest over $20 billion in Texas power plant project — lawmaker
