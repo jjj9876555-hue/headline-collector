@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 00:00 JST／対象: 09/22 00:00 〜 09/23 00:00 JST（時刻はすべて日本時間）
+生成: 2026-09-23 00:18 JST／対象: 09/22 00:18 〜 09/23 00:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 32 | 09/22 00:02 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 338 | 09/22 00:08 | 09/22 23:59 | 44分（06:24→07:08） |
-| financialjuice | 247 | 09/22 00:00 | 09/22 23:55 | ⚠ 248分（08:13→12:21） |
+| DeItaone | 31 | 09/22 00:21 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
+| FirstSquawk | 341 | 09/22 00:31 | 09/23 00:16 | 44分（06:24→07:08） |
+| financialjuice | 243 | 09/22 00:18 | 09/23 00:17 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 606 行（統合前 622 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 604 行（統合前 620 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 00:00 [financialjuice] Mexico's President Sheinbaum: The government is looking for ways to reduce imports from other nations and buy more goods from the US.
-- 09/22 00:02 [DeItaone] TOTAL CEO: TOO MUCH REFINING IS OFFLINE AHEAD OF WINTER
-- 09/22 00:05 [financialjuice] BoC's Gov. Macklem: If oil prices stay near $100 a barrel, we'd expect inflation to edge up in the coming months.
-- 09/22 00:05 [financialjuice] BoC's Gov. Macklem: Fuel prices have risen more than we'd normally expect, reflecting damage to global refining capacity.
-- 09/22 00:05 [financialjuice] BoC's Gov. Macklem: If new US tariffs remain in place, Q4 growth could be roughly halved to below 1%.
-- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: Recent gas prices have been more consistent with an oil price almost $40 higher than where it has been.
-- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: We don't want to raise rates and restrain growth if inflationary pressures are contained.
-- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: so far we haven't seen evidence that higher oil prices are spreading to other goods and services.
-- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: When it comes to rate decisions, we need to look beyond the initial shock of higher oil prices.
-- 09/22 00:06 [financialjuice] BoC's Gov. Macklem: Nor do we want to be too slow to respond if inflationary pressures are becoming more persistent.
-- 09/22 00:07 [financialjuice] BoC's Gov. Macklem: There is growing evidence that many Canadian businesses have started to adapt to US tariffs.
-- 09/22 00:08 [FirstSquawk] SPEECH BY BOC’S MACKLEM ON ‘NAVIGATING UNCERTAINTY AND ADAPTING TO CHANGE’
-- 09/22 00:10 [FirstSquawk] BOC’S MACKLEM: Q4 GROWTH COULD BE ROUGHLY HALVED IF NEW US TARIFFS REMAIN IN PLACE
-- 09/22 00:11 [financialjuice] BoE Breeden: It is a question whether regulation is set up for AI.
-- 09/22 00:15 [financialjuice] BoE Breeden: We need to move quickly on financial stability response.
-- 09/22 00:15 [FirstSquawk] BOE’S BREEDEN: ‘QUESTION’ ON IF REGULATION IS SET UP FOR AI
-- 09/22 00:15 [financialjuice] Fed bids for 3-month bills total $6.2 bln.
-- 09/22 00:15 [financialjuice] Fed bids for 6-month bills total $5.3 bln.
 - 09/22 00:18 [financialjuice] Moscow Oil Refinery has halted operations after a Ukrainian drone attack on September 20th - Sources.
 - 09/22 00:21 [DeItaone] UKRAINIAN DRONE STRIKE SHUTS MAJOR MOSCOW REFINERY Gazprom Neft’s Moscow refinery has halted crude processing after a Ukrainian drone attack sparked fires at both primary distillation units. Repairs could take several weeks, according to Re…
 - 09/22 00:31 [FirstSquawk] RUSSIAN PRESIDENT PUTIN PLANS TO ATTEND XI’S APEC SUMMIT, SKIP G20 WITH TRUMP
@@ -630,3 +612,19 @@
 - 09/22 23:55 [financialjuice] Trump: Will sign Greenland agreement later today.
 - 09/22 23:59 [FirstSquawk] TRUMP: THERE WILL BE NO GLOBAL TAXES
 - 09/22 23:59 [FirstSquawk] TRUMP: UN MUST STOP IMPOSING LEFTIST AGENDA
+- 09/23 00:00 [financialjuice] US to sell $90 bln 4-week bills on September 24th, to settle on September 29th.
+- 09/23 00:01 [financialjuice] Trump: The US rejects attempts of a global scheme to control AI
+- 09/23 00:02 [financialjuice] Trump: We will not stifle AI growth.
+- 09/23 00:03 [financialjuice] Trump calls warnings about AI "a hoax" in his UN speech.
+- 09/23 00:05 [FirstSquawk] US PRESIDENT TRUMP: US ‘TOTALLY REJECTS’ ANY ATTEMPT TO CONSTRUCT A GLOBALIST SCHEME TO CONTROL FOR AI
+- 09/23 00:05 [FirstSquawk] US PRESIDENT TRUMP ON AI: “NOT GOING TO STIFLE GROWTH OF SOMETHING THAT WILL BE BIGGER THAN THE INDUSTRIAL REVOLUTION”
+- 09/23 00:06 [financialjuice] Trump on Greenland Deal: The deal also protects Europe in addition to America.
+- 09/23 00:06 [financialjuice] Trump ends remarks at the United Nations General Assembly.
+- 09/23 00:06 [FirstSquawk] EU REMOVES USMANOV AND FRIDMAN FROM RUSSIA SANCTIONS LIST.
+- 09/23 00:10 [FirstSquawk] ARAB MEDIATORS PUSH FOR US-IRAN MEETING AT UN TO DE-ESCALATE CRISIS
+- 09/23 00:11 [financialjuice] US Treasury Deputy Secretary Brooke: We continue to enhance and expand the buyback program.
+- 09/23 00:13 [FirstSquawk] ABU DHABI'S XRG IS REPORTEDLY INTERESTED IN ACQUIRING A STAKE IN SHELL-BACKED LNG CANADA.
+- 09/23 00:14 [financialjuice] US Treasury Deputy Secretary Brooke: We want a smooth transition to central clearing.
+- 09/23 00:16 [FirstSquawk] US TREASURY SECRETARY BROOKE ANNOUNCES PLAN TO IMPROVE AND GROW BUYBACK PROGRAM.
+- 09/23 00:16 [financialjuice] US Treasury Deputy Secretary Brooke: We may see stablecoins grow demand for US Treasuries.
+- 09/23 00:17 [financialjuice] US Treasury Deputy Secretary Brooke: Markets absorbed bigger bill sales remarkably well.

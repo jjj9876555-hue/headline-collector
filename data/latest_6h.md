@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 00:00 JST／対象: 09/22 18:00 〜 09/23 00:00 JST（時刻はすべて日本時間）
+生成: 2026-09-23 00:18 JST／対象: 09/22 18:18 〜 09/23 00:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 80 | 09/22 18:10 | 09/22 23:59 | 33分（19:13→19:46） |
-| financialjuice | 103 | 09/22 18:00 | 09/22 23:55 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 83 | 09/22 18:43 | 09/23 00:16 | 33分（19:13→19:46） |
+| financialjuice | 109 | 09/22 18:27 | 09/23 00:17 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 199 行（統合前 207 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 208 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 18:00 [financialjuice] Brent and US crude futures down over 1% after Kyodo reports that Iran offered to reopen the strait within 7 days
-- 09/22 18:10 [FirstSquawk] IRAN'S GHALIBAF SAYS TRUMP CANNOT IMPOSE HIS POWER ON IRAN
-- 09/22 18:12 [financialjuice] Iran's Ghalibaf: Trump cannot impose his power on Iran
-- 09/22 18:12 [FirstSquawk] GHALIBAF SAYS IRAN WON'T SURRENDER, WILL STAND UP TO US - FARS
-- 09/22 18:12 [financialjuice] Iran's Parliament Speaker Ghalibaf: Iran won’t surrender, will stand up to the US - Fars
-- 09/22 18:15 [FirstSquawk] IRAN'S IRGC SAYS MUST NEGOTIATE IF NATIONAL INTERESTS REQUIRED
-- 09/22 18:18 [financialjuice] Iran's IRGC: Must negotiate if national interests required
 - 09/22 18:27 [financialjuice] Naftogaz: Facilities hit in Poltava region overnight
 - 09/22 18:32 [financialjuice] GERMAN 5 YR BOBL YIELD ACTUAL 3.28% (FORECAST -, PREVIOUS 3.09%) $MACRO
 - 09/22 18:32 [financialjuice] GERMAN 5 YR BOBL BID-TO-COVER ACTUAL 1.2 (FORECAST -, PREVIOUS 1.6) $MACRO
@@ -223,3 +216,19 @@
 - 09/22 23:55 [financialjuice] Trump: Will sign Greenland agreement later today.
 - 09/22 23:59 [FirstSquawk] TRUMP: THERE WILL BE NO GLOBAL TAXES
 - 09/22 23:59 [FirstSquawk] TRUMP: UN MUST STOP IMPOSING LEFTIST AGENDA
+- 09/23 00:00 [financialjuice] US to sell $90 bln 4-week bills on September 24th, to settle on September 29th.
+- 09/23 00:01 [financialjuice] Trump: The US rejects attempts of a global scheme to control AI
+- 09/23 00:02 [financialjuice] Trump: We will not stifle AI growth.
+- 09/23 00:03 [financialjuice] Trump calls warnings about AI "a hoax" in his UN speech.
+- 09/23 00:05 [FirstSquawk] US PRESIDENT TRUMP: US ‘TOTALLY REJECTS’ ANY ATTEMPT TO CONSTRUCT A GLOBALIST SCHEME TO CONTROL FOR AI
+- 09/23 00:05 [FirstSquawk] US PRESIDENT TRUMP ON AI: “NOT GOING TO STIFLE GROWTH OF SOMETHING THAT WILL BE BIGGER THAN THE INDUSTRIAL REVOLUTION”
+- 09/23 00:06 [financialjuice] Trump on Greenland Deal: The deal also protects Europe in addition to America.
+- 09/23 00:06 [financialjuice] Trump ends remarks at the United Nations General Assembly.
+- 09/23 00:06 [FirstSquawk] EU REMOVES USMANOV AND FRIDMAN FROM RUSSIA SANCTIONS LIST.
+- 09/23 00:10 [FirstSquawk] ARAB MEDIATORS PUSH FOR US-IRAN MEETING AT UN TO DE-ESCALATE CRISIS
+- 09/23 00:11 [financialjuice] US Treasury Deputy Secretary Brooke: We continue to enhance and expand the buyback program.
+- 09/23 00:13 [FirstSquawk] ABU DHABI'S XRG IS REPORTEDLY INTERESTED IN ACQUIRING A STAKE IN SHELL-BACKED LNG CANADA.
+- 09/23 00:14 [financialjuice] US Treasury Deputy Secretary Brooke: We want a smooth transition to central clearing.
+- 09/23 00:16 [FirstSquawk] US TREASURY SECRETARY BROOKE ANNOUNCES PLAN TO IMPROVE AND GROW BUYBACK PROGRAM.
+- 09/23 00:16 [financialjuice] US Treasury Deputy Secretary Brooke: We may see stablecoins grow demand for US Treasuries.
+- 09/23 00:17 [financialjuice] US Treasury Deputy Secretary Brooke: Markets absorbed bigger bill sales remarkably well.
