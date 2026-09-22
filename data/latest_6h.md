@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 15:22 JST／対象: 09/22 09:22 〜 09/22 15:22 JST（時刻はすべて日本時間）
+生成: 2026-09-22 15:41 JST／対象: 09/22 09:41 〜 09/22 15:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 94 | 09/22 09:22 | 09/22 15:22 | 34分（13:22→13:56） |
+| FirstSquawk | 87 | 09/22 09:44 | 09/22 15:25 | 34分（13:22→13:56） |
 | financialjuice | 34 | 09/22 12:21 | 09/22 15:00 | ⚠ 66分（12:56→14:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 128 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 121 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 09:22 [FirstSquawk] ASIAN STOCKS RISE 0.5% AS TECHNOLOGY SHARES TRACK WALL STREET HIGHER, WITH SOUTH KOREA’S KOSPI JUMPING MORE THAN 2% AND SAMSUNG ELECTRONICS AND SK HYNIX LEADING GAINS; U.S. SEMICONDUCTOR STOCKS RALLIED MORE THAN 4%, WHILE META SURGED 11% AN…
-- 09/22 09:22 [FirstSquawk] MARKETS ALSO FOCUS ON THURSDAY’S TRUMP-XI SUMMIT, WITH AI, TRADE AND INVESTMENT EXPECTED TO DOMINATE TALKS, WHILE BRENT HOLDS AROUND $100 AS MIDDLE EAST SUPPLY CONCERNS EASE; SPOT GOLD ROSE 0.7% TO $4,373.50, WHILE BITCOIN FELL 0.7% TO $86,…
-- 09/22 09:25 [FirstSquawk] Asian shares start higher after a strong Wall Street session, with the Nasdaq outperforming on Meta’s 11% surge and AMD crossing the $1 trillion market-cap mark
-- 09/22 09:26 [FirstSquawk] SOUTH KOREA'S INDUSTRY MINISTRY IS TO BRIEF LAWMAKERS ON A TEXAS GAS POWER PLANT AS THE FIRST POTENTIAL PROJECT IN A U.S. INVESTMENT PACKAGE, A SOURCE SAYS, ADDING THAT SOUTH KOREA AND THE U.S. HAVE NOT REACHED AGREEMENT ON A WESTINGHOUSE S…
-- 09/22 09:26 [FirstSquawk] Gold climbs as strong fundamentals continue to support prices — WSJ
-- 09/22 09:31 [FirstSquawk] Coinbase confirms reported issue is now resolved
-- 09/22 09:33 [FirstSquawk] Vietnam’s leader To Lam says US trade deal could be signed soon
-- 09/22 09:40 [FirstSquawk] Bill Pulte’s mortgage scrutiny extended to Trump’s political rivals — WSJ
 - 09/22 09:44 [FirstSquawk] Oil gains modestly as traders monitor signs of Mideast conflict diplomacy — WSJ
 - 09/22 09:49 [FirstSquawk] Nikkei seen poised for a potential rally as shorts pile up — WSJ
 - 09/22 09:51 [FirstSquawk] Google starts pre-orders for $899 laptops featuring Gemini AI — Reuters
@@ -152,3 +144,4 @@
 - 09/22 15:01 [FirstSquawk] UK ( AUG) PSNB EX BANKING GROUPS ACTUAL: 18.3B VS 1.8B PREVIOUS
 - 09/22 15:02 [FirstSquawk] South Korean appeals court reduces Kim Keon Hee’s prison sentence to five years from seven — Yonhap
 - 09/22 15:22 [FirstSquawk] Deutsche Bank lowers Novo Nordisk target to DKK 245 from DKK 265
+- 09/22 15:25 [FirstSquawk] Australia’s benchmark S&P/ASX 200 rises 0.3% to 8,757.80

@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 15:22 JST／対象: 09/22 03:22 〜 09/22 15:22 JST（時刻はすべて日本時間）
+生成: 2026-09-22 15:41 JST／対象: 09/22 03:41 〜 09/22 15:41 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 193 | 09/22 03:43 | 09/22 15:22 | 44分（06:24→07:08） |
-| financialjuice | 65 | 09/22 03:31 | 09/22 15:00 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 194 | 09/22 03:43 | 09/22 15:25 | 44分（06:24→07:08） |
+| financialjuice | 58 | 09/22 03:51 | 09/22 15:00 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 257 行（統合前 259 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 251 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $95.78 a barrel down $4.52, 4.51%
-- 09/22 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.8895 a gallon
-- 09/22 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.4699 a gallon
-- 09/22 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8360/MMBTU
-- 09/22 03:32 [financialjuice] SoftBank-backed SB Energy delays its IPO - NYT
-- 09/22 03:36 [financialjuice] AWS: xAI's Grok 4.6 now available in Amazon Bedrock - Blog. $AMZN $SPCX
-- 09/22 03:40 [financialjuice] Fed's Musalem: Core inflation may be running 1 percentage point above Fed's target.
 - 09/22 03:43 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 4.51% LOWER AT $95.78/BBL, DOWN $4.52
 - 09/22 03:44 [FirstSquawk] FED'S MUSALEM SAYS THAT WITHOUT FURTHER POLICY RESTRAINT, IT IS MORE LIKELY INFLATION WILL REMAIN SUBSTANTIALLY ABOVE THE 2% TARGET 18 MONTHS FROM NOW, ADDING THAT FURTHER HIKES ARE LIKELY NEEDED TO TAME INFLATION THAT IS BOTH DEMAND- AND S…
 - 09/22 03:44 [FirstSquawk] FED'S MUSALEM SAYS THE COMMODITY SHOCK IS MORE THAN JUST OIL AND INCLUDES BASE METALS LIKE COPPER, AND THAT EVEN WHEN STRIPPING OUT SUPPLY-RELATED FACTORS, INFLATION REMAINS 'TOO HIGH', WITH BUSINESS CONTACTS PLANNING ON PRICE INCREASES 'CL…
@@ -281,3 +274,4 @@
 - 09/22 15:01 [FirstSquawk] UK ( AUG) PSNB EX BANKING GROUPS ACTUAL: 18.3B VS 1.8B PREVIOUS
 - 09/22 15:02 [FirstSquawk] South Korean appeals court reduces Kim Keon Hee’s prison sentence to five years from seven — Yonhap
 - 09/22 15:22 [FirstSquawk] Deutsche Bank lowers Novo Nordisk target to DKK 245 from DKK 265
+- 09/22 15:25 [FirstSquawk] Australia’s benchmark S&P/ASX 200 rises 0.3% to 8,757.80
