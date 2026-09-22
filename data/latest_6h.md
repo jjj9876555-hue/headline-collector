@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 18:54 JST／対象: 09/22 12:54 〜 09/22 18:54 JST（時刻はすべて日本時間）
+生成: 2026-09-22 19:18 JST／対象: 09/22 13:18 〜 09/22 19:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 50 | 09/22 12:56 | 09/22 18:44 | 34分（13:22→13:56） |
-| financialjuice | 39 | 09/22 12:55 | 09/22 18:54 | ⚠ 66分（12:56→14:02） |
+| FirstSquawk | 52 | 09/22 13:22 | 09/22 19:13 | 34分（13:22→13:56） |
+| financialjuice | 40 | 09/22 14:02 | 09/22 18:57 | ⚠ 57分（17:02→18:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 89 行（統合前 89 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 92 行（統合前 92 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 12:55 [financialjuice] RBA Governor Bullock: not indicating any policy shift, decision up to board
-- 09/22 12:56 [FirstSquawk] RBA Gov. Bullock: No policy guidance being given; the decision is up to the board
-- 09/22 12:56 [financialjuice] RBA Governor Bullock: inflation risks emerging from Middle East, strong domestic demand
-- 09/22 12:56 [FirstSquawk] RBA Gov. Bullock: Inflation risks are materialising from Middle East tensions and strong domestic demand
-- 09/22 13:02 [FirstSquawk] Deutsche Bank asset manager weighs tighter curbs on German property funds — FT
-- 09/22 13:18 [FirstSquawk] Russia’s parliament sees rise of Putin’s “war heroes” as a new political elite — FT
 - 09/22 13:22 [FirstSquawk] US oil futures gain more than 1% to $96.82/bbl ahead of possible US-Iran negotiations
 - 09/22 13:56 [FirstSquawk] RBC downgrades Burberry to Sector Perform from Outperform, cuts target to 1,200p from 1,400p
 - 09/22 13:58 [FirstSquawk] Novo Nordisk target price cut to DKK 275 from DKK 285 by Jefferies
@@ -113,3 +107,12 @@
 - 09/22 18:53 [financialjuice] Senior Iranian Official: Iranian delegation is in New York with full authority to revive diplomacy with the US
 - 09/22 18:53 [financialjuice] Senior Iranian Official: Details of an agreement to end hostilities with us can be discussed in New York via mediators
 - 09/22 18:54 [financialjuice] ❗ Senior Iranian official: Iran can reopen Hormuz within seven days if the US eases military pressure and lifts the port blockade
+- 09/22 18:55 [financialjuice] Senior Iranian Official: Iran's proposal was delivered to the US via mediators on September 16th
+- 09/22 18:57 [FirstSquawk] SAUDI ARABIA: RESTARTS EAST-WEST OIL PIPELINE || PREPARES TO RESUME CRUDE OIL EXPORTS FROM YANBU PORT LATER ON TUESDAY - TRADE SOURCES
+- 09/22 18:57 [financialjuice] Saudi Arabia restarts East-West oil pipeline - Trade sources
+- 09/22 18:57 [financialjuice] Saudi Arabia prepares to resume crude oil exports from Yanbu port later on Tuesday - Trade sources
+- 09/22 19:05 [FirstSquawk] CHINA COMMERCE MINISTER: URGES THE BLOC NOT TO PURSUE PROTECTIONISM THAT COULD RESTRICT OR CLOSE MARKETS AND TRIGGER WIDER GLOBAL FRAGMENTATION
+- 09/22 19:07 [FirstSquawk] CHINA COMMERCE MINISTER HELD CALL WITH EU AUTO INDUSTRY HEAD
+- 09/22 19:09 [FirstSquawk] BRENT, US CRUDE FUTURES EXTEND FALL TO ITS LOWEST LEVEL SINCE SEPTEMBER 8 ON HOPES OF INCREASED SUPPLIES FROM THE GULF
+- 09/22 19:10 [FirstSquawk] BOFA RAISES BRENT OIL PRICE FORECAST TO $95 FROM $83 ON PERSISTENT MIDDLE EAST TENSIONS
+- 09/22 19:13 [FirstSquawk] CHINA WELCOMES MERCEDES-BENZ, OTHER EUROPEAN CARMAKERS
