@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 02:23 JST／対象: 09/22 20:23 〜 09/23 02:23 JST（時刻はすべて日本時間）
+生成: 2026-09-23 02:42 JST／対象: 09/22 20:42 〜 09/23 02:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 7 | 09/22 20:41 | 09/22 21:26 | 15分（21:11→21:26） |
-| FirstSquawk | 89 | 09/22 20:40 | 09/23 01:56 | 18分（00:59→01:17） |
-| financialjuice | 144 | 09/22 20:54 | 09/23 02:14 | 20分（21:15→21:36） |
+| DeItaone | 6 | 09/22 20:46 | 09/22 21:26 | 15分（21:11→21:26） |
+| FirstSquawk | 93 | 09/22 20:43 | 09/23 02:40 | 35分（01:56→02:31） |
+| financialjuice | 148 | 09/22 20:54 | 09/23 02:37 | 20分（21:15→21:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 232 行（統合前 245 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 239 行（統合前 253 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 20:40 [FirstSquawk] RUBIO, ASKED ABOUT IRAN: NEVER CLOSE THE DOOR TO DIPLOMACY
-- 09/22 20:40 [FirstSquawk] RUBIO: IRAN'S ECONOMY IS BEING CRIPPLED BY SANCTIONS
-- 09/22 20:41 [DeItaone] RUBIO: INTEND TO LIVE UP TO COMMITMENTS WITH SAUDI ARABIA -FOX NEWS INTERVIEW
 - 09/22 20:43 [FirstSquawk] US SECRETARY OF STATE RUBIO ON UKRAINE WAR: CONCERNED ABOUT US-LINKED SHIPS BEING TARGETED -FOX NEWS INTERVIEW
 - 09/22 20:44 [FirstSquawk] RUBIO: IDEAL OUTCOME RUSSIA, UKRAINE NOT TARGETING ENERGY SITES
 - 09/22 20:46 [DeItaone] *MILEI'S US TRADE DEAL UNDER THREAT ON DEMAND FOR BETTER TERMS
@@ -256,3 +253,13 @@
 - 09/23 02:12 [financialjuice] Fed's Barkin: Consumers will spend as long as the job market remains healthy.
 - 09/23 02:13 [financialjuice] Trump ends remarks to reporters.
 - 09/23 02:14 [financialjuice] Trump: Will talk about China-Japan relations with Takaichi.
+- 09/23 02:28 [financialjuice] Trump adviser ties high Gas prices to refining - Axios
+- 09/23 02:31 [financialjuice] Fed's Barkin: Like to think this period will be more like the 1990s mid-cycle adjustment.
+- 09/23 02:31 [FirstSquawk] TRUMP ADVISER AGEN TIES HIGHER GAS PRICES TO STRAINED REFINING CAPACITY - AXIOS, VIA DBNEWS
+- 09/23 02:34 [FirstSquawk] US PROPOSES $10 BLN FUND WITH ARAB ALLIES TO BYPASS HORMUZ – FT
+- 09/23 02:35 [financialjuice] Trump Participates in a Bilateral Meeting with the President of Ukraine - WATCH LIVE
+- 09/23 02:37 [FirstSquawk] AI-LINKED TECHNOLOGY STOCKS LED A ROTATION OUT OF FINANCIALS, PUSHING THE NASDAQ 100 TO THE BRINK OF ITS FIRST RECORD CLOSE SINCE JUNE, WHILE SHOPIFY JUMPED 7.3% AFTER ITS MUSE AI PARTNERSHIP WITH META.
+- 09/23 02:37 [FirstSquawk] THE S&P 500 STRUGGLED AS FINANCIALS SOLD OFF AND THE DOW FELL 0.5%, WHILE INVESTORS ALSO TRACKED HORMUZ DIPLOMACY, SAUDI PIPELINE RESTART PLANS AND RISING YIELDS THAT CONTINUE TO PRESSURE THE BROADER MARKET.
+- 09/23 02:37 [financialjuice] Fed's Barkin: Fed is highly attentive to financial conditions, but can't assume markets will keep rates at a level needed to cool inflation.
+- 09/23 02:40 [FirstSquawk] FED’S BARKIN: FED IS HIGHLY ATTENTIVE TO FINANCIAL CONDITIONS BUT CANNOT ASSUME MARKETS WILL KEEP RATES HIGH ENOUGH TO COOL INFLATION
+- 09/23 02:40 [FirstSquawk] FED’S BARKIN: HOPES CURRENT PERIOD RESEMBLES THE 1990S MID-CYCLE ADJUSTMENT
