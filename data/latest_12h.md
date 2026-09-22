@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 22:18 JST／対象: 09/22 10:18 〜 09/22 22:18 JST（時刻はすべて日本時間）
+生成: 2026-09-22 22:34 JST／対象: 09/22 10:34 〜 09/22 22:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 139 | 09/22 10:21 | 09/22 22:12 | 34分（13:22→13:56） |
-| financialjuice | 96 | 09/22 12:21 | 09/22 22:12 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 138 | 09/22 10:43 | 09/22 22:33 | 34分（13:22→13:56） |
+| financialjuice | 100 | 09/22 12:21 | 09/22 22:33 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 252 行（統合前 258 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 255 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 10:21 [FirstSquawk] PBOC injects 35 bln yuan through 7-day reverse repos, rate unchanged at 1.40%
-- 09/22 10:24 [FirstSquawk] EU’s von der Leyen says free trade agreement agreed with Philippines
-- 09/22 10:27 [FirstSquawk] China’s STAR 50 Index set for a 2.5% gain at the open
-- 09/22 10:30 [FirstSquawk] Hang Seng AI Index poised to jump nearly 3% at the open
-- 09/22 10:34 [FirstSquawk] Xbox plans hundreds of job cuts as it consolidates game studios — The Information
 - 09/22 10:43 [FirstSquawk] Canadian dollar falls to lowest level since Aug. 5 as US dollar strength weighs — FXStreet
 - 09/22 10:52 [FirstSquawk] Japan reiterates support for Nepal following flash floods at UN meeting — Kyodo
 - 09/22 10:53 [FirstSquawk] South Korea in talks with US over 5%-10% stake in Westinghouse — Yonhap
@@ -276,3 +271,11 @@
 - 09/22 22:09 [FirstSquawk] CURRENTLY NO MEETING SCHEDULE WITH US-IRANIAN OFFICIALS: CNN
 - 09/22 22:12 [FirstSquawk] GOLDMAN IN TALKS TO BUY $37 BILLION CREDIT FIRM PALMER SQUARE
 - 09/22 22:12 [financialjuice] Bank of America raises it's 2H26 Brent price estimate to $95 a barrel from $83 a barrel.
+- 09/22 22:18 [FirstSquawk] EXPLOSIONS OCCURRED IN THE STRAIT OF HORMUZ AFTER IRGC ATTACKED SHIPS.
+- 09/22 22:27 [FirstSquawk] IRAN FM ARAGHCHI MET ITALIAN COUNTERPART TAJANI IN NEW YORK - TASNIM
+- 09/22 22:29 [financialjuice] Libya's NOC: The Sharara-Zawiya Crude loading pipeline closure leads to daily losses of around 130,000 bpd - Statement.
+- 09/22 22:30 [financialjuice] Libya's NOC: Expect losses to rise if the shutdown persists.
+- 09/22 22:30 [financialjuice] ❗ MOO IMBALANCE S&P 500: -64.9 MLN NASDAQ 100: -80.7 MLN DOW 30: -55.4 MLN MAG 7: -47.6 MLN $MACRO
+- 09/22 22:31 [FirstSquawk] S&P 500 UP 7.39 POINTS, OR 0.10 PERCENT, AT 7,772.09 AFTER MARKET OPEN NASDAQ UP 50.36 POINTS, OR 0.19 PERCENT, AT 27,172.45 AFTER MARKET OPEN DOW JONES UP 187.16 POINTS, OR 0.36 %, AT 52,235.99 AFTER MARKET OPEN
+- 09/22 22:33 [financialjuice] Fed's Collins: I supported last week's rate hike.
+- 09/22 22:33 [FirstSquawk] FED'S COLLINS: SUPPORTED LAST WEEK'S RATE HIKE

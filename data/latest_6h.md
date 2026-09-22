@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 22:18 JST／対象: 09/22 16:18 〜 09/22 22:18 JST（時刻はすべて日本時間）
+生成: 2026-09-22 22:34 JST／対象: 09/22 16:34 〜 09/22 22:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 62 | 09/22 16:32 | 09/22 22:12 | 33分（19:13→19:46） |
-| financialjuice | 57 | 09/22 16:25 | 09/22 22:12 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 64 | 09/22 16:35 | 09/22 22:33 | 33分（19:13→19:46） |
+| financialjuice | 58 | 09/22 16:39 | 09/22 22:33 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 139 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 16:25 [financialjuice] UBS CEO: I see 'great momentum’ in wealth creation in the US
-- 09/22 16:26 [financialjuice] UBS CEO: Attrition of financial advisers in the US is plateauing
-- 09/22 16:26 [financialjuice] UBS CEO: AI will be important for us to bring down costs
-- 09/22 16:32 [FirstSquawk] HUNGARY'S RULING PARTY DISAGREES WITH PRESIDENT'S CHOICE FOR TOP PROSECUTOR.
-- 09/22 16:32 [FirstSquawk] LAVROV AND RUBIO SET TO MEET ON SEPTEMBER 23, ACCORDING TO TASS.
 - 09/22 16:35 [FirstSquawk] USD/JPY INCREASES FOR THIRD STRAIGHT DAY, UP 0.3% TO 157.75.
 - 09/22 16:39 [financialjuice] Russia's Lavrov and Rubio expected to meet September 23rd - Tass
 - 09/22 16:45 [financialjuice] EU's Trade Chief Sefcovic: Deal delivers stronger, more diversified supply chain
@@ -160,3 +155,11 @@
 - 09/22 22:09 [FirstSquawk] CURRENTLY NO MEETING SCHEDULE WITH US-IRANIAN OFFICIALS: CNN
 - 09/22 22:12 [FirstSquawk] GOLDMAN IN TALKS TO BUY $37 BILLION CREDIT FIRM PALMER SQUARE
 - 09/22 22:12 [financialjuice] Bank of America raises it's 2H26 Brent price estimate to $95 a barrel from $83 a barrel.
+- 09/22 22:18 [FirstSquawk] EXPLOSIONS OCCURRED IN THE STRAIT OF HORMUZ AFTER IRGC ATTACKED SHIPS.
+- 09/22 22:27 [FirstSquawk] IRAN FM ARAGHCHI MET ITALIAN COUNTERPART TAJANI IN NEW YORK - TASNIM
+- 09/22 22:29 [financialjuice] Libya's NOC: The Sharara-Zawiya Crude loading pipeline closure leads to daily losses of around 130,000 bpd - Statement.
+- 09/22 22:30 [financialjuice] Libya's NOC: Expect losses to rise if the shutdown persists.
+- 09/22 22:30 [financialjuice] ❗ MOO IMBALANCE S&P 500: -64.9 MLN NASDAQ 100: -80.7 MLN DOW 30: -55.4 MLN MAG 7: -47.6 MLN $MACRO
+- 09/22 22:31 [FirstSquawk] S&P 500 UP 7.39 POINTS, OR 0.10 PERCENT, AT 7,772.09 AFTER MARKET OPEN NASDAQ UP 50.36 POINTS, OR 0.19 PERCENT, AT 27,172.45 AFTER MARKET OPEN DOW JONES UP 187.16 POINTS, OR 0.36 %, AT 52,235.99 AFTER MARKET OPEN
+- 09/22 22:33 [financialjuice] Fed's Collins: I supported last week's rate hike.
+- 09/22 22:33 [FirstSquawk] FED'S COLLINS: SUPPORTED LAST WEEK'S RATE HIKE

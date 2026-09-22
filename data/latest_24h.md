@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 22:18 JST／対象: 09/21 22:18 〜 09/22 22:18 JST（時刻はすべて日本時間）
+生成: 2026-09-22 22:34 JST／対象: 09/21 22:34 〜 09/22 22:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 50 | 09/21 22:44 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 334 | 09/21 22:27 | 09/22 22:12 | 44分（06:24→07:08） |
-| financialjuice | 229 | 09/21 22:26 | 09/22 22:12 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 337 | 09/21 22:37 | 09/22 22:33 | 44分（06:24→07:08） |
+| financialjuice | 230 | 09/21 22:52 | 09/22 22:33 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 597 行（統合前 618 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 601 行（統合前 622 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 22:26 [financialjuice] Société Générale CEO Krupa: France has significant macroeconomic challenges, but also strengths in energy, education, and start-ups.
-- 09/21 22:26 [financialjuice] Trump spoke via phone with Yemeni President Rashad Al-alimi on Sunday - Four Sources.
-- 09/21 22:27 [FirstSquawk] WHITE HOUSE TV POOL WON'T COVER TRUMP IN NYC: CNBC
-- 09/21 22:27 [financialjuice] Yemen's President requested US support for the government against the Houthis, but Trump made no pledge of military support - Two Sources
 - 09/21 22:37 [FirstSquawk] UKRAINE’S ZELENSKIY: RUSSIA MUST STOP TARGETING UKRAINE'S ENERGY SECTOR; WILL FOLLOW WITH DE-ESCALATION ONCE RUSSIA STOPS
 - 09/21 22:39 [FirstSquawk] META EXTENDS GAINS TO 5%
 - 09/21 22:42 [FirstSquawk] EU SET TO LIFT RUSSIA SANCTIONS ON ALISHER USMANOV AND MIKHAIL FRIDMAN, BARRING ANY LATE OBJECTIONS FROM EU GOVERNMENTS, DIPLOMATS SAY
@@ -621,3 +617,11 @@
 - 09/22 22:09 [FirstSquawk] CURRENTLY NO MEETING SCHEDULE WITH US-IRANIAN OFFICIALS: CNN
 - 09/22 22:12 [FirstSquawk] GOLDMAN IN TALKS TO BUY $37 BILLION CREDIT FIRM PALMER SQUARE
 - 09/22 22:12 [financialjuice] Bank of America raises it's 2H26 Brent price estimate to $95 a barrel from $83 a barrel.
+- 09/22 22:18 [FirstSquawk] EXPLOSIONS OCCURRED IN THE STRAIT OF HORMUZ AFTER IRGC ATTACKED SHIPS.
+- 09/22 22:27 [FirstSquawk] IRAN FM ARAGHCHI MET ITALIAN COUNTERPART TAJANI IN NEW YORK - TASNIM
+- 09/22 22:29 [financialjuice] Libya's NOC: The Sharara-Zawiya Crude loading pipeline closure leads to daily losses of around 130,000 bpd - Statement.
+- 09/22 22:30 [financialjuice] Libya's NOC: Expect losses to rise if the shutdown persists.
+- 09/22 22:30 [financialjuice] ❗ MOO IMBALANCE S&P 500: -64.9 MLN NASDAQ 100: -80.7 MLN DOW 30: -55.4 MLN MAG 7: -47.6 MLN $MACRO
+- 09/22 22:31 [FirstSquawk] S&P 500 UP 7.39 POINTS, OR 0.10 PERCENT, AT 7,772.09 AFTER MARKET OPEN NASDAQ UP 50.36 POINTS, OR 0.19 PERCENT, AT 27,172.45 AFTER MARKET OPEN DOW JONES UP 187.16 POINTS, OR 0.36 %, AT 52,235.99 AFTER MARKET OPEN
+- 09/22 22:33 [financialjuice] Fed's Collins: I supported last week's rate hike.
+- 09/22 22:33 [FirstSquawk] FED'S COLLINS: SUPPORTED LAST WEEK'S RATE HIKE
