@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 00:32 JST／対象: 09/22 00:32 〜 09/23 00:32 JST（時刻はすべて日本時間）
+生成: 2026-09-23 00:45 JST／対象: 09/22 00:45 〜 09/23 00:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/22 00:33 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 343 | 09/22 00:32 | 09/23 00:32 | 44分（06:24→07:08） |
-| financialjuice | 243 | 09/22 00:32 | 09/23 00:30 | ⚠ 248分（08:13→12:21） |
+| DeItaone | 28 | 09/22 00:47 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
+| FirstSquawk | 341 | 09/22 00:46 | 09/23 00:41 | 44分（06:24→07:08） |
+| financialjuice | 239 | 09/22 00:50 | 09/23 00:42 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 605 行（統合前 620 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 597 行（統合前 612 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 00:32 [financialjuice] US 6-MONTH AWARDED HIGH ACTUAL 48.010% (FORECAST -, PREVIOUS 82.500%) $MACRO
-- 09/22 00:32 [FirstSquawk] FRANCE'S CAC 40 UP 0.96%; SPAIN'S IBEX UP 1.16%
-- 09/22 00:32 [financialjuice] US 3-MONTH AWARDED HIGH ACTUAL 36.660% (FORECAST -, PREVIOUS 13.860%) $MACRO
-- 09/22 00:32 [financialjuice] US 3-Month Bill Auction High Yield 4.015% Bid-to-cover 2.77 US sells $92 bln Awards 36.66% of bids at high
-- 09/22 00:33 [financialjuice] US 6-Month Bill Auction High Yield 4.155% Bid-to-cover 2.62 Sells $79 bln Awards 48.01% of bids at high
-- 09/22 00:33 [DeItaone] VENEZUELAN DELEGATION LED BY INTERIM PRESIDENT RODRIGUEZ TO DISCUSS ENERGY, DEBT AND MINING WITH COUNTERPARTIES IN US, AGREEMENTS COULD BE SIGNED, SOURCES SAY
-- 09/22 00:33 [FirstSquawk] US: REDIRECTED 110 COMMERCIAL VESSELS IN HORMUZ AS OF SEPT.21
-- 09/22 00:38 [FirstSquawk] U.S. DIESEL PRICES HAVE REACHED A RECORD HIGH OVER $6.50, ACCORDING TO AAA.
-- 09/22 00:38 [DeItaone] GOP SCRAMBLES AS DIESEL HITS RECORD $6.51 Republicans are weighing a diesel export ban and gas-tax holiday as surging fuel costs pressure consumers and farmers ahead of the midterms. (The Wall Street Journal) But Congress has little time to…
-- 09/22 00:40 [financialjuice] Advisor to Iraq's Najaf Governor: Initial oil production from the Al-Qarnayn field, in partnership with China's Xinhua, to begin at the start of 2027 - IRNA
-- 09/22 00:42 [FirstSquawk] MICHAEL SAYLOR BOUGHT BITCOIN WORTH $75.7 MILLION AFTER A THREE-WEEK BREAK TO REBUILD INVESTOR CONFIDENCE.
-- 09/22 00:43 [financialjuice] China's Foreign Minister Wang Yi speaks to Germany's Foreign Minister Wadephul - Xinhua
-- 09/22 00:44 [financialjuice] China's Foreign Minister Wang Yi calls for enhancing strategic communications with Germany.
-- 09/22 00:45 [financialjuice] China's Foreign Minister Wang Yi: China and the EU shouldn't be in a trade war.
 - 09/22 00:46 [FirstSquawk] EUROPEAN COMMISSION APPROVES ROCHE’S SUSVIMO ® FOR THE TREATMENT OF NEOVASCULAR AGE-RELATED MACULAR DEGENERATION (NAMD)
 - 09/22 00:47 [DeItaone] $SPCX - SPACEXAI - SPACEXAI LAUNCHES GROK 4.7, TWICE AS FAST AT HALF THE PRICE OF COMPARABLE MODELS
 - 09/22 00:47 [FirstSquawk/financialjuice] SPACEXAI - GROK 4.7 PRICED AT $2 PER MILLION INPUT TOKENS AND $6 PER MILLION OUTPUT TOKENS
@@ -629,3 +615,9 @@
 - 09/23 00:29 [FirstSquawk] BESSENT, HE TO TALK IF AI NATIONAL SECURITY INCIDENT: POLITICO
 - 09/23 00:30 [financialjuice] The AI safety ‘mechanism’ is a channel between US Treasury Secretary Bessent and China's Vice Premier He Lifeng - Politico
 - 09/23 00:32 [FirstSquawk] NEW AI SAFETY ‘MECHANISM’ IS A CHANNEL BETWEEN BESSENT AND HIS CHINESE COUNTERPART – POLITICO
+- 09/23 00:34 [financialjuice] Danish Prime minister on Trump's Greenland deal: Today we are signing a deal that can last forever.
+- 09/23 00:34 [financialjuice] Saudi Aramco plans a reorganisation to create a new gas division, and considers possible new listings of units - Sources.
+- 09/23 00:34 [FirstSquawk] SAUDI ARAMCO WILL REORGANIZE TO FORM A NEW GAS DIVISION AND IS LOOKING INTO NEW LISTINGS OF ITS UNITS, ACCORDING TO SOURCES.
+- 09/23 00:39 [financialjuice] Trump signs the security agreement with Denmark and Greenland.
+- 09/23 00:41 [FirstSquawk] IRGC SPOX HOSSEIN MOHEBI: IRAN 'TOUGHENED' CONDITIONS FOR ENDING WAR AFTER US DEAL COLLAPSE - AFP
+- 09/23 00:42 [financialjuice] Trump concludes the Trilateral Signing Event.

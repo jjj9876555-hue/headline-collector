@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 00:32 JST／対象: 09/22 12:32 〜 09/23 00:32 JST（時刻はすべて日本時間）
+生成: 2026-09-23 00:45 JST／対象: 09/22 12:45 〜 09/23 00:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 134 | 09/22 12:35 | 09/23 00:32 | 34分（13:22→13:56） |
-| financialjuice | 145 | 09/22 12:34 | 09/23 00:30 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 135 | 09/22 12:49 | 09/23 00:41 | 34分（13:22→13:56） |
+| financialjuice | 148 | 09/22 12:48 | 09/23 00:42 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 295 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 299 行（統合前 307 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 12:34 [financialjuice] RBA Governor Bullock: unemployment at 4.5% to 5.0% likely to reduce inflation pressure
-- 09/22 12:35 [FirstSquawk] RBA Gov. Bullock: Higher unemployment at 4.5%-5.0% could ease pressure on inflation
 - 09/22 12:48 [financialjuice] RBA governor Bullock: Neutral rates rising globally, driving up real bond yields
 - 09/22 12:49 [FirstSquawk] RBA Gov. Bullock: Neutral interest rates rising worldwide are putting upward pressure on real bond yields
 - 09/22 12:52 [financialjuice] RBA Governor Bullock: Australian dollar mirrors commodities and interest rate gaps
@@ -319,3 +317,9 @@
 - 09/23 00:29 [FirstSquawk] BESSENT, HE TO TALK IF AI NATIONAL SECURITY INCIDENT: POLITICO
 - 09/23 00:30 [financialjuice] The AI safety ‘mechanism’ is a channel between US Treasury Secretary Bessent and China's Vice Premier He Lifeng - Politico
 - 09/23 00:32 [FirstSquawk] NEW AI SAFETY ‘MECHANISM’ IS A CHANNEL BETWEEN BESSENT AND HIS CHINESE COUNTERPART – POLITICO
+- 09/23 00:34 [financialjuice] Danish Prime minister on Trump's Greenland deal: Today we are signing a deal that can last forever.
+- 09/23 00:34 [financialjuice] Saudi Aramco plans a reorganisation to create a new gas division, and considers possible new listings of units - Sources.
+- 09/23 00:34 [FirstSquawk] SAUDI ARAMCO WILL REORGANIZE TO FORM A NEW GAS DIVISION AND IS LOOKING INTO NEW LISTINGS OF ITS UNITS, ACCORDING TO SOURCES.
+- 09/23 00:39 [financialjuice] Trump signs the security agreement with Denmark and Greenland.
+- 09/23 00:41 [FirstSquawk] IRGC SPOX HOSSEIN MOHEBI: IRAN 'TOUGHENED' CONDITIONS FOR ENDING WAR AFTER US DEAL COLLAPSE - AFP
+- 09/23 00:42 [financialjuice] Trump concludes the Trilateral Signing Event.

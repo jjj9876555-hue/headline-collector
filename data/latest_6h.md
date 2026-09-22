@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 00:32 JST／対象: 09/22 18:32 〜 09/23 00:32 JST（時刻はすべて日本時間）
+生成: 2026-09-23 00:45 JST／対象: 09/22 18:45 〜 09/23 00:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 86 | 09/22 18:43 | 09/23 00:32 | 33分（19:13→19:46） |
-| financialjuice | 111 | 09/22 18:38 | 09/23 00:30 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 83 | 09/22 18:57 | 09/23 00:41 | 33分（19:13→19:46） |
+| financialjuice | 111 | 09/22 18:52 | 09/23 00:42 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 213 行（統合前 221 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 210 行（統合前 218 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 18:38 [financialjuice] Russia's oil exports from black sea Novorossiysk port rose to 650,000 barrels per day in September, up 50% from August - Sources and data
-- 09/22 18:41 [financialjuice] Kremlin: Putin and Erdogan discussed black sea strike halt - IFX
-- 09/22 18:41 [financialjuice] Kremlin: Russia says U.N. Security Council membership should be increased, but veto powers should remain
-- 09/22 18:41 [financialjuice] Kremlin: Diplomatic talks ongoing on black sea strikes - IFX
-- 09/22 18:43 [FirstSquawk] KREMLIN SAYS U.S. VISA DENIAL GOES AGAINST ITS DUTIES AS U.N. HOST AND PLANS TO DISCUSS IT WITH WASHINGTON.
-- 09/22 18:43 [FirstSquawk] KREMLIN REPORTS THAT U.S. DENIED A VISA TO DEPUTY FOREIGN MINISTER, CONSIDERING IT AN UNFRIENDLY MOVE.
-- 09/22 18:43 [FirstSquawk] KREMLIN STATED THAT THE SUBJECT OF U.S. MILITARY BASES IN GREENLAND IS A CONCERN FOR THE INVOLVED COUNTRIES. KREMLIN NOTES GERMANY'S AFD PARTY IS GAINING POPULARITY AND THEY SEEK CONVERSATIONS WITH MOSCOW, WHICH THEY FIND INTERESTING.
-- 09/22 18:44 [FirstSquawk] KREMLIN CALLS FOR LIFTING SANCTIONS ON ALL RUSSIAN CITIZENS, NOT JUST BUSINESSMEN FRIDMAN AND USMANOV. KREMLIN STATES U.S. AND ALLIES ARE NOT WORKING WITH RUSSIA IN THE ARCTIC.
-- 09/22 18:44 [FirstSquawk] KREMLIN REPORTS RUSSIA IS DISCOVERING NEW ROUTES FOR ITS GRAIN EXPORTS. KREMLIN CONFIRMS PUTIN AND ERDOGAN DISCUSSED TURKISH PLAN FOR BLACK SEA, WITH MORE DIPLOMATIC COMMUNICATION FOLLOWING. KREMLIN ACCUSES UKRAINE OF CAUSING PROBLEMS FOR G…
 - 09/22 18:52 [financialjuice] Senior Iranian official: Tehran welcomes revival of diplomacy if the US takes tangible steps
 - 09/22 18:53 [financialjuice] Senior Iranian Official: Iranian delegation is in New York with full authority to revive diplomacy with the US
 - 09/22 18:53 [financialjuice] Senior Iranian Official: Details of an agreement to end hostilities with us can be discussed in New York via mediators
@@ -237,3 +228,9 @@
 - 09/23 00:29 [FirstSquawk] BESSENT, HE TO TALK IF AI NATIONAL SECURITY INCIDENT: POLITICO
 - 09/23 00:30 [financialjuice] The AI safety ‘mechanism’ is a channel between US Treasury Secretary Bessent and China's Vice Premier He Lifeng - Politico
 - 09/23 00:32 [FirstSquawk] NEW AI SAFETY ‘MECHANISM’ IS A CHANNEL BETWEEN BESSENT AND HIS CHINESE COUNTERPART – POLITICO
+- 09/23 00:34 [financialjuice] Danish Prime minister on Trump's Greenland deal: Today we are signing a deal that can last forever.
+- 09/23 00:34 [financialjuice] Saudi Aramco plans a reorganisation to create a new gas division, and considers possible new listings of units - Sources.
+- 09/23 00:34 [FirstSquawk] SAUDI ARAMCO WILL REORGANIZE TO FORM A NEW GAS DIVISION AND IS LOOKING INTO NEW LISTINGS OF ITS UNITS, ACCORDING TO SOURCES.
+- 09/23 00:39 [financialjuice] Trump signs the security agreement with Denmark and Greenland.
+- 09/23 00:41 [FirstSquawk] IRGC SPOX HOSSEIN MOHEBI: IRAN 'TOUGHENED' CONDITIONS FOR ENDING WAR AFTER US DEAL COLLAPSE - AFP
+- 09/23 00:42 [financialjuice] Trump concludes the Trilateral Signing Event.
