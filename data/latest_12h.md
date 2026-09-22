@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 00:59 JST／対象: 09/22 12:59 〜 09/23 00:59 JST（時刻はすべて日本時間）
+生成: 2026-09-23 01:18 JST／対象: 09/22 13:18 〜 09/23 01:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 133 | 09/22 13:02 | 09/23 00:54 | 34分（13:22→13:56） |
-| financialjuice | 151 | 09/22 14:02 | 09/23 00:57 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 134 | 09/22 13:22 | 09/23 01:17 | 34分（13:22→13:56） |
+| financialjuice | 154 | 09/22 14:02 | 09/23 01:07 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 300 行（統合前 308 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 303 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 13:02 [FirstSquawk] Deutsche Bank asset manager weighs tighter curbs on German property funds — FT
-- 09/22 13:18 [FirstSquawk] Russia’s parliament sees rise of Putin’s “war heroes” as a new political elite — FT
 - 09/22 13:22 [FirstSquawk] US oil futures gain more than 1% to $96.82/bbl ahead of possible US-Iran negotiations
 - 09/22 13:56 [FirstSquawk] RBC downgrades Burberry to Sector Perform from Outperform, cuts target to 1,200p from 1,400p
 - 09/22 13:58 [FirstSquawk] Novo Nordisk target price cut to DKK 275 from DKK 285 by Jefferies
@@ -324,3 +322,8 @@
 - 09/23 00:55 [financialjuice] Fitch Ratings: World growth holds up, but real interest rates rise.
 - 09/23 00:56 [financialjuice] World Growth Holds Up, but Real Interest Rates Rise - Fitch Ratings
 - 09/23 00:57 [financialjuice] President Trump Participates in a Bilateral Meeting with the Prime Minister of the United Kingdom
+- 09/23 00:59 [FirstSquawk] US, DENMARK MAY IDENTIFY NEW NEED FOR DEFENSE AREA: US
+- 09/23 00:59 [FirstSquawk] AWS WINS FIRST NATO RESTRICTED CLOUD APPROVAL; CLEARED FOR NR WORKLOADS ACROSS ALL NATO NATIONS
+- 09/23 00:59 [financialjuice] Meta is testing a 'human concierge' for its new personal agent Muse - Internal company posts
+- 09/23 01:03 [financialjuice/FirstSquawk] Fitch Ratings raises near-term oil and European gas price assumptions.
+- 09/23 01:07 [financialjuice] Pakistan Army conducts two-week exercise with Russian and Omani forces - Tasnim News cited Pakistan TV.

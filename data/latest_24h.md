@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 00:59 JST／対象: 09/22 00:59 〜 09/23 00:59 JST（時刻はすべて日本時間）
+生成: 2026-09-23 01:18 JST／対象: 09/22 01:18 〜 09/23 01:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 02:18 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 336 | 09/22 01:03 | 09/23 00:54 | 44分（06:24→07:08） |
-| financialjuice | 238 | 09/22 01:09 | 09/23 00:57 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 335 | 09/22 01:19 | 09/23 01:17 | 44分（06:24→07:08） |
+| financialjuice | 234 | 09/22 01:23 | 09/23 01:07 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 589 行（統合前 601 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 583 行（統合前 597 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 01:03 [FirstSquawk] ITALIAN TREASURY TO SELL UP TO EUR2.50 BLN OF 3% 2028 BONDS 24TH SEPTEMBER
-- 09/22 01:09 [FirstSquawk] ISRAEL CONDUCTED TWO RAIDS IN SOUTHERN LEBANON TARGETING "ZUOTAR AL-SHARQIYA" AND "KAFR TIBNIT."
-- 09/22 01:09 [financialjuice] Pakistani Interior Minister consults with their Iranian counterpart on efforts to advance the peace process - ISNA.
-- 09/22 01:10 [financialjuice] The US releases a joint statement with Japan and South Korea, affirming 'free and open Indo-Pacific".
-- 09/22 01:11 [FirstSquawk] HOUTHI LEADER SAYS READY FOR FAIR DEAL TO END SAUDI CONFLICT
-- 09/22 01:11 [financialjuice] The US, Japan, and South Korea are committed to denuclearization of North Korea.
-- 09/22 01:12 [financialjuice] Germany's economic institutes forecast 1.1% growth in 2027 vs 0.9% previously - Handelsblatt.
-- 09/22 01:13 [financialjuice] Germany's Leading Economic Institutes forecast German growth of 1.3% in 2026 vs 0.6% previously forecast - Handelsblatt.
-- 09/22 01:15 [FirstSquawk] IRAN, PAKISTAN INTERIOR MINISTERS DISCUSS PEACE PROCESS: ISNA
-- 09/22 01:16 [financialjuice] Trump considered ordering an attack against Houthi rebels in Yemen over the weekend, but decided to refrain for now - two senior US officials to Barak Ravid, News 12.
-- 09/22 01:16 [financialjuice] Trump found himself torn between his desire to help his friend and ally, Saudi Crown Prince Mohammed bin Salman, and his desire to avoid getting involved in a war in a new front in the Middle East - Barak Ravid, News 12.
 - 09/22 01:19 [FirstSquawk] TRUMP IS CAUGHT BETWEEN SUPPORTING SAUDI CROWN PRINCE MOHAMMED BIN SALMAN AND AVOIDING A NEW WAR IN THE MIDDLE EAST.
 - 09/22 01:23 [financialjuice] American diplomats met with senior Houthi officials and received assurances from them that the armed rebel organization had no intention of closing the Bab al-Mandab Strait - Israel's N12 News
 - 09/22 01:29 [FirstSquawk] L3HARRIS TECHNOLOGIES: SIGNS MULTI-YEAR AGREEMENT WITH NAVAL AIR WARFARE CENTER TO INCREASE TOMAHAWK MISSILE PRODUCTION
@@ -613,3 +602,8 @@
 - 09/23 00:55 [financialjuice] Fitch Ratings: World growth holds up, but real interest rates rise.
 - 09/23 00:56 [financialjuice] World Growth Holds Up, but Real Interest Rates Rise - Fitch Ratings
 - 09/23 00:57 [financialjuice] President Trump Participates in a Bilateral Meeting with the Prime Minister of the United Kingdom
+- 09/23 00:59 [FirstSquawk] US, DENMARK MAY IDENTIFY NEW NEED FOR DEFENSE AREA: US
+- 09/23 00:59 [FirstSquawk] AWS WINS FIRST NATO RESTRICTED CLOUD APPROVAL; CLEARED FOR NR WORKLOADS ACROSS ALL NATO NATIONS
+- 09/23 00:59 [financialjuice] Meta is testing a 'human concierge' for its new personal agent Muse - Internal company posts
+- 09/23 01:03 [financialjuice/FirstSquawk] Fitch Ratings raises near-term oil and European gas price assumptions.
+- 09/23 01:07 [financialjuice] Pakistan Army conducts two-week exercise with Russian and Omani forces - Tasnim News cited Pakistan TV.
