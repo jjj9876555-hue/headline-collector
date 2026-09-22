@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 13:51 JST／対象: 09/21 13:51 〜 09/22 13:51 JST（時刻はすべて日本時間）
+生成: 2026-09-22 14:03 JST／対象: 09/21 14:03 〜 09/22 14:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 352 | 09/21 13:55 | 09/22 13:22 | 44分（06:24→07:08） |
-| financialjuice | 252 | 09/21 14:14 | 09/22 12:56 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 355 | 09/21 14:04 | 09/22 14:03 | 44分（06:24→07:08） |
+| financialjuice | 253 | 09/21 14:14 | 09/22 14:02 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 646 行（統合前 667 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 650 行（統合前 671 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 13:55 [FirstSquawk] Typhoon nears Japan’s eastern coast, bringing threat of heavy rain and strong winds — Kyodo
 - 09/21 14:04 [FirstSquawk] South Korea takes bronze in men’s rifle team competition, falls short in individual events — Yonhap
 - 09/21 14:05 [FirstSquawk] Microsoft expands India cloud footprint with launch of fourth region in South Central India — Conference
 - 09/21 14:10 [FirstSquawk] Thai finance minister plans to seek Tuesday approval to extend consumer subsidy scheme
@@ -670,3 +669,8 @@
 - 09/22 13:02 [FirstSquawk] Deutsche Bank asset manager weighs tighter curbs on German property funds — FT
 - 09/22 13:18 [FirstSquawk] Russia’s parliament sees rise of Putin’s “war heroes” as a new political elite — FT
 - 09/22 13:22 [FirstSquawk] US oil futures gain more than 1% to $96.82/bbl ahead of possible US-Iran negotiations
+- 09/22 13:56 [FirstSquawk] RBC downgrades Burberry to Sector Perform from Outperform, cuts target to 1,200p from 1,400p
+- 09/22 13:58 [FirstSquawk] Novo Nordisk target price cut to DKK 275 from DKK 285 by Jefferies
+- 09/22 14:02 [FirstSquawk] Roche reports positive Phase II results for enicepatide in type 2 diabetes and overweight or obesity
+- 09/22 14:02 [financialjuice] ECB releases media interview with Le Temps
+- 09/22 14:03 [FirstSquawk] ECB releases an interview with Le Temps
