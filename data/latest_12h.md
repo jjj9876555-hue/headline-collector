@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 22:52 JST／対象: 09/22 10:52 〜 09/22 22:52 JST（時刻はすべて日本時間）
+生成: 2026-09-22 23:05 JST／対象: 09/22 11:05 〜 09/22 23:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 142 | 09/22 10:53 | 09/22 22:47 | 34分（13:22→13:56） |
-| financialjuice | 106 | 09/22 12:21 | 09/22 22:52 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 142 | 09/22 11:07 | 09/22 23:02 | 34分（13:22→13:56） |
+| financialjuice | 112 | 09/22 12:21 | 09/22 23:03 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 265 行（統合前 271 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 271 行（統合前 277 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 10:53 [FirstSquawk] South Korea in talks with US over 5%-10% stake in Westinghouse — Yonhap
-- 09/22 10:58 [FirstSquawk] South Korea eyes nuclear power and Alaska LNG projects as part of US investment — Media
-- 09/22 11:01 [FirstSquawk] Rocket shortage intensifies as launch providers race to secure spaceflight capacity — WSJ
 - 09/22 11:07 [FirstSquawk] South Korean lawmaker: No final confirmation yet on Alaska LNG project in US investment package
 - 09/22 11:07 [FirstSquawk] South Korea looking to secure 5%-10% stake in Westinghouse — lawmaker
 - 09/22 11:08 [FirstSquawk] South Korea in discussions with US over two nuclear reactors based on Korean designs — lawmaker
@@ -289,3 +286,12 @@
 - 09/22 22:52 [financialjuice] Fed's Collins: A somewhat more restrictive federal funds rate will help ensure that inflation durably returns to target.
 - 09/22 22:52 [financialjuice] Trump speaks at the UN - WATCH LIVE
 - 09/22 22:52 [financialjuice] Iran's President Pezeshkian departs Algeria for New York - Iranian Media.
+- 09/22 22:55 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN LEAVES ALGERIA FOR NEW YORK, ACCORDING TO IRANIAN MEDIA.
+- 09/22 22:58 [financialjuice] RBC BlueBay's Fixed Income CIO Dowding: Favourable view on short-dated bonds for the first time this year; cautious on long-dated UK bonds, shorter-dated gilts look better value
+- 09/22 23:00 [financialjuice] EUROZONE CONSUMER CONFIDENCE FLASH ACTUAL -16.5 (FORECAST -16, PREVIOUS -15.5) $MACRO
+- 09/22 23:00 [financialjuice] RICHMOND FED COMP. INDEX ACTUAL -2 (FORECAST 2, PREVIOUS 4) $MACRO
+- 09/22 23:01 [financialjuice] Trump: United States will no longer permit threats to America to gain a foothold anywhere in the Western Hemisphere - White House Press Pool.
+- 09/22 23:02 [financialjuice] Trump: There is no global government, and while I am President, there will be no global taxes - White House Press Pool.
+- 09/22 23:02 [FirstSquawk] US RICHMOND FED MANUFACTURING INDEX SEP: 2 (EST 2; PREV 4)
+- 09/22 23:02 [FirstSquawk] EUROZONE CONSUMER CONFIDENCE SEP P: -16.5 (EST -16.0; PREV -15.5)
+- 09/22 23:03 [financialjuice] Trump: And if necessary, we will use our unmatched military might to secure the vital national interests of the United States - White House Press Pool

@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 22:52 JST／対象: 09/21 22:52 〜 09/22 22:52 JST（時刻はすべて日本時間）
+生成: 2026-09-22 23:05 JST／対象: 09/21 23:05 〜 09/22 23:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 48 | 09/21 22:57 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
-| FirstSquawk | 339 | 09/21 22:52 | 09/22 22:47 | 44分（06:24→07:08） |
-| financialjuice | 235 | 09/21 22:52 | 09/22 22:52 | ⚠ 248分（08:13→12:21） |
+| DeItaone | 45 | 09/21 23:17 | 09/22 21:26 | ⚠ 1015分（02:22→19:18） |
+| FirstSquawk | 334 | 09/21 23:10 | 09/22 23:02 | 44分（06:24→07:08） |
+| financialjuice | 231 | 09/21 23:10 | 09/22 23:03 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 606 行（統合前 627 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 595 行（統合前 615 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 22:52 [financialjuice] New York to require large AI developers to register with the state in November.
-- 09/21 22:52 [financialjuice] New York to require AI developers to report safety incidents in 72 hours.
-- 09/21 22:52 [FirstSquawk] RUSSIA SET TO EXTEND DIESEL EXPORT BAN BEYOND END-SEPTEMBER
-- 09/21 22:54 [financialjuice] Yemen Houthi Spokesman: The Saudi regime provided its airports and bases to the Zionists, allowing Israeli spy planes to fly towards Yemeni territory - Tasnim News.
-- 09/21 22:54 [FirstSquawk] NASDAQ 100 EXTENDS GAIN TO 1.5%, A SESSION HIGH
-- 09/21 22:56 [financialjuice] Russia set to extend Diesel export ban beyond the end of September.
-- 09/21 22:57 [FirstSquawk] OPENAI, ANTHROPIC NEARED DEAL EARLIER THIS YEAR TO STRESS-TEST EACH OTHER'S AI - INFORMATION
-- 09/21 22:57 [DeItaone] OPENAI AND ANTHROPIC NEARED DEAL TO STRESS-TEST EACH OTHER’S AI - THE INFORMATION
-- 09/21 22:57 [financialjuice] OpenAI and Anthropic in talks to stress test each other - The Information
-- 09/21 22:58 [financialjuice] OpenAI and Anthropic discussed stress tests this year - The Information
-- 09/21 22:59 [FirstSquawk] PARAMOUNT IS MOVING TO RESOLVE LAWSUITS, CLEARING THE PATH FOR A DEAL WITH WARNER BROS.
-- 09/21 23:00 [FirstSquawk] FED GOOLSBEE: NOT VIEWING RATE HIKE AS TAKING BACK 2025 CUTS
-- 09/21 23:00 [financialjuice] Fed's Goolsbee: I am not viewing rate hike as taking back 2025 cuts.
-- 09/21 23:00 [financialjuice] Fed's Goolsbee: I am worried services inflation may not go away.
-- 09/21 23:01 [financialjuice] Fed's Goolsbee: I sense some inflation coming from overheating demand.
-- 09/21 23:01 [FirstSquawk] GOOLSBEE: FED PROJECTIONS NOT ENOUGH IF INFL. IS DEMAND DRIVEN
-- 09/21 23:01 [financialjuice] Fed's Goolsbee: Fed projections are not enough if inflation is demand-driven.
-- 09/21 23:03 [DeItaone] OPENAI AND ANTHROPIC NEARED AI SAFETY TESTING DEAL OpenAI and Anthropic reportedly neared an agreement to stress-test each other’s AI models, searching for vulnerabilities and hidden risks. It’s unclear whether the deal was finalized before…
-- 09/21 23:04 [FirstSquawk] NOVO NORDISK ADRS EXTEND DROP TO SESSION-LOW 7.4%
-- 09/21 23:04 [DeItaone/FirstSquawk] SPOT GOLD FALLS OVER 1% TO $4,325.49/OZ
 - 09/21 23:10 [FirstSquawk] NOVO CFO: AIM TO MAINTAIN ‘BROADLY STABLE’ OP. MARGIN UNTIL 2030 COMPARED TO TODAY
 - 09/21 23:10 [financialjuice] USTR Greer: China is doing what they promised on soybeans - Fox News.
 - 09/21 23:11 [financialjuice] USTR Greer: Rare earths are coming in, but we'd like higher quantities.
@@ -630,3 +610,12 @@
 - 09/22 22:52 [financialjuice] Fed's Collins: A somewhat more restrictive federal funds rate will help ensure that inflation durably returns to target.
 - 09/22 22:52 [financialjuice] Trump speaks at the UN - WATCH LIVE
 - 09/22 22:52 [financialjuice] Iran's President Pezeshkian departs Algeria for New York - Iranian Media.
+- 09/22 22:55 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN LEAVES ALGERIA FOR NEW YORK, ACCORDING TO IRANIAN MEDIA.
+- 09/22 22:58 [financialjuice] RBC BlueBay's Fixed Income CIO Dowding: Favourable view on short-dated bonds for the first time this year; cautious on long-dated UK bonds, shorter-dated gilts look better value
+- 09/22 23:00 [financialjuice] EUROZONE CONSUMER CONFIDENCE FLASH ACTUAL -16.5 (FORECAST -16, PREVIOUS -15.5) $MACRO
+- 09/22 23:00 [financialjuice] RICHMOND FED COMP. INDEX ACTUAL -2 (FORECAST 2, PREVIOUS 4) $MACRO
+- 09/22 23:01 [financialjuice] Trump: United States will no longer permit threats to America to gain a foothold anywhere in the Western Hemisphere - White House Press Pool.
+- 09/22 23:02 [financialjuice] Trump: There is no global government, and while I am President, there will be no global taxes - White House Press Pool.
+- 09/22 23:02 [FirstSquawk] US RICHMOND FED MANUFACTURING INDEX SEP: 2 (EST 2; PREV 4)
+- 09/22 23:02 [FirstSquawk] EUROZONE CONSUMER CONFIDENCE SEP P: -16.5 (EST -16.0; PREV -15.5)
+- 09/22 23:03 [financialjuice] Trump: And if necessary, we will use our unmatched military might to secure the vital national interests of the United States - White House Press Pool
