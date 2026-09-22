@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 21:56 JST／対象: 09/22 15:56 〜 09/22 21:56 JST（時刻はすべて日本時間）
+生成: 2026-09-22 22:18 JST／対象: 09/22 16:18 〜 09/22 22:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 56 | 09/22 16:07 | 09/22 21:52 | 33分（19:13→19:46） |
-| financialjuice | 53 | 09/22 16:01 | 09/22 21:56 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 62 | 09/22 16:32 | 09/22 22:12 | 33分（19:13→19:46） |
+| financialjuice | 57 | 09/22 16:25 | 09/22 22:12 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 126 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 136 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 16:01 [financialjuice] Currency Strength Chart: Strongest: NZD, CAD, GBP, CHF, USD, EUR, AUD, GBP - Weakest
-- 09/22 16:07 [FirstSquawk] SAUDI: DANGER HAS PASSED IN NAJRAN PROVINCE
-- 09/22 16:07 [FirstSquawk] SAUDI CIVIL DEFENSE: ALERTS OF POTENTIAL DANGER IN NAJRAN AREA- STATEMENT
-- 09/22 16:11 [financialjuice] UBS CEO Ermotti: AT1 proposal still increases costs for us
-- 09/22 16:11 [financialjuice] UBS CEO: The fee pool is going to be down
-- 09/22 16:16 [financialjuice] Turkey and the US to cooperate on small modular reactors - Ministry
 - 09/22 16:25 [financialjuice] UBS CEO: I see 'great momentum’ in wealth creation in the US
 - 09/22 16:26 [financialjuice] UBS CEO: Attrition of financial advisers in the US is plateauing
 - 09/22 16:26 [financialjuice] UBS CEO: AI will be important for us to bring down costs
@@ -150,3 +144,19 @@
 - 09/22 21:54 [financialjuice] Trump at the UN to highlight strategy to end foreign interference.
 - 09/22 21:55 [financialjuice] CDU'S Frei: Lawmakers are going to focus on stabilizing the German coalition.
 - 09/22 21:56 [financialjuice] US REDBOOK YOY ACTUAL 7.6% (FORECAST -, PREVIOUS 8.5%) $MACRO
+- 09/22 22:00 [financialjuice] Effective Fed funds rate: 3.88% September 21st vs. 3.88% September 18th.
+- 09/22 22:00 [financialjuice] ECB settled €1,660.5 bln public-sector bond purchases.
+- 09/22 22:00 [financialjuice] ECB settled €214.7 bln corporate bond purchases.
+- 09/22 22:00 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
+- 09/22 22:03 [financialjuice] Apple Launches New Mac Mini and Mac Studio With Latest Apple Silicon $AAPL
+- 09/22 22:04 [FirstSquawk] APPLE INC: NEW MAC MINI AND MAC STUDIO ARE AVAILABLE TODAY|| STARTING TODAY, THE NEW MAC MINI AND MAC STUDIO, BOTH POWERED BY THE LATEST APPLE SILICON, ARE NOW AVAILABLE
+- 09/22 22:04 [FirstSquawk] APPLE : MAC STUDIO M5 MAX PRICED FROM $2,499, M5 ULTRA FROM $5,499 || MAC MINI WITH M6 STARTS $899, WHILE MAC MINI WITH M5 PRO IS AVAILABLE AT $1,699
+- 09/22 22:05 [FirstSquawk] MERCEDES-BENZ AIMS TO CLOSE AI GAP WITH CHINA RIVALS THROUGH WAYVE DEAL - FT
+- 09/22 22:07 [FirstSquawk] TRUMP OPEN TO MEETING IRAN OFFICIALS UNDER RIGHT CONDITIONS: CNN
+- 09/22 22:07 [financialjuice] ❗ Trump is open to meeting Iranian officials under the right conditions - CNN.
+- 09/22 22:08 [FirstSquawk] CVC-BACKED HOME INSURANCE FIRM BAMBOO IS SAID TO POSTPONE IPO
+- 09/22 22:08 [financialjuice] Trump told advisers he'd like to meet Iranian officials if "conditions are right" - CNN
+- 09/22 22:08 [FirstSquawk] IRAN MEETING COULD ALSO BE HELD WITH TRUMP'S TOP ADVISERS: CNN
+- 09/22 22:09 [FirstSquawk] CURRENTLY NO MEETING SCHEDULE WITH US-IRANIAN OFFICIALS: CNN
+- 09/22 22:12 [FirstSquawk] GOLDMAN IN TALKS TO BUY $37 BILLION CREDIT FIRM PALMER SQUARE
+- 09/22 22:12 [financialjuice] Bank of America raises it's 2H26 Brent price estimate to $95 a barrel from $83 a barrel.

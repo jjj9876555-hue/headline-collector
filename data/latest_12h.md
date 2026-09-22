@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 21:56 JST／対象: 09/22 09:56 〜 09/22 21:56 JST（時刻はすべて日本時間）
+生成: 2026-09-22 22:18 JST／対象: 09/22 10:18 〜 09/22 22:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 141 | 09/22 09:59 | 09/22 21:52 | 34分（13:22→13:56） |
-| financialjuice | 88 | 09/22 12:21 | 09/22 21:56 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 139 | 09/22 10:21 | 09/22 22:12 | 34分（13:22→13:56） |
+| financialjuice | 96 | 09/22 12:21 | 09/22 22:12 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 246 行（統合前 252 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 252 行（統合前 258 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 09:59 [FirstSquawk] South Korea’s Kim says US investment will provide greater market access for Korean businesses in US
-- 09/22 10:00 [FirstSquawk] Taiwan overnight rate edges lower to 0.804% at the open
-- 09/22 10:01 [FirstSquawk] South Korea’s Lee proposes sanctions relief for North Korea in exchange for nuclear program suspension — NYT
-- 09/22 10:06 [FirstSquawk] AI demand recasts Japan’s data-centre growth, Fitch Ratings says
-- 09/22 10:10 [FirstSquawk] South Korea’s Kim to brief lawmakers on two investment projects aligned with both countries’ interests
-- 09/22 10:12 [FirstSquawk] South Korea’s Kim says no firm decision has been made on the two proposed projects
-- 09/22 10:15 [FirstSquawk] South Korea’s government to brief parliament on US investment project approved for pursuit, Kim says
-- 09/22 10:16 [FirstSquawk] China’s central bank sets yuan reference rate at 6.7459 per dollar
-- 09/22 10:17 [FirstSquawk] Lithuania PM says country ready to “fight back” but has evacuation plans amid Russia threats — BBC
-- 09/22 10:17 [FirstSquawk] Yuan midpoint set at strongest level since February 2023 by China
 - 09/22 10:21 [FirstSquawk] PBOC injects 35 bln yuan through 7-day reverse repos, rate unchanged at 1.40%
 - 09/22 10:24 [FirstSquawk] EU’s von der Leyen says free trade agreement agreed with Philippines
 - 09/22 10:27 [FirstSquawk] China’s STAR 50 Index set for a 2.5% gain at the open
@@ -270,3 +260,19 @@
 - 09/22 21:54 [financialjuice] Trump at the UN to highlight strategy to end foreign interference.
 - 09/22 21:55 [financialjuice] CDU'S Frei: Lawmakers are going to focus on stabilizing the German coalition.
 - 09/22 21:56 [financialjuice] US REDBOOK YOY ACTUAL 7.6% (FORECAST -, PREVIOUS 8.5%) $MACRO
+- 09/22 22:00 [financialjuice] Effective Fed funds rate: 3.88% September 21st vs. 3.88% September 18th.
+- 09/22 22:00 [financialjuice] ECB settled €1,660.5 bln public-sector bond purchases.
+- 09/22 22:00 [financialjuice] ECB settled €214.7 bln corporate bond purchases.
+- 09/22 22:00 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
+- 09/22 22:03 [financialjuice] Apple Launches New Mac Mini and Mac Studio With Latest Apple Silicon $AAPL
+- 09/22 22:04 [FirstSquawk] APPLE INC: NEW MAC MINI AND MAC STUDIO ARE AVAILABLE TODAY|| STARTING TODAY, THE NEW MAC MINI AND MAC STUDIO, BOTH POWERED BY THE LATEST APPLE SILICON, ARE NOW AVAILABLE
+- 09/22 22:04 [FirstSquawk] APPLE : MAC STUDIO M5 MAX PRICED FROM $2,499, M5 ULTRA FROM $5,499 || MAC MINI WITH M6 STARTS $899, WHILE MAC MINI WITH M5 PRO IS AVAILABLE AT $1,699
+- 09/22 22:05 [FirstSquawk] MERCEDES-BENZ AIMS TO CLOSE AI GAP WITH CHINA RIVALS THROUGH WAYVE DEAL - FT
+- 09/22 22:07 [FirstSquawk] TRUMP OPEN TO MEETING IRAN OFFICIALS UNDER RIGHT CONDITIONS: CNN
+- 09/22 22:07 [financialjuice] ❗ Trump is open to meeting Iranian officials under the right conditions - CNN.
+- 09/22 22:08 [FirstSquawk] CVC-BACKED HOME INSURANCE FIRM BAMBOO IS SAID TO POSTPONE IPO
+- 09/22 22:08 [financialjuice] Trump told advisers he'd like to meet Iranian officials if "conditions are right" - CNN
+- 09/22 22:08 [FirstSquawk] IRAN MEETING COULD ALSO BE HELD WITH TRUMP'S TOP ADVISERS: CNN
+- 09/22 22:09 [FirstSquawk] CURRENTLY NO MEETING SCHEDULE WITH US-IRANIAN OFFICIALS: CNN
+- 09/22 22:12 [FirstSquawk] GOLDMAN IN TALKS TO BUY $37 BILLION CREDIT FIRM PALMER SQUARE
+- 09/22 22:12 [financialjuice] Bank of America raises it's 2H26 Brent price estimate to $95 a barrel from $83 a barrel.
