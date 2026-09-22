@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 03:28 JST／対象: 09/22 15:28 〜 09/23 03:28 JST（時刻はすべて日本時間）
+生成: 2026-09-23 03:46 JST／対象: 09/22 15:46 〜 09/23 03:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 155 | 09/22 15:49 | 09/23 03:11 | 35分（01:56→02:31） |
-| financialjuice | 203 | 09/22 15:48 | 09/23 03:20 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 159 | 09/22 15:49 | 09/23 03:45 | 35分（01:56→02:31） |
+| financialjuice | 209 | 09/22 15:48 | 09/23 03:45 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 370 行（統合前 386 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 380 行（統合前 396 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -394,3 +394,13 @@
 - 09/23 03:16 [financialjuice] Fed's Barkin: Tempering business expectations about inflation may help cool price pressures versus needing to rely on demand destruction
 - 09/23 03:17 [financialjuice] Fed's Barkin: Seeing more price pressures than I'm comfortable with
 - 09/23 03:20 [financialjuice] OpenAI introduces GPT-6 Sol & Luna, expanding the GPT-6 universe
+- 09/23 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $94.59 a barrel down $1.19, 1.24%
+- 09/23 03:31 [financialjuice] NYMEX diesel Oct. futures settle at $4.9421 a gallon
+- 09/23 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.4875 a gallon
+- 09/23 03:31 [financialjuice] NYMEX nat Gas Oct. futures settle at $2.9650/MMBTU
+- 09/23 03:35 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.24% LOWER AT $94.59/BBL, DOWN $1.19
+- 09/23 03:36 [FirstSquawk] OPENAI INTRODUCES GPT-6 SOL & LUNA, EXPANDING THE GPT-6 MODEL FAMILY
+- 09/23 03:43 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 1.09% LOWER AT $99.25/BBL, DOWN $1.09
+- 09/23 03:44 [financialjuice] Brent Crude futures settle at $99.25/bbl, down $1.09, 1.09%
+- 09/23 03:45 [FirstSquawk] INDIA’S PM MODI EXPECTED TO VISIT CANADA IN DECEMBER TO SIGN TRADE DEAL — GLOBE & MAIL
+- 09/23 03:45 [financialjuice] META's Zuckerberg plans to attend Trump-Xi state dinner. $META

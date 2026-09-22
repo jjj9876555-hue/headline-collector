@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 03:28 JST／対象: 09/22 03:28 〜 09/23 03:28 JST（時刻はすべて日本時間）
+生成: 2026-09-23 03:46 JST／対象: 09/22 03:46 〜 09/23 03:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/22 19:18 | 09/22 21:26 | 20分（20:20→20:41） |
-| FirstSquawk | 349 | 09/22 03:43 | 09/23 03:11 | 44分（06:24→07:08） |
-| financialjuice | 268 | 09/22 03:31 | 09/23 03:20 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 348 | 09/22 03:50 | 09/23 03:45 | 44分（06:24→07:08） |
+| financialjuice | 267 | 09/22 03:51 | 09/23 03:45 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 628 行（統合前 646 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 626 行（統合前 643 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $95.78 a barrel down $4.52, 4.51%
-- 09/22 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.8895 a gallon
-- 09/22 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.4699 a gallon
-- 09/22 03:32 [financialjuice] NYMEX Nat Gas Oct. futures settle at $2.8360/MMBTU
-- 09/22 03:32 [financialjuice] SoftBank-backed SB Energy delays its IPO - NYT
-- 09/22 03:36 [financialjuice] AWS: xAI's Grok 4.6 now available in Amazon Bedrock - Blog. $AMZN $SPCX
-- 09/22 03:40 [financialjuice] Fed's Musalem: Core inflation may be running 1 percentage point above Fed's target.
-- 09/22 03:43 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 4.51% LOWER AT $95.78/BBL, DOWN $4.52
-- 09/22 03:44 [FirstSquawk] FED'S MUSALEM SAYS THAT WITHOUT FURTHER POLICY RESTRAINT, IT IS MORE LIKELY INFLATION WILL REMAIN SUBSTANTIALLY ABOVE THE 2% TARGET 18 MONTHS FROM NOW, ADDING THAT FURTHER HIKES ARE LIKELY NEEDED TO TAME INFLATION THAT IS BOTH DEMAND- AND S…
-- 09/22 03:44 [FirstSquawk] FED'S MUSALEM SAYS THE COMMODITY SHOCK IS MORE THAN JUST OIL AND INCLUDES BASE METALS LIKE COPPER, AND THAT EVEN WHEN STRIPPING OUT SUPPLY-RELATED FACTORS, INFLATION REMAINS 'TOO HIGH', WITH BUSINESS CONTACTS PLANNING ON PRICE INCREASES 'CL…
-- 09/22 03:44 [FirstSquawk] SOFTBANK UNIT SB ENERGY DELAYS IPO OVER VALUATION CONCERNS — NYT
-- 09/22 03:45 [FirstSquawk] AWS MAKES XAI’S GROK 4.6 AVAILABLE ON AMAZON BEDROCK
 - 09/22 03:50 [FirstSquawk] TRUMP’S APPROVAL RATING HAS FALLEN TO 32%, ACCORDING TO A NEW REUTERS/IPSOS POLL, DOWN FROM 35% A WEEK EARLIER AND NEAR THE LOWEST LEVEL RECORDED IN HIS SECOND TERM. APPROVAL AMONG REPUBLICANS ALSO FELL TO 73% FROM 82% A WEEK EARLIER, WHILE…
 - 09/22 03:51 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 3.4% LOWER AT $100.34/BBL, DOWN $3.53BRENT CRUDE FUTURES SETTLE 3.4% LOWER AT $100.34/BBL, DOWN $3.53
 - 09/22 03:51 [financialjuice] Brent Crude futures settle at $100.34/bbl, down $3.53, 3.4%
@@ -652,3 +640,13 @@
 - 09/23 03:16 [financialjuice] Fed's Barkin: Tempering business expectations about inflation may help cool price pressures versus needing to rely on demand destruction
 - 09/23 03:17 [financialjuice] Fed's Barkin: Seeing more price pressures than I'm comfortable with
 - 09/23 03:20 [financialjuice] OpenAI introduces GPT-6 Sol & Luna, expanding the GPT-6 universe
+- 09/23 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $94.59 a barrel down $1.19, 1.24%
+- 09/23 03:31 [financialjuice] NYMEX diesel Oct. futures settle at $4.9421 a gallon
+- 09/23 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.4875 a gallon
+- 09/23 03:31 [financialjuice] NYMEX nat Gas Oct. futures settle at $2.9650/MMBTU
+- 09/23 03:35 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.24% LOWER AT $94.59/BBL, DOWN $1.19
+- 09/23 03:36 [FirstSquawk] OPENAI INTRODUCES GPT-6 SOL & LUNA, EXPANDING THE GPT-6 MODEL FAMILY
+- 09/23 03:43 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 1.09% LOWER AT $99.25/BBL, DOWN $1.09
+- 09/23 03:44 [financialjuice] Brent Crude futures settle at $99.25/bbl, down $1.09, 1.09%
+- 09/23 03:45 [FirstSquawk] INDIA’S PM MODI EXPECTED TO VISIT CANADA IN DECEMBER TO SIGN TRADE DEAL — GLOBE & MAIL
+- 09/23 03:45 [financialjuice] META's Zuckerberg plans to attend Trump-Xi state dinner. $META
