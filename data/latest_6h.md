@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 05:58 JST／対象: 09/22 23:58 〜 09/23 05:58 JST（時刻はすべて日本時間）
+生成: 2026-09-23 06:15 JST／対象: 09/23 00:15 〜 09/23 06:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 117 | 09/22 23:59 | 09/23 05:40 | 35分（01:56→02:31） |
-| financialjuice | 146 | 09/23 00:00 | 09/23 05:57 | 14分（03:02→03:16） |
+| FirstSquawk | 110 | 09/23 00:16 | 09/23 05:40 | 35分（01:56→02:31） |
+| financialjuice | 140 | 09/23 00:16 | 09/23 06:09 | 14分（03:02→03:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 256 行（統合前 270 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 243 行（統合前 257 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 23:59 [FirstSquawk] TRUMP: THERE WILL BE NO GLOBAL TAXES
-- 09/22 23:59 [FirstSquawk] TRUMP: UN MUST STOP IMPOSING LEFTIST AGENDA
-- 09/23 00:00 [financialjuice] US to sell $90 bln 4-week bills on September 24th, to settle on September 29th.
-- 09/23 00:01 [financialjuice] Trump: The US rejects attempts of a global scheme to control AI
-- 09/23 00:02 [financialjuice] Trump: We will not stifle AI growth.
-- 09/23 00:03 [financialjuice] Trump calls warnings about AI "a hoax" in his UN speech.
-- 09/23 00:05 [FirstSquawk] US PRESIDENT TRUMP: US ‘TOTALLY REJECTS’ ANY ATTEMPT TO CONSTRUCT A GLOBALIST SCHEME TO CONTROL FOR AI
-- 09/23 00:05 [FirstSquawk] US PRESIDENT TRUMP ON AI: “NOT GOING TO STIFLE GROWTH OF SOMETHING THAT WILL BE BIGGER THAN THE INDUSTRIAL REVOLUTION”
-- 09/23 00:06 [financialjuice] Trump on Greenland Deal: The deal also protects Europe in addition to America.
-- 09/23 00:06 [financialjuice] Trump ends remarks at the United Nations General Assembly.
-- 09/23 00:06 [FirstSquawk] EU REMOVES USMANOV AND FRIDMAN FROM RUSSIA SANCTIONS LIST.
-- 09/23 00:10 [FirstSquawk] ARAB MEDIATORS PUSH FOR US-IRAN MEETING AT UN TO DE-ESCALATE CRISIS
-- 09/23 00:11 [financialjuice] US Treasury Deputy Secretary Brooke: We continue to enhance and expand the buyback program.
-- 09/23 00:13 [FirstSquawk] ABU DHABI'S XRG IS REPORTEDLY INTERESTED IN ACQUIRING A STAKE IN SHELL-BACKED LNG CANADA.
-- 09/23 00:14 [financialjuice] US Treasury Deputy Secretary Brooke: We want a smooth transition to central clearing.
 - 09/23 00:16 [FirstSquawk] US TREASURY SECRETARY BROOKE ANNOUNCES PLAN TO IMPROVE AND GROW BUYBACK PROGRAM.
 - 09/23 00:16 [financialjuice] US Treasury Deputy Secretary Brooke: We may see stablecoins grow demand for US Treasuries.
 - 09/23 00:17 [financialjuice] US Treasury Deputy Secretary Brooke: Markets absorbed bigger bill sales remarkably well.
@@ -280,3 +265,5 @@
 - 09/23 05:56 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL -2.164M (FORECAST -, PREVIOUS 1.6M) $MACRO
 - 09/23 05:57 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL 2.082M (FORECAST -, PREVIOUS -0.246M ) $MACRO
 - 09/23 05:57 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL -2.16M (FORECAST -, PREVIOUS 1.5M) $MACRO
+- 09/23 06:07 [financialjuice] North Korea's vice defense minister to visit Vietnam: KCNA
+- 09/23 06:09 [financialjuice] North Korea's vice foreign minister to participate in UN general assembly: KCNA
