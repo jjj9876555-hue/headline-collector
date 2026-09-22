@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 09:59 JST／対象: 09/21 21:59 〜 09/22 09:59 JST（時刻はすべて日本時間）
+生成: 2026-09-22 10:15 JST／対象: 09/21 22:15 〜 09/22 10:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 29 | 09/21 22:44 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 188 | 09/21 22:00 | 09/22 09:52 | 44分（06:24→07:08） |
-| financialjuice | 149 | 09/21 22:00 | 09/22 08:13 | 42分（07:30→08:13） |
+| FirstSquawk | 191 | 09/21 22:27 | 09/22 10:12 | 44分（06:24→07:08） |
+| financialjuice | 133 | 09/21 22:26 | 09/22 08:13 | 42分（07:30→08:13） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 354 行（統合前 369 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 341 行（統合前 356 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 22:00 [FirstSquawk] MCLAREN PLANS £500 MILLION INVESTMENT IN A NEW PLANT, A RARE BOOST FOR THE UK MANUFACTURING SECTOR AND PM ANDY BURNHAM.
-- 09/21 22:00 [financialjuice] Effective Fed Funds rate: 3.88% September 18th vs 3.88% September 17th.
-- 09/21 22:00 [financialjuice] Fed's Goolsbee: Inflation data earlier this year seemed to show supply shocks waning; now some of it is coming from demand.
-- 09/21 22:00 [financialjuice] Fed's Goolsbee: District contacts are relaying concerns that sound like traditional demand overheating.
-- 09/21 22:01 [financialjuice] Fed's Goolsbee: The Fed is now more in the action scenario given the mix of inflation pressures.
-- 09/21 22:01 [financialjuice] Fed's Goolsbee: I am not thinking about any coming hikes as reversing last year's cuts.
-- 09/21 22:01 [financialjuice] Fed's Goolsbee: The only choice the Fed has if supply shock inflation proves persistent is to reduce aggregate demand.
-- 09/21 22:01 [financialjuice] Fed's Goolsbee: Current unemployment rate is pretty close to full employment.
-- 09/21 22:01 [financialjuice] Fed's Goolsbee: Month-to-month job growth is not a good measure of health for the labor market when there is doubt about population growth due to immigration policies.
-- 09/21 22:01 [financialjuice] Fed's Goolsbee: Business contacts say labor market is getting tighter, alternate measures tell the same story.
-- 09/21 22:01 [financialjuice] Fed's Goolsbee: The Fed remains very credible, everyone takes the job extremely seriously.
-- 09/21 22:01 [financialjuice] Fed's Goolsbee: Components of inflation will matter to the Fed's analysis, with services inflation not seen as tied to oil price shock but as a product of strong demand.
-- 09/21 22:02 [financialjuice] Fed's Goolsbee: The job of a central banker is not to respond to markets or the president, but to economic conditions.
-- 09/21 22:02 [financialjuice] Fed's Goolsbee: Without a summary of economic projections, the world will still be looking to understand officials' reaction functions.
-- 09/21 22:02 [financialjuice] Fed's Goolsbee: Historically, US long rates are not particularly high; I don't think it reflects a loss of confidence in us.
-- 09/21 22:02 [financialjuice] Google unveils $899-plus Googlebook AI laptops. $GOOGL
-- 09/21 22:03 [financialjuice] Googlebook ships October 4th in the US via Google Store and Best Buy $GOOGL
-- 09/21 22:04 [FirstSquawk] GOOGLE LAUNCHES GOOGLEBOOK LAPTOP LINE STARTING AT $899
-- 09/21 22:15 [FirstSquawk] COINBASE TO OFFER IPO ALLOCATIONS TO US RETAIL TRADERS
 - 09/21 22:26 [financialjuice] Société Générale CEO Krupa: France has significant macroeconomic challenges, but also strengths in energy, education, and start-ups.
 - 09/21 22:26 [financialjuice] Trump spoke via phone with Yemeni President Rashad Al-alimi on Sunday - Four Sources.
 - 09/21 22:27 [FirstSquawk] WHITE HOUSE TV POOL WON'T COVER TRUMP IN NYC: CNBC
@@ -378,3 +359,9 @@
 - 09/22 09:49 [FirstSquawk] Nikkei seen poised for a potential rally as shorts pile up — WSJ
 - 09/22 09:51 [FirstSquawk] Google starts pre-orders for $899 laptops featuring Gemini AI — Reuters
 - 09/22 09:52 [FirstSquawk] Won strengthens 1% against the dollar in South Korea
+- 09/22 09:59 [FirstSquawk] South Korea’s Kim says US investment will provide greater market access for Korean businesses in US
+- 09/22 10:00 [FirstSquawk] Taiwan overnight rate edges lower to 0.804% at the open
+- 09/22 10:01 [FirstSquawk] South Korea’s Lee proposes sanctions relief for North Korea in exchange for nuclear program suspension — NYT
+- 09/22 10:06 [FirstSquawk] AI demand recasts Japan’s data-centre growth, Fitch Ratings says
+- 09/22 10:10 [FirstSquawk] South Korea’s Kim to brief lawmakers on two investment projects aligned with both countries’ interests
+- 09/22 10:12 [FirstSquawk] South Korea’s Kim says no firm decision has been made on the two proposed projects

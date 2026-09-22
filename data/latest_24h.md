@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 09:59 JST／対象: 09/21 09:59 〜 09/22 09:59 JST（時刻はすべて日本時間）
+生成: 2026-09-22 10:15 JST／対象: 09/21 10:15 〜 09/22 10:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 338 | 09/21 10:02 | 09/22 09:52 | 44分（06:24→07:08） |
-| financialjuice | 247 | 09/21 10:00 | 09/22 08:13 | ⚠ 81分（17:11→18:32） |
+| FirstSquawk | 340 | 09/21 10:18 | 09/22 10:12 | 44分（06:24→07:08） |
+| financialjuice | 246 | 09/21 10:17 | 09/22 08:13 | ⚠ 81分（17:11→18:32） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 627 行（統合前 648 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 628 行（統合前 649 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 10:00 [financialjuice] Taiwan overnight interbank rate starts at 0.805% (unchanged from previous session)
-- 09/21 10:02 [FirstSquawk] Taiwan overnight interbank rate opens steady at 0.805%
-- 09/21 10:06 [FirstSquawk] Europe’s jet fuel shortage draws more supply from South Korea — SCMP
-- 09/21 10:10 [FirstSquawk] Brent, WTI fall $2 as investors assess potential recovery in Saudi oil exports
-- 09/21 10:15 [FirstSquawk] China’s PBOC fixes yuan mid-point at 6.7487/USD
 - 09/21 10:17 [financialjuice] Microsoft's Nadella to join OpenAI and Nvidia CEOs at Trump-Xi dinner
 - 09/21 10:17 [financialjuice] China sets yuan midpoint at strongest level since Feb. 3, 2023, according to PBOC
 - 09/21 10:18 [FirstSquawk] Yuan mid-point hits strongest level since Feb. 3, 2023 after China fix
@@ -651,3 +646,9 @@
 - 09/22 09:49 [FirstSquawk] Nikkei seen poised for a potential rally as shorts pile up — WSJ
 - 09/22 09:51 [FirstSquawk] Google starts pre-orders for $899 laptops featuring Gemini AI — Reuters
 - 09/22 09:52 [FirstSquawk] Won strengthens 1% against the dollar in South Korea
+- 09/22 09:59 [FirstSquawk] South Korea’s Kim says US investment will provide greater market access for Korean businesses in US
+- 09/22 10:00 [FirstSquawk] Taiwan overnight rate edges lower to 0.804% at the open
+- 09/22 10:01 [FirstSquawk] South Korea’s Lee proposes sanctions relief for North Korea in exchange for nuclear program suspension — NYT
+- 09/22 10:06 [FirstSquawk] AI demand recasts Japan’s data-centre growth, Fitch Ratings says
+- 09/22 10:10 [FirstSquawk] South Korea’s Kim to brief lawmakers on two investment projects aligned with both countries’ interests
+- 09/22 10:12 [FirstSquawk] South Korea’s Kim says no firm decision has been made on the two proposed projects
