@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 17:52 JST／対象: 09/22 11:52 〜 09/22 17:52 JST（時刻はすべて日本時間）
+生成: 2026-09-22 18:05 JST／対象: 09/22 12:05 〜 09/22 18:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 55 | 09/22 11:56 | 09/22 17:51 | 34分（13:22→13:56） |
-| financialjuice | 47 | 09/22 12:21 | 09/22 17:02 | ⚠ 66分（12:56→14:02） |
+| FirstSquawk | 55 | 09/22 12:05 | 09/22 17:52 | 34分（13:22→13:56） |
+| financialjuice | 48 | 09/22 12:21 | 09/22 18:00 | ⚠ 66分（12:56→14:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 11:56 [FirstSquawk] NHC: Odalys expected to slowly strengthen
 - 09/22 12:05 [FirstSquawk] Texas power plant selected as South Korea’s first US investment project — Yonhap
 - 09/22 12:08 [FirstSquawk] RBA Gov. Bullock: Supply shocks pose challenges for monetary policy
 - 09/22 12:09 [FirstSquawk] RBA Gov. Bullock: Monetary policy needs to tackle second-round inflation effects
@@ -126,3 +125,5 @@
 - 09/22 17:50 [FirstSquawk] ON THE 19TH OF THIS MONTH, REZAI, SECRETARY-GENERAL OF IRAN'S SUPREME SECURITY COUNCIL (SNSC), WHICH OVERSEES ITS FOREIGN POLICY AND SECURITY, STATED THAT IRAN WOULD NEED TO ACCEPT SEVEN CONDITIONS, INCLUDING LIFTING THE PORT BLOCKADE AND U…
 - 09/22 17:50 [FirstSquawk] IRAN'S ECONOMIC DIFFICULTIES ARE DEEPENING AS IT IS UNABLE TO EXPORT CRUDE OIL, A PILLAR OF ITS NATIONAL REVENUE, AND CONCERNS ARE SPREADING WITHIN THE LEADERSHIP. THERE ARE ALSO OPINIONS THAT NEGOTIATIONS WITH THE UNITED STATES SHOULD BE R…
 - 09/22 17:51 [FirstSquawk] IRAN HAS INFORMED THE TRUMP ADMINISTRATION THAT IT WILL OPEN THE BLOCKED STRAIT OF HORMUZ "WITHIN SEVEN DAYS" IF IT ACCEPTS DEMANDS SUCH AS LIFTING THE US MILITARY BLOCKADE OF IRANIAN PORTS, ACCORDING TO A SENIOR IRANIAN GOVERNMENT OFFICIAL…
+- 09/22 17:52 [FirstSquawk] BRENT OIL FALLS TO SESSION-LOW NEAR $99 AFTER ERASING GAINS
+- 09/22 18:00 [financialjuice] Brent and US crude futures down over 1% after Kyodo reports that Iran offered to reopen the strait within 7 days

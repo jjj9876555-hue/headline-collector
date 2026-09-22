@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 17:52 JST／対象: 09/21 17:52 〜 09/22 17:52 JST（時刻はすべて日本時間）
+生成: 2026-09-22 18:05 JST／対象: 09/21 18:05 〜 09/22 18:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 350 | 09/21 18:13 | 09/22 17:51 | 44分（06:24→07:08） |
-| financialjuice | 258 | 09/21 18:32 | 09/22 17:02 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 351 | 09/21 18:13 | 09/22 17:52 | 44分（06:24→07:08） |
+| financialjuice | 259 | 09/21 18:32 | 09/22 18:00 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 651 行（統合前 670 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 653 行（統合前 672 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -675,3 +675,5 @@
 - 09/22 17:50 [FirstSquawk] ON THE 19TH OF THIS MONTH, REZAI, SECRETARY-GENERAL OF IRAN'S SUPREME SECURITY COUNCIL (SNSC), WHICH OVERSEES ITS FOREIGN POLICY AND SECURITY, STATED THAT IRAN WOULD NEED TO ACCEPT SEVEN CONDITIONS, INCLUDING LIFTING THE PORT BLOCKADE AND U…
 - 09/22 17:50 [FirstSquawk] IRAN'S ECONOMIC DIFFICULTIES ARE DEEPENING AS IT IS UNABLE TO EXPORT CRUDE OIL, A PILLAR OF ITS NATIONAL REVENUE, AND CONCERNS ARE SPREADING WITHIN THE LEADERSHIP. THERE ARE ALSO OPINIONS THAT NEGOTIATIONS WITH THE UNITED STATES SHOULD BE R…
 - 09/22 17:51 [FirstSquawk] IRAN HAS INFORMED THE TRUMP ADMINISTRATION THAT IT WILL OPEN THE BLOCKED STRAIT OF HORMUZ "WITHIN SEVEN DAYS" IF IT ACCEPTS DEMANDS SUCH AS LIFTING THE US MILITARY BLOCKADE OF IRANIAN PORTS, ACCORDING TO A SENIOR IRANIAN GOVERNMENT OFFICIAL…
+- 09/22 17:52 [FirstSquawk] BRENT OIL FALLS TO SESSION-LOW NEAR $99 AFTER ERASING GAINS
+- 09/22 18:00 [financialjuice] Brent and US crude futures down over 1% after Kyodo reports that Iran offered to reopen the strait within 7 days
