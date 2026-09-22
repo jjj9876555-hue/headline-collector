@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 14:58 JST／対象: 09/21 14:58 〜 09/22 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-22 15:22 JST／対象: 09/21 15:22 〜 09/22 15:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 354 | 09/21 15:08 | 09/22 14:54 | 44分（06:24→07:08） |
-| financialjuice | 257 | 09/21 15:05 | 09/22 14:20 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 358 | 09/21 15:24 | 09/22 15:22 | 44分（06:24→07:08） |
+| financialjuice | 257 | 09/21 15:29 | 09/22 15:00 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 653 行（統合前 674 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 657 行（統合前 678 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 15:05 [financialjuice] Kazakhstan Oil to UST-Luga at 200k metric tons in August - IFX
-- 09/21 15:08 [FirstSquawk] North Korea condemns multilateral sanctions monitoring team as illegal US political instrument — KCNA
-- 09/21 15:08 [FirstSquawk] North Korea says new sanctions will not impede development or defence of key interests — KCNA
 - 09/21 15:24 [FirstSquawk] Australia’s benchmark ASX 200 finishes flat at 8,731.90
 - 09/21 15:29 [FirstSquawk] One reported dead after Ukrainian drone attack in Russia’s Bryansk region — Acting Governor
 - 09/21 15:29 [financialjuice] Iran's IRGC: Still room for geographical expansion of war
@@ -677,3 +674,10 @@
 - 09/22 14:30 [FirstSquawk] Boeing target price cut to $265 from $295 by Jefferies
 - 09/22 14:31 [FirstSquawk] Iranian President: Enemy aims to block all roads into Iran and force it to surrender — Al Jazeera
 - 09/22 14:54 [FirstSquawk] Morgan Stanley lowers Ericsson rating to Underweight from Equal Weight
+- 09/22 15:00 [financialjuice] UK PSNB EX BANKS ACTUAL 18.268B (FORECAST -, PREVIOUS 1.800B) $MACRO
+- 09/22 15:01 [FirstSquawk] UK ( AUG) PUBLIC FINANCES (PSNCR) ACTUAL: 10B VS -29B PREVIOUS
+- 09/22 15:01 [FirstSquawk] UK ( AUG) CENTRAL GOVERNMENT NCR ACTUAL: 10B VS 2.8B PREVIOUS
+- 09/22 15:01 [FirstSquawk] UK ( AUG) PUBLIC SECTOR NET BORROWING ACTUAL: 18.3B VS 1.8B PREVIOUS;EST 15.5B
+- 09/22 15:01 [FirstSquawk] UK ( AUG) PSNB EX BANKING GROUPS ACTUAL: 18.3B VS 1.8B PREVIOUS
+- 09/22 15:02 [FirstSquawk] South Korean appeals court reduces Kim Keon Hee’s prison sentence to five years from seven — Yonhap
+- 09/22 15:22 [FirstSquawk] Deutsche Bank lowers Novo Nordisk target to DKK 245 from DKK 265

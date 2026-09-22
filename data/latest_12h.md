@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 14:58 JST／対象: 09/22 02:58 〜 09/22 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-22 15:22 JST／対象: 09/22 03:22 〜 09/22 15:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 190 | 09/22 03:05 | 09/22 14:54 | 44分（06:24→07:08） |
-| financialjuice | 73 | 09/22 03:02 | 09/22 14:20 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 193 | 09/22 03:43 | 09/22 15:22 | 44分（06:24→07:08） |
+| financialjuice | 65 | 09/22 03:31 | 09/22 15:00 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 262 行（統合前 264 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 257 行（統合前 259 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 03:02 [financialjuice] China's Vice Finance Minister Liao: Talked about trade, investment, AI with US today.
-- 09/22 03:05 [FirstSquawk] CHINA VICE FINANCE MINISTER LIAO SAYS US-CHINA TALKS COVERED TRADE, INVESTMENT & AI TODAY
-- 09/22 03:09 [financialjuice] Trump praises Lockheed Martin - Truth Social. $LMT
-- 09/22 03:15 [FirstSquawk] TRUMP SAYS HE IS 'JUST LEAVING THE WHITE HOUSE LAWN ON THE MAIDEN VOYAGE FROM THE NEWLY BUILT, AND VERY BEAUTIFUL, HELIPORT', THANKING LOCKHEED MARTIN CEO JIM TAICLET FOR WHAT HE CALLS A 'VALUABLE CONTRIBUTION TO OUR COUNTRY', SAYING THE GO…
-- 09/22 03:15 [FirstSquawk] TRUMP THANKS THE 'GREAT CONSTRUCTION WORKERS AND STONE MASONS' OF THE WASHINGTON, D.C. AREA AND CLARK CONSTRUCTION FOR ITS 'WONDERFUL SUPERVISORY WORK', ADDING 'GOD BLESS AMERICA'. - TRUTH SOCIAL
-- 09/22 03:19 [financialjuice] Feds' Musalem: Without further policy restraint it is more likely inflation will remain substantially above 2% target 18 months from now.
-- 09/22 03:20 [financialjuice] Feds' Musalem: Interest rates likely need to rise further to tame inflation that is both demand and supply-driven.
-- 09/22 03:20 [financialjuice] Feds' Musalem: Labor market stable around full employment and not a source of inflation pressure.
-- 09/22 03:20 [financialjuice] Feds' Musalem: Commodity shock is more than just oil, includes base metals like copper.
-- 09/22 03:20 [financialjuice] Fed's Musalem: Better for rate hikes to be 'earlier and incremental rather than later and larger.
-- 09/22 03:20 [financialjuice] Fed's Musalem: Even when stripping out supply-related factors, inflation is still 'too high' at up to 3%.
-- 09/22 03:21 [financialjuice] Fed's Musalem: Business contacts say they are planning on price increases closer to 3%.
 - 09/22 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $95.78 a barrel down $4.52, 4.51%
 - 09/22 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.8895 a gallon
 - 09/22 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.4699 a gallon
@@ -286,3 +274,10 @@
 - 09/22 14:30 [FirstSquawk] Boeing target price cut to $265 from $295 by Jefferies
 - 09/22 14:31 [FirstSquawk] Iranian President: Enemy aims to block all roads into Iran and force it to surrender — Al Jazeera
 - 09/22 14:54 [FirstSquawk] Morgan Stanley lowers Ericsson rating to Underweight from Equal Weight
+- 09/22 15:00 [financialjuice] UK PSNB EX BANKS ACTUAL 18.268B (FORECAST -, PREVIOUS 1.800B) $MACRO
+- 09/22 15:01 [FirstSquawk] UK ( AUG) PUBLIC FINANCES (PSNCR) ACTUAL: 10B VS -29B PREVIOUS
+- 09/22 15:01 [FirstSquawk] UK ( AUG) CENTRAL GOVERNMENT NCR ACTUAL: 10B VS 2.8B PREVIOUS
+- 09/22 15:01 [FirstSquawk] UK ( AUG) PUBLIC SECTOR NET BORROWING ACTUAL: 18.3B VS 1.8B PREVIOUS;EST 15.5B
+- 09/22 15:01 [FirstSquawk] UK ( AUG) PSNB EX BANKING GROUPS ACTUAL: 18.3B VS 1.8B PREVIOUS
+- 09/22 15:02 [FirstSquawk] South Korean appeals court reduces Kim Keon Hee’s prison sentence to five years from seven — Yonhap
+- 09/22 15:22 [FirstSquawk] Deutsche Bank lowers Novo Nordisk target to DKK 245 from DKK 265
