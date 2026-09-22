@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 04:58 JST／対象: 09/22 04:58 〜 09/23 04:58 JST（時刻はすべて日本時間）
+生成: 2026-09-23 05:16 JST／対象: 09/22 05:16 〜 09/23 05:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 369 | 09/22 05:00 | 09/23 04:58 | 44分（06:24→07:08） |
-| financialjuice | 288 | 09/22 05:15 | 09/23 04:54 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 364 | 09/22 05:28 | 09/23 05:03 | 44分（06:24→07:08） |
+| financialjuice | 296 | 09/22 05:18 | 09/23 05:15 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 666 行（統合前 688 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 669 行（統合前 691 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 05:00 [FirstSquawk] CANADA DRAFT LAW REQUIRES CONTRACT BARGAINING TO BEGIN 6 MONTHS BEFORE EXPIRY IF COLLECTIVE AGREEMENT IS 5+ YEARS OLD
-- 09/22 05:00 [FirstSquawk] CANADA DRAFT LAW TO APPOINT SPECIAL MEDIATOR FOR ENTRENCHED DISPUTES WITH SIGNIFICANT NATIONAL IMPACT
-- 09/22 05:00 [FirstSquawk] CANADA DRAFT LAW WOULD LIMIT LABOR MINISTER’S POWER TO ORDER END TO MAJOR WORK STOPPAGES
-- 09/22 05:01 [FirstSquawk] NASDAQ CLOSES 2.30% HIGHER AT 27,132.87, UP 610.33 POINTS S&P 500 CLOSES 1.52% HIGHER AT 7,766.76, UP 116.26 POINTS DOW JONES CLOSES 0.79% HIGHER AT 52,090.00, UP 407.36 POINTS
-- 09/22 05:05 [FirstSquawk] US STEEL CAPACITY UTILIZATION AT 77.9% FOR WEEK ENDED SEPTEMBER 19 — AISI
-- 09/22 05:06 [FirstSquawk] TRUMP SAYS 'AS EXPECTED', CNN, POLITICO AND MSNOW 'HAVE BROUGHT SUIT TO GAIN ACCESS TO THE WHITE HOUSE, AND YOUR PRESIDENT, ME', CLAIMING THEY DREW A JUDGE — TIM KELLY, WHOM HE NOTES WAS APPOINTED BY HIM — WHO PREVIOUSLY 'RULED IN FAVOR OF …
-- 09/22 05:06 [FirstSquawk] TRUMP SAYS THE OVAL OFFICE SHOULD BE TREATED WITH 'DECORUM, RESPECT, AND DIGNITY, NOT DEFILED BY THIRD RATE CLOWNS', ARGUING THAT VIRTUALLY EVERY STORY ABOUT HIM IS 'NEGATIVE, WRONG AND, IN MANY CASES, DANGEROUS', AND CITING HIS 2024 ELECTI…
-- 09/22 05:07 [FirstSquawk] TRUMP SAYS 'FAKE NEWS IS A THREAT TO DEMOCRACY' AND THAT HE 'WILL DO WHATEVER IS NECESSARY TO MAKE SURE THAT THE U.S.A. THRIVES', QUESTIONING WHY HE SHOULD HAVE TO GIVE 'ACCESS' TO SUCH OUTLETS AND SUGGESTING JUDGE KELLY 'COULD EXPLAIN THAT…
-- 09/22 05:08 [FirstSquawk] US STOCKS JUMPED AS AI OPTIMISM DROVE A TECHNOLOGY RALLY, WITH THE S&P 500 RISING 1.5% AND NASDAQ 100 2.8%, WHILE AMD SURPASSED A $1 TRILLION VALUATION AND META SURGED 11%. OIL PRICES FELL ON HOPES FOR DIPLOMATIC PROGRESS IN THE IRAN CONFLI…
-- 09/22 05:08 [FirstSquawk] TREASURY YIELDS ALSO FELL, WITH THE 10-YEAR AT 4.95%, WHILE BITCOIN CLIMBED 6.7% ABOVE $86,000. MARKETS ARE ALSO WATCHING THE UPCOMING TRUMP-XI SUMMIT FOR POTENTIAL PROGRESS ON TARIFFS, TRADE AND CRITICAL MINERALS, WHILE HIGHER ENERGY PRICE…
-- 09/22 05:15 [financialjuice] Iran’s Foreign Minister Araghchi arrives in New York to attend UN General Assembly - IRNA
 - 09/22 05:18 [financialjuice] WATCH LIVE: Trump Meets With Mayor Zohran Mamdani In New York City
 - 09/22 05:28 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI ARRIVES IN NEW YORK TO ATTEND UN GENERAL ASSEMBLY - IRANIAN MEDIA
 - 09/22 05:52 [FirstSquawk] THE ROYAL CANADIAN MINT HAS ANNOUNCED A FOLLOW-ON OFFERING OF GOLD EXCHANGE-TRADED RECEIPTS, WITH NET PROCEEDS TO BE USED TO PURCHASE GOLD BULLION.
@@ -690,3 +679,17 @@
 - 09/23 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 920.7 MLN NASDAQ 100: 798.2 MLN DOW 30: 361.9 MLN MAG 7: 423.3 MLN $MACRO
 - 09/23 04:54 [financialjuice] Iran's armed forces: Trump's statements on Iran at the UNGA are tools for domestic propaganda - Statement
 - 09/23 04:58 [FirstSquawk] IRAN’S ARMED FORCES: TRUMP’S UNGA STATEMENTS ON IRAN ARE “TOOLS FOR DOMESTIC PROPAGANDA” — STATEMENT
+- 09/23 04:59 [FirstSquawk] MICROSOFT TO CONTINUE CONSIDERING SHAREHOLDER PROPOSALS THROUGH 2027 DESPITE SEC PROPOSAL TO END OVERSIGHT OF SUCH VOTES
+- 09/23 05:00 [FirstSquawk] NASDAQ CLOSES 0.45% HIGHER AT 27,245.24, UP 123.14 POINTS
+- 09/23 05:01 [FirstSquawk] S&P 500 CLOSES FLAT AT 7,765.00, UP 0.30 POINTS
+- 09/23 05:02 [financialjuice] ECB's Nagel: Oil prices are not the only indicator, but have become more relevant over past 4 years
+- 09/23 05:02 [FirstSquawk] NASDAQ CLOSES 0.45% HIGHER AT 27,245.24, UP 123.14 POINTS S&P 500 CLOSES FLAT AT 7,765.00, UP 0.30 POINTS DOW JONES CLOSES 0.31% LOWER AT 51,886.10, DOWN 162.73 POINTS
+- 09/23 05:03 [FirstSquawk] US GOVERNMENT AND GULF BILLIONAIRES BACK TODD BOEHLY BID FOR LUKOIL ASSETS - FT
+- 09/23 05:03 [financialjuice] Canada's PM Carney: AI advancing faster than we can control it
+- 09/23 05:03 [financialjuice] South Korea's President Lee unveils Korean Peninsula peace coexistence plan
+- 09/23 05:05 [financialjuice] Qualcomm launches two new flagship mobile platforms. $QCOM
+- 09/23 05:09 [financialjuice] ECB's Nagel: I am not so concerned about labour market developments
+- 09/23 05:12 [financialjuice] ECB's Nagel: We are conducting monetary policy in between constructive ambiguity and forward guidance
+- 09/23 05:13 [financialjuice] ECB's Nagel: I do not see too much uncertainty in markets about what drives our decision making.
+- 09/23 05:14 [financialjuice] Iraqi Oil Minister: Volume of oil exported in August reached 70 mln barrels - State Media
+- 09/23 05:15 [financialjuice] Iraqi Oil Minister: Iraq is currently exporting more than 3 mln barrels of oil per day - State Media

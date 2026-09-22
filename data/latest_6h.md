@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 04:58 JST／対象: 09/22 22:58 〜 09/23 04:58 JST（時刻はすべて日本時間）
+生成: 2026-09-23 05:16 JST／対象: 09/22 23:16 〜 09/23 05:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 126 | 09/22 23:02 | 09/23 04:58 | 35分（01:56→02:31） |
-| financialjuice | 165 | 09/22 23:00 | 09/23 04:54 | 14分（03:02→03:16） |
+| FirstSquawk | 128 | 09/22 23:18 | 09/23 05:03 | 35分（01:56→02:31） |
+| financialjuice | 159 | 09/22 23:17 | 09/23 05:15 | 14分（03:02→03:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 284 行（統合前 299 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 280 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 23:00 [financialjuice] EUROZONE CONSUMER CONFIDENCE FLASH ACTUAL -16.5 (FORECAST -16, PREVIOUS -15.5) $MACRO
-- 09/22 23:00 [financialjuice] RICHMOND FED COMP. INDEX ACTUAL -2 (FORECAST 2, PREVIOUS 4) $MACRO
-- 09/22 23:01 [financialjuice] Trump: United States will no longer permit threats to America to gain a foothold anywhere in the Western Hemisphere - White House Press Pool.
-- 09/22 23:02 [financialjuice] Trump: There is no global government, and while I am President, there will be no global taxes - White House Press Pool.
-- 09/22 23:02 [FirstSquawk] US RICHMOND FED MANUFACTURING INDEX SEP: 2 (EST 2; PREV 4)
-- 09/22 23:02 [FirstSquawk] EUROZONE CONSUMER CONFIDENCE SEP P: -16.5 (EST -16.0; PREV -15.5)
-- 09/22 23:03 [financialjuice] Trump: And if necessary, we will use our unmatched military might to secure the vital national interests of the United States - White House Press Pool
-- 09/22 23:05 [financialjuice] Fed's Williams does not comment on monetary policy or the economic outlook.
-- 09/22 23:05 [financialjuice] Fed's Williams: There should be no opportunity cost to holding reserves.
-- 09/22 23:05 [financialjuice] Fed's Williams: The Fed's rate control system has been very effective.
-- 09/22 23:05 [financialjuice] Fed's Williams: The Fed will adjust the supply of reserves depending on market conditions.
-- 09/22 23:05 [financialjuice] Fed's Williams: Monitoring rise of centrally cleared repo trading.
-- 09/22 23:06 [financialjuice] Fed's Williams: The Fed will adjust monetary policy implementation strategy as needed.
-- 09/22 23:06 [financialjuice] New York Fed's 2026 Treasury Market Conference with Fed's Williams & Jefferson - WATCH LIVE
-- 09/22 23:07 [financialjuice] Microsoft began a new round of layoffs affecting around 500 employees - Business Insider. $MSFT
-- 09/22 23:08 [financialjuice] Microsoft starts a new round of job cuts and the next phase of its Xbox 'reset.' - Business Insider $MSFT
-- 09/22 23:12 [FirstSquawk] BRAZILIAN PRESIDENT LULA: UN SPECIAL RAPPORTEUR FRANCESCA ALBANESE MUST NOT BE SILENCED FOR TELLING THE TRUTH.
-- 09/22 23:14 [financialjuice] Several mediating countries in contact with US and Iran to arrange a high-level meeting - Regional source involved in negotiations, via Barak Ravid, News 12
 - 09/22 23:17 [financialjuice] Fed's Jefferson does not comment on monetary policy, economy in prepared remarks.
 - 09/22 23:17 [financialjuice] Fed's Jefferson: Banks using fed's discount window report it's faster, easier, more efficient since self-service portal started.
 - 09/22 23:17 [financialjuice] Fed's Jefferson: The discount window is shock absorber during market stress, supports functioning of short-term funding markets, treasury liquidity.
@@ -308,3 +290,17 @@
 - 09/23 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 920.7 MLN NASDAQ 100: 798.2 MLN DOW 30: 361.9 MLN MAG 7: 423.3 MLN $MACRO
 - 09/23 04:54 [financialjuice] Iran's armed forces: Trump's statements on Iran at the UNGA are tools for domestic propaganda - Statement
 - 09/23 04:58 [FirstSquawk] IRAN’S ARMED FORCES: TRUMP’S UNGA STATEMENTS ON IRAN ARE “TOOLS FOR DOMESTIC PROPAGANDA” — STATEMENT
+- 09/23 04:59 [FirstSquawk] MICROSOFT TO CONTINUE CONSIDERING SHAREHOLDER PROPOSALS THROUGH 2027 DESPITE SEC PROPOSAL TO END OVERSIGHT OF SUCH VOTES
+- 09/23 05:00 [FirstSquawk] NASDAQ CLOSES 0.45% HIGHER AT 27,245.24, UP 123.14 POINTS
+- 09/23 05:01 [FirstSquawk] S&P 500 CLOSES FLAT AT 7,765.00, UP 0.30 POINTS
+- 09/23 05:02 [financialjuice] ECB's Nagel: Oil prices are not the only indicator, but have become more relevant over past 4 years
+- 09/23 05:02 [FirstSquawk] NASDAQ CLOSES 0.45% HIGHER AT 27,245.24, UP 123.14 POINTS S&P 500 CLOSES FLAT AT 7,765.00, UP 0.30 POINTS DOW JONES CLOSES 0.31% LOWER AT 51,886.10, DOWN 162.73 POINTS
+- 09/23 05:03 [FirstSquawk] US GOVERNMENT AND GULF BILLIONAIRES BACK TODD BOEHLY BID FOR LUKOIL ASSETS - FT
+- 09/23 05:03 [financialjuice] Canada's PM Carney: AI advancing faster than we can control it
+- 09/23 05:03 [financialjuice] South Korea's President Lee unveils Korean Peninsula peace coexistence plan
+- 09/23 05:05 [financialjuice] Qualcomm launches two new flagship mobile platforms. $QCOM
+- 09/23 05:09 [financialjuice] ECB's Nagel: I am not so concerned about labour market developments
+- 09/23 05:12 [financialjuice] ECB's Nagel: We are conducting monetary policy in between constructive ambiguity and forward guidance
+- 09/23 05:13 [financialjuice] ECB's Nagel: I do not see too much uncertainty in markets about what drives our decision making.
+- 09/23 05:14 [financialjuice] Iraqi Oil Minister: Volume of oil exported in August reached 70 mln barrels - State Media
+- 09/23 05:15 [financialjuice] Iraqi Oil Minister: Iraq is currently exporting more than 3 mln barrels of oil per day - State Media
