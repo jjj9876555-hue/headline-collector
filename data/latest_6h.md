@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 20:58 JST／対象: 09/22 14:58 〜 09/22 20:58 JST（時刻はすべて日本時間）
+生成: 2026-09-22 21:22 JST／対象: 09/22 15:22 〜 09/22 21:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/22 19:18 | 09/22 20:53 | 20分（20:20→20:41） |
-| FirstSquawk | 57 | 09/22 15:01 | 09/22 20:54 | 33分（19:13→19:46） |
-| financialjuice | 40 | 09/22 15:00 | 09/22 20:54 | ⚠ 116分（18:57→20:54） |
+| DeItaone | 20 | 09/22 19:18 | 09/22 21:11 | 20分（20:20→20:41） |
+| FirstSquawk | 56 | 09/22 15:22 | 09/22 21:21 | 33分（19:13→19:46） |
+| financialjuice | 46 | 09/22 15:48 | 09/22 21:15 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 112 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 120 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 15:00 [financialjuice] UK PSNB EX BANKS ACTUAL 18.268B (FORECAST -, PREVIOUS 1.800B) $MACRO
-- 09/22 15:01 [FirstSquawk] UK ( AUG) PUBLIC FINANCES (PSNCR) ACTUAL: 10B VS -29B PREVIOUS
-- 09/22 15:01 [FirstSquawk] UK ( AUG) CENTRAL GOVERNMENT NCR ACTUAL: 10B VS 2.8B PREVIOUS
-- 09/22 15:01 [FirstSquawk] UK ( AUG) PUBLIC SECTOR NET BORROWING ACTUAL: 18.3B VS 1.8B PREVIOUS;EST 15.5B
-- 09/22 15:01 [FirstSquawk] UK ( AUG) PSNB EX BANKING GROUPS ACTUAL: 18.3B VS 1.8B PREVIOUS
-- 09/22 15:02 [FirstSquawk] South Korean appeals court reduces Kim Keon Hee’s prison sentence to five years from seven — Yonhap
 - 09/22 15:22 [FirstSquawk] Deutsche Bank lowers Novo Nordisk target to DKK 245 from DKK 265
 - 09/22 15:25 [FirstSquawk] Australia’s benchmark S&P/ASX 200 rises 0.3% to 8,757.80
 - 09/22 15:48 [financialjuice] Russian defence ministry: Russian forces hit oil refinery in Ukraine's Kremenchuk - TASS
@@ -136,3 +130,17 @@
 - 09/22 20:54 [financialjuice] Gulf states set to urge Trump to avoid any escalation with Iran
 - 09/22 20:54 [financialjuice] Six-member Gulf bloc expected to meet Trump in New York Tuesday
 - 09/22 20:54 [financialjuice] US Secretary of State Rubio, on Greenland: The US can build as many military bases as wanted
+- 09/22 21:01 [FirstSquawk] HUNGARY HOLDS BANK RATE AT 5.50%, AS EXPECTED
+- 09/22 21:01 [financialjuice] ASML Executives: Europe’s biggest firm has no sales in europe.
+- 09/22 21:03 [financialjuice] Anthropic CEO Dario Amodei to brief the UN Security Council on AI.
+- 09/22 21:03 [DeItaone] U.S. HOME PRICES POST FASTEST GROWTH IN A YEAR U.S. home prices rose 3.7% year-over-year in August, the strongest annual increase in a year, according to Redfin. Prices increased just 0.25% month-over-month, continuing a gradual slowdown in…
+- 09/22 21:04 [financialjuice] Sofi goes live with stablecoin settlement on the Mastercard network
+- 09/22 21:04 [financialjuice] SoFi Bank to migrate $25bln card program to stablecoin settlement
+- 09/22 21:07 [FirstSquawk] ASML EXEC: EUROPE’S BIGGEST FIRM HAS NO SALES IN EUROPE
+- 09/22 21:08 [DeItaone] PUTIN HOLDS PHONE CALL WITH SAUDI MBS - RIA
+- 09/22 21:10 [financialjuice] China's Xi unlikely to bring business delegation to meeting with trump - WSJ citing Sources
+- 09/22 21:11 [DeItaone] TRUMP-XI SUMMIT EXPECTED TO BE LIGHT ON MAJOR DEALS Xi Jinping is unlikely to bring a delegation of Chinese CEOs to Washington this week, according to the WSJ, lowering expectations for major business agreements. Trump and Xi are expected t…
+- 09/22 21:12 [financialjuice] Kremlin: Putin and Saudi Crown Prince discussed Yemen and the Middle East; putin and Saudi Crown Prince call for safe passage through Hormuz
+- 09/22 21:15 [FirstSquawk] US ADP EMPLOYMENT CHANGE WEEKLY ACTUAL: 20K VS 16.30K PREVIOUS
+- 09/22 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 20K (FORECAST -, PREVIOUS 16.25K) $MACRO
+- 09/22 21:21 [FirstSquawk] TRUMP SUMMIT WITH XI UNLIKELY TO INCLUDE CHINESE CEOS - WSJ

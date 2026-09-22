@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 20:58 JST／対象: 09/22 08:58 〜 09/22 20:58 JST（時刻はすべて日本時間）
+生成: 2026-09-22 21:22 JST／対象: 09/22 09:22 〜 09/22 21:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/22 19:18 | 09/22 20:53 | 20分（20:20→20:41） |
-| FirstSquawk | 160 | 09/22 09:02 | 09/22 20:54 | 34分（13:22→13:56） |
-| financialjuice | 73 | 09/22 12:21 | 09/22 20:54 | ⚠ 116分（18:57→20:54） |
+| DeItaone | 20 | 09/22 19:18 | 09/22 21:11 | 20分（20:20→20:41） |
+| FirstSquawk | 149 | 09/22 09:22 | 09/22 21:21 | 34分（13:22→13:56） |
+| financialjuice | 80 | 09/22 12:21 | 09/22 21:15 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 248 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 247 行（統合前 250 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 09:02 [FirstSquawk] KOSPI gains 2% as South Korean shares advance
-- 09/22 09:03 [FirstSquawk] Samsung Electronics shares surge 3% in trading
-- 09/22 09:03 [FirstSquawk] UK to support Saudi Arabia with military assistance in Houthi conflict — FT
-- 09/22 09:07 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.5% TO 8,776.90 POINTS IN EARLY TRADE
-- 09/22 09:08 [FirstSquawk] TAIWAN’S AUGUST EXPORT ORDERS ARE EXPECTED TO HAVE SURGED AROUND 63% YEAR-ON-YEAR, DRIVEN BY STRONG AI-RELATED TECHNOLOGY DEMAND, WHILE THE UNEMPLOYMENT RATE IS FORECAST AT 3.30%.
-- 09/22 09:08 [FirstSquawk] TAIWAN DOLLAR ROSE 0.16% TO 31.758 PER U.S. DOLLAR AND THE TAIEX GAINED 1.1% TO 47,718.84, AS INVESTORS WATCH AI DATA-CENTER EXPANSION, OIL PROCUREMENT AND U.S.-CHINA DEVELOPMENTS AHEAD OF THE TRUMP-XI MEETING.
-- 09/22 09:12 [FirstSquawk] LG ELECTRONICS’ 2.5-MEGAWATT COOLANT DISTRIBUTION UNIT HAS QUALIFIED AS NVIDIA DSX READY, MEETING REFERENCE-DESIGN REQUIREMENTS FOR AI FACTORY INFRASTRUCTURE AND STRENGTHENING LG’S POSITION IN AI DATA-CENTER COOLING.
-- 09/22 09:12 [FirstSquawk] LG HAS NOW COMPLETED NVIDIA INFRASTRUCTURE QUALIFICATION FOR 600 KW, 1 MW AND 2.5 MW COOLING UNITS, WITH THE LARGEST MODEL DESIGNED FOR LARGE-SCALE AI SERVER CLUSTERS AND HIGH-DENSITY COMPUTING DEPLOYMENTS.
-- 09/22 09:13 [FirstSquawk] U.S. AND CHINESE OFFICIALS HELD A SECOND DAY OF TRADE TALKS IN NEW YORK, FOCUSING ON AI, INVESTMENT AND IMPLEMENTING AGREEMENTS REACHED BY THEIR LEAD NEGOTIATORS AHEAD OF THE TRUMP-XI SUMMIT.
-- 09/22 09:13 [FirstSquawk] U.S. TRADE REPRESENTATIVE JAMIESON GREER SAID A THREE- TO SIX-MONTH EXTENSION OF THE TRADE TRUCE IS POSSIBLE, WHILE TRUMP AND XI ARE EXPECTED TO DISCUSS TRADE, RARE EARTHS AND AI; CHINESE RARE-EARTH MAGNET SHIPMENTS TO THE U.S. FELL 21% IN …
-- 09/22 09:15 [FirstSquawk] JPMORGAN CEO DIMON SAYS HE STILL SEES THE U.S. AS A STRONG INVESTMENT DESTINATION, ADDING THAT INDIA'S FOREIGN-COMPANY BARRIERS, TAXATION AND REGULATIONS COULD DETER INVESTMENT - ET
-- 09/22 09:16 [FirstSquawk] EUROPEAN STOCK FUTURES EDGE HIGHER: EUROSTOXX 50 +0.3%, DAX +0.2%, FTSE +0.2%
-- 09/22 09:16 [FirstSquawk] OIL STEADIES AFTER A NEARLY 8% FOUR-DAY DROP AS IMPROVING FLOWS THROUGH THE STRAIT OF HORMUZ AND RENEWED DIPLOMATIC EFFORTS EASE MIDDLE EAST SUPPLY CONCERNS, WITH BRENT NEAR $100 AND WTI BELOW $96 A BARREL.
-- 09/22 09:16 [FirstSquawk] SAUDI ARABIA HAS INCREASED OBSERVED LOADINGS FROM THE PERSIAN GULF, WHILE TRADERS WATCH FOR PROGRESS IN U.S.-IRAN TALKS AND TRUMP’S MEETINGS WITH XI JINPING; LIBYA’S SHARARA OIL FIELD OUTPUT HAS ALSO FALLEN BY MORE THAN HALF TO ABOUT 127,00…
-- 09/22 09:19 [FirstSquawk] META’S MUSE AI PLATFORM IS BOOSTING OPTIMISM ACROSS TAIWANESE TECHNOLOGY STOCKS, WITH HYPERSCALERS, CPUS, MEMORY AND NEOCLOUDS RALLYING AS INVESTORS FOCUS ON THE POTENTIAL OF CONSUMER-FOCUSED AGENTIC AI. THE CPU THEME IS GAINING MOMENTUM AS…
 - 09/22 09:22 [FirstSquawk] ASIAN STOCKS RISE 0.5% AS TECHNOLOGY SHARES TRACK WALL STREET HIGHER, WITH SOUTH KOREA’S KOSPI JUMPING MORE THAN 2% AND SAMSUNG ELECTRONICS AND SK HYNIX LEADING GAINS; U.S. SEMICONDUCTOR STOCKS RALLIED MORE THAN 4%, WHILE META SURGED 11% AN…
 - 09/22 09:22 [FirstSquawk] MARKETS ALSO FOCUS ON THURSDAY’S TRUMP-XI SUMMIT, WITH AI, TRADE AND INVESTMENT EXPECTED TO DOMINATE TALKS, WHILE BRENT HOLDS AROUND $100 AS MIDDLE EAST SUPPLY CONCERNS EASE; SPOT GOLD ROSE 0.7% TO $4,373.50, WHILE BITCOIN FELL 0.7% TO $86,…
 - 09/22 09:25 [FirstSquawk] Asian shares start higher after a strong Wall Street session, with the Nasdaq outperforming on Meta’s 11% surge and AMD crossing the $1 trillion market-cap mark
@@ -272,3 +257,17 @@
 - 09/22 20:54 [financialjuice] Gulf states set to urge Trump to avoid any escalation with Iran
 - 09/22 20:54 [financialjuice] Six-member Gulf bloc expected to meet Trump in New York Tuesday
 - 09/22 20:54 [financialjuice] US Secretary of State Rubio, on Greenland: The US can build as many military bases as wanted
+- 09/22 21:01 [FirstSquawk] HUNGARY HOLDS BANK RATE AT 5.50%, AS EXPECTED
+- 09/22 21:01 [financialjuice] ASML Executives: Europe’s biggest firm has no sales in europe.
+- 09/22 21:03 [financialjuice] Anthropic CEO Dario Amodei to brief the UN Security Council on AI.
+- 09/22 21:03 [DeItaone] U.S. HOME PRICES POST FASTEST GROWTH IN A YEAR U.S. home prices rose 3.7% year-over-year in August, the strongest annual increase in a year, according to Redfin. Prices increased just 0.25% month-over-month, continuing a gradual slowdown in…
+- 09/22 21:04 [financialjuice] Sofi goes live with stablecoin settlement on the Mastercard network
+- 09/22 21:04 [financialjuice] SoFi Bank to migrate $25bln card program to stablecoin settlement
+- 09/22 21:07 [FirstSquawk] ASML EXEC: EUROPE’S BIGGEST FIRM HAS NO SALES IN EUROPE
+- 09/22 21:08 [DeItaone] PUTIN HOLDS PHONE CALL WITH SAUDI MBS - RIA
+- 09/22 21:10 [financialjuice] China's Xi unlikely to bring business delegation to meeting with trump - WSJ citing Sources
+- 09/22 21:11 [DeItaone] TRUMP-XI SUMMIT EXPECTED TO BE LIGHT ON MAJOR DEALS Xi Jinping is unlikely to bring a delegation of Chinese CEOs to Washington this week, according to the WSJ, lowering expectations for major business agreements. Trump and Xi are expected t…
+- 09/22 21:12 [financialjuice] Kremlin: Putin and Saudi Crown Prince discussed Yemen and the Middle East; putin and Saudi Crown Prince call for safe passage through Hormuz
+- 09/22 21:15 [FirstSquawk] US ADP EMPLOYMENT CHANGE WEEKLY ACTUAL: 20K VS 16.30K PREVIOUS
+- 09/22 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 20K (FORECAST -, PREVIOUS 16.25K) $MACRO
+- 09/22 21:21 [FirstSquawk] TRUMP SUMMIT WITH XI UNLIKELY TO INCLUDE CHINESE CEOS - WSJ
