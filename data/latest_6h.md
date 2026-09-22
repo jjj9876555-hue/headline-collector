@@ -7,45 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 05:32 JST／対象: 09/22 23:32 〜 09/23 05:32 JST（時刻はすべて日本時間）
+生成: 2026-09-23 05:46 JST／対象: 09/22 23:46 〜 09/23 05:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 130 | 09/22 23:33 | 09/23 05:26 | 35分（01:56→02:31） |
-| financialjuice | 157 | 09/22 23:33 | 09/23 05:31 | 14分（03:02→03:16） |
+| FirstSquawk | 120 | 09/22 23:49 | 09/23 05:40 | 35分（01:56→02:31） |
+| financialjuice | 150 | 09/22 23:48 | 09/23 05:39 | 14分（03:02→03:16） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 280 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 263 行（統合前 277 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 23:33 [FirstSquawk] US PRESIDENT TRUMP: US TECHNOLOGY IS SECOND TO NONE AND LEADING GLOBALLY
-- 09/22 23:33 [financialjuice] Trump: Invested $1.5 trillion in the US military in the past 12 months.
-- 09/22 23:35 [FirstSquawk/financialjuice] TRUMP: I URGE IRAN TO MAKE A DEAL
-- 09/22 23:36 [financialjuice] EU Envoys agree to renew Russia sanctions on nearly 3,000 companies and individuals for 3 years, not the usual 6 months - EU Diplomats.
-- 09/22 23:36 [financialjuice] EU Envoys agree to lift sanctions on russian billionaires Usmanov and Fridman after push by france, luxembourg, - EU Diplomats
-- 09/22 23:37 [FirstSquawk] TRUMP SAYS HE URGED IRAN TO NEGOTIATE SEVERAL TIMES
-- 09/22 23:39 [financialjuice] Trump: More oil is flowing than at any point since the war started - UN.
-- 09/22 23:40 [financialjuice] Trump at UN: We must be united in maintaining pressure on Iran.
-- 09/22 23:40 [FirstSquawk] TRUMP: MORE OIL IS FLOWING THAN AT ANY POINT SINCE WAR STARTED
-- 09/22 23:40 [financialjuice] Trump: I believe we'll make a deal with iran right after our US election.
-- 09/22 23:40 [FirstSquawk] TRUMP: I BELIEVE WE'LL MAKE A DEAL WITH IRAN AFTER THE ELECTION
-- 09/22 23:40 [financialjuice] Trump: The United States Navy has recently escorted more than 1 billion barrels of oil out of the Strait of Hormuz.
-- 09/22 23:40 [FirstSquawk] UNITED NATIONS-TRUMP: IRAN WILL NEVER HAVE A NUCLEAR WEAPON
-- 09/22 23:41 [FirstSquawk] TRUMP: WON'T GIVE CREDENCE TO ELECTION WHEN IT COMES TO IRAN
-- 09/22 23:41 [financialjuice] Trump: I won't give credence to the election when it comes to Iran.
-- 09/22 23:41 [financialjuice] Trump: The US is adding weapons to our stockpiles fast.
-- 09/22 23:41 [financialjuice] Trump: calls on all nations to economically isolate Iran.
-- 09/22 23:42 [FirstSquawk] TRUMP: MASSIVE MUNITION PLANTS WILL BE OPENING
-- 09/22 23:42 [financialjuice] Trump: The US will be able to supply allies at a much faster rate.
-- 09/22 23:42 [FirstSquawk] UNITED NATIONS-TRUMP: CALLS ON ALL NATIONS TO ECONOMICALLY ISOLATE IRAN
-- 09/22 23:42 [FirstSquawk] TRUMP: US WILL BE ABLE TO SUPPLY ALLIES AT A MUCH FASTER RATE
-- 09/22 23:44 [FirstSquawk] TRUMP: OIL PRICES WILL PLUMMET AFTER IRAN CONFLICT IS OVER
 - 09/22 23:48 [financialjuice] Trump: We're working very closely with the leaders of Russia and Ukraine, and we will get that one done.
 - 09/22 23:49 [FirstSquawk] TRUMP: US-IRAN WILL GET DEAL DONE, ONE WAY OR THE OTHER
 - 09/22 23:49 [financialjuice] Trump: US-Iran will get a deal done, one way or the other.
@@ -304,3 +282,8 @@
 - 09/23 05:26 [financialjuice] NY Fed's Perli: Central clearing of Fed repo operations would have benefits
 - 09/23 05:26 [FirstSquawk] NEW YORK FED OPEN MARKETS CHIEF JOHN WILLIAMS PERL SAYS CENTRAL CLEARING OF FED REPO OPERATIONS COULD PROVIDE BENEFITS, WHILE DESCRIBING THE FED’S RESERVE FORECASTING PROCESS AS ROBUST.
 - 09/23 05:31 [financialjuice] Iraqi Oil Minister: Road transport of crude from southern oilfields to Kirkuk expected to increase exports via Turkey's Ceyhan port to more than 600,000 bpd
+- 09/23 05:32 [financialjuice] Iraqi Oil Minister: Oil production from Iraqi Kurdistan oilfields currently stands at 200,000 bpd
+- 09/23 05:32 [financialjuice] ECB's Nagel: I am not relaxed, core inflation is still too high
+- 09/23 05:33 [financialjuice] ECB's Nagel: Up to now, I do not see significant 2nd round effects.
+- 09/23 05:35 [financialjuice] ECB's Nagel: We are vigilant.
+- 09/23 05:39 [financialjuice/FirstSquawk] ❗ Iraqi Oil Minister: Iraq is studying a plan to export crude oil by trucks to Turkey

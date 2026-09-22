@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 05:32 JST／対象: 09/22 05:32 〜 09/23 05:32 JST（時刻はすべて日本時間）
+生成: 2026-09-23 05:46 JST／対象: 09/22 05:46 〜 09/23 05:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 368 | 09/22 05:52 | 09/23 05:26 | 44分（06:24→07:08） |
-| financialjuice | 301 | 09/22 06:00 | 09/23 05:31 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 369 | 09/22 05:52 | 09/23 05:40 | 44分（06:24→07:08） |
+| financialjuice | 306 | 09/22 06:00 | 09/23 05:39 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 678 行（統合前 700 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 683 行（統合前 706 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -702,3 +702,8 @@
 - 09/23 05:26 [financialjuice] NY Fed's Perli: Central clearing of Fed repo operations would have benefits
 - 09/23 05:26 [FirstSquawk] NEW YORK FED OPEN MARKETS CHIEF JOHN WILLIAMS PERL SAYS CENTRAL CLEARING OF FED REPO OPERATIONS COULD PROVIDE BENEFITS, WHILE DESCRIBING THE FED’S RESERVE FORECASTING PROCESS AS ROBUST.
 - 09/23 05:31 [financialjuice] Iraqi Oil Minister: Road transport of crude from southern oilfields to Kirkuk expected to increase exports via Turkey's Ceyhan port to more than 600,000 bpd
+- 09/23 05:32 [financialjuice] Iraqi Oil Minister: Oil production from Iraqi Kurdistan oilfields currently stands at 200,000 bpd
+- 09/23 05:32 [financialjuice] ECB's Nagel: I am not relaxed, core inflation is still too high
+- 09/23 05:33 [financialjuice] ECB's Nagel: Up to now, I do not see significant 2nd round effects.
+- 09/23 05:35 [financialjuice] ECB's Nagel: We are vigilant.
+- 09/23 05:39 [financialjuice/FirstSquawk] ❗ Iraqi Oil Minister: Iraq is studying a plan to export crude oil by trucks to Turkey
