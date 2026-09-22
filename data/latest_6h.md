@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 16:47 JST／対象: 09/22 10:47 〜 09/22 16:47 JST（時刻はすべて日本時間）
+生成: 2026-09-22 16:58 JST／対象: 09/22 10:58 〜 09/22 16:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 74 | 09/22 10:52 | 09/22 16:35 | 34分（13:22→13:56） |
-| financialjuice | 44 | 09/22 12:21 | 09/22 16:45 | ⚠ 66分（12:56→14:02） |
+| FirstSquawk | 73 | 09/22 11:01 | 09/22 16:57 | 34分（13:22→13:56） |
+| financialjuice | 46 | 09/22 12:21 | 09/22 16:52 | ⚠ 66分（12:56→14:02） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 118 行（統合前 118 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 119 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 10:52 [FirstSquawk] Japan reiterates support for Nepal following flash floods at UN meeting — Kyodo
-- 09/22 10:53 [FirstSquawk] South Korea in talks with US over 5%-10% stake in Westinghouse — Yonhap
-- 09/22 10:58 [FirstSquawk] South Korea eyes nuclear power and Alaska LNG projects as part of US investment — Media
 - 09/22 11:01 [FirstSquawk] Rocket shortage intensifies as launch providers race to secure spaceflight capacity — WSJ
 - 09/22 11:07 [FirstSquawk] South Korean lawmaker: No final confirmation yet on Alaska LNG project in US investment package
 - 09/22 11:07 [FirstSquawk] South Korea looking to secure 5%-10% stake in Westinghouse — lawmaker
@@ -142,3 +139,7 @@
 - 09/22 16:35 [FirstSquawk] USD/JPY INCREASES FOR THIRD STRAIGHT DAY, UP 0.3% TO 157.75.
 - 09/22 16:39 [financialjuice] Russia's Lavrov and Rubio expected to meet September 23rd - Tass
 - 09/22 16:45 [financialjuice] EU's Trade Chief Sefcovic: Deal delivers stronger, more diversified supply chain
+- 09/22 16:50 [financialjuice] Ukraine: Hit Russia's Kuibyshev refinery
+- 09/22 16:52 [financialjuice] EU's Trade Chief Sefcovic: European access to the Chinese market is also being discussed; export controls on rare earths are also being discussed. Need a 'credible outcome' in trade talks with China
+- 09/22 16:53 [FirstSquawk] EU’S SEFCOVIC: 'CREDIBLE OUTCOME' IN TRADE TALKS WITH CHINA || EUROPEAN ACCESS TO CHINA MARKET ALSO BEING DISCUSSED || UNPARALLELED INTENSITY OF CONTACTS WITH CHINA || WILL VISIT CHINA OCT. 8-9 FOR TRADE TALKS || EXPORT CONTROLS ON RARE EAR…
+- 09/22 16:57 [FirstSquawk] UK WILL OFFER MORE DEFENSIVE MILITARY AID TO SAUDI ARABIA.

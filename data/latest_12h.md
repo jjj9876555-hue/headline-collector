@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 16:47 JST／対象: 09/22 04:47 〜 09/22 16:47 JST（時刻はすべて日本時間）
+生成: 2026-09-22 16:58 JST／対象: 09/22 04:58 〜 09/22 16:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 174 | 09/22 04:52 | 09/22 16:35 | 44分（06:24→07:08） |
-| financialjuice | 61 | 09/22 04:56 | 09/22 16:45 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 175 | 09/22 05:00 | 09/22 16:57 | 44分（06:24→07:08） |
+| financialjuice | 62 | 09/22 05:15 | 09/22 16:52 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 234 行（統合前 235 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 236 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 04:52 [FirstSquawk] IRAN’S MISSILE, DRONE & AIR DEFENCE CAPABILITIES CONTINUE TO GROW — NOURNEWS
-- 09/22 04:56 [financialjuice] Downing Street: UK PM underlined commitment to working with Mauritius and US on future of military base on Diego Garcia.
 - 09/22 05:00 [FirstSquawk] CANADA DRAFT LAW REQUIRES CONTRACT BARGAINING TO BEGIN 6 MONTHS BEFORE EXPIRY IF COLLECTIVE AGREEMENT IS 5+ YEARS OLD
 - 09/22 05:00 [FirstSquawk] CANADA DRAFT LAW TO APPOINT SPECIAL MEDIATOR FOR ENTRENCHED DISPUTES WITH SIGNIFICANT NATIONAL IMPACT
 - 09/22 05:00 [FirstSquawk] CANADA DRAFT LAW WOULD LIMIT LABOR MINISTER’S POWER TO ORDER END TO MAJOR WORK STOPPAGES
@@ -258,3 +256,7 @@
 - 09/22 16:35 [FirstSquawk] USD/JPY INCREASES FOR THIRD STRAIGHT DAY, UP 0.3% TO 157.75.
 - 09/22 16:39 [financialjuice] Russia's Lavrov and Rubio expected to meet September 23rd - Tass
 - 09/22 16:45 [financialjuice] EU's Trade Chief Sefcovic: Deal delivers stronger, more diversified supply chain
+- 09/22 16:50 [financialjuice] Ukraine: Hit Russia's Kuibyshev refinery
+- 09/22 16:52 [financialjuice] EU's Trade Chief Sefcovic: European access to the Chinese market is also being discussed; export controls on rare earths are also being discussed. Need a 'credible outcome' in trade talks with China
+- 09/22 16:53 [FirstSquawk] EU’S SEFCOVIC: 'CREDIBLE OUTCOME' IN TRADE TALKS WITH CHINA || EUROPEAN ACCESS TO CHINA MARKET ALSO BEING DISCUSSED || UNPARALLELED INTENSITY OF CONTACTS WITH CHINA || WILL VISIT CHINA OCT. 8-9 FOR TRADE TALKS || EXPORT CONTROLS ON RARE EAR…
+- 09/22 16:57 [FirstSquawk] UK WILL OFFER MORE DEFENSIVE MILITARY AID TO SAUDI ARABIA.
