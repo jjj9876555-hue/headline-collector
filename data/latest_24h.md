@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 16:58 JST／対象: 09/21 16:58 〜 09/22 16:58 JST（時刻はすべて日本時間）
+生成: 2026-09-22 17:18 JST／対象: 09/21 17:18 〜 09/22 17:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 351 | 09/21 17:01 | 09/22 16:57 | 44分（06:24→07:08） |
-| financialjuice | 259 | 09/21 17:06 | 09/22 16:52 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 351 | 09/21 17:20 | 09/22 17:11 | 44分（06:24→07:08） |
+| financialjuice | 258 | 09/21 18:32 | 09/22 17:02 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 653 行（統合前 672 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 652 行（統合前 671 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 17:01 [FirstSquawk] NOVO PLANS TO RELEASE MORE THAN FIVE MULTI-BLOCKBUSTERS BY 2030.
-- 09/21 17:01 [FirstSquawk] NOVO TARGETS OVER 150 BILLION DKK IN PIPELINE SALES BY 2035.
-- 09/21 17:01 [FirstSquawk] NOVO PLANS 25 PHASE 3 PROGRAMS IN OBESITY AND DIABETES BY 2030.
-- 09/21 17:06 [financialjuice] ECB’s Panetta: Current market prices on AI are optimistic
-- 09/21 17:09 [FirstSquawk] JAPAN TO EASE CURBS ON REGIONAL BANK LOANS ON AI, ENERGY - NIKKEI
-- 09/21 17:11 [financialjuice] Japan to ease curbs on regional bank loans on AI and energy - Nikkei
 - 09/21 17:20 [FirstSquawk] NOVO NORDISK CEO: 7 MILLION PRESCRIPTION SO FAR ON WEGOVY PILL IN THE US || "WE'VE GAINED MARKET SHARE QUITE A BIT" OVER THE LAST FEW MONTHS || WE WILL STRENGTHEN OUR DIABETES CARE
 - 09/21 17:20 [FirstSquawk] NOVO NORDISK CEO: THE DISCLOSURE OF AN ADDITIONAL 4,000 PERSONNEL LEAVING THE COMPANY BRINGS TOTAL CORPORATE DOWNSIZING RELATED TO THE OPERATIONAL UNIFICATION TO 13,000 INDIVIDUALS || IT IS TIME TO FURTHER DIVERSIFY THE COMPANY || WE'RE CRE…
 - 09/21 17:20 [FirstSquawk] NOVO NORDISK CEO: LIVER DISEASE IS ALSO AN OBVIOUS PLACE FOR US TO GO || CARDIOVASCULAR IS ANOTHER OBVIOUS PLACE FOR US TO GO, DESPITE RECENT SETBACKS
@@ -677,3 +671,8 @@
 - 09/22 16:52 [financialjuice] EU's Trade Chief Sefcovic: European access to the Chinese market is also being discussed; export controls on rare earths are also being discussed. Need a 'credible outcome' in trade talks with China
 - 09/22 16:53 [FirstSquawk] EU’S SEFCOVIC: 'CREDIBLE OUTCOME' IN TRADE TALKS WITH CHINA || EUROPEAN ACCESS TO CHINA MARKET ALSO BEING DISCUSSED || UNPARALLELED INTENSITY OF CONTACTS WITH CHINA || WILL VISIT CHINA OCT. 8-9 FOR TRADE TALKS || EXPORT CONTROLS ON RARE EAR…
 - 09/22 16:57 [FirstSquawk] UK WILL OFFER MORE DEFENSIVE MILITARY AID TO SAUDI ARABIA.
+- 09/22 16:58 [FirstSquawk] EU'S SEFCOVIC AIMS TO FINALIZE AGREEMENTS WITH INDIA AND INDONESIA BY YEAR'S END.
+- 09/22 17:02 [financialjuice] The UK are to provide added defensive military support to Saudi Arabia
+- 09/22 17:11 [FirstSquawk] UK GOVERNMENT REQUESTS META AND GOOGLE TO PRESENT TO BUSINESS COMMITTEE.
+- 09/22 17:11 [FirstSquawk] VOLKSWAGEN'S CHINA HEAD SAYS CHINA'S PASSENGER CAR MARKET MAY FALL BY ABOUT 20% IN 2026.
+- 09/22 17:11 [FirstSquawk] UK BUSINESS COMMITTEE INVITES AI COMPANIES ANTHROPIC AND OPENAI FOR AI SAFETY TALKS.
