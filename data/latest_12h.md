@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 13:35 JST／対象: 09/22 01:35 〜 09/22 13:35 JST（時刻はすべて日本時間）
+生成: 2026-09-22 13:51 JST／対象: 09/22 01:51 〜 09/22 13:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/22 02:18 | 09/22 02:22 | 4分（02:18→02:22） |
-| FirstSquawk | 198 | 09/22 01:44 | 09/22 13:22 | 44分（06:24→07:08） |
-| financialjuice | 79 | 09/22 01:35 | 09/22 12:56 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 195 | 09/22 01:54 | 09/22 13:22 | 44分（06:24→07:08） |
+| financialjuice | 72 | 09/22 01:52 | 09/22 12:56 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 276 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 266 行（統合前 270 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 01:35 [financialjuice] BoC's Gov. Macklem: A new era of uncertainty is not going away any time soon.
-- 09/22 01:38 [financialjuice] BoC's Gov. Macklem Speaks - WATCH LIVE
-- 09/22 01:43 [financialjuice] BoC's Gov. Macklem: It could take some time for higher fuel margins to normalise, that is a worry.
-- 09/22 01:44 [FirstSquawk] BOC'S MACKLEM: THAT IS A WORRY BECAUSE THAT WILL ADD PERSISTENCE TO HEADLINE INFLATION
-- 09/22 01:45 [financialjuice] BoC's Gov. Macklem: We have cut Q4 annualized growth forecast to 0.75%.
-- 09/22 01:46 [financialjuice] BoC's Gov. Macklem: I expect inflation to drift up a little higher in the coming months.
-- 09/22 01:47 [financialjuice] BoC's Gov. Macklem: The key thing we're going to be looking at is our inflation forecast.
-- 09/22 01:47 [financialjuice] BoC's Gov. Macklem: The question is, is the current rate the right one, or do we need to raise it?
-- 09/22 01:50 [FirstSquawk] BOC'S MACKLEM: INFLATION FORECAST IS KEY THING BOC WILL BE LOOKING AT
-- 09/22 01:51 [FirstSquawk] LILLY CAPTURING 70% OF SENIORS STARTING GLP-1S: CEO DAVE RICKS
 - 09/22 01:52 [financialjuice/FirstSquawk] More than two dozen US lawmakers urge Trump to maintain ban on Chinese automakers - Letter.
 - 09/22 01:53 [financialjuice] BoC's Gov. Macklem: If we were too slow to raise rates, we'd have to raise them very quickly, and raise them more than had we moved earlier.
 - 09/22 01:54 [FirstSquawk] UKRAINE READY FOR UNCONDITIONAL CEASEFIRE AND DIPLOMACY - ZELENSKYY TO CBC
