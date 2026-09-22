@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 13:21 JST／対象: 09/22 01:21 〜 09/22 13:21 JST（時刻はすべて日本時間）
+生成: 2026-09-22 13:35 JST／対象: 09/22 01:35 〜 09/22 13:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/22 02:18 | 09/22 02:22 | 4分（02:18→02:22） |
-| FirstSquawk | 200 | 09/22 01:29 | 09/22 13:18 | 44分（06:24→07:08） |
-| financialjuice | 80 | 09/22 01:23 | 09/22 12:56 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 198 | 09/22 01:44 | 09/22 13:22 | 44分（06:24→07:08） |
+| financialjuice | 79 | 09/22 01:35 | 09/22 12:56 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 279 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 276 行（統合前 280 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 01:23 [financialjuice] American diplomats met with senior Houthi officials and received assurances from them that the armed rebel organization had no intention of closing the Bab al-Mandab Strait - Israel's N12 News
-- 09/22 01:29 [FirstSquawk] L3HARRIS TECHNOLOGIES: SIGNS MULTI-YEAR AGREEMENT WITH NAVAL AIR WARFARE CENTER TO INCREASE TOMAHAWK MISSILE PRODUCTION
-- 09/22 01:29 [FirstSquawk] NASDAQ 100 INDEX EXTENDS GAIN 2.5%
-- 09/22 01:35 [FirstSquawk] BANK OF CANADA GOVERNOR MACKLEM SAYS NEW ERA OF UNCERTAINTY IS NOT GOING AWAY ANY TIME SOON
 - 09/22 01:35 [financialjuice] BoC's Gov. Macklem: A new era of uncertainty is not going away any time soon.
 - 09/22 01:38 [financialjuice] BoC's Gov. Macklem Speaks - WATCH LIVE
 - 09/22 01:43 [financialjuice] BoC's Gov. Macklem: It could take some time for higher fuel margins to normalise, that is a worry.
@@ -303,3 +299,4 @@
 - 09/22 12:56 [FirstSquawk] RBA Gov. Bullock: Inflation risks are materialising from Middle East tensions and strong domestic demand
 - 09/22 13:02 [FirstSquawk] Deutsche Bank asset manager weighs tighter curbs on German property funds — FT
 - 09/22 13:18 [FirstSquawk] Russia’s parliament sees rise of Putin’s “war heroes” as a new political elite — FT
+- 09/22 13:22 [FirstSquawk] US oil futures gain more than 1% to $96.82/bbl ahead of possible US-Iran negotiations

@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-22 13:21 JST／対象: 09/22 07:21 〜 09/22 13:21 JST（時刻はすべて日本時間）
+生成: 2026-09-22 13:35 JST／対象: 09/22 07:35 〜 09/22 13:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 120 | 09/22 07:24 | 09/22 13:18 | 15分（13:02→13:18） |
-| financialjuice | 29 | 09/22 07:24 | 09/22 12:56 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 120 | 09/22 07:36 | 09/22 13:22 | 15分（13:02→13:18） |
+| financialjuice | 26 | 09/22 08:13 | 09/22 12:56 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 149 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 146 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 07:24 [FirstSquawk] LOCKHEED MARTIN SECURES A $1.2 BILLION CONTRACT FOR PRECISION STRIKE MISSILE (PRSM) INCREMENT 2 AFTER ITS SECOND MARITIME TEST, WITH ADDITIONAL FLIGHT TESTS SCHEDULED FOR 2027. PRSM INCREMENT 2 WILL ADD A MULTIMODE SEEKER TO TARGET MOVING L…
-- 09/22 07:24 [financialjuice] ECB's Lane: European economy to expand at steady, moderate pace if energy shock eases - Le Temps
-- 09/22 07:25 [financialjuice] ECB's Lane: second surge in energy costs will boost inflation before easing toward goal from mid-2027 onward - Le Temps
-- 09/22 07:30 [financialjuice] US to reopen military base in southern Greenland, establish presence at second site in eastern Greenland: three people familiar with the matter
 - 09/22 07:36 [FirstSquawk] US TO REOPEN MILITARY BASE IN SOUTHERN GREENLAND & ESTABLISH PRESENCE AT SECOND SITE IN EASTERN GREENLAND — SOURCES
 - 09/22 07:37 [FirstSquawk] ZELENSKY MEETS CIA DIRECTOR JOHN RATCLIFFE AT SHANNON AIRPORT IN IRELAND DURING REFUELING STOP
 - 09/22 07:39 [FirstSquawk] TRUMP SAYS TO ZOHRAN MAMDANI THAT HE HAS 'SEEN IT WITH NUMEROUS DIFFERENT MAYORS — SOME GREAT ONES AND SOME NOT SO GREAT ONES — SO HOPEFULLY YOU WILL BE A GREAT ONE', ADDING THAT MAMDANI IS 'OFF TO A START' AND HAS 'POTENTIAL', SAYING 'I WA…
@@ -173,3 +169,4 @@
 - 09/22 12:56 [FirstSquawk] RBA Gov. Bullock: Inflation risks are materialising from Middle East tensions and strong domestic demand
 - 09/22 13:02 [FirstSquawk] Deutsche Bank asset manager weighs tighter curbs on German property funds — FT
 - 09/22 13:18 [FirstSquawk] Russia’s parliament sees rise of Putin’s “war heroes” as a new political elite — FT
+- 09/22 13:22 [FirstSquawk] US oil futures gain more than 1% to $96.82/bbl ahead of possible US-Iran negotiations
