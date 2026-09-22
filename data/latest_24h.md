@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 14:24 JST／対象: 09/21 14:24 〜 09/22 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-22 14:43 JST／対象: 09/21 14:43 〜 09/22 14:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 354 | 09/21 14:25 | 09/22 14:20 | 44分（06:24→07:08） |
+| FirstSquawk | 355 | 09/21 14:43 | 09/22 14:31 | 44分（06:24→07:08） |
 | financialjuice | 257 | 09/21 15:05 | 09/22 14:20 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 653 行（統合前 674 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 654 行（統合前 675 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 14:25 [FirstSquawk] Berenberg hikes Softcat price target to 2,400p from 1,950p
-- 09/21 14:34 [FirstSquawk] Strong chip recovery drives greater trade dependence in South Korea in 2024 — Yonhap
 - 09/21 14:43 [FirstSquawk] South Korea’s central bank launches pilot for 24-hour offshore won settlement — Yonhap
 - 09/21 14:48 [FirstSquawk] Kazakhstan oil exports through Ust-Luga drop 30% month-on-month to 200,000 tonnes in August — IFX
 - 09/21 15:05 [financialjuice] Kazakhstan Oil to UST-Luga at 200k metric tons in August - IFX
@@ -677,3 +675,6 @@
 - 09/22 14:19 [financialjuice] Economists believe neutral rates are increasing globally, driving up real bond yields
 - 09/22 14:20 [financialjuice] Russian overnight strike on Ukraine's city of Dnipro kills three: governor
 - 09/22 14:20 [FirstSquawk] Russian strike on Ukraine’s Dnipro kills three overnight, governor says
+- 09/22 14:24 [FirstSquawk] US Vice President Vance: US seeks to prevent Iran from rebuilding its nuclear programme
+- 09/22 14:30 [FirstSquawk] Boeing target price cut to $265 from $295 by Jefferies
+- 09/22 14:31 [FirstSquawk] Iranian President: Enemy aims to block all roads into Iran and force it to surrender — Al Jazeera

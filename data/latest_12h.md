@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-22 14:24 JST／対象: 09/22 02:24 〜 09/22 14:24 JST（時刻はすべて日本時間）
+生成: 2026-09-22 14:43 JST／対象: 09/22 02:43 〜 09/22 14:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 200 | 09/22 02:34 | 09/22 14:20 | 44分（06:24→07:08） |
-| financialjuice | 77 | 09/22 02:32 | 09/22 14:20 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 196 | 09/22 02:43 | 09/22 14:31 | 44分（06:24→07:08） |
+| financialjuice | 73 | 09/22 03:02 | 09/22 14:20 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 275 行（統合前 278 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 268 行（統合前 270 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 02:32 [financialjuice] ❗ The UK is close to agreeing to help the Saudi military counter the Houthis.
-- 09/22 02:34 [FirstSquawk] MORE THAN TWO DOZEN US LAWMAKERS URGE TRUMP TO MAINTAIN BAN ON CHINESE AUTOMAKERS - LETTER.
-- 09/22 02:34 [FirstSquawk] PARAMOUNT HAS SETTLED THE ANTITRUST LAWSUIT BY U.S. STATES THAT DELAYED ITS WARNER BROS. DISCOVERY ACQUISITION, COURT RECORDS SHOW, WITH THE CALIFORNIA ATTORNEY GENERAL SAYING THE SETTLEMENT RESOLVES ANTITRUST CONCERNS BUT IS 'NOT A VOTE OF…
-- 09/22 02:34 [FirstSquawk] THE CONSENT DECREE REQUIRES THEATRICAL FILM COMMITMENTS — INCLUDING MINIMUM ANNUAL FILM RELEASES AND SPENDING AT LEAST $300 MLN MORE ANNUALLY ON U.S. FILM PRODUCTION THAN IN 2025 — ALONG WITH SEPARATE NEGOTIATIONS FOR THE DISTRIBUTION OF PA…
-- 09/22 02:34 [FirstSquawk] THE CONSENT DECREE ALSO REQUIRES AN INTERNAL COMPLIANCE MONITOR AND A COMMITTEE OF FIVE STATES TO OVERSEE ENFORCEMENT, WITH REMEDIES INCLUDING POSSIBLE DIVESTITURES IF THE COMPANIES BREACH THEIR OBLIGATIONS, WHILE THE NEW JERSEY ATTORNEY GE…
-- 09/22 02:34 [financialjuice] The UK is close to agreeing to provide defensive military support to Saudi Arabia as the kingdom faces repeated attacks from the Iran-backed Houthis. Prime Minister Andy Burnham is reportedly leaning toward offering assistance such as aeria…
-- 09/22 02:35 [financialjuice/FirstSquawk] The US, Denmark, and Greenland are going to hold a signing ceremony on Tuesday - Fox.
-- 09/22 02:36 [financialjuice] Trump Participates in a Ribbon Cutting Ceremony - WATCH LIVE
-- 09/22 02:40 [FirstSquawk] PARAMOUNT SAYS IT HAS FULL CLEARANCE FOR WARNER BROS. DISCOVERY DEAL AFTER ADDRESSING US STATE AGS’ & WGA CONCERNS
-- 09/22 02:43 [FirstSquawk] NEW JERSEY ATTORNEY GENERAL DAVENPORT ANNOUNCED A SETTLEMENT IN THE PARAMOUNT-WARNER BROS. DISCOVERY LITIGATION, WITH THE MERGED COMPANY COMMITTING AT LEAST $1.5 BILLION TO BOOST DOMESTIC FILM PRODUCTION. THE DEAL ALSO INCLUDES A FIVE-YEAR,…
 - 09/22 02:43 [FirstSquawk] NEW JERSEY ATTORNEY GENERAL DAVENPORT: UNDER THE SETTLEMENT, THE MERGED COMPANY WILL CREATE AN EDITORIAL-INDEPENDENCE BOARD FOR CNN AND CBS, ESTABLISH A FUND TO PURCHASE INDEPENDENT FILMS WITH $5 MILLION ANNUAL CONTRIBUTIONS FOR FIVE YEARS,…
 - 09/22 02:44 [FirstSquawk] CALIFORNIA ATTORNEY GENERAL SAID A COALITION OF ATTORNEYS GENERAL HAS REACHED A SETTLEMENT WITH PARAMOUNT TO ADDRESS ANTITRUST CONCERNS OVER THE PARAMOUNT-WARNER BROS. DISCOVERY DEAL, WHILE STRESSING THAT THE SETTLEMENT IS NOT AN ENDORSEMEN…
 - 09/22 02:44 [FirstSquawk] PARAMOUNT AND WARNER BROS. WILL ALSO BE REQUIRED TO CONTINUE NEGOTIATING THEIR CABLE PACKAGES SEPARATELY. CALIFORNIA WILL SELECT A TRUSTEE TO MONITOR PARAMOUNT’S COMPLIANCE WITH THE SETTLEMENT TERMS.
@@ -299,3 +289,6 @@
 - 09/22 14:19 [financialjuice] Economists believe neutral rates are increasing globally, driving up real bond yields
 - 09/22 14:20 [financialjuice] Russian overnight strike on Ukraine's city of Dnipro kills three: governor
 - 09/22 14:20 [FirstSquawk] Russian strike on Ukraine’s Dnipro kills three overnight, governor says
+- 09/22 14:24 [FirstSquawk] US Vice President Vance: US seeks to prevent Iran from rebuilding its nuclear programme
+- 09/22 14:30 [FirstSquawk] Boeing target price cut to $265 from $295 by Jefferies
+- 09/22 14:31 [FirstSquawk] Iranian President: Enemy aims to block all roads into Iran and force it to surrender — Al Jazeera
