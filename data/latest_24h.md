@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-22 13:02 JST／対象: 09/21 13:02 〜 09/22 13:02 JST（時刻はすべて日本時間）
+生成: 2026-09-22 13:21 JST／対象: 09/21 13:21 〜 09/22 13:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 57 | 09/21 20:05 | 09/22 02:22 | ⚠ 83分（00:54→02:18） |
-| FirstSquawk | 361 | 09/21 13:03 | 09/22 13:02 | 44分（06:24→07:08） |
-| financialjuice | 254 | 09/21 13:05 | 09/22 12:56 | ⚠ 248分（08:13→12:21） |
+| FirstSquawk | 358 | 09/21 13:26 | 09/22 13:18 | 44分（06:24→07:08） |
+| financialjuice | 253 | 09/21 13:26 | 09/22 12:56 | ⚠ 248分（08:13→12:21） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 657 行（統合前 678 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 653 行（統合前 674 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/21 13:03 [FirstSquawk] Fed, BOE step up review of banks’ trading-firm exposure following Jane Street loss — FT
-- 09/21 13:05 [financialjuice] Fed and BoE intensify review of bank risk from trading firms after Jane Street loss: FT
-- 09/21 13:16 [FirstSquawk] Rising fuel subsidies weigh on public finances amid deepening energy crisis — FT
-- 09/21 13:20 [FirstSquawk] Firmus set to start trading on ASX on October 22 — term sheet
-- 09/21 13:21 [FirstSquawk] Australian data center operator Firmus set to launch $5 billion IPO on October 6 — term sheet
 - 09/21 13:26 [FirstSquawk] China’s biopharma stocks rally as US weighs keeping door open to drug deals — CNBC
 - 09/21 13:26 [financialjuice] South Korea military: 3 soldiers hurt in blast south of military demarcation line
 - 09/21 13:27 [FirstSquawk] Three South Korean soldiers injured in explosion south of Military Demarcation Line — Military
@@ -681,3 +676,4 @@
 - 09/22 12:56 [financialjuice] RBA Governor Bullock: inflation risks emerging from Middle East, strong domestic demand
 - 09/22 12:56 [FirstSquawk] RBA Gov. Bullock: Inflation risks are materialising from Middle East tensions and strong domestic demand
 - 09/22 13:02 [FirstSquawk] Deutsche Bank asset manager weighs tighter curbs on German property funds — FT
+- 09/22 13:18 [FirstSquawk] Russia’s parliament sees rise of Putin’s “war heroes” as a new political elite — FT
