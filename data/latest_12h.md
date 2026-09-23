@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 01:27 JST／対象: 09/23 13:27 〜 09/24 01:27 JST（時刻はすべて日本時間）
+生成: 2026-09-24 01:45 JST／対象: 09/23 13:45 〜 09/24 01:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/23 18:24 | 09/24 01:07 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 148 | 09/23 13:27 | 09/24 01:23 | 30分（17:00→17:31） |
-| financialjuice | 150 | 09/23 13:30 | 09/24 01:12 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 148 | 09/23 13:45 | 09/24 01:44 | 30分（17:00→17:31） |
+| financialjuice | 148 | 09/23 14:52 | 09/24 01:36 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 349 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 347 行（統合前 365 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 13:27 [FirstSquawk] Rising diesel prices cost European drivers €203 million per day - FT
-- 09/23 13:30 [financialjuice] DUTCH GDP YOY FINAL NSA ACTUAL 1.6% (FORECAST -, PREVIOUS 1.3%) $MACRO
-- 09/23 13:30 [financialjuice] DUTCH GDP QOQ FINAL SA ACTUAL 0.6% (FORECAST 0.4%, PREVIOUS 0.4%) $MACRO
-- 09/23 13:30 [financialjuice] Dutch final Q2 GDP rises 0.6% quarter-on-quarter, CBS
-- 09/23 13:30 [financialjuice] South Korea picks Texas gas plant as initial project under US investment agreement - FT
-- 09/23 13:30 [FirstSquawk] South Korea chooses Texas gas plant for first project under US investment agreement - FT
-- 09/23 13:31 [financialjuice] Seoul to finance $22 billion gas-fired power plant in Texas, aiming to fulfill $350 billion pledge: ft
-- 09/23 13:31 [financialjuice] Dutch final Q2 GDP rises 0.6% quarter on quarter, seasonally adjusted: CBS
-- 09/23 13:36 [financialjuice] China central bank offers 6-month yuan bills in Hong Kong at 1.37%, HKMA says
-- 09/23 13:36 [FirstSquawk] PBOC sells six-month yuan bills in Hong Kong at 1.37% - HKMA
-- 09/23 13:38 [FirstSquawk] Vietnam’s Vingroup agrees $1 billion deal with Siemens for bullet train project - NA
-- 09/23 13:39 [financialjuice] Dutch final Q2 GDP rises 1.6% y/y nsa vs preliminary 1.3%: CBS
-- 09/23 13:41 [FirstSquawk] Strait of Hormuz shipping traffic plunges to three ships on Tuesday - Kepler Data
-- 09/23 13:42 [FirstSquawk] Berenberg lifts Kingfisher target price to 320p from 295p
 - 09/23 13:45 [FirstSquawk] Berenberg lifts Smiths Group target price to 3,200p from 3,000p
 - 09/23 13:49 [FirstSquawk] RBC lifts Standard Life target price to 970p from 885p
 - 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI SERVICES ACTUAL: 55.8 VS 54.1 PREVIOUS
@@ -373,3 +359,15 @@
 - 09/24 01:12 [financialjuice] Russian Foreign Minister Lavrov: An agreement has been reached to continue discussions.
 - 09/24 01:15 [FirstSquawk] RUSSIA'S LAVROV, US SEC. OF STATE RUBIO DISCUSSED THE SITUATION IN MIDDLE EAST, THE TRANSCAUCASUS, LATAM AND CARIBBEAN – FOREIGN MINISTRY
 - 09/24 01:23 [FirstSquawk] EU BREXIT CHIEF: UK CAN GET A CANADA-STYLE MEMBERSHIP DEAL
+- 09/24 01:30 [financialjuice] IMF: The Middle East war since late February has significantly altered global growth trajectory through energy, commodity and supply-chain disruptions.
+- 09/24 01:30 [financialjuice] IMF: Global public debt was already near record highs when Middle East war began.
+- 09/24 01:30 [financialjuice] IMF: Supportive fiscal policies, private investment and potential AI productivity gains could support medium-term global growth.
+- 09/24 01:30 [financialjuice] US Energy Secretary Wright: I see Natural Gas as 'America's Energy Super Power'.
+- 09/24 01:31 [FirstSquawk] WRIGHT SEES NATURAL GAS PRICING FLATTISH FOR NEXT 5-10 YEARS
+- 09/24 01:32 [financialjuice] Microsoft is expanding investments in the Middle East, investing more than $10b by 2030. $MSFT
+- 09/24 01:32 [FirstSquawk] WRIGHT SAYS DON'T THINK WILL SEE BLANKET BAN ON DIESEL
+- 09/24 01:33 [FirstSquawk] MICROSOFT TO INVEST MORE THAN $10B IN MIDDLE EAST BY 2030
+- 09/24 01:36 [financialjuice] US Energy Secretary Wright: China is a 'swing importer' of oil in the world market.
+- 09/24 01:36 [FirstSquawk] WRIGHT: CHINA IS 'SWING IMPORTER' OF OIL IN THE WORLD MARKET
+- 09/24 01:43 [FirstSquawk] TRUMP ADMINISTRATION BACKING OFF NIH GRANT ORDER AMID PUSHBACK - SEMAFOR
+- 09/24 01:44 [FirstSquawk] BOEING AND TURKISH AIRLINES FINALIZE ORDER FOR UP TO 150 737 MAX JETS

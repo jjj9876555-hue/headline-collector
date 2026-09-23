@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 01:27 JST／対象: 09/23 01:27 〜 09/24 01:27 JST（時刻はすべて日本時間）
+生成: 2026-09-24 01:45 JST／対象: 09/23 01:45 〜 09/24 01:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 69 | 09/23 04:42 | 09/24 01:07 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 353 | 09/23 01:31 | 09/24 01:23 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 303 | 09/23 01:31 | 09/24 01:12 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 356 | 09/23 01:45 | 09/24 01:44 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 308 | 09/23 01:46 | 09/24 01:36 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 701 行（統合前 731 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 709 行（統合前 739 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 01:31 [FirstSquawk] ANTHROPIC: CLAUDE OPUS 5.5 PERFORMS AT LEVEL OF CLAUDE FABLE 5.1 ON MOST WORK, COSTS AROUND 40% LESS TO RUN THAN OPUS 5
-- 09/23 01:31 [FirstSquawk] ANTHROPIC: OPUS 5.5 IS PRICED AT $4 PER MILLION INPUT TOKENS AND $20 PER MILLION OUTPUT TOKENS
-- 09/23 01:31 [financialjuice] Anthropic Launches Claude Opus 5.5, Sonnet and Haiku 5.5 to Follow
-- 09/23 01:43 [FirstSquawk] ALASKA SEN. SULLIVAN CALLS FOR MORATORIUM ON US DIESEL EXPORTS
 - 09/23 01:45 [FirstSquawk] TRUMP: BURNHAM IS GOING TO BE A GREAT PRIME MINISTER
 - 09/23 01:45 [FirstSquawk] EU AND CANADA TO UNVEIL NEW PARTNERSHIP, BUT IT MAY NOT BE ‘ASSOCIATE MEMBERSHIP,’ SAYS AMBASSADOR – POLITICO
 - 09/23 01:45 [FirstSquawk] TRUMP: DISCUSSED ENERGY, IMMIGRATION, ROLLS-ROYCE WITH BURNHAM
@@ -725,3 +721,15 @@
 - 09/24 01:12 [financialjuice] Russian Foreign Minister Lavrov: An agreement has been reached to continue discussions.
 - 09/24 01:15 [FirstSquawk] RUSSIA'S LAVROV, US SEC. OF STATE RUBIO DISCUSSED THE SITUATION IN MIDDLE EAST, THE TRANSCAUCASUS, LATAM AND CARIBBEAN – FOREIGN MINISTRY
 - 09/24 01:23 [FirstSquawk] EU BREXIT CHIEF: UK CAN GET A CANADA-STYLE MEMBERSHIP DEAL
+- 09/24 01:30 [financialjuice] IMF: The Middle East war since late February has significantly altered global growth trajectory through energy, commodity and supply-chain disruptions.
+- 09/24 01:30 [financialjuice] IMF: Global public debt was already near record highs when Middle East war began.
+- 09/24 01:30 [financialjuice] IMF: Supportive fiscal policies, private investment and potential AI productivity gains could support medium-term global growth.
+- 09/24 01:30 [financialjuice] US Energy Secretary Wright: I see Natural Gas as 'America's Energy Super Power'.
+- 09/24 01:31 [FirstSquawk] WRIGHT SEES NATURAL GAS PRICING FLATTISH FOR NEXT 5-10 YEARS
+- 09/24 01:32 [financialjuice] Microsoft is expanding investments in the Middle East, investing more than $10b by 2030. $MSFT
+- 09/24 01:32 [FirstSquawk] WRIGHT SAYS DON'T THINK WILL SEE BLANKET BAN ON DIESEL
+- 09/24 01:33 [FirstSquawk] MICROSOFT TO INVEST MORE THAN $10B IN MIDDLE EAST BY 2030
+- 09/24 01:36 [financialjuice] US Energy Secretary Wright: China is a 'swing importer' of oil in the world market.
+- 09/24 01:36 [FirstSquawk] WRIGHT: CHINA IS 'SWING IMPORTER' OF OIL IN THE WORLD MARKET
+- 09/24 01:43 [FirstSquawk] TRUMP ADMINISTRATION BACKING OFF NIH GRANT ORDER AMID PUSHBACK - SEMAFOR
+- 09/24 01:44 [FirstSquawk] BOEING AND TURKISH AIRLINES FINALIZE ORDER FOR UP TO 150 737 MAX JETS
