@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 18:18 JST／対象: 09/22 18:18 〜 09/23 18:18 JST（時刻はすべて日本時間）
+生成: 2026-09-23 18:33 JST／対象: 09/22 18:33 〜 09/23 18:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 345 | 09/22 18:43 | 09/23 18:13 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 315 | 09/22 18:27 | 09/23 18:00 | ⚠ 116分（18:57→20:54） |
+| DeItaone | 24 | 09/22 19:18 | 09/23 18:24 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 346 | 09/22 18:43 | 09/23 18:22 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 316 | 09/22 18:38 | 09/23 18:33 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 669 行（統合前 691 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 671 行（統合前 694 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 18:27 [financialjuice] Naftogaz: Facilities hit in Poltava region overnight
-- 09/22 18:32 [financialjuice] GERMAN 5 YR BOBL YIELD ACTUAL 3.28% (FORECAST -, PREVIOUS 3.09%) $MACRO
-- 09/22 18:32 [financialjuice] GERMAN 5 YR BOBL BID-TO-COVER ACTUAL 1.2 (FORECAST -, PREVIOUS 1.6) $MACRO
 - 09/22 18:38 [financialjuice] Russia's oil exports from black sea Novorossiysk port rose to 650,000 barrels per day in September, up 50% from August - Sources and data
 - 09/22 18:41 [financialjuice] Kremlin: Putin and Erdogan discussed black sea strike halt - IFX
 - 09/22 18:41 [financialjuice] Kremlin: Russia says U.N. Security Council membership should be increased, but veto powers should remain
@@ -693,3 +690,8 @@
 - 09/23 18:13 [FirstSquawk] KREMLIN ANNOUNCES NO SPECIFIC PLANS FOR HIGH-LEVEL UKRAINE MEETINGS.
 - 09/23 18:13 [FirstSquawk] KREMLIN STATES UKRAINIAN PRESIDENT MUST VISIT MOSCOW FOR FUTURE DISCUSSIONS AFTER DECISIONS MADE.
 - 09/23 18:13 [FirstSquawk] L&G PLANS TO REDUCE AROUND 10% OF ITS STAFF TO INCREASE EFFICIENCY.
+- 09/23 18:22 [FirstSquawk/financialjuice] TRUMP BOARD OF PEACE TO UNVEIL $2.45B GAZA RECOVERY PLAN - AXIOS
+- 09/23 18:23 [financialjuice] Gaza plan to be presented to members on Wednesday - Axios
+- 09/23 18:24 [DeItaone] TRUMP'S BOARD OF PEACE TO UNVEIL $2.45 BILLION GAZA RECOVERY PLAN- AXIOS
+- 09/23 18:33 [financialjuice] GERMAN 30 YR BUND YIELD ACTUAL 3.8% (FORECAST -, PREVIOUS 3.9%) $MACRO
+- 09/23 18:33 [financialjuice] GERMAN 30 YR BUND BID-TO-COVER ACTUAL 1.584 (FORECAST -, PREVIOUS 2.4) $MACRO
