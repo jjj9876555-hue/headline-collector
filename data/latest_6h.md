@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 07:58 JST／対象: 09/24 01:58 〜 09/24 07:58 JST（時刻はすべて日本時間）
+生成: 2026-09-24 08:14 JST／対象: 09/24 02:14 〜 09/24 08:14 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 15 | 09/24 01:59 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| DeItaone | 10 | 09/24 02:41 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
 | FirstSquawk | 51 | 09/24 02:31 | 09/24 06:44 | ⚠ 77分（05:26→06:44） |
-| financialjuice | 47 | 09/24 01:59 | 09/24 07:46 | 42分（05:39→06:22） |
+| financialjuice | 45 | 09/24 02:28 | 09/24 08:12 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 111 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 104 行（統合前 107 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 01:59 [financialjuice] US Treasury Secretary Bessent: Held substantive talks with China's He
-- 09/24 01:59 [DeItaone] TRUMP ADMINISTRATION IS PREPARING A PLAN TO BAN EXPORTS OF DIESEL FOR 90 DAYS - POLITICO
-- 09/24 02:00 [financialjuice] Treasury WI 5-year yield 5.002% before $70 billion auction.
-- 09/24 02:01 [DeItaone] WHITE HOUSE PREPARES 90-DAY DIESEL EXPORT BAN The Trump administration is preparing a 90-day ban on U.S. diesel exports, according to Politico, as record fuel prices intensify pressure ahead of the midterms. Diesel averages $6.52 per gallon…
-- 09/24 02:02 [financialjuice] US 5-YEAR NOTE HIGH YIELD ACTUAL 5.033% (FORECAST -, PREVIOUS 4.393%) $MACRO
-- 09/24 02:02 [DeItaone] *US DIESEL FUTURES SINK MORE THAN 7% TO INTRADAY LOW *EUROPEAN DIESEL FUTURES SURGE OVER 7% TO SESSION HIGH
-- 09/24 02:02 [financialjuice] US 5-YEAR NOTE BID-TO-COVER ACTUAL 2.210 (FORECAST -, PREVIOUS 2.370) $MACRO
-- 09/24 02:03 [financialjuice] US 5-Year Note Auction
-- 09/24 02:03 [financialjuice] ❗ US 5-Year Note Auction: High Yield 5.033% (Tailed by 3.1 basis points)
-- 09/24 02:05 [DeItaone] DIESEL CRACKS PLUNGE ON U.S. EXPORT BAN REPORT U.S. diesel cracks fell $12.70 to $97.85/bbl after Politico reported the White House is preparing a 90-day diesel export ban. Meanwhile, gasoline cracks jumped $2 to $47.41/bbl, reflecting conc…
-- 09/24 02:05 [DeItaone] *FIVE-YEAR TREASURY YIELD RISES TO 5% FOR FIRST TIME SINCE 2007
-- 09/24 02:06 [financialjuice] US 5-Year Note Auction High Yield 5.033% (Tailed by 3.1 basis points) Bid-to-cover 2.21 Sells $70 bln Awards 30.34% of bids at high Primary Dealers take 15.77% Direct 29.92% Indirect 54.31%
 - 09/24 02:28 [financialjuice] Microsoft President: It is the right time to invest in Gulf nations. $MSFT
 - 09/24 02:31 [FirstSquawk] 4 COUNTERPARTIES TAKE $461 MLN AT FED REVERSE REPO (PREV $453 MLN, 8 BIDS)
 - 09/24 02:34 [financialjuice] Microsoft's Smith: AI safety won't advance if we rely on two companies, AI should have independent evaluators $MSFT
@@ -135,3 +123,8 @@
 - 09/24 07:31 [financialjuice] Modal Labs in talks to secure new funding at about $15 billion valuation
 - 09/24 07:42 [financialjuice] South Korea’s presidential office: President Lee discussed warship building with U.S. President Donald Trump
 - 09/24 07:46 [financialjuice] South Korea President Lee: Hanwha's Philly shipyard to construct warships for US - Korea presidential office
+- 09/24 08:03 [financialjuice] Meta launches annual Connect conference in Menlo Park, California
+- 09/24 08:08 [financialjuice] EU's Costa: spoke to Iran president, urged Tehran to restart cooperation with IAEA
+- 09/24 08:08 [financialjuice] EU's Costa: calls for halt to Iran's attacks on neighbors and complete freedom of navigation in Strait of Hormuz
+- 09/24 08:10 [financialjuice] Meta CEO Zuckerberg: company expects to earn revenue from Muse by charging small transaction fee
+- 09/24 08:12 [financialjuice] Meta exec Wang: company adding computer usage data to Muse

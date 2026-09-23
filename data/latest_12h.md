@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 07:58 JST／対象: 09/23 19:58 〜 09/24 07:58 JST（時刻はすべて日本時間）
+生成: 2026-09-24 08:14 JST／対象: 09/23 20:14 〜 09/24 08:14 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 69 | 09/23 20:05 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 155 | 09/23 19:59 | 09/24 06:44 | ⚠ 77分（05:26→06:44） |
-| financialjuice | 171 | 09/23 19:59 | 09/24 07:46 | ⚠ 46分（20:03→20:49） |
+| DeItaone | 68 | 09/23 21:06 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 152 | 09/23 20:18 | 09/24 06:44 | ⚠ 77分（05:26→06:44） |
+| financialjuice | 170 | 09/23 20:49 | 09/24 08:12 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 380 行（統合前 398 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 376 行（統合前 393 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 19:59 [financialjuice/FirstSquawk] HSBC raises 2026 year-end FTSE 100 target to 11,390 from 10,980
-- 09/23 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -1.5% (FORECAST -, PREVIOUS -4.1%) $MACRO
-- 09/23 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 7.12% (FORECAST -, PREVIOUS 6.97%) $MACRO
-- 09/23 20:02 [financialjuice] Oil executives lobbied against diesel export ban - WSJ
-- 09/23 20:03 [financialjuice] HSBC cuts France to underweight from neutral
-- 09/23 20:03 [financialjuice] Oil reps blindsided by Trump diesel export ban comment - WSJ
-- 09/23 20:05 [DeItaone] TRUMP WEIGHS DIESEL EXPORT CURBS AS PRICES HIT RECORD President Trump says he is considering restricting U.S. diesel exports as prices reach a record $6.53 per gallon. Oil companies are pushing back, warning restrictions could force refiner…
-- 09/23 20:07 [FirstSquawk] WHITE HOUSE CONSIDERS BAN ON DIESEL EXPORTS AS PRICES KEEP RISING - WSJ
-- 09/23 20:10 [FirstSquawk] TRUMP’S OIL ALLIES SEE NIGHTMARE SCENARIO OF DIESEL-EXPORT BAN BECOMING REALITY – WSJ
 - 09/23 20:18 [FirstSquawk] RYANAIR CEO O'LEARY: WE ARE EXPECTED TO GET OUR FIRST 15 MAX 10 AIRCRAFT IN THE SPRING, WE EXPECT THOSE TO BE CERTIFIED IN THE NEXT FEW WEEKS
 - 09/23 20:22 [FirstSquawk] UBS FACES $17B EXTRA CAPITAL AFTER PARLIAMENT VOTE, GOLDMAN SAYS - BBG
 - 09/23 20:24 [FirstSquawk] NASDAQ 100 FUTURES HIT SESSION LOW, DOWN 0.2%
@@ -404,3 +395,8 @@
 - 09/24 07:31 [financialjuice] Modal Labs in talks to secure new funding at about $15 billion valuation
 - 09/24 07:42 [financialjuice] South Korea’s presidential office: President Lee discussed warship building with U.S. President Donald Trump
 - 09/24 07:46 [financialjuice] South Korea President Lee: Hanwha's Philly shipyard to construct warships for US - Korea presidential office
+- 09/24 08:03 [financialjuice] Meta launches annual Connect conference in Menlo Park, California
+- 09/24 08:08 [financialjuice] EU's Costa: spoke to Iran president, urged Tehran to restart cooperation with IAEA
+- 09/24 08:08 [financialjuice] EU's Costa: calls for halt to Iran's attacks on neighbors and complete freedom of navigation in Strait of Hormuz
+- 09/24 08:10 [financialjuice] Meta CEO Zuckerberg: company expects to earn revenue from Muse by charging small transaction fee
+- 09/24 08:12 [financialjuice] Meta exec Wang: company adding computer usage data to Muse
