@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 22:51 JST／対象: 09/23 16:51 〜 09/23 22:51 JST（時刻はすべて日本時間）
+生成: 2026-09-23 23:04 JST／対象: 09/23 17:04 〜 09/23 23:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 34 | 09/23 18:24 | 09/23 22:50 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 63 | 09/23 17:00 | 09/23 22:51 | 30分（17:00→17:31） |
-| financialjuice | 51 | 09/23 17:00 | 09/23 22:51 | ⚠ 71分（18:33→19:45） |
+| DeItaone | 38 | 09/23 18:24 | 09/23 23:03 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 69 | 09/23 17:31 | 09/23 23:04 | 21分（17:44→18:06） |
+| financialjuice | 45 | 09/23 17:30 | 09/23 23:02 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 148 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 140 行（統合前 152 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 17:00 [financialjuice] EUROZONE SERVICES PMI FLASH ACTUAL 53 (FORECAST 51.4, PREVIOUS 51.6) $MACRO
-- 09/23 17:00 [financialjuice] EUROZONE COMPOSITE PMI FLASH ACTUAL 53.1 (FORECAST 51.7, PREVIOUS 52.0) $MACRO
-- 09/23 17:00 [financialjuice] ❗ EUROZONE MANUFACTURING PMI FLASH ACTUAL 52.7 (FORECAST 52.6, PREVIOUS 52.7) $MACRO
-- 09/23 17:00 [FirstSquawk] Eurozone S&P Global Manufacturing PMI Sep P: 52.7 (est 52.6; prev 52.7) - Services PMI: 53.0 (est 51.4; prev 51.6) - Composite PMI: 53.1 (est 51.7; prev 52.0)
-- 09/23 17:02 [financialjuice] OECD forecasts US 2026 growth of 2.2% (vs 2.0% in june), 2.1% in 2027 (vs 1.8%).
-- 09/23 17:02 [financialjuice] OECD forecasts world 2026 growth of 2.9% (vs 2.8% in june), 3.0% in 2027 (vs 3.1%).
-- 09/23 17:02 [financialjuice] OECD forecasts china 2026 growth of 4.5% (unchanged), 4.2% in 2027 (vs 4.3%).
-- 09/23 17:02 [financialjuice] OECD forecasts Euro Area 2026 growth of 1.0% (vs 0.8% in June), 1.0% in 2027 (vs 1.2%).
-- 09/23 17:03 [financialjuice] OECD forecasts Japan 2026 growth of 0.8% (vs 0.6% in June), 0.7% in 2027 (vs 0.8%).
-- 09/23 17:03 [financialjuice] OECD forecasts UK 2026 growth of 1.1% (vs 0.9% in June), 1.0% in 2027 (vs 1.1%).
 - 09/23 17:30 [financialjuice] ❗ UK MANUFACTURING PMI FLASH ACTUAL 52 (FORECAST 51.5, PREVIOUS 51.7) $MACRO
 - 09/23 17:30 [financialjuice] ‼ BREAKING: UK SERVICES PMI FLASH ACTUAL 51.7 (FORECAST 52, PREVIOUS 52.5) $MACRO
 - 09/23 17:30 [financialjuice] ❗ UK COMPOSITE PMI FLASH ACTUAL 51.7 (FORECAST 52, PREVIOUS 52.5) $MACRO
@@ -160,3 +150,17 @@
 - 09/23 22:50 [DeItaone] U.S. TREASURY YIELDS RISE FURTHER AFTER DATA; YIELD ON 10-YEAR TREASURY NOTE LAST UP 5.81 BASIS POINTS AT 5.025%
 - 09/23 22:51 [FirstSquawk] IRAN'S ARAGHCHI: I WARNED EUROPEAN OFFICIALS AGAINST SUPPORTING THE WAR CRIMES OF THE UNITED STATES AND ISRAEL
 - 09/23 22:51 [financialjuice] Iran's General Razai: In our new diplomacy, we have a leverage called the Strait of Hormuz, which guarantees negotiations - Fars News.
+- 09/23 22:52 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS LAST UP 6.63 BASIS POINTS AT 4.843%
+- 09/23 22:52 [financialjuice] Iran's General Razai: Trump may want to do something in the mountains of Iran or attack our nuclear sites, but we will tolerate even that; our armed forces have a plan ready to respond.
+- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: TRUMP'S CRIMINAL ACTIONS NOT ONLY FAILED TO UNDERMINE THE AUTHORITY OF THE ISLAMIC REPUBLIC OF IRAN, BUT INSTEAD TRANSFORMED IRAN INTO ONE OF THE MOST POWERFUL ACTORS AND THE FOURTH-LARGEST POWER IN…
+- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: AMERICAN MEDIA ATTACH NO VALUE TO TRUMP'S SPEECHES. IF THEY DID, THEY WOULD NOT MUTE HIS MICROPHONE OR IGNORE HIM.
+- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: IF TRUMP WERE SUCCESSFUL, HE SHOULDN'T HAVE FOCUSED THIS MUCH ON IRAN AT THE UNGA.
+- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: THE VERY FACT THAT ALL OF TRUMP'S REMARKS REVOLVE AROUND IRAN SHOWS THAT IT HAS BECOME THE BIGGEST PROBLEM AND THE FOCUS OF HIS LIFE AND POLITICS, AS WELL AS AMERICAN POLICY.
+- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: TRUMP HIMSELF HAS REALIZED THAT HE IS A CRIMINAL. FROM INTERNATIONAL COURTS TO THE COURTS OF THE ISLAMIC WORLD, THEY WILL HOLD BOTH HIM AND NETANYAHU ACCOUNTABLE.
+- 09/23 22:57 [FirstSquawk] AUSSIE DROPS 1% TO 0.7043 VS USD, DOWN MOST IN THREE MONTHS
+- 09/23 23:00 [DeItaone] U.S. PMI SURGES, SIGNALING STRONG GROWTH AND RISING COST PRESSURES U.S. business activity accelerated sharply in September, with manufacturing PMI rising to 57.0, services to 58.7, and the composite index to 58.4, all well above expectation…
+- 09/23 23:00 [DeItaone] 10-YEAR YIELD RISES TO 5.04%, HIGHEST SINCE 2007
+- 09/23 23:01 [financialjuice] Iran's General Razai: We cannot continue with the same diplomacy now, which offers no guarantees. In all previous negotiations, the United States was the first to violate the conditions.
+- 09/23 23:02 [financialjuice] Investors price in 70% chance of a Bank of England rate hike in November (Tuesday: 60%).
+- 09/23 23:03 [DeItaone] GOLDMAN: DIESEL EXPORT BAN COULD PUSH GASOLINE PRICES HIGHER Goldman Sachs warns a U.S. diesel export ban could lower domestic diesel prices but raise gasoline prices. Cheaper diesel could encourage refiners to cut production, reducing gaso…
+- 09/23 23:04 [FirstSquawk] MOHSEN REZAEI, SECRETARY OF IRAN'S SUPREME NATIONAL SECURITY COUNCIL, SAID IN AN INTERVIEW WITH STATE TELEVISION THAT TEHRAN HAD GIVEN THE UNITED STATES FOUR TO FIVE DAYS TO MEET ITS CONDITIONS, LINKING ANY FURTHER NEGOTIATIONS AND REOPENIN…

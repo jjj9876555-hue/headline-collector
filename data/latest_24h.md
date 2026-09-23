@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 22:51 JST／対象: 09/22 22:51 〜 09/23 22:51 JST（時刻はすべて日本時間）
+生成: 2026-09-23 23:04 JST／対象: 09/22 23:04 〜 09/23 23:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 09/23 04:42 | 09/23 22:50 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 344 | 09/22 22:55 | 09/23 22:51 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 301 | 09/22 22:52 | 09/23 22:51 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 40 | 09/23 04:42 | 09/23 23:03 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 348 | 09/22 23:12 | 09/23 23:04 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 295 | 09/22 23:05 | 09/23 23:02 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 659 行（統合前 687 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 661 行（統合前 689 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 22:52 [financialjuice] Fed's Collins: A somewhat more restrictive federal funds rate will help ensure that inflation durably returns to target.
-- 09/22 22:52 [financialjuice] Trump speaks at the UN - WATCH LIVE
-- 09/22 22:52 [financialjuice] Iran's President Pezeshkian departs Algeria for New York - Iranian Media.
-- 09/22 22:55 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN LEAVES ALGERIA FOR NEW YORK, ACCORDING TO IRANIAN MEDIA.
-- 09/22 22:58 [financialjuice] RBC BlueBay's Fixed Income CIO Dowding: Favourable view on short-dated bonds for the first time this year; cautious on long-dated UK bonds, shorter-dated gilts look better value
-- 09/22 23:00 [financialjuice] EUROZONE CONSUMER CONFIDENCE FLASH ACTUAL -16.5 (FORECAST -16, PREVIOUS -15.5) $MACRO
-- 09/22 23:00 [financialjuice] RICHMOND FED COMP. INDEX ACTUAL -2 (FORECAST 2, PREVIOUS 4) $MACRO
-- 09/22 23:01 [financialjuice] Trump: United States will no longer permit threats to America to gain a foothold anywhere in the Western Hemisphere - White House Press Pool.
-- 09/22 23:02 [financialjuice] Trump: There is no global government, and while I am President, there will be no global taxes - White House Press Pool.
-- 09/22 23:02 [FirstSquawk] US RICHMOND FED MANUFACTURING INDEX SEP: 2 (EST 2; PREV 4)
-- 09/22 23:02 [FirstSquawk] EUROZONE CONSUMER CONFIDENCE SEP P: -16.5 (EST -16.0; PREV -15.5)
-- 09/22 23:03 [financialjuice] Trump: And if necessary, we will use our unmatched military might to secure the vital national interests of the United States - White House Press Pool
 - 09/22 23:05 [financialjuice] Fed's Williams does not comment on monetary policy or the economic outlook.
 - 09/22 23:05 [financialjuice] Fed's Williams: There should be no opportunity cost to holding reserves.
 - 09/22 23:05 [financialjuice] Fed's Williams: The Fed's rate control system has been very effective.
@@ -683,3 +671,17 @@
 - 09/23 22:50 [DeItaone] U.S. TREASURY YIELDS RISE FURTHER AFTER DATA; YIELD ON 10-YEAR TREASURY NOTE LAST UP 5.81 BASIS POINTS AT 5.025%
 - 09/23 22:51 [FirstSquawk] IRAN'S ARAGHCHI: I WARNED EUROPEAN OFFICIALS AGAINST SUPPORTING THE WAR CRIMES OF THE UNITED STATES AND ISRAEL
 - 09/23 22:51 [financialjuice] Iran's General Razai: In our new diplomacy, we have a leverage called the Strait of Hormuz, which guarantees negotiations - Fars News.
+- 09/23 22:52 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS LAST UP 6.63 BASIS POINTS AT 4.843%
+- 09/23 22:52 [financialjuice] Iran's General Razai: Trump may want to do something in the mountains of Iran or attack our nuclear sites, but we will tolerate even that; our armed forces have a plan ready to respond.
+- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: TRUMP'S CRIMINAL ACTIONS NOT ONLY FAILED TO UNDERMINE THE AUTHORITY OF THE ISLAMIC REPUBLIC OF IRAN, BUT INSTEAD TRANSFORMED IRAN INTO ONE OF THE MOST POWERFUL ACTORS AND THE FOURTH-LARGEST POWER IN…
+- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: AMERICAN MEDIA ATTACH NO VALUE TO TRUMP'S SPEECHES. IF THEY DID, THEY WOULD NOT MUTE HIS MICROPHONE OR IGNORE HIM.
+- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: IF TRUMP WERE SUCCESSFUL, HE SHOULDN'T HAVE FOCUSED THIS MUCH ON IRAN AT THE UNGA.
+- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: THE VERY FACT THAT ALL OF TRUMP'S REMARKS REVOLVE AROUND IRAN SHOWS THAT IT HAS BECOME THE BIGGEST PROBLEM AND THE FOCUS OF HIS LIFE AND POLITICS, AS WELL AS AMERICAN POLICY.
+- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: TRUMP HIMSELF HAS REALIZED THAT HE IS A CRIMINAL. FROM INTERNATIONAL COURTS TO THE COURTS OF THE ISLAMIC WORLD, THEY WILL HOLD BOTH HIM AND NETANYAHU ACCOUNTABLE.
+- 09/23 22:57 [FirstSquawk] AUSSIE DROPS 1% TO 0.7043 VS USD, DOWN MOST IN THREE MONTHS
+- 09/23 23:00 [DeItaone] U.S. PMI SURGES, SIGNALING STRONG GROWTH AND RISING COST PRESSURES U.S. business activity accelerated sharply in September, with manufacturing PMI rising to 57.0, services to 58.7, and the composite index to 58.4, all well above expectation…
+- 09/23 23:00 [DeItaone] 10-YEAR YIELD RISES TO 5.04%, HIGHEST SINCE 2007
+- 09/23 23:01 [financialjuice] Iran's General Razai: We cannot continue with the same diplomacy now, which offers no guarantees. In all previous negotiations, the United States was the first to violate the conditions.
+- 09/23 23:02 [financialjuice] Investors price in 70% chance of a Bank of England rate hike in November (Tuesday: 60%).
+- 09/23 23:03 [DeItaone] GOLDMAN: DIESEL EXPORT BAN COULD PUSH GASOLINE PRICES HIGHER Goldman Sachs warns a U.S. diesel export ban could lower domestic diesel prices but raise gasoline prices. Cheaper diesel could encourage refiners to cut production, reducing gaso…
+- 09/23 23:04 [FirstSquawk] MOHSEN REZAEI, SECRETARY OF IRAN'S SUPREME NATIONAL SECURITY COUNCIL, SAID IN AN INTERVIEW WITH STATE TELEVISION THAT TEHRAN HAD GIVEN THE UNITED STATES FOUR TO FIVE DAYS TO MEET ITS CONDITIONS, LINKING ANY FURTHER NEGOTIATIONS AND REOPENIN…
