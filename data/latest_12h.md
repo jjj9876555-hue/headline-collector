@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 00:52 JST／対象: 09/23 12:52 〜 09/24 00:52 JST（時刻はすべて日本時間）
+生成: 2026-09-24 01:05 JST／対象: 09/23 13:05 〜 09/24 01:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 64 | 09/23 18:24 | 09/24 00:48 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 156 | 09/23 12:53 | 09/24 00:52 | 30分（17:00→17:31） |
-| financialjuice | 147 | 09/23 13:04 | 09/24 00:50 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 65 | 09/23 18:24 | 09/24 01:00 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 151 | 09/23 13:11 | 09/24 00:54 | 30分（17:00→17:31） |
+| financialjuice | 149 | 09/23 13:10 | 09/24 01:04 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 351 行（統合前 369 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 349 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 12:53 [FirstSquawk] AutoZone target price reduced to $3,400 from $3,500 by TD Cowen
-- 09/23 13:00 [FirstSquawk] Jefferies trims Haleon price target to 400p from 410p
-- 09/23 13:02 [FirstSquawk] Novo considers upgrading its US listing, FT reports
-- 09/23 13:03 [FirstSquawk] Novo may upgrade New York listing as part of push to boost US profile - FT
-- 09/23 13:03 [FirstSquawk] China takes stock of Broadcom gear as domestic AI drive gathers pace - FT
-- 09/23 13:04 [financialjuice] Chinese authorities examine use of Broadcom hardware in state-backed data centers amid push to support local manufacturers - FT
-- 09/23 13:04 [FirstSquawk] Chinese authorities review Broadcom hardware in state-backed data centres as local producers gain focus - FT
 - 09/23 13:10 [financialjuice] Japan PM Takaichi: agreed with President Trump at meeting to enhance economic security partnership
 - 09/23 13:11 [FirstSquawk] Japan’s Takaichi says Trump meeting produced agreement to strengthen economic security ties
 - 09/23 13:17 [FirstSquawk] Takaichi says she and Trump discussed China ahead of US-China summit
@@ -375,3 +368,8 @@
 - 09/24 00:48 [financialjuice] US Treasury Secretary Bessent, after meeting with China's He: We're fine with either continuing the Busan arrangement or examining a bigger deal.
 - 09/24 00:50 [financialjuice] Lithuanian Defence Minister: Lithuania, Latvia, and Estonia have asked for the European Union's support for drone defenses.
 - 09/24 00:52 [FirstSquawk] 30-YEAR TREASURY YIELD SURGES ABOVE 5.37%, HITS HIGHEST LEVEL SINCE 2004 U.S. 30-year Treasury yield has climbed above 5.37%, putting it on track for its highest daily settlement since June 2004. The move signals a sharp rise in long-term U…
+- 09/24 00:54 [FirstSquawk] IRAN DEMANDED US TO ACCEPT HORMUZ ROUTE AGREED WITH OMAN
+- 09/24 01:00 [DeItaone] IRAN HARDLINERS ATTACK FOREIGN MINISTER OVER U.S. CONTACTS Iranian hardline outlets are escalating criticism of Foreign Minister Abbas Araghchi after Iranian officials reportedly met U.S. envoy Steve Witkoff in New York. IRGC-linked Tasnim …
+- 09/24 01:02 [financialjuice] Israel's N12 News: The "Together" party leader Bennett calls on Israeli PM Netanyahu to declare Qatar an enemy state during UN General Assembly speech, coalition and opposition would support move.
+- 09/24 01:04 [financialjuice] Senators aim to fast-track Chinese vehicle ban legislation this week as China's Xi visits Washington - Document.
+- 09/24 01:04 [financialjuice] Israel's Channel 12 News: The "Together" party leader Bennett calls on Israeli PM Netanyahu to declare Qatar an enemy state during UN General Assembly speech, coalition and opposition would support move.
