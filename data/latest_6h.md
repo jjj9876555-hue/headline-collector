@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 18:33 JST／対象: 09/23 12:33 〜 09/23 18:33 JST（時刻はすべて日本時間）
+生成: 2026-09-23 18:52 JST／対象: 09/23 12:52 〜 09/23 18:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/23 18:24 | 09/23 18:24 | - |
-| FirstSquawk | 57 | 09/23 12:39 | 09/23 18:22 | 30分（17:00→17:31） |
-| financialjuice | 41 | 09/23 12:39 | 09/23 18:33 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 8 | 09/23 18:24 | 09/23 18:50 | 11分（18:24→18:35） |
+| FirstSquawk | 57 | 09/23 12:53 | 09/23 18:39 | 30分（17:00→17:31） |
+| financialjuice | 40 | 09/23 13:04 | 09/23 18:33 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 98 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 12:39 [FirstSquawk] World Bank makes up to $170 million available for Nepal’s immediate flood response
-- 09/23 12:39 [financialjuice] China finance ministry offers 3-month bills at 1.1101% yield: traders
-- 09/23 12:48 [FirstSquawk] Singapore dollar eases ahead of August inflation figures - WSJ
 - 09/23 12:53 [FirstSquawk] AutoZone target price reduced to $3,400 from $3,500 by TD Cowen
 - 09/23 13:00 [FirstSquawk] Jefferies trims Haleon price target to 400p from 410p
 - 09/23 13:02 [FirstSquawk] Novo considers upgrading its US listing, FT reports
@@ -122,3 +119,11 @@
 - 09/23 18:24 [DeItaone] TRUMP'S BOARD OF PEACE TO UNVEIL $2.45 BILLION GAZA RECOVERY PLAN- AXIOS
 - 09/23 18:33 [financialjuice] GERMAN 30 YR BUND YIELD ACTUAL 3.8% (FORECAST -, PREVIOUS 3.9%) $MACRO
 - 09/23 18:33 [financialjuice] GERMAN 30 YR BUND BID-TO-COVER ACTUAL 1.584 (FORECAST -, PREVIOUS 2.4) $MACRO
+- 09/23 18:35 [FirstSquawk/DeItaone] SPOT GOLD FALLS NEARLY 1% TO $4,312.99/OZ
+- 09/23 18:39 [FirstSquawk] SOFTBANK-BACKED CARRO IS SAID TO MULL FIRST DUAL NASDAQ-SGX IPO || CARRO IS SAID TO CONSIDER SEEKING UP TO $400M-$500M IN IPO
+- 09/23 18:41 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 3:15 AM ET — 🇫🇷 France Flash PMI 🔸 3:30 AM ET — 🇩🇪 Germany Flash PMI 🔸 4:00 AM ET — 🇪🇺 Eurozone Flash PMI 🔸 4:30 AM ET — 🇬🇧 UK Flash PMI 🔸 9:45 AM ET — 🇺🇸 U.S. Flash Manufacturing & Services PMI 🔸 10:…
+- 09/23 18:41 [DeItaone] GOLDMAN CUTS SMARTPHONE SHIPMENT OUTLOOK Goldman Sachs lowered its global smartphone shipment forecasts, now expecting 1.1 billion units in 2026 and 1.2 billion in both 2027 and 2028. Despite weaker volumes, higher prices and premium device…
+- 09/23 18:42 [DeItaone] TRUMP-XI TALKS UNLIKELY TO DELIVER CHIP BREAKTHROUGH Thursday’s Trump-Xi summit is unlikely to produce relief on semiconductors or rare earths, according to Jefferies. The most likely outcome is progress on a U.S.-China Board of Trade aimed…
+- 09/23 18:44 [DeItaone] GOLDMAN: CHINA OIL IMPORTS LIKELY TO STAY WEAK Goldman Sachs expects China’s crude imports to remain subdued if oil prices stay elevated, limiting hopes for a sharp demand rebound. Chinese seaborne imports remain nearly 3 million barrels pe…
+- 09/23 18:44 [DeItaone] DOLLAR HITS 8-WEEK HIGH AS FED HIKE BETS SURGE The dollar climbed to an eight-week high, with the DXY reaching 100.862 as expectations for further Fed tightening strengthened. Markets now price a 53% chance of another 25bp hike in October, …
+- 09/23 18:50 [DeItaone] SPOT SILVER FALLS 3% TO $65.05/OZ
