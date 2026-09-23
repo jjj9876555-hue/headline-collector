@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 22:02 JST／対象: 09/22 22:02 〜 09/23 22:02 JST（時刻はすべて日本時間）
+生成: 2026-09-23 22:22 JST／対象: 09/22 22:22 〜 09/23 22:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/23 04:42 | 09/23 21:53 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 344 | 09/22 22:04 | 09/23 21:58 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 296 | 09/22 22:03 | 09/23 22:00 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 23 | 09/23 04:42 | 09/23 22:19 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 339 | 09/22 22:27 | 09/23 22:19 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 295 | 09/22 22:29 | 09/23 22:19 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 644 行（統合前 667 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 637 行（統合前 663 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 22:03 [financialjuice] Apple Launches New Mac Mini and Mac Studio With Latest Apple Silicon $AAPL
-- 09/22 22:04 [FirstSquawk] APPLE INC: NEW MAC MINI AND MAC STUDIO ARE AVAILABLE TODAY|| STARTING TODAY, THE NEW MAC MINI AND MAC STUDIO, BOTH POWERED BY THE LATEST APPLE SILICON, ARE NOW AVAILABLE
-- 09/22 22:04 [FirstSquawk] APPLE : MAC STUDIO M5 MAX PRICED FROM $2,499, M5 ULTRA FROM $5,499 || MAC MINI WITH M6 STARTS $899, WHILE MAC MINI WITH M5 PRO IS AVAILABLE AT $1,699
-- 09/22 22:05 [FirstSquawk] MERCEDES-BENZ AIMS TO CLOSE AI GAP WITH CHINA RIVALS THROUGH WAYVE DEAL - FT
-- 09/22 22:07 [FirstSquawk] TRUMP OPEN TO MEETING IRAN OFFICIALS UNDER RIGHT CONDITIONS: CNN
-- 09/22 22:07 [financialjuice] ❗ Trump is open to meeting Iranian officials under the right conditions - CNN.
-- 09/22 22:08 [FirstSquawk] CVC-BACKED HOME INSURANCE FIRM BAMBOO IS SAID TO POSTPONE IPO
-- 09/22 22:08 [financialjuice] Trump told advisers he'd like to meet Iranian officials if "conditions are right" - CNN
-- 09/22 22:08 [FirstSquawk] IRAN MEETING COULD ALSO BE HELD WITH TRUMP'S TOP ADVISERS: CNN
-- 09/22 22:09 [FirstSquawk] CURRENTLY NO MEETING SCHEDULE WITH US-IRANIAN OFFICIALS: CNN
-- 09/22 22:12 [FirstSquawk] GOLDMAN IN TALKS TO BUY $37 BILLION CREDIT FIRM PALMER SQUARE
-- 09/22 22:12 [financialjuice] Bank of America raises it's 2H26 Brent price estimate to $95 a barrel from $83 a barrel.
-- 09/22 22:18 [FirstSquawk] EXPLOSIONS OCCURRED IN THE STRAIT OF HORMUZ AFTER IRGC ATTACKED SHIPS.
 - 09/22 22:27 [FirstSquawk] IRAN FM ARAGHCHI MET ITALIAN COUNTERPART TAJANI IN NEW YORK - TASNIM
 - 09/22 22:29 [financialjuice] Libya's NOC: The Sharara-Zawiya Crude loading pipeline closure leads to daily losses of around 130,000 bpd - Statement.
 - 09/22 22:30 [financialjuice] Libya's NOC: Expect losses to rise if the shutdown persists.
@@ -668,3 +655,9 @@
 - 09/23 21:53 [FirstSquawk] PUTIN APPEALING TO THE ARMY SERVICEMEN: THE VOTE IS FOR YOU
 - 09/23 21:58 [FirstSquawk] PUTIN: THERE WERE ATTEMPTS TO OBSTRUCT THE ELECTIONS, BUT IT IS IMPOSSIBLE TO INTIMIDATE RUSSIA
 - 09/23 22:00 [financialjuice] Effective fed funds rate 3.88% September 22nd vs 3.88% September 21st
+- 09/23 22:03 [financialjuice] UAE central bank imposes sanctions on branches of Bank Melli Iran.
+- 09/23 22:06 [financialjuice/FirstSquawk] Supermicro now shipping NVIDIA Vera Rubin NVL72 racks.
+- 09/23 22:07 [FirstSquawk] AMAZON ROLLS OUT NEW AGENTIC AI FOR THIRD-PARTY SELLERS
+- 09/23 22:10 [FirstSquawk] Trump on truth social Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing problems that will soon be too big to handle. It is a Liberal takeover t…
+- 09/23 22:16 [DeItaone] TRUMP ATTACKS CANADA OVER IMMIGRATION President Trump accused Canada of allowing “millions and millions” of people into the country unchecked and unvetted, claiming it is creating serious problems. Trump blamed what he called a “Liberal tak…
+- 09/23 22:19 [DeItaone/financialjuice/FirstSquawk] RUSSIA'S LAVROV MEETS WITH US RUBIO - IFX

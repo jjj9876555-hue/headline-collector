@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 22:02 JST／対象: 09/23 16:02 〜 09/23 22:02 JST（時刻はすべて日本時間）
+生成: 2026-09-23 22:22 JST／対象: 09/23 16:22 〜 09/23 22:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/23 18:24 | 09/23 21:53 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 49 | 09/23 16:03 | 09/23 21:58 | 30分（17:00→17:31） |
-| financialjuice | 44 | 09/23 16:05 | 09/23 22:00 | ⚠ 71分（18:33→19:45） |
+| DeItaone | 21 | 09/23 18:24 | 09/23 22:19 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 51 | 09/23 16:30 | 09/23 22:19 | 30分（17:00→17:31） |
+| financialjuice | 42 | 09/23 16:30 | 09/23 22:19 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 105 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 104 行（統合前 114 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 16:03 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.34% || FRANCE'S CAC 40 UP 0.39% || SPAIN'S IBEX UP 0.59%
-- 09/23 16:04 [FirstSquawk] GERMANY'S DAX UP 0.6%
-- 09/23 16:05 [financialjuice] Italy plans to stick with its commitment to keep the deficit below the EU's 3% of GDP ceiling this year, from 3.1% in 2025 - Sources
-- 09/23 16:15 [financialjuice] FRENCH COMP FLASH PMI ACTUAL 51.2 (FORECAST 48.7, PREVIOUS 48.5) $MACRO
-- 09/23 16:15 [financialjuice] FRENCH SERVICES PMI FLASH ACTUAL 51.4 (FORECAST 48.3, PREVIOUS 48.0) $MACRO
-- 09/23 16:15 [financialjuice] ‼ BREAKING: FRENCH MANUFACTURING PMI FLASH ACTUAL 50.3 (FORECAST 51, PREVIOUS 51.1) $MACRO
-- 09/23 16:20 [financialjuice] French PMI Flash September 2026 Report
 - 09/23 16:30 [financialjuice] ❗ GERMAN SERVICE PMI FLASH ACTUAL 52.9 (FORECAST 49.9, PREVIOUS 49.7) $MACRO
 - 09/23 16:30 [financialjuice] ‼ BREAKING: GERMAN MANUFACTURING PMI FLASH ACTUAL 53.8 (FORECAST 54, PREVIOUS 54.3) $MACRO
 - 09/23 16:30 [financialjuice] ❗ GERMAN COMPOSITE PMI FLASH ACTUAL 53.8 (FORECAST 51.8, PREVIOUS 51.8) $MACRO
@@ -129,3 +122,9 @@
 - 09/23 21:53 [FirstSquawk] PUTIN APPEALING TO THE ARMY SERVICEMEN: THE VOTE IS FOR YOU
 - 09/23 21:58 [FirstSquawk] PUTIN: THERE WERE ATTEMPTS TO OBSTRUCT THE ELECTIONS, BUT IT IS IMPOSSIBLE TO INTIMIDATE RUSSIA
 - 09/23 22:00 [financialjuice] Effective fed funds rate 3.88% September 22nd vs 3.88% September 21st
+- 09/23 22:03 [financialjuice] UAE central bank imposes sanctions on branches of Bank Melli Iran.
+- 09/23 22:06 [financialjuice/FirstSquawk] Supermicro now shipping NVIDIA Vera Rubin NVL72 racks.
+- 09/23 22:07 [FirstSquawk] AMAZON ROLLS OUT NEW AGENTIC AI FOR THIRD-PARTY SELLERS
+- 09/23 22:10 [FirstSquawk] Trump on truth social Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing problems that will soon be too big to handle. It is a Liberal takeover t…
+- 09/23 22:16 [DeItaone] TRUMP ATTACKS CANADA OVER IMMIGRATION President Trump accused Canada of allowing “millions and millions” of people into the country unchecked and unvetted, claiming it is creating serious problems. Trump blamed what he called a “Liberal tak…
+- 09/23 22:19 [DeItaone/financialjuice/FirstSquawk] RUSSIA'S LAVROV MEETS WITH US RUBIO - IFX

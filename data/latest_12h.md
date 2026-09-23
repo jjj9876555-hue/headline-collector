@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 22:02 JST／対象: 09/23 10:02 〜 09/23 22:02 JST（時刻はすべて日本時間）
+生成: 2026-09-23 22:22 JST／対象: 09/23 10:22 〜 09/23 22:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/23 18:24 | 09/23 21:53 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 127 | 09/23 10:05 | 09/23 21:58 | 30分（17:00→17:31） |
-| financialjuice | 71 | 09/23 10:03 | 09/23 22:00 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 21 | 09/23 18:24 | 09/23 22:19 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 126 | 09/23 10:22 | 09/23 22:19 | 30分（17:00→17:31） |
+| financialjuice | 70 | 09/23 10:59 | 09/23 22:19 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 210 行（統合前 217 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 207 行（統合前 217 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 10:03 [financialjuice] Meta takes action on 3.7 million accounts, pages, and content with Singapore police force
-- 09/23 10:05 [FirstSquawk] Meta acts against 3.7 million accounts, pages and content in coordination with Singapore Police
-- 09/23 10:13 [FirstSquawk] Gold holds steady as higher-for-longer rate outlook pressures sentiment - Reuters
-- 09/23 10:13 [financialjuice] South Korean President Lee to meet US President Trump on sidelines of UN General Assembly - media
-- 09/23 10:14 [FirstSquawk] South Korea’s Lee to hold talks with Trump on sidelines of UN General Assembly - media
-- 09/23 10:15 [financialjuice] South Korean president Lee holds 30-minute meeting with Trump: S. Korea presidential office
-- 09/23 10:15 [FirstSquawk] South Korean President Lee meets Trump for 30 minutes, presidential office says
-- 09/23 10:16 [FirstSquawk] China’s PBOC sets yuan reference rate at 6.7468 per dollar
-- 09/23 10:21 [financialjuice] China injects 8 bln yuan with 7-day reverse repos at 1.40% vs prior 1.40%: statement
 - 09/23 10:22 [FirstSquawk] South Korea’s Lee, Trump hail major progress in talks on strategic investment projects
 - 09/23 10:22 [FirstSquawk] Lee highlights importance of U.S.-China summit for regional affairs, presidential office says
 - 09/23 10:23 [FirstSquawk] South Korea’s Lee, Trump reaffirm cooperation on nuclear submarines, fuel reprocessing and shipbuilding
@@ -234,3 +225,9 @@
 - 09/23 21:53 [FirstSquawk] PUTIN APPEALING TO THE ARMY SERVICEMEN: THE VOTE IS FOR YOU
 - 09/23 21:58 [FirstSquawk] PUTIN: THERE WERE ATTEMPTS TO OBSTRUCT THE ELECTIONS, BUT IT IS IMPOSSIBLE TO INTIMIDATE RUSSIA
 - 09/23 22:00 [financialjuice] Effective fed funds rate 3.88% September 22nd vs 3.88% September 21st
+- 09/23 22:03 [financialjuice] UAE central bank imposes sanctions on branches of Bank Melli Iran.
+- 09/23 22:06 [financialjuice/FirstSquawk] Supermicro now shipping NVIDIA Vera Rubin NVL72 racks.
+- 09/23 22:07 [FirstSquawk] AMAZON ROLLS OUT NEW AGENTIC AI FOR THIRD-PARTY SELLERS
+- 09/23 22:10 [FirstSquawk] Trump on truth social Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing problems that will soon be too big to handle. It is a Liberal takeover t…
+- 09/23 22:16 [DeItaone] TRUMP ATTACKS CANADA OVER IMMIGRATION President Trump accused Canada of allowing “millions and millions” of people into the country unchecked and unvetted, claiming it is creating serious problems. Trump blamed what he called a “Liberal tak…
+- 09/23 22:19 [DeItaone/financialjuice/FirstSquawk] RUSSIA'S LAVROV MEETS WITH US RUBIO - IFX
