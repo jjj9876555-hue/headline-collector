@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 16:18 JST／対象: 09/23 10:18 〜 09/23 16:18 JST（時刻はすべて日本時間）
+生成: 2026-09-23 16:33 JST／対象: 09/23 10:33 〜 09/23 16:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 75 | 09/23 10:22 | 09/23 16:04 | 18分（15:33→15:51） |
-| financialjuice | 28 | 09/23 10:21 | 09/23 16:15 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 72 | 09/23 10:38 | 09/23 16:30 | 26分（16:04→16:30） |
+| financialjuice | 31 | 09/23 10:59 | 09/23 16:30 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 103 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 10:21 [financialjuice] China injects 8 bln yuan with 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/23 10:22 [FirstSquawk] South Korea’s Lee, Trump hail major progress in talks on strategic investment projects
-- 09/23 10:22 [FirstSquawk] Lee highlights importance of U.S.-China summit for regional affairs, presidential office says
-- 09/23 10:23 [FirstSquawk] South Korea’s Lee, Trump reaffirm cooperation on nuclear submarines, fuel reprocessing and shipbuilding
-- 09/23 10:27 [FirstSquawk] GM CEO Mary Barra set to attend Trump’s state dinner for Xi, Reuters reports
 - 09/23 10:38 [FirstSquawk] Japan’s Aeon introduces 1,000-yen jeans as consumer spending comes under pressure - Kyodo
 - 09/23 10:46 [FirstSquawk] Takaichi says Japan remains a “peace-loving nation” committed to defense-oriented policy - Kyodo
 - 09/23 10:48 [FirstSquawk] BlackRock says AI computing capacity may become tokenized in the future
@@ -127,3 +122,8 @@
 - 09/23 16:15 [financialjuice] FRENCH COMP FLASH PMI ACTUAL 51.2 (FORECAST 48.7, PREVIOUS 48.5) $MACRO
 - 09/23 16:15 [financialjuice] FRENCH SERVICES PMI FLASH ACTUAL 51.4 (FORECAST 48.3, PREVIOUS 48.0) $MACRO
 - 09/23 16:15 [financialjuice] ‼ BREAKING: FRENCH MANUFACTURING PMI FLASH ACTUAL 50.3 (FORECAST 51, PREVIOUS 51.1) $MACRO
+- 09/23 16:20 [financialjuice] French PMI Flash September 2026 Report
+- 09/23 16:30 [financialjuice] ❗ GERMAN SERVICE PMI FLASH ACTUAL 52.9 (FORECAST 49.9, PREVIOUS 49.7) $MACRO
+- 09/23 16:30 [financialjuice] ‼ BREAKING: GERMAN MANUFACTURING PMI FLASH ACTUAL 53.8 (FORECAST 54, PREVIOUS 54.3) $MACRO
+- 09/23 16:30 [financialjuice] ❗ GERMAN COMPOSITE PMI FLASH ACTUAL 53.8 (FORECAST 51.8, PREVIOUS 51.8) $MACRO
+- 09/23 16:30 [FirstSquawk] GERMANY'S SEPTEMBER COMPOSITE PMI INCREASES TO 53.8, BEATING THE ESTIMATED 51.8.

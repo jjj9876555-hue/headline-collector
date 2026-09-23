@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 16:18 JST／対象: 09/22 16:18 〜 09/23 16:18 JST（時刻はすべて日本時間）
+生成: 2026-09-23 16:33 JST／対象: 09/22 16:33 〜 09/23 16:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 351 | 09/22 16:32 | 09/23 16:04 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 309 | 09/22 16:25 | 09/23 16:15 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 350 | 09/22 16:35 | 09/23 16:30 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 310 | 09/22 16:39 | 09/23 16:30 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 669 行（統合前 691 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 16:25 [financialjuice] UBS CEO: I see 'great momentum’ in wealth creation in the US
-- 09/22 16:26 [financialjuice] UBS CEO: Attrition of financial advisers in the US is plateauing
-- 09/22 16:26 [financialjuice] UBS CEO: AI will be important for us to bring down costs
-- 09/22 16:32 [FirstSquawk] HUNGARY'S RULING PARTY DISAGREES WITH PRESIDENT'S CHOICE FOR TOP PROSECUTOR.
-- 09/22 16:32 [FirstSquawk] LAVROV AND RUBIO SET TO MEET ON SEPTEMBER 23, ACCORDING TO TASS.
 - 09/22 16:35 [FirstSquawk] USD/JPY INCREASES FOR THIRD STRAIGHT DAY, UP 0.3% TO 157.75.
 - 09/22 16:39 [financialjuice] Russia's Lavrov and Rubio expected to meet September 23rd - Tass
 - 09/22 16:45 [financialjuice] EU's Trade Chief Sefcovic: Deal delivers stronger, more diversified supply chain
@@ -693,3 +688,8 @@
 - 09/23 16:15 [financialjuice] FRENCH COMP FLASH PMI ACTUAL 51.2 (FORECAST 48.7, PREVIOUS 48.5) $MACRO
 - 09/23 16:15 [financialjuice] FRENCH SERVICES PMI FLASH ACTUAL 51.4 (FORECAST 48.3, PREVIOUS 48.0) $MACRO
 - 09/23 16:15 [financialjuice] ‼ BREAKING: FRENCH MANUFACTURING PMI FLASH ACTUAL 50.3 (FORECAST 51, PREVIOUS 51.1) $MACRO
+- 09/23 16:20 [financialjuice] French PMI Flash September 2026 Report
+- 09/23 16:30 [financialjuice] ❗ GERMAN SERVICE PMI FLASH ACTUAL 52.9 (FORECAST 49.9, PREVIOUS 49.7) $MACRO
+- 09/23 16:30 [financialjuice] ‼ BREAKING: GERMAN MANUFACTURING PMI FLASH ACTUAL 53.8 (FORECAST 54, PREVIOUS 54.3) $MACRO
+- 09/23 16:30 [financialjuice] ❗ GERMAN COMPOSITE PMI FLASH ACTUAL 53.8 (FORECAST 51.8, PREVIOUS 51.8) $MACRO
+- 09/23 16:30 [FirstSquawk] GERMANY'S SEPTEMBER COMPOSITE PMI INCREASES TO 53.8, BEATING THE ESTIMATED 51.8.
