@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 21:30 JST／対象: 09/22 21:30 〜 09/23 21:30 JST（時刻はすべて日本時間）
+生成: 2026-09-23 21:49 JST／対象: 09/22 21:49 〜 09/23 21:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 09/23 04:42 | 09/23 21:25 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 342 | 09/22 21:38 | 09/23 21:28 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 304 | 09/22 21:36 | 09/23 21:24 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 19 | 09/23 04:42 | 09/23 21:44 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 343 | 09/22 21:52 | 09/23 21:48 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 304 | 09/22 21:51 | 09/23 21:48 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 648 行（統合前 671 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 649 行（統合前 673 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 21:36 [financialjuice] Trump's UN speech to make the case for how he uses America's power to confront Iran, cartel violence and other threats, reshaping the world to help the US - White House official tells Fox News
-- 09/22 21:38 [FirstSquawk] CME GROUP TO EXPAND CRYPTO DERIVATIVES SUITE WITH BITCOIN CASH AND UNISWAP FUTURES
-- 09/22 21:38 [FirstSquawk] WH OFFICIAL: TRUMP UN SPEECH TO PRESS CASE FOR CONFRONTING IRAN, CARTELS - FOX
-- 09/22 21:48 [financialjuice] The government will soon approve the mobilization of up to 200,000 reservists for another round - Israel's Hayom News
 - 09/22 21:51 [financialjuice] Deputy Speaker of Iran Parliament Nikzad: We will not back down on the Strait of Hormuz. - ISMN
 - 09/22 21:52 [financialjuice/FirstSquawk] German fuel rebate to be approved in parliament this week - CDU
 - 09/22 21:54 [financialjuice] IMF's Managing Director Georgieva Speaks at "The Next 3 Billion" Semafor Events - WATCH LIVE
@@ -672,3 +668,8 @@
 - 09/23 21:23 [FirstSquawk/DeItaone] BOFA'S DEMARE: 3Q WILL NOT BE AS ROBUST IN MARKETS AS 2Q WAS
 - 09/23 21:24 [financialjuice] BofA's Demare: Q3 will not be as robust in markets as Q2 was
 - 09/23 21:28 [FirstSquawk] BOFA'S CO-PRES DEMARE: CONTINUED STRENGTH IN MACROECONOMIC BACKDROP
+- 09/23 21:35 [FirstSquawk] RUSSIAN GUIDED BOMB ATTACK IN OLEKSANDRIVKA, DONETSK, KILLED FOUR AND INJURED FOUR, DESTROYING A MULTI-STORY BUILDING.
+- 09/23 21:44 [DeItaone] DEMOCRATS HOLD 12-POINT MIDTERM EDGE IN NEW POLL Democrats lead Republicans 53% to 41% among registered voters in the latest NPR/PBS News/Marist poll. Trump’s approval stands at 39%, while 59% disapprove. 45% of voters say their congression…
+- 09/23 21:46 [FirstSquawk] CANADIAN PM CARNEY COMMENTS ON TRUMP'S CALL TO 'ANNIHILATE' IRAN, STATING 'HE'S USING WAR LANGUAGE.'
+- 09/23 21:48 [financialjuice] Morgan Stanley investment-banking deal list accidently leaked - People Familiar
+- 09/23 21:48 [FirstSquawk/financialjuice] US BUILDING MULTINATIONAL ATTACK DRONE UNIT: CENTCOM

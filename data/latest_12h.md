@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 21:30 JST／対象: 09/23 09:30 〜 09/23 21:30 JST（時刻はすべて日本時間）
+生成: 2026-09-23 21:49 JST／対象: 09/23 09:49 〜 09/23 21:49 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 09/23 18:24 | 09/23 21:25 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 135 | 09/23 09:35 | 09/23 21:28 | 30分（17:00→17:31） |
-| financialjuice | 68 | 09/23 10:01 | 09/23 21:24 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 17 | 09/23 18:24 | 09/23 21:44 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 132 | 09/23 09:51 | 09/23 21:48 | 30分（17:00→17:31） |
+| financialjuice | 70 | 09/23 10:01 | 09/23 21:48 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 214 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 213 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 09:35 [FirstSquawk] Gold gains as markets focus on easing oil prices - WSJ
-- 09/23 09:35 [FirstSquawk] U.S. crackdown threatens Americans’ access to low-cost Canadian prescriptions - WSJ
-- 09/23 09:42 [FirstSquawk] WTI crude falls toward $89 amid focus on Trump’s UN speech - FX
-- 09/23 09:43 [FirstSquawk] Samsung Electronics stock jumps 3%
-- 09/23 09:48 [FirstSquawk] Iranian and U.S. officials meet for rare discussions on the Strait of Hormuz, according to Al Jazeera
-- 09/23 09:48 [FirstSquawk] Zelenskiy warns of planned new mass Russian attack on Ukraine - Reuters
 - 09/23 09:51 [FirstSquawk] Embraer: Occurrence may disrupt airline schedules, but flight safety is unaffected
 - 09/23 09:51 [FirstSquawk] Embraer says technical support is being provided as necessary actions are taken to address the issue
 - 09/23 09:52 [FirstSquawk] Embraer closely monitors situation in coordination with operators and equipment maker
@@ -238,3 +232,8 @@
 - 09/23 21:23 [FirstSquawk/DeItaone] BOFA'S DEMARE: 3Q WILL NOT BE AS ROBUST IN MARKETS AS 2Q WAS
 - 09/23 21:24 [financialjuice] BofA's Demare: Q3 will not be as robust in markets as Q2 was
 - 09/23 21:28 [FirstSquawk] BOFA'S CO-PRES DEMARE: CONTINUED STRENGTH IN MACROECONOMIC BACKDROP
+- 09/23 21:35 [FirstSquawk] RUSSIAN GUIDED BOMB ATTACK IN OLEKSANDRIVKA, DONETSK, KILLED FOUR AND INJURED FOUR, DESTROYING A MULTI-STORY BUILDING.
+- 09/23 21:44 [DeItaone] DEMOCRATS HOLD 12-POINT MIDTERM EDGE IN NEW POLL Democrats lead Republicans 53% to 41% among registered voters in the latest NPR/PBS News/Marist poll. Trump’s approval stands at 39%, while 59% disapprove. 45% of voters say their congression…
+- 09/23 21:46 [FirstSquawk] CANADIAN PM CARNEY COMMENTS ON TRUMP'S CALL TO 'ANNIHILATE' IRAN, STATING 'HE'S USING WAR LANGUAGE.'
+- 09/23 21:48 [financialjuice] Morgan Stanley investment-banking deal list accidently leaked - People Familiar
+- 09/23 21:48 [FirstSquawk/financialjuice] US BUILDING MULTINATIONAL ATTACK DRONE UNIT: CENTCOM
