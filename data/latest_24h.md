@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 05:18 JST／対象: 09/23 05:18 〜 09/24 05:18 JST（時刻はすべて日本時間）
+生成: 2026-09-24 05:32 JST／対象: 09/23 05:32 〜 09/24 05:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 80 | 09/23 18:24 | 09/24 03:30 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 321 | 09/23 05:21 | 09/24 05:12 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 247 | 09/23 05:22 | 09/24 05:11 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 81 | 09/23 18:24 | 09/24 05:25 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 320 | 09/23 05:40 | 09/24 05:26 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 244 | 09/23 05:32 | 09/24 05:32 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 630 行（統合前 651 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 627 行（統合前 648 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 05:21 [FirstSquawk] IRAQ OIL EXPORTS TOP 3 MLN BPD; AUGUST EXPORT VOLUME REACHED 70 MLN BARRELS — STATE MEDIA
-- 09/23 05:22 [financialjuice] ECB's Nagel: ECB rates are still in neutral territory, cannot exclude that we will need to go into mild restrictive territory.
-- 09/23 05:22 [FirstSquawk] CHIPMAKERS LIFTED THE NASDAQ 100 0.8% TO ITS FIRST RECORD SINCE JUNE, WITH A SEMICONDUCTOR GAUGE INCLUDING NVIDIA AND MICRON RISING FOR A SIXTH STRAIGHT SESSION, OFFSETTING A SELLOFF IN BANK SHARES.
-- 09/23 05:22 [FirstSquawk] BRENT SETTLED AROUND $99 AS TRUMP SAID U.S.-IRAN TALKS WERE “VERY PRODUCTIVE” AND SHOWED “A LOT OF MOMENTUM” TOWARD A DEAL, WHILE WALL STREET ALSO LOOKS AHEAD TO THE TRUMP-XI SUMMIT ON TRADE, AI AND OTHER CONTENTIOUS ISSUES.
-- 09/23 05:26 [financialjuice] NY Fed's Perli: Fed's reserve management purchases are not on a pre-set course
-- 09/23 05:26 [financialjuice] NY Fed Perli: Monetary policy toolkit has been working very well.
-- 09/23 05:26 [financialjuice] NY Fed's Perli: Fed's reserve forecasting process is robust
-- 09/23 05:26 [FirstSquawk] NEW YORK FED OPEN MARKETS CHIEF JOHN WILLIAMS PERLI SAYS THE FED’S RESERVE MANAGEMENT PURCHASES ARE NOT ON A PRESET COURSE, WHILE SAYING THE CENTRAL BANK’S MONETARY POLICY TOOLKIT HAS BEEN WORKING VERY WELL.
-- 09/23 05:26 [financialjuice] NY Fed's Perli: Central clearing of Fed repo operations would have benefits
-- 09/23 05:26 [FirstSquawk] NEW YORK FED OPEN MARKETS CHIEF JOHN WILLIAMS PERL SAYS CENTRAL CLEARING OF FED REPO OPERATIONS COULD PROVIDE BENEFITS, WHILE DESCRIBING THE FED’S RESERVE FORECASTING PROCESS AS ROBUST.
-- 09/23 05:31 [financialjuice] Iraqi Oil Minister: Road transport of crude from southern oilfields to Kirkuk expected to increase exports via Turkey's Ceyhan port to more than 600,000 bpd
 - 09/23 05:32 [financialjuice] Iraqi Oil Minister: Oil production from Iraqi Kurdistan oilfields currently stands at 200,000 bpd
 - 09/23 05:32 [financialjuice] ECB's Nagel: I am not relaxed, core inflation is still too high
 - 09/23 05:33 [financialjuice] ECB's Nagel: Up to now, I do not see significant 2nd round effects.
@@ -654,3 +643,11 @@
 - 09/24 05:10 [financialjuice] ❗ China is holding sensitive F-35 parts diverted to Hong Kong
 - 09/24 05:11 [financialjuice] Pentagon: We're working to retrieve stealthy jet parts.
 - 09/24 05:12 [FirstSquawk] CHINA HOLDS SENSITIVE F-35 PARTS DIVERTED TO HONG KONG; PENTAGON WORKING TO RETRIEVE STEALTH JET COMPONENTS AFTER UPS FLIGHT WAS DIVERTED EN ROUTE TO US
+- 09/24 05:25 [financialjuice] Australia's PM Albanese: OpenAI model hacked Services Australia
+- 09/24 05:25 [FirstSquawk] U.S. ENVOY KRATSIOS TOLD THE UN SECURITY COUNCIL THAT THE U.S. 'REJECTS ANY ATTEMPTS TO CONSTRUCT A GLOBAL SCHEME TO CONTROL AI', SAYING THERE IS 'NO REASON TO PAUSE RAPIDLY ADVANCING AI OR CONSTRAIN IT WITH GLOBAL GOVERNANCE' AND THAT 'YOU…
+- 09/24 05:25 [FirstSquawk] FRENCH FOREIGN MINISTER SAID THE INTERNATIONAL COMMUNITY NEEDS TO ESTABLISH A COMMON FRAMEWORK TO MANAGE AI RISKS, WHILE BRITAIN'S FOREIGN SECRETARY SAID THE WORLD 'CANNOT IGNORE WARNINGS FROM AI LEADERS'.
+- 09/24 05:25 [DeItaone] US JUDGE DECIDING CASE OVER MEDIA BAN AT THE WHITE HOUSE ENDS HEARING WITHOUT SAYING WHEN HE WOULD RULE
+- 09/24 05:26 [FirstSquawk] U.S. STOCKS AND TREASURIES FELL AS BRENT CRUDE SETTLED AROUND $103 A BARREL, FUELING INFLATION FEARS, WHILE STRONGEST U.S. BUSINESS ACTIVITY SINCE 2021 AND A WEAK $70 BILLION FIVE-YEAR TREASURY AUCTION PUSHED YIELDS TOWARD NEAR TWO-DECADE H…
+- 09/24 05:26 [FirstSquawk] MARKETS INCREASINGLY PRICE TWO MORE FED RATE HIKES AFTER GOVERNOR MICHAEL BARR SAID FURTHER TIGHTENING MAY BE NEEDED, WHILE IRAN’S PRESIDENT SAID TEHRAN WILL NOT ALLOW FREEDOM OF NAVIGATION THROUGH THE STRAIT OF HORMUZ UNDER SANCTIONS AND A…
+- 09/24 05:31 [financialjuice] UK's Healey: I spoke with US Treasury Secretary Bessent today - Post on X.
+- 09/24 05:32 [financialjuice] UK's Chancellor Healey spoke to Bessent on stepping up pressure on Iran and how to work together to drive growth in both nations.

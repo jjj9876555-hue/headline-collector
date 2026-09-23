@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 05:18 JST／対象: 09/23 17:18 〜 09/24 05:18 JST（時刻はすべて日本時間）
+生成: 2026-09-24 05:32 JST／対象: 09/23 17:32 〜 09/24 05:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 80 | 09/23 18:24 | 09/24 03:30 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 171 | 09/23 17:31 | 09/24 05:12 | 34分（01:56→02:31） |
-| financialjuice | 166 | 09/23 17:30 | 09/24 05:11 | ⚠ 71分（18:33→19:45） |
+| DeItaone | 81 | 09/23 18:24 | 09/24 05:25 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 173 | 09/23 17:44 | 09/24 05:26 | 34分（01:56→02:31） |
+| financialjuice | 166 | 09/23 18:00 | 09/24 05:32 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 400 行（統合前 420 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 403 行（統合前 423 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 17:30 [financialjuice] ❗ UK MANUFACTURING PMI FLASH ACTUAL 52 (FORECAST 51.5, PREVIOUS 51.7) $MACRO
-- 09/23 17:30 [financialjuice] ‼ BREAKING: UK SERVICES PMI FLASH ACTUAL 51.7 (FORECAST 52, PREVIOUS 52.5) $MACRO
-- 09/23 17:30 [financialjuice] ❗ UK COMPOSITE PMI FLASH ACTUAL 51.7 (FORECAST 52, PREVIOUS 52.5) $MACRO
-- 09/23 17:31 [FirstSquawk] UK SEPTEMBER COMPOSITE PMI DROPS TO 51.7, BELOW EXPECTATION OF 52.
-- 09/23 17:31 [FirstSquawk] UK SEPTEMBER SERVICES PMI DROPS TO 51.7, BELOW EXPECTATION OF 52.
 - 09/23 17:44 [FirstSquawk] Nvidia-Backed Firmus Seeks $10 Billion Financing for Indonesian Data Center Ahead of $5 Billion IPO Australian AI startup Firmus Technologies Pty is currently in talks with lenders to secure a massive $10 billion financing package to purcha…
 - 09/23 18:00 [financialjuice] China's Xi departs Beijing for US visit - Chinese state media
 - 09/23 18:06 [FirstSquawk] ECB'S MAKHLOUF: NOT SEEING SECOND-ROUND EFFECTS YET - RTE RADIO || IF ENERGY COSTS FEED THROUGH, ECB WILL HAVE TO ACT || UNCOMFORTABLE WITH ECB OUTLOOK FOR INFLATION OVER 3%
@@ -424,3 +419,11 @@
 - 09/24 05:10 [financialjuice] ❗ China is holding sensitive F-35 parts diverted to Hong Kong
 - 09/24 05:11 [financialjuice] Pentagon: We're working to retrieve stealthy jet parts.
 - 09/24 05:12 [FirstSquawk] CHINA HOLDS SENSITIVE F-35 PARTS DIVERTED TO HONG KONG; PENTAGON WORKING TO RETRIEVE STEALTH JET COMPONENTS AFTER UPS FLIGHT WAS DIVERTED EN ROUTE TO US
+- 09/24 05:25 [financialjuice] Australia's PM Albanese: OpenAI model hacked Services Australia
+- 09/24 05:25 [FirstSquawk] U.S. ENVOY KRATSIOS TOLD THE UN SECURITY COUNCIL THAT THE U.S. 'REJECTS ANY ATTEMPTS TO CONSTRUCT A GLOBAL SCHEME TO CONTROL AI', SAYING THERE IS 'NO REASON TO PAUSE RAPIDLY ADVANCING AI OR CONSTRAIN IT WITH GLOBAL GOVERNANCE' AND THAT 'YOU…
+- 09/24 05:25 [FirstSquawk] FRENCH FOREIGN MINISTER SAID THE INTERNATIONAL COMMUNITY NEEDS TO ESTABLISH A COMMON FRAMEWORK TO MANAGE AI RISKS, WHILE BRITAIN'S FOREIGN SECRETARY SAID THE WORLD 'CANNOT IGNORE WARNINGS FROM AI LEADERS'.
+- 09/24 05:25 [DeItaone] US JUDGE DECIDING CASE OVER MEDIA BAN AT THE WHITE HOUSE ENDS HEARING WITHOUT SAYING WHEN HE WOULD RULE
+- 09/24 05:26 [FirstSquawk] U.S. STOCKS AND TREASURIES FELL AS BRENT CRUDE SETTLED AROUND $103 A BARREL, FUELING INFLATION FEARS, WHILE STRONGEST U.S. BUSINESS ACTIVITY SINCE 2021 AND A WEAK $70 BILLION FIVE-YEAR TREASURY AUCTION PUSHED YIELDS TOWARD NEAR TWO-DECADE H…
+- 09/24 05:26 [FirstSquawk] MARKETS INCREASINGLY PRICE TWO MORE FED RATE HIKES AFTER GOVERNOR MICHAEL BARR SAID FURTHER TIGHTENING MAY BE NEEDED, WHILE IRAN’S PRESIDENT SAID TEHRAN WILL NOT ALLOW FREEDOM OF NAVIGATION THROUGH THE STRAIT OF HORMUZ UNDER SANCTIONS AND A…
+- 09/24 05:31 [financialjuice] UK's Healey: I spoke with US Treasury Secretary Bessent today - Post on X.
+- 09/24 05:32 [financialjuice] UK's Chancellor Healey spoke to Bessent on stepping up pressure on Iran and how to work together to drive growth in both nations.
