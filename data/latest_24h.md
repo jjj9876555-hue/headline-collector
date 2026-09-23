@@ -7,47 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 12:21 JST／対象: 09/22 12:21 〜 09/23 12:21 JST（時刻はすべて日本時間）
+生成: 2026-09-23 12:37 JST／対象: 09/22 12:37 〜 09/23 12:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 337 | 09/22 12:22 | 09/23 12:18 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 328 | 09/22 12:21 | 09/23 11:44 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 336 | 09/22 12:49 | 09/23 12:32 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 308 | 09/22 12:48 | 09/23 11:44 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 674 行（統合前 696 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 653 行（統合前 675 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 12:21 [financialjuice] South Korea Pursues nuclear power plant, Alaska LNG project for US investment: media
-- 09/22 12:21 [financialjuice] RBA Governor Bullock: AI boom is increasing excess demand in Australian economy
-- 09/22 12:21 [financialjuice] South Korea lawmaker: Alaska LNG project not confirmed yet in US investment plan
-- 09/22 12:22 [FirstSquawk] RBA Gov. Bullock: AI-driven boom is adding to excess demand in Australian economy
-- 09/22 12:22 [financialjuice] South Korea aims to acquire 5-10% stake in Westinghouse: lawmaker
-- 09/22 12:22 [FirstSquawk] Death toll rises by two after heavy rain hits Tokyo region
-- 09/22 12:22 [financialjuice] South Korea in talks with US on two nuclear reactors featuring South Korean design: lawmaker
-- 09/22 12:22 [financialjuice] South Korea has no plan to suggest chip investment to US: lawmaker
-- 09/22 12:22 [financialjuice] Reserve Bank of NZ Gov Breman: persistent higher oil prices likely to push near-term inflation above September outlook
-- 09/22 12:22 [financialjuice] RBNZ Governor Breman: we will evaluate incoming data and global trends before next october decision, staying focused on inflation outlook
-- 09/22 12:22 [financialjuice] RBNZ Governor Breman: substantial risks persist for economic outlook
-- 09/22 12:23 [financialjuice] RBNZ Governor Breman: economic recovery likely to strengthen and widen
-- 09/22 12:23 [financialjuice] RBNZ Governor Breman: data indicate economic recovery continues this quarter but remains uneven
-- 09/22 12:23 [financialjuice] Alibaba CEO: Qwen team aims to train new model with 5 to 10 trillion parameters
-- 09/22 12:23 [financialjuice] Alibaba CEO: aims for Alibaba Cloud global data center capacity to exceed 20 GW by 2032
-- 09/22 12:23 [financialjuice] RBA governor Bullock: supply shocks pose a challenge for monetary policy
-- 09/22 12:23 [financialjuice] RBA Governor Bullock: policy must address second-round inflation effects
-- 09/22 12:23 [financialjuice] South Korea government: even with 5-10% Westinghouse stake, South Korea retains voting rights - Yonhap
-- 09/22 12:23 [financialjuice] South Korea Industry Ministry: Trump to make final call on US investment plan, funds to be transferred within 45 days if requested by US - Yonhap
-- 09/22 12:24 [financialjuice] South Korea gov't: to fully invest in Texas gas plant, ownership to be equally shared with US - Yonhap
-- 09/22 12:28 [financialjuice] RBA Governor Bullock: current dip in house prices aligns with past episodes
-- 09/22 12:29 [FirstSquawk] RBA Gov. Bullock: Current decline in house prices is consistent with past episodes
-- 09/22 12:34 [financialjuice] RBA Governor Bullock: unemployment at 4.5% to 5.0% likely to reduce inflation pressure
-- 09/22 12:35 [FirstSquawk] RBA Gov. Bullock: Higher unemployment at 4.5%-5.0% could ease pressure on inflation
 - 09/22 12:48 [financialjuice] RBA governor Bullock: Neutral rates rising globally, driving up real bond yields
 - 09/22 12:49 [FirstSquawk] RBA Gov. Bullock: Neutral interest rates rising worldwide are putting upward pressure on real bond yields
 - 09/22 12:52 [financialjuice] RBA Governor Bullock: Australian dollar mirrors commodities and interest rate gaps
@@ -698,3 +674,6 @@
 - 09/23 12:10 [FirstSquawk] Most Singaporeans ready to let AI agents shop for them with safeguards-SCMP
 - 09/23 12:16 [FirstSquawk] JPMorgan upgrades BP to overweight from neutral, lifts target price to 675p from 550p
 - 09/23 12:18 [FirstSquawk] JPMorgan lifts Societe Generale target price to €83 from €81
+- 09/23 12:22 [FirstSquawk] US investment concerns stall plans for Chinese business leaders to join Xi’s trip - SCMP
+- 09/23 12:25 [FirstSquawk] Chinese crusher books Australian canola cargo in one of first private new-crop deals — RTRS
+- 09/23 12:32 [FirstSquawk] DBS sees uneven ASEAN growth as AI reshapes regional economies

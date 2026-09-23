@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 12:21 JST／対象: 09/23 00:21 〜 09/23 12:21 JST（時刻はすべて日本時間）
+生成: 2026-09-23 12:37 JST／対象: 09/23 00:37 〜 09/23 12:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 203 | 09/23 00:27 | 09/23 12:18 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 165 | 09/23 00:30 | 09/23 11:44 | ⚠ 46分（09:15→10:01） |
+| FirstSquawk | 202 | 09/23 00:41 | 09/23 12:32 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 162 | 09/23 00:39 | 09/23 11:44 | ⚠ 46分（09:15→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 361 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 357 行（統合前 371 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 00:27 [FirstSquawk] SPACEXAI'S GROK BOT AGENT SURPASSES 400K USERS AFTER FIRST MONTH; USERS GREW 24% FROM PRIOR WEEK
-- 09/23 00:29 [FirstSquawk] BESSENT, HE TO TALK IF AI NATIONAL SECURITY INCIDENT: POLITICO
-- 09/23 00:30 [financialjuice] The AI safety ‘mechanism’ is a channel between US Treasury Secretary Bessent and China's Vice Premier He Lifeng - Politico
-- 09/23 00:32 [FirstSquawk] NEW AI SAFETY ‘MECHANISM’ IS A CHANNEL BETWEEN BESSENT AND HIS CHINESE COUNTERPART – POLITICO
-- 09/23 00:34 [financialjuice] Danish Prime minister on Trump's Greenland deal: Today we are signing a deal that can last forever.
-- 09/23 00:34 [financialjuice] Saudi Aramco plans a reorganisation to create a new gas division, and considers possible new listings of units - Sources.
-- 09/23 00:34 [FirstSquawk] SAUDI ARAMCO WILL REORGANIZE TO FORM A NEW GAS DIVISION AND IS LOOKING INTO NEW LISTINGS OF ITS UNITS, ACCORDING TO SOURCES.
 - 09/23 00:39 [financialjuice] Trump signs the security agreement with Denmark and Greenland.
 - 09/23 00:41 [FirstSquawk] IRGC SPOX HOSSEIN MOHEBI: IRAN 'TOUGHENED' CONDITIONS FOR ENDING WAR AFTER US DEAL COLLAPSE - AFP
 - 09/23 00:42 [financialjuice] Trump concludes the Trilateral Signing Event.
@@ -385,3 +378,6 @@
 - 09/23 12:10 [FirstSquawk] Most Singaporeans ready to let AI agents shop for them with safeguards-SCMP
 - 09/23 12:16 [FirstSquawk] JPMorgan upgrades BP to overweight from neutral, lifts target price to 675p from 550p
 - 09/23 12:18 [FirstSquawk] JPMorgan lifts Societe Generale target price to €83 from €81
+- 09/23 12:22 [FirstSquawk] US investment concerns stall plans for Chinese business leaders to join Xi’s trip - SCMP
+- 09/23 12:25 [FirstSquawk] Chinese crusher books Australian canola cargo in one of first private new-crop deals — RTRS
+- 09/23 12:32 [FirstSquawk] DBS sees uneven ASEAN growth as AI reshapes regional economies

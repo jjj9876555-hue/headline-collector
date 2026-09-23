@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 12:21 JST／対象: 09/23 06:21 〜 09/23 12:21 JST（時刻はすべて日本時間）
+生成: 2026-09-23 12:37 JST／対象: 09/23 06:37 〜 09/23 12:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 94 | 09/23 06:58 | 09/23 12:18 | ⚠ 63分（07:00→08:04） |
-| financialjuice | 27 | 09/23 06:35 | 09/23 11:44 | ⚠ 46分（09:15→10:01） |
+| FirstSquawk | 97 | 09/23 06:58 | 09/23 12:32 | ⚠ 63分（07:00→08:04） |
+| financialjuice | 25 | 09/23 06:42 | 09/23 11:44 | ⚠ 46分（09:15→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 121 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 122 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 06:35 [financialjuice] Sound of blast heard near Iran’s Qeshm Island: IRNA
-- 09/23 06:35 [financialjuice] Irna: sound seemed to originate from sea; no effects reported on Iran's Qeshm Island
 - 09/23 06:42 [financialjuice] Downing Street: UK PM Burnham met European Commission President Ursula von der Leyen at UN General Assembly today
 - 09/23 06:44 [financialjuice] Downing Street: Burnham and von der Leyen discussed initiatives underway to tackle AI safety
 - 09/23 06:58 [FirstSquawk] BLAST SOUND HEARD NEAR IRAN’S QESHM ISLAND — IRNA
@@ -145,3 +143,6 @@
 - 09/23 12:10 [FirstSquawk] Most Singaporeans ready to let AI agents shop for them with safeguards-SCMP
 - 09/23 12:16 [FirstSquawk] JPMorgan upgrades BP to overweight from neutral, lifts target price to 675p from 550p
 - 09/23 12:18 [FirstSquawk] JPMorgan lifts Societe Generale target price to €83 from €81
+- 09/23 12:22 [FirstSquawk] US investment concerns stall plans for Chinese business leaders to join Xi’s trip - SCMP
+- 09/23 12:25 [FirstSquawk] Chinese crusher books Australian canola cargo in one of first private new-crop deals — RTRS
+- 09/23 12:32 [FirstSquawk] DBS sees uneven ASEAN growth as AI reshapes regional economies
