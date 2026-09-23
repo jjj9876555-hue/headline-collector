@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 08:29 JST／対象: 09/23 08:29 〜 09/24 08:29 JST（時刻はすべて日本時間）
+生成: 2026-09-24 08:42 JST／対象: 09/23 08:42 〜 09/24 08:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 302 | 09/23 08:30 | 09/24 08:23 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 253 | 09/23 08:41 | 09/24 08:29 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 297 | 09/23 08:47 | 09/24 08:23 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 257 | 09/23 09:05 | 09/24 08:39 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 618 行（統合前 640 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 617 行（統合前 639 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 08:30 [FirstSquawk] IRANIAN STATE MEDIA SAYS FOREIGN MINISTER ABBAS ARAGHCHI MET U.S. ENVOY STEVE WITKOFF AT THE UN GENERAL ASSEMBLY, WITH TEHRAN SAYING THE TALKS CENTERED ON ITS CONDITIONS FOR REOPENING THE STRAIT OF HORMUZ, INCLUDING LIFTING THE U.S. NAVAL B…
-- 09/23 08:30 [FirstSquawk] IRAN ALSO CALLED FOR AN END TO THE WAR ACROSS ALL “RESISTANCE” FRONTS, WHILE SHIPPING THROUGH THE STRAIT OF HORMUZ REMAINED SEVERELY DISRUPTED, WITH JUST TWO COMMODITY VESSELS CROSSING MONDAY VERSUS A PRE-CONFLICT AVERAGE OF ABOUT 125 LARGE…
-- 09/23 08:36 [FirstSquawk] U.S. ENVOY WITKOFF SAYS HE HELD LENGTHY TALKS WITH THE IRANIAN DELEGATION THROUGH MEDIATORS, WHO WILL CONTINUE THEIR WORK, ADDING THAT HE HOPES THE TALKS PROVE CONSTRUCTIVE AND PROMISING
-- 09/23 08:39 [FirstSquawk] U.K. PRIME MINISTER ANDY BURNHAM SAYS HE REAFFIRMED BRITAIN’S POSITION ON THE FALKLAND ISLANDS DURING TALKS WITH PRESIDENT DONALD TRUMP, SAYING THE U.K. WILL “STAND FIRM” AND DEFEND THE ISLANDERS’ RIGHT TO SELF-DETERMINATION AND TO REMAIN B…
-- 09/23 08:41 [financialjuice] Microsoft to increase Copilot discounts as it introduces AI ‘super app’ - The Information
-- 09/23 08:41 [FirstSquawk] MICROSOFT BOOSTS COPILOT DISCOUNTS AS IT LAUNCHES AI “SUPER APP” — THE INFORMATION
 - 09/23 08:47 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN 1% TO $89.60/BBL ON HOPES OF INCREASED GULF SUPPLIES
 - 09/23 08:57 [FirstSquawk] ISRAELI AIRSTRIKES & ARTILLERY HIT SOUTHERN LEBANON; LOUD EXPLOSION REPORTED IN KHIAM AMID STRIKES — MEHR
 - 09/23 08:57 [FirstSquawk] UK PM BURNHAM: BRITAIN WILL STAND FIRM IN DEFENDING ITS PEOPLE & ALLIES — AL JAZEERA
@@ -642,3 +636,8 @@
 - 09/24 08:28 [financialjuice] Venezuela acting president Rodriguez: will guide nation from uncertainty to full democracy
 - 09/24 08:29 [financialjuice] Venezuela acting president Rodriguez: ready to collaborate with international community
 - 09/24 08:29 [financialjuice] Venezuela acting president Rodriguez: this is the moment to create the nation many seek to return to
+- 09/24 08:30 [financialjuice] Venezuela acting president Rodriguez: recovery will be gradual
+- 09/24 08:32 [financialjuice] Meta unveils smart glasses without cameras
+- 09/24 08:34 [financialjuice] Meta introduces third generation of Ray-Ban smart glasses
+- 09/24 08:36 [financialjuice] Meta: adventurer style smart glasses to start at $249
+- 09/24 08:39 [financialjuice] Meta: Ray-Ban Meta Audio launches October 13, available for pre-order at $349
