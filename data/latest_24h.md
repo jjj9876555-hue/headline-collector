@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 19:58 JST／対象: 09/22 19:58 〜 09/23 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-23 20:17 JST／対象: 09/22 20:17 〜 09/23 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/22 20:10 | 09/23 19:53 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 344 | 09/22 20:06 | 09/23 19:45 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 307 | 09/22 20:54 | 09/23 19:57 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 25 | 09/22 20:19 | 09/23 20:05 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 342 | 09/22 20:20 | 09/23 20:10 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 313 | 09/22 20:54 | 09/23 20:03 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 662 行（統合前 687 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 662 行（統合前 688 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 20:06 [FirstSquawk] UK TAX AUTHORITY HAS ASSIGNED A PERSONAL COMPLIANCE MANAGER TO EACH BILLIONAIRE.
-- 09/22 20:10 [DeItaone] RUBIO: OPEN TO IRAN MEETING AT UN -NBC NEWS INTERVIEW
-- 09/22 20:11 [FirstSquawk] RUBIO:DON'T THINK ANYTHING IS SCHEDULED ON TRUMP-IRAN PRESIDENT
-- 09/22 20:11 [FirstSquawk] RUBIO: TRUMP IS OPEN TO MEETING WITH ANYBODY
-- 09/22 20:12 [DeItaone] DIMON WARNS AGAINST PUNISHING INDIA OVER RUSSIAN OIL JPMorgan CEO Jamie Dimon says the U.S. should avoid punishing India and global oil markets while pressuring Russia over Ukraine. Dimon warned that Indian refiners cannot easily replace Ru…
-- 09/22 20:13 [DeItaone] HORMUZ TALKS RUMORS SEND OIL LOWER Oil prices fell after reports suggested Iran could reopen the Strait of Hormuz within seven days if U.S. military pressure eases and the blockade on Iranian ports is lifted. However, Iranian sources have d…
-- 09/22 20:13 [FirstSquawk] IRANIAN SOURCES DENY REPORTS OF HORMUZ REOPENING DEALS - FARS
-- 09/22 20:15 [FirstSquawk] RUBIO: 60%-70% OF OIL FLOWS ARE COMING OUT, AND IT'S CLIMBING
-- 09/22 20:16 [DeItaone] TRUMP: U.S. HAS “MORE MUNITIONS THAN WE COULD EVER USE” President Trump rejected claims that the U.S. is running low on munitions, calling them false. Trump said the country has more munitions than it could possibly use and is currently exp…
 - 09/22 20:19 [DeItaone] CATHIE WOOD SHRUGS OFF FED RATE-HIKE FEARS ARK Invest CEO Cathie Wood says higher interest rates won’t derail the technology boom, arguing rapid innovation will drive stronger economic growth. Wood expects the current tech revolution to red…
 - 09/22 20:20 [DeItaone] CHINA PROBES DEEPSEEK, MOONSHOT OVER POTENTIAL DATA LEAKS TO ANTHROPIC - THE INFORMATION ANTHROPIC ALLEGED DEEPSEEK, MOONSHOT ROUTED SENSITIVE DATA TO CLAUDE- THE INFORMATION
 - 09/22 20:20 [FirstSquawk] CHINA PROBES DEEPSEEK ON CLAUDE USER DATA ROUTING: INFORMATION
@@ -686,3 +677,12 @@
 - 09/23 19:45 [DeItaone] RUSSIA CUTS GAS AND LNG OUTLOOK Russia has lowered its 2026 natural gas production forecast to 683.1 bcm, from 688.4 bcm previously. The government also cut its 2026 LNG export forecast to 35 million tons, down from 40.3 million tons. Russi…
 - 09/23 19:53 [DeItaone] HAWKISH FED SENDS DOLLAR TO TWO-MONTH HIGH The dollar climbed to its highest level since July as Fed officials signaled more rate hikes may be needed to fight inflation. Markets now price a 53% chance of an October hike after last week’s fi…
 - 09/23 19:57 [financialjuice] HSBC raises 2026 year-end Stoxx 600 index target to 680 from 670
+- 09/23 19:59 [financialjuice/FirstSquawk] HSBC raises 2026 year-end FTSE 100 target to 11,390 from 10,980
+- 09/23 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -1.5% (FORECAST -, PREVIOUS -4.1%) $MACRO
+- 09/23 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 7.12% (FORECAST -, PREVIOUS 6.97%) $MACRO
+- 09/23 20:02 [financialjuice] Oil executives lobbied against diesel export ban - WSJ
+- 09/23 20:03 [financialjuice] HSBC cuts France to underweight from neutral
+- 09/23 20:03 [financialjuice] Oil reps blindsided by Trump diesel export ban comment - WSJ
+- 09/23 20:05 [DeItaone] TRUMP WEIGHS DIESEL EXPORT CURBS AS PRICES HIT RECORD President Trump says he is considering restricting U.S. diesel exports as prices reach a record $6.53 per gallon. Oil companies are pushing back, warning restrictions could force refiner…
+- 09/23 20:07 [FirstSquawk] WHITE HOUSE CONSIDERS BAN ON DIESEL EXPORTS AS PRICES KEEP RISING - WSJ
+- 09/23 20:10 [FirstSquawk] TRUMP’S OIL ALLIES SEE NIGHTMARE SCENARIO OF DIESEL-EXPORT BAN BECOMING REALITY – WSJ

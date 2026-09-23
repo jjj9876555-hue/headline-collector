@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 19:58 JST／対象: 09/23 13:58 〜 09/23 19:58 JST（時刻はすべて日本時間）
+生成: 2026-09-23 20:17 JST／対象: 09/23 14:17 〜 09/23 20:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 13 | 09/23 18:24 | 09/23 19:53 | 23分（19:19→19:43） |
-| FirstSquawk | 47 | 09/23 14:00 | 09/23 19:45 | 30分（17:00→17:31） |
-| financialjuice | 31 | 09/23 14:52 | 09/23 19:57 | ⚠ 71分（18:33→19:45） |
+| DeItaone | 14 | 09/23 18:24 | 09/23 20:05 | 23分（19:19→19:43） |
+| FirstSquawk | 43 | 09/23 14:19 | 09/23 20:10 | 30分（17:00→17:31） |
+| financialjuice | 37 | 09/23 14:52 | 09/23 20:03 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 88 行（統合前 91 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 90 行（統合前 94 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI SERVICES ACTUAL: 55.8 VS 54.1 PREVIOUS
-- 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI MFG ACTUAL: 55.7 VS 52.8 PREVIOUS
-- 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI COMPOSITE ACTUAL: 56.5 VS 54.3 PREVIOUS
-- 09/23 14:02 [FirstSquawk] IMF, Sri Lanka hold productive talks on seventh review of Extended Fund Facility
-- 09/23 14:07 [FirstSquawk] Kotecki: Polish central bank nearing discussion on possible November interest rate hike
-- 09/23 14:10 [FirstSquawk] Kotecki signals any Polish rate hikes would be gradual and limited
-- 09/23 14:10 [FirstSquawk] Goldman leads M&A activity as freed capital fuels dealmaking - RTRS
 - 09/23 14:19 [FirstSquawk] Roche says sefaxersen significantly reduces proteinuria in Phase III IgA nephropathy study
 - 09/23 14:19 [FirstSquawk] Russian forces hit cargo ship in Black Sea, Defence Ministry says - IFX
 - 09/23 14:20 [FirstSquawk] Russia says its forces hit Ukrainian defence, energy facilities and logistics centres - RIA
@@ -112,3 +105,12 @@
 - 09/23 19:45 [DeItaone] RUSSIA CUTS GAS AND LNG OUTLOOK Russia has lowered its 2026 natural gas production forecast to 683.1 bcm, from 688.4 bcm previously. The government also cut its 2026 LNG export forecast to 35 million tons, down from 40.3 million tons. Russi…
 - 09/23 19:53 [DeItaone] HAWKISH FED SENDS DOLLAR TO TWO-MONTH HIGH The dollar climbed to its highest level since July as Fed officials signaled more rate hikes may be needed to fight inflation. Markets now price a 53% chance of an October hike after last week’s fi…
 - 09/23 19:57 [financialjuice] HSBC raises 2026 year-end Stoxx 600 index target to 680 from 670
+- 09/23 19:59 [financialjuice/FirstSquawk] HSBC raises 2026 year-end FTSE 100 target to 11,390 from 10,980
+- 09/23 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -1.5% (FORECAST -, PREVIOUS -4.1%) $MACRO
+- 09/23 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 7.12% (FORECAST -, PREVIOUS 6.97%) $MACRO
+- 09/23 20:02 [financialjuice] Oil executives lobbied against diesel export ban - WSJ
+- 09/23 20:03 [financialjuice] HSBC cuts France to underweight from neutral
+- 09/23 20:03 [financialjuice] Oil reps blindsided by Trump diesel export ban comment - WSJ
+- 09/23 20:05 [DeItaone] TRUMP WEIGHS DIESEL EXPORT CURBS AS PRICES HIT RECORD President Trump says he is considering restricting U.S. diesel exports as prices reach a record $6.53 per gallon. Oil companies are pushing back, warning restrictions could force refiner…
+- 09/23 20:07 [FirstSquawk] WHITE HOUSE CONSIDERS BAN ON DIESEL EXPORTS AS PRICES KEEP RISING - WSJ
+- 09/23 20:10 [FirstSquawk] TRUMP’S OIL ALLIES SEE NIGHTMARE SCENARIO OF DIESEL-EXPORT BAN BECOMING REALITY – WSJ
