@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 21:49 JST／対象: 09/23 15:49 〜 09/23 21:49 JST（時刻はすべて日本時間）
+生成: 2026-09-23 22:02 JST／対象: 09/23 16:02 〜 09/23 22:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/23 18:24 | 09/23 21:44 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 48 | 09/23 15:51 | 09/23 21:48 | 30分（17:00→17:31） |
-| financialjuice | 43 | 09/23 16:01 | 09/23 21:48 | ⚠ 71分（18:33→19:45） |
+| DeItaone | 19 | 09/23 18:24 | 09/23 21:53 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 49 | 09/23 16:03 | 09/23 21:58 | 30分（17:00→17:31） |
+| financialjuice | 44 | 09/23 16:05 | 09/23 22:00 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 105 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 15:51 [FirstSquawk] GBP/USD tests support near 1.3300, UOB says
-- 09/23 16:01 [financialjuice] Currency Strength Chart: Strongest: USD, CAD, CHF, JPY, GBP, EUR, AUD, NZD - Weakest
 - 09/23 16:03 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.34% || FRANCE'S CAC 40 UP 0.39% || SPAIN'S IBEX UP 0.59%
 - 09/23 16:04 [FirstSquawk] GERMANY'S DAX UP 0.6%
 - 09/23 16:05 [financialjuice] Italy plans to stick with its commitment to keep the deficit below the EU's 3% of GDP ceiling this year, from 3.1% in 2025 - Sources
@@ -126,3 +124,8 @@
 - 09/23 21:46 [FirstSquawk] CANADIAN PM CARNEY COMMENTS ON TRUMP'S CALL TO 'ANNIHILATE' IRAN, STATING 'HE'S USING WAR LANGUAGE.'
 - 09/23 21:48 [financialjuice] Morgan Stanley investment-banking deal list accidently leaked - People Familiar
 - 09/23 21:48 [FirstSquawk/financialjuice] US BUILDING MULTINATIONAL ATTACK DRONE UNIT: CENTCOM
+- 09/23 21:51 [DeItaone] U.S. DIESEL EXPORT BAN COULD DEEPEN GLOBAL SHORTAGE A potential U.S. diesel export ban would hit Latin America and Europe hardest, Capital Economics warns. Higher U.S. exports this year have offset roughly half the global supply losses caus…
+- 09/23 21:53 [DeItaone/financialjuice] PUTIN I'M SURE THAT THE SPECIAL MILITARY OPERATION'S GOALS WILL BE ACHIEVED
+- 09/23 21:53 [FirstSquawk] PUTIN APPEALING TO THE ARMY SERVICEMEN: THE VOTE IS FOR YOU
+- 09/23 21:58 [FirstSquawk] PUTIN: THERE WERE ATTEMPTS TO OBSTRUCT THE ELECTIONS, BUT IT IS IMPOSSIBLE TO INTIMIDATE RUSSIA
+- 09/23 22:00 [financialjuice] Effective fed funds rate 3.88% September 22nd vs 3.88% September 21st

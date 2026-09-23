@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 21:49 JST／対象: 09/23 09:49 〜 09/23 21:49 JST（時刻はすべて日本時間）
+生成: 2026-09-23 22:02 JST／対象: 09/23 10:02 〜 09/23 22:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 17 | 09/23 18:24 | 09/23 21:44 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 132 | 09/23 09:51 | 09/23 21:48 | 30分（17:00→17:31） |
-| financialjuice | 70 | 09/23 10:01 | 09/23 21:48 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 19 | 09/23 18:24 | 09/23 21:53 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 127 | 09/23 10:05 | 09/23 21:58 | 30分（17:00→17:31） |
+| financialjuice | 71 | 09/23 10:03 | 09/23 22:00 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 213 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 210 行（統合前 217 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 09:51 [FirstSquawk] Embraer: Occurrence may disrupt airline schedules, but flight safety is unaffected
-- 09/23 09:51 [FirstSquawk] Embraer says technical support is being provided as necessary actions are taken to address the issue
-- 09/23 09:52 [FirstSquawk] Embraer closely monitors situation in coordination with operators and equipment maker
-- 09/23 09:52 [FirstSquawk] Embraer says certain aircraft types, including E2, affected by GPS instability
-- 09/23 09:59 [FirstSquawk] Kallas and Iran’s Araghchi discuss reopening Strait of Hormuz and ending U.S.-Iran war - Al Jazeera
-- 09/23 10:00 [FirstSquawk] Morocco’s foreign minister: Armed groups’ role has increased significantly
-- 09/23 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.804% unchanged from previous session open
-- 09/23 10:01 [FirstSquawk] Taiwan overnight interbank rate holds at 0.804% at the open
 - 09/23 10:03 [financialjuice] Meta takes action on 3.7 million accounts, pages, and content with Singapore police force
 - 09/23 10:05 [FirstSquawk] Meta acts against 3.7 million accounts, pages and content in coordination with Singapore Police
 - 09/23 10:13 [FirstSquawk] Gold holds steady as higher-for-longer rate outlook pressures sentiment - Reuters
@@ -237,3 +229,8 @@
 - 09/23 21:46 [FirstSquawk] CANADIAN PM CARNEY COMMENTS ON TRUMP'S CALL TO 'ANNIHILATE' IRAN, STATING 'HE'S USING WAR LANGUAGE.'
 - 09/23 21:48 [financialjuice] Morgan Stanley investment-banking deal list accidently leaked - People Familiar
 - 09/23 21:48 [FirstSquawk/financialjuice] US BUILDING MULTINATIONAL ATTACK DRONE UNIT: CENTCOM
+- 09/23 21:51 [DeItaone] U.S. DIESEL EXPORT BAN COULD DEEPEN GLOBAL SHORTAGE A potential U.S. diesel export ban would hit Latin America and Europe hardest, Capital Economics warns. Higher U.S. exports this year have offset roughly half the global supply losses caus…
+- 09/23 21:53 [DeItaone/financialjuice] PUTIN I'M SURE THAT THE SPECIAL MILITARY OPERATION'S GOALS WILL BE ACHIEVED
+- 09/23 21:53 [FirstSquawk] PUTIN APPEALING TO THE ARMY SERVICEMEN: THE VOTE IS FOR YOU
+- 09/23 21:58 [FirstSquawk] PUTIN: THERE WERE ATTEMPTS TO OBSTRUCT THE ELECTIONS, BUT IT IS IMPOSSIBLE TO INTIMIDATE RUSSIA
+- 09/23 22:00 [financialjuice] Effective fed funds rate 3.88% September 22nd vs 3.88% September 21st

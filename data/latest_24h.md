@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 21:49 JST／対象: 09/22 21:49 〜 09/23 21:49 JST（時刻はすべて日本時間）
+生成: 2026-09-23 22:02 JST／対象: 09/22 22:02 〜 09/23 22:02 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/23 04:42 | 09/23 21:44 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 343 | 09/22 21:52 | 09/23 21:48 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 304 | 09/22 21:51 | 09/23 21:48 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 21 | 09/23 04:42 | 09/23 21:53 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 344 | 09/22 22:04 | 09/23 21:58 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 296 | 09/22 22:03 | 09/23 22:00 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 649 行（統合前 673 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 644 行（統合前 667 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 21:51 [financialjuice] Deputy Speaker of Iran Parliament Nikzad: We will not back down on the Strait of Hormuz. - ISMN
-- 09/22 21:52 [financialjuice/FirstSquawk] German fuel rebate to be approved in parliament this week - CDU
-- 09/22 21:54 [financialjuice] IMF's Managing Director Georgieva Speaks at "The Next 3 Billion" Semafor Events - WATCH LIVE
-- 09/22 21:54 [financialjuice] Trump at the UN to highlight strategy to end foreign interference.
-- 09/22 21:55 [financialjuice] CDU'S Frei: Lawmakers are going to focus on stabilizing the German coalition.
-- 09/22 21:56 [financialjuice] US REDBOOK YOY ACTUAL 7.6% (FORECAST -, PREVIOUS 8.5%) $MACRO
-- 09/22 22:00 [financialjuice] Effective Fed funds rate: 3.88% September 21st vs. 3.88% September 18th.
-- 09/22 22:00 [financialjuice] ECB settled €1,660.5 bln public-sector bond purchases.
-- 09/22 22:00 [financialjuice] ECB settled €214.7 bln corporate bond purchases.
-- 09/22 22:00 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
 - 09/22 22:03 [financialjuice] Apple Launches New Mac Mini and Mac Studio With Latest Apple Silicon $AAPL
 - 09/22 22:04 [FirstSquawk] APPLE INC: NEW MAC MINI AND MAC STUDIO ARE AVAILABLE TODAY|| STARTING TODAY, THE NEW MAC MINI AND MAC STUDIO, BOTH POWERED BY THE LATEST APPLE SILICON, ARE NOW AVAILABLE
 - 09/22 22:04 [FirstSquawk] APPLE : MAC STUDIO M5 MAX PRICED FROM $2,499, M5 ULTRA FROM $5,499 || MAC MINI WITH M6 STARTS $899, WHILE MAC MINI WITH M5 PRO IS AVAILABLE AT $1,699
@@ -673,3 +663,8 @@
 - 09/23 21:46 [FirstSquawk] CANADIAN PM CARNEY COMMENTS ON TRUMP'S CALL TO 'ANNIHILATE' IRAN, STATING 'HE'S USING WAR LANGUAGE.'
 - 09/23 21:48 [financialjuice] Morgan Stanley investment-banking deal list accidently leaked - People Familiar
 - 09/23 21:48 [FirstSquawk/financialjuice] US BUILDING MULTINATIONAL ATTACK DRONE UNIT: CENTCOM
+- 09/23 21:51 [DeItaone] U.S. DIESEL EXPORT BAN COULD DEEPEN GLOBAL SHORTAGE A potential U.S. diesel export ban would hit Latin America and Europe hardest, Capital Economics warns. Higher U.S. exports this year have offset roughly half the global supply losses caus…
+- 09/23 21:53 [DeItaone/financialjuice] PUTIN I'M SURE THAT THE SPECIAL MILITARY OPERATION'S GOALS WILL BE ACHIEVED
+- 09/23 21:53 [FirstSquawk] PUTIN APPEALING TO THE ARMY SERVICEMEN: THE VOTE IS FOR YOU
+- 09/23 21:58 [FirstSquawk] PUTIN: THERE WERE ATTEMPTS TO OBSTRUCT THE ELECTIONS, BUT IT IS IMPOSSIBLE TO INTIMIDATE RUSSIA
+- 09/23 22:00 [financialjuice] Effective fed funds rate 3.88% September 22nd vs 3.88% September 21st
