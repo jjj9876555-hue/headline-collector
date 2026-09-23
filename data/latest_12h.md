@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 02:45 JST／対象: 09/23 14:45 〜 09/24 02:45 JST（時刻はすべて日本時間）
+生成: 2026-09-24 02:58 JST／対象: 09/23 14:58 〜 09/24 02:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 73 | 09/23 18:24 | 09/24 02:41 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 142 | 09/23 14:46 | 09/24 02:41 | 34分（01:56→02:31） |
-| financialjuice | 166 | 09/23 14:52 | 09/24 02:42 | ⚠ 71分（18:33→19:45） |
+| DeItaone | 74 | 09/23 18:24 | 09/24 02:48 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 140 | 09/23 15:00 | 09/24 02:41 | 34分（01:56→02:31） |
+| financialjuice | 165 | 09/23 15:22 | 09/24 02:42 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 365 行（統合前 383 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 363 行（統合前 381 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 14:46 [FirstSquawk] NHC says Category 5 Polo is stationary off Mexico’s southwestern coast
-- 09/23 14:52 [financialjuice] UK's PM Burnham and Zelenskyy spoke about a proposal for an energy ceasefire
-- 09/23 14:57 [FirstSquawk] Philippine Senate cuts required votes for conviction in VP Duterte impeachment trial
 - 09/23 15:00 [FirstSquawk] EuroStoxx 50 futures up 0.31% as DAX and FTSE futures gain 0.35% and 0.36%
 - 09/23 15:11 [FirstSquawk] Russian forces strike port infrastructure in Ukraine’s Odesa region, governor says
 - 09/23 15:21 [FirstSquawk] Oil price on track for longest losing streak in more than 12 months - FT
@@ -389,3 +386,4 @@
 - 09/24 02:41 [DeItaone] WHITE HOUSE OFFICIAL SAYS REPORT THAT US IS CONSIDERING A DIESEL EXPORT BAN IS 'FAKE NEWS'
 - 09/24 02:41 [FirstSquawk] WHITE HOUSE OFFICIAL: REPORTS OF US CONSIDERING DIESEL EXPORT BAN ARE “FAKE NEWS”
 - 09/24 02:42 [financialjuice] ❗ White House Official: Report that US is considering a diesel export ban is 'fake news'.
+- 09/24 02:48 [DeItaone] MCDONALD’S CEO: HIGH INFLATION IS HERE TO STAY McDonald’s CEO Chris Kempczinski says weak customer traffic and persistent inflation are becoming the new normal for the restaurant industry. U.S. same-store sales rose just 0.8% last quarter, …

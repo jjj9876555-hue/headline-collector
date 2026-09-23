@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 02:45 JST／対象: 09/23 20:45 〜 09/24 02:45 JST（時刻はすべて日本時間）
+生成: 2026-09-24 02:58 JST／対象: 09/23 20:58 〜 09/24 02:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 59 | 09/23 21:06 | 09/24 02:41 | ⚠ 51分（01:07→01:59） |
-| FirstSquawk | 99 | 09/23 20:48 | 09/24 02:41 | 34分（01:56→02:31） |
-| financialjuice | 129 | 09/23 20:49 | 09/24 02:42 | 23分（21:24→21:48） |
+| DeItaone | 60 | 09/23 21:06 | 09/24 02:48 | ⚠ 51分（01:07→01:59） |
+| FirstSquawk | 94 | 09/23 21:05 | 09/24 02:41 | 34分（01:56→02:31） |
+| financialjuice | 127 | 09/23 21:00 | 09/24 02:42 | 23分（21:24→21:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 275 行（統合前 289 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 269 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 20:48 [FirstSquawk] UKMTO SAYS IT RECEIVED A REPORT OF AN INCIDENT WITHIN THE STRAIT OF HORMUZ
-- 09/23 20:48 [FirstSquawk] UBS SAYS PROPOSED 90% PLAN IS EXCESSIVE, "NOT A COMPROMISE"
-- 09/23 20:49 [financialjuice] UKMTO gets a report of an incident in the Strait of Hormuz, a company security officer of a cargo vessel reports being struck by an unknown projectile
-- 09/23 20:49 [FirstSquawk] UKMTO SAYS VESSEL IS ON FIRE AND ADRIFT
-- 09/23 20:53 [FirstSquawk] ALL CREW MEMBERS OF THE ATTACKED SHIP IN THE STRAIT OF HORMUZ WERE EVACUATED, WITH TWO INJURIES REPORTED.
-- 09/23 20:55 [FirstSquawk] RYANAIR CEO O'LEARY: BY FY28 I EXPECT WE WILL GROW TO 220 MILLION PASSENGERS
-- 09/23 20:58 [financialjuice] Officials in the Trump administration have backed off an effort to replace Deputy Secretary of Defense Stephen Feinberg - Sources
 - 09/23 21:00 [financialjuice] Secured overnight financing rate: 3.87% September 22nd vs 3.85% September 21st
 - 09/23 21:05 [FirstSquawk] RAIFFEISEN BANK INTERNATIONAL TO LAUNCH CRYPTO TRADING ACROSS 11 EUROPEAN MARKETS Raiffeisen Bank International, one of Austria’s largest banking groups, is reportedly preparing to expand cryptocurrency trading services across 11 European m…
 - 09/23 21:06 [DeItaone] RYANAIR CEO O'LEARY: IF OIL PRICES REMAIN THIS HIGH INTO SUMMER OF 2027, I EXPECT AIRFARES TO RISE BY 10, 15, 20%
@@ -299,3 +292,4 @@
 - 09/24 02:41 [DeItaone] WHITE HOUSE OFFICIAL SAYS REPORT THAT US IS CONSIDERING A DIESEL EXPORT BAN IS 'FAKE NEWS'
 - 09/24 02:41 [FirstSquawk] WHITE HOUSE OFFICIAL: REPORTS OF US CONSIDERING DIESEL EXPORT BAN ARE “FAKE NEWS”
 - 09/24 02:42 [financialjuice] ❗ White House Official: Report that US is considering a diesel export ban is 'fake news'.
+- 09/24 02:48 [DeItaone] MCDONALD’S CEO: HIGH INFLATION IS HERE TO STAY McDonald’s CEO Chris Kempczinski says weak customer traffic and persistent inflation are becoming the new normal for the restaurant industry. U.S. same-store sales rose just 0.8% last quarter, …

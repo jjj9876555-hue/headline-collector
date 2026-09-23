@@ -7,52 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 02:45 JST／対象: 09/23 02:45 〜 09/24 02:45 JST（時刻はすべて日本時間）
+生成: 2026-09-24 02:58 JST／対象: 09/23 02:58 〜 09/24 02:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 75 | 09/23 04:42 | 09/24 02:41 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 350 | 09/23 02:46 | 09/24 02:41 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 294 | 09/23 02:47 | 09/24 02:42 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 76 | 09/23 04:42 | 09/24 02:48 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 337 | 09/23 02:59 | 09/24 02:41 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 278 | 09/23 02:58 | 09/24 02:42 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 697 行（統合前 722 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 669 行（統合前 694 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 02:46 [FirstSquawk] NEW YORK FED ACCEPTS $3M OF $3M SUBMITTED IN STANDING REPO OPERATION ON SEPTEMBER 22
-- 09/23 02:47 [financialjuice] Senior White House official to Al Jazeera: No meeting with the Iranians on President Trump's schedule, but he is open to it
-- 09/23 02:48 [financialjuice] Trump: Have a good relationship with Zelenskyy.
-- 09/23 02:48 [financialjuice] Trump: Zelenskiy and I are figuring out a solution to end the war
-- 09/23 02:48 [FirstSquawk] TRUMP SAYS HE AND ZELENSKIY ARE FIGURING OUT A SOLUTION TO END THE WAR
-- 09/23 02:49 [FirstSquawk] TRUMP SAYS US RELATIONSHIP WITH UKRAINE & EUROPE IS ‘VERY STRONG’
-- 09/23 02:49 [FirstSquawk] WHITE HOUSE OFFICIAL: NO MEETING WITH IRANIAN OFFICIALS ON TRUMP’S SCHEDULE, BUT HE IS OPEN TO ONE — AL JAZEERA
-- 09/23 02:50 [financialjuice] Trump: Zelenskiy and I Working on Solution to End War; Ukraine Will Make a Deal; Discuss It Often, Including With Putin
-- 09/23 02:50 [FirstSquawk] TRUMP SAYS HE AND ZELENSKIY ARE WORKING ON A SOLUTION TO END THE WAR AND THAT UKRAINE 'WILL MAKE A DEAL', ADDING THAT HE DISCUSSES IT OFTEN, INCLUDING WITH PUTIN
-- 09/23 02:50 [financialjuice] Trump: Strikes inside russia on refining capacity are a serious hit on the Russians and a serious hit on Diesel prices.
-- 09/23 02:51 [FirstSquawk] TRUMP SAYS US STRIKES ON RUSSIAN REFINING CAPACITY ARE A ‘SERIOUS HIT’ TO RUSSIA & DIESEL PRICES
-- 09/23 02:51 [financialjuice] Trump on ban on Diesel exports: I've called for that too.
-- 09/23 02:51 [FirstSquawk] TRUMP BACKS CALL FOR BAN ON US DIESEL EXPORTS, SAYING ‘I’VE CALLED FOR THAT TOO’
-- 09/23 02:51 [financialjuice] US Treasury Secretary Bessent: Examining Diesel export ban, whether it's feasible.
-- 09/23 02:52 [FirstSquawk] US TREASURY SECRETARY BESSENT: ADMINISTRATION EXAMINING DIESEL EXPORT BAN & WHETHER IT IS FEASIBLE
-- 09/23 02:52 [financialjuice] US Treasury Secretary Bessent on Diesel: Examining whether a full or partial ban would work.
-- 09/23 02:52 [financialjuice] Trump: We'll continue to go with Canada on Potash.
-- 09/23 02:53 [financialjuice] ❗ Trump: US officials met with iranian delegation met earlier for three hours
-- 09/23 02:53 [financialjuice] ❗ Trump: The Iran meeting went very well
-- 09/23 02:54 [financialjuice] ❗ Trump: US officials met with an Iranian delegation earlier for three hours.
-- 09/23 02:54 [FirstSquawk] TRUMP SAYS THE IRAN MEETING 'WENT VERY WELL', ADDING THAT U.S. OFFICIALS MET WITH AN IRANIAN DELEGATION EARLIER FOR THREE HOURS
-- 09/23 02:55 [financialjuice] Trump: The Iran meeting was very productive; another is scheduled in the near future.
-- 09/23 02:55 [financialjuice] US Envoy Witkoff on Iran meeting: Feel very good right now.
-- 09/23 02:55 [FirstSquawk] TRUMP SAYS IRAN MEETING WAS ‘VERY PRODUCTIVE’; ANOTHER MEETING SCHEDULED SOON
-- 09/23 02:56 [FirstSquawk] TRUMP SAYS HE WILL DISCUSS PATRIOT MISSILES WITH ZELENSKIY
-- 09/23 02:56 [financialjuice] Trump ends remarks to reporters.
-- 09/23 02:57 [FirstSquawk] TRUMP SAYS HE AND UKRAINIAN PRESIDENT VOLODYMYR ZELENSKIY ARE WORKING ON A SOLUTION TO END THE WAR, WHILE SAYING RUSSIAN REFINERY STRIKES ARE A SERIOUS BLOW TO MOSCOW AND ARE IMPACTING DIESEL PRICES.
-- 09/23 02:57 [FirstSquawk] TRUMP SAYS PUTIN IS WILLING TO MEET TO DISCUSS ENDING THE WAR, WHILE HE PLANS TO DISCUSS PATRIOT MISSILES WITH ZELENSKIY; TREASURY SECRETARY SCOTT BESSENT SAYS THE ADMINISTRATION IS EXAMINING A POSSIBLE BAN ON DIESEL EXPORTS.
-- 09/23 02:58 [financialjuice] US Treasury Secretary Bessent eyed for Trump’s ‘AI Czar’- Semafor
 - 09/23 02:58 [financialjuice/FirstSquawk] EU's Foreign Minister Kallas: Met with Iranian Foreign Minister Araghchi and addressed diplomatic prospects for ending the US-Iran war.
 - 09/23 02:59 [FirstSquawk] BESSENT EMERGES AS FRONTRUNNER FOR TRUMP’S NEW ‘AI CZAR’ ROLE — SEMAFOR
 - 09/23 03:01 [FirstSquawk] FLIGHTS FROM TEHRAN TO BAGHDAD AND MUSCAT HAVE BEEN CANCELLED STARTING WEDNESDAY MIDNIGHT LOCAL TIME, IRAN'S TASNIM NEWS AGENCY SAYS, ADDING THAT IRAN IS WORKING ON DIVERTING BAGHDAD FLIGHTS TO NAJAF, WITH REMAINING INTERNATIONAL FLIGHTS IN…
@@ -721,3 +692,4 @@
 - 09/24 02:41 [DeItaone] WHITE HOUSE OFFICIAL SAYS REPORT THAT US IS CONSIDERING A DIESEL EXPORT BAN IS 'FAKE NEWS'
 - 09/24 02:41 [FirstSquawk] WHITE HOUSE OFFICIAL: REPORTS OF US CONSIDERING DIESEL EXPORT BAN ARE “FAKE NEWS”
 - 09/24 02:42 [financialjuice] ❗ White House Official: Report that US is considering a diesel export ban is 'fake news'.
+- 09/24 02:48 [DeItaone] MCDONALD’S CEO: HIGH INFLATION IS HERE TO STAY McDonald’s CEO Chris Kempczinski says weak customer traffic and persistent inflation are becoming the new normal for the restaurant industry. U.S. same-store sales rose just 0.8% last quarter, …
