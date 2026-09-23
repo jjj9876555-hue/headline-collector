@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 20:17 JST／対象: 09/22 20:17 〜 09/23 20:17 JST（時刻はすべて日本時間）
+生成: 2026-09-23 20:33 JST／対象: 09/22 20:33 〜 09/23 20:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 25 | 09/22 20:19 | 09/23 20:05 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 342 | 09/22 20:20 | 09/23 20:10 | ⚠ 77分（05:40→06:58） |
+| DeItaone | 23 | 09/22 20:41 | 09/23 20:05 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 344 | 09/22 20:40 | 09/23 20:28 | ⚠ 77分（05:40→06:58） |
 | financialjuice | 313 | 09/22 20:54 | 09/23 20:03 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 20:19 [DeItaone] CATHIE WOOD SHRUGS OFF FED RATE-HIKE FEARS ARK Invest CEO Cathie Wood says higher interest rates won’t derail the technology boom, arguing rapid innovation will drive stronger economic growth. Wood expects the current tech revolution to red…
-- 09/22 20:20 [DeItaone] CHINA PROBES DEEPSEEK, MOONSHOT OVER POTENTIAL DATA LEAKS TO ANTHROPIC - THE INFORMATION ANTHROPIC ALLEGED DEEPSEEK, MOONSHOT ROUTED SENSITIVE DATA TO CLAUDE- THE INFORMATION
-- 09/22 20:20 [FirstSquawk] CHINA PROBES DEEPSEEK ON CLAUDE USER DATA ROUTING: INFORMATION
-- 09/22 20:23 [FirstSquawk] Rumors of Negotiations Pull Oil Prices Down The simultaneous publication of positive news regarding Iran-US negotiations and the potential reopening of the Strait of Hormuz once again impacted the oil market and drove prices down. Most rece…
 - 09/22 20:40 [FirstSquawk] RUBIO, ASKED ABOUT IRAN: NEVER CLOSE THE DOOR TO DIPLOMACY
 - 09/22 20:40 [FirstSquawk] RUBIO: IRAN'S ECONOMY IS BEING CRIPPLED BY SANCTIONS
 - 09/22 20:41 [DeItaone] RUBIO: INTEND TO LIVE UP TO COMMITMENTS WITH SAUDI ARABIA -FOX NEWS INTERVIEW
@@ -686,3 +682,7 @@
 - 09/23 20:05 [DeItaone] TRUMP WEIGHS DIESEL EXPORT CURBS AS PRICES HIT RECORD President Trump says he is considering restricting U.S. diesel exports as prices reach a record $6.53 per gallon. Oil companies are pushing back, warning restrictions could force refiner…
 - 09/23 20:07 [FirstSquawk] WHITE HOUSE CONSIDERS BAN ON DIESEL EXPORTS AS PRICES KEEP RISING - WSJ
 - 09/23 20:10 [FirstSquawk] TRUMP’S OIL ALLIES SEE NIGHTMARE SCENARIO OF DIESEL-EXPORT BAN BECOMING REALITY – WSJ
+- 09/23 20:18 [FirstSquawk] RYANAIR CEO O'LEARY: WE ARE EXPECTED TO GET OUR FIRST 15 MAX 10 AIRCRAFT IN THE SPRING, WE EXPECT THOSE TO BE CERTIFIED IN THE NEXT FEW WEEKS
+- 09/23 20:22 [FirstSquawk] UBS FACES $17B EXTRA CAPITAL AFTER PARLIAMENT VOTE, GOLDMAN SAYS - BBG
+- 09/23 20:24 [FirstSquawk] NASDAQ 100 FUTURES HIT SESSION LOW, DOWN 0.2%
+- 09/23 20:28 [FirstSquawk] INFLOWS INTO US SPOT BITCOIN ETF HAVE TURNED POSITIVE THIS YEAR AS THE RECOVERY OF BITCOIN BOOSTS INVESTOR INTEREST.
