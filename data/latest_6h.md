@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 05:58 JST／対象: 09/23 23:58 〜 09/24 05:58 JST（時刻はすべて日本時間）
+生成: 2026-09-24 06:17 JST／対象: 09/24 00:17 〜 09/24 06:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/24 00:00 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 80 | 09/24 00:08 | 09/24 05:26 | 34分（01:56→02:31） |
-| financialjuice | 74 | 09/24 00:01 | 09/24 05:39 | 22分（02:06→02:28） |
+| DeItaone | 21 | 09/24 00:43 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 78 | 09/24 00:18 | 09/24 05:26 | 34分（01:56→02:31） |
+| financialjuice | 70 | 09/24 00:17 | 09/24 05:39 | 22分（02:06→02:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 176 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 167 行（統合前 170 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 00:00 [DeItaone] RUBIO: WILL BE OPPORTUNITY FOR TRUMP TO INTERACT WITH CHINA AGAIN LATER THIS YEAR AT APEC AND G20
-- 09/24 00:01 [financialjuice] US Secretary of State Rubio: There will be an opportunity for Trump to interact with China again later this year at APEC and the G20.
-- 09/24 00:01 [financialjuice] ❗ US Treasury to buy back up to $6B in longer-dated debt on Thursday; previously said buyback would be at least $4B.
-- 09/24 00:01 [DeItaone] THIRTY-YEAR TREASURY YIELD REACHES 5.367%, ON PACE FOR HIGHEST SETTLEMENT SINCE JUNE 2004
-- 09/24 00:02 [financialjuice] US Treasury will buy up to $6 bln of 20-30 year debt in September 24th liquidity buyback.
-- 09/24 00:03 [financialjuice] US Secretary of State Rubio: Iran talks are being impeded by the IRGC Leaders.
-- 09/24 00:08 [FirstSquawk] US SEC. OF STATE RUBIO: APEC AND G20 WILL BE OPPORTUNITIES FOR TRUMP TO INTERACT WITH CHINA
-- 09/24 00:11 [DeItaone] ARGENTINE PRESIDENT JAVIER MILEI SAYS THE UN HAS BECOME A “USELESS ORGANIZATION”
-- 09/24 00:13 [FirstSquawk] MCDONALD'S NET NEW UNIT GROWTH SEEN AT APPROX. 4.5% IN 2027
 - 09/24 00:17 [financialjuice/FirstSquawk] IIF: Emerging market debt jumps $6.5 trillion to more than $110 trillion in H1, led by China.
 - 09/24 00:17 [financialjuice] IIF: Global debt tops record $365 trillion in first half of 2026, emerging markets drive bulk of rise.
 - 09/24 00:18 [FirstSquawk] GLOBAL DEBT TOPS RECORD $365 TRILLION IN FIRST HALF OF 2026, EMERGING MARKETS DRIVE BULK OF RISE, SAYS IIF

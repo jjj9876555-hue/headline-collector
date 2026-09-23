@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 05:58 JST／対象: 09/23 17:58 〜 09/24 05:58 JST（時刻はすべて日本時間）
+生成: 2026-09-24 06:17 JST／対象: 09/23 18:17 〜 09/24 06:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 172 | 09/23 18:06 | 09/24 05:26 | 34分（01:56→02:31） |
-| financialjuice | 168 | 09/23 18:00 | 09/24 05:39 | ⚠ 71分（18:33→19:45） |
+| FirstSquawk | 166 | 09/23 18:22 | 09/24 05:26 | 34分（01:56→02:31） |
+| financialjuice | 167 | 09/23 18:23 | 09/24 05:39 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 405 行（統合前 425 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 398 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 18:00 [financialjuice] China's Xi departs Beijing for US visit - Chinese state media
-- 09/23 18:06 [FirstSquawk] ECB'S MAKHLOUF: NOT SEEING SECOND-ROUND EFFECTS YET - RTE RADIO || IF ENERGY COSTS FEED THROUGH, ECB WILL HAVE TO ACT || UNCOMFORTABLE WITH ECB OUTLOOK FOR INFLATION OVER 3%
-- 09/23 18:13 [FirstSquawk] KREMLIN STATES UK'S BURNHAM UN REMARKS FUELLED ANTI-RUSSIAN FEELINGS AND DID NOT HELP EASE TENSIONS IN EUROPE.
-- 09/23 18:13 [FirstSquawk] KREMLIN STATES THAT CONDITIONS FOR UKRAINE PEACE NEGOTIATIONS ARE STILL NOT READY.
-- 09/23 18:13 [FirstSquawk] KREMLIN ANNOUNCES NO SPECIFIC PLANS FOR HIGH-LEVEL UKRAINE MEETINGS.
-- 09/23 18:13 [FirstSquawk] KREMLIN STATES UKRAINIAN PRESIDENT MUST VISIT MOSCOW FOR FUTURE DISCUSSIONS AFTER DECISIONS MADE.
-- 09/23 18:13 [FirstSquawk] L&G PLANS TO REDUCE AROUND 10% OF ITS STAFF TO INCREASE EFFICIENCY.
 - 09/23 18:22 [FirstSquawk/financialjuice] TRUMP BOARD OF PEACE TO UNVEIL $2.45B GAZA RECOVERY PLAN - AXIOS
 - 09/23 18:23 [financialjuice] Gaza plan to be presented to members on Wednesday - Axios
 - 09/23 18:24 [DeItaone] TRUMP'S BOARD OF PEACE TO UNVEIL $2.45 BILLION GAZA RECOVERY PLAN- AXIOS
