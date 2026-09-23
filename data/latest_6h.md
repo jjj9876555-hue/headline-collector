@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 15:23 JST／対象: 09/23 09:23 〜 09/23 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-23 15:42 JST／対象: 09/23 09:42 〜 09/23 15:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 90 | 09/23 09:26 | 09/23 15:23 | 15分（14:20→14:36） |
+| FirstSquawk | 88 | 09/23 09:42 | 09/23 15:33 | 15分（14:20→14:36） |
 | financialjuice | 27 | 09/23 10:01 | 09/23 15:22 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 117 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 115 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 09:26 [FirstSquawk] Asian-Pacific U.S. equity futures remained broadly steady late Tuesday, with oil prices and bond yields easing amid hopes of a potential U.S.-Iran de-escalation.
-- 09/23 09:35 [FirstSquawk] Gold gains as markets focus on easing oil prices - WSJ
-- 09/23 09:35 [FirstSquawk] U.S. crackdown threatens Americans’ access to low-cost Canadian prescriptions - WSJ
 - 09/23 09:42 [FirstSquawk] WTI crude falls toward $89 amid focus on Trump’s UN speech - FX
 - 09/23 09:43 [FirstSquawk] Samsung Electronics stock jumps 3%
 - 09/23 09:48 [FirstSquawk] Iranian and U.S. officials meet for rare discussions on the Strait of Hormuz, according to Al Jazeera
@@ -141,3 +138,4 @@
 - 09/23 15:21 [FirstSquawk] Oil price on track for longest losing streak in more than 12 months - FT
 - 09/23 15:22 [financialjuice] Iran's Deputy Oil Minister: Half of the damaged capacity of the South Pars gas field is back in production - Fars News
 - 09/23 15:23 [FirstSquawk] Half of damaged South Pars gas capacity resumes production, Iran says - Fars News
+- 09/23 15:33 [FirstSquawk] TotalEnergies starts Ima gas project to support Nigeria LNG plant

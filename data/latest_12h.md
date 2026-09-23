@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 15:23 JST／対象: 09/23 03:23 〜 09/23 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-23 15:42 JST／対象: 09/23 03:42 〜 09/23 15:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 196 | 09/23 03:35 | 09/23 15:23 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 106 | 09/23 03:31 | 09/23 15:22 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 195 | 09/23 03:43 | 09/23 15:33 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 102 | 09/23 03:44 | 09/23 15:22 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 299 行（統合前 305 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 294 行（統合前 300 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $94.59 a barrel down $1.19, 1.24%
-- 09/23 03:31 [financialjuice] NYMEX diesel Oct. futures settle at $4.9421 a gallon
-- 09/23 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.4875 a gallon
-- 09/23 03:31 [financialjuice] NYMEX nat Gas Oct. futures settle at $2.9650/MMBTU
-- 09/23 03:35 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.24% LOWER AT $94.59/BBL, DOWN $1.19
-- 09/23 03:36 [FirstSquawk] OPENAI INTRODUCES GPT-6 SOL & LUNA, EXPANDING THE GPT-6 MODEL FAMILY
 - 09/23 03:43 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 1.09% LOWER AT $99.25/BBL, DOWN $1.09
 - 09/23 03:44 [financialjuice] Brent Crude futures settle at $99.25/bbl, down $1.09, 1.09%
 - 09/23 03:45 [FirstSquawk] INDIA’S PM MODI EXPECTED TO VISIT CANADA IN DECEMBER TO SIGN TRADE DEAL — GLOBE & MAIL
@@ -323,3 +317,4 @@
 - 09/23 15:21 [FirstSquawk] Oil price on track for longest losing streak in more than 12 months - FT
 - 09/23 15:22 [financialjuice] Iran's Deputy Oil Minister: Half of the damaged capacity of the South Pars gas field is back in production - Fars News
 - 09/23 15:23 [FirstSquawk] Half of damaged South Pars gas capacity resumes production, Iran says - Fars News
+- 09/23 15:33 [FirstSquawk] TotalEnergies starts Ima gas project to support Nigeria LNG plant
