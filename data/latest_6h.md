@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 13:44 JST／対象: 09/23 07:44 〜 09/23 13:44 JST（時刻はすべて日本時間）
+生成: 2026-09-23 13:58 JST／対象: 09/23 07:58 〜 09/23 13:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 113 | 09/23 08:04 | 09/23 13:42 | 11分（10:59→11:10） |
+| FirstSquawk | 115 | 09/23 08:04 | 09/23 13:49 | 11分（10:59→11:10） |
 | financialjuice | 33 | 09/23 08:00 | 09/23 13:39 | ⚠ 54分（11:44→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 146 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 148 行（統合前 148 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -170,3 +170,5 @@
 - 09/23 13:39 [financialjuice] Dutch final Q2 GDP rises 1.6% y/y nsa vs preliminary 1.3%: CBS
 - 09/23 13:41 [FirstSquawk] Strait of Hormuz shipping traffic plunges to three ships on Tuesday - Kepler Data
 - 09/23 13:42 [FirstSquawk] Berenberg lifts Kingfisher target price to 320p from 295p
+- 09/23 13:45 [FirstSquawk] Berenberg lifts Smiths Group target price to 3,200p from 3,000p
+- 09/23 13:49 [FirstSquawk] RBC lifts Standard Life target price to 970p from 885p

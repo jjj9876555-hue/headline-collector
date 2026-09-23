@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 13:44 JST／対象: 09/22 13:44 〜 09/23 13:44 JST（時刻はすべて日本時間）
+生成: 2026-09-23 13:58 JST／対象: 09/22 13:58 〜 09/23 13:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 348 | 09/22 13:56 | 09/23 13:42 | ⚠ 77分（05:40→06:58） |
+| FirstSquawk | 348 | 09/22 14:02 | 09/23 13:49 | ⚠ 77分（05:40→06:58） |
 | financialjuice | 316 | 09/22 14:02 | 09/23 13:39 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 13:56 [FirstSquawk] RBC downgrades Burberry to Sector Perform from Outperform, cuts target to 1,200p from 1,400p
-- 09/22 13:58 [FirstSquawk] Novo Nordisk target price cut to DKK 275 from DKK 285 by Jefferies
 - 09/22 14:02 [FirstSquawk] Roche reports positive Phase II results for enicepatide in type 2 diabetes and overweight or obesity
 - 09/22 14:02 [financialjuice] ECB releases media interview with Le Temps
 - 09/22 14:03 [FirstSquawk] ECB releases an interview with Le Temps
@@ -697,3 +695,5 @@
 - 09/23 13:39 [financialjuice] Dutch final Q2 GDP rises 1.6% y/y nsa vs preliminary 1.3%: CBS
 - 09/23 13:41 [FirstSquawk] Strait of Hormuz shipping traffic plunges to three ships on Tuesday - Kepler Data
 - 09/23 13:42 [FirstSquawk] Berenberg lifts Kingfisher target price to 320p from 295p
+- 09/23 13:45 [FirstSquawk] Berenberg lifts Smiths Group target price to 3,200p from 3,000p
+- 09/23 13:49 [FirstSquawk] RBC lifts Standard Life target price to 970p from 885p
