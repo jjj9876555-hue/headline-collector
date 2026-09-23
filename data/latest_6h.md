@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 14:46 JST／対象: 09/23 08:46 〜 09/23 14:46 JST（時刻はすべて日本時間）
+生成: 2026-09-23 14:58 JST／対象: 09/23 08:58 〜 09/23 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 104 | 09/23 08:47 | 09/23 14:44 | 15分（14:20→14:36） |
-| financialjuice | 28 | 09/23 09:05 | 09/23 13:39 | ⚠ 54分（11:44→12:39） |
+| FirstSquawk | 103 | 09/23 08:59 | 09/23 14:57 | 15分（14:20→14:36） |
+| financialjuice | 29 | 09/23 09:05 | 09/23 14:52 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 132 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,9 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 08:47 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN 1% TO $89.60/BBL ON HOPES OF INCREASED GULF SUPPLIES
-- 09/23 08:57 [FirstSquawk] ISRAELI AIRSTRIKES & ARTILLERY HIT SOUTHERN LEBANON; LOUD EXPLOSION REPORTED IN KHIAM AMID STRIKES — MEHR
-- 09/23 08:57 [FirstSquawk] UK PM BURNHAM: BRITAIN WILL STAND FIRM IN DEFENDING ITS PEOPLE & ALLIES — AL JAZEERA
 - 09/23 08:59 [FirstSquawk] U.S. SPECIAL ENVOY STEVE WITKOFF SAYS THAT TODAY, ON THE SIDELINES OF THE UNITED NATIONS GENERAL ASSEMBLY, 'WE ENGAGED IN LENGTHY TALKS WITH THE IRANIAN DELEGATION THROUGH THE MEDIATORS, WHO SHUTTLED BETWEEN THE TWO SIDES THROUGHOUT THE DAY…
 - 09/23 08:59 [FirstSquawk] U.S. SPECIAL ENVOY STEVE WITKOFF SAYS THEY 'SUCCESSFULLY COMPLETED A ROUND OF DISCUSSIONS THAT WE HOPE WILL PROVE CONSTRUCTIVE AND PROMISING', ADDING THAT 'THE MEDIATORS WILL CONTINUE THEIR WORK'.
 - 09/23 09:00 [FirstSquawk] JAPAN'S PRIME MINISTER SANAE TAKAICHI SAYS 'THE CATASTROPHIC CONSEQUENCES OF NUCLEAR WEAPONS MUST NEVER BE REPEATED', ADDING THAT IT IS JAPAN'S MISSION, 'AS THE ONLY COUNTRY TO EVER SUFFER ATOMIC BOMBINGS DURING WAR, TO LEAD THE EFFORTS OF …
@@ -156,3 +153,6 @@
 - 09/23 14:36 [FirstSquawk] Eleven killed and three injured in KwaZulu-Natal shooting, South African police say
 - 09/23 14:41 [FirstSquawk] Brazil, Germany, India and Japan urge greater focus on UN Security Council reform amid geopolitical challenges - REUTERS REPORT
 - 09/23 14:44 [FirstSquawk] Poland’s Lublin, Rzeszów airports resume air operations following temporary military-related closure - PANSA
+- 09/23 14:46 [FirstSquawk] NHC says Category 5 Polo is stationary off Mexico’s southwestern coast
+- 09/23 14:52 [financialjuice] UK's PM Burnham and Zelenskyy spoke about a proposal for an energy ceasefire
+- 09/23 14:57 [FirstSquawk] Philippine Senate cuts required votes for conviction in VP Duterte impeachment trial

@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 14:46 JST／対象: 09/22 14:46 〜 09/23 14:46 JST（時刻はすべて日本時間）
+生成: 2026-09-23 14:58 JST／対象: 09/22 14:58 〜 09/23 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 353 | 09/22 14:54 | 09/23 14:44 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 308 | 09/22 15:00 | 09/23 13:39 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 354 | 09/22 15:01 | 09/23 14:57 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 309 | 09/22 15:00 | 09/23 14:52 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 670 行（統合前 692 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 672 行（統合前 694 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 14:54 [FirstSquawk] Morgan Stanley lowers Ericsson rating to Underweight from Equal Weight
 - 09/22 15:00 [financialjuice] UK PSNB EX BANKS ACTUAL 18.268B (FORECAST -, PREVIOUS 1.800B) $MACRO
 - 09/22 15:01 [FirstSquawk] UK ( AUG) PUBLIC FINANCES (PSNCR) ACTUAL: 10B VS -29B PREVIOUS
 - 09/22 15:01 [FirstSquawk] UK ( AUG) CENTRAL GOVERNMENT NCR ACTUAL: 10B VS 2.8B PREVIOUS
@@ -694,3 +693,6 @@
 - 09/23 14:36 [FirstSquawk] Eleven killed and three injured in KwaZulu-Natal shooting, South African police say
 - 09/23 14:41 [FirstSquawk] Brazil, Germany, India and Japan urge greater focus on UN Security Council reform amid geopolitical challenges - REUTERS REPORT
 - 09/23 14:44 [FirstSquawk] Poland’s Lublin, Rzeszów airports resume air operations following temporary military-related closure - PANSA
+- 09/23 14:46 [FirstSquawk] NHC says Category 5 Polo is stationary off Mexico’s southwestern coast
+- 09/23 14:52 [financialjuice] UK's PM Burnham and Zelenskyy spoke about a proposal for an energy ceasefire
+- 09/23 14:57 [FirstSquawk] Philippine Senate cuts required votes for conviction in VP Duterte impeachment trial
