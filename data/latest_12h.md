@@ -7,39 +7,25 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 15:57 JST／対象: 09/23 03:57 〜 09/23 15:57 JST（時刻はすべて日本時間）
+生成: 2026-09-23 16:18 JST／対象: 09/23 04:18 〜 09/23 16:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 194 | 09/23 03:58 | 09/23 15:51 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 95 | 09/23 04:02 | 09/23 15:22 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 187 | 09/23 04:23 | 09/23 16:04 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 94 | 09/23 04:21 | 09/23 16:15 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 286 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 279 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 03:58 [FirstSquawk] AN IRANIAN OFFICIAL, RESPONDING TO TRUMP'S CLAIMS, SAYS IRAN IS 'READY FOR ESCALATION IN CASE OF ENEMY AGGRESSION', ADDING THAT THE U.S. 'HAS NOT SET ANY RED LINES IN THE REGION' AND THAT IRAN IS PREPARED FOR ALL POSSIBLE SCENARIOS - FARS N…
-- 09/23 03:59 [FirstSquawk] U.S. SOURCES CITED BY ISRAEL HAYOM NEWS SAY A PRE-PLANNED MEETING BETWEEN U.S. REPRESENTATIVES AND ARAGHCHI'S IRANIAN TEAM — WITH QATAR'S PM PRESENT FOR MOST OF IT — DISCUSSED RESUMING TALKS AND OPENING THE STRAIT OF HORMUZ, BUT REACHED NO …
-- 09/23 04:00 [FirstSquawk] ZELENSKIY SAYS HE AND TRUMP DISCUSSED AN ENERGY CEASEFIRE AND WAYS TO END THE WAR, WITH UKRAINE READY FOR ANY FORMAT OF AN AGREEMENT AND HOPING THE U.S. CAN BRING RUSSIA INTO NEGOTIATIONS.
-- 09/23 04:00 [FirstSquawk] ZELENSKIY ALSO DISCUSSED WINTER PREPARATIONS AND REQUESTED A WINTER PACKAGE OF PATRIOT MISSILES, SAYING UKRAINE NEEDS LICENSES FOR PATRIOT PRODUCTION AND SECURITY GUARANTEES.
-- 09/23 04:02 [financialjuice] On Thursday, Israel's Prime Minister Netanyahu will be in New York for a few hours, no significant meetings - Israel's N12 News
-- 09/23 04:03 [FirstSquawk] ISRAEL PM NETANYAHU TO SPEND FEW HOURS IN NEW YORK ON THURSDAY, WITH NO SIGNIFICANT MEETINGS PLANNED — N12 NEWS
-- 09/23 04:03 [FirstSquawk] ZELENSKIY REITERATES READINESS FOR TRILATERAL MEETING WITH PUTIN & TRUMP
-- 09/23 04:06 [financialjuice] Senators: Trump must end China’s access to advanced chips.
-- 09/23 04:06 [FirstSquawk] ZELENSKIY SAYS TRUMP DID NOT ASK UKRAINE TO UNILATERALLY HALT ENERGY STRIKES
-- 09/23 04:08 [FirstSquawk] ZELENSKIY: PUTIN IS NOT WINNING ON THE BATTLEFIELD
-- 09/23 04:09 [financialjuice] WATCH LIVE: Trump Participates in a Shield of the Americas Event
-- 09/23 04:09 [FirstSquawk] US SENATORS CALL ON TRUMP TO END CHINA’S ACCESS TO ADVANCED CHIPS
-- 09/23 04:12 [financialjuice] Trump: Witkoff and Kushner met with Iran. Lots of good thoughts.
-- 09/23 04:16 [financialjuice/FirstSquawk] Jordan's King joins Trump-hosted meeting with Arab and Islamic leaders on the sidelines of UNGA - Royal Court
-- 09/23 04:17 [financialjuice] Trump on Shield of The Americas: Must secure control of our own energy pipelines.
 - 09/23 04:21 [financialjuice] Wednesday FX Options Expiries
+- 09/23 04:23 [FirstSquawk] JORDAN'S KING JOINS TRUMP-HOSTED MEETING WITH ARAB AND ISLAMIC LEADERS ON THE SIDELINES OF UNGA - ROYAL COURT
 - 09/23 04:23 [FirstSquawk] TRUMP: WITKOFF & KUSHNER MET WITH IRAN; ‘LOTS OF GOOD THOUGHTS’
 - 09/23 04:23 [FirstSquawk] TRUMP ON ‘SHIELD OF THE AMERICAS’: US MUST SECURE CONTROL OF ITS OWN ENERGY PIPELINES
 - 09/23 04:24 [financialjuice] ❗ Iran's conditions for reopening the Strait of Hormuz include immediate lifting of the maritime blockade, immediate payment of all frozen Iranian assets and an end to the war on all fronts - IRIB
@@ -310,3 +296,10 @@
 - 09/23 15:23 [FirstSquawk] Half of damaged South Pars gas capacity resumes production, Iran says - Fars News
 - 09/23 15:33 [FirstSquawk] TotalEnergies starts Ima gas project to support Nigeria LNG plant
 - 09/23 15:51 [FirstSquawk] GBP/USD tests support near 1.3300, UOB says
+- 09/23 16:01 [financialjuice] Currency Strength Chart: Strongest: USD, CAD, CHF, JPY, GBP, EUR, AUD, NZD - Weakest
+- 09/23 16:03 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.34% || FRANCE'S CAC 40 UP 0.39% || SPAIN'S IBEX UP 0.59%
+- 09/23 16:04 [FirstSquawk] GERMANY'S DAX UP 0.6%
+- 09/23 16:05 [financialjuice] Italy plans to stick with its commitment to keep the deficit below the EU's 3% of GDP ceiling this year, from 3.1% in 2025 - Sources
+- 09/23 16:15 [financialjuice] FRENCH COMP FLASH PMI ACTUAL 51.2 (FORECAST 48.7, PREVIOUS 48.5) $MACRO
+- 09/23 16:15 [financialjuice] FRENCH SERVICES PMI FLASH ACTUAL 51.4 (FORECAST 48.3, PREVIOUS 48.0) $MACRO
+- 09/23 16:15 [financialjuice] ‼ BREAKING: FRENCH MANUFACTURING PMI FLASH ACTUAL 50.3 (FORECAST 51, PREVIOUS 51.1) $MACRO

@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 15:57 JST／対象: 09/23 09:57 〜 09/23 15:57 JST（時刻はすべて日本時間）
+生成: 2026-09-23 16:18 JST／対象: 09/23 10:18 〜 09/23 16:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 81 | 09/23 09:59 | 09/23 15:51 | 18分（15:33→15:51） |
-| financialjuice | 27 | 09/23 10:01 | 09/23 15:22 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 75 | 09/23 10:22 | 09/23 16:04 | 18分（15:33→15:51） |
+| financialjuice | 28 | 09/23 10:21 | 09/23 16:15 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 108 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 103 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 09:59 [FirstSquawk] Kallas and Iran’s Araghchi discuss reopening Strait of Hormuz and ending U.S.-Iran war - Al Jazeera
-- 09/23 10:00 [FirstSquawk] Morocco’s foreign minister: Armed groups’ role has increased significantly
-- 09/23 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.804% unchanged from previous session open
-- 09/23 10:01 [FirstSquawk] Taiwan overnight interbank rate holds at 0.804% at the open
-- 09/23 10:03 [financialjuice] Meta takes action on 3.7 million accounts, pages, and content with Singapore police force
-- 09/23 10:05 [FirstSquawk] Meta acts against 3.7 million accounts, pages and content in coordination with Singapore Police
-- 09/23 10:13 [FirstSquawk] Gold holds steady as higher-for-longer rate outlook pressures sentiment - Reuters
-- 09/23 10:13 [financialjuice] South Korean President Lee to meet US President Trump on sidelines of UN General Assembly - media
-- 09/23 10:14 [FirstSquawk] South Korea’s Lee to hold talks with Trump on sidelines of UN General Assembly - media
-- 09/23 10:15 [financialjuice] South Korean president Lee holds 30-minute meeting with Trump: S. Korea presidential office
-- 09/23 10:15 [FirstSquawk] South Korean President Lee meets Trump for 30 minutes, presidential office says
-- 09/23 10:16 [FirstSquawk] China’s PBOC sets yuan reference rate at 6.7468 per dollar
 - 09/23 10:21 [financialjuice] China injects 8 bln yuan with 7-day reverse repos at 1.40% vs prior 1.40%: statement
 - 09/23 10:22 [FirstSquawk] South Korea’s Lee, Trump hail major progress in talks on strategic investment projects
 - 09/23 10:22 [FirstSquawk] Lee highlights importance of U.S.-China summit for regional affairs, presidential office says
@@ -132,3 +120,10 @@
 - 09/23 15:23 [FirstSquawk] Half of damaged South Pars gas capacity resumes production, Iran says - Fars News
 - 09/23 15:33 [FirstSquawk] TotalEnergies starts Ima gas project to support Nigeria LNG plant
 - 09/23 15:51 [FirstSquawk] GBP/USD tests support near 1.3300, UOB says
+- 09/23 16:01 [financialjuice] Currency Strength Chart: Strongest: USD, CAD, CHF, JPY, GBP, EUR, AUD, NZD - Weakest
+- 09/23 16:03 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.34% || FRANCE'S CAC 40 UP 0.39% || SPAIN'S IBEX UP 0.59%
+- 09/23 16:04 [FirstSquawk] GERMANY'S DAX UP 0.6%
+- 09/23 16:05 [financialjuice] Italy plans to stick with its commitment to keep the deficit below the EU's 3% of GDP ceiling this year, from 3.1% in 2025 - Sources
+- 09/23 16:15 [financialjuice] FRENCH COMP FLASH PMI ACTUAL 51.2 (FORECAST 48.7, PREVIOUS 48.5) $MACRO
+- 09/23 16:15 [financialjuice] FRENCH SERVICES PMI FLASH ACTUAL 51.4 (FORECAST 48.3, PREVIOUS 48.0) $MACRO
+- 09/23 16:15 [financialjuice] ‼ BREAKING: FRENCH MANUFACTURING PMI FLASH ACTUAL 50.3 (FORECAST 51, PREVIOUS 51.1) $MACRO

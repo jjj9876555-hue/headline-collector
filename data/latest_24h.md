@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 15:57 JST／対象: 09/22 15:57 〜 09/23 15:57 JST（時刻はすべて日本時間）
+生成: 2026-09-23 16:18 JST／対象: 09/22 16:18 〜 09/23 16:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 351 | 09/22 16:07 | 09/23 15:51 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 308 | 09/22 16:01 | 09/23 15:22 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 351 | 09/22 16:32 | 09/23 16:04 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 309 | 09/22 16:25 | 09/23 16:15 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 668 行（統合前 690 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 669 行（統合前 691 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 16:01 [financialjuice] Currency Strength Chart: Strongest: NZD, CAD, GBP, CHF, USD, EUR, AUD, GBP - Weakest
-- 09/22 16:07 [FirstSquawk] SAUDI: DANGER HAS PASSED IN NAJRAN PROVINCE
-- 09/22 16:07 [FirstSquawk] SAUDI CIVIL DEFENSE: ALERTS OF POTENTIAL DANGER IN NAJRAN AREA- STATEMENT
-- 09/22 16:11 [financialjuice] UBS CEO Ermotti: AT1 proposal still increases costs for us
-- 09/22 16:11 [financialjuice] UBS CEO: The fee pool is going to be down
-- 09/22 16:16 [financialjuice] Turkey and the US to cooperate on small modular reactors - Ministry
 - 09/22 16:25 [financialjuice] UBS CEO: I see 'great momentum’ in wealth creation in the US
 - 09/22 16:26 [financialjuice] UBS CEO: Attrition of financial advisers in the US is plateauing
 - 09/22 16:26 [financialjuice] UBS CEO: AI will be important for us to bring down costs
@@ -692,3 +686,10 @@
 - 09/23 15:23 [FirstSquawk] Half of damaged South Pars gas capacity resumes production, Iran says - Fars News
 - 09/23 15:33 [FirstSquawk] TotalEnergies starts Ima gas project to support Nigeria LNG plant
 - 09/23 15:51 [FirstSquawk] GBP/USD tests support near 1.3300, UOB says
+- 09/23 16:01 [financialjuice] Currency Strength Chart: Strongest: USD, CAD, CHF, JPY, GBP, EUR, AUD, NZD - Weakest
+- 09/23 16:03 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.34% || FRANCE'S CAC 40 UP 0.39% || SPAIN'S IBEX UP 0.59%
+- 09/23 16:04 [FirstSquawk] GERMANY'S DAX UP 0.6%
+- 09/23 16:05 [financialjuice] Italy plans to stick with its commitment to keep the deficit below the EU's 3% of GDP ceiling this year, from 3.1% in 2025 - Sources
+- 09/23 16:15 [financialjuice] FRENCH COMP FLASH PMI ACTUAL 51.2 (FORECAST 48.7, PREVIOUS 48.5) $MACRO
+- 09/23 16:15 [financialjuice] FRENCH SERVICES PMI FLASH ACTUAL 51.4 (FORECAST 48.3, PREVIOUS 48.0) $MACRO
+- 09/23 16:15 [financialjuice] ‼ BREAKING: FRENCH MANUFACTURING PMI FLASH ACTUAL 50.3 (FORECAST 51, PREVIOUS 51.1) $MACRO
