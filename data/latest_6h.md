@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 20:33 JST／対象: 09/23 14:33 〜 09/23 20:33 JST（時刻はすべて日本時間）
+生成: 2026-09-23 20:51 JST／対象: 09/23 14:51 〜 09/23 20:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 14 | 09/23 18:24 | 09/23 20:05 | 23分（19:19→19:43） |
-| FirstSquawk | 44 | 09/23 14:36 | 09/23 20:28 | 30分（17:00→17:31） |
-| financialjuice | 37 | 09/23 14:52 | 09/23 20:03 | ⚠ 71分（18:33→19:45） |
+| FirstSquawk | 45 | 09/23 14:57 | 09/23 20:49 | 30分（17:00→17:31） |
+| financialjuice | 38 | 09/23 14:52 | 09/23 20:49 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 91 行（統合前 95 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 93 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 14:36 [FirstSquawk] Eleven killed and three injured in KwaZulu-Natal shooting, South African police say
-- 09/23 14:41 [FirstSquawk] Brazil, Germany, India and Japan urge greater focus on UN Security Council reform amid geopolitical challenges - REUTERS REPORT
-- 09/23 14:44 [FirstSquawk] Poland’s Lublin, Rzeszów airports resume air operations following temporary military-related closure - PANSA
-- 09/23 14:46 [FirstSquawk] NHC says Category 5 Polo is stationary off Mexico’s southwestern coast
 - 09/23 14:52 [financialjuice] UK's PM Burnham and Zelenskyy spoke about a proposal for an energy ceasefire
 - 09/23 14:57 [FirstSquawk] Philippine Senate cuts required votes for conviction in VP Duterte impeachment trial
 - 09/23 15:00 [FirstSquawk] EuroStoxx 50 futures up 0.31% as DAX and FTSE futures gain 0.35% and 0.36%
@@ -115,3 +111,9 @@
 - 09/23 20:22 [FirstSquawk] UBS FACES $17B EXTRA CAPITAL AFTER PARLIAMENT VOTE, GOLDMAN SAYS - BBG
 - 09/23 20:24 [FirstSquawk] NASDAQ 100 FUTURES HIT SESSION LOW, DOWN 0.2%
 - 09/23 20:28 [FirstSquawk] INFLOWS INTO US SPOT BITCOIN ETF HAVE TURNED POSITIVE THIS YEAR AS THE RECOVERY OF BITCOIN BOOSTS INVESTOR INTEREST.
+- 09/23 20:38 [FirstSquawk] US TREASURY YIELDS EXTEND CLIMB, 2-YEAR TO YEAR'S HIGH 4.79%
+- 09/23 20:43 [FirstSquawk] RYANAIR CEO O'LEARY: I HOPE JET FUEL PRICES WILL RISE FASTER NEXT YEAR BECAUSE IT WILL CONSOLIDATE AVIATION IN EUROPE MORE QUICKLY
+- 09/23 20:48 [FirstSquawk] UKMTO SAYS IT RECEIVED A REPORT OF AN INCIDENT WITHIN THE STRAIT OF HORMUZ
+- 09/23 20:48 [FirstSquawk] UBS SAYS PROPOSED 90% PLAN IS EXCESSIVE, "NOT A COMPROMISE"
+- 09/23 20:49 [financialjuice] UKMTO gets a report of an incident in the Strait of Hormuz, a company security officer of a cargo vessel reports being struck by an unknown projectile
+- 09/23 20:49 [FirstSquawk] UKMTO SAYS VESSEL IS ON FIRE AND ADRIFT
