@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 13:03 JST／対象: 09/23 01:03 〜 09/23 13:03 JST（時刻はすべて日本時間）
+生成: 2026-09-23 13:25 JST／対象: 09/23 01:25 〜 09/23 13:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 203 | 09/23 01:17 | 09/23 13:03 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 153 | 09/23 01:03 | 09/23 12:39 | ⚠ 54分（11:44→12:39） |
+| FirstSquawk | 205 | 09/23 01:31 | 09/23 13:22 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 153 | 09/23 01:31 | 09/23 13:18 | ⚠ 54分（11:44→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 349 行（統合前 363 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 352 行（統合前 364 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 01:03 [financialjuice/FirstSquawk] Fitch Ratings raises near-term oil and European gas price assumptions.
-- 09/23 01:07 [financialjuice] Pakistan Army conducts two-week exercise with Russian and Omani forces - Tasnim News cited Pakistan TV.
-- 09/23 01:18 [FirstSquawk] US F-16 FIGHTER JET CRASHED NEAR U.S BASE IN GERMANY
-- 09/23 01:19 [FirstSquawk] BNP PARIBAS SEES HIGHER EFFICIENCY TO SUPPORT EARNINGS GROWTH
-- 09/23 01:21 [FirstSquawk] APPLE IS WORKING ON A NEW FITNESS TRACKER TO COMPETE WITH WHOOP.
-- 09/23 01:21 [financialjuice] Apple Developing Screenless Fitness Tracker to Compete With Whoop, Oura and Garmin $AAPL
-- 09/23 01:25 [FirstSquawk] IRAN PARLIAMENT COMMITTEE PROPOSES 20% FINE FOR HORMUZ TRANSIT BREACHES - FARS
 - 09/23 01:31 [FirstSquawk] ANTHROPIC: CLAUDE OPUS 5.5 PERFORMS AT LEVEL OF CLAUDE FABLE 5.1 ON MOST WORK, COSTS AROUND 40% LESS TO RUN THAN OPUS 5
 - 09/23 01:31 [FirstSquawk] ANTHROPIC: OPUS 5.5 IS PRICED AT $4 PER MILLION INPUT TOKENS AND $20 PER MILLION OUTPUT TOKENS
 - 09/23 01:31 [financialjuice] Anthropic Launches Claude Opus 5.5, Sonnet and Haiku 5.5 to Follow
@@ -373,3 +366,13 @@
 - 09/23 13:00 [FirstSquawk] Jefferies trims Haleon price target to 400p from 410p
 - 09/23 13:02 [FirstSquawk] Novo considers upgrading its US listing, FT reports
 - 09/23 13:03 [FirstSquawk] Novo may upgrade New York listing as part of push to boost US profile - FT
+- 09/23 13:03 [FirstSquawk] China takes stock of Broadcom gear as domestic AI drive gathers pace - FT
+- 09/23 13:04 [financialjuice] Chinese authorities examine use of Broadcom hardware in state-backed data centers amid push to support local manufacturers - FT
+- 09/23 13:04 [FirstSquawk] Chinese authorities review Broadcom hardware in state-backed data centres as local producers gain focus - FT
+- 09/23 13:10 [financialjuice] Japan PM Takaichi: agreed with President Trump at meeting to enhance economic security partnership
+- 09/23 13:11 [FirstSquawk] Japan’s Takaichi says Trump meeting produced agreement to strengthen economic security ties
+- 09/23 13:17 [FirstSquawk] Takaichi says she and Trump discussed China ahead of US-China summit
+- 09/23 13:18 [FirstSquawk] Japan’s Takaichi stresses importance of US-China relations for international stability
+- 09/23 13:18 [financialjuice] Japan PM Takaichi: had frank discussion with Trump on international criminal court
+- 09/23 13:18 [FirstSquawk] Takaichi says she had candid talks with Trump about the International Criminal Court
+- 09/23 13:22 [FirstSquawk] Global banks caution UK windfall tax may push activity out of London - FT

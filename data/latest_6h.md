@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 13:03 JST／対象: 09/23 07:03 〜 09/23 13:03 JST（時刻はすべて日本時間）
+生成: 2026-09-23 13:25 JST／対象: 09/23 07:25 〜 09/23 13:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 100 | 09/23 08:04 | 09/23 13:03 | 11分（10:59→11:10） |
-| financialjuice | 24 | 09/23 07:28 | 09/23 12:39 | ⚠ 54分（11:44→12:39） |
+| FirstSquawk | 107 | 09/23 08:04 | 09/23 13:22 | 11分（10:59→11:10） |
+| financialjuice | 27 | 09/23 07:28 | 09/23 13:18 | ⚠ 54分（11:44→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 124 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 134 行（統合前 134 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -148,3 +148,13 @@
 - 09/23 13:00 [FirstSquawk] Jefferies trims Haleon price target to 400p from 410p
 - 09/23 13:02 [FirstSquawk] Novo considers upgrading its US listing, FT reports
 - 09/23 13:03 [FirstSquawk] Novo may upgrade New York listing as part of push to boost US profile - FT
+- 09/23 13:03 [FirstSquawk] China takes stock of Broadcom gear as domestic AI drive gathers pace - FT
+- 09/23 13:04 [financialjuice] Chinese authorities examine use of Broadcom hardware in state-backed data centers amid push to support local manufacturers - FT
+- 09/23 13:04 [FirstSquawk] Chinese authorities review Broadcom hardware in state-backed data centres as local producers gain focus - FT
+- 09/23 13:10 [financialjuice] Japan PM Takaichi: agreed with President Trump at meeting to enhance economic security partnership
+- 09/23 13:11 [FirstSquawk] Japan’s Takaichi says Trump meeting produced agreement to strengthen economic security ties
+- 09/23 13:17 [FirstSquawk] Takaichi says she and Trump discussed China ahead of US-China summit
+- 09/23 13:18 [FirstSquawk] Japan’s Takaichi stresses importance of US-China relations for international stability
+- 09/23 13:18 [financialjuice] Japan PM Takaichi: had frank discussion with Trump on international criminal court
+- 09/23 13:18 [FirstSquawk] Takaichi says she had candid talks with Trump about the International Criminal Court
+- 09/23 13:22 [FirstSquawk] Global banks caution UK windfall tax may push activity out of London - FT
