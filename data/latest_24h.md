@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 02:32 JST／対象: 09/23 02:32 〜 09/24 02:32 JST（時刻はすべて日本時間）
+生成: 2026-09-24 02:45 JST／対象: 09/23 02:45 〜 09/24 02:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 74 | 09/23 04:42 | 09/24 02:05 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 352 | 09/23 02:34 | 09/24 02:31 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 294 | 09/23 02:35 | 09/24 02:28 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 75 | 09/23 04:42 | 09/24 02:41 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 350 | 09/23 02:46 | 09/24 02:41 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 294 | 09/23 02:47 | 09/24 02:42 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 698 行（統合前 723 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 697 行（統合前 722 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 02:34 [FirstSquawk] US PROPOSES $10 BLN FUND WITH ARAB ALLIES TO BYPASS HORMUZ – FT
-- 09/23 02:35 [financialjuice] Trump Participates in a Bilateral Meeting with the President of Ukraine - WATCH LIVE
-- 09/23 02:37 [FirstSquawk] AI-LINKED TECHNOLOGY STOCKS LED A ROTATION OUT OF FINANCIALS, PUSHING THE NASDAQ 100 TO THE BRINK OF ITS FIRST RECORD CLOSE SINCE JUNE, WHILE SHOPIFY JUMPED 7.3% AFTER ITS MUSE AI PARTNERSHIP WITH META.
-- 09/23 02:37 [FirstSquawk] THE S&P 500 STRUGGLED AS FINANCIALS SOLD OFF AND THE DOW FELL 0.5%, WHILE INVESTORS ALSO TRACKED HORMUZ DIPLOMACY, SAUDI PIPELINE RESTART PLANS AND RISING YIELDS THAT CONTINUE TO PRESSURE THE BROADER MARKET.
-- 09/23 02:37 [financialjuice] Fed's Barkin: Fed is highly attentive to financial conditions, but can't assume markets will keep rates at a level needed to cool inflation.
-- 09/23 02:40 [FirstSquawk] FED’S BARKIN: FED IS HIGHLY ATTENTIVE TO FINANCIAL CONDITIONS BUT CANNOT ASSUME MARKETS WILL KEEP RATES HIGH ENOUGH TO COOL INFLATION
-- 09/23 02:40 [FirstSquawk] FED’S BARKIN: HOPES CURRENT PERIOD RESEMBLES THE 1990S MID-CYCLE ADJUSTMENT
-- 09/23 02:44 [financialjuice] Fed's Barkin: I don't think current productivity improvements mostly reflect AI.
 - 09/23 02:46 [FirstSquawk] NEW YORK FED ACCEPTS $3M OF $3M SUBMITTED IN STANDING REPO OPERATION ON SEPTEMBER 22
 - 09/23 02:47 [financialjuice] Senior White House official to Al Jazeera: No meeting with the Iranians on President Trump's schedule, but he is open to it
 - 09/23 02:48 [financialjuice] Trump: Have a good relationship with Zelenskyy.
@@ -722,3 +714,10 @@
 - 09/24 02:06 [financialjuice] US 5-Year Note Auction High Yield 5.033% (Tailed by 3.1 basis points) Bid-to-cover 2.21 Sells $70 bln Awards 30.34% of bids at high Primary Dealers take 15.77% Direct 29.92% Indirect 54.31%
 - 09/24 02:28 [financialjuice] Microsoft President: It is the right time to invest in Gulf nations. $MSFT
 - 09/24 02:31 [FirstSquawk] 4 COUNTERPARTIES TAKE $461 MLN AT FED REVERSE REPO (PREV $453 MLN, 8 BIDS)
+- 09/24 02:34 [financialjuice] Microsoft's Smith: AI safety won't advance if we rely on two companies, AI should have independent evaluators $MSFT
+- 09/24 02:36 [FirstSquawk] MICROSOFT PRESIDENT: GULF NATIONS PRESENT A TIMELY INVESTMENT OPPORTUNITY
+- 09/24 02:37 [FirstSquawk] MICROSOFT’S SMITH: AI SAFETY REQUIRES INDEPENDENT EVALUATORS; RELYING ON JUST TWO COMPANIES WON’T ADVANCE AI SAFETY
+- 09/24 02:38 [financialjuice] ECB'S Lane: We're not seeing any big wage response to the energy shock.
+- 09/24 02:41 [DeItaone] WHITE HOUSE OFFICIAL SAYS REPORT THAT US IS CONSIDERING A DIESEL EXPORT BAN IS 'FAKE NEWS'
+- 09/24 02:41 [FirstSquawk] WHITE HOUSE OFFICIAL: REPORTS OF US CONSIDERING DIESEL EXPORT BAN ARE “FAKE NEWS”
+- 09/24 02:42 [financialjuice] ❗ White House Official: Report that US is considering a diesel export ban is 'fake news'.

@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 02:32 JST／対象: 09/23 14:32 〜 09/24 02:32 JST（時刻はすべて日本時間）
+生成: 2026-09-24 02:45 JST／対象: 09/23 14:45 〜 09/24 02:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 72 | 09/23 18:24 | 09/24 02:05 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 142 | 09/23 14:36 | 09/24 02:31 | 34分（01:56→02:31） |
-| financialjuice | 163 | 09/23 14:52 | 09/24 02:28 | ⚠ 71分（18:33→19:45） |
+| DeItaone | 73 | 09/23 18:24 | 09/24 02:41 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 142 | 09/23 14:46 | 09/24 02:41 | 34分（01:56→02:31） |
+| financialjuice | 166 | 09/23 14:52 | 09/24 02:42 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 361 行（統合前 379 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 365 行（統合前 383 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 14:36 [FirstSquawk] Eleven killed and three injured in KwaZulu-Natal shooting, South African police say
-- 09/23 14:41 [FirstSquawk] Brazil, Germany, India and Japan urge greater focus on UN Security Council reform amid geopolitical challenges - REUTERS REPORT
-- 09/23 14:44 [FirstSquawk] Poland’s Lublin, Rzeszów airports resume air operations following temporary military-related closure - PANSA
 - 09/23 14:46 [FirstSquawk] NHC says Category 5 Polo is stationary off Mexico’s southwestern coast
 - 09/23 14:52 [financialjuice] UK's PM Burnham and Zelenskyy spoke about a proposal for an energy ceasefire
 - 09/23 14:57 [FirstSquawk] Philippine Senate cuts required votes for conviction in VP Duterte impeachment trial
@@ -385,3 +382,10 @@
 - 09/24 02:06 [financialjuice] US 5-Year Note Auction High Yield 5.033% (Tailed by 3.1 basis points) Bid-to-cover 2.21 Sells $70 bln Awards 30.34% of bids at high Primary Dealers take 15.77% Direct 29.92% Indirect 54.31%
 - 09/24 02:28 [financialjuice] Microsoft President: It is the right time to invest in Gulf nations. $MSFT
 - 09/24 02:31 [FirstSquawk] 4 COUNTERPARTIES TAKE $461 MLN AT FED REVERSE REPO (PREV $453 MLN, 8 BIDS)
+- 09/24 02:34 [financialjuice] Microsoft's Smith: AI safety won't advance if we rely on two companies, AI should have independent evaluators $MSFT
+- 09/24 02:36 [FirstSquawk] MICROSOFT PRESIDENT: GULF NATIONS PRESENT A TIMELY INVESTMENT OPPORTUNITY
+- 09/24 02:37 [FirstSquawk] MICROSOFT’S SMITH: AI SAFETY REQUIRES INDEPENDENT EVALUATORS; RELYING ON JUST TWO COMPANIES WON’T ADVANCE AI SAFETY
+- 09/24 02:38 [financialjuice] ECB'S Lane: We're not seeing any big wage response to the energy shock.
+- 09/24 02:41 [DeItaone] WHITE HOUSE OFFICIAL SAYS REPORT THAT US IS CONSIDERING A DIESEL EXPORT BAN IS 'FAKE NEWS'
+- 09/24 02:41 [FirstSquawk] WHITE HOUSE OFFICIAL: REPORTS OF US CONSIDERING DIESEL EXPORT BAN ARE “FAKE NEWS”
+- 09/24 02:42 [financialjuice] ❗ White House Official: Report that US is considering a diesel export ban is 'fake news'.

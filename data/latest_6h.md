@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 02:32 JST／対象: 09/23 20:32 〜 09/24 02:32 JST（時刻はすべて日本時間）
+生成: 2026-09-24 02:45 JST／対象: 09/23 20:45 〜 09/24 02:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 58 | 09/23 21:06 | 09/24 02:05 | ⚠ 51分（01:07→01:59） |
-| FirstSquawk | 98 | 09/23 20:38 | 09/24 02:31 | 34分（01:56→02:31） |
-| financialjuice | 126 | 09/23 20:49 | 09/24 02:28 | 23分（21:24→21:48） |
+| DeItaone | 59 | 09/23 21:06 | 09/24 02:41 | ⚠ 51分（01:07→01:59） |
+| FirstSquawk | 99 | 09/23 20:48 | 09/24 02:41 | 34分（01:56→02:31） |
+| financialjuice | 129 | 09/23 20:49 | 09/24 02:42 | 23分（21:24→21:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 270 行（統合前 284 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 275 行（統合前 289 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 20:38 [FirstSquawk] US TREASURY YIELDS EXTEND CLIMB, 2-YEAR TO YEAR'S HIGH 4.79%
-- 09/23 20:43 [FirstSquawk] RYANAIR CEO O'LEARY: I HOPE JET FUEL PRICES WILL RISE FASTER NEXT YEAR BECAUSE IT WILL CONSOLIDATE AVIATION IN EUROPE MORE QUICKLY
 - 09/23 20:48 [FirstSquawk] UKMTO SAYS IT RECEIVED A REPORT OF AN INCIDENT WITHIN THE STRAIT OF HORMUZ
 - 09/23 20:48 [FirstSquawk] UBS SAYS PROPOSED 90% PLAN IS EXCESSIVE, "NOT A COMPROMISE"
 - 09/23 20:49 [financialjuice] UKMTO gets a report of an incident in the Strait of Hormuz, a company security officer of a cargo vessel reports being struck by an unknown projectile
@@ -294,3 +292,10 @@
 - 09/24 02:06 [financialjuice] US 5-Year Note Auction High Yield 5.033% (Tailed by 3.1 basis points) Bid-to-cover 2.21 Sells $70 bln Awards 30.34% of bids at high Primary Dealers take 15.77% Direct 29.92% Indirect 54.31%
 - 09/24 02:28 [financialjuice] Microsoft President: It is the right time to invest in Gulf nations. $MSFT
 - 09/24 02:31 [FirstSquawk] 4 COUNTERPARTIES TAKE $461 MLN AT FED REVERSE REPO (PREV $453 MLN, 8 BIDS)
+- 09/24 02:34 [financialjuice] Microsoft's Smith: AI safety won't advance if we rely on two companies, AI should have independent evaluators $MSFT
+- 09/24 02:36 [FirstSquawk] MICROSOFT PRESIDENT: GULF NATIONS PRESENT A TIMELY INVESTMENT OPPORTUNITY
+- 09/24 02:37 [FirstSquawk] MICROSOFT’S SMITH: AI SAFETY REQUIRES INDEPENDENT EVALUATORS; RELYING ON JUST TWO COMPANIES WON’T ADVANCE AI SAFETY
+- 09/24 02:38 [financialjuice] ECB'S Lane: We're not seeing any big wage response to the energy shock.
+- 09/24 02:41 [DeItaone] WHITE HOUSE OFFICIAL SAYS REPORT THAT US IS CONSIDERING A DIESEL EXPORT BAN IS 'FAKE NEWS'
+- 09/24 02:41 [FirstSquawk] WHITE HOUSE OFFICIAL: REPORTS OF US CONSIDERING DIESEL EXPORT BAN ARE “FAKE NEWS”
+- 09/24 02:42 [financialjuice] ❗ White House Official: Report that US is considering a diesel export ban is 'fake news'.
