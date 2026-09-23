@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 00:34 JST／対象: 09/23 00:34 〜 09/24 00:34 JST（時刻はすべて日本時間）
+生成: 2026-09-24 00:52 JST／対象: 09/23 00:52 〜 09/24 00:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 63 | 09/23 04:42 | 09/24 00:11 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 352 | 09/23 00:41 | 09/24 00:33 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 303 | 09/23 00:39 | 09/24 00:34 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 66 | 09/23 04:42 | 09/24 00:48 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 358 | 09/23 00:54 | 09/24 00:52 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 306 | 09/23 00:54 | 09/24 00:50 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 693 行（統合前 725 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 705 行（統合前 737 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 00:39 [financialjuice] Trump signs the security agreement with Denmark and Greenland.
-- 09/23 00:41 [FirstSquawk] IRGC SPOX HOSSEIN MOHEBI: IRAN 'TOUGHENED' CONDITIONS FOR ENDING WAR AFTER US DEAL COLLAPSE - AFP
-- 09/23 00:42 [financialjuice] Trump concludes the Trilateral Signing Event.
-- 09/23 00:45 [financialjuice] French Budget Minister Amiel: The cost of our new measures are estimated at €450 mln.
-- 09/23 00:50 [FirstSquawk] US WILL BE ALLOWED TO ESTABLISH MILITARY BASES AT NARSARSUAQ AND MESTERSVIG UNDER THE GREENLAND AGREEMENT
-- 09/23 00:52 [financialjuice] Iran National Security Committee Spokesperson: The Strait of Hormuz rule violations will carry a fine equal to 20% of the cargo value and temporary vessel seizure until the fine is paid - Fars News.
 - 09/23 00:54 [financialjuice] The US may establish more defense areas in Greenland - White House.
 - 09/23 00:54 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI, EU'S KALLAS MET ON UN GENERAL ASSEMBLY SIDELINES – SNN
 - 09/23 00:55 [financialjuice] AWS wins first NATO restricted cloud approval and has 15 regions in nato member nations $AMZN
@@ -717,3 +711,21 @@
 - 09/24 00:33 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON: ANOTHER ROUND OF MESSAGE EXCHANGES AND CLARIFICATIONS TOOK PLACE BETWEEN IRAN, US VIA THE QATARI MEDIATOR ON TUESDAY
 - 09/24 00:33 [financialjuice] Iran's Foreign Ministry Spokesperson: Another round of message exchanges and clarifications took place between Iran and the US via the Qatari mediator on Tuesday.
 - 09/24 00:34 [financialjuice] Fed's Goolsbee: We're better off assuming that bigger negative supply shocks to have a pretty persistent effect on inflation - Economics Applied Podcast.
+- 09/24 00:35 [financialjuice] Fed's Goolsbee: That's what happened with tariffs, COVID; that's maybe what's happening with oil, we better be careful.
+- 09/24 00:35 [FirstSquawk] FED'S GOOLSBEE, IN 'ECONOMICS, APPLIED' PODCAST: BETTER OFF ASSUMING THAT BIGGER NEGATIVE SUPPLY SHOCKS TO HAVE A PRETTY PERSISTENT EFFECT ON INFLATION
+- 09/24 00:35 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON ON X: IRAN CLARIFIED ITS CONDITIONS FOR REVIVING DIPLOMACY IN THE TWO HOUR LONG PROCESS TO U.S.
+- 09/24 00:36 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS CONDITIONS INCLUDE ACCEPTING THE SAFE ROUTE IN HORMUZ IN WHICH UNDERSTANDING BETWEEN THE TWO COASTAL COUNTRIES HAS BEEN REACHED
+- 09/24 00:37 [financialjuice] Iran's Foreign Ministry Spokesperson: Conditions include accepting the safe route in Hormuz, in which an understanding between the two coastal countries has been reached.
+- 09/24 00:37 [financialjuice] Fitch Ratings believes that lingering tensions between the US and Europe continue to raise questions over the reliability of the US' security commitments to Europe.
+- 09/24 00:38 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON: IRAN'S CONDITIONS ALSO INCLUDE END OF U.S. ACTIONS, INCLUDING NAVAL BLOCKADE, ENDING WAR, RELEASE OF FROZEN ASSETS
+- 09/24 00:38 [financialjuice] Greenland Deal Addresses One Source of US-EU Tensions; Tariff and NATO Risks Persist - Fitch Ratings
+- 09/24 00:38 [FirstSquawk] GREENLAND DEAL ADDRESSES ONE SOURCE OF US-EU TENSIONS; TARIFF AND NATO RISKS PERSIST – FITCH
+- 09/24 00:38 [FirstSquawk] PARAMOUNT WEIGHS TAPPING MUSK FOR EQUITY INVESTMENT - SEMAFOR
+- 09/24 00:42 [FirstSquawk] TURKISH AIRLINES ARE TO BUY UP TO 150 BOEING 737 MAX JETS
+- 09/24 00:42 [financialjuice] Head of the Iranian Atomic Energy Organization: Despite numerous IAEA inspections, not a single report of non-compliance exists. The Agency has had access to all facilities - IRIB News.
+- 09/24 00:43 [DeItaone] FITCH WARNS U.S.-EU TENSIONS REMAIN A KEY RISK Fitch says lingering U.S.-Europe tensions are raising questions over NATO cohesion and the reliability of U.S. security commitments. It also warns that renewed U.S.-EU tariffs remain a signific…
+- 09/24 00:43 [DeItaone] U.S. TREASURY YIELD ON 10-YEAR TREASURY NOTE HITS 5.081%, HIGHEST SINCE JULY 17, 2007; LAST UP 10.57 BASIS POINTS AT 5.073%
+- 09/24 00:48 [DeItaone] BESSENT AFTER MEETING WITH CHINA'S HE: WE'RE FINE WITH EITHER CONTINUING BUSAN ARRANGEMENT OR EXAMINING BIGGER DEAL
+- 09/24 00:48 [financialjuice] US Treasury Secretary Bessent, after meeting with China's He: We're fine with either continuing the Busan arrangement or examining a bigger deal.
+- 09/24 00:50 [financialjuice] Lithuanian Defence Minister: Lithuania, Latvia, and Estonia have asked for the European Union's support for drone defenses.
+- 09/24 00:52 [FirstSquawk] 30-YEAR TREASURY YIELD SURGES ABOVE 5.37%, HITS HIGHEST LEVEL SINCE 2004 U.S. 30-year Treasury yield has climbed above 5.37%, putting it on track for its highest daily settlement since June 2004. The move signals a sharp rise in long-term U…

@@ -7,31 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 00:34 JST／対象: 09/23 18:34 〜 09/24 00:34 JST（時刻はすべて日本時間）
+生成: 2026-09-24 00:52 JST／対象: 09/23 18:52 〜 09/24 00:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 60 | 09/23 18:35 | 09/24 00:11 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 93 | 09/23 18:35 | 09/24 00:33 | 18分（18:39→18:58） |
-| financialjuice | 100 | 09/23 19:45 | 09/24 00:34 | ⚠ 46分（20:03→20:49） |
+| DeItaone | 56 | 09/23 19:11 | 09/24 00:48 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 99 | 09/23 18:58 | 09/24 00:52 | 14分（19:05→19:19） |
+| financialjuice | 107 | 09/23 19:45 | 09/24 00:50 | ⚠ 46分（20:03→20:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 238 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 249 行（統合前 264 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 18:35 [FirstSquawk/DeItaone] SPOT GOLD FALLS NEARLY 1% TO $4,312.99/OZ
-- 09/23 18:39 [FirstSquawk] SOFTBANK-BACKED CARRO IS SAID TO MULL FIRST DUAL NASDAQ-SGX IPO || CARRO IS SAID TO CONSIDER SEEKING UP TO $400M-$500M IN IPO
-- 09/23 18:41 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 3:15 AM ET — 🇫🇷 France Flash PMI 🔸 3:30 AM ET — 🇩🇪 Germany Flash PMI 🔸 4:00 AM ET — 🇪🇺 Eurozone Flash PMI 🔸 4:30 AM ET — 🇬🇧 UK Flash PMI 🔸 9:45 AM ET — 🇺🇸 U.S. Flash Manufacturing & Services PMI 🔸 10:…
-- 09/23 18:41 [DeItaone] GOLDMAN CUTS SMARTPHONE SHIPMENT OUTLOOK Goldman Sachs lowered its global smartphone shipment forecasts, now expecting 1.1 billion units in 2026 and 1.2 billion in both 2027 and 2028. Despite weaker volumes, higher prices and premium device…
-- 09/23 18:42 [DeItaone] TRUMP-XI TALKS UNLIKELY TO DELIVER CHIP BREAKTHROUGH Thursday’s Trump-Xi summit is unlikely to produce relief on semiconductors or rare earths, according to Jefferies. The most likely outcome is progress on a U.S.-China Board of Trade aimed…
-- 09/23 18:44 [DeItaone] GOLDMAN: CHINA OIL IMPORTS LIKELY TO STAY WEAK Goldman Sachs expects China’s crude imports to remain subdued if oil prices stay elevated, limiting hopes for a sharp demand rebound. Chinese seaborne imports remain nearly 3 million barrels pe…
-- 09/23 18:44 [DeItaone] DOLLAR HITS 8-WEEK HIGH AS FED HIKE BETS SURGE The dollar climbed to an eight-week high, with the DXY reaching 100.862 as expectations for further Fed tightening strengthened. Markets now price a 53% chance of another 25bp hike in October, …
-- 09/23 18:50 [DeItaone/FirstSquawk] SPOT SILVER FALLS 3% TO $65.05/OZ
+- 09/23 18:58 [FirstSquawk] SPOT SILVER FALLS 3% TO $65.05/OZ
 - 09/23 19:02 [FirstSquawk] OPENAI’S SAM ALTMAN TO PROMOTE AI STANDARDS DURING HIS UN SPEECH
 - 09/23 19:02 [FirstSquawk] BRAZIL’S LULA HAS 47.7%, BOLSONARO 47.4% IN RUNOFF POLL
 - 09/23 19:05 [FirstSquawk] FEDERAL GOVERNMENT PROPOSES BILL TO KEEP GAS TAX SUSPENDED UNTIL JANUARY 2027.
@@ -262,3 +255,21 @@
 - 09/24 00:33 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON: ANOTHER ROUND OF MESSAGE EXCHANGES AND CLARIFICATIONS TOOK PLACE BETWEEN IRAN, US VIA THE QATARI MEDIATOR ON TUESDAY
 - 09/24 00:33 [financialjuice] Iran's Foreign Ministry Spokesperson: Another round of message exchanges and clarifications took place between Iran and the US via the Qatari mediator on Tuesday.
 - 09/24 00:34 [financialjuice] Fed's Goolsbee: We're better off assuming that bigger negative supply shocks to have a pretty persistent effect on inflation - Economics Applied Podcast.
+- 09/24 00:35 [financialjuice] Fed's Goolsbee: That's what happened with tariffs, COVID; that's maybe what's happening with oil, we better be careful.
+- 09/24 00:35 [FirstSquawk] FED'S GOOLSBEE, IN 'ECONOMICS, APPLIED' PODCAST: BETTER OFF ASSUMING THAT BIGGER NEGATIVE SUPPLY SHOCKS TO HAVE A PRETTY PERSISTENT EFFECT ON INFLATION
+- 09/24 00:35 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON ON X: IRAN CLARIFIED ITS CONDITIONS FOR REVIVING DIPLOMACY IN THE TWO HOUR LONG PROCESS TO U.S.
+- 09/24 00:36 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS CONDITIONS INCLUDE ACCEPTING THE SAFE ROUTE IN HORMUZ IN WHICH UNDERSTANDING BETWEEN THE TWO COASTAL COUNTRIES HAS BEEN REACHED
+- 09/24 00:37 [financialjuice] Iran's Foreign Ministry Spokesperson: Conditions include accepting the safe route in Hormuz, in which an understanding between the two coastal countries has been reached.
+- 09/24 00:37 [financialjuice] Fitch Ratings believes that lingering tensions between the US and Europe continue to raise questions over the reliability of the US' security commitments to Europe.
+- 09/24 00:38 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON: IRAN'S CONDITIONS ALSO INCLUDE END OF U.S. ACTIONS, INCLUDING NAVAL BLOCKADE, ENDING WAR, RELEASE OF FROZEN ASSETS
+- 09/24 00:38 [financialjuice] Greenland Deal Addresses One Source of US-EU Tensions; Tariff and NATO Risks Persist - Fitch Ratings
+- 09/24 00:38 [FirstSquawk] GREENLAND DEAL ADDRESSES ONE SOURCE OF US-EU TENSIONS; TARIFF AND NATO RISKS PERSIST – FITCH
+- 09/24 00:38 [FirstSquawk] PARAMOUNT WEIGHS TAPPING MUSK FOR EQUITY INVESTMENT - SEMAFOR
+- 09/24 00:42 [FirstSquawk] TURKISH AIRLINES ARE TO BUY UP TO 150 BOEING 737 MAX JETS
+- 09/24 00:42 [financialjuice] Head of the Iranian Atomic Energy Organization: Despite numerous IAEA inspections, not a single report of non-compliance exists. The Agency has had access to all facilities - IRIB News.
+- 09/24 00:43 [DeItaone] FITCH WARNS U.S.-EU TENSIONS REMAIN A KEY RISK Fitch says lingering U.S.-Europe tensions are raising questions over NATO cohesion and the reliability of U.S. security commitments. It also warns that renewed U.S.-EU tariffs remain a signific…
+- 09/24 00:43 [DeItaone] U.S. TREASURY YIELD ON 10-YEAR TREASURY NOTE HITS 5.081%, HIGHEST SINCE JULY 17, 2007; LAST UP 10.57 BASIS POINTS AT 5.073%
+- 09/24 00:48 [DeItaone] BESSENT AFTER MEETING WITH CHINA'S HE: WE'RE FINE WITH EITHER CONTINUING BUSAN ARRANGEMENT OR EXAMINING BIGGER DEAL
+- 09/24 00:48 [financialjuice] US Treasury Secretary Bessent, after meeting with China's He: We're fine with either continuing the Busan arrangement or examining a bigger deal.
+- 09/24 00:50 [financialjuice] Lithuanian Defence Minister: Lithuania, Latvia, and Estonia have asked for the European Union's support for drone defenses.
+- 09/24 00:52 [FirstSquawk] 30-YEAR TREASURY YIELD SURGES ABOVE 5.37%, HITS HIGHEST LEVEL SINCE 2004 U.S. 30-year Treasury yield has climbed above 5.37%, putting it on track for its highest daily settlement since June 2004. The move signals a sharp rise in long-term U…

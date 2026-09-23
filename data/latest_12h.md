@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 00:34 JST／対象: 09/23 12:34 〜 09/24 00:34 JST（時刻はすべて日本時間）
+生成: 2026-09-24 00:52 JST／対象: 09/23 12:52 〜 09/24 00:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 61 | 09/23 18:24 | 09/24 00:11 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 150 | 09/23 12:39 | 09/24 00:33 | 30分（17:00→17:31） |
-| financialjuice | 141 | 09/23 12:39 | 09/24 00:34 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 64 | 09/23 18:24 | 09/24 00:48 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 156 | 09/23 12:53 | 09/24 00:52 | 30分（17:00→17:31） |
+| financialjuice | 147 | 09/23 13:04 | 09/24 00:50 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 336 行（統合前 354 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 351 行（統合前 369 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 12:39 [FirstSquawk] World Bank makes up to $170 million available for Nepal’s immediate flood response
-- 09/23 12:39 [financialjuice] China finance ministry offers 3-month bills at 1.1101% yield: traders
-- 09/23 12:48 [FirstSquawk] Singapore dollar eases ahead of August inflation figures - WSJ
 - 09/23 12:53 [FirstSquawk] AutoZone target price reduced to $3,400 from $3,500 by TD Cowen
 - 09/23 13:00 [FirstSquawk] Jefferies trims Haleon price target to 400p from 410p
 - 09/23 13:02 [FirstSquawk] Novo considers upgrading its US listing, FT reports
@@ -360,3 +357,21 @@
 - 09/24 00:33 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON: ANOTHER ROUND OF MESSAGE EXCHANGES AND CLARIFICATIONS TOOK PLACE BETWEEN IRAN, US VIA THE QATARI MEDIATOR ON TUESDAY
 - 09/24 00:33 [financialjuice] Iran's Foreign Ministry Spokesperson: Another round of message exchanges and clarifications took place between Iran and the US via the Qatari mediator on Tuesday.
 - 09/24 00:34 [financialjuice] Fed's Goolsbee: We're better off assuming that bigger negative supply shocks to have a pretty persistent effect on inflation - Economics Applied Podcast.
+- 09/24 00:35 [financialjuice] Fed's Goolsbee: That's what happened with tariffs, COVID; that's maybe what's happening with oil, we better be careful.
+- 09/24 00:35 [FirstSquawk] FED'S GOOLSBEE, IN 'ECONOMICS, APPLIED' PODCAST: BETTER OFF ASSUMING THAT BIGGER NEGATIVE SUPPLY SHOCKS TO HAVE A PRETTY PERSISTENT EFFECT ON INFLATION
+- 09/24 00:35 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON ON X: IRAN CLARIFIED ITS CONDITIONS FOR REVIVING DIPLOMACY IN THE TWO HOUR LONG PROCESS TO U.S.
+- 09/24 00:36 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS CONDITIONS INCLUDE ACCEPTING THE SAFE ROUTE IN HORMUZ IN WHICH UNDERSTANDING BETWEEN THE TWO COASTAL COUNTRIES HAS BEEN REACHED
+- 09/24 00:37 [financialjuice] Iran's Foreign Ministry Spokesperson: Conditions include accepting the safe route in Hormuz, in which an understanding between the two coastal countries has been reached.
+- 09/24 00:37 [financialjuice] Fitch Ratings believes that lingering tensions between the US and Europe continue to raise questions over the reliability of the US' security commitments to Europe.
+- 09/24 00:38 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON: IRAN'S CONDITIONS ALSO INCLUDE END OF U.S. ACTIONS, INCLUDING NAVAL BLOCKADE, ENDING WAR, RELEASE OF FROZEN ASSETS
+- 09/24 00:38 [financialjuice] Greenland Deal Addresses One Source of US-EU Tensions; Tariff and NATO Risks Persist - Fitch Ratings
+- 09/24 00:38 [FirstSquawk] GREENLAND DEAL ADDRESSES ONE SOURCE OF US-EU TENSIONS; TARIFF AND NATO RISKS PERSIST – FITCH
+- 09/24 00:38 [FirstSquawk] PARAMOUNT WEIGHS TAPPING MUSK FOR EQUITY INVESTMENT - SEMAFOR
+- 09/24 00:42 [FirstSquawk] TURKISH AIRLINES ARE TO BUY UP TO 150 BOEING 737 MAX JETS
+- 09/24 00:42 [financialjuice] Head of the Iranian Atomic Energy Organization: Despite numerous IAEA inspections, not a single report of non-compliance exists. The Agency has had access to all facilities - IRIB News.
+- 09/24 00:43 [DeItaone] FITCH WARNS U.S.-EU TENSIONS REMAIN A KEY RISK Fitch says lingering U.S.-Europe tensions are raising questions over NATO cohesion and the reliability of U.S. security commitments. It also warns that renewed U.S.-EU tariffs remain a signific…
+- 09/24 00:43 [DeItaone] U.S. TREASURY YIELD ON 10-YEAR TREASURY NOTE HITS 5.081%, HIGHEST SINCE JULY 17, 2007; LAST UP 10.57 BASIS POINTS AT 5.073%
+- 09/24 00:48 [DeItaone] BESSENT AFTER MEETING WITH CHINA'S HE: WE'RE FINE WITH EITHER CONTINUING BUSAN ARRANGEMENT OR EXAMINING BIGGER DEAL
+- 09/24 00:48 [financialjuice] US Treasury Secretary Bessent, after meeting with China's He: We're fine with either continuing the Busan arrangement or examining a bigger deal.
+- 09/24 00:50 [financialjuice] Lithuanian Defence Minister: Lithuania, Latvia, and Estonia have asked for the European Union's support for drone defenses.
+- 09/24 00:52 [FirstSquawk] 30-YEAR TREASURY YIELD SURGES ABOVE 5.37%, HITS HIGHEST LEVEL SINCE 2004 U.S. 30-year Treasury yield has climbed above 5.37%, putting it on track for its highest daily settlement since June 2004. The move signals a sharp rise in long-term U…
