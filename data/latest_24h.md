@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 15:42 JST／対象: 09/22 15:42 〜 09/23 15:42 JST（時刻はすべて日本時間）
+生成: 2026-09-23 15:57 JST／対象: 09/22 15:57 〜 09/23 15:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 352 | 09/22 15:49 | 09/23 15:33 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 309 | 09/22 15:48 | 09/23 15:22 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 351 | 09/22 16:07 | 09/23 15:51 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 308 | 09/22 16:01 | 09/23 15:22 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 670 行（統合前 692 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 668 行（統合前 690 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 15:48 [financialjuice] Russian defence ministry: Russian forces hit oil refinery in Ukraine's Kremenchuk - TASS
-- 09/22 15:49 [FirstSquawk] FRANCE (JUL) RETAIL SALES EX-AUTO MOM ACTUAL: 0.8% VS 0.4% PREVIOUS
-- 09/22 15:49 [FirstSquawk] Russian forces strike oil refinery in Ukraine’s Kremenchuk, Defence Ministry says — TASS
 - 09/22 16:01 [financialjuice] Currency Strength Chart: Strongest: NZD, CAD, GBP, CHF, USD, EUR, AUD, GBP - Weakest
 - 09/22 16:07 [FirstSquawk] SAUDI: DANGER HAS PASSED IN NAJRAN PROVINCE
 - 09/22 16:07 [FirstSquawk] SAUDI CIVIL DEFENSE: ALERTS OF POTENTIAL DANGER IN NAJRAN AREA- STATEMENT
@@ -694,3 +691,4 @@
 - 09/23 15:22 [financialjuice] Iran's Deputy Oil Minister: Half of the damaged capacity of the South Pars gas field is back in production - Fars News
 - 09/23 15:23 [FirstSquawk] Half of damaged South Pars gas capacity resumes production, Iran says - Fars News
 - 09/23 15:33 [FirstSquawk] TotalEnergies starts Ima gas project to support Nigeria LNG plant
+- 09/23 15:51 [FirstSquawk] GBP/USD tests support near 1.3300, UOB says

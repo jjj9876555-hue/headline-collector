@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 15:42 JST／対象: 09/23 09:42 〜 09/23 15:42 JST（時刻はすべて日本時間）
+生成: 2026-09-23 15:57 JST／対象: 09/23 09:57 〜 09/23 15:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 88 | 09/23 09:42 | 09/23 15:33 | 15分（14:20→14:36） |
+| FirstSquawk | 81 | 09/23 09:59 | 09/23 15:51 | 18分（15:33→15:51） |
 | financialjuice | 27 | 09/23 10:01 | 09/23 15:22 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 115 行（統合前 115 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 108 行（統合前 108 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 09:42 [FirstSquawk] WTI crude falls toward $89 amid focus on Trump’s UN speech - FX
-- 09/23 09:43 [FirstSquawk] Samsung Electronics stock jumps 3%
-- 09/23 09:48 [FirstSquawk] Iranian and U.S. officials meet for rare discussions on the Strait of Hormuz, according to Al Jazeera
-- 09/23 09:48 [FirstSquawk] Zelenskiy warns of planned new mass Russian attack on Ukraine - Reuters
-- 09/23 09:51 [FirstSquawk] Embraer: Occurrence may disrupt airline schedules, but flight safety is unaffected
-- 09/23 09:51 [FirstSquawk] Embraer says technical support is being provided as necessary actions are taken to address the issue
-- 09/23 09:52 [FirstSquawk] Embraer closely monitors situation in coordination with operators and equipment maker
-- 09/23 09:52 [FirstSquawk] Embraer says certain aircraft types, including E2, affected by GPS instability
 - 09/23 09:59 [FirstSquawk] Kallas and Iran’s Araghchi discuss reopening Strait of Hormuz and ending U.S.-Iran war - Al Jazeera
 - 09/23 10:00 [FirstSquawk] Morocco’s foreign minister: Armed groups’ role has increased significantly
 - 09/23 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.804% unchanged from previous session open
@@ -139,3 +131,4 @@
 - 09/23 15:22 [financialjuice] Iran's Deputy Oil Minister: Half of the damaged capacity of the South Pars gas field is back in production - Fars News
 - 09/23 15:23 [FirstSquawk] Half of damaged South Pars gas capacity resumes production, Iran says - Fars News
 - 09/23 15:33 [FirstSquawk] TotalEnergies starts Ima gas project to support Nigeria LNG plant
+- 09/23 15:51 [FirstSquawk] GBP/USD tests support near 1.3300, UOB says

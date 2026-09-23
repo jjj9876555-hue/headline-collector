@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 15:42 JST／対象: 09/23 03:42 〜 09/23 15:42 JST（時刻はすべて日本時間）
+生成: 2026-09-23 15:57 JST／対象: 09/23 03:57 〜 09/23 15:57 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 195 | 09/23 03:43 | 09/23 15:33 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 102 | 09/23 03:44 | 09/23 15:22 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 194 | 09/23 03:58 | 09/23 15:51 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 95 | 09/23 04:02 | 09/23 15:22 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 294 行（統合前 300 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 286 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 03:43 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 1.09% LOWER AT $99.25/BBL, DOWN $1.09
-- 09/23 03:44 [financialjuice] Brent Crude futures settle at $99.25/bbl, down $1.09, 1.09%
-- 09/23 03:45 [FirstSquawk] INDIA’S PM MODI EXPECTED TO VISIT CANADA IN DECEMBER TO SIGN TRADE DEAL — GLOBE & MAIL
-- 09/23 03:45 [financialjuice] META's Zuckerberg plans to attend Trump-Xi state dinner. $META
-- 09/23 03:50 [financialjuice] Iranian Official responds to Trump's claims: We are ready for escalation in case of enemy aggression - Fars News
-- 09/23 03:51 [financialjuice] Iran: US has not set any red lines in the region, and Iran is prepared for all possible scenarios - Fars News
-- 09/23 03:53 [financialjuice] US sources: Meeting between US representatives and Araqi's Iranian team was planned in advance; Qatar's PM participated in most of it - Israel Hayom
-- 09/23 03:54 [financialjuice] US sources: Pre-planned US meeting with Araghchi's Iranian team, Qatar's PM present, discussed resuming talks and opening Hormuz Strait; no deal on contentious issues - Israel Hayom
-- 09/23 03:56 [financialjuice] Ukraine's President Zelenskiy: Trump and I discussed an energy ceasefire and how to end the war; Ukraine ready for any format of energy ceasefire
 - 09/23 03:58 [FirstSquawk] AN IRANIAN OFFICIAL, RESPONDING TO TRUMP'S CLAIMS, SAYS IRAN IS 'READY FOR ESCALATION IN CASE OF ENEMY AGGRESSION', ADDING THAT THE U.S. 'HAS NOT SET ANY RED LINES IN THE REGION' AND THAT IRAN IS PREPARED FOR ALL POSSIBLE SCENARIOS - FARS N…
 - 09/23 03:59 [FirstSquawk] U.S. SOURCES CITED BY ISRAEL HAYOM NEWS SAY A PRE-PLANNED MEETING BETWEEN U.S. REPRESENTATIVES AND ARAGHCHI'S IRANIAN TEAM — WITH QATAR'S PM PRESENT FOR MOST OF IT — DISCUSSED RESUMING TALKS AND OPENING THE STRAIT OF HORMUZ, BUT REACHED NO …
 - 09/23 04:00 [FirstSquawk] ZELENSKIY SAYS HE AND TRUMP DISCUSSED AN ENERGY CEASEFIRE AND WAYS TO END THE WAR, WITH UKRAINE READY FOR ANY FORMAT OF AN AGREEMENT AND HOPING THE U.S. CAN BRING RUSSIA INTO NEGOTIATIONS.
@@ -318,3 +309,4 @@
 - 09/23 15:22 [financialjuice] Iran's Deputy Oil Minister: Half of the damaged capacity of the South Pars gas field is back in production - Fars News
 - 09/23 15:23 [FirstSquawk] Half of damaged South Pars gas capacity resumes production, Iran says - Fars News
 - 09/23 15:33 [FirstSquawk] TotalEnergies starts Ima gas project to support Nigeria LNG plant
+- 09/23 15:51 [FirstSquawk] GBP/USD tests support near 1.3300, UOB says
