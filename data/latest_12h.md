@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 10:32 JST／対象: 09/22 22:32 〜 09/23 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-23 10:44 JST／対象: 09/22 22:44 〜 09/23 10:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 215 | 09/22 22:33 | 09/23 10:27 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 222 | 09/22 22:33 | 09/23 10:21 | ⚠ 46分（09:15→10:01） |
+| FirstSquawk | 210 | 09/22 22:47 | 09/23 10:38 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 218 | 09/22 22:52 | 09/23 10:21 | ⚠ 46分（09:15→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 429 行（統合前 445 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 420 行（統合前 436 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 22:33 [financialjuice] Fed's Collins: I supported last week's rate hike.
-- 09/22 22:33 [FirstSquawk] FED'S COLLINS: SUPPORTED LAST WEEK'S RATE HIKE
-- 09/22 22:34 [FirstSquawk] FED'S COLLINS: NOW SEE AN INCREASED LIKELIHOOD OF FUTURE SCENARIOS IN WHICH INFLATION REMAINS NOTABLY ABOVE 2%
-- 09/22 22:34 [financialjuice] ❗ Fed's Collins: I now see an increased likelihood of future scenarios in which inflation remains notably above 2%.
-- 09/22 22:35 [financialjuice] Fed's Collins: While the upside risks to inflation have increased, labor market conditions seem a bit stronger overall.
-- 09/22 22:35 [financialjuice] Fed's Collins: With the labor market on a better footing, monetary policy can focus on a timely return to price stability, especially after five and a half years of too high inflation.
-- 09/22 22:35 [FirstSquawk] FED'S COLLINS: SOMEWHAT MORE RESTRICTIVE FEDERAL FUNDS RATE WILL HELP ENSURE THAT INFLATION DURABLY RETURNS TO TARGET
-- 09/22 22:37 [FirstSquawk] FED'S COLLINS: INCREASED LIKELIHOOD OF FUTURE SCENARIOS IN WHICH INFLATION STAYS NOTABLY ABOVE 2%
-- 09/22 22:41 [FirstSquawk] TRUMP TELLS CNN SHOULDN'T BE COVERING HIM
-- 09/22 22:42 [FirstSquawk] TRUMP SAYS HE WANTS TO SETTLE THE WAR
 - 09/22 22:47 [FirstSquawk] US PRESIDENT TRUMP’S ‘MESSAGE’ TO PUTIN: SETTLE THE WAR
 - 09/22 22:52 [financialjuice] Fed's Collins: A somewhat more restrictive federal funds rate will help ensure that inflation durably returns to target.
 - 09/22 22:52 [financialjuice] Trump speaks at the UN - WATCH LIVE
@@ -453,3 +443,4 @@
 - 09/23 10:22 [FirstSquawk] Lee highlights importance of U.S.-China summit for regional affairs, presidential office says
 - 09/23 10:23 [FirstSquawk] South Korea’s Lee, Trump reaffirm cooperation on nuclear submarines, fuel reprocessing and shipbuilding
 - 09/23 10:27 [FirstSquawk] GM CEO Mary Barra set to attend Trump’s state dinner for Xi, Reuters reports
+- 09/23 10:38 [FirstSquawk] Japan’s Aeon introduces 1,000-yen jeans as consumer spending comes under pressure - Kyodo

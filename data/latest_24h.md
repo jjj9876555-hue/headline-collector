@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 10:32 JST／対象: 09/22 10:32 〜 09/23 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-23 10:44 JST／対象: 09/22 10:44 〜 09/23 10:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 353 | 09/22 10:34 | 09/23 10:27 | ⚠ 77分（05:40→06:58） |
+| FirstSquawk | 352 | 09/22 10:52 | 09/23 10:38 | ⚠ 77分（05:40→06:58） |
 | financialjuice | 321 | 09/22 12:21 | 09/23 10:21 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 683 行（統合前 705 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 682 行（統合前 704 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 10:34 [FirstSquawk] Xbox plans hundreds of job cuts as it consolidates game studios — The Information
-- 09/22 10:43 [FirstSquawk] Canadian dollar falls to lowest level since Aug. 5 as US dollar strength weighs — FXStreet
 - 09/22 10:52 [FirstSquawk] Japan reiterates support for Nepal following flash floods at UN meeting — Kyodo
 - 09/22 10:53 [FirstSquawk] South Korea in talks with US over 5%-10% stake in Westinghouse — Yonhap
 - 09/22 10:58 [FirstSquawk] South Korea eyes nuclear power and Alaska LNG projects as part of US investment — Media
@@ -707,3 +705,4 @@
 - 09/23 10:22 [FirstSquawk] Lee highlights importance of U.S.-China summit for regional affairs, presidential office says
 - 09/23 10:23 [FirstSquawk] South Korea’s Lee, Trump reaffirm cooperation on nuclear submarines, fuel reprocessing and shipbuilding
 - 09/23 10:27 [FirstSquawk] GM CEO Mary Barra set to attend Trump’s state dinner for Xi, Reuters reports
+- 09/23 10:38 [FirstSquawk] Japan’s Aeon introduces 1,000-yen jeans as consumer spending comes under pressure - Kyodo
