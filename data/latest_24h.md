@@ -7,47 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 23:27 JST／対象: 09/22 23:27 〜 09/23 23:27 JST（時刻はすべて日本時間）
+生成: 2026-09-23 23:45 JST／対象: 09/22 23:45 〜 09/23 23:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 56 | 09/23 04:42 | 09/23 23:26 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 361 | 09/22 23:28 | 09/23 23:25 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 303 | 09/22 23:31 | 09/23 23:26 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 58 | 09/23 04:42 | 09/23 23:37 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 356 | 09/22 23:49 | 09/23 23:43 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 307 | 09/22 23:48 | 09/23 23:39 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 695 行（統合前 726 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 697 行（統合前 728 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 23:28 [FirstSquawk] IRAN'S FOREIGN MINISTER ARAGHCHI AND QATARI FOREIGN MINISTER HOLD MEETING, SAYS IRANIAN MEDIA.
-- 09/22 23:31 [financialjuice] Trump expected to meet Tuesday with representatives from nine Arab countries on potential conflict with Iran; many likely to urge him to de-escalate and seek an agreement - Barak Ravid, News 12
-- 09/22 23:33 [FirstSquawk] US PRESIDENT TRUMP: US TECHNOLOGY IS SECOND TO NONE AND LEADING GLOBALLY
-- 09/22 23:33 [financialjuice] Trump: Invested $1.5 trillion in the US military in the past 12 months.
-- 09/22 23:35 [FirstSquawk/financialjuice] TRUMP: I URGE IRAN TO MAKE A DEAL
-- 09/22 23:36 [financialjuice] EU Envoys agree to renew Russia sanctions on nearly 3,000 companies and individuals for 3 years, not the usual 6 months - EU Diplomats.
-- 09/22 23:36 [financialjuice] EU Envoys agree to lift sanctions on russian billionaires Usmanov and Fridman after push by france, luxembourg, - EU Diplomats
-- 09/22 23:37 [FirstSquawk] TRUMP SAYS HE URGED IRAN TO NEGOTIATE SEVERAL TIMES
-- 09/22 23:39 [financialjuice] Trump: More oil is flowing than at any point since the war started - UN.
-- 09/22 23:40 [financialjuice] Trump at UN: We must be united in maintaining pressure on Iran.
-- 09/22 23:40 [FirstSquawk] TRUMP: MORE OIL IS FLOWING THAN AT ANY POINT SINCE WAR STARTED
-- 09/22 23:40 [financialjuice] Trump: I believe we'll make a deal with iran right after our US election.
-- 09/22 23:40 [FirstSquawk] TRUMP: I BELIEVE WE'LL MAKE A DEAL WITH IRAN AFTER THE ELECTION
-- 09/22 23:40 [financialjuice] Trump: The United States Navy has recently escorted more than 1 billion barrels of oil out of the Strait of Hormuz.
-- 09/22 23:40 [FirstSquawk] UNITED NATIONS-TRUMP: IRAN WILL NEVER HAVE A NUCLEAR WEAPON
-- 09/22 23:41 [FirstSquawk] TRUMP: WON'T GIVE CREDENCE TO ELECTION WHEN IT COMES TO IRAN
-- 09/22 23:41 [financialjuice] Trump: I won't give credence to the election when it comes to Iran.
-- 09/22 23:41 [financialjuice] Trump: The US is adding weapons to our stockpiles fast.
-- 09/22 23:41 [financialjuice] Trump: calls on all nations to economically isolate Iran.
-- 09/22 23:42 [FirstSquawk] TRUMP: MASSIVE MUNITION PLANTS WILL BE OPENING
-- 09/22 23:42 [financialjuice] Trump: The US will be able to supply allies at a much faster rate.
-- 09/22 23:42 [FirstSquawk] UNITED NATIONS-TRUMP: CALLS ON ALL NATIONS TO ECONOMICALLY ISOLATE IRAN
-- 09/22 23:42 [FirstSquawk] TRUMP: US WILL BE ABLE TO SUPPLY ALLIES AT A MUCH FASTER RATE
-- 09/22 23:44 [FirstSquawk] TRUMP: OIL PRICES WILL PLUMMET AFTER IRAN CONFLICT IS OVER
 - 09/22 23:48 [financialjuice] Trump: We're working very closely with the leaders of Russia and Ukraine, and we will get that one done.
 - 09/22 23:49 [FirstSquawk] TRUMP: US-IRAN WILL GET DEAL DONE, ONE WAY OR THE OTHER
 - 09/22 23:49 [financialjuice] Trump: US-Iran will get a deal done, one way or the other.
@@ -719,3 +695,29 @@
 - 09/23 23:26 [financialjuice] US Secretary of State Rubio: If there's an Iran deal, it will involve hard work and time.
 - 09/23 23:26 [DeItaone] RUBIO: IF THERE'S GOING TO BE A DEAL WITH IRAN, IT'S GOING TO INVOLVE HEARD WORK OVER PERIOD OF TIME
 - 09/23 23:26 [financialjuice] US Secretary of State Rubio: Trump has a number of options available, including military options.
+- 09/23 23:27 [FirstSquawk] RUBIO: TRUMP HAS NUMBER OF OPTIONS AVAILABLE, INCLUDING MILITARY OPTIONS || IF THERE'S GOING TO BE A DEAL WITH IRAN, IT'S GOING TO INVOLVE HEARD WORK OVER PERIOD OF TIME
+- 09/23 23:27 [financialjuice] US Secretary of State Rubio delivers remarks to the press in New York City - WATCH LIVE
+- 09/23 23:27 [financialjuice] US Secretary of State Rubio: Trump is imposing a costs on Iran, but has military options.
+- 09/23 23:28 [financialjuice] WATCH LIVE: Witkoff & Kushner speak about Board of Peace at UNGA
+- 09/23 23:29 [financialjuice] Iran's Pezeshkian: Trump should know that threats unite the Iranian nation.
+- 09/23 23:29 [financialjuice] Iran's President Pezeshkian ends remarks at the UN.
+- 09/23 23:30 [FirstSquawk] US CRUDE OIL INVENTORIES ACTUAL: 2969K VS -640K PREVIOUS; EST -578K
+- 09/23 23:30 [financialjuice] Traders fully price four more ECB rate hikes by October 2027.
+- 09/23 23:30 [FirstSquawk] US CUSHING CRUDE OIL INVENTORIES ACTUAL: 2266K VS -342K PREVIOUS
+- 09/23 23:30 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL 2.969M (FORECAST -0.69M, PREVIOUS -0.640M) $MACRO
+- 09/23 23:30 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL -1.686M (FORECAST 0.5M, PREVIOUS 0.794M) $MACRO
+- 09/23 23:30 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL -0.428M (FORECAST -0.68M, PREVIOUS 1.585M) $MACRO
+- 09/23 23:30 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL 2.266M (FORECAST -, PREVIOUS -0.342M) $MACRO
+- 09/23 23:30 [financialjuice] IIF's Tiftik: US safe haven status will be questioned more.
+- 09/23 23:31 [financialjuice] IIF: Buybacks can’t resolve structural drivers of debt.
+- 09/23 23:31 [financialjuice] IIF cites an “illusion of stability’ on government debt ratios.
+- 09/23 23:31 [financialjuice] US EIA Weekly Petroleum Status Report
+- 09/23 23:33 [FirstSquawk] DISNEY+ WILL RAISE ITS MONTHLY PRICE BY 13% TO $21.49.
+- 09/23 23:34 [DeItaone] DISNEY+ HIKES AD-FREE PRICE 13% Disney is raising the price of its ad-free Disney+ plan by 13% to $21.49 per month, an increase of $2.50. Ad-free Hulu will rise by the same amount, while the Disney+ and Hulu ad-free bundle increases to $21.…
+- 09/23 23:37 [financialjuice] US State dept: Rubio met today with Russian Foreign Minister Lavrov on sidelines of UNGA
+- 09/23 23:37 [DeItaone] IRAN DEFENDS NUCLEAR RIGHTS, SIGNALS OPENNESS TO TALKS Iranian President Masoud Pezeshkian told the UN that Tehran rejects nuclear weapons but will not surrender its right to peaceful nuclear technology. On Hormuz, he said Iran cannot allow…
+- 09/23 23:37 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS DANGER HAS PASSED IN JAZAN AND NAJRAN
+- 09/23 23:37 [financialjuice] US State Dept: US Secretary of State Rubio and Lavrov discussed Russia-Ukraine war and US-Russia bilateral relationship
+- 09/23 23:38 [FirstSquawk] RUBIO: BOTH RUSSIA, UKRAINE WANT GRAIN, ENERGY CEASEFIRE
+- 09/23 23:39 [financialjuice] US Secretary of State Rubio: Both Russia and Ukraine want a grain and energy ceasefire.
+- 09/23 23:43 [FirstSquawk] NOVO'S CAGRISEMA DELIVERS SUPERIOR WEIGHT LOSS VS TIRZEPATIDE IN REIMAGINE 5 TRIAL

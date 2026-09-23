@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 23:27 JST／対象: 09/23 11:27 〜 09/23 23:27 JST（時刻はすべて日本時間）
+生成: 2026-09-23 23:45 JST／対象: 09/23 11:45 〜 09/23 23:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 09/23 18:24 | 09/23 23:26 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 149 | 09/23 11:27 | 09/23 23:25 | 30分（17:00→17:31） |
-| financialjuice | 107 | 09/23 11:32 | 09/23 23:26 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 56 | 09/23 18:24 | 09/23 23:37 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 150 | 09/23 11:49 | 09/23 23:43 | 30分（17:00→17:31） |
+| financialjuice | 120 | 09/23 12:39 | 09/23 23:39 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 295 行（統合前 311 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 311 行（統合前 328 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 11:27 [FirstSquawk] Vietnam’s TPBank plans to issue 416 million new shares to shareholders as dividends
-- 09/23 11:32 [financialjuice] China finance ministry auctions 3-month deposits at 1.47% yield: statement
-- 09/23 11:32 [FirstSquawk] China Finance Ministry auctions 3-month deposits with 1.47% yield
-- 09/23 11:33 [FirstSquawk] China Finance Ministry sells 2-month deposits at 1.46% yield
-- 09/23 11:40 [FirstSquawk] Seoul shares ease from session highs as profit-taking emerges on Wednesday morning
-- 09/23 11:41 [FirstSquawk] Odalys forecast to become a hurricane later tonight, NHC says
-- 09/23 11:43 [FirstSquawk] SoftBank Group plans $10 bln dollar bond offering across three maturities, term sheet shows
-- 09/23 11:44 [financialjuice] China names Li Lecheng party secretary of Anhui, replacing Liang Yanshun - Xinhua
-- 09/23 11:44 [financialjuice] China names Zhou Zuyi party chief of Henan, replacing Liu Ning: Xinhua
-- 09/23 11:44 [financialjuice] China appoints Zhao Long as Fujian party chief: Xinhua
 - 09/23 11:49 [FirstSquawk] Reserve Bank of Australia publishes 2026 review of ASX clearing and settlement facilities
 - 09/23 11:49 [FirstSquawk] RBA says ASX clearing and settlement facilities met many standards at ‘observed’ or ‘broadly observed’ levels
 - 09/23 11:50 [FirstSquawk] RBA says ASX continues to fall short in several important areas
@@ -319,3 +309,29 @@
 - 09/23 23:26 [financialjuice] US Secretary of State Rubio: If there's an Iran deal, it will involve hard work and time.
 - 09/23 23:26 [DeItaone] RUBIO: IF THERE'S GOING TO BE A DEAL WITH IRAN, IT'S GOING TO INVOLVE HEARD WORK OVER PERIOD OF TIME
 - 09/23 23:26 [financialjuice] US Secretary of State Rubio: Trump has a number of options available, including military options.
+- 09/23 23:27 [FirstSquawk] RUBIO: TRUMP HAS NUMBER OF OPTIONS AVAILABLE, INCLUDING MILITARY OPTIONS || IF THERE'S GOING TO BE A DEAL WITH IRAN, IT'S GOING TO INVOLVE HEARD WORK OVER PERIOD OF TIME
+- 09/23 23:27 [financialjuice] US Secretary of State Rubio delivers remarks to the press in New York City - WATCH LIVE
+- 09/23 23:27 [financialjuice] US Secretary of State Rubio: Trump is imposing a costs on Iran, but has military options.
+- 09/23 23:28 [financialjuice] WATCH LIVE: Witkoff & Kushner speak about Board of Peace at UNGA
+- 09/23 23:29 [financialjuice] Iran's Pezeshkian: Trump should know that threats unite the Iranian nation.
+- 09/23 23:29 [financialjuice] Iran's President Pezeshkian ends remarks at the UN.
+- 09/23 23:30 [FirstSquawk] US CRUDE OIL INVENTORIES ACTUAL: 2969K VS -640K PREVIOUS; EST -578K
+- 09/23 23:30 [financialjuice] Traders fully price four more ECB rate hikes by October 2027.
+- 09/23 23:30 [FirstSquawk] US CUSHING CRUDE OIL INVENTORIES ACTUAL: 2266K VS -342K PREVIOUS
+- 09/23 23:30 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL 2.969M (FORECAST -0.69M, PREVIOUS -0.640M) $MACRO
+- 09/23 23:30 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL -1.686M (FORECAST 0.5M, PREVIOUS 0.794M) $MACRO
+- 09/23 23:30 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL -0.428M (FORECAST -0.68M, PREVIOUS 1.585M) $MACRO
+- 09/23 23:30 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL 2.266M (FORECAST -, PREVIOUS -0.342M) $MACRO
+- 09/23 23:30 [financialjuice] IIF's Tiftik: US safe haven status will be questioned more.
+- 09/23 23:31 [financialjuice] IIF: Buybacks can’t resolve structural drivers of debt.
+- 09/23 23:31 [financialjuice] IIF cites an “illusion of stability’ on government debt ratios.
+- 09/23 23:31 [financialjuice] US EIA Weekly Petroleum Status Report
+- 09/23 23:33 [FirstSquawk] DISNEY+ WILL RAISE ITS MONTHLY PRICE BY 13% TO $21.49.
+- 09/23 23:34 [DeItaone] DISNEY+ HIKES AD-FREE PRICE 13% Disney is raising the price of its ad-free Disney+ plan by 13% to $21.49 per month, an increase of $2.50. Ad-free Hulu will rise by the same amount, while the Disney+ and Hulu ad-free bundle increases to $21.…
+- 09/23 23:37 [financialjuice] US State dept: Rubio met today with Russian Foreign Minister Lavrov on sidelines of UNGA
+- 09/23 23:37 [DeItaone] IRAN DEFENDS NUCLEAR RIGHTS, SIGNALS OPENNESS TO TALKS Iranian President Masoud Pezeshkian told the UN that Tehran rejects nuclear weapons but will not surrender its right to peaceful nuclear technology. On Hormuz, he said Iran cannot allow…
+- 09/23 23:37 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS DANGER HAS PASSED IN JAZAN AND NAJRAN
+- 09/23 23:37 [financialjuice] US State Dept: US Secretary of State Rubio and Lavrov discussed Russia-Ukraine war and US-Russia bilateral relationship
+- 09/23 23:38 [FirstSquawk] RUBIO: BOTH RUSSIA, UKRAINE WANT GRAIN, ENERGY CEASEFIRE
+- 09/23 23:39 [financialjuice] US Secretary of State Rubio: Both Russia and Ukraine want a grain and energy ceasefire.
+- 09/23 23:43 [FirstSquawk] NOVO'S CAGRISEMA DELIVERS SUPERIOR WEIGHT LOSS VS TIRZEPATIDE IN REIMAGINE 5 TRIAL
