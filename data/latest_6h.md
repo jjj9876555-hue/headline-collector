@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 14:16 JST／対象: 09/23 08:16 〜 09/23 14:16 JST（時刻はすべて日本時間）
+生成: 2026-09-23 14:33 JST／対象: 09/23 08:33 〜 09/23 14:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 106 | 09/23 08:20 | 09/23 14:10 | 11分（13:49→14:00） |
+| FirstSquawk | 104 | 09/23 08:36 | 09/23 14:20 | 11分（13:49→14:00） |
 | financialjuice | 29 | 09/23 08:41 | 09/23 13:39 | ⚠ 54分（11:44→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 135 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 133 行（統合前 133 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 08:20 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI MET IRAQI COUNTERPART AT UN GENERAL ASSEMBLY - TASNIM
-- 09/23 08:24 [FirstSquawk] TRUMP PRAISED U.K. PRIME MINISTER ANDY BURNHAM AFTER THEIR FIRST U.N. MEETING, CALLING HIM “A NATURAL BUSINESS PERSON,” WHILE SAYING THE LEADERS HELD EXTENSIVE TALKS ON TRADE, THE MIDDLE EAST, UKRAINE AND AI.
-- 09/23 08:24 [FirstSquawk] TRUMP CRITICIZED THE U.K.’S CHAGOS ISLANDS DEAL WITH MAURITIUS AS “A TERRIBLE DEAL” OVER STRATEGIC MILITARY TERRITORY, WHILE BURNHAM PLEDGED LIMITED SUPPORT FOR SAUDI ARABIA AGAINST HOUTHI ATTACKS, CALLED FOR MORE U.S. AIR DEFENSE SUPPORT F…
-- 09/23 08:30 [FirstSquawk] IRANIAN STATE MEDIA SAYS FOREIGN MINISTER ABBAS ARAGHCHI MET U.S. ENVOY STEVE WITKOFF AT THE UN GENERAL ASSEMBLY, WITH TEHRAN SAYING THE TALKS CENTERED ON ITS CONDITIONS FOR REOPENING THE STRAIT OF HORMUZ, INCLUDING LIFTING THE U.S. NAVAL B…
-- 09/23 08:30 [FirstSquawk] IRAN ALSO CALLED FOR AN END TO THE WAR ACROSS ALL “RESISTANCE” FRONTS, WHILE SHIPPING THROUGH THE STRAIT OF HORMUZ REMAINED SEVERELY DISRUPTED, WITH JUST TWO COMMODITY VESSELS CROSSING MONDAY VERSUS A PRE-CONFLICT AVERAGE OF ABOUT 125 LARGE…
 - 09/23 08:36 [FirstSquawk] U.S. ENVOY WITKOFF SAYS HE HELD LENGTHY TALKS WITH THE IRANIAN DELEGATION THROUGH MEDIATORS, WHO WILL CONTINUE THEIR WORK, ADDING THAT HE HOPES THE TALKS PROVE CONSTRUCTIVE AND PROMISING
 - 09/23 08:39 [FirstSquawk] U.K. PRIME MINISTER ANDY BURNHAM SAYS HE REAFFIRMED BRITAIN’S POSITION ON THE FALKLAND ISLANDS DURING TALKS WITH PRESIDENT DONALD TRUMP, SAYING THE U.K. WILL “STAND FIRM” AND DEFEND THE ISLANDERS’ RIGHT TO SELF-DETERMINATION AND TO REMAIN B…
 - 09/23 08:41 [financialjuice] Microsoft to increase Copilot discounts as it introduces AI ‘super app’ - The Information
@@ -159,3 +154,6 @@
 - 09/23 14:07 [FirstSquawk] Kotecki: Polish central bank nearing discussion on possible November interest rate hike
 - 09/23 14:10 [FirstSquawk] Kotecki signals any Polish rate hikes would be gradual and limited
 - 09/23 14:10 [FirstSquawk] Goldman leads M&A activity as freed capital fuels dealmaking - RTRS
+- 09/23 14:19 [FirstSquawk] Roche says sefaxersen significantly reduces proteinuria in Phase III IgA nephropathy study
+- 09/23 14:19 [FirstSquawk] Russian forces hit cargo ship in Black Sea, Defence Ministry says - IFX
+- 09/23 14:20 [FirstSquawk] Russia says its forces hit Ukrainian defence, energy facilities and logistics centres - RIA

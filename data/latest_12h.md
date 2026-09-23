@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 14:16 JST／対象: 09/23 02:16 〜 09/23 14:16 JST（時刻はすべて日本時間）
+生成: 2026-09-23 14:33 JST／対象: 09/23 02:33 〜 09/23 14:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 208 | 09/23 02:31 | 09/23 14:10 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 133 | 09/23 02:28 | 09/23 13:39 | ⚠ 54分（11:44→12:39） |
+| FirstSquawk | 210 | 09/23 02:34 | 09/23 14:20 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 131 | 09/23 02:35 | 09/23 13:39 | ⚠ 54分（11:44→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 337 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 337 行（統合前 344 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 02:28 [financialjuice] Trump adviser ties high Gas prices to refining - Axios
-- 09/23 02:31 [financialjuice] Fed's Barkin: Like to think this period will be more like the 1990s mid-cycle adjustment.
-- 09/23 02:31 [FirstSquawk] TRUMP ADVISER AGEN TIES HIGHER GAS PRICES TO STRAINED REFINING CAPACITY - AXIOS, VIA DBNEWS
 - 09/23 02:34 [FirstSquawk] US PROPOSES $10 BLN FUND WITH ARAB ALLIES TO BYPASS HORMUZ – FT
 - 09/23 02:35 [financialjuice] Trump Participates in a Bilateral Meeting with the President of Ukraine - WATCH LIVE
 - 09/23 02:37 [FirstSquawk] AI-LINKED TECHNOLOGY STOCKS LED A ROTATION OUT OF FINANCIALS, PUSHING THE NASDAQ 100 TO THE BRINK OF ITS FIRST RECORD CLOSE SINCE JUNE, WHILE SHOPIFY JUMPED 7.3% AFTER ITS MUSE AI PARTNERSHIP WITH META.
@@ -361,3 +358,6 @@
 - 09/23 14:07 [FirstSquawk] Kotecki: Polish central bank nearing discussion on possible November interest rate hike
 - 09/23 14:10 [FirstSquawk] Kotecki signals any Polish rate hikes would be gradual and limited
 - 09/23 14:10 [FirstSquawk] Goldman leads M&A activity as freed capital fuels dealmaking - RTRS
+- 09/23 14:19 [FirstSquawk] Roche says sefaxersen significantly reduces proteinuria in Phase III IgA nephropathy study
+- 09/23 14:19 [FirstSquawk] Russian forces hit cargo ship in Black Sea, Defence Ministry says - IFX
+- 09/23 14:20 [FirstSquawk] Russia says its forces hit Ukrainian defence, energy facilities and logistics centres - RIA
