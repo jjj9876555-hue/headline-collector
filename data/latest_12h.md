@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 12:37 JST／対象: 09/23 00:37 〜 09/23 12:37 JST（時刻はすべて日本時間）
+生成: 2026-09-23 12:51 JST／対象: 09/23 00:51 〜 09/23 12:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 202 | 09/23 00:41 | 09/23 12:32 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 162 | 09/23 00:39 | 09/23 11:44 | ⚠ 46分（09:15→10:01） |
+| FirstSquawk | 202 | 09/23 00:54 | 09/23 12:48 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 160 | 09/23 00:52 | 09/23 12:39 | ⚠ 54分（11:44→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 357 行（統合前 371 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 355 行（統合前 369 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 00:39 [financialjuice] Trump signs the security agreement with Denmark and Greenland.
-- 09/23 00:41 [FirstSquawk] IRGC SPOX HOSSEIN MOHEBI: IRAN 'TOUGHENED' CONDITIONS FOR ENDING WAR AFTER US DEAL COLLAPSE - AFP
-- 09/23 00:42 [financialjuice] Trump concludes the Trilateral Signing Event.
-- 09/23 00:45 [financialjuice] French Budget Minister Amiel: The cost of our new measures are estimated at €450 mln.
-- 09/23 00:50 [FirstSquawk] US WILL BE ALLOWED TO ESTABLISH MILITARY BASES AT NARSARSUAQ AND MESTERSVIG UNDER THE GREENLAND AGREEMENT
 - 09/23 00:52 [financialjuice] Iran National Security Committee Spokesperson: The Strait of Hormuz rule violations will carry a fine equal to 20% of the cargo value and temporary vessel seizure until the fine is paid - Fars News.
 - 09/23 00:54 [financialjuice] The US may establish more defense areas in Greenland - White House.
 - 09/23 00:54 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI, EU'S KALLAS MET ON UN GENERAL ASSEMBLY SIDELINES – SNN
@@ -381,3 +376,6 @@
 - 09/23 12:22 [FirstSquawk] US investment concerns stall plans for Chinese business leaders to join Xi’s trip - SCMP
 - 09/23 12:25 [FirstSquawk] Chinese crusher books Australian canola cargo in one of first private new-crop deals — RTRS
 - 09/23 12:32 [FirstSquawk] DBS sees uneven ASEAN growth as AI reshapes regional economies
+- 09/23 12:39 [FirstSquawk] World Bank makes up to $170 million available for Nepal’s immediate flood response
+- 09/23 12:39 [financialjuice] China finance ministry offers 3-month bills at 1.1101% yield: traders
+- 09/23 12:48 [FirstSquawk] Singapore dollar eases ahead of August inflation figures - WSJ

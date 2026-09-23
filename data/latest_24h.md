@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 12:37 JST／対象: 09/22 12:37 〜 09/23 12:37 JST（時刻はすべて日本時間）
+生成: 2026-09-23 12:51 JST／対象: 09/22 12:51 〜 09/23 12:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 336 | 09/22 12:49 | 09/23 12:32 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 308 | 09/22 12:48 | 09/23 11:44 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 337 | 09/22 12:52 | 09/23 12:48 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 308 | 09/22 12:52 | 09/23 12:39 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 653 行（統合前 675 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 654 行（統合前 676 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 12:48 [financialjuice] RBA governor Bullock: Neutral rates rising globally, driving up real bond yields
-- 09/22 12:49 [FirstSquawk] RBA Gov. Bullock: Neutral interest rates rising worldwide are putting upward pressure on real bond yields
 - 09/22 12:52 [financialjuice] RBA Governor Bullock: Australian dollar mirrors commodities and interest rate gaps
 - 09/22 12:52 [FirstSquawk] RBA Gov. Bullock: Australian dollar reflects commodity prices and interest-rate differentials
 - 09/22 12:55 [financialjuice] RBA Governor Bullock: not indicating any policy shift, decision up to board
@@ -677,3 +675,6 @@
 - 09/23 12:22 [FirstSquawk] US investment concerns stall plans for Chinese business leaders to join Xi’s trip - SCMP
 - 09/23 12:25 [FirstSquawk] Chinese crusher books Australian canola cargo in one of first private new-crop deals — RTRS
 - 09/23 12:32 [FirstSquawk] DBS sees uneven ASEAN growth as AI reshapes regional economies
+- 09/23 12:39 [FirstSquawk] World Bank makes up to $170 million available for Nepal’s immediate flood response
+- 09/23 12:39 [financialjuice] China finance ministry offers 3-month bills at 1.1101% yield: traders
+- 09/23 12:48 [FirstSquawk] Singapore dollar eases ahead of August inflation figures - WSJ
