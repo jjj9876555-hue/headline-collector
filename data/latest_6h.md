@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 05:32 JST／対象: 09/23 23:32 〜 09/24 05:32 JST（時刻はすべて日本時間）
+生成: 2026-09-24 05:45 JST／対象: 09/23 23:45 〜 09/24 05:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 09/23 23:34 | 09/24 05:25 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 87 | 09/23 23:33 | 09/24 05:26 | 34分（01:56→02:31） |
-| financialjuice | 85 | 09/23 23:37 | 09/24 05:32 | 22分（02:06→02:28） |
+| DeItaone | 25 | 09/23 23:55 | 09/24 05:25 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 83 | 09/23 23:47 | 09/24 05:26 | 34分（01:56→02:31） |
+| financialjuice | 84 | 09/23 23:47 | 09/24 05:39 | 22分（02:06→02:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 197 行（統合前 200 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 190 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 23:33 [FirstSquawk] DISNEY+ WILL RAISE ITS MONTHLY PRICE BY 13% TO $21.49.
-- 09/23 23:34 [DeItaone] DISNEY+ HIKES AD-FREE PRICE 13% Disney is raising the price of its ad-free Disney+ plan by 13% to $21.49 per month, an increase of $2.50. Ad-free Hulu will rise by the same amount, while the Disney+ and Hulu ad-free bundle increases to $21.…
-- 09/23 23:37 [financialjuice] US State dept: Rubio met today with Russian Foreign Minister Lavrov on sidelines of UNGA
-- 09/23 23:37 [DeItaone] IRAN DEFENDS NUCLEAR RIGHTS, SIGNALS OPENNESS TO TALKS Iranian President Masoud Pezeshkian told the UN that Tehran rejects nuclear weapons but will not surrender its right to peaceful nuclear technology. On Hormuz, he said Iran cannot allow…
-- 09/23 23:37 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS DANGER HAS PASSED IN JAZAN AND NAJRAN
-- 09/23 23:37 [financialjuice] US State Dept: US Secretary of State Rubio and Lavrov discussed Russia-Ukraine war and US-Russia bilateral relationship
-- 09/23 23:38 [FirstSquawk] RUBIO: BOTH RUSSIA, UKRAINE WANT GRAIN, ENERGY CEASEFIRE
-- 09/23 23:39 [financialjuice] US Secretary of State Rubio: Both Russia and Ukraine want a grain and energy ceasefire.
-- 09/23 23:43 [FirstSquawk] NOVO'S CAGRISEMA DELIVERS SUPERIOR WEIGHT LOSS VS TIRZEPATIDE IN REIMAGINE 5 TRIAL
 - 09/23 23:47 [financialjuice] US Energy Secretary Wright: The US might consider leaving the IEA if there is no alignment on climate issues.
 - 09/23 23:47 [FirstSquawk] US MIGHT CONSIDER LEAVING IEA IF THERE IS NO ALIGNMENT ON CLIMATE ISSUES, ENERGY SECRETARY WRIGHT SAYS
 - 09/23 23:47 [financialjuice] US Treasury Secretary Bessent: I met with China's He to finish up Sunday talks - Fox Business.
@@ -221,3 +212,5 @@
 - 09/24 05:26 [FirstSquawk] MARKETS INCREASINGLY PRICE TWO MORE FED RATE HIKES AFTER GOVERNOR MICHAEL BARR SAID FURTHER TIGHTENING MAY BE NEEDED, WHILE IRAN’S PRESIDENT SAID TEHRAN WILL NOT ALLOW FREEDOM OF NAVIGATION THROUGH THE STRAIT OF HORMUZ UNDER SANCTIONS AND A…
 - 09/24 05:31 [financialjuice] UK's Healey: I spoke with US Treasury Secretary Bessent today - Post on X.
 - 09/24 05:32 [financialjuice] UK's Chancellor Healey spoke to Bessent on stepping up pressure on Iran and how to work together to drive growth in both nations.
+- 09/24 05:33 [financialjuice] OpenAI Agents accessed Australia's Medicare statistics - News24.
+- 09/24 05:39 [financialjuice] Australia's Prime Minister Albanese: I am aware of AI incidents happening elsewhere.
