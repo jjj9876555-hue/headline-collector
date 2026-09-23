@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 04:43 JST／対象: 09/23 22:43 〜 09/24 04:43 JST（時刻はすべて日本時間）
+生成: 2026-09-24 04:54 JST／対象: 09/23 22:54 〜 09/24 04:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 09/23 22:44 | 09/24 03:30 | ⚠ 51分（01:07→01:59） |
-| FirstSquawk | 105 | 09/23 22:43 | 09/24 04:26 | 34分（01:56→02:31） |
-| financialjuice | 128 | 09/23 22:43 | 09/24 04:30 | 22分（02:06→02:28） |
+| DeItaone | 45 | 09/23 23:00 | 09/24 03:30 | ⚠ 51分（01:07→01:59） |
+| FirstSquawk | 99 | 09/23 22:54 | 09/24 04:48 | 34分（01:56→02:31） |
+| financialjuice | 121 | 09/23 23:01 | 09/24 04:50 | 22分（02:06→02:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 278 行（統合前 286 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 260 行（統合前 268 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 22:43 [FirstSquawk] REZAEI SAYS IF NEIGHBORING COUNTRIES GO ALONG WITH U.S. IN STOPPING IRANIAN FLIGHTS, THEIR AIRPORTS WON'T BE ABLE TO WORK
-- 09/23 22:43 [financialjuice] Iran's General Razai: If neighboring countries go along with the US in stopping Iranian flights, their airports won't be able to work.
-- 09/23 22:44 [financialjuice] Iran's Araghchi: I warned European officials against supporting the war crimes of the United States and Israel - Post on X.
-- 09/23 22:44 [DeItaone] IRAN SAYS IT’S IN NO RUSH TO NEGOTIATE Iran’s security chief Ali Rezaei says Tehran is “not in a hurry” to negotiate, maintaining a firm stance toward potential talks. Rezaei said Iran’s conditions have now been finalized and handed to Qata…
-- 09/23 22:45 [financialjuice] ❗ US S&P MANUFACTURING PMI FLASH ACTUAL 57 (FORECAST 53.7, PREVIOUS 53.9) $MACRO
-- 09/23 22:45 [financialjuice] US S&P COMPOSITE PMI FLASH ACTUAL 58.4 (FORECAST 55.3, PREVIOUS 56.0) $MACRO
-- 09/23 22:45 [financialjuice] ❗ US S&P SERVICES PMI FLASH ACTUAL 58.7 (FORECAST 55.8, PREVIOUS 56.5) $MACRO
-- 09/23 22:45 [DeItaone] *US S&P GLOBAL SEPT. COMPOSITE PMI RISES TO FIVE-YEAR HIGH
-- 09/23 22:45 [FirstSquawk] US S&P GLOBAL SERVICES PMI (SEP) ACTUAL: 58.7 VS 56.5 PREVIOUS; EST 55.8
-- 09/23 22:45 [FirstSquawk] US S&P GLOBAL MANUFACTURING PMI (SEP) ACTUAL: 57 VS 53.9 PREVIOUS; EST 53.7
-- 09/23 22:46 [FirstSquawk] US SEPT. COMPOSITE PMI 58.4 VS PRIOR 56
-- 09/23 22:46 [financialjuice] US S&P September Prelim PMI Report
-- 09/23 22:47 [DeItaone] U.S. S&P GLOBAL SEPTEMBER FLASH MANUFACTURING PMI AT 57.0 (FORECAST 53.6) U.S. S&P GLOBAL SEPTEMBER FLASH SERVICES PMI AT 58.7 (FORECAST 56.0) U.S. S&P GLOBAL SEPTEMBER FLASH COMPOSITE PMI AT 58.4 (VS 56.0 IN AUGUST)
-- 09/23 22:47 [FirstSquawk] US TREASURIES EXTEND SLIDE AFTER STRONG S&P GLOBAL US PMI GAUGES
-- 09/23 22:50 [DeItaone] U.S. TREASURY YIELDS RISE FURTHER AFTER DATA; YIELD ON 10-YEAR TREASURY NOTE LAST UP 5.81 BASIS POINTS AT 5.025%
-- 09/23 22:51 [FirstSquawk] IRAN'S ARAGHCHI: I WARNED EUROPEAN OFFICIALS AGAINST SUPPORTING THE WAR CRIMES OF THE UNITED STATES AND ISRAEL
-- 09/23 22:51 [financialjuice] Iran's General Razai: In our new diplomacy, we have a leverage called the Strait of Hormuz, which guarantees negotiations - Fars News.
-- 09/23 22:52 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS LAST UP 6.63 BASIS POINTS AT 4.843%
-- 09/23 22:52 [financialjuice] Iran's General Razai: Trump may want to do something in the mountains of Iran or attack our nuclear sites, but we will tolerate even that; our armed forces have a plan ready to respond.
-- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: TRUMP'S CRIMINAL ACTIONS NOT ONLY FAILED TO UNDERMINE THE AUTHORITY OF THE ISLAMIC REPUBLIC OF IRAN, BUT INSTEAD TRANSFORMED IRAN INTO ONE OF THE MOST POWERFUL ACTORS AND THE FOURTH-LARGEST POWER IN…
-- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: AMERICAN MEDIA ATTACH NO VALUE TO TRUMP'S SPEECHES. IF THEY DID, THEY WOULD NOT MUTE HIS MICROPHONE OR IGNORE HIM.
 - 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: IF TRUMP WERE SUCCESSFUL, HE SHOULDN'T HAVE FOCUSED THIS MUCH ON IRAN AT THE UNGA.
 - 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: THE VERY FACT THAT ALL OF TRUMP'S REMARKS REVOLVE AROUND IRAN SHOWS THAT IT HAS BECOME THE BIGGEST PROBLEM AND THE FOCUS OF HIS LIFE AND POLITICS, AS WELL AS AMERICAN POLICY.
 - 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: TRUMP HIMSELF HAS REALIZED THAT HE IS A CRIMINAL. FROM INTERNATIONAL COURTS TO THE COURTS OF THE ISLAMIC WORLD, THEY WILL HOLD BOTH HIM AND NETANYAHU ACCOUNTABLE.
@@ -302,3 +281,6 @@
 - 09/24 04:25 [financialjuice] Anthropic's Amodei: Anthropic to slow AI as needed for safety reasons
 - 09/24 04:26 [FirstSquawk] US REJECTS IRAN PROPOSAL TO OPEN STRAIT OF HORMUZ - YONHAP
 - 09/24 04:30 [financialjuice] US Energy Secretary Wright reiterates diesel ban is not being discussed - NYT
+- 09/24 04:48 [FirstSquawk] ETHIOPIA'S PRESIDENT ATSKE-SELASSIE AMDE SAYS AT THE UNITED NATIONS THAT ETHIOPIA HAS ACHIEVED NOTABLE PROGRESS WITH SEVERAL NEIGHBORS 'IN SPITE OF RECKLESS EXTERNAL ACTORS', ADDING THAT 'DESPITE CONTINUED INTERFERENCE IN OUR INTERNAL AFFAI…
+- 09/24 04:48 [FirstSquawk] ETHIOPIA'S PRESIDENT ATSKE-SELASSIE AMDE SAYS 'OUR MESSAGE TO FORCES OF DESTRUCTION AND MAYHEM IS LOUD AND CLEAR', URGING THEM 'TO RESPECT THE SACRED RIGHT OF THE PEOPLE OF THE HORN OF AFRICA TO LIVE IN PEACE'.
+- 09/24 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -3037.6 MLN NASDAQ 100: -1140.1 MLN DOW 30: -736.0 MLN MAG 7: -655.1 MLN $MACRO

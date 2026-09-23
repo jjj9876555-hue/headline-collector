@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 04:43 JST／対象: 09/23 16:43 〜 09/24 04:43 JST（時刻はすべて日本時間）
+生成: 2026-09-24 04:54 JST／対象: 09/23 16:54 〜 09/24 04:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 80 | 09/23 18:24 | 09/24 03:30 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 163 | 09/23 16:48 | 09/24 04:26 | 34分（01:56→02:31） |
-| financialjuice | 173 | 09/23 16:46 | 09/24 04:30 | ⚠ 71分（18:33→19:45） |
+| FirstSquawk | 164 | 09/23 17:00 | 09/24 04:48 | 34分（01:56→02:31） |
+| financialjuice | 173 | 09/23 17:00 | 09/24 04:50 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 399 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 400 行（統合前 420 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 16:46 [financialjuice] NVIDIA-backed Firmus seeks $10 billion financing for AI chips.
-- 09/23 16:48 [FirstSquawk] NVIDIA-SUPPORTED FIRMUS AIMS TO RAISE $10 BILLION FOR AI CHIP DEVELOPMENT.
 - 09/23 17:00 [financialjuice] EUROZONE SERVICES PMI FLASH ACTUAL 53 (FORECAST 51.4, PREVIOUS 51.6) $MACRO
 - 09/23 17:00 [financialjuice] EUROZONE COMPOSITE PMI FLASH ACTUAL 53.1 (FORECAST 51.7, PREVIOUS 52.0) $MACRO
 - 09/23 17:00 [financialjuice] ❗ EUROZONE MANUFACTURING PMI FLASH ACTUAL 52.7 (FORECAST 52.6, PREVIOUS 52.7) $MACRO
@@ -423,3 +421,6 @@
 - 09/24 04:25 [financialjuice] Anthropic's Amodei: Anthropic to slow AI as needed for safety reasons
 - 09/24 04:26 [FirstSquawk] US REJECTS IRAN PROPOSAL TO OPEN STRAIT OF HORMUZ - YONHAP
 - 09/24 04:30 [financialjuice] US Energy Secretary Wright reiterates diesel ban is not being discussed - NYT
+- 09/24 04:48 [FirstSquawk] ETHIOPIA'S PRESIDENT ATSKE-SELASSIE AMDE SAYS AT THE UNITED NATIONS THAT ETHIOPIA HAS ACHIEVED NOTABLE PROGRESS WITH SEVERAL NEIGHBORS 'IN SPITE OF RECKLESS EXTERNAL ACTORS', ADDING THAT 'DESPITE CONTINUED INTERFERENCE IN OUR INTERNAL AFFAI…
+- 09/24 04:48 [FirstSquawk] ETHIOPIA'S PRESIDENT ATSKE-SELASSIE AMDE SAYS 'OUR MESSAGE TO FORCES OF DESTRUCTION AND MAYHEM IS LOUD AND CLEAR', URGING THEM 'TO RESPECT THE SACRED RIGHT OF THE PEOPLE OF THE HORN OF AFRICA TO LIVE IN PEACE'.
+- 09/24 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -3037.6 MLN NASDAQ 100: -1140.1 MLN DOW 30: -736.0 MLN MAG 7: -655.1 MLN $MACRO
