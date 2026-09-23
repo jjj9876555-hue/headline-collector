@@ -7,47 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 08:53 JST／対象: 09/23 02:53 〜 09/23 08:53 JST（時刻はすべて日本時間）
+生成: 2026-09-23 09:23 JST／対象: 09/23 03:23 〜 09/23 09:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 97 | 09/23 02:54 | 09/23 08:47 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 91 | 09/23 02:53 | 09/23 08:41 | 44分（06:44→07:28） |
+| FirstSquawk | 105 | 09/23 03:35 | 09/23 09:23 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 79 | 09/23 03:31 | 09/23 09:15 | 44分（06:44→07:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 184 行（統合前 191 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 181 行（統合前 187 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 02:53 [financialjuice] ❗ Trump: US officials met with iranian delegation met earlier for three hours
-- 09/23 02:53 [financialjuice] ❗ Trump: The Iran meeting went very well
-- 09/23 02:54 [financialjuice] ❗ Trump: US officials met with an Iranian delegation earlier for three hours.
-- 09/23 02:54 [FirstSquawk] TRUMP SAYS THE IRAN MEETING 'WENT VERY WELL', ADDING THAT U.S. OFFICIALS MET WITH AN IRANIAN DELEGATION EARLIER FOR THREE HOURS
-- 09/23 02:55 [financialjuice] Trump: The Iran meeting was very productive; another is scheduled in the near future.
-- 09/23 02:55 [financialjuice] US Envoy Witkoff on Iran meeting: Feel very good right now.
-- 09/23 02:55 [FirstSquawk] TRUMP SAYS IRAN MEETING WAS ‘VERY PRODUCTIVE’; ANOTHER MEETING SCHEDULED SOON
-- 09/23 02:56 [FirstSquawk] TRUMP SAYS HE WILL DISCUSS PATRIOT MISSILES WITH ZELENSKIY
-- 09/23 02:56 [financialjuice] Trump ends remarks to reporters.
-- 09/23 02:57 [FirstSquawk] TRUMP SAYS HE AND UKRAINIAN PRESIDENT VOLODYMYR ZELENSKIY ARE WORKING ON A SOLUTION TO END THE WAR, WHILE SAYING RUSSIAN REFINERY STRIKES ARE A SERIOUS BLOW TO MOSCOW AND ARE IMPACTING DIESEL PRICES.
-- 09/23 02:57 [FirstSquawk] TRUMP SAYS PUTIN IS WILLING TO MEET TO DISCUSS ENDING THE WAR, WHILE HE PLANS TO DISCUSS PATRIOT MISSILES WITH ZELENSKIY; TREASURY SECRETARY SCOTT BESSENT SAYS THE ADMINISTRATION IS EXAMINING A POSSIBLE BAN ON DIESEL EXPORTS.
-- 09/23 02:58 [financialjuice] US Treasury Secretary Bessent eyed for Trump’s ‘AI Czar’- Semafor
-- 09/23 02:58 [financialjuice/FirstSquawk] EU's Foreign Minister Kallas: Met with Iranian Foreign Minister Araghchi and addressed diplomatic prospects for ending the US-Iran war.
-- 09/23 02:59 [FirstSquawk] BESSENT EMERGES AS FRONTRUNNER FOR TRUMP’S NEW ‘AI CZAR’ ROLE — SEMAFOR
-- 09/23 03:01 [FirstSquawk] FLIGHTS FROM TEHRAN TO BAGHDAD AND MUSCAT HAVE BEEN CANCELLED STARTING WEDNESDAY MIDNIGHT LOCAL TIME, IRAN'S TASNIM NEWS AGENCY SAYS, ADDING THAT IRAN IS WORKING ON DIVERTING BAGHDAD FLIGHTS TO NAJAF, WITH REMAINING INTERNATIONAL FLIGHTS IN…
-- 09/23 03:02 [financialjuice] Flights from Tehran to Baghdad and Muscat cancelled starting Wednesday midnight local time; Iran is working on diverting Baghdad flights to Najaf, other international flights including Istanbul still ongoing - Tasnim News
-- 09/23 03:11 [FirstSquawk] IRAQ ORDERS SUSPENSION OF IRANIAN FLIGHTS TO BAGHDAD FROM WEDNESDAY MIDNIGHT — SOURCES
-- 09/23 03:11 [FirstSquawk] IRAQ DISCUSSING DIVERTING IRANIAN AIRWAYS FLIGHTS FROM BAGHDAD TO NAJAF AIRPORT — SOURCES
-- 09/23 03:16 [financialjuice] Fed's Barkin: Businesses and institutions are less reluctant to make investment and spending decisions after era of uncertainty
-- 09/23 03:16 [financialjuice] Fed's Barkin: Many businesses still feel they have pricing power
-- 09/23 03:16 [financialjuice] Fed's Barkin: Would not yet make an overheating case, but economy is firming and not weakening
-- 09/23 03:16 [financialjuice] Fed's Barkin: Tempering business expectations about inflation may help cool price pressures versus needing to rely on demand destruction
-- 09/23 03:17 [financialjuice] Fed's Barkin: Seeing more price pressures than I'm comfortable with
-- 09/23 03:20 [financialjuice] OpenAI introduces GPT-6 Sol & Luna, expanding the GPT-6 universe
 - 09/23 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $94.59 a barrel down $1.19, 1.24%
 - 09/23 03:31 [financialjuice] NYMEX diesel Oct. futures settle at $4.9421 a gallon
 - 09/23 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.4875 a gallon
@@ -208,3 +184,24 @@
 - 09/23 08:41 [financialjuice] Microsoft to increase Copilot discounts as it introduces AI ‘super app’ - The Information
 - 09/23 08:41 [FirstSquawk] MICROSOFT BOOSTS COPILOT DISCOUNTS AS IT LAUNCHES AI “SUPER APP” — THE INFORMATION
 - 09/23 08:47 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN 1% TO $89.60/BBL ON HOPES OF INCREASED GULF SUPPLIES
+- 09/23 08:57 [FirstSquawk] ISRAELI AIRSTRIKES & ARTILLERY HIT SOUTHERN LEBANON; LOUD EXPLOSION REPORTED IN KHIAM AMID STRIKES — MEHR
+- 09/23 08:57 [FirstSquawk] UK PM BURNHAM: BRITAIN WILL STAND FIRM IN DEFENDING ITS PEOPLE & ALLIES — AL JAZEERA
+- 09/23 08:59 [FirstSquawk] U.S. SPECIAL ENVOY STEVE WITKOFF SAYS THAT TODAY, ON THE SIDELINES OF THE UNITED NATIONS GENERAL ASSEMBLY, 'WE ENGAGED IN LENGTHY TALKS WITH THE IRANIAN DELEGATION THROUGH THE MEDIATORS, WHO SHUTTLED BETWEEN THE TWO SIDES THROUGHOUT THE DAY…
+- 09/23 08:59 [FirstSquawk] U.S. SPECIAL ENVOY STEVE WITKOFF SAYS THEY 'SUCCESSFULLY COMPLETED A ROUND OF DISCUSSIONS THAT WE HOPE WILL PROVE CONSTRUCTIVE AND PROMISING', ADDING THAT 'THE MEDIATORS WILL CONTINUE THEIR WORK'.
+- 09/23 09:00 [FirstSquawk] JAPAN'S PRIME MINISTER SANAE TAKAICHI SAYS 'THE CATASTROPHIC CONSEQUENCES OF NUCLEAR WEAPONS MUST NEVER BE REPEATED', ADDING THAT IT IS JAPAN'S MISSION, 'AS THE ONLY COUNTRY TO EVER SUFFER ATOMIC BOMBINGS DURING WAR, TO LEAD THE EFFORTS OF …
+- 09/23 09:01 [FirstSquawk] SK HYNIX SHARES GAIN 3%
+- 09/23 09:01 [FirstSquawk] JPMORGAN EXPLORED PARTNERSHIPS TO APPROVE & ASSUME RISK ON SOME DENIED CO-BRANDED CREDIT-CARD APPLICATIONS — WSJ
+- 09/23 09:04 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS 'BRITAIN IS BACK. WE ARE RESTORING OUR STABILITY', AND THAT BRITAIN IS 'AMERICA'S CLOSEST ALLY'.
+- 09/23 09:04 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS THE KREMLIN SPENDS AROUND £1.3 BLN EACH YEAR ON 'MANIPULATING INFORMATION', DESCRIBING 'AN INSIDIOUS CAMPAIGN THAT REACHES INTO PEOPLE'S HOMES AND TWISTS WHAT THEY FEEL ABOUT THEIR OWN COUNTRY', CREATING …
+- 09/23 09:05 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS 'TODAY, I'M ASKING OUR SECURITY CHIEFS IN THE UK TO BEGIN WORK ON A NEW NATIONAL CENTER FOR INFORMATION DEFENSE TO DETECT, ATTRIBUTE AND DISRUPT THESE KINDS OF HOSTILE STATE INFORMATION ATTACKS'.
+- 09/23 09:05 [financialjuice] State Dept: Rubio to meet Russian Foreign Minister Sergey Lavrov in New York City on Wednesday
+- 09/23 09:05 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS 'WE HAVE EVIDENCE THAT RUSSIAN AGENCIES TRIED TO INTERFERE WITH THE 2019 GENERAL ELECTION', ADDING THAT BRITAIN 'WILL ALWAYS STAND FOR THE UNDERDOG AGAINST THE BULLY' AND IS 'SO UNITED BEHIND UKRAINE'.
+- 09/23 09:05 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS BRITAIN 'WILL STAND FIRM IN THE FACE OF ANY THREATS AND CHALLENGES TO THE RULE OF LAW, NOT JUST FROM RUSSIA, BUT FROM OTHERS, TOO', INCLUDING WHERE THEY THREATEN THE RIGHTS OF BRITISH TERRITORIES TO REMAI…
+- 09/23 09:07 [FirstSquawk] US SECRETARY OF STATE RUBIO TO MEET RUSSIAN FM LAVROV IN NEW YORK AT 9 AM ET WEDNESDAY — SOURCES
+- 09/23 09:08 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.3% TO 8,781.60 POINTS IN EARLY TRADE
+- 09/23 09:09 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS ON ISRAEL THAT 'WE STAND WITH ISRAEL IN THE FACE OF THE ONGOING THREATS, INCLUDING FROM IRAN, AGAINST ISRAEL AND JEWISH PEOPLE AROUND THE WORLD', BUT THAT 'THIS DOES NOT JUSTIFY THE ISRAELI GOVERNMENT'S A…
+- 09/23 09:09 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS 'WE WANT TO SEE THE SUFFERING AND DEATH FINALLY COME TO AN END' AND 'ISRAELI AND PALESTINIAN PEOPLE LIVING SIDE BY SIDE IN PEACE AND SECURITY', ADDING THAT 'WE WILL DO ALL WE CAN TO KEEP THE HOPE OF THAT …
+- 09/23 09:14 [financialjuice] China PBOC forecast to fix yuan midpoint at 6.6971 per dollar: estimate
+- 09/23 09:15 [financialjuice] Wife of US seismologist detained in China says she has been assured Trump will ask Xi to free him
+- 09/23 09:15 [FirstSquawk] U.S. seismologist’s wife says Trump will ask Xi to secure his release from China
+- 09/23 09:23 [FirstSquawk] POLISH PRESIDENT NAWROCKI SAYS THAT 'WHEN THE WORK IS FINISHED, TRUMP WILL PERSONALLY BE ABLE TO PARTICIPATE IN THE INAUGURATION OF FORT TRUMP, WHICH IS GOING TO TAKE PLACE IN POLAND', ADDING THAT 'TRUMP IS FAMOUS FOR KEEPING HIS WORD'.
