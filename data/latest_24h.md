@@ -7,39 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 20:51 JST／対象: 09/22 20:51 〜 09/23 20:51 JST（時刻はすべて日本時間）
+生成: 2026-09-23 21:05 JST／対象: 09/22 21:05 〜 09/23 21:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/22 20:53 | 09/23 20:05 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 343 | 09/22 20:53 | 09/23 20:49 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 314 | 09/22 20:54 | 09/23 20:49 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 19 | 09/22 21:08 | 09/23 20:05 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 342 | 09/22 21:07 | 09/23 20:55 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 304 | 09/22 21:10 | 09/23 21:00 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 661 行（統合前 686 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 649 行（統合前 673 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 20:53 [DeItaone] MILEI’S U.S. TRADE DEAL HITS CONGRESSIONAL ROADBLOCK Argentina has reportedly told the Trump administration it lacks the votes to ratify its bilateral trade agreement with the U.S. Milei wants to renegotiate terms following the U.S. Supreme…
-- 09/22 20:53 [FirstSquawk/financialjuice] RUBIO: SEEN MORE COOPERATION FROM NATO COUNTRIES RECENTLY
-- 09/22 20:54 [FirstSquawk] US SEC OF STATE RUBIO ON GREENLAND: US CAN BUILD AS MANY MILITARY BASES AS WANT
-- 09/22 20:54 [financialjuice] US Secretary of State Rubio: Need to address that US-linked ships targeted by Ukraine
-- 09/22 20:54 [financialjuice] US Secretary of State Rubio, energy infrastructure ceasefire would be a great idea - Fox News
-- 09/22 20:54 [financialjuice] US Secretary of State Rubio: Ideal outcome is Russia and Ukraine not targeting energy sites
-- 09/22 20:54 [financialjuice] Gulf states set to urge Trump to avoid any escalation with Iran
-- 09/22 20:54 [financialjuice] Six-member Gulf bloc expected to meet Trump in New York Tuesday
-- 09/22 20:54 [financialjuice] US Secretary of State Rubio, on AI: Not sure if plan will be ready by Thursday - Fox News interview
-- 09/22 20:54 [financialjuice] US Secretary of State Rubio, on Greenland: The US can build as many military bases as wanted
-- 09/22 21:01 [FirstSquawk] HUNGARY HOLDS BANK RATE AT 5.50%, AS EXPECTED
-- 09/22 21:01 [financialjuice] ASML Executives: Europe’s biggest firm has no sales in europe.
-- 09/22 21:03 [financialjuice] Anthropic CEO Dario Amodei to brief the UN Security Council on AI.
-- 09/22 21:03 [DeItaone] U.S. HOME PRICES POST FASTEST GROWTH IN A YEAR U.S. home prices rose 3.7% year-over-year in August, the strongest annual increase in a year, according to Redfin. Prices increased just 0.25% month-over-month, continuing a gradual slowdown in…
-- 09/22 21:04 [financialjuice] Sofi goes live with stablecoin settlement on the Mastercard network
-- 09/22 21:04 [financialjuice] SoFi Bank to migrate $25bln card program to stablecoin settlement
 - 09/22 21:07 [FirstSquawk] ASML EXEC: EUROPE’S BIGGEST FIRM HAS NO SALES IN EUROPE
 - 09/22 21:08 [DeItaone] PUTIN HOLDS PHONE CALL WITH SAUDI MBS - RIA
 - 09/22 21:10 [financialjuice] China's Xi unlikely to bring business delegation to meeting with trump - WSJ citing Sources
@@ -685,3 +669,7 @@
 - 09/23 20:48 [FirstSquawk] UBS SAYS PROPOSED 90% PLAN IS EXCESSIVE, "NOT A COMPROMISE"
 - 09/23 20:49 [financialjuice] UKMTO gets a report of an incident in the Strait of Hormuz, a company security officer of a cargo vessel reports being struck by an unknown projectile
 - 09/23 20:49 [FirstSquawk] UKMTO SAYS VESSEL IS ON FIRE AND ADRIFT
+- 09/23 20:53 [FirstSquawk] ALL CREW MEMBERS OF THE ATTACKED SHIP IN THE STRAIT OF HORMUZ WERE EVACUATED, WITH TWO INJURIES REPORTED.
+- 09/23 20:55 [FirstSquawk] RYANAIR CEO O'LEARY: BY FY28 I EXPECT WE WILL GROW TO 220 MILLION PASSENGERS
+- 09/23 20:58 [financialjuice] Officials in the Trump administration have backed off an effort to replace Deputy Secretary of Defense Stephen Feinberg - Sources
+- 09/23 21:00 [financialjuice] Secured overnight financing rate: 3.87% September 22nd vs 3.85% September 21st

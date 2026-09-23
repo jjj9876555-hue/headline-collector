@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 20:51 JST／対象: 09/23 14:51 〜 09/23 20:51 JST（時刻はすべて日本時間）
+生成: 2026-09-23 21:05 JST／対象: 09/23 15:05 〜 09/23 21:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 14 | 09/23 18:24 | 09/23 20:05 | 23分（19:19→19:43） |
-| FirstSquawk | 45 | 09/23 14:57 | 09/23 20:49 | 30分（17:00→17:31） |
-| financialjuice | 38 | 09/23 14:52 | 09/23 20:49 | ⚠ 71分（18:33→19:45） |
+| FirstSquawk | 45 | 09/23 15:11 | 09/23 20:55 | 30分（17:00→17:31） |
+| financialjuice | 39 | 09/23 15:22 | 09/23 21:00 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 93 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 94 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 14:52 [financialjuice] UK's PM Burnham and Zelenskyy spoke about a proposal for an energy ceasefire
-- 09/23 14:57 [FirstSquawk] Philippine Senate cuts required votes for conviction in VP Duterte impeachment trial
-- 09/23 15:00 [FirstSquawk] EuroStoxx 50 futures up 0.31% as DAX and FTSE futures gain 0.35% and 0.36%
 - 09/23 15:11 [FirstSquawk] Russian forces strike port infrastructure in Ukraine’s Odesa region, governor says
 - 09/23 15:21 [FirstSquawk] Oil price on track for longest losing streak in more than 12 months - FT
 - 09/23 15:22 [financialjuice] Iran's Deputy Oil Minister: Half of the damaged capacity of the South Pars gas field is back in production - Fars News
@@ -117,3 +114,7 @@
 - 09/23 20:48 [FirstSquawk] UBS SAYS PROPOSED 90% PLAN IS EXCESSIVE, "NOT A COMPROMISE"
 - 09/23 20:49 [financialjuice] UKMTO gets a report of an incident in the Strait of Hormuz, a company security officer of a cargo vessel reports being struck by an unknown projectile
 - 09/23 20:49 [FirstSquawk] UKMTO SAYS VESSEL IS ON FIRE AND ADRIFT
+- 09/23 20:53 [FirstSquawk] ALL CREW MEMBERS OF THE ATTACKED SHIP IN THE STRAIT OF HORMUZ WERE EVACUATED, WITH TWO INJURIES REPORTED.
+- 09/23 20:55 [FirstSquawk] RYANAIR CEO O'LEARY: BY FY28 I EXPECT WE WILL GROW TO 220 MILLION PASSENGERS
+- 09/23 20:58 [financialjuice] Officials in the Trump administration have backed off an effort to replace Deputy Secretary of Defense Stephen Feinberg - Sources
+- 09/23 21:00 [financialjuice] Secured overnight financing rate: 3.87% September 22nd vs 3.85% September 21st
