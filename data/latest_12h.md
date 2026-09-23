@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 07:17 JST／対象: 09/23 19:17 〜 09/24 07:17 JST（時刻はすべて日本時間）
+生成: 2026-09-24 07:31 JST／対象: 09/23 19:31 〜 09/24 07:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 73 | 09/23 19:19 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 160 | 09/23 19:19 | 09/24 06:44 | ⚠ 77分（05:26→06:44） |
-| financialjuice | 170 | 09/23 19:45 | 09/24 07:13 | ⚠ 46分（20:03→20:49） |
+| DeItaone | 72 | 09/23 19:43 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 158 | 09/23 19:41 | 09/24 06:44 | ⚠ 77分（05:26→06:44） |
+| financialjuice | 171 | 09/23 19:45 | 09/24 07:31 | ⚠ 46分（20:03→20:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 388 行（統合前 406 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 386 行（統合前 404 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 19:19 [FirstSquawk] CREDIT AGRICOLE CFO TO CLASS CNBC: EVALUATING SCENARIOS ON BPM
-- 09/23 19:19 [DeItaone] CITI SEES LIMITED S&P 500 IMPACT FROM MIDTERMS Citi expects the midterm elections to have little impact on overall S&P 500 fundamentals, with effects more likely at the sector level. The bank says different congressional outcomes could affe…
-- 09/23 19:28 [FirstSquawk] KREMLIN STATED THAT A MEETING BETWEEN PUTIN AND ZELENSKY CAN ONLY OCCUR IN MOSCOW, DESCRIBING SUMMIT TALKS WITHOUT PROPER PREPARATION AS UNPRODUCTIVE.
 - 09/23 19:41 [FirstSquawk] IPHONE 18 PRO IMPROVES LAST YEAR'S VERSION WITH FASTER PERFORMANCE, LONGER BATTERY LIFE, AND SIGNIFICANT ENHANCEMENTS TO APPLE'S TOP CAMERA SYSTEM.
 - 09/23 19:43 [DeItaone] MORGAN STANLEY MAPS WINNERS FROM HORMUZ REOPENING Morgan Stanley says European equities are the most sensitive to a potential reopening of the Strait of Hormuz as U.S.-Iran diplomacy progresses. Airlines, aerospace, construction, luxury and…
 - 09/23 19:44 [FirstSquawk] HOUTHI OFFICIALS SAY THEY WILL ATTACK ALL U.S. INTERESTS IN THE REGION IF THE U.S. BACKS SAUDI ARABIA.
@@ -412,3 +409,4 @@
 - 09/24 06:57 [financialjuice] Morocco's parliamentary election turnout at 38.02%, interior ministry says
 - 09/24 07:06 [financialjuice] US Treasury Secretary Bessent: U.S., China agreed Wednesday to prolong Busan agreement
 - 09/24 07:13 [financialjuice] US Treasury Secretary Bessent: reports that he will likely be Trump's al czar are probably fake news
+- 09/24 07:31 [financialjuice] Modal Labs in talks to secure new funding at about $15 billion valuation
