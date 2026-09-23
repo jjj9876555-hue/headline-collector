@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 02:17 JST／対象: 09/23 02:17 〜 09/24 02:17 JST（時刻はすべて日本時間）
+生成: 2026-09-24 02:32 JST／対象: 09/23 02:32 〜 09/24 02:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 74 | 09/23 04:42 | 09/24 02:05 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 352 | 09/23 02:31 | 09/24 01:56 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 295 | 09/23 02:28 | 09/24 02:06 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 352 | 09/23 02:34 | 09/24 02:31 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 294 | 09/23 02:35 | 09/24 02:28 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 699 行（統合前 725 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 698 行（統合前 723 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 02:28 [financialjuice] Trump adviser ties high Gas prices to refining - Axios
-- 09/23 02:31 [financialjuice] Fed's Barkin: Like to think this period will be more like the 1990s mid-cycle adjustment.
-- 09/23 02:31 [FirstSquawk] TRUMP ADVISER AGEN TIES HIGHER GAS PRICES TO STRAINED REFINING CAPACITY - AXIOS, VIA DBNEWS
 - 09/23 02:34 [FirstSquawk] US PROPOSES $10 BLN FUND WITH ARAB ALLIES TO BYPASS HORMUZ – FT
 - 09/23 02:35 [financialjuice] Trump Participates in a Bilateral Meeting with the President of Ukraine - WATCH LIVE
 - 09/23 02:37 [FirstSquawk] AI-LINKED TECHNOLOGY STOCKS LED A ROTATION OUT OF FINANCIALS, PUSHING THE NASDAQ 100 TO THE BRINK OF ITS FIRST RECORD CLOSE SINCE JUNE, WHILE SHOPIFY JUMPED 7.3% AFTER ITS MUSE AI PARTNERSHIP WITH META.
@@ -723,3 +720,5 @@
 - 09/24 02:05 [DeItaone] DIESEL CRACKS PLUNGE ON U.S. EXPORT BAN REPORT U.S. diesel cracks fell $12.70 to $97.85/bbl after Politico reported the White House is preparing a 90-day diesel export ban. Meanwhile, gasoline cracks jumped $2 to $47.41/bbl, reflecting conc…
 - 09/24 02:05 [DeItaone] *FIVE-YEAR TREASURY YIELD RISES TO 5% FOR FIRST TIME SINCE 2007
 - 09/24 02:06 [financialjuice] US 5-Year Note Auction High Yield 5.033% (Tailed by 3.1 basis points) Bid-to-cover 2.21 Sells $70 bln Awards 30.34% of bids at high Primary Dealers take 15.77% Direct 29.92% Indirect 54.31%
+- 09/24 02:28 [financialjuice] Microsoft President: It is the right time to invest in Gulf nations. $MSFT
+- 09/24 02:31 [FirstSquawk] 4 COUNTERPARTIES TAKE $461 MLN AT FED REVERSE REPO (PREV $453 MLN, 8 BIDS)
