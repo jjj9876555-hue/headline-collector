@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 11:51 JST／対象: 09/23 05:51 〜 09/23 11:51 JST（時刻はすべて日本時間）
+生成: 2026-09-23 12:03 JST／対象: 09/23 06:03 〜 09/23 12:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 89 | 09/23 06:58 | 09/23 11:50 | ⚠ 63分（07:00→08:04） |
-| financialjuice | 36 | 09/23 05:56 | 09/23 11:44 | ⚠ 46分（09:15→10:01） |
+| FirstSquawk | 91 | 09/23 06:58 | 09/23 12:01 | ⚠ 63分（07:00→08:04） |
+| financialjuice | 33 | 09/23 06:07 | 09/23 11:44 | ⚠ 46分（09:15→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 125 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 124 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 05:56 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL -2.164M (FORECAST -, PREVIOUS 1.6M) $MACRO
-- 09/23 05:57 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL 2.082M (FORECAST -, PREVIOUS -0.246M ) $MACRO
-- 09/23 05:57 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL -2.16M (FORECAST -, PREVIOUS 1.5M) $MACRO
 - 09/23 06:07 [financialjuice] North Korea's vice defense minister to visit Vietnam: KCNA
 - 09/23 06:09 [financialjuice] North Korea's vice foreign minister to participate in UN general assembly: KCNA
 - 09/23 06:18 [financialjuice] USPS refers mail dumping case involving election ballots to inspector general
@@ -149,3 +146,5 @@
 - 09/23 11:49 [FirstSquawk] Reserve Bank of Australia publishes 2026 review of ASX clearing and settlement facilities
 - 09/23 11:49 [FirstSquawk] RBA says ASX clearing and settlement facilities met many standards at ‘observed’ or ‘broadly observed’ levels
 - 09/23 11:50 [FirstSquawk] RBA says ASX continues to fall short in several important areas
+- 09/23 11:52 [FirstSquawk] Polo remains an extremely dangerous Category 5 hurricane, NHC says
+- 09/23 12:01 [FirstSquawk] Trump reaffirms push for dialogue with North Korea in talks with Lee, Seoul says - Yonhap

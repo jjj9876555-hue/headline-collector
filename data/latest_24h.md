@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 11:51 JST／対象: 09/22 11:51 〜 09/23 11:51 JST（時刻はすべて日本時間）
+生成: 2026-09-23 12:03 JST／対象: 09/22 12:03 〜 09/23 12:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 341 | 09/22 11:52 | 09/23 11:50 | ⚠ 77分（05:40→06:58） |
+| FirstSquawk | 341 | 09/22 12:05 | 09/23 12:01 | ⚠ 77分（05:40→06:58） |
 | financialjuice | 329 | 09/22 12:21 | 09/23 11:44 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 11:52 [FirstSquawk] Indonesia weather agency expects shorter-than-normal wet season across most of the country in 2026-27
-- 09/22 11:56 [FirstSquawk] NHC: Odalys expected to slowly strengthen
 - 09/22 12:05 [FirstSquawk] Texas power plant selected as South Korea’s first US investment project — Yonhap
 - 09/22 12:08 [FirstSquawk] RBA Gov. Bullock: Supply shocks pose challenges for monetary policy
 - 09/22 12:09 [FirstSquawk] RBA Gov. Bullock: Monetary policy needs to tackle second-round inflation effects
@@ -703,3 +701,5 @@
 - 09/23 11:49 [FirstSquawk] Reserve Bank of Australia publishes 2026 review of ASX clearing and settlement facilities
 - 09/23 11:49 [FirstSquawk] RBA says ASX clearing and settlement facilities met many standards at ‘observed’ or ‘broadly observed’ levels
 - 09/23 11:50 [FirstSquawk] RBA says ASX continues to fall short in several important areas
+- 09/23 11:52 [FirstSquawk] Polo remains an extremely dangerous Category 5 hurricane, NHC says
+- 09/23 12:01 [FirstSquawk] Trump reaffirms push for dialogue with North Korea in talks with Lee, Seoul says - Yonhap

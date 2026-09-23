@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 11:51 JST／対象: 09/22 23:51 〜 09/23 11:51 JST（時刻はすべて日本時間）
+生成: 2026-09-23 12:03 JST／対象: 09/23 00:03 〜 09/23 12:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 208 | 09/22 23:54 | 09/23 11:50 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 184 | 09/22 23:53 | 09/23 11:44 | ⚠ 46分（09:15→10:01） |
+| FirstSquawk | 206 | 09/23 00:05 | 09/23 12:01 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 176 | 09/23 00:03 | 09/23 11:44 | ⚠ 46分（09:15→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 385 行（統合前 399 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 375 行（統合前 389 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 23:53 [financialjuice] Trump: Cuba will fall.
-- 09/22 23:54 [financialjuice] Trump: Cuba is a failed state, freedom will be coming to Cuba.
-- 09/22 23:54 [FirstSquawk] TRUMP: WILL BUILD TWO MAJOR MILITARY BASES IN GREENLAND
-- 09/22 23:54 [financialjuice] Trump: US Secretary of State Rubio is deep into negotiations with Cuba.
-- 09/22 23:54 [financialjuice] Trump: We will build two major military bases in Greenland.
-- 09/22 23:55 [FirstSquawk] TEHRAN WANTS CHINA'S ROLE TO BE MORE PROMINENT
-- 09/22 23:55 [financialjuice] Trump: Will sign Greenland agreement later today.
-- 09/22 23:59 [FirstSquawk] TRUMP: THERE WILL BE NO GLOBAL TAXES
-- 09/22 23:59 [FirstSquawk] TRUMP: UN MUST STOP IMPOSING LEFTIST AGENDA
-- 09/23 00:00 [financialjuice] US to sell $90 bln 4-week bills on September 24th, to settle on September 29th.
-- 09/23 00:01 [financialjuice] Trump: The US rejects attempts of a global scheme to control AI
-- 09/23 00:02 [financialjuice] Trump: We will not stifle AI growth.
 - 09/23 00:03 [financialjuice] Trump calls warnings about AI "a hoax" in his UN speech.
 - 09/23 00:05 [FirstSquawk] US PRESIDENT TRUMP: US ‘TOTALLY REJECTS’ ANY ATTEMPT TO CONSTRUCT A GLOBALIST SCHEME TO CONTROL FOR AI
 - 09/23 00:05 [FirstSquawk] US PRESIDENT TRUMP ON AI: “NOT GOING TO STIFLE GROWTH OF SOMETHING THAT WILL BE BIGGER THAN THE INDUSTRIAL REVOLUTION”
@@ -409,3 +397,5 @@
 - 09/23 11:49 [FirstSquawk] Reserve Bank of Australia publishes 2026 review of ASX clearing and settlement facilities
 - 09/23 11:49 [FirstSquawk] RBA says ASX clearing and settlement facilities met many standards at ‘observed’ or ‘broadly observed’ levels
 - 09/23 11:50 [FirstSquawk] RBA says ASX continues to fall short in several important areas
+- 09/23 11:52 [FirstSquawk] Polo remains an extremely dangerous Category 5 hurricane, NHC says
+- 09/23 12:01 [FirstSquawk] Trump reaffirms push for dialogue with North Korea in talks with Lee, Seoul says - Yonhap
