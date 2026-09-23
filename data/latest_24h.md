@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 19:04 JST／対象: 09/22 19:04 〜 09/23 19:04 JST（時刻はすべて日本時間）
+生成: 2026-09-23 19:25 JST／対象: 09/22 19:25 〜 09/23 19:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/22 19:18 | 09/23 18:50 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 345 | 09/22 19:05 | 09/23 19:02 | ⚠ 77分（05:40→06:58） |
+| DeItaone | 31 | 09/22 19:26 | 09/23 19:19 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 342 | 09/22 19:46 | 09/23 19:19 | ⚠ 77分（05:40→06:58） |
 | financialjuice | 305 | 09/22 20:54 | 09/23 18:33 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 664 行（統合前 689 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 661 行（統合前 686 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 19:05 [FirstSquawk] CHINA COMMERCE MINISTER: URGES THE BLOC NOT TO PURSUE PROTECTIONISM THAT COULD RESTRICT OR CLOSE MARKETS AND TRIGGER WIDER GLOBAL FRAGMENTATION
-- 09/22 19:07 [FirstSquawk] CHINA COMMERCE MINISTER HELD CALL WITH EU AUTO INDUSTRY HEAD
-- 09/22 19:09 [FirstSquawk] BRENT, US CRUDE FUTURES EXTEND FALL TO ITS LOWEST LEVEL SINCE SEPTEMBER 8 ON HOPES OF INCREASED SUPPLIES FROM THE GULF
-- 09/22 19:10 [FirstSquawk] BOFA RAISES BRENT OIL PRICE FORECAST TO $95 FROM $83 ON PERSISTENT MIDDLE EAST TENSIONS
-- 09/22 19:13 [FirstSquawk] CHINA WELCOMES MERCEDES-BENZ, OTHER EUROPEAN CARMAKERS
-- 09/22 19:18 [DeItaone] BOFA LIFTS BRENT OIL FORECAST TO $95 Bank of America raised its H2 2026 Brent forecast to $95 from $83, expecting Middle East tensions to persist through year-end. Hormuz disruptions are still running 4–8 million barrels per day below pre-w…
-- 09/22 19:21 [DeItaone] TRUMP’S UNGA SCHEDULE TODAY 9:55 AM ET — UN remarks 10:40 AM — Denmark & Greenland signing 11:45 AM — UK bilateral 12:30 PM — Japan bilateral 1:15 PM — Ukraine bilateral 2:15 PM — Shield of the Americas 2:45 PM — Gulf Cooperation Council 7:…
 - 09/22 19:26 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 8:15 AM ET — 🇺🇸 ADP Weekly Employment Estimate 🔸 10:00 AM ET — 🇺🇸 Richmond Fed Manufacturing & Services 🔸 10:00 AM ET — 🚗 AutoZone Earnings Call 🔸 10:05 AM ET — 🏦 Fed’s John Williams 🔸 10:20 AM ET — 🏦…
 - 09/22 19:28 [DeItaone] XI TO PRESS TRUMP ON TAIWAN ARMS SALES Xi Jinping is expected to urge President Trump to halt U.S. arms sales to Taiwan when the leaders meet in Washington this week, Reuters reports. Beijing is also seeking a stop to deliveries of weapons …
 - 09/22 19:31 [DeItaone] RADIATION MONITORING STATION AT ZAPORIZHZHIA NUCLEAR POWER PLANT DAMAGED IN UKRAINIAN DRONE ATTACK - RUSSIAN-INSTALLED OFFICIALS
@@ -688,3 +681,7 @@
 - 09/23 18:50 [DeItaone/FirstSquawk] SPOT SILVER FALLS 3% TO $65.05/OZ
 - 09/23 19:02 [FirstSquawk] OPENAI’S SAM ALTMAN TO PROMOTE AI STANDARDS DURING HIS UN SPEECH
 - 09/23 19:02 [FirstSquawk] BRAZIL’S LULA HAS 47.7%, BOLSONARO 47.4% IN RUNOFF POLL
+- 09/23 19:05 [FirstSquawk] FEDERAL GOVERNMENT PROPOSES BILL TO KEEP GAS TAX SUSPENDED UNTIL JANUARY 2027.
+- 09/23 19:11 [DeItaone] ALTMAN TO PUSH GLOBAL AI SAFETY STANDARDS AT UN OpenAI CEO Sam Altman will use a UN Security Council speech to advocate for common global AI safety standards while avoiding restrictions that could slow innovation. OpenAI says it is not back…
+- 09/23 19:19 [FirstSquawk] CREDIT AGRICOLE CFO TO CLASS CNBC: EVALUATING SCENARIOS ON BPM
+- 09/23 19:19 [DeItaone] CITI SEES LIMITED S&P 500 IMPACT FROM MIDTERMS Citi expects the midterm elections to have little impact on overall S&P 500 fundamentals, with effects more likely at the sector level. The bank says different congressional outcomes could affe…

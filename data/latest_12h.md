@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 19:04 JST／対象: 09/23 07:04 〜 09/23 19:04 JST（時刻はすべて日本時間）
+生成: 2026-09-23 19:25 JST／対象: 09/23 07:25 〜 09/23 19:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/23 18:24 | 09/23 18:50 | 11分（18:24→18:35） |
-| FirstSquawk | 156 | 09/23 08:04 | 09/23 19:02 | 30分（17:00→17:31） |
+| DeItaone | 10 | 09/23 18:24 | 09/23 19:19 | 20分（18:50→19:11） |
+| FirstSquawk | 158 | 09/23 08:04 | 09/23 19:19 | 30分（17:00→17:31） |
 | financialjuice | 64 | 09/23 07:28 | 09/23 18:33 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 225 行（統合前 228 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 229 行（統合前 232 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -249,3 +249,7 @@
 - 09/23 18:50 [DeItaone/FirstSquawk] SPOT SILVER FALLS 3% TO $65.05/OZ
 - 09/23 19:02 [FirstSquawk] OPENAI’S SAM ALTMAN TO PROMOTE AI STANDARDS DURING HIS UN SPEECH
 - 09/23 19:02 [FirstSquawk] BRAZIL’S LULA HAS 47.7%, BOLSONARO 47.4% IN RUNOFF POLL
+- 09/23 19:05 [FirstSquawk] FEDERAL GOVERNMENT PROPOSES BILL TO KEEP GAS TAX SUSPENDED UNTIL JANUARY 2027.
+- 09/23 19:11 [DeItaone] ALTMAN TO PUSH GLOBAL AI SAFETY STANDARDS AT UN OpenAI CEO Sam Altman will use a UN Security Council speech to advocate for common global AI safety standards while avoiding restrictions that could slow innovation. OpenAI says it is not back…
+- 09/23 19:19 [FirstSquawk] CREDIT AGRICOLE CFO TO CLASS CNBC: EVALUATING SCENARIOS ON BPM
+- 09/23 19:19 [DeItaone] CITI SEES LIMITED S&P 500 IMPACT FROM MIDTERMS Citi expects the midterm elections to have little impact on overall S&P 500 fundamentals, with effects more likely at the sector level. The bank says different congressional outcomes could affe…
