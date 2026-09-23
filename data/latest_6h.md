@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 04:04 JST／対象: 09/23 22:04 〜 09/24 04:04 JST（時刻はすべて日本時間）
+生成: 2026-09-24 04:23 JST／対象: 09/23 22:23 〜 09/24 04:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 61 | 09/23 22:16 | 09/24 03:30 | ⚠ 51分（01:07→01:59） |
-| FirstSquawk | 115 | 09/23 22:07 | 09/24 04:01 | 34分（01:56→02:31） |
-| financialjuice | 130 | 09/23 22:06 | 09/24 03:53 | 22分（02:06→02:28） |
+| DeItaone | 59 | 09/23 22:24 | 09/24 03:30 | ⚠ 51分（01:07→01:59） |
+| FirstSquawk | 111 | 09/23 22:25 | 09/24 04:07 | 34分（01:56→02:31） |
+| financialjuice | 130 | 09/23 22:31 | 09/24 04:22 | 22分（02:06→02:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 296 行（統合前 309 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 293 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 22:06 [financialjuice/FirstSquawk] Supermicro now shipping NVIDIA Vera Rubin NVL72 racks.
-- 09/23 22:07 [FirstSquawk] AMAZON ROLLS OUT NEW AGENTIC AI FOR THIRD-PARTY SELLERS
-- 09/23 22:10 [FirstSquawk] Trump on truth social Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing problems that will soon be too big to handle. It is a Liberal takeover t…
-- 09/23 22:16 [DeItaone] TRUMP ATTACKS CANADA OVER IMMIGRATION President Trump accused Canada of allowing “millions and millions” of people into the country unchecked and unvetted, claiming it is creating serious problems. Trump blamed what he called a “Liberal tak…
-- 09/23 22:19 [DeItaone/financialjuice/FirstSquawk] RUSSIA'S LAVROV MEETS WITH US RUBIO - IFX
-- 09/23 22:22 [financialjuice] Samsung to deploy 5G SA networks starting October 2026.
-- 09/23 22:23 [FirstSquawk] GIORGETTI: INCOME TAX REDUCTION REMAINS GOVT PRIORITY
 - 09/23 22:24 [DeItaone] US ENERGY SECRETARY CHRIS WRIGHT SAYS DIESEL EXPORT BAN WOULD NOT WORK
 - 09/23 22:25 [DeItaone] WRIGHT SAYS US DIESEL EXPORT BAN WOULD RAISE GASOLINE AND JET FUEL PRICES
 - 09/23 22:25 [FirstSquawk] US ENERGY SECRETARY CHRIS WRIGHT: DIESEL EXPORT BAN WOULD NOT WORK
@@ -320,3 +313,7 @@
 - 09/24 04:00 [FirstSquawk] UKRAINE'S ZELENSKY SAYS HE HAS NOT HAD A CHANCE TO SPEAK DIRECTLY WITH THE LEADER OF CHINA, 'WHO IS IN AMERICA TODAY BUT NOT HERE' AND 'CAN INFLUENCE RUSSIA MORE THAN MANY OTHERS', AND SAYS ON PUTIN THAT 'PATIENT ZERO... WILL INEVITABLY LEA…
 - 09/24 04:00 [FirstSquawk] UKRAINE'S ZELENSKY SAYS 'RUSSIA USES CITIZENS OF 47 COUNTRIES IN ITS WAR IN UKRAINE' — INCLUDING GHANA, NEPAL, TAJIKISTAN, INDIA, YEMEN, KENYA, ZIMBABWE, CUBA, BELARUS, SUDAN AND SOUTH AFRICA — URGING THEIR REPRESENTATIVES TO 'TAKE CARE OF …
 - 09/24 04:01 [FirstSquawk] UKRAINE'S ZELENSKY SAYS 'WE NEED TO SLOW DOWN THE RAPID DEVELOPMENT OF WEAPONS FOR KILLING BEFORE WE REACH THE NEXT STAGE', WARNING THAT 'AS EARLY AS NEXT YEAR, THERE IS ALREADY A REAL POSSIBILITY THAT AI, NOT ONLY PEOPLE, WILL BEGIN TO DEC…
+- 09/24 04:06 [financialjuice] Russian Presidential Envoy Dmitriev heads to US for new talks with members of Trump's administration - sources.
+- 09/24 04:07 [FirstSquawk] RUSSIAN PRESIDENTIAL ENVOY DMITRIEV HEADS TO US FOR NEW TALKS WITH TRUMP ADMINISTRATION OFFICIALS — SOURCES
+- 09/24 04:07 [financialjuice] AI Scientist Bengio calls AI dangers real and imminent
+- 09/24 04:22 [financialjuice] Thursday FX Option Expiries

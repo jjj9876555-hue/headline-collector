@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 04:04 JST／対象: 09/23 04:04 〜 09/24 04:04 JST（時刻はすべて日本時間）
+生成: 2026-09-24 04:23 JST／対象: 09/23 04:23 〜 09/24 04:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 04:42 | 09/24 03:30 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 352 | 09/23 04:06 | 09/24 04:01 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 270 | 09/23 04:06 | 09/24 03:53 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 347 | 09/23 04:29 | 09/24 04:07 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 267 | 09/23 04:24 | 09/24 04:22 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 682 行（統合前 707 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 675 行（統合前 699 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 04:06 [financialjuice] Senators: Trump must end China’s access to advanced chips.
-- 09/23 04:06 [FirstSquawk] ZELENSKIY SAYS TRUMP DID NOT ASK UKRAINE TO UNILATERALLY HALT ENERGY STRIKES
-- 09/23 04:08 [FirstSquawk] ZELENSKIY: PUTIN IS NOT WINNING ON THE BATTLEFIELD
-- 09/23 04:09 [financialjuice] WATCH LIVE: Trump Participates in a Shield of the Americas Event
-- 09/23 04:09 [FirstSquawk] US SENATORS CALL ON TRUMP TO END CHINA’S ACCESS TO ADVANCED CHIPS
-- 09/23 04:12 [financialjuice] Trump: Witkoff and Kushner met with Iran. Lots of good thoughts.
-- 09/23 04:16 [financialjuice/FirstSquawk] Jordan's King joins Trump-hosted meeting with Arab and Islamic leaders on the sidelines of UNGA - Royal Court
-- 09/23 04:17 [financialjuice] Trump on Shield of The Americas: Must secure control of our own energy pipelines.
-- 09/23 04:21 [financialjuice] Wednesday FX Options Expiries
-- 09/23 04:23 [FirstSquawk] TRUMP: WITKOFF & KUSHNER MET WITH IRAN; ‘LOTS OF GOOD THOUGHTS’
-- 09/23 04:23 [FirstSquawk] TRUMP ON ‘SHIELD OF THE AMERICAS’: US MUST SECURE CONTROL OF ITS OWN ENERGY PIPELINES
 - 09/23 04:24 [financialjuice] ❗ Iran's conditions for reopening the Strait of Hormuz include immediate lifting of the maritime blockade, immediate payment of all frozen Iranian assets and an end to the war on all fronts - IRIB
 - 09/23 04:25 [financialjuice] Iran's foreign minister met with Witkoff on the sidelines of UN General Assembly - IRIB News
 - 09/23 04:25 [financialjuice] ❗ Iran's conditions to open the Strait of Hormuz were the reason to accept Witkoff's request for meeting - IRIB News
@@ -706,3 +695,7 @@
 - 09/24 04:00 [FirstSquawk] UKRAINE'S ZELENSKY SAYS HE HAS NOT HAD A CHANCE TO SPEAK DIRECTLY WITH THE LEADER OF CHINA, 'WHO IS IN AMERICA TODAY BUT NOT HERE' AND 'CAN INFLUENCE RUSSIA MORE THAN MANY OTHERS', AND SAYS ON PUTIN THAT 'PATIENT ZERO... WILL INEVITABLY LEA…
 - 09/24 04:00 [FirstSquawk] UKRAINE'S ZELENSKY SAYS 'RUSSIA USES CITIZENS OF 47 COUNTRIES IN ITS WAR IN UKRAINE' — INCLUDING GHANA, NEPAL, TAJIKISTAN, INDIA, YEMEN, KENYA, ZIMBABWE, CUBA, BELARUS, SUDAN AND SOUTH AFRICA — URGING THEIR REPRESENTATIVES TO 'TAKE CARE OF …
 - 09/24 04:01 [FirstSquawk] UKRAINE'S ZELENSKY SAYS 'WE NEED TO SLOW DOWN THE RAPID DEVELOPMENT OF WEAPONS FOR KILLING BEFORE WE REACH THE NEXT STAGE', WARNING THAT 'AS EARLY AS NEXT YEAR, THERE IS ALREADY A REAL POSSIBILITY THAT AI, NOT ONLY PEOPLE, WILL BEGIN TO DEC…
+- 09/24 04:06 [financialjuice] Russian Presidential Envoy Dmitriev heads to US for new talks with members of Trump's administration - sources.
+- 09/24 04:07 [FirstSquawk] RUSSIAN PRESIDENTIAL ENVOY DMITRIEV HEADS TO US FOR NEW TALKS WITH TRUMP ADMINISTRATION OFFICIALS — SOURCES
+- 09/24 04:07 [financialjuice] AI Scientist Bengio calls AI dangers real and imminent
+- 09/24 04:22 [financialjuice] Thursday FX Option Expiries

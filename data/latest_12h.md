@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 04:04 JST／対象: 09/23 16:04 〜 09/24 04:04 JST（時刻はすべて日本時間）
+生成: 2026-09-24 04:23 JST／対象: 09/23 16:23 〜 09/24 04:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 80 | 09/23 18:24 | 09/24 03:30 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 162 | 09/23 16:30 | 09/24 04:01 | 34分（01:56→02:31） |
-| financialjuice | 175 | 09/23 16:05 | 09/24 03:53 | ⚠ 71分（18:33→19:45） |
+| FirstSquawk | 163 | 09/23 16:30 | 09/24 04:07 | 34分（01:56→02:31） |
+| financialjuice | 173 | 09/23 16:30 | 09/24 04:22 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 400 行（統合前 420 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 399 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 16:05 [financialjuice] Italy plans to stick with its commitment to keep the deficit below the EU's 3% of GDP ceiling this year, from 3.1% in 2025 - Sources
-- 09/23 16:15 [financialjuice] FRENCH COMP FLASH PMI ACTUAL 51.2 (FORECAST 48.7, PREVIOUS 48.5) $MACRO
-- 09/23 16:15 [financialjuice] FRENCH SERVICES PMI FLASH ACTUAL 51.4 (FORECAST 48.3, PREVIOUS 48.0) $MACRO
-- 09/23 16:15 [financialjuice] ‼ BREAKING: FRENCH MANUFACTURING PMI FLASH ACTUAL 50.3 (FORECAST 51, PREVIOUS 51.1) $MACRO
-- 09/23 16:20 [financialjuice] French PMI Flash September 2026 Report
 - 09/23 16:30 [financialjuice] ❗ GERMAN SERVICE PMI FLASH ACTUAL 52.9 (FORECAST 49.9, PREVIOUS 49.7) $MACRO
 - 09/23 16:30 [financialjuice] ‼ BREAKING: GERMAN MANUFACTURING PMI FLASH ACTUAL 53.8 (FORECAST 54, PREVIOUS 54.3) $MACRO
 - 09/23 16:30 [financialjuice] ❗ GERMAN COMPOSITE PMI FLASH ACTUAL 53.8 (FORECAST 51.8, PREVIOUS 51.8) $MACRO
@@ -424,3 +419,7 @@
 - 09/24 04:00 [FirstSquawk] UKRAINE'S ZELENSKY SAYS HE HAS NOT HAD A CHANCE TO SPEAK DIRECTLY WITH THE LEADER OF CHINA, 'WHO IS IN AMERICA TODAY BUT NOT HERE' AND 'CAN INFLUENCE RUSSIA MORE THAN MANY OTHERS', AND SAYS ON PUTIN THAT 'PATIENT ZERO... WILL INEVITABLY LEA…
 - 09/24 04:00 [FirstSquawk] UKRAINE'S ZELENSKY SAYS 'RUSSIA USES CITIZENS OF 47 COUNTRIES IN ITS WAR IN UKRAINE' — INCLUDING GHANA, NEPAL, TAJIKISTAN, INDIA, YEMEN, KENYA, ZIMBABWE, CUBA, BELARUS, SUDAN AND SOUTH AFRICA — URGING THEIR REPRESENTATIVES TO 'TAKE CARE OF …
 - 09/24 04:01 [FirstSquawk] UKRAINE'S ZELENSKY SAYS 'WE NEED TO SLOW DOWN THE RAPID DEVELOPMENT OF WEAPONS FOR KILLING BEFORE WE REACH THE NEXT STAGE', WARNING THAT 'AS EARLY AS NEXT YEAR, THERE IS ALREADY A REAL POSSIBILITY THAT AI, NOT ONLY PEOPLE, WILL BEGIN TO DEC…
+- 09/24 04:06 [financialjuice] Russian Presidential Envoy Dmitriev heads to US for new talks with members of Trump's administration - sources.
+- 09/24 04:07 [FirstSquawk] RUSSIAN PRESIDENTIAL ENVOY DMITRIEV HEADS TO US FOR NEW TALKS WITH TRUMP ADMINISTRATION OFFICIALS — SOURCES
+- 09/24 04:07 [financialjuice] AI Scientist Bengio calls AI dangers real and imminent
+- 09/24 04:22 [financialjuice] Thursday FX Option Expiries
