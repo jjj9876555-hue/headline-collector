@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 09:23 JST／対象: 09/23 03:23 〜 09/23 09:23 JST（時刻はすべて日本時間）
+生成: 2026-09-23 09:40 JST／対象: 09/23 03:40 〜 09/23 09:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 105 | 09/23 03:35 | 09/23 09:23 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 79 | 09/23 03:31 | 09/23 09:15 | 44分（06:44→07:28） |
+| FirstSquawk | 107 | 09/23 03:43 | 09/23 09:35 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 75 | 09/23 03:44 | 09/23 09:15 | 44分（06:44→07:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 181 行（統合前 187 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 179 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $94.59 a barrel down $1.19, 1.24%
-- 09/23 03:31 [financialjuice] NYMEX diesel Oct. futures settle at $4.9421 a gallon
-- 09/23 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.4875 a gallon
-- 09/23 03:31 [financialjuice] NYMEX nat Gas Oct. futures settle at $2.9650/MMBTU
-- 09/23 03:35 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.24% LOWER AT $94.59/BBL, DOWN $1.19
-- 09/23 03:36 [FirstSquawk] OPENAI INTRODUCES GPT-6 SOL & LUNA, EXPANDING THE GPT-6 MODEL FAMILY
 - 09/23 03:43 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 1.09% LOWER AT $99.25/BBL, DOWN $1.09
 - 09/23 03:44 [financialjuice] Brent Crude futures settle at $99.25/bbl, down $1.09, 1.09%
 - 09/23 03:45 [FirstSquawk] INDIA’S PM MODI EXPECTED TO VISIT CANADA IN DECEMBER TO SIGN TRADE DEAL — GLOBE & MAIL
@@ -205,3 +199,7 @@
 - 09/23 09:15 [financialjuice] Wife of US seismologist detained in China says she has been assured Trump will ask Xi to free him
 - 09/23 09:15 [FirstSquawk] U.S. seismologist’s wife says Trump will ask Xi to secure his release from China
 - 09/23 09:23 [FirstSquawk] POLISH PRESIDENT NAWROCKI SAYS THAT 'WHEN THE WORK IS FINISHED, TRUMP WILL PERSONALLY BE ABLE TO PARTICIPATE IN THE INAUGURATION OF FORT TRUMP, WHICH IS GOING TO TAKE PLACE IN POLAND', ADDING THAT 'TRUMP IS FAMOUS FOR KEEPING HIS WORD'.
+- 09/23 09:23 [FirstSquawk] POLISH PRESIDENT NAWROCKI SAYS ON FORT TRUMP THAT 'POLAND IS PAYING FOR ITS SECURITY' AND FOR 'THE STAY OF AMERICAN TROOPS IN POLAND', CALLING IT 'A VERY GOOD SOLUTION BECAUSE WE KNOW WHAT WE ARE PAYING FOR'.
+- 09/23 09:26 [FirstSquawk] Asian-Pacific U.S. equity futures remained broadly steady late Tuesday, with oil prices and bond yields easing amid hopes of a potential U.S.-Iran de-escalation.
+- 09/23 09:35 [FirstSquawk] Gold gains as markets focus on easing oil prices - WSJ
+- 09/23 09:35 [FirstSquawk] U.S. crackdown threatens Americans’ access to low-cost Canadian prescriptions - WSJ

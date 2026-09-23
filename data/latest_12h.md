@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 09:23 JST／対象: 09/22 21:23 〜 09/23 09:23 JST（時刻はすべて日本時間）
+生成: 2026-09-23 09:40 JST／対象: 09/22 21:40 〜 09/23 09:40 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 3 | 09/22 21:26 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 206 | 09/22 21:28 | 09/23 09:23 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 236 | 09/22 21:36 | 09/23 09:15 | 44分（06:44→07:28） |
+| DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
+| FirstSquawk | 207 | 09/22 21:52 | 09/23 09:35 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 235 | 09/22 21:48 | 09/23 09:15 | 44分（06:44→07:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 433 行（統合前 452 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 433 行（統合前 451 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 21:26 [DeItaone/FirstSquawk] KALSHI ASKS CFTC TO ALLOW MARGIN TRADING ON ITS PLATFORM, LETTING USERS BUY WITH BORROWED FUNDS- CNBC
-- 09/22 21:36 [financialjuice] Trump's UN speech to make the case for how he uses America's power to confront Iran, cartel violence and other threats, reshaping the world to help the US - White House official tells Fox News
-- 09/22 21:38 [FirstSquawk] CME GROUP TO EXPAND CRYPTO DERIVATIVES SUITE WITH BITCOIN CASH AND UNISWAP FUTURES
-- 09/22 21:38 [FirstSquawk] WH OFFICIAL: TRUMP UN SPEECH TO PRESS CASE FOR CONFRONTING IRAN, CARTELS - FOX
 - 09/22 21:48 [financialjuice] The government will soon approve the mobilization of up to 200,000 reservists for another round - Israel's Hayom News
 - 09/22 21:51 [financialjuice] Deputy Speaker of Iran Parliament Nikzad: We will not back down on the Strait of Hormuz. - ISMN
 - 09/22 21:52 [financialjuice/FirstSquawk] German fuel rebate to be approved in parliament this week - CDU
@@ -457,3 +453,7 @@
 - 09/23 09:15 [financialjuice] Wife of US seismologist detained in China says she has been assured Trump will ask Xi to free him
 - 09/23 09:15 [FirstSquawk] U.S. seismologist’s wife says Trump will ask Xi to secure his release from China
 - 09/23 09:23 [FirstSquawk] POLISH PRESIDENT NAWROCKI SAYS THAT 'WHEN THE WORK IS FINISHED, TRUMP WILL PERSONALLY BE ABLE TO PARTICIPATE IN THE INAUGURATION OF FORT TRUMP, WHICH IS GOING TO TAKE PLACE IN POLAND', ADDING THAT 'TRUMP IS FAMOUS FOR KEEPING HIS WORD'.
+- 09/23 09:23 [FirstSquawk] POLISH PRESIDENT NAWROCKI SAYS ON FORT TRUMP THAT 'POLAND IS PAYING FOR ITS SECURITY' AND FOR 'THE STAY OF AMERICAN TROOPS IN POLAND', CALLING IT 'A VERY GOOD SOLUTION BECAUSE WE KNOW WHAT WE ARE PAYING FOR'.
+- 09/23 09:26 [FirstSquawk] Asian-Pacific U.S. equity futures remained broadly steady late Tuesday, with oil prices and bond yields easing amid hopes of a potential U.S.-Iran de-escalation.
+- 09/23 09:35 [FirstSquawk] Gold gains as markets focus on easing oil prices - WSJ
+- 09/23 09:35 [FirstSquawk] U.S. crackdown threatens Americans’ access to low-cost Canadian prescriptions - WSJ
