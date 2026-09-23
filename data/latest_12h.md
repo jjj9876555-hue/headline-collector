@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 06:32 JST／対象: 09/23 18:32 〜 09/24 06:32 JST（時刻はすべて日本時間）
+生成: 2026-09-24 06:44 JST／対象: 09/23 18:44 〜 09/24 06:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 81 | 09/23 18:35 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 165 | 09/23 18:35 | 09/24 05:26 | 34分（01:56→02:31） |
-| financialjuice | 166 | 09/23 18:33 | 09/24 06:22 | ⚠ 71分（18:33→19:45） |
+| DeItaone | 75 | 09/23 18:50 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 164 | 09/23 18:58 | 09/24 06:44 | ⚠ 77分（05:26→06:44） |
+| financialjuice | 167 | 09/23 19:45 | 09/24 06:39 | ⚠ 46分（20:03→20:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 396 行（統合前 415 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 390 行（統合前 409 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 18:33 [financialjuice] GERMAN 30 YR BUND YIELD ACTUAL 3.8% (FORECAST -, PREVIOUS 3.9%) $MACRO
-- 09/23 18:33 [financialjuice] GERMAN 30 YR BUND BID-TO-COVER ACTUAL 1.584 (FORECAST -, PREVIOUS 2.4) $MACRO
-- 09/23 18:35 [FirstSquawk/DeItaone] SPOT GOLD FALLS NEARLY 1% TO $4,312.99/OZ
-- 09/23 18:39 [FirstSquawk] SOFTBANK-BACKED CARRO IS SAID TO MULL FIRST DUAL NASDAQ-SGX IPO || CARRO IS SAID TO CONSIDER SEEKING UP TO $400M-$500M IN IPO
-- 09/23 18:41 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 3:15 AM ET — 🇫🇷 France Flash PMI 🔸 3:30 AM ET — 🇩🇪 Germany Flash PMI 🔸 4:00 AM ET — 🇪🇺 Eurozone Flash PMI 🔸 4:30 AM ET — 🇬🇧 UK Flash PMI 🔸 9:45 AM ET — 🇺🇸 U.S. Flash Manufacturing & Services PMI 🔸 10:…
-- 09/23 18:41 [DeItaone] GOLDMAN CUTS SMARTPHONE SHIPMENT OUTLOOK Goldman Sachs lowered its global smartphone shipment forecasts, now expecting 1.1 billion units in 2026 and 1.2 billion in both 2027 and 2028. Despite weaker volumes, higher prices and premium device…
-- 09/23 18:42 [DeItaone] TRUMP-XI TALKS UNLIKELY TO DELIVER CHIP BREAKTHROUGH Thursday’s Trump-Xi summit is unlikely to produce relief on semiconductors or rare earths, according to Jefferies. The most likely outcome is progress on a U.S.-China Board of Trade aimed…
-- 09/23 18:44 [DeItaone] GOLDMAN: CHINA OIL IMPORTS LIKELY TO STAY WEAK Goldman Sachs expects China’s crude imports to remain subdued if oil prices stay elevated, limiting hopes for a sharp demand rebound. Chinese seaborne imports remain nearly 3 million barrels pe…
-- 09/23 18:44 [DeItaone] DOLLAR HITS 8-WEEK HIGH AS FED HIKE BETS SURGE The dollar climbed to an eight-week high, with the DXY reaching 100.862 as expectations for further Fed tightening strengthened. Markets now price a 53% chance of another 25bp hike in October, …
 - 09/23 18:50 [DeItaone/FirstSquawk] SPOT SILVER FALLS 3% TO $65.05/OZ
 - 09/23 19:02 [FirstSquawk] OPENAI’S SAM ALTMAN TO PROMOTE AI STANDARDS DURING HIS UN SPEECH
 - 09/23 19:02 [FirstSquawk] BRAZIL’S LULA HAS 47.7%, BOLSONARO 47.4% IN RUNOFF POLL
@@ -420,3 +411,6 @@
 - 09/24 05:39 [financialjuice] Australia's Prime Minister Albanese: I am aware of AI incidents happening elsewhere.
 - 09/24 05:51 [DeItaone] AUSTRALIA PM ALBANESE: INCIDENT INVOLVED OPENAI AGENT GAINING UNAUTHORIZED ACCESS INTO THE PUBLIC-FACING MEDICARE STATISTICS REPORTING SERVICE PORTAL
 - 09/24 06:22 [financialjuice] North Korea: conducted test launch of upgraded guided rocket artillery shells on Sept. 22 - KCNA
+- 09/24 06:32 [financialjuice] OpenAI: AI agent improperly accessed Australian government files; no evidence patient records were breached
+- 09/24 06:36 [financialjuice/FirstSquawk] Chinese President Xi Jinping arrives for state visit to U.S.: Xinhua
+- 09/24 06:39 [financialjuice] OpenAI: alerted services in Australia about incident on Sept. 10
