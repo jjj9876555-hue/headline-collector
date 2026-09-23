@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 09:55 JST／対象: 09/22 21:55 〜 09/23 09:55 JST（時刻はすべて日本時間）
+生成: 2026-09-23 10:15 JST／対象: 09/22 22:15 〜 09/23 10:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 214 | 09/22 22:04 | 09/23 09:52 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 229 | 09/22 21:56 | 09/23 09:15 | 44分（06:44→07:28） |
+| FirstSquawk | 213 | 09/22 22:18 | 09/23 10:15 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 224 | 09/22 22:29 | 09/23 10:15 | ⚠ 46分（09:15→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 435 行（統合前 451 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 429 行（統合前 445 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 21:56 [financialjuice] US REDBOOK YOY ACTUAL 7.6% (FORECAST -, PREVIOUS 8.5%) $MACRO
-- 09/22 22:00 [financialjuice] Effective Fed funds rate: 3.88% September 21st vs. 3.88% September 18th.
-- 09/22 22:00 [financialjuice] ECB settled €1,660.5 bln public-sector bond purchases.
-- 09/22 22:00 [financialjuice] ECB settled €214.7 bln corporate bond purchases.
-- 09/22 22:00 [financialjuice] ECB bond holdings under PEPP €1.28 tln as of last week.
-- 09/22 22:03 [financialjuice] Apple Launches New Mac Mini and Mac Studio With Latest Apple Silicon $AAPL
-- 09/22 22:04 [FirstSquawk] APPLE INC: NEW MAC MINI AND MAC STUDIO ARE AVAILABLE TODAY|| STARTING TODAY, THE NEW MAC MINI AND MAC STUDIO, BOTH POWERED BY THE LATEST APPLE SILICON, ARE NOW AVAILABLE
-- 09/22 22:04 [FirstSquawk] APPLE : MAC STUDIO M5 MAX PRICED FROM $2,499, M5 ULTRA FROM $5,499 || MAC MINI WITH M6 STARTS $899, WHILE MAC MINI WITH M5 PRO IS AVAILABLE AT $1,699
-- 09/22 22:05 [FirstSquawk] MERCEDES-BENZ AIMS TO CLOSE AI GAP WITH CHINA RIVALS THROUGH WAYVE DEAL - FT
-- 09/22 22:07 [FirstSquawk] TRUMP OPEN TO MEETING IRAN OFFICIALS UNDER RIGHT CONDITIONS: CNN
-- 09/22 22:07 [financialjuice] ❗ Trump is open to meeting Iranian officials under the right conditions - CNN.
-- 09/22 22:08 [FirstSquawk] CVC-BACKED HOME INSURANCE FIRM BAMBOO IS SAID TO POSTPONE IPO
-- 09/22 22:08 [financialjuice] Trump told advisers he'd like to meet Iranian officials if "conditions are right" - CNN
-- 09/22 22:08 [FirstSquawk] IRAN MEETING COULD ALSO BE HELD WITH TRUMP'S TOP ADVISERS: CNN
-- 09/22 22:09 [FirstSquawk] CURRENTLY NO MEETING SCHEDULE WITH US-IRANIAN OFFICIALS: CNN
-- 09/22 22:12 [FirstSquawk] GOLDMAN IN TALKS TO BUY $37 BILLION CREDIT FIRM PALMER SQUARE
-- 09/22 22:12 [financialjuice] Bank of America raises it's 2H26 Brent price estimate to $95 a barrel from $83 a barrel.
 - 09/22 22:18 [FirstSquawk] EXPLOSIONS OCCURRED IN THE STRAIT OF HORMUZ AFTER IRGC ATTACKED SHIPS.
 - 09/22 22:27 [FirstSquawk] IRAN FM ARAGHCHI MET ITALIAN COUNTERPART TAJANI IN NEW YORK - TASNIM
 - 09/22 22:29 [financialjuice] Libya's NOC: The Sharara-Zawiya Crude loading pipeline closure leads to daily losses of around 130,000 bpd - Statement.
@@ -459,3 +442,14 @@
 - 09/23 09:51 [FirstSquawk] Embraer says technical support is being provided as necessary actions are taken to address the issue
 - 09/23 09:52 [FirstSquawk] Embraer closely monitors situation in coordination with operators and equipment maker
 - 09/23 09:52 [FirstSquawk] Embraer says certain aircraft types, including E2, affected by GPS instability
+- 09/23 09:59 [FirstSquawk] Kallas and Iran’s Araghchi discuss reopening Strait of Hormuz and ending U.S.-Iran war - Al Jazeera
+- 09/23 10:00 [FirstSquawk] Morocco’s foreign minister: Armed groups’ role has increased significantly
+- 09/23 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.804% unchanged from previous session open
+- 09/23 10:01 [FirstSquawk] Taiwan overnight interbank rate holds at 0.804% at the open
+- 09/23 10:03 [financialjuice] Meta takes action on 3.7 million accounts, pages, and content with Singapore police force
+- 09/23 10:05 [FirstSquawk] Meta acts against 3.7 million accounts, pages and content in coordination with Singapore Police
+- 09/23 10:13 [FirstSquawk] Gold holds steady as higher-for-longer rate outlook pressures sentiment - Reuters
+- 09/23 10:13 [financialjuice] South Korean President Lee to meet US President Trump on sidelines of UN General Assembly - media
+- 09/23 10:14 [FirstSquawk] South Korea’s Lee to hold talks with Trump on sidelines of UN General Assembly - media
+- 09/23 10:15 [financialjuice] South Korean president Lee holds 30-minute meeting with Trump: S. Korea presidential office
+- 09/23 10:15 [FirstSquawk] South Korean President Lee meets Trump for 30 minutes, presidential office says

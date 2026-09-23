@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 09:55 JST／対象: 09/23 03:55 〜 09/23 09:55 JST（時刻はすべて日本時間）
+生成: 2026-09-23 10:15 JST／対象: 09/23 04:15 〜 09/23 10:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 113 | 09/23 03:58 | 09/23 09:52 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 69 | 09/23 03:56 | 09/23 09:15 | 44分（06:44→07:28） |
+| FirstSquawk | 111 | 09/23 04:23 | 09/23 10:15 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 68 | 09/23 04:16 | 09/23 10:15 | ⚠ 46分（09:15→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 179 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 176 行（統合前 181 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 03:56 [financialjuice] Ukraine's President Zelenskiy: Trump and I discussed an energy ceasefire and how to end the war; Ukraine ready for any format of energy ceasefire
-- 09/23 03:58 [FirstSquawk] AN IRANIAN OFFICIAL, RESPONDING TO TRUMP'S CLAIMS, SAYS IRAN IS 'READY FOR ESCALATION IN CASE OF ENEMY AGGRESSION', ADDING THAT THE U.S. 'HAS NOT SET ANY RED LINES IN THE REGION' AND THAT IRAN IS PREPARED FOR ALL POSSIBLE SCENARIOS - FARS N…
-- 09/23 03:59 [FirstSquawk] U.S. SOURCES CITED BY ISRAEL HAYOM NEWS SAY A PRE-PLANNED MEETING BETWEEN U.S. REPRESENTATIVES AND ARAGHCHI'S IRANIAN TEAM — WITH QATAR'S PM PRESENT FOR MOST OF IT — DISCUSSED RESUMING TALKS AND OPENING THE STRAIT OF HORMUZ, BUT REACHED NO …
-- 09/23 04:00 [FirstSquawk] ZELENSKIY SAYS HE AND TRUMP DISCUSSED AN ENERGY CEASEFIRE AND WAYS TO END THE WAR, WITH UKRAINE READY FOR ANY FORMAT OF AN AGREEMENT AND HOPING THE U.S. CAN BRING RUSSIA INTO NEGOTIATIONS.
-- 09/23 04:00 [FirstSquawk] ZELENSKIY ALSO DISCUSSED WINTER PREPARATIONS AND REQUESTED A WINTER PACKAGE OF PATRIOT MISSILES, SAYING UKRAINE NEEDS LICENSES FOR PATRIOT PRODUCTION AND SECURITY GUARANTEES.
-- 09/23 04:02 [financialjuice] On Thursday, Israel's Prime Minister Netanyahu will be in New York for a few hours, no significant meetings - Israel's N12 News
-- 09/23 04:03 [FirstSquawk] ISRAEL PM NETANYAHU TO SPEND FEW HOURS IN NEW YORK ON THURSDAY, WITH NO SIGNIFICANT MEETINGS PLANNED — N12 NEWS
-- 09/23 04:03 [FirstSquawk] ZELENSKIY REITERATES READINESS FOR TRILATERAL MEETING WITH PUTIN & TRUMP
-- 09/23 04:06 [financialjuice] Senators: Trump must end China’s access to advanced chips.
-- 09/23 04:06 [FirstSquawk] ZELENSKIY SAYS TRUMP DID NOT ASK UKRAINE TO UNILATERALLY HALT ENERGY STRIKES
-- 09/23 04:08 [FirstSquawk] ZELENSKIY: PUTIN IS NOT WINNING ON THE BATTLEFIELD
-- 09/23 04:09 [financialjuice] WATCH LIVE: Trump Participates in a Shield of the Americas Event
-- 09/23 04:09 [FirstSquawk] US SENATORS CALL ON TRUMP TO END CHINA’S ACCESS TO ADVANCED CHIPS
-- 09/23 04:12 [financialjuice] Trump: Witkoff and Kushner met with Iran. Lots of good thoughts.
 - 09/23 04:16 [financialjuice/FirstSquawk] Jordan's King joins Trump-hosted meeting with Arab and Islamic leaders on the sidelines of UNGA - Royal Court
 - 09/23 04:17 [financialjuice] Trump on Shield of The Americas: Must secure control of our own energy pipelines.
 - 09/23 04:21 [financialjuice] Wednesday FX Options Expiries
@@ -203,3 +189,14 @@
 - 09/23 09:51 [FirstSquawk] Embraer says technical support is being provided as necessary actions are taken to address the issue
 - 09/23 09:52 [FirstSquawk] Embraer closely monitors situation in coordination with operators and equipment maker
 - 09/23 09:52 [FirstSquawk] Embraer says certain aircraft types, including E2, affected by GPS instability
+- 09/23 09:59 [FirstSquawk] Kallas and Iran’s Araghchi discuss reopening Strait of Hormuz and ending U.S.-Iran war - Al Jazeera
+- 09/23 10:00 [FirstSquawk] Morocco’s foreign minister: Armed groups’ role has increased significantly
+- 09/23 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.804% unchanged from previous session open
+- 09/23 10:01 [FirstSquawk] Taiwan overnight interbank rate holds at 0.804% at the open
+- 09/23 10:03 [financialjuice] Meta takes action on 3.7 million accounts, pages, and content with Singapore police force
+- 09/23 10:05 [FirstSquawk] Meta acts against 3.7 million accounts, pages and content in coordination with Singapore Police
+- 09/23 10:13 [FirstSquawk] Gold holds steady as higher-for-longer rate outlook pressures sentiment - Reuters
+- 09/23 10:13 [financialjuice] South Korean President Lee to meet US President Trump on sidelines of UN General Assembly - media
+- 09/23 10:14 [FirstSquawk] South Korea’s Lee to hold talks with Trump on sidelines of UN General Assembly - media
+- 09/23 10:15 [financialjuice] South Korean president Lee holds 30-minute meeting with Trump: S. Korea presidential office
+- 09/23 10:15 [FirstSquawk] South Korean President Lee meets Trump for 30 minutes, presidential office says

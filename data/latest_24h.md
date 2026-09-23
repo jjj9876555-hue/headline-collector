@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 09:55 JST／対象: 09/22 09:55 〜 09/23 09:55 JST（時刻はすべて日本時間）
+生成: 2026-09-23 10:15 JST／対象: 09/22 10:15 〜 09/23 10:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 355 | 09/22 09:59 | 09/23 09:52 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 316 | 09/22 12:21 | 09/23 09:15 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 355 | 09/22 10:16 | 09/23 10:15 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 320 | 09/22 12:21 | 09/23 10:15 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 680 行（統合前 702 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 684 行（統合前 706 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 09:59 [FirstSquawk] South Korea’s Kim says US investment will provide greater market access for Korean businesses in US
-- 09/22 10:00 [FirstSquawk] Taiwan overnight rate edges lower to 0.804% at the open
-- 09/22 10:01 [FirstSquawk] South Korea’s Lee proposes sanctions relief for North Korea in exchange for nuclear program suspension — NYT
-- 09/22 10:06 [FirstSquawk] AI demand recasts Japan’s data-centre growth, Fitch Ratings says
-- 09/22 10:10 [FirstSquawk] South Korea’s Kim to brief lawmakers on two investment projects aligned with both countries’ interests
-- 09/22 10:12 [FirstSquawk] South Korea’s Kim says no firm decision has been made on the two proposed projects
-- 09/22 10:15 [FirstSquawk] South Korea’s government to brief parliament on US investment project approved for pursuit, Kim says
 - 09/22 10:16 [FirstSquawk] China’s central bank sets yuan reference rate at 6.7459 per dollar
 - 09/22 10:17 [FirstSquawk] Lithuania PM says country ready to “fight back” but has evacuation plans amid Russia threats — BBC
 - 09/22 10:17 [FirstSquawk] Yuan midpoint set at strongest level since February 2023 by China
@@ -704,3 +697,14 @@
 - 09/23 09:51 [FirstSquawk] Embraer says technical support is being provided as necessary actions are taken to address the issue
 - 09/23 09:52 [FirstSquawk] Embraer closely monitors situation in coordination with operators and equipment maker
 - 09/23 09:52 [FirstSquawk] Embraer says certain aircraft types, including E2, affected by GPS instability
+- 09/23 09:59 [FirstSquawk] Kallas and Iran’s Araghchi discuss reopening Strait of Hormuz and ending U.S.-Iran war - Al Jazeera
+- 09/23 10:00 [FirstSquawk] Morocco’s foreign minister: Armed groups’ role has increased significantly
+- 09/23 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.804% unchanged from previous session open
+- 09/23 10:01 [FirstSquawk] Taiwan overnight interbank rate holds at 0.804% at the open
+- 09/23 10:03 [financialjuice] Meta takes action on 3.7 million accounts, pages, and content with Singapore police force
+- 09/23 10:05 [FirstSquawk] Meta acts against 3.7 million accounts, pages and content in coordination with Singapore Police
+- 09/23 10:13 [FirstSquawk] Gold holds steady as higher-for-longer rate outlook pressures sentiment - Reuters
+- 09/23 10:13 [financialjuice] South Korean President Lee to meet US President Trump on sidelines of UN General Assembly - media
+- 09/23 10:14 [FirstSquawk] South Korea’s Lee to hold talks with Trump on sidelines of UN General Assembly - media
+- 09/23 10:15 [financialjuice] South Korean president Lee holds 30-minute meeting with Trump: S. Korea presidential office
+- 09/23 10:15 [FirstSquawk] South Korean President Lee meets Trump for 30 minutes, presidential office says
