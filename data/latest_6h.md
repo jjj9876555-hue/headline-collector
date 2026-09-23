@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 11:17 JST／対象: 09/23 05:17 〜 09/23 11:17 JST（時刻はすべて日本時間）
+生成: 2026-09-23 11:33 JST／対象: 09/23 05:33 〜 09/23 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 82 | 09/23 05:21 | 09/23 11:10 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 41 | 09/23 05:22 | 09/23 10:59 | ⚠ 46分（09:15→10:01） |
+| FirstSquawk | 84 | 09/23 05:40 | 09/23 11:33 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 37 | 09/23 05:33 | 09/23 11:32 | ⚠ 46分（09:15→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 122 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 120 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 05:21 [FirstSquawk] IRAQ OIL EXPORTS TOP 3 MLN BPD; AUGUST EXPORT VOLUME REACHED 70 MLN BARRELS — STATE MEDIA
-- 09/23 05:22 [financialjuice] ECB's Nagel: ECB rates are still in neutral territory, cannot exclude that we will need to go into mild restrictive territory.
-- 09/23 05:22 [FirstSquawk] CHIPMAKERS LIFTED THE NASDAQ 100 0.8% TO ITS FIRST RECORD SINCE JUNE, WITH A SEMICONDUCTOR GAUGE INCLUDING NVIDIA AND MICRON RISING FOR A SIXTH STRAIGHT SESSION, OFFSETTING A SELLOFF IN BANK SHARES.
-- 09/23 05:22 [FirstSquawk] BRENT SETTLED AROUND $99 AS TRUMP SAID U.S.-IRAN TALKS WERE “VERY PRODUCTIVE” AND SHOWED “A LOT OF MOMENTUM” TOWARD A DEAL, WHILE WALL STREET ALSO LOOKS AHEAD TO THE TRUMP-XI SUMMIT ON TRADE, AI AND OTHER CONTENTIOUS ISSUES.
-- 09/23 05:26 [financialjuice] NY Fed's Perli: Fed's reserve management purchases are not on a pre-set course
-- 09/23 05:26 [financialjuice] NY Fed Perli: Monetary policy toolkit has been working very well.
-- 09/23 05:26 [financialjuice] NY Fed's Perli: Fed's reserve forecasting process is robust
-- 09/23 05:26 [FirstSquawk] NEW YORK FED OPEN MARKETS CHIEF JOHN WILLIAMS PERLI SAYS THE FED’S RESERVE MANAGEMENT PURCHASES ARE NOT ON A PRESET COURSE, WHILE SAYING THE CENTRAL BANK’S MONETARY POLICY TOOLKIT HAS BEEN WORKING VERY WELL.
-- 09/23 05:26 [financialjuice] NY Fed's Perli: Central clearing of Fed repo operations would have benefits
-- 09/23 05:26 [FirstSquawk] NEW YORK FED OPEN MARKETS CHIEF JOHN WILLIAMS PERL SAYS CENTRAL CLEARING OF FED REPO OPERATIONS COULD PROVIDE BENEFITS, WHILE DESCRIBING THE FED’S RESERVE FORECASTING PROCESS AS ROBUST.
-- 09/23 05:31 [financialjuice] Iraqi Oil Minister: Road transport of crude from southern oilfields to Kirkuk expected to increase exports via Turkey's Ceyhan port to more than 600,000 bpd
-- 09/23 05:32 [financialjuice] Iraqi Oil Minister: Oil production from Iraqi Kurdistan oilfields currently stands at 200,000 bpd
-- 09/23 05:32 [financialjuice] ECB's Nagel: I am not relaxed, core inflation is still too high
 - 09/23 05:33 [financialjuice] ECB's Nagel: Up to now, I do not see significant 2nd round effects.
 - 09/23 05:35 [financialjuice] ECB's Nagel: We are vigilant.
 - 09/23 05:39 [financialjuice/FirstSquawk] ❗ Iraqi Oil Minister: Iraq is studying a plan to export crude oil by trucks to Turkey
@@ -146,3 +133,14 @@
 - 09/23 10:59 [financialjuice] Three commodity ships pass Strait of Hormuz on Tuesday vs 10-day moving average of about 15, data shows
 - 09/23 10:59 [FirstSquawk] Only three commodity vessels transit Strait of Hormuz on Tuesday, well below 10-day average
 - 09/23 11:10 [FirstSquawk] Canadian Dollar faces downside pressure as oil prices fall on Iran diplomacy hopes - fx
+- 09/23 11:19 [FirstSquawk] Toyota plans 400,000 robots in factories, including humanoids that learn from employees - NA
+- 09/23 11:20 [financialjuice] Iran foreign ministry spokesperson: engagement with US side in New York occurred via Qatari intermediary - IRNA
+- 09/23 11:20 [FirstSquawk] Iran says Qatar mediated engagement with U.S. officials in New York - IRNA
+- 09/23 11:23 [financialjuice] Anthropic in discussions to secure control over additional data centers - The Information
+- 09/23 11:23 [FirstSquawk] Anthropic seeks greater control of data centers in ongoing talks - The Information
+- 09/23 11:24 [financialjuice] Anthropic discusses up to 1 gigawatt data center lease with Stream Data Centers - The Information
+- 09/23 11:24 [FirstSquawk] Anthropic discusses up to 1 GW data center lease with Stream Data Centers - The Information
+- 09/23 11:27 [FirstSquawk] Vietnam’s TPBank plans to issue 416 million new shares to shareholders as dividends
+- 09/23 11:32 [financialjuice] China finance ministry auctions 3-month deposits at 1.47% yield: statement
+- 09/23 11:32 [FirstSquawk] China Finance Ministry auctions 3-month deposits with 1.47% yield
+- 09/23 11:33 [FirstSquawk] China Finance Ministry sells 2-month deposits at 1.46% yield
