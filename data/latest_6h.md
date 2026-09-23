@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 17:04 JST／対象: 09/23 11:04 〜 09/23 17:04 JST（時刻はすべて日本時間）
+生成: 2026-09-23 17:26 JST／対象: 09/23 11:26 〜 09/23 17:26 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 69 | 09/23 11:10 | 09/23 17:00 | 26分（16:04→16:30） |
-| financialjuice | 40 | 09/23 11:20 | 09/23 17:03 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 64 | 09/23 11:27 | 09/23 17:00 | 26分（16:04→16:30） |
+| financialjuice | 37 | 09/23 11:32 | 09/23 17:03 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 109 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 101 行（統合前 101 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 11:10 [FirstSquawk] Canadian Dollar faces downside pressure as oil prices fall on Iran diplomacy hopes - fx
-- 09/23 11:19 [FirstSquawk] Toyota plans 400,000 robots in factories, including humanoids that learn from employees - NA
-- 09/23 11:20 [financialjuice] Iran foreign ministry spokesperson: engagement with US side in New York occurred via Qatari intermediary - IRNA
-- 09/23 11:20 [FirstSquawk] Iran says Qatar mediated engagement with U.S. officials in New York - IRNA
-- 09/23 11:23 [financialjuice] Anthropic in discussions to secure control over additional data centers - The Information
-- 09/23 11:23 [FirstSquawk] Anthropic seeks greater control of data centers in ongoing talks - The Information
-- 09/23 11:24 [financialjuice] Anthropic discusses up to 1 gigawatt data center lease with Stream Data Centers - The Information
-- 09/23 11:24 [FirstSquawk] Anthropic discusses up to 1 GW data center lease with Stream Data Centers - The Information
 - 09/23 11:27 [FirstSquawk] Vietnam’s TPBank plans to issue 416 million new shares to shareholders as dividends
 - 09/23 11:32 [financialjuice] China finance ministry auctions 3-month deposits at 1.47% yield: statement
 - 09/23 11:32 [FirstSquawk] China Finance Ministry auctions 3-month deposits with 1.47% yield
