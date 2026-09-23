@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 10:58 JST／対象: 09/23 04:58 〜 09/23 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-23 11:17 JST／対象: 09/23 05:17 〜 09/23 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 86 | 09/23 04:58 | 09/23 10:53 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 49 | 09/23 05:02 | 09/23 10:21 | ⚠ 46分（09:15→10:01） |
+| FirstSquawk | 82 | 09/23 05:21 | 09/23 11:10 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 41 | 09/23 05:22 | 09/23 10:59 | ⚠ 46分（09:15→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 134 行（統合前 135 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 122 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 04:58 [FirstSquawk] IRAN’S ARMED FORCES: TRUMP’S UNGA STATEMENTS ON IRAN ARE “TOOLS FOR DOMESTIC PROPAGANDA” — STATEMENT
-- 09/23 04:59 [FirstSquawk] MICROSOFT TO CONTINUE CONSIDERING SHAREHOLDER PROPOSALS THROUGH 2027 DESPITE SEC PROPOSAL TO END OVERSIGHT OF SUCH VOTES
-- 09/23 05:00 [FirstSquawk] NASDAQ CLOSES 0.45% HIGHER AT 27,245.24, UP 123.14 POINTS
-- 09/23 05:01 [FirstSquawk] S&P 500 CLOSES FLAT AT 7,765.00, UP 0.30 POINTS
-- 09/23 05:02 [financialjuice] ECB's Nagel: Oil prices are not the only indicator, but have become more relevant over past 4 years
-- 09/23 05:02 [FirstSquawk] NASDAQ CLOSES 0.45% HIGHER AT 27,245.24, UP 123.14 POINTS S&P 500 CLOSES FLAT AT 7,765.00, UP 0.30 POINTS DOW JONES CLOSES 0.31% LOWER AT 51,886.10, DOWN 162.73 POINTS
-- 09/23 05:03 [FirstSquawk] US GOVERNMENT AND GULF BILLIONAIRES BACK TODD BOEHLY BID FOR LUKOIL ASSETS - FT
-- 09/23 05:03 [financialjuice] Canada's PM Carney: AI advancing faster than we can control it
-- 09/23 05:03 [financialjuice] South Korea's President Lee unveils Korean Peninsula peace coexistence plan
-- 09/23 05:05 [financialjuice] Qualcomm launches two new flagship mobile platforms. $QCOM
-- 09/23 05:09 [financialjuice] ECB's Nagel: I am not so concerned about labour market developments
-- 09/23 05:12 [financialjuice] ECB's Nagel: We are conducting monetary policy in between constructive ambiguity and forward guidance
-- 09/23 05:13 [financialjuice] ECB's Nagel: I do not see too much uncertainty in markets about what drives our decision making.
-- 09/23 05:14 [financialjuice] Iraqi Oil Minister: Volume of oil exported in August reached 70 mln barrels - State Media
-- 09/23 05:15 [financialjuice] Iraqi Oil Minister: Iraq is currently exporting more than 3 mln barrels of oil per day - State Media
 - 09/23 05:21 [FirstSquawk] IRAQ OIL EXPORTS TOP 3 MLN BPD; AUGUST EXPORT VOLUME REACHED 70 MLN BARRELS — STATE MEDIA
 - 09/23 05:22 [financialjuice] ECB's Nagel: ECB rates are still in neutral territory, cannot exclude that we will need to go into mild restrictive territory.
 - 09/23 05:22 [FirstSquawk] CHIPMAKERS LIFTED THE NASDAQ 100 0.8% TO ITS FIRST RECORD SINCE JUNE, WITH A SEMICONDUCTOR GAUGE INCLUDING NVIDIA AND MICRON RISING FOR A SIXTH STRAIGHT SESSION, OFFSETTING A SELLOFF IN BANK SHARES.
@@ -158,3 +143,6 @@
 - 09/23 10:46 [FirstSquawk] Takaichi says Japan remains a “peace-loving nation” committed to defense-oriented policy - Kyodo
 - 09/23 10:48 [FirstSquawk] BlackRock says AI computing capacity may become tokenized in the future
 - 09/23 10:53 [FirstSquawk] Export Finance Australia retains ‘AAA’ rating from Fitch; outlook stable
+- 09/23 10:59 [financialjuice] Three commodity ships pass Strait of Hormuz on Tuesday vs 10-day moving average of about 15, data shows
+- 09/23 10:59 [FirstSquawk] Only three commodity vessels transit Strait of Hormuz on Tuesday, well below 10-day average
+- 09/23 11:10 [FirstSquawk] Canadian Dollar faces downside pressure as oil prices fall on Iran diplomacy hopes - fx

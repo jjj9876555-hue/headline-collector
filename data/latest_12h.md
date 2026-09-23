@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 10:58 JST／対象: 09/22 22:58 〜 09/23 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-23 11:17 JST／対象: 09/22 23:17 〜 09/23 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 211 | 09/22 23:02 | 09/23 10:53 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 214 | 09/22 23:00 | 09/23 10:21 | ⚠ 46分（09:15→10:01） |
+| FirstSquawk | 210 | 09/22 23:18 | 09/23 11:10 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 198 | 09/22 23:17 | 09/23 10:59 | ⚠ 46分（09:15→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 417 行（統合前 433 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 400 行（統合前 415 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 23:00 [financialjuice] EUROZONE CONSUMER CONFIDENCE FLASH ACTUAL -16.5 (FORECAST -16, PREVIOUS -15.5) $MACRO
-- 09/22 23:00 [financialjuice] RICHMOND FED COMP. INDEX ACTUAL -2 (FORECAST 2, PREVIOUS 4) $MACRO
-- 09/22 23:01 [financialjuice] Trump: United States will no longer permit threats to America to gain a foothold anywhere in the Western Hemisphere - White House Press Pool.
-- 09/22 23:02 [financialjuice] Trump: There is no global government, and while I am President, there will be no global taxes - White House Press Pool.
-- 09/22 23:02 [FirstSquawk] US RICHMOND FED MANUFACTURING INDEX SEP: 2 (EST 2; PREV 4)
-- 09/22 23:02 [FirstSquawk] EUROZONE CONSUMER CONFIDENCE SEP P: -16.5 (EST -16.0; PREV -15.5)
-- 09/22 23:03 [financialjuice] Trump: And if necessary, we will use our unmatched military might to secure the vital national interests of the United States - White House Press Pool
-- 09/22 23:05 [financialjuice] Fed's Williams does not comment on monetary policy or the economic outlook.
-- 09/22 23:05 [financialjuice] Fed's Williams: There should be no opportunity cost to holding reserves.
-- 09/22 23:05 [financialjuice] Fed's Williams: The Fed's rate control system has been very effective.
-- 09/22 23:05 [financialjuice] Fed's Williams: The Fed will adjust the supply of reserves depending on market conditions.
-- 09/22 23:05 [financialjuice] Fed's Williams: Monitoring rise of centrally cleared repo trading.
-- 09/22 23:06 [financialjuice] Fed's Williams: The Fed will adjust monetary policy implementation strategy as needed.
-- 09/22 23:06 [financialjuice] New York Fed's 2026 Treasury Market Conference with Fed's Williams & Jefferson - WATCH LIVE
-- 09/22 23:07 [financialjuice] Microsoft began a new round of layoffs affecting around 500 employees - Business Insider. $MSFT
-- 09/22 23:08 [financialjuice] Microsoft starts a new round of job cuts and the next phase of its Xbox 'reset.' - Business Insider $MSFT
-- 09/22 23:12 [FirstSquawk] BRAZILIAN PRESIDENT LULA: UN SPECIAL RAPPORTEUR FRANCESCA ALBANESE MUST NOT BE SILENCED FOR TELLING THE TRUTH.
-- 09/22 23:14 [financialjuice] Several mediating countries in contact with US and Iran to arrange a high-level meeting - Regional source involved in negotiations, via Barak Ravid, News 12
-- 09/22 23:17 [financialjuice] Fed's Jefferson does not comment on monetary policy, economy in prepared remarks.
-- 09/22 23:17 [financialjuice] Fed's Jefferson: Banks using fed's discount window report it's faster, easier, more efficient since self-service portal started.
 - 09/22 23:17 [financialjuice] Fed's Jefferson: The discount window is shock absorber during market stress, supports functioning of short-term funding markets, treasury liquidity.
 - 09/22 23:17 [financialjuice] Fed's Jefferson: Still important work to do to modernize the discount window.
 - 09/22 23:18 [financialjuice] Fear and Greed Index: 38/100 = Fear
@@ -441,3 +421,6 @@
 - 09/23 10:46 [FirstSquawk] Takaichi says Japan remains a “peace-loving nation” committed to defense-oriented policy - Kyodo
 - 09/23 10:48 [FirstSquawk] BlackRock says AI computing capacity may become tokenized in the future
 - 09/23 10:53 [FirstSquawk] Export Finance Australia retains ‘AAA’ rating from Fitch; outlook stable
+- 09/23 10:59 [financialjuice] Three commodity ships pass Strait of Hormuz on Tuesday vs 10-day moving average of about 15, data shows
+- 09/23 10:59 [FirstSquawk] Only three commodity vessels transit Strait of Hormuz on Tuesday, well below 10-day average
+- 09/23 11:10 [FirstSquawk] Canadian Dollar faces downside pressure as oil prices fall on Iran diplomacy hopes - fx

@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 10:58 JST／対象: 09/22 10:58 〜 09/23 10:58 JST（時刻はすべて日本時間）
+生成: 2026-09-23 11:17 JST／対象: 09/22 11:17 〜 09/23 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 353 | 09/22 10:58 | 09/23 10:53 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 321 | 09/22 12:21 | 09/23 10:21 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 345 | 09/22 11:21 | 09/23 11:10 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 322 | 09/22 12:21 | 09/23 10:59 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 683 行（統合前 705 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 676 行（統合前 698 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 10:58 [FirstSquawk] South Korea eyes nuclear power and Alaska LNG projects as part of US investment — Media
-- 09/22 11:01 [FirstSquawk] Rocket shortage intensifies as launch providers race to secure spaceflight capacity — WSJ
-- 09/22 11:07 [FirstSquawk] South Korean lawmaker: No final confirmation yet on Alaska LNG project in US investment package
-- 09/22 11:07 [FirstSquawk] South Korea looking to secure 5%-10% stake in Westinghouse — lawmaker
-- 09/22 11:08 [FirstSquawk] South Korea in discussions with US over two nuclear reactors based on Korean designs — lawmaker
-- 09/22 11:12 [FirstSquawk] RBNZ Gov. Breman: Near-term inflation expected to be somewhat higher if elevated oil prices persist
-- 09/22 11:12 [FirstSquawk] RBNZ Gov. Breman: Remains focused on inflation outlook ahead of October policy decision
-- 09/22 11:13 [FirstSquawk] RBNZ Gov. Breman: Economic outlook remains subject to significant risks
-- 09/22 11:14 [FirstSquawk] RBNZ Gov. Breman: Economic recovery expected to strengthen and broaden
-- 09/22 11:14 [FirstSquawk] RBNZ Gov. Breman: Current data point to continued economic recovery, though progress remains uneven
 - 09/22 11:21 [FirstSquawk] New Zealand dollar slips as RBNZ signals gradual rate-hike outlook amid geopolitical tensions — FXStreet
 - 09/22 11:22 [FirstSquawk] Alibaba CEO says new Zhenwu V900 is China’s most powerful AI chip, with 3x predecessor performance
 - 09/22 11:22 [FirstSquawk] Alibaba CEO: Qwen team plans new AI model trained with 5-10 trillion parameters
@@ -707,3 +697,6 @@
 - 09/23 10:46 [FirstSquawk] Takaichi says Japan remains a “peace-loving nation” committed to defense-oriented policy - Kyodo
 - 09/23 10:48 [FirstSquawk] BlackRock says AI computing capacity may become tokenized in the future
 - 09/23 10:53 [FirstSquawk] Export Finance Australia retains ‘AAA’ rating from Fitch; outlook stable
+- 09/23 10:59 [financialjuice] Three commodity ships pass Strait of Hormuz on Tuesday vs 10-day moving average of about 15, data shows
+- 09/23 10:59 [FirstSquawk] Only three commodity vessels transit Strait of Hormuz on Tuesday, well below 10-day average
+- 09/23 11:10 [FirstSquawk] Canadian Dollar faces downside pressure as oil prices fall on Iran diplomacy hopes - fx
