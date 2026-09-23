@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 22:22 JST／対象: 09/23 10:22 〜 09/23 22:22 JST（時刻はすべて日本時間）
+生成: 2026-09-23 22:37 JST／対象: 09/23 10:37 〜 09/23 22:37 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/23 18:24 | 09/23 22:19 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 126 | 09/23 10:22 | 09/23 22:19 | 30分（17:00→17:31） |
-| financialjuice | 70 | 09/23 10:59 | 09/23 22:19 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 28 | 09/23 18:24 | 09/23 22:36 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 129 | 09/23 10:38 | 09/23 22:36 | 30分（17:00→17:31） |
+| financialjuice | 74 | 09/23 10:59 | 09/23 22:36 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 207 行（統合前 217 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 220 行（統合前 231 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 10:22 [FirstSquawk] South Korea’s Lee, Trump hail major progress in talks on strategic investment projects
-- 09/23 10:22 [FirstSquawk] Lee highlights importance of U.S.-China summit for regional affairs, presidential office says
-- 09/23 10:23 [FirstSquawk] South Korea’s Lee, Trump reaffirm cooperation on nuclear submarines, fuel reprocessing and shipbuilding
-- 09/23 10:27 [FirstSquawk] GM CEO Mary Barra set to attend Trump’s state dinner for Xi, Reuters reports
 - 09/23 10:38 [FirstSquawk] Japan’s Aeon introduces 1,000-yen jeans as consumer spending comes under pressure - Kyodo
 - 09/23 10:46 [FirstSquawk] Takaichi says Japan remains a “peace-loving nation” committed to defense-oriented policy - Kyodo
 - 09/23 10:48 [FirstSquawk] BlackRock says AI computing capacity may become tokenized in the future
@@ -231,3 +227,20 @@
 - 09/23 22:10 [FirstSquawk] Trump on truth social Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing problems that will soon be too big to handle. It is a Liberal takeover t…
 - 09/23 22:16 [DeItaone] TRUMP ATTACKS CANADA OVER IMMIGRATION President Trump accused Canada of allowing “millions and millions” of people into the country unchecked and unvetted, claiming it is creating serious problems. Trump blamed what he called a “Liberal tak…
 - 09/23 22:19 [DeItaone/financialjuice/FirstSquawk] RUSSIA'S LAVROV MEETS WITH US RUBIO - IFX
+- 09/23 22:22 [financialjuice] Samsung to deploy 5G SA networks starting October 2026.
+- 09/23 22:23 [FirstSquawk] GIORGETTI: INCOME TAX REDUCTION REMAINS GOVT PRIORITY
+- 09/23 22:24 [DeItaone] US ENERGY SECRETARY CHRIS WRIGHT SAYS DIESEL EXPORT BAN WOULD NOT WORK
+- 09/23 22:25 [DeItaone] WRIGHT SAYS US DIESEL EXPORT BAN WOULD RAISE GASOLINE AND JET FUEL PRICES
+- 09/23 22:25 [FirstSquawk] US ENERGY SECRETARY CHRIS WRIGHT: DIESEL EXPORT BAN WOULD NOT WORK
+- 09/23 22:25 [FirstSquawk] WRIGHT: US DIESEL EXPORT BAN WOULD RAISE GASOLINE AND JET FUEL PRICES
+- 09/23 22:27 [DeItaone] FED RATE HIKE BOOSTS DOLLAR APPEAL Standard Chartered says the Fed’s rate hike has removed a key obstacle to buying the dollar, easing concerns that Chair Kevin Warsh would avoid tightening despite pressure from President Trump. Warsh’s con…
+- 09/23 22:29 [DeItaone] MORGAN STANLEY ACCIDENTALLY LEAKS 100+ DEAL PIPELINE A Morgan Stanley employee mistakenly emailed an internal document detailing more than 100 investment-banking deals being pitched or monitored across Asia and other regions. The list repor…
+- 09/23 22:30 [DeItaone] GOLDMAN SEES KOSPI BREAKOUT ABOVE 7,000 Goldman Sachs sees South Korea’s KOSPI positioned for a near-term breakout above 7,000–7,200, supported by improving institutional and foreign buying. Strong memory-chip momentum and Samsung’s dividen…
+- 09/23 22:30 [FirstSquawk] Oil Rises Above $100 as Surging Diesel Prices and Persistent Middle East Supply Risks Offset Recovery Hopes Crude oil prices climbed back above $100 a barrel, snapping a five-day losing streak as traders weighed soaring fuel costs against p…
+- 09/23 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -139.5 MLN NASDAQ 100: -25.1 MLN DOW 30: -47.8 MLN MAG 7: -20.3 MLN $MACRO
+- 09/23 22:31 [FirstSquawk] NASDAQ DOWN 36.79 POINTS, OR 0.14 PERCENT, AT 27,207.49 AFTER MARKET OPEN S&P 500 DOWN 7.22 POINTS, OR 0.09 PERCENT, AT 7,757.42 AFTER MARKET OPEN DOW JONES DOWN 146.10 POINTS, OR 0.28 PERCENT, AT 51,717.59 AFTER MARKET OPEN
+- 09/23 22:34 [DeItaone] US AGENCY OPENS SAFETY PROBE INTO DRIVER ASSISTANCE START-UP https://t.co/RskRW5yHW4 AFTER REPORTS OF FIVE CRASHES AND THREE DEATHS
+- 09/23 22:35 [financialjuice] Iran's General Razai: If the US does not comply with the seven conditions set by Iran, the Strait of Hormuz will not be opened, nor will we engage in negotiations - IRIB News.
+- 09/23 22:36 [DeItaone/FirstSquawk] IRAN'S SECURITY CHIEF MOHSEN REZAEI SAYS AS LONG AS IRAN'S CONDITIONS ARE NOT MET HORMUZ WILL NOT BE REOPENED AND THERE WILL BE NO NEGOTIATIONS
+- 09/23 22:36 [financialjuice] Iran's General Razai: Iran has not been in a hurry to negotiate; today, Iran's conditions have been compiled and are currently in the hands of the Qatari and Pakistani parties - IRIB News.
+- 09/23 22:36 [FirstSquawk] IRAN'S SECURITY CHIEF MOHSEN REZAEI: AS LONG AS IRAN'S CONDITIONS ARE NOT MET HORMUZ WILL NOT BE REOPENED AND THERE WILL BE NO NEGOTIATIONS
