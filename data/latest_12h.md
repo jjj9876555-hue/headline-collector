@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 01:58 JST／対象: 09/23 13:58 〜 09/24 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-24 02:17 JST／対象: 09/23 14:17 〜 09/24 02:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 67 | 09/23 18:24 | 09/24 01:07 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 151 | 09/23 14:00 | 09/24 01:56 | 30分（17:00→17:31） |
-| financialjuice | 155 | 09/23 14:52 | 09/24 01:52 | ⚠ 71分（18:33→19:45） |
+| DeItaone | 72 | 09/23 18:24 | 09/24 02:05 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 144 | 09/23 14:19 | 09/24 01:56 | 30分（17:00→17:31） |
+| financialjuice | 162 | 09/23 14:52 | 09/24 02:06 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 357 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 362 行（統合前 380 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI SERVICES ACTUAL: 55.8 VS 54.1 PREVIOUS
-- 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI MFG ACTUAL: 55.7 VS 52.8 PREVIOUS
-- 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI COMPOSITE ACTUAL: 56.5 VS 54.3 PREVIOUS
-- 09/23 14:02 [FirstSquawk] IMF, Sri Lanka hold productive talks on seventh review of Extended Fund Facility
-- 09/23 14:07 [FirstSquawk] Kotecki: Polish central bank nearing discussion on possible November interest rate hike
-- 09/23 14:10 [FirstSquawk] Kotecki signals any Polish rate hikes would be gradual and limited
-- 09/23 14:10 [FirstSquawk] Goldman leads M&A activity as freed capital fuels dealmaking - RTRS
 - 09/23 14:19 [FirstSquawk] Roche says sefaxersen significantly reduces proteinuria in Phase III IgA nephropathy study
 - 09/23 14:19 [FirstSquawk] Russian forces hit cargo ship in Black Sea, Defence Ministry says - IFX
 - 09/23 14:20 [FirstSquawk] Russia says its forces hit Ukrainian defence, energy facilities and logistics centres - RIA
@@ -381,3 +374,15 @@
 - 09/24 01:55 [FirstSquawk] MARATHON PETROLEUM ALSO DROPS TO SESSION LOW, DOWN 2.5%
 - 09/24 01:56 [FirstSquawk] EUROPEAN DIESEL FUTURES SURGE OVER 7% TO SESSION HIGH
 - 09/24 01:56 [FirstSquawk] IRAN SAYS ITS 'NEW' DIPLOMACY WON'T RETURN TO THE PAST
+- 09/24 01:59 [financialjuice] US Treasury Secretary Bessent: Held substantive talks with China's He
+- 09/24 01:59 [DeItaone] TRUMP ADMINISTRATION IS PREPARING A PLAN TO BAN EXPORTS OF DIESEL FOR 90 DAYS - POLITICO
+- 09/24 02:00 [financialjuice] Treasury WI 5-year yield 5.002% before $70 billion auction.
+- 09/24 02:01 [DeItaone] WHITE HOUSE PREPARES 90-DAY DIESEL EXPORT BAN The Trump administration is preparing a 90-day ban on U.S. diesel exports, according to Politico, as record fuel prices intensify pressure ahead of the midterms. Diesel averages $6.52 per gallon…
+- 09/24 02:02 [financialjuice] US 5-YEAR NOTE HIGH YIELD ACTUAL 5.033% (FORECAST -, PREVIOUS 4.393%) $MACRO
+- 09/24 02:02 [DeItaone] *US DIESEL FUTURES SINK MORE THAN 7% TO INTRADAY LOW *EUROPEAN DIESEL FUTURES SURGE OVER 7% TO SESSION HIGH
+- 09/24 02:02 [financialjuice] US 5-YEAR NOTE BID-TO-COVER ACTUAL 2.210 (FORECAST -, PREVIOUS 2.370) $MACRO
+- 09/24 02:03 [financialjuice] US 5-Year Note Auction
+- 09/24 02:03 [financialjuice] ❗ US 5-Year Note Auction: High Yield 5.033% (Tailed by 3.1 basis points)
+- 09/24 02:05 [DeItaone] DIESEL CRACKS PLUNGE ON U.S. EXPORT BAN REPORT U.S. diesel cracks fell $12.70 to $97.85/bbl after Politico reported the White House is preparing a 90-day diesel export ban. Meanwhile, gasoline cracks jumped $2 to $47.41/bbl, reflecting conc…
+- 09/24 02:05 [DeItaone] *FIVE-YEAR TREASURY YIELD RISES TO 5% FOR FIRST TIME SINCE 2007
+- 09/24 02:06 [financialjuice] US 5-Year Note Auction High Yield 5.033% (Tailed by 3.1 basis points) Bid-to-cover 2.21 Sells $70 bln Awards 30.34% of bids at high Primary Dealers take 15.77% Direct 29.92% Indirect 54.31%

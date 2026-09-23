@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 01:58 JST／対象: 09/23 19:58 〜 09/24 01:58 JST（時刻はすべて日本時間）
+生成: 2026-09-24 02:17 JST／対象: 09/23 20:17 〜 09/24 02:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 09/23 20:05 | 09/24 01:07 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 104 | 09/23 19:59 | 09/24 01:56 | 21分（00:54→01:15） |
-| financialjuice | 124 | 09/23 19:59 | 09/24 01:52 | ⚠ 46分（20:03→20:49） |
+| DeItaone | 58 | 09/23 21:06 | 09/24 02:05 | ⚠ 51分（01:07→01:59） |
+| FirstSquawk | 101 | 09/23 20:18 | 09/24 01:56 | 21分（00:54→01:15） |
+| financialjuice | 125 | 09/23 20:49 | 09/24 02:06 | 23分（21:24→21:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 269 行（統合前 284 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 272 行（統合前 286 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 19:59 [financialjuice/FirstSquawk] HSBC raises 2026 year-end FTSE 100 target to 11,390 from 10,980
-- 09/23 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -1.5% (FORECAST -, PREVIOUS -4.1%) $MACRO
-- 09/23 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 7.12% (FORECAST -, PREVIOUS 6.97%) $MACRO
-- 09/23 20:02 [financialjuice] Oil executives lobbied against diesel export ban - WSJ
-- 09/23 20:03 [financialjuice] HSBC cuts France to underweight from neutral
-- 09/23 20:03 [financialjuice] Oil reps blindsided by Trump diesel export ban comment - WSJ
-- 09/23 20:05 [DeItaone] TRUMP WEIGHS DIESEL EXPORT CURBS AS PRICES HIT RECORD President Trump says he is considering restricting U.S. diesel exports as prices reach a record $6.53 per gallon. Oil companies are pushing back, warning restrictions could force refiner…
-- 09/23 20:07 [FirstSquawk] WHITE HOUSE CONSIDERS BAN ON DIESEL EXPORTS AS PRICES KEEP RISING - WSJ
-- 09/23 20:10 [FirstSquawk] TRUMP’S OIL ALLIES SEE NIGHTMARE SCENARIO OF DIESEL-EXPORT BAN BECOMING REALITY – WSJ
 - 09/23 20:18 [FirstSquawk] RYANAIR CEO O'LEARY: WE ARE EXPECTED TO GET OUR FIRST 15 MAX 10 AIRCRAFT IN THE SPRING, WE EXPECT THOSE TO BE CERTIFIED IN THE NEXT FEW WEEKS
 - 09/23 20:22 [FirstSquawk] UBS FACES $17B EXTRA CAPITAL AFTER PARLIAMENT VOTE, GOLDMAN SAYS - BBG
 - 09/23 20:24 [FirstSquawk] NASDAQ 100 FUTURES HIT SESSION LOW, DOWN 0.2%
@@ -293,3 +284,15 @@
 - 09/24 01:55 [FirstSquawk] MARATHON PETROLEUM ALSO DROPS TO SESSION LOW, DOWN 2.5%
 - 09/24 01:56 [FirstSquawk] EUROPEAN DIESEL FUTURES SURGE OVER 7% TO SESSION HIGH
 - 09/24 01:56 [FirstSquawk] IRAN SAYS ITS 'NEW' DIPLOMACY WON'T RETURN TO THE PAST
+- 09/24 01:59 [financialjuice] US Treasury Secretary Bessent: Held substantive talks with China's He
+- 09/24 01:59 [DeItaone] TRUMP ADMINISTRATION IS PREPARING A PLAN TO BAN EXPORTS OF DIESEL FOR 90 DAYS - POLITICO
+- 09/24 02:00 [financialjuice] Treasury WI 5-year yield 5.002% before $70 billion auction.
+- 09/24 02:01 [DeItaone] WHITE HOUSE PREPARES 90-DAY DIESEL EXPORT BAN The Trump administration is preparing a 90-day ban on U.S. diesel exports, according to Politico, as record fuel prices intensify pressure ahead of the midterms. Diesel averages $6.52 per gallon…
+- 09/24 02:02 [financialjuice] US 5-YEAR NOTE HIGH YIELD ACTUAL 5.033% (FORECAST -, PREVIOUS 4.393%) $MACRO
+- 09/24 02:02 [DeItaone] *US DIESEL FUTURES SINK MORE THAN 7% TO INTRADAY LOW *EUROPEAN DIESEL FUTURES SURGE OVER 7% TO SESSION HIGH
+- 09/24 02:02 [financialjuice] US 5-YEAR NOTE BID-TO-COVER ACTUAL 2.210 (FORECAST -, PREVIOUS 2.370) $MACRO
+- 09/24 02:03 [financialjuice] US 5-Year Note Auction
+- 09/24 02:03 [financialjuice] ❗ US 5-Year Note Auction: High Yield 5.033% (Tailed by 3.1 basis points)
+- 09/24 02:05 [DeItaone] DIESEL CRACKS PLUNGE ON U.S. EXPORT BAN REPORT U.S. diesel cracks fell $12.70 to $97.85/bbl after Politico reported the White House is preparing a 90-day diesel export ban. Meanwhile, gasoline cracks jumped $2 to $47.41/bbl, reflecting conc…
+- 09/24 02:05 [DeItaone] *FIVE-YEAR TREASURY YIELD RISES TO 5% FOR FIRST TIME SINCE 2007
+- 09/24 02:06 [financialjuice] US 5-Year Note Auction High Yield 5.033% (Tailed by 3.1 basis points) Bid-to-cover 2.21 Sells $70 bln Awards 30.34% of bids at high Primary Dealers take 15.77% Direct 29.92% Indirect 54.31%
