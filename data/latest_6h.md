@@ -7,43 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 14:58 JST／対象: 09/23 08:58 〜 09/23 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-23 15:23 JST／対象: 09/23 09:23 〜 09/23 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 103 | 09/23 08:59 | 09/23 14:57 | 15分（14:20→14:36） |
-| financialjuice | 29 | 09/23 09:05 | 09/23 14:52 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 90 | 09/23 09:26 | 09/23 15:23 | 15分（14:20→14:36） |
+| financialjuice | 27 | 09/23 10:01 | 09/23 15:22 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 132 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 117 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 08:59 [FirstSquawk] U.S. SPECIAL ENVOY STEVE WITKOFF SAYS THAT TODAY, ON THE SIDELINES OF THE UNITED NATIONS GENERAL ASSEMBLY, 'WE ENGAGED IN LENGTHY TALKS WITH THE IRANIAN DELEGATION THROUGH THE MEDIATORS, WHO SHUTTLED BETWEEN THE TWO SIDES THROUGHOUT THE DAY…
-- 09/23 08:59 [FirstSquawk] U.S. SPECIAL ENVOY STEVE WITKOFF SAYS THEY 'SUCCESSFULLY COMPLETED A ROUND OF DISCUSSIONS THAT WE HOPE WILL PROVE CONSTRUCTIVE AND PROMISING', ADDING THAT 'THE MEDIATORS WILL CONTINUE THEIR WORK'.
-- 09/23 09:00 [FirstSquawk] JAPAN'S PRIME MINISTER SANAE TAKAICHI SAYS 'THE CATASTROPHIC CONSEQUENCES OF NUCLEAR WEAPONS MUST NEVER BE REPEATED', ADDING THAT IT IS JAPAN'S MISSION, 'AS THE ONLY COUNTRY TO EVER SUFFER ATOMIC BOMBINGS DURING WAR, TO LEAD THE EFFORTS OF …
-- 09/23 09:01 [FirstSquawk] SK HYNIX SHARES GAIN 3%
-- 09/23 09:01 [FirstSquawk] JPMORGAN EXPLORED PARTNERSHIPS TO APPROVE & ASSUME RISK ON SOME DENIED CO-BRANDED CREDIT-CARD APPLICATIONS — WSJ
-- 09/23 09:04 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS 'BRITAIN IS BACK. WE ARE RESTORING OUR STABILITY', AND THAT BRITAIN IS 'AMERICA'S CLOSEST ALLY'.
-- 09/23 09:04 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS THE KREMLIN SPENDS AROUND £1.3 BLN EACH YEAR ON 'MANIPULATING INFORMATION', DESCRIBING 'AN INSIDIOUS CAMPAIGN THAT REACHES INTO PEOPLE'S HOMES AND TWISTS WHAT THEY FEEL ABOUT THEIR OWN COUNTRY', CREATING …
-- 09/23 09:05 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS 'TODAY, I'M ASKING OUR SECURITY CHIEFS IN THE UK TO BEGIN WORK ON A NEW NATIONAL CENTER FOR INFORMATION DEFENSE TO DETECT, ATTRIBUTE AND DISRUPT THESE KINDS OF HOSTILE STATE INFORMATION ATTACKS'.
-- 09/23 09:05 [financialjuice] State Dept: Rubio to meet Russian Foreign Minister Sergey Lavrov in New York City on Wednesday
-- 09/23 09:05 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS 'WE HAVE EVIDENCE THAT RUSSIAN AGENCIES TRIED TO INTERFERE WITH THE 2019 GENERAL ELECTION', ADDING THAT BRITAIN 'WILL ALWAYS STAND FOR THE UNDERDOG AGAINST THE BULLY' AND IS 'SO UNITED BEHIND UKRAINE'.
-- 09/23 09:05 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS BRITAIN 'WILL STAND FIRM IN THE FACE OF ANY THREATS AND CHALLENGES TO THE RULE OF LAW, NOT JUST FROM RUSSIA, BUT FROM OTHERS, TOO', INCLUDING WHERE THEY THREATEN THE RIGHTS OF BRITISH TERRITORIES TO REMAI…
-- 09/23 09:07 [FirstSquawk] US SECRETARY OF STATE RUBIO TO MEET RUSSIAN FM LAVROV IN NEW YORK AT 9 AM ET WEDNESDAY — SOURCES
-- 09/23 09:08 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.3% TO 8,781.60 POINTS IN EARLY TRADE
-- 09/23 09:09 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS ON ISRAEL THAT 'WE STAND WITH ISRAEL IN THE FACE OF THE ONGOING THREATS, INCLUDING FROM IRAN, AGAINST ISRAEL AND JEWISH PEOPLE AROUND THE WORLD', BUT THAT 'THIS DOES NOT JUSTIFY THE ISRAELI GOVERNMENT'S A…
-- 09/23 09:09 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS 'WE WANT TO SEE THE SUFFERING AND DEATH FINALLY COME TO AN END' AND 'ISRAELI AND PALESTINIAN PEOPLE LIVING SIDE BY SIDE IN PEACE AND SECURITY', ADDING THAT 'WE WILL DO ALL WE CAN TO KEEP THE HOPE OF THAT …
-- 09/23 09:14 [financialjuice] China PBOC forecast to fix yuan midpoint at 6.6971 per dollar: estimate
-- 09/23 09:15 [financialjuice] Wife of US seismologist detained in China says she has been assured Trump will ask Xi to free him
-- 09/23 09:15 [FirstSquawk] U.S. seismologist’s wife says Trump will ask Xi to secure his release from China
-- 09/23 09:23 [FirstSquawk] POLISH PRESIDENT NAWROCKI SAYS THAT 'WHEN THE WORK IS FINISHED, TRUMP WILL PERSONALLY BE ABLE TO PARTICIPATE IN THE INAUGURATION OF FORT TRUMP, WHICH IS GOING TO TAKE PLACE IN POLAND', ADDING THAT 'TRUMP IS FAMOUS FOR KEEPING HIS WORD'.
-- 09/23 09:23 [FirstSquawk] POLISH PRESIDENT NAWROCKI SAYS ON FORT TRUMP THAT 'POLAND IS PAYING FOR ITS SECURITY' AND FOR 'THE STAY OF AMERICAN TROOPS IN POLAND', CALLING IT 'A VERY GOOD SOLUTION BECAUSE WE KNOW WHAT WE ARE PAYING FOR'.
 - 09/23 09:26 [FirstSquawk] Asian-Pacific U.S. equity futures remained broadly steady late Tuesday, with oil prices and bond yields easing amid hopes of a potential U.S.-Iran de-escalation.
 - 09/23 09:35 [FirstSquawk] Gold gains as markets focus on easing oil prices - WSJ
 - 09/23 09:35 [FirstSquawk] U.S. crackdown threatens Americans’ access to low-cost Canadian prescriptions - WSJ
@@ -156,3 +136,8 @@
 - 09/23 14:46 [FirstSquawk] NHC says Category 5 Polo is stationary off Mexico’s southwestern coast
 - 09/23 14:52 [financialjuice] UK's PM Burnham and Zelenskyy spoke about a proposal for an energy ceasefire
 - 09/23 14:57 [FirstSquawk] Philippine Senate cuts required votes for conviction in VP Duterte impeachment trial
+- 09/23 15:00 [FirstSquawk] EuroStoxx 50 futures up 0.31% as DAX and FTSE futures gain 0.35% and 0.36%
+- 09/23 15:11 [FirstSquawk] Russian forces strike port infrastructure in Ukraine’s Odesa region, governor says
+- 09/23 15:21 [FirstSquawk] Oil price on track for longest losing streak in more than 12 months - FT
+- 09/23 15:22 [financialjuice] Iran's Deputy Oil Minister: Half of the damaged capacity of the South Pars gas field is back in production - Fars News
+- 09/23 15:23 [FirstSquawk] Half of damaged South Pars gas capacity resumes production, Iran says - Fars News

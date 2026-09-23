@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 14:58 JST／対象: 09/22 14:58 〜 09/23 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-23 15:23 JST／対象: 09/22 15:23 〜 09/23 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 354 | 09/22 15:01 | 09/23 14:57 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 309 | 09/22 15:00 | 09/23 14:52 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 352 | 09/22 15:25 | 09/23 15:23 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 309 | 09/22 15:48 | 09/23 15:22 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 672 行（統合前 694 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 670 行（統合前 692 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 15:00 [financialjuice] UK PSNB EX BANKS ACTUAL 18.268B (FORECAST -, PREVIOUS 1.800B) $MACRO
-- 09/22 15:01 [FirstSquawk] UK ( AUG) PUBLIC FINANCES (PSNCR) ACTUAL: 10B VS -29B PREVIOUS
-- 09/22 15:01 [FirstSquawk] UK ( AUG) CENTRAL GOVERNMENT NCR ACTUAL: 10B VS 2.8B PREVIOUS
-- 09/22 15:01 [FirstSquawk] UK ( AUG) PUBLIC SECTOR NET BORROWING ACTUAL: 18.3B VS 1.8B PREVIOUS;EST 15.5B
-- 09/22 15:01 [FirstSquawk] UK ( AUG) PSNB EX BANKING GROUPS ACTUAL: 18.3B VS 1.8B PREVIOUS
-- 09/22 15:02 [FirstSquawk] South Korean appeals court reduces Kim Keon Hee’s prison sentence to five years from seven — Yonhap
-- 09/22 15:22 [FirstSquawk] Deutsche Bank lowers Novo Nordisk target to DKK 245 from DKK 265
 - 09/22 15:25 [FirstSquawk] Australia’s benchmark S&P/ASX 200 rises 0.3% to 8,757.80
 - 09/22 15:48 [financialjuice] Russian defence ministry: Russian forces hit oil refinery in Ukraine's Kremenchuk - TASS
 - 09/22 15:49 [FirstSquawk] FRANCE (JUL) RETAIL SALES EX-AUTO MOM ACTUAL: 0.8% VS 0.4% PREVIOUS
@@ -696,3 +689,8 @@
 - 09/23 14:46 [FirstSquawk] NHC says Category 5 Polo is stationary off Mexico’s southwestern coast
 - 09/23 14:52 [financialjuice] UK's PM Burnham and Zelenskyy spoke about a proposal for an energy ceasefire
 - 09/23 14:57 [FirstSquawk] Philippine Senate cuts required votes for conviction in VP Duterte impeachment trial
+- 09/23 15:00 [FirstSquawk] EuroStoxx 50 futures up 0.31% as DAX and FTSE futures gain 0.35% and 0.36%
+- 09/23 15:11 [FirstSquawk] Russian forces strike port infrastructure in Ukraine’s Odesa region, governor says
+- 09/23 15:21 [FirstSquawk] Oil price on track for longest losing streak in more than 12 months - FT
+- 09/23 15:22 [financialjuice] Iran's Deputy Oil Minister: Half of the damaged capacity of the South Pars gas field is back in production - Fars News
+- 09/23 15:23 [FirstSquawk] Half of damaged South Pars gas capacity resumes production, Iran says - Fars News
