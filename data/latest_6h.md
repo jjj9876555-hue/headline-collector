@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 23:59 JST／対象: 09/23 17:59 〜 09/23 23:59 JST（時刻はすべて日本時間）
+生成: 2026-09-24 00:18 JST／対象: 09/23 18:18 〜 09/24 00:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 58 | 09/23 18:24 | 09/23 23:57 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 92 | 09/23 18:06 | 09/23 23:57 | 18分（18:39→18:58） |
-| financialjuice | 94 | 09/23 18:00 | 09/23 23:57 | ⚠ 71分（18:33→19:45） |
+| DeItaone | 61 | 09/23 18:24 | 09/24 00:11 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 89 | 09/23 18:22 | 09/24 00:18 | 18分（18:39→18:58） |
+| financialjuice | 99 | 09/23 18:23 | 09/24 00:17 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 229 行（統合前 246 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 234 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 18:00 [financialjuice] China's Xi departs Beijing for US visit - Chinese state media
-- 09/23 18:06 [FirstSquawk] ECB'S MAKHLOUF: NOT SEEING SECOND-ROUND EFFECTS YET - RTE RADIO || IF ENERGY COSTS FEED THROUGH, ECB WILL HAVE TO ACT || UNCOMFORTABLE WITH ECB OUTLOOK FOR INFLATION OVER 3%
-- 09/23 18:13 [FirstSquawk] KREMLIN STATES UK'S BURNHAM UN REMARKS FUELLED ANTI-RUSSIAN FEELINGS AND DID NOT HELP EASE TENSIONS IN EUROPE.
-- 09/23 18:13 [FirstSquawk] KREMLIN STATES THAT CONDITIONS FOR UKRAINE PEACE NEGOTIATIONS ARE STILL NOT READY.
-- 09/23 18:13 [FirstSquawk] KREMLIN ANNOUNCES NO SPECIFIC PLANS FOR HIGH-LEVEL UKRAINE MEETINGS.
-- 09/23 18:13 [FirstSquawk] KREMLIN STATES UKRAINIAN PRESIDENT MUST VISIT MOSCOW FOR FUTURE DISCUSSIONS AFTER DECISIONS MADE.
-- 09/23 18:13 [FirstSquawk] L&G PLANS TO REDUCE AROUND 10% OF ITS STAFF TO INCREASE EFFICIENCY.
 - 09/23 18:22 [FirstSquawk/financialjuice] TRUMP BOARD OF PEACE TO UNVEIL $2.45B GAZA RECOVERY PLAN - AXIOS
 - 09/23 18:23 [financialjuice] Gaza plan to be presented to members on Wednesday - Axios
 - 09/23 18:24 [DeItaone] TRUMP'S BOARD OF PEACE TO UNVEIL $2.45 BILLION GAZA RECOVERY PLAN- AXIOS
@@ -253,3 +246,15 @@
 - 09/23 23:57 [FirstSquawk] RUBIO: IRAN MEETING WAS POSITIVE BUT NOT A BREAKTHROUGH
 - 09/23 23:57 [DeItaone] SENIOR IRANIAN OFFICIAL TO REUTERS: STILL MANY DIFFERENCES REMAIN BETWEEN IRAN, U.S. POSITIONS, BUT DIPLOMACY CONTINUES
 - 09/23 23:57 [financialjuice] ❗ US Secretary of State Rubio: The Iran meeting was positive, but it was not a breakthrough.
+- 09/24 00:00 [DeItaone] RUBIO: WILL BE OPPORTUNITY FOR TRUMP TO INTERACT WITH CHINA AGAIN LATER THIS YEAR AT APEC AND G20
+- 09/24 00:01 [financialjuice] US Secretary of State Rubio: There will be an opportunity for Trump to interact with China again later this year at APEC and the G20.
+- 09/24 00:01 [financialjuice] ❗ US Treasury to buy back up to $6B in longer-dated debt on Thursday; previously said buyback would be at least $4B.
+- 09/24 00:01 [DeItaone] THIRTY-YEAR TREASURY YIELD REACHES 5.367%, ON PACE FOR HIGHEST SETTLEMENT SINCE JUNE 2004
+- 09/24 00:02 [financialjuice] US Treasury will buy up to $6 bln of 20-30 year debt in September 24th liquidity buyback.
+- 09/24 00:03 [financialjuice] US Secretary of State Rubio: Iran talks are being impeded by the IRGC Leaders.
+- 09/24 00:08 [FirstSquawk] US SEC. OF STATE RUBIO: APEC AND G20 WILL BE OPPORTUNITIES FOR TRUMP TO INTERACT WITH CHINA
+- 09/24 00:11 [DeItaone] ARGENTINE PRESIDENT JAVIER MILEI SAYS THE UN HAS BECOME A “USELESS ORGANIZATION”
+- 09/24 00:13 [FirstSquawk] MCDONALD'S NET NEW UNIT GROWTH SEEN AT APPROX. 4.5% IN 2027
+- 09/24 00:17 [financialjuice] IIF: Emerging market debt jumps $6.5 trillion to more than $110 trillion in H1, led by China.
+- 09/24 00:17 [financialjuice] IIF: Global debt tops record $365 trillion in first half of 2026, emerging markets drive bulk of rise.
+- 09/24 00:18 [FirstSquawk] GLOBAL DEBT TOPS RECORD $365 TRILLION IN FIRST HALF OF 2026, EMERGING MARKETS DRIVE BULK OF RISE, SAYS IIF
