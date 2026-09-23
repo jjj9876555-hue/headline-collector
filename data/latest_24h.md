@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 16:33 JST／対象: 09/22 16:33 〜 09/23 16:33 JST（時刻はすべて日本時間）
+生成: 2026-09-23 16:51 JST／対象: 09/22 16:51 〜 09/23 16:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 350 | 09/22 16:35 | 09/23 16:30 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 310 | 09/22 16:39 | 09/23 16:30 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 350 | 09/22 16:53 | 09/23 16:48 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 308 | 09/22 16:52 | 09/23 16:46 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 669 行（統合前 691 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 667 行（統合前 689 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 16:35 [FirstSquawk] USD/JPY INCREASES FOR THIRD STRAIGHT DAY, UP 0.3% TO 157.75.
-- 09/22 16:39 [financialjuice] Russia's Lavrov and Rubio expected to meet September 23rd - Tass
-- 09/22 16:45 [financialjuice] EU's Trade Chief Sefcovic: Deal delivers stronger, more diversified supply chain
-- 09/22 16:50 [financialjuice] Ukraine: Hit Russia's Kuibyshev refinery
 - 09/22 16:52 [financialjuice] EU's Trade Chief Sefcovic: European access to the Chinese market is also being discussed; export controls on rare earths are also being discussed. Need a 'credible outcome' in trade talks with China
 - 09/22 16:53 [FirstSquawk] EU’S SEFCOVIC: 'CREDIBLE OUTCOME' IN TRADE TALKS WITH CHINA || EUROPEAN ACCESS TO CHINA MARKET ALSO BEING DISCUSSED || UNPARALLELED INTENSITY OF CONTACTS WITH CHINA || WILL VISIT CHINA OCT. 8-9 FOR TRADE TALKS || EXPORT CONTROLS ON RARE EAR…
 - 09/22 16:57 [FirstSquawk] UK WILL OFFER MORE DEFENSIVE MILITARY AID TO SAUDI ARABIA.
@@ -693,3 +689,5 @@
 - 09/23 16:30 [financialjuice] ‼ BREAKING: GERMAN MANUFACTURING PMI FLASH ACTUAL 53.8 (FORECAST 54, PREVIOUS 54.3) $MACRO
 - 09/23 16:30 [financialjuice] ❗ GERMAN COMPOSITE PMI FLASH ACTUAL 53.8 (FORECAST 51.8, PREVIOUS 51.8) $MACRO
 - 09/23 16:30 [FirstSquawk] GERMANY'S SEPTEMBER COMPOSITE PMI INCREASES TO 53.8, BEATING THE ESTIMATED 51.8.
+- 09/23 16:46 [financialjuice] NVIDIA-backed Firmus seeks $10 billion financing for AI chips.
+- 09/23 16:48 [FirstSquawk] NVIDIA-SUPPORTED FIRMUS AIMS TO RAISE $10 BILLION FOR AI CHIP DEVELOPMENT.

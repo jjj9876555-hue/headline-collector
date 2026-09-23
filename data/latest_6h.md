@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 16:33 JST／対象: 09/23 10:33 〜 09/23 16:33 JST（時刻はすべて日本時間）
+生成: 2026-09-23 16:51 JST／対象: 09/23 10:51 〜 09/23 16:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 72 | 09/23 10:38 | 09/23 16:30 | 26分（16:04→16:30） |
-| financialjuice | 31 | 09/23 10:59 | 09/23 16:30 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 70 | 09/23 10:53 | 09/23 16:48 | 26分（16:04→16:30） |
+| financialjuice | 32 | 09/23 10:59 | 09/23 16:46 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 103 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 10:38 [FirstSquawk] Japan’s Aeon introduces 1,000-yen jeans as consumer spending comes under pressure - Kyodo
-- 09/23 10:46 [FirstSquawk] Takaichi says Japan remains a “peace-loving nation” committed to defense-oriented policy - Kyodo
-- 09/23 10:48 [FirstSquawk] BlackRock says AI computing capacity may become tokenized in the future
 - 09/23 10:53 [FirstSquawk] Export Finance Australia retains ‘AAA’ rating from Fitch; outlook stable
 - 09/23 10:59 [financialjuice] Three commodity ships pass Strait of Hormuz on Tuesday vs 10-day moving average of about 15, data shows
 - 09/23 10:59 [FirstSquawk] Only three commodity vessels transit Strait of Hormuz on Tuesday, well below 10-day average
@@ -127,3 +124,5 @@
 - 09/23 16:30 [financialjuice] ‼ BREAKING: GERMAN MANUFACTURING PMI FLASH ACTUAL 53.8 (FORECAST 54, PREVIOUS 54.3) $MACRO
 - 09/23 16:30 [financialjuice] ❗ GERMAN COMPOSITE PMI FLASH ACTUAL 53.8 (FORECAST 51.8, PREVIOUS 51.8) $MACRO
 - 09/23 16:30 [FirstSquawk] GERMANY'S SEPTEMBER COMPOSITE PMI INCREASES TO 53.8, BEATING THE ESTIMATED 51.8.
+- 09/23 16:46 [financialjuice] NVIDIA-backed Firmus seeks $10 billion financing for AI chips.
+- 09/23 16:48 [FirstSquawk] NVIDIA-SUPPORTED FIRMUS AIMS TO RAISE $10 BILLION FOR AI CHIP DEVELOPMENT.
