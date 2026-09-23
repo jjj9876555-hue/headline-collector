@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 03:38 JST／対象: 09/23 15:38 〜 09/24 03:38 JST（時刻はすべて日本時間）
+生成: 2026-09-24 03:53 JST／対象: 09/23 15:53 〜 09/24 03:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 80 | 09/23 18:24 | 09/24 03:30 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 143 | 09/23 15:51 | 09/24 03:37 | 34分（01:56→02:31） |
-| financialjuice | 170 | 09/23 16:01 | 09/24 03:31 | ⚠ 71分（18:33→19:45） |
+| FirstSquawk | 146 | 09/23 16:03 | 09/24 03:49 | 34分（01:56→02:31） |
+| financialjuice | 175 | 09/23 16:01 | 09/24 03:51 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 376 行（統合前 396 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 384 行（統合前 404 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 15:51 [FirstSquawk] GBP/USD tests support near 1.3300, UOB says
 - 09/23 16:01 [financialjuice] Currency Strength Chart: Strongest: USD, CAD, CHF, JPY, GBP, EUR, AUD, NZD - Weakest
 - 09/23 16:03 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.34% || FRANCE'S CAC 40 UP 0.39% || SPAIN'S IBEX UP 0.59%
 - 09/23 16:04 [FirstSquawk] GERMANY'S DAX UP 0.6%
@@ -400,3 +399,12 @@
 - 09/24 03:34 [FirstSquawk] SPAIN PM SANCHEZ BACKS DE COS FOR NEXT ECB PRESIDENT; SAYS EU MUST REDUCE DEPENDENCY ON CHINA
 - 09/24 03:34 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.81% HIGHER AT $92.16/BBL, UP $1.64
 - 09/24 03:37 [FirstSquawk] US SEN. COLLINS: WHITE HOUSE AGREES TO HOLD OFF ON NIH GRANT ORDER
+- 09/24 03:40 [financialjuice] Brent Crude futures settle at $103.08/bbl, up $3.83, 3.86%
+- 09/24 03:41 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 3.86% HIGHER AT $103.08/BBL, UP $3.83
+- 09/24 03:43 [FirstSquawk] U.S. AND CHINESE TRADE NEGOTIATORS DISCUSSED THE IDEA 'OF A BIGGER DEAL' PROPOSED BY CHINA BETWEEN THE TWO GLOBAL SUPERPOWERS, TREASURY SECRETARY SCOTT BESSENT SAID FOLLOWING HIS WEDNESDAY MEETING WITH HIS CHINESE COUNTERPART, VICE PREMIER …
+- 09/24 03:43 [FirstSquawk] THE TEMPORARY TRADE TRUCE BETWEEN THE TWO COUNTRIES IS SET TO EXPIRE NOV. 10, WITH THE DEAL EXPECTED TO BE A TALKING POINT BETWEEN PRESIDENT DONALD TRUMP AND CHINESE PRESIDENT XI JINPING DURING THE STATE VISIT IN WASHINGTON, D.C. - CBS NEWS
+- 09/24 03:48 [financialjuice] Iraqi Prime Minister, Turkish President agree to have Turkish forces hand over camps in northern Iraq to Iraqi federal government gradually - Iraqi PM office statement.
+- 09/24 03:49 [financialjuice] US State Department: Rubio met with Indian counterpart, discussed sanctions that could be leveled against states that engage economically with Russia and Iran
+- 09/24 03:49 [financialjuice] US Treasury Secretary Bessent touts labor market on - Post on X
+- 09/24 03:49 [FirstSquawk] IRAQI PM & TURKISH PRESIDENT AGREE TO GRADUALLY HAND OVER TURKISH MILITARY CAMPS IN NORTHERN IRAQ TO IRAQI FEDERAL GOVERNMENT — IRAQI PM OFFICE
+- 09/24 03:51 [financialjuice] Senator Grassley: I hope the US won't listen to big oil on diesel export ban.

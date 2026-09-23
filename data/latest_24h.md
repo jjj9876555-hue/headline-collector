@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 03:38 JST／対象: 09/23 03:38 〜 09/24 03:38 JST（時刻はすべて日本時間）
+生成: 2026-09-24 03:53 JST／対象: 09/23 03:53 〜 09/24 03:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 04:42 | 09/24 03:30 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 338 | 09/23 03:43 | 09/24 03:37 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 272 | 09/23 03:44 | 09/24 03:31 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 340 | 09/23 03:58 | 09/24 03:49 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 273 | 09/23 03:53 | 09/24 03:51 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 670 行（統合前 696 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 673 行（統合前 699 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 03:43 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 1.09% LOWER AT $99.25/BBL, DOWN $1.09
-- 09/23 03:44 [financialjuice] Brent Crude futures settle at $99.25/bbl, down $1.09, 1.09%
-- 09/23 03:45 [FirstSquawk] INDIA’S PM MODI EXPECTED TO VISIT CANADA IN DECEMBER TO SIGN TRADE DEAL — GLOBE & MAIL
-- 09/23 03:45 [financialjuice] META's Zuckerberg plans to attend Trump-Xi state dinner. $META
-- 09/23 03:50 [financialjuice] Iranian Official responds to Trump's claims: We are ready for escalation in case of enemy aggression - Fars News
-- 09/23 03:51 [financialjuice] Iran: US has not set any red lines in the region, and Iran is prepared for all possible scenarios - Fars News
 - 09/23 03:53 [financialjuice] US sources: Meeting between US representatives and Araqi's Iranian team was planned in advance; Qatar's PM participated in most of it - Israel Hayom
 - 09/23 03:54 [financialjuice] US sources: Pre-planned US meeting with Araghchi's Iranian team, Qatar's PM present, discussed resuming talks and opening Hormuz Strait; no deal on contentious issues - Israel Hayom
 - 09/23 03:56 [financialjuice] Ukraine's President Zelenskiy: Trump and I discussed an energy ceasefire and how to end the war; Ukraine ready for any format of energy ceasefire
@@ -694,3 +688,12 @@
 - 09/24 03:34 [FirstSquawk] SPAIN PM SANCHEZ BACKS DE COS FOR NEXT ECB PRESIDENT; SAYS EU MUST REDUCE DEPENDENCY ON CHINA
 - 09/24 03:34 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.81% HIGHER AT $92.16/BBL, UP $1.64
 - 09/24 03:37 [FirstSquawk] US SEN. COLLINS: WHITE HOUSE AGREES TO HOLD OFF ON NIH GRANT ORDER
+- 09/24 03:40 [financialjuice] Brent Crude futures settle at $103.08/bbl, up $3.83, 3.86%
+- 09/24 03:41 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 3.86% HIGHER AT $103.08/BBL, UP $3.83
+- 09/24 03:43 [FirstSquawk] U.S. AND CHINESE TRADE NEGOTIATORS DISCUSSED THE IDEA 'OF A BIGGER DEAL' PROPOSED BY CHINA BETWEEN THE TWO GLOBAL SUPERPOWERS, TREASURY SECRETARY SCOTT BESSENT SAID FOLLOWING HIS WEDNESDAY MEETING WITH HIS CHINESE COUNTERPART, VICE PREMIER …
+- 09/24 03:43 [FirstSquawk] THE TEMPORARY TRADE TRUCE BETWEEN THE TWO COUNTRIES IS SET TO EXPIRE NOV. 10, WITH THE DEAL EXPECTED TO BE A TALKING POINT BETWEEN PRESIDENT DONALD TRUMP AND CHINESE PRESIDENT XI JINPING DURING THE STATE VISIT IN WASHINGTON, D.C. - CBS NEWS
+- 09/24 03:48 [financialjuice] Iraqi Prime Minister, Turkish President agree to have Turkish forces hand over camps in northern Iraq to Iraqi federal government gradually - Iraqi PM office statement.
+- 09/24 03:49 [financialjuice] US State Department: Rubio met with Indian counterpart, discussed sanctions that could be leveled against states that engage economically with Russia and Iran
+- 09/24 03:49 [financialjuice] US Treasury Secretary Bessent touts labor market on - Post on X
+- 09/24 03:49 [FirstSquawk] IRAQI PM & TURKISH PRESIDENT AGREE TO GRADUALLY HAND OVER TURKISH MILITARY CAMPS IN NORTHERN IRAQ TO IRAQI FEDERAL GOVERNMENT — IRAQI PM OFFICE
+- 09/24 03:51 [financialjuice] Senator Grassley: I hope the US won't listen to big oil on diesel export ban.
