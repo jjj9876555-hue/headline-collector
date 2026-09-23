@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 19:25 JST／対象: 09/22 19:25 〜 09/23 19:25 JST（時刻はすべて日本時間）
+生成: 2026-09-23 19:44 JST／対象: 09/22 19:44 〜 09/23 19:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 31 | 09/22 19:26 | 09/23 19:19 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 342 | 09/22 19:46 | 09/23 19:19 | ⚠ 77分（05:40→06:58） |
+| DeItaone | 28 | 09/22 19:54 | 09/23 19:43 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 345 | 09/22 19:46 | 09/23 19:44 | ⚠ 77分（05:40→06:58） |
 | financialjuice | 305 | 09/22 20:54 | 09/23 18:33 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 19:26 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 8:15 AM ET — 🇺🇸 ADP Weekly Employment Estimate 🔸 10:00 AM ET — 🇺🇸 Richmond Fed Manufacturing & Services 🔸 10:00 AM ET — 🚗 AutoZone Earnings Call 🔸 10:05 AM ET — 🏦 Fed’s John Williams 🔸 10:20 AM ET — 🏦…
-- 09/22 19:28 [DeItaone] XI TO PRESS TRUMP ON TAIWAN ARMS SALES Xi Jinping is expected to urge President Trump to halt U.S. arms sales to Taiwan when the leaders meet in Washington this week, Reuters reports. Beijing is also seeking a stop to deliveries of weapons …
-- 09/22 19:31 [DeItaone] RADIATION MONITORING STATION AT ZAPORIZHZHIA NUCLEAR POWER PLANT DAMAGED IN UKRAINIAN DRONE ATTACK - RUSSIAN-INSTALLED OFFICIALS
-- 09/22 19:37 [DeItaone] U.S. DIESEL PRICES HIT FRESH RECORD AT $6.527 A GALLON
 - 09/22 19:46 [FirstSquawk] LITHUANIAN PRESIDENT: US TO SEND NEW ROTATION OF TROOPS
 - 09/22 19:54 [DeItaone] U.S. DIESEL HITS FRESH RECORD AT $6.53 U.S. diesel prices climbed to a record $6.527 per gallon, up sharply from $3.688 a year ago. Supply is tightening as Russian diesel exports remain restricted and disruptions continue to crude flows thr…
 - 09/22 19:57 [DeItaone] YARDENI: DON’T EXPECT A GRAND BARGAIN FROM TRUMP-XI Yardeni Research expects no major breakthrough when Trump and Xi meet Thursday, but sees scope for an extension of the trade truce and selective commercial deals. Potential progress includ…
@@ -685,3 +681,7 @@
 - 09/23 19:11 [DeItaone] ALTMAN TO PUSH GLOBAL AI SAFETY STANDARDS AT UN OpenAI CEO Sam Altman will use a UN Security Council speech to advocate for common global AI safety standards while avoiding restrictions that could slow innovation. OpenAI says it is not back…
 - 09/23 19:19 [FirstSquawk] CREDIT AGRICOLE CFO TO CLASS CNBC: EVALUATING SCENARIOS ON BPM
 - 09/23 19:19 [DeItaone] CITI SEES LIMITED S&P 500 IMPACT FROM MIDTERMS Citi expects the midterm elections to have little impact on overall S&P 500 fundamentals, with effects more likely at the sector level. The bank says different congressional outcomes could affe…
+- 09/23 19:28 [FirstSquawk] KREMLIN STATED THAT A MEETING BETWEEN PUTIN AND ZELENSKY CAN ONLY OCCUR IN MOSCOW, DESCRIBING SUMMIT TALKS WITHOUT PROPER PREPARATION AS UNPRODUCTIVE.
+- 09/23 19:41 [FirstSquawk] IPHONE 18 PRO IMPROVES LAST YEAR'S VERSION WITH FASTER PERFORMANCE, LONGER BATTERY LIFE, AND SIGNIFICANT ENHANCEMENTS TO APPLE'S TOP CAMERA SYSTEM.
+- 09/23 19:43 [DeItaone] MORGAN STANLEY MAPS WINNERS FROM HORMUZ REOPENING Morgan Stanley says European equities are the most sensitive to a potential reopening of the Strait of Hormuz as U.S.-Iran diplomacy progresses. Airlines, aerospace, construction, luxury and…
+- 09/23 19:44 [FirstSquawk] HOUTHI OFFICIALS SAY THEY WILL ATTACK ALL U.S. INTERESTS IN THE REGION IF THE U.S. BACKS SAUDI ARABIA.

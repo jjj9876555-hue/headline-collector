@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 19:25 JST／対象: 09/23 13:25 〜 09/23 19:25 JST（時刻はすべて日本時間）
+生成: 2026-09-23 19:44 JST／対象: 09/23 13:44 〜 09/23 19:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 10 | 09/23 18:24 | 09/23 19:19 | 20分（18:50→19:11） |
-| FirstSquawk | 51 | 09/23 13:27 | 09/23 19:19 | 30分（17:00→17:31） |
-| financialjuice | 37 | 09/23 13:30 | 09/23 18:33 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 11 | 09/23 18:24 | 09/23 19:43 | 23分（19:19→19:43） |
+| FirstSquawk | 48 | 09/23 13:45 | 09/23 19:44 | 30分（17:00→17:31） |
+| financialjuice | 29 | 09/23 14:52 | 09/23 18:33 | 39分（15:22→16:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 95 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 85 行（統合前 88 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 13:27 [FirstSquawk] Rising diesel prices cost European drivers €203 million per day - FT
-- 09/23 13:30 [financialjuice] DUTCH GDP YOY FINAL NSA ACTUAL 1.6% (FORECAST -, PREVIOUS 1.3%) $MACRO
-- 09/23 13:30 [financialjuice] DUTCH GDP QOQ FINAL SA ACTUAL 0.6% (FORECAST 0.4%, PREVIOUS 0.4%) $MACRO
-- 09/23 13:30 [financialjuice] Dutch final Q2 GDP rises 0.6% quarter-on-quarter, CBS
-- 09/23 13:30 [financialjuice] South Korea picks Texas gas plant as initial project under US investment agreement - FT
-- 09/23 13:30 [FirstSquawk] South Korea chooses Texas gas plant for first project under US investment agreement - FT
-- 09/23 13:31 [financialjuice] Seoul to finance $22 billion gas-fired power plant in Texas, aiming to fulfill $350 billion pledge: ft
-- 09/23 13:31 [financialjuice] Dutch final Q2 GDP rises 0.6% quarter on quarter, seasonally adjusted: CBS
-- 09/23 13:36 [financialjuice] China central bank offers 6-month yuan bills in Hong Kong at 1.37%, HKMA says
-- 09/23 13:36 [FirstSquawk] PBOC sells six-month yuan bills in Hong Kong at 1.37% - HKMA
-- 09/23 13:38 [FirstSquawk] Vietnam’s Vingroup agrees $1 billion deal with Siemens for bullet train project - NA
-- 09/23 13:39 [financialjuice] Dutch final Q2 GDP rises 1.6% y/y nsa vs preliminary 1.3%: CBS
-- 09/23 13:41 [FirstSquawk] Strait of Hormuz shipping traffic plunges to three ships on Tuesday - Kepler Data
-- 09/23 13:42 [FirstSquawk] Berenberg lifts Kingfisher target price to 320p from 295p
 - 09/23 13:45 [FirstSquawk] Berenberg lifts Smiths Group target price to 3,200p from 3,000p
 - 09/23 13:49 [FirstSquawk] RBC lifts Standard Life target price to 970p from 885p
 - 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI SERVICES ACTUAL: 55.8 VS 54.1 PREVIOUS
@@ -119,3 +105,7 @@
 - 09/23 19:11 [DeItaone] ALTMAN TO PUSH GLOBAL AI SAFETY STANDARDS AT UN OpenAI CEO Sam Altman will use a UN Security Council speech to advocate for common global AI safety standards while avoiding restrictions that could slow innovation. OpenAI says it is not back…
 - 09/23 19:19 [FirstSquawk] CREDIT AGRICOLE CFO TO CLASS CNBC: EVALUATING SCENARIOS ON BPM
 - 09/23 19:19 [DeItaone] CITI SEES LIMITED S&P 500 IMPACT FROM MIDTERMS Citi expects the midterm elections to have little impact on overall S&P 500 fundamentals, with effects more likely at the sector level. The bank says different congressional outcomes could affe…
+- 09/23 19:28 [FirstSquawk] KREMLIN STATED THAT A MEETING BETWEEN PUTIN AND ZELENSKY CAN ONLY OCCUR IN MOSCOW, DESCRIBING SUMMIT TALKS WITHOUT PROPER PREPARATION AS UNPRODUCTIVE.
+- 09/23 19:41 [FirstSquawk] IPHONE 18 PRO IMPROVES LAST YEAR'S VERSION WITH FASTER PERFORMANCE, LONGER BATTERY LIFE, AND SIGNIFICANT ENHANCEMENTS TO APPLE'S TOP CAMERA SYSTEM.
+- 09/23 19:43 [DeItaone] MORGAN STANLEY MAPS WINNERS FROM HORMUZ REOPENING Morgan Stanley says European equities are the most sensitive to a potential reopening of the Strait of Hormuz as U.S.-Iran diplomacy progresses. Airlines, aerospace, construction, luxury and…
+- 09/23 19:44 [FirstSquawk] HOUTHI OFFICIALS SAY THEY WILL ATTACK ALL U.S. INTERESTS IN THE REGION IF THE U.S. BACKS SAUDI ARABIA.
