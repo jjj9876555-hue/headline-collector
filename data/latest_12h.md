@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 01:05 JST／対象: 09/23 13:05 〜 09/24 01:05 JST（時刻はすべて日本時間）
+生成: 2026-09-24 01:27 JST／対象: 09/23 13:27 〜 09/24 01:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 09/23 18:24 | 09/24 01:00 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 151 | 09/23 13:11 | 09/24 00:54 | 30分（17:00→17:31） |
-| financialjuice | 149 | 09/23 13:10 | 09/24 01:04 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 67 | 09/23 18:24 | 09/24 01:07 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 148 | 09/23 13:27 | 09/24 01:23 | 30分（17:00→17:31） |
+| financialjuice | 150 | 09/23 13:30 | 09/24 01:12 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 349 行（統合前 367 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,13 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 13:10 [financialjuice] Japan PM Takaichi: agreed with President Trump at meeting to enhance economic security partnership
-- 09/23 13:11 [FirstSquawk] Japan’s Takaichi says Trump meeting produced agreement to strengthen economic security ties
-- 09/23 13:17 [FirstSquawk] Takaichi says she and Trump discussed China ahead of US-China summit
-- 09/23 13:18 [FirstSquawk] Japan’s Takaichi stresses importance of US-China relations for international stability
-- 09/23 13:18 [financialjuice] Japan PM Takaichi: had frank discussion with Trump on international criminal court
-- 09/23 13:18 [FirstSquawk] Takaichi says she had candid talks with Trump about the International Criminal Court
-- 09/23 13:22 [FirstSquawk] Global banks caution UK windfall tax may push activity out of London - FT
 - 09/23 13:27 [FirstSquawk] Rising diesel prices cost European drivers €203 million per day - FT
 - 09/23 13:30 [financialjuice] DUTCH GDP YOY FINAL NSA ACTUAL 1.6% (FORECAST -, PREVIOUS 1.3%) $MACRO
 - 09/23 13:30 [financialjuice] DUTCH GDP QOQ FINAL SA ACTUAL 0.6% (FORECAST 0.4%, PREVIOUS 0.4%) $MACRO
@@ -373,3 +366,10 @@
 - 09/24 01:02 [financialjuice] Israel's N12 News: The "Together" party leader Bennett calls on Israeli PM Netanyahu to declare Qatar an enemy state during UN General Assembly speech, coalition and opposition would support move.
 - 09/24 01:04 [financialjuice] Senators aim to fast-track Chinese vehicle ban legislation this week as China's Xi visits Washington - Document.
 - 09/24 01:04 [financialjuice] Israel's Channel 12 News: The "Together" party leader Bennett calls on Israeli PM Netanyahu to declare Qatar an enemy state during UN General Assembly speech, coalition and opposition would support move.
+- 09/24 01:05 [DeItaone] ANTHROPIC LEADERS BACK PILGRIM STARTUP DEVELOPING SYSTEM TO DETECT BIOLOGICAL THREATS - WSJ
+- 09/24 01:07 [DeItaone] ANTHROPIC LEADERS BACK AI-ERA BIODEFENSE STARTUP Two Anthropic leaders invested in Pilgrim, a startup developing technology to detect airborne biological threats such as Ebola and anthrax. Pilgrim raised $25 million at a $150 million valuat…
+- 09/24 01:11 [financialjuice] Russian Foreign Minister Lavrov and US Secretary of State Rubio discussed the situation in the Middle East, the Transcaucasus, Latin America, and the Caribbean.
+- 09/24 01:11 [financialjuice] Russian Foreign Minister Lavrov emphasised the need to restore bilateral relations as soon as possible.
+- 09/24 01:12 [financialjuice] Russian Foreign Minister Lavrov: An agreement has been reached to continue discussions.
+- 09/24 01:15 [FirstSquawk] RUSSIA'S LAVROV, US SEC. OF STATE RUBIO DISCUSSED THE SITUATION IN MIDDLE EAST, THE TRANSCAUCASUS, LATAM AND CARIBBEAN – FOREIGN MINISTRY
+- 09/24 01:23 [FirstSquawk] EU BREXIT CHIEF: UK CAN GET A CANADA-STYLE MEMBERSHIP DEAL

@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 01:05 JST／対象: 09/23 01:05 〜 09/24 01:05 JST（時刻はすべて日本時間）
+生成: 2026-09-24 01:27 JST／対象: 09/23 01:27 〜 09/24 01:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 67 | 09/23 04:42 | 09/24 01:00 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 356 | 09/23 01:17 | 09/24 00:54 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 302 | 09/23 01:07 | 09/24 01:04 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 69 | 09/23 04:42 | 09/24 01:07 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 353 | 09/23 01:31 | 09/24 01:23 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 303 | 09/23 01:31 | 09/24 01:12 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 701 行（統合前 731 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,13 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 01:07 [financialjuice] Pakistan Army conducts two-week exercise with Russian and Omani forces - Tasnim News cited Pakistan TV.
-- 09/23 01:17 [FirstSquawk] FITCH RATINGS RAISES NEAR-TERM OIL AND EUROPEAN GAS PRICE ASSUMPTIONS
-- 09/23 01:18 [FirstSquawk] US F-16 FIGHTER JET CRASHED NEAR U.S BASE IN GERMANY
-- 09/23 01:19 [FirstSquawk] BNP PARIBAS SEES HIGHER EFFICIENCY TO SUPPORT EARNINGS GROWTH
-- 09/23 01:21 [FirstSquawk] APPLE IS WORKING ON A NEW FITNESS TRACKER TO COMPETE WITH WHOOP.
-- 09/23 01:21 [financialjuice] Apple Developing Screenless Fitness Tracker to Compete With Whoop, Oura and Garmin $AAPL
-- 09/23 01:25 [FirstSquawk] IRAN PARLIAMENT COMMITTEE PROPOSES 20% FINE FOR HORMUZ TRANSIT BREACHES - FARS
 - 09/23 01:31 [FirstSquawk] ANTHROPIC: CLAUDE OPUS 5.5 PERFORMS AT LEVEL OF CLAUDE FABLE 5.1 ON MOST WORK, COSTS AROUND 40% LESS TO RUN THAN OPUS 5
 - 09/23 01:31 [FirstSquawk] ANTHROPIC: OPUS 5.5 IS PRICED AT $4 PER MILLION INPUT TOKENS AND $20 PER MILLION OUTPUT TOKENS
 - 09/23 01:31 [financialjuice] Anthropic Launches Claude Opus 5.5, Sonnet and Haiku 5.5 to Follow
@@ -725,3 +718,10 @@
 - 09/24 01:02 [financialjuice] Israel's N12 News: The "Together" party leader Bennett calls on Israeli PM Netanyahu to declare Qatar an enemy state during UN General Assembly speech, coalition and opposition would support move.
 - 09/24 01:04 [financialjuice] Senators aim to fast-track Chinese vehicle ban legislation this week as China's Xi visits Washington - Document.
 - 09/24 01:04 [financialjuice] Israel's Channel 12 News: The "Together" party leader Bennett calls on Israeli PM Netanyahu to declare Qatar an enemy state during UN General Assembly speech, coalition and opposition would support move.
+- 09/24 01:05 [DeItaone] ANTHROPIC LEADERS BACK PILGRIM STARTUP DEVELOPING SYSTEM TO DETECT BIOLOGICAL THREATS - WSJ
+- 09/24 01:07 [DeItaone] ANTHROPIC LEADERS BACK AI-ERA BIODEFENSE STARTUP Two Anthropic leaders invested in Pilgrim, a startup developing technology to detect airborne biological threats such as Ebola and anthrax. Pilgrim raised $25 million at a $150 million valuat…
+- 09/24 01:11 [financialjuice] Russian Foreign Minister Lavrov and US Secretary of State Rubio discussed the situation in the Middle East, the Transcaucasus, Latin America, and the Caribbean.
+- 09/24 01:11 [financialjuice] Russian Foreign Minister Lavrov emphasised the need to restore bilateral relations as soon as possible.
+- 09/24 01:12 [financialjuice] Russian Foreign Minister Lavrov: An agreement has been reached to continue discussions.
+- 09/24 01:15 [FirstSquawk] RUSSIA'S LAVROV, US SEC. OF STATE RUBIO DISCUSSED THE SITUATION IN MIDDLE EAST, THE TRANSCAUCASUS, LATAM AND CARIBBEAN – FOREIGN MINISTRY
+- 09/24 01:23 [FirstSquawk] EU BREXIT CHIEF: UK CAN GET A CANADA-STYLE MEMBERSHIP DEAL
