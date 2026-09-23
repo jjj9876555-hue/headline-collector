@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 04:23 JST／対象: 09/23 16:23 〜 09/24 04:23 JST（時刻はすべて日本時間）
+生成: 2026-09-24 04:43 JST／対象: 09/23 16:43 〜 09/24 04:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 80 | 09/23 18:24 | 09/24 03:30 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 163 | 09/23 16:30 | 09/24 04:07 | 34分（01:56→02:31） |
-| financialjuice | 173 | 09/23 16:30 | 09/24 04:22 | ⚠ 71分（18:33→19:45） |
+| FirstSquawk | 163 | 09/23 16:48 | 09/24 04:26 | 34分（01:56→02:31） |
+| financialjuice | 173 | 09/23 16:46 | 09/24 04:30 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 399 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 16:30 [financialjuice] ❗ GERMAN SERVICE PMI FLASH ACTUAL 52.9 (FORECAST 49.9, PREVIOUS 49.7) $MACRO
-- 09/23 16:30 [financialjuice] ‼ BREAKING: GERMAN MANUFACTURING PMI FLASH ACTUAL 53.8 (FORECAST 54, PREVIOUS 54.3) $MACRO
-- 09/23 16:30 [financialjuice] ❗ GERMAN COMPOSITE PMI FLASH ACTUAL 53.8 (FORECAST 51.8, PREVIOUS 51.8) $MACRO
-- 09/23 16:30 [FirstSquawk] GERMANY'S SEPTEMBER COMPOSITE PMI INCREASES TO 53.8, BEATING THE ESTIMATED 51.8.
 - 09/23 16:46 [financialjuice] NVIDIA-backed Firmus seeks $10 billion financing for AI chips.
 - 09/23 16:48 [FirstSquawk] NVIDIA-SUPPORTED FIRMUS AIMS TO RAISE $10 BILLION FOR AI CHIP DEVELOPMENT.
 - 09/23 17:00 [financialjuice] EUROZONE SERVICES PMI FLASH ACTUAL 53 (FORECAST 51.4, PREVIOUS 51.6) $MACRO
@@ -423,3 +419,7 @@
 - 09/24 04:07 [FirstSquawk] RUSSIAN PRESIDENTIAL ENVOY DMITRIEV HEADS TO US FOR NEW TALKS WITH TRUMP ADMINISTRATION OFFICIALS — SOURCES
 - 09/24 04:07 [financialjuice] AI Scientist Bengio calls AI dangers real and imminent
 - 09/24 04:22 [financialjuice] Thursday FX Option Expiries
+- 09/24 04:24 [financialjuice] Anthropic's Amodei: AI could be a risk to humanity as a whole.
+- 09/24 04:25 [financialjuice] Anthropic's Amodei: Anthropic to slow AI as needed for safety reasons
+- 09/24 04:26 [FirstSquawk] US REJECTS IRAN PROPOSAL TO OPEN STRAIT OF HORMUZ - YONHAP
+- 09/24 04:30 [financialjuice] US Energy Secretary Wright reiterates diesel ban is not being discussed - NYT

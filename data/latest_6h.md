@@ -7,43 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 04:23 JST／対象: 09/23 22:23 〜 09/24 04:23 JST（時刻はすべて日本時間）
+生成: 2026-09-24 04:43 JST／対象: 09/23 22:43 〜 09/24 04:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 59 | 09/23 22:24 | 09/24 03:30 | ⚠ 51分（01:07→01:59） |
-| FirstSquawk | 111 | 09/23 22:25 | 09/24 04:07 | 34分（01:56→02:31） |
-| financialjuice | 130 | 09/23 22:31 | 09/24 04:22 | 22分（02:06→02:28） |
+| DeItaone | 50 | 09/23 22:44 | 09/24 03:30 | ⚠ 51分（01:07→01:59） |
+| FirstSquawk | 105 | 09/23 22:43 | 09/24 04:26 | 34分（01:56→02:31） |
+| financialjuice | 128 | 09/23 22:43 | 09/24 04:30 | 22分（02:06→02:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 293 行（統合前 303 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 278 行（統合前 286 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 22:24 [DeItaone] US ENERGY SECRETARY CHRIS WRIGHT SAYS DIESEL EXPORT BAN WOULD NOT WORK
-- 09/23 22:25 [DeItaone] WRIGHT SAYS US DIESEL EXPORT BAN WOULD RAISE GASOLINE AND JET FUEL PRICES
-- 09/23 22:25 [FirstSquawk] US ENERGY SECRETARY CHRIS WRIGHT: DIESEL EXPORT BAN WOULD NOT WORK
-- 09/23 22:25 [FirstSquawk] WRIGHT: US DIESEL EXPORT BAN WOULD RAISE GASOLINE AND JET FUEL PRICES
-- 09/23 22:27 [DeItaone] FED RATE HIKE BOOSTS DOLLAR APPEAL Standard Chartered says the Fed’s rate hike has removed a key obstacle to buying the dollar, easing concerns that Chair Kevin Warsh would avoid tightening despite pressure from President Trump. Warsh’s con…
-- 09/23 22:29 [DeItaone] MORGAN STANLEY ACCIDENTALLY LEAKS 100+ DEAL PIPELINE A Morgan Stanley employee mistakenly emailed an internal document detailing more than 100 investment-banking deals being pitched or monitored across Asia and other regions. The list repor…
-- 09/23 22:30 [DeItaone] GOLDMAN SEES KOSPI BREAKOUT ABOVE 7,000 Goldman Sachs sees South Korea’s KOSPI positioned for a near-term breakout above 7,000–7,200, supported by improving institutional and foreign buying. Strong memory-chip momentum and Samsung’s dividen…
-- 09/23 22:30 [FirstSquawk] Oil Rises Above $100 as Surging Diesel Prices and Persistent Middle East Supply Risks Offset Recovery Hopes Crude oil prices climbed back above $100 a barrel, snapping a five-day losing streak as traders weighed soaring fuel costs against p…
-- 09/23 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -139.5 MLN NASDAQ 100: -25.1 MLN DOW 30: -47.8 MLN MAG 7: -20.3 MLN $MACRO
-- 09/23 22:31 [FirstSquawk] NASDAQ DOWN 36.79 POINTS, OR 0.14 PERCENT, AT 27,207.49 AFTER MARKET OPEN S&P 500 DOWN 7.22 POINTS, OR 0.09 PERCENT, AT 7,757.42 AFTER MARKET OPEN DOW JONES DOWN 146.10 POINTS, OR 0.28 PERCENT, AT 51,717.59 AFTER MARKET OPEN
-- 09/23 22:34 [DeItaone] US AGENCY OPENS SAFETY PROBE INTO DRIVER ASSISTANCE START-UP https://t.co/RskRW5yHW4 AFTER REPORTS OF FIVE CRASHES AND THREE DEATHS
-- 09/23 22:35 [financialjuice] Iran's General Razai: If the US does not comply with the seven conditions set by Iran, the Strait of Hormuz will not be opened, nor will we engage in negotiations - IRIB News.
-- 09/23 22:36 [DeItaone/FirstSquawk] IRAN'S SECURITY CHIEF MOHSEN REZAEI SAYS AS LONG AS IRAN'S CONDITIONS ARE NOT MET HORMUZ WILL NOT BE REOPENED AND THERE WILL BE NO NEGOTIATIONS
-- 09/23 22:36 [financialjuice] Iran's General Razai: Iran has not been in a hurry to negotiate; today, Iran's conditions have been compiled and are currently in the hands of the Qatari and Pakistani parties - IRIB News.
-- 09/23 22:36 [FirstSquawk] IRAN'S SECURITY CHIEF MOHSEN REZAEI: AS LONG AS IRAN'S CONDITIONS ARE NOT MET HORMUZ WILL NOT BE REOPENED AND THERE WILL BE NO NEGOTIATIONS
-- 09/23 22:37 [financialjuice] Iran's General Razai: We are reverse-engineering an American submarine - Fars News.
-- 09/23 22:39 [financialjuice] US Energy Secretary Wright: A diesel exports ban could raise gasoline prices.
-- 09/23 22:41 [FirstSquawk] ITALY FINMIN GIORGETTI: GROWING CONSENSUS IN EU ON WINDFALL TAX ON ENERGY SECTOR
-- 09/23 22:42 [DeItaone/FirstSquawk] REZAEI SAYS IF NEIGHBORING COUNTRIES GO ALONG WITH U.S. IN STOPPING IRANIAN FLIGHTS, THEIR AIRPORTS WON'T BE ABLE TO WORK
-- 09/23 22:43 [DeItaone] IRAN TIES HORMUZ REOPENING TO U.S. COMPLIANCE Iran’s security chief says Tehran will not return to the situation before Islamabad, reiterating that Washington must comply with Iran’s seven conditions. “If the United States does not comply,”…
+- 09/23 22:43 [FirstSquawk] REZAEI SAYS IF NEIGHBORING COUNTRIES GO ALONG WITH U.S. IN STOPPING IRANIAN FLIGHTS, THEIR AIRPORTS WON'T BE ABLE TO WORK
 - 09/23 22:43 [financialjuice] Iran's General Razai: If neighboring countries go along with the US in stopping Iranian flights, their airports won't be able to work.
 - 09/23 22:44 [financialjuice] Iran's Araghchi: I warned European officials against supporting the war crimes of the United States and Israel - Post on X.
 - 09/23 22:44 [DeItaone] IRAN SAYS IT’S IN NO RUSH TO NEGOTIATE Iran’s security chief Ali Rezaei says Tehran is “not in a hurry” to negotiate, maintaining a firm stance toward potential talks. Rezaei said Iran’s conditions have now been finalized and handed to Qata…
@@ -317,3 +298,7 @@
 - 09/24 04:07 [FirstSquawk] RUSSIAN PRESIDENTIAL ENVOY DMITRIEV HEADS TO US FOR NEW TALKS WITH TRUMP ADMINISTRATION OFFICIALS — SOURCES
 - 09/24 04:07 [financialjuice] AI Scientist Bengio calls AI dangers real and imminent
 - 09/24 04:22 [financialjuice] Thursday FX Option Expiries
+- 09/24 04:24 [financialjuice] Anthropic's Amodei: AI could be a risk to humanity as a whole.
+- 09/24 04:25 [financialjuice] Anthropic's Amodei: Anthropic to slow AI as needed for safety reasons
+- 09/24 04:26 [FirstSquawk] US REJECTS IRAN PROPOSAL TO OPEN STRAIT OF HORMUZ - YONHAP
+- 09/24 04:30 [financialjuice] US Energy Secretary Wright reiterates diesel ban is not being discussed - NYT

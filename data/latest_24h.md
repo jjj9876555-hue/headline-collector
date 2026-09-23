@@ -7,52 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 04:23 JST／対象: 09/23 04:23 〜 09/24 04:23 JST（時刻はすべて日本時間）
+生成: 2026-09-24 04:43 JST／対象: 09/23 04:43 〜 09/24 04:43 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 82 | 09/23 04:42 | 09/24 03:30 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 347 | 09/23 04:29 | 09/24 04:07 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 267 | 09/23 04:24 | 09/24 04:22 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 81 | 09/23 04:43 | 09/24 03:30 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 331 | 09/23 04:43 | 09/24 04:26 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 256 | 09/23 04:46 | 09/24 04:30 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 675 行（統合前 699 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 650 行（統合前 671 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 04:24 [financialjuice] ❗ Iran's conditions for reopening the Strait of Hormuz include immediate lifting of the maritime blockade, immediate payment of all frozen Iranian assets and an end to the war on all fronts - IRIB
-- 09/23 04:25 [financialjuice] Iran's foreign minister met with Witkoff on the sidelines of UN General Assembly - IRIB News
-- 09/23 04:25 [financialjuice] ❗ Iran's conditions to open the Strait of Hormuz were the reason to accept Witkoff's request for meeting - IRIB News
-- 09/23 04:28 [financialjuice] US official and a regional source said Trump's envoys Witkoff and Kushner attended meeting from US side and foreign minister Araghchi from the Iranian side - Axios
-- 09/23 04:29 [FirstSquawk] IRAN'S STATE MEDIA SAYS IRAN'S FOREIGN MINISTER MET WITH WITKOFF ON THE SIDELINES OF THE UN GENERAL ASSEMBLY, WITH IRAN'S CONDITIONS TO OPEN THE STRAIT OF HORMUZ THE REASON IT ACCEPTED WITKOFF'S REQUEST FOR THE MEETING, AND IRAN'S 'STRICT' …
-- 09/23 04:29 [FirstSquawk] IRAN'S STATE MEDIA SAYS IRAN'S CONDITIONS FOR REOPENING THE STRAIT OF HORMUZ INCLUDE THE IMMEDIATE LIFTING OF THE NAVAL BLOCKADE, THE IMMEDIATE RELEASE OF FROZEN IRANIAN ASSETS AND AN END OF WAR ACROSS ALL 'RESISTANCE' FRONTS.
-- 09/23 04:31 [FirstSquawk] A BREAKTHROUGH BETWEEN AMERICA AND IRAN IS POSSIBLE BUT REQUIRES MULTIPLE STEPS - AL-ARABIYA
-- 09/23 04:32 [FirstSquawk] TURKEY’S CENTRAL BANK GOVERNOR SAYS SUPPLY SHOCKS HAVE HAD A MATERIAL IMPACT ON HEADLINE INFLATION, WHILE PERSISTENT SERVICES INFLATION AND ELEVATED INFLATION EXPECTATIONS WARRANT CONTINUED CAUTION.
-- 09/23 04:32 [FirstSquawk] TURKEY’S CENTRAL BANK SAYS GROWTH HAS SLOWED AS DOMESTIC DEMAND WEAKENED, WITH HIGH-FREQUENCY DATA POINTING TO FURTHER DEMAND MODERATION IN Q3; UNDERLYING INFLATION HAS RECENTLY DECELERATED AND DISINFLATION IS CONTINUING DESPITE MORE CHALLE…
-- 09/23 04:33 [financialjuice] Trump: A lot of momentum for Iran to make a deal.
-- 09/23 04:33 [financialjuice] Trump: I think Iran will do something good.
-- 09/23 04:34 [FirstSquawk] TRUMP: ‘A LOT OF MOMENTUM’ FOR IRAN TO MAKE A DEAL; EXPECTS IRAN TO ‘DO SOMETHING GOOD’
-- 09/23 04:36 [financialjuice] Trump: I think Witkoff and Kushner will get this thing ended.
-- 09/23 04:38 [FirstSquawk] TRUMP SAYS ON IRAN THAT 'STEVE AND JARED HAD A VERY PRODUCTIVE MEETING TODAY WITH MEDIATORS OF IRAN', ADDING 'WE WILL SEE WHAT HAPPENS WITH THAT'.
-- 09/23 04:38 [FirstSquawk] TRUMP SAYS 'THERE'S A LOT OF MOMENTUM FOR THEM TO MAKE A DEAL', ADDING 'THAT'S WHAT WE ARE HEARING FROM EVERYBODY'.
-- 09/23 04:38 [FirstSquawk] TRUMP ON ERDOGAN: ‘HE’S A TOUGH GUY, BUT I LIKE HIM ANYWAY’
-- 09/23 04:38 [financialjuice/FirstSquawk] Trump: Hopefully Iran will do the right thing fast. There will be a time when it's too late.
-- 09/23 04:39 [FirstSquawk] IRANIAN STATE MEDIA REPORTS THAT U.S. ENVOY STEVE WITKOFF MET IRANIAN FOREIGN MINISTER ABBAS ARAGHCHI ON THE SIDELINES OF THE UN GENERAL ASSEMBLY AFTER REPEATED U.S. REQUESTS FOR THE MEETING. - TASNIM
-- 09/23 04:39 [FirstSquawk] IRAN REPORTEDLY USED THE TALKS TO PRESENT CONDITIONS FOR REOPENING THE STRAIT OF HORMUZ, INCLUDING AN IMMEDIATE END TO THE NAVAL BLOCKADE, RELEASE OF FROZEN IRANIAN ASSETS AND AN END TO THE WAR ON ALL FRONTS. - TASNIM
-- 09/23 04:39 [financialjuice] Trump: Facilitating the renewed flow of oil in Strait of Hormuz.
-- 09/23 04:40 [financialjuice] UK's PM Burnham: Discussed Falkland islands with Trump, set out UK position.
-- 09/23 04:40 [financialjuice/FirstSquawk] ❗ Trump: May have to blow up Pickaxe Mountain.
-- 09/23 04:40 [financialjuice] UK PM Burnham on Falklands: We will stand firm in the face of any threats, will defend the right of the Falkland islanders to self-determination and to remain British
-- 09/23 04:41 [financialjuice] Trump: Not seeing Pickaxe activity, but will attack it, if we do.
-- 09/23 04:42 [FirstSquawk] TRUMP ON CUBA: ‘I DON’T KNOW WHAT’S GOING ON WITH CUBA; THEY’RE NOT LOOKING SO GOOD’
-- 09/23 04:42 [FirstSquawk] TRUMP ON COLOMBIA: SAYS HIS ENDORSEMENT HELPED ‘EL TIGRE’ RISE FROM NO. 10 TO NO. 1 AND WIN IN A ‘LANDSLIDE’
-- 09/23 04:42 [financialjuice/DeItaone] Trump: We think Iran war could end after midterms, maybe before.
-- 09/23 04:42 [FirstSquawk] TRUMP ON BRITAIN: ‘UNITED KINGDOM,’ ‘BRITAIN’ AND ‘ENGLAND’ — ‘MORE NAMES THAN ANY OTHER PLACE IN THE WORLD’
-- 09/23 04:42 [FirstSquawk] TRUMP: US IS FACILITATING THE RENEWED FLOW OF OIL THROUGH THE STRAIT OF HORMUZ
 - 09/23 04:43 [FirstSquawk] TRUMP: NOT SEEING PICKAXE ACTIVITY, BUT WILL ATTACK IT IF WE DO; SAYS IRAN WAR COULD END AFTER MIDTERMS, ‘MAYBE BEFORE’
 - 09/23 04:43 [DeItaone] *TRUMP: HOPEFULLY IRAN WILL DO THE RIGHT THING FAST *TRUMP ON IRAN: THERE WILL BE A TIME WHEN IT'S TOO LATE *TRUMP: MAY HAVE TO BLOW UP PICKAXE MOUNTAIN
 - 09/23 04:44 [FirstSquawk] IRGC SPOKESPERSON SAYS IRAN’S RESPONSE WILL BE DETERMINED AS A MILITARY MATTER AND THAT OPERATIONAL DETAILS WILL NOT BE DISCLOSED IN ADVANCE, ADDING THAT IRAN WILL SHOW ITS RESPONSE THROUGH ACTION RATHER THAN PROPAGANDA.
@@ -699,3 +670,7 @@
 - 09/24 04:07 [FirstSquawk] RUSSIAN PRESIDENTIAL ENVOY DMITRIEV HEADS TO US FOR NEW TALKS WITH TRUMP ADMINISTRATION OFFICIALS — SOURCES
 - 09/24 04:07 [financialjuice] AI Scientist Bengio calls AI dangers real and imminent
 - 09/24 04:22 [financialjuice] Thursday FX Option Expiries
+- 09/24 04:24 [financialjuice] Anthropic's Amodei: AI could be a risk to humanity as a whole.
+- 09/24 04:25 [financialjuice] Anthropic's Amodei: Anthropic to slow AI as needed for safety reasons
+- 09/24 04:26 [FirstSquawk] US REJECTS IRAN PROPOSAL TO OPEN STRAIT OF HORMUZ - YONHAP
+- 09/24 04:30 [financialjuice] US Energy Secretary Wright reiterates diesel ban is not being discussed - NYT
