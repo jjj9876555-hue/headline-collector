@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 19:44 JST／対象: 09/23 07:44 〜 09/23 19:44 JST（時刻はすべて日本時間）
+生成: 2026-09-23 19:58 JST／対象: 09/23 07:58 〜 09/23 19:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 11 | 09/23 18:24 | 09/23 19:43 | 23分（19:19→19:43） |
-| FirstSquawk | 161 | 09/23 08:04 | 09/23 19:44 | 30分（17:00→17:31） |
-| financialjuice | 62 | 09/23 08:00 | 09/23 18:33 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 13 | 09/23 18:24 | 09/23 19:53 | 23分（19:19→19:43） |
+| FirstSquawk | 162 | 09/23 08:04 | 09/23 19:45 | 30分（17:00→17:31） |
+| financialjuice | 64 | 09/23 08:00 | 09/23 19:57 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 231 行（統合前 234 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 236 行（統合前 239 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -255,3 +255,8 @@
 - 09/23 19:41 [FirstSquawk] IPHONE 18 PRO IMPROVES LAST YEAR'S VERSION WITH FASTER PERFORMANCE, LONGER BATTERY LIFE, AND SIGNIFICANT ENHANCEMENTS TO APPLE'S TOP CAMERA SYSTEM.
 - 09/23 19:43 [DeItaone] MORGAN STANLEY MAPS WINNERS FROM HORMUZ REOPENING Morgan Stanley says European equities are the most sensitive to a potential reopening of the Strait of Hormuz as U.S.-Iran diplomacy progresses. Airlines, aerospace, construction, luxury and…
 - 09/23 19:44 [FirstSquawk] HOUTHI OFFICIALS SAY THEY WILL ATTACK ALL U.S. INTERESTS IN THE REGION IF THE U.S. BACKS SAUDI ARABIA.
+- 09/23 19:45 [FirstSquawk] BOFA GLOBAL RESEARCH EXPECTS BOE TO HIKE INTEREST RATES BY 25 BP IN NOVEMBER 2026 AND FEBRUARY 2027 VS PRIOR FORECAST OF RATES UNCHANGED UNTIL A CUT IN NOVEMBER 2027
+- 09/23 19:45 [financialjuice] BofA global research expects BoE to hike interest rates by 25 bp in November 2026 and February 2027, vs. the prior forecast of rates unchanged until a cut in November 2027
+- 09/23 19:45 [DeItaone] RUSSIA CUTS GAS AND LNG OUTLOOK Russia has lowered its 2026 natural gas production forecast to 683.1 bcm, from 688.4 bcm previously. The government also cut its 2026 LNG export forecast to 35 million tons, down from 40.3 million tons. Russi…
+- 09/23 19:53 [DeItaone] HAWKISH FED SENDS DOLLAR TO TWO-MONTH HIGH The dollar climbed to its highest level since July as Fed officials signaled more rate hikes may be needed to fight inflation. Markets now price a 53% chance of an October hike after last week’s fi…
+- 09/23 19:57 [financialjuice] HSBC raises 2026 year-end Stoxx 600 index target to 680 from 670
