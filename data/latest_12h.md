@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 08:42 JST／対象: 09/23 20:42 〜 09/24 08:42 JST（時刻はすべて日本時間）
+生成: 2026-09-24 08:52 JST／対象: 09/23 20:52 〜 09/24 08:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 09/23 21:06 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 151 | 09/23 20:43 | 09/24 08:23 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 192 | 09/23 20:49 | 09/24 08:39 | 42分（05:39→06:22） |
+| FirstSquawk | 150 | 09/23 20:53 | 09/24 08:48 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 193 | 09/23 20:58 | 09/24 08:43 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 396 行（統合前 414 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 20:43 [FirstSquawk] RYANAIR CEO O'LEARY: I HOPE JET FUEL PRICES WILL RISE FASTER NEXT YEAR BECAUSE IT WILL CONSOLIDATE AVIATION IN EUROPE MORE QUICKLY
-- 09/23 20:48 [FirstSquawk] UKMTO SAYS IT RECEIVED A REPORT OF AN INCIDENT WITHIN THE STRAIT OF HORMUZ
-- 09/23 20:48 [FirstSquawk] UBS SAYS PROPOSED 90% PLAN IS EXCESSIVE, "NOT A COMPROMISE"
-- 09/23 20:49 [financialjuice] UKMTO gets a report of an incident in the Strait of Hormuz, a company security officer of a cargo vessel reports being struck by an unknown projectile
-- 09/23 20:49 [FirstSquawk] UKMTO SAYS VESSEL IS ON FIRE AND ADRIFT
 - 09/23 20:53 [FirstSquawk] ALL CREW MEMBERS OF THE ATTACKED SHIP IN THE STRAIT OF HORMUZ WERE EVACUATED, WITH TWO INJURIES REPORTED.
 - 09/23 20:55 [FirstSquawk] RYANAIR CEO O'LEARY: BY FY28 I EXPECT WE WILL GROW TO 220 MILLION PASSENGERS
 - 09/23 20:58 [financialjuice] Officials in the Trump administration have backed off an effort to replace Deputy Secretary of Defense Stephen Feinberg - Sources
@@ -420,3 +415,8 @@
 - 09/24 08:34 [financialjuice] Meta introduces third generation of Ray-Ban smart glasses
 - 09/24 08:36 [financialjuice] Meta: adventurer style smart glasses to start at $249
 - 09/24 08:39 [financialjuice] Meta: Ray-Ban Meta Audio launches October 13, available for pre-order at $349
+- 09/24 08:43 [financialjuice] Meta: Meta VR glasses to start at $1,299
+- 09/24 08:43 [financialjuice] Meta VR glasses to debut spring 2027 at $1,299.99
+- 09/24 08:46 [FirstSquawk] MICROSOFT PRESIDENT BRAD SMITH SUPPORTS INDEPENDENT AI SAFETY EVALUATORS, SAYING AI SAFETY SHOULD BE BUILT THROUGH MULTIPLE LAYERS INVOLVING MODEL DEVELOPERS, SOFTWARE PROVIDERS AND POTENTIALLY GOVERNMENTS.
+- 09/24 08:46 [FirstSquawk] MICROSOFT PRESIDENT BRAD SMITH SAYS MICROSOFT WILL ADJUST ITS 2030 CLIMATE GOALS AS AI DATA CENTER POWER DEMAND RISES, WHILE CONFIRMING PLANS TO USE 200 MEGAWATTS OF COMPUTING CAPACITY AT ITS PLANNED UAE FACILITY AND INVEST AN ADDITIONAL $2…
+- 09/24 08:48 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 1.41% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.26 POINT

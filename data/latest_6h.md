@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 08:42 JST／対象: 09/24 02:42 〜 09/24 08:42 JST（時刻はすべて日本時間）
+生成: 2026-09-24 08:52 JST／対象: 09/24 02:52 〜 09/24 08:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/24 02:48 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 51 | 09/24 03:07 | 09/24 08:23 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 63 | 09/24 03:00 | 09/24 08:39 | 42分（05:39→06:22） |
+| DeItaone | 8 | 09/24 03:01 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 54 | 09/24 03:07 | 09/24 08:48 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 65 | 09/24 03:00 | 09/24 08:43 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 124 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 02:48 [DeItaone] MCDONALD’S CEO: HIGH INFLATION IS HERE TO STAY McDonald’s CEO Chris Kempczinski says weak customer traffic and persistent inflation are becoming the new normal for the restaurant industry. U.S. same-store sales rose just 0.8% last quarter, …
 - 09/24 03:00 [financialjuice] White House on the Diesel ban: Earlier Politico report on the ban is not accurate.
 - 09/24 03:01 [DeItaone] FBI DATA ALLEGEDLY STOLEN BY HACKERS HAS SENSITIVE INFORMATION ABOUT BUREAU EMPLOYEES' INTELLIGENCE WORK
 - 09/24 03:02 [DeItaone] HACKERS CLAIM MASSIVE FBI DATA BREACH Hacking group ShinyHunters claims it stole 2–3 terabytes of FBI data, including sensitive information on thousands of current and former employees. A leaked sample reportedly contains personal details a…
@@ -144,3 +143,8 @@
 - 09/24 08:34 [financialjuice] Meta introduces third generation of Ray-Ban smart glasses
 - 09/24 08:36 [financialjuice] Meta: adventurer style smart glasses to start at $249
 - 09/24 08:39 [financialjuice] Meta: Ray-Ban Meta Audio launches October 13, available for pre-order at $349
+- 09/24 08:43 [financialjuice] Meta: Meta VR glasses to start at $1,299
+- 09/24 08:43 [financialjuice] Meta VR glasses to debut spring 2027 at $1,299.99
+- 09/24 08:46 [FirstSquawk] MICROSOFT PRESIDENT BRAD SMITH SUPPORTS INDEPENDENT AI SAFETY EVALUATORS, SAYING AI SAFETY SHOULD BE BUILT THROUGH MULTIPLE LAYERS INVOLVING MODEL DEVELOPERS, SOFTWARE PROVIDERS AND POTENTIALLY GOVERNMENTS.
+- 09/24 08:46 [FirstSquawk] MICROSOFT PRESIDENT BRAD SMITH SAYS MICROSOFT WILL ADJUST ITS 2030 CLIMATE GOALS AS AI DATA CENTER POWER DEMAND RISES, WHILE CONFIRMING PLANS TO USE 200 MEGAWATTS OF COMPUTING CAPACITY AT ITS PLANNED UAE FACILITY AND INVEST AN ADDITIONAL $2…
+- 09/24 08:48 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 1.41% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.26 POINT

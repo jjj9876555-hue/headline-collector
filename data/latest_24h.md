@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 08:42 JST／対象: 09/23 08:42 〜 09/24 08:42 JST（時刻はすべて日本時間）
+生成: 2026-09-24 08:52 JST／対象: 09/23 08:52 〜 09/24 08:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 297 | 09/23 08:47 | 09/24 08:23 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 257 | 09/23 09:05 | 09/24 08:39 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 299 | 09/23 08:57 | 09/24 08:48 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 259 | 09/23 09:05 | 09/24 08:43 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 617 行（統合前 639 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 621 行（統合前 643 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 08:47 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN 1% TO $89.60/BBL ON HOPES OF INCREASED GULF SUPPLIES
 - 09/23 08:57 [FirstSquawk] ISRAELI AIRSTRIKES & ARTILLERY HIT SOUTHERN LEBANON; LOUD EXPLOSION REPORTED IN KHIAM AMID STRIKES — MEHR
 - 09/23 08:57 [FirstSquawk] UK PM BURNHAM: BRITAIN WILL STAND FIRM IN DEFENDING ITS PEOPLE & ALLIES — AL JAZEERA
 - 09/23 08:59 [FirstSquawk] U.S. SPECIAL ENVOY STEVE WITKOFF SAYS THAT TODAY, ON THE SIDELINES OF THE UNITED NATIONS GENERAL ASSEMBLY, 'WE ENGAGED IN LENGTHY TALKS WITH THE IRANIAN DELEGATION THROUGH THE MEDIATORS, WHO SHUTTLED BETWEEN THE TWO SIDES THROUGHOUT THE DAY…
@@ -641,3 +640,8 @@
 - 09/24 08:34 [financialjuice] Meta introduces third generation of Ray-Ban smart glasses
 - 09/24 08:36 [financialjuice] Meta: adventurer style smart glasses to start at $249
 - 09/24 08:39 [financialjuice] Meta: Ray-Ban Meta Audio launches October 13, available for pre-order at $349
+- 09/24 08:43 [financialjuice] Meta: Meta VR glasses to start at $1,299
+- 09/24 08:43 [financialjuice] Meta VR glasses to debut spring 2027 at $1,299.99
+- 09/24 08:46 [FirstSquawk] MICROSOFT PRESIDENT BRAD SMITH SUPPORTS INDEPENDENT AI SAFETY EVALUATORS, SAYING AI SAFETY SHOULD BE BUILT THROUGH MULTIPLE LAYERS INVOLVING MODEL DEVELOPERS, SOFTWARE PROVIDERS AND POTENTIALLY GOVERNMENTS.
+- 09/24 08:46 [FirstSquawk] MICROSOFT PRESIDENT BRAD SMITH SAYS MICROSOFT WILL ADJUST ITS 2030 CLIMATE GOALS AS AI DATA CENTER POWER DEMAND RISES, WHILE CONFIRMING PLANS TO USE 200 MEGAWATTS OF COMPUTING CAPACITY AT ITS PLANNED UAE FACILITY AND INVEST AN ADDITIONAL $2…
+- 09/24 08:48 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 1.41% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.26 POINT
