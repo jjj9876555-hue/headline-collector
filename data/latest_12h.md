@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 07:44 JST／対象: 09/23 19:44 〜 09/24 07:44 JST（時刻はすべて日本時間）
+生成: 2026-09-24 07:58 JST／対象: 09/23 19:58 〜 09/24 07:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 71 | 09/23 19:45 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 156 | 09/23 19:45 | 09/24 06:44 | ⚠ 77分（05:26→06:44） |
-| financialjuice | 172 | 09/23 19:45 | 09/24 07:42 | ⚠ 46分（20:03→20:49） |
+| DeItaone | 69 | 09/23 20:05 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 155 | 09/23 19:59 | 09/24 06:44 | ⚠ 77分（05:26→06:44） |
+| financialjuice | 171 | 09/23 19:59 | 09/24 07:46 | ⚠ 46分（20:03→20:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 384 行（統合前 402 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 380 行（統合前 398 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 19:45 [FirstSquawk] BOFA GLOBAL RESEARCH EXPECTS BOE TO HIKE INTEREST RATES BY 25 BP IN NOVEMBER 2026 AND FEBRUARY 2027 VS PRIOR FORECAST OF RATES UNCHANGED UNTIL A CUT IN NOVEMBER 2027
-- 09/23 19:45 [financialjuice] BofA global research expects BoE to hike interest rates by 25 bp in November 2026 and February 2027, vs. the prior forecast of rates unchanged until a cut in November 2027
-- 09/23 19:45 [DeItaone] RUSSIA CUTS GAS AND LNG OUTLOOK Russia has lowered its 2026 natural gas production forecast to 683.1 bcm, from 688.4 bcm previously. The government also cut its 2026 LNG export forecast to 35 million tons, down from 40.3 million tons. Russi…
-- 09/23 19:53 [DeItaone] HAWKISH FED SENDS DOLLAR TO TWO-MONTH HIGH The dollar climbed to its highest level since July as Fed officials signaled more rate hikes may be needed to fight inflation. Markets now price a 53% chance of an October hike after last week’s fi…
-- 09/23 19:57 [financialjuice] HSBC raises 2026 year-end Stoxx 600 index target to 680 from 670
 - 09/23 19:59 [financialjuice/FirstSquawk] HSBC raises 2026 year-end FTSE 100 target to 11,390 from 10,980
 - 09/23 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -1.5% (FORECAST -, PREVIOUS -4.1%) $MACRO
 - 09/23 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 7.12% (FORECAST -, PREVIOUS 6.97%) $MACRO
@@ -408,3 +403,4 @@
 - 09/24 07:13 [financialjuice] US Treasury Secretary Bessent: reports that he will likely be Trump's al czar are probably fake news
 - 09/24 07:31 [financialjuice] Modal Labs in talks to secure new funding at about $15 billion valuation
 - 09/24 07:42 [financialjuice] South Korea’s presidential office: President Lee discussed warship building with U.S. President Donald Trump
+- 09/24 07:46 [financialjuice] South Korea President Lee: Hanwha's Philly shipyard to construct warships for US - Korea presidential office
