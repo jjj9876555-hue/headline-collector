@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 08:14 JST／対象: 09/23 20:14 〜 09/24 08:14 JST（時刻はすべて日本時間）
+生成: 2026-09-24 08:29 JST／対象: 09/23 20:29 〜 09/24 08:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 09/23 21:06 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 152 | 09/23 20:18 | 09/24 06:44 | ⚠ 77分（05:26→06:44） |
-| financialjuice | 170 | 09/23 20:49 | 09/24 08:12 | 42分（05:39→06:22） |
+| FirstSquawk | 152 | 09/23 20:38 | 09/24 08:23 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 187 | 09/23 20:49 | 09/24 08:29 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 376 行（統合前 393 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 392 行（統合前 410 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 20:18 [FirstSquawk] RYANAIR CEO O'LEARY: WE ARE EXPECTED TO GET OUR FIRST 15 MAX 10 AIRCRAFT IN THE SPRING, WE EXPECT THOSE TO BE CERTIFIED IN THE NEXT FEW WEEKS
-- 09/23 20:22 [FirstSquawk] UBS FACES $17B EXTRA CAPITAL AFTER PARLIAMENT VOTE, GOLDMAN SAYS - BBG
-- 09/23 20:24 [FirstSquawk] NASDAQ 100 FUTURES HIT SESSION LOW, DOWN 0.2%
-- 09/23 20:28 [FirstSquawk] INFLOWS INTO US SPOT BITCOIN ETF HAVE TURNED POSITIVE THIS YEAR AS THE RECOVERY OF BITCOIN BOOSTS INVESTOR INTEREST.
 - 09/23 20:38 [FirstSquawk] US TREASURY YIELDS EXTEND CLIMB, 2-YEAR TO YEAR'S HIGH 4.79%
 - 09/23 20:43 [FirstSquawk] RYANAIR CEO O'LEARY: I HOPE JET FUEL PRICES WILL RISE FASTER NEXT YEAR BECAUSE IT WILL CONSOLIDATE AVIATION IN EUROPE MORE QUICKLY
 - 09/23 20:48 [FirstSquawk] UKMTO SAYS IT RECEIVED A REPORT OF AN INCIDENT WITHIN THE STRAIT OF HORMUZ
@@ -391,7 +387,7 @@
 - 09/24 06:39 [financialjuice] OpenAI: alerted services in Australia about incident on Sept. 10
 - 09/24 06:57 [financialjuice] Morocco's parliamentary election turnout at 38.02%, interior ministry says
 - 09/24 07:06 [financialjuice] US Treasury Secretary Bessent: U.S., China agreed Wednesday to prolong Busan agreement
-- 09/24 07:13 [financialjuice] US Treasury Secretary Bessent: reports that he will likely be Trump's al czar are probably fake news
+- 09/24 07:13 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: reports that he will likely be Trump's al czar are probably fake news
 - 09/24 07:31 [financialjuice] Modal Labs in talks to secure new funding at about $15 billion valuation
 - 09/24 07:42 [financialjuice] South Korea’s presidential office: President Lee discussed warship building with U.S. President Donald Trump
 - 09/24 07:46 [financialjuice] South Korea President Lee: Hanwha's Philly shipyard to construct warships for US - Korea presidential office
@@ -400,3 +396,23 @@
 - 09/24 08:08 [financialjuice] EU's Costa: calls for halt to Iran's attacks on neighbors and complete freedom of navigation in Strait of Hormuz
 - 09/24 08:10 [financialjuice] Meta CEO Zuckerberg: company expects to earn revenue from Muse by charging small transaction fee
 - 09/24 08:12 [financialjuice] Meta exec Wang: company adding computer usage data to Muse
+- 09/24 08:14 [financialjuice] Meta exec Wang: Walmart, Gap, Best Buy among companies integrated into Muse
+- 09/24 08:16 [FirstSquawk] EU COUNCIL PRESIDENT COSTA SPEAKS WITH IRANIAN PRESIDENT; URGES RESUMPTION OF IAEA COOPERATION, END TO STRIKES ON NEIGHBOURS & RESTORATION OF FREEDOM OF NAVIGATION IN STRAIT OF HORMUZ
+- 09/24 08:17 [financialjuice] Venezuela acting president delcy rodriguez tells unga: recent energy pact with US to aid global energy equilibrium
+- 09/24 08:18 [FirstSquawk] TRUMP: HAD “GREAT CONVERSATIONS” WITH WORLD LEADERS AT UNGA; SAYS “ENTIRE TECH & BANKING WORLDS” WILL ATTEND XI DINNER TOMORROW, DESCRIBES GREETING WITH XI AS “GREAT”
+- 09/24 08:18 [financialjuice] Venezuela acting president Delcy Rodriguez to UNGA: Urge Guyana to resume negotiations
+- 09/24 08:19 [financialjuice] Meta says it is integrating Muse into all its smart glasses
+- 09/24 08:20 [financialjuice] Venezuela acting president Delcy Rodriguez tells UNGA: thanks US president Donald Trump for restoring diplomatic relations
+- 09/24 08:21 [financialjuice] Venezuela Acting President Delcy Rodriguez tells UNGA: aims with US and neighbors to build ties
+- 09/24 08:23 [financialjuice] Venezuela acting president Delcy Rodriguez tells UNGA: Venezuela has launched a democratic process
+- 09/24 08:23 [FirstSquawk] SENATE DEMOCRATS ARE URGING MAJORITY LEADER JOHN THUNE TO HOLD VOTES ON THREE BILLS THAT WOULD TIGHTEN U.S. CHIP AND SEMICONDUCTOR EQUIPMENT EXPORT CONTROLS TO CHINA, INCLUDING THE AI OVERWATCH ACT, MATCH ACT AND CHIP SECURITY ACT.
+- 09/24 08:23 [financialjuice] Venezuela acting president Rodriguez calls for political talks to foster freedom, reconciliation
+- 09/24 08:25 [financialjuice] Venezuela acting president Rodriguez: orderly legal transition to take place
+- 09/24 08:26 [financialjuice] Venezuela acting president Rodriguez: will ensure involvement of all political groups
+- 09/24 08:26 [financialjuice] Venezuela acting president Rodriguez: elections will take place
+- 09/24 08:27 [financialjuice] Meta unveils private processing for smart glasses
+- 09/24 08:27 [financialjuice] Venezuela acting President Rodriguez: Dialogue with opposition has begun
+- 09/24 08:27 [financialjuice] Venezuela acting president Rodriguez: institutions will be prepared for that process
+- 09/24 08:28 [financialjuice] Venezuela acting president Rodriguez: will guide nation from uncertainty to full democracy
+- 09/24 08:29 [financialjuice] Venezuela acting president Rodriguez: ready to collaborate with international community
+- 09/24 08:29 [financialjuice] Venezuela acting president Rodriguez: this is the moment to create the nation many seek to return to

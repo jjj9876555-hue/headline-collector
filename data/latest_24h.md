@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 08:14 JST／対象: 09/23 08:14 〜 09/24 08:14 JST（時刻はすべて日本時間）
+生成: 2026-09-24 08:29 JST／対象: 09/23 08:29 〜 09/24 08:29 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 302 | 09/23 08:16 | 09/24 06:44 | ⚠ 77分（05:26→06:44） |
-| financialjuice | 236 | 09/23 08:41 | 09/24 08:12 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 302 | 09/23 08:30 | 09/24 08:23 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 253 | 09/23 08:41 | 09/24 08:29 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 602 行（統合前 623 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 618 行（統合前 640 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 08:16 [FirstSquawk] TRUMP SIGNED A TRILATERAL SECURITY DEAL WITH DENMARK AND GREENLAND THAT EXPANDS THE U.S. MILITARY PRESENCE ON THE ARCTIC ISLAND, INCLUDING TWO NEW BASES AT NARSARSUAQ AND MESTERSVIG, WHILE GREENLAND REMAINS UNDER DANISH SOVEREIGNTY. THE AGR…
-- 09/23 08:20 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI MET IRAQI COUNTERPART AT UN GENERAL ASSEMBLY - TASNIM
-- 09/23 08:24 [FirstSquawk] TRUMP PRAISED U.K. PRIME MINISTER ANDY BURNHAM AFTER THEIR FIRST U.N. MEETING, CALLING HIM “A NATURAL BUSINESS PERSON,” WHILE SAYING THE LEADERS HELD EXTENSIVE TALKS ON TRADE, THE MIDDLE EAST, UKRAINE AND AI.
-- 09/23 08:24 [FirstSquawk] TRUMP CRITICIZED THE U.K.’S CHAGOS ISLANDS DEAL WITH MAURITIUS AS “A TERRIBLE DEAL” OVER STRATEGIC MILITARY TERRITORY, WHILE BURNHAM PLEDGED LIMITED SUPPORT FOR SAUDI ARABIA AGAINST HOUTHI ATTACKS, CALLED FOR MORE U.S. AIR DEFENSE SUPPORT F…
 - 09/23 08:30 [FirstSquawk] IRANIAN STATE MEDIA SAYS FOREIGN MINISTER ABBAS ARAGHCHI MET U.S. ENVOY STEVE WITKOFF AT THE UN GENERAL ASSEMBLY, WITH TEHRAN SAYING THE TALKS CENTERED ON ITS CONDITIONS FOR REOPENING THE STRAIT OF HORMUZ, INCLUDING LIFTING THE U.S. NAVAL B…
 - 09/23 08:30 [FirstSquawk] IRAN ALSO CALLED FOR AN END TO THE WAR ACROSS ALL “RESISTANCE” FRONTS, WHILE SHIPPING THROUGH THE STRAIT OF HORMUZ REMAINED SEVERELY DISRUPTED, WITH JUST TWO COMMODITY VESSELS CROSSING MONDAY VERSUS A PRE-CONFLICT AVERAGE OF ABOUT 125 LARGE…
 - 09/23 08:36 [FirstSquawk] U.S. ENVOY WITKOFF SAYS HE HELD LENGTHY TALKS WITH THE IRANIAN DELEGATION THROUGH MEDIATORS, WHO WILL CONTINUE THEIR WORK, ADDING THAT HE HOPES THE TALKS PROVE CONSTRUCTIVE AND PROMISING
@@ -617,7 +613,7 @@
 - 09/24 06:39 [financialjuice] OpenAI: alerted services in Australia about incident on Sept. 10
 - 09/24 06:57 [financialjuice] Morocco's parliamentary election turnout at 38.02%, interior ministry says
 - 09/24 07:06 [financialjuice] US Treasury Secretary Bessent: U.S., China agreed Wednesday to prolong Busan agreement
-- 09/24 07:13 [financialjuice] US Treasury Secretary Bessent: reports that he will likely be Trump's al czar are probably fake news
+- 09/24 07:13 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: reports that he will likely be Trump's al czar are probably fake news
 - 09/24 07:31 [financialjuice] Modal Labs in talks to secure new funding at about $15 billion valuation
 - 09/24 07:42 [financialjuice] South Korea’s presidential office: President Lee discussed warship building with U.S. President Donald Trump
 - 09/24 07:46 [financialjuice] South Korea President Lee: Hanwha's Philly shipyard to construct warships for US - Korea presidential office
@@ -626,3 +622,23 @@
 - 09/24 08:08 [financialjuice] EU's Costa: calls for halt to Iran's attacks on neighbors and complete freedom of navigation in Strait of Hormuz
 - 09/24 08:10 [financialjuice] Meta CEO Zuckerberg: company expects to earn revenue from Muse by charging small transaction fee
 - 09/24 08:12 [financialjuice] Meta exec Wang: company adding computer usage data to Muse
+- 09/24 08:14 [financialjuice] Meta exec Wang: Walmart, Gap, Best Buy among companies integrated into Muse
+- 09/24 08:16 [FirstSquawk] EU COUNCIL PRESIDENT COSTA SPEAKS WITH IRANIAN PRESIDENT; URGES RESUMPTION OF IAEA COOPERATION, END TO STRIKES ON NEIGHBOURS & RESTORATION OF FREEDOM OF NAVIGATION IN STRAIT OF HORMUZ
+- 09/24 08:17 [financialjuice] Venezuela acting president delcy rodriguez tells unga: recent energy pact with US to aid global energy equilibrium
+- 09/24 08:18 [FirstSquawk] TRUMP: HAD “GREAT CONVERSATIONS” WITH WORLD LEADERS AT UNGA; SAYS “ENTIRE TECH & BANKING WORLDS” WILL ATTEND XI DINNER TOMORROW, DESCRIBES GREETING WITH XI AS “GREAT”
+- 09/24 08:18 [financialjuice] Venezuela acting president Delcy Rodriguez to UNGA: Urge Guyana to resume negotiations
+- 09/24 08:19 [financialjuice] Meta says it is integrating Muse into all its smart glasses
+- 09/24 08:20 [financialjuice] Venezuela acting president Delcy Rodriguez tells UNGA: thanks US president Donald Trump for restoring diplomatic relations
+- 09/24 08:21 [financialjuice] Venezuela Acting President Delcy Rodriguez tells UNGA: aims with US and neighbors to build ties
+- 09/24 08:23 [financialjuice] Venezuela acting president Delcy Rodriguez tells UNGA: Venezuela has launched a democratic process
+- 09/24 08:23 [FirstSquawk] SENATE DEMOCRATS ARE URGING MAJORITY LEADER JOHN THUNE TO HOLD VOTES ON THREE BILLS THAT WOULD TIGHTEN U.S. CHIP AND SEMICONDUCTOR EQUIPMENT EXPORT CONTROLS TO CHINA, INCLUDING THE AI OVERWATCH ACT, MATCH ACT AND CHIP SECURITY ACT.
+- 09/24 08:23 [financialjuice] Venezuela acting president Rodriguez calls for political talks to foster freedom, reconciliation
+- 09/24 08:25 [financialjuice] Venezuela acting president Rodriguez: orderly legal transition to take place
+- 09/24 08:26 [financialjuice] Venezuela acting president Rodriguez: will ensure involvement of all political groups
+- 09/24 08:26 [financialjuice] Venezuela acting president Rodriguez: elections will take place
+- 09/24 08:27 [financialjuice] Meta unveils private processing for smart glasses
+- 09/24 08:27 [financialjuice] Venezuela acting President Rodriguez: Dialogue with opposition has begun
+- 09/24 08:27 [financialjuice] Venezuela acting president Rodriguez: institutions will be prepared for that process
+- 09/24 08:28 [financialjuice] Venezuela acting president Rodriguez: will guide nation from uncertainty to full democracy
+- 09/24 08:29 [financialjuice] Venezuela acting president Rodriguez: ready to collaborate with international community
+- 09/24 08:29 [financialjuice] Venezuela acting president Rodriguez: this is the moment to create the nation many seek to return to
