@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 02:58 JST／対象: 09/23 20:58 〜 09/24 02:58 JST（時刻はすべて日本時間）
+生成: 2026-09-24 03:21 JST／対象: 09/23 21:21 〜 09/24 03:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 60 | 09/23 21:06 | 09/24 02:48 | ⚠ 51分（01:07→01:59） |
-| FirstSquawk | 94 | 09/23 21:05 | 09/24 02:41 | 34分（01:56→02:31） |
-| financialjuice | 127 | 09/23 21:00 | 09/24 02:42 | 23分（21:24→21:48） |
+| DeItaone | 63 | 09/23 21:25 | 09/24 03:21 | ⚠ 51分（01:07→01:59） |
+| FirstSquawk | 96 | 09/23 21:23 | 09/24 03:09 | 34分（01:56→02:31） |
+| financialjuice | 128 | 09/23 21:22 | 09/24 03:14 | 23分（21:24→21:48） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 269 行（統合前 283 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 274 行（統合前 289 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 21:00 [financialjuice] Secured overnight financing rate: 3.87% September 22nd vs 3.85% September 21st
-- 09/23 21:05 [FirstSquawk] RAIFFEISEN BANK INTERNATIONAL TO LAUNCH CRYPTO TRADING ACROSS 11 EUROPEAN MARKETS Raiffeisen Bank International, one of Austria’s largest banking groups, is reportedly preparing to expand cryptocurrency trading services across 11 European m…
-- 09/23 21:06 [DeItaone] RYANAIR CEO O'LEARY: IF OIL PRICES REMAIN THIS HIGH INTO SUMMER OF 2027, I EXPECT AIRFARES TO RISE BY 10, 15, 20%
-- 09/23 21:10 [financialjuice] Morning Juice - US Session Prep (23rd September)
-- 09/23 21:16 [FirstSquawk] STERLING FALLS AS MUCH AS 0.5% TO $1.3273, LOWEST SINCE JULY 1
 - 09/23 21:22 [financialjuice] BofA's Demare: Continued strength in macroeconomic backdrop
 - 09/23 21:23 [FirstSquawk/DeItaone] BOFA'S DEMARE: 3Q WILL NOT BE AS ROBUST IN MARKETS AS 2Q WAS
 - 09/23 21:24 [financialjuice] BofA's Demare: Q3 will not be as robust in markets as Q2 was
@@ -293,3 +288,13 @@
 - 09/24 02:41 [FirstSquawk] WHITE HOUSE OFFICIAL: REPORTS OF US CONSIDERING DIESEL EXPORT BAN ARE “FAKE NEWS”
 - 09/24 02:42 [financialjuice] ❗ White House Official: Report that US is considering a diesel export ban is 'fake news'.
 - 09/24 02:48 [DeItaone] MCDONALD’S CEO: HIGH INFLATION IS HERE TO STAY McDonald’s CEO Chris Kempczinski says weak customer traffic and persistent inflation are becoming the new normal for the restaurant industry. U.S. same-store sales rose just 0.8% last quarter, …
+- 09/24 03:00 [financialjuice] White House on the Diesel ban: Earlier Politico report on the ban is not accurate.
+- 09/24 03:01 [DeItaone] FBI DATA ALLEGEDLY STOLEN BY HACKERS HAS SENSITIVE INFORMATION ABOUT BUREAU EMPLOYEES' INTELLIGENCE WORK
+- 09/24 03:02 [DeItaone] HACKERS CLAIM MASSIVE FBI DATA BREACH Hacking group ShinyHunters claims it stole 2–3 terabytes of FBI data, including sensitive information on thousands of current and former employees. A leaked sample reportedly contains personal details a…
+- 09/24 03:03 [DeItaone] ANTHROPIC - ANNOUNCES CLAUDE DISCOVERY OF NOVEL ENZYME SYSTEM WITH CRISPR-LIKE DNA REPEATS
+- 09/24 03:05 [financialjuice/FirstSquawk] US lawmakers to unveil legislation to revise national security tool used by federal communications commission to bar Chinese tech gear -Lawmakers' Statement
+- 09/24 03:08 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 23, CENTCOM FORCES HAVE REDIRECTED 115 COMMERCIAL VESSELS TO MAINTAIN STRICT ENFORCEMENT OF AMERICA'S 'STEEL WALL' BLOCKADE
+- 09/24 03:09 [FirstSquawk] ALPHABET’S GOOGLE IS EXPANDING GOOGLE BEAM WITH NEW REGIONS, PARTNERS AND CUSTOMERS, WITH THE AI-POWERED VIDEO COMMUNICATION SYSTEM SHIPPING TO SIX COUNTRIES INCLUDING THE U.S., CANADA, U.K., FRANCE, GERMANY AND JAPAN.
+- 09/24 03:09 [FirstSquawk] GOOGLE BEAM WILL ALSO BE AVAILABLE AT INDUSTRIOUS COWORKING LOCATIONS STARTING IN OCTOBER, WITH INITIAL DEPLOYMENTS IN ATLANTA, CHICAGO, NEW YORK CITY AND PALO ALTO.
+- 09/24 03:14 [financialjuice] Spain's PM Sanchez: EU needs to reduce its dependency on China.
+- 09/24 03:21 [DeItaone] TRUMP PRESSES VENEZUELA TO KEEP OIL FLOWING President Trump emphasized continued Venezuelan oil flows during his first meeting with acting President Delcy Rodriguez, Axios reports. Trump did not demand a date for future elections but stress…

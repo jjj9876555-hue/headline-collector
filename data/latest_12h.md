@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 02:58 JST／対象: 09/23 14:58 〜 09/24 02:58 JST（時刻はすべて日本時間）
+生成: 2026-09-24 03:21 JST／対象: 09/23 15:21 〜 09/24 03:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 74 | 09/23 18:24 | 09/24 02:48 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 140 | 09/23 15:00 | 09/24 02:41 | 34分（01:56→02:31） |
-| financialjuice | 165 | 09/23 15:22 | 09/24 02:42 | ⚠ 71分（18:33→19:45） |
+| DeItaone | 78 | 09/23 18:24 | 09/24 03:21 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 141 | 09/23 15:23 | 09/24 03:09 | 34分（01:56→02:31） |
+| financialjuice | 168 | 09/23 15:22 | 09/24 03:14 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 363 行（統合前 381 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 370 行（統合前 389 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 15:00 [FirstSquawk] EuroStoxx 50 futures up 0.31% as DAX and FTSE futures gain 0.35% and 0.36%
-- 09/23 15:11 [FirstSquawk] Russian forces strike port infrastructure in Ukraine’s Odesa region, governor says
-- 09/23 15:21 [FirstSquawk] Oil price on track for longest losing streak in more than 12 months - FT
 - 09/23 15:22 [financialjuice] Iran's Deputy Oil Minister: Half of the damaged capacity of the South Pars gas field is back in production - Fars News
 - 09/23 15:23 [FirstSquawk] Half of damaged South Pars gas capacity resumes production, Iran says - Fars News
 - 09/23 15:33 [FirstSquawk] TotalEnergies starts Ima gas project to support Nigeria LNG plant
@@ -387,3 +384,13 @@
 - 09/24 02:41 [FirstSquawk] WHITE HOUSE OFFICIAL: REPORTS OF US CONSIDERING DIESEL EXPORT BAN ARE “FAKE NEWS”
 - 09/24 02:42 [financialjuice] ❗ White House Official: Report that US is considering a diesel export ban is 'fake news'.
 - 09/24 02:48 [DeItaone] MCDONALD’S CEO: HIGH INFLATION IS HERE TO STAY McDonald’s CEO Chris Kempczinski says weak customer traffic and persistent inflation are becoming the new normal for the restaurant industry. U.S. same-store sales rose just 0.8% last quarter, …
+- 09/24 03:00 [financialjuice] White House on the Diesel ban: Earlier Politico report on the ban is not accurate.
+- 09/24 03:01 [DeItaone] FBI DATA ALLEGEDLY STOLEN BY HACKERS HAS SENSITIVE INFORMATION ABOUT BUREAU EMPLOYEES' INTELLIGENCE WORK
+- 09/24 03:02 [DeItaone] HACKERS CLAIM MASSIVE FBI DATA BREACH Hacking group ShinyHunters claims it stole 2–3 terabytes of FBI data, including sensitive information on thousands of current and former employees. A leaked sample reportedly contains personal details a…
+- 09/24 03:03 [DeItaone] ANTHROPIC - ANNOUNCES CLAUDE DISCOVERY OF NOVEL ENZYME SYSTEM WITH CRISPR-LIKE DNA REPEATS
+- 09/24 03:05 [financialjuice/FirstSquawk] US lawmakers to unveil legislation to revise national security tool used by federal communications commission to bar Chinese tech gear -Lawmakers' Statement
+- 09/24 03:08 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 23, CENTCOM FORCES HAVE REDIRECTED 115 COMMERCIAL VESSELS TO MAINTAIN STRICT ENFORCEMENT OF AMERICA'S 'STEEL WALL' BLOCKADE
+- 09/24 03:09 [FirstSquawk] ALPHABET’S GOOGLE IS EXPANDING GOOGLE BEAM WITH NEW REGIONS, PARTNERS AND CUSTOMERS, WITH THE AI-POWERED VIDEO COMMUNICATION SYSTEM SHIPPING TO SIX COUNTRIES INCLUDING THE U.S., CANADA, U.K., FRANCE, GERMANY AND JAPAN.
+- 09/24 03:09 [FirstSquawk] GOOGLE BEAM WILL ALSO BE AVAILABLE AT INDUSTRIOUS COWORKING LOCATIONS STARTING IN OCTOBER, WITH INITIAL DEPLOYMENTS IN ATLANTA, CHICAGO, NEW YORK CITY AND PALO ALTO.
+- 09/24 03:14 [financialjuice] Spain's PM Sanchez: EU needs to reduce its dependency on China.
+- 09/24 03:21 [DeItaone] TRUMP PRESSES VENEZUELA TO KEEP OIL FLOWING President Trump emphasized continued Venezuelan oil flows during his first meeting with acting President Delcy Rodriguez, Axios reports. Trump did not demand a date for future elections but stress…

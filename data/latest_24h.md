@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 02:58 JST／対象: 09/23 02:58 〜 09/24 02:58 JST（時刻はすべて日本時間）
+生成: 2026-09-24 03:21 JST／対象: 09/23 03:21 〜 09/24 03:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 76 | 09/23 04:42 | 09/24 02:48 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 337 | 09/23 02:59 | 09/24 02:41 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 278 | 09/23 02:58 | 09/24 02:42 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 80 | 09/23 04:42 | 09/24 03:21 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 336 | 09/23 03:35 | 09/24 03:09 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 273 | 09/23 03:31 | 09/24 03:14 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 669 行（統合前 694 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 667 行（統合前 692 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 02:58 [financialjuice/FirstSquawk] EU's Foreign Minister Kallas: Met with Iranian Foreign Minister Araghchi and addressed diplomatic prospects for ending the US-Iran war.
-- 09/23 02:59 [FirstSquawk] BESSENT EMERGES AS FRONTRUNNER FOR TRUMP’S NEW ‘AI CZAR’ ROLE — SEMAFOR
-- 09/23 03:01 [FirstSquawk] FLIGHTS FROM TEHRAN TO BAGHDAD AND MUSCAT HAVE BEEN CANCELLED STARTING WEDNESDAY MIDNIGHT LOCAL TIME, IRAN'S TASNIM NEWS AGENCY SAYS, ADDING THAT IRAN IS WORKING ON DIVERTING BAGHDAD FLIGHTS TO NAJAF, WITH REMAINING INTERNATIONAL FLIGHTS IN…
-- 09/23 03:02 [financialjuice] Flights from Tehran to Baghdad and Muscat cancelled starting Wednesday midnight local time; Iran is working on diverting Baghdad flights to Najaf, other international flights including Istanbul still ongoing - Tasnim News
-- 09/23 03:11 [FirstSquawk] IRAQ ORDERS SUSPENSION OF IRANIAN FLIGHTS TO BAGHDAD FROM WEDNESDAY MIDNIGHT — SOURCES
-- 09/23 03:11 [FirstSquawk] IRAQ DISCUSSING DIVERTING IRANIAN AIRWAYS FLIGHTS FROM BAGHDAD TO NAJAF AIRPORT — SOURCES
-- 09/23 03:16 [financialjuice] Fed's Barkin: Businesses and institutions are less reluctant to make investment and spending decisions after era of uncertainty
-- 09/23 03:16 [financialjuice] Fed's Barkin: Many businesses still feel they have pricing power
-- 09/23 03:16 [financialjuice] Fed's Barkin: Would not yet make an overheating case, but economy is firming and not weakening
-- 09/23 03:16 [financialjuice] Fed's Barkin: Tempering business expectations about inflation may help cool price pressures versus needing to rely on demand destruction
-- 09/23 03:17 [financialjuice] Fed's Barkin: Seeing more price pressures than I'm comfortable with
-- 09/23 03:20 [financialjuice] OpenAI introduces GPT-6 Sol & Luna, expanding the GPT-6 universe
 - 09/23 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $94.59 a barrel down $1.19, 1.24%
 - 09/23 03:31 [financialjuice] NYMEX diesel Oct. futures settle at $4.9421 a gallon
 - 09/23 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.4875 a gallon
@@ -693,3 +681,13 @@
 - 09/24 02:41 [FirstSquawk] WHITE HOUSE OFFICIAL: REPORTS OF US CONSIDERING DIESEL EXPORT BAN ARE “FAKE NEWS”
 - 09/24 02:42 [financialjuice] ❗ White House Official: Report that US is considering a diesel export ban is 'fake news'.
 - 09/24 02:48 [DeItaone] MCDONALD’S CEO: HIGH INFLATION IS HERE TO STAY McDonald’s CEO Chris Kempczinski says weak customer traffic and persistent inflation are becoming the new normal for the restaurant industry. U.S. same-store sales rose just 0.8% last quarter, …
+- 09/24 03:00 [financialjuice] White House on the Diesel ban: Earlier Politico report on the ban is not accurate.
+- 09/24 03:01 [DeItaone] FBI DATA ALLEGEDLY STOLEN BY HACKERS HAS SENSITIVE INFORMATION ABOUT BUREAU EMPLOYEES' INTELLIGENCE WORK
+- 09/24 03:02 [DeItaone] HACKERS CLAIM MASSIVE FBI DATA BREACH Hacking group ShinyHunters claims it stole 2–3 terabytes of FBI data, including sensitive information on thousands of current and former employees. A leaked sample reportedly contains personal details a…
+- 09/24 03:03 [DeItaone] ANTHROPIC - ANNOUNCES CLAUDE DISCOVERY OF NOVEL ENZYME SYSTEM WITH CRISPR-LIKE DNA REPEATS
+- 09/24 03:05 [financialjuice/FirstSquawk] US lawmakers to unveil legislation to revise national security tool used by federal communications commission to bar Chinese tech gear -Lawmakers' Statement
+- 09/24 03:08 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 23, CENTCOM FORCES HAVE REDIRECTED 115 COMMERCIAL VESSELS TO MAINTAIN STRICT ENFORCEMENT OF AMERICA'S 'STEEL WALL' BLOCKADE
+- 09/24 03:09 [FirstSquawk] ALPHABET’S GOOGLE IS EXPANDING GOOGLE BEAM WITH NEW REGIONS, PARTNERS AND CUSTOMERS, WITH THE AI-POWERED VIDEO COMMUNICATION SYSTEM SHIPPING TO SIX COUNTRIES INCLUDING THE U.S., CANADA, U.K., FRANCE, GERMANY AND JAPAN.
+- 09/24 03:09 [FirstSquawk] GOOGLE BEAM WILL ALSO BE AVAILABLE AT INDUSTRIOUS COWORKING LOCATIONS STARTING IN OCTOBER, WITH INITIAL DEPLOYMENTS IN ATLANTA, CHICAGO, NEW YORK CITY AND PALO ALTO.
+- 09/24 03:14 [financialjuice] Spain's PM Sanchez: EU needs to reduce its dependency on China.
+- 09/24 03:21 [DeItaone] TRUMP PRESSES VENEZUELA TO KEEP OIL FLOWING President Trump emphasized continued Venezuelan oil flows during his first meeting with acting President Delcy Rodriguez, Axios reports. Trump did not demand a date for future elections but stress…
