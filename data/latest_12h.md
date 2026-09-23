@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 12:03 JST／対象: 09/23 00:03 〜 09/23 12:03 JST（時刻はすべて日本時間）
+生成: 2026-09-23 12:21 JST／対象: 09/23 00:21 〜 09/23 12:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 206 | 09/23 00:05 | 09/23 12:01 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 176 | 09/23 00:03 | 09/23 11:44 | ⚠ 46分（09:15→10:01） |
+| FirstSquawk | 203 | 09/23 00:27 | 09/23 12:18 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 165 | 09/23 00:30 | 09/23 11:44 | ⚠ 46分（09:15→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 375 行（統合前 389 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 361 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 00:03 [financialjuice] Trump calls warnings about AI "a hoax" in his UN speech.
-- 09/23 00:05 [FirstSquawk] US PRESIDENT TRUMP: US ‘TOTALLY REJECTS’ ANY ATTEMPT TO CONSTRUCT A GLOBALIST SCHEME TO CONTROL FOR AI
-- 09/23 00:05 [FirstSquawk] US PRESIDENT TRUMP ON AI: “NOT GOING TO STIFLE GROWTH OF SOMETHING THAT WILL BE BIGGER THAN THE INDUSTRIAL REVOLUTION”
-- 09/23 00:06 [financialjuice] Trump on Greenland Deal: The deal also protects Europe in addition to America.
-- 09/23 00:06 [financialjuice] Trump ends remarks at the United Nations General Assembly.
-- 09/23 00:06 [FirstSquawk] EU REMOVES USMANOV AND FRIDMAN FROM RUSSIA SANCTIONS LIST.
-- 09/23 00:10 [FirstSquawk] ARAB MEDIATORS PUSH FOR US-IRAN MEETING AT UN TO DE-ESCALATE CRISIS
-- 09/23 00:11 [financialjuice] US Treasury Deputy Secretary Brooke: We continue to enhance and expand the buyback program.
-- 09/23 00:13 [FirstSquawk] ABU DHABI'S XRG IS REPORTEDLY INTERESTED IN ACQUIRING A STAKE IN SHELL-BACKED LNG CANADA.
-- 09/23 00:14 [financialjuice] US Treasury Deputy Secretary Brooke: We want a smooth transition to central clearing.
-- 09/23 00:16 [FirstSquawk] US TREASURY SECRETARY BROOKE ANNOUNCES PLAN TO IMPROVE AND GROW BUYBACK PROGRAM.
-- 09/23 00:16 [financialjuice] US Treasury Deputy Secretary Brooke: We may see stablecoins grow demand for US Treasuries.
-- 09/23 00:17 [financialjuice] US Treasury Deputy Secretary Brooke: Markets absorbed bigger bill sales remarkably well.
-- 09/23 00:18 [financialjuice] Trump Participates in a Trilateral Signing Event - WATCH LIVE
-- 09/23 00:19 [financialjuice] SpaceXAI’s Grok Bot Agent users grew 24% from the prior week, tops 400,000 users after first month.
-- 09/23 00:20 [financialjuice] French Finance Minister Lescure: There are no fuel concerns for the next two months, but we must continue to monitor for a deterioration of the situation.
-- 09/23 00:21 [financialjuice] PayPal is partnering with Meta. The partnership will allow users to shop and check out using Muse agents. $META $PYPL
 - 09/23 00:27 [FirstSquawk] SPACEXAI'S GROK BOT AGENT SURPASSES 400K USERS AFTER FIRST MONTH; USERS GREW 24% FROM PRIOR WEEK
 - 09/23 00:29 [FirstSquawk] BESSENT, HE TO TALK IF AI NATIONAL SECURITY INCIDENT: POLITICO
 - 09/23 00:30 [financialjuice] The AI safety ‘mechanism’ is a channel between US Treasury Secretary Bessent and China's Vice Premier He Lifeng - Politico
@@ -399,3 +382,6 @@
 - 09/23 11:50 [FirstSquawk] RBA says ASX continues to fall short in several important areas
 - 09/23 11:52 [FirstSquawk] Polo remains an extremely dangerous Category 5 hurricane, NHC says
 - 09/23 12:01 [FirstSquawk] Trump reaffirms push for dialogue with North Korea in talks with Lee, Seoul says - Yonhap
+- 09/23 12:10 [FirstSquawk] Most Singaporeans ready to let AI agents shop for them with safeguards-SCMP
+- 09/23 12:16 [FirstSquawk] JPMorgan upgrades BP to overweight from neutral, lifts target price to 675p from 550p
+- 09/23 12:18 [FirstSquawk] JPMorgan lifts Societe Generale target price to €83 from €81
