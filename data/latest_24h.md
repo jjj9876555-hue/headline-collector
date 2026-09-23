@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 23:45 JST／対象: 09/22 23:45 〜 09/23 23:45 JST（時刻はすべて日本時間）
+生成: 2026-09-23 23:59 JST／対象: 09/22 23:59 〜 09/23 23:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 58 | 09/23 04:42 | 09/23 23:37 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 356 | 09/22 23:49 | 09/23 23:43 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 307 | 09/22 23:48 | 09/23 23:39 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 60 | 09/23 04:42 | 09/23 23:57 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 354 | 09/23 00:05 | 09/23 23:57 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 309 | 09/23 00:00 | 09/23 23:57 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 697 行（統合前 728 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 699 行（統合前 730 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 23:48 [financialjuice] Trump: We're working very closely with the leaders of Russia and Ukraine, and we will get that one done.
-- 09/22 23:49 [FirstSquawk] TRUMP: US-IRAN WILL GET DEAL DONE, ONE WAY OR THE OTHER
-- 09/22 23:49 [financialjuice] Trump: US-Iran will get a deal done, one way or the other.
-- 09/22 23:50 [financialjuice] Trump: United States and Venezuela together, we have more than 60% of the oil in the world. So it's perhaps the biggest deal.
-- 09/22 23:53 [financialjuice] Trump: Cuba will fall.
-- 09/22 23:54 [financialjuice] Trump: Cuba is a failed state, freedom will be coming to Cuba.
-- 09/22 23:54 [FirstSquawk] TRUMP: WILL BUILD TWO MAJOR MILITARY BASES IN GREENLAND
-- 09/22 23:54 [financialjuice] Trump: US Secretary of State Rubio is deep into negotiations with Cuba.
-- 09/22 23:54 [financialjuice] Trump: We will build two major military bases in Greenland.
-- 09/22 23:55 [FirstSquawk] TEHRAN WANTS CHINA'S ROLE TO BE MORE PROMINENT
-- 09/22 23:55 [financialjuice] Trump: Will sign Greenland agreement later today.
-- 09/22 23:59 [FirstSquawk] TRUMP: THERE WILL BE NO GLOBAL TAXES
-- 09/22 23:59 [FirstSquawk] TRUMP: UN MUST STOP IMPOSING LEFTIST AGENDA
 - 09/23 00:00 [financialjuice] US to sell $90 bln 4-week bills on September 24th, to settle on September 29th.
 - 09/23 00:01 [financialjuice] Trump: The US rejects attempts of a global scheme to control AI
 - 09/23 00:02 [financialjuice] Trump: We will not stifle AI growth.
@@ -721,3 +708,18 @@
 - 09/23 23:38 [FirstSquawk] RUBIO: BOTH RUSSIA, UKRAINE WANT GRAIN, ENERGY CEASEFIRE
 - 09/23 23:39 [financialjuice] US Secretary of State Rubio: Both Russia and Ukraine want a grain and energy ceasefire.
 - 09/23 23:43 [FirstSquawk] NOVO'S CAGRISEMA DELIVERS SUPERIOR WEIGHT LOSS VS TIRZEPATIDE IN REIMAGINE 5 TRIAL
+- 09/23 23:47 [financialjuice] US Energy Secretary Wright: The US might consider leaving the IEA if there is no alignment on climate issues.
+- 09/23 23:47 [FirstSquawk] US MIGHT CONSIDER LEAVING IEA IF THERE IS NO ALIGNMENT ON CLIMATE ISSUES, ENERGY SECRETARY WRIGHT SAYS
+- 09/23 23:47 [financialjuice] US Treasury Secretary Bessent: I met with China's He to finish up Sunday talks - Fox Business.
+- 09/23 23:48 [financialjuice] US Secretary of State Rubio: Much of the interaction with China over the last year has been focused on trade.
+- 09/23 23:50 [financialjuice] US Secretary of State Rubio: We will live up to commitments in the defense agreement with Saudi Arabia.
+- 09/23 23:52 [financialjuice] ❗ Senior Iranian official: Tehran is reviewing US response to its proposal to end hostilities
+- 09/23 23:52 [financialjuice] US Secretary of State Rubio: Trump has many options over the Houthi attacks on Saudi Arabia.
+- 09/23 23:53 [FirstSquawk] IRAN IS ASSESSING THE U.S. REACTION TO ITS PLAN TO STOP CONFLICTS.
+- 09/23 23:54 [financialjuice] ❗ Senior Iranian Official: During indirect talks with the US on Tuesday, reopening the Hormuz Strait and lifting the US blockade were discussed.
+- 09/23 23:55 [DeItaone] SENIOR IRANIAN OFFICIAL TO REUTERS: TEHRAN IS REVIEWING U.S. RESPONSE TO ITS PROPOSAL TO END HOSTILITIES SENIOR IRANIAN OFFICIAL TO REUTERS: DURING INDIRECT TALKS WITH U.S. ON TUESDAY REOPENING HORMUZ STRAIT AND LIFTING U.S. BLOCKADE WERE D…
+- 09/23 23:56 [financialjuice] Senior Iranian Official: There are still many differences remain between Iran and the US positions, but diplomacy continues.
+- 09/23 23:56 [financialjuice] US Secretary of State Rubio: The Iran talks were a continuation of previous discussions, and were largely an exchange of ideas and messages.
+- 09/23 23:57 [FirstSquawk] RUBIO: IRAN MEETING WAS POSITIVE BUT NOT A BREAKTHROUGH
+- 09/23 23:57 [DeItaone] SENIOR IRANIAN OFFICIAL TO REUTERS: STILL MANY DIFFERENCES REMAIN BETWEEN IRAN, U.S. POSITIONS, BUT DIPLOMACY CONTINUES
+- 09/23 23:57 [financialjuice] ❗ US Secretary of State Rubio: The Iran meeting was positive, but it was not a breakthrough.
