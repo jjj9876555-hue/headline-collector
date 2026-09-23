@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 12:51 JST／対象: 09/23 00:51 〜 09/23 12:51 JST（時刻はすべて日本時間）
+生成: 2026-09-23 13:03 JST／対象: 09/23 01:03 〜 09/23 13:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 202 | 09/23 00:54 | 09/23 12:48 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 160 | 09/23 00:52 | 09/23 12:39 | ⚠ 54分（11:44→12:39） |
+| FirstSquawk | 203 | 09/23 01:17 | 09/23 13:03 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 153 | 09/23 01:03 | 09/23 12:39 | ⚠ 54分（11:44→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 355 行（統合前 369 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 349 行（統合前 363 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 00:52 [financialjuice] Iran National Security Committee Spokesperson: The Strait of Hormuz rule violations will carry a fine equal to 20% of the cargo value and temporary vessel seizure until the fine is paid - Fars News.
-- 09/23 00:54 [financialjuice] The US may establish more defense areas in Greenland - White House.
-- 09/23 00:54 [FirstSquawk] IRAN FOREIGN MINISTER ARAGHCHI, EU'S KALLAS MET ON UN GENERAL ASSEMBLY SIDELINES – SNN
-- 09/23 00:55 [financialjuice] AWS wins first NATO restricted cloud approval and has 15 regions in nato member nations $AMZN
-- 09/23 00:55 [financialjuice] Fitch Ratings: World growth holds up, but real interest rates rise.
-- 09/23 00:56 [financialjuice] World Growth Holds Up, but Real Interest Rates Rise - Fitch Ratings
-- 09/23 00:57 [financialjuice] President Trump Participates in a Bilateral Meeting with the Prime Minister of the United Kingdom
-- 09/23 00:59 [FirstSquawk] US, DENMARK MAY IDENTIFY NEW NEED FOR DEFENSE AREA: US
-- 09/23 00:59 [FirstSquawk] AWS WINS FIRST NATO RESTRICTED CLOUD APPROVAL; CLEARED FOR NR WORKLOADS ACROSS ALL NATO NATIONS
-- 09/23 00:59 [financialjuice] Meta is testing a 'human concierge' for its new personal agent Muse - Internal company posts
 - 09/23 01:03 [financialjuice/FirstSquawk] Fitch Ratings raises near-term oil and European gas price assumptions.
 - 09/23 01:07 [financialjuice] Pakistan Army conducts two-week exercise with Russian and Omani forces - Tasnim News cited Pakistan TV.
 - 09/23 01:18 [FirstSquawk] US F-16 FIGHTER JET CRASHED NEAR U.S BASE IN GERMANY
@@ -379,3 +369,7 @@
 - 09/23 12:39 [FirstSquawk] World Bank makes up to $170 million available for Nepal’s immediate flood response
 - 09/23 12:39 [financialjuice] China finance ministry offers 3-month bills at 1.1101% yield: traders
 - 09/23 12:48 [FirstSquawk] Singapore dollar eases ahead of August inflation figures - WSJ
+- 09/23 12:53 [FirstSquawk] AutoZone target price reduced to $3,400 from $3,500 by TD Cowen
+- 09/23 13:00 [FirstSquawk] Jefferies trims Haleon price target to 400p from 410p
+- 09/23 13:02 [FirstSquawk] Novo considers upgrading its US listing, FT reports
+- 09/23 13:03 [FirstSquawk] Novo may upgrade New York listing as part of push to boost US profile - FT

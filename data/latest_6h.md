@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 12:51 JST／対象: 09/23 06:51 〜 09/23 12:51 JST（時刻はすべて日本時間）
+生成: 2026-09-23 13:03 JST／対象: 09/23 07:03 〜 09/23 13:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 99 | 09/23 06:58 | 09/23 12:48 | ⚠ 63分（07:00→08:04） |
+| FirstSquawk | 100 | 09/23 08:04 | 09/23 13:03 | 11分（10:59→11:10） |
 | financialjuice | 24 | 09/23 07:28 | 09/23 12:39 | ⚠ 54分（11:44→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 123 行（統合前 123 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 124 行（統合前 124 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 06:58 [FirstSquawk] BLAST SOUND HEARD NEAR IRAN’S QESHM ISLAND — IRNA
-- 09/23 06:58 [FirstSquawk] IRNA: BLAST SOUND SEEMED TO ORIGINATE FROM THE SEA; NO EFFECTS REPORTED ON IRAN’S QESHM ISLAND
-- 09/23 07:00 [FirstSquawk] NASA AND SPACEX: TARGETING 11:10AM EDT ON OCTOBER 1 AS EARLIEST LAUNCH OPPORTUNITY FOR CREW-13 MISSION TO INTERNATIONAL SPACE STATION
 - 09/23 07:28 [financialjuice] World Labs founder Fei-Fei Li calls for independent oversight of AI
 - 09/23 07:28 [financialjuice] AWS: Amazon CloudWatch Omni now widely available; IDE extension at no cost - blog
 - 09/23 08:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FLASH ACTUAL 50.8 (FORECAST -, PREVIOUS 52.7) $MACRO
@@ -147,3 +144,7 @@
 - 09/23 12:39 [FirstSquawk] World Bank makes up to $170 million available for Nepal’s immediate flood response
 - 09/23 12:39 [financialjuice] China finance ministry offers 3-month bills at 1.1101% yield: traders
 - 09/23 12:48 [FirstSquawk] Singapore dollar eases ahead of August inflation figures - WSJ
+- 09/23 12:53 [FirstSquawk] AutoZone target price reduced to $3,400 from $3,500 by TD Cowen
+- 09/23 13:00 [FirstSquawk] Jefferies trims Haleon price target to 400p from 410p
+- 09/23 13:02 [FirstSquawk] Novo considers upgrading its US listing, FT reports
+- 09/23 13:03 [FirstSquawk] Novo may upgrade New York listing as part of push to boost US profile - FT
