@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 22:37 JST／対象: 09/22 22:37 〜 09/23 22:37 JST（時刻はすべて日本時間）
+生成: 2026-09-23 22:51 JST／対象: 09/22 22:51 〜 09/23 22:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 30 | 09/23 04:42 | 09/23 22:36 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 340 | 09/22 22:41 | 09/23 22:36 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 292 | 09/22 22:52 | 09/23 22:36 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 36 | 09/23 04:42 | 09/23 22:50 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 344 | 09/22 22:55 | 09/23 22:51 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 301 | 09/22 22:52 | 09/23 22:51 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 641 行（統合前 668 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 659 行（統合前 687 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 22:41 [FirstSquawk] TRUMP TELLS CNN SHOULDN'T BE COVERING HIM
-- 09/22 22:42 [FirstSquawk] TRUMP SAYS HE WANTS TO SETTLE THE WAR
-- 09/22 22:47 [FirstSquawk] US PRESIDENT TRUMP’S ‘MESSAGE’ TO PUTIN: SETTLE THE WAR
 - 09/22 22:52 [financialjuice] Fed's Collins: A somewhat more restrictive federal funds rate will help ensure that inflation durably returns to target.
 - 09/22 22:52 [financialjuice] Trump speaks at the UN - WATCH LIVE
 - 09/22 22:52 [financialjuice] Iran's President Pezeshkian departs Algeria for New York - Iranian Media.
@@ -665,3 +662,24 @@
 - 09/23 22:36 [DeItaone/FirstSquawk] IRAN'S SECURITY CHIEF MOHSEN REZAEI SAYS AS LONG AS IRAN'S CONDITIONS ARE NOT MET HORMUZ WILL NOT BE REOPENED AND THERE WILL BE NO NEGOTIATIONS
 - 09/23 22:36 [financialjuice] Iran's General Razai: Iran has not been in a hurry to negotiate; today, Iran's conditions have been compiled and are currently in the hands of the Qatari and Pakistani parties - IRIB News.
 - 09/23 22:36 [FirstSquawk] IRAN'S SECURITY CHIEF MOHSEN REZAEI: AS LONG AS IRAN'S CONDITIONS ARE NOT MET HORMUZ WILL NOT BE REOPENED AND THERE WILL BE NO NEGOTIATIONS
+- 09/23 22:37 [financialjuice] Iran's General Razai: We are reverse-engineering an American submarine - Fars News.
+- 09/23 22:39 [financialjuice] US Energy Secretary Wright: A diesel exports ban could raise gasoline prices.
+- 09/23 22:41 [FirstSquawk] ITALY FINMIN GIORGETTI: GROWING CONSENSUS IN EU ON WINDFALL TAX ON ENERGY SECTOR
+- 09/23 22:42 [DeItaone/FirstSquawk] REZAEI SAYS IF NEIGHBORING COUNTRIES GO ALONG WITH U.S. IN STOPPING IRANIAN FLIGHTS, THEIR AIRPORTS WON'T BE ABLE TO WORK
+- 09/23 22:43 [DeItaone] IRAN TIES HORMUZ REOPENING TO U.S. COMPLIANCE Iran’s security chief says Tehran will not return to the situation before Islamabad, reiterating that Washington must comply with Iran’s seven conditions. “If the United States does not comply,”…
+- 09/23 22:43 [financialjuice] Iran's General Razai: If neighboring countries go along with the US in stopping Iranian flights, their airports won't be able to work.
+- 09/23 22:44 [financialjuice] Iran's Araghchi: I warned European officials against supporting the war crimes of the United States and Israel - Post on X.
+- 09/23 22:44 [DeItaone] IRAN SAYS IT’S IN NO RUSH TO NEGOTIATE Iran’s security chief Ali Rezaei says Tehran is “not in a hurry” to negotiate, maintaining a firm stance toward potential talks. Rezaei said Iran’s conditions have now been finalized and handed to Qata…
+- 09/23 22:45 [financialjuice] ❗ US S&P MANUFACTURING PMI FLASH ACTUAL 57 (FORECAST 53.7, PREVIOUS 53.9) $MACRO
+- 09/23 22:45 [financialjuice] US S&P COMPOSITE PMI FLASH ACTUAL 58.4 (FORECAST 55.3, PREVIOUS 56.0) $MACRO
+- 09/23 22:45 [financialjuice] ❗ US S&P SERVICES PMI FLASH ACTUAL 58.7 (FORECAST 55.8, PREVIOUS 56.5) $MACRO
+- 09/23 22:45 [DeItaone] *US S&P GLOBAL SEPT. COMPOSITE PMI RISES TO FIVE-YEAR HIGH
+- 09/23 22:45 [FirstSquawk] US S&P GLOBAL SERVICES PMI (SEP) ACTUAL: 58.7 VS 56.5 PREVIOUS; EST 55.8
+- 09/23 22:45 [FirstSquawk] US S&P GLOBAL MANUFACTURING PMI (SEP) ACTUAL: 57 VS 53.9 PREVIOUS; EST 53.7
+- 09/23 22:46 [FirstSquawk] US SEPT. COMPOSITE PMI 58.4 VS PRIOR 56
+- 09/23 22:46 [financialjuice] US S&P September Prelim PMI Report
+- 09/23 22:47 [DeItaone] U.S. S&P GLOBAL SEPTEMBER FLASH MANUFACTURING PMI AT 57.0 (FORECAST 53.6) U.S. S&P GLOBAL SEPTEMBER FLASH SERVICES PMI AT 58.7 (FORECAST 56.0) U.S. S&P GLOBAL SEPTEMBER FLASH COMPOSITE PMI AT 58.4 (VS 56.0 IN AUGUST)
+- 09/23 22:47 [FirstSquawk] US TREASURIES EXTEND SLIDE AFTER STRONG S&P GLOBAL US PMI GAUGES
+- 09/23 22:50 [DeItaone] U.S. TREASURY YIELDS RISE FURTHER AFTER DATA; YIELD ON 10-YEAR TREASURY NOTE LAST UP 5.81 BASIS POINTS AT 5.025%
+- 09/23 22:51 [FirstSquawk] IRAN'S ARAGHCHI: I WARNED EUROPEAN OFFICIALS AGAINST SUPPORTING THE WAR CRIMES OF THE UNITED STATES AND ISRAEL
+- 09/23 22:51 [financialjuice] Iran's General Razai: In our new diplomacy, we have a leverage called the Strait of Hormuz, which guarantees negotiations - Fars News.
