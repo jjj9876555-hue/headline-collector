@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 06:58 JST／対象: 09/24 00:58 〜 09/24 06:58 JST（時刻はすべて日本時間）
+生成: 2026-09-24 07:17 JST／対象: 09/24 01:17 〜 09/24 07:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 09/24 01:00 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 64 | 09/24 01:15 | 09/24 06:44 | ⚠ 77分（05:26→06:44） |
-| financialjuice | 61 | 09/24 01:02 | 09/24 06:57 | 42分（05:39→06:22） |
+| DeItaone | 15 | 09/24 01:59 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 63 | 09/24 01:23 | 09/24 06:44 | ⚠ 77分（05:26→06:44） |
+| financialjuice | 57 | 09/24 01:30 | 09/24 07:13 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 141 行（統合前 144 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 133 行（統合前 136 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 01:00 [DeItaone] IRAN HARDLINERS ATTACK FOREIGN MINISTER OVER U.S. CONTACTS Iranian hardline outlets are escalating criticism of Foreign Minister Abbas Araghchi after Iranian officials reportedly met U.S. envoy Steve Witkoff in New York. IRGC-linked Tasnim …
-- 09/24 01:02 [financialjuice] Israel's N12 News: The "Together" party leader Bennett calls on Israeli PM Netanyahu to declare Qatar an enemy state during UN General Assembly speech, coalition and opposition would support move.
-- 09/24 01:04 [financialjuice] Senators aim to fast-track Chinese vehicle ban legislation this week as China's Xi visits Washington - Document.
-- 09/24 01:04 [financialjuice] Israel's Channel 12 News: The "Together" party leader Bennett calls on Israeli PM Netanyahu to declare Qatar an enemy state during UN General Assembly speech, coalition and opposition would support move.
-- 09/24 01:05 [DeItaone] ANTHROPIC LEADERS BACK PILGRIM STARTUP DEVELOPING SYSTEM TO DETECT BIOLOGICAL THREATS - WSJ
-- 09/24 01:07 [DeItaone] ANTHROPIC LEADERS BACK AI-ERA BIODEFENSE STARTUP Two Anthropic leaders invested in Pilgrim, a startup developing technology to detect airborne biological threats such as Ebola and anthrax. Pilgrim raised $25 million at a $150 million valuat…
-- 09/24 01:11 [financialjuice] Russian Foreign Minister Lavrov and US Secretary of State Rubio discussed the situation in the Middle East, the Transcaucasus, Latin America, and the Caribbean.
-- 09/24 01:11 [financialjuice] Russian Foreign Minister Lavrov emphasised the need to restore bilateral relations as soon as possible.
-- 09/24 01:12 [financialjuice] Russian Foreign Minister Lavrov: An agreement has been reached to continue discussions.
-- 09/24 01:15 [FirstSquawk] RUSSIA'S LAVROV, US SEC. OF STATE RUBIO DISCUSSED THE SITUATION IN MIDDLE EAST, THE TRANSCAUCASUS, LATAM AND CARIBBEAN – FOREIGN MINISTRY
 - 09/24 01:23 [FirstSquawk] EU BREXIT CHIEF: UK CAN GET A CANADA-STYLE MEMBERSHIP DEAL
 - 09/24 01:30 [financialjuice] IMF: The Middle East war since late February has significantly altered global growth trajectory through energy, commodity and supply-chain disruptions.
 - 09/24 01:30 [financialjuice] IMF: Global public debt was already near record highs when Middle East war began.
@@ -165,3 +155,5 @@
 - 09/24 06:36 [financialjuice/FirstSquawk] Chinese President Xi Jinping arrives for state visit to U.S.: Xinhua
 - 09/24 06:39 [financialjuice] OpenAI: alerted services in Australia about incident on Sept. 10
 - 09/24 06:57 [financialjuice] Morocco's parliamentary election turnout at 38.02%, interior ministry says
+- 09/24 07:06 [financialjuice] US Treasury Secretary Bessent: U.S., China agreed Wednesday to prolong Busan agreement
+- 09/24 07:13 [financialjuice] US Treasury Secretary Bessent: reports that he will likely be Trump's al czar are probably fake news
