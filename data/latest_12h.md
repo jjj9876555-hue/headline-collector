@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 03:21 JST／対象: 09/23 15:21 〜 09/24 03:21 JST（時刻はすべて日本時間）
+生成: 2026-09-24 03:38 JST／対象: 09/23 15:38 〜 09/24 03:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 78 | 09/23 18:24 | 09/24 03:21 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 141 | 09/23 15:23 | 09/24 03:09 | 34分（01:56→02:31） |
-| financialjuice | 168 | 09/23 15:22 | 09/24 03:14 | ⚠ 71分（18:33→19:45） |
+| DeItaone | 80 | 09/23 18:24 | 09/24 03:30 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 143 | 09/23 15:51 | 09/24 03:37 | 34分（01:56→02:31） |
+| financialjuice | 170 | 09/23 16:01 | 09/24 03:31 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 370 行（統合前 389 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 376 行（統合前 396 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 15:22 [financialjuice] Iran's Deputy Oil Minister: Half of the damaged capacity of the South Pars gas field is back in production - Fars News
-- 09/23 15:23 [FirstSquawk] Half of damaged South Pars gas capacity resumes production, Iran says - Fars News
-- 09/23 15:33 [FirstSquawk] TotalEnergies starts Ima gas project to support Nigeria LNG plant
 - 09/23 15:51 [FirstSquawk] GBP/USD tests support near 1.3300, UOB says
 - 09/23 16:01 [financialjuice] Currency Strength Chart: Strongest: USD, CAD, CHF, JPY, GBP, EUR, AUD, NZD - Weakest
 - 09/23 16:03 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.34% || FRANCE'S CAC 40 UP 0.39% || SPAIN'S IBEX UP 0.59%
@@ -394,3 +391,12 @@
 - 09/24 03:09 [FirstSquawk] GOOGLE BEAM WILL ALSO BE AVAILABLE AT INDUSTRIOUS COWORKING LOCATIONS STARTING IN OCTOBER, WITH INITIAL DEPLOYMENTS IN ATLANTA, CHICAGO, NEW YORK CITY AND PALO ALTO.
 - 09/24 03:14 [financialjuice] Spain's PM Sanchez: EU needs to reduce its dependency on China.
 - 09/24 03:21 [DeItaone] TRUMP PRESSES VENEZUELA TO KEEP OIL FLOWING President Trump emphasized continued Venezuelan oil flows during his first meeting with acting President Delcy Rodriguez, Axios reports. Trump did not demand a date for future elections but stress…
+- 09/24 03:30 [DeItaone] HASSETT QUESTIONS FED'S DECISION TO HIKE RATES
+- 09/24 03:30 [DeItaone] HASSETT SAYS WARSH MANAGES UNUSUALLY PARTISAN FEDERAL RESERVE
+- 09/24 03:31 [financialjuice] NYMEX WTI Crude Nov. futures settle at $92.16 a barrel up $1.64, 1.81%
+- 09/24 03:31 [financialjuice] NYMEX gasoline Oct. futures settle at $3.5870 a gallon
+- 09/24 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.7764 a gallon
+- 09/24 03:33 [FirstSquawk] ANTHROPIC LAUNCHES NEW LIFE SCIENCES RESEARCH GROUP & LABORATORY
+- 09/24 03:34 [FirstSquawk] SPAIN PM SANCHEZ BACKS DE COS FOR NEXT ECB PRESIDENT; SAYS EU MUST REDUCE DEPENDENCY ON CHINA
+- 09/24 03:34 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.81% HIGHER AT $92.16/BBL, UP $1.64
+- 09/24 03:37 [FirstSquawk] US SEN. COLLINS: WHITE HOUSE AGREES TO HOLD OFF ON NIH GRANT ORDER

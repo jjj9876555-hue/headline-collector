@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 03:21 JST／対象: 09/23 21:21 〜 09/24 03:21 JST（時刻はすべて日本時間）
+生成: 2026-09-24 03:38 JST／対象: 09/23 21:38 〜 09/24 03:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 63 | 09/23 21:25 | 09/24 03:21 | ⚠ 51分（01:07→01:59） |
-| FirstSquawk | 96 | 09/23 21:23 | 09/24 03:09 | 34分（01:56→02:31） |
-| financialjuice | 128 | 09/23 21:22 | 09/24 03:14 | 23分（21:24→21:48） |
+| DeItaone | 64 | 09/23 21:44 | 09/24 03:30 | ⚠ 51分（01:07→01:59） |
+| FirstSquawk | 97 | 09/23 21:46 | 09/24 03:37 | 34分（01:56→02:31） |
+| financialjuice | 129 | 09/23 21:48 | 09/24 03:31 | 22分（02:06→02:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 274 行（統合前 289 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 278 行（統合前 293 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 21:22 [financialjuice] BofA's Demare: Continued strength in macroeconomic backdrop
-- 09/23 21:23 [FirstSquawk/DeItaone] BOFA'S DEMARE: 3Q WILL NOT BE AS ROBUST IN MARKETS AS 2Q WAS
-- 09/23 21:24 [financialjuice] BofA's Demare: Q3 will not be as robust in markets as Q2 was
-- 09/23 21:28 [FirstSquawk] BOFA'S CO-PRES DEMARE: CONTINUED STRENGTH IN MACROECONOMIC BACKDROP
-- 09/23 21:35 [FirstSquawk] RUSSIAN GUIDED BOMB ATTACK IN OLEKSANDRIVKA, DONETSK, KILLED FOUR AND INJURED FOUR, DESTROYING A MULTI-STORY BUILDING.
 - 09/23 21:44 [DeItaone] DEMOCRATS HOLD 12-POINT MIDTERM EDGE IN NEW POLL Democrats lead Republicans 53% to 41% among registered voters in the latest NPR/PBS News/Marist poll. Trump’s approval stands at 39%, while 59% disapprove. 45% of voters say their congression…
 - 09/23 21:46 [FirstSquawk] CANADIAN PM CARNEY COMMENTS ON TRUMP'S CALL TO 'ANNIHILATE' IRAN, STATING 'HE'S USING WAR LANGUAGE.'
 - 09/23 21:48 [financialjuice] Morgan Stanley investment-banking deal list accidently leaked - People Familiar
@@ -298,3 +293,12 @@
 - 09/24 03:09 [FirstSquawk] GOOGLE BEAM WILL ALSO BE AVAILABLE AT INDUSTRIOUS COWORKING LOCATIONS STARTING IN OCTOBER, WITH INITIAL DEPLOYMENTS IN ATLANTA, CHICAGO, NEW YORK CITY AND PALO ALTO.
 - 09/24 03:14 [financialjuice] Spain's PM Sanchez: EU needs to reduce its dependency on China.
 - 09/24 03:21 [DeItaone] TRUMP PRESSES VENEZUELA TO KEEP OIL FLOWING President Trump emphasized continued Venezuelan oil flows during his first meeting with acting President Delcy Rodriguez, Axios reports. Trump did not demand a date for future elections but stress…
+- 09/24 03:30 [DeItaone] HASSETT QUESTIONS FED'S DECISION TO HIKE RATES
+- 09/24 03:30 [DeItaone] HASSETT SAYS WARSH MANAGES UNUSUALLY PARTISAN FEDERAL RESERVE
+- 09/24 03:31 [financialjuice] NYMEX WTI Crude Nov. futures settle at $92.16 a barrel up $1.64, 1.81%
+- 09/24 03:31 [financialjuice] NYMEX gasoline Oct. futures settle at $3.5870 a gallon
+- 09/24 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.7764 a gallon
+- 09/24 03:33 [FirstSquawk] ANTHROPIC LAUNCHES NEW LIFE SCIENCES RESEARCH GROUP & LABORATORY
+- 09/24 03:34 [FirstSquawk] SPAIN PM SANCHEZ BACKS DE COS FOR NEXT ECB PRESIDENT; SAYS EU MUST REDUCE DEPENDENCY ON CHINA
+- 09/24 03:34 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.81% HIGHER AT $92.16/BBL, UP $1.64
+- 09/24 03:37 [FirstSquawk] US SEN. COLLINS: WHITE HOUSE AGREES TO HOLD OFF ON NIH GRANT ORDER

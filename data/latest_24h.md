@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 03:21 JST／対象: 09/23 03:21 〜 09/24 03:21 JST（時刻はすべて日本時間）
+生成: 2026-09-24 03:38 JST／対象: 09/23 03:38 〜 09/24 03:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 80 | 09/23 04:42 | 09/24 03:21 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 336 | 09/23 03:35 | 09/24 03:09 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 273 | 09/23 03:31 | 09/24 03:14 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 82 | 09/23 04:42 | 09/24 03:30 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 338 | 09/23 03:43 | 09/24 03:37 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 272 | 09/23 03:44 | 09/24 03:31 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 667 行（統合前 692 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 670 行（統合前 696 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 03:31 [financialjuice] NYMEX WTI Crude Oct. futures settle at $94.59 a barrel down $1.19, 1.24%
-- 09/23 03:31 [financialjuice] NYMEX diesel Oct. futures settle at $4.9421 a gallon
-- 09/23 03:31 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.4875 a gallon
-- 09/23 03:31 [financialjuice] NYMEX nat Gas Oct. futures settle at $2.9650/MMBTU
-- 09/23 03:35 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.24% LOWER AT $94.59/BBL, DOWN $1.19
-- 09/23 03:36 [FirstSquawk] OPENAI INTRODUCES GPT-6 SOL & LUNA, EXPANDING THE GPT-6 MODEL FAMILY
 - 09/23 03:43 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 1.09% LOWER AT $99.25/BBL, DOWN $1.09
 - 09/23 03:44 [financialjuice] Brent Crude futures settle at $99.25/bbl, down $1.09, 1.09%
 - 09/23 03:45 [FirstSquawk] INDIA’S PM MODI EXPECTED TO VISIT CANADA IN DECEMBER TO SIGN TRADE DEAL — GLOBE & MAIL
@@ -691,3 +685,12 @@
 - 09/24 03:09 [FirstSquawk] GOOGLE BEAM WILL ALSO BE AVAILABLE AT INDUSTRIOUS COWORKING LOCATIONS STARTING IN OCTOBER, WITH INITIAL DEPLOYMENTS IN ATLANTA, CHICAGO, NEW YORK CITY AND PALO ALTO.
 - 09/24 03:14 [financialjuice] Spain's PM Sanchez: EU needs to reduce its dependency on China.
 - 09/24 03:21 [DeItaone] TRUMP PRESSES VENEZUELA TO KEEP OIL FLOWING President Trump emphasized continued Venezuelan oil flows during his first meeting with acting President Delcy Rodriguez, Axios reports. Trump did not demand a date for future elections but stress…
+- 09/24 03:30 [DeItaone] HASSETT QUESTIONS FED'S DECISION TO HIKE RATES
+- 09/24 03:30 [DeItaone] HASSETT SAYS WARSH MANAGES UNUSUALLY PARTISAN FEDERAL RESERVE
+- 09/24 03:31 [financialjuice] NYMEX WTI Crude Nov. futures settle at $92.16 a barrel up $1.64, 1.81%
+- 09/24 03:31 [financialjuice] NYMEX gasoline Oct. futures settle at $3.5870 a gallon
+- 09/24 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.7764 a gallon
+- 09/24 03:33 [FirstSquawk] ANTHROPIC LAUNCHES NEW LIFE SCIENCES RESEARCH GROUP & LABORATORY
+- 09/24 03:34 [FirstSquawk] SPAIN PM SANCHEZ BACKS DE COS FOR NEXT ECB PRESIDENT; SAYS EU MUST REDUCE DEPENDENCY ON CHINA
+- 09/24 03:34 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.81% HIGHER AT $92.16/BBL, UP $1.64
+- 09/24 03:37 [FirstSquawk] US SEN. COLLINS: WHITE HOUSE AGREES TO HOLD OFF ON NIH GRANT ORDER
