@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 18:52 JST／対象: 09/23 06:52 〜 09/23 18:52 JST（時刻はすべて日本時間）
+生成: 2026-09-23 19:04 JST／対象: 09/23 07:04 〜 09/23 19:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/23 18:24 | 09/23 18:50 | 11分（18:24→18:35） |
-| FirstSquawk | 156 | 09/23 06:58 | 09/23 18:39 | ⚠ 63分（07:00→08:04） |
+| FirstSquawk | 156 | 09/23 08:04 | 09/23 19:02 | 30分（17:00→17:31） |
 | financialjuice | 64 | 09/23 07:28 | 09/23 18:33 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 226 行（統合前 228 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 225 行（統合前 228 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 06:58 [FirstSquawk] BLAST SOUND HEARD NEAR IRAN’S QESHM ISLAND — IRNA
-- 09/23 06:58 [FirstSquawk] IRNA: BLAST SOUND SEEMED TO ORIGINATE FROM THE SEA; NO EFFECTS REPORTED ON IRAN’S QESHM ISLAND
-- 09/23 07:00 [FirstSquawk] NASA AND SPACEX: TARGETING 11:10AM EDT ON OCTOBER 1 AS EARLIEST LAUNCH OPPORTUNITY FOR CREW-13 MISSION TO INTERNATIONAL SPACE STATION
 - 09/23 07:28 [financialjuice] World Labs founder Fei-Fei Li calls for independent oversight of AI
 - 09/23 07:28 [financialjuice] AWS: Amazon CloudWatch Omni now widely available; IDE extension at no cost - blog
 - 09/23 08:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FLASH ACTUAL 50.8 (FORECAST -, PREVIOUS 52.7) $MACRO
@@ -249,4 +246,6 @@
 - 09/23 18:42 [DeItaone] TRUMP-XI TALKS UNLIKELY TO DELIVER CHIP BREAKTHROUGH Thursday’s Trump-Xi summit is unlikely to produce relief on semiconductors or rare earths, according to Jefferies. The most likely outcome is progress on a U.S.-China Board of Trade aimed…
 - 09/23 18:44 [DeItaone] GOLDMAN: CHINA OIL IMPORTS LIKELY TO STAY WEAK Goldman Sachs expects China’s crude imports to remain subdued if oil prices stay elevated, limiting hopes for a sharp demand rebound. Chinese seaborne imports remain nearly 3 million barrels pe…
 - 09/23 18:44 [DeItaone] DOLLAR HITS 8-WEEK HIGH AS FED HIKE BETS SURGE The dollar climbed to an eight-week high, with the DXY reaching 100.862 as expectations for further Fed tightening strengthened. Markets now price a 53% chance of another 25bp hike in October, …
-- 09/23 18:50 [DeItaone] SPOT SILVER FALLS 3% TO $65.05/OZ
+- 09/23 18:50 [DeItaone/FirstSquawk] SPOT SILVER FALLS 3% TO $65.05/OZ
+- 09/23 19:02 [FirstSquawk] OPENAI’S SAM ALTMAN TO PROMOTE AI STANDARDS DURING HIS UN SPEECH
+- 09/23 19:02 [FirstSquawk] BRAZIL’S LULA HAS 47.7%, BOLSONARO 47.4% IN RUNOFF POLL

@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 18:52 JST／対象: 09/23 12:52 〜 09/23 18:52 JST（時刻はすべて日本時間）
+生成: 2026-09-23 19:04 JST／対象: 09/23 13:04 〜 09/23 19:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 8 | 09/23 18:24 | 09/23 18:50 | 11分（18:24→18:35） |
-| FirstSquawk | 57 | 09/23 12:53 | 09/23 18:39 | 30分（17:00→17:31） |
-| financialjuice | 40 | 09/23 13:04 | 09/23 18:33 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 54 | 09/23 13:11 | 09/23 19:02 | 30分（17:00→17:31） |
+| financialjuice | 39 | 09/23 13:10 | 09/23 18:33 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 103 行（統合前 105 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 98 行（統合前 101 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 12:53 [FirstSquawk] AutoZone target price reduced to $3,400 from $3,500 by TD Cowen
-- 09/23 13:00 [FirstSquawk] Jefferies trims Haleon price target to 400p from 410p
-- 09/23 13:02 [FirstSquawk] Novo considers upgrading its US listing, FT reports
-- 09/23 13:03 [FirstSquawk] Novo may upgrade New York listing as part of push to boost US profile - FT
-- 09/23 13:03 [FirstSquawk] China takes stock of Broadcom gear as domestic AI drive gathers pace - FT
-- 09/23 13:04 [financialjuice] Chinese authorities examine use of Broadcom hardware in state-backed data centers amid push to support local manufacturers - FT
-- 09/23 13:04 [FirstSquawk] Chinese authorities review Broadcom hardware in state-backed data centres as local producers gain focus - FT
 - 09/23 13:10 [financialjuice] Japan PM Takaichi: agreed with President Trump at meeting to enhance economic security partnership
 - 09/23 13:11 [FirstSquawk] Japan’s Takaichi says Trump meeting produced agreement to strengthen economic security ties
 - 09/23 13:17 [FirstSquawk] Takaichi says she and Trump discussed China ahead of US-China summit
@@ -126,4 +119,6 @@
 - 09/23 18:42 [DeItaone] TRUMP-XI TALKS UNLIKELY TO DELIVER CHIP BREAKTHROUGH Thursday’s Trump-Xi summit is unlikely to produce relief on semiconductors or rare earths, according to Jefferies. The most likely outcome is progress on a U.S.-China Board of Trade aimed…
 - 09/23 18:44 [DeItaone] GOLDMAN: CHINA OIL IMPORTS LIKELY TO STAY WEAK Goldman Sachs expects China’s crude imports to remain subdued if oil prices stay elevated, limiting hopes for a sharp demand rebound. Chinese seaborne imports remain nearly 3 million barrels pe…
 - 09/23 18:44 [DeItaone] DOLLAR HITS 8-WEEK HIGH AS FED HIKE BETS SURGE The dollar climbed to an eight-week high, with the DXY reaching 100.862 as expectations for further Fed tightening strengthened. Markets now price a 53% chance of another 25bp hike in October, …
-- 09/23 18:50 [DeItaone] SPOT SILVER FALLS 3% TO $65.05/OZ
+- 09/23 18:50 [DeItaone/FirstSquawk] SPOT SILVER FALLS 3% TO $65.05/OZ
+- 09/23 19:02 [FirstSquawk] OPENAI’S SAM ALTMAN TO PROMOTE AI STANDARDS DURING HIS UN SPEECH
+- 09/23 19:02 [FirstSquawk] BRAZIL’S LULA HAS 47.7%, BOLSONARO 47.4% IN RUNOFF POLL

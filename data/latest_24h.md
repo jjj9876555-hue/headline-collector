@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 18:52 JST／対象: 09/22 18:52 〜 09/23 18:52 JST（時刻はすべて日本時間）
+生成: 2026-09-23 19:04 JST／対象: 09/22 19:04 〜 09/23 19:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 31 | 09/22 19:18 | 09/23 18:50 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 343 | 09/22 18:57 | 09/23 18:39 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 312 | 09/22 18:52 | 09/23 18:33 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 345 | 09/22 19:05 | 09/23 19:02 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 305 | 09/22 20:54 | 09/23 18:33 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 670 行（統合前 694 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 664 行（統合前 689 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 18:52 [financialjuice] Senior Iranian official: Tehran welcomes revival of diplomacy if the US takes tangible steps
-- 09/22 18:53 [financialjuice] Senior Iranian Official: Iranian delegation is in New York with full authority to revive diplomacy with the US
-- 09/22 18:53 [financialjuice] Senior Iranian Official: Details of an agreement to end hostilities with us can be discussed in New York via mediators
-- 09/22 18:54 [financialjuice] ❗ Senior Iranian official: Iran can reopen Hormuz within seven days if the US eases military pressure and lifts the port blockade
-- 09/22 18:55 [financialjuice] Senior Iranian Official: Iran's proposal was delivered to the US via mediators on September 16th
-- 09/22 18:57 [FirstSquawk] SAUDI ARABIA: RESTARTS EAST-WEST OIL PIPELINE || PREPARES TO RESUME CRUDE OIL EXPORTS FROM YANBU PORT LATER ON TUESDAY - TRADE SOURCES
-- 09/22 18:57 [financialjuice] Saudi Arabia restarts East-West oil pipeline - Trade sources
-- 09/22 18:57 [financialjuice] Saudi Arabia prepares to resume crude oil exports from Yanbu port later on Tuesday - Trade sources
 - 09/22 19:05 [FirstSquawk] CHINA COMMERCE MINISTER: URGES THE BLOC NOT TO PURSUE PROTECTIONISM THAT COULD RESTRICT OR CLOSE MARKETS AND TRIGGER WIDER GLOBAL FRAGMENTATION
 - 09/22 19:07 [FirstSquawk] CHINA COMMERCE MINISTER HELD CALL WITH EU AUTO INDUSTRY HEAD
 - 09/22 19:09 [FirstSquawk] BRENT, US CRUDE FUTURES EXTEND FALL TO ITS LOWEST LEVEL SINCE SEPTEMBER 8 ON HOPES OF INCREASED SUPPLIES FROM THE GULF
@@ -693,4 +685,6 @@
 - 09/23 18:42 [DeItaone] TRUMP-XI TALKS UNLIKELY TO DELIVER CHIP BREAKTHROUGH Thursday’s Trump-Xi summit is unlikely to produce relief on semiconductors or rare earths, according to Jefferies. The most likely outcome is progress on a U.S.-China Board of Trade aimed…
 - 09/23 18:44 [DeItaone] GOLDMAN: CHINA OIL IMPORTS LIKELY TO STAY WEAK Goldman Sachs expects China’s crude imports to remain subdued if oil prices stay elevated, limiting hopes for a sharp demand rebound. Chinese seaborne imports remain nearly 3 million barrels pe…
 - 09/23 18:44 [DeItaone] DOLLAR HITS 8-WEEK HIGH AS FED HIKE BETS SURGE The dollar climbed to an eight-week high, with the DXY reaching 100.862 as expectations for further Fed tightening strengthened. Markets now price a 53% chance of another 25bp hike in October, …
-- 09/23 18:50 [DeItaone] SPOT SILVER FALLS 3% TO $65.05/OZ
+- 09/23 18:50 [DeItaone/FirstSquawk] SPOT SILVER FALLS 3% TO $65.05/OZ
+- 09/23 19:02 [FirstSquawk] OPENAI’S SAM ALTMAN TO PROMOTE AI STANDARDS DURING HIS UN SPEECH
+- 09/23 19:02 [FirstSquawk] BRAZIL’S LULA HAS 47.7%, BOLSONARO 47.4% IN RUNOFF POLL
