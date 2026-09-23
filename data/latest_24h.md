@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 10:15 JST／対象: 09/22 10:15 〜 09/23 10:15 JST（時刻はすべて日本時間）
+生成: 2026-09-23 10:32 JST／対象: 09/22 10:32 〜 09/23 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 355 | 09/22 10:16 | 09/23 10:15 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 320 | 09/22 12:21 | 09/23 10:15 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 353 | 09/22 10:34 | 09/23 10:27 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 321 | 09/22 12:21 | 09/23 10:21 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 684 行（統合前 706 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 683 行（統合前 705 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 10:16 [FirstSquawk] China’s central bank sets yuan reference rate at 6.7459 per dollar
-- 09/22 10:17 [FirstSquawk] Lithuania PM says country ready to “fight back” but has evacuation plans amid Russia threats — BBC
-- 09/22 10:17 [FirstSquawk] Yuan midpoint set at strongest level since February 2023 by China
-- 09/22 10:21 [FirstSquawk] PBOC injects 35 bln yuan through 7-day reverse repos, rate unchanged at 1.40%
-- 09/22 10:24 [FirstSquawk] EU’s von der Leyen says free trade agreement agreed with Philippines
-- 09/22 10:27 [FirstSquawk] China’s STAR 50 Index set for a 2.5% gain at the open
-- 09/22 10:30 [FirstSquawk] Hang Seng AI Index poised to jump nearly 3% at the open
 - 09/22 10:34 [FirstSquawk] Xbox plans hundreds of job cuts as it consolidates game studios — The Information
 - 09/22 10:43 [FirstSquawk] Canadian dollar falls to lowest level since Aug. 5 as US dollar strength weighs — FXStreet
 - 09/22 10:52 [FirstSquawk] Japan reiterates support for Nepal following flash floods at UN meeting — Kyodo
@@ -708,3 +701,9 @@
 - 09/23 10:14 [FirstSquawk] South Korea’s Lee to hold talks with Trump on sidelines of UN General Assembly - media
 - 09/23 10:15 [financialjuice] South Korean president Lee holds 30-minute meeting with Trump: S. Korea presidential office
 - 09/23 10:15 [FirstSquawk] South Korean President Lee meets Trump for 30 minutes, presidential office says
+- 09/23 10:16 [FirstSquawk] China’s PBOC sets yuan reference rate at 6.7468 per dollar
+- 09/23 10:21 [financialjuice] China injects 8 bln yuan with 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/23 10:22 [FirstSquawk] South Korea’s Lee, Trump hail major progress in talks on strategic investment projects
+- 09/23 10:22 [FirstSquawk] Lee highlights importance of U.S.-China summit for regional affairs, presidential office says
+- 09/23 10:23 [FirstSquawk] South Korea’s Lee, Trump reaffirm cooperation on nuclear submarines, fuel reprocessing and shipbuilding
+- 09/23 10:27 [FirstSquawk] GM CEO Mary Barra set to attend Trump’s state dinner for Xi, Reuters reports

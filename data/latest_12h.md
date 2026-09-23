@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 10:15 JST／対象: 09/22 22:15 〜 09/23 10:15 JST（時刻はすべて日本時間）
+生成: 2026-09-23 10:32 JST／対象: 09/22 22:32 〜 09/23 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 213 | 09/22 22:18 | 09/23 10:15 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 224 | 09/22 22:29 | 09/23 10:15 | ⚠ 46分（09:15→10:01） |
+| FirstSquawk | 215 | 09/22 22:33 | 09/23 10:27 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 222 | 09/22 22:33 | 09/23 10:21 | ⚠ 46分（09:15→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 429 行（統合前 445 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,12 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 22:18 [FirstSquawk] EXPLOSIONS OCCURRED IN THE STRAIT OF HORMUZ AFTER IRGC ATTACKED SHIPS.
-- 09/22 22:27 [FirstSquawk] IRAN FM ARAGHCHI MET ITALIAN COUNTERPART TAJANI IN NEW YORK - TASNIM
-- 09/22 22:29 [financialjuice] Libya's NOC: The Sharara-Zawiya Crude loading pipeline closure leads to daily losses of around 130,000 bpd - Statement.
-- 09/22 22:30 [financialjuice] Libya's NOC: Expect losses to rise if the shutdown persists.
-- 09/22 22:30 [financialjuice] ❗ MOO IMBALANCE S&P 500: -64.9 MLN NASDAQ 100: -80.7 MLN DOW 30: -55.4 MLN MAG 7: -47.6 MLN $MACRO
-- 09/22 22:31 [FirstSquawk] S&P 500 UP 7.39 POINTS, OR 0.10 PERCENT, AT 7,772.09 AFTER MARKET OPEN NASDAQ UP 50.36 POINTS, OR 0.19 PERCENT, AT 27,172.45 AFTER MARKET OPEN DOW JONES UP 187.16 POINTS, OR 0.36 %, AT 52,235.99 AFTER MARKET OPEN
 - 09/22 22:33 [financialjuice] Fed's Collins: I supported last week's rate hike.
 - 09/22 22:33 [FirstSquawk] FED'S COLLINS: SUPPORTED LAST WEEK'S RATE HIKE
 - 09/22 22:34 [FirstSquawk] FED'S COLLINS: NOW SEE AN INCREASED LIKELIHOOD OF FUTURE SCENARIOS IN WHICH INFLATION REMAINS NOTABLY ABOVE 2%
@@ -453,3 +447,9 @@
 - 09/23 10:14 [FirstSquawk] South Korea’s Lee to hold talks with Trump on sidelines of UN General Assembly - media
 - 09/23 10:15 [financialjuice] South Korean president Lee holds 30-minute meeting with Trump: S. Korea presidential office
 - 09/23 10:15 [FirstSquawk] South Korean President Lee meets Trump for 30 minutes, presidential office says
+- 09/23 10:16 [FirstSquawk] China’s PBOC sets yuan reference rate at 6.7468 per dollar
+- 09/23 10:21 [financialjuice] China injects 8 bln yuan with 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/23 10:22 [FirstSquawk] South Korea’s Lee, Trump hail major progress in talks on strategic investment projects
+- 09/23 10:22 [FirstSquawk] Lee highlights importance of U.S.-China summit for regional affairs, presidential office says
+- 09/23 10:23 [FirstSquawk] South Korea’s Lee, Trump reaffirm cooperation on nuclear submarines, fuel reprocessing and shipbuilding
+- 09/23 10:27 [FirstSquawk] GM CEO Mary Barra set to attend Trump’s state dinner for Xi, Reuters reports
