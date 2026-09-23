@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 09:40 JST／対象: 09/23 03:40 〜 09/23 09:40 JST（時刻はすべて日本時間）
+生成: 2026-09-23 09:55 JST／対象: 09/23 03:55 〜 09/23 09:55 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 107 | 09/23 03:43 | 09/23 09:35 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 75 | 09/23 03:44 | 09/23 09:15 | 44分（06:44→07:28） |
+| FirstSquawk | 113 | 09/23 03:58 | 09/23 09:52 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 69 | 09/23 03:56 | 09/23 09:15 | 44分（06:44→07:28） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 179 行（統合前 185 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,14 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 03:43 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 1.09% LOWER AT $99.25/BBL, DOWN $1.09
-- 09/23 03:44 [financialjuice] Brent Crude futures settle at $99.25/bbl, down $1.09, 1.09%
-- 09/23 03:45 [FirstSquawk] INDIA’S PM MODI EXPECTED TO VISIT CANADA IN DECEMBER TO SIGN TRADE DEAL — GLOBE & MAIL
-- 09/23 03:45 [financialjuice] META's Zuckerberg plans to attend Trump-Xi state dinner. $META
-- 09/23 03:50 [financialjuice] Iranian Official responds to Trump's claims: We are ready for escalation in case of enemy aggression - Fars News
-- 09/23 03:51 [financialjuice] Iran: US has not set any red lines in the region, and Iran is prepared for all possible scenarios - Fars News
-- 09/23 03:53 [financialjuice] US sources: Meeting between US representatives and Araqi's Iranian team was planned in advance; Qatar's PM participated in most of it - Israel Hayom
-- 09/23 03:54 [financialjuice] US sources: Pre-planned US meeting with Araghchi's Iranian team, Qatar's PM present, discussed resuming talks and opening Hormuz Strait; no deal on contentious issues - Israel Hayom
 - 09/23 03:56 [financialjuice] Ukraine's President Zelenskiy: Trump and I discussed an energy ceasefire and how to end the war; Ukraine ready for any format of energy ceasefire
 - 09/23 03:58 [FirstSquawk] AN IRANIAN OFFICIAL, RESPONDING TO TRUMP'S CLAIMS, SAYS IRAN IS 'READY FOR ESCALATION IN CASE OF ENEMY AGGRESSION', ADDING THAT THE U.S. 'HAS NOT SET ANY RED LINES IN THE REGION' AND THAT IRAN IS PREPARED FOR ALL POSSIBLE SCENARIOS - FARS N…
 - 09/23 03:59 [FirstSquawk] U.S. SOURCES CITED BY ISRAEL HAYOM NEWS SAY A PRE-PLANNED MEETING BETWEEN U.S. REPRESENTATIVES AND ARAGHCHI'S IRANIAN TEAM — WITH QATAR'S PM PRESENT FOR MOST OF IT — DISCUSSED RESUMING TALKS AND OPENING THE STRAIT OF HORMUZ, BUT REACHED NO …
@@ -203,3 +195,11 @@
 - 09/23 09:26 [FirstSquawk] Asian-Pacific U.S. equity futures remained broadly steady late Tuesday, with oil prices and bond yields easing amid hopes of a potential U.S.-Iran de-escalation.
 - 09/23 09:35 [FirstSquawk] Gold gains as markets focus on easing oil prices - WSJ
 - 09/23 09:35 [FirstSquawk] U.S. crackdown threatens Americans’ access to low-cost Canadian prescriptions - WSJ
+- 09/23 09:42 [FirstSquawk] WTI crude falls toward $89 amid focus on Trump’s UN speech - FX
+- 09/23 09:43 [FirstSquawk] Samsung Electronics stock jumps 3%
+- 09/23 09:48 [FirstSquawk] Iranian and U.S. officials meet for rare discussions on the Strait of Hormuz, according to Al Jazeera
+- 09/23 09:48 [FirstSquawk] Zelenskiy warns of planned new mass Russian attack on Ukraine - Reuters
+- 09/23 09:51 [FirstSquawk] Embraer: Occurrence may disrupt airline schedules, but flight safety is unaffected
+- 09/23 09:51 [FirstSquawk] Embraer says technical support is being provided as necessary actions are taken to address the issue
+- 09/23 09:52 [FirstSquawk] Embraer closely monitors situation in coordination with operators and equipment maker
+- 09/23 09:52 [FirstSquawk] Embraer says certain aircraft types, including E2, affected by GPS instability
