@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 07:31 JST／対象: 09/24 01:31 〜 09/24 07:31 JST（時刻はすべて日本時間）
+生成: 2026-09-24 07:44 JST／対象: 09/24 01:44 〜 09/24 07:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 15 | 09/24 01:59 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 61 | 09/24 01:32 | 09/24 06:44 | ⚠ 77分（05:26→06:44） |
-| financialjuice | 54 | 09/24 01:32 | 09/24 07:31 | 42分（05:39→06:22） |
+| FirstSquawk | 56 | 09/24 01:48 | 09/24 06:44 | ⚠ 77分（05:26→06:44） |
+| financialjuice | 53 | 09/24 01:45 | 09/24 07:42 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 128 行（統合前 131 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 122 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 01:32 [financialjuice] Microsoft is expanding investments in the Middle East, investing more than $10b by 2030. $MSFT
-- 09/24 01:32 [FirstSquawk] WRIGHT SAYS DON'T THINK WILL SEE BLANKET BAN ON DIESEL
-- 09/24 01:33 [FirstSquawk] MICROSOFT TO INVEST MORE THAN $10B IN MIDDLE EAST BY 2030
-- 09/24 01:36 [financialjuice] US Energy Secretary Wright: China is a 'swing importer' of oil in the world market.
-- 09/24 01:36 [FirstSquawk] WRIGHT: CHINA IS 'SWING IMPORTER' OF OIL IN THE WORLD MARKET
-- 09/24 01:43 [FirstSquawk] TRUMP ADMINISTRATION BACKING OFF NIH GRANT ORDER AMID PUSHBACK - SEMAFOR
-- 09/24 01:44 [FirstSquawk] BOEING AND TURKISH AIRLINES FINALIZE ORDER FOR UP TO 150 737 MAX JETS
 - 09/24 01:45 [financialjuice] Fed bids for 5-year notes total $10.5 bln.
 - 09/24 01:46 [financialjuice] IMF's Managing Director Georgieva: The medium-term outlook for the global economy is tepid.
 - 09/24 01:46 [financialjuice] IMF Annual Report
@@ -152,3 +145,4 @@
 - 09/24 07:06 [financialjuice] US Treasury Secretary Bessent: U.S., China agreed Wednesday to prolong Busan agreement
 - 09/24 07:13 [financialjuice] US Treasury Secretary Bessent: reports that he will likely be Trump's al czar are probably fake news
 - 09/24 07:31 [financialjuice] Modal Labs in talks to secure new funding at about $15 billion valuation
+- 09/24 07:42 [financialjuice] South Korea’s presidential office: President Lee discussed warship building with U.S. President Donald Trump

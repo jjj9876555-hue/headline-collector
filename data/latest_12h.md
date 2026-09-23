@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 07:31 JST／対象: 09/23 19:31 〜 09/24 07:31 JST（時刻はすべて日本時間）
+生成: 2026-09-24 07:44 JST／対象: 09/23 19:44 〜 09/24 07:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 72 | 09/23 19:43 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 158 | 09/23 19:41 | 09/24 06:44 | ⚠ 77分（05:26→06:44） |
-| financialjuice | 171 | 09/23 19:45 | 09/24 07:31 | ⚠ 46分（20:03→20:49） |
+| DeItaone | 71 | 09/23 19:45 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 156 | 09/23 19:45 | 09/24 06:44 | ⚠ 77分（05:26→06:44） |
+| financialjuice | 172 | 09/23 19:45 | 09/24 07:42 | ⚠ 46分（20:03→20:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 386 行（統合前 404 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 384 行（統合前 402 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 19:41 [FirstSquawk] IPHONE 18 PRO IMPROVES LAST YEAR'S VERSION WITH FASTER PERFORMANCE, LONGER BATTERY LIFE, AND SIGNIFICANT ENHANCEMENTS TO APPLE'S TOP CAMERA SYSTEM.
-- 09/23 19:43 [DeItaone] MORGAN STANLEY MAPS WINNERS FROM HORMUZ REOPENING Morgan Stanley says European equities are the most sensitive to a potential reopening of the Strait of Hormuz as U.S.-Iran diplomacy progresses. Airlines, aerospace, construction, luxury and…
-- 09/23 19:44 [FirstSquawk] HOUTHI OFFICIALS SAY THEY WILL ATTACK ALL U.S. INTERESTS IN THE REGION IF THE U.S. BACKS SAUDI ARABIA.
 - 09/23 19:45 [FirstSquawk] BOFA GLOBAL RESEARCH EXPECTS BOE TO HIKE INTEREST RATES BY 25 BP IN NOVEMBER 2026 AND FEBRUARY 2027 VS PRIOR FORECAST OF RATES UNCHANGED UNTIL A CUT IN NOVEMBER 2027
 - 09/23 19:45 [financialjuice] BofA global research expects BoE to hike interest rates by 25 bp in November 2026 and February 2027, vs. the prior forecast of rates unchanged until a cut in November 2027
 - 09/23 19:45 [DeItaone] RUSSIA CUTS GAS AND LNG OUTLOOK Russia has lowered its 2026 natural gas production forecast to 683.1 bcm, from 688.4 bcm previously. The government also cut its 2026 LNG export forecast to 35 million tons, down from 40.3 million tons. Russi…
@@ -410,3 +407,4 @@
 - 09/24 07:06 [financialjuice] US Treasury Secretary Bessent: U.S., China agreed Wednesday to prolong Busan agreement
 - 09/24 07:13 [financialjuice] US Treasury Secretary Bessent: reports that he will likely be Trump's al czar are probably fake news
 - 09/24 07:31 [financialjuice] Modal Labs in talks to secure new funding at about $15 billion valuation
+- 09/24 07:42 [financialjuice] South Korea’s presidential office: President Lee discussed warship building with U.S. President Donald Trump
