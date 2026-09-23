@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 00:18 JST／対象: 09/23 12:18 〜 09/24 00:18 JST（時刻はすべて日本時間）
+生成: 2026-09-24 00:34 JST／対象: 09/23 12:34 〜 09/24 00:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 61 | 09/23 18:24 | 09/24 00:11 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 149 | 09/23 12:18 | 09/24 00:18 | 30分（17:00→17:31） |
-| financialjuice | 136 | 09/23 12:39 | 09/24 00:17 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 150 | 09/23 12:39 | 09/24 00:33 | 30分（17:00→17:31） |
+| financialjuice | 141 | 09/23 12:39 | 09/24 00:34 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 331 行（統合前 348 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 336 行（統合前 354 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 12:18 [FirstSquawk] JPMorgan lifts Societe Generale target price to €83 from €81
-- 09/23 12:22 [FirstSquawk] US investment concerns stall plans for Chinese business leaders to join Xi’s trip - SCMP
-- 09/23 12:25 [FirstSquawk] Chinese crusher books Australian canola cargo in one of first private new-crop deals — RTRS
-- 09/23 12:32 [FirstSquawk] DBS sees uneven ASEAN growth as AI reshapes regional economies
 - 09/23 12:39 [FirstSquawk] World Bank makes up to $170 million available for Nepal’s immediate flood response
 - 09/23 12:39 [financialjuice] China finance ministry offers 3-month bills at 1.1101% yield: traders
 - 09/23 12:48 [FirstSquawk] Singapore dollar eases ahead of August inflation figures - WSJ
@@ -352,6 +348,15 @@
 - 09/24 00:08 [FirstSquawk] US SEC. OF STATE RUBIO: APEC AND G20 WILL BE OPPORTUNITIES FOR TRUMP TO INTERACT WITH CHINA
 - 09/24 00:11 [DeItaone] ARGENTINE PRESIDENT JAVIER MILEI SAYS THE UN HAS BECOME A “USELESS ORGANIZATION”
 - 09/24 00:13 [FirstSquawk] MCDONALD'S NET NEW UNIT GROWTH SEEN AT APPROX. 4.5% IN 2027
-- 09/24 00:17 [financialjuice] IIF: Emerging market debt jumps $6.5 trillion to more than $110 trillion in H1, led by China.
+- 09/24 00:17 [financialjuice/FirstSquawk] IIF: Emerging market debt jumps $6.5 trillion to more than $110 trillion in H1, led by China.
 - 09/24 00:17 [financialjuice] IIF: Global debt tops record $365 trillion in first half of 2026, emerging markets drive bulk of rise.
 - 09/24 00:18 [FirstSquawk] GLOBAL DEBT TOPS RECORD $365 TRILLION IN FIRST HALF OF 2026, EMERGING MARKETS DRIVE BULK OF RISE, SAYS IIF
+- 09/24 00:18 [financialjuice] US Secretary of State Rubio ends remarks to reporters.
+- 09/24 00:22 [FirstSquawk] MCDONALD'S SHARES EXTEND LOSSES, LAST DOWN 5.2%
+- 09/24 00:26 [FirstSquawk] GOOGLE LAUNCHES GEMINI 3.8 FLASH TTS AUDIO MODELS
+- 09/24 00:27 [financialjuice] US-EU Ambassador Puzder: We discussed Chinese overcapacity with EU's Sefcovic.
+- 09/24 00:28 [FirstSquawk] FRANCE FOREIGN MINISTER BARROT: RUSSIA IS ATTACKING THE WHOLE OF EUROPE
+- 09/24 00:29 [financialjuice] Iranian Tasnim News Agency, citing sources: Araqchi's move in dealing with Witkov was done without coordination with the relevant authorities - Al Hadath.
+- 09/24 00:33 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON: ANOTHER ROUND OF MESSAGE EXCHANGES AND CLARIFICATIONS TOOK PLACE BETWEEN IRAN, US VIA THE QATARI MEDIATOR ON TUESDAY
+- 09/24 00:33 [financialjuice] Iran's Foreign Ministry Spokesperson: Another round of message exchanges and clarifications took place between Iran and the US via the Qatari mediator on Tuesday.
+- 09/24 00:34 [financialjuice] Fed's Goolsbee: We're better off assuming that bigger negative supply shocks to have a pretty persistent effect on inflation - Economics Applied Podcast.

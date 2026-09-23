@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 00:18 JST／対象: 09/23 18:18 〜 09/24 00:18 JST（時刻はすべて日本時間）
+生成: 2026-09-24 00:34 JST／対象: 09/23 18:34 〜 09/24 00:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 61 | 09/23 18:24 | 09/24 00:11 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 89 | 09/23 18:22 | 09/24 00:18 | 18分（18:39→18:58） |
-| financialjuice | 99 | 09/23 18:23 | 09/24 00:17 | ⚠ 71分（18:33→19:45） |
+| DeItaone | 60 | 09/23 18:35 | 09/24 00:11 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 93 | 09/23 18:35 | 09/24 00:33 | 18分（18:39→18:58） |
+| financialjuice | 100 | 09/23 19:45 | 09/24 00:34 | ⚠ 46分（20:03→20:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 234 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 238 行（統合前 255 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 18:22 [FirstSquawk/financialjuice] TRUMP BOARD OF PEACE TO UNVEIL $2.45B GAZA RECOVERY PLAN - AXIOS
-- 09/23 18:23 [financialjuice] Gaza plan to be presented to members on Wednesday - Axios
-- 09/23 18:24 [DeItaone] TRUMP'S BOARD OF PEACE TO UNVEIL $2.45 BILLION GAZA RECOVERY PLAN- AXIOS
-- 09/23 18:33 [financialjuice] GERMAN 30 YR BUND YIELD ACTUAL 3.8% (FORECAST -, PREVIOUS 3.9%) $MACRO
-- 09/23 18:33 [financialjuice] GERMAN 30 YR BUND BID-TO-COVER ACTUAL 1.584 (FORECAST -, PREVIOUS 2.4) $MACRO
 - 09/23 18:35 [FirstSquawk/DeItaone] SPOT GOLD FALLS NEARLY 1% TO $4,312.99/OZ
 - 09/23 18:39 [FirstSquawk] SOFTBANK-BACKED CARRO IS SAID TO MULL FIRST DUAL NASDAQ-SGX IPO || CARRO IS SAID TO CONSIDER SEEKING UP TO $400M-$500M IN IPO
 - 09/23 18:41 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 3:15 AM ET — 🇫🇷 France Flash PMI 🔸 3:30 AM ET — 🇩🇪 Germany Flash PMI 🔸 4:00 AM ET — 🇪🇺 Eurozone Flash PMI 🔸 4:30 AM ET — 🇬🇧 UK Flash PMI 🔸 9:45 AM ET — 🇺🇸 U.S. Flash Manufacturing & Services PMI 🔸 10:…
@@ -255,6 +250,15 @@
 - 09/24 00:08 [FirstSquawk] US SEC. OF STATE RUBIO: APEC AND G20 WILL BE OPPORTUNITIES FOR TRUMP TO INTERACT WITH CHINA
 - 09/24 00:11 [DeItaone] ARGENTINE PRESIDENT JAVIER MILEI SAYS THE UN HAS BECOME A “USELESS ORGANIZATION”
 - 09/24 00:13 [FirstSquawk] MCDONALD'S NET NEW UNIT GROWTH SEEN AT APPROX. 4.5% IN 2027
-- 09/24 00:17 [financialjuice] IIF: Emerging market debt jumps $6.5 trillion to more than $110 trillion in H1, led by China.
+- 09/24 00:17 [financialjuice/FirstSquawk] IIF: Emerging market debt jumps $6.5 trillion to more than $110 trillion in H1, led by China.
 - 09/24 00:17 [financialjuice] IIF: Global debt tops record $365 trillion in first half of 2026, emerging markets drive bulk of rise.
 - 09/24 00:18 [FirstSquawk] GLOBAL DEBT TOPS RECORD $365 TRILLION IN FIRST HALF OF 2026, EMERGING MARKETS DRIVE BULK OF RISE, SAYS IIF
+- 09/24 00:18 [financialjuice] US Secretary of State Rubio ends remarks to reporters.
+- 09/24 00:22 [FirstSquawk] MCDONALD'S SHARES EXTEND LOSSES, LAST DOWN 5.2%
+- 09/24 00:26 [FirstSquawk] GOOGLE LAUNCHES GEMINI 3.8 FLASH TTS AUDIO MODELS
+- 09/24 00:27 [financialjuice] US-EU Ambassador Puzder: We discussed Chinese overcapacity with EU's Sefcovic.
+- 09/24 00:28 [FirstSquawk] FRANCE FOREIGN MINISTER BARROT: RUSSIA IS ATTACKING THE WHOLE OF EUROPE
+- 09/24 00:29 [financialjuice] Iranian Tasnim News Agency, citing sources: Araqchi's move in dealing with Witkov was done without coordination with the relevant authorities - Al Hadath.
+- 09/24 00:33 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON: ANOTHER ROUND OF MESSAGE EXCHANGES AND CLARIFICATIONS TOOK PLACE BETWEEN IRAN, US VIA THE QATARI MEDIATOR ON TUESDAY
+- 09/24 00:33 [financialjuice] Iran's Foreign Ministry Spokesperson: Another round of message exchanges and clarifications took place between Iran and the US via the Qatari mediator on Tuesday.
+- 09/24 00:34 [financialjuice] Fed's Goolsbee: We're better off assuming that bigger negative supply shocks to have a pretty persistent effect on inflation - Economics Applied Podcast.
