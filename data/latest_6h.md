@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 05:45 JST／対象: 09/23 23:45 〜 09/24 05:45 JST（時刻はすべて日本時間）
+生成: 2026-09-24 05:58 JST／対象: 09/23 23:58 〜 09/24 05:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 25 | 09/23 23:55 | 09/24 05:25 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 83 | 09/23 23:47 | 09/24 05:26 | 34分（01:56→02:31） |
-| financialjuice | 84 | 09/23 23:47 | 09/24 05:39 | 22分（02:06→02:28） |
+| DeItaone | 24 | 09/24 00:00 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 80 | 09/24 00:08 | 09/24 05:26 | 34分（01:56→02:31） |
+| financialjuice | 74 | 09/24 00:01 | 09/24 05:39 | 22分（02:06→02:28） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 190 行（統合前 193 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 176 行（統合前 179 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 23:47 [financialjuice] US Energy Secretary Wright: The US might consider leaving the IEA if there is no alignment on climate issues.
-- 09/23 23:47 [FirstSquawk] US MIGHT CONSIDER LEAVING IEA IF THERE IS NO ALIGNMENT ON CLIMATE ISSUES, ENERGY SECRETARY WRIGHT SAYS
-- 09/23 23:47 [financialjuice] US Treasury Secretary Bessent: I met with China's He to finish up Sunday talks - Fox Business.
-- 09/23 23:48 [financialjuice] US Secretary of State Rubio: Much of the interaction with China over the last year has been focused on trade.
-- 09/23 23:50 [financialjuice] US Secretary of State Rubio: We will live up to commitments in the defense agreement with Saudi Arabia.
-- 09/23 23:52 [financialjuice] ❗ Senior Iranian official: Tehran is reviewing US response to its proposal to end hostilities
-- 09/23 23:52 [financialjuice] US Secretary of State Rubio: Trump has many options over the Houthi attacks on Saudi Arabia.
-- 09/23 23:53 [FirstSquawk] IRAN IS ASSESSING THE U.S. REACTION TO ITS PLAN TO STOP CONFLICTS.
-- 09/23 23:54 [financialjuice] ❗ Senior Iranian Official: During indirect talks with the US on Tuesday, reopening the Hormuz Strait and lifting the US blockade were discussed.
-- 09/23 23:55 [DeItaone] SENIOR IRANIAN OFFICIAL TO REUTERS: TEHRAN IS REVIEWING U.S. RESPONSE TO ITS PROPOSAL TO END HOSTILITIES SENIOR IRANIAN OFFICIAL TO REUTERS: DURING INDIRECT TALKS WITH U.S. ON TUESDAY REOPENING HORMUZ STRAIT AND LIFTING U.S. BLOCKADE WERE D…
-- 09/23 23:56 [financialjuice] Senior Iranian Official: There are still many differences remain between Iran and the US positions, but diplomacy continues.
-- 09/23 23:56 [financialjuice] US Secretary of State Rubio: The Iran talks were a continuation of previous discussions, and were largely an exchange of ideas and messages.
-- 09/23 23:57 [FirstSquawk] RUBIO: IRAN MEETING WAS POSITIVE BUT NOT A BREAKTHROUGH
-- 09/23 23:57 [DeItaone] SENIOR IRANIAN OFFICIAL TO REUTERS: STILL MANY DIFFERENCES REMAIN BETWEEN IRAN, U.S. POSITIONS, BUT DIPLOMACY CONTINUES
-- 09/23 23:57 [financialjuice] ❗ US Secretary of State Rubio: The Iran meeting was positive, but it was not a breakthrough.
 - 09/24 00:00 [DeItaone] RUBIO: WILL BE OPPORTUNITY FOR TRUMP TO INTERACT WITH CHINA AGAIN LATER THIS YEAR AT APEC AND G20
 - 09/24 00:01 [financialjuice] US Secretary of State Rubio: There will be an opportunity for Trump to interact with China again later this year at APEC and the G20.
 - 09/24 00:01 [financialjuice] ❗ US Treasury to buy back up to $6B in longer-dated debt on Thursday; previously said buyback would be at least $4B.
@@ -214,3 +199,4 @@
 - 09/24 05:32 [financialjuice] UK's Chancellor Healey spoke to Bessent on stepping up pressure on Iran and how to work together to drive growth in both nations.
 - 09/24 05:33 [financialjuice] OpenAI Agents accessed Australia's Medicare statistics - News24.
 - 09/24 05:39 [financialjuice] Australia's Prime Minister Albanese: I am aware of AI incidents happening elsewhere.
+- 09/24 05:51 [DeItaone] AUSTRALIA PM ALBANESE: INCIDENT INVOLVED OPENAI AGENT GAINING UNAUTHORIZED ACCESS INTO THE PUBLIC-FACING MEDICARE STATISTICS REPORTING SERVICE PORTAL

@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 05:45 JST／対象: 09/23 17:45 〜 09/24 05:45 JST（時刻はすべて日本時間）
+生成: 2026-09-24 05:58 JST／対象: 09/23 17:58 〜 09/24 05:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 81 | 09/23 18:24 | 09/24 05:25 | ⚠ 114分（03:30→05:25） |
+| DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
 | FirstSquawk | 172 | 09/23 18:06 | 09/24 05:26 | 34分（01:56→02:31） |
 | financialjuice | 168 | 09/23 18:00 | 09/24 05:39 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 404 行（統合前 424 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 405 行（統合前 425 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -428,3 +428,4 @@
 - 09/24 05:32 [financialjuice] UK's Chancellor Healey spoke to Bessent on stepping up pressure on Iran and how to work together to drive growth in both nations.
 - 09/24 05:33 [financialjuice] OpenAI Agents accessed Australia's Medicare statistics - News24.
 - 09/24 05:39 [financialjuice] Australia's Prime Minister Albanese: I am aware of AI incidents happening elsewhere.
+- 09/24 05:51 [DeItaone] AUSTRALIA PM ALBANESE: INCIDENT INVOLVED OPENAI AGENT GAINING UNAUTHORIZED ACCESS INTO THE PUBLIC-FACING MEDICARE STATISTICS REPORTING SERVICE PORTAL

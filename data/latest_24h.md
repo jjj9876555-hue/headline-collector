@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 05:45 JST／対象: 09/23 05:45 〜 09/24 05:45 JST（時刻はすべて日本時間）
+生成: 2026-09-24 05:58 JST／対象: 09/23 05:58 〜 09/24 05:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 81 | 09/23 18:24 | 09/24 05:25 | ⚠ 114分（03:30→05:25） |
+| DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
 | FirstSquawk | 319 | 09/23 06:58 | 09/24 05:26 | ⚠ 63分（07:00→08:04） |
-| financialjuice | 241 | 09/23 05:46 | 09/24 05:39 | ⚠ 73分（13:39→14:52） |
+| financialjuice | 237 | 09/23 06:07 | 09/24 05:39 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 624 行（統合前 644 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 621 行（統合前 641 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 05:46 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL 1.786M (FORECAST -0.5M, PREVIOUS 7.1M) $MACRO
-- 09/23 05:56 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL -2.164M (FORECAST -, PREVIOUS 1.6M) $MACRO
-- 09/23 05:57 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL 2.082M (FORECAST -, PREVIOUS -0.246M ) $MACRO
-- 09/23 05:57 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL -2.16M (FORECAST -, PREVIOUS 1.5M) $MACRO
 - 09/23 06:07 [financialjuice] North Korea's vice defense minister to visit Vietnam: KCNA
 - 09/23 06:09 [financialjuice] North Korea's vice foreign minister to participate in UN general assembly: KCNA
 - 09/23 06:18 [financialjuice] USPS refers mail dumping case involving election ballots to inspector general
@@ -648,3 +644,4 @@
 - 09/24 05:32 [financialjuice] UK's Chancellor Healey spoke to Bessent on stepping up pressure on Iran and how to work together to drive growth in both nations.
 - 09/24 05:33 [financialjuice] OpenAI Agents accessed Australia's Medicare statistics - News24.
 - 09/24 05:39 [financialjuice] Australia's Prime Minister Albanese: I am aware of AI incidents happening elsewhere.
+- 09/24 05:51 [DeItaone] AUSTRALIA PM ALBANESE: INCIDENT INVOLVED OPENAI AGENT GAINING UNAUTHORIZED ACCESS INTO THE PUBLIC-FACING MEDICARE STATISTICS REPORTING SERVICE PORTAL
