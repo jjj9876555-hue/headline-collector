@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 14:33 JST／対象: 09/22 14:33 〜 09/23 14:33 JST（時刻はすべて日本時間）
+生成: 2026-09-23 14:46 JST／対象: 09/22 14:46 〜 09/23 14:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 350 | 09/22 14:54 | 09/23 14:20 | ⚠ 77分（05:40→06:58） |
+| FirstSquawk | 353 | 09/22 14:54 | 09/23 14:44 | ⚠ 77分（05:40→06:58） |
 | financialjuice | 308 | 09/22 15:00 | 09/23 13:39 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 667 行（統合前 689 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 670 行（統合前 692 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -691,3 +691,6 @@
 - 09/23 14:19 [FirstSquawk] Roche says sefaxersen significantly reduces proteinuria in Phase III IgA nephropathy study
 - 09/23 14:19 [FirstSquawk] Russian forces hit cargo ship in Black Sea, Defence Ministry says - IFX
 - 09/23 14:20 [FirstSquawk] Russia says its forces hit Ukrainian defence, energy facilities and logistics centres - RIA
+- 09/23 14:36 [FirstSquawk] Eleven killed and three injured in KwaZulu-Natal shooting, South African police say
+- 09/23 14:41 [FirstSquawk] Brazil, Germany, India and Japan urge greater focus on UN Security Council reform amid geopolitical challenges - REUTERS REPORT
+- 09/23 14:44 [FirstSquawk] Poland’s Lublin, Rzeszów airports resume air operations following temporary military-related closure - PANSA

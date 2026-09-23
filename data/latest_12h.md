@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 14:33 JST／対象: 09/23 02:33 〜 09/23 14:33 JST（時刻はすべて日本時間）
+生成: 2026-09-23 14:46 JST／対象: 09/23 02:46 〜 09/23 14:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 210 | 09/23 02:34 | 09/23 14:20 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 131 | 09/23 02:35 | 09/23 13:39 | ⚠ 54分（11:44→12:39） |
+| FirstSquawk | 207 | 09/23 02:48 | 09/23 14:44 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 128 | 09/23 02:47 | 09/23 13:39 | ⚠ 54分（11:44→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 337 行（統合前 344 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 331 行（統合前 338 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 02:34 [FirstSquawk] US PROPOSES $10 BLN FUND WITH ARAB ALLIES TO BYPASS HORMUZ – FT
-- 09/23 02:35 [financialjuice] Trump Participates in a Bilateral Meeting with the President of Ukraine - WATCH LIVE
-- 09/23 02:37 [FirstSquawk] AI-LINKED TECHNOLOGY STOCKS LED A ROTATION OUT OF FINANCIALS, PUSHING THE NASDAQ 100 TO THE BRINK OF ITS FIRST RECORD CLOSE SINCE JUNE, WHILE SHOPIFY JUMPED 7.3% AFTER ITS MUSE AI PARTNERSHIP WITH META.
-- 09/23 02:37 [FirstSquawk] THE S&P 500 STRUGGLED AS FINANCIALS SOLD OFF AND THE DOW FELL 0.5%, WHILE INVESTORS ALSO TRACKED HORMUZ DIPLOMACY, SAUDI PIPELINE RESTART PLANS AND RISING YIELDS THAT CONTINUE TO PRESSURE THE BROADER MARKET.
-- 09/23 02:37 [financialjuice] Fed's Barkin: Fed is highly attentive to financial conditions, but can't assume markets will keep rates at a level needed to cool inflation.
-- 09/23 02:40 [FirstSquawk] FED’S BARKIN: FED IS HIGHLY ATTENTIVE TO FINANCIAL CONDITIONS BUT CANNOT ASSUME MARKETS WILL KEEP RATES HIGH ENOUGH TO COOL INFLATION
-- 09/23 02:40 [FirstSquawk] FED’S BARKIN: HOPES CURRENT PERIOD RESEMBLES THE 1990S MID-CYCLE ADJUSTMENT
-- 09/23 02:44 [financialjuice] Fed's Barkin: I don't think current productivity improvements mostly reflect AI.
-- 09/23 02:46 [FirstSquawk] NEW YORK FED ACCEPTS $3M OF $3M SUBMITTED IN STANDING REPO OPERATION ON SEPTEMBER 22
 - 09/23 02:47 [financialjuice] Senior White House official to Al Jazeera: No meeting with the Iranians on President Trump's schedule, but he is open to it
 - 09/23 02:48 [financialjuice] Trump: Have a good relationship with Zelenskyy.
 - 09/23 02:48 [financialjuice] Trump: Zelenskiy and I are figuring out a solution to end the war
@@ -361,3 +352,6 @@
 - 09/23 14:19 [FirstSquawk] Roche says sefaxersen significantly reduces proteinuria in Phase III IgA nephropathy study
 - 09/23 14:19 [FirstSquawk] Russian forces hit cargo ship in Black Sea, Defence Ministry says - IFX
 - 09/23 14:20 [FirstSquawk] Russia says its forces hit Ukrainian defence, energy facilities and logistics centres - RIA
+- 09/23 14:36 [FirstSquawk] Eleven killed and three injured in KwaZulu-Natal shooting, South African police say
+- 09/23 14:41 [FirstSquawk] Brazil, Germany, India and Japan urge greater focus on UN Security Council reform amid geopolitical challenges - REUTERS REPORT
+- 09/23 14:44 [FirstSquawk] Poland’s Lublin, Rzeszów airports resume air operations following temporary military-related closure - PANSA

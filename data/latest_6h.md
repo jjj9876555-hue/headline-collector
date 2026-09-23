@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 14:33 JST／対象: 09/23 08:33 〜 09/23 14:33 JST（時刻はすべて日本時間）
+生成: 2026-09-23 14:46 JST／対象: 09/23 08:46 〜 09/23 14:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 104 | 09/23 08:36 | 09/23 14:20 | 11分（13:49→14:00） |
-| financialjuice | 29 | 09/23 08:41 | 09/23 13:39 | ⚠ 54分（11:44→12:39） |
+| FirstSquawk | 104 | 09/23 08:47 | 09/23 14:44 | 15分（14:20→14:36） |
+| financialjuice | 28 | 09/23 09:05 | 09/23 13:39 | ⚠ 54分（11:44→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 133 行（統合前 133 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 132 行（統合前 132 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 08:36 [FirstSquawk] U.S. ENVOY WITKOFF SAYS HE HELD LENGTHY TALKS WITH THE IRANIAN DELEGATION THROUGH MEDIATORS, WHO WILL CONTINUE THEIR WORK, ADDING THAT HE HOPES THE TALKS PROVE CONSTRUCTIVE AND PROMISING
-- 09/23 08:39 [FirstSquawk] U.K. PRIME MINISTER ANDY BURNHAM SAYS HE REAFFIRMED BRITAIN’S POSITION ON THE FALKLAND ISLANDS DURING TALKS WITH PRESIDENT DONALD TRUMP, SAYING THE U.K. WILL “STAND FIRM” AND DEFEND THE ISLANDERS’ RIGHT TO SELF-DETERMINATION AND TO REMAIN B…
-- 09/23 08:41 [financialjuice] Microsoft to increase Copilot discounts as it introduces AI ‘super app’ - The Information
-- 09/23 08:41 [FirstSquawk] MICROSOFT BOOSTS COPILOT DISCOUNTS AS IT LAUNCHES AI “SUPER APP” — THE INFORMATION
 - 09/23 08:47 [FirstSquawk] US CRUDE FUTURES FALL MORE THAN 1% TO $89.60/BBL ON HOPES OF INCREASED GULF SUPPLIES
 - 09/23 08:57 [FirstSquawk] ISRAELI AIRSTRIKES & ARTILLERY HIT SOUTHERN LEBANON; LOUD EXPLOSION REPORTED IN KHIAM AMID STRIKES — MEHR
 - 09/23 08:57 [FirstSquawk] UK PM BURNHAM: BRITAIN WILL STAND FIRM IN DEFENDING ITS PEOPLE & ALLIES — AL JAZEERA
@@ -157,3 +153,6 @@
 - 09/23 14:19 [FirstSquawk] Roche says sefaxersen significantly reduces proteinuria in Phase III IgA nephropathy study
 - 09/23 14:19 [FirstSquawk] Russian forces hit cargo ship in Black Sea, Defence Ministry says - IFX
 - 09/23 14:20 [FirstSquawk] Russia says its forces hit Ukrainian defence, energy facilities and logistics centres - RIA
+- 09/23 14:36 [FirstSquawk] Eleven killed and three injured in KwaZulu-Natal shooting, South African police say
+- 09/23 14:41 [FirstSquawk] Brazil, Germany, India and Japan urge greater focus on UN Security Council reform amid geopolitical challenges - REUTERS REPORT
+- 09/23 14:44 [FirstSquawk] Poland’s Lublin, Rzeszów airports resume air operations following temporary military-related closure - PANSA
