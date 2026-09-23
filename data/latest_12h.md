@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 13:58 JST／対象: 09/23 01:58 〜 09/23 13:58 JST（時刻はすべて日本時間）
+生成: 2026-09-23 14:16 JST／対象: 09/23 02:16 〜 09/23 14:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 201 | 09/23 02:31 | 09/23 13:49 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 143 | 09/23 02:00 | 09/23 13:39 | ⚠ 54分（11:44→12:39） |
+| FirstSquawk | 208 | 09/23 02:31 | 09/23 14:10 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 133 | 09/23 02:28 | 09/23 13:39 | ⚠ 54分（11:44→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 340 行（統合前 350 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 337 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 02:00 [financialjuice] Treasury WI 2-year yield 4.785% before $69 billion auction.
-- 09/23 02:02 [financialjuice] US 2-YEAR NOTE HIGH YIELD ACTUAL 4.787% (FORECAST -, PREVIOUS 4.204%) $MACRO
-- 09/23 02:02 [financialjuice] US 2-YEAR NOTE BID-TO-COVER ACTUAL 2.630 (FORECAST -, PREVIOUS 2.600) $MACRO
-- 09/23 02:02 [financialjuice] US 2-Year Note Auction High Yield 4.787% (Tailed by 0.2 basis points) Bid-to-cover 2.63 Sells $69 bln Awards 33.42% of bids at high Primary Dealers take 13.19% Direct 29.02% Indirect 57.79%
-- 09/23 02:07 [financialjuice] Fed's Barkin: The labor market is not overheated or even particularly tight.
-- 09/23 02:09 [financialjuice] Trump: Japan's PM Takaichi has done a great job, Japan is doing well.
-- 09/23 02:09 [financialjuice] Trump Participates in a Bilateral Meeting with the Prime Minister of Japan - WATCH LIVE
-- 09/23 02:11 [financialjuice] Fed's Barkin: Don't see much evidence that consumer balance sheets are stretched.
-- 09/23 02:12 [financialjuice] Fed's Barkin: Consumers will spend as long as the job market remains healthy.
-- 09/23 02:13 [financialjuice] Trump ends remarks to reporters.
-- 09/23 02:14 [financialjuice] Trump: Will talk about China-Japan relations with Takaichi.
 - 09/23 02:28 [financialjuice] Trump adviser ties high Gas prices to refining - Axios
 - 09/23 02:31 [financialjuice] Fed's Barkin: Like to think this period will be more like the 1990s mid-cycle adjustment.
 - 09/23 02:31 [FirstSquawk] TRUMP ADVISER AGEN TIES HIGHER GAS PRICES TO STRAINED REFINING CAPACITY - AXIOS, VIA DBNEWS
@@ -71,6 +60,7 @@
 - 09/23 02:55 [financialjuice] US Envoy Witkoff on Iran meeting: Feel very good right now.
 - 09/23 02:55 [FirstSquawk] TRUMP SAYS IRAN MEETING WAS ‘VERY PRODUCTIVE’; ANOTHER MEETING SCHEDULED SOON
 - 09/23 02:56 [FirstSquawk] TRUMP SAYS HE WILL DISCUSS PATRIOT MISSILES WITH ZELENSKIY
+- 09/23 02:56 [financialjuice] Trump ends remarks to reporters.
 - 09/23 02:57 [FirstSquawk] TRUMP SAYS HE AND UKRAINIAN PRESIDENT VOLODYMYR ZELENSKIY ARE WORKING ON A SOLUTION TO END THE WAR, WHILE SAYING RUSSIAN REFINERY STRIKES ARE A SERIOUS BLOW TO MOSCOW AND ARE IMPACTING DIESEL PRICES.
 - 09/23 02:57 [FirstSquawk] TRUMP SAYS PUTIN IS WILLING TO MEET TO DISCUSS ENDING THE WAR, WHILE HE PLANS TO DISCUSS PATRIOT MISSILES WITH ZELENSKIY; TREASURY SECRETARY SCOTT BESSENT SAYS THE ADMINISTRATION IS EXAMINING A POSSIBLE BAN ON DIESEL EXPORTS.
 - 09/23 02:58 [financialjuice] US Treasury Secretary Bessent eyed for Trump’s ‘AI Czar’- Semafor
@@ -364,3 +354,10 @@
 - 09/23 13:42 [FirstSquawk] Berenberg lifts Kingfisher target price to 320p from 295p
 - 09/23 13:45 [FirstSquawk] Berenberg lifts Smiths Group target price to 3,200p from 3,000p
 - 09/23 13:49 [FirstSquawk] RBC lifts Standard Life target price to 970p from 885p
+- 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI SERVICES ACTUAL: 55.8 VS 54.1 PREVIOUS
+- 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI MFG ACTUAL: 55.7 VS 52.8 PREVIOUS
+- 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI COMPOSITE ACTUAL: 56.5 VS 54.3 PREVIOUS
+- 09/23 14:02 [FirstSquawk] IMF, Sri Lanka hold productive talks on seventh review of Extended Fund Facility
+- 09/23 14:07 [FirstSquawk] Kotecki: Polish central bank nearing discussion on possible November interest rate hike
+- 09/23 14:10 [FirstSquawk] Kotecki signals any Polish rate hikes would be gradual and limited
+- 09/23 14:10 [FirstSquawk] Goldman leads M&A activity as freed capital fuels dealmaking - RTRS

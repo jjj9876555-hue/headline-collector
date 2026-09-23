@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 13:58 JST／対象: 09/22 13:58 〜 09/23 13:58 JST（時刻はすべて日本時間）
+生成: 2026-09-23 14:16 JST／対象: 09/22 14:16 〜 09/23 14:16 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 348 | 09/22 14:02 | 09/23 13:49 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 316 | 09/22 14:02 | 09/23 13:39 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 351 | 09/22 14:20 | 09/23 14:10 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 310 | 09/22 14:19 | 09/23 13:39 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 673 行（統合前 695 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 670 行（統合前 692 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 14:02 [FirstSquawk] Roche reports positive Phase II results for enicepatide in type 2 diabetes and overweight or obesity
-- 09/22 14:02 [financialjuice] ECB releases media interview with Le Temps
-- 09/22 14:03 [FirstSquawk] ECB releases an interview with Le Temps
-- 09/22 14:11 [financialjuice] Current decline in house prices aligns with previous trends
-- 09/22 14:11 [financialjuice] Boom is adding to surplus demand in Australian economy
-- 09/22 14:11 [financialjuice] Russia launches massive strike on targets in Ukraine: defence ministry
-- 09/22 14:11 [financialjuice] Unemployment of 4.5% to 5.0% probably eases inflation pressure
-- 09/22 14:11 [financialjuice] Russia says it strikes sea vessels and port facilities in Ukraine
-- 09/22 14:11 [FirstSquawk] Russia conducts large-scale strike on targets across Ukraine, defence ministry says — IFX
-- 09/22 14:11 [FirstSquawk] Russia says it carried out strikes on vessels and port infrastructure in Ukraine
 - 09/22 14:19 [financialjuice] Economists believe neutral rates are increasing globally, driving up real bond yields
 - 09/22 14:20 [financialjuice] Russian overnight strike on Ukraine's city of Dnipro kills three: governor
 - 09/22 14:20 [FirstSquawk] Russian strike on Ukraine’s Dnipro kills three overnight, governor says
@@ -697,3 +687,10 @@
 - 09/23 13:42 [FirstSquawk] Berenberg lifts Kingfisher target price to 320p from 295p
 - 09/23 13:45 [FirstSquawk] Berenberg lifts Smiths Group target price to 3,200p from 3,000p
 - 09/23 13:49 [FirstSquawk] RBC lifts Standard Life target price to 970p from 885p
+- 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI SERVICES ACTUAL: 55.8 VS 54.1 PREVIOUS
+- 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI MFG ACTUAL: 55.7 VS 52.8 PREVIOUS
+- 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI COMPOSITE ACTUAL: 56.5 VS 54.3 PREVIOUS
+- 09/23 14:02 [FirstSquawk] IMF, Sri Lanka hold productive talks on seventh review of Extended Fund Facility
+- 09/23 14:07 [FirstSquawk] Kotecki: Polish central bank nearing discussion on possible November interest rate hike
+- 09/23 14:10 [FirstSquawk] Kotecki signals any Polish rate hikes would be gradual and limited
+- 09/23 14:10 [FirstSquawk] Goldman leads M&A activity as freed capital fuels dealmaking - RTRS
