@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 01:45 JST／対象: 09/23 19:45 〜 09/24 01:45 JST（時刻はすべて日本時間）
+生成: 2026-09-24 01:58 JST／対象: 09/23 19:58 〜 09/24 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 56 | 09/23 19:45 | 09/24 01:07 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 99 | 09/23 19:59 | 09/24 01:44 | 21分（00:54→01:15） |
-| financialjuice | 119 | 09/23 19:45 | 09/24 01:36 | ⚠ 46分（20:03→20:49） |
+| DeItaone | 54 | 09/23 20:05 | 09/24 01:07 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 104 | 09/23 19:59 | 09/24 01:56 | 21分（00:54→01:15） |
+| financialjuice | 124 | 09/23 19:59 | 09/24 01:52 | ⚠ 46分（20:03→20:49） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 261 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 269 行（統合前 284 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 19:45 [financialjuice] BofA global research expects BoE to hike interest rates by 25 bp in November 2026 and February 2027, vs. the prior forecast of rates unchanged until a cut in November 2027
-- 09/23 19:45 [DeItaone] RUSSIA CUTS GAS AND LNG OUTLOOK Russia has lowered its 2026 natural gas production forecast to 683.1 bcm, from 688.4 bcm previously. The government also cut its 2026 LNG export forecast to 35 million tons, down from 40.3 million tons. Russi…
-- 09/23 19:53 [DeItaone] HAWKISH FED SENDS DOLLAR TO TWO-MONTH HIGH The dollar climbed to its highest level since July as Fed officials signaled more rate hikes may be needed to fight inflation. Markets now price a 53% chance of an October hike after last week’s fi…
-- 09/23 19:57 [financialjuice] HSBC raises 2026 year-end Stoxx 600 index target to 680 from 670
 - 09/23 19:59 [financialjuice/FirstSquawk] HSBC raises 2026 year-end FTSE 100 target to 11,390 from 10,980
 - 09/23 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -1.5% (FORECAST -, PREVIOUS -4.1%) $MACRO
 - 09/23 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 7.12% (FORECAST -, PREVIOUS 6.97%) $MACRO
@@ -285,3 +281,15 @@
 - 09/24 01:36 [FirstSquawk] WRIGHT: CHINA IS 'SWING IMPORTER' OF OIL IN THE WORLD MARKET
 - 09/24 01:43 [FirstSquawk] TRUMP ADMINISTRATION BACKING OFF NIH GRANT ORDER AMID PUSHBACK - SEMAFOR
 - 09/24 01:44 [FirstSquawk] BOEING AND TURKISH AIRLINES FINALIZE ORDER FOR UP TO 150 737 MAX JETS
+- 09/24 01:45 [financialjuice] Fed bids for 5-year notes total $10.5 bln.
+- 09/24 01:46 [financialjuice] IMF's Managing Director Georgieva: The medium-term outlook for the global economy is tepid.
+- 09/24 01:46 [financialjuice] IMF Annual Report
+- 09/24 01:46 [financialjuice] IMF's Managing Director Georgieva: Fiscal challenges are growing more acute.
+- 09/24 01:48 [FirstSquawk] WHITE HOUSE PREPARING PLAN FOR 90-DAY DIESEL EXPORTS BAN
+- 09/24 01:48 [financialjuice] Senator's Sanders and Casar introduce a 'superintelligence’ ban - Politico
+- 09/24 01:51 [financialjuice] ❗ US prepares 90-day diesel export ban - Politico.
+- 09/24 01:52 [financialjuice] White House preparing plan for 90-day diesel exports ban - Politico
+- 09/24 01:55 [FirstSquawk] US DIESEL FUTURES SINK MORE THAN 7% TO INTRADAY LOW
+- 09/24 01:55 [FirstSquawk] MARATHON PETROLEUM ALSO DROPS TO SESSION LOW, DOWN 2.5%
+- 09/24 01:56 [FirstSquawk] EUROPEAN DIESEL FUTURES SURGE OVER 7% TO SESSION HIGH
+- 09/24 01:56 [FirstSquawk] IRAN SAYS ITS 'NEW' DIPLOMACY WON'T RETURN TO THE PAST

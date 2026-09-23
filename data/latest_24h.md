@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 01:45 JST／対象: 09/23 01:45 〜 09/24 01:45 JST（時刻はすべて日本時間）
+生成: 2026-09-24 01:58 JST／対象: 09/23 01:58 〜 09/24 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 69 | 09/23 04:42 | 09/24 01:07 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 356 | 09/23 01:45 | 09/24 01:44 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 308 | 09/23 01:46 | 09/24 01:36 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 352 | 09/23 02:31 | 09/24 01:56 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 299 | 09/23 01:58 | 09/24 01:52 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 709 行（統合前 739 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 698 行（統合前 726 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 01:45 [FirstSquawk] TRUMP: BURNHAM IS GOING TO BE A GREAT PRIME MINISTER
-- 09/23 01:45 [FirstSquawk] EU AND CANADA TO UNVEIL NEW PARTNERSHIP, BUT IT MAY NOT BE ‘ASSOCIATE MEMBERSHIP,’ SAYS AMBASSADOR – POLITICO
-- 09/23 01:45 [FirstSquawk] TRUMP: DISCUSSED ENERGY, IMMIGRATION, ROLLS-ROYCE WITH BURNHAM
-- 09/23 01:46 [financialjuice] Fed bids for 2-year notes total $10.4 bln.
-- 09/23 01:46 [financialjuice] UK's PM Burnham Tells Trump: We are ready to play our part in the Middle East.
-- 09/23 01:46 [financialjuice] Trump: I think Burnham is a natural businessperson, he gets it.
-- 09/23 01:49 [financialjuice] ❗ Trump on Iran: I think a settlement will be reached.
-- 09/23 01:49 [financialjuice/FirstSquawk] Trump: Iran has been talking to us, even today.
-- 09/23 01:49 [financialjuice] Trump: Some US-Iran communication has happened even today.
-- 09/23 01:50 [FirstSquawk] TRUMP ON IRAN: THINK A SETTLEMENT WILL BE REACHED
-- 09/23 01:50 [financialjuice] Trump|: The Iran relationship is developing.
-- 09/23 01:51 [FirstSquawk] TRUMP SAYS SOME US-IRAN COMMUNICATION HAS HAPPENED EVEN TODAY
-- 09/23 01:51 [FirstSquawk] TRUMP SAYS IRAN RELATIONSHIP IS 'DEVELOPING'
-- 09/23 01:51 [financialjuice] Fed's Barkin: We raised rates last week because risks to inflation outweigh risks to maximum employment.
-- 09/23 01:51 [financialjuice] Fed's Barkin: Last week's rate hike will help restore price stability, we'll see if more hikes are needed.
-- 09/23 01:51 [financialjuice] Fed's Barkin: It is tempting to blame high inflation on a handful of categories exposed to energy costs or tariffs, but much of the personal consumption expenditures index is rising by more than 3%.
-- 09/23 01:52 [financialjuice] Fed's Barkin: Economic conditions are, if anything, firming.
-- 09/23 01:52 [financialjuice] Fed's Barkin: There is momentum outside data centers and AI, with consumer spending holding up and strength in defense and manufacturing.
-- 09/23 01:52 [financialjuice] Fed's Barkin: Passing shocks like tariffs and energy are not fading, there is a risk that high inflation today will impact future inflation.
-- 09/23 01:54 [financialjuice] Trump, asked on the Chagos deal: I don't support it.
-- 09/23 01:55 [FirstSquawk] FED'S BARKIN: HIKED LAST WEEK AS RISKS TO INFLATION OUTWEIGH RISKS TO MAXIMUM EMPLOYMENT
-- 09/23 01:56 [financialjuice/FirstSquawk] Trump on UK Trade: Now we're doing well.
-- 09/23 01:56 [financialjuice] Trump ends remarks at meeting with UK's Burnham.
 - 09/23 01:58 [financialjuice] Trump signed the commission making Rubio the National Security Advisor, per a White House official - The Hill Reporter on X
 - 09/23 02:00 [financialjuice] Treasury WI 2-year yield 4.785% before $69 billion auction.
 - 09/23 02:02 [financialjuice] US 2-YEAR NOTE HIGH YIELD ACTUAL 4.787% (FORECAST -, PREVIOUS 4.204%) $MACRO
@@ -733,3 +710,15 @@
 - 09/24 01:36 [FirstSquawk] WRIGHT: CHINA IS 'SWING IMPORTER' OF OIL IN THE WORLD MARKET
 - 09/24 01:43 [FirstSquawk] TRUMP ADMINISTRATION BACKING OFF NIH GRANT ORDER AMID PUSHBACK - SEMAFOR
 - 09/24 01:44 [FirstSquawk] BOEING AND TURKISH AIRLINES FINALIZE ORDER FOR UP TO 150 737 MAX JETS
+- 09/24 01:45 [financialjuice] Fed bids for 5-year notes total $10.5 bln.
+- 09/24 01:46 [financialjuice] IMF's Managing Director Georgieva: The medium-term outlook for the global economy is tepid.
+- 09/24 01:46 [financialjuice] IMF Annual Report
+- 09/24 01:46 [financialjuice] IMF's Managing Director Georgieva: Fiscal challenges are growing more acute.
+- 09/24 01:48 [FirstSquawk] WHITE HOUSE PREPARING PLAN FOR 90-DAY DIESEL EXPORTS BAN
+- 09/24 01:48 [financialjuice] Senator's Sanders and Casar introduce a 'superintelligence’ ban - Politico
+- 09/24 01:51 [financialjuice] ❗ US prepares 90-day diesel export ban - Politico.
+- 09/24 01:52 [financialjuice] White House preparing plan for 90-day diesel exports ban - Politico
+- 09/24 01:55 [FirstSquawk] US DIESEL FUTURES SINK MORE THAN 7% TO INTRADAY LOW
+- 09/24 01:55 [FirstSquawk] MARATHON PETROLEUM ALSO DROPS TO SESSION LOW, DOWN 2.5%
+- 09/24 01:56 [FirstSquawk] EUROPEAN DIESEL FUTURES SURGE OVER 7% TO SESSION HIGH
+- 09/24 01:56 [FirstSquawk] IRAN SAYS ITS 'NEW' DIPLOMACY WON'T RETURN TO THE PAST

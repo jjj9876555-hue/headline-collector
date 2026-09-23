@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 01:45 JST／対象: 09/23 13:45 〜 09/24 01:45 JST（時刻はすべて日本時間）
+生成: 2026-09-24 01:58 JST／対象: 09/23 13:58 〜 09/24 01:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 67 | 09/23 18:24 | 09/24 01:07 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 148 | 09/23 13:45 | 09/24 01:44 | 30分（17:00→17:31） |
-| financialjuice | 148 | 09/23 14:52 | 09/24 01:36 | ⚠ 71分（18:33→19:45） |
+| FirstSquawk | 151 | 09/23 14:00 | 09/24 01:56 | 30分（17:00→17:31） |
+| financialjuice | 155 | 09/23 14:52 | 09/24 01:52 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 347 行（統合前 365 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 357 行（統合前 375 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 13:45 [FirstSquawk] Berenberg lifts Smiths Group target price to 3,200p from 3,000p
-- 09/23 13:49 [FirstSquawk] RBC lifts Standard Life target price to 970p from 885p
 - 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI SERVICES ACTUAL: 55.8 VS 54.1 PREVIOUS
 - 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI MFG ACTUAL: 55.7 VS 52.8 PREVIOUS
 - 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI COMPOSITE ACTUAL: 56.5 VS 54.3 PREVIOUS
@@ -371,3 +369,15 @@
 - 09/24 01:36 [FirstSquawk] WRIGHT: CHINA IS 'SWING IMPORTER' OF OIL IN THE WORLD MARKET
 - 09/24 01:43 [FirstSquawk] TRUMP ADMINISTRATION BACKING OFF NIH GRANT ORDER AMID PUSHBACK - SEMAFOR
 - 09/24 01:44 [FirstSquawk] BOEING AND TURKISH AIRLINES FINALIZE ORDER FOR UP TO 150 737 MAX JETS
+- 09/24 01:45 [financialjuice] Fed bids for 5-year notes total $10.5 bln.
+- 09/24 01:46 [financialjuice] IMF's Managing Director Georgieva: The medium-term outlook for the global economy is tepid.
+- 09/24 01:46 [financialjuice] IMF Annual Report
+- 09/24 01:46 [financialjuice] IMF's Managing Director Georgieva: Fiscal challenges are growing more acute.
+- 09/24 01:48 [FirstSquawk] WHITE HOUSE PREPARING PLAN FOR 90-DAY DIESEL EXPORTS BAN
+- 09/24 01:48 [financialjuice] Senator's Sanders and Casar introduce a 'superintelligence’ ban - Politico
+- 09/24 01:51 [financialjuice] ❗ US prepares 90-day diesel export ban - Politico.
+- 09/24 01:52 [financialjuice] White House preparing plan for 90-day diesel exports ban - Politico
+- 09/24 01:55 [FirstSquawk] US DIESEL FUTURES SINK MORE THAN 7% TO INTRADAY LOW
+- 09/24 01:55 [FirstSquawk] MARATHON PETROLEUM ALSO DROPS TO SESSION LOW, DOWN 2.5%
+- 09/24 01:56 [FirstSquawk] EUROPEAN DIESEL FUTURES SURGE OVER 7% TO SESSION HIGH
+- 09/24 01:56 [FirstSquawk] IRAN SAYS ITS 'NEW' DIPLOMACY WON'T RETURN TO THE PAST
