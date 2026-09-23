@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 06:17 JST／対象: 09/24 00:17 〜 09/24 06:17 JST（時刻はすべて日本時間）
+生成: 2026-09-24 06:32 JST／対象: 09/24 00:32 〜 09/24 06:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 21 | 09/24 00:43 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 78 | 09/24 00:18 | 09/24 05:26 | 34分（01:56→02:31） |
-| financialjuice | 70 | 09/24 00:17 | 09/24 05:39 | 22分（02:06→02:28） |
+| FirstSquawk | 73 | 09/24 00:33 | 09/24 05:26 | 34分（01:56→02:31） |
+| financialjuice | 66 | 09/24 00:33 | 09/24 06:22 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 167 行（統合前 170 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 159 行（統合前 161 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 00:17 [financialjuice/FirstSquawk] IIF: Emerging market debt jumps $6.5 trillion to more than $110 trillion in H1, led by China.
-- 09/24 00:17 [financialjuice] IIF: Global debt tops record $365 trillion in first half of 2026, emerging markets drive bulk of rise.
-- 09/24 00:18 [FirstSquawk] GLOBAL DEBT TOPS RECORD $365 TRILLION IN FIRST HALF OF 2026, EMERGING MARKETS DRIVE BULK OF RISE, SAYS IIF
-- 09/24 00:18 [financialjuice] US Secretary of State Rubio ends remarks to reporters.
-- 09/24 00:22 [FirstSquawk] MCDONALD'S SHARES EXTEND LOSSES, LAST DOWN 5.2%
-- 09/24 00:26 [FirstSquawk] GOOGLE LAUNCHES GEMINI 3.8 FLASH TTS AUDIO MODELS
-- 09/24 00:27 [financialjuice] US-EU Ambassador Puzder: We discussed Chinese overcapacity with EU's Sefcovic.
-- 09/24 00:28 [FirstSquawk] FRANCE FOREIGN MINISTER BARROT: RUSSIA IS ATTACKING THE WHOLE OF EUROPE
-- 09/24 00:29 [financialjuice] Iranian Tasnim News Agency, citing sources: Araqchi's move in dealing with Witkov was done without coordination with the relevant authorities - Al Hadath.
 - 09/24 00:33 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON: ANOTHER ROUND OF MESSAGE EXCHANGES AND CLARIFICATIONS TOOK PLACE BETWEEN IRAN, US VIA THE QATARI MEDIATOR ON TUESDAY
 - 09/24 00:33 [financialjuice] Iran's Foreign Ministry Spokesperson: Another round of message exchanges and clarifications took place between Iran and the US via the Qatari mediator on Tuesday.
 - 09/24 00:34 [financialjuice] Fed's Goolsbee: We're better off assuming that bigger negative supply shocks to have a pretty persistent effect on inflation - Economics Applied Podcast.
@@ -191,3 +182,4 @@
 - 09/24 05:33 [financialjuice] OpenAI Agents accessed Australia's Medicare statistics - News24.
 - 09/24 05:39 [financialjuice] Australia's Prime Minister Albanese: I am aware of AI incidents happening elsewhere.
 - 09/24 05:51 [DeItaone] AUSTRALIA PM ALBANESE: INCIDENT INVOLVED OPENAI AGENT GAINING UNAUTHORIZED ACCESS INTO THE PUBLIC-FACING MEDICARE STATISTICS REPORTING SERVICE PORTAL
+- 09/24 06:22 [financialjuice] North Korea: conducted test launch of upgraded guided rocket artillery shells on Sept. 22 - KCNA

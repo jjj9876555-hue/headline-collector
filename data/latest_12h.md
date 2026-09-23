@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 06:17 JST／対象: 09/23 18:17 〜 09/24 06:17 JST（時刻はすべて日本時間）
+生成: 2026-09-24 06:32 JST／対象: 09/23 18:32 〜 09/24 06:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 166 | 09/23 18:22 | 09/24 05:26 | 34分（01:56→02:31） |
-| financialjuice | 167 | 09/23 18:23 | 09/24 05:39 | ⚠ 71分（18:33→19:45） |
+| DeItaone | 81 | 09/23 18:35 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 165 | 09/23 18:35 | 09/24 05:26 | 34分（01:56→02:31） |
+| financialjuice | 166 | 09/23 18:33 | 09/24 06:22 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 398 行（統合前 418 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 396 行（統合前 415 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 18:22 [FirstSquawk/financialjuice] TRUMP BOARD OF PEACE TO UNVEIL $2.45B GAZA RECOVERY PLAN - AXIOS
-- 09/23 18:23 [financialjuice] Gaza plan to be presented to members on Wednesday - Axios
-- 09/23 18:24 [DeItaone] TRUMP'S BOARD OF PEACE TO UNVEIL $2.45 BILLION GAZA RECOVERY PLAN- AXIOS
 - 09/23 18:33 [financialjuice] GERMAN 30 YR BUND YIELD ACTUAL 3.8% (FORECAST -, PREVIOUS 3.9%) $MACRO
 - 09/23 18:33 [financialjuice] GERMAN 30 YR BUND BID-TO-COVER ACTUAL 1.584 (FORECAST -, PREVIOUS 2.4) $MACRO
 - 09/23 18:35 [FirstSquawk/DeItaone] SPOT GOLD FALLS NEARLY 1% TO $4,312.99/OZ
@@ -422,3 +419,4 @@
 - 09/24 05:33 [financialjuice] OpenAI Agents accessed Australia's Medicare statistics - News24.
 - 09/24 05:39 [financialjuice] Australia's Prime Minister Albanese: I am aware of AI incidents happening elsewhere.
 - 09/24 05:51 [DeItaone] AUSTRALIA PM ALBANESE: INCIDENT INVOLVED OPENAI AGENT GAINING UNAUTHORIZED ACCESS INTO THE PUBLIC-FACING MEDICARE STATISTICS REPORTING SERVICE PORTAL
+- 09/24 06:22 [financialjuice] North Korea: conducted test launch of upgraded guided rocket artillery shells on Sept. 22 - KCNA

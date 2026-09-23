@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 06:17 JST／対象: 09/23 06:17 〜 09/24 06:17 JST（時刻はすべて日本時間）
+生成: 2026-09-24 06:32 JST／対象: 09/23 06:32 〜 09/24 06:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
 | FirstSquawk | 319 | 09/23 06:58 | 09/24 05:26 | ⚠ 63分（07:00→08:04） |
-| financialjuice | 235 | 09/23 06:18 | 09/24 05:39 | ⚠ 73分（13:39→14:52） |
+| financialjuice | 232 | 09/23 06:35 | 09/24 06:22 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 619 行（統合前 639 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 616 行（統合前 636 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 06:18 [financialjuice] USPS refers mail dumping case involving election ballots to inspector general
-- 09/23 06:18 [financialjuice] USPS: mail dumping incident probably involved worker; case sent to oig for probe
-- 09/23 06:19 [financialjuice] EU's Kallas: met today with Serbian President Vucic and Kosovo Prime Minister Kurti
-- 09/23 06:20 [financialjuice] EU's Kallas: Urged advancing normalization of ties between Belgrade and Pristina
 - 09/23 06:35 [financialjuice] Sound of blast heard near Iran’s Qeshm Island: IRNA
 - 09/23 06:35 [financialjuice] Irna: sound seemed to originate from sea; no effects reported on Iran's Qeshm Island
 - 09/23 06:42 [financialjuice] Downing Street: UK PM Burnham met European Commission President Ursula von der Leyen at UN General Assembly today
@@ -643,3 +639,4 @@
 - 09/24 05:33 [financialjuice] OpenAI Agents accessed Australia's Medicare statistics - News24.
 - 09/24 05:39 [financialjuice] Australia's Prime Minister Albanese: I am aware of AI incidents happening elsewhere.
 - 09/24 05:51 [DeItaone] AUSTRALIA PM ALBANESE: INCIDENT INVOLVED OPENAI AGENT GAINING UNAUTHORIZED ACCESS INTO THE PUBLIC-FACING MEDICARE STATISTICS REPORTING SERVICE PORTAL
+- 09/24 06:22 [financialjuice] North Korea: conducted test launch of upgraded guided rocket artillery shells on Sept. 22 - KCNA
