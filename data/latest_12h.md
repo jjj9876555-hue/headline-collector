@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 10:44 JST／対象: 09/22 22:44 〜 09/23 10:44 JST（時刻はすべて日本時間）
+生成: 2026-09-23 10:58 JST／対象: 09/22 22:58 〜 09/23 10:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 210 | 09/22 22:47 | 09/23 10:38 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 218 | 09/22 22:52 | 09/23 10:21 | ⚠ 46分（09:15→10:01） |
+| FirstSquawk | 211 | 09/22 23:02 | 09/23 10:53 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 214 | 09/22 23:00 | 09/23 10:21 | ⚠ 46分（09:15→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 420 行（統合前 436 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 417 行（統合前 433 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 22:47 [FirstSquawk] US PRESIDENT TRUMP’S ‘MESSAGE’ TO PUTIN: SETTLE THE WAR
-- 09/22 22:52 [financialjuice] Fed's Collins: A somewhat more restrictive federal funds rate will help ensure that inflation durably returns to target.
-- 09/22 22:52 [financialjuice] Trump speaks at the UN - WATCH LIVE
-- 09/22 22:52 [financialjuice] Iran's President Pezeshkian departs Algeria for New York - Iranian Media.
-- 09/22 22:55 [FirstSquawk] IRAN'S PRESIDENT PEZESHKIAN LEAVES ALGERIA FOR NEW YORK, ACCORDING TO IRANIAN MEDIA.
-- 09/22 22:58 [financialjuice] RBC BlueBay's Fixed Income CIO Dowding: Favourable view on short-dated bonds for the first time this year; cautious on long-dated UK bonds, shorter-dated gilts look better value
 - 09/22 23:00 [financialjuice] EUROZONE CONSUMER CONFIDENCE FLASH ACTUAL -16.5 (FORECAST -16, PREVIOUS -15.5) $MACRO
 - 09/22 23:00 [financialjuice] RICHMOND FED COMP. INDEX ACTUAL -2 (FORECAST 2, PREVIOUS 4) $MACRO
 - 09/22 23:01 [financialjuice] Trump: United States will no longer permit threats to America to gain a foothold anywhere in the Western Hemisphere - White House Press Pool.
@@ -444,3 +438,6 @@
 - 09/23 10:23 [FirstSquawk] South Korea’s Lee, Trump reaffirm cooperation on nuclear submarines, fuel reprocessing and shipbuilding
 - 09/23 10:27 [FirstSquawk] GM CEO Mary Barra set to attend Trump’s state dinner for Xi, Reuters reports
 - 09/23 10:38 [FirstSquawk] Japan’s Aeon introduces 1,000-yen jeans as consumer spending comes under pressure - Kyodo
+- 09/23 10:46 [FirstSquawk] Takaichi says Japan remains a “peace-loving nation” committed to defense-oriented policy - Kyodo
+- 09/23 10:48 [FirstSquawk] BlackRock says AI computing capacity may become tokenized in the future
+- 09/23 10:53 [FirstSquawk] Export Finance Australia retains ‘AAA’ rating from Fitch; outlook stable
