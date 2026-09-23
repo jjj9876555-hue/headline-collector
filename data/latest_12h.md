@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 23:04 JST／対象: 09/23 11:04 〜 09/23 23:04 JST（時刻はすべて日本時間）
+生成: 2026-09-23 23:27 JST／対象: 09/23 11:27 〜 09/23 23:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 38 | 09/23 18:24 | 09/23 23:03 | ⚠ 61分（20:05→21:06） |
-| FirstSquawk | 138 | 09/23 11:10 | 09/23 23:04 | 30分（17:00→17:31） |
-| financialjuice | 85 | 09/23 11:20 | 09/23 23:02 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 54 | 09/23 18:24 | 09/23 23:26 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 149 | 09/23 11:27 | 09/23 23:25 | 30分（17:00→17:31） |
+| financialjuice | 107 | 09/23 11:32 | 09/23 23:26 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 249 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 295 行（統合前 311 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 11:10 [FirstSquawk] Canadian Dollar faces downside pressure as oil prices fall on Iran diplomacy hopes - fx
-- 09/23 11:19 [FirstSquawk] Toyota plans 400,000 robots in factories, including humanoids that learn from employees - NA
-- 09/23 11:20 [financialjuice] Iran foreign ministry spokesperson: engagement with US side in New York occurred via Qatari intermediary - IRNA
-- 09/23 11:20 [FirstSquawk] Iran says Qatar mediated engagement with U.S. officials in New York - IRNA
-- 09/23 11:23 [financialjuice] Anthropic in discussions to secure control over additional data centers - The Information
-- 09/23 11:23 [FirstSquawk] Anthropic seeks greater control of data centers in ongoing talks - The Information
-- 09/23 11:24 [financialjuice] Anthropic discusses up to 1 gigawatt data center lease with Stream Data Centers - The Information
-- 09/23 11:24 [FirstSquawk] Anthropic discusses up to 1 GW data center lease with Stream Data Centers - The Information
 - 09/23 11:27 [FirstSquawk] Vietnam’s TPBank plans to issue 416 million new shares to shareholders as dividends
 - 09/23 11:32 [financialjuice] China finance ministry auctions 3-month deposits at 1.47% yield: statement
 - 09/23 11:32 [FirstSquawk] China Finance Ministry auctions 3-month deposits with 1.47% yield
@@ -273,3 +265,57 @@
 - 09/23 23:02 [financialjuice] Investors price in 70% chance of a Bank of England rate hike in November (Tuesday: 60%).
 - 09/23 23:03 [DeItaone] GOLDMAN: DIESEL EXPORT BAN COULD PUSH GASOLINE PRICES HIGHER Goldman Sachs warns a U.S. diesel export ban could lower domestic diesel prices but raise gasoline prices. Cheaper diesel could encourage refiners to cut production, reducing gaso…
 - 09/23 23:04 [FirstSquawk] MOHSEN REZAEI, SECRETARY OF IRAN'S SUPREME NATIONAL SECURITY COUNCIL, SAID IN AN INTERVIEW WITH STATE TELEVISION THAT TEHRAN HAD GIVEN THE UNITED STATES FOUR TO FIVE DAYS TO MEET ITS CONDITIONS, LINKING ANY FURTHER NEGOTIATIONS AND REOPENIN…
+- 09/23 23:05 [DeItaone] OIL JUMPS AS IRAN HARDENS HORMUZ STANCE Oil prices climbed to daily highs as optimism over U.S.-Iran diplomacy faded following tougher comments from Iran’s security chief. Tehran reiterated that Hormuz will remain closed and negotiations wi…
+- 09/23 23:05 [DeItaone] FED'S BARR SEES MORE RATE HIKES AHEAD
+- 09/23 23:05 [financialjuice] ❗ Fed's Barr: Further rate hikes are likely needed to ensure timely return to 2% inflation.
+- 09/23 23:05 [financialjuice] Fed's Barr: Risks to achieving 2% inflation have increased, risks to the labor market have receded.
+- 09/23 23:05 [DeItaone] FED’S BARR SIGNALS MORE RATE HIKES AHEAD Fed Governor Michael Barr says further rate hikes will likely be needed to bring inflation back to target after last week’s 25bp increase. Barr said the Fed had been “out of position” before the late…
+- 09/23 23:06 [financialjuice] Fed's Barr: Going into the recent policy meeting, the Fed needed to recalibrate monetary policy to reflect risks.
+- 09/23 23:06 [financialjuice] Fed's Barr: The Fed was out of position, we made an adjustment in the right direction.
+- 09/23 23:06 [financialjuice] Democrats urge Trump in letter to seek AI deal with China - Politico
+- 09/23 23:06 [financialjuice] Fed's Barr: Inflation is not clearly trending toward our target in a timely way; economic growth is strong, the labor market is solid.
+- 09/23 23:06 [FirstSquawk] FED'S BARR: FURTHER RATE HIKES LIKELY NEEDED TO ENSURE TIMELY RETURN TO 2% INFLATION
+- 09/23 23:06 [FirstSquawk] BARR: RISKS TO ACHIEVING 2% INFLATION HAVE INCREASED, RISKS TO LABOR MARKET HAVE RECEDED
+- 09/23 23:07 [FirstSquawk] BARR: FED WAS OUT OF POSITION, MADE AN ADJUSTMENT IN THE RIGHT DIRECTION
+- 09/23 23:07 [FirstSquawk] BARR: INFLATION IS NOT CLEARLY TRENDING TOWARD TARGET IN A TIMELY WAY; ECONOMIC GROWTH IS STRONG, LABOR MARKET SOLID
+- 09/23 23:07 [FirstSquawk] SENATORS ASK TRUMP TO SLOW OR PAUSE AI DEVELOPMENT: POLITICO
+- 09/23 23:09 [financialjuice] Libya's Sharara is now pumping at less than 100k b/d - NOC Chairman.
+- 09/23 23:09 [DeItaone] DEMOCRATS PUSH TRUMP FOR U.S.-CHINA AI DEAL Seventeen Democratic senators are urging President Trump to use his upcoming meeting with Xi Jinping to pursue an AI safety agreement with China. Their proposal calls for both countries to slow or…
+- 09/23 23:10 [financialjuice] Yemen’s Houthis, threatening global oil, are increasingly supplied by China - WSJ.
+- 09/23 23:10 [DeItaone] BESSENT ARRIVES FOR MEETING WITH CHINESE VICE PREMIER HE IN WASHINGTON
+- 09/23 23:11 [financialjuice] US Treasury Secretary Bessent arrives for a meeting with Chinese Vice Premier He in Washington.
+- 09/23 23:11 [FirstSquawk] SAUDI CIVIL DEFENSE ISSUES ALERT OVER POTENTIAL DANGER IN JAZAN
+- 09/23 23:11 [FirstSquawk] SAUDI CIVIL DEFENSE ISSUES ALERT OVER POTENTIAL DANGER IN NAJRAN
+- 09/23 23:11 [financialjuice] Iran's President Pezeshkian Speaks at the UN - WATCH LIVE
+- 09/23 23:11 [financialjuice] Iraqi Prime Minister and Trump discuss cooperation and the region - INA.
+- 09/23 23:12 [financialjuice] Explosion heard in Jazan, Saudi Arabia - Tasnim News.
+- 09/23 23:14 [financialjuice/FirstSquawk] United Nations: United States Delegation walks out during Iran President's UN Speech.
+- 09/23 23:14 [DeItaone] PEZESHKIAN: WE HAVE BEEN THE VICTIMS OF TERRORISM PEZESHKIAN: OUR LEADER WAS ASSASINATED WITHOUT LEGAL FRAMEWORK US OFFICIAL WALKS OUT OF UNGA HALL DURING IRAN PRESIDENT SPEECH PEZESHKIAN: WE DID NOT BOW OUR HEAD, BUT WE DID NOT HIT CIVILIA…
+- 09/23 23:15 [FirstSquawk] UNITED NATIONS - IRAN'S PRESIDENT PEZESHKIAN: U.S. DOES NOT RESPECT ANY INTERNATIONAL LAWS
+- 09/23 23:15 [FirstSquawk] YOUTUBE TO INTRODUCE NEW TOOLS FOR DIGITAL PRODUCERS: WSJ
+- 09/23 23:16 [DeItaone] IRAN'S PRESIDENT PEZESHKIAN: U.S. DOES NOT RESPECT ANY INTERNATIONAL LAWS
+- 09/23 23:16 [DeItaone] IRAN'S PRESIDENT PEZESHKIAN: IRAN NEEDS NUCLEAR ENERGY NOT NUCLEAR BOMB
+- 09/23 23:16 [financialjuice] Iran's President Pezeshkian: Iran needs to be strong and powerful to resist the US, and our enemies.
+- 09/23 23:17 [financialjuice] Iran's President Pezeshkian: Iran needs nuclear energy, not a nuclear bomb.
+- 09/23 23:17 [FirstSquawk] UNITED NATIONS - IRAN'S PRESIDENT PEZESHKIAN: IRAN NEEDS TO BE STRONG AND POWERFUL TO RESIST U.S., ENEMIES
+- 09/23 23:18 [financialjuice] Fear and Greed Index: 37/100 = Fear
+- 09/23 23:18 [FirstSquawk] SAMSUNG SUPPLIES SMRS TO EUROPE WITH THE US AND JAPAN – YONHAP
+- 09/23 23:18 [financialjuice] Crypto Fear and Greed Index: 71/100 = Greed.
+- 09/23 23:19 [FirstSquawk] IRAN'S PRESIDENT: WE SAY NO TO NUCLEAR WEAPONS
+- 09/23 23:20 [DeItaone/FirstSquawk] IRAN'S PEZESHKIAN: HORMUZ STRAIT CANNOT BE USED FOR PASSAGE OF WEAPONS THAT WILL BE USED AGAINST IRAN
+- 09/23 23:20 [financialjuice] Iran's President: The nuclear issue won't be solved on the battlefield.
+- 09/23 23:21 [financialjuice] Iran's Pezeshkian: The Hormuz Strait cannot be used for the passage of weapons that will be used against Iran.
+- 09/23 23:23 [DeItaone] U.S. MORTGAGE RATE TOPS 7% FOR FIRST TIME SINCE 2025 The average U.S. 30-year fixed mortgage rate jumped to 7.12%, its highest level since May 2024. Rates have climbed as Fed tightening, higher oil prices and rising Treasury yields increase…
+- 09/23 23:24 [financialjuice/DeItaone] Iran's Pezeshkian: Iran will not surrender with military power, believes in diplomacy.
+- 09/23 23:24 [DeItaone] PEZESHKIAN: WE ARE NOT AFRAID OF FIGHTING
+- 09/23 23:24 [financialjuice] Iran's President Pezeshkian: We can't allow free Hormuz use while we're sanctioned.
+- 09/23 23:25 [DeItaone] RUBIO ON IRAN: WE UNDERSTAND STRAIT IS ISSUE
+- 09/23 23:25 [DeItaone] RUBIO ON IRAN: WE WILL CONTINUE TO DEFEND AND HOLD STRAITS OPEN
+- 09/23 23:25 [FirstSquawk] U.S. SECRETARY OF STATE RUBIO ON IRAN: WE WILL CONTINUE TO DEFEND AND HOLD STRAITS OPEN
+- 09/23 23:25 [FirstSquawk] RUBIO: IRAN FIRED AT COMMERCIAL SHIPS THIS MORNING
+- 09/23 23:25 [financialjuice] US Secretary of State Rubio: Iran fired at commercial ships this morning.
+- 09/23 23:26 [financialjuice] US Secretary of State Rubio on Iran: We will continue to defend and hold the Straits open.
+- 09/23 23:26 [DeItaone] RUBIO: TRUMP HAS NUMBER OF OPTIONS AVAILABLE, INCLUDING MILITARY OPTIONS
+- 09/23 23:26 [financialjuice] US Secretary of State Rubio: If there's an Iran deal, it will involve hard work and time.
+- 09/23 23:26 [DeItaone] RUBIO: IF THERE'S GOING TO BE A DEAL WITH IRAN, IT'S GOING TO INVOLVE HEARD WORK OVER PERIOD OF TIME
+- 09/23 23:26 [financialjuice] US Secretary of State Rubio: Trump has a number of options available, including military options.
