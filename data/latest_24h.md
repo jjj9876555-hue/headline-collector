@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 11:33 JST／対象: 09/22 11:33 〜 09/23 11:33 JST（時刻はすべて日本時間）
+生成: 2026-09-23 11:51 JST／対象: 09/22 11:51 〜 09/23 11:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 347 | 09/22 11:33 | 09/23 11:33 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 326 | 09/22 12:21 | 09/23 11:32 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 341 | 09/22 11:52 | 09/23 11:50 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 329 | 09/22 12:21 | 09/23 11:44 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 682 行（統合前 704 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 679 行（統合前 701 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 11:33 [FirstSquawk] G7: Situation in Yemen poses unacceptable risks to regional stability, security and global energy security
-- 09/22 11:34 [FirstSquawk] G7 statement calls on Iran to halt support and arms supplies to Houthis, citing UN Security Council resolutions
-- 09/22 11:34 [FirstSquawk] G7 statement: Iran’s actions seen as a dangerous escalation, risking further conflict
-- 09/22 11:34 [FirstSquawk] G7 statement: Iran’s actions threaten international trade and risk greater global economic instability
-- 09/22 11:35 [FirstSquawk] G7 statement: Houthi strikes in Yemen and against Saudi Arabia are unacceptable and must stop
-- 09/22 11:35 [FirstSquawk] G7 demands Houthis end all military actions, threats and attacks against civilian vessels
-- 09/22 11:38 [FirstSquawk] South Korean lawmakers express concerns about commercial viability of US investment plan — lawmaker
-- 09/22 11:40 [FirstSquawk] South Korean government believes 20-year profit return scheme supports commercial viability of US investment plan — lawmaker
-- 09/22 11:40 [FirstSquawk] S. Korea lawmaker: Formal announcement to be followed by “significant” investment payment by end-September
-- 09/22 11:41 [FirstSquawk] South Korea lawmaker: Government briefed lawmakers on nuclear, Texas power plant and Alaska LNG projects, focusing on Texas energy project
-- 09/22 11:42 [FirstSquawk] South Korea to invest over $20 billion in Texas power plant project — lawmaker
-- 09/22 11:49 [FirstSquawk] Indonesia’s wet season set to start in most areas in early November, weather agency says
 - 09/22 11:52 [FirstSquawk] Indonesia weather agency expects shorter-than-normal wet season across most of the country in 2026-27
 - 09/22 11:56 [FirstSquawk] NHC: Odalys expected to slowly strengthen
 - 09/22 12:05 [FirstSquawk] Texas power plant selected as South Korea’s first US investment project — Yonhap
@@ -706,3 +694,12 @@
 - 09/23 11:32 [financialjuice] China finance ministry auctions 3-month deposits at 1.47% yield: statement
 - 09/23 11:32 [FirstSquawk] China Finance Ministry auctions 3-month deposits with 1.47% yield
 - 09/23 11:33 [FirstSquawk] China Finance Ministry sells 2-month deposits at 1.46% yield
+- 09/23 11:40 [FirstSquawk] Seoul shares ease from session highs as profit-taking emerges on Wednesday morning
+- 09/23 11:41 [FirstSquawk] Odalys forecast to become a hurricane later tonight, NHC says
+- 09/23 11:43 [FirstSquawk] SoftBank Group plans $10 bln dollar bond offering across three maturities, term sheet shows
+- 09/23 11:44 [financialjuice] China names Li Lecheng party secretary of Anhui, replacing Liang Yanshun - Xinhua
+- 09/23 11:44 [financialjuice] China names Zhou Zuyi party chief of Henan, replacing Liu Ning: Xinhua
+- 09/23 11:44 [financialjuice] China appoints Zhao Long as Fujian party chief: Xinhua
+- 09/23 11:49 [FirstSquawk] Reserve Bank of Australia publishes 2026 review of ASX clearing and settlement facilities
+- 09/23 11:49 [FirstSquawk] RBA says ASX clearing and settlement facilities met many standards at ‘observed’ or ‘broadly observed’ levels
+- 09/23 11:50 [FirstSquawk] RBA says ASX continues to fall short in several important areas

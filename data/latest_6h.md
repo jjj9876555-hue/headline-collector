@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 11:33 JST／対象: 09/23 05:33 〜 09/23 11:33 JST（時刻はすべて日本時間）
+生成: 2026-09-23 11:51 JST／対象: 09/23 05:51 〜 09/23 11:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 84 | 09/23 05:40 | 09/23 11:33 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 37 | 09/23 05:33 | 09/23 11:32 | ⚠ 46分（09:15→10:01） |
+| FirstSquawk | 89 | 09/23 06:58 | 09/23 11:50 | ⚠ 63分（07:00→08:04） |
+| financialjuice | 36 | 09/23 05:56 | 09/23 11:44 | ⚠ 46分（09:15→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 121 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 05:33 [financialjuice] ECB's Nagel: Up to now, I do not see significant 2nd round effects.
-- 09/23 05:35 [financialjuice] ECB's Nagel: We are vigilant.
-- 09/23 05:39 [financialjuice/FirstSquawk] ❗ Iraqi Oil Minister: Iraq is studying a plan to export crude oil by trucks to Turkey
-- 09/23 05:46 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL 1.786M (FORECAST -0.5M, PREVIOUS 7.1M) $MACRO
 - 09/23 05:56 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL -2.164M (FORECAST -, PREVIOUS 1.6M) $MACRO
 - 09/23 05:57 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL 2.082M (FORECAST -, PREVIOUS -0.246M ) $MACRO
 - 09/23 05:57 [financialjuice] US API GASOLINE STOCK CHANGE ACTUAL -2.16M (FORECAST -, PREVIOUS 1.5M) $MACRO
@@ -144,3 +140,12 @@
 - 09/23 11:32 [financialjuice] China finance ministry auctions 3-month deposits at 1.47% yield: statement
 - 09/23 11:32 [FirstSquawk] China Finance Ministry auctions 3-month deposits with 1.47% yield
 - 09/23 11:33 [FirstSquawk] China Finance Ministry sells 2-month deposits at 1.46% yield
+- 09/23 11:40 [FirstSquawk] Seoul shares ease from session highs as profit-taking emerges on Wednesday morning
+- 09/23 11:41 [FirstSquawk] Odalys forecast to become a hurricane later tonight, NHC says
+- 09/23 11:43 [FirstSquawk] SoftBank Group plans $10 bln dollar bond offering across three maturities, term sheet shows
+- 09/23 11:44 [financialjuice] China names Li Lecheng party secretary of Anhui, replacing Liang Yanshun - Xinhua
+- 09/23 11:44 [financialjuice] China names Zhou Zuyi party chief of Henan, replacing Liu Ning: Xinhua
+- 09/23 11:44 [financialjuice] China appoints Zhao Long as Fujian party chief: Xinhua
+- 09/23 11:49 [FirstSquawk] Reserve Bank of Australia publishes 2026 review of ASX clearing and settlement facilities
+- 09/23 11:49 [FirstSquawk] RBA says ASX clearing and settlement facilities met many standards at ‘observed’ or ‘broadly observed’ levels
+- 09/23 11:50 [FirstSquawk] RBA says ASX continues to fall short in several important areas
