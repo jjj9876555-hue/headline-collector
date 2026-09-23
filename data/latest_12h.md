@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 16:51 JST／対象: 09/23 04:51 〜 09/23 16:51 JST（時刻はすべて日本時間）
+生成: 2026-09-23 17:04 JST／対象: 09/23 05:04 〜 09/23 17:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 155 | 09/23 04:58 | 09/23 16:48 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 82 | 09/23 04:54 | 09/23 16:46 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 150 | 09/23 05:21 | 09/23 17:00 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 87 | 09/23 05:05 | 09/23 17:03 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 236 行（統合前 237 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,16 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 04:54 [financialjuice] Iran's armed forces: Trump's statements on Iran at the UNGA are tools for domestic propaganda - Statement
-- 09/23 04:58 [FirstSquawk] IRAN’S ARMED FORCES: TRUMP’S UNGA STATEMENTS ON IRAN ARE “TOOLS FOR DOMESTIC PROPAGANDA” — STATEMENT
-- 09/23 04:59 [FirstSquawk] MICROSOFT TO CONTINUE CONSIDERING SHAREHOLDER PROPOSALS THROUGH 2027 DESPITE SEC PROPOSAL TO END OVERSIGHT OF SUCH VOTES
-- 09/23 05:00 [FirstSquawk] NASDAQ CLOSES 0.45% HIGHER AT 27,245.24, UP 123.14 POINTS
-- 09/23 05:01 [FirstSquawk] S&P 500 CLOSES FLAT AT 7,765.00, UP 0.30 POINTS
-- 09/23 05:02 [financialjuice] ECB's Nagel: Oil prices are not the only indicator, but have become more relevant over past 4 years
-- 09/23 05:02 [FirstSquawk] NASDAQ CLOSES 0.45% HIGHER AT 27,245.24, UP 123.14 POINTS S&P 500 CLOSES FLAT AT 7,765.00, UP 0.30 POINTS DOW JONES CLOSES 0.31% LOWER AT 51,886.10, DOWN 162.73 POINTS
-- 09/23 05:03 [FirstSquawk] US GOVERNMENT AND GULF BILLIONAIRES BACK TODD BOEHLY BID FOR LUKOIL ASSETS - FT
-- 09/23 05:03 [financialjuice] Canada's PM Carney: AI advancing faster than we can control it
-- 09/23 05:03 [financialjuice] South Korea's President Lee unveils Korean Peninsula peace coexistence plan
 - 09/23 05:05 [financialjuice] Qualcomm launches two new flagship mobile platforms. $QCOM
 - 09/23 05:09 [financialjuice] ECB's Nagel: I am not so concerned about labour market developments
 - 09/23 05:12 [financialjuice] ECB's Nagel: We are conducting monetary policy in between constructive ambiguity and forward guidance
@@ -260,3 +250,13 @@
 - 09/23 16:30 [FirstSquawk] GERMANY'S SEPTEMBER COMPOSITE PMI INCREASES TO 53.8, BEATING THE ESTIMATED 51.8.
 - 09/23 16:46 [financialjuice] NVIDIA-backed Firmus seeks $10 billion financing for AI chips.
 - 09/23 16:48 [FirstSquawk] NVIDIA-SUPPORTED FIRMUS AIMS TO RAISE $10 BILLION FOR AI CHIP DEVELOPMENT.
+- 09/23 17:00 [financialjuice] EUROZONE SERVICES PMI FLASH ACTUAL 53 (FORECAST 51.4, PREVIOUS 51.6) $MACRO
+- 09/23 17:00 [financialjuice] EUROZONE COMPOSITE PMI FLASH ACTUAL 53.1 (FORECAST 51.7, PREVIOUS 52.0) $MACRO
+- 09/23 17:00 [financialjuice] ❗ EUROZONE MANUFACTURING PMI FLASH ACTUAL 52.7 (FORECAST 52.6, PREVIOUS 52.7) $MACRO
+- 09/23 17:00 [FirstSquawk] Eurozone S&P Global Manufacturing PMI Sep P: 52.7 (est 52.6; prev 52.7) - Services PMI: 53.0 (est 51.4; prev 51.6) - Composite PMI: 53.1 (est 51.7; prev 52.0)
+- 09/23 17:02 [financialjuice] OECD forecasts US 2026 growth of 2.2% (vs 2.0% in june), 2.1% in 2027 (vs 1.8%).
+- 09/23 17:02 [financialjuice] OECD forecasts world 2026 growth of 2.9% (vs 2.8% in june), 3.0% in 2027 (vs 3.1%).
+- 09/23 17:02 [financialjuice] OECD forecasts china 2026 growth of 4.5% (unchanged), 4.2% in 2027 (vs 4.3%).
+- 09/23 17:02 [financialjuice] OECD forecasts Euro Area 2026 growth of 1.0% (vs 0.8% in June), 1.0% in 2027 (vs 1.2%).
+- 09/23 17:03 [financialjuice] OECD forecasts Japan 2026 growth of 0.8% (vs 0.6% in June), 0.7% in 2027 (vs 0.8%).
+- 09/23 17:03 [financialjuice] OECD forecasts UK 2026 growth of 1.1% (vs 0.9% in June), 1.0% in 2027 (vs 1.1%).

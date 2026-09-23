@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 16:51 JST／対象: 09/23 10:51 〜 09/23 16:51 JST（時刻はすべて日本時間）
+生成: 2026-09-23 17:04 JST／対象: 09/23 11:04 〜 09/23 17:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 70 | 09/23 10:53 | 09/23 16:48 | 26分（16:04→16:30） |
-| financialjuice | 32 | 09/23 10:59 | 09/23 16:46 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 69 | 09/23 11:10 | 09/23 17:00 | 26分（16:04→16:30） |
+| financialjuice | 40 | 09/23 11:20 | 09/23 17:03 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 102 行（統合前 102 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 109 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 10:53 [FirstSquawk] Export Finance Australia retains ‘AAA’ rating from Fitch; outlook stable
-- 09/23 10:59 [financialjuice] Three commodity ships pass Strait of Hormuz on Tuesday vs 10-day moving average of about 15, data shows
-- 09/23 10:59 [FirstSquawk] Only three commodity vessels transit Strait of Hormuz on Tuesday, well below 10-day average
 - 09/23 11:10 [FirstSquawk] Canadian Dollar faces downside pressure as oil prices fall on Iran diplomacy hopes - fx
 - 09/23 11:19 [FirstSquawk] Toyota plans 400,000 robots in factories, including humanoids that learn from employees - NA
 - 09/23 11:20 [financialjuice] Iran foreign ministry spokesperson: engagement with US side in New York occurred via Qatari intermediary - IRNA
@@ -126,3 +123,13 @@
 - 09/23 16:30 [FirstSquawk] GERMANY'S SEPTEMBER COMPOSITE PMI INCREASES TO 53.8, BEATING THE ESTIMATED 51.8.
 - 09/23 16:46 [financialjuice] NVIDIA-backed Firmus seeks $10 billion financing for AI chips.
 - 09/23 16:48 [FirstSquawk] NVIDIA-SUPPORTED FIRMUS AIMS TO RAISE $10 BILLION FOR AI CHIP DEVELOPMENT.
+- 09/23 17:00 [financialjuice] EUROZONE SERVICES PMI FLASH ACTUAL 53 (FORECAST 51.4, PREVIOUS 51.6) $MACRO
+- 09/23 17:00 [financialjuice] EUROZONE COMPOSITE PMI FLASH ACTUAL 53.1 (FORECAST 51.7, PREVIOUS 52.0) $MACRO
+- 09/23 17:00 [financialjuice] ❗ EUROZONE MANUFACTURING PMI FLASH ACTUAL 52.7 (FORECAST 52.6, PREVIOUS 52.7) $MACRO
+- 09/23 17:00 [FirstSquawk] Eurozone S&P Global Manufacturing PMI Sep P: 52.7 (est 52.6; prev 52.7) - Services PMI: 53.0 (est 51.4; prev 51.6) - Composite PMI: 53.1 (est 51.7; prev 52.0)
+- 09/23 17:02 [financialjuice] OECD forecasts US 2026 growth of 2.2% (vs 2.0% in june), 2.1% in 2027 (vs 1.8%).
+- 09/23 17:02 [financialjuice] OECD forecasts world 2026 growth of 2.9% (vs 2.8% in june), 3.0% in 2027 (vs 3.1%).
+- 09/23 17:02 [financialjuice] OECD forecasts china 2026 growth of 4.5% (unchanged), 4.2% in 2027 (vs 4.3%).
+- 09/23 17:02 [financialjuice] OECD forecasts Euro Area 2026 growth of 1.0% (vs 0.8% in June), 1.0% in 2027 (vs 1.2%).
+- 09/23 17:03 [financialjuice] OECD forecasts Japan 2026 growth of 0.8% (vs 0.6% in June), 0.7% in 2027 (vs 0.8%).
+- 09/23 17:03 [financialjuice] OECD forecasts UK 2026 growth of 1.1% (vs 0.9% in June), 1.0% in 2027 (vs 1.1%).
