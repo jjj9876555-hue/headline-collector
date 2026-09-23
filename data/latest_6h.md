@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 13:25 JST／対象: 09/23 07:25 〜 09/23 13:25 JST（時刻はすべて日本時間）
+生成: 2026-09-23 13:44 JST／対象: 09/23 07:44 〜 09/23 13:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 107 | 09/23 08:04 | 09/23 13:22 | 11分（10:59→11:10） |
-| financialjuice | 27 | 09/23 07:28 | 09/23 13:18 | ⚠ 54分（11:44→12:39） |
+| FirstSquawk | 113 | 09/23 08:04 | 09/23 13:42 | 11分（10:59→11:10） |
+| financialjuice | 33 | 09/23 08:00 | 09/23 13:39 | ⚠ 54分（11:44→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 134 行（統合前 134 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 146 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 07:28 [financialjuice] World Labs founder Fei-Fei Li calls for independent oversight of AI
-- 09/23 07:28 [financialjuice] AWS: Amazon CloudWatch Omni now widely available; IDE extension at no cost - blog
 - 09/23 08:00 [financialjuice] AUSTRALIAN COMPOSITE PMI FLASH ACTUAL 50.8 (FORECAST -, PREVIOUS 52.7) $MACRO
 - 09/23 08:00 [financialjuice] AUSTRALIAN SERVICES PMI FLASH ACTUAL 51.4 (FORECAST -, PREVIOUS 53.2) $MACRO
 - 09/23 08:00 [financialjuice] AUSTRALIAN MANUFACTURING PMI FLASH ACTUAL 49.3 (FORECAST -, PREVIOUS 52.0) $MACRO
@@ -158,3 +156,17 @@
 - 09/23 13:18 [financialjuice] Japan PM Takaichi: had frank discussion with Trump on international criminal court
 - 09/23 13:18 [FirstSquawk] Takaichi says she had candid talks with Trump about the International Criminal Court
 - 09/23 13:22 [FirstSquawk] Global banks caution UK windfall tax may push activity out of London - FT
+- 09/23 13:27 [FirstSquawk] Rising diesel prices cost European drivers €203 million per day - FT
+- 09/23 13:30 [financialjuice] DUTCH GDP YOY FINAL NSA ACTUAL 1.6% (FORECAST -, PREVIOUS 1.3%) $MACRO
+- 09/23 13:30 [financialjuice] DUTCH GDP QOQ FINAL SA ACTUAL 0.6% (FORECAST 0.4%, PREVIOUS 0.4%) $MACRO
+- 09/23 13:30 [financialjuice] Dutch final Q2 GDP rises 0.6% quarter-on-quarter, CBS
+- 09/23 13:30 [financialjuice] South Korea picks Texas gas plant as initial project under US investment agreement - FT
+- 09/23 13:30 [FirstSquawk] South Korea chooses Texas gas plant for first project under US investment agreement - FT
+- 09/23 13:31 [financialjuice] Seoul to finance $22 billion gas-fired power plant in Texas, aiming to fulfill $350 billion pledge: ft
+- 09/23 13:31 [financialjuice] Dutch final Q2 GDP rises 0.6% quarter on quarter, seasonally adjusted: CBS
+- 09/23 13:36 [financialjuice] China central bank offers 6-month yuan bills in Hong Kong at 1.37%, HKMA says
+- 09/23 13:36 [FirstSquawk] PBOC sells six-month yuan bills in Hong Kong at 1.37% - HKMA
+- 09/23 13:38 [FirstSquawk] Vietnam’s Vingroup agrees $1 billion deal with Siemens for bullet train project - NA
+- 09/23 13:39 [financialjuice] Dutch final Q2 GDP rises 1.6% y/y nsa vs preliminary 1.3%: CBS
+- 09/23 13:41 [FirstSquawk] Strait of Hormuz shipping traffic plunges to three ships on Tuesday - Kepler Data
+- 09/23 13:42 [FirstSquawk] Berenberg lifts Kingfisher target price to 320p from 295p

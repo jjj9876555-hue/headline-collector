@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 13:25 JST／対象: 09/22 13:25 〜 09/23 13:25 JST（時刻はすべて日本時間）
+生成: 2026-09-23 13:44 JST／対象: 09/22 13:44 〜 09/23 13:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 342 | 09/22 13:56 | 09/23 13:22 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 308 | 09/22 14:02 | 09/23 13:18 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 348 | 09/22 13:56 | 09/23 13:42 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 316 | 09/22 14:02 | 09/23 13:39 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 659 行（統合前 681 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 673 行（統合前 695 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -683,3 +683,17 @@
 - 09/23 13:18 [financialjuice] Japan PM Takaichi: had frank discussion with Trump on international criminal court
 - 09/23 13:18 [FirstSquawk] Takaichi says she had candid talks with Trump about the International Criminal Court
 - 09/23 13:22 [FirstSquawk] Global banks caution UK windfall tax may push activity out of London - FT
+- 09/23 13:27 [FirstSquawk] Rising diesel prices cost European drivers €203 million per day - FT
+- 09/23 13:30 [financialjuice] DUTCH GDP YOY FINAL NSA ACTUAL 1.6% (FORECAST -, PREVIOUS 1.3%) $MACRO
+- 09/23 13:30 [financialjuice] DUTCH GDP QOQ FINAL SA ACTUAL 0.6% (FORECAST 0.4%, PREVIOUS 0.4%) $MACRO
+- 09/23 13:30 [financialjuice] Dutch final Q2 GDP rises 0.6% quarter-on-quarter, CBS
+- 09/23 13:30 [financialjuice] South Korea picks Texas gas plant as initial project under US investment agreement - FT
+- 09/23 13:30 [FirstSquawk] South Korea chooses Texas gas plant for first project under US investment agreement - FT
+- 09/23 13:31 [financialjuice] Seoul to finance $22 billion gas-fired power plant in Texas, aiming to fulfill $350 billion pledge: ft
+- 09/23 13:31 [financialjuice] Dutch final Q2 GDP rises 0.6% quarter on quarter, seasonally adjusted: CBS
+- 09/23 13:36 [financialjuice] China central bank offers 6-month yuan bills in Hong Kong at 1.37%, HKMA says
+- 09/23 13:36 [FirstSquawk] PBOC sells six-month yuan bills in Hong Kong at 1.37% - HKMA
+- 09/23 13:38 [FirstSquawk] Vietnam’s Vingroup agrees $1 billion deal with Siemens for bullet train project - NA
+- 09/23 13:39 [financialjuice] Dutch final Q2 GDP rises 1.6% y/y nsa vs preliminary 1.3%: CBS
+- 09/23 13:41 [FirstSquawk] Strait of Hormuz shipping traffic plunges to three ships on Tuesday - Kepler Data
+- 09/23 13:42 [FirstSquawk] Berenberg lifts Kingfisher target price to 320p from 295p

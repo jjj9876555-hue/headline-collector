@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 13:25 JST／対象: 09/23 01:25 〜 09/23 13:25 JST（時刻はすべて日本時間）
+生成: 2026-09-23 13:44 JST／対象: 09/23 01:44 〜 09/23 13:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/23 04:42 | 09/23 04:43 | 1分（04:42→04:43） |
-| FirstSquawk | 205 | 09/23 01:31 | 09/23 13:22 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 153 | 09/23 01:31 | 09/23 13:18 | ⚠ 54分（11:44→12:39） |
+| FirstSquawk | 208 | 09/23 01:45 | 09/23 13:42 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 160 | 09/23 01:46 | 09/23 13:39 | ⚠ 54分（11:44→12:39） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 352 行（統合前 364 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 362 行（統合前 374 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 01:31 [FirstSquawk] ANTHROPIC: CLAUDE OPUS 5.5 PERFORMS AT LEVEL OF CLAUDE FABLE 5.1 ON MOST WORK, COSTS AROUND 40% LESS TO RUN THAN OPUS 5
-- 09/23 01:31 [FirstSquawk] ANTHROPIC: OPUS 5.5 IS PRICED AT $4 PER MILLION INPUT TOKENS AND $20 PER MILLION OUTPUT TOKENS
-- 09/23 01:31 [financialjuice] Anthropic Launches Claude Opus 5.5, Sonnet and Haiku 5.5 to Follow
-- 09/23 01:43 [FirstSquawk] ALASKA SEN. SULLIVAN CALLS FOR MORATORIUM ON US DIESEL EXPORTS
 - 09/23 01:45 [FirstSquawk] TRUMP: BURNHAM IS GOING TO BE A GREAT PRIME MINISTER
 - 09/23 01:45 [FirstSquawk] EU AND CANADA TO UNVEIL NEW PARTNERSHIP, BUT IT MAY NOT BE ‘ASSOCIATE MEMBERSHIP,’ SAYS AMBASSADOR – POLITICO
 - 09/23 01:45 [FirstSquawk] TRUMP: DISCUSSED ENERGY, IMMIGRATION, ROLLS-ROYCE WITH BURNHAM
@@ -376,3 +372,17 @@
 - 09/23 13:18 [financialjuice] Japan PM Takaichi: had frank discussion with Trump on international criminal court
 - 09/23 13:18 [FirstSquawk] Takaichi says she had candid talks with Trump about the International Criminal Court
 - 09/23 13:22 [FirstSquawk] Global banks caution UK windfall tax may push activity out of London - FT
+- 09/23 13:27 [FirstSquawk] Rising diesel prices cost European drivers €203 million per day - FT
+- 09/23 13:30 [financialjuice] DUTCH GDP YOY FINAL NSA ACTUAL 1.6% (FORECAST -, PREVIOUS 1.3%) $MACRO
+- 09/23 13:30 [financialjuice] DUTCH GDP QOQ FINAL SA ACTUAL 0.6% (FORECAST 0.4%, PREVIOUS 0.4%) $MACRO
+- 09/23 13:30 [financialjuice] Dutch final Q2 GDP rises 0.6% quarter-on-quarter, CBS
+- 09/23 13:30 [financialjuice] South Korea picks Texas gas plant as initial project under US investment agreement - FT
+- 09/23 13:30 [FirstSquawk] South Korea chooses Texas gas plant for first project under US investment agreement - FT
+- 09/23 13:31 [financialjuice] Seoul to finance $22 billion gas-fired power plant in Texas, aiming to fulfill $350 billion pledge: ft
+- 09/23 13:31 [financialjuice] Dutch final Q2 GDP rises 0.6% quarter on quarter, seasonally adjusted: CBS
+- 09/23 13:36 [financialjuice] China central bank offers 6-month yuan bills in Hong Kong at 1.37%, HKMA says
+- 09/23 13:36 [FirstSquawk] PBOC sells six-month yuan bills in Hong Kong at 1.37% - HKMA
+- 09/23 13:38 [FirstSquawk] Vietnam’s Vingroup agrees $1 billion deal with Siemens for bullet train project - NA
+- 09/23 13:39 [financialjuice] Dutch final Q2 GDP rises 1.6% y/y nsa vs preliminary 1.3%: CBS
+- 09/23 13:41 [FirstSquawk] Strait of Hormuz shipping traffic plunges to three ships on Tuesday - Kepler Data
+- 09/23 13:42 [FirstSquawk] Berenberg lifts Kingfisher target price to 320p from 295p
