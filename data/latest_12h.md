@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 17:59 JST／対象: 09/23 05:59 〜 09/23 17:59 JST（時刻はすべて日本時間）
+生成: 2026-09-23 18:18 JST／対象: 09/23 06:18 〜 09/23 18:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 147 | 09/23 06:58 | 09/23 17:44 | ⚠ 63分（07:00→08:04） |
-| financialjuice | 69 | 09/23 06:07 | 09/23 17:30 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 153 | 09/23 06:58 | 09/23 18:13 | ⚠ 63分（07:00→08:04） |
+| financialjuice | 67 | 09/23 06:18 | 09/23 18:00 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 216 行（統合前 216 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 220 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 06:07 [financialjuice] North Korea's vice defense minister to visit Vietnam: KCNA
-- 09/23 06:09 [financialjuice] North Korea's vice foreign minister to participate in UN general assembly: KCNA
-- 09/23 06:18 [financialjuice] USPS refers mail dumping case involving election ballots to inspector general
 - 09/23 06:18 [financialjuice] USPS: mail dumping incident probably involved worker; case sent to oig for probe
 - 09/23 06:19 [financialjuice] EU's Kallas: met today with Serbian President Vucic and Kosovo Prime Minister Kurti
 - 09/23 06:20 [financialjuice] EU's Kallas: Urged advancing normalization of ties between Belgrade and Pristina
@@ -240,3 +237,10 @@
 - 09/23 17:31 [FirstSquawk] UK SEPTEMBER COMPOSITE PMI DROPS TO 51.7, BELOW EXPECTATION OF 52.
 - 09/23 17:31 [FirstSquawk] UK SEPTEMBER SERVICES PMI DROPS TO 51.7, BELOW EXPECTATION OF 52.
 - 09/23 17:44 [FirstSquawk] Nvidia-Backed Firmus Seeks $10 Billion Financing for Indonesian Data Center Ahead of $5 Billion IPO Australian AI startup Firmus Technologies Pty is currently in talks with lenders to secure a massive $10 billion financing package to purcha…
+- 09/23 18:00 [financialjuice] China's Xi departs Beijing for US visit - Chinese state media
+- 09/23 18:06 [FirstSquawk] ECB'S MAKHLOUF: NOT SEEING SECOND-ROUND EFFECTS YET - RTE RADIO || IF ENERGY COSTS FEED THROUGH, ECB WILL HAVE TO ACT || UNCOMFORTABLE WITH ECB OUTLOOK FOR INFLATION OVER 3%
+- 09/23 18:13 [FirstSquawk] KREMLIN STATES UK'S BURNHAM UN REMARKS FUELLED ANTI-RUSSIAN FEELINGS AND DID NOT HELP EASE TENSIONS IN EUROPE.
+- 09/23 18:13 [FirstSquawk] KREMLIN STATES THAT CONDITIONS FOR UKRAINE PEACE NEGOTIATIONS ARE STILL NOT READY.
+- 09/23 18:13 [FirstSquawk] KREMLIN ANNOUNCES NO SPECIFIC PLANS FOR HIGH-LEVEL UKRAINE MEETINGS.
+- 09/23 18:13 [FirstSquawk] KREMLIN STATES UKRAINIAN PRESIDENT MUST VISIT MOSCOW FOR FUTURE DISCUSSIONS AFTER DECISIONS MADE.
+- 09/23 18:13 [FirstSquawk] L&G PLANS TO REDUCE AROUND 10% OF ITS STAFF TO INCREASE EFFICIENCY.

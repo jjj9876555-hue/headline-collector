@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 17:59 JST／対象: 09/22 17:59 〜 09/23 17:59 JST（時刻はすべて日本時間）
+生成: 2026-09-23 18:18 JST／対象: 09/22 18:18 〜 09/23 18:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 342 | 09/22 18:10 | 09/23 17:44 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 318 | 09/22 18:00 | 09/23 17:30 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 345 | 09/22 18:43 | 09/23 18:13 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 315 | 09/22 18:27 | 09/23 18:00 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 669 行（統合前 691 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,13 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 18:00 [financialjuice] Brent and US crude futures down over 1% after Kyodo reports that Iran offered to reopen the strait within 7 days
-- 09/22 18:10 [FirstSquawk] IRAN'S GHALIBAF SAYS TRUMP CANNOT IMPOSE HIS POWER ON IRAN
-- 09/22 18:12 [financialjuice] Iran's Ghalibaf: Trump cannot impose his power on Iran
-- 09/22 18:12 [FirstSquawk] GHALIBAF SAYS IRAN WON'T SURRENDER, WILL STAND UP TO US - FARS
-- 09/22 18:12 [financialjuice] Iran's Parliament Speaker Ghalibaf: Iran won’t surrender, will stand up to the US - Fars
-- 09/22 18:15 [FirstSquawk] IRAN'S IRGC SAYS MUST NEGOTIATE IF NATIONAL INTERESTS REQUIRED
-- 09/22 18:18 [financialjuice] Iran's IRGC: Must negotiate if national interests required
 - 09/22 18:27 [financialjuice] Naftogaz: Facilities hit in Poltava region overnight
 - 09/22 18:32 [financialjuice] GERMAN 5 YR BOBL YIELD ACTUAL 3.28% (FORECAST -, PREVIOUS 3.09%) $MACRO
 - 09/22 18:32 [financialjuice] GERMAN 5 YR BOBL BID-TO-COVER ACTUAL 1.2 (FORECAST -, PREVIOUS 1.6) $MACRO
@@ -693,3 +686,10 @@
 - 09/23 17:31 [FirstSquawk] UK SEPTEMBER COMPOSITE PMI DROPS TO 51.7, BELOW EXPECTATION OF 52.
 - 09/23 17:31 [FirstSquawk] UK SEPTEMBER SERVICES PMI DROPS TO 51.7, BELOW EXPECTATION OF 52.
 - 09/23 17:44 [FirstSquawk] Nvidia-Backed Firmus Seeks $10 Billion Financing for Indonesian Data Center Ahead of $5 Billion IPO Australian AI startup Firmus Technologies Pty is currently in talks with lenders to secure a massive $10 billion financing package to purcha…
+- 09/23 18:00 [financialjuice] China's Xi departs Beijing for US visit - Chinese state media
+- 09/23 18:06 [FirstSquawk] ECB'S MAKHLOUF: NOT SEEING SECOND-ROUND EFFECTS YET - RTE RADIO || IF ENERGY COSTS FEED THROUGH, ECB WILL HAVE TO ACT || UNCOMFORTABLE WITH ECB OUTLOOK FOR INFLATION OVER 3%
+- 09/23 18:13 [FirstSquawk] KREMLIN STATES UK'S BURNHAM UN REMARKS FUELLED ANTI-RUSSIAN FEELINGS AND DID NOT HELP EASE TENSIONS IN EUROPE.
+- 09/23 18:13 [FirstSquawk] KREMLIN STATES THAT CONDITIONS FOR UKRAINE PEACE NEGOTIATIONS ARE STILL NOT READY.
+- 09/23 18:13 [FirstSquawk] KREMLIN ANNOUNCES NO SPECIFIC PLANS FOR HIGH-LEVEL UKRAINE MEETINGS.
+- 09/23 18:13 [FirstSquawk] KREMLIN STATES UKRAINIAN PRESIDENT MUST VISIT MOSCOW FOR FUTURE DISCUSSIONS AFTER DECISIONS MADE.
+- 09/23 18:13 [FirstSquawk] L&G PLANS TO REDUCE AROUND 10% OF ITS STAFF TO INCREASE EFFICIENCY.
