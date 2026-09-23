@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 17:26 JST／対象: 09/23 11:26 〜 09/23 17:26 JST（時刻はすべて日本時間）
+生成: 2026-09-23 17:45 JST／対象: 09/23 11:45 〜 09/23 17:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 64 | 09/23 11:27 | 09/23 17:00 | 26分（16:04→16:30） |
-| financialjuice | 37 | 09/23 11:32 | 09/23 17:03 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 61 | 09/23 11:49 | 09/23 17:44 | 30分（17:00→17:31） |
+| financialjuice | 36 | 09/23 12:39 | 09/23 17:30 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 101 行（統合前 101 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 97 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 11:27 [FirstSquawk] Vietnam’s TPBank plans to issue 416 million new shares to shareholders as dividends
-- 09/23 11:32 [financialjuice] China finance ministry auctions 3-month deposits at 1.47% yield: statement
-- 09/23 11:32 [FirstSquawk] China Finance Ministry auctions 3-month deposits with 1.47% yield
-- 09/23 11:33 [FirstSquawk] China Finance Ministry sells 2-month deposits at 1.46% yield
-- 09/23 11:40 [FirstSquawk] Seoul shares ease from session highs as profit-taking emerges on Wednesday morning
-- 09/23 11:41 [FirstSquawk] Odalys forecast to become a hurricane later tonight, NHC says
-- 09/23 11:43 [FirstSquawk] SoftBank Group plans $10 bln dollar bond offering across three maturities, term sheet shows
-- 09/23 11:44 [financialjuice] China names Li Lecheng party secretary of Anhui, replacing Liang Yanshun - Xinhua
-- 09/23 11:44 [financialjuice] China names Zhou Zuyi party chief of Henan, replacing Liu Ning: Xinhua
-- 09/23 11:44 [financialjuice] China appoints Zhao Long as Fujian party chief: Xinhua
 - 09/23 11:49 [FirstSquawk] Reserve Bank of Australia publishes 2026 review of ASX clearing and settlement facilities
 - 09/23 11:49 [FirstSquawk] RBA says ASX clearing and settlement facilities met many standards at ‘observed’ or ‘broadly observed’ levels
 - 09/23 11:50 [FirstSquawk] RBA says ASX continues to fall short in several important areas
@@ -125,3 +115,9 @@
 - 09/23 17:02 [financialjuice] OECD forecasts Euro Area 2026 growth of 1.0% (vs 0.8% in June), 1.0% in 2027 (vs 1.2%).
 - 09/23 17:03 [financialjuice] OECD forecasts Japan 2026 growth of 0.8% (vs 0.6% in June), 0.7% in 2027 (vs 0.8%).
 - 09/23 17:03 [financialjuice] OECD forecasts UK 2026 growth of 1.1% (vs 0.9% in June), 1.0% in 2027 (vs 1.1%).
+- 09/23 17:30 [financialjuice] ❗ UK MANUFACTURING PMI FLASH ACTUAL 52 (FORECAST 51.5, PREVIOUS 51.7) $MACRO
+- 09/23 17:30 [financialjuice] ‼ BREAKING: UK SERVICES PMI FLASH ACTUAL 51.7 (FORECAST 52, PREVIOUS 52.5) $MACRO
+- 09/23 17:30 [financialjuice] ❗ UK COMPOSITE PMI FLASH ACTUAL 51.7 (FORECAST 52, PREVIOUS 52.5) $MACRO
+- 09/23 17:31 [FirstSquawk] UK SEPTEMBER COMPOSITE PMI DROPS TO 51.7, BELOW EXPECTATION OF 52.
+- 09/23 17:31 [FirstSquawk] UK SEPTEMBER SERVICES PMI DROPS TO 51.7, BELOW EXPECTATION OF 52.
+- 09/23 17:44 [FirstSquawk] Nvidia-Backed Firmus Seeks $10 Billion Financing for Indonesian Data Center Ahead of $5 Billion IPO Australian AI startup Firmus Technologies Pty is currently in talks with lenders to secure a massive $10 billion financing package to purcha…

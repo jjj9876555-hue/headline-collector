@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 17:26 JST／対象: 09/23 05:26 〜 09/23 17:26 JST（時刻はすべて日本時間）
+生成: 2026-09-23 17:45 JST／対象: 09/23 05:45 〜 09/23 17:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 147 | 09/23 05:26 | 09/23 17:00 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 78 | 09/23 05:26 | 09/23 17:03 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 147 | 09/23 06:58 | 09/23 17:44 | ⚠ 63分（07:00→08:04） |
+| financialjuice | 73 | 09/23 05:46 | 09/23 17:30 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 224 行（統合前 225 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 220 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 05:26 [financialjuice] NY Fed's Perli: Fed's reserve forecasting process is robust
-- 09/23 05:26 [FirstSquawk] NEW YORK FED OPEN MARKETS CHIEF JOHN WILLIAMS PERLI SAYS THE FED’S RESERVE MANAGEMENT PURCHASES ARE NOT ON A PRESET COURSE, WHILE SAYING THE CENTRAL BANK’S MONETARY POLICY TOOLKIT HAS BEEN WORKING VERY WELL.
-- 09/23 05:26 [financialjuice] NY Fed's Perli: Central clearing of Fed repo operations would have benefits
-- 09/23 05:26 [FirstSquawk] NEW YORK FED OPEN MARKETS CHIEF JOHN WILLIAMS PERL SAYS CENTRAL CLEARING OF FED REPO OPERATIONS COULD PROVIDE BENEFITS, WHILE DESCRIBING THE FED’S RESERVE FORECASTING PROCESS AS ROBUST.
-- 09/23 05:31 [financialjuice] Iraqi Oil Minister: Road transport of crude from southern oilfields to Kirkuk expected to increase exports via Turkey's Ceyhan port to more than 600,000 bpd
-- 09/23 05:32 [financialjuice] Iraqi Oil Minister: Oil production from Iraqi Kurdistan oilfields currently stands at 200,000 bpd
-- 09/23 05:32 [financialjuice] ECB's Nagel: I am not relaxed, core inflation is still too high
-- 09/23 05:33 [financialjuice] ECB's Nagel: Up to now, I do not see significant 2nd round effects.
-- 09/23 05:35 [financialjuice] ECB's Nagel: We are vigilant.
-- 09/23 05:39 [financialjuice/FirstSquawk] ❗ Iraqi Oil Minister: Iraq is studying a plan to export crude oil by trucks to Turkey
 - 09/23 05:46 [financialjuice] US API CRUDE OIL STOCK CHANGE ACTUAL 1.786M (FORECAST -0.5M, PREVIOUS 7.1M) $MACRO
 - 09/23 05:56 [financialjuice] US API DISTILLATE STOCK CHANGE ACTUAL -2.164M (FORECAST -, PREVIOUS 1.6M) $MACRO
 - 09/23 05:57 [financialjuice] US API CUSHING STOCK CHANGE ACTUAL 2.082M (FORECAST -, PREVIOUS -0.246M ) $MACRO
@@ -248,3 +238,9 @@
 - 09/23 17:02 [financialjuice] OECD forecasts Euro Area 2026 growth of 1.0% (vs 0.8% in June), 1.0% in 2027 (vs 1.2%).
 - 09/23 17:03 [financialjuice] OECD forecasts Japan 2026 growth of 0.8% (vs 0.6% in June), 0.7% in 2027 (vs 0.8%).
 - 09/23 17:03 [financialjuice] OECD forecasts UK 2026 growth of 1.1% (vs 0.9% in June), 1.0% in 2027 (vs 1.1%).
+- 09/23 17:30 [financialjuice] ❗ UK MANUFACTURING PMI FLASH ACTUAL 52 (FORECAST 51.5, PREVIOUS 51.7) $MACRO
+- 09/23 17:30 [financialjuice] ‼ BREAKING: UK SERVICES PMI FLASH ACTUAL 51.7 (FORECAST 52, PREVIOUS 52.5) $MACRO
+- 09/23 17:30 [financialjuice] ❗ UK COMPOSITE PMI FLASH ACTUAL 51.7 (FORECAST 52, PREVIOUS 52.5) $MACRO
+- 09/23 17:31 [FirstSquawk] UK SEPTEMBER COMPOSITE PMI DROPS TO 51.7, BELOW EXPECTATION OF 52.
+- 09/23 17:31 [FirstSquawk] UK SEPTEMBER SERVICES PMI DROPS TO 51.7, BELOW EXPECTATION OF 52.
+- 09/23 17:44 [FirstSquawk] Nvidia-Backed Firmus Seeks $10 Billion Financing for Indonesian Data Center Ahead of $5 Billion IPO Australian AI startup Firmus Technologies Pty is currently in talks with lenders to secure a massive $10 billion financing package to purcha…

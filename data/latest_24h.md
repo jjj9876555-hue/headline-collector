@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 17:26 JST／対象: 09/22 17:26 〜 09/23 17:26 JST（時刻はすべて日本時間）
+生成: 2026-09-23 17:45 JST／対象: 09/22 17:45 〜 09/23 17:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 23 | 09/22 19:18 | 09/23 04:43 | ⚠ 435分（21:26→04:42） |
-| FirstSquawk | 345 | 09/22 17:40 | 09/23 17:00 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 315 | 09/22 18:00 | 09/23 17:03 | ⚠ 116分（18:57→20:54） |
+| FirstSquawk | 347 | 09/22 17:50 | 09/23 17:44 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 318 | 09/22 18:00 | 09/23 17:30 | ⚠ 116分（18:57→20:54） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 669 行（統合前 691 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 674 行（統合前 696 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 17:40 [FirstSquawk] IRAN SUGGESTS OPENING THE STRAIT SOON, 'WITHIN 7 DAYS' ONCE US BLOCKADE IS LIFTED – KYODO.
 - 09/22 17:50 [FirstSquawk] THE PLAN IS TO USE THIS PROPOSAL AS A BASIS FOR DISCUSSIONS WITH MEDIATING COUNTRIES AT THE UN GENERAL ASSEMBLY IN NEW YORK. ACCORDING TO AN IRANIAN GOVERNMENT OFFICIAL, IRAN WILL AGREE TO THE EARLY OPENING OF THE STRAIT IF THE US INDICATES…
 - 09/22 17:50 [FirstSquawk] ON THE 19TH OF THIS MONTH, REZAI, SECRETARY-GENERAL OF IRAN'S SUPREME SECURITY COUNCIL (SNSC), WHICH OVERSEES ITS FOREIGN POLICY AND SECURITY, STATED THAT IRAN WOULD NEED TO ACCEPT SEVEN CONDITIONS, INCLUDING LIFTING THE PORT BLOCKADE AND U…
 - 09/22 17:50 [FirstSquawk] IRAN'S ECONOMIC DIFFICULTIES ARE DEEPENING AS IT IS UNABLE TO EXPORT CRUDE OIL, A PILLAR OF ITS NATIONAL REVENUE, AND CONCERNS ARE SPREADING WITHIN THE LEADERSHIP. THERE ARE ALSO OPINIONS THAT NEGOTIATIONS WITH THE UNITED STATES SHOULD BE R…
@@ -693,3 +692,9 @@
 - 09/23 17:02 [financialjuice] OECD forecasts Euro Area 2026 growth of 1.0% (vs 0.8% in June), 1.0% in 2027 (vs 1.2%).
 - 09/23 17:03 [financialjuice] OECD forecasts Japan 2026 growth of 0.8% (vs 0.6% in June), 0.7% in 2027 (vs 0.8%).
 - 09/23 17:03 [financialjuice] OECD forecasts UK 2026 growth of 1.1% (vs 0.9% in June), 1.0% in 2027 (vs 1.1%).
+- 09/23 17:30 [financialjuice] ❗ UK MANUFACTURING PMI FLASH ACTUAL 52 (FORECAST 51.5, PREVIOUS 51.7) $MACRO
+- 09/23 17:30 [financialjuice] ‼ BREAKING: UK SERVICES PMI FLASH ACTUAL 51.7 (FORECAST 52, PREVIOUS 52.5) $MACRO
+- 09/23 17:30 [financialjuice] ❗ UK COMPOSITE PMI FLASH ACTUAL 51.7 (FORECAST 52, PREVIOUS 52.5) $MACRO
+- 09/23 17:31 [FirstSquawk] UK SEPTEMBER COMPOSITE PMI DROPS TO 51.7, BELOW EXPECTATION OF 52.
+- 09/23 17:31 [FirstSquawk] UK SEPTEMBER SERVICES PMI DROPS TO 51.7, BELOW EXPECTATION OF 52.
+- 09/23 17:44 [FirstSquawk] Nvidia-Backed Firmus Seeks $10 Billion Financing for Indonesian Data Center Ahead of $5 Billion IPO Australian AI startup Firmus Technologies Pty is currently in talks with lenders to secure a massive $10 billion financing package to purcha…
