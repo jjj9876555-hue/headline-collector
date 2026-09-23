@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-23 21:05 JST／対象: 09/23 15:05 〜 09/23 21:05 JST（時刻はすべて日本時間）
+生成: 2026-09-23 21:30 JST／対象: 09/23 15:30 〜 09/23 21:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/23 18:24 | 09/23 20:05 | 23分（19:19→19:43） |
-| FirstSquawk | 45 | 09/23 15:11 | 09/23 20:55 | 30分（17:00→17:31） |
-| financialjuice | 39 | 09/23 15:22 | 09/23 21:00 | ⚠ 71分（18:33→19:45） |
+| DeItaone | 16 | 09/23 18:24 | 09/23 21:25 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 46 | 09/23 15:33 | 09/23 21:28 | 30分（17:00→17:31） |
+| financialjuice | 41 | 09/23 16:01 | 09/23 21:24 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 94 行（統合前 98 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 98 行（統合前 103 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 15:11 [FirstSquawk] Russian forces strike port infrastructure in Ukraine’s Odesa region, governor says
-- 09/23 15:21 [FirstSquawk] Oil price on track for longest losing streak in more than 12 months - FT
-- 09/23 15:22 [financialjuice] Iran's Deputy Oil Minister: Half of the damaged capacity of the South Pars gas field is back in production - Fars News
-- 09/23 15:23 [FirstSquawk] Half of damaged South Pars gas capacity resumes production, Iran says - Fars News
 - 09/23 15:33 [FirstSquawk] TotalEnergies starts Ima gas project to support Nigeria LNG plant
 - 09/23 15:51 [FirstSquawk] GBP/USD tests support near 1.3300, UOB says
 - 09/23 16:01 [financialjuice] Currency Strength Chart: Strongest: USD, CAD, CHF, JPY, GBP, EUR, AUD, NZD - Weakest
@@ -118,3 +114,11 @@
 - 09/23 20:55 [FirstSquawk] RYANAIR CEO O'LEARY: BY FY28 I EXPECT WE WILL GROW TO 220 MILLION PASSENGERS
 - 09/23 20:58 [financialjuice] Officials in the Trump administration have backed off an effort to replace Deputy Secretary of Defense Stephen Feinberg - Sources
 - 09/23 21:00 [financialjuice] Secured overnight financing rate: 3.87% September 22nd vs 3.85% September 21st
+- 09/23 21:05 [FirstSquawk] RAIFFEISEN BANK INTERNATIONAL TO LAUNCH CRYPTO TRADING ACROSS 11 EUROPEAN MARKETS Raiffeisen Bank International, one of Austria’s largest banking groups, is reportedly preparing to expand cryptocurrency trading services across 11 European m…
+- 09/23 21:06 [DeItaone] RYANAIR CEO O'LEARY: IF OIL PRICES REMAIN THIS HIGH INTO SUMMER OF 2027, I EXPECT AIRFARES TO RISE BY 10, 15, 20%
+- 09/23 21:10 [financialjuice] Morning Juice - US Session Prep (23rd September)
+- 09/23 21:16 [FirstSquawk] STERLING FALLS AS MUCH AS 0.5% TO $1.3273, LOWEST SINCE JULY 1
+- 09/23 21:22 [financialjuice] BofA's Demare: Continued strength in macroeconomic backdrop
+- 09/23 21:23 [FirstSquawk/DeItaone] BOFA'S DEMARE: 3Q WILL NOT BE AS ROBUST IN MARKETS AS 2Q WAS
+- 09/23 21:24 [financialjuice] BofA's Demare: Q3 will not be as robust in markets as Q2 was
+- 09/23 21:28 [FirstSquawk] BOFA'S CO-PRES DEMARE: CONTINUED STRENGTH IN MACROECONOMIC BACKDROP

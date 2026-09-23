@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-23 21:05 JST／対象: 09/23 09:05 〜 09/23 21:05 JST（時刻はすべて日本時間）
+生成: 2026-09-23 21:30 JST／対象: 09/23 09:30 〜 09/23 21:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 14 | 09/23 18:24 | 09/23 20:05 | 23分（19:19→19:43） |
-| FirstSquawk | 139 | 09/23 09:07 | 09/23 20:55 | 30分（17:00→17:31） |
-| financialjuice | 67 | 09/23 09:14 | 09/23 21:00 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 16 | 09/23 18:24 | 09/23 21:25 | ⚠ 61分（20:05→21:06） |
+| FirstSquawk | 135 | 09/23 09:35 | 09/23 21:28 | 30分（17:00→17:31） |
+| financialjuice | 68 | 09/23 10:01 | 09/23 21:24 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 216 行（統合前 220 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 214 行（統合前 219 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 09:07 [FirstSquawk] US SECRETARY OF STATE RUBIO TO MEET RUSSIAN FM LAVROV IN NEW YORK AT 9 AM ET WEDNESDAY — SOURCES
-- 09/23 09:08 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.3% TO 8,781.60 POINTS IN EARLY TRADE
-- 09/23 09:09 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS ON ISRAEL THAT 'WE STAND WITH ISRAEL IN THE FACE OF THE ONGOING THREATS, INCLUDING FROM IRAN, AGAINST ISRAEL AND JEWISH PEOPLE AROUND THE WORLD', BUT THAT 'THIS DOES NOT JUSTIFY THE ISRAELI GOVERNMENT'S A…
-- 09/23 09:09 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS 'WE WANT TO SEE THE SUFFERING AND DEATH FINALLY COME TO AN END' AND 'ISRAELI AND PALESTINIAN PEOPLE LIVING SIDE BY SIDE IN PEACE AND SECURITY', ADDING THAT 'WE WILL DO ALL WE CAN TO KEEP THE HOPE OF THAT …
-- 09/23 09:14 [financialjuice] China PBOC forecast to fix yuan midpoint at 6.6971 per dollar: estimate
-- 09/23 09:15 [financialjuice] Wife of US seismologist detained in China says she has been assured Trump will ask Xi to free him
-- 09/23 09:15 [FirstSquawk] U.S. seismologist’s wife says Trump will ask Xi to secure his release from China
-- 09/23 09:23 [FirstSquawk] POLISH PRESIDENT NAWROCKI SAYS THAT 'WHEN THE WORK IS FINISHED, TRUMP WILL PERSONALLY BE ABLE TO PARTICIPATE IN THE INAUGURATION OF FORT TRUMP, WHICH IS GOING TO TAKE PLACE IN POLAND', ADDING THAT 'TRUMP IS FAMOUS FOR KEEPING HIS WORD'.
-- 09/23 09:23 [FirstSquawk] POLISH PRESIDENT NAWROCKI SAYS ON FORT TRUMP THAT 'POLAND IS PAYING FOR ITS SECURITY' AND FOR 'THE STAY OF AMERICAN TROOPS IN POLAND', CALLING IT 'A VERY GOOD SOLUTION BECAUSE WE KNOW WHAT WE ARE PAYING FOR'.
-- 09/23 09:26 [FirstSquawk] Asian-Pacific U.S. equity futures remained broadly steady late Tuesday, with oil prices and bond yields easing amid hopes of a potential U.S.-Iran de-escalation.
 - 09/23 09:35 [FirstSquawk] Gold gains as markets focus on easing oil prices - WSJ
 - 09/23 09:35 [FirstSquawk] U.S. crackdown threatens Americans’ access to low-cost Canadian prescriptions - WSJ
 - 09/23 09:42 [FirstSquawk] WTI crude falls toward $89 amid focus on Trump’s UN speech - FX
@@ -240,3 +230,11 @@
 - 09/23 20:55 [FirstSquawk] RYANAIR CEO O'LEARY: BY FY28 I EXPECT WE WILL GROW TO 220 MILLION PASSENGERS
 - 09/23 20:58 [financialjuice] Officials in the Trump administration have backed off an effort to replace Deputy Secretary of Defense Stephen Feinberg - Sources
 - 09/23 21:00 [financialjuice] Secured overnight financing rate: 3.87% September 22nd vs 3.85% September 21st
+- 09/23 21:05 [FirstSquawk] RAIFFEISEN BANK INTERNATIONAL TO LAUNCH CRYPTO TRADING ACROSS 11 EUROPEAN MARKETS Raiffeisen Bank International, one of Austria’s largest banking groups, is reportedly preparing to expand cryptocurrency trading services across 11 European m…
+- 09/23 21:06 [DeItaone] RYANAIR CEO O'LEARY: IF OIL PRICES REMAIN THIS HIGH INTO SUMMER OF 2027, I EXPECT AIRFARES TO RISE BY 10, 15, 20%
+- 09/23 21:10 [financialjuice] Morning Juice - US Session Prep (23rd September)
+- 09/23 21:16 [FirstSquawk] STERLING FALLS AS MUCH AS 0.5% TO $1.3273, LOWEST SINCE JULY 1
+- 09/23 21:22 [financialjuice] BofA's Demare: Continued strength in macroeconomic backdrop
+- 09/23 21:23 [FirstSquawk/DeItaone] BOFA'S DEMARE: 3Q WILL NOT BE AS ROBUST IN MARKETS AS 2Q WAS
+- 09/23 21:24 [financialjuice] BofA's Demare: Q3 will not be as robust in markets as Q2 was
+- 09/23 21:28 [FirstSquawk] BOFA'S CO-PRES DEMARE: CONTINUED STRENGTH IN MACROECONOMIC BACKDROP

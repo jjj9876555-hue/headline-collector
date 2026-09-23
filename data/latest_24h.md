@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-23 21:05 JST／対象: 09/22 21:05 〜 09/23 21:05 JST（時刻はすべて日本時間）
+生成: 2026-09-23 21:30 JST／対象: 09/22 21:30 〜 09/23 21:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/22 21:08 | 09/23 20:05 | ⚠ 820分（04:43→18:24） |
-| FirstSquawk | 342 | 09/22 21:07 | 09/23 20:55 | ⚠ 77分（05:40→06:58） |
-| financialjuice | 304 | 09/22 21:10 | 09/23 21:00 | ⚠ 73分（13:39→14:52） |
+| DeItaone | 18 | 09/23 04:42 | 09/23 21:25 | ⚠ 820分（04:43→18:24） |
+| FirstSquawk | 342 | 09/22 21:38 | 09/23 21:28 | ⚠ 77分（05:40→06:58） |
+| financialjuice | 304 | 09/22 21:36 | 09/23 21:24 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 649 行（統合前 673 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 648 行（統合前 671 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/22 21:07 [FirstSquawk] ASML EXEC: EUROPE’S BIGGEST FIRM HAS NO SALES IN EUROPE
-- 09/22 21:08 [DeItaone] PUTIN HOLDS PHONE CALL WITH SAUDI MBS - RIA
-- 09/22 21:10 [financialjuice] China's Xi unlikely to bring business delegation to meeting with trump - WSJ citing Sources
-- 09/22 21:11 [DeItaone] TRUMP-XI SUMMIT EXPECTED TO BE LIGHT ON MAJOR DEALS Xi Jinping is unlikely to bring a delegation of Chinese CEOs to Washington this week, according to the WSJ, lowering expectations for major business agreements. Trump and Xi are expected t…
-- 09/22 21:12 [financialjuice] Kremlin: Putin and Saudi Crown Prince discussed Yemen and the Middle East; putin and Saudi Crown Prince call for safe passage through Hormuz
-- 09/22 21:15 [FirstSquawk] US ADP EMPLOYMENT CHANGE WEEKLY ACTUAL: 20K VS 16.30K PREVIOUS
-- 09/22 21:15 [financialjuice] US ADP WKLY EMPLOYMENT CHANGE ACTUAL 20K (FORECAST -, PREVIOUS 16.25K) $MACRO
-- 09/22 21:21 [FirstSquawk] TRUMP SUMMIT WITH XI UNLIKELY TO INCLUDE CHINESE CEOS - WSJ
-- 09/22 21:26 [DeItaone/FirstSquawk] KALSHI ASKS CFTC TO ALLOW MARGIN TRADING ON ITS PLATFORM, LETTING USERS BUY WITH BORROWED FUNDS- CNBC
 - 09/22 21:36 [financialjuice] Trump's UN speech to make the case for how he uses America's power to confront Iran, cartel violence and other threats, reshaping the world to help the US - White House official tells Fox News
 - 09/22 21:38 [FirstSquawk] CME GROUP TO EXPAND CRYPTO DERIVATIVES SUITE WITH BITCOIN CASH AND UNISWAP FUTURES
 - 09/22 21:38 [FirstSquawk] WH OFFICIAL: TRUMP UN SPEECH TO PRESS CASE FOR CONFRONTING IRAN, CARTELS - FOX
@@ -673,3 +664,11 @@
 - 09/23 20:55 [FirstSquawk] RYANAIR CEO O'LEARY: BY FY28 I EXPECT WE WILL GROW TO 220 MILLION PASSENGERS
 - 09/23 20:58 [financialjuice] Officials in the Trump administration have backed off an effort to replace Deputy Secretary of Defense Stephen Feinberg - Sources
 - 09/23 21:00 [financialjuice] Secured overnight financing rate: 3.87% September 22nd vs 3.85% September 21st
+- 09/23 21:05 [FirstSquawk] RAIFFEISEN BANK INTERNATIONAL TO LAUNCH CRYPTO TRADING ACROSS 11 EUROPEAN MARKETS Raiffeisen Bank International, one of Austria’s largest banking groups, is reportedly preparing to expand cryptocurrency trading services across 11 European m…
+- 09/23 21:06 [DeItaone] RYANAIR CEO O'LEARY: IF OIL PRICES REMAIN THIS HIGH INTO SUMMER OF 2027, I EXPECT AIRFARES TO RISE BY 10, 15, 20%
+- 09/23 21:10 [financialjuice] Morning Juice - US Session Prep (23rd September)
+- 09/23 21:16 [FirstSquawk] STERLING FALLS AS MUCH AS 0.5% TO $1.3273, LOWEST SINCE JULY 1
+- 09/23 21:22 [financialjuice] BofA's Demare: Continued strength in macroeconomic backdrop
+- 09/23 21:23 [FirstSquawk/DeItaone] BOFA'S DEMARE: 3Q WILL NOT BE AS ROBUST IN MARKETS AS 2Q WAS
+- 09/23 21:24 [financialjuice] BofA's Demare: Q3 will not be as robust in markets as Q2 was
+- 09/23 21:28 [FirstSquawk] BOFA'S CO-PRES DEMARE: CONTINUED STRENGTH IN MACROECONOMIC BACKDROP
