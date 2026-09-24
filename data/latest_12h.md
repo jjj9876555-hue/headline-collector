@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 03:21 JST／対象: 09/24 15:21 〜 09/25 03:21 JST（時刻はすべて日本時間）
+生成: 2026-09-25 03:38 JST／対象: 09/24 15:38 〜 09/25 03:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 82 | 09/24 21:26 | 09/25 03:12 | 34分（01:16→01:51） |
-| FirstSquawk | 209 | 09/24 15:24 | 09/25 03:20 | 39分（01:57→02:36） |
-| financialjuice | 178 | 09/24 15:45 | 09/25 03:05 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 83 | 09/24 21:26 | 09/25 03:30 | 34分（01:16→01:51） |
+| FirstSquawk | 215 | 09/24 15:42 | 09/25 03:37 | 39分（01:57→02:36） |
+| financialjuice | 182 | 09/24 15:45 | 09/25 03:28 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 450 行（統合前 473 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 460 行（統合前 484 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 15:24 [FirstSquawk] Australian S&P/ASX 200 ends 0.7% lower at 8,702.00 points
-- 09/24 15:24 [FirstSquawk] DeepSeek reaches $1B annualized revenue as $7.5B fundraising nears completion: The Information
 - 09/24 15:42 [FirstSquawk] EUROZONE BOND YIELDS OPEN HIGHER-WSJ
 - 09/24 15:43 [FirstSquawk] SCHNEIDER ELECTRIC TO LAUNCH BID FOR SHELLY GROUP IN $1.4 BILLION DEAL-WSJ
 - 09/24 15:45 [financialjuice] FRENCH BUSINESS CLIMATE MFG ACTUAL 101 (FORECAST 102, PREVIOUS 103) $MACRO
@@ -474,3 +472,15 @@
 - 09/25 03:19 [FirstSquawk] NETANYAHU: “WE’RE GOING TO WIN, WE HAVE NO OTHER CHOICE”
 - 09/25 03:20 [FirstSquawk] NETANYAHU HOLDS UP PAGER IN REFERENCE TO ISRAEL’S ATTACK ON IRAN-BACKED HEZBOLLAH USING PAGERS
 - 09/25 03:20 [FirstSquawk] NETANYAHU: “I WON’T STAND FOR VIGILANTISM; WE’RE A COUNTRY OF LAW”
+- 09/25 03:24 [financialjuice] French President Macron: We will send military means, soldiers to protect the Red Sea route.
+- 09/25 03:25 [FirstSquawk] NETANYAHU: “WE HAVE NO GREATER PARTNER THAN TRUMP”; THANKS TRUMP
+- 09/25 03:26 [financialjuice] Meta introduces Horizon Create & Horizon Studio $META
+- 09/25 03:27 [financialjuice] French President Macron: Maybe we could think about releasing strategic oil reserves in a coordinated way.
+- 09/25 03:27 [FirstSquawk] NETANYAHU: ACCUSES SEVERAL FOREIGN COUNTRIES OF SPENDING BILLIONS TO PROMOTE WHAT HE CALLS FALSE NARRATIVES ABOUT ISRAEL
+- 09/25 03:28 [financialjuice/DeItaone] French President macron: US decision to ban diesel exports would be bad.
+- 09/25 03:29 [FirstSquawk] NETANYAHU ACCUSES QATAR OF TRYING TO INDOCTRINATE YOUNG PEOPLE AGAINST ISRAEL & AMERICA
+- 09/25 03:29 [FirstSquawk] NETANYAHU CALLS TURKISH PRESIDENT ERDOGAN A “TYRANT”
+- 09/25 03:31 [FirstSquawk] NETANYAHU REJECTS ACCUSATIONS THAT ISRAEL IS COMMITTING GENOCIDE IN GAZA
+- 09/25 03:34 [FirstSquawk] NETANYAHU TO THOSE ACCUSING ISRAEL OF GENOCIDE, INCLUDING NEW YORK MAYOR: “SHAME ON YOU”
+- 09/25 03:36 [FirstSquawk] NETANYAHU TO MAMDANI: “YOU CAN’T SILENCE ME”; SAYS ISRAEL “PREVENTED GENOCIDE”
+- 09/25 03:37 [FirstSquawk] NETANYAHU: ACCUSES SOME WESTERN EUROPEAN LEADERS OF “SUCCUMBING TO ANTI-SEMITIC MOBS”

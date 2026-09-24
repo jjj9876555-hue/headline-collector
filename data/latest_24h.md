@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 03:21 JST／対象: 09/24 03:21 〜 09/25 03:21 JST（時刻はすべて日本時間）
+生成: 2026-09-25 03:38 JST／対象: 09/24 03:38 〜 09/25 03:38 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 86 | 09/24 03:30 | 09/25 03:12 | ⚠ 935分（05:51→21:26） |
-| FirstSquawk | 365 | 09/24 03:33 | 09/25 03:20 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 287 | 09/24 03:31 | 09/25 03:05 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 85 | 09/24 05:25 | 09/25 03:30 | ⚠ 935分（05:51→21:26） |
+| FirstSquawk | 369 | 09/24 03:41 | 09/25 03:37 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 288 | 09/24 03:40 | 09/25 03:28 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 717 行（統合前 743 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 720 行（統合前 746 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 03:30 [DeItaone] HASSETT QUESTIONS FED'S DECISION TO HIKE RATES
-- 09/24 03:30 [DeItaone] HASSETT SAYS WARSH MANAGES UNUSUALLY PARTISAN FEDERAL RESERVE
-- 09/24 03:31 [financialjuice] NYMEX WTI Crude Nov. futures settle at $92.16 a barrel up $1.64, 1.81%
-- 09/24 03:31 [financialjuice] NYMEX gasoline Oct. futures settle at $3.5870 a gallon
-- 09/24 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.7764 a gallon
-- 09/24 03:33 [FirstSquawk] ANTHROPIC LAUNCHES NEW LIFE SCIENCES RESEARCH GROUP & LABORATORY
-- 09/24 03:34 [FirstSquawk] SPAIN PM SANCHEZ BACKS DE COS FOR NEXT ECB PRESIDENT; SAYS EU MUST REDUCE DEPENDENCY ON CHINA
-- 09/24 03:34 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.81% HIGHER AT $92.16/BBL, UP $1.64
-- 09/24 03:37 [FirstSquawk] US SEN. COLLINS: WHITE HOUSE AGREES TO HOLD OFF ON NIH GRANT ORDER
 - 09/24 03:40 [financialjuice] Brent Crude futures settle at $103.08/bbl, up $3.83, 3.86%
 - 09/24 03:41 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 3.86% HIGHER AT $103.08/BBL, UP $3.83
 - 09/24 03:43 [FirstSquawk] U.S. AND CHINESE TRADE NEGOTIATORS DISCUSSED THE IDEA 'OF A BIGGER DEAL' PROPOSED BY CHINA BETWEEN THE TWO GLOBAL SUPERPOWERS, TREASURY SECRETARY SCOTT BESSENT SAID FOLLOWING HIS WEDNESDAY MEETING WITH HIS CHINESE COUNTERPART, VICE PREMIER …
@@ -741,3 +732,15 @@
 - 09/25 03:19 [FirstSquawk] NETANYAHU: “WE’RE GOING TO WIN, WE HAVE NO OTHER CHOICE”
 - 09/25 03:20 [FirstSquawk] NETANYAHU HOLDS UP PAGER IN REFERENCE TO ISRAEL’S ATTACK ON IRAN-BACKED HEZBOLLAH USING PAGERS
 - 09/25 03:20 [FirstSquawk] NETANYAHU: “I WON’T STAND FOR VIGILANTISM; WE’RE A COUNTRY OF LAW”
+- 09/25 03:24 [financialjuice] French President Macron: We will send military means, soldiers to protect the Red Sea route.
+- 09/25 03:25 [FirstSquawk] NETANYAHU: “WE HAVE NO GREATER PARTNER THAN TRUMP”; THANKS TRUMP
+- 09/25 03:26 [financialjuice] Meta introduces Horizon Create & Horizon Studio $META
+- 09/25 03:27 [financialjuice] French President Macron: Maybe we could think about releasing strategic oil reserves in a coordinated way.
+- 09/25 03:27 [FirstSquawk] NETANYAHU: ACCUSES SEVERAL FOREIGN COUNTRIES OF SPENDING BILLIONS TO PROMOTE WHAT HE CALLS FALSE NARRATIVES ABOUT ISRAEL
+- 09/25 03:28 [financialjuice/DeItaone] French President macron: US decision to ban diesel exports would be bad.
+- 09/25 03:29 [FirstSquawk] NETANYAHU ACCUSES QATAR OF TRYING TO INDOCTRINATE YOUNG PEOPLE AGAINST ISRAEL & AMERICA
+- 09/25 03:29 [FirstSquawk] NETANYAHU CALLS TURKISH PRESIDENT ERDOGAN A “TYRANT”
+- 09/25 03:31 [FirstSquawk] NETANYAHU REJECTS ACCUSATIONS THAT ISRAEL IS COMMITTING GENOCIDE IN GAZA
+- 09/25 03:34 [FirstSquawk] NETANYAHU TO THOSE ACCUSING ISRAEL OF GENOCIDE, INCLUDING NEW YORK MAYOR: “SHAME ON YOU”
+- 09/25 03:36 [FirstSquawk] NETANYAHU TO MAMDANI: “YOU CAN’T SILENCE ME”; SAYS ISRAEL “PREVENTED GENOCIDE”
+- 09/25 03:37 [FirstSquawk] NETANYAHU: ACCUSES SOME WESTERN EUROPEAN LEADERS OF “SUCCUMBING TO ANTI-SEMITIC MOBS”
