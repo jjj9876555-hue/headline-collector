@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 11:33 JST／対象: 09/24 05:33 〜 09/24 11:33 JST（時刻はすべて日本時間）
+生成: 2026-09-24 11:51 JST／対象: 09/24 05:51 〜 09/24 11:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/24 05:51 | 09/24 05:51 | - |
-| FirstSquawk | 72 | 09/24 06:44 | 09/24 11:32 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 72 | 09/24 05:33 | 09/24 11:17 | 42分（05:39→06:22） |
+| DeItaone | 0 | - | - | - |
+| FirstSquawk | 77 | 09/24 06:44 | 09/24 11:47 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 71 | 09/24 06:22 | 09/24 11:33 | 24分（09:36→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 143 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 146 行（統合前 148 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 05:33 [financialjuice] OpenAI Agents accessed Australia's Medicare statistics - News24.
-- 09/24 05:39 [financialjuice] Australia's Prime Minister Albanese: I am aware of AI incidents happening elsewhere.
-- 09/24 05:51 [DeItaone] AUSTRALIA PM ALBANESE: INCIDENT INVOLVED OPENAI AGENT GAINING UNAUTHORIZED ACCESS INTO THE PUBLIC-FACING MEDICARE STATISTICS REPORTING SERVICE PORTAL
 - 09/24 06:22 [financialjuice] North Korea: conducted test launch of upgraded guided rocket artillery shells on Sept. 22 - KCNA
 - 09/24 06:32 [financialjuice] OpenAI: AI agent improperly accessed Australian government files; no evidence patient records were breached
 - 09/24 06:36 [financialjuice/FirstSquawk] Chinese President Xi Jinping arrives for state visit to U.S.: Xinhua
@@ -167,3 +164,9 @@
 - 09/24 11:32 [FirstSquawk] DHL Express, Singapore Airlines extend Boeing 777 freighter partnership
 - 09/24 11:32 [FirstSquawk] Singapore Airlines to operate 5 Boeing 777 freighters at Changi for DHL Express
 - 09/24 11:32 [FirstSquawk] Singapore Airlines to handle aircraft maintenance
+- 09/24 11:33 [financialjuice] Dollar/yen declines 0.33% to 157.80
+- 09/24 11:33 [FirstSquawk] USD/JPY drops 0.33% to 157.80
+- 09/24 11:37 [FirstSquawk] Fay regains tropical storm status, NHC says
+- 09/24 11:43 [FirstSquawk] South Korea’s Lee vows to double chip production in 5 years, strengthen AI supply chains - YONHAP
+- 09/24 11:47 [FirstSquawk] Honda nearing final preparations for new hybrid vehicle plant in Ohio, Nikkei reports
+- 09/24 11:47 [FirstSquawk] Honda plans nearly $2.5 billion hybrid vehicle plant in U.S.

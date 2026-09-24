@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 11:33 JST／対象: 09/23 23:33 〜 09/24 11:33 JST（時刻はすべて日本時間）
+生成: 2026-09-24 11:51 JST／対象: 09/23 23:51 〜 09/24 11:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 28 | 09/23 23:34 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 159 | 09/23 23:33 | 09/24 11:32 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 157 | 09/23 23:37 | 09/24 11:17 | 42分（05:39→06:22） |
+| DeItaone | 26 | 09/23 23:55 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 159 | 09/23 23:53 | 09/24 11:47 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 151 | 09/23 23:52 | 09/24 11:33 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 340 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 332 行（統合前 337 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 23:33 [FirstSquawk] DISNEY+ WILL RAISE ITS MONTHLY PRICE BY 13% TO $21.49.
-- 09/23 23:34 [DeItaone] DISNEY+ HIKES AD-FREE PRICE 13% Disney is raising the price of its ad-free Disney+ plan by 13% to $21.49 per month, an increase of $2.50. Ad-free Hulu will rise by the same amount, while the Disney+ and Hulu ad-free bundle increases to $21.…
-- 09/23 23:37 [financialjuice] US State dept: Rubio met today with Russian Foreign Minister Lavrov on sidelines of UNGA
-- 09/23 23:37 [DeItaone] IRAN DEFENDS NUCLEAR RIGHTS, SIGNALS OPENNESS TO TALKS Iranian President Masoud Pezeshkian told the UN that Tehran rejects nuclear weapons but will not surrender its right to peaceful nuclear technology. On Hormuz, he said Iran cannot allow…
-- 09/23 23:37 [FirstSquawk] SAUDI CIVIL DEFENSE SAYS DANGER HAS PASSED IN JAZAN AND NAJRAN
-- 09/23 23:37 [financialjuice] US State Dept: US Secretary of State Rubio and Lavrov discussed Russia-Ukraine war and US-Russia bilateral relationship
-- 09/23 23:38 [FirstSquawk] RUBIO: BOTH RUSSIA, UKRAINE WANT GRAIN, ENERGY CEASEFIRE
-- 09/23 23:39 [financialjuice] US Secretary of State Rubio: Both Russia and Ukraine want a grain and energy ceasefire.
-- 09/23 23:43 [FirstSquawk] NOVO'S CAGRISEMA DELIVERS SUPERIOR WEIGHT LOSS VS TIRZEPATIDE IN REIMAGINE 5 TRIAL
-- 09/23 23:47 [financialjuice] US Energy Secretary Wright: The US might consider leaving the IEA if there is no alignment on climate issues.
-- 09/23 23:47 [FirstSquawk] US MIGHT CONSIDER LEAVING IEA IF THERE IS NO ALIGNMENT ON CLIMATE ISSUES, ENERGY SECRETARY WRIGHT SAYS
-- 09/23 23:47 [financialjuice] US Treasury Secretary Bessent: I met with China's He to finish up Sunday talks - Fox Business.
-- 09/23 23:48 [financialjuice] US Secretary of State Rubio: Much of the interaction with China over the last year has been focused on trade.
-- 09/23 23:50 [financialjuice] US Secretary of State Rubio: We will live up to commitments in the defense agreement with Saudi Arabia.
 - 09/23 23:52 [financialjuice] ❗ Senior Iranian official: Tehran is reviewing US response to its proposal to end hostilities
 - 09/23 23:52 [financialjuice] US Secretary of State Rubio: Trump has many options over the Houthi attacks on Saudi Arabia.
 - 09/23 23:53 [FirstSquawk] IRAN IS ASSESSING THE U.S. REACTION TO ITS PLAN TO STOP CONFLICTS.
@@ -364,3 +350,9 @@
 - 09/24 11:32 [FirstSquawk] DHL Express, Singapore Airlines extend Boeing 777 freighter partnership
 - 09/24 11:32 [FirstSquawk] Singapore Airlines to operate 5 Boeing 777 freighters at Changi for DHL Express
 - 09/24 11:32 [FirstSquawk] Singapore Airlines to handle aircraft maintenance
+- 09/24 11:33 [financialjuice] Dollar/yen declines 0.33% to 157.80
+- 09/24 11:33 [FirstSquawk] USD/JPY drops 0.33% to 157.80
+- 09/24 11:37 [FirstSquawk] Fay regains tropical storm status, NHC says
+- 09/24 11:43 [FirstSquawk] South Korea’s Lee vows to double chip production in 5 years, strengthen AI supply chains - YONHAP
+- 09/24 11:47 [FirstSquawk] Honda nearing final preparations for new hybrid vehicle plant in Ohio, Nikkei reports
+- 09/24 11:47 [FirstSquawk] Honda plans nearly $2.5 billion hybrid vehicle plant in U.S.
