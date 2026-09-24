@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 15:42 JST／対象: 09/24 09:42 〜 09/24 15:42 JST（時刻はすべて日本時間）
+生成: 2026-09-24 15:58 JST／対象: 09/24 09:58 〜 09/24 15:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 86 | 09/24 09:42 | 09/24 15:42 | 25分（12:09→12:34） |
-| financialjuice | 33 | 09/24 10:01 | 09/24 14:46 | ⚠ 68分（11:33→12:41） |
+| FirstSquawk | 88 | 09/24 09:58 | 09/24 15:46 | 25分（12:09→12:34） |
+| financialjuice | 37 | 09/24 10:01 | 09/24 15:47 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 119 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 125 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 09:42 [FirstSquawk] SoftBank Group set to raise $11bn through bond sale for OpenAI investment - NA
-- 09/24 09:45 [FirstSquawk] YEMENI GOVERNMENT TELEVISION SAYS FORCES THWARTED A HOUTHI INFILTRATION ATTEMPT IN THE ASHBAUT AND HAYJAH AL-ABD AREAS OF THE AL-MAQATRAH DISTRICT IN LAHIJ
-- 09/24 09:52 [FirstSquawk] Australia condemns ‘unacceptable’ OpenAI breach of government health portal - SCMP
-- 09/24 09:56 [FirstSquawk] OpenAI breach had minor impact, Australia Defence Minister says
 - 09/24 09:58 [FirstSquawk] OpenAI cooperating with Australian government over breach, Defence Minister says
 - 09/24 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.804% (unchanged from prior session)
 - 09/24 10:01 [FirstSquawk] Taiwan overnight rate steady at 0.804% at the start of the session
@@ -143,3 +139,13 @@
 - 09/24 15:24 [FirstSquawk] Australian S&P/ASX 200 ends 0.7% lower at 8,702.00 points
 - 09/24 15:24 [FirstSquawk] DeepSeek reaches $1B annualized revenue as $7.5B fundraising nears completion: The Information
 - 09/24 15:42 [FirstSquawk] EUROZONE BOND YIELDS OPEN HIGHER-WSJ
+- 09/24 15:43 [FirstSquawk] SCHNEIDER ELECTRIC TO LAUNCH BID FOR SHELLY GROUP IN $1.4 BILLION DEAL-WSJ
+- 09/24 15:45 [financialjuice] FRENCH BUSINESS CLIMATE MFG ACTUAL 101 (FORECAST 102, PREVIOUS 103) $MACRO
+- 09/24 15:45 [financialjuice] FRENCH CONSUMER CONFIDENCE ACTUAL 86 (FORECAST 85, PREVIOUS 86) $MACRO
+- 09/24 15:45 [financialjuice] FRENCH BUSINESS CLIMATE OVERALL ACTUAL 96 (FORECAST 98, PREVIOUS 98) $MACRO
+- 09/24 15:46 [FirstSquawk] FRANCE (SEP) PRODUCTION OUTLOOK INDICATOR ACTUAL: -9 VS -11 PREVIOUS;EST -11
+- 09/24 15:46 [FirstSquawk] FRANCE (SEP) OWN COMPANY PRODUCTION OUTLOOK ACTUAL: 15 VS 9 PREVIOUS;EST 10
+- 09/24 15:46 [FirstSquawk] FRANCE (SEP) MANUFACTURING CONFIDENCE ACTUAL: 101 VS 103 PREVIOUS;EST 102
+- 09/24 15:46 [FirstSquawk] FRANCE (SEP) BUSINESS CONFIDENCE ACTUAL: 96 VS 98 PREVIOUS;EST 98
+- 09/24 15:46 [FirstSquawk] FRANCE (SEP) CONSUMER CONFIDENCE ACTUAL: 86 VS 86 PREVIOUS;EST 85
+- 09/24 15:47 [financialjuice] French Business Climate September 2026 Report

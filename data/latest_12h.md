@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 15:42 JST／対象: 09/24 03:42 〜 09/24 15:42 JST（時刻はすべて日本時間）
+生成: 2026-09-24 15:58 JST／対象: 09/24 03:58 〜 09/24 15:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/24 05:25 | 09/24 05:51 | 25分（05:25→05:51） |
-| FirstSquawk | 154 | 09/24 03:43 | 09/24 15:42 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 105 | 09/24 03:48 | 09/24 14:46 | ⚠ 68分（11:33→12:41） |
+| FirstSquawk | 157 | 09/24 03:59 | 09/24 15:46 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 104 | 09/24 04:06 | 09/24 15:47 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 259 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 261 行（統合前 263 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 03:43 [FirstSquawk] U.S. AND CHINESE TRADE NEGOTIATORS DISCUSSED THE IDEA 'OF A BIGGER DEAL' PROPOSED BY CHINA BETWEEN THE TWO GLOBAL SUPERPOWERS, TREASURY SECRETARY SCOTT BESSENT SAID FOLLOWING HIS WEDNESDAY MEETING WITH HIS CHINESE COUNTERPART, VICE PREMIER …
-- 09/24 03:43 [FirstSquawk] THE TEMPORARY TRADE TRUCE BETWEEN THE TWO COUNTRIES IS SET TO EXPIRE NOV. 10, WITH THE DEAL EXPECTED TO BE A TALKING POINT BETWEEN PRESIDENT DONALD TRUMP AND CHINESE PRESIDENT XI JINPING DURING THE STATE VISIT IN WASHINGTON, D.C. - CBS NEWS
-- 09/24 03:48 [financialjuice] Iraqi Prime Minister, Turkish President agree to have Turkish forces hand over camps in northern Iraq to Iraqi federal government gradually - Iraqi PM office statement.
-- 09/24 03:49 [financialjuice] US State Department: Rubio met with Indian counterpart, discussed sanctions that could be leveled against states that engage economically with Russia and Iran
-- 09/24 03:49 [financialjuice] US Treasury Secretary Bessent touts labor market on - Post on X
-- 09/24 03:49 [FirstSquawk] IRAQI PM & TURKISH PRESIDENT AGREE TO GRADUALLY HAND OVER TURKISH MILITARY CAMPS IN NORTHERN IRAQ TO IRAQI FEDERAL GOVERNMENT — IRAQI PM OFFICE
-- 09/24 03:51 [financialjuice] Senator Grassley: I hope the US won't listen to big oil on diesel export ban.
-- 09/24 03:53 [financialjuice] Senator Grassley: Oil firms don't need to charge sky-high diesel prices.
 - 09/24 03:59 [FirstSquawk] UKRAINE'S ZELENSKY SAYS 'I DON'T KNOW ANYONE WHO IS OPENLY FOR THIS WAR EXCEPT FOR ONE MAN', SAYING THAT JUST THIS YEAR, FROM JANUARY THROUGH AUGUST, 'THE RUSSIAN ARMY LOST 248,964 PEOPLE ON THE BATTLEFIELD IN UKRAINE', AND THAT '21 COUNTRI…
 - 09/24 03:59 [FirstSquawk] UKRAINE'S ZELENSKY SAYS 'WE HAVE VIDEO CONFIRMATION FOR EVERY ONE OF RUSSIAN LOSSES', DESCRIBING 'AN ARCHIVE OF DRONE VIDEOS SHOWING THOUSANDS AND THOUSANDS OF RUSSIANS LOSING THEIR LIVES IN KILL ZONES', CALLING IT 'MADNESS' AND SAYING 'THE…
 - 09/24 03:59 [FirstSquawk] UKRAINE'S ZELENSKY SAYS THAT 'AFTER LOSING SO MANY PEOPLE, RUSSIA MANAGED TO CAPTURE JUST OVER 1,000 SQUARE KILOMETERS OF OUR LAND THIS YEAR', OF WHICH UKRAINE HAS 'ALREADY LIBERATED A SIGNIFICANT PART', NOTING RUSSIA ALREADY HAS 17 MILLION…
@@ -283,3 +275,13 @@
 - 09/24 15:24 [FirstSquawk] Australian S&P/ASX 200 ends 0.7% lower at 8,702.00 points
 - 09/24 15:24 [FirstSquawk] DeepSeek reaches $1B annualized revenue as $7.5B fundraising nears completion: The Information
 - 09/24 15:42 [FirstSquawk] EUROZONE BOND YIELDS OPEN HIGHER-WSJ
+- 09/24 15:43 [FirstSquawk] SCHNEIDER ELECTRIC TO LAUNCH BID FOR SHELLY GROUP IN $1.4 BILLION DEAL-WSJ
+- 09/24 15:45 [financialjuice] FRENCH BUSINESS CLIMATE MFG ACTUAL 101 (FORECAST 102, PREVIOUS 103) $MACRO
+- 09/24 15:45 [financialjuice] FRENCH CONSUMER CONFIDENCE ACTUAL 86 (FORECAST 85, PREVIOUS 86) $MACRO
+- 09/24 15:45 [financialjuice] FRENCH BUSINESS CLIMATE OVERALL ACTUAL 96 (FORECAST 98, PREVIOUS 98) $MACRO
+- 09/24 15:46 [FirstSquawk] FRANCE (SEP) PRODUCTION OUTLOOK INDICATOR ACTUAL: -9 VS -11 PREVIOUS;EST -11
+- 09/24 15:46 [FirstSquawk] FRANCE (SEP) OWN COMPANY PRODUCTION OUTLOOK ACTUAL: 15 VS 9 PREVIOUS;EST 10
+- 09/24 15:46 [FirstSquawk] FRANCE (SEP) MANUFACTURING CONFIDENCE ACTUAL: 101 VS 103 PREVIOUS;EST 102
+- 09/24 15:46 [FirstSquawk] FRANCE (SEP) BUSINESS CONFIDENCE ACTUAL: 96 VS 98 PREVIOUS;EST 98
+- 09/24 15:46 [FirstSquawk] FRANCE (SEP) CONSUMER CONFIDENCE ACTUAL: 86 VS 86 PREVIOUS;EST 85
+- 09/24 15:47 [financialjuice] French Business Climate September 2026 Report
