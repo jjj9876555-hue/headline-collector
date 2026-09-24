@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 01:05 JST／対象: 09/24 01:05 〜 09/25 01:05 JST（時刻はすべて日本時間）
+生成: 2026-09-25 01:27 JST／対象: 09/24 01:27 〜 09/25 01:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 79 | 09/24 01:05 | 09/25 01:00 | ⚠ 935分（05:51→21:26） |
-| FirstSquawk | 361 | 09/24 01:15 | 09/25 00:55 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 299 | 09/24 01:11 | 09/25 01:01 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 79 | 09/24 01:59 | 09/25 01:16 | ⚠ 935分（05:51→21:26） |
+| FirstSquawk | 364 | 09/24 01:31 | 09/25 01:27 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 299 | 09/24 01:30 | 09/25 01:20 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 720 行（統合前 741 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 723 行（統合前 745 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 01:05 [DeItaone] ANTHROPIC LEADERS BACK PILGRIM STARTUP DEVELOPING SYSTEM TO DETECT BIOLOGICAL THREATS - WSJ
-- 09/24 01:07 [DeItaone] ANTHROPIC LEADERS BACK AI-ERA BIODEFENSE STARTUP Two Anthropic leaders invested in Pilgrim, a startup developing technology to detect airborne biological threats such as Ebola and anthrax. Pilgrim raised $25 million at a $150 million valuat…
-- 09/24 01:11 [financialjuice] Russian Foreign Minister Lavrov and US Secretary of State Rubio discussed the situation in the Middle East, the Transcaucasus, Latin America, and the Caribbean.
-- 09/24 01:11 [financialjuice] Russian Foreign Minister Lavrov emphasised the need to restore bilateral relations as soon as possible.
-- 09/24 01:12 [financialjuice] Russian Foreign Minister Lavrov: An agreement has been reached to continue discussions.
-- 09/24 01:15 [FirstSquawk] RUSSIA'S LAVROV, US SEC. OF STATE RUBIO DISCUSSED THE SITUATION IN MIDDLE EAST, THE TRANSCAUCASUS, LATAM AND CARIBBEAN – FOREIGN MINISTRY
-- 09/24 01:23 [FirstSquawk] EU BREXIT CHIEF: UK CAN GET A CANADA-STYLE MEMBERSHIP DEAL
 - 09/24 01:30 [financialjuice] IMF: The Middle East war since late February has significantly altered global growth trajectory through energy, commodity and supply-chain disruptions.
 - 09/24 01:30 [financialjuice] IMF: Global public debt was already near record highs when Middle East war began.
 - 09/24 01:30 [financialjuice] IMF: Supportive fiscal policies, private investment and potential AI productivity gains could support medium-term global growth.
@@ -744,3 +737,13 @@
 - 09/25 01:00 [DeItaone] U.S. 30-YR FIXED RATE MORTGAGE AVERAGES 7.03 PCT IN SEPT 24 WEEK, HIGHEST SINCE JAN 16, 2025 WEEK, VS 6.95 PCT PRIOR WEEK-FREDDIE MAC
 - 09/25 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 7.03% in Sept 24 week, highest since Jan 16, 2025 week, vs 6.95% prior week - Freddie Mac
 - 09/25 01:01 [financialjuice] BNP Paribas and Google Cloud sign five-year AI pact. $GOOGL
+- 09/25 01:08 [FirstSquawk] BNP PARIBAS, GOOGLE CLOUD SIGN 5-YEAR PARTNERSHIP FOR AI AND CLOUD INNOVATION
+- 09/25 01:09 [FirstSquawk] CNN AND MS HAVE BEEN GIVEN PERMISSION TO ENTER THE WHITE HOUSE.
+- 09/25 01:15 [financialjuice] Russia's Kuibyshev Oil Refinery has suspended oil processing since September 22ND, following A drone attack - Sources.
+- 09/25 01:15 [DeItaone] US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say
+- 09/25 01:16 [financialjuice] ❗ US and Iran discuss phased deal to reopen Hormuz and end US blockade - Sources.
+- 09/25 01:16 [DeItaone] U.S. AND IRAN EXPLORE PHASED HORMUZ DEAL U.S. and Iranian negotiators are discussing a phased agreement to end the conflict, Reuters reports. The potential first step would see Iran reopen the Strait of Hormuz in exchange for Washington lif…
+- 09/25 01:16 [FirstSquawk] US AND IRAN DISCUSS PHASED DEAL TO REOPEN HORMUZ AND END US BLOCKADE
+- 09/25 01:20 [financialjuice] US and Iranian negotiators in New York are exploring a phased path out of war that would involve Tehran reopening the Strait of Hormuz and Washington lifting its economic blockade of Iran, sources close to the talks said. The strait has bec…
+- 09/25 01:22 [FirstSquawk] TRUMP'S ADMINISTRATION ANNOUNCES MEDIA ACCESS TO THE WHITE HOUSE HAS BEEN RESTORED.
+- 09/25 01:27 [FirstSquawk] TRUMP CONSIDERS ALLOWING CHINESE EV PRODUCTION IN US AMID XI TALKS - NBC

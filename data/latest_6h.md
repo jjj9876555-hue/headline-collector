@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 01:05 JST／対象: 09/24 19:05 〜 09/25 01:05 JST（時刻はすべて日本時間）
+生成: 2026-09-25 01:27 JST／対象: 09/24 19:27 〜 09/25 01:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 62 | 09/24 21:26 | 09/25 01:00 | 20分（22:39→22:59） |
-| FirstSquawk | 128 | 09/24 19:12 | 09/25 00:55 | 17分（21:00→21:17） |
-| financialjuice | 135 | 09/24 19:16 | 09/25 01:01 | 30分（20:25→20:56） |
+| DeItaone | 64 | 09/24 21:26 | 09/25 01:16 | 20分（22:39→22:59） |
+| FirstSquawk | 123 | 09/24 19:43 | 09/25 01:27 | 17分（21:00→21:17） |
+| financialjuice | 134 | 09/24 19:40 | 09/25 01:20 | 30分（20:25→20:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 310 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 308 行（統合前 323 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 19:12 [FirstSquawk] BOE MPC'S DHINGRA: I WOULD NOT BE SURPRISED IF AI LEADS TO LOWER SERVICES INFLATION
-- 09/24 19:12 [FirstSquawk] EU SPOX: HIGH LEVEL CONTACTS WITH US ADMIN ARE ONGOING
-- 09/24 19:15 [FirstSquawk/financialjuice] EU COMMISSION: NO CONCRETE SHORTAGE OF DIESEL IN THE EU
-- 09/24 19:16 [financialjuice] Global crude steel output falls 1.2% to 144.2 mln metric tons in August 2026 vs August 2025 -Worldsteel
-- 09/24 19:17 [FirstSquawk] GLOBAL CRUDE STEEL OUTPUT FALLS 1.2% TO 144.2 MLN METRIC TONS IN AUGUST 2026 VS AUGUST 2025, WORLDSTEEL SAYS
-- 09/24 19:18 [FirstSquawk] CHINA CRUDE STEEL OUTPUT FALLS 3.7% TO 74.6 MLN T IN AUG 2026 VS AUG 2025 - WORLDSTEEL
-- 09/24 19:22 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: A NEW US ESCALATION COULD OPEN A SECOND FRONT AT BAB EL-MANDEB ALONGSIDE HORMUZ.
-- 09/24 19:25 [financialjuice/FirstSquawk] Saudi civil defence alerts of potential danger in Taif - Statement
-- 09/24 19:25 [FirstSquawk] SAUDI CIVIL DEFENSE ALERTS OF POTENTIAL DANGER IN MECCA, JEDDAH AND YANBU AND TABUK
-- 09/24 19:25 [FirstSquawk] EUROPE SHOULD TAKE EVERY OPPORTUNITY FOR DIALOG: RADEV ON PUTIN
-- 09/24 19:25 [financialjuice] Saudi civil defense alerts of potential danger in Mecca, Jeddah, Yanbu, and Tabuk
-- 09/24 19:27 [FirstSquawk] SPOT GOLD FALLS NEARLY 1% TO $4,244.99/OZ
 - 09/24 19:40 [financialjuice] China Life to invest up to 4.5B Yuan in a fund targeting AI and chip
 - 09/24 19:43 [FirstSquawk] TRUMP LENGTHENS TRADE CEASEFIRE WITH CHINA AND GREETS XI JINPING IN WASHINGTON.
 - 09/24 19:43 [FirstSquawk] CHINA LIFE WILL INVEST UP TO 4.5 BILLION YUAN IN A FUND FOCUSED ON AI AND CHIP TECHNOLOGIES.
@@ -334,3 +322,13 @@
 - 09/25 01:00 [DeItaone] U.S. 30-YR FIXED RATE MORTGAGE AVERAGES 7.03 PCT IN SEPT 24 WEEK, HIGHEST SINCE JAN 16, 2025 WEEK, VS 6.95 PCT PRIOR WEEK-FREDDIE MAC
 - 09/25 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 7.03% in Sept 24 week, highest since Jan 16, 2025 week, vs 6.95% prior week - Freddie Mac
 - 09/25 01:01 [financialjuice] BNP Paribas and Google Cloud sign five-year AI pact. $GOOGL
+- 09/25 01:08 [FirstSquawk] BNP PARIBAS, GOOGLE CLOUD SIGN 5-YEAR PARTNERSHIP FOR AI AND CLOUD INNOVATION
+- 09/25 01:09 [FirstSquawk] CNN AND MS HAVE BEEN GIVEN PERMISSION TO ENTER THE WHITE HOUSE.
+- 09/25 01:15 [financialjuice] Russia's Kuibyshev Oil Refinery has suspended oil processing since September 22ND, following A drone attack - Sources.
+- 09/25 01:15 [DeItaone] US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say
+- 09/25 01:16 [financialjuice] ❗ US and Iran discuss phased deal to reopen Hormuz and end US blockade - Sources.
+- 09/25 01:16 [DeItaone] U.S. AND IRAN EXPLORE PHASED HORMUZ DEAL U.S. and Iranian negotiators are discussing a phased agreement to end the conflict, Reuters reports. The potential first step would see Iran reopen the Strait of Hormuz in exchange for Washington lif…
+- 09/25 01:16 [FirstSquawk] US AND IRAN DISCUSS PHASED DEAL TO REOPEN HORMUZ AND END US BLOCKADE
+- 09/25 01:20 [financialjuice] US and Iranian negotiators in New York are exploring a phased path out of war that would involve Tehran reopening the Strait of Hormuz and Washington lifting its economic blockade of Iran, sources close to the talks said. The strait has bec…
+- 09/25 01:22 [FirstSquawk] TRUMP'S ADMINISTRATION ANNOUNCES MEDIA ACCESS TO THE WHITE HOUSE HAS BEEN RESTORED.
+- 09/25 01:27 [FirstSquawk] TRUMP CONSIDERS ALLOWING CHINESE EV PRODUCTION IN US AMID XI TALKS - NBC

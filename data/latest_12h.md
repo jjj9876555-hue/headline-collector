@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 01:05 JST／対象: 09/24 13:05 〜 09/25 01:05 JST（時刻はすべて日本時間）
+生成: 2026-09-25 01:27 JST／対象: 09/24 13:27 〜 09/25 01:27 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 62 | 09/24 21:26 | 09/25 01:00 | 20分（22:39→22:59） |
-| FirstSquawk | 208 | 09/24 13:13 | 09/25 00:55 | 22分（18:38→19:01） |
-| financialjuice | 173 | 09/24 14:00 | 09/25 01:01 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 64 | 09/24 21:26 | 09/25 01:16 | 20分（22:39→22:59） |
+| FirstSquawk | 209 | 09/24 13:40 | 09/25 01:27 | 22分（18:38→19:01） |
+| financialjuice | 176 | 09/24 14:00 | 09/25 01:20 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 427 行（統合前 444 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 433 行（統合前 451 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 13:13 [FirstSquawk] Global bond rout deepens with oil prices above $100: FT
-- 09/24 13:15 [FirstSquawk] Indonesia central bank: Rupiah performance generally aligned with regional currencies
-- 09/24 13:17 [FirstSquawk] 10-year Japanese government bond yield jumps 9.5 bps to 3.070%
-- 09/24 13:23 [FirstSquawk] Japan’s 5-year JGB yield climbs 9 bps to record 2.365%
 - 09/24 13:40 [FirstSquawk] France’s far left faces backlash over debt “fire” plan: FT
 - 09/24 13:40 [FirstSquawk] Leaked Belgian document warns Trump’s US is no longer a reliable ally: FT
 - 09/24 13:41 [FirstSquawk] FT: Fed will take action to ensure inflation resumes its slowdown
@@ -451,3 +447,13 @@
 - 09/25 01:00 [DeItaone] U.S. 30-YR FIXED RATE MORTGAGE AVERAGES 7.03 PCT IN SEPT 24 WEEK, HIGHEST SINCE JAN 16, 2025 WEEK, VS 6.95 PCT PRIOR WEEK-FREDDIE MAC
 - 09/25 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 7.03% in Sept 24 week, highest since Jan 16, 2025 week, vs 6.95% prior week - Freddie Mac
 - 09/25 01:01 [financialjuice] BNP Paribas and Google Cloud sign five-year AI pact. $GOOGL
+- 09/25 01:08 [FirstSquawk] BNP PARIBAS, GOOGLE CLOUD SIGN 5-YEAR PARTNERSHIP FOR AI AND CLOUD INNOVATION
+- 09/25 01:09 [FirstSquawk] CNN AND MS HAVE BEEN GIVEN PERMISSION TO ENTER THE WHITE HOUSE.
+- 09/25 01:15 [financialjuice] Russia's Kuibyshev Oil Refinery has suspended oil processing since September 22ND, following A drone attack - Sources.
+- 09/25 01:15 [DeItaone] US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say
+- 09/25 01:16 [financialjuice] ❗ US and Iran discuss phased deal to reopen Hormuz and end US blockade - Sources.
+- 09/25 01:16 [DeItaone] U.S. AND IRAN EXPLORE PHASED HORMUZ DEAL U.S. and Iranian negotiators are discussing a phased agreement to end the conflict, Reuters reports. The potential first step would see Iran reopen the Strait of Hormuz in exchange for Washington lif…
+- 09/25 01:16 [FirstSquawk] US AND IRAN DISCUSS PHASED DEAL TO REOPEN HORMUZ AND END US BLOCKADE
+- 09/25 01:20 [financialjuice] US and Iranian negotiators in New York are exploring a phased path out of war that would involve Tehran reopening the Strait of Hormuz and Washington lifting its economic blockade of Iran, sources close to the talks said. The strait has bec…
+- 09/25 01:22 [FirstSquawk] TRUMP'S ADMINISTRATION ANNOUNCES MEDIA ACCESS TO THE WHITE HOUSE HAS BEEN RESTORED.
+- 09/25 01:27 [FirstSquawk] TRUMP CONSIDERS ALLOWING CHINESE EV PRODUCTION IN US AMID XI TALKS - NBC
