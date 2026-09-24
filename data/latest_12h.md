@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 04:44 JST／対象: 09/24 16:44 〜 09/25 04:44 JST（時刻はすべて日本時間）
+生成: 2026-09-25 04:59 JST／対象: 09/24 16:59 〜 09/25 04:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 86 | 09/24 21:26 | 09/25 04:02 | 34分（01:16→01:51） |
-| FirstSquawk | 205 | 09/24 16:52 | 09/25 04:14 | 39分（01:57→02:36） |
-| financialjuice | 186 | 09/24 17:36 | 09/25 04:22 | 30分（02:29→03:00） |
+| FirstSquawk | 206 | 09/24 17:01 | 09/25 04:51 | 39分（01:57→02:36） |
+| financialjuice | 187 | 09/24 17:36 | 09/25 04:51 | 30分（02:29→03:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 457 行（統合前 483 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 458 行（統合前 485 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 16:52 [FirstSquawk] US DOLLAR HITS HIGHEST SINCE MAY 2025 AGAINST SWISS FRANC AT 0.8272, UP 0.24 PCT
 - 09/24 17:01 [FirstSquawk] LOMBARDELLI: POLICY IS INCREASINGLY LIKELY TO NEED TO TIGHTEN IF ELEVATED ENERGY PRICES PERSIST, ABSENT CLEAR EVIDENCE OF DISINFLATION OR WEAKER ACTIVITY
 - 09/24 17:01 [FirstSquawk] LOMBARDELLI: WAGE GROWTH REMAINS TOO HIGH TO BE CONSISTENT WITH INFLATION TARGET
 - 09/24 17:01 [FirstSquawk] LOMBARDELLI: I'M NO MEANS SUGGESTING THAT MONETARY POLICY SHOULD RESPOND MECHANICALLY TO MOVEMENTS IN ENERGY PRICES
@@ -479,5 +478,7 @@
 - 09/25 04:03 [financialjuice] Yemen's Houthis: Attacked a ‘sensitive target’ in Saudi Capital Riyadh.
 - 09/25 04:14 [FirstSquawk] MONEY MARKETS NOW PRICE THREE FED HIKES OVER THE NEXT YEAR AS PERSISTENT INFLATION, GOVERNMENT SPENDING AND AI-RELATED CORPORATE BORROWING DRIVE BOND VOLATILITY; THE S&P 500 WAS LITTLE CHANGED, DOW FELL 0.3%, WTI ROSE 2.9% TO $94.83 AND GOL…
 - 09/25 04:18 [financialjuice] The US files to intervene in the X, Musk, and EU commission cases.
-- 09/25 04:21 [financialjuice] NATO Sec. Gen. Rutte: European allies prepared for Russian hybrid attacks.
+- 09/25 04:21 [financialjuice/FirstSquawk] NATO Sec. Gen. Rutte: European allies prepared for Russian hybrid attacks.
 - 09/25 04:22 [financialjuice] Friday FX Options Expiries
+- 09/25 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2025.2 MLN NASDAQ 100: 1561.7 MLN DOW 30: 798.0 MLN MAG 7: 810.2 MLN $MACRO
+- 09/25 04:51 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: SOUTH KOREA TO STRENGTHEN MONITORING OF COUNTERFEIT & ILLICIT GOODS IMPORTS

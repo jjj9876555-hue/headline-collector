@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 04:44 JST／対象: 09/24 22:44 〜 09/25 04:44 JST（時刻はすべて日本時間）
+生成: 2026-09-25 04:59 JST／対象: 09/24 22:59 〜 09/25 04:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 62 | 09/24 22:59 | 09/25 04:02 | 34分（01:16→01:51） |
-| FirstSquawk | 99 | 09/24 22:45 | 09/25 04:14 | 39分（01:57→02:36） |
-| financialjuice | 109 | 09/24 22:45 | 09/25 04:22 | 30分（02:29→03:00） |
+| FirstSquawk | 93 | 09/24 23:01 | 09/25 04:51 | 39分（01:57→02:36） |
+| financialjuice | 97 | 09/24 23:00 | 09/25 04:51 | 30分（02:29→03:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 262 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 243 行（統合前 258 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 22:45 [financialjuice] BoE Breeden: It is not at all obvious that there is a path to lower energy prices.
-- 09/24 22:45 [FirstSquawk] BANK OF ENGLAND BREEDEN: NOT AT ALL OBVIOUS THAT THERE IS A PATH TO LOWER ENERGY PRICES
-- 09/24 22:46 [FirstSquawk] IRANIAN AND UKRAINIAN FOREIGN MINISTERS AGREED TO CONTINUE CONTACTS TO AVOID INCREASING TENSIONS IN BILATERAL RELATIONS - IRANIAN FOREIGN MINISTRY || IRANIAN AND UKRAINIAN FOREIGN MINISTERS EXCHANGED VIEWS ON HOW TO SOLVE THE ISSUE OF UKRAI…
-- 09/24 22:46 [financialjuice] BoE Breeden: Indirect pass-through of energy price rises are limited so far, which suggests slack in the economy.
-- 09/24 22:46 [financialjuice] BoE Breeden: The larger and longer the energy shock, the more likely policy will need to respond.
-- 09/24 22:47 [financialjuice] BoE Breeden: The balance of risks has shifted, if risks crystallise, it is increasingly likely that the BoE will need to respond.
-- 09/24 22:47 [financialjuice] BoE Breeden: You can't wait too long for conclusive evidence of 2nd round effects.
-- 09/24 22:48 [financialjuice] BoE Breeden: I like to focus on what firms say about how they're approaching pricing decisions.
-- 09/24 22:48 [FirstSquawk] BREEDEN: INDIRECT PASS THROUGH OF ENERGY PRICE RISES LIMITED SO FAR, SUGGESTS SLACK IN ECONOMY
-- 09/24 22:48 [FirstSquawk] BREEDEN: THE LARGER AND LONGER THE ENERGY SHOCK, THE MORE LIKELY POLICY WILL NEED TO RESPOND
-- 09/24 22:48 [FirstSquawk] BREEDEN: BALANCE OF RISKS HAS SHIFTED, IF RISKS CRYSTALLISE INCREASINGLY LIKELY BOE WILL NEED TO RESPOND
-- 09/24 22:48 [FirstSquawk] BREEDEN: YOU CAN'T WAIT TOO LONG FOR CONCLUSIVE EVIDENCE OF 2ND ROUND EFFECTS
-- 09/24 22:48 [FirstSquawk] BREEDEN: I LIKE TO FOCUS ON WHAT FIRMS SAY ABOUT HOW THEY'RE APPROACHING PRICING DECISIONS
-- 09/24 22:49 [financialjuice] BoE Breeden: The DMP survey, PMI, and agents' surveys are important to me.
-- 09/24 22:49 [FirstSquawk] BREEDEN: DMP SURVEY, PMI, AGENTS' SURVEY ARE IMPORTANT FOR ME
-- 09/24 22:52 [financialjuice] Trump Greets China’s President Xi - WATCH LIVE
-- 09/24 22:53 [financialjuice] BoE Breeden: Unlike in 2022, we're starting at a point where policy is restrictive.
-- 09/24 22:54 [financialjuice] BoE Breeden: We have to take a meeting-by-meeting approach to the rate decisions.
-- 09/24 22:54 [financialjuice] BoE Breeden: The question for me is whether we need to do a first move, there is more uncertainty about whether we need to do lots more.
-- 09/24 22:56 [financialjuice] BoE Breeden: We may find over time that we need to do a lot more.
-- 09/24 22:57 [financialjuice] BoE Breeden: It is incredibly important that the BoE has set out a plan to exit QE, it makes it a more credible tool.
 - 09/24 22:59 [DeItaone] CNN, MS NOW, POLITICO REQUEST IMMEDIATE COURT HEARING AFTER BEING BLOCKED FROM WHITE HOUSE GROUNDS ON THURSDAY -FILING
 - 09/24 23:00 [DeItaone] US AUG SINGLE-FAMILY HOME SALES 0.684 MLN UNIT ANN. RATE, (CONS 0.615 MLN) US AUG SINGLE-FAMILY HOME SALES +6.4%
 - 09/24 23:00 [financialjuice] US NEW HOME SALES CHANGE MOM ACTUAL 6.4% (FORECAST 1.3%, PREVIOUS -10.5%) $MACRO
@@ -284,5 +263,7 @@
 - 09/25 04:03 [financialjuice] Yemen's Houthis: Attacked a ‘sensitive target’ in Saudi Capital Riyadh.
 - 09/25 04:14 [FirstSquawk] MONEY MARKETS NOW PRICE THREE FED HIKES OVER THE NEXT YEAR AS PERSISTENT INFLATION, GOVERNMENT SPENDING AND AI-RELATED CORPORATE BORROWING DRIVE BOND VOLATILITY; THE S&P 500 WAS LITTLE CHANGED, DOW FELL 0.3%, WTI ROSE 2.9% TO $94.83 AND GOL…
 - 09/25 04:18 [financialjuice] The US files to intervene in the X, Musk, and EU commission cases.
-- 09/25 04:21 [financialjuice] NATO Sec. Gen. Rutte: European allies prepared for Russian hybrid attacks.
+- 09/25 04:21 [financialjuice/FirstSquawk] NATO Sec. Gen. Rutte: European allies prepared for Russian hybrid attacks.
 - 09/25 04:22 [financialjuice] Friday FX Options Expiries
+- 09/25 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2025.2 MLN NASDAQ 100: 1561.7 MLN DOW 30: 798.0 MLN MAG 7: 810.2 MLN $MACRO
+- 09/25 04:51 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: SOUTH KOREA TO STRENGTHEN MONITORING OF COUNTERFEIT & ILLICIT GOODS IMPORTS
