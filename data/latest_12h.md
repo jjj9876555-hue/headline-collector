@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 18:52 JST／対象: 09/24 06:52 〜 09/24 18:52 JST（時刻はすべて日本時間）
+生成: 2026-09-24 19:05 JST／対象: 09/24 07:05 〜 09/24 19:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 166 | 09/24 08:16 | 09/24 18:38 | 25分（12:09→12:34） |
-| financialjuice | 99 | 09/24 06:57 | 09/24 18:52 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 168 | 09/24 08:16 | 09/24 19:01 | 25分（12:09→12:34） |
+| financialjuice | 106 | 09/24 07:06 | 09/24 19:03 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 263 行（統合前 265 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 272 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 06:57 [financialjuice] Morocco's parliamentary election turnout at 38.02%, interior ministry says
 - 09/24 07:06 [financialjuice] US Treasury Secretary Bessent: U.S., China agreed Wednesday to prolong Busan agreement
 - 09/24 07:13 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: reports that he will likely be Trump's al czar are probably fake news
 - 09/24 07:31 [financialjuice] Modal Labs in talks to secure new funding at about $15 billion valuation
@@ -287,3 +286,13 @@
 - 09/24 18:51 [financialjuice] BoE's Dhingra: I am encouraged by what we're seeing on pricing
 - 09/24 18:51 [financialjuice] BoE's Dhingra: A lot of financial tightening has taken place
 - 09/24 18:52 [financialjuice] BoE's Dhingra: We are not seeing broad-based price rises like those that happened in 2022
+- 09/24 18:52 [financialjuice] Beijing urges Chinese LNG buyers to avoid resales before winter
+- 09/24 18:53 [financialjuice] BoE's Dhingra: Winter energy prices will be critical for second-round effects
+- 09/24 18:57 [financialjuice] BoE's Dhingra: Not seeing broadly spread price rises like 2022
+- 09/24 19:00 [financialjuice] UK CBI DISTRIBUTIVE TRADES ACTUAL -55 (FORECAST -, PREVIOUS -48) $MACRO
+- 09/24 19:01 [FirstSquawk] DHINGRA: CLAMOUR FOR HIGHER UK RATES IGNORES WEAKER GROWTH THAN US, HIGHER LEVEL OF UK RATES THAN EURO ZONE
+- 09/24 19:01 [FirstSquawk] RUSSIAN FOREIGN MINISTRY SAYS NORTH KOREA'S KIM INVITED TO RUSSIA - TASS
+- 09/24 19:02 [financialjuice] BoE's Dhingra: UK medium-term inflation expectations are similar to the euro zone, not a cause for alarm
+- 09/24 19:02 [financialjuice] BoE's Dhingra: Clamour for higher UK rates ignores weaker growth than the US and higher level of UK rates than the Eurozone
+- 09/24 19:02 [financialjuice] BoE's Dhingra: Successive shocks could be problematic
+- 09/24 19:03 [financialjuice] Russian Foreign Ministry: North Korea's Kim invited to Russia - TASS

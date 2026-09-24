@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 18:52 JST／対象: 09/24 12:52 〜 09/24 18:52 JST（時刻はすべて日本時間）
+生成: 2026-09-24 19:05 JST／対象: 09/24 13:05 〜 09/24 19:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 82 | 09/24 12:54 | 09/24 18:38 | 22分（17:43→18:05） |
-| financialjuice | 31 | 09/24 13:01 | 09/24 18:52 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 79 | 09/24 13:13 | 09/24 19:01 | 22分（18:38→19:01） |
+| financialjuice | 38 | 09/24 14:00 | 09/24 19:03 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 112 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 116 行（統合前 117 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 12:54 [FirstSquawk] AI leaders caution U.N. over security risks from increasingly powerful systems - KYODO
-- 09/24 12:57 [FirstSquawk] 10-year JGB yield jumps 9 bps to 3.065%
-- 09/24 13:01 [financialjuice] Ten commodity ships pass Strait of Hormuz on Wednesday against 10-day moving average near 17, data shows
-- 09/24 13:01 [FirstSquawk] Only 10 commodity vessels crossed Strait of Hormuz on Wednesday, data shows
-- 09/24 13:01 [FirstSquawk] Jane Street set to double London office footprint, FT reports
-- 09/24 13:04 [FirstSquawk] Jane Street agrees to pre-let space at One Spitalfields: FT
 - 09/24 13:13 [FirstSquawk] Global bond rout deepens with oil prices above $100: FT
 - 09/24 13:15 [FirstSquawk] Indonesia central bank: Rupiah performance generally aligned with regional currencies
 - 09/24 13:17 [FirstSquawk] 10-year Japanese government bond yield jumps 9.5 bps to 3.070%
@@ -136,3 +130,13 @@
 - 09/24 18:51 [financialjuice] BoE's Dhingra: I am encouraged by what we're seeing on pricing
 - 09/24 18:51 [financialjuice] BoE's Dhingra: A lot of financial tightening has taken place
 - 09/24 18:52 [financialjuice] BoE's Dhingra: We are not seeing broad-based price rises like those that happened in 2022
+- 09/24 18:52 [financialjuice] Beijing urges Chinese LNG buyers to avoid resales before winter
+- 09/24 18:53 [financialjuice] BoE's Dhingra: Winter energy prices will be critical for second-round effects
+- 09/24 18:57 [financialjuice] BoE's Dhingra: Not seeing broadly spread price rises like 2022
+- 09/24 19:00 [financialjuice] UK CBI DISTRIBUTIVE TRADES ACTUAL -55 (FORECAST -, PREVIOUS -48) $MACRO
+- 09/24 19:01 [FirstSquawk] DHINGRA: CLAMOUR FOR HIGHER UK RATES IGNORES WEAKER GROWTH THAN US, HIGHER LEVEL OF UK RATES THAN EURO ZONE
+- 09/24 19:01 [FirstSquawk] RUSSIAN FOREIGN MINISTRY SAYS NORTH KOREA'S KIM INVITED TO RUSSIA - TASS
+- 09/24 19:02 [financialjuice] BoE's Dhingra: UK medium-term inflation expectations are similar to the euro zone, not a cause for alarm
+- 09/24 19:02 [financialjuice] BoE's Dhingra: Clamour for higher UK rates ignores weaker growth than the US and higher level of UK rates than the Eurozone
+- 09/24 19:02 [financialjuice] BoE's Dhingra: Successive shocks could be problematic
+- 09/24 19:03 [financialjuice] Russian Foreign Ministry: North Korea's Kim invited to Russia - TASS
