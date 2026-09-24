@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 22:39 JST／対象: 09/24 10:39 〜 09/24 22:39 JST（時刻はすべて日本時間）
+生成: 2026-09-24 22:54 JST／対象: 09/24 10:54 〜 09/24 22:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 24 | 09/24 21:26 | 09/24 22:39 | 18分（22:06→22:24） |
-| FirstSquawk | 188 | 09/24 10:40 | 09/24 22:34 | 25分（12:09→12:34） |
-| financialjuice | 104 | 09/24 10:40 | 09/24 22:31 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 192 | 09/24 10:59 | 09/24 22:49 | 25分（12:09→12:34） |
+| financialjuice | 112 | 09/24 11:04 | 09/24 22:54 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 304 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 316 行（統合前 328 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 10:40 [FirstSquawk] Sterling stays near July lows as Fed-BoE policy divergence weighs on the pound - FX
-- 09/24 10:40 [financialjuice] Japan finmin Katayama: principles on forex set by coordinated Japan-US intervention remain effective
-- 09/24 10:41 [financialjuice] Japan finmin Katayama: declines to comment on forex levels
-- 09/24 10:41 [FirstSquawk] Japan’s Katayama: Existing forex principles from coordinated U.S.-Japan intervention still apply
-- 09/24 10:41 [FirstSquawk] Katayama: Japan won’t comment on specific forex levels
-- 09/24 10:46 [FirstSquawk] Osaka rubber futures climb 5.25% to highest level in 15 years
-- 09/24 10:52 [FirstSquawk] Xi receives rare welcome from Trump at military base before summit - YONHAP
 - 09/24 10:59 [FirstSquawk] Euro drops below 1.1400 as expectations of Fed hikes lift the US Dollar - FX
 - 09/24 11:02 [FirstSquawk] 5-year Japanese government bond yield rises to record 2.345%, up 7 bps
 - 09/24 11:04 [financialjuice] OpenAI: ChatGPT ads to start launching across Indonesia, Malaysia, Philippines, Singapore, Thailand, Vietnam, and Taiwan
@@ -328,3 +321,22 @@
 - 09/24 22:32 [FirstSquawk] NASDAQ DOWN 208.33 POINTS, OR 0.77 PERCENT, AT 26,727.71 AFTER MARKET OPEN DOW JONES DOWN 173.62 POINTS, OR 0.34 %, AT 51,337.97 AFTER MARKET OPEN S&P 500 DOWN 38.61 POINTS, OR 0.50 PERCENT, AT 7,667.42 AFTER MARKET OPEN
 - 09/24 22:34 [FirstSquawk] ORACLE SHARES FALL 5.7% TO LOWEST SINCE AUG. 3
 - 09/24 22:39 [DeItaone] OIL FUTURES EXTEND GAINS, US CRUDE UP BY $2 A BARREL ON LITTLE SIGN OF PROGRESS IN US-IRAN TALKS
+- 09/24 22:40 [FirstSquawk] TRUMP TO DECIDE SHORTLY ON NEW TAIWAN ARMS PACKAGE - NBC
+- 09/24 22:45 [financialjuice] BoE Breeden: It is not at all obvious that there is a path to lower energy prices.
+- 09/24 22:45 [FirstSquawk] BANK OF ENGLAND BREEDEN: NOT AT ALL OBVIOUS THAT THERE IS A PATH TO LOWER ENERGY PRICES
+- 09/24 22:46 [FirstSquawk] IRANIAN AND UKRAINIAN FOREIGN MINISTERS AGREED TO CONTINUE CONTACTS TO AVOID INCREASING TENSIONS IN BILATERAL RELATIONS - IRANIAN FOREIGN MINISTRY || IRANIAN AND UKRAINIAN FOREIGN MINISTERS EXCHANGED VIEWS ON HOW TO SOLVE THE ISSUE OF UKRAI…
+- 09/24 22:46 [financialjuice] BoE Breeden: Indirect pass-through of energy price rises are limited so far, which suggests slack in the economy.
+- 09/24 22:46 [financialjuice] BoE Breeden: The larger and longer the energy shock, the more likely policy will need to respond.
+- 09/24 22:47 [financialjuice] BoE Breeden: The balance of risks has shifted, if risks crystallise, it is increasingly likely that the BoE will need to respond.
+- 09/24 22:47 [financialjuice] BoE Breeden: You can't wait too long for conclusive evidence of 2nd round effects.
+- 09/24 22:48 [financialjuice] BoE Breeden: I like to focus on what firms say about how they're approaching pricing decisions.
+- 09/24 22:48 [FirstSquawk] BREEDEN: INDIRECT PASS THROUGH OF ENERGY PRICE RISES LIMITED SO FAR, SUGGESTS SLACK IN ECONOMY
+- 09/24 22:48 [FirstSquawk] BREEDEN: THE LARGER AND LONGER THE ENERGY SHOCK, THE MORE LIKELY POLICY WILL NEED TO RESPOND
+- 09/24 22:48 [FirstSquawk] BREEDEN: BALANCE OF RISKS HAS SHIFTED, IF RISKS CRYSTALLISE INCREASINGLY LIKELY BOE WILL NEED TO RESPOND
+- 09/24 22:48 [FirstSquawk] BREEDEN: YOU CAN'T WAIT TOO LONG FOR CONCLUSIVE EVIDENCE OF 2ND ROUND EFFECTS
+- 09/24 22:48 [FirstSquawk] BREEDEN: I LIKE TO FOCUS ON WHAT FIRMS SAY ABOUT HOW THEY'RE APPROACHING PRICING DECISIONS
+- 09/24 22:49 [financialjuice] BoE Breeden: The DMP survey, PMI, and agents' surveys are important to me.
+- 09/24 22:49 [FirstSquawk] BREEDEN: DMP SURVEY, PMI, AGENTS' SURVEY ARE IMPORTANT FOR ME
+- 09/24 22:52 [financialjuice] Trump Greets China’s President Xi - WATCH LIVE
+- 09/24 22:53 [financialjuice] BoE Breeden: Unlike in 2022, we're starting at a point where policy is restrictive.
+- 09/24 22:54 [financialjuice] BoE Breeden: We have to take a meeting-by-meeting approach to the rate decisions.

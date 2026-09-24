@@ -7,47 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 22:39 JST／対象: 09/23 22:39 〜 09/24 22:39 JST（時刻はすべて日本時間）
+生成: 2026-09-24 22:54 JST／対象: 09/23 22:54 〜 09/24 22:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 78 | 09/23 22:42 | 09/24 22:39 | ⚠ 935分（05:51→21:26） |
-| FirstSquawk | 360 | 09/23 22:41 | 09/24 22:34 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 303 | 09/23 22:43 | 09/24 22:31 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 71 | 09/23 23:00 | 09/24 22:39 | ⚠ 935分（05:51→21:26） |
+| FirstSquawk | 359 | 09/23 22:54 | 09/24 22:49 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 305 | 09/23 23:01 | 09/24 22:54 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 721 行（統合前 744 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 716 行（統合前 738 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 22:41 [FirstSquawk] ITALY FINMIN GIORGETTI: GROWING CONSENSUS IN EU ON WINDFALL TAX ON ENERGY SECTOR
-- 09/23 22:42 [DeItaone/FirstSquawk] REZAEI SAYS IF NEIGHBORING COUNTRIES GO ALONG WITH U.S. IN STOPPING IRANIAN FLIGHTS, THEIR AIRPORTS WON'T BE ABLE TO WORK
-- 09/23 22:43 [DeItaone] IRAN TIES HORMUZ REOPENING TO U.S. COMPLIANCE Iran’s security chief says Tehran will not return to the situation before Islamabad, reiterating that Washington must comply with Iran’s seven conditions. “If the United States does not comply,”…
-- 09/23 22:43 [financialjuice] Iran's General Razai: If neighboring countries go along with the US in stopping Iranian flights, their airports won't be able to work.
-- 09/23 22:44 [financialjuice] Iran's Araghchi: I warned European officials against supporting the war crimes of the United States and Israel - Post on X.
-- 09/23 22:44 [DeItaone] IRAN SAYS IT’S IN NO RUSH TO NEGOTIATE Iran’s security chief Ali Rezaei says Tehran is “not in a hurry” to negotiate, maintaining a firm stance toward potential talks. Rezaei said Iran’s conditions have now been finalized and handed to Qata…
-- 09/23 22:45 [financialjuice] ❗ US S&P MANUFACTURING PMI FLASH ACTUAL 57 (FORECAST 53.7, PREVIOUS 53.9) $MACRO
-- 09/23 22:45 [financialjuice] US S&P COMPOSITE PMI FLASH ACTUAL 58.4 (FORECAST 55.3, PREVIOUS 56.0) $MACRO
-- 09/23 22:45 [financialjuice] ❗ US S&P SERVICES PMI FLASH ACTUAL 58.7 (FORECAST 55.8, PREVIOUS 56.5) $MACRO
-- 09/23 22:45 [DeItaone] *US S&P GLOBAL SEPT. COMPOSITE PMI RISES TO FIVE-YEAR HIGH
-- 09/23 22:45 [FirstSquawk] US S&P GLOBAL SERVICES PMI (SEP) ACTUAL: 58.7 VS 56.5 PREVIOUS; EST 55.8
-- 09/23 22:45 [FirstSquawk] US S&P GLOBAL MANUFACTURING PMI (SEP) ACTUAL: 57 VS 53.9 PREVIOUS; EST 53.7
-- 09/23 22:46 [FirstSquawk] US SEPT. COMPOSITE PMI 58.4 VS PRIOR 56
-- 09/23 22:46 [financialjuice] US S&P September Prelim PMI Report
-- 09/23 22:47 [DeItaone] U.S. S&P GLOBAL SEPTEMBER FLASH MANUFACTURING PMI AT 57.0 (FORECAST 53.6) U.S. S&P GLOBAL SEPTEMBER FLASH SERVICES PMI AT 58.7 (FORECAST 56.0) U.S. S&P GLOBAL SEPTEMBER FLASH COMPOSITE PMI AT 58.4 (VS 56.0 IN AUGUST)
-- 09/23 22:47 [FirstSquawk] US TREASURIES EXTEND SLIDE AFTER STRONG S&P GLOBAL US PMI GAUGES
-- 09/23 22:50 [DeItaone] U.S. TREASURY YIELDS RISE FURTHER AFTER DATA; YIELD ON 10-YEAR TREASURY NOTE LAST UP 5.81 BASIS POINTS AT 5.025%
-- 09/23 22:51 [FirstSquawk] IRAN'S ARAGHCHI: I WARNED EUROPEAN OFFICIALS AGAINST SUPPORTING THE WAR CRIMES OF THE UNITED STATES AND ISRAEL
-- 09/23 22:51 [financialjuice] Iran's General Razai: In our new diplomacy, we have a leverage called the Strait of Hormuz, which guarantees negotiations - Fars News.
-- 09/23 22:52 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS LAST UP 6.63 BASIS POINTS AT 4.843%
-- 09/23 22:52 [financialjuice] Iran's General Razai: Trump may want to do something in the mountains of Iran or attack our nuclear sites, but we will tolerate even that; our armed forces have a plan ready to respond.
-- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: TRUMP'S CRIMINAL ACTIONS NOT ONLY FAILED TO UNDERMINE THE AUTHORITY OF THE ISLAMIC REPUBLIC OF IRAN, BUT INSTEAD TRANSFORMED IRAN INTO ONE OF THE MOST POWERFUL ACTORS AND THE FOURTH-LARGEST POWER IN…
-- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: AMERICAN MEDIA ATTACH NO VALUE TO TRUMP'S SPEECHES. IF THEY DID, THEY WOULD NOT MUTE HIS MICROPHONE OR IGNORE HIM.
-- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: IF TRUMP WERE SUCCESSFUL, HE SHOULDN'T HAVE FOCUSED THIS MUCH ON IRAN AT THE UNGA.
 - 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: THE VERY FACT THAT ALL OF TRUMP'S REMARKS REVOLVE AROUND IRAN SHOWS THAT IT HAS BECOME THE BIGGEST PROBLEM AND THE FOCUS OF HIS LIFE AND POLITICS, AS WELL AS AMERICAN POLICY.
 - 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: TRUMP HIMSELF HAS REALIZED THAT HE IS A CRIMINAL. FROM INTERNATIONAL COURTS TO THE COURTS OF THE ISLAMIC WORLD, THEY WILL HOLD BOTH HIM AND NETANYAHU ACCOUNTABLE.
 - 09/23 22:57 [FirstSquawk] AUSSIE DROPS 1% TO 0.7043 VS USD, DOWN MOST IN THREE MONTHS
@@ -745,3 +721,22 @@
 - 09/24 22:32 [FirstSquawk] NASDAQ DOWN 208.33 POINTS, OR 0.77 PERCENT, AT 26,727.71 AFTER MARKET OPEN DOW JONES DOWN 173.62 POINTS, OR 0.34 %, AT 51,337.97 AFTER MARKET OPEN S&P 500 DOWN 38.61 POINTS, OR 0.50 PERCENT, AT 7,667.42 AFTER MARKET OPEN
 - 09/24 22:34 [FirstSquawk] ORACLE SHARES FALL 5.7% TO LOWEST SINCE AUG. 3
 - 09/24 22:39 [DeItaone] OIL FUTURES EXTEND GAINS, US CRUDE UP BY $2 A BARREL ON LITTLE SIGN OF PROGRESS IN US-IRAN TALKS
+- 09/24 22:40 [FirstSquawk] TRUMP TO DECIDE SHORTLY ON NEW TAIWAN ARMS PACKAGE - NBC
+- 09/24 22:45 [financialjuice] BoE Breeden: It is not at all obvious that there is a path to lower energy prices.
+- 09/24 22:45 [FirstSquawk] BANK OF ENGLAND BREEDEN: NOT AT ALL OBVIOUS THAT THERE IS A PATH TO LOWER ENERGY PRICES
+- 09/24 22:46 [FirstSquawk] IRANIAN AND UKRAINIAN FOREIGN MINISTERS AGREED TO CONTINUE CONTACTS TO AVOID INCREASING TENSIONS IN BILATERAL RELATIONS - IRANIAN FOREIGN MINISTRY || IRANIAN AND UKRAINIAN FOREIGN MINISTERS EXCHANGED VIEWS ON HOW TO SOLVE THE ISSUE OF UKRAI…
+- 09/24 22:46 [financialjuice] BoE Breeden: Indirect pass-through of energy price rises are limited so far, which suggests slack in the economy.
+- 09/24 22:46 [financialjuice] BoE Breeden: The larger and longer the energy shock, the more likely policy will need to respond.
+- 09/24 22:47 [financialjuice] BoE Breeden: The balance of risks has shifted, if risks crystallise, it is increasingly likely that the BoE will need to respond.
+- 09/24 22:47 [financialjuice] BoE Breeden: You can't wait too long for conclusive evidence of 2nd round effects.
+- 09/24 22:48 [financialjuice] BoE Breeden: I like to focus on what firms say about how they're approaching pricing decisions.
+- 09/24 22:48 [FirstSquawk] BREEDEN: INDIRECT PASS THROUGH OF ENERGY PRICE RISES LIMITED SO FAR, SUGGESTS SLACK IN ECONOMY
+- 09/24 22:48 [FirstSquawk] BREEDEN: THE LARGER AND LONGER THE ENERGY SHOCK, THE MORE LIKELY POLICY WILL NEED TO RESPOND
+- 09/24 22:48 [FirstSquawk] BREEDEN: BALANCE OF RISKS HAS SHIFTED, IF RISKS CRYSTALLISE INCREASINGLY LIKELY BOE WILL NEED TO RESPOND
+- 09/24 22:48 [FirstSquawk] BREEDEN: YOU CAN'T WAIT TOO LONG FOR CONCLUSIVE EVIDENCE OF 2ND ROUND EFFECTS
+- 09/24 22:48 [FirstSquawk] BREEDEN: I LIKE TO FOCUS ON WHAT FIRMS SAY ABOUT HOW THEY'RE APPROACHING PRICING DECISIONS
+- 09/24 22:49 [financialjuice] BoE Breeden: The DMP survey, PMI, and agents' surveys are important to me.
+- 09/24 22:49 [FirstSquawk] BREEDEN: DMP SURVEY, PMI, AGENTS' SURVEY ARE IMPORTANT FOR ME
+- 09/24 22:52 [financialjuice] Trump Greets China’s President Xi - WATCH LIVE
+- 09/24 22:53 [financialjuice] BoE Breeden: Unlike in 2022, we're starting at a point where policy is restrictive.
+- 09/24 22:54 [financialjuice] BoE Breeden: We have to take a meeting-by-meeting approach to the rate decisions.
