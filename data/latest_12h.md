@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 08:15 JST／対象: 09/24 20:15 〜 09/25 08:15 JST（時刻はすべて日本時間）
+生成: 2026-09-25 08:31 JST／対象: 09/24 20:31 〜 09/25 08:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 180 | 09/24 20:25 | 09/25 07:52 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 178 | 09/24 20:25 | 09/25 08:01 | 40分（06:04→06:44） |
+| FirstSquawk | 178 | 09/24 20:31 | 09/25 08:22 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 179 | 09/24 20:56 | 09/25 08:30 | 40分（06:04→06:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 423 行（統合前 451 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 422 行（統合前 450 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 20:25 [FirstSquawk] TRUMP SAYS ON AI: SUPER INTELLIGENCE (SI) WILL BE A BIG TOPIC OF DISCUSSION, BUT I WANT TO LEAVE IT EXACTLY WHERE IT IS.
-- 09/24 20:25 [financialjuice/FirstSquawk] Trump on Truth Social: A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also.
-- 09/24 20:29 [FirstSquawk] US TRUMP SAYS US, CHINA WANT TO LEAVE AI 'EXACTLY WHERE IT IS'
 - 09/24 20:31 [FirstSquawk] QUALCOMM RENEWS GLOBAL PATENT LICENSE PACT WITH APPLE
 - 09/24 20:34 [FirstSquawk] OVER £30BN IN UK DEFENCE CONTRACTS HAVE BEEN GIVEN TO FOREIGN SUPPLIERS IN THE LAST FIVE YEARS, YET THEY ARE RECORDED AS UK INVESTMENT.
 - 09/24 20:41 [FirstSquawk] UKRAINE DELEGATION IS ON ITS WAY BACK FROM US - ZELENSKYY AIDE
@@ -445,5 +442,7 @@
 - 09/25 07:45 [financialjuice] Trump, Johnson and tech CEOs to convene on Sept. 29: Axios
 - 09/25 07:52 [DeItaone] IRANIAN PRESIDENT WHEN ASKED IF WAR COULD END BEFORE END OF YEAR: IT'S AMERICA THAT MUST CHOOSE WHETHER IT WANTS TO END THIS
 - 09/25 07:57 [financialjuice] Qatar categorically rejects Netanyahu’s claim it is running campaign to sway public opinion against Israel
-- 09/25 07:58 [financialjuice] Qatar: Repeated attacks by Netanyahu appear aimed at deflecting political responsibility for ground policies
+- 09/25 07:58 [financialjuice/FirstSquawk] Qatar: Repeated attacks by Netanyahu appear aimed at deflecting political responsibility for ground policies
 - 09/25 08:01 [financialjuice] UK GfK consumer confidence index at -13 in September vs -14 in August, highest since August 2024 (poll -16)
+- 09/25 08:28 [financialjuice] Saudi Arabia issues warning over possible threat in Jazan
+- 09/25 08:30 [financialjuice] Saudi Arabia civil defence: threat over in Jazan
