@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 18:19 JST／対象: 09/24 06:19 〜 09/24 18:19 JST（時刻はすべて日本時間）
+生成: 2026-09-24 18:35 JST／対象: 09/24 06:35 〜 09/24 18:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 154 | 09/24 06:44 | 09/24 18:07 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 97 | 09/24 06:22 | 09/24 18:09 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 166 | 09/24 06:44 | 09/24 18:26 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 96 | 09/24 06:36 | 09/24 18:23 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 249 行（統合前 251 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 260 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 06:22 [financialjuice] North Korea: conducted test launch of upgraded guided rocket artillery shells on Sept. 22 - KCNA
-- 09/24 06:32 [financialjuice] OpenAI: AI agent improperly accessed Australian government files; no evidence patient records were breached
 - 09/24 06:36 [financialjuice/FirstSquawk] Chinese President Xi Jinping arrives for state visit to U.S.: Xinhua
 - 09/24 06:39 [financialjuice] OpenAI: alerted services in Australia about incident on Sept. 10
 - 09/24 06:57 [financialjuice] Morocco's parliamentary election turnout at 38.02%, interior ministry says
@@ -273,3 +271,16 @@
 - 09/24 18:05 [FirstSquawk] SAUDI ARAMCO STUDYING 4TH, 5TH ROUTES FOR CRUDE OIL - NIKKEI
 - 09/24 18:07 [FirstSquawk] WILLIAMS: SHORT RUN INFLATION EXPECTATIONS HAVE BEEN ENCOURAGING, FOR LONG TERM HAVE NOT
 - 09/24 18:09 [financialjuice] Saudi Aramco CEO: Will continue to supply Japan -Nikkei
+- 09/24 18:23 [FirstSquawk] PBOC: CONVENES MONETARY POLICY COMMITTEE 3Q MEETING
+- 09/24 18:23 [FirstSquawk] PBOC SAYS TO MAKE POLICIES MORE TARGETED
+- 09/24 18:23 [financialjuice] China Central Bank: To step up counter-cyclical adjustments
+- 09/24 18:23 [FirstSquawk] PBOC: TO ADJUST MONETARY POLICY TOOLS AS NEEDED
+- 09/24 18:23 [FirstSquawk] PBOC: VOWS TO ADJUST MONETARY POLICY TOOLS IN A TIMELY MANNER
+- 09/24 18:23 [FirstSquawk] PBOC SAYS ADVANCE IMPROVEMENT OF MONETARY POLICY OP. FRAMEWORK
+- 09/24 18:23 [FirstSquawk] PBOC SAYS ENHANCE THE RESILIENCE OF FOREIGN EXCHANGE MARKET
+- 09/24 18:23 [FirstSquawk] PBOC: WARNS AGAINST HERD BEHAVIOR IN FINANCIAL MARKETS
+- 09/24 18:24 [FirstSquawk] PBOC SAYS MAINTAIN YUAN RATE AT REASONABLE AND BALANCED LEVEL
+- 09/24 18:26 [FirstSquawk] KREMLIN SAYS WE APPRECIATE THE US INVITATION TO PUTIN, WILL DECIDE RESPONSE
+- 09/24 18:26 [FirstSquawk] KREMLIN SAYS NO DECISION HAS BEEN TAKEN ABOUT A TRUMP-PUTIN SUMMIT IN DECEMBER, TOO EARLY TO TALK ABOUT POSSIBLE AGENDA
+- 09/24 18:26 [FirstSquawk] KREMLIN: REITERATES THAT RUSSIA WANTS A PEACE SETTLEMENT ON UKRAINE, NOT A TEMPORARY CEASEFIRE
+- 09/24 18:26 [FirstSquawk] KREMLIN: EU DECISION TO TRANSFER REVENUE FROM FROZEN RUSSIAN ASSETS TO UKRAINE IS ILLEGAL, IT'S THEFT

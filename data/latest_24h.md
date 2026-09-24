@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 18:19 JST／対象: 09/23 18:19 〜 09/24 18:19 JST（時刻はすべて日本時間）
+生成: 2026-09-24 18:35 JST／対象: 09/23 18:35 〜 09/24 18:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 320 | 09/23 18:22 | 09/24 18:07 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 264 | 09/23 18:23 | 09/24 18:09 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 81 | 09/23 18:35 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 331 | 09/23 18:35 | 09/24 18:26 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 261 | 09/23 19:45 | 09/24 18:23 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 647 行（統合前 669 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 655 行（統合前 676 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 18:22 [FirstSquawk/financialjuice] TRUMP BOARD OF PEACE TO UNVEIL $2.45B GAZA RECOVERY PLAN - AXIOS
-- 09/23 18:23 [financialjuice] Gaza plan to be presented to members on Wednesday - Axios
-- 09/23 18:24 [DeItaone] TRUMP'S BOARD OF PEACE TO UNVEIL $2.45 BILLION GAZA RECOVERY PLAN- AXIOS
-- 09/23 18:33 [financialjuice] GERMAN 30 YR BUND YIELD ACTUAL 3.8% (FORECAST -, PREVIOUS 3.9%) $MACRO
-- 09/23 18:33 [financialjuice] GERMAN 30 YR BUND BID-TO-COVER ACTUAL 1.584 (FORECAST -, PREVIOUS 2.4) $MACRO
 - 09/23 18:35 [FirstSquawk/DeItaone] SPOT GOLD FALLS NEARLY 1% TO $4,312.99/OZ
 - 09/23 18:39 [FirstSquawk] SOFTBANK-BACKED CARRO IS SAID TO MULL FIRST DUAL NASDAQ-SGX IPO || CARRO IS SAID TO CONSIDER SEEKING UP TO $400M-$500M IN IPO
 - 09/23 18:41 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 3:15 AM ET — 🇫🇷 France Flash PMI 🔸 3:30 AM ET — 🇩🇪 Germany Flash PMI 🔸 4:00 AM ET — 🇪🇺 Eurozone Flash PMI 🔸 4:30 AM ET — 🇬🇧 UK Flash PMI 🔸 9:45 AM ET — 🇺🇸 U.S. Flash Manufacturing & Services PMI 🔸 10:…
@@ -671,3 +666,16 @@
 - 09/24 18:05 [FirstSquawk] SAUDI ARAMCO STUDYING 4TH, 5TH ROUTES FOR CRUDE OIL - NIKKEI
 - 09/24 18:07 [FirstSquawk] WILLIAMS: SHORT RUN INFLATION EXPECTATIONS HAVE BEEN ENCOURAGING, FOR LONG TERM HAVE NOT
 - 09/24 18:09 [financialjuice] Saudi Aramco CEO: Will continue to supply Japan -Nikkei
+- 09/24 18:23 [FirstSquawk] PBOC: CONVENES MONETARY POLICY COMMITTEE 3Q MEETING
+- 09/24 18:23 [FirstSquawk] PBOC SAYS TO MAKE POLICIES MORE TARGETED
+- 09/24 18:23 [financialjuice] China Central Bank: To step up counter-cyclical adjustments
+- 09/24 18:23 [FirstSquawk] PBOC: TO ADJUST MONETARY POLICY TOOLS AS NEEDED
+- 09/24 18:23 [FirstSquawk] PBOC: VOWS TO ADJUST MONETARY POLICY TOOLS IN A TIMELY MANNER
+- 09/24 18:23 [FirstSquawk] PBOC SAYS ADVANCE IMPROVEMENT OF MONETARY POLICY OP. FRAMEWORK
+- 09/24 18:23 [FirstSquawk] PBOC SAYS ENHANCE THE RESILIENCE OF FOREIGN EXCHANGE MARKET
+- 09/24 18:23 [FirstSquawk] PBOC: WARNS AGAINST HERD BEHAVIOR IN FINANCIAL MARKETS
+- 09/24 18:24 [FirstSquawk] PBOC SAYS MAINTAIN YUAN RATE AT REASONABLE AND BALANCED LEVEL
+- 09/24 18:26 [FirstSquawk] KREMLIN SAYS WE APPRECIATE THE US INVITATION TO PUTIN, WILL DECIDE RESPONSE
+- 09/24 18:26 [FirstSquawk] KREMLIN SAYS NO DECISION HAS BEEN TAKEN ABOUT A TRUMP-PUTIN SUMMIT IN DECEMBER, TOO EARLY TO TALK ABOUT POSSIBLE AGENDA
+- 09/24 18:26 [FirstSquawk] KREMLIN: REITERATES THAT RUSSIA WANTS A PEACE SETTLEMENT ON UKRAINE, NOT A TEMPORARY CEASEFIRE
+- 09/24 18:26 [FirstSquawk] KREMLIN: EU DECISION TO TRANSFER REVENUE FROM FROZEN RUSSIAN ASSETS TO UKRAINE IS ILLEGAL, IT'S THEFT
