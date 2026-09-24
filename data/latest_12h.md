@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 01:59 JST／対象: 09/24 13:59 〜 09/25 01:59 JST（時刻はすべて日本時間）
+生成: 2026-09-25 02:17 JST／対象: 09/24 14:17 〜 09/25 02:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 68 | 09/24 21:26 | 09/25 01:55 | 34分（01:16→01:51） |
-| FirstSquawk | 209 | 09/24 14:01 | 09/25 01:57 | 22分（18:38→19:01） |
-| financialjuice | 180 | 09/24 14:00 | 09/25 01:56 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 74 | 09/24 21:26 | 09/25 02:16 | 34分（01:16→01:51） |
+| FirstSquawk | 206 | 09/24 14:22 | 09/25 01:57 | 22分（18:38→19:01） |
+| financialjuice | 177 | 09/24 14:25 | 09/25 02:10 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 440 行（統合前 459 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 439 行（統合前 461 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 14:00 [financialjuice] Iraqi economy expected to shrink 12% amid oil export drops: EBRD
-- 09/24 14:00 [financialjuice] EBRD lowers Turkey growth forecast 0.5 percentage points to 3% in 2026 on persistent inflation pressures
-- 09/24 14:00 [financialjuice] Average U.S. import tariffs from EBRD region dropped to 8.6% from 11.6% after July 2026 adjustments
-- 09/24 14:00 [financialjuice] EBRD lowers 2026 regional growth by 0.6 percentage points to 2.5%, boosts 2027 growth by 0.4 pp to 4%
-- 09/24 14:00 [financialjuice] Lebanon's economy to shrink 5% in 2026 amid israel hostilities, recover 4% in 2027: ebrd
-- 09/24 14:00 [financialjuice] Black Sea attacks could reduce Ukraine's wheat, metal and oilseed exports by up to $5.5 billion in 2026: EBRD
-- 09/24 14:00 [financialjuice] EBRD lowers Ukraine economic growth forecast for 2026 by 0.7 percentage points to 1.5%, cuts 2027 forecast by 1.5 percentage points to 2.5%
-- 09/24 14:01 [financialjuice] Ukraine’s economic outlook weakened materially to near stagnation as Russian air attacks increase, EBRD says
-- 09/24 14:01 [FirstSquawk] US judge issues order blocking Trump administration’s White House ban on CNN, MS NOW and Politico
-- 09/24 14:07 [financialjuice] ‼ BREAKING: SWISS INTEREST RATE ACTUAL 0.00% (FORECAST 0%, PREVIOUS 0.00%) $MACRO
-- 09/24 14:12 [FirstSquawk] Russia says it struck Ukrainian defence facilities, logistics centres and military-use vessels
-- 09/24 14:14 [FirstSquawk] Polish Air Force concludes operations launched in response to Russian strikes on Ukraine
 - 09/24 14:22 [FirstSquawk] US JUDGE ORDERS TRUMP TO RESTORE WHITE HOUSE ACCESS FOR CNN, MS NOW AND POLITICO, RULING MEDIA BAN LIKELY UNCONSTITUTIONAL
 - 09/24 14:25 [financialjuice] Iran: UN team coordinates with relevant authorities - ISNA
 - 09/24 14:32 [FirstSquawk] Tencent unveils payment app for international visitors ahead of APEC summit: SCMP
@@ -464,3 +452,14 @@
 - 09/25 01:57 [FirstSquawk] CHINA PRESIDENT XI: CHINA SUPPORTS US, IRAN IN RETURNING TO ISLAMABAD MOU - XINHUA
 - 09/25 01:57 [FirstSquawk] CHINA PRESIDENT XI: CHINA HOPES US ADHERES TO CORRECT POSITION OF OPPOSING "TAIWAN INDEPENDENCE" - XINHUA
 - 09/25 01:57 [FirstSquawk] PEPSICO SPOX: PRICES OF CERTAIN CHIPS TO INCREASE BY LOW-TO-MID SINGLE DIGIT PERCENTAGE, ALIGNED WITH INFLATION
+- 09/25 02:00 [DeItaone] XI TOLD TRUMP CHINA'S POSITION ON SAFEGUARDING ITS NATIONAL UNITY AND TERRITORIAL INTEGRITY IS CRYSTAL CLEAR -XINHUA
+- 09/25 02:00 [DeItaone] TRUMP ADMINISTRATION PRESSES CHINA ON SUSPECTED NUCLEAR TESTS IN CONFIDENTIAL TALKS
+- 09/25 02:01 [financialjuice] Treasury WI 7-year yield 5.078% before $44 billion auction.
+- 09/25 02:01 [financialjuice] Trump administration presses China on suspected nuclear tests in confidential talks - WSJ.
+- 09/25 02:02 [DeItaone] U.S. PRESSES CHINA OVER SUSPECTED NUCLEAR TESTS The Trump administration has been quietly holding talks with China over allegations Beijing conducted secret low-yield nuclear tests and concerns about its rapidly expanding nuclear arsenal. C…
+- 09/25 02:02 [financialjuice] US 7-YEAR HIGH YIELD ACTUAL 5.085% (FORECAST -, PREVIOUS 4.512%) $MACRO
+- 09/25 02:03 [financialjuice] US 7-Year Note Auction High Yield 5.085% [Tail +0.7 bps] Bid-to-cover 2.42 Sells 44 bln Awards 91.11% of bids at high Primary Dealers take 12.5% Direct 30.3% Indirect 57.2%
+- 09/25 02:07 [DeItaone/financialjuice] TRUMP: WE HAD A GREAT MEETING
+- 09/25 02:10 [DeItaone] TRUMP TAKES CHINA'S XI INSIDE PRESIDENTIAL HELICOPTER
+- 09/25 02:10 [financialjuice] Trump takes China's Xi inside the Presidential Helicopter.
+- 09/25 02:16 [DeItaone] FED HIKE EXPECTATIONS SURGE Kalshi now forecasts 2.4 Fed rate hikes this year, up sharply from around 2.1 earlier this week. The jump signals a significant hawkish repricing of Fed expectations. https://t.co/mE21ntaTcP

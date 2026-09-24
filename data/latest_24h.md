@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 01:59 JST／対象: 09/24 01:59 〜 09/25 01:59 JST（時刻はすべて日本時間）
+生成: 2026-09-25 02:17 JST／対象: 09/24 02:17 〜 09/25 02:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 82 | 09/24 02:01 | 09/25 01:55 | ⚠ 935分（05:51→21:26） |
+| DeItaone | 84 | 09/24 02:41 | 09/25 02:16 | ⚠ 935分（05:51→21:26） |
 | FirstSquawk | 358 | 09/24 02:31 | 09/25 01:57 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 289 | 09/24 02:00 | 09/25 01:56 | ⚠ 108分（15:47→17:36） |
+| financialjuice | 289 | 09/24 02:28 | 09/25 02:10 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 709 行（統合前 732 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 710 行（統合前 736 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 02:00 [financialjuice] Treasury WI 5-year yield 5.002% before $70 billion auction.
-- 09/24 02:01 [DeItaone] WHITE HOUSE PREPARES 90-DAY DIESEL EXPORT BAN The Trump administration is preparing a 90-day ban on U.S. diesel exports, according to Politico, as record fuel prices intensify pressure ahead of the midterms. Diesel averages $6.52 per gallon…
-- 09/24 02:02 [financialjuice] US 5-YEAR NOTE HIGH YIELD ACTUAL 5.033% (FORECAST -, PREVIOUS 4.393%) $MACRO
-- 09/24 02:02 [DeItaone] *US DIESEL FUTURES SINK MORE THAN 7% TO INTRADAY LOW *EUROPEAN DIESEL FUTURES SURGE OVER 7% TO SESSION HIGH
-- 09/24 02:02 [financialjuice] US 5-YEAR NOTE BID-TO-COVER ACTUAL 2.210 (FORECAST -, PREVIOUS 2.370) $MACRO
-- 09/24 02:03 [financialjuice] US 5-Year Note Auction
-- 09/24 02:03 [financialjuice] ❗ US 5-Year Note Auction: High Yield 5.033% (Tailed by 3.1 basis points)
-- 09/24 02:05 [DeItaone] DIESEL CRACKS PLUNGE ON U.S. EXPORT BAN REPORT U.S. diesel cracks fell $12.70 to $97.85/bbl after Politico reported the White House is preparing a 90-day diesel export ban. Meanwhile, gasoline cracks jumped $2 to $47.41/bbl, reflecting conc…
-- 09/24 02:05 [DeItaone] *FIVE-YEAR TREASURY YIELD RISES TO 5% FOR FIRST TIME SINCE 2007
-- 09/24 02:06 [financialjuice] US 5-Year Note Auction High Yield 5.033% (Tailed by 3.1 basis points) Bid-to-cover 2.21 Sells $70 bln Awards 30.34% of bids at high Primary Dealers take 15.77% Direct 29.92% Indirect 54.31%
 - 09/24 02:28 [financialjuice] Microsoft President: It is the right time to invest in Gulf nations. $MSFT
 - 09/24 02:31 [FirstSquawk] 4 COUNTERPARTIES TAKE $461 MLN AT FED REVERSE REPO (PREV $453 MLN, 8 BIDS)
 - 09/24 02:34 [financialjuice] Microsoft's Smith: AI safety won't advance if we rely on two companies, AI should have independent evaluators $MSFT
@@ -733,3 +723,14 @@
 - 09/25 01:57 [FirstSquawk] CHINA PRESIDENT XI: CHINA SUPPORTS US, IRAN IN RETURNING TO ISLAMABAD MOU - XINHUA
 - 09/25 01:57 [FirstSquawk] CHINA PRESIDENT XI: CHINA HOPES US ADHERES TO CORRECT POSITION OF OPPOSING "TAIWAN INDEPENDENCE" - XINHUA
 - 09/25 01:57 [FirstSquawk] PEPSICO SPOX: PRICES OF CERTAIN CHIPS TO INCREASE BY LOW-TO-MID SINGLE DIGIT PERCENTAGE, ALIGNED WITH INFLATION
+- 09/25 02:00 [DeItaone] XI TOLD TRUMP CHINA'S POSITION ON SAFEGUARDING ITS NATIONAL UNITY AND TERRITORIAL INTEGRITY IS CRYSTAL CLEAR -XINHUA
+- 09/25 02:00 [DeItaone] TRUMP ADMINISTRATION PRESSES CHINA ON SUSPECTED NUCLEAR TESTS IN CONFIDENTIAL TALKS
+- 09/25 02:01 [financialjuice] Treasury WI 7-year yield 5.078% before $44 billion auction.
+- 09/25 02:01 [financialjuice] Trump administration presses China on suspected nuclear tests in confidential talks - WSJ.
+- 09/25 02:02 [DeItaone] U.S. PRESSES CHINA OVER SUSPECTED NUCLEAR TESTS The Trump administration has been quietly holding talks with China over allegations Beijing conducted secret low-yield nuclear tests and concerns about its rapidly expanding nuclear arsenal. C…
+- 09/25 02:02 [financialjuice] US 7-YEAR HIGH YIELD ACTUAL 5.085% (FORECAST -, PREVIOUS 4.512%) $MACRO
+- 09/25 02:03 [financialjuice] US 7-Year Note Auction High Yield 5.085% [Tail +0.7 bps] Bid-to-cover 2.42 Sells 44 bln Awards 91.11% of bids at high Primary Dealers take 12.5% Direct 30.3% Indirect 57.2%
+- 09/25 02:07 [DeItaone/financialjuice] TRUMP: WE HAD A GREAT MEETING
+- 09/25 02:10 [DeItaone] TRUMP TAKES CHINA'S XI INSIDE PRESIDENTIAL HELICOPTER
+- 09/25 02:10 [financialjuice] Trump takes China's Xi inside the Presidential Helicopter.
+- 09/25 02:16 [DeItaone] FED HIKE EXPECTATIONS SURGE Kalshi now forecasts 2.4 Fed rate hikes this year, up sharply from around 2.1 earlier this week. The jump signals a significant hawkish repricing of Fed expectations. https://t.co/mE21ntaTcP
