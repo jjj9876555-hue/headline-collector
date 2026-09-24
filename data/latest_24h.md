@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 21:30 JST／対象: 09/23 21:30 〜 09/24 21:30 JST（時刻はすべて日本時間）
+生成: 2026-09-24 21:50 JST／対象: 09/23 21:50 〜 09/24 21:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 69 | 09/23 21:44 | 09/24 21:30 | ⚠ 935分（05:51→21:26） |
-| FirstSquawk | 346 | 09/23 21:35 | 09/24 21:30 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 280 | 09/23 21:48 | 09/24 21:30 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 81 | 09/23 21:51 | 09/24 21:46 | ⚠ 935分（05:51→21:26） |
+| FirstSquawk | 352 | 09/23 21:53 | 09/24 21:48 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 295 | 09/23 21:53 | 09/24 21:48 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 675 行（統合前 698 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 706 行（統合前 731 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 21:35 [FirstSquawk] RUSSIAN GUIDED BOMB ATTACK IN OLEKSANDRIVKA, DONETSK, KILLED FOUR AND INJURED FOUR, DESTROYING A MULTI-STORY BUILDING.
-- 09/23 21:44 [DeItaone] DEMOCRATS HOLD 12-POINT MIDTERM EDGE IN NEW POLL Democrats lead Republicans 53% to 41% among registered voters in the latest NPR/PBS News/Marist poll. Trump’s approval stands at 39%, while 59% disapprove. 45% of voters say their congression…
-- 09/23 21:46 [FirstSquawk] CANADIAN PM CARNEY COMMENTS ON TRUMP'S CALL TO 'ANNIHILATE' IRAN, STATING 'HE'S USING WAR LANGUAGE.'
-- 09/23 21:48 [financialjuice] Morgan Stanley investment-banking deal list accidently leaked - People Familiar
-- 09/23 21:48 [FirstSquawk/financialjuice] US BUILDING MULTINATIONAL ATTACK DRONE UNIT: CENTCOM
 - 09/23 21:51 [DeItaone] U.S. DIESEL EXPORT BAN COULD DEEPEN GLOBAL SHORTAGE A potential U.S. diesel export ban would hit Latin America and Europe hardest, Capital Economics warns. Higher U.S. exports this year have offset roughly half the global supply losses caus…
 - 09/23 21:53 [DeItaone/financialjuice] PUTIN I'M SURE THAT THE SPECIAL MILITARY OPERATION'S GOALS WILL BE ACHIEVED
 - 09/23 21:53 [FirstSquawk] PUTIN APPEALING TO THE ARMY SERVICEMEN: THE VOTE IS FOR YOU
@@ -699,3 +694,39 @@
 - 09/24 21:30 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1719K VS 1730K PREVIOUS; EST 1740K
 - 09/24 21:30 [DeItaone] US JOBLESS CLAIMS -1K TO 197K IN SEP-19 WK; SURVEY 201K US SEP-12 WEEK CONTINUING CLAIMS +2K TO 1,719,000 US SEP-12 WEEK JOBLESS CLAIMS REVISED TO 198K
 - 09/24 21:30 [financialjuice] US CURRENT ACCOUNT ACTUAL -246B (FORECAST -257.4B, PREVIOUS -226.8B) $MACRO
+- 09/24 21:31 [financialjuice] Canadian Retail Sales July 2026 Report
+- 09/24 21:31 [DeItaone] GOLDMAN SACHS RAISES BRENT OIL FORECAST TO $85 Goldman Sachs raised its December Brent crude forecast to $85 a barrel as energy prices climb across Asia-Pacific. The Iran war and Strait of Hormuz closure have tightened supplies, pushing LNG…
+- 09/24 21:32 [DeItaone] U.S. WEIGHS ALTERNATIVES TO DIESEL EXPORT BAN The U.S. administration is considering **voluntary diesel export cuts** instead of a ban or quota, according to the Wall Street Journal. Citi says this could reverse recent energy equity trades,…
+- 09/24 21:32 [financialjuice] ❗ CANADIAN RETAIL SALES MOM ACTUAL 0.7% (FORECAST -0.8%, PREVIOUS 0.6%) $MACRO
+- 09/24 21:33 [DeItaone] BCA: FED HIKES UNLIKELY TO DERAIL S&P 500 BCA Research says the S&P 500 has gained during every full Fed tightening cycle since 1980, with returns ranging from 4.4% to 28.4%. BCA expects just one or two more 25bp hikes, arguing much of the …
+- 09/24 21:33 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.719M (FORECAST 1.74M, PREVIOUS 1.730M) $MACRO
+- 09/24 21:33 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 197K (FORECAST 200K, PREVIOUS 196K) $MACRO
+- 09/24 21:33 [financialjuice] CANADIAN CORE RETAIL SALES MOM ACTUAL 0.7% (FORECAST -0.5%, PREVIOUS 0.5%) $MACRO
+- 09/24 21:34 [DeItaone] ORACLE MOVES TO LIMIT RISK ON MASSIVE AI DATA CENTER Oracle has invoked force majeure on Project Jupiter, a major New Mexico data center tied to the Stargate AI buildout. The move seeks to protect Oracle from payments if regulatory and infr…
+- 09/24 21:35 [DeItaone] ECB'S SCHNABEL TO STEP DOWN EARLY TO JOIN IMF, ANNOUNCEMENT IMMINENT, SOURCES SAY
+- 09/24 21:35 [FirstSquawk] ECB SCHNABEL IS SET TO LEAVE ECB BOARD EARLY FOR SENIOR JOB AT IMF
+- 09/24 21:35 [financialjuice] ECB's Schnabel to step down early to join IMF, announcement imminent - Sources
+- 09/24 21:36 [DeItaone] BOFA RAISES 10-YEAR TREASURY YIELD TARGET TO 5% Bank of America raised its year-end U.S. 10-year yield forecast to 5.0% from 4.5%, citing fiscal concerns and broader market risks. The bank also lifted its 2-year yield forecast to 5.0%. BofA…
+- 09/24 21:37 [DeItaone] SOME CNN STAFF UNABLE TO ACCESS WHITE HOUSE AFTER COURT RULING - CNN
+- 09/24 21:37 [DeItaone] $ORCL - ORACLE SHARES FALL 5.4% PREMARKET AFTER REPORT CO SENDS 'FORCE MAJEURE' NOTICE TO NEW MEXICO DATA CENTER DEVELOPER
+- 09/24 21:38 [financialjuice] Trump: Survey of people in business shows impressive growth.
+- 09/24 21:38 [FirstSquawk/financialjuice/DeItaone] TRUMP: GASOLINE PRICES WILL BE COMING DOWN
+- 09/24 21:40 [financialjuice] China and EU hold trade talks ahead of the mechanism meeting
+- 09/24 21:42 [DeItaone] 🇺🇸 🇨🇳 TRUMP-XI WHITE HOUSE SCHEDULE — THURSDAY 🔸 8:00 AM — Executive Time 🔸 9:00 AM — In-Town Pool Call 🔸 10:00 AM — Trump & First Lady greet Xi Jinping & Peng Liyuan 🔸 10:10 AM — Arrival Ceremony 🔸 10:15 AM — Trump & Xi deliver remarks 🔸 1…
+- 09/24 21:44 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 4:10 AM ET — 🏦 Fed’s John Williams 🔸 8:30 AM ET — 🇺🇸 Initial Jobless Claims 🔸 10:00 AM ET — 🏠 New Home Sales 🔸 10:30 AM ET — 🔥 EIA Natural Gas Storage 🔸 1:00 PM ET — 🇺🇸 $44B 7-Year Treasury Auction 🔸 …
+- 09/24 21:44 [financialjuice/DeItaone] Small group of Chinese CEOs arrived in Washington - SCMP
+- 09/24 21:45 [financialjuice] ECB's Radev: Rate hike doesn't put us on predetermined path.
+- 09/24 21:45 [financialjuice] ECB's Radev: ECB should give previous decisions time to work
+- 09/24 21:46 [DeItaone] CHINESE CEOS ARRIVE IN WASHINGTON AHEAD OF XI DINNER A small group of Chinese CEOs with U.S. visas has arrived in Washington separately from President Xi Jinping’s official delegation. The executives are still waiting to learn whether they …
+- 09/24 21:46 [financialjuice] ECB's Radev: ECB task is to judge is shock will broaden from energy.
+- 09/24 21:46 [financialjuice] ECB's Radev: Risks to inflation tilted to upside, growth to downside
+- 09/24 21:47 [FirstSquawk] CHINESE CEOS FLY TO US ON OWN, AWAIT INVITES TO TRUMP’S STATE DINNER FOR XI JINPING - SCMP
+- 09/24 21:47 [FirstSquawk] ECB'S RADEV SAYS RATE HIKE DOESN'T PUT US ON PREDETERMINED PATH
+- 09/24 21:47 [FirstSquawk] RADEV SAYS ECB SHOULD GIVE PREVIOUS DECISIONS TIME TO WORK
+- 09/24 21:47 [FirstSquawk] RADEV SAYS ECB TASK IS TO JUDGE IS SHOCK WILL BROADEN FROM ENERGY
+- 09/24 21:47 [financialjuice] ECB's Radev: Not seeing broad-based second-round effects
+- 09/24 21:47 [FirstSquawk] RADEV SAYS RISKS TO INFLATION TILTED TO UPSIDE, GROWTH TO DOWNSIDE
+- 09/24 21:48 [FirstSquawk] ECB’S RADEV SAYS NOT SEEING BROAD-BASED SECOND-ROUND EFFECTS
+- 09/24 21:48 [FirstSquawk] FED'S BARKIN SAYS INFLATION'S PERSISTENCE CLEARER THIS SUMMER
+- 09/24 21:48 [financialjuice] Russian economy ministry sees Urals oil price at $53/bbl in 2027 (previous forecast: $50/bbl).
+- 09/24 21:48 [financialjuice] Fed's Barkin: Inflation's persistence is clearer this summer.
