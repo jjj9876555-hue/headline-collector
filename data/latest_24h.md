@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 09:50 JST／対象: 09/23 09:50 〜 09/24 09:50 JST（時刻はすべて日本時間）
+生成: 2026-09-24 10:00 JST／対象: 09/23 10:00 〜 09/24 10:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 298 | 09/23 09:51 | 09/24 09:45 | ⚠ 91分（06:44→08:16） |
+| FirstSquawk | 295 | 09/23 10:01 | 09/24 09:58 | ⚠ 91分（06:44→08:16） |
 | financialjuice | 270 | 09/23 10:01 | 09/24 09:36 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 631 行（統合前 653 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 628 行（統合前 650 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 09:51 [FirstSquawk] Embraer: Occurrence may disrupt airline schedules, but flight safety is unaffected
-- 09/23 09:51 [FirstSquawk] Embraer says technical support is being provided as necessary actions are taken to address the issue
-- 09/23 09:52 [FirstSquawk] Embraer closely monitors situation in coordination with operators and equipment maker
-- 09/23 09:52 [FirstSquawk] Embraer says certain aircraft types, including E2, affected by GPS instability
-- 09/23 09:59 [FirstSquawk] Kallas and Iran’s Araghchi discuss reopening Strait of Hormuz and ending U.S.-Iran war - Al Jazeera
-- 09/23 10:00 [FirstSquawk] Morocco’s foreign minister: Armed groups’ role has increased significantly
 - 09/23 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.804% unchanged from previous session open
 - 09/23 10:01 [FirstSquawk] Taiwan overnight interbank rate holds at 0.804% at the open
 - 09/23 10:03 [financialjuice] Meta takes action on 3.7 million accounts, pages, and content with Singapore police force
@@ -655,3 +649,6 @@
 - 09/24 09:38 [FirstSquawk] Australian government website reportedly hacked by OpenAI agent, WSJ reports
 - 09/24 09:42 [FirstSquawk] SoftBank Group set to raise $11bn through bond sale for OpenAI investment - NA
 - 09/24 09:45 [FirstSquawk] YEMENI GOVERNMENT TELEVISION SAYS FORCES THWARTED A HOUTHI INFILTRATION ATTEMPT IN THE ASHBAUT AND HAYJAH AL-ABD AREAS OF THE AL-MAQATRAH DISTRICT IN LAHIJ
+- 09/24 09:52 [FirstSquawk] Australia condemns ‘unacceptable’ OpenAI breach of government health portal - SCMP
+- 09/24 09:56 [FirstSquawk] OpenAI breach had minor impact, Australia Defence Minister says
+- 09/24 09:58 [FirstSquawk] OpenAI cooperating with Australian government over breach, Defence Minister says

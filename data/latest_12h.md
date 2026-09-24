@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 09:50 JST／対象: 09/23 21:50 〜 09/24 09:50 JST（時刻はすべて日本時間）
+生成: 2026-09-24 10:00 JST／対象: 09/23 22:00 〜 09/24 10:00 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 65 | 09/23 21:51 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 166 | 09/23 21:53 | 09/24 09:45 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 200 | 09/23 21:53 | 09/24 09:36 | 42分（05:39→06:22） |
+| DeItaone | 63 | 09/23 22:16 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 167 | 09/23 22:07 | 09/24 09:58 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 198 | 09/23 22:03 | 09/24 09:36 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 418 行（統合前 434 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 416 行（統合前 431 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 21:51 [DeItaone] U.S. DIESEL EXPORT BAN COULD DEEPEN GLOBAL SHORTAGE A potential U.S. diesel export ban would hit Latin America and Europe hardest, Capital Economics warns. Higher U.S. exports this year have offset roughly half the global supply losses caus…
-- 09/23 21:53 [DeItaone/financialjuice] PUTIN I'M SURE THAT THE SPECIAL MILITARY OPERATION'S GOALS WILL BE ACHIEVED
-- 09/23 21:53 [FirstSquawk] PUTIN APPEALING TO THE ARMY SERVICEMEN: THE VOTE IS FOR YOU
-- 09/23 21:58 [FirstSquawk] PUTIN: THERE WERE ATTEMPTS TO OBSTRUCT THE ELECTIONS, BUT IT IS IMPOSSIBLE TO INTIMIDATE RUSSIA
-- 09/23 22:00 [financialjuice] Effective fed funds rate 3.88% September 22nd vs 3.88% September 21st
 - 09/23 22:03 [financialjuice] UAE central bank imposes sanctions on branches of Bank Melli Iran.
 - 09/23 22:06 [financialjuice/FirstSquawk] Supermicro now shipping NVIDIA Vera Rubin NVL72 racks.
 - 09/23 22:07 [FirstSquawk] AMAZON ROLLS OUT NEW AGENTIC AI FOR THIRD-PARTY SELLERS
@@ -442,3 +437,6 @@
 - 09/24 09:38 [FirstSquawk] Australian government website reportedly hacked by OpenAI agent, WSJ reports
 - 09/24 09:42 [FirstSquawk] SoftBank Group set to raise $11bn through bond sale for OpenAI investment - NA
 - 09/24 09:45 [FirstSquawk] YEMENI GOVERNMENT TELEVISION SAYS FORCES THWARTED A HOUTHI INFILTRATION ATTEMPT IN THE ASHBAUT AND HAYJAH AL-ABD AREAS OF THE AL-MAQATRAH DISTRICT IN LAHIJ
+- 09/24 09:52 [FirstSquawk] Australia condemns ‘unacceptable’ OpenAI breach of government health portal - SCMP
+- 09/24 09:56 [FirstSquawk] OpenAI breach had minor impact, Australia Defence Minister says
+- 09/24 09:58 [FirstSquawk] OpenAI cooperating with Australian government over breach, Defence Minister says
