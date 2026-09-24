@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 19:05 JST／対象: 09/23 19:05 〜 09/24 19:05 JST（時刻はすべて日本時間）
+生成: 2026-09-24 19:25 JST／対象: 09/23 19:25 〜 09/24 19:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 74 | 09/23 19:11 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 329 | 09/23 19:05 | 09/24 19:01 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 274 | 09/23 19:45 | 09/24 19:03 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 72 | 09/23 19:43 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 337 | 09/23 19:28 | 09/24 19:25 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 277 | 09/23 19:45 | 09/24 19:25 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 660 行（統合前 680 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 667 行（統合前 689 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 19:05 [FirstSquawk] FEDERAL GOVERNMENT PROPOSES BILL TO KEEP GAS TAX SUSPENDED UNTIL JANUARY 2027.
-- 09/23 19:11 [DeItaone] ALTMAN TO PUSH GLOBAL AI SAFETY STANDARDS AT UN OpenAI CEO Sam Altman will use a UN Security Council speech to advocate for common global AI safety standards while avoiding restrictions that could slow innovation. OpenAI says it is not back…
-- 09/23 19:19 [FirstSquawk] CREDIT AGRICOLE CFO TO CLASS CNBC: EVALUATING SCENARIOS ON BPM
-- 09/23 19:19 [DeItaone] CITI SEES LIMITED S&P 500 IMPACT FROM MIDTERMS Citi expects the midterm elections to have little impact on overall S&P 500 fundamentals, with effects more likely at the sector level. The bank says different congressional outcomes could affe…
 - 09/23 19:28 [FirstSquawk] KREMLIN STATED THAT A MEETING BETWEEN PUTIN AND ZELENSKY CAN ONLY OCCUR IN MOSCOW, DESCRIBING SUMMIT TALKS WITHOUT PROPER PREPARATION AS UNPRODUCTIVE.
 - 09/23 19:41 [FirstSquawk] IPHONE 18 PRO IMPROVES LAST YEAR'S VERSION WITH FASTER PERFORMANCE, LONGER BATTERY LIFE, AND SIGNIFICANT ENHANCEMENTS TO APPLE'S TOP CAMERA SYSTEM.
 - 09/23 19:43 [DeItaone] MORGAN STANLEY MAPS WINNERS FROM HORMUZ REOPENING Morgan Stanley says European equities are the most sensitive to a potential reopening of the Strait of Hormuz as U.S.-Iran diplomacy progresses. Airlines, aerospace, construction, luxury and…
@@ -684,3 +680,14 @@
 - 09/24 19:02 [financialjuice] BoE's Dhingra: Clamour for higher UK rates ignores weaker growth than the US and higher level of UK rates than the Eurozone
 - 09/24 19:02 [financialjuice] BoE's Dhingra: Successive shocks could be problematic
 - 09/24 19:03 [financialjuice] Russian Foreign Ministry: North Korea's Kim invited to Russia - TASS
+- 09/24 19:05 [FirstSquawk] DHINGRA SAYS NEED TO FACTOR IN CURRENT RATES LEVEL, CONSUMPTION
+- 09/24 19:12 [FirstSquawk] BOE MPC'S DHINGRA: I WOULD NOT BE SURPRISED IF AI LEADS TO LOWER SERVICES INFLATION
+- 09/24 19:12 [FirstSquawk] EU SPOX: HIGH LEVEL CONTACTS WITH US ADMIN ARE ONGOING
+- 09/24 19:15 [FirstSquawk/financialjuice] EU COMMISSION: NO CONCRETE SHORTAGE OF DIESEL IN THE EU
+- 09/24 19:16 [financialjuice] Global crude steel output falls 1.2% to 144.2 mln metric tons in August 2026 vs August 2025 -Worldsteel
+- 09/24 19:17 [FirstSquawk] GLOBAL CRUDE STEEL OUTPUT FALLS 1.2% TO 144.2 MLN METRIC TONS IN AUGUST 2026 VS AUGUST 2025, WORLDSTEEL SAYS
+- 09/24 19:18 [FirstSquawk] CHINA CRUDE STEEL OUTPUT FALLS 3.7% TO 74.6 MLN T IN AUG 2026 VS AUG 2025 - WORLDSTEEL
+- 09/24 19:22 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: A NEW US ESCALATION COULD OPEN A SECOND FRONT AT BAB EL-MANDEB ALONGSIDE HORMUZ.
+- 09/24 19:25 [financialjuice/FirstSquawk] Saudi civil defence alerts of potential danger in Taif - Statement
+- 09/24 19:25 [FirstSquawk] SAUDI CIVIL DEFENSE ALERTS OF POTENTIAL DANGER IN MECCA, JEDDAH AND YANBU AND TABUK
+- 09/24 19:25 [FirstSquawk] EUROPE SHOULD TAKE EVERY OPPORTUNITY FOR DIALOG: RADEV ON PUTIN

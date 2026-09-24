@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 19:05 JST／対象: 09/24 07:05 〜 09/24 19:05 JST（時刻はすべて日本時間）
+生成: 2026-09-24 19:25 JST／対象: 09/24 07:25 〜 09/24 19:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 168 | 09/24 08:16 | 09/24 19:01 | 25分（12:09→12:34） |
-| financialjuice | 106 | 09/24 07:06 | 09/24 19:03 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 178 | 09/24 08:16 | 09/24 19:25 | 25分（12:09→12:34） |
+| financialjuice | 107 | 09/24 07:31 | 09/24 19:25 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 272 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 282 行（統合前 285 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 07:06 [financialjuice] US Treasury Secretary Bessent: U.S., China agreed Wednesday to prolong Busan agreement
-- 09/24 07:13 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: reports that he will likely be Trump's al czar are probably fake news
 - 09/24 07:31 [financialjuice] Modal Labs in talks to secure new funding at about $15 billion valuation
 - 09/24 07:42 [financialjuice] South Korea’s presidential office: President Lee discussed warship building with U.S. President Donald Trump
 - 09/24 07:46 [financialjuice] South Korea President Lee: Hanwha's Philly shipyard to construct warships for US - Korea presidential office
@@ -35,6 +33,7 @@
 - 09/24 08:10 [financialjuice] Meta CEO Zuckerberg: company expects to earn revenue from Muse by charging small transaction fee
 - 09/24 08:12 [financialjuice] Meta exec Wang: company adding computer usage data to Muse
 - 09/24 08:14 [financialjuice] Meta exec Wang: Walmart, Gap, Best Buy among companies integrated into Muse
+- 09/24 08:16 [FirstSquawk] US TREASURY SECRETARY BESSENT: REPORTS THAT HE WILL LIKELY BE TRUMP'S AL CZAR ARE PROBABLY FAKE NEWS
 - 09/24 08:16 [FirstSquawk] EU COUNCIL PRESIDENT COSTA SPEAKS WITH IRANIAN PRESIDENT; URGES RESUMPTION OF IAEA COOPERATION, END TO STRIKES ON NEIGHBOURS & RESTORATION OF FREEDOM OF NAVIGATION IN STRAIT OF HORMUZ
 - 09/24 08:17 [financialjuice] Venezuela acting president delcy rodriguez tells unga: recent energy pact with US to aid global energy equilibrium
 - 09/24 08:18 [FirstSquawk] TRUMP: HAD “GREAT CONVERSATIONS” WITH WORLD LEADERS AT UNGA; SAYS “ENTIRE TECH & BANKING WORLDS” WILL ATTEND XI DINNER TOMORROW, DESCRIBES GREETING WITH XI AS “GREAT”
@@ -296,3 +295,14 @@
 - 09/24 19:02 [financialjuice] BoE's Dhingra: Clamour for higher UK rates ignores weaker growth than the US and higher level of UK rates than the Eurozone
 - 09/24 19:02 [financialjuice] BoE's Dhingra: Successive shocks could be problematic
 - 09/24 19:03 [financialjuice] Russian Foreign Ministry: North Korea's Kim invited to Russia - TASS
+- 09/24 19:05 [FirstSquawk] DHINGRA SAYS NEED TO FACTOR IN CURRENT RATES LEVEL, CONSUMPTION
+- 09/24 19:12 [FirstSquawk] BOE MPC'S DHINGRA: I WOULD NOT BE SURPRISED IF AI LEADS TO LOWER SERVICES INFLATION
+- 09/24 19:12 [FirstSquawk] EU SPOX: HIGH LEVEL CONTACTS WITH US ADMIN ARE ONGOING
+- 09/24 19:15 [FirstSquawk/financialjuice] EU COMMISSION: NO CONCRETE SHORTAGE OF DIESEL IN THE EU
+- 09/24 19:16 [financialjuice] Global crude steel output falls 1.2% to 144.2 mln metric tons in August 2026 vs August 2025 -Worldsteel
+- 09/24 19:17 [FirstSquawk] GLOBAL CRUDE STEEL OUTPUT FALLS 1.2% TO 144.2 MLN METRIC TONS IN AUGUST 2026 VS AUGUST 2025, WORLDSTEEL SAYS
+- 09/24 19:18 [FirstSquawk] CHINA CRUDE STEEL OUTPUT FALLS 3.7% TO 74.6 MLN T IN AUG 2026 VS AUG 2025 - WORLDSTEEL
+- 09/24 19:22 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: A NEW US ESCALATION COULD OPEN A SECOND FRONT AT BAB EL-MANDEB ALONGSIDE HORMUZ.
+- 09/24 19:25 [financialjuice/FirstSquawk] Saudi civil defence alerts of potential danger in Taif - Statement
+- 09/24 19:25 [FirstSquawk] SAUDI CIVIL DEFENSE ALERTS OF POTENTIAL DANGER IN MECCA, JEDDAH AND YANBU AND TABUK
+- 09/24 19:25 [FirstSquawk] EUROPE SHOULD TAKE EVERY OPPORTUNITY FOR DIALOG: RADEV ON PUTIN
