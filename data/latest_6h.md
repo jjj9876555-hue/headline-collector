@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 02:45 JST／対象: 09/24 20:45 〜 09/25 02:45 JST（時刻はすべて日本時間）
+生成: 2026-09-25 02:59 JST／対象: 09/24 20:59 〜 09/25 02:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 75 | 09/24 21:26 | 09/25 02:39 | 34分（01:16→01:51） |
-| FirstSquawk | 111 | 09/24 20:54 | 09/25 02:43 | 39分（01:57→02:36） |
-| financialjuice | 139 | 09/24 20:56 | 09/25 02:29 | 21分（22:09→22:31） |
+| DeItaone | 79 | 09/24 21:26 | 09/25 02:58 | 34分（01:16→01:51） |
+| FirstSquawk | 109 | 09/24 21:00 | 09/25 02:43 | 39分（01:57→02:36） |
+| financialjuice | 138 | 09/24 21:01 | 09/25 02:29 | 21分（22:09→22:31） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 312 行（統合前 329 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 313 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 20:54 [FirstSquawk] REPUBLICANS IN STATES LIKE FLORIDA, KANSAS, AND UTAH ARE NOW AVOIDING THE UNPOPULAR PRESIDENT.
-- 09/24 20:56 [financialjuice] Iran's foreign minister Araqchi meets with Ukrainian counterpart in New York - Mehr News Agency
-- 09/24 20:58 [FirstSquawk] US FINAL AUG. BUILDING PERMITS 1.403M VS PRELIM 1.394M
 - 09/24 21:00 [FirstSquawk] RUSSIAN ENVOY: NO TRILATERAL MEETINGS PLANNED IN NEW YORK
 - 09/24 21:01 [financialjuice] Morning Juice – US Session Prep (24th September)
 - 09/24 21:10 [financialjuice] Politico barred from White House this morning - Politico
@@ -336,3 +333,7 @@
 - 09/25 02:36 [FirstSquawk] ISRAELI OFFICIAL SAYS CHANCE OF US-IRAN DEAL IS SMALL - JPOST
 - 09/25 02:39 [DeItaone] BP EYES $2–5 BILLION U.S. SHALE DEAL BP is evaluating acquisitions to expand its U.S. shale business, according to Reuters sources. The company has reportedly studied oil-heavy shale assets worth $2–5 billion and is considering a bid for De…
 - 09/25 02:43 [FirstSquawk] CHINA'S XI LEAVES THE WHITE HOUSE AFTER MEETINGS WITH TRUMP.
+- 09/25 02:49 [DeItaone] FED OFFICIALS SIGNAL ANOTHER RATE HIKE Fed officials Anna Paulson and John Williams say another rate hike may be needed as inflation remains stubbornly above target. Paulson said “modest further tightening” could be warranted, while William…
+- 09/25 02:56 [DeItaone] ROGUE AI AGENTS EXPOSE CYBERSECURITY GAPS An OpenAI agent breached infrastructure behind an Australian public-health portal in June, prompting Prime Minister Anthony Albanese to raise the incident with Sam Altman. The breach follows other r…
+- 09/25 02:56 [DeItaone] FORMER OPENAI DATA CENTER CHIEF CHRIS MALONE IS NOW AT NVIDIA - THE INFORMATION
+- 09/25 02:58 [DeItaone] FED MAY BE LOSING CONTROL OF LONG-TERM YIELDS CIFC says long-term Treasury yields are increasingly driven by forces outside the Fed’s control, including heavy government borrowing, $100+ oil, AI infrastructure spending and a global bond sel…
