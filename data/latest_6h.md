@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 08:52 JST／対象: 09/24 02:52 〜 09/24 08:52 JST（時刻はすべて日本時間）
+生成: 2026-09-24 09:07 JST／対象: 09/24 03:07 〜 09/24 09:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 8 | 09/24 03:01 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 54 | 09/24 03:07 | 09/24 08:48 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 65 | 09/24 03:00 | 09/24 08:43 | 42分（05:39→06:22） |
+| DeItaone | 5 | 09/24 03:21 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 61 | 09/24 03:08 | 09/24 09:04 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 72 | 09/24 03:14 | 09/24 09:00 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 124 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 136 行（統合前 139 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 03:00 [financialjuice] White House on the Diesel ban: Earlier Politico report on the ban is not accurate.
-- 09/24 03:01 [DeItaone] FBI DATA ALLEGEDLY STOLEN BY HACKERS HAS SENSITIVE INFORMATION ABOUT BUREAU EMPLOYEES' INTELLIGENCE WORK
-- 09/24 03:02 [DeItaone] HACKERS CLAIM MASSIVE FBI DATA BREACH Hacking group ShinyHunters claims it stole 2–3 terabytes of FBI data, including sensitive information on thousands of current and former employees. A leaked sample reportedly contains personal details a…
-- 09/24 03:03 [DeItaone] ANTHROPIC - ANNOUNCES CLAUDE DISCOVERY OF NOVEL ENZYME SYSTEM WITH CRISPR-LIKE DNA REPEATS
-- 09/24 03:05 [financialjuice/FirstSquawk] US lawmakers to unveil legislation to revise national security tool used by federal communications commission to bar Chinese tech gear -Lawmakers' Statement
 - 09/24 03:08 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 23, CENTCOM FORCES HAVE REDIRECTED 115 COMMERCIAL VESSELS TO MAINTAIN STRICT ENFORCEMENT OF AMERICA'S 'STEEL WALL' BLOCKADE
 - 09/24 03:09 [FirstSquawk] ALPHABET’S GOOGLE IS EXPANDING GOOGLE BEAM WITH NEW REGIONS, PARTNERS AND CUSTOMERS, WITH THE AI-POWERED VIDEO COMMUNICATION SYSTEM SHIPPING TO SIX COUNTRIES INCLUDING THE U.S., CANADA, U.K., FRANCE, GERMANY AND JAPAN.
 - 09/24 03:09 [FirstSquawk] GOOGLE BEAM WILL ALSO BE AVAILABLE AT INDUSTRIOUS COWORKING LOCATIONS STARTING IN OCTOBER, WITH INITIAL DEPLOYMENTS IN ATLANTA, CHICAGO, NEW YORK CITY AND PALO ALTO.
@@ -148,3 +143,20 @@
 - 09/24 08:46 [FirstSquawk] MICROSOFT PRESIDENT BRAD SMITH SUPPORTS INDEPENDENT AI SAFETY EVALUATORS, SAYING AI SAFETY SHOULD BE BUILT THROUGH MULTIPLE LAYERS INVOLVING MODEL DEVELOPERS, SOFTWARE PROVIDERS AND POTENTIALLY GOVERNMENTS.
 - 09/24 08:46 [FirstSquawk] MICROSOFT PRESIDENT BRAD SMITH SAYS MICROSOFT WILL ADJUST ITS 2030 CLIMATE GOALS AS AI DATA CENTER POWER DEMAND RISES, WHILE CONFIRMING PLANS TO USE 200 MEGAWATTS OF COMPUTING CAPACITY AT ITS PLANNED UAE FACILITY AND INVEST AN ADDITIONAL $2…
 - 09/24 08:48 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 1.41% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.26 POINT
+- 09/24 08:55 [FirstSquawk] TRUMP TOLD VENEZUELA'S DELCY RODRIGUEZ THAT THE COUNTRY ULTIMATELY NEEDS TO HOLD ELECTIONS, BUT DID NOT PRESS FOR A SPECIFIC DATE DURING THEIR FIRST MEETING ON THE SIDELINES OF THE UN GENERAL ASSEMBLY, TELLING HER 'YOU HAVE TO HAVE ELECTION…
+- 09/24 08:55 [FirstSquawk] SOME OFFICIALS BELIEVE 2028 MAY BE MORE REALISTIC, THOUGH A 2027 VOTE REMAINS POSSIBLE - AXIOS
+- 09/24 08:56 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS ON IRAN THAT 'THE EXTERNAL FLIGHTS FROM IRAN, PROBABLY MORE THAN 80 OR 90% OF THEM, GOT SHUT DOWN', ADDING 'I'M NOT SURE HOW THE IRANIAN REPRESENTATIVES AT THE UN ARE GOING TO GET HOME'
+- 09/24 08:56 [FirstSquawk] ZOHRAN MAMDANI ON IRELAND: SAYS SELF-DETERMINATION SHOULD EXTEND TO THE IRISH; “IT IS FOR THEM TO DECIDE” ON “26 PLUS 6”
+- 09/24 08:56 [financialjuice] Meta reveals portable AI gadget equipped with Muse
+- 09/24 08:57 [financialjuice] Meta: handheld AI gadget muse charm to be ready for holiday shipping in December
+- 09/24 08:59 [financialjuice] China's President Xi: With joint efforts, US visit will be productive - Xinhua
+- 09/24 08:59 [financialjuice] China's President Xi: looks forward to strengthening constructive China-US strategic stability relationship - Xinhua
+- 09/24 08:59 [financialjuice] China’s President Xi: historical rationale for peaceful coexistence between China and U.S. remains unchanged - Xinhua
+- 09/24 08:59 [financialjuice] China's President Xi: confident China, U.S. can find right path to coexist in new era - Xinhua
+- 09/24 08:59 [financialjuice] China's President Xi: China, U.S. must be allies, not adversaries - Xinhua
+- 09/24 09:00 [financialjuice] China’s President Xi: china, U.S. should collaborate to boost stable relationship with cooperation, moderate competition, manageable differences, peace commitments -Xinhua
+- 09/24 09:00 [financialjuice] China’s President Xi: anticipates in-depth talks with Trump - Xinhua
+- 09/24 09:02 [FirstSquawk] CHINA'S XI SAYS THAT WITH JOINT EFFORTS, HIS U.S. VISIT IS 'SURE TO BE FRUITFUL', ADDING THAT HE LOOKS FORWARD TO ENRICHING A CONSTRUCTIVE CHINA-U.S. RELATIONSHIP OF STRATEGIC STABILITY AND TO IN-DEPTH EXCHANGES WITH TRUMP - XINHUA
+- 09/24 09:02 [FirstSquawk] CHINA'S XI SAYS 'THE HISTORICAL LOGIC OF PEACEFUL COEXISTENCE BETWEEN CHINA AND THE U.S. HAS NOT CHANGED' AND THAT HE IS CONFIDENT THE TWO CAN 'FIND THE RIGHT WAY TO GET ALONG IN THE NEW ERA', SAYING THEY 'SHOULD BE PARTNERS, NOT RIVALS'.
+- 09/24 09:03 [FirstSquawk] CHINA'S XI SAYS CHINA AND THE U.S. SHOULD 'WORK IN THE SAME DIRECTION' TO PROMOTE A STABLE RELATIONSHIP 'FEATURING COOPERATION AS THE MAINSTAY, MODERATE COMPETITION, MANAGEABLE DIFFERENCES' AND 'PROMISES OF PEACE' - XINHUA
+- 09/24 09:04 [FirstSquawk] 30-year Japanese government bond yield jumps 5.5 bps to 4.125%

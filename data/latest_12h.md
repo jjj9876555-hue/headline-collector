@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 08:52 JST／対象: 09/23 20:52 〜 09/24 08:52 JST（時刻はすべて日本時間）
+生成: 2026-09-24 09:07 JST／対象: 09/23 21:07 〜 09/24 09:07 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 68 | 09/23 21:06 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 150 | 09/23 20:53 | 09/24 08:48 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 193 | 09/23 20:58 | 09/24 08:43 | 42分（05:39→06:22） |
+| DeItaone | 67 | 09/23 21:25 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 155 | 09/23 21:16 | 09/24 09:04 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 200 | 09/23 21:10 | 09/24 09:00 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 396 行（統合前 414 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 407 行（統合前 425 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 20:53 [FirstSquawk] ALL CREW MEMBERS OF THE ATTACKED SHIP IN THE STRAIT OF HORMUZ WERE EVACUATED, WITH TWO INJURIES REPORTED.
-- 09/23 20:55 [FirstSquawk] RYANAIR CEO O'LEARY: BY FY28 I EXPECT WE WILL GROW TO 220 MILLION PASSENGERS
-- 09/23 20:58 [financialjuice] Officials in the Trump administration have backed off an effort to replace Deputy Secretary of Defense Stephen Feinberg - Sources
-- 09/23 21:00 [financialjuice] Secured overnight financing rate: 3.87% September 22nd vs 3.85% September 21st
-- 09/23 21:05 [FirstSquawk] RAIFFEISEN BANK INTERNATIONAL TO LAUNCH CRYPTO TRADING ACROSS 11 EUROPEAN MARKETS Raiffeisen Bank International, one of Austria’s largest banking groups, is reportedly preparing to expand cryptocurrency trading services across 11 European m…
-- 09/23 21:06 [DeItaone] RYANAIR CEO O'LEARY: IF OIL PRICES REMAIN THIS HIGH INTO SUMMER OF 2027, I EXPECT AIRFARES TO RISE BY 10, 15, 20%
 - 09/23 21:10 [financialjuice] Morning Juice - US Session Prep (23rd September)
 - 09/23 21:16 [FirstSquawk] STERLING FALLS AS MUCH AS 0.5% TO $1.3273, LOWEST SINCE JULY 1
 - 09/23 21:22 [financialjuice] BofA's Demare: Continued strength in macroeconomic backdrop
@@ -420,3 +414,20 @@
 - 09/24 08:46 [FirstSquawk] MICROSOFT PRESIDENT BRAD SMITH SUPPORTS INDEPENDENT AI SAFETY EVALUATORS, SAYING AI SAFETY SHOULD BE BUILT THROUGH MULTIPLE LAYERS INVOLVING MODEL DEVELOPERS, SOFTWARE PROVIDERS AND POTENTIALLY GOVERNMENTS.
 - 09/24 08:46 [FirstSquawk] MICROSOFT PRESIDENT BRAD SMITH SAYS MICROSOFT WILL ADJUST ITS 2030 CLIMATE GOALS AS AI DATA CENTER POWER DEMAND RISES, WHILE CONFIRMING PLANS TO USE 200 MEGAWATTS OF COMPUTING CAPACITY AT ITS PLANNED UAE FACILITY AND INVEST AN ADDITIONAL $2…
 - 09/24 08:48 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 1.41% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.26 POINT
+- 09/24 08:55 [FirstSquawk] TRUMP TOLD VENEZUELA'S DELCY RODRIGUEZ THAT THE COUNTRY ULTIMATELY NEEDS TO HOLD ELECTIONS, BUT DID NOT PRESS FOR A SPECIFIC DATE DURING THEIR FIRST MEETING ON THE SIDELINES OF THE UN GENERAL ASSEMBLY, TELLING HER 'YOU HAVE TO HAVE ELECTION…
+- 09/24 08:55 [FirstSquawk] SOME OFFICIALS BELIEVE 2028 MAY BE MORE REALISTIC, THOUGH A 2027 VOTE REMAINS POSSIBLE - AXIOS
+- 09/24 08:56 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS ON IRAN THAT 'THE EXTERNAL FLIGHTS FROM IRAN, PROBABLY MORE THAN 80 OR 90% OF THEM, GOT SHUT DOWN', ADDING 'I'M NOT SURE HOW THE IRANIAN REPRESENTATIVES AT THE UN ARE GOING TO GET HOME'
+- 09/24 08:56 [FirstSquawk] ZOHRAN MAMDANI ON IRELAND: SAYS SELF-DETERMINATION SHOULD EXTEND TO THE IRISH; “IT IS FOR THEM TO DECIDE” ON “26 PLUS 6”
+- 09/24 08:56 [financialjuice] Meta reveals portable AI gadget equipped with Muse
+- 09/24 08:57 [financialjuice] Meta: handheld AI gadget muse charm to be ready for holiday shipping in December
+- 09/24 08:59 [financialjuice] China's President Xi: With joint efforts, US visit will be productive - Xinhua
+- 09/24 08:59 [financialjuice] China's President Xi: looks forward to strengthening constructive China-US strategic stability relationship - Xinhua
+- 09/24 08:59 [financialjuice] China’s President Xi: historical rationale for peaceful coexistence between China and U.S. remains unchanged - Xinhua
+- 09/24 08:59 [financialjuice] China's President Xi: confident China, U.S. can find right path to coexist in new era - Xinhua
+- 09/24 08:59 [financialjuice] China's President Xi: China, U.S. must be allies, not adversaries - Xinhua
+- 09/24 09:00 [financialjuice] China’s President Xi: china, U.S. should collaborate to boost stable relationship with cooperation, moderate competition, manageable differences, peace commitments -Xinhua
+- 09/24 09:00 [financialjuice] China’s President Xi: anticipates in-depth talks with Trump - Xinhua
+- 09/24 09:02 [FirstSquawk] CHINA'S XI SAYS THAT WITH JOINT EFFORTS, HIS U.S. VISIT IS 'SURE TO BE FRUITFUL', ADDING THAT HE LOOKS FORWARD TO ENRICHING A CONSTRUCTIVE CHINA-U.S. RELATIONSHIP OF STRATEGIC STABILITY AND TO IN-DEPTH EXCHANGES WITH TRUMP - XINHUA
+- 09/24 09:02 [FirstSquawk] CHINA'S XI SAYS 'THE HISTORICAL LOGIC OF PEACEFUL COEXISTENCE BETWEEN CHINA AND THE U.S. HAS NOT CHANGED' AND THAT HE IS CONFIDENT THE TWO CAN 'FIND THE RIGHT WAY TO GET ALONG IN THE NEW ERA', SAYING THEY 'SHOULD BE PARTNERS, NOT RIVALS'.
+- 09/24 09:03 [FirstSquawk] CHINA'S XI SAYS CHINA AND THE U.S. SHOULD 'WORK IN THE SAME DIRECTION' TO PROMOTE A STABLE RELATIONSHIP 'FEATURING COOPERATION AS THE MAINSTAY, MODERATE COMPETITION, MANAGEABLE DIFFERENCES' AND 'PROMISES OF PEACE' - XINHUA
+- 09/24 09:04 [FirstSquawk] 30-year Japanese government bond yield jumps 5.5 bps to 4.125%
