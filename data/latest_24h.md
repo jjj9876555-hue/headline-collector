@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 22:22 JST／対象: 09/23 22:22 〜 09/24 22:22 JST（時刻はすべて日本時間）
+生成: 2026-09-24 22:39 JST／対象: 09/23 22:39 〜 09/24 22:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 82 | 09/23 22:24 | 09/24 22:06 | ⚠ 935分（05:51→21:26） |
-| FirstSquawk | 363 | 09/23 22:23 | 09/24 22:22 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 307 | 09/23 22:31 | 09/24 22:09 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 78 | 09/23 22:42 | 09/24 22:39 | ⚠ 935分（05:51→21:26） |
+| FirstSquawk | 360 | 09/23 22:41 | 09/24 22:34 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 303 | 09/23 22:43 | 09/24 22:31 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 731 行（統合前 755 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 721 行（統合前 744 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 22:23 [FirstSquawk] GIORGETTI: INCOME TAX REDUCTION REMAINS GOVT PRIORITY
-- 09/23 22:24 [DeItaone] US ENERGY SECRETARY CHRIS WRIGHT SAYS DIESEL EXPORT BAN WOULD NOT WORK
-- 09/23 22:25 [DeItaone] WRIGHT SAYS US DIESEL EXPORT BAN WOULD RAISE GASOLINE AND JET FUEL PRICES
-- 09/23 22:25 [FirstSquawk] US ENERGY SECRETARY CHRIS WRIGHT: DIESEL EXPORT BAN WOULD NOT WORK
-- 09/23 22:25 [FirstSquawk] WRIGHT: US DIESEL EXPORT BAN WOULD RAISE GASOLINE AND JET FUEL PRICES
-- 09/23 22:27 [DeItaone] FED RATE HIKE BOOSTS DOLLAR APPEAL Standard Chartered says the Fed’s rate hike has removed a key obstacle to buying the dollar, easing concerns that Chair Kevin Warsh would avoid tightening despite pressure from President Trump. Warsh’s con…
-- 09/23 22:29 [DeItaone] MORGAN STANLEY ACCIDENTALLY LEAKS 100+ DEAL PIPELINE A Morgan Stanley employee mistakenly emailed an internal document detailing more than 100 investment-banking deals being pitched or monitored across Asia and other regions. The list repor…
-- 09/23 22:30 [DeItaone] GOLDMAN SEES KOSPI BREAKOUT ABOVE 7,000 Goldman Sachs sees South Korea’s KOSPI positioned for a near-term breakout above 7,000–7,200, supported by improving institutional and foreign buying. Strong memory-chip momentum and Samsung’s dividen…
-- 09/23 22:30 [FirstSquawk] Oil Rises Above $100 as Surging Diesel Prices and Persistent Middle East Supply Risks Offset Recovery Hopes Crude oil prices climbed back above $100 a barrel, snapping a five-day losing streak as traders weighed soaring fuel costs against p…
-- 09/23 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -139.5 MLN NASDAQ 100: -25.1 MLN DOW 30: -47.8 MLN MAG 7: -20.3 MLN $MACRO
-- 09/23 22:31 [FirstSquawk] NASDAQ DOWN 36.79 POINTS, OR 0.14 PERCENT, AT 27,207.49 AFTER MARKET OPEN S&P 500 DOWN 7.22 POINTS, OR 0.09 PERCENT, AT 7,757.42 AFTER MARKET OPEN DOW JONES DOWN 146.10 POINTS, OR 0.28 PERCENT, AT 51,717.59 AFTER MARKET OPEN
-- 09/23 22:34 [DeItaone] US AGENCY OPENS SAFETY PROBE INTO DRIVER ASSISTANCE START-UP https://t.co/RskRW5yHW4 AFTER REPORTS OF FIVE CRASHES AND THREE DEATHS
-- 09/23 22:35 [financialjuice] Iran's General Razai: If the US does not comply with the seven conditions set by Iran, the Strait of Hormuz will not be opened, nor will we engage in negotiations - IRIB News.
-- 09/23 22:36 [DeItaone/FirstSquawk] IRAN'S SECURITY CHIEF MOHSEN REZAEI SAYS AS LONG AS IRAN'S CONDITIONS ARE NOT MET HORMUZ WILL NOT BE REOPENED AND THERE WILL BE NO NEGOTIATIONS
-- 09/23 22:36 [financialjuice] Iran's General Razai: Iran has not been in a hurry to negotiate; today, Iran's conditions have been compiled and are currently in the hands of the Qatari and Pakistani parties - IRIB News.
-- 09/23 22:36 [FirstSquawk] IRAN'S SECURITY CHIEF MOHSEN REZAEI: AS LONG AS IRAN'S CONDITIONS ARE NOT MET HORMUZ WILL NOT BE REOPENED AND THERE WILL BE NO NEGOTIATIONS
-- 09/23 22:37 [financialjuice] Iran's General Razai: We are reverse-engineering an American submarine - Fars News.
-- 09/23 22:39 [financialjuice] US Energy Secretary Wright: A diesel exports ban could raise gasoline prices.
 - 09/23 22:41 [FirstSquawk] ITALY FINMIN GIORGETTI: GROWING CONSENSUS IN EU ON WINDFALL TAX ON ENERGY SECTOR
 - 09/23 22:42 [DeItaone/FirstSquawk] REZAEI SAYS IF NEIGHBORING COUNTRIES GO ALONG WITH U.S. IN STOPPING IRANIAN FLIGHTS, THEIR AIRPORTS WON'T BE ABLE TO WORK
 - 09/23 22:43 [DeItaone] IRAN TIES HORMUZ REOPENING TO U.S. COMPLIANCE Iran’s security chief says Tehran will not return to the situation before Islamabad, reiterating that Washington must comply with Iran’s seven conditions. “If the United States does not comply,”…
@@ -755,3 +737,11 @@
 - 09/24 22:19 [FirstSquawk] INDIAN OIL MINISTER SAYS THERE ARE NO PLANS TO CUT FUEL PRODUCT EXPORTS
 - 09/24 22:22 [FirstSquawk] THREE TANKERS LINKED TO IRAN, HOLDING ALMOST SIX MILLION BARRELS OF IRANIAN CRUDE, WERE CAPTURED BY THE UNITED STATES IN THE ATLANTIC, ACCORDING TO AFP AND VESSEL-TRACKING DATA.
 - 09/24 22:22 [FirstSquawk] TANKERTRACKERS REPORTED A CARGO WORTH ALMOST $600 MILLION IS ON ITS WAY TO THE UNITED STATES. THE MAJESTIC X AND TIFANI, TWO VESSELS, ARE LOCATED OFF BRAZIL'S NORTHERN COAST, AS PER KPLER DATA. BOTH VESSELS WERE CAPTURED BY THE US IN APRIL …
+- 09/24 22:22 [FirstSquawk] US WAR DEPARTMENT STATED THAT THE SEIZURES TARGETED SANCTIONED SHIPS THAT SUPPORT IRAN.
+- 09/24 22:24 [DeItaone] BITCOIN ETF INFLOWS SURGE DESPITE MARKET PRESSURE Institutional demand for Bitcoin remains resilient despite its pullback from eight-month highs, according to XS. com Fed tightening and uncertainty around Iran are weighing on prices, but Bi…
+- 09/24 22:29 [FirstSquawk] NETANYAHU HAS ARRIVED IN THE U.S. FOR THE UN GENERAL ASSEMBLY. HE WILL DELIVER A SPEECH LATER TODAY IN NEW YORK.
+- 09/24 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -33.6 MLN NASDAQ 100: -9.0 MLN DOW 30: -5.5 MLN MAG 7: -7.4 MLN $MACRO
+- 09/24 22:31 [DeItaone] ORACLE SHARES DOWN 5.1% AFTER REPORT CO SENDS 'FORCE MAJEURE' NOTICE TO NEW MEXICO DATA CENTER DEVELOPER
+- 09/24 22:32 [FirstSquawk] NASDAQ DOWN 208.33 POINTS, OR 0.77 PERCENT, AT 26,727.71 AFTER MARKET OPEN DOW JONES DOWN 173.62 POINTS, OR 0.34 %, AT 51,337.97 AFTER MARKET OPEN S&P 500 DOWN 38.61 POINTS, OR 0.50 PERCENT, AT 7,667.42 AFTER MARKET OPEN
+- 09/24 22:34 [FirstSquawk] ORACLE SHARES FALL 5.7% TO LOWEST SINCE AUG. 3
+- 09/24 22:39 [DeItaone] OIL FUTURES EXTEND GAINS, US CRUDE UP BY $2 A BARREL ON LITTLE SIGN OF PROGRESS IN US-IRAN TALKS

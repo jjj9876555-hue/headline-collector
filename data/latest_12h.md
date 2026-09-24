@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 22:22 JST／対象: 09/24 10:22 〜 09/24 22:22 JST（時刻はすべて日本時間）
+生成: 2026-09-24 22:39 JST／対象: 09/24 10:39 〜 09/24 22:39 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/24 21:26 | 09/24 22:06 | 7分（21:54→22:02） |
-| FirstSquawk | 191 | 09/24 10:27 | 09/24 22:22 | 25分（12:09→12:34） |
-| financialjuice | 110 | 09/24 10:30 | 09/24 22:09 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 24 | 09/24 21:26 | 09/24 22:39 | 18分（22:06→22:24） |
+| FirstSquawk | 188 | 09/24 10:40 | 09/24 22:34 | 25分（12:09→12:34） |
+| financialjuice | 104 | 09/24 10:40 | 09/24 22:31 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 310 行（統合前 322 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 304 行（統合前 316 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 10:27 [FirstSquawk] Hang Seng Tech Index seen opening 0.8% lower
-- 09/24 10:30 [financialjuice] AUSTRALIAN PARTICIPATION RATE ACTUAL 67.1% (FORECAST 66.9%, PREVIOUS 66.9%) $MACRO
-- 09/24 10:30 [financialjuice] ‼ BREAKING: AUSTRALIAN EMPLOYMENT CHANGE ACTUAL 39.5K (FORECAST 20K, PREVIOUS -15.8K) $MACRO
-- 09/24 10:30 [financialjuice] ❗ AUSTRALIAN UNEMPLOYMENT RATE ACTUAL 4.6% (FORECAST 4.5%, PREVIOUS 4.5%) $MACRO
-- 09/24 10:30 [financialjuice] Australia Aug participation rate 67.1% s/adj: Poll 66.9%
-- 09/24 10:30 [financialjuice] Australia August full-time employment down 6,300 seasonally adjusted
-- 09/24 10:30 [financialjuice] Australia aug unemployment rate rises to 4.6%, s/adj (poll forecast 4.5%)
-- 09/24 10:30 [financialjuice] Australia August jobs rise 39.5k seasonally adjusted versus poll of 20.0k
-- 09/24 10:32 [FirstSquawk] Australia Employment Change Aug: 39.5K (est 20.0K; prev -15.8K)
-- 09/24 10:32 [FirstSquawk] Australia Unemployment Rate: 4.6% (est 4.5%; prev 4.5%)
-- 09/24 10:32 [FirstSquawk] Australia Full-Time Employment Change: -6.3K (prev 16.3K)
-- 09/24 10:32 [FirstSquawk] Australia Part-Time Employment Change: 45.8K (prev -32.2K)
-- 09/24 10:32 [FirstSquawk] Australia Participation Rate: 67.1% (est 66.9%; prev 66.9%)
-- 09/24 10:34 [FirstSquawk] Australia’s ASX 200 eases losses after jobs data, still down 1.1% at 8,665.40
 - 09/24 10:40 [FirstSquawk] Sterling stays near July lows as Fed-BoE policy divergence weighs on the pound - FX
 - 09/24 10:40 [financialjuice] Japan finmin Katayama: principles on forex set by coordinated Japan-US intervention remain effective
 - 09/24 10:41 [financialjuice] Japan finmin Katayama: declines to comment on forex levels
@@ -334,3 +320,11 @@
 - 09/24 22:19 [FirstSquawk] INDIAN OIL MINISTER SAYS THERE ARE NO PLANS TO CUT FUEL PRODUCT EXPORTS
 - 09/24 22:22 [FirstSquawk] THREE TANKERS LINKED TO IRAN, HOLDING ALMOST SIX MILLION BARRELS OF IRANIAN CRUDE, WERE CAPTURED BY THE UNITED STATES IN THE ATLANTIC, ACCORDING TO AFP AND VESSEL-TRACKING DATA.
 - 09/24 22:22 [FirstSquawk] TANKERTRACKERS REPORTED A CARGO WORTH ALMOST $600 MILLION IS ON ITS WAY TO THE UNITED STATES. THE MAJESTIC X AND TIFANI, TWO VESSELS, ARE LOCATED OFF BRAZIL'S NORTHERN COAST, AS PER KPLER DATA. BOTH VESSELS WERE CAPTURED BY THE US IN APRIL …
+- 09/24 22:22 [FirstSquawk] US WAR DEPARTMENT STATED THAT THE SEIZURES TARGETED SANCTIONED SHIPS THAT SUPPORT IRAN.
+- 09/24 22:24 [DeItaone] BITCOIN ETF INFLOWS SURGE DESPITE MARKET PRESSURE Institutional demand for Bitcoin remains resilient despite its pullback from eight-month highs, according to XS. com Fed tightening and uncertainty around Iran are weighing on prices, but Bi…
+- 09/24 22:29 [FirstSquawk] NETANYAHU HAS ARRIVED IN THE U.S. FOR THE UN GENERAL ASSEMBLY. HE WILL DELIVER A SPEECH LATER TODAY IN NEW YORK.
+- 09/24 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -33.6 MLN NASDAQ 100: -9.0 MLN DOW 30: -5.5 MLN MAG 7: -7.4 MLN $MACRO
+- 09/24 22:31 [DeItaone] ORACLE SHARES DOWN 5.1% AFTER REPORT CO SENDS 'FORCE MAJEURE' NOTICE TO NEW MEXICO DATA CENTER DEVELOPER
+- 09/24 22:32 [FirstSquawk] NASDAQ DOWN 208.33 POINTS, OR 0.77 PERCENT, AT 26,727.71 AFTER MARKET OPEN DOW JONES DOWN 173.62 POINTS, OR 0.34 %, AT 51,337.97 AFTER MARKET OPEN S&P 500 DOWN 38.61 POINTS, OR 0.50 PERCENT, AT 7,667.42 AFTER MARKET OPEN
+- 09/24 22:34 [FirstSquawk] ORACLE SHARES FALL 5.7% TO LOWEST SINCE AUG. 3
+- 09/24 22:39 [DeItaone] OIL FUTURES EXTEND GAINS, US CRUDE UP BY $2 A BARREL ON LITTLE SIGN OF PROGRESS IN US-IRAN TALKS
