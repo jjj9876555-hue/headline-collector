@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 08:31 JST／対象: 09/24 08:31 〜 09/25 08:31 JST（時刻はすべて日本時間）
+生成: 2026-09-25 08:44 JST／対象: 09/24 08:44 〜 09/25 08:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 368 | 09/24 08:46 | 09/25 08:22 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 267 | 09/24 08:32 | 09/25 08:30 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 369 | 09/24 08:46 | 09/25 08:42 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 261 | 09/24 08:56 | 09/25 08:30 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 695 行（統合前 728 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 690 行（統合前 723 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 08:32 [financialjuice] Meta unveils smart glasses without cameras
-- 09/24 08:34 [financialjuice] Meta introduces third generation of Ray-Ban smart glasses
-- 09/24 08:36 [financialjuice] Meta: adventurer style smart glasses to start at $249
-- 09/24 08:39 [financialjuice] Meta: Ray-Ban Meta Audio launches October 13, available for pre-order at $349
-- 09/24 08:43 [financialjuice] Meta: Meta VR glasses to start at $1,299
-- 09/24 08:43 [financialjuice] Meta VR glasses to debut spring 2027 at $1,299.99
 - 09/24 08:46 [FirstSquawk] MICROSOFT PRESIDENT BRAD SMITH SUPPORTS INDEPENDENT AI SAFETY EVALUATORS, SAYING AI SAFETY SHOULD BE BUILT THROUGH MULTIPLE LAYERS INVOLVING MODEL DEVELOPERS, SOFTWARE PROVIDERS AND POTENTIALLY GOVERNMENTS.
 - 09/24 08:46 [FirstSquawk] MICROSOFT PRESIDENT BRAD SMITH SAYS MICROSOFT WILL ADJUST ITS 2030 CLIMATE GOALS AS AI DATA CENTER POWER DEMAND RISES, WHILE CONFIRMING PLANS TO USE 200 MEGAWATTS OF COMPUTING CAPACITY AT ITS PLANNED UAE FACILITY AND INVEST AN ADDITIONAL $2…
 - 09/24 08:48 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 1.41% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.26 POINT
@@ -719,3 +713,4 @@
 - 09/25 08:01 [financialjuice] UK GfK consumer confidence index at -13 in September vs -14 in August, highest since August 2024 (poll -16)
 - 09/25 08:28 [financialjuice] Saudi Arabia issues warning over possible threat in Jazan
 - 09/25 08:30 [financialjuice] Saudi Arabia civil defence: threat over in Jazan
+- 09/25 08:42 [FirstSquawk] US ENVOY WITKOFF AND KUSHNER MET RUSSIA'S DMITRIEV TODAY - CNN
