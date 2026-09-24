@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 04:15 JST／対象: 09/24 04:15 〜 09/25 04:15 JST（時刻はすべて日本時間）
+生成: 2026-09-25 04:31 JST／対象: 09/24 04:31 〜 09/25 04:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 88 | 09/24 05:25 | 09/25 04:02 | ⚠ 935分（05:51→21:26） |
-| FirstSquawk | 355 | 09/24 04:26 | 09/25 04:14 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 285 | 09/24 04:22 | 09/25 04:03 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 354 | 09/24 04:48 | 09/25 04:14 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 284 | 09/24 04:50 | 09/25 04:22 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 706 行（統合前 733 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 704 行（統合前 732 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 04:22 [financialjuice] Thursday FX Option Expiries
-- 09/24 04:24 [financialjuice] Anthropic's Amodei: AI could be a risk to humanity as a whole.
-- 09/24 04:25 [financialjuice] Anthropic's Amodei: Anthropic to slow AI as needed for safety reasons
-- 09/24 04:26 [FirstSquawk] US REJECTS IRAN PROPOSAL TO OPEN STRAIT OF HORMUZ - YONHAP
-- 09/24 04:30 [financialjuice] US Energy Secretary Wright reiterates diesel ban is not being discussed - NYT
 - 09/24 04:48 [FirstSquawk] ETHIOPIA'S PRESIDENT ATSKE-SELASSIE AMDE SAYS AT THE UNITED NATIONS THAT ETHIOPIA HAS ACHIEVED NOTABLE PROGRESS WITH SEVERAL NEIGHBORS 'IN SPITE OF RECKLESS EXTERNAL ACTORS', ADDING THAT 'DESPITE CONTINUED INTERFERENCE IN OUR INTERNAL AFFAI…
 - 09/24 04:48 [FirstSquawk] ETHIOPIA'S PRESIDENT ATSKE-SELASSIE AMDE SAYS 'OUR MESSAGE TO FORCES OF DESTRUCTION AND MAYHEM IS LOUD AND CLEAR', URGING THEM 'TO RESPECT THE SACRED RIGHT OF THE PEOPLE OF THE HORN OF AFRICA TO LIVE IN PEACE'.
 - 09/24 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -3037.6 MLN NASDAQ 100: -1140.1 MLN DOW 30: -736.0 MLN MAG 7: -655.1 MLN $MACRO
@@ -730,3 +725,6 @@
 - 09/25 04:02 [FirstSquawk] YEMEN'S HOUTHIS SAY THEY ATTACKED SAUDI ARAMCO FACILITIES IN YANBU, AS WELL AS WHAT THEY CALLED A 'SENSITIVE TARGET' IN THE SAUDI CAPITAL RIYADH
 - 09/25 04:03 [financialjuice] Yemen's Houthis: Attacked a ‘sensitive target’ in Saudi Capital Riyadh.
 - 09/25 04:14 [FirstSquawk] MONEY MARKETS NOW PRICE THREE FED HIKES OVER THE NEXT YEAR AS PERSISTENT INFLATION, GOVERNMENT SPENDING AND AI-RELATED CORPORATE BORROWING DRIVE BOND VOLATILITY; THE S&P 500 WAS LITTLE CHANGED, DOW FELL 0.3%, WTI ROSE 2.9% TO $94.83 AND GOL…
+- 09/25 04:18 [financialjuice] The US files to intervene in the X, Musk, and EU commission cases.
+- 09/25 04:21 [financialjuice] NATO Sec. Gen. Rutte: European allies prepared for Russian hybrid attacks.
+- 09/25 04:22 [financialjuice] Friday FX Options Expiries
