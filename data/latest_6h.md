@@ -7,46 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 03:38 JST／対象: 09/24 21:38 〜 09/25 03:38 JST（時刻はすべて日本時間）
+生成: 2026-09-25 03:53 JST／対象: 09/24 21:53 〜 09/25 03:53 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 72 | 09/24 21:39 | 09/25 03:30 | 34分（01:16→01:51） |
-| FirstSquawk | 119 | 09/24 21:47 | 09/25 03:37 | 39分（01:57→02:36） |
-| financialjuice | 130 | 09/24 21:39 | 09/25 03:28 | 30分（02:29→03:00） |
+| DeItaone | 67 | 09/24 21:54 | 09/25 03:51 | 34分（01:16→01:51） |
+| FirstSquawk | 111 | 09/24 21:53 | 09/25 03:37 | 39分（01:57→02:36） |
+| financialjuice | 119 | 09/24 21:54 | 09/25 03:28 | 30分（02:29→03:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 308 行（統合前 325 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 286 行（統合前 301 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 21:39 [financialjuice/DeItaone] Trump: Gasoline prices will be coming down.
-- 09/24 21:40 [financialjuice] China and EU hold trade talks ahead of the mechanism meeting
-- 09/24 21:42 [DeItaone] 🇺🇸 🇨🇳 TRUMP-XI WHITE HOUSE SCHEDULE — THURSDAY 🔸 8:00 AM — Executive Time 🔸 9:00 AM — In-Town Pool Call 🔸 10:00 AM — Trump & First Lady greet Xi Jinping & Peng Liyuan 🔸 10:10 AM — Arrival Ceremony 🔸 10:15 AM — Trump & Xi deliver remarks 🔸 1…
-- 09/24 21:44 [DeItaone] 🇺🇸 WHAT TO WATCH TODAY — U.S. MARKETS 🔸 4:10 AM ET — 🏦 Fed’s John Williams 🔸 8:30 AM ET — 🇺🇸 Initial Jobless Claims 🔸 10:00 AM ET — 🏠 New Home Sales 🔸 10:30 AM ET — 🔥 EIA Natural Gas Storage 🔸 1:00 PM ET — 🇺🇸 $44B 7-Year Treasury Auction 🔸 …
-- 09/24 21:44 [financialjuice/DeItaone] Small group of Chinese CEOs arrived in Washington - SCMP
-- 09/24 21:45 [financialjuice] ECB's Radev: Rate hike doesn't put us on predetermined path.
-- 09/24 21:45 [financialjuice] ECB's Radev: ECB should give previous decisions time to work
-- 09/24 21:46 [DeItaone] CHINESE CEOS ARRIVE IN WASHINGTON AHEAD OF XI DINNER A small group of Chinese CEOs with U.S. visas has arrived in Washington separately from President Xi Jinping’s official delegation. The executives are still waiting to learn whether they …
-- 09/24 21:46 [financialjuice] ECB's Radev: ECB task is to judge is shock will broaden from energy.
-- 09/24 21:46 [financialjuice] ECB's Radev: Risks to inflation tilted to upside, growth to downside
-- 09/24 21:47 [FirstSquawk] CHINESE CEOS FLY TO US ON OWN, AWAIT INVITES TO TRUMP’S STATE DINNER FOR XI JINPING - SCMP
-- 09/24 21:47 [FirstSquawk] ECB'S RADEV SAYS RATE HIKE DOESN'T PUT US ON PREDETERMINED PATH
-- 09/24 21:47 [FirstSquawk] RADEV SAYS ECB SHOULD GIVE PREVIOUS DECISIONS TIME TO WORK
-- 09/24 21:47 [FirstSquawk] RADEV SAYS ECB TASK IS TO JUDGE IS SHOCK WILL BROADEN FROM ENERGY
-- 09/24 21:47 [financialjuice] ECB's Radev: Not seeing broad-based second-round effects
-- 09/24 21:47 [FirstSquawk] RADEV SAYS RISKS TO INFLATION TILTED TO UPSIDE, GROWTH TO DOWNSIDE
-- 09/24 21:48 [FirstSquawk] ECB’S RADEV SAYS NOT SEEING BROAD-BASED SECOND-ROUND EFFECTS
-- 09/24 21:48 [FirstSquawk] FED'S BARKIN SAYS INFLATION'S PERSISTENCE CLEARER THIS SUMMER
-- 09/24 21:48 [financialjuice] Russian economy ministry sees Urals oil price at $53/bbl in 2027 (previous forecast: $50/bbl).
-- 09/24 21:48 [financialjuice] Fed's Barkin: Inflation's persistence is clearer this summer.
-- 09/24 21:51 [financialjuice] Fed's Barkin: The labor market is stable, but new job growth remains slow.
-- 09/24 21:51 [DeItaone] BARKIN: INFLATION'S PERSISTENCE IS CLEARER THIS SUMMER
-- 09/24 21:53 [FirstSquawk] FED’S BARKIN: LABOR MARKET STABLE BUT NEW JOB GROWTH REMAINS SLOW
 - 09/24 21:53 [FirstSquawk] FED'S HAMMACK SAYS PRICE STABILITY IS RESPONSIBILITY OF CENTRAL BANKS
 - 09/24 21:54 [DeItaone] FED'S HAMMACK: INFLATION RISK TILTED TOWARD UPSIDE
 - 09/24 21:54 [financialjuice] Fed's Hammack: Inflation remains elevated amid solid output demand.
@@ -332,3 +309,4 @@
 - 09/25 03:34 [FirstSquawk] NETANYAHU TO THOSE ACCUSING ISRAEL OF GENOCIDE, INCLUDING NEW YORK MAYOR: “SHAME ON YOU”
 - 09/25 03:36 [FirstSquawk] NETANYAHU TO MAMDANI: “YOU CAN’T SILENCE ME”; SAYS ISRAEL “PREVENTED GENOCIDE”
 - 09/25 03:37 [FirstSquawk] NETANYAHU: ACCUSES SOME WESTERN EUROPEAN LEADERS OF “SUCCUMBING TO ANTI-SEMITIC MOBS”
+- 09/25 03:51 [DeItaone] SOME 60 COMMERCIAL VESSELS TRANSITED THE STRAIT OF HORMUZ ON WEDNESDAY CARRYING THE HIGHEST DAILY VOLUME OF CRUDE SINCE EARLY JULY, US DEFENSE OFFICIAL TELLS REUTERS
