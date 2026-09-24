@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 00:18 JST／対象: 09/24 12:18 〜 09/25 00:18 JST（時刻はすべて日本時間）
+生成: 2026-09-25 00:34 JST／対象: 09/24 12:34 〜 09/25 00:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 09/24 21:26 | 09/25 00:16 | 20分（22:39→22:59） |
-| FirstSquawk | 214 | 09/24 12:34 | 09/25 00:14 | 22分（18:38→19:01） |
-| financialjuice | 167 | 09/24 12:41 | 09/25 00:15 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 55 | 09/24 21:26 | 09/25 00:30 | 20分（22:39→22:59） |
+| FirstSquawk | 216 | 09/24 12:34 | 09/25 00:31 | 22分（18:38→19:01） |
+| financialjuice | 171 | 09/24 12:41 | 09/25 00:33 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 420 行（統合前 436 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 427 行（統合前 443 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -444,3 +444,10 @@
 - 09/25 00:14 [FirstSquawk] UAE’S CIVIL AVIATION AUTHORITY SUSPENDS FLIGHTS BY IRANIAN AIRLINES TO AND FROM THE UAE
 - 09/25 00:15 [financialjuice] Fed bids for 4-week bills total $7.4 bln.
 - 09/25 00:16 [DeItaone] DOLLAR/YEN UP 0.42% AT 158.96 AFTER HITTING 158.98, HIGHEST SINCE SEPTEMBER 2
+- 09/25 00:22 [FirstSquawk] US YIELDS FOR 10 TO 30 YEARS INCREASE WITH OIL PRICES, REACHING NEW MULTIYEAR HIGHS.
+- 09/25 00:30 [DeItaone] OIL FUTURES EXTEND GAINS, US CRUDE UP BY $4 A BARREL AFTER YEMEN'S HOUTHIS FIRE MISSILES AT SAUDI ARABIA
+- 09/25 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.23%; GERMANY'S DAX DOWN 0.61%
+- 09/25 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.85% (FORECAST -, PREVIOUS 3.820%) $MACRO
+- 09/25 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.61 (FORECAST -, PREVIOUS 3.020) $MACRO
+- 09/25 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.850% Bid-to-cover 2.61 US sells $90 bln Awards 54.97% of bids at high
+- 09/25 00:33 [financialjuice] The US seeks to join Musk in his court fight with the EU over the X fine.

@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 00:18 JST／対象: 09/24 18:18 〜 09/25 00:18 JST（時刻はすべて日本時間）
+生成: 2026-09-25 00:34 JST／対象: 09/24 18:34 〜 09/25 00:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 54 | 09/24 21:26 | 09/25 00:16 | 20分（22:39→22:59） |
-| FirstSquawk | 140 | 09/24 18:23 | 09/25 00:14 | 22分（18:38→19:01） |
-| financialjuice | 141 | 09/24 18:23 | 09/25 00:15 | 30分（20:25→20:56） |
+| DeItaone | 55 | 09/24 21:26 | 09/25 00:30 | 20分（22:39→22:59） |
+| FirstSquawk | 130 | 09/24 18:38 | 09/25 00:31 | 22分（18:38→19:01） |
+| financialjuice | 144 | 09/24 18:38 | 09/25 00:33 | 30分（20:25→20:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 320 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 314 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 18:23 [FirstSquawk] PBOC: CONVENES MONETARY POLICY COMMITTEE 3Q MEETING
-- 09/24 18:23 [FirstSquawk] PBOC SAYS TO MAKE POLICIES MORE TARGETED
-- 09/24 18:23 [financialjuice] China Central Bank: To step up counter-cyclical adjustments
-- 09/24 18:23 [FirstSquawk] PBOC: TO ADJUST MONETARY POLICY TOOLS AS NEEDED
-- 09/24 18:23 [FirstSquawk] PBOC: VOWS TO ADJUST MONETARY POLICY TOOLS IN A TIMELY MANNER
-- 09/24 18:23 [FirstSquawk] PBOC SAYS ADVANCE IMPROVEMENT OF MONETARY POLICY OP. FRAMEWORK
-- 09/24 18:23 [FirstSquawk] PBOC SAYS ENHANCE THE RESILIENCE OF FOREIGN EXCHANGE MARKET
-- 09/24 18:23 [FirstSquawk] PBOC: WARNS AGAINST HERD BEHAVIOR IN FINANCIAL MARKETS
-- 09/24 18:24 [FirstSquawk] PBOC SAYS MAINTAIN YUAN RATE AT REASONABLE AND BALANCED LEVEL
-- 09/24 18:26 [FirstSquawk] KREMLIN SAYS WE APPRECIATE THE US INVITATION TO PUTIN, WILL DECIDE RESPONSE
-- 09/24 18:26 [FirstSquawk] KREMLIN SAYS NO DECISION HAS BEEN TAKEN ABOUT A TRUMP-PUTIN SUMMIT IN DECEMBER, TOO EARLY TO TALK ABOUT POSSIBLE AGENDA
-- 09/24 18:26 [FirstSquawk] KREMLIN: REITERATES THAT RUSSIA WANTS A PEACE SETTLEMENT ON UKRAINE, NOT A TEMPORARY CEASEFIRE
-- 09/24 18:26 [FirstSquawk] KREMLIN: EU DECISION TO TRANSFER REVENUE FROM FROZEN RUSSIAN ASSETS TO UKRAINE IS ILLEGAL, IT'S THEFT
 - 09/24 18:38 [FirstSquawk/financialjuice] ALL IRANIAN AIRLINE FLIGHTS TO UAE CANCELLED - ISNA
 - 09/24 18:51 [financialjuice] BoE's Dhingra: Financial conditions have done a lot of tightening work already in the UK
 - 09/24 18:51 [financialjuice] BoE's Dhingra: I am encouraged by what we're seeing on pricing
@@ -344,3 +331,10 @@
 - 09/25 00:14 [FirstSquawk] UAE’S CIVIL AVIATION AUTHORITY SUSPENDS FLIGHTS BY IRANIAN AIRLINES TO AND FROM THE UAE
 - 09/25 00:15 [financialjuice] Fed bids for 4-week bills total $7.4 bln.
 - 09/25 00:16 [DeItaone] DOLLAR/YEN UP 0.42% AT 158.96 AFTER HITTING 158.98, HIGHEST SINCE SEPTEMBER 2
+- 09/25 00:22 [FirstSquawk] US YIELDS FOR 10 TO 30 YEARS INCREASE WITH OIL PRICES, REACHING NEW MULTIYEAR HIGHS.
+- 09/25 00:30 [DeItaone] OIL FUTURES EXTEND GAINS, US CRUDE UP BY $4 A BARREL AFTER YEMEN'S HOUTHIS FIRE MISSILES AT SAUDI ARABIA
+- 09/25 00:31 [FirstSquawk] BRITAIN'S FTSE 100 DOWN 0.23%; GERMANY'S DAX DOWN 0.61%
+- 09/25 00:32 [financialjuice] US 4-WEEK BILL HIGH YIELD ACTUAL 3.85% (FORECAST -, PREVIOUS 3.820%) $MACRO
+- 09/25 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.61 (FORECAST -, PREVIOUS 3.020) $MACRO
+- 09/25 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.850% Bid-to-cover 2.61 US sells $90 bln Awards 54.97% of bids at high
+- 09/25 00:33 [financialjuice] The US seeks to join Musk in his court fight with the EU over the X fine.
