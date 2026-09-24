@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 13:34 JST／対象: 09/23 13:34 〜 09/24 13:34 JST（時刻はすべて日本時間）
+生成: 2026-09-24 13:51 JST／対象: 09/23 13:51 〜 09/24 13:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 301 | 09/23 13:36 | 09/24 13:23 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 267 | 09/23 13:36 | 09/24 13:01 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 299 | 09/23 14:00 | 09/24 13:45 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 265 | 09/23 14:52 | 09/24 13:01 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 631 行（統合前 653 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 627 行（統合前 649 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 13:36 [financialjuice] China central bank offers 6-month yuan bills in Hong Kong at 1.37%, HKMA says
-- 09/23 13:36 [FirstSquawk] PBOC sells six-month yuan bills in Hong Kong at 1.37% - HKMA
-- 09/23 13:38 [FirstSquawk] Vietnam’s Vingroup agrees $1 billion deal with Siemens for bullet train project - NA
-- 09/23 13:39 [financialjuice] Dutch final Q2 GDP rises 1.6% y/y nsa vs preliminary 1.3%: CBS
-- 09/23 13:41 [FirstSquawk] Strait of Hormuz shipping traffic plunges to three ships on Tuesday - Kepler Data
-- 09/23 13:42 [FirstSquawk] Berenberg lifts Kingfisher target price to 320p from 295p
-- 09/23 13:45 [FirstSquawk] Berenberg lifts Smiths Group target price to 3,200p from 3,000p
-- 09/23 13:49 [FirstSquawk] RBC lifts Standard Life target price to 970p from 885p
 - 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI SERVICES ACTUAL: 55.8 VS 54.1 PREVIOUS
 - 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI MFG ACTUAL: 55.7 VS 52.8 PREVIOUS
 - 09/23 14:00 [FirstSquawk] INDIA (SEP) HSBC INDIA PMI COMPOSITE ACTUAL: 56.5 VS 54.3 PREVIOUS
@@ -655,3 +647,7 @@
 - 09/24 13:15 [FirstSquawk] Indonesia central bank: Rupiah performance generally aligned with regional currencies
 - 09/24 13:17 [FirstSquawk] 10-year Japanese government bond yield jumps 9.5 bps to 3.070%
 - 09/24 13:23 [FirstSquawk] Japan’s 5-year JGB yield climbs 9 bps to record 2.365%
+- 09/24 13:40 [FirstSquawk] France’s far left faces backlash over debt “fire” plan: FT
+- 09/24 13:40 [FirstSquawk] Leaked Belgian document warns Trump’s US is no longer a reliable ally: FT
+- 09/24 13:41 [FirstSquawk] FT: Fed will take action to ensure inflation resumes its slowdown
+- 09/24 13:45 [FirstSquawk] Pakistan FM tells Iraqji: We must remain committed to dialogue and diplomacy

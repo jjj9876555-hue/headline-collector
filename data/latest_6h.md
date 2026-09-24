@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 13:34 JST／対象: 09/24 07:34 〜 09/24 13:34 JST（時刻はすべて日本時間）
+生成: 2026-09-24 13:51 JST／対象: 09/24 07:51 〜 09/24 13:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 93 | 09/24 08:16 | 09/24 13:23 | 25分（12:09→12:34） |
-| financialjuice | 65 | 09/24 07:42 | 09/24 13:01 | ⚠ 68分（11:33→12:41） |
+| FirstSquawk | 97 | 09/24 08:16 | 09/24 13:45 | 25分（12:09→12:34） |
+| financialjuice | 63 | 09/24 08:03 | 09/24 13:01 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 158 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 160 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 07:42 [financialjuice] South Korea’s presidential office: President Lee discussed warship building with U.S. President Donald Trump
-- 09/24 07:46 [financialjuice] South Korea President Lee: Hanwha's Philly shipyard to construct warships for US - Korea presidential office
 - 09/24 08:03 [financialjuice] Meta launches annual Connect conference in Menlo Park, California
 - 09/24 08:08 [financialjuice] EU's Costa: spoke to Iran president, urged Tehran to restart cooperation with IAEA
 - 09/24 08:08 [financialjuice] EU's Costa: calls for halt to Iran's attacks on neighbors and complete freedom of navigation in Strait of Hormuz
@@ -182,3 +180,7 @@
 - 09/24 13:15 [FirstSquawk] Indonesia central bank: Rupiah performance generally aligned with regional currencies
 - 09/24 13:17 [FirstSquawk] 10-year Japanese government bond yield jumps 9.5 bps to 3.070%
 - 09/24 13:23 [FirstSquawk] Japan’s 5-year JGB yield climbs 9 bps to record 2.365%
+- 09/24 13:40 [FirstSquawk] France’s far left faces backlash over debt “fire” plan: FT
+- 09/24 13:40 [FirstSquawk] Leaked Belgian document warns Trump’s US is no longer a reliable ally: FT
+- 09/24 13:41 [FirstSquawk] FT: Fed will take action to ensure inflation resumes its slowdown
+- 09/24 13:45 [FirstSquawk] Pakistan FM tells Iraqji: We must remain committed to dialogue and diplomacy
