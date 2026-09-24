@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 06:42 JST／対象: 09/25 00:42 〜 09/25 06:42 JST（時刻はすべて日本時間）
+生成: 2026-09-25 06:52 JST／対象: 09/25 00:52 〜 09/25 06:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/25 00:48 | 09/25 04:02 | 34分（01:16→01:51） |
-| FirstSquawk | 72 | 09/25 00:48 | 09/25 06:25 | 39分（01:57→02:36） |
-| financialjuice | 45 | 09/25 00:48 | 09/25 06:04 | 36分（05:24→06:01） |
+| DeItaone | 27 | 09/25 00:55 | 09/25 04:02 | 34分（01:16→01:51） |
+| FirstSquawk | 72 | 09/25 00:55 | 09/25 06:47 | 39分（01:57→02:36） |
+| financialjuice | 45 | 09/25 00:56 | 09/25 06:44 | 40分（06:04→06:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 138 行（統合前 151 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 137 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 00:48 [DeItaone/FirstSquawk] XI HOLDS SMALL-GROUP EXCHANGES WITH TRUMP - XINHUA
-- 09/25 00:48 [financialjuice] China’s President Xi holds small-group exchanges with Trump - Xinhua.
-- 09/25 00:50 [DeItaone] ORACLE: FORCE-MAJEURE NOTICES ARE COMMONPLACE IN DEVELOPMENTS OF THIS SCALE AND ARE OFTEN USED TO PRESERVE CONTRACTUAL RIGHTS AMONG PROJECT PARTNERS
 - 09/25 00:55 [DeItaone] MS NOW PRODUCER GRANTED ACCESS TO WHITE HOUSE -MS NOW
 - 09/25 00:55 [FirstSquawk] GOOGLE: INTRODUCING GEMINI 3.8 LIVE WITH LIVE AVATAR
 - 09/25 00:56 [financialjuice] Google introduces Gemini 3.8 Live, with live avatar. $GOOGL
@@ -162,3 +159,5 @@
 - 09/25 06:22 [FirstSquawk] IRANIAN PRESIDENT MASOUD PEZESHKIAN SAYS IRAN IS “OPEN” TO INSPECTIONS OF ITS NUCLEAR FACILITIES AND DENIES THAT TEHRAN IS SEEKING TO ASSASSINATE PRESIDENT DONALD TRUMP OR HIS FAMILY. - NBC NEWS
 - 09/25 06:25 [FirstSquawk] BOND VOLATILITY KEPT U.S. STOCKS UNDER PRESSURE AS BRENT CRUDE SETTLED NEAR $107 A BARREL, RAISING CONCERNS THAT PERSISTENT INFLATION COULD FORCE THE FEDERAL RESERVE TO KEEP RAISING RATES, WHILE 30-YEAR TREASURY YIELDS REACHED THEIR HIGHEST…
 - 09/25 06:25 [FirstSquawk] MONEY MARKETS ARE NOW FULLY PRICING THREE ADDITIONAL FED RATE HIKES OVER THE NEXT YEAR AS INVESTORS DEMAND HIGHER RETURNS ON LONG-TERM BONDS, WHILE TRUMP AND XI DISCUSSED AI COMPETITION AFTER THE U.S.-CHINA TRADE TRUCE WAS EXTENDED BY ABOUT…
+- 09/25 06:44 [financialjuice] Argentina's province of San Juan launches $600 million international bond below 10% rate - local media
+- 09/25 06:47 [FirstSquawk] MGM RESORTS EYES BID FOR BARRY DILLER’S PEOPLE INCORPORATED; PROPOSAL COULD COME WITHIN DAYS — WSJ

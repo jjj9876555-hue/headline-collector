@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 06:42 JST／対象: 09/24 06:42 〜 09/25 06:42 JST（時刻はすべて日本時間）
+生成: 2026-09-25 06:52 JST／対象: 09/24 06:52 〜 09/25 06:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 86 | 09/24 21:26 | 09/25 04:02 | 34分（01:16→01:51） |
-| FirstSquawk | 368 | 09/24 06:44 | 09/25 06:25 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 283 | 09/24 06:57 | 09/25 06:04 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 368 | 09/24 08:16 | 09/25 06:47 | 39分（01:57→02:36） |
+| financialjuice | 284 | 09/24 06:57 | 09/25 06:44 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 713 行（統合前 743 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 714 行（統合前 744 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 06:44 [FirstSquawk] CHINESE PRESIDENT XI JINPING ARRIVES FOR STATE VISIT TO U.S.: XINHUA
 - 09/24 06:57 [financialjuice] Morocco's parliamentary election turnout at 38.02%, interior ministry says
 - 09/24 07:06 [financialjuice] US Treasury Secretary Bessent: U.S., China agreed Wednesday to prolong Busan agreement
 - 09/24 07:13 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: reports that he will likely be Trump's al czar are probably fake news
@@ -737,3 +736,5 @@
 - 09/25 06:22 [FirstSquawk] IRANIAN PRESIDENT MASOUD PEZESHKIAN SAYS IRAN IS “OPEN” TO INSPECTIONS OF ITS NUCLEAR FACILITIES AND DENIES THAT TEHRAN IS SEEKING TO ASSASSINATE PRESIDENT DONALD TRUMP OR HIS FAMILY. - NBC NEWS
 - 09/25 06:25 [FirstSquawk] BOND VOLATILITY KEPT U.S. STOCKS UNDER PRESSURE AS BRENT CRUDE SETTLED NEAR $107 A BARREL, RAISING CONCERNS THAT PERSISTENT INFLATION COULD FORCE THE FEDERAL RESERVE TO KEEP RAISING RATES, WHILE 30-YEAR TREASURY YIELDS REACHED THEIR HIGHEST…
 - 09/25 06:25 [FirstSquawk] MONEY MARKETS ARE NOW FULLY PRICING THREE ADDITIONAL FED RATE HIKES OVER THE NEXT YEAR AS INVESTORS DEMAND HIGHER RETURNS ON LONG-TERM BONDS, WHILE TRUMP AND XI DISCUSSED AI COMPETITION AFTER THE U.S.-CHINA TRADE TRUCE WAS EXTENDED BY ABOUT…
+- 09/25 06:44 [financialjuice] Argentina's province of San Juan launches $600 million international bond below 10% rate - local media
+- 09/25 06:47 [FirstSquawk] MGM RESORTS EYES BID FOR BARRY DILLER’S PEOPLE INCORPORATED; PROPOSAL COULD COME WITHIN DAYS — WSJ

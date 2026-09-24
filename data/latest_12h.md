@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 06:42 JST／対象: 09/24 18:42 〜 09/25 06:42 JST（時刻はすべて日本時間）
+生成: 2026-09-25 06:52 JST／対象: 09/24 18:52 〜 09/25 06:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 86 | 09/24 21:26 | 09/25 04:02 | 34分（01:16→01:51） |
-| FirstSquawk | 201 | 09/24 19:01 | 09/25 06:25 | 39分（01:57→02:36） |
-| financialjuice | 188 | 09/24 18:51 | 09/25 06:04 | 36分（05:24→06:01） |
+| FirstSquawk | 202 | 09/24 19:01 | 09/25 06:47 | 39分（01:57→02:36） |
+| financialjuice | 185 | 09/24 18:52 | 09/25 06:44 | 40分（06:04→06:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 453 行（統合前 481 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 451 行（統合前 479 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 18:51 [financialjuice] BoE's Dhingra: Financial conditions have done a lot of tightening work already in the UK
-- 09/24 18:51 [financialjuice] BoE's Dhingra: I am encouraged by what we're seeing on pricing
-- 09/24 18:51 [financialjuice] BoE's Dhingra: A lot of financial tightening has taken place
-- 09/24 18:52 [financialjuice] BoE's Dhingra: We are not seeing broad-based price rises like those that happened in 2022
 - 09/24 18:52 [financialjuice] Beijing urges Chinese LNG buyers to avoid resales before winter
 - 09/24 18:53 [financialjuice] BoE's Dhingra: Winter energy prices will be critical for second-round effects
 - 09/24 18:57 [financialjuice] BoE's Dhingra: Not seeing broadly spread price rises like 2022
@@ -477,3 +473,5 @@
 - 09/25 06:22 [FirstSquawk] IRANIAN PRESIDENT MASOUD PEZESHKIAN SAYS IRAN IS “OPEN” TO INSPECTIONS OF ITS NUCLEAR FACILITIES AND DENIES THAT TEHRAN IS SEEKING TO ASSASSINATE PRESIDENT DONALD TRUMP OR HIS FAMILY. - NBC NEWS
 - 09/25 06:25 [FirstSquawk] BOND VOLATILITY KEPT U.S. STOCKS UNDER PRESSURE AS BRENT CRUDE SETTLED NEAR $107 A BARREL, RAISING CONCERNS THAT PERSISTENT INFLATION COULD FORCE THE FEDERAL RESERVE TO KEEP RAISING RATES, WHILE 30-YEAR TREASURY YIELDS REACHED THEIR HIGHEST…
 - 09/25 06:25 [FirstSquawk] MONEY MARKETS ARE NOW FULLY PRICING THREE ADDITIONAL FED RATE HIKES OVER THE NEXT YEAR AS INVESTORS DEMAND HIGHER RETURNS ON LONG-TERM BONDS, WHILE TRUMP AND XI DISCUSSED AI COMPETITION AFTER THE U.S.-CHINA TRADE TRUCE WAS EXTENDED BY ABOUT…
+- 09/25 06:44 [financialjuice] Argentina's province of San Juan launches $600 million international bond below 10% rate - local media
+- 09/25 06:47 [FirstSquawk] MGM RESORTS EYES BID FOR BARRY DILLER’S PEOPLE INCORPORATED; PROPOSAL COULD COME WITHIN DAYS — WSJ
