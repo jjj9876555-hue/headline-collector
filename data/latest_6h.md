@@ -7,61 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 05:35 JST／対象: 09/24 23:35 〜 09/25 05:35 JST（時刻はすべて日本時間）
+生成: 2026-09-25 05:52 JST／対象: 09/24 23:52 〜 09/25 05:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 46 | 09/24 23:35 | 09/25 04:02 | 34分（01:16→01:51） |
-| FirstSquawk | 87 | 09/24 23:35 | 09/25 05:32 | 39分（01:57→02:36） |
-| financialjuice | 73 | 09/24 23:35 | 09/25 05:24 | 30分（02:29→03:00） |
+| DeItaone | 37 | 09/24 23:54 | 09/25 04:02 | 34分（01:16→01:51） |
+| FirstSquawk | 73 | 09/24 23:52 | 09/25 05:32 | 39分（01:57→02:36） |
+| financialjuice | 56 | 09/24 23:52 | 09/25 05:24 | 30分（02:29→03:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 196 行（統合前 211 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 158 行（統合前 171 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 23:35 [DeItaone] CHINA'S XI: WILLING TO WORK WITH TRUMP TO STEER THE SHIP OF CHINA-US TIES
-- 09/24 23:35 [FirstSquawk] WASHINGTON-CHINA'S XI: WILLING TO WORK WITH TRUMP TO STEER THE SHIP OF CHINA-US TIES
-- 09/24 23:35 [DeItaone/FirstSquawk] CHINA'S XI: WE SHOULD STRENGTHEN COMMUNICATION
-- 09/24 23:35 [financialjuice] China’s President Xi: I am willing to work with Trump to steer the ship of China-US ties.
-- 09/24 23:36 [financialjuice] China’s President Xi on the US: We should strengthen communication.
-- 09/24 23:37 [financialjuice] China’s President Xi: I encourage economic and trade communication with the US.
-- 09/24 23:37 [FirstSquawk] CHINA'S XI: WE ENCOURGE EXCHANGES ON DIPLOMACY, TRADE AND ECONOMY, LAW ENFORCEMENT
-- 09/24 23:37 [DeItaone] PEZESHKIAN SET FOR FOX NEWS INTERVIEW TONIGHT Iranian President Masoud Pezeshkian is scheduled for a Fox News interview today at 1:00 PM ET. The interview will be conducted by Bret Baier.
-- 09/24 23:38 [DeItaone/FirstSquawk] CHINA'S XI: CHINA'S DOOR IS OPEN, WELCOMES US FIRMS TO INVEST IN CHINA
-- 09/24 23:38 [financialjuice] China’s President Xi: There is big room for China-US cooperation.
-- 09/24 23:38 [DeItaone] CHINA'S XI: CHINA, US ARE BOTH AI POWERS
-- 09/24 23:38 [financialjuice] China’s President Xi: China's door is open, we welcome US firms to invest in China.
-- 09/24 23:38 [DeItaone] CHINA'S XI: WILLING TO STEP UP COUNTER-NARCOTICS, LAW ENFORCEMENT COOPERATION
-- 09/24 23:38 [financialjuice] China’s President Xi: China and the US are both AI powers.
-- 09/24 23:38 [FirstSquawk] XI: WE HAVE RESPONSIBILITY TO MANAGE AI
-- 09/24 23:39 [FirstSquawk] XI: CHINA, US CAPABLE TO MANAGE AI
-- 09/24 23:39 [FirstSquawk] XI: WE CAN ENHANCE DIRECT FLIGHTS
-- 09/24 23:39 [financialjuice] China’s President Xi: China and the US are capable of managing AI, we have a responsibility to do so.
-- 09/24 23:39 [financialjuice] China’s President Xi: I am willing to step up counter-narcotics and law enforcement cooperation.
-- 09/24 23:39 [financialjuice] China’s President Xi: I hope Chinese firms are treated fairly in the US.
-- 09/24 23:40 [DeItaone] CHINA'S XI: WE NEED TO CO-EXIST PEACEFULLY
-- 09/24 23:40 [financialjuice] China’s President Xi: We need to ensure that AI is always under human control.
-- 09/24 23:40 [financialjuice] China’s President Xi on the US: We need to get along peacefully.
-- 09/24 23:40 [FirstSquawk] XI: WE NEED TO GET ALONG PEACEFULLY
-- 09/24 23:40 [FirstSquawk] XI: CHINA, US MUST AVOID CONFLICTS
-- 09/24 23:40 [FirstSquawk] XI: COMPETITION SHOULD BE POSITIVE, NOT WINNING OR LOSING
-- 09/24 23:41 [financialjuice] China’s President Xi: Competition should be positive, not winning or losing.
-- 09/24 23:41 [financialjuice] China’s President Xi on the US: Competition should be positive, with boundaries.
-- 09/24 23:41 [financialjuice] China’s President Xi: China-US military should maintain communications.
-- 09/24 23:42 [DeItaone] CHINA'S XI: CHINA TO INVITE 100,000 US YOUTH TO VISIT CHINA IN NEXT 5 YERAS
-- 09/24 23:43 [FirstSquawk] XI: IN COMING 5 YRS, INVITE 100,000 US YOUTHS TO CHINA
-- 09/24 23:43 [FirstSquawk] XI: PANDAS TO ARRIVE IN US IN FEW DAYS
-- 09/24 23:44 [FirstSquawk] CHINA PRESIDENT XI: CINA, US MILITARIES SHOULD MAINTAIN REGULAR DIALOGUE
-- 09/24 23:45 [financialjuice] China’s President Xi concludes speech at the White House.
-- 09/24 23:45 [financialjuice] Trump, Xi end remarks to media.
-- 09/24 23:49 [financialjuice] China's Pres. Xi gifted 2 Pandas to the US for the Atlanta Zoo BEARish 🐼
-- 09/24 23:51 [FirstSquawk] OIL FUTURES EXTEND GAINS, BRENT AND US CRUDE UP BY $3 A BARREL AS IRAN CANCELS FLIGHTS TO GULF NEIGHBORS AND LITTLE SIGN OF PROGRESS IN US-IRAN TALKS
-- 09/24 23:52 [DeItaone] YEMEN'S HOUTHIS SAY THEY ATTACKED SAUDI MILITARY SITES IN JAZAN; NO SAUDI CONFIRMATION
 - 09/24 23:52 [FirstSquawk] YEMEN'S HOUTHIS CLAIM ATTACKS ON SAUDI ARABIA'S JAZAN
 - 09/24 23:52 [financialjuice] Yemen's Houthis claim responsibility for the attacks on Saudi Arabia's Jazan.
 - 09/24 23:52 [FirstSquawk/DeItaone] PEPSICO IS RAISING PRICES ON SOME CHIPS, DIPS AND SODA

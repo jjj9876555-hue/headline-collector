@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 05:35 JST／対象: 09/24 05:35 〜 09/25 05:35 JST（時刻はすべて日本時間）
+生成: 2026-09-25 05:52 JST／対象: 09/24 05:52 〜 09/25 05:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 87 | 09/24 05:51 | 09/25 04:02 | ⚠ 935分（05:51→21:26） |
+| DeItaone | 86 | 09/24 21:26 | 09/25 04:02 | 34分（01:16→01:51） |
 | FirstSquawk | 360 | 09/24 06:44 | 09/25 05:32 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 286 | 09/24 05:39 | 09/25 05:24 | ⚠ 108分（15:47→17:36） |
+| financialjuice | 285 | 09/24 06:22 | 09/25 05:24 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 709 行（統合前 739 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 707 行（統合前 737 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 05:39 [financialjuice] Australia's Prime Minister Albanese: I am aware of AI incidents happening elsewhere.
-- 09/24 05:51 [DeItaone] AUSTRALIA PM ALBANESE: INCIDENT INVOLVED OPENAI AGENT GAINING UNAUTHORIZED ACCESS INTO THE PUBLIC-FACING MEDICARE STATISTICS REPORTING SERVICE PORTAL
 - 09/24 06:22 [financialjuice] North Korea: conducted test launch of upgraded guided rocket artillery shells on Sept. 22 - KCNA
 - 09/24 06:32 [financialjuice] OpenAI: AI agent improperly accessed Australian government files; no evidence patient records were breached
 - 09/24 06:36 [financialjuice/FirstSquawk] Chinese President Xi Jinping arrives for state visit to U.S.: Xinhua
