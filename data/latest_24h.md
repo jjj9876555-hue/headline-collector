@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 02:17 JST／対象: 09/24 02:17 〜 09/25 02:17 JST（時刻はすべて日本時間）
+生成: 2026-09-25 02:32 JST／対象: 09/24 02:32 〜 09/25 02:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 84 | 09/24 02:41 | 09/25 02:16 | ⚠ 935分（05:51→21:26） |
-| FirstSquawk | 358 | 09/24 02:31 | 09/25 01:57 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 289 | 09/24 02:28 | 09/25 02:10 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 357 | 09/24 02:36 | 09/25 01:57 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 289 | 09/24 02:34 | 09/25 02:29 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 710 行（統合前 736 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 709 行（統合前 735 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 02:28 [financialjuice] Microsoft President: It is the right time to invest in Gulf nations. $MSFT
-- 09/24 02:31 [FirstSquawk] 4 COUNTERPARTIES TAKE $461 MLN AT FED REVERSE REPO (PREV $453 MLN, 8 BIDS)
 - 09/24 02:34 [financialjuice] Microsoft's Smith: AI safety won't advance if we rely on two companies, AI should have independent evaluators $MSFT
 - 09/24 02:36 [FirstSquawk] MICROSOFT PRESIDENT: GULF NATIONS PRESENT A TIMELY INVESTMENT OPPORTUNITY
 - 09/24 02:37 [FirstSquawk] MICROSOFT’S SMITH: AI SAFETY REQUIRES INDEPENDENT EVALUATORS; RELYING ON JUST TWO COMPANIES WON’T ADVANCE AI SAFETY
@@ -734,3 +732,4 @@
 - 09/25 02:10 [DeItaone] TRUMP TAKES CHINA'S XI INSIDE PRESIDENTIAL HELICOPTER
 - 09/25 02:10 [financialjuice] Trump takes China's Xi inside the Presidential Helicopter.
 - 09/25 02:16 [DeItaone] FED HIKE EXPECTATIONS SURGE Kalshi now forecasts 2.4 Fed rate hikes this year, up sharply from around 2.1 earlier this week. The jump signals a significant hawkish repricing of Fed expectations. https://t.co/mE21ntaTcP
+- 09/25 02:29 [financialjuice] China's Xi leaves white house after meetings with Trump.

@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 02:17 JST／対象: 09/24 14:17 〜 09/25 02:17 JST（時刻はすべて日本時間）
+生成: 2026-09-25 02:32 JST／対象: 09/24 14:32 〜 09/25 02:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 74 | 09/24 21:26 | 09/25 02:16 | 34分（01:16→01:51） |
-| FirstSquawk | 206 | 09/24 14:22 | 09/25 01:57 | 22分（18:38→19:01） |
-| financialjuice | 177 | 09/24 14:25 | 09/25 02:10 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 205 | 09/24 14:32 | 09/25 01:57 | 22分（18:38→19:01） |
+| financialjuice | 177 | 09/24 14:43 | 09/25 02:29 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 439 行（統合前 461 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 438 行（統合前 460 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 14:22 [FirstSquawk] US JUDGE ORDERS TRUMP TO RESTORE WHITE HOUSE ACCESS FOR CNN, MS NOW AND POLITICO, RULING MEDIA BAN LIKELY UNCONSTITUTIONAL
-- 09/24 14:25 [financialjuice] Iran: UN team coordinates with relevant authorities - ISNA
 - 09/24 14:32 [FirstSquawk] Tencent unveils payment app for international visitors ahead of APEC summit: SCMP
 - 09/24 14:35 [FirstSquawk] Mercedes plans €800 million reduction in German labour costs, WiWo reports
 - 09/24 14:37 [FirstSquawk] L’Oréal launches €650M 7-year bond paying a 4.00% fixed coupon
@@ -463,3 +461,4 @@
 - 09/25 02:10 [DeItaone] TRUMP TAKES CHINA'S XI INSIDE PRESIDENTIAL HELICOPTER
 - 09/25 02:10 [financialjuice] Trump takes China's Xi inside the Presidential Helicopter.
 - 09/25 02:16 [DeItaone] FED HIKE EXPECTATIONS SURGE Kalshi now forecasts 2.4 Fed rate hikes this year, up sharply from around 2.1 earlier this week. The jump signals a significant hawkish repricing of Fed expectations. https://t.co/mE21ntaTcP
+- 09/25 02:29 [financialjuice] China's Xi leaves white house after meetings with Trump.
