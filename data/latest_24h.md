@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 17:45 JST／対象: 09/23 17:45 〜 09/24 17:45 JST（時刻はすべて日本時間）
+生成: 2026-09-24 17:59 JST／対象: 09/23 17:59 〜 09/24 17:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
 | FirstSquawk | 322 | 09/23 18:06 | 09/24 17:43 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 263 | 09/23 18:00 | 09/24 17:43 | ⚠ 108分（15:47→17:36） |
+| financialjuice | 264 | 09/23 18:00 | 09/24 17:50 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 648 行（統合前 670 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 649 行（統合前 671 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -672,3 +672,4 @@
 - 09/24 17:37 [financialjuice] Supreme Leader's Adviser Safavi:: Conflict with US could expand further - Fars
 - 09/24 17:43 [financialjuice] Fed's Williams: AI gains could boost us productivity like in 1996-2005, other gains reflect stronger business formation.
 - 09/24 17:43 [FirstSquawk] Iran Warns War Could Expand to Indian Ocean Iranian adviser to Supreme Leader Ali Khamenei, Yahya Rahim Safavi, warned that any renewed US or Israeli attacks on Iranian national centers or interests could lead to a broader expansion of the …
+- 09/24 17:50 [financialjuice] Fed's Williams: I view AI boom as more of a traditional demand shock, question on how long chip supply challenges last.

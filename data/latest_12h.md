@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 17:45 JST／対象: 09/24 05:45 〜 09/24 17:45 JST（時刻はすべて日本時間）
+生成: 2026-09-24 17:59 JST／対象: 09/24 05:59 〜 09/24 17:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 1 | 09/24 05:51 | 09/24 05:51 | - |
+| DeItaone | 0 | - | - | - |
 | FirstSquawk | 150 | 09/24 06:44 | 09/24 17:43 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 95 | 09/24 06:22 | 09/24 17:43 | ⚠ 108分（15:47→17:36） |
+| financialjuice | 96 | 09/24 06:22 | 09/24 17:50 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 244 行（統合前 246 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 05:51 [DeItaone] AUSTRALIA PM ALBANESE: INCIDENT INVOLVED OPENAI AGENT GAINING UNAUTHORIZED ACCESS INTO THE PUBLIC-FACING MEDICARE STATISTICS REPORTING SERVICE PORTAL
 - 09/24 06:22 [financialjuice] North Korea: conducted test launch of upgraded guided rocket artillery shells on Sept. 22 - KCNA
 - 09/24 06:32 [financialjuice] OpenAI: AI agent improperly accessed Australian government files; no evidence patient records were breached
 - 09/24 06:36 [financialjuice/FirstSquawk] Chinese President Xi Jinping arrives for state visit to U.S.: Xinhua
@@ -268,3 +267,4 @@
 - 09/24 17:37 [financialjuice] Supreme Leader's Adviser Safavi:: Conflict with US could expand further - Fars
 - 09/24 17:43 [financialjuice] Fed's Williams: AI gains could boost us productivity like in 1996-2005, other gains reflect stronger business formation.
 - 09/24 17:43 [FirstSquawk] Iran Warns War Could Expand to Indian Ocean Iranian adviser to Supreme Leader Ali Khamenei, Yahya Rahim Safavi, warned that any renewed US or Israeli attacks on Iranian national centers or interests could lead to a broader expansion of the …
+- 09/24 17:50 [financialjuice] Fed's Williams: I view AI boom as more of a traditional demand shock, question on how long chip supply challenges last.
