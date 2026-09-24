@@ -7,54 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 03:53 JST／対象: 09/24 21:53 〜 09/25 03:53 JST（時刻はすべて日本時間）
+生成: 2026-09-25 04:15 JST／対象: 09/24 22:15 〜 09/25 04:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 67 | 09/24 21:54 | 09/25 03:51 | 34分（01:16→01:51） |
-| FirstSquawk | 111 | 09/24 21:53 | 09/25 03:37 | 39分（01:57→02:36） |
-| financialjuice | 119 | 09/24 21:54 | 09/25 03:28 | 30分（02:29→03:00） |
+| DeItaone | 65 | 09/24 22:24 | 09/25 04:02 | 34分（01:16→01:51） |
+| FirstSquawk | 107 | 09/24 22:19 | 09/25 04:14 | 39分（01:57→02:36） |
+| financialjuice | 107 | 09/24 22:31 | 09/25 04:03 | 30分（02:29→03:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 286 行（統合前 301 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 271 行（統合前 284 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 21:53 [FirstSquawk] FED'S HAMMACK SAYS PRICE STABILITY IS RESPONSIBILITY OF CENTRAL BANKS
-- 09/24 21:54 [DeItaone] FED'S HAMMACK: INFLATION RISK TILTED TOWARD UPSIDE
-- 09/24 21:54 [financialjuice] Fed's Hammack: Inflation remains elevated amid solid output demand.
-- 09/24 21:54 [financialjuice] Fed's Hammack: Inflation risk is tilted toward upside
-- 09/24 21:54 [financialjuice] Fed's Hammack: Supply shocks are a notable challenge for fed policy right now.
-- 09/24 21:55 [financialjuice] Fed's Hammack: The longer inflation remains high, the harder it is to bring it back to target
-- 09/24 21:55 [FirstSquawk] HAMMACK: INFLATION REMAINS ELEVATED AMID SOLID OUTPUT DEMAND
-- 09/24 21:55 [FirstSquawk] HAMMACK: INFLATION RISK TILTED TOWARD UPSIDE
-- 09/24 21:56 [FirstSquawk] HAMMACK: SUPPLY SHOCKS A NOTABLE CHALLENGE FOR FED POLICY RIGHT NOW
-- 09/24 21:56 [FirstSquawk] HAMMACK: THE LONGER INFLATION REMAINS HIGH, THE HARDER IT IS TO BRING IT BACK TO TARGET
-- 09/24 21:56 [financialjuice] Fed's Hammack: The labor market remains close to maximum employment.
-- 09/24 21:56 [financialjuice] Fed's Hammack: Inflation outlook remains highly uncertain
-- 09/24 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 23 vs 3.88% September 22.
-- 09/24 22:01 [FirstSquawk] AMAZON TO SPEND ~$100M ON ROBOTICS-MANUFACTURING FACILITY: WSJ
-- 09/24 22:01 [FirstSquawk] AMAZON TO OPEN OVER $100M ROBOTICS PLANT IN INDIANA: WSJ
-- 09/24 22:01 [FirstSquawk] POLISH AIR FORCE ENDS OPERATIONS RELATED TO RUSSIAN STRIKES ON UKRAINE
-- 09/24 22:02 [DeItaone/financialjuice] GOOGLE, OPENAI AND ANTHROPIC AI SAFETY GROUP TAKES SHAPE- THE INFORMATION
-- 09/24 22:02 [financialjuice] Google, OpenAI, and Anthropic's AI Safety Group takes shape - The Information. $GOOGL
-- 09/24 22:02 [FirstSquawk] GOOGLE, OPENAI AND ANTHROPIC AI SAFETY GROUP TAKES SHAPE – INFORMATION
-- 09/24 22:03 [DeItaone] A NEW GOOGLE, OPENAI, ANTHROPIC AI SAFETY STANDARDS BODY HAS A TENTATIVE NAME: STANDARDS AUTHORITY FOR FRONTIER AI- THE INFORMATION GOOGLE, OPENAI AND ANTHROPIC AI SAFETY GROUP PLANS TO OPERATE INDEPENDENTLY, FILLING A GOVERNMENT REGULATORY…
-- 09/24 22:04 [FirstSquawk] PARAMOUNT SKYDANCE CORP: LAUNCHES SYNDICATION FOR $7.50 BLN INCREMENTAL TERM B FACILITY
-- 09/24 22:06 [DeItaone] U.S. WILL CONTINUE TO PROVIDE CRITICAL BUT MORE LIMITED CAPABILITIES TO NATO, GRYNKEWICH SAYS
-- 09/24 22:07 [financialjuice] NATO Commander Grynkewich: US will continue to provide critical but more limited capabilities to NATO.
-- 09/24 22:07 [financialjuice] NATO Supreme Allied Commander Grynkewich: US Government has stated ironclad commitment to NATO's Article 5.
-- 09/24 22:08 [FirstSquawk/financialjuice] RUSSIA RAISES 2026 OIL EXPORT OUTLOOK TO 244.7M TONS - IFX
-- 09/24 22:08 [financialjuice] Next Thursday, Google is sending experimental satellite into orbit that will have enough computing power to answer simple AI queries from space - NYT. $GOOGL
-- 09/24 22:08 [financialjuice/FirstSquawk] NATO's Grynkewich: There is no predetermined outcome to the US' review of its troop deployments in Europe
-- 09/24 22:09 [financialjuice] NATO Commander Grynkewich: NATO is stepping up information and intelligence sharing in response to hybrid attacks.
-- 09/24 22:09 [financialjuice] Russian Economy Ministry sees Urals oil price at $61.2/bbl in 2026 (previous forecast: $59/bbl).
-- 09/24 22:09 [financialjuice] Fed's Barkin: Capacity utilization good, but not overheated
-- 09/24 22:12 [FirstSquawk] NATO'S GRYNKEWICH SAYS DANISH INTELLIGENCE ASSESSMENT OF RUSSIA THREATS ARE 'PRETTY BALANCED'
 - 09/24 22:19 [FirstSquawk] INDIAN OIL MINISTER SAYS THERE ARE NO PLANS TO CUT FUEL PRODUCT EXPORTS
 - 09/24 22:22 [FirstSquawk] THREE TANKERS LINKED TO IRAN, HOLDING ALMOST SIX MILLION BARRELS OF IRANIAN CRUDE, WERE CAPTURED BY THE UNITED STATES IN THE ATLANTIC, ACCORDING TO AFP AND VESSEL-TRACKING DATA.
 - 09/24 22:22 [FirstSquawk] TANKERTRACKERS REPORTED A CARGO WORTH ALMOST $600 MILLION IS ON ITS WAY TO THE UNITED STATES. THE MAJESTIC X AND TIFANI, TWO VESSELS, ARE LOCATED OFF BRAZIL'S NORTHERN COAST, AS PER KPLER DATA. BOTH VESSELS WERE CAPTURED BY THE US IN APRIL …
@@ -310,3 +279,19 @@
 - 09/25 03:36 [FirstSquawk] NETANYAHU TO MAMDANI: “YOU CAN’T SILENCE ME”; SAYS ISRAEL “PREVENTED GENOCIDE”
 - 09/25 03:37 [FirstSquawk] NETANYAHU: ACCUSES SOME WESTERN EUROPEAN LEADERS OF “SUCCUMBING TO ANTI-SEMITIC MOBS”
 - 09/25 03:51 [DeItaone] SOME 60 COMMERCIAL VESSELS TRANSITED THE STRAIT OF HORMUZ ON WEDNESDAY CARRYING THE HIGHEST DAILY VOLUME OF CRUDE SINCE EARLY JULY, US DEFENSE OFFICIAL TELLS REUTERS
+- 09/25 03:55 [DeItaone] ABOUT 40 OF WEDNESDAY'S VESSELS THAT TRANSITED THE STRAIT OF HORMUZ COORDINATED WITH THE US MILITARY FOR PROTECTION, US OFFICIAL TELLS REUTERS
+- 09/25 03:55 [financialjuice] Brent crude futures settle at $106.60/bbl, up $3.52, 3.41%.
+- 09/25 03:55 [financialjuice] US Defense Official: Some 60 commercial vessels transited the strait of hormuz on Wednesday carrying the highest daily volume of Crude since early July.
+- 09/25 03:55 [financialjuice] France’s President Macron: I want the G7 to discuss the release of strategic oil.
+- 09/25 03:57 [FirstSquawk] US DEFENSE OFFICIAL: ABOUT 40 OF WEDNESDAY'S VESSELS THAT TRANSITED THE STRAIT OF HORMUZ COORDINATED WITH THE US MILITARY FOR PROTECTION.
+- 09/25 03:57 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 2.66% HIGHER AT $94.61/BBL, UP $2.45
+- 09/25 03:57 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 3.41% HIGHER AT $106.60/BBL, UP $3.52
+- 09/25 04:01 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU SAYS THE IRANIAN REGIME IS 'ESPECIALLY AFRAID' WHEN ITS PEOPLE HAVE STARLINK, WHICH HE SAYS 'ALLOWS PEOPLE TO ACCESS TRUTH', TELLING TRUMP HE WILL LEAVE THE DEVICE WITH HIM TO GIVE TO THE IRANIAN DELEGATION …
+- 09/25 04:01 [FirstSquawk] NETANYAHU ASKS THE PROTESTERS OUTSIDE AND 'THEIR HYPOCRITICAL DELEGATES WHO LEFT US ALL' WHERE THEY WERE 'WHEN THE IRANIAN TYRANTS BUTCHERED AND MAIMED TENS OF THOUSANDS OF UNARMED IRANIAN CIVILIANS'.
+- 09/25 04:01 [FirstSquawk] NETANYAHU SAYS THAT 'DESPITE YOUR SILENCE, DESPITE YOUR HYPOCRISY, IT'S ONLY A MATTER OF TIME' BEFORE 'SOMETHING INCREDIBLE WILL HAPPEN' IN IRAN, DECLARING THAT 'THE POWER OF THE PEOPLE WILL OVERCOME THE PEOPLE IN POWER' AND THAT 'ONE DAY..…
+- 09/25 04:01 [FirstSquawk] ISRAELI PRIME MINISTER NETANYAHU BECAME THE FIRST WORLD LEADER TO USE TRUMP'S PREFERRED TERM 'SUPERIOR INTELLIGENCE' FOR AI, AND MENTIONED HASAN PIKER DURING HIS UNGA SPEECH WHILE ATTACKING MAYOR MAMDANI
+- 09/25 04:02 [DeItaone] YEMEN'S HOUTHIS SAY THEY ATTACKED SAUDI ARAMCO FACILITIES IN YANBU
+- 09/25 04:02 [financialjuice] Yemen's Houthis: Attacked Saudi Aramco facilities in Yanbu.
+- 09/25 04:02 [FirstSquawk] YEMEN'S HOUTHIS SAY THEY ATTACKED SAUDI ARAMCO FACILITIES IN YANBU, AS WELL AS WHAT THEY CALLED A 'SENSITIVE TARGET' IN THE SAUDI CAPITAL RIYADH
+- 09/25 04:03 [financialjuice] Yemen's Houthis: Attacked a ‘sensitive target’ in Saudi Capital Riyadh.
+- 09/25 04:14 [FirstSquawk] MONEY MARKETS NOW PRICE THREE FED HIKES OVER THE NEXT YEAR AS PERSISTENT INFLATION, GOVERNMENT SPENDING AND AI-RELATED CORPORATE BORROWING DRIVE BOND VOLATILITY; THE S&P 500 WAS LITTLE CHANGED, DOW FELL 0.3%, WTI ROSE 2.9% TO $94.83 AND GOL…
