@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 12:44 JST／対象: 09/23 12:44 〜 09/24 12:44 JST（時刻はすべて日本時間）
+生成: 2026-09-24 12:59 JST／対象: 09/23 12:59 〜 09/24 12:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 304 | 09/23 12:48 | 09/24 12:44 | ⚠ 91分（06:44→08:16） |
+| FirstSquawk | 306 | 09/23 13:00 | 09/24 12:57 | ⚠ 91分（06:44→08:16） |
 | financialjuice | 275 | 09/23 13:04 | 09/24 12:41 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 642 行（統合前 664 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 644 行（統合前 666 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 12:48 [FirstSquawk] Singapore dollar eases ahead of August inflation figures - WSJ
-- 09/23 12:53 [FirstSquawk] AutoZone target price reduced to $3,400 from $3,500 by TD Cowen
 - 09/23 13:00 [FirstSquawk] Jefferies trims Haleon price target to 400p from 410p
 - 09/23 13:02 [FirstSquawk] Novo considers upgrading its US listing, FT reports
 - 09/23 13:03 [FirstSquawk] Novo may upgrade New York listing as part of push to boost US profile - FT
@@ -666,3 +664,7 @@
 - 09/24 12:35 [FirstSquawk] Hong Kong improves property market transparency ranking, remains behind Singapore - SCMP
 - 09/24 12:41 [financialjuice] PAM secures most seats in Morocco's parliamentary election
 - 09/24 12:44 [FirstSquawk] Vietnam’s Vinhomes to raise $308M through domestic bond issuance
+- 09/24 12:44 [FirstSquawk] Canada’s Carney prepares for potential U.S.-led military invasion, according to CTV
+- 09/24 12:46 [FirstSquawk] Vinhomes: Bond issuance to feature maturities of up to 2 years with fixed and floating rates
+- 09/24 12:54 [FirstSquawk] AI leaders caution U.N. over security risks from increasingly powerful systems - KYODO
+- 09/24 12:57 [FirstSquawk] 10-year JGB yield jumps 9 bps to 3.065%

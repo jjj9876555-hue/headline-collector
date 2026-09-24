@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 12:44 JST／対象: 09/24 00:44 〜 09/24 12:44 JST（時刻はすべて日本時間）
+生成: 2026-09-24 12:59 JST／対象: 09/24 00:59 〜 09/24 12:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/24 00:48 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 148 | 09/24 00:52 | 09/24 12:44 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 130 | 09/24 00:48 | 09/24 12:41 | ⚠ 68分（11:33→12:41） |
+| DeItaone | 18 | 09/24 01:00 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 150 | 09/24 01:15 | 09/24 12:57 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 128 | 09/24 01:02 | 09/24 12:41 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 294 行（統合前 298 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 293 行（統合前 297 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 00:48 [DeItaone] BESSENT AFTER MEETING WITH CHINA'S HE: WE'RE FINE WITH EITHER CONTINUING BUSAN ARRANGEMENT OR EXAMINING BIGGER DEAL
-- 09/24 00:48 [financialjuice] US Treasury Secretary Bessent, after meeting with China's He: We're fine with either continuing the Busan arrangement or examining a bigger deal.
-- 09/24 00:50 [financialjuice] Lithuanian Defence Minister: Lithuania, Latvia, and Estonia have asked for the European Union's support for drone defenses.
-- 09/24 00:52 [FirstSquawk] 30-YEAR TREASURY YIELD SURGES ABOVE 5.37%, HITS HIGHEST LEVEL SINCE 2004 U.S. 30-year Treasury yield has climbed above 5.37%, putting it on track for its highest daily settlement since June 2004. The move signals a sharp rise in long-term U…
-- 09/24 00:54 [FirstSquawk] IRAN DEMANDED US TO ACCEPT HORMUZ ROUTE AGREED WITH OMAN
 - 09/24 01:00 [DeItaone] IRAN HARDLINERS ATTACK FOREIGN MINISTER OVER U.S. CONTACTS Iranian hardline outlets are escalating criticism of Foreign Minister Abbas Araghchi after Iranian officials reportedly met U.S. envoy Steve Witkoff in New York. IRGC-linked Tasnim …
 - 09/24 01:02 [financialjuice] Israel's N12 News: The "Together" party leader Bennett calls on Israeli PM Netanyahu to declare Qatar an enemy state during UN General Assembly speech, coalition and opposition would support move.
 - 09/24 01:04 [financialjuice] Senators aim to fast-track Chinese vehicle ban legislation this week as China's Xi visits Washington - Document.
@@ -318,3 +313,7 @@
 - 09/24 12:35 [FirstSquawk] Hong Kong improves property market transparency ranking, remains behind Singapore - SCMP
 - 09/24 12:41 [financialjuice] PAM secures most seats in Morocco's parliamentary election
 - 09/24 12:44 [FirstSquawk] Vietnam’s Vinhomes to raise $308M through domestic bond issuance
+- 09/24 12:44 [FirstSquawk] Canada’s Carney prepares for potential U.S.-led military invasion, according to CTV
+- 09/24 12:46 [FirstSquawk] Vinhomes: Bond issuance to feature maturities of up to 2 years with fixed and floating rates
+- 09/24 12:54 [FirstSquawk] AI leaders caution U.N. over security risks from increasingly powerful systems - KYODO
+- 09/24 12:57 [FirstSquawk] 10-year JGB yield jumps 9 bps to 3.065%
