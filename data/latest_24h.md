@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 01:27 JST／対象: 09/24 01:27 〜 09/25 01:27 JST（時刻はすべて日本時間）
+生成: 2026-09-25 01:44 JST／対象: 09/24 01:44 〜 09/25 01:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 79 | 09/24 01:59 | 09/25 01:16 | ⚠ 935分（05:51→21:26） |
-| FirstSquawk | 364 | 09/24 01:31 | 09/25 01:27 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 299 | 09/24 01:30 | 09/25 01:20 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 359 | 09/24 01:48 | 09/25 01:42 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 294 | 09/24 01:45 | 09/25 01:28 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 723 行（統合前 745 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 713 行（統合前 735 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 01:30 [financialjuice] IMF: The Middle East war since late February has significantly altered global growth trajectory through energy, commodity and supply-chain disruptions.
-- 09/24 01:30 [financialjuice] IMF: Global public debt was already near record highs when Middle East war began.
-- 09/24 01:30 [financialjuice] IMF: Supportive fiscal policies, private investment and potential AI productivity gains could support medium-term global growth.
-- 09/24 01:30 [financialjuice] US Energy Secretary Wright: I see Natural Gas as 'America's Energy Super Power'.
-- 09/24 01:31 [FirstSquawk] WRIGHT SEES NATURAL GAS PRICING FLATTISH FOR NEXT 5-10 YEARS
-- 09/24 01:32 [financialjuice] Microsoft is expanding investments in the Middle East, investing more than $10b by 2030. $MSFT
-- 09/24 01:32 [FirstSquawk] WRIGHT SAYS DON'T THINK WILL SEE BLANKET BAN ON DIESEL
-- 09/24 01:33 [FirstSquawk] MICROSOFT TO INVEST MORE THAN $10B IN MIDDLE EAST BY 2030
-- 09/24 01:36 [financialjuice] US Energy Secretary Wright: China is a 'swing importer' of oil in the world market.
-- 09/24 01:36 [FirstSquawk] WRIGHT: CHINA IS 'SWING IMPORTER' OF OIL IN THE WORLD MARKET
-- 09/24 01:43 [FirstSquawk] TRUMP ADMINISTRATION BACKING OFF NIH GRANT ORDER AMID PUSHBACK - SEMAFOR
-- 09/24 01:44 [FirstSquawk] BOEING AND TURKISH AIRLINES FINALIZE ORDER FOR UP TO 150 737 MAX JETS
 - 09/24 01:45 [financialjuice] Fed bids for 5-year notes total $10.5 bln.
 - 09/24 01:46 [financialjuice] IMF's Managing Director Georgieva: The medium-term outlook for the global economy is tepid.
 - 09/24 01:46 [financialjuice] IMF Annual Report
@@ -747,3 +735,5 @@
 - 09/25 01:20 [financialjuice] US and Iranian negotiators in New York are exploring a phased path out of war that would involve Tehran reopening the Strait of Hormuz and Washington lifting its economic blockade of Iran, sources close to the talks said. The strait has bec…
 - 09/25 01:22 [FirstSquawk] TRUMP'S ADMINISTRATION ANNOUNCES MEDIA ACCESS TO THE WHITE HOUSE HAS BEEN RESTORED.
 - 09/25 01:27 [FirstSquawk] TRUMP CONSIDERS ALLOWING CHINESE EV PRODUCTION IN US AMID XI TALKS - NBC
+- 09/25 01:28 [financialjuice] EU needs 'decisive change' in 'scale and pace' of defence efforts to be ready to defend against Russia by 2030 - Executive Summary of Report for EU Leaders.
+- 09/25 01:42 [FirstSquawk] WHITE HOUSE ASKS OPENAI, ANTHROPIC TO HOLD NEW MODELS FROM UK - POLITICO
