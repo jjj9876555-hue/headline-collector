@@ -7,51 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 04:59 JST／対象: 09/24 22:59 〜 09/25 04:59 JST（時刻はすべて日本時間）
+生成: 2026-09-25 05:19 JST／対象: 09/24 23:19 〜 09/25 05:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 62 | 09/24 22:59 | 09/25 04:02 | 34分（01:16→01:51） |
-| FirstSquawk | 93 | 09/24 23:01 | 09/25 04:51 | 39分（01:57→02:36） |
-| financialjuice | 97 | 09/24 23:00 | 09/25 04:51 | 30分（02:29→03:00） |
+| DeItaone | 56 | 09/24 23:20 | 09/25 04:02 | 34分（01:16→01:51） |
+| FirstSquawk | 95 | 09/24 23:24 | 09/25 05:17 | 39分（01:57→02:36） |
+| financialjuice | 88 | 09/24 23:19 | 09/25 05:18 | 30分（02:29→03:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 243 行（統合前 258 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 229 行（統合前 245 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 22:59 [DeItaone] CNN, MS NOW, POLITICO REQUEST IMMEDIATE COURT HEARING AFTER BEING BLOCKED FROM WHITE HOUSE GROUNDS ON THURSDAY -FILING
-- 09/24 23:00 [DeItaone] US AUG SINGLE-FAMILY HOME SALES 0.684 MLN UNIT ANN. RATE, (CONS 0.615 MLN) US AUG SINGLE-FAMILY HOME SALES +6.4%
-- 09/24 23:00 [financialjuice] US NEW HOME SALES CHANGE MOM ACTUAL 6.4% (FORECAST 1.3%, PREVIOUS -10.5%) $MACRO
-- 09/24 23:00 [financialjuice] US NEW HOME SALES - UNITS ACTUAL 0.684M (FORECAST 0.6155M, PREVIOUS 0.607M) $MACRO
-- 09/24 23:01 [financialjuice] US New Home Sales August Report
-- 09/24 23:01 [FirstSquawk] US New Home Sales Aug: 684K (est 616K; prev 607K; prev R 643K)
-- 09/24 23:05 [DeItaone] FED'S PAULSON SAYS SEPTEMBER'S INFLATION REPORTS DROVE RATE HIKE
-- 09/24 23:06 [FirstSquawk] SENATE WILL RETURN TO DC NEXT WEEK, SENATE REPUBLICAN AIDE SAYS
-- 09/24 23:08 [financialjuice] Trump greets China’s President Xi at the White House ahead of bilateral talks.
-- 09/24 23:10 [financialjuice] ❗ Fed's Paulson: The US central bank may need to raise interest rates again to lower inflation.
-- 09/24 23:10 [financialjuice] Fed's Paulson: September rate hike helped move policy to better inflation-fighting posture.
-- 09/24 23:10 [financialjuice] Fed's Paulson: I will support doing what's needed to get inflation back to 2%.
-- 09/24 23:10 [DeItaone] FED’S PAULSON SIGNALS ANOTHER RATE HIKE Fed’s Paulson says the central bank may need to raise rates again as underlying inflation remains “stubbornly high.” She said September’s hike put policy in a better inflation-fighting position and pl…
-- 09/24 23:10 [financialjuice] Fed's Paulson: The best you can say about inflation is that it has not gotten worse.
-- 09/24 23:10 [FirstSquawk] FED'S PAULSON: US CENTRAL BANK MAY NEED TO RAISE INTEREST RATES AGAIN TO LOWER INFLATION || SEPTEMBER RATE HIKE HELPED MOVE POLICY TO BETTER INFLATION-FIGHTING POSTURE
-- 09/24 23:11 [financialjuice] Fed's Paulson: The AI buildout is helping drive inflation pressures.
-- 09/24 23:11 [financialjuice] Fed's Paulson: Underlying inflation remains stubbornly high.
-- 09/24 23:11 [FirstSquawk] FED'S PAULSON: INFLATION BALANCE OF RISKS SHIFTED AHEAD OF SEPTEMBER POLICY MEETING || AI BUILDOUT HELPING DRIVE INFLATION PRESSURES
-- 09/24 23:11 [FirstSquawk] FED'S PAULSON SAYS SHE WILL SUPPORT DOING WHAT'S NEEDED TO GET INFLATION BACK TO 2% || BEST YOU CAN SAY ABOUT INFLATION IS THAT IT HAS NOT GOTTEN WORSE
-- 09/24 23:11 [financialjuice] Fed's Paulson: The economy is resilient, and showing signs of increased momentum.
-- 09/24 23:14 [FirstSquawk] ECB: ISABEL SCHNABEL TO RESIGN FROM THE BOARD
-- 09/24 23:14 [DeItaone] ECB: ISABEL SCHNABEL TO RESIGN FROM THE BOARD ECB: SHE WILL STEP DOWN FROM HER POSITION ON 3 JANUARY 2027.
-- 09/24 23:14 [FirstSquawk] ECB: SHE WILL STEP DOWN FROM HER POSITION ON 3 JANUARY 2027.
-- 09/24 23:15 [financialjuice] ECB: ECB's Schnabel is going to be appointed to the IMF financial counsellor and director of the monetary and capital markets department, she will step down from her ECB position on 3rd January 2027.
-- 09/24 23:17 [financialjuice] Fear and Greed Index: 35/100 = Fear
-- 09/24 23:18 [financialjuice] Crypto Fear and Greed Index: 71/100 = Greed
-- 09/24 23:18 [DeItaone] SAUDI EAST-WEST PIPELINE IS BUILDING UP CRUDE VOLUMES, TANKER LOADING YET TO RESUME AT YANBU, SOURCES SAY
-- 09/24 23:18 [FirstSquawk] SAUDI EAST-WEST PIPELINE IS INCREASING CRUDE VOLUMES, BUT TANKER LOADING AT YANBU HAS NOT STARTED AGAIN, SOURCES REPORT.
 - 09/24 23:19 [financialjuice] Saudi East-West Pipeline is building up crude volumes, tanker loading yet to resume at Yanbu - Sources.
 - 09/24 23:20 [financialjuice] Trump and the President of China Deliver Remarks - WATCH LIVE
 - 09/24 23:20 [financialjuice] BoE Breeden: We cannot ignore moves in the OIS interest rate futures market, need to understand what's going on.
@@ -267,3 +239,17 @@
 - 09/25 04:22 [financialjuice] Friday FX Options Expiries
 - 09/25 04:51 [financialjuice] ❗ MOC IMBALANCE S&P 500: 2025.2 MLN NASDAQ 100: 1561.7 MLN DOW 30: 798.0 MLN MAG 7: 810.2 MLN $MACRO
 - 09/25 04:51 [FirstSquawk] SOUTH KOREA PRESIDENT LEE: SOUTH KOREA TO STRENGTHEN MONITORING OF COUNTERFEIT & ILLICIT GOODS IMPORTS
+- 09/25 05:01 [FirstSquawk] NASDAQ CLOSES 0.04% HIGHER AT 26,945.85, UP 9.81 POINTS S&P 500 CLOSES 0.03% LOWER AT 7,703.93, DOWN 2.10 POINTS DOW JONES CLOSES 0.29% LOWER AT 51,359.75, DOWN 151.84 POINTS
+- 09/25 05:01 [FirstSquawk] NYSE SHORT INTEREST RISES 2.7% TO 22.78 BILLION SHARES IN MID-SEPTEMBER
+- 09/25 05:04 [financialjuice/FirstSquawk] Anthropic strikes $12 billion deal with Akamai for AI computing.
+- 09/25 05:13 [financialjuice] China's Xi: China and the US are major ai powers, we can cooperate.
+- 09/25 05:13 [FirstSquawk] XI CALLS ON CHINA & US TO KEEP AI TECHNOLOGY UNDER HUMAN CONTROL — XINHUA
+- 09/25 05:14 [financialjuice] China's Xi: We can continue with AI dialogs.
+- 09/25 05:14 [FirstSquawk] FRENCH PRESIDENT MACRON SAYS FRANCE WILL DEPLOY TROOPS, RADARS AND AIR DEFENSE SYSTEMS TO PROTECT SAUDI ARABIA'S YANBU OIL TERMINAL, DAMAGED BY A HOUTHI ATTACK, SAYING IT IS 'NOT TO ENGAGE IN ANY CONFLICT, BUT TO PROTECT THIS SITE', WHICH W…
+- 09/25 05:14 [FirstSquawk] FRENCH PRESIDENT MACRON SAYS ON TRUMP'S THREAT TO BAN U.S. DIESEL EXPORTS THAT 'YOU NEVER HAVE GUARANTEES WITH DONALD TRUMP. NEVER', CALLING A POTENTIAL BAN 'CATASTROPHIC', AND SAYS RUSSIA COULD BE PREPARING TO MOBILIZE AROUND 300,000 ADDIT…
+- 09/25 05:14 [FirstSquawk] FRENCH PRESIDENT MACRON PROPOSES A 'DOUBLE MORATORIUM' UNDER WHICH UKRAINE STOPS STRIKING RUSSIAN REFINERIES AND RUSSIA COMMITS NOT TO STRIKE UKRAINE'S ENERGY SYSTEM AND CIVILIAN INFRASTRUCTURE, WARNING THAT RUSSIA 'CONSIDERS EUROPE TO BE U…
+- 09/25 05:15 [FirstSquawk] CHINESE PRESIDENT XI: CHINA & US ARE MAJOR AI POWERS AND CAN COOPERATE; SAYS AI DIALOGUE CAN CONTINUE
+- 09/25 05:16 [FirstSquawk] CHINESE PRESIDENT XI CALLS ON CHINA & US TO KEEP AI TECHNOLOGY UNDER HUMAN CONTROL — XINHUA
+- 09/25 05:16 [financialjuice] China's Xi: New arrangement after China-US trade talks is good news.
+- 09/25 05:17 [FirstSquawk] COSTCO Q4 NET SALES ROSE TO $93.87 BILLION, WITH TOTAL REVENUE AT $95.72 BILLION AND NET INCOME OF $3.0 BILLION; EPS CAME IN AT $6.75 VERSUS $6.56 EXPECTED. || ADJUSTED COMPARABLE SALES GREW 6.7%, WHILE EPS INCLUDED A $0.15 BENEFIT FROM IEE…
+- 09/25 05:18 [financialjuice] $COST Costco Q4 Earnings EPS $6.75, est. $6.53 Total Revenue $95.72B, est. $94.92B Total Company Comp Sales ex-gas, FX +6.7%, est. +6.44% Total Company Comp Sales incl. gas, FX +9.4%, est. +8.37%
