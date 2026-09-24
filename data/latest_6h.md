@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 11:17 JST／対象: 09/24 05:17 〜 09/24 11:17 JST（時刻はすべて日本時間）
+生成: 2026-09-24 11:33 JST／対象: 09/24 05:33 〜 09/24 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 2 | 09/24 05:25 | 09/24 05:51 | 25分（05:25→05:51） |
-| FirstSquawk | 69 | 09/24 05:25 | 09/24 11:14 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 75 | 09/24 05:25 | 09/24 11:17 | 42分（05:39→06:22） |
+| DeItaone | 1 | 09/24 05:51 | 09/24 05:51 | - |
+| FirstSquawk | 72 | 09/24 06:44 | 09/24 11:32 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 72 | 09/24 05:33 | 09/24 11:17 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 144 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 05:25 [financialjuice] Australia's PM Albanese: OpenAI model hacked Services Australia
-- 09/24 05:25 [FirstSquawk] U.S. ENVOY KRATSIOS TOLD THE UN SECURITY COUNCIL THAT THE U.S. 'REJECTS ANY ATTEMPTS TO CONSTRUCT A GLOBAL SCHEME TO CONTROL AI', SAYING THERE IS 'NO REASON TO PAUSE RAPIDLY ADVANCING AI OR CONSTRAIN IT WITH GLOBAL GOVERNANCE' AND THAT 'YOU…
-- 09/24 05:25 [FirstSquawk] FRENCH FOREIGN MINISTER SAID THE INTERNATIONAL COMMUNITY NEEDS TO ESTABLISH A COMMON FRAMEWORK TO MANAGE AI RISKS, WHILE BRITAIN'S FOREIGN SECRETARY SAID THE WORLD 'CANNOT IGNORE WARNINGS FROM AI LEADERS'.
-- 09/24 05:25 [DeItaone] US JUDGE DECIDING CASE OVER MEDIA BAN AT THE WHITE HOUSE ENDS HEARING WITHOUT SAYING WHEN HE WOULD RULE
-- 09/24 05:26 [FirstSquawk] U.S. STOCKS AND TREASURIES FELL AS BRENT CRUDE SETTLED AROUND $103 A BARREL, FUELING INFLATION FEARS, WHILE STRONGEST U.S. BUSINESS ACTIVITY SINCE 2021 AND A WEAK $70 BILLION FIVE-YEAR TREASURY AUCTION PUSHED YIELDS TOWARD NEAR TWO-DECADE H…
-- 09/24 05:26 [FirstSquawk] MARKETS INCREASINGLY PRICE TWO MORE FED RATE HIKES AFTER GOVERNOR MICHAEL BARR SAID FURTHER TIGHTENING MAY BE NEEDED, WHILE IRAN’S PRESIDENT SAID TEHRAN WILL NOT ALLOW FREEDOM OF NAVIGATION THROUGH THE STRAIT OF HORMUZ UNDER SANCTIONS AND A…
-- 09/24 05:31 [financialjuice] UK's Healey: I spoke with US Treasury Secretary Bessent today - Post on X.
-- 09/24 05:32 [financialjuice] UK's Chancellor Healey spoke to Bessent on stepping up pressure on Iran and how to work together to drive growth in both nations.
 - 09/24 05:33 [financialjuice] OpenAI Agents accessed Australia's Medicare statistics - News24.
 - 09/24 05:39 [financialjuice] Australia's Prime Minister Albanese: I am aware of AI incidents happening elsewhere.
 - 09/24 05:51 [DeItaone] AUSTRALIA PM ALBANESE: INCIDENT INVOLVED OPENAI AGENT GAINING UNAUTHORIZED ACCESS INTO THE PUBLIC-FACING MEDICARE STATISTICS REPORTING SERVICE PORTAL
@@ -168,3 +160,10 @@
 - 09/24 11:13 [FirstSquawk] VietJet Air plans Starlink deployment across 120 aircraft, future fleet
 - 09/24 11:14 [FirstSquawk] VietJet Air signs Starlink deal to bring high-speed internet to flights across global network
 - 09/24 11:17 [financialjuice] Google nears launch of flagship Gemini 4 AI model: The Information
+- 09/24 11:18 [FirstSquawk] Google close to unveiling next-generation Gemini 4 AI model, The Information says
+- 09/24 11:19 [FirstSquawk] Indonesian rupiah drops to 17,900 per dollar, weakest in over a month
+- 09/24 11:27 [FirstSquawk] Crude oil falls after bigger-than-expected increase in U.S. stockpiles - WSJ
+- 09/24 11:27 [FirstSquawk] Asian currencies come under pressure as Treasury yields climb sharply - WSJ
+- 09/24 11:32 [FirstSquawk] DHL Express, Singapore Airlines extend Boeing 777 freighter partnership
+- 09/24 11:32 [FirstSquawk] Singapore Airlines to operate 5 Boeing 777 freighters at Changi for DHL Express
+- 09/24 11:32 [FirstSquawk] Singapore Airlines to handle aircraft maintenance

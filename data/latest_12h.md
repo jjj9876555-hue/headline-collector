@@ -7,61 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 11:17 JST／対象: 09/23 23:17 〜 09/24 11:17 JST（時刻はすべて日本時間）
+生成: 2026-09-24 11:33 JST／対象: 09/23 23:33 〜 09/24 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 36 | 09/23 23:20 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 160 | 09/23 23:18 | 09/24 11:14 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 181 | 09/23 23:18 | 09/24 11:17 | 42分（05:39→06:22） |
+| DeItaone | 28 | 09/23 23:34 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 159 | 09/23 23:33 | 09/24 11:32 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 157 | 09/23 23:37 | 09/24 11:17 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 371 行（統合前 379 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 340 行（統合前 345 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 23:18 [financialjuice] Fear and Greed Index: 37/100 = Fear
-- 09/23 23:18 [FirstSquawk] SAMSUNG SUPPLIES SMRS TO EUROPE WITH THE US AND JAPAN – YONHAP
-- 09/23 23:18 [financialjuice] Crypto Fear and Greed Index: 71/100 = Greed.
-- 09/23 23:19 [FirstSquawk] IRAN'S PRESIDENT: WE SAY NO TO NUCLEAR WEAPONS
-- 09/23 23:20 [DeItaone/FirstSquawk] IRAN'S PEZESHKIAN: HORMUZ STRAIT CANNOT BE USED FOR PASSAGE OF WEAPONS THAT WILL BE USED AGAINST IRAN
-- 09/23 23:20 [financialjuice] Iran's President: The nuclear issue won't be solved on the battlefield.
-- 09/23 23:21 [financialjuice] Iran's Pezeshkian: The Hormuz Strait cannot be used for the passage of weapons that will be used against Iran.
-- 09/23 23:23 [DeItaone] U.S. MORTGAGE RATE TOPS 7% FOR FIRST TIME SINCE 2025 The average U.S. 30-year fixed mortgage rate jumped to 7.12%, its highest level since May 2024. Rates have climbed as Fed tightening, higher oil prices and rising Treasury yields increase…
-- 09/23 23:24 [financialjuice/DeItaone] Iran's Pezeshkian: Iran will not surrender with military power, believes in diplomacy.
-- 09/23 23:24 [DeItaone] PEZESHKIAN: WE ARE NOT AFRAID OF FIGHTING
-- 09/23 23:24 [financialjuice] Iran's President Pezeshkian: We can't allow free Hormuz use while we're sanctioned.
-- 09/23 23:25 [DeItaone] RUBIO ON IRAN: WE UNDERSTAND STRAIT IS ISSUE
-- 09/23 23:25 [DeItaone] RUBIO ON IRAN: WE WILL CONTINUE TO DEFEND AND HOLD STRAITS OPEN
-- 09/23 23:25 [FirstSquawk] U.S. SECRETARY OF STATE RUBIO ON IRAN: WE WILL CONTINUE TO DEFEND AND HOLD STRAITS OPEN
-- 09/23 23:25 [FirstSquawk] RUBIO: IRAN FIRED AT COMMERCIAL SHIPS THIS MORNING
-- 09/23 23:25 [financialjuice] US Secretary of State Rubio: Iran fired at commercial ships this morning.
-- 09/23 23:26 [financialjuice] US Secretary of State Rubio on Iran: We will continue to defend and hold the Straits open.
-- 09/23 23:26 [DeItaone] RUBIO: TRUMP HAS NUMBER OF OPTIONS AVAILABLE, INCLUDING MILITARY OPTIONS
-- 09/23 23:26 [financialjuice] US Secretary of State Rubio: If there's an Iran deal, it will involve hard work and time.
-- 09/23 23:26 [DeItaone] RUBIO: IF THERE'S GOING TO BE A DEAL WITH IRAN, IT'S GOING TO INVOLVE HEARD WORK OVER PERIOD OF TIME
-- 09/23 23:26 [financialjuice] US Secretary of State Rubio: Trump has a number of options available, including military options.
-- 09/23 23:27 [FirstSquawk] RUBIO: TRUMP HAS NUMBER OF OPTIONS AVAILABLE, INCLUDING MILITARY OPTIONS || IF THERE'S GOING TO BE A DEAL WITH IRAN, IT'S GOING TO INVOLVE HEARD WORK OVER PERIOD OF TIME
-- 09/23 23:27 [financialjuice] US Secretary of State Rubio delivers remarks to the press in New York City - WATCH LIVE
-- 09/23 23:27 [financialjuice] US Secretary of State Rubio: Trump is imposing a costs on Iran, but has military options.
-- 09/23 23:28 [financialjuice] WATCH LIVE: Witkoff & Kushner speak about Board of Peace at UNGA
-- 09/23 23:29 [financialjuice] Iran's Pezeshkian: Trump should know that threats unite the Iranian nation.
-- 09/23 23:29 [financialjuice] Iran's President Pezeshkian ends remarks at the UN.
-- 09/23 23:30 [FirstSquawk] US CRUDE OIL INVENTORIES ACTUAL: 2969K VS -640K PREVIOUS; EST -578K
-- 09/23 23:30 [financialjuice] Traders fully price four more ECB rate hikes by October 2027.
-- 09/23 23:30 [FirstSquawk] US CUSHING CRUDE OIL INVENTORIES ACTUAL: 2266K VS -342K PREVIOUS
-- 09/23 23:30 [financialjuice] EIA CRUDE OIL INVENTORIES ACTUAL 2.969M (FORECAST -0.69M, PREVIOUS -0.640M) $MACRO
-- 09/23 23:30 [financialjuice] EIA GASOLINE INVENTORIES ACTUAL -1.686M (FORECAST 0.5M, PREVIOUS 0.794M) $MACRO
-- 09/23 23:30 [financialjuice] EIA DISTILLATE INVENTORIES ACTUAL -0.428M (FORECAST -0.68M, PREVIOUS 1.585M) $MACRO
-- 09/23 23:30 [financialjuice] EIA CRUDE CUSHING INVENTORIES ACTUAL 2.266M (FORECAST -, PREVIOUS -0.342M) $MACRO
-- 09/23 23:30 [financialjuice] IIF's Tiftik: US safe haven status will be questioned more.
-- 09/23 23:31 [financialjuice] IIF: Buybacks can’t resolve structural drivers of debt.
-- 09/23 23:31 [financialjuice] IIF cites an “illusion of stability’ on government debt ratios.
-- 09/23 23:31 [financialjuice] US EIA Weekly Petroleum Status Report
 - 09/23 23:33 [FirstSquawk] DISNEY+ WILL RAISE ITS MONTHLY PRICE BY 13% TO $21.49.
 - 09/23 23:34 [DeItaone] DISNEY+ HIKES AD-FREE PRICE 13% Disney is raising the price of its ad-free Disney+ plan by 13% to $21.49 per month, an increase of $2.50. Ad-free Hulu will rise by the same amount, while the Disney+ and Hulu ad-free bundle increases to $21.…
 - 09/23 23:37 [financialjuice] US State dept: Rubio met today with Russian Foreign Minister Lavrov on sidelines of UNGA
@@ -395,3 +357,10 @@
 - 09/24 11:13 [FirstSquawk] VietJet Air plans Starlink deployment across 120 aircraft, future fleet
 - 09/24 11:14 [FirstSquawk] VietJet Air signs Starlink deal to bring high-speed internet to flights across global network
 - 09/24 11:17 [financialjuice] Google nears launch of flagship Gemini 4 AI model: The Information
+- 09/24 11:18 [FirstSquawk] Google close to unveiling next-generation Gemini 4 AI model, The Information says
+- 09/24 11:19 [FirstSquawk] Indonesian rupiah drops to 17,900 per dollar, weakest in over a month
+- 09/24 11:27 [FirstSquawk] Crude oil falls after bigger-than-expected increase in U.S. stockpiles - WSJ
+- 09/24 11:27 [FirstSquawk] Asian currencies come under pressure as Treasury yields climb sharply - WSJ
+- 09/24 11:32 [FirstSquawk] DHL Express, Singapore Airlines extend Boeing 777 freighter partnership
+- 09/24 11:32 [FirstSquawk] Singapore Airlines to operate 5 Boeing 777 freighters at Changi for DHL Express
+- 09/24 11:32 [FirstSquawk] Singapore Airlines to handle aircraft maintenance

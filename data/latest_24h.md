@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 11:17 JST／対象: 09/23 11:17 〜 09/24 11:17 JST（時刻はすべて日本時間）
+生成: 2026-09-24 11:33 JST／対象: 09/23 11:33 〜 09/24 11:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 308 | 09/23 11:19 | 09/24 11:14 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 281 | 09/23 11:20 | 09/24 11:17 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 308 | 09/23 11:40 | 09/24 11:32 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 277 | 09/23 11:44 | 09/24 11:17 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 652 行（統合前 674 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 648 行（統合前 670 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 11:19 [FirstSquawk] Toyota plans 400,000 robots in factories, including humanoids that learn from employees - NA
-- 09/23 11:20 [financialjuice] Iran foreign ministry spokesperson: engagement with US side in New York occurred via Qatari intermediary - IRNA
-- 09/23 11:20 [FirstSquawk] Iran says Qatar mediated engagement with U.S. officials in New York - IRNA
-- 09/23 11:23 [financialjuice] Anthropic in discussions to secure control over additional data centers - The Information
-- 09/23 11:23 [FirstSquawk] Anthropic seeks greater control of data centers in ongoing talks - The Information
-- 09/23 11:24 [financialjuice] Anthropic discusses up to 1 gigawatt data center lease with Stream Data Centers - The Information
-- 09/23 11:24 [FirstSquawk] Anthropic discusses up to 1 GW data center lease with Stream Data Centers - The Information
-- 09/23 11:27 [FirstSquawk] Vietnam’s TPBank plans to issue 416 million new shares to shareholders as dividends
-- 09/23 11:32 [financialjuice] China finance ministry auctions 3-month deposits at 1.47% yield: statement
-- 09/23 11:32 [FirstSquawk] China Finance Ministry auctions 3-month deposits with 1.47% yield
-- 09/23 11:33 [FirstSquawk] China Finance Ministry sells 2-month deposits at 1.46% yield
 - 09/23 11:40 [FirstSquawk] Seoul shares ease from session highs as profit-taking emerges on Wednesday morning
 - 09/23 11:41 [FirstSquawk] Odalys forecast to become a hurricane later tonight, NHC says
 - 09/23 11:43 [FirstSquawk] SoftBank Group plans $10 bln dollar bond offering across three maturities, term sheet shows
@@ -676,3 +665,10 @@
 - 09/24 11:13 [FirstSquawk] VietJet Air plans Starlink deployment across 120 aircraft, future fleet
 - 09/24 11:14 [FirstSquawk] VietJet Air signs Starlink deal to bring high-speed internet to flights across global network
 - 09/24 11:17 [financialjuice] Google nears launch of flagship Gemini 4 AI model: The Information
+- 09/24 11:18 [FirstSquawk] Google close to unveiling next-generation Gemini 4 AI model, The Information says
+- 09/24 11:19 [FirstSquawk] Indonesian rupiah drops to 17,900 per dollar, weakest in over a month
+- 09/24 11:27 [FirstSquawk] Crude oil falls after bigger-than-expected increase in U.S. stockpiles - WSJ
+- 09/24 11:27 [FirstSquawk] Asian currencies come under pressure as Treasury yields climb sharply - WSJ
+- 09/24 11:32 [FirstSquawk] DHL Express, Singapore Airlines extend Boeing 777 freighter partnership
+- 09/24 11:32 [FirstSquawk] Singapore Airlines to operate 5 Boeing 777 freighters at Changi for DHL Express
+- 09/24 11:32 [FirstSquawk] Singapore Airlines to handle aircraft maintenance
