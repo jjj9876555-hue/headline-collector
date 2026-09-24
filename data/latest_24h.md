@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 01:44 JST／対象: 09/24 01:44 〜 09/25 01:44 JST（時刻はすべて日本時間）
+生成: 2026-09-25 01:59 JST／対象: 09/24 01:59 〜 09/25 01:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 79 | 09/24 01:59 | 09/25 01:16 | ⚠ 935分（05:51→21:26） |
-| FirstSquawk | 359 | 09/24 01:48 | 09/25 01:42 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 294 | 09/24 01:45 | 09/25 01:28 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 82 | 09/24 02:01 | 09/25 01:55 | ⚠ 935分（05:51→21:26） |
+| FirstSquawk | 358 | 09/24 02:31 | 09/25 01:57 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 289 | 09/24 02:00 | 09/25 01:56 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 713 行（統合前 735 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 709 行（統合前 732 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 01:45 [financialjuice] Fed bids for 5-year notes total $10.5 bln.
-- 09/24 01:46 [financialjuice] IMF's Managing Director Georgieva: The medium-term outlook for the global economy is tepid.
-- 09/24 01:46 [financialjuice] IMF Annual Report
-- 09/24 01:46 [financialjuice] IMF's Managing Director Georgieva: Fiscal challenges are growing more acute.
-- 09/24 01:48 [FirstSquawk] WHITE HOUSE PREPARING PLAN FOR 90-DAY DIESEL EXPORTS BAN
-- 09/24 01:48 [financialjuice] Senator's Sanders and Casar introduce a 'superintelligence’ ban - Politico
-- 09/24 01:51 [financialjuice] ❗ US prepares 90-day diesel export ban - Politico.
-- 09/24 01:52 [financialjuice] White House preparing plan for 90-day diesel exports ban - Politico
-- 09/24 01:55 [FirstSquawk] US DIESEL FUTURES SINK MORE THAN 7% TO INTRADAY LOW
-- 09/24 01:55 [FirstSquawk] MARATHON PETROLEUM ALSO DROPS TO SESSION LOW, DOWN 2.5%
-- 09/24 01:56 [FirstSquawk] EUROPEAN DIESEL FUTURES SURGE OVER 7% TO SESSION HIGH
-- 09/24 01:56 [FirstSquawk] IRAN SAYS ITS 'NEW' DIPLOMACY WON'T RETURN TO THE PAST
-- 09/24 01:59 [financialjuice] US Treasury Secretary Bessent: Held substantive talks with China's He
-- 09/24 01:59 [DeItaone] TRUMP ADMINISTRATION IS PREPARING A PLAN TO BAN EXPORTS OF DIESEL FOR 90 DAYS - POLITICO
 - 09/24 02:00 [financialjuice] Treasury WI 5-year yield 5.002% before $70 billion auction.
 - 09/24 02:01 [DeItaone] WHITE HOUSE PREPARES 90-DAY DIESEL EXPORT BAN The Trump administration is preparing a 90-day ban on U.S. diesel exports, according to Politico, as record fuel prices intensify pressure ahead of the midterms. Diesel averages $6.52 per gallon…
 - 09/24 02:02 [financialjuice] US 5-YEAR NOTE HIGH YIELD ACTUAL 5.033% (FORECAST -, PREVIOUS 4.393%) $MACRO
@@ -737,3 +723,13 @@
 - 09/25 01:27 [FirstSquawk] TRUMP CONSIDERS ALLOWING CHINESE EV PRODUCTION IN US AMID XI TALKS - NBC
 - 09/25 01:28 [financialjuice] EU needs 'decisive change' in 'scale and pace' of defence efforts to be ready to defend against Russia by 2030 - Executive Summary of Report for EU Leaders.
 - 09/25 01:42 [FirstSquawk] WHITE HOUSE ASKS OPENAI, ANTHROPIC TO HOLD NEW MODELS FROM UK - POLITICO
+- 09/25 01:45 [FirstSquawk] XI SAYS CHINA HOPES U.S. TO ADHERE TO CORRECT POSITION OF OPPOSING "TAIWAN INDEPENDENCE," HANDLE TAIWAN QUESTION WITH PRUDENCE - XINHUA
+- 09/25 01:46 [financialjuice] China’s President Xi: China hopes the US will adhere to the correct position of opposing "Taiwan independence," and will handle the Taiwan question with prudence - Xinhua.
+- 09/25 01:51 [DeItaone] XI URGES U.S., IRAN TO RETURN TO TRACK OF RESOLVING ISSUES THROUGH NEGOTIATION AS SOON AS POSSIBLE - XINHUA
+- 09/25 01:51 [DeItaone] XI HOPES U.S. TO ADHERE TO OPPOSING 'TAIWAN INDEPENDENCE'
+- 09/25 01:51 [financialjuice/DeItaone] OpenAI’s AI tried to breach 4 other targets - NYT.
+- 09/25 01:55 [DeItaone] OPENAI AGENTS ATTEMPTED TO BREACH MORE WEBSITES OpenAI-linked AI agents reportedly attempted to break into university and government websites while searching for public data during training and benchmark tasks. Targets included sites in the…
+- 09/25 01:56 [financialjuice] China’s President Xi: China supports the United States and Iran in returning to the Islamabad Memorandum of Understanding - Xinhua.
+- 09/25 01:57 [FirstSquawk] CHINA PRESIDENT XI: CHINA SUPPORTS US, IRAN IN RETURNING TO ISLAMABAD MOU - XINHUA
+- 09/25 01:57 [FirstSquawk] CHINA PRESIDENT XI: CHINA HOPES US ADHERES TO CORRECT POSITION OF OPPOSING "TAIWAN INDEPENDENCE" - XINHUA
+- 09/25 01:57 [FirstSquawk] PEPSICO SPOX: PRICES OF CERTAIN CHIPS TO INCREASE BY LOW-TO-MID SINGLE DIGIT PERCENTAGE, ALIGNED WITH INFLATION
