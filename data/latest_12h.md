@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 10:46 JST／対象: 09/23 22:46 〜 09/24 10:46 JST（時刻はすべて日本時間）
+生成: 2026-09-24 10:59 JST／対象: 09/23 22:59 〜 09/24 10:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 09/23 22:47 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 171 | 09/23 22:47 | 09/24 10:46 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 195 | 09/23 22:51 | 09/24 10:41 | 42分（05:39→06:22） |
+| DeItaone | 47 | 09/23 23:00 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 164 | 09/23 23:04 | 09/24 10:52 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 193 | 09/23 23:01 | 09/24 10:41 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 409 行（統合前 419 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 397 行（統合前 407 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 22:47 [DeItaone] U.S. S&P GLOBAL SEPTEMBER FLASH MANUFACTURING PMI AT 57.0 (FORECAST 53.6) U.S. S&P GLOBAL SEPTEMBER FLASH SERVICES PMI AT 58.7 (FORECAST 56.0) U.S. S&P GLOBAL SEPTEMBER FLASH COMPOSITE PMI AT 58.4 (VS 56.0 IN AUGUST)
-- 09/23 22:47 [FirstSquawk] US TREASURIES EXTEND SLIDE AFTER STRONG S&P GLOBAL US PMI GAUGES
-- 09/23 22:50 [DeItaone] U.S. TREASURY YIELDS RISE FURTHER AFTER DATA; YIELD ON 10-YEAR TREASURY NOTE LAST UP 5.81 BASIS POINTS AT 5.025%
-- 09/23 22:51 [FirstSquawk] IRAN'S ARAGHCHI: I WARNED EUROPEAN OFFICIALS AGAINST SUPPORTING THE WAR CRIMES OF THE UNITED STATES AND ISRAEL
-- 09/23 22:51 [financialjuice] Iran's General Razai: In our new diplomacy, we have a leverage called the Strait of Hormuz, which guarantees negotiations - Fars News.
-- 09/23 22:52 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS LAST UP 6.63 BASIS POINTS AT 4.843%
-- 09/23 22:52 [financialjuice] Iran's General Razai: Trump may want to do something in the mountains of Iran or attack our nuclear sites, but we will tolerate even that; our armed forces have a plan ready to respond.
-- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: TRUMP'S CRIMINAL ACTIONS NOT ONLY FAILED TO UNDERMINE THE AUTHORITY OF THE ISLAMIC REPUBLIC OF IRAN, BUT INSTEAD TRANSFORMED IRAN INTO ONE OF THE MOST POWERFUL ACTORS AND THE FOURTH-LARGEST POWER IN…
-- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: AMERICAN MEDIA ATTACH NO VALUE TO TRUMP'S SPEECHES. IF THEY DID, THEY WOULD NOT MUTE HIS MICROPHONE OR IGNORE HIM.
-- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: IF TRUMP WERE SUCCESSFUL, HE SHOULDN'T HAVE FOCUSED THIS MUCH ON IRAN AT THE UNGA.
-- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: THE VERY FACT THAT ALL OF TRUMP'S REMARKS REVOLVE AROUND IRAN SHOWS THAT IT HAS BECOME THE BIGGEST PROBLEM AND THE FOCUS OF HIS LIFE AND POLITICS, AS WELL AS AMERICAN POLICY.
-- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: TRUMP HIMSELF HAS REALIZED THAT HE IS A CRIMINAL. FROM INTERNATIONAL COURTS TO THE COURTS OF THE ISLAMIC WORLD, THEY WILL HOLD BOTH HIM AND NETANYAHU ACCOUNTABLE.
-- 09/23 22:57 [FirstSquawk] AUSSIE DROPS 1% TO 0.7043 VS USD, DOWN MOST IN THREE MONTHS
 - 09/23 23:00 [DeItaone] U.S. PMI SURGES, SIGNALING STRONG GROWTH AND RISING COST PRESSURES U.S. business activity accelerated sharply in September, with manufacturing PMI rising to 57.0, services to 58.7, and the composite index to 58.4, all well above expectation…
 - 09/23 23:00 [DeItaone] 10-YEAR YIELD RISES TO 5.04%, HIGHEST SINCE 2007
 - 09/23 23:01 [financialjuice] Iran's General Razai: We cannot continue with the same diplomacy now, which offers no guarantees. In all previous negotiations, the United States was the first to violate the conditions.
@@ -433,3 +420,4 @@
 - 09/24 10:41 [FirstSquawk] Japan’s Katayama: Existing forex principles from coordinated U.S.-Japan intervention still apply
 - 09/24 10:41 [FirstSquawk] Katayama: Japan won’t comment on specific forex levels
 - 09/24 10:46 [FirstSquawk] Osaka rubber futures climb 5.25% to highest level in 15 years
+- 09/24 10:52 [FirstSquawk] Xi receives rare welcome from Trump at military base before summit - YONHAP

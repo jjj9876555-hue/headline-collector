@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 10:46 JST／対象: 09/24 04:46 〜 09/24 10:46 JST（時刻はすべて日本時間）
+生成: 2026-09-24 10:59 JST／対象: 09/24 04:59 〜 09/24 10:59 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/24 05:25 | 09/24 05:51 | 25分（05:25→05:51） |
-| FirstSquawk | 70 | 09/24 04:48 | 09/24 10:46 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 73 | 09/24 04:50 | 09/24 10:41 | 42分（05:39→06:22） |
+| FirstSquawk | 69 | 09/24 05:01 | 09/24 10:52 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 72 | 09/24 05:10 | 09/24 10:41 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 143 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 141 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 04:48 [FirstSquawk] ETHIOPIA'S PRESIDENT ATSKE-SELASSIE AMDE SAYS AT THE UNITED NATIONS THAT ETHIOPIA HAS ACHIEVED NOTABLE PROGRESS WITH SEVERAL NEIGHBORS 'IN SPITE OF RECKLESS EXTERNAL ACTORS', ADDING THAT 'DESPITE CONTINUED INTERFERENCE IN OUR INTERNAL AFFAI…
-- 09/24 04:48 [FirstSquawk] ETHIOPIA'S PRESIDENT ATSKE-SELASSIE AMDE SAYS 'OUR MESSAGE TO FORCES OF DESTRUCTION AND MAYHEM IS LOUD AND CLEAR', URGING THEM 'TO RESPECT THE SACRED RIGHT OF THE PEOPLE OF THE HORN OF AFRICA TO LIVE IN PEACE'.
-- 09/24 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -3037.6 MLN NASDAQ 100: -1140.1 MLN DOW 30: -736.0 MLN MAG 7: -655.1 MLN $MACRO
 - 09/24 05:01 [FirstSquawk] NASDAQ CLOSES 1.18% LOWER AT 26,922.95, DOWN 321.33 POINTS S&P 500 CLOSES 0.80% LOWER AT 7,702.65, DOWN 61.99 POINTS DOW JONES CLOSES 0.69% LOWER AT 51,503.27, DOWN 360.42 POINTS
 - 09/24 05:05 [FirstSquawk] H.B. FULLER POSTED Q3 REVENUE OF $938 MLN, BELOW THE IBES ESTIMATE OF $948.2 MLN, WITH ADJUSTED EPS OF $1.52 VERSUS $1.47 EXPECTED AND ADJUSTED NET INCOME OF $83 MLN.
 - 09/24 05:05 [FirstSquawk] H.B. FULLER SEES FY ADJUSTED EPS OF $4.70-$4.85 VERSUS A $4.85 ESTIMATE, WITH FY ADJUSTED EBITDA OF $655-$670 MLN.
@@ -167,3 +164,4 @@
 - 09/24 10:41 [FirstSquawk] Japan’s Katayama: Existing forex principles from coordinated U.S.-Japan intervention still apply
 - 09/24 10:41 [FirstSquawk] Katayama: Japan won’t comment on specific forex levels
 - 09/24 10:46 [FirstSquawk] Osaka rubber futures climb 5.25% to highest level in 15 years
+- 09/24 10:52 [FirstSquawk] Xi receives rare welcome from Trump at military base before summit - YONHAP
