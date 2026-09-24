@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 21:04 JST／対象: 09/23 21:04 〜 09/24 21:04 JST（時刻はすべて日本時間）
+生成: 2026-09-24 21:30 JST／対象: 09/23 21:30 〜 09/24 21:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 68 | 09/23 21:06 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 342 | 09/23 21:05 | 09/24 21:00 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 275 | 09/23 21:10 | 09/24 21:01 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 69 | 09/23 21:44 | 09/24 21:30 | ⚠ 935分（05:51→21:26） |
+| FirstSquawk | 346 | 09/23 21:35 | 09/24 21:30 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 280 | 09/23 21:48 | 09/24 21:30 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 665 行（統合前 688 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 675 行（統合前 698 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 21:05 [FirstSquawk] RAIFFEISEN BANK INTERNATIONAL TO LAUNCH CRYPTO TRADING ACROSS 11 EUROPEAN MARKETS Raiffeisen Bank International, one of Austria’s largest banking groups, is reportedly preparing to expand cryptocurrency trading services across 11 European m…
-- 09/23 21:06 [DeItaone] RYANAIR CEO O'LEARY: IF OIL PRICES REMAIN THIS HIGH INTO SUMMER OF 2027, I EXPECT AIRFARES TO RISE BY 10, 15, 20%
-- 09/23 21:10 [financialjuice] Morning Juice - US Session Prep (23rd September)
-- 09/23 21:16 [FirstSquawk] STERLING FALLS AS MUCH AS 0.5% TO $1.3273, LOWEST SINCE JULY 1
-- 09/23 21:22 [financialjuice] BofA's Demare: Continued strength in macroeconomic backdrop
-- 09/23 21:23 [FirstSquawk/DeItaone] BOFA'S DEMARE: 3Q WILL NOT BE AS ROBUST IN MARKETS AS 2Q WAS
-- 09/23 21:24 [financialjuice] BofA's Demare: Q3 will not be as robust in markets as Q2 was
-- 09/23 21:28 [FirstSquawk] BOFA'S CO-PRES DEMARE: CONTINUED STRENGTH IN MACROECONOMIC BACKDROP
 - 09/23 21:35 [FirstSquawk] RUSSIAN GUIDED BOMB ATTACK IN OLEKSANDRIVKA, DONETSK, KILLED FOUR AND INJURED FOUR, DESTROYING A MULTI-STORY BUILDING.
 - 09/23 21:44 [DeItaone] DEMOCRATS HOLD 12-POINT MIDTERM EDGE IN NEW POLL Democrats lead Republicans 53% to 41% among registered voters in the latest NPR/PBS News/Marist poll. Trump’s approval stands at 39%, while 59% disapprove. 45% of voters say their congression…
 - 09/23 21:46 [FirstSquawk] CANADIAN PM CARNEY COMMENTS ON TRUMP'S CALL TO 'ANNIHILATE' IRAN, STATING 'HE'S USING WAR LANGUAGE.'
@@ -689,3 +681,21 @@
 - 09/24 20:58 [FirstSquawk] US FINAL AUG. BUILDING PERMITS 1.403M VS PRELIM 1.394M
 - 09/24 21:00 [FirstSquawk] RUSSIAN ENVOY: NO TRILATERAL MEETINGS PLANNED IN NEW YORK
 - 09/24 21:01 [financialjuice] Morning Juice – US Session Prep (24th September)
+- 09/24 21:10 [financialjuice] Politico barred from White House this morning - Politico
+- 09/24 21:10 [financialjuice] Politico reporter denied access to white house after judge's order - Politico
+- 09/24 21:17 [FirstSquawk] MICRON FACES ITC PROBE OVER NETLIST PATENT CLAIMS
+- 09/24 21:17 [FirstSquawk] SLB - AWARDED FOUR INTEGRATED WELL CONSTRUCTION CONTRACTS BY ARAMCO IN SAUDI ARABIA
+- 09/24 21:25 [FirstSquawk] TRUMP SAYS XI LOOKED STRONG AND VIBRANT AT AIRPORT MEETING
+- 09/24 21:25 [FirstSquawk/DeItaone] ORACLE SENDS FORCE MAJEURE NOTICE OVER NEW MEXICO DATA CENTER
+- 09/24 21:26 [FirstSquawk] I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! President DJT
+- 09/24 21:26 [FirstSquawk] ORACLE SHARES DROP 2.8% AFTER FORCE MAJEURE NOTICE
+- 09/24 21:27 [financialjuice] Oracle sends force majeure notice over New Mexico data center $ORCL
+- 09/24 21:28 [DeItaone] MSNOW REPORTER DENIED ACCESS TO WHITE HOUSE AFTER COURT RULING -MSNOW
+- 09/24 21:29 [financialjuice] ❗ CANADIAN RETAIL SALES MOM ACTUAL 0.6% (FORECAST -0.8%, PREVIOUS 0.6%) $MACRO
+- 09/24 21:29 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.73M (FORECAST 1.74M, PREVIOUS 1.730M) $MACRO
+- 09/24 21:29 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 196K (FORECAST 200K, PREVIOUS 196K) $MACRO
+- 09/24 21:29 [financialjuice] CANADIAN CORE RETAIL SALES MOM ACTUAL 0.5% (FORECAST -0.5%, PREVIOUS 0.5%) $MACRO
+- 09/24 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 197K VS 196K PREVIOUS; EST 200K
+- 09/24 21:30 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1719K VS 1730K PREVIOUS; EST 1740K
+- 09/24 21:30 [DeItaone] US JOBLESS CLAIMS -1K TO 197K IN SEP-19 WK; SURVEY 201K US SEP-12 WEEK CONTINUING CLAIMS +2K TO 1,719,000 US SEP-12 WEEK JOBLESS CLAIMS REVISED TO 198K
+- 09/24 21:30 [financialjuice] US CURRENT ACCOUNT ACTUAL -246B (FORECAST -257.4B, PREVIOUS -226.8B) $MACRO

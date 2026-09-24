@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 21:04 JST／対象: 09/24 09:04 〜 09/24 21:04 JST（時刻はすべて日本時間）
+生成: 2026-09-24 21:30 JST／対象: 09/24 09:30 〜 09/24 21:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 186 | 09/24 09:09 | 09/24 21:00 | 25分（12:09→12:34） |
-| financialjuice | 75 | 09/24 09:14 | 09/24 21:01 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 3 | 09/24 21:26 | 09/24 21:30 | 2分（21:26→21:28） |
+| FirstSquawk | 185 | 09/24 09:32 | 09/24 21:30 | 25分（12:09→12:34） |
+| financialjuice | 79 | 09/24 09:36 | 09/24 21:30 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 256 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 261 行（統合前 267 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 09:09 [FirstSquawk] Australia’s ASX 200 slides 1.3% to 8,655.40 points at open
-- 09/24 09:14 [financialjuice] China PBOC likely to set yuan midpoint at 6.7184 per dollar: Estimate
-- 09/24 09:18 [FirstSquawk] EIGHT U.S. NAVY SAILORS ASSIGNED TO THE USS ABRAHAM LINCOLN CARRIER STRIKE GROUP ATTEMPTED SUICIDE DURING A DEPLOYMENT THAT INCLUDED COMBAT OPERATIONS AGAINST IRAN, ACCORDING TO ACTING NAVY SECRETARY HUNG CAO, WITH THE FIGURE COVERING SAILO…
-- 09/24 09:18 [FirstSquawk] NO SAILORS DIED BY SUICIDE DURING THE DEPLOYMENT, WHICH INVOLVED 6,000-7,000 PERSONNEL AND KEPT THE CARRIER AT SEA FOR MORE THAN SIX MONTHS - CNN
-- 09/24 09:20 [financialjuice] Japan's finance ministry to consider cutting issuance in liquidity-enhancement auctions for medium-term JGBs, sources say
-- 09/24 09:22 [FirstSquawk] Japan’s Finance Ministry may discuss lower issuance of medium-term JGBs in liquidity-enhancement auctions, Reuters reports
-- 09/24 09:23 [FirstSquawk] Trump welcomes Xi Jinping at airport as Chinese president arrives for U.S. state visit
-- 09/24 09:25 [FirstSquawk] OPENAI IS LAUNCHING MENTALHEALTHBENCH, AN OPEN BENCHMARK DESIGNED TO EVALUATE HOW AI SYSTEMS RESPOND TO REALISTIC MENTAL-HEALTH CONVERSATIONS AND PROVIDE A STANDARDIZED WAY TO COMPARE PERFORMANCE. THE BENCHMARK COVERS ADULTS, TEENAGERS, CAR…
-- 09/24 09:26 [FirstSquawk] JAPAN’S 10-YEAR JGB YIELD SURGES 8.0 BPS TO 3.055%, HIGHEST SINCE SEPTEMBER 1996
-- 09/24 09:26 [FirstSquawk] Asia-Pac equities mixed at the open as Japanese markets reopen after long weekend
-- 09/24 09:27 [FirstSquawk] 10-year Japanese government bond yield jumps 8 bps to 3.055%, hits 30-year high
-- 09/24 09:30 [financialjuice] JAPANESE MFG PMI FLASH ACTUAL 54.1 (FORECAST -, PREVIOUS 54.9) $MACRO
-- 09/24 09:30 [financialjuice] JAPANESE COMPOSITE PMI FLASH ACTUAL 52.5 (FORECAST -, PREVIOUS 53.5) $MACRO
 - 09/24 09:32 [FirstSquawk] Japan S&P Global Services PMI Sep P: 51.6 (prev 52.5)
 - 09/24 09:32 [FirstSquawk] Japan S&P Global Manufacturing PMI Sep P: 54.1 (prev 54.9)
 - 09/24 09:32 [FirstSquawk] Japan S&P Global Composite PMI Sep P: 52.5 (prev 53.5)
@@ -280,3 +267,21 @@
 - 09/24 20:58 [FirstSquawk] US FINAL AUG. BUILDING PERMITS 1.403M VS PRELIM 1.394M
 - 09/24 21:00 [FirstSquawk] RUSSIAN ENVOY: NO TRILATERAL MEETINGS PLANNED IN NEW YORK
 - 09/24 21:01 [financialjuice] Morning Juice – US Session Prep (24th September)
+- 09/24 21:10 [financialjuice] Politico barred from White House this morning - Politico
+- 09/24 21:10 [financialjuice] Politico reporter denied access to white house after judge's order - Politico
+- 09/24 21:17 [FirstSquawk] MICRON FACES ITC PROBE OVER NETLIST PATENT CLAIMS
+- 09/24 21:17 [FirstSquawk] SLB - AWARDED FOUR INTEGRATED WELL CONSTRUCTION CONTRACTS BY ARAMCO IN SAUDI ARABIA
+- 09/24 21:25 [FirstSquawk] TRUMP SAYS XI LOOKED STRONG AND VIBRANT AT AIRPORT MEETING
+- 09/24 21:25 [FirstSquawk/DeItaone] ORACLE SENDS FORCE MAJEURE NOTICE OVER NEW MEXICO DATA CENTER
+- 09/24 21:26 [FirstSquawk] I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! President DJT
+- 09/24 21:26 [FirstSquawk] ORACLE SHARES DROP 2.8% AFTER FORCE MAJEURE NOTICE
+- 09/24 21:27 [financialjuice] Oracle sends force majeure notice over New Mexico data center $ORCL
+- 09/24 21:28 [DeItaone] MSNOW REPORTER DENIED ACCESS TO WHITE HOUSE AFTER COURT RULING -MSNOW
+- 09/24 21:29 [financialjuice] ❗ CANADIAN RETAIL SALES MOM ACTUAL 0.6% (FORECAST -0.8%, PREVIOUS 0.6%) $MACRO
+- 09/24 21:29 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.73M (FORECAST 1.74M, PREVIOUS 1.730M) $MACRO
+- 09/24 21:29 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 196K (FORECAST 200K, PREVIOUS 196K) $MACRO
+- 09/24 21:29 [financialjuice] CANADIAN CORE RETAIL SALES MOM ACTUAL 0.5% (FORECAST -0.5%, PREVIOUS 0.5%) $MACRO
+- 09/24 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 197K VS 196K PREVIOUS; EST 200K
+- 09/24 21:30 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1719K VS 1730K PREVIOUS; EST 1740K
+- 09/24 21:30 [DeItaone] US JOBLESS CLAIMS -1K TO 197K IN SEP-19 WK; SURVEY 201K US SEP-12 WEEK CONTINUING CLAIMS +2K TO 1,719,000 US SEP-12 WEEK JOBLESS CLAIMS REVISED TO 198K
+- 09/24 21:30 [financialjuice] US CURRENT ACCOUNT ACTUAL -246B (FORECAST -257.4B, PREVIOUS -226.8B) $MACRO

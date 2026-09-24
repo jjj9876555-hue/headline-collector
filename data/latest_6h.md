@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 21:04 JST／対象: 09/24 15:04 〜 09/24 21:04 JST（時刻はすべて日本時間）
+生成: 2026-09-24 21:30 JST／対象: 09/24 15:30 〜 09/24 21:30 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 0 | - | - | - |
-| FirstSquawk | 91 | 09/24 15:14 | 09/24 21:00 | 22分（18:38→19:01） |
-| financialjuice | 37 | 09/24 15:45 | 09/24 21:01 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 3 | 09/24 21:26 | 09/24 21:30 | 2分（21:26→21:28） |
+| FirstSquawk | 94 | 09/24 15:42 | 09/24 21:30 | 22分（18:38→19:01） |
+| financialjuice | 45 | 09/24 15:45 | 09/24 21:30 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 123 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 136 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 15:14 [FirstSquawk] Russia says its forces struck a tanker in the Black Sea: IFX
-- 09/24 15:18 [FirstSquawk] Polish Army: Poland again launches preventive air operations linked to Russian strikes on Ukraine
-- 09/24 15:20 [FirstSquawk] German FM Wadephul urges immediate ceasefire in Ukraine, starting in Black Sea to secure grain flows
-- 09/24 15:24 [FirstSquawk] Australian S&P/ASX 200 ends 0.7% lower at 8,702.00 points
-- 09/24 15:24 [FirstSquawk] DeepSeek reaches $1B annualized revenue as $7.5B fundraising nears completion: The Information
 - 09/24 15:42 [FirstSquawk] EUROZONE BOND YIELDS OPEN HIGHER-WSJ
 - 09/24 15:43 [FirstSquawk] SCHNEIDER ELECTRIC TO LAUNCH BID FOR SHELLY GROUP IN $1.4 BILLION DEAL-WSJ
 - 09/24 15:45 [financialjuice] FRENCH BUSINESS CLIMATE MFG ACTUAL 101 (FORECAST 102, PREVIOUS 103) $MACRO
@@ -147,3 +142,21 @@
 - 09/24 20:58 [FirstSquawk] US FINAL AUG. BUILDING PERMITS 1.403M VS PRELIM 1.394M
 - 09/24 21:00 [FirstSquawk] RUSSIAN ENVOY: NO TRILATERAL MEETINGS PLANNED IN NEW YORK
 - 09/24 21:01 [financialjuice] Morning Juice – US Session Prep (24th September)
+- 09/24 21:10 [financialjuice] Politico barred from White House this morning - Politico
+- 09/24 21:10 [financialjuice] Politico reporter denied access to white house after judge's order - Politico
+- 09/24 21:17 [FirstSquawk] MICRON FACES ITC PROBE OVER NETLIST PATENT CLAIMS
+- 09/24 21:17 [FirstSquawk] SLB - AWARDED FOUR INTEGRATED WELL CONSTRUCTION CONTRACTS BY ARAMCO IN SAUDI ARABIA
+- 09/24 21:25 [FirstSquawk] TRUMP SAYS XI LOOKED STRONG AND VIBRANT AT AIRPORT MEETING
+- 09/24 21:25 [FirstSquawk/DeItaone] ORACLE SENDS FORCE MAJEURE NOTICE OVER NEW MEXICO DATA CENTER
+- 09/24 21:26 [FirstSquawk] I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! President DJT
+- 09/24 21:26 [FirstSquawk] ORACLE SHARES DROP 2.8% AFTER FORCE MAJEURE NOTICE
+- 09/24 21:27 [financialjuice] Oracle sends force majeure notice over New Mexico data center $ORCL
+- 09/24 21:28 [DeItaone] MSNOW REPORTER DENIED ACCESS TO WHITE HOUSE AFTER COURT RULING -MSNOW
+- 09/24 21:29 [financialjuice] ❗ CANADIAN RETAIL SALES MOM ACTUAL 0.6% (FORECAST -0.8%, PREVIOUS 0.6%) $MACRO
+- 09/24 21:29 [financialjuice] US CONTINUED JOBLESS CLAIMS ACTUAL 1.73M (FORECAST 1.74M, PREVIOUS 1.730M) $MACRO
+- 09/24 21:29 [financialjuice] ❗ US INITIAL JOBLESS CLAIMS ACTUAL 196K (FORECAST 200K, PREVIOUS 196K) $MACRO
+- 09/24 21:29 [financialjuice] CANADIAN CORE RETAIL SALES MOM ACTUAL 0.5% (FORECAST -0.5%, PREVIOUS 0.5%) $MACRO
+- 09/24 21:30 [FirstSquawk] US INITIAL JOBLESS CLAIMS ACTUAL: 197K VS 196K PREVIOUS; EST 200K
+- 09/24 21:30 [FirstSquawk] US CONTINUING JOBLESS CLAIMS ACTUAL: 1719K VS 1730K PREVIOUS; EST 1740K
+- 09/24 21:30 [DeItaone] US JOBLESS CLAIMS -1K TO 197K IN SEP-19 WK; SURVEY 201K US SEP-12 WEEK CONTINUING CLAIMS +2K TO 1,719,000 US SEP-12 WEEK JOBLESS CLAIMS REVISED TO 198K
+- 09/24 21:30 [financialjuice] US CURRENT ACCOUNT ACTUAL -246B (FORECAST -257.4B, PREVIOUS -226.8B) $MACRO
