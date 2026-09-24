@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 13:51 JST／対象: 09/24 07:51 〜 09/24 13:51 JST（時刻はすべて日本時間）
+生成: 2026-09-24 14:04 JST／対象: 09/24 08:04 〜 09/24 14:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 97 | 09/24 08:16 | 09/24 13:45 | 25分（12:09→12:34） |
-| financialjuice | 63 | 09/24 08:03 | 09/24 13:01 | ⚠ 68分（11:33→12:41） |
+| FirstSquawk | 99 | 09/24 08:16 | 09/24 14:01 | 25分（12:09→12:34） |
+| financialjuice | 70 | 09/24 08:08 | 09/24 14:01 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 160 行（統合前 160 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 169 行（統合前 169 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 08:03 [financialjuice] Meta launches annual Connect conference in Menlo Park, California
 - 09/24 08:08 [financialjuice] EU's Costa: spoke to Iran president, urged Tehran to restart cooperation with IAEA
 - 09/24 08:08 [financialjuice] EU's Costa: calls for halt to Iran's attacks on neighbors and complete freedom of navigation in Strait of Hormuz
 - 09/24 08:10 [financialjuice] Meta CEO Zuckerberg: company expects to earn revenue from Muse by charging small transaction fee
@@ -184,3 +183,13 @@
 - 09/24 13:40 [FirstSquawk] Leaked Belgian document warns Trump’s US is no longer a reliable ally: FT
 - 09/24 13:41 [FirstSquawk] FT: Fed will take action to ensure inflation resumes its slowdown
 - 09/24 13:45 [FirstSquawk] Pakistan FM tells Iraqji: We must remain committed to dialogue and diplomacy
+- 09/24 13:53 [FirstSquawk] Polish Army says preventive air operations conducted in response to Russian strikes on Ukraine
+- 09/24 14:00 [financialjuice] Iraqi economy expected to shrink 12% amid oil export drops: EBRD
+- 09/24 14:00 [financialjuice] EBRD lowers Turkey growth forecast 0.5 percentage points to 3% in 2026 on persistent inflation pressures
+- 09/24 14:00 [financialjuice] Average U.S. import tariffs from EBRD region dropped to 8.6% from 11.6% after July 2026 adjustments
+- 09/24 14:00 [financialjuice] EBRD lowers 2026 regional growth by 0.6 percentage points to 2.5%, boosts 2027 growth by 0.4 pp to 4%
+- 09/24 14:00 [financialjuice] Lebanon's economy to shrink 5% in 2026 amid israel hostilities, recover 4% in 2027: ebrd
+- 09/24 14:00 [financialjuice] Black Sea attacks could reduce Ukraine's wheat, metal and oilseed exports by up to $5.5 billion in 2026: EBRD
+- 09/24 14:00 [financialjuice] EBRD lowers Ukraine economic growth forecast for 2026 by 0.7 percentage points to 1.5%, cuts 2027 forecast by 1.5 percentage points to 2.5%
+- 09/24 14:01 [financialjuice] Ukraine’s economic outlook weakened materially to near stagnation as Russian air attacks increase, EBRD says
+- 09/24 14:01 [FirstSquawk] US judge issues order blocking Trump administration’s White House ban on CNN, MS NOW and Politico
