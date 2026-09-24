@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 14:43 JST／対象: 09/24 02:43 〜 09/24 14:43 JST（時刻はすべて日本時間）
+生成: 2026-09-24 14:58 JST／対象: 09/24 02:58 〜 09/24 14:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 9 | 09/24 02:48 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| DeItaone | 8 | 09/24 03:01 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
 | FirstSquawk | 154 | 09/24 03:07 | 09/24 14:43 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 110 | 09/24 03:00 | 09/24 14:43 | ⚠ 68分（11:33→12:41） |
+| financialjuice | 112 | 09/24 03:00 | 09/24 14:46 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 270 行（統合前 274 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 271 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 02:48 [DeItaone] MCDONALD’S CEO: HIGH INFLATION IS HERE TO STAY McDonald’s CEO Chris Kempczinski says weak customer traffic and persistent inflation are becoming the new normal for the restaurant industry. U.S. same-store sales rose just 0.8% last quarter, …
 - 09/24 03:00 [financialjuice] White House on the Diesel ban: Earlier Politico report on the ban is not accurate.
 - 09/24 03:01 [DeItaone] FBI DATA ALLEGEDLY STOLEN BY HACKERS HAS SENSITIVE INFORMATION ABOUT BUREAU EMPLOYEES' INTELLIGENCE WORK
 - 09/24 03:02 [DeItaone] HACKERS CLAIM MASSIVE FBI DATA BREACH Hacking group ShinyHunters claims it stole 2–3 terabytes of FBI data, including sensitive information on thousands of current and former employees. A leaked sample reportedly contains personal details a…
@@ -294,3 +293,5 @@
 - 09/24 14:42 [FirstSquawk] Saudi Arabia’s merchandise exports decline 17.2% YoY in July, oil exports down 12.8%
 - 09/24 14:43 [financialjuice] ECB's Kocher: Must prevent too high inflation, becoming entrenched.
 - 09/24 14:43 [FirstSquawk] Saudi merchandise exports plunge 17.2% in July 2026, govt data shows
+- 09/24 14:45 [financialjuice] ECB's Kocher: Eurozone economy remains fragile
+- 09/24 14:46 [financialjuice] ECB's Kocher: Signs of somewhat more Eurozone momentum since summer
