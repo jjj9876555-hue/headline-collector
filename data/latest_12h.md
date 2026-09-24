@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 09:31 JST／対象: 09/23 21:31 〜 09/24 09:31 JST（時刻はすべて日本時間）
+生成: 2026-09-24 09:50 JST／対象: 09/23 21:50 〜 09/24 09:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 66 | 09/23 21:44 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 161 | 09/23 21:35 | 09/24 09:27 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 201 | 09/23 21:48 | 09/24 09:30 | 42分（05:39→06:22） |
+| DeItaone | 65 | 09/23 21:51 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 166 | 09/23 21:53 | 09/24 09:45 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 200 | 09/23 21:53 | 09/24 09:36 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 414 行（統合前 431 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 418 行（統合前 434 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 21:35 [FirstSquawk] RUSSIAN GUIDED BOMB ATTACK IN OLEKSANDRIVKA, DONETSK, KILLED FOUR AND INJURED FOUR, DESTROYING A MULTI-STORY BUILDING.
-- 09/23 21:44 [DeItaone] DEMOCRATS HOLD 12-POINT MIDTERM EDGE IN NEW POLL Democrats lead Republicans 53% to 41% among registered voters in the latest NPR/PBS News/Marist poll. Trump’s approval stands at 39%, while 59% disapprove. 45% of voters say their congression…
-- 09/23 21:46 [FirstSquawk] CANADIAN PM CARNEY COMMENTS ON TRUMP'S CALL TO 'ANNIHILATE' IRAN, STATING 'HE'S USING WAR LANGUAGE.'
-- 09/23 21:48 [financialjuice] Morgan Stanley investment-banking deal list accidently leaked - People Familiar
-- 09/23 21:48 [FirstSquawk/financialjuice] US BUILDING MULTINATIONAL ATTACK DRONE UNIT: CENTCOM
 - 09/23 21:51 [DeItaone] U.S. DIESEL EXPORT BAN COULD DEEPEN GLOBAL SHORTAGE A potential U.S. diesel export ban would hit Latin America and Europe hardest, Capital Economics warns. Higher U.S. exports this year have offset roughly half the global supply losses caus…
 - 09/23 21:53 [DeItaone/financialjuice] PUTIN I'M SURE THAT THE SPECIAL MILITARY OPERATION'S GOALS WILL BE ACHIEVED
 - 09/23 21:53 [FirstSquawk] PUTIN APPEALING TO THE ARMY SERVICEMEN: THE VOTE IS FOR YOU
@@ -438,3 +433,12 @@
 - 09/24 09:27 [FirstSquawk] 10-year Japanese government bond yield jumps 8 bps to 3.055%, hits 30-year high
 - 09/24 09:30 [financialjuice] JAPANESE MFG PMI FLASH ACTUAL 54.1 (FORECAST -, PREVIOUS 54.9) $MACRO
 - 09/24 09:30 [financialjuice] JAPANESE COMPOSITE PMI FLASH ACTUAL 52.5 (FORECAST -, PREVIOUS 53.5) $MACRO
+- 09/24 09:32 [FirstSquawk] Japan S&P Global Services PMI Sep P: 51.6 (prev 52.5)
+- 09/24 09:32 [FirstSquawk] Japan S&P Global Manufacturing PMI Sep P: 54.1 (prev 54.9)
+- 09/24 09:32 [FirstSquawk] Japan S&P Global Composite PMI Sep P: 52.5 (prev 53.5)
+- 09/24 09:34 [FirstSquawk] US-China trade truce extended until January, Treasury Secretary Bessent says
+- 09/24 09:36 [financialjuice] Japan S&P Global September flash manufacturing PMI at 54.1 vs 54.9 in August
+- 09/24 09:38 [FirstSquawk] Gold prices muted as rising oil and Treasury yields weigh on sentiment - WSJ
+- 09/24 09:38 [FirstSquawk] Australian government website reportedly hacked by OpenAI agent, WSJ reports
+- 09/24 09:42 [FirstSquawk] SoftBank Group set to raise $11bn through bond sale for OpenAI investment - NA
+- 09/24 09:45 [FirstSquawk] YEMENI GOVERNMENT TELEVISION SAYS FORCES THWARTED A HOUTHI INFILTRATION ATTEMPT IN THE ASHBAUT AND HAYJAH AL-ABD AREAS OF THE AL-MAQATRAH DISTRICT IN LAHIJ

@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 09:31 JST／対象: 09/23 09:31 〜 09/24 09:31 JST（時刻はすべて日本時間）
+生成: 2026-09-24 09:50 JST／対象: 09/23 09:50 〜 09/24 09:50 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 296 | 09/23 09:35 | 09/24 09:27 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 269 | 09/23 10:01 | 09/24 09:30 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 298 | 09/23 09:51 | 09/24 09:45 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 270 | 09/23 10:01 | 09/24 09:36 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 628 行（統合前 650 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 631 行（統合前 653 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 09:35 [FirstSquawk] Gold gains as markets focus on easing oil prices - WSJ
-- 09/23 09:35 [FirstSquawk] U.S. crackdown threatens Americans’ access to low-cost Canadian prescriptions - WSJ
-- 09/23 09:42 [FirstSquawk] WTI crude falls toward $89 amid focus on Trump’s UN speech - FX
-- 09/23 09:43 [FirstSquawk] Samsung Electronics stock jumps 3%
-- 09/23 09:48 [FirstSquawk] Iranian and U.S. officials meet for rare discussions on the Strait of Hormuz, according to Al Jazeera
-- 09/23 09:48 [FirstSquawk] Zelenskiy warns of planned new mass Russian attack on Ukraine - Reuters
 - 09/23 09:51 [FirstSquawk] Embraer: Occurrence may disrupt airline schedules, but flight safety is unaffected
 - 09/23 09:51 [FirstSquawk] Embraer says technical support is being provided as necessary actions are taken to address the issue
 - 09/23 09:52 [FirstSquawk] Embraer closely monitors situation in coordination with operators and equipment maker
@@ -652,3 +646,12 @@
 - 09/24 09:27 [FirstSquawk] 10-year Japanese government bond yield jumps 8 bps to 3.055%, hits 30-year high
 - 09/24 09:30 [financialjuice] JAPANESE MFG PMI FLASH ACTUAL 54.1 (FORECAST -, PREVIOUS 54.9) $MACRO
 - 09/24 09:30 [financialjuice] JAPANESE COMPOSITE PMI FLASH ACTUAL 52.5 (FORECAST -, PREVIOUS 53.5) $MACRO
+- 09/24 09:32 [FirstSquawk] Japan S&P Global Services PMI Sep P: 51.6 (prev 52.5)
+- 09/24 09:32 [FirstSquawk] Japan S&P Global Manufacturing PMI Sep P: 54.1 (prev 54.9)
+- 09/24 09:32 [FirstSquawk] Japan S&P Global Composite PMI Sep P: 52.5 (prev 53.5)
+- 09/24 09:34 [FirstSquawk] US-China trade truce extended until January, Treasury Secretary Bessent says
+- 09/24 09:36 [financialjuice] Japan S&P Global September flash manufacturing PMI at 54.1 vs 54.9 in August
+- 09/24 09:38 [FirstSquawk] Gold prices muted as rising oil and Treasury yields weigh on sentiment - WSJ
+- 09/24 09:38 [FirstSquawk] Australian government website reportedly hacked by OpenAI agent, WSJ reports
+- 09/24 09:42 [FirstSquawk] SoftBank Group set to raise $11bn through bond sale for OpenAI investment - NA
+- 09/24 09:45 [FirstSquawk] YEMENI GOVERNMENT TELEVISION SAYS FORCES THWARTED A HOUTHI INFILTRATION ATTEMPT IN THE ASHBAUT AND HAYJAH AL-ABD AREAS OF THE AL-MAQATRAH DISTRICT IN LAHIJ
