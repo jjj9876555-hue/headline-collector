@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 23:18 JST／対象: 09/24 17:18 〜 09/24 23:18 JST（時刻はすべて日本時間）
+生成: 2026-09-24 23:54 JST／対象: 09/24 17:54 〜 09/24 23:54 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 29 | 09/24 21:26 | 09/24 23:14 | 20分（22:39→22:59） |
-| FirstSquawk | 113 | 09/24 17:24 | 09/24 23:14 | 22分（18:38→19:01） |
-| financialjuice | 103 | 09/24 17:36 | 09/24 23:17 | 30分（20:25→20:56） |
+| DeItaone | 50 | 09/24 21:26 | 09/24 23:54 | 20分（22:39→22:59） |
+| FirstSquawk | 139 | 09/24 18:05 | 09/24 23:52 | 22分（18:38→19:01） |
+| financialjuice | 134 | 09/24 18:09 | 09/24 23:52 | 30分（20:25→20:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 233 行（統合前 245 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 308 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 17:24 [FirstSquawk] WILLIAMS: TIME FOR EXPLICIT, VERY DIRECT FORWARD GUIDANCE IS OVER
-- 09/24 17:28 [FirstSquawk] U.S. 30-YEAR TREASURY YIELD RISES TO HIGHEST SINCE 2004
-- 09/24 17:31 [FirstSquawk] WILLIAMS: I SEE A TUG OF WAR BETWEEN HIGHER TREND GROWTH PUSHING UP U.S. R-START AND DEMOGRAPHICS PULLING IT DOWN
-- 09/24 17:32 [FirstSquawk] WILLIAMS: EXPECTATIONS OF REAL RATES ARE A BIG PART OF HIGHER BOND YIELDS
-- 09/24 17:34 [FirstSquawk] IRAN OFFICIAL SAYS CONFLICT WITH US COULD EXPAND FURTHER - FARS
-- 09/24 17:35 [FirstSquawk] IRAN'S SAFAVI SAYS NEXT PHASE COULD REACH INDIAN OCEAN - FARS
-- 09/24 17:36 [financialjuice] Fed's Williams: None of us know if higher yields will last.
-- 09/24 17:36 [financialjuice] Fed's Williams: I see a tug of war between higher trend growth pushing up US r-star and demographics pulling it down.
-- 09/24 17:36 [financialjuice] Iran Official: Conflict with US could expand further - Fars
-- 09/24 17:37 [financialjuice] Supreme Leader's Adviser Safavi:: Conflict with US could expand further - Fars
-- 09/24 17:43 [financialjuice] Fed's Williams: AI gains could boost us productivity like in 1996-2005, other gains reflect stronger business formation.
-- 09/24 17:43 [FirstSquawk] Iran Warns War Could Expand to Indian Ocean Iranian adviser to Supreme Leader Ali Khamenei, Yahya Rahim Safavi, warned that any renewed US or Israeli attacks on Iranian national centers or interests could lead to a broader expansion of the …
-- 09/24 17:50 [financialjuice] Fed's Williams: I view AI boom as more of a traditional demand shock, question on how long chip supply challenges last.
 - 09/24 18:05 [FirstSquawk] TRUMP ALLIES OPEN NEW FRONT AGAINST ANTHROPIC CEO OVER AI "DOOMERISM" - AXIOS
 - 09/24 18:05 [FirstSquawk] SAUDI ARAMCO CEO SAYS WILL CONTINUE TO SUPPLY JAPAN - NIKKEI
 - 09/24 18:05 [FirstSquawk] SAUDI ARAMCO STUDYING 4TH, 5TH ROUTES FOR CRUDE OIL - NIKKEI
@@ -257,3 +244,91 @@
 - 09/24 23:14 [FirstSquawk] ECB: SHE WILL STEP DOWN FROM HER POSITION ON 3 JANUARY 2027.
 - 09/24 23:15 [financialjuice] ECB: ECB's Schnabel is going to be appointed to the IMF financial counsellor and director of the monetary and capital markets department, she will step down from her ECB position on 3rd January 2027.
 - 09/24 23:17 [financialjuice] Fear and Greed Index: 35/100 = Fear
+- 09/24 23:18 [financialjuice] Crypto Fear and Greed Index: 71/100 = Greed
+- 09/24 23:18 [DeItaone] SAUDI EAST-WEST PIPELINE IS BUILDING UP CRUDE VOLUMES, TANKER LOADING YET TO RESUME AT YANBU, SOURCES SAY
+- 09/24 23:18 [FirstSquawk] SAUDI EAST-WEST PIPELINE IS INCREASING CRUDE VOLUMES, BUT TANKER LOADING AT YANBU HAS NOT STARTED AGAIN, SOURCES REPORT.
+- 09/24 23:19 [financialjuice] Saudi East-West Pipeline is building up crude volumes, tanker loading yet to resume at Yanbu - Sources.
+- 09/24 23:20 [financialjuice] Trump and the President of China Deliver Remarks - WATCH LIVE
+- 09/24 23:20 [financialjuice] BoE Breeden: We cannot ignore moves in the OIS interest rate futures market, need to understand what's going on.
+- 09/24 23:20 [DeItaone] TRUMP XI LIVE https://t.co/1PT0hpw0cP
+- 09/24 23:22 [financialjuice] BoE Breeden: We need to take into account the public's greater attentiveness to inflation, but also 2-sided risks.
+- 09/24 23:23 [DeItaone] TRUMP SAYS HE AND CHINA'S XI HAVE FORGED TRULY GREAT FRIENDSHIP
+- 09/24 23:24 [FirstSquawk] TRUMP: XI AND I HAVE FORGED A TRULY GREAT FRIENDSHIP
+- 09/24 23:24 [FirstSquawk] TRUMP: RELATIONSHIP WITH XI IS BUILT ON MUTUAL RESPECT
+- 09/24 23:24 [financialjuice] Trump: China’s President Xi and I have forged a truly great friendship built on mutual respect.
+- 09/24 23:25 [financialjuice] Trump: A lot has changed since China’s President Xi was last at the White House.
+- 09/24 23:25 [FirstSquawk] TRUMP: A LOT HAS CHANGED SINCE XI WAS LAST AT WHITE HOUSE
+- 09/24 23:25 [FirstSquawk] TRUMP: XI ARRIVES AT IMPORTANT MOMENT IN AMERICA'S HISTORY
+- 09/24 23:25 [financialjuice] Trump: I will visit the National Archives with Xi tomorrow.
+- 09/24 23:25 [FirstSquawk] TRUMP: WILL VISIT NATIONAL ARCHIVES WITH XI TOMORROW
+- 09/24 23:25 [financialjuice] Trump: Xi arrives at an important moment in America's history.
+- 09/24 23:26 [DeItaone] TRUMP SAYS PROUD OF US, CHINA RELATIONSHIP
+- 09/24 23:26 [FirstSquawk] TRUMP REFERS TO US 250TH ANNIVERSARY AS IMPORTANT MOMENT
+- 09/24 23:26 [FirstSquawk] TRUMP PRAISES HISTORY OF US-CHINA RELATIONS
+- 09/24 23:26 [financialjuice] Trump: I am proud of the US, China relationship.
+- 09/24 23:27 [DeItaone] TRUMP SAYS HE AND XI HAVE MADE TREMENDOUS STRIDES ON ISSUES FACING TWO COUNTRIES
+- 09/24 23:27 [FirstSquawk] TRUMP: MADE TREMENDOUS STRIDES WITH XI ON ISSUES WE FACE
+- 09/24 23:27 [DeItaone] TRUMP SAYS WORKING TOWARD A MORE BALANCED TRADE RELATIONSHIP
+- 09/24 23:27 [financialjuice] BoE Breeden: It is too far away to know if the BoE balance sheet will become fully repo-based, not an urgent issue.
+- 09/24 23:27 [financialjuice] Trump: Xi and I have made tremendous strides on issues facing the two countries.
+- 09/24 23:28 [DeItaone] TRUMP SAYS HE AND XI WILL DISCUSS SECURITY, TECHNOLOGY AND ARTIFICIAL INTELLIGENCE
+- 09/24 23:28 [financialjuice] Trump on China: We're working toward a more balanced trade relationship.
+- 09/24 23:28 [financialjuice] Trump: We're making progress on new market access for US farmers.
+- 09/24 23:28 [financialjuice] Trump: Xi and I will discuss security, technology and artificial intelligence.
+- 09/24 23:29 [financialjuice] Trump on China: If we focus on common interests, we can achieve a lot.
+- 09/24 23:29 [FirstSquawk] TRUMP:MAKING PROGRESS ON NEW MARKET ACCESS FOR US FARMERS
+- 09/24 23:29 [FirstSquawk] TRUMP: IF WE FOCUS ON COMMON INTERESTS, WE CAN ACHIEVE A LOT
+- 09/24 23:30 [financialjuice] EIA NATURAL GAS CHANGE BCF ACTUAL 53B (FORECAST 51B, PREVIOUS 44B) $MACRO
+- 09/24 23:30 [financialjuice] US EIA Weekly Natural Gas Storage Report
+- 09/24 23:30 [DeItaone] TRUMP SAYS HE AND XI WILL CONTINUE WORKING TOGETHER FOR A BETTER FUTURE
+- 09/24 23:30 [FirstSquawk] TRUMP: XI AND I WILL CONTINUE WORKING TOGETHER FOR FUTURE
+- 09/24 23:31 [financialjuice] Trump: Xi and I will continue working together for the future.
+- 09/24 23:32 [DeItaone] CHINA'S XI: HAPPY TO VISIT A 'BEAUTIFUL' US
+- 09/24 23:32 [FirstSquawk] WASHINGTON-CHINA'S XI: HAPPY TO VISIT A 'BEAUTIFUL' US
+- 09/24 23:33 [FirstSquawk] WASHINGTON-CHINA'S XI: ON BEHALF OF CHINESE PEOPLE, I EXPRESS MY GREETINGS TO US 250TH FOUNDING ANNIVERSAY
+- 09/24 23:33 [DeItaone] CHINA'S XI: CHINA, US ARE BOTH GREAT COUNTRIES, GREAT PEOPLES
+- 09/24 23:33 [DeItaone] CHINA'S XI: I'M HERE TO PASS ON FRIENDSHIP, EXPAND COOPERATION
+- 09/24 23:34 [FirstSquawk] XI: CHINA, US ARE GREAT NATIONS
+- 09/24 23:34 [FirstSquawk] XI: HERE TO EXPLORE COOPERATION
+- 09/24 23:34 [FirstSquawk] XI: VISIT FOR FRIENDSHIP, COOPERATION
+- 09/24 23:35 [DeItaone] CHINA'S XI: WILLING TO WORK WITH TRUMP TO STEER THE SHIP OF CHINA-US TIES
+- 09/24 23:35 [FirstSquawk] WASHINGTON-CHINA'S XI: WILLING TO WORK WITH TRUMP TO STEER THE SHIP OF CHINA-US TIES
+- 09/24 23:35 [DeItaone/FirstSquawk] CHINA'S XI: WE SHOULD STRENGTHEN COMMUNICATION
+- 09/24 23:35 [financialjuice] China’s President Xi: I am willing to work with Trump to steer the ship of China-US ties.
+- 09/24 23:36 [financialjuice] China’s President Xi on the US: We should strengthen communication.
+- 09/24 23:37 [financialjuice] China’s President Xi: I encourage economic and trade communication with the US.
+- 09/24 23:37 [FirstSquawk] CHINA'S XI: WE ENCOURGE EXCHANGES ON DIPLOMACY, TRADE AND ECONOMY, LAW ENFORCEMENT
+- 09/24 23:37 [DeItaone] PEZESHKIAN SET FOR FOX NEWS INTERVIEW TONIGHT Iranian President Masoud Pezeshkian is scheduled for a Fox News interview today at 1:00 PM ET. The interview will be conducted by Bret Baier.
+- 09/24 23:38 [DeItaone/FirstSquawk] CHINA'S XI: CHINA'S DOOR IS OPEN, WELCOMES US FIRMS TO INVEST IN CHINA
+- 09/24 23:38 [financialjuice] China’s President Xi: There is big room for China-US cooperation.
+- 09/24 23:38 [DeItaone] CHINA'S XI: CHINA, US ARE BOTH AI POWERS
+- 09/24 23:38 [financialjuice] China’s President Xi: China's door is open, we welcome US firms to invest in China.
+- 09/24 23:38 [DeItaone] CHINA'S XI: WILLING TO STEP UP COUNTER-NARCOTICS, LAW ENFORCEMENT COOPERATION
+- 09/24 23:38 [financialjuice] China’s President Xi: China and the US are both AI powers.
+- 09/24 23:38 [FirstSquawk] XI: WE HAVE RESPONSIBILITY TO MANAGE AI
+- 09/24 23:39 [FirstSquawk] XI: CHINA, US CAPABLE TO MANAGE AI
+- 09/24 23:39 [FirstSquawk] XI: WE CAN ENHANCE DIRECT FLIGHTS
+- 09/24 23:39 [financialjuice] China’s President Xi: China and the US are capable of managing AI, we have a responsibility to do so.
+- 09/24 23:39 [financialjuice] China’s President Xi: I am willing to step up counter-narcotics and law enforcement cooperation.
+- 09/24 23:39 [financialjuice] China’s President Xi: I hope Chinese firms are treated fairly in the US.
+- 09/24 23:40 [DeItaone] CHINA'S XI: WE NEED TO CO-EXIST PEACEFULLY
+- 09/24 23:40 [financialjuice] China’s President Xi: We need to ensure that AI is always under human control.
+- 09/24 23:40 [financialjuice] China’s President Xi on the US: We need to get along peacefully.
+- 09/24 23:40 [FirstSquawk] XI: WE NEED TO GET ALONG PEACEFULLY
+- 09/24 23:40 [FirstSquawk] XI: CHINA, US MUST AVOID CONFLICTS
+- 09/24 23:40 [FirstSquawk] XI: COMPETITION SHOULD BE POSITIVE, NOT WINNING OR LOSING
+- 09/24 23:41 [financialjuice] China’s President Xi: Competition should be positive, not winning or losing.
+- 09/24 23:41 [financialjuice] China’s President Xi on the US: Competition should be positive, with boundaries.
+- 09/24 23:41 [financialjuice] China’s President Xi: China-US military should maintain communications.
+- 09/24 23:42 [DeItaone] CHINA'S XI: CHINA TO INVITE 100,000 US YOUTH TO VISIT CHINA IN NEXT 5 YERAS
+- 09/24 23:43 [FirstSquawk] XI: IN COMING 5 YRS, INVITE 100,000 US YOUTHS TO CHINA
+- 09/24 23:43 [FirstSquawk] XI: PANDAS TO ARRIVE IN US IN FEW DAYS
+- 09/24 23:44 [FirstSquawk] CHINA PRESIDENT XI: CINA, US MILITARIES SHOULD MAINTAIN REGULAR DIALOGUE
+- 09/24 23:45 [financialjuice] China’s President Xi concludes speech at the White House.
+- 09/24 23:45 [financialjuice] Trump, Xi end remarks to media.
+- 09/24 23:49 [financialjuice] China's Pres. Xi gifted 2 Pandas to the US for the Atlanta Zoo BEARish 🐼
+- 09/24 23:51 [FirstSquawk] OIL FUTURES EXTEND GAINS, BRENT AND US CRUDE UP BY $3 A BARREL AS IRAN CANCELS FLIGHTS TO GULF NEIGHBORS AND LITTLE SIGN OF PROGRESS IN US-IRAN TALKS
+- 09/24 23:52 [DeItaone] YEMEN'S HOUTHIS SAY THEY ATTACKED SAUDI MILITARY SITES IN JAZAN; NO SAUDI CONFIRMATION
+- 09/24 23:52 [FirstSquawk] YEMEN'S HOUTHIS CLAIM ATTACKS ON SAUDI ARABIA'S JAZAN
+- 09/24 23:52 [financialjuice] Yemen's Houthis claim responsibility for the attacks on Saudi Arabia's Jazan.
+- 09/24 23:52 [FirstSquawk/DeItaone] PEPSICO IS RAISING PRICES ON SOME CHIPS, DIPS AND SODA
