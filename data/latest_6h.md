@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 15:23 JST／対象: 09/24 09:23 〜 09/24 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-24 15:42 JST／対象: 09/24 09:42 〜 09/24 15:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 94 | 09/24 09:23 | 09/24 15:20 | 25分（12:09→12:34） |
-| financialjuice | 36 | 09/24 09:30 | 09/24 14:46 | ⚠ 68分（11:33→12:41） |
+| FirstSquawk | 86 | 09/24 09:42 | 09/24 15:42 | 25分（12:09→12:34） |
+| financialjuice | 33 | 09/24 10:01 | 09/24 14:46 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 130 行（統合前 130 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 119 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 09:23 [FirstSquawk] Trump welcomes Xi Jinping at airport as Chinese president arrives for U.S. state visit
-- 09/24 09:25 [FirstSquawk] OPENAI IS LAUNCHING MENTALHEALTHBENCH, AN OPEN BENCHMARK DESIGNED TO EVALUATE HOW AI SYSTEMS RESPOND TO REALISTIC MENTAL-HEALTH CONVERSATIONS AND PROVIDE A STANDARDIZED WAY TO COMPARE PERFORMANCE. THE BENCHMARK COVERS ADULTS, TEENAGERS, CAR…
-- 09/24 09:26 [FirstSquawk] JAPAN’S 10-YEAR JGB YIELD SURGES 8.0 BPS TO 3.055%, HIGHEST SINCE SEPTEMBER 1996
-- 09/24 09:26 [FirstSquawk] Asia-Pac equities mixed at the open as Japanese markets reopen after long weekend
-- 09/24 09:27 [FirstSquawk] 10-year Japanese government bond yield jumps 8 bps to 3.055%, hits 30-year high
-- 09/24 09:30 [financialjuice] JAPANESE MFG PMI FLASH ACTUAL 54.1 (FORECAST -, PREVIOUS 54.9) $MACRO
-- 09/24 09:30 [financialjuice] JAPANESE COMPOSITE PMI FLASH ACTUAL 52.5 (FORECAST -, PREVIOUS 53.5) $MACRO
-- 09/24 09:32 [FirstSquawk] Japan S&P Global Services PMI Sep P: 51.6 (prev 52.5)
-- 09/24 09:32 [FirstSquawk] Japan S&P Global Manufacturing PMI Sep P: 54.1 (prev 54.9)
-- 09/24 09:32 [FirstSquawk] Japan S&P Global Composite PMI Sep P: 52.5 (prev 53.5)
-- 09/24 09:34 [FirstSquawk] US-China trade truce extended until January, Treasury Secretary Bessent says
-- 09/24 09:36 [financialjuice] Japan S&P Global September flash manufacturing PMI at 54.1 vs 54.9 in August
-- 09/24 09:38 [FirstSquawk] Gold prices muted as rising oil and Treasury yields weigh on sentiment - WSJ
-- 09/24 09:38 [FirstSquawk] Australian government website reportedly hacked by OpenAI agent, WSJ reports
 - 09/24 09:42 [FirstSquawk] SoftBank Group set to raise $11bn through bond sale for OpenAI investment - NA
 - 09/24 09:45 [FirstSquawk] YEMENI GOVERNMENT TELEVISION SAYS FORCES THWARTED A HOUTHI INFILTRATION ATTEMPT IN THE ASHBAUT AND HAYJAH AL-ABD AREAS OF THE AL-MAQATRAH DISTRICT IN LAHIJ
 - 09/24 09:52 [FirstSquawk] Australia condemns ‘unacceptable’ OpenAI breach of government health portal - SCMP
@@ -154,3 +140,6 @@
 - 09/24 15:14 [FirstSquawk] Russia says its forces struck a tanker in the Black Sea: IFX
 - 09/24 15:18 [FirstSquawk] Polish Army: Poland again launches preventive air operations linked to Russian strikes on Ukraine
 - 09/24 15:20 [FirstSquawk] German FM Wadephul urges immediate ceasefire in Ukraine, starting in Black Sea to secure grain flows
+- 09/24 15:24 [FirstSquawk] Australian S&P/ASX 200 ends 0.7% lower at 8,702.00 points
+- 09/24 15:24 [FirstSquawk] DeepSeek reaches $1B annualized revenue as $7.5B fundraising nears completion: The Information
+- 09/24 15:42 [FirstSquawk] EUROZONE BOND YIELDS OPEN HIGHER-WSJ

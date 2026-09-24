@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 15:23 JST／対象: 09/24 03:23 〜 09/24 15:23 JST（時刻はすべて日本時間）
+生成: 2026-09-24 15:42 JST／対象: 09/24 03:42 〜 09/24 15:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 4 | 09/24 03:30 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 156 | 09/24 03:33 | 09/24 15:20 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 109 | 09/24 03:31 | 09/24 14:46 | ⚠ 68分（11:33→12:41） |
+| DeItaone | 2 | 09/24 05:25 | 09/24 05:51 | 25分（05:25→05:51） |
+| FirstSquawk | 154 | 09/24 03:43 | 09/24 15:42 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 105 | 09/24 03:48 | 09/24 14:46 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 267 行（統合前 270 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 259 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 03:30 [DeItaone] HASSETT QUESTIONS FED'S DECISION TO HIKE RATES
-- 09/24 03:30 [DeItaone] HASSETT SAYS WARSH MANAGES UNUSUALLY PARTISAN FEDERAL RESERVE
-- 09/24 03:31 [financialjuice] NYMEX WTI Crude Nov. futures settle at $92.16 a barrel up $1.64, 1.81%
-- 09/24 03:31 [financialjuice] NYMEX gasoline Oct. futures settle at $3.5870 a gallon
-- 09/24 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.7764 a gallon
-- 09/24 03:33 [FirstSquawk] ANTHROPIC LAUNCHES NEW LIFE SCIENCES RESEARCH GROUP & LABORATORY
-- 09/24 03:34 [FirstSquawk] SPAIN PM SANCHEZ BACKS DE COS FOR NEXT ECB PRESIDENT; SAYS EU MUST REDUCE DEPENDENCY ON CHINA
-- 09/24 03:34 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.81% HIGHER AT $92.16/BBL, UP $1.64
-- 09/24 03:37 [FirstSquawk] US SEN. COLLINS: WHITE HOUSE AGREES TO HOLD OFF ON NIH GRANT ORDER
-- 09/24 03:40 [financialjuice] Brent Crude futures settle at $103.08/bbl, up $3.83, 3.86%
-- 09/24 03:41 [FirstSquawk] BRENT CRUDE FUTURES SETTLE 3.86% HIGHER AT $103.08/BBL, UP $3.83
 - 09/24 03:43 [FirstSquawk] U.S. AND CHINESE TRADE NEGOTIATORS DISCUSSED THE IDEA 'OF A BIGGER DEAL' PROPOSED BY CHINA BETWEEN THE TWO GLOBAL SUPERPOWERS, TREASURY SECRETARY SCOTT BESSENT SAID FOLLOWING HIS WEDNESDAY MEETING WITH HIS CHINESE COUNTERPART, VICE PREMIER …
 - 09/24 03:43 [FirstSquawk] THE TEMPORARY TRADE TRUCE BETWEEN THE TWO COUNTRIES IS SET TO EXPIRE NOV. 10, WITH THE DEAL EXPECTED TO BE A TALKING POINT BETWEEN PRESIDENT DONALD TRUMP AND CHINESE PRESIDENT XI JINPING DURING THE STATE VISIT IN WASHINGTON, D.C. - CBS NEWS
 - 09/24 03:48 [financialjuice] Iraqi Prime Minister, Turkish President agree to have Turkish forces hand over camps in northern Iraq to Iraqi federal government gradually - Iraqi PM office statement.
@@ -291,3 +280,6 @@
 - 09/24 15:14 [FirstSquawk] Russia says its forces struck a tanker in the Black Sea: IFX
 - 09/24 15:18 [FirstSquawk] Polish Army: Poland again launches preventive air operations linked to Russian strikes on Ukraine
 - 09/24 15:20 [FirstSquawk] German FM Wadephul urges immediate ceasefire in Ukraine, starting in Black Sea to secure grain flows
+- 09/24 15:24 [FirstSquawk] Australian S&P/ASX 200 ends 0.7% lower at 8,702.00 points
+- 09/24 15:24 [FirstSquawk] DeepSeek reaches $1B annualized revenue as $7.5B fundraising nears completion: The Information
+- 09/24 15:42 [FirstSquawk] EUROZONE BOND YIELDS OPEN HIGHER-WSJ
