@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 12:59 JST／対象: 09/24 00:59 〜 09/24 12:59 JST（時刻はすべて日本時間）
+生成: 2026-09-24 13:18 JST／対象: 09/24 01:18 〜 09/24 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 18 | 09/24 01:00 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 150 | 09/24 01:15 | 09/24 12:57 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 128 | 09/24 01:02 | 09/24 12:41 | ⚠ 68分（11:33→12:41） |
+| DeItaone | 15 | 09/24 01:59 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 155 | 09/24 01:23 | 09/24 13:17 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 123 | 09/24 01:30 | 09/24 13:01 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 293 行（統合前 297 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 290 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 01:00 [DeItaone] IRAN HARDLINERS ATTACK FOREIGN MINISTER OVER U.S. CONTACTS Iranian hardline outlets are escalating criticism of Foreign Minister Abbas Araghchi after Iranian officials reportedly met U.S. envoy Steve Witkoff in New York. IRGC-linked Tasnim …
-- 09/24 01:02 [financialjuice] Israel's N12 News: The "Together" party leader Bennett calls on Israeli PM Netanyahu to declare Qatar an enemy state during UN General Assembly speech, coalition and opposition would support move.
-- 09/24 01:04 [financialjuice] Senators aim to fast-track Chinese vehicle ban legislation this week as China's Xi visits Washington - Document.
-- 09/24 01:04 [financialjuice] Israel's Channel 12 News: The "Together" party leader Bennett calls on Israeli PM Netanyahu to declare Qatar an enemy state during UN General Assembly speech, coalition and opposition would support move.
-- 09/24 01:05 [DeItaone] ANTHROPIC LEADERS BACK PILGRIM STARTUP DEVELOPING SYSTEM TO DETECT BIOLOGICAL THREATS - WSJ
-- 09/24 01:07 [DeItaone] ANTHROPIC LEADERS BACK AI-ERA BIODEFENSE STARTUP Two Anthropic leaders invested in Pilgrim, a startup developing technology to detect airborne biological threats such as Ebola and anthrax. Pilgrim raised $25 million at a $150 million valuat…
-- 09/24 01:11 [financialjuice] Russian Foreign Minister Lavrov and US Secretary of State Rubio discussed the situation in the Middle East, the Transcaucasus, Latin America, and the Caribbean.
-- 09/24 01:11 [financialjuice] Russian Foreign Minister Lavrov emphasised the need to restore bilateral relations as soon as possible.
-- 09/24 01:12 [financialjuice] Russian Foreign Minister Lavrov: An agreement has been reached to continue discussions.
-- 09/24 01:15 [FirstSquawk] RUSSIA'S LAVROV, US SEC. OF STATE RUBIO DISCUSSED THE SITUATION IN MIDDLE EAST, THE TRANSCAUCASUS, LATAM AND CARIBBEAN – FOREIGN MINISTRY
 - 09/24 01:23 [FirstSquawk] EU BREXIT CHIEF: UK CAN GET A CANADA-STYLE MEMBERSHIP DEAL
 - 09/24 01:30 [financialjuice] IMF: The Middle East war since late February has significantly altered global growth trajectory through energy, commodity and supply-chain disruptions.
 - 09/24 01:30 [financialjuice] IMF: Global public debt was already near record highs when Middle East war began.
@@ -317,3 +307,10 @@
 - 09/24 12:46 [FirstSquawk] Vinhomes: Bond issuance to feature maturities of up to 2 years with fixed and floating rates
 - 09/24 12:54 [FirstSquawk] AI leaders caution U.N. over security risks from increasingly powerful systems - KYODO
 - 09/24 12:57 [FirstSquawk] 10-year JGB yield jumps 9 bps to 3.065%
+- 09/24 13:01 [financialjuice] Ten commodity ships pass Strait of Hormuz on Wednesday against 10-day moving average near 17, data shows
+- 09/24 13:01 [FirstSquawk] Only 10 commodity vessels crossed Strait of Hormuz on Wednesday, data shows
+- 09/24 13:01 [FirstSquawk] Jane Street set to double London office footprint, FT reports
+- 09/24 13:04 [FirstSquawk] Jane Street agrees to pre-let space at One Spitalfields: FT
+- 09/24 13:13 [FirstSquawk] Global bond rout deepens with oil prices above $100: FT
+- 09/24 13:15 [FirstSquawk] Indonesia central bank: Rupiah performance generally aligned with regional currencies
+- 09/24 13:17 [FirstSquawk] 10-year Japanese government bond yield jumps 9.5 bps to 3.070%

@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 12:59 JST／対象: 09/23 12:59 〜 09/24 12:59 JST（時刻はすべて日本時間）
+生成: 2026-09-24 13:18 JST／対象: 09/23 13:18 〜 09/24 13:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 306 | 09/23 13:00 | 09/24 12:57 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 275 | 09/23 13:04 | 09/24 12:41 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 304 | 09/23 13:18 | 09/24 13:17 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 274 | 09/23 13:18 | 09/24 13:01 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 644 行（統合前 666 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 641 行（統合前 663 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 13:00 [FirstSquawk] Jefferies trims Haleon price target to 400p from 410p
-- 09/23 13:02 [FirstSquawk] Novo considers upgrading its US listing, FT reports
-- 09/23 13:03 [FirstSquawk] Novo may upgrade New York listing as part of push to boost US profile - FT
-- 09/23 13:03 [FirstSquawk] China takes stock of Broadcom gear as domestic AI drive gathers pace - FT
-- 09/23 13:04 [financialjuice] Chinese authorities examine use of Broadcom hardware in state-backed data centers amid push to support local manufacturers - FT
-- 09/23 13:04 [FirstSquawk] Chinese authorities review Broadcom hardware in state-backed data centres as local producers gain focus - FT
-- 09/23 13:10 [financialjuice] Japan PM Takaichi: agreed with President Trump at meeting to enhance economic security partnership
-- 09/23 13:11 [FirstSquawk] Japan’s Takaichi says Trump meeting produced agreement to strengthen economic security ties
-- 09/23 13:17 [FirstSquawk] Takaichi says she and Trump discussed China ahead of US-China summit
-- 09/23 13:18 [FirstSquawk] Japan’s Takaichi stresses importance of US-China relations for international stability
 - 09/23 13:18 [financialjuice] Japan PM Takaichi: had frank discussion with Trump on international criminal court
 - 09/23 13:18 [FirstSquawk] Takaichi says she had candid talks with Trump about the International Criminal Court
 - 09/23 13:22 [FirstSquawk] Global banks caution UK windfall tax may push activity out of London - FT
@@ -668,3 +658,10 @@
 - 09/24 12:46 [FirstSquawk] Vinhomes: Bond issuance to feature maturities of up to 2 years with fixed and floating rates
 - 09/24 12:54 [FirstSquawk] AI leaders caution U.N. over security risks from increasingly powerful systems - KYODO
 - 09/24 12:57 [FirstSquawk] 10-year JGB yield jumps 9 bps to 3.065%
+- 09/24 13:01 [financialjuice] Ten commodity ships pass Strait of Hormuz on Wednesday against 10-day moving average near 17, data shows
+- 09/24 13:01 [FirstSquawk] Only 10 commodity vessels crossed Strait of Hormuz on Wednesday, data shows
+- 09/24 13:01 [FirstSquawk] Jane Street set to double London office footprint, FT reports
+- 09/24 13:04 [FirstSquawk] Jane Street agrees to pre-let space at One Spitalfields: FT
+- 09/24 13:13 [FirstSquawk] Global bond rout deepens with oil prices above $100: FT
+- 09/24 13:15 [FirstSquawk] Indonesia central bank: Rupiah performance generally aligned with regional currencies
+- 09/24 13:17 [FirstSquawk] 10-year Japanese government bond yield jumps 9.5 bps to 3.070%
