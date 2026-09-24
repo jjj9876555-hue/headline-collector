@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 05:19 JST／対象: 09/24 05:19 〜 09/25 05:19 JST（時刻はすべて日本時間）
+生成: 2026-09-25 05:35 JST／対象: 09/24 05:35 〜 09/25 05:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 88 | 09/24 05:25 | 09/25 04:02 | ⚠ 935分（05:51→21:26） |
-| FirstSquawk | 356 | 09/24 05:25 | 09/25 05:17 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 287 | 09/24 05:25 | 09/25 05:18 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 87 | 09/24 05:51 | 09/25 04:02 | ⚠ 935分（05:51→21:26） |
+| FirstSquawk | 360 | 09/24 06:44 | 09/25 05:32 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 286 | 09/24 05:39 | 09/25 05:24 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 707 行（統合前 737 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 709 行（統合前 739 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 05:25 [financialjuice] Australia's PM Albanese: OpenAI model hacked Services Australia
-- 09/24 05:25 [FirstSquawk] U.S. ENVOY KRATSIOS TOLD THE UN SECURITY COUNCIL THAT THE U.S. 'REJECTS ANY ATTEMPTS TO CONSTRUCT A GLOBAL SCHEME TO CONTROL AI', SAYING THERE IS 'NO REASON TO PAUSE RAPIDLY ADVANCING AI OR CONSTRAIN IT WITH GLOBAL GOVERNANCE' AND THAT 'YOU…
-- 09/24 05:25 [FirstSquawk] FRENCH FOREIGN MINISTER SAID THE INTERNATIONAL COMMUNITY NEEDS TO ESTABLISH A COMMON FRAMEWORK TO MANAGE AI RISKS, WHILE BRITAIN'S FOREIGN SECRETARY SAID THE WORLD 'CANNOT IGNORE WARNINGS FROM AI LEADERS'.
-- 09/24 05:25 [DeItaone] US JUDGE DECIDING CASE OVER MEDIA BAN AT THE WHITE HOUSE ENDS HEARING WITHOUT SAYING WHEN HE WOULD RULE
-- 09/24 05:26 [FirstSquawk] U.S. STOCKS AND TREASURIES FELL AS BRENT CRUDE SETTLED AROUND $103 A BARREL, FUELING INFLATION FEARS, WHILE STRONGEST U.S. BUSINESS ACTIVITY SINCE 2021 AND A WEAK $70 BILLION FIVE-YEAR TREASURY AUCTION PUSHED YIELDS TOWARD NEAR TWO-DECADE H…
-- 09/24 05:26 [FirstSquawk] MARKETS INCREASINGLY PRICE TWO MORE FED RATE HIKES AFTER GOVERNOR MICHAEL BARR SAID FURTHER TIGHTENING MAY BE NEEDED, WHILE IRAN’S PRESIDENT SAID TEHRAN WILL NOT ALLOW FREEDOM OF NAVIGATION THROUGH THE STRAIT OF HORMUZ UNDER SANCTIONS AND A…
-- 09/24 05:31 [financialjuice] UK's Healey: I spoke with US Treasury Secretary Bessent today - Post on X.
-- 09/24 05:32 [financialjuice] UK's Chancellor Healey spoke to Bessent on stepping up pressure on Iran and how to work together to drive growth in both nations.
-- 09/24 05:33 [financialjuice] OpenAI Agents accessed Australia's Medicare statistics - News24.
 - 09/24 05:39 [financialjuice] Australia's Prime Minister Albanese: I am aware of AI incidents happening elsewhere.
 - 09/24 05:51 [DeItaone] AUSTRALIA PM ALBANESE: INCIDENT INVOLVED OPENAI AGENT GAINING UNAUTHORIZED ACCESS INTO THE PUBLIC-FACING MEDICARE STATISTICS REPORTING SERVICE PORTAL
 - 09/24 06:22 [financialjuice] North Korea: conducted test launch of upgraded guided rocket artillery shells on Sept. 22 - KCNA
@@ -731,3 +722,14 @@
 - 09/25 05:16 [financialjuice] China's Xi: New arrangement after China-US trade talks is good news.
 - 09/25 05:17 [FirstSquawk] COSTCO Q4 NET SALES ROSE TO $93.87 BILLION, WITH TOTAL REVENUE AT $95.72 BILLION AND NET INCOME OF $3.0 BILLION; EPS CAME IN AT $6.75 VERSUS $6.56 EXPECTED. || ADJUSTED COMPARABLE SALES GREW 6.7%, WHILE EPS INCLUDED A $0.15 BENEFIT FROM IEE…
 - 09/25 05:18 [financialjuice] $COST Costco Q4 Earnings EPS $6.75, est. $6.53 Total Revenue $95.72B, est. $94.92B Total Company Comp Sales ex-gas, FX +6.7%, est. +6.44% Total Company Comp Sales incl. gas, FX +9.4%, est. +8.37%
+- 09/25 05:19 [financialjuice] Trump and Xi confirmed that they would support each other in hosting the APEC Economic Leaders meeting and the G20 Summit in 2026 - Xinhua
+- 09/25 05:19 [FirstSquawk] CHINESE PRESIDENT XI: CHINA & US DELEGATIONS REACH NEW ARRANGEMENT AFTER TRADE TALKS; CALLS IT “GOOD NEWS”
+- 09/25 05:20 [FirstSquawk] TRUMP & XI AGREE TO SUPPORT EACH OTHER IN HOSTING 2026 APEC ECONOMIC LEADERS’ MEETING & G20 SUMMIT — XINHUA
+- 09/25 05:21 [financialjuice] Xi and Trump exchange views on the Middle East situation, the Ukraine crisis and the Korean Peninsula - Xinhua
+- 09/25 05:22 [FirstSquawk] CHINESE PRESIDENT XI & TRUMP EXCHANGE VIEWS ON MIDDLE EAST, UKRAINE CRISIS & KOREAN PENINSULA — XINHUA
+- 09/25 05:24 [financialjuice] President Xi stressed that the economic and trade teams of the two sides held a new round of consultations and reached a new joint arrangement - Xinhua
+- 09/25 05:25 [FirstSquawk] NEW YORK MAYOR MAMDANI: NETANYAHU USED UN SPEECH TO REPEAT “BASELESS LIES” ABOUT PALESTINIANS; SAYS NO LIE CHANGES HIS STATUS UNDER AN INTERNATIONAL CRIMINAL COURT ARREST WARRANT
+- 09/25 05:29 [FirstSquawk] CHINESE PRESIDENT XI: CHINA & US HAVE “EVEN MORE REASONS TO COOPERATE” ON AI DESPITE COMPETITION — XINHUA
+- 09/25 05:31 [FirstSquawk] AKAMAI TECHNOLOGIES ANNOUNCES A MULTI-YEAR $11.6 BILLION AGREEMENT WITH ANTHROPIC TO SUPPORT RISING AI DEMAND, WITH POTENTIAL EXPANSION OF UP TO $9 BILLION, TAKING THE TOTAL COMMITMENT TO AS MUCH AS $20 BILLION.
+- 09/25 05:32 [FirstSquawk] AKAMAI EXPECTS $5.5 BILLION IN CAPITAL EXPENDITURE FOR THE INITIAL COMMITMENT, INCLUDING A $1.7 BILLION INCREASE IN 2026 CAPEX, WHILE ISSUING ANTHROPIC A WARRANT FOR UP TO 7.7 MILLION SHARES, OR 5% OF OUTSTANDING STOCK, AT $111.33 PER SHARE…
+- 09/25 05:32 [FirstSquawk] DELTA AIR LINES DECLARES QUARTERLY DIVIDEND OF $0.22 PER SHARE

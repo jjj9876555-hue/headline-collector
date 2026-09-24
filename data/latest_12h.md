@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 05:19 JST／対象: 09/24 17:19 〜 09/25 05:19 JST（時刻はすべて日本時間）
+生成: 2026-09-25 05:35 JST／対象: 09/24 17:35 〜 09/25 05:35 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 86 | 09/24 21:26 | 09/25 04:02 | 34分（01:16→01:51） |
-| FirstSquawk | 209 | 09/24 17:24 | 09/25 05:17 | 39分（01:57→02:36） |
-| financialjuice | 192 | 09/24 17:36 | 09/25 05:18 | 30分（02:29→03:00） |
+| FirstSquawk | 212 | 09/24 17:35 | 09/25 05:32 | 39分（01:57→02:36） |
+| financialjuice | 195 | 09/24 17:36 | 09/25 05:24 | 30分（02:29→03:00） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 465 行（統合前 493 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 471 行（統合前 499 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 17:24 [FirstSquawk] WILLIAMS: TIME FOR EXPLICIT, VERY DIRECT FORWARD GUIDANCE IS OVER
-- 09/24 17:28 [FirstSquawk] U.S. 30-YEAR TREASURY YIELD RISES TO HIGHEST SINCE 2004
-- 09/24 17:31 [FirstSquawk] WILLIAMS: I SEE A TUG OF WAR BETWEEN HIGHER TREND GROWTH PUSHING UP U.S. R-START AND DEMOGRAPHICS PULLING IT DOWN
-- 09/24 17:32 [FirstSquawk] WILLIAMS: EXPECTATIONS OF REAL RATES ARE A BIG PART OF HIGHER BOND YIELDS
-- 09/24 17:34 [FirstSquawk] IRAN OFFICIAL SAYS CONFLICT WITH US COULD EXPAND FURTHER - FARS
 - 09/24 17:35 [FirstSquawk] IRAN'S SAFAVI SAYS NEXT PHASE COULD REACH INDIAN OCEAN - FARS
 - 09/24 17:36 [financialjuice] Fed's Williams: None of us know if higher yields will last.
 - 09/24 17:36 [financialjuice] Fed's Williams: I see a tug of war between higher trend growth pushing up US r-star and demographics pulling it down.
@@ -489,3 +484,14 @@
 - 09/25 05:16 [financialjuice] China's Xi: New arrangement after China-US trade talks is good news.
 - 09/25 05:17 [FirstSquawk] COSTCO Q4 NET SALES ROSE TO $93.87 BILLION, WITH TOTAL REVENUE AT $95.72 BILLION AND NET INCOME OF $3.0 BILLION; EPS CAME IN AT $6.75 VERSUS $6.56 EXPECTED. || ADJUSTED COMPARABLE SALES GREW 6.7%, WHILE EPS INCLUDED A $0.15 BENEFIT FROM IEE…
 - 09/25 05:18 [financialjuice] $COST Costco Q4 Earnings EPS $6.75, est. $6.53 Total Revenue $95.72B, est. $94.92B Total Company Comp Sales ex-gas, FX +6.7%, est. +6.44% Total Company Comp Sales incl. gas, FX +9.4%, est. +8.37%
+- 09/25 05:19 [financialjuice] Trump and Xi confirmed that they would support each other in hosting the APEC Economic Leaders meeting and the G20 Summit in 2026 - Xinhua
+- 09/25 05:19 [FirstSquawk] CHINESE PRESIDENT XI: CHINA & US DELEGATIONS REACH NEW ARRANGEMENT AFTER TRADE TALKS; CALLS IT “GOOD NEWS”
+- 09/25 05:20 [FirstSquawk] TRUMP & XI AGREE TO SUPPORT EACH OTHER IN HOSTING 2026 APEC ECONOMIC LEADERS’ MEETING & G20 SUMMIT — XINHUA
+- 09/25 05:21 [financialjuice] Xi and Trump exchange views on the Middle East situation, the Ukraine crisis and the Korean Peninsula - Xinhua
+- 09/25 05:22 [FirstSquawk] CHINESE PRESIDENT XI & TRUMP EXCHANGE VIEWS ON MIDDLE EAST, UKRAINE CRISIS & KOREAN PENINSULA — XINHUA
+- 09/25 05:24 [financialjuice] President Xi stressed that the economic and trade teams of the two sides held a new round of consultations and reached a new joint arrangement - Xinhua
+- 09/25 05:25 [FirstSquawk] NEW YORK MAYOR MAMDANI: NETANYAHU USED UN SPEECH TO REPEAT “BASELESS LIES” ABOUT PALESTINIANS; SAYS NO LIE CHANGES HIS STATUS UNDER AN INTERNATIONAL CRIMINAL COURT ARREST WARRANT
+- 09/25 05:29 [FirstSquawk] CHINESE PRESIDENT XI: CHINA & US HAVE “EVEN MORE REASONS TO COOPERATE” ON AI DESPITE COMPETITION — XINHUA
+- 09/25 05:31 [FirstSquawk] AKAMAI TECHNOLOGIES ANNOUNCES A MULTI-YEAR $11.6 BILLION AGREEMENT WITH ANTHROPIC TO SUPPORT RISING AI DEMAND, WITH POTENTIAL EXPANSION OF UP TO $9 BILLION, TAKING THE TOTAL COMMITMENT TO AS MUCH AS $20 BILLION.
+- 09/25 05:32 [FirstSquawk] AKAMAI EXPECTS $5.5 BILLION IN CAPITAL EXPENDITURE FOR THE INITIAL COMMITMENT, INCLUDING A $1.7 BILLION INCREASE IN 2026 CAPEX, WHILE ISSUING ANTHROPIC A WARRANT FOR UP TO 7.7 MILLION SHARES, OR 5% OF OUTSTANDING STOCK, AT $111.33 PER SHARE…
+- 09/25 05:32 [FirstSquawk] DELTA AIR LINES DECLARES QUARTERLY DIVIDEND OF $0.22 PER SHARE
