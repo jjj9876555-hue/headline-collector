@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 12:25 JST／対象: 09/23 12:25 〜 09/24 12:25 JST（時刻はすべて日本時間）
+生成: 2026-09-24 12:44 JST／対象: 09/23 12:44 〜 09/24 12:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 304 | 09/23 12:25 | 09/24 12:09 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 275 | 09/23 12:39 | 09/24 11:33 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 304 | 09/23 12:48 | 09/24 12:44 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 275 | 09/23 13:04 | 09/24 12:41 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 642 行（統合前 664 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,10 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 12:25 [FirstSquawk] Chinese crusher books Australian canola cargo in one of first private new-crop deals — RTRS
-- 09/23 12:32 [FirstSquawk] DBS sees uneven ASEAN growth as AI reshapes regional economies
-- 09/23 12:39 [FirstSquawk] World Bank makes up to $170 million available for Nepal’s immediate flood response
-- 09/23 12:39 [financialjuice] China finance ministry offers 3-month bills at 1.1101% yield: traders
 - 09/23 12:48 [FirstSquawk] Singapore dollar eases ahead of August inflation figures - WSJ
 - 09/23 12:53 [FirstSquawk] AutoZone target price reduced to $3,400 from $3,500 by TD Cowen
 - 09/23 13:00 [FirstSquawk] Jefferies trims Haleon price target to 400p from 410p
@@ -666,3 +662,7 @@
 - 09/24 11:54 [FirstSquawk] AUD/JPY slips after mixed Australian jobs data
 - 09/24 12:01 [FirstSquawk] High costs challenge Thailand’s solar scheme as smaller users remain hesitant - SCMP
 - 09/24 12:09 [FirstSquawk] China drops two-thirds of planned coal power plants abroad - SCMP
+- 09/24 12:34 [FirstSquawk] Canadian dollar remains steady as oil uncertainty and Fed hawkishness persist
+- 09/24 12:35 [FirstSquawk] Hong Kong improves property market transparency ranking, remains behind Singapore - SCMP
+- 09/24 12:41 [financialjuice] PAM secures most seats in Morocco's parliamentary election
+- 09/24 12:44 [FirstSquawk] Vietnam’s Vinhomes to raise $308M through domestic bond issuance

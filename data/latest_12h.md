@@ -7,44 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 12:25 JST／対象: 09/24 00:25 〜 09/24 12:25 JST（時刻はすべて日本時間）
+生成: 2026-09-24 12:44 JST／対象: 09/24 00:44 〜 09/24 12:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 21 | 09/24 00:43 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 155 | 09/24 00:26 | 09/24 12:09 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 138 | 09/24 00:27 | 09/24 11:33 | 42分（05:39→06:22） |
+| DeItaone | 19 | 09/24 00:48 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 148 | 09/24 00:52 | 09/24 12:44 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 130 | 09/24 00:48 | 09/24 12:41 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 311 行（統合前 315 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 294 行（統合前 298 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 00:26 [FirstSquawk] GOOGLE LAUNCHES GEMINI 3.8 FLASH TTS AUDIO MODELS
-- 09/24 00:27 [financialjuice] US-EU Ambassador Puzder: We discussed Chinese overcapacity with EU's Sefcovic.
-- 09/24 00:28 [FirstSquawk] FRANCE FOREIGN MINISTER BARROT: RUSSIA IS ATTACKING THE WHOLE OF EUROPE
-- 09/24 00:29 [financialjuice] Iranian Tasnim News Agency, citing sources: Araqchi's move in dealing with Witkov was done without coordination with the relevant authorities - Al Hadath.
-- 09/24 00:33 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON: ANOTHER ROUND OF MESSAGE EXCHANGES AND CLARIFICATIONS TOOK PLACE BETWEEN IRAN, US VIA THE QATARI MEDIATOR ON TUESDAY
-- 09/24 00:33 [financialjuice] Iran's Foreign Ministry Spokesperson: Another round of message exchanges and clarifications took place between Iran and the US via the Qatari mediator on Tuesday.
-- 09/24 00:34 [financialjuice] Fed's Goolsbee: We're better off assuming that bigger negative supply shocks to have a pretty persistent effect on inflation - Economics Applied Podcast.
-- 09/24 00:35 [financialjuice] Fed's Goolsbee: That's what happened with tariffs, COVID; that's maybe what's happening with oil, we better be careful.
-- 09/24 00:35 [FirstSquawk] FED'S GOOLSBEE, IN 'ECONOMICS, APPLIED' PODCAST: BETTER OFF ASSUMING THAT BIGGER NEGATIVE SUPPLY SHOCKS TO HAVE A PRETTY PERSISTENT EFFECT ON INFLATION
-- 09/24 00:35 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON ON X: IRAN CLARIFIED ITS CONDITIONS FOR REVIVING DIPLOMACY IN THE TWO HOUR LONG PROCESS TO U.S.
-- 09/24 00:36 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS CONDITIONS INCLUDE ACCEPTING THE SAFE ROUTE IN HORMUZ IN WHICH UNDERSTANDING BETWEEN THE TWO COASTAL COUNTRIES HAS BEEN REACHED
-- 09/24 00:37 [financialjuice] Iran's Foreign Ministry Spokesperson: Conditions include accepting the safe route in Hormuz, in which an understanding between the two coastal countries has been reached.
-- 09/24 00:37 [financialjuice] Fitch Ratings believes that lingering tensions between the US and Europe continue to raise questions over the reliability of the US' security commitments to Europe.
-- 09/24 00:38 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON: IRAN'S CONDITIONS ALSO INCLUDE END OF U.S. ACTIONS, INCLUDING NAVAL BLOCKADE, ENDING WAR, RELEASE OF FROZEN ASSETS
-- 09/24 00:38 [financialjuice] Greenland Deal Addresses One Source of US-EU Tensions; Tariff and NATO Risks Persist - Fitch Ratings
-- 09/24 00:38 [FirstSquawk] GREENLAND DEAL ADDRESSES ONE SOURCE OF US-EU TENSIONS; TARIFF AND NATO RISKS PERSIST – FITCH
-- 09/24 00:38 [FirstSquawk] PARAMOUNT WEIGHS TAPPING MUSK FOR EQUITY INVESTMENT - SEMAFOR
-- 09/24 00:42 [FirstSquawk] TURKISH AIRLINES ARE TO BUY UP TO 150 BOEING 737 MAX JETS
-- 09/24 00:42 [financialjuice] Head of the Iranian Atomic Energy Organization: Despite numerous IAEA inspections, not a single report of non-compliance exists. The Agency has had access to all facilities - IRIB News.
-- 09/24 00:43 [DeItaone] FITCH WARNS U.S.-EU TENSIONS REMAIN A KEY RISK Fitch says lingering U.S.-Europe tensions are raising questions over NATO cohesion and the reliability of U.S. security commitments. It also warns that renewed U.S.-EU tariffs remain a signific…
-- 09/24 00:43 [DeItaone] U.S. TREASURY YIELD ON 10-YEAR TREASURY NOTE HITS 5.081%, HIGHEST SINCE JULY 17, 2007; LAST UP 10.57 BASIS POINTS AT 5.073%
 - 09/24 00:48 [DeItaone] BESSENT AFTER MEETING WITH CHINA'S HE: WE'RE FINE WITH EITHER CONTINUING BUSAN ARRANGEMENT OR EXAMINING BIGGER DEAL
 - 09/24 00:48 [financialjuice] US Treasury Secretary Bessent, after meeting with China's He: We're fine with either continuing the Busan arrangement or examining a bigger deal.
 - 09/24 00:50 [financialjuice] Lithuanian Defence Minister: Lithuania, Latvia, and Estonia have asked for the European Union's support for drone defenses.
@@ -335,3 +314,7 @@
 - 09/24 11:54 [FirstSquawk] AUD/JPY slips after mixed Australian jobs data
 - 09/24 12:01 [FirstSquawk] High costs challenge Thailand’s solar scheme as smaller users remain hesitant - SCMP
 - 09/24 12:09 [FirstSquawk] China drops two-thirds of planned coal power plants abroad - SCMP
+- 09/24 12:34 [FirstSquawk] Canadian dollar remains steady as oil uncertainty and Fed hawkishness persist
+- 09/24 12:35 [FirstSquawk] Hong Kong improves property market transparency ranking, remains behind Singapore - SCMP
+- 09/24 12:41 [financialjuice] PAM secures most seats in Morocco's parliamentary election
+- 09/24 12:44 [FirstSquawk] Vietnam’s Vinhomes to raise $308M through domestic bond issuance

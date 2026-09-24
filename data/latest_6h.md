@@ -7,26 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 12:25 JST／対象: 09/24 06:25 〜 09/24 12:25 JST（時刻はすべて日本時間）
+生成: 2026-09-24 12:44 JST／対象: 09/24 06:44 〜 09/24 12:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 80 | 09/24 06:44 | 09/24 12:09 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 70 | 09/24 06:32 | 09/24 11:33 | 24分（09:36→10:01） |
+| FirstSquawk | 83 | 09/24 06:44 | 09/24 12:44 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 68 | 09/24 06:57 | 09/24 12:41 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 148 行（統合前 150 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 150 行（統合前 151 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 06:32 [financialjuice] OpenAI: AI agent improperly accessed Australian government files; no evidence patient records were breached
-- 09/24 06:36 [financialjuice/FirstSquawk] Chinese President Xi Jinping arrives for state visit to U.S.: Xinhua
-- 09/24 06:39 [financialjuice] OpenAI: alerted services in Australia about incident on Sept. 10
+- 09/24 06:44 [FirstSquawk] CHINESE PRESIDENT XI JINPING ARRIVES FOR STATE VISIT TO U.S.: XINHUA
 - 09/24 06:57 [financialjuice] Morocco's parliamentary election turnout at 38.02%, interior ministry says
 - 09/24 07:06 [financialjuice] US Treasury Secretary Bessent: U.S., China agreed Wednesday to prolong Busan agreement
 - 09/24 07:13 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: reports that he will likely be Trump's al czar are probably fake news
@@ -172,3 +170,7 @@
 - 09/24 11:54 [FirstSquawk] AUD/JPY slips after mixed Australian jobs data
 - 09/24 12:01 [FirstSquawk] High costs challenge Thailand’s solar scheme as smaller users remain hesitant - SCMP
 - 09/24 12:09 [FirstSquawk] China drops two-thirds of planned coal power plants abroad - SCMP
+- 09/24 12:34 [FirstSquawk] Canadian dollar remains steady as oil uncertainty and Fed hawkishness persist
+- 09/24 12:35 [FirstSquawk] Hong Kong improves property market transparency ranking, remains behind Singapore - SCMP
+- 09/24 12:41 [financialjuice] PAM secures most seats in Morocco's parliamentary election
+- 09/24 12:44 [FirstSquawk] Vietnam’s Vinhomes to raise $308M through domestic bond issuance
