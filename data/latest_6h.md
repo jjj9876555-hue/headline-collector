@@ -7,35 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 19:59 JST／対象: 09/24 13:59 〜 09/24 19:59 JST（時刻はすべて日本時間）
+生成: 2026-09-24 20:18 JST／対象: 09/24 14:18 〜 09/24 20:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 89 | 09/24 14:01 | 09/24 19:57 | 22分（18:38→19:01） |
-| financialjuice | 44 | 09/24 14:00 | 09/24 19:57 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 90 | 09/24 14:22 | 09/24 20:14 | 22分（18:38→19:01） |
+| financialjuice | 38 | 09/24 14:25 | 09/24 20:14 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 130 行（統合前 133 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 124 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 14:00 [financialjuice] Iraqi economy expected to shrink 12% amid oil export drops: EBRD
-- 09/24 14:00 [financialjuice] EBRD lowers Turkey growth forecast 0.5 percentage points to 3% in 2026 on persistent inflation pressures
-- 09/24 14:00 [financialjuice] Average U.S. import tariffs from EBRD region dropped to 8.6% from 11.6% after July 2026 adjustments
-- 09/24 14:00 [financialjuice] EBRD lowers 2026 regional growth by 0.6 percentage points to 2.5%, boosts 2027 growth by 0.4 pp to 4%
-- 09/24 14:00 [financialjuice] Lebanon's economy to shrink 5% in 2026 amid israel hostilities, recover 4% in 2027: ebrd
-- 09/24 14:00 [financialjuice] Black Sea attacks could reduce Ukraine's wheat, metal and oilseed exports by up to $5.5 billion in 2026: EBRD
-- 09/24 14:00 [financialjuice] EBRD lowers Ukraine economic growth forecast for 2026 by 0.7 percentage points to 1.5%, cuts 2027 forecast by 1.5 percentage points to 2.5%
-- 09/24 14:01 [financialjuice] Ukraine’s economic outlook weakened materially to near stagnation as Russian air attacks increase, EBRD says
-- 09/24 14:01 [FirstSquawk] US judge issues order blocking Trump administration’s White House ban on CNN, MS NOW and Politico
-- 09/24 14:07 [financialjuice] ‼ BREAKING: SWISS INTEREST RATE ACTUAL 0.00% (FORECAST 0%, PREVIOUS 0.00%) $MACRO
-- 09/24 14:12 [FirstSquawk] Russia says it struck Ukrainian defence facilities, logistics centres and military-use vessels
-- 09/24 14:14 [FirstSquawk] Polish Air Force concludes operations launched in response to Russian strikes on Ukraine
 - 09/24 14:22 [FirstSquawk] US JUDGE ORDERS TRUMP TO RESTORE WHITE HOUSE ACCESS FOR CNN, MS NOW AND POLITICO, RULING MEDIA BAN LIKELY UNCONSTITUTIONAL
 - 09/24 14:25 [financialjuice] Iran: UN team coordinates with relevant authorities - ISNA
 - 09/24 14:32 [FirstSquawk] Tencent unveils payment app for international visitors ahead of APEC summit: SCMP
@@ -154,3 +142,9 @@
 - 09/24 19:57 [financialjuice] Iraq is producing more than 3 million bpd from its southern oilfields - Head of Basra Oil Company
 - 09/24 19:57 [FirstSquawk] STARBUCKS SAYS IT WILL CUT 250 STORE LOCATIONS IN NORTH AMERICA
 - 09/24 19:57 [FirstSquawk] IRAQ IS PRODUCING MORE THAN 3 MLN BPD FROM ITS SOUTHERN OILFIELDS - HEAD OF BASRA OIL COMPANY
+- 09/24 20:02 [financialjuice] CANADIAN BUSINESS BAROMETER ACTUAL 57.6 (FORECAST -, PREVIOUS 57.64) $MACRO
+- 09/24 20:04 [FirstSquawk] BILL ACKMAN INVESTED IN NEW PRECISION NEUROSCIENCE ROUND: NYT
+- 09/24 20:10 [FirstSquawk] STARBUCKS SEES 440 NET OPENINGS IN FY26, SAW 600-650
+- 09/24 20:14 [financialjuice] Saudi-led coalition in Yemen: Intercepted 6 ballistic missiles launched by Iran-backed Houthis
+- 09/24 20:14 [FirstSquawk] SAUDI-LED COALITION IN YEMEN SAYS IT INTERCEPTED 6 BALLISTIC MISSILES LAUNCHED BY IRAN-BACKED HOUTHIS
+- 09/24 20:14 [FirstSquawk/financialjuice] IRAQ IS TRUCKING AROUND 250,000 BPD OF BASRA CRUDE TO KIRKUK FOR EXPORTS VIA CEYHAN IN TURKEY -BASRA OIL COMPANY HEAD

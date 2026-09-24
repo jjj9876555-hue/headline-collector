@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 19:59 JST／対象: 09/23 19:59 〜 09/24 19:59 JST（時刻はすべて日本時間）
+生成: 2026-09-24 20:18 JST／対象: 09/23 20:18 〜 09/24 20:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 69 | 09/23 20:05 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 342 | 09/23 19:59 | 09/24 19:57 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 277 | 09/23 20:00 | 09/24 19:57 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 68 | 09/23 21:06 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 343 | 09/23 20:18 | 09/24 20:14 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 275 | 09/23 20:49 | 09/24 20:14 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 670 行（統合前 691 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 667 行（統合前 689 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 19:59 [FirstSquawk] HSBC RAISES 2026 YEAR-END FTSE 100 TARGET TO 11,390 FROM 10,980
-- 09/23 20:00 [financialjuice] US MBA MORTGAGE APPLICATIONS ACTUAL -1.5% (FORECAST -, PREVIOUS -4.1%) $MACRO
-- 09/23 20:00 [financialjuice] US MBA 30-YR MORTGAGE RATE ACTUAL 7.12% (FORECAST -, PREVIOUS 6.97%) $MACRO
-- 09/23 20:02 [financialjuice] Oil executives lobbied against diesel export ban - WSJ
-- 09/23 20:03 [financialjuice] HSBC cuts France to underweight from neutral
-- 09/23 20:03 [financialjuice] Oil reps blindsided by Trump diesel export ban comment - WSJ
-- 09/23 20:05 [DeItaone] TRUMP WEIGHS DIESEL EXPORT CURBS AS PRICES HIT RECORD President Trump says he is considering restricting U.S. diesel exports as prices reach a record $6.53 per gallon. Oil companies are pushing back, warning restrictions could force refiner…
-- 09/23 20:07 [FirstSquawk] WHITE HOUSE CONSIDERS BAN ON DIESEL EXPORTS AS PRICES KEEP RISING - WSJ
-- 09/23 20:10 [FirstSquawk] TRUMP’S OIL ALLIES SEE NIGHTMARE SCENARIO OF DIESEL-EXPORT BAN BECOMING REALITY – WSJ
 - 09/23 20:18 [FirstSquawk] RYANAIR CEO O'LEARY: WE ARE EXPECTED TO GET OUR FIRST 15 MAX 10 AIRCRAFT IN THE SPRING, WE EXPECT THOSE TO BE CERTIFIED IN THE NEXT FEW WEEKS
 - 09/23 20:22 [FirstSquawk] UBS FACES $17B EXTRA CAPITAL AFTER PARLIAMENT VOTE, GOLDMAN SAYS - BBG
 - 09/23 20:24 [FirstSquawk] NASDAQ 100 FUTURES HIT SESSION LOW, DOWN 0.2%
@@ -694,3 +685,9 @@
 - 09/24 19:57 [financialjuice] Iraq is producing more than 3 million bpd from its southern oilfields - Head of Basra Oil Company
 - 09/24 19:57 [FirstSquawk] STARBUCKS SAYS IT WILL CUT 250 STORE LOCATIONS IN NORTH AMERICA
 - 09/24 19:57 [FirstSquawk] IRAQ IS PRODUCING MORE THAN 3 MLN BPD FROM ITS SOUTHERN OILFIELDS - HEAD OF BASRA OIL COMPANY
+- 09/24 20:02 [financialjuice] CANADIAN BUSINESS BAROMETER ACTUAL 57.6 (FORECAST -, PREVIOUS 57.64) $MACRO
+- 09/24 20:04 [FirstSquawk] BILL ACKMAN INVESTED IN NEW PRECISION NEUROSCIENCE ROUND: NYT
+- 09/24 20:10 [FirstSquawk] STARBUCKS SEES 440 NET OPENINGS IN FY26, SAW 600-650
+- 09/24 20:14 [financialjuice] Saudi-led coalition in Yemen: Intercepted 6 ballistic missiles launched by Iran-backed Houthis
+- 09/24 20:14 [FirstSquawk] SAUDI-LED COALITION IN YEMEN SAYS IT INTERCEPTED 6 BALLISTIC MISSILES LAUNCHED BY IRAN-BACKED HOUTHIS
+- 09/24 20:14 [FirstSquawk/financialjuice] IRAQ IS TRUCKING AROUND 250,000 BPD OF BASRA CRUDE TO KIRKUK FOR EXPORTS VIA CEYHAN IN TURKEY -BASRA OIL COMPANY HEAD

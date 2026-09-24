@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 19:59 JST／対象: 09/24 07:59 〜 09/24 19:59 JST（時刻はすべて日本時間）
+生成: 2026-09-24 20:18 JST／対象: 09/24 08:18 〜 09/24 20:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 187 | 09/24 08:16 | 09/24 19:57 | 25分（12:09→12:34） |
-| financialjuice | 107 | 09/24 08:03 | 09/24 19:57 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 189 | 09/24 08:18 | 09/24 20:14 | 25分（12:09→12:34） |
+| financialjuice | 103 | 09/24 08:18 | 09/24 20:14 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 291 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 288 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 08:03 [financialjuice] Meta launches annual Connect conference in Menlo Park, California
-- 09/24 08:08 [financialjuice] EU's Costa: spoke to Iran president, urged Tehran to restart cooperation with IAEA
-- 09/24 08:08 [financialjuice] EU's Costa: calls for halt to Iran's attacks on neighbors and complete freedom of navigation in Strait of Hormuz
-- 09/24 08:10 [financialjuice] Meta CEO Zuckerberg: company expects to earn revenue from Muse by charging small transaction fee
-- 09/24 08:12 [financialjuice] Meta exec Wang: company adding computer usage data to Muse
-- 09/24 08:14 [financialjuice] Meta exec Wang: Walmart, Gap, Best Buy among companies integrated into Muse
-- 09/24 08:16 [FirstSquawk] US TREASURY SECRETARY BESSENT: REPORTS THAT HE WILL LIKELY BE TRUMP'S AL CZAR ARE PROBABLY FAKE NEWS
-- 09/24 08:16 [FirstSquawk] EU COUNCIL PRESIDENT COSTA SPEAKS WITH IRANIAN PRESIDENT; URGES RESUMPTION OF IAEA COOPERATION, END TO STRIKES ON NEIGHBOURS & RESTORATION OF FREEDOM OF NAVIGATION IN STRAIT OF HORMUZ
-- 09/24 08:17 [financialjuice] Venezuela acting president delcy rodriguez tells unga: recent energy pact with US to aid global energy equilibrium
 - 09/24 08:18 [FirstSquawk] TRUMP: HAD “GREAT CONVERSATIONS” WITH WORLD LEADERS AT UNGA; SAYS “ENTIRE TECH & BANKING WORLDS” WILL ATTEND XI DINNER TOMORROW, DESCRIBES GREETING WITH XI AS “GREAT”
 - 09/24 08:18 [financialjuice] Venezuela acting president Delcy Rodriguez to UNGA: Urge Guyana to resume negotiations
 - 09/24 08:19 [financialjuice] Meta says it is integrating Muse into all its smart glasses
@@ -315,3 +306,9 @@
 - 09/24 19:57 [financialjuice] Iraq is producing more than 3 million bpd from its southern oilfields - Head of Basra Oil Company
 - 09/24 19:57 [FirstSquawk] STARBUCKS SAYS IT WILL CUT 250 STORE LOCATIONS IN NORTH AMERICA
 - 09/24 19:57 [FirstSquawk] IRAQ IS PRODUCING MORE THAN 3 MLN BPD FROM ITS SOUTHERN OILFIELDS - HEAD OF BASRA OIL COMPANY
+- 09/24 20:02 [financialjuice] CANADIAN BUSINESS BAROMETER ACTUAL 57.6 (FORECAST -, PREVIOUS 57.64) $MACRO
+- 09/24 20:04 [FirstSquawk] BILL ACKMAN INVESTED IN NEW PRECISION NEUROSCIENCE ROUND: NYT
+- 09/24 20:10 [FirstSquawk] STARBUCKS SEES 440 NET OPENINGS IN FY26, SAW 600-650
+- 09/24 20:14 [financialjuice] Saudi-led coalition in Yemen: Intercepted 6 ballistic missiles launched by Iran-backed Houthis
+- 09/24 20:14 [FirstSquawk] SAUDI-LED COALITION IN YEMEN SAYS IT INTERCEPTED 6 BALLISTIC MISSILES LAUNCHED BY IRAN-BACKED HOUTHIS
+- 09/24 20:14 [FirstSquawk/financialjuice] IRAQ IS TRUCKING AROUND 250,000 BPD OF BASRA CRUDE TO KIRKUK FOR EXPORTS VIA CEYHAN IN TURKEY -BASRA OIL COMPANY HEAD
