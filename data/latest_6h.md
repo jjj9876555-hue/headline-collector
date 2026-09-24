@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 19:25 JST／対象: 09/24 13:25 〜 09/24 19:25 JST（時刻はすべて日本時間）
+生成: 2026-09-24 19:44 JST／対象: 09/24 13:44 〜 09/24 19:44 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 85 | 09/24 13:40 | 09/24 19:25 | 22分（18:38→19:01） |
-| financialjuice | 41 | 09/24 14:00 | 09/24 19:25 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 85 | 09/24 13:45 | 09/24 19:43 | 22分（18:38→19:01） |
+| financialjuice | 43 | 09/24 14:00 | 09/24 19:40 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 123 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 125 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 13:40 [FirstSquawk] France’s far left faces backlash over debt “fire” plan: FT
-- 09/24 13:40 [FirstSquawk] Leaked Belgian document warns Trump’s US is no longer a reliable ally: FT
-- 09/24 13:41 [FirstSquawk] FT: Fed will take action to ensure inflation resumes its slowdown
 - 09/24 13:45 [FirstSquawk] Pakistan FM tells Iraqji: We must remain committed to dialogue and diplomacy
 - 09/24 13:53 [FirstSquawk] Polish Army says preventive air operations conducted in response to Russian strikes on Ukraine
 - 09/24 14:00 [financialjuice] Iraqi economy expected to shrink 12% amid oil export drops: EBRD
@@ -147,3 +144,8 @@
 - 09/24 19:25 [financialjuice/FirstSquawk] Saudi civil defence alerts of potential danger in Taif - Statement
 - 09/24 19:25 [FirstSquawk] SAUDI CIVIL DEFENSE ALERTS OF POTENTIAL DANGER IN MECCA, JEDDAH AND YANBU AND TABUK
 - 09/24 19:25 [FirstSquawk] EUROPE SHOULD TAKE EVERY OPPORTUNITY FOR DIALOG: RADEV ON PUTIN
+- 09/24 19:25 [financialjuice] Saudi civil defense alerts of potential danger in Mecca, Jeddah, Yanbu, and Tabuk
+- 09/24 19:27 [FirstSquawk] SPOT GOLD FALLS NEARLY 1% TO $4,244.99/OZ
+- 09/24 19:40 [financialjuice] China Life to invest up to 4.5B Yuan in a fund targeting AI and chip
+- 09/24 19:43 [FirstSquawk] TRUMP LENGTHENS TRADE CEASEFIRE WITH CHINA AND GREETS XI JINPING IN WASHINGTON.
+- 09/24 19:43 [FirstSquawk] CHINA LIFE WILL INVEST UP TO 4.5 BILLION YUAN IN A FUND FOCUSED ON AI AND CHIP TECHNOLOGIES.
