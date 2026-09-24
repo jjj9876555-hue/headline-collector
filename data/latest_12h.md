@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 10:00 JST／対象: 09/23 22:00 〜 09/24 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-24 10:18 JST／対象: 09/23 22:18 〜 09/24 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 63 | 09/23 22:16 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 167 | 09/23 22:07 | 09/24 09:58 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 198 | 09/23 22:03 | 09/24 09:36 | 42分（05:39→06:22） |
+| DeItaone | 62 | 09/23 22:19 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 172 | 09/23 22:19 | 09/24 10:16 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 198 | 09/23 22:19 | 09/24 10:03 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 416 行（統合前 431 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 421 行（統合前 435 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 22:03 [financialjuice] UAE central bank imposes sanctions on branches of Bank Melli Iran.
-- 09/23 22:06 [financialjuice/FirstSquawk] Supermicro now shipping NVIDIA Vera Rubin NVL72 racks.
-- 09/23 22:07 [FirstSquawk] AMAZON ROLLS OUT NEW AGENTIC AI FOR THIRD-PARTY SELLERS
-- 09/23 22:10 [FirstSquawk] Trump on truth social Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing problems that will soon be too big to handle. It is a Liberal takeover t…
-- 09/23 22:16 [DeItaone] TRUMP ATTACKS CANADA OVER IMMIGRATION President Trump accused Canada of allowing “millions and millions” of people into the country unchecked and unvetted, claiming it is creating serious problems. Trump blamed what he called a “Liberal tak…
 - 09/23 22:19 [DeItaone/financialjuice/FirstSquawk] RUSSIA'S LAVROV MEETS WITH US RUBIO - IFX
 - 09/23 22:22 [financialjuice] Samsung to deploy 5G SA networks starting October 2026.
 - 09/23 22:23 [FirstSquawk] GIORGETTI: INCOME TAX REDUCTION REMAINS GOVT PRIORITY
@@ -440,3 +435,13 @@
 - 09/24 09:52 [FirstSquawk] Australia condemns ‘unacceptable’ OpenAI breach of government health portal - SCMP
 - 09/24 09:56 [FirstSquawk] OpenAI breach had minor impact, Australia Defence Minister says
 - 09/24 09:58 [FirstSquawk] OpenAI cooperating with Australian government over breach, Defence Minister says
+- 09/24 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.804% (unchanged from prior session)
+- 09/24 10:01 [FirstSquawk] Taiwan overnight rate steady at 0.804% at the start of the session
+- 09/24 10:02 [FirstSquawk] Oil industry leaders launched a contingency plan to oppose restrictions on U.S. diesel exports, WSJ says
+- 09/24 10:03 [FirstSquawk] Pakistan Information Minister: Air and drone strikes hit 10 locations in Afghanistan on Sept. 23
+- 09/24 10:03 [financialjuice] Pakistan information minister: conducted aerial and drone attacks on 10 Afghan sites used for launching and storing drones on Sept. 23
+- 09/24 10:04 [FirstSquawk] Honda brings forward next-gen hybrid production amid EV strategy revamp - NA
+- 09/24 10:10 [FirstSquawk] Nepal plans to bar resettlement in flood-hit areas as 33,000 face potential displacement - KYODO
+- 09/24 10:13 [FirstSquawk] U.S. EXIM Bank offers up to $6B in long-term financing for Argentina LNG project, YPF says
+- 09/24 10:15 [FirstSquawk] Osaka benchmark rubber futures surge above 3.88%
+- 09/24 10:16 [FirstSquawk] China’s PBOC fixes yuan mid-point at 6.7489 per dollar

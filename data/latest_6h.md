@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 10:00 JST／対象: 09/24 04:00 〜 09/24 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-24 10:18 JST／対象: 09/24 04:18 〜 09/24 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/24 05:25 | 09/24 05:51 | 25分（05:25→05:51） |
-| FirstSquawk | 53 | 09/24 04:01 | 09/24 09:58 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 67 | 09/24 04:06 | 09/24 09:36 | 42分（05:39→06:22） |
+| FirstSquawk | 59 | 09/24 04:26 | 09/24 10:16 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 67 | 09/24 04:22 | 09/24 10:03 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 122 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 126 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 04:01 [FirstSquawk] UKRAINE'S ZELENSKY SAYS 'WE NEED TO SLOW DOWN THE RAPID DEVELOPMENT OF WEAPONS FOR KILLING BEFORE WE REACH THE NEXT STAGE', WARNING THAT 'AS EARLY AS NEXT YEAR, THERE IS ALREADY A REAL POSSIBILITY THAT AI, NOT ONLY PEOPLE, WILL BEGIN TO DEC…
-- 09/24 04:06 [financialjuice] Russian Presidential Envoy Dmitriev heads to US for new talks with members of Trump's administration - sources.
-- 09/24 04:07 [FirstSquawk] RUSSIAN PRESIDENTIAL ENVOY DMITRIEV HEADS TO US FOR NEW TALKS WITH TRUMP ADMINISTRATION OFFICIALS — SOURCES
-- 09/24 04:07 [financialjuice] AI Scientist Bengio calls AI dangers real and imminent
 - 09/24 04:22 [financialjuice] Thursday FX Option Expiries
 - 09/24 04:24 [financialjuice] Anthropic's Amodei: AI could be a risk to humanity as a whole.
 - 09/24 04:25 [financialjuice] Anthropic's Amodei: Anthropic to slow AI as needed for safety reasons
@@ -144,3 +140,13 @@
 - 09/24 09:52 [FirstSquawk] Australia condemns ‘unacceptable’ OpenAI breach of government health portal - SCMP
 - 09/24 09:56 [FirstSquawk] OpenAI breach had minor impact, Australia Defence Minister says
 - 09/24 09:58 [FirstSquawk] OpenAI cooperating with Australian government over breach, Defence Minister says
+- 09/24 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.804% (unchanged from prior session)
+- 09/24 10:01 [FirstSquawk] Taiwan overnight rate steady at 0.804% at the start of the session
+- 09/24 10:02 [FirstSquawk] Oil industry leaders launched a contingency plan to oppose restrictions on U.S. diesel exports, WSJ says
+- 09/24 10:03 [FirstSquawk] Pakistan Information Minister: Air and drone strikes hit 10 locations in Afghanistan on Sept. 23
+- 09/24 10:03 [financialjuice] Pakistan information minister: conducted aerial and drone attacks on 10 Afghan sites used for launching and storing drones on Sept. 23
+- 09/24 10:04 [FirstSquawk] Honda brings forward next-gen hybrid production amid EV strategy revamp - NA
+- 09/24 10:10 [FirstSquawk] Nepal plans to bar resettlement in flood-hit areas as 33,000 face potential displacement - KYODO
+- 09/24 10:13 [FirstSquawk] U.S. EXIM Bank offers up to $6B in long-term financing for Argentina LNG project, YPF says
+- 09/24 10:15 [FirstSquawk] Osaka benchmark rubber futures surge above 3.88%
+- 09/24 10:16 [FirstSquawk] China’s PBOC fixes yuan mid-point at 6.7489 per dollar

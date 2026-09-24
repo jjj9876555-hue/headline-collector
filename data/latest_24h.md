@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 10:00 JST／対象: 09/23 10:00 〜 09/24 10:00 JST（時刻はすべて日本時間）
+生成: 2026-09-24 10:18 JST／対象: 09/23 10:18 〜 09/24 10:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 295 | 09/23 10:01 | 09/24 09:58 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 270 | 09/23 10:01 | 09/24 09:36 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 297 | 09/23 10:22 | 09/24 10:16 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 268 | 09/23 10:21 | 09/24 10:03 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 628 行（統合前 650 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,16 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.804% unchanged from previous session open
-- 09/23 10:01 [FirstSquawk] Taiwan overnight interbank rate holds at 0.804% at the open
-- 09/23 10:03 [financialjuice] Meta takes action on 3.7 million accounts, pages, and content with Singapore police force
-- 09/23 10:05 [FirstSquawk] Meta acts against 3.7 million accounts, pages and content in coordination with Singapore Police
-- 09/23 10:13 [FirstSquawk] Gold holds steady as higher-for-longer rate outlook pressures sentiment - Reuters
-- 09/23 10:13 [financialjuice] South Korean President Lee to meet US President Trump on sidelines of UN General Assembly - media
-- 09/23 10:14 [FirstSquawk] South Korea’s Lee to hold talks with Trump on sidelines of UN General Assembly - media
-- 09/23 10:15 [financialjuice] South Korean president Lee holds 30-minute meeting with Trump: S. Korea presidential office
-- 09/23 10:15 [FirstSquawk] South Korean President Lee meets Trump for 30 minutes, presidential office says
-- 09/23 10:16 [FirstSquawk] China’s PBOC sets yuan reference rate at 6.7468 per dollar
 - 09/23 10:21 [financialjuice] China injects 8 bln yuan with 7-day reverse repos at 1.40% vs prior 1.40%: statement
 - 09/23 10:22 [FirstSquawk] South Korea’s Lee, Trump hail major progress in talks on strategic investment projects
 - 09/23 10:22 [FirstSquawk] Lee highlights importance of U.S.-China summit for regional affairs, presidential office says
@@ -652,3 +642,13 @@
 - 09/24 09:52 [FirstSquawk] Australia condemns ‘unacceptable’ OpenAI breach of government health portal - SCMP
 - 09/24 09:56 [FirstSquawk] OpenAI breach had minor impact, Australia Defence Minister says
 - 09/24 09:58 [FirstSquawk] OpenAI cooperating with Australian government over breach, Defence Minister says
+- 09/24 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.804% (unchanged from prior session)
+- 09/24 10:01 [FirstSquawk] Taiwan overnight rate steady at 0.804% at the start of the session
+- 09/24 10:02 [FirstSquawk] Oil industry leaders launched a contingency plan to oppose restrictions on U.S. diesel exports, WSJ says
+- 09/24 10:03 [FirstSquawk] Pakistan Information Minister: Air and drone strikes hit 10 locations in Afghanistan on Sept. 23
+- 09/24 10:03 [financialjuice] Pakistan information minister: conducted aerial and drone attacks on 10 Afghan sites used for launching and storing drones on Sept. 23
+- 09/24 10:04 [FirstSquawk] Honda brings forward next-gen hybrid production amid EV strategy revamp - NA
+- 09/24 10:10 [FirstSquawk] Nepal plans to bar resettlement in flood-hit areas as 33,000 face potential displacement - KYODO
+- 09/24 10:13 [FirstSquawk] U.S. EXIM Bank offers up to $6B in long-term financing for Argentina LNG project, YPF says
+- 09/24 10:15 [FirstSquawk] Osaka benchmark rubber futures surge above 3.88%
+- 09/24 10:16 [FirstSquawk] China’s PBOC fixes yuan mid-point at 6.7489 per dollar
