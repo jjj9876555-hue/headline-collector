@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 15:58 JST／対象: 09/23 15:58 〜 09/24 15:58 JST（時刻はすべて日本時間）
+生成: 2026-09-24 16:18 JST／対象: 09/23 16:18 〜 09/24 16:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 303 | 09/23 16:03 | 09/24 15:46 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 280 | 09/23 16:01 | 09/24 15:47 | ⚠ 71分（18:33→19:45） |
+| FirstSquawk | 307 | 09/23 16:30 | 09/24 16:18 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 275 | 09/23 16:20 | 09/24 15:47 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 646 行（統合前 668 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 645 行（統合前 667 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 16:01 [financialjuice] Currency Strength Chart: Strongest: USD, CAD, CHF, JPY, GBP, EUR, AUD, NZD - Weakest
-- 09/23 16:03 [FirstSquawk] BRITAIN'S FTSE 100 UP 0.34% || FRANCE'S CAC 40 UP 0.39% || SPAIN'S IBEX UP 0.59%
-- 09/23 16:04 [FirstSquawk] GERMANY'S DAX UP 0.6%
-- 09/23 16:05 [financialjuice] Italy plans to stick with its commitment to keep the deficit below the EU's 3% of GDP ceiling this year, from 3.1% in 2025 - Sources
-- 09/23 16:15 [financialjuice] FRENCH COMP FLASH PMI ACTUAL 51.2 (FORECAST 48.7, PREVIOUS 48.5) $MACRO
-- 09/23 16:15 [financialjuice] FRENCH SERVICES PMI FLASH ACTUAL 51.4 (FORECAST 48.3, PREVIOUS 48.0) $MACRO
-- 09/23 16:15 [financialjuice] ‼ BREAKING: FRENCH MANUFACTURING PMI FLASH ACTUAL 50.3 (FORECAST 51, PREVIOUS 51.1) $MACRO
 - 09/23 16:20 [financialjuice] French PMI Flash September 2026 Report
 - 09/23 16:30 [financialjuice] ❗ GERMAN SERVICE PMI FLASH ACTUAL 52.9 (FORECAST 49.9, PREVIOUS 49.7) $MACRO
 - 09/23 16:30 [financialjuice] ‼ BREAKING: GERMAN MANUFACTURING PMI FLASH ACTUAL 53.8 (FORECAST 54, PREVIOUS 54.3) $MACRO
@@ -670,3 +663,9 @@
 - 09/24 15:46 [FirstSquawk] FRANCE (SEP) BUSINESS CONFIDENCE ACTUAL: 96 VS 98 PREVIOUS;EST 98
 - 09/24 15:46 [FirstSquawk] FRANCE (SEP) CONSUMER CONFIDENCE ACTUAL: 86 VS 86 PREVIOUS;EST 85
 - 09/24 15:47 [financialjuice] French Business Climate September 2026 Report
+- 09/24 16:00 [FirstSquawk] SPAIN (AUG) PPI YOY INDICATOR ACTUAL: 13.2% VS 9.2% PREVIOUS
+- 09/24 16:00 [FirstSquawk] SPAIN (AUG) PPI MOM INDICATOR ACTUAL: 2.9% VS 3.0% PREVIOUS
+- 09/24 16:01 [FirstSquawk] BLACKROCK AND IFM SAID IN EXCLUSIVE TALKS ON $25B DATA CENTER DEAL
+- 09/24 16:03 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.43%; SPAIN'S IBEX DOWN 0.59%; BRITAIN'S FTSE 100 DOWN 0.22%
+- 09/24 16:14 [FirstSquawk] CHINA FOREIGN MINISTER SAYS ON IRAN PRESIDENT REMARKS ON STRAIT OF HORMUZ: ALL PARTIES SHOULD LOOK TO PEACEFUL OPTION, RESOLVE DISPUTES THROUGH DIALOGUE
+- 09/24 16:18 [FirstSquawk] CHINA FOREIGN MINISTRY SAYS CHINA OPPOSES AND RESOLUTELY CRACKS DOWN ON HACKING ATTACKS IN ACCORDING WITH LAW
