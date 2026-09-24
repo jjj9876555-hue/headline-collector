@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 02:59 JST／対象: 09/24 14:59 〜 09/25 02:59 JST（時刻はすべて日本時間）
+生成: 2026-09-25 03:21 JST／対象: 09/24 15:21 〜 09/25 03:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 79 | 09/24 21:26 | 09/25 02:58 | 34分（01:16→01:51） |
-| FirstSquawk | 202 | 09/24 14:59 | 09/25 02:43 | 39分（01:57→02:36） |
-| financialjuice | 174 | 09/24 15:45 | 09/25 02:29 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 82 | 09/24 21:26 | 09/25 03:12 | 34分（01:16→01:51） |
+| FirstSquawk | 209 | 09/24 15:24 | 09/25 03:20 | 39分（01:57→02:36） |
+| financialjuice | 178 | 09/24 15:45 | 09/25 03:05 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 437 行（統合前 459 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 450 行（統合前 473 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 14:59 [FirstSquawk] JPMorgan lowers McDonald’s target price to $260 from $280
-- 09/24 15:02 [FirstSquawk] U.S. stock futures weaken as S&P 500 futures fall 0.37%, Nasdaq futures 0.45%
-- 09/24 15:03 [FirstSquawk] NORWAY CREDIT INDICATOR GROWTH (Y/Y) AUG: 4.5% (PREV 4.3%)
-- 09/24 15:14 [FirstSquawk] Russia says its forces struck a tanker in the Black Sea: IFX
-- 09/24 15:18 [FirstSquawk] Polish Army: Poland again launches preventive air operations linked to Russian strikes on Ukraine
-- 09/24 15:20 [FirstSquawk] German FM Wadephul urges immediate ceasefire in Ukraine, starting in Black Sea to secure grain flows
 - 09/24 15:24 [FirstSquawk] Australian S&P/ASX 200 ends 0.7% lower at 8,702.00 points
 - 09/24 15:24 [FirstSquawk] DeepSeek reaches $1B annualized revenue as $7.5B fundraising nears completion: The Information
 - 09/24 15:42 [FirstSquawk] EUROZONE BOND YIELDS OPEN HIGHER-WSJ
@@ -461,3 +455,22 @@
 - 09/25 02:56 [DeItaone] ROGUE AI AGENTS EXPOSE CYBERSECURITY GAPS An OpenAI agent breached infrastructure behind an Australian public-health portal in June, prompting Prime Minister Anthony Albanese to raise the incident with Sam Altman. The breach follows other r…
 - 09/25 02:56 [DeItaone] FORMER OPENAI DATA CENTER CHIEF CHRIS MALONE IS NOW AT NVIDIA - THE INFORMATION
 - 09/25 02:58 [DeItaone] FED MAY BE LOSING CONTROL OF LONG-TERM YIELDS CIFC says long-term Treasury yields are increasingly driven by forces outside the Fed’s control, including heavy government borrowing, $100+ oil, AI infrastructure spending and a global bond sel…
+- 09/25 03:00 [financialjuice] US Energy Secretary seeks refiners' help amid narrow options to curb Diesel price.
+- 09/25 03:01 [DeItaone] WHITE HOUSE SEEKS VOLUNTARY DIESEL EXPORT CURBS Energy Secretary Chris Wright has contacted major U.S. refiners about voluntarily reducing diesel exports, Reuters reports. The administration is searching for an alternative to an outright ex…
+- 09/25 03:03 [DeItaone] *TREASURY ACCEPTS $4.08B OF OFFERS FOR BUYBACK, SHORT OF MAX $6B
+- 09/25 03:03 [financialjuice] ❗ US Treasury bought $4.078 bln in 20- 30-year debt in September 24th buyback operation
+- 09/25 03:04 [FirstSquawk] US TREASURY BUYS $4.078 BILLION OF 20–30-YEAR DEBT IN SEPTEMBER 24 BUYBACK OPERATION
+- 09/25 03:05 [FirstSquawk] U.S. ENERGY SECRETARY CHRIS WRIGHT HAS CONTACTED EXECUTIVES AT MAJOR REFINERS TO GAUGE SUPPORT FOR VOLUNTARILY RESTRICTING DIESEL EXPORTS, AS THE TRUMP ADMINISTRATION SEEKS AN ALTERNATIVE TO A SHORT-TERM EXPORT BAN. THE PUSH HIGHLIGHTS LIMI…
+- 09/25 03:05 [financialjuice] ❗ US Treasury bought $4.078 bln in 20- 30-year debt in the September 24th buyback operation, short of the max $6 bln
+- 09/25 03:05 [financialjuice] Israel's Prime Minister Netanyahu Speaks at the UNGA - WATCH LIVE
+- 09/25 03:07 [FirstSquawk] DOZENS OF DIPLOMATS WALKED OUT AT THE START OF NETANYAHU'S UN SPEECH, WITH NETANYAHU CALLING THOSE WHO WALKED OUT OF THE UN GENERAL ASSEMBLY HALL 'MORAL COWARDS'
+- 09/25 03:07 [FirstSquawk] NETANYAHU: ISRAEL IS DEFENDING MANY COUNTRIES WHOSE DELEGATES LEFT THE UN GENERAL ASSEMBLY HALL
+- 09/25 03:11 [FirstSquawk] NETANYAHU TELLS SYRIAN PRESIDENT: JEWS HAVE BEEN IN THE GOLAN HEIGHTS SINCE THE TIME OF MOSES
+- 09/25 03:12 [FirstSquawk/DeItaone] FRENCH PRESIDENT MACRON: CIA HAS NOT WARNED FRANCE ABOUT RUSSIAN THREATS
+- 09/25 03:13 [FirstSquawk] MARYGOLD COMPANIES’ SUBSIDIARY GOURMET FOODS HAS SIGNED A DEFINITIVE AGREEMENT TO SELL ITS PRINTSTOCK BUSINESS UNIT FOR NZ$2.45 MILLION (US$1.4 MILLION), COVERING ALL PRINTSTOCK ASSETS. || DEAL INCLUDES A FIVE-YEAR POST-CLOSING RESTRAINT OF…
+- 09/25 03:13 [FirstSquawk] MERCADOLIBRE IS LAUNCHING A NEW BRAZIL DELIVERY SEGMENT OFFERING ORDERS WITHIN UP TO ONE HOUR, STARTING IN SÃO PAULO, EXPANDING ITS FAST-COMMERCE OPERATIONS.
+- 09/25 03:13 [FirstSquawk] MERCADOLIBRE’S PHARMACY BUSINESS WILL BEGIN SELLING PRESCRIPTION DRUGS IN BRAZIL THIS MONTH, WITH THE PHARMACY SEGMENT SET TO JOIN ITS MARKETPLACE MODEL IN OCTOBER INITIALLY THROUGH THREE CHAINS.
+- 09/25 03:17 [FirstSquawk] FRENCH PRESIDENT MACRON SAYS RUSSIA IS 'MULTIPLYING HOSTILE, AND CRIMINAL ACTS, AGAINST EUROPEAN NATIONS', WARNING THAT FRANCE COULD FACE ATTACKS SIMILAR TO THE FAILED LEIPZIG ATTACK AND THAT ALL SENSITIVE SITES IN FRANCE ARE SUBJECT TO ADD…
+- 09/25 03:19 [FirstSquawk] NETANYAHU: “WE’RE GOING TO WIN, WE HAVE NO OTHER CHOICE”
+- 09/25 03:20 [FirstSquawk] NETANYAHU HOLDS UP PAGER IN REFERENCE TO ISRAEL’S ATTACK ON IRAN-BACKED HEZBOLLAH USING PAGERS
+- 09/25 03:20 [FirstSquawk] NETANYAHU: “I WON’T STAND FOR VIGILANTISM; WE’RE A COUNTRY OF LAW”

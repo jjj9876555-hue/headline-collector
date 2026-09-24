@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 02:59 JST／対象: 09/24 02:59 〜 09/25 02:59 JST（時刻はすべて日本時間）
+生成: 2026-09-25 03:21 JST／対象: 09/24 03:21 〜 09/25 03:21 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 87 | 09/24 03:01 | 09/25 02:58 | ⚠ 935分（05:51→21:26） |
-| FirstSquawk | 356 | 09/24 03:07 | 09/25 02:43 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 286 | 09/24 03:00 | 09/25 02:29 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 86 | 09/24 03:30 | 09/25 03:12 | ⚠ 935分（05:51→21:26） |
+| FirstSquawk | 365 | 09/24 03:33 | 09/25 03:20 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 287 | 09/24 03:31 | 09/25 03:05 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 708 行（統合前 734 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 717 行（統合前 743 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 03:00 [financialjuice] White House on the Diesel ban: Earlier Politico report on the ban is not accurate.
-- 09/24 03:01 [DeItaone] FBI DATA ALLEGEDLY STOLEN BY HACKERS HAS SENSITIVE INFORMATION ABOUT BUREAU EMPLOYEES' INTELLIGENCE WORK
-- 09/24 03:02 [DeItaone] HACKERS CLAIM MASSIVE FBI DATA BREACH Hacking group ShinyHunters claims it stole 2–3 terabytes of FBI data, including sensitive information on thousands of current and former employees. A leaked sample reportedly contains personal details a…
-- 09/24 03:03 [DeItaone] ANTHROPIC - ANNOUNCES CLAUDE DISCOVERY OF NOVEL ENZYME SYSTEM WITH CRISPR-LIKE DNA REPEATS
-- 09/24 03:05 [financialjuice/FirstSquawk] US lawmakers to unveil legislation to revise national security tool used by federal communications commission to bar Chinese tech gear -Lawmakers' Statement
-- 09/24 03:08 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 23, CENTCOM FORCES HAVE REDIRECTED 115 COMMERCIAL VESSELS TO MAINTAIN STRICT ENFORCEMENT OF AMERICA'S 'STEEL WALL' BLOCKADE
-- 09/24 03:09 [FirstSquawk] ALPHABET’S GOOGLE IS EXPANDING GOOGLE BEAM WITH NEW REGIONS, PARTNERS AND CUSTOMERS, WITH THE AI-POWERED VIDEO COMMUNICATION SYSTEM SHIPPING TO SIX COUNTRIES INCLUDING THE U.S., CANADA, U.K., FRANCE, GERMANY AND JAPAN.
-- 09/24 03:09 [FirstSquawk] GOOGLE BEAM WILL ALSO BE AVAILABLE AT INDUSTRIOUS COWORKING LOCATIONS STARTING IN OCTOBER, WITH INITIAL DEPLOYMENTS IN ATLANTA, CHICAGO, NEW YORK CITY AND PALO ALTO.
-- 09/24 03:14 [financialjuice] Spain's PM Sanchez: EU needs to reduce its dependency on China.
-- 09/24 03:21 [DeItaone] TRUMP PRESSES VENEZUELA TO KEEP OIL FLOWING President Trump emphasized continued Venezuelan oil flows during his first meeting with acting President Delcy Rodriguez, Axios reports. Trump did not demand a date for future elections but stress…
 - 09/24 03:30 [DeItaone] HASSETT QUESTIONS FED'S DECISION TO HIKE RATES
 - 09/24 03:30 [DeItaone] HASSETT SAYS WARSH MANAGES UNUSUALLY PARTISAN FEDERAL RESERVE
 - 09/24 03:31 [financialjuice] NYMEX WTI Crude Nov. futures settle at $92.16 a barrel up $1.64, 1.81%
@@ -732,3 +722,22 @@
 - 09/25 02:56 [DeItaone] ROGUE AI AGENTS EXPOSE CYBERSECURITY GAPS An OpenAI agent breached infrastructure behind an Australian public-health portal in June, prompting Prime Minister Anthony Albanese to raise the incident with Sam Altman. The breach follows other r…
 - 09/25 02:56 [DeItaone] FORMER OPENAI DATA CENTER CHIEF CHRIS MALONE IS NOW AT NVIDIA - THE INFORMATION
 - 09/25 02:58 [DeItaone] FED MAY BE LOSING CONTROL OF LONG-TERM YIELDS CIFC says long-term Treasury yields are increasingly driven by forces outside the Fed’s control, including heavy government borrowing, $100+ oil, AI infrastructure spending and a global bond sel…
+- 09/25 03:00 [financialjuice] US Energy Secretary seeks refiners' help amid narrow options to curb Diesel price.
+- 09/25 03:01 [DeItaone] WHITE HOUSE SEEKS VOLUNTARY DIESEL EXPORT CURBS Energy Secretary Chris Wright has contacted major U.S. refiners about voluntarily reducing diesel exports, Reuters reports. The administration is searching for an alternative to an outright ex…
+- 09/25 03:03 [DeItaone] *TREASURY ACCEPTS $4.08B OF OFFERS FOR BUYBACK, SHORT OF MAX $6B
+- 09/25 03:03 [financialjuice] ❗ US Treasury bought $4.078 bln in 20- 30-year debt in September 24th buyback operation
+- 09/25 03:04 [FirstSquawk] US TREASURY BUYS $4.078 BILLION OF 20–30-YEAR DEBT IN SEPTEMBER 24 BUYBACK OPERATION
+- 09/25 03:05 [FirstSquawk] U.S. ENERGY SECRETARY CHRIS WRIGHT HAS CONTACTED EXECUTIVES AT MAJOR REFINERS TO GAUGE SUPPORT FOR VOLUNTARILY RESTRICTING DIESEL EXPORTS, AS THE TRUMP ADMINISTRATION SEEKS AN ALTERNATIVE TO A SHORT-TERM EXPORT BAN. THE PUSH HIGHLIGHTS LIMI…
+- 09/25 03:05 [financialjuice] ❗ US Treasury bought $4.078 bln in 20- 30-year debt in the September 24th buyback operation, short of the max $6 bln
+- 09/25 03:05 [financialjuice] Israel's Prime Minister Netanyahu Speaks at the UNGA - WATCH LIVE
+- 09/25 03:07 [FirstSquawk] DOZENS OF DIPLOMATS WALKED OUT AT THE START OF NETANYAHU'S UN SPEECH, WITH NETANYAHU CALLING THOSE WHO WALKED OUT OF THE UN GENERAL ASSEMBLY HALL 'MORAL COWARDS'
+- 09/25 03:07 [FirstSquawk] NETANYAHU: ISRAEL IS DEFENDING MANY COUNTRIES WHOSE DELEGATES LEFT THE UN GENERAL ASSEMBLY HALL
+- 09/25 03:11 [FirstSquawk] NETANYAHU TELLS SYRIAN PRESIDENT: JEWS HAVE BEEN IN THE GOLAN HEIGHTS SINCE THE TIME OF MOSES
+- 09/25 03:12 [FirstSquawk/DeItaone] FRENCH PRESIDENT MACRON: CIA HAS NOT WARNED FRANCE ABOUT RUSSIAN THREATS
+- 09/25 03:13 [FirstSquawk] MARYGOLD COMPANIES’ SUBSIDIARY GOURMET FOODS HAS SIGNED A DEFINITIVE AGREEMENT TO SELL ITS PRINTSTOCK BUSINESS UNIT FOR NZ$2.45 MILLION (US$1.4 MILLION), COVERING ALL PRINTSTOCK ASSETS. || DEAL INCLUDES A FIVE-YEAR POST-CLOSING RESTRAINT OF…
+- 09/25 03:13 [FirstSquawk] MERCADOLIBRE IS LAUNCHING A NEW BRAZIL DELIVERY SEGMENT OFFERING ORDERS WITHIN UP TO ONE HOUR, STARTING IN SÃO PAULO, EXPANDING ITS FAST-COMMERCE OPERATIONS.
+- 09/25 03:13 [FirstSquawk] MERCADOLIBRE’S PHARMACY BUSINESS WILL BEGIN SELLING PRESCRIPTION DRUGS IN BRAZIL THIS MONTH, WITH THE PHARMACY SEGMENT SET TO JOIN ITS MARKETPLACE MODEL IN OCTOBER INITIALLY THROUGH THREE CHAINS.
+- 09/25 03:17 [FirstSquawk] FRENCH PRESIDENT MACRON SAYS RUSSIA IS 'MULTIPLYING HOSTILE, AND CRIMINAL ACTS, AGAINST EUROPEAN NATIONS', WARNING THAT FRANCE COULD FACE ATTACKS SIMILAR TO THE FAILED LEIPZIG ATTACK AND THAT ALL SENSITIVE SITES IN FRANCE ARE SUBJECT TO ADD…
+- 09/25 03:19 [FirstSquawk] NETANYAHU: “WE’RE GOING TO WIN, WE HAVE NO OTHER CHOICE”
+- 09/25 03:20 [FirstSquawk] NETANYAHU HOLDS UP PAGER IN REFERENCE TO ISRAEL’S ATTACK ON IRAN-BACKED HEZBOLLAH USING PAGERS
+- 09/25 03:20 [FirstSquawk] NETANYAHU: “I WON’T STAND FOR VIGILANTISM; WE’RE A COUNTRY OF LAW”
