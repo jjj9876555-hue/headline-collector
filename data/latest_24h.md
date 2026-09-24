@@ -7,13 +7,13 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 11:51 JST／対象: 09/23 11:51 〜 09/24 11:51 JST（時刻はすべて日本時間）
+生成: 2026-09-24 12:04 JST／対象: 09/23 12:04 〜 09/24 12:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 307 | 09/23 11:52 | 09/24 11:47 | ⚠ 91分（06:44→08:16） |
+| FirstSquawk | 307 | 09/23 12:10 | 09/24 12:01 | ⚠ 91分（06:44→08:16） |
 | financialjuice | 275 | 09/23 12:39 | 09/24 11:33 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 11:52 [FirstSquawk] Polo remains an extremely dangerous Category 5 hurricane, NHC says
-- 09/23 12:01 [FirstSquawk] Trump reaffirms push for dialogue with North Korea in talks with Lee, Seoul says - Yonhap
 - 09/23 12:10 [FirstSquawk] Most Singaporeans ready to let AI agents shop for them with safeguards-SCMP
 - 09/23 12:16 [FirstSquawk] JPMorgan upgrades BP to overweight from neutral, lifts target price to 675p from 550p
 - 09/23 12:18 [FirstSquawk] JPMorgan lifts Societe Generale target price to €83 from €81
@@ -669,3 +667,5 @@
 - 09/24 11:43 [FirstSquawk] South Korea’s Lee vows to double chip production in 5 years, strengthen AI supply chains - YONHAP
 - 09/24 11:47 [FirstSquawk] Honda nearing final preparations for new hybrid vehicle plant in Ohio, Nikkei reports
 - 09/24 11:47 [FirstSquawk] Honda plans nearly $2.5 billion hybrid vehicle plant in U.S.
+- 09/24 11:54 [FirstSquawk] AUD/JPY slips after mixed Australian jobs data
+- 09/24 12:01 [FirstSquawk] High costs challenge Thailand’s solar scheme as smaller users remain hesitant - SCMP
