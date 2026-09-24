@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 16:18 JST／対象: 09/24 10:18 〜 09/24 16:18 JST（時刻はすべて日本時間）
+生成: 2026-09-24 16:33 JST／対象: 09/24 10:33 〜 09/24 16:33 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 85 | 09/24 10:20 | 09/24 16:18 | 25分（12:09→12:34） |
-| financialjuice | 35 | 09/24 10:20 | 09/24 15:47 | ⚠ 68分（11:33→12:41） |
+| FirstSquawk | 82 | 09/24 10:34 | 09/24 16:32 | 25分（12:09→12:34） |
+| financialjuice | 27 | 09/24 10:40 | 09/24 15:47 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 120 行（統合前 120 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 109 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 10:20 [financialjuice] China injects 51.5 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/24 10:20 [FirstSquawk] PBOC adds 51.5 bln yuan via 7-day reverse repos, rate unchanged at 1.40%
-- 09/24 10:27 [FirstSquawk] Hang Seng Tech Index seen opening 0.8% lower
-- 09/24 10:30 [financialjuice] AUSTRALIAN PARTICIPATION RATE ACTUAL 67.1% (FORECAST 66.9%, PREVIOUS 66.9%) $MACRO
-- 09/24 10:30 [financialjuice] ‼ BREAKING: AUSTRALIAN EMPLOYMENT CHANGE ACTUAL 39.5K (FORECAST 20K, PREVIOUS -15.8K) $MACRO
-- 09/24 10:30 [financialjuice] ❗ AUSTRALIAN UNEMPLOYMENT RATE ACTUAL 4.6% (FORECAST 4.5%, PREVIOUS 4.5%) $MACRO
-- 09/24 10:30 [financialjuice] Australia Aug participation rate 67.1% s/adj: Poll 66.9%
-- 09/24 10:30 [financialjuice] Australia August full-time employment down 6,300 seasonally adjusted
-- 09/24 10:30 [financialjuice] Australia aug unemployment rate rises to 4.6%, s/adj (poll forecast 4.5%)
-- 09/24 10:30 [financialjuice] Australia August jobs rise 39.5k seasonally adjusted versus poll of 20.0k
-- 09/24 10:32 [FirstSquawk] Australia Employment Change Aug: 39.5K (est 20.0K; prev -15.8K)
-- 09/24 10:32 [FirstSquawk] Australia Unemployment Rate: 4.6% (est 4.5%; prev 4.5%)
-- 09/24 10:32 [FirstSquawk] Australia Full-Time Employment Change: -6.3K (prev 16.3K)
-- 09/24 10:32 [FirstSquawk] Australia Part-Time Employment Change: 45.8K (prev -32.2K)
-- 09/24 10:32 [FirstSquawk] Australia Participation Rate: 67.1% (est 66.9%; prev 66.9%)
 - 09/24 10:34 [FirstSquawk] Australia’s ASX 200 eases losses after jobs data, still down 1.1% at 8,665.40
 - 09/24 10:40 [FirstSquawk] Sterling stays near July lows as Fed-BoE policy divergence weighs on the pound - FX
 - 09/24 10:40 [financialjuice] Japan finmin Katayama: principles on forex set by coordinated Japan-US intervention remain effective
@@ -144,3 +129,7 @@
 - 09/24 16:03 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.43%; SPAIN'S IBEX DOWN 0.59%; BRITAIN'S FTSE 100 DOWN 0.22%
 - 09/24 16:14 [FirstSquawk] CHINA FOREIGN MINISTER SAYS ON IRAN PRESIDENT REMARKS ON STRAIT OF HORMUZ: ALL PARTIES SHOULD LOOK TO PEACEFUL OPTION, RESOLVE DISPUTES THROUGH DIALOGUE
 - 09/24 16:18 [FirstSquawk] CHINA FOREIGN MINISTRY SAYS CHINA OPPOSES AND RESOLUTELY CRACKS DOWN ON HACKING ATTACKS IN ACCORDING WITH LAW
+- 09/24 16:18 [FirstSquawk] CHINA FOREIGN MINISTRY SAYS CHINESE SIDE URGES THE RELEVANT NEW ZEALAND AGENCIES TO STOP 'SPREADING LIES AND CREATING CONTRADICTIONS'
+- 09/24 16:30 [FirstSquawk] SWISS NATIONAL BANK KEEPS INTEREST RATE UNCHANGED AT 0.00 PCT
+- 09/24 16:30 [FirstSquawk] SWEDEN'S RIKSBANK LEAVES POLICY RATE AT 1.75%; EST 1.750%
+- 09/24 16:32 [FirstSquawk] SNB: DROPS `INCREASED WILLINGNESS' WORDING FROM FX STATEMENT
