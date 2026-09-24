@@ -7,38 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 07:54 JST／対象: 09/25 01:54 〜 09/25 07:54 JST（時刻はすべて日本時間）
+生成: 2026-09-25 08:15 JST／対象: 09/25 02:15 〜 09/25 08:15 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 20 | 09/25 01:55 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 67 | 09/25 01:57 | 09/25 07:52 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 43 | 09/25 01:56 | 09/25 07:45 | 40分（06:04→06:44） |
+| DeItaone | 14 | 09/25 02:16 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
+| FirstSquawk | 64 | 09/25 02:36 | 09/25 07:52 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 39 | 09/25 02:29 | 09/25 08:01 | 40分（06:04→06:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 121 行（統合前 134 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 109 行（統合前 119 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 01:55 [DeItaone] OPENAI AGENTS ATTEMPTED TO BREACH MORE WEBSITES OpenAI-linked AI agents reportedly attempted to break into university and government websites while searching for public data during training and benchmark tasks. Targets included sites in the…
-- 09/25 01:56 [financialjuice] China’s President Xi: China supports the United States and Iran in returning to the Islamabad Memorandum of Understanding - Xinhua.
-- 09/25 01:57 [FirstSquawk] CHINA PRESIDENT XI: CHINA SUPPORTS US, IRAN IN RETURNING TO ISLAMABAD MOU - XINHUA
-- 09/25 01:57 [FirstSquawk] CHINA PRESIDENT XI: CHINA HOPES US ADHERES TO CORRECT POSITION OF OPPOSING "TAIWAN INDEPENDENCE" - XINHUA
-- 09/25 01:57 [FirstSquawk] PEPSICO SPOX: PRICES OF CERTAIN CHIPS TO INCREASE BY LOW-TO-MID SINGLE DIGIT PERCENTAGE, ALIGNED WITH INFLATION
-- 09/25 02:00 [DeItaone] XI TOLD TRUMP CHINA'S POSITION ON SAFEGUARDING ITS NATIONAL UNITY AND TERRITORIAL INTEGRITY IS CRYSTAL CLEAR -XINHUA
-- 09/25 02:00 [DeItaone] TRUMP ADMINISTRATION PRESSES CHINA ON SUSPECTED NUCLEAR TESTS IN CONFIDENTIAL TALKS
-- 09/25 02:01 [financialjuice] Treasury WI 7-year yield 5.078% before $44 billion auction.
-- 09/25 02:01 [financialjuice] Trump administration presses China on suspected nuclear tests in confidential talks - WSJ.
-- 09/25 02:02 [DeItaone] U.S. PRESSES CHINA OVER SUSPECTED NUCLEAR TESTS The Trump administration has been quietly holding talks with China over allegations Beijing conducted secret low-yield nuclear tests and concerns about its rapidly expanding nuclear arsenal. C…
-- 09/25 02:02 [financialjuice] US 7-YEAR HIGH YIELD ACTUAL 5.085% (FORECAST -, PREVIOUS 4.512%) $MACRO
-- 09/25 02:03 [financialjuice] US 7-Year Note Auction High Yield 5.085% [Tail +0.7 bps] Bid-to-cover 2.42 Sells 44 bln Awards 91.11% of bids at high Primary Dealers take 12.5% Direct 30.3% Indirect 57.2%
-- 09/25 02:07 [DeItaone/financialjuice] TRUMP: WE HAD A GREAT MEETING
-- 09/25 02:10 [DeItaone] TRUMP TAKES CHINA'S XI INSIDE PRESIDENTIAL HELICOPTER
-- 09/25 02:10 [financialjuice] Trump takes China's Xi inside the Presidential Helicopter.
 - 09/25 02:16 [DeItaone] FED HIKE EXPECTATIONS SURGE Kalshi now forecasts 2.4 Fed rate hikes this year, up sharply from around 2.1 earlier this week. The jump signals a significant hawkish repricing of Fed expectations. https://t.co/mE21ntaTcP
 - 09/25 02:29 [financialjuice] China's Xi leaves white house after meetings with Trump.
 - 09/25 02:36 [FirstSquawk] ISRAELI OFFICIAL SAYS CHANCE OF US-IRAN DEAL IS SMALL - JPOST
@@ -145,3 +130,6 @@
 - 09/25 07:42 [financialjuice] OpenAI to unveil product for more secure, automated GPT-6 Cyber deployment - Fortune
 - 09/25 07:45 [financialjuice] Trump, Johnson and tech CEOs to convene on Sept. 29: Axios
 - 09/25 07:52 [DeItaone] IRANIAN PRESIDENT WHEN ASKED IF WAR COULD END BEFORE END OF YEAR: IT'S AMERICA THAT MUST CHOOSE WHETHER IT WANTS TO END THIS
+- 09/25 07:57 [financialjuice] Qatar categorically rejects Netanyahu’s claim it is running campaign to sway public opinion against Israel
+- 09/25 07:58 [financialjuice] Qatar: Repeated attacks by Netanyahu appear aimed at deflecting political responsibility for ground policies
+- 09/25 08:01 [financialjuice] UK GfK consumer confidence index at -13 in September vs -14 in August, highest since August 2024 (poll -16)
