@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 06:52 JST／対象: 09/25 00:52 〜 09/25 06:52 JST（時刻はすべて日本時間）
+生成: 2026-09-25 07:05 JST／対象: 09/25 01:05 〜 09/25 07:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 27 | 09/25 00:55 | 09/25 04:02 | 34分（01:16→01:51） |
-| FirstSquawk | 72 | 09/25 00:55 | 09/25 06:47 | 39分（01:57→02:36） |
-| financialjuice | 45 | 09/25 00:56 | 09/25 06:44 | 40分（06:04→06:44） |
+| DeItaone | 24 | 09/25 01:15 | 09/25 04:02 | 34分（01:16→01:51） |
+| FirstSquawk | 71 | 09/25 01:08 | 09/25 06:47 | 39分（01:57→02:36） |
+| financialjuice | 42 | 09/25 01:15 | 09/25 06:44 | 40分（06:04→06:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 137 行（統合前 149 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 130 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 00:55 [DeItaone] MS NOW PRODUCER GRANTED ACCESS TO WHITE HOUSE -MS NOW
-- 09/25 00:55 [FirstSquawk] GOOGLE: INTRODUCING GEMINI 3.8 LIVE WITH LIVE AVATAR
-- 09/25 00:56 [financialjuice] Google introduces Gemini 3.8 Live, with live avatar. $GOOGL
-- 09/25 00:57 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS LAST UP 0.85 BASIS POINTS AT 4.904%
-- 09/25 01:00 [DeItaone] U.S. 30-YR FIXED RATE MORTGAGE AVERAGES 7.03 PCT IN SEPT 24 WEEK, HIGHEST SINCE JAN 16, 2025 WEEK, VS 6.95 PCT PRIOR WEEK-FREDDIE MAC
-- 09/25 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 7.03% in Sept 24 week, highest since Jan 16, 2025 week, vs 6.95% prior week - Freddie Mac
-- 09/25 01:01 [financialjuice] BNP Paribas and Google Cloud sign five-year AI pact. $GOOGL
 - 09/25 01:08 [FirstSquawk] BNP PARIBAS, GOOGLE CLOUD SIGN 5-YEAR PARTNERSHIP FOR AI AND CLOUD INNOVATION
 - 09/25 01:09 [FirstSquawk] CNN AND MS HAVE BEEN GIVEN PERMISSION TO ENTER THE WHITE HOUSE.
 - 09/25 01:15 [financialjuice] Russia's Kuibyshev Oil Refinery has suspended oil processing since September 22ND, following A drone attack - Sources.
