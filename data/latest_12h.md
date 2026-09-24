@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 07:24 JST／対象: 09/24 19:24 〜 09/25 07:24 JST（時刻はすべて日本時間）
+生成: 2026-09-25 07:42 JST／対象: 09/24 19:42 〜 09/25 07:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 86 | 09/24 21:26 | 09/25 04:02 | 34分（01:16→01:51） |
-| FirstSquawk | 194 | 09/24 19:25 | 09/25 07:06 | 39分（01:57→02:36） |
-| financialjuice | 176 | 09/24 19:25 | 09/25 07:12 | 40分（06:04→06:44） |
+| FirstSquawk | 190 | 09/24 19:43 | 09/25 07:06 | 39分（01:57→02:36） |
+| financialjuice | 177 | 09/24 19:57 | 09/25 07:41 | 40分（06:04→06:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 434 行（統合前 462 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 432 行（統合前 459 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 19:25 [financialjuice/FirstSquawk] Saudi civil defence alerts of potential danger in Taif - Statement
-- 09/24 19:25 [FirstSquawk] SAUDI CIVIL DEFENSE ALERTS OF POTENTIAL DANGER IN MECCA, JEDDAH AND YANBU AND TABUK
-- 09/24 19:25 [FirstSquawk] EUROPE SHOULD TAKE EVERY OPPORTUNITY FOR DIALOG: RADEV ON PUTIN
-- 09/24 19:25 [financialjuice] Saudi civil defense alerts of potential danger in Mecca, Jeddah, Yanbu, and Tabuk
-- 09/24 19:27 [FirstSquawk] SPOT GOLD FALLS NEARLY 1% TO $4,244.99/OZ
-- 09/24 19:40 [financialjuice] China Life to invest up to 4.5B Yuan in a fund targeting AI and chip
 - 09/24 19:43 [FirstSquawk] TRUMP LENGTHENS TRADE CEASEFIRE WITH CHINA AND GREETS XI JINPING IN WASHINGTON.
 - 09/24 19:43 [FirstSquawk] CHINA LIFE WILL INVEST UP TO 4.5 BILLION YUAN IN A FUND FOCUSED ON AI AND CHIP TECHNOLOGIES.
 - 09/24 19:46 [FirstSquawk] MERCK’S REMIGROMIG MEETS PRIMARY ENDPOINT IN DME TRIAL
@@ -458,3 +452,7 @@
 - 09/25 06:44 [financialjuice/FirstSquawk] Argentina's province of San Juan launches $600 million international bond below 10% rate - local media
 - 09/25 06:47 [FirstSquawk] MGM RESORTS EYES BID FOR BARRY DILLER’S PEOPLE INCORPORATED; PROPOSAL COULD COME WITHIN DAYS — WSJ
 - 09/25 07:12 [financialjuice] New Zealand Finance Minister announces short-term appointment of Rebecca Williams as internal member of Reserve Bank of New Zealand monetary policy committee
+- 09/25 07:27 [financialjuice] UK foreign secretary Miliband warns Iran's foreign minister: UK will not tolerate hostile acts on British soil - Sky News
+- 09/25 07:34 [financialjuice] Iranian president on whether war could end before year-end: it's America that must decide if it wants to end this
+- 09/25 07:41 [financialjuice] OpenAI to preview latest cybersecurity-focused model GPT-6 Cyber in coming days: Fortune
+- 09/25 07:41 [financialjuice] Ke Agentic migration converts AWS EKS infrastructure as code to GKE through automated pull requests

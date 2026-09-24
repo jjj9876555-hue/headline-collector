@@ -7,24 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 07:24 JST／対象: 09/24 07:24 〜 09/25 07:24 JST（時刻はすべて日本時間）
+生成: 2026-09-25 07:42 JST／対象: 09/24 07:42 〜 09/25 07:42 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 86 | 09/24 21:26 | 09/25 04:02 | 34分（01:16→01:51） |
 | FirstSquawk | 369 | 09/24 08:16 | 09/25 07:06 | 39分（01:57→02:36） |
-| financialjuice | 282 | 09/24 07:31 | 09/25 07:12 | ⚠ 108分（15:47→17:36） |
+| financialjuice | 285 | 09/24 07:42 | 09/25 07:41 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 713 行（統合前 743 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 716 行（統合前 746 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 07:31 [financialjuice] Modal Labs in talks to secure new funding at about $15 billion valuation
 - 09/24 07:42 [financialjuice] South Korea’s presidential office: President Lee discussed warship building with U.S. President Donald Trump
 - 09/24 07:46 [financialjuice] South Korea President Lee: Hanwha's Philly shipyard to construct warships for US - Korea presidential office
 - 09/24 08:03 [financialjuice] Meta launches annual Connect conference in Menlo Park, California
@@ -737,3 +736,7 @@
 - 09/25 06:44 [financialjuice/FirstSquawk] Argentina's province of San Juan launches $600 million international bond below 10% rate - local media
 - 09/25 06:47 [FirstSquawk] MGM RESORTS EYES BID FOR BARRY DILLER’S PEOPLE INCORPORATED; PROPOSAL COULD COME WITHIN DAYS — WSJ
 - 09/25 07:12 [financialjuice] New Zealand Finance Minister announces short-term appointment of Rebecca Williams as internal member of Reserve Bank of New Zealand monetary policy committee
+- 09/25 07:27 [financialjuice] UK foreign secretary Miliband warns Iran's foreign minister: UK will not tolerate hostile acts on British soil - Sky News
+- 09/25 07:34 [financialjuice] Iranian president on whether war could end before year-end: it's America that must decide if it wants to end this
+- 09/25 07:41 [financialjuice] OpenAI to preview latest cybersecurity-focused model GPT-6 Cyber in coming days: Fortune
+- 09/25 07:41 [financialjuice] Ke Agentic migration converts AWS EKS infrastructure as code to GKE through automated pull requests
