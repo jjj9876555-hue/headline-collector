@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 14:04 JST／対象: 09/24 02:04 〜 09/24 14:04 JST（時刻はすべて日本時間）
+生成: 2026-09-24 14:24 JST／対象: 09/24 02:24 〜 09/24 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 12 | 09/24 02:05 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 150 | 09/24 02:31 | 09/24 14:01 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 112 | 09/24 02:06 | 09/24 14:01 | ⚠ 68分（11:33→12:41） |
+| DeItaone | 10 | 09/24 02:41 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 153 | 09/24 02:31 | 09/24 14:22 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 112 | 09/24 02:28 | 09/24 14:07 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 271 行（統合前 275 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 272 行（統合前 276 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 02:05 [DeItaone] DIESEL CRACKS PLUNGE ON U.S. EXPORT BAN REPORT U.S. diesel cracks fell $12.70 to $97.85/bbl after Politico reported the White House is preparing a 90-day diesel export ban. Meanwhile, gasoline cracks jumped $2 to $47.41/bbl, reflecting conc…
-- 09/24 02:05 [DeItaone] *FIVE-YEAR TREASURY YIELD RISES TO 5% FOR FIRST TIME SINCE 2007
-- 09/24 02:06 [financialjuice] US 5-Year Note Auction High Yield 5.033% (Tailed by 3.1 basis points) Bid-to-cover 2.21 Sells $70 bln Awards 30.34% of bids at high Primary Dealers take 15.77% Direct 29.92% Indirect 54.31%
 - 09/24 02:28 [financialjuice] Microsoft President: It is the right time to invest in Gulf nations. $MSFT
 - 09/24 02:31 [FirstSquawk] 4 COUNTERPARTIES TAKE $461 MLN AT FED REVERSE REPO (PREV $453 MLN, 8 BIDS)
 - 09/24 02:34 [financialjuice] Microsoft's Smith: AI safety won't advance if we rely on two companies, AI should have independent evaluators $MSFT
@@ -295,3 +292,7 @@
 - 09/24 14:00 [financialjuice] EBRD lowers Ukraine economic growth forecast for 2026 by 0.7 percentage points to 1.5%, cuts 2027 forecast by 1.5 percentage points to 2.5%
 - 09/24 14:01 [financialjuice] Ukraine’s economic outlook weakened materially to near stagnation as Russian air attacks increase, EBRD says
 - 09/24 14:01 [FirstSquawk] US judge issues order blocking Trump administration’s White House ban on CNN, MS NOW and Politico
+- 09/24 14:07 [financialjuice] ‼ BREAKING: SWISS INTEREST RATE ACTUAL 0.00% (FORECAST 0%, PREVIOUS 0.00%) $MACRO
+- 09/24 14:12 [FirstSquawk] Russia says it struck Ukrainian defence facilities, logistics centres and military-use vessels
+- 09/24 14:14 [FirstSquawk] Polish Air Force concludes operations launched in response to Russian strikes on Ukraine
+- 09/24 14:22 [FirstSquawk] US JUDGE ORDERS TRUMP TO RESTORE WHITE HOUSE ACCESS FOR CNN, MS NOW AND POLITICO, RULING MEDIA BAN LIKELY UNCONSTITUTIONAL

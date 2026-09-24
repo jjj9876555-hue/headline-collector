@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 14:04 JST／対象: 09/23 14:04 〜 09/24 14:04 JST（時刻はすべて日本時間）
+生成: 2026-09-24 14:24 JST／対象: 09/23 14:24 〜 09/24 14:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 297 | 09/23 14:07 | 09/24 14:01 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 273 | 09/23 14:52 | 09/24 14:01 | ⚠ 71分（18:33→19:45） |
+| FirstSquawk | 294 | 09/23 14:36 | 09/24 14:22 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 274 | 09/23 14:52 | 09/24 14:07 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 633 行（統合前 655 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 631 行（統合前 653 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 14:07 [FirstSquawk] Kotecki: Polish central bank nearing discussion on possible November interest rate hike
-- 09/23 14:10 [FirstSquawk] Kotecki signals any Polish rate hikes would be gradual and limited
-- 09/23 14:10 [FirstSquawk] Goldman leads M&A activity as freed capital fuels dealmaking - RTRS
-- 09/23 14:19 [FirstSquawk] Roche says sefaxersen significantly reduces proteinuria in Phase III IgA nephropathy study
-- 09/23 14:19 [FirstSquawk] Russian forces hit cargo ship in Black Sea, Defence Ministry says - IFX
-- 09/23 14:20 [FirstSquawk] Russia says its forces hit Ukrainian defence, energy facilities and logistics centres - RIA
 - 09/23 14:36 [FirstSquawk] Eleven killed and three injured in KwaZulu-Natal shooting, South African police say
 - 09/23 14:41 [FirstSquawk] Brazil, Germany, India and Japan urge greater focus on UN Security Council reform amid geopolitical challenges - REUTERS REPORT
 - 09/23 14:44 [FirstSquawk] Poland’s Lublin, Rzeszów airports resume air operations following temporary military-related closure - PANSA
@@ -657,3 +651,7 @@
 - 09/24 14:00 [financialjuice] EBRD lowers Ukraine economic growth forecast for 2026 by 0.7 percentage points to 1.5%, cuts 2027 forecast by 1.5 percentage points to 2.5%
 - 09/24 14:01 [financialjuice] Ukraine’s economic outlook weakened materially to near stagnation as Russian air attacks increase, EBRD says
 - 09/24 14:01 [FirstSquawk] US judge issues order blocking Trump administration’s White House ban on CNN, MS NOW and Politico
+- 09/24 14:07 [financialjuice] ‼ BREAKING: SWISS INTEREST RATE ACTUAL 0.00% (FORECAST 0%, PREVIOUS 0.00%) $MACRO
+- 09/24 14:12 [FirstSquawk] Russia says it struck Ukrainian defence facilities, logistics centres and military-use vessels
+- 09/24 14:14 [FirstSquawk] Polish Air Force concludes operations launched in response to Russian strikes on Ukraine
+- 09/24 14:22 [FirstSquawk] US JUDGE ORDERS TRUMP TO RESTORE WHITE HOUSE ACCESS FOR CNN, MS NOW AND POLITICO, RULING MEDIA BAN LIKELY UNCONSTITUTIONAL
