@@ -7,42 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 20:18 JST／対象: 09/24 08:18 〜 09/24 20:18 JST（時刻はすべて日本時間）
+生成: 2026-09-24 20:34 JST／対象: 09/24 08:34 〜 09/24 20:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 189 | 09/24 08:18 | 09/24 20:14 | 25分（12:09→12:34） |
-| financialjuice | 103 | 09/24 08:18 | 09/24 20:14 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 191 | 09/24 08:46 | 09/24 20:31 | 25分（12:09→12:34） |
+| financialjuice | 87 | 09/24 08:34 | 09/24 20:25 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 288 行（統合前 292 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 273 行（統合前 278 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 08:18 [FirstSquawk] TRUMP: HAD “GREAT CONVERSATIONS” WITH WORLD LEADERS AT UNGA; SAYS “ENTIRE TECH & BANKING WORLDS” WILL ATTEND XI DINNER TOMORROW, DESCRIBES GREETING WITH XI AS “GREAT”
-- 09/24 08:18 [financialjuice] Venezuela acting president Delcy Rodriguez to UNGA: Urge Guyana to resume negotiations
-- 09/24 08:19 [financialjuice] Meta says it is integrating Muse into all its smart glasses
-- 09/24 08:20 [financialjuice] Venezuela acting president Delcy Rodriguez tells UNGA: thanks US president Donald Trump for restoring diplomatic relations
-- 09/24 08:21 [financialjuice] Venezuela Acting President Delcy Rodriguez tells UNGA: aims with US and neighbors to build ties
-- 09/24 08:23 [financialjuice] Venezuela acting president Delcy Rodriguez tells UNGA: Venezuela has launched a democratic process
-- 09/24 08:23 [FirstSquawk] SENATE DEMOCRATS ARE URGING MAJORITY LEADER JOHN THUNE TO HOLD VOTES ON THREE BILLS THAT WOULD TIGHTEN U.S. CHIP AND SEMICONDUCTOR EQUIPMENT EXPORT CONTROLS TO CHINA, INCLUDING THE AI OVERWATCH ACT, MATCH ACT AND CHIP SECURITY ACT.
-- 09/24 08:23 [financialjuice] Venezuela acting president Rodriguez calls for political talks to foster freedom, reconciliation
-- 09/24 08:25 [financialjuice] Venezuela acting president Rodriguez: orderly legal transition to take place
-- 09/24 08:26 [financialjuice] Venezuela acting president Rodriguez: will ensure involvement of all political groups
-- 09/24 08:26 [financialjuice] Venezuela acting president Rodriguez: elections will take place
-- 09/24 08:27 [financialjuice] Meta unveils private processing for smart glasses
-- 09/24 08:27 [financialjuice] Venezuela acting President Rodriguez: Dialogue with opposition has begun
-- 09/24 08:27 [financialjuice] Venezuela acting president Rodriguez: institutions will be prepared for that process
-- 09/24 08:28 [financialjuice] Venezuela acting president Rodriguez: will guide nation from uncertainty to full democracy
-- 09/24 08:29 [financialjuice] Venezuela acting president Rodriguez: ready to collaborate with international community
-- 09/24 08:29 [financialjuice] Venezuela acting president Rodriguez: this is the moment to create the nation many seek to return to
-- 09/24 08:30 [financialjuice] Venezuela acting president Rodriguez: recovery will be gradual
-- 09/24 08:32 [financialjuice] Meta unveils smart glasses without cameras
 - 09/24 08:34 [financialjuice] Meta introduces third generation of Ray-Ban smart glasses
 - 09/24 08:36 [financialjuice] Meta: adventurer style smart glasses to start at $249
 - 09/24 08:39 [financialjuice] Meta: Ray-Ban Meta Audio launches October 13, available for pre-order at $349
@@ -312,3 +293,7 @@
 - 09/24 20:14 [financialjuice] Saudi-led coalition in Yemen: Intercepted 6 ballistic missiles launched by Iran-backed Houthis
 - 09/24 20:14 [FirstSquawk] SAUDI-LED COALITION IN YEMEN SAYS IT INTERCEPTED 6 BALLISTIC MISSILES LAUNCHED BY IRAN-BACKED HOUTHIS
 - 09/24 20:14 [FirstSquawk/financialjuice] IRAQ IS TRUCKING AROUND 250,000 BPD OF BASRA CRUDE TO KIRKUK FOR EXPORTS VIA CEYHAN IN TURKEY -BASRA OIL COMPANY HEAD
+- 09/24 20:25 [FirstSquawk] TRUMP SAYS ON AI: SUPER INTELLIGENCE (SI) WILL BE A BIG TOPIC OF DISCUSSION, BUT I WANT TO LEAVE IT EXACTLY WHERE IT IS.
+- 09/24 20:25 [financialjuice/FirstSquawk] Trump on Truth Social: A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also.
+- 09/24 20:29 [FirstSquawk] US TRUMP SAYS US, CHINA WANT TO LEAVE AI 'EXACTLY WHERE IT IS'
+- 09/24 20:31 [FirstSquawk] QUALCOMM RENEWS GLOBAL PATENT LICENSE PACT WITH APPLE
