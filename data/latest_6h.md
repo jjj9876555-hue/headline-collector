@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 16:33 JST／対象: 09/24 10:33 〜 09/24 16:33 JST（時刻はすべて日本時間）
+生成: 2026-09-24 16:51 JST／対象: 09/24 10:51 〜 09/24 16:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 82 | 09/24 10:34 | 09/24 16:32 | 25分（12:09→12:34） |
-| financialjuice | 27 | 09/24 10:40 | 09/24 15:47 | ⚠ 68分（11:33→12:41） |
+| FirstSquawk | 79 | 09/24 10:52 | 09/24 16:34 | 25分（12:09→12:34） |
+| financialjuice | 25 | 09/24 11:04 | 09/24 15:47 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 109 行（統合前 109 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 104 行（統合前 104 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 10:34 [FirstSquawk] Australia’s ASX 200 eases losses after jobs data, still down 1.1% at 8,665.40
-- 09/24 10:40 [FirstSquawk] Sterling stays near July lows as Fed-BoE policy divergence weighs on the pound - FX
-- 09/24 10:40 [financialjuice] Japan finmin Katayama: principles on forex set by coordinated Japan-US intervention remain effective
-- 09/24 10:41 [financialjuice] Japan finmin Katayama: declines to comment on forex levels
-- 09/24 10:41 [FirstSquawk] Japan’s Katayama: Existing forex principles from coordinated U.S.-Japan intervention still apply
-- 09/24 10:41 [FirstSquawk] Katayama: Japan won’t comment on specific forex levels
-- 09/24 10:46 [FirstSquawk] Osaka rubber futures climb 5.25% to highest level in 15 years
 - 09/24 10:52 [FirstSquawk] Xi receives rare welcome from Trump at military base before summit - YONHAP
 - 09/24 10:59 [FirstSquawk] Euro drops below 1.1400 as expectations of Fed hikes lift the US Dollar - FX
 - 09/24 11:02 [FirstSquawk] 5-year Japanese government bond yield rises to record 2.345%, up 7 bps
@@ -133,3 +126,5 @@
 - 09/24 16:30 [FirstSquawk] SWISS NATIONAL BANK KEEPS INTEREST RATE UNCHANGED AT 0.00 PCT
 - 09/24 16:30 [FirstSquawk] SWEDEN'S RIKSBANK LEAVES POLICY RATE AT 1.75%; EST 1.750%
 - 09/24 16:32 [FirstSquawk] SNB: DROPS `INCREASED WILLINGNESS' WORDING FROM FX STATEMENT
+- 09/24 16:34 [FirstSquawk] SWEDISH CENTRAL BANK SAYS ASSESSES THAT POLICY RATE SHOULD BE RAISED MORE GOING FORWARD THAN PROJECTED IN JUNE FORECAST, FOR INFLATION TO STABILISE AROUND 2 PER CENT
+- 09/24 16:34 [FirstSquawk] SWEDISH CENTRAL BANK SAYS IF OUTLOOK FOR INFLATION AND ECONOMIC ACTIVITY REMAINS UNCHANGED, IT IS EXPECTED THAT INCREASES TO POLICY RATE WILL BEGIN THIS YEAR
