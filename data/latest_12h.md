@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 07:05 JST／対象: 09/24 19:05 〜 09/25 07:05 JST（時刻はすべて日本時間）
+生成: 2026-09-25 07:24 JST／対象: 09/24 19:24 〜 09/25 07:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 86 | 09/24 21:26 | 09/25 04:02 | 34分（01:16→01:51） |
-| FirstSquawk | 199 | 09/24 19:12 | 09/25 06:47 | 39分（01:57→02:36） |
-| financialjuice | 177 | 09/24 19:16 | 09/25 06:44 | 40分（06:04→06:44） |
+| FirstSquawk | 194 | 09/24 19:25 | 09/25 07:06 | 39分（01:57→02:36） |
+| financialjuice | 176 | 09/24 19:25 | 09/25 07:12 | 40分（06:04→06:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 440 行（統合前 468 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 434 行（統合前 462 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 19:12 [FirstSquawk] BOE MPC'S DHINGRA: I WOULD NOT BE SURPRISED IF AI LEADS TO LOWER SERVICES INFLATION
-- 09/24 19:12 [FirstSquawk] EU SPOX: HIGH LEVEL CONTACTS WITH US ADMIN ARE ONGOING
-- 09/24 19:15 [FirstSquawk/financialjuice] EU COMMISSION: NO CONCRETE SHORTAGE OF DIESEL IN THE EU
-- 09/24 19:16 [financialjuice] Global crude steel output falls 1.2% to 144.2 mln metric tons in August 2026 vs August 2025 -Worldsteel
-- 09/24 19:17 [FirstSquawk] GLOBAL CRUDE STEEL OUTPUT FALLS 1.2% TO 144.2 MLN METRIC TONS IN AUGUST 2026 VS AUGUST 2025, WORLDSTEEL SAYS
-- 09/24 19:18 [FirstSquawk] CHINA CRUDE STEEL OUTPUT FALLS 3.7% TO 74.6 MLN T IN AUG 2026 VS AUG 2025 - WORLDSTEEL
-- 09/24 19:22 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: A NEW US ESCALATION COULD OPEN A SECOND FRONT AT BAB EL-MANDEB ALONGSIDE HORMUZ.
 - 09/24 19:25 [financialjuice/FirstSquawk] Saudi civil defence alerts of potential danger in Taif - Statement
 - 09/24 19:25 [FirstSquawk] SAUDI CIVIL DEFENSE ALERTS OF POTENTIAL DANGER IN MECCA, JEDDAH AND YANBU AND TABUK
 - 09/24 19:25 [FirstSquawk] EUROPE SHOULD TAKE EVERY OPPORTUNITY FOR DIALOG: RADEV ON PUTIN
@@ -462,5 +455,6 @@
 - 09/25 06:22 [FirstSquawk] IRANIAN PRESIDENT MASOUD PEZESHKIAN SAYS IRAN IS “OPEN” TO INSPECTIONS OF ITS NUCLEAR FACILITIES AND DENIES THAT TEHRAN IS SEEKING TO ASSASSINATE PRESIDENT DONALD TRUMP OR HIS FAMILY. - NBC NEWS
 - 09/25 06:25 [FirstSquawk] BOND VOLATILITY KEPT U.S. STOCKS UNDER PRESSURE AS BRENT CRUDE SETTLED NEAR $107 A BARREL, RAISING CONCERNS THAT PERSISTENT INFLATION COULD FORCE THE FEDERAL RESERVE TO KEEP RAISING RATES, WHILE 30-YEAR TREASURY YIELDS REACHED THEIR HIGHEST…
 - 09/25 06:25 [FirstSquawk] MONEY MARKETS ARE NOW FULLY PRICING THREE ADDITIONAL FED RATE HIKES OVER THE NEXT YEAR AS INVESTORS DEMAND HIGHER RETURNS ON LONG-TERM BONDS, WHILE TRUMP AND XI DISCUSSED AI COMPETITION AFTER THE U.S.-CHINA TRADE TRUCE WAS EXTENDED BY ABOUT…
-- 09/25 06:44 [financialjuice] Argentina's province of San Juan launches $600 million international bond below 10% rate - local media
+- 09/25 06:44 [financialjuice/FirstSquawk] Argentina's province of San Juan launches $600 million international bond below 10% rate - local media
 - 09/25 06:47 [FirstSquawk] MGM RESORTS EYES BID FOR BARRY DILLER’S PEOPLE INCORPORATED; PROPOSAL COULD COME WITHIN DAYS — WSJ
+- 09/25 07:12 [financialjuice] New Zealand Finance Minister announces short-term appointment of Rebecca Williams as internal member of Reserve Bank of New Zealand monetary policy committee

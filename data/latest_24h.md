@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 07:05 JST／対象: 09/24 07:05 〜 09/25 07:05 JST（時刻はすべて日本時間）
+生成: 2026-09-25 07:24 JST／対象: 09/24 07:24 〜 09/25 07:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 86 | 09/24 21:26 | 09/25 04:02 | 34分（01:16→01:51） |
-| FirstSquawk | 368 | 09/24 08:16 | 09/25 06:47 | 39分（01:57→02:36） |
-| financialjuice | 283 | 09/24 07:06 | 09/25 06:44 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 369 | 09/24 08:16 | 09/25 07:06 | 39分（01:57→02:36） |
+| financialjuice | 282 | 09/24 07:31 | 09/25 07:12 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 713 行（統合前 743 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 07:06 [financialjuice] US Treasury Secretary Bessent: U.S., China agreed Wednesday to prolong Busan agreement
-- 09/24 07:13 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: reports that he will likely be Trump's al czar are probably fake news
 - 09/24 07:31 [financialjuice] Modal Labs in talks to secure new funding at about $15 billion valuation
 - 09/24 07:42 [financialjuice] South Korea’s presidential office: President Lee discussed warship building with U.S. President Donald Trump
 - 09/24 07:46 [financialjuice] South Korea President Lee: Hanwha's Philly shipyard to construct warships for US - Korea presidential office
@@ -35,6 +33,7 @@
 - 09/24 08:10 [financialjuice] Meta CEO Zuckerberg: company expects to earn revenue from Muse by charging small transaction fee
 - 09/24 08:12 [financialjuice] Meta exec Wang: company adding computer usage data to Muse
 - 09/24 08:14 [financialjuice] Meta exec Wang: Walmart, Gap, Best Buy among companies integrated into Muse
+- 09/24 08:16 [FirstSquawk] US TREASURY SECRETARY BESSENT: REPORTS THAT HE WILL LIKELY BE TRUMP'S AL CZAR ARE PROBABLY FAKE NEWS
 - 09/24 08:16 [FirstSquawk] EU COUNCIL PRESIDENT COSTA SPEAKS WITH IRANIAN PRESIDENT; URGES RESUMPTION OF IAEA COOPERATION, END TO STRIKES ON NEIGHBOURS & RESTORATION OF FREEDOM OF NAVIGATION IN STRAIT OF HORMUZ
 - 09/24 08:17 [financialjuice] Venezuela acting president delcy rodriguez tells unga: recent energy pact with US to aid global energy equilibrium
 - 09/24 08:18 [FirstSquawk] TRUMP: HAD “GREAT CONVERSATIONS” WITH WORLD LEADERS AT UNGA; SAYS “ENTIRE TECH & BANKING WORLDS” WILL ATTEND XI DINNER TOMORROW, DESCRIBES GREETING WITH XI AS “GREAT”
@@ -735,5 +734,6 @@
 - 09/25 06:22 [FirstSquawk] IRANIAN PRESIDENT MASOUD PEZESHKIAN SAYS IRAN IS “OPEN” TO INSPECTIONS OF ITS NUCLEAR FACILITIES AND DENIES THAT TEHRAN IS SEEKING TO ASSASSINATE PRESIDENT DONALD TRUMP OR HIS FAMILY. - NBC NEWS
 - 09/25 06:25 [FirstSquawk] BOND VOLATILITY KEPT U.S. STOCKS UNDER PRESSURE AS BRENT CRUDE SETTLED NEAR $107 A BARREL, RAISING CONCERNS THAT PERSISTENT INFLATION COULD FORCE THE FEDERAL RESERVE TO KEEP RAISING RATES, WHILE 30-YEAR TREASURY YIELDS REACHED THEIR HIGHEST…
 - 09/25 06:25 [FirstSquawk] MONEY MARKETS ARE NOW FULLY PRICING THREE ADDITIONAL FED RATE HIKES OVER THE NEXT YEAR AS INVESTORS DEMAND HIGHER RETURNS ON LONG-TERM BONDS, WHILE TRUMP AND XI DISCUSSED AI COMPETITION AFTER THE U.S.-CHINA TRADE TRUCE WAS EXTENDED BY ABOUT…
-- 09/25 06:44 [financialjuice] Argentina's province of San Juan launches $600 million international bond below 10% rate - local media
+- 09/25 06:44 [financialjuice/FirstSquawk] Argentina's province of San Juan launches $600 million international bond below 10% rate - local media
 - 09/25 06:47 [FirstSquawk] MGM RESORTS EYES BID FOR BARRY DILLER’S PEOPLE INCORPORATED; PROPOSAL COULD COME WITHIN DAYS — WSJ
+- 09/25 07:12 [financialjuice] New Zealand Finance Minister announces short-term appointment of Rebecca Williams as internal member of Reserve Bank of New Zealand monetary policy committee

@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 07:05 JST／対象: 09/25 01:05 〜 09/25 07:05 JST（時刻はすべて日本時間）
+生成: 2026-09-25 07:24 JST／対象: 09/25 01:24 〜 09/25 07:24 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/25 01:15 | 09/25 04:02 | 34分（01:16→01:51） |
-| FirstSquawk | 71 | 09/25 01:08 | 09/25 06:47 | 39分（01:57→02:36） |
-| financialjuice | 42 | 09/25 01:15 | 09/25 06:44 | 40分（06:04→06:44） |
+| DeItaone | 22 | 09/25 01:51 | 09/25 04:02 | 23分（02:16→02:39） |
+| FirstSquawk | 68 | 09/25 01:27 | 09/25 07:06 | 39分（01:57→02:36） |
+| financialjuice | 40 | 09/25 01:28 | 09/25 07:12 | 40分（06:04→06:44） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 130 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 122 行（統合前 134 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/25 01:08 [FirstSquawk] BNP PARIBAS, GOOGLE CLOUD SIGN 5-YEAR PARTNERSHIP FOR AI AND CLOUD INNOVATION
-- 09/25 01:09 [FirstSquawk] CNN AND MS HAVE BEEN GIVEN PERMISSION TO ENTER THE WHITE HOUSE.
-- 09/25 01:15 [financialjuice] Russia's Kuibyshev Oil Refinery has suspended oil processing since September 22ND, following A drone attack - Sources.
-- 09/25 01:15 [DeItaone] US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say
-- 09/25 01:16 [financialjuice] ❗ US and Iran discuss phased deal to reopen Hormuz and end US blockade - Sources.
-- 09/25 01:16 [DeItaone] U.S. AND IRAN EXPLORE PHASED HORMUZ DEAL U.S. and Iranian negotiators are discussing a phased agreement to end the conflict, Reuters reports. The potential first step would see Iran reopen the Strait of Hormuz in exchange for Washington lif…
-- 09/25 01:16 [FirstSquawk] US AND IRAN DISCUSS PHASED DEAL TO REOPEN HORMUZ AND END US BLOCKADE
-- 09/25 01:20 [financialjuice] US and Iranian negotiators in New York are exploring a phased path out of war that would involve Tehran reopening the Strait of Hormuz and Washington lifting its economic blockade of Iran, sources close to the talks said. The strait has bec…
-- 09/25 01:22 [FirstSquawk] TRUMP'S ADMINISTRATION ANNOUNCES MEDIA ACCESS TO THE WHITE HOUSE HAS BEEN RESTORED.
 - 09/25 01:27 [FirstSquawk] TRUMP CONSIDERS ALLOWING CHINESE EV PRODUCTION IN US AMID XI TALKS - NBC
 - 09/25 01:28 [financialjuice] EU needs 'decisive change' in 'scale and pace' of defence efforts to be ready to defend against Russia by 2030 - Executive Summary of Report for EU Leaders.
 - 09/25 01:42 [FirstSquawk] WHITE HOUSE ASKS OPENAI, ANTHROPIC TO HOLD NEW MODELS FROM UK - POLITICO
@@ -152,5 +143,6 @@
 - 09/25 06:22 [FirstSquawk] IRANIAN PRESIDENT MASOUD PEZESHKIAN SAYS IRAN IS “OPEN” TO INSPECTIONS OF ITS NUCLEAR FACILITIES AND DENIES THAT TEHRAN IS SEEKING TO ASSASSINATE PRESIDENT DONALD TRUMP OR HIS FAMILY. - NBC NEWS
 - 09/25 06:25 [FirstSquawk] BOND VOLATILITY KEPT U.S. STOCKS UNDER PRESSURE AS BRENT CRUDE SETTLED NEAR $107 A BARREL, RAISING CONCERNS THAT PERSISTENT INFLATION COULD FORCE THE FEDERAL RESERVE TO KEEP RAISING RATES, WHILE 30-YEAR TREASURY YIELDS REACHED THEIR HIGHEST…
 - 09/25 06:25 [FirstSquawk] MONEY MARKETS ARE NOW FULLY PRICING THREE ADDITIONAL FED RATE HIKES OVER THE NEXT YEAR AS INVESTORS DEMAND HIGHER RETURNS ON LONG-TERM BONDS, WHILE TRUMP AND XI DISCUSSED AI COMPETITION AFTER THE U.S.-CHINA TRADE TRUCE WAS EXTENDED BY ABOUT…
-- 09/25 06:44 [financialjuice] Argentina's province of San Juan launches $600 million international bond below 10% rate - local media
+- 09/25 06:44 [financialjuice/FirstSquawk] Argentina's province of San Juan launches $600 million international bond below 10% rate - local media
 - 09/25 06:47 [FirstSquawk] MGM RESORTS EYES BID FOR BARRY DILLER’S PEOPLE INCORPORATED; PROPOSAL COULD COME WITHIN DAYS — WSJ
+- 09/25 07:12 [financialjuice] New Zealand Finance Minister announces short-term appointment of Rebecca Williams as internal member of Reserve Bank of New Zealand monetary policy committee
