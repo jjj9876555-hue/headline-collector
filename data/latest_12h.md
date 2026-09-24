@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-25 08:44 JST／対象: 09/24 20:44 〜 09/25 08:44 JST（時刻はすべて日本時間）
+生成: 2026-09-25 08:58 JST／対象: 09/24 20:58 〜 09/25 08:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 175 | 09/24 20:54 | 09/25 08:42 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 179 | 09/24 20:56 | 09/25 08:30 | 40分（06:04→06:44） |
+| FirstSquawk | 175 | 09/24 20:58 | 09/25 08:56 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 179 | 09/24 21:01 | 09/25 08:51 | 40分（06:04→06:44） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 419 行（統合前 447 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,8 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 20:54 [FirstSquawk] REPUBLICANS IN STATES LIKE FLORIDA, KANSAS, AND UTAH ARE NOW AVOIDING THE UNPOPULAR PRESIDENT.
-- 09/24 20:56 [financialjuice] Iran's foreign minister Araqchi meets with Ukrainian counterpart in New York - Mehr News Agency
 - 09/24 20:58 [FirstSquawk] US FINAL AUG. BUILDING PERMITS 1.403M VS PRELIM 1.394M
 - 09/24 21:00 [FirstSquawk] RUSSIAN ENVOY: NO TRILATERAL MEETINGS PLANNED IN NEW YORK
 - 09/24 21:01 [financialjuice] Morning Juice – US Session Prep (24th September)
@@ -443,3 +441,5 @@
 - 09/25 08:28 [financialjuice] Saudi Arabia issues warning over possible threat in Jazan
 - 09/25 08:30 [financialjuice] Saudi Arabia civil defence: threat over in Jazan
 - 09/25 08:42 [FirstSquawk] US ENVOY WITKOFF AND KUSHNER MET RUSSIA'S DMITRIEV TODAY - CNN
+- 09/25 08:51 [financialjuice] Oracle guarantees payouts to investors on New Mexico data center even if it fails to secure power before project launch - FT
+- 09/25 08:56 [FirstSquawk] JAPAN’S NIKKEI FUTURES FALL 0.1% IN EARLY TRADE; 10-YEAR JGB FUTURES DOWN 0.12 POINT

@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 08:44 JST／対象: 09/24 08:44 〜 09/25 08:44 JST（時刻はすべて日本時間）
+生成: 2026-09-25 08:58 JST／対象: 09/24 08:58 〜 09/25 08:58 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 87 | 09/24 21:26 | 09/25 07:52 | ⚠ 230分（04:02→07:52） |
-| FirstSquawk | 369 | 09/24 08:46 | 09/25 08:42 | ⚠ 46分（07:06→07:52） |
-| financialjuice | 261 | 09/24 08:56 | 09/25 08:30 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 363 | 09/24 09:02 | 09/25 08:56 | ⚠ 46分（07:06→07:52） |
+| financialjuice | 260 | 09/24 08:59 | 09/25 08:51 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 690 行（統合前 723 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 683 行（統合前 716 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 08:46 [FirstSquawk] MICROSOFT PRESIDENT BRAD SMITH SUPPORTS INDEPENDENT AI SAFETY EVALUATORS, SAYING AI SAFETY SHOULD BE BUILT THROUGH MULTIPLE LAYERS INVOLVING MODEL DEVELOPERS, SOFTWARE PROVIDERS AND POTENTIALLY GOVERNMENTS.
-- 09/24 08:46 [FirstSquawk] MICROSOFT PRESIDENT BRAD SMITH SAYS MICROSOFT WILL ADJUST ITS 2030 CLIMATE GOALS AS AI DATA CENTER POWER DEMAND RISES, WHILE CONFIRMING PLANS TO USE 200 MEGAWATTS OF COMPUTING CAPACITY AT ITS PLANNED UAE FACILITY AND INVEST AN ADDITIONAL $2…
-- 09/24 08:48 [FirstSquawk] JAPAN’S NIKKEI FUTURES RISE 1.41% IN EARLY TRADE; 10-YEAR JGB FUTURES FALL 0.26 POINT
-- 09/24 08:55 [FirstSquawk] TRUMP TOLD VENEZUELA'S DELCY RODRIGUEZ THAT THE COUNTRY ULTIMATELY NEEDS TO HOLD ELECTIONS, BUT DID NOT PRESS FOR A SPECIFIC DATE DURING THEIR FIRST MEETING ON THE SIDELINES OF THE UN GENERAL ASSEMBLY, TELLING HER 'YOU HAVE TO HAVE ELECTION…
-- 09/24 08:55 [FirstSquawk] SOME OFFICIALS BELIEVE 2028 MAY BE MORE REALISTIC, THOUGH A 2027 VOTE REMAINS POSSIBLE - AXIOS
-- 09/24 08:56 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS ON IRAN THAT 'THE EXTERNAL FLIGHTS FROM IRAN, PROBABLY MORE THAN 80 OR 90% OF THEM, GOT SHUT DOWN', ADDING 'I'M NOT SURE HOW THE IRANIAN REPRESENTATIVES AT THE UN ARE GOING TO GET HOME'
-- 09/24 08:56 [FirstSquawk] ZOHRAN MAMDANI ON IRELAND: SAYS SELF-DETERMINATION SHOULD EXTEND TO THE IRISH; “IT IS FOR THEM TO DECIDE” ON “26 PLUS 6”
-- 09/24 08:56 [financialjuice] Meta reveals portable AI gadget equipped with Muse
-- 09/24 08:57 [financialjuice] Meta: handheld AI gadget muse charm to be ready for holiday shipping in December
 - 09/24 08:59 [financialjuice] China's President Xi: With joint efforts, US visit will be productive - Xinhua
 - 09/24 08:59 [financialjuice] China's President Xi: looks forward to strengthening constructive China-US strategic stability relationship - Xinhua
 - 09/24 08:59 [financialjuice] China’s President Xi: historical rationale for peaceful coexistence between China and U.S. remains unchanged - Xinhua
@@ -714,3 +705,5 @@
 - 09/25 08:28 [financialjuice] Saudi Arabia issues warning over possible threat in Jazan
 - 09/25 08:30 [financialjuice] Saudi Arabia civil defence: threat over in Jazan
 - 09/25 08:42 [FirstSquawk] US ENVOY WITKOFF AND KUSHNER MET RUSSIA'S DMITRIEV TODAY - CNN
+- 09/25 08:51 [financialjuice] Oracle guarantees payouts to investors on New Mexico data center even if it fails to secure power before project launch - FT
+- 09/25 08:56 [FirstSquawk] JAPAN’S NIKKEI FUTURES FALL 0.1% IN EARLY TRADE; 10-YEAR JGB FUTURES DOWN 0.12 POINT
