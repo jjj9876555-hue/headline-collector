@@ -7,26 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 20:51 JST／対象: 09/24 14:51 〜 09/24 20:51 JST（時刻はすべて日本時間）
+生成: 2026-09-24 21:04 JST／対象: 09/24 15:04 〜 09/24 21:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 91 | 09/24 14:59 | 09/24 20:43 | 22分（18:38→19:01） |
-| financialjuice | 35 | 09/24 15:45 | 09/24 20:25 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 91 | 09/24 15:14 | 09/24 21:00 | 22分（18:38→19:01） |
+| financialjuice | 37 | 09/24 15:45 | 09/24 21:01 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 121 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 123 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 14:59 [FirstSquawk] JPMorgan lowers McDonald’s target price to $260 from $280
-- 09/24 15:02 [FirstSquawk] U.S. stock futures weaken as S&P 500 futures fall 0.37%, Nasdaq futures 0.45%
-- 09/24 15:03 [FirstSquawk] NORWAY CREDIT INDICATOR GROWTH (Y/Y) AUG: 4.5% (PREV 4.3%)
 - 09/24 15:14 [FirstSquawk] Russia says its forces struck a tanker in the Black Sea: IFX
 - 09/24 15:18 [FirstSquawk] Polish Army: Poland again launches preventive air operations linked to Russian strikes on Ukraine
 - 09/24 15:20 [FirstSquawk] German FM Wadephul urges immediate ceasefire in Ukraine, starting in Black Sea to secure grain flows
@@ -145,3 +142,8 @@
 - 09/24 20:34 [FirstSquawk] OVER £30BN IN UK DEFENCE CONTRACTS HAVE BEEN GIVEN TO FOREIGN SUPPLIERS IN THE LAST FIVE YEARS, YET THEY ARE RECORDED AS UK INVESTMENT.
 - 09/24 20:41 [FirstSquawk] UKRAINE DELEGATION IS ON ITS WAY BACK FROM US - ZELENSKYY AIDE
 - 09/24 20:43 [FirstSquawk] USD/JPY EXTENDS GAINS A FIFTH DAY, RISES 0.4% TO 158.88
+- 09/24 20:54 [FirstSquawk] REPUBLICANS IN STATES LIKE FLORIDA, KANSAS, AND UTAH ARE NOW AVOIDING THE UNPOPULAR PRESIDENT.
+- 09/24 20:56 [financialjuice] Iran's foreign minister Araqchi meets with Ukrainian counterpart in New York - Mehr News Agency
+- 09/24 20:58 [FirstSquawk] US FINAL AUG. BUILDING PERMITS 1.403M VS PRELIM 1.394M
+- 09/24 21:00 [FirstSquawk] RUSSIAN ENVOY: NO TRILATERAL MEETINGS PLANNED IN NEW YORK
+- 09/24 21:01 [financialjuice] Morning Juice – US Session Prep (24th September)

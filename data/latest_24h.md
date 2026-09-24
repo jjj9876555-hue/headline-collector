@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 20:51 JST／対象: 09/23 20:51 〜 09/24 20:51 JST（時刻はすべて日本時間）
+生成: 2026-09-24 21:04 JST／対象: 09/23 21:04 〜 09/24 21:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 09/23 21:06 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 341 | 09/23 20:53 | 09/24 20:43 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 275 | 09/23 20:58 | 09/24 20:25 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 342 | 09/23 21:05 | 09/24 21:00 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 275 | 09/23 21:10 | 09/24 21:01 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 664 行（統合前 687 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 665 行（統合前 688 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 20:53 [FirstSquawk] ALL CREW MEMBERS OF THE ATTACKED SHIP IN THE STRAIT OF HORMUZ WERE EVACUATED, WITH TWO INJURIES REPORTED.
-- 09/23 20:55 [FirstSquawk] RYANAIR CEO O'LEARY: BY FY28 I EXPECT WE WILL GROW TO 220 MILLION PASSENGERS
-- 09/23 20:58 [financialjuice] Officials in the Trump administration have backed off an effort to replace Deputy Secretary of Defense Stephen Feinberg - Sources
-- 09/23 21:00 [financialjuice] Secured overnight financing rate: 3.87% September 22nd vs 3.85% September 21st
 - 09/23 21:05 [FirstSquawk] RAIFFEISEN BANK INTERNATIONAL TO LAUNCH CRYPTO TRADING ACROSS 11 EUROPEAN MARKETS Raiffeisen Bank International, one of Austria’s largest banking groups, is reportedly preparing to expand cryptocurrency trading services across 11 European m…
 - 09/23 21:06 [DeItaone] RYANAIR CEO O'LEARY: IF OIL PRICES REMAIN THIS HIGH INTO SUMMER OF 2027, I EXPECT AIRFARES TO RISE BY 10, 15, 20%
 - 09/23 21:10 [financialjuice] Morning Juice - US Session Prep (23rd September)
@@ -688,3 +684,8 @@
 - 09/24 20:34 [FirstSquawk] OVER £30BN IN UK DEFENCE CONTRACTS HAVE BEEN GIVEN TO FOREIGN SUPPLIERS IN THE LAST FIVE YEARS, YET THEY ARE RECORDED AS UK INVESTMENT.
 - 09/24 20:41 [FirstSquawk] UKRAINE DELEGATION IS ON ITS WAY BACK FROM US - ZELENSKYY AIDE
 - 09/24 20:43 [FirstSquawk] USD/JPY EXTENDS GAINS A FIFTH DAY, RISES 0.4% TO 158.88
+- 09/24 20:54 [FirstSquawk] REPUBLICANS IN STATES LIKE FLORIDA, KANSAS, AND UTAH ARE NOW AVOIDING THE UNPOPULAR PRESIDENT.
+- 09/24 20:56 [financialjuice] Iran's foreign minister Araqchi meets with Ukrainian counterpart in New York - Mehr News Agency
+- 09/24 20:58 [FirstSquawk] US FINAL AUG. BUILDING PERMITS 1.403M VS PRELIM 1.394M
+- 09/24 21:00 [FirstSquawk] RUSSIAN ENVOY: NO TRILATERAL MEETINGS PLANNED IN NEW YORK
+- 09/24 21:01 [financialjuice] Morning Juice – US Session Prep (24th September)

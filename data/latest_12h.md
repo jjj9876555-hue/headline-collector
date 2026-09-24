@@ -7,40 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 20:51 JST／対象: 09/24 08:51 〜 09/24 20:51 JST（時刻はすべて日本時間）
+生成: 2026-09-24 21:04 JST／対象: 09/24 09:04 〜 09/24 21:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 191 | 09/24 08:55 | 09/24 20:43 | 25分（12:09→12:34） |
-| financialjuice | 82 | 09/24 08:56 | 09/24 20:25 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 186 | 09/24 09:09 | 09/24 21:00 | 25分（12:09→12:34） |
+| financialjuice | 75 | 09/24 09:14 | 09/24 21:01 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 268 行（統合前 273 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 256 行（統合前 261 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 08:55 [FirstSquawk] TRUMP TOLD VENEZUELA'S DELCY RODRIGUEZ THAT THE COUNTRY ULTIMATELY NEEDS TO HOLD ELECTIONS, BUT DID NOT PRESS FOR A SPECIFIC DATE DURING THEIR FIRST MEETING ON THE SIDELINES OF THE UN GENERAL ASSEMBLY, TELLING HER 'YOU HAVE TO HAVE ELECTION…
-- 09/24 08:55 [FirstSquawk] SOME OFFICIALS BELIEVE 2028 MAY BE MORE REALISTIC, THOUGH A 2027 VOTE REMAINS POSSIBLE - AXIOS
-- 09/24 08:56 [FirstSquawk] U.S. TREASURY SECRETARY BESSENT SAYS ON IRAN THAT 'THE EXTERNAL FLIGHTS FROM IRAN, PROBABLY MORE THAN 80 OR 90% OF THEM, GOT SHUT DOWN', ADDING 'I'M NOT SURE HOW THE IRANIAN REPRESENTATIVES AT THE UN ARE GOING TO GET HOME'
-- 09/24 08:56 [FirstSquawk] ZOHRAN MAMDANI ON IRELAND: SAYS SELF-DETERMINATION SHOULD EXTEND TO THE IRISH; “IT IS FOR THEM TO DECIDE” ON “26 PLUS 6”
-- 09/24 08:56 [financialjuice] Meta reveals portable AI gadget equipped with Muse
-- 09/24 08:57 [financialjuice] Meta: handheld AI gadget muse charm to be ready for holiday shipping in December
-- 09/24 08:59 [financialjuice] China's President Xi: With joint efforts, US visit will be productive - Xinhua
-- 09/24 08:59 [financialjuice] China's President Xi: looks forward to strengthening constructive China-US strategic stability relationship - Xinhua
-- 09/24 08:59 [financialjuice] China’s President Xi: historical rationale for peaceful coexistence between China and U.S. remains unchanged - Xinhua
-- 09/24 08:59 [financialjuice] China's President Xi: confident China, U.S. can find right path to coexist in new era - Xinhua
-- 09/24 08:59 [financialjuice] China's President Xi: China, U.S. must be allies, not adversaries - Xinhua
-- 09/24 09:00 [financialjuice] China’s President Xi: china, U.S. should collaborate to boost stable relationship with cooperation, moderate competition, manageable differences, peace commitments -Xinhua
-- 09/24 09:00 [financialjuice] China’s President Xi: anticipates in-depth talks with Trump - Xinhua
-- 09/24 09:02 [FirstSquawk] CHINA'S XI SAYS THAT WITH JOINT EFFORTS, HIS U.S. VISIT IS 'SURE TO BE FRUITFUL', ADDING THAT HE LOOKS FORWARD TO ENRICHING A CONSTRUCTIVE CHINA-U.S. RELATIONSHIP OF STRATEGIC STABILITY AND TO IN-DEPTH EXCHANGES WITH TRUMP - XINHUA
-- 09/24 09:02 [FirstSquawk] CHINA'S XI SAYS 'THE HISTORICAL LOGIC OF PEACEFUL COEXISTENCE BETWEEN CHINA AND THE U.S. HAS NOT CHANGED' AND THAT HE IS CONFIDENT THE TWO CAN 'FIND THE RIGHT WAY TO GET ALONG IN THE NEW ERA', SAYING THEY 'SHOULD BE PARTNERS, NOT RIVALS'.
-- 09/24 09:03 [FirstSquawk] CHINA'S XI SAYS CHINA AND THE U.S. SHOULD 'WORK IN THE SAME DIRECTION' TO PROMOTE A STABLE RELATIONSHIP 'FEATURING COOPERATION AS THE MAINSTAY, MODERATE COMPETITION, MANAGEABLE DIFFERENCES' AND 'PROMISES OF PEACE' - XINHUA
-- 09/24 09:04 [FirstSquawk] 30-year Japanese government bond yield jumps 5.5 bps to 4.125%
 - 09/24 09:09 [FirstSquawk] Australia’s ASX 200 slides 1.3% to 8,655.40 points at open
 - 09/24 09:14 [financialjuice] China PBOC likely to set yuan midpoint at 6.7184 per dollar: Estimate
 - 09/24 09:18 [FirstSquawk] EIGHT U.S. NAVY SAILORS ASSIGNED TO THE USS ABRAHAM LINCOLN CARRIER STRIKE GROUP ATTEMPTED SUICIDE DURING A DEPLOYMENT THAT INCLUDED COMBAT OPERATIONS AGAINST IRAN, ACCORDING TO ACTING NAVY SECRETARY HUNG CAO, WITH THE FIGURE COVERING SAILO…
@@ -292,3 +275,8 @@
 - 09/24 20:34 [FirstSquawk] OVER £30BN IN UK DEFENCE CONTRACTS HAVE BEEN GIVEN TO FOREIGN SUPPLIERS IN THE LAST FIVE YEARS, YET THEY ARE RECORDED AS UK INVESTMENT.
 - 09/24 20:41 [FirstSquawk] UKRAINE DELEGATION IS ON ITS WAY BACK FROM US - ZELENSKYY AIDE
 - 09/24 20:43 [FirstSquawk] USD/JPY EXTENDS GAINS A FIFTH DAY, RISES 0.4% TO 158.88
+- 09/24 20:54 [FirstSquawk] REPUBLICANS IN STATES LIKE FLORIDA, KANSAS, AND UTAH ARE NOW AVOIDING THE UNPOPULAR PRESIDENT.
+- 09/24 20:56 [financialjuice] Iran's foreign minister Araqchi meets with Ukrainian counterpart in New York - Mehr News Agency
+- 09/24 20:58 [FirstSquawk] US FINAL AUG. BUILDING PERMITS 1.403M VS PRELIM 1.394M
+- 09/24 21:00 [FirstSquawk] RUSSIAN ENVOY: NO TRILATERAL MEETINGS PLANNED IN NEW YORK
+- 09/24 21:01 [financialjuice] Morning Juice – US Session Prep (24th September)
