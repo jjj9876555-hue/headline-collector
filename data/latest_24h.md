@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 16:51 JST／対象: 09/23 16:51 〜 09/24 16:51 JST（時刻はすべて日本時間）
+生成: 2026-09-24 17:04 JST／対象: 09/23 17:04 〜 09/24 17:04 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 311 | 09/23 17:00 | 09/24 16:34 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 270 | 09/23 17:00 | 09/24 15:47 | ⚠ 71分（18:33→19:45） |
+| FirstSquawk | 316 | 09/23 17:31 | 09/24 17:02 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 261 | 09/23 17:30 | 09/24 15:47 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 644 行（統合前 666 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 640 行（統合前 662 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 17:00 [financialjuice] EUROZONE SERVICES PMI FLASH ACTUAL 53 (FORECAST 51.4, PREVIOUS 51.6) $MACRO
-- 09/23 17:00 [financialjuice] EUROZONE COMPOSITE PMI FLASH ACTUAL 53.1 (FORECAST 51.7, PREVIOUS 52.0) $MACRO
-- 09/23 17:00 [financialjuice] ❗ EUROZONE MANUFACTURING PMI FLASH ACTUAL 52.7 (FORECAST 52.6, PREVIOUS 52.7) $MACRO
-- 09/23 17:00 [FirstSquawk] Eurozone S&P Global Manufacturing PMI Sep P: 52.7 (est 52.6; prev 52.7) - Services PMI: 53.0 (est 51.4; prev 51.6) - Composite PMI: 53.1 (est 51.7; prev 52.0)
-- 09/23 17:02 [financialjuice] OECD forecasts US 2026 growth of 2.2% (vs 2.0% in june), 2.1% in 2027 (vs 1.8%).
-- 09/23 17:02 [financialjuice] OECD forecasts world 2026 growth of 2.9% (vs 2.8% in june), 3.0% in 2027 (vs 3.1%).
-- 09/23 17:02 [financialjuice] OECD forecasts china 2026 growth of 4.5% (unchanged), 4.2% in 2027 (vs 4.3%).
-- 09/23 17:02 [financialjuice] OECD forecasts Euro Area 2026 growth of 1.0% (vs 0.8% in June), 1.0% in 2027 (vs 1.2%).
-- 09/23 17:03 [financialjuice] OECD forecasts Japan 2026 growth of 0.8% (vs 0.6% in June), 0.7% in 2027 (vs 0.8%).
-- 09/23 17:03 [financialjuice] OECD forecasts UK 2026 growth of 1.1% (vs 0.9% in June), 1.0% in 2027 (vs 1.1%).
 - 09/23 17:30 [financialjuice] ❗ UK MANUFACTURING PMI FLASH ACTUAL 52 (FORECAST 51.5, PREVIOUS 51.7) $MACRO
 - 09/23 17:30 [financialjuice] ‼ BREAKING: UK SERVICES PMI FLASH ACTUAL 51.7 (FORECAST 52, PREVIOUS 52.5) $MACRO
 - 09/23 17:30 [financialjuice] ❗ UK COMPOSITE PMI FLASH ACTUAL 51.7 (FORECAST 52, PREVIOUS 52.5) $MACRO
@@ -668,3 +658,9 @@
 - 09/24 16:32 [FirstSquawk] SNB: DROPS `INCREASED WILLINGNESS' WORDING FROM FX STATEMENT
 - 09/24 16:34 [FirstSquawk] SWEDISH CENTRAL BANK SAYS ASSESSES THAT POLICY RATE SHOULD BE RAISED MORE GOING FORWARD THAN PROJECTED IN JUNE FORECAST, FOR INFLATION TO STABILISE AROUND 2 PER CENT
 - 09/24 16:34 [FirstSquawk] SWEDISH CENTRAL BANK SAYS IF OUTLOOK FOR INFLATION AND ECONOMIC ACTIVITY REMAINS UNCHANGED, IT IS EXPECTED THAT INCREASES TO POLICY RATE WILL BEGIN THIS YEAR
+- 09/24 16:52 [FirstSquawk] US DOLLAR HITS HIGHEST SINCE MAY 2025 AGAINST SWISS FRANC AT 0.8272, UP 0.24 PCT
+- 09/24 17:01 [FirstSquawk] LOMBARDELLI: POLICY IS INCREASINGLY LIKELY TO NEED TO TIGHTEN IF ELEVATED ENERGY PRICES PERSIST, ABSENT CLEAR EVIDENCE OF DISINFLATION OR WEAKER ACTIVITY
+- 09/24 17:01 [FirstSquawk] LOMBARDELLI: WAGE GROWTH REMAINS TOO HIGH TO BE CONSISTENT WITH INFLATION TARGET
+- 09/24 17:01 [FirstSquawk] LOMBARDELLI: I'M NO MEANS SUGGESTING THAT MONETARY POLICY SHOULD RESPOND MECHANICALLY TO MOVEMENTS IN ENERGY PRICES
+- 09/24 17:02 [FirstSquawk] LOMBARDELLI: KEY ISSUE IS NOT THE SPOT PRICE OF ENERGY ITSELF BUT THE INTERACTION OF THE UNDERLYING ECONOMY, HIGHER ENERGY PRICES, AND THE NATURE OF THEIR TRANSMISSION
+- 09/24 17:02 [FirstSquawk] LOMBARDELLI: THAT, ULTIMATELY, IS WHAT WILL DETERMINE WHETHER BANK RATE NEEDS TO RISE
