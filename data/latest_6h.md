@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 22:03 JST／対象: 09/24 16:03 〜 09/24 22:03 JST（時刻はすべて日本時間）
+生成: 2026-09-24 22:22 JST／対象: 09/24 16:22 〜 09/24 22:22 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 19 | 09/24 21:26 | 09/24 22:02 | 7分（21:54→22:02） |
-| FirstSquawk | 103 | 09/24 16:03 | 09/24 22:02 | 22分（18:38→19:01） |
-| financialjuice | 67 | 09/24 17:36 | 09/24 22:02 | 30分（20:25→20:56） |
+| DeItaone | 21 | 09/24 21:26 | 09/24 22:06 | 7分（21:54→22:02） |
+| FirstSquawk | 106 | 09/24 16:30 | 09/24 22:22 | 22分（18:38→19:01） |
+| financialjuice | 76 | 09/24 17:36 | 09/24 22:09 | 30分（20:25→20:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 180 行（統合前 189 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 191 行（統合前 203 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 16:03 [FirstSquawk] FRANCE'S CAC 40 DOWN 0.43%; SPAIN'S IBEX DOWN 0.59%; BRITAIN'S FTSE 100 DOWN 0.22%
-- 09/24 16:14 [FirstSquawk] CHINA FOREIGN MINISTER SAYS ON IRAN PRESIDENT REMARKS ON STRAIT OF HORMUZ: ALL PARTIES SHOULD LOOK TO PEACEFUL OPTION, RESOLVE DISPUTES THROUGH DIALOGUE
-- 09/24 16:18 [FirstSquawk] CHINA FOREIGN MINISTRY SAYS CHINA OPPOSES AND RESOLUTELY CRACKS DOWN ON HACKING ATTACKS IN ACCORDING WITH LAW
-- 09/24 16:18 [FirstSquawk] CHINA FOREIGN MINISTRY SAYS CHINESE SIDE URGES THE RELEVANT NEW ZEALAND AGENCIES TO STOP 'SPREADING LIES AND CREATING CONTRADICTIONS'
 - 09/24 16:30 [FirstSquawk] SWISS NATIONAL BANK KEEPS INTEREST RATE UNCHANGED AT 0.00 PCT
 - 09/24 16:30 [FirstSquawk] SWEDEN'S RIKSBANK LEAVES POLICY RATE AT 1.75%; EST 1.750%
 - 09/24 16:32 [FirstSquawk] SNB: DROPS `INCREASED WILLINGNESS' WORDING FROM FX STATEMENT
@@ -201,6 +197,21 @@
 - 09/24 22:01 [FirstSquawk] AMAZON TO SPEND ~$100M ON ROBOTICS-MANUFACTURING FACILITY: WSJ
 - 09/24 22:01 [FirstSquawk] AMAZON TO OPEN OVER $100M ROBOTICS PLANT IN INDIANA: WSJ
 - 09/24 22:01 [FirstSquawk] POLISH AIR FORCE ENDS OPERATIONS RELATED TO RUSSIAN STRIKES ON UKRAINE
-- 09/24 22:02 [DeItaone] GOOGLE, OPENAI AND ANTHROPIC AI SAFETY GROUP TAKES SHAPE- THE INFORMATION
+- 09/24 22:02 [DeItaone/financialjuice] GOOGLE, OPENAI AND ANTHROPIC AI SAFETY GROUP TAKES SHAPE- THE INFORMATION
 - 09/24 22:02 [financialjuice] Google, OpenAI, and Anthropic's AI Safety Group takes shape - The Information. $GOOGL
 - 09/24 22:02 [FirstSquawk] GOOGLE, OPENAI AND ANTHROPIC AI SAFETY GROUP TAKES SHAPE – INFORMATION
+- 09/24 22:03 [DeItaone] A NEW GOOGLE, OPENAI, ANTHROPIC AI SAFETY STANDARDS BODY HAS A TENTATIVE NAME: STANDARDS AUTHORITY FOR FRONTIER AI- THE INFORMATION GOOGLE, OPENAI AND ANTHROPIC AI SAFETY GROUP PLANS TO OPERATE INDEPENDENTLY, FILLING A GOVERNMENT REGULATORY…
+- 09/24 22:04 [FirstSquawk] PARAMOUNT SKYDANCE CORP: LAUNCHES SYNDICATION FOR $7.50 BLN INCREMENTAL TERM B FACILITY
+- 09/24 22:06 [DeItaone] U.S. WILL CONTINUE TO PROVIDE CRITICAL BUT MORE LIMITED CAPABILITIES TO NATO, GRYNKEWICH SAYS
+- 09/24 22:07 [financialjuice] NATO Commander Grynkewich: US will continue to provide critical but more limited capabilities to NATO.
+- 09/24 22:07 [financialjuice] NATO Supreme Allied Commander Grynkewich: US Government has stated ironclad commitment to NATO's Article 5.
+- 09/24 22:08 [FirstSquawk/financialjuice] RUSSIA RAISES 2026 OIL EXPORT OUTLOOK TO 244.7M TONS - IFX
+- 09/24 22:08 [financialjuice] Next Thursday, Google is sending experimental satellite into orbit that will have enough computing power to answer simple AI queries from space - NYT. $GOOGL
+- 09/24 22:08 [financialjuice/FirstSquawk] NATO's Grynkewich: There is no predetermined outcome to the US' review of its troop deployments in Europe
+- 09/24 22:09 [financialjuice] NATO Commander Grynkewich: NATO is stepping up information and intelligence sharing in response to hybrid attacks.
+- 09/24 22:09 [financialjuice] Russian Economy Ministry sees Urals oil price at $61.2/bbl in 2026 (previous forecast: $59/bbl).
+- 09/24 22:09 [financialjuice] Fed's Barkin: Capacity utilization good, but not overheated
+- 09/24 22:12 [FirstSquawk] NATO'S GRYNKEWICH SAYS DANISH INTELLIGENCE ASSESSMENT OF RUSSIA THREATS ARE 'PRETTY BALANCED'
+- 09/24 22:19 [FirstSquawk] INDIAN OIL MINISTER SAYS THERE ARE NO PLANS TO CUT FUEL PRODUCT EXPORTS
+- 09/24 22:22 [FirstSquawk] THREE TANKERS LINKED TO IRAN, HOLDING ALMOST SIX MILLION BARRELS OF IRANIAN CRUDE, WERE CAPTURED BY THE UNITED STATES IN THE ATLANTIC, ACCORDING TO AFP AND VESSEL-TRACKING DATA.
+- 09/24 22:22 [FirstSquawk] TANKERTRACKERS REPORTED A CARGO WORTH ALMOST $600 MILLION IS ON ITS WAY TO THE UNITED STATES. THE MAJESTIC X AND TIFANI, TWO VESSELS, ARE LOCATED OFF BRAZIL'S NORTHERN COAST, AS PER KPLER DATA. BOTH VESSELS WERE CAPTURED BY THE US IN APRIL …
