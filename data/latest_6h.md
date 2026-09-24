@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 20:34 JST／対象: 09/24 14:34 〜 09/24 20:34 JST（時刻はすべて日本時間）
+生成: 2026-09-24 20:51 JST／対象: 09/24 14:51 〜 09/24 20:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 92 | 09/24 14:35 | 09/24 20:31 | 22分（18:38→19:01） |
-| financialjuice | 38 | 09/24 14:43 | 09/24 20:25 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 91 | 09/24 14:59 | 09/24 20:43 | 22分（18:38→19:01） |
+| financialjuice | 35 | 09/24 15:45 | 09/24 20:25 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 125 行（統合前 130 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 121 行（統合前 126 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 14:35 [FirstSquawk] Mercedes plans €800 million reduction in German labour costs, WiWo reports
-- 09/24 14:37 [FirstSquawk] L’Oréal launches €650M 7-year bond paying a 4.00% fixed coupon
-- 09/24 14:42 [FirstSquawk] Saudi Arabia’s merchandise exports decline 17.2% YoY in July, oil exports down 12.8%
-- 09/24 14:43 [financialjuice] ECB's Kocher: Must prevent too high inflation, becoming entrenched.
-- 09/24 14:43 [FirstSquawk] Saudi merchandise exports plunge 17.2% in July 2026, govt data shows
-- 09/24 14:45 [financialjuice] ECB's Kocher: Eurozone economy remains fragile
-- 09/24 14:46 [financialjuice] ECB's Kocher: Signs of somewhat more Eurozone momentum since summer
 - 09/24 14:59 [FirstSquawk] JPMorgan lowers McDonald’s target price to $260 from $280
 - 09/24 15:02 [FirstSquawk] U.S. stock futures weaken as S&P 500 futures fall 0.37%, Nasdaq futures 0.45%
 - 09/24 15:03 [FirstSquawk] NORWAY CREDIT INDICATOR GROWTH (Y/Y) AUG: 4.5% (PREV 4.3%)
@@ -149,3 +142,6 @@
 - 09/24 20:25 [financialjuice/FirstSquawk] Trump on Truth Social: A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also.
 - 09/24 20:29 [FirstSquawk] US TRUMP SAYS US, CHINA WANT TO LEAVE AI 'EXACTLY WHERE IT IS'
 - 09/24 20:31 [FirstSquawk] QUALCOMM RENEWS GLOBAL PATENT LICENSE PACT WITH APPLE
+- 09/24 20:34 [FirstSquawk] OVER £30BN IN UK DEFENCE CONTRACTS HAVE BEEN GIVEN TO FOREIGN SUPPLIERS IN THE LAST FIVE YEARS, YET THEY ARE RECORDED AS UK INVESTMENT.
+- 09/24 20:41 [FirstSquawk] UKRAINE DELEGATION IS ON ITS WAY BACK FROM US - ZELENSKYY AIDE
+- 09/24 20:43 [FirstSquawk] USD/JPY EXTENDS GAINS A FIFTH DAY, RISES 0.4% TO 158.88

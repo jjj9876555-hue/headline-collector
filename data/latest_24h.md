@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 20:34 JST／対象: 09/23 20:34 〜 09/24 20:34 JST（時刻はすべて日本時間）
+生成: 2026-09-24 20:51 JST／対象: 09/23 20:51 〜 09/24 20:51 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 68 | 09/23 21:06 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 343 | 09/23 20:38 | 09/24 20:31 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 276 | 09/23 20:49 | 09/24 20:25 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 341 | 09/23 20:53 | 09/24 20:43 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 275 | 09/23 20:58 | 09/24 20:25 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 667 行（統合前 690 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 664 行（統合前 687 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 20:38 [FirstSquawk] US TREASURY YIELDS EXTEND CLIMB, 2-YEAR TO YEAR'S HIGH 4.79%
-- 09/23 20:43 [FirstSquawk] RYANAIR CEO O'LEARY: I HOPE JET FUEL PRICES WILL RISE FASTER NEXT YEAR BECAUSE IT WILL CONSOLIDATE AVIATION IN EUROPE MORE QUICKLY
-- 09/23 20:48 [FirstSquawk] UKMTO SAYS IT RECEIVED A REPORT OF AN INCIDENT WITHIN THE STRAIT OF HORMUZ
-- 09/23 20:48 [FirstSquawk] UBS SAYS PROPOSED 90% PLAN IS EXCESSIVE, "NOT A COMPROMISE"
-- 09/23 20:49 [financialjuice] UKMTO gets a report of an incident in the Strait of Hormuz, a company security officer of a cargo vessel reports being struck by an unknown projectile
-- 09/23 20:49 [FirstSquawk] UKMTO SAYS VESSEL IS ON FIRE AND ADRIFT
 - 09/23 20:53 [FirstSquawk] ALL CREW MEMBERS OF THE ATTACKED SHIP IN THE STRAIT OF HORMUZ WERE EVACUATED, WITH TWO INJURIES REPORTED.
 - 09/23 20:55 [FirstSquawk] RYANAIR CEO O'LEARY: BY FY28 I EXPECT WE WILL GROW TO 220 MILLION PASSENGERS
 - 09/23 20:58 [financialjuice] Officials in the Trump administration have backed off an effort to replace Deputy Secretary of Defense Stephen Feinberg - Sources
@@ -691,3 +685,6 @@
 - 09/24 20:25 [financialjuice/FirstSquawk] Trump on Truth Social: A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also.
 - 09/24 20:29 [FirstSquawk] US TRUMP SAYS US, CHINA WANT TO LEAVE AI 'EXACTLY WHERE IT IS'
 - 09/24 20:31 [FirstSquawk] QUALCOMM RENEWS GLOBAL PATENT LICENSE PACT WITH APPLE
+- 09/24 20:34 [FirstSquawk] OVER £30BN IN UK DEFENCE CONTRACTS HAVE BEEN GIVEN TO FOREIGN SUPPLIERS IN THE LAST FIVE YEARS, YET THEY ARE RECORDED AS UK INVESTMENT.
+- 09/24 20:41 [FirstSquawk] UKRAINE DELEGATION IS ON ITS WAY BACK FROM US - ZELENSKYY AIDE
+- 09/24 20:43 [FirstSquawk] USD/JPY EXTENDS GAINS A FIFTH DAY, RISES 0.4% TO 158.88
