@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 17:27 JST／対象: 09/24 11:27 〜 09/24 17:27 JST（時刻はすべて日本時間）
+生成: 2026-09-24 17:45 JST／対象: 09/24 11:45 〜 09/24 17:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 76 | 09/24 11:27 | 09/24 17:24 | 25分（12:09→12:34） |
-| financialjuice | 20 | 09/24 11:33 | 09/24 15:47 | ⚠ 68分（11:33→12:41） |
+| FirstSquawk | 75 | 09/24 11:47 | 09/24 17:43 | 25分（12:09→12:34） |
+| financialjuice | 24 | 09/24 12:41 | 09/24 17:43 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 96 行（統合前 96 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 99 行（統合前 99 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 11:27 [FirstSquawk] Asian currencies come under pressure as Treasury yields climb sharply - WSJ
-- 09/24 11:32 [FirstSquawk] DHL Express, Singapore Airlines extend Boeing 777 freighter partnership
-- 09/24 11:32 [FirstSquawk] Singapore Airlines to operate 5 Boeing 777 freighters at Changi for DHL Express
-- 09/24 11:32 [FirstSquawk] Singapore Airlines to handle aircraft maintenance
-- 09/24 11:33 [financialjuice] Dollar/yen declines 0.33% to 157.80
-- 09/24 11:33 [FirstSquawk] USD/JPY drops 0.33% to 157.80
-- 09/24 11:37 [FirstSquawk] Fay regains tropical storm status, NHC says
-- 09/24 11:43 [FirstSquawk] South Korea’s Lee vows to double chip production in 5 years, strengthen AI supply chains - YONHAP
 - 09/24 11:47 [FirstSquawk] Honda nearing final preparations for new hybrid vehicle plant in Ohio, Nikkei reports
 - 09/24 11:47 [FirstSquawk] Honda plans nearly $2.5 billion hybrid vehicle plant in U.S.
 - 09/24 11:54 [FirstSquawk] AUD/JPY slips after mixed Australian jobs data
@@ -120,3 +112,14 @@
 - 09/24 17:06 [FirstSquawk] NORGES BANK SEES 2026 CPI-ATE OF 3% SAW 3.2% IN JUNE || SEES 2027 CPI-ATE OF 2.7%; SAW 2.8% IN JUNE NOW || SEES KEY RATE AT 4.51% IN Q4 2026 || NOW SEES KEY RATE AT 4.57% IN Q1 2027 || NOW SEES KEY RATE AT 4.60% IN Q2 2027
 - 09/24 17:14 [FirstSquawk] BRENT OIL FUTURES CLIMB 2.2 PCT TO SESSION HIGH OF $105.38/BBL
 - 09/24 17:24 [FirstSquawk] WILLIAMS: TIME FOR EXPLICIT, VERY DIRECT FORWARD GUIDANCE IS OVER
+- 09/24 17:28 [FirstSquawk] U.S. 30-YEAR TREASURY YIELD RISES TO HIGHEST SINCE 2004
+- 09/24 17:31 [FirstSquawk] WILLIAMS: I SEE A TUG OF WAR BETWEEN HIGHER TREND GROWTH PUSHING UP U.S. R-START AND DEMOGRAPHICS PULLING IT DOWN
+- 09/24 17:32 [FirstSquawk] WILLIAMS: EXPECTATIONS OF REAL RATES ARE A BIG PART OF HIGHER BOND YIELDS
+- 09/24 17:34 [FirstSquawk] IRAN OFFICIAL SAYS CONFLICT WITH US COULD EXPAND FURTHER - FARS
+- 09/24 17:35 [FirstSquawk] IRAN'S SAFAVI SAYS NEXT PHASE COULD REACH INDIAN OCEAN - FARS
+- 09/24 17:36 [financialjuice] Fed's Williams: None of us know if higher yields will last.
+- 09/24 17:36 [financialjuice] Fed's Williams: I see a tug of war between higher trend growth pushing up US r-star and demographics pulling it down.
+- 09/24 17:36 [financialjuice] Iran Official: Conflict with US could expand further - Fars
+- 09/24 17:37 [financialjuice] Supreme Leader's Adviser Safavi:: Conflict with US could expand further - Fars
+- 09/24 17:43 [financialjuice] Fed's Williams: AI gains could boost us productivity like in 1996-2005, other gains reflect stronger business formation.
+- 09/24 17:43 [FirstSquawk] Iran Warns War Could Expand to Indian Ocean Iranian adviser to Supreme Leader Ali Khamenei, Yahya Rahim Safavi, warned that any renewed US or Israeli attacks on Iranian national centers or interests could lead to a broader expansion of the …

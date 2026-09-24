@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 17:27 JST／対象: 09/24 05:27 〜 09/24 17:27 JST（時刻はすべて日本時間）
+生成: 2026-09-24 17:45 JST／対象: 09/24 05:45 〜 09/24 17:45 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 1 | 09/24 05:51 | 09/24 05:51 | - |
-| FirstSquawk | 144 | 09/24 06:44 | 09/24 17:24 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 94 | 09/24 05:31 | 09/24 15:47 | ⚠ 68分（11:33→12:41） |
+| FirstSquawk | 150 | 09/24 06:44 | 09/24 17:43 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 95 | 09/24 06:22 | 09/24 17:43 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 237 行（統合前 239 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 244 行（統合前 246 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 05:31 [financialjuice] UK's Healey: I spoke with US Treasury Secretary Bessent today - Post on X.
-- 09/24 05:32 [financialjuice] UK's Chancellor Healey spoke to Bessent on stepping up pressure on Iran and how to work together to drive growth in both nations.
-- 09/24 05:33 [financialjuice] OpenAI Agents accessed Australia's Medicare statistics - News24.
-- 09/24 05:39 [financialjuice] Australia's Prime Minister Albanese: I am aware of AI incidents happening elsewhere.
 - 09/24 05:51 [DeItaone] AUSTRALIA PM ALBANESE: INCIDENT INVOLVED OPENAI AGENT GAINING UNAUTHORIZED ACCESS INTO THE PUBLIC-FACING MEDICARE STATISTICS REPORTING SERVICE PORTAL
 - 09/24 06:22 [financialjuice] North Korea: conducted test launch of upgraded guided rocket artillery shells on Sept. 22 - KCNA
 - 09/24 06:32 [financialjuice] OpenAI: AI agent improperly accessed Australian government files; no evidence patient records were breached
@@ -261,3 +257,14 @@
 - 09/24 17:06 [FirstSquawk] NORGES BANK SEES 2026 CPI-ATE OF 3% SAW 3.2% IN JUNE || SEES 2027 CPI-ATE OF 2.7%; SAW 2.8% IN JUNE NOW || SEES KEY RATE AT 4.51% IN Q4 2026 || NOW SEES KEY RATE AT 4.57% IN Q1 2027 || NOW SEES KEY RATE AT 4.60% IN Q2 2027
 - 09/24 17:14 [FirstSquawk] BRENT OIL FUTURES CLIMB 2.2 PCT TO SESSION HIGH OF $105.38/BBL
 - 09/24 17:24 [FirstSquawk] WILLIAMS: TIME FOR EXPLICIT, VERY DIRECT FORWARD GUIDANCE IS OVER
+- 09/24 17:28 [FirstSquawk] U.S. 30-YEAR TREASURY YIELD RISES TO HIGHEST SINCE 2004
+- 09/24 17:31 [FirstSquawk] WILLIAMS: I SEE A TUG OF WAR BETWEEN HIGHER TREND GROWTH PUSHING UP U.S. R-START AND DEMOGRAPHICS PULLING IT DOWN
+- 09/24 17:32 [FirstSquawk] WILLIAMS: EXPECTATIONS OF REAL RATES ARE A BIG PART OF HIGHER BOND YIELDS
+- 09/24 17:34 [FirstSquawk] IRAN OFFICIAL SAYS CONFLICT WITH US COULD EXPAND FURTHER - FARS
+- 09/24 17:35 [FirstSquawk] IRAN'S SAFAVI SAYS NEXT PHASE COULD REACH INDIAN OCEAN - FARS
+- 09/24 17:36 [financialjuice] Fed's Williams: None of us know if higher yields will last.
+- 09/24 17:36 [financialjuice] Fed's Williams: I see a tug of war between higher trend growth pushing up US r-star and demographics pulling it down.
+- 09/24 17:36 [financialjuice] Iran Official: Conflict with US could expand further - Fars
+- 09/24 17:37 [financialjuice] Supreme Leader's Adviser Safavi:: Conflict with US could expand further - Fars
+- 09/24 17:43 [financialjuice] Fed's Williams: AI gains could boost us productivity like in 1996-2005, other gains reflect stronger business formation.
+- 09/24 17:43 [FirstSquawk] Iran Warns War Could Expand to Indian Ocean Iranian adviser to Supreme Leader Ali Khamenei, Yahya Rahim Safavi, warned that any renewed US or Israeli attacks on Iranian national centers or interests could lead to a broader expansion of the …
