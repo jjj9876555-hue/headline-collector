@@ -7,17 +7,17 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 10:32 JST／対象: 09/24 04:32 〜 09/24 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-24 10:46 JST／対象: 09/24 04:46 〜 09/24 10:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/24 05:25 | 09/24 05:51 | 25分（05:25→05:51） |
-| FirstSquawk | 65 | 09/24 04:48 | 09/24 10:32 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 71 | 09/24 04:50 | 09/24 10:30 | 42分（05:39→06:22） |
+| FirstSquawk | 70 | 09/24 04:48 | 09/24 10:46 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 73 | 09/24 04:50 | 09/24 10:41 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 138 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 143 行（統合前 145 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
@@ -160,3 +160,10 @@
 - 09/24 10:32 [FirstSquawk] Australia Full-Time Employment Change: -6.3K (prev 16.3K)
 - 09/24 10:32 [FirstSquawk] Australia Part-Time Employment Change: 45.8K (prev -32.2K)
 - 09/24 10:32 [FirstSquawk] Australia Participation Rate: 67.1% (est 66.9%; prev 66.9%)
+- 09/24 10:34 [FirstSquawk] Australia’s ASX 200 eases losses after jobs data, still down 1.1% at 8,665.40
+- 09/24 10:40 [FirstSquawk] Sterling stays near July lows as Fed-BoE policy divergence weighs on the pound - FX
+- 09/24 10:40 [financialjuice] Japan finmin Katayama: principles on forex set by coordinated Japan-US intervention remain effective
+- 09/24 10:41 [financialjuice] Japan finmin Katayama: declines to comment on forex levels
+- 09/24 10:41 [FirstSquawk] Japan’s Katayama: Existing forex principles from coordinated U.S.-Japan intervention still apply
+- 09/24 10:41 [FirstSquawk] Katayama: Japan won’t comment on specific forex levels
+- 09/24 10:46 [FirstSquawk] Osaka rubber futures climb 5.25% to highest level in 15 years

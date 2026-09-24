@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 10:32 JST／対象: 09/23 10:32 〜 09/24 10:32 JST（時刻はすべて日本時間）
+生成: 2026-09-24 10:46 JST／対象: 09/23 10:46 〜 09/24 10:46 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 300 | 09/23 10:38 | 09/24 10:32 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 275 | 09/23 10:59 | 09/24 10:30 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 303 | 09/23 10:48 | 09/24 10:46 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 277 | 09/23 10:59 | 09/24 10:41 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 638 行（統合前 660 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 643 行（統合前 665 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 10:38 [FirstSquawk] Japan’s Aeon introduces 1,000-yen jeans as consumer spending comes under pressure - Kyodo
-- 09/23 10:46 [FirstSquawk] Takaichi says Japan remains a “peace-loving nation” committed to defense-oriented policy - Kyodo
 - 09/23 10:48 [FirstSquawk] BlackRock says AI computing capacity may become tokenized in the future
 - 09/23 10:53 [FirstSquawk] Export Finance Australia retains ‘AAA’ rating from Fitch; outlook stable
 - 09/23 10:59 [financialjuice] Three commodity ships pass Strait of Hormuz on Tuesday vs 10-day moving average of about 15, data shows
@@ -662,3 +660,10 @@
 - 09/24 10:32 [FirstSquawk] Australia Full-Time Employment Change: -6.3K (prev 16.3K)
 - 09/24 10:32 [FirstSquawk] Australia Part-Time Employment Change: 45.8K (prev -32.2K)
 - 09/24 10:32 [FirstSquawk] Australia Participation Rate: 67.1% (est 66.9%; prev 66.9%)
+- 09/24 10:34 [FirstSquawk] Australia’s ASX 200 eases losses after jobs data, still down 1.1% at 8,665.40
+- 09/24 10:40 [FirstSquawk] Sterling stays near July lows as Fed-BoE policy divergence weighs on the pound - FX
+- 09/24 10:40 [financialjuice] Japan finmin Katayama: principles on forex set by coordinated Japan-US intervention remain effective
+- 09/24 10:41 [financialjuice] Japan finmin Katayama: declines to comment on forex levels
+- 09/24 10:41 [FirstSquawk] Japan’s Katayama: Existing forex principles from coordinated U.S.-Japan intervention still apply
+- 09/24 10:41 [FirstSquawk] Katayama: Japan won’t comment on specific forex levels
+- 09/24 10:46 [FirstSquawk] Osaka rubber futures climb 5.25% to highest level in 15 years
