@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 17:59 JST／対象: 09/24 11:59 〜 09/24 17:59 JST（時刻はすべて日本時間）
+生成: 2026-09-24 18:19 JST／対象: 09/24 12:19 〜 09/24 18:19 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 72 | 09/24 12:01 | 09/24 17:43 | 25分（12:09→12:34） |
-| financialjuice | 25 | 09/24 12:41 | 09/24 17:50 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 74 | 09/24 12:34 | 09/24 18:07 | 22分（17:43→18:05） |
+| financialjuice | 26 | 09/24 12:41 | 09/24 18:09 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 97 行（統合前 97 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 100 行（統合前 100 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 12:01 [FirstSquawk] High costs challenge Thailand’s solar scheme as smaller users remain hesitant - SCMP
-- 09/24 12:09 [FirstSquawk] China drops two-thirds of planned coal power plants abroad - SCMP
 - 09/24 12:34 [FirstSquawk] Canadian dollar remains steady as oil uncertainty and Fed hawkishness persist
 - 09/24 12:35 [FirstSquawk] Hong Kong improves property market transparency ranking, remains behind Singapore - SCMP
 - 09/24 12:41 [financialjuice] PAM secures most seats in Morocco's parliamentary election
@@ -121,3 +119,8 @@
 - 09/24 17:43 [financialjuice] Fed's Williams: AI gains could boost us productivity like in 1996-2005, other gains reflect stronger business formation.
 - 09/24 17:43 [FirstSquawk] Iran Warns War Could Expand to Indian Ocean Iranian adviser to Supreme Leader Ali Khamenei, Yahya Rahim Safavi, warned that any renewed US or Israeli attacks on Iranian national centers or interests could lead to a broader expansion of the …
 - 09/24 17:50 [financialjuice] Fed's Williams: I view AI boom as more of a traditional demand shock, question on how long chip supply challenges last.
+- 09/24 18:05 [FirstSquawk] TRUMP ALLIES OPEN NEW FRONT AGAINST ANTHROPIC CEO OVER AI "DOOMERISM" - AXIOS
+- 09/24 18:05 [FirstSquawk] SAUDI ARAMCO CEO SAYS WILL CONTINUE TO SUPPLY JAPAN - NIKKEI
+- 09/24 18:05 [FirstSquawk] SAUDI ARAMCO STUDYING 4TH, 5TH ROUTES FOR CRUDE OIL - NIKKEI
+- 09/24 18:07 [FirstSquawk] WILLIAMS: SHORT RUN INFLATION EXPECTATIONS HAVE BEEN ENCOURAGING, FOR LONG TERM HAVE NOT
+- 09/24 18:09 [financialjuice] Saudi Aramco CEO: Will continue to supply Japan -Nikkei
