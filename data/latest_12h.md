@@ -7,36 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 10:18 JST／対象: 09/23 22:18 〜 09/24 10:18 JST（時刻はすべて日本時間）
+生成: 2026-09-24 10:32 JST／対象: 09/23 22:32 〜 09/24 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 62 | 09/23 22:19 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 172 | 09/23 22:19 | 09/24 10:16 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 198 | 09/23 22:19 | 09/24 10:03 | 42分（05:39→06:22） |
+| DeItaone | 56 | 09/23 22:34 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 173 | 09/23 22:36 | 09/24 10:32 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 203 | 09/23 22:35 | 09/24 10:30 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 421 行（統合前 435 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 423 行（統合前 435 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 22:19 [DeItaone/financialjuice/FirstSquawk] RUSSIA'S LAVROV MEETS WITH US RUBIO - IFX
-- 09/23 22:22 [financialjuice] Samsung to deploy 5G SA networks starting October 2026.
-- 09/23 22:23 [FirstSquawk] GIORGETTI: INCOME TAX REDUCTION REMAINS GOVT PRIORITY
-- 09/23 22:24 [DeItaone] US ENERGY SECRETARY CHRIS WRIGHT SAYS DIESEL EXPORT BAN WOULD NOT WORK
-- 09/23 22:25 [DeItaone] WRIGHT SAYS US DIESEL EXPORT BAN WOULD RAISE GASOLINE AND JET FUEL PRICES
-- 09/23 22:25 [FirstSquawk] US ENERGY SECRETARY CHRIS WRIGHT: DIESEL EXPORT BAN WOULD NOT WORK
-- 09/23 22:25 [FirstSquawk] WRIGHT: US DIESEL EXPORT BAN WOULD RAISE GASOLINE AND JET FUEL PRICES
-- 09/23 22:27 [DeItaone] FED RATE HIKE BOOSTS DOLLAR APPEAL Standard Chartered says the Fed’s rate hike has removed a key obstacle to buying the dollar, easing concerns that Chair Kevin Warsh would avoid tightening despite pressure from President Trump. Warsh’s con…
-- 09/23 22:29 [DeItaone] MORGAN STANLEY ACCIDENTALLY LEAKS 100+ DEAL PIPELINE A Morgan Stanley employee mistakenly emailed an internal document detailing more than 100 investment-banking deals being pitched or monitored across Asia and other regions. The list repor…
-- 09/23 22:30 [DeItaone] GOLDMAN SEES KOSPI BREAKOUT ABOVE 7,000 Goldman Sachs sees South Korea’s KOSPI positioned for a near-term breakout above 7,000–7,200, supported by improving institutional and foreign buying. Strong memory-chip momentum and Samsung’s dividen…
-- 09/23 22:30 [FirstSquawk] Oil Rises Above $100 as Surging Diesel Prices and Persistent Middle East Supply Risks Offset Recovery Hopes Crude oil prices climbed back above $100 a barrel, snapping a five-day losing streak as traders weighed soaring fuel costs against p…
-- 09/23 22:31 [financialjuice] ❗ MOO IMBALANCE S&P 500: -139.5 MLN NASDAQ 100: -25.1 MLN DOW 30: -47.8 MLN MAG 7: -20.3 MLN $MACRO
-- 09/23 22:31 [FirstSquawk] NASDAQ DOWN 36.79 POINTS, OR 0.14 PERCENT, AT 27,207.49 AFTER MARKET OPEN S&P 500 DOWN 7.22 POINTS, OR 0.09 PERCENT, AT 7,757.42 AFTER MARKET OPEN DOW JONES DOWN 146.10 POINTS, OR 0.28 PERCENT, AT 51,717.59 AFTER MARKET OPEN
 - 09/23 22:34 [DeItaone] US AGENCY OPENS SAFETY PROBE INTO DRIVER ASSISTANCE START-UP https://t.co/RskRW5yHW4 AFTER REPORTS OF FIVE CRASHES AND THREE DEATHS
 - 09/23 22:35 [financialjuice] Iran's General Razai: If the US does not comply with the seven conditions set by Iran, the Strait of Hormuz will not be opened, nor will we engage in negotiations - IRIB News.
 - 09/23 22:36 [DeItaone/FirstSquawk] IRAN'S SECURITY CHIEF MOHSEN REZAEI SAYS AS LONG AS IRAN'S CONDITIONS ARE NOT MET HORMUZ WILL NOT BE REOPENED AND THERE WILL BE NO NEGOTIATIONS
@@ -445,3 +432,18 @@
 - 09/24 10:13 [FirstSquawk] U.S. EXIM Bank offers up to $6B in long-term financing for Argentina LNG project, YPF says
 - 09/24 10:15 [FirstSquawk] Osaka benchmark rubber futures surge above 3.88%
 - 09/24 10:16 [FirstSquawk] China’s PBOC fixes yuan mid-point at 6.7489 per dollar
+- 09/24 10:20 [financialjuice] China injects 51.5 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/24 10:20 [FirstSquawk] PBOC adds 51.5 bln yuan via 7-day reverse repos, rate unchanged at 1.40%
+- 09/24 10:27 [FirstSquawk] Hang Seng Tech Index seen opening 0.8% lower
+- 09/24 10:30 [financialjuice] AUSTRALIAN PARTICIPATION RATE ACTUAL 67.1% (FORECAST 66.9%, PREVIOUS 66.9%) $MACRO
+- 09/24 10:30 [financialjuice] ‼ BREAKING: AUSTRALIAN EMPLOYMENT CHANGE ACTUAL 39.5K (FORECAST 20K, PREVIOUS -15.8K) $MACRO
+- 09/24 10:30 [financialjuice] ❗ AUSTRALIAN UNEMPLOYMENT RATE ACTUAL 4.6% (FORECAST 4.5%, PREVIOUS 4.5%) $MACRO
+- 09/24 10:30 [financialjuice] Australia Aug participation rate 67.1% s/adj: Poll 66.9%
+- 09/24 10:30 [financialjuice] Australia August full-time employment down 6,300 seasonally adjusted
+- 09/24 10:30 [financialjuice] Australia aug unemployment rate rises to 4.6%, s/adj (poll forecast 4.5%)
+- 09/24 10:30 [financialjuice] Australia August jobs rise 39.5k seasonally adjusted versus poll of 20.0k
+- 09/24 10:32 [FirstSquawk] Australia Employment Change Aug: 39.5K (est 20.0K; prev -15.8K)
+- 09/24 10:32 [FirstSquawk] Australia Unemployment Rate: 4.6% (est 4.5%; prev 4.5%)
+- 09/24 10:32 [FirstSquawk] Australia Full-Time Employment Change: -6.3K (prev 16.3K)
+- 09/24 10:32 [FirstSquawk] Australia Part-Time Employment Change: 45.8K (prev -32.2K)
+- 09/24 10:32 [FirstSquawk] Australia Participation Rate: 67.1% (est 66.9%; prev 66.9%)

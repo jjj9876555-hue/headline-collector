@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 10:18 JST／対象: 09/23 10:18 〜 09/24 10:18 JST（時刻はすべて日本時間）
+生成: 2026-09-24 10:32 JST／対象: 09/23 10:32 〜 09/24 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 297 | 09/23 10:22 | 09/24 10:16 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 268 | 09/23 10:21 | 09/24 10:03 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 300 | 09/23 10:38 | 09/24 10:32 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 275 | 09/23 10:59 | 09/24 10:30 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 628 行（統合前 650 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 638 行（統合前 660 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 10:21 [financialjuice] China injects 8 bln yuan with 7-day reverse repos at 1.40% vs prior 1.40%: statement
-- 09/23 10:22 [FirstSquawk] South Korea’s Lee, Trump hail major progress in talks on strategic investment projects
-- 09/23 10:22 [FirstSquawk] Lee highlights importance of U.S.-China summit for regional affairs, presidential office says
-- 09/23 10:23 [FirstSquawk] South Korea’s Lee, Trump reaffirm cooperation on nuclear submarines, fuel reprocessing and shipbuilding
-- 09/23 10:27 [FirstSquawk] GM CEO Mary Barra set to attend Trump’s state dinner for Xi, Reuters reports
 - 09/23 10:38 [FirstSquawk] Japan’s Aeon introduces 1,000-yen jeans as consumer spending comes under pressure - Kyodo
 - 09/23 10:46 [FirstSquawk] Takaichi says Japan remains a “peace-loving nation” committed to defense-oriented policy - Kyodo
 - 09/23 10:48 [FirstSquawk] BlackRock says AI computing capacity may become tokenized in the future
@@ -652,3 +647,18 @@
 - 09/24 10:13 [FirstSquawk] U.S. EXIM Bank offers up to $6B in long-term financing for Argentina LNG project, YPF says
 - 09/24 10:15 [FirstSquawk] Osaka benchmark rubber futures surge above 3.88%
 - 09/24 10:16 [FirstSquawk] China’s PBOC fixes yuan mid-point at 6.7489 per dollar
+- 09/24 10:20 [financialjuice] China injects 51.5 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/24 10:20 [FirstSquawk] PBOC adds 51.5 bln yuan via 7-day reverse repos, rate unchanged at 1.40%
+- 09/24 10:27 [FirstSquawk] Hang Seng Tech Index seen opening 0.8% lower
+- 09/24 10:30 [financialjuice] AUSTRALIAN PARTICIPATION RATE ACTUAL 67.1% (FORECAST 66.9%, PREVIOUS 66.9%) $MACRO
+- 09/24 10:30 [financialjuice] ‼ BREAKING: AUSTRALIAN EMPLOYMENT CHANGE ACTUAL 39.5K (FORECAST 20K, PREVIOUS -15.8K) $MACRO
+- 09/24 10:30 [financialjuice] ❗ AUSTRALIAN UNEMPLOYMENT RATE ACTUAL 4.6% (FORECAST 4.5%, PREVIOUS 4.5%) $MACRO
+- 09/24 10:30 [financialjuice] Australia Aug participation rate 67.1% s/adj: Poll 66.9%
+- 09/24 10:30 [financialjuice] Australia August full-time employment down 6,300 seasonally adjusted
+- 09/24 10:30 [financialjuice] Australia aug unemployment rate rises to 4.6%, s/adj (poll forecast 4.5%)
+- 09/24 10:30 [financialjuice] Australia August jobs rise 39.5k seasonally adjusted versus poll of 20.0k
+- 09/24 10:32 [FirstSquawk] Australia Employment Change Aug: 39.5K (est 20.0K; prev -15.8K)
+- 09/24 10:32 [FirstSquawk] Australia Unemployment Rate: 4.6% (est 4.5%; prev 4.5%)
+- 09/24 10:32 [FirstSquawk] Australia Full-Time Employment Change: -6.3K (prev 16.3K)
+- 09/24 10:32 [FirstSquawk] Australia Part-Time Employment Change: 45.8K (prev -32.2K)
+- 09/24 10:32 [FirstSquawk] Australia Participation Rate: 67.1% (est 66.9%; prev 66.9%)

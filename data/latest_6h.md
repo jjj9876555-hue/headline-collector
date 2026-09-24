@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 10:18 JST／対象: 09/24 04:18 〜 09/24 10:18 JST（時刻はすべて日本時間）
+生成: 2026-09-24 10:32 JST／対象: 09/24 04:32 〜 09/24 10:32 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/24 05:25 | 09/24 05:51 | 25分（05:25→05:51） |
-| FirstSquawk | 59 | 09/24 04:26 | 09/24 10:16 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 67 | 09/24 04:22 | 09/24 10:03 | 42分（05:39→06:22） |
+| FirstSquawk | 65 | 09/24 04:48 | 09/24 10:32 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 71 | 09/24 04:50 | 09/24 10:30 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 126 行（統合前 128 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 136 行（統合前 138 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 04:22 [financialjuice] Thursday FX Option Expiries
-- 09/24 04:24 [financialjuice] Anthropic's Amodei: AI could be a risk to humanity as a whole.
-- 09/24 04:25 [financialjuice] Anthropic's Amodei: Anthropic to slow AI as needed for safety reasons
-- 09/24 04:26 [FirstSquawk] US REJECTS IRAN PROPOSAL TO OPEN STRAIT OF HORMUZ - YONHAP
-- 09/24 04:30 [financialjuice] US Energy Secretary Wright reiterates diesel ban is not being discussed - NYT
 - 09/24 04:48 [FirstSquawk] ETHIOPIA'S PRESIDENT ATSKE-SELASSIE AMDE SAYS AT THE UNITED NATIONS THAT ETHIOPIA HAS ACHIEVED NOTABLE PROGRESS WITH SEVERAL NEIGHBORS 'IN SPITE OF RECKLESS EXTERNAL ACTORS', ADDING THAT 'DESPITE CONTINUED INTERFERENCE IN OUR INTERNAL AFFAI…
 - 09/24 04:48 [FirstSquawk] ETHIOPIA'S PRESIDENT ATSKE-SELASSIE AMDE SAYS 'OUR MESSAGE TO FORCES OF DESTRUCTION AND MAYHEM IS LOUD AND CLEAR', URGING THEM 'TO RESPECT THE SACRED RIGHT OF THE PEOPLE OF THE HORN OF AFRICA TO LIVE IN PEACE'.
 - 09/24 04:50 [financialjuice] ❗ MOC IMBALANCE S&P 500: -3037.6 MLN NASDAQ 100: -1140.1 MLN DOW 30: -736.0 MLN MAG 7: -655.1 MLN $MACRO
@@ -150,3 +145,18 @@
 - 09/24 10:13 [FirstSquawk] U.S. EXIM Bank offers up to $6B in long-term financing for Argentina LNG project, YPF says
 - 09/24 10:15 [FirstSquawk] Osaka benchmark rubber futures surge above 3.88%
 - 09/24 10:16 [FirstSquawk] China’s PBOC fixes yuan mid-point at 6.7489 per dollar
+- 09/24 10:20 [financialjuice] China injects 51.5 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement
+- 09/24 10:20 [FirstSquawk] PBOC adds 51.5 bln yuan via 7-day reverse repos, rate unchanged at 1.40%
+- 09/24 10:27 [FirstSquawk] Hang Seng Tech Index seen opening 0.8% lower
+- 09/24 10:30 [financialjuice] AUSTRALIAN PARTICIPATION RATE ACTUAL 67.1% (FORECAST 66.9%, PREVIOUS 66.9%) $MACRO
+- 09/24 10:30 [financialjuice] ‼ BREAKING: AUSTRALIAN EMPLOYMENT CHANGE ACTUAL 39.5K (FORECAST 20K, PREVIOUS -15.8K) $MACRO
+- 09/24 10:30 [financialjuice] ❗ AUSTRALIAN UNEMPLOYMENT RATE ACTUAL 4.6% (FORECAST 4.5%, PREVIOUS 4.5%) $MACRO
+- 09/24 10:30 [financialjuice] Australia Aug participation rate 67.1% s/adj: Poll 66.9%
+- 09/24 10:30 [financialjuice] Australia August full-time employment down 6,300 seasonally adjusted
+- 09/24 10:30 [financialjuice] Australia aug unemployment rate rises to 4.6%, s/adj (poll forecast 4.5%)
+- 09/24 10:30 [financialjuice] Australia August jobs rise 39.5k seasonally adjusted versus poll of 20.0k
+- 09/24 10:32 [FirstSquawk] Australia Employment Change Aug: 39.5K (est 20.0K; prev -15.8K)
+- 09/24 10:32 [FirstSquawk] Australia Unemployment Rate: 4.6% (est 4.5%; prev 4.5%)
+- 09/24 10:32 [FirstSquawk] Australia Full-Time Employment Change: -6.3K (prev 16.3K)
+- 09/24 10:32 [FirstSquawk] Australia Part-Time Employment Change: 45.8K (prev -32.2K)
+- 09/24 10:32 [FirstSquawk] Australia Participation Rate: 67.1% (est 66.9%; prev 66.9%)
