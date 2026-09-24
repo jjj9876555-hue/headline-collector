@@ -7,34 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 00:52 JST／対象: 09/24 18:52 〜 09/25 00:52 JST（時刻はすべて日本時間）
+生成: 2026-09-25 01:05 JST／対象: 09/24 19:05 〜 09/25 01:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 59 | 09/24 21:26 | 09/25 00:50 | 20分（22:39→22:59） |
-| FirstSquawk | 130 | 09/24 19:01 | 09/25 00:48 | 17分（21:00→21:17） |
-| financialjuice | 140 | 09/24 18:52 | 09/25 00:48 | 30分（20:25→20:56） |
+| DeItaone | 62 | 09/24 21:26 | 09/25 01:00 | 20分（22:39→22:59） |
+| FirstSquawk | 128 | 09/24 19:12 | 09/25 00:55 | 17分（21:00→21:17） |
+| financialjuice | 135 | 09/24 19:16 | 09/25 01:01 | 30分（20:25→20:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 314 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 310 行（統合前 326 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 18:52 [financialjuice] Beijing urges Chinese LNG buyers to avoid resales before winter
-- 09/24 18:53 [financialjuice] BoE's Dhingra: Winter energy prices will be critical for second-round effects
-- 09/24 18:57 [financialjuice] BoE's Dhingra: Not seeing broadly spread price rises like 2022
-- 09/24 19:00 [financialjuice] UK CBI DISTRIBUTIVE TRADES ACTUAL -55 (FORECAST -, PREVIOUS -48) $MACRO
-- 09/24 19:01 [FirstSquawk] DHINGRA: CLAMOUR FOR HIGHER UK RATES IGNORES WEAKER GROWTH THAN US, HIGHER LEVEL OF UK RATES THAN EURO ZONE
-- 09/24 19:01 [FirstSquawk] RUSSIAN FOREIGN MINISTRY SAYS NORTH KOREA'S KIM INVITED TO RUSSIA - TASS
-- 09/24 19:02 [financialjuice] BoE's Dhingra: UK medium-term inflation expectations are similar to the euro zone, not a cause for alarm
-- 09/24 19:02 [financialjuice] BoE's Dhingra: Clamour for higher UK rates ignores weaker growth than the US and higher level of UK rates than the Eurozone
-- 09/24 19:02 [financialjuice] BoE's Dhingra: Successive shocks could be problematic
-- 09/24 19:03 [financialjuice] Russian Foreign Ministry: North Korea's Kim invited to Russia - TASS
-- 09/24 19:05 [FirstSquawk] DHINGRA SAYS NEED TO FACTOR IN CURRENT RATES LEVEL, CONSUMPTION
 - 09/24 19:12 [FirstSquawk] BOE MPC'S DHINGRA: I WOULD NOT BE SURPRISED IF AI LEADS TO LOWER SERVICES INFLATION
 - 09/24 19:12 [FirstSquawk] EU SPOX: HIGH LEVEL CONTACTS WITH US ADMIN ARE ONGOING
 - 09/24 19:15 [FirstSquawk/financialjuice] EU COMMISSION: NO CONCRETE SHORTAGE OF DIESEL IN THE EU
@@ -338,3 +327,10 @@
 - 09/25 00:48 [DeItaone/FirstSquawk] XI HOLDS SMALL-GROUP EXCHANGES WITH TRUMP - XINHUA
 - 09/25 00:48 [financialjuice] China’s President Xi holds small-group exchanges with Trump - Xinhua.
 - 09/25 00:50 [DeItaone] ORACLE: FORCE-MAJEURE NOTICES ARE COMMONPLACE IN DEVELOPMENTS OF THIS SCALE AND ARE OFTEN USED TO PRESERVE CONTRACTUAL RIGHTS AMONG PROJECT PARTNERS
+- 09/25 00:55 [DeItaone] MS NOW PRODUCER GRANTED ACCESS TO WHITE HOUSE -MS NOW
+- 09/25 00:55 [FirstSquawk] GOOGLE: INTRODUCING GEMINI 3.8 LIVE WITH LIVE AVATAR
+- 09/25 00:56 [financialjuice] Google introduces Gemini 3.8 Live, with live avatar. $GOOGL
+- 09/25 00:57 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS LAST UP 0.85 BASIS POINTS AT 4.904%
+- 09/25 01:00 [DeItaone] U.S. 30-YR FIXED RATE MORTGAGE AVERAGES 7.03 PCT IN SEPT 24 WEEK, HIGHEST SINCE JAN 16, 2025 WEEK, VS 6.95 PCT PRIOR WEEK-FREDDIE MAC
+- 09/25 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 7.03% in Sept 24 week, highest since Jan 16, 2025 week, vs 6.95% prior week - Freddie Mac
+- 09/25 01:01 [financialjuice] BNP Paribas and Google Cloud sign five-year AI pact. $GOOGL

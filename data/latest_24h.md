@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 00:52 JST／対象: 09/24 00:52 〜 09/25 00:52 JST（時刻はすべて日本時間）
+生成: 2026-09-25 01:05 JST／対象: 09/24 01:05 〜 09/25 01:05 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 77 | 09/24 01:00 | 09/25 00:50 | ⚠ 935分（05:51→21:26） |
-| FirstSquawk | 361 | 09/24 00:54 | 09/25 00:48 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 299 | 09/24 01:02 | 09/25 00:48 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 79 | 09/24 01:05 | 09/25 01:00 | ⚠ 935分（05:51→21:26） |
+| FirstSquawk | 361 | 09/24 01:15 | 09/25 00:55 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 299 | 09/24 01:11 | 09/25 01:01 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 718 行（統合前 739 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 720 行（統合前 741 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 00:54 [FirstSquawk] IRAN DEMANDED US TO ACCEPT HORMUZ ROUTE AGREED WITH OMAN
-- 09/24 01:00 [DeItaone] IRAN HARDLINERS ATTACK FOREIGN MINISTER OVER U.S. CONTACTS Iranian hardline outlets are escalating criticism of Foreign Minister Abbas Araghchi after Iranian officials reportedly met U.S. envoy Steve Witkoff in New York. IRGC-linked Tasnim …
-- 09/24 01:02 [financialjuice] Israel's N12 News: The "Together" party leader Bennett calls on Israeli PM Netanyahu to declare Qatar an enemy state during UN General Assembly speech, coalition and opposition would support move.
-- 09/24 01:04 [financialjuice] Senators aim to fast-track Chinese vehicle ban legislation this week as China's Xi visits Washington - Document.
-- 09/24 01:04 [financialjuice] Israel's Channel 12 News: The "Together" party leader Bennett calls on Israeli PM Netanyahu to declare Qatar an enemy state during UN General Assembly speech, coalition and opposition would support move.
 - 09/24 01:05 [DeItaone] ANTHROPIC LEADERS BACK PILGRIM STARTUP DEVELOPING SYSTEM TO DETECT BIOLOGICAL THREATS - WSJ
 - 09/24 01:07 [DeItaone] ANTHROPIC LEADERS BACK AI-ERA BIODEFENSE STARTUP Two Anthropic leaders invested in Pilgrim, a startup developing technology to detect airborne biological threats such as Ebola and anthrax. Pilgrim raised $25 million at a $150 million valuat…
 - 09/24 01:11 [financialjuice] Russian Foreign Minister Lavrov and US Secretary of State Rubio discussed the situation in the Middle East, the Transcaucasus, Latin America, and the Caribbean.
@@ -742,3 +737,10 @@
 - 09/25 00:48 [DeItaone/FirstSquawk] XI HOLDS SMALL-GROUP EXCHANGES WITH TRUMP - XINHUA
 - 09/25 00:48 [financialjuice] China’s President Xi holds small-group exchanges with Trump - Xinhua.
 - 09/25 00:50 [DeItaone] ORACLE: FORCE-MAJEURE NOTICES ARE COMMONPLACE IN DEVELOPMENTS OF THIS SCALE AND ARE OFTEN USED TO PRESERVE CONTRACTUAL RIGHTS AMONG PROJECT PARTNERS
+- 09/25 00:55 [DeItaone] MS NOW PRODUCER GRANTED ACCESS TO WHITE HOUSE -MS NOW
+- 09/25 00:55 [FirstSquawk] GOOGLE: INTRODUCING GEMINI 3.8 LIVE WITH LIVE AVATAR
+- 09/25 00:56 [financialjuice] Google introduces Gemini 3.8 Live, with live avatar. $GOOGL
+- 09/25 00:57 [DeItaone] TWO-YEAR U.S. TREASURY YIELDS LAST UP 0.85 BASIS POINTS AT 4.904%
+- 09/25 01:00 [DeItaone] U.S. 30-YR FIXED RATE MORTGAGE AVERAGES 7.03 PCT IN SEPT 24 WEEK, HIGHEST SINCE JAN 16, 2025 WEEK, VS 6.95 PCT PRIOR WEEK-FREDDIE MAC
+- 09/25 01:00 [financialjuice] US 30-yr fixed rate mortgage averages 7.03% in Sept 24 week, highest since Jan 16, 2025 week, vs 6.95% prior week - Freddie Mac
+- 09/25 01:01 [financialjuice] BNP Paribas and Google Cloud sign five-year AI pact. $GOOGL
