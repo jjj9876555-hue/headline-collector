@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 13:18 JST／対象: 09/24 07:18 〜 09/24 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-24 13:34 JST／対象: 09/24 07:34 〜 09/24 13:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 92 | 09/24 08:16 | 09/24 13:17 | 25分（12:09→12:34） |
-| financialjuice | 66 | 09/24 07:31 | 09/24 13:01 | ⚠ 68分（11:33→12:41） |
+| FirstSquawk | 93 | 09/24 08:16 | 09/24 13:23 | 25分（12:09→12:34） |
+| financialjuice | 65 | 09/24 07:42 | 09/24 13:01 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 158 行（統合前 158 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 07:31 [financialjuice] Modal Labs in talks to secure new funding at about $15 billion valuation
 - 09/24 07:42 [financialjuice] South Korea’s presidential office: President Lee discussed warship building with U.S. President Donald Trump
 - 09/24 07:46 [financialjuice] South Korea President Lee: Hanwha's Philly shipyard to construct warships for US - Korea presidential office
 - 09/24 08:03 [financialjuice] Meta launches annual Connect conference in Menlo Park, California
@@ -182,3 +181,4 @@
 - 09/24 13:13 [FirstSquawk] Global bond rout deepens with oil prices above $100: FT
 - 09/24 13:15 [FirstSquawk] Indonesia central bank: Rupiah performance generally aligned with regional currencies
 - 09/24 13:17 [FirstSquawk] 10-year Japanese government bond yield jumps 9.5 bps to 3.070%
+- 09/24 13:23 [FirstSquawk] Japan’s 5-year JGB yield climbs 9 bps to record 2.365%

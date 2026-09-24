@@ -7,32 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 13:18 JST／対象: 09/24 01:18 〜 09/24 13:18 JST（時刻はすべて日本時間）
+生成: 2026-09-24 13:34 JST／対象: 09/24 01:34 〜 09/24 13:34 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 15 | 09/24 01:59 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 155 | 09/24 01:23 | 09/24 13:17 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 123 | 09/24 01:30 | 09/24 13:01 | ⚠ 68分（11:33→12:41） |
+| FirstSquawk | 152 | 09/24 01:36 | 09/24 13:23 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 118 | 09/24 01:36 | 09/24 13:01 | ⚠ 68分（11:33→12:41） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 290 行（統合前 294 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 282 行（統合前 286 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 01:23 [FirstSquawk] EU BREXIT CHIEF: UK CAN GET A CANADA-STYLE MEMBERSHIP DEAL
-- 09/24 01:30 [financialjuice] IMF: The Middle East war since late February has significantly altered global growth trajectory through energy, commodity and supply-chain disruptions.
-- 09/24 01:30 [financialjuice] IMF: Global public debt was already near record highs when Middle East war began.
-- 09/24 01:30 [financialjuice] IMF: Supportive fiscal policies, private investment and potential AI productivity gains could support medium-term global growth.
-- 09/24 01:30 [financialjuice] US Energy Secretary Wright: I see Natural Gas as 'America's Energy Super Power'.
-- 09/24 01:31 [FirstSquawk] WRIGHT SEES NATURAL GAS PRICING FLATTISH FOR NEXT 5-10 YEARS
-- 09/24 01:32 [financialjuice] Microsoft is expanding investments in the Middle East, investing more than $10b by 2030. $MSFT
-- 09/24 01:32 [FirstSquawk] WRIGHT SAYS DON'T THINK WILL SEE BLANKET BAN ON DIESEL
-- 09/24 01:33 [FirstSquawk] MICROSOFT TO INVEST MORE THAN $10B IN MIDDLE EAST BY 2030
 - 09/24 01:36 [financialjuice] US Energy Secretary Wright: China is a 'swing importer' of oil in the world market.
 - 09/24 01:36 [FirstSquawk] WRIGHT: CHINA IS 'SWING IMPORTER' OF OIL IN THE WORLD MARKET
 - 09/24 01:43 [FirstSquawk] TRUMP ADMINISTRATION BACKING OFF NIH GRANT ORDER AMID PUSHBACK - SEMAFOR
@@ -314,3 +305,4 @@
 - 09/24 13:13 [FirstSquawk] Global bond rout deepens with oil prices above $100: FT
 - 09/24 13:15 [FirstSquawk] Indonesia central bank: Rupiah performance generally aligned with regional currencies
 - 09/24 13:17 [FirstSquawk] 10-year Japanese government bond yield jumps 9.5 bps to 3.070%
+- 09/24 13:23 [FirstSquawk] Japan’s 5-year JGB yield climbs 9 bps to record 2.365%
