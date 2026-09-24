@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-25 00:34 JST／対象: 09/24 18:34 〜 09/25 00:34 JST（時刻はすべて日本時間）
+生成: 2026-09-25 00:52 JST／対象: 09/24 18:52 〜 09/25 00:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 55 | 09/24 21:26 | 09/25 00:30 | 20分（22:39→22:59） |
-| FirstSquawk | 130 | 09/24 18:38 | 09/25 00:31 | 22分（18:38→19:01） |
-| financialjuice | 144 | 09/24 18:38 | 09/25 00:33 | 30分（20:25→20:56） |
+| DeItaone | 59 | 09/24 21:26 | 09/25 00:50 | 20分（22:39→22:59） |
+| FirstSquawk | 130 | 09/24 19:01 | 09/25 00:48 | 17分（21:00→21:17） |
+| financialjuice | 140 | 09/24 18:52 | 09/25 00:48 | 30分（20:25→20:56） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 314 行（統合前 330 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,11 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 18:38 [FirstSquawk/financialjuice] ALL IRANIAN AIRLINE FLIGHTS TO UAE CANCELLED - ISNA
-- 09/24 18:51 [financialjuice] BoE's Dhingra: Financial conditions have done a lot of tightening work already in the UK
-- 09/24 18:51 [financialjuice] BoE's Dhingra: I am encouraged by what we're seeing on pricing
-- 09/24 18:51 [financialjuice] BoE's Dhingra: A lot of financial tightening has taken place
-- 09/24 18:52 [financialjuice] BoE's Dhingra: We are not seeing broad-based price rises like those that happened in 2022
 - 09/24 18:52 [financialjuice] Beijing urges Chinese LNG buyers to avoid resales before winter
 - 09/24 18:53 [financialjuice] BoE's Dhingra: Winter energy prices will be critical for second-round effects
 - 09/24 18:57 [financialjuice] BoE's Dhingra: Not seeing broadly spread price rises like 2022
@@ -338,3 +333,8 @@
 - 09/25 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.61 (FORECAST -, PREVIOUS 3.020) $MACRO
 - 09/25 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.850% Bid-to-cover 2.61 US sells $90 bln Awards 54.97% of bids at high
 - 09/25 00:33 [financialjuice] The US seeks to join Musk in his court fight with the EU over the X fine.
+- 09/25 00:35 [DeItaone] U.S. NATURAL GAS FUTURES JUMP MORE THAN 6% AS OIL EXTENDS RISE
+- 09/25 00:36 [DeItaone] U.S. TREASURY 10-YEAR YIELD HIGH FOR SESSION OF 5.1685%, HIGHEST SINCE JULY 2007; YIELD ON 10-YEAR NOTE LAST UP 5.24 BASIS POINTS AT 5.166%
+- 09/25 00:48 [DeItaone/FirstSquawk] XI HOLDS SMALL-GROUP EXCHANGES WITH TRUMP - XINHUA
+- 09/25 00:48 [financialjuice] China’s President Xi holds small-group exchanges with Trump - Xinhua.
+- 09/25 00:50 [DeItaone] ORACLE: FORCE-MAJEURE NOTICES ARE COMMONPLACE IN DEVELOPMENTS OF THIS SCALE AND ARE OFTEN USED TO PRESERVE CONTRACTUAL RIGHTS AMONG PROJECT PARTNERS

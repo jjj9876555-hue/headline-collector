@@ -7,41 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-25 00:34 JST／対象: 09/24 00:34 〜 09/25 00:34 JST（時刻はすべて日本時間）
+生成: 2026-09-25 00:52 JST／対象: 09/24 00:52 〜 09/25 00:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 76 | 09/24 00:43 | 09/25 00:30 | ⚠ 935分（05:51→21:26） |
-| FirstSquawk | 368 | 09/24 00:35 | 09/25 00:31 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 305 | 09/24 00:35 | 09/25 00:33 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 77 | 09/24 01:00 | 09/25 00:50 | ⚠ 935分（05:51→21:26） |
+| FirstSquawk | 361 | 09/24 00:54 | 09/25 00:48 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 299 | 09/24 01:02 | 09/25 00:48 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 731 行（統合前 751 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 718 行（統合前 739 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 00:35 [financialjuice] Fed's Goolsbee: That's what happened with tariffs, COVID; that's maybe what's happening with oil, we better be careful.
-- 09/24 00:35 [FirstSquawk] FED'S GOOLSBEE, IN 'ECONOMICS, APPLIED' PODCAST: BETTER OFF ASSUMING THAT BIGGER NEGATIVE SUPPLY SHOCKS TO HAVE A PRETTY PERSISTENT EFFECT ON INFLATION
-- 09/24 00:35 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON ON X: IRAN CLARIFIED ITS CONDITIONS FOR REVIVING DIPLOMACY IN THE TWO HOUR LONG PROCESS TO U.S.
-- 09/24 00:36 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS CONDITIONS INCLUDE ACCEPTING THE SAFE ROUTE IN HORMUZ IN WHICH UNDERSTANDING BETWEEN THE TWO COASTAL COUNTRIES HAS BEEN REACHED
-- 09/24 00:37 [financialjuice] Iran's Foreign Ministry Spokesperson: Conditions include accepting the safe route in Hormuz, in which an understanding between the two coastal countries has been reached.
-- 09/24 00:37 [financialjuice] Fitch Ratings believes that lingering tensions between the US and Europe continue to raise questions over the reliability of the US' security commitments to Europe.
-- 09/24 00:38 [FirstSquawk] IRAN'S FOREIGN MINISTRY SPOKESPERSON: IRAN'S CONDITIONS ALSO INCLUDE END OF U.S. ACTIONS, INCLUDING NAVAL BLOCKADE, ENDING WAR, RELEASE OF FROZEN ASSETS
-- 09/24 00:38 [financialjuice] Greenland Deal Addresses One Source of US-EU Tensions; Tariff and NATO Risks Persist - Fitch Ratings
-- 09/24 00:38 [FirstSquawk] GREENLAND DEAL ADDRESSES ONE SOURCE OF US-EU TENSIONS; TARIFF AND NATO RISKS PERSIST – FITCH
-- 09/24 00:38 [FirstSquawk] PARAMOUNT WEIGHS TAPPING MUSK FOR EQUITY INVESTMENT - SEMAFOR
-- 09/24 00:42 [FirstSquawk] TURKISH AIRLINES ARE TO BUY UP TO 150 BOEING 737 MAX JETS
-- 09/24 00:42 [financialjuice] Head of the Iranian Atomic Energy Organization: Despite numerous IAEA inspections, not a single report of non-compliance exists. The Agency has had access to all facilities - IRIB News.
-- 09/24 00:43 [DeItaone] FITCH WARNS U.S.-EU TENSIONS REMAIN A KEY RISK Fitch says lingering U.S.-Europe tensions are raising questions over NATO cohesion and the reliability of U.S. security commitments. It also warns that renewed U.S.-EU tariffs remain a signific…
-- 09/24 00:43 [DeItaone] U.S. TREASURY YIELD ON 10-YEAR TREASURY NOTE HITS 5.081%, HIGHEST SINCE JULY 17, 2007; LAST UP 10.57 BASIS POINTS AT 5.073%
-- 09/24 00:48 [DeItaone] BESSENT AFTER MEETING WITH CHINA'S HE: WE'RE FINE WITH EITHER CONTINUING BUSAN ARRANGEMENT OR EXAMINING BIGGER DEAL
-- 09/24 00:48 [financialjuice] US Treasury Secretary Bessent, after meeting with China's He: We're fine with either continuing the Busan arrangement or examining a bigger deal.
-- 09/24 00:50 [financialjuice] Lithuanian Defence Minister: Lithuania, Latvia, and Estonia have asked for the European Union's support for drone defenses.
-- 09/24 00:52 [FirstSquawk] 30-YEAR TREASURY YIELD SURGES ABOVE 5.37%, HITS HIGHEST LEVEL SINCE 2004 U.S. 30-year Treasury yield has climbed above 5.37%, putting it on track for its highest daily settlement since June 2004. The move signals a sharp rise in long-term U…
 - 09/24 00:54 [FirstSquawk] IRAN DEMANDED US TO ACCEPT HORMUZ ROUTE AGREED WITH OMAN
 - 09/24 01:00 [DeItaone] IRAN HARDLINERS ATTACK FOREIGN MINISTER OVER U.S. CONTACTS Iranian hardline outlets are escalating criticism of Foreign Minister Abbas Araghchi after Iranian officials reportedly met U.S. envoy Steve Witkoff in New York. IRGC-linked Tasnim …
 - 09/24 01:02 [financialjuice] Israel's N12 News: The "Together" party leader Bennett calls on Israeli PM Netanyahu to declare Qatar an enemy state during UN General Assembly speech, coalition and opposition would support move.
@@ -755,3 +737,8 @@
 - 09/25 00:32 [financialjuice] US 4-WEEK BILL BID-TO-COVER ACTUAL 2.61 (FORECAST -, PREVIOUS 3.020) $MACRO
 - 09/25 00:33 [financialjuice] US 4-Week Bill Auction High Yield 3.850% Bid-to-cover 2.61 US sells $90 bln Awards 54.97% of bids at high
 - 09/25 00:33 [financialjuice] The US seeks to join Musk in his court fight with the EU over the X fine.
+- 09/25 00:35 [DeItaone] U.S. NATURAL GAS FUTURES JUMP MORE THAN 6% AS OIL EXTENDS RISE
+- 09/25 00:36 [DeItaone] U.S. TREASURY 10-YEAR YIELD HIGH FOR SESSION OF 5.1685%, HIGHEST SINCE JULY 2007; YIELD ON 10-YEAR NOTE LAST UP 5.24 BASIS POINTS AT 5.166%
+- 09/25 00:48 [DeItaone/FirstSquawk] XI HOLDS SMALL-GROUP EXCHANGES WITH TRUMP - XINHUA
+- 09/25 00:48 [financialjuice] China’s President Xi holds small-group exchanges with Trump - Xinhua.
+- 09/25 00:50 [DeItaone] ORACLE: FORCE-MAJEURE NOTICES ARE COMMONPLACE IN DEVELOPMENTS OF THIS SCALE AND ARE OFTEN USED TO PRESERVE CONTRACTUAL RIGHTS AMONG PROJECT PARTNERS
