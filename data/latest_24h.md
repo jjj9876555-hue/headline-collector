@@ -7,67 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 22:54 JST／対象: 09/23 22:54 〜 09/24 22:54 JST（時刻はすべて日本時間）
+生成: 2026-09-24 23:18 JST／対象: 09/23 23:18 〜 09/24 23:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 71 | 09/23 23:00 | 09/24 22:39 | ⚠ 935分（05:51→21:26） |
-| FirstSquawk | 359 | 09/23 22:54 | 09/24 22:49 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 305 | 09/23 23:01 | 09/24 22:54 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 65 | 09/23 23:20 | 09/24 23:14 | ⚠ 935分（05:51→21:26） |
+| FirstSquawk | 350 | 09/23 23:19 | 09/24 23:14 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 303 | 09/23 23:18 | 09/24 23:17 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 716 行（統合前 738 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 700 行（統合前 720 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: THE VERY FACT THAT ALL OF TRUMP'S REMARKS REVOLVE AROUND IRAN SHOWS THAT IT HAS BECOME THE BIGGEST PROBLEM AND THE FOCUS OF HIS LIFE AND POLITICS, AS WELL AS AMERICAN POLICY.
-- 09/23 22:54 [FirstSquawk] IRAN'S SECURITY COUNCIL SECRETARY REZAEI: TRUMP HIMSELF HAS REALIZED THAT HE IS A CRIMINAL. FROM INTERNATIONAL COURTS TO THE COURTS OF THE ISLAMIC WORLD, THEY WILL HOLD BOTH HIM AND NETANYAHU ACCOUNTABLE.
-- 09/23 22:57 [FirstSquawk] AUSSIE DROPS 1% TO 0.7043 VS USD, DOWN MOST IN THREE MONTHS
-- 09/23 23:00 [DeItaone] U.S. PMI SURGES, SIGNALING STRONG GROWTH AND RISING COST PRESSURES U.S. business activity accelerated sharply in September, with manufacturing PMI rising to 57.0, services to 58.7, and the composite index to 58.4, all well above expectation…
-- 09/23 23:00 [DeItaone] 10-YEAR YIELD RISES TO 5.04%, HIGHEST SINCE 2007
-- 09/23 23:01 [financialjuice] Iran's General Razai: We cannot continue with the same diplomacy now, which offers no guarantees. In all previous negotiations, the United States was the first to violate the conditions.
-- 09/23 23:02 [financialjuice] Investors price in 70% chance of a Bank of England rate hike in November (Tuesday: 60%).
-- 09/23 23:03 [DeItaone] GOLDMAN: DIESEL EXPORT BAN COULD PUSH GASOLINE PRICES HIGHER Goldman Sachs warns a U.S. diesel export ban could lower domestic diesel prices but raise gasoline prices. Cheaper diesel could encourage refiners to cut production, reducing gaso…
-- 09/23 23:04 [FirstSquawk] MOHSEN REZAEI, SECRETARY OF IRAN'S SUPREME NATIONAL SECURITY COUNCIL, SAID IN AN INTERVIEW WITH STATE TELEVISION THAT TEHRAN HAD GIVEN THE UNITED STATES FOUR TO FIVE DAYS TO MEET ITS CONDITIONS, LINKING ANY FURTHER NEGOTIATIONS AND REOPENIN…
-- 09/23 23:05 [DeItaone] OIL JUMPS AS IRAN HARDENS HORMUZ STANCE Oil prices climbed to daily highs as optimism over U.S.-Iran diplomacy faded following tougher comments from Iran’s security chief. Tehran reiterated that Hormuz will remain closed and negotiations wi…
-- 09/23 23:05 [DeItaone] FED'S BARR SEES MORE RATE HIKES AHEAD
-- 09/23 23:05 [financialjuice] ❗ Fed's Barr: Further rate hikes are likely needed to ensure timely return to 2% inflation.
-- 09/23 23:05 [financialjuice] Fed's Barr: Risks to achieving 2% inflation have increased, risks to the labor market have receded.
-- 09/23 23:05 [DeItaone] FED’S BARR SIGNALS MORE RATE HIKES AHEAD Fed Governor Michael Barr says further rate hikes will likely be needed to bring inflation back to target after last week’s 25bp increase. Barr said the Fed had been “out of position” before the late…
-- 09/23 23:06 [financialjuice] Fed's Barr: Going into the recent policy meeting, the Fed needed to recalibrate monetary policy to reflect risks.
-- 09/23 23:06 [financialjuice] Fed's Barr: The Fed was out of position, we made an adjustment in the right direction.
-- 09/23 23:06 [financialjuice] Democrats urge Trump in letter to seek AI deal with China - Politico
-- 09/23 23:06 [financialjuice] Fed's Barr: Inflation is not clearly trending toward our target in a timely way; economic growth is strong, the labor market is solid.
-- 09/23 23:06 [FirstSquawk] FED'S BARR: FURTHER RATE HIKES LIKELY NEEDED TO ENSURE TIMELY RETURN TO 2% INFLATION
-- 09/23 23:06 [FirstSquawk] BARR: RISKS TO ACHIEVING 2% INFLATION HAVE INCREASED, RISKS TO LABOR MARKET HAVE RECEDED
-- 09/23 23:07 [FirstSquawk] BARR: FED WAS OUT OF POSITION, MADE AN ADJUSTMENT IN THE RIGHT DIRECTION
-- 09/23 23:07 [FirstSquawk] BARR: INFLATION IS NOT CLEARLY TRENDING TOWARD TARGET IN A TIMELY WAY; ECONOMIC GROWTH IS STRONG, LABOR MARKET SOLID
-- 09/23 23:07 [FirstSquawk] SENATORS ASK TRUMP TO SLOW OR PAUSE AI DEVELOPMENT: POLITICO
-- 09/23 23:09 [financialjuice] Libya's Sharara is now pumping at less than 100k b/d - NOC Chairman.
-- 09/23 23:09 [DeItaone] DEMOCRATS PUSH TRUMP FOR U.S.-CHINA AI DEAL Seventeen Democratic senators are urging President Trump to use his upcoming meeting with Xi Jinping to pursue an AI safety agreement with China. Their proposal calls for both countries to slow or…
-- 09/23 23:10 [financialjuice] Yemen’s Houthis, threatening global oil, are increasingly supplied by China - WSJ.
-- 09/23 23:10 [DeItaone] BESSENT ARRIVES FOR MEETING WITH CHINESE VICE PREMIER HE IN WASHINGTON
-- 09/23 23:11 [financialjuice] US Treasury Secretary Bessent arrives for a meeting with Chinese Vice Premier He in Washington.
-- 09/23 23:11 [FirstSquawk] SAUDI CIVIL DEFENSE ISSUES ALERT OVER POTENTIAL DANGER IN JAZAN
-- 09/23 23:11 [FirstSquawk] SAUDI CIVIL DEFENSE ISSUES ALERT OVER POTENTIAL DANGER IN NAJRAN
-- 09/23 23:11 [financialjuice] Iran's President Pezeshkian Speaks at the UN - WATCH LIVE
-- 09/23 23:11 [financialjuice] Iraqi Prime Minister and Trump discuss cooperation and the region - INA.
-- 09/23 23:12 [financialjuice] Explosion heard in Jazan, Saudi Arabia - Tasnim News.
-- 09/23 23:14 [financialjuice/FirstSquawk] United Nations: United States Delegation walks out during Iran President's UN Speech.
-- 09/23 23:14 [DeItaone] PEZESHKIAN: WE HAVE BEEN THE VICTIMS OF TERRORISM PEZESHKIAN: OUR LEADER WAS ASSASINATED WITHOUT LEGAL FRAMEWORK US OFFICIAL WALKS OUT OF UNGA HALL DURING IRAN PRESIDENT SPEECH PEZESHKIAN: WE DID NOT BOW OUR HEAD, BUT WE DID NOT HIT CIVILIA…
-- 09/23 23:15 [FirstSquawk] UNITED NATIONS - IRAN'S PRESIDENT PEZESHKIAN: U.S. DOES NOT RESPECT ANY INTERNATIONAL LAWS
-- 09/23 23:15 [FirstSquawk] YOUTUBE TO INTRODUCE NEW TOOLS FOR DIGITAL PRODUCERS: WSJ
-- 09/23 23:16 [DeItaone] IRAN'S PRESIDENT PEZESHKIAN: U.S. DOES NOT RESPECT ANY INTERNATIONAL LAWS
-- 09/23 23:16 [DeItaone] IRAN'S PRESIDENT PEZESHKIAN: IRAN NEEDS NUCLEAR ENERGY NOT NUCLEAR BOMB
-- 09/23 23:16 [financialjuice] Iran's President Pezeshkian: Iran needs to be strong and powerful to resist the US, and our enemies.
-- 09/23 23:17 [financialjuice] Iran's President Pezeshkian: Iran needs nuclear energy, not a nuclear bomb.
-- 09/23 23:17 [FirstSquawk] UNITED NATIONS - IRAN'S PRESIDENT PEZESHKIAN: IRAN NEEDS TO BE STRONG AND POWERFUL TO RESIST U.S., ENEMIES
-- 09/23 23:18 [financialjuice] Fear and Greed Index: 37/100 = Fear
-- 09/23 23:18 [FirstSquawk] SAMSUNG SUPPLIES SMRS TO EUROPE WITH THE US AND JAPAN – YONHAP
 - 09/23 23:18 [financialjuice] Crypto Fear and Greed Index: 71/100 = Greed.
 - 09/23 23:19 [FirstSquawk] IRAN'S PRESIDENT: WE SAY NO TO NUCLEAR WEAPONS
 - 09/23 23:20 [DeItaone/FirstSquawk] IRAN'S PEZESHKIAN: HORMUZ STRAIT CANNOT BE USED FOR PASSAGE OF WEAPONS THAT WILL BE USED AGAINST IRAN
@@ -740,3 +696,31 @@
 - 09/24 22:52 [financialjuice] Trump Greets China’s President Xi - WATCH LIVE
 - 09/24 22:53 [financialjuice] BoE Breeden: Unlike in 2022, we're starting at a point where policy is restrictive.
 - 09/24 22:54 [financialjuice] BoE Breeden: We have to take a meeting-by-meeting approach to the rate decisions.
+- 09/24 22:54 [financialjuice] BoE Breeden: The question for me is whether we need to do a first move, there is more uncertainty about whether we need to do lots more.
+- 09/24 22:56 [financialjuice] BoE Breeden: We may find over time that we need to do a lot more.
+- 09/24 22:57 [financialjuice] BoE Breeden: It is incredibly important that the BoE has set out a plan to exit QE, it makes it a more credible tool.
+- 09/24 22:59 [DeItaone] CNN, MS NOW, POLITICO REQUEST IMMEDIATE COURT HEARING AFTER BEING BLOCKED FROM WHITE HOUSE GROUNDS ON THURSDAY -FILING
+- 09/24 23:00 [DeItaone] US AUG SINGLE-FAMILY HOME SALES 0.684 MLN UNIT ANN. RATE, (CONS 0.615 MLN) US AUG SINGLE-FAMILY HOME SALES +6.4%
+- 09/24 23:00 [financialjuice] US NEW HOME SALES CHANGE MOM ACTUAL 6.4% (FORECAST 1.3%, PREVIOUS -10.5%) $MACRO
+- 09/24 23:00 [financialjuice] US NEW HOME SALES - UNITS ACTUAL 0.684M (FORECAST 0.6155M, PREVIOUS 0.607M) $MACRO
+- 09/24 23:01 [financialjuice] US New Home Sales August Report
+- 09/24 23:01 [FirstSquawk] US New Home Sales Aug: 684K (est 616K; prev 607K; prev R 643K)
+- 09/24 23:05 [DeItaone] FED'S PAULSON SAYS SEPTEMBER'S INFLATION REPORTS DROVE RATE HIKE
+- 09/24 23:06 [FirstSquawk] SENATE WILL RETURN TO DC NEXT WEEK, SENATE REPUBLICAN AIDE SAYS
+- 09/24 23:08 [financialjuice] Trump greets China’s President Xi at the White House ahead of bilateral talks.
+- 09/24 23:10 [financialjuice] ❗ Fed's Paulson: The US central bank may need to raise interest rates again to lower inflation.
+- 09/24 23:10 [financialjuice] Fed's Paulson: September rate hike helped move policy to better inflation-fighting posture.
+- 09/24 23:10 [financialjuice] Fed's Paulson: I will support doing what's needed to get inflation back to 2%.
+- 09/24 23:10 [DeItaone] FED’S PAULSON SIGNALS ANOTHER RATE HIKE Fed’s Paulson says the central bank may need to raise rates again as underlying inflation remains “stubbornly high.” She said September’s hike put policy in a better inflation-fighting position and pl…
+- 09/24 23:10 [financialjuice] Fed's Paulson: The best you can say about inflation is that it has not gotten worse.
+- 09/24 23:10 [FirstSquawk] FED'S PAULSON: US CENTRAL BANK MAY NEED TO RAISE INTEREST RATES AGAIN TO LOWER INFLATION || SEPTEMBER RATE HIKE HELPED MOVE POLICY TO BETTER INFLATION-FIGHTING POSTURE
+- 09/24 23:11 [financialjuice] Fed's Paulson: The AI buildout is helping drive inflation pressures.
+- 09/24 23:11 [financialjuice] Fed's Paulson: Underlying inflation remains stubbornly high.
+- 09/24 23:11 [FirstSquawk] FED'S PAULSON: INFLATION BALANCE OF RISKS SHIFTED AHEAD OF SEPTEMBER POLICY MEETING || AI BUILDOUT HELPING DRIVE INFLATION PRESSURES
+- 09/24 23:11 [FirstSquawk] FED'S PAULSON SAYS SHE WILL SUPPORT DOING WHAT'S NEEDED TO GET INFLATION BACK TO 2% || BEST YOU CAN SAY ABOUT INFLATION IS THAT IT HAS NOT GOTTEN WORSE
+- 09/24 23:11 [financialjuice] Fed's Paulson: The economy is resilient, and showing signs of increased momentum.
+- 09/24 23:14 [FirstSquawk] ECB: ISABEL SCHNABEL TO RESIGN FROM THE BOARD
+- 09/24 23:14 [DeItaone] ECB: ISABEL SCHNABEL TO RESIGN FROM THE BOARD ECB: SHE WILL STEP DOWN FROM HER POSITION ON 3 JANUARY 2027.
+- 09/24 23:14 [FirstSquawk] ECB: SHE WILL STEP DOWN FROM HER POSITION ON 3 JANUARY 2027.
+- 09/24 23:15 [financialjuice] ECB: ECB's Schnabel is going to be appointed to the IMF financial counsellor and director of the monetary and capital markets department, she will step down from her ECB position on 3rd January 2027.
+- 09/24 23:17 [financialjuice] Fear and Greed Index: 35/100 = Fear

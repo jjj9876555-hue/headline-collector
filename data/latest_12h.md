@@ -7,37 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 22:54 JST／対象: 09/24 10:54 〜 09/24 22:54 JST（時刻はすべて日本時間）
+生成: 2026-09-24 23:18 JST／対象: 09/24 11:18 〜 09/24 23:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/24 21:26 | 09/24 22:39 | 18分（22:06→22:24） |
-| FirstSquawk | 192 | 09/24 10:59 | 09/24 22:49 | 25分（12:09→12:34） |
-| financialjuice | 112 | 09/24 11:04 | 09/24 22:54 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 29 | 09/24 21:26 | 09/24 23:14 | 20分（22:39→22:59） |
+| FirstSquawk | 190 | 09/24 11:19 | 09/24 23:14 | 25分（12:09→12:34） |
+| financialjuice | 123 | 09/24 11:33 | 09/24 23:17 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 316 行（統合前 328 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 330 行（統合前 342 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 10:59 [FirstSquawk] Euro drops below 1.1400 as expectations of Fed hikes lift the US Dollar - FX
-- 09/24 11:02 [FirstSquawk] 5-year Japanese government bond yield rises to record 2.345%, up 7 bps
-- 09/24 11:04 [financialjuice] OpenAI: ChatGPT ads to start launching across Indonesia, Malaysia, Philippines, Singapore, Thailand, Vietnam, and Taiwan
-- 09/24 11:05 [FirstSquawk] ChatGPT ads set to launch in Indonesia, Malaysia, Philippines, Singapore, Thailand, Vietnam and Taiwan
-- 09/24 11:08 [FirstSquawk] North Korea FM says denuclearization is an unrealistic delusion, KCNA reports
-- 09/24 11:08 [financialjuice] North Korea foreign minister: denuclearization an unrealistic delusion - KCNA
-- 09/24 11:10 [financialjuice] North Korea foreign minister: nuclear status irreversible and will last indefinitely
-- 09/24 11:10 [FirstSquawk] North Korea’s foreign minister says its nuclear status is irreversible
-- 09/24 11:11 [financialjuice] North Korea foreign minister: US and allies' denuclearization push only bolsters our position
-- 09/24 11:12 [FirstSquawk] North Korea’s foreign minister says calls for denuclearization strengthen its stance against the U.S.
-- 09/24 11:13 [FirstSquawk] VietJet Air plans Starlink deployment across 120 aircraft, future fleet
-- 09/24 11:14 [FirstSquawk] VietJet Air signs Starlink deal to bring high-speed internet to flights across global network
-- 09/24 11:17 [financialjuice] Google nears launch of flagship Gemini 4 AI model: The Information
-- 09/24 11:18 [FirstSquawk] Google close to unveiling next-generation Gemini 4 AI model, The Information says
 - 09/24 11:19 [FirstSquawk] Indonesian rupiah drops to 17,900 per dollar, weakest in over a month
 - 09/24 11:27 [FirstSquawk] Crude oil falls after bigger-than-expected increase in U.S. stockpiles - WSJ
 - 09/24 11:27 [FirstSquawk] Asian currencies come under pressure as Treasury yields climb sharply - WSJ
@@ -340,3 +326,31 @@
 - 09/24 22:52 [financialjuice] Trump Greets China’s President Xi - WATCH LIVE
 - 09/24 22:53 [financialjuice] BoE Breeden: Unlike in 2022, we're starting at a point where policy is restrictive.
 - 09/24 22:54 [financialjuice] BoE Breeden: We have to take a meeting-by-meeting approach to the rate decisions.
+- 09/24 22:54 [financialjuice] BoE Breeden: The question for me is whether we need to do a first move, there is more uncertainty about whether we need to do lots more.
+- 09/24 22:56 [financialjuice] BoE Breeden: We may find over time that we need to do a lot more.
+- 09/24 22:57 [financialjuice] BoE Breeden: It is incredibly important that the BoE has set out a plan to exit QE, it makes it a more credible tool.
+- 09/24 22:59 [DeItaone] CNN, MS NOW, POLITICO REQUEST IMMEDIATE COURT HEARING AFTER BEING BLOCKED FROM WHITE HOUSE GROUNDS ON THURSDAY -FILING
+- 09/24 23:00 [DeItaone] US AUG SINGLE-FAMILY HOME SALES 0.684 MLN UNIT ANN. RATE, (CONS 0.615 MLN) US AUG SINGLE-FAMILY HOME SALES +6.4%
+- 09/24 23:00 [financialjuice] US NEW HOME SALES CHANGE MOM ACTUAL 6.4% (FORECAST 1.3%, PREVIOUS -10.5%) $MACRO
+- 09/24 23:00 [financialjuice] US NEW HOME SALES - UNITS ACTUAL 0.684M (FORECAST 0.6155M, PREVIOUS 0.607M) $MACRO
+- 09/24 23:01 [financialjuice] US New Home Sales August Report
+- 09/24 23:01 [FirstSquawk] US New Home Sales Aug: 684K (est 616K; prev 607K; prev R 643K)
+- 09/24 23:05 [DeItaone] FED'S PAULSON SAYS SEPTEMBER'S INFLATION REPORTS DROVE RATE HIKE
+- 09/24 23:06 [FirstSquawk] SENATE WILL RETURN TO DC NEXT WEEK, SENATE REPUBLICAN AIDE SAYS
+- 09/24 23:08 [financialjuice] Trump greets China’s President Xi at the White House ahead of bilateral talks.
+- 09/24 23:10 [financialjuice] ❗ Fed's Paulson: The US central bank may need to raise interest rates again to lower inflation.
+- 09/24 23:10 [financialjuice] Fed's Paulson: September rate hike helped move policy to better inflation-fighting posture.
+- 09/24 23:10 [financialjuice] Fed's Paulson: I will support doing what's needed to get inflation back to 2%.
+- 09/24 23:10 [DeItaone] FED’S PAULSON SIGNALS ANOTHER RATE HIKE Fed’s Paulson says the central bank may need to raise rates again as underlying inflation remains “stubbornly high.” She said September’s hike put policy in a better inflation-fighting position and pl…
+- 09/24 23:10 [financialjuice] Fed's Paulson: The best you can say about inflation is that it has not gotten worse.
+- 09/24 23:10 [FirstSquawk] FED'S PAULSON: US CENTRAL BANK MAY NEED TO RAISE INTEREST RATES AGAIN TO LOWER INFLATION || SEPTEMBER RATE HIKE HELPED MOVE POLICY TO BETTER INFLATION-FIGHTING POSTURE
+- 09/24 23:11 [financialjuice] Fed's Paulson: The AI buildout is helping drive inflation pressures.
+- 09/24 23:11 [financialjuice] Fed's Paulson: Underlying inflation remains stubbornly high.
+- 09/24 23:11 [FirstSquawk] FED'S PAULSON: INFLATION BALANCE OF RISKS SHIFTED AHEAD OF SEPTEMBER POLICY MEETING || AI BUILDOUT HELPING DRIVE INFLATION PRESSURES
+- 09/24 23:11 [FirstSquawk] FED'S PAULSON SAYS SHE WILL SUPPORT DOING WHAT'S NEEDED TO GET INFLATION BACK TO 2% || BEST YOU CAN SAY ABOUT INFLATION IS THAT IT HAS NOT GOTTEN WORSE
+- 09/24 23:11 [financialjuice] Fed's Paulson: The economy is resilient, and showing signs of increased momentum.
+- 09/24 23:14 [FirstSquawk] ECB: ISABEL SCHNABEL TO RESIGN FROM THE BOARD
+- 09/24 23:14 [DeItaone] ECB: ISABEL SCHNABEL TO RESIGN FROM THE BOARD ECB: SHE WILL STEP DOWN FROM HER POSITION ON 3 JANUARY 2027.
+- 09/24 23:14 [FirstSquawk] ECB: SHE WILL STEP DOWN FROM HER POSITION ON 3 JANUARY 2027.
+- 09/24 23:15 [financialjuice] ECB: ECB's Schnabel is going to be appointed to the IMF financial counsellor and director of the monetary and capital markets department, she will step down from her ECB position on 3rd January 2027.
+- 09/24 23:17 [financialjuice] Fear and Greed Index: 35/100 = Fear

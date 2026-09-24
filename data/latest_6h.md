@@ -7,30 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 22:54 JST／対象: 09/24 16:54 〜 09/24 22:54 JST（時刻はすべて日本時間）
+生成: 2026-09-24 23:18 JST／対象: 09/24 17:18 〜 09/24 23:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 24 | 09/24 21:26 | 09/24 22:39 | 18分（22:06→22:24） |
-| FirstSquawk | 113 | 09/24 17:01 | 09/24 22:49 | 22分（18:38→19:01） |
-| financialjuice | 87 | 09/24 17:36 | 09/24 22:54 | 30分（20:25→20:56） |
+| DeItaone | 29 | 09/24 21:26 | 09/24 23:14 | 20分（22:39→22:59） |
+| FirstSquawk | 113 | 09/24 17:24 | 09/24 23:14 | 22分（18:38→19:01） |
+| financialjuice | 103 | 09/24 17:36 | 09/24 23:17 | 30分（20:25→20:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 212 行（統合前 224 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 233 行（統合前 245 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 17:01 [FirstSquawk] LOMBARDELLI: POLICY IS INCREASINGLY LIKELY TO NEED TO TIGHTEN IF ELEVATED ENERGY PRICES PERSIST, ABSENT CLEAR EVIDENCE OF DISINFLATION OR WEAKER ACTIVITY
-- 09/24 17:01 [FirstSquawk] LOMBARDELLI: WAGE GROWTH REMAINS TOO HIGH TO BE CONSISTENT WITH INFLATION TARGET
-- 09/24 17:01 [FirstSquawk] LOMBARDELLI: I'M NO MEANS SUGGESTING THAT MONETARY POLICY SHOULD RESPOND MECHANICALLY TO MOVEMENTS IN ENERGY PRICES
-- 09/24 17:02 [FirstSquawk] LOMBARDELLI: KEY ISSUE IS NOT THE SPOT PRICE OF ENERGY ITSELF BUT THE INTERACTION OF THE UNDERLYING ECONOMY, HIGHER ENERGY PRICES, AND THE NATURE OF THEIR TRANSMISSION
-- 09/24 17:02 [FirstSquawk] LOMBARDELLI: THAT, ULTIMATELY, IS WHAT WILL DETERMINE WHETHER BANK RATE NEEDS TO RISE
-- 09/24 17:06 [FirstSquawk] NORGES BANK SEES 2026 CPI-ATE OF 3% SAW 3.2% IN JUNE || SEES 2027 CPI-ATE OF 2.7%; SAW 2.8% IN JUNE NOW || SEES KEY RATE AT 4.51% IN Q4 2026 || NOW SEES KEY RATE AT 4.57% IN Q1 2027 || NOW SEES KEY RATE AT 4.60% IN Q2 2027
-- 09/24 17:14 [FirstSquawk] BRENT OIL FUTURES CLIMB 2.2 PCT TO SESSION HIGH OF $105.38/BBL
 - 09/24 17:24 [FirstSquawk] WILLIAMS: TIME FOR EXPLICIT, VERY DIRECT FORWARD GUIDANCE IS OVER
 - 09/24 17:28 [FirstSquawk] U.S. 30-YEAR TREASURY YIELD RISES TO HIGHEST SINCE 2004
 - 09/24 17:31 [FirstSquawk] WILLIAMS: I SEE A TUG OF WAR BETWEEN HIGHER TREND GROWTH PUSHING UP U.S. R-START AND DEMOGRAPHICS PULLING IT DOWN
@@ -236,3 +229,31 @@
 - 09/24 22:52 [financialjuice] Trump Greets China’s President Xi - WATCH LIVE
 - 09/24 22:53 [financialjuice] BoE Breeden: Unlike in 2022, we're starting at a point where policy is restrictive.
 - 09/24 22:54 [financialjuice] BoE Breeden: We have to take a meeting-by-meeting approach to the rate decisions.
+- 09/24 22:54 [financialjuice] BoE Breeden: The question for me is whether we need to do a first move, there is more uncertainty about whether we need to do lots more.
+- 09/24 22:56 [financialjuice] BoE Breeden: We may find over time that we need to do a lot more.
+- 09/24 22:57 [financialjuice] BoE Breeden: It is incredibly important that the BoE has set out a plan to exit QE, it makes it a more credible tool.
+- 09/24 22:59 [DeItaone] CNN, MS NOW, POLITICO REQUEST IMMEDIATE COURT HEARING AFTER BEING BLOCKED FROM WHITE HOUSE GROUNDS ON THURSDAY -FILING
+- 09/24 23:00 [DeItaone] US AUG SINGLE-FAMILY HOME SALES 0.684 MLN UNIT ANN. RATE, (CONS 0.615 MLN) US AUG SINGLE-FAMILY HOME SALES +6.4%
+- 09/24 23:00 [financialjuice] US NEW HOME SALES CHANGE MOM ACTUAL 6.4% (FORECAST 1.3%, PREVIOUS -10.5%) $MACRO
+- 09/24 23:00 [financialjuice] US NEW HOME SALES - UNITS ACTUAL 0.684M (FORECAST 0.6155M, PREVIOUS 0.607M) $MACRO
+- 09/24 23:01 [financialjuice] US New Home Sales August Report
+- 09/24 23:01 [FirstSquawk] US New Home Sales Aug: 684K (est 616K; prev 607K; prev R 643K)
+- 09/24 23:05 [DeItaone] FED'S PAULSON SAYS SEPTEMBER'S INFLATION REPORTS DROVE RATE HIKE
+- 09/24 23:06 [FirstSquawk] SENATE WILL RETURN TO DC NEXT WEEK, SENATE REPUBLICAN AIDE SAYS
+- 09/24 23:08 [financialjuice] Trump greets China’s President Xi at the White House ahead of bilateral talks.
+- 09/24 23:10 [financialjuice] ❗ Fed's Paulson: The US central bank may need to raise interest rates again to lower inflation.
+- 09/24 23:10 [financialjuice] Fed's Paulson: September rate hike helped move policy to better inflation-fighting posture.
+- 09/24 23:10 [financialjuice] Fed's Paulson: I will support doing what's needed to get inflation back to 2%.
+- 09/24 23:10 [DeItaone] FED’S PAULSON SIGNALS ANOTHER RATE HIKE Fed’s Paulson says the central bank may need to raise rates again as underlying inflation remains “stubbornly high.” She said September’s hike put policy in a better inflation-fighting position and pl…
+- 09/24 23:10 [financialjuice] Fed's Paulson: The best you can say about inflation is that it has not gotten worse.
+- 09/24 23:10 [FirstSquawk] FED'S PAULSON: US CENTRAL BANK MAY NEED TO RAISE INTEREST RATES AGAIN TO LOWER INFLATION || SEPTEMBER RATE HIKE HELPED MOVE POLICY TO BETTER INFLATION-FIGHTING POSTURE
+- 09/24 23:11 [financialjuice] Fed's Paulson: The AI buildout is helping drive inflation pressures.
+- 09/24 23:11 [financialjuice] Fed's Paulson: Underlying inflation remains stubbornly high.
+- 09/24 23:11 [FirstSquawk] FED'S PAULSON: INFLATION BALANCE OF RISKS SHIFTED AHEAD OF SEPTEMBER POLICY MEETING || AI BUILDOUT HELPING DRIVE INFLATION PRESSURES
+- 09/24 23:11 [FirstSquawk] FED'S PAULSON SAYS SHE WILL SUPPORT DOING WHAT'S NEEDED TO GET INFLATION BACK TO 2% || BEST YOU CAN SAY ABOUT INFLATION IS THAT IT HAS NOT GOTTEN WORSE
+- 09/24 23:11 [financialjuice] Fed's Paulson: The economy is resilient, and showing signs of increased momentum.
+- 09/24 23:14 [FirstSquawk] ECB: ISABEL SCHNABEL TO RESIGN FROM THE BOARD
+- 09/24 23:14 [DeItaone] ECB: ISABEL SCHNABEL TO RESIGN FROM THE BOARD ECB: SHE WILL STEP DOWN FROM HER POSITION ON 3 JANUARY 2027.
+- 09/24 23:14 [FirstSquawk] ECB: SHE WILL STEP DOWN FROM HER POSITION ON 3 JANUARY 2027.
+- 09/24 23:15 [financialjuice] ECB: ECB's Schnabel is going to be appointed to the IMF financial counsellor and director of the monetary and capital markets department, she will step down from her ECB position on 3rd January 2027.
+- 09/24 23:17 [financialjuice] Fear and Greed Index: 35/100 = Fear
