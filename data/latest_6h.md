@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 10:59 JST／対象: 09/24 04:59 〜 09/24 10:59 JST（時刻はすべて日本時間）
+生成: 2026-09-24 11:17 JST／対象: 09/24 05:17 〜 09/24 11:17 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 2 | 09/24 05:25 | 09/24 05:51 | 25分（05:25→05:51） |
-| FirstSquawk | 69 | 09/24 05:01 | 09/24 10:52 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 72 | 09/24 05:10 | 09/24 10:41 | 42分（05:39→06:22） |
+| FirstSquawk | 69 | 09/24 05:25 | 09/24 11:14 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 75 | 09/24 05:25 | 09/24 11:17 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 141 行（統合前 143 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 144 行（統合前 146 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 05:01 [FirstSquawk] NASDAQ CLOSES 1.18% LOWER AT 26,922.95, DOWN 321.33 POINTS S&P 500 CLOSES 0.80% LOWER AT 7,702.65, DOWN 61.99 POINTS DOW JONES CLOSES 0.69% LOWER AT 51,503.27, DOWN 360.42 POINTS
-- 09/24 05:05 [FirstSquawk] H.B. FULLER POSTED Q3 REVENUE OF $938 MLN, BELOW THE IBES ESTIMATE OF $948.2 MLN, WITH ADJUSTED EPS OF $1.52 VERSUS $1.47 EXPECTED AND ADJUSTED NET INCOME OF $83 MLN.
-- 09/24 05:05 [FirstSquawk] H.B. FULLER SEES FY ADJUSTED EPS OF $4.70-$4.85 VERSUS A $4.85 ESTIMATE, WITH FY ADJUSTED EBITDA OF $655-$670 MLN.
-- 09/24 05:06 [FirstSquawk] SENATE MAJORITY LEADER JOHN THUNE TOLD AXIOS THAT TRUMP IS 'NOT REALLY DUG IN' AGAINST AI GUARDRAILS, DESPITE PUBLICLY DISMISSING AI SAFETY FEARS AS A 'HOAX', ADDING THAT HE BELIEVES AI THREATS ARE REAL AND SUPPORTS LEGISLATION REQUIRING CO…
-- 09/24 05:06 [FirstSquawk] THUNE'S BIPARTISAN BILL WITH SEN. AMY KLOBUCHAR IS STILL BEING NEGOTIATED, WITH DEMOCRATS PUSHING FOR MANDATORY PRE-DEPLOYMENT TESTING AND STRONGER FEDERAL RULEMAKING POWERS - AXIOS
-- 09/24 05:06 [FirstSquawk] KREMLIN SAYS IT WELCOMES THE U.S. INVITATION FOR PUTIN TO ATTEND THE G20 SUMMIT, ADDING THAT THE MATTER WILL BE HANDLED THROUGH DIPLOMATIC CHANNELS
-- 09/24 05:08 [FirstSquawk] IRAN INTERNATIONAL, CITING STATE MEDIA, REPORTS THAT IRGC SPOKESMAN HOSSEIN MOHEBBI SAID IRANIAN PRESIDENT MASOUD PEZESHKIAN'S SPEECH AT THE UNITED NATIONS PROJECTED 'POWER, PRIDE, NATIONAL DIGNITY AND HOPE'. MOHEBBI SAID THAT 'TODAY, AT TH…
-- 09/24 05:10 [financialjuice] ❗ China is holding sensitive F-35 parts diverted to Hong Kong
-- 09/24 05:11 [financialjuice] Pentagon: We're working to retrieve stealthy jet parts.
-- 09/24 05:12 [FirstSquawk] CHINA HOLDS SENSITIVE F-35 PARTS DIVERTED TO HONG KONG; PENTAGON WORKING TO RETRIEVE STEALTH JET COMPONENTS AFTER UPS FLIGHT WAS DIVERTED EN ROUTE TO US
 - 09/24 05:25 [financialjuice] Australia's PM Albanese: OpenAI model hacked Services Australia
 - 09/24 05:25 [FirstSquawk] U.S. ENVOY KRATSIOS TOLD THE UN SECURITY COUNCIL THAT THE U.S. 'REJECTS ANY ATTEMPTS TO CONSTRUCT A GLOBAL SCHEME TO CONTROL AI', SAYING THERE IS 'NO REASON TO PAUSE RAPIDLY ADVANCING AI OR CONSTRAIN IT WITH GLOBAL GOVERNANCE' AND THAT 'YOU…
 - 09/24 05:25 [FirstSquawk] FRENCH FOREIGN MINISTER SAID THE INTERNATIONAL COMMUNITY NEEDS TO ESTABLISH A COMMON FRAMEWORK TO MANAGE AI RISKS, WHILE BRITAIN'S FOREIGN SECRETARY SAID THE WORLD 'CANNOT IGNORE WARNINGS FROM AI LEADERS'.
@@ -165,3 +155,16 @@
 - 09/24 10:41 [FirstSquawk] Katayama: Japan won’t comment on specific forex levels
 - 09/24 10:46 [FirstSquawk] Osaka rubber futures climb 5.25% to highest level in 15 years
 - 09/24 10:52 [FirstSquawk] Xi receives rare welcome from Trump at military base before summit - YONHAP
+- 09/24 10:59 [FirstSquawk] Euro drops below 1.1400 as expectations of Fed hikes lift the US Dollar - FX
+- 09/24 11:02 [FirstSquawk] 5-year Japanese government bond yield rises to record 2.345%, up 7 bps
+- 09/24 11:04 [financialjuice] OpenAI: ChatGPT ads to start launching across Indonesia, Malaysia, Philippines, Singapore, Thailand, Vietnam, and Taiwan
+- 09/24 11:05 [FirstSquawk] ChatGPT ads set to launch in Indonesia, Malaysia, Philippines, Singapore, Thailand, Vietnam and Taiwan
+- 09/24 11:08 [FirstSquawk] North Korea FM says denuclearization is an unrealistic delusion, KCNA reports
+- 09/24 11:08 [financialjuice] North Korea foreign minister: denuclearization an unrealistic delusion - KCNA
+- 09/24 11:10 [financialjuice] North Korea foreign minister: nuclear status irreversible and will last indefinitely
+- 09/24 11:10 [FirstSquawk] North Korea’s foreign minister says its nuclear status is irreversible
+- 09/24 11:11 [financialjuice] North Korea foreign minister: US and allies' denuclearization push only bolsters our position
+- 09/24 11:12 [FirstSquawk] North Korea’s foreign minister says calls for denuclearization strengthen its stance against the U.S.
+- 09/24 11:13 [FirstSquawk] VietJet Air plans Starlink deployment across 120 aircraft, future fleet
+- 09/24 11:14 [FirstSquawk] VietJet Air signs Starlink deal to bring high-speed internet to flights across global network
+- 09/24 11:17 [financialjuice] Google nears launch of flagship Gemini 4 AI model: The Information
