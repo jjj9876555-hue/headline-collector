@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 23:54 JST／対象: 09/24 17:54 〜 09/24 23:54 JST（時刻はすべて日本時間）
+生成: 2026-09-25 00:18 JST／対象: 09/24 18:18 〜 09/25 00:18 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 50 | 09/24 21:26 | 09/24 23:54 | 20分（22:39→22:59） |
-| FirstSquawk | 139 | 09/24 18:05 | 09/24 23:52 | 22分（18:38→19:01） |
-| financialjuice | 134 | 09/24 18:09 | 09/24 23:52 | 30分（20:25→20:56） |
+| DeItaone | 54 | 09/24 21:26 | 09/25 00:16 | 20分（22:39→22:59） |
+| FirstSquawk | 140 | 09/24 18:23 | 09/25 00:14 | 22分（18:38→19:01） |
+| financialjuice | 141 | 09/24 18:23 | 09/25 00:15 | 30分（20:25→20:56） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 308 行（統合前 324 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 320 行（統合前 336 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 18:05 [FirstSquawk] TRUMP ALLIES OPEN NEW FRONT AGAINST ANTHROPIC CEO OVER AI "DOOMERISM" - AXIOS
-- 09/24 18:05 [FirstSquawk] SAUDI ARAMCO CEO SAYS WILL CONTINUE TO SUPPLY JAPAN - NIKKEI
-- 09/24 18:05 [FirstSquawk] SAUDI ARAMCO STUDYING 4TH, 5TH ROUTES FOR CRUDE OIL - NIKKEI
-- 09/24 18:07 [FirstSquawk] WILLIAMS: SHORT RUN INFLATION EXPECTATIONS HAVE BEEN ENCOURAGING, FOR LONG TERM HAVE NOT
-- 09/24 18:09 [financialjuice] Saudi Aramco CEO: Will continue to supply Japan -Nikkei
 - 09/24 18:23 [FirstSquawk] PBOC: CONVENES MONETARY POLICY COMMITTEE 3Q MEETING
 - 09/24 18:23 [FirstSquawk] PBOC SAYS TO MAKE POLICIES MORE TARGETED
 - 09/24 18:23 [financialjuice] China Central Bank: To step up counter-cyclical adjustments
@@ -332,3 +327,20 @@
 - 09/24 23:52 [FirstSquawk] YEMEN'S HOUTHIS CLAIM ATTACKS ON SAUDI ARABIA'S JAZAN
 - 09/24 23:52 [financialjuice] Yemen's Houthis claim responsibility for the attacks on Saudi Arabia's Jazan.
 - 09/24 23:52 [FirstSquawk/DeItaone] PEPSICO IS RAISING PRICES ON SOME CHIPS, DIPS AND SODA
+- 09/25 00:00 [FirstSquawk] NOMURA: NORGES BANK RATE SEEN ON PAUSE UNTIL 2028, PREVIOUSLY SAW CUT IN 2027
+- 09/25 00:00 [financialjuice] KANSAS CITY FED COMPOSITE INDEX ACTUAL 14 (FORECAST 8.5, PREVIOUS 10) $MACRO
+- 09/25 00:01 [DeItaone] US TREASURY SAYS WILL BUY UP TO $6 BLN OF 20-30 YEAR DEBT IN SEPTEMBER 24 LIQUIDITY BUYBACK
+- 09/25 00:01 [financialjuice] US Treasury will buy up to $6 bln of 20-30 year debt in it's September 24th liquidity buyback.
+- 09/25 00:01 [financialjuice] KANSAS CITY FED MANUFACTURING ACTUAL 20 (FORECAST -, PREVIOUS 17) $MACRO
+- 09/25 00:01 [DeItaone] OIL FUTURES EXTEND GAINS, BRENT CRUDE UP BY $4 A BARREL AFTER YEMEN'S HOUTHIS SAY THEY ATTACKED SAUDI MILITARY SITES IN JAZAN
+- 09/25 00:05 [FirstSquawk] US NATURAL GAS FUTURES JUMP AS MUCH AS 5% AFTER PIPELINE ISSUE
+- 09/25 00:05 [FirstSquawk] RUSSIA CUTS 2026 OIL PRODUCT EXPORT OUTLOOK BY 24M TONS TO 98.5M TONS - IFX
+- 09/25 00:07 [financialjuice] Trump & Xi Attend a US Military Review - WATCH LIVE
+- 09/25 00:08 [financialjuice] Pakistan PM meets the Iranian President on the sidelines of the UNGA.
+- 09/25 00:11 [FirstSquawk] ISRAELI SOURCE: A NEW ROUND OF STRIKES AGAINST IRAN APPEARS TO BE A MATTER OF TIME.. AND WE WILL MOVE TO STRIKE NUCLEAR FACILITIES AGAIN IF TEHRAN CROSSES THE RED LINES
+- 09/25 00:12 [financialjuice] UAE's Civil Aviation suspends flights of iranian companies from and to the country starting Thursday until further notice- UAE State News Agency.
+- 09/25 00:13 [DeItaone] UAE'S CIVIL AVIATION SUSPENDS FLIGHTS OF IRANIAN COMPANIES FROM AND TO THE COUNTRY STRATING THURSDAY UNTIL FURTHER NOTICE- UAE STATE NEWS AGENCY UAE SAYS DECISION IS BASED ON US SANCTIONS ON IRANIAN AIRLINES USING AIRPORTS
+- 09/25 00:14 [financialjuice] UAE: The decision is based on US sanctions on Iranian airlines using airports.
+- 09/25 00:14 [FirstSquawk] UAE’S CIVIL AVIATION AUTHORITY SUSPENDS FLIGHTS BY IRANIAN AIRLINES TO AND FROM THE UAE
+- 09/25 00:15 [financialjuice] Fed bids for 4-week bills total $7.4 bln.
+- 09/25 00:16 [DeItaone] DOLLAR/YEN UP 0.42% AT 158.96 AFTER HITTING 158.98, HIGHEST SINCE SEPTEMBER 2
