@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 18:35 JST／対象: 09/24 12:35 〜 09/24 18:35 JST（時刻はすべて日本時間）
+生成: 2026-09-24 18:52 JST／対象: 09/24 12:52 〜 09/24 18:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 85 | 09/24 12:35 | 09/24 18:26 | 22分（17:43→18:05） |
-| financialjuice | 27 | 09/24 12:41 | 09/24 18:23 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 82 | 09/24 12:54 | 09/24 18:38 | 22分（17:43→18:05） |
+| financialjuice | 31 | 09/24 13:01 | 09/24 18:52 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 112 行（統合前 112 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 112 行（統合前 113 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 12:35 [FirstSquawk] Hong Kong improves property market transparency ranking, remains behind Singapore - SCMP
-- 09/24 12:41 [financialjuice] PAM secures most seats in Morocco's parliamentary election
-- 09/24 12:44 [FirstSquawk] Vietnam’s Vinhomes to raise $308M through domestic bond issuance
-- 09/24 12:44 [FirstSquawk] Canada’s Carney prepares for potential U.S.-led military invasion, according to CTV
-- 09/24 12:46 [FirstSquawk] Vinhomes: Bond issuance to feature maturities of up to 2 years with fixed and floating rates
 - 09/24 12:54 [FirstSquawk] AI leaders caution U.N. over security risks from increasingly powerful systems - KYODO
 - 09/24 12:57 [FirstSquawk] 10-year JGB yield jumps 9 bps to 3.065%
 - 09/24 13:01 [financialjuice] Ten commodity ships pass Strait of Hormuz on Wednesday against 10-day moving average near 17, data shows
@@ -136,3 +131,8 @@
 - 09/24 18:26 [FirstSquawk] KREMLIN SAYS NO DECISION HAS BEEN TAKEN ABOUT A TRUMP-PUTIN SUMMIT IN DECEMBER, TOO EARLY TO TALK ABOUT POSSIBLE AGENDA
 - 09/24 18:26 [FirstSquawk] KREMLIN: REITERATES THAT RUSSIA WANTS A PEACE SETTLEMENT ON UKRAINE, NOT A TEMPORARY CEASEFIRE
 - 09/24 18:26 [FirstSquawk] KREMLIN: EU DECISION TO TRANSFER REVENUE FROM FROZEN RUSSIAN ASSETS TO UKRAINE IS ILLEGAL, IT'S THEFT
+- 09/24 18:38 [FirstSquawk/financialjuice] ALL IRANIAN AIRLINE FLIGHTS TO UAE CANCELLED - ISNA
+- 09/24 18:51 [financialjuice] BoE's Dhingra: Financial conditions have done a lot of tightening work already in the UK
+- 09/24 18:51 [financialjuice] BoE's Dhingra: I am encouraged by what we're seeing on pricing
+- 09/24 18:51 [financialjuice] BoE's Dhingra: A lot of financial tightening has taken place
+- 09/24 18:52 [financialjuice] BoE's Dhingra: We are not seeing broad-based price rises like those that happened in 2022

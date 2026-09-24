@@ -7,25 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 18:35 JST／対象: 09/24 06:35 〜 09/24 18:35 JST（時刻はすべて日本時間）
+生成: 2026-09-24 18:52 JST／対象: 09/24 06:52 〜 09/24 18:52 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 166 | 09/24 06:44 | 09/24 18:26 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 96 | 09/24 06:36 | 09/24 18:23 | ⚠ 108分（15:47→17:36） |
+| FirstSquawk | 166 | 09/24 08:16 | 09/24 18:38 | 25分（12:09→12:34） |
+| financialjuice | 99 | 09/24 06:57 | 09/24 18:52 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 260 行（統合前 262 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 263 行（統合前 265 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 06:36 [financialjuice/FirstSquawk] Chinese President Xi Jinping arrives for state visit to U.S.: Xinhua
-- 09/24 06:39 [financialjuice] OpenAI: alerted services in Australia about incident on Sept. 10
 - 09/24 06:57 [financialjuice] Morocco's parliamentary election turnout at 38.02%, interior ministry says
 - 09/24 07:06 [financialjuice] US Treasury Secretary Bessent: U.S., China agreed Wednesday to prolong Busan agreement
 - 09/24 07:13 [financialjuice/FirstSquawk] US Treasury Secretary Bessent: reports that he will likely be Trump's al czar are probably fake news
@@ -284,3 +282,8 @@
 - 09/24 18:26 [FirstSquawk] KREMLIN SAYS NO DECISION HAS BEEN TAKEN ABOUT A TRUMP-PUTIN SUMMIT IN DECEMBER, TOO EARLY TO TALK ABOUT POSSIBLE AGENDA
 - 09/24 18:26 [FirstSquawk] KREMLIN: REITERATES THAT RUSSIA WANTS A PEACE SETTLEMENT ON UKRAINE, NOT A TEMPORARY CEASEFIRE
 - 09/24 18:26 [FirstSquawk] KREMLIN: EU DECISION TO TRANSFER REVENUE FROM FROZEN RUSSIAN ASSETS TO UKRAINE IS ILLEGAL, IT'S THEFT
+- 09/24 18:38 [FirstSquawk/financialjuice] ALL IRANIAN AIRLINE FLIGHTS TO UAE CANCELLED - ISNA
+- 09/24 18:51 [financialjuice] BoE's Dhingra: Financial conditions have done a lot of tightening work already in the UK
+- 09/24 18:51 [financialjuice] BoE's Dhingra: I am encouraged by what we're seeing on pricing
+- 09/24 18:51 [financialjuice] BoE's Dhingra: A lot of financial tightening has taken place
+- 09/24 18:52 [financialjuice] BoE's Dhingra: We are not seeing broad-based price rises like those that happened in 2022
