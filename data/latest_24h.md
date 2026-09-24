@@ -7,27 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 14:58 JST／対象: 09/23 14:58 〜 09/24 14:58 JST（時刻はすべて日本時間）
+生成: 2026-09-24 15:23 JST／対象: 09/23 15:23 〜 09/24 15:23 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 294 | 09/23 15:00 | 09/24 14:43 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 277 | 09/23 15:22 | 09/24 14:46 | ⚠ 71分（18:33→19:45） |
+| FirstSquawk | 297 | 09/23 15:23 | 09/24 15:20 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 276 | 09/23 16:01 | 09/24 14:46 | ⚠ 71分（18:33→19:45） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 634 行（統合前 656 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 636 行（統合前 658 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 15:00 [FirstSquawk] EuroStoxx 50 futures up 0.31% as DAX and FTSE futures gain 0.35% and 0.36%
-- 09/23 15:11 [FirstSquawk] Russian forces strike port infrastructure in Ukraine’s Odesa region, governor says
-- 09/23 15:21 [FirstSquawk] Oil price on track for longest losing streak in more than 12 months - FT
-- 09/23 15:22 [financialjuice] Iran's Deputy Oil Minister: Half of the damaged capacity of the South Pars gas field is back in production - Fars News
 - 09/23 15:23 [FirstSquawk] Half of damaged South Pars gas capacity resumes production, Iran says - Fars News
 - 09/23 15:33 [FirstSquawk] TotalEnergies starts Ima gas project to support Nigeria LNG plant
 - 09/23 15:51 [FirstSquawk] GBP/USD tests support near 1.3300, UOB says
@@ -658,3 +654,9 @@
 - 09/24 14:43 [FirstSquawk] Saudi merchandise exports plunge 17.2% in July 2026, govt data shows
 - 09/24 14:45 [financialjuice] ECB's Kocher: Eurozone economy remains fragile
 - 09/24 14:46 [financialjuice] ECB's Kocher: Signs of somewhat more Eurozone momentum since summer
+- 09/24 14:59 [FirstSquawk] JPMorgan lowers McDonald’s target price to $260 from $280
+- 09/24 15:02 [FirstSquawk] U.S. stock futures weaken as S&P 500 futures fall 0.37%, Nasdaq futures 0.45%
+- 09/24 15:03 [FirstSquawk] NORWAY CREDIT INDICATOR GROWTH (Y/Y) AUG: 4.5% (PREV 4.3%)
+- 09/24 15:14 [FirstSquawk] Russia says its forces struck a tanker in the Black Sea: IFX
+- 09/24 15:18 [FirstSquawk] Polish Army: Poland again launches preventive air operations linked to Russian strikes on Ukraine
+- 09/24 15:20 [FirstSquawk] German FM Wadephul urges immediate ceasefire in Ukraine, starting in Black Sea to secure grain flows
