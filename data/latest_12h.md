@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 21:50 JST／対象: 09/24 09:50 〜 09/24 21:50 JST（時刻はすべて日本時間）
+生成: 2026-09-24 22:03 JST／対象: 09/24 10:03 〜 09/24 22:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 16 | 09/24 21:26 | 09/24 21:46 | 2分（21:39→21:42） |
-| FirstSquawk | 186 | 09/24 09:52 | 09/24 21:48 | 25分（12:09→12:34） |
-| financialjuice | 95 | 09/24 10:01 | 09/24 21:48 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 19 | 09/24 21:26 | 09/24 22:02 | 7分（21:54→22:02） |
+| FirstSquawk | 191 | 09/24 10:03 | 09/24 22:02 | 25分（12:09→12:34） |
+| financialjuice | 103 | 09/24 10:03 | 09/24 22:02 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 288 行（統合前 297 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 304 行（統合前 313 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 09:52 [FirstSquawk] Australia condemns ‘unacceptable’ OpenAI breach of government health portal - SCMP
-- 09/24 09:56 [FirstSquawk] OpenAI breach had minor impact, Australia Defence Minister says
-- 09/24 09:58 [FirstSquawk] OpenAI cooperating with Australian government over breach, Defence Minister says
-- 09/24 10:01 [financialjuice] Taiwan overnight interbank rate starts at 0.804% (unchanged from prior session)
-- 09/24 10:01 [FirstSquawk] Taiwan overnight rate steady at 0.804% at the start of the session
-- 09/24 10:02 [FirstSquawk] Oil industry leaders launched a contingency plan to oppose restrictions on U.S. diesel exports, WSJ says
 - 09/24 10:03 [FirstSquawk] Pakistan Information Minister: Air and drone strikes hit 10 locations in Afghanistan on Sept. 23
 - 09/24 10:03 [financialjuice] Pakistan information minister: conducted aerial and drone attacks on 10 Afghan sites used for launching and storing drones on Sept. 23
 - 09/24 10:04 [FirstSquawk] Honda brings forward next-gen hybrid production amid EV strategy revamp - NA
@@ -312,3 +306,25 @@
 - 09/24 21:48 [FirstSquawk] FED'S BARKIN SAYS INFLATION'S PERSISTENCE CLEARER THIS SUMMER
 - 09/24 21:48 [financialjuice] Russian economy ministry sees Urals oil price at $53/bbl in 2027 (previous forecast: $50/bbl).
 - 09/24 21:48 [financialjuice] Fed's Barkin: Inflation's persistence is clearer this summer.
+- 09/24 21:51 [financialjuice] Fed's Barkin: The labor market is stable, but new job growth remains slow.
+- 09/24 21:51 [DeItaone] BARKIN: INFLATION'S PERSISTENCE IS CLEARER THIS SUMMER
+- 09/24 21:53 [FirstSquawk] FED’S BARKIN: LABOR MARKET STABLE BUT NEW JOB GROWTH REMAINS SLOW
+- 09/24 21:53 [FirstSquawk] FED'S HAMMACK SAYS PRICE STABILITY IS RESPONSIBILITY OF CENTRAL BANKS
+- 09/24 21:54 [DeItaone] FED'S HAMMACK: INFLATION RISK TILTED TOWARD UPSIDE
+- 09/24 21:54 [financialjuice] Fed's Hammack: Inflation remains elevated amid solid output demand.
+- 09/24 21:54 [financialjuice] Fed's Hammack: Inflation risk is tilted toward upside
+- 09/24 21:54 [financialjuice] Fed's Hammack: Supply shocks are a notable challenge for fed policy right now.
+- 09/24 21:55 [financialjuice] Fed's Hammack: The longer inflation remains high, the harder it is to bring it back to target
+- 09/24 21:55 [FirstSquawk] HAMMACK: INFLATION REMAINS ELEVATED AMID SOLID OUTPUT DEMAND
+- 09/24 21:55 [FirstSquawk] HAMMACK: INFLATION RISK TILTED TOWARD UPSIDE
+- 09/24 21:56 [FirstSquawk] HAMMACK: SUPPLY SHOCKS A NOTABLE CHALLENGE FOR FED POLICY RIGHT NOW
+- 09/24 21:56 [FirstSquawk] HAMMACK: THE LONGER INFLATION REMAINS HIGH, THE HARDER IT IS TO BRING IT BACK TO TARGET
+- 09/24 21:56 [financialjuice] Fed's Hammack: The labor market remains close to maximum employment.
+- 09/24 21:56 [financialjuice] Fed's Hammack: Inflation outlook remains highly uncertain
+- 09/24 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 23 vs 3.88% September 22.
+- 09/24 22:01 [FirstSquawk] AMAZON TO SPEND ~$100M ON ROBOTICS-MANUFACTURING FACILITY: WSJ
+- 09/24 22:01 [FirstSquawk] AMAZON TO OPEN OVER $100M ROBOTICS PLANT IN INDIANA: WSJ
+- 09/24 22:01 [FirstSquawk] POLISH AIR FORCE ENDS OPERATIONS RELATED TO RUSSIAN STRIKES ON UKRAINE
+- 09/24 22:02 [DeItaone] GOOGLE, OPENAI AND ANTHROPIC AI SAFETY GROUP TAKES SHAPE- THE INFORMATION
+- 09/24 22:02 [financialjuice] Google, OpenAI, and Anthropic's AI Safety Group takes shape - The Information. $GOOGL
+- 09/24 22:02 [FirstSquawk] GOOGLE, OPENAI AND ANTHROPIC AI SAFETY GROUP TAKES SHAPE – INFORMATION

@@ -7,28 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 21:50 JST／対象: 09/23 21:50 〜 09/24 21:50 JST（時刻はすべて日本時間）
+生成: 2026-09-24 22:03 JST／対象: 09/23 22:03 〜 09/24 22:03 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 81 | 09/23 21:51 | 09/24 21:46 | ⚠ 935分（05:51→21:26） |
-| FirstSquawk | 352 | 09/23 21:53 | 09/24 21:48 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 295 | 09/23 21:53 | 09/24 21:48 | ⚠ 108分（15:47→17:36） |
+| DeItaone | 82 | 09/23 22:16 | 09/24 22:02 | ⚠ 935分（05:51→21:26） |
+| FirstSquawk | 360 | 09/23 22:07 | 09/24 22:02 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 302 | 09/23 22:03 | 09/24 22:02 | ⚠ 108分（15:47→17:36） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 706 行（統合前 731 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 723 行（統合前 747 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 21:51 [DeItaone] U.S. DIESEL EXPORT BAN COULD DEEPEN GLOBAL SHORTAGE A potential U.S. diesel export ban would hit Latin America and Europe hardest, Capital Economics warns. Higher U.S. exports this year have offset roughly half the global supply losses caus…
-- 09/23 21:53 [DeItaone/financialjuice] PUTIN I'M SURE THAT THE SPECIAL MILITARY OPERATION'S GOALS WILL BE ACHIEVED
-- 09/23 21:53 [FirstSquawk] PUTIN APPEALING TO THE ARMY SERVICEMEN: THE VOTE IS FOR YOU
-- 09/23 21:58 [FirstSquawk] PUTIN: THERE WERE ATTEMPTS TO OBSTRUCT THE ELECTIONS, BUT IT IS IMPOSSIBLE TO INTIMIDATE RUSSIA
-- 09/23 22:00 [financialjuice] Effective fed funds rate 3.88% September 22nd vs 3.88% September 21st
 - 09/23 22:03 [financialjuice] UAE central bank imposes sanctions on branches of Bank Melli Iran.
 - 09/23 22:06 [financialjuice/FirstSquawk] Supermicro now shipping NVIDIA Vera Rubin NVL72 racks.
 - 09/23 22:07 [FirstSquawk] AMAZON ROLLS OUT NEW AGENTIC AI FOR THIRD-PARTY SELLERS
@@ -730,3 +725,25 @@
 - 09/24 21:48 [FirstSquawk] FED'S BARKIN SAYS INFLATION'S PERSISTENCE CLEARER THIS SUMMER
 - 09/24 21:48 [financialjuice] Russian economy ministry sees Urals oil price at $53/bbl in 2027 (previous forecast: $50/bbl).
 - 09/24 21:48 [financialjuice] Fed's Barkin: Inflation's persistence is clearer this summer.
+- 09/24 21:51 [financialjuice] Fed's Barkin: The labor market is stable, but new job growth remains slow.
+- 09/24 21:51 [DeItaone] BARKIN: INFLATION'S PERSISTENCE IS CLEARER THIS SUMMER
+- 09/24 21:53 [FirstSquawk] FED’S BARKIN: LABOR MARKET STABLE BUT NEW JOB GROWTH REMAINS SLOW
+- 09/24 21:53 [FirstSquawk] FED'S HAMMACK SAYS PRICE STABILITY IS RESPONSIBILITY OF CENTRAL BANKS
+- 09/24 21:54 [DeItaone] FED'S HAMMACK: INFLATION RISK TILTED TOWARD UPSIDE
+- 09/24 21:54 [financialjuice] Fed's Hammack: Inflation remains elevated amid solid output demand.
+- 09/24 21:54 [financialjuice] Fed's Hammack: Inflation risk is tilted toward upside
+- 09/24 21:54 [financialjuice] Fed's Hammack: Supply shocks are a notable challenge for fed policy right now.
+- 09/24 21:55 [financialjuice] Fed's Hammack: The longer inflation remains high, the harder it is to bring it back to target
+- 09/24 21:55 [FirstSquawk] HAMMACK: INFLATION REMAINS ELEVATED AMID SOLID OUTPUT DEMAND
+- 09/24 21:55 [FirstSquawk] HAMMACK: INFLATION RISK TILTED TOWARD UPSIDE
+- 09/24 21:56 [FirstSquawk] HAMMACK: SUPPLY SHOCKS A NOTABLE CHALLENGE FOR FED POLICY RIGHT NOW
+- 09/24 21:56 [FirstSquawk] HAMMACK: THE LONGER INFLATION REMAINS HIGH, THE HARDER IT IS TO BRING IT BACK TO TARGET
+- 09/24 21:56 [financialjuice] Fed's Hammack: The labor market remains close to maximum employment.
+- 09/24 21:56 [financialjuice] Fed's Hammack: Inflation outlook remains highly uncertain
+- 09/24 22:00 [financialjuice] Effective Fed Funds Rate 3.88% September 23 vs 3.88% September 22.
+- 09/24 22:01 [FirstSquawk] AMAZON TO SPEND ~$100M ON ROBOTICS-MANUFACTURING FACILITY: WSJ
+- 09/24 22:01 [FirstSquawk] AMAZON TO OPEN OVER $100M ROBOTICS PLANT IN INDIANA: WSJ
+- 09/24 22:01 [FirstSquawk] POLISH AIR FORCE ENDS OPERATIONS RELATED TO RUSSIAN STRIKES ON UKRAINE
+- 09/24 22:02 [DeItaone] GOOGLE, OPENAI AND ANTHROPIC AI SAFETY GROUP TAKES SHAPE- THE INFORMATION
+- 09/24 22:02 [financialjuice] Google, OpenAI, and Anthropic's AI Safety Group takes shape - The Information. $GOOGL
+- 09/24 22:02 [FirstSquawk] GOOGLE, OPENAI AND ANTHROPIC AI SAFETY GROUP TAKES SHAPE – INFORMATION
