@@ -7,33 +7,24 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 09:07 JST／対象: 09/24 03:07 〜 09/24 09:07 JST（時刻はすべて日本時間）
+生成: 2026-09-24 09:31 JST／対象: 09/24 03:31 〜 09/24 09:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 5 | 09/24 03:21 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 61 | 09/24 03:08 | 09/24 09:04 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 72 | 09/24 03:14 | 09/24 09:00 | 42分（05:39→06:22） |
+| DeItaone | 2 | 09/24 05:25 | 09/24 05:51 | 25分（05:25→05:51） |
+| FirstSquawk | 67 | 09/24 03:33 | 09/24 09:27 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 73 | 09/24 03:32 | 09/24 09:30 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 136 行（統合前 139 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 140 行（統合前 142 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 03:08 [FirstSquawk] U.S. CENTRAL COMMAND SAYS THAT AS OF SEPT. 23, CENTCOM FORCES HAVE REDIRECTED 115 COMMERCIAL VESSELS TO MAINTAIN STRICT ENFORCEMENT OF AMERICA'S 'STEEL WALL' BLOCKADE
-- 09/24 03:09 [FirstSquawk] ALPHABET’S GOOGLE IS EXPANDING GOOGLE BEAM WITH NEW REGIONS, PARTNERS AND CUSTOMERS, WITH THE AI-POWERED VIDEO COMMUNICATION SYSTEM SHIPPING TO SIX COUNTRIES INCLUDING THE U.S., CANADA, U.K., FRANCE, GERMANY AND JAPAN.
-- 09/24 03:09 [FirstSquawk] GOOGLE BEAM WILL ALSO BE AVAILABLE AT INDUSTRIOUS COWORKING LOCATIONS STARTING IN OCTOBER, WITH INITIAL DEPLOYMENTS IN ATLANTA, CHICAGO, NEW YORK CITY AND PALO ALTO.
-- 09/24 03:14 [financialjuice] Spain's PM Sanchez: EU needs to reduce its dependency on China.
-- 09/24 03:21 [DeItaone] TRUMP PRESSES VENEZUELA TO KEEP OIL FLOWING President Trump emphasized continued Venezuelan oil flows during his first meeting with acting President Delcy Rodriguez, Axios reports. Trump did not demand a date for future elections but stress…
-- 09/24 03:30 [DeItaone] HASSETT QUESTIONS FED'S DECISION TO HIKE RATES
-- 09/24 03:30 [DeItaone] HASSETT SAYS WARSH MANAGES UNUSUALLY PARTISAN FEDERAL RESERVE
-- 09/24 03:31 [financialjuice] NYMEX WTI Crude Nov. futures settle at $92.16 a barrel up $1.64, 1.81%
-- 09/24 03:31 [financialjuice] NYMEX gasoline Oct. futures settle at $3.5870 a gallon
-- 09/24 03:31 [financialjuice] NYMEX Diesel Oct. futures settle at $4.7764 a gallon
+- 09/24 03:32 [financialjuice] NYMEX Gasoline Oct. futures settle at $3.5870 a gallon
 - 09/24 03:33 [FirstSquawk] ANTHROPIC LAUNCHES NEW LIFE SCIENCES RESEARCH GROUP & LABORATORY
 - 09/24 03:34 [FirstSquawk] SPAIN PM SANCHEZ BACKS DE COS FOR NEXT ECB PRESIDENT; SAYS EU MUST REDUCE DEPENDENCY ON CHINA
 - 09/24 03:34 [FirstSquawk] US CRUDE OIL FUTURES SETTLE 1.81% HIGHER AT $92.16/BBL, UP $1.64
@@ -160,3 +151,16 @@
 - 09/24 09:02 [FirstSquawk] CHINA'S XI SAYS 'THE HISTORICAL LOGIC OF PEACEFUL COEXISTENCE BETWEEN CHINA AND THE U.S. HAS NOT CHANGED' AND THAT HE IS CONFIDENT THE TWO CAN 'FIND THE RIGHT WAY TO GET ALONG IN THE NEW ERA', SAYING THEY 'SHOULD BE PARTNERS, NOT RIVALS'.
 - 09/24 09:03 [FirstSquawk] CHINA'S XI SAYS CHINA AND THE U.S. SHOULD 'WORK IN THE SAME DIRECTION' TO PROMOTE A STABLE RELATIONSHIP 'FEATURING COOPERATION AS THE MAINSTAY, MODERATE COMPETITION, MANAGEABLE DIFFERENCES' AND 'PROMISES OF PEACE' - XINHUA
 - 09/24 09:04 [FirstSquawk] 30-year Japanese government bond yield jumps 5.5 bps to 4.125%
+- 09/24 09:09 [FirstSquawk] Australia’s ASX 200 slides 1.3% to 8,655.40 points at open
+- 09/24 09:14 [financialjuice] China PBOC likely to set yuan midpoint at 6.7184 per dollar: Estimate
+- 09/24 09:18 [FirstSquawk] EIGHT U.S. NAVY SAILORS ASSIGNED TO THE USS ABRAHAM LINCOLN CARRIER STRIKE GROUP ATTEMPTED SUICIDE DURING A DEPLOYMENT THAT INCLUDED COMBAT OPERATIONS AGAINST IRAN, ACCORDING TO ACTING NAVY SECRETARY HUNG CAO, WITH THE FIGURE COVERING SAILO…
+- 09/24 09:18 [FirstSquawk] NO SAILORS DIED BY SUICIDE DURING THE DEPLOYMENT, WHICH INVOLVED 6,000-7,000 PERSONNEL AND KEPT THE CARRIER AT SEA FOR MORE THAN SIX MONTHS - CNN
+- 09/24 09:20 [financialjuice] Japan's finance ministry to consider cutting issuance in liquidity-enhancement auctions for medium-term JGBs, sources say
+- 09/24 09:22 [FirstSquawk] Japan’s Finance Ministry may discuss lower issuance of medium-term JGBs in liquidity-enhancement auctions, Reuters reports
+- 09/24 09:23 [FirstSquawk] Trump welcomes Xi Jinping at airport as Chinese president arrives for U.S. state visit
+- 09/24 09:25 [FirstSquawk] OPENAI IS LAUNCHING MENTALHEALTHBENCH, AN OPEN BENCHMARK DESIGNED TO EVALUATE HOW AI SYSTEMS RESPOND TO REALISTIC MENTAL-HEALTH CONVERSATIONS AND PROVIDE A STANDARDIZED WAY TO COMPARE PERFORMANCE. THE BENCHMARK COVERS ADULTS, TEENAGERS, CAR…
+- 09/24 09:26 [FirstSquawk] JAPAN’S 10-YEAR JGB YIELD SURGES 8.0 BPS TO 3.055%, HIGHEST SINCE SEPTEMBER 1996
+- 09/24 09:26 [FirstSquawk] Asia-Pac equities mixed at the open as Japanese markets reopen after long weekend
+- 09/24 09:27 [FirstSquawk] 10-year Japanese government bond yield jumps 8 bps to 3.055%, hits 30-year high
+- 09/24 09:30 [financialjuice] JAPANESE MFG PMI FLASH ACTUAL 54.1 (FORECAST -, PREVIOUS 54.9) $MACRO
+- 09/24 09:30 [financialjuice] JAPANESE COMPOSITE PMI FLASH ACTUAL 52.5 (FORECAST -, PREVIOUS 53.5) $MACRO

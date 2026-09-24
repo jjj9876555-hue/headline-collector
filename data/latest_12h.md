@@ -7,29 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 09:07 JST／対象: 09/23 21:07 〜 09/24 09:07 JST（時刻はすべて日本時間）
+生成: 2026-09-24 09:31 JST／対象: 09/23 21:31 〜 09/24 09:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 67 | 09/23 21:25 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 155 | 09/23 21:16 | 09/24 09:04 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 200 | 09/23 21:10 | 09/24 09:00 | 42分（05:39→06:22） |
+| DeItaone | 66 | 09/23 21:44 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 161 | 09/23 21:35 | 09/24 09:27 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 201 | 09/23 21:48 | 09/24 09:30 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 407 行（統合前 425 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 414 行（統合前 431 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 21:10 [financialjuice] Morning Juice - US Session Prep (23rd September)
-- 09/23 21:16 [FirstSquawk] STERLING FALLS AS MUCH AS 0.5% TO $1.3273, LOWEST SINCE JULY 1
-- 09/23 21:22 [financialjuice] BofA's Demare: Continued strength in macroeconomic backdrop
-- 09/23 21:23 [FirstSquawk/DeItaone] BOFA'S DEMARE: 3Q WILL NOT BE AS ROBUST IN MARKETS AS 2Q WAS
-- 09/23 21:24 [financialjuice] BofA's Demare: Q3 will not be as robust in markets as Q2 was
-- 09/23 21:28 [FirstSquawk] BOFA'S CO-PRES DEMARE: CONTINUED STRENGTH IN MACROECONOMIC BACKDROP
 - 09/23 21:35 [FirstSquawk] RUSSIAN GUIDED BOMB ATTACK IN OLEKSANDRIVKA, DONETSK, KILLED FOUR AND INJURED FOUR, DESTROYING A MULTI-STORY BUILDING.
 - 09/23 21:44 [DeItaone] DEMOCRATS HOLD 12-POINT MIDTERM EDGE IN NEW POLL Democrats lead Republicans 53% to 41% among registered voters in the latest NPR/PBS News/Marist poll. Trump’s approval stands at 39%, while 59% disapprove. 45% of voters say their congression…
 - 09/23 21:46 [FirstSquawk] CANADIAN PM CARNEY COMMENTS ON TRUMP'S CALL TO 'ANNIHILATE' IRAN, STATING 'HE'S USING WAR LANGUAGE.'
@@ -431,3 +425,16 @@
 - 09/24 09:02 [FirstSquawk] CHINA'S XI SAYS 'THE HISTORICAL LOGIC OF PEACEFUL COEXISTENCE BETWEEN CHINA AND THE U.S. HAS NOT CHANGED' AND THAT HE IS CONFIDENT THE TWO CAN 'FIND THE RIGHT WAY TO GET ALONG IN THE NEW ERA', SAYING THEY 'SHOULD BE PARTNERS, NOT RIVALS'.
 - 09/24 09:03 [FirstSquawk] CHINA'S XI SAYS CHINA AND THE U.S. SHOULD 'WORK IN THE SAME DIRECTION' TO PROMOTE A STABLE RELATIONSHIP 'FEATURING COOPERATION AS THE MAINSTAY, MODERATE COMPETITION, MANAGEABLE DIFFERENCES' AND 'PROMISES OF PEACE' - XINHUA
 - 09/24 09:04 [FirstSquawk] 30-year Japanese government bond yield jumps 5.5 bps to 4.125%
+- 09/24 09:09 [FirstSquawk] Australia’s ASX 200 slides 1.3% to 8,655.40 points at open
+- 09/24 09:14 [financialjuice] China PBOC likely to set yuan midpoint at 6.7184 per dollar: Estimate
+- 09/24 09:18 [FirstSquawk] EIGHT U.S. NAVY SAILORS ASSIGNED TO THE USS ABRAHAM LINCOLN CARRIER STRIKE GROUP ATTEMPTED SUICIDE DURING A DEPLOYMENT THAT INCLUDED COMBAT OPERATIONS AGAINST IRAN, ACCORDING TO ACTING NAVY SECRETARY HUNG CAO, WITH THE FIGURE COVERING SAILO…
+- 09/24 09:18 [FirstSquawk] NO SAILORS DIED BY SUICIDE DURING THE DEPLOYMENT, WHICH INVOLVED 6,000-7,000 PERSONNEL AND KEPT THE CARRIER AT SEA FOR MORE THAN SIX MONTHS - CNN
+- 09/24 09:20 [financialjuice] Japan's finance ministry to consider cutting issuance in liquidity-enhancement auctions for medium-term JGBs, sources say
+- 09/24 09:22 [FirstSquawk] Japan’s Finance Ministry may discuss lower issuance of medium-term JGBs in liquidity-enhancement auctions, Reuters reports
+- 09/24 09:23 [FirstSquawk] Trump welcomes Xi Jinping at airport as Chinese president arrives for U.S. state visit
+- 09/24 09:25 [FirstSquawk] OPENAI IS LAUNCHING MENTALHEALTHBENCH, AN OPEN BENCHMARK DESIGNED TO EVALUATE HOW AI SYSTEMS RESPOND TO REALISTIC MENTAL-HEALTH CONVERSATIONS AND PROVIDE A STANDARDIZED WAY TO COMPARE PERFORMANCE. THE BENCHMARK COVERS ADULTS, TEENAGERS, CAR…
+- 09/24 09:26 [FirstSquawk] JAPAN’S 10-YEAR JGB YIELD SURGES 8.0 BPS TO 3.055%, HIGHEST SINCE SEPTEMBER 1996
+- 09/24 09:26 [FirstSquawk] Asia-Pac equities mixed at the open as Japanese markets reopen after long weekend
+- 09/24 09:27 [FirstSquawk] 10-year Japanese government bond yield jumps 8 bps to 3.055%, hits 30-year high
+- 09/24 09:30 [financialjuice] JAPANESE MFG PMI FLASH ACTUAL 54.1 (FORECAST -, PREVIOUS 54.9) $MACRO
+- 09/24 09:30 [financialjuice] JAPANESE COMPOSITE PMI FLASH ACTUAL 52.5 (FORECAST -, PREVIOUS 53.5) $MACRO

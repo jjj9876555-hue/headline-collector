@@ -7,33 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近24時間
-生成: 2026-09-24 09:07 JST／対象: 09/23 09:07 〜 09/24 09:07 JST（時刻はすべて日本時間）
+生成: 2026-09-24 09:31 JST／対象: 09/23 09:31 〜 09/24 09:31 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 82 | 09/23 18:24 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 295 | 09/23 09:07 | 09/24 09:04 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 267 | 09/23 09:14 | 09/24 09:00 | ⚠ 73分（13:39→14:52） |
+| FirstSquawk | 296 | 09/23 09:35 | 09/24 09:27 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 269 | 09/23 10:01 | 09/24 09:30 | ⚠ 73分（13:39→14:52） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 625 行（統合前 647 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 628 行（統合前 650 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/23 09:07 [FirstSquawk] US SECRETARY OF STATE RUBIO TO MEET RUSSIAN FM LAVROV IN NEW YORK AT 9 AM ET WEDNESDAY — SOURCES
-- 09/23 09:08 [FirstSquawk] AUSTRALIA’S S&P/ASX 200 RISES 0.3% TO 8,781.60 POINTS IN EARLY TRADE
-- 09/23 09:09 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS ON ISRAEL THAT 'WE STAND WITH ISRAEL IN THE FACE OF THE ONGOING THREATS, INCLUDING FROM IRAN, AGAINST ISRAEL AND JEWISH PEOPLE AROUND THE WORLD', BUT THAT 'THIS DOES NOT JUSTIFY THE ISRAELI GOVERNMENT'S A…
-- 09/23 09:09 [FirstSquawk] UK PRIME MINISTER ANDY BURNHAM SAYS 'WE WANT TO SEE THE SUFFERING AND DEATH FINALLY COME TO AN END' AND 'ISRAELI AND PALESTINIAN PEOPLE LIVING SIDE BY SIDE IN PEACE AND SECURITY', ADDING THAT 'WE WILL DO ALL WE CAN TO KEEP THE HOPE OF THAT …
-- 09/23 09:14 [financialjuice] China PBOC forecast to fix yuan midpoint at 6.6971 per dollar: estimate
-- 09/23 09:15 [financialjuice] Wife of US seismologist detained in China says she has been assured Trump will ask Xi to free him
-- 09/23 09:15 [FirstSquawk] U.S. seismologist’s wife says Trump will ask Xi to secure his release from China
-- 09/23 09:23 [FirstSquawk] POLISH PRESIDENT NAWROCKI SAYS THAT 'WHEN THE WORK IS FINISHED, TRUMP WILL PERSONALLY BE ABLE TO PARTICIPATE IN THE INAUGURATION OF FORT TRUMP, WHICH IS GOING TO TAKE PLACE IN POLAND', ADDING THAT 'TRUMP IS FAMOUS FOR KEEPING HIS WORD'.
-- 09/23 09:23 [FirstSquawk] POLISH PRESIDENT NAWROCKI SAYS ON FORT TRUMP THAT 'POLAND IS PAYING FOR ITS SECURITY' AND FOR 'THE STAY OF AMERICAN TROOPS IN POLAND', CALLING IT 'A VERY GOOD SOLUTION BECAUSE WE KNOW WHAT WE ARE PAYING FOR'.
-- 09/23 09:26 [FirstSquawk] Asian-Pacific U.S. equity futures remained broadly steady late Tuesday, with oil prices and bond yields easing amid hopes of a potential U.S.-Iran de-escalation.
 - 09/23 09:35 [FirstSquawk] Gold gains as markets focus on easing oil prices - WSJ
 - 09/23 09:35 [FirstSquawk] U.S. crackdown threatens Americans’ access to low-cost Canadian prescriptions - WSJ
 - 09/23 09:42 [FirstSquawk] WTI crude falls toward $89 amid focus on Trump’s UN speech - FX
@@ -649,3 +639,16 @@
 - 09/24 09:02 [FirstSquawk] CHINA'S XI SAYS 'THE HISTORICAL LOGIC OF PEACEFUL COEXISTENCE BETWEEN CHINA AND THE U.S. HAS NOT CHANGED' AND THAT HE IS CONFIDENT THE TWO CAN 'FIND THE RIGHT WAY TO GET ALONG IN THE NEW ERA', SAYING THEY 'SHOULD BE PARTNERS, NOT RIVALS'.
 - 09/24 09:03 [FirstSquawk] CHINA'S XI SAYS CHINA AND THE U.S. SHOULD 'WORK IN THE SAME DIRECTION' TO PROMOTE A STABLE RELATIONSHIP 'FEATURING COOPERATION AS THE MAINSTAY, MODERATE COMPETITION, MANAGEABLE DIFFERENCES' AND 'PROMISES OF PEACE' - XINHUA
 - 09/24 09:04 [FirstSquawk] 30-year Japanese government bond yield jumps 5.5 bps to 4.125%
+- 09/24 09:09 [FirstSquawk] Australia’s ASX 200 slides 1.3% to 8,655.40 points at open
+- 09/24 09:14 [financialjuice] China PBOC likely to set yuan midpoint at 6.7184 per dollar: Estimate
+- 09/24 09:18 [FirstSquawk] EIGHT U.S. NAVY SAILORS ASSIGNED TO THE USS ABRAHAM LINCOLN CARRIER STRIKE GROUP ATTEMPTED SUICIDE DURING A DEPLOYMENT THAT INCLUDED COMBAT OPERATIONS AGAINST IRAN, ACCORDING TO ACTING NAVY SECRETARY HUNG CAO, WITH THE FIGURE COVERING SAILO…
+- 09/24 09:18 [FirstSquawk] NO SAILORS DIED BY SUICIDE DURING THE DEPLOYMENT, WHICH INVOLVED 6,000-7,000 PERSONNEL AND KEPT THE CARRIER AT SEA FOR MORE THAN SIX MONTHS - CNN
+- 09/24 09:20 [financialjuice] Japan's finance ministry to consider cutting issuance in liquidity-enhancement auctions for medium-term JGBs, sources say
+- 09/24 09:22 [FirstSquawk] Japan’s Finance Ministry may discuss lower issuance of medium-term JGBs in liquidity-enhancement auctions, Reuters reports
+- 09/24 09:23 [FirstSquawk] Trump welcomes Xi Jinping at airport as Chinese president arrives for U.S. state visit
+- 09/24 09:25 [FirstSquawk] OPENAI IS LAUNCHING MENTALHEALTHBENCH, AN OPEN BENCHMARK DESIGNED TO EVALUATE HOW AI SYSTEMS RESPOND TO REALISTIC MENTAL-HEALTH CONVERSATIONS AND PROVIDE A STANDARDIZED WAY TO COMPARE PERFORMANCE. THE BENCHMARK COVERS ADULTS, TEENAGERS, CAR…
+- 09/24 09:26 [FirstSquawk] JAPAN’S 10-YEAR JGB YIELD SURGES 8.0 BPS TO 3.055%, HIGHEST SINCE SEPTEMBER 1996
+- 09/24 09:26 [FirstSquawk] Asia-Pac equities mixed at the open as Japanese markets reopen after long weekend
+- 09/24 09:27 [FirstSquawk] 10-year Japanese government bond yield jumps 8 bps to 3.055%, hits 30-year high
+- 09/24 09:30 [financialjuice] JAPANESE MFG PMI FLASH ACTUAL 54.1 (FORECAST -, PREVIOUS 54.9) $MACRO
+- 09/24 09:30 [financialjuice] JAPANESE COMPOSITE PMI FLASH ACTUAL 52.5 (FORECAST -, PREVIOUS 53.5) $MACRO
