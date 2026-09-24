@@ -7,31 +7,23 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近12時間
-生成: 2026-09-24 12:04 JST／対象: 09/24 00:04 〜 09/24 12:04 JST（時刻はすべて日本時間）
+生成: 2026-09-24 12:25 JST／対象: 09/24 00:25 〜 09/24 12:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
-| DeItaone | 22 | 09/24 00:11 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
-| FirstSquawk | 159 | 09/24 00:08 | 09/24 12:01 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 141 | 09/24 00:17 | 09/24 11:33 | 42分（05:39→06:22） |
+| DeItaone | 21 | 09/24 00:43 | 09/24 05:51 | ⚠ 114分（03:30→05:25） |
+| FirstSquawk | 155 | 09/24 00:26 | 09/24 12:09 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 138 | 09/24 00:27 | 09/24 11:33 | 42分（05:39→06:22） |
 
 - 今回の取得: Telegramミラー 3/3
-- 統合後 318 行（統合前 323 件）。同文は1行にまとめ、アカウントを併記しています
+- 統合後 311 行（統合前 315 件）。同文は1行にまとめ、アカウントを併記しています
 - ⚠ は 45 分超の空白（欠落の可能性）。週末・米国夜間は自然に空きます
 
 ## COMEX金先物 建玉
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 00:08 [FirstSquawk] US SEC. OF STATE RUBIO: APEC AND G20 WILL BE OPPORTUNITIES FOR TRUMP TO INTERACT WITH CHINA
-- 09/24 00:11 [DeItaone] ARGENTINE PRESIDENT JAVIER MILEI SAYS THE UN HAS BECOME A “USELESS ORGANIZATION”
-- 09/24 00:13 [FirstSquawk] MCDONALD'S NET NEW UNIT GROWTH SEEN AT APPROX. 4.5% IN 2027
-- 09/24 00:17 [financialjuice/FirstSquawk] IIF: Emerging market debt jumps $6.5 trillion to more than $110 trillion in H1, led by China.
-- 09/24 00:17 [financialjuice] IIF: Global debt tops record $365 trillion in first half of 2026, emerging markets drive bulk of rise.
-- 09/24 00:18 [FirstSquawk] GLOBAL DEBT TOPS RECORD $365 TRILLION IN FIRST HALF OF 2026, EMERGING MARKETS DRIVE BULK OF RISE, SAYS IIF
-- 09/24 00:18 [financialjuice] US Secretary of State Rubio ends remarks to reporters.
-- 09/24 00:22 [FirstSquawk] MCDONALD'S SHARES EXTEND LOSSES, LAST DOWN 5.2%
 - 09/24 00:26 [FirstSquawk] GOOGLE LAUNCHES GEMINI 3.8 FLASH TTS AUDIO MODELS
 - 09/24 00:27 [financialjuice] US-EU Ambassador Puzder: We discussed Chinese overcapacity with EU's Sefcovic.
 - 09/24 00:28 [FirstSquawk] FRANCE FOREIGN MINISTER BARROT: RUSSIA IS ATTACKING THE WHOLE OF EUROPE
@@ -342,3 +334,4 @@
 - 09/24 11:47 [FirstSquawk] Honda plans nearly $2.5 billion hybrid vehicle plant in U.S.
 - 09/24 11:54 [FirstSquawk] AUD/JPY slips after mixed Australian jobs data
 - 09/24 12:01 [FirstSquawk] High costs challenge Thailand’s solar scheme as smaller users remain hesitant - SCMP
+- 09/24 12:09 [FirstSquawk] China drops two-thirds of planned coal power plants abroad - SCMP

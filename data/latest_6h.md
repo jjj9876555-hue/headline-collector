@@ -7,14 +7,14 @@
 > 比喩的・曖昧な相場表現は禁止。シナリオは「どの価格水準でどうなったら該当か」を数値条件で明示。数値が多く並ぶ比較は表形式にする。
 
 # ヘッドライン 直近6時間
-生成: 2026-09-24 12:04 JST／対象: 09/24 06:04 〜 09/24 12:04 JST（時刻はすべて日本時間）
+生成: 2026-09-24 12:25 JST／対象: 09/24 06:25 〜 09/24 12:25 JST（時刻はすべて日本時間）
 
 ## 取得状況
 | アカウント | 件数 | 最古 | 最新 | 最大空白 |
 |---|---|---|---|---|
 | DeItaone | 0 | - | - | - |
-| FirstSquawk | 79 | 09/24 06:44 | 09/24 12:01 | ⚠ 91分（06:44→08:16） |
-| financialjuice | 71 | 09/24 06:22 | 09/24 11:33 | 24分（09:36→10:01） |
+| FirstSquawk | 80 | 09/24 06:44 | 09/24 12:09 | ⚠ 91分（06:44→08:16） |
+| financialjuice | 70 | 09/24 06:32 | 09/24 11:33 | 24分（09:36→10:01） |
 
 - 今回の取得: Telegramミラー 3/3
 - 統合後 148 行（統合前 150 件）。同文は1行にまとめ、アカウントを併記しています
@@ -24,7 +24,6 @@
 - 取得できず（CME側で未掲載またはアクセス不可）。判定は保留。
 
 ## ヘッドライン（時刻順）
-- 09/24 06:22 [financialjuice] North Korea: conducted test launch of upgraded guided rocket artillery shells on Sept. 22 - KCNA
 - 09/24 06:32 [financialjuice] OpenAI: AI agent improperly accessed Australian government files; no evidence patient records were breached
 - 09/24 06:36 [financialjuice/FirstSquawk] Chinese President Xi Jinping arrives for state visit to U.S.: Xinhua
 - 09/24 06:39 [financialjuice] OpenAI: alerted services in Australia about incident on Sept. 10
@@ -172,3 +171,4 @@
 - 09/24 11:47 [FirstSquawk] Honda plans nearly $2.5 billion hybrid vehicle plant in U.S.
 - 09/24 11:54 [FirstSquawk] AUD/JPY slips after mixed Australian jobs data
 - 09/24 12:01 [FirstSquawk] High costs challenge Thailand’s solar scheme as smaller users remain hesitant - SCMP
+- 09/24 12:09 [FirstSquawk] China drops two-thirds of planned coal power plants abroad - SCMP
